@@ -19,14 +19,14 @@ M. DC LXIX.
       master 1 sous la direction de Georges Forestier (2012-2013)
 
 
-# Introduction
+# Introduction.
 
 Depuis le XVI*e* siècle les troupes théâtrales ambulantes se rendent à l'étranger. Elles y passent de quelques jours à plusieurs mois, mais il est rare qu'elles restent plus d'un an. Ces troupes sont très instables. Parmi les troupes nomades on distingue les troupes libres et les troupes protégées [1]. Le destin des dernières est plus assuré : elles ont des protecteurs comme le prince d'Orange, le prince du Parme, le duc d'Hanovre, et d'autres. Ces troupes protégées portent le nom de leur protecteur et peuvent toucher une pension.
 
 Les troupes françaises jouent souvent en Hollande, en Allemagne et en Belgique au XVII*e* siècle. Les « comédiens de campagne » y ont un grand succès : « … ils séjournent même régulièrement, reviennent chaque année et, à un public qui leur est fidèle, apportent les nouveautés qui sont jouées à l'Hôtel de Bourgogne et au Théâtre du Marais. Désormais ils n'ont plus de concurrents capables de leur ravir ce public … » [2]. Denis Clerselier de Nanteuil est un des représentants de ces « comédiens de campagne ». Sur son exemple nous voyons le destin des comédiens-auteurs contemporains de Molière.
 
 
-# Vie de Denis Clerselier de Nanteuil
+# Vie de Denis Clerselier de Nanteuil.
 
 Denis Clerselier de Nanteuil est un acteur-auteur qui vivait dans la deuxième moitié du XVII*e* siècle. Il est peu étudié. Durant les trois derniers siècles on ne trouve qu'une dizaine de chercheurs qui se sont intéressés à son œuvre, parmi lesquels Henry Carrington Lancaster, J. Fransen, Henri Liebrecht, Georges Mongrédien, Georges Monval. Le fait que Nanteuil soit resté presque inconnu en France s'explique par une seule raison : il a passé la plus grande partie de sa vie en Hollande.
 
@@ -66,7 +66,7 @@ Acteur, auteur et directeur de troupes de théâtre, Denis Clerselier de Nanteui
 Il a vécu en Provinces-Unies, en Belgique, en Allemagne et en province française. Il a été marié deux fois. Sa première épouse était Marthe (ou Martine) Lhomme, actrice, qui jouait avec Nanteuil de 1677 jusqu'à 1685 à Angoulême [16]. Sa deuxième épouse est l'actrice Marie Barois, ils se sont mariés en 1695. Elle joue dans la troupe de Nanteuil en 1697 à Angoulême [17].
 
 
-## Parcours de Nanteuil en Hollande, en Belgique et en Allemagne
+## Parcours de Nanteuil en Hollande, en Belgique et en Allemagne.
 
 Pour la première fois nous trouvons Denis Clerselier de Nanteuil en 1667, à l'âge de 17 ans, dans la troupe de Charles, dit l'Espérance, ancien comédien de la troupe du Prince d'Orange. Ils jouent à Lyon et à Marseille [18]. Le 9 août 1668 Denis Clerselier est à Bruxelles dans la troupe d'Abraham Mitallat, Sieur de la Source, (originaire de Metz, comédien de la troupe des « Comédiens de M*lle* d'Orléans »). À Bruxelles ils ont signé un contrat « avec Martin Van den Nesse, maître brasseur, pour louer la salle de la Montagne Sainte-Elisabeth, bail valable de la date de passation à la Pentecôte de l'année 1669. » [19] Le loyer pour cette salle était « 250 patacons » [20].
 
@@ -91,7 +91,7 @@ Le 25 janvier 1681 la troupe du Prince de Parme quitte Bruxelles. Denis Nanteuil
 Lancaster nous apprend qu'en 1682 Nanteuil joue dans la Troupe Royale à Dijon [27]. Il y joue sous la protection du prince de Condé. En 1684 il revient de nouveau à Dijon. En 1685 il est à Angoulême.
 
 
-## Nanteuil dans les provinces françaises
+## Nanteuil dans les provinces françaises.
 
 Les trois actes notariés faits à Angoulême d'un côté sont la preuve de la présence de la troupe de Nanteuil en province française en 1685, et de l'autre côté, ils nous montrent le répertoire de cette troupe et les détails techniques de la construction du théâtre qui sont déterminés par les pièces que joue la troupe.
 
@@ -105,7 +105,7 @@ Le 15 mars 1686 Nanteuil entre dans la troupe du Dauphin. Dès le début de 1688
 Pour la dernière fois nous le trouvons à Grenoble en 1702 : « il est un des comédiens du roi à Grenoble; il y fait construire au début de 1702 un théâtre pour y jouer pendant la saison d'hiver » [32]. Ce sont les dernières informations qu'on a sur Nanteuil.
 
 
-# Analyse de la pièce L'Amour sentinelle ou le cadenas forcé
+# Analyse de la pièce L'Amour sentinelle ou le cadenas forcé.
 
 *L'Amour sentinelle ou le cadenas forcé* est la première pièce écrite par Denis Clerselier de Nanteuil. Il existe deux éditions de cette pièce : en 1669 et en 1672 à La Haye. Nous n'avons trouvé aucune information sur la représentation de *L'Amour sentinelle* au XVII*e* siècle, pourtant nous supposons que cette pièce a eu du succès, puisqu'elle a été éditée une deuxième fois en 1672.
 
@@ -115,7 +115,7 @@ Plusieurs historiens de la littérature française n'ont daté cette pièce que 
 La gloire sera grande pour moy, sans doute, si la premiere piece de theatre que j'ay mis en jour, peut plaire à un des plus illustres Princes de la terre, et si luy ayant consacré mon premier ouvrage je puis l'asseurer, que je suis avec un profond respect.
 
 
-## Sources de l'œuvre
+## Sources de l'œuvre.
 
 Dans toutes les pièces de Nanteuil Lancaster voit l'influence des écrivains célèbres de cette époque : « Plays seem to have been influenced either in plot or in certain details, by Scarron, Moliere, Racine, Chevalier, Boucher, La Forge, Quinault, and other dramatists. » [34] Selon lui, la source principale de la pièce *L'Amour sentinelle, ou le cadenas forcé* est la comédie *Champagne le Coiffeur* de Boucher: « The principal source is probably Boucher's *Champagne le Coiffeur*, for in each case the girl's father or guardian hires her lover and his valet to protect her and is advised by a neighbor, an elopement follows, the older man consents to the marriage, and the valet weds Lisette, the heroine's attendant. » [35]
 
@@ -174,7 +174,7 @@ Les deux pièces se terminent par le double mariage des maîtres et leurs domest
 
 
 
-## Influence de Molière
+## Influence de Molière.
 
 Nous observons l'influence du théâtre italien sur Nanteuil à travers les œuvres de Molière : il montre un intérêt constant pour les formes spectaculaires du théâtre, les lazzis, les danses, les ballets. Cet effort d'unir la chorégraphie à la comédie date de la même époque que la tentative de Molière. *Pourceaugnac* (1669) est de la même année que *L'Amour sentinelle* [40]. Sa première pièce rappelle par quelques épisodes *L'Ecole des Femmes* : un tuteur de sa pupille met à l'épreuve la fidélité de ses gardiens. … Une dispute parallèle entre maître et valets évoque *Le Dépit amoureux* ; mais le thème est constant au théâtre italien [41].
 
@@ -210,7 +210,7 @@ C'est là le seul moyen. (v. 164-166)
 Ces répliques nous renvoient à la première scène du premier acte de la pièce *Le Mariage forcé* : au début Géronimo, ami de Sganarelle, lui conseille de ne pas se marier : « Je ne vous conseille point de songer au mariage », mais à la fin de cette scène il a changé d'avis : « je vous conseille de vous marier le plus vite que vous pourrez  [43] ».
 
 
-## Résumé de la comédie acte par acte
+## Résumé de la comédie acte par acte.
 
 
 ### ACTE I.
@@ -225,14 +225,14 @@ Sur la scène apparaît Fabrice, marquis ridicule, avec son valet, Roguepine. Fa
 Fabrice et Roguepine, battus par les crocheteurs et rejetés dans la rue, sont en colère, ils discutent les moyens de se venger. Mais Roguepine a peur d'être battu encore une fois et il propose de se retirer de cette maison, qui ne leur procure rien de bien, car ce soir Florant doit épouser Isabelle. Après avoir mangé et bu, Clidamant et Croctin parlent des détails de leur projet. Lisette les rejoint et dit que sa Maîtresse est désespérée de devoir épouser Florant au lieu de Clidamant. Lisette raconte ce qui s'est passé avec le marquis Fabrice, battu par les crocheteurs de Florant. Tous les trois se cachent, car ils voient Florant s'approcher. Florant en réfléchissant à voix haute dit qu'il lui faudrait trouver quelqu'un qui gardera Isabelle. Ayant entendu cela Croctin apparaît et lui propose ses services. Florant explique qu'il faut garder une fille et ne pas permettre à Fabrice d'aller la voir. Croctin, content qu'il ne s'agisse pas de son maître, propose son camarade (Clidamant) pour l'aider à la garder et il demande à Lisette d'aller chercher des habits pour lui et Clidamant. Florant, heureux d'avoir trouvé ce brave garçon, va chez Fernant et lui raconte qu'il a trouvé deux garçons courageux pour garder Isabelle. Lisette apporte les habits pour qu'ils se déguisent.
 
 
-### ACTE III
+### ACTE III.
 
 Clidamant et Croctin déguisés vont chez Florant, et en route Croctin raconte à quel point il aime Lisette et qu'il participe à ce stratagème à cause d'elle. En arrivant chez Florant, Clidamant se présente comme Candasmes et dit qu'il garderait bien cette fille. Croctin à son tour promet de surveiller la porte pour que personne n'entre dans la maison. Florant les y laisse, et avec Fernant, ils décident de se déguiser pour vérifier si ces garçons gardent bien Isabelle. Croctin, ayant entendu à la porte leur conversation, raconte tout à Clidamant, Isabelle et Lisette. Croctin reste près de la porte pour rencontrer Florant et Fernant déguisés, qui se présentent comme les amis d'Isabelle. Croctin et Clidamant les font sortir avec des coups de bâton. Florant et Fernant battus, mais très contents que Croctin garde bien Isabelle, rentrent chez Fernant pour prendre leurs vêtements. Clidamant et Croctin avec leurs amoureuses se retirent vite de la maison de Florant. Clidamant et Isabelle, Croctin et Lisette parlent de leurs sentiments et se promettent l'un à l'autre, et, pour marquer son amour, Isabelle donne le bracelet de ses cheveux à Clidamant. En même temps, Florant et Fernant reviennent chez Florant et n'y trouvent personne. Tout en colère Florant pense que c'est le Marquis Ridicule qui l'a enlevée. Fernant essaie de le consoler.
 
 Cependant Carlos, page de Clidamant, apporte à Florant la lettre annonçant que c'est Clidamant qui gardait Isabelle et c'est lui qui l'a enlevée, et qu'il demande à Florant d'accepter leur alliance. D'abord Florant en furie dit qu'il veut les voir, mais après le départ de Carlos, il se calme et dit que son amour s'est passé. En arrivant Isabelle et Clidamant se jettent aux pieds de Florant pour qu'il leur permette de se marier. Il accepte leur mariage, mais tout de même pendant le ballet il parle à Clidamant pour l'empêcher de parler avec Isabelle devant lui. Après le ballet, tout le monde se retire. Lisette retient Croctin pour lui rappeler sa promesse de l'épouser et tous les deux partent pour se marier.
 
 
-## Structure de la pièce
+## Structure de la pièce.
 
 La pièce *L'Amour sentinelle* se compose de trois actes. Comme c'est le cas de la plupart des pièces au XVII*e* siècle, l'exposition dans *L'Amour sentinelle* commence à la première scène et se limite au premier acte [44]. Tous les personnages sont introduits au cours du premier acte, sauf Carlos, qui a un très petit rôle et qui n'apparaît que dans l'avant dernière scène de la pièce. Dans l'exposition, nous faisons connaissance avec les personnages et apprenons leurs relations et leurs intentions pour la future action. Selon une règle citée par Scherer dans *La Dramaturgie classique en France*, « l'exposition … doit être entière, courte, claire, intéressante et vraisemblable » [45]. Bien sûr, l'exposition de *L'Amour sentinelle* est loin d'être idéale, pourtant on peut considérer qu'elle répond à certaines de ces exigences. Occupant un acte ou quatre scènes de la pièce, elle est assez longue. Elle constitue une tiers de la pièce. Elle montre tous les personnages importants, donc elle est entière. Elle est claire car elle ne contient pas de récit d'événements complexes, ni de fausses informations sur les personnages. Cette exposition est intéressante, elle intrigue et donne envie de voir le dénouement de l'action. Nous comprenons que Clidamant et Fabrice ont décidé d'agir le même jour parce que ce jour-là Florant voulait épouser Isabelle, donc l'exposition reste vraisemblable.
 
@@ -265,7 +265,7 @@ Il faut souligner que dans la pièce il y a un certain parallélisme: la scène
 Nous observons encore une fois le parallélisme dans l'histoire d'amour des domestiques, Croctin et Lisette, et leurs maîtres, Clidamant et Isabelle. Cela se manifeste le plus dans la scène II de l'acte I, les scènes IV et IX de l'acte III, où les quatre amoureux s'échangent des répliques entrecroisées. Mais en même temps dans ce parallélisme on observe l'antithèse, car les mots doux des maîtres sont opposés à des répliques mordantes du valet et de la servante.
 
 
-## Les personnages
+## Les personnages.
 
 Au début du siècle, le théâtre français était riche en personnages secondaires, qui souvent n'apparaissaient qu'une fois dans la pièce ou qui avaient des rôles muets. Le nombre de personnages dans la pièce pouvait atteindre vingt rôles, même si dans la troupe il n'y avait pas autant de personnes. Mais ce nombre change dans la deuxième moitié du siècle, il diminue jusqu'à dix ou treize personnages. Les auteurs écrivent leurs pièces en prenant en compte la quantité de comédiens dans la troupe. Dans le cas où il y a plus de personnages que d'acteurs, les troupes peuvent prendre des gagistes ou parfois le même acteur doit jouer plusieurs rôles dans la même pièce (c'est notamment le cas pour le *Bourgeois Gentilhomme* pour la troupe de Molière) [54]. Dans le cas de la troupe de Nanteuil à Angoulême en 1685, il y a eu dix comédiens dans la troupe ainsi qu'en 1697 (voir l'annexes III et IV). Dans la pièce *L'Amour sentinelle ou le cadenas forcé*, nous observons neuf « acteurs » plus des crocheteurs, arlequins et danseurs, dont le nombre n'est pas précisé. Ces personnages n'ont pas la même importance et leur participation dans la pièce est différente. Un des personnages, Carlos, page de Clidamant, n'apparaît qu'une fois dans la comédie et il prononce seulement deux courtes répliques : « Monsieur je viens icy pour Monsieur Clidamant, / Vous porter ce billet. (v. 613-614) ; Son amour est extreme. (v. 615) ». Quant à Clidamant, le héros principal de la pièce, il participe à seize scènes sur vingt-quatre.
 
@@ -348,7 +348,7 @@ Nous pouvons faire une hypothèse que Nanteuil a ajouté ce personnage suivant c
 Fabrice se croit très beau et très attirant : « Ma perruque est jolie et mon point admirable, / Oui je suis un Marquis, mais tout à fait aimable, / J'ay du cœur. » (v. 191-193). Il décrit toutes ses qualités : « Mes canons sont fort bien, j'ay de plus du credit, / Bref en tout et par tout ma personne charmante / Pourra bien contenter ma Maistresse dolente. » (v. 194-196). Il insulte son valet Roguepine : « Approchez-vous, faquin. » (v. 169), « Vous tairez vous, maraut » (v. 302). **Roguepine** se moque de lui, mais Fabrice ne le comprend pas sauf quand Roguepine l'offense directement « *Fabrice*. / J'ay du cœur. / *Roguepine*. / Comme un bœuf vostre mere l'a dit. » (v. 193) ; « ô cervelle incurable » (v. 291) « J'aimerois mieux mourir que de me mettre en teste, / De servir un Marquis qui n'est rien qu'une beste, (v. 299-300).
 
 
-## Déguisement dans la pièce
+## Déguisement dans la pièce.
 
 Dans *L'Amour sentinelle ou le cadenas forcé* on peut relever deux grands déguisements : l'un de Clidamant et l'autre de Florant et Fernant. Selon la classification proposée par Georges Forestier dans *Esthétique de l'identité dans le théâtre français (1550-1680) Le déguisement et ses avatars* [60], dans cette pièce nous avons donné les caractéristiques suivantes à ces déguisements :
 
@@ -366,7 +366,7 @@ Donc dans la pièce nous voyons que Croctin devient complice de Clidamant devant
 On voit bien que Clidamant et Croctin ont beaucoup de plaisir à accueillir Florant et Fernant d'une façon si « chaleureuse ». Ils auraient pu libérer Isabelle et Lisette et partir avant l'arrivée du tuteur et de son voisin, mais ils ne peuvent se priver du plaisir de les battre : ils les ont attendus pour se venger d'une certaine manière et pour se moquer d'eux.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il existe deux éditions de la pièce *L'Amour sentinelle ou le Cadenas forcé* de Denis Clerselier de Nanteuil en 1669 et 1672 réalisées durant la vie de l'auteur. L'unique exemplaire de 1669 consultable à Paris figure dans un recueil factice dans la Bibliothèque nationale de France.
 
@@ -472,7 +472,7 @@ On peut supposer que dans l'exemplaire de l'édition de 1669 cette partie de tex
 Dans le même vers (v.302) on trouve une autre coquille : dans l'édition de 1669 la phrase  « Et bien soit **taisons nous**, » appartient à Roguepine, qui obéit à l'ordre de son maître, mais dans l'édition de 1672 c'est Fabrice qui dit cette phrase, ce qui crée la mécompréhension.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons conservé l'orthographe de l'édition originale, sauf quelques changements :
  * – nous avons modernisé « ∫ » en « s », « & » en « et » ; « i » et « u » en « j » et « v » ;
@@ -486,15 +486,15 @@ Toute la pièce est écrite en *alexandrins*, à l'exception de la lettre de Cli
 Dans le texte de la première édition il y a des cas où deux ou plusieurs mots sont écrits ensemble pour économiser la place et ne pas mettre quelques lettres à la ligne suivante à cause du souci du prix cher du papier au XVII*e* siècle: *tresconsiderable* (dédicace) ; contremoy (v.25) ; Deusseje (v. 31) ; tresjustement (v. 108) ; teintuny (v. 182) ; descoups (v. 189) ; boncadenats (v. 430), quantamoy (v. 447) ; pasdesgardes (v. 515).
 
 
-## Liste de rectifications
+## Liste de rectifications.
 
 
-### (Titre)
+### (Titre).
 
 cadenats ;
 
 
-### (Dédicace)
+### (Dédicace).
 
 *Prens ; aquittera ; la lecture que vous et ferés* ;
 
@@ -579,14 +579,14 @@ Scène IX.
 L'amour ma commandé (v. 582) ; Je ny resiste plus (v. 590) ;
 
 
-## Liste de rectifications dans la ponctuation
+## Liste de rectifications dans la ponctuation.
 
 Nous avons conservé la ponctuation de l'original sauf les cas où elle provoque l'incompréhension, ou dans le cas des coquilles.
 
 Nous avons gardé la virgule à la fin des certaines répliques des personnages, ce qui peut sembler étrange pour les lecteurs. Le relais des personnages qui parlent peut être marqué par une virgule dans les cas où elle « traduit soit la continuité de la parole quand le second protagoniste poursuit la phrase du premier, soit l'interruption quand le second protagoniste coupe le propos du premier. » [69]
 
 
-### (Dédicace)
+### (Dédicace).
 
 de me dire. Si c'est ;
 
@@ -663,7 +663,7 @@ Scène VII.
 Que j'ay de bons portiers cher voisin que je meure, (v. 555).
 
 
-## Écriture flottante
+## Écriture flottante.
 
 Au XVII*e* siècle l'orthographe n'était pas encore stable, ce qui a duré jusqu'à la première édition du Dictionnaire de l'Académie française en 1694. Cet état instable de l'orthographe permettait l'existence des variantes de mot. Dans le texte de la pièce nous avons trouvé les paires suivantes des mots :
 
@@ -697,7 +697,7 @@ aage (v. 90), feeslée (v. 604). « Elle Académie … élimine un grand nombre
 # L'AMOUR SENTINELLE OU LE CADENAS FORCÉ. COMEDIE.
 
 
-## A SON ALTESSE MONSEIGNEUR LE PRINCE D'ORANGE [72]
+## A SON ALTESSE MONSEIGNEUR LE PRINCE D'ORANGE [72].
 
 MONSEIGNEUR.
 
@@ -844,7 +844,7 @@ Mais je suis arresté, car je vois nostre amant⁎
 Plus malheureux que n'est ...  
 
 
-### SCENE II
+### SCENE II.
 Clidamant, Croctin, Isabelle, Lisette.
 
 
@@ -893,7 +893,7 @@ Je suis homme d'honneur, croyez moy sur ma foy,
     LISETTE.
 Tu crois l'estre, Croctin, mais tu te trompe.  
 
-    CROCTIN
+    CROCTIN.
                             Quoy,  
 Je te vois contre moy pousser ton eloquence,  
 Tu veux te gendarmer, voyant que la finance,  
@@ -935,7 +935,7 @@ Croctin fera l'affaire, usant du stratagesme ...
     CROCTIN.
 Ouy, vous pourrez vous veoir et vous parler tous deux.  
 
-    ISABELLE
+    ISABELLE.
 Et s'il en vient à bout : nous serons trop heureux,  
 Je luy feray du bien en luy donnant Lisette,  
 
@@ -983,7 +983,7 @@ Il suffit que je vois le fond⁎ de ce mistere,
 Mais quelqu'un vient, allons commencer nostre affaire.  
 
 
-### SCENE III
+### SCENE III.
 Florant, Fernant.
 
 
@@ -1066,7 +1066,7 @@ Le joly damoiseau⁎ qui la vient mugueter⁎,
 Il verra dés ce soir à quel point je me chausse⁎,  
 Si j'ay raison ou non, ou si la chose est fausse.  
 
-     FERNANT.
+    FERNANT.
 Tous vos emportements⁎ sont icy superflus,  
 Croyez vous qu'ils viendront vous parler la dessus.  
 
@@ -1151,7 +1151,7 @@ Escoutons les un peu.
 Florant, Fernant *Cachez dans la maison de* Florant. Fabrice, Roguepine.
 
 
-    FABRICE *appellant son valet.*
+    FABRICE *appellant son valet.*.
 Roguepine.  
 
     ROGUEPINE.
@@ -1263,15 +1263,15 @@ Attends moy, je m'en vais entrer chez cette belle.
     ROGUEPINE.
 Vous me faite plaisir,  
 
-    FLORANT
+    FLORANT.
 Dans la maison aux crocheteurs apres que Fabrice est entre.
 
                     Allons enfants poussez.  
 
-    FABRICE. *en sortant.*
+    FABRICE. *en sortant.*.
 Me maltraitter ainsy.  
 
-    ROGUEPINE *aux crocheteurs.*
+    ROGUEPINE *aux crocheteurs.*.
                     C'est mon Maistre rossez.  
 Les crocheteurs ayant mis dehors le Marquis se retirent, hors un, qui danse une entrée pour finir l'acte.
 < Fin du premier acte. > 
@@ -1359,7 +1359,7 @@ Puis quand je voy le fond⁎ du pretendu malheur,
 Mon dépit se retire et je n'ay plus de cœur,  
 Voilà comme est basty Monseigneur Roguepine.  
 
-    FABRICE. 
+    FABRICE.
 Ah ! Malheureux poltron ...  
 
     ROGUEPINE.
@@ -1371,7 +1371,7 @@ Si j'ay fort peu de cœur vous, vous n'en avez point,
 L'amy laisse un peu là ta foible raillerie⁎,  
 Donne moy patience.  
 
-    ROGUEPINE *à part.*
+    ROGUEPINE *à part.*.
         He [107] l'amy sans furie⁎,  
 Haut
 
@@ -1397,7 +1397,7 @@ Moy je n'y puis que faire.
     FABRICE.
         Ha je meurs de tristesse [108].  
 
-    ROGUEPINE
+    ROGUEPINE.
 Je ne m'estonne⁎ plus si l'on vous a battu,  
 On devoit vous tuer homme plein de vertu,  
 Marquis des Beaux Marquis tout remply d'impudence,  
@@ -1419,18 +1419,18 @@ Ce sont deux qualitéz admirables pour vous.
     FABRICE.
 Vous tairez vous, maraut.  
 
-    ROGUEPINE
+    ROGUEPINE.
                     Et bien soit taisons nous,  
 Mais quelqu'un vient sortons,  
 
-    FABRICE
+    FABRICE.
         Que je suis miserable.  
 
     ROGUEPINE.
 Suivez moy seulement.  
 
 
-### SCENE II
+### SCENE II.
 Clidamant, Croctin
 
 
@@ -1485,7 +1485,7 @@ Je ne luy parle plus.
                     Que cela seroit beau,  
 Que j'alasse espouser et la vache et le veau [112].  
 
-    CLIDAMANT. 
+    CLIDAMANT.
 Croctin de mon costé tu n'auras point d'ombrage.  
 
     CROCTIN.
@@ -1502,14 +1502,14 @@ Sy vous ne pretendez voir soufler vostre proye,
 Mais j'apercois Lisette.  
 
 
-### SCENE III
+### SCENE III.
 Clidamant, Croctin, Lisette
 
 
     LISETTE.
                     Ah ! Monsieur est-ce vous.  
 
-    CROCTIN
+    CROCTIN.
 Ne le vois tu pas bien.  
 
     LISETTE.
@@ -1534,7 +1534,7 @@ Dy moy que feras tu.
     LISETTE.
                             Tout doux.  
 
-     CLIDAMANT.
+    CLIDAMANT.
 Ne me diras tu point ce que fait ta Maistresse⁎.  
 
     LISETTE.
@@ -1633,11 +1633,11 @@ Vous a-t-il pris beaucoup.
 Si fidelle si seur si zelé pour un Maistre,  
 Helas ! le coeur m'en creve ah que le monde est traistre.  
 
-    FLORANT *à part.*
+    FLORANT *à part.*.
 Mais si je m'en servois pour garder ma maison,  
 Je ne ferois pas mal.  
 
-    CROCTIN *bas.*
+    CROCTIN *bas.*.
         Et bon bon, nostre oison [118],  
 Commance à s'amorcer ah ! s'il se pouvoit faire,  
 Que je vous pus servir.  
@@ -1669,7 +1669,7 @@ Vous pouvez vous fier à vostre serviteur⁎.
 Je laisse avecques vous une plaisante Dame,  
 C'est Lisette.  
 
-    CROCTIN, *bas.*
+    CROCTIN, *bas.*.
         Ha vrayement c'est une bonne lame [120].  
 Monsieur ne craignez rien au temps que j'y seray.  
 
@@ -1684,14 +1684,14 @@ Est il grand.
     FLORANT.
             Entre deux.  
 
-    CROCTIN. *bas.*
+    CROCTIN. *bas.*.
                         C'est peut estre mon Maistre.  
 
     FLORANT.
 C'est un jeune blondin mais tout à fait bien fait,  
 En un mot c'est Fabrice.  
 
-    CROCTIN. *bas.*
+    CROCTIN. *bas.*.
         Ah voyla bien mon fait.  
 Monsieur si vous vouliez j'ay certain camarade,  
 Qui vous serviroit bien car souvent il en garde,  
@@ -1699,11 +1699,11 @@ Qui vous serviroit bien car souvent il en garde,
     FLORANT.
 Va viste le trouver et reviens en ce lieu.  
 
-    CROCTIN *à Lisette*
+    CROCTIN *à Lisette*.
 J'y vais, va t'en chercher ses habits.  
 
 
-### SCENE V
+### SCENE V.
 Clidamant, et Croctin, cachez, Florant.
 
 
@@ -1717,7 +1717,7 @@ Heurtons chez mon voisin ah je vous tiens la belle,
 Hola⁎ Monsieur Fernant.  
 
 
-### SCENE VI 
+### SCENE VI. 
 Clidamant, Croctin *cachez*, Florant, Fernant. *Dans sa Maison.*
 
 
@@ -1732,7 +1732,7 @@ C'est Florant.
                 Je m'en vais la peste⁎ soit du sot.  
 Que voulez vous voisin.  
 
-    FLORANT
+    FLORANT.
                     Je vous demande excuse.  
 Je vous ay destourné.  
 
@@ -1794,7 +1794,7 @@ Ils sortent.
 
 
 
-### SCENE VII 
+### SCENE VII. 
 Croctin, Clidamant
 
 
@@ -1803,7 +1803,7 @@ Lisette met long-temps je sçay ce qu'il projette,
 Mais la voicy qui vient. Et bien,  
 
 
-### SCENE VIII
+### SCENE VIII.
 Croctin, Clidamant, Lisette, un Arlequin portant un habit dans sa main.
 
 
@@ -1903,7 +1903,7 @@ Et pretends me fier à vostre intelligence [129],
 Mais le voicy qui sort.  
 
 
-### SCENE II
+### SCENE II.
 Clidamant, Croctin, Florant.
 
 
@@ -1949,7 +1949,7 @@ Qui que ce soit ...
 Croctin *écoutant à la porte de* Florant, Fernant.
 
 
-    FLORANT *à Fernant.*
+    FLORANT *à Fernant.*.
 Il faut ...  
 
     FERNANT.
@@ -1961,7 +1961,7 @@ Allons nous deguiser le voulez vous voisin.
 J'y consens volontiers, achevons ce dessein⁎.  
 
 
-### SCENE IV
+### SCENE IV.
 Clidamant, Croctin, Isabelle, Lisette.
 
 
@@ -2031,7 +2031,7 @@ Lisette est tout de Cœur je l'aime tout à fait [136],
 Je vous l'avois bien dit qu'elle seroit mon faict⁎,  
 M'aime tu bien.  
 
-    LISETTE. 
+    LISETTE.
     Ouy da⁎.  
 
     CROCTIN.
@@ -2070,7 +2070,7 @@ Ils s'en viennent à nous mettons nous à la porte,
 Car il nous a bien dit que personne ne sorte.  
 
 
-### SCENE V
+### SCENE V.
 Clidamant, Croctin, Florant, Fernant *desguises*.
 
 
@@ -2111,7 +2111,7 @@ Ils les font sortir à coups de baton.
 
 
 
-### SCENE VI
+### SCENE VI.
 Croctin, Clidamant.
 
 
@@ -2128,7 +2128,7 @@ Ils ont sujet de l'estre et plus que nous je croy,
 Monsieur retirons nous ils viennent sur ma foy.  
 
 
-### SCENE VII 
+### SCENE VII. 
 Florant, Fernant
 
 
@@ -2170,7 +2170,7 @@ Il entre dans la maison de Fernant.
 
 
 
-### SCENE VIII
+### SCENE VIII.
 Croctin, Lisette.
 
 
@@ -2193,7 +2193,7 @@ Fais les viste venir.
 Bon, je les apperçois nostre affaire s'avance,  
 
 
-### SCENE IX 
+### SCENE IX. 
 Clidamant, Isabelle, Croctin, Lisette.
 
 
@@ -2221,7 +2221,7 @@ Mon Maistre asseurement luy tiendra bien sa foy.
     ISABELLE.
 Je n'y resiste plus ..,  
 
-    LISETTE
+    LISETTE.
                 Je m'engage bien moy.  
 Isabelle donnant un bracelet de ses cheveux à Clidamant [143].
 
@@ -2235,7 +2235,7 @@ Je m'abandonne à vous.
 Allons Madame allons qu'il y soit à jamais,  
 Nous trouverons moyen de faire vostre paix.  
 
-    CROCTIN *à Lisette*
+    CROCTIN *à Lisette*.
 Pour moy je ne crains point que l'on nous desassemble,  
 Et si [144] nous pourrons bien coucher ce soir ensemble.  
 
@@ -2301,16 +2301,16 @@ MONSIEUR.
 Vous devez estre sans doute surpris de la maniere que j'en agis avec vous, c'est moy qui ay gardé Isabelle chez vous avec Croctin mon valet, elle est entre mes mains, et si vous souhaitez nostre alliance, vous aurez la bonté de me le faire sçavoir par le porteur de ce billet⁎.
 Clidamant.
 
-    FLORANT *apres avoir leu continuë.*
+    FLORANT *apres avoir leu continuë.*.
 Il ne l'aura jamais.  
 
     CARLOS.
                     Son amour est extreme.  
 
-    FERNANT *à Florant*. 
+    FERNANT *à Florant*.
 Vous ne pouvez l'avoir donnez luy.  
 
-    FLORANT *apres avoir un peu resvé⁎.*
+    FLORANT *apres avoir un peu resvé⁎.*.
                             Bien qu'il ayme,  
 Faites les moy venir que je les voye un peu.  
 Carlos sort.
@@ -2391,7 +2391,7 @@ Touche la.
 Et ne songeons apres qu'à bien multiplier.  < FIN. >
 
 
-# Lexique
+# Lexique.
 
 Pour expliquer les mots dont le sens a changé depuis le XVII*e* siècle on s'est en servi des dictionnaires suivants*Académie française*Dictionnaire*ère**ème**ème*
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
@@ -2400,7 +2400,7 @@ Pour expliquer les mots dont le sens a changé depuis le XVII*e* siècle on s'es
 Air« Mine, physionomie, traits du visage » ; « Manière d'agir, de parler, de vivre, soit en bonne, pou en mauvais part » (F) dédicace.DédicaceAise (être bien)« Joyeux, content » (A)V. 619.Altesse« Titre d'honneur qu'on donne aux Princes » (M)Dédicace.Amant« Celuy qui aime d'une passion violente et amoureuse » (F)V. 37, 211, 462. Au XVII*e* siècle, le mot « amant » signifiait « celui qui aime et qui est aimé » et le mot  « amoureux » signifiait celui « qui aime sans être aimé en retour » (R).Appas« Il se prend figurement pour tout ce qui attire, qui engage à faire quelque chose. » (A)V. 174.« Au pluriel, se dit particulièrement en Poësie … en parlant des attraits & de la beauté des femmes. » (A)V. 217.Ardeur« Se dit figurément en Morale, et signifie, Passion, vivacité, emportement, fougue. Il faut aimer ses amis avec beaucoup d'*ardeur*. » (F)V. 91, 227, 528.Avis (advis)« Il signifie aussi Conseil, délibération » (A)V. 429.« Opinion, sentiment » (A)V. 431.Billet« Petit éscrit, petite lettre qu'on envoye pour apprendre ou negotier quelque chose. La mode est venue d'escrire par billets sans signature ni souscription, au lieu des lettres de ceremonie. (F)V. 8, 614, lettre de Clidamant.Billette« En termes de Blason, est une piece solide dont on charge l'Escu, qui est faite en forme de quarré long. Il y a des *billettes* de metail, et d'autres de couleur. » (F)V. 8.Berner« Se dit figurément pour Balotter, railler quelqu'un, le faire servir de joüet à une compagnie » (F)V. 99.Boutade« Caprice, transport d'esprit qui se fait sans raison et avec impetuosité. » (F)V. 188.Cajoller (cajoler) « Tascher de seduire une femme ou une fille par de belles paroles. » (A)V. 348.Se chausser« On dit fig. *Se chausser une opinion dans la teste*, pour dire, se l'imprimer bien avant, et en sorte qu'on ne l'en puisse faire sortir. Il se prend presque toûjours en mauvaise part. » (A)V. 131.Coquin« On le dit encore par injure d'un homme infame et lasche, qui fait des bassesses et des perfidies, et autres actions indignes d'un homme de cœur et d'honneur. *Il ne vaut rien, c'est un coquin qui meriteroit d'estre* etc. *un meschant coquin. ah ! le coquin, il a trahi son ami. il n'a pas voulu se battre, on le traittera en coquin, c'est un coquin d'honneur.* » (A)V. 228, 564« Blistre, maraut, gueux, faineant, fripon. C'est un coquin, une coquine. un tas de coquins. il en est jaloux comme un coquin de sa besace. voilà un beau coquin pour pretendre à une si haute charge. elle a espousé un coquin. » (A)V. 170.Couroux (courroux)« Colere. Son plus grand usage est dans le genre sublime et dans la poësie » (A)V. 126, 262.Crocheteur« Signifie un Portefaix des fardeaux sur des crochets. Ce Laquais est trop chargé, on luy a donné la charge d'un Crocheteur. » (F)Acteurs, v. 153, 155, 161, 359.Da« Interjection qui sert à augmenter l'affirmation ou la denegation : c'est un terme populaire » (F)V. 519.Damoiseau« Jeune Gentilhomme qu'on appeloit ainsi avant qu'il fust Chevalier » « Se dit aussi ironiquement d'un homme qui fait le beau fils, qui affecte trop de propreté » (F)V. 130.Dessein« Plan, projet, élévation et profil d'un ouvrage qu'on veut faire. » (R) ;« Resolution de faire quelque chose, intention, projet, pretention. » (A)V. 1, 494.Devant« Il est aussi preposition de temps et d'ordre. » (A) ; devant = avant [145]V. 117, 208. Diablerie« Meschanceté, malice cachée, malheur, empeschement dont l'on ne connoist point la cause. *Il y a quelque diablerie là dedans. cette machine ne va point, il y a là quelque diablerie.* » (A)V. 144.Embaras (embarras)« L'irresolution dans laquelle on se trouve souvent lors qu'on ne sçait quel parti prendre, ny par quelle voye sortir de quelque difficulté. » (A)V. 144, 434.Emporter« Se dit en parlant des violentes agitations de l'ame. Cet homme est emporté, quand il est amoureux » (F)V. 95, 133, 170, 188.Estonner« Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte. » (F)V. 285, 349.« Il signifie figurément Esbransler, faire trembler par quelque grande, violente commotion. » (A)V. 552.Faict (fait)« Ce qui est propre et convenable à quelqu'un. » (A)V. 518.Fantaisie« Humeur, volonté » (A)V. 82.« Caprice, bizarrerie » (A)V. 112.Faquin« Homme de neant, vil, abjet, qui a l'ame basse. » (A)V. 169.Feslé (-ée)« On dit qu'*Un homme a la teste feslée, le timbre feslé*, pour dire, qu'Il est un peu fou. » (A)V. 604.Feu« Se dit figurément en choses spirituelles et morales de la vivacité de l'esprit, de l'ardeur des passions » (F)V. 522.« On dit d'un homme en colère », « Inflammation, ardeur. »V. 261, 339.« On dit aussi d'un homme amoureux »V. 352, 522, 618.Flamme« La passion de l'amour. » (A)V. 175.Fond« Se dit figurément des choses spirituelles. Il ne faut pas pretendre connoistre à *fond* tous les misteres sacrez: c'est une mer qui n'a ni *fond*, ni rive. Dieu est le seul qui connoist le *fond* des cœurs. Il n'y a de bonnes prieres que celles qui se font du *fond* du cœur, c'est à dire, avec grande affection. » (F)V. 49, 87, 269.Fons (fonds)« Se dit encore d'une somme d'argent alienée, comme si c'estoit un heritage, à la charge d'en payer une rente qui tient lieu de fruits. En payant les arrerages d'une rente, on ne sçauroit en demander le *fonds*, le capital. » (F)V. 470.Furie« Passion violente de l'ame qui la transporte, qui outre sa colere. En ce sens c'est la même chose que *Fureur*. Il est dangereux dans sa *furie*, quand il est entré en *furie*. » (F)V. 152, 235.« Se dit aussi de tout ce qui se fait avec ardeur, promptitude, courage, impetuosité. Dans un combat la premiere *furie* des François est dangereuse à soûtenir, à essuyer. cet affamé mange avec *furie*. ce Basque, ce postillon courent avec *furie*, avec grande promptitude. ces habitans travailloient avec grande *furie* aux fortifications de leur ville. » (F)V. 143, 276.GalandSubstantif et signifie Amant, amoureux (A) « amant qui se donne tout entier au service d'une maistresse » (F)V. 163, 402.Genon« On dit par injure d'une laide femme » (A)V. 197.Gile (Gilles)« C'est un nom propre d'homme qui est venu en usage dans cette phrase proverbiale. Faire Gilles, pour dire s'enfuir. Ce proverbe vient de ce que St. Gilles Prince de Languedoc s'enfuit secrettement de peur s'estre fait Roy. » (F)V. 86.Grace« Plaisir, faveur. Faire une grace à quelqu'un. »  (R)Dédicace, v. 30, 547, 548.« Amitié, bienveillance » (R)V. 627.Harlequin« Farceur, Basteleur : c'est le nom qu'on donne au Bouffon de la Comedie Italienne, aux valets des danseurs de corde, et ce qui ont des habits bigarrez et chargez de pieces de differentes couleurs. » (F)Acteurs.Hola« On se sert du mot *hola* pour prier, ou pour commander d'agir plus doucement. Hola ne pressez pas tant. *Mol.* » (R)V. 416, 628.Imposer« Tromper, dire une faussette » (F)V. 213.Industrie« Dexterité, adresse à faire quelque chose » (A)V. 151.Interdire (interdit)« Se dit de ceux qui se troublent, qui s'estonnent, et qui ne sçauroient parler raisonnablement » (F)V. 1.Lorgner« Regarder quelqu'un de travers et du coin de l'œuil. On lorgne par un desir de voir et de posseder quelque chose, sans qu'on en fasse semblant, la regarder à la desrobée » (F)V. 201, 266.Mastin« Gros chien de cuisine, ou de bassecour … des hommes grossiers, mal basris de corps, ou d'esprit. » (F)« Gros chien que l'on ne dresse pas à la chasse, mais à garder une cour, un troupeau etc. *Gros mastin.* On appelle fig. un homme, *Mastin*, quand il est grossier et mal fait. *Voyez ce gros mastin. c'est un laid mastin, un vilain mastin.* » (A)V. 74, 378.Maistresse« Les amans appellent, *Maistresses*, Les filles ou les femmes qu'ils aiment » (A)Acteurs, v. 196, 199, 211, 283, 343.Mugueter« Faire le galant, le cajolleur, tascher de se rendre agreable à une Dame. » (F)V. 130.Mouchart (mouchard)« Espion qui s'attache à suivre secretement une personne pour en donner des nouvelles à la Justice. On les appelle aussi, *Mouches* » (A)V. 20.Obliger« Il signifie aussi, Imposer necessité de dire ou de faire quelque chose. » (A)V. 135« Faire plaisir, rendre de bons offices à quelqu'un » (A) « Signifie plus generalement, Faire quelque faveur, civilité, courtoisie. » (F)V. 138, 148.Peste« Se dit quelquefois par admiration, ou par imprecation, ou serment. » (F)V. 72, 378, 418, 464.Point« Adverbe de negation. Pas, nullement. *En voulez-vous ? Je n'en veux point. je ne doute point que cela ne soit. ne voulez-vous point venir ? il n'a point d'argent.* » (A)V. 9, 47, 58, 122, 250, 265, 267, 274, 331, 333, 335, 343, 421, 468, 492, 520, 595.« Se dit aussi, De ce qu'il y a de principal dans une affaire, dans une question, dans une difficulté. *C'est là le point de l'affaire. vous ne touchez pas le point de la question.* » (A)V. 97, 121, 458.« Se prend encore pour Estat, situation, disposition, soit dans la santé, soit dans la fortune. » (A)V. 191.« Se prend aussi dans les choses morales pour Degré, periode. *Il faut railler, mais jusqu'à un certain point. sa reputation est arrivée à un point que, etc. il se chagrine de tout à un point. il en est affligé à un tel point. il est au plus haut point de sa gloire.* En ce sens on dit adv. *Au dernier point*, pour dire, Extrémement, excessivement. *Il est brave au dernier point. insolent au dernier point. heureux, malheureux au dernier point. elle est laide au dernier point, belle au dernier point.* » (A)V. 91, 131, 273.Pouponne« Terme caressant, dont on se sert pour mignarder les jeunes femmes » (F)V. 201.Pourvoir« Donner ordre à quelque chose. » (A)V. 502.Railler« Moquer, joüer. … Faire des railleries. Se divertir par des railleries. » (R)V. 444, 468.Se railler« Se rire de quelque chose, ou de quelque personne, s'en moquer, n'en faire nul cas, ne s'en pas soucïer. » (R)V. 190.Raillerie« Mot plaisant et satirique, moquerie. » (R)V. 236, 275.Resver (Rêver)« Penser fortement à une chose, y songer. Je rêve à mon sort inhumain. *Scaron*. Il faudroit réver quelque incident. *Moliere, Critique de l'Ecole des Femmes, s. 6. † Réver à la Suisse*, c'est ne réver à rien. (R) scène XI « Florant *apres avoir un peu resvé*. »Didascalie v. 616Service« En termes de civilité, pour offrir sa personne ou ce qu'on possede » (F)« On dit par compliment, *Je suis à vostre service, ma bourse est à vostre service. comment vous portez-vous ? à vostre service.* » (A)V. 147, 259.Serviteur« Qui revere quelqu'un, qui luy obeït, qui le sert ... »« Un serviteur domestique, celuy qui est aux gages d'un maistre ... »« On se sert aussi de cette formule pour clorre toutes les lettres, ou pour faire des compliments et des adieux. Je suis vôtre tres-humble, tres-affectionné, et tres-obeïssant serviteur. » (F)Dédicace, v. 398.Soucy« Signifie aussi, Chagrin, inquietude d'esprit, peut-être à cause qu'il fait devenir jaune. » (F)V. 510.Suivante« Qui suit, qui marche, qui vient aprés. Une honneste femme ne doit point sortir sans être accompagnée d'une suivante. » (F)Acteurs.Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de  l'ame par la violence des passions. » (F)V. 525.Transporter (transporté)« On dit, que *La colere, la joye transporte un homme*, pour dire, qu'Elle le met hors de luy-mesme. » (A)V. 152, 227.Vallet (valet)« Serviteur domestique. ... Il y a plusieurs sortes de valets : valet de chambre, valet de garderobe, valet de pied, valet de chiens, valets de cour, valet à tout faire etc. » (F)Acteurs.
 
 
-# Présentation des annexes
+# Présentation des annexes.
 
 Dans les Annexes nous proposons quatre actes notariés qui ont été passés par la troupe de Nanteuil quand elle séjournait à Angoulême en 1685 (I-III) et en 1697 (IV). Ils présentent un intérêt particulier puisque c'est un exemple des actes que les comédiens passaient souvent au XVII*e* siècle. Ils montrent les sujets de ces contrats et leurs nuances. Les trois actes (I, III et IV) contiennent les parties obligatoires : le nom du document, la date, la liste de ceux qui participent à l'affaire, le sujet de ce contrat, l'endroit, où l'acte est fait et les signatures des participants. L'annexe II est un ajout au contrat qui le précède, c'est pourquoi on n'y trouve pas tous les éléments mentionnés.
 
@@ -2409,7 +2409,7 @@ Les annexes I et II montrent un contrat pour louer et aménager le théâtre où
 Tous les actes notariés sont cités d'après le travail d'Emile Biais dans *Réunion des Sociétés des Beaux-Arts* [146] de 1904, sauf une partie de l'annexe III qui est prise de l'article *La troupe de Nanteuil à Angoulême en 1685* [147] de Georges Monval publié dans *Le Moliériste* en 1888, car elle y a été plus précise.
 
 
-# Annexe I : Marché du théâtre de la comédie
+# Annexe I : Marché du théâtre de la comédie.
 
 5 feburier 1685
 
@@ -2422,7 +2422,7 @@ Tous les actes notariés sont cités d'après le travail d'Emile Biais dans *R�
 « Signé : M. David. – Gouuin. – Cholet. – De Nanteuil. – Jehen, nore royal réservé Angoulesme » [148]
 
 
-# Annexe II
+# Annexe II.
 
 « Le septiesme jour de mars audit an (1685) furent présente les dits Boisdon et David avons receu de Jacques Valliot, comédien du roy, la somme de trente-cinq livres restant à payer du marché porté par le contrat cy-dessus, dont ils se sont contentés et leu ont quitté et quittancé et des associés et ont promis de rendre le dit s*r* de Vouillac comme suivant et conformèment audit contrat.
 
@@ -2431,7 +2431,7 @@ Tous les actes notariés sont cités d'après le travail d'Emile Biais dans *R�
 *(Signatures.)*
 
 
-# Annexe III : Association des Comédiens
+# Annexe III : Association des Comédiens.
 
 13 fevrier 1685
 
@@ -2442,7 +2442,7 @@ Fait et passé à Angoulesme au logis dudit s*r* de Nanteuil après midy le troi
 Signé : « Clerselier de Nanteuil. – Valliot. – Bergé. – De Lhoste. – De Chanvallon. – Primault. – Fleury. – Marie-Anne de Broutier. – M. Lhome. – Clotilde Riche. – Judit Chabo Larinville. – Cholet. – Jeheu, no*re* royal réservé, Angoulesme. » [151]
 
 
-# Annexe IV : Association de « Comédiens du Roy »
+# Annexe IV : Association de « Comédiens du Roy ».
 
 6 février 1697.
 
@@ -2467,32 +2467,32 @@ Signé : « Clerselier de Nanteuil, – Baroy, – Chartoun, – Lanoue, �
 (Archives de la Charente, B. Filon, notaire à Angoulème.) [152]
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Les sources
+## Les sources.
 
 
-### Œuvres de l'auteur*Nanteuil*L'Amour sentinelle ou le cadenas forcé
+### Œuvres de l'auteur.*Nanteuil*L'Amour sentinelle ou le cadenas forcé
 *Nanteuil*L'Amour sentinelle ou le cadenas forcé
 
 
 
-### Œuvres contemporaines*Fournel*Les contemporains de Molière. Recueil de comédies, rares ou peu connus jouées de 1650 à 1680
+### Œuvres contemporaines.*Fournel*Les contemporains de Molière. Recueil de comédies, rares ou peu connus jouées de 1650 à 1680
 Œuvres complètes de Molière*ie*
 Les œuvres de Monsieur de Molière
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages bibliographiques*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
+### Ouvrages bibliographiques.*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
 *Klapp*Bibliographie d'Histoire littéraire française
 
 
 
-### Dictionnaires et encyclopédies*Académie Française*Dictionnaire
+### Dictionnaires et encyclopédies.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Moreri*Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
@@ -2509,27 +2509,27 @@ Dictionnaire historique, critique et bibliographique, contenant les vies des hom
 
 
 
-### Grammaires et syntaxe*Catach*L'Orthographe
+### Grammaires et syntaxe.*Catach*L'Orthographe
 *Haase*Syntaxe française du XVIIe siècle
 *Riffaud*La ponctuation du théâtre imprimé au XVII*e* siècle
 *Spillebout*Grammaire de la langue française du XVII*e* siècle
 
 
 
-## Étude critique
+## Étude critique.
 
 
-### Histoire de la littérature*Corvin*Lire la comédie
+### Histoire de la littérature.*Corvin*Lire la comédie
 
 
 
-### Étude sur la littérature et le théâtre français*Forestier*Introduction à l'analyse des textes classiques
+### Étude sur la littérature et le théâtre français.*Forestier*Introduction à l'analyse des textes classiques
 *Scherer*La Dramaturgie classique en France
 *Ubersfeld*Lire le théâtre I
 
 
 
-### Étude sur le théâtre du XVII*e* siècle*Attinger*Influences indirectes du Théâtre Italien
+### Étude sur le théâtre du XVII*e* siècle.*Attinger*Influences indirectes du Théâtre Italien
 *Forestier*Esthétique de l'identité dans le théâtre français (1550-1680) Le déguisement et ses avatars
 *Fransen*Les comédiens français en Hollande au XVII*e* et au XVII*e* siècles
 *Leibrecht*L'Histoire du théâtre français à Bruxelles au XVIIe et XVIIIe siècle
@@ -2537,7 +2537,7 @@ Dictionnaire historique, critique et bibliographique, contenant les vies des hom
 
 
 
-### Étude sur l'auteur*Baluffe*Le National
+### Étude sur l'auteur.*Baluffe*Le National
 *Biais*Réunion des Sociétés des Beaux-Arts des départements*ie*
 Bulletin de la Société archéologique de la Charente
 *Gaines*The Molière Encyclopedia
@@ -2550,7 +2550,7 @@ Bulletin de la Société archéologique de la Charente
 
 
 
-### Littérature supplémentaire*Bergerac*Le Pedant joué
+### Littérature supplémentaire.*Bergerac*Le Pedant joué
 *Dussourd*Les 100 hommes qui ont fait le monde
 L'Ovide travesty, ou les metaphores burlesques
 *Quicherat**Villandrando*Bibliothèque de l'école des chartes. Revue d'érudition consacrée principalement à l'étude du Moyen Age

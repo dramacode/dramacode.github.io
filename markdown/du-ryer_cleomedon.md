@@ -16,7 +16,7 @@ A PARIS, Chez ANTHOINE DE SOMMAVILLE, au Palais dans la petite Salle, à l'Escu 
 Édition critique établie par Coralie Fenin sous la direction de Georges Forestier (2011)
 
 
-# Introduction
+# Introduction.
 
 
 Tout tombe sous sa dent meurtriere,  
@@ -38,10 +38,10 @@ Car apres nous n'en sentons rien
 Lorsque Du Ryer écrit ces stances à la tonalité élégiaque, c'est la souffrance liée au temps qui passe et à l'abandon de toute forme de considération qui se lit. Cruelle ironie pour un auteur qui suscita bien des éloges avant de faire les frais d'une amnésie littéraire quasi-totale. Pierre Du Ryer, poète, dramaturge, traducteur, historiographe, académicien, ne laisse derrière lui que quelques pages dans les ouvrages de littérature marginale. Force est de constater que les spécialistes de la traduction le tiennent pour un auteur secondaire ; que les dramaturges reconnaissent en lui un homme de talent mais éclipsé par des figures de plus haute importance. En effet, le théâtre du XVII*e* aurait pu exister sans Du Ryer, il n'aurait pu se passer de Corneille. Tel est le sort de cet auteur dont on parle beaucoup mais dont personne ne retient le nom. C'est qu'il y a là pour les chercheurs un auteur énigmatique qui, bien que partie prenante des deux genres absolus du XVII*e* siècle, la traduction et le théâtre, brille par son absence de commentaires métadiscursifs ou d'écrits théoriques sur sa pratique. Ne pas participer au débat sur le théâtre, alors que le genre est en pleine formation et que cet homme évolue dans l'entourage de Chapelain, le grand théoricien, c'est légitimer son évincement. Mais faut-il réfléchir à sa pratique pour lui donner du sens ou ne vaut-il pas mieux laisser ses écrits littéraires parler pour soi… ? Du Ryer n'aura pourtant de cesse de proposer un théâtre novateur : *Clitophon* est la première pièce de théâtre dans laquelle un héros donne son épée à sa dame ; *Argénis et Poliarque* fait état de la première occurrence au théâtre du mot *stance* ; *Alcimédon* est la première tragi-comédie qui fait le lien entre le changement de scène et les allées et venues des personnages. Pour ce qui est de la prose d'art il s'inscrit dans un courant particulièrement original mais ne s'affirme pas. Bon nombre de conjectures restent alors permises… Mais s'il est une certitude c'est que lire Du Ryer c'est questionner l'évolution du théâtre. La lecture de *Cléomédon* telle qu'elle est ici accompagnée se veut être une étape de sa réhabilitation.
 
 
-# Vie et œuvre de Pierre Du Ryer
+# Vie et œuvre de Pierre Du Ryer.
 
 
-## D'Isaac Du Ryer à Pierre Du Ryer :     deux générations de lettrés
+## D'Isaac Du Ryer à Pierre Du Ryer :     deux générations de lettrés.
 
 De façon significative, lorsque l'érudit Frédéric Lachèvre décide de mettre un terme à sa longue carrière de chercheur, c'est avec la biographie d'Isaac Du Ryer qu'il le fait [1]. Ainsi, penser la vie de Pierre Du Ryer, c'est l'envisager au regard de ce père qui semble être une figure du siècle ; du moins, n'est-il pas inconnu. Les dates présumées de son existence se résument à quelques faits majeurs : il naît probablement en 1568, se marie en 1603, engendre Pierre Du Ryer en 1605 et meurt aux alentours de 1634. Il apparaît qu'Isaac Du Ryer travaille durant sept années pour Roger de Bellegarde, Grand Ecuyer de France qui part pour Florence en 1600, porteur de la procuration d'Henri IV pour épouser, en son nom, Marie de Médicis. Du Ryer le père est donc entré dans la maison de Bellegarde, gage d'un prestige certain. Il fait partie de cette génération de poètes, avec Mathurin Régnier, Pierre Motin, Jean Auvray, qui, marquée par les guerres des dernières années du XVI*e* siècle, accueille très favorablement le projet de pacification d'Henri IV. Pour autant, il se tient à l'écart des productions de recueils poétiques collectifs qui sont le propre de ces auteurs. Peut-être manquait-il de protecteurs influents… En 1608, la publication du *Temps perdu*, son premier recueil de poèmes, révèle un auteur particulièrement touché par les événements de son temps : célébration des hauts faits du roi, acclamation de la naissance du Dauphin, obsession de la guerre, éloge de Louis XIII etc. L'assassinat d'Henri IV, dont il a allègrement chanté les vertus pacificatrices, réveille en lui les craintes d'un homme marqué par les événements de sa jeunesse. Durant les temps troublés de la Régence il se montre donc avide de paix et encourage fortement la réconciliation entre la Régente et son fils [2] ; il espère la renaissance définitive de la paix lors de la réduction de La Rochelle, en 1628 [3]. Parallèlement à ces préoccupations, le poète se livre à une revendication passionnée pour un statut honorable des écrivains et une rémunération digne de leur charge. En effet, le rêve de partenariat éclairé entre les poètes et les Princes, dans une glorification mutuelle, se voit radicalement brisé lorsqu'en 1600, la veille de son ambassade, de Bellegarde le congédie sans motif apparent. Le grand érudit doit se contenter d'un emploi de clerc à la douane du quai Saint Paul, à Paris. Dès lors, l'angoisse de la précarité sociale ne le quittera plus. Plus tard, il obtient l'office de Secrétaire de la Chambre du roi, une charge qu'il cèdera à son fils. Cette charge permet à Isaac Du Ryer de côtoyer Malherbe, Racan, L'Hermite, ou encore Hardy. En outre, poète lui-même il connaît le succès littéraire. Le *Temps perdu* a donné lieu à des rééditions augmentées multiples en 1609, 1610, 1616 et 1624, signe d'un engouement certain ; il modifiera sa pastorelle *La Vengeance des satyres* pour les commodités du temps ; Les *Meslanges* plaisent aux poètes contemporains. En ce sens, Sainte-Beuve affirme que l'on se doit de le considérer comme « un des rares écrivains du commencement du XVII*e* siècle [4] ».
 
@@ -50,7 +50,7 @@ Par bien des aspects, la vie du père permet d'expliquer et de comprendre celle 
 Pierre Du Ryer est né, selon toute vraisemblance, entre 1604 et 1605. De sa jeunesse l'on ne retient que son entrée au prestigieux collège des jésuites de Clermont, rue Saint-Jacques, à Paris. Il y étudie aux côtés du comte de Moret, fils naturel d'Henry IV et de Jacqueline de Bueil. La vie de Pierre Du Ryer est scandée par quelques dates qui font autorité dans l'établissement de sa carrière. En 1621 il reçoit de son père la charge de Secrétaire de la Chambre du roi. En 1627 il est chargé de conseiller la gestion des finances du roi, un rôle qu'il conservera durant sept années. À la même époque il est avocat au Parlement de Paris. Il fait donc partie de la noblesse de robe parisienne, un milieu qui lui est familier grâce à son père. C'est également Isaac Du Ryer qui lui donne le goût de la poésie à laquelle il vient en 1624 avec la publication de son premier recueil de vers latins qu'il lui dédie, *Patri suo*. Son *Dialogue de la Digue et de La Rochelle* paru en 1629, contenant trois poèmes patriotiques à l'occasion de la prise de la ville, confirme son intérêt pour la poésie et pour le sort du pays, deux préoccupations directement héritées de son père.
 
 
-## Pierre Du Ryer dramaturge
+## Pierre Du Ryer dramaturge.
 
 L'année 1628 marque son entrée sur la scène par la voie de la polémique. En effet, si son père fut admirateur de Hardy, lui appartient à cette jeune génération de poètes, constituée notamment de Mairet, Scudéry, Tristan et bien sûr Corneille, qui s'emploie à renouveler la scène française dès 1645. Alors que Hardy fait figure de lettré dépassé, Malherbe s'impose comme le chef de file de la jeune génération, en outre soutenue par la cour. Le style pesant et archaïque de Hardy se voit détrôné par les règles de syntaxe et de versification de Malherbe. Fortement marqué par ce nouvel engouement pour la langue, Du Ryer fait jouer *Arétaphile* en y appliquant les leçons de Malherbe. Son ami Auvray suit les mêmes théories.
 
@@ -73,7 +73,7 @@ Cependant, *Sophonisbe* que Mairet fait jouer dès 1634 ou encore le *Cid* de Co
 Ce souci constant qui porte Du Ryer à suivre l'évolution du goût du public montre bel et bien qu'il est un auteur désireux de charmer ses contemporains au détriment de l'affirmation d'un quelconque goût personnel et revendiqué. Ainsi ne faut-il pas s'étonner de le voir écrire tantôt pour la tragi-comédie irrégulière, tantôt pour la tragédie classique. La production théâtrale de ce dramaturge versatile semble bien être celle d'un public historiquement daté, hétéroclite, cultivé, peu préoccupé des règles et qui cherche des élans héroïques soutenus par des déclamations d'acteurs puissantes, peu soucieux en définitive de la véritable esthétique littéraire [13]. Du Ryer occupe donc une place importante dans ce courant qui permet de penser et de faire du théâtre autrement.
 
 
-## Du Ryer et la prose d'art
+## Du Ryer et la prose d'art.
 
 En 1634 le dramaturge s'impose comme traducteur en publiant la version du *Traité de la Providence de Dieu* de Salvien, écrit en latin. Cette transposition, accueillie favorablement par le groupe des Illustres bergers [14], signe son entrée dans le rang des traducteurs reconnus. C'est le début d'une longue carrière qui l'occupera toute sa vie et exclusivement à partir de ses dernières années. En tant que traducteur, Du Ryer appartient à la mouvance des « Belles Infidèles ». Il s'agit d'un groupe constitué autour de Valentin Conrart qui accueille les grandes figures de la période tel Nicolas Perrot d'Ablancourt. Ce dernier fonde le principe de la traduction qui admet qu'il ne faut pas hésiter à modifier les formulations contenues dans les textes afin de les acclimater aux règles d'élégance, d'harmonie et de bon goût selon lesquelles la langue française se construit désormais. Bien que souvent contestées, les « Belles Infidèles » gagneront la postérité sans pour autant que le nom de Du Ryer ne se distingue. Ainsi, en 1911, Paul Claudel écrivait à André Gide à propos d'une œuvre de Tacite traduite par d'Ablancourt :
 
@@ -107,7 +107,7 @@ Il n'est connu que par sa pauvreté et par ses œuvres qui, bien qu'en très gra
 Dès son élection à l'Académie française en 1646 et jusqu'en 1650 il écrit une tragédie, *Thémistocle*, et deux tragi-comédies, *Nitocris* et *Dynamis*. Il traduit plus qu'il n'écrit pour le théâtre.
 
 
-## Des choix personnels et politiques peu judicieux
+## Des choix personnels et politiques peu judicieux.
 
 En 1633 Du Ryer se marie avec Geneviève Fournier, une bourgeoise peu fortunée qui est la source, pour bon nombre de commentateurs, de la gêne financière du dramaturge. De cette union naissent quatre enfants, tous morts en bas âge. Lucrèce sera enterrée à Saint-Gervais le 4 Juin 1638 ; Pierre à Sainte-Marguerite le 25 mai 1650 ; Elisabeth meurt en 1651 ; Marthe est enterrée le 6 Septembre 1652. Ce « mariage d'inclination [25] » l'oblige à vendre sa charge de secrétaire du roi afin de récupérer quelques sous et à entrer assez rapidement au service du duc de Vendôme, peu en grâce auprès de Richelieu, en 1634. Il y restera jusqu'en 1640. César de Vendôme, fils illégitime d'Henri IV et de Gabrielle d'Estrées, se distingue par sa farouche opposition à Richelieu qui lui vaudra quatre années d'emprisonnement et un exil en Angleterre. Etre le protégé du duc est alors bien imprudent. Du Ryer lui offre, entre autre, *Alcimédon*, dont la dédicace stipule : « Je veux croire qu'on estimera cet Ouvrage comme une offrande dédiée à la Vertu. Ne trouvez pas étrange ce discours, Monseigneur, je vous considère comme elle-même, puisque je n'ai jamais pu mettre de différence entre elle et un Prince parfait ». Ce faisant, le dramaturge loue le prince le moins en grâce de tout le royaume de France. En ce sens, Du Ryer bénéficie de la protection de cette « aristocratie en révolte larvée contre le pouvoir royal [26] » qui se rallie à Gaston d'Orléans et dont la politique indépendante et orgueilleuse nourrit les poètes qui gravitent autour d'elle. C'est, pour le dramaturge, l'occasion de s'imprégner des idées nouvelles des salons. Par ailleurs, de son expérience au collège des jésuites, Du Ryer retient cette rencontre décisive avec le comte de Moret, qui demeurera son ami jusqu'à sa mort en 1632, à la bataille de Castelnaudary, au cours de laquelle il paye son inébranlable fidélité à Gaston d'Orléans, en révolte contre son frère Louis XIII et Richelieu. Bien imprudemment, au moment même où la rupture se consomme entre le parti de Gaston d'Orléans et celui du roi, Du Ryer publie dans les *Autres œuvres poétiques* une ode intitulée « Le Midy », écrite à la gloire du jeune prince :
 
@@ -119,7 +119,7 @@ C'est pour se rendre egal avec tes destinees
 Cependant, dès que le duc de Vendôme redeviendra trop ouvertement séditieux, Du Ryer dédicacera *Alcionée* à la nièce de Richelieu, une adresse indirecte au cardinal, afin de regagner grâce aux yeux du pouvoir. C'est pourtant là une tentative bien faible même si elle peut en partie expliquer qu'il obtiendra son brevet d'historiographe du roi en 1658. Ainsi à trop vouloir plaire à tous, Du Ryer ne plut en réalité à personne. Ces choix peu stratégiques le conduiront à partir de 1640 à renoncer à toute protection. La dédicace de *Saül* en témoigne : « Je ne dédie cet ouvrage à personne, parce que je le dédie à tout le monde. »  En 1653, sa femme, Geneviève Fournier, meurt. Deux ans plus tard il se remarie avec Marie de Bonnaire qui le tire pour un temps de sa détresse financière. Elle lui donne une fille. Du Ryer, qui jusqu'alors vivait dans le village de Picpus, revient à Paris et s'installe dans le quartier du Marais. Il meurt quelques mois après l'obtention de son brevet d'historiographe [27] et sera inhumé à Saint-Gervais, dans le caveau familial. De multiples façons, la vie d'Isaac Du Ryer préfigurait celle de son fils. Fréquentation des beaux esprits, absence soudaine de protecteur, carrière théâtrale, fin de vie miséreuse… l'hérédité semble même les tenir jusque dans l'oubli par la postérité.
 
 
-## De l'unanime reconnaissance à l'unanime oubli
+## De l'unanime reconnaissance à l'unanime oubli.
 
 De façon paradoxale, si Du Ryer jouit d'une reconnaissance unanime de son vivant, les siècles qui suivent ne lui sont, pour le moins, pas favorables. En effet, « ce poète ingénieux et qui sait parler [28] » est un lettré polygraphe. Son œuvre de traducteur est reconnue par ses pairs et récompensée par l'Académie française ; sa poésie est célébrée par les érudits ; son théâtre est joué et débattu. Sans nul doute, Du Ryer est une figure incontournable du siècle. La preuve en est que souvent il est comparé à Corneille ou apparaît à ses côtés dans les écrits des contemporains. Lorsque Loret évoque les auteurs les plus célèbres de son époque il livre ces quelques vers :
 
@@ -172,43 +172,43 @@ Pourtant dans *Lucrèce*, le roi fait outrage à l'un de ses meilleurs sujets ;
 Du Ryer fut donc un dramaturge trop proche de son public, celui des années 1630-1650, aussi bien sur le plan esthétique que politique. Ecrivain à la charnière de deux temps, de deux esthétiques, de deux régimes politiques, il devait payer sa position intermédiaire. Jamais sa réflexion ne se porte sur le général, l'enfermant ainsi dans le contexte de la société de Louis XIII à la Régence. L'évolution historique a rendu sa réflexion inactuelle et insupportable. Il ne pouvait que tomber dans l'oubli. La « stratégie du succès [44] » telle qu'il l'a menée ne put suffire à lui gagner la postérité.
 
 
-# De la fiction romanesque à la représentation théâtrale : la genèse de Cléomédon
+# De la fiction romanesque à la représentation théâtrale : la genèse de Cléomédon.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 Les royaumes de la reine Argire et du roi Policandre, anciens amants, se livrent une guerre tenace. Alors qu'Argire semble sur le point de l'emporter, Policandre reprend espoir quand son héros national, Cléomédon, un ancien esclave, met à mal l'ennemi et capture Céliante, le jeune prince fils d'Argire qui promettait à sa mère l'ultime victoire. Résolu à récompenser Cléomédon pour sa bravoure, Policandre lui offre en mariage Célanire, sa fille aînée. Les deux jeunes gens, éperdument amoureux, accueillent le projet avec empressement. Toutefois, tout captif qu'il est, Céliante avoue à son confident son amour pour la jeune Célanire. Prêt à tout pour sortir son maître du joug de la servitude, le confident de Céliante, Oronte, décide de parler de cet amour à la cour du roi Policandre. Timante et Créon, deux intrigants qui répugnent à voir monter sur le trône un homme qui n'est pas de sang royal, attendent l'occasion de renverser la situation. C'est Oronte qui va la leur donner. Préférant le mariage de Célanire avec Céliante, ils décident de faire fléchir le roi en lui promettant une paix plus durable grâce à un tel mariage. Policandre, épuisé par les guerres successives qui accablent son royaume de dettes, cède à la proposition de ses courtisans. Ainsi, il annonce à Cléomédon son nouveau projet de marier sa fille à Céliante mais dédommage le héros en lui offrant Bélise, sa seconde fille, que celui-ci refuse fermement. Bélise est au comble du malheur, voyant sa sœur qu'elle chérit épouser celui qu'elle aime. Célanire quant à elle se résout à ce mariage pour la paix du royaume malgré l'intense déchirement dont elle souffre. De son côté, Cléomédon sombre dans la folie. Arrive alors, à la cour du Roi, Clorimante, ancien courtisan et familier d'Argire. Il révèle à Policandre qu'Argire mit autrefois au monde, dans le plus grand secret, un enfant de lui. Conçu hors-mariage mais dans l'amour, ce dernier fut élevé au détriment de celui qu'elle enfanta peu de temps après, issu de son mariage avec un roi santon. Clorimante, dans la confidence, devait se charger de l'échange des enfants et faire disparaître le second fils d'Argire. Il fut à ce moment rendu en esclavage et perdit l'enfant. Ainsi, Policandre, apprenant que Céliante est son fils et découvrant que Cléomédon est le second fils d'Argire, décide de revenir sur sa décision. Il promet alors Célanire à Cléomédon et dédommage Céliante, son fils, en lui offrant Bélise, qui n'est en réalité pas sa fille. Tout inceste étant évité, Policandre demande Argire en mariage, qui ayant toujours au cœur celui qui autrefois la trahit, cède à cette proposition d'union.
 
 
-## Résumé par acte de la pièce
+## Résumé par acte de la pièce.
 
 
-### Acte I
+### Acte I.
 
 Certaine de sa victoire sur Policandre, Argire énumère les désastres essuyés par les ennemis et exhorte son fils Céliante à asséner l'ultime coup qui sera fatal au roi. Cependant elle souhaite apprendre qui est le fameux Cléomédon dont on parle et qui promet de relever Policandre. Placide, son confident, lui révèle qu'il est un ancien esclave venu autrefois secourir Policandre sur le point d'être blessé à mort par un lion. Argire affirme sa volonté de briser ce héros. Céliante, avec détermination, se retire pour aller éprouver son courage. Argire demeure alors seule avec Placide qui la questionne sur l'origine de sa haine contre Policandre. La reine se livre à une longue tirade durant laquelle elle avoue à son confident ses actes passés : éprise autrefois de Policandre elle s'offrit à lui, assurée d'un prompt mariage. Cependant, Policandre, alors qu'il était dans le royaume d'Argire, apprit la mort de son père. Contraint de retourner auprès de son peuple, il partit, promettant d'envoyer des ambassadeurs quérir la reine. Personne ne vint. Policandre donna sa foi à une autre. Argire découvrant sa grossesse, décida de la cacher à Policandre. Peu de temps après, le roi des Santons épousa Argire. En proie à une nouvelle grossesse, elle choisit de substituer son premier enfant au second afin d'élever à la cour un fils qu'elle avait eu par amour au détriment de celui qu'elle enfanta d'un mariage de convenances. C'est le fils de sa nourrice qui se chargea d'opérer l'échange. Le fils du roi des Santons fut cependant perdu dans les guerres civiles. Afin d'estomper les différences dues à l'âge des enfants, Argire prétexta à la cour que, sur ordre d'un oracle, elle ne pouvait montrer l'enfant avant trente mois révolus. Elle décide donc, au moment où s'ouvre la pièce, de se servir de Céliante pour se venger de Policandre, usant du fils au détriment du père. Argire se retire. Placide prend la résolution de tout avouer à Policandre pour éviter de nouveaux malheurs (scène 1). À la cour du roi Policandre, Célanire et Bélise, ses deux filles, plaignent le malheur de leur père (scène 2). Le roi apprend par Birène, son chef des armées, que Cléomédon s'est illustré dans une bataille durant laquelle il a fait prisonnier Placide, le confident d'Argire. Ce dernier paraît sur scène blessé à mort et expire avant d'avoir pu révéler le secret de la substitution (scène 3).
 
 
-### Acte II
+### Acte II.
 
 Célanire loue les mérites de Cléomédon à sa sœur Bélise qui, après avoir cru comprendre les sentiments de sa sœur envers le héros, s'empresse de lui rappeler qu'il est de rang social inférieur. Célanire se défend d'aimer Cléomédon mais affirme que le rang n'est rien sans le mérite. Bélise plaint quant à elle les malheurs de Céliante qui vient d'être fait prisonnier. Face à une telle empathie, Célanire insinue que sa sœur pourrait bien aimer le jeune captif. Bélise nie, affirmant que la condition sociale de Céliante autorise que l'on plaigne son sort. Restée seule, Célanire, s'avoue à elle-même son amour pour Cléomédon (scène 1). Cléomédon vient à la rencontre de Célanire pour lui parler avant que de partir pour un dernier combat. Les deux jeunes gens se disent avec passion leur amour. Célanire exhorte Cléomédon à triompher des ennemis pour légitimer ses sentiments pour lui (scène 2). Céliante et son confident Oronte se lamentent sur leur sort de captif, bien que leurs allées et venues ne soient pas entravées. Céliante avoue qu'il aime Célanire et déplore que cette relation soit impossible car il est l'oppresseur de son peuple. Oronte rassure son maître et promet de tout arranger même si celui-ci l'accuse de flatterie. Le jeune prince, après de multiples hésitations, laisse finalement son confident mener l'affaire à son gré pourvu qu'il obtienne Célanire, gage pour lui d'une gloire certaine (scène 3). Policandre, bien décidé à récompenser Cléomédon pour sa bravoure, lui offre Célanire. Alors que celle-ci y consent officiellement, Timante et Créon, deux intrigants complotent contre ce mariage, se refusant à voir monter sur le trône un homme qui n'est pas de sang royal (scène 4). Arrive Oronte que Timante et Créon questionne sur l'état de Céliante. Les deux courtisans lui apprennent que Célanire va épouser Cléomédon. Oronte avoue avoir fait un songe prophétique au cours duquel il a vu Célanire et Céliante unis. Timante et Créon confortés dans leur idée assurent à Oronte leur soutien pour unir les deux jeunes gens (scène 5).
 
 
-### Acte III
+### Acte III.
 
 Dans un monologue sous forme de stances, Bélise se lamente sur son sort. En effet, elle aime celui qui tyrannisa son peuple (scène 1). Entre Célanire. Elle vient d'apprendre que son père lui refuse Cléomédon. Bélise tente de consoler sa sœur en lui rappelant qu'elle s'apprêtait à épouser un ancien esclave. Lorsque Célanire lui révèle qu'elle doit maintenant épouser Céliante, cette dernière l'incite à désobéir à leur père : elle ne saurait s'unir à celui qui l'asservit autrefois. Célanire lui oppose le devoir filial (scène 2). Cléomédon apprend de Célanire que leur mariage est annulé. Il l'exhorte lui aussi à désobéir à l'ordre du roi. Nouveau refus de la princesse qui demande à son amant de maîtriser son cœur et d'obéir lui aussi à Policandre. Cléomédon affirme préférer la mort et présente à Célanire son épée. Elle fuit. Il demeure seul et se lamente sur son sort : pour avoir sauvé l'Etat il n'est pas récompensé (scène 3). Policandre se laisse définitivement convaincre du bien fondé de sa décision par Timante (scène 4). Dès lors, il apprend à Cléomédon son désir d'instaurer une paix durable dans le pays. Cléomédon lui adresse un long discours sur les fondements de la paix et lui suggère de ne rien précipiter. Timante lui oppose la souffrance du peuple qui attend une prompte trêve et annonce à Cléomédon qu'il n'aura pas Célanire, que l'on destine désormais au prince ennemi. Policandre le dédommage en lui offrant Bélise. Cléomédon, avec beaucoup d'audace, la refuse et rappelle à la mémoire de son roi ses exploits. Ce dernier fait taire son ancien esclave et lui fait recouvrer, par les mots, sa condition (scène 5).
 
 
-### Acte IV
+### Acte IV.
 
 Céliante apprend à Célanire que Cléomédon a sombré dans la folie puis il s'épanche sur son propre sort et le revirement heureux de sa fortune avant de déclarer son amour à la princesse alors que Bélise assiste à la scène. Face au refus de Célanire de dire qu'elle aime, prétextant la pudeur féminine, Céliante prend à partie Bélise. Avant de se retirer il demande à cette dernière de parler pour lui à Célanire qui reproche à sa sœur de ne pas l'avoir assez soutenue face aux insistances du prince. Demeurée seule, Célanire rappelle à son esprit son amour pour Cléomédon et plaint son sort (scène 1). Timante vient alors informer la princesse que la reine Argire a fait naufrage alors qu'elle faisait voile vers la cour pour le mariage de son fils (scène 2). Cléomédon en proie à une violente folie erre aux côtés de Birène. Le seul nom de son aimée suffit à l'apaiser avant que sa folie ne redouble. Les hallucinations dont il est la victime lui font tenir des propos injurieux envers le roi ; il souhaite un temps renverser la situation militaire du pays puis finit par se résigner à mourir (scène 3).
 
 
-### Acte V
+### Acte V.
 
 Oronte et Birène s'entretiennent sur l'état de santé de Cléomédon, qui paraît aller mieux, mais sont interrompus par l'arrivée d'un homme à l'apparence misérable (scène 1). Cet homme si négligé, demande à parler au roi. Oronte et Birène le méprisent (scène 2). Policandre qui croise leur chemin reconnaît en lui Clorimante, un ancien ami. Clorimante demande un entretien privé (scène 3). Pendant ce temps, Célanire, au terme d'un monologue délibératif, décide de se donner la mort, ne pouvant accepter son sort (scène 4). Alors que Cléomédon avoue à Birène son projet de mettre à mal Policandre, Célanire s'avance et constate que la folie de Cléomédon a repris. Birène l'impute à l'annonce de l'arrivée d'Argire qui finalement a survécu. Célanire tente de rassurer Cléomédon sur son sort mais celui-ci n'accorde pas de crédit à ses paroles (scène 5). Enfin, Policandre, informé par Clorimante de la situation, annonce à Céliante qu'il est son père. Argire qui se réjouit d'une réconciliation future déplore tout de même d'être ignorante du sort de son second fils et regrette d'avoir été mauvaise mère en l'abandonnant. Le roi fait mander Clorimante afin qu'il informe la reine du sort qu'il connut. Le vieillard retrace son sort d'esclave et les péripéties subies durant vingt années. Il est pourtant sans nouvelles de l'enfant qu'il a perdu dans les guerres civiles. Enfin libre, il apprit les préparatifs de ce mariage incestueux et décida de se rendre à la cour pour dévoiler la substitution d'enfants. Célanire et Bélise se réjouissent. Argire qui croit son fils mort est détrompée par Policandre qui lui révèle avoir recueilli un enfant qui pourrait bien être ce fils perdu car il possède sur la main une tâche de naissance formant un laurier, tel que l'a décrit Argire. C'est Cléomédon (scène 6). Face à l'assemblée, qui lui révèle son identité, il croit que l'on se joue de lui. Le roi lui offre à nouveau en mariage sa fille aînée. Pour le bonheur de son fils, il offre Bélise à Céliante en révélant qu'elle n'est pas sa fille de sang, mais qu'elle est la fille d'une précédente épouse. Enfin, pour réparer ses torts, Policandre demande la main d'Argire qui y consent (scène 7).
 
 
-## Une source évidente : *l'Astrée*
+## Une source évidente : *l'Astrée*.
 
 Dès la publication de la première partie de *l'Astrée* en 1607, c'est un succès éclatant qui se prépare et qui perdurera tout au long du siècle. L'ouvrage d'Urfé rattache le XVII*e* siècle aux traditions polies et galantes de la société et de la littérature chevaleresques. Les guerres de la dernière moitié du XVI*e* siècle et leur influence sur les auteurs sont remplacées par des attitudes de personnages plus délicates. C'est la réaction de l'aristocratie élégante contre des mœurs et une éloquence jugées trop rudes. Le roman pastoral s'érige rapidement en modèle pour les auteurs de l'ensemble du XVII*e* siècle et propose une littérature d'un nouveau type que veulent s'approprier les modernes. S'inspirer du roman devient alors un gage de raffinement et de succès. La diégèse de *Cléomédon* est directement issue de deux histoires de *l'Astrée*. La première, source la plus manifeste, correspond à l'intrigue qui met en scène Rosiléon dans le livre X de la quatrième partie du roman, « Histoire de Rosanire, Céliodante, et Rosiléon ».
 
@@ -306,7 +306,7 @@ Cet écart, le plus conséquent par rapport au roman et aisément mesurable, tra
 Le passage du roman au théâtre implique donc des changements nécessaires : là où le roman permet un déploiement de l'intrigue en plusieurs lieux et sur une durée relativement élevée la pièce de théâtre invite à resserrer de tels épanchements. En ce sens, la cour de la reine Argire n'est présentée qu'en une unique scène, la scène liminaire, le reste de l'intrigue se jouant à la cour de Policandre. Du Ryer ne donne pas d'indication temporelle permettant au spectateur de définir la durée de l'action. La plasticité de l'intrigue issue de *l'Astrée* permet au dramaturge de proposer une tragi-comédie romanesque : substitution d'enfant, naufrage, reconnaissance, mort du confident juste avant sa révélation, princesse qui aime un captif, une autre amoureuse d'un esclave qui devient prince etc.
 
 
-## Création de la pièce
+## Création de la pièce.
 
 Lorsque Du Ryer compose *Cléomédon*, en 1636, le théâtre français connaît une période charnière. En effet, cette même année, l'on joue autant de tragédies que de tragi-comédies. Si les théoriciens aspirent au renouveau des règles dramaturgiques, le ton romanesque de la tragi-comédie assure toujours le succès des auteurs. La distribution de la pièce s'inscrit donc dans une période d'entre-deux qui se verra dépasser par la domination de ce que l'on nommera « tragédie classique ». La tragédie régulière a par ailleurs amorcé son rayonnement sous l'impulsion de Mairet qui fait jouer *Sophonisbe* (1635), de Benserade qui donne *Cléopâtre* (1636), ou encore de Scudéry avec *La Mort de César* (1636)… autant d'auteurs qui choisissent de remettre au goût du jour les sujets antiques qui ont à nouveau la faveur du public. *Cléomédon* se situe donc à la croisée des chemins, entre la vogue naissante de la tragédie romaine et l'engouement persistant pour la tragi-comédie romanesque. Du Ryer fait alors jouer une pièce susceptible de plaire mais dont le succès ne saura se poursuivre. Dans cette période en voie d'affirmation de la grande tragédie romaine il revendique une certaine autonomie par rapport aux règles et à la rigueur. C'est ainsi que le contexte permet de justifier les choix de création. Rappelons, pour préciser, les tenants et aboutissants de la tragi-comédie. De façon à peu près exactement contemporaine, Durval publie son *Discours à Cliton* [48] et donne une définition précise de la tragi-comédie qu'il appelle « poème composé » par opposition aux « poèmes simples » dont les événements et circonstances s'achèvent en un jour. La tragi-comédie est ainsi composée de multiples événements et dispose d'un espace et d'un temps fictifs qui peuvent couvrir plusieurs pays et plusieurs années. Elle n'a donc pas de prise avec la vraisemblance externe liée aux conditions matérielles de la représentation. Au contraire, elle se veut douée d'une cohérence interne c'est-à-dire qui ne respecte que les besoins du sujet. Ce dernier concerne toujours des amours contrariées qui finissent par trouver une résolution heureuse et se déroule au sein de l'aristocratie contrairement à la comédie. Une telle conception implique une dramaturgie de la prolifération ou encore de la variété ainsi que nous la retrouvons dans *Cléomédon*. Période de transition donc pour le théâtre mais aussi pour l'auteur lui-même qui fait jouer cette tragi-comédie héroïque à un moment intermédiaire de sa carrière, celui qui marque la rupture avec les créations de jeunesse et qui annonce les œuvres de la maturité dramaturgique.
 
@@ -328,23 +328,23 @@ Je ne vous diray point quel est ce Cleomedon, que j'ose aujourd'hui vous present
 L'allusion suggère que Du Ryer écrivit entre septembre 1633 et février 1634.
 
 
-# Réflexions sur une tragi-comédie de « l'émotivité triomphante [52] »
+# Réflexions sur une tragi-comédie de « l'émotivité triomphante [52] ».
 
 
-## La construction dramaturgique de *Cléomédon*
+## La construction dramaturgique de *Cléomédon*.
 
 
-### Les scènes
+### Les scènes.
 
 Les liaisons de scène sont vraisemblables dans *Cléomédon*. Pourtant très souvent les entrées et sorties des personnages ne donnent pas lieu à des subdivisions attendues. C'est que le découpage préclassique est inférieur au découpage classique définitivement appliqué à partir des années 1640. Ainsi, si l'on trouve vingt-trois scènes dans la pièce, l'exigence classique en aurait fait paraître au moins quarante. Le découpage est donc ample et imprécis. Le nombre de scènes nous donne un indice quant au rythme de l'action. Pour Jacques Scherer, le « nombre des scènes définit … la rapidité de la pièce. Si les scènes sont nombreuses, c'est que les allées et venues des personnages sont fréquentes, et que les apparitions des personnages sont assez courtes, puisque la durée de la pièce est à peu près constante ; si au contraire le nombre de scènes est peu élevé, ces scènes seront longues et le mouvement des personnages sera lent [53] ». Conformément aux moyennes établies par le théoricien, *Cléomédon*, avec une quarantaine de scènes attendues, fait partie des pièces rapides. L'acte V est de loin le plus rapide, avec sept scènes il précipite l'action vers sa fin. *A contrario*, les actes I et IV sont des plus lents (trois scènes pour chacun d'eux). La construction globale est donc largement irrégulière. À la rapidité de la pièce fait écho l'exceptionnelle longueur de *Cléomédon*. Rappelons que la moyenne des pièces du XVII*e* siècle est de 1700 vers et que l'œuvre de Du Ryer en compte 2149. La seule première scène de l'acte I fait plus de 320 vers ce qui correspond à la longueur d'un acte entier. *Cléomédon* pièce rapide mais démesurément longue fait figure de pièce originale.
 
 
-### Le dénouement
+### Le dénouement.
 
 Le dénouement de la pièce est fragile car il semble ne reposer que sur la seule bonne volonté de personnages désormais prêts à se pardonner sans que ne soit entendue la moindre demande de pardon. La nature éphémère et provisoire de la fin de la pièce est le propre de la tragi-comédie. Ainsi, elle ne met pas en évidence une réelle progression : à l'acte I, Policandre voulait unir sa fille à Cléomédon, il scelle cette alliance au dernier acte. À ce titre, l'acte liminaire n'est qu'un moment d'apaisement pour les héros qui viennent de résoudre un obstacle et la fin de la pièce n'est qu'une suspension provisoire du malheur (les rivaux de Cléomédon pourraient de nouveau se rebeller).
 
 
-### La vraisemblance
+### La vraisemblance.
 
 Venant contredire la notion, certaines idées ou révélations auraient pu survenir dès le début de la pièce mais l'auteur les réserve pour les besoins de la dramaturgie. En ce sens, relevons les propos de Policandre à Argire :
 
@@ -360,12 +360,12 @@ D'un premier mariage elle avoit eu Belise (v. 2129-2131)
 C'est ce que Scherer appelle une « invraisemblance invisible [54] ». Il paraît en effet bien improbable que la reine ou le roi n'aient pas fait ces annonces plus tôt. Bien des déboires auraient été ainsi évités. Or la pièce n'aurait pu être légitimée : « Ce remède qui est la possession d'un secret aurait terminé la pièce avant qu'elle ne commence. » Pourtant cette invraisemblance ne heurte pas la sensibilité du public qui voit dans ce dénouement une façon de résoudre des conflits sérieux et profonds. L'intrigue de la pièce est telle que l'on ne se soucie pas de cette vraisemblance relativement grossière. Les caractères sont eux-mêmes parfois peu cohérents : Argire accepte d'épouser celui qui la méprisa ; Céliante abandonne subitement tous sentiments pour Célanire ; Clorimante vient à la cour après vingt ans d'absence justement au moment opportun.
 
 
-### Les péripéties
+### Les péripéties.
 
 Elles sont fausses. Le spectateur apprend la mort d'Argire à l'acte IV, scène 2 puis son arrivée à la cour du roi à l'acte V, scène 5. Ces faits ne sont pas de réelles impulsions et ne servent en rien à l'action car ils n'introduisent pas de situation nouvelle. Il s'agit donc là de péripéties artificielles. L'obstacle demeure de même nature malgré ces contretemps, la dramaturgie s'attache alors à entasser les périls successifs pour le plaisir du public. Une vraie péripétie modifie la situation matérielle de la pièce ou la situation psychologique des héros. Le passage de la vie à la mort est un moyen constant et facile de passionner la fin d'une action. Leur nature, par ailleurs, est romanesque. Les coups d'épée, les unions clandestines, l'enlèvement d'enfant par des pirates, le naufrage, les intrigues de palais, la substitution d'enfants, la folie, la fausse mort, les amours contrariées…. Autant d'actions qui pourtant ne retentissent pas dans l'âme des héros et laissent la pièce dans l'inertie. Le recentrement est tout entier psychologique. Ainsi, la scène 1 de l'acte II, pour prendre un exemple, est fondée sur des répliques qui filent la métaphore de la servitude amoureuse. Elles mettent en lumière l'amour des jeunes princesses pour les deux héros. Pourtant, Célanire et Bélise ne se révèlent rien et même à l'acte IV, scène 2, où Bélise se montre plus téméraire dans son aveu, Célanire ne semble toujours pas comprendre les inclinations de sa sœur. Les péripéties de ce genre permettent donc à Du Ryer de faire la démonstration d'une certaine acuité intellectuelle (métaphore, jeu de sonorités, jeu de mots, parallèles…) mais elles n'annoncent pas de révélation et ne font pas avancer la pièce.
 
 
-### Les unités
+### Les unités.
 
 Nous observons que si Du Ryer ne respecte pas l'unité de lieu la spatialité de la pièce ne semble pas pour autant éclatée. Dès la deuxième scène de l'acte I, l'intrigue se situe à la cour de Policandre, second lieu de l'action. La pluralité spatiale, puisque nécessaire, vraisemblable et raisonnable est admise [55]. Toutefois le dramaturge ne présente la cour d'Argire qu'en une unique scène (I, 1) ce qui évite l'impression d'éparpillement. Ce choix semble cohérent avec la période de transition à laquelle appartient Du Ryer : s'il écrit pour la scène tragi-comique, fort appréciée, il n'en délaisse pas moins des exigences de rigueur dramaturgiques pour ne pas heurter la vogue des tragédies classiques qui renaissent. Quant au temps, une unique allusion s'est immiscée dans la pièce :
 
@@ -376,10 +376,10 @@ Est-ce à dire que Du Ryer respecte l'unité temporelle ? Si tel est le cas il 
 L'unité d'action est quant à elle scrupuleusement respectée. L'action secondaire, celle qui fait que Céliante est aimé par Bélise, se rattache à l'action principale en autorisant les deux unions pour une fin heureuse qui ne spolie personne.
 
 
-## Le personnel dramatique
+## Le personnel dramatique.
 
 
-### Cléomédon
+### Cléomédon.
 
 Héros éponyme de la pièce de Du Ryer, Cléomédon possède toutes les qualités attendues par le spectateur contemporain. Un seul détail le fait échapper au type même du héros classique, son âge avancé. En effet les rares allusions temporelles de la pièce permettent de donner à Cléomédon environ vingt-six ans. Clorimante lors de son récit final expose :
 
@@ -450,7 +450,7 @@ Il faut que son trespas precede icy le mien (v. 1838)
 Personnage éponyme de la tragi-comédie, Cléomédon sait être valeureux et peut être érigé en modèle. La portée didactique de la pièce trouve en lui son porte-parole ; l'engouement des contemporains pour l'héroïsme peut se satisfaire de ce personnage. Il répond aux caractéristiques majeures du héros romanesque, celui dont le courage n'a d'égal que son amour pour une femme honorable et vertueuse.
 
 
-### Célanire
+### Célanire.
 
 Personnage féminin majeur de la pièce, Célanire semble bien être le véritable héros de cette tragi-comédie. En présence dans treize scènes sur vingt-trois, son rôle est pratiquement deux fois plus important que ne l'est celui de Cléomédon. Elle se livre au spectateur sous l'égide de deux traits caractéristiques essentiels : elle est une fille exemplaire et une amante irréprochable.
 
@@ -490,7 +490,7 @@ Personnage impulsif toutefois, par deux fois Célanire décide de mettre brutale
 Bien plus que sa sœur Bélise, Célanire est un véritable enjeu pour l'Empire. Elle est le centre d'attention des courtisans, de l'ennemi et du roi. À l'acte III, scène 5, où l'on annonce qu'elle sera donnée au prince Céliante, son nom n'apparaît pas moins de six fois, sans jamais pour autant être le sujet du vers, soulignant ainsi l'objet politique qu'elle représente. Ce poids de la charge lui pèse tant qu'elle en vient à ne plus pouvoir le porter sans jamais pour autant vouloir désobéir. En revanche, elle ne peut se faire à l'idée de laisser croire à Cléomédon qu'elle lui est infidèle et c'est donc légitimement la mort qu'elle envisage comme solution ultime (v. 1815 à 1822). Si la mort n'est pas un signe de lâcheté chez Célanire c'est qu'elle est nécessaire pour lui éviter de se rendre coupable soit aux yeux de son père soit aux yeux de son amant. C'est justement cette innocence qu'elle ne peut conserver si elle vit.
 
 
-### Céliante
+### Céliante.
 
 Le prince Céliante est avant tout un homme de gloire. Son courage est à la hauteur de ses ambitions même si celles-ci peuvent sembler parfois assez viles. Fils d'Argire et de Policandre il tient de l'un son irrésistible envie de prestige, de l'autre son instabilité psychologique. La scène liminaire présente d'emblée au spectateur son attrait pour le pouvoir (v. 25 à 28). À la manière des héros cornéliens, Céliante se bat pour lui, pour le prestige. Le danger paraît décupler son audace tant il peut l'aider à s'approprier une renommée certaine (v. 99 à 105). Ainsi ses trois répliques liminaires contiennent toutes le substantif *gloire*. Pourtant sa capture par Cléomédon lui est fatale et abat net son courage. Incarnant les espoirs de son peuple tout entier, sa défaite, relativement prompte, entache ses ambitions. Du fond de sa geôle (II, 3), il se morfond à la fois sur son sort de captif et sur son amour pour Célanire (v. 671 à 674). Son précédent discours sur la gloire semble bien éloigné de ses préoccupations actuelles, et il se laisse de la sorte aisément abattre par la situation. Les propositions téméraires d'Oronte ne trouvent pas spontanément d'écho en lui. Ne pouvant souffrir l'échec, il s'empresse de poser une alternative radicale prouvant ainsi qu'il est un personnage intransigeant, qui souhaite tout et ne supporte rien :
 
@@ -529,7 +529,7 @@ L'ensemble de la scène 1 de l'acte IV n'est pas favorable au jeune prince qui n
 Personnage falot donc, Céliante est un prince tragi-comique de bas-étage. Jamais ses sentiments ne sont sincères, jamais il ne pense à autre chose qu'à sa propre gloire. On ne peut somme toute pas lui ôter sa valeur guerrière, prêt à tout certes pour le prestige, mais ne craignant pas les dangers.
 
 
-### Bélise
+### Bélise.
 
 Face à sa sœur Célanire, il est bien difficile pour Bélise de s'imposer dans cette tragi-comédie. Personnage relativement discret mais sincère elle semble être destinée à subir l'intrigue. Sa première apparition à l'acte I, scène 2 ne lui donne pas vraiment de consistance. Son autonomie dans cette scène est réduite au profit de l'épanchement lyrique de Célanire qui plaint les malheurs de son père. Certes, Bélise est elle aussi touchée par les maux du royaume comme en témoigne sa réplique empreinte de douleur :
 
@@ -565,7 +565,7 @@ La seule aspérité de ce personnage se déclare au moment où elle tente de con
 Du Ryer compose entièrement ce personnage dont le rôle est pratiquement inexistant dans *L'Astrée*. Celle qui se nomme là Céphise n'est qu'un doublon *a minima* de Rosanire. Elle n'est ni amoureuse ni souffrante. Dans sa jeunesse elle fut certes déçue de voir Rosiléon s'éloigner d'elle pour gagner le cœur de sa sœur mais cela semble s'envisager plutôt sous le signe de la rivalité sororale. Aucun épanchement, aucune inclination pour Céliodante qu'elle finit par épouser afin de satisfaire les intérêts de tous. Les querelles comiques de Rosanire et Céphise se transcendent, dans la pièce, en une rivalité passionnée qui se souffre en silence au nom de l'amour familial. Du Ryer amplifie et transpose ces quelques traits esquissés dans le roman afin de dramatiser les enjeux du conflit. Il reprend de la sorte la théorie aristotélicienne selon laquelle le drame qui se noue au sein d'une même famille est le seul porteur d'enjeux.
 
 
-### Argire
+### Argire.
 
 Argire est une reine cornélienne qui fait avant tout la guerre pour sa propre gloire. Son ample présence dès la scène d'exposition ainsi que le récit de son histoire avec Policandre qui monopolise son discours induit le spectateur en erreur, persuadé qu'Argire et Policandre sont les personnages principaux de la pièce. L'histoire de la reine est celle d'une femme bafouée qui refuse de laisser son offenseur impuni. Ainsi, elle est un personnage soumis à ses passions. Passion amoureuse tout d'abord :
 
@@ -596,7 +596,7 @@ C'est en deux vers seulement que la reine revient sur les actes belliqueux dont 
 Dans *L'Astrée*, Argire est certainement le personnage qui donne le point d'ancrage au récit qui n'est pas l'histoire de Rosiléon mais bien celle de la reine. Elle permet au romancier de véhiculer une morale qui passe par le mauvais exemple que représente Argire. D'un point de vue urféen Argire incarne l'impétuosité et l'impatience. Portant à leur paroxysme ces deux défauts elle illustre les fondements de la mauvaise conduite. Si dans *Cléomédon* les raisons de Policandre pour l'abandonner sont passées sous silence, elles nous sont connues dans *L'Astrée*. Ainsi, toute la perspective en est changée. La pièce de Du Ryer légitime la colère de la reine car elle fait de Policandre un personnage impitoyable. Cependant le roman offre au lecteur une tout autre vision d'Argire qui, bien qu'abandonnée, n'est pas méprisée par son ancien amant. C'est ainsi qu'Argire est, dans le roman comme sur scène, une reine cruelle et intransigeante. Mais la pièce de théâtre en légitimant sa fureur autorise son comportement. Le roman livre l'image d'une femme incapable de toute contenance mais qui sait embraser un empire pour un amour déçu. La posture de Policandre, empreinte de remords et de bon sens, lui renvoie tout l'excès de son comportement. Argire mène un projet, celui de donner aux générations futures l'image de la femme susceptible de conduire son destin tel un homme. En ce sens elle manigance et se fait stratège afin de trouver le prétexte pour déclencher la guerre. Sa vengeance se veut exemplaire et sans borne. En tant que personnage romanesque Argire est donc une reine hystérique dont la vengeance n'a d'égale que sa cruauté ; en tant que personnage dramatique elle est une femme bafouée qui ne trouve l'apaisement que dans la vengeance.
 
 
-### Policandre
+### Policandre.
 
 Le roi est une figure essentielle de la pièce. C'est lui qui joue le rôle du principal opposant aux jeunes héros et qui génère l'intrigue. Sans lui, nulle guerre d'Argire, nulle folie de Cléomédon, nulle soumission filiale héroïque … Ce qui importe avant tout c'est de penser ce personnage en termes paradoxaux. En effet, s'il est omniprésent dans la pièce (son nom par exemple est prononcé pas moins de treize fois dans la seule scène d'exposition ; il est sur scène par sept fois, c'est-à-dire autant que Cléomédon) son caractère, lui, est pour le moins assez faible voire effacé. À sa présence corporelle ne correspond donc pas une épaisseur psychologique comme le montrera la facilité avec laquelle il se laisse manipuler par sa cour. Le roi illustre avant tout le libre-arbitre du potentat. Il est un politicien pour qui la parole ne vaut que pour l'avantage qu'elle fournit au moment où elle s'exprime. Elle n'a pas de valeur absolue. C'est ainsi qu'il est d'emblée présenté par Argire :
 
@@ -651,17 +651,17 @@ Policandre incarne donc le roi méprisable capable de revenir sur sa parole par 
 S'il est un personnage que Du Ryer transforme radicalement, relativement à la source urféenne, c'est bien Policandre. Le choix de la pièce de taire les raisons de sa rupture avec Argire fausse pratiquement entièrement le caractère originel de ce personnage. Dans *L'Astrée*, Policandre, après avoir promis à Argire de l'épouser, doit s'en retourner dans son pays. Là, la guerre qui ravage ses terres le contraint à s'unir à Clorisène pour apaiser les conflits, encouragé au demeurant par la rumeur de la mort d'Argire. Certes il n'en éprouve pas de douleur particulière car la jeune Clorisène vers qui le conduit la raison d'Etat ne tarde pas à gagner son cœur. C'est ainsi que la mort de sa reine va lui causer de graves tourments et qu'il décidera de ne plus se consacrer qu'à ses enfants. Une décision que ne peut supporter Argire qui espérait qu'à la mort de Clorisène, Policandre saurait lui revenir. On le voit, le roi romanesque semble bien moins méprisable que celui de Du Ryer. En outre, la lecture de l'œuvre d'Urfé montre combien il est difficile pour lui de revenir sur sa décision de donner Rosanire à Rosiléon, fortement influencé par une cour plus que téméraire et ambitieuse. Dans le roman c'est un véritable Conseil d'Etat qui siège pour faire reculer le roi. Ce personnage, loin d'être vil est contraint d'obtempérer pour son pays. Son respect pour sa première femme et son amour posthume font de lui un homme d'honneur. C'est aussi au nom de l'honneur qu'il se résout à épouser Argire dans le but d'unir leurs deux nations et de tenir une promesse contractée longtemps auparavant. Si Du Ryer opère un tel basculement dans la psychologie de ce caractère il semble probable qu'il tente ainsi de concentrer une action romanesque trop éparse. Policandre, en assumant le rôle négatif de la pièce, stigmatise les passions des personnages et donne de la teneur aux épanchements lyriques. C'est de la sorte que le dramaturge parvient à épurer les traits d'une diégèse complexe et enchevêtrée et offre un type à son public, celui du roi versatile et prétentieux. La transformation de l'essence de ce caractère gomme la dilatation du récit au profit d'une brièveté et d'une concentration de l'effet sur scène.
 
 
-### Birène
+### Birène.
 
 Capitaine des armées de Policandre, Birène n'est pas un personnage essentiel. Pourtant ses rares apparitions (six scènes en tout) sont d'importance pour la pièce. D'emblée, Birène est présenté comme un personnage optimiste. Alors que Policandre est abattu par sa défaite imminente, il tente de lui faire reprendre ardeur (v. 376). C'est Birène qui introduit Placide à la cour du roi, ce personnage qui semble capable de renverser positivement la situation de Policandre. Cependant, même lorsque le confident d'Argire expire, ôtant tout espoir au roi, Birène a la faculté de déplacer les espérances. Ainsi, non touché par la mort du confident il trouve d'autres raisons d'espérer (v. 414-415). En outre, Birène est le soutien de Cléomédon lorsque celui-ci sombre dans la folie. À l'acte IV, scène 3, il lui demande plusieurs fois de dompter ses transports. Ayant également pris conscience que seul le nom de son aimée parvient à apaiser Cléomédon, Birène n'hésite pas à nommer Célanire pour le bien du héros (v. 1693-1694). À l'acte V, scène 2, alors qu'Oronte méprise ouvertement Clorimante sur la seule foi de son habit, Birène s'abstient de tout jugement de valeur. Il est donc un personnage honnête et droit. Par ailleurs, le chef des armées, bien que dévoué à son roi, semble, par souci d'équité, soutenir Cléomédon, sans pour autant prendre véritablement partie, préférant s'en remettre aux « Dieux esquitables » (IV, 3, v. 1713). Il abrite l'entretien de Célanire et Cléomédon (v. 1849-1850) et mène à bien sa mission de surveillance (v. 1908). Il s'agit là de ses dernières paroles, laissant au spectateur, l'image d'un homme qui, sans trahir ni son roi (jamais il ne légitime les propos de Cléomédon à l'encontre de Policandre), ni la droiture morale, sait se montrer intègre et digne de confiance. Il introduit donc dans la pièce des valeurs morales positives et oppose à la folie de Cléomédon, à l'extravagance du roi, et aux intrigues de Timante, Oronte et Créon, sa constance et sa persistance dans la voie de l'intégrité.
 
 
-### Créon
+### Créon.
 
 Simplement désigné dans la liste des acteurs comme un *Prince*, Créon incarne la posture belliqueuse. Foncièrement royaliste il se refuse, quel que soit le prix à payer, à voir monter sur le trône un ancien esclave (v. 819 à 823). Toutefois, Créon n'est pas un homme de décision. Il n'évoque son aversion pour Cléomédon qu'après avoir entendu celle de Timante (II, 4) et ne dit presque rien lors de l'entrevue avec Oronte (II, 5) laissant le soin à Timante de comploter. Créon est donc un homme susceptible d'alimenter les querelles mais non de les mener. Bien que méprisable par ses propos, c'est un personnage faible et effacé, doublon de Timante.
 
 
-### Timante
+### Timante.
 
 Autre courtisan belliqueux avec Créon, Timante conspire contre Cléomédon qu'il méprise en raison de son statut d'ancien esclave. Farouche opposant à l'altération de la lignée royale il désire unir Célanire à Céliante pour assurer la pérennité de celle-ci. Il est à ce titre fervent royaliste, prêt à tout pour arriver à ses fins idéologiques (v. 807-808). La scène 2 de l'acte V le montre en parfait conspirateur. Aux côtés de Créon il tente de s'allier Oronte afin d'éloigner Cléomédon du trône. Coup fatal porté à son ennemi, il parvient à tourner l'esprit du roi en sa faveur (III, 4), prouesse qu'il accomplit seul. Policandre ne résiste pas aux attraits d'une paix durable présentés par Timante (v. 1137-1138). Enfin, sûr de la future rébellion de Cléomédon, Timante laisse croire au roi que le jeune héros ne saurait contester ce changement de décision, le faisant ainsi passer pour un homme en quête de pouvoir (v. 1153 à 1156). Soucieux d'agir vite et efficacement c'est lui qui annonce à Cléomédon que son mariage avec Célanire est annulé au profit de Céliante après avoir longuement exposé l'argument du bien-être du peuple pour desservir à l'avance le propos de Cléomédon (III, 5). À l'acte IV, scène 2, de façon bien étrange c'est lui qui vient annoncer à Célanire le prétendu naufrage d'Argire comme pour infliger à la princesse un léger soulagement qui ne fera que rendre plus cruelle l'infirmation de cette information. Il semble prendre plaisir à contredire les espoirs de l'héroïne :
 
@@ -675,7 +675,7 @@ C'est assez de sçavoir que le fils est resté. (v. 1580 à 1583)
 Ce sera là sa dernière prestation scénique. La pièce ne le condamne pas. Ainsi, en flattant le roi et en conspirant contre le héros, Timante est un personnage qui correspond à l'image que les contemporains se font des courtisans, des hommes de basse morale et sans scrupules.
 
 
-### Oronte
+### Oronte.
 
 Confident de Céliante, Oronte sait être un ami sincère :
 
@@ -735,7 +735,7 @@ Une honnorable paix, et pour vous, et pour moy (v. 1941 à 1944)
 Placide, qui veut révéler le secret de la reine, n'est pas un personnage héroïque capable de trahir pour le bien de l'Etat. Au contraire, cette révélation d'Argire ne permet que de mettre en valeur le talent de manipulatrice de la reine. Placide est donc ce personnage protatique qui ne sert qu'à l'amorce de l'action. Il est le réceptacle du secret d'Argire et le moyen peu fiable de sa vengeance. Tout confident qu'il est, il tente de révéler le secret de la reine se rendant ainsi le simple passeur de la parole. Qu'il l'accueille ou qu'il tente de la révéler son rôle ne sert pas l'intrigue mais bien uniquement le spectateur. Il est le personnage qui permet de condenser une action complexe par sa parole et par sa capacité à écouter le long récit liminaire d'Argire.
 
 
-### Clorimante
+### Clorimante.
 
 Clorimante est introduit dès la scène d'exposition par l'intermédiaire de la tirade d'Argire qui prononce son nom (v. 266-267). Ce personnage qui ne reparaîtra qu'à la fin de la pièce ouvre et ferme l'intrigue lui donnant sa cohérence. Figure essentielle de la pièce, lui seul peut révéler le sort de Cléomédon et corroborer son identité. Il amorce donc la résolution du drame qui se joue à la cour. Or sa fortune est obscure ainsi que le déclare Argire (v. 272 à 275) ce qui retarde son apparition sur scène. Lorsque la dramaturgie lui permet de se présenter, c'est à la cour du roi qu'il fait son retour avec la ferme intention de mettre fin à un mariage que ne saurait souffrir la nature. Là, il se montre capable d'une certaine pensée philosophique de l'être et du paraître (v. 1758 à 1761) qui l'anoblit. Car certes Clorimante est un être bon dont l'abnégation est mise au service de l'Etat. Du moins devons-nous considérer son dévouement comme utilitaire car sa personnalité est minime ; il semble bien incapable d'agir avec conscience et détermination tant son rôle dans la pièce est ambigu. En effet, sans que la reine Argire ne cherche à le sauver alors même qu'il se perdit en son nom, il n'hésite pas, dès sa liberté retrouvée, à venir à la cour pour lever une intrigue complexe. En ce sens, son sort ne préoccupe personne. La reine par exemple s'empresse de profiter de son savoir en s'évitant toute adresse de politesse :
 
@@ -757,10 +757,10 @@ Qu'on esloigne ce gueux. (v. 1767)
 Son apparence physique, son statut, sa non-considération par les autres personnages le rendent étranger à l'atmosphère de la pièce. Ils soulignent et signalent sa fonction extraordinaire. Tel un *deus* humain, il n'apparaît que pour achever l'action. Cette fois-ci, Du Ryer minimise le rôle du personnage romanesque alors même qu'il amplifie le caractère de la plupart des protagonistes urféens. Dans *L'Astrée*, Vérance est un personnage dont la psychologie se lit sur plusieurs pages. L'*incipit* de « L'histoire de Rosanire, Céliodante, et Rosiléon » donne à voir un être fiable et attentif. Non pas simple passeur, Vérance a la charge honorifique d'élever l'enfant d'Argire. Les circonstances ne seront pas en sa faveur mais il bénéficie de toute la confiance de la reine. L'*excipit* lui offre la possibilité d'épanchements lyriques nombreux. Entre regrets, résignation et abattement il s'excuse, pleure et implore. Policandre lui accorde toute son attention. C'est d'ailleurs Vérance lui-même qui annonce au roi que Céliodante est son fils. Si dans la pièce il amorce la possibilité d'un renversement de situation, dans le roman c'est lui qui bouleverse la diégèse. Du Ryer amoindrit donc son rôle pour ne faire de lui qu'un élément artificiel de la dramaturgie. Moyen efficace pour achever une action complexe.
 
 
-## Poétique fondamentale
+## Poétique fondamentale.
 
 
-### Convention et transgression
+### Convention et transgression.
 
 De façon tout à fait paradoxale *Cléomédon* abrite deux conceptions psychologiques que soulignent deux esthétiques théâtrales. La première est celle qui consiste à faire des personnages des êtres galants et courtois, mus par des émotions polies et distinguées. La seconde, littéralement antithétique, met en scène des personnages en proie, pour le moins, à la déraison, et qui peuvent sombrer dans la folie.
 
@@ -910,7 +910,7 @@ Il a fait le dessein que je vous viens de dire. (v. 1385-1386)
 Cette folie est donc un élément figé qui relance ou termine les épisodes de l'intrigue. Les errances de la conscience de Cléomédon renouent ainsi avec l'essence même de la tragi-comédie dont les obstacles peuvent être à l'infini réactivés. Les frères Parfaict établiront une critique virulente des scènes de folie et celles de Cléomédon n'y échapperont pas : « Cléomédon de Du Ryer seroit assez passable, si Cléomédon n'y jouoit pas le personnage d'un fou pendant plus d'un Acte [61] » Pourtant c'est là tout l'intérêt de la folie du personnage. L'apaisement de sa fureur va de pair avec *l'anagnôrisis* : l'égarement psychologique du héros s'achève avec sa reconnaissance qui lui permet de terminer sa quête identitaire. Il lui fait également dire des vérités politiques majeures.
 
 
-### Parole politique et politique de la parole
+### Parole politique et politique de la parole.
 
 *Cléomédon* est avant tout une intrigue amoureuse dont les connotations politiques ne sont que des prétextes. Toutefois, il y a là un thème qui mérite que l'on s'y attarde. Le cœur même de cette tragi-comédie et l'obstacle essentiel qui entrave le parcours des héros prend son origine avec l'acte de Policandre qui consiste à donner puis à reprendre sa parole. Ce non respect de la promesse est vécu par Cléomédon comme une injure suprême. En effet, le héros au cœur pur et à la conscience naïve croit, envers et contre tout, à la valeur performative du langage. Dire c'est faire. C'est bien sûr sans compter sur Policandre qui en bon politicien manie le langage avec habileté, toujours pour éviter les conflits directs : il donne sa parole à Argire puis la reprend alors qu'il se trouve à distance, évitant de la sorte de lui annoncer sa rétractation ; il donne sa parole à Cléomédon puis laisse son conseiller lui révéler les desseins plus honteux qu'il a formés dans son dos. On le voit, le roi use du langage pour abuser des hommes au nom de la raison d'Etat. Partant, sa traîtrise langagière va pousser le personnage éponyme à commettre une double *hamartia*. Il va tout d'abord faire montre d'un orgueil démesuré et donc coupable :
 
@@ -962,7 +962,7 @@ Les épanorthoses souvent repérables dans son discours font de lui un monarque 
 Policandre est donc le personnage qui mène une politique de la parole. Tout entier tourné vers ses propos sans valeur, il n'agit jamais conformément à ce qu'il dit ou encore n'agit pas du tout. Sa parole le rend inerte. Céliante, inconsciemment, est un Policandre *a minima* qui se sert des mots pour parvenir au pouvoir. Radicalement opposé à cette politique de la parole, Cléomédon, à l'âme innocente, croit en la parole politique car pour lui elle est le gage d'une action à venir. Cette confrontation entre son être et la perversité de l'Autre le fera sombrer dans la déraison jusqu'à ce que chose promise soit effectivement due. Pour ce personnage, les mots actualisent les actions et le mensonge ou le désengagement est une faute impardonnable car il brouille les relations à autrui et ébranle ce en quoi l'on peut normalement se rattacher. La politique de la parole est sans lien avec la parole politique qui, naturellement, se doit d'être noble et assurée. En filigrane, Du Ryer émet une critique de la manipulation par les mots, surtout celle qui émane des Puissants. La dissonance entre le discours de Cléomédon et celui de Policandre, par des inflexions imperceptibles, crée une langue de la dissidence. Celui qui trahit sa parole ne mérite pas de gouverner, aussi bien né soit-il.
 
 
-### La naissance méritée ou le mérite de la naissance
+### La naissance méritée ou le mérite de la naissance.
 
 *Cléomédon* est une tragi-comédie de la dichotomie qui oppose la naissance et le mérite. Corollaire de cette opposition, le thème du prince déguisé fait ici son apparition. Ainsi, Cléomédon, prince sans le savoir, se comporte tel. Tirant sa diégèse de *l'Astrée* c'est bien là que Du Ryer puise l'esthétique du prestige de l'amant qui s'inscrit dans une « mystique platonisante [62] » que vulgarisent les philosophes et penseurs italiens du siècle précédent. L'amour tendre ne saurait naître sans la connaissance des qualités extraordinaires du héros. Ainsi Pelous déclare :
 
@@ -1056,7 +1056,7 @@ Puisque mesme en naissant il obtint des lauriers (v. 2076-2079)
 La basse extraction, du moment qu'elle est relayée par le mérite, est pardonnée par des cœurs purs (comme Célanire) mais la dramaturgie la fait toujours coïncider avec une erreur identitaire.
 
 
-## Postérité d'un tel sujet
+## Postérité d'un tel sujet.
 
 En 1637 l'Hôtel de Bourgogne fait jouer *Alcionée*. Le public connaisseur de Pierre Du Ryer n'est pas surpris de découvrir sur scène un sujet qu'il avait vu représenter trois ans auparavant, proche de celui de *Cléomédon*. Passant de la tragi-comédie à la tragédie, le dramaturge exploite à nouveau le thème de la parole royale d'abord donnée puis reprise. L'intrigue qui entretient des liens ténus avec celle de *Cléomédon* se veut moins complexe.
 
@@ -1093,7 +1093,7 @@ La comparaison est donc de mise entre les deux pièces et c'est d'ailleurs sur c
 Cette « simplicité » tient aux différences majeures de sources. Là où *Cléomédon* puise l'inspiration dans la prolifique substance littéraire de *l'Astrée*, qui plus est il en extrait deux intrigues qui s'entremêlent, *Alcionée* semble ne devoir sa diégèse qu'à un unique épisode du *Roland furieux* de l'Arioste, le trente-quatrième chant.
 
 
-## Jugements
+## Jugements.
 
 S'il est une pièce de Du Ryer que la postérité retient c'est bien la tragédie *Alcionée*. Condensant les critiques élogieuses du XVII*e* siècle et celles des siècles suivant Scherer déclare :
 
@@ -1125,7 +1125,7 @@ J'ai fait la guerre aux rois, je l'eusse faite aux dieux.
 Une bien belle postérité pour *Cléomédon*. À ceci près que l'historien de la littérature s'est mépris en faisant passer ces vers *d'Alcionée* (v. 912-913) pour ceux de *Cléomédon*…
 
 
-# Conclusion
+# Conclusion.
 
 Du Ryer le petit poète, Du Ryer le traducteur dans la précarité sociale, Du Ryer le dramaturge qui ne porte rien vers la perfection… L'on peut certes condenser les critiques acerbes décochées à ce préclassique sans qui néanmoins le théâtre eût, à n'en point douter, souffert, mais l'on se doit de lire cette ombre de Corneille à la plume sûre et au vers noble afin de mener une réflexion sur le théâtre du premier XVII*e* siècle. Cet auteur sans postérité ne manqua sans doute pas d'intuition mais ne put s'imposer sur la scène française tant il fut d'un temps de la transition. L'hésitation qui le fait osciller entre la tragi-comédie finissante et la tragédie naissante le condamne à l'oubli. Pourtant il fut homme de talent, polygraphe doué et reconnu. Est-ce à dire qu'il transforma le théâtre de son siècle ? Sans doute pas. Mais son empreinte n'est pas insignifiante. *Cléomédon* en témoigne. Tragi-comédie qui questionne le mérite, l'amour et la politique, elle n'est pas la fierté du théâtre français mais elle n'est pas non plus, loin de là, sa honte. Ses vers empreints de sensibilité, d'acuité intellectuelle, d'humour et de jouissance des mots savent toucher le lecteur érudit. Les personnages en proie à la souffrance, à la blessure d'amour, à la rivalité, aux conflits et aux stratégies politiques paraissent profondément proches d'un public confronté aux difficultés de son siècle. Du Ryer démontre à travers eux qu'il est capable de revisiter et d'approfondir une intrigue romanesque complexe. Quatre ans plus tard, la publication d'*Alcionée* témoigne d'un engouement certain pour les thématiques que le dramaturge parvint à mener vers l'intérêt et la sensibilité des spectateurs. Deux siècles plus tard, les critiques littéraires, même majoritairement agressives, attestent que cette plume sans postérité a encore des histoires à raconter. Mais c'est assez pour ce dramaturge d'être reconnu en son temps…Ainsi ces quelques mots de Jean Loret dans la *Muse Historique* :
 
@@ -1148,10 +1148,10 @@ Et, bref, tant de divins Ecrits
 Dont tu ravissais nos Esprits.  
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Éditions contemporaines
+## Éditions contemporaines.
 
 La présente édition reproduit l'édition originale de *Cléomédon* de Du Ryer, dont le privilège est daté du 31 décembre 1635 et l'achevé d'imprimer du 21 février 1636. L'édition suivie se trouve à la Bibliothèque Nationale de France, sous la cote YF-6853. Nous avons eu connaissance de dix-sept exemplaires. Parmi les plus notables les suivants :
  * – Bibliothèque municipale d'Avignon, édition in-4°, 1638, chez Anthoine de Sommaville, 34841/2
@@ -1163,7 +1163,7 @@ Un exemplaire a paru en 1637 chez le même éditeur. Les autres se trouvent dans
  * – Bibliothèque des Arts du spectacle Richelieu, édition in-4°, 1637, chez Anthoine de Sommaville, 8-RF-6088
 
 
-## Interventions sur le texte
+## Interventions sur le texte.
 
 Nous avons suivi le texte original en nous bornant à moderniser l'orthographe en distinguant les *i* des *j* et les *u* des *v* pour la commodité de lecture ; à corriger les coquilles ou les oublis manifestes (corrections faites sur la base d'éditions postérieures et signalées entre crochets) ; à établir le texte en caractères romains ; et à faire apparaître les didascalies conformément à l'usage typographique moderne (dans l'édition suivie, les didascalies apparaissent dans la marge dans un jeu de caractères romains, nous les notons en italique, au centre de la page). La ponctuation n'a été modifiée que lorsqu'elle entravait véritablement la compréhension du lecteur. Notre souci est celui de la fidélité à l'intention déclamatoire voulue par le dramaturge. Enfin, nous signalons que les accents diacritiques, très souvent omis dans les textes de théâtre du XVII*e* siècle, sont pratiquement tous, dans ce texte, du fait de l'imprimeur lui-même.
 
@@ -1185,7 +1185,7 @@ Enfin, le texte fait état de plusieurs ruptures brutales de la parole que la po
  * – Il est. (v. 1982)
 
 
-## Description de l'édition originale de 1636
+## Description de l'édition originale de 1636.
 
 *Cléomédon*, tragi-comédie, In-4°, Paris, chez Anthoine de Sommaville, 15 feuillets dont un non paginé (le cahier liminaire de huit pages), 143 p. (VIII-135 p.). Privilège du 31 décembre 1636, achevé d'imprimer le 21 février 1636.
 
@@ -1204,7 +1204,7 @@ VIII bandeau / LES ACTEURS. / liste des acteurs
 **N.B.** Les mots marqués d'un ⁎ sont définis à la fin de cette édition, dans le lexique placé en annexe.
 
 
-# CLEOMEDON TRAGE-COMEDIE
+# CLEOMEDON TRAGE-COMEDIE.
 
 
 ## A TRES-HAUT ET TRES-PUISSANT PRINCE CESAR, DUC DE VANDOSME [I], DE MERCOEUR, DE PENTHIEVRE, de Beaufort et d'Estampes, Prince d'Anet et de Martigues, etc. Pair de France.
@@ -1220,7 +1220,7 @@ De vostre Grandeur.
 Le tres-humble, tres-obeissant, et tres-fidelle serviteur, DU RYER.
 
 
-## PRIVILEGE DU ROY
+## PRIVILEGE DU ROY.
 
 LOUIS par la grace⁎ de Dieu Roy de France et de Navarre, A nos amez et seaux Conseillers les Gens tenans nos Cours de Parlement, Maistre des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, et autres nos Justiciers et Officiciers qu'il appartiendra , Salut. Nostre bien amé ANTHOINE DE SOMMAVILLE, Marchand Libraire, Nous a fait remonstrer qu'il desiroit faire imprimer un Livre intitulé, *Cleomedon, Trage-Comédie*, ce qu'il ne peut faire sans avoir sur ce nos Lettres humblement requeranticelles. A ces causes desirant favorablement traitter ledit exposant, Nous lui avons permis et permettons par ces presentes de faire imprimer, vendre et debiter ledit Livre en tous les lieux et terres de nostre obeïssance, par tels Imprimeurs, en telles marges et caracteres, et autant de fois qu'il voudra, durant le temps et espace de sept ans entiers et accomplis, à compter du jour qu'il sera achevé d'imprimer. Faisant deffenses à tous Imprimeurs, Libraires et autres de quelques conditions qu'ils soient, tant Estrangers, que de nostre Royaume, d'imprimer, vendre ni distribuer en aucun endroit ledit Livre sans que le consentement de l'Exposant, ou de ceux qui auront droit de luy en vertu des presentes, ni mesme d'en prendre le tiltre, ou le contrefaire en telles sortes et maniere que ce soit, soubs couleur de fauce marge ou autre desguisement, sur peine aux contrevenans de trois mil livres d'amende, appliquable un tiers à Nous, un tiers à l'Hostel-Dieu de Paris, et l'autre tiers à l'Exposant, de confiscation des exemplaires contrefaits, et de tous despens, dommages, et interests : Mesme si aucuns Libraires et Imprimeurs de nostre Royaume, ou Estrangers trafiquans en iceluy estoient trouvez saisis des exemplaires contrefaits, Nous voulons qu'ils soient condannez en pareils amendes que s'il les avoient imprimez, à condition qu'il sera mis deux exemplaires dudit Livre dans nostre Bibliotheque publique, et un autre en celle de nostre tres-cher et feal le Sieur Seguier Chevalier, Chancelier de France, avant que pouvoir exposer⁎ ledit Livre en vente, à peine de nullité des presentes, Du contenu desquelles Nous voulons, et vous mandons que vous faciez jouïr et user plainement et paisiblement ledit Exposant, où ceux qui auront charge de luy, faisant cesser tous troubles et empeschemens si aucuns leur estoit donné. VOULONS aussi qu'en mettant au commencement ou à la fin dudit Livre un extraict des presentes, elles soient tenuës pour deüement signifiées, et que foy⁎ y soit adjoustée comme à l'original. MANDONS en outre au premier nostre Huissier ou Sergent sur ce requis, de faire pour l'execution des presentes tous exploits necessaires, sans demander autre permission : CAR tel est nostre plaisir, nonobstant Clameur de Haro, Chartre Normande, prise à partie, et lettres à ce contraires. Donné à Paris le dernier jour de Decembre l'an de grace mil six cens trente-six, et de nostre regne le vingt-sixiesme.
 
@@ -1229,7 +1229,7 @@ Par le Roy en son Conseil,< DEMONCEAUX. >
 Achevé d'imprimer le 21. Fevrier, 1636.
 
 
-## LES ACTEURS
+## LES ACTEURS.
  – ARGIREReine, Mere de Celiante et de Cleomedon.
  – CELIANTEFrere de Celanire, et amoureux d'elle.
  – PLACIDEConfident d'Argire.
@@ -1244,10 +1244,10 @@ Achevé d'imprimer le 21. Fevrier, 1636.
  – CLORIMANTEVieillard.
 
 
-## ACTE I
+## ACTE I.
 
 
-### SCENE PREMIERE [73]
+### SCENE PREMIERE [73].
 ARGIRE. CELIANTE. PLACIDE.
 
 
@@ -1644,7 +1644,7 @@ Et le dire à propos vaut mieux que de le taire [131].
 ACTE I
 
 
-### SCENE DEUXIEME [132]
+### SCENE DEUXIEME [132].
 POLICANDRE. CELANIRE. BELISE
 
 
@@ -1664,7 +1664,7 @@ Que vostre cœur est grand comme vostre naissance.
 Ne pouvoir constamment supporter la douleur,  
 Dans les plus grands malheurs est un autre malheur [133].  
 
-    CELANIRE
+    CELANIRE.
 Quand d'un pere affligé nous pleurons l'avanture⁎,  
 Ne nous deffendez point ce qu'apprend la nature,  
 Serions-nous vos enfans, si pour vos desplaisirs  
@@ -1684,11 +1684,11 @@ S'ils ne touchent la terre, ils toucheront les Cieux,
 La justice du Ciel nous donnera des armes  
 Si celle de la terre en refuse à nos larmes.  
 
-    POLICANDRE
+    POLICANDRE.
 Cessez pour mon repos de plaindre mon malheur,  
 Ces traits⁎ de vostre Amour, me sont traits⁎ de douleurs [134]  
 
-    BELISE
+    BELISE.
 Quand vostre volonté me deffend de me plaindre,  
 Vos maux sont des tyrans qui m'y viennent contraindre.  
 Mais pour estre obey sans peine, et sans effort⁎,  
@@ -1696,7 +1696,7 @@ Au lieu de la constance ordonnez-nous la mort,
 Il nous est plus facile, et bien plus honnorable  
 De terminer nos jours qu'une plainte equitable [135].  
 
-    POLICANDRE
+    POLICANDRE.
 Dieux que de traits⁎ divers sont poussez⁎ de vos mains,  
 Quand vous avez conclu la peine des humains !  
 Bien souvent d'un enfant la fatale malice⁎,  
@@ -1707,7 +1707,7 @@ Mais quelqu'un vient [136] icy.
 ACTE I
 
 
-### SCENE TROISIEME
+### SCENE TROISIEME.
 POLICANDRE. BIRENE. CELANIRE.
 
 PLACIDE.
@@ -1798,14 +1798,14 @@ Mourons avec honneur si nous devons perir,
 On m'a veu vivre en Roy, l'on m'y verra mourir.  
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CELANIRE. BELISE.
 
 
-    CELANIRE
+    CELANIRE.
 Enfin de nos malheurs la course est arrestee⁎,  
 Le sort⁎ nous rend la paix qu'il nous avait ostee,  
 Et de Cleomedon le bras victorieux [151]  
@@ -1823,7 +1823,7 @@ Son aspect⁎ seulement nous assure et nous garde.
 Rien ne nous est cruel quand les Dieux nous sont doux,  
 Et la terre flechit quand le Ciel est pour nous.  
 
-    BELISE
+    BELISE.
 J'ay senty de nos maux les efforts⁎ tyranniques,  
 J'ay donné de mes pleurs aux miseres publiques,  
 Et depuis que le Ciel accomplit nos desirs  
@@ -1833,7 +1833,7 @@ Que de ce Roy captif je ressens la tristesse⁎,
 Je tremble pour moy-mesme alors que j'apperçoy⁎  
 Que la rigueur du sort⁎ traite si mal un Roy.  
 
-    CELANIRE
+    CELANIRE.
 Belise le Destin lui paraistroit contraire,  
 S'il avoit pour vainqueur un courage⁎ ordinaire :  
 Mais dans ces desplaisirs son sort⁎ est glorieux⁎,  
@@ -1841,13 +1841,13 @@ Puisque Cleomedon en est victorieux.
 Le plus triste⁎ vaincu n'est pas sans avantage⁎,  
 Lors qu'il [152] a pour vainqueur un genereux⁎ courage⁎.  
 
-    BELISE
+    BELISE.
 Vous parlez si souvent de cet heureux vainqueur,  
 Qu'à la fin je croiray qu'il est dans vostre cœur.  
 Que vostre servitude augmente icy sa gloire⁎,  
 Et que jusqu'à vostre ame il estend sa victoire.  
 
-    CELANIRE
+    CELANIRE.
 Vous plaignez si souvent un ennemy deffait,  
 Il paroist à vos yeux si doux et si parfait,  
 Vous partagez si bien la honte de sa prise,  
@@ -1855,11 +1855,11 @@ Que vous mesme ma sœur sembleriez estre prise.
 L' on diroit que ses fers⁎ s'estendent jusqu'à vous,  
 Et tout captif qu'il est, qu'il triomphe chez nous.  
 
-    BELISE
+    BELISE.
 La commune pitié que l'on doit aux miseres,  
 Me fait pousser⁎ pour luy des plaintes si legeres.  
 
-    CELANIRE
+    CELANIRE.
 Et de Cleomedon l'invincible secours  
 M'oblige à luy donner pour le moins mon discours.  
 Je paraistrois ingrate, et plaine d'injustices,  
@@ -1875,26 +1875,26 @@ Soit d'un feu⁎ dereglé le honteux tesmoignage.
 Quand mon esprit conçoit ce discours genereux⁎,  
 Il est reconnoissant, et non pas amoureux.  
 
-    BELISE
+    BELISE.
 Ne faites point si vite une excuse semblable,  
 Qui s'excuse trop tost monstre qu'il est coupable.  
 Celanire souvent.  
 
-    CELANIRE
+    CELANIRE.
         He bien n'en parlons plus,  
 Aussi bien ces discours me semblent superflus.  
 
-    BELISE
+    BELISE.
 Sortez-vous ?  
 
-    CELANIRE
+    CELANIRE.
     Non ma sœur.  
 
-    BELISE
+    BELISE.
         Adieu donc je vous laisse,  
 Il faut que j'aille au temple, et desjà l'heure presse⁎.  
 
-    CELANIRE *seule.*
+    CELANIRE *seule.*.
 Ouy Belise, il est vray que le mesme vainqueur  
 Surmonte⁎ Celiante, et captive⁎ mon cœur,  
 Il est vray que je l'ayme, et que dans nos histoires  
@@ -1918,14 +1918,14 @@ Qu'il fait voir aux combats de courage⁎ et d'audace [156].
 ACTE II
 
 
-### SCENE DEUXIEME
+### SCENE DEUXIEME.
 CELANIRE. CLEOMEDON.
 
 
-    CELANIRE
+    CELANIRE.
 Desja je vous [157] pensois esloigné de ces lieux.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Je ne m'esloigne point sans adorer mes Dieux [158],  
 Je doy suivre, il est vray, cette cruelle Argire,  
 Dont la seule fureur⁎ embrasa cet Empire,  
@@ -1936,7 +1936,7 @@ Il faut que vos [159] regards⁎ m'inspirent le courage⁎,
 Et que j'apprene à vaincre aupres des plus beaux yeux,  
 Dont jamais la nature ait enrichy ces lieux.  
 
-    CELANIRE
+    CELANIRE.
 Va donc, Cleomedon, assuré de la gloire⁎,  
 Si de mes bons regards⁎ dépend cette victoire.  
 Par de nouveaux exploicts que ton bras fasse voir,  
@@ -1944,7 +1944,7 @@ Que qui conserve un Sceptre⁎ est digne de l'avoir.
 Donne un nouveau laurier⁎ [160] à ton courage⁎ extreme,  
 Et pour mieux t'animer⁎, souviens-toy que je t'ayme [161].  
 
-    CLEOMEDON
+    CLEOMEDON.
 Si quelque heureux succez⁎ a suivy mes combats,  
 Ce seul ressouvenir a plus fait que mon bras,  
 Quand de nos ennemis j'ay fait voir un carnage,  
@@ -1958,13 +1958,13 @@ Je change en verité la fable d'Ixion [162].
 Ainsi par un destin qu'à peine [163] on pourroit croire,  
 L'amour est tout ensemble, et mon vice et ma gloire⁎.  
 
-    CELANIRE
+    CELANIRE.
 Quelques difficultez que tu sembles trouver,  
 Si l'amour est ta gloire⁎, il le faut conserver,  
 Et si ce n'est qu'un vice alors qu'il te transporte,  
 Je t'aymeray toujours vitieux de la sorte.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Puisque je suis certain que mon vice vous plaist,  
 Je le conserveray tout extreme qu'il est.  
 Pour chasser de mon cœur un feu⁎ si legitime,  
@@ -1978,13 +1978,13 @@ Et qui brusle pour vous brusle eternellement [165].
 Mais loing de dire j'ayme, alors que je soupire,  
 Je doy dire en tremblant, j'adore Celanire.  
 
-    CELANIRE
+    CELANIRE.
 Si tu veux alleger les peines que je sens [166],  
 Donne moy de l'amour et non pas de l'encens.  
 Je ne veux point paraistre à tes yeux adorable,  
 Ce me sera beaucoup [167] si je leur suis aymable⁎ [168].  
 
-    CLEOMEDON
+    CLEOMEDON.
 Vous estes l'une et l'autre, à mon cœur, à mes yeux,  
 Où je voy vos beautez, là je trouve mes Dieux ;  
 Mais si j'ayme trop haut [169], et si ce m'est un vice,  
@@ -1998,7 +1998,7 @@ Si comme j'ay vescu, je meurs aussi pour vous.
 C'est la seule faveur comme la moins commune,  
 Que sans temerité j'attends de ma fortune⁎.  
 
-    CELANIRE
+    CELANIRE.
 Je t'ayme, c'est assez, et ce discours t'apprend  
 Que tu dois regarder plus haut que tu n'es grand ;  
 Pour aspirer enfin où j'aspire moy-mesme,  
@@ -2018,29 +2018,29 @@ Et comme ton Amour mérite Celanire,
 Fai voir que ton courage⁎ à vaincre si constant,  
 Merite aussi sa part du Sceptre qu'elle attend.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ce n'est point là le prix, ny le bien que j'espere,  
 Souffrez que je vous ayme, et j'auray mon salaire⁎.  
 En l'estat où le Ciel me voulut abaisser,  
 Endurer [173] mon amour c'est me recompenser.  
 
-    CELANIRE
+    CELANIRE.
 En l'estat glorieux où nous met ton courage⁎,  
 Ne te pas adorer, c'est te faire un outrage.  
 Espere, je le veux, tu dois perseverer,  
 Lors qu'on [174] merite tout on peut tout esperer.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Que doy -je à ces faveurs dont l'excez me transporte,  
 Et que ne dompterois-je animé⁎ de la sorte [175] ?  
 ACTE II
 
 
-### SCENE TROISIEME
+### SCENE TROISIEME.
 CELIANTE. ORONTE.
 
 
-    ORONTE
+    ORONTE.
 Puisque par les Destins il estoit arresté⁎,  
 Que je partagerois vostre captivité.  
 Puisque le bras fatal de l'aveugle fortune⁎  
@@ -2070,7 +2070,7 @@ Que l'on peut souhaiter dans la captivité.
 Vous allez, vous venez, personne ne vous garde,  
 Et vostre seule foy⁎ vous sert icy de garde.  
 
-    [CELIANTE] [176]
+    [CELIANTE] [176].
 La perte de mon Sceptre et de ma liberté,  
 N'est pas le plus grand coup⁎ dont je sois tourmenté.  
 Lors qu'un [177] mauvais destin me fit perdre les armes,  
@@ -2084,37 +2084,37 @@ Un ennemy plus fort surmonte⁎ ma vertu.
 Ainsi pour me gesner⁎ avecques plus d'outrage,  
 Le Ciel ne m' a laissé ny Sceptre, ny courage⁎.  
 
-    ORONTE
+    ORONTE.
 Qui vous pourroit troubler en cette extremité,  
 Si vous ne l'estes pas par vostre aversité⁎  ?  
 
-    CELIANTE
+    CELIANTE.
 Helas ! de mille maux ma fortune⁎ est suivie,  
 Un ennemy secret attente sur ma vie,  
 Et desja de ses traits⁎ l'invincible rigueur,  
 Malgré tous mes efforts⁎ m'a traversé le cœur.  
 
-    ORONTE
+    ORONTE.
 Sire, que dites vous ? Faites le moy cognoistre,  
 Mon bras vous sauvera des outrages d'un traistre,  
 Eust-il à son secours les forces de l'enfer,  
 Tout captif que je suis j'en sçauray triompher.  
 
-    CELIANTE
+    CELIANTE.
 Ton secours est trop foible.  
 
-    ORONTE
+    ORONTE.
         Hé bien pour s'en deffendre  
 Il faut de son dessein avertir Policandre.  
 
-    CELIANTE
+    CELIANTE.
 Voi, mon fidelle Oronte, où je suis destiné,  
 C'est lui qui l'a fait naistre, et qui me l'a donné.  
 
-    ORONTE
+    ORONTE.
 Ne le cognois-je point ?  
 
-    CELIANTE
+    CELIANTE.
         As-tu veu Celanire [178] ?  
 C'est l'aymable⁎ ennemy qui fait que je souspire⁎,  
 Je l'ayme, et son bel œil triomphant à son tour  
@@ -2140,7 +2140,7 @@ De demander l'amour où la haine m'est deuë.
 Aussi mon cher, Oronte, en l'estat où je suis,  
 Esperer de mourir est tout ce que je puis.  
 
-    ORONTE
+    ORONTE.
 Puisque c'est de l'amour d'où vostre mal procede,  
 Quelque grand qu'il puise estre, il n'est pas sans remede :  
 Et bien que vos douleurs se cognoissent assez,  
@@ -2152,15 +2152,15 @@ Ce servage⁎ de l'ame affranchira le corps,
 Et qu'apres les assauts d'une vaine tristesse⁎  
 L'Amour relevera ce que le sort⁎ abaisse.  
 
-    CELIANTE
+    CELIANTE.
 Crois-tu me secourir quand tu flattes mes maux ?  
 Le discours qui nous flatte est un remede faux.  
 
-    ORONTE
+    ORONTE.
 Permettez seulement qu'on vous soit secourable,  
 Souvent par nostre faute un mal est incurable.  
 
-    CELIANTE
+    CELIANTE.
 Que pourrois-tu trouver qui fust [180] à mon secours ?  
 Penses–tu m'alleger avecques le discours ?  
 Ne me diras–tu point qu'une flame⁎ amoureuse  
@@ -2178,34 +2178,34 @@ Mon amour est plus fort que ne sont tes raisons.
 Croirois-tu resister à ce feu⁎ qui me brusle,  
 Et vaincre un ennemi qui triompha d'Hercule ?  
 
-    ORONTE
+    ORONTE.
 Non, non, Sire.      
 
-    CELIANTE
+    CELIANTE.
     Hé quoy donc ?  
 
-    ORONTE
+    ORONTE.
         Escoutez seulement.  
 
-    CELIANTE
+    CELIANTE.
 Que pourrois-je escouter pour mon soulagement ?  
 Pour me tirer des maux où mon ame souspire⁎,  
 Il faut à mon secours la Mort ou Celanire.  
 
-    ORONTE
+    ORONTE.
 Vous l'aurez.  
 
-    CELIANTE
+    CELIANTE.
     Quoy la Mort ?  
 
-    ORONTE
+    ORONTE.
         Vous aurez du secours  
 Si l'oreille et le cœur s'ouvrent à mon discours.  
 
-    CELIANTE
+    CELIANTE.
 Il te faut escouter, mais que peux–tu m'apprendre.  
 
-    ORONTE
+    ORONTE.
 Bien qu'un destin plus doux regarde Policandre,  
 Bien que ce Roy vainqueur grave par tout ses loix,  
 Et qu'il soit aussi craint qu'il craignoit autrefois,  
@@ -2230,25 +2230,25 @@ Maintenant vostre amour vous la rendra facile,
 Et vous applanira tant de difficultez,  
 Qui d'une longue paix precedent les traitez.  
 
-    CELIANTE
+    CELIANTE.
 Amy, cela se peut : mais que j'y voy d'obstacles.  
 
-    ORONTE
+    ORONTE.
 Le Dieu que vous servez sçait faire des miracles,  
 Mais sans plus consulter⁎ sur un si beau dessein,  
 Permettez seulement que j'y preste la main.  
 
-    CELIANTE
+    CELIANTE.
 Va, je te le permets. Helas ! Reviens Oronte,  
 Mais sur tout ne fais rien qui retourne à ma honte  
 Et songe⁎ en ce dessein d'où dépend mon bon–heur,  
 Que j'ayme esgallement Celanire et l'honneur.  
 
-    ORONTE
+    ORONTE.
 En vain⁎ sur ce sujet⁎ vostre esprit se travaille [186],  
 Je conduiray l'affaire⁎ où vous voulez qu'elle aille.  
 
-    CELIANTE
+    CELIANTE.
 Va, ne differe plus : Amour, sois mon secours,  
 Et si mes maux sont grands, faits au moins qu'ils soient courts.  
 Mais escoute, reviens ; Il m'importe [187], Oronte,  
@@ -2262,19 +2262,19 @@ Hercule pour l'Amour sçeut filer autrefois [189].
 Qu'on ait le Sort⁎ contraire, ou qu'on l'ait favorable,  
 Ce qu'on fait pour l'Amour est tousjours honorable.  
 
-    ORONTE
+    ORONTE.
 Laissez-moy travailler à cette heureuse Paix :  
 Et l'Honneur, et l'Amour en seront satisfaits.  
 ACTE II
 
 
-### SCENE QUATRIEME
+### SCENE QUATRIEME.
 POLICANDRE. CLEOMEDON. CELANIRE.
 
 TIMANTE. CREON
 
 
-    POLICANDRE
+    POLICANDRE.
 Devant que [190] ton courage⁎ acheve une victoire,  
 Qui nous va couronner d'une immortelle gloire⁎  :  
 Tu dois voir par un prix qui soit digne de toy,  
@@ -2282,7 +2282,7 @@ Que je merite au moins qu'on travaille⁎ pour moy.
 Si ton bras genereux⁎ paru à ma deffense,  
 Voy tu bien Celanire ? elle est ta recompense.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! Sire, je croirois qu'on se riroit de moy,  
 Si je n'avois oüy les paroles d'un Roy :  
 Quel Dieu n'estimeroit sa fortune⁎ contente⁎  
@@ -2294,29 +2294,29 @@ Et qu'entre ses vertus on void l'obeissance [192] ;
 Mais me voyant si bas, je voy trop clairement  
 Qu'elle vous peut icy resister justement [193].  
 
-    POLICANDRE
+    POLICANDRE.
 J'ay sondé là dessus l'esprit de Celanire :  
 Ce que j'ay resolu c'est ce qu'elle desire.  
 Mais ma fille parlez, ne vous contraignez pas.  
 
-    TIMANTE *à l'écart*
+    TIMANTE *à l'écart*.
 Elle a le cœur⁎ trop haut pour l'arrester⁎ si bas [194].  
 
-    POLICANDRE
+    POLICANDRE.
 Parlez moy librement, cette affaire⁎ vous touche.  
 
-    CELANIRE
+    CELANIRE.
 Mon cœur ne dément point ce qu'avance ma bouche [195].  
 
-    POLICANDRE
+    POLICANDRE.
 Ne vous contraignez point, soyez libre une fois [196].  
 
-    CELANIRE
+    CELANIRE.
 C'est à moy d'obeïr quand vous faites des loix,  
 Et vous nous les donnez si douces et si saintes,  
 Que les plus endurcis les suivroient sans contraintes.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! ce bien est si haut par dessus mon espoir  
 Que mesme en l'obtenant je doute de l'avoir.  
 Ainsi lors que pour moy vos bontez sans limites  
@@ -2324,7 +2324,7 @@ Destinent tant de gloire⁎ à si peu de merites,
 Vous monstrez que les Rois qui veulent nostre bien,  
 Sçavent comme les Dieux faire beaucoup de rien [197].  
 
-    POLICANDRE
+    POLICANDRE.
 Va donc, Cleomedon, achever des conquestes,  
 Qui doivent de nos jours esloigner les tempestes⁎,  
 Et si jadis ton bras a combattu pour moy,  
@@ -2332,7 +2332,7 @@ Asseuré de ton prix va combattre pour toy.
 TIMANTE et CREON demeurent.
 
 
-    TIMANTE
+    TIMANTE.
 O dessein plus honteux et bien plus redoutable,  
 Que nostre aversité⁎ ne fut espouventable !  
 Faut-il qu'un estranger, nostre esclave autrefois,  
@@ -2354,7 +2354,7 @@ Une haute naissance esleve la pensée,
 Et sert d'enseignement aux esprits genereux⁎,  
 Pour ne rien concevoir qui soit indigne d'eux.  
 
-    CREON
+    CREON.
 Mettons le throsne à bas, et mesme à nostre honte,  
 Plustost que de souffrir que cét esclave y monte.  
 Prendre la loy de ceux qui la prenoient de nous,  
@@ -2363,56 +2363,56 @@ Entretenons plustost des guerres eternelles.
 ACTE II
 
 
-### SCENE CINQUIEME
+### SCENE CINQUIEME.
 TIMANTE. ORONTE. CREON.
 
 
-    TIMANTE
+    TIMANTE.
 Mais Oronte s'avance : hé bien ! quelles nouvelles ?  
 
-    ORONTE
+    ORONTE.
 Que peut dire un captif qui ne void rien que soy ?  
 
-    TIMANTE
+    TIMANTE.
 Au moins nous direz vous l'estat de vostre Roy.  
 
-    ORONTE
+    ORONTE.
 Vous le comblez icy de tant de bons offices,  
 Qu'il y met sa prison au rang de ses delices.  
 Et loing de vouloir mal [201] à celuy qui l'a pris,  
 Il pense luy devoir un legitime prix.  
 
-    TIMANTE
+    TIMANTE.
 Il est prest d'en avoir un salaire⁎ assez ample.  
 
-    ORONTE
+    ORONTE.
 Peut-on donner assez aux vertus sans exemple ?  
 Mais que luy donne-on ?  
 
-    TIMANTE
+    TIMANTE.
         Celanire est son prix.  
 
-    ORONTE
+    ORONTE.
 Celanire ?  
 
-    CREON
+    CREON.
     Elle mesme.  
 
-    ORONTE
+    ORONTE.
         Ha ! vous m'avez surpris.  
 Et je n'eusse pas crû qu'en l'estat où nous sommes  
 Ce que merite un Dieu l'on le donnast aux hommes,  
 Mais chacun y consent.  
 
-    TIMANTE
+    TIMANTE.
         J'en doute justement,  
 Et pour moy [202] j'en craindrois un triste⁎ evenement.  
 
-    ORONTE
+    ORONTE.
 Mais je sçay que le peuple estime son courage⁎ ;  
 Et la faveur du peuple est un grand advantage.  
 
-    TIMANTE
+    TIMANTE.
 Bien souvent pour esgaux l'on en a bien receus,  
 Que l'on detesteroit s'ils tenoient le dessus.  
 Pour vivre sans revolte, un peuple qui murmure,  
@@ -2430,7 +2430,7 @@ Lors qu'un Maistre incognu prend son gouvernement :
 Mais sans peine et sans force il adore des Maistres,  
 Dont il a respecté les Illustres Ancestres.  
 
-    ORONTE
+    ORONTE.
 Ce discours me promet de bons evenements ;  
 Et je doy profiter de leurs ressentiments [207].  
 Il le faut confesser, un hymen⁎ de la sorte  
@@ -2445,59 +2445,59 @@ Et je crûs en sortant d'un si plaisant mensonge
 Qu'ils pouvoient en effet ce qu'ils faisoient en songe⁎ [209]  :  
 Mais depuis.  
 
-    TIMANTE
+    TIMANTE.
     Quoy depuis ?  
 
-    ORONTE
+    ORONTE.
         Il n'y faut plus songer⁎ [210].  
 
-    CREON
+    CREON.
 L'avis⁎ n'est pas de ceux que l'on doit negliger.  
 
-    ORONTE
+    ORONTE.
 Croyez-vous aux erreurs où le somme nous plonge ?  
 Celanire est promise, et ce songe⁎ est un songe⁎ [211].  
 
-    TIMANTE
+    TIMANTE.
 Quelquesfois le sommeil ne nous ferme les yeux  
 Que pour nous avertir des volontez des Dieux.  
 
-    ORONTE
+    ORONTE.
 Il est vray quelquesfois.  
 
-    CREON
+    CREON.
         Il le peut estre encore.  
 
-    TIMANTE
+    TIMANTE.
 Mais que dit vostre Roy de ce songe⁎ ?  
 
-    ORONTE
+    ORONTE.
         Il l'ignore.  
 
-    TIMANTE
+    TIMANTE.
 Y voudroit-il penser ?  
 
-    ORONTE
+    ORONTE.
         Celanire et la Paix,  
 Pour donner de l'amour ne manquent point d'attraits.  
 
-    TIMANTE
+    TIMANTE.
 Oronte, croyez-nous que s'il y veut entendre,  
 Nous ferons plus pour luy qu'il ne sçauroit pretendre.  
 
-    ORONTE
+    ORONTE.
 Si vous estes pour luy, je veux tout esperer.  
 
-    TIMANTE
+    TIMANTE.
 De ce que nous pouvons, vous pouvez l'asseurer.  
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE [212]
+### SCENE PREMIERE [212].
 
-    BELISE *seule*
+    BELISE *seule*.
 Que [213] m'aydera la paix qu'espere cette terre,  
 Si des troubles nouveaux me gesnent⁎ chaque jour ?  
 Que me sert d'eviter les flames⁎ de la guerre  
@@ -2535,39 +2535,39 @@ Mais quelqu'un interromp cette triste⁎ pensee.
 ACTE III
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 BELISE. CELANIRE.
 
 
-    BELISE
+    BELISE.
 Ha ! Ma sœur qu'avez–vous ? Cette pasle couleur  
 Est le triste⁎ tesmoing d'une vive douleur.  
 
-    CELANIRE
+    CELANIRE.
 Cleomedon revient.  
 
-    BELISE
+    BELISE.
         Est–ce un sujet⁎ de larmes ?  
 Quelque triste⁎ accident⁎ a–il suivy ses armes [218] ?  
 
-    CELANIRE
+    CELANIRE.
 Il revient pour se voir mesprisé desormais,  
 Et pour trouver la guerre, où son bras mit la paix.  
 
-    BELISE
+    BELISE.
 Que dites–vous, ma Sœur ? Vous m'avez estonnee⁎.  
 
-    CELANIRE
+    CELANIRE.
 Tu sçais qu'à son départ ma foy⁎ lui fut donnee.  
 Il me fut commandé d'en faire mon Amant⁎,  
 Et mon amour nasquit de ce commandement [219].  
 Cependant aujourd'huy le Roy moins equitable [220]  
 Donne à d'autres le prix dont il le crût capable [221].  
 
-    BELISE
+    BELISE.
 Cleomedon sçait–il la volonté du Roy ?  
 
-    CELANIRE
+    CELANIRE.
 On le mande, ma sœur, mais sans dire pourquoy  
 Et sans doute de peur que sur cette nouvelle  
 Un genereux⁎ despit ne le rende rebelle,  
@@ -2576,17 +2576,17 @@ Il n'excite l'orage où le temps est serain :
 Ainsi le Roy le traite [222], et me rend criminelle,  
 Puisque les passions [223] me rendent infidelle.  
 
-    BELISE
+    BELISE.
 Il est pere, ma Sœur, il est Roy dessus nous,  
 Et ces deux qualitez sont excuses pour vous [224].  
 
-    CELANIRE
+    CELANIRE.
 Il est pere, il est vray ; mais helas comme pere  
 Me doit-il obliger d'embrasser la misere ?  
 Et s'il est Roy, ma Soeur, les paroles des Rois  
 Sont-elles pas [225] pour eux d'inviolables loix ?  
 
-    BELISE
+    BELISE.
 Mais apres tout, ma Soeur, peut on trouver estrange  
 Que le vouloir du Roy vous porte à quelque change⁎ ?  
 Celuy que vous plaignez est–il de vostre sang⁎ [226] ?  
@@ -2598,7 +2598,7 @@ Vous y gaignez beaucoup lors que [228] vous le perdez.
 Que [229] sçait–on quel [230] il est ? Sa naissance est secrette,  
 Et peut–estre son pere a porté la houlette [231].  
 
-    CELANIRE
+    CELANIRE.
 Soit que ce fust mon bien, soit que ce fust mon mal,  
 La volonté du Roy me le rendoit esgal.  
 Il est vray que le Sort⁎ nous cacha sa naissance,  
@@ -2606,49 +2606,49 @@ Et qu'il en cache encor l'heureuse cognoissance
 Mais si par la vertu l'on paraist des Dieux,  
 Cleomedon sans doute est descendu des Cieux.  
 
-    BELISE
+    BELISE.
 Mais que je scache enfin celuy qu'on vous destine ?  
 
-    CELANIRE
+    CELANIRE.
 L'auteur de nos ennuis⁎ et de nostre ruyne,  
 Le cruel Celiante.  
 
-    BELISE
+    BELISE.
         Hé Dieux ! Que dites–vous ?  
 Que mon cœur en secret reçoit de rudes coups [232] ⁎ !  
 
-    CELANIRE
+    CELANIRE.
 Juge ainsi des douleurs où je suis destinee.  
 
-    BELISE
+    BELISE.
 Vous pourriez vous resoudre à ce lâche hymenee⁎ ?  
 Pourriez–vous conserver un courage⁎ si franc⁎,  
 Et donner vostre cœur à qui veut vostre sang⁎ ?  
 
-    CELANIRE
+    CELANIRE.
 Quoy que je considere, et qu'on me puisse dire,  
 Je le pourray, ma soeur, si le Roy le desire.  
 
-    BELISE
+    BELISE.
 Vous le pourrez, ma Sœur ?  
 
-    CELANIRE
+    CELANIRE.
         Suivre sa volonté,  
 C'est tout ce que je puis en cette extremité.  
 
-    BELISE
+    BELISE.
 O Dieux ! qui l'exposez à cette Tyrannie,  
 Quel crime a-elle fait pour estre ainsi punie ?  
 Quoy vous obeyrez, aveugle à vostre bien [233].  
 
-    CELANIRE
+    CELANIRE.
 Un coeur⁎ obeyssant ne considere rien.  
 J'auray d'assez grands biens mesme dans mon martire⁎  
 Si d'un si triste⁎ accord vient la paix de l'Empire,  
 Et je croiray mon Sort⁎ d'autant moins rigoureux,  
 Si par mes déplaisirs un grand peuple est heureux.  
 
-    BELISE
+    BELISE.
 Que vous proffitera qu'à l'abry du tonnerre,  
 Un peuple vive en paix si vous vivez en guerre ?  
 Ce nombre de subjects dessus qui nous vivons,  
@@ -2658,10 +2658,10 @@ Ce doit estre un effet de celuy qu'ont les Princes.
 Voir par ses déplaisirs les autres bien–heureux  
 Lasse en fort peu de temps les cœurs plus genereux⁎.  
 
-    CELANIRE
+    CELANIRE.
 Il n'importe, ma Soeur.  
 
-    BELISE
+    BELISE.
         Ouvrez les yeux de l'ame,  
 Et si ce mal est peu, craignez au moins le blasme,  
 Apprehendez au moins qu'un infame renom⁎  
@@ -2725,7 +2725,7 @@ ACTE III.
 CLEOMEDON. CELANIRE.
 
 
-    CLEOMEDON
+    CLEOMEDON.
 Par quel injuste effet de fureur⁎ ou d'envie,  
 Trouveray-je la Mort où j'attendois la vie ?  
 Apres tant de perils à ma constance offers,  
@@ -2734,50 +2734,50 @@ Est-il donc arresté⁎ par vos loix inhumaines,
 Qu'un autre aura mon prix, et que j'auray ses peines ?  
 Quelle injustice ordonne un si lache attenttat ?  
 
-    CELANIRE
+    CELANIRE.
 Il n'en faut point chercher dans les raisons d'Estat.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Je viens de voir le Roy, dont l'accueil favorable  
 Me peut faire douter d'un sort⁎ si deplorable.  
 
-    CELANIRE
+    CELANIRE.
 Ne vous a il rien dit ?  
 
-    CLEOMEDON
+    CLEOMEDON.
         Rien, sinon que ce soir  
 Pour un point important j'allasse le revoir.  
 
-    CELANIRE
+    CELANIRE.
 Helas !  
 
-    CLEOMEDON
+    CLEOMEDON.
     Que dites-vous ?  
 
-    CELANIRE
+    CELANIRE.
         Helas ! il faut me taire,  
 Et dire seulement, c'est mon Roy, c'est mon Pere.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Qu'avez-vous resolu ?  
 
-    CELANIRE
+    CELANIRE.
         Je ne te puis hayr,  
 Je t'ayme, je te plains, mais je dois obeyr.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Donc on m'aura donné l'esperance si belle,  
 Pour rendre en me l'ostant ma peine plus cruelle ?  
 Si j'avois de l'Estat choqué le fondement,  
 Me pourroit-on punir d'un plus rude tourment ?  
 
-    CELANIRE
+    CELANIRE.
 Faits à tes déplaisirs un peu de resistance,  
 Pour mon soulagement faits voir de la constance :  
 Et vainquant la douleur qui te va surmonter⁎,  
 Monstre à tes ennemis que tu sçais tout dompter.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! Madame, pour vous rien ne m'est impossible,  
 Je puis vaincre pour vous ce qui fut invincible ;  
 D'un throsne tresbuchant je puis porter le faix⁎,  
@@ -2791,13 +2791,13 @@ Tant que mon esperance eust passé pour un crime ;
 Mais depuis que le Roy me permit cét espoir,  
 Je ne sçaurois sans luy, ny vivre, ny vous voir.  
 
-    CELANIRE
+    CELANIRE.
 Je sçay que vostre plainte a beaucoup de justice,  
 Mais il est juste aussi qu'une fille obeïsse [238].  
 Et j'ayme mieux enfin que ce cœur soit blasmé,  
 D'avoir trop obey, que d'avoir trop aymé.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Hé bien ! obeyssez ; j'estois un temeraire  
 Quand je vous contemplois ainsi que mon salaire⁎.  
 Et vostre obeyssance est la punition  
@@ -2819,13 +2819,13 @@ Je ne veux que le mal dont j'ay sçeu vous tirer.
 Faites donc de ma mort, mon prix ou mon supplice,  
 Et si l'œil m'a blessé, que la main me guerisse [240].  
 
-    CELANIRE
+    CELANIRE.
 Adieu ; va voir le Roy ; voicy la fin du jour [241],  
 Monstre lui du respect, et cache mon amour.  
 Resiste prudemment à ce malheur extreme,  
 Et lors [242] que tu me perds ne te perds pas toy-mesme.  
 
-    CLEOMEDON *seul.*
+    CLEOMEDON *seul.*.
 Tout le soulagement que j'espere en mes fers⁎,  
 C'est de pouvoir me perdre alors que je vous perds.  
 Hà ! Princesse arrestez⁎, non pour vouloir m'entendre,  
@@ -2849,11 +2849,11 @@ Que s'il est un Enfer on y souffre ma peine.
 ACTE III
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 POLICANDRE. TIMANTE.
 
 
-    POLICANDRE
+    POLICANDRE.
 A la fin vos conseils l'emportent de dessus moy [244],  
 Je cede à vos raisons, et m'en faits une loy.  
 Par cét heureux hymen⁎ deux couronnes unies,  
@@ -2869,7 +2869,7 @@ Qu'il n'en a pas receu des yeux de Celanire [245] ;
 Et que pour voir l'Estat d'inquietude⁎ franc [246]  
 Avecques Celanire il donneroit son sang⁎.  
 
-    TIMANTE
+    TIMANTE.
 Un cœur vrayment guerrier ne veut rien que la gloire⁎,  
 Que l'on peut recueillir d'une illustre victoire.  
 L'honneur est le seul bien qui le peut rendre heureux,  
@@ -2880,11 +2880,11 @@ Mais le voicy qui vient.
 ACTE III
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 POLICANDRE. CLEOMEDON. TIMANTE.
 
 
-    POLICANDRE
+    POLICANDRE.
         Il est temps desormais  
 De te communiquer le dessein de la paix.  
 La guerre a trop fait voir de maux et de carnages,  
@@ -2900,7 +2900,7 @@ Pour le commun repos nous l'avons arrestee⁎;
 D'autant plus librement que pour nostre interest,  
 Nous lui pouvons donner telle loy qu'il nous plaist.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Il est vray qu'un grand Roy doit calmer les tempestes⁎,  
 Et borner par la paix le cours de ses conquestes.  
 Alors qu'elle se donne on la doit accepter,  
@@ -2932,7 +2932,7 @@ Et la peur qui les tuë en triomphe avec nous.
 Qui pourra donc juger une paix necessaire,  
 Qui se fait moins pour nous, que pour nostre aversaire ?  
 
-    TIMANTE
+    TIMANTE.
 Vos exploits genereux⁎ sont de justes tesmoings,  
 Que le bien de l'Empire est le but de vos soings.  
 Il est vray que le Ciel vous prodigue la gloire⁎,  
@@ -2966,7 +2966,7 @@ Qui puissent desormais l'arrester⁎ chez les siens.
 Ainsi pour nous la rendre, et parfaite et constante  
 Il donne Celanire au Prince Celiante.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! Sire souffrez vous qu'on couvre un attentat  
 Soubs ce nom specieux de maxime d'Estat ?  
 Qu'un traistre vous conseille une paix plus cruelle  
@@ -2990,7 +2990,7 @@ Vous donnez au voleur le bien qu'il ne pût prendre,
 Et lors qu'il est trop foible, et qu'il est sans vigueur,  
 Vous lui prestez vos mains pour vous percer le cœur.  
 
-    POLICANDRE
+    POLICANDRE.
 Quoy qu'on veuille opposer au cours de cét affaire⁎,  
 Sert à la ruyner bien moins qu'à me déplaire ;  
 Je ne t'ay pas mandé pour suivre tes avis⁎ :  
@@ -3004,7 +3004,7 @@ Me presente par tout un tableau⁎ de ta vie ;
 Enfin pour m'aquitter des biens que je te doy,  
 Sçache, Cleomedon, que ma fille est à toy [257].  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! Sire, un si beau prix surpasse mes services⁎,  
 Vous me comblez d'honneur autant que de delices ;  
 Et monstrez par le bien dont vous me faites part,  
@@ -3014,21 +3014,21 @@ Que pour avoir la paix vous donnez Celanire,
 Je veux croire pourtant que j'ay mal entendu,  
 Puisque par vous enfin mon espoir m'est rendu.  
 
-    POLICANDRE
+    POLICANDRE.
 Je puis suivre aysément l'une et l'autre entreprise,  
 L'un aura Celanire, et vous aurez Belise.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! Sire, ce n'est pas ce que l'on m'a promis,  
 Si je demande trop, vous me l'avez permis ;  
 Et si d'un temeraire on m'impute le crime,  
 Vostre promesse en est l'excuse legitime.  
 
-    POLICANDRE
+    POLICANDRE.
 N'oppose point d'obstacle à mes intentions,  
 Que je donne pour regle à tes pretentions.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Donc pour recompenser tant d'illustres services,  
 Vous me prefererez l'autheur de vos supplices.  
 Il ne vous souvient plus qu'il fut vostre bourreau,  
@@ -3054,7 +3054,7 @@ Qui vous vient reprocher ce cruel hymenee⁎,
 Et que par le dessein de cét injuste accord  
 Elle souffre aux Enfers une seconde mort.  
 
-    POLICANDRE
+    POLICANDRE.
 N'eslevez pas plus haut ce superbe⁎ langage,  
 Qui vous nuit aujourd'huy tout autant qu'il m'outrage,  
 Vous l'opposez en vain⁎ au dessein que j'ay fait,  
@@ -3066,7 +3066,7 @@ Puis qu'estant offençé je vous traite si bien.
 Peut-estre qu'en ce point on me croira peu sage,  
 De donner un salaire⁎ à qui me fait outrage.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Bien que l'heureux succez⁎ qui suivit mes combats,  
 Vous esleve plus haut que vous ne fustes bas,  
 Que malgré la fortune⁎ à vos vœux endormie,  
@@ -3092,7 +3092,7 @@ Qu'on ne l'aura jamais tant que j'auray ce cœur,
 Et que pour obtenir cette illustre conqueste,  
 Il faut qu'en mariage⁎ on luy donne ma teste [260].  
 
-    POLICANDRE
+    POLICANDRE.
 Osez-vous insolent, indigne de mon soing,  
 D'un semblable discours me rendre le tesmoing ?  
 A mes justes fureurs⁎ desrobe ta preference.  
@@ -3101,47 +3101,47 @@ Et pour vaincre l'orgueil, où je te voy monté,
 Esclave, souviens-toi que je t'ay rachepté [261].  
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CELIANTE. CELANIRE. BELISE.
 
 
-    CELIANTE
+    CELIANTE.
 Quand je le voy reduict à ce point de disgrace,  
 Je plains son infortune, et blasme son audace.  
 Je l'ayme toutesfois, bien que victorieux [262],  
 Puis qu'il est cause enfin que j'adore vos yeux.  
 
-    CELANIRE
+    CELANIRE.
 Quiconque est animé⁎ d'une ame genereuse⁎,  
 Sçaura plaindre par tout la vertu mal-heureuse.  
 
-    CELIANTE
+    CELIANTE.
 Je ne sçay si l'amour, ou bien l'ambition [263]  
 Lui firent souhaiter vostre possession.  
 
-    CELANIRE
+    CELANIRE.
 Je n'en sçay rien aussi [264].  
 
-    CELIANTE
+    CELIANTE.
         Mais sa raison perduë  
 Est à l'un comme à l'autre une peine bien deuë.  
 
-    CELANIRE
+    CELANIRE.
 Que dites-vous, Monsieur ?  
 
-    CELIANTE
+    CELIANTE.
         N'avez-vous pas appris  
 Qu'Amour ou sa disgrace a troublé ses esprits ?  
 Et que par les effets de la melancolie⁎  
 A son ambition succede la folie ?  
 
-    CELANIRE
+    CELANIRE.
 Helas !  
 
-    CELIANTE
+    CELIANTE.
         Cleomedon devenu furieux  
 Choque⁎ indifferement les hommes et les Dieux.  
 Mais comme on ne void rien qui ne cede à vos charmes⁎,  
@@ -3153,18 +3153,18 @@ Excite sa colere et se change⁎ en furie⁎,
 Et tout d'un coup⁎ aussi [267] qu'on luy parle de vous,  
 Il devient plus tranquille et se monstre plus doux [268].  
 
-    CELANIRE
+    CELANIRE.
 Laissons ce malheureux⁎.  
 
-    CELIANTE
+    CELIANTE.
         N'en parlons plus, ma Reine :  
 Mais parlons d'un captif qui n'ayme que sa chayne.  
 
-    BELISE *à l'escart.*
+    BELISE *à l'escart.*.
 Adorable Captif, que l'Amour fait mon Roy,  
 Puis-je t'ouyr parler que ce ne soit [269] à moy ?  
 
-    CELIANTE
+    CELIANTE.
 Que le Ciel m'estoit doux lors qu'il [270] sembloit me nuire !  
 Il eslevoit mon Sort⁎ et sembloit le destruire ;  
 Loin d'offrir des plaisirs, et de donner des pleurs,  
@@ -3190,25 +3190,25 @@ Il ne m'importe pas si Celanire m'ayme.
 Que je sois dèpoüillé du haut titre de Roy,  
 Il ne m'importe pas si vous estes à moy.  
 
-    CELANIRE
+    CELANIRE.
 Le Ciel en mesme temps vous est deux fois contraire,  
 Vous faisant mon captif, et celuy de mon pere :  
 Mais il vous est plus rude en ce point seulement,  
 Qu'il vous fait trop aimer un objet⁎ peu charmant.  
 
-    CELIANTE
+    CELIANTE.
 Ne faites point d'injure à de si hauts merites,  
 On croid ce qu'on en void, non ce que vous en dites,  
 Et ma captivité m'apprend bien que les Dieux  
 Captivent⁎ comme moy ceux qu'ils ayment le mieux.  
 
-    CELANIRE
+    CELANIRE.
 Gardez que vos discours ne me rendent trop vaine [273],  
 Et que ma vanité ne vous soit une peine.  
 A la fin je croiray que je suis sans deffaut,  
 Et qu'un captif a tort de pretendre si haut.  
 
-    CELIANTE
+    CELIANTE.
 Il est vray que j'ay tort, et j'ose vous le dire,  
 Mais qui peut justement esperer Celanire ?  
 Entre nous neantmoins est cette esgalité,  
@@ -3220,29 +3220,29 @@ A dessein seulement de vous meriter mieux.
 Mais lors [275] que je vous dis, je brusle, je vous ayme [276],  
 Pour me mettre en leur rang, respondez-moy de mesme.  
 
-    BELISE *à l'escart.*
+    BELISE *à l'escart.*.
 S'il pouvoit m'adresser un discours si charmant,  
 Que ce cœur amoureux respondroit librement !  
 
-    CELIANTE
+    CELIANTE.
 Dites qu'en me donnant une si belle flame⁎,  
 Il en est pour mon bien demeuré dans vostre ame.  
 
-    CELANIRE
+    CELANIRE.
 Que je dise que j'ayme, ha ! Monsieur nullement,  
 Lors que [277] j'en croy rougir je parle rarement.  
 Et je ne pense pas qu'une fille modeste⁎  
 Le puisse avec honneur dire mesme du geste [278].  
 
-    BELISE *à l'escart.*
+    BELISE *à l'escart.*.
 S'il estoit mon captif, comme il est mon vainqueur,  
 Que ce foible respect toucheroit peu mon cœur !  
 
-    CELIANTE
+    CELIANTE.
 Belise, approuvez-vous cette injuste maxime ?  
 S'il est permis d'aymer, nous le dire est-il un crime ?  
 
-    BELISE
+    BELISE.
 Il est vray que sans crime on peut nourrir l'Amour,  
 Et mettre sans pecher ce bel enfant au jour :  
 On le peut, on le veut : toutesfois on ne l'ose ;  
@@ -3250,20 +3250,19 @@ La honte seulement tient nostre bouche close ;
 Pour moy [279] je le dirois, vous sçauriez mon ardeur,  
 Si je pouvois dompter cette vaine pudeur.  
 
-    CELIANTE  *à Celanire.*
-            
+    CELIANTE *à Celanire.*.
 Faites-moy donc sçavoir ce qu'il faut que je sçache,  
 Que nous sert d'estre aymez alors qu'on nous le cache ?  
 L'Amour est dans les cœurs un thresor attaché  
 Qui ne proffite point durant [280] qu'il est caché.  
 
-    CELANIRE
+    CELANIRE.
 Si vous estes Amant⁎, je suis opiniastre,  
 Je ne vous diray point que je vous idolastre :  
 Mais si dans mes froideurs j'ay nourry de l'amour,  
 Esperez pour tout bien de le sçavoir un jour.  
 
-    CELIANTE
+    CELIANTE.
 Bien que vostre rigueur choque un peu ma constance,  
 Je ne suis pas sans bien ayant cette esperance :  
 Mais j'ay troublé sans doute un entretien si doux,  
@@ -3275,20 +3274,20 @@ Qu'elle peut dire enfin qu'elle ayme son espoux.
 Ne voulant pas rèpondre à mon amour extréme,  
 Mon ame pour le moins songez⁎ à qui vous ayme.  
 
-    CELANIRE
+    CELANIRE.
 J'y pense plus souvent que vous ne croyez pas [282].  
 
-    CELIANTE
+    CELIANTE.
 Que ce nouveau discours m'est un puissant appas⁎ !  
 Et que j'ay de mes vœux une ample recempense,  
 En ce point seulement que Celanire y pense.  
 Celiante se retire. [283]
 
 
-    BELISE
+    BELISE.
 Qu'en dites-vous, ma Sœur ?  
 
-    CELANIRE
+    CELANIRE.
         Qu'il est tousjours celuy  
 Qui causa nos malheurs, et qui fit mon ennuy⁎.  
 Qu'il m'ayme, qu'il souspire⁎, et qu'il verse des larmes,  
@@ -3320,7 +3319,7 @@ Et qu'enfin ce conseil me vienne de Belise !
 Grands juges de nos maux, ô Dieux qu'ay-je commis,  
 Pour voir mesme ma Sœur entre mes ennemis ?  
 
-    BELISE
+    BELISE.
 Croyez, ma chere Sœur, qu'à sa seule presence  
 J'ay donné malgré moy ce trait⁎ de complaisance :  
 Et que dedans mon cœur vous verrez aysément  
@@ -3330,11 +3329,11 @@ Ce conseil me rendroit à moy-mesme cruelle,
 Et si dans son amour vous trouviez des appas⁎,  
 J'aurois peine, ma Sœur, à ne vous hayr pas.  
 
-    CELANIRE
+    CELANIRE.
 Si j'aymois ce Tyran, j'en serois detestee,  
 Et j'aurois justement la haine meritee.  
 
-    BELISE
+    BELISE.
 Quoy que de mon discours on puisse presumer,  
 Je vous ayme, ma Sœur, et je vous veux aymer,  
 Et pour vous en donner une preuve evidente,  
@@ -3344,7 +3343,7 @@ Si je puis vous l'oster, mes maux me seront doux.
 Si l'avoir pour espoux, vous est un mal extréme,  
 Pour vous en delivrer je le prendray moy-mesme.  
 
-    CELANIRE
+    CELANIRE.
 Mon repos me seroit une autre aversité⁎,  
 Si par tes déplaisirs il m'estoit achepté :  
 Cesse de souhaiter ce que nous devons craindre,  
@@ -3352,22 +3351,22 @@ C'est à toy d'estre bien, c'est à moy de me plaindre,
 Et le Ciel veut qu'un Sceptre à nos yeux si charmant,  
 Soit un fardeau pour moy, plustost qu'un ornemen.  
 
-    BELISE
+    BELISE.
 Je ne puis estre heureuse, où vous aurez des peines.  
 Où vos maux sont certains, mes douleurs sont certaines ;  
 Enfin ce que le Ciel vous donne à redouter,  
 Mon amour seulement le fait souhaiter [285].  
 Mais, helas ! quelle Amour ?  
 
-    CELANIRE
+    CELANIRE.
         Je sçay qu'elle est divine.  
 
-    BELISE
+    BELISE.
 Elle est autre, ma Sœur, que l'on ne l'imagine :  
 Mais adieu, je vous laisse. Un moment de sejour  
 Eust sans doute fait voir ma peine et mon amour [286].  
 
-    CELANIRE  *seule*.
+    CELANIRE *seule*.
 Ainsi de mon bon-heur la fortune⁎ envieuse [287]  
 Me rend cruelle à tous, à moy-mesme ennuyeuse.  
 Une sœur trop sensible a partagè mes maux,  
@@ -3416,43 +3415,43 @@ Mais quelqu'un vient icy.
 ACTE IV
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 CELANIRE. TIMANTE.
 
 
-    CELANIRE
+    CELANIRE.
         Que me voulez-vous dire ?  
 
-    TIMANTE
+    TIMANTE.
 Je viens vous annoncer le naufrage⁎ d'Argire.  
 
-    CELANIRE
+    CELANIRE.
 Elle est morte !  
 
-    TIMANTE
+    TIMANTE.
         Elle l'est ! La Cour est en pleurs,  
 Et d'un si prompt trespas chacun sent les douleurs.  
 
-    CELANIRE *un peu bas.*
+    CELANIRE *un peu bas.*.
 Si j'en pleure aujourd'huy, si je m'en desespere,  
 C'est de voir que le fils n'a pas suivy la Mere.  
 
-    TIMANTE
+    TIMANTE.
 Mais pour vous consoler de cette aversité⁎,  
 C'est assez de sçavoir que le fils est resté.  
 
-    CELANIRE
+    CELANIRE.
 O sensible mal-heur !  
 
-    TIMANTE
+    TIMANTE.
         Il est grand, mais Madame,  
 Monstrez aux accidens les forces de vostre ame [288].  
 
-    CELANIRE
+    CELANIRE.
 Mais rendez-moy contente⁎ [289], et dites-moy comment,  
 Et depuis quand on sçait ce triste⁎ evenement.  
 
-    TIMANTE
+    TIMANTE.
 Venant [290] icy par mer pour vostre mariage⁎,  
 Pour le dire en un mot, Argire a fait naufrage⁎,  
 Tous les vens deschainez sur ses tristes⁎ vaisseaux,  
@@ -3461,40 +3460,40 @@ Mais dedans un esquif quelques Dames sauvees,
 Depuis une heure ou deux sont au port arrivee [291],  
 Elle vous diront tout : elle vous viennnent voir.  
 
-    CELANIRE
+    CELANIRE.
 En autre lieu qu'icy je les veux recevoir.  
 ACTE IV
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 BIRENE. CLEOMEDON.
 
 Cleomedon doit se promener sur le theastre, comme un homme qui a perdu le sens, sans entendre ce que luy dit Birène.
 
 
-    BIRENE
+    BIRENE.
 Tenez-vous au repos qui vous est necessaire,  
 Et ne vous rendez point à vous mesme contraire.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Cependant pour le prix de ma fidelité,  
 Souviens-toy, me dit-on, que je t'ay rachepté [292].  
 
-    BIRENE
+    BIRENE.
 Il [293] ne peut oublier ce discours qui le touche,  
 Il l'a toujours au cœur, et toujours dans la bouche.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Cependant pour le prix de ma fidelité,  
 Souviens-toy, me dit-on, que je t'ay rachepté.  
 
-    BIRENE
+    BIRENE.
 Faut-il qu'une parole abatte ce courage⁎,  
 Qu'un Lyon ne pût vaincre avec toute sa rage ?  
 Faut-il que quatre mots triomphent de ce cœur,  
 Dont le pouvoir d'un Roy ne pût estre vainqueur ?  
 
-    CLEOMEDON
+    CLEOMEDON.
 N'ay-je pas relevé ce Monarque perfide ?  
 N'ay je pas fait douter si j'estois un Alcide ?  
 J'ay paru sans frayeur, et sans estre troublé,  
@@ -3532,11 +3531,11 @@ Reveille à ce grand coup⁎ ta fureur⁎ qui sommeille,
 Ne laissons rien debout, où l'on veut m'abaisser :  
 Si j'ay tout relevé, je puis tout renverser⁎.  
 
-    BIRENE
+    BIRENE.
 Monsieur, parlez plus bas songez⁎ à Celanire.  
 Si vous ne vous taisez, pour moy je le vay dire.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Arreste⁎-toy, Birene : ainsi chere beauté  
 Par ton nom seulement ce grand cœur est dompté.  
 Ce bras aussi puissant que le Dieu de la guerre,  
@@ -3584,10 +3583,10 @@ Vos efforts⁎ sont si grands que les Dieux en tremblerent [301],
 Alons dons asseurez de vaincre cette fois,  
 Qui fit trembler des Dieux, peut bien vaincre des Rois [302].  
 
-    BIRENE
+    BIRENE.
 Ce violent [303] transport⁎ déplaist à Celanire.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ne bougez donc Geans [304], ma Reine le desire ;  
 Mon Sort⁎ est rigoureux, mon malheur apparent,  
 Mais déplaire à ses yeux m'est un mal bien plus grand.  
@@ -3601,10 +3600,10 @@ Je la voy toute en pleurs, elle me tend les bras,
 Et les miens paresseux ne la sauveroient pas ?  
 Une lance, un espieu, depesche⁎, il ne m'importe.  
 
-    BIRENE
+    BIRENE.
 Celanire deffend que l'on ne vous l'apporte.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Je pasme, soutiens-moy, termine mes erreurs,  
 Et fay de mon trespas la fin de mes fureurs⁎ :  
 Oste à mes ennemis le plaisir, et la gloire⁎  
@@ -3612,34 +3611,34 @@ D'obtenir sur ma vie une pleine victoire.
 Je seray satisfait de mon Sort⁎ rigoureux,  
 Si je meurs dans mon mal autrement que par eux.  
 
-    BIRENE
+    BIRENE.
 Monsieur, esperez mieux, les Dieux sont esquitables [306].  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! pour moy seulement les Dieux sont redoutables.  
 Mais le somme ou la Mort appesantit mon œil,  
 Porte-moy dans le Ciel, ou bien dans le cercueil.  
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 BIRENE. ORONTE.
 
 
-    BIRENE
+    BIRENE.
 Oronte, à mon advis ce funeste naufrage⁎  
 Retardera sans doute un si beau mariage⁎,  
 Et l'on dérobera quelque temps à l'Amour,  
 Affin de le donner au deuil de cette cour.  
 
-    ORONTE
+    ORONTE.
 Il n'en faut point douter, mais dy moy je te prie  
 Comment [307] Cleomedon en est de sa furie⁎ ?  
 En quel estat l'as-tu si longuement laissé ?  
 
-    BIRENE
+    BIRENE.
 Assez-bon, grace⁎ aux Dieux, son transport⁎ est passé [308],  
 Ses esprits sont remis, et son ame arrestée⁎  
 Dompte les passions [309]qui l'avoient surmontee⁎.  
@@ -3648,54 +3647,54 @@ Et fait de ses douleurs les meilleurs appareils⁎,
 Et ne s'en faut [310] enfin que l'Amour de son Maistre,  
 Qu'il ne soit [311] aujourd'huy ce qu'on l' a veu paraistre.  
 
-    ORONTE
+    ORONTE.
 Mais le Palais du Prince est tousjours sa prison ?  
 
-    BIRENE
+    BIRENE.
 Il n'en est point sorty depuis sa guerison,  
 Il va dans les jardins, ainsi on le hazarde,  
 Et si je le quittois il n'auroit plus de garde.  
 Mais quel est celui-cy qui vient si vistement ?  
 
-    ORONTE
+    ORONTE.
 Vous le pouvez juger par son habillement.  
 ACTE V
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 CLORIMANTE. ORONTE. BIRENE.
 
 
-    CLORIMANTE
+    CLORIMANTE.
 Ne puis-je voir le Roy ?  
 
-    ORONTE
+    ORONTE.
         Que lui voulez-vous dire ?  
 
-    CLORIMANTE
+    CLORIMANTE.
 Chose qui le regarde aussi bien que l'Empire.  
 
-    ORONTE
+    ORONTE.
 Sans doute celui-cy blessé du jugement,  
 N'a pas l'esprit mieux fait que l'est son vestement [312].  
 
-    CLORIMANTE
+    CLORIMANTE.
 Faites-moy voir le Roy, son bien vous en conjure,  
 Me retenir icy c'est luy faire une injure.  
 
-    BIRENE
+    BIRENE.
 Mais quel Prince, ou quel Roy vous depesche⁎ en ces lieux ?  
 
-    CLORIMANTE
+    CLORIMANTE.
 Moy-mesme, ou bien plustost la volonté des Dieux.  
 
-    ORONTE
+    ORONTE.
 Il ne faut plus douter de son extravagance,  
 Ce discours nous en donne assez de cognoissance.  
 Sortez d'icy, bon-homme, adieu, retirez-vous,  
 Et croyez que la Cour, ne manque pas de foux.  
 
-    CLORIMANTE *un peu bas.*
+    CLORIMANTE *un peu bas.*.
 Helas ! tout clairement mon malheur me le monstre,  
 Puis qu'à mon triste⁎ abord je faits cette rencontre.  
 Faites-moy voir le Roy, de grace⁎ et promptement,  
@@ -3703,11 +3702,11 @@ Comme fol, comme sage, il n'importe comment,
 Je porte avecques moy le bien de deux Pronvinces,  
 Et l'on me vid jadis assez proche des Princes.  
 
-    ORONTE
+    ORONTE.
 Je suis d'opinion qu'on l' a veu plus de fois  
 Dedans les hospitaux⁎, que dans les Cours des Rois.  
 
-    CLORIMANTE
+    CLORIMANTE.
 Ne me dédaignez point pour me voir de la sorte,  
 Ne jugez pas de moy par l'habit que je porte,  
 Quelquefois le dedans vaut mieux que le dehors,  
@@ -3715,43 +3714,43 @@ Et soubs une ruine [313] on trouve des thresors.
 ACTE V
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 ORONTE. BIRENE. CLORIMANTE.
 
 POLICANDRE
 
 
-    ORONTE
+    ORONTE.
 Mais desjà le Roy sort⁎.  
 
-    BIRENE
+    BIRENE.
         Mais voyez quelle audace.  
 
-    CLORIMANTE
+    CLORIMANTE.
 Ha ! grand Prince, ha ! Messieurs, permettez que je passe,  
 Ne me retenez point, grand Monarque arrestez⁎,  
 Pour entendre la fin de vos adversitez.  
 
-    POLICANDRE
+    POLICANDRE.
 Qu'on esloigne ce gueux.  
 
-    CLORIMANTE
+    CLORIMANTE.
         Sire, c'est Clorimante.  
 
-    POLICANDRE
+    POLICANDRE.
 Que dit-il ?  
 
-    ORONTE
+    ORONTE.
         A ce mot son esprit s'espouvante.  
 
-    POLICANDRE
+    POLICANDRE.
 Qu'on le fasse approcher.  
 
-    CLORIMANTE
+    CLORIMANTE.
         Que les Dieux me sont doux,  
 De me permettre encor d'embrasser vos genoux !  
 
-    POLICANDRE
+    POLICANDRE.
 Est-ce toy Clorimante, ô changement extréme,  
 Je cherche ton visage, en ton visage mesme,  
 Je te voy tout ensemble [314], et je ne te voy pas,  
@@ -3761,7 +3760,7 @@ Quelle triste⁎ avanture⁎ a traversé ta vie !
 Quel Sort⁎ à ton sujet⁎ plein d'horreur et d'effroy,  
 Ne me fait voir en toy que des restes de toy ?  
 
-    CLORIMANTE
+    CLORIMANTE.
 Que la faveur du Ciel vous est bien manifeste,  
 En ce qu'elle conserve un si malheureux⁎ reste !  
 Je viens vous faire part d'un secret important  
@@ -3771,20 +3770,20 @@ Il vous doit exempter, et de crime, et de blasme,
 Et par mesme moyen vous monstrer tout à nu,  
 Que vous avez un bien qui vous est inconnu.  
 
-    POLICANDRE
+    POLICANDRE.
 Dy le moy ce secret, ne me fais plus attendre.  
 
-    CLORIMANTE
+    CLORIMANTE.
 Sire, c'est en secret, qu'un secret doit s'apprendre.  
 
-    POLICANDRE
+    POLICANDRE.
 Rentrons, et sois certain en ce qu'il te plaira,  
 Que jamais ma faveur ne t'abandonnera.  
 
-    ORONTE
+    ORONTE.
 Monsieur, pardonnez-nous.  
 
-    CLORIMANTE
+    CLORIMANTE.
         Est-ce à moy qu'on s'adresse ?  
 Qui m'outrageoit tantost, maintenant me caresse.  
 Que ne peut la faveur ! Quand nous la possedons,  
@@ -3792,9 +3791,9 @@ Nous avons plus d'amis que nous n'en demandons.
 ACTE V
 
 
-### SCENE QUATRIESME [315]
+### SCENE QUATRIESME [315].
 
-    CELANIRE *seule.*
+    CELANIRE *seule.*.
 Malheureuse Princesse aux peines asservie,  
 Perds avecques tes pleurs la lumiere et la vie,  
 Pour un esprit touché de misere et de deuil,  
@@ -3822,67 +3821,67 @@ Que j'ay sçeu me punir devant que [317] de pecher.
 ACTE V
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 BIRENE. CLEOMEDON. CELANIRE.
 
 
-    BIRENE
+    BIRENE.
 Monsieur, que faites-vous ?  
 
-    CLEOMEDON
+    CLEOMEDON.
         Sa perte est arrestee⁎,  
 Dés le mesme moment que je l'ay meditee.  
 Puisque je l'ay juré sa ruïne [318] le suit.  
 Tu me retiens en vain⁎.  
 
-    CELANIRE
+    CELANIRE.
         Mais j'entens quelque bruit.  
 Est-ce vous ?  
 
-    CLEOMEDON
+    CLEOMEDON.
     Ha ! Ma Reine.  
 
-    BIRENE
+    BIRENE.
         Opposez-vous, Madame,  
 A ce nouveau transport⁎ qui bourrelle⁎ son ame.  
 Il cherche Celiante, et conspire sa mort.  
 
-    CELANIRE
+    CELANIRE.
 N'estoit-il pas guery ? D'où luy vient ce transport⁎ ?  
 
-    BIRENE
+    BIRENE.
 Ayant sçeu le retour de la Princesse Argire,  
 Il a fait le dessein que je vous viens de dire.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ouy pour vostre repos, plustost que pour mon bien,  
 Il faut que son trespas precede icy le mien.  
 
-    CELANIRE
+    CELANIRE.
 Argire est de retour, elle avoit fait naufrage⁎.  
 
-    BIRENE
+    BIRENE.
 Son vaisseau fut poussé⁎ sur un autre rivage,  
 Si bien que quelque temps on a cru justement  
 Que le lict de la mer estoit son monuments⁎.  
 
-    CELANIRE
+    CELANIRE.
 Helas ! Que ce retour est pour moy redoutable !  
 Mais me fais-tu, Birene, un discours veritable ?  
 
-    BIRENE
+    BIRENE.
 Argire est dans la ville, et desjà son retour  
 A rendu l'alegresse au front de cette Cour.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Croyez ce qu'il en dit, n'en doutez point, Madame,  
 L'allegresse est par tout, si ce n'est dans mon ame.  
 
-    CELANIRE
+    CELANIRE.
 Mais Birene, allez voir tandis qu'il m'entretient,  
 Si dedans ce jardin personne ne survient.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Permettez mes transports⁎, vous aurois-je cherie,  
 Si lors [319] que je vous perds je restoie sans furie⁎ ?  
 Non, il faut qu'elle esclate, et qu'en un mesme jour  
@@ -3896,7 +3895,7 @@ Je veux de son trespas faire l'un de mes crimes,
 Je le veux immoler à mon dernier transport⁎,  
 Affin que si je meurs je merite la mort.  
 
-    CELANIRE
+    CELANIRE.
 Arreste⁎, et monstre moy par ton obeyssance,  
 Que j'ay dessus ton ame un reste de puissance.  
 Si le Sort⁎ est contraire à tes pretentions,  
@@ -3906,7 +3905,7 @@ Tu ne merite pas une peine si dure.
 Bien que l'on soit touché d'un desastre puissant,  
 On vid avec plaisir lors qu'on [320] vid innocent.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Que ce soit à mes jours une honteuse tache,  
 Le crime me plaist mieux qu'une innocence lasche.  
 Si pourtant c'est un crime à mes justes transports⁎,  
@@ -3924,24 +3923,24 @@ Que donne si souvent la fortune⁎ ennemie ;
 Mais le mal-heur extréme et le plus esclatant,  
 C'est de voir par nos maux nostre ennemy content⁎.  
 
-    CELANIRE
+    CELANIRE.
 Arreste⁎ encore un coup⁎.  
 
-    CLEOMEDON
+    CLEOMEDON.
         Ainsi tout m'est contraire,  
 Puisque ce [322] qui m'aymoit deffend mon aversaire.  
 
-    CELANIRE
+    CELANIRE.
 Pense-tu que mon soing tende à le secourir ;  
 Alors que je te veux empescher de perir ?  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ne vous opposez point aux restes de ma rage,  
 Ne craignez plus [323] pour moy, j'ay desjà fait naufrage⁎.  
 De quelque Amour qu'on voye un malheureux⁎ chery,  
 Lors qu'il [324] est sans espoir, il a desjà pery.  
 
-    CELANIRE
+    CELANIRE.
 Ne desespere point, asseuré que personne  
 Ne t'ostera jamais la foy⁎ que je te donne.  
 Et si tu n'as ce cœur amoureux et bruslant,  
@@ -3951,20 +3950,20 @@ Qu'affin qu'il fust un jour ton prix plus honnorable [325].
 Tu peux en disposer, je le mets en ta main ;  
 Et si tu crains sa perte oste le moy du sein.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! C'est pouvoir beaucoup⁎ sur une ame en furie⁎,  
 Que de la surmonter⁎ par une flatterie ;  
 Puis que vous le voulez je perdray mon transport⁎,  
 J'espereray, Madame, et ce sera la mort.  
 
-    BIRENE
+    BIRENE.
 Quelqu'un vous vient querir.  
 
-    CELANIRE *en s'en allant.*
+    CELANIRE *en s'en allant.*.
         Adieu donc, mais espere,  
 Et croy ce que je dis plustost que ta colere.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Qu'un mot qui vient d'Amour nous a bien-tost changez,  
 Et qu'il a de pouvoir sur nos cœurs affligez !  
 Je sçay qu'elle me donne une esperance ingratte,  
@@ -3986,13 +3985,13 @@ Quand ses deux ennemis le viennent attaquer !
 ACTE V
 
 
-### SCENE SIXIEME
+### SCENE SIXIEME.
 POLICANDRE. ARGIRE. CELIANTE.
 
 CELANIRE. BELISE. CLORIMANTE.
 
 
-    POLICANDRE
+    POLICANDRE.
 Celiante, mon fils ! ha, permettez, Madame,  
 Qu'au lieu d'un compliment, je vous donne du blasme.  
 Vous deviez terminer tant de maux inhumains,  
@@ -4002,7 +4001,7 @@ Que ma desloyauté merita cette peine.
 Quand vous me punissiez des maux que je vous fis,  
 Vous m'estiez douce encor en cherissant mon fils.  
 
-    ARGIRE
+    ARGIRE.
 Depuis que mes fureurs⁎ allumerent les guerres,  
 Qui de pleurs et de sang⁎ ont arrousé [328] nos terres,  
 J'ay mille fois cherché la fin de ce tourment,  
@@ -4016,29 +4015,29 @@ Rend selon qu'il luy plaist nos entreprises vaines :
 Et selon qu'il luy plaist il verse dessus nous  
 Ce qui nous est amer, ou ce qui nous est doux.  
 
-    POLICANDRE
+    POLICANDRE.
 Mais monstrons à ce Dieu par un exceds de joye,  
 Que nous recognoissons le bien qu'il nous envoye,  
 Que je trouve mon Sort⁎, et doux et triomphant,  
 Puisqu'au [329] lieu d'un captif il me donne un enfant.  
 
-    CELIANTE
+    CELIANTE.
 Mais que je doy loüer la faute de ma mere,  
 Puis qu'elle me rend fils d'un si genereux⁎ pere !  
 Ainsi, belle Princesse, en un mesme moment  
 Vous acquerez un frere, et perdez un Amant⁎.  
 
-    CELANIRE
+    CELANIRE.
 Je suis de mon Destin plainement satisfaite,  
 Puis que mesme en perdant j'ay ce que je souhaite.  
 
-    POLICANDRE
+    POLICANDRE.
 Que j'ayme mes malheurs, puisque j'apprens par eux,  
 Que j'ay mis sur la terre un enfant genereux⁎ !  
 Ha ! qu'on doit estimer les fautes de jeunesse,  
 Lors qu'un [330] bien si parfait en vient à la vieillesse !  
 
-    ARGIRE
+    ARGIRE.
 Helas ! depuis ce temps mille secrets ennuis⁎  
 Ont sans cesse nourry les tourmens où je suis.  
 La perte d'un enfant incessamment me gesne⁎,  
@@ -4048,7 +4047,7 @@ J'oubliay laschement le nom que je portois ;
 Mais lors qu'il [332] fut perdu, la Nature severe  
 M'en fit avoir trop tard des sentimens de mere.  
 
-    POLICANDRE
+    POLICANDRE.
 il parle à l'oreille d'un page.
 
 Page, faites venir ; allez et promptement  
@@ -4059,29 +4058,29 @@ Et je croy que les Dieux qui font tout sagement,
 L'envoyerent icy pour vostre allegement.  
 Mais le voicy qui vient.  
 
-    ARGIRE
+    ARGIRE.
         Hé ! Dieux, c'est Clorimante.  
 Que devint en tes mains le petit Celiante ?  
 
-    CLORIMANTE
+    CLORIMANTE.
 Ha ! Madame,  
 
-    ARGIRE
+    ARGIRE.
         Dy viste, est-il vif ? est-il mort ?  
 
-    CLORIMANTE
+    CLORIMANTE.
 Il est.  
 
-    ARGIRE
+    ARGIRE.
     Acheve, [333]  
 
-    CLORIMANTE
+    CLORIMANTE.
         Il est ce qu'a voulu le Sort⁎.  
 
-    ARGIRE
+    ARGIRE.
 Celiante n'est plus.  
 
-    CLORIMANTE
+    CLORIMANTE.
         Je n'en sçaurois rien dire,  
 Je pense toutefois que ce Prince respire,  
 Et que ce Dieu qui regle et la terre et les Cieux,  
@@ -4103,10 +4102,10 @@ Cét hymen⁎ dètestable à toute la nature,
 Si bien que pour chasser tant d'horreurs et d'effroy,  
 Un moment devant vous [337] je vins trouver le Roy.  
 
-    ARGIRE
+    ARGIRE.
 Helas ! mon fils est mort.  
 
-    POLICANDRE
+    POLICANDRE.
         Mais lors que [338] cette guerre  
 Passa dans vos Estats de mesme qu'un tonnerre,  
 Un enfant aussi beau que la mesme [339] beauté  
@@ -4116,58 +4115,58 @@ M'a bien recompensé du prix de son servage⁎.
 Ne seroit-ce point luy ? Mandez Cleomedon.  
 Le recognoistrez-vous ?  
 
-    CLORIMANTE
+    CLORIMANTE.
         Non pas, Sire, à ce nom.  
 
-    POLICANDRE
+    POLICANDRE.
 Celuy de Quinicson le fera-il connoistre⁎ ?  
 
-    CLORIMANTE
+    CLORIMANTE.
 Ha ! Sire, je le voy.  
 
-    ARGIRE
+    ARGIRE.
         Je ne voy rien paraistre [340].  
 
-    CLORIMANTE
+    CLORIMANTE.
 A ce nom seulement je pense le revoir.  
 O Dieux ! monstrez-icy quel est vostre pouvoir.  
 
-    ARGIRE
+    ARGIRE.
 Helas ! voilà le nom que receut Celiante,  
 Lors que [341] pour le cacher j'en chargeay Clorimante.  
 Je crains de me flatter d'un faux soulagement,  
 Et de n'avoir trouvé que son nom seulement.  
 Pourquoy le changea-on ?  
 
-    POLICANDRE
+    POLICANDRE.
         Il sembla trop barbare⁎,  
 Pour un petit enfant d'une beauté si rare.  
 
-    ARGIRE
+    ARGIRE.
 Mais qu'il me sera doux, qu'il chassera d'ennuy⁎  
 Si l'enfant qui l'avoit se trouve avecques luy ?  
 
-    BELISE *à l'escart.*
+    BELISE *à l'escart.*.
 Enfin à mon Amour l'esperance est permise,  
 Et quand j'y pense moins le Ciel me favorise.  
 
-    ARGIRE
+    ARGIRE.
 Bien que l'aage en un corps fasse un grand changement,  
 Je le sçauray connoistre⁎ [342] à la main seulement.  
 Elle porte un laurier⁎ qu'y traça la Nature [343].  
 
-    CELANIRE
+    CELANIRE.
 C'est luy mesme, Madame, ô Divine advanture !      
 
-    ARGIRE
+    ARGIRE.
 Dois-je esperer ce bien ?  
 
-    POLICANDRE
+    POLICANDRE.
         Madame le voicy.  
 ACTE V
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 POLICANDRE. CLEOMEDON
 
 CLORIMANTE. ARGIRE. CELANIRE.
@@ -4175,11 +4174,11 @@ CLORIMANTE. ARGIRE. CELANIRE.
 CELIANTE. BELISE.
 
 
-    POLICANDRE
+    POLICANDRE.
 Venez, Cleomedon, approchez-vous d'icy,  
 Voyez subtilement si sa main est marquee [344].  
 
-    CLEOMEDON
+    CLEOMEDON.
 Faut-il voir de nouveau ma fortune⁎ attaquee ?  
 Ne me fait-on paraistre en ces lieux redoutez,  
 Que pour mieux m'asseurer de mes adversitez ?  
@@ -4210,26 +4209,26 @@ Je r'appelle chez vous le mal que j'ay chassé.
 Cette fatalle main sçeut relever l'Empire,  
 Et cette mesme main sçait aussi le destruire.  
 
-    CLORIMANTE *luy prend la main.*
+    CLORIMANTE *luy prend la main.*.
 Ha ! Sire, c'est luy-mesme, ha ! mon Prince, ha ! mon Roy.  
 
-    POLICANDRE
+    POLICANDRE.
 Je le voy, ce laurier⁎.  
 
-    ARGIRE
+    ARGIRE.
         Moy-mesme je le voy,  
 Mais mieux que le laurier⁎ que nous voyons paraistre,  
 Un secret mouvement me l'a fait recognoistre,  
 La Nature et le Ciel favorables et doux,  
 Me le font voir icy par d'autres yeux que vous.  
 
-    POLICANDRE
+    POLICANDRE.
 Ainsi le juste Ciel luy donna par avance,  
 De ses hautes vertus la noble recompense,  
 Et monstra qu'il seroit la gloire⁎ des guerriers,  
 Puisque mesme en naissant il obtint des lauriers⁎.  
 
-    ARGIRE
+    ARGIRE.
 Que des Dieux souverains la conduite est couverte [346] !  
 J'employois vostre fils au coup⁎ de vostre perte,  
 Et par un Sort⁎ estrange, et d'où vient nostre bien,  
@@ -4239,34 +4238,34 @@ Puisque vostre secours est venu de moy-mesme.
 Je n'accuseray point vostre amour parjuré,  
 Puis que j'obtiens de vous ce bien inesperé.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Vostre injuste rigueur n'est donc pas espuisee ;  
 On veut donc à ma peine adjouter la risee.  
 Et parce qu'aux grands cœurs c'est le trait⁎ de la mort,  
 Par elle on veut finir mon miserable⁎ Sort⁎.  
 
-    ARGIRE
+    ARGIRE.
 Cleomedon, mon fils, estouffe ta colere  
 Dans les embrassements⁎ que te donne ta mere ;  
 Si tu ne peux me croire, apprends par tes exploists,  
 Que tu n'as pû sortir que des Dieux et des Rois.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Est-ce l'effet d'un charme⁎, ou bien plustost d'un songe⁎,  
 Qui presente à mes maux le secours d'un mensonge ?  
 
-    POLICANDRE
+    POLICANDRE.
 Rasseure ton esprit, ton Sort⁎ est adoucy,  
 Et si ton mal fut grand, ton bon cœur l'est aussi.  
 Voy ton frere, et l'embrasse.  
 
-    CLEOMEDON
+    CLEOMEDON.
         Hé ! Dieu, ce Roy mon frere,  
 Ha ! Sire, la risee est icy toute claire.  
 Mon frere, un ennemy qui me prive de biens,  
 Et m'oste mes thresors pour en faire les siens !  
 
-    CELIANTE
+    CELIANTE.
 Celiante donne Celanire à Cleomedon.
 
 Mon frere, dissipez ces soubçons, et ses craintes,  
@@ -4274,40 +4273,40 @@ Je remets en vos mains le sujet⁎ de vos plaintes,
 Je vous rends les thresors que je vous avois pris,  
 Et pour m'avoir vaincu je vous donne le prix.  
 
-    POLICANDRE
+    POLICANDRE.
 Celanire est à toy, que rien ne t'en estonne⁎,  
 Par les mains de mon fils, c'est moy qui te la donne,  
 Et tu me dois aymer tout autant que jamais,  
 Puis qu'enfin je gueris les maux que je t'ay faits.  
 Madame, approuvez-vous ce qu'il a peine à croire ?  
 
-    ARGIRE
+    ARGIRE.
 S'il en reçoit du bien, j'en reçoy de la gloire⁎.  
 
-    POLICANDRE
+    POLICANDRE.
 Vous, ma fille, en cecy [347] serez-vous contre nous ?  
 
-    CELANIRE
+    CELANIRE.
 Vous pouvez disposer des biens qui sont à vous.  
 N'ayant point d'autre soin que de vous satisfaire,  
 Je borne mes desirs de [348] celuy de vous plaire.  
 
-    CLEOMEDON
+    CLEOMEDON.
 Ha ! Madame, est-il vray qu'un sort⁎ prodigieux  
 M'esleve des Enfers à la gloire⁎ des Cieux ?  
 
-    ARGIRE
+    ARGIRE.
 N'en doute point , mon fils, tu sçauras l'avanture⁎,  
 Qui rend à tes beaux jours une gloire⁎ si pure.  
 
-    POLICANDRE
+    POLICANDRE.
 Mais pour nous mieux combler de biens et de plaisirs,  
 Celiante, mon fils, contente⁎ mes desirs.  
 
-    CELIANTE
+    CELIANTE.
 Me voilà prest à tout.  
 
-    POLICANDRE
+    POLICANDRE.
         Voy-tu cette Princesse ?  
 Elle est pour un Monarque une digne Maistresse⁎  
 Adore ses vertus, ayme-la desormais,  
@@ -4315,7 +4314,7 @@ Elle n'est pas ma fille, on le sçait, tu le sçais.
 Alors que j'espousay la Reine Doranise,  
 D'un premier mariage⁎ elle avoit eu Belise.  
 
-    CELIANTE
+    CELIANTE.
 La loy que je reçoy de vostre volonté,  
 Je la prendroy bien-tost de sa seule beauté.  
 Si Madame y consent, je l'adore, je l'ayme,  
@@ -4325,7 +4324,7 @@ Et mon ame luy fait un present de soy mesme.
 J'aymerois peu mon bien et mon contentement,  
 Si je n'acceptois pas un present si charmant.  
 
-    POLICANDRE
+    POLICANDRE.
 Mais ce n'est pas assez que ces deux mariages⁎  
 Esloignent de nos cœurs la crainte des orages.  
 Bien que l'on en espere un calme non commun,  
@@ -4333,11 +4332,11 @@ L'honneur de Celiante en demande encor un.
 C'est le nostre, Madame, en serez-vous contente⁎,  
 Et verray-je à mes vœux respondre vostre attente ?  
 
-    ARGIRE
+    ARGIRE.
 Je me declarerois indigne de bon-heur,  
 Si je ne consentois à ce que veut l'honneur.  
 
-    POLICANDRE
+    POLICANDRE.
 Mais apres tant de biens, sans borne et sans exemples,  
 N'oublions pas le prix que l'on en doit aux Temples.  
 Ainsi les feux⁎ de Mars estouffez à leur tour,  
@@ -4345,21 +4344,21 @@ Cederont pour jamais aux flames⁎de l'Amour.
 FIN.
 
 
-# GlossaireAccident« Ce qui arrive par hasard, en bien ou en mal » (Furetière)V. 195, 897Adversité« État de malheur suite à la perte de santé, d'honneur, ou de biens » (Furetière)V. 322Affaire« Grand dessein » (Furetière)V. 156, 725, 760, 1220, 1888Allarme« Toutes formes d'appréhension » (Furetière)V. 609Altérer« Causer la soif » (Furetière)V. 969Amant« Celuy qui aime d'une passion violente et amoureuse » (Furetière) V. 196, 204, 554, 902, 1408, 1431, 1459, 1899Animer« Exciter à la colère, à la vengeance, au combat, à des entreprises » (Richelet)V. 25, 123, 318, 505, 577, 1267, 1316Apercevoir« Remarquer quelque chose par l'attention, la réflexion ou l'examen » (Richelet)V. 338Appareil« Eclat »V. 24« Terme médical qui dit la première application d'un remède sur une plaie que l'on tente de guérir » (Furetière) V. 1683Appas« Se dit particulièrement de la  beauté, des femmes. » (Furetière)V. 28, 235, 1423, 1462, 1751Appetit« Passion de l'âme qui porte à désirer quelque chose » (Furetière)V. 138Apprester« Preparer le nécessaire pour ce que l'on a l'intention de faire bientôt » (Richelet)V. 174Arrester« Décider » (Furetière)V. 408, 542, 578, 638, 679, 706, 759, 1024, 1084, 1133, 1195, 1602, 1680, 1718, 1772, 1808, 1832Aspect« Vuë, presence, regard » (Furetière)V. 370, 421Avantage« Victoire »  (Furetière)Dédicace, v. 436, 496, 1580Avanture« Événement. Chose arrivée à une personne » (Richelet) V. 220, 300, 328, 821, 1729, 2052Avis« Avertissement » (Furetière)V. 847, 1222Aymable« Qui attire l'amour » (Furetière)V. 537, 633, 1005, 1444, 1876Barbare« Cruel, impitoyable, qui n'entend pas la pitié » (Furetière)V. 54, 1960Bourreler« Faire souffrir, tourmenter. On le dit au figuré des remords de la conscience » (Furetière)V. 1777CaptiverSens d'aujourd'hui pour l'ensemble de la pièce. « Susciter l'admiration. Un Prince doux et bienfaisant *captive* tous ses sujets » (Furetière)V. 56, 471, 1285, 1371, 1470, 1576Carriere« Course, cours d'un cycle. La *carrière du soleil* est une expression poétique » (Richelet)V. 9Chaisne« Toute forme d'esclavage ou de soumission d'esprit ou de corps » (Furetière)V. 1013Change« Échange, permutation » (Furetière)V. 921, 1333, 1432Charme« La beauté, les appas, les agrémens des femmes » (Furetière) et « Puissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature » (Furetière)  V. 173, 227, 876, 1328, 1441, 2028Cœur« Signifie quelquefois vigueur, force, courage, intrépidité. On dit aussi, qu'un homme a le *cœur* haut, et la fortune basse, quand il est glorieux et pauvre » (Furetière) V. 759, 951, 983, 995, 1002, 1018Connoistre« Savoir » (Furetière)V. 1952, 1967Considerable« Qui doit être estimé, remarqué pour son prix, pour sa qualité, pour son merite, qui se fait distinguer des autres » (Furetière)V. 561Consulter« Hésiter » (Furetière)V. 310, 718Contenter« Apaiser, faire taire » (Furetière)V. 191, 278, 731, 748, 1278, 1295, 1542, 1735, 1825, 1831, 1859, 1917, 2055, 2072Coup« Bonne ou mauvaise action extraordinaire » (Furetière)V. 382, 416, 595, 607, 712, 730, 784, 799, 889, 1006, 1162, 1332, 1334, 1597, 1799, 1832, 1848, 2013Courage« Volonté, cœur, bravoure » (Furetière)V. 26, 76, 85, 113, 254, 396, 405, 433, 437, 489, 497, 504, 509, 566, 572, 585, 598, 617, 711, 740, 816, 942, 978, 993, 1120, 1560, 1577, 1948Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute » (Furetière). Chez Du Ryer, le *degré* est presque toujours associé au *trône*. V. 305, 1212Demon« Homme mauvais qui ne cherche qu'à nuire. Les Anciens ont appelé ainsi certains Esprits ou Génies qui apparoissent aux hommes, tantost pour leur servir, tantost pour leur nuire » (Furetière)V. 124, 884, 1447Dépêcher« Envoier vers quelqu'un » (Richelet) Descouvrir« Dévoiler ses sentiments, ses affaires » (Furetière)V. 312, 1012, 1637Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein » (Furetière)V. 300Effort« Attention, emploi de toutes ses forces, violence, résultat »  (Furetière)V. 37, 51, 71, 350, 376, 382, 394, 424, 587, 623, 662, 674, 1645Embrassement« Action de prendre dans ses bras » (Furetière)V. 2025Ennuis« Tourments » (Furetière)V. 268, 698, 937, 982, 1050, 1427, 1498, 1906, 1962, 1982Estonner (s')« Frapper de stupéfaction » (Furetière)V. 9, 71, 130, 163, 164, 248, 285, 456, 593, 900, 1642, 1735, 1866, 2040Exercice« Occupation ou peine, affliction » (Furetière)V. 53Exposer« Mettre en danger » (Richelet)Privilège, v. 168, 280, 281Extraction« En généalogie, branche de la famille dont on vient » (Furetière)V. 1510Facilité« On dit abuser de la *facilité* de quelqu'un, pour dire, tirer advantage de la foiblesse, de la simplicité, de la mollesse de quelqu'un, et le surprendre »  (Furetière)V. 187Faix« Corps pesant qui porte sur quelque chose, et qui le charge. Terme souvent mis au sens figuré » (Furetière)V. 307, 702, 1046Feindre« Se servir d'une fausse apparence, pour tromper, contrefaire, faire semblant, dissimuler » ou  « imaginer, inventer des choses fausses » (Furetière)V. 186, 981Feinte« Déguisement, dissimulation quelconque » (Furetière)V. 174, 270Fers« Au sens figuré, tout ce qui est d'une grande dureté psychologique » (Furetière)V. 40, 68, 415, 446, 583, 868, 1082, 1285, 1497, 1507, 1638, 1934Feu« Vivacité de l'esprit, ardeur des passions » (Furetière)V. 115, 117, 461, 474, 524, 544, 684, 843, 886, 1417, 1605, 2078Flambeau« Désignation d'une personne qui insuffle la révolte » (Ménage)V. 265, 1251Flame« Trouble, désordre ou vivacité » (Furetière)V. 181, 201, 224, 528, 543, 672, 677, 828, 862, 868, 884, 1388, 2079Fortune« C'estoit autrefois une Divinité Payenne qu'on croyoit estre la cause de tous les évenements extraordinaires: au lieu que c'est en effet la Providence divine qui agit par des voyes inconnuës et au dessus de la prudence des hommes » (Furetière)V. 101, 256, 549, 580, 585, 620, 748, 1284, 1344, 1356, 1488, 1500, 1512, 1529, 1582, 1612, 1629, 1728, 1829, 1932, 1973Fortuné« Heureux » (Furetière)V. 230, 375Foy« Parole de fidélité, d'assurance, promesse ou serment » (Furetière)Privilège, v. 140, 150, 154, 185, 203, 605, 901, 995, 1503, 1841, 1865Franc« Libéré » (Ménage)V. 942Fureur« Passion qui fait agir avec emportement » (Furetière)V. 493, 1020, 1308, 1597, 1614, 1663, 1880Furie« C'est la même chose que *Fureur* » (Furetière)V. 1333, 1677, 1797, 1848Gage« Héritage » (Richelet)V. 209, 228, 1109Généreux« Noble, superbe »  (Furetière)V. 1, 437, 462, 673, 744, 794, 909, 963, 1119, 1166, 1316, 1897, 1903Gens« Assemblée de plusieurs personnes qui font un corps » (Furetière)V. 378Gesner« Tourmenter le corps ou l'esprit » (Furetière)V. 306, 359, 616, 861, 884, 1012, 1908Gloire« Majesté, honneur, louange » (Furetière)V. 2, 28, 46, 105, 114, 123, 126, 289, 411, 440, 481, 500, 517, 519, 613, 696, 729, 741, 769, 880, 1096, 1099, 1116, 1153, 1168, 1173, 1293, 1592, 1664, 2010, 2045, 2051, 2053Grace« La bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller qui plaisent aux autres » (Furetière)Privilège, v. 65, 488, 888, 1088, 1679, 1706Homicide« Meurtrier » (Ménage) V. 97Hospital« Lieu charitable où l'on reçoit les pauvres pour les soulager de leur nécessité » (Furetière)V. 1711Hymen, hyménée« Signifie poëtiquement le mariage » (Furetière)V. 149, 198, 222, 707, 836, 941, 1104, 1269, 1300, 1418, 1941Inquiétude« Trouble particulièrement vif de l'esprit » (Furetière)V. 1114, 1608Insigne« Remarquable, qui se distingue » (Furetière)V. 288Laurier« Se dit figurément en Morale, pour signifier la gloire d'un triomphe » (Furetière)V. 504, 1968, 2003, 2004, 2011Maistresse« Femme qui sait entretenir une famille et que l'on recherche en mariage » (Furetière)V. 2057Malheureux« Damné, qui est privé de la veuë de Dieu, de la vraye felicité ; se dit aussi des miserables qui sont sur la terre, qui souffrent toutes les incommoditez, les necessitez de la vie » (Furetière)V. 57, 212, 229, 274, 1336, 1495, 1733, 1824, 1838Malice« Inclination à faire le mal » (Richelet)V. 356Mariage« Dot » (Richelet)V. 134, 206, 218, 1305, 1544, 1673, 2061, 2068Martire« Se dit aussi figurément et improprement de ceux qui souffrent quelques peines pour l'amour d'autruy » et « se dit abusivement des Hérétiques et des Payens qui souffrent pour la défense de leur fausse Religion, et qui se sacrifient à leurs idoles » (Furetière)V. 121, 952Mélancolie« C'est une des quatre humeurs qui sont dans le corps, la plus pesante et la plus incommode. La *melancolie* cause la tristesse, le chagrin. La *melancolie* noire cause quelquefois la folie » (Furetière) V. 1324Miserable« Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. Signifie aussi méchant » (Furetière)V. 139, 1072, 1844, 2023Modeste« Qui a de la modération, de la pudeur » (Furetière)V. 1392Monument« Tombeau en poésie » (Furetière)V. 8, 1787Naufrage« Un debris de fortune, un renversement d'affaires » (Furetière)V. 404, 1533, 1545, 1672, 1784, 1837Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (Furetière) V. 59, 1367Party« Troupe que l'on commande pour une expédition » (Furetière)Acteurs, v. 610Pousser« Poursuivre, obliger à fuir, à reculer » (Furetière)V. 354, 449, 1785Presser« Contraindre, obliger, solliciter, pousser, exciter avec chaleur » (Richelet)V. 74, 77, 109, 141, 469, 640, 873Priser« Louer, vanter, estimer, faire cas » (Furetière)V. 1120Publier« Rendre public, annoncer quelque chose dans les lieux publiques » (Furetière)Dédicace, v. 1768Race« Se dit des anciennes familles illustres » (Furetière)V. 221Rebut« Mépris » (Furetière)V. 1161Renom« Une estime, bonne ou mauvaise, acquise dans l'opinion des hommes » (Furetière)V. 12, 290, 966Renommée« C'est la même chose que *renom* ; mais ce mot a un plus fréquent usage » (Furetière)V. 193, 368Renverser« Vocabulaire militaire qui signifie que les troupes se désordonnent sous l'effet du combat. Signifie aussi changement brusquement de côté » (Ménage)V. 58, 70, 74, 275, 301, 839, 1599Resserer« Retrancher de la liberté »  (Furetière)V. 67Resverie« Délire ou démence. C'est un mauvais signe pour un malade, quand il entre dans la *resverie* » (Furetière)V. 1332Salaire« Récompense en échange de service, de travail ou de bonnes actions » (Furetière)V. 569, 808, 1061, 1281, 1289, 1980Sang« Parenté, transmission par la naissance » (Furetière)
+# Glossaire.Accident« Ce qui arrive par hasard, en bien ou en mal » (Furetière)V. 195, 897Adversité« État de malheur suite à la perte de santé, d'honneur, ou de biens » (Furetière)V. 322Affaire« Grand dessein » (Furetière)V. 156, 725, 760, 1220, 1888Allarme« Toutes formes d'appréhension » (Furetière)V. 609Altérer« Causer la soif » (Furetière)V. 969Amant« Celuy qui aime d'une passion violente et amoureuse » (Furetière) V. 196, 204, 554, 902, 1408, 1431, 1459, 1899Animer« Exciter à la colère, à la vengeance, au combat, à des entreprises » (Richelet)V. 25, 123, 318, 505, 577, 1267, 1316Apercevoir« Remarquer quelque chose par l'attention, la réflexion ou l'examen » (Richelet)V. 338Appareil« Eclat »V. 24« Terme médical qui dit la première application d'un remède sur une plaie que l'on tente de guérir » (Furetière) V. 1683Appas« Se dit particulièrement de la  beauté, des femmes. » (Furetière)V. 28, 235, 1423, 1462, 1751Appetit« Passion de l'âme qui porte à désirer quelque chose » (Furetière)V. 138Apprester« Preparer le nécessaire pour ce que l'on a l'intention de faire bientôt » (Richelet)V. 174Arrester« Décider » (Furetière)V. 408, 542, 578, 638, 679, 706, 759, 1024, 1084, 1133, 1195, 1602, 1680, 1718, 1772, 1808, 1832Aspect« Vuë, presence, regard » (Furetière)V. 370, 421Avantage« Victoire »  (Furetière)Dédicace, v. 436, 496, 1580Avanture« Événement. Chose arrivée à une personne » (Richelet) V. 220, 300, 328, 821, 1729, 2052Avis« Avertissement » (Furetière)V. 847, 1222Aymable« Qui attire l'amour » (Furetière)V. 537, 633, 1005, 1444, 1876Barbare« Cruel, impitoyable, qui n'entend pas la pitié » (Furetière)V. 54, 1960Bourreler« Faire souffrir, tourmenter. On le dit au figuré des remords de la conscience » (Furetière)V. 1777CaptiverSens d'aujourd'hui pour l'ensemble de la pièce. « Susciter l'admiration. Un Prince doux et bienfaisant *captive* tous ses sujets » (Furetière)V. 56, 471, 1285, 1371, 1470, 1576Carriere« Course, cours d'un cycle. La *carrière du soleil* est une expression poétique » (Richelet)V. 9Chaisne« Toute forme d'esclavage ou de soumission d'esprit ou de corps » (Furetière)V. 1013Change« Échange, permutation » (Furetière)V. 921, 1333, 1432Charme« La beauté, les appas, les agrémens des femmes » (Furetière) et « Puissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature » (Furetière)  V. 173, 227, 876, 1328, 1441, 2028Cœur« Signifie quelquefois vigueur, force, courage, intrépidité. On dit aussi, qu'un homme a le *cœur* haut, et la fortune basse, quand il est glorieux et pauvre » (Furetière) V. 759, 951, 983, 995, 1002, 1018Connoistre« Savoir » (Furetière)V. 1952, 1967Considerable« Qui doit être estimé, remarqué pour son prix, pour sa qualité, pour son merite, qui se fait distinguer des autres » (Furetière)V. 561Consulter« Hésiter » (Furetière)V. 310, 718Contenter« Apaiser, faire taire » (Furetière)V. 191, 278, 731, 748, 1278, 1295, 1542, 1735, 1825, 1831, 1859, 1917, 2055, 2072Coup« Bonne ou mauvaise action extraordinaire » (Furetière)V. 382, 416, 595, 607, 712, 730, 784, 799, 889, 1006, 1162, 1332, 1334, 1597, 1799, 1832, 1848, 2013Courage« Volonté, cœur, bravoure » (Furetière)V. 26, 76, 85, 113, 254, 396, 405, 433, 437, 489, 497, 504, 509, 566, 572, 585, 598, 617, 711, 740, 816, 942, 978, 993, 1120, 1560, 1577, 1948Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute » (Furetière). Chez Du Ryer, le *degré* est presque toujours associé au *trône*. V. 305, 1212Demon« Homme mauvais qui ne cherche qu'à nuire. Les Anciens ont appelé ainsi certains Esprits ou Génies qui apparoissent aux hommes, tantost pour leur servir, tantost pour leur nuire » (Furetière)V. 124, 884, 1447Dépêcher« Envoier vers quelqu'un » (Richelet) Descouvrir« Dévoiler ses sentiments, ses affaires » (Furetière)V. 312, 1012, 1637Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein » (Furetière)V. 300Effort« Attention, emploi de toutes ses forces, violence, résultat »  (Furetière)V. 37, 51, 71, 350, 376, 382, 394, 424, 587, 623, 662, 674, 1645Embrassement« Action de prendre dans ses bras » (Furetière)V. 2025Ennuis« Tourments » (Furetière)V. 268, 698, 937, 982, 1050, 1427, 1498, 1906, 1962, 1982Estonner (s')« Frapper de stupéfaction » (Furetière)V. 9, 71, 130, 163, 164, 248, 285, 456, 593, 900, 1642, 1735, 1866, 2040Exercice« Occupation ou peine, affliction » (Furetière)V. 53Exposer« Mettre en danger » (Richelet)Privilège, v. 168, 280, 281Extraction« En généalogie, branche de la famille dont on vient » (Furetière)V. 1510Facilité« On dit abuser de la *facilité* de quelqu'un, pour dire, tirer advantage de la foiblesse, de la simplicité, de la mollesse de quelqu'un, et le surprendre »  (Furetière)V. 187Faix« Corps pesant qui porte sur quelque chose, et qui le charge. Terme souvent mis au sens figuré » (Furetière)V. 307, 702, 1046Feindre« Se servir d'une fausse apparence, pour tromper, contrefaire, faire semblant, dissimuler » ou  « imaginer, inventer des choses fausses » (Furetière)V. 186, 981Feinte« Déguisement, dissimulation quelconque » (Furetière)V. 174, 270Fers« Au sens figuré, tout ce qui est d'une grande dureté psychologique » (Furetière)V. 40, 68, 415, 446, 583, 868, 1082, 1285, 1497, 1507, 1638, 1934Feu« Vivacité de l'esprit, ardeur des passions » (Furetière)V. 115, 117, 461, 474, 524, 544, 684, 843, 886, 1417, 1605, 2078Flambeau« Désignation d'une personne qui insuffle la révolte » (Ménage)V. 265, 1251Flame« Trouble, désordre ou vivacité » (Furetière)V. 181, 201, 224, 528, 543, 672, 677, 828, 862, 868, 884, 1388, 2079Fortune« C'estoit autrefois une Divinité Payenne qu'on croyoit estre la cause de tous les évenements extraordinaires: au lieu que c'est en effet la Providence divine qui agit par des voyes inconnuës et au dessus de la prudence des hommes » (Furetière)V. 101, 256, 549, 580, 585, 620, 748, 1284, 1344, 1356, 1488, 1500, 1512, 1529, 1582, 1612, 1629, 1728, 1829, 1932, 1973Fortuné« Heureux » (Furetière)V. 230, 375Foy« Parole de fidélité, d'assurance, promesse ou serment » (Furetière)Privilège, v. 140, 150, 154, 185, 203, 605, 901, 995, 1503, 1841, 1865Franc« Libéré » (Ménage)V. 942Fureur« Passion qui fait agir avec emportement » (Furetière)V. 493, 1020, 1308, 1597, 1614, 1663, 1880Furie« C'est la même chose que *Fureur* » (Furetière)V. 1333, 1677, 1797, 1848Gage« Héritage » (Richelet)V. 209, 228, 1109Généreux« Noble, superbe »  (Furetière)V. 1, 437, 462, 673, 744, 794, 909, 963, 1119, 1166, 1316, 1897, 1903Gens« Assemblée de plusieurs personnes qui font un corps » (Furetière)V. 378Gesner« Tourmenter le corps ou l'esprit » (Furetière)V. 306, 359, 616, 861, 884, 1012, 1908Gloire« Majesté, honneur, louange » (Furetière)V. 2, 28, 46, 105, 114, 123, 126, 289, 411, 440, 481, 500, 517, 519, 613, 696, 729, 741, 769, 880, 1096, 1099, 1116, 1153, 1168, 1173, 1293, 1592, 1664, 2010, 2045, 2051, 2053Grace« La bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller qui plaisent aux autres » (Furetière)Privilège, v. 65, 488, 888, 1088, 1679, 1706Homicide« Meurtrier » (Ménage) V. 97Hospital« Lieu charitable où l'on reçoit les pauvres pour les soulager de leur nécessité » (Furetière)V. 1711Hymen, hyménée« Signifie poëtiquement le mariage » (Furetière)V. 149, 198, 222, 707, 836, 941, 1104, 1269, 1300, 1418, 1941Inquiétude« Trouble particulièrement vif de l'esprit » (Furetière)V. 1114, 1608Insigne« Remarquable, qui se distingue » (Furetière)V. 288Laurier« Se dit figurément en Morale, pour signifier la gloire d'un triomphe » (Furetière)V. 504, 1968, 2003, 2004, 2011Maistresse« Femme qui sait entretenir une famille et que l'on recherche en mariage » (Furetière)V. 2057Malheureux« Damné, qui est privé de la veuë de Dieu, de la vraye felicité ; se dit aussi des miserables qui sont sur la terre, qui souffrent toutes les incommoditez, les necessitez de la vie » (Furetière)V. 57, 212, 229, 274, 1336, 1495, 1733, 1824, 1838Malice« Inclination à faire le mal » (Richelet)V. 356Mariage« Dot » (Richelet)V. 134, 206, 218, 1305, 1544, 1673, 2061, 2068Martire« Se dit aussi figurément et improprement de ceux qui souffrent quelques peines pour l'amour d'autruy » et « se dit abusivement des Hérétiques et des Payens qui souffrent pour la défense de leur fausse Religion, et qui se sacrifient à leurs idoles » (Furetière)V. 121, 952Mélancolie« C'est une des quatre humeurs qui sont dans le corps, la plus pesante et la plus incommode. La *melancolie* cause la tristesse, le chagrin. La *melancolie* noire cause quelquefois la folie » (Furetière) V. 1324Miserable« Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. Signifie aussi méchant » (Furetière)V. 139, 1072, 1844, 2023Modeste« Qui a de la modération, de la pudeur » (Furetière)V. 1392Monument« Tombeau en poésie » (Furetière)V. 8, 1787Naufrage« Un debris de fortune, un renversement d'affaires » (Furetière)V. 404, 1533, 1545, 1672, 1784, 1837Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (Furetière) V. 59, 1367Party« Troupe que l'on commande pour une expédition » (Furetière)Acteurs, v. 610Pousser« Poursuivre, obliger à fuir, à reculer » (Furetière)V. 354, 449, 1785Presser« Contraindre, obliger, solliciter, pousser, exciter avec chaleur » (Richelet)V. 74, 77, 109, 141, 469, 640, 873Priser« Louer, vanter, estimer, faire cas » (Furetière)V. 1120Publier« Rendre public, annoncer quelque chose dans les lieux publiques » (Furetière)Dédicace, v. 1768Race« Se dit des anciennes familles illustres » (Furetière)V. 221Rebut« Mépris » (Furetière)V. 1161Renom« Une estime, bonne ou mauvaise, acquise dans l'opinion des hommes » (Furetière)V. 12, 290, 966Renommée« C'est la même chose que *renom* ; mais ce mot a un plus fréquent usage » (Furetière)V. 193, 368Renverser« Vocabulaire militaire qui signifie que les troupes se désordonnent sous l'effet du combat. Signifie aussi changement brusquement de côté » (Ménage)V. 58, 70, 74, 275, 301, 839, 1599Resserer« Retrancher de la liberté »  (Furetière)V. 67Resverie« Délire ou démence. C'est un mauvais signe pour un malade, quand il entre dans la *resverie* » (Furetière)V. 1332Salaire« Récompense en échange de service, de travail ou de bonnes actions » (Furetière)V. 569, 808, 1061, 1281, 1289, 1980Sang« Parenté, transmission par la naissance » (Furetière)
 
 V. 179, 284, 287, 303, 495, 922, 943, 969, 989, 1115, 1266, 1510, 1803, 1881Sceptre« Signifie figurément la puissance Royale, la Royauté » (Furetière)  V. 142, 181, 253, 273, 289, 503Servage« Vieux mot qui signifioit autrefois *esclavage, servitude*, et qui s'est employé pour marquer la captivité, l'attachement d'un amant à une maistresse » (Furetière) V. 477, 663, 1581, 1949Service« Secours ou assistance que l'on donne au roi ou à l'état » (Furetière)V. 453, 1232Signalé« Remarquable, célèbre » (Furetière)V. 20Soing« Diligence qu'on apporte à faire réussi une chose, à la garder et à la conserver, à la perfectionner … se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (Furetière) V. 213Songe« Vision surnaturelle » (Furetière)V. 845, 849, 853, 2028Songer« Rêver. Penser intensément » (Richelet)V. 722, 842, 846, 1421, 1590, 1600Sort« Ce qui est fortuit, connotation souvent négative qui dit le hasard malheureux » (Furetière)V. 154, 232, 246, 318, 358, 364, 409, 431, 434, 546, 556, 595, 614, 665, 675, 710, 736, 932, 954, 982, 1004, 1029, 1092, 1341, 1494, 1576, 1579, 1625, 1650, 1666, 1716, 1730, 1810, 1894, 1923, 2014, 2023, 2030, 2050Soucy« Chagrin, profonde inquiétude d'esprit. » (Furetière) Aucun des principaux dictionnaires du XVIIème siècle n'atteste cette graphieV. 83, 314Souspirer« Être ému de douleur ou d'affliction » (Furetière)  V. 633, 645, 688, 1428Subjette« Qui est soumise naturellement à un souverain ». (Furetière)  Cette orthographe n'est attestée par aucun des principaux dictionnaires du XVIIème siècleV. 184SuccèsTerme neutre qui désigne aussi bien la réussite que l'échec d'une affaireV. 103, 248, 269, 376, 506, 1282Sujet« Cause, occasion » (Furetière)  V. 724, 896, 1132, 1730, 1761, 1870, 2037Superbe« Vain, orgueilleux, se dit aussi de ce qui marque la magnificence, la somptuosité » (Furetière)  V. 24, 35, 414, 782, 1256, 1272, 1524Surmonter« Vaincre, avoir avantage sur quelqu'un » (Furetière)  V. 189, 471, 615, 1042, 1681, 1849Susciter« Exciter, exhorter quelqu'un à faire quelque chose » (Furetière)  V. 1802Tableau« Représentation orale de l'ensemble des traits d'un caractère » (Furetière)  V. 1229Tempeste« Au sens figuré, profond trouble » (Furetière)  V. 773, 864, 1136Tenter« Éprouver la fidélité ou entreprendre » (Furetière)  V. 88, 178Train« Suite d'un seigneur » (Furetière)  V. 167Trait« Se dit figurément et poétiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour » (Furetière)V. 347, 354, 612, 622, 892, 1457, 2022Transport« Agitation de l'âme par la violence des passions » (Furetière)  V. 242, 1614, 1648, 1679, 1766, 1777, 1779, 1796, 1806, 1818, 1850Travaux« En tant que substantif pluriel, désigne les actions de la vie d'une personne, et particulièrement des personnes héroïques » (Furetière)  V. 119, 650, 1074, 1491, 1991Triste« Affligé, mélancolique » (Furetière)  V. 38, 193, 220, 256, 342, 360, 436, 815, 893, 895, 897, 953, 1543, 1546, 1705, 1729, 1760Tristesse« Passion extrême de l'âme » (Furetière)  V. 429, 641, 664Vain« Glorieux, superbe, qui a bonne opinion de lui-même. Cette femme fait la *vaine* de sa beauté, de ses beaux habits » (Furetière) V. 35, 1008, 1752Veux« Hommage, soins amoureux » (Furetière)V. 191, 1014
 
 
-# Annexe 1 : La querelle des préclassiques : Hardy et la tradition / Du Ryer et la modernité
+# Annexe 1 : La querelle des préclassiques : Hardy et la tradition / Du Ryer et la modernité.
 
 
-## Hardy « Au lecteur [349] »
+## Hardy « Au lecteur [349] ».
 
 
 La Tragédie, qui tient au rang du plus grave, laborieus & important de tous les autres Poëmes, et que ce grand Ronsard feignoit de heurter crainte d'un naufrage de reputation, se traite aujourd'huy par ceux qui ne virent jamais la couverture des bons livres, qui sous l'ombre de quelques lieus communs pris & apris en Cour, se presument avoir la pierre philosophale de Poësie, & quelques rimes plates entrelassees de pointes affinées dans l'alembic de leurs froides conceptions, feront autant de miracles que de vers en chaussant le coturne : d'autres aussi, que l'on pourroit nommer excremens du barreau s'imaginent de mauvais advocats pouvoir devenir bons Poëtes en moins de temps que les champignons ne croissent, et se laissent tellement emporter a la vanité de leur sens & des louanges que leur donne la langue charlatane de quelque écervelé d'Histrion, que de la ces miserables corbeaux profanent l'honneur du Theatre de leur vilain croacement & se presument être sans apparence ce qu'ils ne peuvent jamais esperer avec raison jusqu'à bâtir, s'il étoit possible, sur les ruines de la bonne renommee de ceux qui daigneroient avouer de si mauvais écoliers qu'eus.
 
 
-## Lettre de Damon à Poliarque [350]
+## Lettre de Damon à Poliarque [350].
 
 
 Il semble à l'ouyr que dans un changement de stile contraire au sien on face des heresies et des mutations d'Estat, qu'il soit contre l'ordre de la police et la paix du Royaume … les discours à la mode sont de mauvais goust à cet autheur malade ; s'il falloit escrire comme anciennement, il faudroit donc aussi que ce fust sur des palmiers, des tablettes et de la cire pour ne deschoir en rien de la venerable Antiquité, comme il dit que vous faites. Mais on a treuvé depuis quelque chose de plus delicat que l'escorce pour recevoir aussi facilement les belles pensees, qu'elles se conçoivent par les bons esprits. Les Contes de la Reyne de Navarre ont eu leur temps, on travaille aujourd'huy plus utilement à de meilleurs ouvrages. Monsieur d'Urfé n'a pas escrit comme Esope, ny Theophile comme Marot : s'il n'y avoit que les gentils-hommes qui prissent les armes comme aux vieilles guerres, ce seroit suivre l'antiquité et faire beaucoup de fainéants. Il y a eu des temps si malheureux que les Sciences ont faict horreur ; la pureté des langues augmente de jour en jour : on ne gesne plus son esprit pour tirer par force une parole, et l'on treuve des senteurs d'eau de rose sans alambic. Tous les siecles ont produit de bons esprits, comme toutes les mers peuvent former de belles perles ; mais ils ne se faisoient pas si bien valoir. … Les premiers Poëtes estoient devins, ceux d'aujourd'huy sont divins. Nous ne sommes plus au temps qu'il falloit chercher la doctrine dans les cloistres, on parle bon Latin hors les Cordeliers, et bon François ailleurs que dans la Cour : plusieurs génies du Parlement me font foy de l'une et de l'autre vérité. On ne s'amuse plus à disputer sur une etymologie : la science des lettres et des syllabes est bonne pour les enfans : on ne se met pas en peine d'où soient derivez les mots, pourveu qu'ils soient bons ; ceux qui sont barbares sont chassez du commun usage, comme autrefois les estrangers de Rome. On ne bastit plus comme en faisoit, les Peintres ont d'autres manieres, les tireurs d'armes d'autres leçons, les capitaines d'autres subtilitez : les aires nouveaux en la musique sont toujours agreables ; et les inventions non encore veuës ont un merveilleux appas dedans un poëme : le temps nous amene aves les jours de nouvelles experiences : qui eust laissé l'eau comme nous l'avions de nos premiers parens, nous n'aurions pas ces belles grottes ou
@@ -4367,19 +4366,19 @@ Il semble à l'ouyr que dans un changement de stile contraire au sien on face de
 l'artifice dispute avec la Nature, et qui sont aussi plaisantes à l'œil que les grandes fleuves sont utiles au commerce. Si la France maintenant venoit à produire de l'or comme le Perou, on ne laisseroit pas d'en user, bien qu'on n'en eust point encore veu : et si l'Autheur du Theatre n'aime pas les nouveautez, que diroit il donc de ces nouvelles Estoiles d'Eloquence dont le premier miracle est de paroistre plus vivement au jour que mille lumieres qui prennent tiltre du Soleil ? Si l'on eust pris son conseil, la Digue assurément estant une nouveauté, seroit encore à la Rochelle. En fin pour conclure, c'est une loy generale, qu'il faut observer les loix du pays où l'on est : nous ne sommes pas Romains ny Romans, nous escrivons à Paris, on y parle assez bien sans emprunter un idiome estranger. Et à dire vray, les escrits de votre Censeur ont quelque teinture de doctrine, mais ils ressemblent auz medailles, que l'on cherit plus pour ce qu'elles marquent des antiquitez que pour leur propre beauté.
 
 
-## Réponse de Poliarque à Damon [351]
+## Réponse de Poliarque à Damon [351].
 
 
 Il t'a faict sçavoir par escrit qu'il ne daigneroit t'advouer pour un de ses escoliers, aussi serois-tu fasché d'avoir estudié sous un si hardy Pedant, qui ne met en pratique que la seule ignorance des regles qu'il nous donne. Cependant sa témérité nous veut apprendre qu'il suit en cela les anciens Autheurs, tant Grecs, Latins, que Italiens, et autres ; mais on ne voit point dans leurs œuvres qu'ils ayent esté barbares en leurs langues comme il l'est en la sienne. Si la langue Latine n'estoit point morte, elle l'accuseroit de cruauté, pour l'avoir escorchée … N'a-t-il pas encore appris que les Muses ne vieillissent point, et que leurs vestemens vieillissent tous les jours ? et qu'estant de la nature et de l'humeur des femmes, elles s'habillent selon le temps et favorisent plus tost les caresses des jeunes que les vieux ? Mais encore que je parle generalement, j'estimeray mon bonheur incomparable dans le respect que je dois à Monsieur Malherbe, de qui le merite et la science se sont acquis le privilège de leurs caresses par le consentement de toute la France, et malgre la rigueur des annees. Si l'Autheur du Theatre se veut mettre en son rang, et si sa vanité le flatte d'un merite imaginaire, il est assez âgé non pas pour avoir acquis la même faveur, mais pour avoir appris que les privilèges ne se donnent pas à toutes sortes de personnes.
 
 
-## HARDY, *La Berne des deux rimeurs de l'Hostel de Bourgogne* [352]
+## HARDY, *La Berne des deux rimeurs de l'Hostel de Bourgogne* [352].
 
 
 … Quant à la Pöesie aucun ne doute que Monsieur de Malherbe n'ait toujours semblable à soy-mesme suivy un mesme style, plus adoré qu'approuvent de beaucoup en son siecle. Or y a-t-il trente ans du moins qu'il commence à écrire, voila donc une vieille nouveauté … Et pour montrer que les anciens se prevalurent d'inventions inimitables, ces jardins du Babilone suspendus en l'air, qui se sont que l'un des sept miracles du monde, laissent le démenty a ce nouveau rimailleur, qui ne sçait pas aussi que la Digue de la Rochelle, ou de semblables furent pratiquees en Hollande long temps devant la prodigieuse naissance de son adherant. … Comme la marque du Prince fait valoir les especes, la suffisance d'un Auteur donne le poids et le cours à ses paroles, chose confirmee par le Phoenix de nos Poetes en son Art Poetique, ou il asseure que ce qui fut permis à Virgile estoit un sacrilege a d'autres moindres que lui, et qu'en cas de necessité on peut enrichir la pauvreté de notre langue de mots nouveaux et inusitez, pourveu que significatifs : luy mesme en sa Franciade nous sert de porte-enseigne … Homere … employe les quatre dialectes grecs à la construction d'un ouvrage qui n'a de fin que celle du monde, sans restraindre son style dans les termes du langage Attique, quoy que le plus poly et mignard de tous les autres, tel que le Toscan en Italie et le François en France.
 
 
-## Les Heures dérobées « Au Sieur Hardy [353] »
+## Les Heures dérobées « Au Sieur Hardy [353] ».
 
 Assez long temps et trop souvent  
 De tes escrits l'on a fait conte,  
@@ -4407,7 +4406,7 @@ Non, non, Hardy, crois-moy, sans plus estre envieux,
 Qu'elles cherissent plus les jeunes que les vieux.  
 
 
-# Annexe 2 : Le théâtre de Pierre Du Ryer dans la diachronie [354]
+# Annexe 2 : Le théâtre de Pierre Du Ryer dans la diachronie [354].
 
 1630, 10 mai *Argénis et Poliarque*, tragi-comédie (1629)
 
@@ -4446,7 +4445,7 @@ Qu'elles cherissent plus les jeunes que les vieux.
 1655, 26 mars *Anaxandre*, tragi-comédie (1653-1654)
 
 
-# Annexe 3 : Panorama des traductions de Pierre Du Ryer [355]
+# Annexe 3 : Panorama des traductions de Pierre Du Ryer [355].
 
 *Huit Oraisons* de Cicéron (1638)
 
@@ -4503,7 +4502,7 @@ Suite des *Epitres* de Sénèque (1654)
 *Les Métamorphoses* d'Ovide (1660)
 
 
-# Annexe 4 : Cléomédon : Tableau de présence scénique
+# Annexe 4 : Cléomédon : Tableau de présence scénique.
  | I, 1 | I, 2 | I, 3 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | IV, 1 | IV, 2 | IV, 3 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5 | V, 6 | V, 7
 Argire | X |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X | X
 Celiante | X |  |  |  |  | X |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  | X | X
@@ -4521,14 +4520,14 @@ Clorimante |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## CorpusCléomédon
+## Corpus.Cléomédon
 
 
 
-### Sources imprimées antérieures à 1800Poétique
+### Sources imprimées antérieures à 1800.Poétique
 La Pratique du Théâtre
 Essais de lettres familières
 Arétaphile
@@ -4544,7 +4543,7 @@ Histoire du théâtre françois depuis ses origines jusqu'à présent
 
 
 
-### Sources antiquesGuerres des Gaules
+### Sources antiques.Guerres des Gaules
 Vies, Doctrines et sentences des philosophes illustres
 Métamorphoses
 Néméenne
@@ -4554,10 +4553,10 @@ La Thébaïde
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire latin-françai
 Dictionnaire de la mythologie grecque et romaine
@@ -4567,7 +4566,7 @@ Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles rem
 
 
 
-### Grammaire et ponctuationRacine, Œuvres complètes, Théâtre-Poésie
+### Grammaire et ponctuation.Racine, Œuvres complètes, Théâtre-Poésie
 Grammaire du français classique
 Syntaxe française du XVIIème siècle
 La ponctuation du théâtre imprimé au XVIIe siècle
@@ -4575,10 +4574,10 @@ Introduction à la langue du XVIIe siècle
 
 
 
-## Ouvrages
+## Ouvrages.
 
 
-### Ouvrages historiques ou générauxHistoire de la littérature française au XVIIe siècle
+### Ouvrages historiques ou généraux.Histoire de la littérature française au XVIIe siècle
 La France moderne
 La montée de l'absolutisme
 La société au XIème et XIIème siècle dans la région mâconnaise
@@ -4599,7 +4598,7 @@ Les « Belles infidèles » et la formation du goût classique
 
 
 
-### Ouvrages sur le théâtre du XVIIème siècleLa tragi-comédie de Corneille à Quinault
+### Ouvrages sur le théâtre du XVIIème siècle.La tragi-comédie de Corneille à Quinault
 Esthétique de l'identité dans le théâtre français (1560-1680) : Le déguisement et ses avatars
 Passions tragiques et règles classiques, Essai sur la tragédie française
 Introduction à l'analyse des textes classiques. Eléments de rhétorique et de poétique du XVIIème siècle
@@ -4611,7 +4610,7 @@ Comédie et société sous Louis XIII et Comédie et société sous Louis XIII 
 
 
 
-### Ouvrages et articles sur Pierre Du RyerPierre Du Ryer and his tragedies. From envy to liberation
+### Ouvrages et articles sur Pierre Du Ryer.Pierre Du Ryer and his tragedies. From envy to liberation
 Un Émule inconnu au début du XVIIème siècle de Mathurin Régnier : ISAAC DU RYER (1568 ? -1634), Secrétaire de la Chambre du Roi, douanier, poète réaliste, auteur dramatique, et ses poésies amoureuses, libres et douanières précédées de sa biographie
 Pierre du Ryer Dramatist
 Revue d'Histoire Littéraire de la France

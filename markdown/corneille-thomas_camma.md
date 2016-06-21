@@ -17,7 +17,7 @@ A PARIS, Chez AUGUSTIN COURBE', au Palais, En la Gallerie des Merciers, A la Pal
       master 1 sous la direction de Georges Forestier (2004-2005)
 
 
-# Introduction
+# Introduction.
 
 
 L'affirmation de la vie même dans ses problèmes les plus étranges et les plus ardus ; la volonté de vie, se réjouissant de faire le *sacrifice* de ses types les plus élevés, au bénéfice de son propre caractère inépuisable – c'est ce que j'ai appelé le dionysien, c'est en cela que j'ai cru reconnaître le fil conducteur qui mène à la psychologie du poète tragique. *Non* pour se purifier d'une passion dangereuse par sa décharge véhémente – c'est ainsi que l'a entendu Aristote -, mais pour personnifier *soi-même*, au-dessus de la crainte et de la pitié, l'éternelle joie du devenir, - cette joie qui porte encore en elle la *joie* de l'*anéantissement.*La Naissance de la tragédie
@@ -30,12 +30,12 @@ Et vivons, pour tuer, avant que de mourir.  Crisante
 Une reine de Galatie qui, pour venger son défunt mari et sauver son amant tout à la fois, cherche le moyen de tuer de ses propres mains le meurtrier de son époux et réussit à feindre de vouloir se marier avec lui et à lui faire boire, avant de boire elle-même, la coupe empoisonnée, voilà en quelques mots le sujet de *Camma, reine de Galatie.* Grâce à cette œuvre, Thomas Corneille, en 1661, confirme sa place auprès des plus grands auteurs tragiques.
 
 
-# L'auteur
+# L'auteur.
 
 Déjà avec *Timocrate* [1] (1656), tragédie romanesque répondant parfaitement aux goûts du public, Thomas Corneille (Rouen, 20 août 1625-Andelys, 8 décembre 1709) se fraya un chemin sur la voie du succès. Fils d'un maître particulier des eaux et forêts en la vicomté de Rouen, il suivit, dix-neuf ans après son frère Pierre, dans cette même ville, des études au collège des jésuites. Thomas quitta ce collège en 1643 et entra à l'Université de Caen pour y étudier le droit. Le 21 octobre 1649, il fut reçu avocat. Il exerça alors quelque temps au Parlement de Normandie, mais sa passion pour le théâtre se fit de plus en plus dévorante, et rapidement il décida d'abandonner le droit pour se consacrer entièrement à l'écriture. Cet amour du théâtre lui vint principalement de son frère Pierre, devenu son tuteur à la mort de leur père en 1639. Pierre le conseillait, le guidait et l'influençait énormément. Il débuta avec des comédies inspirées des auteurs espagnols comme Caldéron ou Don Francisco de Rojas : *Les Engagements du hasard* (1649), *Le Feint astrologue* (1650), *Don Bertrand de Cigarral* (1651) … [2] A partir de 1656, il se tourna vers de nouveaux genres théâtraux et notamment vers la tragédie. Son frère Pierre ayant quitté le théâtre, il se rendit compte qu'il y eut dès lors un vide littéraire à combler dans la création de tragédies et il décida de se lancer dans ce genre prestigieux. C'est ainsi que naquit *Timocrate.* Son sujet extraordinaire fondé sur la double identité Timocrate-Cléomène, son intrigue complexe, ses sentiments raffinés à l'extrême et sa fin heureuse donnant une tonalité plutôt tragi-comique à l'ensemble, tout cela concourut à faire de cette pièce, un triomphe. *Timocrate* fut représentée pour la première fois en 1656 sur la scène du Marais. Cette pièce fut interprétée pendant près de six mois, soit quatre-vingts représentations consécutives, c'est-à-dire mieux que son frère, Racine ou Molière. Fort de cette réussite, il produisit ensuite une série de tragédies, dont les sujets furent assez peu connus, mais fournis par les historiens : *La Mort de l'empereur Commode* (1959) [3], *Stilicon* (1660), *Maximian* (1662) [4], *Laodice* (1668) [5], *La mort d'Annibal* (1670) [6], *Ariane* (1672) [7]… Enfin, sans renoncer à la comédie il se lanca dans les comédies et les tragédies à machines : il écrivit ainsi avec Donneau de Visé, *Circé* [8] et *L'Inconnu* [9] (1675). Lorsque, enfin, Racine se retira du théâtre après *Phèdre* (1677), ce qui laissa un champ ouvert pour les autres auteurs de tragédies, il revint à la tragédie avec *Le Comte d'Essex* [10] (1678). Par la suite, il collabora avec Lulli : en furent issus deux opéras, *Psyché* (auquel participa Fontenelle) et *Bellérophon* [11]. L'année 1680 marqua la fin de la carrière de Thomas Corneille. Même s'il continua à écrire, il ne compta plus parmi les plus grands auteurs de théâtre. Furent tout de même représentées : *La Devineresse* (1679) et *La Pierre philosophale* (1681), toutes les deux en collaboration avec Donneau de Visé [12], un opéra *Médée* (1693) [13] avec la musique de Marc-Antoine Charpentier et enfin *Bradamante* (1695) [14]. Son théâtre n'étant plus sollicité, il se tourna vers d'autres activités. Sous l'impulsion de son ami, Donneau de Visé, il collabora dès 1677 au *Mercure Galant*. Plus tard, il fut élu à l'Académie Française le 2 Janvier 1685, à la place de son frère, décédé en 1684. Il prit une part active aux travaux du dictionnaire et écrivit notamment au supplément du *Dictionnaire de l'Académie*, le *Dictionnaire des termes d'arts et des sciences.* Dans une autre perspective, il se consacra jusqu'en 1697, à une traduction des *Métamorphoses* d'Ovide. Puis vers 1702, il donna une *Traduction des fables d'Esope et de Phidelphe, enrichie de discours moraux et historiques et de quatrains à la fin de chaque discours.* Entre temps, il fut élu à l'Académie des inscriptions et des belles-lettres mais sa plus grande préoccupation resta la rédaction d'un *Dictionnaire universel géographique et historique* (1708) commencée en 1694. Vers 1700, il cessa de collaborer au *Mercure Galant*. Dès l'achèvement des travaux du dictionnaire vers 1708, il se retira aux Andelys dans la maison héritée de sa femme. Le 8 Décembre 1709, mourut le Sieur Thomas Corneille de l'Isle.
 
 
-# Genèse et création de la pièce
+# Genèse et création de la pièce.
 
 Entre 1658 et 1661, des tragédies sont de nouveau représentées à Paris alors que l'on a pu assister à une véritable désuétude de ce genre entre 1652 et 1656 : *Timocrate* (1656) lance la mode de la tragédie romanesque et galante. Viennent ensuite l'*Œdipe* (1659) de Pierre Corneille, l'*Ostorius* (1658) de l'abbé de Pure, *Arie et Pétus* (1658) de Gilbert, *La Mort de Cyrus* (1658-1659) de Quinault, *La Mort de Manlie* (1660) de Noguères et *La Toison d'Or* (1661) de Pierre Corneille [15] par exemple.
 
@@ -72,7 +72,7 @@ Ne fait point tort à ses parens. [18]
 Loret semble enthousiaste à l'annonce de cette création. Il ne dit pas seulement qu'elle est aussi réussie que *Stilicon* ou *Œdipe* ; il établit des liens, métaphoriquement exprimés comme des liens de parenté. Même s'il est vrai que *Camma* est postérieure à *Stilicon* dans la production de Thomas Corneille et que toutes les deux sont des tragédies, il semble difficile d'adhérer à l'hypothèse qui est que ces trois pièces ont des rapports de continuité littéraire entre elles.
 
 
-# L'auteur et l'œuvre devant la critique
+# L'auteur et l'œuvre devant la critique.
 
 Les critiques du XVII*e* siècle n'estimaient guère Thomas Corneille. Ce fut le cas par exemple de Chapelain, D'Aubignac, et Boileau. Seuls les écrivains du XVIII*e* siècle, à l'exception de La Harpe, ont été nettement plus accueillants.
 
@@ -142,10 +142,10 @@ Thomas Corneille est peut-être le premier écrivain notable qui ait si complèt
 Ses œuvres connurent de son temps un très grand succès mais il fut un « raté de la postérité » [33]. En effet, il créait des pièces ancrées dans une temporalité, dans une époque donnée, ce qui fait qu'elles ne pouvaient pas accéder au statut d'œuvres d'art. La preuve en est avec notre pièce, *Camma* : malgré le succès immédiat qu'elle a remporté elle n'a été rejouée que deux fois par la troupe de Molière en 1679 [34] et deux fois à la Comédie-Française en 1700. [35] Au XX*e* siècle, une représentation a eu lieu le 8 Juin 1966, en France, à Barentin au théâtre Montdory au cours du XI*e* Festival National Corneille. La mise en scène était de Jean Serge, les décors et costumes de Dominique Para. [36]
 
 
-# La constitution du sujet : adaptation et réécriture
+# La constitution du sujet : adaptation et réécriture.
 
 
-## Résumé de l'action
+## Résumé de l'action.
 
 L'exposition se projette sur les trois premières scènes. Elles permettent au spectateur d'avoir les premiers éléments de l'intrigue, de savoir ce qui a eu lieu précédemment, et de mettre en place le procédé suspensif de l'attente. Ici le spectateur apprend que Sinatus a été tué par Sinorix qui lui enviait sa femme (scène 1), que celle-ci le sait sans pour autant l'avouer et que d'autres comme Hésione l'ignore totalement. On apprend également que Sinorix a pris la décision d'exiler Hésione puisqu'elle refuse d'épouser Sostrate tant qu'elle n'a pas retrouvé le trône de son père et aussi parce que Camma se détourne de lui (scène 2). Considérant cela comme une injustice, elle se confie à sa confidente, Phenice qui lui conseille de révéler la vérité à Hésione pour s'en faire une alliée et pour avoir l'aide de Sostrate. Mais Camma avoue qu'elle est amoureuse de Sostrate, qui est aussi épris d'elle et qui feint d'aimer Hésione pour obéir à Sinorix qui souhaite se libérer de ses engagements envers sa fiancée (Scène 3). A l'arrivée de cette dernière (I, 4) l'action commence. Cette scène est une scène de tension entre Hésione et Camma et à la scène 5 de l'acte I, Hésione demande à Sostrate de la venger en échange de sa main. Par souci de sa gloire elle se refuse à l'idée de l'épouser, même si elle l'aime, tant qu'elle n'a pas, par la mort de Sinorix, retrouvé le trône de son père. Elle lui demande ce service car elle croit qu'il a des sentiments pour elle.
 
@@ -158,7 +158,7 @@ A l'acte IV, Sostrate est entravé par Hésione qui s'est accaparée la responsa
 A l'acte V, on apprend que pendant les préparatifs du mariage, Hésione s'est insurgée contre « l'ambition d'une reine infidelle » – en effet elle a toujours manifesté beaucoup de mépris aussi à l'égard de sa belle-mère – et « contre un tyran ». Après la cérémonie, au cours de laquelle Camma puis Sinorix boivent dans la coupe nuptiale et où Sosime nous fait part du bonheur de la reine (scène 1), Sostrate, affligé, avoue à Sinorix qu'il aime Camma. Il espère ainsi voir sa mort assurée. Sinorix est furieux car il comprend qu'il a été manipulé jusqu'au bout (scène 2). A la scène 3, Camma révèle la vérité : elle accuse son nouveau mari de l'empoisonnement de Sinatus et elle avoue aussi que c'est elle qui a voulu le poignarder (V, 3 : « Trop genereux amant il prend sur luy mon crime, / Et je ne l'ay souffert qu'afin de m'asseurer / Une autre occasion de pouvoir conspirer. » ). Sinorix finit par avouer et souhaite réparer son geste par la mort. Camma refuse et Phaedime vient annoncer à son maître que des mutins assiègent le palais (scène 4). Sostrate profite de la sortie de scène de Sinorix pour reprocher à Camma son acte et l'avertir que le lien conjugal qu'il y a dorénavant entre eux risque d'atténuer son désir de vengeance. Elle tente de le rassurer sans pour autant lui révéler l'acte qu'elle a commis (scène 5). Cependant, on apprend que Sinorix est mort (scène 6). C'est seulement à la toute fin de cette scène que Camma révèle les circonstances de son décès, alors qu'elle est elle-même en train d'agoniser. C'est elle qui a empoisonné le breuvage de la coupe nuptiale dans laquelle ils ont bu tous les deux.
 
 
-## Les sources
+## Les sources.
 
 Le personnage de Camma est un personnage historique dont le parcours et les mérites nous sont racontés par Plutarque à deux reprises dans ses *Œuvres Morales*, [37] 257 E, 20*e* histoire et à la fin de *Dialogue sur l'amour* [38], chapitre 22, 768 B. Celui-ci est à peu près équivalent au premier récit sauf que le thème de la vengeance est moins largement développé. Ces deux textes traitent tous les deux de la vertu des femmes, « tendance naturelle » [39], et principalement de leurs capacités de tendresse, de dévouement et de fidélité. Ils portent même cette dernière qualité jusqu'à l'héroïsme.
 
@@ -218,7 +218,7 @@ Le principal investissement de l'extension se trouve sans doute au théâtre, et
 Comme nous le verrons, notre auteur a donc dû lui aussi adapter ce sujet parce que le récit de Plutarque ou de Pierre Le Moyne ne pouvaient pas suffire à occuper les cinq actes d'une pièce de théâtre.
 
 
-## Le travail de transposition
+## Le travail de transposition.
 
 Pour élaborer le sujet de ce récit en pièce de théâtre, il a fallu adapter l'histoire de Plutarque aux exigences dramaturgiques classiques. Le récit apporte des éléments primordiaux pour la constitution de la pièce comme les circonstances de temps ou de lieu et un arrière-plan politique ou autre. Il comporte trois personnages dont un qui meurt au milieu de l'histoire. Le texte n'a besoin de rien d'autre pour fonctionner, il se suffit à lui-même.
 
@@ -245,7 +245,7 @@ Thomas Corneille a conservé la fin du récit et à partir de cette fin il a con
 L'intrigue naît donc de l'entrelacement entre l'action principale et cet épisode : c'est pour sauver Sostrate (épisode) que Camma accepte d'épouser Sinorix et qu'elle décide de s'empoisonner avec lui (action principale).
 
 
-## Le tragique
+## Le tragique.
 
 Sinorix et Camma sont morts, Sostrate prêt à se tuer. Seule Hésione est arrivée là où elle désirait : elle a obtenu le pouvoir après la mort du roi. Elle a profité du fait qu'il ait été tué pour récupérer le trône. Mais le tragique comme valeur dramaturgique n'est pas synonyme de « funeste ». Ici, il préexiste au dénouement puisque le conflit premier est tragique. Là où Aristote parlait d' « un meurtre ou un autre acte de ce genre accompli ou projeté par le frère contre le frère, par le fils contre le père, par la mère contre le fils ou le fils contre la mère » [54], Pierre Corneille modifie la configuration. Il écrit en 1647, « un père qui tue son fils, *une femme son mari*, un frère sa sœur ». [55] Ce sujet est donc tragique si on considère la définition de Pierre Corneille.
 
@@ -256,13 +256,13 @@ Ainsi, le genre de la tragédie n'est tout simplement pas conçu par les dramatu
 Le tragique n'est donc qu'un « effet de lecture impliqué par le principe de la construction à rebours » [58]. Il naît de la façon dont le dramaturge conçoit sa pièce, conception qui est ici inspirée de son frère, Pierre Corneille.
 
 
-# Thomas Corneille dramaturge
+# Thomas Corneille dramaturge.
 
 
-## Les personnages : caractères entre « amour » et « honneur »
+## Les personnages : caractères entre « amour » et « honneur ».
 
 
-### Camma, une femme vertueuse et amoureuse
+### Camma, une femme vertueuse et amoureuse.
 
 Il s'agit du personnage éponyme de la pièce. Dès le titre, on sait qu'il s'agit d'une reine. Elle a conservé son statut car elle est veuve de Sinatus, roi de Galatie. Elle apparaît dès la scène 2 de l'acte I face à Sinorix. Elle va ensuite être sur scène de façon régulière. Au total, elle apparaît 16 fois dans la pièce, elle est présente notamment dans tout l'acte IV et clôt l'œuvre.
 
@@ -286,7 +286,7 @@ Cette décision est un véritable coup de théâtre puisque un second devoir vie
 Thomas Corneille nous campe une héroïne plus nuancée, humaine, à la fois injuste et auréolée de gloire, qui n'a aucun prestige et dont la mort est seulement un moyen pour elle de retrouver son honneur. Chez Plutarque, c'est différent. Son devoir est suivi scrupuleusement, et elle ressent de la joie à mourir car elle va pouvoir rejoindre son mari [61]. Chez Pierre Le Moyne, également Camma jouit de sa vengeance et va sereinement retrouver Sinatus. [62]
 
 
-### Hésione : une ambition implacable
+### Hésione : une ambition implacable.
 
 Le personnage de Camma est à analyser par rapport à celui d'Hésione. En effet, les divergences qui les opposent nous permettent de les confronter.
 
@@ -319,7 +319,7 @@ Ces héros n'ont aucune fêlure. Seul le désir de grandeur et l'ambition du pou
 Donc, même si elle a l'étoffe d'une héroïne « cornélienne », elle n'a pas un rôle de premier plan puisque, tout d'abord, elle est trop vindicative, poussée par ses passions. De plus elle est en permanence dans l'erreur, le faux : elle croit que Sostrate a tenté de tuer Sinorix pour elle, et elle ne connaît pas les intentions de Camma puisque cette dernière refuse de la mettre dans la confidence malgré les conseils de Phénice. Donc, même si elle fait preuve d'orgueil et que ses désirs sont justifiés, elle est toujours tenue à l'écart, maintenue dans l'erreur et surtout, le fait qu'elle n'apparaisse pas à la fin révèle paradoxalement la labilité de son être puisque même si elle méprise tout le monde, elle est de la même façon dédaignée, pas prise en compte et rejetée. De plus, sa montée sur le trône n'est pas due à la tentative de coup d'État qu'elle a tenté d'instaurer mais elle est due à l'empoisonnement de Sinorix par Camma.
 
 
-### Sinorix, le tyran amoureux
+### Sinorix, le tyran amoureux.
 
 Sinorix est un des protagonistes essentiels de l'œuvre. En effet, il apparaît seize fois dans la pièce et notamment dès l'ouverture. Il occupe tout l'acte III et a droit à un monologue.
 
@@ -352,7 +352,7 @@ On s'aperçoit que Sinorix est en pleine contradiction, ne sachant pas ce qu'il 
 Sinorix est tiraillé par des passions différentes : il subit à la fois de grandes crises de culpabilité et à la fois il peut n'avoir aucun scrupule et faire semblant d'ignorer ce qui est la vérité (V, 3). Mais malgré les divisions et ses contradictions internes, il est déterminé à obtenir celle qu'il aime et peu lui importe les moyens mis en œuvre.
 
 
-### Sostrate, héros galant et sujet loyal
+### Sostrate, héros galant et sujet loyal.
 
 Ce personnage apparaît, quant à lui, dix-huit fois dans l'oeuvre. Son importance va *crescendo.* En effet, il occupe l'espace scénique de façon progressive (I, 5 ; II, 3, 4, 5 ; III, 3, 4, 5 ; IV, 3, 4, 5, 6 ; et dans la totalité de l'acte V) et il clôt la pièce avec Camma. Surtout d'un point de vue strictement littéraire, Sostrate marque l'influence de son frère Pierre Corneille et de la littérature galante.
 
@@ -384,14 +384,14 @@ Sostrate est le héros qui contient en lui toutes les contradictions. Même si T
 En conclusion, les diverses relations entre les actants de la pièce donnent à celle-ci une cohérence et une dynamique interne. L'autre instrument qui crée un spectacle dynamique : c'est l'effet de dramatisation instauré par le dramaturge.
 
 
-## Disposition et réaménagement au service de la dramatisation
+## Disposition et réaménagement au service de la dramatisation.
 
 Dans *Camma, reine de Galatie*, l'auteur a conduit sa pièce avec grâce et subtilité. En effet, la scène 3 de l'acte III est la péripétie majeure de l'œuvre. A partir de ce coup de théâtre, la pièce prend un nouvel aspect : Sostrate sera considéré comme un traître et sera soumis aux décisions des uns et des autres. Pour Aristote, ce type d'action est « complexe » car un événement majeur vient inverser le cours attendu des actions. De multiples événements, ensuite, jalonneront l'œuvre : les deux ultimatums lancés à Hésione et à Camma, la décision de Camma d'épouser Sinorix, l'aveu de Sostrate, et le siège du palais par des mutins. Ceux-ci ont permis de différer le dénouement, d'augmenter le suspens, et de créer une tension dramatique optimale.
 
 De plus, on peut aussi distinguer différents types de scènes selon leur place et selon leur fonction dans la pièce. Elles permettent de concentrer l'action en un seul temps et en un seul lieu puisqu'elles font coïncider le temps de la représentation et le temps de l'action. Parfois, même, ce sont des scènes qui représentent des motifs conventionnels. Ainsi, la manière dont elles occupent l'espace dramatique et la manière dont elles sont construites rendent compte du talent et de l'art du dramaturge.
 
 
-### La scène d'apparition
+### La scène d'apparition.
 
 Cette scène se trouve à la scène 1 de l'acte I. Sinorix est en compagnie de son confident, Phaedime. Camma vient de lui annoncer qu'elle acceptait son offre, mais cela ne suffit pas à le rassurer. Il est assailli par des remords de conscience, et ses remords sont tels qu'il finit par être soumis à une hallucination : il a vu Sinatus qui lui a parlé. Cette scène prépare la péripétie de la scène 3 de l'acte III dans la mesure où cette apparition lui fait croire qu'une conspiration générale a été organisée contre lui. C'est une scène prémonitoire qui laisse penser que quelque chose va arriver.
 
@@ -414,7 +414,7 @@ Comme dans *Camma*, on retrouve la tentative de meurtre qui échoue et l'erreur 
 Ces deux exemples montrent que tout son art n'est pas dans l'invention mais dans l'exploitation de ces divers motifs. De la même façon, pour les scènes rapportées, notre dramaturge ne fait que réutiliser un moyen dramaturgique conventionnel de la tragédie classique.
 
 
-### Les scènes rapportées
+### Les scènes rapportées.
 
 Ces scènes se situent à l'acte V. C'est Sosime qui en est le messager. Il ouvre et clôt l'acte. Sa fonction n'est pas très subtile : il donne à voir au public et aux personnages présents sur scène les éléments qui pour des raisons de bienséance (mort du héros) ou pour des raisons d'unités de temps et de lieu (comme par exemple le déroulement de la cérémonie nuptiale qui est raconté par Sosime) ne peuvent être « mis en scène » directement. Les scènes rapportées font partie de l'esthétique classique.
 
@@ -475,7 +475,7 @@ Sosime a donc à sa charge deux récits. Ce sont des moyens conventionnels pour 
 Ces scènes sont nécessaires au genre théâtral car elles déploient l'intrigue sur de nombreux actes. Même si ce sont des motifs conventionnels, ils sont exploités par Thomas Corneille avec un grand art et une grande maîtrise.
 
 
-### Le monologue
+### Le monologue.
 
 De la même manière, notre auteur utilise une modalité d'écriture intéressante car elle est peu présente dans l'œuvre et de ce fait son emploi est significatif : c'est le monologue. C'est un moyen littéraire traditionnel pour rendre compte des émotions et de ce que ressent un personnage, la plupart du temps déchiré entre des passions contraires.
 
@@ -491,7 +491,7 @@ Notre personnage est sous le coup de la passion. Des sentiments contraires s'exp
 C'est un monologue qui nous fait percevoir la dualité du comportement de Sinorix et la complexité du personnage, tout en nuances. Seul face au public, il livre ses doutes et ses craintes. Même si le monologue, en soi, est un acte artificiel, il nous donne, paradoxalement, à voir un personnage humain avec ses faiblesses et ses crises de conscience.
 
 
-### Le dénouement
+### Le dénouement.
 
 Enfin, la scène de clôture est ce qui, chez Thomas Corneille, est le mieux mené et qui a le plus d'effet sur le spectateur.
 
@@ -508,14 +508,14 @@ Comme on a pu le voir, Thomas Corneille exploite des motifs préexistants, les r
 De la même manière qu'il réutilise des moyens déjà employés par d'autres dramaturges, sa pièce est aussi marquée par de nombreuses influences littéraires, motifs dont se sert Thomas Corneille et qui font aussi partie du travail de création.
 
 
-## La relation entre *Camma, reine de Galatie* et les autres œuvres : modèles contemporains et influences
+## La relation entre *Camma, reine de Galatie* et les autres œuvres : modèles contemporains et influences.
 
 A lire *Camma*, on se rend compte que cette pièce a de nombreuses influences dans le domaine de la littérature. Thomas Corneille manie avec virtuosité l'intertextualité puisque des liens avec d'autres pièces de la même époque sont possibles. Cela indique, notamment, la forte influence de son frère. De la même façon, il existe des rapprochements à faire entre des pièces du même auteur.
 
 Cependant, Thomas Corneille ne se contente pas de s'inspirer des œuvres de certains auteurs.
 
 
-### Camma et Pertharite
+### Camma et Pertharite.
 
 La pièce de Pierre Corneille qui a des similitudes avec *Camma, reine de Galatie* est *Pertharite* (1652). Cette pièce fut un échec total qui décida Pierre à renoncer au théâtre. Dans cette pièce, seuls les trois premiers actes peuvent être rapprochés de notre pièce. Il s'agit d'un usurpateur qui abandonne celle à qui il avait promis le mariage et qui tente de forcer la veuve du vaincu à l'épouser en faisant de son enfant un moyen de pression.
 
@@ -544,7 +544,7 @@ Cependant, le fait de présenter Sinorix s'emparant du pouvoir après avoir fait
 De plus, on peut déceler une forte intertextualité interne avec *La Mort de l'empereur Commode* [89] (1659) et *Stilicon* (1660). Thomas Corneille va donc conserver cette structure de base, dont il s'était déjà servi dans ses pièces antérieures, pour construire *Camma.*
 
 
-### Camma et La Mort de l'empereur Commode
+### Camma et La Mort de l'empereur Commode.
 
 Il s'agit dans *La Mort de l'empereur Commode* d'un attentat manqué contre un tyran entrepris par une femme et de la mort finale de celui-ci. Commode au départ décide d'épouser Helvie à la place de Marcia, alors qu'il s'était d'abord engagé auprès d'elle. Il le dit à Laetus qui est à la fois l'amant d'Helvie et un des hommes de confiance de Commode. De plus, ce dernier veut lui donner Marcia. On se rend compte dès les premières lignes de la pièce les rapprochements nombreux avec *Camma.*
 
@@ -568,12 +568,12 @@ A la fin de la pièce, Helvie a tenté de le tuer mais cette conspiration a éch
 Un lien très fort unit ces deux pièces, qui ont une structure de base assez proche et qui sont construites toutes les deux à partir d'un conflit d'intérêt. Il s'est beaucoup inspiré de ce sujet pour construire *Camma.*
 
 
-### Camma et Stilicon
+### Camma et Stilicon.
 
 La seconde pièce à laquelle on peut penser quand on lit *Camma* est *Stilicon.* Même si les liens sont moins nombreux à faire qu'avec *La Mort de l'empereur Commode*, il est quand même possible d'y observer des similitudes. En effet, dans la mesure où les thèmes sont semblables, ils sont traités à peu près de la même manière : l'une comme l'autre sont des tragédies de conspiration où une tentative de meurtre a été organisée et dissimulée par un faux aveu à la victime. De plus, Placidie, une des héroïnes de *Stilicon*, a des points communs avec Hésione : elles sont toutes les deux attachées à leur gloire, dénuée de toute sensibilité. Mais Placidie, à la différence d'Hésione n'est pas enfermée dans une seule et même attitude. Son orgueil démesuré, à certains moments, s'amoindrit et laisse place à une plus grande humanité, ce qui chez Hésione n'apparaît pas.
 
 
-### Une pièce inspirée par la passion
+### Une pièce inspirée par la passion.
 
 Cependant, de multiples particularités font de cette pièce une pièce à part. En effet, il serait plus juste de dire, dans la mesure où ce serait prendre en compte toutes les aspérités de la pièce, que *Camma* est à la limite entre plusieurs influences. En effet, cette pièce n'est pas univoque et elle porte en elle des potentialités dramaturgiques originales. Notre auteur révèle ainsi sa très grande virtuosité.
 
@@ -624,10 +624,10 @@ Aussi, elles décident toutes les deux, à la fin, de mourir (à la scène 1 de 
 En conclusion, on peut donc dire que Thomas Corneille fait du « Corneille galant ». En effet, la dimension proprement cornélienne est présente mais elle est détournée. Comme on a pu le voir, Hésione, véritable héroïne cornélienne, qui ne se laisse en aucun cas aller à la passion qu'elle voue à Sostrate et qui refuse tout compromis, est un personnage secondaire dans l'œuvre de Thomas Corneille. Cette influence-ci est donc dépassée, transcendée. En fait, la comparaison avec *Andromaque* met surtout en évidence l'influence galante de Thomas Corneille dans la mesure où ses personnages ne sont pas aussi complexes que ceux de Racine. Notre auteur a su surtout mettre en valeur les excès de la passion (violence amoureuse et passion de l'honneur) et l'allier dans une certaine mesure à la politique.
 
 
-# Une tragédie de violence politique
+# Une tragédie de violence politique.
 
 
-## Une tragédie de l'usurpation et de la conjuration : politique du discours entre violence, devoir et dissimulation
+## Une tragédie de l'usurpation et de la conjuration : politique du discours entre violence, devoir et dissimulation.
 
 Avant Thomas Corneille, La Caze avait fait, comme on l'a vu précédemment, une pièce de théâtre à partir du récit de Plutarque, *Cammane* (1641). Une des différences majeure avec *Camma, reine de Galatie*, est qu'elle était dénuée de toute référence, de tout développement politique. Le récit se concentrait sur la rivalité amoureuse entre Sinorix, Cléomène son frère et Ménandre son favori, sur les trahisons, les manipulations et sur le désir de vengeance de Cammane.
 
@@ -670,7 +670,7 @@ Comme on l'a vu, les thèmes politiques existent dans cette pièce. Des actes de
 Ainsi, la politique, au théâtre, n'est jamais vue pour elle-même, en soi ; elle est mise en acte, dans une intrigue qui mêle à la fois des intérêts privés et des intérêts publics.
 
 
-## Intrigue amoureuse et intrigue politique
+## Intrigue amoureuse et intrigue politique.
 
 L'intrigue amoureuse, pour Pierre Corneille, ne peut pas se déployer si elle n'est pas plus ou moins reliée au pouvoir. Le spectateur attend à la fois le spectacle de la passion et le spectacle de la politique :
 
@@ -708,7 +708,7 @@ En conséquence, la légitimité politique passe par l'adhésion du cœur c'est-
 De même, d'un point de vue scriptural, la politique nécessite également une écriture, ultime légitimation.
 
 
-## Une écriture du politique
+## Une écriture du politique.
 
 *Camma, reine de Galatie* est une pièce mettant en scène la violence politique dans ses aspects les plus extrêmes dans la mesure où c'est une pièce inspirée par la passion (vengeance, ambition, défis, etc.). Thomas Corneille par le biais du théâtre représente les luttes de pouvoir, le jeu intéressé des ambitions et des désirs inconciliables et en tire l'effet dramatique le plus intense : le « suspense ».
 
@@ -757,7 +757,7 @@ Cette réflexion sur la duplicité nous amène à réfléchir sur la notion de r
 L'esthétique des forces qui empêchent la révélation (secret, illusion, déguisement de la vérité factuelle et de celle des personnages) se montre en se disant de manière particulière dans l'espace du théâtre dans la mesure où la sphère du politique est également la sphère de la représentation c'est-à-dire un espace où l'on joue un rôle, où l'on est toujours en représentation, où l'on s'affuble de masques pour ne pas apparaître tel que l'on est. L'espace théâtral semble donc être le meilleur lieu pour mettre en scène la politique et les luttes de pouvoir ou d'intérêts. C'est un espace où la représentation théâtrale est en phase avec la représentation politique.
 
 
-# Conclusion
+# Conclusion.
 
 Avec *Camma, reine de Galatie*, Thomas Corneille a su nous faire part d'une œuvre riche, personnelle et cohérente, ancrée dans les réalités de son temps et marquée d'influences diverses : celle de son frère, tout d'abord, indéniablement, celle du classicisme, celle de la littérature galante… Thomas Corneille est le représentant de la deuxième moitié du XVII*e* siècle par les valeurs qu'il prône comme l'amour ainsi que le devoir et l'honneur et par la visibilité sociale qu'il attribue à la femme.
 
@@ -768,10 +768,10 @@ Il serait donc insuffisant de réduire les personnages à des archétypes corné
 Ainsi, cet auteur au succès prodigieux à l'époque mais qui, cependant, aujourd'hui, reste méconnu, a tout pour plaire. Il concentre en lui-même les aspirations multiples de son temps pour en faire une création originale, un spectacle spectaculaire, désignation qui peut s'appliquer à la manière dont est traitée le thème de la politique dans l'œuvre. Il pallie ainsi certaines insuffisances par la représentation théâtrale.
 
 
-# Note sur la première édition
+# Note sur la première édition.
 
 
-## Le texte de la présente édition
+## Le texte de la présente édition.
 
 L'édition sur laquelle nous avons travaillé a été publiée en 1661 par Augustin Courbé en vertu d'un privilège daté du 14 Février 1661 auquel était associé pour moitié Guillaume De Luyne. Il en existe plusieurs exemplaires.
  * – CAMMA/ REINE DE GALATIE, / TRAGEDIE / *De Thomas Corneille /* coupe de fruits / *imprimée à ROUEN, Et se vend /* A PARIS, */* chez AUGUSTIN COURBE, au Palais, / en la Gallerie des Merciers, / à la Palme. / filet / M.DC.LXI / *AVEC PRIVILEGE DU ROY.*
@@ -831,12 +831,12 @@ Pas d'extrait de privilège du Roy.
 Bibliothèque Nationale de France (site Richelieu – Arts du spectacle) : RF 2710.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous reproduisons le texte de l'exemplaire RF 2709 de la Bibliothèque Nationale de France (site Richelieu) et daté de 1661, dont nous avons conservé l'orthographe et la ponctuation originales, ainsi que la division en cahiers, inscrite entre crochets à la droite du texte. Toutefois, nous avons distingué *i* et *u* voyelles de *j* et *v* consonnes, adopté la graphie moderne *s* pour *∫*, décomposé les voyelles nasales surmontées d'un tilde en voyelles + consonnes (an , on …) et décomposé les consonnes simples surmontées d'un tilde en consonnes doubles (mm , nn …). Nous avons aussi délié la ligature « & » en « et » et nous avons conservé l'orthographe du mot « vefve » que nous trouvons dans le texte, dérivé du masculin « veuf ». Enfin, nous avons corrigé les erreurs et coquilles dues à l'imprimeur. Nous en donnons ici la liste :
 
 
-### Corrections de coquilles
+### Corrections de coquilles.
 
 *Privilege du Roy* : seellées ® scellées.
 
@@ -865,14 +865,14 @@ Nous reproduisons le texte de l'exemplaire RF 2709 de la Bibliothèque Nationale
 *Vers 1870* : par lâ ® par là
 
 
-### Corrections typographiques
+### Corrections typographiques.
 
 *Vers 134* : « Ait réduit mon destin au seul nom m'en reste » ® « Ait réduit mon destin au seul nom qui m'en reste. »
 
 *Vers 1537* : M on ® Mon
 
 
-## Editions ultérieures
+## Editions ultérieures.
  * – LES / TRAGEDIES / ET / COMEDIES / DE / TH. CORNEILLE, / *revues et corrigées et augmentées / de diverses pieces nouvelles. /* III. PARTIE. / fleuron / filet / *Suivant la copie imprimée* / A PARIS, / filet / M.DC.LXV
 
 2 volumes in 12. Vol.3 qui contient *Stilicon*, tragédie ; *Le Galand doublé*, comédie ; *Camma*, tragédie ; *Maximian*, tragédie.
@@ -901,7 +901,7 @@ Bibliothèque Nationale de France (site Richelieu) : RF 2649(3)
 L'orthographe, en majeure partie, est conservée par rapport à la première édition. Seuls les mots marqués d'un tilde sont décomposés en consonnes + voyelles et consonnes doubles, à part dans l'épître, où le substantif « hommage » et le verbe « rends » sont marqués d'un tilde et à l'acte V, 3 (« mon » dans « mon Maistre » ).
 
 
-### Modifications de ponctuation en fin de vers
+### Modifications de ponctuation en fin de vers.
 
 *Vers 14* : miracles Ø ® miracles,
 
@@ -948,7 +948,7 @@ L'orthographe, en majeure partie, est conservée par rapport à la première éd
 *Vers 1762* : contente, ® contente.
 
 
-### Modifications de ponctuation en milieu de vers
+### Modifications de ponctuation en milieu de vers.
 
 *Vers 270* : toutefois, helas ! ® toutefois helas !
 
@@ -957,7 +957,7 @@ L'orthographe, en majeure partie, est conservée par rapport à la première éd
 *Vers 950* : Le crime veut du sang, et sans rien balancer ® Le crime veut du sang et sans rien balancer
 
 
-### Modifications d'accent
+### Modifications d'accent.
 
 Nous ne notons ici que des exemples représentatifs.
 
@@ -980,7 +980,7 @@ Toûjours ® tousjours
 *Vers 1987* : Esleve la Princesse ® Eleve la Princesse
 
 
-### Modifications de l'orthographe
+### Modifications de l'orthographe.
 
 *Vers 29 et vers 133* : quoy que ® quoy-que
 
@@ -1017,7 +1017,7 @@ Toûjours ® tousjours
 *Vers 1015, 1252, 1570, 1593, 1724, 1870* : par là ® par-là
 
 
-### Corrections de coquilles
+### Corrections de coquilles.
 
 *Vers 909* : fondre ® foudre
 
@@ -1060,7 +1060,7 @@ De même, la typographie est différente : toutes les tirades sont reproduites 
 Les coquilles, présentes dans la première édition, sont corrigées. Les modifications sont les mêmes que dans les éditions antérieures. Quelques-unes sont nouvelles. Nous en faisons la liste.
 
 
-### Modifications de ponctuation
+### Modifications de ponctuation.
 
 *Vers 42* : Femme. ® Femme,
 
@@ -1071,7 +1071,7 @@ Les coquilles, présentes dans la première édition, sont corrigées. Les modif
 *Vers 1618* : redouter. ® redouter,
 
 
-### Modifications d'accents
+### Modifications d'accents.
 
 *Vers 120* : plustost ® plûtost
 
@@ -1096,7 +1096,7 @@ Les coquilles, présentes dans la première édition, sont corrigées. Les modif
 *Vers 1728* : estale ® étale
 
 
-### Modifications de l'orthographe
+### Modifications de l'orthographe.
 
 *Vers 144* : Synorix ® Sinorix
 
@@ -1163,7 +1163,7 @@ L'orthographe est modernisée, il n'y a qu'un seul tilde (vers 1054 : « tombe
 Enfin, l'étude des modifications de ponctuation en fin et milieu de vers par rapport à la 1*re* édition nous permet de conclure que les points-virgules et les points remplacent, lorsqu'il s'agit d'une pause forte, plus systématiquement la virgule.
 
 
-### Modifications de l'orthographe
+### Modifications de l'orthographe.
 
 *Vers 196* : que vous peussiez aimer ® que vous puissiez aimer.
 
@@ -1204,7 +1204,7 @@ Enfin, l'étude des modifications de ponctuation en fin et milieu de vers par ra
 *Vers 1706* : ses conseils uny ® ces conseils uny.
 
 
-### Modifications typographiques + ponctuation
+### Modifications typographiques + ponctuation.
 
 *Vers 514* : l'Arrest ® l'arrest.
 
@@ -1257,10 +1257,10 @@ On peut donc en conclure que l'édition non datée est apparue après celle de 1
 Nous n'en ferons donc pas le détail puisque ces modifications n'ont pas pu être faites par l'auteur.
 
 
-# CAMMA REINE DE GALATIE TRAGEDIE
+# CAMMA REINE DE GALATIE TRAGEDIE.
 
 
-## Espitre
+## Espitre.
 
 A SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC. [119]
 
@@ -1277,7 +1277,7 @@ Le tres-humble, tres-obeïssant et tres-fidelle Serviteur [122],
 T. CORNEILLE.
 
 
-## Extrait du Privilege du Roy
+## Extrait du Privilege du Roy.
 
 Par Lettres Patentes du Roy données à Paris le 14 Février 1661. Signées, CONRART : il est permis à AUGUSTIN COURBE, Marchand libraire en la Ville de Paris, de faire imprimer, vendre et debiter en tous lieux de l'obeïssance de sa Majesté, une Tragédie composée par le Sieur THOMAS CORNEILLE, intitulée *Camma, Reine de Galatie, Tragédie*, en telles marges, & tels caracteres, en un ou plusieurs volumes, et autant de fois qu'il voudra, durant sept ans entiers, à compter du jour, que ladite Tragédie sera achevée d'imprimer pour la première fois. Avec defferences à toutes personnes de quelque qualité et condition qu'elles soient, de l'imprimer, vendre et debiter, sous quelque pretexte que ce soit, pendant ledit temps, sans consentement dudit COURBE, ou de ceux qui auront son droit, à peine de deux mil livres d'amende, de confiscation des Exemplaires contrefaits, et de tous dépens, dommages et interests, comme il est porté plus au long par lesdites Lettres Patentes, à l'Extrait, et aux Copies collationnées auxquelles sa Majesté veut que foy soit adjoûtée comme à l'Original. Et scellées du Grand sceau de cire jaune sur simple queuë.
 
@@ -1302,7 +1302,7 @@ La Scene est dans la Capitale de Galatie [123].
 
 
 
-## CAMMA REINE DE GALATIE, *TRAGEDIE.* 
+## CAMMA REINE DE GALATIE, *TRAGEDIE.*. 
 
 
 ## ACTE I.
@@ -1449,7 +1449,7 @@ Madame, et tant de soins⁎ d'eviter ma presence,
 Ne me font que trop voir le peu qu'il prend de part  
 Au bonheur impréveu que m'offre le hazard [140].  
 
-    CAMMA
+    CAMMA.
 Le chagrin⁎ où je vis me rend si peu traitable⁎,  
 Que souvent malgré moy son aigreur⁎ vous accable,  
 Et mon zéle pour vous osant s'en indigner  
@@ -1531,7 +1531,7 @@ Pour meriter le Trône, épousez la Princesse,
 Et luy rendant des vœux à sa flame⁎ échapez,  
 Possedez justement ce que vous usurpez. [148]  
 
-    SINORIX
+    SINORIX.
 Si j'en formay pour elle, on ne les vit paroistre  
 Que quand mon cœur pour vous n'osoit se bien connoistre,  
 Et que son zéle⁎ ardent par un adroit détour  
@@ -1869,14 +1869,14 @@ Et si ta lâcheté me prepare un refus,
 Ne me le fais sçavoir qu'en ne me voyant plus.  
 C'en sera l'asseurance⁎, adieu.  
 
-    SOSTRATE *seul.*
+    SOSTRATE *seul.*.
         Que fuir ta veuë  
 N'est-ce tout le peril d'un ordre qui me tuë ! [189]  
 Mais las ! forcé d'aimer, quels seront mes souhaits  
 S'il faut trahir par tout, ou n'esperer jamais ?  < Fin du premier Acte. > 
 
 
-## ACTE II
+## ACTE II.
 
 
 ### SCENE PREMIERE.
@@ -2522,7 +2522,7 @@ Dieux, hâtez-en la peine, ou m'ostez ces soupçons [258].
 SINORIX, CAMMA, SOSTRATE.
 
 
-    CAMMA *paroissant à un des costez du Theatre*,
+    CAMMA *paroissant à un des costez du Theatre*,.
 Et tirant un poignard.
 
 L'occasion est belle, il est seul, advançons.  
@@ -2530,7 +2530,7 @@ L'occasion est belle, il est seul, advançons.
     SINORIX.
 O Sinatus !  
 
-    SOSTRATE *paroissant à l'autre costé du theatre, et voyant Camma qui s'advance vers Sinorix un poignard à la main.* [259]
+    SOSTRATE *paroissant à l'autre costé du theatre, et voyant Camma qui s'advance vers Sinorix un poignard à la main.* [259].
     Que vois-je ! Ah !  
 
     CAMMA.
@@ -2542,11 +2542,11 @@ Que fais-tu, mal-heureux ?
     SOSTRATE.
         Que faites-vous, Madame ?  
 
-    SINORIX *se détournant et se saisissant du poignard.*
+    SINORIX *se détournant et se saisissant du poignard.*.
 Justes Dieux, un Poignard ! On en veut à mes jours,  
 A moy, Gardes, à moy, qu'on vienne à mon secours.  
 
-    SOSIME *entrant avec des Gardes.*
+    SOSIME *entrant avec des Gardes.*.
 Seigneur.  
 
     SINORIX.
@@ -2757,7 +2757,7 @@ La plus affreuse mort n'aura rien qui m'estonne⁎,
 Et le coup m'en plaira, s'il me peut épargner  
 L'horreur de te voir Maistre, où je devrois regner.  
 
-    SINORIX *à Sostrate.*
+    SINORIX *à Sostrate.*.
 Et bien ? j'ay fait sans doute injure⁎ à la Princesse,  
 Lâche, ton attentat⁎ n'a rien qui l'interesse,  
 Et j'ay dû [271], quand ton bras s'arme contre ton Roy,  
@@ -3902,7 +3902,7 @@ Ne prend plus que de moy les ordres de mourir [349].
 CAMMA, SOSTRATE, PHENICE.
 
 
-    CAMMA. [350] 
+    CAMMA. [350].
 Quoy, le peuple peut-estre en veut à ma personne  
 Et dans ce grand peril Sostrate m'abandonne ?  
 Arreste, j'ay besoin icy de ton secours.  
@@ -4082,7 +4082,7 @@ On luy aide à marcher pendant qu'elle dit ce dernier vers.
 O peu sensible amant ! elle meurt, et tu vis.  
 Préviens, lâche, préviens…  
 
-    SOSIME *luy retenant la main qu'il porte sur son épée.*
+    SOSIME *luy retenant la main qu'il porte sur son épée.*.
         Seigneur, qu'allez-vous faire ?  
 
     SOSTRATE.
@@ -4091,7 +4091,7 @@ Pour m'arrester le bras en de pareils ennuis⁎,
 Helas ! me sauvez-vous de la rage où je suis ?  < FIN. >
 
 
-# Glossaire
+# Glossaire.
 
 Nous avons regroupé dans ce glossaire un certain nombre de mots de la langue du XVII*e* siècle qui avaient, outre un sens actuel se trouvant entre parenthèses, un sens différent de celui qu'ils ont aujourd'hui. Ils sont rangés par ordre alphabétique.
 
@@ -4106,7 +4106,7 @@ Des abréviations sont également utilisées dans ce lexique. Nous en faisons la
 Sinat et Sinorix étaient les plus puissants des tétrarques de Galatie et ils étaient aussi vaguement parents. Or l'un deux, Sinat, avait épousé une jeune fille qui s'appelait Camma, d'une beauté et d'une grâce remarquables et d'une vertu encore plus admirable : non seulement elle était réservée et elle aimait son mari, mais encore elle était intelligente, avait l'âme généreuse et se faisait adorer de ses serviteurs par sa bienveillance et sa beauté. Son éclat était aussi augmenté par ses fonctions de prêtresse d'Artémis, particulièrement vénérée des Galates, et par les parures magnifiques dans lesquelles on la voyait chaque fois lors des processions et des sacrifices. Sinorix s'était donc épris d'elle, mais, tant que vivait son mari, il ne pouvait ni la séduire, ni lui faire violence. Aussi perpétra-t-il un forfait monstrueux : il assassina par ruse Sinat et peu après il rechercha en mariage Camma, qui séjournait souvent dans le sanctuaire et supportait le crime de Sinorix, non dans un abattement pitoyable, mais avec courage et en attendant intelligemment son heure. Il était pressant et paraissait ne pas manquer du tout d'arguments spécieux pour prétendre qu'il s'était par ailleurs montré supérieur à Sinat et que, s'il l'avait tué, c'était par amour pour Camma, non pour quelque autre raison qui tiendrait de la scélératesse. Au début, les refus de la femme n'étaient donc pas trop rudes, puis peu à peu elle paraissait s'adoucir. De fait, ses proches et ses amis, afin de servir Sinorix et de lui complaire, car sa puissance était très grande, la poursuivaient de ses instances en employant la persuasion et la contrainte. Pour finir elle céda, et le fit venir à elle pour que son assentiment et son engagement eussent lieu en présence de la déesse. A son arrivée, elle le reçut avec amitié et le conduisit à l'autel, où elle fit une libation avec une coupe, et après avoir bu elle-même une partie de son contenu, elle l'invita à boire le reste. Or c'était de l'hydromel empoisonné. Quand elle vit qu'il avait bu, elle poussa de grands cris de joie et se prosterna devant la déesse en disant : « je te prends à témoin, ô divinité très honorée, c'est pour ce jour que j'ai survécu au meurtre de Sinat, ne tirant tout ce temps aucun plaisir de la vie, sinon l'espérance de la vengeance, et maintenant que je la tiens, je descends rejoindre mon mari. Quant à toi, le plus impie de tous les hommes, au lieu d'une chambre nuptiale et de noces, c'est une tombe que peuvent préparer tes parents ! ». A ces mots, le Galate, qui sentait déjà le poison agir et troubler son corps, sauta sur un char dans l'espoir que les cahots et les secousses lui seraient salutaires, mais il le quitta aussitôt pour passer dans une litière, où il mourut le soir. Quant à Camma, elle vécut toute la nuit, et à la nouvelle qu'il avait expiré, elle finit dans la joie et la gaîté.
 
 
-# Annexe 2 : Pierre Le Moyne, La Gallerie des femmes fortes, « les fortes barbares » :
+# Annexe 2 : Pierre Le Moyne, La Gallerie des femmes fortes, « les fortes barbares » :.
 
 Que les espérances de l'homme sont vaines ! et que les désirs sont de dangereux Imposteurs, et des Guides peu fidèles ! Sinorix était venu icy pour donner commencement à son mariage. La mort qui se trouve partout a voulu estre de la feste malgré la joye publique. Ce qui est bien étrange, l'Amour l'y a luy-mesme amenée : et par une nouvelle et fatale révolution de toutes choses, la Vertu y est trompeuse et homicide : et les Fiancez y servent de victimes, au sacrifice preparé pour la ceremonie de leurs noces.
 
@@ -4121,7 +4121,7 @@ Le Mal-heureux abatu de sa conscience, et percé des reproches de Camme, vient d
 Elles sont bien revenuës de leur premier trouble. Mais elles ne sont pas en estat de la secourir, si leurs larmes ne luy valent de contrepoison. Tout ce qu'elles peuvent de mieux, c'est de lever les yeux et les mains à la Déesse : et luy demander de leurs gestes et de leurs soûpirs, la conservation d'une si haute Vertu, pour l'honneur et pour l'exemple de leur Sexe. Ne croyez pas qu'elles soient exaucées. Camme s'oppose à leurs prières, et en fait de toutes contraires. Elle voit dans la fumée des flambeaux éteints et des cassolettes renversées, l'Ombre de Sinnate encore sanglante de sa blessure, qui luy fait signe qu'il est temps de partir et qu'elle est attenduë en la region des Chastes et des Fideles. Son impatience redouble à cette veuë : et son cœur achevant de s'ouvrir, elle prend ongé de la Deesse, lui demande pardon de ce qu'en son Temple et au pied de son Autel et de son Image, elle a sacrifié à l'Amour et à la vengeance : et avec ses dernieres paroles, rend l'Esprit d'un visage serein ; et tel que l'auroit un victorieux, qui aprez une bataille gaignée, expireroit dans la joüissance de sa gloire.
 
 
-# Œuvres de Thomas Corneille de l'Isle
+# Œuvres de Thomas Corneille de l'Isle.
 
 *Les Engagements du hasard*, comédie
 
@@ -4208,30 +4208,30 @@ Elles sont bien revenuës de leur premier trouble. Mais elles ne sont pas en est
 1695, Nov., *Bradamante*, tragédie
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Édition de CammaCamma, Reine de Galatie
+### Édition de Camma.Camma, Reine de Galatie
 
 
 
-### Autres œuvres de Thomas Corneille*Corneille*Timocrate*Giraud.*
+### Autres œuvres de Thomas Corneille.*Corneille*Timocrate*Giraud.*
 *Corneille*Stilicon*J. Gossip.*
 *Corneille*La Mort de l'empereur CommodePoèmes dramatiques nouvelle édition
 
 
 
-### Œuvres de l'Antiquité*Aristote*Poétique*Hardy*
+### Œuvres de l'Antiquité.*Aristote*Poétique*Hardy*
 *Plutarque*Œuvres morales
 *Plutarque*Dialogues sur l'amour (Eroticos)
 *Polyen*Strategematon
 
 
 
-### Textes de référence*Bouchard*Camma, drame en vers en trois actes
+### Textes de référence.*Bouchard*Camma, drame en vers en trois actes
 *Corneille*Oeuvres Complètes 1*G. Couton*
 *Corneille*Œuvres Complètes 2*G. Couton*
 *Caze*Cammane
@@ -4244,13 +4244,13 @@ Elles sont bien revenuës de leur premier trouble. Mais elles ne sont pas en est
 
 
 
-## Études
+## Études.
 
 
-### Ouvrages
+### Ouvrages.
 
 
-#### Autour de Thomas Corneille*Reynier*Thomas Corneille, sa vie et  son théâtre
+#### Autour de Thomas Corneille.*Reynier*Thomas Corneille, sa vie et  son théâtre
 Le Théâtre de T. Corneille, nouvelle édition revue, corrigée et augmentée.*ème*
 Chefs d'œuvres dramatiques de T.Corneille
 Album théâtre classique : la vie théâtrale sous Louis XIII et Louis XIV.*Chevalley*
@@ -4264,12 +4264,12 @@ Album théâtre classique : la vie théâtrale sous Louis XIII et Louis XIV.*Ch
 
 
 
-#### Ouvrages généraux sur le XVII*ème* siècle*Adam*Histoire de la Littérature française du XVII*ème*
+#### Ouvrages généraux sur le XVII*ème* siècle.*Adam*Histoire de la Littérature française du XVII*ème*
 *Auerbach*Le culte des passions : essai sur le XVII*ème* siècle
 
 
 
-#### Ouvrages sur le théâtre classique*Bénichou*Morales du Grand Siècle
+#### Ouvrages sur le théâtre classique.*Bénichou*Morales du Grand Siècle
 *Clarke*The Guénégaud Theatre in Paris (1673-1680), Volume 1 : Founding, design and production & Volume 2 : The Accounts season by season
 *Corneille*Trois Discours sur le Poème dramatique
 *Delmas*la Tragédie de l'âge classique (1553-1770)
@@ -4280,15 +4280,15 @@ Album théâtre classique : la vie théâtrale sous Louis XIII et Louis XIV.*Ch
 
 
 
-### Articles*Aulotte*Héroïsme et création littéraire sous les règnes d'Henri IV et de Louis XIII*è*
+### Articles.*Aulotte*Héroïsme et création littéraire sous les règnes d'Henri IV et de Louis XIII*è*
 *Chaillou*Les ratés de la littérature
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages sur la langue*Académie Française*Dictionnaire
+### Ouvrages sur la langue.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Richelet*Dictionnaire françois contenant les mots et les choses, et plusieurs nouvelles remarques sur la langue françoise…
 Dictionnaire du Français Classique, le XVII*ème**ère*
@@ -4300,7 +4300,7 @@ Le Petit Robert, Dictionnaire de la langue française*ère*
 
 
 
-### Dictionnaire de théâtre du XVII*e**Danier*La mise en scène au XVII, mémoire de Laurent Mahelot et Michel Laurent
+### Dictionnaire de théâtre du XVII*e*.*Danier*La mise en scène au XVII, mémoire de Laurent Mahelot et Michel Laurent
 *La Grange*Le Registre de La Grange 1659-1685*B.E Young**G. P Young*
 *Lancaster*A History of French Dramatic Literature in the Seventeeth Century
 *Pasquier*Le Mémoire de Mahelot

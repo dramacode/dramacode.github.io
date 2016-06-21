@@ -17,10 +17,10 @@ Chez Toussaint Quinet, Libraire à Paris, Par privilège du roi, 1647
       maîtrise sous la direction de Georges Forestier (2003-2004)
 
 
-# Gillet de la Tessonnerie, l'auteur et son œuvre
+# Gillet de la Tessonnerie, l'auteur et son œuvre.
 
 
-## Sa vie
+## Sa vie.
 
 En 1647, Gillet de la Tessonnerie fait représenter avec succès semble-t-il *Le Desniaisé*, sixième pièce de son œuvre théâtrale. La vie de cet auteur nous est assez mal connue. Né en 1619 ou 1620, H.C. Lancaster [1] nous apprend qu'il tomba amoureux d'une jeune fille qui le laissa pour prendre le voile. Il a fait partie du Cabinet de son ami Le Comte. En 1640, il a visité la Champagne et, en 1641, le Piémont où il accompagna le Capitaine de la Garde qu'il soutint lors d'une bataille. Il prit, en 1642, la charge de son père et devint « Conseiller du Roy, Controlleur général des boestes des monnayes de France ». Malgré cette charge, il n'était pas sous la protection de Richelieu.
 
@@ -29,7 +29,7 @@ C'était un homme cultivé qui avait lu Montaigne, Sorel, Causin, Charron, Curé
 On perd sa trace après sa dernière comédie, *Le Campagnard*, éditée en 1657.
 
 
-## Son œuvre
+## Son œuvre.
 
 Jeune auteur, il commença à écrire vers vingt et composa la majeure partie de son œuvre entre 1640 et 1648 ainsi qu'une comédie composée en 1657, après neuf années où Gillet n'écrivit rien. Cette absence des auteurs dramatiques s'explique par les troubles de la période historique : l'éclatement de la Fronde parlementaire en 1648, provoquant la fuite de la Régente Anne d'Autriche, conflit résolu en 1649 par la Paix de Rueil mais à laquelle fait suite la Fronde nobiliaire qui éclata de 1650 à 1653. Cette théorie se vérifie si l'on considère que, de 1649 à 1652, les deux scènes parisiennes du Marais et de l'Hôtel de Bourgogne diminuèrent le nombre de leurs représentations, et que Boyer, Desfontaines, Gilbert et Mareschal cessèrent, eux aussi, d'écrire.
 
@@ -51,35 +51,35 @@ Ait faict deux filles si sensées [5]
 Ces quelques vers soulignent que Gillet a connu une certaine gloire en son temps et que l'oubli où il est tombé n'est en rien représentatif de son époque. *Le Desniaisé* a soulevé une énigme littéraire, quant à sa ressemblance avec le *Docteur amoureux* de Molière : qui a emprunté le canevas de l'autre ? La thèse d'A.-J. Guibert, selon laquelle *Le Desniaisé* est postérieur au *Docteur amoureux*, a été récemment contredite par l'universitaire P. Lerat [6] d'après lequel Molière aurait emprunté l'essentiel de sa pièce à l'œuvre de Gillet de la Tessonnerie.
 
 
-# Une comédie de 1647
+# Une comédie de 1647.
 
 
-## *Le Desniaisé* : dettes, emprunts et intertexte
+## *Le Desniaisé* : dettes, emprunts et intertexte.
 
 Si l'originalité et la qualité d'écriture de Gillet sont mises en cause par plusieurs théoriciens du théâtre, ceux-là mêmes lui reconnaissent cependant la particularité d'avoir créé son propre fonds et de ne pas avoir emprunté les intrigues comme il était, alors, d'usage.
 
 
-### L'influence de la comédie à l'italienne
+### L'influence de la comédie à l'italienne.
 
 Gillet s'inspire de la comédie humaniste, appelée aussi « à l'italienne », qui tire elle-même ses sources de la comédie de l'Antiquité représentée par les œuvres de Plaute et de Térence. H.C. Lancaster fait remarquer qu'« aucune source n'a été découverte, mais l'importance donnée à un pédant suggère que la pièce a rapport avec la comédie italienne » [7]. Cette influence se confirme au détour de formules telles que celle de Lisette où elle réduit Pancrace à ce « ce nez de Harlequin » [8].
 
 
-### L'empreinte des contemporains
+### L'empreinte des contemporains.
 
 Gillet s'est très certainement souvenu de la scène 4 de l'acte III de la *Folie du Sage* [9] de Tristan pour la scène 4 de l'acte I où Pancrace énonce cinquante-neuf noms d'hommes de lettres. Cette liste interminable de noms relève de la veine rabelaisienne : « Il y a cinquante-neuf noms en tout, jetés pêle-mêle ensemble dans une forme digne de celle de Rabelais » [10]. Le comique fait parfois référence au comique à la Scarron. La fin bouffonne du deuxième acte où Gillet nous offre une scène de comique burlesque dans laquelle Pancrace tente de séduire Lisette est un rappel de Scarron. Jodelet rappelle, lui aussi, « la verve de ses modèles des scarronnades » [11] dans les scènes où il éconduit Lisette, trop pressante.
 
 *Le Desniaisé* contient des références à des romans contemporains. Ainsi, sont cités, à la scène 6 de l'acte IV, les romans suivants : *Cassandre* de la Calprenède publié de 1642 à 1645, *Ibrahim* de Mlle de Scudéry en 1641 et *Polexandre* de Gomberville en 1629 ainsi que trois tragédies, deux de Corneille, *Rodogune*, jouée en 1644 et *Heraclius*, joué en 1646 et 1647 et une de Du Ryer, *Thémistocle*, pièce jouée à la fin de 1646 ou au début de 1647. 
 
 
-## L'argument du *Desniaisé*
+## L'argument du *Desniaisé*.
 
 
-### Résumé
+### Résumé.
 
 Ariste, héros éponyme de cette pièce joue le rôle de l'ingénu amoureux pour retrouver, en toute impunité, son amante Olimpe. Oronthe l'a, en effet, ravie de sa Provence natale et ne souffre pas qu'on la voie sans son consentement. Ariste, pour son jeune esprit naïf, est donc invité à divertir cette beauté de sa mélancolie. Ces divertissements sont préparés par Oronthe et Climante, amoureux secret d'Olimpe. Ils ont pour but de ridiculiser le jeune amant. Olimpe prévient Ariste, la première fourberie échoue. Oronthe et Climante en concertent une seconde qu'ils tiennent pour réussie. Après plusieurs scènes où Ariste et Olimpe gardent leur masque et convainquent Oronthe de leurs fausses identités, un exempt vient arrêter Oronthe sur l'ordre d'Ariste. Les deux amants posent le masque et Oronthe et Climante comprennent qu'ils sont les vrais naïfs de cette pièce. Cette intrigue principale est redoublée par l'intrigue secondaire des valets. Contrairement à leurs maîtres, ils déclarent leur flamme sans masque. Ainsi, si Pancrace fait part, à plusieurs reprises, de ses sentiments amoureux à Lisette, celle-ci préfère Jodelet qui l'éconduit vertement.
 
 
-### Action scénique
+### Action scénique.
 
 I, 1    La pièce s'ouvre sur son thème fondamental : le mensonge. Climante, amoureux secret d'Olimpe, prodigue ses enseignements au jeune naïf, et amant de la même Olimpe, sur la meilleure façon de mentir.
 
@@ -148,20 +148,20 @@ V, 7    Oronthe apprend qu'on vient l'arrêter, il confie Olimpe à Ariste.
 V, 8    L'exempt arrête Oronthe. Ariste pose le masque. Les fausses identités sont révélées.
 
 
-## *Le Desniaisé* : représentation, réception et postérité
+## *Le Desniaisé* : représentation, réception et postérité.
 
 
-### Représentation
+### Représentation.
 
 Comme l'indique l'achevé d'imprimer, la première édition de la pièce date du 28 mai 1648. *Le Desniaisé* a été joué l'année précédente, très certainement sur la scène du Marais. S. W. Deierkauf-Holsboer affirme qu'il « est certain que du Ryer a porté sa tragédie *Thémistocle* et Gillet de la Tessonnerie sa comédie *Le Desniaisé* à la scène du Marais » et elle ajoute que « ces deux pièces ont été mises au répertoire du théâtre de la rue Vieille-du-Temple en 1647 » [12]. Si l'année de la représentation ne fait aucun doute, le mois de la représentation est contesté. En effet, H. C. Lancaster affirme, en s'appuyant sur des éléments textuels et hors texte, que la représentation a eu lieu au début de 1647 : « Les dates du privilège et de la représentation et le fait que *Rodogune, Heraclius* et *Themistocle* sont mentionnés dans le texte indiquent qu'elle a été représentée, pour la première fois, au début de 1647 » [13]. Selon S. W. Deierkauf-Holsboer, la représentation de la pièce a eu lieu à la fin de 1647 [14].
 
 
-### Réception de la pièce en 1647
+### Réception de la pièce en 1647.
 
 Si Gillet de La Tessonnerie est aujourd'hui un dramaturge dont le nom est oublié, il en va tout autrement en ce deuxième tiers du XVII*e* siècle. C'est en effet un auteur à la mode qui a déjà fait représenter plusieurs pièces, accueillies favorablement par le public d'alors. Pour preuve de cette notoriété, signalons qu'au Printemps 1647, plusieurs personnes aident les comédiens du Marais, désemparés par la réorganisation de leur théâtre ordonnée par le Roi, à continuer les représentations, personnes parmi lesquelles, comme l'indique S. W. Deierkauf-Holsboer, « certains auteurs en renom  de cette époque  notamment du Ryer et Gillet de La Tessonnerie », et cette historienne ne manque pas de souligner que ces deux dramaturges « ainsi que les comédiens du Marais qui ont interprété les héros des pièces … ont eu un grand succès » [15]. Citons encore les frères Parfaict, qui portent un jugement défavorable sur *Le Desniaisé* mais concluent cependant qu'ils « ne doutent point que cette Piéce, rendue au Théâtre par Jodelet et ses camarades, n'ait eu beaucoup de succès » [16]. De la même façon, S. W. Deierkauf-Holsboer met en avant le rôle des acteurs et notamment celui de Julien Bedeau dans le succès de la pièce.
 
 
-### Postérité du Desniaisé
+### Postérité du Desniaisé.
 
 P. Lerat a démontré que la pièce de Gillet a influencé *Le Docteur amoureux* que l'on attribue à Molière, pièce comique où la mise en scène de certains personnages et de leurs actions rappelle celle du *Desniaisé*. Ce pillage par cet illustre emprunteur suggère l'intérêt de la pièce. Si cet emprunt est très probable, il n'est pas certifié que le même Molière se soit souvenu de la scène 4 de l'acte I du *Desniaisé* pour écrire sa scène 6 de l'acte II du *Dépit amoureux* (représenté en 1656) ainsi que la scène 4 du *Mariage forcé* (représenté en janvier 1664). Cette scène du *Desniaisé*, où le pédant, intarissable, se livre à un développement hors de propos à la question posée par Jodelet, est courant dans la *commedia erudita*. « La similitude est uniquement due au fait que Gillet et Molière ont inséré dans leur comédie une scène italienne traditionnelle. … Les scènes du pédant sont un des grands classiques de la comédie érudite italienne. Leur déroulement est invariablement le même : questionnement d'un personnage, réponse du pédant en logorrhée et divagations, interruption du délire verbal obtenue laborieusement par les grands moyens. … A défaut de toute similitude plus probante que le contenu général de la scène et qu'une vague articulation commune, on ne peut soutenir l'hypothèse d'une utilisation du *Desniaisé* » [17]. Même si le Métaphraste du *Docteur amoureux*, le Pancrace du *Mariage forcé* et le Docteur de *La jalousie du Barbouillé* rappellent le Pancrace de la pièce de Gillet, il ne semble pas impossible que ces scènes de Gillet et de Molière soient des traductions indépendantes l'une de l'autre d'un passage d'une comédie italienne.
 
@@ -170,19 +170,19 @@ P. Lerat a démontré que la pièce de Gillet a influencé *Le Docteur amoureux*
 Comme toutes les autres pièces de Gillet de La Tessonnerie, *Le Desniaisé* tombe vite dans l'oubli. Seule l'énigme littéraire - antériorité ou postérité par rapport à la pièce attribuée à Molière - lui a assuré une survie toute relative.
 
 
-# Le Desniaisé, une pièce comique
+# Le Desniaisé, une pièce comique.
 
 Alors que D'Ouville fait représenter *L'esprit Follet* [18] qui marque l'engouement pour les comédies « à l'espagnole », Gillet, à la même période, écrit *Le Desniaisé* dont l'intrigue s'inspire des comédies à l'italienne. Si « la comédie d'intrigue d'imitation italienne a encore de beaux jours, … la comédie burlesque, plutôt issue de la *comedia* espagnole, manifeste pendant toute une génération une insolence et une démesure inattendues » [19]. En 1647, la représentation du *Desniaisé* fait donc preuve d'originalité.
 
 
-## Une intrigue comique
+## Une intrigue comique.
 
 Les comédies à l'italienne mettent en scène les amours contrariées d'un jeune homme inerte qui se heurte au manque d'argent ou à la volonté contraire d'un père mais il sera aidé dans son entreprise de conquête par son valet rusé. Dans *Le Desniaisé*, le jeune Ariste est confronté au barbon Oronthe et au prétentieux Climante. Néanmoins, alors que l'intrigue typique de la comédie à l'italienne met en scène un valet qui est le moteur de l'action de la pièce, Gillet présente un jeune amant rusé et intrigant et un Jodelet, fanfaron et couard, qui rappelle le valet des comédies de Scarron. Cette intrigue, qui présente deux amants voulant conquérir la jeune fille mais bafoués par le faux-naïf, implique la mise en scène du comique d'autant plus que les relations hypocrites entre les maîtres sont redoublées par le jeu burlesque des valets dont les rapports sont tout aussi faux. En effet, le pédant Pancrace qui aime Lisette échoue dans ses entreprises de déclarations amoureuses de la même façon que la suivante ne parvient pas à séduire Jodelet.
 
 L'amour est le lien affectif qui conduit Ariste à désirer Olimpe. Ce type de modèle met en valeur que le « sujet veut pour soi-même l'objet de la quête et à la place du “destinateur” il y a une force “individuelle” (affective, sexuelle) » [20]. Ce schéma témoigne du rôle moteur que joue Ariste. Les adjuvants sont les serviteurs des maîtres qui favorisent la relation entre Ariste et Olimpe pour des raisons qui servent leur propre conquête. Pancrace divulgue les secrets de son maître pour se rapprocher de Lisette. Cette dernière répète ces confidences à Jodelet dans le même but. Ces révélations informent le couple d'amants et facilitent la réussite de leur projet. Dans le rôle contraire, agissent les opposants : Oronthe et Climante, amoureux d'Olimpe, opèrent de façon à entraver le jeune homme. Ils le font passer pour un jeune naïf. La réussite du projet de chacun des personnages dépend de l'aptitude à tromper les autres. Il s'agit donc de mettre en scène un renversement de situation selon lequel les fourbes sont dupés.
 
 
-### Le ridicule d'un barbon
+### Le ridicule d'un barbon.
 
 Personnage typique des comédies latines ou de la *commedia erudita*, Oronthe, le cocu de la pièce, enlève la jeune Olimpe et se croit aimer d'elle. « Le comique naît alors des situations contradictoires que son statut, lui-même contradictoire (vieillard et amoureux sont deux termes incompatibles), l'amène à endosser » [21]. En effet, son comportement ne correspond pas à son âge et c'est ce renversement qui rend le personnage comique. Alors que Boileau indique que « Chaque âge a ses plaisirs, son esprit et ses mœurs », il fait remarquer que « l'âge viril », « plus mûr, inspire un air plus sage ». L'attitude d'Oronthe est contraire à ces préceptes et il se comporte en « jeune homme, toujours bouillant dans ses caprices » [22]. De plus, Oronthe, pensant jouer de bons tours au jeune naïf, est lui-même trompé. Sa cécité mentale provoque, d'abord, sa méprise sur les sentiments et le personnage méconnaît alors ses adversaires Ariste et Climante et sa rivale : Olimpe. A chacune de ses interventions, il se méprend sur le sens des propos et de la situation. Cette confusion, décelée par les autres personnages et le public, provoque le rire, rire de raillerie. C'est ainsi qu'Oronthe se flatte de l'innocence d'Ariste :
 
@@ -221,7 +221,7 @@ Hé bien ! sçay-je en donner, mesme aux plus fins esprits ? [28]
 Cette dualité de caractère qu'Olimpe met en jeu souligne la crédulité du vieux barbon jaloux. Le public, mis dans la confidence de ce jeu de masques et de fausses apparences, établit le décalage entre ce que croit Oronthe et le sens réel des paroles d'Olimpe, de là naît le ridicule d'Oronthe. Le défaut de sagacité d'Oronthe conduit donc à une mauvaise compréhension des situations et les spectateurs assistent, en ce sens, à des déclarations d'amour voilées entre Ariste et Olimpe. Oronthe, victime du déguisement d'Ariste, est comique. Ainsi, le public « rit de l'aveuglement de celui qui est incapable de reconnaître le personnage déguisé, et … du tour qui lui est joué » [29].
 
 
-### La dérision d'un amant
+### La dérision d'un amant.
 
 Le ton doctoral de Climante souligne son caractère prétentieux. Climante se vante de savoir concerter des « menteries » et invite Ariste à le « consulter … pour régler la boutade » [30]. C'est aussi à propos de mener une affaire amoureuse que Climante conseille le jeune niais et déclare :
 
@@ -253,7 +253,7 @@ Ah dieux ! en quel mal-heur je suis embarrasé. [34]
 Le duo amoureux que forment Ariste et Olimpe est dérangé par cet importun personnage qui s'invite à cette scène galante et s'arroge la finalité de cet échange. Constatant progressivement sa désillusion, Climante, comme Oronthe, provoque le rire des spectateurs. Ces deux personnages, aveugles et trompés, sont confrontés à Ariste et Olimpe qui jouent de la duplicité de leur caractère. De cette confrontation naît le comique. Personnage présomptueux, Climante se vante de donner des leçons alors que lui-même est incapable de faire preuve de lucidité. C'est de ce défaut de clairvoyance que naît le comique.
 
 
-### Les jeux habiles du faux-naïf
+### Les jeux habiles du faux-naïf.
 
 Ariste met à jour le stratagème imaginé par Climante pour séduire la belle sans être démasqué :
 
@@ -301,7 +301,7 @@ Allez je vous responds qu'elle n'en mourra pas. [39]
 A l'approche de la scène finale, Ariste sous-entend une nouvelle fois sa véritable identité, équivoque que ne comprend pas Oronthe. Les spectateurs, de connivence avec les véritables amants de la pièce, remarquent alors le comique de la situation.
 
 
-### Les jeux intrigants d'une jeune fille
+### Les jeux intrigants d'une jeune fille.
 
 Dès sa première apparition en scène, Olimpe masque ses sentiments et feint de croire à la naïveté d'Ariste. Pour conforter son ravisseur dans cette opinion, elle s'exclame : « O qu'il est ingenu ! » [40]. Le rire naît des situations où prédomine le jeu sur la double-personnalité : l'équivoque et l'ironie sont maîtres. Pour parvenir à leurs fins, Ariste et Olimpe sont contraints de masquer leur véritable identité et de jouer à être quelqu'un d'autre. Les répliques qu'ils adressent à Oronthe et à Climante ainsi que celles qu'ils s'échangent en leur présence doivent être entendues dans une double acception. Ainsi, Olimpe n'échappe pas au tête-à-tête tant recherché par Climante. Authentique dans l'expression de ses sentiments, il exprime son amour et dévoile son stratagème à visage découvert devant une Olimpe masquée et ironique. Ce vaniteux se pose en véritable maître de la situation comme l'indique son usage important des marques de la première personne et sa complaisance à révéler le système qu'il a mis en place :
 
@@ -326,10 +326,10 @@ L'equivoque en plairoit dans une Comedie. [44]
 Par l'équivoque qu'elle met en jeu, l'ironie participe du comique puisqu'elle déclenche l'incompréhension d'un des interlocuteurs tandis que l'autre joue de cette situation et révèle ainsi la maîtrise opérée sur son destin. La dissonance entre la littéralité du discours et son véritable sens, entendue du public, reste incomprise par le personnage trompé. Ce détour ingénieux d'Olimpe met en valeur son esprit d'à propos et est source de comique dans la mesure où il met en évidence l'aveuglement d'Oronthe.
 
 
-## Des personnages comiques
+## Des personnages comiques.
 
 
-### Jodelet, le valet farceur du Marais
+### Jodelet, le valet farceur du Marais.
 
 *Le Desniaisé* a fait rire les spectateurs du XVII*e* siècle grâce à la présence, parmi les acteurs, du farceur le plus populaire de l'époque : Julien Bedeau. Cet acteur a accompli une carrière comique si considérable qu'il est devenu un type théâtral. Né à la fin du XVI*e* siècle, il commence sa carrière dans la farce entre 1610 et 1620. Son pseudonyme Jodelet apparaît, pour la première fois, dans le bail du 8 mars 1634 lorsque Montdory fonde le théâtre du Marais. En décembre 1634, le roi le fait passer à l'Hôtel de Bourgogne et, vers 1641, il retourne au Marais et y reste jusqu'en 1659. En 1642, le succès du *Menteur* est si important que, l'année suivante, P. Corneille décide de donner *La Suite du Menteur*. A partir de ces représentations, la renommée de Jodelet ne cesse de s'amplifier et « fait qui n'est arrivé à aucun autre farceur, les lettrés s'intéressent à lui, non seulement comme acteur, mais comme type » [45]. Quelques dramaturges lui consacrent des pièces théâtrales où il apparaît nommément ou sous d'autres noms analogues. Ainsi, P. Scarron écrit *Jodelet ou le Maître-valet, Les trois Dorothées, Jodelet souffleté, Don Japhet d'Arménie* ; Th. Corneille lui réserve *Don Bertrand de Cigarral, Le Geôlier de Soi-Même, ou Jodelet Prince* et *L'Amour à la mode* ; A. Le Métel d'Ouville lui consacre *Jodelet Astrologue* et Gillet de la Tessonnerie le fait jouer dans *Le Desniaisé* et dans *Le Campagnard*. En 1659, Molière engage Jodelet dans sa troupe de l'Illustre Théâtre où il interprète le vicomte des Précieuses. Selon R. Bray, il hérita de l'emploi de Gros-René. Ces nombreuses comédies écrites pour son personnage témoignent du pouvoir comique de l'acteur. Le personnage doit aussi sa fortune au contexte littéraire. En effet, « tout change à partir de 1640, avec le développement de la comédie burlesque. La farce du début du siècle a perdu son éclat en perdant ses célébrités ; les personnages ridicules de la comédie régulière, fous, bouffons, parasites, matamores, sont en voie de disparition. Les nouvelles gloires, ce sont les Jodelet et les Philippin » [46].
 
@@ -434,7 +434,7 @@ Que Gros-Guillaume et Jean Farine. [84]
 Le rôle de Jodelet n'apparaît donc plus dans les comédies postérieures à 1660.
 
 
-### Pancrace, le docteur pédant
+### Pancrace, le docteur pédant.
 
 *Le Desniaisé*, dont l'intrigue est inspirée des comédies à l'italienne, met en scène le type du *dottore* : docteur pédant et fanfaron. Sans réels ancêtres dans le théâtre classique, le pédant a cependant quelques précurseurs dans les comédies humanistes du XVI*e* siècle. Ce personnage naît dans les années qui suivent le sac de Rome en 1527. Il apparaît dans *Le Pédant* de Francesco Belo (1529) et *Le Maréchal-ferrant* de Pietro Aretino (1533). Il devient un des types les plus répandus dans le théâtre du XVI*e* siècle italien pour atteindre son apogée dans le *Manfurio* de G. Bruno (1582). Il donne naissance au masque du *Dottore* de la *commedia dell'arte*. Le personnage fait, ensuite, son apparition dans le théâtre français. Au XVI*e* siècle, P. de Larivey, puis au XVII*e* siècle, Cyrano de Bergerac, Adrien de Montluc, Du Peschier, J. Rotrou, Gillet et Molière lui réservent un rôle dans leurs comédies.
 
@@ -482,7 +482,7 @@ A la fin du XVI*e* siècle, le lettré est devant une alternative : ou il s'ada
 Le type du *dottore* ne subsistera pas dans les comédies. « Aussi rare est le cuistre que le parasite, à l'origine valet du collège frotté de latin, que la société humaniste de la Renaissance avait connu dans ses divers centres de culture. … Ce type très particulier de subalterne était, comme le parasite, condamné à disparaître. Si les pédants demeurent une des cibles favorites des auteurs satiriques du XVII*e* siècle, il est très rare que leurs serviteurs (lorsqu'ils en ont) soient mêlés à la condamnation » [101].
 
 
-### Lisette, une servante amoureuse
+### Lisette, une servante amoureuse.
 
 Même si la suivante reste peu individualisée, son caractère commence, cependant, à s'affirmer. Par son nom, elle se distingue de la catégorie des maîtres. Remarquons, en effet, l'opposition entre les personnages « “ à problèmes ”, graves ou ridicules, et dont les noms s'achèvent par des syllabes sourdes et lourdes en « onte », « ante » et les noms dont « les finales, qui sont des diminutifs, … sont un signe de la jeunesse des personnages. Mais ne peut-on pas voir aussi, dans ces sonorités claires et chantantes, un écho de la légèreté rieuse des serviteurs ? ».
 
@@ -528,18 +528,18 @@ Pancrace lit dans l'intérêt et dans l'empressement que Lisette porte à la ré
 Par leur caractère, leurs agissements, leurs réflexions, les valets sont tout entiers tournés vers le comique. Ils ont la fonction de « *régulateurs du climat comique* : leur détachement, leurs railleries, les clins d'yeux au public, leur jeu physique et verbal, leurs appétits en font … des créatures démythifiantes. Par eux, le drame devient dérisoire. … C'est eux qui apportent la détente nécessaire. L'intrigue comique est, en fait, tragédie pour ceux qui la vivent. Les serviteurs, eux, regardent les autres jouer et, quand ils s'engagent, continuent à *jouer* » [111]. Les valets provoquent le rire parce qu'ils se situent en dehors des codes, leurs comportements témoignent de leur inconvenance. Le jeu des valets justifie et légitime le rire des spectateurs.
 
 
-# Le Desniaisé, une fable au cœur de la modernité théâtrale
+# Le Desniaisé, une fable au cœur de la modernité théâtrale.
 
 
-## Fourberies, déguisements et fausses identités
+## Fourberies, déguisements et fausses identités.
 
 
-### Une époque imprégnée par l'esthétique du déguisement
+### Une époque imprégnée par l'esthétique du déguisement.
 
 La représentation de pièces tragi-comiques et de farces sur la scène française des trente premières années du XVII*e* siècle est à l'origine de l'essor du spectaculaire, ces deux genres privilégiant le spectacle par rapport au texte. L'intérêt pour la comédie dite à l'espagnole, dramaturgie qui met en scène fourberies, mensonges et déguisements a porté à son apogée la représentation du spectaculaire et de l'ambiguïté. La fin du XVI*e* et le début du XVII*e* siècles voient la naissance du procédé du théâtre dans le théâtre. Le développement de cette esthétique de l'ambiguïté correspond à l'interrogation fondamentale du XVII*e* siècle sur l'illusion comme essence de l'homme. Les hommes sont considérés comme des acteurs sous le regard de Dieu et le monde comme une vaste comédie. Cette façon de concevoir la vie conduit naturellement le théâtre à se mettre en scène. « Il s'agit d'une prise de conscience ; le théâtre après 1630 atteint une sorte d'âge adulte ; il est naturel qu'il se regarde, se discute, se disculpe, se demande ce qu'il est ; c'est pourquoi le sujet de la comédie, c'est la comédie même » [112]. Ce très bref aperçu de l'histoire du théâtre souligne le contexte dans lequel vivait notre auteur : « la plupart des dramaturges des XVI*e* et XVII*e* siècles ont *conçu* (ou adapté) des intrigues dans lesquelles le personnage principal ne peut agir autrement qu'à travers la voie détournée d'un déguisement » [113]. *Le Desniaisé*, faisant reposer l'intrigue sur les fausses identités, s'inscrit pleinement au cœur des préoccupations dramatiques de l'époque.
 
 
-### Le déguisement dans le théâtre de Gillet
+### Le déguisement dans le théâtre de Gillet.
 
 Six pièces sur les neuf que Gillet a écrites font intervenir fausses identités et théâtre dans le théâtre. Le travestissement constitue une esthétique dominante de son œuvre dramatique.
 
@@ -569,7 +569,7 @@ V, 3 | Oronthe organise la colère de Climante | 
 Huit scènes sont consacrées à la préparation d'une feinte et trois scènes présentent un spectacle enchâssé où les personnages de l'action principale se divisent en acteurs et spectateurs de l'action secondaire. Les scènes de préparation de la fourberie sont donc aussi essentielles à l'action que celles où elles font l'objet d'une représentation.
 
 
-### La fourberie fondamentale : Ariste et Olimpe
+### La fourberie fondamentale : Ariste et Olimpe.
 
 Deux personnages masquent leurs sentiments dès l'ouverture de la pièce : Ariste et Olimpe. Leur déguisement de personnalité constitue le fond de l'intrigue et conduit à la péripétie finale. Ils sont en effet contraints de masquer leurs sentiments pour contourner deux obstacles : Oronthe et Climante. Jeune homme habile et rusé, Ariste se fait passer pour naïf. Son déguisement est conscient : il dit ce qu'il prétend être. Le spectateur est mis dans la confidence de ce masque lorsque le maître explique ce déguisement de caractère à son valet. Olimpe se fait passer pour une mélancolique et pour une amante aux yeux d'Oronthe et de Climante. S'effectue alors une alternance permanente « entre le masque et le visage » [114]. Tout au long de la pièce, plusieurs scènes voient l'échange sincère des sentiments amoureux entre les deux amants et la révélation de leur but. Les personnages déguisent leur sentiment par la parole : ils disent ce qu'ils ne sont pas. Ariste et Olimpe sont donc maîtres de leur jeu contrairement à Oronthe et Climante.
 
@@ -638,7 +638,7 @@ Le jeune amant fait donc déguiser Jodelet en Archer. La pièce met aussi en œu
 Après s'être érigé en directeur du déguisement de Jodelet, Ariste dirige ensuite Olimpe dans sa façon de jouer la comédie. Il indique : « Feignez bien ! » : Olimpe semble devoir prouver ses talents d'actrice devant son directeur. Ariste, en aparté, réitère «  Feignez jusqu'à la fin » [124]. Il donne à Olimpe des indications pour obtenir un résultat optimal ; ici, l'apaisement du courroux d'Oronthe. Si l'arrestation de Jodelet sert l'action en tant qu'elle est une démonstration de l'aveuglement d'Oronthe et de Climante, le jeu d'Olimpe sous la direction d'Ariste est, quant à lui complètement intégré à l'action. En effet, si Olimpe n'apaisait pas le courroux d'Oronthe qui fait suite aux révélations de Climante, le projet final des deux amants en serait fortement compromis.
 
 
-### Les fourberies secondaires : Oronthe et Climante
+### Les fourberies secondaires : Oronthe et Climante.
 
 Les deux prétendus amants d'Olimpe sont les deux aveugles de la pièce. Croyant jouer un bon tour à Ariste, le jeu se retourne et c'est sur eux-mêmes que la raillerie retombe. C'est l'ingéniosité d'Ariste qui leur fait revêtir ce déguisement inconscient de barbon aveugle pour Oronthe et d'amant adroitement éconduit et mis à l'écart pour Climante. Les fourberies qu'ils préparent se désignent comme telles : ils en sont, à la fois, les metteurs en scène, les acteurs et les spectateurs. Ariste est l'objet de ces railleries et les spectateurs en sont Olimpe et Oronthe. L'acte II est en grande partie consacré à l'élaboration de la fourberie des « stances » qui échoue. Les deux comparses s'attachent ensuite à l'instauration d'un autre spectacle : la scène de la sérénade à la scène 6 de l'acte IV, à laquelle fait suite l'arbitrage d'Oronthe. Aux scènes 6 et 7 de l'acte IV, Climante, « *deguisé* » [125], doit jouer un tour à Ariste.
 
@@ -666,19 +666,19 @@ Si la nécessité de préparer les fourberies révèle le manque d'ingéniosité
 Huit scènes de préparation de fourberies, trois scènes de représentations théâtrales où la pièce principale encadre un spectacle enchâssé et où les acteurs revêtent un second rôle : un tiers des scènes est ainsi consacré à la mise en place ou à la représentation d'une fourberie. L'importance de ce chiffre nous invite, alors, à nous interroger sur le but de ces feintes.
 
 
-## Les desseins des fourberies
+## Les desseins des fourberies.
 
 Si le nombre élevé de ces mises en abyme théâtrales révèle une certaine complaisance de l'auteur à mettre en scène un spectacle dans le spectacle, ce chiffre souligne aussi que ces scènes de feinte ont dramatiquement plusieurs buts.
 
 
-### Le plaisir dramatique
+### Le plaisir dramatique.
 
 Les spectateurs sont mis dans la confidence des changements, ce qui crée une relation privilégiée entre les personnages manipulateurs et les spectateurs. Ainsi, « le déguisement est pur plaisir dramatique. Il y a *complicité constante* entre le fourbe et les spectateurs. … La salle participe au stratagème, à son élaboration, à son déroulement ; elle tremble pour son issue. Cette participation au déguisement est en elle-même source de tension et d'incertitude ; elle capte l'intérêt » [137]. Le jeu de questions et de réponses à la scène d'exposition est destiné à avertir le spectateur des déguisements. Il peut donc rire du ridicule d'Oronthe et de Climante et soutenir Ariste.
 
 Deux fourberies conduisent à une mise en scène où Jodelet et Climante sont déguisés. Ces déguisements ont une fonction décorative : ils participent du plaisir des yeux. Ces spectacles permettent aussi de présenter le code théâtral. Ils confèrent ainsi à la comédie un aspect spectaculaire.
 
 
-### Le plaisir de la raillerie
+### Le plaisir de la raillerie.
 
 L'envie de sarcasme incite Oronthe et Climante à mettre en place ces feintes. Oronthe répète à plusieurs reprises le bon tour qui sera joué à Ariste et qui provoquera le rire des spectateurs intérieurs. Il a promis de faire une stance « Pour se joüer de luy » [138]. Il exprime ainsi le plaisir qu'il prendra à rendre Ariste ridicule :
 
@@ -706,7 +706,7 @@ Que cet amy feignoit de faire le critique [141]
 A l'approche du dénouement, l'utilité dramatique de la scène réside dans le plaisir que prend Oronthe à voir régner la confusion par les jeux de faux-semblants. Oronthe, sûr de lui, est tout à fait aveugle sur les véritables identités. Son plaisir du jeu s'achemine donc vers une déconvenue absolue lors de la révélation finale.
 
 
-### Divertir une mélancolique
+### Divertir une mélancolique.
 
 Oronthe utilise l'esprit naïf d'Ariste pour divertir Olimpe de la nostalgie de son pays natal :
 
@@ -723,7 +723,7 @@ Et pour me divertir tant de bons traittemens,
 Ont bien droict d'effacer mes mescontentemens. [143]  
 
 
-### Servir ses intérêts
+### Servir ses intérêts.
 
 A la demande d'Oronthe, Climante compose des stances qu'Ariste déclamera à Olimpe mais cette dernière doit entendre parler Oronthe et non pas celui qui les dit. Après une explication assez longue et obscure, Climante résume :
 
@@ -772,7 +772,7 @@ Ce sont les mesmes mots que je veux qu'il vous die [148]
 Ce personnage prétentieux dévoile là ses intérêts à participer lui aussi à la feinte, il peut ainsi déclarer son amour par la bouche d'Ariste.
 
 
-### Gagner du temps
+### Gagner du temps.
 
 Ces feintes se déroulent aussi au profit d'Ariste et d'Olimpe. La construction concertée du déguisement des sentiments des deux amants se fait en vue de vaincre les obstacles que leur opposent Oronthe, par sa jalousie, et Climante, par sa flamme amoureuse. Les fourberies sont un moyen de gagner du temps. En effet, Ariste joue le jeu d'Oronthe et de Climante pour ne pas être découvert avant l'arrivée des parents d'Olimpe et ne pas compromettre la légitimité de son mariage. Le deuxième acte s'ouvre sur cette information essentielle :
 
@@ -808,7 +808,7 @@ Ne peut plus m'empescher d'estre desniaisé [155]
 Dans ce jeu des termes antithétiques, le spectateur peut entendre la jubilation que prend Ariste à démontrer le manque de clairvoyance d'Oronthe. Le faux naïf insiste alors sur ce vocabulaire de la lucidité : «  voir » : « De te voir … » puis en surenchérissant, « Et le voir d'autant mieux … ». Ariste et Olimpe, par leurs déguisements et leurs feintes, mettent ainsi en œuvre cette leçon et la donnent à méditer à Oronthe et à Climante.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Nous avons pris pour base le volume imprimé par Toussaint Quinet en 1648 qui se présente sous la forme suivante :
 
@@ -1114,10 +1114,10 @@ Nous renvoyons aussi par ce signe ° aux références que font les personnages �
 Les traductions des auteurs de langue anglaise et italienne ont été faites par nos soins.
 
 
-# LE DESNIAISÉ COMÉDIE
+# LE DESNIAISÉ COMÉDIE.
 
 
-## Extraict du Privilege du Roy
+## Extraict du Privilege du Roy.
 
 Par grace & privilege du Roy donné à Paris le 9. Mars
 
@@ -1146,7 +1146,7 @@ est plus amplement porté par lesdites Lettres.
 Les exemplaires ont esté fournis.
 
 
-## PERSONNAGES
+## PERSONNAGES.
  – ARISTE,est le Desniaisé, [156] Amant d'Olimpe.
  – CLIMANTE,celuy qui veut joüer Ariste, Olimpe. [157]
  – ORONTHE,mary pretendu d'Olimpe.
@@ -1165,71 +1165,71 @@ La Scene est à Paris devant la maison d'Oronthe [158].
  
 
 
-## ACTE I
+## ACTE I.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ARISTE, CLIMANTE, JODELET [159].
 
 
-    CLIMANTE *regardant Ariste jusques aux pieds.*
+    CLIMANTE *regardant Ariste jusques aux pieds.*.
 Certes, c'est rencherir dessus les plus galans,  
 Cette confusion de neuds & de rubans,  
 Ne tesmoignent que trop ce dont aucun ne doûte  
 Qu'un amant est prodigue, & que rien ne luy coûte.  
 
-    ARISTE *respondant d'un air ingenu.*
+    ARISTE *respondant d'un air ingenu.*.
 Vous me raillez tousjours …  
 
-    CLIMANTE
+    CLIMANTE.
         Que vos gands sentent bon !  
 Est-ce de Martial ou Frangipanne [160] ?  
 
-    ARISTE
+    ARISTE.
         Non,  
 Ce sont des peaux d'Espagne,  
 
-    CLIMANTE
+    CLIMANTE.
         Elles en sont plus cheres.  
 
-    ARISTE
+    ARISTE.
 L'Ambassadeur pourtant m'en donna deux cens paires  
 
-    CLIMANTE
+    CLIMANTE.
 Dans Rome ?  
 
-    ARISTE
+    ARISTE.
     Point du tout,  
 
-    CLIMANTE
+    CLIMANTE.
     Où donc ?  
 
-    ARISTE
+    ARISTE.
         Dedans Paris.  
 
-    CLIMANTE
+    CLIMANTE.
 Ne vous estonnez pas cher amy si je ris,  
 Estoit-ce depuis peu ?  
 
-    ARISTE
+    ARISTE.
         La sepmaine passée.  
 
-    CLIMANTE
+    CLIMANTE.
 Vostre langue à ce coup precede la pensee,  
 Et vous n'y songiez pas en me parlant ainsi.  
 
-    ARISTE
+    ARISTE.
 Pourquoy ?  
 
-    CLIMANTE
+    CLIMANTE.
         D'Ambassadeur il n'en vient point icy,  
 Et l'Espagne,  
 
-    ARISTE
+    ARISTE.
         Ah ! voyez à quoy je me hazarde,  
 J'en aurois dit autant,  
 
-    CLIMANTE
+    CLIMANTE.
         Au moins prenez y garde,  
 Il fait bon d'en donner, mais c'est un grand malheur [161]  
 Quelque habille [162] qu'on soit de passer pour hableur⁎,  
@@ -1244,17 +1244,17 @@ Je recognois fort bien mes foibles⁎ à present :
 Et puis en me voyant dans un autre moy-mesme  
 Vous tirer aujourd'huy d'un embaras extréme.  
 
-    ARISTE
+    ARISTE.
 Mais quoy ! vous me disiez qu'on peut parfois mentir.  
 
-    CLIMANTE
+    CLIMANTE.
 Ouy, mais il faut avoir l'adresse d'en sortir.  
 
-    ARISTE
+    ARISTE.
 Combien un honneste homme en ses galanteries,  
 Peut-il de fois par jour donner des menteries⁎ ?  
 
-    CLIMANTE
+    CLIMANTE.
 Il faut selon les gens regler la quantité,  
 Apprendre leur humeur, sçavoir leur qualité ;  
 Mais lors que vous voudrez donner quelque cassade⁎,  
@@ -1263,44 +1263,44 @@ Le feu que vous avez a besoin de leçon
 Apres vous hablerez⁎ de la bonne façon :  
 En voulez-vous donner ? [163]  
 
-    ARISTE 
+    ARISTE. 
         L'affaire est devinée.  
 Je voudrois bien mentir,  
 
-    CLIMANTE
+    CLIMANTE.
     Quand ?  
 
-    ARISTE
+    ARISTE.
     Cette apresdinée [164].  
 
-    CLIMANTE
+    CLIMANTE.
         Où ?  
 
-    ARISTE
+    ARISTE.
 Chez le rare objet⁎ dont mes sens sont charmez⁎.  
 
-    CLIMANTE
+    CLIMANTE.
 Je m'y rendray tantost…  
 
-    ARISTE
+    ARISTE.
         Au moings [165] si vous m'aimez,  
 
-    CLIMANTE
+    CLIMANTE.
 Ah ! que vous estes bien auprés de cette belle.  
 
-    ARISTE
+    ARISTE.
 Je vous dois les faveurs que je recevray d'elle,  
 Et de quelque progrez dont je me sois flaté,  
 J'en dois remercier vostre dextérité.  
 
-    CLIMANTE
+    CLIMANTE.
 Il faut quand vous trouvez parfois l'heure oportune,  
 Luy vanter en passant quelque bonne fortune.  
 
-    ARISTE
+    ARISTE.
 Qui pourroit reüssir sans ces enseignemens ?  
 
-    CLIMANTE
+    CLIMANTE.
 Nous en avons besoin dans les commencemens,  
 Quoy qu'on sçache beaucoup on doit apprendre encore,  
 Mais dedans les ardeurs du feu qui vous devore,  
@@ -1308,22 +1308,22 @@ Ne m'advoürez-vous pas que vous estes icy,
 Estant absent d'Olympe avec un grand soucy [166],  
 Je m'en vay la querir : en faut-il davantage ?  
 
-    ARISTE
+    ARISTE.
 Ah ! c'est trop m'obliger.  
 
 
-### SCENE II 
+### SCENE II. 
 ARISTE, JODELET.
 
 
-    ARISTE
+    ARISTE.
         Le galand personnage !  
 Il croit trouver sa duppe,  
 
-    JODELET
+    JODELET.
         Ah ! le plaisant falot⁎.  
 
-    ARISTE
+    ARISTE.
 Il faut tout endurer, & ne luy dire mot,  
 Il n'est pas encor [167] temps de luy faire nos plaintes,  
 Et puis que mon bon-heur [168] consiste dans ces feintes,  
@@ -1335,20 +1335,20 @@ Qui servant [169] d'un argus° à ma divinité    
 Alors qu'elle te suit nous laisse en liberté  
 Ses sanglots font pitié…  
 
-    JODELET 
+    JODELET. 
         Monsieur, c'est qu'elle tousse.  
 
-    ARISTE
+    ARISTE.
 Mais…  
 
-    JODELET
+    JODELET.
         Quand vous le voudrez je la rendray plus douce  
 Et plus souple cent fois qu'un gand de chevrotin⁎,  
 
-    ARISTE
+    ARISTE.
 Tu l'entens, Jodelet,  
 
-    JODELET *porte le doigt à sa bouche.*
+    JODELET *porte le doigt à sa bouche.*.
         Je suis un faux matin [170],  
 Sans moy dans vos amours vous auriez votre compte [171],  
 Car Lisette m'a dit que l'Intendant d'Oronte  
@@ -1356,53 +1356,53 @@ Sans elle nous alloit envoyer à vaux l'eau [172],
 Mais que de quelque espoir flattant le jouvenceau  
 Elle avoit empesché qu'on nous envoya paistre.  
 
-    ARISTE
+    ARISTE.
 Mais ce n'est qu'un resveur,  
 
-    JODELET
+    JODELET.
         Il est creu de son maistre  
 Qui le tient fort sçavant, & le croit fort discret,  
 Mais de Climante aussi dites moy le secret,  
 Aimeroit-il Olympe ?  
 
-    ARISTE 
+    ARISTE. 
         Oüy, Jodelet, il l'aime  
 Pour elle son amour passe jusqu'à l'extréme,  
 Et j'ay bien reconnu qu'il trouve les moyens  
 D'expliquer ses desirs en debitant les miens.  
 
-    JODELET
+    JODELET.
 Qu'a cela de commun au feu qui vous consomme⁎  
 De vous faire introduire à titre de jeune homme,  
 Et pourquoy ne peut-il haranguer ses amours  
 Sans vous faire parler & chercher ces destours ?  
 
-    ARISTE
+    ARISTE.
 Tu sçais bien que d'Oronte elle fut enlevée  
 Que par tout de ce lasche on la voit observée,  
 Et qu'en fin [173] ce jaloux l'ayant en son pouvoir  
 Sans sa permission l'on ne la sçauroit voir.  
 
-    JODELET
+    JODELET.
 Mais d'où vient que Climante est de l'intelligence,  
 Et comme [174] a-t'il si tost fait cette cognoissance ?  
 
-    ARISTE
+    ARISTE.
 Tu peux t'en estonner avec juste raison,  
 Toy qui ne songes pas qu'il loge en leur maison.  
 
-    JODELET 
+    JODELET. 
 Mais comment a-t'il fait pendant ce grand voyage,  
 Qu'il n'a pû la contraindre au moins au mariage ?  
 Que luy peut dire Olympe, & comment, & pourquoy ?  
 
-    ARISTE
+    ARISTE.
 Ce secret est encor trop raffiné pour toy.  
 
-    JODELET
+    JODELET.
 Climante donc…  
 
-    ARISTE
+    ARISTE.
         Croyant joüer d'un tour d'adresse,  
 Et m'ayant mené voir cette belle maistresse,  
 Me traittant d'innocent auprés de ce jaloux,  
@@ -1414,25 +1414,25 @@ Qui leur feroient passer d'agreables momens,
 Que je leur donnerois concerts & serenades,  
 Comedie & balets, festins & promenades.  
 
-    JODELET
+    JODELET.
 Mais en si peu de temps vous vouloir tant de bien,  
 Elle estant Provençalle, & vous Parisien.  
 
-    ARISTE 
+    ARISTE. 
 Quand l'amant est voisin de la personne aymée  
 Une forte habitude est aisément formée.  
 
-    JODELET
+    JODELET.
 Mais Oronthe l'aymant, & mesme estant jaloux,  
 Comment s'acroche [175]-t'il de Climante & de vous ?  
 
-    ARISTE
+    ARISTE.
 Il croit qu'estant trop fat⁎ je ne luy sçaurois nuire.  
 
-    JODELET
+    JODELET.
 Mais de Climante…  
 
-    ARISTE
+    ARISTE.
         Il croit qu'il ne veut m'introduire  
 Que pour rire avec eux des cadeaux⁎ que je fais,  
 Puis il veut divertir Olympe à peu de frais,  
@@ -1440,26 +1440,26 @@ Et treuve qu'elle vit avec plus de franchise
 Depuis qu'il l'aprivoise avecque [176] ma sotise,  
 Que sa colere passe, & qu'il peut l'adoucir.  
 
-    JODELET
+    JODELET.
 Climante ce pendant⁎…  
 
-    ARISTE
+    ARISTE.
         Croit fort bien reüssir,  
 Et ne pouvant souvent entretenir la belle  
 Se croyant le plus fin est d'accord avec elle,  
 Que ce qu'elle dira pour flatter mon ennuy⁎  
 Soit [177] en secret ou non, doit s'adresser à luy.  
 
-    JODELET
+    JODELET.
 Il se tient donc heureux alors qu'elle vous aime.  
 
-    ARISTE
+    ARISTE.
 Sans doute…  
 
-    JODELET
+    JODELET.
         Si bien donc qu'il est le fat⁎ luy-mesme.  
 
-    ARISTE
+    ARISTE.
 Ouy, car ma chere Olympe ayant bien reconnu  
 Que pour son seul sujet, je faisois l'ingenu,  
 Et m'ayant honoré de quelque bien-veillance  
@@ -1467,75 +1467,75 @@ M'a dit qu'il pretendoit me joüer d'importance,
 Et se servir de moy pour tromper son jaloux,  
 Et pour estre plus libre.  
 
-    JODELET
+    JODELET.
     Ah, par la mort !  
 
-    ARISTE
+    ARISTE.
         Tout doux.  
 
-    JODELET
+    JODELET.
 Ah ;  Monsieur, permettez que ma lame enroüillée  
 Soit teinte de son sang.  
 
-    ARISTE 
+    ARISTE. 
         Elle en seroit soüillée ;  
 Garde bien le secret, & tais toy,  
 
-    JODELET
+    JODELET.
         Mais au moins  
 Souffrez⁎ qu'avecque luy je fasse à coups de poings,  
 Et que de ces cinq doigts plus pesans qu'une meule  
 Je luy casse le nez ou luy paume [178] la gueule  
 
-    ARISTE
+    ARISTE.
 Je me vangeray bien sans exposer tes jours  
 
-    JODELET *faisant le grave.*
+    JODELET *faisant le grave.*.
 Qu'il aille vous railler au Royaume des sourds,  
 
-    ARISTE
+    ARISTE.
 Va, va, conserve toy pour ta chere Lisette,  
 
-    JODELET
+    JODELET.
 Ah ! je ne puis aimer cette jeune Choüette,  
 Je suis inexorable,  
 
-    ARISTE
+    ARISTE.
         Est-il vray, Jodelet,  
 Elle est pourtant passable.  
 
-    JODELET
+    JODELET.
         Ah ! je suis son valet [179].  
 
-    ARISTE
+    ARISTE.
 Mais voicy mon Olympe, ah, divine merveille !  
 
 
-### SCENE III 
+### SCENE III. 
 ARISTE, CLIMANTE, ORONTHE, OLIMPE, PANCRACE, JODELET, & LISETTE.
 
 
-    CLIMANTE
+    CLIMANTE.
 Pour un amy qui dort toûjours quelqu'autre veille  
 Rendez graces au soin que j'ay pris d'amener   
 Cette rare beauté qui se vient promener.  
 
-    ARISTE
+    ARISTE.
 Je ne sçaurois payer de si puissantes [180] debtes ;  
 Mais Climante achevez le bien que vous me faites,  
 Et m'ayant approché de ce bel œil vainqueur,  
 Adoucissez un peu son extréme rigueur.  
 
-    CLIMANTE
+    CLIMANTE.
 Oronthe le fera, j'en ay quelque asseurance,  
 Et puisque cette belle est dessous sa puissance,  
 Et qu'il est son espoux, vous reconnoistrez bien  
 Qu'en la priant pour vous il n'espargnera rien.  
 
-    OLIMPE
+    OLIMPE.
 Oronthe le voulant je vous suis tout acquise.  
 
-    ARISTE 
+    ARISTE. 
 De grace donc, Monsieur, excusez la franchise,  
 Et treuvez bon qu'icy j'ose vous supplier,  
 En la priant pour moy de ne rien oublier,  
@@ -1546,76 +1546,75 @@ Je voudrois seulement qu'elle sceut mon amour ;
 Et forcer ces beaux yeux de remarquer la flame  
 Qu'avecque vostre adveu j'allumay dans mon ame.  
 
-    OLIMPE *à ORONTHE*
+    OLIMPE *à ORONTHE*.
 O qu'il est ingenu !  
 
-    ORONTHE
+    ORONTHE.
         Monsieur, il ne faut pas  
 La forcer pour souffrir⁎ un objet⁎ plein d'appas⁎,      
 Et toute sa rigueur ne consistant qu'en mine,  
 Sans doute elle vous aime, & fait icy la fine.  
 
-    OLIMPE *d'un air gay.*
+    OLIMPE *d'un air gay.*.
 Vous pensez-vous railler, mais…  
 
-    ORONTHE
+    ORONTHE.
         J'en suis peu jaloux,  
 Vous l'aimez…  
 
-    OLIMPE
+    OLIMPE.
     Il est vray.  
 
-    ORONTHE 
+    ORONTHE. 
     Tout de bon,  
 
-    OLIMPE
+    OLIMPE.
         Plus que vous.  
 
-    ORONTHE
+    ORONTHE.
 Quelqu'autre se pendroit apres cette parole.  
 
-    OLIMPE *en riant.*
+    OLIMPE *en riant.*.
 Que ne le faites vous ?  
 
-    ORONTHE
+    ORONTHE.
         Un seul point me console  
 C'est que Monsieur est sage, & n'entreprendra rien  
 En cette occasion qui ne soit pour mon bien.  
 Comme il est genereux,  
 
-    CLIMANTE
+    CLIMANTE.
         Il faut tout dire, Oronthe,  
 Ne vous y fiez [181] pas, vous auriez vostre compte,  
 Il n'est dans ses amours genereux qu'à demy,  
 Autrefois il aimoit la femme d'un amy.  
 
-    ARISTE *comme voulant le faire taire.*
+    ARISTE *comme voulant le faire taire.*.
 Au moins…  
 
-    ORONTHE *à ARISTE*
+    ORONTHE *à ARISTE*.
     Serez vous fourbe ?  
 
-    ARISTE
+    ARISTE.
         Il vous en fait accroire⁎.  
 
-    CLIMANTE *en particulier à Ariste.*
-             
+    CLIMANTE *en particulier à Ariste.*. 
 N'en faites point le fin, & comptez leur l'histoire,  
 Quand Oronthe sçaura que vous aimez ailleurs,  
 Il en aura pour vous des sentimens meilleurs,  
 Et vous l'exempterez de cette jalousie,  
 Qui peut estre pourroit troubler sa fantaisie⁎.  
 
-    ORONTHE
+    ORONTHE.
 Hé bien, s'y resoud-il ?  
 
-    ARISTE
+    ARISTE.
         Je veux ce qu'il vous plaist,  
 
-    ORONTHE
+    ORONTHE.
 Mais au moins dites nous la chose comme elle est.  
 
-    ARISTE
+    ARISTE.
 Si je vous ments d'un mot que le Ciel m'extermine ;  
 Estant donc amoureux d'une jeune voisine  
 Dont le mary jaloux me souffroit⁎ par bon-heur,  
@@ -1629,19 +1628,19 @@ Encore⁎ que par tout je luy fusse inutile ;
 Si j'allois promener le bon homme y venoit ;  
 Si je gardois la chambre, alors il s'y tenoit.  
 
-    PANCRACE *bas.*
+    PANCRACE *bas.*.
 Ce zele est paradoxe & ces soins incommodes.  
 
-    JODELET 
+    JODELET.
 Monsieur que n'alliez vous pour voir aux antipodes,  
 
-    ARISTE
+    ARISTE.
 Tais-toy.  
 
-    JODELET 
+    JODELET.
         Les bons vieillards ne sont jamais meschans.  
 
-    ARISTE
+    ARISTE.
 Un soir prenant le frais en sa maison des champs  
 Sur le bord d'un estang nous vismes cette belle  
 Qui sautta tout d'un coup dedans une nascelle,  
@@ -1664,40 +1663,40 @@ Ne pûrent éclairer [185] ce miracle des belles,
 Là pleins d'un beau desir qu'on ne peut exprimer  
 Tout rioit à nos yeux, & tout parloit d'aimer.  
 
-    PANCRACE *bas.*
+    PANCRACE *bas.*.
 Cet homme a leu les Grecs, & possede les fables.  
 
-    OLIMPE 
+    OLIMPE.
 N'a-t'il pas des moments qui sont assez passables ?  
 
-    ORONTHE
+    ORONTHE.
 Tous les fols font ainsi pour se mettre en credit.  
 
-    CLIMANTE
+    CLIMANTE.
 Dites qu'il sçait par cœur l'histoire qu'il vous dit.  
 
-    ARISTE
+    ARISTE.
 Entrant comme en triomphe en ces palais humides  
 Nous en fismes lever mille Nimphes° timides,  
 Qui fuyant par respect autant que par amour  
 Pour nous quitter [186] leur lit, changerent de sejour.  
 
-    JODELET
+    JODELET.
 Ah ! Monsieur, de regret encor je m'en chagrine,  
 Les Nimphes° en fuyant craignoient nostre cuisine,  
 Et se doutoient fort bien qu'en ne s'enfuyant pas  
 Elles rencontreroient leurs tombeaux dans nos plats.  
 
-    ARISTE
+    ARISTE.
 Que dit cet insolent ?  
 
-    JODELET
+    JODELET.
         Que ces Nimphes° volages  
 N'estoient foy de pieton⁎ que des canards sauvages  
 Que vous sceutes du lit si bien effaroucher  
 Que jamais du depuis [187] ils n'y vindrent coucher.  
 
-    ARISTE
+    ARISTE.
 Sors [188]. Alors le jaloux par des cris lamentables  
 Faisoit hurler l'Echo° de ces lieux delectables,  
 Et d'un torrent de pleurs ayant grossy les eaux,  
@@ -1723,27 +1722,27 @@ N'est que de vous servir, aux despens de ma vie,
 Et de treuver moyen de vous tirer des mains  
 Et des pieges trompeurs du pire des humains.  
 
-    OLIMPE
+    OLIMPE.
 En fin vous m'oubliez en vous souvenant d'elle.  
 
-    ARISTE
+    ARISTE.
 Je devois ces souspirs à ma flame fidelle :  
 Et vous me haïriez si j'estois inconstant,  
 Et croiriez que pour vous j'en pourrois faire autant.  
 
-    ORONTHE
+    ORONTHE.
 Madame, appaisez-vous, & cachez vostre haine,  
 L'Apostrophe est plaisant, estant de longue haleine,  
 Et vous nous priverez d'un entretien fort doux,  
 Si Monsieur le retranche, & se contraint pour vous.  
 
-    CLIMANTE
+    CLIMANTE.
 En vain vous redoutez qu'il se veuille contraindre  
 Pour l'Empire du monde, il ne pourroit pas feindre :  
 Et si par la franchise on se rend criminel,  
 Il est vain de son crime, & voudra mourir tel.  
 
-    ARISTE *à CLIMANTE*
+    ARISTE *à CLIMANTE*.
 Amy, pourquoy dis-tu'que je ne sçay pas feindre ?  
 Helas ! combien de fois m'as-tu veu me contreindre ?  
 Quand voyant cet objet⁎ sousrire à son jaloux,  
@@ -1753,91 +1752,90 @@ J'ay cent fois esté prest de dire, je vous aime :
 Mais tout prest de parler je me suis retenu,  
 Et si bien deguisé, qu'ils ne m'ont pas connu.  
 
-    OLIMPE *à CLIMANTE*
+    OLIMPE *à CLIMANTE*.
 Il est fin,  
 
-    CLIMANTE 
+    CLIMANTE.
         Tout de bon c'estoit le méconnoistre :  
 Voyez-vous, il est fourbe autant qui le faut estre.  
 
-    OLIMPE
+    OLIMPE.
 Je ne m'y fieray pas,  
 
-    ORONTHE
+    ORONTHE.
         Ma foy vous ferez bien.  
 
-    ARISTE
+    ARISTE.
 Quoy qu'ils puissent vous dire il ne faut craindre rien  
 Si je vous aimois moins je cacherois la flame  
 Que je veux qui s'exhalle en vous ouvrant mon ame,  
 Et je l'augmenterois en voulant retenir  
 Quelques mourans souspirs qui sont prest de finir.  
 
-    ORONTHE
+    ORONTHE.
 En tout cas vous pourrez en aimer deux ensemble,  
 Un inconstant …  
 
-    ARISTE
+    ARISTE.
         Je suis autre qu'il ne vous semble.  
 
-    ORONTHE
+    ORONTHE.
 Mais vous disiez tantost que jusques au tombeau  
 Vous vouliez adorer un chef d'œuvre si beau.  
 
-    ARISTE
+    ARISTE.
 Je l'ay dit, & de vray, je mets toute ma gloire,  
 D'en adorer l'esprit, d'en cherir la memoire,  
 Et d'oster à l'amour le nom de passion,  
 Alors qu'il perd l'espoir de la possession.  
 
-    OLIMPE
+    OLIMPE.
 Cet accommodement est assez difficile.  
 
-    ORONTHE 
+    ORONTHE.
 Pour faire encore plus il n'est que trop habile ;  
 Mais qu'il explique  
 
-    ARISTE 
+    ARISTE. 
         En vain je voudrois m'en piquer,  
 Je perdrois bien-tost terre en voulant m'expliquer ;  
 Je conçois assez bien les choses qu'il faut dire,  
 Mais pour les esclaircir ce m'est un grand martyre.  
 
-    LISETTE
+    LISETTE.
 Monsieur on a servy.  
 
-    ORONTHE
+    ORONTHE.
         Nostre disner cessé  
 Vous nous acheverez le recit commencé,  
 Et nous ferez sçavoir d'où vint vostre disgrace.  
 
 
-### SCENE IV
+### SCENE IV.
 JODELET, PANCRACE.
 
 
-    JODELET
+    JODELET.
 Tandis qu'ils vont disner [189], un petit mot, Pancrace,  
 Dirois-tu qu'une fille eust de l'amour pour moy ?  
 
-    PANCRACE
+    PANCRACE.
 C'est qu'elle a reconnu quelques appas⁎ en toy.  
 
-    JODELET
-             
+    JODELET. 
 Qu'est-ce que des appas⁎, est-ce une belle chose ?  
 
-    PANCRACE
+    PANCRACE.
 C'est le visible effet d'une agreable cause,  
 C'est un enthousiasme [190], un puissant attractif,  
 Qui rend individus le passif & l'actif [191],  
 Et qui de nos esprits, domptant la tyrannie⁎,  
 Forme le plus farouche au goust de son genie.  
 
-    JODELET
+    JODELET.
 Je m'en estois douté, mais  
 
-    PANCRACE
+    PANCRACE.
         Les doutes sont grans  
 Pour definir s'il est des appas⁎ differens.  
 Pythagore, Zenon, Aristote, Socrates,  
@@ -1856,17 +1854,17 @@ Carneade, Sapho, Theopraste, Lactance,
 Sophocles & Seneque, Euripide & Terence,  
 Crisippe, [192]  
 
-    JODELET 
+    JODELET.
         A quel besoin nommer tous ces demons ?  
 
-    PANCRACE
+    PANCRACE.
 C'est des Dieux des sçavans dont [193] je t'ay dit les noms,  
 Et j'en ay mille encor que manque de memoire,  
 
-    JODELET 
+    JODELET.
 Ah ! ne m'en nomme plus, je suis prest à te croire.  
 
-    PANCRACE
+    PANCRACE.
 Donc tous ces vieux sçavans n'ont pû nous exprimer,  
 D'où vient cet ascendant qui nous force d'aimer !  
 Les uns disent que c'est un vif esclair de flame,  
@@ -1874,10 +1872,10 @@ Qu'un estre independant alluma dans nostre ame,
 Et qui fait son effet mal-gré nostre pouvoir  
 Quand il treuve un objet⁎ propre à le recevoir.  
 
-    JODELET
+    JODELET.
 Les autres …  
 
-    PANCRACE 
+    PANCRACE. 
         Esclairez d'une moindre lumiere  
 Enveloppent sa force au sein de la matiere,  
 Et nomment un instinct ce premier mouvement  
@@ -1887,62 +1885,62 @@ En forme dans le sens des images pressantes,
 Qui n'en font le rapport à notre entendement  
 Qu'aprés s'estre engagé sans son consentement.  
 
-    JODELET *levant la main pour parler.*
+    JODELET *levant la main pour parler.*.
 Ainsi donc …  
 
-    PANCRACE *l'interrompant.*
+    PANCRACE *l'interrompant.*.
         Nous perdrions [194] le droict du libre arbitre⁎  
 
-    JODELET *veut parler.*
+    JODELET *veut parler.*.
 Mais …  
 
-    PANCRACE
+    PANCRACE.
         Il n'est point de mais, c'est nostre plus beau titre.  
 
-    JODELET *encor de mesme.*
+    JODELET *encor de mesme.*.
 Quoy …  
 
-    PANCRACE
+    PANCRACE.
         C'est parler en vain, l'ame a sa volonté.  
 
-    JODELET *encor de mesme.*
+    JODELET *encor de mesme.*.
 Il est vray …  
 
-    PANCRACE 
+    PANCRACE. 
         Nous naissons en pleine liberté.  
 
-    JODELET *voulant parler.*
+    JODELET *voulant parler.*.
 C'est sans doute …  
 
-    PANCRACE
+    PANCRACE.
         Autrement nostre essence est mortelle.  
 
-    JODELET *voulant parler.*
+    JODELET *voulant parler.*.
 D'effet …  
 
-    PANCRACE 
+    PANCRACE.
         Et nous n'aurions qu'une ame naturelle.  
 
-    JODELET
+    JODELET.
 Bon …  
 
-    PANCRACE
+    PANCRACE.
         C'est le sentiment que nous devons avoir.  
 
-    JODELET
+    JODELET.
 Donc …  
 
-    PANCRACE
+    PANCRACE.
         C'est la verité que nous devons sçavoir.  
 
-    JODELET
+    JODELET.
 Un mot …  
 
-    PANCRACE 
+    PANCRACE. 
         Quoy, voudrois-tu des ames radicales  
 Où [195] l'operation [196] pareille aux animales.  
 
-    JODELET *en luy voulant fermer la bouche.*
+    JODELET *en luy voulant fermer la bouche.*.
 Je voudrois te casser la gueule,  
 
     PANCRACE *en se desbarassant* [197].
@@ -1957,10 +1955,10 @@ Elle n'est pas de feu, d'air, d'eau, ny moins de terre,
 Ny le temperament des quatre qualitez  
 Qui renferme dans soy tant de diversitez.  
 
-    JODELET *s'appreste à parler.*
+    JODELET *s'appreste à parler.*.
 En fin  
 
-    PANCRACE
+    PANCRACE.
         Les mineraux produits d'air & de flame  
 Ont un temperament, mais ce n'est pas une ame.  
 L'ame est encore plus que n'est le mouvement,  
@@ -1970,29 +1968,29 @@ D'un arbre mort, le fruict, ou la feuille, ou l'escorce,
 Donnent à nos humeurs un secret mouvement,  
 L'ambre attire des corps, ainsi que fait l'aimant.  
 
-    JODELET *lassé.*
+    JODELET *lassé.*.
 Ah !  
 
-    PANCRACE 
+    PANCRACE.
         L'ame n'est donc pas cette aveugle puissance  
 Qui se meut ou qui fait mouvoir sans connoissance.  
 
-    JODELET *jettant son chapeau à terre.*
+    JODELET *jettant son chapeau à terre.*.
 J'enrage,  
 
-    PANCRACE
+    PANCRACE.
         Elle n'est pas le sang, comme on a dit.  
 
-    JODELET *en le regardant de colere⁎.*
+    JODELET *en le regardant de colere⁎.*.
 Parlera-t'il tousjours ? mais,  
 
-    PANCRACE 
+    PANCRACE.
         Ce mais m'estourdit.  
 
-    JODELET *fermant les poings.*
+    JODELET *fermant les poings.*.
 Peste.  
 
-    PANCRACE
+    PANCRACE.
         Nous pouvons voir des choses animées,  
 Qui sans avoir de sang avoient esté formées [198].  
 Il est des animaux qui n'en respandent pas  
@@ -2000,10 +1998,10 @@ Apres le coup fatal qui cause leur trespas.
 L'ame n'est pas aussi [199] l'acte ny l'energie,  
 C'est au corps qu'appartient le mot d'entelechie [200].  
 
-    JODELET
+    JODELET.
 Hola :  
 
-    PANCRACE
+    PANCRACE.
         Preste l'oreille à mes solutions,  
 L'ame n'ayant donc point ces definitions  
 Pour te faire sçavoir comme elle est immortelle.  
@@ -2022,33 +2020,33 @@ Pour faire un composé sceut renfermer en elle
 La nature divine avecque la mortelle,  
 Aussi l'ame à l'arbitre⁎.  
 
-    JODELET
+    JODELET.
         Ah ! c'est trop arbitré  
 Au diable le moment que [201] je t'ay rencontré.  
 
-    PANCRACE
+    PANCRACE.
 Au diable le pendart⁎ qui ne veut rien apprendre.  
 
-    JODELET
+    JODELET.
 Au diable les sçavans, & qui les peut comprendre.  
 
-    PANCRACE
+    PANCRACE.
 Va, si tu m'y retiens on y verra beau bruit [202],  
 Mais …  
 
-    JODELET
+    JODELET.
         Encor me parler, bon soir & bonne nuit.  
 Fin du premier Acte. 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ARISTE, OLIMPE.
 
 
-    ARISTE
+    ARISTE.
 Madame, j'ay donné le pacquet à Leonce [203],  
 Qui dans peu par la poste apportera réponce ;  
 Et quand de vos parens l'ordre sera venu,  
@@ -2056,7 +2054,7 @@ Je me feray connoistre à qui m'a mesconnu,
 Et vangeray l'affront que vous fait un infame [204]  
 Qui vous contraint par force à vous dire sa fâme.  
 
-    OLIMPE
+    OLIMPE.
 Attendez donc ce temps, & faites comme moy,  
 Pour destourner le cours des maux que je prevoy,  
 Si je n'eusse donné quelque vaine esperance  
@@ -2069,71 +2067,71 @@ Par ces destours adroits j'ay treuvé les moyens
 De retourner bien-tost entre les bras des miens,  
 Et de sauver l'honneur où je devois tout craindre.  
 
-    ARISTE
+    ARISTE.
 Sa mort …  
 
-    OLIMPE
+    OLIMPE.
         Ah ! sur ce poinct taschez de vous contraindre  
 En m'ostant de ses mains, c'est le punir assez,  
 Et vous devez songer si vous me cherissez,  
 Que les soins qu'il a pris pour m'avoir conservée  
 Meritent le pardon de m'avoir enlevée.  
 
-    ARISTE
+    ARISTE.
 Pour nous vanger tous deux j'immoleray ses jours.  
 
-    OLIMPE
+    OLIMPE.
 Me pouvez-vous aimer & tenir ce discours.  
 
-    ARISTE
+    ARISTE.
 Une si longue feinte est une ardente⁎ preuve  
 De l'estat miserable où mon ame se treuve :  
 Et tant de veritez se doivent appuyer  
 Par les divers affronts qu'il me faut essuyer.  
 
-    OLIMPE
+    OLIMPE.
 Il faut donner au temps ces lasches deferences⁎  
 Qu'il exige de nous pour finir nos souffrances.  
 
-    ARISTE
+    ARISTE.
 Aussi vous me verrez d'un esprit resigné  
 Satisfait, & confus, content & desdaigné.  
 Mais je crois voir venir Oronthe avec Climante.  
 
-    ARISTE
+    ARISTE.
 Evitons leur rencontre elle est trop deplaisante,  
 Comme en nous promenant marchons negligemment,  
 Nous reviendrons…  
 
 
-### SCENE II
+### SCENE II.
 CLIMANTE, ORONTHE.
 
 
-    ORONTHE
+    ORONTHE.
         Olimpe en rit à tout moment,  
 Mais qui croiroit jamais une telle innocence ?  
 
-    CLIMANTE
+    CLIMANTE.
 Elle passe au delà de toute la creance⁎.  
 
-    ORONTHE
+    ORONTHE.
 En fin vous connoissez l'esprit du pelerin [205] :  
 
-    CLIMANTE
+    CLIMANTE.
 Je ne l'aurois pas cru, ny si sot, ny si vain.  
 
-    ORONTHE
+    ORONTHE.
 Mais fust-il encor pis, Olimpe le desire,  
 Et treuve en le joüant tant de sujets de rire,  
 Qu'elle est de belle humeur à le voir seulement !  
 Ce qui pour l'adoucir me sert infiniment.  
 
-    CLIMANTE
+    CLIMANTE.
 Mais il faut luy joüer des pieces d'importance  
 Pour luy donner plaisir de son extravagance⁎.  
 
-    ORONTHE
+    ORONTHE.
 Il m'est venu treuver dedans le cabinet,  
 Où nous entretenant des graces du Sonnet,  
 Par des galimathias⁎ d'une assez longue haleine  
@@ -2159,185 +2157,185 @@ Que ce mot de jaloux n'estoit pas dit pour moy,
 Qu'Olimpe n'estoit pas le sujet de sa rime,  
 Et qu'il n'avoit pour elle autre amour que l'estime.  
 
-    CLIMANTE
+    CLIMANTE.
 Mais qu'avez vous promis ?  
 
-    ORONTHE
+    ORONTHE.
         Pour nous joüer de luy,  
 J'ay promis de luy faire une Stance aujourd'huy,  
 Ce pendant je ne sçay si je tiendray parole ;  
 Mais vous en sçavez faire, & cela me console.  
 
-    CLIMANTE
+    CLIMANTE.
 Les vers me coustent trop, & je veux desormais,  
 Hors pour un bel objet⁎ n'en escrire jamais.  
 
-    ORONTHE 
+    ORONTHE. 
 Si les seules beautez eschauffent vostre muse,  
 Vous ne pourrez treuver de legitime excuse,  
 Olimpe pour qui c'est ne manque point d'appas⁎.  
 
-    CLIMANTE *bas la moitié du vers.*
+    CLIMANTE *bas la moitié du vers.*.
 Feignons, elle en a trop. Mais je ne l'aime pas.  
 
-    ORONTHE
+    ORONTHE.
 Puis qu'il faut vous resoudre à prendre cette peine,  
 Et qu'amour seul a droict d'animer vostre veine,  
 Croyez pour m'obliger en cette occasion  
 Qu'Olimpe est le subjet de vostre affection ;  
 Pensez à ces beaux yeux, conservez en l'image.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Il est bien mal-aisé d'y penser davantage.  
 
-    ORONTHE
+    ORONTHE.
 Songez à son beau teint, à son esprit charmant,  
 A sa taille, à son port.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         J'y songe à tout moment.  
 
-    ORONTHE
+    ORONTHE.
 Ayant devant les yeux un si parfaict modelle,  
 Vous nous ferez au moins une Stance assez belle,  
 Et quand devant Olimpe Ariste les dira,  
 C'est pour moy seulement que le fat⁎ parlera.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Ou plustot pour moy seul.  
 
-    ORONTHE
+    ORONTHE.
         S'il n'estoit necessaire  
 Que d'escrire à Bordeaux [208], que par l'autre ordinaire,  
 Je vous espargnerois la peine de rîmer,  
 Et de feindre qu'Olimpe auroit pû vous charmer⁎.  
 
-    CLIMANTE
+    CLIMANTE.
 Je sçay ce qu'elle vaut.  
 
-    ORONTHE
+    ORONTHE.
         C'est un astre visible.  
 
-    CLIMANTE
+    CLIMANTE.
 Vous parlez en amant.  
 
-    ORONTHE
+    ORONTHE.
         Et vous en insensible.  
 
-    CLIMANTE
+    CLIMANTE.
 J'ay des yeux qui sont bons, & connois ses appas⁎.  
 
-    ORONTHE 
+    ORONTHE. 
 Vous les connoissez mal !  
 
-    CLIMANTE
+    CLIMANTE.
         Vous ne m'entendez pas.  
 Et ne comprenez point de quel air je l'honore.  
 
-    ORONTHE
+    ORONTHE.
 C'est peu que l'honorer, il faut que l'on l'adore.  
 
-    CLIMANTE
+    CLIMANTE.
 M'en deussiez vous haïr, je puis vous asseurer,  
 De ne dire jamais que je veux l'adorer.  
 Sçachons plustôt comment je feray mon ouvrage.  
 
-    ORONTHE
+    ORONTHE.
 Mais la voicy qui vient avec le personnage.   
 
 
-### SCENE III
+### SCENE III.
 CLIMANTE, ORONTHE, OLIMPE, ARISTE.
 
 
-    ORONTHE
+    ORONTHE.
 Vous trouver sans Lisette, & de plus avec luy ?  
 
-    OLIMPE *d'un air enjoüé.*
+    OLIMPE *d'un air enjoüé.*.
 Je voudrois y pouvoir estre tout aujourd'huy  
 En est-ce assez ?  
 
-    ORONTHE
+    ORONTHE.
         C'est trop ; mais dans la promenade,  
 De quoy [209] vous parloit-il ?  
 
-    OLIMPE
+    OLIMPE.
         De donner serenade.  
 
-    ORONTHE
+    ORONTHE.
 Quand ?  
 
-    ARISTE
+    ARISTE.
     Un de ces matins.  
 
-    ORONTHE
+    ORONTHE.
     Sans faute ?  
 
-    ARISTE 
+    ARISTE. 
         C'en est fait.  
 
-    ORONTHE
+    ORONTHE.
 S'il n'a dit que cela, je reste satisfait ;  
 Mais il a l'autre jour promis la Comedie,  
 Et ne s'en souvient plus, il faut que je le die.  
 
-    ARISTE
+    ARISTE.
 Ne taschez point par là de me perdre d'honneur,  
 Je m'en dois souvenir si j'en fais mon bon-heur  
 Si vous voulez demain venir voir Rodogune [210];  
 Les vers en sont fort beaux, l'intrigue peu commune,  
 Et sur tout cette mere a de grands mouvemens.  
 
-    OLIMPE
+    OLIMPE.
 Encor dites nous en quelques beaux sentiments.  
 
-    ARISTE
+    ARISTE.
 Il ne m'en souvient plus.  
 
-    OLIMPE
+    OLIMPE.
     Mais encore ?  
 
-    ORONTHE
+    ORONTHE.
         De grace.  
 
-    ARISTE
+    ARISTE.
 Je sçay bien qu'elle dit mes enfants prenez place [211].  
 
-    ORONTHE
+    ORONTHE.
 Au moins je la veux voir & Pancrace avec moy  
 
-    ARISTE 
+    ARISTE. 
 Allez je vous respons de la loge du Roy [212]  
 Vous verrez mon credit.  
 
-    ORONTHE
+    ORONTHE.
         Sur tout la serenade,  
 
-    ARISTE
+    ARISTE.
 Vous m'y verrez moy-mesme ou je seray malade.  
 
 
-### SCENE IV
+### SCENE IV.
 ORONTHE, OLIMPE, CLIMANTE.
 
 
-    ORONTHE
+    ORONTHE.
 Ces vers pour un jaloux ...  
 
-    OLIMPE
+    OLIMPE.
         Il me les a promis.  
 Hé bien !  
 
-    ORONTHE
+    ORONTHE.
         Pour vous loüer on treuve des amis.  
 Climante prend sur luy cette charge agreable,  
 D'autant [213] plus aysement que l'objet⁎ est aimable⁎.  
 
-    CLIMANTE
+    CLIMANTE.
 Que diray-je pour estre en tous vos sentimens,  
 Dites moy…  
 
-    ORONTHE
+    ORONTHE.
         Nommez vous le Phenix° dés amans ?  
 Et pour joüer Ariste avec un peu d'adresse,  
 Traittez moy de jaloux auprés de ma maistresse,  
@@ -2347,49 +2345,49 @@ Et que mourant d'amour auprés de cette belle,
 Vous n'osez tesmoigner la moindre ardeur pour elle ;  
 Mais sur tout que ce soit sous des noms empruntez.  
 
-    CLIMANTE
+    CLIMANTE.
 A la fin je conçois ce que vous souhaitez,  
 Je dois parler ainsi faisant parler Ariste  
 Qui recitant ces vers sous le nom de Caliste°,  
 Croyant parler pour soy fera l'amour pour vous,  
 Et sera par ce traict l'amant & le jaloux.  
 
-    ORONTHE
+    ORONTHE.
 D'une mauvaise adresse avec celle que j'aime,  
 En me croyant joüer, il se joüra luy-mesme,  
 
-    OLIMPE 
+    OLIMPE. 
 Quel plaisir de luy voir contrefaire le fin ?  
 
-    ORONTHE
+    ORONTHE.
 Au moins nous en rirons.  
 
-    CLIMANTE
+    CLIMANTE.
         J'y vay mettre la main,  
 Un tour dans cette allée [214] achevera l'ouvrage.  
 L'agreable travail où mon rival m'engage ! [215]  
 
 
-### SCENE V
+### SCENE V.
 ORONTHE, OLIMPE.
 
 
-    ORONTHE
+    ORONTHE.
 He bien commencez vous de respirer icy,  
 Et pour moy vostre esprit n'est-il pas adoucy ?  
 
-    OLIMPE
+    OLIMPE.
 Dans la melancholie où vous m'aviez plongée,  
 Je confesse qu'en fin je vous suis obligée ;  
 Et pour me divertir tant de bons traittemens,  
 Ont bien droict d'effacer mes mescontentemens.  
 
-    ORONTHE 
+    ORONTHE. 
 Aprés l'enlevement que l'amour me fit faire,  
 Mon respect est si grand, qu'il n'est pas ordinaire,  
 Et loin de vous presser,  
 
-    OLIMPE
+    OLIMPE.
         Je le reconnois bien.  
 Aussi ne pensez pas qu'il ne serve rien,  
 Et tenez asseuré qu'une ame genereuse  
@@ -2397,7 +2395,7 @@ En payant un bien-fait se tient tousjours heureuse.
 Vous prenez trop de soin pour chasser mon ennuy⁎  
 Ariste …  
 
-    ORONTHE
+    ORONTHE.
         Il faut luy faire une piece aujourd'huy.  
 Dites luy que ce soir je dois souper en ville,  
 Que de vous voir la nuict il sera tres-facile ;  
@@ -2412,32 +2410,32 @@ L'ayant tiré des mains de ceux de la cabale [216],
 Le bernerons d'avoir hazardé son trespas,  
 Pour vous aller treuver lors que je n'y suis pas.  
 
-    OLIMPE
+    OLIMPE.
 Mais Archer ?  
 
-    ORONTHE
+    ORONTHE.
         Dites luy que c'est le mieux du monde  
 Puis que dans ce quartier le Guet faisant sa ronde,  
 Il peut roder icy sans estre reconnu.  
 
-    OLIMPE
+    OLIMPE.
 Mais ces Archers,  
 
-    ORONTHE
+    ORONTHE.
         Sçauront ce qu'est cet ingenu.  
 
 
-### SCENE VI
+### SCENE VI.
 OLIMPE, ORONTHE, CLIMANTE.
 
 
-    OLIMPE
+    OLIMPE.
 Climante vient.  
 
-    ORONTHE
+    ORONTHE.
         Hé bien la Stance est-elle faite ?  
 
-    CLIMANTE 
+    CLIMANTE. 
 Non, j'ay trouvé là bas Pancrace avec Lizette  
 Qui se parloient si haut que troublant mon objet  
 Je n'ay pû seulement qu'en tracer le projet.  
@@ -2464,39 +2462,39 @@ Le mortel ennemy de mes plus doux plaisirs,
 Et dedans les transports de l'ardeur qui m'enflâme,  
 C'est l'effroy⁎ de mes yeux & l'horreur⁎ de mon ame !  
 
-    ORONTHE 
+    ORONTHE. 
 Nous en aurons tantost un plaisir assez doux ;  
 Mais redonnez encor quelque touche au jaloux.  
 
-    OLIMPE
+    OLIMPE.
 D'effet [217], redonnez luy quelque nouvelle touche.  
 
-    ORONTHE
+    ORONTHE.
 L'arrest est prononcé d'une trop belle bouche,  
 Tenez donc pour certain que vous m'obligerez  
 D'en dire plus de mal que vous n'en jugerez,  
 Plus vous luy donnerez moyen de nous en dire,  
 Plus vous nous donnerez subjet de nous en rire.  
 
-    OLIMPE
+    OLIMPE.
 Il croira vous joüer souz ce nom de jaloux.  
 
-    ORONTHE
+    ORONTHE.
 C'est en quoy le plaisir en doit estre assez doux.  
 
-    CLIMANTE *à OLIMPE*
+    CLIMANTE *à OLIMPE*.
 En effet nous verrons travailler sa finesse  
 Pour dire je vous ayme, avec un peu d'adresse,  
 Et pour accompagner ces discours amoureux  
 D'un geste & d'un regard qui vous parlent comme eux.  
 
-    ORONTHE
+    ORONTHE.
 Passant pour le plus fin dedans sa fantaisie⁎,  
 Quel plaisir de luy voir blasmer la jalousie,  
 Et de nostre équivoque ignorant tous les nœuds  
 Se jouër de luy-mesme en riant de nous deux ?  
 
-    CLIMANTE *à OLIMPE*
+    CLIMANTE *à OLIMPE*.
 Je le croy desja voir pour peu qu'il reussisse  
 Devenir glorieux d'un mauvais artifice  
 Alors qu'il vous dira, j'adore vos appas⁎.  
@@ -2507,77 +2505,77 @@ Et mon bon-heur en fin va jùsqu'au dernier poinct,
 Puis qu'un Rival m'escoute, & ne me comprend point.  
 Ce sont les mesmes [218] mots que je veux qu'il vous die.  
 
-    OLIMPE
+    OLIMPE.
 L'equivoque en plairoit dans une Comedie.  
 
-    ORONTHE
+    ORONTHE.
 Mais souvenez vous en, & …  
 
-    CLIMANTE
+    CLIMANTE.
         Je vous le promets.  
 
-    ORONTHE
+    ORONTHE.
 La Dupe s'en rira.  
 
-    CLIMANTE
+    CLIMANTE.
         Le trait n'est pas mauvais.  
 
-    OLIMPE 
+    OLIMPE. 
 Ce pendant⁎ que diray-je à cet amant fidele ?  
 
-    ORONTHE
+    ORONTHE.
 Que d'une forte ardeur vous payerez son zele,  
 Et recompenserez ses amoureux desirs  
 De tout ce que l'honneur vous permet de plaisirs.  
 
-    OLIMPE *bas.*
+    OLIMPE *bas.*.
 En tenant ces discours que sa prudence est forte !  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Qu'elle m'obligera luy parlant de la sorte !  
 
-    ORONTHE
+    ORONTHE.
 Dieux ! que j'auray de joye en l'entendant parler !  
 
-    OLIMPE *haut.*
+    OLIMPE *haut.*.
 Que j'auray du plaisir à bien dissimuler !  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Que de ces mots adroits je luy suis redevable !  
 
-    ORONTHE
+    ORONTHE.
 Mais allez commencer cet intrigue agreable,  
 Cependant que [219] flatté d'un assez bon succez  
 J'escriray pour sçavoir l'estat de mon procez. [220]  
 
-    CLIMANTE
+    CLIMANTE.
 Puis que mon rival veut que je parle, & que j'ose,  
 Il aura beau plaider, je gaigneray ma cause.  
 
-    OLIMPE
+    OLIMPE.
 Et de tout ce que j'ayme ayant eu l'entretien  
 Vous pourrez tout gaigner sans que j'y perde rien.  
 
-    CLIMANTE
+    CLIMANTE.
 En fin je puis parler, & mon bon-heur …  
 
-    OLIMPE
+    OLIMPE.
         De grace,  
 Ne continuez point, je vois venir Pancrace,  
 Que pour me delivrer il vient bien à propos ! [221]  
 
-    CLIMANTE
+    CLIMANTE.
 Faut il que ce brutal traverse mon repos ?  
 
 
-### SCENE VII 
+### SCENE VII. 
 PANCRACE, LISETTE.
 
 
-    LISETTE
+    LISETTE.
 Quoy, pour moy ta follie est toûjours sans pareille  
 
-    PANCRACE *en la poursuivant.*
+    PANCRACE *en la poursuivant.*.
 Ah ! cruelle, ah ! bachante° [222], ah ! scitique [223] merveille !  
 De l'élement nitreux⁎ le monstre le plus fier⁎  
 Se rendroit plus sensible en m'escoutant prier,  
@@ -2601,10 +2599,10 @@ Cruelle, arreste un peu ! ces regards homicides.
 Sont bons dans le Cocyte° aux yeux des Eumenides°,  
 Mais toy ?  
 
-    LISETTE
+    LISETTE.
         Le bel Amant avec son poil grison !  
 
-    PANCRACE
+    PANCRACE.
 Je puis me rajeunir mieux que ne fit Eson°,  
 Et domtant la rigueur des fieres⁎ destinées  
 Dérober à Cloton° le fil de mes années  
@@ -2615,10 +2613,10 @@ J'emprunteray d'un Dieu l'éclat & la lumière
 Et devenu divin par sa reflexion,  
 N'iray jamais de l'estre à la privation.  
 
-    LISETTE
+    LISETTE.
 Tu n'es qu'un cajoleur avec tes balivernes !  
 
-    PANCRACE
+    PANCRACE.
 Je suis sot en effet souffrant⁎ que tu me bernes,  
 Mais Ovide m'apprend dedans son art d'aimer  
 Qu'au veritable Amant rien ne doit estre amer :  
@@ -2631,7 +2629,7 @@ Se donnast toute entiere à cette belle idée,
 Et moy qui les connois, & qui vaux mieux qu'eux tous  
 Je veux tout endurer & tout souffrir⁎ pour vous.  
 
-    LISETTE
+    LISETTE.
 Le bel ameublement [228] qu'un Amant à Calote [229]  
 Voyez ce qu'il veut dire avec son Aristote,  
 Sa Piqueure à Ploton [230], & ses brides à veaux [231],  
@@ -2641,7 +2639,7 @@ Ou ne haranguez point, ou ne raillez personne,
 Car si je ne suis pas la perle de Paris,  
 Vous ne devez pas croire estre le beau Paris° [233].  
 
-    PANCRACE
+    PANCRACE.
 Celle qui descendit de la voûte estoilée  
 Pour se faire admirer aux nopces de Pelée°,  
 Et fut [234] apres porter dessus le mont Ida°,  
@@ -2661,12 +2659,12 @@ Il en renaist un autre avec plus de vertu⁎.
 Jugez s'il est aisé de luy donner la gesne⁎,  
 Et ce que peut l'objet⁎ qui le met à la chaisne ?  
 
-    LISETTE
+    LISETTE.
 Moy ! je pourrois aymer ce nez de Harlequin [235],  
 Ce poil de Goupillon, & cet œil de Bouquin [236]  
 Pour attraper la Miche⁎ allez à l'autre porte.  
 
-    PANCRACE
+    PANCRACE.
 Aymable & cher objet⁎, traitez moy d'autre sorte [237],  
 L'Ironie est choquante à [238] l'esprit d'un Amant  
 Qui n'a pas recognu qu'on l'ayme infiniment,  
@@ -2682,62 +2680,62 @@ Le Sarcasme est plaisant, fuyant le Kacozelle [241],
 L'Apophtegme [242] est sçavant, & l'Hiperbole est belle,  
 Alors …  
 
-    LISETTE
+    LISETTE.
     Adieu, Docteur.  
 
-    PANCRACE
+    PANCRACE.
         Escoute ma raison.  
 Un mot.  
 
-    LISETTE
+    LISETTE.
         Il faut aller balayer la maison.  
 
-    PANCRACE
+    PANCRACE.
 Helas ! je voudroy bien que ton ame abstersive [243]  
 Chassast loin de mon cœur une douleur trop vive,  
 Et qu'en y balayant des tristesses d'amour,  
 Tu le fisses passer de la poussiere au jour !  
 
-    LISETTE 
+    LISETTE. 
 Bon, mais il faut aller faire mettre sur table [244].  
 
-    PANCRACE
+    PANCRACE.
 Helas, fais bien plustost repaistre un miserable !  
 Et de mille douceurs luy faisant un festin,  
 Fais le vivre d'amour, & change son destin !  
 
-    LISETTE
+    LISETTE.
 Il faut que j'aille en fin …  
 
-    PANCRACE
+    PANCRACE.
         Quoy, poignarder Pancrace ?  
 
-    LISETTE
+    LISETTE.
 Faire allumer du feu dans la salle ;  
 
-    PANCRACE
+    PANCRACE.
         Ah, de grace !  
 Ma chere Dulcinee, attens encor un peu,  
 Et loing de t'en aller faire allumer du feu,  
 Appaise dans mon cœur la devorante flâme  
 Qui met mon corps en cendre, & consomme⁎ mon ame !  
 
-    LIZETTE *en voulant s'enfuir.*
+    LIZETTE *en voulant s'enfuir.*.
 Bon Dieu ! je n'ay pas fait nettoyer le jardin,  
 Monsieur criera tantost.  
 
-    PANCRACE 
+    PANCRACE. 
         Tu veux t'en fuir en vain,  
 Et tu dois bien plustost par ta grace divine  
 Arracher de mon cœur les soucis & l'espine,  
 Et ne pas endurer qu'un chardon rigoureux  
 Se treuve avec le Mirthe, & le Treffle amoureux.  
 
-    LISETTE
+    LISETTE.
 Il faut faire apporter de l'eauë de la fontaine,  
 La riviere est mauvaise.  
 
-    PANCRACE
+    PANCRACE.
         Helas ! belle inhumaine,  
 Tu peux te satisfaire apres tant de douleurs,  
 Et ne prendre de l'eauë qu'au torrent de mes pleurs,  
@@ -2750,14 +2748,14 @@ Et plaignons nous à luy d'un si sensible outrage.
 Fin du second Acte. 
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CLIMANTE, OLIMPE.
 
 
-    CLIMANTE
+    CLIMANTE.
 En vain j'ay pratiqué tout ce que la prudence,  
 A de plus reservé dedans sa confidence ;      
 En vain j'ay moderé toutes mes passions  
@@ -2771,7 +2769,7 @@ Puis qu'en fin ma douleur n'en est pas appaisée,
 Et que je ne sçaurois trouver un seul moment,  
 Pour vous entretenir & vous voir librement.  
 
-    OLIMPE 
+    OLIMPE. 
 Feignons [245] … Quelle raison vous oblige à vous plaindre ?  
 Ne me voyez vous pas si souvent me contraindre  
 Quand je preste l'oreille à ce jeune innocent  
@@ -2789,153 +2787,153 @@ Qu'il me suit en tous lieux & me parle sans cesse ;
 Pourquoy vous plaignez vous de me parler si peu  
 Moy qui brûle au moment que vous estes en feu ?  
 
-    CLIMANTE
+    CLIMANTE.
 Vous ayant fait resoudre à cette complaisance,  
 D'oüir un ingenu parler de ma souffrance⁎ ;  
 C'est assez en effet du bien que je reçoy  
 Lors que j'oblige un autre à vous parler pour moy.  
 
-    OLIMPE
+    OLIMPE.
 Ainsy vous agirez d'un air prudent & sage  
 Et me donnerez lieu de vous voir davantage ;  
 Car enfin [246] il suffit qu'Ariste en ses discours  
 Me parlant de ses feux m'explique vos amours.  
 Le sot a mes faveurs pour les rendre à Climante !  
 
-    CLIMANTE
+    CLIMANTE.
 L'adressse en est subtille  
 
-    OLIMPE
+    OLIMPE.
         Et n'est pas desplaisante.  
 Donc sans faire un jaloux obligez desormais,  
 Ariste de tout dire & ne parlez jamais !  
 
-    CLIMANTE
+    CLIMANTE.
 Vous verrez mon amour dans mon obeïssance  
 
-    OLIMPE
+    OLIMPE.
 Rien ne me plaist de vous à l'égal du silence.  
 Et le profond respect que vous me tesmoignez  
 Descouvre vostre amour plus vous le contraignez.  
 
-    CLIMANTE
+    CLIMANTE.
 Voyez le donc souvent, cet Ariste !  
 
-    OLIMPE
+    OLIMPE.
         Ah Climante !  
 Qu'il ne me quitte point & j'en seray contente !  
 
-    CLIMANTE
+    CLIMANTE.
 Tout importun qu'il est endurez ses souspirs !  
 
-    OLIMPE 
+    OLIMPE. 
 Je puis bien l'endurer s'il sert à mes plaisirs.  
 
-    CLIMANTE
+    CLIMANTE.
 C'est en quoy je vous suis doublement redevable.  
 
-    OLIMPE
+    OLIMPE.
 C'est seulement à moy que je suis favorable.  
 
-    CLIMANTE
+    CLIMANTE.
 Que dois-je repartir à ce discours flateur ?  
 
-    OLIMPE
+    OLIMPE.
 Au moins s'il ne vous flate, il est party du cœur.  
 
-    CLIMANTE
+    CLIMANTE.
 Que je resens de joye en ces douces contraintes !  
 
-    OLIMPE
+    OLIMPE.
 Que de douceurs amour accompagnent tes feintes !  
 
-    CLIMANTE
+    CLIMANTE.
 Nous vivons sans donner aucun soupçon de nous.  
 
     OLIMPE *voulant parler d'Ariste & d'elle* [247].
 Nous nous aimons tous deux sans faire des jaloux.  
 
-    CLIMANTE 
+    CLIMANTE. 
 Donc pour continuer à soulager ma peine  
 Flatez un ingenu d'une esperance vaine ;  
 Et d'un peu de faveurs veuillez le consoler ;  
 Afin qu'il ait tousjours dessein de vous parler.  
 
-    OLIMPE
+    OLIMPE.
 Pour avoir ce plaisir par une adresse extréme,  
 Vous me verrez cent fois luy dire ? [248] que je l'aime.  
 
-    CLIMANTE
+    CLIMANTE.
 Si vous continuez vous me rendrez confus,  
 
-    OLIMPE
+    OLIMPE.
 Vous me verrez tousjours la mesme que je fus.  
 
-    CLIMANTE
+    CLIMANTE.
 Ariste… Quelqu'un vient ? Rencontre deplaisante !  
 
-    OLIMPE
+    OLIMPE.
 Pour me dire le reste, envoyez-le, Climante !  
 
 
-### SCENE II 
+### SCENE II. 
 CLIMANTE, OLIMPE, LISETTE.
 
 
-    LISETTE
+    LISETTE.
 Un marchand du Palais [249] demande à vous parler.  
 
-    OLIMPE
+    OLIMPE.
 Qu'il attende !  
 
-    LISETTE
+    LISETTE.
         Il paroist pressé de s'en aller.  
 
-    CLIMANTE
+    CLIMANTE.
 Qu'il revienne tantost ; ne plaignez point ses peines.  
 
-    LISETTE
+    LISETTE.
 Un linger [250] vient d'entrer avec des points de génes.  
 
-    OLIMPE
+    OLIMPE.
 Qu'il s'en aille ! j'iray le voir en sa maison.  
 
-    LISETTE
+    LISETTE.
 Le renvoyer cent fois c'est estre sans raison !  
 On n'a point de pitié des pauvres gens !  
 
-    OLIMPE
+    OLIMPE.
         Lisette !  
 J'y vay ? [251] c'est mépier d'une façon adroitte.  
 
-    CLIMANTE  *monstrant le Docteur qui vient.*
+    CLIMANTE *monstrant le Docteur qui vient.*.
 Encor' un surveillant ?  
 
 
-### SCENE III
+### SCENE III.
 CLIMANTE, LISETTE, OLIMPE, PANCRACE.
 
 
-    PANCRACE *à Climante.*
+    PANCRACE *à Climante.*.
         Quatre mots, s'il vous plaist.  
 Mon maistre vous expecte⁎, & dit que tout est prest :  
 Qu'il a veu les Archers, & qu'il est tantost l'heure  
 D'attendre le Badaut⁎.  
 
-    CLIMANTE
+    CLIMANTE.
         Nous rirons, ou je meure [252].  
 Allons Madame !  
 
-    OLIMPE 
+    OLIMPE. 
     Allons.  
 
-    PANCRACE *arrestant Lisette qui s'en va.*
+    PANCRACE *arrestant Lisette qui s'en va.*.
         Quoy sans amour tousjours ?  
 
-    LISETTE
+    LISETTE.
 Adieu je ne veux point ny d'amant ny d'amours.  
 
-    PANCRACE
+    PANCRACE.
 Mais ce grand Dieu pourtant anime toutes choses,  
 L'estre, ayme son principe, & les effets leurs causes  
 La nature l'instinct, l'astre son ascendant,  
@@ -2945,10 +2943,10 @@ Calma les Elemens dans leurs antipathies :
 Et formant l'union de leurs diversitez,  
 Sceut faire un composé des quatre qualitez.  
 
-    LISETTE
+    LISETTE.
 Mais au moins …  
 
-    PANCRACE
+    PANCRACE.
         Le soleil amoureux de la terre,  
 En tire les vapeurs dont il fait le tonnerre ;  
 Et la descharge ainsi des esprits empestez  
@@ -2962,10 +2960,10 @@ Qui nous donne les fruits, & produit l'abondance.
 C'est l'esprit animant de l'estre sensitif,  
 Et du rationel & du vegetatif.  
 
-    LISETTE
+    LISETTE.
 Adieu.  
 
-    PANCRACE
+    PANCRACE.
         Les vents qui font trembler les Nereïdes°,  
 Les obligent d'aller dans leurs grottes humides,  
 Pour y ressusciter les Tritons° langoureux,  
@@ -2975,10 +2973,10 @@ Faisans hommage au Ciel, parlent d'amour aux herbes.
 Bref tout ce qui subsiste, ou ce qui void le jour,  
 Reconnoit la nature, & conçoit de l'amour.  
 
-    LISETTE
+    LISETTE.
 Tout ce que tu me dis ne servira de gueres.  
 
-    PANCRACE 
+    PANCRACE. 
 Que s'il faut m'abaisser aux exemples vulgaires,  
 Et me servir icy des termes triviaux,  
 Tu connoistras qu'en tout je n'eus jamais d'egaux.  
@@ -2996,9 +2994,9 @@ Et moy qui suis Docteur in utroque juré [255],
 Je n'aime que toy seule, ou le bonnet quarré [256].  
 
 
-### SCENE IV
+### SCENE IV.
 
-    PANCRACE *seul.*
+    PANCRACE *seul.*.
 
 Elle fuit ! & je suis feru [257],  
 Ma poitrine est mortiferée [258],  
@@ -3062,27 +3060,26 @@ Coule tout nitreux⁎ dans mes veines.
 Mais quelqu'un vient icy, füions ;  
 
 
-### SCENE V
+### SCENE V.
 ARISTE, OLIMPE, JODELET.
 
 
-    ARISTE *seul le nez dans son manteau & faisant signe à quelqu'un de se cacher.*
+    ARISTE *seul le nez dans son manteau & faisant signe à quelqu'un de se cacher.*.
         La nuict est sombre ;  
 Et je puis m'introduire à la faveur de l'ombre ;  
 Cht ; l'on ne m'entend point, hem, hem.  
 
-    OLIMPE
+    OLIMPE.
         Je suis à vous.  
 
-    ARISTE
-             
+    ARISTE. 
 Hé bien !  
 
-    OLIMPE
+    OLIMPE.
         Ils sont allez faire les loups garous⁎,  
 Et croyent vous joüer une piece excellente.  
 
-    ARISTE
+    ARISTE.
 Pour les contrejoüer d'une façon galante,  
 J'ay fait au lieu de moy déguiser Jodelet,  
 Qui loin de vous porter un amoureux poulet⁎,  
@@ -3095,10 +3092,10 @@ Lors que je ne viens pas suivant l'heure donnée,
 Pour rendre en ma faveur vostre esprit adoucy,  
 J'ay fait des bouts rihmés, que j'ay descrits aussy.  
 
-    OLIMPE
+    OLIMPE.
 Ils les y surprendront.  
 
-    ARISTE
+    ARISTE.
         Par cette raillerie,  
 J'enchery galamment dessus leur fourberie ;  
 Car en fin ces badaux⁎ en m'en tenant plus sot  
@@ -3106,17 +3103,17 @@ Ne me croiront pas homme à vous dire le mot ;
 Et me voyant aimer avec tant d'innocence,  
 Me laisseront enfin agir sans deffiance.  
 
-    OLIMPE
+    OLIMPE.
 Voyant vostre valet ils seront bien trompez.  
 
-    ARISTE
+    ARISTE.
 Et ceux qui le prendront encor plus attrapez.  
 
-    OLIMPE
+    OLIMPE.
 Ils pensent qu'ils feront manquer la serenade,  
 Et qu'ils vous berneront apres cette cassade⁎.  
 
-    ARISTE
+    ARISTE.
 Je tiendray ma parole & les dupperay tous,  
 Mais quand pour me joüer ils s'esloignent de nous,  
 Proffitons de ce temps & jusqu'à l'heure expresse  
@@ -3128,22 +3125,22 @@ Elle vous face voir comme elle vous adore,
 Et ne soustient jamais vostre divin aspect,  
 Sans changer son amour en un profond respect.  
 
-    OLIMPE 
+    OLIMPE. 
 A des conditions je veux vous le permettre.  
 
-    ARISTE
+    ARISTE.
 Qui sont ?  
 
-    OLIMPE
+    OLIMPE.
         De me montrer les vers de vostre lettre.  
 
-    ARISTE
+    ARISTE.
 Le cachet ?…  
 
-    OLIMPE
+    OLIMPE.
         Mais par cœur vous le devez sçavoir !  
 
-    ARISTE
+    ARISTE.
 
 Pour m'en ressouvenir je feray mon pouvoir.  
 J'y suis…les Rihmes sont figue, jaloux, & ligue  
@@ -3171,26 +3168,26 @@ Et me croit un cheval quand il n'est qu'un… oison⁎.
 FIN
 Puis je mieux m'expliquer à moins que je le nomme ?  
 
-    OLIMPE
+    OLIMPE.
 Je les treuve trop beaux pour sentir le jeune homme.  
 Ostez les… [270]  
 
-    ARISTE
+    ARISTE.
         C'est en vain que vous vous allarmez !  
 
-    OLIMPE 
+    OLIMPE. 
 Pourquoy ?  
 
-    ARISTE
+    ARISTE.
         Ne craignez rien ce sont vers imprimez  
 Et j'avois concerté cette seconde addresse,  
 Pour les dupper encor' avec plus de finesse,  
 Et m'establir chez eux pour fat⁎ au dernier poinct.  
 
-    OLIMPE
+    OLIMPE.
 Sans mentir vostre esprit.  
 
-    ARISTE
+    ARISTE.
         Ne complimentons point.  
 Et pendant qu'on prendra Jodelet pour son maistre  
 Le menant à l'endroit où les fins doivent estre :  
@@ -3198,9 +3195,9 @@ Puis qu'il leur faut du temps pour aller & venir,
 Servons nous en du moins pour nous entretenir.  
 
 
-### SCENE VI 
+### SCENE VI. 
 
-    JODELET *seul sous l'habit d'un Archer.*
+    JODELET *seul sous l'habit d'un Archer.*.
 Amour jeune falot⁎, petit monstre fantasque [271],  
 Qui pour nous attraper court toûjours mieux qu'un Basque [272];  
 Et faisant de nos cœurs un amoureux tison,  
@@ -3252,128 +3249,128 @@ Je suis fort honneste homme & toy tu n'es qu'un sot.
 Au diable soit l'amour, avec la halebarde⁎ !  
 
 
-### SCENE VII
+### SCENE VII.
 LE CAPORAL, JODELET.
 
 
-    LE CAPORAL
+    LE CAPORAL.
 La Verdure [285],  
 
-    JODELET *bas.*
+    JODELET *bas.*.
     Motus.  
 
-    LE CAPORAL
+    LE CAPORAL.
         Venez au corps de garde ?  
 
-    JODELET *bas.*
+    JODELET *bas.*.
 Commande à tes valets.  
 
-    LE CAPORAL 
+    LE CAPORAL. 
         Si je vay jusqu'à vous  
 Dans ma mauvaise humeur je vous roûray de coups.  
 Ces feneans s'en vont, & font les galans hommes.  
 Chacun veut estre maistre en ce siecle où nous sommes,  
 Il semble que le mal ne soit que pour les vieux.  
 
-    JODELET *bas.*
+    JODELET *bas.*.
 Ce vieillard à l'entendre est bien seditieux !  
 
-    LE CAPORAL
+    LE CAPORAL.
 Vous le diray-je encor,  
 
-    JODELET
+    JODELET.
         Qu'il aime la querelle !  
 
-    LE CAPORAL *s'avance avec sa lanterne.*
+    LE CAPORAL *s'avance avec sa lanterne.*.
 Voyons, qu'attens-tu là ?  
 
-    JODELET
+    JODELET.
         Je fais la sentinelle.  
 Peste !  
 
-    LE CAPORAL *bas.*
+    LE CAPORAL *bas.*.
         Ce n'est pas luy, je le reconnois bien !  
 Ton nom ?  
 
-    JODELET 
+    JODELET. 
     C'est Jodelet,  
 
-    LE CAPORAL
+    LE CAPORAL.
     Et que fais-tu là ?  
 
-    JODELET
+    JODELET.
         Rien.  
 
-    LE CAPORAL
+    LE CAPORAL.
 A quoy bon cet habit ?  
 
-    JODELET
+    JODELET.
         C'est pour servir mon maistre.  
 
-    LE CAPORAL
+    LE CAPORAL.
 C'est un volleur, suis moy.  
 
-    JODELET
+    JODELET.
         Je ne suis pas si traistre.  
 Ne vous l'ay-je pas dit, je suis en faction.  
 
-    LE CAPORAL
+    LE CAPORAL.
 Mais nous voulons savoir quelle est ta fonction ?  
 Et pourquoy ?  
 
-    JODELET
+    JODELET.
         Quelque sot s'en iroit vous le dire.  
 
-    LE CAPORAL
+    LE CAPORAL.
 Ce matois fait le fol ! il n'est pas tant de rire.  
 Sors de là !  
 
-    JODELET 
+    JODELET. 
         J'y serois jusqu'à demain matin.  
 A d'autre, viel amy, vous m'espreuvez en vain :  
 Je n'en branslerois⁎ pas pour gagner un Empire.  
 Dieu vous doint [286] tout le bien que vostre cœur desire,  
 Encor, Dieu vous assiste, & bon soir.  
 
-    LE CAPORAL
+    LE CAPORAL.
         Grand mercy.  
 Qu'il prenoit bien son temps, pour s'evader d'icy !  
 Il me faut suivre amy.  
 
-    JODELET *en le flattant.*
+    JODELET *en le flattant.*.
         Le Belaud [287], qu'il est drosle !  
 
-    LE CAPORAL
+    LE CAPORAL.
 Pourquoy m'as tu donné ce coup dessus l'espaule ?  
 
-    JODELET
+    JODELET.
 Pour mon plaisir  
 
-    LE CAPORAL
+    LE CAPORAL.
         Cest trop endurer de ce sot.  
 Hola, quelqu'un à moy.  
 
-    JODELET
+    JODELET.
         Ventre ne dites mot !  
 Vous pourrez par ce bruit faire tort à mon maistre.  
 
-    LE CAPORAL
+    LE CAPORAL.
 Hola hé !  
 
-    JODELET
+    JODELET.
     Par la mort.  
 
-    LE CAPORAL
+    LE CAPORAL.
         Qu'on saisisse ce traistre !  
 
-    JODELET
+    JODELET.
 Ne parlez pas si haut, amis vous estes vous.  
 Mon maistre…  
 
-    LE CAPORAL
+    LE CAPORAL.
     Il faut marcher.  
 
-     JODELET
+    JODELET.
         Quelle gresle de coups !  
 Au meurtre, l'on m'assomme, on me vole, on me tuë !  
 Au diable soit l'amour, la maison & la ruë !  
@@ -3382,34 +3379,34 @@ Sentinelle, poignard, halebarde⁎ & Rouquin [288].
 Fin du troisiesme Acte. 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ORONTHE , PANCRACE.
 
 
-    ORONTHE
+    ORONTHE.
 Je te l'ay desja dit, fais donc ta diligence ;  
 Je viens de recevoir nouvelles de Provence  
 Que l'on se peut douter du chemin que j'ay pris.  
 Tiens tout prest.  
 
-    PANCRACE
+    PANCRACE.
         Sans regret je quitteray Paris.  
 Ce climat temperé n'est bon qu'au cocüage.  
 
-    ORONTHE
+    ORONTHE.
 Cesse, pour engager Olimpe en ce voyage  
 Demain seul avec elle allant me promener  
 Auprés de sainct Denys tu nous feras mener  
 Quatre chevaux tous prests pour rejoindre aux deux nostres,  
 Puis…  
 
-    PANCRACE
+    PANCRACE.
     Et moy ;  
 
-    ORONTHE
+    ORONTHE.
         Tu viendras apres avec les autres  
 Feras monter mes gens, prendras soin de mon train⁎,  
 Mettras ordre par tout, & suivras mon chemin :  
@@ -3418,104 +3415,104 @@ Dans châque hostellerie il te faut dire pere
 De la jeune beauté que j'emmeine avec moy ;  
 C'est dans ces tours d'esprit que j'ay besoin de toy.  
 
-    PANCRACE
+    PANCRACE.
 Comme un Cameleon.  
 
-    ORONTHE
+    ORONTHE.
         Je t'entens cher Pancrace.  
 Si dés lieux où je vay quelqu'un suivoit la trace  
 Apprenant en l'estat qu'on m'aura veu passer  
 Par ce déguisement il peut s'embarasser :  
 Le nom de Perre en fin.  
 
-    PANCRACE
+    PANCRACE.
         La fourbe est assez bonne.  
 
-    ORONTHE 
+    ORONTHE. 
 Moy pour ne tesmoigner mes desseins à personne,  
 Je vais avec Climante encore raisonner  
 Pour berner nostre fat⁎, qui s'appreste à donner  
 Dans deux heures d'icy sa belle serenade.  
 
-    PANCRACE
+    PANCRACE.
 A faute de dormir vous vous ferez malade.  
 
-    ORONTHE
+    ORONTHE.
 N'importe, mais sur tout choisis un bel habit,  
 Pour joüer comme il faut le role que j'ay dit.  
 Entre, Climante vient.  
 
 
-### SCENE II
+### SCENE II.
 ORONTHE, CLIMANTE.
 
 
-    ORONTHE
+    ORONTHE.
         Hé bien ! s'en raille-t-elle ?  
 
-    CLIMANTE
+    CLIMANTE.
 Oüy de nous voir trompés.  
 
-    ORONTHE 
+    ORONTHE. 
         O l'amant plain de zele !  
 Qui n'ose venir voir sa maistresse le soir ?  
 
-    CLIMANTE
+    CLIMANTE.
 Qu'importe, il envoyoit son valet pour la voir.  
 
-    ORONTHE
+    ORONTHE.
 Vrayement c'est un galant qui se sent des escoles.  
 
-    CLIMANTE
+    CLIMANTE.
 Encor que dites-vous de ces belles paroles,  
 Dont sa lettre [289] est remplie ?  
 
-    ORONTHE
+    ORONTHE.
         Et des vers imprimez ?  
 
-    CLIMANTE
+    CLIMANTE.
 C'est le plus grand des sots que nature a formez.  
 
-    ORONTHE
+    ORONTHE.
 Il le faut achever avec la serenade.  
 
-    CLIMANTE
+    CLIMANTE.
 Sans doute il y fera quelque bonne incartade⁎.  
 
-    ORONTHE
+    ORONTHE.
 Il s'y faut preparer.  
 
-    CLIMANTE
+    CLIMANTE.
         Le tour sera d'esprit.  
 
 
-### SCENE III 
+### SCENE III. 
 ORONTHE, CLIMANTE, LISETTE.
 
 
-    ORONTHE
+    ORONTHE.
 Dis nous que fait Olimpe à present ?  
 
-    LISETTE
+    LISETTE.
         Elle escrit.  
 
-    ORONTHE
+    ORONTHE.
 Il faut voir ce que c'est.  
 
-    LISETTE
+    LISETTE.
         Ne faisant que d'escrire,  
 Je vous cherchois par tout afin de vous le dire.  
 
-    ORONTHE
+    ORONTHE.
 Tu m'obliges.  
 
-    LISETTE
+    LISETTE.
         Je suis entierement à vous.  
 
-    ORONTHE
+    ORONTHE.
 Allons.  
 
-    LISETTE *seule.* 
+    LISETTE *seule.*. 
         Ay-je dessein de mourir de la tous ?  
 Et la fraischeur qui vient de l'air & de la terre  
 Pourroit-elle estre bonne à guerir mon catherre [290] ?  
@@ -3536,78 +3533,78 @@ Vrayement c'est bien à luy de faire le cruel,
 Mais c'est luy que j'entens qui nasonne [292] & qui gronde.  
 
 
-### SCENE IV 
+### SCENE IV. 
 JODELET, LISETTE.
 
 
-    JODELET, *en luy-mesme songeant comme il avoit esté pris des Archers.*
+    JODELET, *en luy-mesme songeant comme il avoit esté pris des Archers.*.
 Ouy, Jodelet sans eux tu n'estois plus au monde.  
 Quelle commission mon maistre me donna ?  
 Et m'envoyer encor nonosbstant tout cela  
 Attendre icy des gens pour donner serenade.  
 
-    LISETTE
+    LISETTE.
 Roder icy la nuit, tu te feras malade.  
 
-    JODELET
+    JODELET.
 Je viens attendre icy des suppots [293] de l'archet [294].  
 
-    LISETTE
+    LISETTE.
 Que ne viens-tu pour voir celle qui t'y cherchoit ?  
 
-    JODELET *s'en veut separer.*
+    JODELET *s'en veut separer.*.
 Que l'on me cherche ou non, ma foy pour te le dire,  
 Laisse moy, l'on n'est pas tousjours d'humeur à rire.  
 
-    LISETTE 
+    LISETTE. 
 Te priant d'arrester tu me refuserois ?  
 
-    JODELET
+    JODELET.
 Je voudrois t'obliger, mais je ne le sçaurois.  
 
-    LISETTE
+    LISETTE.
 A d'autres yeux qu'aux tiens je ne suis pas tant laide.  
 
-    JODELET
+    JODELET.
 Pour me guerir d'amour tes yeux sont un remede.  
 
-    LISETTE
+    LISETTE.
 Si mes yeux sont ardens⁎ & sont rouges de feu,  
 C'est de celuy d'amour.  
 
-    JODELET
+    JODELET.
         De grace esteins-le [295] un peu,  
 Avec le vermillon dont ton œil gauche esclatte  
 Tu pourrois d'un regard me teindre en escarlate.  
 Trefve de compliment,  
 
-    LISETTE
+    LISETTE.
         O mon cher Jodelet,  
 Mon bedon [296], mon fanfan, mon poupon, mon valet.  
 
-    JODELET
+    JODELET.
 Ah ! ne me touche point avecque tes mains sales.  
 
-    LISETTE 
+    LISETTE. 
 Es-tu si delicat ?  
 
-    JODELET
+    JODELET.
         Peste, je crains les galles [297].  
 
-    LISETTE
+    LISETTE.
 Escoute encor'un mot.  
 
-    JODELET
+    JODELET.
     Parle donc !  
 
-    LISETTE
+    LISETTE.
     Mais…  
 
-    JODELET
+    JODELET.
         Hola.  
 Adieu ton mot est dit.  
 
-    LISETTE
+    LISETTE.
         Pour t'arrester donc-là,  
 Je t'en conjure enfin par ces franches lippees [298],  
 Par ces bribes de pain dedans le pot trempées,  
@@ -3622,28 +3619,28 @@ Que le ciel ne m'a-t-il fait naistre sommeliere,
 Peut estre que l'arbois, le grave & le muscat  
 Ne te permettroient pas d'estre si delicat.  
 
-    JODELET
+    JODELET.
 En as-tu ?  
 
-    LISETTE
+    LISETTE.
     Non,  
 
-    JODELET
+    JODELET.
         Adieu, je vais coucher en ville,  
 
-    LISETTE
+    LISETTE.
 La gabatine [299] est franche, & la ruse est subtile,  
 
-    JODELET
+    JODELET.
 Tu m'as tout deschiré.  
 
-    LISETTE
+    LISETTE.
         Tu ne t'en iras point.  
 
-    JODELET
+    JODELET.
 Donne moy donc de quoy racoustrer mon pourpoint.  
 
-    LISETTE
+    LISETTE.
 Ah ! que d'or & d'argent n'ay-je une vive source,  
 Tu pourrois disposer du cœur & de la bourse,  
 Et je te monstrerois en te saoulant de bien  
@@ -3653,86 +3650,85 @@ Veux tu manger encor quatorze ans de mes gages ?     
 Il n'est presents, espargne, estreines ny profit  
 Que mon amour n'immole à ton grand appetit.  
 
-    JODELET
+    JODELET.
 Pourquoy differois-tu cette belle harangue ?  
 Je veux aimer ton corps à cause de ta langue ;  
 Et de quelques desfauts qu'on te puisse blasmer  
 Si tu parles tousjours, je veux tousjours t'aimer.  
 
-    LISETTE *le tire à part, & luy parle à l'oreille.*
+    LISETTE *le tire à part, & luy parle à l'oreille.*.
 Pancrace vient, escoute.  
 
 
-### SCENE V
+### SCENE V.
 PANCRACE, JODELET.
 
 
-    PANCRACE *seul.*
+    PANCRACE *seul.*.
         Elle n'est pas sortie,  
 Mes yeux se sont trompez, j'ay mal fait ma partie.  
 
-    JODELET
+    JODELET.
 Pancrace,  
 
-    PANCRACE 
+    PANCRACE. 
         Qui va-là ? Que viens-tu faire icy ?  
 
-    JODELET
+    JODELET.
 Attendre le concert.  
 
-    PANCRACE
+    PANCRACE.
         Je viens l'attendre aussi.  
 Pour aller resveiller mon maistre & ma maistresse.  
 
-    JODELET
+    JODELET.
 Tu le peux sans sortir :  
 
-    PANCRACE *bas ces deux vers.*
+    PANCRACE *bas ces deux vers.*.
         Il faut joüer d'adresse,  
 Et ne pas tesmoigner que l'amour me menoit ;  
 Ouy ; mais l'impatience au logis me prenoit.  
 
-    JODELET
+    JODELET.
 De vray l'impatience est une estrange chose !  
 
-    PANCRACE
+    PANCRACE.
 Elle perdra l'esclat de mon Apotheose !  
 
-    JODELET
+    JODELET.
 Sans doute, mais encor que veut dire ce mot ?  
 
-    PANCRACE *en frappant sur l'espaule de Jodelet.*
-             
+    PANCRACE *en frappant sur l'espaule de Jodelet.*. 
 J'ayme les curieux.  
 
-    JODELET *faisant l'habile homme.*
+    JODELET *faisant l'habile homme.*.
         Je ne suis pas tant sot.  
 Mais si tu veux parler modere toy, de grace,  
 Du latin j'en sçay peu, mais pour du grés j'en casse [300].  
 
-    PANCRACE
+    PANCRACE.
 L'Apotheose donc est un grand changement,  
 Qui d'un homme mortel fait un Dieu promptement.  
 
-    JODELET
+    JODELET.
 Et combien vendroit-on l'once d'Apotheose ?  
 
-    PANCRACE
+    PANCRACE.
 Si l'homme la vendoit ce seroit peu de chose.  
 
-    JODELET
+    JODELET.
 S'il en est sous le Ciel nostre Espicier en a,  
 Il vend bien du mercure & du diapalma⁎.  
 
-    PANCRACE
+    PANCRACE.
 En voulant t'enseigner mon erreur est extréme,  
 Mais je n'y prens pas garde, à cause que je t'aime.  
 
-    JODELET 
+    JODELET. 
 De vray, l'on dit qu'amour aveugle les esprits,  
 Je crois qu'il fait du mal !  
 
-    PANCRACE
+    PANCRACE.
         Tu ne t'es point mespris.  
 C'est un ver pétillant ennemy de la joye,  
 Qui porte un grand desordre aux regions du foye,  
@@ -3748,14 +3744,14 @@ L'attache à la matiere, & fait qu'elle ne peut
 S'en rendre la maistresse alors qu'elle le veut.  
 Ce sont les sentimens, qui sont les moins vulgaires.  
 
-    JODELET
+    JODELET.
 Si tu n'en sçais pas plus, ma foy tu n'en sçais gueres.  
 Et sans avoir appris de Grec & de Latin,  
 Je sçais bien que l'amour n'est qu'un fils de putain,  
 Qu'un rustre estoit aimé de Madame sa mere,  
 Et qu'il ne fut jamais à feu Monsieur son pere.  
 
-    PANCRACE 
+    PANCRACE. 
 Ce divin forgeron, ce boiteux renommé  
 Qui regne auprés du Styx sur un Trosne enfumé,  
 Et qui preste la force au bras nerveux de Bronthe°,  
@@ -3767,10 +3763,10 @@ Cosmographes du Ciel & tous Mithologistes,
 Que l'enfant Cupidon° voyoit desja le jour  
 Quand Mars° connut sa mere, & qu'il luy fit l'amour.  
 
-    JODELET
+    JODELET.
 Hé bien ?  
 
-    PANCRACE
+    PANCRACE.
         C'est un discours digne de ma colere  
 D'alleguer que l'amour est né dans l'adultere ;  
 C'est une mesdisance horrible aux gens d'esprit  
@@ -3785,41 +3781,41 @@ Soustient bien le contraire à la barbe de tous,
 Aussi je veux dans peu confondre ces vieux fous ;  
 Et prenant comme Athlas° le fardeau sur l'espaule.  
 
-    JODELET *se lassant.*
+    JODELET *se lassant.*.
 C'est assez, concluons que l'amour est bon drole.  
 Tu te mets en colere ?  
 
-    PANCRACE
+    PANCRACE.
         Est ce mal à propos ?  
 Et l'amour n'est-il pas fils aisné de Cahos° ?  
 
-    JODELET
+    JODELET.
 Du Cahos° ! par ma foy tu m'en [306] fais bien accroire⁎.  
 
-    PANCRACE
+    PANCRACE.
 Hesiode t'en peut rafraischir la memoire,  
 Et te faire sçavoir si ce sont des abus.  
 
-    JODELET
+    JODELET.
 N'est ce pas cet autheur qui fait ces beaux rebus ?  
 Hé bien, j'ay dit rebus au lieu de coq-à-l'asne.  
 Voyla bien de quoy rire !  
 
-    PANCRACE
+    PANCRACE.
         Ah ! stupide, ah ! profane,  
 Nommer un Philosophe un faiseur de rebus ?  
 
-    JODELET 
+    JODELET. 
 Mais n'est-ce pas tout un, puis qu'il parloit Phebus [307] ?  
 Dis-en la verité.  
 
-    PANCRACE
+    PANCRACE.
         Respecte un Philosophe.  
 
-    JODELET
+    JODELET.
 Pourquoy le respecter s'il est de ton estoffe ?  
 
-    PANCRACE
+    PANCRACE.
 Oüy, mais tel que je sois, je lis dedans les Cieux,  
 Et suis quand il me plaist dans le secret des Dieux.  
 Je sçay par quel pouvoir & par quelle aventure  
@@ -3850,50 +3846,50 @@ Comme sont confondus par un lien utile
 L'esprit, la pituite [312], & le sang & la bile.  
 Je sçay que le polmon, le cœur & le cerveau…  
 
-    JODELET
+    JODELET.
 Ma foy tu n'es qu'un sot !  
 
-    PANCRACE
+    PANCRACE.
         Et toy tu n'es qu'un veau.  
 
-    JODELET
+    JODELET.
 Va t'en le demander à cette jeune folle  
 Qui me dit tous les jours que je suis son idole,  
 Et qui te tient un fol quoy que tu sois docteur ;  
 Lisette…  
 
-    PANCRACE
+    PANCRACE.
     Que dis-tu ?  
 
-    JODELET 
+    JODELET. 
         Je ne suis point menteur.  
 
-    PANCRACE
+    PANCRACE.
 Mais sçachons tout de luy, Jodelet si ton ame  
 Est flexible aux élans de l'amoureuse flame  
 Dis moy ce que tu sçais de Lisette & de toy !  
 T'aime-t'elle ?  
 
-    JODELET
+    JODELET.
     Elle m'aime.  
 
-    PANCRACE *bas.*
+    PANCRACE *bas.*.
     Ah !  
 
-    JODELET
+    JODELET.
         Voylà bien de quoy.  
 
-    PANCRACE
+    PANCRACE.
 Ingrate ! preferer ses services aux nostres.  
 Tu l'aimes ?  
 
-    JODELET
+    JODELET.
     Point du tout.  
 
-    PANCRACE
+    PANCRACE.
     Mais…  
 
-    JODELET 
+    JODELET. 
         J'en ay bien veu d'autres.  
 Ils [313] ont beau me prier, mon honneur m'est trop cher,  
 S'ils veulent de l'amour qu'ils en aillent chercher,  
@@ -3919,11 +3915,10 @@ Et que je ne sois plus un garçon vergogneux [317] ;
 Je sçay ce qu'on disoit de Pierrot le honteux  
 Quand il s'amouracha de sa jeune commere⁎.  
 
-    PANCRACE
-             
+    PANCRACE. 
 Mais…  
 
-    JODELET
+    JODELET.
         M'aime-t'elle bien qu'elle en parle à ma mere,  
 Et ne pretende pas m'attraper comme un veau,  
 Ariste me fera geolier de son chasteau,  
@@ -3931,298 +3926,296 @@ Où mon pere possede un employ fort honneste ;
 Un jour j'auray du bien, & ne suis pas si beste  
 Que…  
 
-    PANCRACE
+    PANCRACE.
         Je ne puis penser qu'elle t'estime tant.  
 
-    JODELET
+    JODELET.
 Si je t'en dis la preuve en seras tu contant ?  
 
-    PANCRACE
+    PANCRACE.
 Tu ressusciteras & mon cœur & mon ame.  
 
-    JODELET
+    JODELET.
 Elle dit que tousjours tu luy parles de flame ;  
 Que pour elle tes feux sont des plus élegans,  
 Et que tous tes discours sont bien extravagans⁎ ?      
 
-    PANCRACE
+    PANCRACE.
 Ne raille point amy, dis moy tout, je te prie.  
 
-    JODELET 
+    JODELET. 
 Je parle tout de bon, ce n'est point raillerie ;  
 Elle m'a dit de plus que tu veux l'espouser,  
 Et que sur l'escalier en la voulant baiser,  
 Tu te fis en tombant cette bugne [318] à la temple [319].  
 
-    PANCRACE
+    PANCRACE.
 En puis je demander une preuve plus ample ?  
 
-    JODELET
+    JODELET.
 De plus elle m'a dit, mais au moins soit discret,  
 Que de ton maistre en fin luy fiant le secret,  
 Tu luy dis que demain il devoit faire gilles [320],  
 Qu'il emmenoit Olympe, & qu'il troussoit ses quilles [321] :  
 En veux-tu davantage ?  
 
-    PANCRACE
+    PANCRACE.
         Ah Dieux ! je suis perdu,  
 Je voudrois de bon cœur que tu fusses pendu !  
 
-    JODELET
+    JODELET.
 Et moy pour te payer des souhaits si loüables,  
 Que ne te puis-je voir aller à tous les Diables !  
 
-    PANCRACE
+    PANCRACE.
 Mal-heureux qu'ay-je-fait !  
 
-    JODELET 
+    JODELET. 
     Au moins.  
 
-    PANCRACE
+    PANCRACE.
         Esloigne-toy  
 Ah ! mort.  
 
-    JODELET
+    JODELET.
     Il fait le fou, le grand sot !  
 
-    PANCRACE
+    PANCRACE.
         Laisse moy.  
 Mais j'entens quelque bruit.  
 
 
-### SCENE VI
+### SCENE VI.
 ARISTE, JODELET, Trouppe de Violons, PANCRACE, CLIMANTE cachez, avec une autre trouppe de Violons.
 
 
-    JODELET
+    JODELET.
         Voicy toute la bande.  
 
-    PANCRACE
+    PANCRACE.
 Allons donc advertir mon maistre qu'il descende.  
 
-    ARISTE *à ses Violons, sans faire semblant de sçavoir*
-              *que Climante est caché.* 
+    ARISTE *à ses Violons, sans faire semblant de sçavoir* *que Climante est caché.*. 
 Voicy le bel endroit, allons donnez !  
 
-    CLIMANTE  *à ses Violons.*
+    CLIMANTE *à ses Violons.*.
         Donnez.  
 
-    1.VIOLON *à son camarade, ne voyant pas les violons de Climante qui avoient sonné*
-               [322].
+    1.VIOLON *à son camarade, ne voyant pas les violons de Climante qui avoient sonné* [322].
 Je ne puis m'accorder tandis que vous sonnez,  
 Un peu de patience… en fin c'est assez dire,  
 Messieurs, escoutons nous, il n'est pas tant de rire.  
 
-    2.VIOLON
+    2.VIOLON.
 Vostre do-la-ré-sol.  
 
-    3.VIOLON
+    3.VIOLON.
         Un peu vostre Emi-la.  
 
-    2.VIOLON
+    2.VIOLON.
 Vostre gé-ré-sol-ut [323].  
 
-    3.VIOLON
+    3.VIOLON.
         Encore… m'y voylà.  
 
-    1.VIOLON
+    1.VIOLON.
 Estes-vous prests, Messieurs ? faut-il que je commence ?  
 Allons, c'est à ce coup.  
 
-    2.VIOLON *l'arestant.*
+    2.VIOLON *l'arestant.*.
         Un peu de patience,  
 Ma quarte se relasche au moins d'un demy ton,  
 Je suis bien.  
 
-    1.VIOLON
+    1.VIOLON.
         L'Alemande⁎, allons, c'est tout de bon.  
 
-    ARISTE
+    ARISTE.
 Messieurs, ce n'est pas là ce que je vous demande,  
 Vous joüez la bourrée⁎ au lieu d'une Alemande⁎  
 
-    2.VIOLON
+    2.VIOLON.
 Nous n'estions pas icy tous seuls de violons.  
 
-    ARISTE
+    ARISTE.
 Le Flambeau…  
 
-    JODELET *apportant un flambeau.*
+    JODELET *apportant un flambeau.*.
         Sus, Messieurs, monstrez-nous les talons [324].  
 
-    ARISTE
+    ARISTE.
 Les coquins.  
 
-    JODELET
+    JODELET.
         Denichez allons, quitte la place,  
 Ou je te casseray la teste avec ta basse.  
 
-    CLIMANTE *deguisé.*
+    CLIMANTE *deguisé.*.
 Toy ! si tu l'avois fait avecque ce flambeau,  
 Je te ferois griller comme on fait un pourceau.  
 Veux-tu voir ?  
 
-    JODELET 
+    JODELET. 
         Ah ! Monsieur, escoutez moy, de grace,  
 Je disois qu'en courrant, il casseroit sa basse,  
 Et parlois à mon maistre afin qu'il s'appaisast.  
 
-    ARISTE
+    ARISTE.
 Monsieur, ne songez pas à ce que dis ce fat⁎  
 Et souffrez⁎…  
 
-    CLIMANTE
+    CLIMANTE.
         Quoy souffrir⁎ ? la plaisante boutade !  
 Et quel droict avez vous de donner serenade ?  
 
-    ARISTE
+    ARISTE.
 Le droict qu'on peut avoir lors que l'on aime bien.  
 
-    CLIMANTE
+    CLIMANTE.
 Moy, j'aime plus que vous.  
 
-    ARISTE
+    ARISTE.
         Et moy je n'en croy rien.  
 
-    CLIMANTE
+    CLIMANTE.
 Tout cela git en preuve.  
 
-    ARISTE
+    ARISTE.
         Ah ! la grande beveuë,  
 Amis, retirez vous, vostre cause est perduë.  
 
-    CLIMANTE 
+    CLIMANTE. 
 Ne riez pas encore, & preuvez seulement.  
 
-    ARISTE
+    ARISTE.
 J'ay pleuré mille fois.  
 
-    CLIMANTE
+    CLIMANTE.
         Et moy pareillement.  
 
-    ARISTE
+    ARISTE.
 J'ay souffert⁎ des rigueurs sans espoir de salaire.  
 
-    CLIMANTE
+    CLIMANTE.
 J'ay souffert⁎ des mespris sans me mettre en colere.  
 
-    ARISTE
+    ARISTE.
 Quoy qu'une amante ait fait je n'ay point murmuré.  
 
-    CLIMANTE
+    CLIMANTE.
 J'ay treuvé tout fort bon de l'objet⁎ adoré.  
 
-    ARISTE
+    ARISTE.
 J'ay couché sur sa porte.  
 
-    CLIMANTE
+    CLIMANTE.
         Et moy dedans sa ruë.  
 
-    ARISTE
+    ARISTE.
 J'ay fait la sentinelle.  
 
-    CLIMANTE 
+    CLIMANTE. 
         Et moy le pied de gruë.  
 
-    ARISTE
+    ARISTE.
 J'ay fait mille sonnets.  
 
-    CLIMANTE
+    CLIMANTE.
         Et moy mille rondeaux.  
 
-    ARISTE
+    ARISTE.
 J'ay payé des festins.  
 
-    CLIMANTE
+    CLIMANTE.
         J'ay donné des cadeaux⁎.  
 
-    ARISTE
+    ARISTE.
 J'ay fait un grand voyage.  
 
-    CLIMANTE
+    CLIMANTE.
         Et moy cent promenades.  
 
-    ARISTE
+    ARISTE.
 J'ay donné des concerts.  
 
-    CLIMANTE
+    CLIMANTE.
         Et moy des serenades.  
 
-    ARISTE
+    ARISTE.
 J'ay donné mille escus pour porter un poulet⁎.  
 
-    CLIMANTE 
+    CLIMANTE. 
 J'en ay despensé deux pour gaigner un valet.  
 
-    ARISTE
+    ARISTE.
 J'ay tiré pour Doris cinquante fois l'espee.  
 
-    CLIMANTE
+    CLIMANTE.
 La mienne pour Philis [325] fut cent fois occupée.  
 
-    ARISTE
+    ARISTE.
 J'ay tué pour Caliste° un faiseur de oüyda.  
 
-    CLIMANTE
+    CLIMANTE.
 J'en batis dans le cours qui disoient la voyla.  
 
-    ARISTE
+    ARISTE.
 J'ay presté de l'argent au mary d'Isabelle [326].  
 
-    CLIMANTE
+    CLIMANTE.
 Je me suis laissé perdre en joüant avec elle.  
 
-    ARISTE
+    ARISTE.
 J'ay donné des galans⁎.  
 
-    CLIMANTE
+    CLIMANTE.
         J'ay donné des bouquets.  
 
-    ARISTE
+    ARISTE.
 J'ay donné cent Guenons.  
 
-    CLIMANTE 
+    CLIMANTE. 
         Et moy cent perroquets.  
 
-    ARISTE
+    ARISTE.
 J'ay donné pour le moins sept à huict cent Cassandre.  
 
-    CLIMANTE
+    CLIMANTE.
 Moy cinq cens Ibrahims, & trois cent Polexandre [327].  
 
-    ARISTE
+    ARISTE.
 J'ay fait veoir à Daphnis [328] dix fois Heraclius.  
 
-    CLIMANTE
+    CLIMANTE.
 Moy vingt fois Themistocle [329], & peut estre encor plus.  
 
-    ARISTE
+    ARISTE.
 J'ay donné du jasmin dans le mois de Decembre.  
 
-    CLIMANTE
+    CLIMANTE.
 Dans le mois de Janvier j'en semois une chambre.  
 
-    ARISTE
+    ARISTE.
 A la foire en un jour j'ay donné cent bijoux.  
 
-    CLIMANTE
+    CLIMANTE.
 Moy pour un soir au bal deux mille citrons doux.  
 
-    ARISTE
+    ARISTE.
 En cent lieux de Daphné j'ay la belle peinture.  
 
-    CLIMANTE 
+    CLIMANTE. 
 Je l'ay de sa hauteur fait peindre en mi-nature.  
 
-    ARISTE
+    ARISTE.
 En frisure par jour dix escus…  
 
-    CLIMANTE
+    CLIMANTE.
         Arrestez,  
 En eschelle de corde il me les a coustés,  
 Et pour les rendez-vous.  
 
-    ARISTE
+    ARISTE.
         Tresve de raillerie.  
 Mais puis que par l'amour ou la galanterie,  
 Nous ne pouvons finir un combat si douteux [330]  
@@ -4230,99 +4223,99 @@ Je sçais un bon moyen pour nous regler tous deux
 Vous veniez divertir une jeune merveille  
 Là dedans.  
 
-    CLIMANTE
+    CLIMANTE.
     Oüy.  
 
-    ARISTE
+    ARISTE.
         J'y viens pour affaire pareille.  
 Oronthe appaisera cette noise⁎ entre nous  
 Cet homme est fort commode.  
 
-    CLIMANTE 
+    CLIMANTE. 
         On dit qu'il est jaloux.  
 
-    ARISTE
+    ARISTE.
 Point du tout, la franchise est telle dans son ame  
 Qu'il se tient honoré quand on aime sa femme  
 
-    CLIMANTE
+    CLIMANTE.
 Hé bien…  
 
-    ARISTE
+    ARISTE.
         Sçachons de luy lequel demeurera.  
 
-    CLIMANTE
+    CLIMANTE.
 Mais…  
 
-    ARISTE
+    ARISTE.
     Je le connois bien.  
 
-    CLIMANTE
+    CLIMANTE.
         Tout ce qu'il vous plaira  
 
-    PANCRACE
+    PANCRACE.
 Exibez vous, Monsieur, & par quelques adages  
 De ces periclitans, dissipez les ambages⁎.  
 
 
-### SCENE VII 
+### SCENE VII. 
 ARISTE, CLIMANTE, ORONTHE, PANCRACE, JODELET [331], Les deux troupes de Violons.
 
 
-    ARISTE *appellant Oronthe.*
+    ARISTE *appellant Oronthe.*.
 Amy ?  
 
-    ORONTHE
+    ORONTHE.
         Que vous plaist-il de vostre serviteur ?  
 
-    CLIMANTE
+    CLIMANTE.
 Appaiser un debat dont Monsieur est l'autheur.  
 
-    ARISTE
+    ARISTE.
 C'est…  
 
-    CLIMANTE
+    CLIMANTE.
         Laissez-moy conter comme s'est fait la chose.  
 
-    ARISTE
+    ARISTE.
 Je la dois reciter, puisque je la propose.  
 
-    CLIMANTE
+    CLIMANTE.
 Je parleray pourtant le premier s'il vous plaist.  
 
-    ARISTE    [120]
+    ARISTE    [120].
 Je diray le premier la chose comme elle est.  
 
-    CLIMANTE
+    CLIMANTE.
 De grace.  
 
-    ARISTE
+    ARISTE.
     Mais Monsieur.  
 
-    CLIMANTE
+    CLIMANTE.
         Mais vous avez beau dire.  
 
-    ORONTHE
+    ORONTHE.
 Ce plaisant differend me fait crever de rire.  
 Qu'est ce donc ?  
 
-    CLIMANTE
+    CLIMANTE.
     C'est…  
 
-    ARISTE
+    ARISTE.
     Monsieur…  
 
-    ORONTHE
+    ORONTHE.
         Escoutez-vous enfin,  
 Ce debat dureroit jusqu'à demain matin.  
 
-    ARISTE
+    ARISTE.
 En ces beaux jours d'Esté…  
 
-    PANCRACE 
+    PANCRACE. 
         L'exorde n'est pas fade.  
 
-    ARISTE
+    ARISTE.
 Voulant me divertir à donner serenade,  
 Monsieur est survenu, qui dans le mesme instant  
 Sans me considerer en vouloit faire autant :  
@@ -4331,46 +4324,46 @@ Nous demeurons d'accord qu'en fin le plus fidelle
 Et le plus viel martyr de l'Empire amoureux  
 Demeureroit…  
 
-    ORONTHE
+    ORONTHE.
         Et bien lequel l'est de vous deux !  
 
-    CLIMANTE
+    CLIMANTE.
 Nous nous sommes trouvez tous deux d'egale force.  
 
-    ORONTHE
+    ORONTHE.
 Attendez pour finir cet aymable divorce ;  
 Il faut avoir recours à de bonnes raisons,  
 Veniez vous divertir quelqu'un dans ces maisons ?  
 J'entens un bel objet⁎ qui vous chatouille l'ame.  
 
-    CLIMANTE
+    CLIMANTE.
 Oüy, Monsieur une fille.  
 
-    ORONTHE 
+    ORONTHE. 
     Et vous ?  
 
-    ARISTE
+    ARISTE.
         C'est une femme.  
 
-    ORONTHE
+    ORONTHE.
 Cette fille a son pere, & qu'est-il ?  
 
-    CLIMANTE
+    CLIMANTE.
         Advocat.  
 
-    ARISTE
+    ARISTE.
 Il vous fourbe.  
 
-    ORONTHE
+    ORONTHE.
         La vostre est de plus grand estat ?  
 
-    ARISTE
+    ARISTE.
 Elle est ou le sera femme d'un Gentil homme.  
 
-    ORONTHE
+    ORONTHE.
 Il n'en est point icy ?  
 
-    ARISTE *bas à ORONTHE.*
+    ARISTE *bas à ORONTHE.*.
         Plustot que je le nomme,  
 Jugez en ma faveur, ce Gentil homme est vous ;  
 Et luy qui ne sçait pas comme on vit entre nous,  
@@ -4378,49 +4371,49 @@ Penseroit que d'amour je serois bien malade ;
 Olimpe estant l'objet⁎ de cette serenade ;  
 Je le dis en amy, cela vous feroit tort.  
 
-    CLIMANTE
+    CLIMANTE.
 Ah ! c'est trop parler bas.  
 
-    ORONTHE
+    ORONTHE.
         Vous serez tous d'accord.  
 
-    CLIMANTE
+    CLIMANTE.
 Peut-on oüir parler d'une telle sottise ?  
 
-    ORONTHE
+    ORONTHE.
 Monsieur me fait l'honneur d'agir avec franchise ;  
 Et songeant à ma femme & la nuit & le jour…  
 
-    ARISTE *voulant le faire taire.*
+    ARISTE *voulant le faire taire.*.
 Oronthe…  
 
-    ORONTHE
+    ORONTHE.
         Il l'aime en fin sans luy parler d'amour.  
 
-    CLIMANTE
+    CLIMANTE.
 On est souvent trompé pour estre trop facile.  
 
-    ORONTHE
+    ORONTHE.
 Je ne crains point l'amour dans un esprit tranquille,  
 Et je distingue bien le bon & le mauvais :  
 Mais allez je vous laisse.  
 
-    CLIMANTE 
+    CLIMANTE. 
         Adieu vivez en paix.  
 
-    ARISTE
+    ARISTE.
 Que de bontez ! Monsieur.  
 
-    CLIMANTE
+    CLIMANTE.
     Le fat⁎.  
 
-    ORONTHE
+    ORONTHE.
         Qui peut le croire ?  
 
-    ARISTE *à Climante qui s'en va.*
+    ARISTE *à Climante qui s'en va.*.
 Vous voyez de quel air j'emporte la victoire.  
 
-    CLIMANTE *revient.*
+    CLIMANTE *revient.*.
 N'en ayez point d'orgueil, vous ne luy devez rien,  
 Et ne présumez pas qu'il vous fasse du bien ;  
 Puisque ce demeslé n'estant fait que pour rire  
@@ -4428,76 +4421,76 @@ Tousjours à vos advis vous m'auriez veu souscrire ;
 Et sans que cet arrest intervienne entre nous  
 Connoissez qui je suis ?  
 
-    ARISTE
+    ARISTE.
         Ah ! Climante est ce vous ?  
 
-    CLIMANTE
+    CLIMANTE.
 C'est par l'ordre d'Olimpe à qui l'affaire touche,  
 Par cette fausse barbe, & cette balle en bouche,  
 J'ay caché mon visage & deguisé ma voix  
 
-    ARISTE
+    ARISTE.
 Ma foy j'y serois pris une seconde fois [332].  
 
-    ORONTHE
+    ORONTHE.
 Mais c'est perdre le temps il faut que l'on commence,  
 Olimpe nous escoute & meurt d'impatience.  
 
-    ARISTE
+    ARISTE.
 Elle pardonnera ce long retardement.  
 Elle en est cause.  
 
-    ORONTHE
+    ORONTHE.
     Allons  
 
-    CLIMANTE
+    CLIMANTE.
         Qu'il parle ingenûment.  
 Il se croit obligé de ce que l'on le jouë.  
 
-    ORONTHE
+    ORONTHE.
 Il n'en est pas au monde un plus sot.  
 
-    CLIMANTE
+    CLIMANTE.
         Je l'advouë.  
 
-    ARISTE
+    ARISTE.
 Je te rens grace Amour, je les tiens au filet,  
 Les fourbes sont duppez, fais joüer Jodelet.  
 Fin du quatriesme Acte. 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ARISTE, OLIMPE.
 
 
-    ARISTE
+    ARISTE.
 Madame, benissons l'amour de Jodelet,  
 Je devray ma fortune aux soins de ce valet,  
 Vous partiez…  
 
-    OLIMPE
+    OLIMPE.
         Sans pouvoir vous apprendre peut estre  
 Non plus qu'à mes parens où me tiendroit ce traistre.  
 
-    ARISTE
+    ARISTE.
 Il n'en est plus le temps on s'en douteroit bien.  
 Mais le desguisement du Docteur…  
 
-    OLIMPE
+    OLIMPE.
         Ce n'est rien.  
 Il est fait à joüer de pareils personnages.  
 
-    ARISTE
+    ARISTE.
 Tout est prest pour punir de si cruels outrages  
 Sur tout un peu de cœur pour en venir à bout.  
 
-    OLIMPE
+    OLIMPE.
 Je connois vostre zele & me resous à tout.  
 
-    ARISTE
+    ARISTE.
 Madame, je voudrois que vous peussiez comprendre  
 Quels seroient les devoirs que je voudrois vous rendre,  
 Et qu'en fin vostre esprit en peut estre informé,  
@@ -4515,175 +4508,175 @@ Exprimer de mes feux la forte violence,
 Et mes tristes⁎ regards à travers de mes fers  
 Ont droict seuls de parler des maux que j'ay soufferts⁎.  
 
-    OLIMPE 
+    OLIMPE. 
 Un si profond respect est certes admirable.  
 
-    ARISTE
+    ARISTE.
 On n'en peut trop avoir pour un objet⁎ aimable⁎ :  
 Et de quelques ardeurs que nous soyons pressez  
 Quand on peut dire j'ayme, on dit toûjours assez.  
 
-    OLIMPE
+    OLIMPE.
 Ces concertations en un cœur tout de flâme,  
 Ne peuvent compatir qu'avec une belle ame.  
 
-    ARISTE
+    ARISTE.
 Et les beaux sentimens que vous nous inspirez,  
 Ne peuvent allumer que des feux espurez.  
 
-    OLIMPE
+    OLIMPE.
 Un cœur si genereux sensiblement me touche.  
 
-    ARISTE
+    ARISTE.
 Que la loüange plaist dans une belle bouche !  
 Et que le plus modeste en le desavoüant  
 Paye mal les bontez qu'on monstre en le loüant.  
 
-    OLIMPE
+    OLIMPE.
 Qu'il est doux de loüer, ce qu'on juge loüable !  
 
-    ARISTE
+    ARISTE.
 Qu'il est aisé d'aymer ce que l'on treuve aimable⁎ !  
 
-    OLIMPE
+    OLIMPE.
 C'est offenser l'honneur que ne vous aimer pas !  
 
-    ARISTE 
+    ARISTE. 
 C'est suivre la vertu que marcher sur vos pas.  
 
 
-### SCENE II
+### SCENE II.
 OLIMPE, ARISTE, CLIMANTE caché.
 
 
-    OLIMPE
+    OLIMPE.
 Que Climante m'oblige alors qu'il vous envoye !  
 
-    CLIMANTE *caché bas.*
+    CLIMANTE *caché bas.*.
 Elle parle de moy, je vay mourir de joye.  
 
-    ARISTE
+    ARISTE.
 Puisque par son moyen j'ay le bien de vous voir,  
 Il m'oblige en un poinct qu'on ne peut concevoir.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Tu ne sçais pas le nœud de nostre stratageme.  
 
-    OLIMPE
+    OLIMPE.
 Dites-luy que cent fois j'ay dit que je vous ayme !  
 
-    CLIMANTE *bas.* 
+    CLIMANTE *bas.*. 
 Je te rends grace, amour !  
 
-    ARISTE
+    ARISTE.
         Que je suis satisfait !  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Il se croit obligé du bien qu'elle me fait.  
 
-    OLIMPE
+    OLIMPE.
 Dites luy que j'ay dit que je m'impatiente.  
 Quand je ne vous voy pas.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         O bien-heureux Climante !  
 
-    OLIMPE
+    OLIMPE.
 Qu'il me fera plaisir, s'il treuve le moyen  
 De me faire souvent avoir vostre entretien.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Plus elle le verra, plus son adresse extreme,  
 M'apprendra par Ariste à quel poinct elle m'aime.  
 
-    ARISTE
+    ARISTE.
 Je treuve en vous voyant un trop puissant secours  
 Pour ne le prier pas de m'envoyer tousjours.  
 
-    CLIMANTE *bas.* 
+    CLIMANTE *bas.*. 
 Et j'ay trop de plaisir d'un si plaisant message  
 Pour ne te faire pas joüer ce personnage.  
 
-    OLIMPE
+    OLIMPE.
 Que je sens de plaisirs alors que je vous voy !  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Le fat⁎ ne connoist pas qu'il fait l'amour pour moy.  
 
-    OLIMPE
+    OLIMPE.
 En luy parlant, sur tout gardez de vous confondre.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 La raillerie est fine, il n'y pourra respondre.  
 
-    OLIMPE
+    OLIMPE.
 Et ne hazardez pas sa perte & mon appuy.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Comment ne voit-il pas qu'elle se rit de luy ?  
 
-    ARISTE
+    ARISTE.
 Je sçauray mesnager cet amant miserable.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Ce nom d'amant me choque, & n'est point agreable.  
 
-    OLIMPE 
+    OLIMPE. 
 Vous n'avez plus long-temps à souffrir⁎ ce rival.  
 
-    ARISTE
+    ARISTE.
 Peut-estre avant demain je perdray ce brutal.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Tout cecy me déplaist, & j'ay peur de sa suite.  
 
-    OLIMPE
+    OLIMPE.
 Vous ne pouvez manquer d'esprit & de conduite.  
 
-    ARISTE
+    ARISTE.
 Au moins tant qu'il ira de prendre loy [334] de vous.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Quelque important mistere est caché là dessous.  
 Il parle avec chaleur, elle respond de mesme,  
 L'aimeroit-elle ?  
 
-    ARISTE
+    ARISTE.
         Au moins songez que je vous aime.  
 Dessus ces belles mains je puis vous le jurer ;  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Helas ! ce seul baiser me doit desesperer !  
 
-    ARISTE
+    ARISTE.
 Le traistre…  
 
-    OLIMPE
+    OLIMPE.
     L'insolent.  
 
-    ARISTE 
+    ARISTE. 
     Le fourbe.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         L'infidelle  
 Il n'en faut plus douter, il est adoré d'elle.  
 Ah Dieux ! en quel mal-heur je suis embarassé ?  
 
-    ARISTE
+    ARISTE.
 Il se repentira de m'avoir offensé.  
 
-    OLIMPE
+    OLIMPE.
 Ne vous exposez point quoy que le traistre face !  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Je ne puis plus souffrir⁎ l'excez de leur audace,  
 Sortons vistes d'icy de peur d'estre surpris,  
 Et sans leur tesmoigner que j'aye rien appris  
 
-    OLIMPE  *voyant Climante.*
+    OLIMPE *voyant Climante.*.
 Escoutoit-il ?  
 
-    CLIMANTE
+    CLIMANTE.
         Treuvons quelque adresse nouvelle,  
 Pour descouvrir leur fourbe ou pour me vanger d'elle.  
 Mais j'apperçois Oronthe.  
@@ -4691,51 +4684,51 @@ Mais j'apperçois Oronthe.
     JODELET *tout essouflé* [335].
     Ah !  
 
-    ARISTE 
+    ARISTE. 
     Qu'estre.  
 
-    JODELET
+    JODELET.
         Promptement,  
 Viste, l'exempt, Monsieur [336].  
 
-    ARISTE
+    ARISTE.
         Parle distinctement,  
 Mais escoute on nous suit.  
 
 
-### SCENE III
+### SCENE III.
 ORONTHE, CLIMANTE.
 
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
         Feignons avec adresse.  
 Hé bien !  
 
-    CLIMANTE
+    CLIMANTE.
     Ils sont là bas.  
 
-    ORONTHE
+    ORONTHE.
         Joüons leur quelque piece.  
 
-    CLIMANTE *froidement.*
+    CLIMANTE *froidement.*.
 Mais quelle ? je me treuve au bout de mes leçons !  
 
-    ORONTHE 
+    ORONTHE. 
 D'effet l'on l'a joüé de toutes les façons.  
 
-    CLIMANTE
+    CLIMANTE.
 En fin…  
 
-    ORONTHE
+    ORONTHE.
         Si vous feigniez de voir d'un œil d'envie  
 Qu'il passe avecque nous trop doucement sa vie,  
 Et qu'Olimpe l'aimant, & mesmes plus que vous,  
 Quel [337] amy qu'il vous soit vous en estes jaloux.  
 
-    CLIMANTE
+    CLIMANTE.
 Mais…  
 
-    ORONTHE
+    ORONTHE.
         Cela produiroit trois effects agreables,  
 L'un de le voir penser qu'il est des plus aimables⁎,  
 Et qu'Olimpe pour luy souspire tous les jours,  
@@ -4743,113 +4736,112 @@ L'autre de me croire homme à souffrir⁎ ces amours,
 Et le troisiesme en fin de penser que vostre ame  
 Brûle indiscrettement d'une pareille flâme.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Ainsi je puis tout haut me vanger d'un rival.  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Si prest de mon depart je ne l'entens pas mal.  
 La piece est assez bonne.  
 
-    CLIMANTE 
+    CLIMANTE. 
         Et sera bien menée,  
 Pourveu qu'Olimpe essaye à faire l'estonnée,  
 Et feigne adroitement de vous croire jaloux  
 Pendant que vous feindrez de vous mettre en couroux.  
 
-    ORONTHE
+    ORONTHE.
 Et vous ?  
 
-    CLIMANTE
+    CLIMANTE.
         Du ton de voix & de l'air du visage  
 Vous me verrez si bien joüer mon personnage,  
 Qu'en fin vous advoûrez que le plus delicat  
 S'y pourroit laisser prendre aussi bien que ce fat⁎.  
 Mais il faudroit qu'Olimpe en peust estre advertie.  
 
-    ORONTHE
+    ORONTHE.
 Un clin-d'œil la pourra mettre de la partie :  
 Et la correspondance est telle entre nous deux  
 Qu'un regard la dispose à tout ce que je veux.  
 
-    CLIMANTE
+    CLIMANTE.
 Allons vers ces jardins [338], c'est là qu'ils s'entretiennent.  
 
-    ORONTHE
+    ORONTHE.
 Ne sortons point d'icy, je les revoy qui viennent.  
 
 
-### SCENE IV 
+### SCENE IV. 
 ORONTHE, CLIMANTE, OLIMPE, ARISTE.
 
 
-    CLIMANTE
+    CLIMANTE.
 Cajoller ce qu'on aime & ne le point quitter,  
 C'est n'avoir à mon gré plus rien à souhaiter.  
 
-    ORONTHE
+    ORONTHE.
 Aussi je ne veux plus souffrir⁎ tout ce mistere.  
 
-    CLIMANTE
+    CLIMANTE.
 Ny moy passer pour sot à force de me taire,  
 Puisque de la façon que l'on vous voit agir,  
 Vous mal-traittez Oronthe, & me faictes rougir.  
 
-    OLIMPE *à ORONTHE*
+    OLIMPE *à ORONTHE*.
 De quoy l'accusez-vous ? d'où vient vostre colere ?  
 
-    ARISTE *à ORONTHE*
+    ARISTE *à ORONTHE*.
 En quoy sans y penser ay-je pû vous desplaire ?  
 Sans doute que tantost il m'avoit escouté [339].  
 
-    CLIMANTE 
+    CLIMANTE. 
 De nous priver du bien de voir cette beauté,  
 Que vous voulez contraindre à trop de violence.  
 
-    OLIMPE *à CLIMANTE*
+    OLIMPE *à CLIMANTE*.
 Vous en faictes bien plus en rompant le silence,  
 Mais sans vous informer s'il m'importe ou non,  
 Apprenez seulement que je le treuve bon ;  
 Et n'embarassez pas vostre esprit de chimeres,  
 Qui n'ont pas le secret d'avancer vos affaires.  
 
-    ORONTHE
+    ORONTHE.
 Il m'oblige, Madame, en vous parlant ainsi.  
 
-    OLIMPE
+    OLIMPE.
 Vous me ferez plaisir en vous taisant aussi.  
 Car quoy que vous disiez afin de le destruire  
 Je tiens pour ennemy quiconque luy veut nuire,  
 Et tel [340] que vous soyez ne croyez pas jamais,  
 Me contraindre à changer, l'aimant comme je fais.  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Il croit ce qu'elle dit.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         Elle entend mal la feinte,  
 Et dévroit tesmoigner davantage de crainte,  
 Il seroit deferé⁎ si chacun le quittoit.  
 
-    ORONTHE [341]
-             
+    ORONTHE [341]. 
 Ce coup d'œil la va rendre autre qu'elle n'estoit.  
 
-    OLIMPE
+    OLIMPE.
 Vous me faictes en vain signe de la prunelle ;  
 Vous n'avez pas affaire à quelque ame infidelle.  
 Qui change à tout moment, & brûle de tout feu.      
 
-    ORONTHE
+    ORONTHE.
 Elle n'a pas compris quel estoit vostre jeu,  
 Et croit le bien joüer par cette complaisance [342].  
 
-    OLIMPE *à ARISTE*
+    OLIMPE *à ARISTE*.
 Des souspçons qu'il avoit il veut prendre vengeance,  
 Et sous ces mots couverts il veut m'embarasser,  
 Mais en termes adroits il faut les repousser.  
 Feignez, il n'est pas temps…  
 
-    ARISTE
+    ARISTE.
         N'en parlez plus ensemble  
 Oronthe, il n'en sera que ce que bon vous semble.  
 Et sans vous amuser de discours superflus,  
@@ -4858,33 +4850,33 @@ Mais je ne puis comprendre à quel propos Climante,
 Estant le protecteur de ma flâme innocente,  
 Pour la rendre suspecte a fait tout ce qu'il peut !  
 
-    CLIMANTE 
+    CLIMANTE. 
 Les choses vont souvent plus loin que l'on ne veut ;  
 Et quand je reconnois quelles sont vos pensées,  
 Je voudrois rappeller mes actions passees.  
 
-    ARISTE
+    ARISTE.
 Apres tant d'amitié, cher Climante, je croy  
 Que l'amour seulement vous fait rompre avec moy,  
 Et qu'Olimpe estant belle & disposant d'Oronthe  
 Vous vous persuadez d'y treuver vostre compte.  
 
-    ORONTHE
+    ORONTHE.
 Tout au moins il agist plus franchement que vous !  
 
-    OLIMPE *en monstrant Climante.*
+    OLIMPE *en monstrant Climante.*.
 Oronthe, il parle ainsi par ce qu'il est jaloux,  
 En se servant de vous dedans ce stratageme,  
 Il croit m'espouventer.  
 
-    ORONTHE
+    ORONTHE.
         Je veux bien qu'il vous aime  
 Estant sage & discret.  
 
-    OLIMPE
+    OLIMPE.
         Il y perdra ses pas.  
 
-    CLIMANTE
+    CLIMANTE.
 J'aurois juste sujet de ne vous aymer pas.  
 Et vous devez rougir du feu qui vous consomme⁎,  
 Et d'escouter en fin les souspirs d'un jeune homme  
@@ -4899,60 +4891,60 @@ Retenoit dans mon cœur en sa plus vive atteinte
 Et qu'un profond respect m'eust forcé de celer  
 Si vous ne m'eussiez pas obligé d'en parler.  
 
-    ORONTHE
+    ORONTHE.
 Qu'il feint bien !  
 
-    CLIMANTE
+    CLIMANTE.
         Vous devez mourir icy de honte,  
 D'enfler d'orgueil Ariste, en l'aimant plus qu'Oronthe,  
 Et de voir qu'un amy ne m'est pas assez cher  
 Pour laisser faire un mal que je puis empescher.  
 
-    ARISTE *bas.*
+    ARISTE *bas.*.
 Le lasche.  
 
-    ORONTHE  *bas à CLIMANTE*
+    ORONTHE *bas à CLIMANTE*.
         Vous joüez trop bien ce personnage,  
 Gardez de la fascher.  
 
-    CLIMANTE *tout haut.* 
+    CLIMANTE *tout haut.*. 
         Ce n'est qu'une volage.  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Elle ne comprend pas quel est notre dessein.  
 Espargnez-les.  
 
-    CLIMANTE *tout haut.*
+    CLIMANTE *tout haut.*.
         Il est trop avant dans son sein.  
 
-    OLIMPE
+    OLIMPE.
 A la fin je me treuve au bout de ma finesse.  
 
-    ARISTE
+    ARISTE.
 Puis qu'Oronthe le sçait, ce n'est qu'un tour d'adresse,  
 Et puis qu'il est d'accord qu'il vous parle d'amour,  
 C'est pour faire piece, & vous joüer d'un tour.  
 
-    ORONTHE
+    ORONTHE.
 Je vous suis obligé, mais demeurez.  
 
-    CLIMANTE *haut.*
+    CLIMANTE *haut.*.
         L'ingrate !  
 
-    ORONTHE
+    ORONTHE.
 C'en est assez.  
 
-    CLIMANTE *haut.*
+    CLIMANTE *haut.*.
         Il faut que ma colere esclatte.  
 
-    ARISTE 
+    ARISTE. 
 Qu'il a bien pris son temps pour se plaindre de vous !  
 Mais nostre tour viendra pour nous mettre en courroux.  
 
-    ORONTHE *en le voulant retenir un peu loin d'eux.*
+    ORONTHE *en le voulant retenir un peu loin d'eux.*.
 Je ne puis l'arrester, il est trop en colere.  
 
-    OLIMPE
+    OLIMPE.
 Laissez le [343] aller chercher les moyens de me plaire !  
 Il sçait que son absence en est le seul moyen,  
 Et qu'autant qu'un jaloux je hay son entretien ;  
@@ -4971,51 +4963,51 @@ Je ne vous aime point, & je ne le hay pas :
 Du feu que j'ay pour luy loing de rougir de honte,  
 Si je fais bien ou mal laissez agir Oronthe.  
 
-    ORONTHE
+    ORONTHE.
 Arrestés…  
 
-    CLIMANTE 
+    CLIMANTE. 
         Je luy veux monstrer ce que je puis.  
 
-    ARISTE *bas.*
+    ARISTE *bas.*.
 Dans deux heures d'icy tu sçauras qui je suis.  
 Adieu.  
 
-    CLIMANTE
+    CLIMANTE.
         Je ne puis plus en fin, c'en est trop dire.  
 
-    ORONTHE
+    ORONTHE.
 Je feray vostre paix, ce n'estoit que pour rire.  
 
-    OLIMPE *en riant.*
+    OLIMPE *en riant.*.
 Ce jeu quoy qu'il ait dit ne m'estoit point caché.  
 
-    ORONTHE
+    ORONTHE.
 N'a t il pas tout de bon fort bien fait le fâché ?  
 
-    OLIMPE *en riant.*
+    OLIMPE *en riant.*.
 Fort bien, & vous voyez qu'Ariste en réve encore.  
 
-    ORONTHE
+    ORONTHE.
 Que faictes vous ?  
 
-    ARISTE
+    ARISTE.
         Je songe à tout ce que j'abhorre.  
 
-    ORONTHE
+    ORONTHE.
 A quoy donc ?  
 
-    ARISTE 
+    ARISTE. 
         A sortir promptement de ces lieux  
 N'y pouvant plus souffrir⁎ d'y voir des envieux.  
 
-    ORONTHE
+    ORONTHE.
 Estoit-ce le sujet de vostre inquietude ?  
 
-    ARISTE
+    ARISTE.
 C'est à quoy je révois dedans ma solitude.  
 
-    ORONTHE
+    ORONTHE.
 Qui croiroit que je songe à m'esloigner d'icy ?  
 Reposez-vous sur moy, n'ayez aucun soucy :  
 C'estoit pour divertir une melancolique,  
@@ -5024,26 +5016,26 @@ De grace, appaisez le ce pendant que [346] j'iray
 Courir aprés Climante, & le rameneray.  
 
 
-### SCENE V
+### SCENE V.
 ARISTE, OLIMPE.
 
 
-    ARISTE
+    ARISTE.
 Il croit adroittement vous avoir offensée.  
 
-    OLIMPE 
+    OLIMPE. 
 Mon apprehension n'est pas encore passée.  
 Je crains tout d'un secret qui peut estre esventé.  
 
-    ARISTE
+    ARISTE.
 Je vous avois bien dit, il avoit escouté.  
 
-    OLIMPE
+    OLIMPE.
 Sans doute que le traistre y treuveroit son compte,  
 Si de sa jalousie il informoit Oronthe,  
 Ah ! que le temps est long.  
 
-    ARISTE
+    ARISTE.
         Ah ! qu'il me dure aussy.  
 Mais dans une heure [347] au plus mes gens seront icy,  
 Le rendez-vous est pris, l'heure mesme est donnée ;  
@@ -5052,287 +5044,286 @@ Et Leonce a laissé vos parens en chemin    
 Qui pour nous appuyer seront icy demain ;  
 Et ne faut seulement que se saisir du traistre.  
 
-    OLIMPE
+    OLIMPE.
 Climante a du credit, & ce lasche peut-estre  
 Presentant le malheur qui luy doit arriver  
 Destournera le coup qui me doit conserver.  
 Il ne faut qu'un moment pour destruire l'affaire.  
 
-    ARISTE 
+    ARISTE. 
 Il peut icy beaucoup.  
 
-    OLIMPE
+    OLIMPE.
         Helas ! j'en desespere.  
 
-    ARISTE
+    ARISTE.
 S'il sçait nostre dessein, tout est perdu pour nous.  
 Mais…  
 
-    OLIMPE
+    OLIMPE.
         Oronthe revient, & paroist en courroux.  
 
 
-### SCENE VI
+### SCENE VI.
 ARISTE, OLIMPE, ORONTHE, CLIMANTE [348].
 
 
-    ORONTHE
+    ORONTHE.
 Non, je n'en doute plus, leur flâme est toute claire,  
 Cachez vous, & voyez l'effet de ma colere  
 
-    ARISTE
+    ARISTE.
 Feignez bien !  
 
-    OLIMPE *en riant.* 
+    OLIMPE *en riant.*. 
         Qu'avez-vous ? vous semblez esperdu !  
 
-    ORONTHE
+    ORONTHE.
 J'ay regret à l'honneur [349] que je vous ay rendu.  
 
-    OLIMPE
+    OLIMPE.
 Et moy qui tiens de vous les respects pour injure,  
 Je ne puis concevoir comment je vous endure.  
 
-    ORONTHE
+    ORONTHE.
 Si vous vous offencez de l'excez de ma foy⁎,  
 Vous n'aurez pas long-temps à vous plaindre de moy.  
 
-    OLIMPE
+    OLIMPE.
 Et pourveu que l'effet suive cette menace,  
 Ce coup de desespoir me doit estre une grace.  
 
-    ORONTHE
+    ORONTHE.
 Pour un fâcheux objet⁎ qu'il faut abandonner  
 La grace qui l'éloigne est facile à donner.  
 
-    OLIMPE
+    OLIMPE.
 Vous vous repentirez d'avoir esté trop sage.  
 
-    ORONTHE
+    ORONTHE.
 Je me suis repenty d'aimer une volage,  
 Dont l'ame trop sensible aux feux d'un insensé.  
 
-    ARISTE 
+    ARISTE. 
 Monsieur …  
 
-    ORONTHE
+    ORONTHE.
         Retirez-vous, vostre temps est passé.  
 
-    OLIMPE
+    OLIMPE.
 Si c'est le seul subjet de l'ennuy⁎ qui vous touche,  
 Vous pourrez bien mourir le reproche à la bouche.  
 
-    ORONTHE
+    ORONTHE.
 Et si vous ne vivez avecque plus d'honneur,  
 Je vous verray mourir sans gloire & sans bon heur.  
 
-    OLIMPE
+    OLIMPE.
 J'en auray tousjours trop pourveu qu'Ariste m'aime.  
 
-    ARISTE *bas.*
+    ARISTE *bas.*.
 Feignez jusqu'à la fin.  
 
-    OLIMPE
+    OLIMPE.
         Ah ! ma crainte est extréme.  
 
-    ORONTHE
+    ORONTHE.
 Oüy, c'est trop abuser de ma facilité.  
 
-    OLIMPE
+    OLIMPE.
 Il ne faut donc jamais dire la verité ?  
 
-    ORONTHE 
+    ORONTHE. 
 Cherir un innocent [350] !  
 
-    OLIMPE
+    OLIMPE.
         En suis-je condamnable ?  
 Et ne m'est-il permis que d'aimer un coupable ?      
 
-    ORONTHE
+    ORONTHE.
 Pour railler avec moy prenez mieux vostre temps !  
 
-    OLIMPE
+    OLIMPE.
 Et vous ne taschez point de rire à mes despens.  
 
-    ORONTHE
+    ORONTHE.
 Je ne ris point, Madame, & n'en ay point d'envie.  
 
-    OLIMPE
+    OLIMPE.
 Vous me voulez joüer, mais je vous en deffie.  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Croit-elle que je fais semblant d'estre en courroux ?  
 Et que pour l'attrapper je feins d'estre jaloux.  
 Mais…  
 
-    OLIMPE
+    OLIMPE.
         Vous n'entendez rien à vous mettre en furie.  
 
-    ORONTHE
+    ORONTHE.
 Le despit où je suis passe la raillerie,  
 Et mon ressentiment va jusqu'au dernier poinct.  
 
-    OLIMPE 
+    OLIMPE. 
 Ne vous contraignez plus vous ne m'y prendrez point.  
 
-    ARISTE *voyant Oronthe le dos tourné.*
+    ARISTE *voyant Oronthe le dos tourné.*.
 Bon…  
 
-    ORONTHE
+    ORONTHE.
         Vous le prenez mal, & vostre esprit s'abuse.  
 
-    OLIMPE
+    OLIMPE.
 Que vous seriez ravy si j'en restois confuse,  
 Et que me faisant craindre un desordre nouveau ;  
 Vous me fissiez en fin donner dans le paneau [351].  
 Il suffit, reprenez vostre humeur ordinaire.  
 
-    ORONTHE
+    ORONTHE.
 Ah ! c'est trop.  
 
-    OLIMPE
+    OLIMPE.
         Tout de bon, estes vous en colere ?  
 
-    ORONTHE
+    ORONTHE.
 J'y suis avec raison !  
 
-    OLIMPE
+    OLIMPE.
         Ce souspir est adroit !  
 Et tout autre que moy sans doute s'y prendroit.  
 
-    ORONTHE
+    ORONTHE.
 Tréve de raillerie à la fin je m'en lasse.  
 
-    OLIMPE 
+    OLIMPE. 
 Vous me bernez pourtant avec assez de grace.  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Sur de pareils discours Climante asseurément  
 A pû prendre d'Olimpe un mauvais sentiment.  
 Cet esprit trop leger se duppe par l'oreille [352].  
 
-    OLIMPE
+    OLIMPE.
 En fin n'y pensez plus, vous avez fait merveille.  
 Si je vous ay monstré que je ne craignois rien,  
 Ce n'est pas qu'en effet vous ne feignez fort bien,  
 Et que vostre courroux n'ait beaucoup de finesse.  
 
-    ORONTHE  *bas.*
+    ORONTHE *bas.*.
 Climante n'a pas veu que c'est un tour d'adresse,  
 Et croyant me venger en troublant mon repos,  
 Il s'est joüé luy-mesme assez mal à propos.  
 
-    OLIMPE
+    OLIMPE.
 Confessez moy la debte, & m'aimez davantage !  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Il faudroit estre fol pour la croire volage !  
 
-    OLIMPE
+    OLIMPE.
 Vous faschez vous encor ?  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
         Climante n'est qu'un sot.  
 
-    OLIMPE 
+    OLIMPE. 
 Jaloux ?  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
         Il eust mieux fait de ne m'en dire mot.  
 
-    OLIMPE
+    OLIMPE.
 Estre cruel alors que l'on vous prie.  
 
-    ORONTHE *bas.*
+    ORONTHE *bas.*.
 Certes il entend mal la belle raillerie.  
 Vous avés veu Climante, & l'avés bien joüé.  
 
-    OLIMPE
+    OLIMPE.
 Feignons avec esprit [353]… vous l'a-t-il avoüé.  
 
-    ORONTHE
+    ORONTHE.
 Il m'est venu treuver tout réveur & tout triste⁎,  
 Pour me donner advis que vous aimiés Ariste,  
 Et qu'en le caressant il vous avoit surpris.  
 
-    OLIMPE
+    OLIMPE.
 Hé bien ! sçay-je en donner, mesme aux plus fins esprits ?  
 
-    ORONTHE
+    ORONTHE.
 Si je le voy tanstot, je luy donneray bonne⁎.  
 
-    OLIMPE
+    OLIMPE.
 Au moins conseillés-luy de ne joüer personne.  
 
 
-### SCENE VII 
+### SCENE VII. 
 OLIMPE, ARISTE, ORONTHE, PANCRACE.
 
 
-    ARISTE
+    ARISTE.
 Voicy quelque nouvelle !  
 
-    PANCRACE *arrive en desordre.*
+    PANCRACE *arrive en desordre.*.
         Ha Monsieur, escoutés !      
 
-    OLIMPE *à ARISTE bas.*
+    OLIMPE *à ARISTE bas.*.
 Il s'espouvente !  
 
-    ORONTHE
+    ORONTHE.
         Ah ! Dieux mes chevaux arrestez.  
 
-    ARISTE *à OLIMPE bas.*
+    ARISTE *à OLIMPE bas.*.
 Le temps vient.  
 
-    OLIMPE *à ORONTHE*
+    OLIMPE *à ORONTHE*.
     Qu'avez vous ?  
 
-    ORONTHE *sans l'escouter.*
+    ORONTHE *sans l'escouter.*.
         Mes pistolets, quel trouble !  
 
-    LISETTE     [354]
-             
+    LISETTE     [354]. 
 Monsieur la foule croit, & le bruit se redouble !  
 
-    ORONTHE
+    ORONTHE.
 Ariste sauvez la, je vay descendre en bas.  
 
-    ARISTE
+    ARISTE.
 Allez je vous responds qu'elle n'en mourra pas.  
 
-    PANCRACE *suivant son maistre.*
+    PANCRACE *suivant son maistre.*.
 Dans ces anxietez il faut que la prudence…  
 
-    ORONTHE
+    ORONTHE.
 C'est trop…  
 
 
-### SCENE VIII
+### SCENE VIII.
 OLIMPE, ARISTE, ORONTHE, CLIMANTE, un Exempt, PANCRACE, JODELET, LISETTE, Troupe d'Archers.
 
 
-    L’EXEMPT, *ayant l'espée de Climante qui s'estoit voulu mettre en deffence en l'endroit où il estoit caché par où l'Exempt vient la porte estant ouverte.*
+    L’EXEMPT, *ayant l'espée de Climante qui s'estoit voulu mettre en deffence en l'endroit où il estoit caché par où l'Exempt vient la porte estant ouverte.*.
         Faire le brave & se mettre en defence.  
 Obeit-on ainsi dans les ordres du Roy ?  
 Je vous fais prisonnier.  
 
-    ORONTHE
+    ORONTHE.
     Qui ?  
 
-    L’EXEMPT
+    L’EXEMPT.
     Vous Oronthe.  
 
-    ORONTHE
+    ORONTHE.
         Moy ?  
 
-    L’EXEMPT
+    L’EXEMPT.
 Ouy, rendez vostre espée.  
 
-    ORONTHE *voulant tirer l'espée.*
+    ORONTHE *voulant tirer l'espée.*.
         Ah ! je la veux defendre.  
 Ariste sans bransler⁎ me la laissez vous prendre ?  
 
-    ARISTE
+    ARISTE.
 Comment peux-tu pretendre aucun secours de moy ?  
 Ayant tant de sujet de me plaindre de toy.  
 Dis lasche, n'es-tu pas ce ravisseur infame,  
@@ -5341,41 +5332,41 @@ Elle qui s'abaissa jusques à te flatter,
 Dans les extremitez que tu voulois tenter :  
 Dedans la ville d'Aix ne l'as-tu pas ravie ?  
 
-    OLIMPE
+    OLIMPE.
 Mais vous m'avez promis de luy sauver la vie.  
 
-    ARISTE 
+    ARISTE. 
 Madame, vos parens seront icy demain !  
 S'il obtient un pardon ce sera de leur main.  
 Pour luy nostre bonté seroit trop criminelle.  
 
-    ORONTHE
+    ORONTHE.
 Ah Dieux !  
 
-    CLIMANTE
+    CLIMANTE.
         Mais vous pourquoy prendre ces soins pour elle ?  
 
-    ARISTE
+    ARISTE.
 Pour la tirer des bras qui luy faisoient horreur⁎,  
 Et la mettre en estat de braver ta fureur⁎.  
 
-    ORONTHE
+    ORONTHE.
 Ah ! lasche si j'estois en estat.  
 
-    ARISTE
+    ARISTE.
         Hé bien traistre.  
 Que ferois-tu ?  
 
-    ORONTHE *en regardant Climante.*
+    ORONTHE *en regardant Climante.*.
     Climante…  
 
-    ARISTE
+    ARISTE.
         Apprens à me connoistre.  
 
-    CLIMANTE
+    CLIMANTE.
 Tu ne parleras pas tousjours si hardiment.  
 
-    ARISTE 
+    ARISTE. 
 Tu ne jouras plus au moins impunement,  
 Si j'ay passé pour sot en fin j'ay l'avantage,  
 De te voir aujourd'huy joüer mon personnage,  
@@ -5388,109 +5379,109 @@ Toy va chercher du cœur⁎ dans ton ressentiment
 Pour soustraire à mes veux cette rare merveille,  
 Ne le retenez point.  
 
-    ORONTHE
+    ORONTHE.
         Ah ! douleur sans pareille.  
 
-    PANCRACE *à  JODELET*
+    PANCRACE *à JODELET*.
 Quelle vicissitude !  
 
-    OLIMPE *à Oronthe & Climante du ton colere⁎.*
+    OLIMPE *à Oronthe & Climante du ton colere⁎.*.
         A ne vous rien celer.  
 
-    ARISTE *en interrompant.*
+    ARISTE *en interrompant.*.
 Ah ! ne leur faictes point l'honneur de leur parler.  
 
-    CLIMANTE
+    CLIMANTE.
 Tu te repentiras de ce que tu hasardes.  
 
-    L’EXEMPT 
+    L’EXEMPT. 
 Madame, je leur vay faire donner des gardes.  
 Messieurs, il me faut suivre, allons, sortons d'icy.  
 
-    ORONTHE
+    ORONTHE.
 Faut-il donc que d'Olimpe il soit le maistre ainsi.  
 
-    ARISTE
+    ARISTE.
 Jusqu'à demain matin par un respect extreme,  
 Je ne la verray point encore⁎ que je l'ayme ;  
 C'est devant ses parens que j'attens…  
 
-    JODELET *à PANCRACE*
+    JODELET *à PANCRACE*.
         Qu'en dis-tu ?  
 
-    ARISTE
+    ARISTE.
 Cet esclaircissement se doit à sa vertu,  
 Non à vous.  
 
-    PANCRACE *à JODELET*
+    PANCRACE *à JODELET*.
         Il touchoit son an climaterique [355].  
 
-    ORONTHE *en s'en allant.*
+    ORONTHE *en s'en allant.*.
 Ah ! trop cruelle Olimpe.  
 
-    PANCRACE
+    PANCRACE.
         Ah ! destin Tyrannique⁎.  
 
-    OLIMPE
+    OLIMPE.
 Je respons de nos jours [356].  
 
-    ORONTHE 
+    ORONTHE. 
     Ah !  
 
-    OLIMPE
+    OLIMPE.
         Je vous le promets.  
 
-    CLIMANTE *en sortant avec menace.*
+    CLIMANTE *en sortant avec menace.*.
 Dieux !  
 
-    ORONTHE
+    ORONTHE.
         Je pars sans espoir de la revoir jamais.  
 
-    PANCRACE
+    PANCRACE.
 Adieu, suivons mon maistre, & dans son sort funeste⁎  
 Imitons le destin de Pilade° & d'Oreste°.  
 
-    ARISTE *à OLIMPE*
+    ARISTE *à OLIMPE*.
 A la fin nos mal-heurs…  
 
-    JODELET
+    JODELET.
         Sans le prendre si haut  
 Donnez nous nostre faict, ayant ce qu'il vous faut.  
 Lisette…  
 
-    ARISTE
+    ARISTE.
     Je t'entens.  
 
-    LISETTE *en pleurant.*
+    LISETTE *en pleurant.*.
     Ah ! Monsieur.  
 
-    OLIMPE
+    OLIMPE.
         Pauvre Amante !  
 
-    ARISTE *en monstrant Jodelet.* 
+    ARISTE *en monstrant Jodelet.*. 
 Va nous te le donnons & cent escus de rente.  
 
-    JODELET
+    JODELET.
 Et les frais de la nopce.  
 
-    ARISTE
+    ARISTE.
     Oüy.  
 
-    JODELET
+    JODELET.
         Ce mot n'est pas fat⁎.  
 
     ARISTE À TOUS DEUX.
 En estes vous d'accord ?  
 
-    LISETTE
+    LISETTE.
     Ainsi soit-il.  
 
-    JODELET
+    JODELET.
         Vivat.  
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Les abréviations entre parenthèses indiquent le dictionnaire utilisé pour la définition :
 
@@ -5502,10 +5493,10 @@ R : RicheletAccroire« Faire croire à quelqu'un une chose fausse. Signifie au
           Alemande (allemande)« Piece de musique qui est grave, et de pleine mesure, qu'on jouë sur les instruments, et particulièrement sur le luth, le theurbe, l'orgue et le clavessin » (F)V. 1413, 1415Ambages« Vieux mot qui signifiait autrefois, un amas confus et obscur de paroles, dont on a de la peine à deviner la signification » (F)V. 1479Appas« Au pluriel, se dit particulièrement en Poësie, et signifie charmes, attraits, ce qui plaist » (A)V. 170, 314, 315, 322, 493, 513, 641, 727, 1758ArbitreLibertéV. 355, 409Ardent« Qui vient du verbe *ardre*, qui n'est plus en usage. … Se dit figurément en Morale, de tout ce qui se fait avec chaleur, passion et véhémence » (F)V. 223, 439, 1196Attraper la miche« Obtenir l'aumône » (F)V. 743Badaut« Sot, niais ; sobriquet injurieux » (F)V. 866, 986, 1177Bailler bonneVoir Donner bonne V. 719Bourree« Espece de danse composée de trois pas joints ensemble avec deux mouvemens, et commence par une noire en levant. Le premier couplet contient deux fois quatre mesures, et le second deux fois huit. Elle est composée d'un balencement et d'un coupé » (F)V. 1415Bouru (bourru)« Bizarre, qui ne veut point voir le monde, qui a des maximes extravagantes » (F)V. 916, 1748Bransler« Se mouvoir deçà & delà. Signifie aussi Se remuer » (F)V. 1106, 1881Cadeau« Partie de plaisir en l'honneur d'une belle » (F)V. 117, 1441Casaquin« Pour pourpoint, habit, casaque, ou juste au corps » (R) « Petit casaque. N'est en usage qu'en cette phrase proverbiale  “On lui a donné sur le casaquin” pour dire “ On l'a battu ” » (F)V. 1045, 1120Cassade« Bourde qu'on invente pour se défaire des importunités de quelqu'un. On le dit aussi des hableurs qui promettent beaucoup et qui tiennent peu : on les appelle “donneurs de cassades ” » (F)V. 35, 993Ce pendantPendant ce tempsV. 122, 249, 651CharmerMettre sous l'emprise d'une puissance magiqueV. 41, 510Chevrotin« Peau de chevreau préparée qui sert à faire des gands et plusieurs autres choses où on a besoin d'une peau délicate » (F)V. 69CoeurCourageV. 1907Colère : adj. m. et f.« Qui est bilieux, fougueux, emporté, esmeu de passion contre ce qui le choque. Les gens coleres sont en danger de s'attirer de meschantes affaires » (F)Didascalies v. 386, 1910Commère« Femme ou fille qui ont tenu avec quelqu'un un enfant sur les fonts de Baptême » (F)V. 1374Consommer« Se dit … d'une coction extraordinaire, qui fait une entiere dissolution des parties » (F). Au XVIIè siècle, les deux mots *consommer* et *consumer* sont confondus.V. 83, 609, 772, 928, 1555, 1716Créance« Opinion qu'on s'est mise dans l'esprit sur des raisonnements et des conjectures. Se dit encore de la confiance qu'on a en une personne à laquelle on adjoute pleine foy » (F)V. 452DéciderTrancher (sens étymologique)V. 726DéférenceRespect, soumission V. 443Déférer« Troubler, mettre une personne hors d'état de répondre » (R)V. 1686DevantAvantV. 36DiapalmaSorte d'emplâtre (F)V. 1253Donner bonne« On dit proverbialement … “vous nous l'avez donné belle, pour dire, vous nous en avez bien fait accroire” » (F)V. 1868Effroy« Terreur soudaine qui donne une grande émotion ou surprise à la veuë, ou au récit de quelque objet qui est à craindre » (F)V. 620Enamoure« Pour amoureux » (F)V. 1050Encore queQuoique, bien queV. 200, 1917Ennui«  Tourment insupportable »V. 125, 577, 794« Chagrin, fâcherie qui donne quelque discours, ou quelque accident déplaisant » (F)V. 1816ExpecterAttendreV. 864Extravagance« Chose dite ou faite mal à propos, follement » (F)V. 460Extravagant« Fou, impertinent, qui dit et fait ce qu'il ne faudroit pas qu'il dist ni qu'il fist » (F)V. 1385Falot« Homme ridicule, et qui sert de jouet aux autres, mauvais plaisant » (F)V. 57, 1038FantaisieL'imagination, la seconde des puissances qu'on attribue à l'âme sensitive, ou raisonnableV. 188, 635Fat« Sot, sans esprit, qui ne dit que des fadaises. Il n'a d'usage qu'au masculin » (F)V. 115, 128, 506, 1032, 1080, 1145, 1425, 1522, 1603, 1655, 1930FierSauvage, cruelV. 673, 695FoiblesFaiblessesV. 26FoyAmour fidèleV. 1806Funeste« Qui cause la mort, ou qui en menace ou quelque autre accident fascheux, quelque perte considérable » (F)V. 1262, 1924Fureur« Emportement violent causé par un déreglement d'esprit et de la raison » (F)V. 1895Galans« Rubans qui servent pour orner les habits, ou la teste tant des hommes que des femmes » (F)V. 1452Galimathias« Discours obscur et embrouillé où on ne comprend rien » (F)V. 463GesneTortureV. 739Gymnosophiste« Philosophe indien fameux dans l'antiquité ainsi nommé parce qu'il marchait nu »  (F)V. 1282Habler« Mentir hardiment, parler trop, ou des choses qu'on ne sait point, promettre plus qu'on ne veut tenir » (F)V. 18, 38Halebarde« Arme d'offensive, composée d'un long fût ou bâton d'environ cinq pieds, qui a un crochet ou un fer plat et échancré aboutissant en pointe et au bout d'une grande lame de fer forte et aiguë. La halebarde est l'arme que portent les sergents et les caporaux quand ils vont poser des sentinelles » (F)V. 468, 1054, 1086, 1121Hiéroglyphique« De tout genre  » (A)V. 727Horreur« Passion violente de l'ame qui la fait fremir, qui luy fait avoir peur de quelque objet nuisible & terrible » (F)V. 620, 1894Incartade« Insulte qu'on fait à quelqu'un en public et par bravade » (F)V. 1159Loups garous« Esprit dangereux et malin qui court les champs ou les ruës la nuit » (F)V. 971Menterie« Allégation de quelqu'un fausse que l'on veut faire passer pour vraye » (F)V. 20, 32NoiseQuerelleV. 1472Nitreux« Sorte de salpêtre qu'on tire de la terre » (R)V. 673, 967Objet« Se dit … poëtiquement des belles personnes qui donnent de l'amour » (F)V. 41, 281, 346, 490, 544, 610, 740, 744, 1437, 1502, 1511, 1569, 1810Oison« Jeune oie. On dit par injure à un homme, que c'est un oison, qu'il se laisse mener comme un oison, pour dire que c'est un sot qui ne sait pas se conduire, qu'il n'agit que par l'organe d'autruy » (F)V. 1011, 1025PendantVoir Ce pendantV. 582Pendart« Scélérat, fripon, qui mérite la corde » (F)V. 411Piéton« Fantassin, un soldat qui est à pied » (F)V. 240Poulet« Petit billet amoureux qu'on envoie aux dames galantes, ainsi nommé, parce qu'en le pliant on y faisoit deux pointes qui representoient les ailes d'un poulet » (F)V. 975, 1444Souffrance« Peine, tourment qu'on endure » (F)V. 818SouffrirSe dit … en parlant de ce qui desplaist, de ce qui fait quelque peine aux sens, ou à l'esprit » (F)V. 138, 170, 193, 608, 704, 714, 806, 1354, 1426, 1434, 1435, 1567, 1610, 1625, 1643, 1664, 1771TrainBagagesV. 1132Triste«  Affligé par quelque perte ou accident qui luy est arrivé, funeste »V. 209, 1262, 1566, 1749« Qui est d'un temperament sombre et melancolique » (F)V. 1864Tyrannie« Se dit aussi figurément en morale, de l'empire de nos passions, des choses auxquelles nous sommes obligés » (F)V. 319, 1921Vertu« Signifie encore, Force, vigueur, tant du corps que de l'ame. » (F)V. 697, 737, 738, 925, 966
 
 
-# Appendice I : références mythologiquesArgus« Nom propre d'un homme fabuleux qu'on dit avoir eu cent yeux, à qui Jupiter commit la garde de la vache Io, que Mercure tua, et dont Junon transporta les yeux sur la queuë du paon. En mythologie, on dit qu'il signifie la sphère des cieux qui a un nombre infini d'yeux ou d'étoiles ; et que Mercure est le soleil qui les fait disparaître par sa lumière » (Furetière)V. 65, 478Athlas (Atlas)Fils de Japet et de l'Océanide Clyméné, ce Géant appartient à la première génération des dieux. Avec ses frères, il combattit Zeus et, en punition de ce crime, fut condamné à porter le ciel sur ses épaules. On raconte aussi que Persée lui demanda l'hospitalité, mais essuya un refus. Irrité, le héros lui présenta la tête de Méduse, et le Géant, pétrifié, fut changé en une montagne nommée « Atlas » sur laquelle, selon les Anciens, reposait la voûte céleste. Dans sa nombreuse postérité, on compte les Pléiades, les Hyades, Maia, Dioné, Calypso, Hyas.V. 1298Baccus (Bacchus)Nom grec du dieu romain Dionysos. Les *bacchanalia* désignent les sanctuaires privés où des sociétés de dévots pratiquent son culte. Les bacchanales sont associées au souvenir d'un scandale très important. Contraint à la discrétion par la répression, le culte des bacchants ressurgira sous l'Empire.Bachante (Bacchante)Suivantes de Dionysos, les Bacchantes accompagnent le dieu dans ses périples et notamment dans le long voyage qu'il accomplit aux Indes. Sans être des prêtresses, elles tiennent une place importante dans la religion et le culte et apparaissent notamment au cours des mystères et des fêtes célébrés en l'honneur de leur maître. Vêtues de peaux de lion, la poitrine souvent dénudée, elles portent le thyrse, sorte de lance entourée de pampre et de lierre, et se livrent à une danse frénétique qui les plonge dans une extase mystique et leur donne une force prodigieuse et redoutée, dont certains héros furent les malheureuses victimes. On les nomme alors les *Ménades* (« les Furieuses »). Toutefois, tout autant que les Muses, servantes d'Apollon, elles savent inspirer les poètes par leurs pouvoirs enchanteurs.V. 672Briare (Briaree)Fils de Gaia et d'Ouranos, il a été emprisonné par son père et délivré par Zeus afin de l'aider à renverser Cronos. Briare garde le Tartare où sont enfermés les Anciens Dieux et protège Zeus. Il est le gendre de Poséidon et l'époux de Kymopoléia.V. 682Bronthe (Brontês)Il s'agit d'un des trois cyclopes. Avec ses frères, il fait partie des Cyclopes ouraniens que Zeus délivra du Tartare. Par gratitude, ils forgèrent la foudre, l'éclair et le tonnerre, qui permirent à Zeus de vaincre Cronos et de s'emparer du trône céleste. Ils prirent respectivement les noms d'Argês (« l'éclair »), Stéropês (« la foudre ») et Brontês (« le tonnerre »).V. 1278Caliste (Callisto)Est une des vingt nymphes préposées au soin de la meute rapide d'Artémis (fille de Zeus et de Déméter ou de Perséphone ou encore de Dionysos et d'Isis). C'est une vierge chasseresse qui se livre aux plaisirs de la chasse en compagnie de soixante jeunes océanides. Elle fait de la chasteté une loi rigoureuse et l'impose à son entourage. La malheureuse Callisto a été séduite par Zeus qui l'a approchée en empruntant l'apparence de la déesse. Punie pour sa faute, elle est changée en ourse.V. 556, 1448Caribde (Charybde)Fille de Poséidon et de Gaia. Animée d'un appétit féroce, Charybde déroba à Héraclès quelques têtes de son bétail pour les dévorer. Zeus la frappa de la foudre pour la punir et la précipita dans un gouffre du détroit de Messine, en face du monstre Scylla. Image, moins que mythe et légende, des fureurs de la mer, Charybde engloutit trois fois par jour d'énormes paquets d'eau et attire dans ses tourbillons les navires, puis les rejette trois fois par jour également, dans un mugissement terrifiant. Quant aux marins qui changent de cap pour éviter Charybde, ils sont aussitôt rejetés vers Scylla, qui s'empresse de les dévorer.V. 679CahosLe cahos n'est pas un dieu, mais un principe, celui du commencement confus de toutes choses, l'image de ce qui existait avant les dieux, avant les mortels, et d'où tout est issu. Il engendra l'Erèbe et la Nuit. Puis, de sa masse enchevêtrée surgirent le Jour et l'Ether, avec le premier jaillissement de la lumière indispensable à l'éclosion de la vie. V. 1301, 1302Ciclope (Cyclopes)Êtres fabuleux, pourvus d'un œil unique au centre du front, qui apparaissent dans de nombreuses légendes gréco-latines. Les plus fameux des Cyclopes sont ceux que décrit Homère. Géants brutaux, sans foi ni loi, ils élèvent des troupeaux de moutons, récoltent, sans user d'aucun moyen de technique agricole, ce que la terre consent à faire pousser spontanément, et ne craignent pas, à l'occasion, de dévorer les êtres humains qui se risquent sur leurs territoires et dans leurs cavernes. Ils représentent, aux yeux des Grecs, le type de la race sauvage, inculte, dénuée de toute idée de civilisation. Au cours de leur pérégrination, Ulysse et ses compagnons se mesurèrent avec le plus redoutable d'entre eux, Polyphème. V. 683Cloton (Clotho)Les Moires que les Latins appellent les Parques sont pour Homère les destinées individuelles et inéluctables de chaque homme. Elles sont trois. Filles de la Nuit, elles s'appellent Clotho, Lachésis, Atropos. Clotho, qui file la destinée des hommes, personnifie la trame de la vie.V. 696CocyteLes eaux de ce fleuve, affluent de l'Achéron en Epire, communiquaient également avec les Enfers. Elles s'accroissaient des larmes des méchants. Sur les rives du Cocyte erraient les âmes des morts privés de sépulture qui attendaient de connaître la décision des juges, concernant le sort qui leur serait réservé.V. 692CupidonBien plus que l'Eros grec, avec lequel il finit par être confondu, Cupidon, auxiliaire d'Aphrodite, est la personnification du désir amoureux le plus vif. Apulée nous conte l'histoire de Psyché, aimée par le dieu, récit qui témoigne de la persévérance dont Cupidon fait preuve, lorsqu'il est possédé par la passion.V. 1284EchoNymphe de la montagne, elle a offensé Héra en l'empêchant par ses bavardages de surveiller les infidélités de Zeus. Pour la châtier, Héra lui ôta la parole et Echo ne peut répéter que les derniers mots de son interlocuteur.V. 244, 787, 904ErinyesEsprits femelles redoutables, elles incarnent le châtiment implacable de la justice. Représentées couronnées de serpents, elles rendent fous les meurtriers, et plus particulièrement les parricides, qu'elles persécutent sans fin. Une fois le crime expié et le criminel purifié, elles deviennent les Euménides, c'est-à-dire les « Bienveillantes » par cet euphémisme qui consiste à les flatter pour détourner leur colère et s'attirer ainsi leurs bonnes grâces.V. 959EsonL'un des sept fils d'Eole est Cretheus qui régnait sur Iolcos en Thessalie. Eson fut chassé par un usurpateur, Pélias, un cousin, ou petit-cousin, fils de Poséidon, descendant d'Eole par sa mère. Pour le soustraire à la haine de Pélias, Eson cacha son fils nouveau-né et le confia au Centaure Chiron, qui l'éleva dans ses montagnes et lui donna son nom : Jason. Celui-ci revint chez lui et réclama le pouvoir à Pélias qui promit de le lui rendre s'il rapportait la Toison d'or. Après de nombreuses aventures avec les Argonautes, Jason conquit la Toison, aidé par la magicienne Médée, qu'il épousa. A leur retour à Iolcos, Médée, pour venger Jason, assassina Pélias en persuadant ses filles de le faire bouillir dans une marmite sous prétexte de le rajeunir.V. 694EuménidesCe mot, qui signifie « Bienveillantes », désigne parfois les Erinyes. Elles étaient ainsi nommées lorsqu'un meurtrier s'était purifié de son crime : elles se montraient en effet mieux intentionnées à son égard. Dans la tragédie d'Eschyle qui porte leur nom, elles deviennent les déesses de la Fécondité de la terre, tout en personnifiant les lois morales et les sanctions qui leur sont attachées.V. 692FuriesDémons du monde souterrain, inspirés des divinités infernales étrusques, qui occupaient une place importante dans la religion romaine, mais leur origine, leur nom et leur culte étaient empruntés aux trois Erinyes grecques.V. 961Hidre (Hydre de Lerne)Né de Typhon et d'Echidna, ce monstre vivait dans une caverne près du lac de Lerne. Il avait le corps d'un chien et neuf têtes de serpent. Une seule de ces têtes était immortelle. Envoyé par Eurysthée pour tuer l'Hydre, Héraclès accomplit alors le deuxième de ses douze travaux. Le héros coupa d'abord une tête, mais aussitôt deux autres repoussèrent à la place.V. 736LareDieu romain d'origine étrusque, fils de Mercure et de Lara, Lare incarne l'âme des morts sous la forme d'une petite statuette  figurant les traits d'un adolescent. Transmise de génération en génération, elle protège chaque demeure romaine. On lui voue un culte minutieux et superstitieux. Aux Lares domestiques s'ajoutent les multiples Lares publics qui garantissent la sécurité des rues, des champs, des carrefours et les Lares de la cité qui sont choisis parmi les dieux romains : ainsi Janus, Diane, Mercure.V. 731Lestringon (Lestrygons)Ayant fait escale au sud de l'Italie, dans un port que l'on identifie généralement avec la ville de Formies, en Campanie, Ulysse et ses compagnons furent attaqués par les Lestrygons, géants anthropophages, qui leur jetèrent des pierres et coulèrent presque tous leurs navires. Le roi d'Ithaque put leur échapper, mais un grand nombre des navigateurs qui l'accompagnaient furent cueillis par les immenses mains des Lestrygons et dévorés.V. 681MarsTransposition latine de l'Arès hellénique, associé à Quirinus, ancien dieu sabin de la Guerre, Mars est l'un des dieux romains sur lesquels les interprétations des mythographes demeurent le plus sujet à controverses. Certes, il est le dieu de la Guerre mais l'influence qu'exerce la figure d'Arès sur Mars ne doit pas cacher le caractère beaucoup plus complexe du Mars primitif, vénéré particulièrement  par les Sabins et les Osques. Loin d'être un dieu de la  Destruction, Mars protégeait, au contraire, la végétation et assurait son épanouissement. Les mythographes contemporains ont tenté de relier en une synthèse plausible les deux attributions du dieu : la guerre et la prospérité. Ils ont montré que les fêtes de Mars se déroulent au moment où les armées cessent d'hiverner et où les combats reprennent. Mars serait alors la figure symbolique du réveil de la force et de la vigueur tant dans la nature que dans le cœur des guerriers.V. 1285MénélasComme son frère Agamemnon, ce fils d'Atrée fut mêlé au conflit qui opposait son père à Thyeste. Lorsque les circonstances attribuèrent à ce dernier le trône d'Atrée, il se réfugia à la cour du roi Tyndare de Sparte, qui avait une fille d'une grande beauté, Hélène. Ménélas s'en éprit et l'épousa. Tandis qu'Agamemnon réussissait à reprendre le trône d'Argos, il s'installa sur celui de Sparte que lui avait légué son beau-père en mourant. Il devait vivre heureux avec Hélène, qui lui donna de nombreux enfants, jusqu'au jour où Pâris, fils de Priam, roi de Troie, de passage à Sparte, vint le trouver. Ménélas le reçut avec bienveillance, puis dut partir pour offrir un sacrifice. En son absence, Pâris séduisit Hélène, l'enleva et, avec elle, gagna Troie. Apprenant la fuite de son épouse, Ménélas convoqua tous les anciens prétendants d'Hélène pour tirer une vengeance  exemplaire de cet affront. Ménélas et Ulysse furent envoyés en ambassade à Troie pour réclamer pacifiquement la restitution d'Hélène. Mais devant le refus des ravisseurs, ils se préparèrent à la guerre. La plus grande partie des Etats grecs manifesta sa solidarité et mit sur pied une armée commune. Pendant la guerre de Troie, qui devait durer dix ans, Ménélas tua de nombreux troyens, et Pâris aurait péri sous ses coups si Aphrodite ne l'eût protégé. A la mort de Pâris, Hélène, ayant épousé Déiphobos, ce fut vers la maison de ce Troyen que Ménélas se dirigea lorsqu'il put mettre la ville à feu et à sang. Déiphobos périt de sa main. La rencontre d'Hélène et de Ménélas, après tant d'années d'absence, fut dramatique. Mais, ébloui par sa beauté, le héros pardonna à sa jeune femme, et la réconciliation entre les époux fut totale.V. 729Mont IdaLa jeunesse de Zeus se passa dans les forêts de l'Ida parce que sa mère Rhéa  supplia Ouranos et Gaia de sauver Zeus des dents de Cronos, son mari (qui dévorait chacun de ses enfants). Rhéa le mit au monde et présenta à Cronos une pierre enveloppée de langes qu'il engloutit. Gaia porta son petit-fils sur le Mont Ida.V. 725NéréidesDivinités marines, filles de Nérée et de Doris, les cinquante Néréides étaient en quelque sorte les nymphes de la Méditerranée. Elles habitaient au fond de la mer, dans un palais lumineux, et divertissaient leur père par leurs chants et leurs danses. Mais, personnifiant chacune une forme, un aspect particulier de la surface des eaux, elles y apparaissaient souvent et, magnifiques créatures, mi-femmes mi-poissons, se mêlaient aux vagues et aux algues en chevauchant des Tritons ou des chevaux marins.V. 889Nimphes (Nymphes)Divinités féminines mineures, associées aux notions  de fécondité, de croissance, aux arbres, elles ont une existence extrêmement longue. On les distingue suivant le domaine de la nature auquel elles appartiennent.V. 232, 236, 239NiobéFille de Tantale, épouse d'Amphion, roi de Thèbes, à qui elle donna six filles et six garçons. Elle se vanta d'être supérieure à Léto qui n'eut que deux fils : Apollon et Artémis. Pour la punir, Apollon tue ses fils et Artémis ses filles à coups de flèches. A la vue de ses enfants agonisants, Niobé fut comme pétrifiée. Pris de pitié, Zeus la changea en rocher, d'où coulent ses larmes sous la forme d'une source.V. 677OresteFils d'Agamemnon et de Clytemnestre. Encore très jeune lors de la mort de son père assassiné à son retour de Troie par son épouse Clytemnestre, il est caché par sa sœur Electre et élevé à la cour d'un oncle roi de Phocie, dont le fils Pylade devient son ami inséparable. Parvenu à l'âge d'homme, il est désigné par l'oracle de Delphes pour venger son père : c'est Electre qui le pousse à accomplir le matricide. Saisi de folie et poursuivi par les implacables Erinyes, il se rend en Tauride, aux confins de la mer Noire : il y retrouve sa sœur Iphigénie, sauvée par Artémis du sacrifice où Agamemnon devait autrefois l'immoler et devenue prêtresse de la déesse. A son retour en Grèce, purifié de son crime, il vient à la cour de Néoptolème pour enlever l'épouse de celui-ci, Hermione, qui lui avait été fiancée avant la guerre de Troie. Oreste finira par épouser Hermione et régnera sur Argos, sa patrie, et sur Sparte, comme successeur de Ménélas.V. 1925PârisFils cadet de Priam et d'Hécube. Son arbitrage lors de la querelle qui oppose les trois déesses Héra, Athéna et Aphrodite pour l'élection de la plus belle est à l'origine de la guerre de Troie : en accordant sa faveur à la déesse de l'amour, il obtient Hélène qu'il ira enlever à Sparte. Son comportement peu glorieux au cours de la guerre de Troie lui vaut de nombreuses railleries ; cependant, c'est lui qui tue Achille d'une flèche guidée par Apollon. Il sera abattu à son tour par une flèche empoisonnée décochée par Philoctète avec l'arc d'Héraclès.V. 722PeléeRoi des Myrmidons, père d'Achille, il tue par mégarde son frère Phocos et est banni d'Egine. Il est choisi par les dieux pour épouser, en seconde noce, Thétis qui veut lui échapper. Il la capture finalement. Celle-ci, après avoir donné naissance à Achille, retourne dans les profondeurs de la mer.V. 724PénélopeFille de la nymphe Périboéa et d'Icarios, frère de Tyndare, roi de Sparte, elle fut donnée en mariage à Ulysse, qui avait remporté une victoire au cours de jeux où s'affrontaient les divers soupirants de la belle jeune fille. Elle mit au monde un fils, Télémaque, encore enfant lorsque Ulysse dut quitter son royaume d'Ithaque pour Troie. Pendant les vingt années que dura l'absence de son époux, Pénélope dut repousser par toutes sortes de ruses les avances des prétendants, qui affirmant qu'Ulysse était mort, la pressaient de choisir un nouvel époux parmi eux. Elle déclara qu'elle devait terminer le tissage du linceul de son beau-père Laërte avant de faire un choix. La nuit, elle défaisait l'ouvrage qu'elle avait fait le jour. Ce stratagème fut dénoncé par une des servantes. Au moment où, de plus en plus sollicitée par ses prétendants, elle allait mettre fin, malgré elle, à plusieurs années de fidélité conjugale et de chasteté, Ulysse revint à Ithaque et, après s'être fait reconnaître de sa femme, massacra tous les hommes qui avaient envahi sa demeure et se livraient aux libations et aux pillages. Puis il revint auprès de Pénélope, et Athéna, dit-on, prolongea pour eux la durée de la nuit. Pénélope demeure le symbole d'une fidélité conjugale d'autant plus remarquable qu'elle fut rare parmi les femmes des héros partis pour la guerre de Troie.V. 684PhénixOiseau fabuleux, originaire d'Ethiopie et rattaché au culte du Soleil. Il a la forme d'un aigle, son plumage est rouge, bleu et or éclatant, son aspect est splendide. Il vit au moins cinquante ans et ne se reproduit pas. Ainsi, quand il sent la fin venir, il construit un nid de branches aromatiques et d'encens, il y met le feu et se consume dans les flammes. Des cendres de ce bûcher surgit un nouveau phénix. Pour les astrologues la naissance d'un nouveau phénix marque le début d'une révolution sidérale. Le phénix figurait l'immortalité, il est l'allégorie de la résurrection et de la survie de l'âme.V. 546Pilade (Pylade)Fils d'un roi de Phocie et d'une sœur d'Agamemnon. Cousin d'Oreste, il devient l'ami inséparable du jeune homme qui est élevé avec lui ; il l'accompagnera partout, de Tauride, où Oreste doit se purifier après le meurtre de Clytemnestre, en Epire, où il vient réclamer son ancienne fiancée Hermione. Plus tard il épousera Electre, la sœur aînée d'Oreste.V. 1925PléiadesDivers récits commentent le mythe des sept sœurs, Maïa, Electre, Taygète, Astéropé, Méropé, Alcyoné et Célaeno, filles d'Atlas et de Pléioiné, qui forment la constellation des Pléiades. Selon une tradition béotienne, Zeus les plaça au nombre des étoiles après les avoir changées en colombes pour les soustraire à Orion, qui les poursuivait. Toutefois, la tradition la plus courante veut que, désespérées du châtiment que Zeus infligea à leur père, elles se soient donné la mort et aient été changées en étoiles. Leur apparition au printemps en mai (les Latins les nomment Vergiliae, du mot *ver*, printemps) indique au marin qui cherche sa route dans les cieux la saison propice à la navigation (*Pléiades* est en effet dérivé d'un mot grec qui signifie « naviguer »), et leur disparition au commencement de novembre signale le début du gros temps, dangereux pour les navires. V. 688PriamRoi de Troie ; l'épopée homérique le représente comme un vieillard noble et généreux, accablé par la mort de son fils Hector, dont il vient réclamer le corps de façon pathétique jusqu'à la tente d'Achille. Certaines légendes le montrent alors accompagné d'Andromaque et de Polyxène. Lors de la prise de Troie, il est égorgé par Néoptolème sur l'autel du temple de Zeus où il s'est réfugié.V. 731Scille (Scylla)Sur la généalogie de Scylla, les traditions diffèrent. Pourtant, elles concordent toutes pour assurer que l'amour déçu et la jalousie vengeresse furent les causes de la métamorphose et de la mort de ce monstre. Scylla, fille de Phorcys et d'Hécate, ou de Typhon et d'Echidna suivant une autre version, était une nymphe d'une beauté radieuse. Mais elle se montrait trop fière de ses charmes pour les dispenser au premier venu. Le dieu marin Glaucos s'en aperçut du reste, lui qui, éperdument amoureux de Scylla, la poursuivait en essuyant, jour après jour, les refus dédaigneux de l'orgueilleuse nymphe. Ne sachant comment parvenir à ses fins, Glaucos appela à son aide la magicienne Circé. Celle-ci, éprise de Glaucos, dirigea contre Scylla sa jalousie. Elle prépara un poison végétal qu'elle versa dans la fontaine où la nymphe avait coutume de se baigner. Lorsqu'elle s'y plongea, son corps, aux formes si parfaites, se métamorphosa en un monstre, pourvu de six pattes griffues et de six têtes de chien, qui, ouvrant leurs gueules énormes, hurlaient comme des lions et découvraient trois rangées de dents acérées. Désolée de sa laideur soudaine, Scylla se jeta dans les flots. Elle s'établit sur un rocher, au bord du détroit de Messine, en face de Charybde. Savourant une rancœur sans fin, elle effrayait les matelots ; ceux-ci, abandonnant les commandes de leurs navires, se sentaient attirés par le monstre, qui se hâtait de les dévorer. Ainsi périrent six compagnons d'Ulysse. Mais Jason et Enée, grâce au concours des dieux et des devins, connurent une plus heureuse fortune.V. 680SiphilleNom d'un fils de Niobé. Il s'agit aussi d'un mont en Lydie. V. 677Thiphon (Typhon)Afin de venger ses petits-fils, les Titans, emprisonnés dans les Enfers sur l'ordre de Zeus, leur vainqueur, Gaia donna naissance à un monstre effrayant, au corps couvert d'écailles, et dont les cent gueules vomissaient du feu. Typhon s'attaqua aux dieux de l'Olympe. Il s'ensuivit l'ultime lutte entre les cieux et la Terre, entre les dieux de la Lumière et les sombres principes enfantés par les entrailles de la Terre. Dans ce combat, on peut voir aussi l'image symbolique d'un cataclysme volcanique qui aurait ravagé les Cyclades, laissant aux hommes un souvenir d'effroi. Enfin, vaincu, Typhon, dernière force anarchique soulevée contre la loi, l'ordre de Zeus et des Olympiens, fut précipité, lui aussi, au fond des Enfers ; il y rejoignit les Titans. Cependant il avait eu le temps de s'accoupler avec Echidna. Celle-ci enfanta de ses œuvres toute une suite de monstres plus affreux les uns que les autres : Cerbère, l'Hydre de Lerne, la Chimère, le Sphinx, les Harpyes et la plupart des divinités malfaisantes du monde souterrain.V. 682TritonCe dieu, primitivement étranger à la Grèce, fut adoré par les marins et reçut ensuite un culte et une légende. Il avait pour demeure la mer toute entière, car il y était né de l'union de la Néréide Amphitrite et du dieu de toutes les eaux des océans, Poséidon. Il a des apparences diverses, mais on le représente généralement comme un homme dont le corps se termine par deux énormes queues de poisson. A la fois bienveillant et terrible, il souffle dans une énorme conque marine, qui mugit au cours des tempêtes. Les marins le vénèrent surtout comme un dieu qui apaise les flots déchaînés et comme un intermédiaire entre eux et Poséidon. Il indiqua aux Argonautes la bonne route, rappela à lui les eaux du Déluge et calma la tourmente suscitée par Junon contre le Troyen Enée. V. 891ZéphirVent d'Ouest. Compagnon ordinaire de Borée (vent du Nord), Zéphyr n'était pas, à l'origine, le vent léger et bienfaisant dont le souffle fait éclore les fleurs printanières. Comme son frère, c'est un vent impétueux et funeste qui se plaisait à amasser les orages et à faire bondir les vagues de la mer. Avec Borée, il résidait dans les arbres de la Thrace montagneuse. Par la suite, le caractère violent de Zéphyr s'atténua, il devint un vent embaumé, qui rafraîchissait les régions bienheureuses de l'Elysée.V. 217
+# Appendice I : références mythologiques.Argus« Nom propre d'un homme fabuleux qu'on dit avoir eu cent yeux, à qui Jupiter commit la garde de la vache Io, que Mercure tua, et dont Junon transporta les yeux sur la queuë du paon. En mythologie, on dit qu'il signifie la sphère des cieux qui a un nombre infini d'yeux ou d'étoiles ; et que Mercure est le soleil qui les fait disparaître par sa lumière » (Furetière)V. 65, 478Athlas (Atlas)Fils de Japet et de l'Océanide Clyméné, ce Géant appartient à la première génération des dieux. Avec ses frères, il combattit Zeus et, en punition de ce crime, fut condamné à porter le ciel sur ses épaules. On raconte aussi que Persée lui demanda l'hospitalité, mais essuya un refus. Irrité, le héros lui présenta la tête de Méduse, et le Géant, pétrifié, fut changé en une montagne nommée « Atlas » sur laquelle, selon les Anciens, reposait la voûte céleste. Dans sa nombreuse postérité, on compte les Pléiades, les Hyades, Maia, Dioné, Calypso, Hyas.V. 1298Baccus (Bacchus)Nom grec du dieu romain Dionysos. Les *bacchanalia* désignent les sanctuaires privés où des sociétés de dévots pratiquent son culte. Les bacchanales sont associées au souvenir d'un scandale très important. Contraint à la discrétion par la répression, le culte des bacchants ressurgira sous l'Empire.Bachante (Bacchante)Suivantes de Dionysos, les Bacchantes accompagnent le dieu dans ses périples et notamment dans le long voyage qu'il accomplit aux Indes. Sans être des prêtresses, elles tiennent une place importante dans la religion et le culte et apparaissent notamment au cours des mystères et des fêtes célébrés en l'honneur de leur maître. Vêtues de peaux de lion, la poitrine souvent dénudée, elles portent le thyrse, sorte de lance entourée de pampre et de lierre, et se livrent à une danse frénétique qui les plonge dans une extase mystique et leur donne une force prodigieuse et redoutée, dont certains héros furent les malheureuses victimes. On les nomme alors les *Ménades* (« les Furieuses »). Toutefois, tout autant que les Muses, servantes d'Apollon, elles savent inspirer les poètes par leurs pouvoirs enchanteurs.V. 672Briare (Briaree)Fils de Gaia et d'Ouranos, il a été emprisonné par son père et délivré par Zeus afin de l'aider à renverser Cronos. Briare garde le Tartare où sont enfermés les Anciens Dieux et protège Zeus. Il est le gendre de Poséidon et l'époux de Kymopoléia.V. 682Bronthe (Brontês)Il s'agit d'un des trois cyclopes. Avec ses frères, il fait partie des Cyclopes ouraniens que Zeus délivra du Tartare. Par gratitude, ils forgèrent la foudre, l'éclair et le tonnerre, qui permirent à Zeus de vaincre Cronos et de s'emparer du trône céleste. Ils prirent respectivement les noms d'Argês (« l'éclair »), Stéropês (« la foudre ») et Brontês (« le tonnerre »).V. 1278Caliste (Callisto)Est une des vingt nymphes préposées au soin de la meute rapide d'Artémis (fille de Zeus et de Déméter ou de Perséphone ou encore de Dionysos et d'Isis). C'est une vierge chasseresse qui se livre aux plaisirs de la chasse en compagnie de soixante jeunes océanides. Elle fait de la chasteté une loi rigoureuse et l'impose à son entourage. La malheureuse Callisto a été séduite par Zeus qui l'a approchée en empruntant l'apparence de la déesse. Punie pour sa faute, elle est changée en ourse.V. 556, 1448Caribde (Charybde)Fille de Poséidon et de Gaia. Animée d'un appétit féroce, Charybde déroba à Héraclès quelques têtes de son bétail pour les dévorer. Zeus la frappa de la foudre pour la punir et la précipita dans un gouffre du détroit de Messine, en face du monstre Scylla. Image, moins que mythe et légende, des fureurs de la mer, Charybde engloutit trois fois par jour d'énormes paquets d'eau et attire dans ses tourbillons les navires, puis les rejette trois fois par jour également, dans un mugissement terrifiant. Quant aux marins qui changent de cap pour éviter Charybde, ils sont aussitôt rejetés vers Scylla, qui s'empresse de les dévorer.V. 679CahosLe cahos n'est pas un dieu, mais un principe, celui du commencement confus de toutes choses, l'image de ce qui existait avant les dieux, avant les mortels, et d'où tout est issu. Il engendra l'Erèbe et la Nuit. Puis, de sa masse enchevêtrée surgirent le Jour et l'Ether, avec le premier jaillissement de la lumière indispensable à l'éclosion de la vie. V. 1301, 1302Ciclope (Cyclopes)Êtres fabuleux, pourvus d'un œil unique au centre du front, qui apparaissent dans de nombreuses légendes gréco-latines. Les plus fameux des Cyclopes sont ceux que décrit Homère. Géants brutaux, sans foi ni loi, ils élèvent des troupeaux de moutons, récoltent, sans user d'aucun moyen de technique agricole, ce que la terre consent à faire pousser spontanément, et ne craignent pas, à l'occasion, de dévorer les êtres humains qui se risquent sur leurs territoires et dans leurs cavernes. Ils représentent, aux yeux des Grecs, le type de la race sauvage, inculte, dénuée de toute idée de civilisation. Au cours de leur pérégrination, Ulysse et ses compagnons se mesurèrent avec le plus redoutable d'entre eux, Polyphème. V. 683Cloton (Clotho)Les Moires que les Latins appellent les Parques sont pour Homère les destinées individuelles et inéluctables de chaque homme. Elles sont trois. Filles de la Nuit, elles s'appellent Clotho, Lachésis, Atropos. Clotho, qui file la destinée des hommes, personnifie la trame de la vie.V. 696CocyteLes eaux de ce fleuve, affluent de l'Achéron en Epire, communiquaient également avec les Enfers. Elles s'accroissaient des larmes des méchants. Sur les rives du Cocyte erraient les âmes des morts privés de sépulture qui attendaient de connaître la décision des juges, concernant le sort qui leur serait réservé.V. 692CupidonBien plus que l'Eros grec, avec lequel il finit par être confondu, Cupidon, auxiliaire d'Aphrodite, est la personnification du désir amoureux le plus vif. Apulée nous conte l'histoire de Psyché, aimée par le dieu, récit qui témoigne de la persévérance dont Cupidon fait preuve, lorsqu'il est possédé par la passion.V. 1284EchoNymphe de la montagne, elle a offensé Héra en l'empêchant par ses bavardages de surveiller les infidélités de Zeus. Pour la châtier, Héra lui ôta la parole et Echo ne peut répéter que les derniers mots de son interlocuteur.V. 244, 787, 904ErinyesEsprits femelles redoutables, elles incarnent le châtiment implacable de la justice. Représentées couronnées de serpents, elles rendent fous les meurtriers, et plus particulièrement les parricides, qu'elles persécutent sans fin. Une fois le crime expié et le criminel purifié, elles deviennent les Euménides, c'est-à-dire les « Bienveillantes » par cet euphémisme qui consiste à les flatter pour détourner leur colère et s'attirer ainsi leurs bonnes grâces.V. 959EsonL'un des sept fils d'Eole est Cretheus qui régnait sur Iolcos en Thessalie. Eson fut chassé par un usurpateur, Pélias, un cousin, ou petit-cousin, fils de Poséidon, descendant d'Eole par sa mère. Pour le soustraire à la haine de Pélias, Eson cacha son fils nouveau-né et le confia au Centaure Chiron, qui l'éleva dans ses montagnes et lui donna son nom : Jason. Celui-ci revint chez lui et réclama le pouvoir à Pélias qui promit de le lui rendre s'il rapportait la Toison d'or. Après de nombreuses aventures avec les Argonautes, Jason conquit la Toison, aidé par la magicienne Médée, qu'il épousa. A leur retour à Iolcos, Médée, pour venger Jason, assassina Pélias en persuadant ses filles de le faire bouillir dans une marmite sous prétexte de le rajeunir.V. 694EuménidesCe mot, qui signifie « Bienveillantes », désigne parfois les Erinyes. Elles étaient ainsi nommées lorsqu'un meurtrier s'était purifié de son crime : elles se montraient en effet mieux intentionnées à son égard. Dans la tragédie d'Eschyle qui porte leur nom, elles deviennent les déesses de la Fécondité de la terre, tout en personnifiant les lois morales et les sanctions qui leur sont attachées.V. 692FuriesDémons du monde souterrain, inspirés des divinités infernales étrusques, qui occupaient une place importante dans la religion romaine, mais leur origine, leur nom et leur culte étaient empruntés aux trois Erinyes grecques.V. 961Hidre (Hydre de Lerne)Né de Typhon et d'Echidna, ce monstre vivait dans une caverne près du lac de Lerne. Il avait le corps d'un chien et neuf têtes de serpent. Une seule de ces têtes était immortelle. Envoyé par Eurysthée pour tuer l'Hydre, Héraclès accomplit alors le deuxième de ses douze travaux. Le héros coupa d'abord une tête, mais aussitôt deux autres repoussèrent à la place.V. 736LareDieu romain d'origine étrusque, fils de Mercure et de Lara, Lare incarne l'âme des morts sous la forme d'une petite statuette  figurant les traits d'un adolescent. Transmise de génération en génération, elle protège chaque demeure romaine. On lui voue un culte minutieux et superstitieux. Aux Lares domestiques s'ajoutent les multiples Lares publics qui garantissent la sécurité des rues, des champs, des carrefours et les Lares de la cité qui sont choisis parmi les dieux romains : ainsi Janus, Diane, Mercure.V. 731Lestringon (Lestrygons)Ayant fait escale au sud de l'Italie, dans un port que l'on identifie généralement avec la ville de Formies, en Campanie, Ulysse et ses compagnons furent attaqués par les Lestrygons, géants anthropophages, qui leur jetèrent des pierres et coulèrent presque tous leurs navires. Le roi d'Ithaque put leur échapper, mais un grand nombre des navigateurs qui l'accompagnaient furent cueillis par les immenses mains des Lestrygons et dévorés.V. 681MarsTransposition latine de l'Arès hellénique, associé à Quirinus, ancien dieu sabin de la Guerre, Mars est l'un des dieux romains sur lesquels les interprétations des mythographes demeurent le plus sujet à controverses. Certes, il est le dieu de la Guerre mais l'influence qu'exerce la figure d'Arès sur Mars ne doit pas cacher le caractère beaucoup plus complexe du Mars primitif, vénéré particulièrement  par les Sabins et les Osques. Loin d'être un dieu de la  Destruction, Mars protégeait, au contraire, la végétation et assurait son épanouissement. Les mythographes contemporains ont tenté de relier en une synthèse plausible les deux attributions du dieu : la guerre et la prospérité. Ils ont montré que les fêtes de Mars se déroulent au moment où les armées cessent d'hiverner et où les combats reprennent. Mars serait alors la figure symbolique du réveil de la force et de la vigueur tant dans la nature que dans le cœur des guerriers.V. 1285MénélasComme son frère Agamemnon, ce fils d'Atrée fut mêlé au conflit qui opposait son père à Thyeste. Lorsque les circonstances attribuèrent à ce dernier le trône d'Atrée, il se réfugia à la cour du roi Tyndare de Sparte, qui avait une fille d'une grande beauté, Hélène. Ménélas s'en éprit et l'épousa. Tandis qu'Agamemnon réussissait à reprendre le trône d'Argos, il s'installa sur celui de Sparte que lui avait légué son beau-père en mourant. Il devait vivre heureux avec Hélène, qui lui donna de nombreux enfants, jusqu'au jour où Pâris, fils de Priam, roi de Troie, de passage à Sparte, vint le trouver. Ménélas le reçut avec bienveillance, puis dut partir pour offrir un sacrifice. En son absence, Pâris séduisit Hélène, l'enleva et, avec elle, gagna Troie. Apprenant la fuite de son épouse, Ménélas convoqua tous les anciens prétendants d'Hélène pour tirer une vengeance  exemplaire de cet affront. Ménélas et Ulysse furent envoyés en ambassade à Troie pour réclamer pacifiquement la restitution d'Hélène. Mais devant le refus des ravisseurs, ils se préparèrent à la guerre. La plus grande partie des Etats grecs manifesta sa solidarité et mit sur pied une armée commune. Pendant la guerre de Troie, qui devait durer dix ans, Ménélas tua de nombreux troyens, et Pâris aurait péri sous ses coups si Aphrodite ne l'eût protégé. A la mort de Pâris, Hélène, ayant épousé Déiphobos, ce fut vers la maison de ce Troyen que Ménélas se dirigea lorsqu'il put mettre la ville à feu et à sang. Déiphobos périt de sa main. La rencontre d'Hélène et de Ménélas, après tant d'années d'absence, fut dramatique. Mais, ébloui par sa beauté, le héros pardonna à sa jeune femme, et la réconciliation entre les époux fut totale.V. 729Mont IdaLa jeunesse de Zeus se passa dans les forêts de l'Ida parce que sa mère Rhéa  supplia Ouranos et Gaia de sauver Zeus des dents de Cronos, son mari (qui dévorait chacun de ses enfants). Rhéa le mit au monde et présenta à Cronos une pierre enveloppée de langes qu'il engloutit. Gaia porta son petit-fils sur le Mont Ida.V. 725NéréidesDivinités marines, filles de Nérée et de Doris, les cinquante Néréides étaient en quelque sorte les nymphes de la Méditerranée. Elles habitaient au fond de la mer, dans un palais lumineux, et divertissaient leur père par leurs chants et leurs danses. Mais, personnifiant chacune une forme, un aspect particulier de la surface des eaux, elles y apparaissaient souvent et, magnifiques créatures, mi-femmes mi-poissons, se mêlaient aux vagues et aux algues en chevauchant des Tritons ou des chevaux marins.V. 889Nimphes (Nymphes)Divinités féminines mineures, associées aux notions  de fécondité, de croissance, aux arbres, elles ont une existence extrêmement longue. On les distingue suivant le domaine de la nature auquel elles appartiennent.V. 232, 236, 239NiobéFille de Tantale, épouse d'Amphion, roi de Thèbes, à qui elle donna six filles et six garçons. Elle se vanta d'être supérieure à Léto qui n'eut que deux fils : Apollon et Artémis. Pour la punir, Apollon tue ses fils et Artémis ses filles à coups de flèches. A la vue de ses enfants agonisants, Niobé fut comme pétrifiée. Pris de pitié, Zeus la changea en rocher, d'où coulent ses larmes sous la forme d'une source.V. 677OresteFils d'Agamemnon et de Clytemnestre. Encore très jeune lors de la mort de son père assassiné à son retour de Troie par son épouse Clytemnestre, il est caché par sa sœur Electre et élevé à la cour d'un oncle roi de Phocie, dont le fils Pylade devient son ami inséparable. Parvenu à l'âge d'homme, il est désigné par l'oracle de Delphes pour venger son père : c'est Electre qui le pousse à accomplir le matricide. Saisi de folie et poursuivi par les implacables Erinyes, il se rend en Tauride, aux confins de la mer Noire : il y retrouve sa sœur Iphigénie, sauvée par Artémis du sacrifice où Agamemnon devait autrefois l'immoler et devenue prêtresse de la déesse. A son retour en Grèce, purifié de son crime, il vient à la cour de Néoptolème pour enlever l'épouse de celui-ci, Hermione, qui lui avait été fiancée avant la guerre de Troie. Oreste finira par épouser Hermione et régnera sur Argos, sa patrie, et sur Sparte, comme successeur de Ménélas.V. 1925PârisFils cadet de Priam et d'Hécube. Son arbitrage lors de la querelle qui oppose les trois déesses Héra, Athéna et Aphrodite pour l'élection de la plus belle est à l'origine de la guerre de Troie : en accordant sa faveur à la déesse de l'amour, il obtient Hélène qu'il ira enlever à Sparte. Son comportement peu glorieux au cours de la guerre de Troie lui vaut de nombreuses railleries ; cependant, c'est lui qui tue Achille d'une flèche guidée par Apollon. Il sera abattu à son tour par une flèche empoisonnée décochée par Philoctète avec l'arc d'Héraclès.V. 722PeléeRoi des Myrmidons, père d'Achille, il tue par mégarde son frère Phocos et est banni d'Egine. Il est choisi par les dieux pour épouser, en seconde noce, Thétis qui veut lui échapper. Il la capture finalement. Celle-ci, après avoir donné naissance à Achille, retourne dans les profondeurs de la mer.V. 724PénélopeFille de la nymphe Périboéa et d'Icarios, frère de Tyndare, roi de Sparte, elle fut donnée en mariage à Ulysse, qui avait remporté une victoire au cours de jeux où s'affrontaient les divers soupirants de la belle jeune fille. Elle mit au monde un fils, Télémaque, encore enfant lorsque Ulysse dut quitter son royaume d'Ithaque pour Troie. Pendant les vingt années que dura l'absence de son époux, Pénélope dut repousser par toutes sortes de ruses les avances des prétendants, qui affirmant qu'Ulysse était mort, la pressaient de choisir un nouvel époux parmi eux. Elle déclara qu'elle devait terminer le tissage du linceul de son beau-père Laërte avant de faire un choix. La nuit, elle défaisait l'ouvrage qu'elle avait fait le jour. Ce stratagème fut dénoncé par une des servantes. Au moment où, de plus en plus sollicitée par ses prétendants, elle allait mettre fin, malgré elle, à plusieurs années de fidélité conjugale et de chasteté, Ulysse revint à Ithaque et, après s'être fait reconnaître de sa femme, massacra tous les hommes qui avaient envahi sa demeure et se livraient aux libations et aux pillages. Puis il revint auprès de Pénélope, et Athéna, dit-on, prolongea pour eux la durée de la nuit. Pénélope demeure le symbole d'une fidélité conjugale d'autant plus remarquable qu'elle fut rare parmi les femmes des héros partis pour la guerre de Troie.V. 684PhénixOiseau fabuleux, originaire d'Ethiopie et rattaché au culte du Soleil. Il a la forme d'un aigle, son plumage est rouge, bleu et or éclatant, son aspect est splendide. Il vit au moins cinquante ans et ne se reproduit pas. Ainsi, quand il sent la fin venir, il construit un nid de branches aromatiques et d'encens, il y met le feu et se consume dans les flammes. Des cendres de ce bûcher surgit un nouveau phénix. Pour les astrologues la naissance d'un nouveau phénix marque le début d'une révolution sidérale. Le phénix figurait l'immortalité, il est l'allégorie de la résurrection et de la survie de l'âme.V. 546Pilade (Pylade)Fils d'un roi de Phocie et d'une sœur d'Agamemnon. Cousin d'Oreste, il devient l'ami inséparable du jeune homme qui est élevé avec lui ; il l'accompagnera partout, de Tauride, où Oreste doit se purifier après le meurtre de Clytemnestre, en Epire, où il vient réclamer son ancienne fiancée Hermione. Plus tard il épousera Electre, la sœur aînée d'Oreste.V. 1925PléiadesDivers récits commentent le mythe des sept sœurs, Maïa, Electre, Taygète, Astéropé, Méropé, Alcyoné et Célaeno, filles d'Atlas et de Pléioiné, qui forment la constellation des Pléiades. Selon une tradition béotienne, Zeus les plaça au nombre des étoiles après les avoir changées en colombes pour les soustraire à Orion, qui les poursuivait. Toutefois, la tradition la plus courante veut que, désespérées du châtiment que Zeus infligea à leur père, elles se soient donné la mort et aient été changées en étoiles. Leur apparition au printemps en mai (les Latins les nomment Vergiliae, du mot *ver*, printemps) indique au marin qui cherche sa route dans les cieux la saison propice à la navigation (*Pléiades* est en effet dérivé d'un mot grec qui signifie « naviguer »), et leur disparition au commencement de novembre signale le début du gros temps, dangereux pour les navires. V. 688PriamRoi de Troie ; l'épopée homérique le représente comme un vieillard noble et généreux, accablé par la mort de son fils Hector, dont il vient réclamer le corps de façon pathétique jusqu'à la tente d'Achille. Certaines légendes le montrent alors accompagné d'Andromaque et de Polyxène. Lors de la prise de Troie, il est égorgé par Néoptolème sur l'autel du temple de Zeus où il s'est réfugié.V. 731Scille (Scylla)Sur la généalogie de Scylla, les traditions diffèrent. Pourtant, elles concordent toutes pour assurer que l'amour déçu et la jalousie vengeresse furent les causes de la métamorphose et de la mort de ce monstre. Scylla, fille de Phorcys et d'Hécate, ou de Typhon et d'Echidna suivant une autre version, était une nymphe d'une beauté radieuse. Mais elle se montrait trop fière de ses charmes pour les dispenser au premier venu. Le dieu marin Glaucos s'en aperçut du reste, lui qui, éperdument amoureux de Scylla, la poursuivait en essuyant, jour après jour, les refus dédaigneux de l'orgueilleuse nymphe. Ne sachant comment parvenir à ses fins, Glaucos appela à son aide la magicienne Circé. Celle-ci, éprise de Glaucos, dirigea contre Scylla sa jalousie. Elle prépara un poison végétal qu'elle versa dans la fontaine où la nymphe avait coutume de se baigner. Lorsqu'elle s'y plongea, son corps, aux formes si parfaites, se métamorphosa en un monstre, pourvu de six pattes griffues et de six têtes de chien, qui, ouvrant leurs gueules énormes, hurlaient comme des lions et découvraient trois rangées de dents acérées. Désolée de sa laideur soudaine, Scylla se jeta dans les flots. Elle s'établit sur un rocher, au bord du détroit de Messine, en face de Charybde. Savourant une rancœur sans fin, elle effrayait les matelots ; ceux-ci, abandonnant les commandes de leurs navires, se sentaient attirés par le monstre, qui se hâtait de les dévorer. Ainsi périrent six compagnons d'Ulysse. Mais Jason et Enée, grâce au concours des dieux et des devins, connurent une plus heureuse fortune.V. 680SiphilleNom d'un fils de Niobé. Il s'agit aussi d'un mont en Lydie. V. 677Thiphon (Typhon)Afin de venger ses petits-fils, les Titans, emprisonnés dans les Enfers sur l'ordre de Zeus, leur vainqueur, Gaia donna naissance à un monstre effrayant, au corps couvert d'écailles, et dont les cent gueules vomissaient du feu. Typhon s'attaqua aux dieux de l'Olympe. Il s'ensuivit l'ultime lutte entre les cieux et la Terre, entre les dieux de la Lumière et les sombres principes enfantés par les entrailles de la Terre. Dans ce combat, on peut voir aussi l'image symbolique d'un cataclysme volcanique qui aurait ravagé les Cyclades, laissant aux hommes un souvenir d'effroi. Enfin, vaincu, Typhon, dernière force anarchique soulevée contre la loi, l'ordre de Zeus et des Olympiens, fut précipité, lui aussi, au fond des Enfers ; il y rejoignit les Titans. Cependant il avait eu le temps de s'accoupler avec Echidna. Celle-ci enfanta de ses œuvres toute une suite de monstres plus affreux les uns que les autres : Cerbère, l'Hydre de Lerne, la Chimère, le Sphinx, les Harpyes et la plupart des divinités malfaisantes du monde souterrain.V. 682TritonCe dieu, primitivement étranger à la Grèce, fut adoré par les marins et reçut ensuite un culte et une légende. Il avait pour demeure la mer toute entière, car il y était né de l'union de la Néréide Amphitrite et du dieu de toutes les eaux des océans, Poséidon. Il a des apparences diverses, mais on le représente généralement comme un homme dont le corps se termine par deux énormes queues de poisson. A la fois bienveillant et terrible, il souffle dans une énorme conque marine, qui mugit au cours des tempêtes. Les marins le vénèrent surtout comme un dieu qui apaise les flots déchaînés et comme un intermédiaire entre eux et Poséidon. Il indiqua aux Argonautes la bonne route, rappela à lui les eaux du Déluge et calma la tourmente suscitée par Junon contre le Troyen Enée. V. 891ZéphirVent d'Ouest. Compagnon ordinaire de Borée (vent du Nord), Zéphyr n'était pas, à l'origine, le vent léger et bienfaisant dont le souffle fait éclore les fleurs printanières. Comme son frère, c'est un vent impétueux et funeste qui se plaisait à amasser les orages et à faire bondir les vagues de la mer. Avec Borée, il résidait dans les arbres de la Thrace montagneuse. Par la suite, le caractère violent de Zéphyr s'atténua, il devint un vent embaumé, qui rafraîchissait les régions bienheureuses de l'Elysée.V. 217
 
 
-# Appendice II : Tristan L'Hermite, *La Folie du Sage, tragi-comédie,* 1645
+# Appendice II : Tristan L'Hermite, *La Folie du Sage, tragi-comédie,* 1645.
 
 III, 4 Ariste. Cleogene (v. 935-984)
 
@@ -5567,7 +5558,7 @@ Pressé de la douleur qui luy trouble le sens,
 Il punit de ses maux des sujets innoncens. »  
 
 
-# Appendice III : Notices biographiques
+# Appendice III : Notices biographiques.
 
 **Anacréon de Téos** (env. 560-478 av. J.-C.) a écrit cinq livres de poésies qui sont des élégies, des odes légères dont il a fixé le type. Il chante l'amour et la joie de vivre. Il se fait aussi parfois mélancolique du regret de vieillir.
 
@@ -5688,13 +5679,13 @@ Il punit de ses maux des sujets innoncens. »
 **Zénon d'Elée** (V*e* siècle av. J.-C.) fut l'élève et l'ami de Parménide. Pour ce dernier, l'être est un, indivisible et immobile, la multiplicité et le mouvement ne sont qu'illusion. Zénon défend les arguments de son maître.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de Gillet de la TessonnerieLa Quixaire, Recueil de Diverse Comédie
+### Œuvres de Gillet de la Tessonnerie.La Quixaire, Recueil de Diverse Comédie
 La Comédie de Francion
 Le Campagnard
 L'Art de régner
@@ -5702,7 +5693,7 @@ Le Triomphe des Cinq Passions
 
 
 
-### Théâtre du XVIIe siècleLes Visionnaires
+### Théâtre du XVIIe siècle.Les Visionnaires
 La Folie du Sage, tragi-comédie
 Le Jodelet ou le Maistre Valet.
 Jodelet duelliste.
@@ -5710,13 +5701,13 @@ La Comédie des Comédiens
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires
+### Dictionnaires.
 
 
-#### LexiqueDictionnaire
+#### Lexique.Dictionnaire
 Dictionnaire universel contenant tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire du Moyen Français
 Dictionnaire de la langue française du XVIe siècle
@@ -5725,7 +5716,7 @@ Dictionnaire universel françois et latin
 
 
 
-#### MythologieDictionnaire de la mythologie grecque et romaine
+#### Mythologie.Dictionnaire de la mythologie grecque et romaine
 Dictionnaire des mythologies
 
 Grand Dictionnaire historique
@@ -5733,20 +5724,20 @@ Mythologie générale
 
 
 
-### GrammairesSyntaxe française du XVIIe siècle
+### Grammaires.Syntaxe française du XVIIe siècle
 Introduction à la langue française du XVIIe siècle
 
 
 
-### BibliographiesBibliographie de la littérature française du dix-septième siècle
+### Bibliographies.Bibliographie de la littérature française du dix-septième siècle
 Bibliographie der Französischen Literatur-Wissenschaft.
 
 
 
-## Études
+## Études.
 
 
-### Contexte historique et littéraireHistoire de la littérature française du XVIIe siècle
+### Contexte historique et littéraire.Histoire de la littérature française du XVIIe siècle
 Morales du Grand siècle
 A History of French Dramatic Literature in the Seventeenth century
 Histoire générale du théâtre en France
@@ -5756,10 +5747,10 @@ La Dramaturgie classique en France
 
 
 
-### Ouvrages sur le théâtre
+### Ouvrages sur le théâtre.
 
 
-#### OuvragesPoétique
+#### Ouvrages.Poétique
 Les sources de Molière, Répertoire des sources littéraires et dramatiques
 L'Art du comédien : déclamation et jeu scénique en France et à l'âge classique, 1629-1680
 Lire la comédie
@@ -5780,7 +5771,7 @@ La Comédie
 
 
 
-#### ArticlesRevue d'Histoire Littéraire de la France
+#### Articles.Revue d'Histoire Littéraire de la France
 XVIIe siècle
 French Studies
 Le Français moderne
@@ -5792,14 +5783,14 @@ XVIIe siècle
 
 
 
-### Ouvrages sur l'auteur
+### Ouvrages sur l'auteur.
 
 
-#### OuvrageLe Desniaisé de G. de la TessonnerieDocteur amoureux, comédie attribuée à Molière, suivi du
+#### Ouvrage.Le Desniaisé de G. de la TessonnerieDocteur amoureux, comédie attribuée à Molière, suivi du
 
 
 
-#### ArticlesDictionnaire dramatique
+#### Articles.Dictionnaire dramatique
 French studies
 French Studies
 Dictionnaire des Littératures de langue française

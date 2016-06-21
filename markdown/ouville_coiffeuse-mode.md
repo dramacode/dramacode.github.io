@@ -15,7 +15,7 @@ COMEDIE
       maîtrise sous la direction de Georges Forestier (2002-2003)
 
 
-# Introduction
+# Introduction.
 
 *La Coifeuse à la mode* a été créée en 1647, à une époque où la production théâtrale française était en pleine évolution. Jusque dans les années 1620 n'existe pratiquement sur la scène théâtrale que la farce, pièce courte en vers, caractérisée par des situations standards, des personnages stéréotypés, la bouffonnerie et l'importance du jeu des comédiens. L'émergence d'un public plus cultivé a pour effet l'apparition d'un nouveau comique, et d'un nouveau type de comédie. En 1629 Corneille crée la comédie sociale et morale avec *Mélite*. Puis il est suivi d'écrivains comme Du Ryer ou Desmarets de Saint-Sorlin. Rotrou travaille quant à lui à faire le lien entre comédie et tragi-comédie.
 
@@ -26,7 +26,7 @@ La *comedia* est un genre théâtral particulier qui naît à Madrid lorsque cet
 Voilà donc un aperçu du contexte dans lequel d'Ouville écrit *La Coifeuse à la Mode*. La seconde moitié du XVII*e* siècle en France est une période de transition aussi rapide que décisive. Avant, le théâtre était réservé à quelques isolés, c'était une occupation qui n'avait pas su trouver un public. À partir des années 1650, le théâtre devient peu à peu un phénomène social de premier plan. La richesse des pièces se discipline, des lois et des doctrines émergent, et l'action doit se plier à des principes de composition esthétique. Quant à la comédie, elle occupait, dans l'estime du public, un rang inférieur. De 1642 à 1648, on ne comptait guère qu'une vingtaine de comédies [1]. Mais l'originalité des comédies des années 1640-1660 résidait dans cette fantaisie d'imagination, qui inventait les intrigues les plus extraordinaires et campait les personnages les plus invraisemblables, au mépris de toute logique et de tout réalisme. Cette comédie de la fantaisie et du jeu avait alors pour principal objectif de séduire, de distraire et d'amuser le public. Et d'Ouville l'a bien compris. *La Coifeuse à la Mode* est une des comédies de d'Ouville les plus distrayantes et les plus amusantes. Elle est sans doute aussi l'une des plus originales.
 
 
-# L'auteur
+# L'auteur.
 
 La biographie de d'Ouville est difficile à établir, nous possédons peu de renseignements précis. Les documents sont plutôt rares, et parfois contradictoires. Antoine Le Métel d'Ouville serait né vers 1590 à Caen, ou entre 1587 et 1589 à Rouen, et il serait mort à Paris en 1657. Fils de Jérémie Le Métel, avocat au parlement de Rouen, et de Jeanne de Lion, il fut attaché au Comte du Dognon, et c'est à ce titre qu'il vécut sept ans en Espagne. Là, il apprit la langue et se maria. À son retour, il contribua à la vogue du théâtre espagnol en publiant des comédies adaptées ou traduites des auteurs qu'il avait le plus appréciés. On peut citer, entre autres, *L'Esprit Folet*, en 1639, *Les Fausses Vérités* en 1641 et *Jodelet Astrologue* en 1646, adaptées de Calderòn ; ainsi que *L'absent chez Soy* (1643) adaptée de *El Ausente en el lugar* de Lope de Vega et *La Dame Suivante*, adaptée la même année de *La Doncella de labor*, de Juan Perez de Montalvàn. Sa première tragédie, en 1637, est de source inconnue : elle s'intitule *Les trahisons d'Arbiran.* On lui doit aussi une héroïco-comédie, *Les soupçons sur les apparences*, en 1650, une tragi-comédie, *Les Morts vivants*, en 1646 ainsi que les *Contes aux heures perdues*, parus en 1644. Ces contes se placent dans la tradition des contes populaires, et connaissent de nombreuses rééditions comprenant à chaque fois de nouveaux contes.
 
@@ -55,12 +55,12 @@ Cette comédie peut avoir eu quelque succès, mais elle en auroit eu davantage s
 Pourtant, ils ajoutent que l'auteur versifiait encore plus mal que son frère, mais qu'il « entendoit mieux la marche du Théâtre, et répandoit plus de comique dans son dialogue [4]. » Ainsi, souvent plus considéré comme un copieur que comme un créateur et peu soucieux de moralité, d'Ouville est un écrivain très peu connu, oublié. En lisant ses pièces, on remarque qu'il sait tout de même faire preuve d'originalité et d'inventivité.
 
 
-# La Coifeuse à la Mode sur la scène française
+# La Coifeuse à la Mode sur la scène française.
 
 Dans cette partie, nous tenterons de replacer la pièce dans le contexte théâtral de l'époque, en trois étapes. Nous nous intéresserons tout d'abord à la mise en scène, ainsi qu'aux conditions dans lesquelles la pièce était jouée. Ensuite, nous analyserons les quelques témoignages relatant la réception de l'œuvre de d‘Ouville afin de souligner les raisons pour lesquelles l'auteur est si peu connu aujourd'hui. Enfin, nous évoquerons l'influence qu'a pu avoir d'Ouville sur *Le Misanthrope*, de Molière.
 
 
-## Conditions de représentation
+## Conditions de représentation.
 
 Comment se passaient les représentations à l'époque, et quels étaient les problèmes rencontrés ? Comme le précise Antoine Adam dans son *Histoire de la littérature française au XVII*e* siècle* [5], les représentations des années 1640-1650 avaient lieu le dimanche, le mardi et le vendredi. Elles devaient commencer à trois heures, mais étaient très souvent en retard. De plus, il était habituel de jouer après la représentation d'une comédie ou d'une tragédie, une petite farce en trois actes, ce qui rallongeait nettement la durée totale des représentations. Quand aux salles de théâtre, il faut rappeler qu'il s'agissait le plus souvent d'anciennes salles de jeu de paume transformées pour l'occasion ; c'est pourquoi elles étaient peu nombreuses et peu confortables. De même, de nombreux détails techniques n'étaient pas du tout au point : toutes les salles ne possédaient pas de rideau, et celui-ci n'était pas baissé à la fin de chaque acte. Pourtant, Sophie Wilma Deierkauf-Holsboer affirme que l'Hôtel de Bourgogne possédait en 1647 un rideau, qui masquait toute la scène et qui était levé avant le commencement du spectacle [6]. La manœuvre était délicate et compliquée, on se contentait habituellement de l'effectuer au début et à la fin de la représentation, et l'on comprend alors mieux pourquoi le décor n'était pas changé. Dans la plupart des comédies, le décor représentait  un carrefour où se trouvaient les maisons des principaux acteurs, figurées par des toiles peintes au fond et sur les côtés. Les entractes étaient habituellement marqués par des violons, la salle était trop éclairée par rapport à la scène, sur laquelle on avait même installé des spectateurs. Au parterre ou dans les loges régnait un bruit de fond permanent, si bien que les acteurs devaient souvent crier pour se faire entendre. Tout ceci contribuait à créer des conditions de représentations très médiocres et l'on imagine aisément les difficultés rencontrées par les acteurs pour attirer l'attention du public.
 
@@ -76,7 +76,7 @@ Cela signifie qu'Arimant parlait avec Flore au moment où Acaste découvrait la 
 *La Coifeuse à la Mode* n'est donc pas une pièce destinée à la lecture silencieuse. En effet, le texte de la pièce est rempli de nombreux jeux de scène comiques pouvant servir le jeu de bons acteurs, et créer ainsi une comédie divertissante et appréciée du public. D'autre part, le découpage en scènes et en actes paraît assez arbitraire, il n'est pas toujours très logique. Le passage par exemple de l'acte III à l'acte IV est curieux. Voici quelle est la situation. Acaste et Philipin viennent d'être rejetés par Pamphile, qui leur assure que ce logis n'est pas celui de la Coiffeuse, mais celui d'une femme mariée. Pamphile sort de scène, et l'on retrouve Acaste et Philipin au même endroit, prêts à pénétrer de nouveau dans la maison. À la scène suivante, Dorotée-Angélique surgira de chez elle. Il n'y a donc aucun changement, ni de lieu ni de situation entre les deux actes, et on comprend difficilement pourquoi l'acte III se termine à cet endroit. Ces maladresses de construction de la pièce sont une fois de plus dues au fait que d'Ouville n'est pas un écrivain de métier, mais seulement un amateur écrivant par plaisir.
 
 
-## La réception de la pièce
+## La réception de la pièce.
 
 Ce dernier élément rejoint la deuxième étape de notre étude de la pièce dans le contexte théâtral de l'époque : la réception de l'œuvre de d'Ouville. Pourquoi notre auteur, malgré son relatif succès auprès de ses contemporains, a-t-il été oublié, pourquoi est-il resté dans l'ombre durant tant d'années ? On peut évoquer plusieurs raisons, mais la principale est bien sûr le succès d'autres auteurs nettement plus connu. En effet, les années 1630 à 1650, pendant lesquelles d'Ouville écrit ses pièces, correspondent aux grands succès de Corneille qui publie *La Place Royale* en 1634, *L'illusion Comique* en 1639, *Le Menteur* en 1644, *Rodogune* en 1647. Après la création de l'Illustre Théâtre en 1643, Molière ne rentrera à Paris qu'en 1658, date à laquelle d'Ouville est déjà mort, ses pièces ne sont donc pas créées en même temps que celle de notre auteur. Pourtant, Molière connaissait ces pièces et a pu d'en inspirer, comme nous le verrons par la suite. Quand à Racine, il est encore trop jeune pour écrire, puisqu'il n'a en 1647 que huit ans ! Pourtant, la postérité ne retiendra du XVII*e* siècle que ces trois grands noms, Corneille, Molière, Racine… D'ailleurs, le théâtre de d'Ouville a été fortement critiqué, on lui faisait principalement deux reproches. Le premier concerne les ressemblances frappantes qui se voient dans ses pièces et les frères Parfaict écrivent à ce sujet dans la description de la pièce *l'Absent chez soy* [7], publiée en 1643 :
 
@@ -129,7 +129,7 @@ On remarque dans ces vers les maladresses de construction, dans les tournures so
 Pourtant, malgré toutes les diverses critiques qui ont été faites à d'Ouville, il faut reconnaître que le public français, qui ne parlait pas toujours espagnol à cette époque, a ainsi eu la possibilité de découvrir à travers ses pièces l'univers baroque du Siècle d'Or, et des œuvres espagnoles inconnues jusque là. Son talent d'écrivain et ses vers ne sont peut-être pas exceptionnels, mais il a introduit en France la vogue du théâtre espagnol, et a séduit le public français grâce à ses comédies joyeuses et divertissantes.
 
 
-## L'influence de d'Ouville
+## L'influence de d'Ouville.
 
 *La jalouse d'elle-même*, pièce adaptée de *La celosa de si misma* en 1650 par François Le Métel de Boisrobert, présente quelques ressemblances avec *La Coifeuse à la Mode*. Le héros, Léandre, vient de Lyon à Paris pour se marier avec Angélique. Or il tombe amoureux d'une femme masquée, une marquise, qui n'est autre qu'Angélique. Cette dernière, jalouse d'elle-même, continue à le voir, toujours masquée, afin de tester son amour pour elle. Après de nombreuses péripéties, Léandre découvre la véritable identité de sa prétendue marquise, et l'épouse. Outre les jeux de dédoublements, les thèmes de la jalousie et de la tromperie, il y a aussi un valet nommé Filipin, qui ressemble fortement au Filipin de d'Ouville. S'il est certain que Boisrobert connaissait *la Coifeuse à la Mode*, écrite par son frère quelques années auparavant, on constate qu'elle ne peut pourtant pas être considérée comme une source : les analogies sont présentes mais l'intrigue n'est pas la même. Les deux pièces sont proches l'une de l'autre parce qu'elles ont été adaptées de deux pièces espagnoles, à quelques années d'écart, par les deux frères.
 
@@ -208,30 +208,30 @@ Et l'entretien se termine dans les deux pièces avec la même froide politesse. 
 Ainsi, la ressemblance des caractères et des propos de Flore et d'Alceste, ainsi que l'analogie des relations entre les deux rivales et le développement parallèle des scènes sont des indices permettant d'émettre l'hypothèse selon laquelle Molière se serait quelque peu inspiré du théâtre de d'Ouville, qu'il connaissait sûrement. L'oubli relatif dans lequel est tombé ce dernier pourrait expliquer qu'on n'ait pas mentionné de possibles rapprochements entre les auteurs. Mais ces indices ne sont pas non plus suffisants pour affirmer une parenté indéniable entre eux. En outre, il est évident que Molière a su donner aux situations qu'il a peut-être empruntés un mouvement dramatique et une profondeur humaine qui manquaient chez d'Ouville. Cela explique que la postérité ait oublié un auteur et non pas l'autre…
 
 
-# Résumé de la pièce
+# Résumé de la pièce.
 
 
-## Acte I
+## Acte I.
 
 L'action se situe à Paris, en 1646. Dans la scène d'exposition, deux amis, Acaste et Arimant, se confient leurs malheurs respectifs. Le premier est séparé de celle qu'il aime et dont il est aimé, Dorotée. En effet, celle-ci a été enfermée dans un couvent à Lyon. Quant à Arimant, il est amoureux de Flore, une jeune beauté qui repousse tous ses prétendants par crainte de la perfidie des hommes. Après avoir tenté une fois encore de déclarer sa flamme à Flore mais en vain (scène 2), Arimant se plaint à son ami de ce nouvel échec (scène 3). En effet la jeune femme, choquée par son audace, lui a même interdit de la revoir. Acaste promet à son ami de l'aider puis, apprenant par Philipin qu'il vient de recevoir une lettre de Lyon, se hâte d'aller la lire (scène 4).
 
 
-## Acte II
+## Acte II.
 
 Le deuxième acte s'ouvre, comme le premier, sur une discussion entre les deux héros. Acaste annonce qu'il s'est rendu chez Flore afin de plaider la cause de son ami. À la demande d'Arimant, ils décident de retourner ensemble chez elle. L'héroïne de la pièce, Dorotée, apparaît enfin, entourée de ses deux fidèles serviteurs, Pauline et Pamphile. Elle expose au vieillard Pamphile la raison de sa présence à Paris ainsi que le pourquoi de son déguisement (scène 2). La perruquière Leonor explique ensuite rapidement à Dorotée en quoi va consister son rôle, celui de « Coifeuse à la Mode » (scène 3). Elle lui promet que par ce moyen elle ne manquera pas de découvrir si son amant courtise une autre femme.
 
 
-## Acte III
+## Acte III.
 
 L'acte suivant nous fait découvrir une Flore amoureuse, qui, dans un long monologue, nous apprend son amour pour Acaste (scène 1). Après avoir tenté vainement de cacher à sa servante Beatrix ce tout nouveau sentiment (scène 2), elle reçoit chez elle les deux amis (scène 3). Acaste est plus que jamais préoccupé par le sort de sa bien-aimée, et son discours d'amoureux éveille la jalousie de Flore. À ce moment, Philippin entre avec des lettres de Dorotée pour Acaste, qui s'empresse de les lire (scène 4). Dorotée fait alors son entrée, déguisée en Isabelle, coiffeuse à la mode (scène 5). En apercevant Acaste, elle cache difficilement son trouble… Acaste, de son côté, persuadé de reconnaître Dorotée sous les traits d'Isabelle, s'intéresse à son sort et décide de la suivre. Arimant, resté seul avec Flore, découvre aussitôt son amour secret, mais il sait que son ami aime trop Dorotée pour devenir son rival (scène 6). Pendant ce temps, Acaste et Philipin sont devant le logis de la coiffeuse à la mode, et veulent entrer (scène 7). Mais Pamphile surgit, et leur assure que cette maison appartient à Angélique, une jeune femme mariée à un Maître d'hôtel du roi (scène 8).
 
 
-## Acte IV
+## Acte IV.
 
 Dans la première scène, Acaste essaye de convaincre Philipin qu'il faut à tout prix pénétrer dans cette maison. Apparaît alors Dorotée-Angélique, en habit de Dame (scène 2). D'abord offensée par les questions d'Acaste, elle semble ensuite confondre ce dernier avec un homme qui lui fait la cour de manière bruyante, et elle l'encourage à manifester sa flamme avec plus de retenue…En partant, elle laisse Acaste plus que jamais perturbé, et décidé à faire la cour à Angélique et à Isabelle en même temps. À la scène trois, Dorotée se plaint des infidélités de son amant qui aime trois femmes à la fois, puis elle expose à Leonor comment elle compte poursuivre son action. Arimant surprend Acaste et Philipin devant sa porte, il apprend alors à son ami que Flore l'aime, et lui demande de se rendre avec lui chez elle (scène 5). Pendant ce temps, Flore reçoit la visite de Dorotée déguisée cette fois en Hélène de Péralte. Cette dernière invente pour Acaste un passé amoureux mouvementé, se plaint d'avoir été abandonné par lui et affirme à Flore qu'il se vante partout d'avoir réussi à la conquérir. Flore, interdite, tente de se défendre et Dorotée la quitte (scène 6).
 
 
-## Acte V
+## Acte V.
 
 Le dernier acte de la pièce commence, comme le troisième, par un monologue de Flore mais qui porte cette fois sur l'infidélité d'Acaste (scène 1). Lorsque les deux amis arrivent, Flore interroge Acaste sur ce qu'elle vient d'entendre. Pressé par Arimant, il se voit obligé de confirmer le discours d'Hélène de Péralte, et avoue aimer trois femmes en même temps (scène 2). Les deux héros, seuls, essayent de comprendre ce qui leur échappe (scène 3), et sont interrompus par l'arrivée de Philipin avec des lettres. L'une apprend à Acaste que l'oncle de Dorotée veut la marier rapidement avec un parent, l'autre, de Dorotée, conjure Acaste de revenir à Lyon au plus vite. Acaste ordonne alors à Philipin de préparer son départ pour le lendemain matin (scène 4). Leonor tient sa promesse envers Acaste en lui amenant Dorotée-Isabelle. Celle-ci semble douter de la sincérité de l'amour d'Acaste, elle sait qu'il courtise aussi Angélique… (scène 5) Philipin prévient son maître qu'il peut partir le lendemain (scène 6), puis Pamphile vient annoncer à Acaste qu'il est attendu chez Angélique, son mari étant absent. Dorotée-Isabelle lui répond qu'Acaste se rend à Lyon pour épouser Dorotée (scène 7). Flore apparaît à la dernière scène, annonçant à Arimant qu'elle l'aime ; celui-ci se déclare le plus heureux des hommes. C'est alors que Dorotée dévoile sa véritable identité à Acaste, qui a du mal à la croire. Finalement, chacun trouve son bonheur, même Philipin, à qui l'on assure que Pauline lui est restée fidèle.
 
@@ -245,14 +245,14 @@ Il n'y a pas de pièce française qui puisse être véritablement à l'origine d
 Spécialiste de l'adaptation des pièces qu'il a particulièrement appréciées chez les dramaturges espagnols de l'époque, l'écrivain français reste donc fidèle à un style de comédies, et cela se remarque nettement dans toute son œuvre. Comment d'Ouville construit-il ses pièces à partir de ses modèles ? Dans quelle mesure peut-on parler d'imitation, de copie ? Et quelle a été l'importance de chaque modèle dans l'écriture de la pièce française ? Nous allons tenter de retracer la genèse de la pièce, en s'intéressant aux deux comédies espagnoles que nous avons citées comme sources d'inspiration. Pour cela, nous allons donc examiner successivement ces deux pièces et voir comment d'Ouville les a adaptées et modifiées afin d'obtenir *La Coifeuse à la Mode*.
 
 
-## La Toquera Vizcaína
+## La Toquera Vizcaína.
 
 Dans sa thèse [12], Christophe Couderc cite comme source utilisée par D'Ouville pour écrire sa pièce, *La Toquera Vizcaina*, de Ivan Perez de Montalvàn. L'édition la plus ancienne que nous ayons trouvée de cette pièce date de 1635, bien qu'elle ait été écrite, selon Couderc, vers 1629. Voici le résumé rapide de l'intrigue ainsi que la liste des personnages. On trouvera aussi les références à la pièce de d'Ouville afin de dresser plus facilement le parallèle entre les deux intrigues.
 
 **Personnages** : Don Diego / Don Ivan / Lizardo / Octavio / Fabio, Luquete (valets) / Feliciano (vieillard) / Fineo / Doña Elena / Beatriz / Flora / Ivana, Isabel, Madalena. (Servantes)
 
 
-### Primera jornada
+### Primera jornada.
 
 D. Diego courtise Elena, qui aime et est aimé de D. Ivan. Ce dernier surprend D.Diego faisant la cour à Elena.
 
@@ -263,7 +263,7 @@ Flora, Isabel, et Ivana sont sur scène. Flora ne veut pas de servante qui ait �
 Elena et Beatriz interrompent la conversation de Lizardo et d'Octavio. Luquete entre sur scène, en annonçant la mort de D.Diego, tué en duel par D.Ivan. Ce dernier apparaît à son tour, et explique qu'il doit quitter Zamora.
 
 
-### Segunda jornada
+### Segunda jornada.
 
 D. Ivan part donc pour Madrid, accompagné de Luquete. C'est là qu'il retrouvera son ami Lizardo. Elena reste seule et décide de se retirer dans un monastère.
 
@@ -276,7 +276,7 @@ Luquete et D. Ivan sont devant la maison de Luisa, qu'ils ont suivi ***(scène 
 D. Ivan et Luquete tentent de résoudre le problème des trois femmes en une. D. Ivan, abasourdi, ne sait plus quoi penser ***(scène 2, acte IV).***
 
 
-### Tercera jornada
+### Tercera jornada.
 
 Elena se plaint de l'infidélité de D. Ivan, qui aime trois femmes à la fois ***(scène 3, acte IV)***. Puis elle détaille la suite de son plan à Beatrix et à Madalena ***(scène 3, acte IV).***
 
@@ -311,14 +311,14 @@ Le Metel d'Ouville reste donc dans l'ensemble assez fidèle à la version espagn
 D'ailleurs, la plupart du temps, les auteurs français se contentaient de remanier les *comedias* originales, supprimant certaines scènes, écartant ce qui leur paraissait trop extrême mais conservant les rencontres inopinées, les quiproquos plaisants, les personnages et les situations piquantes. Ils souhaitaient avant tout plaire au public. Ceci était d'autant plus facile que le romanesque et le pittoresque qui rendaient ces *comedias* si différentes répondaient précisément à la sensibilité du moment. Les principales modifications concernaient surtout la simplification et la concentration de l'action, pour lui donner plus de cohérence. Mais malgré les changements effectués par les auteurs pour mettre au goût français leurs pièces, les pièces françaises inspirées des comédies espagnoles du Siècle d'Or gardent toujours quelques indices de leur origine espagnole, quelques traces de la *comedia*. Une certaine forme de comique, une rapidité et une légèreté dans l'action et dans les propos, un ton hardi et vif…
 
 
-## Las Tres Mujeres en Una
+## Las Tres Mujeres en Una.
 
 La première source donnée par Lancaster pour la pièce de d'Ouville est *Las Tres Mujeres en Una*, de Remòn. On ne conaît pas la date exacte de publication de cette pièce, mais elle aurait été écrite entre 1608 et 1611, probablement en 1610. En étudiant de plus près les rapports entre les deux pièces, on s'aperçoit que les différences sont bien plus nombreuses que les ressemblances. Cette pièce peut-elle être vraiment considérée comme une source ? Quelle a été son importance dans l'édification de l'intrigue, par rapport à la pièce précédente ? Avant d'essayer de répondre à ces questions, nous allons présenter rapidement les personnages et le déroulement de l'action de la pièce espagnole.
 
 ***Personnages* :** Don Beltràn, amant de Teodora / Cascabel, valet de D.Beltràn, amant de Dorotea / Marcelo, amant de Dorotea / Ortensio, amant de Dorotea / Dorotea, veuve / Pedrosa, son écuyer / Teodora, soeur d'Ortensio / Fabio, écuyer / Rolando et Lobatón, amis de Marcelo / deux serviteurs de la chaise de Dorotea
 
 
-### Jornada primera
+### Jornada primera.
 
 Présentation des personnages principaux (D. Beltràn et Cascabel) ainsi que des deux amis de Don Beltràn, Marcelo et Ortensio et des rôles féminins : Teodora voilée et Dorotea. On assiste à une déclaration d'amour entre D. Beltràn et Teodora voilée, et cette dernière lui offre deux bagues comme preuve de leur amour.
 
@@ -329,7 +329,7 @@ Rencontre entre D. Beltràn et Teodora non voilée. Ebloui par sa beauté et ne
 Teodora se plaint de l'infidélité de D. Beltràn, et oppose la constante féminine à l'inconstance masculine.
 
 
-### Jornada segunda
+### Jornada segunda.
 
 D. Beltràn discute avec Cascabel. Apparaît Teodora, voilée. Elle demande à voir les bagues qu'elle avait offertes, mais D. Beltràn affirme ne pas pouvoir les lui montrer. Par contre, il aimerait que Teodora dévoile son visage, ce qu'elle refuse à plusieurs reprises.
 
@@ -340,7 +340,7 @@ Ortensio, caché sur scène, a tout entendu. Pour défendre D. Beltràn et parc
 Cascabel raconte à son maître la proposition de mariage que lui a faite Dorotea, et il lui demande conseil.
 
 
-### Jornada tercera
+### Jornada tercera.
 
 Marcelo vient demander pardon à D. Beltràn pour l'avoir trahi, ce dernier lui pardonne à condition qu'il abandonne Dorotea, et qu'il épouse au choix Teodora voilée ou Teodora non voilée.
 
@@ -359,10 +359,10 @@ En effet, Teodora est le premier personnage féminin de la pièce mais son carac
 Pour conclure, d'Ouville s'est inspiré de la pièce de Remòn pour certains éléments, mais il semble surtout avoir utilisé celle de Montalvàn puisque les ressemblances sont bien plus évidentes. Ainsi, les deux pièces ont sans doute joué un rôle complémentaire dans l'édification de l'intrigue, la première fournissant le plan de l'intrigue, le titre de la pièce, certaines situations, et même des répliques entières qui ont été traduites par l'auteur français, la deuxième inspirant à l'auteur quelques idées, des traits de caractères, une ambiance, des noms de personnages.
 
 
-# Étude dramaturgique
+# Étude dramaturgique.
 
 
-## La transposition du théâtre baroque espagnol dans la pièce de d'Ouville, et le respect des règles classiques françaises
+## La transposition du théâtre baroque espagnol dans la pièce de d'Ouville, et le respect des règles classiques françaises.
 
 Les sources espagnoles, citées au chapitre précédent, s'inscrivent dans la droite ligne du mouvement baroque appartenant au Siècle d'Or espagnol. Revenons d'abord sur la notion de théâtre baroque, qui a déjà été utilisée plusieurs fois et mérite un éclaircissement. Comment caractériser cette forme de théâtre particulière, si diversifiée ? L'origine du mot « baroque » vient du portugais *barocco* et désigne une perle irrégulière, comme l'indique la définition de Furetière : « terme de joaillerie qui ne se dit que de perles qui ne sont pas parfaitement rondes. » C'est pourquoi on qualifie souvent de « baroque » toute œuvre irrégulière, échappant aux normes. Ainsi, dans les pièces espagnoles dites « baroques », l'action est longue, riche, généreuse et sans contraintes. L'abondance est plus importante que la rigueur, les personnages sont nombreux. Le théâtre baroque prône une plus grande liberté dans les lieux, dans le temps, et dans l'expression ; il aime les contrastes, les oppositions, les mélanges. Les personnages peuvent être à la fois sérieux et comiques, des situations terribles côtoient des situations comiques, voire burlesques. Il serait intéressant de voir ce que devient cette notion en France, et comment elle peut être à la fois intégrée et modifiée dans une pièce française. Quant aux principes de ce que l'on appelle l'esthétique classique, ils ont été élaborés en France à partir de 1623 par divers théoriciens, et ont été progressivement adoptés par de plus en plus d'écrivains. Corneille lui-même participe à l'élaboration de certains de ces principes, et les intègre peu à peu dans ses créations littéraires. Ces règles sont principalement la règle des trois unités, temps, lieu et action, la vraisemblance et les bienséances. Dans la deuxième moitié du XVII*e* siècle, et notre pièce se situe à ce moment, ces règles sont si bien acceptées qu'aucun dramaturge ne songe même à en discuter les fondements. Dans quelle mesure d'Ouville a-t-il respecté ces principes et peut-on qualifier *La Coifeuse à la Mode* de pièce classique ? Et surtout, en quoi d'Ouville s'est-il éloigné du baroque espagnol en cherchant à respecter les règles de la dramaturgie classique ? Comment a-t-il transposé le baroque espagnol dans sa pièce, tout en restant fidèle aux exigences théâtrales de son temps ? Trois éléments essentiels dans une pièce de théâtre peuvent être étudiés pour répondre à ces questions : l'action, le temps et le lieu. Pour chacun d'eux, nous verrons rapidement comment ils étaient traités dans les sources espagnoles, puis quelles modifications d'Ouville a apporté en écrivant sa pièce.
 
@@ -385,12 +385,12 @@ Quant à *l'unité de lieu*, elle n'est pas non plus respectée dans les deux mo
 Ainsi, la pièce de d'Ouville est conforme à ce que l'on peut attendre d'une comédie française du XVII*e* siècle. Mais peut-on dire pour autant que cette pièce appartient à l'esthétique classique ? Elle se situe plutôt à la frontière entre deux mouvements, deux époques. Elle a été adaptée d'une *comedia* espagnole baroque, et a gardé de nombreux aspects de cet univers, même si elle a subi des transformations afin de suivre les principes de la dramaturgie classique. Pourtant, elle a été créée en France en 1647, à l'époque où les règles du classicisme sont respectées par la plupart des écrivains. *La Coifeuse à la mode* n'est donc ni tout à fait baroque, ni tout à fait classique. D'ailleurs, sa particularité, son originalité, pourrait résider en partie dans cette tension entre l'atmosphère baroque espagnole et la rigueur classique française. En quoi les personnages peuvent-ils être révélateurs de cette tension, et quelles sont leurs autres caractéristiques essentielles ?
 
 
-## Les personnages
+## Les personnages.
 
 Dans *La Coifeuse à la Mode*, il y neuf personnages, quatre hommes et cinq femmes. Il s'agit principalement d'une pièce de femmes, celles-ci ont des rôles plus conséquents et c'est d'ailleurs une femme qui prend l'initiative des actions. Les hommes restent plus passifs et sont soumis au bon vouloir de leurs amantes, qu'il s'agisse de Dorotée, de Flore, ou même de Pauline. Le système des personnages repose sur un parallèle entre deux hommes et deux femmes, et c'est pourquoi on a une double intrigue, qui aboutit finalement à deux mariages : Dorotée/Acaste, et Flore/Arimant. Mais si l'on peut parler de parallélisme en ce qui concerne Acaste et Arimant, les deux jeunes femmes forment un contraste frappant. Ce sont deux types de femmes très différents, l'une est une amante audacieuse et courageuse, prête à tout par amour, qui brave les interdits de son époque, et l'autre une femme vertueuse qui ne veut pas tomber amoureuse par peur. Les deux couples de protagonistes sont accompagnés par cinq personnages secondaires, que nous analyserons ensuite.
 
 
-### Acaste
+### Acaste.
 
 C'est un homme de condition, il est bien né, relativement riche (il donne dix pistoles à Leonor pour qu'elle le recommande à Isabelle). Héros de la pièce, il représente en quelque sorte la « victime. » En effet, c'est un personnage nettement présenté comme passif, contrairement à Dorotée et pourtant il se débat pour essayer de comprendre ce qui lui arrive, pour se justifier… Il semble souvent troublé, perdu ou impuissant, et cela non seulement face à certaines situations, mais aussi face à ses propres sentiments. Cependant, il sait prendre des décisions rapides et efficaces, notamment lorsqu'il s'agit de sauver son amour pour Dorotée. Aux yeux du spectateur et du lecteur, il est innocent et ne peut être accusé de trahison envers celle qu'il aime. Enfin, il a un sens de l'amitié très fort, et serait prêt à tout pour son ami : il se rend même chez Flore pour plaider la cause d'Arimant. Acaste attire donc notre sympathie et l'on s'identifie facilement à lui, du fait de son rôle de victime et à travers son amour pour Dorotée, qu'il manifeste avec tant d'ardeur dans toute la pièce. Malgré cela, certains critiques regrettent le manque de profondeur psychologique d'Acaste. Par exemple, R. Guichemerre déplore la rapidité et la superficialité avec lesquelles sont traités les différents sentiments d'Acaste au cours de la pièce [13] :
 
@@ -398,7 +398,7 @@ C'est un homme de condition, il est bien né, relativement riche (il donne dix p
 Cette instabilité, ces changements aussi soudains qu'étrangement motivés, peuvent amuser. Mais, combien il eût été plus intéressant de nous peindre l'étonnement du jeune homme devant cette ressemblance étrange, ses débats intérieurs lorsqu'il est partagé entre sa fidélité à Dorotée et l'attirance inexplicable qu'il ressent pour ses deux jeunes femmes, l'effort qu'il fait sur lui-même pour s'arracher à Isabelle et partir rejoindre sa maîtresse à Lyon ! D'Ouville, trop préoccupé d'agencer les péripéties d'une intrigue romanesque, a négligé l'occasion d'écrire quelques jolies scènes de comique psychologique. 
 
 
-### Arimant
+### Arimant.
 
 C'est le meilleur ami d'Acaste, le deuxième personnage masculin de la pièce. Amant fidèle et patient, il continue à courtiser Flore malgré tous les obstacles qui se présentent à lui. Intelligent, il a très vite compris son caractère et sa manière de réagir, comme on le voit aux vers 824 et suivants :
 
@@ -418,29 +418,29 @@ Afin de recevoir de vous meilleur visage.
 Sa constance et sa fidélité seront enfin reconnues par Flore dans la dernière scène, et il sera finalement récompensé par l'amour de la jeune femme. Acaste et Arimant sont des personnages attachants, qui se ressemblent quelque peu mais les deux jeunes femmes qu'ils aiment se distinguent par leur originalité et les différences qu'il y a entre elles.
 
 
-### Dorothée
+### Dorothée.
 
 Héroïne de la pièce, elle provoque un effet de suspens chez le spectateur puisqu'elle n'entre sur scène qu'à la scène 1 de l'acte II. C'est une jeune femme au caractère fort, qui sait ce qu'elle veut. Elle mène à bien l'intrigue, prend les initiatives et décide. Elle est d'ailleurs autoritaire et directive avec les autres personnages, mais sans pour autant se rendre antipathique. Elle a vraiment hérité des qualités de ses homologues espagnoles, et représente le type même de la jeune fille espagnole entreprenante et passionnée. Elle est trois femmes en même temps, tout en restant Dorotée : Isabelle la coiffeuse à la mode, Angélique la femme mariée et Hélène de Peralte. Ne reculant devant rien, elle brave la morale pour feindre d'être dans un couvent tout en se rendant secrètement à Paris. Motivée dans toute la pièce par son amour pour Acaste, c'est une amoureuse fidèle et facilement jalouse mais qui finalement n'est jalouse que d'elle-même… Elle est prête à tout pour espionner son amant, elle ira même jusqu'à suborner le facteur ! Vive et spontanée, elle parvient à ses fins et obtient le mariage avec l'homme qu'elle aime.
 
 
-### Flore
+### Flore.
 
 Deuxième personnage féminin de la pièce, elle est fière et très orgueilleuse, elle dédaigne tous les hommes qu'elle prend pour des menteurs et des infidèles. Elle aime être admirée pour sa beauté et ne supporte pas d'avoir des rivales. Flore est un personnage qui connaît une forte évolution au cours de la pièce. En effet, Arimant, Acaste et Dorotée aiment la même personne du début à la fin, et Flore semble être de ce point de vue un caractère à part. Son coup de foudre pour Acaste du début de l'acte III est très inattendu et brutal, ce qui est accentué par le fait qu'elle n'apparaisse pas sur scène à l'acte II. Mais cet amour soudain est nécessaire pour faire avancer l'intrigue, tout comme son deuxième revirement : lorsqu'elle se révèle finalement amoureuse d'Arimant. Ce type de personnage est assez intéressant parce qu'il est plutôt rare, et son attitude provoque chez le lecteur et le spectateur diverses impressions. Même si on peut être agacé par son comportement à l'égard d'Arimant au début de la pièce, son amour pour Acaste puis pour Arimant la rend plus faible, plus humaine et donc plus sympathique. Ainsi, le contraste dressé entre Flore et Dorotée met en exergue les caractéristiques plutôt espagnoles de Dorotée, et celles, plutôt françaises, de Flore.
 
 Les serviteurs sont au nombre de cinq, bien que Leonor ne puisse pas vraiment être considérée comme une servante étant donné son métier de perruquière. Ces personnages ont le plus souvent dans la pièce un rôle de confidents, ils servent de prétexte pour nous faire saisir les sentiments de leurs maîtres et maîtresses, ainsi que pour transmettre des messages de l'un à l'autre…
 
 
-### Leonor
+### Leonor.
 
 Fameuse perruquière, elle initie Dorotée à son faux métier de coiffeuse à la mode. Après les deux couples de héros, elle est le premier personnage secondaire féminin, ce qui signifie qu'elle est souvent présente sur scène. Intelligente et raisonnable, elle agit moins passionnément que Dorotée et semble plus froide et calculatrice. Dans l'intrigue, elle sert d'entremetteuse pour les amours d'Acaste avec Isabelle, et rend le déguisement choisi par Dorotée plus concret et plus réaliste. Le choix de ce déguisement est essentiel et prend véritablement son sens grâce au personnage de Leonor. En effet, les coiffeuses à cette époque se déplaçaient à domicile, elles avaient ainsi accès aux maisons les plus en vue de Paris. C'est donc pour Dorotée une occasion idéale, elle peut grâce à ce métier pénétrer à l'intérieur des logis des plus grandes dames, et être au courant d'une intrigue entre l'une d'elles et son amant.
 
 
-### Pamphile
+### Pamphile.
 
 Vieux serviteur de Dorotée, il la connaît depuis très longtemps. Il sert de prétexte à d'Ouville pour présenter le motif du déguisement de Dorotée (scène 2, acte II) Fidèle et prêt à tout pour sa maîtresse, il seconde ses projets, bien qu'il ne les comprenne pas tous immédiatement. Il est le seul personnage avec Philippin à souligner le manque de moralité des stratagèmes utilisés par Dorotée, et en particulier du déguisement. Mais c'est un personnage fort sympathique, qui joue son rôle à merveille lorsqu'il doit être le féroce serviteur d'Angélique qui ne veut pas qu'Acaste pénètre dans la maison.
 
 
-### Béatrix
+### Béatrix.
 
 Suivante de Flore, elle devine les sentiments de sa maîtresse. En effet, elle a tout de suite remarqué que Flore était amoureuse d'Acaste, et elle le lui dit immédiatement. Plus indulgente que Flore envers les hommes, elle tente de lui faire entendre raison (v. 159 à 161) :
 
@@ -451,7 +451,7 @@ Mais tout homme n'est pas de ce crime coupable.
 Elle éprouve en outre de la pitié pour Arimant lorsqu'il est chassé par Flore et s'exclame au vers 304 : « O le pauvre jeune homme, ah ! qu'il me fais pitié ! » Très peu présente sur scène, elle ne prononce que 18 vers dans la pièce, son rôle est donc assez limité.
 
 
-### Pauline
+### Pauline.
 
 Fidèle suivante de Dorotée, elle l'a accompagnée à Paris avec Pamphile. Elle aime et est aimée de Philippin. Elle joue aussi le rôle de confidente afin de révéler aux spectateurs les sentiments de Dorotée. Elle exprime en quelques mots l'essentiel de la pièce, lorsqu'elle dit à Dorotée au V.1245 :
 
@@ -462,7 +462,7 @@ Et n'avez pas raison de vous plaindre si fort.
 Par ces mots, elle montre qu'elle a très bien compris le personnage de Dorotée, et elle est en quelque sorte la voix de sa conscience. Pourtant, elle est peu présente sur scène, et ne prononce que vingt-sept vers.
 
 
-### Philipin
+### Philipin.
 
 Fidèle serviteur d'Acaste, il est par certains côtés l'héritier du *gracioso* espagnol : superstitieux et peureux, il n'ose pas affronter Pamphile. Personnage comique, son rôle est loin d'être limité à celui d'un bouffon. En effet, c'est lui qui énonce la « morale » de l'histoire avec les derniers mots de la pièce :
 
@@ -478,7 +478,7 @@ Mais que sert de jurer à qui ne veut pas croire.
 Constituant le lien entre le monde de l'intérieur, cercle fermé des personnages, et le monde de l'extérieur, il apporte les lettres de Dorotée, va préparer les chevaux pour le départ… Personnage actif et bavard, il attire la sympathie et le rire du lecteur et du spectateur par son insouciance et sa gaieté.
 
 
-# La satire des excès du discours galant
+# La satire des excès du discours galant.
 
 D'Ouville exploite dans cette comédie toutes les ressources du langage galant qui sont à sa portée, mais comment parvient-il à faire la satire de ce langage alors qu'il l'utilise tout au long de sa pièce ? On ne peut nier que le discours galant est très présent chez notre auteur : on remarque de nombreuses métaphores galantes, ainsi que des lieux communs pour évoquer l'amour. En effet, les mots se rapportant au langage amoureux, comme flamme, feux, fers, esclave, tourment ou peine reviennent très souvent dans le texte. En outre, le champ lexical de la mort, lié à l'amour, est aussi un thème récurrent, l'excès d'amour provoquant la mort de l'amant qui n'est pas aimé en retour. Mais si le discours galant est beaucoup utilisé par d'Ouville, on peut aussi discerner dans certains passages une satire des excès de ce discours. On assiste alors à un décalage entre l'utilisation de ce style galant par l'auteur dans sa pièce, et la critique de ce style dans la même pièce. Afin d'illustrer ce décalage, nous allons citer un exemple plus concret, il s'agit du personnage de Flore, qui présente à ce sujet un comportement curieux, mais significatif. Une des scènes les plus caractéristiques de satire des excès du discours galant est la scène 2 de l'acte I, dans laquelle Arimant lit à Flore des billets doux qu'elle a reçus de ses soupirants. Flore, à chaque fois, démontre en quelques mots que chaque métaphore galante est fausse, et que celui qui l'a écrit est donc un menteur. Cela tend à prouver sa théorie selon laquelle les hommes sont tous des menteurs, surtout lorsqu'ils parlent d'amour… Avant de citer un exemple de la manière dont d'Ouville construit sa satire, il faut rappeler que cette scène a été directement puisée chez Montalvàn, comme on peut le voir dans le tableau présenté en annexe (troisième tableau). Mais alors l'auteur s'est-il contenté de reprendre mot à mot la satire espagnole, ou bien fait-il preuve ici de plus d'originalité ? En étudiant les deux extraits face à face, on constate que le texte espagnol est plus bref et moins détaillé, mais qu'il comporte la même ironie dans la satire, la même habileté pour anéantir le discours galant en quelques mots. D'Ouville a donc repris l'essentiel de la satire du discours amoureux, déjà présente chez l'auteur espagnol, et il a développé certains passages, sans jamais s'éloigner complètement de son modèle. La construction de cette scène a sans doute été plutôt un travail d'amplification de la satire, un travail de réécriture et non une véritable création originale. Etudions les moyens utilisés pour mettre l'accent sur cette critique du discours galant (v. 224-234) :
 
@@ -519,7 +519,7 @@ Mais comme un qui n'est plus, il est mort pour la joye
 Dans cet extrait, dès le premier vers où l'amour est comparé à une tempête, jusqu'au dernier vers où celui qui n'aime pas est comme mort, Flore tombe dans les excès de langage qu'elle critiquait auparavant. L'apostrophe à l'amour, ainsi que le caractère universel et solennel de ces quelques vers et l'aveu tout entier de la jeune femme démontre qu'elle a été transformée et qu'elle est maintenant victime de ce qu'elle haïssait plus que tout au monde. Que dire donc de cette métamorphose du personnage qui était à lui seul une satire du comportement galant ? Que peut-on tirer comme leçon de cette évolution au cours de la pièce ? À cet égard, le personnage de Flore est un symbole de la manière dont il faut comprendre la pièce. L'essentiel semble être justement la possibilité d'un changement, d'une évolution, qui prend ici la forme d'un passage de la satire à l'utilisation du discours galant.
 
 
-# Le rôle de la correspondance par lettres
+# Le rôle de la correspondance par lettres.
 
 Une lettre est un texte manuscrit que l'on envoie par la poste, servant à délivrer un message d'une manière rapide et efficace. Il s'agit le plus souvent d'un message venant de l'extérieur, et habituellement de loin. Dans la pièce, le courrier tient une place importante puisque c'est le seul moyen de communication de l'époque. Les nouvelles dépendaient des deux principaux courriers existants, l'ordinaire et l'extraordinaire. En examinant les différentes lettres dont il est question au cours du texte, on réalise qu'elles transmettent des messages essentiels pour l'intrigue.
 
@@ -548,7 +548,7 @@ Pour venir apres vous.
 Et c'est seulement après avoir vu ces lettres qu'Acaste acceptera de croire qu'il est devant la vraie Dorotée. Elles jouent donc ici un rôle déterminant puisqu'elles permettent l'identification de l'héroïne, en créant ainsi la fin de la comédie, dans tous les sens du terme… Les lettres permettent de créer sur scène un monde dans lequel les personnages peuvent communiquer entre eux par d'autres moyens que la voix, et ils utilisent alors toutes les ressources de ce moyen pour réaliser leurs objectifs. Cela offre une autre dimension à la pièce, et ajoute des éléments pour le jeu théâtral des acteurs, tout en élargissant les possibilités d'effets comiques.
 
 
-# La comédie et le comique
+# La comédie et le comique.
 
 Quelle est la place du comique dans *La Coifeuse à la mode* ? Si la fonction essentielle de cette pièce est en effet de d'amuser et de divertir le spectateur, on remarque pourtant que le sérieux est loin d'être exclu. Il faut d'ailleurs rappeler que le mélange du comique et du sérieux est une caractéristique du mouvement baroque, et on la retrouve chez d'Ouville. En effet, les quatre héros de *La Coifeuse à la Mode* sont souvent sérieux, en particulier lorsqu'il s'agit de leurs amours. Il n'est bien sûr pas possible de parler de situation tragique ou dramatique, mais le vocabulaire et les images utilisés sont parfois très éloignés du comique. Evoquons par exemple le personnage d'Arimant, et citons quelques vers dans lesquels il décrit son état, lorsqu'il aime Flore et n'est pas aimé :
 
@@ -598,7 +598,7 @@ Une deuxième sorte de comique vient de la situation du héros de la pièce. De 
 Il faut en outre évoquer la comédie dans la comédie, puisque Dorotée est une véritable comédienne à l'intérieur même de la pièce. En effet, elle se déguise en trois femmes différentes et elle est parfaite dans ces trois rôles. Elle joue à être tour à tour ces trois femmes, tout comme une actrice jouerait dans la même pièce trois rôles différents. Elle adopte les déguisements appropriés, prononce des discours adaptés aux personnes qu'elle doit représenter, et se fait passer aux yeux de tous pour Angélique, Isabelle et Hélène de Peralte. L'actrice qui joue le personnage de Flore doit jouer aussi jouer les trois personnages imaginaires inventés par Flore. De fait, le personnage de Flore joue à être une actrice, c'est-à-dire à feindre d'être quelqu'un qu'elle n'est pas, et on a un procédé théâtral intéressant, le théâtre dans le théâtre. Comme nous l'avons vu, le comique revêt dans cette pièce une importance particulière, et les procédés utilisés se complètent afin de donner une impression de variété et de diversité. L'effet comique est aussi intimement lié au stratagème du déguisement. Comment aborder cet élément et quelles sont les analyses que l'on peut en faire ?
 
 
-# Mensonge et déguisement, apparence et réalité
+# Mensonge et déguisement, apparence et réalité.
 
 Avant d'étudier la manière dont d'Ouville met en place ces quelques notions capitales dans sa pièce, il est nécessaire de rappeler que l'utilisation de déguisements est particulièrement chère à l'auteur. On les retrouve dans nombre de ses pièces, comme par exemple *Les Morts vivants*, ou *La Dame Suivante*, dans laquelle l'héroïne se déguise en suivante afin de conquérir l'homme qu'elle aime et de le séparer de celle qui est déjà son amante… Outre le déguisement, il y a bien souvent dans ses pièces des jeux sur l'apparence et la réalité, comme dans *Les Soupçons sur les Apparences*, ou *L'Esprit Folet*. Dans notre pièce, Dorotée se déguise tour à tour en Isabelle, Angélique, et Hélène de Peralte, elle suit les besoins de son plan et passe d'un déguisement à l'autre pour ensuite revenir au premier. Dans sept scènes, elle est Isabelle, la coiffeuse à la mode, qui a donné son nom à la pièce ; à la scène 2 de l'acte IV, elle est Angélique, une femme mariée à un officier du roi, et à la scène 6 de l'acte IV elle joue à être Hélène de Peralte. Quelle est la signification de ces différents déguisements ?
 
@@ -609,14 +609,14 @@ On retient en outre deux leçons caractéristiques des pièces adaptées de *com
 Le comportement d'Acaste dans notre pièce vient confirmer la deuxième leçon évoquée précédemment, à savoir que l'on s'attache à suivre ce qui paraît sans même chercher à savoir ce qu'il y a derrière. En effet, le héros suit Isabelle, et décide d'aimer Angélique, alors qu'il ne sait rien d'elles, il est pris au piège des apparences. Cependant, il faut souligner qu'Acaste courtise les deux femmes alors qu'il est persuadé qu'il ne peut pas s'agir de Dorotée. Il s'étonne de leur ressemblance, envisage une seconde que son amante ait pu se déguiser mais n'y croit pas. Ici, il se trouve que les apparences (la ressemblance du visage des jeunes femmes avec celui de Dorotée) cachent en fait une réalité ignorée par Acaste (le fait qu'il s'agisse réellement de Dorotée déguisée). Le héros se laisse manipuler par Dorotée, et il a même du mal à la reconnaître dans la scène finale, ce qui prouve le véritable succès des trois déguisements. On remarque d'ailleurs que le déguisement est lié dans la majorité des comédies au succès : « À la racine même de l'idée de déguisement, il y a le concept de réussite [17] » et les différents déguisements de l'héroïne ne prennent leur véritable sens que lors du dénouement final, c'est-à-dire lorsque Dorotée a obtenu ce qu'elle attendait : l'aveu de l'amour qu'Acaste lui porte. Ainsi, toute l'intrigue de la pièce repose sur le stratagème du déguisement qui est au cœur de l'action.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 Il n'existe qu'une seule édition de *la Coifeuse à la Mode*, publiée à Paris en 1647 par Toussainct Quinet. L'achevé d'imprimer est daté du 6 novembre 1646, et la première représentation est attestée pour l'année 1646, à l'Hôtel de Bourgogne. La présence de l'acteur Philippin à l'Hôtel de Bourgogne, ainsi que la mention de cette pièce dans l'édition de Lancaster du *Mémoire de Mahelot*, célèbre décorateur de l'époque, p. 55, nous permettent de confirmer cette date. En effet, notre pièce figure à la fin de la liste de la deuxième partie du Mémoire. Cette partie serait, d'après Lancaster, l'œuvre d'un second décorateur, resté anonyme, qui ajouta les titres de certaines pièces à la liste existant déjà. Ces pièces n'ont aucune notice qui leur correspondrait, contrairement aux pièces de la première liste. Nous n'avons donc aucune information autre que la date d'impression et l'année de la représentation. Pour établir cette édition, nous avons suivi l'exemplaire de la réserve de la BNF, Res. YF 312 (microfilm M16837). La pièce fait partie d'un recueil comprenant dans l'ordre : *La Coifeuse à la Mode, L'Esprit Folet, La Dame Suivante, L'Absent chez soi, Les Fausses Véritez*. Il existe trois autres exemplaires à la BNF dans lesquels *La Coifeuse à la Mode* fait partie d'un recueil de comédies de d'Ouville : Res. YF 543, Res. YF 1342 et S YS 683. Enfin, l'exemplaire de l'Arsenal a pour cote RF 6610 (microfilm R62946) et il s'agit là aussi d'un recueil intitulé Comédies du Sieur d'Ouville, et contenant dans l'ordre : *L'esprit Folet, Les Fausses Véritez, L'absent chez soi, La Dame Suivante*, et *La Coifeuse à la Mode*. Tous ces exemplaires sont identiques, les coquilles n'ont pas été corrigées.
 
 Dans la présente édition, nous nous sommes contentée de moderniser l'orthographe en distinguant les voyelles u et j des consonnes v et j, en supprimant le tildé de la nasalisation d'une voyelle et en remplaçant la ligature & par la conjonction « et ». En ce qui concerne la ponctuation, il faut rappeler que la ponctuation du XVII*e* siècle était une ponctuation orale, qui jouait un rôle essentiel dans la déclamation des vers. C'est pourquoi nous avons conservé la ponctuation originale. D'autre part, afin de faciliter la lecture et de ne pas créer de difficultés de compréhension, à chaque fois qu'un point virgule ou que les deux points sont suivis d'une majuscule, nous avons supprimé la majuscule. Toutes les corrections ou modifications effectuées sont signalées dans la liste présentée ci-dessous, dans laquelle on trouvera d'abord la version originale, puis la version corrigée. D'autre part, la graphie des mots n'était pas fixée à cette époque, et un même mot peut parfois présenter plusieurs graphies dans la même pièce, voire dans la même scène ou sur la même page. Il y a en outre une erreur de pagination, puisque l'on passe directement de la page 40 à la page 81, et les numéros se suivent ensuite normalement. Nous avons donc rétabli la numérotation à partir de cette page. Enfin, l'astérisque renvoie le lecteur au lexique, où il trouvera une définition du mot en usage au XVII*e* siècle, et dont le sens diffère de celui d'aujourd'hui.
 
 
-## Liste des coquilles corrigées
+## Liste des coquilles corrigées.
 
 Extrait du privilège : a / à l.5, 9, 11 et 19.
 
@@ -649,7 +649,7 @@ TILDE :
 V.46 come / comme V.709 mostré-je / monstré-je V.710 : amat / amant V.1036 home / homme V.1088 tropé / trompé V.1454 home / homme et augmeter / augmente
 
 
-## Mots ayant des graphies différentes
+## Mots ayant des graphies différentes.
 
 soubçon (V.917, 955, 1054, 1200, 1257, 1412, 1460) soupçon (V.520 532)
 
@@ -662,7 +662,7 @@ appas (V.20, 819, 1536) apas (V.1420)
 coifeuse dans toute la pièce, et coiffeuse dans l'extrait du privilège, et aux vers 1145 et 1580.
 
 
-# LA COIFEUSE A LA MODE COMEDIE
+# LA COIFEUSE A LA MODE COMEDIE.
 
 
 ## Extraict du Privilège.
@@ -676,7 +676,7 @@ Les exemplaires ont esté fournis.
 Ledit QUINET a fait part du present Privilege à ANTOINE DE SOMMAVILLE, Marchand Libraire, pour en jouyr pendant le temps et conditions portées par iceluy : ainsi qu'il a esté accordé entre eux.
 
 
-## ACTEURS
+## ACTEURS.
  – ACASTE,Gentil homme Lyonnois, Amoureux de Dorothee, Amy d'Arimant.
  – ARIMANT,Gentil homme Parisien, amy d'Acaste, et Amoureux de Flore.
  – FLORE,Damoiselle Parisienne, Maistresse d'Arimant.
@@ -693,7 +693,7 @@ La Scene est à Paris.
 ## ACTE I.
 
 
-### Scène première
+### Scène première.
 ACASTE, ARIMANT.
 
 
@@ -885,7 +885,7 @@ Je vay voir si le Ciel vaincra mes desplaisirs.
 Qu'il vueille de tout point seconder vos desirs.  
 
 
-### Scène 2
+### Scène 2.
 FLORE Superbement vestuë.
 
 BEATRIX. ARIMANT.
@@ -938,7 +938,7 @@ Lors qu'ils sont esclairez du feu de vos beaux yeux?
 Pour moy je suis toujours d'esgale humeur pour eux.  
 Ainsi que mon desgoust, ma rigueur est extresme.  
 
-    ARIMANT*. bas* [43]
+    ARIMANT*. bas* [43].
 Et pour vous mon amour en tout temps est le mesme.  
 Encor pour quel sujet?  
 
@@ -991,7 +991,7 @@ Pour un object charmant.
 S'il dit plus qu'il ne souffre, est-il pas vray qu'il ment?  
 Il suffit, passez donc au second, Arimant.  
 
-    ARIMANT*. Il lit.*
+    ARIMANT*. Il lit.*.
 Je me senty brusler aussi-tost qu'à ma veuë  
 Vous parustes hier de tant d'attraits pourveuë.  
 
@@ -1021,13 +1021,13 @@ Ne m'a que fort peu veuë, il est certain qu'il ment.
 Puis que son amour est si fort precipitée [49],  
 Et brusle mesme avant que de de m'avoir hantée⁎ [50].  
 
-    ARIMANT *bas.*
+    ARIMANT *bas.*.
 Quelle humeur! et qu'en puis-je esperer justes Dieux!  
 
     FLORE.
 Lisez l'autre, Arimant.  
 
-    ARIMANT.  *Lit.*
+    ARIMANT. *Lit.*.
         Le soleil de vos yeux.  
 
     FLORE.
@@ -1060,7 +1060,7 @@ Si toute chose n'est mensonge à votre esgard [55].
 Pourquoy donc voulez-vous que je croye une chose  
 Que je tiens pour mensonge?  
 
-    ARIMANT*.  bas.*
+    ARIMANT*. bas.*.
         Il faut que je suppose [56]  
 Quelque lettre qui m'ayde et qui sans declarer  
 Luy puisse adroittement mon amour declarer [57].  
@@ -1068,7 +1068,7 @@ Luy puisse adroittement mon amour declarer [57].
     FLORE.
 Lisez l'autre, Arimant.  
 
-    ARIMANT. *bas, il fait semblant de lire.*
+    ARIMANT. *bas, il fait semblant de lire.*.
         Sus [58] donc prenons courage,  
 Depuis un an entier Flore j'ay l'advantage  
 D'adorer en vos yeux une divinité  
@@ -1160,7 +1160,7 @@ Beatrix, je consents d'en estre chastié.
 O le pauvre jeune homme, ah! qu'il me fait pitié!  
 
 
-### Scène 3
+### Scène 3.
 ARIMANT, ACASTE
 
 
@@ -1232,7 +1232,7 @@ Mon mal est incapable à present de remede,
 Je n'en espere point, si ce n'est en la mort.  
 
 
-### Scène 4
+### Scène 4.
 ACASTE, PHILIPIN
 
 
@@ -1297,10 +1297,10 @@ Pleust au Ciel qu'Arimant en eust autant de Flore.
 Fin du premier Acte.
 
 
-## ACTE II
+## ACTE II.
 
 
-### Scène première
+### Scène première.
 ACASTE ARIMANT PHILIPIN
 
 
@@ -1356,7 +1356,7 @@ Que nous passions chez elle encor une heure ou deux.
     ACASTE.
 Si vous le desirez, cher amy, je le veux.  
 
-    PHILIPIN, *à Acaste.*
+    PHILIPIN, *à Acaste.*.
 Vous la retournez voir? bien soyez en cervelle⁎,  
 Je crains que vous n'ayez un peu d'amour pour elle.  
 
@@ -1370,7 +1370,7 @@ Que Dorotée, au moins j'y voy grande apparence,
 Se sentira [85] bien-tost de cette connoissance.  
 
 
-### Scène 2
+### Scène 2.
 PAMPHILE. DOROTEE. PAULINE.
 
 
@@ -1557,7 +1557,7 @@ La Coifeuse à la Mode, Isabelle autrement.
 Considere Pamphile à present je te prie,  
 Par cet exemple icy que c'est que jalousie [100].  
 
-    PAMPHILE. 
+    PAMPHILE.
 Mais vous ne m'ostez pas mon apprehension,  
 Par la subtilité de vostre invention.  
 Pensez y meurement, vous vous flatez peut-estre.  
@@ -1569,7 +1569,7 @@ Si Leonor est là, si je la pourray voir?
 Mais la voicy qui sort, arreste-toy Pauline.  
 
 
-### Scène 3
+### Scène 3.
 DOROTEE, LEONOR, PAULINE, PAMPHILE.
  
 
@@ -1621,7 +1621,7 @@ Ce sera luy sans doute, allons y promptement
 Leonor, je vous prie. Ah! le perfide Amant,  
 Sans doute il me trahit.  
 
-    LEONOR. 
+    LEONOR.
         N'entrez point en cervelle⁎  
 De cette Dame là, car je vous respons d'elle,  
 Si c'est pour cét objet⁎ qu'il a quelque dessein,  
@@ -1714,7 +1714,7 @@ Mais pourquoy voulez-vous aussi que je m'engage?
 Ah! c'est trop raisonner, fay bien ton personage,  
 Et je feray le mien. C'est bien à des valets [116].  
 
-    LEONOR. 
+    LEONOR.
 Madame il faudra donc envoyer au Palais  
 Pour avoir ce qu'il faut dans cette matinée [117].  
 
@@ -1723,12 +1723,12 @@ Ouy, la commission en est desja donnée.
 Fin du second Acte.
 
 
-## ACTE III
+## ACTE III.
 
 
-### Scène première
+### Scène première.
 
-    FLORE *seule*
+    FLORE *seule*.
 Quel changement mon Coeur? et quelle frenaisie  
 Me vient presentement⁎ troubler la fantasie⁎?  
 D'où vous vient ce caprice, et cette nouveauté?  
@@ -1800,7 +1800,7 @@ Ensemble voye et naistre, et mourir mon amour.
 Chassons ce fol⁎ desir qui ma raison emporte [126].  
 
 
-### Scène 2
+### Scène 2.
 BEATRIX. FLORE.
 
 
@@ -1817,7 +1817,7 @@ Madame, entrera-t'il?
     BEATRIX.
 Moy je n'en cognois qu'un, je parle d'Arimant.  
 
-    FLORE. *bas*
+    FLORE. *bas*.
 Quelle peine⁎ grands Dieux est pareille à la mienne?  
 Il ne peut à present, va dy luy qu'il revienne  
 Une autrefois icy, cet abord [127] m'est fatal.  
@@ -1848,7 +1848,7 @@ Je dirois.
     FLORE.
         Encor que dirois-tu?  
 
-    BEATRIX
+    BEATRIX.
 Que ce contentement que vous faites paroistre  
 Proviendroit.  
 
@@ -1865,7 +1865,7 @@ Que par galanterie un homme me frequente.
 Autre chose est d'aimer ou d'estre complaisante [130].  
 
 
-### Scène 3
+### Scène 3.
 BEATRIX. ARIMANT. ACASTE. FLORE.
 
 
@@ -1924,7 +1924,7 @@ Capables de charmer, de donner de l'amour.
 Mais quoy qu'un autre objet⁎ puisse plaire à ma veuë,  
 La seule Dorotée est celuy qui me tuë [134].  
 
-    FLORE, *bas*
+    FLORE, *bas*.
 Cét obligeant discours flate ma vanité,  
 Et je dois esperer beaucoup de ma beauté,  
 Vous vous trompez, Monsieur, car il pourroit bien estre  
@@ -1938,7 +1938,7 @@ Où l'Art, où la Nature en miracles abonde,
 Où l'on void des beautez dignes de plaire aux Dieux,  
 Dont l'éclat obscurcit tous les Astres des Cieux.  
 
-    ACASTE. 
+    ACASTE.
 Vous avez bien raison, Madame, je confesse  
 Que je puis avoir tort disant que ma maistresse  
 L'emporte par dessus les beautez de Paris,  
@@ -1952,7 +1952,7 @@ Que celles de la Cour, rien ne me plaist comme elle,
 Car quand il seroit vray que parmy ses appas  
 Elle eust quelques defauts, je ne les verrois pas.  
 
-    FLORE, *bas.*
+    FLORE, *bas.*.
 Dieux! quel impertinent.  
 
     ARIMANT, *bas*. 
@@ -1966,7 +1966,7 @@ Ce n'est point par amour sans doute je le croy
 Connoissant son humeur comme je la connoy.  
 
 
-### Scène 4
+### Scène 4.
 PHILIPPIN. ACASTE. FLORE.
 
 ARIMANT. BEATRIX.
@@ -1992,13 +1992,13 @@ Donne-les promptement. Vous m'excuserez bien
 Madame, si je quitte un si doux entretien.  
 Pardonnez s'il vous plaist à mon impatience.  
 
-    FLORE *bas*
+    FLORE *bas*.
 Justes Dieux! c'est bien pis, je perds toute esperance.  
 
-    ACASTE *lit*
+    ACASTE *lit*.
 Je ne sçaurois mon coeur vivre un moment sans toy [136].  
 
-    FLORE *bas*
+    FLORE *bas*.
 Dieux! qu'est-ce que j'entends? Dieux! qu'est-ce que je voy?  
 Ne suffisoit-il point d'avoir l'ame saisie  
 De ce nouvel amour, sans que la jalousie  
@@ -2047,7 +2047,7 @@ Si vous n'avez dessein de me mettre en colere.
 Madame excusez-moy.  
 
 
-### Scène 5
+### Scène 5.
 BEATRIX, FLORE, DOROTEE, ACASTE,
 
 ARIMANT, PHILIPPIN.
@@ -2095,23 +2095,23 @@ Emmenez la demain Leonor, je vous prie.
     LEONOR.
 Je n'y manqueray pas.  
 
-    DOROTEE *à Leonor, bas.* 
+    DOROTEE *à Leonor, bas.*. 
         Je ne vis en ma vie  
 Une plus agreable et plus rare beauté.  
 
-    ACASTE *serrant sa lettre.*
+    ACASTE *serrant sa lettre.*.
 Vous excuserez bien mon incivilité,  
 Madame, s'il vous plaist.  
 
-    DOROTEE *bas à Leonor.*
+    DOROTEE *bas à Leonor.*.
         **Dieux! j'aperçoy ce traistre.  
 Ah Leonor! c'est luy.  
 
-    LEONOR *bas à Dorotée.*
+    LEONOR *bas à Dorotée.*.
         **Ne faites pas paroistre  
 Que vous le connoissez.  
 
-    DOROTEE *bas, à Leonor.*
+    DOROTEE *bas, à Leonor.*.
         **Leonor, je ne puis  
 Contenir mon esprit dans le trouble⁎ où je suis.  
 
@@ -2138,20 +2138,20 @@ Et vous avez raison de m'en faire un reproche.
     FLORE.
 Pour quel sujet, Monsieur?  
 
-    ACASTE *bas, à Philippin.*
+    ACASTE *bas, à Philippin.*.
         **Tiens, Philipin approche.  
 
-    PHILIPIN *bas, à Acaste.*
+    PHILIPIN *bas, à Acaste.*.
 Je vous entends fort bien.  
 
-    ACASTE *bas, à Philipin.*
+    ACASTE *bas, à Philipin.*.
         Escoute, parle à moy [142].  
 N'est-ce pas Dorotée à present que je voy.  
 
     PHILIPIN.
 Ce ne l'est pas, Monsieur, mais ce la devroit estre.  
 
-    DOROTEE *ouvrant la quaissette.* 
+    DOROTEE *ouvrant la quaissette.*. 
 Je perds l'esprit grands Dieux! voyez un peu le traistre,  
 Le tour que m'a joüé cét insigne affronteur,  
 Maudit soit le mestier, je le dy de bon cœur,  
@@ -2184,7 +2184,7 @@ J'en ay trop de sujet.
     FLORE. 
         Dites-le, je vous prie.  
 
-    DOROTEE, *bas.*
+    DOROTEE, *bas.*.
 Il faut dissimuler. Voyez l'effronterie,  
 Et si je n'ay pas lieu de me deseperer.  
 En certaine maison où je n'ay fait qu'entrer,  
@@ -2192,7 +2192,7 @@ Madame, l'on m'a pris une piece à ma veüe [146],
 Et tout presentement⁎ je m'en suis apperceuë,  
 Et c'est celle en effect que j'estimois [147] le plus.  
 
-    ACASTE, *bas à Philipin.*
+    ACASTE, *bas à Philipin.*.
 O Dieux vit-on jamais un homme plus confus!  
 Si je ne connoissois fort bien cette escriture,  
 Mais que dis-je, c'est elle ?  
@@ -2200,7 +2200,7 @@ Mais que dis-je, c'est elle ?
     PHILIPIN.
     Elle ?  
 
-    ACASTE
+    ACASTE.
         Ouy, je te le jure.  
 
     PHILIPIN.
@@ -2250,7 +2250,7 @@ Qui m'a joüé ce tour, je luy feray paroistre [153],
 Quelle femme je suis, il n'en doit pas douter,  
 Et si je luy pardonne il s'en pourra vanter.  
 
-    ACASTE *bas.*
+    ACASTE *bas.*.
 Voyant qu'elle est si fort semblable à ma maistresse  
 Comme elle sans mentir je ressens la tristesse,  
 Pour si peu de sujet faut-il crier si fort ? [154]  
@@ -2272,7 +2272,7 @@ Vous mocquez-vous, Monsieur, estes-vous en vous-mesme [156] ?
 Il faut absolument, Philipin, que je l'ayme  
 Il n'est rien icy bas qui m'en puisse empescher.  
 
-    DOROTEE, *s'en allant.*
+    DOROTEE, *s'en allant.*.
 Adieu, Madame, adieu, je m'en vay le chercher.  
 
     ACASTE.
@@ -2283,7 +2283,7 @@ Qui m'importe beaucoup, je prens congé de vous.
     FLORE.
 Adieu, Monsieur.  
 
-    ACASTE, *à Arimant.*
+    ACASTE, *à Arimant.*.
     **Adieu.  
 
     ARIMANT.
@@ -2295,7 +2295,7 @@ De vous accompagner.
 Il faut que je sois seul, je vous en remercie.  
 
 
-### Scène 6
+### Scène 6.
 FLORE, ARIMANT, BEATRIX.
 
 
@@ -2305,7 +2305,7 @@ Vous ne le devez pas, je croy qu'asseurement
 Il a quelque querelle, et vous auriez du blasme  
 De le quitter ainsi.  
 
-    ARIMANT. 
+    ARIMANT.
         Je croy qu'il va, Madame,  
 Respondre à ce pacquet qu'il vient de recevoir,  
 Vous n'avez pas sujet d'ainsi vous esmouvoir,  
@@ -2349,10 +2349,10 @@ Arimant le cognoist, il s'en apperçoit bien.
 Je vay vous delivrer d'un fascheux entretien.  
 Je prends congé de vous.  
 
-    FLORE *en s'en allant*,
+    FLORE *en s'en allant*,.
         Je suis vostre servante.  
 
-    ARIMANT *bas.*
+    ARIMANT *bas.*.
 Elle brusle d'amour la chose est evidente,  
 Je cognois [160] bien qu'Acaste est maistre de son cœur,  
 Mais il est mon amy je n'en ay point de peur  
@@ -2361,7 +2361,7 @@ Il s'en va.
 
 
 
-### Scène 7
+### Scène 7.
 ACASTE. PHILIPIN.
 
 
@@ -2419,11 +2419,11 @@ Et nous assommeront, Monsieur, pensez-y bien.
 Va tu n'es qu'un maraut⁎, je ne redoute rien.  
 
 
-### Scène 8
+### Scène 8.
 PAMPHILE. ACASTE. PHILIPIN.
  
 
-    PAMPHILE. 
+    PAMPHILE.
 Que voulez-vous, Monsieur ?  
 
     ACASTE.
@@ -2481,7 +2481,7 @@ Il est tres-vray, Monsieur,
 Je sçais qu'elle est ceans⁎, faites que je la voye  
 Mon amy je vous prie, ou bien je me resous [172].  
 
-    PAMPHILE. 
+    PAMPHILE.
 Ne me croyez-vous point ?  
 
     PHILIPIN.
@@ -2493,10 +2493,10 @@ Entrons et visitons un peu cette autre porte.
 Fin du troisième Acte
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### Scène première
+### Scène première.
 ACASTE. PHILIPIN.
  
 
@@ -2538,7 +2538,7 @@ Et nous mangeoit [178] des yeux, c'est une chose seure,
 Qu'il bande [179] son fuzil, et s'arme là dedans  
 
 
-### Scène 2
+### Scène 2.
 DOROTEE en habit de Dame superbement parée.
 
 ACASTE. PHILIPIN. PAMPHILE.
@@ -2547,7 +2547,7 @@ ACASTE. PHILIPIN. PAMPHILE.
     DOROTEE.
 Que voulez-vous, Monsieur ? que cherchez-vous ceans⁎ ?  
 
-    ACASTE *bas à Philipin.*
+    ACASTE *bas à Philipin.*.
 Madame je cherchois. Ah Philipin regarde,  
 Que voi-je que vois-tu ? justes Dieux pren bien garde  
 Si cette Dame icy te paroist comme à moy ?  
@@ -2556,7 +2556,7 @@ Si cette Dame icy te paroist comme à moy ?
 Nous sommes fols⁎ tous deux, ouy Monsieur je le croy,  
 Que diable voi-je icy ce miracle m'effroye.  
 
-    ACASTE. 
+    ACASTE.
 Me trompez-vous mes yeux ? que faut-il que je voye ?  
 
     PHILIPIN.
@@ -2649,7 +2649,7 @@ Cecy vous doit suffire.
         Hé quoy ! ma chere Dame,  
 Elle part, et me laisse un grand trouble⁎ dans l'ame,  
 
-    DOROTEE, *en s'en allant.*
+    DOROTEE, *en s'en allant.*.
 Je l'embarrace bien, qu'il doit estre confus.  
 
     ACASTE.
@@ -2679,7 +2679,7 @@ Luy ressemble si fort qu'on la prendrait pour elle,
 Et je suis tres-certain qu'aucune toutesfois  
 De ces deux là ne l'est.  
 
-    PHILIPIN. 
+    PHILIPIN.
         Ainsi c'en sont donc trois  
 Pour une Dorotée.  
 
@@ -2734,7 +2734,7 @@ M'en blasme qui voudra le sort en est jetté,
 Adorons cette rare et charmante beauté.  
 
 
-### Scène 3
+### Scène 3.
 DOROTEE. LEONOR. PAULINE.
 
 
@@ -2926,7 +2926,7 @@ Tu le verras tanstot, et c'est ce que l'Amour
 M'a depuis que j'y suis apris en cette Cour [223].  
 
 
-### Scène 4
+### Scène 4.
 ACASTE. PHILIPIN.
 
 
@@ -2955,7 +2955,7 @@ Nous le verrons.
         Mais je vois Arimant.  
 
 
-### Scène 5
+### Scène 5.
 ARIMANT. ACASTE. PHILIPIN.
  
 
@@ -3016,7 +3016,7 @@ Je n'ose, allez escrire, Acaste, et cependant [230]
 Je me promeneray seul en vous attendant.  
 
 
-### Scène 6
+### Scène 6.
 FLORE. BEATRIX. DOROTEE.
 
 PAMPHILE. PAULINE.
@@ -3026,7 +3026,7 @@ PAMPHILE. PAULINE.
 Je n'ay jamais ouy parler de cette femme.  
 Helene, me dis-tu de Peralte ?  
 
-    BEATRIX
+    BEATRIX.
         Ouy, Madame,  
 A ce que dit son homme elle s'appelle ainsi.  
 
@@ -3156,12 +3156,12 @@ Madame excusez-moy je suis vostre servante.
 Fin du quatriesme acte.
 
 
-## ACTE V
+## ACTE V.
 
 
-### Scène première
+### Scène première.
 
-    FLORE *seule.* 
+    FLORE *seule.*. 
 Resvez-je point icy ? suis-je bien éveillée ?  
 Ma paupiere, grands Dieux ! est-elle dessillée ?  
 Quoy respiray-je encor ? quels charmes si puissans  
@@ -3184,7 +3184,7 @@ Dissimulons mon cœur, mais non je ne le puis,
 Faisons voir quel il est [241], et montrons qui je suis.  
 
 
-### Scène 2
+### Scène 2.
 FLORE. ACASTE. ARIMANT. BEATRIX.
 
 
@@ -3242,7 +3242,7 @@ La cognoissez-vous pas ?
 Madame asseurez-vous que c'est une imposture,  
 Et que je ne cognois [245].  
 
-    ARIMANT
+    ARIMANT.
 Bas à Acaste.
 
         Amy je vous conjure  
@@ -3253,7 +3253,7 @@ D'estre d'oresnavant bien ou mal avec Flore,
 Vous me donnez la vie, advoüant en ce point  
 Que vous la cognoissez, et qu'elle ne ment point.  
 
-    ACASTE*bas à Arimant.*
+    ACASTE*bas à Arimant.*.
 Quoy pour l'amour de vous, faut-il que je confesse,  
 Que j'ay le cœur si bas.  
 
@@ -3267,7 +3267,7 @@ Que dit-il Arimant ? Car je suis asseurée
 Par la fidelité que vous m'avez jurée  
 Que vous me direz vray.  
 
-    ARIMANT *à Acaste.*
+    ARIMANT *à Acaste.*.
         **Craignez-vous de parler  
 Que vous sert, cher amy, je me voulois contraindre,  
 Mais si vous sçavez tout, que serviroit de feindre ?  
@@ -3335,11 +3335,11 @@ Que je vous quitte, adieu, je vous cede la place.
 Elle s'en va.
 
 
-    ACASTE*s'en allant.*
+    ACASTE*s'en allant.*.
 Nous n'avons pas dessein de vous incommoder.  
 
 
-### Scène 3
+### Scène 3.
 ACASTE. ARIMANT.
  
 
@@ -3374,7 +3374,7 @@ Que toutes trois ne sont qu'une mesme personne.
 Ouy les trois ne sont qu'une, ou j'ay perdu l'esprit.  
 
 
-### Scène 4
+### Scène 4.
 PHILIPIN. ACASTE. ARIMANT.
 
 
@@ -3493,7 +3493,7 @@ Vois-tu je veux partir dés la pointe du jour,
 Bien j'y cours de ce pas.  
 
 
-### Scène 5
+### Scène 5.
 ACASTE. PHILIPIN. ARIMANT.
 
 DOROTEE. LEONOR.
@@ -3511,7 +3511,7 @@ Leonor respons-moy.
         Je vous l'ameine icy.  
 Tiens-je pas ma parole ?  
 
-    DOROTEE *en chaperon⁎.*
+    DOROTEE *en chaperon⁎.*.
         **Ouy, Monsieur, la voicy.  
 
     ACASTE.
@@ -3595,13 +3595,13 @@ En fin c'est un peu trop la colere m'emporte.
 Vrayment elle a grand tort d'en user de la sorte.  
 
 
-### Scène 6
+### Scène 6.
 
-    PHILIPIN *entre*
+    PHILIPIN *entre*.
 Les cheveaux seront prests, et vous pourrez sortir  
 Dès la pointe du jour.  
 
-    DOROTEE 
+    DOROTEE. 
         Qui veut doncques partir ?  
 Sit tost de cette ville ?  
 
@@ -3643,11 +3643,11 @@ Celle que vous aymez mille fois mieux que moy.
 Je l'ayme il est certain, mais croy moy qu'il me semble  
 La perdre en te perdant, tant elle te ressemble.  
 
-    DOROTEE *bas.*
+    DOROTEE *bas.*.
 Courage, tout va bien.  
 
 
-### Scène 7
+### Scène 7.
 PHILIPIN ACASTE.
 
 
@@ -3668,7 +3668,7 @@ D'une Dame qu'il sert.
         Qu'il entre promptement.  
 
 
-### Scène 8
+### Scène 8.
 PAMPHILE, DOROTEE, LEONOR, ACASTE,
 
 PHILIPIN, ARIMANT.
@@ -3729,7 +3729,7 @@ Encor une autre ?
         Elle est maistresse d'Arimant.  
 
 
-### Scène 9 et dernière
+### Scène 9 et dernière.
 FLORE. ARIMANT. BEATRIX. LEONOR.
 
 ACASTE. PHILIPIN. PAMPHILE. [269]
@@ -3738,7 +3738,7 @@ ACASTE. PHILIPIN. PAMPHILE. [269]
     ARIMANT.
 Flore icy, justes Dieux! cela ne peut pas estre.  
 
-    FLORE *bas.* 
+    FLORE *bas.*. 
 La coiffeuse est icy ? voyez un peu le traistre,  
 Cette Helene sans doute a dit la verité.  
 
@@ -3835,7 +3835,7 @@ Que de vous faire voir les traits de mon visage ?
     ACASTE.
 Ce visage me charme, et trouble mes esprits,  
 
-    DOROTEE *luy montrant ses lettres.*
+    DOROTEE *luy montrant ses lettres.*.
 Et si ce n'est assez lisez tous ces escrits,  
 Et dans cette action admirez mon adresse,  
 J'ay sçeu tromper vos yeux, et par cette finesse  
@@ -3863,7 +3863,7 @@ Venez participer à l'excez de la joye,
 Que l'Amour me procure, et que le Ciel m'envoye,  
 Amy je suis ravy⁎.  
 
-    ARIMANT. 
+    ARIMANT.
         Encor pour quel suject ?  
 
     ACASTE.
@@ -3917,10 +3917,10 @@ Je m'en vay de bon cœur donner ordre au festin.
 FIN.
 
 
-# LexiqueAmitiéAmour.V. 51, 994, 1195, 1310, 1700CeansTerme démonstratif du lieu où l'on est, équivaut à ici.V. 1011, 1030, 1060CervelleEmployé dans les expressions suivantes, se mettre en cervelle, être en cervelle, entrer en cervelle, le mot désigne l'esprit, le jugement des hommes. Mettre quelqu'un en cervelle, le tenir en cervelle signifie lui donner de l'inquiétude, du souci, lui faire espérer quelque chose dont il attend avec impatience le succès. (Furetière)V. 413, 615, 635, 1226ChaperonAncien habillement de tête, tant pour les hommes que pour les femmes. Pour les femmes, il s'agissait d'une bande de velours portée sur leurs bonnets.V. 426, 1432, 1654DecevoirTromper adroitement. Il ne faut pas se laisser décevoir par les belles apparences. (Furetière)V. 662, 1575DiligenceActivité qui nous fait exécuter notre devoir, nos desseins avec promptitude et exactitude. Rapidité. Au vers 502, « faisoit … toutes ses diligences » signifie « faisait tout ce qu'il pouvait, tout son possible ».V. 502, 545, 1041, 1297, 1636EnchantementCharme, effet merveilleux procédant d'une puissance magique, d'un art diabolique. Se dit aussi d'un effet surprenant dont on ne connaît pas la cause, et que l'on rapporte à quelque chose d'extraordinaire.V. 1080, 1132, 1180, 1332, 1478EnnuyChagrin, fâcherie que donne quelque discours ou quelque accident déplaisant, ou trop long.V. 308, 315, 963, 1315EstonnerCauser de l'émotion à l'âme, soit par surprise, soit par admiration, soit par crainte. On s'étonne des accidents extraordinaires qui arrivent dans le monde. (Furetière)V. 437, 1349FantaisieImagination, détermination de l'esprit à croire ou à vouloir les choses selon les impressions des sens. Désigne ce qui s'oppose à la raison. V. 26, 481, 682, 1413FlameSe dit communément pour qualifier l'amour profane, métaphore classique au XVII*e* siècle.V. 94, 125, 153, 170, 205, 712, 757, 1101, 1266, 1314, 1442, 1483, 1507, 1751, 1767Fol, folleSe dit de quelqu'un qui a perdu l'esprit; le jugement. V. 431, 749, 885, 1064, 1205GalandsRubans noués qui servent pour orner les habits ou la tête tant des femmes que des hommes.V. 610, 860HanterÊtre souvent en la compagnie de quelqu'un, soit qu'on lui fasse des visites, soit qu'on reçoive les siennes. Se dit aussi des lieux où l'on va habituellement. On dirait aujourd'hui, fréquenter.V. 222, 368, 561, 606, 1433HardeHabits ou petits objets qui servent à vêtir ou à orner une personne ou une chambre. On en fait des paquets lorsque l'on voyage.V. 650, 1008, 1010HeurRencontre avantageuse, on dirait aujourd'hui bonheur, fortune, ou chance. Utilisé pour former les mots bonheur et malheur.V. 69, 1801, 1813, 1815Inquieté, éeAyant du chagrin, de la peine. Une âme inquiétée a de l'ennui, un trouble ou une affliction de l'esprit.V. 782, 1197, 1795MarautTerme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, et sont capables de faire toutes sortes de lâchetés. (Furetière)V. 354, 1004, 1040ObjetSe dit poétiquement des belles personnes, qui donnent de l'amour.V. 20, 30, 71, 617, 797, 802, 981, 1241, 1334, 1395, 1451ObligerFaire quelque faveur, civilité ou courtoisie.V. 45, 53, 80, 410, 774, 1008Peyne, ou peineChâtiment que l'on fait souffrir à ceux qui ont fait quelque faute. Peut aussi désigner une inquiétude d'esprit, une douleur, un tourment. Terme souvent utilisé pour qualifier ce que ressentent les Amants. V. 114, 134, 136, 197, 253, 342, 426, 753, 990, 1044, 1117, 1268, 1562, 1570, 1777Picquer ou piquer, seSe piquer d'honneur et de probité, avoir la prétention d'être honorable et probe. Se dit aussi de choses qui nous flattent ou nous choquent. Aux vers 1073 et 1308, équivaut à prendre de l'ombrage, se mettre en colère. Au vers 1221, a pour sens s'enticher de. V. 212, 509, 1073, 1221, 1306Pistole Monnaie d'or étrangère battue en Espagne et dans quelques endroits d'Italie, a une valeur de 10 livres ou d'un Louis. V. 1193, 1338PouletPetit billet amoureux qu'on envoie aux Dames, ainsi nommé parce qu'en le pliant on y faisait deux pointes qui représentaient les ailes d'un poulet.V. 180, 1116Presentement Peut avoir pour sens maintenant, tout à l'heure, tout de suite ou sans tarder. Exprime la proximité dans le temps, que ce soit dans le passé ou dans le futur.V. 343, 682, 894, 1052, 1429, 1439, 1492RavyÊtre ravi signifie être en proie à une violente passion (joie, étonnement, admiration) qui trouble agréablement l'esprit et suspend les fonctions des sens. Un ravissement est une sorte d'extase due à cette passion.V. 386, 1805, 1814TourmentPeines et chagrins que l'on se donne soi-même ou les uns aux autres. Les amoureux se plaignent sans cesse qu'ils souffrent mille tourments.V. 100, 132, 136, 252, 268, 707, 1179, 1316TroubleDésordre, confusion de l'âme causée par des passions, ici il s'agit le plus souvent de l'amour.V. 12, 270, 315, 872, 1126ZèleArdeur, passion que l'on ressent pour quelque chose ou pour quelqu'un.V. 715, 1096
+# Lexique.AmitiéAmour.V. 51, 994, 1195, 1310, 1700CeansTerme démonstratif du lieu où l'on est, équivaut à ici.V. 1011, 1030, 1060CervelleEmployé dans les expressions suivantes, se mettre en cervelle, être en cervelle, entrer en cervelle, le mot désigne l'esprit, le jugement des hommes. Mettre quelqu'un en cervelle, le tenir en cervelle signifie lui donner de l'inquiétude, du souci, lui faire espérer quelque chose dont il attend avec impatience le succès. (Furetière)V. 413, 615, 635, 1226ChaperonAncien habillement de tête, tant pour les hommes que pour les femmes. Pour les femmes, il s'agissait d'une bande de velours portée sur leurs bonnets.V. 426, 1432, 1654DecevoirTromper adroitement. Il ne faut pas se laisser décevoir par les belles apparences. (Furetière)V. 662, 1575DiligenceActivité qui nous fait exécuter notre devoir, nos desseins avec promptitude et exactitude. Rapidité. Au vers 502, « faisoit … toutes ses diligences » signifie « faisait tout ce qu'il pouvait, tout son possible ».V. 502, 545, 1041, 1297, 1636EnchantementCharme, effet merveilleux procédant d'une puissance magique, d'un art diabolique. Se dit aussi d'un effet surprenant dont on ne connaît pas la cause, et que l'on rapporte à quelque chose d'extraordinaire.V. 1080, 1132, 1180, 1332, 1478EnnuyChagrin, fâcherie que donne quelque discours ou quelque accident déplaisant, ou trop long.V. 308, 315, 963, 1315EstonnerCauser de l'émotion à l'âme, soit par surprise, soit par admiration, soit par crainte. On s'étonne des accidents extraordinaires qui arrivent dans le monde. (Furetière)V. 437, 1349FantaisieImagination, détermination de l'esprit à croire ou à vouloir les choses selon les impressions des sens. Désigne ce qui s'oppose à la raison. V. 26, 481, 682, 1413FlameSe dit communément pour qualifier l'amour profane, métaphore classique au XVII*e* siècle.V. 94, 125, 153, 170, 205, 712, 757, 1101, 1266, 1314, 1442, 1483, 1507, 1751, 1767Fol, folleSe dit de quelqu'un qui a perdu l'esprit; le jugement. V. 431, 749, 885, 1064, 1205GalandsRubans noués qui servent pour orner les habits ou la tête tant des femmes que des hommes.V. 610, 860HanterÊtre souvent en la compagnie de quelqu'un, soit qu'on lui fasse des visites, soit qu'on reçoive les siennes. Se dit aussi des lieux où l'on va habituellement. On dirait aujourd'hui, fréquenter.V. 222, 368, 561, 606, 1433HardeHabits ou petits objets qui servent à vêtir ou à orner une personne ou une chambre. On en fait des paquets lorsque l'on voyage.V. 650, 1008, 1010HeurRencontre avantageuse, on dirait aujourd'hui bonheur, fortune, ou chance. Utilisé pour former les mots bonheur et malheur.V. 69, 1801, 1813, 1815Inquieté, éeAyant du chagrin, de la peine. Une âme inquiétée a de l'ennui, un trouble ou une affliction de l'esprit.V. 782, 1197, 1795MarautTerme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, et sont capables de faire toutes sortes de lâchetés. (Furetière)V. 354, 1004, 1040ObjetSe dit poétiquement des belles personnes, qui donnent de l'amour.V. 20, 30, 71, 617, 797, 802, 981, 1241, 1334, 1395, 1451ObligerFaire quelque faveur, civilité ou courtoisie.V. 45, 53, 80, 410, 774, 1008Peyne, ou peineChâtiment que l'on fait souffrir à ceux qui ont fait quelque faute. Peut aussi désigner une inquiétude d'esprit, une douleur, un tourment. Terme souvent utilisé pour qualifier ce que ressentent les Amants. V. 114, 134, 136, 197, 253, 342, 426, 753, 990, 1044, 1117, 1268, 1562, 1570, 1777Picquer ou piquer, seSe piquer d'honneur et de probité, avoir la prétention d'être honorable et probe. Se dit aussi de choses qui nous flattent ou nous choquent. Aux vers 1073 et 1308, équivaut à prendre de l'ombrage, se mettre en colère. Au vers 1221, a pour sens s'enticher de. V. 212, 509, 1073, 1221, 1306Pistole Monnaie d'or étrangère battue en Espagne et dans quelques endroits d'Italie, a une valeur de 10 livres ou d'un Louis. V. 1193, 1338PouletPetit billet amoureux qu'on envoie aux Dames, ainsi nommé parce qu'en le pliant on y faisait deux pointes qui représentaient les ailes d'un poulet.V. 180, 1116Presentement Peut avoir pour sens maintenant, tout à l'heure, tout de suite ou sans tarder. Exprime la proximité dans le temps, que ce soit dans le passé ou dans le futur.V. 343, 682, 894, 1052, 1429, 1439, 1492RavyÊtre ravi signifie être en proie à une violente passion (joie, étonnement, admiration) qui trouble agréablement l'esprit et suspend les fonctions des sens. Un ravissement est une sorte d'extase due à cette passion.V. 386, 1805, 1814TourmentPeines et chagrins que l'on se donne soi-même ou les uns aux autres. Les amoureux se plaignent sans cesse qu'ils souffrent mille tourments.V. 100, 132, 136, 252, 268, 707, 1179, 1316TroubleDésordre, confusion de l'âme causée par des passions, ici il s'agit le plus souvent de l'amour.V. 12, 270, 315, 872, 1126ZèleArdeur, passion que l'on ressent pour quelque chose ou pour quelqu'un.V. 715, 1096
 
 
-# Appendice : extraits traduits de *La Toquera Vizcaina*
+# Appendice : extraits traduits de *La Toquera Vizcaina*.
 
 Voici quelques extraits traduits de la pièce de Montalvàn, afin de montrer à quel point d'Ouville s'est inspiré de cet auteur. Nous avons sélectionné les passages les plus significatifs et les avons classé en suivant l'ordre de *La Coifeuse à la Mode*. On trouvera à chaque fois, dans la collone de droite, le texte de d'Ouville qui correspond aux passages de la pièce espagnole.
 Discours de Flore sur les hommes, première journée, et vers 81 à 94 :
@@ -3941,19 +3941,19 @@ Flora : Oui, Lizardo. Ecoutez tous pourquoi. Moi, en matière d'amour, j'ai ét
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourcesLa Toquera vizcaina
+## Sources.La Toquera vizcaina
 El Teatro de Alonso Remon : Tres Mujeres en Una
 Historiettes
 
 
 
-## Études critiques
+## Études critiques.
 
 
-### Sur le théâtre du XVII*e* siècleA History of French dramatic Litterature in the XVIIth century
+### Sur le théâtre du XVII*e* siècle.A History of French dramatic Litterature in the XVIIth century
 Histoire de la littérature française au XVII*e* siècle
 Dictionnaire encyclopédique du théâtre
 Introduction à l'analyse des textes classiques
@@ -3963,28 +3963,28 @@ Esthétique de l'identité dans le théâtre français (1650-1680). Le déguisem
 
 
 
-### Sur la comédieLire la comédie
+### Sur la comédie.Lire la comédie
 La Comédie avant Molière, 1640-1660
 
 
 
-### Sur la comedia espagnoleLa Comedia en France de Hardy à Racinecomedia
+### Sur la comedia espagnole.La Comedia en France de Hardy à Racinecomedia
 Le Système des personnages de la « comedia » espagnole, 1594-1630. Contribution à l'aide d'une dramaturgie
 
 
 
-### Sur d'OuvilleHistoire du théâtre françois, 1734-1749
+### Sur d'Ouville.Histoire du théâtre françois, 1734-1749
 Visages du théâtre français au XVII*e* siècle
 
 
 
-### Sur les décors et la mise en scèneLe Théâtre de l'hôtel de Bourgogne
+### Sur les décors et la mise en scène.Le Théâtre de l'hôtel de Bourgogne
 L'Histoire de la mise en scène dans le théâtre français à Paris de 16OO à 1673
 Le Mémoire de Mahelot, Laurent et autres décorateurs de l'hôtel de Bourgogne et de la Comédie française au XVII*e* siècle
 
 
 
-### Sur la langue du XVII*e* siècleDictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+### Sur la langue du XVII*e* siècle.Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire
 Syntaxe française du XVII*e* siècle
 

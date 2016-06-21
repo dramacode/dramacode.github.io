@@ -18,7 +18,7 @@ A PARIS, Chez CLAUDE BARBIN, au Palais, sur le degré devant la saincte-Chapelle
 Édition critique établie par Hélène Canini dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2007-2008)
 
 
-# Introduction
+# Introduction.
 
 Si l'on a accordé un vif intérêt à la production littéraire de Mlle Desjardins, ses pièces de théâtre n'ont pas laissé de sembler quantité négligeable au regard de ses romans. Pourtant elle ne pas fit une entrée silencieuse dans le monde de la dramaturgie. En effet, sa première pièce, *Manlius*, fit l'objet en son temps de nombreuses critiques qui sont autant de preuves, sinon du succès que remporta la pièce, tout au moins de l'intérêt qu'elle suscita. D'ailleurs certains de ses contemporains rendirent hommage à cet auteur en de chaleureux éloges. Tel La Forge qui lui consacra ce *Dialogue en vers héroïques* :
 
@@ -56,7 +56,7 @@ Manlius prend vraiment à la légère sa violation des règles militaires et, en
 Que penser face à tant d'opinions si divergentes ? Certes, certaines de ces critiques tant à l'égard de Mlle Desjardins qu'à l'égard de sa première pièce peuvent sûrement être en partie imputées au parcours original de cette femme qui, dès les débuts de sa carrière littéraire, a osé prétendre au genre noble de la tragédie. Mais d'autres sont peut-être tout à fait justifiées. Il nous faudra donc nous détacher des opinions et des « filtres » institués au cours des trois siècles qui nous séparent de *Manlius*, afin de déterminer lesquelles de ces critiques sont fondées, avant de pouvoir l'apprécier à sa juste valeur et découvrir la place à laquelle elle peut légitimement prétendre dans l'histoire du théâtre.
 
 
-# L'auteur
+# L'auteur.
 
 Mlle Desjardins est plus connue sous le nom de Mme de Villedieu (son troisième nom, Mme de Chaste, n'ayant jamais été associé à une de ses œuvres littéraires) et sous le masque de la romancière plus que sous celui de la dramaturge. D'ailleurs Pierre Bayle, qui fut le premier à accorder sa considération à cette jeune romancière, ne faisait absolument pas référence à cet aspect de sa carrière dans son article consacré à l'auteur, et où il soulignait que : « s'étant fait un nouveau goût de narrations romanesques, elle en publia un fort grand nombre, et y réussit très heureusement. Elle mit à la mode ces petites historiettes galantes, qui font voir bientôt le mauvais ou le bon succès de la tendresse [6] ». Marguerite Buffet, elle non plus, ne tarissait pas d'éloge à propos de la jeune femme qu'elle décrivait en ces termes : « Cette illustre a travaillé en prose et en vers. Elle a eu cet avantage de faire admirer les productions de son bel esprit jusque dans le cabinet des Grands Seigneurs. Sa prose est magnifique et éloquente ; ses pensées sont enrichies de rencontres si belles et si pleines d'esprit qu'on en est surpris. Sa Poésie s'est trouvée dans les règles, et une d'entre les meilleures des Poètes du siècle [7] ». Donneau de Visé lui-même reconnut qu' « elle avoit une manière d'écrire aussi galante que tendre, et peu de personnes ont un style aussi aisé [8] ».
 
@@ -65,7 +65,7 @@ On lui prêta d'ailleurs de nombreux ouvrages dans le but de tirer profit de son
 De nos jours, de nombreux auteurs se sont intéressés à Mme de Villedieu. Lancaster la mentionne bien sûr, et évoque en ces termes son premier essai au théâtre : « La tragi-comédie romaine *Manlius* est la première pièce composée par Marie-Catherine Desjardins, qu'on a appelée la Georges Sand du XVIIème siècle » [9].
 
 
-## Aperçu biographique
+## Aperçu biographique.
 
 La vie de Mlle Desjardins semble avoir suscité l'intérêt et la prolixité de nombre de ses contemporains qui n'hésitèrent pas à la hisser au rang d'héroïne de l'un de ses propres romans. Ainsi Tallemant des Réaux [10] consacra une de ses célèbres *Historiettes* à cette romancière à la vie si trépidante, et s'attarda à relater une anecdote romanesque concernant sa rencontre avec le sieur de Villedieu. Et ses successeurs cédèrent à la même tentation. S. Clogenson [11] nous rapporta un épisode digne d'une épopée, où Mlle Desjardins apparaissait comme une véritable aventurière allant jusqu'à se travestir en homme pour rejoindre son amant au terme d'une folle chevauchée. R. Herval [12], quant à lui, lui attribua la « paternité » de la troisième partie du *Roman Comique* de Scarron, et lui reconnut un rôle décisif dans la diplomatie de l'époque. Mlle Desjardins paraît donc avoir suscité le plus vif intérêt parmi les biographes de son temps, et, aujourd'hui encore, elle demeure l'objet de nombreuses attentions. Il est vrai que cette femme eut un parcours assez extraordinaire, et une vie riche en péripéties, bien que brève. Micheline Cuénin [13] lui a d'ailleurs consacré sa thèse – sur laquelle nous nous sommes appuyée pour retracer la vie de Mlle Desjardins – qui adopte une position rationalisante par rapport aux nombreux écrits plus ou moins bien documentés qui tentent de nous présenter ce personnage hors du commun.
 
@@ -88,15 +88,15 @@ Elle ne recommença cependant pas à publier, d'autant plus qu'elle était déso
 Sa qualité de femme ne semble pas avoir entravé Mlle Desjardins dans son entreprise littéraire. Il faut reconnaître qu'il ne lui manquait ni le talent, ni la volonté de réussir, ni les relations nécessaires pour parvenir au succès. Cette conjonction, dans un climat de paix retrouvée, lui offrira des débuts éclatants dans une zone marginale de la littérature abandonnée par les doctes aux gens du monde : la poésie mondaine, les portraits (notamment un autoportrait célèbre), le roman et la nouvelle. Cependant, si sa carrière fut toujours marquée par une obstination pugnace à se trouver un protecteur – et ils furent nombreux et illustres, tels Mme de Montbazon, la Grande Mademoiselle, le comte de Saint-Aignan qui la fit inviter en 1663 à Versailles, le ministre d'État Hugues de Lionne, etc. – c'est que Mlle Desjardins, qui ne pouvait s'en remettre qu'à son talent pour lui assurer une situation dans le monde, avait su très tôt déceler en l'écriture un moyen de subvenir à ses besoins.
 
 
-## Situation de Mlle Desjardins en 1662
+## Situation de Mlle Desjardins en 1662.
 
 En 1662, Mlle Desjardins était un écrivain déjà reconnu dans les salons et bien introduite dans le milieu qu'Antoine Adam appelle « l'école de 1650 ». Et si elle s'acquit une petite notoriété ce fut en bouleversant les normes établies et en s'emparant de genres d'ordinaire réservés aux hommes. Il n'est donc pas étonnant qu'elle se fût laissée convaincre par ses amis de s'attaquer au genre par excellence qu'est le théâtre. Mais il n'en demeure pas moins qu'elle était encore très jeune et qu'elle n'avait qu'une très brève expérience du métier d'écrivain, et encore plus inexistante dans le domaine de la littérature sérieuse. De plus, elle n'avait pas reçu, à proprement parler, d'éducation comme les Corneille ou les Racine. Elle ne connaissait pas le latin et encore moins le grec. Elle ne pouvait donc, seule, parvenir à composer une tragédie. Comme, de son côté, l'abbé d'Aubignac avait publié, quatre ans plus tôt, sa *Pratique du Théâtre*, il a alors pu voir en la jeune et prometteuse Mlle Desjardins la plume capable d'illustrer les théories qu'il avait développé dans son œuvre, de les mettre à l'épreuve de la pratique, et, ainsi, de prouver à ses détracteurs qu'il n'était pas seulement un théoricien. Il prit donc soin de lui soumettre un sujet historique (digne d'une tragédie) et guida sa main dans la construction de l'action. Il finit d'ailleurs par le reconnaître lorsqu'il dit : « Je confesse bien qu'elle m'en *Manlius* a montré le dessein et que je lui ai dit mon avis en quelques endroits, dont elle a fait après ce qu'elle a jugé pour le mieux » [16].
 
 
-# Présentation de la pièce
+# Présentation de la pièce.
 
 
-## Fortune de la pièce
+## Fortune de la pièce.
 
 La tragi-comédie *Manlius* fut créée à la fin du mois d'avril ou au début du mois de mai 1662 sur la scène de l'Hôtel de Bourgogne. En mars de cette même année, Corneille avait remporté un grand succès avec sa tragédie, *Sertorius*, qu'il avait donnée au Marais. Cette défection du « Grand Auteur », jusqu'alors fidèle à l'Hôtel de Bourgogne, dut alors encourager l'abbé d'Aubignac à recommander aux Grands Comédiens la tragi-comédie de Mlle Desjardins.
 
@@ -155,40 +155,40 @@ Ces propos virulents auraient d'ailleurs été une réponse directe au célèbre
 Si nous savons que la pièce fut confiée par l'abbé d'Aubignac aux Grands Comédiens, nous ignorons en revanche quelle fut la distribution des rôles. Toutefois, en nous fiant au travail de Sophie Wilma Deirkauf-Holsboer [32], nous savons que la troupe royale, en 1662, était composée de : Josias de Soulas, dit sieur de Primefosse, dit Floridor et qui était à sa tête, marié à Marguerite Baloré ; Zacharie Jacob, dit Montfleury, marié à Jehanne de la Chappe ; Claude Deschamps, sieur de Villiers, dit Philipin ; François Chastelet, dit Beauchasteau, marié à Madeleine du Pouget ; Noël Breton, sieur de Hauteroche ; Raymond Poisson, dit Crispin, marié à Victoire Guérin, et deux comédiens nouveaux venus en 1662 : Alix Faviot, dite la des Œillets et François Juvenon, dit la Fleur. En outre, grâce aux frères Parfaicts, il nous est permis d'envisager Montfleury dans le rôle du consul Torquatus puisqu'il tenait les premiers rôles tragiques à l'Hôtel de Bourgogne. Le rôle de Manlius avait dû être endossé par Floridor qui, lui aussi, remplissait les premiers rôles tragiques. La Des Œillets s'offrirait alors pour le rôle de la princesse Omphale puisqu'elle avait été engagée, en cette même année 1662, comme comédienne vedette à l'Hôtel de Bourgogne où elle fut rapidement reconnue – surtout après sa prestation dans la *Sophonisbe* de Corneille – comme la meilleure actrice de son siècle et où elle remplit pendant de nombreuses années les premiers rôles tragiques. La Beauchasteau, qui elle aussi était une grande actrice et qui avait pour habitude de jouer les princesses en tragédie, avait dû incarner la vertueuse Camille. Son mari, habitué des seconds rôles tragiques, tenait peut-être le rôle de Junius. Quant à Pison, il aurait très bien pu être interprété par Hauteroche à qui incombait fréquemment les troisièmes rôles et qui excellait dans les récits (or, le rôle du licteur consiste essentiellement à faire le récit des événements qui se sont déroulés en dehors de la scène). Enfin, Victoire Guérin pourrait avoir joué Phénice puisqu'elle était habituée aux rôles de confidentes.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Situation
+### Situation.
 
 La pièce se déroule dans le Camp des Romains installés devant Capoue qui ont remporté la victoire sur leurs ennemis les Latins dans la bataille de Veseris. Et cette victoire ils la doivent essentiellement à l'acte de bravoure d'un de leurs généraux, Decius, qui se livra à un acte de *devotio*, ce qui le condamnait inévitablement à mourir, afin de faire triompher son armée. Camille son épouse, se trouve donc être veuve. Mais avant de mourir, son époux avait obtenu de son ami et consul, Torquatus, qu'il l'épousât. De son côté, Manlius, le fils du consul, s'est épris de la princesse d'Epire, Omphale, captive des Romains, dans le camp de Decius, mais n'ose avouer sa flamme. Manlius est pourtant un jeune homme auréolé d'une récente gloire car il vient de faire triompher son camp de ses ennemis, alors même qu'un décret du Sénat interdisait à tout soldat de livrer bataille sans en avoir reçu l'ordre.
 
 
-### Acte I
+### Acte I.
 
 Camille, après avoir été informée de l'amour que nourrissait Manlius pour Omphale (sc. 1), décide d'en avertir son père, Torquatus, afin qu'il empêche cette union déshonorante (sc. 2). Or, ce dernier, en apprenant cette nouvelle, découvre dans le même temps qu'il a un rival en la personne de son fils qu'il avait justement convoqué afin de le juger pour sa récente désobéissance. Mais auparavant le consul décide de percer les dispositions d'Omphale à l'égard de son fils, et tente de conquérir son cœur en n'hésitant pas à recourir à la menace (sc. 3). Mais la princesse demeure inflexible, et lorsqu'il la quitte, elle avoue à Phénice son amour pour Manlius et sa haine pour Torquatus (sc. 4). Lorsque Manlius vient la trouver après sa victoire, elle le met en garde contre la sévérité du consul son père, mais le jeune homme, assuré de sa conquête et de son amour, balaie bien vite les craintes de sa maîtresse (sc. 5), qu'il abandonne à son désarroi (sc. 6) pour rejoindre son père.
 
 
-### Acte II
+### Acte II.
 
 Torquatus est déchiré entre sa vertu romaine et son amour pour une captive, son devoir de représentant de la loi et du Sénat et son amour paternel (sc. 1). Cependant, il ne s'est toujours pas résolu lorsqu'il reçoit son fils avec des propos sarcastiques et le sermonne (sc. 3). Junius qui a assisté à la scène tente alors de prendre la défense de l'héroïque audace du jeune guerrier, mais ce faisant, il offre l'occasion au Consul de justifier sa sévérité et de se résoudre à voir mourir son fils pour l'honneur de sa patrie. Toutefois Junius met cette raison en doute et soupçonne plutôt l'amour du consul pour Omphale d'être la cause de cette soudaine inflexibilité (sc. 4). La princesse elle-même vient solliciter sa clémence auprès de Torquatus, mais ce dernier ne lui laisse d'autre alternative, pour voir Manlius épargné, que de consentir à l'épouser (sc. 5). Camille vient alors s'entretenir avec elle afin de la détourner de Manlius en lui montrant combien leur union serait impossible puisqu'elle n'est pas romaine, c'est alors qu'Omphale lui apprend que Torquatus compte faire d'elle son épouse. Camille, abasourdie par cette nouvelle, en vient tout de même à reconnaître à Omphale une vertu digne d'une romaine et l'invite à lui faire connaître l'attitude du consul à son égard (sc. 6).
 
 
-### Acte III
+### Acte III.
 
 Camille, blessée par le comportement de Torquatus, se résout à prendre la défense de Manlius (sc. 1). Elle tente donc d'encourager ce dernier à fuir le camp afin de sauver sa vie et d'enlever Omphale. Mais Manlius, au nom de son honneur et de la gloire de la princesse refuse obstinément d'envisager cette idée. Camille prend alors le parti de lui avouer qu'il doit voir en son père un rival, mais Manlius ne peut y croire (sc. 2). Il finit tout de même par admettre que son père, n'étant qu'un mortel, a très bien pu lui aussi se laisser charmer par les appâts de la princesse (sc. 3). Il prend alors la décision de fuir en enlevant Omphale si celle-ci y consent, mais elle refuse, faisant prévaloir sa gloire. Pris de jalousie, Manlius l'accuse de lui préférer son père (sc. 4). Il se retrouve finalement seul, partagé entre les désirs de sa gloire et ceux de son amour (sc. 5).
 
 
-### Acte IV
+### Acte IV.
 
 Alors que Torquatus est toujours tourmenté par son amour paternel, même s'il finit toujours par se tourner vers l'exécution de son fils (sc. 1), Camille vient lui rappeler le serment qu'il a fait à Decius d'épouser sa femme s'il mourrait au combat. Et bien vite elle laisse éclater son mépris à l'encontre du consul qui trahit la mémoire de son époux (sc. 2). Junius vient alors les interrompre pour leur annoncer l'arrestation de Manlius (sc. 3). Après le départ de Camille, il incite Torquatus à revenir sur sa décision (sc. 4) avant de le laisser seul, de plus en plus résolu à cette exécution (sc. 5).
 
 
-### Acte V
+### Acte V.
 
 Torquatus se décharge de la responsabilité de la mort de son fils sur les dispositions d'Omphale à son égard, mais celle-ci n'a de cesse de se retrancher derrière les lois romaines qui interdisent au consul l'alliance avec une étrangère (sc. 1). Cependant, face à l'imminence de cette mort, la princesse se dit prête à se soumettre à la volonté du consul si Manlius y consent et parvient ainsi à obtenir une dernière entrevue avec lui (sc. 2). Torquatus et Pison feignent alors de les laisser seuls afin d'écouter leur conversation. Manlius confie alors à Omphale qu'il préfère mourir que de vivre pour la voir mariée à son père ; la princesse prend alors le parti de le rejoindre dans la mort plutôt que d'être séparé de lui et accable Torquatus de reproches lorsque l'on vient chercher Manlius (sc. 3). Camille à son tour, condamne la cruauté du consul (sc. 4). Suivi bientôt par Junius qui le met en garde contre un soulèvement possible de l'armée (sc. 5). Mais lorsque Pison apparaît pour les informer du sort de Manlius, Omphale ne peut plus longtemps réprimer son chagrin et sort le poignard, qu'elle avait jusqu'alors dissimulé, et tente de le retourner contre elle. Pour arrêter son geste Pison leur révèle que Manlius n'est pas mort, sauvé, contre sa propre volonté, par ses soldats. Torquatus s'emporte et ne pense qu'à mater cette révolte (sc. 6). Mais Manlius l'arrête et vient lui réclamer le châtiment dont on l'a privé. Torquatus perd alors tout de son assurance et hésite avant que le père qu'il est ne reprenne le dessus, pardonne à son fils sa témérité et l'unisse à Omphale. Ainsi rendu à lui-même, Camille consent alors à l'épouser (sc. 7).
 
 
-## Les sources et l'écriture de l'histoire
+## Les sources et l'écriture de l'histoire.
 
 Dans les années 1660, deux pièces de théâtre – que Lancaster qualifie d' « obscures » – parurent : la première, en 1660, sous le titre de *La Mort de Manlie* [33] est le fait d'un certain de Noguères, la seconde, écrite par Faure en 1662 porte le même titre de *Manlius Torquatus* [34] que celle de Mlle Desjardins. Cependant aucune de ces deux tragédies ne prend le parti de laisser la vie sauve à Manlius à la fin de la pièce, et elles ne présentent que d'infimes similitudes avec le *Manlius* de notre jeune auteur, imputables, bien plutôt, à leur source historique commune. En effet, ces trois pièces ont puisé leur sujet chez l'historien romain Tite-Live, plus précisément au livre VIII de son *Histoire romaine* en s'appuyant sur les chapitres 6, 7 et 9 qui traitent respectivement du rêve des deux consuls romains, Torquatus et Decius, du combat singulier de Manlius, et de la bataille de Véséris où Decius se dévoua pour son armée. Toutefois, Mlle Desjardins n'a pas hésité à apporter sa propre interprétation de cet événement, à l'enrichir de personnages et de rivalités, voire à en bouleverser la chronologie jusqu'à changer la nature même de ce récit.
 
@@ -201,7 +201,7 @@ Mais une si sévère et atroce sanction révolte l'armée et dans l'histoire et 
 De même après la victoire des Romains contre les Latins lors de la bataille de Véséris, il n'est pas précisé que les captifs comptaient parmi eux la princesse d'Épire qui historiquement se nommait Olympe et non Omphale comme dans *Manlius*. Cependant ce changement semble loin d'être anodin. En effet, le nom de la captive rappelle inévitablement son homonyme mythique qui apparaît dans la légende liée à Hercule. Le rapprochement est d'autant plus aisé qu'à l'origine le mythe avait été situé en Épire, royaume de la princesse de *Manlius*. La référence délibérée de Mlle Desjardins à ce personnage légendaire ne serait pas dénuée de pertinence, car cela viendrait une fois de plus excuser la faiblesse du consul Torquatus. En effet, même Hercule n'avait pu résister aux charmes cette *dura puella* auprès de laquelle il avait perdu toutes ses vertus guerrières et pire encore s'était abaissé à exécuter des tâches normalement réservées aux femmes. Ce registre élégiaque est d'ailleurs bien établi par le motif du *sevitium amorum* soutenu par le couple formé par Manlius et Omphale qui choisira toujours un dialogue précieux dans lequel la rhétorique tendre est mise en œuvre, contrastant ainsi avec le discours galant de Torquatus. Ce seul nom d'Omphale viendrait alors expliquer et comme excuser la dénaturation du caractère de Torquatus qui, sous l'effet de l'amour, des passions, perd son identité et adopte un discours indigne de sa qualité.
 
 
-# Manlius et la vraisemblance
+# Manlius et la vraisemblance.
 
 S'il est une question que pose cette pièce, c'est celle de la primauté de la vraisemblance sur l'Histoire voire sur toutes les autres règles. C'est cette même assertion qui se retrouve au cœur du célèbre ouvrage de l'abbé d'Aubignac, *La Pratique du Théâtre*. En effet, pour lui, le poète ne doit jamais se départir de l'exigence de la vraisemblance, et bien sûr, c'est elle qui présidera au choix de son sujet. Or nous savons, d'après Donneau de Visé [39], que l'abbé est intervenu auprès de Mlle Desjardins, notamment pour lui soumettre le sujet de sa pièce. Il apparaît alors clairement que si la jeune femme a modifié l'histoire rapportée par Tite-Live et connue de tous, c'était afin que son dénouement ne heurte pas les bienséances, et partant ne choque pas ses spectateurs. Ce faisant, elle s'est bornée à prendre les libertés octroyées par l'abbé vis-à-vis de l'histoire, qui affirme :
 
@@ -211,7 +211,7 @@ Je tiens pour moi qu'il le Poète le peut faire changer une histoire pour la met
 Pourtant la modification qu'a opérée Mlle Desjardins a surpris le spectateur dans son attente. Pourquoi ? Parce qu'elle ne s'est pas contentée de suppléer aux lacunes laissées par l'historien en imaginant les motivations qui auraient pu pousser les personnages à agir comme ils l'ont fait dans l'histoire, mais elle a modifié la nature même de cette histoire [41]. Et cela était d'autant plus flagrant que Tite-Live rapporte cet épisode dans le but d'exalter la vertu romaine et les valeurs de la cité, d'illustrer combien le collectif doit l'emporter sur l'individu. Or, la tragédie, à l'inverse de l'épopée, s'intéresse justement à la particularité de l'individu. Pour permettre à cet épisode de franchir la barrière des genres, il fallait à Mlle Desjardins y introduire des passions, sur lesquelles il lui était d'autant plus permis de spéculer que Tite-Live était resté muet à leur sujet (et pour cause, puisqu'il voulait faire de Torquatus l'exemple même de la vertu romaine, du citoyen qui n'aurait jamais cédé à son *pathos*). Ce qu'elle fit bien sûr. Mais, pour ses contemporains, il était inconcevable que le sévère consul romain se laisse attendrir par son amour paternel et pardonne à son fils sa désobéissance, alors même que Tite-Live le mentionne comme un exemple d'intransigeance, prêt à sacrifier son enfant à sa patrie. Un pamphlétaire se fera même un plaisir, lors de la querelle autour de *Manlius*, de rappeler à d'Aubignac le principe d'Horace qu'il avait lui-même enjoint de suivre. Car si l'abbé précisait que : « … le Théâtre doit tout restituer en état de vraisemblance et d'agrément. Il est bien vrai que si l'Histoire est capable de toutes les grâces de la Poésie Dramatique, le Poète doit conserver encore celle de la vérité ; sinon, il a droit de faire tout céder au dessein qu'il doit avoir de réussir en son Art ». Plusieurs apportent au contraire le témoignage d'Horace qui dit, « *Qu'il faut suivre l'opinion commune, ou feindre des choses qui lui soit conformes* ». Il rectifiait alors ainsi « mais en cet endroit Horace ne parle point du Sujet, il traite seulement des mœurs, et nous apprend qu'il ne faut pas donner aux Acteurs principaux des mœurs dissemblables à eux-mêmes, ni entièrement éloignées de celles qu'ils ont dans l'opinion générale de l'Histoire, comme serait de faire *César Poltron*, ou *Messaline chaste* [42]. » Mais Mlle Desjardins n'a-t-elle pas justement fait Torquatus père sensible, au lieu de consul inflexible ?
 
 
-## Les Personnages
+## Les Personnages.
 
 Si Torquatus est bien un consul romain, c'est aussi un père, celui de Manlius, dont il aime la maîtresse. Mais cette union semble impossible, car il est lié par un serment, qu'il avait fait au défunt consul Decius, à la veuve de ce dernier, Camille. Dès son entrée scène, il nous apparaît tout entier sous l'empire de son *pathos* qui le pousse à renier son *ethos*. En effet, nous le voyons, à de nombreuses reprises, adopter un discours galant qui sied mal à son rôle de sénateur. Il ne s'interdit d'ailleurs pas de presser Omphale de ses avances, et de recourir à tous les moyens – y compris le chantage – pour obtenir ses faveurs. Torquatus est donc non seulement l'opposé du parfait amant, mais il se révèle tout aussi incapable de s'exprimer comme le doit un père envers son fils. Son discours recèle alors tous les accents de la haine et de l'hypocrisie. Tout dans ce personnage relève des passions qui semblent régner en maîtresses sur son âme puisqu'elles lui dictent jusqu'au comportement qui dénouera la crise : son changement de volonté *in extremis* est en effet attribué à la voix de la nature.
 
@@ -229,7 +229,7 @@ Ce manquement à la vraisemblance est d'autant plus criant qu'il se retrouve ég
 Mais respecter la vraisemblance chez Camille, notamment la constance de son caractère, s'avère être une tache bien plus ardue. Car, bien que Torquatus campe le rôle du consul romain, c'est à cette femme que revient le discours cornélien du devoir. Elle seule sait rester ferme et inexorable devant « les pièges de l'amour », et « méprise tout pour la gloire de Rome ». Elle se veut donc l'incarnation de la fière et vertueuse romaine. Mais c'est au nom de cette même vertu qu'elle vacille et se laisse entraîner par son *pathos* lorsqu'il lui souffle d'aider les deux amants en leur conseillant, au mépris de leur dignité, la fuite. Torquatus a violé la mémoire de son époux et est en train de salir l'honneur de sa veuve, plus rien ne retient la colère de Camille d'éclater et sa vengeance de s'exercer. Cependant, dans cette lutte intérieure acharnée entre *pathos* et *ethos*, elle se rallie à ce dernier lorsqu'elle renonce à assassiner Torquatus (III, 2) afin de préserver sa gloire. En revanche, ce qui est déroutant chez ce personnage qui semble incarner la vertu, c'est qu'elle accepte, à la fin de la pièce, d'épouser le consul. Elle paraît s'y résigner davantage par devoir que par véritable amour, ce qui participe pleinement à la cohérence de son caractère. En revanche, elle justifie sa décision et balaie le déshonneur qu'aurait pu lui attirer une union avec un consul amoureux de sa captive et qui, sous l'effet de sa jalousie, voit en l'exécution de son propre fils l'élimination d'un rival, en prétextant qu'en ce revirement soudain il a recouvré son *ethos*. Or ce ne peut être le cas puisqu'il aurait alors fait exécuter son fils.
 
 
-## La *Pratique du Théâtre* et la vraisemblance
+## La *Pratique du Théâtre* et la vraisemblance.
 
 Pourquoi donc avoir choisi un dénouement heureux qui fut à l'origine des plus vives attaques ? Parce que Mlle Desjardins ne souhaitait probablement pas, comme nous l'avons suggéré précédemment, se soumettre à la critique en se lançant à l'assaut du grand genre qu'est la tragédie. Mais, pour prétendre au titre de *tragi-comédie*, il lui en fallait au moins présenter une des caractéristiques : le dénouement heureux. Et c'est, ironie (tragique ?) du sort, ce qui fut l'objet principal de la querelle. Le titre de *Manlius* (nom du jeune héros) qui figure finalement sur les exemplaires de la pièce, au détriment de *Manlius Torquatus* (nom du consul dont la pièce illustrait si peu la légendaire sévérité), titre originel pour lequel avait été pris le privilège, peut être envisagé comme une ultime tentative pour faire oublier le défaut majeur de la pièce – c'est-à-dire de ne pas avoir montrer sur la scène le célèbre Manlius Torquatus puisqu'ils se trouve privé de ce qui a fait sa renommée : sa sévérité – en détournant l'attention sur l'histoire de son fils moins illustre. Mais cette manœuvre se révèlera vaine comme le prouve cette critique d'un auteur anonyme dans une *Lettre à Monsieur D.P.P.S. sur les remarques qu'on a faites sur la* Sophonisbe *de Monsieur Corneille* : « Si Mademoiselle Desjardins qui dans son ouvrage a surpassé toutes nos espérances eût nommé sa pièce d'un autre nom que celui de *Manlius*, elle n'eût pas été moins agréable et l'on aurait pas dit avec justice que ce n'est point Manlius Torquatus qu'elle a mis sur le théâtre. » [46]. Critique d'autant plus sévère que c'est en suivant « à la lettre » les prescriptions de l'abbé d'Aubignac, que Mlle Desjardins s'est fourvoyée. Mais cette « erreur » n'est pas dénuée d'intérêt. Elle est même révélatrice.
 
@@ -452,22 +452,22 @@ Mlle Desjardins se doit donc de donner à voir un caractère naturel afin de fai
 Il demeure néanmoins peu probable que la toute jeune Mlle Desjardins qui, en outre, s'essaie ici pour la première fois à la dramaturgie, ait été à l'origine de ce que Racine mettra en œuvre et amènera à son plein épanouissement lorsqu'il revisitera la « nouvelle tragédie » instauré par Corneille. D'ailleurs, ce procédé qui consiste à faire de l'opposant le personnage central d'une pièce de théâtre n'est pas sans rappeler le choix d'un autre dramaturge tout aussi célèbre. En effet, c'est également au tournant de ces années 1660 que Molière remporte un immense succès avec son *École des Femmes*, pièce dans laquelle apparaît un procédé qui deviendra récurrent dans son théâtre : le personnage à l'origine de l'obstacle est au cœur de la pièce car il est la source même du comique, et ce n'est plus à l'esclave du jeune prétendant que revient le premier rôle (comme c'était le cas dans les comédies à l'italienne). Or nous savons que Mlle Desjardins – même s'il est peu vraisemblable qu'elle ait joué dans la troupe de Molière, comme on l'a longtemps laissé entendre en se fondant sur une anecdote rapportée par Tallemant des Réaux – appréciait le travail de Molière puisque c'est sa troupe qui créa le *Favory*. Nous pourrions alors nous risquer à lui reconnaître d'avoir tenter d'appliquer cette esthétique, qui fit le succès et la renommée de Molière, à la tragédie nouvelle, certes, mais qui tendait déjà à se codifier, de Corneille, et d'avoir ainsi ouvert la voix à une esthétique originale qui trouvera son maître en Jean Racine.
 
 
-# Conclusion
+# Conclusion.
 
 Nous avons donc pu voir que l'œuvre théâtrale de Mlle Desjardins reflète les esthétiques reconnues et appréciées en son temps (telles que celles d'un Corneille ou d'un d'Aubignac) et laisse déjà entrapercevoir les différentes influences encore naissantes (d'un Molière) ou les conceptions théâtrales à naître (comme celle d'un Racine) et qui finiraient bientôt par s'imposer. À ce titre elle revêt un intérêt tout particulier en tant que témoin de la recherche incessante d'une dramaturgie qui soit le plus possible en accord avec les attentes du public, et de la mise en œuvre progressive des différentes esthétiques qui en ont émergées. En cela, *Manlius*, nous révèle que si la critique, en 1662, ne pouvait accepter de voir la vérité historique sacrifiée au nom de la vraisemblance, c'est que l'esthétique de Corneille avait été adoptée et que c'était désormais en se fondant sur sa conception du théâtre que l'on jugeait les productions dramatiques. Et, contrairement à ce dernier, elle n'aurait pas pu prétendre au titre d'historien, car elle ne se sert de l'histoire que comme prétexte à son sujet. Et c'est là où se situe sa faiblesse. En effet, cédant à la facilité, et ils sont nombreux à son époque à le faire, elle n'hésite pas à bafouer l'histoire. Car, son sujet premier, ce sont les passions et elle utilise ses personnages comme des champs d'expérimentation. Mais le théâtre, bien qu'il soit certainement le genre le plus à même d'assurer une certaine notoriété à ses auteurs et de leur attirer la reconnaissance du roi, se révéla sûrement trop codifié pour lui permettre d'illustrer toute la violence et la complexité des sentiments. C'est sans doute l'une des raisons pour laquelle elle s'en détourna rapidement pour revenir au roman. En outre, si cette pièce ne fait pas œuvre d'historien, elle reflète, en revanche, les tâtonnements obstinés de ce genre dans sa quête insatiable de perfection, et à ce titre elle est susceptible d'intéresser l'historien.
 
 Mais ce qui est également frappant dans le parcours de Mlle Desjardins c'est l'oubli dans lequel son œuvre – et particulièrement sa production dramatique – est tombée après le xvii*e* siècle. Il lui aura donc fallu attendre la fin du xx*e* siècle pour voir sa bibliographie sérieusement établie et son œuvre de romancière mis en lumière et estimé. Mais ce ne sera qu'en septembre 2008 qu'elle sera véritablement connue et certainement reconnue en tant que dramaturge grâce au colloque intitulé « Madame de Villedieu et le théâtre », organisé par le GRAC et l'université Lumière Lyon 2.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 *Manlius* a été publiée pour la première fois le 27 octobre 1662, après avoir été représentée sur la scène de l'Hôtel de Bourgogne en mai 1662. Trois libraires se sont associés pour publier cette pièce : Claude Barbin BnF – Tolbiac : YF-6856 ; Arsenal : 8-BL-14148 ; GD-13360 , Gabriel Quinet Bnf – Richelieu : 8-RF-7359, microfilm : R118968 et Guillaume de Luyne BnF – Richelieu : 8-RF-7362, microfilm : R118962. L'exemplaire de Claude Barbin BnF – Tolbiac : YF-6856 a été utilisé pour établir le texte, car ce libraire fut l'imprimeur privilégié de Mlle Desjardins tout au long de sa carrière. Il nous est donc permis de penser que c'est d'abord vers lui qu'elle s'est tournée lorsqu'elle a souhaité faire publier son manuscrit. De plus le Privilège du Roy nous confirme que c'est Claude Barbin, qui le premier a pris un privilège pour *Manlius Torquatus*, avant de le partager avec Gabriel Quinet et Guillaume de Luyne. Au demeurant, tous les exemplaires conservés sont strictement identiques.
 
 
-## Description
+## Description.
 
 
-### Description du volume
+### Description du volume.
 
 1 volume in-12° de X – 81 p.
 
@@ -486,17 +486,17 @@ X PERSONNAGES.
 80 – 81 *Extrait du Priuilege du Roy.*
 
 
-### Description de la page de titre
+### Description de la page de titre.
 
 MANLIUS / TRAGI-COMEDIE. / *Par MADEMOISELLE* / DES IARDINS. / fleuron de libraire (corbeille de fruits) / A PARIS, chez CLAUDE BARBIN, au Palais, / sur le degré devant la saincte-Chapelle / au signe de la Croix. / filet / M. DC. LXII. / *AVEC PRIVILEGE DV ROY.*
 
 
-## Éditions ultérieures
+## Éditions ultérieures.
 
 **L'année de sa première publication à Paris, la pièce a été copiée à Amsterdam** [100] BnF – Richelieu : 8-RF-7363. L'édition parisienne de 1662 se retrouve également dans des recueils factices datés de 1664. Par la suite *Manlius* a fait l'objet de cinq éditions, de 1699 à 1741, à l'occasion de la publication des *Œuvres Complètes* de Mlle Desjardins : en 1699 à Rotterdam (BnF), en 1720 à Paris (BnF), en 1721 par la Compagnie des Libraires (conservée à Alençon), qui en font une réédition en 1740-1741 (BnF), et enfin en 1741 à Paris (conservée à Versailles).
 
 
-## Typographie
+## Typographie.
 
 Nous avons conservé la graphie et la ponctuation originales (sauf lorsqu'elles paraissaient fautives : voir ci-dessous), en y apportant toutefois les modifications d'usage qui nous ont paru indispensables à une parfaite compréhension du texte :
  * – distinction entre *i* et *j* et entre *u* et *v* ;
@@ -513,12 +513,12 @@ Remarque : Nous avons constaté des variantes orthographiques que nous avons co
  * – *vefve* et *veuve*.
 
 
-## Liste des corrections
+## Liste des corrections.
 
 Les mêmes leçons ont été observées dans chacun des manuscrits consultés, qu'ils aient été imprimés par Claude Barbin, Gabriel Quinet ou Guillaume de Luyne.
 
 
-### Graphie
+### Graphie.
  * - épître : « à » ; « eût »
  * - v. 62 : « àsa »
  * - v. 327 : « m'én »
@@ -545,7 +545,7 @@ Les mêmes leçons ont été observées dans chacun des manuscrits consultés, q
  * - v. 1571 : « étoutez-là »
 
 
-### Ponctuation
+### Ponctuation.
  * - épître : « de me dire. »
  * - v. 80 : « illustre Epoux, »
  * - v. 81 : « puissance entiere »
@@ -596,7 +596,7 @@ Un astérisque (⁎) à la fin d'un mot invite le lecteur à se reporter au glos
 # MANLIUS TRAGI-COMEDIE.
 
 
-## A **MADEMOISELLE** [103]
+## A **MADEMOISELLE** [103].
 
 MADEMOISELLE,
 
@@ -665,7 +665,7 @@ Sçachant qu'à Torquatus vostre cœur est promis,
 Et qu'ainsi vous prenez interest⁎ en son fils [114],  
 J'ay voulu vous donner cette marque de zele.  
 
-    CAMILLE
+    CAMILLE.
 Je sçauray reconnoistre une ardeur⁎ si fidelle⁎,  
 Repose⁎-t'en sur moy, va, j'en prends le soucy⁎ [115]  
 Mais je voy Torquatus, laisse-nous seuls icy.  
@@ -1104,7 +1104,7 @@ Fin du premier Acte.
 
 ### SCENE I.
 
-    TORQUATUS, *seul.*
+    TORQUATUS, *seul.*.
 Vertu, Romains, Senat, Loix, devoir trop severe⁎,  
 Qui voulez arracher Manlius à son Pere !  
 Dure necessité de voir couler un sang,  
@@ -1532,7 +1532,7 @@ Fin du Second Acte.
 
 ### SCENE PREMIERE.
 
-    CAMILLE, *seule.*
+    CAMILLE, *seule.*.
 Qu'ay-je entendu ? Grands Dieux ! & que me dit Omphale ?  
 Croire que Torquatus à ce point se ravale [159] ?  
 Torquatus, un vainqueur, un Consul, un Romain,  
@@ -1748,7 +1748,7 @@ Et je vous abandonne aux cruautez⁎ du sort.
 
 ### SCENE III. 
 
-    MANLIUS, *seul.*
+    MANLIUS, *seul.*.
 O Sort vrayement cruel ! ô funeste⁎ avanture !  
 O mortel accident ! ô Triste conjoncture !  
 Est-il rien icy-bas à ton mal-heur égal,  
@@ -1945,7 +1945,7 @@ Que ne diroit-il point ? aime, & te sauve. Adieu.
 
 ### SCENE V. 
 
-    MANLIUS, *seul.*
+    MANLIUS, *seul.*.
 Aime & te sauve, helas ! dans un sort si contraire,  
 Princesse que me sert cét ordre salutaire ?  
 Comment puis-je accorder dans ce funeste⁎ jour,  
@@ -1957,7 +1957,7 @@ Ne consultera plus que sa propre fureur.
 Fin du troisiéme Acte. 
 
 
-## ACTE IV. [173]
+## ACTE IV. [173].
 
 
 ### SCENE PREMIERE.
@@ -2317,7 +2317,7 @@ Est ce qu'on peut nommer le supréme bon-heur.
 
 ### SCENE V.
 
-    TORQUATUS, *seul.*
+    TORQUATUS, *seul.*.
 Helas ! que je suis loing de ce bon-heur supréme !  
 Et que mon cœur est peu d'accord avec luy-mesme,  
 Je voy tous les mal-heurs dont je suis menacé,  
@@ -2873,40 +2873,40 @@ Le 27. Octobre 1662.
 *Les Exemplaires ont été fournis* [201].
 
 
-# Annexes
+# Annexes.
 
 
-## Glossaire
+## Glossaire.
 
 Les références des dictionnaires utilisés sont données sous forme d'initiales : *A*. pour le dictionnaire de l'Académie, *C*. pour celui de Corneille, *F*. pour celui de Furetière, et *R*. pour celui de Richelet.Adorer (F.)Terme habituellement réservé au fait de rendre un culte à un être considéré comme un dieu, mais on l'emploie aussi « abusivement pour marquer que l'on aime passionnément »V. 230, v. 383, v. 508, v. 839AdorableTerme d'origine religieuse qui signifie "Qui mérite d'être adoré", c'est-à-dire qu'on lui rende « le plus grand des respects, et la plus profonde soûmission. »V. 201S'emploie abusivement et hyperboliquement dans le langage amoureuxV. 129, v. 245, v. 321, v. 836, v. 890AdvisOpinion, sentiment. (*A.*)Il se prend encore pour Advertissement.Se dit aussi des nouvelles qu'on reçoit de dehorsV. 75Il se prend aussi pour ConseilV. 596, v. 793, v. 874Donner des advisSignifie rapporter des nouvelles (*F.*)V. 563Affaire Ce qui peut occuper nos soins, nos pas, nos pensées, nous obliger à travailler, aller et venir. Se dit particulierement des procès. Se dit des ordres, des soins, des negociations qui regardent l'Estat. (*F*.)V. 41, 73, 109, 1208, 1264AlarmeCrainte, troubles (*R.*)V. 25, v. 368, v. 1144, v. 1161Alarmer.ÉpouvanterV. 305, v. 411, v. 1504AmantCelui qui aime (*R.*)V. 228, v. 328, v. 340, v. 341, v. 343, v. 530, v. 823, v. 889, v. 914, v. 1089, v. 1117, v. 1430, v. 1442, v. 1460Pl. v. 68, v. 107, v. 108, v. 223, v. 755, v. 966ApparenceLa surface extérieure des choses, ce qui frappe d'abord les yeuxV. 1229Se dit aussi de ce qui est opposé à la réalité, qui est feint et simulé.Conjecture, vraisemblance. (*F*.)V. 337, v. 1268Appast (pl. appas) Il se prend figurement pour tout ce qui attire, qui engage à faire quelque chose.« Au pluriel, se dit particulierement en Poësie, et signifie charmes, attraits, agrément, ce qui plaist. » (*A.*)V. 453, v. 517, v. 691, v. 747, v. 790, v. 955, v. 1379"Il se dit encore plus particulierement en parlant des attraits et de la beauté des femmes.V. 65, v. 778, v. 834, v. 842, v. 1403Ardeur Figurément, signifie « Action vive et pleine de feu » (*R.*)V. 82, v. 95, v. 290, v. 406, v. 439, v. 1020, v. 1205, v. 1532« Amour, passion »V. 10, v. 18, v. 128, v. 234, v. 1180Mais ce terme s'emploie également dans son acception concrète d'action d'un corps ardent, plein de chaleurV. 162.Ardent, ardenteFigurément signifie, « Vif, passionné, véhément »V. 135, v. 462, v. 1102AttentatOutrage ou violence qu'on tâche de faire à quelqu'un (*F*.)V. 47, v. 1046, v. 1502En termes de Palais, se dit figurément de ce qui est fait contre l'autorité des superieurs et de leur jurisdictionV. 275, v. 668, v. 683Audace Hardiesse mêlée d'insolence et de témérité. Hardiesse mêlée d'éfronterie *(R.)*Épître, v. 193, v. 238, v. 1169, v. 1321, v. 1536, v. 1565Ce mot se prend quelquefois en bonne part lorsqu'il est adouci et acompagné de quelque épitéte favorable; et il signifie *hardiesse*V. 181, v. 399, v. 439.BalancerFigurément, signifie « Examiner, considérer »V. 379« Chanceler, hésiter, ne savoir se résoudre » (*R*.)V. 371, v. 896, v. 1030 v. 1511. BruitRumeurV. 510, v. 1254Chaleur « Ardeur, feu. Véhémence, activité, sorte de transport vif et plein de passion » (*R.*)V. 92, v. 292. CharmeEnchantement (*R.*)V. 529Apas⁎, atraitsV. 34, v. 266, v. 836, v. 1025, v. 1145, v. 1285Moien et adresse de gagner le cœur.CharmerUser de sortilege et de charme.Agréer par son mérite, par sa beauté, par de belles qualitezV. 746Apaiser, enchanterV. 205Charmant, charmante, adj.Qui agrée, qui plaît.Chef Substantif masculin. Sens actuel de celui qui commande (*F*.)V. 497, 988, 1527Vieux mot qui signifioit autrefois la teste de l'homme, et qui n'est plus en usage qu'en Poësie et en matiere de devotionV. 253Cœur « Vigueur, force, courage, intrépidité. » (*F*.)V. 391, v. 405, v. 778Sens moderne qui fait du cœur le siège des sentimentsCombattreLivrer un combat contre quelqu'un ou quelque choseV. 155, v. 366, v. 392, v. 550Consulter en soi-même le meilleur parti à prendre. (*F*.)V. 385, v. 722Commun adj.Ce qui n'appartient pas plus à l'un qu'un l'autre (*F*.).V. 991Vulgaire, trivial, qui n'a rien d'élevé, de particulier, de noble (*R*.).V. 43, v. 952 ConsulterPrendre avis auprès de quelqu'un (*F*.)V. 242, v. 478, v. 482, v. 496, v. 794, v. 983, v. 1028, v. 1124, v. 1192, v. 1291, v. 1313Être irrésolu, incertain de quel party on doit choisirV. 384ContraindreContraindre de faire quelque chose Au sens actuel d'être obligéV. 1217*Se contraindre* S' « obliger à quelque retenüe, qui gesne et fait peine » (*A*.)V. 784CourageValeur, bravoure, cœur⁎, fermeté dans le péril, résolution pleine de cœur (*R.*).V. 168, v. 302, v. 396, v. 855, v. 885, v. 1233Il se prend aussi quelquefois pour Sentiment, passion, mouvement. (*A.*).V. 130, v. 206Croire « Ajouter foi. Penser. Etre persuadé d'une chose » (*R.*).V. 1, v. 50, v. 62, v. 164, v. 244, v. 645, v. 1250, v. 1315, v. 1319, v. 1371« Il signifie aussi, Se rapporter à quelqu'un, suivre son conseil, ou son advis⁎ » (*A.*).V. 973Cruauté« Qualité d'un homme barbare, impitoyable, inhumain », mais se dit aussi des choses inanimées (*F*.)V. 819, v. 871Signifie aussi l'action même qui est cruelleV. 266« Se dit figurément en choses morales, et sur tout dans les expressions amoureuses. Tous les amans se plaignent des *cruautez* de leurs maistresses »V. 147Ce terme fait partie de la rhétorique tendre. D'abordIncontinant, aussi tôt (*R*.)V. 762, 1232, 1238Au sens actuel de « la prémiere fois et avant toutes choses, prémiérement »V. 989Deceu, euë Participe passé et adjectif signifiant Trompé (*F*.)V. 453, v. 1584DisgraceMalheur d'une personne (*R.*)V. 1100, v. 1168, v. 1444Éclat« Signifie figurément Gloire⁎, splendeur, magnificence »V. 163, v. 451, v. 513, v. 908, v. 997.EsclatterSignifie figurément Devenir public, avec bruit et scandaleV. 1053On dit, qu'*Une personne esclatte*, pour dire, qu'Elle fait paroistre son ressentiment (*A.*)V. 670, v. 784EffortEmploy de toutes ses forces (*F*.)V. 1006, v. 1026Action de la personne qui s'efforceV. 318, v. 570, v. 1290, v. 1422, v. 1538Se dit aussi des hommes assemblez pour un même desseinV. 43Se dit de tout ce qui est fait avec violenceV. 1232, v. 1534Sorte de violence qu'on se fait à soi-mêmeV. 832ÉprouverEssayer, expérimenterV. 1238, v. 1390En parlant d'une personne, la sonderV. 633FerDésigne le métal, mais aussi, par métonymie, tout objet fait en ce métal, notamment l'épéeV. 948Au pluriel : 1° Ce sont les liens de fer, les chaines qui tiennent les Prisonniers. (*R.*)V. 64, v. 122, v. 161, v. 173, v. 602, v. 1203Il se prend aussi figurément et poëtiquement pour L'estat de l'esclavage, et pour L'engagement dans une passion amoureuse (*A.*)V. 40, v. 258, v. 261, v. 264Dans la pièce, il y a souvent un jeu sur les deux sens de ce mot. Omphale est réellement la captive des Romains, mais elle tient elle-même Manlius et Torquatus *dans ses fers* car ils sont amoureux d'elle.V. 261, v. 264, v. 603-604Dans ces deux vers, il est fait allusion aux fers dans deux sens différents.Feu Amour (*R.*)V. 129, v. 172, v. 229, v. 303, v. 632, v. 915, v. 946, v. 985, v. 1032Vivacité. Esprit.Ardeur⁎, verve, chaleur⁎ V. 61, v. 756, v. 787, v. 1042, v. 1430Colére. Impétuosité, fougueV. 1004*Prendre feu* . C'est se mettre en colére. Se dit figurément en choses spirituelles et morales de la vivacité de l'esprit, de l'ardeur des passions. (*F.*)Fidelle, adj. m. et f. Qui garde la foy⁎ qu'il a promise (*F.*)V. 874, v. 1157, v. 1465Qui fait bien son devoirV. 793, v. 1273Veritable. Un tesmoin, un Historien fidelle, est celuy qui fait le veritable recit de ce qu'il a veuV. 2FlâmeAmour, passion (*R.*)V. 38, v. 162, v. 214, v. 269, v. 333, v. 604, v. 757, v. 1041, v. 1176, v. 1257, v. 1345, v. 1421, v. 1512Flatter A le sens actuel d'attribuer à une personne de bonnes qualitez qu'elle n'a pas, l'en loüer, l'en feliciterV. 1052, v. 1298, v. 1358Signifie encore, Deguiser une verité qui seroit desagreable à celuy qui y est interessé, luy donner meilleure opinion d'une chose qu'il n'en doit avoir (*F*.)V. 640, v. 908, v. 1263, v. 1432. Fortuné, ée Heureux (*F*.)V. 328, 340, 341, 343Foy Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer (*F*.)V. 132, v. 139, v. 631, v. 744, v. 798, v. 1038, v. 1057, v. 1109, v. 1115, v. 1331On dit aussi, laisser une jeune fille *sur sa foy*, pour dire la laisser maîtresse de sa propre conduiteV. 505FrivoleInutile, vain⁎ (*R*.)V. 673, v. 1135, v. 1211, v. 1348Fatal« Ce qui doit arriver necessairement, arrest de la destinée ».Signifie aussi, « Malheureux », funeste⁎V. 862, v. 920, v. 1392, v. 1464, v. 1487 « Signifie encore, la fin, la mort ». (*F.*)FunesteQui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable (*F.*)V. 478, v. 545, v. 587, v. 820, v. 896, v. 927, v. 978, v. 998, v. 1236, v. 1365, v. 1390, v. 1414, v. 1462, v. 1484, v. 1509FurieFigurément, signifie « Violence, ardeur » (*R*.)V. 133, v. 712, v. 1128, v. 1476, v. 1488, v. 1540Garentir (ou garantir) Préserver de quelque mal ou accident (*F*.)V. 698, v. 734, v. 871, v. 1198Généreux, -euse Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest (*F*.)V. 63, v. 279, v. 539Signifie aussi, Brave, vaillant, courageux⁎V. 206, v. 1234Gloire, s.f. Honneur, loüange, estime, reputation qui procede du merite d'une personne, de l'excellence de ses actions ou de ses ouvrages *(A.)*V. 46, v. 53, v. 62, v. 204, v. 217, v. 240, v. 250, v. 254, v. 257, v. 278, v. 359, v. 374, v. 407, v. 443, v. 516, v. 547, v. 548, v. 635, v. 702, v. 743, v. 776, v. 901, v. 903, v. 979, v. 997, v. 1072, v. 1075, v. 1109, v. 1110, v. 1130, v. 1220, v. 1581Il se prend aussi quelquefois pour Eclat, splendeurV. 14Se prend souvent en mauvaise part, et signifie, Orgueil, sotte vanité. Se prend particulierement pour le sentiment trop avantageux de soy-mesme que la vanité inspire.Glorieux, glorieuse, adjPlein de gloire, illustre, éclatantÉpître, v. 144, v. 334, v. 346, v. 711, v. 848, v. 906, v. 1009, v. 1520, v. 1541Superbe. Fier, orgueilleux. (*F.*)HazardFortune, sort, rencontre fortuite. (*A.*).Peril, risque. (*R.*)V. 71HazarderRisquer, exposer à la fortune, exposer au peril. (*A.*)V. 84, v. 1120HumeurCertaine disposition de l'esprit, ou naturelle, ou accidentelle (*A.*)V. 274, v. 729Infortuné, éeMalheureux, ou à qui il est arrivé quelque accident, quelque *infortune* (malheur ou perte causée par quelque accident fortuit) (*F*.)V. 121, v. 823, v. 1322, v. 1413Inhumaine Figurément « Maitresse cruëlle, maitresse rigoureuse » *(R.)*.V. 113, v. 148Ce terme fait partie de la rhétorique tendre.InsulterQuereller quelqu'un brusquement et le plus souvent sans sujet (*F*.)V. 222Prendre avantage de la misere d'un homme pour lui faire quelque offense, quelque déplaisir. (*R*.)V. 121Interdit, -te Il peut signifier, « Estonné, troublé, qui ne sçait ce qu'il fait, ce qu'il dit » (*A*.)V. 930, v. 1566Interest « Ce qu'on a affection de conserver ou d'acquerir, ce qui nous importe soit dans nostre personne, soit dans nos biens. » (*A.*)V. 382, v. 461, v. 498, v. 499, v. 643, v. 1311, v. 1421« Se dit aussi de la part qu'on prend en quelque chose, de sa deffence qu'on entreprend, de la protection qu'on luy donne. »V. 16, v. 1131« Signifie quelquefois en Morale, Passion. »Prendre d'interestSignifie « s'intéresser »V. 1121InteresserVouloir qu'on prenne part. Engager par interêt⁎. *(R.*)V. 109, v. 689S'interesserPrendre les interêts d'une personne. Prendre part à quelque chose.V. 246*En* s'emploie souvent à la place de *à* que préfère l'usage moderne généralement après *s'intéresser, avoir intérêt, prendre intérêt*. MouvementVolonté, gré (*R.*)V. 474Pensée, sentiment. Tout ce qui touche et meut le cœurÉpître, v. 67, v. 295, v. 365, v. 438, v. 489, v. 560, v. 939, v. 1001, v. 1113, v. 1242MurmurePlainte secrette de plusieurs personnes, sur quelque tort qu'on leur fait ou de quelque scandale. (F.)V. 1164, v. 1510, v. 1568MurmurerGronder (R.)v. 544, v. 726, v. 913, v. 1082, v. 1123, v. 1560Objet (ou object)Ce qui est opposé à nostre veuë (*F.*)V. 1035Chose où l'on arrête sa pensée, son cœur, son but, ou son dessein (*R.*)V. 1391, v. 1462, v. 1487, v. 1512Se dit aussi poëtiquement des belles personnes qui donnent de l'amour (*F.*)V. 64, v. 890, v. 967, v. 1434Ombre« Sans une ombre de », c'est-à-dire « sans la moindre trace de » (*R*.)V. 1043Désigne « l'âme d'une personne morte »V. 661, v. 708, v. 713L'apparenceV. 1029PresseFoule de peuple qui veut entrer en un lieu qui ne le peut pas contenir commodément (*F*.) Épître, v. 1521Presser Contraindre, obliger, solliciter, pousser, exciter avec chaleur (*R.*).V. 73, v. 234, v. 856, v. 893, v. 1570Se hâter, faire diligence (*F*.)V. 30Public, subst. Signifie le peuple (*F*.)V. 1059Se dit d'une assemblée ouverte à tout le mondeV. 1190, v. 1265Répondre« Être caution. Assurer. Le mot de répondre en ce sens est une manière de verbe neutre et ne régit point d'accusatif »V. 897, v. 1506RéverEntretenir ses pensées. Furetière précise même que « les amants de plaisent à resver dans un lieu solitaire, pour entretenir leurs pensées » (*F*.)V. 578Appliquer sérieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque inventionV. 1347Se reposer Figurément « S'assurer en quelcun, y faire fonds. Compter sur une personne, s'y fïer » (R.)V. 19, v. 109SensFaculté d'éprouver les impressions que font les objets matérielsV. 650, v. 1221SignificationV. 1093, 1095Jugement. Raison, esprit (*R*.)V. 126, v. 414SeveritéExactitude à faire observer les loix, à en punir les contraventions (*F*.)V. 731Se dit aussi d'une certaine vertu farouche et accompagnée de rigiditéÉpîtreSevereExact et religieux observateur des loix, de la discipline et des reglesV. 274, v. 351, v. 620, v. 729, v. 802, v. 1244, v. 1332SoinInquiétude d'esprit, travail d'esprit venant de la forte application qu'on donne à quelque choseV. 816Application d'esprit, application de la personne qui prend garde à quelque chose (R.)V. 7, v. 628, v. 1355, v. 1547SouciInquiétude, soin⁎ fâcheux (*R*.)V. 19, v. 31SouffrirEndurer, supporter (*F*.)V. 752, v. 981, v. 1217, v. 1399, v. 1441Signifie aussi, Ne se pas opposer à une chose, y consentir tacitement.V. 158, v. 585, v. 660, v. 1353, v. 1459Superbe, adj. Ce mot signifie « plein d'orgueil, plein de fierté, orgueilleux » (R.)V. 311, v. 1011SurprendreAbuser, décevoir, jetter dans l'erreur (*R*.)V. 745, v. 789, v. 826, v. 829TemeraireVaillant outré, qui s'expose aux perils brutalement et inconsiderément (*F.*)Épître, v. 519, v. 984, v. 1031, v. 1337, v. 1516TimideFoible, peureux, qui craint tout (*F*.)V. 149, v. 794, v. 1028Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions » (*F.*)V. 93, v. 291, v. 571, v. 790, v. 842, v. 939, v. 962, v. 968, v. 1237, v. 1475TransporterSe dit figurément des violentes agitations de l'espritV. 930TravauxSe dit des actions, de la vie d'une personne, et généralement des gens héroïques (*F*.)V. 814, v. 891Vain« Se dit de ce qui n'est qu'en apparence, qui trompe les yeux, qui est chymerique. » (*F.*)V. 59, v. 394, v. 592, v. 649, v. 663, v. 672, v. 1104, v. 1349Se trouve également avec le sens actuel d'inutileV. 624, v. 1195, v. 1538« En Morale signifie, Glorieux⁎, superbe⁎, qui a bonne opinion de luy-même. »V. 193, v. 466, v. 1314VapeurSignifie « fumée » (*R*.)V. 709, v. 1183Ce mot en parlant du corps humain signifie fumée d'un sang échaufé qui monte au cerveauV. 805, v. 1145
 
 
-## Annexe 1 : Tite-Live, Histoire romaine, livre VIII, chapitres 6, 7 et 9 [202]
+## Annexe 1 : Tite-Live, Histoire romaine, livre VIII, chapitres 6, 7 et 9 [202].
 
 
-### Chapitre 6 : Le songe des consuls
+### Chapitre 6 : Le songe des consuls.
 
 Là dans leur repos, les deux consuls virent, dit-on, apparaître la même image d'un homme plus grand et plus majestueux que le commun des mortels qui leur tint ces propos : les dieux Mânes et la Terre Mère exigeaient de l'un des deux adversaires au combat son général, de l'autre son armée ; l'armée dont le général aurait voué aux divinités d'en bas les légions ennemies et lui-même en plus d'elles, cette armée donnerait la victoire à son peuple te à son parti. Quand les consuls se furent communiqués leurs visions nocturnes, on décida d'immoler des victimes pour détourner la colère des dieux, et aussi pour que, si les entrailles donnaient les mêmes présages qui leur étaient apparus en songe, l'un des deux consuls accomplit les destins. Les réponses des haruspices concordant avec les scrupules religieux qui, en silence, résidaient déjà dans les cœurs ils font venir les légats et les tribuns, leur exposent sans détour les ordres des deux et, pour que la mort volontaire d'un consul ne terrifiât pas l'armée au combat, ils conviennent entre eux que, du côté où l'armée romaine commencerait à lâcher pied, de ce côté le consul se dévouerait pour le peuple romain et les Quirites. Au cours du conseil, on songea également, si jamais une guerre avait été menée sous un commandement sévère, à faire revenir alors à tout prix la discipline militaire aux coutumes antiques. Ce qui avivait l'inquiétude, c'était que l'on avait à lutter contre des Latins dont la Langue, les mœurs, le mode d'armement et surtout l'organisation militaire correspondaient exactement à ceux des Romains : ils se ressemblaient tous entre eux, soldats aux soldats, centurions aux centurions, tribuns aux tribuns, et ils s'étaient trouvés mêlés les uns aux autres en camarades de garnison, parfois même de manipules. Aussi, afin d'éviter aux soldats d'être par là les victimes de quelque méprise, les consuls par un édit défendent à qui que ce soit de combattre contre l'ennemi hors des rangs. [203]
 
 
-### Chapitre 7 : Le duel de Manlius et ce qu'il en advint
+### Chapitre 7 : Le duel de Manlius et ce qu'il en advint.
 
 Le hasard voulut que, parmi les chefs des escadrons qui avaient été envoyés en avant de tous côtés pour faire des reconnaissances, Titus Manlius, fils du consul, déboucha avec ses cavaliers au-dessus du camp ennemi si bien qu'il se trouva distant d'à peine une portée de trait du poste le plus proche. Se trouvaient là des cavaliers de Tusculum ; leur chef était Geminus Maecius, célèbre armi les siens pour sa naissance et surtout ses exploits. Quand il reconnut les guerriers romains et, remarquable parmi eux et les précédant, le fils du consul – car ils se connaissaient tous entre eux, surtout les hommes en vue –, il s'écria : « Est-ce avec un seul escadron, Romains, que vous voulez mener la guerre contre les Latins et leurs alliés ? Et pendant ce temps que feront les consuls, que feront les deux armées consulaires ? » « Elles seront là le moment venu, répondit Manlius, et avec elles, Jupiter en personne, témoin des traités que vous avez violés, lui qui a le plus de pouvoir et de puissance. S'il est vrai qu'auprès du lac Régille nous avons combattu jusqu'à l'écœurement de votre part, ici aussi, nous ferons en sorte, je vous l'assure, de vous empêcher de trop goûter la bataille et la rencontre de vos enseignes avec les nôtres ». À quoi Geminus, qui, à cheval, s'était avancé un peu au-devant des siens, s'écria : « Acceptes-tu donc, en attendant le jour où à grand effort vous mettrez vos armées en branle, de te rencontrer toi-même avec moi pour que de notre sort à tous deux apparaissent dès maintenant toute la supériorité du cavalier du Latium sur le Romain ? » L'âme fougueuse du jeune guerrier se laisse émouvoir : est-ce par colère, la honte de refuser le combat ou enfin la force inexorable du destin ? Il oublie donc l'ordre paternel et l'édit des consuls et il se précipite vers un combat dont il était presque indifférent pour lui qu'il sortît victorieux ou défait. Tous les cavaliers font place comme pour un spectacle et, das l'étendue de terrain laissée libre, l'un vers l'autre, ils lancent leurs chevaux ; ils se chargèrent la lance en avant, les deux armes glissèrent, celle de Manlius par-dessus le casque de l'ennemi, celle de Maecius en effleurant le cou du cheval. Ils firent ensuite pivoter leurs chevaux et c'est Manlius qui, le premier, se dressa pour porter un second coup entre les deux oreilles du cheval. Sous la douleur causée par la blessure, celui-ci se cabra ; de toutes ses forces il secoua la tête et désarçonna son cavalier ; lui, alors, s'appuyant sur son bouclier et sur sa lance, chercha à se relever de sa lourde chute, mais Manlius, le frappant à la gorge si bien que le fer ressortit au travers des côtes, le cloua au sol ; puis, après avoir ramassé les dépouilles, il revient vers les siens, avec son escadron qui, tout joyeux, l'ovationne, il se dirige vers le camp puis vers le prétoire auprès de son père, ignorant la nature de son acte et son sort à venir, s'il a mérité louange ou châtiment.
 
 « Pour que tous me déclarent avec raison, mon père, issu de ton sang, ayant été provoqué, je te rapporte ces dépouilles équestres, prises sur le corps de l'ennemi ». À ces mots le consul, sans attendre, se détourna de son fils et ordonna de convoquer l'assemblée au son de la trompette. Quand celle-ci fut réunie en nombre, il prit la parole : « Puisque toi, Titus Manlius, sans respect pour le pouvoir consulaire ni pour la majesté paternelle, contrairement à notre édit, tu as combattu hors du rang contre l'ennemi et, dans toute la mesure de tes moyens, détruit la discipline militaire qui a été le soutien militaire de l'État romain jusqu'à ce jour, et puisque tu m'as mis dans la nécessité d'oublier ou bien l'État ou bien moi-même et les miens, soyons frappés nous-mêmes pour notre propre faute plutôt que de faire payer si cher nos crimes à l'État. Nous serons un exemple sinistre mais, pour l'avenir, salutaire à la jeunesse. Pour ma part, il est vrai, je me sens émouvoir en ta faveur par l'affection naturelle qu'on a pour ses enfants et par l'image que tu représentes du courage trompé par une vaine apparence de gloire ; mais, comme ta mort doit sanctionner l'autorité consulaire ou ton impunité à jamais l'abroger, et que même toi, si tu as un peu de notre sang, je ne saurais penser que tu te refuses à rétablir, par ton châtiment, la discipline militaire que ta propre faute a compromise, va, licteur, attache-le au poteau ». Tous perdirent le souffle devant un ordre aussi affreux et, regardant chacun la hache comme si elle avait été détachée pour soi, ils demeurèrent tranquilles par crainte plus que par respect. Aussi restèrent-ils silencieux, cloués sur place, l'âme abattue par la stupeur, mais subitement, lorsque du cou tranché jaillit le sang, de toutes les bouches des plaintes s'élevèrent librement si bien qu'on ne ménageait ni lamentations ni imprécations, que le corps du jeune homme, couvert de ses dépouilles, fut brûlé, avec tous les honneurs militaires qui peuvent illustrer des funérailles, sur un bûcher élevé en dehors de la palissade, et que les ordres « à la Manlius » ne firent pas seulement frémir sur le moment les contemporains mais servirent aussi de sinistre exemple pour l'avenir. [204]
 
 
-### Chapitre 9 : Deuotio de P. Decius Mus à la bataille de Véséris
+### Chapitre 9 : Deuotio de P. Decius Mus à la bataille de Véséris.
 
 Les consuls romains, avant de faire sortir leurs troupes en ligne de bataille, sacrifièrent. L'haruspice montra, dit-on, à Decius que la tête du foie présentait une entaille dans la partie qui le concernait : pour le reste, la victime avait été agréée par les dieux ; Manlius, lui, eut un sacrifice très heureux. « Mais tout va bien, dit Decius, si mon collègue a obtenu d'heureux présages ». Les unités rangées dans l'ordre qu'il a été dit, ils s'avancèrent au combat : Manlius commandait l'aile droit, Decius, l'aile gauche. Au début l'affaire fut menée des deux côtés avec des forces égales et une même ardeur ; puis à l'aile gauche, les *hastati* romains, ne pouvant soutenir la pression latine, se replièrent vers les *principes*. Dans ce trouble, le consul Decius crie d'une voix forte à M. Valerius : « Nous avons besoin du secours des dieux, Marcus Valerius ; allons, pontife public du peuple romain, dicte-moi les paroles par lesquelles je puisse me dévouer pour les légions ». Le pontife lui fit prendre la toge prétexte et, la tête voilée, les mains passant sous la toge jusqu'au menton, debout, les pieds sur un javelot étendu à terre, parler ainsi : « Janus, Jupiter, Mars Père, Quirinus, Bellone, Lares, divinités nouvelles, dieux indigènes, divinités dont la puissance s'étend sur nous et les ennemis, et vous, Dieux Mânes, je vous prie, vous supplie et vous demande et vous propose en grâce qu'à l'égard du peuple romain des Quirites vous favorisiez force et victoire et que les ennemis du peuple romain des Quirites, vous les frappiez de terreur, d'épouvante et de mort. Comme je l'ai solennellement déclaré, pour la république du peuple romain des Quirites, pour l'armée, les légions, les auxiliaires du peuple romain des Quirites, je voue avec moi, les légions et les auxiliaires des ennemis aux Dieux Mânes et à la Terre ».
 
 Après cette prière, il commande aux licteurs d'aller auprès de T. Manlius et d'annoncer au plus vite à son collègue qu'il s'est dévoué pour le salut de l'armée ; lui-même, ayant la toge ceinte à la manière de Gabies, sauta tout armé à cheval et se lança au milieu des ennemis sous les yeux de l'une et de l'autre armée ; il apparut d'une majesté plus qu'humaine, comme envoyé du ciel pour expier toute la colère divine, détourner des siens le fléau et le rejeter sur l'ennemi. Ainsi toute la terreur et l'effroi emportés par lui jetèrent d'abord le trouble parmi les enseignes des Latins, puis pénétrèrent profondément dan l'armée tout entière. Et il parut avec toute évidence que, partout où le cheval l'emporta, l'épouvante s'emparait des soldats comme s'ils eussent été frappés par un astre destructeur ; mais quand il s'écroula accablé de traits, les cohortes latines, cédant dès lors à une panique certaine, prirent la fuite et laissèrent tout alentour le terrain vide. En même temps, de leur côté, les Romains, l'esprit délivré de crainte religieuse, se dressant comme si le signal du combat venait seulement d'être donné, livrèrent une nouvelle bataille ; car les *rorarii* accouraient entre les files des *antepilani*, leurs forces s'étant ajoutées à celles des *hastati* et des *principes*, et les triaires, le genou droit à terre, attendaient le signal du consul pour se dresser. [205]
 
 
-## Annexe 2 : production littéraire
+## Annexe 2 : production littéraire.
 
 
-### Poésie et œuvres diversesJouissanceSelected Writings of Madame de Villedieu
+### Poésie et œuvres diverses.JouissanceSelected Writings of Madame de Villedieu
 Récit en prose et en vers de la farce des PrécieusesŒuvres complètes de Molière
 « Les Précieuses Ridicules » : documents contemporains : lexique du vocabulaire précieux
 Les Précieuses ou comment l'esprit vint aux femmes
@@ -2920,13 +2920,13 @@ Fables ou Histoires allégoriquesop. cit.
 
 
 
-### ThéâtreManlius Torquatusop. cit.
+### Théâtre.Manlius Torquatusop. cit.
 NitétisFemmes dramaturges en France, 1650-1750 : pièces choisies
 Le Favory
 
 
 
-### Romans et nouvellesAlcidamie
+### Romans et nouvelles.Alcidamie
 Lisandreop. cit.
 Carmente, Histoire grecque
 Anaxandre
@@ -2949,17 +2949,17 @@ Les Annales galantes de Grèce
 
 
 
-## Bibliographie
+## Bibliographie.
 
 
-### Les sources
+### Les sources.
 
 
-#### Corpus*Desjardins*ManliusManlius
+#### Corpus.*Desjardins*ManliusManlius
 
 
 
-#### Autres œuvres*Aristote*La Poétique
+#### Autres œuvres.*Aristote*La Poétique
 *Aubignac*La Pratique du théâtre
 *Aubignac*Dissertations contre Corneille
 *Corneille*Théâtre Complet
@@ -2974,10 +2974,10 @@ Théâtre du xvii*e* siècle
 
 
 
-### Instruments de travail
+### Instruments de travail.
 
 
-#### Dictionnaires*Académie Française*Dictionnaire
+#### Dictionnaires.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots français tant vieux que modernes et les termes de toutes les sciences et les arts
 *Grimal*Dictionnaire de la mythologie grecque et romaine*re*
 *Moreri*Le grand dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane.
@@ -2985,29 +2985,29 @@ Théâtre du xvii*e* siècle
 
 
 
-#### Ouvrages bibliographiques*Cioranescu*Bibliographie de la littérature française du 17*e* siècle
+#### Ouvrages bibliographiques.*Cioranescu*Bibliographie de la littérature française du 17*e* siècle
 *Klapp*Bibliographie der Französischen Literaturwissenschaft
 
 
 
-#### Rhétorique, grammaire, syntaxe et ponctuation*Catach*La Ponctuation
+#### Rhétorique, grammaire, syntaxe et ponctuation.*Catach*La Ponctuation
 *Fournier*Grammaire du français classique
 *Haase, A.*Syntaxe française du XVIIe siècle
 *Spillebout*Grammaire de la langue française du XVII*e* siècle
 
 
 
-### Études
+### Études.
 
 
-#### Histoire, histoire de l'art, histoire de la littérature*Champeaux*La religion romaine
+#### Histoire, histoire de l'art, histoire de la littérature.*Champeaux*La religion romaine
 *Dumézil*La religion romaine archaïque avec un appendice sur la religion des Etrusques*re*
 *Morel*Histoire de la littérature française – Le Classicisme
 *Zuber**Cuénin*Histoire de la littérature française – Le classicisme
 
 
 
-#### Théâtre du XVII*e* siècle*Baby*La Tragi-comédie de Corneille à Quinault
+#### Théâtre du XVII*e* siècle.*Baby*La Tragi-comédie de Corneille à Quinault
 *Baby*La Pratique du ThéâtreLa Pratique du Théâtre, op. cit.
 *Deierkauf-Holsboer*Le Théâtre l'Hôtel de Bourgogne
 *Forestier*Introduction à l'analyse des textes classiques
@@ -3022,10 +3022,10 @@ Théâtre du xvii*e* siècle
 
 
 
-#### L'auteur
+#### L'auteur.
 
 
-##### OuvragesA Labor of Love : Critical Reflections on the Writings of Marie-Catherine Desjardins
+##### Ouvrages.A Labor of Love : Critical Reflections on the Writings of Marie-Catherine Desjardins
 Actes de Wake Forest. L'image du souverain dans le théâtre de 1600 à 1660. "Maximes". Madame de VilledieuPapers of French Seventeenth Century Literature
 *Bayle*Dictionnaire historique et critique*re*
 *Buffet*Nouvelles Observations sur la langue française... avec les éloges des Illustres Sçavantes tant anciennes que modernes
@@ -3039,7 +3039,7 @@ Actes de Wake Forest. L'image du souverain dans le théâtre de 1600 à 1660. "M
 
 
 
-##### Articles et communications*Bertaut**Séché**e*Mercure de France
+##### Articles et communications.*Bertaut**Séché**e*Mercure de France
 *Demoris*Actes de Wake Forest…, op. cit.
 *Derome*Revue historique et archéologique du Maine
 *Gethner*A Labor of Love, op. cit.
@@ -3055,7 +3055,7 @@ Actes de Wake Forest. L'image du souverain dans le théâtre de 1600 à 1660. "M
 
 
 
-### Sites Internet
+### Sites Internet.
 
 Site du GRAC : http://recherche.univ-lyon2.fr/grac
 

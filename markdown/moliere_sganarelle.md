@@ -18,7 +18,7 @@ Avec les Arguments de chaque Scène
 Réprésenté pour la première fois le 28 mai 1660 au Théâtre du Petit-Bourbon.
 
 
-# À MONSIEUR DE MOLIER, CHEF DE LA TROUPE DES COMÉDIENS de Monsieur, Frère unique du Roi
+# À MONSIEUR DE MOLIER, CHEF DE LA TROUPE DES COMÉDIENS de Monsieur, Frère unique du Roi.
 
 Monsieur,
 
@@ -29,7 +29,7 @@ Monsieur,
 Votre très humble serviteur⁎⁎⁎
 
 
-# À UN AMI
+# À UN AMI.
 
 Monsieur,
 
@@ -40,7 +40,7 @@ Je n'aurais jamais fait, si je prétendais vous dire tout ce qui rend recommanda
 Foin, je voudrais bien éviter ce mot d'Auteur ; car je crois qu'il se rencontre presque dans chaque ligne, et j'ai été tenté plus de six fois de mettre *Monsieur de Molier* en sa place. Prenez vous-en donc à *Monsieur de Molier*, puisque le voilà. Non, laissez-le là toutefois, et ne vous en prenez qu'à son esprit, qui m'a fait faire une lettre plus longue que je n'aurais voulu, sans toutefois avoir parlé d'autres personnes que de lui, et sans avoir dit le quart de ce que j'avais à dire à son avantage. Mais je finis, de peur que cette Épître n'attire quelque maudisson sur elle, et je gage que dans l'impatience où vous êtes, vous serez bien aise d'en voir la fin et le commencement de cette Pièce.
 
 
-# ACTEURS
+# ACTEURS.
  – Gorgibus, Bourgeois de Paris.
  – Célie, sa Fille.
  – Lélie, Amant de Célie.
@@ -54,13 +54,13 @@ La Scène est à Paris.
 
 
 
-# SGANARELLE OU LE COCU IMAGINAIRE, *COMÉDIE*
+# SGANARELLE OU LE COCU IMAGINAIRE, *COMÉDIE*.
 
 
-## Acte premier
+## Acte premier.
 
 
-### Scène Première
+### Scène Première.
 Gorgibus, Célie, sa Suivante.
 
 
@@ -69,7 +69,7 @@ Cette première Scène, où Gorgibus entre avec sa Fille, fait voir à l'Auditeu
     CÉLIE *sortant toute éplorée, et son Père la suivant*.
 Ah ! n'espérez jamais que mon cœur y consente.  
 
-    GORGIBUS
+    GORGIBUS.
 Que marmottez-vous là petite impertinente ?  
 Vous prétendez choquer ce que j'ai résolu,  
 Je n'aurai pas sur vous un pouvoir absolu,  
@@ -92,11 +92,11 @@ Pour être aimé de vous doit-il manquer d'appas ?
 Allez tel qu'il puisse être, avec cette somme,  
 Je vous suis caution qu'il est très honnête homme.  
 
-    CÉLIE
+    CÉLIE.
 Hélas !  
 
-    GORGIBUS
-Eh bien hélas ! que veut dire ceci,  
+    GORGIBUS.
+        Eh bien hélas ! que veut dire ceci,  
 Voyez le bel *hélas* ! qu'elle nous donne ici.  
 Hé ! que si la colère une fois me transporte,  
 Je vous ferai chanter hélas ! de belle sorte.  
@@ -115,13 +115,13 @@ C'est là qu'en peu de temps on apprend à bien vivre,
 Et si vous n'aviez lu que ces Moralités,  
 Vous sauriez un peu mieux suivre mes volontés.  
 
-    CÉLIE
+    CÉLIE.
 Quoi vous prétendez donc mon père, que j'oublie  
 La constante amitié que je dois à Lélie ?  
 J'aurais tort si sans vous je disposais de moi ;  
 Mais vous‑même à ses vœux engageâtes ma foi.  
 
-    GORGIBUS
+    GORGIBUS.
 Lui fût-elle engagée encore davantage,  
 Un autre est survenu dont le bien l'en dégage.  
 Lélie est fort bien fait ; mais apprends qu'il n'est rien  
@@ -148,7 +148,7 @@ Célie, sa Suivante.
 
 Qui comparera cette seconde Scène à la première, confessera d'abord que l'Auteur de cette Pièce a un génie tout particulier pour les Ouvrages de Théâtre, et qu'il est du tout impossible que ses pièces ne réussissent pas, tant il sait bien de quelle manière il faut attacher l'esprit de l'Auditeur. En effet, nous voyons qu'après avoir fait voir dans la Scène précédente, un père pédagogue, qui tâche de persuader à sa fille que la richesse est préférable à l'amour, il fait parler dans celle-ci (afin de divertir l'Auditeur par la variété de la matière) une veuve suivante de Célie, et confidente toute ensemble, qui s'étonne de quoi sa Maîtresse répond par des larmes à des offres d'hymen, et après avoir dit qu'elle ne ferait pas de même si l'on la voulait marier, elle trouve moyen de décrire toutes les douceurs du mariage ; ce qu'elle exécute si bien, qu'elle en fait naître l'envie à celles qui n'en ont pas tâté. Sa maîtresse, comme font d'ordinaire celles qui n'ont jamais été mariées, l'écoute avec attention et ne recule le temps de jouir de ses douceurs, que parce qu'elle les veut goûter avec Lélie, qu'elle aime parfaitement, et qu'elles se changent toutes en amertumes, lorsque l'on les goûte avec une personne que l'on n'aime pas ; c'est pourquoi elle montre à sa Suivante le Portrait de Lélie ; pour la faire tomber d'accord de la bonne mine de ce Galant, et du sujet qu'elle a de l'aimer. Vous m'objecterez peut-être que cette fille le doit connaître, puisqu'elle demeure avec Célie, et que son père l'ayant promise à Lélie, cet Amant était souvent venu voir sa Maîtresse ; mais je vous répondrai que Lélie était à la Campagne devant qu'elle demeurât avec elle. Après cette digression, pour la justification de notre Auteur, voyons quels effets ce Portrait produit. Celle qui peu auparavant disait, qu'il ne fallait jamais rejeter des offres d'Hymen, avoue que Célie a sujet d'aimer tendrement un homme si bien fait, et Célie songeant qu'elle sera peut-être contrainte d'en épouser un autre s'évanouit : sa confidente appelle du secours. Cependant qu'il en viendra, vous pouvez lire ces Vers qui vous le feront attendre sans impatience.
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Quoi refuser Madame, avec cette rigueur,  
 Ce que tant d'autres gens voudraient de tout leur cœur ?  
 À des offres d'hymen répondre par des larmes  
@@ -178,17 +178,17 @@ Un mari sert beaucoup la nuit auprès de soi,
 Ne fût-ce que pour l'heur d'avoir qui vous salue  
 D'un Dieu vous soit en aide alors qu'on éternue.  
 
-    CÉLIE
+    CÉLIE.
 Peux-tu me conseiller de commettre un forfait,  
 D'abandonner Lélie, et prendre ce mal-fait ?  
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Votre Lélie aussi n'est ma foi qu'une bête,  
 Puisque si hors de temps son voyage l'arrête,  
 Et la grande longueur de son éloignement  
 Me le fait soupçonner de quelque changement.  
 
-    CÉLIE, *lui montrant le portrait de Lélie*
+    CÉLIE, *lui montrant le portrait de Lélie*.
 Ah ! ne m'accable point par ce triste présage,  
 Vois attentivement les traits de ce visage,  
 Ils jurent à mon cœur d'éternelles ardeurs,  
@@ -196,17 +196,17 @@ Je veux croire après tout qu'ils ne sont pas menteurs,
 Et comme c'est celui que l'art y représente  
 Il conserve à mes feux une amitié constante.  
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Il est vrai que ces traits marquent un digne amant,  
 Et que vous avez lieu de l'aimer tendrement.  
 
-    CÉLIE
+    CÉLIE.
 Et cependant il faut… ah ! soutiens-moi.  
 Laissant tomber le Portrait de Lélie.
 
 
-    LA SUIVANTE 
-Madame,  
+    LA SUIVANTE.
+        Madame,  
 D'où vous pourrait venir… ah ! bons Dieux elle pâme.  
 Hé ! vite, holà, quelqu'un.  
 
@@ -217,20 +217,20 @@ Célie, la Suivante, Sganarelle.
 
 Cette Scène est fort courte, et Sganarelle, comme un des plus proches voisins de Célie, accourt aux cris de cette Suivante qui lui donne sa Maîtresse à soutenir ; cependant qu'elle va chercher encore du secours d'un autre côté, comme vous pouvez voir par ce qui suit.
 
-    SGANARELLE
-Qu'est-ce donc ? me voilà.  
+    SGANARELLE.
+        Qu'est-ce donc ? me voilà.  
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Ma maîtresse se meurt.  
 
-    SGANARELLE
-Quoi ce n'est que cela,  
+    SGANARELLE.
+        Quoi ce n'est que cela,  
 Je croyais tout perdu de crier de la sorte ;  
 Mais approchons pourtant. Madame êtes-vous morte ?  
 Hays, elle ne dit mot.  
 
-    LA SUIVANTE
-Je vais faire venir  
+    LA SUIVANTE.
+        Je vais faire venir  
 Quelqu'un pour l'emporter, veuillez la soutenir.  
 
 
@@ -247,11 +247,11 @@ Ma foi je ne sais pas ; mais j'y trouve encor moi
 Quelque signe de vie.  
 
     LA FEMME DE SGANARELLE, *regardant par la fenêtre*.
-Ah ! qu'est-ce que je vois ?  
+        Ah ! qu'est-ce que je vois ?  
 Mon mari dans ses bras… mais je m'en vais descendre,  
 Il me trahit sans doute, et je veux le surprendre.  
 
-    SGANARELLE
+    SGANARELLE.
 Il faut se dépêcher de l'aller secourir,  
 Certes elle aurait tort de se laisser mourir,  
 Aller en l'autre monde est très grande sottise  
@@ -266,7 +266,7 @@ La Femme de sganarelle *seule.*
 
 L'Auteur, qui comme nous avons dit ci-dessus, sait tout à fait bien ménager l'esprit de son Auditeur, après l'avoir diverti dans les deux précédentes Scènes, dont la beauté consiste presque toute dans l'action, l'attache dans celle-ci par un raisonnement si juste, que l'on ne pourra qu'à peine se l'imaginer, si l'on en considère la matière ; mais il n'appartient qu'à des plumes, comme la sienne, à faire beaucoup de peu, et voici pour satisfaire votre curiosité le sujet de cette Scène. La femme de Sganarelle étant descendue, et n'ayant point trouvé son mari, fait éclater sa jalousie, mais d'une manière si surprenante et si extraordinaire, que quoique cette matière ait été fort souvent rebattue, jamais personne ne l'a traitée avec tant de succès, d'une manière si contraire à celle de toutes les autres femmes, qui n'ont recours qu'aux emportements en de semblables rencontres, et comme il m'a été presque impossible de vous l'exprimer aussi bien que lui ; Ces vers vous en feront connaître la beauté.
 
-    LA FEMME DE SGANARELLE *seule.*
+    LA FEMME DE SGANARELLE *seule.*.
 Il s'est subitement éloigné de ces lieux,  
 Et sa fuite a trompé mon désir curieux.  
 Mais de sa trahison je ne fais plus de doute,  
@@ -298,13 +298,13 @@ Sganarelle, et sa Femme.
 
 Quelques beautés que l'auteur ait fait voir dans la Scène précédente, ne croyez pas qu'il soit de ceux qui souvent après un beau début donnent (pour parler vulgairement) du nez en terre puisque plus vous avancerez dans la lecture de cette Pièce, plus vous y découvrirez de beautés, et pour en être persuadé, il ne faut que jeter les yeux sur cette Scène, qui en fait le fondement. Célie en s'évanouissant, ayant laissé tomber le portrait de son Amant, la femme de Sganarelle le ramasse, et comme elle le considère attentivement, son mari ayant aidé à reporter Célie chez elle, rentre sur la Scène et regarde par dessus l'épaule de sa femme, ce qu'elle considère : et voyant ce portrait, commence d'entrer en quelque sorte de jalousie, lorsque sa femme s'avise de le sentir, ce qui confirme ces soupçons, dans la pensée qu'il a qu'elle le baise ; mais il ne doute bientôt plus qu'il est de la grande Confrérie, quand il entend dire à sa femme, qu'elle souhaiterait d'avoir un Époux d'une aussi bonne mine : c'est alors qu'en la surprenant, il lui arrache ce portrait. Mais devant que de parler des discours qu'ils tiennent ensemble sur le sujet de leur jalousie, il est à propos de vous dire, qu'il ne s'est jamais rien vu de si agréable que les postures de Sganarelle, quand il est derrière sa femme, son visage et ses gestes expriment si bien la jalousie, qu'il ne serait pas nécessaire qu'il parlât pour paraître le plus jaloux de tous les hommes : Il reproche à sa femme son infidélité et tâche de lui persuader qu'elle est d'autant plus coupable qu'elle a un mari qui (soit pour les qualités du corps, soit pour celles de l'esprit) est entièrement parfait. Sa femme qui d'un autre côté croit avoir autant et plus de sujet que lui d'avoir martel en tête, s'emporte contre lui en lui redemandant son bijou ; tellement que chacun croyant avoir raison, cette dispute donne un agréable divertissement à l'auditeur, à quoi Sganarelle contribue beaucoup par des gestes qui sont inimitables et qui ne se peuvent exprimer sur le papier. Sa femme étant lasse d'ouïr ses reproches lui arrache portrait qu'il lui avait pris et s'enfuit, et Sganarelle court après elle. Vous auriez sujet de me quereller, si je ne vous envoyais pas les Vers d'une Scène qui fait le fondement de cette Pièce : c'est pourquoi je satisfais à votre curiosité.
 
-     SGANARELLE
-On la croyait morte et ce n'était rien,  
+    SGANARELLE.
+        On la croyait morte et ce n'était rien,  
 Il n'en faut plus qu'autant, elle se porte bien.  
 Mais j'aperçois ma femme.  
 
-    SA FEMME
-Ô Ciel ! c'est miniature,      
+    SA FEMME.
+        Ô Ciel ! c'est miniature,      
 Et voilà d'un bel homme une vive peinture.  
 
     SGANARELLE, *à part et regardant sur l'épaule de sa femme*.
@@ -318,11 +318,11 @@ Le travail plus que l'or s'en doit encor priser.
 Hon que cela sent bon.  
 
     SGANARELLE *à part*.
-Quoi peste le baiser?  
+        Quoi peste le baiser?  
 Ah ! j'en tiens.  
 
     SA FEMME *poursuit*.
-Avouons qu'on doit être ravie  
+        Avouons qu'on doit être ravie  
 Quand d'un homme ainsi fait on se peut voir servie,  
 Et que s'il en contait avec attention,  
 Le penchant serait grand à la tentation.  
@@ -330,7 +330,7 @@ Ah ! que n'ai-je un mari d'une aussi bonne mine,
 Au lieu de mon pelé, de mon rustre…  
 
     SGANARELLE, *lui arrachant le portrait*.
-Ah ! mâtine,  
+        Ah ! mâtine,  
 Nous vous y surprenons en faute contre nous,  
 Et diffamant l'honneur de votre cher époux :  
 Donc à votre calcul, ô ma trop digne femme !  
@@ -346,31 +346,31 @@ N'est donc pas un morceau dont vous soyez contente,
 Et pour rassasier votre appétit gourmand,  
 Il faut à son Mari le ragoût d'un galant.  
 
-    SA FEMME
+    SA FEMME.
 J'entends à demi-mot où va la raillerie,  
 Tu crois par ce moyen…  
 
-    SGANARELLE
-À d'autres je vous prie,  
+    SGANARELLE.
+        À d'autres je vous prie,  
 La chose est avérée, et je tiens dans mes mains  
 Un bon certificat du mal dont je me plains.  
 
-    SA FEMME
+    SA FEMME.
 Mon courroux n'a déjà que trop de violence,  
 Sans le charger encor d'une nouvelle offense ;  
 Écoute, ne crois pas retenir mon bijou,  
 Et songe un peu…  
 
-    SGANARELLE
-Je songe à te rompre le cou.  
+    SGANARELLE.
+        Je songe à te rompre le cou.  
 Que ne puis-je, aussi bien que je tiens la copie,  
 Tenir l'original.  
 
-    SA FEMME
-Pourquoi ?  
+    SA FEMME.
+    Pourquoi ?  
 
-    SGANARELLE
-Pour rien mamie,  
+    SGANARELLE.
+        Pour rien mamie,  
 Doux objet de mes vœux j'ai grand tort de crier,  
 Et mon front de vos dons vous doit remercier.  
 Regardant le portrait de Lélie.
@@ -379,37 +379,37 @@ Le voilà le beau-fils, le mignon de couchette,
 Le malheureux tison de ta flamme secrète,  
 Le drôle avec lequel…  
 
-    SA FEMME
-Avec lequel, poursuis ?  
+    SA FEMME.
+        Avec lequel, poursuis ?  
 
-    SGANARELLE
+    SGANARELLE.
 Avec lequel, te dis-je… et j'en crève d'ennuis.  
 
-    SA FEMME
+    SA FEMME.
 Que me veut donc conter par là ce maître ivrogne ?  
 
-    SGANARELLE
+    SGANARELLE.
 Tu ne m'entends que trop Madame la carogne,  
 Sganarelle est un nom qu'on ne me dira plus,  
 Et l'on va m'appeler Seigneur Corneillius :  
 J'en suis pour mon honneur ; mais à toi qui me l'ôtes,  
 Je t'en ferai du moins pour un bras ou deux côtes.  
 
-    SA FEMME
+    SA FEMME.
 Et tu m'oses tenir de semblables discours ?  
 
-    SGANARELLE
+    SGANARELLE.
 Et tu m'oses jouer de ces diables de tours?  
 
-    SA FEMME
+    SA FEMME.
 Et quels diables de tours, parle donc sans rien feindre.  
 
-    SGANARELLE
+    SGANARELLE.
 Ah ! cela ne vaut pas la peine de se plaindre,  
 D'un panache de Cerf sur le front me pourvoir,  
 Hélas ! voilà vraiment un beau venez-y-voir.  
 
-    SA FEMME
+    SA FEMME.
 Donc après m'avoir fait la plus sensible offense  
 Qui puisse d'une femme exciter la vengeance,  
 Tu prends d'un feint courroux le vain amusement,  
@@ -417,11 +417,11 @@ Pour prévenir l'effet de mon ressentiment ?
 D'un pareil procédé l'insolence est nouvelle,  
 Celui qui fait l'offense est celui qui querelle.  
 
-    SGANARELLE
+    SGANARELLE.
 Eh ! la bonne effrontée, à voir ce fier maintien  
 Ne la croirait-on pas une femme de bien?  
 
-    SA FEMME
+    SA FEMME.
 Va, poursuis ton chemin, cajole tes Maîtresses,  
 Adresse-leur tes vœux et fais-leur des caresses ;  
 Mais rends-moi mon portrait, sans te jouer de moi.  
@@ -438,15 +438,15 @@ Lélie, Gros-René.
 
 Lélie avait déjà trop causé de trouble dans l'esprit de tous nos Acteurs, pour ne pas venir faire paraître les siens sur la Scène : En effet, il n'y arrive pas plus tôt, que l'on voit la tristesse peinte sur son visage. Il fait voir que de la campagne où il était, il s'est rendu au plutôt à Paris, sur le bruit de l'hymen de Célie. Comme il est tout nouvellement arrivé, son valet le presse d'aller manger un morceau devant que d'aller apprendre des nouvelles de sa Maîtresse ; mais il n'y veut pas consentir, et voyant que son valet l'importune, il l'envoie manger, cependant qu'il va chercher à se délasser des fatigues de son voyage auprès de sa Maîtresse. Remarquez s'il vous plaît, ce que cette Scène contient, et je vous ferai voir en un autre endroit, que l'Auteur a infiniment de l'esprit, de l'avoir placée si à propos ; et pour vous en mieux faire ressouvenir, en voici les Vers.
 
-    GROSRENÉ
+    GROSRENÉ.
 Enfin nous y voici ; mais Monsieur, si je l'ose,  
 Je voudrais vous prier de me dire une chose.  
 
-    LÉLIE
+    LÉLIE.
 Hé bien, parle.  
 
-    GROSRENÉ
-Avez-vous le diable dans le corps  
+    GROSRENÉ.
+        Avez-vous le diable dans le corps  
 Pour ne pas succomber à de pareils efforts ?  
 Depuis huit jours entiers avec vos longues traites  
 Nous sommes à piquer de chiennes de mazettes,  
@@ -457,13 +457,13 @@ Qui m'afflige un endroit que je ne veux pas dire ;
 Cependant arrivé, vous sortez bien et beau,  
 Sans prendre de repos, ni manger un morceau.  
 
-    LÉLIE
+    LÉLIE.
 Ce grand empressement n'est point digne de blâme,  
 De l'hymen de Célie, on alarme mon âme ;  
 Tu sais que je l'adore, et je veux être instruit  
 Avant tout autre soin de ce funeste bruit.  
 
-    GROSRENÉ
+    GROSRENÉ.
 Oui, mais un bon repas vous serait nécessaire  
 Pour s'aller éclaircir, Monsieur, de cette affaire,  
 Et votre cœur sans doute en deviendrait plus fort  
@@ -477,31 +477,31 @@ Contre les coups que peut vous porter la fortune,
 Et pour fermer chez vous l'entrée à la douleur,  
 De vingt verres de vin entourez votre cœur.  
 
-    LÉLIE
+    LÉLIE.
 Je ne saurais manger.  
 
     GROSRENÉ, *à part ce demi-vers*.
-Si ferai bien, je meure.  
+        Si ferai bien, je meure.  
 Votre dîner pourtant serait prêt tout à l'heure.  
 
-    LÉLIE
+    LÉLIE.
 Tais-toi, je te l'ordonne.  
 
-    GROSRENÉ
-Ah ! quel ordre inhumain.  
+    GROSRENÉ.
+        Ah ! quel ordre inhumain.  
 
-    LÉLIE
+    LÉLIE.
 J'ai de l'inquiétude et non pas de la faim.  
 
-    GROSRENÉ
+    GROSRENÉ.
 Et moi j'ai de la faim, et de l'inquiétude  
 De voir qu'un sot amour fait toute votre étude.  
 
-    LÉLIE
+    LÉLIE.
 Laisse-moi m'informer de l'objet de mes vœux,  
 Et sans m'importuner, va manger si tu veux.  
 
-    GROSRENÉ
+    GROSRENÉ.
 Je ne réplique point à ce qu'un Maître ordonne.  
 
 
@@ -521,13 +521,13 @@ Sganarelle, Lélie
 
 C'est ici que l'Auteur fait voir qu'il ne sait pas moins bien représenter une Pièce, qu'il la sait composer ; puisque l'on ne vit jamais rien de si bien joué que cette Scène. Sganarelle ayant arraché à sa femme le portrait qu'elle lui venait de reprendre, vient pour le considérer à loisir, lorsque Lélie, voyant que cette boîte ressemblait fort à celle où était le portrait qu'il avait donné à sa Maîtresse, s'approche de lui pour le regarder par-dessus son épaule ; tellement que Sganarelle voyant qu'il n'a pas le loisir de considérer ce portrait comme il le voudrait bien, et que de quelque côté qu'il se puisse tourner, il est obsédé par Lélie : Et Lélie enfin de son côté ne doutant plus que ce ne soit son portrait, et impatient de savoir de qui Sganarelle peut l'avoir eu, s'enquiert de lui comment il est tombé entre ses mains. Ce désir étonne Sganarelle ; mais sa surprise cesse bientôt, lorsqu'après avoir bien examiné ce portrait, il reconnaît que c'est celui de Lélie. Il lui dit qu'il sait bien le souci qui le tient, qu'il connaît bien que c'est son portrait, et le prie de cesser un amour qu'un mari peut trouver fort mauvais. Lélie lui demande s'il est mari de celle qui conservait ce gage. Sganarelle lui dit qu'oui, et qu'il en est mari très marri, qu'il en sait bien la cause, et qu'il va sur l'heure l'apprendre aux parents de sa femme. Et moi cependant je m'en vais vous apprendre les vers de cette Scène. Il faut que vous preniez garde qu'un agréable malentendu est ce qui fait la beauté de cette Scène, et que subsistant pendant le reste de la pièce entre les quatre principaux Acteurs, qui sont Sganarelle, sa Femme, Lélie, et sa Maîtresse, qui ne s'entendent pas, il divertit merveilleusement l'auditeur, sans fatiguer son esprit, tant il naît naturellement, et tant sa conduite est admirable dans cette Pièce.
 
-    SGANARELLE
+    SGANARELLE.
 Nous l'avons, et je puis voir à l'aise la trogne  
 Du malheureux pendard qui cause ma vergogne.  
 Il ne m'est point connu.  
 
     LÉLIE *à part*.
-Dieux ! qu'aperçois-je ici ?  
+        Dieux ! qu'aperçois-je ici ?  
 Et si c'est mon portrait, que dois-je croire aussi ?  
 
     SGANARELLE *continue*.
@@ -538,10 +538,10 @@ Apercevant Lélie qui le regarde, il se retourne d'un autre côté.
 Faut…  
 
     LÉLIE *à part*.
-Ce gage ne peut sans alarmer ma foi,  
+        Ce gage ne peut sans alarmer ma foi,  
 Être sorti des mains qui le tenaient de moi.  
 
-    SGANARELLE
+    SGANARELLE.
 Faut-il que désormais à deux doigts on te montre,  
 Qu'on te mette en chansons, et qu'en toute rencontre,  
 On te rejette au nez le scandaleux affront  
@@ -550,8 +550,8 @@ Qu'une femme mal née imprime sur ton front ?
     LÉLIE *à part*.
 Me trompai-je ?  
 
-    SGANARELLE
-Ah ! truande, as-tu bien le courage  
+    SGANARELLE.
+        Ah ! truande, as-tu bien le courage  
 De m'avoir fait cocu dans la fleur de mon âge ?  
 Et femme d'un mari qui peut passer pour beau,  
 Faut-il qu'un Marmouset, un maudit Étourneau…  
@@ -563,21 +563,21 @@ Je ne m'abuse point, c'est mon portrait lui-même.
 Cet homme est curieux.  
 
     LÉLIE *à part*.
-Ma surprise est extrême.  
+        Ma surprise est extrême.  
 
-    SGANARELLE
+    SGANARELLE.
 À qui donc en a-t-il.  
 
     LÉLIE *à part*.
-Je le veux accoster.  
+        Je le veux accoster.  
 Haut.
 
 Puis-je… hé ! de grâce un mot.  
 
     SGANARELLE *le fuit encore*.
-Que me veut-il conter ?  
+        Que me veut-il conter ?  
 
-    LÉLIE
+    LÉLIE.
 Puis-je obtenir de vous, de savoir l'aventure,  
 Qui fait dedans vos mains trouver cette peinture ?  
 
@@ -587,10 +587,10 @@ Ah ! ma foi me voilà de son trouble éclairci,
 Sa surprise à présent n'étonne plus mon âme,  
 C'est mon homme, ou plutôt c'est celui de ma femme.  
 
-    LÉLIE
+    LÉLIE.
 Retirez‑moi de peine et dites d'où vous vient…  
 
-    SGANARELLE
+    SGANARELLE.
 Nous savons Dieu merci le souci qui vous tient,  
 Ce portrait qui vous fâche est votre ressemblance,  
 Il était en des mains de votre connaissance,  
@@ -602,16 +602,16 @@ Mais faites-moi celui de cesser désormais
 Un amour qu'un mari peut trouver fort mauvais,  
 Et songez que les nœuds du sacré mariage…  
 
-    LÉLIE
+    LÉLIE.
 Quoi, celle, dites-vous dont vous tenez ce gage…  
 
-    SGANARELLE
+    SGANARELLE.
 Est ma femme, et je suis son mari.  
 
-    LÉLIE
-Son mari ?  
+    LÉLIE.
+        Son mari ?  
 
-    SGANARELLE
+    SGANARELLE.
 Oui, son mari, vous dis-je, et mari très marri,  
 Vous en savez la cause et je m'en vais l'apprendre  
 Sur l'heure à ses parents.  
@@ -624,7 +624,7 @@ Lélie seul.
 Lélie se plaint dans cette Scène de l'infidélité de sa Maîtresse, et l'outrage qu'elle lui fait, ne l'abattant pas moins que les longs travaux de son voyage, le fait tomber en faiblesse. Plusieurs ont assez ridiculement repris cette Scène, sans avoir pour justifier leur impertinence, autre chose à dire sinon que l'infidélité d'une Maîtresse n'était pas capable de faire évanouir un homme. D'autres ont dit encore, que cet évanouissement était mal placé, et que l'on voyait bien que l'Auteur ne s'en était servi que pour faire naître l'incident qui paraît ensuite. Mais je répondrai en deux mots aux uns et aux autres : et je dis d'abord aux premiers, qu'ils n'ont pas bien considéré, que l'Auteur avait préparé cet incident longtemps devant, et que l'infidélité de la Maîtresse de Lélie, n'est pas seule la cause de son évanouissement, qu'il en a encore deux puissantes raisons, dont l'une est les longs et pénibles travaux d'un voyage de huit jours qu'il avait fait en poste, et l'autre qu'il n'avait point mangé depuis son arrivée, comme l'Auteur l'a découvert ci-devant aux Auditeurs, en faisant que Gros-René le presse d'aller manger un morceau afin de pouvoir résister aux attaques du sort (et c'est pour cela que je vous ai prié de remarquer la Scène qu'ils font ensemble) tellement il n'est pas impossible qu'un homme qui arrive d'un long voyage, qui n'a point mangé depuis son arrivée, et qui apprend l'infidélité d'une Maîtresse, s'évanouisse. Voilà ce que j'ai à dire aux premiers censeurs de cet incident miraculeux. Pour ce qui regarde les seconds, quoiqu'ils paraissent le reprendre avec plus de justice, je les confondrai encore plus tôt, et pour commencer à leur faire voir leur ignorance, je veux leur accorder que l'Auteur n'a fait évanouir Lélie, que pour donner lieu à l'incident qui suit ; mais ne doivent-ils pas savoir que quand un Auteur a un bel incident à insérer dans une Pièce, s'il trouve des moyens vraisemblables pour le faire naître, il en doit d'autant être plus estimé, que la chose est beaucoup plus difficile, et qu'au contraire, s'il ne le fait paraître que par des moyens erronés et tirés par la queue, il doit passer pour un ignorant, puisque c'est une des qualités la plus nécessaire à un Auteur, que de savoir inventer avec vraisemblance ; c'est pourquoi, puisqu'il y a tant de possibilité et de vraisemblance dans l'évanouissement de Lélie, que l'on pourrait dire qu'il était absolument nécessaire qu'il s'évanouisse, puisqu'il aurait paru peu amoureux si, étant arrivé à Paris, il s'était allé amuser à manger, au lieu d'aller trouver sa Maîtresse : ils condamnent des choses qu'ils devraient estimer, puisque la conduite de cet incident avec toutes les préparations nécessaires, fait voir que l'Auteur pense mûrement à ce qu'il fait, et que rien ne se peut égaler à la solidité de son esprit. Voilà quelle est ma pensée là-dessus, et pour vous montrer que les raisons que j'ai apportées sont vraies, vous n'avez qu'à lire ces vers.
 
     LÉLIE *seul*.
-Ah ! que viens-je d'entendre ?  
+        Ah ! que viens-je d'entendre ?  
 L'on me l'avait bien dit, et que c'était de tous  
 L'homme le plus mal fait qu'elle avait pour époux.  
 Ah ! quand mille serments de ta bouche infidèle  
@@ -647,14 +647,14 @@ Voyons si quelqu'un n'aura point de pitié de ce pauvre Amant qui tombe en faibl
 Malgré moi mon perfide… hélas ! quel mal vous presse ?  
 Je vous vois prêt Monsieur à tomber en faiblesse.  
 
-    LÉLIE
+    LÉLIE.
 C'est un mal qui m'a pris assez subitement.  
 
     LA FEMME DE SGANARELLE.
 Je crains ici, pour vous l'évanouissement,  
 Entrez dans cette salle en attendant qu'il passe.  
 
-    LÉLIE
+    LÉLIE.
 Pour un moment ou deux, j'accepte cette grâce.  
 
 
@@ -664,7 +664,7 @@ Sganarelle et le Parent de sa Femme.
 
 Il faudrait avoir le pinceau de Poussin, Le Brun, et Mignard, pour vous représenter avec quelle posture Sganarelle se fait admirer dans cette Scène, où il paraît avec un parent de sa femme. L'on n'a jamais vu tenir de discours si naïfs, ni paraître avec un visage si niais, et l'on ne doit pas moins admirer l'Auteur pour avoir fait cette Pièce, que pour la manière dont il la représente. Jamais personne ne sut si bien démonter son visage, et l'on peut dire que dedans cette Pièce, il en change plus de vingt fois ; mais comme c'est un divertissement que vous ne pouvez avoir à moins que de venir à Paris, voir représenter cet incomparable ouvrage, je ne vous en dirai pas davantage, pour passer aux choses dont je puis plus aisément vous faire part. Ce bon Vieillard remontre à Sganarelle, que le trop de promptitude expose souvent à l'erreur, que tout ce qui regarde l'honneur est délicat : ensuite il lui dit qu'il s'informe mieux comment ce portrait est tombé entre les mains de sa femme, et que s'il se trouve qu'elle soit criminelle, il sera le premier à punir son offense. Il se retire après cela. Comme je n'ai pu dans cette Scène vous envoyer le portrait du visage de Sganarelle, en voici les Vers.
 
-    LE PARENT
+    LE PARENT.
 D'un mari sur ce point j'approuve le souci ;  
 Mais c'est prendre la chèvre un peu bien vite aussi,  
 Et tout ce que de vous je viens d'ouïr contre elle,  
@@ -672,10 +672,10 @@ Ne conclut point, Parent, qu'elle soit criminelle ;
 C'est un point délicat et de pareils forfaits,  
 Sans les bien avérer ne s'imputent jamais.  
 
-    SGANARELLE
+    SGANARELLE.
 C'est-à-dire qu'il faut toucher au doigt la chose.  
 
-    LE PARENT
+    LE PARENT.
 Le trop de promptitude à l'erreur nous expose.  
 Qui sait comme en ses mains ce portrait est venu,  
 Et si l'homme après tout lui peut être connu.  
@@ -683,7 +683,7 @@ Informez-vous-en donc, et si c'est ce qu'on pense,
 Nous serons les premiers à punir son offense.  
 
 
-### Scène XIII
+### Scène XIII.
 Sganarelle seul.
 
 
@@ -706,7 +706,7 @@ Sganarelle, sa Femme, Lélie, *sur la porte de Sganarelle, en parlant à sa Femm
 Je ne vous dis rien de cette Scène, et je vous laisse juger par ces vers de la surprise de Sganarelle.
 
     SGANARELLE *poursuit*.
-Ah ! que vois-je, je meure,  
+        Ah ! que vois-je, je meure,  
 Il n'est plus question de portrait à cette heure,  
 Voici ma foi la chose en propre original.  
 
@@ -714,7 +714,7 @@ Voici ma foi la chose en propre original.
 C'est par trop vous hâter Monsieur, et votre mal,  
 Si vous sortez si tôt pourra bien vous reprendre.  
 
-    LÉLIE
+    LÉLIE.
 Non non, je vous rends grâce autant qu'on puisse rendre,  
 De l'obligeant secours que vous m'avez prêté.  
 
@@ -728,10 +728,10 @@ Sganarelle, Lélie.
 
 Lélie donne sans y penser le change à Sganarelle dans cette Scène, et ne le surprend pas moins que l'autre a tantôt fait, en lui disant qu'il tenait son portrait des mains de sa femme. Pour mieux juger de la surprise de Sganarelle, vous pouvez lire ces Vers, dont le dernier est placé si à propos, que jamais Pièce entière n'a fait tant d'éclat que ce vers seul.
 
-    SGANARELLE *à part.*
+    SGANARELLE *à part.*.
 Il m'aperçoit, voyons ce qu'il me pourra dire.  
 
-    LÉLIE *à part.*
+    LÉLIE *à part.*.
 Ah ! mon âme s'émeut et cet objet m'inspire…  
 Mais je dois condamner cet injuste transport,  
 Et n'imputer mes maux qu'aux rigueurs de mon sort.  
@@ -747,7 +747,7 @@ Sganarelle, Célie, regardant aller Lélie.
 
 L'on peut dire que cette Scène en contient deux, puisque Sganarelle fait une espèce de Monologue, pendant que Célie, qui avait vu sortir son Amant d'avec lui, le conduit des yeux, jusqu'à ce qu'elle l'ait perdu de vue, pour voir si elle ne s'est point trompée. Sganarelle, de son côté, regarde aussi en aller Lélie, et fait voir le dépit qu'il a de ne lui avoir pas fait insulte, après l'assurance qu'il croit avoir d'être Cocu de lui. Célie lui ayant laissé jeter la plus grande partie de son feu, s'en approche pour lui demander, si celui qui vient de parler ne lui est pas connu ; mais il lui répond avec sa naïveté ordinaire, que c'est sa femme qui le connaît et découvre peu à peu, mais d'une manière tout à fait agréable, que Lélie le déshonore. C'est ici que l'équivoque divertit merveilleusement l'Auditeur, puisque Célie détestant la perfidie de son Amant, jetant feu et flammes contre lui, et sortant à dessein de s'en venger, Sganarelle croit qu'elle prend sa défense, et qu'elle ne court à dessein de le punir que pour l'amour de lui. Comme les vers de cette scène donnent à l'Auditeur un plaisir extraordinaire, il ne serait pas juste de vous priver de ce contentement, c'est pourquoi en jetant les yeux sur les lignes suivantes, vous pourrez connaître que l'Auteur sait parfaitement bien conduire un équivoque.
 
-    SGANARELLE *sans voir célie.*
+    SGANARELLE *sans voir célie.*.
 Ce n'est point s'expliquer en termes ambigus,  
 Cet étrange propos me rend aussi confus  
 Que s'il m'était venu des cornes à la tête.  
@@ -755,11 +755,11 @@ Allez, ce procédé n'est point du tout honnête.
 Il se tourne du côté que Lélie s'en vient d'en aller.
 
 
-    CÉLIE *à part.*
+    CÉLIE *à part.*.
 Quoi, Lélie a paru tout à l'heure à mes yeux,  
 Qui pourrait me cacher son retour en ces lieux ?  
 
-    SGANARELLE *poursuit.*
+    SGANARELLE *poursuit.*.
 Oh ! trop heureux, d'avoir une si belle femme,  
 Malheureux bien plutôt de l'avoir cette infâme,  
 Dont le coupable feu trop bien vérifié,  
@@ -773,25 +773,25 @@ Lui ruer quelque pierre, ou crotter son manteau,
 Et sur lui hautement pour contenter ma rage  
 Faire au larron d'honneur crier le voisinage.  
 
-    CÉLIE
+    CÉLIE.
 Celui qui maintenant devers vous est venu  
 Et qui vous a parlé, d'où vous est-il connu ?  
 
-    SGANARELLE
+    SGANARELLE.
 Hélas ! ce n'est pas moi qui le connais Madame,  
 C'est ma femme.  
 
-    CÉLIE
-Quel trouble agite ainsi votre âme ?  
+    CÉLIE.
+        Quel trouble agite ainsi votre âme ?  
 
-    SGANARELLE
+    SGANARELLE.
 Ne me condamnez point d'un deuil hors de saison,  
 Et laissez-moi pousser des soupirs à foison.  
 
-    CÉLIE
+    CÉLIE.
 D'où vous peuvent venir ces douleurs non communes ?  
 
-    SGANARELLE
+    SGANARELLE.
 Si je suis affligé, ce n'est pas pour des prunes,  
 Et je le donnerais à bien d'autre qu'à moi  
 De se voir sans chagrin au point où je me vois.  
@@ -800,82 +800,82 @@ On dérobe l'honneur au pauvre Sganarelle ;
 Mais c'est peu que l'honneur dans mon affliction,  
 L'on me dérobe encor la réputation.  
 
-    CÉLIE
+    CÉLIE.
 Comment ?  
 
-    SGANARELLE
-Ce Damoiseau, parlant par révérence  
+    SGANARELLE.
+        Ce Damoiseau, parlant par révérence  
 Me fait cocu Madame, avec toute licence ;  
 Et j'ai su par mes yeux avérer aujourd'hui  
 Le commerce secret de ma femme et de lui.  
 
-    CÉLIE
+    CÉLIE.
 Celui qui maintenant…  
 
-    SGANARELLE 
-Oui, oui, me déshonore,  
+    SGANARELLE.
+        Oui, oui, me déshonore,  
 Il adore ma femme, et ma femme l'adore.  
 
-    CÉLIE
+    CÉLIE.
 Ah ! j'avais bien jugé que ce secret retour  
 Ne pouvait me couvrir que quelque lâche tour,  
 Et j'ai tremblé d'abord, en le voyant paraître,  
 Par un pressentiment de ce qui devait être.  
 
-    SGANARELLE
+    SGANARELLE.
 Vous prenez ma défense avec trop de bonté,  
 Tout le monde n'a pas la même charité  
 Et plusieurs qui tantôt ont appris mon martyre,  
 Bien loin d'y prendre part, n'en ont rien fait que rire.  
 
-    CÉLIE
+    CÉLIE.
 Est-il rien de plus noir que ta lâche action,  
 Et peut-on lui trouver une punition ?  
 Dois-tu ne te pas croire indigne de la vie,  
 Après t'être souillé de cette perfidie ?  
 Ô Ciel ! est-il possible ?  
 
-    SGANARELLE
-Il est trop vrai pour moi.  
+    SGANARELLE.
+        Il est trop vrai pour moi.  
 
-    CÉLIE
+    CÉLIE.
 Ah ! traître, scélérat, âme double et sans foi.  
 
-    SGANARELLE
+    SGANARELLE.
 La bonne âme.  
 
-    CÉLIE
-Non, non, l'Enfer n'a point de gêne  
+    CÉLIE.
+        Non, non, l'Enfer n'a point de gêne  
 Qui ne soit pour ton crime une trop douce peine.  
 
-    SGANARELLE
+    SGANARELLE.
 Que voilà bien parler !  
 
-    CÉLIE
-Avoir ainsi traité  
+    CÉLIE.
+        Avoir ainsi traité  
 Et la même innocence, et la même bonté.  
 
-    SGANARELLE
+    SGANARELLE.
 Il soupire haut.
 
 Hay.  
 
-    CÉLIE
-Un cœur, qui jamais n'a fait la moindre chose  
+    CÉLIE.
+        Un cœur, qui jamais n'a fait la moindre chose  
 A mérité l'affront où ton mépris l'expose ?  
 
-    SGANARELLE
+    SGANARELLE.
 Il est vrai.  
 
-    CÉLIE
-Qui bien loin… Mais c'est trop, et ce cœur  
+    CÉLIE.
+        Qui bien loin… Mais c'est trop, et ce cœur  
 Ne saurait y songer sans mourir de douleur.  
 
-    SGANARELLE
+    SGANARELLE.
 Ne vous fâchez point tant ma très chère Madame,  
 Mon mal vous touche trop et vous me percez l'âme.  
 
-    CÉLIE
+    CÉLIE.
 Mais ne t'abuse pas jusqu'à te figurer  
 Qu'à des plaintes sans fruit j'en veuille demeurer,  
 Mon cœur pour se venger sait ce qu'il te faut faire,  
@@ -888,7 +888,7 @@ Sganarelle seul.
 
 Si j'avais tantôt besoin de ces excellents Peintres que je vous ai nommés, pour vous dépeindre le visage de Sganarelle ; j'aurais maintenant besoin et de leur pinceau et de la plume des plus excellents Orateurs pour vous décrire cette Scène. Jamais il ne se vit rien de plus beau, jamais rien de mieux joué, et jamais Vers ne furent si généralement estimés. Sganarelle joue seul dans cette Scène, repassant dans son esprit tout ce que l'on peut dire d'un Cocu, et les raisons pour lesquelles il ne s'en doit pas mettre en peine, s'en démêle si bien, que son raisonnement pourrait en un besoin consoler ceux qui sont de ce nombre. Je vous envoie les Vers de cette Scène, afin que si vous connaissez quelqu'un à votre pays qui soit de la Confrérie dont Sganarelle se croit être, vous le puissiez par-là retirer de la mélancolie où il pourrait s'être plongé.
 
-    SGANARELLE *seul.*
+    SGANARELLE *seul.*.
 Que le Ciel la préserve à jamais de danger.  
 Voyez quelle bonté de vouloir me venger :  
 En effet, son courroux qu'excite ma disgrâce,  
@@ -971,7 +971,7 @@ Gorgibus, Célie, La Suivante.
 
 Célie n'ayant point trouvé de moyen plus propre pour punir son amant que d'épouser Valère, dit à son père qu'elle est prête de suivre en tout ses volontés, de quoi le bon vieillard témoigne être beaucoup satisfait, comme vous pouvez voir par ces Vers.
 
-    CÉLIE
+    CÉLIE.
 Oui, je veux bien subir une si juste Loi  
 Mon père, disposez de mes vœux et de moi,  
 Faites quand vous voudrez signer cette hyménée,  
@@ -979,7 +979,7 @@ Faites quand vous voudrez signer cette hyménée,
 Je prétends gourmander mes propres sentiments  
 Et me soumettre en tout à vos commandements.  
 
-    GORGIBUS 
+    GORGIBUS.
 Ah ! voilà qui me plaît de parler de la sorte,  
 Parbleu, si grande joie à l'heure me transporte,  
 Que mes jambes sur l'heure en cabrioleraient  
@@ -998,23 +998,23 @@ Célie, la Suivante.
 
 Vous pourrez dans les cinq Vers qui suivent, apprendre tout le sujet de cette Scène.
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Ce changement m'étonne.  
 
-    CÉLIE
-Et lorsque tu sauras  
+    CÉLIE.
+        Et lorsque tu sauras  
 Par quel motif j'agis tu m'en estimeras.  
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Cela pourrait bien être.  
 
-    CÉLIE
-Apprends donc que Lélie,  
+    CÉLIE.
+        Apprends donc que Lélie,  
 A pu blesser mon cœur par une perfidie,  
 Qu'il était en ces lieux sans…  
 
-    LA SUIVANTE
-Mais il vient à nous.  
+    LA SUIVANTE.
+        Mais il vient à nous.  
 
 
 ### Scène XX.
@@ -1023,27 +1023,27 @@ Lélie, Célie, la Suivante.
 
 Dans cette Scène, Lélie qui avait fait dessein de s'en retourner, vient trouver Célie, pour lui dire un éternel adieu, et se plaindre de son infidélité, dans la pensée qu'il a, qu'elle est mariée à Sganarelle ; lorsque Célie, qui croit avoir plus de lieu de se plaindre que lui, lui reproche de son côté sa perfidie, ce qui ne donne pas un médiocre contentement à l'auditeur, qui connaît l'innocence de l'un et de l'autre, et comme vous la connaissez aussi, je crois que ces vers vous pourront divertir.
 
-    LÉLIE
+    LÉLIE.
 Avant que pour jamais je m'éloigne de vous ;  
 Je veux vous reprocher au moins en cette place…  
 
-    CÉLIE
+    CÉLIE.
 Quoi me parler encore, avez-vous cette audace ?  
 
-    LÉLIE
+    LÉLIE.
 Il est vrai qu'elle est grande et votre choix est tel  
 Qu'à vous rien reprocher je serais criminel,  
 Vivez, vivez contente et bravez ma mémoire  
 Avec le digne Époux qui vous comble de gloire.  
 
-    CÉLIE
+    CÉLIE.
 Oui traître j'y veux vivre, et mon plus grand désir  
 Ce serait que ton cœur en eût du déplaisir.  
 
-    LÉLIE
+    LÉLIE.
 Qui rend donc contre moi ce courroux légitime ?  
 
-    CÉLIE
+    CÉLIE.
 Quoi tu fais le surpris, et demandes ton crime ?  
 
 
@@ -1053,23 +1053,23 @@ Célie, Lélie, Sganarelle, la Suivante.
 
 Sganarelle, qui comme vous avez vu dans la fin de la belle Scène (puisqu'elle n'a point à présent d'autre nom dans Paris) a pris résolution de se venger de Lélie, vient pour cet effet dans cette Scène, armé de toutes pièces ; et comme il ne se l'aperçoit pas d'abord, il ne lui promet pas moins que la mort dès qu'il le rencontrera. Mais comme il est de ceux qui n'exterminent leurs ennemis que quand ils sont absents, aussitôt qu'il aperçoit Lélie, bien loin de lui passer l'épée au travers du corps, il ne lui fait que des révérences, et puis se retirant à quartier, il s'excite à faire quelque effort généreux et à le tuer par-derrière : et se mettant après en colère contre lui-même de ce que sa poltronnerie ne lui permet pas seulement de le regarder entre deux yeux, il se punit lui-même de sa lâcheté, par les coups et les soufflets qu'il se donne, et l'on peut dire, que quoique bien souvent l'on ait vu des Scènes semblables, Sganarelle sait si bien animer cette action, qu'elle paraît nouvelle au Théâtre. Cependant que Sganarelle se tourmente ainsi lui-même, Célie et son Amant n'ont pas moins d'inquiétude que lui, et ne se reprochent que par des regards enflammés de courroux, leur infidélité imaginaire ; la colère, quand elle est montée jusqu'à l'excès, ne nous laissant pour l'ordinaire que le pouvoir de dire peu de paroles. Célie est la première qui à la vue de Sganarelle dit à son Amant de jeter les yeux sur lui, et qu'il verra de quoi le faire ressouvenir de son crime ; mais comment y trouverait-il de quoi le confondre, puisque c'est par-là qu'il prétend la confondre elle-même. Il se passe encore quantité de choses dans cette Scène, qui confirment les soupçons de l'un et de l'autre ; mais de peur de vous ennuyer trop longtemps par ma Prose, j'ai recours aux Vers que voici pour vous les expliquer.
 
-     SGANARELLE *entre armé.*
+    SGANARELLE *entre armé.*.
 Guerre, guerre mortelle, à ce larron d'honneur,  
 Qui sans miséricorde a souillé notre honneur.  
 
-    CÉLIE *à Lélie.*
+    CÉLIE *à Lélie.*.
 Tourne, tourne les yeux sans me faire répondre.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! je vois…  
 
-    CÉLIE
-Cet objet suffit pour te confondre.  
+    CÉLIE.
+        Cet objet suffit pour te confondre.  
 
-    LÉLIE
+    LÉLIE.
 Mais pour vous obliger bien plutôt à rougir.  
 
-    SGANARELLE
+    SGANARELLE.
 Ma colère à présent est en état d'agir,  
 Dessus ses grands chevaux est monté mon courage,  
 Et si je le rencontre on verra du carnage :  
@@ -1077,99 +1077,99 @@ Oui j'ai juré sa mort, rien ne peut m'empêcher,
 Où je le trouverai, je le veux dépêcher,  
 Au beau milieu du cœur il faut que je lui donne…  
 
-    LÉLIE
+    LÉLIE.
 À qui donc en veut-on ?  
 
-    SGANARELLE
-Je n'en veux à personne.  
+    SGANARELLE.
+        Je n'en veux à personne.  
 
-    LÉLIE
+    LÉLIE.
 Pourquoi ces armes-là ?  
 
-    SGANARELLE
-C'est un habillement  
+    SGANARELLE.
+        C'est un habillement  
 Que j'ai pris pour la pluie.  
 À part.
 
-Ah ! quel contentement  
+        Ah ! quel contentement  
 J'aurais à le tuer, prenons-en le courage.  
 
-    LÉLIE
+    LÉLIE.
 Hay ?  
 
-    SGANARELLE *se donnant des coups de poings sur l'estomac, et des soufflets pour s'exciter.*
-Je ne parle pas.  
+    SGANARELLE *se donnant des coups de poings sur l'estomac, et des soufflets pour s'exciter.*.
+    Je ne parle pas.  
 À part.
 
-Ah ! poltron dont j'enrage,  
+        Ah ! poltron dont j'enrage,  
 Lâche, vrai cœur de poule.  
 
-    CÉLIE
-Il t'en doit dire assez  
+    CÉLIE.
+        Il t'en doit dire assez  
 Cet objet, dont tes yeux nous paraissent blessés.  
 
-    LÉLIE
+    LÉLIE.
 Oui, je connais par là que vous êtes coupable  
 De l'infidélité la plus inexcusable,  
 Qui jamais d'un amant puisse outrager la foi.  
 
-    SGANARELLE *à part.*
+    SGANARELLE *à part.*.
 Que n'ai-je un peu de cœur.  
 
-    CÉLIE
-Ah ! cesse devant moi,  
+    CÉLIE.
+        Ah ! cesse devant moi,  
 Traître, de ce discours l'insolence cruelle.  
 
-    SGANARELLE
+    SGANARELLE.
 Sganarelle, tu vois qu'elle prend ta querelle,  
 Courage mon enfant, sois un peu vigoureux,  
 Là, hardi, tâche à faire un effort généreux,  
 En le tuant, tandis qu'il tourne le derrière.  
 
-    LÉLIE *faisant deux ou trois pas sans dessein, fait retourner sganarelle qui s'approchait pour le tuer.*
+    LÉLIE *faisant deux ou trois pas sans dessein, fait retourner sganarelle qui s'approchait pour le tuer.*.
 Puisqu'un pareil discours émeut votre colère,  
 Je dois de votre cœur me montrer satisfait,  
 Et l'applaudir ici du beau choix qu'il a fait.  
 
-    CÉLIE
+    CÉLIE.
 Oui oui, mon choix est tel qu'on n'y peut rien reprendre.  
 
-    LÉLIE
+    LÉLIE.
 Allez, vous faites bien de le vouloir défendre.  
 
-    SGANARELLE
+    SGANARELLE.
 Sans doute elle fait bien de défendre mes droits :  
 Cette action Monsieur, n'est point selon les lois,  
 J'ai raison de m'en plaindre et si je n'étais sage,  
 On verrait arriver un étrange carnage.  
 
-    LÉLIE
+    LÉLIE.
 D'où vous naît cette plainte ? et quel chagrin brutal…  
 
-    SGANARELLE
+    SGANARELLE.
 Suffit, vous savez bien où le bois me fait mal ;  
 Mais votre conscience et le soin de votre âme  
 Vous devraient mettre aux yeux que ma femme est ma femme,  
 Et vouloir à ma barbe en faire votre bien,  
 Que ce n'est pas du tout agir en bon Chrétien.  
 
-    LÉLIE
+    LÉLIE.
 Un semblable soupçon est bas et ridicule,  
 Allez, dessus ce point n'ayez aucun scrupule,  
 Je sais qu'elle est à vous, et bien loin de brûler…  
 
-    CÉLIE
+    CÉLIE.
 Ah ! qu'ici si tu sais bien traître, dissimuler.  
 
-    LÉLIE
+    LÉLIE.
 Quoi me soupçonnez-vous d'avoir une pensée  
 De qui son âme ait lieu de se croire offensée ?  
 De cette lâcheté voulez-vous me noircir ?  
 
-    CÉLIE
+    CÉLIE.
 Parle, parle à lui-même, il pourra t'éclaircir.  
 
-    SGANARELLE
+    SGANARELLE.
 Vous me défendez mieux que je ne saurais faire,  
 Et du biais qu'il faut vous prenez cette affaire.  
 
@@ -1180,7 +1180,7 @@ Célie, Lélie, Sganarelle, sa Femme, la Suivante.
 
 Dans la quatrième Scène de cette Pièce, la femme de Sganarelle, qui avait pris de la jalousie en voyant Célie entre les bras de son mari, vient pour lui faire des reproches (ce qui fait voir la merveilleuse conduite de cet ouvrage). Jugez de la beauté qu'un agréable malentendu produit dans cette Scène. Sganarelle croit que sa femme vient pour défendre son galant, sa femme croit qu'il aime Célie, Célie croit qu'elle vient ingénument se plaindre d'elle à cause qu'elle est avec Lélie, et lui en fait des reproches ; et Lélie enfin ne sait ce qu'on lui vient conter, et croit toujours que Célie a épousé Sganarelle. Quoique cette scène donne un plaisir incroyable à l'auditeur, elle ne peut pas durer plus longtemps sans trop de confusion, et je gage que vous souhaitez déjà de voir comment toutes ces personnes sortiront de l'embarras où ils se rencontrent ; mais je vous le donnerais bien à deviner en quatre coups, sans que vous en puissiez venir à bout. Peut-être vous persuadez-vous qu'il va venir quelqu'un qui sans y penser lui-même, les tirera de leur erreur : peut-être croyez vous aussi qu'à force de s'animer les uns contre les autres, quelqu'un venant à se justifier, leur fera voir à tous qu'ils s'abusent ; Mais ce n'est point tout cela, et l'Auteur s'est servi d'un moyen dont personne ne s'est jamais avisé, et que vous pourrez savoir si vous lisez les vers de cette Scène.
 
-    LA FEMME DE SGANARELLE *à Célie.*
+    LA FEMME DE SGANARELLE *à Célie.*.
 Je ne suis point d'humeur à vouloir contre vous  
 Faire éclater Madame, un esprit trop jaloux ;  
 Mais je ne suis point dupe, et vois ce qui se passe :  
@@ -1188,25 +1188,25 @@ Il est de certains feux de fort mauvaise grâce,
 Et votre âme devrait prendre un meilleur emploi,  
 Que de séduire un cœur qui doit n'être qu'à moi.  
 
-    CÉLIE
+    CÉLIE.
 La déclaration est assez ingénue.  
 
-    SGANARELLE *à sa femme.*
+    SGANARELLE *à sa femme.*.
 L'on ne demandait pas carogne ta venue,  
 Tu la viens quereller lorsqu'elle me défend,  
 Et tu trembles de peur qu'on t'ôte ton galant.  
 
-    CÉLIE
+    CÉLIE.
 Allez, ne croyez pas que l'on en ait envie.  
 Se tournant vers Lélie.
 
 Tu vois si c'est mensonge, et j'en suis fort ravie.  
 
-    LÉLIE
+    LÉLIE.
 Que me veut‑on conter ?  
 
-    LA SUIVANTE
-Ma foi je ne sais pas.  
+    LA SUIVANTE.
+        Ma foi je ne sais pas.  
 Quand on verra finir ce galimatias,  
 Déjà depuis longtemps je tâche à le comprendre,  
 Et si plus je l'écoute, et moins je puis l'entendre ;  
@@ -1218,55 +1218,55 @@ Répondez-moi par ordre et me laissez parler.
 
 Vous, qu'est-ce qu'à son cœur peut reprocher le vôtre ?  
 
-    LÉLIE
+    LÉLIE.
 Que l'infidèle a pu me quitter pour un autre :  
 Et que lorsque sur le bruit de son Hymen fatal,  
 J'accours tout transporté d'un amour sans égal,  
 Dont l'ardeur résistait à se croire oubliée,  
 Mon abord en ces lieux la trouve mariée.  
 
-    LA SUIVANTE 
+    LA SUIVANTE.
 Mariée, à qui donc ?  
 
-    LÉLIE *montrant sganarelle.*
-À lui.  
+    LÉLIE *montrant sganarelle.*.
+    À lui.  
 
-    LA SUIVANTE
-Comment à lui ?  
+    LA SUIVANTE.
+        Comment à lui ?  
 
-    LÉLIE
+    LÉLIE.
 Oui-dà.  
 
-    LA SUIVANTE
-Qui vous l'a dit ?  
+    LA SUIVANTE.
+    Qui vous l'a dit ?  
 
-    LÉLIE
-C'est lui-même aujourd'hui.  
+    LÉLIE.
+        C'est lui-même aujourd'hui.  
 
-    LA SUIVANTE *à sganarelle.*
+    LA SUIVANTE *à sganarelle.*.
 Est-il vrai ?  
 
-    SGANARELLE
-Moi, j'ai dit que c'était à ma femme  
+    SGANARELLE.
+        Moi, j'ai dit que c'était à ma femme  
 Que j'étais marié.  
 
-    LÉLIE
-Dans un grand trouble d'âme,  
+    LÉLIE.
+        Dans un grand trouble d'âme,  
 Tantôt de mon portrait je vous ai vu saisi.  
 
-    SGANARELLE
+    SGANARELLE.
 Il est vrai, le voilà.  
 
-    LÉLIE
-Vous m'avez dit aussi,  
+    LÉLIE.
+        Vous m'avez dit aussi,  
 Que celle aux mains de qui vous aviez pris ce gage,  
 Était liée à vous des nœuds du mariage.  
 
-    SGANARELLE *montrant sa femme.*
+    SGANARELLE *montrant sa femme.*.
 Sans doute, et je l'avais de ses mains arraché,  
 Et n'eusse pas sans lui découvert son péché.  
 
-    LA FEMME DE SGANARELLE
+    LA FEMME DE SGANARELLE.
 Que me viens-tu conter par ta plainte importune ?  
 Je l'avais sous mes pieds rencontré par fortune,  
 Et même quand après ton injuste courroux  
@@ -1275,34 +1275,34 @@ Montrant Lélie.
 
 Je n'ai pas reconnu les traits de sa peinture.  
 
-    CÉLIE
+    CÉLIE.
 C'est moi qui du portrait ai causé l'aventure,  
 Et je l'ai laissé choir en cette pâmoison  
 À Sganarelle.
 
 Qui m'a fait par vos soins remettre à la maison.  
 
-    LA SUIVANTE
+    LA SUIVANTE.
 Vous voyez que sans moi vous y seriez encore,  
 Et vous aviez besoin de mon peu d'Ellébore.  
 
-    SGANARELLE
+    SGANARELLE.
 Prendrons-nous tout ceci pour de l'argent comptant ?  
 Mon front l'a sur mon âme eu bien chaude pourtant.  
 
-    SA FEMME 
+    SA FEMME.
 Ma crainte toutefois n'est pas trop dissipée  
 Et doux que soit le mal, je crains d'être trompée.  
 
-    SGANARELLE 
+    SGANARELLE.
 Hé ! mutuellement croyons-nous gens de bien,  
 Je risque plus du mien que tu ne fais du tien :  
 Accepte sans façon le marché qu'on propose.  
 
-    SA FEMME
+    SA FEMME.
 Soit, mais gare le bois si j'apprends quelque chose.  
 
-    CÉLIE, *à Lélie, après avoir parlé bas ensemble.*
+    CÉLIE, *à Lélie, après avoir parlé bas ensemble.*.
 Ah ! Dieux ! s'il est ainsi, qu'est-ce donc que j'ai fait ?  
 Je dois de mon courroux appréhender l'effet :  
 Oui, vous croyant sans foi, j'ai pris pour ma vengeance  
@@ -1312,8 +1312,8 @@ Un hymen que toujours j'eus lieu de rebuter,
 J'ai promis à mon père, et ce qui me désole…  
 Mais je le vois venir.  
 
-    LÉLIE
-Il me tiendra parole.  
+    LÉLIE.
+        Il me tiendra parole.  
 
 
 ### Scène XXIII.
@@ -1322,47 +1322,47 @@ Célie, Lélie, Gorgibus, Sganarelle, sa Femme, la Suivante
 
 Lélie, dans cette Scène, demande l'effet de sa parole à Gorgibus. Gorgibus lui refuse sa fille, et Célie ne se résout qu'à peine d'obéir à son père, comme vous pouvez voir en lisant.
 
-    LÉLIE
+    LÉLIE.
 Monsieur, vous me voyez en ces lieux de retour,  
 Brûlant des mêmes feux, et mon ardente amour  
 Verra comme je crois la promesse accomplie  
 Qui me donna l'espoir de l'hymen de Célie.  
 
-    GORGIBUS 
+    GORGIBUS.
 Monsieur, que je revois en ces lieux de retour,  
 Brûlant des mêmes feux, et dont l'ardente amour  
 Verra que vous croyez la promesse accomplie  
 Qui vous donna l'espoir de l'hymen de Célie,  
 Très humble Serviteur à Votre Seigneurie.  
 
-    LÉLIE
+    LÉLIE.
 Quoi ? Monsieur, est-ce ainsi qu'on trahit mon espoir ?  
 
-    GORGIBUS
+    GORGIBUS.
 Oui, Monsieur, c'est ainsi que je fais mon devoir,  
 Ma fille en suit les lois.  
 
-    CÉLIE
-Mon devoir m'intéresse,  
+    CÉLIE.
+        Mon devoir m'intéresse,  
 Mon père, à dégager vers lui votre promesse.  
 
-    GORGIBUS
+    GORGIBUS.
 Est-ce répondre en fille à mes commandements ?  
 Tu te démens bien tôt de tes bons sentiments,  
 Pour Valère tantôt… mais j'aperçois son père,  
 Il vient assurément pour conclure l'affaire.  
 
 
-### Scène Dernière
+### Scène Dernière.
 Célie, Lélie, Gorgibus, Sganarelle, sa Femme, Villebrequin, la Suivante.
 
 
 La joie que Célie avait eue en apprenant que son amant ne lui était pas infidèle, eût été de courte durée, si le père de Valère ne fut pas venu à temps pour les retirer tous deux de peine. Vous pourrez voir dans le reste des vers de cette Pièce, que voici le sujet qui le fait venir.
 
-    GORGIBUS
+    GORGIBUS.
 Qui vous amène ici, seigneur Villebrequin ?  
 
-    VILLEBREQUIN
+    VILLEBREQUIN.
 Un secret important, que j'ai su ce matin,  
 Qui rompt absolument ma parole donnée.  
 Mon fils, dont votre fille acceptait l'hyménée,  
@@ -1372,25 +1372,25 @@ Et comme des parents le bien et la naissance
 M'ôtent tout le pouvoir d'en casser l'alliance,  
 Je vous viens…  
 
-    GORGIBUS
-Brisons là, si sans votre congé,  
+    GORGIBUS.
+        Brisons là, si sans votre congé,  
 Valère votre fils ailleurs s'est engagé,  
 Je ne vous puis celer que ma fille Célie,  
 Dès longtemps par moi-même est promise à Lélie,  
 Et que riche en vertus son retour aujourd'hui  
 M'empêche d'agréer un autre Époux que lui.  
 
-    VILLEBREQUIN
+    VILLEBREQUIN.
 Un tel choix me plaît fort.  
 
-    LÉLIE
-Et cette juste envie,  
+    LÉLIE.
+        Et cette juste envie,  
 D'un bonheur éternel va couronner ma vie.  
 
-    GORGIBUS
+    GORGIBUS.
 Allons choisir le jour pour se donner la foi.  
 
-    SGANARELLE
+    SGANARELLE.
 A-t-on mieux cru jamais être cocu que moi ?  
 Vous croyez qu'en ce fait la plus forte apparence  
 Peut jeter dans l'esprit une fausse créance :  

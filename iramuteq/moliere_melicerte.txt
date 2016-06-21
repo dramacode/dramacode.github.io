@@ -8,25 +8,25 @@
 Ah ! charmante Daphné.
 
 -*who_tyrene
-Trop aimable Éroxène.
+      Trop aimable Éroxène.
 
 -*who_daphne
 Acante, laisse-moi.
 
 -*who_eroxene
-Ne me suis point, Tyrène.
+      Ne me suis point, Tyrène.
 
 -*who_acante
 Pourquoi me chasses-tu ?
 
 -*who_tyrene
-Pourquoi fuis-tu mes pas ?
+      Pourquoi fuis-tu mes pas ?
 
 -*who_daphne
 Tu me plais loin de moi.
 
 -*who_eroxene
-Je m'aime où tu n'es pas.
+      Je m'aime où tu n'es pas.
 
 -*who_acante
 Ne cesseras-tu point cette rigueur mortelle ?
@@ -35,7 +35,7 @@ Ne cesseras-tu point cette rigueur mortelle ?
 Ne cesseras-tu point de m'être si cruelle ?
 
 -*who_daphne
-Ne cesseras-tu point tes inutiles vœux.
+Ne cesseras-tu point tes inutiles vœux ?
 
 -*who_eroxene
 Ne cesseras-tu point de m'être si fâcheux ?
@@ -75,8 +75,8 @@ Acante a du mérite, et t'aime tendrement.
 D'où vient que tu lui fais un si dur traitement ?
 
 -*who_daphne
-Tyrène vaut beaucoup, et languit pour tes charmes ?
-D'où vient que sans pitié tu vois couler ses larmes.
+Tyrène vaut beaucoup, et languit pour tes charmes.
+D'où vient que sans pitié tu vois couler ses larmes ?
 
 -*who_eroxene
 Puisque j'ai fait ici la demande avant toi,
@@ -129,7 +129,7 @@ Voyons à qui plus vite entendra ce langage,
 Et qui parle le mieux, de l'un ou l'autre ouvrage.
 
 -*who_daphne
-La méprise est plaisante, et tu te brouilles bien :
+La méprise est plaisante, et tu te brouilles bien,
 Au lieu de ton portrait, tu m'as rendu le mien.
 
 -*who_eroxene
@@ -186,7 +186,7 @@ Et sa grâce naissante a de quoi tout charmer.
 
 -*who_eroxene
 Il n'est Nymphe en l'aimant qui ne se tînt heureuse,
-Et Diane, sans honte, en serait amoureuse.
+Et Diane sans honte en serait amoureuse.
 
 -*who_daphne
 Rien que son air charmant ne me touche aujourd'hui ;
@@ -199,8 +199,8 @@ Et si j'avais un Sceptre, il en serait le Maître.
 -*who_daphne
 Ce serait donc en vain qu'à chacune, en ce jour,
 On nous voudrait du sein arracher cet amour.
-Nos âmes dans leurs vœux sont trop bien affermies.
-Ne tâchons, s'il se peut, qu'à demeurer amies ;
+Nos âmes dans leurs vœux sont trop bien affermies,
+Ne tâchons, s'il se peut, qu'à demeurer amies.
 Et puisque en même temps pour le même sujet,
 Nous avons toutes deux formé même projet,
 Mettons dans ce débat la franchise en usage,
@@ -214,7 +214,7 @@ Comme un tel fils est né d'un père de la sorte,
 Et sa taille, son air, sa parole et ses yeux,
 Feraient croire qu'il est issu du sang des Dieux :
 Mais enfin j'y souscris, courons trouver ce père,
-Allons -lui de nos cœurs découvrir le mystère,
+Allons-lui de nos cœurs découvrir le mystère,
 Et consentons qu'après Myrtil, entre nous deux,
 Décide par son choix ce combat de nos vœux.
 
@@ -230,7 +230,7 @@ Ils pourront le quitter, cachons-nous pour attendre.
 Dis-nous donc ta nouvelle.
 
 -*who_lycarsis
-Ah ! que vous me pressez !
+      Ah ! que vous me pressez !
 Cela ne se dit pas comme vous le pensez.
 
 -*who_mopse
@@ -259,40 +259,40 @@ Pour obtenir de moi ce que vous désirez.
 
 -*who_mopse
 La peste soit du fat, laissons-le là, Nicandre,
-Il brûle de parler, bien plus que nous d'entendre ;
-Sa nouvelle lui pèse, il veut s'en décharger ;
-Et ne l'écouter pas est le faire enrager.
+Il brûle de parler, bien plus que nous d'entendre.
+Sa nouvelle lui pèse, il veut s'en décharger,
+Et ne l'écouter pas, est le faire enrager.
 
 -*who_lycarsis
 Eh.
 
 -*who_nicandre
-Te voilà puni de tes façons de faire.
+      Te voilà puni de tes façons de faire.
 
 -*who_lycarsis
 Je m'en vais vous le dire, écoutez.
 
 -*who_mopse
-Point d'affaires.
+      Point d'affaire.
 
 -*who_lycarsis
-Quoi ? vous ne voulez pas m'entendre ?
+Quoi vous ne voulez pas m'entendre ?
 
 -*who_nicandre
-Non.
+      Non.
 
 -*who_lycarsis
-Eh bien
+      Eh bien
 Je ne dirai donc mot, et vous ne saurez rien.
 
 -*who_mopse
 Soit.
 
 -*who_lycarsis
-Vous ne saurez pas qu'avec magnificence,
+      Vous ne saurez pas qu'avec magnificence,
 Le Roi vient d'honorer Tempé de sa présence :
 Qu'il entra dans Larisse hier sur le haut du jour :
-Qu'à l'aise je l'y vis avec toute sa Cour,
+Qu'à l'aise je l'y vis avec toute sa Cour.
 Que ces bois vont jouir aujourd'hui de sa vue,
 Et qu'on raisonne fort touchant cette venue.
 
@@ -303,7 +303,7 @@ Nous n'avons pas envie aussi de rien savoir.
 Je vis cent choses là ravissantes à voir.
 Ce ne sont que Seigneurs, qui des pieds à la tête,
 Sont brillants et parés comme au jour d'une fête,
-Ils surprennent la vue, et nos prés au Printemps,
+Ils surprennent la vue et nos prés au Printemps
 Avec toutes leurs fleurs sont bien moins éclatants.
 Pour le Prince entre tous, sans peine on le remarque,
 Et d'une stade loin, il sent son grand Monarque,
@@ -329,7 +329,7 @@ Et nous ne te voulons aucunement entendre.
 Allez vous promener.
 
 -*who_mopse
-Va-t'en te faire pendre.
+      Va-t'en te faire pendre.
 
 **** *book_ *id_I04 *act_I *date_1682
 
@@ -364,16 +364,16 @@ Et nous venons ici chercher votre alliance,
 Et voir qui de nous deux aura la préférence.
 
 -*who_lycarsis
-Nymphes...
+Nymphes…
 
 -*who_daphne
-Pour ce bien seul nous poussons des soupirs.
+      Pour ce bien seul nous poussons des soupirs.
 
 -*who_lycarsis
-Je suis...
+Je suis…
 
 -*who_eroxene
-À ce bonheur tendent tous nos désirs.
+      À ce bonheur tendent tous nos désirs.
 
 -*who_daphne
 C'est un peu librement expliquer sa pensée.
@@ -382,20 +382,20 @@ C'est un peu librement expliquer sa pensée.
 Pourquoi.
 
 -*who_eroxene
-La bienséance y semble un peu blessée.
+      La bienséance y semble un peu blessée.
 
 -*who_lycarsis
 Ah point.
 
 -*who_daphne
-Mais quand le cœur brûle d'un noble feu,
+      Mais quand le cœur brûle d'un noble feu,
 On peut sans nulle honte en faire un libre aveu.
 
 -*who_lycarsis
-Je...
+Je…
 
 -*who_eroxene
-Cette liberté nous peut être permise,
+      Cette liberté nous peut être permise,
 Et du choix de nos cœurs la beauté l'autorise.
 
 -*who_lycarsis
@@ -417,7 +417,7 @@ Trouverons-nous en vous quelques difficultés ?
 Ah.
 
 -*who_eroxene
-Nos vœux, dites-moi, seront-ils rejetés ?
+      Nos vœux, dites-moi, seront-ils rejetés ?
 
 -*who_lycarsis
 Non, j'ai reçu du Ciel une âme peu cruelle ;
@@ -435,7 +435,7 @@ Et souffrez que son choix règle notre querelle.
 Myrtil ?
 
 -*who_daphne
-Oui, c'est Myrtil que de vous nous voulons.
+      Oui, c'est Myrtil que de vous nous voulons.
 
 -*who_eroxene
 De qui pensez-vous donc qu'ici nous vous parlons ?
@@ -473,10 +473,10 @@ Et plus d'une aventure à mes yeux s'est offerte,
 Où j'ai connu qu'il suit la jeune Mélicerte.
 
 -*who_eroxene
-Ils pourraient bien s'aimer, et je vois...
+Ils pourraient bien s'aimer, et je vois…
 
 -*who_lycarsis
-Franc abus.
+      Franc abus.
 Pour elle passe encore, elle a deux ans de plus,
 Et deux ans dans son sexe est une grande avance.
 Mais pour lui, le jeu seul l'occupe tout, je pense,
@@ -501,7 +501,7 @@ Je consens que son choix règle votre dispute,
 Et celle qu'à l'écart laissera cet arrêt,
 Pourra pour son recours m'épouser, s'il lui plaît.
 C'est toujours même sang et presque même chose.
-Mais le voici ; souffrez qu'un peu je le dispose,
+Mais le voici, souffrez qu'un peu je le dispose,
 Il tient quelque moineau qu'il a pris fraîchement.
 Et voilà ses amours et son attachement.
 
@@ -510,14 +510,16 @@ Et voilà ses amours et son attachement.
 
 
 -*who_myrtil
+
 Innocente petite bête,
 Qui contre ce qui vous arrête,
 Vous débattez tant à mes yeux,
 De votre liberté ne plaignez point la perte,
 Votre destin est glorieux,
 Je vous ai pris pour Mélicerte.
+
 Elle vous baisera, vous prenant dans sa main,
-Et de vous mettre en son sein
+Et de vous mettre en son sein,
 Elle vous fera la grâce.
 Est-il un sort au monde et plus doux et plus beau ?
 Et qui des Rois, hélas, heureux petit moineau,
@@ -532,10 +534,10 @@ Je dois par un Hymen t'engager à leurs vœux,
 Et c'est toi que l'on veut qui choisisse des deux.
 
 -*who_myrtil
-Ces Nymphes....
+Ces Nymphes…
 
 -*who_lycarsis
-Oui ; des deux tu peux en choisir une ;
+      Oui ; des deux tu peux en choisir une ;
 Vois quel est ton bonheur, et bénis la fortune.
 
 -*who_myrtil
@@ -597,7 +599,7 @@ Et je sens bien qu'un cœur, qu'un bel objet engage,
 Est insensible et sourd à tout autre avantage.
 
 -*who_lycarsis
-Comment donc ? Qu'est-ce ci ? Qui l'eût pu présumer ?
+Comment donc ? qu'est-ce ci ? qui l'eût pu présumer ?
 Et savez-vous, morveux, ce que c'est que d'aimer ?
 
 -*who_myrtil
@@ -636,15 +638,15 @@ Les Dieux qui sont bien plus ne forcent point les cœurs.
 
 -*who_lycarsis
 Les Dieux… Paix, petit sot, cette philosophie
-Me...
+Me…
 
 -*who_daphne
-Ne vous mettez point en courroux, je vous prie.
+      Ne vous mettez point en courroux, je vous prie.
 
 -*who_lycarsis
-Non : je veux qu'il se donne à l'une pour époux,
+Non, je veux qu'il se donne à l'une pour époux,
 Ou je vais lui donner le fouet tout devant vous :
-Ah ! ah ! je vous ferai sentir que je suis père.
+Ah, ah, je vous ferai sentir que je suis père.
 
 -*who_daphne
 Traitons, de grâce, ici les choses sans colère.
@@ -699,14 +701,14 @@ Et c'est de Lycarsis qu'elle tient la nouvelle.
 Oui.
 
 -*who_melicerte
-Que les qualités, dont Myrtil est orné,
-Ont su toucher d'amour Éroxène et Daphné ?
+      Que les qualités, dont Myrtil est orné,
+Ont su toucher d'amour Éroxène et Daphné.
 
 -*who_corinne
 Oui.
 
 -*who_melicerte
-Que pour l'obtenir leur ardeur est si grande,
+      Que pour l'obtenir leur ardeur est si grande,
 Qu'ensemble elles en ont déjà fait la demande,
 Et que dans ce débat elles ont fait dessein
 De passer dès cette heure à recevoir sa main.
@@ -731,7 +733,7 @@ Qu'avec ce mot, hélas ! tu me perces le cœur.
 Comment ?
 
 -*who_melicerte
-Me mettre aux yeux que le sort implacable
+      Me mettre aux yeux que le sort implacable
 Auprès d'elles me rend trop peu considérable,
 Et qu'à moi par leur rang on les va préférer,
 N'est-ce pas une idée à me désespérer ?
@@ -747,11 +749,11 @@ Mais dis, quels sentiments Myrtil a-t-il fait voir ?
 Je ne sais.
 
 -*who_melicerte
-Et c'est là ce qu'il fallait savoir,
+      Et c'est là ce qu'il fallait savoir,
 Cruelle.
 
 -*who_corinne
-En vérité, je ne sais comment faire,
+      En vérité, je ne sais comment faire,
 Et de tous les côtés je trouve à vous déplaire.
 
 -*who_melicerte
@@ -766,7 +768,7 @@ Passer quelques moments de mon inquiétude.
 Vous le voyez, mon cœur, ce que c'est que d'aimer,
 Et Bélise avait su trop bien m'en informer.
 Cette charmante mère avant sa destinée,
-Me disait une fois, sur le bord du Pénée.
+Me disait une fois, sur le bord du Pénée,
 Ma fille, songe à toi, l'amour aux jeunes cœurs
 Se présente toujours entouré de douceurs.
 D'abord il n'offre aux yeux que choses agréables :
@@ -786,19 +788,19 @@ Dont en ce triste jour le destin vous menace,
 Et la peine mortelle où vous voilà réduit !
 Ah, mon cœur ! ah, mon cœur ! je vous l'avais bien dit :
 Mais tenons, s'il se peut, notre douleur couverte.
-Voici...
+Voici…
 
 **** *book_ *id_II03 *act_ *date_1682
 
 
 
 -*who_myrtil
-J'ai fait tantôt, charmante Mélicerte,
+      J'ai fait tantôt, charmante Mélicerte,
 Un petit prisonnier que je garde pour vous,
 Et dont peut-être un jour je deviendrai jaloux.
 C'est un jeune Moineau, qu'avec un soin extrême
 Je veux pour vous l'offrir apprivoiser moi-même.
-Le présent n'est pas grand : mais les divinités
+Le présent n'est pas grand ; mais les divinités
 Ne jettent leurs regards que sur les volontés.
 C'est le cœur qui fait tout, et jamais la richesse
 Des présents que… Mais, Ciel, d'où vient cette tristesse ?
@@ -810,10 +812,10 @@ Parlez, de quel ennui ressentez-vous les coups ?
 Qu'est-ce donc ?
 
 -*who_melicerte
-Ce n'est rien.
+      Ce n'est rien.
 
 -*who_myrtil
-Ce n'est rien, dites-vous ?
+      Ce n'est rien, dites-vous ?
 Et je vois cependant vos yeux couverts de larmes,
 Cela s'accorde-t-il, beauté pleine de charmes ?
 Ah, ne me faites point un secret dont je meurs,
@@ -838,7 +840,7 @@ Sans accuser du sort la rigoureuse loi,
 Qui les rend dans leurs vœux préférables à moi.
 
 -*who_myrtil
-Et vous pouvez l'avoir, cette injuste tristesse !
+Et vous pouvez l'avoir, cette injuste tristesse,
 Vous pouvez soupçonner mon amour de faiblesse,
 Et croire qu'engagé par des charmes si doux,
 Je puisse être jamais à quelque autre qu'à vous ?
@@ -857,7 +859,7 @@ Si les choses étaient de part et d'autre égales.
 Et dans un rang pareil j'oserais espérer,
 Que peut-être l'Amour me ferait préférer :
 Mais l'inégalité de bien et de naissance,
-Qui peut d'elles à moi faire la différence....
+Qui peut d'elles à moi faire la différence…
 
 -*who_myrtil
 Ah, leur rang de mon cœur ne viendra point à bout,
@@ -877,15 +879,15 @@ Votre cœur m'aime assez pour me mieux aimer qu'elles :
 Mais ce n'est pas l'Amour dont vous suivez la voix,
 Votre père, Myrtil, réglera votre choix,
 Et de même qu'à vous je ne lui suis pas chère,
-Pour préférer à tout une simple bergère.
+Pour préférer à tout une simple Bergère.
 
 -*who_myrtil
 Non, chère Mélicerte, il n'est père ni Dieux
 Qui me puissent forcer à quitter vos beaux yeux,
-Et toujours de mes vœux, Reine comme vous êtes...
+Et toujours de mes vœux, Reine comme vous êtes…
 
 -*who_melicerte
-Ah ! Myrtil, prenez garde à ce qu'ici vous faites,
+Ah, Myrtil, prenez garde à ce qu'ici vous faites,
 N'allez point présenter un espoir à mon cœur,
 Qu'il recevrait peut-être avec trop de douceur,
 Et qui tombant après comme un éclair qui passe,
@@ -898,16 +900,16 @@ Que vous vous faites tort par de telles alarmes,
 Et connaissez bien peu le pouvoir de vos charmes.
 Hé bien, puisqu'il le faut, je jure par les Dieux,
 Et si ce n'est assez, je jure par vos yeux,
-Qu'on me tuera plutôt que je vous abandonne ;
+Qu'on me tuera plutôt que je vous abandonne,
 Recevez-en ici la foi que je vous donne,
 Et souffrez que ma bouche avec ravissement,
 Sur cette belle main en signe le serment.
 
 -*who_melicerte
-Ah ! Myrtil, levez-vous, de peur qu'on ne vous voie.
+Ah, Myrtil, levez-vous, de peur qu'on ne vous voie.
 
 -*who_myrtil
-Est-il rien.… Mais, ô Ciel, on vient troubler ma joie.
+Est-il rien… Mais, ô Ciel, on vient troubler ma joie.
 
 **** *book_ *id_II04 *act_ *date_1682
 
@@ -917,7 +919,7 @@ Est-il rien.… Mais, ô Ciel, on vient troubler ma joie.
 Ne vous contraignez pas pour moi.
 
 -*who_melicerte
-Quel sort fâcheux.
+      Quel sort fâcheux.
 
 -*who_lycarsis
 Cela ne va pas mal, continuez tous deux.
@@ -935,7 +937,7 @@ Ah, quittez de ces mots l'outrageante bassesse,
 Et ne m'accablez point d'un discours qui la blesse.
 
 -*who_lycarsis
-Je veux lui parler moi, toutes ces amitiés...
+Je veux lui parler moi, toutes ces amitiés…
 
 -*who_myrtil
 Je ne souffrirai point que vous la maltraitiez.
@@ -1001,7 +1003,7 @@ Quel amour, quels transports, quels discours pour son âge :
 J'en suis confus, et sens que cet amour m'engage.
 
 -*who_myrtil
-Voyez ; me voulez-vous ordonner de mourir ?
+Voyez, me voulez-vous ordonner de mourir ?
 Vous n'avez qu'à parler, je suis prêt d'obéir.
 
 -*who_lycarsis
@@ -1018,27 +1020,27 @@ Et vous ferez bien plus que me donner la vie.
 Lève-toi.
 
 -*who_myrtil
-Serez-vous sensible à mes soupirs ?
+      Serez-vous sensible à mes soupirs ?
 
 -*who_lycarsis
 Oui.
 
 -*who_myrtil
-J'obtiendrai de vous l'objet de mes désirs.
+      J'obtiendrai de vous l'objet de mes désirs ?
 
 -*who_lycarsis
 Oui.
 
 -*who_myrtil
-Vous ferez pour moi que son Oncle l'oblige
+      Vous ferez pour moi que son Oncle l'oblige
 À me donner sa main ?
 
 -*who_lycarsis
-Oui, lève-toi, te dis-je.
+      Oui, lève-toi, te dis-je.
 
 -*who_myrtil
 Ô Père, le meilleur qui jamais ait été,
-Que je baise vos mains après tant de bonté.
+Que je baise vos mains, après tant de bonté.
 
 -*who_lycarsis
 Ah, que pour ses enfants un père a de faiblesse !
@@ -1054,17 +1056,17 @@ Ne changerez-vous point, dites-moi, de pensée ?
 Non.
 
 -*who_myrtil
-Me permettez-vous de vous désobéir,
+      Me permettez-vous de vous désobéir,
 Si de ces sentiments on vous fait revenir :
 Prononcez le mot.
 
 -*who_lycarsis
-Oui. Ha, nature ! nature,
+      Oui. Ha, nature ! nature,
 Je m'en vais trouver Mopse, et lui faire ouverture
 De l'amour que sa Nièce, et toi, vous vous portez.
 
 -*who_myrtil
-Ah, que ne dois-je point à vos rares bontés :
+Ah, que ne dois-je point à vos rares bontés !
 Quelle heureuse nouvelle à dire à Mélicerte,
 Je n'accepterais pas une Couronne offerte,
 Pour le plaisir que j'ai de courir lui porter,
@@ -1103,10 +1105,10 @@ Et si vos vœux enfin n'ont que les miens à craindre,
 Vous n'aurez l'un ni l'autre aucun lieu de vous plaindre.
 
 -*who_acante
-Ah, Myrtil, se peut-il que deux tristes Amants...
+Ah, Myrtil, se peut-il que deux tristes Amants…
 
 -*who_tyrene
-Est-il vrai que le Ciel sensible à nos tourments... ?
+Est-il vrai que le Ciel sensible à nos tourments…
 
 -*who_myrtil
 Oui, content de mes fers comme d'une victoire,
@@ -1133,13 +1135,13 @@ Savez-vous en quel lieu Mélicerte est cachée ?
 Comment ?
 
 -*who_nicandre
-En diligence elle est partout cherchée.
+      En diligence elle est partout cherchée.
 
 -*who_myrtil
 Et pourquoi ?
 
 -*who_nicandre
-Nous allons perdre cette beauté.
+      Nous allons perdre cette beauté.
 C'est pour elle qu'ici le Roi s'est transporté,
 Avec un grand Seigneur on dit qu'il la marie.
 
@@ -1150,7 +1152,7 @@ Avec un grand Seigneur on dit qu'il la marie.
 Ce sont des incidents grands et mystérieux :
 Oui, le Roi vient chercher Mélicerte en ces lieux ;
 Et l'on dit qu'autrefois feu Bélise sa mère,
-Dont tout Tempé croyait que Mopse était le frère :
+Dont tout Tempé croyait que Mopse était le frère…
 Mais je me suis chargé de la chercher partout,
 Vous saurez tout cela tantôt de bout en bout.
 

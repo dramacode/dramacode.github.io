@@ -8,126 +8,126 @@ title: Mélicerte
 < MÉLICERTE ><  >< COMÉDIE ><  >< PASTORALE HÉROÏQUE. ><  >< Par J.B.P. de MOLIÈRE. ><  >< Représentée pour la première fois à S. Germain >< en Laye pour le Roi, au Ballet des >< Muses en Décembre 1666. ><  ><  >< Par la Troupe du ROI. >
 
 
-# ACTEUR
- – Acante, amant de Daphné.
- – Tyrène, amant d'Éroxène.
- – Daphné, bergère.
- – Éroxène, bergère.
- – Lycarsys, pâtre, cru père de Myrtil.
- – Myrtil, amant de Mélicerte.
- – Mélicerte, nymphe ou bergère, amante de Myrtil.
- – Corinne, confidente de Mélicerte.
- – Nicandre, berger.
- – Mopse, berger, cru oncle de Mélicerte.
-La scène est en Thessalie, dans la vallée de Tempé.
+# ACTEUR.
+ – Acante, Amant de Daphné.
+ – Tyrène, Amant d'Éroxène.
+ – Daphné, Bergère.
+ – Éroxène, Bergère.
+ – Lycarsys, Pâtre, cru père de Myrtil.
+ – Myrtil, Amant de Mélicerte.
+ – Mélicerte, Nymphe ou Bergère, amante de Myrtil.
+ – Corinne, Confidente de Mélicerte.
+ – Nicandre, Berger.
+ – Mopse, Berger, cru Oncle de Mélicerte.
+La Scène est en Thessalie dans la Vallée de Tempé.
 
 
 
-# Acte Premier
+# Acte Premier.
 
 
-## Scène Première
+## Scène Première.
 Tyrène, Daphné, Acante, Éroxène.
 
 
 
 
-    ACANTE
+    ACANTE.
 Ah ! charmante Daphné.  
 
-    TYRÈNE
-Trop aimable Éroxène.  
+    TYRÈNE.
+        Trop aimable Éroxène.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Acante, laisse-moi.  
 
-    ÉROXÈNE
-Ne me suis point, Tyrène.  
+    ÉROXÈNE.
+        Ne me suis point, Tyrène.  
 
-    ACANTE
+    ACANTE.
 Pourquoi me chasses-tu ?  
 
-    TYRÈNE
-Pourquoi fuis-tu mes pas ?  
+    TYRÈNE.
+        Pourquoi fuis-tu mes pas ?  
 
-    DAPHNÉ
+    DAPHNÉ.
 Tu me plais loin de moi.  
 
-    ÉROXÈNE
-Je m'aime où tu n'es pas.  
+    ÉROXÈNE.
+        Je m'aime où tu n'es pas.  
 
-    ACANTE
+    ACANTE.
 Ne cesseras-tu point cette rigueur mortelle ?  
 
-    TYRÈNE
+    TYRÈNE.
 Ne cesseras-tu point de m'être si cruelle ?  
 
-    DAPHNÉ
-Ne cesseras-tu point tes inutiles vœux.  
+    DAPHNÉ.
+Ne cesseras-tu point tes inutiles vœux ?  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Ne cesseras-tu point de m'être si fâcheux ?  
 
-    ACANTE
+    ACANTE.
 Si tu n'en prends pitié, je succombe à ma peine.  
 
-    TYRÈNE
+    TYRÈNE.
 Si tu ne me secours, ma mort est trop certaine.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Si tu ne veux partir, je vais quitter ce lieu.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Si tu veux demeurer, je te vais dire adieu.  
 
-    ACANTE
+    ACANTE.
 Hé bien en m'éloignant, je te vais satisfaire.  
 
-    TYRÈNE
+    TYRÈNE.
 Mon départ va t'ôter ce qui peut te déplaire.  
 
-    ACANTE
+    ACANTE.
 Généreuse Éroxène, en faveur de mes feux  
 Daigne au moins par pitié lui dire un mot ou deux.  
 
-    TYRÈNE
+    TYRÈNE.
 Obligeante Daphné, parle à cette inhumaine.  
 Et sache d'où pour moi procède tant de haine.  
 
 
-## Scène Seconde
+## Scène Seconde.
 Daphné, Éroxène.
 
 
 
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Acante a du mérite, et t'aime tendrement.  
 D'où vient que tu lui fais un si dur traitement ?  
 
-    DAPHNÉ
-Tyrène vaut beaucoup, et languit pour tes charmes ?  
-D'où vient que sans pitié tu vois couler ses larmes.  
+    DAPHNÉ.
+Tyrène vaut beaucoup, et languit pour tes charmes.  
+D'où vient que sans pitié tu vois couler ses larmes ?  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Puisque j'ai fait ici la demande avant toi,  
 La raison te condamne à répondre avant moi.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Pour tous les soins d'Acante, on me voit inflexible,  
 Parce qu'à d'autres vœux je me trouve sensible.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Je ne fais pour Tyrène éclater que rigueur,  
 Parce qu'un autre choix est maître de mon cœur.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Puis-je savoir de toi ce choix qu'on te voit taire ?  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Oui, si tu veux du tien m'apprendre le mystère.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Sans te nommer celui qu'Amour m'a fait choisir,  
 Je puis facilement contenter ton désir,  
 Et de la main d'Atis, ce Peintre inimitable,  
@@ -135,7 +135,7 @@ J'en garde dans ma poche un portrait admirable,
 Qui jusques au moindre trait lui ressemble si fort,  
 Qu'il est sûr que tes yeux le connaîtront d'abord.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Je puis te contenter par une même voie,  
 Et payer ton secret en pareille monnaie.  
 J'ai de la main aussi de ce Peintre fameux,  
@@ -143,95 +143,95 @@ Un aimable Portrait de l'objet de mes vœux,
 Si plein de tous ses traits et de sa grâce extrême,  
 Que tu pourras d'abord te le nommer toi-même.  
 
-    DAPHNÉ
+    DAPHNÉ.
 La boîte que le Peintre a fait faire pour moi,  
 Est tout à fait semblable à celle que je vois.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Il est vrai, l'une à l'autre entièrement ressemble,  
 Et certes, il faut qu'Atis les ait fait faire ensemble.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Faisons en même temps par un peu de couleurs,  
 Confidence à nos yeux du secret de nos cœurs.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Voyons à qui plus vite entendra ce langage,  
 Et qui parle le mieux, de l'un ou l'autre ouvrage.  
 
-    DAPHNÉ
-La méprise est plaisante, et tu te brouilles bien :  
+    DAPHNÉ.
+La méprise est plaisante, et tu te brouilles bien,  
 Au lieu de ton portrait, tu m'as rendu le mien.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Il est vrai, je ne sais comme j'ai fait la chose.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Donne. De cette erreur ta rêverie est cause.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Que veut dire ceci ? Nous nous jouons, je crois.  
 Tu fais de ces Portraits même chose que moi.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Certes, c'est pour en rire, et tu peux me le rendre.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Voici le vrai moyen de ne se point méprendre.  
 
-    DAPHNÉ
+    DAPHNÉ.
 De mes sens prévenus est-ce une illusion ?  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Mon âme sur mes yeux fait-elle impression ?  
 
-    DAPHNÉ
+    DAPHNÉ.
 Myrtil à mes regards s'offre dans cet ouvrage.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 De Myrtil dans ces traits je rencontre l'Image.  
 
-    DAPHNÉ
+    DAPHNÉ.
 C'est le jeune Myrtil qui fait naître mes feux.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 C'est au jeune Myrtil que tendent tous mes vœux.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Je venais aujourd'hui te prier de lui dire,  
 Les soins que pour son sort son mérite m'inspire.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Je venais te chercher pour servir mon ardeur,  
 Dans le dessein que j'ai de m'assurer son cœur.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Cette ardeur qu'il t'inspire est-elle si puissante ?  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 L'aimes-tu d'une amour qui soit si violente ?  
 
-    DAPHNÉ
+    DAPHNÉ.
 Il n'est point de froideur qu'il ne puisse enflammer,  
 Et sa grâce naissante a de quoi tout charmer.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Il n'est Nymphe en l'aimant qui ne se tînt heureuse,  
-Et Diane, sans honte, en serait amoureuse.  
+Et Diane sans honte en serait amoureuse.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Rien que son air charmant ne me touche aujourd'hui ;  
 Et si j'avais cent cœurs, ils seraient tous pour lui.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Il efface à mes yeux tout ce qu'on voit paraître,  
 Et si j'avais un Sceptre, il en serait le Maître.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Ce serait donc en vain qu'à chacune, en ce jour,  
 On nous voudrait du sein arracher cet amour.  
-Nos âmes dans leurs vœux sont trop bien affermies.  
-Ne tâchons, s'il se peut, qu'à demeurer amies ;  
+Nos âmes dans leurs vœux sont trop bien affermies,  
+Ne tâchons, s'il se peut, qu'à demeurer amies.  
 Et puisque en même temps pour le même sujet,  
 Nous avons toutes deux formé même projet,  
 Mettons dans ce débat la franchise en usage,  
@@ -239,105 +239,105 @@ Ne prenons l'une et l'autre aucun lâche avantage,
 Et courons nous ouvrir ensemble à Lycarsis,  
 Des tendres sentiments où nous jette son fils.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 J'ai peine à concevoir, tant la surprise est forte,  
 Comme un tel fils est né d'un père de la sorte,  
 Et sa taille, son air, sa parole et ses yeux,  
 Feraient croire qu'il est issu du sang des Dieux :  
 Mais enfin j'y souscris, courons trouver ce père,  
-Allons -lui de nos cœurs découvrir le mystère,  
+Allons-lui de nos cœurs découvrir le mystère,  
 Et consentons qu'après Myrtil, entre nous deux,  
 Décide par son choix ce combat de nos vœux.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Soit, je vois Lycarsis avec Mopse et Nicandre,  
 Ils pourront le quitter, cachons-nous pour attendre.  
 
 
-## Scène III
+## Scène III.
 Lycarsis, Mopse, Nicandre.
 
 
 
 
-    NICANDRE
+    NICANDRE.
 Dis-nous donc ta nouvelle.  
 
-    LYCARSIS
-Ah ! que vous me pressez !  
+    LYCARSIS.
+        Ah ! que vous me pressez !  
 Cela ne se dit pas comme vous le pensez.  
 
-    MOPSE
+    MOPSE.
 Que de sottes façons, et que de badinage,  
 Ménalque pour chanter n'en fait pas davantage.  
 
-    LYCARSIS
+    LYCARSIS.
 Parmi les curieux des affaires d'État,  
 Une nouvelle à dire est d'un puissant éclat.  
 Je me veux mettre un peu sur l'homme d'importance,  
 Et jouir quelque temps de votre impatience.  
 
-    NICANDRE
+    NICANDRE.
 Veux-tu par tes délais nous fatiguer tous deux ?  
 
-    MOPSE
+    MOPSE.
 Prends-tu quelque plaisir à te rendre fâcheux ?  
 
-    NICANDRE
+    NICANDRE.
 De grâce, parle, et mets ces mines en arrière.  
 
-    LYCARSIS
+    LYCARSIS.
 Priez-moi donc tous deux de la bonne manière,  
 Et me dites chacun quel don vous me ferez,  
 Pour obtenir de moi ce que vous désirez.  
 
-    MOPSE
+    MOPSE.
 La peste soit du fat, laissons-le là, Nicandre,  
-Il brûle de parler, bien plus que nous d'entendre ;  
-Sa nouvelle lui pèse, il veut s'en décharger ;  
-Et ne l'écouter pas est le faire enrager.  
+Il brûle de parler, bien plus que nous d'entendre.  
+Sa nouvelle lui pèse, il veut s'en décharger,  
+Et ne l'écouter pas, est le faire enrager.  
 
-    LYCARSIS
+    LYCARSIS.
 Eh.  
 
-    NICANDRE
-Te voilà puni de tes façons de faire.  
+    NICANDRE.
+        Te voilà puni de tes façons de faire.  
 
-    LYCARSIS
+    LYCARSIS.
 Je m'en vais vous le dire, écoutez.  
 
-    MOPSE
-Point d'affaires.  
+    MOPSE.
+        Point d'affaire.  
 
-    LYCARSIS
-Quoi ? vous ne voulez pas m'entendre ?  
+    LYCARSIS.
+Quoi vous ne voulez pas m'entendre ?  
 
-    NICANDRE
-Non.  
+    NICANDRE.
+    Non.  
 
-    LYCARSIS
-Eh bien  
+    LYCARSIS.
+        Eh bien  
 Je ne dirai donc mot, et vous ne saurez rien.  
 
-    MOPSE
+    MOPSE.
 Soit.  
 
-    LYCARSIS
-Vous ne saurez pas qu'avec magnificence,  
+    LYCARSIS.
+        Vous ne saurez pas qu'avec magnificence,  
 Le Roi vient d'honorer Tempé de sa présence :  
 Qu'il entra dans Larisse hier sur le haut du jour :  
-Qu'à l'aise je l'y vis avec toute sa Cour,  
+Qu'à l'aise je l'y vis avec toute sa Cour.  
 Que ces bois vont jouir aujourd'hui de sa vue,  
 Et qu'on raisonne fort touchant cette venue.  
 
-    NICANDRE
+    NICANDRE.
 Nous n'avons pas envie aussi de rien savoir.  
 
-    LYCARSIS
+    LYCARSIS.
 Je vis cent choses là ravissantes à voir.  
 Ce ne sont que Seigneurs, qui des pieds à la tête,  
 Sont brillants et parés comme au jour d'une fête,  
-Ils surprennent la vue, et nos prés au Printemps,  
+Ils surprennent la vue et nos prés au Printemps  
 Avec toutes leurs fleurs sont bien moins éclatants.  
 Pour le Prince entre tous, sans peine on le remarque,  
 Et d'une stade loin, il sent son grand Monarque,  
@@ -356,144 +356,144 @@ Auprès de ce spectacle est une gueuserie :
 Mais puisque sur le fier vous vous tenez si bien,  
 Je garde ma nouvelle, et ne veux dire rien.  
 
-    MOPSE
+    MOPSE.
 Et nous ne te voulons aucunement entendre.  
 
-    LYCARSIS
+    LYCARSIS.
 Allez vous promener.  
 
-    MOPSE
-Va-t'en te faire pendre.  
+    MOPSE.
+        Va-t'en te faire pendre.  
 
 
-## Scène IV
+## Scène IV.
 Éroxène, Daphné, Lycarsis.
 
 
 
 
-    LYCARSIS
+    LYCARSIS.
 C'est de cette façon que l'on punit les gens,  
 Quand ils font les benêts et les impertinents.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Le Ciel tienne, Pasteur, vos brebis toujours saines.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Cérès tienne de grains vos granges toujours pleines.  
 
-    LYCARSIS
+    LYCARSIS.
 Et le grand Pan vous donne à chacune un Époux  
 Qui vous aime beaucoup, et soit digne de vous.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Ah ! Lycarsis, nos vœux à même but aspirent.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 C'est pour le même objet que nos deux cœurs soupirent.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Et l'amour, cet Enfant qui cause nos langueurs,  
 A pris chez vous le trait dont il blesse nos cœurs.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Et nous venons ici chercher votre alliance,  
 Et voir qui de nous deux aura la préférence.  
 
-    LYCARSIS
-Nymphes...  
+    LYCARSIS.
+Nymphes…  
 
-    DAPHNÉ
-Pour ce bien seul nous poussons des soupirs.  
+    DAPHNÉ.
+        Pour ce bien seul nous poussons des soupirs.  
 
-    LYCARSIS
-Je suis...  
+    LYCARSIS.
+Je suis…  
 
-    ÉROXÈNE
-À ce bonheur tendent tous nos désirs.  
+    ÉROXÈNE.
+        À ce bonheur tendent tous nos désirs.  
 
-    DAPHNÉ
+    DAPHNÉ.
 C'est un peu librement expliquer sa pensée.  
 
-    LYCARSIS
+    LYCARSIS.
 Pourquoi.  
 
-    ÉROXÈNE
-La bienséance y semble un peu blessée.  
+    ÉROXÈNE.
+        La bienséance y semble un peu blessée.  
 
-    LYCARSIS
+    LYCARSIS.
 Ah point.  
 
-    DAPHNÉ
-Mais quand le cœur brûle d'un noble feu,  
+    DAPHNÉ.
+        Mais quand le cœur brûle d'un noble feu,  
 On peut sans nulle honte en faire un libre aveu.  
 
-    LYCARSIS
-Je...  
+    LYCARSIS.
+Je…  
 
-    ÉROXÈNE
-Cette liberté nous peut être permise,  
+    ÉROXÈNE.
+        Cette liberté nous peut être permise,  
 Et du choix de nos cœurs la beauté l'autorise.  
 
-    LYCARSIS
+    LYCARSIS.
 C'est blesser ma pudeur que me flatter ainsi.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Non, non, n'affectez point de modestie ici.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Enfin tout notre bien est en votre puissance.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 C'est de vous que dépend notre unique espérance.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Trouverons-nous en vous quelques difficultés ?  
 
-    LYCARSIS
+    LYCARSIS.
 Ah.  
 
-    ÉROXÈNE
-Nos vœux, dites-moi, seront-ils rejetés ?  
+    ÉROXÈNE.
+        Nos vœux, dites-moi, seront-ils rejetés ?  
 
-    LYCARSIS
+    LYCARSIS.
 Non, j'ai reçu du Ciel une âme peu cruelle ;  
 Je tiens de feu ma femme, et je me sens comme elle  
 Pour les désirs d'autrui beaucoup d'humanité,  
 Et je ne suis point homme à garder de fierté.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Accordez donc Myrtil à notre amoureux zèle.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Et souffrez que son choix règle notre querelle.  
 
-    LYCARSIS
+    LYCARSIS.
 Myrtil ?  
 
-    DAPHNÉ
-Oui, c'est Myrtil que de vous nous voulons.  
+    DAPHNÉ.
+        Oui, c'est Myrtil que de vous nous voulons.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 De qui pensez-vous donc qu'ici nous vous parlons ?  
 
-    LYCARSIS
+    LYCARSIS.
 Je ne sais, mais Myrtil n'est guère dans un âge  
 Qui soit propre à ranger au joug du mariage.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Son mérite naissant peut frapper d'autres yeux,  
 Et l'on veut s'engager un bien si précieux,  
 Prévenir d'autres cœurs, et braver la fortune  
 Sous les fermes liens d'une chaîne commune.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Comme par son esprit et ses autres brillants,  
 Il rompt l'ordre commun et devance le temps,  
 Notre flamme pour lui veut en faire de même,  
 Et régler tous ses vœux sur son mérite extrême.  
 
-    LYCARSIS
+    LYCARSIS.
 Il est vrai qu'à son âge, il surprend quelquefois.  
 Et cet Athénien qui fut chez moi vingt mois,  
 Qui le trouvant joli, se mit en fantaisie  
@@ -503,32 +503,32 @@ Que tout grand que je suis, souvent il me confond.
 Mais, avec tout cela, ce n'est encore qu'enfance,  
 Et son fait est mêlé de beaucoup d'innocence.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Il n'est point tant enfant, qu'à le voir chaque jour,  
 Je ne le croie atteint déjà d'un peu d'amour,  
 Et plus d'une aventure à mes yeux s'est offerte,  
 Où j'ai connu qu'il suit la jeune Mélicerte.  
 
-    ÉROXÈNE
-Ils pourraient bien s'aimer, et je vois...  
+    ÉROXÈNE.
+Ils pourraient bien s'aimer, et je vois…  
 
-    LYCARSIS
-Franc abus.  
+    LYCARSIS.
+        Franc abus.  
 Pour elle passe encore, elle a deux ans de plus,  
 Et deux ans dans son sexe est une grande avance.  
 Mais pour lui, le jeu seul l'occupe tout, je pense,  
 Et les petits désirs de se voir ajusté  
 Ainsi que les Bergers de haute qualité.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Enfin nous désirons par le nœud d'hyménée,  
 Attacher sa fortune à notre destinée.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Nous voulons l'une et l'autre avec pareille ardeur,  
 Nous assurer de loin l'empire de son cœur.  
 
-    LYCARSIS
+    LYCARSIS.
 Je m'en tiens honoré autant qu'on saurait croire.  
 Je suis un pauvre Pâtre, et ce m'est trop de gloire,  
 Que deux Nymphes d'un rang le plus haut du pays,  
@@ -538,32 +538,34 @@ Je consens que son choix règle votre dispute,
 Et celle qu'à l'écart laissera cet arrêt,  
 Pourra pour son recours m'épouser, s'il lui plaît.  
 C'est toujours même sang et presque même chose.  
-Mais le voici ; souffrez qu'un peu je le dispose,  
+Mais le voici, souffrez qu'un peu je le dispose,  
 Il tient quelque moineau qu'il a pris fraîchement.  
 Et voilà ses amours et son attachement.  
 
 
-## Scène V
+## Scène V.
 Myrtil, Lycarsis, Éroxène, Daphné.
 
 
 
 
-    MYRTIL
+    MYRTIL.
+
 Innocente petite bête,  
 Qui contre ce qui vous arrête,  
 Vous débattez tant à mes yeux,  
 De votre liberté ne plaignez point la perte,  
 Votre destin est glorieux,  
 Je vous ai pris pour Mélicerte.  
+
 Elle vous baisera, vous prenant dans sa main,  
-Et de vous mettre en son sein  
+Et de vous mettre en son sein,  
 Elle vous fera la grâce.  
 Est-il un sort au monde et plus doux et plus beau ?  
 Et qui des Rois, hélas, heureux petit moineau,  
 Ne voudrait être en votre place ?  
 
-    LYCARSIS
+    LYCARSIS.
 Myrtil, Myrtil, un mot, laissons là ces joyaux,  
 Il s'agit d'autre chose ici que de moineaux.  
 Ces deux Nymphes, Myrtil, à la fois te prétendent,  
@@ -571,34 +573,34 @@ Et tout jeune déjà pour époux te demandent.
 Je dois par un Hymen t'engager à leurs vœux,  
 Et c'est toi que l'on veut qui choisisse des deux.  
 
-    MYRTIL
-Ces Nymphes....  
+    MYRTIL.
+Ces Nymphes…  
 
-    LYCARSIS
-Oui ; des deux tu peux en choisir une ;  
+    LYCARSIS.
+        Oui ; des deux tu peux en choisir une ;  
 Vois quel est ton bonheur, et bénis la fortune.  
 
-    MYRTIL
+    MYRTIL.
 Ce choix qui m'est offert, peut-il m'être un bonheur,  
 S'il n'est aucunement souhaité de mon cœur ?  
 
-    LYCARSIS
+    LYCARSIS.
 Enfin, qu'on le reçoive, et que sans se confondre,  
 A l'honneur qu'elles font, on songe à bien répondre.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Malgré cette fierté qui règne parmi nous,  
 Deux Nymphes, ô Myrtil, viennent s'offrir à vous,  
 Et de vos qualités les merveilles écloses,  
 Font que nous renversons ici l'ordre des choses.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Nous vous laissons, Myrtil, pour l'avis le meilleur,  
 Consulter sur ce choix vos yeux et votre cœur,  
 Et nous n'en voulons point prévenir les suffrages  
 Par un récit paré de tous nos avantages.  
 
-    MYRTIL
+    MYRTIL.
 C'est me faire un honneur dont l'éclat me surprend ;  
 Mais cet honneur pour moi, je l'avoue, est trop grand.  
 À vos rares bontés, il faut que je m'oppose,  
@@ -606,15 +608,15 @@ Pour mériter ce sort, je suis trop peu de chose :
 Et je serais fâché, quels qu'en soient les appas,  
 Qu'on vous blâmât pour moi de faire un choix trop bas.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Contentez nos désirs, quoi qu'on en puisse croire,  
 Et ne vous chargez point du soin de notre gloire.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Non, ne descendez point dans ces humilités,  
 Et laissez-nous juger ce que vous méritez.  
 
-    MYRTIL
+    MYRTIL.
 Le choix qui m'est offert s'oppose à votre attente,  
 Et peut seul empêcher que mon cœur vous contente.  
 Le moyen de choisir de deux grandes beautés,  
@@ -622,87 +624,87 @@ Le moyen de choisir de deux grandes beautés,
 Rejeter l'une ou l'autre est un crime effroyable ;  
 Et n'en choisir aucune est bien plus raisonnable.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Mais en faisant refus de répondre à nos vœux,  
 Au lieu d'une, Myrtil, vous en outragez deux.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Puisque nous consentons à l'arrêt qu'on peut rendre,  
 Ces raisons ne font rien à vouloir s'en défendre.  
 
-    MYRTIL
+    MYRTIL.
 Eh bien, si ces raisons ne vous satisfont pas,  
 Celle-ci le fera, j'aime d'autres appas,  
 Et je sens bien qu'un cœur, qu'un bel objet engage,  
 Est insensible et sourd à tout autre avantage.  
 
-    LYCARSIS
-Comment donc ? Qu'est-ce ci ? Qui l'eût pu présumer ?  
+    LYCARSIS.
+Comment donc ? qu'est-ce ci ? qui l'eût pu présumer ?  
 Et savez-vous, morveux, ce que c'est que d'aimer ?  
 
-    MYRTIL
+    MYRTIL.
 Sans savoir ce que c'est, mon cœur a su le faire.  
 
-    LYCARSIS
+    LYCARSIS.
 Mais cet amour me choque, et n'est pas nécessaire.  
 
-    MYRTIL
+    MYRTIL.
 Vous ne deviez donc pas, si cela vous déplaît,  
 Me faire un cœur sensible et tendre comme il est.  
 
-    LYCARSIS
+    LYCARSIS.
 Mais ce cœur que j'ai fait, me doit obéissance.  
 
-    MYRTIL
+    MYRTIL.
 Oui, lorsque d'obéir il est en sa puissance.  
 
-    LYCARSIS
+    LYCARSIS.
 Mais enfin, sans mon ordre, il ne doit point aimer.  
 
-    MYRTIL
+    MYRTIL.
 Que n'empêchiez-vous donc que l'on pût le charmer ?  
 
-    LYCARSIS
+    LYCARSIS.
 Eh bien, je vous défends que cela continue.  
 
-    MYRTIL
+    MYRTIL.
 La défense, j'ai peur, sera trop tard venue.  
 
-    LYCARSIS
+    LYCARSIS.
 Quoi, les pères n'ont pas des droits supérieurs ?  
 
-    MYRTIL
+    MYRTIL.
 Les Dieux qui sont bien plus ne forcent point les cœurs.  
 
-    LYCARSIS
+    LYCARSIS.
 Les Dieux… Paix, petit sot, cette philosophie  
-Me...  
+Me…  
 
-    DAPHNÉ
-Ne vous mettez point en courroux, je vous prie.  
+    DAPHNÉ.
+        Ne vous mettez point en courroux, je vous prie.  
 
-    LYCARSIS
-Non : je veux qu'il se donne à l'une pour époux,  
+    LYCARSIS.
+Non, je veux qu'il se donne à l'une pour époux,  
 Ou je vais lui donner le fouet tout devant vous :  
-Ah ! ah ! je vous ferai sentir que je suis père.  
+Ah, ah, je vous ferai sentir que je suis père.  
 
-    DAPHNÉ
+    DAPHNÉ.
 Traitons, de grâce, ici les choses sans colère.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Peut-on savoir de vous cet objet si charmant,  
 Dont la beauté, Myrtil, vous a fait son Amant ?  
 
-    MYRTIL
+    MYRTIL.
 Mélicerte, Madame, elle en peut faire d'autres.  
 
-    ÉROXÈNE
+    ÉROXÈNE.
 Vous comparez, Myrtil, ses qualités aux nôtres ?  
 
-    DAPHNÉ
+    DAPHNÉ.
 Le choix d'elle et de nous est assez inégal.  
 
-    MYRTIL
+    MYRTIL.
 Nymphes, au nom des Dieux, n'en dites point de mal,  
 Daignez considérer, de grâce, que je l'aime,  
 Et ne me jetez point dans un désordre extrême.  
@@ -721,99 +723,99 @@ Ce qui peut le blesser par l'endroit le plus tendre :
 Et pour me dérober à de semblables coups,  
 Nymphes, j'aime bien mieux prendre congé de vous.  
 
-    LYCARSIS
+    LYCARSIS.
 Myrtil, holà, Myrtil, veux-tu revenir, traître.  
 Il fuit, mais on verra qui de nous est le maître.  
 Ne vous effrayez point de tous ces vains transports,  
-Vous l'aurez pour époux, j'en réponds corps pour corps.  
+Vous l'aurez pour époux, j'en réponds corps pour corps.  < Fin du premier Acte. >
 
 
-# Acte II
+# Acte II.
 
 
-## Scène Première
+## Scène Première.
 Mélicerte, Corinne.
 
 
 
 
-    MÉLICERTE
+    MÉLICERTE.
 Ah, Corinne, tu viens de l'apprendre de Stelle,  
 Et c'est de Lycarsis qu'elle tient la nouvelle.  
 
-    CORINNE
+    CORINNE.
 Oui.  
 
-    MÉLICERTE
-Que les qualités, dont Myrtil est orné,  
-Ont su toucher d'amour Éroxène et Daphné ?  
+    MÉLICERTE.
+        Que les qualités, dont Myrtil est orné,  
+Ont su toucher d'amour Éroxène et Daphné.  
 
-    CORINNE
+    CORINNE.
 Oui.  
 
-    MÉLICERTE
-Que pour l'obtenir leur ardeur est si grande,  
+    MÉLICERTE.
+        Que pour l'obtenir leur ardeur est si grande,  
 Qu'ensemble elles en ont déjà fait la demande,  
 Et que dans ce débat elles ont fait dessein  
 De passer dès cette heure à recevoir sa main.  
 Ah, que tes mots ont peine à sortir de ta bouche,  
 Et que c'est faiblement que mon souci te touche.  
 
-    CORINNE
+    CORINNE.
 Mais quoi, que voulez-vous, c'est là la vérité,  
 Et vous redites tout, comme je l'ai conté.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Mais comment Lycarsis reçoit-il cette affaire ?  
 
-    CORINNE
+    CORINNE.
 Comme un honneur, je crois, qui doit beaucoup lui plaire.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Et ne vois-tu pas bien, toi qui sais mon ardeur,  
 Qu'avec ce mot, hélas ! tu me perces le cœur.  
 
-    CORINNE
+    CORINNE.
 Comment ?  
 
-    MÉLICERTE
-Me mettre aux yeux que le sort implacable  
+    MÉLICERTE.
+        Me mettre aux yeux que le sort implacable  
 Auprès d'elles me rend trop peu considérable,  
 Et qu'à moi par leur rang on les va préférer,  
 N'est-ce pas une idée à me désespérer ?  
 
-    CORINNE
+    CORINNE.
 Mais quoi ? je vous réponds et dis ce que je pense.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Ah, tu me fais mourir par ton indifférence.  
 Mais dis, quels sentiments Myrtil a-t-il fait voir ?  
 
-    CORINNE
+    CORINNE.
 Je ne sais.  
 
-    MÉLICERTE
-Et c'est là ce qu'il fallait savoir,  
+    MÉLICERTE.
+        Et c'est là ce qu'il fallait savoir,  
 Cruelle.  
 
-    CORINNE
-En vérité, je ne sais comment faire,  
+    CORINNE.
+        En vérité, je ne sais comment faire,  
 Et de tous les côtés je trouve à vous déplaire.  
 
-    MÉLICERTE
+    MÉLICERTE.
 C'est que tu n'entres point dans tous les mouvements  
 D'un cœur, hélas rempli de tendres sentiments.  
 Va-t'en, laisse-moi seule en cette solitude  
 Passer quelques moments de mon inquiétude.  
 
 
-## Scène II
+## Scène II.
 
-    MÉLICERTE
+    MÉLICERTE.
 Vous le voyez, mon cœur, ce que c'est que d'aimer,  
 Et Bélise avait su trop bien m'en informer.  
 Cette charmante mère avant sa destinée,  
-Me disait une fois, sur le bord du Pénée.  
+Me disait une fois, sur le bord du Pénée,  
 Ma fille, songe à toi, l'amour aux jeunes cœurs  
 Se présente toujours entouré de douceurs.  
 D'abord il n'offre aux yeux que choses agréables :  
@@ -833,22 +835,22 @@ Dont en ce triste jour le destin vous menace,
 Et la peine mortelle où vous voilà réduit !  
 Ah, mon cœur ! ah, mon cœur ! je vous l'avais bien dit :  
 Mais tenons, s'il se peut, notre douleur couverte.  
-Voici...  
+Voici…  
 
 
-## Scène III
+## Scène III.
 Myrtil, Mélicerte.
 
 
 
 
-    MYRTIL
-J'ai fait tantôt, charmante Mélicerte,  
+    MYRTIL.
+        J'ai fait tantôt, charmante Mélicerte,  
 Un petit prisonnier que je garde pour vous,  
 Et dont peut-être un jour je deviendrai jaloux.  
 C'est un jeune Moineau, qu'avec un soin extrême  
 Je veux pour vous l'offrir apprivoiser moi-même.  
-Le présent n'est pas grand : mais les divinités  
+Le présent n'est pas grand ; mais les divinités  
 Ne jettent leurs regards que sur les volontés.  
 C'est le cœur qui fait tout, et jamais la richesse  
 Des présents que… Mais, Ciel, d'où vient cette tristesse ?  
@@ -859,26 +861,26 @@ Redouble encor ma peine et mon impatience.
 Parlez, de quel ennui ressentez-vous les coups ?  
 Qu'est-ce donc ?  
 
-    MÉLICERTE
-Ce n'est rien.  
+    MÉLICERTE.
+    Ce n'est rien.  
 
-    MYRTIL
-Ce n'est rien, dites-vous ?  
+    MYRTIL.
+        Ce n'est rien, dites-vous ?  
 Et je vois cependant vos yeux couverts de larmes,  
 Cela s'accorde-t-il, beauté pleine de charmes ?  
 Ah, ne me faites point un secret dont je meurs,  
 Et m'expliquez, hélas ! ce que disent ces pleurs.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Rien ne me servirait de vous le faire entendre.  
 
-    MYRTIL
+    MYRTIL.
 Devez-vous rien avoir que je ne doive apprendre,  
 Et ne blessez-vous pas notre amour aujourd'hui,  
 De vouloir me voler ma part de votre ennui ?  
 Ah, ne le cachez point à l'ardeur qui m'inspire.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Hé bien, Myrtil, hé bien, il faut donc vous le dire :  
 J'ai su que par un choix plein de gloire pour vous,  
 Éroxène et Daphné vous veulent pour Époux :  
@@ -887,8 +889,8 @@ De n'avoir pu, Myrtil, le savoir sans tristesse,
 Sans accuser du sort la rigoureuse loi,  
 Qui les rend dans leurs vœux préférables à moi.  
 
-    MYRTIL
-Et vous pouvez l'avoir, cette injuste tristesse !  
+    MYRTIL.
+Et vous pouvez l'avoir, cette injuste tristesse,  
 Vous pouvez soupçonner mon amour de faiblesse,  
 Et croire qu'engagé par des charmes si doux,  
 Je puisse être jamais à quelque autre qu'à vous ?  
@@ -901,15 +903,15 @@ Je suis bien malheureux de souffrir cette atteinte :
 Et que me sert d'aimer comme je fais, hélas,  
 Si vous êtes si prête à ne le croire pas.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Je pourrais moins, Myrtil, redouter ces Rivales,  
 Si les choses étaient de part et d'autre égales.  
 Et dans un rang pareil j'oserais espérer,  
 Que peut-être l'Amour me ferait préférer :  
 Mais l'inégalité de bien et de naissance,  
-Qui peut d'elles à moi faire la différence....  
+Qui peut d'elles à moi faire la différence…  
 
-    MYRTIL
+    MYRTIL.
 Ah, leur rang de mon cœur ne viendra point à bout,  
 Et vos divins appas vous tiennent lieu de tout.  
 Je vous aime, il suffit, et dans votre personne,  
@@ -919,7 +921,7 @@ Je n'y changerais pas le bien de vous avoir.
 C'est une vérité toute sincère et pure,  
 Et pouvoir en douter est me faire une injure.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Hé bien, je crois, Myrtil, puisque vous le voulez,  
 Que vos vœux par leur rang ne sont point ébranlés,  
 Et que bien qu'elles soient Nobles, riches et belles,  
@@ -927,52 +929,52 @@ Votre cœur m'aime assez pour me mieux aimer qu'elles :
 Mais ce n'est pas l'Amour dont vous suivez la voix,  
 Votre père, Myrtil, réglera votre choix,  
 Et de même qu'à vous je ne lui suis pas chère,  
-Pour préférer à tout une simple bergère.  
+Pour préférer à tout une simple Bergère.  
 
-    MYRTIL
+    MYRTIL.
 Non, chère Mélicerte, il n'est père ni Dieux  
 Qui me puissent forcer à quitter vos beaux yeux,  
-Et toujours de mes vœux, Reine comme vous êtes...  
+Et toujours de mes vœux, Reine comme vous êtes…  
 
-    MÉLICERTE
-Ah ! Myrtil, prenez garde à ce qu'ici vous faites,  
+    MÉLICERTE.
+Ah, Myrtil, prenez garde à ce qu'ici vous faites,  
 N'allez point présenter un espoir à mon cœur,  
 Qu'il recevrait peut-être avec trop de douceur,  
 Et qui tombant après comme un éclair qui passe,  
 Me rendrait plus cruel le coup de ma disgrâce.  
 
-    MYRTIL
+    MYRTIL.
 Quoi, faut-il des serments appeler le secours,  
 Lorsque l'on vous promet de vous aimer toujours ?  
 Que vous vous faites tort par de telles alarmes,  
 Et connaissez bien peu le pouvoir de vos charmes.  
 Hé bien, puisqu'il le faut, je jure par les Dieux,  
 Et si ce n'est assez, je jure par vos yeux,  
-Qu'on me tuera plutôt que je vous abandonne ;  
+Qu'on me tuera plutôt que je vous abandonne,  
 Recevez-en ici la foi que je vous donne,  
 Et souffrez que ma bouche avec ravissement,  
 Sur cette belle main en signe le serment.  
 
-    MÉLICERTE
-Ah ! Myrtil, levez-vous, de peur qu'on ne vous voie.  
+    MÉLICERTE.
+Ah, Myrtil, levez-vous, de peur qu'on ne vous voie.  
 
-    MYRTIL
-Est-il rien.… Mais, ô Ciel, on vient troubler ma joie.  
+    MYRTIL.
+Est-il rien… Mais, ô Ciel, on vient troubler ma joie.  
 
 
-## Scène IV
+## Scène IV.
 Lycarsis, Myrtil, Mélicerte.
 
 
 
 
-    LYCARSIS
+    LYCARSIS.
 Ne vous contraignez pas pour moi.  
 
-    MÉLICERTE
-Quel sort fâcheux.  
+    MÉLICERTE.
+        Quel sort fâcheux.  
 
-    LYCARSIS
+    LYCARSIS.
 Cela ne va pas mal, continuez tous deux.  
 Peste, mon petit fils, que vous avez l'air tendre,  
 Et qu'en maître déjà vous savez vous y prendre.  
@@ -983,14 +985,14 @@ Votre main à baiser, la gentille Bergère,
 L'honneur vous apprend-il ces mignardes douceurs,  
 Par qui vous débauchez ainsi les jeunes cœurs ?  
 
-    MYRTIL
+    MYRTIL.
 Ah, quittez de ces mots l'outrageante bassesse,  
 Et ne m'accablez point d'un discours qui la blesse.  
 
-    LYCARSIS
-Je veux lui parler moi, toutes ces amitiés...  
+    LYCARSIS.
+Je veux lui parler moi, toutes ces amitiés…  
 
-    MYRTIL
+    MYRTIL.
 Je ne souffrirai point que vous la maltraitiez.  
 À du respect pour vous la naissance m'engage,  
 Mais je saurai sur moi vous punir de l'outrage :  
@@ -1001,7 +1003,7 @@ Au milieu de mon sein vous chercher un supplice,
 Et par mon sang versé lui marquer promptement  
 L'éclatant désaveu de votre emportement.  
 
-    MÉLICERTE
+    MÉLICERTE.
 Non, non, ne croyez pas qu'avec art je l'enflamme,  
 Et que mon dessein soit de séduire son âme :  
 S'il s'attache à me voir, et me veut quelque bien,  
@@ -1016,13 +1018,13 @@ De faire place au choix où vous vous résoudrez,
 Et ne souffrir ses vœux que quand vous le voudrez.  
 
 
-## Scène V
+## Scène V.
 Lycarsis, Myrtil.
 
 
 
 
-    MYRTIL
+    MYRTIL.
 Eh bien, vous triomphez avec cette retraite,  
 Et dans ces mots votre âme a ce qu'elle souhaite :  
 Mais apprenez qu'en vain vous vous réjouissez,  
@@ -1030,11 +1032,11 @@ Que vous serez trompé dans ce que vous pensez,
 Et qu'avec tous vos soins, toute votre puissance,  
 Vous ne gagnerez rien sur ma persévérance.  
 
-    LYCARSIS
+    LYCARSIS.
 Comment, à quel orgueil, fripon, vous vois-je aller ?  
 Est-ce de la façon que l'on me doit parler ?  
 
-    MYRTIL
+    MYRTIL.
 Oui, j'ai tort, il est vrai, mon transport n'est pas sage :  
 Pour rentrer au devoir, je change de langage,  
 Et je vous prie ici, mon Père, au nom des Dieux,  
@@ -1050,110 +1052,110 @@ Sans ses divins appas, rien ne m'est précieux,
 Ils font tout mon bonheur, et toute mon envie,  
 Et si vous me l'ôtez, vous m'arrachez la vie.  
 
-    LYCARSIS
+    LYCARSIS.
 Aux douleurs de son âme il me fait prendre part.  
 Qui l'aurait jamais cru de ce petit pendard ?  
 Quel amour, quels transports, quels discours pour son âge :  
 J'en suis confus, et sens que cet amour m'engage.  
 
-    MYRTIL
-Voyez ; me voulez-vous ordonner de mourir ?  
+    MYRTIL.
+Voyez, me voulez-vous ordonner de mourir ?  
 Vous n'avez qu'à parler, je suis prêt d'obéir.  
 
-    LYCARSIS
+    LYCARSIS.
 Je ne puis plus tenir, il m'arrache des larmes,  
 Et ces tendres propos me font rendre les armes.  
 
-    MYRTIL
+    MYRTIL.
 Que si dans votre cœur un reste d'amitié,  
 Vous peut de mon destin donner quelque pitié,  
 Accordez Mélicerte à mon ardente envie,  
 Et vous ferez bien plus que me donner la vie.  
 
-    LYCARSIS
+    LYCARSIS.
 Lève-toi.  
 
-    MYRTIL
-Serez-vous sensible à mes soupirs ?  
+    MYRTIL.
+        Serez-vous sensible à mes soupirs ?  
 
-    LYCARSIS
+    LYCARSIS.
 Oui.  
 
-    MYRTIL
-J'obtiendrai de vous l'objet de mes désirs.  
+    MYRTIL.
+        J'obtiendrai de vous l'objet de mes désirs ?  
 
-    LYCARSIS
+    LYCARSIS.
 Oui.  
 
-    MYRTIL
-Vous ferez pour moi que son Oncle l'oblige  
+    MYRTIL.
+        Vous ferez pour moi que son Oncle l'oblige  
 À me donner sa main ?  
 
-    LYCARSIS
-Oui, lève-toi, te dis-je.  
+    LYCARSIS.
+        Oui, lève-toi, te dis-je.  
 
-    MYRTIL
+    MYRTIL.
 Ô Père, le meilleur qui jamais ait été,  
-Que je baise vos mains après tant de bonté.  
+Que je baise vos mains, après tant de bonté.  
 
-    LYCARSIS
+    LYCARSIS.
 Ah, que pour ses enfants un père a de faiblesse !  
 Peut-on rien refuser à leurs mots de tendresse,  
 Et ne se sent-on pas certains mouvements doux,  
 Quand on vient à songer que cela sort de vous ?  
 
-    MYRTIL
+    MYRTIL.
 Me tiendrez-vous au moins la parole avancée.  
 Ne changerez-vous point, dites-moi, de pensée ?  
 
-    LYCARSIS
+    LYCARSIS.
 Non.  
 
-    MYRTIL
-Me permettez-vous de vous désobéir,  
+    MYRTIL.
+        Me permettez-vous de vous désobéir,  
 Si de ces sentiments on vous fait revenir :  
 Prononcez le mot.  
 
-    LYCARSIS
-Oui. Ha, nature ! nature,  
+    LYCARSIS.
+        Oui. Ha, nature ! nature,  
 Je m'en vais trouver Mopse, et lui faire ouverture  
 De l'amour que sa Nièce, et toi, vous vous portez.  
 
-    MYRTIL
-Ah, que ne dois-je point à vos rares bontés :  
+    MYRTIL.
+Ah, que ne dois-je point à vos rares bontés !  
 Quelle heureuse nouvelle à dire à Mélicerte,  
 Je n'accepterais pas une Couronne offerte,  
 Pour le plaisir que j'ai de courir lui porter,  
 Ce merveilleux succès qui la doit contenter.  
 
 
-## Scène VI
+## Scène VI.
 Acante, Tyrène, Myrtil
 
 
 
 
-    ACANTE
+    ACANTE.
 Ah ! Myrtil, vous avez du Ciel reçu des charmes,  
 Qui nous ont préparé des matières de larmes,  
 Et leur naissant éclat fatal à nos ardeurs,  
 De ce que nous aimons nous enlève les cœurs.  
 
-    TYRÈNE
+    TYRÈNE.
 Peut-on savoir, Myrtil, vers qui de ces deux Belles  
 Vous tournerez ce choix dont courent les nouvelles,  
 Et sur qui doit de nous tomber ce coup affreux,  
 Dont se voit foudroyé tout l'espoir de nos vœux ?  
 
-    ACANTE
+    ACANTE.
 Ne faites point languir deux Amants davantage,  
 Et nous dites quel sort votre cœur nous partage.  
 
-    TYRÈNE
+    TYRÈNE.
 Il vaut mieux quand on craint ces malheurs éclatants,  
 En mourir tout d'un coup que traîner si longtemps.  
 
-    MYRTIL
+    MYRTIL.
 Rendez, Nobles Bergers, le calme à votre flamme,  
 La Belle Mélicerte a captivé mon âme :  
 Auprès de cet objet mon sort est assez doux,  
@@ -1161,67 +1163,63 @@ Pour ne pas consentir à rien prendre sur vous.
 Et si vos vœux enfin n'ont que les miens à craindre,  
 Vous n'aurez l'un ni l'autre aucun lieu de vous plaindre.  
 
-    ACANTE
-Ah, Myrtil, se peut-il que deux tristes Amants...  
+    ACANTE.
+Ah, Myrtil, se peut-il que deux tristes Amants…  
 
-    TYRÈNE
-Est-il vrai que le Ciel sensible à nos tourments... ?  
+    TYRÈNE.
+Est-il vrai que le Ciel sensible à nos tourments…  
 
-    MYRTIL
+    MYRTIL.
 Oui, content de mes fers comme d'une victoire,  
 Je me suis excusé de ce choix plein de gloire :  
 J'ai de mon Père encore changé les volontés,  
 Et l'ai fait consentir à mes félicités.  
 
-    ACANTE
+    ACANTE.
 Ah, que cette aventure est un charmant miracle,  
 Et qu'à notre poursuite elle ôte un grand obstacle.  
 
-    TYRÈNE
+    TYRÈNE.
 Elle peut renvoyer ces Nymphes à nos vœux,  
 Et nous donner moyen d'être contents tous deux.  
 
 
-## Scène VII
+## Scène VII.
 Nicandre, Myrtil, Acante, Tyrène.
 
 
 
 
-    NICANDRE
+    NICANDRE.
 Savez-vous en quel lieu Mélicerte est cachée ?  
 
-    MYRTIL
+    MYRTIL.
 Comment ?  
 
-    NICANDRE
-En diligence elle est partout cherchée.  
+    NICANDRE.
+        En diligence elle est partout cherchée.  
 
-    MYRTIL
+    MYRTIL.
 Et pourquoi ?  
 
-    NICANDRE
-Nous allons perdre cette beauté.  
+    NICANDRE.
+        Nous allons perdre cette beauté.  
 C'est pour elle qu'ici le Roi s'est transporté,  
 Avec un grand Seigneur on dit qu'il la marie.  
 
-    MYRTIL
+    MYRTIL.
 Ô Ciel, expliquez-moi ce discours, je vous prie.  
 
-    NICANDRE
+    NICANDRE.
 Ce sont des incidents grands et mystérieux :  
 Oui, le Roi vient chercher Mélicerte en ces lieux ;  
 Et l'on dit qu'autrefois feu Bélise sa mère,  
-Dont tout Tempé croyait que Mopse était le frère :  
+Dont tout Tempé croyait que Mopse était le frère…  
 Mais je me suis chargé de la chercher partout,  
 Vous saurez tout cela tantôt de bout en bout.  
 
-    MYRTIL
+    MYRTIL.
 Ah, Dieux, quelle rigueur ! hé Nicandre, Nicandre.  
 
-    ACANTE
-Suivons aussi ses pas, afin de tout apprendre.  
-Fin du second Acte.
-
-Cette Comédie n'a point été achevée, il n'y avaitque ces deux Actes de faits lorsque le Roi la demanda. Sa Majesté en ayant été satisfaite pour la Fête où elle fut représentée, le Sieur de Molière ne l'a point finie.
-
+    ACANTE.
+Suivons aussi ses pas, afin de tout apprendre.  < Fin du second Acte. >< Cette Comédie n’a point été achevée, il n’y avait que ces deux Actes de faits lorsque le Roi la demanda. Sa Majesté en ayant été satisfaite pour la Fête où elle fut représentée, le Sieur de Molière ne l’a point finie. >

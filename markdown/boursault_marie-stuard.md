@@ -17,7 +17,7 @@ A PARIS, Chez JEAN GUIGNARD, à l'entrée de la grand' Salle du Palais, au petit
       master 1 sous la direction de Georges Forestier (2002-2003)
 
 
-# Introduction
+# Introduction.
 
 Nous avons choisi, dans le vaste corpus des œuvres théâtrales du XVII*e* siècle, de nous intéresser au genre tragique et, parmi les nombreuses tragédies composées à l'époque classique, notre choix s'est arrêté sur une pièce à sujet moderne (l'histoire se déroule moins d'un siècle plus tôt) et britannique (la condamnation à mort de la reine d'écosse par la reine d'Angleterre). Ces deux caractéristiques originales, qui semblent avoir desservi la pièce lors de ses quelques représentations, ont au contraire éveillé notre curiosité. Dépréciée dans un contexte daté, il nous a semblé qu'il était temps de s'interroger sur les causes de son échec, qui ne semble pas lié à sa valeur véritable.
 
@@ -32,7 +32,7 @@ L'intérêt de ces tragédies réside aussi dans leur complexité ; on ne peut 
 L'objectif que nous nous sommes assigné est de mieux comprendre comment s'est élaborée *Marie Stuard, Reine d'Écosse* d'Edme Boursault, tragédie publiée en 1691 et d'analyser les raisons de son échec lors de sa représentation sept ans plus tôt, en dépit de ses qualités.
 
 
-# Présentation de l'auteur et de son œuvre
+# Présentation de l'auteur et de son œuvre.
 
 La vie de Boursault n'a fait l'objet que de peu de recherches, jamais très approfondies. Les renseignements dont nous disposons proviennent de deux sources majeures : ses propres *Lettres* et les préfaces, notices et dédicaces publiées au XVIII*e* siècle en tête de recueils de ses pièces de théâtre. Celles-ci se font toutes l'écho, sans jamais le remettre en question, du très subjectif « Avertissement » rédigé par le théatin [1] Caffaro en 1694 c'est-à-dire du vivant de l'auteur, et tout à sa gloire. Les mêmes anecdotes reviennent, plus ou moins développées, d'une notice à l'autre, mais les dates précises manquent. Deux commentateurs, V. Fournel [2] et S-R. Taillandier [3], nous ont laissé des travaux plus fouillés mais ils renvoient régulièrement l'un à l'autre pour se contredire. La meilleure synthèse est peut-être celle de V. Fournel dans son édition du *Théâtre choisi*.
 
@@ -46,10 +46,10 @@ Ce jugement se trouve confirmé par Saint-René Taillandier qui souligne qu'« 
 La vie de Boursault oscille entre bonheurs, liés à ses talents, et revers de fortune, liés à sa maladresse ; un succès vient toujours vite racheter un échec.
 
 
-## Edme Boursault
+## Edme Boursault.
 
 
-### Biographie
+### Biographie.
 
 Edme Boursault naît à Mussy-l'Évêque, aujourd'hui dénommée Mussy-sur-Seine, dans le département de l'Aube c'est-à-dire en Champagne, « au commencement d'octobre de l'année 1638 » comme le dit le Père Caffaro [6]. Celui-ci ajoute que son père appartient à « une des premières familles de ce lieu », ce qui fait de lui un bourgeois de province. C'est donc en connaisseur qu'il peint dans ses comédies les ridicules de sa caste.
 
@@ -88,35 +88,35 @@ Cette remarque inopportune ne fut pas du goût de Louis XIV qui entendait que l'
 Il mourut à Paris le 15 septembre 1701, à l'âge de soixante-trois ans, après s'être confessé à son fils devenu supérieur de la maison des Théatins de Paris [17]. Il succomba à une opération tentée pour le soulager d'une « colique si violente, qu'elle lui noüa l'intestin ». Son fils ajoute dans son « Avertissement » à ses *Œuvres* que « pendant les huit jours qu'il a survécu à une opération si douloureuse, il donna à sa famille les marques les plus édifiantes de courage, de patience, de résignation & de pieté ». Boursault fut en effet très religieux et c'est en toute sincérité qu'il assigne à ses pièces une fin moralisatrice. « Il mourut très-regretté du public et de ses amis, et fut enterré dans l'Église des Théatins de Paris » nous apprend la notice de l'édition de 1786. À sa mort, il est propriétaire d'une honnête fortune et de sa maison de Verneuil.
 
 
-### Rapports entretenus avec ses pairs et influences subies
+### Rapports entretenus avec ses pairs et influences subies.
 
 Saisir les rapports qu'entretenait l'auteur avec les autres écrivains de son temps nous a paru intéressant pour comprendre quels sont ceux qui l'ont influencé et en quelle mesure. La question de l'influence de ses contemporains sur son œuvre parait plus pertinente dans le cas de Boursault qui, nous avons suffisamment insisté sur ce point, arrive à Paris sans posséder aucune connaissance ni du latin ni même du français. Il prend beaucoup de plaisir à se rendre au théâtre, c'est là qu'il apprend la langue française, là que lui naît l'envie de composer lui-même des pièces. Il se plait alors à imiter le style de celles qui l'ont particulièrement séduit. Il copie plus qu'il n'invente et c'est pourquoi il est essentiel de se pencher sur le milieu dans lequel se développe son esprit, c'est-à-dire sur la situation théâtrale de 1653 (il a quinze ans) à la fin du siècle.
 
 On sait que divergences, dissentiments et polémiques étaient omniprésentes dans la vie littéraire du XVII*e* siècle. Boursault, comme tous les auteurs de son temps, s'est compromis dans diverses querelles avec d'autres auteurs. Mais il est intéressant de remarquer qu'il a fort mal choisi ses adversaires en s'attaquant systématiquement à bien plus talentueux que lui. On peut même s'amuser de cette malchance qui lui inspira de critiquer ceux qui composeront, dans la postérité, le panthéon littéraire du XVII*e* siècle : Racine, Molière, Boileau. Bon et généreux, il est aimé de la plupart des écrivains de son temps sauf de trois parmi les plus considérables. Il semble au contraire avoir entretenu toute sa vie une fidèle amitié avec les frères Corneille.
 
 
-#### Boursault et Racine
+#### Boursault et Racine.
 
 En 1669, Boursault transforma son ancienne comédie de 1666, *La Critique des Satyres de M. Despréaux*, dirigée contre Boileau, en *Satyre des Satyres.* Dans cette pièce, il opposa Boyer à Racine pour critiquer ce dernier. Il commit l'erreur de se permettre de blâmer *Britannicus* (1669) de Racine en émettant des réserves quant à la valeur des actes I, II et IV et en condamnant fermement les actes III et V. Il prétendait par exemple que Racine employait trop souvent les locutions « Que fais-je ? », « Que dis-je ? » ou « quoi qu'il en soit ».
 
 En 1670, il rédigea la préface de sa nouvelle historique *Atémise et Poliante*, dans laquelle il loua ironiquement les vers et le jeu des acteurs et fit mine de reconnaître la valeur, voire la nette supériorité de Racine : « Quoique rien ne m'engage à vouloir du bien de M. Racine et qu'il m'ait désobligé sans lui en avoir donné aucun sujet, je vais rendre justice à ouvrage. » Il va même jusqu'à le désigner comme l'égal de son ami Corneille qu'il estime être le meilleur auteur dramatique du temps : « … qui disputaient tous deux de mérite et qui ne trouvent personne qui dispute avec eux ».
 
 
-#### Boursault et Pierre Corneille
+#### Boursault et Pierre Corneille.
 
 Taillandier [18] nous apprend qu'en 1653 environ Boursault adressa ses hommages aux deux Corneille et se déclara ami et disciple de Pierre Corneille ; il avait à peine quinze ans. Hiacinthe Boursault affirme que le grand Corneille appelait Boursault son « fils » et qu'il l'honorait de son avis, de ses conseils et même « le plus souvent, de son approbation ». Corneille aurait même vanté *Germanicus* à l'Académie en disant « qu'il ne manquait à cette Pièce que le nom de Racine, à qui elle ne feroit point deshonneur ». Si cette anecdote, que l'on trouve retranscrite dans toutes les notices sur la vie de Boursault, possède une part de vérité, il est probable que Corneille n'a tenu de tels propos que pour offenser Racine. Ce qui relève sans doute de la pure invention, c'est que *Germanicus* soit à l'origine d'une dispute entre ces deux auteurs : Racine aurait relevé ce propos avec aigreur et Corneille l'aurait soutenu « avec feu » [19].
 
 Le fait que les œuvres de la période allant de 1653 à la fin du siècle soient celles qui « forment » Boursault et celles dont il s'inspire, permet de penser qu'il n'est pas resté indifférent au succès de Corneille dont le nom, en 1653, domine quasiment seul. Pour *Marie Stuard*, il semble qu'il ait tenté de se hausser jusqu'au niveau de Corneille, son maître le plus illustre. C'est en tout cas ce qu'affirme une notice de ses *Œuvres* [20].
 
 
-#### Boursault et Thomas Corneille
+#### Boursault et Thomas Corneille.
 
 Il semblerait que Thomas Corneille ait nourri une affection particulière pour Boursault, qu'il l'ait même poussé à postuler à l'Académie française. Selon la version de Hiacinthe Boursault, c'est par modestie que ce dernier s'y serait toujours refusé, parce qu'il avait conscience que son ignorance du latin et du grec ne faisait pas de lui un candidat digne d'une telle consécration. La même Hiacinthe Boursault cite des compliments adressés par T. Corneille à Boursault et un madrigal à la louange de sa pièce *Phaëton.* Taillandier et beaucoup d'autres affirment également que Thomas Corneille a témoigné « amitié et reconnaissance » à Boursault « jusqu'au dernier jour ».
 
 Si Boursault a écrit surtout des comédies, c'est qu'il a été tout particulièrement séduit par la gaîté et la bonne humeur des pièces de Thomas Corneille et de Scarron, nous dit Taillandier. Nous pensons que *Marie Stuard* est en partie inspirée du *Comte d'Essex* de Thomas Corneille.
 
 
-#### Boursault et Molière
+#### Boursault et Molière.
 
 Boursault, avant d'appartenir au clan des ennemis de Racine, a commencé par figurer au nombre des ennemis de Molière. Revillout [21] souligne que Boursault s'est mis en délicate posture en s'attaquant à un si grand auteur.
 
@@ -131,7 +131,7 @@ En octobre 1663, Molière fait représenter *L'Impromptu de Versailles*, une com
 En novembre de la même année, l'Hôtel de Bourgogne monte tour à tour *L'Impromptu de l'Hôtel de Condé* de Montfleury fils et *La Vengeance des marquis* de Villiers afin de concurrencer la pièce de Molière. Dix ans plus tard (en 1673), Boursault pleure néanmoins la mort de Molière et lui rend un hommage éclatant [25], témoignage ultime de sa grande admiration pour lui.
 
 
-#### Boursault et Boileau
+#### Boursault et Boileau.
 
 Boileau prend part à la querelle qui oppose son ami Molière à Boursault. À la suite du *Portrait du Peintre*, il attaque lui aussi Boursault dans sa septième *Satyre*, en plaçant son nom de façon désobligeante :
 
@@ -147,10 +147,10 @@ Aux alentours de 1685, Boursault n'hésite cependant pas à venir en aide à son
 Les attaques de Boursault ne furent jamais féroces et il ne garda aucune rancune de celles qu'on lui fit. Il reconnut au contraire rapidement la supériorité de ses adversaires lorsqu'elle existait de manière évidente. Il sut mettre un terme à des luttes dont il avait conscience qu'elles ne feraient que révéler son manque de goût et sa fatuité. Modeste, il mesura en toute lucidité la distance qui le séparait de ceux qu'il considérait au fond comme ses maîtres et qu'il essaya d'imiter consciencieusement en vertu de l'admiration qu'il leur vouait. Il faut par ailleurs reconnaître que Boursault doit en partie sa célébrité à ces guerres de plumes qui firent parler de lui, surtout lorsqu'il s'opposa à Molière et Boileau.
 
 
-## L'œuvre de Boursault dans son ensemble
+## L'œuvre de Boursault dans son ensemble.
 
 
-### Liste de ses pièces par ordre chronologique de leur représentation
+### Liste de ses pièces par ordre chronologique de leur représentation.
 
 Novembre 1661, *Le Médecin volant*, comédie en un acte et en vers, représentée à l'Hôtel de Bourgogne et imprimée à Paris quatre ans plus tard (1665) ainsi que dans ses *Œuvres*.
 
@@ -195,7 +195,7 @@ Dans certaines notices on peut lire que dans cette pièce, Boursault s'attaque �
 Représentations et ouvrages posthumes : 16 décembre 1701, *Esope à la Cour*, comédie héroïque en cinq actes et en vers dédiée à la Duchesse de Villequier par la veuve de l'auteur, représentée au Théâtre François et imprimée à Paris en 1702 chez François le Breton In-12 ainsi que dans ses *Œuvres.*
 
 
-### Genres pratiques et genre de prédilection
+### Genres pratiques et genre de prédilection.
 
 L'œuvre de Boursault est multiple. À la fois dramaturge, épistolier, satiriste, gazetier, poète et romancier, il s'est essayé aux genres les plus divers. Il commence à écrire assez jeune et débute par des comédies, de qualité médiocre, ainsi que par des fables et des lettres mêlées de vers et de proses. Dans ses *Lettres à Des Barreaux* il affirme que c'est à ce poète, qui le premier l'avait remarqué, qu'il doit ses progrès en littérature, c'est pourquoi P. Brun le présente comme « le disciple de Des Barreaux ». Sa carrière journalistique présente, aux yeux de critiques comme P. Brun, le plus grand intérêt dans son œuvre. C'est en tous cas sa correspondance qui occupe la plus large part de ses écrits. Si elle a retenue l'attention, c'est qu'elle fournit un témoignage très détaillé de l'époque, sur les milieux mondains qu'il fréquente, l'actualité politique qu'il suit avec intérêt ou sur les activités de la cour, dont il informe ses amis.
 
@@ -204,7 +204,7 @@ Ce ne sont pas ses pièces de théâtre (seize seulement) qui occupent la part l
 Il est sans cesse présenté comme « l'ami des frères Corneille » [30]. C'est peut-être en vertu de cette amitié qu'on a voulu ranger Boursault parmi les ennemis de Racine, qu'il admirait malgré la querelle autour de *Britannicus.*
 
 
-### Réception et postérité de ses œuvres
+### Réception et postérité de ses œuvres.
 
 En 1651, toujours d'après P. Brun, Boursault aurait été le protégé de Pelisson qui le présentera à Fouquet uniquement sur « sa bonne mine, son jeune âge et ses qualités naturelles ».
 
@@ -227,7 +227,7 @@ Enfin, on peut voir dans le fait que *Marie Stuard* n'ait pas été rééditée 
 ## *Marie Stuard, Reine d'Écosse*, tragédie en 5 actes et en vers, 1683/91.
 
 
-### Création, représentations et réception de *Marie Stuard*
+### Création, représentations et réception de *Marie Stuard*.
 
 *Marie Stuard* fut créée pour la première fois le 17 décembre 1683 sur la scène de la Comédie française, au théâtre Guénégaud. La pièce tomba après sept représentations seulement. Nous n'avons pas réussi à trouver de témoignage permettant de savoir à quoi pouvaient ressembler les décors et la mise en scène. Les recettes furent très modestes d'après les frères Parfait, qui ne donnent pas leur montant [36]. Le registre de La Grange [37] stipule qu'elles s'élevèrent à 393,50 francs le mardi 17 décembre 1683. Mais, après cinq représentations [38], elles avaient déjà chuté de plus de moitié (172,25 francs) le 15 janvier 1684, jour de la dernière représentation.
 
@@ -241,12 +241,12 @@ Ne pouvant cependant pas nous satisfaire de cette hypothèse, il nous faut cherc
 ### Un échec annoncé ?
 
 
-#### Question du choix du genre tragique : une exception dans l'ensemble de l'œuvre
+#### Question du choix du genre tragique : une exception dans l'ensemble de l'œuvre.
 
 Sur les quinze pièces de théâtre composées par Boursault, deux seulement sont des tragédies : *Germanicus*, représenté vers 1671 ou 1673, qui remporta un succès considérable et *Marie Stuard, Reine d'Écosse* qui ne connut pas plus de sept représentations.
 
 
-#### Question du choix d'un sujet moderne et anglais dans le contexte de l'histoire de la dramaturgie du XVII*e* siècle
+#### Question du choix d'un sujet moderne et anglais dans le contexte de l'histoire de la dramaturgie du XVII*e* siècle.
 
 *Marie Stuard* est une pièce tout à fait plaisante à lire et de valeur au moins égale à beaucoup d'autres qui reçurent un meilleur accueil. Le problème vient plutôt de ce qu'elle n'a pas touché la sensibilité de l'époque. En effet, le sujet présente la double originalité d'être à la fois moderne et anglais, qualités que l'on pourrait considérer comme à l'origine de cet échec.
 
@@ -265,16 +265,16 @@ Mais Boursault s'était déjà risqué à choisir un sujet moderne en 1678 avec 
 Pour conclure, nous pensons que, dans ce contexte, aborder le sujet de Marie Stuart n'est pas un geste neutre et que peut-être Boursault n'a pas réalisé combien il serait difficile pour un novice en matière de tragédie, de s'attaquer à ce genre avec un sujet moderne et anglais. Mais Jane Conroy ouvre une perspective plus intéressante en signalant « la coexistence de deux esthétiques divergentes en matière de tragédie, liées peut-être à un clivage social. » Ainsi, elle nous apprend qu'« une même pièce pouvait être applaudie à l'hôtel de Saint-Aignan par des modernistes imbus de l'esprit des Corneille ou de Fontenelle, et être huée au théâtre Guénégaud –sans que l'on doive nécessairement taxer l'un ou l'autre public d'insincérité ou de parti pris ».
 
 
-# L'élaboration de la tragédie
+# L'élaboration de la tragédie.
 
 
-## Histoire du sujet
+## Histoire du sujet.
 
 
-### Place des sujets britanniques dans la création dramatique des XVI*e* et XVII*e* siècles
+### Place des sujets britanniques dans la création dramatique des XVI*e* et XVII*e* siècles.
 
 
-#### Historique du sujet permettrant de mieux apprécier avec quelle fréquence il fut mis en acte aux XVI*e* et XVII*e* siècles
+#### Historique du sujet permettrant de mieux apprécier avec quelle fréquence il fut mis en acte aux XVI*e* et XVII*e* siècles.
 
 Au XVI*e* siècle, nous avons pu recenser quatre pièces consacrées à Marie Stuart :
 
@@ -317,7 +317,7 @@ Sur l'histoire britannique de cette même période :
 Ces pièces sont difficiles à comparer, d'abord parce que le talent de leurs auteurs respectifs est très divers, ensuite parce qu'ils ne partagent pas tous la même conception de la tragédie historique et enfin parce que la distance temporelle qui sépare ces auteurs nous interdit d'attendre qu'ils respectent les mêmes règles dramaturgiques (qui évoluent avec le siècle) ou qu'ils perçoivent de la même manière des figures anglaises et écossaises (dont l'image évolue également avec le temps). Ce qui les réunit reste bien sûr le fait que le sujet soit puisé dans l'histoire de la Grande-Bretagne du XVI*e* siècle.
 
 
-#### Dates des événements clés qui reviennent de pièces en pièces
+#### Dates des événements clés qui reviennent de pièces en pièces.
 
 1569 : Le bruit court d'un projet de mariage entre Marie Stuart et Norfolk.
 
@@ -334,7 +334,7 @@ Décembre et janvier 1586 : Pomponne de Bellièvre harangue Elisabeth.
 Février 1587 : Exécution de Marie Stuart.
 
 
-#### Périodes historiques aux sources des différentes pièces sur le sujet de Marie Stuart
+#### Périodes historiques aux sources des différentes pièces sur le sujet de Marie Stuart.
 
 *Montchrestien, *L'Escossoise*, 1601* : représente des événements qui eurent lieu entre octobre ou novembre 1586 et janvier 1587 [48].
 
@@ -343,7 +343,7 @@ Février 1587 : Exécution de Marie Stuart.
 *Edme Boursault, *Marie Stuard, Reine d'Écosse*, (17 décembre 1683)* : comme Regnault, il prend pour période les 17 ou 18 ans qui séparent la conspiration de Norfolk de l'exécution de Marie Stuart.
 
 
-#### Périodes historiques aux sources des pièces sur d'autres sujets modernes et britanniques et sujets de ses pièces
+#### Périodes historiques aux sources des pièces sur d'autres sujets modernes et britanniques et sujets de ses pièces.
 
 *La Calprenède, *Jeanne, Reyne d'Angleterre*, (début 1637)* : traite d'événements qui s'échelonnent sur huit mois, de juillet 1553, dernière phase du règne éphémère de Jeanne Grey, à février 1554, date de son exécution [49]. La tragédie prend pour sujet la mort de Jeanne, montée sur le trône à la place de sa cousine Marie I*re*. Après avoir repris le trône à Jeanne, en vertu de l'invalidité du testament d'Édouard (dont Northbeland s'était servi pour usurper le trône), Marie I*re* doit décider du sort de sa prisonnière. Elle souhaiterait un régime de paix et de douceur mais Élisabeth et lui conseille de prendre des mesures sanglantes. Nolfolc est le président du procès et prône lui aussi la rigueur. Marie hésite beaucoup ; Jeanne finit par être exécutée ; Marie blâme ses conseillers et leur prédit que cette violence se retournera contre eux sous le règne de terreur qu'amènera élisabeth.
 
@@ -360,7 +360,7 @@ Février 1587 : Exécution de Marie Stuart.
 Nous avons pris le parti de ne pas étudier cette pièce, dont la première source alléguée par Boyer est la tragédie de La Calprenède, qui avait été reprise à l'Hôtel de Bourgogne entre 1642 et 1647 (au moment où il débutait au théâtre), mais dont l'action est en fait plus proche de celle de *Bajazet* de Racine. Boyer lui fait également de nombreux emprunts au *Comte d'Essex* de Thomas Corneille, qui est une source évidente. Il faut dire que si les deux pièces se rapprochent, c'est qu'elles s'inspirent toutes deux de* Bajazet* (l'amante du héros est toujours la confidente d'Élisabeth, comme Atalide est celle de Roxane). L'Élisabeth de Boyer, plus vindicative et plus emportée que celle de T. Corneille, reste cependant plus proche de son modèle racinien.
 
 
-### Après Boursault : postérité du sujet de Marie Stuart
+### Après Boursault : postérité du sujet de Marie Stuart.
 
 Avant la fin du siècle, deux autres pièces françaises sur le même sujet voient le jour.
 
@@ -371,13 +371,13 @@ En 1690, un auteur anonyme écrit une *Marie Stuart Tragédie avec des interprè
 Au XVIII*e* siècle, le sujet n'inspire que deux pièces mais il sera redécouvert au XIX*e* siècle durant lequel pas moins de dix-huit pièces seront créées en France.
 
 
-## Les sources historiques
+## Les sources historiques.
 
 
-### L'Histoire moderne de l'Angleterre : éclaircissements nécessaires
+### L'Histoire moderne de l'Angleterre : éclaircissements nécessaires.
 
 
-#### Vie politique de l'Écosse : la dynastie des Stuart dans ses rapports avec la France et l'Angleterre
+#### Vie politique de l'Écosse : la dynastie des Stuart dans ses rapports avec la France et l'Angleterre.
 
 La seconde moitié du XVI*e* siècle est doublement marquée par des conflits de caractère politique d'une part (entre l'Angleterre et l'Écosse et entre la France et l'Angleterre) et par les guerres de religion liées à la Réforme d'autre part.
 
@@ -398,19 +398,19 @@ Jacques V (1513-1542), n'avait que dix-sept mois lorsque son père fut tué, et 
 Après sa mort, Marie de Guise assura la régence jusqu'à la majorité de sa fille ; cette période fut marquée par le développement d'un fort sentiment anti-français et par l'amplification de l'agitation politique. En 1548 la régente obtint du parlement écossais que Marie se fiance avec le futur François II et elle l'envoya en France le 7 août 1548.
 
 
-#### Vie de Marie Stuart
+#### Vie de Marie Stuart.
 
 Elle naît le 8 décembre 1542 à Linlithgow et succède à son père Jacques V, roi d'Écosse, seulement cinq jours plus tard. Envoyée en France pour son éducation dès l'âge de cinq ans, elle y reçoit des Guise une éducation très soignée mais aussi très catholique. Belle, intelligente, séduisante et utile politiquement (elle représentait le moyen d'annexer l'écosse voire l'Angleterre), elle fait l'unanimité à la Cour de France. Le 24 avril 1558, à quinze ans, elle épouse le dauphin, François, qui devient roi de France en 1559 et qui meurt l'année suivante. À la mort de sa mère Marie de Guise en juin 1560, Marie Stuart, veuve depuis quelques mois, regagne l'Écosse (15 août 1561) et monte réellement sur le trône. La mort de sa mère avait laissé le vrai pouvoir aux mains des seigneurs protestants dont le chef était James Stewart, comte de Moray et demi-frère de Marie. Elle n'est donc pas la bienvenue et doit associer ce dernier à son règne. En juillet 1565, elle se marie secrètement avec son cousin, le catholique lord Henry Darnley, ce qui mécontenta la noblesse protestante, accrut la méfiance d'Élisabeth (Darnley pouvait prétendre à la succession d'Angleterre en tant qu'arrière-petit-fils d'Henri VII) et fut à l'origine d'une révolte fomentée par Moray. Celui-ci s'était allié à une famille noble écossaise et espérait être rejoint par tout le parti protestant, mais l'insurrection fut réprimée. Marie Stuart avait alors déjà fait de son secrétaire, le catholique David Rizzio, son nouvel amant. Henry Darnley qui voyait en lui un obstacle majeur à ses ambitions [55], le fit assassiner en mars 1566. En juin de la même année naquit Jacques VI, fils légitime de Marie et de Darnley. En février 1567, elle commandite l'assassinat spectaculaire (à l'aide d'une bombe) de lord Darnley. Trois mois plus tard, elle épousa un des assassins, le comte de Bothwell, qui la tenait prisonnière. Le mariage est célébré selon le rite protestant, ce qui irrita à nouveau la noblesse écossaise. Elle manœuvra avec maladresse et ne sut pas s'opposer aux protestants. Le 15 juin 1567, les troupes royales qui luttaient contre l'aristocratie écossaise furent défaites à Carberry Hill. Marie fut emprisonnée à Lochleven en juin 1567. Le 24 juillet, elle fut donc contrainte d'abdiquer en faveur de son fils et le comte de Moray fut proclamé Régent. Elle parvint à s'évader le 2 mai 1568, rétracta son abdication, réunit en quelques jours une armée de 6000 hommes, mais ses partisans furent écrasés à Langside le 12 mai. Elle dut alors s'enfuir en Angleterre et alla trouver refuge à la cour d'Elisabeth I*re*, sa cousine, qui la séquestra à la tour de Londres durant dix-huit ans (1568-1586), afin de mettre fin à l'agitation catholique en Angleterre. En septembre 1569, le duc de Norfolk, l'un des premiers pairs d'Angleterre, fut arrêté pour avoir projeté d'épouser Marie Stuart sans en avoir informé élisabeth. Libéré en août 1570, il récidiva. Deux confidents particulièrement mal choisis, Moray et Leicester, le trahirent. Il fut condamné en janvier 1572 et exécuté en juin. Élisabeth donna quatre fois l'ordre de le juger et le révoqua trois fois. Cet échec de Norfolk compromit définitivement Marie Stuart aux yeux des Anglais. À partir de 1571/72 l'aspect religieux prit plus d'importance : Marie fut accusée d'être d'intelligence avec les puissances catholiques (comme la France) en vue d'une invasion et donc de menacer la stabilité de l'Angleterre protestante. Jusqu'en 1586, Marie Stuart continua de correspondre avec tous les princes dont elle espèrait du secours. En 1586, un complot de son page Anthony Babington, sous la direction de Francis Walsingham (membre du parti catholique regroupé derrière elle) fut mis au jour. Marie comparut donc en octobre devant le tribunal de Fotheringay et fut condamnée à mort quelques semaines plus tard. Le Parlement s'empressa de demander la mise à exécution de la sentence. On prépara soigneusement l'opinion publique aussi bien en Angleterre qu'à l'étranger. Henri III envoya Pomponne de Bellièvre défendre Marie devant Elisabeth. La reine hésita, puis finit par signer l'ordre d'exécution le 1er février 1587 ; Marie fut décapitée le 8 février.
 
 
-#### Vie d'Elisabeth
+#### Vie d'Elisabeth.
 
 Née à Greenwich en 1533, du roi Henri VIII et de sa deuxième épouse Anne Boleyn, elle fut déclarée illégitime après l'annulation du mariage de ses parents. Henri VIII fit exécuter sa femme en 1536 sous prétexte d'une relation adultérine qu'elle n'avait pas eu, afin d'épouser Jeanne Seymour. Élisabeth fut alors éloignée mais, bien qu'élevée loin de la cour, elle reçut une éducation soignée, dispensée par des humanistes réputés. Elle parlait six langues (anglais, français, italien, allemand, grec et latin) avec aisance. Elle revint à la cour à l'instigation de la sixième épouse d'Henri VIII, Catherine Parr, et recouvrit ses droits au trône, au troisième rang dans l'ordre de succession (après Édouard et Marie). Le règne de son demi-frère Édouard VI (1547-1553) fut agité par des intrigues politiques auxquelles Élisabeth ne prit aucune part. En 1554, bien qu'elle ait apporté un soutient inconditionnel à la nouvelle reine, sa demi-sœur Marie I*re* Tudor, elle fut emprisonnée à la tour de Londres pour avoir hypothétiquement soutenu la conspiration protestante de Thomas Wyatt. En 1558, à la mort de Marie I*re*, elle accéda, en tant qu'héritière désignée, au trône d'Angleterre, sous condition de maintenir la foi catholique dans le royaume. Les lords, membres de l'épiscopat catholique hérité de Marie Tudor, contestèrent son accession au trône en vertu de l'acte d'annulation du mariage de ses parents. Afin de légitimer son titre, elle se fit immédiatement reconnaître par les Communes (qui étaient plutôt protestantes). En dépit des conditions d'accession à la couronne, elle rétablit la suprématie de l'Église anglicane aux dépens de la foi catholique en imposant par exemple le *Book of Common Prayer* – rédigé en 1549 – pour toute liturgie. En 1566, l'engagement d'Elisabeth en faveur du protestantisme la conduisit à soutenir les Pays-Bas en révolte contre le roi Philippe d'Espagne, acte à l'origine d'une guerre avec l'Espagne en 1585. Le 8 août 1588, la défaite de l'*Invincible Armada* consacra la supériorité maritime de l'Angleterre. En 1570, le pape Pie V libèra les catholiques anglais de l'obligation d'allégeance à la reine en l'excommuniant. Sur le plan purement politique, Elisabeth gouverna en monarque absolu, s'entourant de quelques rares conseillers dont William Cecil. Elle refusa de se marier, ce qui posa le problème de sa succession et lui valut le surnom de « reine vierge », bien qu'elle entretînt de nombreuses liaisons, notamment avec les comtes de Leicester et d'Essex.
 
 Après la mort d'Elisabeth en 1603, c'est au fils de Marie Stuart (qui lui avait succédé en 1587), Jacques VI d'Écosse, que revint la couronne d'Angleterre. L'Écosse et l'Angleterre se trouvérent alors pour la première fois réunies.
 
 
-#### Présentation du comte d'Essex
+#### Présentation du comte d'Essex.
 
 Au début du XVII*e* siècle, c'est à l'échelle européenne qu'il faut envisager la notoriété de ce personnage controversé, qui suscita l'admiration et l'envie aussi bien que la désapprobation. Il commença sa carrière, comme tout jeune ambitieux, par des faits d'armes et diverses charges assez lucratives (dont une dans la conduite des affaires de l'État). Bel homme, séducteur, la reine Élisabeth lui marquait une faveur toute particulière, ce qui lui présageait un avenir glorieux. Sa révolte, sa disgrâce, son procès (récupéré au profit de la propagande élisabéthaine) et son exécution, qui prit des allures de crime passionnel, ne firent qu'accroître sa très grande popularité au sein de la noblesse comme de toutes les couches de la société.
 
@@ -423,7 +423,7 @@ La Calprenède parle de ses « crédulitez » et Boyer lui attribue le désir 
 En 1599, il fut nommé maréchal et vice-roi et partit à la tête de l'armée qu'Élisabeth envoyait en Irlande. Mais il ne parvint pas à écraser les rebelles qui l'attirèrent dans les tourbières où il s'embourba et il dut engager des pourparlers avec le comte de Tyrone, Hugh O'Neill. Cette débâcle lui valut un procès (le 5 juin 1600) qu'il supporta mal, bien qu'il soit mené discrètement de peur d'un soulèvement du peuple. Ne parvenant pas à rentrer en faveur, il reprit sa correspondance avec les partisans de Jacques VI d'Écosse. Les plus prudents de ses amis lui conseillèrent de s'exiler mais il choisit de faire appel « pour sa protection » aux gens de Londres. Le 18 février 1601, il retint prisonniers chez lui les commissaires venus le sommer de se présenter à la reine ou de leur faire connaître ses griefs. Il se promène alors dans les rues de Londres mais n'obtint pas l'appui du peuple et dut se retirer dans sa maison. Bientôt assiégé, il fut forcé de se rendre. Parmi les lettres saisies chez Essex en février 1601, certaines compromettaient le roi Jacques VI dans ses intrigues. Elisabeth décida de ne pas les publier car elle tenait le fils de Marie Stuart pour son seul successeur possible. Il fut jugé le 4 mars. Elisabeth hésita – selon la légende, qui cependant semble exacte – à donner suite au jugement et à le remettre au garde des Sceaux, Cecil. Le lendemain, celui-ci communiqua ses ordres au lieutenant de la Tour et l'exécution se déroula sans incident le jour suivant, 7 mars, à six heures du matin.
 
 
-### Nécessité d'adapter la pièce au public : ce qu'il reste de l'histoire réelle
+### Nécessité d'adapter la pièce au public : ce qu'il reste de l'histoire réelle.
 
 
 #### Histoire britannique ou mythe anglais ?
@@ -437,7 +437,7 @@ De plus, les tragédies classiques possèdent toujours une dimension allégoriqu
 Bien plus que d'histoire, c'est de légende qu'il faudrait parler, « les grandes figures de l'histoire anglaises étant vite devenues des mythes » comme l'explique très bien Jacques Truchet [58] qui ajoute qu'« on ne pouvait les convoquer sans mettre en cause le droit divin et la raison d'État, et sans soulever les questions brûlantes du machiavélisme et du régicide ».
 
 
-#### Mythe de Marie Stuart
+#### Mythe de Marie Stuart.
 
 La légende de Marie Stuart permet presque à elle seule de résumer les oppositions européennes nées de la Réforme [59], dans la mesure où, comme l'explique Jane Conroy :
 
@@ -457,12 +457,12 @@ L'exécution de Marie le 8 février 1587 raviva les débats et engendra une mult
 Vers la fin du siècle ce manichéisme s'atténue du fait du problème de la succession : le fils de Marie Stuart, Jacques VI, est le candidat le plus probable à la couronne. Or il est protestant et on ne croit plus en sa conversion au catholicisme. Les adversaires catholiques d'Élisabeth I*re* jugèrent à propos de se radoucir.
 
 
-#### Images de Marie Stuart de Montchrestien (1601) à Regnault (1637)
+#### Images de Marie Stuart de Montchrestien (1601) à Regnault (1637).
 
 Trente-cinq années séparent *L'Escossoise* de *Marie Stuard Reyne d'Ecosse*. La tendance durant cette période est à l'hagiographie et à la martyrologie, Marie Stuart servant la cause de ceux qui luttent contre les hérétiques et s'évertuent à édifier le peuple. De nombreux écrits ont porté sur ce sujet : pièces de théâtre (Carlo Ruggieri, *La Reina di Scotia*, 1604 ; Van Zevecote, *Stuarta*, 1623 – date de représentation, la pièce ne fut pas publiée), longs poèmes (Georges Conn, *Vita Mariae Stuartae*, 1624 ; Lope de Vega, *Corona tragica, vida y muerte de la serenissima Reyna de Escocia Maria Estuarda*, Madrid, 1637), histoires (très partisanes), histoires ecclésiastiques, biographies et recueils de « Vies » à forte tendance religieuse.
 
 
-#### Fortune de Marie Stuart de Regnault (1637) à Boursault (1683)
+#### Fortune de Marie Stuart de Regnault (1637) à Boursault (1683).
 
 En France, le sujet n'inspire personne depuis Regnault jusqu'à Boursault. Mais qu'en est-il de la production dramatique des autres pays d'Europe durant cette période ?
 
@@ -477,7 +477,7 @@ En Angleterre, John Banks publie, trois ans après Boursault (1694), la premièr
 D'autres genres témoignent également de la fortune de Marie Stuart durant la période 1639-1694 : biographies, mémoires, histoires ecclésiastiques ou neutres. Les œuvres romanesques (romans et nouvelles – secrètes, historiques ou galantes) exercent, à partir de 1660, une influence croissante sur les esprits.
 
 
-#### Une autre légende : l'incident de la bague
+#### Une autre légende : l'incident de la bague.
 
 C'est La Calprenède qui le premier introduit dans l'action de sa tragédie l'histoire de la bague « gage d'amour », qui a toujours suscité un grand intérêt. Jane Conroy fait l'étude de cet incident récurrent et affirme qu'il permet, « à travers ses diverses variantes » de « saisir, dans toute sa complexité, l'enchevêtrement de l'histoire et du mythe » [68]. La version de départ, celle des historiographes, fut transformée par l'imagination populaire qui y intégra des passions humaines et cette nouvelle version fut véhiculée depuis la tradition orale jusqu'à gagner le domaine littéraire et, plus précisément, de la fiction dramatique. Jane Conroy décompose cet épisode en quatre :
 
@@ -492,21 +492,21 @@ C'est La Calprenède qui le premier introduit dans l'action de sa tragédie l'hi
 En France, de 1636 à 1678, aucun ouvrage n'est entièrement consacré à Essex et ses relations avec la reine mais il est évoqué dans toutes les histoires et mémoires du règne d'Elisabeth. Il peut être intéressant de savoir que l'image de celle-ci se modifia avec le temps et que les Français, sans oublier sa persécution des catholiques, s'intéressèrent davantage à ses qualités, (comme son intelligence ou son art de régner) et commencèrent à faire d'elle l'héroïne d'histoires galantes.
 
 
-## Les sources littéraires
+## Les sources littéraires.
 
 
-### Regnault, *Marie Stuard, Reyne d'Écosse*, 1637-1639
+### Regnault, *Marie Stuard, Reyne d'Écosse*, 1637-1639.
 
 
-#### Présentation de l'auteur et de sa tragédie
+#### Présentation de l'auteur et de sa tragédie.
 
 
-##### Sur Charles Regnault
+##### Sur Charles Regnault.
 
 On ignore tout de sa vie, jusqu'à sa date de naissance ; son identité elle-même fut sujette à caution. Jane Conroy, recoupant plusieurs hypothèses, arrive à la conclusion qu'il était encore jeune en 1639 et qu'il ne peut donc s'agir, comme l'affirmait M. Paulson [69], de l'acteur Pierre Regnault, né en 1595. Le précieux ouvrage de Jane Conroy permet de faire le tri entre ce qu'on lui a attribué et ce qu'il écrivit réellement. Son œuvre se limite en fait aux *Métamorphoses Françoises*, 1641, rédigées en collaboration avec « diverses plumes » et à une autre pièce, *Blanche de Bourbon, Reyne d'Espagne*, tragi-comédie, Paris, Toussaint Quinet, 1642. Regnault disparut après 1643.
 
 
-##### Composition, représentations et éditions
+##### Composition, représentations et éditions.
 
 C'est en 1637 que la pièce fut probablement composée. Elle fut jouée durant la saison 1637-38. Il y eut, au XVII*e* siècle, trois éditions qui fixent trois états extrêmement différents du texte :
 
@@ -519,7 +519,7 @@ C'est en 1637 que la pièce fut probablement composée. Elle fut jouée durant l
 Nous avons travaillé à partir de l'édition de 1641 qui apporte de nouvelles modifications [71] par rapport à l'in-12 de 1639.
 
 
-##### Réception : succès et postérité
+##### Réception : succès et postérité.
 
 Les pièces de Regnault dans leur ensemble ont été couronnées de succès. La dédicace de Marie Stuart, adressée à Richelieu, stipule que celui-ci n'a pas « refusé des larmes à la repesentation d'un sujet si tragique ». Dans la seconde édition de cette tragédie se trouve un rondeau de La Mailleraye qui confirme que la pièce a plu à tout le monde et notamment à Richelieu,
 
@@ -537,7 +537,7 @@ Les transformations opérées par l'auteur entre les différentes éditions (com
 En revanche, l'unité d'action est transgressée dans deux cas : au moment de la mort de Mourray, qui intervient sans qu'aucune allusion aux luttes armées entre Angleterre et Écosse n'ait jamais été faite et alors que l'on ignorait qu'il était parti guerroyer ; à la venue trop tardive (au cinquième acte seulement) de l'Ambassadeur de France, qui joue un rôle important dans le revirement d'Elisabeth bien qu'il ne nous ait pas été présenté et n'ait pas participé à l'action. Le caractère de ce personnage peut aussi être taxé d'invraisemblance à cause de sa réaction sans retenue, sans « diplomatie » et même sans dignité.
 
 
-#### Résumé de la pièce
+#### Résumé de la pièce.
 
 *Acte I* : Scène 1 : Se déroule dans la prison de la Tour de Londres où Marie Stuard est séquestrée par élisabeth. Marie raconte la longue suite de ses malheurs depuis sa naissance et espère que son mariage avec Nolfoc, prévu pour le jour même, y mettra un terme. Mais elle redoute la réaction d'élisabeth qu'elle sait amoureuse de son amant. Scène 2 : Se passe dans le palais de son frère illégitime, Mourray. Lui et son complice, Kemt, s'emploient à discréditer Nolfoc auprès d'Elisabeth en l'accusant, lettre à l'appui, de conspirer avec Marie pour l'empoisonner et lui ravir le trône. Scène 3 : La lettre est une contrefaçon de leur main et ils se félicitent de leur stratagème.
 
@@ -550,7 +550,7 @@ En revanche, l'unité d'action est transgressée dans deux cas : au moment de l
 *Acte V* : Scène 1 : Monologue d'Elisabeth en qui s'affrontent deux passions indignes d'un *ethos* de reine : la crainte et l'ambition. Consciente qu'elle outrepasserait ses droits en faisant tuer Marie, elle s'inquiète de laisser à la postérité un souvenir avili ; mais elle désire ardemment posséder deux empires. L'ambition l'emporte finalement : elle maintient son arrêt tout en gardant une appréhension. Scène 2 : L'Ambassadeur de France demande une entrevue avec Élisabeth, qui opte alors pour la clémence et prend la ferme résolution de révoquer l'arrêt contre Marie. Scène 3 : L'Ambassadeur lui demande de se montrer clémente et d'épargner Marie, ce qu'elle accepte immédiatement. Joie et louanges de l'Ambassadeur. Scène 4 : Melvin, Kenede, Sherobery viennent leur apprendre la mort de Marie que tous regrettent. L'ambassadeur laisse libre cours à sa violente colère, il profère des menaces (26 vers) tandis qu'Élisabeth mesure toute l'ampleur de son crime et la légitimité de ces reproches. Accablée de douleur, elle reproche à Melvin ses conseils puis sombre dans la démence : elle veut aller embrasser la bouche de Marie, elle a des visions de la morte, apparitions qu'elle décrit dans un vocabulaire amoureux. Elle se dédouble, désirant se séparer d'elle-même afin de fuir son ombre, elle appelle la mort. Assaillie par les fantômes de Marie et de Nolfoc, elle promet de commémorer leur mort chaque année à Londres et de les placer en un même tombeau.
 
 
-#### Les sources de C. Regnault
+#### Les sources de C. Regnault.
 
 Dans l'*Apologie* qui sert d'introduction à *Marie Stuard*, Regnault dit suivre les meilleurs auteurs du temps et cite une dizaine d'auteurs parmi lesquels Ronsard, Buchanan (qui adopte pourtant un point de vue très différent du sien), Belliene, de La Guesle, Lamotte-Aignon, de l'Aubespine, Du Perron. Il cherche par ce biais à la valoriser en lui donnant les meilleures références mais ce ne sont pas ses sources, peut-être même ne les a-t-il pas toutes lues. Selon Jane Conroy [72], Regnault aurait consulté le *Martyre de la Reine d'Écosse*, texte britannique dont il ignorait le nom de l'auteur mais qui a depuis été attribué à Blackwood. Elle pense que Regnault tient l'essentiel de ses renseignements de Rémond, *La Naissance de l'Hérésie* (Arras, 1611) et Caussin, *La Cour Sainte ou l'Institution chrestienne des grands* (1644). À l'évidence, Regnault s'inspire de trois pièces antérieures [73] :
 
@@ -561,19 +561,19 @@ Dans l'*Apologie* qui sert d'introduction à *Marie Stuard*, Regnault dit suivre
 – THEOPHILE DE VIAU, *Pyrame et Thisbé.* Il emprunte des vers et parfois tout un passage [74].
 
 
-#### Traitement de l'histoire par Regnault
+#### Traitement de l'histoire par Regnault.
 
 Regnault, selon les besoins de sa pièce, choisit de conserver certains détails historiques inchangés et d'en modifier ou d'en omettre d'autres. Il va sélectionner certains incidents et les traiter en action ou en récit, s'écartant en général de Montchrestien notamment lorsqu'il inclut dans l'action la mort de Marie, de Nolfoc et de Mourray.
 
 
-##### Où Regnault observe les faits historiques
+##### Où Regnault observe les faits historiques.
 
 Regnault a considérablement élargi son sujet au profit des aspects historiques et dramatiques. Jane Conroy a étudié « la couleur locale » dans la pièce [75]. Pour elle, « l'onomastique est un indice … de cette recherche d'un pittoresque « anglais », qui laisse entrevoir aussi une plus grande connaissance [76] de la vie anglaise, chez les spectateurs comme chez l'auteur » [77]. Il est remarquable en effet que Regnault donne un nom aux personnages qui restaient, chez Montchrestien, des étrangers anonymes, ce qui augmente considérablement le nombre des noms de personnes. La distribution compte treize Anglais ou Ecossais nommés et neuf noms figurent dont les détenteurs n'apparaissent pas : Le comte de Lenox, Domglas, « l'illusre Celon », Lincestre, Henri VIII, Edouard, les Stuart, le comte d'Arondel, le comte de Clocestre. Seuls « les Estats », « les Officiers de Marie », « les Domestiques du Duc » et « le Page » ne portent pas de nom. La contemporanéité des événements et leur lien avec la France sont rappelés par l'emploi des noms de personnalités françaises : « Henry second du nom », « François … digne sang des Valois », « le Prince des François », Pomponne de Bellièvre.
 
 Il y a donc une volonté de « faire anglais », de chercher le pittoresque et de rappeler le contexte où les personnages évoluent. En pratique, cela présentait pour Regnault l'avantage de pouvoir compter sur une plus grande tolérance du public.
 
 
-##### Où il se détache de l'Histoire
+##### Où il se détache de l'Histoire.
 
 La présence de noms britanniques permet de fixer un cadre mais ne garantit en rien son authenticité. Si tous les personnages anglais ou écossais cités ont réellement joué un rôle dans l'histoire de Marie Stuart, Regnault ne les connaît que de nom et est amené à inventer leur vie selon les besoins de sa tragédie. Il serait vain de vouloir voir derrière ces noms autre chose que des types sans visages et sans histoire personnelle. Dans la création des personnages de second plan (Melvin, Herrin, Sherobery, A. Paulet, Killegre), au mépris des faits historiques s'ajoute une très grande conformité avec les stéréotypes de la tragédie.
 
@@ -582,7 +582,7 @@ Les faits aussi sont arrangés pour les besoins de l'intrigue comme ces quelques
 L'idéalisation de la mort, consubstantielle au genre tragique, oblige Regnault à modifier la réalité des faits. L'exécution de Nolfoc d'abord, qui est rapportée brièvement (12 vers) à la fin de l'acte III ne ressemble pas à celle qui eut lieu. Le récit, sobre, dépourvu de détails sanglants, est à l'image du héros, mort avec humilité, résignation et dignité, « en Prince » (v. 953). Or, le Norfolk de l'histoire « mourut plutôt en Ministre qu'en Capitaine, preschant le peuple et s'accusant d'avoir traicté de mariage avec la reine d'Écosse, sans en advertir la Reine » [78]. Il en va de même pour la mort de Mourray qui ouvre l'acte IV sur un coup de théâtre : il a été assassiné à Londres dans un combat entre « une trouppe écossoise » et ses gens, alors que Moray fut tué à Edinburgh, capitale de l'Écosse.
 
 
-##### Onomastique et degré d'historicité
+##### Onomastique et degré d'historicité.
 
 Procéder à l'inventaire des personnages doit permettre d'évaluer le degré d'historicité de la pièce et son ancrage dans le réel. Voici la liste des personnages tels qu'ils sont présentés ; pour chacun d'eux, nous avons cherché la personne historique dont ils sont inspirés.
 
@@ -651,7 +651,7 @@ Quatre personnalités françaises :
 – « Pomponne de Bellièvre, Ambassadeur de France, & depuis Chancelier » : POMPONNE I DE BELLIèVRE, chancelier de France.
 
 
-##### Tableau de la présence scénique des personnages
+##### Tableau de la présence scénique des personnages.
 
 Les personnages ont été classés par ordre d'importance ;
 
@@ -677,15 +677,15 @@ Troupe d'officiers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 
 
-#### À propos des personnages
+#### À propos des personnages.
 
 
-##### *Inventio* des rôles
+##### *Inventio* des rôles.
 
 Regnault met d'abord en place le personnage de Mourray, le méchant par excellence. Il doit ensuite lui donner un complice et il va chercher dans l'histoire le protestant fanatique Kent ; le reste du personnage de Kemt est inventé en vue de créer le type même du perfide. Il a ensuite besoin de deux personnages vertueux pour leur faire contrepoids et pour occuper la scène durant le procès et la réunion du conseil. Shrewsbury, qui s'était bien comporté avec Marie Stuart, et Herries, qui avait toujours défendu sa reine, lui inspirent Sherobery et Herrin. Amias Paulet est emprunté à Montchrestien mais son importance est réduite. Melvin est lui aussi emprunté à Montchrestien mais son rôle historique de témoin de l'exécution lui est restitué. Pomponne de Bellièvre, bien qu'il soit le seul personnage à porter exactement le même nom que la personne historique, n'en possède pas pour autant plus d'authenticité. La façon dont il exerce ses fonctions d'ambassadeur (la violence de son emportement l'amène presque à insulter la reine) brise la vraisemblance.
 
 
-##### Les caractères
+##### Les caractères.
 
 Marie est présentée comme douce, bonne, indulgente et généreuse. Elle incarne la victime par excellence : victime de l'hérésie sur le plan religieux, elle est, sur le plan politique, victime de la tyrannie d'un rival qui la prive de la vie en même temps que d'une couronne qu'elle mérite. Exemplaire dans ses préparatifs d'ordre pratique et spirituel à la mort, elle est assez proche des sources historiques qui décrivaient en détail ces dernières heures, mais pas forcément proche de ce que fut la réalité de sa vie. Regnault fait de discrètes allusions au passé conjugal de l'héroïne, ce qui ne manque pas d'humour lorsqu'on sait que Marie s'est mariée trois fois. Pensons à ce vers de lamentation à l'acte III, scène 6 : « Je perds le nom d'épouse avant que de l'avoir » ou à cet adieu qu'elle adresse à ses maris avant de mourir (Acte IV, sc. 6) :
 
@@ -697,24 +697,24 @@ Et malgré vos trespas je vais joindre vos ames,
 Élisabeth a tant de vices que le lecteur est surpris de la voir devenir folle de douleur et de remords à la fin de la pièce. Mourray est un ambitieux et un hypocrite, un traître qui cherche à régner sur l'Écosse aux dépens de sa sœur. Nolfoc est le héros, la noble figure. Sa grandeur et ses faits d'armes l'ont rendu digne de l'amour de la reine d'écosse, contrairement au héros de la pièce de Boursault. Il aurait été prêt à se rebeller contre la cruauté d'Élisabeth si Marie ne l'en avait pas empêché, au nom du respect absolu que l'on doit au statut intouchable de souveraine. Il relève plus de la tradition théâtrale que de la littérature historique, comme en témoignent les sentiments qu'on lui prête à la fin de sa vie : honte, désespoir, tentation du suicide, puis repentir et confiance en Dieu. Les Essex seront calqués sur ce modèle. Killegre est semblable à tous les capitaines des gardes de tragédie, auxiliaires impuissants d'un pouvoir tyrannique, ils ne peuvent qu'exécuter les ordres, même à contrecœur. Kenede est le seul personnage mineur qui soit individualisé.
 
 
-#### Dramaturgie : thèmes, intrigue
+#### Dramaturgie : thèmes, intrigue.
 
 L'introduction des deux perfides, Mourray et Kemt et celle du personnage de l'amant est devenue indispensable depuis Montchrestien. Elle permet de développer les thèmes du sentiment et de la politique. Amour et perfidie servent en effet à créer des situations dramatiques elles-mêmes devenues, en 1639, des scènes-thèmes de la tragédie. Les scènes de fausse accusation, de confrontation entre le souverain et le héros soupçonné de sédition, de jalousie, d'arrestation du héros, de procès, d'adieu des amants… sont toutes devenues des *topoï* bien qu'elles constituent des innovations par rapport à Montchrestien.
 
 L'intrigue est constituée par la relation amoureuse triangulaire entre Marie, Nolfoc et Elizabeth. Ce n'est pas le même type d'action que dans la pièce de Boursault, puisque ici les passions sont encore à l'origine de l'action.
 
 
-### La Calprenède, *Le Comte d'Essex*, 1639
+### La Calprenède, *Le Comte d'Essex*, 1639.
 
 Gautier de Coste de La Calprenède naquit aux alentours de 1610 et mourut en 1663. Dramaturge et romancier, sa production théâtrale compte neuf tragédies et tragi-comédies parmi lesquelles *Le Comte d'Essex* (1638) fut son plus gros succès et est demeurée la plus connue.
 
 
-#### Présentation du Comte d'Essex
+#### Présentation du Comte d'Essex.
 
 La tragédie fut imprimée en 1639. Nous ne sommes pas en mesure de donner la date de sa représentation de façon tout à fait précise. Lancaster affirme qu'elle fut créée pour la première fois en 1637, ses éditeurs modernes situent les premières représentations à la fin de la saison 1636-1637 ou au début de la suivante. Dans cette pièce, l'unité de lieu n'est pas transgressée mais, toujours à l'intérieur du Palais, on passe d'un endroit à un autre sans que cela soit toujours notifié. C'est pourquoi, nous avons reprécisé le lieu exact de chaque scène entre crochets.
 
 
-##### Résumé de la pièce
+##### Résumé de la pièce.
 
 *Acte I* : Scène 1 : Cabinet d'Élisabeth. Élisabeth accuse Essex de sédition et d'ingratitude. Mal satisfaite de ses réponses un peu vagues et de son attitude altière, elle décide de le faire juger. Scène 2 : Cabinet d'Élisabeth. Élisabeth restée seule avec Alix se sent défaillir. Scène 3 : Cabinet d'Elisabeth. Se faisant violence, elle ordonne l'arrestation du favori et de son ami Soubtantonne. Scène 4 : Cabinet d'Élisabeth. Monologue dans lequel elle s'apitoie sur son propre sort, soulignant la disparité entre sa grandeur apparente et sa misère sentimentale. Elle paraît néanmoins capable de donner suite à ses menaces – on comprend que le danger qui guette le comte n'est pas négligeable. Scène 5 : un endroit du Palais. Rencontre des deux amis, dont l'un, Soubtantonne, est pleinement conscient de la gravité de la situation, tandis que l'autre est persuadé de son invulnérabilité. Scène 6 : un endroit du Palais. Arrestation des deux comtes. Colère d'Essex.
 
@@ -729,7 +729,7 @@ Essex ne se défend pas, il énumère simplement les services militaires qu'il a
 *Acte V* : Scène 1 : « hors de la prison ». On mène Essex à l'échafaud. Il rabroue Raleig et envoie un dernier message à Mme Cécile. Scène 2 : Cabinet d'Élisabeth. Alix remontre encore une fois à la reine, hésitante, la nécessité de cacher sa faiblesse et lui rappelle les derniers rapports de Mme Cécile, selon lesquels le Comte reste impénitent. Scène 3 : Cabinet d'Élisabeth. Annonce de la mort du Comte. Chagrin d'élisabeth. Scène 4 : Cabinet d'Élisabeth. Mme Cécile demande à voir Elisabeth. Scène 5 : dans une chambre. Elle avoue tout. On l'emporte chez elle pour y mourir. Scène 6 : Cabinet d'Élisabeth. Stupéfaction et douleur mortelle de la reine, qui demande à être menée à son lit « pour la dernière fois ».
 
 
-##### Liste des personnages tels qu'ils sont annoncés au début
+##### Liste des personnages tels qu'ils sont annoncés au début.
 
 Elisabeth, reine d'Angleterre.
 
@@ -758,7 +758,7 @@ Un Capitaine des Gardes.
 Un huissier du Cabinet.
 
 
-##### Tableau de leur présence en scène
+##### Tableau de leur présence en scène.
 
 Le tableau ci-dessous est une reproduction de celui qui figure dans l'ouvrage de Jane Conroy [79].
 
@@ -792,12 +792,12 @@ O Selon les indications de scène le personnage est présent mais muet.
 - Un ou plusieurs vers interrompus : total arrondi au chiffre supérieur (moins de six syllabes en moins).
 
 
-##### Rapport à l'histoire
+##### Rapport à l'histoire.
 
 La plupart des événements sont effectivement historiques, sauf la référence à l'anneau qu'Élisabeth donne à Essex, légende qui avait cours en Angleterre. Les faits principaux sont tirés de Camden et de Bacon [80].
 
 
-#### Les caractères, en comparaison à ceux que Boursault met en scène
+#### Les caractères, en comparaison à ceux que Boursault met en scène.
 
 Élisabeth est « le personnage le plus tragique de la pièce » selon Lancaster [81]. Mme Cécile rappelle à Essex les traits de caractère de cette reine constamment déchirée entre sa passion pour Essex et sa volonté de conserver aussi bien sa dignité que son pouvoir :
 
@@ -816,27 +816,27 @@ Et de désespérer une Amante, une Reine. (II, 5, v. 588-598)
 Entièrement dominée par son *pathos*, soumise à sa passion, elle va jusqu'à user de stratagèmes comme lorsqu'elle envoie sa confidente quémander pour elle un petit signe de repentir de la part d'Essex, qui lui offrirait le prétexte qu'elle recherche afin de le gracier. Essex l'a pourtant doublement outragée, par son indifférence et par sa conspiration. Comme dans toutes les pièces sur le sujet, l'amour qu'Élisabeth porte à Essex lui fait mépriser le souci d'équité ; mais à la différence des autres pièces, cet amour prend également le pas sur son amour propre, sur sa dignité, c'est pourquoi l'Élisabeth de La Calprenède apparaît plus indulgente envers son ancien favori. Elle ne demande qu'à le pardonner et a conscience des remords qui la tortureront si elle devaitt se résoudre à le condamner, ce qu'elle se resout cependant à faire, par devoir. Elle est avant tout définie comme une femme, un être sensible, humain, capable de bonté pour celui qu'elle aime. C'est sa souffrance qui la rend cruelle, tandis que l'Élisabeth de Boursault, elle, ne se laisse jamais émouvoir.
 
 
-#### Le sujet, l'intrigue
+#### Le sujet, l'intrigue.
 
 La pièce est bâtie à partir de la condamnation et de l'exécution d'Essex, qui en constitue le sujet. Comme chez Boursault, la question des intérêts de l'État n'est soulevée que pour se conformer à la tradition, pour mettre en scène un enjeu incontournable. Mais le risque de perdre ou non la couronne n'est pas envisagé sérieusement par la reine, il sert seulement de prétexte à justifier qu'elle puisse supprimer Essex en fournissant une cause plus juste que celle qui la motive réellement : la vengeance amoureuse sans considération pour la loi et la vérité. Comme dans les autres pièces sur ce sujet, tout repose sur la décision d'Élisabeth, elle-même sous influence de ses conseillers.
 
 
-### Thomas Corneille, *Le Comte d'Essex*
+### Thomas Corneille, *Le Comte d'Essex*.
 
 
-#### Un ami à l'influence certaine
+#### Un ami à l'influence certaine.
 
 Thomas Corneille, (1625-1709) a sensiblement le même âge que Boursault. Ayant débuté sa carrière de dramaturge (entre 1647 et 1658) en donnant des comédies inspirées d'auteurs espagnols [82], il abandonne ce genre pour celui, plus noble, de la tragédie. Son *Timocrate*, tragédie romanesque créée en 1656 au théâtre du Marais (et dont le sujet est emprunté à un roman de La Calprenède : *Cléopâtre*, 1654), est représenté quatre-vingt fois et connaît un des plus grands succès théâtraux du XVII*e* siècle. Son *Comte d'Essex*, joué en 1679, soit quatre ans seulement avant *Marie Stuard* de Boursault, remporte également un vif succès. Or Boursault imitait les auteurs dont il enviait le succès -ce qui ne veut bien sûr pas dire qu'il a choisi de traiter ce sujet pour cette unique raison, mais il est probable que cela ait pesé dans son choix.
 
 
-#### Présentation de la pièce
+#### Présentation de la pièce.
 
 *Le Comte d'Essex* de Thomas Corneille fut représenté pour la première fois en janvier 1678 et connu un énorme succès.
 
 L'unité de lieu n'est pas respectée puisque le quatrième acte donne à voir la prison dans laquelle Essex est détenu. Nous précisons les changements de lieux dans notre résumé.
 
 
-##### Résumé
+##### Résumé.
 
 *Acte I* : Scène 1 : Élisabeth aime Essex qui aime et est aimé d'Henriete. Essex investit le palais d'Élisabeth pour empêcher le mariage entre sa bien aimée et le Duc d'Irton. Ses ennemis l'accusent d'avoir, par cet acte, tenté de s'emparer du trône. Son ami Salsbury le met en garde, mais Essex ne semble pas réaliser la portée de son geste. Les deux amants font tout pour dissimuler à la reine leur attachement réciproque de peur d'éveiller sa jalousie : Essex a dû feindre d'éprouver de l'amour pour une autre, « la belle Suffolc », afin de détourner ses soupçons ; Henriete, de son côté, a décidé, sans en avertir son amant, d'épouser le Duc car sa position de confidente rendait la situation inextricable. Désespérée de pouvoir un jour épouser Essex, elle a pris le parti de se marier, espérant qu'il acceptera d'épouser Élisabeth et s'assurera ainsi un avenir brillant. Scène 2 : Entretien pathétique entre les deux amants. Scène 3 : Face à face entre Essex, franc et emporté, et Cécile, hypocrite et mesquin.
 
@@ -849,7 +849,7 @@ L'unité de lieu n'est pas respectée puisque le quatrième acte donne à voir l
 *Acte V* : Scène 1 : Tilney rend compte à Élisabeth du refus d'Essex de se repentir. Scène 2 : La Duchesse met toute son énergie à presser la reine d'intervenir pour empêcher l'exécution, imminente bien que l'ordre n'ait pas encore été signé. Élisabeth charge alors Tilney de faire ramener le comte. Scène 3 : Inquiétude des deux femmes que leur amour pour le même homme rapproche. Scène 4 : Cécile parait, triomphant. Élisabeth, détrompée, le chasse. Scène 5 : Tilney revient : le Comte est mort. La Duchesse se retire. Scène 6 : Salsbury fait le récit de l'exécution. Élisabeth promet de punir les coupables avant de mourir elle-même.
 
 
-##### Les personnages : liste initiale et tableau de leur présence scénique
+##### Les personnages : liste initiale et tableau de leur présence scénique.
 
 Elisabeth, Reyne d'Angleterre.
 
@@ -897,7 +897,7 @@ O Selon les indications de scène le personnage est présent mais muet.
 Nous n'avons pas jugé utile l'étude, même superficielle, des caractères et du sujet, dans la mesure où la pièce de Thomas Corneille est une réécriture de celle de La Calprenède, qui ne relève déjà plus notre sujet d'étude. Les mêmes rôles se retrouvent et les caractères restent très proches, même si les personnages changent parfois de nom d'une pièce à l'autre (Mme Cécile devient duchesse d'Irton, Alix devient Tilney).
 
 
-### Autres influences possibles
+### Autres influences possibles.
 
 Boursault montre son goût pour Corneille en reprenant un vers du *Cid* devenu célèbre, « Cette obscure clarté qui tombe des étoiles » (v. 1273), qu'il transforme en : « A la sombre clarté qui tombe des etoilles » (I, 2, v. 195)
 
@@ -906,23 +906,23 @@ Boursault montre son goût pour Corneille en reprenant un vers du *Cid* devenu c
 Autant de rapprochements qui restent malgré tout assez vagues, d'autant qu'il relève aussi de sensibles différences : Marie n'est pas passive comme chez Boursault, mais refuse courageusement l'offre de Davidson de tuer Élisabeth et le menace même de le faire exécuter s'il commet un tel acte ; Élisabeth n'agit pas sous le coup de la jalousie puisqu'elle n'apprend l'amour de Davidson pour Marie qu'après qu'elle avoir fait exécuter cette dernière ; La politique représente le fondement unique de tous ses débats intérieurs et de ses hésitations.
 
 
-# Étude dramaturgique
+# Étude dramaturgique.
 
 
-## Remaniement et exploitation des sources par Boursault
+## Remaniement et exploitation des sources par Boursault.
 
 
-### L'Histoire revisitée
+### L'Histoire revisitée.
 
 Boursault n'a pas hésité à alléger la toile de fond historique héritée de Regnault et à prendre ses distances vis-à-vis de l'histoire réelle. En fait, cela paraît logique car, en 1683, il avait moins besoin de faire appel à Camden [86] pour trouver des références exactes aux événements. Avec le temps, le souvenir des événements historiques s'estompe et une plus grande liberté est permise aux auteurs. Ainsi, Montchrestien était plus proche de l'histoire que Regnault, qui l'est plus que Boursault [87], chez qui l'histoire d'Angleterre et d'Écosse est presque escamotée, le peu qui en transparaît étant souvent transformé dans le détail. Certains événements marquants, comme la rébellion des écossais, sont à peine effleurés et, parmi les renseignements historiques, beaucoup sont contestables ou inventés. Certains traits appartiennent à la tradition, comme le caractère exagérément corrompu d'Élisabeth, dont on met toujours en exergue les tares de naissance qui font d'elle l'usurpatrice du trône. D'autres sont des inventions de Boursault : le fait que les ancêtres de Norfolc (son père et son grand-père) aient été exécutés parce qu'ils refusaient d'abjurer et qu'ils soient morts en martyrs ; les doutes concernant l'identité du père de Morray ; le fait que Marie l'ait malgré tout légitimé, par mansuétude ; l'association de Norfolc avec Ridolf, un envoyé du Prince de Parme ; l'ambition de Morray d'épouser Élisabeth, ou encore le fait qu'il soit le meurtrier du roi d'écosse. Boursault prend soin d'omettre de préciser que Marie se maria à trois reprises, car sa problématique exige qu'elle soit pure et innocente. La Cour d'Élisabeth est avant tout une projection de l'imagination, un univers quasi mythique, le lieu de rencontre des forces délétères qui guettent les systèmes politiques et sociaux. C'est un lieu où les hommes se calomnient, s'achètent, s'épient, se trahissent, niant par là toutes les valeurs sur lesquelles se fonde la bonne société : le sang, la fidélité et la reconnaissance.
 
 Nous avons affirmé plus haut que procéder à l'inventaire des personnages et étudier leurs noms devait permettre d'évaluer le degré d'historicité de la pièce et son ancrage dans le réel. Ce n'est pourtant pas vrai chez Boursault, car il a une vision plus globale, plus distanciée des faits, une vue d'ensemble et, s'il s'autorise un certain flou autour des références onomastiques, c'est qu'il les sait connues de tous. Le public est en effet beaucoup plus familier avec cette période de l'histoire que du temps de Regnault. La preuve en est que Boursault fait parfois s'exprimer Norfolc par simple allusion [88]. De même, il ne lui paraît pas nécessaire de fournir un récit circonstancié des souffrances de Marie, d'abord parce que ce thème est usé, ensuite parce que, comme nous le verrons, il ne s'agit plus d'une tragédie de la lamentation. Reste que, sur ce sujet, il s'agit d'un passage obligé, inévitable ; pour le traiter, Boursault choisit de recourir à la litote qui lui permet, par la concision, de gagner tout à la fois en pudeur et en puissance évocatrice.
 
 
-### Réécriture de la pièce de Regnault
+### Réécriture de la pièce de Regnault.
 
 
-#### Il existe une filiation nette de Regnault à Boursault
+#### Il existe une filiation nette de Regnault à Boursault.
 
 On le constate grâce à la reprise de certains détails : dans les deux pièces, Marie fait référence à son fils et s'adresse à lui avant de mourir.
 
@@ -933,7 +933,7 @@ Boursault emprunte aussi plusieurs des personnages secondaires de Regnault : Me
 Enfin, Boursault suit, dans les grandes lignes, l'intrigue de son prédécesseur.
 
 
-#### Cependant, Boursault modifie des points essentiels et aboutit à une toute autre intrigue
+#### Cependant, Boursault modifie des points essentiels et aboutit à une toute autre intrigue.
 
 Marie Stuard montre de la sollicitude à l'égard de Norfolc mais, contrairement à celle de Regnault, elle ne l'aime pas. Elle se sent même offensée de l'amour qu'il lui voue car leur différence de rang ne l'autorise pas sans qu'elle s'en trouve rabaissée. Le personnage de Marie est beaucoup plus effacé que dans la pièce de Regnault : son temps de parole est très réduit, elle n'agit pas, n'exprime aucune révolte face à l'injustice qui lui est faite mais se soumet à son destin dans un mouvement d'acceptation passive, docile, dans une sorte d'abnégation totale, comme s'il devait en être ainsi.
 
@@ -946,10 +946,10 @@ Le traitement de la conspiration de Norfolc est différent. Chez Regnault, les d
 Boursault réduit la part de récit, notamment celui consacré à la mort de Marie Stuard et celui consacré à son passé. Il ne raconte pas la vie de Marie comme le faisait Regnault, mais se contente de quelques allusions éparses à son fils, à l'assassinat de son mari, à sa fuite en Angleterre, à son procès.
 
 
-### Une réécriture de La Calprenède
+### Une réécriture de La Calprenède.
 
 
-#### Ce que Boursault conserve du Comte d'Essex de 1639
+#### Ce que Boursault conserve du Comte d'Essex de 1639.
 
 Le schéma est en fait sensiblement identique même si les noms des héros diffèrent. Comme la *Marie Stuard* de Boursault, la pièce est construite sur les sentiments conflictuels d'élisabeth, déchirée entre son amour, qui lui dicte la clémence d'une part, et sa haine, qui la pousse à la vengeance d'autre part. Comme chez Boursault, les passions ne sont pas à l'origine de l'action mais viennent la soutenir : les deux pièces sont des tragédies de la conspiration. Norfolc est un double du comte d'Essex ; ils partagent le caractère du jeune héros fier de ses exploits militaires, glorieux et audacieux, qui brave avec témérité l'autorité de sa reine au nom de la justice et de sa flamme. Le duc est en fait autant victime de sa générosité enthousiaste et naïve que de la cabale des grands seigneurs qui s'allient contre lui. Dans les deux tragédies, ceux-ci cherchent à détruire le crédit et la faveur dont il jouit parce qu'à lui seul, il ruine tous leurs espoirs de se rapprocher du pouvoir. Ils cherchent donc à l'en tenir éloigné pour prendre sa place au second rang de l'Etat, juste après la reine. De même que Norfolc chez Boursault, Essex compte sur sa notoriété et sur les sentiments de celle-ci pour le sauver.
 
@@ -965,7 +965,7 @@ Qu'on leur donne surtout des gardes assurées. Là gît votre fortune, ou bien v
 
 
 
-#### Écarts vis-à-vis du Comte d'Essex de La Calprenède
+#### Écarts vis-à-vis du Comte d'Essex de La Calprenède.
 
 L'action est déclenchée par la trahison d'Essex, qui constitue un crime contre l'État. La problématique de la pièce est la classique opposition entre *pathos* et *ethos* : la reine est partagée entre sa passion amoureuse pour Essex, en vertu de laquelle elle voudrait l'acquitter, et son devoir, qui exige qu'elle punisse sa trahison à l'État. Chez Boursault, Élisabeth ne se préoccupe pas des intérêts de l'État ; seule son inquiétude de l'image qu'elle laissera à la postérité freine son envie de condamner les héros.
 
@@ -986,10 +986,10 @@ C'est ma réponse. (IV, 4, 1298-1299).
 Le personnage d'Élisabeth est très différent chez La Calprenède et chez Boursault. Dans *Le Comte d'Essex*, Élisabeth est avant tout une femme, en proie à sa passion amoureuse pour le comte. Loin d'être un monstre froid à l'esprit machiavélique et ambitieux, elle est dominée par une souffrance qui parait bien plus sincère, bien plus réelle que celle de l'Élisabeth de Boursault. Inhumaine et insensible chez Boursault, c'est par faiblesse qu'Élisabeth faute chez La Calprenède : son *ethos* de reine et sa dignité cèdent à son amour.
 
 
-## Structure de la tragédie de Boursault
+## Structure de la tragédie de Boursault.
 
 
-### Résumé
+### Résumé.
 
 *Acte I* : Scène 1 : Le Duc de Norfolc doit venir faire des confidences à son prétendu ami Neucastel. Mais celui-ci est de connivence avec Euric, le lieutenant des gardes, et Morray, le demi-frère indigne de Marie Stuard, pour le perdre. Morray sera caché et pourra écouter les révélations de son ennemi. Scène 2 : Norfolc dévoile à Neucastel son projet de s'enfuir avec la reine d'Écosse dont il est amoureux. L'autre lui réaffirme sa fidélité et lui promet de l'aider quels que soient les risques. Scène 3 : Morray se réjouit, ces révélations garantissent le succès de ses projets qu'il expose : son illégitimité ne l'empêchera pas de régner bientôt sur l'écosse à la place de sa sœur, dont il va organiser l'exécution, puis celle de son fils héritier. Débarrassé de Norfolc, il prévoit d'épouser Élisabeth pour régner aussi sur l'Angleterre. Neucastel, hésitant au début, est gagné par la fièvre enthousiaste de son complice. Scène 4 : Lancastre vient chercher Morray afin qu'il apaise la colère de la reine, qui n'écoute que lui.
 
@@ -1002,10 +1002,10 @@ Le personnage d'Élisabeth est très différent chez La Calprenède et chez Bour
 *Acte V* : Scène 1 : Marie, condamnée à mort, réconforte ses gens. Scène 2 : Elle s'explique avec son frère, qui feint le zèle religieux. Elle lui reproche son inhumanité, mais, faisant preuve de charité, elle lui pardonne. Scène 3 : ému malgré lui, Morray réussit à étouffer la voix de la nature. Scène 4 : Élisabeth, prévoyant des remords et soucieuse de son image, décide d'épargner Marie. Morray parvient à la faire se rétracter en lui rappelant le danger qu'elle représente pour l'état, pour la religion et pour sa propre vie. Il choisit ce moment pour lui proposer de devenir son amant. Choquée, elle s'emporte contre lui et ordonne la grâce de Norfolc. Mais Morray lui apprend qu'il est déjà mort. Elle ordonne alors qu'on le perde et qu'on sauve Marie. Scène 5 : Trop tard. Neucastel vient dénoncer Morray, s'accuser lui-même et faire le récit de la mort de la reine d'écosse et de son bourreau, lynché par la foule en colère. Scène 6 : Élisabeth, enfin désabusée, maudit Morray qui passe fièrement en revue tous ses crimes passés, présents et à venir et qui se poignarde sous ses yeux. Scène 7 : Élisabeth reste seule, en proie à ses remords.
 
 
-### Thèmes présentant une originalité ou un intérêt particuliers
+### Thèmes présentant une originalité ou un intérêt particuliers.
 
 
-#### La religion dans Marie Stuard
+#### La religion dans Marie Stuard.
 
 Selon le témoignage de sa petite-fille, Hiacinthe, Boursault est né « fort vertueux » et a « même toujours eu un grand fonds de religion comme il paroît par la morale aussi pure qu'édifiante qu'il a répandu dans tous ses ouvrages » [92]. Le point de vue de Boursault en matière de religion apparaît effectivement dans d'autres écrits que *Marie Stuard* : dans *Les Litanies de la Sainte Vierge* et dans *Le prince de Condé*.
 
@@ -1014,15 +1014,15 @@ Il est significatif que Morray cherche à justifier ses actions inhumaines et so
 Notons que, même si Boursault est très catholique et très respectueux de la religion, son activité de dramaturge ne lui a pas permis d'éviter les reproches classiquement adressés à ses pairs par les théologiens. Boursault fait préfacer son *Théâtre* par une *Lettre* du Père Caffaro qui prend la défense de la comédie. C'est à cette *Lettre* que répond Bossuet dans ses *Maximes sur la Comédie*.
 
 
-#### La place des femmes dans cette tragédie
+#### La place des femmes dans cette tragédie.
 
 
-##### Marie Stuard, une héroïne « plus que rare »
+##### Marie Stuard, une héroïne « plus que rare ».
 
 Malgré son titre, qui semble indiquer ostensiblement le sujet, Marie Stuard ne domine pas la pièce. Avec 1073 vers contre 609, les rôles masculins l'emportent largement sur les rôles féminins, ce qui soulève la fascinante question des comportements masculins dans un monde gouverné par des femmes. Pour Jane Conroy, ce problème est examiné sous plusieurs angles, notamment dans les deux premiers actes, qui communiquent « un sens d'urgence et de crise, d'affaires capitales réglées au pied levé, d'obscurité et de vulnérabilité » [97].
 
 
-##### Marie Stuard : une image de la vierge au service de la lutte contre le culte réformé
+##### Marie Stuard : une image de la vierge au service de la lutte contre le culte réformé.
 
 L'analyse du rapport entretenu par les vivants avec les héros ou les héroïnes de l'au-delà (comme Marie Stuart après son exécution) illustre bien la différence qui existe entre la foi catholique et la foi protestante. En effet ce rapport pose problème aux deux églises : les catholiques le maintiennent et même, s'ouvrent de plus en plus au spectacle céleste des saints ascendants et des anges descendants, tandis que les protestants abolissent ce lien en faisant disparaître les statues et tous les signes d'une présence tangible des saints (reliques, vêtements, sang, larmes).
 
@@ -1031,7 +1031,7 @@ Les réformateurs catholiques cherchent assidûment à établir des distinctions
 Au XVII*e* siècle, la tension monte du côté catholique, entre tendances spiritualistes et rationalistes. Il s'agit de conjurer adoration de la raison et vénération de Marie, qui est à la fois Vierge et Mère. Ce rôle paradoxal de Marie dans le mystère de la naissance divine était d'une importance primordiale pour la conception de l'église romaine, notamment pour la fonction médiatrice supprimée par le protestantisme. La Vierge Mère est donc un élément essentiel de la spiritualité des prêtres de la Contre Réforme, les réformateurs catholiques prônant une intensification de la relation paradoxale entre piété et fécondité, entre sacerdoce et Incarnation. Il fallait s'en prendre aux puissances schismatiques (comme les quiétistes) dans une offensive de « civilisation », tendant vers une conception du monde où il n'y avait pas de place pour le mystère.
 
 
-##### Élisabeth : une reine au pouvoir effectif
+##### Élisabeth : une reine au pouvoir effectif.
 
 Sous l'Ancien Régime, beaucoup de femmes sont écartées de la vie publique pour des raisons de rang et de fortune. Le monde politique est essentiellement masculin, les exceptions se révélant très perturbantes dans ces sociétés très hiérarchisées. En 1558, John Knox, calviniste écossais qui vécut sous les règnes Mary Tudor, Marie Stuart et Catherine de Médicis, qualifie leur gouvernement de régimes « monstrueux », c'est-à-dire contre nature. En 1586, Jean Bodin conclue son étude des différents ordres et conditions des citoyens d'une république comme suit :
 
@@ -1055,7 +1055,7 @@ Et le Trône chancelle à moins qu'il n'ait son poids. (I, 3, 253-258).
 À l'intrigue passionnelle imaginée par Regnault, Boursault ajoute le faux amour que Morray affiche pour élisabeth. Cet élément procède de l'imagination de l'auteur et vise à illustrer jusqu'où peut aller l'ambition de Morray, pour qui l'amour est un simple moyen de parvenir au trône et le véritable amour, une faiblesse. Ce cynisme, cet amour dégradé en passion du trône et non plus de la femme, exprime le renversement de l'ordre moral, la déshumanisation de la société et la perversion de la religion. Il répond aussi point par point, à l'amour oblatif et chevaleresque de Norfolc, dont il esquisse le reflet inversé.
 
 
-#### La portée politique de l'œuvre
+#### La portée politique de l'œuvre.
 
 Sans exagérer l'interprétation idéologique, force est de constater la relation directe de la pièce à l'actualité française. Nous avons tenté de situer les rapports entre l'Angleterre l'écosse et la France. [102] Au moment où Boursault écrit *Marie Stuard*, l'Angleterre est aussi, dans l'esprit des Français, particulièrement liée à la question religieuse.
 
@@ -1078,7 +1078,7 @@ Une des fins morales que poursuit Boursault est sûrement de montrer l'affaiblis
 Un autre facteur de bouleversement des hiérarchies sociales, est la promotion rapide des gens maniables qui constitue à la fois une profonde hantise de l'aristocratie louis-quatorzienne et un aspect de la politique tudorienne. En Angleterre, on puisait les grands administrateurs dans la *gentry*. Les pièces sur Essex tendent à montrer que c'est un pays où l'on ne respecte pas la naissance, où les hiérarchies sont bouleversées et dans lequel on a l'impression que tout le système politique se disloque, le mérite étant méconnu et le faux zèle récompensé.
 
 
-### Structure externe
+### Structure externe.
 
 La longueur moyenne d'une pièce étant de 1500 vers d'après l'abbé d'Aubignac [105], celle de Boursault, qui en compte 1682, est dans la norme. Elle est composée de cinq actes, comme la majorité des pièces et la totalité des tragédies à cette époque, divisés en trente-deux scènes, ce qui là encore entre dans la moyenne [106].
 
@@ -1089,10 +1089,10 @@ On peut quand même affirmer que Boursault a cherché à donner à sa tragédie 
 On constate que Boursault supprime l'élément de décor pathétique par excellence [107] qu'est la prison, bien qu'elle fasse partie intégrante du sujet puisque Marie essaie de s'en évader et que Norfolc y est jeté. Thomas Corneille l'utilisait encore en 1678, mais Boursault lui préfère une salle du palais, dit palais à volonté. Norfolc n'est pas réellement en prison mais dans un lieu signalé comme tel par la présence des gardes, comme c'était déjà le cas en 1641 dans *Polyeucte* de P. Corneille.
 
 
-## Étude de l'action de *Marie Stuard*
+## Étude de l'action de *Marie Stuard*.
 
 
-### Le sujet
+### Le sujet.
 
 Le schème tragique emprunté par Boursault est celui de l'oppression d'une victime innocente : Marie Stuart. Toute la pièce repose sur l'attente de son exécution, que l'on sait inéluctable. Le **s**ujet est donc le même que celui de *Britannicus* de Racine : « l'écrasement d'une innocente victime par un tyran pourvu de tous les pouvoirs » [108]. Il s'agit de comprendre comment une reine en vient à faire exécuter une autre reine.
 
@@ -1103,14 +1103,14 @@ Comme dans la tragédie de Racine, au schème de l'oppression de l'innocence vie
 Cantonnée à jouer la victime passive, à subir avec grandeur d'âme, celle-ci parait pourtant un peu fade. C'est un problème inhérent au sujet, auquel s'est heurté l'ensemble des dramaturges qui ont tenté de le mettre en scène.
 
 
-### L'épisode
+### L'épisode.
 
 Boursault se devait d'imbriquer un enjeu amoureux dans le conflit politique. Il répond à ce qui est devenu, en 1683, une nécessité, grâce à l'amour d'Élisabeth pour Norfolc qui va engendrer la jalousie à l'origine de sa décision de le perdre, lui et celle qu'il aime. Boursault a bien compris le problème qui se pose à faire de Marie l'héroïne de la pièce ; il recentre donc sa tragédie autour de la relation élisabeth-Norfolc. La mort de Marie devient une simple conséquence de la mort du héros qui constitue le véritable sujet de cette tragédie de la conspiration.
 
 Boursault crée par ailleurs deux couples impossibles : Marie – Norfolc et, accessoirement, Élisabeth – Morray. Les interdits sont nombreux et puissants qui empêchent tout espoir de voir ces relations se nouer. Marie ne peut décemment pas aimer Norfolc qui est d'une condition inférieure (ni prince ni roi, son héroïsme ambigu ne lui permet pas de se hisser jusqu'à elle), Norfolc en est conscient et n'avoue son amour que parce qu'il sait qu'il va mourir et qu'il pense que cet aveu tardif ne peut que prouver qu'il ne nourrissait aucun espoir présomptueux de sa part et dégradant pour elle. Élisabeth ne peut aimer Morray puisque son cœur est déjà occupé par Norfolc ; Morray, lui ne peut tout simplement pas aimer, et ne peut vraisemblablement pas espérer épouser la reine que sa condition place infiniment au-dessus de lui. L'idée même est insultante et c'est ainsi que le reçoit élisabeth.
 
 
-### L'intrigue
+### L'intrigue.
 
 Boursault accentue la tendance amorcée par Regnault en escamotant le problème politique réel auquel Élisabeth est confrontée. Abandonnant le dilemme politique et les délibérations sur ce que doit être le gouvernement d'un État, il s'oriente davantage vers une intrigue de Cour mettant en jeu des passions contrariées. Les rares allusions aux intérêts de l'État sont toujours faites dans un contexte d'hypocrisie ou d'ironie ; elles ne sont invoquées que comme un prétexte servant à justifier des comportements tyranniques ou ambitieux. Cependant, personne dans cette pièce ne s'occupe de servir l'État.
 
@@ -1165,10 +1165,10 @@ La matrice tragique dégagée des sources historiques est déjà importante, pui
 La tragédie de Boursault est bâtie, comme celles de ces prédécesseurs (Regnault, La Calprenède et Thomas Corneille) sur le déchirement de la reine Élisabeth, partagée entre l'amour et la haine. Mais ni l'une ni l'autre de ces deux passions ne sont présentées comme à l'origine de l'action. La cause directe de la mort du héros -et, par conséquent, de Marie Stuart- est bien la passion jalouse. Mais sa cause profonde réside dans les odieuses machinations du frère de l'héroïne qui s'accompagnent de l'indigne trahison de l'ami du héros qui lui accordait toute sa confiance. D'ailleurs, la jalousie d'Élisabeth n'aurait jamais été portée à un tel degré, sa colère n'aurait pas été si violente si Morray ne les avait pas habilement exacerbées pour en tirer profit. Il arrange la vérité de façon à accentuer sa rage. Il aggrave la faute de Norfolc qui, en réalité, n'espère rien de son amour pour Marie -dont il a honte et qu'il tient secret- si bien qu'il l'avouera à Élisabeth avant même d'en avoir fait part à Marie ; celle-ci le rejettera d'ailleurs avec force quand il le reconnaîtra devant elle ; Et sa trahison n'est pas aussi grave que la reine le pense puisqu'il n'en a ni après sa vie, ni après son trône. Mais une fois la Élisabeth rendue furieuse, il est facile à Morray de la convaincre de les condamner, décision qu'elle assume mal quand elle se retrouve seule et sur laquelle elle revient à deux reprises. Contrairement à la pièce de La Calprenède, ce n'est pas la trahison du héros qui est à l'origine de tout, mais la trahison de Neucastel, qui met au jour cette trahison. L'orgueil du héros n'a aucune part dans l'intrigue puisque Norfolc avoue tout sur le champ.
 
 
-## Typologie et étude des personnages
+## Typologie et étude des personnages.
 
 
-### Importance des personnages d'après leur temps de parole
+### Importance des personnages d'après leur temps de parole.
  | I | II | III | IV | V
  | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 1 | 2 | 3 | 4 | 5 | 1 | 2 | 3 | 4 | 5 | 6 | 1 | 2 | 3 | 4 | 5 | 6 | 7
 Elisabeth |  |  |  |  | 61 | 46 | 18 |  |  |  |  |  |  | 24 | 3 | 9 | 27 |  |  |  |  | 29 | 82 | 9 |  |  |  |  | 47 | 6 | 7 | 8
@@ -1193,10 +1193,10 @@ Les chiffres en gras représentent les monologues.
 La pièce compte 1682 vers et le temps de parole de chaque personnage est réparti ainsi : Norfolc : 458 vers ; élisabeth : 446 ; Neucastel : 306 ; Morray : 280 ; Marie Stuard : 119 ; Lancastre : 45 ; Euric : 18 ; Killegre : 5 ; Melvin : 5 ; Kenede, Albione, Gardes et Suite : muets.
 
 
-## L'*inventio* des personnages
+## L'*inventio* des personnages.
 
 
-### Onomastique dans la tragédie de Boursault
+### Onomastique dans la tragédie de Boursault.
 
 Leur nombre passe de 15 à 9 – nous considérons seulement ceux qui parlent et laissons de côté les figurants. La diminution du nombre de personnages entraîne la disparition de plusieurs patronymes que l'on trouvait chez Regnault. Quelques autres sont ajoutés mais ils sont soit purement fantaisistes, soit dénués de rapport avec les événements. Ceci confirme le fait que Boursault a eu moins besoin de rechercher le pittoresque, de « faire » anglais et qu'il lui a été plus facile de s'affranchir de l'histoire véritable. à côté des cinq personnages actifs de nom anglais ou écossais (Marie Stuard, Élisabeth, Morray, Norfolc, Melvin), on peut relever :
 
@@ -1209,7 +1209,7 @@ Leur nombre passe de 15 à 9 – nous considérons seulement ceux qui parlent e
 – La géographie est aussi brumeuse que dans les pièces précédentes : Les *Cinq-Ports* (v. 144) ; Le *Palais* et la *Tour de Londres* (v. 506) ; La *Flandre* (v. 456). Ce lieu symbolise le lieu de danger, où l'ennemi se tient prêt. *Ostende* (v. 458). Ville de Flandre occidentale située sur la mer du Nord ; lieu de refuge inaccessible vers lequel Norfolc espère pouvoir s'évader avec Marie.
 
 
-### Changements vis-à-vis des personnages de Regnault
+### Changements vis-à-vis des personnages de Regnault.
 
 Si des personnages peuvent sembler tout droit venus de Regnault parce que, dans l'ensemble, ils portent le même nom, le rapprochement reste assez superficiel au regard de leurs caractères et des rapports qu'ils entretiennent, qui ont été considérablement altérés d'une pièce à l'autre.
 
@@ -1239,7 +1239,7 @@ Même imprécision autour de la nature du règne d'Élisabeth dont il est admis 
 Celle-ci représente une figure de l'innocence et de la pureté par excellence, c'est pourquoi Boursault évite, à la différence de son prédécesseur, toute mention maladroite à son passé amoureux et conjugal mouvementé.
 
 
-## Étude des caractères
+## Étude des caractères.
 
 Les caractères s'opposent de façon très tranchée voire manichéenne. Norfolc et Marie font figures de héros parfaits face à Élisabeth et Morray, le tyran et le monstre. Le spectateur est habitué à voir évoluer des types sans vraisemblance psychologique, mais il y a peut-être chez Boursault une exagération qui nuit à la vraisemblance de l'action au sens où les sentiments, les passions que l'auteur leur prête paraissent parfois peu crédibles.
 
@@ -1325,10 +1325,10 @@ Non seulement Neucastel est coupable d'ingratitude et d'infidélité (puisqu'il 
 On peut aussi voir dans ce personnage, un confident « revitalisé » [118] dans la mesure où il est chargé du récit de la mort de l'héroïne et où il est, par sa trahison, à l'origine de toute l'action.
 
 
-# Établissement du texte
+# Établissement du texte.
 
 
-## Sept éditions de *Marie Stuard* du vivant de l'auteur [119]
+## Sept éditions de *Marie Stuard* du vivant de l'auteur [119].
 
 1) Dans Pièces de théâtre de Monsieur Boursault, Paris, J. Guignard, 1694 [120].
 
@@ -1359,7 +1359,7 @@ Marie Stuard figure dans le second tome de cette édition, consultable uniquemen
 *tome I* : Avertissement du père Caffaro ; Lettre d'un homme d'érudition sur la comédie ; Le Mort vivant ; Les Cadenats ou Le Jaloux endormi ; Le Médecin volant ; Les Nicandres ou Les Menteurs qui ne mentent point ; Le Portrait du peintre ; Les Métamorphoses de Philis changez en Astres.*tome II* : Satyre des satyres ; Germanicus ; Marie Stuard (pagination, blasons et frises diffèrent de ceux de 1691 et de 1694 ou 1725, le texte est plus aéré grâce à une interligne plus importante, l'orthographe est modernisé. Mais le vers manquant n'est pas rétabli et les coquilles ne sont pas corrigées, le texte restant fidèle à celui de 1691) ; La Comédie sans titre ; Méléagre ; La Feste de la Seine. *tome III* : Phaeton ; Les Mots à la mode ; Les Fables d'Esope ; Esope à la cour.
 
 
-## Le texte de la présente édition
+## Le texte de la présente édition.
 
 Nous avons retenu le texte de la première édition afin d'établir le texte de la nôtre, et nous avons travaillé sur l'exemplaire unique que possède la bibliothèque de l'Arsenal. Pour cette édition qui comporte « plusieurs pièces de théâtre de sa composition » et qui parait à ses frais, Boursault obtient le privilège le 2 décembre 1690. Il cède ce privilège, le 27 mars 1691, à Jean Guignard, qui publie une édition se présentant comme ceci :
 
@@ -1378,10 +1378,10 @@ Boursault la publia huit ans après que la tragédie ait été joué et ait éch
 En revanche, peu de temps s'écoule entre le moment où le privilège lui fut accordé (2 décembre 1690) et celui où la tragédie fut achevée d'imprimer (20 novembre 1691), les autres pièces étant souvent imprimées trois ans après l'accord du privilège.
 
 
-## Corrections apportées au texte de la pièce
+## Corrections apportées au texte de la pièce.
 
 
-### Corrections présentes dans l'édition de 1694
+### Corrections présentes dans l'édition de 1694.
 
 Ajout du vers I, 2, 146.
 
@@ -1393,7 +1393,7 @@ pose (84) ; fortifie (230) ; eu seureté (290) ; J jure (428) ;
 ternime (550) ; fair (804) ; allarm (847) ; un secrette (988) ; remeine (1301) ; fruir (1523) ;
 
 
-## Sept éditions posthumes
+## Sept éditions posthumes.
 
 Jusqu'en 1746 – c'est-à-dire pendant plus de 50 ans – Marie Stuard fut reprise systématiquement dans tous les recueils de son Théâtre. Elle cesse ensuite d'y figurer jusqu'au XIX*e* siècle.
 
@@ -1416,7 +1416,7 @@ Lancaster nous apprend que la pièce de Boursault a été traduite après sa mor
 Nous n'avons pas été en mesure de vérifier la seconde information.
 
 
-# MARIE STUARD, REINE D'ÉCOSSE. *TRAGÉDIE.*
+# MARIE STUARD, REINE D'ÉCOSSE. *TRAGÉDIE.*.
 
 
 ## A MONSEIGNEUR LE DUC DE ST AIGNAN [122], PAIR DE FRANCE, Chevalier des Ordres du Roy, Premier Gentilhomme de la Chambre, Gouverneur et Lieutenant General pour sa Majesté de la Ville, Citadelle et Province du Havre.
@@ -1434,7 +1434,7 @@ MONSEIGNEUR, que ce n'est pas d'aujourd'huy que les plus honnestes gens de l'Eur
 Vostre tres-humble, tres-obeïssant, & tres-obligé Serviteur, BOURSAULT.
 
 
-## Extrait du Privilege du Roy
+## Extrait du Privilege du Roy.
 
 Par Lettres Patentes du Roy, données à Paris le deuxiéme jour de Decembre 1690. Signé BOUCHER, Il est permis au Sieur BOURSAULT, de faire imprimer par tel Libraire ou Imprimeur qu'il voudra choisir, une Piece de sa composition intitulée *Marie Stuard Reine d'Ecosse,Tragedie*, pendant le temps & espace de huit années, à compter du jour qu'elle sera achevée d'imprimer : Avec deffences à tous Libraires, Imprimeurs & autres, d'imprimer, faire imprimer, vendre ny debiter ladite Tragedie sous quelque pretexte que se soit, même d'impression étrangere sans le consentement dudit Exposant ou de ses ayant cause, à peine de confiscation des exemplaires contrefaits, de trois mille livres d'amende, & de tous dépens, dommages & interests, ainsi qu'il est plus au long porté par lesdites Lettres.
 
@@ -1471,7 +1471,7 @@ La Scene est à Londres.
 Le Comte de Neucastel, Euric.
 
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Euric, dans ce Palais ne m'accompagnez pas.  
 Un Ordre exprés⁎ du Duc conduit icy mes pas.  
 Son coeur brûle en secret d'une nouvelle flâme ;  
@@ -1488,7 +1488,7 @@ Dans l'endroit concerté⁎ j'ay déja pris le soin
 De conduire moy-même un fidele témoin.  
 Pour le bien de l'Etat le Comte y devroit estre.  
 
-    EURIC
+    EURIC.
 Seigneur, en ce moment il nous entend peut-estre.  
 Je viens vous repeter les sermens qu'il [123] a faits  
 De porter⁎ vostre sort plus loin que vos souhaits.  
@@ -1497,7 +1497,7 @@ Si par la mort du Duc cette union s'acheve,
 Sans cesse de son Trône infatigable appuy  
 Vous douterez qui regne ou de vous ou de luy.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Je me fie à sa foy⁎. Qu'il se fie à mon zele⁎.  
 Vaincu par ses raisons⁎, je luy seray fidelle.  
 Un serment solemnel, aprés de grands combats⁎,  
@@ -1518,17 +1518,17 @@ Quelqu'un vient : C'est le Duc. Soit qu'il aime ou conspire
 Allez prester l'oreille à ce qu'il va me dire.   
 
 
-### SCENE II
+### SCENE II.
 Le Duc de Norfolc, le Comte de Neucastel.
 
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Comte.  
 
     LE COMTE DE NEUCASTEL.
     Seigneur ?  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         De grace employez tous vos soins  
 A voir si dans ce lieu nous sommes sans témoins.  
 Haï d'Elizabeth, je ne fais point de doute  
@@ -1540,10 +1540,10 @@ Jusqu'icy tout mon crime est de n'avoir pû l'estre ;
 Mais puis que de mon zele⁎ on s'ose défier  
 Il faut l'estre une fois pour me justifier.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Seigneur, nous sommes seuls. Tout paroist favorable...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 D'un effort genereux vous sentez-vous capable ?  
 Avant que de répondre interrogez-vous bien,  
 Et si vous hesitez ne me promettez rien [126].  
@@ -1553,7 +1553,7 @@ Et pour tout privilege, en un degré⁎ si haut,
 Je vous traîne avec moy sur un même Echaffaut.  
 Un coeur tel que le mien n'a point l'art de surprendre.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Seigneur, me voila prest. Que faut-il entreprendre ?  
 Quel que soit le péril où je dois m'exposer  
 Mon zele, & vos bienfaits me le font mépriser.  
@@ -1567,14 +1567,14 @@ Rien ne m'est plus sacré que ce que je vous doy ;
 Et la reconnoissance est ma premiere loy [127].  
 Ainsi que vos bontez mon zele est sans limites.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Puis-je me reposer sur ce que vous me dites ?  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Oüy, Seigneur : Et bien-tost par mes soins empressez  
 Vous connoistrez vous-même à quel point...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         C'est assez.  
 Comte de Neucastel, je vous ouvre mon ame.  
 Je suis las d'obeïr aux ordres d'une femme.  
@@ -1587,7 +1587,7 @@ Pour le prix de son zele elle eut soif de son sang [129] ;
 Et d'un si ferme appuy priva son Diadême,  
 Si tost que sur sa teste il l'eut posé luy-même.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Seigneur, des maux passez perdons le souvenir ;  
 Il en est de presens, & qu'il faut prevenir⁎.  
 Depuis combien de temps une Reine innocente  
@@ -1603,7 +1603,7 @@ Donnons à la Vertu [133] l'appuy qu'elle demande.
 Des maux dont on l'accable interrompons le cours.  
 C'est de nostre valeur qu'elle attend du secours.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 J'aurois moins tardé, Comte, à luy montrer mon zele  
 Si j'avois crû trouver un Amy si fidelle :  
 Mais dans une occurrence⁎ où tout doit m'effrayer,  
@@ -1613,7 +1613,7 @@ Il n'est point là d'amy qui n'ait plus d'un visage :
 Tel qui m'offroit son sang me refuse son bras ;  
 Et mes plus grands bienfaits n'ont fait que des ingrats. [134]  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Suivons les mouvemens⁎ que le Ciel nous inspire.  
 D'une Reine odieuse il [135] veut finir l'Empire.  
 Injuste aux Etrangers, cruelle à ses Sujets,  
@@ -1632,7 +1632,7 @@ En de plus dignes mains transmettons son pouvoir,
 Avant qu'elle ait le temps de s'en apercevoir.  
 Enfin prescrivez-moy ce qu'il faut que je fasse.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Non, non, je ne veux point meriter ma disgrace.  
 Les plus heureux forfaits ne sçauroient me tenter.  
 Si de vostre secours j'ose icy me flatter,  
@@ -1649,22 +1649,22 @@ Que je n'ose à ses yeux étaler mon audace ;
 Et n'estoit le secours que j'attends de vos soins  
 Jamais un feu si pur n'auroit eu de témoins.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Vous ne pouviez, Seigneur, dans un sein plus fidèle  
 Deposer le secret d'une flâme si belle.  
 Tout mon sang répandu pour vous prouver ma foy  
 Ne m'acquiteroit pas de ce que je vous doy.  
 Offrez-moy le moyen de vous faire paroistre…  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Gouverneur des Cinq-ports [140], vous en estes le maître.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Oüy, Seigneur, je le suis ; Et c'est par vostre choix [141]  
 Que la Mer Britânique obéït à mes loix. [142]  
 Que puis-je ? Commandez. Et quoy que je hazarde...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 De l'Illustre Stuard j'ay corrompu la Garde [143].  
 Et seur du prompt secours que vous m'avez offert  
 J'attends que pour sa fuite un Port [144] me soit ouvert.  
@@ -1674,7 +1674,7 @@ Avec tant de bonté, tant d'ardeur, tant de foy,
 Mes déplorables jours vous sont plus chers qu'à moy.  
 Je ne les risque point quand je vous les confie [146].  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Je ne puis condamner une si noble envie :  
 Mais de ce grand dessein l'évenement⁎ douteux⁎  
 Expose vostre teste au sort le plus honteux.  
@@ -1686,7 +1686,7 @@ A la Cour, où la foy⁎ n'ose presque paroistre,
 L'espoir de s'agrandir⁎ fait aisément un traitre [148].  
 Si vous estes surpris vous vous perdez.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Helas!  
 Tout est perdu pour moy si je ne me perds pas.  
 Des Juges dévoüez, sans honneur, sans naissance,  
@@ -1696,14 +1696,14 @@ Dans ses cruelles mains tient l'Arrest de sa mort.
 Dés demain la clarté luy peut estre ravie :  
 Le temps presse. Un moment decide de sa vie.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Seigneur, à ces raisons⁎ je n'ose m'opposer :  
 La grandeur du peril les doit autoriser.  
 Pour dérober sa vie au sort qui la menace  
 Dites-moy quel effort vous voulez que je fasse.  
 Encor un coup, Seigneur, je suis prest...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Qu'il m'est doux  
 D'avoir dans mon malheur un amy tel que vous !  
 Comte, puis que pour moy vostre ardeur est si grande,  
@@ -1733,20 +1733,20 @@ A son ambition il immole sa sœur.
 Le criminel amour dont il a receu l'estre [152]  
 Le condamne...  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
         Seigneur, je croy le voir paroistre :  
 Laissez-moy de son coeur penetrer les secrets.  
 Pour remplir vos desirs je vous suivray de prés [153].   
 
 
-### SCENE III
+### SCENE III.
 Le Comte de Morray, le Comte de Neucastel.
 
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 He bien, Seigneur...  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Souffrez que mon coeur se déploye,  
 Et que j'étale icy la grandeur de ma joye.  
 Rien ne s'oppose plus au succez de mes feux :  
@@ -1757,7 +1757,7 @@ Un sincere temoin de tout ce qu'il a dit
 En va faire à la Reine un fidele recit.  
 Nous triomphons.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
         Seigneur, j'ay toûjours même zele :  
 Mais prestez de la force à mon coeur qui chancelle ;  
 Et puisque le silence est encor à mon choix,  
@@ -1784,7 +1784,7 @@ Et si quelque tendresse excitoit vos remors
 Jugez en quel peril je me verrois alors.  
 Il faudroit que mon sang...  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Moy des remors ! moy, Comte ! [155]  
 D'un soupçon qui m'outrage épargnez-moy la honte.  
 Quelle peur vous allarme ? Et par quel sort fatal  
@@ -1806,13 +1806,13 @@ Dans l'Estat le plus calme excite une tempeste :
 Un Sceptre ne sied bien que dans la main des Rois ;  
 Et le Trône chancelle à moins qu'il n'ait son poids.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Seigneur, d'Elle & de Vous la naissance inégale  
 Decide en sa faveur de la grandeur Royale :  
 Et si j'ose, entre-nous, vous le dire tout bas  
 La vostre a des deffauts que la sienne n'a pas.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Et quels deffauts ? Allez, ce n'est qu'une manie⁎.  
 Il y manque, il est vray, quelque ceremonie ;  
 Mais un Roy m'a fait naistre ; & pour l'estre aujourd'huy  
@@ -1822,14 +1822,14 @@ S'il épousa sa mere, il adoroit la mienne ;
 Et par l'ordre du Ciel il nous donna le jour  
 A l'une par devoir, à l'autre par amour.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Il est vray : Mais, Seigneur, par une loy severe  
 Aucun de vos pareils ne succede à son pere.  
 Et d'ailleurs, le feu Roy, quoy qu'on ait entrepris,  
 N'a jamais avoüé que vous fussiez son fils.  
 Qui justifiera...  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Qui ? Ma valeur, mon audace [157] :  
 Mon ardeur de regner & de remplir sa place :  
 Si le Ciel m'eût fait naistre en un degré plus bas,  
@@ -1852,7 +1852,7 @@ Et je ne répons pas qu'avant la fin du jour
 Je ne trouve le temps d'expliquer mon amour.  
 Ne m'en détournez point si vous me voulez plaire.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Et concevez-vous bien ce que vous allez faire ?  
 D'un amour qui luy plut son coeur encor frappé,  
 Pour écouter le vostre est trop préoccupé.  
@@ -1860,7 +1860,7 @@ Pour faire de son Trône une heureuse conqueste
 Attendez que du Duc elle ait proscrit la teste ;  
 Et gardez-vous, Seigneur, de laisser entre-voir...  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Et pourquoy plus long-temps differer mon espoir ?  
 Si l'union des coeurs naist de la ressemblance  
 Quel party sous le Ciel a moins de difference ?  
@@ -1876,11 +1876,11 @@ Le sort d'intelligence⁎ avec nos attentats
 A déja pris le soin de joindre nos Etats.  
 Quel Prince dans l'Europe a le même aventage ?  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Mais l'Ecosse, Seigneur, n'est pas vostre heritage.  
 Le Roy, vostre Neveu, quoy que jeune & soumis...  
 
-    LE COMTE DE MORRAY 
+    LE COMTE DE MORRAY. 
 Et si je perds la mere auray-je soin du fils ?  
 Je luy laisse le jour tant qu'il m'est necessaire ;  
 Mais enfin, ce fut moy qui m'immolay son pere :  
@@ -1891,7 +1891,7 @@ La main déja coupable en est plus affermie ;
 Et je n'ignore pas ce precepte si beau  
 Que l'azile d'un crime est un crime nouveau [159].  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Seigneur, c'en est assez. Surpris de vous entendre  
 Je ne consulte plus quel party je dois prendre.  
 Quoy que fasse le sang, il faudra peu d'efforts  
@@ -1905,11 +1905,11 @@ Du zele le plus pur empruntez l'apparence.
 Accoûtumez son cœur…  
 
 
-### SCENE IV
+### SCENE IV.
 Lancastre, le Comte de Morray, le Comte de Neucastel.
 
 
-    LANCASTRE
+    LANCASTRE.
         Ah, Seigneur, hâtez-vous,  
 Et venez de la Reine appaiser le courroux.  
 Je ne puis deviner qui conspire contr'elle ;  
@@ -1922,11 +1922,11 @@ Pour détourner l'orage, ou pour le prévenir,
 Elle vous fait chercher pour vous entretenir.  
 Dans cette occasion montrez-luy vostre zele.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Et quelle ame assez basse ose estre encor rebelle?  
 Vous a-t'-on dit le nom du coupable ?  
 
-    LANCASTRE
+    LANCASTRE.
         Seigneur,  
 Je n'ose en soupçonner la Reine vostre Sœur.  
 Mais un des Officiers qui doit répondre d'elle  
@@ -1935,7 +1935,7 @@ Il l'a veüe en secret ; & même en ce moment
 Elle luy parle encor en son Appartement.  
 Vostre avis est le seul que la Reine veut suivre.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Qui trouble son repos est indigne de vivre.  
 Voila mon sentiment que rien ne peut changer.  
 De quelque part qu'il vienne écartons le danger.  
@@ -1945,14 +1945,14 @@ La nature outragée a beau s'en émouvoir,
 Sa voix est impuissante où parle mon devoir.  < Fin du premier Acte. > 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 Elisabeth, le Comte de Morray, Lancastre, gardes.
 
 
-    ELISABETH
+    ELISABETH.
 Auriez-vous jamais crû qu'insensible à mes graces,  
 De tant de Conjurez il eût suivy les traces ?  
 Luy que j'ay tant de fois comblé d'honneurs, de biens,  
@@ -1966,33 +1966,33 @@ Plus son crime est énorme & ma haine équitable :
 Et qu'aprés l'injustice où [160] l'Ingrat se resout,  
 Ma tendresse irritée est capable de tout.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Madame, quelque horreur que le Duc vous imprime,  
 Elle n'égale pas la grandeur de son crime.  
 Il vouloit, le perfide, attenter à vos jours  
 Pour faire réüssir ses nouvelles amours.  
 
-    ELISABETH
+    ELISABETH.
 Ses amours ! Juste Ciel, que m'apprend-on encore ?  
 Et pour qui ?  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
     Pour ma Sœur.  
 
-    ELISABETH
+    ELISABETH.
     L'aime-t'il ?  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Il l'adore.  
 
-    ELISABETH
+    ELISABETH.
 Il l'adore ! Qu'entens-je ?  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Et quel autre motif  
 D'un Ministre d'Estat feroit un fugitif ? [161]  
 
-    ELISABETH
+    ELISABETH.
 Quoy, pour [162] mon Ennemie il a l'ame obsedée !  
 Eh faut-il que si tard j'en sois persuadée⁎ !  
 Depuis plus de six mois confus, sombre, interdit,  
@@ -2015,7 +2015,7 @@ Et que pour luy porter de plus sensibles coups
 Mes yeux se repaistront d'un spectacle si doux [164].  
 J'auray plus de rigueur qu'il n'eut d'ingratitude.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 On ne peut luy trouver un supplice trop rude.  
 Par un crime si grand il viole à la fois  
 Tout ce qu'ont de plus saint les plus augustes loix.  
@@ -2025,7 +2025,7 @@ Et l'on ne peut, Madame, en cette occasion
 Prendre contre un ingrat trop de précaution.  
 Ne souffrez prés de vous que ceux dont le pur zele...  
 
-    ELISABETH
+    ELISABETH.
 Et les Rois sçavent-ils quand on leur est fidele ?  
 Environnez par tout de gens interessez  
 Ils n'ont point de deffauts qui ne soient encensez :  
@@ -2040,16 +2040,16 @@ Que de la part du Duc il ne m'arrive rien.
 Je vous en donne l'ordre, & ce soin vous regarde.  
 Hola.  
 
-    EURIC
+    EURIC.
     Madame ?  
 
-    ELISABETH
+    ELISABETH.
         Euric, pour commander ma Garde  
 Du Comte de Morray je viens de faire choix :  
 Ayez soin cette nuit d'obeïr à sa voix.  
 Je l'ordonne.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Charmé de cette confiance  
 Je jure que vos jours sont en pleine asseurance,  
 Et que vos ennemis n'iront point jusqu'à vous  
@@ -2069,7 +2069,7 @@ Songez que le silence est necessaire icy.
 Il sort.
 
 
-    ELISABETH *le rappellant.*
+    ELISABETH *le rappellant.*.
 Comte, pour cet Ingrat la mort aura des charmes,  
 Des yeux qui l'ont seduit il obtiendra des larmes.  
 Pour luy faire un destin qui soit plus rigoureux  
@@ -2083,7 +2083,7 @@ Forcera le perfide à mourir à toute heure.
 Et je l'accableray par l'horreur de me voir  
 Joüir de ma vengeance & de son desespoir [168].  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 A languir dans la honte on pourroit le contraindre  
 Si de sa perfidie on n'avoit rien à craindre.  
 Pour nous rendre le joug & le culte Romain [169]  
@@ -2098,11 +2098,11 @@ Vous n'hesiterez plus à vouloir son trépas
 Quand de sa trahison vous ne douterez pas.  
 
 
-### SCENE II
+### SCENE II.
 Elisabeth, Lancastre.
 
 
-    ELISABETH
+    ELISABETH.
 He bien, Lancastre, hé bien, tu vois ce qui se passe :  
 Diroit-on que le Duc eût une ame si basse ?  
 Parle sans me flatter ; je te fais le témoin  
@@ -2110,10 +2110,10 @@ Si mes bontez pour luy pouvoient aller plus loin.
 Je croyois sur son coeur ma puissance absoluë.  
 Le Traistre !  
 
-    LANCASTRE
+    LANCASTRE.
         A quoy, Madame, estes-vous resoluë ?  
 
-    ELISABETH
+    ELISABETH.
 A quoy, Lancastre ? Apprens que plus j'eus de bonté,  
 Plus je luy dois de haine & de severité.  
 Je ne luy devois pas tant de marques d'estime,  
@@ -2125,7 +2125,7 @@ Je la luy rendray mieux qu'il ne me l'a renduë ;
 Et doublement coupable il me fera raison [172]  
 De son ingratitude & de sa trahison.  
 
-    LANCASTRE
+    LANCASTRE.
 Croyez-vous de vostre ame estre assez la maistresse,  
 Pour en bannir d'abord ce qu'elle eut de tendresse ?  
 Et pour peu qu'il en reste à vous parler pour luy,  
@@ -2135,7 +2135,7 @@ Prompte à le garentir du sort qui le menace,
 La main qui l'éleva le soûtiendra toûjours :  
 Il vous doit sa fortune, & vous devra les jours.  
 
-    ELISABETH
+    ELISABETH.
 Non, Lancastre, ma haine est deuë à son outrage.  
 Il fait de ma tendresse un trop mauvais usage.  
 Plus je luy fais de bien, plus je m'en fais haïr ;  
@@ -2161,7 +2161,7 @@ Qui croiroit que pour elle on m'eût abandonnée ?
 Et qui, Lancastre, & qui ? Tu le sçais, un Ingrat,  
 Preferé par moy-même à plus d'un Potentat.  
 
-    LANCASTRE
+    LANCASTRE.
 Si le Duc de Norfolc, que peut-estre on opprime,  
 N'est coupable envers vous que de ce dernier crime,  
 Jamais aucune loy n'a fixé de tourmens  
@@ -2176,7 +2176,7 @@ Et pour sauver le Duc si les remors sont vains [175],
 Vous verrez que le Comte a de plus hauts desseins.  
 Il est jeune & sensible : & vos charmes...  
 
-    ELISABETH
+    ELISABETH.
         Arreste.  
 Mes charmes ne font point de honteuse conqueste...  
 S'il osoit me tenir les discours que tu tiens  
@@ -2184,26 +2184,26 @@ Je luy vendrois [176] bien cher de pareils entretiens.
 Ton soupçon est injuste, & cela ne peut estre.  
 Il sçait trop quel il est pour s'oser méconnoistre.  
 
-    LANCASTRE
+    LANCASTRE.
 Madame, pardonnez si j'ay crû que sa foy...  
 
-    ELISABETH
+    ELISABETH.
 Voicy le Duc. Euric, demeurez avec moy.  
 Ma vie aux mains d'un Traistre est trop mal asseurée.   
 
 
-### SCENE III
+### SCENE III.
 Le Duc de Norfolc, Elisabeth, Euric, Lancastre, gardes.
 
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Quoy, Madame, si tard n'estre pas retirée ?  
 Pendant qu'un plein repos regne dans vos Etats,  
 Vous qui le procurez, vous n'en joüissez pas !  
 Donnez quelque relâche au soin⁎ qui vous devore.  
 Vous exposez des jours que l'Univers adore.  
 
-    ELISABETH
+    ELISABETH.
 L'interest de l'Etat m'impose cette loy.  
 Je me dois toute à luy puis qu'il est tout à moy.  
 Quelque soin que je prenne, il est toûjours des Traistres  
@@ -2212,7 +2212,7 @@ Vous qui ne craignez point qu'on vous manque de foy,
 Sans avoir mes raisons, vous veillez comme moy.  
 Avez-vous eu du Ciel un plus grand privilege ?  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Aux rigueurs du destin quelle vie exposay-je,  
 Madame ? Et que m'importe, enfin, par quel secours,  
 Du malheur qui me suit je termine le cours ?  
@@ -2236,7 +2236,7 @@ Preferez le repos à vos soins politiques.
 Demain vous vous rendrez aux affaires publiques.  
 Demain…  
 
-    ELISABETH
+    ELISABETH.
         C'est assez, Duc. Vostre zele est si grand  
 Qu'on ne peut resister à ce qu'il entreprend.  
 Je viens de reconnoistre à ce conseil sincere  
@@ -2252,9 +2252,9 @@ En sortant.
 Le Perfide est contraint, ma presence le gesne⁎.   
 
 
-### SCENE IV
+### SCENE IV.
 
-    LE DUC DE NORFOLC, *seul.*
+    LE DUC DE NORFOLC, *seul.*.
 Me trompez-vous mes sens ! Ay-je entendu la Reine !  
 Quelle profusion⁎ fait-elle en ma faveur !  
 Et que luy reste-t-il à m'offrir que son cœur ?  
@@ -2269,11 +2269,11 @@ Aura fait pour le moins tout ce qu'il aura dû.
 Heureux si par ma mort la vostre differée...  
 
 
-### SCENE V
+### SCENE V.
 Le Duc de Norfolc, Euric.
 
 
-    EURIC
+    EURIC.
 Dans son Appartement la Reine est retirée,  
 Seigneur ; & tout conspire à remplir vos souhaits.  
 Nous sommes asseurez des portes du Palais.  
@@ -2281,14 +2281,14 @@ D' Ecossois genereux une Troupe intrepide [178]
 Doit servir à sa Reine & d'escorte & de guide.  
 Ces momens fortunez ne se retrouvent pas.  
 
-    LE DUC DE NORFOLC 
+    LE DUC DE NORFOLC. 
 De la Reine captive allez haster les pas.  
 Je vous attends.  
 
 
-### SCENE VI
+### SCENE VI.
 
-    LE DUC DE NORFOLC,  *seul.*
+    LE DUC DE NORFOLC, *seul.*.
         O Ciel ! voy pour qui je t'implore.  
 Avant que dans ce lieu tu rameines l'aurore  
 Attends qu'un long espace entre la Reine & nous  
@@ -2297,15 +2297,15 @@ Sauve de sa fureur une Reine si belle.
 Je suis trahy, sans doute, Euric revient sans elle.  
 
 
-### SCENE VII
+### SCENE VII.
 Le Duc de Norfolc, Euric.
 
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 A la Reine d'Ecosse a-t-on manqué de foy ?  
 Parlez, Euric.  
 
-    EURIC
+    EURIC.
         Seigneur, elle vient aprés moy.  
 Touché de la frayeur dont son ame est atteinte,  
 Je devance ses pas pour dissiper sa crainte.  
@@ -2313,58 +2313,58 @@ Un peu d'émotion meslée à ses attraits
 Vous la va faire voir plus belle que jamais.   
 
 
-### SCENE VIII
+### SCENE VIII.
 Le Duc de Norfolc, Marie Stuard, Euric, gardes.
 
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Venez, venez, Madame...  
 
-    MARIE STUARD
+    MARIE STUARD.
         Ah ! Duc que j'apprehende  
 De vous rendre funeste une bonté si grande !  
 Si la Reine en secret fait observer nos pas,  
 En voulant me sauver ne vous perdez-vous pas ?  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Vos jours en seureté, quoy que je puisse craindre,  
 Mon sort sera trop beau pour chercher à m'en plaindre.  
 Profitons du secours que nous offre la nuit.  
 Sortons, Madame...O Ciel ! d'où vient un si grand bruit ?  
 
-    MARIE STUARD
+    MARIE STUARD.
 Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.   
 
 
-### SCENE IX
+### SCENE IX.
 Killegre, Marie Stuard, le Duc de Norfolc, Euric, gardes.
 
 
-    KILLEGRE
+    KILLEGRE.
 Hola, Gardes ? A moy : l'on veut trahir la Reine.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Ouvre les yeux, de grace, & voy ce que tu fais.  
 Le bras que tu saisis t'a comblé de bienfaits.  
 C'est le Duc de Norfolc, qui cent fois...  
 
-    KILLEGRE
+    KILLEGRE.
         Il n'importe.  
 Je suis Sujet, Seigneur, & ce devoir l'emporte. [179]  
 
 
-### SCENE X
+### SCENE X.
 Elisabeth, Marie Stuard, le Duc de Norfolc, Lancastre, Killegre, Euric, gardes.
 
 
-    ELISABETH
+    ELISABETH.
 Quel desordre, si tard, ose-t-on faire icy ?  
 C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !  
 
-    MARIE STUARD 
+    MARIE STUARD. 
 Qui, moy, vostre ennemie ! Eh, Madame...  
 
-    ELISABETH
+    ELISABETH.
         Ah le Traistre !  
 Enfin, Ingrat, enfin, tu t'es donc fait connoistre ?  
 A démentir mes yeux ose appliquer tes soins.  
@@ -2380,10 +2380,10 @@ Que je voulois ta mort moins que ton repentir.
 Gardes, sans balancer, entraînez ce Perfide.  
 Il faut que de son sort ma vengeance decide.  
 
-    MARIE STUARD
+    MARIE STUARD.
 Songez-vous aux remors que vous vous preparez ?  
 
-    ELISABETH
+    ELISABETH.
 Qu'on les mette tous deux en des lieux separez.  
 Ces coupables Amans trouveroient trop de charmes  
 A pouvoir l'un de l'autre adoucir les alarmes :  
@@ -2397,41 +2397,41 @@ Ayez soin d'assembler demain à mon réveil
 Les Pairs accoûtumez à tenir mon Conseil.  < Fin du second Acte. >
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 Elisabeth, Lancastre.
 
 
-    LANCASTRE
+    LANCASTRE.
 Non, Madame, les Pairs ne viennent point encore.  
 Vous vous estes levée aussi-tost que l'Aurore.  
 Tant qu'a duré la nuit vostre esprit agité  
 N'a laissé nul repos à vostre Majesté.  
 
-    ELISABETH
+    ELISABETH.
 A-t-on donné mon Ordre ? Amene-t-on le Traistre ?  
 
-    LANCASTRE
+    LANCASTRE.
 Oüy, Madame, à l'instant vous l'allez voir paroître.  
 
-    ELISABETH
+    ELISABETH.
 Et les Comtes ?  
 
-    LANCASTRE
+    LANCASTRE.
         Madame, ils vont entrer tous deux.  
 
-    ELISABETH
+    ELISABETH.
 Pour immoler le Duc je veux m'asseurer d'eux.  
 Ils ont pour ce Perfide une haine mortelle [183].   
 
 
-### SCENE II
+### SCENE II.
 Elisabeth, le Comte de Morray, le Comte de Neucastel, Lancastre.
 
 
-    ELISABETH
+    ELISABETH.
 Comtes, depuis long-temps je connois vostre zele.  
 Vos voeux les plus ardents vont au bien de l'Etat ;  
 Et d'un ingrat Sujet vous sçavez l'attentat.  
@@ -2444,11 +2444,11 @@ D'empêcher desormais que l'Ingrat me trahisse.
 Allez.  
 
 
-### SCENE III
+### SCENE III.
 Elisabeth, le Duc de Norfolc.
 
 
-    ELISABETH 
+    ELISABETH.
 Elle fait signe aux Gardes de se retirer.
 
         Approchez, Duc. Si le Ciel l'eût permis  
@@ -2461,7 +2461,7 @@ Le Ciel, qui des Etats prend toûjours la conduite,
 A veu trop de peril à souffrir vostre fuite [186].  
 Il a mis un obstacle avec juste raison...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Madame, un tel discours n'est guere de saison.  
 Cette foible valeur dont je voy qu'on se jouë  
 N'a rien fait jusqu'icy que la gloire n'avouë ;  
@@ -2469,7 +2469,7 @@ Et pour nous épargner des discours superflus,
 Vostre Etat chancelloit, & ne chancelle plus.  
 La mort qu'on me prepare est le digne salaire...  
 
-    ELISABETH
+    ELISABETH.
 Et qu'as-tu fait, Ingrat, qu'un autre n'eût pû faire ? [187]  
 Quel autre encor plus loin n'eût porté ses exploits  
 Si je l'eusse honoré de tes mêmes Emplois [188] ?  
@@ -2480,7 +2480,7 @@ De t'acquerir un nom qui fut digne du mien.
 Tout autre que toy, lâche, auroit plus fait, peut-estre ;  
 Et n'auroit pas acquis l'infame nom de Traistre.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Au gré de vostre haine avancez mon trépas ;  
 Mais de noms odieux ne me noircissez pas.  
 En quelque lieu du monde où l'on m'ait veu paroître  
@@ -2488,7 +2488,7 @@ Jamais à mon devoir on ne m'a trouvé Traître :
 C'est un crime trop bas au rang où je me voy,  
 Pour tenter la vertu d'un homme tel que moy.  
 
-    ELISABETH
+    ELISABETH.
 Et quand d'une Princesse odieuse, coupable,  
 Je te nommay le Juge, & te crûs équitable [190],  
 Séduit par le pouvoir de ses honteux appas ;  
@@ -2497,7 +2497,7 @@ Les Pairs qui depuis toy l'ont mieux examinée ;
 D'une commune voix l'ont d'abord condamnée.  
 En donnant cet Arrest n'ont-ils pas consulté...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Oüy, Madame, vos vœux, & non pas l'Equité.  
 Pour moy qui ne cherchois qu'à vous montrer mon zele  
 Dans le funeste employ que je receus contr'elle,  
@@ -2544,7 +2544,7 @@ Ils feront contre vous ce qu'ils ont fait contr'elle :
 Et ce crime impuni va suffire aux Anglois  
 Pour les autoriser à proscrire leurs Rois.  
 
-    ELISABETH
+    ELISABETH.
 Va, tu noircis en vain des Juges équitables.  
 Jamais de perfidie ils n'ont esté coupables.  
 Animez d'un pur zele ils periroient pour moy  
@@ -2564,7 +2564,7 @@ L'Echaffaut qui t'attend & le Trône où je suis.
 Quelle indigne Beauté vient de te rendre traistre !  
 Proscrite, abandonnée...  
 
-    LE DUC DE NORFOLC 
+    LE DUC DE NORFOLC. 
         Et devroit-elle l'estre ?  
 Quel spectacle à nos yeux allez-vous étaller,  
 Madame ? Et que de droits faites-vous violer ?  
@@ -2585,11 +2585,11 @@ Pour le malheur du monde en estoit exilée,
 Il faudroit qu'en tout temps par un glorieux choix  
 Elle se retrouvât dans la bouche des Rois.  
 
-    ELISABETH
+    ELISABETH.
 Laisse-là mon devoir & songe au tien, Perfide :  
 Ton trépas...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Son aspect⁎ n'a rien qui m'intimide :  
 Souvent pour vostre gloire ou pour vos interests  
 Contre vos Ennemis je l'ay veu d'assez prés ;  
@@ -2610,7 +2610,7 @@ N'a fait connoistre au sien qu'il cherchât à luy plaire :
 Que mon respect pour elle égale ses appas ;  
 Et qu'enfin si je l'aime elle ne le sçait pas [192].  
 
-    ELISABETH
+    ELISABETH.
 Du plus énorme crime avoir esté capable  
 C'est donc envers l'Etat ne pas estre coupable ?  
 Et de mon coeur tranquile avoir troublé la paix,  
@@ -2624,7 +2624,7 @@ Est que pour chaque crime on invente un suplice ;
 Et que par des tourmens dont tu n'expires pas  
 Tu sentes à loisir les horreurs du trépas.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Hé bien, assouvissez vostre cruelle envie.  
 Au lieu des tourmens laissez durer ma vie.  
 Par l'espoir du salaire animez vos Bourreaux  
@@ -2642,7 +2642,7 @@ A vos tendres bontez n'a pû si bien répondre ;
 Si par d'autres attraits il s'est laissé toucher,  
 C'est tout ce qu'à ma foy vous pouvez reprocher.  
 
-    ELISABETH
+    ELISABETH.
 C'est tout ce qu'à ta foy je puis reprocher, Traître !  
 Voy cette Lettre, voy. Peux-tu la meconnoistre?  
 Elle lit.
@@ -2665,7 +2665,7 @@ Ridolf, ce Confident par toy-même choisi,
 Arresté de ma part s'en est trouvé saisi [194].  
 Que peux-tu m'opposer pour détruire ce crime ?  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Rien. Ce Billet surpris rend ma mort legitime.  
 Non que prest à mourir en Victime d'Etat  
 Je puisse estre accusé d'aucun autre attentat  
@@ -2674,7 +2674,7 @@ Où la Reine d'Ecosse eût un abry tranquile ;
 Examinez l'Ecrit qui paroît à vos yeux :  
 Examinez...  
 
-    ELISABETH
+    ELISABETH.
         Les Pairs l'examineront mieux :  
 Ils doivent s'assembler dans la Salle prochaine.  
 Comme ta trahison ma vangeance est certaine.  
@@ -2703,18 +2703,18 @@ Empêchez seulement qu'aucun n'entre ou ne sorte.
 Il y va de vos jours à répondre des leurs [195].  
 
 
-### SCENE IV
+### SCENE IV.
 Marie Stuard, le Duc de Norfolc.
 
 
-    MARIE STUARD
+    MARIE STUARD.
 He bien, Duc, vos bontez augmentent mes malheurs.  
 Quelle fatalité vous inspira l'envie  
 De prodiguer vos jours pour conserver ma vie ?  
 J'ay fait ce que j'ay pû pour vous en empêcher ;  
 Et tout ce que j'ay fait ne vous a pû toucher.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 J'attendrois le trepas, l'ame ferme & tranquile,  
 Si mon sang répandu vous devenoit utile ;  
 Mais tel est de mon sort⁎ l'inflexible courroux  
@@ -2728,7 +2728,7 @@ Du zele qui m'anime a condamné l'audace ;
 Et n'a pû consentir que vous dûssiez vos jours  
 Aux efforts impuissans d'un si foible secours.  
 
-    MARIE STUARD
+    MARIE STUARD.
 Si le Ciel équitable à ma fuite s'oppose  
 De son juste courroux je suis la seule cause :  
 Innocente à vos yeux de meurtres, d'attentats,  
@@ -2745,7 +2745,7 @@ Vous, enfin, qui sans fraude ayant esté mon Juge
 Vouliez à l'innocence asseurer un refuge,  
 Quel crime avez-vous fait pour souffrir le trépas ?  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Madame, j'en sçais un que je ne vous dis pas.  
 Si vous aviez appris ce crime qui vous touche  
 Il seroit condamné de vostre propre bouche :  
@@ -2756,12 +2756,12 @@ Je me flatte en mourant d'emporter vostre estime ;
 Et si j'avois parlé, vos mépris éclatans  
 Joindroient trop d'amertume au trépas que j'attens.  
 
-    MARIE STUARD
+    MARIE STUARD.
 Moy des mépris ! Ah Duc, qu'un tel soupçon m'offence !  
 Je puis manquer de tout, hors de reconnoissance.  
 C'est moy qui vous expose aux mouvemens jaloux...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Et qu'est-il de plus beau que de mourir pour vous,  
 Madame ? A quelque affront qu'Elisabeth me livre,  
 Pour un plus grand Sujet puis-je cesser de vivre ?  
@@ -2772,10 +2772,10 @@ Quand de mes tristes jours je fais un sacrifice,
 Me peut faire expier par un trépas si doux  
 Le crime que j'ay fait de soûpirer pour vous.  
 
-    MARIE STUARD
+    MARIE STUARD.
 O Ciel !  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Vous jugez bien qu'il m'eût esté facile  
 De supprimer l'aveu d'une ardeur inutile,  
 Si je n'eusse esperé que d'un crime si grand  
@@ -2789,7 +2789,7 @@ Cet amour malheureux, ce crime involontaire ;
 Et j'attens par respect à vous le faire voir  
 Qu'un trépas asseuré m'interdise l'espoir.  
 
-    MARIE STUARD
+    MARIE STUARD.
 A quelque ignominie où l'on m'ait condamnée  
 Je n'ay point oublié de quel sang je suis née :  
 Pour en trouver la source en mes premiers Ayeux  
@@ -2821,7 +2821,7 @@ L'amour auprés d'un Juge est un grand interest.
 Que ne chassiez-vous, Duc, cet amour de vostre ame ?  
 Que ne bannissiez-vous...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Et l'ay-je pû, Madame ?  
 Si les hautes vertus ont droit de tout charmer  
 Estoit-il à mon choix de ne pas vous aimer ?  
@@ -2852,17 +2852,17 @@ L'amour le plus puissant qu'on ait jamais senty.
 Tout pur qu'est cet amour mes desirs ne prétendent...   
 
 
-### SCENE V
+### SCENE V.
 Killegre, Marie Stuard, le Duc de Norfolc.
 
 
-    KILLEGRE
+    KILLEGRE.
 Les Pairs sont assemblez, Seigneur, & vous attendent.  
 On me vient d'ordonner [197] dans le même moment  
 De vous faire rentrer dans vostre Appartement,  
 Madame.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Adieu, Madame. Une autre destinée  
 Termine de vos jours la course infortunée.  
 Quels que soient les tourmens qui me sont preparez  
@@ -2880,35 +2880,35 @@ De vos jours precieux épargnera le reste.
 Puisse le juste Ciel en finissant les miens  
 Vous affranchir de maux & vous combler de biens.  
 
-    MARIE STUARD
+    MARIE STUARD.
 Puisse du juste Ciel la sagesse profonde  
 Qui vous oste avant moy des miseres du monde ,  
 Pour remplir mon attente, & mes voeux les plus doux,  
 M'appeller [198] à la mort un moment aprés vous.  < Fin du troisième Acte. > 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 Le Duc de Norfolc, le Comte de Neucastel, gardes.
 
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Oüy, Seigneur, je vous plains, une cheute si prompte...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 D'un homme tel que toy la pitié me fait honte.  
 Retire-toy.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
         La Reine attend l'Ordre sacré [199]  
 Dont sa main autrefois vous avoit honoré.  
 Cette pompeuse Marque, en ce lieu si cherie,  
 Sous le fer d'un Bourreau luy sembleroit flétrie.  
 Elle m'envoye exprés pour vous la demander.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Mon sort est d'obeïr, le sien de commander.  
 Pour en faire un present que l'avenir abhorre,  
 De cette illustre Marque il faut qu'elle t'honore :  
@@ -2935,15 +2935,15 @@ Pouvoir quelques momens refléchir sur moy-même.
 Dans un lieu plus tranquile accompagnez mes pas.  
 Sa presence est pour moy pire que le trépas.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 O Ciel ! à quelle honte aujourd'huy je m'expose !   
 
 
-### SCENE II
+### SCENE II.
 Le Comte de Morray, le Comte de Neucastel.
 
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 A prevenir⁎ nos voeux la Reine se dispose.  
 Tantôt dans la chaleur d'un aveugle courroux,  
 Pour condamner le Duc elle a fait choix de nous :  
@@ -2956,7 +2956,7 @@ Si je n'avois eu l'art de seduire le reste ;
 Et de leur arracher leurs suffrages douteux  
 Par de legers bienfaits que j'ay versé sur eux.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Je ne puis plus, Seigneur, faire un pas en arriere  
 Il faut que malgré moy j'acheve ma carriere.  
 Aprés mille bienfaits honteusement déceus⁎,  
@@ -2974,7 +2974,7 @@ A celuy qui la fait, le plaisir de la faire :
 Mais des crimes perdus ne laissent aprés eux  
 A qui les a commis qu'un desespoir affreux.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Quelle indigne pitié vous émeut, vous allarme ?  
 Quoy dés le premier crime un remors vous desarme !  
 Est-ce un prix trop abject pour vous encourager  
@@ -2993,15 +2993,15 @@ Et peut-estre ce jour ne se passera pas
 Sans estre signalé par un double trépas.  
 J'ay déja fait...  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
         Seigneur, je voy venir la Reine.   
 
 
-### SCENE III
+### SCENE III.
 Elisabeth, le Comte de Morray, le Comte de Neucastel, gardes.
 
 
-    ELISABETH
+    ELISABETH.
 Ne vous opposez pas au penchant qui m'entraîne,  
 Comtes. Quelque fierté que m'inspire mon sang  
 Le repos de mon coeur m'est plus cher que mon rang.  
@@ -3009,19 +3009,19 @@ Pour éteindre une ardeur que j'ay laissé trop croître,
 A de nouveaux mépris je veux forcer un Traistre.  
 Faites venir le Duc, Gardes.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Que faites-vous,  
 Madame ?  
 
-    ELISABETH  *aux Gardes.*
+    ELISABETH *aux Gardes.*.
         Obeïssez, ou craignez mon courroux.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Vous fremissez pour luy du sort qui le menace :  
 Et s'il pousse un soûpir il obtiendra sa grace,  
 Madame.  
 
-    ELISABETH
+    ELISABETH.
         S'il l'obtient, vous sçaurez à quel prix,  
 Et peut-estre tous deux en serez-vous surpris.  
 Jamais contre l'ingrat je ne fus plus émeuë.  
@@ -3046,11 +3046,11 @@ Et pour peu qu'il s'échape à braver mon courroux,
 Pour me vanger de luy j'auray besoin de vous.  
 
 
-### SCENE IV
+### SCENE IV.
 Elisabeth, le Duc de Norfolc, le Comte de Morray, le Comte de Neucastel, gardes.
 
 
-    ELISABETH
+    ELISABETH.
 Un reste de bonté dont s'indigne mon ame,  
 Me fait faire des pas⁎ que j'ay peur qu'on ne blâme.  
 Ceux que noircit le crime, & qu'ont proscrit les loix  
@@ -3070,7 +3070,7 @@ Le jour qu'elle respire est un de mes bienfaits.
 J'ay pû [206] deux mois plûtost trancher sa destinée ;  
 Et tu n'ignores pas qu'elle estoit condamnée.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Condamnée ! Eh Madame, ayez soin de⁎ vos droits [207] ;  
 Ce mot injurieux n'est point fait pour les Rois.  
 Dans la gloire suprême où le Ciel les fait naistre,  
@@ -3081,14 +3081,14 @@ Mais fût-elle Sujette, & non Reine absoluë,
 De quels crimes, Madame, est-elle convaincuë ?  
 Pour noircir sa memoire apprenez-les-moy tous.  
 
-    ELISABETH
+    ELISABETH.
 D'avoir fait lâchement massacrer son Epoux.  
 D'avoir dans mes Etats, où tout estoit tranquile,  
 Attenté sur mes jours, violé son azile,  
 Attiré l'Etranger, corrompu mes Sujets.  
 Voila quelle est ma plainte, & quels sont ses forfaits.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 On vous trompe, Madame [209], elle a l'ame trop belle :  
 Son plus austere⁎ Juge est plus coupable qu'elle [210].  
 Vous souffrez, cependant, qu'on l'envoye au trépas  
@@ -3114,10 +3114,10 @@ Et non sur le rapport que vous en fait un Traistre,
 Qui pour essay de crime a conceu sans effroy  
 L'execrable dessein d'assassiner son Roy [213]...  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Imposteur ! Le respect qu'icy vous devez rendre...  
 
-    ELISABETH
+    ELISABETH.
 C'est un desesperé qui ne sçait où se prendre [214].  
 Pour se vanger de vous, qui l'avez condamné,  
 Il voudroit avec luy vous avoir entraîné.  
@@ -3126,7 +3126,7 @@ Il s'attache en coupable à tout ce qu'il rencontre ;
 Et loin que le Perfide implore ma pitié  
 Il croit par un mensonge estre justifié.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Et de quelle pitié vous croiray-je capable  
 En faveur d'un Sujet que vous trouvez coupable,  
 Si d'une Reine auguste, à qui le sang vous joint [215],  
@@ -3151,7 +3151,7 @@ Méprisez les conseils de ces petites Ames
 Que le courroux du Ciel a voulu rendre Infames :  
 Le soin de s'aggrandir⁎ par d'injustes moyens...  
 
-    ELISABETH
+    ELISABETH.
 Je les veux suivre, Traistre, & mépriser les tiens [217].  
 Si [218] je prends leur conseil, j'en connois la justice.  
 Ils m'animent⁎ tous deux à haster ton supplice :  
@@ -3174,7 +3174,7 @@ Tu degenererois [219] en manquant à les suivre ;
 Et le remors vangeur qui suit la trahison  
 Fut toûjours insensible à ceux de ta Maison.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
 Madame, je ne puis, à ce torrent d'injures [220],  
 De mon coeur qu'on déchire étouffer les murmures :  
 Tant que vostre courroux m'a pris seul pour objet  
@@ -3195,7 +3195,7 @@ Qui voudroit d'aussi prés examiner les choses
 Trouveroit des Proscrits pour de plus justes causes.  
 Vous m'entendez [222].  
 
-    ELISABETH
+    ELISABETH.
         Oüy, Traistre : Et tu ne peux jamais  
 Faire aller plus avant ma haine & tes forfaits.  
 Je ne sçay rien en moy susceptible d'outrage  
@@ -3213,16 +3213,16 @@ Par un effort pareil merite mes bienfaits.
 Prest à voir par ta mort ma vengeance assouvie,  
 Veux-tu ta grace ? [224]  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
     O Ciel !  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Je ne hais point la vie.  
 Si vous me la laissez il me sera bien doux  
 De pouvoir de nouveau la prodiguer pour vous.  
 D'un fidele Sujet l'infatigable zele...  
 
-    ELISABETH
+    ELISABETH.
 Et qui me répondra que tu me sois fidelle ?  
 Pour me justifier que ton zele soit gran  
 Une foy violée est un mauvais garent.  
@@ -3230,7 +3230,7 @@ C'est par un grand effort qu'un grand crime s'efface ;
 Et j'en veux un de toy qui merite ta grace ;  
 Je ne te la promets qu'à ce prix.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Commandez.  
 Je puis faire encor plus que vous ne demandez.  
 Rien ne m'est impossible, où je voy de la gloire.  
@@ -3238,7 +3238,7 @@ Rien ne m'est impossible, où je voy de la gloire.
 Que vous me commandiez pour éprouver ma foy  
 Rien d'indigne de vous, ny d'indigne de moy.) [225]  
 
-    ELISABETH 
+    ELISABETH. 
 Les Pairs, dont l'Equité s'est acquis tant d'estime,  
 Eux, qui dans aucun rang n'autorisent le crime,  
 Pour rendre à l'Angleterre un plus tranquile sort  
@@ -3250,16 +3250,16 @@ Tu ne signes [226] comme eux l'Arrest de son trépas.
 Un refus échapé⁎ rend ta perte certaine.  
 Reponds, sans balancer.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC.
         Gardes, qu'on me rameine.  
 C'est ma réponse.  
 
 
-### SCENE V
+### SCENE V.
 Elisabeth, le Comte de Morray, le Comte de Neucastel, suite.
 
 
-    ELISABETH
+    ELISABETH.
         Ah Ciel ! l'Ingrat n'hesite pas !  
 Ma Rivale à la mort va devancer tes pas,  
 Traistre. Dés ce moment pour contenter ma haine [227]  
@@ -3272,11 +3272,11 @@ Comte de Neucastel, ne me revoyez pas
 Que vous n'ayez esté témoin de son trépas.   
 
 
-### SCENE VI
+### SCENE VI.
 Le Comte de Morray, le Comte de Neucastel.
 
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Ses ordres sont précis pour perdre sa Rivale,  
 Mais sa haine pour l'autre en paroles s'exhale :  
 Elle veut faire grace à l'objet de ses feux ;  
@@ -3286,7 +3286,7 @@ Sa Maistresse en mourrant fera mourir sa flâme ;
 Et l'ayant condamné, s'il échappe au trépas  
 A son ressentiment nous n'échapperons pas.  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Ainsi, Seigneur, ainsi pour toute recompense  
 Nous aurons la douleur d'opprimer l'Innocence.  
 Ne vaudroit-il pas mieux faire un plus noble effort,  
@@ -3295,7 +3295,7 @@ Le Duc avec plaisir épouseroit la Reine
 S'il voyoit vostre Sœur à couvert de sa haine :  
 Et dans leurs interests les nostres confondus…  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Ah ! perdons-les, vous dis-je, ou nous sommes perdus.  
 Aprés de tels affronts, quelque effort qu'on se fasse,  
 Il en reste une horreur qui jamais ne s'efface :  
@@ -3311,14 +3311,14 @@ Et dût-elle sur moy le vanger aujourd'huy,
 Je mourray sans regret si je meurs aprés luy [230].  < Fin du quatrieme Acte. > 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 Marie Stuard, Killegre, Melvin, Kenede, Albione, gardes.
 
 
-    MARIE STUARD  *à Killegre.*
+    MARIE STUARD *à Killegre.*.
 Quand il faudra partir je n'ay rien qui m'arreste.  
 Allez dire à vos Pairs que leur Victime est preste ,  
 Et qu'à leur premier ordre ils seront obeïs ;  
@@ -3329,10 +3329,10 @@ Killegre sort.
 
 Le Comte de Morray viendra-t-il ?  
 
-    MELVIN
+    MELVIN.
         Oüy, Madame.  
 
-    MARIE STUARD
+    MARIE STUARD.
 Vostre zele, Melvin, est gravé dans mon ame.  
 Vous avez de mon sort partagé le courroux,  
 Et je vais au trépas sans rien faire pour vous.  
@@ -3351,7 +3351,7 @@ Faut-il verser des pleurs quand un port m'est offert ?
 Si vous aimez ma gloire épargnez ma foiblesse,  
 Et ne m'accablez point à force de tendresse.  
 
-    MELVIN
+    MELVIN.
 Madame, vos bontez, mon devoir, vostre rang,  
 Ne demandent icy que des larmes de sang.  
 Plût au Ciel que le mien, plus ardent que tout autre,  
@@ -3359,15 +3359,15 @@ A vos Persecuteurs pût arracher le vostre !
 Que vostre injuste mort nous va coûter de pleurs !  
 Et qu'un jour…  
 
-    MARIE STUARD
+    MARIE STUARD.
         Quelqu'un vient. Contraignez vos douleurs.  
 
 
-### SCENE II
+### SCENE II.
 Marie Stuard, le Comte de Morray, Melvin, Kenede, Albione.
 
 
-    MARIE STUARD
+    MARIE STUARD.
 Approche, ingrat Sujet, dont la haine m'accable,  
 Viens me dire du moins dequoy je suis coupable.  
 Apprens-moy quel outrage & quels maux je t'ay faits.  
@@ -3390,7 +3390,7 @@ Et par des trahisons, conduites avec art,
 J'expire pour un crime où je n'ay point de part.  
 Tu sçais, toy qui l'as fait, que j'en suis innocente.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Un Trône prest à choir n'offre rien qui me tente.  
 Du Ciel qui le foudroye appuyant le courroux  
 C'est son interest seul que je prends contre vous.  
@@ -3399,7 +3399,7 @@ Les liens les plus doux n'ont rien que je consulte :
 Et ce que vostre haine appelle ambition  
 Est un zele épuré pour la Religion.  
 
-    MARIE STUARD
+    MARIE STUARD.
 Si ta Religion t'acquiert le privilege  
 D'estre envers une Sœur perfide & sacrilege,  
 La mienne, si contraire à celle où tu t'es mis,  
@@ -3417,9 +3417,9 @@ J'en vais faire pour vous qui me persecutez.
 Adieu.  
 
 
-### SCENE III
+### SCENE III.
 
-    LE COMTE DE MORRAY* seul.*
+    LE COMTE DE MORRAY* seul.*.
         Je sens mon cœur qui s'émeut, qui chancelle :  
 La voix de la nature au repentir m'appelle.  
 Silence, indigne voix, qui me veux attendrir :  
@@ -3430,11 +3430,11 @@ Et preferer toûjours, sans en estre confus,
 Les utiles forfaits aux ingrates vertus.  
 
 
-### SCENE IV
+### SCENE IV.
 Elisabeth, le Comte de Morray, Lancastre, gardes.
 
 
-    ELISABETH
+    ELISABETH.
 Comte, j'allois vous voir. Malgré toute ma haine  
 Je ne puis resister au remors qui me gêne⁎.  
 En vain ma politique en veut rompre le cours :  
@@ -3445,14 +3445,14 @@ De qui la Majesté, violée à mes yeux,
 Rendroit mon Nom infame, & mon Regne odieux.  
 Quoy qu'ait fait vostre Sœur je luy donne sa grace.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 La clemence sied bien à qui tient vostre place.  
 Cette grande vertu, la plus digne des Rois,  
 Est le plus glorieux, le plus saint de leurs droits.  
 Mais je doute, Madame, & ne puis vous le taire,  
 Qu'on approuve jamais ce que vous allez faire.  
 
-    ELISABETH
+    ELISABETH.
 Et peut-on approuver l'implacable fureur  
 Qui vous fait avec joye immoler vostre Sœur ?  
 Est-ce l'injuste espoir de regner aprés elle  
@@ -3460,7 +3460,7 @@ Qui vous rend Frere ingrat, & Sujet infidele ?
 Quand j'impose silence à mon juste courroux  
 Si je suis à blâmer, devroit-ce estre par vous ? [235]  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Pour peu qu'à mon devoir je demeure fidele  
 Quels sacrileges vœux puis-je faire pour elle ?  
 C'est ma Sœur, il est vray ; mais perisse ma Sœur  
@@ -3487,7 +3487,7 @@ Mais si de ses desseins elle venoit à bout
 Le carnage & l'horreur triompheroient par tout.  
 Je prevoy des malheurs qui seroient sans limites.  
 
-    ELISABETH
+    ELISABETH.
 Comte, je me suis dit tout ce que vous me dites.  
 Si ma main secourable ose briser ses fers  
 Sa haine pour me perdre armera l'Univers :  
@@ -3496,7 +3496,7 @@ Tous les Rois offencez m'accableront eux-mêmes ;
 Et pour le bien commun oubliant leurs debats⁎  
 Viendront d'intelligence envahir mes Etats.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Ma crainte sur ce point égaleroit la vostre,  
 Si les Princes voisins se fioient l'un à l'autre.  
 Un Roy qui s'affoiblit offre une occasion  
@@ -3511,24 +3511,24 @@ Ma Sœur touche à son terme, & dans quelques instans
 On voudroit la sauver qu'il ne seroit plus temps.  
 Suivez vostre panchant sans aucune contrainte.  
 
-    ELISABETH
+    ELISABETH.
 Vos dernieres raisons ont dissipé ma crainte.  
 Qu'elle meure. Et pouquoy me ferois-je un effort  
 Pour conserver la vie à qui cherche ma mort ?  
 Qu'elle meure. Le Duc, qui me fut si fidele,  
 Si je luy rends le jour me rendra tout son zele.  
 
-    LE COMTE DE MORAY
+    LE COMTE DE MORAY.
 Le Duc, Madame ? O Ciel !  
 
-    ELISABETH
+    ELISABETH.
         Tout coupable qu'il est,  
 Il est assez puny de sçavoir son Arrest :  
 Et s'il faut m'expliquer, quoy qu'ait fait son audace,  
 Ce qu'a fait sa valeur sollicite sa grace.  
 Un pardon genereux me l'acquiert pour jamais [238].  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Madame, croyez-moy, placez mieux vos bienfaits.  
 Plus fidele que luy, s'il faut prendre les armes,  
 Je mettray vostre Trône à l'abry des allarmes.  
@@ -3537,7 +3537,7 @@ Ingrat à vostre amour vous a manqué de foy.
 Que tout autre que luy vous eût montré de zele !  
 Aimé comme il l'estoit, que j'eusse esté fidele !  
 
-    ELISABETH
+    ELISABETH.
 Insolent ! Vous sçauriez jusqu'où va mon courroux  
 Si je pouvois sans honte éclater contre vous.  
 Si je laisse impuni l'affront que vous me faites,  
@@ -3549,19 +3549,19 @@ D'un Criminel si cher allez rompre les chaines :
 Je luy cause des maux où je prends trop de part.  
 Portez-luy le pardon…  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
         Madame, il est trop tard.  
 Il est mort.  
 
-    ELISABETH
+    ELISABETH.
         Il est mort ! Ah, perfide, qu'entens-je !  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 Un si juste trépas le punit & vous vange.  
 Coupable envers l'Etat si lâchement trahy,  
 Condamné par les Pairs, hay de vous…  
 
-    ELISABETH
+    ELISABETH.
         Hay !  
 Ah Traistre ! Dans mon cœur tu sçais ce qui se passe.  
 A la Reine d'Ecosse allez porter sa grace,  
@@ -3570,11 +3570,11 @@ M'a peut-estre engagée à servir sa fureur.
 Qu'on la ramene. Et toy je veux que tu perisses.  
 
 
-### SCENE V
+### SCENE V.
 Le Comte de Neucastel, Elisabeth, le Comte de Morray, Lancastre, gardes.
 
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Madame, à mes forfaits preparez des supplices.  
 Interdit, penetré d'une juste douleur,  
 Je ne parois icy que pour vous faire horreur.  
@@ -3585,10 +3585,10 @@ L'exemple que je dois auroit esté perdu ;
 Et pour voir avec fruit ma trahison punie,  
 Il faut que je perisse avec ignominie.  
 
-    ELISABETH
+    ELISABETH.
 Quel sujet vous anime à tenir ce discours ?  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 D'une Reine innocente on a tranché les jours.  
 Par les crimes d'autruy la vertu malheureuse  
 A de toutes les morts souffert la plus affreuse.  
@@ -3601,10 +3601,10 @@ Ma main à m'en punir ne balanceroit pas :
 Jugez, par cette loy que l'équité m'impose,  
 Ce que je dois souffrir puis que j'en suis la cause.  
 
-    ELISABETH
+    ELISABETH.
 Vous, ô Ciel !  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
         Moy, Madame. Un aveu si honteux  
 Vous anime à ma perte ; & c'est ce que je veux.  
 J'offre à vostre justice une digne matiere.  
@@ -3622,18 +3622,18 @@ A par une autre voye assassiné sa Sœur ;
 Et si l'on ne previent sa detestable envie  
 Leur Fils en son pouvoir doit trembler pour sa vie.  
 
-    ELISABETH
+    ELISABETH.
 Hola, Gardes.  
 
-    EURIC
+    EURIC.
     Madame.  
 
-    ELISABETH  *en montrant le Comte de Morray.*
+    ELISABETH *en montrant le Comte de Morray.*.
         Asseurez-vous de luy.  
 Traistre, qui de mon Trône as fait tomber l'appuy,  
 Ton sang, pour le vanger, répandu goute à goute…  
 
-    LE COMTE DE NEUCASTEL
+    LE COMTE DE NEUCASTEL.
 Pour commencer sa peine ordonnez qu'il m'écoute.  
 La douloureuse mort de son auguste Sœur,  
 Tout barbare qu'il est, va luy percer le cœur.  
@@ -3721,21 +3721,21 @@ Je l'attends.
 Il sort.
 
 
-    ELISABETH
+    ELISABETH.
         Qu'on le suive, & que l'on m'en réponde.   
 
 
-### SCENE VI
+### SCENE VI.
 Elisabeth, le Comte de Morray, Lancastre, gardes.
 
 
-    ELISABETH
+    ELISABETH.
 He bien, sens-tu, méchant, que ton cœur te confonde ?  
 Te sens-tu dans le crime assez bien affermy,  
 Monstre, que dans ces lieux les Enfers ont vomy ?  
 De tes lâches projets la fortune se jouë.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 On ne vous a rien dit que mon cœur desavouë.  
 A qui veut que le crime éternise ses ans  
 Les forfaits les plus noirs sont les plus éclatans.  
@@ -3764,23 +3764,23 @@ Voila sans balancer le party qu'on doit prendre.
 Il s'enfonce un poignard dans le sein.
 
 
-    ELISABETH
+    ELISABETH.
 Faites tous vos efforts pour tromper⁎ ses projets.  
 Il est trop peu puny pour de si grands forfaits.  
 Il merite, le Traistre, une plus longue peine.  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY.
 L'endroit où j'ay frappé rend vostre attente vaine :  
 Et j'ay la gloire, au moins dans un sort si fatal,  
 De mourir autrement que n'est mort mon Rival.  
 J'expire.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 Elisabeth, Lancastre.
 
 
-    ELISABETH
+    ELISABETH.
         Juste Ciel ! quelle suite de crimes !  
 Que la haine & l'amour ont d'injustes maximes⁎ !  
 Et qu'un cœur déreglé, qui suit leurs mouvemens  
@@ -3791,14 +3791,14 @@ Ne me reprochez point vostre injuste trépas :
 Vous goûtez un repos dont je ne joüis pas.  < FIN >
 
 
-# Glossaire
+# Glossaire.
 
 Les nombres entre parenthèses qui font suite aux définitions réfèrent aux occurrences du terme défini.
 
 Les dictionnaires et ouvrages utilisés ont été signalés dans la bibliographie.Agrandir (s')« Signifie particulièrement Augmenter sa terre, son domaine, sa maison ». Académie.V. 164, 1221Il s'agit dans la pièce de « Hausser son rang, monter dans la hiérarchie sociale ».Animer« Signifie aussi, Exiter à la colère, à la vengeance, au combat, à des entreprises ». A. Furetière.V. 1224Appareil« Ce qu'on prepare pour faire une chose plus ou moins solennelle. … on travaille à l'*appareil* des ceremonies de son Sacre (au roi) ». A. Furetière.V. 1567Ascendant« Se dit en Morale de l'inclination naturelle qui nous porte à faire quelque chose. On a de la peine à vaincre son *ascendant* ». A. Furetière.V. 1562Aspect« Se dit aussi de la qualité de la chose qui regarde, ou qui est regardée. À l'*aspect* du supplice la constance s'évanouit. » A. Furetière.V. 788Austère« Signifie aussi, Rude, severe, qui ne pardonne rien. Un Juge *austere* est moins corrompu qu'un autre. » A. Furetière.V. 1168Brigue« Se dit aussi de la cabale qui est interessée à soûtenir plustost un parti que l'autre dans une élection. » A. Furetière.V. 1403Climat« Le vulgaire appelle *climat*, une terre différente de l'autre soit par le changement des saisons, ou des qualités de la terre, ou même des peuples qui y habitent, sans aucune relation aux plus grands jours d'esté. » A. Furetière. V. 190Concert (de)« Signifie figurement, l'accord de plusieurs personnes en l'exécution de quelque dessein. Agir *de concert*. » A. Furetière.V. 397Concerter« Decision commune, après concertation. » A. Furetière.V. 13Consommé, ée« Qui atteint presque la perfection. Il se dit particulièrement de Celui qui est parvenu à un très haut degré d'expérience dans un art, dans une science. » Académie.V. 438Convaincre« Persuader quelqu'un par raisons évidentes & démonstratives ….Ce criminel a été atteint & *convaincu* des cas à luy imposez. » A. Furetière.V. 666Combat« Se dit figurément des choses spirituelles & morales. Le *combat* spirituel. … le *combat* de l'amour & de l'amitié, de l'honneur & de l'amour. C'est un *combat* perpétuel que celuy des sens contre la raison. » A. Furetière.V. 25Debat« Par extension, contestation, altercation. » Académie. Nous dirions « querelle ».V. 1465Deceu, euë« Trompé. » A. Furetière. *decevoir* : « Tromper quelqu'un dans son attente, son espérance. » Académie.V. 1073Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute. (…) En Morale on dit, qu'il faut (…) venir au dernier *degré* de perfection, au plus haut *degré* d'honneur, de gloire, de vertu.» A. Furetière.V. 57Déguiser« Se dit figurément en choses spirituelles. Les Princes ont ce malheur, qu'on leur *déguise* toûjours la vérité. Un Advocat *déguise* souvent les faits. » A. Furetière.V. 1248Désiller« Ouvrir les yeux. » A. Furetière.V. 987L'étymologie est intéressante :* déciller* ou *dessiller*, *Modus*, « découdre les paupières »Destin« Le cours de la vie humaine, considéré comme relevant de la fatalité. Un heureux *destin*. Un *destin* funeste, tragique. Accomplir son *destin.* » Académie.V. 1562Disgrâce« Signifie aussi, malheur, accident. » Académie.V. 619Douteux« Incertain. » A. Furetière. V. 157Échapper« V.tr.intr.et pron. II.3.: En parlant de gestes, de paroles, de manifestations de la sensibilité. Etre accompli, produit, par un mouvement involontaire, par mégarde ou imprudemment. » Académie. Le mot ne prend qu'un « p » dans le texte de Boursault tout comme dans le *Dictionnaire de Furetière*, mais il en prend deux dans celui de l'*Académie*.V. 1299EffetA. Furetière : « Ce qui se produit, ce qui resulte de l'operation de causes agissantes. Les causes se font connoistre par les effets. » Nous traduirions par « conséquence ».V. 739« EFFET signifie aussi, Pratique, execution. » Nous traduirions par « actes ».V. 1381Éprouver« Signifie aussi, tant au sens physique qu'au sens moral, Ressentir, connaître par expérience. » Académie.V. 419Erreur« Prise absolument, s'entend de l'erreur de la foy, de l'heresie. L'*erreur* de Calvin, l'*erreur* de Luther, c'est leur secte, leur Heresie. » A. Furetière.V. 1438, 1446Étonner« Surprendre par quelque chose d'extraordinaire, d'inattendu. » Académie.V. 286Évenement« Issuë, succès bon ou mauvais de quelque chose. » A. Furetière.V. 157Essay« Action par laquelle on taste, on examine une chose, pour en connoistre la qualité. Les Médecins font l'*essay* des drogues pour connoistre leur nature, si elles sont chaudes ou froides, douces ou acides. » A. Furetière.V. 35Expliquer« V.act. Donner l'intelligence de sa pensée. … On dit souvent dans le discours ordinaire, Je ne sçay si je m'*explique*. » A. Furetière.V. 1587Exprès, esse« Adj. Qui est précis, en termes formels, pour une cause ou un dessein particulier. Je luy ay dit cela en termes *exprès*. Je luy ay donné une commission *expresse*. » A. Furetière.V. 2Foy« Signifie encore, Serment, parole qu'on donne de faire quelque chose, & qu'on promet d'executer. » A. Furetière.V. 23, 163Gesner« Donner la gesne, la question ; *gesne* : Question, torture. » A. Furetière. Traduire gesner par torturer.V. 555, 579, 1416Honte« Signifie encore humiliation, déshonneur. Essuyer la *honte* d'un refus, d'une disgrâce. » Académie.V. 500Indice« Signe apparent et probable qu'une chose est, existe. » Académie.V. 972Intelligence (d')« Signifie également Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre. Etre *d'intelligence* avec quelqu'un. » Académie.V. 110, 313Lâche« Qui manque de courage ». « Se dit des actions indignes d'un homme d'honneur. » Académie.V. 496Malheureux« Ce qui cause le malheur, ou qu'on croit le causer. » A. Furetière.V. 45Mander« Convoquer, enjoindre de venir à soy. » A. Furetière.V. 5Manie« Se dit aussi de l'emportement & desreglement de l'esprit. Il ne fait pas bon auprès de cet homme-là, quand il est dans sa *manie*. » A. Furetière.V. 263Maxime« Proposition générale qui sert de principe, de fondement, de règle (…) » Académie.V. 1676Méditer« Signifie quelquefois, Avoir envie, un dessein de faire quelque chose. » A. Furetière.V. 120Mouvement« Se dit figurement en choses morales & spirituelles. Toutes les passions exitent des mouvements dans nostre ame : les uns sont loüables (pitie, honte, tendresse), les autres odieux (colere, haine, vengeance). » A. Furetière.V. 107Murmure« Plainte secrette de plusieurs personnes, sur quelque tort qu'on leur fait, ou de quelque scandale. » A. Furetière.  Protestation.V. 732Occurrence« Il est de la prudence de changer d'avis selon les diverses *occurrences.* » A. Furetière. V. 101Ouvrage« Le Ciel & la Terre sont des ouvrages d'une sagesse, d'une puissance infinie. Le firmament nous annonce les ouvrages de Dieu. » A. Furetière.V. 89Pas« Se dit des démarches que l'on fait pour quelque affaire. » Académie.V. 1136Persuader« Amener quelqu'un à croire ou à vouloir quelque chose. Un homme très bien *persuadé* (…) des vérités de sa religion. » Académie.V. 384Porter« Signifie encore, Proteger, favoriser. » A. FuretièreV. 18Prevenir« Remedier aux maux qu'on a preveus, les empêcher, s'en garentir. » A. Furetière.V. 86, 1060Profusion« Prodigalité, dépense, liberté excessive. Il se dit peu souvent en bonne part, si ce n'est des Puissances qui peuvent donner sans s'incommoder ; & c'est alors magnificence. » A. Furetière.V. 581Querelle« Se dit aussi de l'interest d'autruy, quand on en prend la deffense. Les amis soutiennent par tout la querelle de leurs amis. » A. Furetière.  Comprendre « Cause ».V. 1212Raison« Signifie aussi, Argumentation, preuves. » Nous traduirions « raisons » par « arguments ». A. Furetière.V. 24, 173Représenter« Signifie aussi Remonstrer, tâcher à persuader. Un accusé représente au Juge son innocence. » A. Furetière.V. 1218Revolter« Se dit figurément en Morale. Les passions révoltent les sens, les empêchent d'obéir à la raison. » A. Furetière.V. 29Soin« Se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l'ame. » A. FuretièreV. 539Avoir soin de« Se dit des liberalitez qu'on fait à quelqu'un pour le faire subsister. » A. Furetière.V. 1153Sort« Se dit poëtiquement de la vie & de la fortune des hommes. Dieu est l'arbitre du *sort* des humains. Un amant dit à celle qu'il adore qu'elle est maistresse de son *sort* ; qu'elle est cause de son triste *sort*. » A. Furetière.V. 889Surprendre« Signifie aussi Tromper quelqu'un, luy faire faire une chose trop à la haste, ou en luy exposant faux. » A. Furetière.V. 387Tromper« Signifie figurément Décevoir, faire ou dire quelque chose de contraire à l'attente de quelqu'un. » Académie. Comprendre « empêcher de mener à bien, contrecarrer ».V. 1669Zele« Ardeur, passion qu'on a pour quelque chose. » A. Furetière.V. 23, 49
 
 
-# Annexe 1 : quelques rappels sur l'Histoire de France du XVI*e* siècle à 1683
+# Annexe 1 : quelques rappels sur l'Histoire de France du XVI*e* siècle à 1683.
 
 François 1*er* (1515-1547) fait triompher une conception absolutiste de la monarchie. Il étend le domaine royal, centralise et renforce le pouvoir. Il mène aussi une politique d'expansion en Europe, notamment en Italie où il remporte de vifs succès (victoire de Marignan, conquête du Milanais) avant de se trouver en butte à l'ambition de Charles 1*er*, futur Charles Quint. évincé du trône du Saint-Empire au profit de celui-ci, François 1*er* se retrouve dans une position difficile : les possessions de son adversaire encerclent la France, et il revendique la Bourgogne. Au cours des conflits qui s'ensuivent, François 1*er* cherche du soutien à l'extérieur. En juin 1520, après la somptueuse entrevue du camp du Drap d'Or, Henri VIII d'Angleterre lui refuse néanmoins son appui. Roi catholique, François 1*er* avait obtenu de nommer lui-même les évêques dès le début de son règne. Cependant il n'hésite pas à faire alliance avec la ligue luthérienne de Smalkalde en 1531 et en 1535 avec l'empereur turc Soliman. Cette alliance avec les infidèles doit être rompue sous peine de voir son royaume envahi, son prestige atteint. Le roi meurt en 1547 ; l'autorité de ses successeurs sera constamment affaiblie par les querelles religieuses.
 
@@ -3815,10 +3815,10 @@ Louis XIV succède à son père, Louis XIII, en 1643. Son enfance est d'abord ma
 Les questions religieuses constituent sans doute l'aspect le plus négatif du règne de Louis XIV : dans un souci d'unification de la foi du royaume, le roi Très Chrétien mène une lutte acharnée contre les jansénistes (entre 1679 et 1709 éviction des religieuses et destruction de l'abbaye de Port-Royal) et les protestants (en 1685, révocation de l'édit de Nantes)
 
 
-# Annexe 2 : la Réforme en Europe
+# Annexe 2 : la Réforme en Europe.
 
 
-## Origines de la Réforme
+## Origines de la Réforme.
 
 Depuis l'établissement du Saint Empire romain germanique par Otton 1*er* en 962, papes et empereurs se disputent la suprématie en Allemagne : un fort ressentiment contre l'autorité papale s'y installe dès cette époque, renforcée par la levée de l'impôt pontifical.
 
@@ -3827,7 +3827,7 @@ Dès le XIII*e* siècle, l'autorité du pape se voit contestée ailleurs en Euro
 Mais c'est surtout l'essor de l'Humanisme à partir du XV*e* siècle en Italie, qui sera à l'origine de la Réforme. L'intérêt croissant pour l'Antiquité donne lieu à des traductions de la *Bible* dans toutes les langues européennes. Leur diffusion grâce à l'invention de l'imprimerie enlève à l'église son monopole du savoir, permet à de nombreux intellectuels de réfléchir aux écritures et d'en donner leur interprétation propre. Les écrits d'érasme aux Pays-Bas, ou de Thomas More en Angleterre contribuèrent à répandre l'idée de Luther et de Calvin selon laquelle l'autorité religieuse est à chercher dans la *Bible* et non dans l'église.
 
 
-## Histoire de la Réforme en France
+## Histoire de la Réforme en France.
 
 La Réforme fut introduite en France au début du XVI*e* siècle par un groupe d'humanistes dirigés par Lefèvre d'étaples, qui affirmait sa croyance en une foi individuelle. Il traduisit en français le Nouveau Testament, suscitant d'abord la sympathie de l'église et du pouvoir, avant l'arrivée des idées de Luther. Jugés dangereusement proches de celui-ci, Lefèvre d'étaples et ses disciples furent contraints de s'exiler en Suisse. Là, ils inspirèrent fortement la naissance du calvinisme. A partir de 1559, les membres de l'église protestante en France sont appelés huguenots. Leur nombre s'accrut considérablement en dépit de la répression exercée par les monarques successifs, au point de diviser la France en deux camps qui se déchirèrent durant les guerres de religion de 1552 à 1598. Cependant, malgré l'édit de Nantes promulgué en 1598 qui garantissait la liberté de culte, les protestants ne représentaient plus à cette époque que dix pour cent de la population française.
 
@@ -3837,18 +3837,18 @@ La Réforme fut introduite en France au début du XVI*e* siècle par un groupe d
 La population écossaise était déjà hostile à l'Église catholique depuis le XIV*e* siècle : à cette époque, un prêtre, John Wycliffe, avait traduit la *Bible* en Anglais et prêchait dans cette langue une critique virulente de la papauté. Il eut de nombreux adeptes appelés lollards. Une monarchie écossaise catholique et pro romaine réprima durement le mouvement, mais en 1560, John Knox, disciple de Calvin, persuada le parlement écossais de créer l'Église presbytérienne écossaise, de dogme calviniste. C'est en vain que Marie Stuart, reine catholique, s'opposa à une religion qui avait le soutien du peuple et de la noblesse : elle se vit forcée de quitter le pays au bout de sept ans, en 1567.
 
 
-## Histoire de la Réforme en Angleterre
+## Histoire de la Réforme en Angleterre.
 
 Contrairement à se qui s'était passé ailleurs en Europe, la Réforme ne vint pas du peuple mais du gouvernement. En 1553, le roi d'Angleterre Henri VIII épousa Anne Boleyn et fit annuler son premier mariage avec Catherine d'Aragon par l'archevêque de Canterbury. Excommunié par le pape, il fit voter par le parlement une loi faisant désormais du roi d'Angleterre le chef suprême de l'église anglicane (1534). Puis entre 1535 et 1539, les biens du clergé furent saisis. Cependant ce changement était avant tout politique puisque la doctrine restait celle de l'église catholique et que le statut des Six Articles, promulgués en 1539, condamnait toujours à mort les luthériens. édouard VI introduisit, de concert avec le parlement, les doctrines et pratiques protestantes dans l'église anglicane et abrogea, en 1547, le statut des Six Articles. En 1549, un livre de prière officiel et obligatoire fut publié afin d'uniformiser les rituels. La demi-sœur d'édouard VI, Marie Tudor, essaya en vain de rétablir le catholicisme. En 1563, Elisabeth 1*re* fixa la religion anglicane : si le credo était proche du luthéranisme, le rituel et l'organisation épiscopale différaient peu de ceux de l'église catholique.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Recueils et tragédies de Boursault par ordre chronologiquePièces de théâtre de Monsieur BoursaultLettre d'un théologien illustre consulté par l'auteur pour sçavoir si la comédie peut estre permise, on doit estre absoluement deffenduëGermanicusMarie Stuard PhaétonMéléagreLa Feste de la Seine
+### Recueils et tragédies de Boursault par ordre chronologique.Pièces de théâtre de Monsieur BoursaultLettre d'un théologien illustre consulté par l'auteur pour sçavoir si la comédie peut estre permise, on doit estre absoluement deffenduëGermanicusMarie Stuard PhaétonMéléagreLa Feste de la Seine
 Pièces de théâtre de Mr BoursaultLettre d'un théologien illustre consulté par l'auteur pour sçavoir si la comédie peut estre permise, on doit estre absoluement deffenduëGermanicusMarie StuardLa Comédie sans titrePhaëtonMéléagreLa Feste de la Seine
 Pièces de théâtre de MrPièces de théâtre de Monsieur BoursaultMéléagreLa Feste de la Seine
 , Œuvres de Mr Boursault contenant les pièces de théâtreLettre d'un théologien illustre...GermanicusMarie Stuard*ibid.,*La Comédie sans titre*ibid.,*Phaéton*ibid.,*MéléagreFeste de Seine*ibid.,*Esope à la cour*ibid.,*Les Fables d'Esope ou Esope en Ville*ibid.,*Le Jaloux Prisonnier*ibid.,*La Satyre des Satyres*ibid.,*Catalogue des livres françois & latins qui se trouvent à Amsterdam chez Duvillard & Changuion, libraires dans le Kalversstraat.
@@ -3861,7 +3861,7 @@ Chefs d'œuvres de BoursaultLe Mercure galantLa Comédie sans TitreLes Fables d'
 
 
 
-### Autres œuvres de Boursault (par ordre chronologique) La Métamorphose des yeux de Philis changez en astres
+### Autres œuvres de Boursault (par ordre chronologique). La Métamorphose des yeux de Philis changez en astres
 Lettres à Babet accompagnées d'une notice de M. Emile Colombey
 Les Litanies de la Sainte Vierge
  Le Mort vivant
@@ -3878,7 +3878,7 @@ Le Mercure galantLa Comédie sans titre
 
 
 
-### Autres sourcesPoétique
+### Autres sources.Poétique
 La Pratique du théâtre
 Le Comte d'Essex
 Artaxerce
@@ -3915,10 +3915,10 @@ La Mort de Sénèque
 
 
 
-## Études sur Boursault
+## Études sur Boursault.
 
 
-### Critiques, études, notices et préfaces sur l'auteur (ordre chronologique)Epître & Avertissement sur la vie & l'œuvre de son oncle Edme BoursaultAvertissementLettre d'un homme d'érudition & de mérite consulté par l'auteur pour sçavoir si la comédie peut être permise ou doit être absolument défendue
+### Critiques, études, notices et préfaces sur l'auteur (ordre chronologique).Epître & Avertissement sur la vie & l'œuvre de son oncle Edme BoursaultAvertissementLettre d'un homme d'érudition & de mérite consulté par l'auteur pour sçavoir si la comédie peut être permise ou doit être absolument défendue
 Revue des Deux Mondes
  Le Portrait du Peintre ou la contre critique de l'Escole des femmes
  Théâtre choisiÉsope à la ville ; Ésope à la cour ; Le Mercure galant ; Phaéton ; Les Mots à la mode ; La Satire des satires ; Le Jaloux prisonnier
@@ -3927,7 +3927,7 @@ Mots à la modeTartuffe Études littéraires & morales sur le XVII*e*S
 
 
 
-### Travaux récentsLa Grande Bretagne devant l'opinion française au XVII*e* siècle
+### Travaux récents.La Grande Bretagne devant l'opinion française au XVII*e* siècle
 Recueil des publications de la société havraise
 La politique-spectacle au grand siècle : les rapports franco-anglais
 Terres tragiques. L'Angleterre et l'Ecosse dans la tragédie française du XVII*e* siècle
@@ -3938,10 +3938,10 @@ La Querelle de « L'Ecole des femmes »
 
 
 
-## Ouvrages critiques
+## Ouvrages critiques.
 
 
-### Approches généralesLire la tragédie
+### Approches générales.Lire la tragédie
 Méthodes du texte
 Introduction à l'analyse des textes classiques
 A History of French Dramatic Literature in the Seventeenth Century
@@ -3951,7 +3951,7 @@ Les Termes clés de l'analyse du théâtre
 
 
 
-### Approches historiquesHistoire de la littérature française du XVII*e* siècle
+### Approches historiques.Histoire de la littérature française du XVII*e* siècle
 Morales du grand siècle
 Le Théâtre du Marais
 L'Histoire de la mise en scène dans le théâtre français à Paris 1600-1673
@@ -3965,7 +3965,7 @@ Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-### Approches « génériques »La Tragédie de l'âge classique (1553-1770)
+### Approches « génériques ».La Tragédie de l'âge classique (1553-1770)
 Passions tragiques et règles classiques. Essai sur la tragédie française
 Poétique de la tragédie
 Kingtom of Disorder. The Theory of Tragedy in Classical France
@@ -3974,7 +3974,7 @@ La Tragédie classique
 
 
 
-### Approches poétiques, rhétoriques, et stylistiquesLa Formation de la doctrine classique en France
+### Approches poétiques, rhétoriques, et stylistiques.La Formation de la doctrine classique en France
 Théorie du vers
 Introduction à l'architexte
 Rhétorique et littérature
@@ -3986,7 +3986,7 @@ Naissance de l'écrivain
 
 
 
-## Ouvrages portant sur l'Histoire des XVI*e* et XVII*e* siecles (surtout en Angleterre)Mary Queen of Scots in the nineteenth & twentieth century drama : poetic license with history
+## Ouvrages portant sur l'Histoire des XVI*e* et XVII*e* siecles (surtout en Angleterre).Mary Queen of Scots in the nineteenth & twentieth century drama : poetic license with history
 Marie Stuart Reine d'Angleterre, d'Irlande et d'Écosse, 1662-1694
  Histoire des femmes en Occident*e**e*
 Marie Stuart, la femme et le mythe
@@ -4001,23 +4001,23 @@ Royaume de fémynie, pouvoirs contraintes, espaces de liberté des femmes, de la
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise…avec les termes les plus connus des arts et des sciences
 
 
 
-### Langue du XVII*e* siècleLe Français classique. Lexique de la langue du XVII*e* siècle
+### Langue du XVII*e* siècle.Le Français classique. Lexique de la langue du XVII*e* siècle
 Syntaxe française du XVII*e* siècle
 Introduction à la langue française du XVII*e* siècle
 Grammaire de la langue française du XVII*e* siècle
 
 
 
-### Bibliographies. (en consultation libre à l'Arsenal)Bibliographie de la littérature française du XVII*e* siècle
+### Bibliographies. (en consultation libre à l'Arsenal).Bibliographie de la littérature française du XVII*e* siècle
 Prélude au siècle des Lumières en France
 Bibliographie der französischen Literaturwissenschaft
 Dictionnaire critique de biographie

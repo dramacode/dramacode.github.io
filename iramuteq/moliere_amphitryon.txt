@@ -26,7 +26,7 @@ Sied-il bien à des Dieux de dire qu'ils sont las ?
 Les Dieux sont-ils de Fer ?
 
 -*who_nuit
-Non ; mais il faut sans cesse
+      Non ; mais il faut sans cesse
 Garder le decorum de la Divinité.
 Il est de certains mots, dont l'usage rabaisse
 Cette sublime qualité ;
@@ -208,7 +208,7 @@ Je vais faire une Station.
 Bon jour, la Nuit.
 
 -*who_nuit
-Adieu, Mercure.
+      Adieu, Mercure.
 
 **** *book_ *id_I01 *act_I *date_1668 *creator_moliere
 
@@ -394,37 +394,37 @@ Et voilà notre Maison.
 Qui va là ?
 
 -*who_sosie
-Moi.
+      Moi.
 
 -*who_mercure
-Qui, moi ?
+      Qui, moi ?
 
 -*who_sosie
-Moi. Courage, Sosie !
+      Moi. Courage, Sosie !
 
 -*who_mercure
 Quel est ton sort, dis-moi ?
 
 -*who_sosie
-D'être Homme, et de parler.
+      D'être Homme, et de parler.
 
 -*who_mercure
 Es-tu Maître, ou Valet ?
 
 -*who_sosie
-Comme il me prend envie.
+      Comme il me prend envie.
 
 -*who_mercure
 Où s'adressent tes pas ?
 
 -*who_sosie
-Où j'ai dessein d'aller.
+      Où j'ai dessein d'aller.
 
 -*who_mercure
 Ah ! ceci me déplaît.
 
 -*who_sosie
-J'en ai l'Âme ravie.
+      J'en ai l'Âme ravie.
 
 -*who_mercure
 Résolument, par force, ou par amour,
@@ -446,13 +446,13 @@ De te donner un Soufflet de ma Main.
 À moi-même ?
 
 -*who_mercure
-À toi-même, et t'en voilà certain.
+      À toi-même, et t'en voilà certain.
 
 -*who_sosie
 Ah, ah, c'est tout de bon !
 
 -*who_mercure
-Non, ce n'est que pour rire,
+      Non, ce n'est que pour rire,
 Et répondre à tes Quolibets.
 
 -*who_sosie
@@ -477,10 +477,10 @@ Poursuivons notre Entretien.
 Je quitte la Partie.
 
 -*who_mercure
-Où vas-tu ?
+      Où vas-tu ?
 
 -*who_sosie
-Que t'importe ?
+      Que t'importe ?
 
 -*who_mercure
 Je veux savoir où tu vas.
@@ -501,10 +501,10 @@ M'empêcher d'entrer chez nous ?
 Comment, chez nous !
 
 -*who_sosie
-Oui, chez nous.
+      Oui, chez nous.
 
 -*who_mercure
-Ô le Traître !
+      Ô le Traître !
 Tu te dis de cette Maison ?
 
 -*who_sosie
@@ -514,40 +514,40 @@ Fort bien. Amphitryon n'en est-il pas le Maître ?
 Hé bien ! que fait cette raison ?
 
 -*who_sosie
-Je suis son valet.
+Je suis son Valet.
 
 -*who_mercure
-Toi ?
+      Toi ?
 
 -*who_sosie
-Moi.
+      Moi.
 
 -*who_mercure
-Son valet ?
+      Son valet ?
 
 -*who_sosie
-Sans doute.
+      Sans doute.
 
 -*who_mercure
 Valet d'Amphitryon ?
 
 -*who_sosie
-D'Amphitryon ; de lui.
+      D'Amphitryon ; de lui.
 
 -*who_mercure
 Ton Nom est ?
 
 -*who_sosie
-Sosie.
+      Sosie.
 
 -*who_mercure
-Heu ? Comment ?
+      Heu ? Comment ?
 
 -*who_sosie
-Sosie.
+      Sosie.
 
 -*who_mercure
-Écoute.
+      Écoute.
 Sais-tu que de ma Main je t'assomme aujourd'hui ?
 
 -*who_sosie
@@ -588,7 +588,7 @@ Et tu ne veux pas que je crie ?
 C'est ainsi que mon Bras…
 
 -*who_sosie
-L'action ne vaut rien.
+      L'action ne vaut rien.
 Tu triomphes de l'avantage,
 Que te donne sur moi mon manque de courage,
 Et ce n'est pas en user bien.
@@ -644,7 +644,7 @@ Amphitryon jamais n'en eut d'autre que moi.
 Toi Sosie ?
 
 -*who_mercure
-Oui, Sosie ; et si quelqu'un s'y joue,
+      Oui, Sosie ; et si quelqu'un s'y joue,
 Il peut bien prendre garde à soi.
 
 -*who_sosie
@@ -655,7 +655,7 @@ De ce que je suis Poltron !
 Sans cela, par la mort…
 
 -*who_mercure
-Entre tes dents, je pense,
+      Entre tes dents, je pense,
 Tu murmures je ne sais quoi ?
 
 -*who_sosie
@@ -666,12 +666,12 @@ De parler un moment à toi.
 Parle.
 
 -*who_sosie
-Mais promets-moi, de grâce,
+      Mais promets-moi, de grâce,
 Que les coups n'en seront point.
 Signons une Trêve.
 
 -*who_mercure
-Passe ;
+      Passe ;
 Va, je t'accorde ce point.
 
 -*who_sosie
@@ -684,14 +684,14 @@ Que je ne sois pas Moi ? que je ne sois Sosie ?
 Comment, tu peux…
 
 -*who_sosie
-Ah ! tout doux :
+      Ah ! tout doux :
 Nous avons fait trêve aux coups.
 
 -*who_mercure
 Quoi ! Pendard, Imposteur, Coquin…
 
 -*who_sosie
-Pour des injures,
+      Pour des injures,
 Dis-m'en tant que tu voudras :
 Ce sont légères blessures ;
 Et je ne m'en fâche pas.
@@ -700,7 +700,7 @@ Et je ne m'en fâche pas.
 Tu te dis Sosie !
 
 -*who_sosie
-Oui, quelque conte frivole…
+      Oui, quelque conte frivole…
 
 -*who_mercure
 Sus, je romps notre trêve, et reprends ma parole.
@@ -801,10 +801,10 @@ Où tu courus seul te fourrer ?
 D'un Jambon…
 
 -*who_sosie
-L'y voilà !
+      L'y voilà !
 
 -*who_mercure
-Que j'allai déterrer,
+      Que j'allai déterrer,
 Je coupai bravement deux Tranches succulentes,
 Dont je sus fort bien me bourrer.
 Et joignant à cela d'un Vin que l'on ménage,
@@ -1128,7 +1128,7 @@ Et maudissant vingt fois l'ordre dont vous parlez.
 Comment, Coquin ?
 
 -*who_sosie
-Monsieur, vous n'avez rien qu'à dire.
+      Monsieur, vous n'avez rien qu'à dire.
 Je mentirai, si vous voulez.
 
 -*who_amphitryon
@@ -1143,7 +1143,7 @@ Au moindre Objet que j'ai trouvé.
 Poltron !
 
 -*who_sosie
-En nous formant, Nature a ses caprices.
+      En nous formant, Nature a ses caprices.
 Divers penchants en nous elle fait observer.
 Les uns à s'exposer, trouvent mille délices :
 Moi, j'en trouve à me conserver.
@@ -1152,7 +1152,7 @@ Moi, j'en trouve à me conserver.
 Arrivant au logis ?
 
 -*who_sosie
-J'ai devant notre Porte,
+      J'ai devant notre Porte,
 En moi-même voulu répéter un petit,
 Sur quel ton, et de quelle sorte,
 Je ferais du Combat le glorieux Récit.
@@ -1161,13 +1161,13 @@ Je ferais du Combat le glorieux Récit.
 Ensuite ?
 
 -*who_sosie
-On m'est venu troubler, et mettre en peine.
+      On m'est venu troubler, et mettre en peine.
 
 -*who_amphitryon
 Et qui ?
 
 -*who_sosie
-Sosie, un Moi, de vos ordres jaloux,
+      Sosie, un Moi, de vos ordres jaloux,
 Que vous avez du Port envoyé vers Alcmène,
 Et qui de nos secrets a connaissance pleine,
 Comme le Moi qui parle à Vous.
@@ -1176,7 +1176,7 @@ Comme le Moi qui parle à Vous.
 Quels contes !
 
 -*who_sosie
-Non, Monsieur, c'est la vérité pure.
+      Non, Monsieur, c'est la vérité pure.
 Ce Moi, plutôt que Moi, s'est au Logis trouvé :
 Et j'étais venu, je vous jure,
 Avant que je fusse arrivé.
@@ -1255,23 +1255,23 @@ Et ne me suis-je pas interdit notre Porte ?
 Comment donc ?
 
 -*who_sosie
-Avec un Bâton ;
+      Avec un Bâton ;
 Dont mon Dos sent encore une douleur très forte.
 
 -*who_amphitryon
 On t'a battu ?
 
 -*who_sosie
-Vraiment !
+      Vraiment !
 
 -*who_amphitryon
-Et qui ?
+      Et qui ?
 
 -*who_sosie
-Moi.
+      Moi.
 
 -*who_amphitryon
-Toi, te battre ?
+      Toi, te battre ?
 
 -*who_sosie
 Oui, Moi ; non pas le Moi d'ici,
@@ -1293,10 +1293,10 @@ C'est un Drôle qui fait des rages.
 Achevons. As-tu vu ma Femme ?
 
 -*who_sosie
-Non.
+      Non.
 
 -*who_amphitryon
-Pourquoi ?
+      Pourquoi ?
 
 -*who_sosie
 Par une raison assez forte.
@@ -1367,7 +1367,7 @@ Dont Thèbes, par son Bras, goûte les avantages.
 Ô Dieux !
 
 -*who_amphitryon
-Fasse le Ciel, qu'Amphitryon vainqueur,
+      Fasse le Ciel, qu'Amphitryon vainqueur,
 Avec plaisir soit revu de sa Femme ;
 Et que ce jour favorable à ma flamme,
 Vous redonne à mes yeux, avec le même cœur :
@@ -1378,7 +1378,7 @@ Que vous en rapporte mon Âme.
 Quoi ! de retour si tôt ?
 
 -*who_amphitryon
-Certes, c'est en ce jour,
+      Certes, c'est en ce jour,
 Me donner de vos feux, un mauvais témoignage ;
 Et ce Quoi si tôt de retour,
 En ces occasions, n'est guère le langage
@@ -1394,7 +1394,7 @@ Quelque peu qu'elle dure, a toujours trop duré.
 Je ne vois…
 
 -*who_amphitryon
-Non, Alcmène, à son impatience,
+      Non, Alcmène, à son impatience,
 On mesure le temps en de pareils états ;
 Et vous comptez les moments de l'absence,
 En Personne qui n'aime pas.
@@ -1422,7 +1422,7 @@ Tout ce que de mon Cœur, vous aviez lieu d'attendre.
 Comment ?
 
 -*who_alcmene
-Ne fis-je pas éclater à vos yeux,
+      Ne fis-je pas éclater à vos yeux,
 Les soudains mouvements d'une entière allégresse ?
 Et le transport d'un Cœur peut-il s'expliquer mieux,
 Au retour d'un Époux, qu'on aime avec tendresse ?
@@ -1431,7 +1431,7 @@ Au retour d'un Époux, qu'on aime avec tendresse ?
 Que me dites-vous là ?
 
 -*who_alcmene
-Que même votre amour
+      Que même votre amour
 Montra, de mon accueil, une joie incroyable :
 Et que m'ayant quittée à la pointe du jour,
 Je ne vois pas qu'à ce soudain retour,
@@ -1511,7 +1511,7 @@ Que dès hier, en ces Lieux, vous vîntes sur le soir ?
 Moi, je vins hier ?
 
 -*who_alcmene
-Sans doute. Et dès devant l'Aurore,
+      Sans doute. Et dès devant l'Aurore,
 Vous vous en êtes retourné.
 
 -*who_amphitryon
@@ -1520,7 +1520,7 @@ Et qui, de tout ceci, ne serait étonné ?
 Sosie ?
 
 -*who_sosie
-Elle a besoin de six grains d'Ellébore,
+      Elle a besoin de six grains d'Ellébore,
 Monsieur, son Esprit est tourné !
 
 -*who_amphitryon
@@ -1552,30 +1552,30 @@ Assurément. Il n'est pas difficile
 De vous en bien convaincre.
 
 -*who_amphitryon
-Et comment ?
+      Et comment ?
 
 -*who_alcmene
-Le voici.
+      Le voici.
 
 -*who_amphitryon
 Sosie !
 
 -*who_sosie
-Elle se moque, et je le tiens ici ;
+      Elle se moque, et je le tiens ici ;
 Monsieur, la feinte est inutile.
 
 -*who_amphitryon
 Le Cachet est entier.
 
 -*who_alcmene
-Est-ce une Vision ?
+      Est-ce une Vision ?
 Tenez. Trouverez-vous cette preuve assez forte ?
 
 -*who_amphitryon
 Ah Ciel ! ô juste Ciel !
 
 -*who_alcmene
-Allez, Amphitryon,
+      Allez, Amphitryon,
 Vous vous moquez, d'en user de la sorte ;
 Et vous en devriez avoir confusion.
 
@@ -1583,7 +1583,7 @@ Et vous en devriez avoir confusion.
 Romps vite ce cachet.
 
 -*who_sosie
-Ma foi, la place est vide.
+      Ma foi, la place est vide.
 Il faut que par Magie on ait su le tirer :
 Ou bien que de lui-même, il soit venu sans guide,
 Vers celle qu'il a su qu'on en voulait parer.
@@ -1601,7 +1601,7 @@ Et de même que moi, Monsieur, vous êtes double.
 Tais-toi.
 
 -*who_alcmene
-Sur quoi vous étonner si fort ?
+      Sur quoi vous étonner si fort ?
 Et d'où peut naître ce grand trouble !
 
 -*who_amphitryon
@@ -1668,7 +1668,7 @@ Mon Cœur, Amphitryon, y trouvait mille appas.
 Ensuite, s'il vous plaît.
 
 -*who_alcmene
-Nous nous entrecoupâmes
+      Nous nous entrecoupâmes
 De mille Questions, qui pouvaient nous toucher.
 On servit. Tête-à-tête, ensemble nous soupâmes ;
 Et le Souper fini, nous nous fûmes coucher.
@@ -1677,7 +1677,7 @@ Et le Souper fini, nous nous fûmes coucher.
 Ensemble ?
 
 -*who_alcmene
-Assurément. Quelle est cette demande ?
+      Assurément. Quelle est cette demande ?
 
 -*who_amphitryon
 Ah ! c'est ici le coup le plus cruel de tous !
@@ -1697,10 +1697,10 @@ La fausseté la plus horrible.
 Amphitryon !
 
 -*who_amphitryon
-Perfide !
+      Perfide !
 
 -*who_alcmene
-Ah ! quel emportement !
+      Ah ! quel emportement !
 
 -*who_amphitryon
 Non, non, plus de douceur, et plus de déférence.
@@ -1750,14 +1750,14 @@ Malheur à qui m'aura trahi.
 Monsieur…
 
 -*who_amphitryon
-Ne m'accompagne pas ;
+      Ne m'accompagne pas ;
 Et demeure ici, pour m'attendre.
 
 -*who_cleanthis
 Faut-il…
 
 -*who_alcmene
-Je ne puis rien entendre :
+      Je ne puis rien entendre :
 Laisse-moi seule, et ne suis point mes pas.
 
 **** *book_ *id_II03 *act_II *date_1668 *creator_moliere
@@ -1790,7 +1790,7 @@ Ce qu'on ne voudrait pas savoir.
 Dieu te gard', Cléanthis.
 
 -*who_cleanthis
-Ah, ah, tu t'en avises,
+      Ah, ah, tu t'en avises,
 Traître, de t'approcher de nous !
 
 -*who_sosie
@@ -1801,7 +1801,7 @@ Et sur rien, tu te formalises.
 Qu'appelles-tu sur rien ? dis ?
 
 -*who_sosie
-J'appelle sur rien,
+      J'appelle sur rien,
 Ce qui sur rien s'appelle en Vers, ainsi qu'en Prose ;
 Et rien, comme tu le sais bien,
 Veut dire rien, ou peu de chose.
@@ -1822,7 +1822,7 @@ Qu'avec moi ton Cœur a tenu ?
 Et quel ?
 
 -*who_cleanthis
-Quoi ! tu fais l'ingénu !
+      Quoi ! tu fais l'ingénu !
 Est-ce qu'à l'exemple du Maître,
 Tu veux dire qu'ici tu n'es pas revenu ?
 
@@ -1862,10 +1862,10 @@ Tu détournas le nez, et me donnas l'oreille !
 Bon !
 
 -*who_cleanthis
-Comment, bon ?
+      Comment, bon ?
 
 -*who_sosie
-Mon Dieu, tu ne sais pas pourquoi,
+      Mon Dieu, tu ne sais pas pourquoi,
 Cléanthis, je tiens ce langage.
 J'avais mangé de l'Ail, et fis en Homme sage,
 De détourner un peu mon haleine de toi.
@@ -1880,7 +1880,7 @@ Ne te put sortir de la bouche.
 Courage.
 
 -*who_cleanthis
-Enfin ma flamme eut beau s'émanciper,
+      Enfin ma flamme eut beau s'émanciper,
 Sa chaste ardeur en toi ne trouva rien que glace ;
 Et dans un tel retour je te vis la tromper,
 Jusqu'à faire refus de prendre au Lit la place,
@@ -1890,10 +1890,10 @@ Que les Lois de l'Hymen t'obligent d'occuper.
 Quoi ! je ne couchai point…
 
 -*who_cleanthis
-Non, lâche.
+      Non, lâche.
 
 -*who_sosie
-Est-il possible !
+      Est-il possible !
 
 -*who_cleanthis
 Traître, il n'est que trop assuré.
@@ -1906,7 +1906,7 @@ Par des discours chargés d'un mépris tout visible.
 Vivat, Sosie !
 
 -*who_cleanthis
-Hé quoi ? ma plainte a cet effet ?
+      Hé quoi ? ma plainte a cet effet ?
 Tu ris après ce bel Ouvrage ?
 
 -*who_sosie
@@ -1964,7 +1964,7 @@ De cent sots contes par le nez.
 Tout doux.
 
 -*who_cleanthis
-Non : je soutiens que, cela conclut mal,
+      Non : je soutiens que, cela conclut mal,
 Ces raisons sont raisons d'extravagantes Têtes.
 Il n'est ni Vin, ni temps, qui puisse être fatal,
 À remplir le devoir de l'Amour conjugal ;
@@ -1987,7 +1987,7 @@ De cette liberté que ton Cœur m'a permise.
 Quoi ?
 
 -*who_cleanthis
-Tu m'as dit tantôt, que tu consentais fort,
+      Tu m'as dit tantôt, que tu consentais fort,
 Lâche, que j'en aimasse un autre.
 
 -*who_sosie
@@ -2046,7 +2046,7 @@ Si le Diable les prenait tous.
 Vraiment…
 
 -*who_sosie
-Les voici. Taisons-nous.
+      Les voici. Taisons-nous.
 
 **** *book_ *id_II06 *act_II *date_1668 *creator_moliere
 
@@ -2062,26 +2062,26 @@ Je ne puis du tout demeurer.
 De grâce…
 
 -*who_alcmene
-Laissez-moi.
+      Laissez-moi.
 
 -*who_jupiter
-Quoi…
+      Quoi…
 
 -*who_alcmene
-Laissez-moi, vous dis-je.
+      Laissez-moi, vous dis-je.
 
 -*who_jupiter
 Ses pleurs touchent mon Âme, et sa douleur m'afflige.
 Souffrez que mon Cœur…
 
 -*who_alcmene
-Non, ne suivez point mes pas.
+      Non, ne suivez point mes pas.
 
 -*who_jupiter
 Où voulez-vous aller ?
 
 -*who_alcmene
-Où vous ne serez pas.
+      Où vous ne serez pas.
 
 -*who_jupiter
 Ce vous est une attente vaine.
@@ -2284,7 +2284,7 @@ C'est tout ce que j'attends, pour faveur souveraine.
 Ah ! trop cruel Époux !
 
 -*who_jupiter
-Dites, parlez, Alcmène.
+      Dites, parlez, Alcmène.
 
 -*who_alcmene
 Faut-il encor pour vous, conserver des bontés ;
@@ -2308,7 +2308,7 @@ Non, ne m'en parlez point, vous méritez ma haine.
 Vous me haïssez donc ?
 
 -*who_alcmene
-J'y fais tout mon effort ;
+      J'y fais tout mon effort ;
 Et j'ai dépit de voir, que toute votre offense
 Ne puisse de mon Cœur, jusqu'à cette vengeance,
 Faire encore aller le transport.
@@ -2366,14 +2366,14 @@ C'est pour ton nez, vraiment. Cela se fait ainsi.
 Quoi ! tu ne veux pas ?
 
 -*who_cleanthis
-Non.
+      Non.
 
 -*who_sosie
-Il ne m'importe guère,
+      Il ne m'importe guère,
 Tant pis pour toi.
 
 -*who_cleanthis
-Là, là, reviens.
+      Là, là, reviens.
 
 -*who_sosie
 Non, morbleu, je n'en ferai rien ;
@@ -2457,23 +2457,23 @@ D'où vient donc qu'à cette heure on ferme cette Porte ?
 Holà, tout doucement. Qui frappe ?
 
 -*who_amphitryon
-Moi.
+      Moi.
 
 -*who_mercure
-Qui, moi ?
+      Qui, moi ?
 
 -*who_amphitryon
 Ah ! ouvre.
 
 -*who_mercure
-Comment, ouvre ? Et qui donc es-tu, toi ;
+      Comment, ouvre ? Et qui donc es-tu, toi ;
 Qui fais tant de vacarme, et parles de la sorte ?
 
 -*who_amphitryon
 Quoi ! tu ne me connais pas ?
 
 -*who_mercure
-Non :
+      Non :
 Et n'en ai pas la moindre envie.
 
 -*who_amphitryon
@@ -2488,7 +2488,7 @@ As-tu peur que je ne l'oublie ?
 Me vois-tu bien ?
 
 -*who_mercure
-Fort bien. Qui peut pousser ton Bras,
+      Fort bien. Qui peut pousser ton Bras,
 À faire une rumeur si grande ?
 Et que demandes-tu là-bas ?
 
@@ -2538,7 +2538,7 @@ Ce que c'est qu'un Valet, qui s'attaque à son Maître.
 Toi, mon Maître ?
 
 -*who_amphitryon
-Oui, Coquin. M'oses-tu méconnaître ?
+      Oui, Coquin. M'oses-tu méconnaître ?
 
 -*who_mercure
 Je n'en reconnais point d'autre, qu'Amphitryon.
@@ -2550,10 +2550,10 @@ Et cet Amphitryon, qui, hors moi, le peut être ?
 Amphitryon ?
 
 -*who_amphitryon
-Sans doute.
+      Sans doute.
 
 -*who_mercure
-Ah ! quelle vision !
+      Ah ! quelle vision !
 Dis-nous un peu. Quel est le Cabaret honnête,
 Où tu t'es coiffé le cerveau ?
 
@@ -2561,19 +2561,19 @@ Où tu t'es coiffé le cerveau ?
 Comment ! encor !
 
 -*who_mercure
-Était-ce un Vin à faire fête ?
+      Était-ce un Vin à faire fête ?
 
 -*who_amphitryon
 Ciel !
 
 -*who_mercure
-Était-il vieux, ou nouveau ?
+      Était-il vieux, ou nouveau ?
 
 -*who_amphitryon
 Que de coups !
 
 -*who_mercure
-Le nouveau donne fort dans la tête,
+      Le nouveau donne fort dans la tête,
 Quand on le veut boire sans eau.
 
 -*who_amphitryon
@@ -2589,7 +2589,7 @@ Et laisse Amphitryon dans les plaisirs qu'il goûte.
 Comment ! Amphitryon est là-dedans ?
 
 -*who_mercure
-Fort bien :
+      Fort bien :
 Qui couvert des Lauriers d'une Victoire pleine,
 Est auprès de la belle Alcmène,
 À jouir des douceurs d'un aimable entretien.
@@ -2625,22 +2625,22 @@ C'est de vous amener ces Messieurs que voici.
 Ah ! vous voilà ?
 
 -*who_sosie
-Monsieur.
+      Monsieur.
 
 -*who_amphitryon
-Insolent, téméraire.
+      Insolent, téméraire.
 
 -*who_sosie
 Quoi ?
 
 -*who_amphitryon
-Je vous apprendrai de me traiter ainsi.
+      Je vous apprendrai de me traiter ainsi.
 
 -*who_sosie
 Qu'est-ce donc ? qu'avez-vous ?
 
 -*who_amphitryon
-Ce que j'ai, Misérable ?
+      Ce que j'ai, Misérable ?
 
 -*who_sosie
 Holà, Messieurs, venez donc tôt.
@@ -2649,7 +2649,7 @@ Holà, Messieurs, venez donc tôt.
 Ah ! de grâce, arrêtez.
 
 -*who_sosie
-De quoi suis-je coupable ?
+      De quoi suis-je coupable ?
 
 -*who_amphitryon
 Tu me le demandes, Maraud ?
@@ -2672,19 +2672,19 @@ Et de joindre encor la menace,
 Ah ! Coquin.
 
 -*who_sosie
-Je suis mort.
+      Je suis mort.
 
 -*who_naucrates
-Calmez cette colère.
+      Calmez cette colère.
 
 -*who_sosie
 Messieurs.
 
 -*who_polidas
-Qu'est-ce ?
+      Qu'est-ce ?
 
 -*who_sosie
-M'a-t-il frappé ?
+      M'a-t-il frappé ?
 
 -*who_amphitryon
 Non, il faut qu'il ait le salaire
@@ -2704,13 +2704,13 @@ Et n'a point voulu nous quitter.
 Qui t'a donné cet Ordre ?
 
 -*who_sosie
-Vous.
+      Vous.
 
 -*who_amphitryon
 Et quand ?
 
 -*who_sosie
-Après votre paix faite,
+      Après votre paix faite,
 Au milieu des transports d'une Âme satisfaite,
 D'avoir d'Alcmène apaisé le courroux.
 
@@ -2744,7 +2744,7 @@ Et qui frappe en Maître où je suis ?
 Que vois-je, justes Dieux !
 
 -*who_naucrates
-Ciel ! quel est ce prodige !
+      Ciel ! quel est ce prodige !
 Quoi ! deux Amphitryons ici nous sont produits !
 
 -*who_amphitryon
@@ -2773,10 +2773,10 @@ Il faut, avec ce Fer, rompre l'enchantement.
 Arrêtez.
 
 -*who_amphitryon
-Laissez-moi.
+      Laissez-moi.
 
 -*who_naucrates
-Dieux ! que voulez-vous faire ?
+      Dieux ! que voulez-vous faire ?
 
 -*who_amphitryon
 Punir, d'un Imposteur, les lâches trahisons.
@@ -2948,7 +2948,7 @@ Impudent Fleureur de Cuisine ?
 Ah ! de grâce, tout doux !
 
 -*who_mercure
-Ah ! vous y retournez !
+      Ah ! vous y retournez !
 Je vous ajusterai l'échine.
 
 -*who_sosie
@@ -2991,7 +2991,7 @@ Et je veux être Fils unique.
 Souffre qu'au moins je sois ton Ombre.
 
 -*who_mercure
-Point du tout.
+      Point du tout.
 
 -*who_sosie
 Que d'un peu de pitié ton âme s'humanise.
@@ -3031,10 +3031,10 @@ Double Fils-de-Putain, de trop d'orgueil enflé !
 Que dis-tu ?
 
 -*who_sosie
-Rien.
+      Rien.
 
 -*who_mercure
-Tu tiens, je crois, quelque langage.
+      Tu tiens, je crois, quelque langage.
 
 -*who_sosie
 Demandez, je n'ai pas soufflé.
@@ -3114,7 +3114,7 @@ D'une autre main, que de la mienne.
 Allons.
 
 -*who_sosie
-Je viens, Monsieur, subir à vos genoux,
+      Je viens, Monsieur, subir à vos genoux,
 Le juste châtiment d'une audace maudite.
 Frappez, battez, chargez, accablez-moi de coups ;
 Tuez-moi dans votre courroux :
@@ -3125,7 +3125,7 @@ Et je n'en dirai pas un seul mot contre vous.
 Lève-toi. Que fait-on ?
 
 -*who_sosie
-L'on m'a chassé tout net :
+      L'on m'a chassé tout net :
 Et croyant, à manger, m'aller comme eux, ébattre ;
 Je ne songeais pas qu'en effet,
 Je m'attendais là, pour me battre.
@@ -3140,7 +3140,7 @@ Comme on vous Dés-Amphitryonne.
 Suis-moi.
 
 -*who_sosie
-N'est-il pas mieux, de voir s'il vient Personne.
+      N'est-il pas mieux, de voir s'il vient Personne.
 
 **** *book_ *id_III08 *act_III *date_1668 *creator_moliere
 
@@ -3148,7 +3148,7 @@ N'est-il pas mieux, de voir s'il vient Personne.
 Ô Ciel !
 
 -*who_amphitryon
-Qui t'épouvante ainsi ?
+      Qui t'épouvante ainsi ?
 Quelle est la peur, que je t'inspire ?
 
 -*who_cleanthis

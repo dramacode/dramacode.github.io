@@ -14,7 +14,7 @@ A PARIS, Chez *Jean Ribou*, sur le Quay des Augustins à l'image S. Louis. M. DC
 Édition critique établie par Léa Delourme sous la direction de Georges Forestier (2013-2014)
 
 
-# Introduction
+# Introduction.
 
 Fascinant destin que celui des Précieuses, cette mystérieuse catégorie de femmes dont Molière, à en croire le titre de sa première comédie publiée, prétend dépeindre les ridicules, mais sous les traits desquelles il offre en réalité la parodie des usages d'un monde galant dont les codes sophistiqués et le goût prononcé pour les bagatelles littéraires et les innovations langagières contenaient en germe tout le sel d'une savoureuse farce vouée à s'attirer les bonnes grâces d'un public mondain. Puissante invention littéraire en laquelle on a voulu voir, avec un acharnement aveugle, une réalité socio-historique dont les historiens de la littérature se sont efforcés depuis le XIX*e* siècle, non sans peine et sans nombre de paradoxes, d'identifier les contours, là où ces figures purement fantasmatiques ne se révèlent être que l'incarnation artificielle, dans quelques personnes disparates et quelques rares figures littéraires, des défauts réputés féminins et des craintes masculines de voir les femmes prendre trop de pouvoir dans le domaine de la culture et du sexe. Énigmatique personnage que celui d'Antoine Baudeau de Somaize, plagiaire maladroit de Molière, promu au rang de témoin de la préciosité grâce aux « reportages » facétieux qu'il en a laissés dans ses Dictionnaires, rédigés à la hâte dans la foulée de ses *Véritables Précieuses* et de sa mise en vers des *Précieuses ridicules*, afin de profiter au mieux des bénéfices de cette vogue littéraire qui s'épanouit grâce au succès de la pièce de Molière.
 
@@ -23,7 +23,7 @@ Succès triomphal en effet, tout autant qu'inattendu, dont l'histoire est une in
 Si certains historiens du théâtre présupposent leur représentation à l'Hôtel de Bourgogne, faisant des comédiens du lieu les instigateurs de toutes les attaques anti-Molière formulées par Somaize [5] – une inimitié qui serait elle-même motivée par la critique des grands comédiens contenue dans *Les Précieuses ridicules* –, ces deux pièces ne furent selon toute vraisemblance jamais représentées. Pour autant, *Les Véritables précieuses* semblent avoir été un satisfaisant succès de librairie. Gratifiées d'une réédition dont l'achevé d'imprimer date du 6 septembre 1660, elles y sont augmentées d'un court *Dialogue de deux précieuses sur les affaires de leur communauté*. Surtout, les contrefaçons de la pièce se multiplient, aussi bien à Caen et à Grenoble qu'à Bruxelles et en Hollande, preuve que *Les précieuses* de Somaize profitèrent largement de l'engouement que connut ponctuellement la figure littéraire des précieuses, avant de sombrer pendant longtemps dans l'oubli, jusqu'à leur exhumation par les historiens du XIX*e* siècle.
 
 
-# Antoine Baudeau de Somaize, auteur anonyme
+# Antoine Baudeau de Somaize, auteur anonyme.
 
 
 Il est des écrivains dont tout le monde connaît le nom et dont personne ne lit les œuvres. Le plus souvent médiocres, nuls quelquefois, ils doivent à un ensemble de causes fortuites une réputation qu'ils n'auraient jamais atteinte sans elles. [6]
@@ -31,7 +31,7 @@ Il est des écrivains dont tout le monde connaît le nom et dont personne ne lit
 Telle est, il faut en convenir, la postérité littéraire de Somaize, personnage affublé d'une piètre réputation : celle d'un médiocre plagiaire, imitateur opportuniste et faussaire malhonnête dont le nom, systématiquement cité, est familier à tous ceux qui se sont intéressés de près ou de loin aux *Précieuses ridicules* de Molière et à la notion de préciosité, mais dont la personne reste pour le moins énigmatique. Hormis ses apparentes aptitudes à voler et à calomnier impunément, peu d'éléments biographiques satisfaisants nous sont parvenus à son sujet et le mystère qui entoure sa personne est aujourd'hui aussi persistant que lors de sa redécouverte au XIX*e* siècle. Avec une apparition sur la scène littéraire réduite à une période restreinte dont les limites correspondent étrangement à celles de la vogue littéraire des précieuses, couplée à un patronyme largement associé à des écrits pamphlétaires au style des plus disparates, le nom de Somaize soulève bon nombre d'interrogations qui amènent logiquement à douter de la réalité historique du personnage.
 
 
-## Tentatives biographiques
+## Tentatives biographiques.
 
 C'est uniquement dans les propos de Somaize que l'on trouve les rares éléments, par conséquent fortement sujets à caution, qui pourraient participer à une tentative de reconstruction biographique ; s'ils citent parfois les œuvres dont il se réclame l'auteur, aucun de ses contemporains ne le mentionne pour nous renseigner à son sujet. Les recherches sur la personne si mal connue de Somaize restent encore aujourd'hui rares et isolées et se sont trop généralement heurtées à des incompréhensions et des mystères irrésolus. On compte ainsi au rang des études sur Somaize les articles précurseurs de Buchmann [7] et de Gustave Larroumet [8] ainsi qu'une thèse qui lui fut consacrée en 1903 par l'Allemand Fritz Schwartz [9]. Ces travaux servirent de base aux deux articles de J. Warshaw rédigés en 1913 et en 1914 [10]. Enfin, Charles Livet s'employa à éditer ses *Véritables Précieuses* et ses deux Dictionnaires mais s'attacha bien plus, dans son introduction, à tenter d'élucider le mystère de la préciosité plutôt que celui du personnage de Somaize [11]. Ces travaux, assez anciens comme on le constate, souffrent tous de préjugés persistants concernant l'écrivain qu'était Somaize et la « préciosité » qu'il prétend décrire, aussi bien que d'un manque cruel d'informations regardant la vie de cet auteur obscur.
 
@@ -68,7 +68,7 @@ C'est précisément ce voyage en Italie qui aurait empêché Somaize de rédiger
 Je ne sais pas si Suzarion est du nombre de ceux qu'on doit appeler précieux, mais je sais bien que si l'on mérite ce titre par la fréquentation et par la connaissance des précieuses, il peut sans doute trouver sa place dans le lieu où l'on parle d'elles, puisqu'il en voit quelques-unes, qu'il en connaît la plus grande partie, et qu'avec cela il a fait leur histoire. C'est un jeune homme qui fait des vers et de la prose avec assez de facilité ; son penchant est du côté de la raillerie, et il se persuade qu'il est bien difficile de ne point écrire de satires ; mais, quelque plaisir qu'il trouve à dire les vérités des autres, il sait pourtant bien cacher celles que l'honneur nous oblige à taire, et n'a pas assez de malice pour inventer une fausseté, ni pour assurer une chose douteuse, quelque plaisante qu'elle fût. Cependant il passe pour l'homme du monde qui laisse le moins échapper les occasions de se divertir aux dépens d'autrui et, dès lors qu'il se fait quelque pièce satirique, il en est aussitôt accusé ; même il est souvent arrivé que l'on lui a fait dire des choses à quoi il n'avait pensé de sa vie. On passe plus loin, et l'on veut encore, lorsqu'il fait des panégyriques, que ce soit des satires, et l'on cherche des sens dans ses écrits qui sont fort éloignés de ses pensées, pour trouver des railleries dans les louanges qu'il donne ; toutefois l'on peut dire de lui qu'il est véritable ami et qu'il sait aussi bien les lois d'une parfaite amitié qu'il sait bien les maximes d'une légitime guerre ; qu'il n'est jamais traître, et que l'on ne peut accuser ses actions que d'une franchise trop ouverte, soit à servir ceux qu'il estime, soit à pousser ceux qui le méprisent ; et cette franchise a donné lieu de croire de lui des choses dont il ne fut jamais capable. On lui a donné pour devise un soleil en son midi qui brûle une vaste campagne, et l'on a ajouté à cette devise : Il brûle autant qu'il éclaire. [21]
 
 
-## Une œuvre restreinte et nébuleuse
+## Une œuvre restreinte et nébuleuse.
 
 L'œuvre littéraire de Somaize, si tant est que ses publications méritent un tel statut, se concentre sur une période très brève : de notre point de vue, de même que sur le plan biographique, Somaize est rentré dans l'obscurité aussi vite qu'il en était sorti. Tout ce que nous pouvons savoir de sa carrière littéraire est ainsi compris entre les années 1657 et 1661, date après laquelle on lui attribue encore quelques publications mais avec moins de certitudes.
 
@@ -98,7 +98,7 @@ Enfin paraît chez Jean Ribou avec un privilège daté du 12 mai 1661 et un ache
 Mais cette fois, la vogue des précieuses s'est définitivement essoufflée et Somaize en a tiré tout le suc qu'il pouvait espérer. Il n'abandonne pas pour autant le thème de la galanterie, qui se présente encore et toujours comme son sujet de prédilection : au cours de l'année 1661 paraît en effet chez Jean Ribou, précédée d'une épître dédicatoire à nouveau adressée à Marie de Mancini et due au sieur de Somaize, *Alcippe ou du choix des galants*. Après avoir relaté deux discussions débattant des éléments qui doivent présider au choix d'un galant amant, discutant de la supériorité ou non du galant issu de la noblesse d'épée sur celui appartenant à la noblesse de robe, le livre se conclut par le jugement de Caliste « touchant la proposition agitée dans les deux dialogues précédents ». Cet *Alcippe* est pourtant rarement évoqué par la critique : il semble bien qu'une fois la valeur de témoignage sur la préciosité écartée, peu daignent reconnaître à Somaize une quelconque valeur littéraire. L'Avis au Lecteur de ce dernier ouvrage annonçait l'imminente parution d'un *Choix des Maîtresses*, dont nous n'avons aucune trace et qui ne vit probablement jamais le jour, pas plus que la *Pompe funèbre d'une précieuse* annoncée par le *Dialogue de deux précieuses sur les affaires de leur communauté*. Somaize prend soin de faire la publicité de ses ouvrages, parfois plus que de raison. En réalité, il semble que ce soit là plus ou moins la fin de sa carrière littéraire. En septembre 1663, son nom apparaît encore dans un recueil collectif édité par Jean Ribou, associé à plusieurs poésies : *Les Délices de la poésie galante par plusieurs célèbres auteurs de ce temps.* Rien ne prouve l'activité littéraire de Somaize à cette date, pas plus que sa présence à Paris, puisque Ribou dit avoir « rassemblé des Muses dispersées », certainement de dates diverses. En revanche, E. Roy conclut de la parution d'un poème galant adressé à Mme de Colbert, *Le Secret d'être toujours belle* (chez Billaine), que Somaize est de retour à Paris en 1666. Il lui attribue également la traduction en vers libres d'un fragment de la *Philis de Scire* [34], en 1667 : « Quoi de plus naturel que Somaize ait dédié sa traduction de la *Philis* à la sœur de sa protectrice, Marie Mancini, à cette altière et fière duchesse de Bouillon ? » [35]. Hormis ces timides velléités d'assignation de textes, nous perdons définitivement la trace de Somaize après 1661.
 
 
-## Somaize, figure de « reporter » du mouvement précieux
+## Somaize, figure de « reporter » du mouvement précieux.
 
 
 L'intérêt de ce qu'il Somaize recueille est toujours dans les choses elles-mêmes, jamais dans la manière dont il les présente. [36] 
@@ -116,7 +116,7 @@ Avec la relativisation progressive de l'existence des précieuses, Somaize n'en 
 Somaize est exact dans l'ensemble ; les *Historiettes* de Tallemant des Réaux permettent souvent de le contrôler, et, dans ce cas, il est assez rare qu'on le prenne en flagrant délit de mensonge complet ou d'erreur capital ; il exagère, il contrefait même, par maladresse ou par parti-pris, mais il n'invente pas. Par le goût du commérage et du cancan, par la nature des histoires qu'il raconte, il est lui-même une sorte de Tallemant, moins l'esprit et la qualité de la langue, comme aussi la nature et l'étendue de l'information. … Somaize est un simple chroniqueur d'antichambre ; quoi qu'il en dise, il a peu fréquenté la bonne société, il n'en a guère connu que la vie extérieure et publique ; pour la vie intime et l'intérieur des ruelles, il n'en a su que ce qu'on a bien voulu lui dire ou lui écrire. [40]
 
 
-## Polémique, calomnie et larcin : les modes de son existence littéraire
+## Polémique, calomnie et larcin : les modes de son existence littéraire.
 
 Outre la valeur qu'on accorda à ses œuvres grâce à leur lien avec la préciosité, Somaize doit indéniablement à ses dons pour la polémique son accès à la postérité. La vue d'ensemble des ouvrages qu'on lui attribue nous permet en effet de constater que ce dernier s'illustre tout particulièrement dans les propos calomnieux, aussi bien qu'elle nous fait prendre conscience du manque d'autonomie de ses écrits, toujours nés de circonstances extérieures.
 
@@ -142,7 +142,7 @@ De la même façon, Somaize se plaint d'être accusé à tort de satire, par des
 Tant de mystifications, de mystères et d'implications dans de dérisoires querelles amènent légitimement diverses mises en doute quant à l'existence véritable de Somaize et à son identité. Certains lui prêtent, pour agir aussi impunément, des soutiens et des instigateurs, notamment dans les rangs des ennemis de Molière dont le succès inquiétant menace de faire de l'ombre aux auteurs en vue : Larroumet désigne ainsi ces hypothétiques meneurs comme étant les comédiens de l'Hôtel de Bourgogne. La disparité de style des œuvres de Somaize peut également porter à soupçonner derrière ces textes une écriture collective. Poussons plus loin les conséquences de tels doutes : l'étiquette patronymique de ce pamphlétaire né, hostile à Molière, Boisrobert ou encore Quinault, expert en canular et en opportunisme littéraire, écrivain médiocre mais prolifique, ne correspond-elle qu'à un prête-nom ? Des auteurs tels que Sorel [46] et Donneau de Visé ont pu être évoqués comme les manipulateurs de cette possible marionnette, mais sans beaucoup de vraisemblance. L'incertitude dans laquelle nous plonge « le cas Somaize » reste entière.
 
 
-# Précieuses et préciosité : un « sujet chimérique »
+# Précieuses et préciosité : un « sujet chimérique ».
 
 Autrement, un Sujet plaisant,  
 À rire sans cesse induisant  
@@ -192,7 +192,7 @@ Ainsi, les contemporains eux-mêmes se sont laissés tromper par la puissance de
 On a parlé des précieuses comme si c'était quelque nouvel ordre de femmes et de filles qui fussent plus les capables que les autres en leurs discours et en leur manière d'agir : mais nous n'en avons jamais vu aucune qui ait voulu avouer d'en être. [83]
 
 
-## Amalgames et substitutions : ridiculiser la galanterie, ses prétentions littéraires et ses subtilités sentimentales
+## Amalgames et substitutions : ridiculiser la galanterie, ses prétentions littéraires et ses subtilités sentimentales.
 
 En critiquant la préciosité, cible imaginaire, Molière a en réalité la sagesse de désigner une cible autre que celles qu'il vise, bien réelles pour leur part, et dont les précieuses avaient toujours été une émanation plus ou moins évidente. Car derrière le ridicule des précieuses moliéresques se cache la peinture parodique d'une société galante en plein épanouissement, dont les traits les plus saillants présentent tout le potentiel d'une caricature savoureuse. En outre, sous les allusions multiples aux œuvres de Mlle de Scudéry, lesquelles ont brouillé les esprits de Cathos et de Magdelon, résonne la dénonciation d'un sentimentalisme excessif, tel qu'il s'incarne dans l'idéal de l'amour tendre.
 
@@ -217,7 +217,7 @@ Ainsi, l'invention littéraire de la préciosité, et *a fortiori* telle que Mol
 Il faut sans doute débusquer aussi le sourd travail du mythe derrière la catégorie galante. Dans le sens positif qu'on lui connaît, celui de relations harmonieuses et policées entre hommes et femmes du monde, la galanterie résume un idéal trop irénique pour être entendu à la lettre. … Par son statut constamment polémique, la préciosité à l'inverse rend visibles les limites de cette doxa culturelle, y introduit un jeu positif du soupçon, en inquiète l'apparent consensus. [111]
 
 
-## Décrédibiliser des débats sociétaux profonds
+## Décrédibiliser des débats sociétaux profonds.
 
 Non content de caricaturer à outrance ses contemporains, Molière, en faisant des précieuses des personnages de farce, s'emploie aussi à attirer l'attention de l'ensemble du public sur des questions inquiétantes et parfois gênantes pour une société contemporaine profondément patriarcale. Car les précieuses se révèlent être l'incarnation de craintes que suscitent désormais quelques femmes soucieuses d'accéder à plus d'indépendance intellectuelle et sexuelle. Or, la vogue littéraire qui tend à décrédibiliser ces débats témoigne malgré elle de l'importance qu'ils avaient à l'époque, les ravivant contre le gré des auteurs de cet amas de textes parodiques :
 
@@ -244,7 +244,7 @@ Un problème qui se recoupe là encore avec la question féminine : reposant su
 En fin de compte, la préciosité apparaît comme la contestation, par des femmes de la capitale, des idées établies sur le partage des rôles dans la vie culturelle … symbolisée par leur révolte contre les pédants … et manifestée dans leur volonté de conquérir le pouvoir intellectuel, qu'il s'agisse de régenter la langue, qu'elles souhaitent épurer et enrichir, ou de juger de la qualité littéraire des œuvres immédiatement contemporaines. [122]
 
 
-## Dévoiement et affadissement de l'image des précieuses chez Somaize
+## Dévoiement et affadissement de l'image des précieuses chez Somaize.
 
 Or, l'éventail de ces subtiles nuances tend à disparaître dans l'œuvre de Somaize, d'autant que c'est en s'emparant à son tour du sujet des précieuses qu'il fixe pour longtemps l'ambiguïté de leur statut. S'il est lui-même conscient de ne décrire que la réalité d'une société galante, il n'en tient pas moins un discours ambivalent censé servir le succès de ses publications, dont il dessert en réalité la qualité.
 
@@ -281,23 +281,23 @@ Avec une image aussi faible, si peu caractérisée, les précieuses sont à pré
 Puisque Molière, après quelques autres, avait dénoncé l'existence des précieuses, on n'a pas manqué de conclure qu'il devait y en avoir. Le succès de sa pièce garantissait leur omniprésence, tout le monde s'employa à en trouver et à les qualifier. Sous couleur d'en faire l'inventaire, Somaize les multiplia pour grossir son livre. Elles existèrent à force d'en parler. [134]
 
 
-# Génétique et esthétique du plagiat et de la transcription
+# Génétique et esthétique du plagiat et de la transcription.
 
 
-## Résumés des pièces
+## Résumés des pièces.
 
 
-### Action scénique des Véritables Précieuses
+### Action scénique des Véritables Précieuses.
 
 La scène d'exposition nous présente une Iscarie impatiente de recevoir la visite de sa précieuse amie. Alors qu'elle enjoint sa suivante à l'aller quérir, Artemise arrive enfin (**Scène I**). Après un échange de compliments dûment marqué par une surenchère de tournures précieuses, Iscarie propose à son amie de lui faire partager la lecture d'un poulet qu'elle a récemment reçu et dont le style médiocre lui paraît être un merveilleux divertissement (**Scène II**). S'ensuit un interlude entre Isabelle et Beatrix, les suivantes respectives d'Iscarie et d'Artemise : la première se pose en adepte du langage recherché et spirituel de leurs maîtresses dont elle use à loisir, la seconde en accusatrice de son opacité et de son alambiquage excessif. Le débat est interrompu par l'arrivée de Flanquin (**Scène III**), « valet précieux » du Baron de la Taupinière (dont on a évoqué le nom dans la première scène). Venant s'enquérir auprès d'Isabelle de la disponibilité d'Iscarie à recevoir la visite de son maître, il témoigne à la suivante de son amour, en des termes toujours plus excessifs, (**Scène IV**). Retour aux deux amies qui commentent quant à elles la qualité des vers de l'« indigérable » poulet et les comparent à ceux d'un médiocre poème sur « les beaux yeux d'une belle » dont elles admirent la pompe (**Scène V**). Le Baron de la Taupinière fait alors son entrée, débitant à son tour quantité de compliments périphrastiques. Au détour de la conversation, alors qu'il s'enquiert de leurs fréquentations et se livre à des considérations sur la vie mondaine et le « plaisir » qu'il y a à faire figure dans le monde, il leur annonce que Flanquin doit amener un ami poète afin qu'il leur fasse la lecture de deux pièces de sa composition, à la plus grande joie de ses interlocutrices qui déclarent aimer « démesurément les poèmes dramatiques ». On discute évasivement d'une certaine Madame ⁎⁎⁎⁎, dont on dresse un portrait des plus sévères (**Scène VI**). Le poète Picotin finit par faire une entrée remarquablement pompeuse. La compagnie lui demandant son sentiment sur les pièces jouées la saison précédente, il se fait l'écho de la théorie du plagiat de Molière concernant ses *Précieuses*. Picotin évoque également le *Don Garcie* de ce dernier, dont il déplore les incohérences dramaturgiques, avant de se livrer aux éloges dithyrambiques de récentes pièces qu'il passe en revue : seule exception, celle de la pièce représentée par les comédiens du Petit-Bourbon, desquels il dresse un portrait satirique. Vient ensuite le moment de passer à la lecture d'extraits de ses propres œuvres, une tragédie intitulée *Lusse-tu-cru lapidé par les femmes*, bientôt suivie d'un extrait de sa comédie, *Les Noces de Pantagruel* (**Scène VII**). L'arrivée de Monsieur de Greval, annoncée par Isabelle, interrompt cependant « l'apologie » du poète. Les deux précieuses excusent la bourgeoisie de leur voisin, malgré laquelle elles le déclarent être des plus fréquentables. À son plus grand étonnement cependant, Greval reconnaît immédiatement sous les traits du poète le valet de feu Monsieur Durier : contraint à avouer sa supercherie, celui-ci raconte alors son enrôlement dans la troupe de Gilles le Niais. Iscarie, outrée, se tourne vers le baron, attendant de lui une réponse à cette humiliation, seulement pour s'entendre dire qu'elle a été doublement dupée : le baron dévoile sa véritable identité. Il est Gilles le Niais et Flanquin lui aussi n'est autre qu'un de ses acolytes. Les comédiens sont chassés mais s'en vont avec supériorité (**Scène VIII**).
 
 
-### Action scénique des Précieuses ridicules
+### Action scénique des Précieuses ridicules.
 
 La pièce s'ouvre sur l'indignation de La Grange et de Du Croisy vis-à-vis de l'accueil « farouche » que leur ont réservé les deux « pecques de Province » de chez lesquelles ils sortent tout juste. Pour obtenir réparation de cette injure par la vengeance, La Grange suggère de leur jouer un tour : il évoque à cette fin son laquais Mascarille, lequel se pique de galanterie. Le spectateur reste cependant dans l'attente du scénario précis de ce bon tour (**Scène I**), d'autant que La Grange est inopinément interrompu par l'arrivée de Gorgibus. Ce dernier, se rendant rapidement compte du mécontentement des deux prétendants, est renvoyé, pour toute explication, à un entretien avec sa nièce et à sa fille (**Scène II**). Questionnée par Gorgibus, Marotte lui indique que les deux jeunes filles sont dans leur cabinet, occupées à faire de la pommade pour les lèvres, des passe-temps et des dépenses que le bon bourgeois dénonce avec véhémence (**Scène III**). Cathos et Magdelon, interrogées par leur oncle et père, se plaignent du caractère « marchand » de la conduite des prétendants et lui expliquent leurs attentes concernant les prémisses du mariage : des étapes préalables dont elles ont développé le schéma d'après leurs lectures des romans à la mode. Gorgibus sort, outré et bien déterminé à les marier (**Scène IV**), laissant Cathos et Magdelon se désespérer de l'obscurité de son esprit et s'imaginer être de naissance plus noble (**Scène V**). Marotte leur annonce la venue du laquais du Marquis de Mascarille, s'exposant au passage à une leçon de vocabulaire précieux (**Scène VI**). Mascarille, qui fait alors une entrée remarquée sur scène en chaise à porteurs, se livre à un numéro farcesque, refusant de payer ses porteurs et les rossant allégrement (**Scène VII**), sur quoi Marotte vient l'informer de l'arrivée imminente de ses maîtresses (**Scène VIII**). Reçu dans leur chambre basse, Mascarille fait longuement démonstration de son caractère « enjoué », saluant ces dames, complimentant leur mérite et développant pour leur plus grand plaisir des métaphores usées. La conversation s'oriente sur Paris, centre du bon goût et de la galanterie, puis sur les visites respectives de chacun, forçant les jeunes filles à admettre leurs manques de liens dans le monde. Au gré de considérations diverses sur les nouvelles littéraires, Mascarille leur promet d'établir chez elles une « académie des beaux esprits ». Les jeunes filles ayant clamé leur amour des petites pièces galantes, il leur récite ensuite un impromptu de son cru : on s'extasie abondamment à propos ce madrigal dont on décortique les trouvailles et sur lequel Mascarille va jusqu'à pousser la chansonnette, tout en se vantant de ne jamais avoir appris la musique. Il offre ensuite de les mener à la Comédie, à condition qu'elles se montrent enthousiastes et se récrient dûment sur la pièce : c'est l'occasion d'une critique ironique des comédiens de la troupe royale. On admire alors comme il se doit les divers attributs vestimentaires du Marquis, canons et autres plumes (**Scène IX**). Sur ces entrefaites, Marotte annonce la visite du Vicomte de Jodelet, vieil ami du Marquis (**Scène X**). À son entrée, les deux compères se livrent à des effusions déplacées avant de se remémorer leurs souvenirs de guerre, occasion ponctuelle de bouffonnerie et d'indécence, puisque Mascarille pousse le vice jusqu'à offrir de faire tâter ses plaies. A défaut de mener promener ces dames en carrosse, on suggère finalement de donner un bal. Grisé par les flatteries des jeunes filles béates devant tant d'esprit, Mascarille se lance dans une tentative d'impromptu *in praesentia*, qui se solde par un cuisant échec. Arrivent les amies des jeunes filles, invitées pour combler la « solitude » de ce bal fortuit (**Scène XI**). Sur la cadence des violons, les deux fanfarons font démonstration de leurs piètres talents de danseurs (**Scène XII**), jusqu'à l'irruption de Du Croisy et La Grange qui se mettent à les rosser pour les punir, disent-ils, d'avoir fait les hommes d'importance, avant de ressortir aussi vite (**Scène XIII**). Cathos et Magdelon s'étonnent du sort de leurs deux prestigieux invités et les enjoignent à se défendre de l'affront qu'ils ont subi (**Scène XIV**). Les prétendants reviennent (probablement accompagnés de spadassins don la présence n'est pas spécifiée) et révèlent l'identité de leurs laquais en l'illustrant par un effeuillage de leurs vêtements illusoires, laissant les deux jeunes filles hébétées. Les violons réclament leur argent (**Scène XV**). Après leurs sorties, Gorgibus arrive, informé par La Grange et Du Croisy des évènements. Magdelon met Mascarille et Jodelet à la porte. Le faux marquis, dépité, déplore le culte mondain des vaines apparences (**Scène XVI**). Gorgibus bat les violons qui demandent à être payés, prie les jeunes filles d'aller se cacher si elles ne veulent subir le même sort et envoie au diable les petits amusements littéraires (**Scène XVII**).
 
 
-## Simplicité et simplification de l'intrigue farcesque au profit d'une esthétique picturale
+## Simplicité et simplification de l'intrigue farcesque au profit d'une esthétique picturale.
 
 Avec leur acte et leur péripétie uniques, *Les Véritables Précieuses* aussi bien que *Les Précieuses ridicules* dont elles s'inspirent, quoique toutes deux publiées sous le nom de *comédies*, se présentent comme les héritières de la tradition farcesque, dont elles reprennent le principe dramatique le plus basique.
 
@@ -317,7 +317,7 @@ Le résultat est un écartèlement, inouï jusqu'alors, entre le monde des homme
 Ainsi, on assiste dans ces pièces à des scènes banales, où le ton de conversation reste somme toute naturel et semblable à celui des cercles mondains, sans aucune rupture de ton majeure, malgré quelques couacs de la part des imposteurs. Précisons tout de même que l'illusion de réalité est largement mise en cause par la posture de Somaize vis-à-vis des précieuses qu'il présente, posées comme véritables quoiqu'usant d'un langage irréaliste et absolument non crédible. En outre, de tous les usages parodiques d'une société mondaine que déclinait Molière dans sa pièce, permettant au public de s'y reconnaître, Somaize ne retient que quelques rapides allusions (le Baron déclarant par exemple être venu en carrosse) et n'en développe que le goût des mondanités littéraires. Le monde parisien y est beaucoup moins franchement identifiable.
 
 
-## Des *Précieuses ridicules* aux *Véritables précieuses* : génétique d'un « plagiat »
+## Des *Précieuses ridicules* aux *Véritables précieuses* : génétique d'un « plagiat ».
 
 Imitation à peine déguisée des *Précieuses ridicules, Les Véritables précieuses* reprennent donc, on l'a vu, la structure simple du bon tour, héritée de la farce, impliquant la mise en œuvre d'un arsenal obligé de trompeurs et de trompés. Bien que la source d'inspiration soit évidente, trouvant dans la pièce de Molière un noyau fondateur, Somaize lui inflige un traitement sensiblement variable. La liste de personnages et le déroulement de la pièce y sont modifiés, affectés par des intentions d'écriture différentes et la nécessité d'éviter les accusations de plagiat ; un réagencement nécessaire du principe structurel de l'intrigue caractérisé par une nouvelle vague de simplification. Preuve en est, la réduction significative du nombre de scènes d'une pièce à l'autre : s'il y en avait dix-sept chez Molière (bien qu'un bon nombre ne soient que de très courtes scènes de transition), il n'y en a plus que huit chez Somaize. Ne comptant que cent soixante répliques, la pièce de Somaize est loin du gabarit de celle de Molière, avec ses trois cent huit répliques. Au lieu d'une douzaine de personnages, Somaize ne nous en présente que huit. L'intrigue est simplifiée, la pièce considérablement écourtée et, sans vouloir en tirer de conclusions hâtives, passablement appauvrie.
 
@@ -332,7 +332,7 @@ Il faut désormais insérer la raison de l'échec de la tromperie, pour mener à
 Malgré ces divergences, entre réductions et ajouts, la pièce de Somaize fait montre d'un parallélisme certain avec celle de Molière, une symétrie structurelle à laquelle viennent s'ajouter d'évidentes parentés thématiques. Non content d'en reproduire le schéma d'intrigue, l'acte y est de la même façon organisé autour d'une scène centrale, disproportionnellement longue, où hôtesses et invités se livrent à de semblables considérations littéraires et mondaines [149]. De même que Molière retenait l'entrée de Jodelet, Somaize, retardant l'arrivée annoncée du poète jusqu'à la scène VII, construit lui aussi sa pièce de façon graduelle, jusqu'à la désillusion finale des précieuses. Les personnages du baron et de Picotin ne sont qu'une évidente transposition du vicomte et du marquis, même s'ils semblent avoir perdu au passage leur apparence outrancièrement bouffonne. Ils tiennent ainsi aux jeunes femmes les mêmes discours élogieux et entretiennent les mêmes thèmes conversationnels, dont celui de leurs fréquentations. C'est surtout le thème des mondanités littéraires et de leur mauvaise appréciation par une audience peu qualifiée qui est ici retenu et développé. À la déclamation du risible impromptu de Mascarille répond ainsi la lecture de plus longs extraits de textes dramatiques, non moins bouffons. Toute subtilité disparaissant de l'écriture de ces morceaux choisis, Somaize y fait une démonstration abusivement comique d'équivoques (à l'exemple de la conclusion très gaillarde de *La Mort de Lusse-tu-cru lapidé par les femmes* : « je ne sais pas où, / Pour pouvoir me fourrer je puis trouver un trou ») et d'impropriétés langagières (telles que l'incompatibilité entre « âme » et « calcinée » dès les premiers vers des *Noces de Pantagruel*). Ce que Somaize ajoute en revanche dans cette conversation littéraire, c'est un rapport précis de l'actualité culturelle, motivé par son goût pour les propos polémiques. Le discours du poète, interrogé par l'assemblée, a ainsi valeur de témoignage, nous renseignant sur quelques pièces étroitement contemporaines et sur leurs auteurs, en même temps qu'il nous permet encore de juger de l'inimitié et de la malveillance de Somaize envers Molière et sa troupe.
 
 
-## Déboires d'une transcription
+## Déboires d'une transcription.
 
 
 Si jamais traduction fut une trahison, c'est bien celle de Somaize : le malheureux a trouvé le moyen, en rimant cette prose souple et ferme, d'une facture si simple et si large, d'en tirer les vers les plus lourds et les plus plats, les plus pénibles et les plus ternes. [150]
@@ -380,7 +380,7 @@ Par ailleurs, la rime forçant parfois Somaize à ajouter des morceaux de phrase
 Enfin, Somaize est parfois contraint à se séparer de certaines expressions typiquement galantes. Disparaissent ainsi par exemple des mots à la mode tels que *particulier* (« c'est mon talent particulier » devenant au vers 641 simplement « c'est là mon talent ») et le substantif *inclémences*, ou encore le caractéristique groupe nominal « la libéralité de vos louanges », transformé simplement en « votre injuste louange (v. 500), ou bien encore la construction *donner dans le doux de votre flatterie*, arrangée en « donner de notre sérieux / Dedans un compliment » (v.502-503). Parallèlement, Somaize insère ses propres tics de langage : en témoignent les deux occurrences de « stupidité », dont les deux jeunes filles accablent Gorgibus, totalement absente du texte de Molière, ou encore la démultiplication du terme *vulgaire* et de ses dérivés, présents rien moins que huit fois contre seulement deux fois chez Molière. Notons que Somaize est assez habile et sournois pour placer au vers 600, dans la liste énumérative des nouvelles littéraires desquelles tout un chacun doit se tenir informé, une discrète allusion aux accusations dont il accable Molière, au sein de son propre texte : « la pièce de cet autre est un public larcin ». La versification de Somaize mentionne enfin des didascalies dont l'état du texte en prose publié par Molière en janvier 1660 ne gardait pas trace, soit que Somaize se remémore le jeu des comédiens lors des représentations auxquelles il aurait assisté, soit qu'il s'appuie sur des textes tels que celui de *L'Abrégé* de Mme Desjardins. Des didascalies qui se recoupent avec celles indiquées par la réédition des œuvres de Molière en 1682 et nous renseignent ainsi commodément sur le jeu des comédiens, notamment sur le jeu de scènes appuyé dans la scène où les deux compères font montre de leurs blessures de guerre. Un comique de geste qui est essentiel et qui fait toute la saveur de la scène, le texte ne prenant sens qu'en fonction des gesticulations.
 
 
-# Le parler précieux : analyse d'une « fiction linguistique »
+# Le parler précieux : analyse d'une « fiction linguistique ».
 
 
 « *Beatrix* : Dites-moi donc quelle langue est-ce là que parlent nos Maîtresses. Ma foi je n'entends point ce jargon et s'il faut qu'elles continuent à parler de la sorte, elles seront contraintes de nous donner un Maître pour apprendre ce langage et de nous remettre à l'abc. » [159]
@@ -388,7 +388,7 @@ Enfin, Somaize est parfois contraint à se séparer de certaines expressions typ
 Rappelons une évidence : la matière principale du théâtre est le langage. Molière en a bien conscience lorsqu'écrivant ses *Précieuses ridicules* il choisit de développer le motif d'un parler précieux jargonnant et obscur, un motif dont on trouvait déjà trace dans la littérature sur les précieuses depuis ses origines mais toujours rapidement évoqué, comme en passant. Somaize, à sa suite, en fait l'élément fondateur et central de sa propre pièce puis, finalement, de sa carrière littéraire. Mettant dans la bouche de ses personnages un langage d'une obscurité telle qu'il nécessite une traduction en notes, même pour son lecteur contemporain, il forge une langue qui n'a rien de réel et convoque à la fois ses talents de plagiaire et de littérateur. Avec les œuvres de l'abbé de Pure et de Molière, la pièce de Somaize et ses deux dictionnaires marquent effectivement l'apogée de la production satirique consacrée à la prétendue langue des précieuses, une langue fictive qui n'en trouve pas moins ses racines dans les habitudes et les innovations langagières d'une époque attentive au matériau de la langue. Il s'agit donc d'en étudier les principes créateurs, les caractéristiques linguistiques et la part de réalité et de fiction qui la fondent.
 
 
-## Miroir déformant d'un langage galant novateur
+## Miroir déformant d'un langage galant novateur.
 
 Jamais il n'y eut une telle licence comme celle qu'on a prise depuis quelques années ; les mots ne se font plus insensiblement, mais tout exprès et par profusion. [160]
 
@@ -410,12 +410,12 @@ Tous ces traits seront présents, sous forme caricaturale, dans le langage des *
 Par-delà les évidentes manipulations, les déformations caricaturales, la supercherie de Somaize s'avère exemplaire d'une démarche constante de la réflexion des contemporains sur le bel usage et la créativité néologique, qui ne sépare jamais l'examen des « façons de parler » de leurs lieux d'inscription, croisant ainsi inextricablement la question des pratiques discursives de la mondanité triomphante –mais contestée – avec celle des modèles littéraires du « meilleur style ». [167]
 
 
-## Synthèse burlesque des tics galants : les ressorts de la fiction linguistique
+## Synthèse burlesque des tics galants : les ressorts de la fiction linguistique.
 
 Si les affectations galantes sont bien réelles et déjà relevées par certains auteurs, à qui la perspective critique impose d'en rester aux formulations attestées, la visée comique exige de Somaize qu'il crée de toutes pièces ce langage précieux qui n'existe pas plus que « l'institution précieuse » dont on s'amusait à clamer l'existence – telle était du moins la position initiale de Molière, auquel Somaize emprunte une grande partie de ses expressions ou s'inspire de leurs procédés. À partir des tics galants et d'un lexique en vogue recensés par Sorel, mis en situation par l'abbé de Pure puis caricaturés par Molière, Somaize se livre à son tour à un jeu de démultiplication, d'exagération et d'accumulation, renchérissant sur les inventions de son modèle, utilisant les mêmes ressorts, mais certainement avec moins de subtilité. Précisons que la caricature est évidemment plus difficilement appréciable pour nous que pour les contemporains, pour qui elle était nécessairement plus nette, et que la distance temporelle nous empêche souvent de distinguer énumérations plaisantes mais réalistes, accumulations caricaturales et inventions d'auteurs passées dans l'usage. Enfin, même s'il est clair que les tics de langage contemporains sont à l'origine du langage fictif de Somaize, il est difficile de savoir si celui-ci puise davantage dans la réalité ou chez son prédécesseur Molière, tout comme il sera malaisé de discerner dans les relevés d'expressions à la mode que fera Sorel en 1671 s'il s'inspire lui aussi davantage des incongruités de Magdelon, Cathos, Mascarille, Jodelet et leurs congénères que d'une réalité objective [168].
 
 
-### La substantivation : déclinaisons d'une innovation grammaticale
+### La substantivation : déclinaisons d'une innovation grammaticale.
 
 La fiction du langage précieux s'incarne d'abord grammaticalement dans un goût constant pour les adjectifs substantivés, caractéristiques des mondanités littéraires et dont témoignent des auteurs aussi divers que Balzac, Corneille, Mlle de Scudéry ou encore l'abbé de Pure, chez qui les substantifs, prenant la place de l'adjectif et du verbe, visent à « exprimer avec force l'essence des êtres et des choses dont, par le même biais, ils tentent de percer le mystère et de dire la réalité fondamentale » [169].
 
@@ -433,14 +433,14 @@ En second lieu, il ressort à travers le discours des contemporains que ces dern
 Si l'utilisation consciente de « mots à la mode », des mots que les contemporains ont souvent relevés en tant que tels [178], saturait le texte de Molière, ils sont en nettement moins grande concentration chez Somaize [179]. Peut-être cette restriction révèle-t-elle chez lui un déficit de culture littéraire par rapport à son modèle ; toujours est-il qu'il privilégie les créations de toutes pièces. On trouve néanmoins dans son œuvre quelques traces d'expressions en vogue, à l'exemple d'une phrase d'Artemise à la scène II (« il sait tout à fait l'air de la ruelle »), à l'origine de laquelle se trouve la mode des locutions autour du mot *air*, qui se voyaient démultiplier dans *Les Précieuses ridicules* [180]. La locution récente de *pousser les beaux sentiments*, particulièrement appréciée mais souvent moquée et elle aussi déjà adoptée par les précieuses moliéresques, devient chez Somaize « pousser le dernier rude » (sc. II), dans une surenchère d'incongruité. En comparant avec les listes dressées par les contemporains tels que le père Bouhours et Charles Sorel, on remarque plusieurs autres recoupements avec le lexique convoqué par Somaize : ainsi, la vogue du mot *antipode* (présent chez Molière) se traduit par l'usage étonnant de la locution prépositive « à l'opposite », aux côtés de laquelle on trouve également des locutions adverbiales récentes ou particulièrement en vogue telles que « car enfin » et « en vérité » [181], des locutions verbales comme « donner dans » et « demeurer d'accord », le goût pour « l'esprit » et le « raisonnable » et enfin les apostrophes de type « ma chère » (dont on recense pas moins de sept occurrences) et « ma toute aimable ». Commencer une proposition par « pour moi », en soulignant l'importance du point de vue personnel, est également caractéristique des façons de parler attribuées aux « précieuses » : la pièce en donne quatre exemples différents. Ce sont là les principales traces d'un lexique à la mode. Somaize emprunte plus à la langue mondaine ses constructions et un état d'esprit langagier que des exemples précis. Il s'inspire ainsi, sur un plan lexicologique, de la vogue des dérivés par adjonction d'affixes : des constructions qui correspondent à un goût pour les mots longs, « dont le volume syllabique et la masse sonore donnent de l'ampleur à la phrase, volontiers ampoulée » [182]. Dans cette veine se situe les substantifs formés avec le suffixe –*ment* [183], omniprésents dans la pièce, à l'exemple des suivants : *emportement, quittement, branlements, divertissements, empressement, remerciements, commandement, sentiment* (lequel est récurrent), *assaisonnement, écoulement, étonnement*… Autant de « mots à longue queue » dont Beatrix juge l'usage excessif [184]. Enfin, Somaize explore en profondeur le goût pour les tournures novatrices et hardies qu'il n'hésite pas à accumuler. Molière proposait entre autres *donner le bal, être en commodité de, être en confusion* ; Sorel citera *accuser juste* et *faire figure* ; Somaize innove avec *prendre figure, être en pouvoir de, régler une posture, faire des dépenses en beaux discours, lire à pleine bouche, articuler sa voix, exciter son fier contre quelqu'un, dauber sérieusement, pâtir du contrecoup d'un quittement*, etc., etc. Par ailleurs, Somaize prend note de ce que Molière régalait son public de néologismes divers tels *qu'obscénité, incontestable* ou encore *enthousiasmer*. Le raffinement sur le langage passe en effet par la création de mots incongrus qui « font des tours dans l'oreille » [185] : une frénésie créatrice qui là encore recoupe le goût pour les longs mots, qu'ils soient forgés à l'aide d'affixes ou qu'ils soient empruntés à des langages scientifiques ou spécialisés. Les tournures négatives (très nombreuses parce que surenchérissant dans le superlatif elles se montrent plus suggestives que le positif) sont d'abord l'occasion de fournir des composés avec le préfixe négatif *in*- (*inintelligible, inconcevable, inconsidéré*). D'autre part, les contemporains apprécient particulièrement les termes formés avec le préfixe *dé*- ou *des*- [186], sur la base duquel Somaize forge les néologismes *désembarraser* et de *dévulgariser*, auxquels s'ajoutent d'incongrues dérivations de substantifs (*alcoviste, encapuciner, encendrer, enfrangé, alambiquer* [187]) ou de verbes (*partialisés* et *digérable*). Somaize reprend à Molière le verbe *enthousiasmer* qu'il substantive et qui se joint à d'autres mots non pas nouveaux mais empruntés au vocable théologique (*expectation, canonisé*). Il fait en effet entrer dans la langue des précieuses des termes spécifiques provenant d'idiomes spécialisés dont il élargit le sens. Ainsi, l'emploi figuré du barbarisme *stupeficier* s'inspire de *stupéfier*, verbe spécifiquement médical qui désigne l'engourdissement d'une partie du corps et qui ne gagnera que progressivement le sens d'étonnement extraordinaire. Enfin, la philosophie fournit *métempsychose* et *réflexion* [188].
 
 
-### …et surenchères stylistiques
+### …et surenchères stylistiques.
 
 Par ailleurs, caricaturant un langage qui rechigne au vulgaire, à la facilité et à la banalité, Somaize a principalement recours à d'innombrables périphrases qui amplifient la phrase en même temps qu'elles complexifient plus ou moins gratuitement le discours. La quasi-intégralité des tirades de Beatrix à la scène III, véritables catalogues de périphrases, est ainsi fondée sur la critique de cette habitude néfaste qui obscurcit le discours. Ainsi, aux fameuses périphrases moliéresques (le *conseiller des grâces* et les *commodités de la conversation* [189]) répondent chez Somaize les *trônes de la ruelle* et le *peintre de la dernière fidélité*, auxquels succèdent entre autres *les taches avantageuses* (les mouches), *le bouillon des deux sœurs* (le lavement), le *Bâtard d'Hippocrate* (le médecin), *les bras du vieil rêveur* ou *l'empire de Morphée* (le sommeil), *les chers souffrants* (les pieds), *l'élément combustible* (le feu), *les nécessités méridionales* (le dîner), *l'instrument de la curiosité* (le masque), *l'urinal virginal* (le pot de chambre), *l'écoulement de nez* (le rhume) ou encore *l'ameublement de bouche* (les dents), etc. La liste exhaustive serait longue. Si elles se déclinent majoritairement sur un mode nominal, les périphrases viennent parfois étayer la locution verbale : ainsi de « perdre son sérieux » pour rire, ou encore de « dauber sérieusement » pour railler. En outre, notons que, tout comme les pluriels abstraits (*les contentements* qu'espère un amant par exemple), la périphrase peut avoir une valeur euphémique, signifiant par exemple le refus des précieuses à parler de sexe (« Si vous ne souffrez que je goûte avec vous la volupté de l'amour permis », sc. IV).
 
 Enfin, la langue galante aime remotiver le sens de certains termes, parfois anciens, par des emplois métaphoriques et les tournures en vogue s'éloignent de plus en plus de leurs acceptions concrètes. Ainsi s'impose particulièrement dans le siècle l'emploi figuré de *briller* et *brillant* (au sens de briller dans la conversation) et ses corollaires *clartés* et *lumières* au sens de lumières de l'esprit [190], dont le dernier se retrouve chez Somaize et donne lieu à deux métaphores liées à l'image de l'obscurité de l'esprit [191], largement inspirées du dialogue moliéresque. On retrouve également chez Somaize, comme chez son modèle, le motif des métaphores saugrenues « fondées sur le heurt du propre et du figuré », « de l'animé et de l'inanimé » et « sur le choc des registres au sein de métaphores filées » [192]. Ainsi, parmi les métaphores les plus hardies figurent notamment les suivantes : « faire bouillonner le bénin cerveau de mon maître » (sc. IV), « le temps a déjà marqué deux pas depuis que je vous attends » (sc. II), « dire … qu'il est monté des incertitudes à la gorge » (sc. III), « elle a un œuf caché sous la cendre » (sc. VI), « un bain intérieur me serait fort utile » (sc. IV) ou encore « l'on y en pourrait trouver aussi dont la neige du visage se fond » et « qui vous servent de mouche » (sc.VI). Notons que notre auteur aime mêler à la littérarité de la figure métaphorique un registre (bassement) corporel (« faire faire diète à mes yeux de leurs astres tutélaires », sc. IV) ou pire encore, bourgeois (« Vous avez dix mil livres de rentes en fonds d'esprit, qu'aucun créancier ne peut saisir ni arrêter », sc. VI). D'ailleurs, de la même façon que Molière déshéroïsait la métaphore amoureuse sur les yeux des jeunes filles, Somaize brode jusqu'à l'absurde celle, si chère à ses contemporains, de la « flamme » qui consume le cœur amoureux (« Il faut que je lui fasse connaître qu'elle m'encapucine l'âme et qu'elle m'encendre le Cœur », sc. IV) et mêle au compliment amoureux des termes de culture (« L'amour a terriblement deffriché votre cœur » (sc. IV).
 
 
-### Modalité hyperbolique
+### Modalité hyperbolique.
 
 Enfin, pour avoir une vision panoramique du langage des précieuses, il faut en évoquer la dimension ultra-hyperbolique, ultra-augmentative, amplifiant les habitudes de gens « pour lesquels l'exagération et le superlatif, dans le compliment comme dans la critique, sont à la base du discours quotidien » [193]. On l'a vu, le goût des longues phrases et des longs mots, incarné notamment dans la création de périphrases et de néologismes étonnants, s'intègre à la dimension augmentative du langage galant-précieux. En conséquence, les longs substantifs composés et les mots tels que *superfluité* et *finesser* sont relayés par des adverbes volumineux en -*ment*, dont l'emploi systématique remplit souvent une double fonction par leur valeur intensive et dont on trouve toute une déclinaison dans *Les Véritables précieuses : merveilleusement, aimablement, avantageusement, scientifiquement* (lequel constitue par ailleurs un néologisme), *délicatement* [194], *plaisamment, sérieusement, entièrement, démesurément, aucunement, profondément* et *extrêmement* (également présent sous la forme de *extrêmement peu*). N'oublions pas l'incroyable *emphibologétiquement* de Picotin, forgé à partir de la figure grammaticale équivoque de l'amphibologie [195]. On attribue tout particulièrement aux précieuses l'emploi d'intensifs tels que furieux, effroyable, terrible, horrible et leurs dérivés, mais ils s'avèrent finalement plus représentés dans les *Précieuses ridicules* que dans les *Véritables précieuses*, dans lesquelles on ne recense qu'une *furieuse impatience* et un *désordre terrible*, une occurrence de *furieusement* et une autre de *terriblement* [196].
 
@@ -463,17 +463,17 @@ En outre, les procédés propres à la nature de catalogue du *Dictionnaire*, à
 Le discours-source, littéraire ou conversationnel, se voit ainsi converti en langue, par le jeu factice de la reformulation paraphrastique : l'équivalence, initialement construite à des fins communicationnelles (production d'un effet littéraire, ou trace d'un *ethos* ingénieux en conversation), est alors réduite à la fiction d'une pure traduction synonymique. C'est cet ensemble de manipulations caricaturales, bien attesté dans la tradition polémique, qui constitue ici ce qu'on pourrait nommer l'« effet-dictionnaire ». Qu'à la lecture s'ajoute, par le simple fait de la succession linéaire, l'inévitable impression d'entassement et de condensation, et l'on aura la mesure – et les limites – de la réussite comique de l'entreprise de Somaize, ainsi que de l'invraisemblance de son « lexique français-précieux ». [200]
 
 
-## Intertextualité lexicale
+## Intertextualité lexicale.
 
 Pour l'élaboration du lexique de son second dictionnaire, Somaize puisera dans des sources littéraires diverses, allant de Voiture à Corneille. Ce n'est pas encore le cas lorsqu'il rédige le premier, pour l'écriture duquel sa récente pièce fournit un véritable « stock » lexical devant déjà beaucoup aux œuvres de ses prédécesseurs.
 
 Sorel avait en effet fourni à ses lecteurs, dès 1644 dans ses *Lois de la galanterie* et surtout dans la version augmentée de 1658, une liste d'expressions en vogue, dont Molière avait su s'inspirer et qui recoupe bien souvent le *Dictionnaire* de Somaize : ainsi par exemple de la locution *faire figure*, ou encore des différents modes d'expression du haut degré : adverbes en –*ment* comme *furieusement, épouvantablement, terriblement*, emploi hyperbolique de l'adjectif *dernier*, etc. [201] Molière a su tirer de ces relevés de quoi épaissir sa caricature. Quant à Somaize, on l'a vu, c'est bien plus les procédés et les logiques de création linguistique que des expressions littérales qu'il reprend à son modèle. Ainsi, s'il puise chez Molière çà et là l'idée de quelques mots et tournures en vogue, quelques locutions ponctuelles, ses expressions les plus hardies sont totalement originales et semblent émerger de son propre imaginaire. Parmi les créations propres à Molière, on n'en retrouve très nettement que deux dans *Les Véritables précieuses* : celle consistant à comparer Paris à un « Bureau », ces plaques tournantes du commerce, et l'image relative à l'épaisseur de l'esprit, laquelle n'est pas tant propre à l'imaginaire moliéresque qu'à celui de son époque. En revanche, lorsqu'il doit s'adonner au recensement des expressions prétendument précieuses qu'il fera figurer dans son *Dictionnaire*, Somaize puise désormais à loisir chez Molière. Sur les deux cent trente-sept entrées de cette première édition du *Dictionnaire des précieuses*, trente-deux sont ouvertement et quasiment littéralement empruntées à la prose des *Précieuses ridicules* [202]. Mais surtout, faisant flèche de tout bois, Somaize y met encore davantage ses propres créations à profit : quatre-vingt-sept tournures explicitées dans le dictionnaire sont directement tirées du texte des *Véritable précieuses.* Ces multiples réutilisations et recoupements, trop précis pour être aléatoires, sont en eux-mêmes la preuve que ce soi-disant jargon précieux n'est que pure invention, celle de Somaize, perçue comme une sorte d'opportunité commerciale et forgée à partir de quelques bases disparates parmi lesquelles la plus importante est la source moliéresque.
 
 
-# Comparaisons lexicographiques
+# Comparaisons lexicographiques.
 
 
-## Recoupements lexicaux entre la pièce de Somaize et son Dictionnaire
+## Recoupements lexicaux entre la pièce de Somaize et son Dictionnaire.
 Les Véritables Précieuses | Le Grand Dictionnaire des Précieuses [203] (1660)
 « Je suis en humeur de pousser le dernier rude contre vous » (p.3, sc.II). [204] | Je me suis mis en colère contre mademoiselle une telle : J'ai poussé le dernier rude contre mademoiselle une telle.
 « Le temps a déjà marqué deux pas depuis que je vous attends » (p.3, sc.II). | Il y a deux heures que nous sommes ici : Le temps de quatre postes s'est déjà passé depuis que nous sommes ici.
@@ -566,7 +566,7 @@ Les Véritables Précieuses | Le Grand Dictionnaire des Précieuses [203] (1660
 
 
 
-## Recoupements lexicaux entre la pièce de Molière et la première édition du *Dictionnaire* de Somaize
+## Recoupements lexicaux entre la pièce de Molière et la première édition du *Dictionnaire* de Somaize.
 Les Précieuses ridicules (Molière) | Les Précieuses ridicules nouvellement mises en vers | Le Grand dictionnaire des Précieuses (1660)
 « Mon Dieu, ma chère, que ton père a la forme enfoncée dans la matière ! » (sc. V). | « Que ton père a la forme avant dans la matière » (v.297, sc. V). | Vous avez l'âme matérielle : Vous avez la forme enfoncée dans la matière.
 « Elle cette odeur est tout à fait de qualité » (sc. IX). |  | Cette odeur est tout à fait bonne : Cette odeur est tout à fait de qualité.
@@ -604,7 +604,7 @@ Les Précieuses ridicules (Molière) | Les Précieuses ridicules nouvellement m
 
 
 
-## Expressions communes à la pièce de Somaize et à son second dictionnaire
+## Expressions communes à la pièce de Somaize et à son second dictionnaire.
 Les Véritables Précieuses | Le Grand Dictionnaire des précieuses, historique, poétique, géographique etc. (1661)
 « C'est une âme du premier ordre » (p.64, sc. VIII). | Une grande âme : Une âme du premier ordre, et véritablement souveraine. (De Bélisandre Balzac).
 « Quand les filles et les garçons ont donné dans l'amour permis, qui est selon les langage de vos Précieuses le mariage » (p.13, sc. III). | Se marier : Donner dans l'amour permis. (De Néophise Mme de Nouveau.)
@@ -614,7 +614,7 @@ Les Véritables Précieuses | Le Grand Dictionnaire des précieuses, historique
 
 
 
-## Expressions uniquement relevées dans *Les Véritables Précieuses*
+## Expressions uniquement relevées dans *Les Véritables Précieuses*.
 « Ce n'est point un esprit de marguillier » (p.64, sc. VIII).
 « Celles-là sont graves par leur antiquité » (p. 33, sc.VI).
 « Les troupes auxiliaires de leur esprit soutiennent assez leurs ambiguïtés d'appas » (p. 33, sc.VI).
@@ -629,7 +629,7 @@ Les Véritables Précieuses | Le Grand Dictionnaire des précieuses, historique
 
 
 
-## Expressions de Molière réutilisées par Somaize dans *Les Véritables précieuses* et dans le *Dictionnaire*
+## Expressions de Molière réutilisées par Somaize dans *Les Véritables précieuses* et dans le *Dictionnaire*.
 Les Précieuses ridicules (Molière) | Les Précieuses ridicules nouvellement mises en vers | Les Véritables Précieuses | Le Grand dictionnaire des Précieuses (1660)
 « Que son intelligence est épaisse » (sc. V) | « Qu'il a l'intelligence épaisse » ,(v.298, sc. V) | « Vous tirer de l'erreur où vous a précipité l'épaisseur de votre esprit » (p.11) | Concevoir mal les choses : Avoir l'intelligence épaisse.
 « Paris est le grand bureau des merveilles, le centre du bon goût, du bel esprit et de la galanterie » (sc. IX) | «  Tout le monde est d'accord, qu'il est rempli d'appas, / Que c'est le grand Bureau, de toutes les merveilles » (v.536-537, sc. IX) | « Vous possédez entièrement le vent du Bureau » (p.31, sc.VI) | Il faudrait n'avoir point de raison pour ne pas confesser que toutes les bonnes choses abondent dans Paris : Il faudrait être l'antipode de la raison pour ne pas confesser que Paris est le grand bureau des merveilles et le centre du bon goût.
@@ -637,12 +637,12 @@ Les Précieuses ridicules (Molière) | Les Précieuses ridicules nouvellement m
 
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 *Les précieuses ridicules, comédie nouvellement mises en vers*, n'ont connu qu'une seule édition. Le texte des *Précieuses ridicules* a quant à lui été réédité en septembre 1660 (Les Veritables Pretieuses, comédie, Seconde édition reveuë, corrigée et augmentée d'un dialogue des deux Pretieuses, sur les affaires de leur communauté, Jean Ribou). Le texte présenté est établi à partir de la première édition. Les variantes dénombrées dans le texte de la seconde édition sont indiquées en notes. Le *Dialogue* ajouté à la seconde édition est reproduit en Appendice.
 
 
-## Description physique des exemplaires
+## Description physique des exemplaires.
  * – *Les Veritables pretieuses. Comédie*, in-12°, XII-71-I pages. Volume conservé à la Bibliothèque Carré d'Art (Nîmes, France), sous la cote B301896101_008344_45_01.
 
 Le volume se présente comme suit :
@@ -691,7 +691,7 @@ La page de titre se présente comme suit :
 LES / PRETIEUSES / RIDICULES / COMEDIE. / REPRESENTE'E / *au Petit Bourbon.* / NOUVELLEMENT / *mises en Vers* / Fleuron du libraire / A PARIS, / Chez *Jean Ribou*, sur le / Quay des Augustins à / l'Image S. Louis. / Filet / M. DC. LX. / *AVEC PRIVILEGE DU ROY.*
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons reporté la pagination originale entre crochets à droite ou au milieu du texte en prose, de même que les signatures, qui indiquent chaque début de cahier. En revanche, nous n'avons pas retranscrit la réclame, dont la pratique consiste à annoncer en bas de page, à la fin de chaque cahier, le premier mot du cahier suivant, entre crochets.
 
@@ -708,7 +708,7 @@ Nous avons mis les didascalies entre parenthèses en conservant l'italique.
 Nous avons corrigé les coquilles orthographiques et grammaticales détaillées ci-après, ainsi que ce que nous avons estimé être des coquilles de ponctuation.
 
 
-### Dans Les Véritables Précieuses
+### Dans Les Véritables Précieuses.
 
 En marge de son texte, Somaize a lui-même rédigé des notes de vocabulaire afin d'éclaircir certains termes de son langage précieux. Nous avons regroupé celles-ci entre parenthèses, à la fin de chaque tirade concernée.
 
@@ -789,7 +789,7 @@ Pour une meilleure compréhension, nous avons rétabli l'orthographe commune des
 Nous avons également homogénéisé l'orthographe du prénom Isabelle, qui apparaissait régulièrement sous la forme « Isabele ».
 
 
-### Dans Les Précieuses ridicules nouvellement mises en vers
+### Dans Les Précieuses ridicules nouvellement mises en vers.
 
 Nous avons suivi la leçon de cette unique édition.
 
@@ -1063,7 +1063,7 @@ Par exemple, il y en a dans la page 59 devant le 5. vers, où le nom de *Mascari
 Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis qu'à peine le Dictionnaire des Pretieuses est en vente, & cette Comedie achevée d'imprimer, que de Luines, Sercy & Barbin, malgré le Privilege que Monseigneur le Chancelier m'en a donné, avec toute la connoissance possible, ne laissent pas de faire signifier une opposition à mon Libraire : comme si jusques icy les Versions avoient esté defenduës, & qu'il ne fust pas permis de mettre le *Pater noster* François, en vers.                    ****
 
 
-## LES PERSONNAGES. [6]
+## LES PERSONNAGES. [6].
  – LA GRANGE,
  – DU CROISY [7],Amans⁎ rebutez.
  – GORGIBUS [8],Bon Bourgeois.
@@ -1079,7 +1079,7 @@ Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis q
  – VIOLONS                                 
 
 
-## Acte I
+## Acte I.
 
 
 ### SCENE I.
@@ -1089,7 +1089,7 @@ LA GRANGE, DU CROISY.
     DU CROISY.
 Seigneur [12], la Grange.  
 
-    LA GRANGE
+    LA GRANGE.
     He bien ?  
 
     DU CROISY.
@@ -1217,13 +1217,13 @@ Dedans leur Cabinet. [32]
     GORGIBUS.
         Qu'est-ce qu'elles y font ?  
 
-    MAROTTE. 
+    MAROTTE.
 Pour les levres Monsieur,  
 
     GORGIBUS.
     Et quoy ?  
 
-    MAROTTE. 
+    MAROTTE.
         De la pommade  
 
     GORGIBUS.
@@ -1462,7 +1462,7 @@ Que ma cousine & moy nous avons pris sans peine,
 Ont des attraits en eux, dont vous devez d'abord⁎  
 Sans aucun contredit estre avec moy d'accord.  
 
-    GORGIBUS. 
+    GORGIBUS.
 Escoutez toutes deux, il n'est qu'un mot qui serve [64],  
 Quand je dis une chose, il faut que l'on l'observe,  
 Et je ne pretens pas tomber jamais d'accord,  
@@ -1614,7 +1614,7 @@ En luy communiquant de trop pres vostre image.
 MASCARILLE, DEUX PORTEURS,
 
 
-    MASCARILLE
+    MASCARILLE.
 (dans sa chaise faisant arrester ses Porteurs [82].)
 
 Là, là porteurs, hola, là, là, là, là, hola,  
@@ -1626,7 +1626,7 @@ Dame, c'est que la porte est estroitte d'entraille [84].
 Vous avez commandé, que l'on entrast icy,  
 Nous avons obey.  
 
-    MASCARILLE 
+    MASCARILLE.
 (sortant de sa chaise.)
 
         Je le crois bien aussi,  
@@ -1654,7 +1654,7 @@ Hem ?
         Que vous  
 Nous donniez de l'argent.  
 
-    MASCARILLE *(luy donnant un soufflet.*) [88]
+    MASCARILLE *(luy donnant un soufflet.*) [88].
         Quelle insolence ?  
 Demander de l'argent, à ceux de ma naissance.  
 
@@ -1666,7 +1666,7 @@ Et vostre qualité⁎, nous fait elle disner⁎ ?
 Ah ! je vous apprendray coquins, à vous connoistre⁎,  
 Vous osez vous marauts ? joüer à vostre Maistre.  
 
-    1. PORTEUR *(prenant un des bastons de sa chaise.)*
+    1. PORTEUR *(prenant un des bastons de sa chaise.)*.
 Ça viste, payez-nous ? [89]  
 
     MASCARILLE.
@@ -1725,7 +1725,7 @@ MAGDELON, CATHOS
 MASCARILLE, ALMANZOR.
 
 
-    MASCARILLE, *(apres avoir salué.* [93])
+    MASCARILLE, *(apres avoir salué.* [93]).
         Mes Dames [94] mon audace  
 Poura vous estonner ; mais cette aymable grace  
 Que l'on admire en vous, vous cause ce malheur :  
@@ -1760,7 +1760,7 @@ Car enfin nous craignons de tomber dans le piege.
     CATHOS.
 Mais ma chere, il faudroit faire apporter un siege [98].  
 
-    MAGDELON. *(à Almanzor.)*
+    MAGDELON. *(à Almanzor.)*.
 Voiturez nous icy, viste, petit garçon,  
 Les commoditez de la conversation [99].  
 
@@ -2273,7 +2273,7 @@ Sentir à ses Autheurs, tous les attraits d'un poësme,
 Et les choses souvent, ne valent du tout rien,  
 S'ils ne sont dans leur jour, & ne se disent bien.  
 
-    MASCARILLE *(monstrant le ruban de ses chausses.)*
+    MASCARILLE *(monstrant le ruban de ses chausses.)*.
 Ma petite oye [160] est elle à l'habit congruante [161] ?  
 
     CATHOS.
@@ -2287,7 +2287,7 @@ N'est-il pas bien choisy ?
         Furieusement bien  
 C'est Perdrijon [162] tout pur.  
 
-    MASCARILLE *(estallant ses canons.)*
+    MASCARILLE *(estallant ses canons.)*.
         Ne me direz vous rien  
 Aussi de mes canons ? ont ils l'heur⁎ de vous plaire  
 Dites, que vous en semble ?  
@@ -2309,7 +2309,7 @@ Jamais d'ajustement veu porter l'elegance,
 Dedans un si haut point. Que vous donnez d'esclat  
 A ce que vous avez.  
 
-    MASCARILLE *(luy donnant ses gands à sentir.)*
+    MASCARILLE *(luy donnant ses gands à sentir.)*.
         Mais de vostre odorat  
 Que la reflexion dessus ces gands s'attache.  
 
@@ -2322,7 +2322,7 @@ Qu'ils sentent en effet, & terriblement bon.
 Je n'ay point respiré, depuis que je suis née,  
 D'odeur, qui me parût mieux conditionnée [165].  
 
-    MASCARILLE *(luy faisant sentir ses cheveux.)*
+    MASCARILLE *(luy faisant sentir ses cheveux.)*.
 Et celle-là ?  
 
     MAGDELON.
@@ -2332,7 +2332,7 @@ Je sens qu'elle me plaist, & sens que je l'estime,
 A cause qu'elle est bonne, & qu'enfin le sublime  
 En est certes, touché délicieusement.  
 
-    MASCARILLE *(monstrant ses plumes.)*
+    MASCARILLE *(monstrant ses plumes.)*.
 Vous ne me dites rien de mes plumes [166], comment  
 Les trouvez-vous, enfin ?  
 
@@ -2356,7 +2356,7 @@ Pour tout ce qui me sert, en mon habillement,
 Et jusqu'à des chossons [169], je n'en puis d'ordinaire  
 Souffrir, s'ils ne sont faits, de la bonne ouvriere.  
 
-    MASCARILLE *(s'escriant brusquement.)*
+    MASCARILLE *(s'escriant brusquement.)*.
 Mes Dames, ahy, ahy, ahy, de grace doucement,  
 Ce n'est pas Dieu me damne [170], en user prudammant,  
 De vostre procedé⁎, j'aurois lieu de me plaindre,  
@@ -2436,7 +2436,7 @@ JODELET, MASCARILLE, CATHOS, MAGDELON, MAROTTE.
     MASCARILLE.
 Ah ! Vicomte,  
 
-    JODELET *(s'embrassant l'un l'autre.)*
+    JODELET *(s'embrassant l'un l'autre.)*.
     Ah ! Marquis,  
 
     MASCARILLE.
@@ -2450,7 +2450,7 @@ Et la joye [174] que j'ay, mon visage la monstre.
 Baise moy donc encor, Vicomte, baise moy,  
 Je t'en conjure⁎ [175].  
 
-    JODELET *(l'ayant baisé.)*
+    JODELET *(l'ayant baisé.)*.
         Il t'en faut de plus doux ma foy.  
 
     MAGDELON.
@@ -2481,13 +2481,13 @@ De la galanterie.
 Doit estre comme grande, ensemble & fortunée,  
 Marquée dedans nostre almanach [178].  
 
-    MAGDELON *(à Almanzor.)*
+    MAGDELON *(à Almanzor.)*.
         Petit garçon,  
 Quoy vous faut-il tousjours, faire vostre leçon,  
 Ne voyez-vous pas bien surcroist de compagnie,  
 Et qu'il faut un fauteuil ?  
 
-    JODELET *(s'assit.)*
+    JODELET *(s'assit.)*.
         C'est sans ceremonie.  
 
     MASCARILLE.
@@ -2582,7 +2582,7 @@ Que j'en porte la marque encore ; mais de grace
 
 Tastez vous sentirez le coup, voila la place.  
 
-    CATHOS. *(ayant porté la main.)*
+    CATHOS. *(ayant porté la main.)*.
 La cicatrice est grande.  
 
     MASCARILLE.
@@ -2600,13 +2600,13 @@ Aussi force lauriers.
         Je receus ce coup-là  
 Ma derniere campagne [194].  
 
-    JODELET *(à Cathos.)*
+    JODELET *(à Cathos.)*.
         Ah ! tatez donc voila  
 Encore un autre coup, je l'eus à Graveline  
 Et depuis j'ay souffert d'une fievre maligne  
 De fort aspres douleurs.  
 
-    MASCARILLE. 
+    MASCARILLE.
 (Mettant la main sur le bouton de son haut de chausse.)
 
         Moy je vais vous monstrer  
@@ -2648,7 +2648,7 @@ Aussi que vous viendrez.
     CATHOS.
         He ! bien nous le voulons.  
 
-    MASCARILLE
+    MASCARILLE.
 Ayons donc pour danser icy les violons.  
 
     JODELET.
@@ -2810,7 +2810,7 @@ Sont-ils là ?
         C'est trop estre à la fin  
 Sur ses pieds. Allons, mes cheres, prenez place.  
 
-    MASCARILLE *(dançant luy seul comme par prelude.)*
+    MASCARILLE *(dançant luy seul comme par prelude.)*.
 La la la la la la.  
 
     MAGDELON.
@@ -2821,7 +2821,7 @@ Et la taille elegante.
         Et la mine je croy  
 De dancer proprement.  
 
-    MASCARILLE *(ayant pris Magdelon.)*
+    MASCARILLE *(ayant pris Magdelon.)*.
         Ma franchise⁎ avec moy,  
 Aussi bien que mes pieds va dancer la courante [206].  
 Violons en cadence, ah ! cadence pesante.  
@@ -2832,7 +2832,7 @@ Quoy donc, ne sçauriez vous jouër d'une autre sorte,
 Et de mesure la, la la la la la la.  
 La ferme, ô violons de village.  
 
-    JODELET *(dançant en suite.)*
+    JODELET *(dançant en suite.)*.
         Oh ! hola ?  
 Messieurs, ne pressez pas si fort vostre cadence ?  
 Je ne fais que sortir de maladie.  
@@ -2853,7 +2853,7 @@ MASCARILLE.
 Trois heures sont desja passées, faineans,  
 Depuis que nous cherchons de tous costez. Ah ! lasche ?  
 
-    MASCARILLE *(se sentant battre.)*
+    MASCARILLE *(se sentant battre.)*.
 Ahy, ahy, ahy, je n'ay point ouy Monsieur, que je sçache  
 Que les coups en seroient.  
 
@@ -2996,17 +2996,17 @@ Quelle confusion.
     MAGDELON.
         J'en suis toute saisie !  
 
-    LES VIOLONS *(au Marquis.)*
+    LES VIOLONS *(au Marquis.)*.
 Donnez nous de l'argent, je n'entends point ce-cy,  
 Lequel donc de vous deux nous doit payer icy ?  
 
-    MASCARILLE *(le premier vers à part)*
+    MASCARILLE *(le premier vers à part)*.
 Quand je vois ce revers, pour moy, je meurs de honte,  
 Demandez si vous plaist à Monsieur le Vicomte.  
 LES VIOLONS (se tournent vers Jodelet).
 
 
-    JODELET *(le premier vers à part.)*
+    JODELET *(le premier vers à part.)*.
 D'un semblable revers mes sens sont esbaïs.  
 Demandez si vous plaist à Monsieur le Marquis.  
 
@@ -3070,7 +3070,7 @@ De recevoir enfin de vous, ce qu'il nous faut :
 Car puisque tout travail merite son salaire  
 Il faut payer celuy que nous venons de faire  
 
-    GORGIBUS *(en les battant.)*
+    GORGIBUS *(en les battant.)*.
 Je m'en vais maintenant tous deux vous contenter  
 Et c'est icy l'argent que je vous veux conter.  
 Et vous qui tous les jours faites tant d'incartades.  
@@ -3103,10 +3103,10 @@ Les Exemplaires ont esté fournis.
 Achevé d'imprimer le 12. Avril 1660.
 
 
-# Lexique des Prétieuses ridicules mises en vers⁎ Abord (d')Aussitôt, tout de suiteV. 258.Abord que (d')Aussitôt queV. 418.Abord (dans l')Tout d'abordV. 123.⁎ Air (l')Les manières, « manière d'agir, de parler, de vivre » (Furetière) V. 113.⁎ AdventureÉvènementV. 789.⁎ Aman(t) sSoupirantsPersonnages ; v.221AmoureuxV. 440.⁎ AmitiéProfonde affectionV. 833.⁎ Amuser (s')Prendre son tempsV. 599AmusementPerte de temps inutileV. 1087⁎ ApparenceVraisemblanceV. 309Apparent« Qui paraît conforme à la raison, sensé » (Huguet)V. 711⁎ AppasCharme, attraitÉlégie, v.275 ; v.436 ; v. 536 ; v.635 ; v.1008Plus précisément, « se dit figurément en choses morales de ce qui sert à attraper les hommes » (Furetière)V. 451.⁎ ArdeurPassionV. 148VivacitéV. 919EmpressementV. 100.⁎ ArtificeRuseV. 425⁎ AveuApprobation, « protection, ordre ou consentement donné » (Furetière)Élégie ; v.163.⁎ BonheurHasard, rencontre heureuseÉpître.⁎ BruitRéputation, renomméeV. 474 ; v.680.⁎ Cavalier« Aisé, libre, galant, honnête, noble, qui n'est point assujetti aux règles » (Richelet)V. 575.A la cavalière« D'un air cavalier, libre et aisé » (Richelet), sans instrumentV. 630.⁎ CeansTerme déictique qui désigne le lieu où l'on estV. 313 ; v. 776 ; v.975. ⁎ Chaleur« Passions passagères qui viennent par un prompt mouvement, ou qui sont attribuées à l'âge, ou au tempérament » (Furetière)V. 639.⁎ CommerceÉchangeV. 483. ⁎ Complaisance« Déférence aux sentiments et aux volontés d'autrui. La complaisance est d'ordinaire accompagnée de flatterie » (Furetière)V. 399.⁎ Confesser« Reconnaître une vérité particulière » (Furetière)V. 73 ; v.179 ; v.743AvouerV. 5 ; v.731.⁎ Conjurer« Prier avec instance et fortement au nom de ce que l'on respecte le plus, de ce qu'on a de plus cher » (Furetière)V. 671 ; v.684 ; v.796.⁎ ConnoistreSavoirV. 25Connoistre (se)Rester à son rangV. 364 ; v.982.⁎ Cracher« Se dit figurément des choses qui sortent de la bouche mal à propos, soit injures, reproches, soit mauvaises citations » (Furetière)V. 16.⁎ Crayon (ou craion)« Portrait, tableau qu'on fait des belles qualitez d'une personne » (Richelet)Élégie.⁎ CruelDouloureuxV. 135.⁎ Debiter« On dit figurément, qu'un homme débite bien, pour dire, qu'il dit bien ce qu'il dit, qu'il récite agréablement » (Furetière), sans nuance péjorativeV. 136.⁎ DescrierDévaloriserV. 249.⁎ Despit« Sorte de courte colère, fâcherie, déplaisir » (Richelet)V. 371.⁎ DevelopperRévélerV. 306.⁎ DiscretionJugement, discernementPréface.⁎ DisnerDéjeunerV. 363.⁎ DisputerDébattre, contester en argumentantV. 443.⁎ Doute (sans)AssurémentV. 23 ; v.306 ; v.554 ; v.586 ; v.743 ; v.829 ; v.933.⁎ Douteux« Problématique, incertain » (Furetière)Préface.⁎ EmpirePouvoirÉlégie.⁎ EnnuiFâcherie, chagrin violent, désespoirV. 1052.EnflamméPassionné, ému par la passion amoureuseV. 215.⁎ EntendreComprendreV. 232ÉcouterV. 2 ; v.129⁎ EstonnerEffrayerÉlégie ; V. 409S'émerveillerTrouver estrangeV. 301Causer de l'admirationV. 642Estonné(e)Admiratif(ve)V. 654EstonnementSurprise causée par quelque chose d'étrange, d'admirableV. 243⁎ EstrangeMonstrueuxÉpître, v. 237 ; v. 239 ; v.968ExtraordinaireV. 908EstrangementExtraordinairementV. 299⁎ Exact« Celui qui est ponctuel, qui observe toutes les précisions requises pour bien faire, pour examiner quelque chose. Il faut être exact à tenir ce qu'on a promis » (Furetière)V. 683.⁎ FantaisieImaginationV. 174.⁎ Fatalement« Qui doit arriver nécessairement, arrêt de la destinée » (Furetière)V. 145⁎ FeuAmourV. 155.⁎ FlammeAmour, passionV. 162 ; v.170 ; v.1004 ; v.1030 ; v.1050.⁎ Folastre« Faire des actions, ou avoir des entretiens folâtres, plaisants, agréables, peu sérieux » (Furetière)V. 872.⁎ FranchiseLibertéV. 412 ; v.964.⁎ FrotterBattreV. 1080.⁎ GageurePariV. 983GagerParierV. 200.⁎ Genie« Talent naturel, disposition qu'on a à une chose plutôt qu'à une autre » (Furetière)V. 654.⁎ Grace« Toute sorte de don, de libéralité, de bon office ou plaisir » (Furetière)V. 58.⁎ Gredin« Gueux, misérable qui est de la lie du peuple » (Furetière)V. 19 ; v.219.⁎ HazarderRisquerPréface.⁎ HeurBonheurV. 729.⁎ Humeur« Résolution, disposition de l'esprit » (Furetière)V. 121.⁎ HymenDésigne poétiquement le mariageV. 131.⁎ Industrie« Adresse de faire reüssir quelque chose, quelque dessein, quelque travail » (Furetière)V. 197.⁎ InjusteIllégitime, infondéeV. 400.⁎ IrregulierCe qui n'est pas dans les formes, qui est non conforme aux règlesV. 93 ; v.218.⁎ JustementÀ proprement parlerV. 185À juste titreV. 561PrécisémentV. 597.⁎ Loüer (se)Se vanter, se glorifierV. 36.⁎ Meschant (adj.)MauvaisPréface.⁎ MurailleMurV. 348.⁎ Paroistre« Se faire distinguer des autres, éclater davantage » (Furetière)V. 578 ; v.718S'exposer en public, paraître dans le mondeV. 454 ; v.981.⁎ PieceBon tourV. 37 ; v.1045.⁎ Présent (à)MaintenantV. 330 ; v. 897Pour l'instantV. 57.⁎ Pretendre (tr.)Aspirer à quelque choseV. 103.⁎ Procedé« Manière d'agir d'une personne envers une autre » (Furetière)V. 6 ; v.92 ; v.188 ; v.207 ; v.769 ; v.1054.⁎ Prud'hommieHonnêtetéV. 427.⁎ QualitéRang, haute condition socialeV. 363 ; v. 622.⁎ RaisonnementDiscours, réflexionV. 1027.⁎ RudesseQualité de ce qui choque les sens V. 248.⁎ Sanglant« Fâcheux, crüel, rude » (Richelet)V. 1045 ; v.1046.⁎ SoinsSoucis, inquiétudesV. 820.⁎ SouffrirS'accommoder de, consentirV. 325 ; v.265.⁎ Stupidité« Pesanteur d'esprit » (Ac, Fr., 1694), « bêtise, qualité de l'ame qui la rend insensible et incapable de raisonnement » (Furetière)V. 241 ; v.296.⁎ Surpris(e)Saisi(e)Élégie.⁎ Tout à l'heureTout de suiteV. 367 ; v. 380 ; v. 918.⁎ Transport« Trouble ou agitation de l'âme par la violence des passions » (Furetière)V. 639.⁎ VulgaireOrdinaire, communÉpître ; v. 242 ; v. 622 ; v.713 ; v.778De manière communeV. 316VulgairementCommunémentV. 580.
+# Lexique des Prétieuses ridicules mises en vers.⁎ Abord (d')Aussitôt, tout de suiteV. 258.Abord que (d')Aussitôt queV. 418.Abord (dans l')Tout d'abordV. 123.⁎ Air (l')Les manières, « manière d'agir, de parler, de vivre » (Furetière) V. 113.⁎ AdventureÉvènementV. 789.⁎ Aman(t) sSoupirantsPersonnages ; v.221AmoureuxV. 440.⁎ AmitiéProfonde affectionV. 833.⁎ Amuser (s')Prendre son tempsV. 599AmusementPerte de temps inutileV. 1087⁎ ApparenceVraisemblanceV. 309Apparent« Qui paraît conforme à la raison, sensé » (Huguet)V. 711⁎ AppasCharme, attraitÉlégie, v.275 ; v.436 ; v. 536 ; v.635 ; v.1008Plus précisément, « se dit figurément en choses morales de ce qui sert à attraper les hommes » (Furetière)V. 451.⁎ ArdeurPassionV. 148VivacitéV. 919EmpressementV. 100.⁎ ArtificeRuseV. 425⁎ AveuApprobation, « protection, ordre ou consentement donné » (Furetière)Élégie ; v.163.⁎ BonheurHasard, rencontre heureuseÉpître.⁎ BruitRéputation, renomméeV. 474 ; v.680.⁎ Cavalier« Aisé, libre, galant, honnête, noble, qui n'est point assujetti aux règles » (Richelet)V. 575.A la cavalière« D'un air cavalier, libre et aisé » (Richelet), sans instrumentV. 630.⁎ CeansTerme déictique qui désigne le lieu où l'on estV. 313 ; v. 776 ; v.975. ⁎ Chaleur« Passions passagères qui viennent par un prompt mouvement, ou qui sont attribuées à l'âge, ou au tempérament » (Furetière)V. 639.⁎ CommerceÉchangeV. 483. ⁎ Complaisance« Déférence aux sentiments et aux volontés d'autrui. La complaisance est d'ordinaire accompagnée de flatterie » (Furetière)V. 399.⁎ Confesser« Reconnaître une vérité particulière » (Furetière)V. 73 ; v.179 ; v.743AvouerV. 5 ; v.731.⁎ Conjurer« Prier avec instance et fortement au nom de ce que l'on respecte le plus, de ce qu'on a de plus cher » (Furetière)V. 671 ; v.684 ; v.796.⁎ ConnoistreSavoirV. 25Connoistre (se)Rester à son rangV. 364 ; v.982.⁎ Cracher« Se dit figurément des choses qui sortent de la bouche mal à propos, soit injures, reproches, soit mauvaises citations » (Furetière)V. 16.⁎ Crayon (ou craion)« Portrait, tableau qu'on fait des belles qualitez d'une personne » (Richelet)Élégie.⁎ CruelDouloureuxV. 135.⁎ Debiter« On dit figurément, qu'un homme débite bien, pour dire, qu'il dit bien ce qu'il dit, qu'il récite agréablement » (Furetière), sans nuance péjorativeV. 136.⁎ DescrierDévaloriserV. 249.⁎ Despit« Sorte de courte colère, fâcherie, déplaisir » (Richelet)V. 371.⁎ DevelopperRévélerV. 306.⁎ DiscretionJugement, discernementPréface.⁎ DisnerDéjeunerV. 363.⁎ DisputerDébattre, contester en argumentantV. 443.⁎ Doute (sans)AssurémentV. 23 ; v.306 ; v.554 ; v.586 ; v.743 ; v.829 ; v.933.⁎ Douteux« Problématique, incertain » (Furetière)Préface.⁎ EmpirePouvoirÉlégie.⁎ EnnuiFâcherie, chagrin violent, désespoirV. 1052.EnflamméPassionné, ému par la passion amoureuseV. 215.⁎ EntendreComprendreV. 232ÉcouterV. 2 ; v.129⁎ EstonnerEffrayerÉlégie ; V. 409S'émerveillerTrouver estrangeV. 301Causer de l'admirationV. 642Estonné(e)Admiratif(ve)V. 654EstonnementSurprise causée par quelque chose d'étrange, d'admirableV. 243⁎ EstrangeMonstrueuxÉpître, v. 237 ; v. 239 ; v.968ExtraordinaireV. 908EstrangementExtraordinairementV. 299⁎ Exact« Celui qui est ponctuel, qui observe toutes les précisions requises pour bien faire, pour examiner quelque chose. Il faut être exact à tenir ce qu'on a promis » (Furetière)V. 683.⁎ FantaisieImaginationV. 174.⁎ Fatalement« Qui doit arriver nécessairement, arrêt de la destinée » (Furetière)V. 145⁎ FeuAmourV. 155.⁎ FlammeAmour, passionV. 162 ; v.170 ; v.1004 ; v.1030 ; v.1050.⁎ Folastre« Faire des actions, ou avoir des entretiens folâtres, plaisants, agréables, peu sérieux » (Furetière)V. 872.⁎ FranchiseLibertéV. 412 ; v.964.⁎ FrotterBattreV. 1080.⁎ GageurePariV. 983GagerParierV. 200.⁎ Genie« Talent naturel, disposition qu'on a à une chose plutôt qu'à une autre » (Furetière)V. 654.⁎ Grace« Toute sorte de don, de libéralité, de bon office ou plaisir » (Furetière)V. 58.⁎ Gredin« Gueux, misérable qui est de la lie du peuple » (Furetière)V. 19 ; v.219.⁎ HazarderRisquerPréface.⁎ HeurBonheurV. 729.⁎ Humeur« Résolution, disposition de l'esprit » (Furetière)V. 121.⁎ HymenDésigne poétiquement le mariageV. 131.⁎ Industrie« Adresse de faire reüssir quelque chose, quelque dessein, quelque travail » (Furetière)V. 197.⁎ InjusteIllégitime, infondéeV. 400.⁎ IrregulierCe qui n'est pas dans les formes, qui est non conforme aux règlesV. 93 ; v.218.⁎ JustementÀ proprement parlerV. 185À juste titreV. 561PrécisémentV. 597.⁎ Loüer (se)Se vanter, se glorifierV. 36.⁎ Meschant (adj.)MauvaisPréface.⁎ MurailleMurV. 348.⁎ Paroistre« Se faire distinguer des autres, éclater davantage » (Furetière)V. 578 ; v.718S'exposer en public, paraître dans le mondeV. 454 ; v.981.⁎ PieceBon tourV. 37 ; v.1045.⁎ Présent (à)MaintenantV. 330 ; v. 897Pour l'instantV. 57.⁎ Pretendre (tr.)Aspirer à quelque choseV. 103.⁎ Procedé« Manière d'agir d'une personne envers une autre » (Furetière)V. 6 ; v.92 ; v.188 ; v.207 ; v.769 ; v.1054.⁎ Prud'hommieHonnêtetéV. 427.⁎ QualitéRang, haute condition socialeV. 363 ; v. 622.⁎ RaisonnementDiscours, réflexionV. 1027.⁎ RudesseQualité de ce qui choque les sens V. 248.⁎ Sanglant« Fâcheux, crüel, rude » (Richelet)V. 1045 ; v.1046.⁎ SoinsSoucis, inquiétudesV. 820.⁎ SouffrirS'accommoder de, consentirV. 325 ; v.265.⁎ Stupidité« Pesanteur d'esprit » (Ac, Fr., 1694), « bêtise, qualité de l'ame qui la rend insensible et incapable de raisonnement » (Furetière)V. 241 ; v.296.⁎ Surpris(e)Saisi(e)Élégie.⁎ Tout à l'heureTout de suiteV. 367 ; v. 380 ; v. 918.⁎ Transport« Trouble ou agitation de l'âme par la violence des passions » (Furetière)V. 639.⁎ VulgaireOrdinaire, communÉpître ; v. 242 ; v. 622 ; v.713 ; v.778De manière communeV. 316VulgairementCommunémentV. 580.
 
 
-# Annexe 1 : dialogue de deux prétieuses sur les affaires de leur communauté. [1]
+# Annexe 1 : dialogue de deux prétieuses sur les affaires de leur communauté. [1].
  – 
  – 
 
@@ -3178,14 +3178,14 @@ Allons ma toute bonne, je vous suis.
 FIN.
 
 
-# Annexe 2 : La Carte du Royaume des Pretieuses [2]
+# Annexe 2 : La Carte du Royaume des Pretieuses [2].
 
 On s'embarque sur la Riviere de Confidence pour arriver au Port de Chucheter ; De là on passe par Adorable, par Divine, & par ma Chere, qui sont trois Villes sur le grand chemin de Façonnerie, qui est la capitale du Royaume. A une lieuë de cette Ville est un Chasteau bien fortifié, qu'on appelle Galanterie. Ce Chasteau est tres noble, ayant pour dépendans plusieurs Fiefs, comme Feux cachez, Sentimens tendres & passionnez, & Amitiez amoureuses. Il y a aupres deux grandes Plaines de Coquetterie, qui sont toutes couvertes d'un costé par les Montagnes de Minauderies, & de l'autre par celles de Preuderie. Derriere tout cela est le Lac d'Abandon, qui est l'extremité du Royaume.
 
 Quelques uns pretendent que cette Carte doit estre plus longue, puis que le sujet le merite ; mais d'autres tiennent qu'ayant esté faite la premiere de toutes, les choses ne sont pas en mesme temps inventées & renduës parfaites. Qu'on attribuë l'honneur de la primauté à celle qu'on voudra, le merite de chacune doit estre conservé, & celle-cy peut estre mise au jour comme curieuse. En voicy une autre en suitre du Royaume d'Amour, & du Voyage fait dans ses Provinces.
 
 
-# Annexe 3 : Préface de Molière aux Précieuses ridicules
+# Annexe 3 : Préface de Molière aux Précieuses ridicules.
 
 C'est une chose étrange qu'on imprime les gens malgré eux. Je ne vois rien de si injuste, et je pardonnerais toute autre violence plutôt que celle-là.
 
@@ -3194,13 +3194,13 @@ Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser, par honneu
 Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est neuf la première fois qu'on l'imprime ! Encore si l'on m'avait donné du temps, j'aurais pu mieux songer à moi, et j'aurais pris toutes les précautions que Messieurs les auteurs, à présent mes confrères, ont coutume de prendre en semblables occasions. Outre quelque grand seigneur que j'aurais été prendre malgré lui pour protecteur de mon ouvrage, et dont j'aurais tenté la libéralité par une épître dédicatoire bien fleurie, j'aurais tâché de faire une belle et docte préface ; et je ne manque point de livres qui m'auraient fourni tout ce qu'on peut dire de savant sur la tragédie et la comédie, l'étymologie de toutes deux, leur origine, leur définition et le reste. J'aurais parlé aussi à mes amis, qui pour la recommandation de ma pièce ne m'auraient pas refusé ou des vers français, ou des vers latins. J'en ai même qui m'auraient loué en grec, et l'on ignore pas qu'une louange en grec est d'une merveilleuse efficace à la tête d'un livre. Mais on me met au jour sans me donner le loisir de me reconnaître ; et je ne puis même obtenir la liberté de dire deux mots pour justifier mes intentions sur le sujet de cette comédie. J'aurais voulu faire voir qu'elle se tient partout dans les bornes de la satire honnête et permise ; que les plus excellentes choses sont sujettes à être copiées par de mauvais singes, qui méritent d'être bernés ; que ces vicieuses imitations de ce qu'il y a de plus parfait ont été de tout temps la matière de la comédie ; et que, par la même raison que les véritables savants et les vrais braves ne se sont point encore avisés de s'offenser du Docteur de la comédie et du Capitan, non plus que les juges, les princes et les rois de voir Trivelin, ou quelque autre sur le théâtre, faire ridiculement le prince, le juge ou le roi, aussi les véritables précieuses auraient tort de se piquer lorsqu'on joue les ridicules qui les imitent mal. Mais enfin, comme je l'ai dit, on ne me laisse pas le temps de respirer, et M. de Luynes veut m'aller relier de ce pas : à la bonne heure, puisque Dieu l'a voulu !
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Textes de (ou attribués à) Somaize*Baudeau de Somaize*Le Procez des Pretieusesen vers burlesques
+### Textes de (ou attribués à) Somaize.*Baudeau de Somaize*Le Procez des Pretieusesen vers burlesques
 *Baudeau de Somaize*Le grand dictionnaire des Pretieuses, ou la Clef de la langue des ruelles*nde*Le Dictionnaire des Précieuses. Nouvelle édition augmentée de divers opuscules du même auteur et d'une clef historique et anecdotique
 *Baudeau de Somaize*Le grand dictionnaire des Pretieuses, historique, poétique, géographique, chronologique et armoirique
 *Baudeau de Somaize*La Pompe funèbre de M*r* Scaron
@@ -3208,7 +3208,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-### Textes contemporains*De Pure*La Pretieuse ou le Mystère des ruelles
+### Textes contemporains.*De Pure*La Pretieuse ou le Mystère des ruelles
 *Desjardins*Le récit en prose et en vers de la farce des précieuses
 *Faure*La Déroute des précieuses
 *LaGrange*Extraict des recettes et des affaires de la comédie depuis Pasques de l'année 1659*Forestier**Bourqui*Molière. Œuvres complètes
@@ -3220,10 +3220,10 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires*Académie Française*Dictionnaire
+### Dictionnaires.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Huguet*Dictionnaire de la langue française du XVIe siècle
 *Richelet*Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise.... avec les termes les plus connus des arts et des sciences
@@ -3232,7 +3232,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-### Rhétorique, Grammaire, ponctuation, versification*Haase*Syntaxe française du XVIIe siècle
+### Rhétorique, Grammaire, ponctuation, versification.*Haase*Syntaxe française du XVIIe siècle
 *Peureux*La Fabrique du vers
 *Sancier-Château*Introduction à la langue française du XVIIe siècle
 *Riffaud*La Ponctuation du théâtre imprimé
@@ -3240,17 +3240,17 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-### Histoire du livre*Riffaud*Répertoire du théâtre français imprimé
+### Histoire du livre.*Riffaud*Répertoire du théâtre français imprimé
 *Riffaud*Archéologie du livre français moderne
 
 
 
-### Bibliographies*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
+### Bibliographies.*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
 *Klapp-Lehrmann*Bibliographie der französischen Literaturwissenschaft
 
 
 
-### Sites web
+### Sites web.
  * - *Cesar*, Calendrier Électronique des Spectacles sous l'Ancien Régime : http://cesar.org.uk
  * - *Gallica*, Bibliothèque numérique de la BNF : www.gallica.bnf.fr
  * - *Google Books* : www.books.google.fr
@@ -3258,10 +3258,10 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
  * - *Théâtreclassique* : www.theatre-classique.fr
 
 
-## Études critiques
+## Études critiques.
 
 
-### Ouvrages généraux sur la littérature et le théâtre*Corvin*Lire la comédie
+### Ouvrages généraux sur la littérature et le théâtre.*Corvin*Lire la comédie
 *Conesa*La Comédie de l'âge classique, 1630-1715
 *Forestier*Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
 *Lancaster*A History of French Dramatic Literature in the Seventeenth Century, Part III: The Period of Molière (1652-1672)
@@ -3270,7 +3270,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-### Sur la préciosité et la galanterie*Adam*Histoire de la littérature française au XVIIe siècle
+### Sur la préciosité et la galanterie.*Adam*Histoire de la littérature française au XVIIe siècle
 *Bray*La préciosité et les précieux : de Thibaut de Champagne à Jean Giraudoux
 *Denis*Le Parnasse galant. Institution d'une catégorie littéraire au XVIIe siècle
 *Duchêne*Les Précieuses ou comment l'esprit vint aux femmes
@@ -3284,7 +3284,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-### Sur Les Précieuses ridicules de Molière*Bénichou*Morales du Grand Siècle
+### Sur Les Précieuses ridicules de Molière.*Bénichou*Morales du Grand Siècle
 *Bourqui*Les Sources de Molière : répertoire critique des sources littéraires et dramatiques
 *Duchêne*Molière
 *Forestier**Bourqui*Molière. Œuvres complètes
@@ -3296,7 +3296,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 
 
-### Articles sur Somaize*Larroumet*Revue des Deux Mondes
+### Articles sur Somaize.*Larroumet*Revue des Deux Mondes
 *Warshaw*Modern Language Notes
 *Warshaw*Modern Language Notes
 *Warshaw*Modern Language Notes

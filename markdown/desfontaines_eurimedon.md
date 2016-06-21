@@ -16,7 +16,7 @@ A PARIS, Chez Antoine de Sommaville, au Palais, dans la petite Sale, à l'Escu d
 Édition critique établie par Loraine Pierron dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2005)
 
 
-# Introduction
+# Introduction.
 
 
 Desfontaines n'avoit reçu de la Nature ni goût, ni talent pour le théâtre ; et cependant toutes ses Pieces ont eu des succès marqués. Deux principales causes concoururent à cette réussite ; le goût naturel de la nation pour le spectacle dramatique, et les talens des Acteurs. Leur jeu, quoiqu'un peu forcé, et soutenu d'une déclamation ampoulée, mais pleine d'art, donnoit de l'éclat à des Pieces mediocres. Cette espèce de prestige alloit même jusqu'à faire trouver beaux des vers remplis d'images basses, et de jeux de mots. 
@@ -26,22 +26,22 @@ C'est par un commentaire aussi paradoxal que *Les Anecdotes dramatiques* [1] ren
 C'est vers l'imaginaire littéraire des corsaires qu'*Eurimédon ou l'illustre pirate* nous mène, mais nous y retrouvons aussi des situations communes aux tragi-comédies des années 1630. Le héros éponyme, pirate avide de réintégrer la civilisation, sauve Pasithée, fille du roi de la Troade, des mains d'un prince qui tentait de l'enlever. Le roi manifeste sa reconnaissance en promettant le pouvoir à ce jeune inconnu. Mais il ne tient pas parole, et s'oppose à la relation amoureuse qui se tissait entre sa fille et le pirate. Eurimédon est chassé, puis revient travesti en amazone, pour approcher la princesse, et sauver le pays. Le roi lui est de nouveau redevable, mais n'accepte le mariage qu'une fois l'illustre identité du corsaire révélée.
 
 
-# Desfontaines, sa vie : avocat, acteur, auteur (1610 ? – 1652)
+# Desfontaines, sa vie : avocat, acteur, auteur (1610 ? – 1652).
 
 Les informations concernant la vie de Nicolas Mary, dit Desfontaines, sont assez restreintes et nous viennent surtout des actes notariés et de ses publications.
 
 
-## Identification
+## Identification.
 
 D'après Chardon, il y aurait eu deux comédiens de ce nom. Les orthographes de « Marie » varient mais l'étude d'Alan Howe [4] prouve que Nicolas Mary [5], acteur et auteur, s'est fait appeler Desfontaines : « Que Desfontaines fût son nom de guerre et que Marie correspondît (avec une légère différence de graphie) à son nom de famille, voilà ce qui ressort de cinq actes … ». Nous savons par ces travaux que Desfontaines multiplia les professions, fut avocat, acteur, auteur, et même directeur de sa propre troupe.
 
 
-## De l'étudiant à l'avocat 1610-1636
+## De l'étudiant à l'avocat 1610-1636.
 
 Sa date de naissance est inconnue, mais Alan Howe la situe vers 1610 car en 1627 sa signature au bas d'un acte d'obligation le déclare « écolier, étudiant en université ». Il vivait alors à Paris, rue Saint-Martin, dans la paroisse de Saint-Laurent où il logeait son frère, Jean Mary, cordonnier. En 1636, il était « avocat en parlement ». Il faisait donc partie du « groupe important de dramaturges du XVII*e* siècle formés à la robe » [6]. C'est cette même année qu'il épousa Antoinette de Maudinier. Anecdote qui a pu jouer dans l'orientation dramaturgique de Desfontaines, le couple vivait alors rue de l'Arbre-Sec, près du pavillon des Singes, dans le quartier d'enfance de Molière « aux côtés duquel Desfontaines devait jouer à Paris en 1644-1646, et auquel il aurait pu servir de modèle en renonçant à une carrière au barreau pour se faire comédien et en mettant sa plume au service de la troupe. » [7]. À cette époque, il commençait également l'écriture théâtrale puisque fut représentée à Paris en 1635 [8] sa première pièce *Eurimédon ou l'Illustre Pirate.*
 
 
-## Auteur, acteur 1635-1647
+## Auteur, acteur 1635-1647.
 
 Desfontaines écrivit quinze pièces de théâtre et quelques textes en prose, dont une traduction. C'est l'année suivant son mariage, en 1637, qu'il commença à publier ces pièces. *Eurimédon ou l'illustre pirate* amorça cette période. Desfontaines était auteur d'un sonnet [9] écrit en 1632 et d'un roman [10] publié en 1636, avant de produire cette tragi-comédie. Sa production fut ensuite très continue, puisqu'il publia une pièce par an en moyenne. Le nombre de publications étant assez conséquent, certaines pièces ayant connu des réimpressions ou des traductions [11], nous pouvons affirmer que Desfontaines eut un certain succès de son vivant. *La vraie suite du Cid* fut publiée en 1638, tout comme *Orphise ou la beauté persécutée*, puis *Hermogène* en 1639. En février 1640, Desfontaines joua avec Dufresne à Lyon. Puis *Bélisaire* fut représentée en 1640 à Paris et publiée en 1641. Les frères Parfait lui attribuent aussi *Les Galantes vertueuses, histoire véritable et arrivée pendant le siège de Turin* jouée en 1641 et publiée en 1642, l'année ou *Alcidiane, ou les quatre rivaux* fut jouée. En 1642, sa *Perside ou la suite d'Ibrahim Bassa* et *Eustache ou le martyre de Saint Eustache* furent représentés. Le *Panégyrique à M. le cardinal de Richelieu* (1642), dont nous n'avons retrouvé aucun exemplaire, date de 1642, comme la *Paraphrase sur le Memento homo*. En février 1643, Desfontaines se trouvait de nouveau à Lyon avec Dufresne [12], car le 3 février il signait comme témoin au mariage de François de la Cour et de Madeleine du Fresne, parente de Charles du Fresne.
 
@@ -52,27 +52,27 @@ Pourtant, l'année suivante, Desfontaines est endetté de 400 livres. En effet, 
 Seules l'attribution de *l'Illustre Comédien* et de *Bélissante* ne sont pas sûres. En effet, elles lui sont attribuées seulement par les frères Parfaict [21].
 
 
-## Directeur de troupe et acteur 1649-1651
+## Directeur de troupe et acteur 1649-1651.
 
 Desfontaines fut membre de sa propre troupe, la « Troupe de Desfontaines » de 1649 à 1651, et qui ne survécut pas au départ de son fondateur. [22] Elle comprenait sept acteurs : François de la Motte, embauché le 06 décembre 1649, tout comme Pierre Michel, dit *Bellefourest* ou *Belleforest*, Nicolas Lion dit *de Beaupré*, Etienne Munier, embauché le 15 novembre 1649, en même temps que son épouse Françoise Segui, Charles Perredoulz embauché aussi en novembre 1649. Le *Mongrédien et Robert* mentionne la présence de la femme de Charles Perredoulz dans la troupe. [23] Il précise également que la troupe joua de novembre à décembre 1649 à Toulouse et sans doute à Carcassonne. C'est ce que nous apprend l'acte de baptême d'une fille d'Etienne Munier. Le nom mentionné est en effet Nicolas Marin de Fontaine, comédien. [24]
 
 Nicolas Marie Desfontaines mourut le 4 février 1652 à Angers, et y fut inhumé le 7. [25] Il connut vraisemblablement une certaine notoriété puisqu'il servit de modèle au personnage de Roquebrune dans le *Roman Comique* de Scarron, comme l'affirme Antoine Adam dans les notes de son édition « Ce poète Roquebrune serait, à en croire la clef de l'Arsenal, M. de Moutières, bailli de Touvoy. Cette allégation est d'une évidente absurdité. Si l'on tient à mettre un nom sur Roquebrune, on se laissera persuader par les arguments d'H. Chardon [26] qu'il représente Nicolas Desfontaines, acteur et auteur connu. » [27]. La description du personnage n'est pas flatteuse : « Ils avoient de plus un poëte ou plutôt un Autheur, car toutes les boutiques d'espiciers du royaume estoient pleines de ses œuvres tant en vers qu'en prose. Ce bel esprit s'estoit donné à la Trouppe quasi malgré elle; et, parce qu'il ne partageoit point et mangeoit quelque argent avecque les Comediens, on luy donnoit les derniers rôles dont il s'acquittoit tres-mal. On voyoit bien qu'il estoit amoureux de l'une des deux Comediennes ; mais il estoit si discret, quoy-qu'un peu fou, qu'on n'avoit pû decouvrir encore laquelle des deux il devoit suborner, souz esperance de l'immortalité. Il menaçoit les Comediens de quantité de pieces; mais il leur avoit fait grace jusqu'à l'heure. On sçavoit seulement par conjecture qu'il en faisoit une, intitulée Martin Luther, dont on avoit trouvé un cahier qu'il avoit pourtant desavoué quoy qu'il fût de son escriture ». [28] Si nous ne pouvons nous baser sur une fiction pour en déduire quelle a pu être la personnalité de Desfontaines, et si les contemporains on eux-même deviné que la clé renvoie effectivement à lui, cet extrait nous permettrait de confirmer que Desfontaines connut une certaine notoriété au XVII*e* siècle.
 
 
-# Représentation et réception de la pièce
+# Représentation et réception de la pièce.
 
 
-## Représentation
+## Représentation.
 
 La représentation d'*Eurimédon ou l'illustre pirate* a vraisemblablement eu lieu en 1635 à Paris. Nous n'avons pas de documents à ce sujet. Nous supposons avec H. C. Lancaster qu'elle a été jouée en 1635 ou 1636 à Paris. [29] Cette hypothèse est vraisemblable, car elle laisse pour un peu plus d'un an l'exclusivité de la représentation à la troupe. Le privilège de publication a en effet été accordé le 30 mai 1637.
 
 
-### Le décor à compartiments
+### Le décor à compartiments.
 
 En l'absence d'informations précises sur le lieu de représentation, nous en serons réduits à des suppositions en ce qui concerne les conditions matérielles de la représentation. Il est néanmoins possible, compte tenu des indications de lieu, d'affirmer qu'*Eurimédon ou l'illustre pirate* a bénéficié d'un décor à compartiments. En effet, le relevé des lieux [30] montre que l'action se déroule en des espaces différents au sein d'un même acte. Ainsi, le premier acte se passe au port, dans un palais, et dans des lieux extérieurs indéfinis. Le troisième acte présente le palais, un espace extérieur, et une prison. Les changements de lieux sont brusques et s'expliquent par cette disposition de la scène théâtrale que Lancaster présente dans son introduction au *Mémoire de Mahelot* [31] : « La scène de l'Hôtel de Bourgogne se divise en compartiments, dont chacun fait un tableau complet. … Quelquefois un côté de la scène a plus de compartiments que l'autre. Le fond donne presque toujours un seul tableau. L'espace imaginaire entre les compartiments varie d'à peu près rien à des centaines de lieues ». Cela confirme l'hypothèse selon laquelle la scène comprenait au moins quatre compartiments, à savoir le port, le palais, la prison, et un espace extérieur indéfini, champ ou route aux portes de Mitylene. Le palais, qui est le lieu le plus employé, occupait sans doute le fond de la scène, plus visible. Les acteurs jouaient certainement comme l'expliquait Rigal, dont nous donnons ici les propos repris par Lancaster : « Rigal explique que l'acteur se montrait dans un bois ou sous une tente ou au seuil d'un palais, puis allait au milieu de la scène où l'auditoire pouvait le voir et l'entendre facilement, tout en supposant qu'il était toujours dans le compartiment d'où il venait de sortir ». La représentation d'*Eurimédon ou l'illustre pirate* a dû se dérouler de cette façon.
 
 
-## Réception
+## Réception.
 
 Concernant la réception de la pièce, nous n'avons aucun document contemporain. Nous pensons qu'elle a du connaître un certain succès puisqu'elle a été imprimée et traduite [32]. Elle est citée par un acteur dans *Le Baron de la Crasse* [33] de Raymond Poisson. Puisque le comique de cette tirade réside dans l'énumération d'une liste de pièces anciennes là où le baron attend des pièces récentes, le fait de citer *Eurimédon* montre que cette pièce était assez connue pour pouvoir être située chronologiquement par les spectateurs. Cependant, nous n'avons pas de texte critique contemporain, nous nous intéresserons donc à la lecture qui en a été faite au siècle suivant. Nous disposons des courtes remarques qui ont pu être faites sur *Eurimédon* dans les histoires du théâtre écrites au XVIII*e* siècle. Le plus souvent, seul le titre est mentionné, mais la pièce génère des développements un peu plus importants chez les frères Parfait ou chez Clément et Laporte. [34]
 
@@ -83,17 +83,17 @@ La conclusion de la pièce est dite mal amenée par les frères Parfait : « M
 Ainsi, les histoires du théâtre du XVII*e* siècle dressent un tableau fortement critique, ou effacent simplement de l'histoire littéraire les pièces de Desfontaines, en ne se contentant que de les nommer. D'après les *Anecdotes dramatiques*, « Desfontaines n'avoit reçu de la Nature ni goût, ni talent pour le théâtre ; et cependant toutes ses Pieces ont eu des succès marqués. ». Ce paradoxe n'a pas d'explication dramaturgique ou esthétique, puisque des critères anachroniques sont appliqués. L'explication qu'aborde les *Anecdotes dramatiques* explique le succès par le seul jeu des acteurs, disant que « deux principales causes concoururent à cette réussite ; le goût naturel de la nation pour le spectacle dramatique, et les talens des Acteurs. Leur jeu, quoiqu'un peu forcé, et soutenu d'une déclamation ampoulée, mais pleine d'art, donnoit de l'éclat à des Pieces mediocres. ». Le succès de toutes ces pièces viendrait donc d'un contexte général et les bonnes comme les mauvaises œuvres auraient eu la faveur du public. Mais pour mieux comprendre les causes de cette réussite, il faudrait étudier les raisons de l'essor de la tragi-comédie en ce début de siècle. *Eurimédon ou l'illustre pirate* a de nombreux points communs avec les créations de cette époque. Etudier cette pièce permettrait de voir en quoi elle a pû profiter du succès de la tragi-comédie, ou développer des caractéristiques spécifiques. Aborder une explication esthétique ou dramaturgique du succès de Desfontaines suppose donc une étude qui ne suivra pas les règles du théâtre classique.
 
 
-# Contexte théâtral
+# Contexte théâtral.
 
 
-## Place d'*Eurimédon* dans l'essor de la tragi-comédie au début du XVII*e* siècle, ou la venue des pirates
+## Place d'*Eurimédon* dans l'essor de la tragi-comédie au début du XVII*e* siècle, ou la venue des pirates.
 
 La tragi-comédie est un genre en plein essor dans les années 1630, mais les attaques des théoriciens, la recherche de vraisemblance, et certaines créations – comme *Cinna*, sous-titrée tragédie, alors que la fin en est heureuse – vont progressivement la mettre à mal, et orienter l'écriture de dramaturges comme Desfontaines vers la tragédie. Lorsqu'*Eurimédon* est publiée, les premières critiques contre la « liberté » s'élèvent, mais elles étaient vraisemblablement moins retentissantes lorsque le jeune avocat prit la plume. Nous allons donc concentrer notre étude sur la place de cette pièce dans l'essor de la tragi-comédie, non en fonction de sa « liberté » par rapport au classicisme, mais sous un angle plus précis, celui de « l'illustre pirate ». *Eurimédon* s'inscrit dans le thème littéraire de la piraterie. Le goût pour ce sujet est sans doute dû à la part de fantasmagorie et de fascination que recèle ce qui était d'abord une pratique contemporaine. Mais très vite, les récits de voyage, ou les récits de flibustiers ont attisé l'imagination des romanciers, puis des auteurs de tragi-comédies. Le choix de ce thème s'explique chez Desfontaines par la source, *Ariane* de Desmarets. Vraisemblablement, c'est le roman qui a amené ce sujet. Nous étudierons le rapport qu'a pu entretenir la première pièce de Desfontaines avec *L'illustre corsaire* de Mairet et *Le Prince Corsaire* de Scarron. En effet, ces deux pièces montrent par leur existence même qu'*Eurimédon* appartient à un courant thématique du début du XVII*e* siècle. Sans prétendre qu'il ait lui-même engendré ce courant, il est intéressant de noter, une fois de plus, combien Desfontaines fut sensible aux goûts et lectures de son temps. Cette pièce par le choix du genre et par le thème des corsaires suit les mouvements littéraires qui lui sont contemporains.
 
 La pièce de Desfontaines est antérieure aux créations de Mairet (1640), Scudéry (1644) et de Scarron (1658). Son action suit un cours différent et on ne saurait dire qu'*Eurimédon* constitue une source pour ces pièces. Mais c'est une des premières tragi-comédies, voire une des premières pièces de théâtre [41] à exploiter ce thème, jusqu'alors romanesque. Mettre en parallèle *Eurimédon* et les autres créations dramaturgiques permettra d'examiner quels sont les thèmes communs, quels sont les aspects de la piraterie qui intéressaient les dramaturges de l'époque, et dans quelle mesure Desfontaines se trouve en accord avec ce courant.
 
 
-### Vision rêvée du pirate. De la réalité au mythe de l'illustre corsaire
+### Vision rêvée du pirate. De la réalité au mythe de l'illustre corsaire.
 
 La vision littéraire du pirate est très éloignée de sa réalité historique. L'imaginaire littéraire pense que la société pirate adopte un modèle aristocratique. Or il s'agissait au XVII*e* siècle d'une société relativement démocratique et très peu hiérarchisée, comme le souligne Sylvie *Requemora* [42] « Dans la société pirate, l'amitié est une vertu, la trahison le pire des crimes, le butin est réparti selon une équité révolutionnaire pour l'époque. ». Pourtant dans *Eurimédon*, la hiérarchie est assez fortement soulignée, et les pirates respectent le héros d'autant plus qu'ils le croient de sang royal. Eurimédon raconte ainsi son sacre :
 
@@ -111,7 +111,7 @@ ne prouve pas qu'il cherche à être réaliste. Il s'agit en fait d'un lieu comm
 Ainsi, les éléments réalistes ne sont pas à porter au compte d'une connaissance précise des mœurs des pirates. Ils peuvent s'expliquer par les lieux communs véhiculés sur les corsaires ou par le code aristocratique qui coïncide parfois avec celui des pirates, c'est le cas en ce qui concerne la trahison. Desfontaines transforme la réalité en faisant du corsaire un gentilhomme. *Eurimédon* est, par sa vision des pirates, conforme à l'imaginaire tragi-comique de son époque.
 
 
-### Du thème à la structure : les scènes se répondent
+### Du thème à la structure : les scènes se répondent.
 
 Ce n'est pas seulement dans sa vision du pirate que le jeune dramaturge se rapproche des créations contemporaines. D'un point de vue structurel nous pouvons constater qu'il y a des schémas récurrents dans les pièces exploitant ce thème. Les pirates de Desfontaines et de Mairet ont tous deux une audace amoureuse ou une faute à se faire pardonner. Eurimédon a embrassé le sein de la princesse, et Lepante a embrassé Ismenie, et c'est pour cela qu'elle l'a chassé en lui demandant de ne plus reparaître devant elle. Le récit que fait Lepante de cette scène renforce la ressemblance avec la situation d'Eurimédon.
 
@@ -164,7 +164,7 @@ se retrouve pour désigner Lepante [51]. Dans *Le Prince Corsaire* de Scarron, A
 Le thème de la piraterie engendre des situations qui se ressemblent. L'esprit pirate appelle l'audace, la séduction, l'aventure ou la fuite, et la bravoure, qui, elle, demande la noblesse. Partant des mêmes caractéristiques, il est logique que les structures se répondent. Nous ne pouvons pas déterminer ici ce qui, de l'intertextualité ou des données thématiques, a été déterminant dans l'écriture des dramaturges qui ont choisi ce thème à la suite de Desfontaines. Néanmoins, ce thème et les structures qu'il appelle ont été appréciés car repris dans la première moitié du siècle. Desfontaines se trouve donc en accord avec, voire à l'origine des créations littéraires de son époque.
 
 
-## Place d'*Eurimédon ou l'illustre pirate* dans l'œuvre de Desfontaines
+## Place d'*Eurimédon ou l'illustre pirate* dans l'œuvre de Desfontaines.
 
 *Eurimédon ou l'illustre pirate* est la première pièce de Desfontaines. Il débute par la tragi-comédie avant de s'orienter vers la tragédie après 1642. Tenter de situer une première pièce, c'est voir si les prémices d'une esthétique s'y ébauchent. L'œuvre de Desfontaines paraît suivre les évolutions des productions littéraires de son époque, car il opte pour la tragi-comédie à ses débuts, s'oriente par la suite vers la tragédie et participe au mouvement des tragédies hagiographiques. Nous allons comparer sa première pièce avec les quatre tragi-comédies qui suivront, *La suite du Cid*, création de 1637, *Orphise ou la Beauté persécutée*, qui date de la même année, *Hermogène*, créée en 1638 et *Bélisaire* en 1640. Nous pouvons nous demander si l'écriture de Desfontaines témoigne du débat sur les règles. En effet, les pièces suivantes satisfont toutes à la règle de l'unité de temps, mais elles s'éloignent plus ou moins de l'esthétique mise en œuvre avec *Eurimédon*. Ce qui est paradoxal, c'est que la pièce qui semble la plus régulière, *La suite du Cid*, n'est pas la plus tardive. Avec *Orphise* et *Bélisaire*, les événements venant de l'extérieur et s'enchaînant linéairement se retrouvent, le dramaturge conserve le même mode de construction de l'intrigue. Dans une certaine mesure, Hermogène utilise le même procédé. Dans *Orphise*, le prince multiplie les machinations et les obstacles pour s'attacher Orphise. Dans *Bélisaire*, c'est la reine Théodore qui cherche tous les moyens de tuer Bélisaire. Nous retrouvons dans ces deux pièces un cas de figure décrit par H. Baby, celui de « l'opposant unique » qui devient une « source permanente et continue d'oppositions ». Les multiples obstacles viennent tous d'un même personnage, la contingence devient donc flagrante dans le dénouement, où étonnamment l'opposant change d'avis. Ainsi Théodore affirme :
 
@@ -183,61 +183,61 @@ Le hasard s'incarne dans la figure de l'opposant. Nous retrouvons donc dans ces 
 Ainsi, l'écriture d'*Eurimédon ou l'illustre* pirate montre que Desfontaines utilise des principes qu'il a conservé pour ses créations suivantes – gratuité des événements, extériorité, conscience de l'arbitraire – mais qu'il a tenté d'assagir, et ceci est net en ce qui concerne la question temporelle. Cela correspond aux analyses H. Baby [54] qui relève un « assagissement » des unités de lieu et de temps, mais cela cache effectivement « l'éclatement d'une action qui ne s'adapte qu'en apparence aux impératifs de l'unification », du moins en ce qui concerne les pièces précitées.
 
 
-# Résumé de la pièce
+# Résumé de la pièce.
 
 
 La pièce se passe sur l'île de Lesbos.
 
 
-## Acte I
+## Acte I.
 
 La rencontre des deux héros, Eurimédon et Pasithée, est antérieure au début de la pièce. Pasithée est la fille du roi de la Troade, Archelas. Eurimédon a sauvé la princesse des mains de son ravisseur Araxés et la ramène à son père. Mais il a épargné le traître, ce que Pasithée peine à comprendre (Scène 1). Le roi Archelas retrouve sa fille avec joie ; il remercie chaleureusement Eurimédon mais lui reproche sa clémence puis l'interroge sur ses origines. Eurimédon avoue les ignorer et raconte qu'abandonné dès son enfance, il a été recueilli par des corsaires qui lui ont affirmé qu'il était prince, tout en lui cachant son nom. Le roi lui offre de « Commander en sa cour », en guise de remerciement (Scène 2). Tygrane, qui courtise Pasithée, apparaît (Scène 3). Il ignore que cette dernière est sauvée et déplore sa propre lâcheté car il n'a pas cherché à la secourir. En outre, il trompe une certaine Céliane. Dans la dernière scène de l'acte, (Scène 4) Tygrane apprend le retour de Pasithée et craint de rencontrer un solide rival en Eurimédon.
 
 
-## Acte II
+## Acte II.
 
 Eurimédon et Pasithée parlent seul à seule. Araxés reste introuvable. Eurimédon, pressé par la princesse, lui explique pourquoi il a laissé la vie sauve à un homme aussi ignoble. Il avait déjà rencontré et sauvé Araxés autrefois. Les pirates avec lesquels il vivait retenaient cet homme en prison, et c'est là qu'Araxés lui avait confié son amour pour une femme merveilleuse, Pasithée. Eurimédon l'avait libéré par compassion, ému par son histoire. En échange ce prince avait promis d'aider Eurimédon à rejoindre le monde civilisé. À la fin de la scène, les deux héros s'avouent leur amour (Scène 1) avant de se trouver confrontés au rival Tygrane qui laisse paraître ses soupçons (Scène 2), comprend les sentiments de Pasithée et veut tuer Eurimédon (Scène 3). C'est alors que Céliane, la jeune fille délaissée par Tygrane, s'approche de la ville, déguisée en cavalier, pour retrouver l'amour de Tygrane (Scène 4). Elle se fait passer pour Eurimédon auprès d'un page, afin d'obtenir des renseignements, et elle accepte le duel avec Tygrane, espérant que ce dernier la reconnaîtra (Scène 5), mais Tygrane la tue. Il l'a prise pour Eurimédon et croit avoir perdu toute chance de succès auprès de Pasithée. Il décide donc de se cacher en attendant le jugement du roi (Scène 6). Tygrane parti, Céliane revient de ce qui n'était qu'un évanouissement (Scène 7).
 
 
-## Acte III
+## Acte III.
 
 Eurimédon doit quitter Pasithée car le roi lui a conseillé de reprendre la route pour chercher d'autres aventures dignes de lui. Pasithée soupçonne une machination de Tygrane et veut en parler à son père. Eurimédon lui baise le sein en guise d'adieu (Scène 1) lorsque le père entre dans la pièce, et les surprend. L'illustre pirate doit fuir pour éviter sa colère tandis que Pasithée cherche à calmer sa fureur (Scène 2). Eurimédon s'éloigne en se lamentant et en couvrant le roi de reproches (Scène 3). Il croise la route de Céliane qui le reconnaît aux propos qu'il tient et décide de l'aider. Toujours travestie, elle l'encourage à poursuivre la lutte et lui révèle que Tygrane avait promis sa foi à une jeune femme, Céliane (Scène 4). Lysanor, écuyer d'Eurimédon, apporte alors de tristes nouvelles de Mitylène. Pasithée est en prison. Araxés attaque le pays, et Archelas promet sa fille en récompense à qui sauvera le royaume. Eurimédon va se déguiser en amazone pour lutter sans être reconnu du roi (Scène 5) tandis que Pasithée se lamente en prison (Scène 6).
 
 
-## Acte IV
+## Acte IV.
 
 Falante, écuyer du roi, fait le compte-rendu de la situation militaire auprès de ce dernier. Une amazone, « Hermionne », sauve le pays. L'écuyer a noté une ressemblance avec Eurimédon, mais cela ne suscite pas d'interrogations chez le roi (Scène 1). « Hermionne » apporte la tête d'Araxés. Pour la récompenser, Archelas lui propose de l'épouser, ce qu'« Hermionne » paraît accepter, en formulant des propos qui sont en fait à double sens. Tygrane demande la libération et le mariage de Pasithée, espérant obtenir sa main. Mais Céliane est présente, elle se démasque et révèle la perfidie de Tygrane qui est forcé de reconnaître sa faute (Scène 2). Archelas a remarqué l'émotion d'« Hermionne », lorsque Tygrane parlait de Pasithée, il l'interroge à ce sujet mais l'amazone se justifie en prétextant qu'elle ignorait l'existence de Pasithée, et découvre donc que le roi était marié. Archelas explique pourquoi sa fille est en prison, ce qui permet à « Hermionne » de lui reprocher sa rigueur et de le pousser à plus de clémence (Scène 3). « Hermionne » annonce à Pasithée sa libération prochaine. Elle se fait passer pour la sœur d'Eurimédon et promet de refuser d'épouser le roi tant que Pasithée ne sera pas mariée à Eurimédon (Scène 4). Puisque le roi l'autorise, « Hermionne » passera la nuit auprès de Pasithée. Mais Eurimédon est si troublé de voir Pasithée qu'il est contraint de révéler le subterfuge. Pasithée se fâche car son honneur a été mis en danger (Scène 5) et ses cris attirent Alerine, sa suivante. Pasithée va passer la nuit auprès d'elle (Scène 6).
 
 
-## Acte V
+## Acte V.
 
 Tygrane est encore attiré par Pasithée mais va rendre hommage à Céliane (Scène 1) qui lui promet d'être moins dure s'il se montre à nouveau constant. La jeune fille, seule, avoue lui pardonner dans son cœur (Scène 2). Archelas reçoit Melinte, roi de Thessalie, qui cherche Eurimédon, son frère (Scène 3). Pendant ce temps, l'évasion se prépare : Pasithée consent à fuir avec le héros (Scène 4) mais Melinte reconnaît Eurimédon en « Hermionne ». Archelas, de colère, veut tuer le jeune pirate, mais, raisonné par le roi de Thessalie, il accepte le mariage, tandis que Tygrane est pardonné par Céliane (Cinquième et dernière scène).
 
 
-# Du roman au théâtre : la source, Ariane de Desmarets
+# Du roman au théâtre : la source, Ariane de Desmarets.
 
 
-## Desfontaines et l'imitation
+## Desfontaines et l'imitation.
 
 Les sources de Desfontaines se trouvent souvent dans les pièces et romans contemporains [55]. Un certain nombre de ses pièces constituent la suite d'une pièce à succès, la plus célèbre étant *Le Cid* de Corneille. Ainsi, *Perside, ou la suite d'Ibrahim Bassa* invente une suite à *Ibrahim ou l'illustre Bassa*, de Georges de Scudéry. *Eustache ou le martyre de Saint Eustache* reprend le thème du *Saint Eustache* de Balthazar Baro, créé en 1639. Enfin, la source d'inspiration de la *Sainte Catherine* que lui prêtent Leris, Maupoint ainsi que Clément et Laporte reprend le thème de la *Sainte Catherine* de Saint Germain, qui date de 1644. L'autre source privilégiée de Desfontaines, le roman, se retrouve dans la tragédie *Alcidiane, ou les quatre rivaux* et dans la tragi-comédie *Eurimédon ou l'Illustre Pirate*. Le sujet d'*Alcidiane* provient d'un extrait des *Harangues ou discours académiques* du Manzini, auteur italien traduit par Georges de Scudéry. Quant à *Eurimédon*, il s'inspire d'un des récits enchâssés de l'*Ariane* de Desmarets [56]. Les sources d'inspiration de Desfontaines semblent avant tout être littéraires. Il faut noter que la pratique des suites est courante, de même que la reprise de roman. Ce récapitulatif des sources montre que Desfontaines était sensible aux productions de son époque. C'est ainsi qu'il se détourne de la tragi-comédie après 1642, et suit la mode des tragédies hagiographiques. Il satisfait donc aux goûts de son public en reprenant des thèmes en vogue.
 
 
-## Du roman à la tragi-comédie
+## Du roman à la tragi-comédie.
 
 Que la source d'une tragi-comédie soit un roman est chose courante. Nous tenterons de voir dans quelle mesure une telle inspiration amène une structure narrative, des rebondissements et modes d'enchaînements baroques. Comment l'écriture romanesque mène-t-elle à l'irrégularité dramaturgique, à la tragi-comédie ? *Ariane* de *Desmarets* adopte la structure d'un roman d'aventures, dans lequel s'insèrent de nombreux récits enchâssés, procédé caractéristique des romans baroques. L'histoire d'Eurimédon vient d'un de ces récits. [57] Ce roman est représentatif de la création romanesque de l'époque, comme l'énonce Jean Baptiste *de Boyer d'Argens*, dans ses *Lettres juives* (1736), à la lettre XXXV : « Autrefois les romans n'étaient qu'un ramas d'aventures tragiques qui enlevaient l'imagination et déchiraient le cœur. ». Et il cite en exemples « Le *Polexandre* de Gomberville, l'*Ariane* de Desmarets, etc. ». Quels aspects Desfontaines a-t-il privilégiés dans cette transposition, quelles influences le roman a-t-il pu exercer sur les structures dramaturgiques ?
 
 
-### Situation de l'histoire d'Eurimédon dans *Ariane*
+### Situation de l'histoire d'Eurimédon dans *Ariane*.
 
 Le héros du roman, Melinte, veut rejoindre à Corinthe la jeune fille qu'il aime, Ariane. Mais une fois en mer (tome 2), il rencontre des pirates et décide de les attaquer, pour les empêcher de s'en prendre à d'autres bateaux. Surpris, ceux-ci perdent la bataille lorsque Melinte est « arresté par la valeur d'un jeune Corsaire extremément beau … ayant de la fierté et de la grace », qui se révèle être Eurimédon, le chef des pirates. Vaincu, ce dernier se soumet à Melinte, et c'est la première fois qu'il se voit contraint de cesser un combat. À la demande de Melinte, Eurimédon narre son aventure amoureuse avec Pasithée, fille du roi de la Troade. Melinte décide de l'aider et les personnages d'Eurimédon et de Pasithée seront suivis jusqu'à la fin du roman, où l'on découvre que Melinte et Eurimédon sont frères.
 
 
-### Choix pour l'adaptation théâtrale
+### Choix pour l'adaptation théâtrale.
 
 Nous présenterons ici les différences de diégèse entre la pièce et le roman, car les éléments communs sont nombreux. Malgré une grande fidélité au roman, les variations peuvent nous indiquer quels thèmes et structures intéressaient Desfontaines à ses débuts de dramaturge. En outre, cette comparaison montrera comment l'inspiration romanesque peut mener à l'esthétique tragi-comique. Nous suivrons le cours de la narration ou de l'action pour analyser les variations amenées par Desfontaines car les modes d'adaptations – développement, suppression, création et synthèse, appellent peu de commentaires. Ils se déduisent des exigences naturelles de la scène et s'expliquent aussi par le goût du public de l'époque, notamment en ce qui concerne la chaîne amoureuse. Nous réunirons les procédés de modifications tant que cela ne nuira pas à l'entente de l'intrigue d'*Ariane*.
 
 
-#### Enfance et éducation : des débuts rapidement évoqués
+#### Enfance et éducation : des débuts rapidement évoqués.
 
 Le roman développe les débuts d'Eurimédon plus longuement qu'il ne le fait lui-même dans le récit de sa propre vie sur la scène. Cela se comprend aisément dans la mesure où tous les événements de sa formation ne sont pas indispensables à la compréhension de l'action, centrée sur la relation amoureuse, et risqueraient de rendre trop long le temps de récit.
 
@@ -249,12 +249,12 @@ Comme à leur souverain ils me firent hommage. [58]
 Toutes les manifestations de sa vaillance sont résumées en une seule, mais la plus magistrale. Cette présentation semble avoir été adoptée pour gagner du temps sans nuire aux qualités exceptionnelles du héros, qualités essentielles en ce qu'elles constituent, pour Pasithée comme pour le spectateur, un signe de sa haute noblesse. Dans *Ariane*, son sens des valeurs ne se forge pas naturellement. Il dut faire un séjour de six mois en Grèce, et c'est là qu'il apprit les mœurs civilisées. Néanmoins, le désir de découvrir cette civilisation était spontané chez le jeune pirate, et ceci met plus son instinct du bien au compte de sa naissance que de son éducation. Ces détails, s'ils trouvent légitimement leur place dans le roman, Desfontaines les a sans doute jugés trop longs à porter à la scène, d'autant qu'ils auraient été redondants avec les manifestations de vertu d'Eurimédon. Le thème de la formation a une faible importance dans la valeur d'Eurimédon, et l'évoquer compliquerait un des débats soulevés par sa pièce. Desfontaines insiste en effet sur la question de l'origine de la vertu. Sont-ce les actions ou la naissance d'un homme qui la révèle ? La notion d'éducation viendrait complexifier ce débat. Enfin, ne serait-ce pas toucher à la magnificence du héros que de laisser à l'éducation ce qui pourrait venir de lui seul ? Ainsi, l'enfance et l'éducation d'Eurimédon sont résumées pour satisfaire à des exigences de durée et peut-être pour clarifier le débat sur la vertu.
 
 
-#### Conversion au « bien » extrêmement résumée
+#### Conversion au « bien » extrêmement résumée.
 
 Eurimédon déclare vouloir se rendre sur terre, rejoindre le monde civilisé. Toute la « conversion » d'Eurimédon au « bien » est fortement développée dans *Ariane*. Le roman insiste aussi sur la relation d'Eurimédon et d'Araxés. Nous y apprenons que, si Eurimédon rendit les pirates très riches, il changea d'opinion sur le bon comportement à tenir car « il lui sembloit plus glorieux de pardonner aux vaincus, que de les tuer cruellement ». Un jour, Eurimédon laissa la vie sauve au chef d'un bateau, « Prince Armenien, lequel s'en alloit Ambassadeur à Rome, de la part de Vologese, roi des Parthes, et de Tyridate, roi d'Armenie. ». C'était Araxés. Eurimédon procéda à un marché des plus honnêtes. Il libéra Araxés, lui demandant en échange de l'aider à rejoindre le monde civilisé. Dans le roman, Eurimédon apprit son projet à quelques-uns de ces hommes et les détails des préparatifs et du départ sont exposés. Ici, la version romanesque et la version théâtrale correspondent en tous points. Mais la pièce résume cela en quelques vers seulement, v. 381 à 388. Le roman cultive davantage le personnage de l'homme repentant que la pièce, qui favorise l'histoire amoureuse. Desfontaines ne peut se résoudre à montrer tous les éléments antérieurs à la rencontre des amants. Centrant son action sur la possibilité d'une relation amoureuse entre les deux héros, détailler à l'infini tous les événements antérieurs exigerait un trop long récit. Si Desfontaines ne rejette pas totalement la technique du récit, on voit ici qu'il ne le prolonge pas à loisir, et que son esthétique se tourne vers l'action. Comme précédemment, il a conscience que cette intrigue est d'une moindre importance et qu'elle apporte peu à son action.
 
 
-#### Identité du ravisseur : une synthèse source de confusion
+#### Identité du ravisseur : une synthèse source de confusion.
 
 Les détails de l'enlèvement donnés par *Ariane* lèvent certaines ambiguïtés de la pièce. Les pirates approchaient de Lesbos, dans la Troade quand ils virent un vaisseau qui s'en éloignait et entendirent ces cris « sauvez la Princesse, mes amis, sauvez la Princesse ». Les différences s'amorcent par la suite. Dans le roman, après avoir sauvé Pasithée, les corsaires apprennent qu'un deuxième bateau s'approche, ayant à son bord l'organisateur de l'enlèvement. Celui-ci projetait de faire croire à la fille du roi qu'il venait la secourir pour se la rendre redevable. [59] Il s'agissait d'Araxés. C'est ainsi que s'explique une des obscurités de la pièce. Il y a deux ravisseurs, le pirate, homme de main d'Araxés, et le commanditaire, Araxés lui-même. Dans la pièce, cela reste très confus.
 
@@ -281,17 +281,17 @@ Qu'ils ont esté plustot ensevelis que morts.
 Cette dissimulation permet d'accentuer les différences de cœur entre le roi et Eurimédon, car, alors que ce dernier a laissé la vie sauve au ravisseur, le roi juge que la mort est encore un châtiment trop doux et lui reproche sa clémence. Il aurait fallu les soumettre à la torture publique. Ainsi, la confusion vient d'une ellipse narrative et non d'une synthèse. Il n'est pas explicitement dit que les deux héros mentent au roi. Le spectateur ignore qu'il y a deux ravisseurs. De même, dans le roman, Araxés, blessé, est laissé dans son bateau et on lui demande de rejoindre la côte. Eurimédon envoie donc ses gens pour avertir Araxés que personne ne le soupçonne et pour qu'il ne revienne pas blessé à la Cour. Dans la pièce, la raison pour laquelle Eurimédon cherche Araxés n'est pas clairement expliquée, et rien ne dit ce qu'il advient effectivement de lui au début de la pièce.
 
 
-#### Création de la chaîne amoureuse et adaptation aux courants théâtraux
+#### Création de la chaîne amoureuse et adaptation aux courants théâtraux.
 
 Dans le roman, les courtisans de Pasithée sont très nombreux, car tout homme l'ayant rencontrée ne parvient plus à s'éloigner d'elle. C'est ainsi qu'une foule de prétendants est présente à la Cour. Tygrane est le plus susceptible d'obtenir sa main. Mais il est présenté comme un homme très lâche, au comportement peu noble. Ce trait de caractère correspond à ce qui est montré dans la pièce dans la mesure où Tygrane est un perfide qui délaisse Céliane. Cette trahison est créée par Desfontaines pour décrédibiliser Tygrane par ses actions, qui n'ont pas la noblesse que dégagent celles d'Eurimédon. La dramaturge n'a pas à créer l'histoire parallèle qui le fait mourir dans le roman, et peut ainsi amener une chaîne amoureuse. Dans *Ariane*, le mystère de ce caractère inattendu chez un prince s'éclaircit rapidement au cours d'un tournoi. Eurimédon avait disparu un moment, mais était revenu et avait brillamment remporté le tournoi. Cet épisode qui accroît sa gloire n'est pas représenté dans la pièce. À l'issue de cette joute, Tygrane est tué par deux Arméniens, et les lamentations d'un vieillard font apprendre que Tygrane n'était pas de sang royal. Dans la pièce de théâtre, si Tygrane montre sa perfidie en trahissant Céliane, il est néanmoins de sang royal et ne meurt pas. Au contraire, Desfontaines synthétise les multiples amants en Tygrane, qui à lui seul représente un obstacle. Cette concentration permet à Desfontaines de créer la chaîne amoureuse. Il invente complètement le personnage de Céliane, jeune fille d'Arménie délaissée par Tygrane. Ainsi, on trouve le schéma « Céliane aime Tygrane qui aime Pasithée qui aime et est aimée par Eurimédon ». Ce type de relation actancielle révèle que Desfontaines travaille sous l'influence de l'esthétique de la pastorale. Il s'inspire des créations romanesques ou théâtrales récentes, et cette réécriture d'*Ariane* tend à le confirmer. La création de la chaîne amoureuse relèverait d'un goût pour l'esthétique théâtrale contemporaine. Pourtant, une autre explication est possible. Pour qu'Eurimédon et Pasithée soient mariés, il faut que tous les obstacles créés au début de la pièce soient levés. Dans le cours de la pièce le roi s'oppose à ce mariage, d'autant qu'Eurimédon n'est pas d'origine royale. L'autre obstacle est Tygrane, qui était le plus proche d'obtenir la main de Pasithée car il plaisait au roi. Faire mourir Tygrane appellerait la création d'une intrigue parallèle complexe car il ne peut pas être tué par Eurimédon, qui perdrait son statut de héros généreux, à moins qu'il ne s'agisse d'une méprise. Mais créer une méprise demanderait également la création d'une seconde intrigue parallèle complexe. La création du personnage de Céliane se serait donc présentée comme la solution la plus économique. Annoncée dès le premier acte, il suffit qu'elle se dévoile pour anéantir les espoirs du volage Tygrane. Cette dernière solution, en ce qu'elle évite les rebondissements excessifs ou la multiplication des récits, contribue en outre à la vraisemblance de l'intrigue, d'autant plus qu'elle correspond à un schéma souvent représenté au théâtre, donc peu déroutant pour le spectateur. Le souci de vraisemblance, doublé d'un contexte théâtral apprécié, a sans doute conduit Desfontaines à créer ce schéma. Étonnamment, dans la construction de sa première tragi-comédie, Desfontaines paraît privilégier la synthèse et la vraisemblance, il ne veut pas accentuer à l'extrême le foisonnement de son intrigue.
 
 
-#### Les insolences d'Araxés : résumé elliptique
+#### Les insolences d'Araxés : résumé elliptique.
 
 Le roman développe les insolences d'Araxés vis-à-vis de Pasithée, par son entêtement, ou à l'égard de Tygrane, par son mépris affiché. Ces comportements incitent le héros à renoncer à cette amitié qui le dégrade. Mais ce portrait qui accentue les défauts d'Araxés serait redondant dans la pièce où l'enlèvement et la guerre suffisent à caractériser le personnage. Si pour la crédibilité du roman, Eurimédon ne peut renoncer aussi rapidement à une amitié, sous peine d'être trop semblable à un traître (et à un inconstant), cette rapidité est admise au théâtre où la nécessaire concentration des événements rend le changement d'amitié tolérable.
 
 
-#### La relation d'Eurimédon et du roi-barbon, un thème conservé
+#### La relation d'Eurimédon et du roi-barbon, un thème conservé.
 
 Eurimédon reste plusieurs jours à la cour, il assiste au lever du Roy, est fort bien accueilli, le roi le conduit au lever de la Princesse, qu'ils surprennent à moitié nue. Une double correspondance thématique peut donc s'établir avec la pièce. D'abord, ce sont bien les suggestions du roi qui encouragent Eurimédon à s'autoriser cette intimité avec la princesse « Le Roy me laissa avec elle, luy ordonnant de m'entretenir ». Ensuite, c'est dans ce passage que l'on trouve l'allusion à la gorge : « elle avoit toute la gorge descouverte », transposée en un audacieux baiser dans la pièce. Ainsi l'amitié que le roi manifeste pour Eurimédon est plus longuement développée dans le roman, mais elle correspond bien aux promesses du roi à la scène 2 de l'acte I. Dans le roman comme dans la pièce, les revirements du roi semblent être dus à son caractère fantasque. Après avoir placé Eurimédon à un haut degré d'intimité, Archelas n'apprécie pas dans *Ariane* que Pasithée lui montre un peu trop son affection. Il aimerait qu'Eurimédon parte, car il ne voit pas en lui un homme digne de sa fille. Mais c'est notre héros qui retarde son départ.
 
@@ -302,17 +302,17 @@ Autre constante, la place du débat sur la vertu, déjà importante dans le roma
 Au début du récit des aventures des deux amants, Eurimédon annonce que sa vie est un objet de réflexion sur le thème suivant : « combien la rencontre que l'on fait pour estre nourry et eslevé, est importante à la vie des hommes ». Le roman insiste davantage sur le rôle de l'éducation pour former un individu vertueux. Pasithée, après que le roi a exprimé son désaccord sur cette union, promet à demi-mot une union à Eurimédon, parce qu'elle place ses actions au-dessus de ses origines. Le thème de la vertu recoupe donc, dans le roman, comme dans la pièce, celui de l'être et du paraître. Faut-il se fier au nom ou aux actes pour s'assurer de la vertu d'Eurimédon ? Cette réflexion ne saurait donc être attribuée uniquement à Desfontaines.
 
 
-#### La guerre ou la synthèse des dangers
+#### La guerre ou la synthèse des dangers.
 
 Dans la version romanesque, lorsqu'Eurimédon est chassé de la Cour, il y envoie un de ses hommes en observateur. Celui-ci lui apprend que Pasithée est enfermée dans un château, uniquement entourée de femmes, les murs étant gardés par des barbares. Ces derniers ne doivent pas la voir, car Archelas craint qu'ils n'en tombent amoureux et ne la fassent évader. Tous les Princes amoureux de Pasithée sont partis avec le projet de revenir armés pour la délivrer. Araxés est mort auparavant. Eurimédon décide alors de faire appel aux pirates. Un épisode annexe se développe alors sans être repris par la pièce, car il n'influe pas sur la suite de l'action. Eurimédon rejoint Melinte qui lui promet son aide pour délivrer Pasithée et explique la similitude de sa propre situation puisqu'Ariane est retenue à Corinthe. Eurimédon reste avec Melinte pour l'assister, et ce dernier l'aidera à son tour. Tous les Corsaires se réjouissent du retour d'Eurimédon et s'empressent de l'aider. Ils abordent Lesbos, non au port mais sur les côtes, le lieu semble désert. Ils apprennent que des Scythes attaquent l'île. Comment Eurimédon peut-il se retrouver dans la bataille sans être reconnu du roi ? Il se fait passer pour « Hermionne », fille du « Roy de Colchos ». Se faire passer pour une femme lui permettra en outre d'être autorisé à approcher Pasithée, enfermée dans une prison où seules les femmes ont accès [62]. Ainsi, Desfontaines a remarquablement synthétisé tous ces rebondissements en imaginant qu'Araxés, qu'il ne fait pas mourir, revient attaquer le royaume pour reprendre Pasithée. Tous les dangers que court le roi sont donc résumés en la personne d'Araxés. Cette synthèse donne une figure duelle à Araxés, celle du rival allié [63].
 
 
-#### Victoire et récompense : conservation de l'ambiguïté discursive
+#### Victoire et récompense : conservation de l'ambiguïté discursive.
 
 Dans le roman, le roi est sur le point de perdre la bataille lorsqu'Eurimédon et ses amis, tous déguisés en femmes, arrivent et le sauvent. Ce dernier prend « Hermionne » pour Pallas [64]. Mais une différence est notable, c'est Eurimédon qui, dans le roman, demande « une retraitte dans les Estats, et qu'il puisse tenir auprés de lui un rôle digne de s a naissance. » Eurimédon fait promettre au roi de lui donner la plus haute position possible dans son royaume, ce qui, là aussi, est à double sens. Eurimédon dit au roi qu'« il souhaittoit l'honneur de son alliance autant ou plus que luy-mesme. Dequoy le Roy le remerciait, n'entendant pas le sens des paroles d'Eurimédon, qui vouloit parler de l'alliance qu'il desiroit faire avec luy en espousant sa fille. ». Les deux conversations sont donc presque identiques. Puisque c'est le roi lui-même qui demande à Eurimédon de demeurer dans la pièce, la réécriture semble bien se faire dans le même sens que précédemment, c'est-à-dire en accentuant le ridicule d'Archelas, qui demande un homme en mariage. Archelas promet en outre à « Hermionne » de libérer Pasithée avant huit jours, le temps plus court au théâtre correspond encore à un désir de vraisemblance. Bien que l'on soit dans une tragi-comédie, il est remarquable que Desfontaines ne cherche pas à souligner la durée de l'action. Nous sommes loin d'une pièce qui se déclarerait « en deux journées ». Un roi plus ridicule et une réécriture qui recherche une certaine crédibilité, nous retrouvons les mêmes principes de transposition que précédemment.
 
 
-#### Pasithée retrouvée
+#### Pasithée retrouvée.
 
 Les retrouvailles d'Eurimédon et de Pasithée suivent à peu près le même déroulement au théâtre et dans le roman, à une différence près. Eurimédon se rend au château-prison avec ses « femmes » qui sont en fait les pirates travestis. La scène du baiser déposé sur le sein de la princesse se trouve à cet endroit du roman, et les seuls témoins de ce baiser sont les femmes de Pasithée. La promesse d'« Hermionne », « Mais je ne luy accorderay jamais ce qu'il souhaitte que vous ne soyez mariée à Eurimedon. », a un sens différent pour la prisonnière et pour le messager. Cette duplicité de paroles est reprise dans la pièce. Desfontaines était donc intéressé par cette figure du dédoublement de la parole qu'il a rencontrée dans *Ariane*. Le texte de théâtre reprend en effet le propos romanesque :
 
@@ -326,7 +326,7 @@ Enfin, les femmes mettent Pasithée et Eurimédon au lit, avant d'entendre des c
 Puis, le jeune couple a des nouvelles des héros, Melinte et Ariane, qui demandent de l'aide. Pasithée accepte qu'Eurimédon l'enlève pour les rejoindre en Thessalie. Le passage à la scène de cette action pose quelques problèmes. Comment comprendre cette scène qui évoque l'enlèvement de Pasithée sans le faire aboutir ? Cette scène ne débouche sur rien, puisque l'enlèvement est aussitôt avorté. Dès lors, on peut se demander pourquoi Desfontaines prend la peine de créer une scène qui ne s'insère pas dans son action. Est-ce pour suivre le roman au plus près ? Ou bien Desfontaines recherche-t-il un effet de surprise ou de suspension ? [65]
 
 
-#### Dernier épisode effacé, mais une fin heureuse
+#### Dernier épisode effacé, mais une fin heureuse.
 
 Dans la version de Desmarets, Eurimédon, après l'enlèvement consenti de la princesse, va porter secours à ses amis, ce qui permet la rencontre d'Ariane et de Pasithée. Le narrateur rétablit la hiérarchie des personnages en expliquant que Pasithée est bien inférieure à Ariane en beauté. Si Pasithée a plus de succès, c'est grâce à sa façon d'allumer « aussitost tous les desirs, faisant naistre l'espoir par cette complaisance generale », tandis qu'Ariane, majestueuse, appelle l'admiration. L'ascendance royale de Melinte, qui devient roi de Thessalie est découverte. Un Corsaire explique ensuite l'identité d'Eurimédon, qui descend de « Pyrrhe et d'Achille ». Le récit de l'Aigle et du laurier est conforme à celui de la pièce. Ces symboles sont placés au début de la pièce, vraisemblablement pour que le public comprenne d'emblée l'identité du pirate inconnu, et la possibilité d'une histoire d'amour entre lui et la princesse. Les pirates auraient dû tuer Eurimédon. Melinte, héros de l'histoire d'Ariane, est donc le frère d'Eurimédon. C'est bien Melinte qui apprend au roi Archelas les origines d'Eurimédon, et le monarque se résout à tout accepter « considerant que s'il tesmoignoit encore de la colere, cela ne tourneroit qu'à sa confusion ». Le livre s'achève donc sur deux mariages et sur le couronnement de Melinte et d'Ariane. La phrase qui conclut le livre, « comme si les Dieux eussent destiné aux plus belles, et aux plus vertueuses personnes du monde, les plus agreables lieux de la Terre », rappelle le dénouement heureux de la pièce.
 
@@ -338,7 +338,7 @@ Par vos embrassemens des Reynes, et des Princes.
 Cette dernière partie est totalement supprimée, ce qui est logique puisqu'elle correspond à l'action principale du roman. Desfontaines conserve la résolution des obstacles par la reconnaissance, et la fin heureuse.
 
 
-## Une adaptation fidèle à Desmarets et aux attentes du public
+## Une adaptation fidèle à Desmarets et aux attentes du public.
 
 La reprise prend une autre forme dans *Eurimédon*, celle de la citation. Des phrases sont précisément issues du roman de Desmarets. Ce calque était-il remarqué du public, constituait-il une forme de renvoi respectueux à la source romanesque ? Comme le signalent C. Bourqui et S. de Reyff [66], le « phénomène, en ce qui concerne le théâtre de Desfontaines, est demeuré jusqu'ici inaperçu dans son ampleur. De manière générale, au reste, l'étendue de la pratique de reprise textuelle dans la littérature dramatique du XVII*e* siècle s'avère difficile à évaluer, en l'absence d'études spécifiques. » Nous ne pourrons donc pas déterminer l'originalité de Desfontaines en la matière, mais nous étudierons les formes de reprise textuelle que nous pouvons établir entre le texte-source et la pièce. Certains vers emploient un vocabulaire ou des formules fortement similaires au roman. C. Bourqui et S. de Reyff [67] distinguent trois procédés de « reprise textuelle ». La *retractatio*, ou « reprise de vers et de passages provenant des œuvres antérieures de Desfontaines », *l'excerptio minor*, ou « reprise de vers ou de distiques isolés d'œuvres allogènes », et *l'excerptio major*, ou « reprise de passages volumineux provenant d'œuvres allogènes ». Dans sa première pièce, Desfontaines pratique l'*excerptio minor* sans pour autant conserver in extenso les citations. L'exigence de la versification amène des modifications, mais le parallèle demeure évident dans la plupart des cas. Desfontaines cherche à recréer en vers des phrases qui correspondent souvent à des moments clefs du roman. Il est difficile de déterminer si ces reprises à peine modifiées (cf. tableau en annexe) illustrent la déférence au romancier, sont une constante dans les reprises de l'époque, ou constituent sa propre technique d'écriture.
 
@@ -349,10 +349,10 @@ Tout d'abord, la question de la durée. Les notions de temps sont vagues, rédui
 Ainsi, les modifications que Desfontaines amène ne sont pas unidirectionnelles. Des détails de l'adaptation – effacement de la durée, concentration des personnages – montrent que Desfontaines n'a pas choisi d'accentuer l'irrégularité de l'intrigue. Mais d'autres points, comme la scène de reconnaissance, créent des effets de surprise. L'adaptation épure sans effacer les rebondissements. Desfontaines paraît adopter une attitude relativement neutre, ou indifférente envers cette esthétique spectaculaire et irrégulière que lui offre la source romanesque. Vraisemblablement, c'est une histoire, un sujet, ou les jeux sur l'ambiguïté du langage qui l'intéressent. Il n'accentue ni n'efface l'irrégularité du roman. L'adaptation s'attache à restituer assez fidèlement une œuvre tout en l'infléchissant en fonction des goûts du public. Le choix du roman ne signifierait pas ici une revendication de l'irrégularité. Pourtant, les structures dramatiques, qui se caractérisent par l'extériorité et la réversibilité des événements, sont conditionnées par l'écriture du roman. Si le romanesque est en grande partie responsable de l'enchaînement et du choix des événements, appelant une esthétique spectaculaire et riche en rebondissements, il semble que la fidélité à la source et l'attention aux goûts du siècle, visible par le schéma de la pastorale, soient les principes ayant guidé le dramaturge dans cette création.
 
 
-# Étude de la pièce
+# Étude de la pièce.
 
 
-## « Tragi-comédie », le choix du sous-titre
+## « Tragi-comédie », le choix du sous-titre.
 
 L'étude *Eurimédon ou l'illustre pirate* se mènera au travers des notions d'extériorité et de réflexivité mises en évidence par H. Baby [70]. Mais ce ne sont peut-être pas ces caractéristiques qui ont incité Desfontaines ou Anthoine de Sommaville à sous-titrer « tragi-comédie » cette pièce. Dans un premier temps, nous examinerons les raisons qui ont pu leur faire choisir ce sous-titre. Nous reprendrons pour mener cette analyse les propos de G. Forestier dans *Passions tragiques et Règles classiques, essai sur la tragédie française* [71].
 
@@ -366,7 +366,7 @@ Celui qui compose les tragi-comédies emprunte à l'une la tragédie ses illustr
 *Eurimédon* doit sans doute sa dénomination de tragi-comédie aux caractéristiques mentionnées ci-dessus, mais il est d'autres principes dramaturgiques et esthétiques, l'extériorité et la réflexivité, qui rendent bien compte de la construction de la première pièce de Desfontaines comme du genre tragi-comique dans son ensemble.
 
 
-## Extériorité ou la tragi-comédie « à volonté »
+## Extériorité ou la tragi-comédie « à volonté ».
 
 Le principe d'extériorité peut-il être considéré comme régisseur de l'action de cette pièce ? L'action d'*Eurimédon* s'organise-t-elle linéairement sans découler de la situation initiale ni des caractères des personnages ? Ce sont les termes employés par Hélène Baby dans *La Tragi-comédie de Corneille à Quinault* que nous reprendrons ici. Le chapitre 2 de la partie intitulée « Principes dramaturgiques » s'intitule en effet « Une dramaturgie de l'extériorité ». La typologie dressée par J. Morel, qui distingue tragi-comédie « de palais » et « de la route » correspond en fait, d'après Hélène Baby, à une même structure linéaire. Le palais revient à superposer dans un même lieu les événements qui se présentent successivement dans la tragi-comédie de route. H. Baby souligne l'importance des notions d'extériorité et de linéarité dans la construction. En effet, l'action tragi-comique a une structure linéaire ou contingente, les événements sont souvent extérieurs, gratuits, et ne viennent pas de l'intériorité des personnages. H. Baby distingue trois types de tragi-comédies. La tragi-comédie qui s'organise linéairement, ou tragi-comédie de route, la tragi-comédie d'intrigue, rare, qui combine les obstacles, et la tragi-comédie « à volonté ». Cette dernière catégorie, majoritaire, mêle les principes structurels de la route à l'unité spatiale. *Eurimédon* semble ressortir à ce dernier type, mais plusieurs scènes se passent sur une route : suivre un classement absolu est donc impossible. L'étude des principes dramaturgiques régissant l'organisation de la pièce nous montrera néanmoins de nombreux aspects de la tragi-comédie « à volonté », telle qu'elle est présentée par H. Baby. L'avancée de l'action est-elle due à la succession des événements ou à des enchaînements nécessaires ?
 
@@ -387,10 +387,10 @@ Il semble que le palais appelle une même structure dramaturgique. Les actions 
 De la route au palais, les événements se succèdent sans être plus liés en un lieu que dans l'autre. L'usage de cette classification paraît rendre difficilement compte de la spécificité de cette pièce, d'autant que les deux lieux sont bien représentés.
 
 
-### Une structure linéaire : des actions coordonnées par le hasard
+### Une structure linéaire : des actions coordonnées par le hasard.
 
 
-#### Extériorité des événements
+#### Extériorité des événements.
 
 Les événements qui structurent la pièce sont-ils combinés ou ont-ils lieu successivement ? Se déduisent-ils les uns des autres ou sont-ils inattendus ? L'esthétique de cette tragi-comédie se détache radicalement des critères qui s'établissent dans la deuxième partie du siècle. Aristote, dans la *Poétique* écrit qu'« il y a une grosse différence entre le fait que ceci ait lieu *à cause* de cela et le fait que ceci ait lieu *à la suite de* cela. » [78], et il préfère le premier mode d'enchaînement, qui sera favorisé dans les créations classiques. Nous allons étudier les péripéties de l'intrigue, au sens de « retournement de l'action en sens contraire » pour voir si elles se produisent « selon la vraisemblance ou la nécessité » ou si, au contraire, c'est l'ajout d'un événement extérieur qui permet les revirements.
 
@@ -427,7 +427,7 @@ Cette précision pourrait laisser penser que déjà dans la première scène, De
 L'action évolue donc au gré d'éléments extérieurs, qu'il s'agisse de personnes ou plus abstraitement du hasard. L'esthétique de Desfontaines suit en cela l'esthétique de la tragi-comédie de la première moitié du siècle. Les événements de la pièce semblent adopter la structure suivante : un événement extérieur à l'action suit *chronologiquement* un événement de l'action – ou événement intérieur – et l'événement extérieur permet ensuite pendant quelque temps des enchaînements *logiques* de cause à conséquence. C'est bien une dramaturgie de l'extériorité qui se déploie dans *Eurimédon*.
 
 
-#### Les rares enchaînements logiques
+#### Les rares enchaînements logiques.
 
 Dans la partie précédente, nous avons cherché à établir de quelle manière les actions étaient coordonnées. Il en résultait le schéma suivant : Événement intérieur → *succession temporelle* → Événement extérieur → *relation de cause à conséquence* → Événements suivants, intérieurs. Des enchaînements logiques ont ainsi parfois lieu, mais ils restent assez rares. Nous allons restreindre notre étude aux changements de scènes, puisque une scène correspond la plupart du temps à une unité d'action, et nous tâcherons de mesurer la part de logique dans ces enchaînements.
 
@@ -438,10 +438,10 @@ Donc la logique n'est pas absente, mais elle n'est pas nécessaire. Les scènes 
 *Eurimédon* utilise donc une structure linéaire dans laquelle l'enchaînement des actions est temporel, arbitraire. Cette pièce relève d'une dramaturgie qui exploite l'événement extérieur. Est-ce une façon de mettre en scène l'arbitraire même ?
 
 
-### Célébration de l'arbitraire
+### Célébration de l'arbitraire.
 
 
-#### Les invraisemblances
+#### Les invraisemblances.
 
 Les nombreuses invraisemblances sont-elles à mettre au compte d'une esthétique qui célébrait l'arbitraire et le spectaculaire ? L'invraisemblance la plus magistrale a lieu lorsque les personnages ne reconnaissent pas Eurimédon sous l'apparence d'Hermionne. Ils remarquent une légère ressemblance avec Eurimédon mais les explications de ce dernier suffisent à effacer leurs doutes. Ainsi, Falante prévient le roi de la ressemblance frappante de l'amazone avec Eurimédon, mais cela n'inquiète pas le roi, puisque « Hermionne » prétend n'avoir jamais entendu parler d'Eurimédon. Même Pasithée est mystifiée parce que « Hermionne » affirme être la sœur d'Eurimédon. C'est précisément ce type d'invraisemblance que La Mesnardière va critiquer dans sa *Poétique* [88]. Comment une jeune fille ne reconnaîtrait-elle pas son amant sous un costume ? Il est pourtant impossible de porter cela au nom d'une négligence de Desfontaines. Le déguisement était une convention que les critiques de La Mesnardière ne sont pas parvenues à défaire, comme le signale G. Forestier dans l'*Esthétique de l'identité* [89], puisque cette règle n'a pas été reprise par d'Aubignac. Certes, de telles scènes sont totalement invraisemblables, d'autant plus que la seule personne à reconnaître Eurimédon sous son déguisement est son frère, qu'il n'a pas vu et qu'il n'est pas censé connaître dans la pièce. [90] Mais ces invraisemblances montrent le degré de convention qui régissait la représentation théâtrale à l'époque. Le costume est un signe qui suffit pour que les autres personnages ne pensent pas avoir Eurimédon sous leurs yeux. Le déguisement fonctionne par convention, l'invraisemblance ressortit à une esthétique qui connaît, reconnaît, et joue avec les règles de la représentation théâtrale. Tout le déguisement de Céliane appelle le même commentaire. [91]
 
@@ -456,7 +456,7 @@ L'argument d'Eurimédon, « le temps adoucira la colère de votre père », pa
 La pièce multiplie les invraisemblances, et relève d'une esthétique du spectaculaire. Nous n'en avons analysé que deux, mais nous aurions aussi pu observer les victoires aisées du pirate, le *deus ex machina*, Tygrane abandonnant aisément Pasithée… La part d'arbitraire que comportent ces incohérences ne saurait être inconsciente, puisqu'elle découle du choix du sujet et de la source. Choisir un roman et écrire une tragi-comédie, c'est accepter l'invraisemblance et l'arbitraire.
 
 
-#### Un personnage décide pour l'ensemble
+#### Un personnage décide pour l'ensemble.
 
 Un seul personnage décide du devenir des héros. L'obstacle qui s'oppose à leur bonheur est double. D'une part, Pasithée a déjà un prétendant en la personne de Tygrane, et en outre la naissance d'Eurimédon empêche au roi de lui accorder sa main. Pourtant, ces deux obstacles levés, le roi étant engagé par deux promesses envers Eurimédon, il refusera toujours d'autoriser le mariage. Le bonheur des héros ne dépend donc ni des conventions sociales ni de l'absence de rival, mais du bon vouloir d'un seul personnage, le roi Archelas. Le roi étant ridiculisé dans la pièce, il n'y incarne pas la Raison ou la Justice. Le sort des amoureux dépend d'une volonté arbitraire. C'est donc l'aspect hasardeux du devenir, du destin et du bonheur qui est mise en scène ici. En suivant le cours de la pièce, il est remarquable que le bonheur ou le malheur des amants est tributaire de ce personnage.
 
@@ -498,7 +498,7 @@ Opposants | (Archelas) | Pasithée fiancée à Tygrane ? Eurimédon a embrass
 L'obstacle de la naissance levé, rien ne devrait laisser Archelas s'opposer au mariage. En effet, si les audaces du jeune pirate peuvent encore justifier sa colère, d'autant qu'il est risible qu'un roi soit tombé amoureux d'un homme travesti, le roi ne peut néanmoins pas compter pour portion négligeable le fait que le jeune pirate – maintenant roi – lui a par deux fois rendu service. La générosité d'un roi ne devrait pas permettre un refus, qu'Archelas se permet sur quelques vers. Comment expliquer cette obstination ? Desfontaines a pu vouloir ridiculiser davantage le roi, faisant de lui un barbon têtu. Ce personnage contribue à développer la dimension comique de la pièce, présente dans cette tragi-comédie à la différence d'*Orphise* ou de *La suite du Cid*. Mais ce choix dramaturgique renforce encore le sentiment que les actions sont arbitraires, ou dues au hasard. Cette volonté vacillante et fantasque, détachée de la réalité des faits, contribue largement à faire de la dramaturgie de cette pièce un sensible exemple d'une écriture consciente de son caractère arbitraire.
 
 
-#### Le cas particulier du dénouement
+#### Le cas particulier du dénouement.
 
 Le dénouement renforce encore la gratuité des événements de cette tragi-comédie. L'invraisemblance de la reconnaissance finale, le *deus ex machina* à peine voilé, et les deux issues suggérées sont autant de signes de l'artificialité des actions et des rebondissements.
 
@@ -511,10 +511,10 @@ Le dénouement, par son effet de suspension, par le *deus ex machina*, et par so
 *Eurimédon ou l'illustre pirate* célèbre donc l'arbitraire de la création artistique, le met en scène et en joue avec dérision. Ainsi, cette pièce exploite le thème de la réversibilité des choses.
 
 
-### La psychologie des personnages est secondaire
+### La psychologie des personnages est secondaire.
 
 
-#### L'intériorité n'influe pas sur action
+#### L'intériorité n'influe pas sur action.
 
 Les revirements de l'action sont-ils dus aux pensées intérieures des personnages ? Nous avons décrit cette dramaturgie comme une dramaturgie de l'extériorité, mais il convient, pour affirmer et poser ce propos, de considérer les sentiments des personnages et de mesurer leur portée sur les péripéties.
 
@@ -532,7 +532,7 @@ Tygrane, le rival, a des sentiments qui varient. Il passe de l'opposition à la 
 Aussi, force est de conclure, avec H. Baby, que les revirements qui paraissent intérieurs incombent en fait à des événements extérieurs, aux actions des autres personnages ou aux faits. L'intériorité des personnages ne gouverne donc pas l'action.
 
 
-#### Valeur lyrique des sentiments ? Étude des stances et monologues
+#### Valeur lyrique des sentiments ? Étude des stances et monologues.
 
 Si les sentiments des personnages ne servent pas l'action, leur valeur est peut-être à chercher dans l'émotion esthétique qu'ils visaient à susciter dans le public. Les stances et monologues sont les lieux privilégiés de l'expression des sentiments, c'est pourquoi nous nous appuierons sur ces passages pour comprendre quelle peut être la place des sentiments dans cette tragi-comédie. En observant les monologues et les passages de stances, nous remarquons que les stances seules n'ont pas de rôle dans l'action. En effet, les monologues ont souvent une valeur explicative, ou servent à révéler les intentions cachées ou les caractères réels des personnages, ou servent, pour le monologue de Céliane (II, 5), à la délibération et à rendre crédible la venue d'un autre personnage. Ainsi, le premier monologue de Tygrane (II, 3) a pour but de lui faire formuler le projet de tuer Eurimédon et ce passage montre également son orgueil extrême, le spectateur se rend compte que le rival est plus blessé dans son amour-propre que dans son amour. Les propos que Céliane se tient avant d'arriver à Mitylène (II, 4) permettent d'expliquer qu'une femme se cache sous cet habit masculin, le monologue s'attarde un peu sur ses sentiments pour Tygrane, mais ce n'est pas la seule fonction de ce discours, qui par sa valeur explicative, permet d'annoncer l'action. En revanche, les stances ne font que reprendre des éléments de l'action déjà mentionnés et constituent dans cette pièce le lieu privilégié de la déploration. Les stances d'Eurimédon (III, 3) en sont un exemple, elles lui permettent d'exprimer sa colère contre l'injustice et l'ingratitude, incarnées ici par le roi. Eurimédon s'illustre dans le maniement de l'ironie et du double sens si bien qu'il abandonne les stances au profit d'un monologue ironique contre le sens des valeurs du roi.
 
@@ -574,17 +574,17 @@ Vous ne prendrez donc pas le soin de vous défendre.
 La princesse exprime sa déception à voir Eurimédon peu soucieux de remporter son cœur. Ainsi, l'irruption du rival amène l'ironie, les pointes, la stichomythie, de la vivacité d'esprit là où l'émotion était présente à son état naturel. Ces deux scènes, séduction dans l'intimité et le naturel, séduction en public et par l'esprit, donne deux versions de l'intelligence amoureuse et de l'expression des sentiments. Cependant, elles ne sont pas coupées de l'action puisque la déclaration d'amour, comme la révélation de l'amour aux yeux du rival lui sont nécessaires. L'expression des sentiments par des scènes dialoguées a un rôle dans l'action dans la mesure où elle permet de poser la situation initiale. Ces scènes expriment et posent le sentiment amoureux en visant à faire ressentir l'émotion ou l'admiration face aux jeux d'esprit. Ainsi l'intériorité des personnages est un plus un objet esthétique qu'un outil dramaturgique.
 
 
-## Réflexivité
+## Réflexivité.
 
 Les événements étant mus par des forces extérieures, leur indépendance ou leur autonomie amène à présenter le destin sous un jour arbitraire. Les personnages sont malmenés par des forces sur lesquelles ils ont peu d'emprise. Ce théâtre a donc conscience de son aspect arbitraire. Les actions sont voulues par un démiurge – le dramaturge. Ayant conscience de l'artificialité des enchaînements, des décisions, des révélations, cette dramaturgie l'exhibe, la met en scène, et la tourne en dérision. L'extériorité des actions se rit d'elle-même, le théâtre est réflexif et se regarde, c'est précisément un des points capitaux de la tragi-comédie d'après H. Baby.
 
 
-### Les personnages contraires à la convention « sérieuse »
+### Les personnages contraires à la convention « sérieuse ».
 
 Plusieurs personnages divergent de ce que devrait être leur attitude d'après les normes sociales de l'époque de la création ou d'après la convention des caractères. Certes la convention des caractères a été formulée plus tard. Ainsi, La Mesnardière décrit-il les caractères dans sa *Poétique* en 1639, mais cette rédaction résulte d'une conscience et de goûts que Desfontaines ne pouvait ignorer lorsqu'il écrivait son *Eurimédon*. Pouvait-il en effet ignorer qu'un roi ne tenant pas ses promesses ne respecte pas son propre honneur, et que si la scène se produit deux fois, il ne risque pas de passer pour un tyran, mais pour un fantasque risible ? Ainsi les personnages contraires à la convention sérieuse attirent-ils les rires. Et rire des conventions, n'est-ce pas les mettre en scène pour s'en jouer, n'est-ce pas regarder le théâtre qui se fait, pour parfois mieux le déconstruire ?
 
 
-#### Le roi-barbon
+#### Le roi-barbon.
 
 Le roi refuse de marier sa fille, il est dur avec elle et il tombe amoureux. Le personnage du roi est celui qui tourne le plus la convention en dérision. Comme nous l'avons évoqué plus haut, il ne tient pas ses promesses, et en outre il refuse de marier sa fille à un roi, adoptant ainsi le comportement du barbon de la farce, d'autant plus ridicule que lui-même tombe amoureux, et amoureux d'un homme déguisé en femme.
 
@@ -613,7 +613,7 @@ Je vous ayme (Madame) et ce delay me tuë.
 Aussi cette figure qui devrait inspirer le respect devient-elle cocasse, et nous avons montré que les modifications apportées au roman favorisaient cette figure. Le roi ressortit à l'esthétique comique de la pièce, c'est le personnage théâtral du roi qui est tourné en dérision. Cette tragi-comédie tourne en dérision un rôle traditionnel et joue avec les conventions.
 
 
-#### La princesse, fille, mais libre
+#### La princesse, fille, mais libre.
 
 Il est étonnant de voir une jeune fille honnête, ayant le sens de l'honneur et une certaine pudeur, accepter que l'homme qu'elle aime l'enlève. Cette scène 4 de l'acte V pourrait mettre en scène une princesse déchirée entre son sens de l'honneur et son amour. C'est ce qui est fait ici mais nous pouvons nous demander si le débat n'est pas quelque peu abrégé, de sorte que les hésitations de Pasithée paraissent être de pure forme. Nous observerons tout particulièrement sa dernière réplique :
 
@@ -630,14 +630,14 @@ La puissance des arguments évoqués dans les caractères romains est évacuée 
 Les personnages du roi et de la jeune fille sont construits sur le patron habituel de ces personnages de tragi-comédies. Le roi se présente rarement comme un roi et la fille agit en amoureuse. Par exemple, dans *Laure persécutée* de Rotrou, le roi est aussi ridiculisé, par ses propos qui signalent un caractère capricieux et colérique, en témoigne la réplique « Je veux ce que je veux parce que je le veux. » [106], mais aussi parce qu'il se fait abuser par un déguisement et tombe ainsi amoureux de Laure dont il souhaite la mort. Le personnel tragi-comique renverse des figures potentiellement « sérieuses ».
 
 
-### Mise en scène du vocabulaire ou des formules de politesse
+### Mise en scène du vocabulaire ou des formules de politesse.
 
 *Eurimédon ou l'illustre pirate* met-il en scène le vocabulaire et les formules propres au théâtre ? Nous allons nous attacher aux méprises d'identité dans lesquels un personnage prend l'autre pour une divinité. Cette scène se produit trois fois. Par deux fois, Archelas prend celui qui vient lui rendre service – Eurimédon ou « Hermionne » – pour un émissaire divin, voire pour un dieu. Nous remarquons que ce roi ne prend pas même les armes comme dans le roman, et qu'il semble se caractériser par sa couardise. Dès lors, il remercie chaleureusement qui vient lui porter secours, en établissant systématiquement une comparaison avec une divinité, appelant son sauveur « Alcide » ou l'amazone « déesse ». Ces comparaisons montrent aussi combien le roi se croit estimé des dieux, ce qui peut porter à sourire au vu de ses actes. Mais Eurimédon lui-même croit voir en Céliane une image divine venue lui porter chance. La divinité volant au secours des héros rappelle les *deus ex machina*. Ainsi, ces interventions divines ne sont peut-être pas uniquement le rappel des interventions divines de la mythologie. Il est possible d'y voir le souvenir des conventions théâtrales qui autorisent la matérialisation du divin. Les personnages paraissent être empreints des conventions théâtrales et les attendent. Les protestations d'Eurimédon, ou de Céliane « Non, non, je ne suis pas du rang des immortels, » exploitent l'aspect risible de ces propos. Autre exemple, dans la scène de confrontation, entre l'illustre pirate, Pasithée et Tygrane (II, 2), le langage de cour semble mis en scène et ses subtilités paraissent mener le héros à commettre quelques erreurs que nous avons analysées dans la partie « Valeur lyrique des sentiments ? » dans le chapitre sur l'extériorité.
 
 C'est bien une mise en scène, discrète et quelque peu ironique et critique, du théâtre lui-même qui s'opère dans un mouvement réflexif.
 
 
-### Déconstruction du péril de mort
+### Déconstruction du péril de mort.
 
 Desfontaines paraît employer le terme de tragi-comédie pour signifier que les personnages sont des rois, mais que le sujet, sentimental, mène au mariage. Nous avons vu dans la partie « tragique et comique » que la part de « tragique », au sens de péril, restait faible. Cette borne de la tragi-comédie semble peu exploitée. Au contraire, elle est même tournée en dérision. Le péril de mort devient source de rire. L'objet tragique est au centre d'un mouvement réflexif du théâtre.
 
@@ -650,12 +650,12 @@ emploie un impersonnel pour désigner ce que Céliane a déjà nommé : « Ast
 Il y a bien allusion à la possibilité de la mort, mais sur un mode assez léger car les apparitions sont tout à fait ponctuelles. Pas de péril proprement dit, mais des allusions à cette possibilité, tout autant dans la réalité de la fiction que dans sa création. La source tragique est ainsi dédramatisée et mise à distance.
 
 
-### Les déguisements : mise en scène de l'art de jouer et des ambiguïtés du jeu
+### Les déguisements : mise en scène de l'art de jouer et des ambiguïtés du jeu.
 
 Le déguisement est une figure fort employée au XVII*e* siècle, c'est même un « thème majeur de la littérature de l'époque de Louis XIII [108] ». De 1620 à 1660, les déguisements sont souvent employés, particulièrement au début de la période pour les tragi-comédies. Desfontaines s'inscrit dans ce courant, car trois déguisements sont mis en œuvre dans *Eurimédon*, un inconscient – le jeune pirate ignore qu'il est prince – et deux travestissements qui constituent des moyens d'approche amoureuse. L'emploi du déguisement amène nécessairement à faire jouer un personnage, et appelle dans une certaine mesure à mettre en abyme le processus théâtral lui-même, il participe de ce mouvement réflexif qui s'opère dans la première pièce du dramaturge. Les deux déguisements concernant Eurimédon ont été inspirés par le roman de Desmarets. Desfontaines souhaitait-il ne pas trahir *Ariane*, ou bien a-t-il apprécié ce schéma ? Il est difficile de trancher en l'absence de documents sur ce sujet, mais il a suivi ce moyen de faire avancer l'action en créant le personnage de Céliane, elle aussi travestie. Nous nous baserons pour cette étude sur les analyses de Georges Forestier, reprises dans L'*Esthétique de l'identité dans le théâtre français, (1550-1680), Le déguisement et ses avatars* [109]. Nous étudierons séparément chaque déguisement car ils n'ont pas la même forme et concernent des personnages différents.
 
 
-#### Déguisement inconscient du personnage principal
+#### Déguisement inconscient du personnage principal.
 
 Le déguisement qui occupe le plus grand espace temporel est le déguisement inconscient puisqu'il n'est révélé qu'à la dernière scène de la pièce. Le personnage principal, Eurimédon, est un pirate. L'apparition de son frère au dernier acte permet la révélation de son illustre « identité ». Il y a donc un déguisement inconscient du héros qui s'accompagne d'un mouvement social descendant.
 
@@ -666,7 +666,7 @@ Ce déguisement est-il bien opaque ? De nombreux faits viennent troubler l'imag
 Ce déguisement contribue moins au mouvement réflexif d'*Eurimédon* que les deux autres.
 
 
-#### Déguisement conscient du personnage principal
+#### Déguisement conscient du personnage principal.
 
 Le héros se travestit sur les deux derniers actes pour s'approcher de la princesse. Le déguisement lui permet de combattre sans être reconnu du roi, de s'attirer son amour, effet imprévu, et de s'approcher de Pasithée qui est en prison. Le travestissement se justifie surtout en référence au roman dans lequel la fille du roi ne pouvait être approchée que par des femmes lorsqu'elle était en prison. Ceci n'est pas mentionné dans la pièce, le travestissement se présente comme un déguisement quelconque qui a en outre le mérite de donner au héros l'espoir de dormir aux côtés de son amante.
 
@@ -686,14 +686,14 @@ Nous pouvons nous demander quelle est la part de plaisir et la part de stratégi
 Le travestissement d'Eurimédon ne se limite pas à un rôle dans l'intrigue, il permet au dramaturge de jouer sur les ambiguïtés du discours et sur les ambiguïtés sexuelles. Desfontaines développe une esthétique de la transgression qui paraît justifier seule les scènes où Eurimédon feint d'accepter les déclarations d'amour du roi. Mais il est vrai que cette scène peut aussi se justifier dans la mesure où il cherche à rester en faveur auprès du roi pour tenter d'influencer ses décisions et pour voir Pasithée. Ce déguisement amène l'acteur à jouer un double rôle particulièrement exploité dans la scène où il se trouve seul avec la princesse, car alors il est tiraillé d'une part par son rôle qui l'oblige à une certaine distance, à parler au féminin et d'autre part par ses sentiments, dont il lui faut contrôler l'ardeur afin de ne pas se trahir. C'est bien le rôle de l'acteur qui est mis en abyme par ce déguisement, et tout particulièrement dans cette scène où le voile tombe parce que l'acteur s'est montré.
 
 
-#### Déguisement conscient d'un personnage secondaire
+#### Déguisement conscient d'un personnage secondaire.
 
 Céliane a opté pour le même mode de déguisement que celui d'Eurimédon. C'est travestie qu'elle va tenter de poursuivre son infidèle amant. En ce qui concerne les seconds rôles féminins, G. Forestier remarque le « passage de la *reconquête* au premier rang (25, 3 %), très nettement devant la *fuite* (16, 4 %), et surtout devant *l'approche* » qui totalise 9 % des cas. Ce schéma est donc assez courant. Ce schéma actanciel, dans lequel le rival est éliminé par la présence d'une ancienne maîtresse, qui conduit à un double mariage est assez employé à l'époque. Le costume est encore le mode de signalisation employé. Mais, comme Céliane fait sa première apparition « en habit de Cavallier », il faut que le déguisement soit signalé au public, et c'est ce qu'elle fait dans son premier monologue. Pour la compréhension du costume, il faut que la parole double le physique, tant pour les spectateurs que pour Tygrane. Car Céliane ôte son casque et se nomme au moment de la reconnaissance. La fonction de ce déguisement est encore de médiatiser l'action. Un autre personnage, cavalier fictif, entre dans la ville, cachant sous ses vêtements Céliane, ainsi le déguisement est un moyen de reconquête amoureuse. Céliane tente d'abord de favoriser les amours d'Eurimédon et de Pasithée, puis elle se démasque devant Tygrane et le roi, ce qui force celui-ci à reconnaître qu'il ne peut pas légitimement prétendre à la main de Pasithée. Ce déguisement met aussi en scène le rôle même de l'acteur puisque Céliane est contrainte à jouer un rôle pour lequel elle n'est pas faite. C'est ainsi qu'elle se bat en duel contre Tygrane et perd au premier assaut. La rapidité de ce duel dédramatise une scène qui pourrait être tragique, tourne en dérision un homme qui ne s'étonne pas d'un triomphe aussi aisé, et fait sourire des difficultés que son costume occasionne à Céliane.
 
 Le déguisement est une convention attendue qui contribue ici à mettre en abyme le rôle de l'acteur et ses difficultés. Ce théâtre a pleinement conscience de son caractère conventionnel, il l'observe, et en joue.
 
 
-### Réversibilité des choses
+### Réversibilité des choses.
 
 Cette tragi-comédie met en scène, illustre et symbolise la réversibilité des choses. Tout et son contraire peuvent se produire. La tragi-comédie effectue sans cesse des rappels de la réversibilité des événements, se souvenant ainsi de leur caractère fictif. Elle s'inscrit en cela dans une esthétique baroque.
 
@@ -702,7 +702,7 @@ Ainsi, la pièce s'ouvre apparemment sur une conclusion. Une aventure, celle de 
 Les événements sont réversibles, on passe du malheur au bonheur, et réciproquement, les actions se dédoublent et se multiplient, les événements sont prolifiques. C'est la gratuité de l'événement qui s'exprime dans ces multiples figures de réversibilité. L'orchestration des faits dans cette pièce correspond bien à celle des tragi-comédies du début du siècle. Les actions sont gratuites, spontanées, orchestrées par le hasard et les rencontres. Elles peuvent se faire et se défaire. Cette dramaturgie signale en cela le caractère arbitraire des événements, elle a conscience de leur caractère fictif et le souligne. L'écriture d'*Eurimédon ou l'illustre pirate* se regarde elle-même, en se faisant.
 
 
-## Étude thématique
+## Étude thématique.
 
 
 ### Le thème du pardon en politique : un thème chrétien ?
@@ -736,7 +736,7 @@ Nous retrouvons ce thème dans l'*Alcionée* de Du Ryer [121]. Le roi refuse en 
 Ce thème qui est fortement souligné dans cette pièce, montre, en parallèle avec une pièce contemporaine, que le thème du pardon est lié à celui de la noblesse et de la valeur. Quel pardon y aurait-il pour un vrai pirate ? La réponse diverge selon son auteur, Eurimédon étant une figure de clémence aux côtés de l'impitoyable Archelas.
 
 
-### L'origine de la vertu
+### L'origine de la vertu.
 
 Y a-t-il dans cette pièce un débat sur l'importance de la noblesse intérieure ? Pasithée accorde plus de mérites aux actes qu'au nom. Elle considère que les faits renseignent plus sûrement sur la valeur d'un être que son nom. Elle fait donc confiance au pirate, quoiqu'elle ignore tout de sa naissance. Les actes lui font augurer de sa noblesse. Ainsi le fait montre l'homme. La question de la vertu rejoint la dialectique de l'être et du paraître, qui est d'ailleurs développée dans le roman de Desmarets. Le personnage de Tygrane occasionne dans le roman un débat sur la vertu. Son nom ne garantit pas sa valeur. Ses actions semblent dénoter un manque de noblesse, ce qui sera confirmé par la suite. Eurimédon raconte sa rencontre avec celui-ci « Je remarquay à son port et à ses discours, que c'estoit un homme comme Araxés me l'avois dépeint, qui paroissoit plustost né pour servir que pour commander ». Nous pourrions penser que le paraître est ici en adéquation avec l'être, or les personnages de Desmarets, comme ceux de Desfontaines, font la distinction entre les actes et le nom. Ceux qui se laissent abuser par le nom ne parviennent pas à bien juger les personnes qu'ils ont en face d'eux. En revanche, ceux qui se fient aux actes devinent l'essence de leurs interlocuteurs. C'est donc le nom qui relève du paraître, tandis que les actes sont en corrélation avec l'être. Pasithée se fie à l'être d'Eurimédon dont son père ne voit que le paraître. Bien évaluer la vertu c'est donc se fier aux actes, et le thème de la vertu recoupe la dialectique de l'être et du paraître.
 
@@ -745,15 +745,15 @@ Le thème de la vertu engendre d'autres questions. Qu'est-ce qui, de la naissanc
 Ainsi, Desfontaines ne développe pas ce thème de façon révolutionnaire. L'attention portée aux actes plus qu'au nom pourrait faire penser que la vertu peut se retrouver en tout homme. Mais puisqu'elle s'accorde à une naissance, nous rejoignons donc une idée assez classique.
 
 
-# Conclusion générale
+# Conclusion générale.
 
 La première pièce de Desfontaines témoigne d'une forte sensibilité à son époque, par son inspiration, qu'il puise dans *Ariane* de Desmarets, et par le choix du genre tragi-comique. Son intérêt pour les pièces et romans contemporains sera confirmé par les sources de ses autres œuvres. *Eurimédon ou l'illustre pirate* développe les caractéristiques propres à la tragi-comédie telle qu'elle se présentait au début du siècle. Elle n'est pas réduite à l'association de personnages nobles avec une intrigue sentimentale et une fin heureuse. La pièce reprend les principes dramaturgiques et esthétiques qui constituent l'essence de ce genre. Les actions ont des causes extérieures, elles sont enchaînées linéairement, font se succéder les rebondissements, et paraissent quelque peu arbitraires. Une telle gratuité événementielle, associée à des schémas dramaturgiques récurrents à l'époque, révèle le caractère particulièrement conventionnel de ce théâtre. Ceci n'est pas à porter au titre du conformisme ou de l'innocence de l'auteur puisque nous avons vu que cette écriture se regarde avec ironie et va jusqu'à se mettre en scène. Desfontaines, par ce premier essai, a en outre fait preuve d'originalité en apportant le thème des « illustres pirates » au théâtre. Il est difficile d'affirmer qu'il a engendré lui-même ce courant qui s'attache à mettre en scène les histoires sentimentales de ces aventuriers, mais il semble avoir participé à l'association de ce thème avec des scènes et structures particulières. Etablir une édition critique de cette pièce permet donc de comprendre par l'exemple ce que fut la création tragi-comique à son apogée et de saisir cette esthétique qui exploite l'arbitraire et la gratuité de la construction dramaturgique.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 
-## Description de l'édition
+## Description de l'édition.
 
 Il n'existe qu'une seule édition d'*Eurimédon ou l'Illustre Pirate*, réalisée en 1637 par Antoine de Sommaville. Quelques recueils factices ont été réalisés à partir de cette édition. Voici la description de cette édition :
 
@@ -774,13 +774,13 @@ Il n'existe qu'une seule édition d'*Eurimédon ou l'Illustre Pirate*, réalisé
 (I) Extraict du Privilege du Roy.
 
 
-## Exemplaires consultés pour l'établissement du texte
+## Exemplaires consultés pour l'établissement du texte.
 
 
-### Exemplaires de la Bibliothèque nationale de France
+### Exemplaires de la Bibliothèque nationale de France.
 
 
-#### Site Tolbiac Rez-de-Jardin
+#### Site Tolbiac Rez-de-Jardin.
 
 L'exemplaire utilisé pour établir la version de ce texte est l'exemplaire Res-Yf-384 de la BNF, numérisé sous la côte NUMM-72636.
 
@@ -817,17 +817,17 @@ L'exemplaire d'Eurimédon a été découpé indépendamment de la reliure, et le
 **Yf-572** : Cet exemplaire est hors d'usage et non communiquable.
 
 
-#### Site Richelieu-Arts de spectacle
+#### Site Richelieu-Arts de spectacle.
 
 **8-RF-5988** : Cet exemplaire est une édition séparée identique à la version utilisée pour l'établissement du texte.
 
 
-#### Site Arsenal
+#### Site Arsenal.
 
 4-BL-3492 (1) Pièce n°1, recueil factice « Théatr de Desfont. tom 1. », contenant : *Eurimédon ou l'illustre pirate*, même édition que précédemment, exemplaire identique à l'exemplaire utilisé pour établir le texte ; *La vraye suitte de Cid*, tragi-comédie, représentée par la Troupe Royale, Paris, Anthoine de Sommaville, 1638 ; *Orphise ou la beauté persécutée*, tragi-comédie, Paris, Anthoine de Sommaville, 1638.
 
 
-### Exemplaire de la Bibliothèque inter-Universitaire (BIU) de la Sorbonne
+### Exemplaire de la Bibliothèque inter-Universitaire (BIU) de la Sorbonne.
 
 Côte RRA8=424. Cet exemplaire était identique à l'exemplaire utilisé pour l'établissement du texte. Il a fait l'objet de corrections manuscrites non datées mais assez anciennes (plume). En voici la liste :
 
@@ -842,7 +842,7 @@ p.67 : « Perfide, osez-vous bien paroistre en cette lice ? » devient « 
 p. 81 : « Car c'est d'elle qu'on peut dire avec⁎ raison » ⁎avecque v. 1499
 
 
-### Exemplaires de la Bibliothèque Sainte-Geneviève
+### Exemplaires de la Bibliothèque Sainte-Geneviève.
 
 Le premier, 4 Y (2) INV (P.4) ex. 2, est un recueil factice comprenant :
 
@@ -885,33 +885,33 @@ La pièce *Eurimédon* est identique à la version choisie pour l'établissement
 Ces précisions nous permettent de conclure que, d'après les exemplaires présents à Paris, l'unique édition d'*Eurimédon* n'a pas fait l'objet de correction sous presse. L'auteur a pourtant relu la version imprimée, comme le montre l'avis au lecteur, mais la presse n'a pas été refaite.
 
 
-## Liste des corrections
+## Liste des corrections.
 
 Nous avons effectué quelques corrections nécessaires à une bonne compréhension du texte.
 
 L'imprimeur utilisait encore l'italique, nous avons changé la typographie et transcrit le texte en romain. Nous avons ainsi appliqué les modifications typographiques d'usage pouvant gêner le lecteur contemporain. Ainsi, nous avons distingué *i* voyelle de *j* consonne et *u* voyelle de *v* consonne. La ligature *&* a été systématiquement déliée en *et*. Nous avons remplacé les voyelles nasales surmontées d'un tilde par la voyelle et la nasale correspondante. D'autres signes typographiques, comme ** pour *ss*, *9* pour *us* (vers 126) et *aa* pour *â* ont été actualisés. De même, les accents diacritiques ont été rétablis pour distinguer la conjonction *ou* du pronom relatif *où*, ainsi que la préposition *à* du verbe avoir *a*. Ces modifications ont également été effectuées sur les citations des textes de l'époque.
 
 
-### Correction de où / ou et à / a
+### Correction de où / ou et à / a.
 
 Avis au lecteur : ou tu verras / v. 51 Ou sont-ils ? / v. 194 Où bien ce grand esprit / v. 231 Ou courez-vous Tygrane ? / v. 562 Mais aveugle fureur ou portes-tu … / v. 1140 la Thrace à reveré les loix / v. 1243 Où bien pour avoir faict ce genereux duël / v. 1244 où plustost si cruel / v. 1256 Punissent tost où tard / v. 1528 Où que vostre pitié / v. 1585 Ou va Tygrane / v. 1723 crime, où bien-faict / v. 1744 Où que comme un ingrat / v. 1780 Je possede le trosne ou regnoient / / v. 108, 124, 194, 375, 462, 494, 548, 580, 645, 762, 789, 849, 868, 1089, 1212, 1226, 1320, 1629, 1838 et entre v. 534 et 535, didascalie « Cartel a Tygrane » : A / v. 547 ce page a mon habit / v. 742 Te va faire servir a mon bras / v. 756 a vostre Majesté / v. 773 Qu'à faict ce Chevalier
 
 
-### Liste des coquilles de l'imprimeur, avant correction
+### Liste des coquilles de l'imprimeur, avant correction.
 
 Sonnet : A MADAMOISELLE DE VERTU. On a unifié l'orthographe de ce nom écrit « Vertu » ou « Vertus ». Le dictionnaire de *Moreri* orthographie Vertus le nom d'une famille de Bretagne, à laquelle Mademoiselle de Vertu semble appartenir (cf. introduction). / v. 7 du sonnet : Ont doit à tes attraits les plus beaux mouvemens / v. 10 du sonnet : Si j ose descouvrir à la posterité / v. 23 Et ma direction / v. 78 a faict ma recompense / v. 106 la renduë honnorable, / v. 131 Eurimedon / v. 170 n'ay / v. 207 l'ascheté / v. 278 commence a me desplaire, / v. 328 pour vostre repos / v. 352 tant / v. 357 Pasitée / v. 358 leus / v. 374 Qu'a regret / v. 426 Qui ma mis à propos / v. 527 que cherche-tu ? / v. 582 à mes maux / v. 591 ton dessein / v. 607 S'en / v. 615 Alors quelle sçaura / v. 616 Celuy quelle / v. 712 D'ont vous avez / v. 740 de se voir consommé / v. 815 Celuy d'ont / v. 845 Eurimedon, / v. 937 Dymoy / qu'à t'on faict / v. 1010 Ny qu'elle occasion / v. 1016 coup de ma mort. / v. 1096 vous vangè / v. 1128 Et contraint / v. 1148 d'éployer / v. 1246 essez proche / v. 1249 t'a rage / v. 1262 l'a malheureuse / v. 1265 m'a peine / v. 1298 ma surprise / v. 1335 Et s'est mal / v. 1363 Alors quelle commande / v. 1364 Et ce quelle cherit, / v. 1371 a pareil / v. 1508 Qu'il alors qu'il / v. 1515 Les graces / v. 1535 S'en / v. 1553 a d'estruit de delices / v. 1557 t'on audace / v. 1569 cette impor-ne Idee (- correspond au retour à la ligne) / v. 1577 d'y moy que Celiane, / v. 1800 m'est entrè / v. 1810 Vous sçavez quelle fut / v. 1851 mon devoir. / p. 51 et 54 : erreur de numérotation des scènes, les deux dernières scènes de l'acte III portaient les numéros : « SCENE QUATRIEME » et « SCENE CINQUIESME ». / Dans les noms de personnages acte V scène 2 : l'exemplaire que j'ai consulté nommait TYGRANE le premier personnage prenant la parole, au lieu de CELIANE.
 
 NB : Nous avons conservé l'orthographe *en fin*, que Furetière écrit *enfin*, car elle était unifiée dans ce texte, et correspond à la formation du mot.
 
 
-### Erreurs signalées par Desfontaines
+### Erreurs signalées par Desfontaines.
 
 Desfontaines, dans l'avis au lecteur, signale que l'imprimeur a fait des coquilles telles que doncque pour doncq, ou encore pour encor, ou avec au lieu d'avecque :
 
 v. 1257 Ne demande doncque pas un salaire Prophane : / v. 1345 Excusez doncque Seigneur ces Innocentes flames, / v. 1499 Car c'est d'elle qu'on peut dire avec raison / v. 1741 Quoy donque, aymez-vous mieux que la rigueur d'un pere
 
 
-### Corrections concernant la ponctuation
+### Corrections concernant la ponctuation.
 
 Nous avons conservé la ponctuation de l'époque, qui servait de repère pour la prononciation. Nous avons néanmoins modifié le vers 401 qui s'achevait par « crainte. ». En effet, Dolet, dans *La punctuation de la langue Francoise*, Paris, Dolet, 1540, désigne le point comme marque de fin de sentence et rappelle qu'il n'est « jamais … en aultre lieu ». Furetière, en 1690, signale que le point s'inscrit lorsque le « sens est complet », la « période achevée ». De plus, ce point en milieu de phrase ne peut désigner une pause longue puisqu'il y a enjambement.
 
@@ -919,7 +919,7 @@ Nous avons conservé la ponctuation de l'époque, qui servait de repère pour la
 # EURIMEDON OU L'ILLUSTRE PIRATE, TRAGI-COMEDIE.
 
 
-## A MADEMOISELLE DE VERTUS, [122]
+## A MADEMOISELLE DE VERTUS, [122].
 
 MADAMOISELLE,
 
@@ -955,12 +955,12 @@ Te donnent aujourd'huy le beau nom de VERTU.
 DESFONTAINES.
 
 
-## AU LECTEUR
+## AU LECTEUR.
 
 Lecteur je croirois offencer ton jugement si je ne le croyois capable de discerner les fautes qui se sont glissees en l'Impression de cét ouvrage, et je ferois tort à ta courtoisie si je ne croyois que tu les excuseras ; c'est pourquoy sans m'arrester à t'en faire le denombrement, je te supplieray seulement de remarquer qu'en deux ou trois endroits où tu verras que les vers manqueront en leur mesures, la faute vient de ce que l'Imprimeur a escrit doncque pour doncq, encore au lieu d'encor, et une fois avec, au lieu d'avecque pour le reste je le laisse à ta discretion.
 
 
-## LES ACTEURS
+## LES ACTEURS.
  – ARCHELASRoy de la Troade pere de Pasithee.
  – MELINTERoy de Thessalie et frere d'Eurimedon.
  – EURIMEDONAmant⁎ de Pasithee.
@@ -975,14 +975,14 @@ La Scene est en l'Isle de Lesbos.
  
 
 
-## ACTE I
+## ACTE I.
 
 
 ### SCENE PREMIERE.
 EURIMEDON, PASITHEE.
 
 
-    EURIMEDON *sortant d'un navire et mettant PASITHEE au port.*
+    EURIMEDON *sortant d'un navire et mettant PASITHEE au port.*.
 En fin (belle princesse) [130] apres beaucoup d'orages⁎  
 Vous revoyez encor ces aymables⁎ rivages,  
 Neptune [131] partizan des ambusches d'amour  
@@ -1037,7 +1037,7 @@ Toutesfois de son front l'auguste⁎ majesté
 Mieux qu'un sceptre Royal faict voir sa qualité.  
 
 
-### SCENE DEUXIESME 
+### SCENE DEUXIESME. 
 ARCHELAS, EURIMEDON, PASITHEE, FALANTE.
 
 
@@ -1231,7 +1231,7 @@ Et sa grace⁎ conjointe aux offices du bras [157]
 Nous fera confesser que nous sommes ingrats.  
 
 
-### SCENE TROISIESME 
+### SCENE TROISIESME. 
 
     TYGRANE.
 Destin, Neptune, Amour, Dieux cruels⁎, tristes Astres⁎  
@@ -1270,7 +1270,7 @@ Que je te forceray de me rendre ma Reyne,
 Ou d'achever ma vie en achevant ma peine.  
 
 
-### SCENE QUATRIEME
+### SCENE QUATRIEME.
 FALANTE, TYGRANE.
 
 
@@ -1539,7 +1539,7 @@ Madame parlez bas, j'entends venir quelqu'un.
 Sans doute⁎ (Eurimedon) c'est ce Prince importun⁎ [185].  
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 EURIMEDON, PASITHEE, TYGRANE.
 
 
@@ -1680,9 +1680,9 @@ Mon rival doit mourir, et mon contentement
 Ne doit estre tiré que de son monument [198].  
 
 
-### SCENE QUATRIEME
+### SCENE QUATRIEME.
 
-    CELIANE *en habit de Cavallier.*
+    CELIANE *en habit de Cavallier.*.
 He bien cruel⁎ Amour que fera Celiane ?  
 Porteray-je l'enfer dans le ciel de Tygrane ?  
 Dois-je craindre, esperer, ou voir que ton flambeau  
@@ -1727,7 +1727,7 @@ Page que cherches-tu ?
     ARGAMOR.
                     Je cherche Eurimedon.  
 
-    CELIANE. 
+    CELIANE.
 Feignons pour sçavoir tout que je porte ce nom. [203]  
 
     ARGAMOR.
@@ -1757,10 +1757,10 @@ De sortir promptement des murs de Mitylene,
 Il receuvra de moy la satisfaction  
 Qu'on doit donner à ceux de sa condition.  
 
-    ARGAMOR *s'en allant.*
+    ARGAMOR *s'en allant.*.
 Seigneur dans peu de temps vous y verrez Tygrane.  
 
-    CELIANE. [205]
+    CELIANE. [205].
 Et pour Eurimedon il verra Celiane.  
 Ce Page à mon habit m'a pris pour ce rival  
 À qui ce Prince ingrat prepare tant de mal,  
@@ -1815,7 +1815,7 @@ Fera de son tombeau celuy de son amour ;
 Mais je le vois venir, songeons à nous deffendre.  
 
 
-### SCENE SIXIESME 
+### SCENE SIXIESME. 
 TYGRANE, CELIANE
 
 
@@ -1842,7 +1842,7 @@ Tu mentiras perfide⁎.
 Quand Mars [209] et tous les Dieux te viendroient secourir,  
 Ce propos insolent te coustera la vie.  
 
-    CELIANE *tombant.*
+    CELIANE *tombant.*.
 Ah Dieux ! ce coup mortel seconde son envie,  
 Je meurs contente⁎ (ingrat.)  
 
@@ -1865,7 +1865,7 @@ Sçachons ce qu'ils auront deliberé de moy. [212]
 
 ### SCENE SEPTIESME. 
 
-    CELIANE *revenant de son esvanoüissement.*
+    CELIANE *revenant de son esvanoüissement.*.
 Quel Astre⁎ malheureux⁎ jaloux⁎ de ma fortune⁎  
 Donne encore à mes yeux sa lueur importune⁎ ?  
 Quel funeste Demon apres tant de douleurs  
@@ -1913,7 +1913,7 @@ Je consens librement qu'on m'arrache la vie,
 Pourveu qu'en vous disant ces funestes adieux,  
 On m'accorde l'honneur de mourir à vos yeux.  
 
-    PASITHEE. 
+    PASITHEE.
 Eurimedon, le Roy hait trop l'ingratitude  
 Pour faire à ses amis un traictement si rude,  
 Et vous devez penser qu'il ayme assez l'honneur⁎  
@@ -1933,7 +1933,7 @@ Et vous pouvez ailleurs arracher mille palmes,
 Au lieu que la grandeur d'un courage indompté  
 Se destruit tous les jours dedans l'oysiveté.  
 
-    PASITHEE. 
+    PASITHEE.
 Sans doute⁎ (Eurimedon) que c'est un stratageme  
 Que Tygrane a joué croyant [215] que je vous aime ;  
 Mais à ce compliment qu'avez-vous respondu ?  
@@ -2035,7 +2035,7 @@ N'attend que le bon-heur de se voir consummé⁎ [222].
 EURIMEDON, PASITHEE, ARCHELAS, FALANTE.
 
 
-    ARCHELAS *mettant la main à l'espee.*
+    ARCHELAS *mettant la main à l'espee.*.
 Insolent bien plustost mon courroux legitime  
 Te va faire servir à mon bras de victime.  
 
@@ -2046,10 +2046,10 @@ Ah Sire !
         Laisse moy punir ce suborneur,  
 Qui faict de mon Palais le tombeau de l'honneur⁎.  
 
-    PASITHEE *à Eurimedon.*
+    PASITHEE *à Eurimedon.*.
 Seigneur au nom des Dieux evitez sa colere.  
 
-    EURIMEDON *s'en allant.*
+    EURIMEDON *s'en allant.*.
 Ah de tant de bien-faits trop indigne salaire⁎ !  
 
     ARCHELAS.
@@ -2111,7 +2111,7 @@ Vos discours changeront dans peu de temps d'icy.
 
 ### SCENE TROISIESME. 
 
-    EURIMEDON *s'en allant*. [225]
+    EURIMEDON *s'en allant*. [225].
 
 À quel point m'a reduit la cruauté des Astres⁎  
 Qui m'affligent tousjours,  
@@ -2149,7 +2149,7 @@ Celuy dont ta rigueur afflige Eurimedon ?
 
 ### SCENE QUATRIEME.
 
-    CELIANE *en sa solitude.*
+    CELIANE *en sa solitude.*.
 Dieux que je suis surprise et confuse à ce nom !  
 Tirons-nous à l'escart, et sçachons par sa plainte  
 Toutes les passions dont son ame est atteinte.  
@@ -2168,7 +2168,7 @@ Ceux qui t'ont tesmoigné moins d'amour que d'effroy,    
 Lors⁎ que par Araxés leur Princesse ravie  
 Devoit [227] estre sauvee aussi-tost que suivie.  
 
-    CELIANE *à part.*
+    CELIANE *à part.*.
 Voyla le Chevalier pour qui [228] j'ay combatu,  
 Et de qui ma foiblesse a trahy la vertu⁎.  
 
@@ -2191,7 +2191,7 @@ Et joignons nostre droict à ses ressentimens.
     EURIMEDON.
 Le Ciel  
 
-    CELIANE *l'abordant.*
+    CELIANE *l'abordant.*.
             Eurimedon, vous sera plus propice [229]  
 S'il ouvre quelque jour l'oreille à la Justice  
 
@@ -2586,7 +2586,7 @@ Sont les visibles traits d'une Divinité.
 ARCHELAS, FALANTE, EURIMEDON, TYGRANE, CELIANE déguisee.
 
 
-    EURIMEDON *en Amazone tenant la teste d'Araxés.*
+    EURIMEDON *en Amazone tenant la teste d'Araxés.*.
 En fin (Sire) voila ce superbe⁎ Encelade [240]  
 Dont la temerité menaçoit la Troade,  
 Voila de vos sujets la terreur, et l'effroy,  
@@ -2732,7 +2732,7 @@ Ce n'est pas à ce prix que mon courage aspire,
 Que cette Deïté regne dans vostre Cour,  
 Mais ne reffusez point Pasithee à l'amour.  
 
-    CELIANE *ostant son casque.*
+    CELIANE *ostant son casque.*.
 Perfide⁎, osez-vous bien paroistre en cette lice⁎ [248] ?  
 Crois-tu que la vertu recompense le vice ?  
 Et que le Ciel honteux des crimes que tu faits,  
@@ -2923,7 +2923,7 @@ Et ce qu'elle cherit, on ne le peut haïr.
 EURIMEDON, PASITHEE, ALERINE dans la prison.
 
 
-    EURIMEDON *en Amazone.*
+    EURIMEDON *en Amazone.*.
 Digne objet⁎ de pitié, mais beaucoup plus d'envie  
 Qui tiens mesme d'Amour la liberté ravie,  
 Se peut-il que je voye en ces funestes lieux  
@@ -3300,7 +3300,7 @@ Allons.
 CELIANE, TYGRANE.
 
 
-    CELIANE. [255]
+    CELIANE. [255].
     Où va Tygrane ?  
 
     TYGRANE.
@@ -3731,17 +3731,17 @@ FIN.
 Achevé d'imprimer le 6 juin 1637.
 
 
-# Lexique
+# Lexique.
 
 Nous avons intégré dans ce glossaire tous les termes dont le sens s'écarte de l'usage actuel.AbordAccueil, « accès que l'on donne aux personnes qui ont à faire à nous »V. 321.Le sens de contact, rencontre, correspond au sens actuel, nous ne le relevons donc pas.Abord (d')« Dès le premier instant » (A.), aussitôtV. 389 et 1548.AccidentCoup du sort, « cas fortuit, ce qui arrive par hasard » (A.) « hasard, coup de fortune » (F.)V. 215Accorder« Acccorder une fille en mariage, quand les parents donnent une fille à celui qui la leur demande » (F.)V. 1838.Adorable« Qui mérite le plus profond des respects. … Se dit aussi abusivement et hyperboliquement des choses du monde. Les amans trouvent leur maitresse *adorable* » (F.) *Adorable* est courant dans le lexique amoureux, où il est employé hyperboliquement pour qualifier la personne aimée. C'est une dérivation du vocabulaire religieux vers le vocabulaire amoureux.Dans le sens digne d'amour, v. 9, 1027, 1499 et dans un sens laudatif moins fort, v. 181, 987, 1842.Adveu« Reconnoissance, confession » (F.)V. 1468.Advoüer« Reconnoître la verité » (F.), sans que cet aveu coûte à celui qui l'accomplitV. 263, 1342, 1396, 1427« Reconnoître pour sien, proteger » (F.)V. 438.Allegeance« Soulagement d'un mal » (F.)V. 493.Alors*Lors* et *alors* ont le même sens. Furetière renvoit à *lors* pour le sens d'*alors.*Alors est utilisé vers 27, 615, 676, 735, 1295, 1364, 1600, 1749 et lors v. 89, 339, 369, 575, 800, 830, 1144, 1431, 1589, 1680, 1810. Les deux termes sont donc utilisés par Desfontaines.Amant, amante« Celui qui aime d'une passion violente et amoureuse. » (F.)Liste des personnages, v. 224, 940, 1356, 1475, 1553, 1592 et 1721.Désigne aussi celui qui aime et est aiméListe des personnages, v. 464, 1314, 1327, 1329, 1721 et 1758.Le terme d'amant n'avait pas sa connotation péjorative actuelle. Comme le fait remarquer A. Sancier-Château [267], amant connaît des fluctuations de sens et désigne parfois celui qui aime sans retour. AmourSubstantif masculin et féminin pour Furetière.Amoureux, euseQui aime sans être obligatoirement aiméV. 243, 307, 556.Appas« Ce dit figurément en choses morales de ce qui sert à attraper les hommes, à les attirer, à les inviter à faire quelque chose. La vie solitaire a ses appâts, et ses charmes. En ce sens on a accourci le mot, et on dit appas, au lieu d'appâts. » (F.) Attraits, charmes.V. 567, 627, 1345.Arrest« Jugement ferme et stable d'une puissance souveraine. » (F.)v. 27, 292, 468, 651, 737ArtificeTromperieV. 806.AstreL'astre symbolise le destinV. 197, 621, 790, 1007 et 1668.Auguste« Majestueux, venerable, sacré » (F.)V. 43, 249, 1087, 1150, 1351, 1646, 1825, 1834.Aymable« Qui a des qualités qui attirent l'amour ou l'amitié de quelqu'un » (F.)V. 2, 92, 1172, 1417, 1577.BonheurChanceV. 424, 840, 1221 et 1229.Bonté« Attribut de la Divinité, quand on la considèrre souverainement bonne à cause de sa clémence, de sa miséricorde, de ses graces. En morale chrétienne, se dit de la vertu, et particulièrement de la charité, de la douceur, des mœurs, de l'inclination à assister son prochain, de la patience à souffrir les afflictions, les injures. » (F.)V. 9, 755, 1472 et 1496.Changement, changeChangement des sentiments amoureux « un inconstant aime le change » (F.)V. 207, désigne par extension le changement d'amitié, v. 398, et le changement d'avis inattendu, v. 642.Charme« Puissance magique par laquelle avec l'aide du Démon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de nature. Se dit figurément de ce qui nous plaist extraordinairement, de ce qui nous ravit en admiration. » (F.) Sens très fort, magique de « charme »V. 5, 57, 297, 1361, 1431, 1501, 1574, 1631, 1769.ChefTêteV. 203, 1128Cœur« Vigueur, force, courage, intrepidité » (F)V. 450, 574, 988, 1005, 1731 et 1740.Confondre« Troubler » (A.)V. 1100.Confusion« Embrouillement » (F.)V. 476 et 1392.ConsommerParfois confondu avec Consumer : « destruire, dissiper » (F.), employé pour le temps ou le feu, et par métonymie, pour l'amourV. 303 et 741.Furetière distingue bien ces deux verbes, tandis que L'Académie fustige cet emploi : « Plusieurs confondent mal à propos *consommer* avec *consumer* »Constamment« Avec fermeté » (F.)V. 573.Content, e« Qui n'a point de besoins, qui ne désire rien » (F.)V. 607, 1210, 1282.Corsaire« Pirate, Escumeur des mers, celuy qui court les mers avec un vaisseau armé sans aucune comission pour voler le Marchands », ce terme est donc aussi péjoratif que pirateV. 94 et 142.Courtoisie« Gracieux accueil » (F.)V. 282« Plaisir qu'on rend volontairement à quelqu'un sans y estre obligé » (F.)V. 1503 et 1474.Cruel« Se dit des choses qui sont simplement fascheuses » (F.)V. 197, 266, 497, 557, 631, 696, 1618 et 1683.Cyprez« Nom d'arbre assez connu, qui est le symbole de la mort »V. 1065.Decevoir« Tromper adroitement » (F.)V. 472Deffendre« Interdire l'usage de quelque chose »V. 192, 767.DépitViolente irritation, profonde rancœurV. 1362, 1632.Desplaisir« Chagrin, tristesse » (F.)V. 1486, 1665.Discretion« Prudence, modestie qui sert à conduire nos actions et nos paroles » (F.) « Judicieuse retenue, circonspection dans les actions et dans les paroles » (A.), idée de discernement plus présente qu'en français moderneV. 264, 270, 727, 1717.DisgraceMalheurV. 1003, 1667.Diviser« Separer, mettre à part »V. 273« Mettre en trouble » (F.)V. 943.Enchanter« User de magie, d'art diabolique pour osperer quelque merveille qui arreste le cours de la nature » (F.)V. 473, 1769. En effetEn réalité, en vraiV. 170.EnnuiDouleur, souffranceV. 1476.Eprouver« Experimenter, essayer la bonté d'une chose » (F.)V. 269, 575, 848 et 965.Equipage« Provision de tout ce qui est nécessaire pour voyager » (F.), donc les habitsV. 501. Eslargissement« La liberté qu'on donne à un prisonnier qu'on tire hors des prisons » (F.), ou la libération d'un otageV. 384.Estonner« Se dit des emotions du corps qui sont ébranlez et attaquez par quelque violence » (F.)V. 165, 1085, 1099. Faillir« Pécher, manquer à son devoir » (F.)V. 369, 1264, 1317.FaitsHauts faits, exploitsV. 727.Faix« Corps pesant qui porte sur quelquechose et qui le charge » (F.)V. 1739.FlameAmourV. 513, 562, 586, 951, 1179, 1195, 1310, 1320, 1330, 1346, 1814.Fortune« C'est … la providence divine qui agit par des voyes inconnuës, et au dessus de la prudence des hommes » ou « ce qui arrive par hasard » (F.)V. 46, 132, 353, 425, 621, 645, 689, 710, 1079.Galion« C'est un grand vaisseau de haut bord, qui a trois ou quatre ponts, et qui ne va qu'à voile » indique Furetière qui ajoute que l'emploi est très restreint à son époqueV. 255.Genereux« Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre intérêt. » (F.)V. 35, 259, 768, 868, 872, 892, 992 et 1702.GloireHonneurV. 106, 376, 537, 1006, 1044RéputationV. 182, 457, 665, 713, 724, 1075FiertéV. 814.Grace« Faveur qu'un supérieur fait à un inférieur sans qu'il l'ait méritée. »V. 644, 685, 1383« Se dit aussi de la faveur, de la bienveillance, de l'amitié de quelqu'un. Etre dans les bonnes graces d'une dame »V. 1279« Signifie aussi, remerciement »V. 1489 et 1634« Agrément, beauté, charme » (F.)V. 261, 293, 315, 442, 1362, 1498, 1605, 1610, 1825.Grace (de)« Par faveur, par pitié, par courtoisie » (F.)V. 189.Graces« Du temps des payens, étoient trois Divinitez fabuleuses, qu'on peignoit toutes nuës, et qu'on feignoit être de la suitte de Venus. » (F.)V. 1516.Heur et ses composésLa graphie décompose parfois les termes mal-heur et bon-heur. Cela vient de la formation de ses mots. Heur vient du « latin classique *augurium* « présage (favorable ou non), d'où « chance, bonne ou mauvaise ». ».Heureux« Chanceux, à qui le hasard est favorable » (F.)V. 85, 425 et 501« Se dit figurément en choses spirituelles et morales » (F.)V. 1358« Ce qu'on croît être cause de quelque bonheur, de quelque avantage »V. 4, 417, 1042, 1137.Honneur« S'applique plus particulierement à deux sortes de vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes. » (F.)V. 17, 62, 331, 376, 659, 745, 767, 987, 1316, 1540, 1735, 1802.Hymen, hyménéeMariageV. 843, 1832.Importun, e« Qui est incommode, qui est à charge, qui apporte quelque ennui » (F.)V. 122, 412, 622, 709, 1211, 1452 et 1454.Importuner« Se rendre importun » (F)V. 220.Inclination« Se dit … de l'amour, de la bonne volonté qu'on a pour quelqu'un » (F.)V. 419, 483, 511, 928.Incontinent« Sur l'heure, dans un moment » (F.)V. 260.Indiscret« Celuy qui agit par passion, sans considerer ce qu'il dit ni ce qu'il fait » (F.)V. 1322 et 1544.Infortuné, éeMalheureux, seV. 90 et 477.Innocence (par)« Sans dessein de nuire » (F)V. 369.Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables » (F.)V. 666, 865.Interessee« Porter quelque prejudice a quelqu'un » (F.)Sonnet.Jaloux, se« Ceux qui possedent une chose et craignent de la perdre » (F.) d'où, être particulièrement attaché à, être soucieux deV. 621, 665.Laurier« La gloire d'un triomphe, d'une conquête », (F.)V. 680, 908, 980, 1065, 1088.Lice« Se dit … d'une simple carrière à courre la bague, et à disputer le prix de la course » (F.)V. 1238, entrer en lice signifie prétendre à la main de Pasithée, concurrencer les autres chevaliers qui la demandent. LorsVoir AlorsV. 89, 339 et 369.Lucre« Gain, profit » au XVII*e* siècle, ce terme avait déjà « peu d'usage » d'après FuretièreV. 156.Maitresse« On le dit particulièrement d'une fille qu'on recherche en mariage. » (F.)V. 356, 1185.Malheur« Accident, rencontre fâcheuse, dommageable. Se dit aussi des coups du hasard. » (F.)V. 59, 1006, 1132, 1644 et 1757. Malheureux« Meschant, scelerat » (F.)V. 621« Se dit de celuy à qui tout ce qu'il entreprend succede mal, soit par son peu d'adresse, soit par le hasard, par la mauvaise conjoncture des affaires » (F.)V. 175, 383, 575, 873« Ce quicause du malheur, ou qu'on croit le causer »V. 621, 1263, 1553« Tout ce qui est mauvais en son genre » (F.)V. 36, 621, 1263.Meschancetez« Sceleratesse, malignité », donc sens très fort car le Malin, c'est le diableV. 336.Mettre à couvertMettre à l'« abry », dans un « lieu à l'ombre » (F.), d'où protégerV. 138, 618 et 1727.Misérable« Vil, meprisable » (F.)V. 10.Mutin« Qui se révolte contre l'autorité légitime » ou contre « la raison » (F.)V. 156Myrthe« Arbrisseau fort estimée des curieux », qui est aussi le « symbole de l'amour » (F.)V. 904, 980, 1865.ObjetSe dit « poëtiquement des belles personnes qui donnent de l'amour. » (F)V. 243, 278, 312, 357, 515, 616, 713, 837, 1188, 1201, 1321, 1366, 1504, 1561, 1617, 1697, 1713, 1787.Obligation« L'engagement qui vient de quelque plaisir, de quelque bon office qu'on a receu » (A.) la reconnaissanceV. 194.Obliger« Faire quelque faveur, civilité, courtoisie », (F.)V. 126, 383, 429, 632, 855, 1048, 1578, 1648 et 1771.Occasion« Rencontres particulières » (F.)V. 86« Cause, sujet » (F.)V. 1011, 1719.Orage« Malheur passager » (F.)V. 1, 389, 618, 867, 954, 994, 1070, 1219, 1636, 1727.Oubly« On dit oublier une injure, une offence, pour dire, ne garder plus de ressentiment d'une injure, d'une offence » (F.)V. 26, 1598, 1703. Paranymphes« C'étoit autrefois celuy qui conduisoit par honneur l'épousée, qui assistoit à ses nopces. » (F.), d'où, celles qui accompagnentÉpître.Partie« En termes de Palais, se dit de tous les plaideurs » (F.), partie désigne donc la partie adverse dans un procèsV. 1022.Perfide« Qui manque de foi, qui trahit, qui manque à sa parole »V. 5, 110, 232, 332, 509, 603, 629, 964, 1136, 1238, 1587, 1792.Pirate« Corsaire, Escumeur des mers, qui fait des courses sur mer sans aveu ni autorité de République. ». Furetière ne distingue donc pas le pirate du corsaire, et Desfontaines utilise le terme seulement dans le titre.Pitoyable« Se dit de celuy qui a des sentimens de compassion pour les miseres d'autruy » (F)V. 205, 1359.PompeCortège solonnel, magnificience, « despense magnifique qu'on fait pour rendre quelque action recommandable » (F.)V. 42PoudrePoussièreV. 137.PretendreAspirer à, vouloirV. 721, 774, 1340.Prevenir« Estre le premier à faire la mesme chose », devancerV. 115.Protester« Promettre » (F.)V. 1108.Querelle« Combat »V. 1135.QuesteRecherche, demande. La quête désignait pour les corsaires le piratageV. 154.Rebeller (se)Sens fort, « Se revolter, mespriser l'autorité des loix et du Prince, tirer l'espée contre luy » (F.)V. 309.Recevoir« Faire un bon ou mauvais acceuil » (F.), bon accueilV. 1861.Resoudre« Se déterminer à faire » (F.)V. 311, 643, 677 et 1821.Ressentiment« Se dit figurément en morale, des sentiments de l'ame quand elle est émeuë de certaines passions » (F.)V. 19, 611, 785, 968, 1363, 1569, 1685, 1794.Sacrilegé« Se dit aussi de la personne qui commet un sacrilege » (F.)V. 318SalaireRécompenseV. 70, 747, 1258.Sans douteAssurément, sans aucun douteV. 202, 412, 475, 673, 886, 1038, 1604, 1659.Sentiment« Se dit figurément en choses spirituelles. Ce mot étant seul, signifie toujours au singulier, Avis, opinion, pensée, jugement. » (F.)V. 309.Servage« Vieux mot qui signifioit autrefois *esclavage, servitude*, et qui s'est employé pour marquer la captivité, l'attachement d'un amant à une maitresse » (F.)V. 95, c'est le sens premier, déjà désuet, qui est employé.Service« Assistance, bon office qu'on rend à quelqu'un. » (A.), par extension, Tygrane l'emploie pour désigner la cour qu'il a faite à PasithéeV. 486.Soin« Attache particuliere qu'on a auprés d'un maistre, ou d'une maitresse, pour les servir, ou leur plaire. » (F.)V. 418, v. 430Se « dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (F)V. 449, soin envisage les différents sens possibles. Souffrir« Ne se pas opposer à une chose, y consentir tacitement » (F.)V. 150, 435, 888, 903, 1003, 1370, 1608 et 1836.Surmonter« Vaincre, avoir l'avantage sur quelqu'un »V. 1503Superbe« Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy-même. » (F)V. 1122, 1627, 1836Ou « qui marque la magnificence, la somptuosité. » (F)V. 740, 1360 Timidité« Qualité qui rend timide, peureux, poltron » (F.)V. 324, 1731.Tourné cf. Tourner« Se mouvoir circulairement » (F.) ou « se mouvoir à droite et à gauche, ou en arriere, quoy que le mouvement ne se fasse pas tout à fait en rond » (A.).C'est ce dernier sens qui paraît plus approprié au v. 325.Trait« Se dit particulièrement de la flesche qui se tire avec l'arc ordinaire » « se dit … figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour » (F.)V. 295, 566, 897, 1360, 1590, 1628, 1848.Trame« Cours de la vie » (F.)V. 99 et 1262« Complot secret » (F.)V. 99.TransportEffet violent de la passionV. 238, 310, 593, 977, 1184.Travaux« Se dit au pluriel des actions, de la vie d'une personne, et particulièrement des gens héroïques » (F.)V. 985.Valeur« Grandeur de courage, ardeur belliqueuse. » (F)V. 89, 158, 264, 269, 379, 601, 611, 727, 834, 856, 865, 960, 966, 1227, 1406 et 1645.Vertu« Force, vigueur, tant du corps que de l'âme » (F.)V. 833, 901, 907, 1129, 1182, 1221, 1229.Visiter« Faire une visite. » (F.) d'où rencontrerV. 358 et 414.Vulgaire« Commun, trivial, ordinaire » (F.)V. 590
 
 
-## Abréviations utilisées
+## Abréviations utilisées.
 
 F. : Dictionnaire de Furetière ; A. : Dictionnaire de l'Académie ; R. : Dictionnaire historique de la langue française Le Robert.
 
 
-## Bibliographie
+## Bibliographie.
 
 *Académie française*, *Dictionnaire*, Paris, J-B Coignard, 1649 (2 vol.)
 
@@ -3750,7 +3750,7 @@ F. : Dictionnaire de Furetière ; A. : Dictionnaire de l'Académie ; R. : D
 REY (Alain), TOMI (Marianne), HORÉ (Tristan), TANET Chantal, *Dictionnaire historique de la langue française* sous la direction d'Alain Rey, édition enrichie par Alain Rey et Tristan Hordé, Dictionnaires Le Robert, Paris, 1992-1998, 3 tomes, 4304 p.
 
 
-# Annexe 1 : Tableau des présences
+# Annexe 1 : Tableau des présences.
  | ARCHELAS | MELINTE | EURIMEDON | TYGRANE | FALANTE | LYSANOR | PASITHEE | CELIANE | ALERINE | ARGAMOR
  |  |  |  |  |  |  |  |  |  | 
 I 1 |  |  | X |  |  |  | X |  |  | 
@@ -3791,7 +3791,7 @@ V 5 | X | X | X | X |  |  | X | X |  | 
 Total :     9    2    16    7    5    1    12    10    5    1
 
 
-# Annexe 2 : Chronologie des représentations et publications des œuvres de Desfontaines
+# Annexe 2 : Chronologie des représentations et publications des œuvres de Desfontaines.
 Date | Représentation | Publication
 1632 |  | Sonnet liminaire aux Passions égarées, de Richemont-Banchereau, TC.
 1636 |  | Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles
@@ -3821,7 +3821,7 @@ Légende : en italique, les pièces de théâtre ; en caractères romains, les
 ⁎textes ayant connu plusieurs publications.
 
 
-# Annexe 3 : Tableau comparatif. Extraits d'Ariane et d'Eurimedon ou l'illustre pirate
+# Annexe 3 : Tableau comparatif. Extraits d'Ariane et d'Eurimedon ou l'illustre pirate.
 
 Ce tableau dresse une liste non exhaustive des reprises que Desfontaines a effectuées à partir du texte de Desmarets. Les citations mentionnées ci-dessous sont celles qui reprennent au plus près le roman.
 Ariane | Eurimedon ou l'illustre pirate
@@ -3838,10 +3838,10 @@ Eurimedon, déguisé en Hermionne dit à Pasithée : « Mais je ne luy accorde
 
 
 
-# Annexe 4 : texte des commentaires du XVIII*e* siècle
+# Annexe 4 : texte des commentaires du XVIII*e* siècle.
 
 
-## *Histoire du théâtre français de puis son origine jusqu'à présent*, *Parfait*, P. G. Le Mercier et Saillant, 1747, pour les tomes 3, 4 et 5. Tome 5 p. 338
+## *Histoire du théâtre français de puis son origine jusqu'à présent*, *Parfait*, P. G. Le Mercier et Saillant, 1747, pour les tomes 3, 4 et 5. Tome 5 p. 338.
 
 *Eurymédon ou l'illustre pirate*, tragi-come'die, de M. Desfontaines.
 
@@ -3865,17 +3865,17 @@ Malgré ce beau mignon, qui cause tout ceci,
 Vos discours changeront dans peu de temps d'ici.  
 
 
-## *Clément* J.M.B. et *Laporte* J. de, *Anecdotes dramatiques*, 3 tomes, Paris, Veuve Duchesne, 1775
+## *Clément* J.M.B. et *Laporte* J. de, *Anecdotes dramatiques*, 3 tomes, Paris, Veuve Duchesne, 1775.
 
 « Desfontaines n'avoit reçu de la Nature ni goût, ni talent pour le théâtre ; et cependant toutes ses Pieces ont eu des succès marqués. Deux principales causes concoururent à cette réussite ; le goût naturel de la nation pour le spectacle dramatique, et les talens des Acteurs. Leur jeu, quoiqu'un peu forcé, et soutenu d'une déclamation ampoulée, mais pleine d'art, donnoit de l'éclat à des Pieces mediocres. Cette espèce de prestige alloit même jusqu'à faire trouver beaux, des vers remplis d'images basses, et de jeux de mots. »
 
 
-## Annexe 5 : Repères spatio-temporels
+## Annexe 5 : Repères spatio-temporels.
 
 Ce relevé a pour but de mettre en évidence le fait que les soucis d'unité de lieu et de temps étaient alors indifférents à Desfontaines.
 
 
-### Repères temporels
+### Repères temporels.
 
 Acte II, scène 2
 
@@ -3968,7 +3968,7 @@ Puis qu'une heureuse nuict doit suivre un si beau jour
 Vous devez ce bon-heur à son fidele amour.
 
 
-### Repères spatiaux
+### Repères spatiaux.
 
 Didascalies initiales
 
@@ -4067,7 +4067,7 @@ Acte V, scène 4
 Scène dans le Palais car discussion entre Céliane, Eurimedon et Pasithée. Puis arrivée du roi et d'Archelas, donc scène finale dans le Palais sans changement de lieu.
 
 
-# Annexe 6 : sonnet liminaire aux Hommes Illustres de Plutarque
+# Annexe 6 : sonnet liminaire aux Hommes Illustres de Plutarque.
 
 Sonnet servant de dédicace à Louis de Bourbon Duc d'Engvien, pour l'édition suivante : *Les hommes illustres grecs et romains*, de Plutarque de Cherone'e, Paris, Antoine Robinot, 1645.
 
@@ -4092,13 +4092,13 @@ Vos HEROS l'ont-ils fait en trente ans de leur vie.
 Desfontaines.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Éditions d'*Eurimédon ou l'Illustre Pirate*
+### Éditions d'*Eurimédon ou l'Illustre Pirate*.
 
 Il n'existe qu'une seule édition, réalisée en 1637 par Anthoine de Sommaville. *Eurimédon ou l'Illustre Pirate*, tragicomédie, par le sieur Desfontaines, Anthoine de Sommaville, 1637, in 4° VIII-103p. Les exemplaires sont parfois insérés dans des recueils factices. Dix exemplaires sont présents à Paris :
 
@@ -4109,27 +4109,27 @@ Bibliothèque Sainte-Geneviève : la pièce est insérée dans deux recueils fa
 Bibliothèque InterUniversitaire de la Sorbonne : RRA8=424.
 
 
-### Autres œuvres de Desfontaines
+### Autres œuvres de Desfontaines.
 
 
-#### Œuvres dramatiques
+#### Œuvres dramatiques.
 
 
-##### Tragi-comédiesLa Vraie Suite du Cid*er*
+##### Tragi-comédies.La Vraie Suite du Cid*er*
 Orphise ou la beauté persécutée
 Hermogène
 Bélisaire
 
 
 
-##### TragédiesSaint Eustache ou le martyre de Saint EustacheTragédies hagiographiques*Bourqui**de Reyff*
+##### Tragédies.Saint Eustache ou le martyre de Saint EustacheTragédies hagiographiques*Bourqui**de Reyff*
 L'illustre OlympieSaint AlexisTragédies hagiographiques*Bourqui**de Reyff*
 L'Illustre Comédien ou le martyre de Saint GenestTragédies hagiographiques*Bourqui**de Reyff*
 La Véritable Sémiramis
 
 
 
-#### Romans, poésies, traductionsLes Heureuses Infortunes de Celiante et Marilinde veuves pucelles
+#### Romans, poésies, traductions.Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles
 Panégyrique à M. le cardinal de Richelieu P.
 Paraphrase sur le
 Le Vagabond, ou l'histoire et le caractère de la malice et des fourberies de ceux qui courent le monde aux despens d'autruy
@@ -4140,7 +4140,7 @@ Le Poète chrestien passant du Parnasse au Calvaire
 
 
 
-#### Attributions incertainesAlcidiane, ou les quatre rivaux
+#### Attributions incertaines.Alcidiane, ou les quatre rivaux
 L'IllustreAmalazonte
 Les Galantes vertueuses, histoire véritable et arrivée pendant le siège de Turin
 Perside ou la suite d'Ibrahim Bassa
@@ -4148,13 +4148,13 @@ Bellissante, ou la fidelité reconnue
 
 
 
-### Œuvres de l'Antiquité*Aristote*Poétique
+### Œuvres de l'Antiquité.*Aristote*Poétique
 *Plaute*Comédies
 *Plutarque*Hommes illustres grecs et romains
 
 
 
-### Ouvrages des XVI*e*, XVII*e* et XVIII*e* sièclesL'onziesme Livre d'Amadis de Gaule
+### Ouvrages des XVI*e*, XVII*e* et XVIII*e* siècles.L'onziesme Livre d'Amadis de Gaule
 *Corneille*Le Cid
 *D'Aubignac*Pratique du théâtre
 *Desmarets de Saint-Sorlin*Ariane
@@ -4170,18 +4170,18 @@ Bellissante, ou la fidelité reconnue
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages sur la langue
+### Ouvrages sur la langue.
 
 
-#### Ouvrages du XVII*e* siècle*Académie française*Dictionnaire
+#### Ouvrages du XVII*e* siècle.*Académie française*Dictionnaire
 *Furetière*Dictionnaire universel, contenant generalement tous les mots françois tant vieux que modernes, et les Termes de toutes les sciences et des arts
 
 
 
-#### Ouvrages récents*Greimas**Keane*Dictionnaire du moyen français, La Renaissance
+#### Ouvrages récents.*Greimas**Keane*Dictionnaire du moyen français, La Renaissance
 *Fournier*Grammaire du français classique
 *Haase*Syntaxe de la langue française du XVII*e* siècle
 Dictionnaire historique de la langue française
@@ -4189,7 +4189,7 @@ Dictionnaire historique de la langue française
 
 
 
-### Bibliographies*Beauchamps P-F*Recherches sur les théâtres de France
+### Bibliographies.*Beauchamps P-F*Recherches sur les théâtres de France
 *Brunet*Table de Soleinne
 *Clément**Laporte*Anecdotes dramatiques
 *Léris A.*Dictionnaire portatif historique et littéraire des théâtres
@@ -4199,7 +4199,7 @@ Dictionnaire historique de la langue française
 
 
 
-### Ouvrages techniques*Corvin*Dictionnaire encyclopédique du théâtre
+### Ouvrages techniques.*Corvin*Dictionnaire encyclopédique du théâtre
 *Chevalier**Gheerbrant*Dictionnaire des symboles
 *Dolet*La Punctuation de la langue FrancoiseLa Maniere de bien traduire d'une langue en une aultre
 *Drillon*Traité de ponctuation française
@@ -4208,30 +4208,30 @@ Dictionnaire historique de la langue française
 
 
 
-## Études
+## Études.
 
 
-### Ouvrages et articles de littérature, d'esthétique et d'histoire
+### Ouvrages et articles de littérature, d'esthétique et d'histoire.
 
 
-#### Ouvrages*Adam*Histoire de la littérature française du XVII*e* siècle
+#### Ouvrages.*Adam*Histoire de la littérature française du XVII*e* siècle
 *Foisil*La Vie quotidienne au temps de Louis XIII
 
 
 
-#### Conférence en ligne*Requemora*L'Imagerie littéraire du "Tiran de la mer" au 17e siècle : des récits pirates, corsaires, flibustiers aux traitements romanesques et dramaturgiques*e*
+#### Conférence en ligne.*Requemora*L'Imagerie littéraire du "Tiran de la mer" au 17e siècle : des récits pirates, corsaires, flibustiers aux traitements romanesques et dramaturgiques*e*
 
 
 
-#### Sites utilisés
+#### Sites utilisés.
 
 Cartographie : http://grenier2clio.free.fr/grec/carte/b.htm
 
 
-### Ouvrages et articles sur le théâtre
+### Ouvrages et articles sur le théâtre.
 
 
-#### Ouvrages*Baby*La Tragi-comédie de Corneille à Quinault
+#### Ouvrages.*Baby*La Tragi-comédie de Corneille à Quinault
 *Bauwens*La Tragédie française et le théâtre hollandais au XVII*e* siècle
 *Chardon*Nouveaux Documents sur la vie de Molière. M. de Modène, ses deux femmes et Madeleine Béjart
 *Chardon*Scarron inconnu et les types de personnages du « Roman Comique »
@@ -4255,25 +4255,25 @@ Cartographie : http://grenier2clio.free.fr/grec/carte/b.htm
 
 
 
-#### Article*Baby-Litot*Rires et sourires littéraires
+#### Article.*Baby-Litot*Rires et sourires littéraires
 
 
 
-#### RevueLe Moliériste*Monval*
+#### Revue.Le Moliériste*Monval*
 
 
 
-### Ouvrages et articles sur l'œuvre de Desfontaines
+### Ouvrages et articles sur l'œuvre de Desfontaines.
 
 
-#### Ouvrages*Chaineaux*Belisaire*Desfontaines*
+#### Ouvrages.*Chaineaux*Belisaire*Desfontaines*
 *Bourqui**Reyff*Tragédies hagiographiques*Desfontaines*
 *Lyonnet*Dictionnaire des comédiens français (ceux d'hier)
 *Scherer*Comédie et société sous Louis XIII, Corneille, Rotrou et les autres
 
 
 
-#### Articles en ligne*Teulade*La Réception de l'effet théâtral mise en spectacle dans deux pièces de *Desfontaines*,
+#### Articles en ligne.*Teulade*La Réception de l'effet théâtral mise en spectacle dans deux pièces de *Desfontaines*,
 *Requemora*L'Imagerie littéraire du tyran de la Mer au XVII*e* siècle : des récits de voyage et des histoires de flibustiers aux traitements romanesques et dramaturgiquesLes tyrans de la mer. Pirates, corsaires et flibustiers*Linon-Chipon**Requemora**Imago Mundi*
 
 

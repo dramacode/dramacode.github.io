@@ -15,7 +15,7 @@ A ROUEN, Chez LAURENS MAURRY, prés le Palais. AVEC PRIVILEGE DU ROY. M. DC. LI.
       master 1 sous la direction de Georges Forestier (2006-2007)
 
 
-# Présentation
+# Présentation.
 
 
 Plus qu'un auteur, Thomas Corneille fut un fournisseur, et de ce point de vue il est excellent, parce qu'il gagne à tous coup. [1]
@@ -32,10 +32,10 @@ Ainsi j'ay sujet d'apprehender que cette Comedie dont la representation vous a d
 Si de l'aveu même du dramaturge la pièce n'échappe pas au « proverbe », il n'en demeure pas moins vrai qu'avec *Le Feint astrologue* Thomas Corneille parvient à élaborer une comédie qui n'est pas dénuée de charmes, souvent amusante quoique peu originale et d'un comique assez superficiel. Du reste sa valeur littéraire nous importe bien moins ici que les choix dramaturgiques qui ont présidé à son élaboration. S'il ne s'agit donc pas de crier au « coup de maître », ni même de revendiquer pour *Le Feint astrologue* le statut de pièce innovante en matière de dramaturgie et inventive du point de vue thématique, cette étude s'attachera néanmoins à souligner le caractère exemplaire de cette comédie au regard de la production comique et des tendances dramaturgiques et esthétiques d'une époque qui tatonne au milieu de multiples influences, à la recherche d'une « formule » comique originale.
 
 
-# Thomas Corneille
+# Thomas Corneille.
 
 
-## Un auteur souvent jugé sévèrement par la postérité
+## Un auteur souvent jugé sévèrement par la postérité.
 
 Dans le contexte général d'une production comique durablement éclipsée par l'éclat de l'œuvre de Molière, *Le Feint astrologue* comme le reste de l'œuvre de Thomas Corneille subit en quelque sorte un second « handicap » lié à la figure même de son auteur. Pour beaucoup de commentateurs il semble en effet difficile de considérer Thomas Corneille autrement que comme le frère cadet du « Grand Corneille », le double dégradé de Pierre. La constante et inévitable comparaison avec son brillant aîné ne pouvait évidemment que le desservir. Pour ce dramaturge qui jouissait pourtant d'une grande renommée au XVII*e* siècle, le statut de « petit frère » de Pierre Corneille a contribué à favoriser la plongée de son œuvre dans l'oubli ou le mépris, Thomas Corneille incarnant souvent la « médiocrité littéraire » [2] aux yeux de la postérité, le talent éclipsé par le génie. Il fut pourtant un auteur très célèbre de son vivant, qui rencontra durablement les faveurs du public et connut plusieurs succès éclatants. C'est d'ailleurs à lui que l'on doit le plus grand triomphe théâtral du XVII*e* siècle, *Timocrate*, tragédie qui fut jouée durant près de six mois, ce qui est tout à fait exceptionnel pour l'époque. Trois de ses pièces connurent en outre un succès durable et furent rejouées jusqu'au XVIII*e* voire jusqu'au XIX*e* siècle [3]. Mais si à l'instar de Voltaire la postérité immédiate a eu tendance à reconnaître ses mérites [4], la plupart des commentateurs des siècles suivants se sont en revanche montrés peu indulgents à l'égard d'un auteur qu'ils jugent opportuniste et d'un talent médiocre. C'est peut-être A. Adam qui a formulé le plus durement le jugement sévère que de nombreux critiques partagent au sujet de Thomas Corneille :
 
@@ -52,10 +52,10 @@ Le lexique témoigne ici de la perspective qui traverse l'ouvrage de Reynier : 
 S'il n'est pas non plus de notre propos de développer ici une biographie exhaustive de Thomas Corneille qui nuancerait de façon systématique et rigoureuse les partis-pris de la critique traditionnelle dont on retrouve des traces jusque dans les analyses qu'A. Adam ou A. Cioranescu ont consacrées à notre auteur [12], il nous a néanmoins paru important de préciser que la perspective adoptée pour cette étude consistera d'abord à privilégier une approche du *Feint astrologue* dans son fonctionnement propre ainsi qu'un examen des principes d'écriture qui ont présidé à son élaboration, indépendamment de considérations morales, de jugements de valeur ou de procès d'intention dont notre auteur à souvent fait les frais. Et si la notion de « pragmatisme » souvent avancée à propos de la dramaturgie de Thomas Corneille sera parfois reprise au cours de cette étude, elle le sera vidée des connotations péjoratives dont elle se teintait chez la plupart des commentateurs et ne sera ainsi plus entendue comme un « opportunisme » mais plutôt comme la recherche d'une efficacité dramaturgique et scénique et comme un travail sur les effets.
 
 
-## Aperçu biographique
+## Aperçu biographique.
 
 
-### Mise en perspective
+### Mise en perspective.
 
 Il semble d'autant plus difficile d'établir un tableau objectif des années de jeunesse de Thomas Corneille, de ses débuts de dramaturge et même de sa vie entière que les légendes et les anecdotes attachées à la figure de son frère, paraissent bien souvent s'y mêler et jeter ainsi un voile d'incertitude sur certains aspects de son existence. Comment distinguer la réalité des reconstructions rétrospectives voire des légendes ? Certaines informations nous viennent en effet de témoignages contemporains, parfois de l'auteur lui-même, mais il convient peut-être quelquefois d'en nuancer la portée lorsque ceux-ci sont postérieurs de plusieurs années aux événements qu'ils rapportent et en particulier lorsqu'ils apparaissent *a posteriori* dans le cadre d'éloges susceptibles de faire la part belle au mythe et au compliment complaisant, ou à l'inverse, lorsqu'il s'agit de présenter Thomas Corneille comme repoussoir du « Grand Corneille » ou de Racine. On citera à cet égard la célèbre anecdote rapportée par Voisenon et citée par Reynier [13] :
 
@@ -65,26 +65,26 @@ Ils logeaient ensemble, Thomas travaillait bien plus facilement que Pierre et, q
 Dans cette anecdote qui semble anodine au premier abord, on sent poindre la tendance précédemment évoquée à considérer Thomas Corneille comme l'ombre de son aîné : sa facilité à composer et ses talents de versificateur y sont en effet présentés comme contrepoint du génie laborieux de son frère.
 
 
-### Ses premières années et sa formation
+### Ses premières années et sa formation.
 
 Thomas Corneille est né à Rouen le 20 août 1625. Son père était maître particulier des eaux et forêts de la vicomté de Rouen. Comme son frère Pierre, de dix-neuf ans son aîné, il fit ses études de rhétorique au collège des Jésuites de Rouen. Dans son ouvrage consacré au dramaturge, G. Reynier se plaît à signaler que ce dernier « s'y fit remarquer par cette étonnante facilité qui devait être le trait distinctif de son talent » [14]. A la mort de leur père en 1640, c'est Pierre qui aurait dirigé l'éducation de son frère. Les biographes insistent en général sur l'importance de l'influence de son aîné dans son instruction, et par la suite dans sa carrière, ainsi que sur la grande proximité des deux frères, puisqu'en 1650, Thomas a épousé Marguerite de Lampérière, sœur de la femme de Pierre, et que les deux ménages ont occupé des maisons mitoyennes pendant de nombreuses années, d'abord à Rouen, puis à Paris de 1662 à 1681 [15]. On prétend ainsi souvent que c'est Pierre qui lui aurait enseigné personnellement l'espagnol et qu'il l'aurait également initié au répertoire espagnol où il avait lui-même puisé pour composer *Le Menteur* et *La Suite du Menteur* [16] et dont Thomas devait tirer les sujets de la plupart de ses comédies, notamment *Le Feint astrologue*.
 
 
-### Ses débuts au théâtre : un point discuté
+### Ses débuts au théâtre : un point discuté.
 
 Après le collège, il fit son droit à l'université de Caen où il obtint sa licence en 1646 et fut « reçu avocat » [17] en 1649, année qui, selon H. C. Lancaster, marque également le début de sa carrière théâtrale, tandis que G. Reynier et S. W. Deierkauf-Holsboer situent pour leur part ses débuts d'auteur dramatique en 1647, autrement dit dès la fin de ses études de droit. Sur ce point donc, les critiques divergent, et en l'absence de données contemporaines objectives, on ne peut s'en tenir qu'à des suppositions. Cette divergence concernant les débuts de Thomas Corneille au théâtre nous intéresse au premier chef dans la mesure où la datation de la création du *Feint astrologue* en dépend. Elle tient principalement au fait que les différents commentateurs et biographes ne s'entendent pas sur les dates de création des premières pièces du dramaturge. En effet, G. Reynier se fonde sur les dates avancées sans preuves par les frères Parfaict dans leur *Histoire du Théâtre français* [18] et que l'intervalle de trois années entre la fin des études de Thomas Corneille en 1646 et l'obtention officielle par ce dernier du titre d'avocat en 1649, semble selon lui corroborer : les frères Parfaict situent la création des *Engagements du Hasard*, première pièce de Thomas Corneille, en 1647, tandis que H. C. Lancaster considère pour sa part que cette datation est douteuse, et estime que le dramaturge a probablement débuté sa carrière en 1649 [19], se fondant sur un raisonnement contesté par S. W. Deierkauf-Holsboer [20]. Pour le moment, nous retiendrons la date de 1647 en réservant la justification de ce choix à des développements ultérieurs. Nous reviendrons en effet plus loin sur ces différentes hypothèses lorsque nous évoquerons la date de création du *Feint astrologue*, et nous tenterons alors d'évaluer la pertinence des arguments avancés par les différents critiques pour dater les débuts de Thomas Corneille au théâtre.
 
 Toujours est-il que Thomas Corneille délaissa le droit pour se consacrer au théâtre. Qu'il ait commencé à écrire pendant la période de la Fronde comme le suppose Lancaster, ou peu de temps avant comme l'affirment G. Reynier et Sophie Wilma Deierkauf-Holsboer, il devint en tout cas très rapidement un dramaturge à succès, en vue dans les milieux galants des salons. Reynier estime d'ailleurs que les relations et les appuis que le jeune auteur acquit avec ses premiers succès dramatiques dans les cercles galants qu'il fréquentait lors de ses séjours parisiens « peuvent en partie expliquer la continuité et l'éclat de ses succès » [21]. Une fois encore à l'instar de son frère, il commença sa carrière théâtrale avec des comédies qui lui firent connaître ses premiers succès. En 1656, après avoir produit huit comédies pour la plupart imitées de modèles espagnols, Thomas Corneille se détourna du genre comique vers lequel il ne revint par la suite que de manière épisodique. C'est principalement vers la tragédie que le jeune dramaturge orienta dès lors sa plume, et c'est d'ailleurs dans le « Grand genre », et dès son coup d'essai, qu'il connut son succès le plus éclatant, *Timocrate*, qui fut créé en 1656.
 
 
-### Un auteur prolifique
+### Un auteur prolifique.
 
 On note une interruption de sa production théâtrale entre 1663 à 1666, que Reynier explique par les difficultés que connut le dramaturge durant cette période [22]. Cette brève interruption mise à part, la veine dramatique de notre auteur fut intarissable entre 1647 et 1695, période durant laquelle il composa pas moins de quarante-deux pièces d'une grande diversité et quelques opéras, écrivant en général une ou deux pièces chaque année [23]. Ce caractère prolifique a d'ailleurs sans aucun doute contribué à entériner l'image de talent facile recherchant le succès à tout prix si souvent attachée à notre auteur.
 
 En 1673, Thomas Corneille composa plusieurs pièces à machines pour la troupe de Molière après la mort de ce dernier, à une époque ou ce genre de divertissement à grand spectacle était fort prisé du public. Il s'essaya aussi au genre lyrique en composant quelques opéras : ce furent *Bellérophon* (1679), fruit d'une collaboration avec Lulli et *Médée* (1693) dont Charpentier composa la musique. La fin de sa carrière dramatique fut en particulier marquée par la multiplication d'œuvres coécrites avec son ami Donneau de Visé, notamment *la Devineresse* (1679) qui fut l'un de ses derniers succès au théâtre. En effet, à partir de 1680, le public se détourna des œuvres du dramaturge qui n'apparaît plus dès lors comme l'auteur à succès tant apprécié qu'il avait été. 1680 constitue donc un tournant dans la carrière de Thomas Corneille dont le succès commença à marquer le pas et qui en outre réduisit sa production théâtrale pour se tourner vers d'autres activités.
 
 
-### Les dernières années
+### Les dernières années.
 
 En effet, à la fin de sa vie, son activité littéraire se diversifia puisqu'il devint journaliste, géographe, grammairien, traducteur, lexicographe ou encore encyclopédiste, se livrant à des travaux d'érudition qui l'occupèrent jusqu'à sa mort. À partir de 1677, il collabora régulièrement au *Mercure Galant*, gazette mondaine dont il fut l'un des rédacteurs durant vingt-trois ans avec son ami Donneau de Visé qui l'avait fondée en 1672. Les deux hommes s'associèrent d'ailleurs en 1681 par un contrat qui fixait leur part respective dans la rédaction ainsi que dans les profits de cette entreprise dont les publications connurent un grand succès et qui s'avéra particulièrement rentable pour les deux associés.
 
@@ -98,12 +98,12 @@ Jamais une perte si considerable ne pouvoit estre plus imparfaitement reparée �
 Outre la part éventuelle de posture dans cette modestie affichée, avait-il lui-même déjà conscience que le fauteuil de son frère serait trop « grand » pour lui et que son illustre nom susciterait toujours une inévitable comparaison avec son génial aîné dont il ne serait jamais perçu que comme l'ombre ? De Boze l'entrevoit déjà en 1710 lorsqu'il évoque son élection à l'Académie française comme un « honneur qui sembloit achever le parallele des deux freres » [25]. Thomas Corneille fut en tout cas un académicien zélé : il assista aux séances de façon assidue et participa activement aux travaux de l'Académie. Il pris ainsi en charge la rédaction de deux compléments au *Dictionnaire* de l'Académie destinés à enrichir l'ouvrage qui était alors menacé par la concurrence du dictionnaire de Furetière, lequel, plus complet, proposait des articles encyclopédiques là où celui de l'Académie se présentait comme un simple dictionnaire de langue. Son *Dictionnaire des termes d'arts et de sciences* parut en 1694 et il débuta dans le même temps la rédaction d'un *Dictionnaire universel géographique et historique* qui l'occupa presque exclusivement durant les dernières années de sa vie et qui parut en 1708. Thomas Corneille publia en outre une édition critique des *Remarques* de Vaugelas en 1687 ainsi qu'une traduction des *Métamorphoses* d'Ovide en 1697 [26]. Il fut également reçu membre de l'Académie des Inscriptions en 1701. Il mourut aveugle en 1709 aux Andelys dans une maison héritée de sa femme où il s'était retiré en 1708. Il était alors âgé de quatre-vingt-quatre ans.
 
 
-## Une œuvre dramatique « protéiforme » [27]
+## Une œuvre dramatique « protéiforme » [27].
 
 Auteur particulièrement prolifique, Thomas Corneille composa en tout, nous l'avons dit, quarante-deux pièces qui recouvrent la plupart des genres théâtraux ainsi que quelques opéras. Comédies, tragédies romanesques ou historiques, pièces à machines : notre auteur a exploré tous les genres avec une grande variété de tons. Il est néanmoins possible de dégager quelques tendances majeures dans sa production. On pourra par ailleurs se reporter à la liste chronologique exhaustive des œuvres dramatiques de Thomas Corneille établie dans l'annexe 1.
 
 
-### Les comédies
+### Les comédies.
 
 Thomas Corneille débuta sa carrière dans le genre comique avec une série de comédies « à l'espagnole », genre qui, comme nous l'avons déjà dit, était en vogue à l'époque et qui puisait dans le riche répertoire des *comedias* espagnoles. À l'exception du *Charme de la voix* (1656 ? ) tiré de Moreto et qui fut un échec, toutes ces comédies connurent un certain succès. Ainsi, après la réussite des *Engagements du hasard* (1647), pièce adaptée de *Los Empeños de un acaso* de Calderón, Thomas Corneille poursuivit dans cette veine avec *Le Feint astrologue* (1648), également imité de Calderón. Puis suivirent la comédie burlesque *Don Bertran de Cigarral* (1651), tiré de Rojas et qui fut un vif succès, *L'Amour à la mode* (1651) emprunté à Antonio de Solis et *Les Illustres ennemis* (1655) qui fut bien accueillie en dépit de la double concurrence des pièces de Scarron et de Boisrobert qui avaient entrepris dans le même temps de traiter le même sujet emprunté à Francisco de Rojas et Calderón. De même, sa comédie burlesque *Le Geôlier de soi-même* (1655) imitée de Calderón fut préférée à la pièce concurrente de Scarron (*Le Gardien de soi-même*) et son succès fut durable puisque la pièce fut régulièrement reprise jusqu'à la fin du XVII*e* siècle. Seule exception au milieu de cette production comique « à l'espagnole » : *Le Berger extravagant* (1652), comédie pastorale parodique dont le sujet est tiré du roman de Charles Sorel.
 
@@ -112,31 +112,31 @@ Mais à partir de *Timocrate* en 1656, c'est vers la tragédie que Thomas Cornei
 L'année 1673 marque le retour de Thomas Corneille au genre comique [31], mais dans une veine renouvelée. En effet, mis à part *Don César d'Avalos* (1674), le dramaturge ne composa plus de comédies « à l'espagnole », dont la vogue était alors retombée et dont le public avait finit par se lasser, raffolant désormais de comédies moliéresques. Thomas Corneille se lança alors dans le genre fastueux des divertissements à grand spectacle que le public appréciait particulièrement à l'époque en livrant au théâtre Guénégaud plusieurs comédies à machines composées en collaboration avec Donneau de Visé : ce furent *L'Inconnu* (1675), *Le Triomphe des dames* (1676), et dans un registre plus satirique assez nouveau chez notre auteur, la célèbre *Devineresse* (1679), inspirée d'un sujet qui défrayait alors la chronique [32] et qui fut son dernier grand succès, et *La Pierre philosophale* (1681) qui connut en revanche un échec retentissant [33]. La liste des échecs devait d'ailleurs s'allonger avec une autre comédie satirique, *L'Usurier* (1685) et avec *Le Baron des Fondrières* (1686) qui si l'on en croit le *Manuscrit* de Tralage cité par Reynier [34], ne fut représenté qu'une seule fois et sous les huées du parterre. Sa dernière comédie, *Les Dames vengées* (1695), connut en revanche un certain succès. Notons également qu'à la demande d'Armande Béjart, Thomas Corneille livra une version versifiée et « expurgée » du *Festin de Pierre* de Molière, si bien que la pièce put être reprise à la scène en 1677.
 
 
-### Les tragédies
+### Les tragédies.
 
 Entre 1656, date de création de *Timocrate* et 1678, date de représentation du *Comte d'Essex*, Thomas Corneille composa seize tragédies, dont une à machines (*Circé*, 1675), sans compter son ultime pièce, *Bradamante* (1695).
 
 Face à la diversité que recouvre l'ensemble de l'œuvre tragique de Thomas Corneille, nous ne fournirons ici qu'un aperçu succinct de cette production qui d'ailleurs n'intéresse pas notre étude au premier chef, quoiqu'à l'instar de D. Collins [35] on puisse dans une certaine mesure y déceler l'expression d'une technique dramatique maîtrisée qui s'est affinée et perfectionnée au fil de ses œuvres et dont l'apprentissage s'est notamment fait à travers ses premières comédies. À la suite d'E Mahieux [36], nous reprendrons ici la classification de Reynier qui quoique discutable à plusieurs égards permet néanmoins de dégager quelques grandes tendances dans la veine tragique de notre auteur. En outre, si cette catégorisation a parfois été discutée par les critiques, elle a finalement été reprise par la plupart d'entre eux même lorsqu'ils en modifient les dénominations. D'ailleurs, cette classification nous intéresse moins par sa pertinence qu'en tant que révélateur de cette tendance générale de la critique à considérer Thomas Corneille comme un auteur « à la suite » [37]. Reynier opère en effet ses distinctions sur la base des différentes influences qu'aurait subies notre auteur et qui auraient orienté sa plume tantôt vers le registre romanesque, tantôt sur les traces de son frère ou de Racine. Si ces influences sont indéniables, il n'en reste pas moins qu'elles n'épuisent pas l'analyse des tragédies de Thomas Corneille.
 
 
-#### La veine romanesque
+#### La veine romanesque.
 
 Elle est inaugurée par l'éclatant succès de *Timocrate* (1656) qui fut le triomphe théâtral du siècle. Fait exceptionnel au XVII*e* siècle et qui à ce titre mérite d'être souligné, la pièce fut jouée lors de quatre-vingts représentations successives. Ce fait est d'autant plus extraordinaire que *Timocrate* fut représenté pendant plusieurs mois simultanément par les deux troupes rivales du Marais et de l'Hôtel de Bourgogne qui, devant l'ampleur du succès que rencontrait la pièce, avait décidé de l'inscrire à son répertoire. Cette première tragédie constitue donc pour le jeune dramaturge un « coup d'essai » particulièrement heureux dans le « Grand genre ». Finalement assez proche de la tragi-comédie, cette pièce qui fait la part belle au sentiment galant et multiplie les péripéties sans grand souci de vraisemblance, cristallise sans doute le goût romanesque d'une époque. Dans la même veine, Thomas Corneille composa *Bérénice* (1657) dont le sujet, loin d'être antique comme le laisserait supposer le titre, est en fait tiré d'une histoire du *Grand Cyrus* de Mlle de Scudéry. Cette pièce connut un certain succès. Puis suivirent *Darius* (1659), *Persée et Démétrius* (1662), *Pyrrhus* (1663), *Antiochus* (1666), *Théodat* (1672) et enfin *Bradamante* (1695), tragédie héroïque et galante. Intrigues invraisemblables, nombreuses péripéties, identités cachées, feintes, beaux sentiments, rafinements galants et personnages stéréotypés : telles sont les caractéristiques communes à toutes ces pièces traditionnellement identifiées par la critique comme relevant d'une influence romanesque.
 
 
-#### La veine « cornélienne »
+#### La veine « cornélienne ».
 
 Cette catégorie établie par Reynier regroupe un ensemble de tragédies à dominante politique et historique et faisant la part belle aux « grands sentiments », qui sont les caractéristiques couramment utilisées par la critique traditionnelle pour qualifier l'esthétique tragique de Pierre Corneille. Au-delà de la question de sa pertinence, cette dénomination de Reynier révèle une nouvelle fois la propension d'un certain nombre de commentateurs à considérer l'œuvre de Thomas Corneille comme fondamentalement « sous influence ». Cette veine « cornélienne » trouve selon Reynier son illustration dans *La Mort de l'empereur Commode* (1657), *Stilicon* (1660), *Camma* (1661), *Maximian* (1662), *Laodice* (1668) et enfin dans *La Mort d'Annibal* (1669).
 
 
-#### La veine « racinienne »
+#### La veine « racinienne ».
 
 Cette tendance concernerait en particulier les dernières œuvres tragiques de notre auteur : *Ariane* (1672) et *Le Comte d'Essex* (1678). Ces tragédies tardives se caractérisent par leur simplicité d'action et une tonalité nettement pathétique et élégiaque dans l'expression des sentiments. Là encore, la dénomination de Reynier est discutée par certains critiques. D. Collins parle ainsi plus volontiers de « tragédies du sentiment » [38] pour qualifier cette catégorie. Mais le présupposé de l'influence racinienne reste prégnant et paraît d'ailleurs peu discutable [39] : comme chez Racine, ce sont ici les passions qui constituent le puissant moteur de l'action. Celle-ci est simple, loin du foisonnement de péripéties et des intrigues d'une grande complexité qui caractérisaient les tragédies romanesques de notre auteur. Notons d'ailleurs que ces deux tragédies, *Ariane* et *Le Comte d'Essex*, comptent parmi les succès les plus durables de Thomas Corneille [40] : la première était encore jouée sur les scènes françaises au XIX*e* siècle ; quant au *Comte d'Essex*, il demeura au répertoire de la Comédie-Française jusqu'au début du XIX*e* siècle. N'est-ce pas là encore un signe de l'influence « racinienne » qui traverse ces œuvres ? Le public des siècles suivants, dont la sensibilité et le goût ont été formés à la lecture d'un Racine érigé au rang de génie tragique, ne fut-il pas précisément sensible à cette veine « racinienne » chez notre auteur ?
 
 Par quelque aspect qu'on l'aborde, l'œuvre de Thomas Corneille semble donc toujours devoir être perçue comme « imitation de » et comme fondamentalement hétéronome. À cet égard, *Le Feint astrologue* ne déroge pas à la règle aux yeux de la critique.
 
 
-# Présentation générale du Feint astrologue
+# Présentation générale du Feint astrologue.
 
 *Le Feint astrologue* dont la première publication date de 1651, est la seconde pièce de Thomas Corneille mais la première qu'il a publiée. Elle revêt à ce titre un statut particulier au sein de l'œuvre de notre auteur puisque c'est avec elle que ce dernier « entre en publication » en 1651. En effet, Thomas Corneille ne consentit à faire imprimer sa première pièce, *Les Engagements du hasard*, qu'en 1651, date à laquelle son frère obtint un Privilège d'impression pour *Nicomède* et *Andomède*, mais aussi pour *Le Feint astrologue* et *Les Engagements* de Thomas et cette dernière pièce ne fut effectivement publiée pour la première fois qu'en 1657, soit près de dix ans après la date supposée de sa création et après avoir subit de profonds remaniements.
 
@@ -155,7 +155,7 @@ Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser par honneur
 Comme pour notre auteur, il s'agit ici pour Molière de justifier une première publication et sa préface, tout comme l' « Adresse au lecteur » de *Mélite*, présente les mêmes considérations au sujet de la spécificité d'un langage théâtral lié de façon intrinsèque à l'action scénique, c'est à dire indissociable du phénomène concret de la représentation. Certes, il s'agit là d'un topos préfaciel dont la portée analytique serait dès lors à nuancer. Mais il n'en demeure pas moins intéressant d'observer que même si ce propos fonctionne avant tout comme une justification topique et modeste, avec tout ce que cela peut impliquer de posture possible, il semble que le pragmatisme que Thomas Corneille déploie dans *Le Feint astrologue* témoigne en effet d'une certaine conscience de la spécificité du fait théâtral et d'une grande attention portée aux effets scéniques [42].
 
 
-## Les conditions de représentation de la pièce : beaucoup de probabilités mais aucune certitude
+## Les conditions de représentation de la pièce : beaucoup de probabilités mais aucune certitude.
 
 *Le Feint astrologue* fut probablement créé en 1648 à l'Hôtel de Bourgogne. Nous ne disposons à vrai dire d'aucune source contemporaine indiquant avec précision la date de création de la pièce. Les frères Parfaict, près d'un siècle plus tard, ont accolé la date de 1648 à leur présentation de la pièce, sans donner plus de détails [43]. Mais Lancaster [44] souligne que les deux frères ont avancé cette date sans aucune preuve. Il indique en outre que dans ses travaux sur Thomas Corneille, Reynier ne fait que répéter les dates de création des quatre premières pièces de Thomas Corneille données par les frères Parfaict. Ce point est important et mérite que l'on s'y arrête car il s'agit de savoir à quel moment Thomas Corneille s'est engagé dans la carrière théâtrale et a fait représenter ses premières pièces, parmi lesquelles *Le Feint astrologue*.
 
@@ -180,7 +180,7 @@ Pour moy, je me serois contenté du succez qu'elle a eu au Theatre, sans l'aband
 Nous ne disposons comme seul témoignage de l'accueil de la pièce par les contemporains que de cette brève allusion que l'auteur nous livre dans l'épître. Toutefois, plusieurs indices semblent aller en ce sens. D'abord, il semble douteux que Thomas Corneille se soit permis d'enjoliver la réalité sur ce point dans le cadre d'une épître même si trois ans environ se sont alors écoulés depuis la création de la pièce. Il est donc fort probable que la comédie ait été bien accueillie par le public, ce que les multiples rééditions successives de la pièce ainsi que les nombreuses éditions pirates hollandaises [52] semblent également attester.
 
 
-## Réception critique de la pièce
+## Réception critique de la pièce.
 
 La postérité immédiate ne fait guère état du *Feint Astrologue* qui ne semble pas avoir été repris après sa création ni au cours des siècles suivants. Ainsi la pièce n'est pas mentionnée dans le répertoire de la Troupe Royale [53] pour les années 1670 et 1680. On peut toutefois noter qu'elle fut rejouée en 1964 lors d'une unique représentation dans le cadre du Festival de Barentin consacré aux frères Corneille. Mais cette tentative pour « exhumer » notre comédie reste anecdotique et la pièce fut d'ailleurs reçue très froidement par le public qui n'y fut guère sensible, n'y voyant qu'une œuvre sèche et sans charme. Et alors qu'une comédie comme *Le Baron d'Albikrac*, qui en raison du vif succès qu'elle rencontra auprès du public en 1962 fut reprise en 1970 et connut le même accueil, *Le Feint astrologue* qui avait unanimement déplu en 1964 ne figura plus dans la programmation du festival les années suivantes [54].
 
@@ -218,43 +218,43 @@ Concernant notre pièce en particulier, Collins y reconnaît une certaine souple
 Absence d'originalité, technicité et recherche superficielle d'une simplicité et d'une concentration qui ont pour effet de rendre l'œuvre sèche et froide, langue pâle et plate en dépit d'une certaine vivacité : tels sont les principaux jugements portés avec plus ou moins de nuances par la critique sur *Le Feint astrologue* depuis le XVIII*e* siècle. Il est en outre amusant de constater que même lorsque certains critiques cherchent à valoriser *Le Feint astrologue*, c'est souvent en y cherchant des signes précurseurs de la comédie et des personnages moliéresques. Il en est ainsi chez A. Steiner, pour qui Don Fernand annonce un Don Juan et Philipin est digne d'un Scapin. Ou bien ce peut être encore dans une perspective finaliste, comme c'est le cas dans l'étude de Collins qui cherche dans les premières comédies de notre auteur les signes annonciateurs de pratiques et d'œuvres à venir et les balbutiements d'une technique dramatique appelée à s'affiner avec le temps... Nous nous bornerons pour notre part à analyser les procédés, les effets scéniques et plus généralement les options dramaturgiques retenues par l'auteur lors de l'imitation de ses sources et qui ont présidé à l'élaboration de la pièce.
 
 
-# Analyse de la pièce
+# Analyse de la pièce.
 
 
-## Résumé de l'action de cette comédie d'intrigue
+## Résumé de l'action de cette comédie d'intrigue.
 
 
-### Acte I
+### Acte I.
 
 Cherchant à découvrir la raison des mépris de Lucrèce à son égard, Don Fernand charge son valet Philipin d'interroger à ce sujet Beatrix, la suivante de cette dernière. Après avoir témoigné quelque résistance à trahir sa maîtresse, celle-ci finit par avouer à Philipin que Lucrèce brûle d'un autre feu. La soubrette va même jusqu'à lui livrer le détail de ses amours secrètes avec Don Juan, un cavalier peu fortuné que chacun croit parti pour la guerre en Flandre mais qui se cache en réalité à Madrid chez son ami Don Lope sans que ce dernier en sache la véritable raison. Beatrix explique ainsi comment les deux amants ont convenu de feindre ce départ et évoque les modalités de leurs entrevues nocturnes qui ont lieu à la fenêtre de Lucrèce avec la complicité de la suivante. Bien qu'ayant promis à Beatrix de garder le silence, Philipin ne tarde pas à faire son rapport à son maître qui décide sur le champ de se venger de Lucrèce et fait part de toute l'affaire à son ami Don Louis. Persuadé que Don Juan aime Léonor et non Lucrèce, ce dernier a peine à croire Don Fernand et s'enquiert de la situation auprès de son ami Don Lope. Lui-même épris de Léonor, il est convaincu que son ami Don Juan aime aussi la jeune femme et suppose que ce dernier ne se cache chez lui que par jalousie, pour éprouver l'amour que Léonor lui porte. Don Lope se désole ainsi de devoir par amitié étouffer la passion qui le ronge mais espère que le sort finira par lui être favorable. Mais pour le moment, la jeune femme amoureuse de Don Juan ne reçoit le pauvre amoureux que pour l'entretenir de cet amant parti sans lui dire adieu et dans l'espoir d'en obtenir quelque nouvelle.
 
 
-### Acte II
+### Acte II.
 
 Piqué par l'attitude de Lucrèce qui continue de le repousser en affichant une modestie et une indifférence à l'amour dont il sait désormais qu'elles sont feintes, Don Fernand ne peut s'empêcher de laisser entendre à la jeune femme qu'il connaît son secret : par une série d'allusions transparentes l'amant éconduit évoque le détail des entrevues nocturnes secrètes de Lucrèce et Don Juan. Mais pour disculper Béatrix et empêcher qu'elle ne soit chassée par sa maîtresse à cause de ses indiscrétions, Philipin prétend que Don Fernand est un grand astrologue et qu'il n'a découvert le secret des deux amants que grâce à ses pouvoirs surnaturels. Don Fernand qui avait demandé à son valet d'inventer un mensonge pour le tirer d'embarras ne dément pas les propos de ce dernier et parvient à persuader Lucrèce de leur véracité en reconnaissant lui-même qu'il dispose effectivement de ce haut savoir. Mais en acceptant d'adhérer à cette fourbe initiale, Don Fernand s'engage dans « un véritable engrenage » [66] qui va le conduire à une surenchère dans le mensonge et la supercherie. Ainsi, après Lucrèce, la seconde victime de la fourbe est Léonard, le père de cette dernière. Don Fernand lui annonce qu'il a prédit à sa fille un mariage avec un homme sans fortune et parvient à berner le vieillard par un galimatias de termes techniques dont il ne comprend pas lui-même la signification. Après ces premiers succès et malgré les réserves exprimées par Don Fernand, Don Louis convient avec ce dernier qu'il diffusera la rumeur de son prétendu savoir à travers toute la ville pour confirmer sa réputation. Don Lope sera sa première dupe. Convaincu des immenses pouvoirs occultes de Don Fernand, ce dernier projette d'en faire part à Léonor afin que celle-ci découvre par le biais de l'astrologie que Don Juan la trompe. Il espère que la jeune femme ainsi désabusée finira par récompenser sa flamme.
 
 
-### Acte III
+### Acte III.
 
 Alors que grâce au zèle de Don Louis, la renommée du feint astrologue s'accroît à travers Madrid et que tous s'empressent de venir le consulter persuadés qu'il détient des pouvoirs magiques, Léonor se présente et demande à l'imposteur de lui faire apparaître Don Juan qu'elle croit toujours être en Flandre. Mis en difficulté, Don Fernand réussit à se tirer d'embarras et grâce au stratagème d'un faux billet écrit par Léonor sous sa dictée, il parvient à faire en sorte que Don Juan rende visite à la jeune femme le soir-même. Cette visite nocturne provoque l'effroi de Léonor et de sa suivante Jacinte qui sont persuadées d'avoir affaire à un fantôme. Ce quiproquo donne lieu à une scène savoureuse où les deux jeunes femmes épouvantées fuient devant Don Juan qui, se croyant démasqué, pense pour sa part devoir cet accueil à sa trahison.
 
 
-### Acte IV
+### Acte IV.
 
 Don Juan feint d'être de retour de Flandre auprès de Léonard qui vient d'interrompre un entretien amoureux avec Lucrèce au cours duquel celle-ci a donné un diamant à son amant comme gage de son amour pour lui. Pour justifier le chagrin qu'elle ne parvient pas à dissimuler devant son père, Lucrèce lui avoue la perte du bijou. Le vieillard croit alors la rassurer en lui annonçant qu'il va consulter Don Fernand à ce sujet. Alors même que lassé par la feinte, ce dernier commence à s'inquiéter des proportions que prend la fourbe et craint qu'elle ne finisse par causer du tort à sa réputation, Léonor se présente à lui : elle a appris par Don Lope que Don Fernand se trouvait en réalité à Madrid et en aimait une autre et vient se plaindre auprès de Don Fernand qui le lui a caché. Mais ce dernier parvient à la convaincre que Don Juan l'aime et qu'il n'a feint son voyage en Flandre que pour éprouver l'amour qu'elle a pour lui. Le défilé des importuns se poursuit avec Léonard qui vient consulter le feint astrologue au sujet du bijou perdu. Don Fernand saisit l'occasion pour avouer son ignorance au vieillard, mais celui-ci ne voit dans cette aveu qu'une posture d'humilité commune aux vrais savants. Informé par Beatrix du sort du diamant, Philipin vient tirer son maître d'embarras en lui apprenant que le bijou est entre les mains de Don Juan, et devant l'entêtement du vieillard à croire en ses pouvoirs, Don Fernand finit par lui apprendre ce qu'il veut savoir.
 
 
-### Acte V
+### Acte V.
 
 Il s'ensuit une scène de quiproquo d'une grande saveur comique au cours de laquelle Léonard réclame en des termes équivoques son diamant à Don Juan qu'il prend pour un voleur, tandis que ce dernier, persuadé que le vieillard a découvert la vérité et sait que c'est Lucrèce elle-même qui lui a donné le bijou, lui demande la main de sa fille en guise de pardon. La fin de la pièce est également l'occasion de développer un épisode de fausse magie : Philipin fait croire à Mendoce, le vieux valet de Léonard, qu'il le fait porter dans sa province natale par les airs, sur le dos d'une mule endiablée qui est en réalité une palissade du jardin de son maître ! Alors qu'ils s'entretiennent également dans le jardin de Léonard, les deux amants sont interrompus par l'arrivée du vieillard accompagné par Don Fernand. Don Juan est contraint de se cacher. C'est alors que survient Léonor qui, finallement désabusée par Don Lope, annonce à Léonard que l'amant de sa fille se cache dans son jardin et réclame vengeance pour son infidellité. Don Juan sort alors de sa cachette pour avouer la vérité. Soucieux de sauver son honneur, Léonard demande conseil au feint astrologue qui l'incite à autoriser un mariage qu'il lui avait lui-même prédit et qu'il affirme être un décret céleste. L'imposture finit ainsi par favoriser le mariage des amants. Finalement, la supercherie n'est pas découverte, sauf par le personnage de Léonor, mais cette dernière quitte la scène face à la crédulité des autres personnages, en annonçant qu'elle accepte d'épouser Don Lope. Quant à Don Fernand, on ne sait s'il est vraiment décidé à renoncer à l'astrologie.
 
 
-## Contexte de création : le genre comique en 1648 et la vogue des *comedias* espagnoles
+## Contexte de création : le genre comique en 1648 et la vogue des *comedias* espagnoles.
 
 Avant de procéder à l'examen dramaturgique du *Feint Astrologue* nous présentons ici un aperçu général du contexte de sa création afin de rapprocher cette comédie de la production dramatique dans laquelle elle s'inscrit et dont elle semble illustrer les tendances et les enjeux.
 
 
-### La comédie à la fin des années 1640
+### La comédie à la fin des années 1640.
 
 À cette époque, la comédie n'est pas le genre le plus à la mode, et la production comique est relativement réduite [67], en dépit de la « renaissance » [68], de l'essor et de la diversification que connaît ce genre depuis les années 1630. En effet, le genre dramatique le plus apprécié à cette époque et cela depuis 1634, est la tragédie et dans une certaine mesure encore la tragi-comédie, et la comédie ne triomphera véritablement que dans les années 1660 avec Molière. Quantitativement minoritaire, malgré son essor progressif, le genre comique continue en outre de subir un discrédit théorique et éthique. En effet, les théoriciens ne s'intéressent guère à ce genre, considéré comme mineur, qu'Aristote lui-même n'a pas traité dans sa *Poétique*, et toute leur réflexion se porte sur le genre « noble » qu'est la tragédie. En outre, le phénomène du rire reste un mystère et son pouvoir de transgression et de subversion potentiel est encore considéré avec méfiance. Le rire ne constitue pourtant pas alors un critère définitoire du genre. Au contraire, il semblerait même que la plupart des auteurs comiques de la première moitié du siècle aient cherché à s'en abstraire afin de se distinguer du genre méprisé de la farce et acquérir ainsi une certaine légitimité théorique.
 
@@ -266,7 +266,7 @@ Sur vingt et une comédies qui ont été représentées de 1640 à 1649 et qui s
 Alors que la comédie romanesque inspirée des comédies italiennes de type ancien, avec ses situations et ses personnages de convention, n'est plus guère goûtée par le public [72], un autre type de comédie, aux intrigues non moins invraisemblables, mais d'un romanesque différent [73], rencontre donc un grand succès : il s'agit des comédies « à l'espagnole ».
 
 
-### Les comédies « à l'espagnole »
+### Les comédies « à l'espagnole ».
 
 
 Le comique prit aussi des beautés singulieres entre les mains de M. Corneille. Il commença par mettre au théatre quantité de *piéces Espagnoles, dont on ne croyoit pas qu'il fût possible de conserver l'esprit et le sel, si l'on vouloit les dégager des licences et des fictions qui leur sont particulieres, et que notre scéne n'admet point* [74]. De ce comique ingénieux, mais outré, il a sû, dans *l'Inconnu*, et dans plusieurs autres piéces, revenir à un comique simple, instructif et gracieux, qui les a déjà presque fait survivre au siécle qui les a vûes naître. [75]
@@ -287,7 +287,7 @@ Et c'est ainsi que se pose au dramaturge français qui entreprend l'adaptation d
 En confrontant ainsi les dramaturges aux problèmes techniques liés à la transposition d'œuvres qui n'entrent pas dans les canons esthétiques naissants du théâtre français de l'époque mais dont la veine plaît au public, l'apport espagnol va participer au renouvellement du genre comique en France en conduisant la plupart des auteurs qui l'ont pratiqué à « digérer » les diverses influences de la tradition dramaturgique et théorique nationale et des modèles étrangers, et à chercher ainsi une formule dramatique spécifique. Et c'est dans cette perspective que la suite de cette étude s'attachera à examiner quelles réponses ou quelle formule dramaturgique Thomas Corneille a privilégiées pour adapter sa source espagnole dans *Le Feint astrologue*. Nous montrerons comment cette comédie, loin d'être une simple imitation de son modèle espagnol comme elle semble l'être au premier abord, en est en réalité une véritable adaptation, peu originale il est vrai. La grande proximité du *Feint astrologue* avec la *comedia* de Calderón fait d'ailleurs précisément saillir les différences entre ces deux pièces et par suite, révèle les changements opérés par le dramaturge et les procédés mis en œuvre par ce dernier pour obtenir ou accentuer tel ou tel effet.
 
 
-## Les sources : enjeux d'une réécriture et choix dramaturgiques
+## Les sources : enjeux d'une réécriture et choix dramaturgiques.
 
 Inutile de chercher des innovations thématiques ou dramaturgiques dans *Le Feint astrologue*. On y trouve peu d'inventions personnelles de la part de notre auteur qui suit d'assez près son modèle principal. L'intérêt de la pièce et les enjeux de son examen se situent ailleurs. Plus éclairante est en revanche l'étude comparée de la comédie et de ses sources, dans la mesure où elle fait clairement apparaître les problèmes dramaturgiques liés à toute adaptation et auxquels le jeune Thomas Corneille s'est trouvé confronté en transposant son modèle espagnol, ainsi que les choix qu'il a opérés et les solutions techniques qu'il a adoptées pour y répondre. Le dramaturge a en effet puisé à plusieurs sources selon le principe d'écriture antique de la « contamination ». Le fait est que la plupart des éléments du *Feint astrologue* sont déjà présents chez ses prédécesseurs qui fournissaient ainsi à notre auteur une matière déjà amplement traitée, qu'il ne restait plus en quelque sorte qu'à « digérer ». Or c'est précisément ce processus de « digestion » des apports, autrement dit la réécriture des modèles que la suite de cette étude s'attachera à examiner. Cependant, l'absence d'étude d'ensemble sur les pratiques et les procédés d'adaptation des pièces espagnoles par les auteurs du temps rendent difficiles cette approche et l'évaluation des phénomènes intertextuels qui travaillent la pièce de Thomas Corneille : comment évaluer la part de singularité d'une technique d'adaptation, comment expliquer le choix d'un modèle plutôt qu'un autre et selon quels critères s'effectue ce choix ? C'est à cette difficulté que notre investigation dramaturgique va se heurter. Nous tenterons néanmoins de dégager certaines tendances dans la technique d'adaptation de notre auteur.
 
@@ -296,10 +296,10 @@ Le sujet de l'astrologue supposé est donc tiré de plusieurs sources dont la p
 Pour illustrer notre propos en dégageant quelques phénomènes intertextuels présents dans *Le Feint astrologue*, on a fait figurer dans l'annexe 4 qui suit cette étude une mise en regard (non exhaustive) de différents passages de la pièce et de ses sources. D'autre part, afin de faciliter l'étude comparative que nous nous proposons d'esquisser ici, l'annexe 3 présente la liste des noms des personnages du *Feint Astrologue* et ceux des personnages correspondants chez Calderón, Scudéry et d'Ouville.
 
 
-## Aperçu général des phénomènes d'intertextualité qui traversent *Le Feint astrologue*
+## Aperçu général des phénomènes d'intertextualité qui traversent *Le Feint astrologue*.
 
 
-### *Le Feint astrologue* et sa source principale, *El Astrólogo fingido* de Calderón : une influence déterminante
+### *Le Feint astrologue* et sa source principale, *El Astrólogo fingido* de Calderón : une influence déterminante.
 
 
 #### Quel texte ?
@@ -345,15 +345,15 @@ Il n'est donc guère étonnant qu'étant probablement toutes trois fondées sur 
 Dans l'ensemble, notre auteur a en tout cas assez fidèlement suivi son modèle espagnol tout en pratiquant massivement la *contaminatio*. Mais comme tous les dramaturges français imitateurs de *comedias*, il a procédé à une adaptation culturelle, esthétique et dramaturgique, à une réorganisation de la matière selon un principe d'allègement et d'unification conformes aux nouvelles exigences classiques.
 
 
-#### Une grande proximité avec le modèle espagnol
+#### Une grande proximité avec le modèle espagnol.
 
 Pour l'essentiel, la plupart des éléments de l'action sont repris et les personnages sont les mêmes que dans la pièce espagnole. Pour ce qui est de l'intrigue, l'analyse dramaturgique de la pièce sera l'occasion d'une comparaison détaillée des deux œuvres, c'est pourquoi nous ne nous y attarderons pas ici. Du point de vue du contenu langagier qui nous intérresse ici, la proximité est telle qu'il s'agit parfois de simple traduction. Pour apprécier cette proximité du *Feint astrologue* avec son modèle espagnol, on pourra se reporter à l'annexe 4 qui présente de nombreux exemples d'emprunts quasi littéraux à la *comedia* de Calderón.
 
 
-### Emprunts à Scudéry et dans une moindre mesure à d'Ouville
+### Emprunts à Scudéry et dans une moindre mesure à d'Ouville.
 
 
-#### Ibrahim ou l'Illustre Bassa : un air de « déjà lu »
+#### Ibrahim ou l'Illustre Bassa : un air de « déjà lu ».
 
 Du point de vue du contenu et surtout de la tonalité générale de l'œuvre, la plupart des changements notables que l'on peut relever dans *Le Feint astrologue* par rapport à *El Astrólogo fingido* ne sont pas de l'invention de l'auteur. En effet, la plupart de ces modifications semblent avoir été inspirées par l'épisode que Scudéry avait déjà tiré de la *comedia* de Calderón dans son roman *Ibrahim ou L'Illustre Bassa* (1641) [101]. C'est en ce sens que Steiner affirme :
 
@@ -376,7 +376,7 @@ Que si au lieu de son phantosme, elle avoit veu le veritable Hortense, c'estoit 
 Il ne faut donc pas se laisser abuser par l'épître du *Feint Astrologue* qui semble minimiser l'apport de Scudéry en le réduisant à un épisode. Thomas Corneille a en réalité largement puisé à cette source romanesque. On pourra d'ailleurs en juger en se reportant à l'annexe 4 qui présente de nombreux exemples d'emprunts quasi littéraux au roman de Scudéry.
 
 
-#### Jodelet Astrologue : une influence mineure
+#### Jodelet Astrologue : une influence mineure.
 
 Il est certain que les emprunts au *Jodelet Astrologue* de d'Ouville sont beaucoup moins nombreux et plus superficiels, ne concernant ni la structure, ni la tonalité d'ensemble de la pièce. D'ailleurs, l'adaptation de d'Ouville est si proche de son modèle espagnol, tant du point de vue de la structure de l'intrigue que des caractères et même des répliques, que l'on pourrait parler à son sujet de simple imitation, et cela en dépit du transfert du rôle de l'astrologue supposé du maître à son valet, seule divergence notable qui étrangement ne modifie pas en profondeur l'intrigue espagnole. Néanmoins on ne peut douter à la suite de Lancaster [106] que Thomas Corneille n'ait eu à l'esprit la comédie de son rival français lorsqu'il a composé sa pièce sur le même sujet, notamment selon l'historien lorsqu'il a choisi de nommer le valet de sa pièce Philipin qui était le « nom de guerre » de l'acteur émule de Jodelet à l'Hôtel de Bourgogne.
 
@@ -397,7 +397,7 @@ Ou encore :
 Pour plus de détails, on pourra se reporter à l'annexe 4 où nous avons fait l'inventaire des quelques citations littérales de la pièce de d'Ouville.
 
 
-## Le travail de réécriture de Thomas Corneille : choix dramaturgiques et esthétiques
+## Le travail de réécriture de Thomas Corneille : choix dramaturgiques et esthétiques.
 
 
 nostre Theatre ne souffre rien d'inutile [108]
@@ -405,7 +405,7 @@ nostre Theatre ne souffre rien d'inutile [108]
 Les divergences essentielles par rapport à la source principale relèvent de la transposition culturelle, esthétique et dramaturgique et concernent aussi bien le contenu que la structure de la pièce. Mais les principales différences touchent moins l'intrigue et la structure d'ensemble de la pièce (si l'on excepte la première « journée » de Calderón, largement réduite et remaniée) que « les détails et l'atmosphère de la comédie » [109].
 
 
-### Transposition culturelle : l'exemple du traitement du thème de l'honneur
+### Transposition culturelle : l'exemple du traitement du thème de l'honneur.
 
 Martinenche évoque pour le louer le « désir de franciser l a matière » qui semble avoir présidé à la composition du *Feint astrologue* qui présente selon le critique « une couleur plus française » [110]. Tout en gardant un cadre espagnol stéréotypé qui fonctionne davantage comme un signal à l'intention du spectateur indiquant à ce dernier que ce qui va se jouer sous ses yeux est l'adaption d'une *comedia* [111], Thomas Corneille procède à une certaine « acclimatation » de la matière espagnole. Le dramaturge a assurément procédé à une transposition culturelle en adaptant *El Astrólogo fingido*, notamment en estompant les détails trop spécifiquement espagnols qui risquaient de ne pas trouver d'écho auprès d'un public français qui ne s'attendait finalement à retrouver au théâtre que la peinture d'une Espagne stéréotypée. Le traitement du thème de l'honneur est exemplaire à cet égard [112].
 
@@ -503,27 +503,27 @@ La comparaison avec ces différents types d' « infidèles », Juifs ou Maure
 Globalement donc, le thème de l'honneur semble occuper un rôle moins considérable que chez Calderón, même si Thomas Corneille en exploite tout de même dans une large mesure le potentiel dramatique, en particulier lors du dénouement. Ces légères inflexions dans le traitement de ce thème contribuent à « acclimater » la pièce à la scène française par la suppression ou l'atténuation de tous les éléments susceptibles de ne pas créer d'effet auprès du spectateur français, révélant ainsi un souci d'efficacité scénique chez Thomas Corneille. Or on verra dans la suite de cette étude que ce changement d' « atmosphère », de tonalité par rapport au modèle espagnol trouve principalement sa source dans les options dramaturgiques privilégiées par notre auteur, en particulier sous l'influence du roman de Scudéry qui avait déjà opéré une sorte de transposition de la matière caldéronienne dans le goût français.
 
 
-### Transposition esthétique et dramaturgique : une dramaturgie entre baroque et classique
+### Transposition esthétique et dramaturgique : une dramaturgie entre baroque et classique.
 
 L'intertextualité compliquant l'investigation dramaturgique, nous procèderons à une comparaison étroite du *Feint astrologue* avec ses sources pour pouvoir apprécier les partis-pris dramaturgiques de Thomas Corneille.
 
 
-#### Structure de la pièce et déroulement de l'action
+#### Structure de la pièce et déroulement de l'action.
 
 Comme dans la pièce espagnole ainsi que dans la plupart des comédies de l'époque, le sujet du *Feint astrologue* consiste en un amour contrarié par une série d'obstacles qui seront finalement surmontés et dont les principaux sont le père, probable opposant à une mésalliance et soucieux de son honneur, ainsi que le/la rival(e) jaloux(se) qui entreprend de se venger. Toutefois, déjà chez Calderón, mais encore plus nettement chez Thomas Corneille, cette trame amoureuse stéréotypée du genre comique passe en réalité au second plan et constitue plutôt le prétexte au déploiement de situations scéniques plaisantes qui sont autant de micro-séquences qui valent davantage pour elles-mêmes que pour leur fonction dans la progression d'une action principale à laquelle elles sont plus ou moins bien rattachées et dont nous donnerons un aperçu plus loin. Ces situations s'enchaînent à un rythme allègre et visent à divertir le spectateur par des effets de surprise ou des effets comiques.
 
 
-##### Remarques préliminaires sur la composition de la pièce
+##### Remarques préliminaires sur la composition de la pièce.
 
 La pièce compte 1914 vers répartis en cinq actes et quarante-sept scènes. Chaque acte compte respectivement huit, sept, huit, douze et douze scènes. D'un point de vue quantitatif, *Le Feint astrologue* présente une composition et une répartition de la matière assez équilibrée et homogène dans l'ensemble, puisque trois des actes de la pièce comptent entre 370 et 390 vers. Mais l'on peut toutefois noter que le premier acte est légèrement plus court avec 346 vers et l'acte quatre nettement plus long que les autres avec 428 vers [122], ce qui influe sur le rythme d'ensemble de la pièce. Dans le cas de l'acte I, cette relative brièveté confère ainsi une certaine vivacité à l'ouverture principalement dévolue à l'exposition. L'acte IV présente une accumulation d'épisodes et de situations qui préparent le dénouement dans une sorte de « crescendo » d'actions. Quant au dernier acte, il se caractérise par un rythme allègre favorisé par la répartition d'une matière verbale d'importance moyenne (376 vers) dans pas moins de douze scènes, c'est-à-dire autant de scènes que l'acte précédent qui était beaucoup plus long.
 
 
-##### Structure et progression de l'action : un renversement de point de vue par rapport au modèle espagnol
+##### Structure et progression de l'action : un renversement de point de vue par rapport au modèle espagnol.
 
 Feinte, mensonges, quiproquos, coïncidences qui plongent les personnages dans des situations embarrassantes, jalousie, obstacle du père, du rival ou de la rivale, dénouement heureux lors duquel les obstacles tombent : tels sont les modes de progression de l'action qui sont autant d'« ingrédients » dramaturgiques traditionnels repris par Thomas Corneille au dramaturge espagnol. La structure du *Feint Astrologue* est globalement la même que celle de la *comedia* de Calderón. La plupart des éléments de l'intrigue principale comme des intrigues secondaires et le déroulement de l'action y sont repris, mais la matière est parfois redisposée, surtout en ce qui concerne le début de l'œuvre. Nous en donnons un aperçu dans le tableau suivant qui compare la structure et les modes de progression de l'action dans les deux pièces [123].
 
 
-##### Comparaison du déroulement de l'action dans *Le Feint astrologue* et *El Astrologo fingido*
+##### Comparaison du déroulement de l'action dans *Le Feint astrologue* et *El Astrologo fingido*.
 
 La pièce de Calderón ne présentant pas de division en scènes, nous en indiquerons le découpage scénique au sein de chaque « journée » en le délimitant par les vers correspondants (se reporter à l'édition établie par M. Oppenheimer, *op. cit.*). Nous ferons également figurer dans ce tableau les scènes ou les séquences des deux pièces qui ne modifient pas la situation dramatique et ne font pas progresser l'action (épisode gratuit, annonce de l'entrée en scène d'un personnage, simple commentaire de l'action de la scène précédente, etc.). Nous les signalerons par le signe ♦. Le signe  indiquera qu'une intrigue est dénouée. Pour la correspondance des noms des personnages, on pourra se reporter à l'annexe 3.
 
@@ -611,7 +611,7 @@ V, 10 V, 11 V, 12 | d) a) Doña Violante/Léonor fait irruption chez Leonardo/L
 
 
 
-###### Éléments de commentaires
+###### Éléments de commentaires.
 
 Du point de vue de la structure de la pièce, quelques éléments-clés se dégagent de la comparaison des deux œuvres : d'abord le nombre des intrigues est assez important chez les deux auteurs et les rapports que ces intrigues entretiennent entre elles sont relativement complexes au premier abord. En outre, les péripéties [124] sont assez nombreuses dans les deux cas et s'enchaînent souvent à un rythme rapide. La scène-pivot II, 2 est particulièrement dense de ce point de vue : deux péripéties essentielles pour la suite de l'action s'y succèdent en l'espace de quelques vers. C'est d'abord la maladresse de Don Fernand qui ne pouvant réprimer son ressentiment ne peut s'empêcher de révéler à Lucrèce qu'il connaît son secret. Découlant quasi immédiatement de cette première péripétie, c'est ensuite l'invention par le valet de la fourbe de la fausse astrologie. D'autre part, l'exposition du *Feint astrologue* est plus courte que celle de la pièce espagnole. Elle s'opère principalement sous une forme narrative à travers les discussions des maîtres avec leurs serviteurs et confidents et s'étend jusqu'au début de l'acte II, alors qu'elle s'effectuait en action dans la première « journée » d'*El Astrólogo fingido*. Le dénouement est aussi rapide que dans le modèle espagnol et ne s'effectue que dans les deux dernières scènes de la pièce.
 
@@ -638,7 +638,7 @@ Au cours du dénouement, cette situation critique pour les amants se dénoue com
 Ce rapide aperçu des grandes lignes du schéma actantiel de la pièce analysé par M. Falska et repris ici, révèle qu'en dépit de certaines modifications dans les configurations fonctionnelles, *Le Feint astrologue* présente comme son modèle espagnol une grande complexité de situations dans lesquelles les personnages peuvent parfois assumer plusieurs fonctions à la fois ou encore changer brusquement de fonction (Don Fernand en est l'exemple le plus représentatif et le plus singulier), modifiant ainsi le rapport de force et faisant passer de manière inattendue d'une situation dramatique à une autre [136] en créant des combinaisons fort complexes au sein de la structure d'intrigue dont nous allons à présent examiner l'une des composantes principale : le motif de la fourbe.
 
 
-###### Tout est affaire de « fourbe »
+###### Tout est affaire de « fourbe ».
 
 Comme l'a fait apparaître Oppenheimer à propos d'*El Astrólogo fingido* dans l'introduction de son édition critique de la pièce espagnole [137], les différentes intrigues de la pièce se nouent et évoluent systématiquement autour d'une fourbe (la *burla* espagnole), qu'elle soit réelle ou potentielle, à tel point que l'on peut dire que la pièce entière comme son modèle espagnol repose sur le principe de la feinte généralisée, à la fois comme motif et comme ressort de l'action.
 
@@ -662,7 +662,7 @@ Vit-on jamais une telle surprise ? (V, 2, v. 1635)
 Les personnages égrènent ainsi au cours de la pièce ces éternelles questions ou exclamations que J. Rousset [142] identifie comme spécifiques de la réaction du personnage qui, confronté à l'illusion suscitée par la feinte, fait l'expérience de l'instabilité et de la précarité de toute lecture du réel. En somme, le thème de la feinte et de l'illusion qui travaille la pièce en profondeur tout en l'animant plaisamment en surface semble en révéler la veine fondamentalement baroque. C'est à cette dimension baroque qui se mêle dans notre pièce aux traits classiques que nous allons nous intéresser à présent.
 
 
-#### Examen dramaturgique et esthétique de la pièce : motifs et procédés ressortissant aux catégories du baroque ou du classique dans Le Feint astrologue
+#### Examen dramaturgique et esthétique de la pièce : motifs et procédés ressortissant aux catégories du baroque ou du classique dans Le Feint astrologue.
 
 Il est couramment admis par la critique traditionnelle que le théâtre espagnol du XVII*e* siècle relève de l'esthétique baroque tandis que la production dramatique française de la même période est dominée par l'esthétique classique. Or cette bipartition est loin d'être effective en ce qui concerne le théâtre français du premier XVII*e* siècle qui présente un grand nombre de traits baroques qui coexistent selon un équilibre variable d'une pièce à l'autre avec le souci naissant des règles classiques globalement fixées à partir de 1640. Comme le souligne d'ailleurs J. Rousset, entre baroque et classique, « les oppositions … sont plus tranchées dans la doctrine classique que dans les œuvres où le partage des eaux ne se fait pas toujours avec netteté [143] ». Car si le « dérèglement » du théâtre espagnol est montré du doigt en France à travers les discours théoriques, la pratique dramaturgique révèle une réalité bien différente dans des productions comme *Le Feint astrologue* où souci des règles et traits « irréguliers » s'entremêlent souvent. On pourra ainsi observer que la pratique dramaturgique de Thomas Corneille est exemplaire de la porosité de toutes ces tendances et qu'elle témoigne de la grande liberté qui régit encore la production théâtrale de l'époque et surtout de l'écart entre doctrine affichée et pratiques réelles. La deuxième version de l'épître de la pièce est révélatrice à cet égard : tout en manifestant sa conscience des règles, Thomas Corneille y admet avoir prolongé la scène IV, 12 d'une séquence superflue du point de vue de l'action. Suivant le principe de la *captatio benevolentiae* l'auteur cherche à justifier auprès de son lecteur cet écart par rapport aux exigences classiques du temps en invoquant l'héritage de Scudéry dont il a tiré l'épisode de Vespa auquel il fait ici référence :
 
@@ -672,29 +672,29 @@ j'espère … que vous me pardonnerez plus facilement l'incident de Mendoce, qui
 Même si l'auteur choisit ici d'invoquer le passage de sa pièce qui est certainement le plus représentatif de la liberté qu'il a prise à l'égard des règles, il est amusant de mesurer la distance entre cette justification ponctuelle et conventionnelle et la réalité de l'œuvre dans son entier qui comme nous l'avons déjà entrevu présente bien plus d'un aspect « irrégulier ». Car s'il atténue quelque peu la dimension baroque de son modèle espagnol en l'adaptant au goût classique, Thomas Corneille en conserve par ailleurs un grand nombre de traits.
 
 
-##### Essai de définition des catégories du « baroque » et du « classique »
+##### Essai de définition des catégories du « baroque » et du « classique ».
 
 Nous ne prétendons évidemment pas fournir ici une définition fixe et définitive des notions de baroque et de classique dont la plupart des critiques s'accordent d'ailleurs à reconnaître le caractère mouvant et complexe. Comme l'écrit ainsi Rousset, « l 'idée de baroque est de celles qui vous fuient entre les doigts ; plus on la considère, moins on l'appréhende » tant « la notion est confuse et mal délimitée [145] ». Ces deux catégories se caractérisent néanmoins par un certain nombre de traits qui peuvent se manifester tant au niveau de la structure de la pièce qu'à celui des séquences scéniques et qui constitueront pour nous autant de critères opérationnels pour une analyse dramaturgique de la pièce. Il ne s'agira pas non plus de chercher à poser l'« étiquette » baroque ou classique au *Feint astrologue*, selon le mot de Rousset. Nous tenterons plutôt d'évaluer le degré de présence et l'importance esthétique et dramaturgique au sein de la pièce d'un ensemble de traits traditionnellement identifiés comme baroques à une époque où s'affirment en France un ensemble de préceptes qui semblent relever d'une esthétique toute contraire.
 
 Pour caractériser la catégorie du baroque, on retiendra par exemple les principes de mouvement, d'instabilité, de contrastes, d'illusion, d'inconstance, d'imprévisibilité, de métamorphose ou encore d'abondance. Du côté de l'esthétique classique, on retrouvera à l'inverse des notions telles que la stabilité, la cohérence, la simplicité, la clarté ainsi que la « régularité ». Tous ces thèmes qui manifestent différentes tendances esthétiques et idéologiques trouvent leur expression dans notre pièce à travers des motifs, des procédés et des structures dramaturgiques caractéristiques qui permettent de parler à propos du *Feint Astrologue* d'un « entre-deux » esthétique entre baroque et classique dont nous examinerons les implications dramaturgiques.
 
 
-##### Analyse des procédés dramaturgiques à l'œuvre dans Le Feint astrologue : des traits baroques issus du modèle espagnol
+##### Analyse des procédés dramaturgiques à l'œuvre dans Le Feint astrologue : des traits baroques issus du modèle espagnol.
 
 Nous reprenons globalement ici les analyses et les critères retenus par M. Falska [146] pour rendre compte des manifestations théâtrales du baroque et du classique dans *Le Feint astrologue*, en sélectionnant ceux qui nous semblent les plus judicieux et opérationnels pour l'analyse dramaturgique qui nous occupe.
 
 
-###### Abondance et dynamisme
+###### Abondance et dynamisme.
 
 Du point de vue de la structure de l'action dans *Le Feint astrologue*, on relève d'abord à la suite de M. Falska [147] la multiplication des intrigues et l'importance du nombre des situations dramatiques comme expression du principe baroque d'abondance. Cette multiplication des intrigues et des situations dramatiques produit un effet de profusion que révèle l'analyse de l'action effectuée précédemment. D'autant que comme on a pu le constater en considérant le schéma actantiel de la pièce et le déroulement de l'action, les situations dramatiques du *Feint astrologue* sont non seulement nombreuses, mais aussi complexes. En outre, le rythme accéléré de l'enchaînement des péripéties peut être considéré comme l'expression du principe baroque de dynamisme dans la pièce. Cet enchaînement dynamique des péripéties observé au cours de l'étude de la structure et du déroulement de l'action du *Feint astrologue* est principalement suscité par l'intrusion incessante du hasard dans la comédie.
 
 
-###### Hasard et effets de surprise
+###### Hasard et effets de surprise.
 
 Le hasard constitue un autre motif typique du baroque et caractéristique de la *comedia*. Il se manifeste dans le déroulement de l'intrigue à travers l'imprévu et la coïncidence [148]. Le rôle du hasard est primordial comme ressort de l'action dans *Le Feint astrologue* où il favorise les situations inattendues et embarrassantes. C'est le cas en général à chaque apparition imprévue d'un personnage, qu'elle soit inopportune ou au contraire providentielle. Comme dans *El Astrólogo fingido*, c'est le plus souvent le père jaloux de l'honneur de sa famille (II, 3 ou encore IV, 2), la rivale jalouse (par exemple en V, 3 avec le personnage de Léonor), mais aussi l'arrivée du valet qui dispose d'informations permettant de tirer son maître des situations les plus embarrassantes (c'est le cas par exemple à la scène IV, 9). À la fin de la pièce les péripéties que constituent les entrées en scène successives du père et de la rivale jalouse précipitent d'ailleurs le dénouement. Ainsi, excepté lors de la décision finale de don Diego/Don Fernand de favoriser le mariage des deux amants, l'action ne progresse presque jamais par des décisions prises par les personnages mais plutôt par des évènements imprévus qui leurs sont extérieurs, comme c'était d'ailleurs traditionnellement le cas dans la plupart des comédies d'intrigue « à l'espagnole ». En tout cas, ces péripéties issues du hasard et fondées sur les apparitions imprévues de personnages qui changent la donne et font ainsi progresser l'action devait assurément flatter le goût de la surprise du public de l'époque.
 
 
-###### L'illusion
+###### L'illusion.
 
 Comme illustration du motif baroque de l'illusion, on peut dégager à la suite de M. Falska tous les procédés dramatiques relevant de la distorsion entre apparences trompeuses et réalité fuyante, tels que les feintes et les mensonges, les méprises et autres malentendus en tous genres ainsi que les personnages qui se cachent et les phénomènes de théâtre dans le théâtre que nous qualifierons de « surthéâtralité baroque ». Tous ces procédés ressortissant au principe de l'illusion sont à l'œuvre dans *Le Feint astrologue* comme dans son modèle. Les jeux de la vérité et du mensonge y sont constants et revêtent plusieurs aspects.
 
@@ -705,7 +705,7 @@ C'est d'abord à travers les motifs du mensonge et de la feinte qui consiste à 
 Le procédé dramaturgique de la méprise est également largement utilisé par les deux auteurs. *Le Feint astrologue* présente ainsi comme son modèle une grande variété de mises en œuvre du procédé. La pièce livre le spectacle de personnages plongés dans l'erreur et s'obstinant dans la crédulité, aveuglés par les apparences qu'ils sont prompts à prendre pour la réalité, non pas dans une perspective instructive de réflexion autour de la vanité des apparences, mais plutôt pour faire de ce manque de discernement le support et le moteur de situations divertissantes. À la suite de M. Falska [150], on relève ainsi trois occurrences principales de ce procédé du quiproquo dans *El Astrólogo fingido* comme dans *Le Feint Astrologue* : Don Juan se rend chez Doña Violante/Leonor qui croît avoir affaire à un spectre, et il interprète à tort comme l'expression du ressentiment de la jeune femme après sa trahison, ce qui est en réalité une réaction de terreur de la part de cette dernière (III, 8 dans *Le Feint Astrologue*). Puis ce sont Don Juan et Leonardo/Léonard qui se méprennent lors d'un double quiproquo au sujet du diamant perdu [151] (V, 2 dans *Le Feint Astrologue*). Enfin, doña Violante/Leonor se méprend sur sentiments de don Juan quand elle interprète le mépris de ce dernier à son égard comme le signe de sa jalousie et d'une mise à l'épreuve de son amour pour lui (V, 3, dans *Le Feint Astrologue*). Le clin d'œil métathéâtral constitue également l'une des manifestations du motif de l'illusion dans la pièce.
 
 
-###### Dimension réflexive de la pièce : la « surthéâtralité baroque »
+###### Dimension réflexive de la pièce : la « surthéâtralité baroque ».
 
 
 le monde est un théâtre où tout change et rechange, et l'homme, un Protée jamais semblable à lui-même [152]
@@ -715,19 +715,19 @@ Cette caractérisation de la pensée baroque avancée par J. Rousset souligne l'
 Avec la pièce qu'il joue à Mendoce à partir de la fin de l'acte IV, Philipin apparaît en outre comme une sorte de troisième figure de dramaturge dans la pièce, après son maître et l'auteur lui-même. La pièce est ainsi en quelque sorte « triplée » de l'intérieur puisque la fourbe du valet « s'emboîte » dans celle de son maître qui s'intègre elle-même dans la pièce-cadre. Ces « représentations intérieures » [153] sont propres à suciter un effet de vertige baroque chez le spectateur. Du point de vue du personnage, le jeu de masque étant relativement superficiel, il n'engage guère de vacillement de l'identité : bien que Don Fernand oscille constamment au cours de la pièce entre la lassitude de porter son masque (« Quoy que tout jusqu'icy m'ait succedé fort bien / Je suis las d'un mestier où je ne cognois rien » IV, 10, v. 1429-1430) et la griserie que celui-ci lui procure, le personnage n'est jamais confronté à « l'incertitude … du héros hésitant entre les plans différents qu'il se découvre, balançant entre son masque et son visage, entre lui-même et lui-même » [154]. Le fait qu'il n'enlève pas ce masque à la fin de la pièce prolonge en tout cas l'impression de vacillement dans l'esprit du spectateur et confère au dénouement son caractère vertigineux proprement baroque là où tous les prédécesseurs, y compris Calderón avaient fait le choix d'une structure bouclée se soldant par un retour à l'ordre.
 
 
-###### Les éléments superfétatoires
+###### Les éléments superfétatoires.
 
 Du point de vue de la structure, les éléments superfétatoires tels que les séquences gratuites qui ne font pas progresser l'action et qui sont principalement liées aux frasques du valet peuvent être rattachées à une vision baroque de l'œuvre où le décor primerait. Lorsque la fonction de telles séquences était purement divertissante chez Calderón, Thomas Corneille les a souvent reprises. L'exemple le plus représentatif se situe à la scène IV, 11 et à partir de la scène V, 6 jusqu'au dénouement : il s'agit de l'épisode burlesque de fausse magie au cours duquel Philipin joue un mauvais tour au valet Mendoce en lui faisant croire qu'il va l'envoyer par enchantement jusque dans son pays. Thomas Corneille va même jusqu'à intégrer à cette séquence superflue déjà fort étendue dans sa pièce l'épisode comique de Vespa précédemment évoqué et emprunté à Scudéry, qui était tout aussi inutile pour la progression de l'action.
 
 
-##### La question des « règles classiques » : une grande liberté en dépit d'un certain souci de conformité aux usages « réguliers »
+##### La question des « règles classiques » : une grande liberté en dépit d'un certain souci de conformité aux usages « réguliers ».
 
 S'il reste le plus souvent très proche de la *comedia* de Calderón, Thomas Corneille réorganise néanmoins la matière dans le sens d'une réduction et d'une plus grande concentration et semble chercher bien souvent à adapter son modèle à l'esthétique classique qui se manifeste à travers la série de « règles » formulées depuis les années trente par différents théoriciens. Mais des caractéristiques classiques comme baroques apparaissant mêlés dans les deux œuvres, on ne peut voir dans l'adaptation de Thomas Corneille la manifestation d'un processus de « classicisation » d'une œuvre qui serait purement baroque, car la pièce de Calderón présente déjà de nombreux traits considérés comme « réguliers » en deçà des Pyrénées et celle de Thomas Corneille va parfois jusqu'à amplifier la dimension baroque du modèle comme on a pu l'observer à propos de l'amplification de l'épisode de Mendoce ou encore au sujet du dénouement ouvert de la pièce là où l'usage classique privilégierait un dénouement bouclé sans débordement de l'action hors des limites de la pièce. Encore une fois, on remarque bien que la dimension baroque comme la dimension classique ne se trouve pas exclusivement d'un côté ou de l'autre des Pyrénées.
 
 Les principaux critères de la doctrine classique qui serviront de point de référence à cette analyse sont l'unité (d'action, de lieu, de temps) et la cohérence avec dans le cas idéal un strict enchaînement logique des scènes, sans épisode gratuit, sans recours à des évènements imprévus pour faire avancer l'action jusqu'au dénouement et avec des intrigues liées entre elles et à l'action principale.
 
 
-###### L'unité d'action
+###### L'unité d'action.
 
 Par unité d'action, la doctrine classique entend moins action unique qu'ensemble d'actions subordonnées à l'action principale. C'est en ce sens que J. Scherer préfère parler d' « unification de l'action » plutôt que d' « unité d'action » [155]. D'ailleurs, comme le rappelle J. Scherer, « unité » ne signifie pas nécessairement « simplification », et l'action du *Feint astrologue* présente à cet égard une certaine complexité déjà amplement évoquée plus haut, en dépit de l'affirmation de Martinenche selon laquelle « *Le Feint Astrologue* (1648) a au moins le mérite de nous montrer chez Thomas Corneille une juste préoccupation de clarté et de simplicité » [156]. De ce point de vue, on peut dire qu'on s'achemine avec Thomas Corneille vers une certaine « unité d'action », même si globalement, l'action d'*El Astrólogo fingido* était déjà constituée de plusieurs fils d'intrigue le plus souvent liés entre eux et dépendants de l'intrigue principale de la feinte astrologie.
 
@@ -742,17 +742,17 @@ Ce « resserrement » général des fils de l'intrigue, cette plus grande coh�
 Il n'en demeure pas moins vrai que Thomas Corneille a manifestement cherché, à conformer sa pièce aux exigences des « règles » et que si l'on peut difficilement parler d'unité d'action stricte dans *Le Feint astrologue*, on peut néanmoins y constater une tentative dans cette voie. Mais dans la mesure où le choix de la reprise d'un tel modèle avec sa matière fondamentalement baroque, vouait d'emblée toute entreprise de « classicisation » à rester somme toute assez superficielle, on sent bien que la démarche de « régularisation » en tant que telle ne constituait pas le principe recteur du travail de réécriture de Thomas Corneille qui manifeste au contraire une grande liberté à cet égard en privilégiant toujours les effets scéniques aux exigences de la doctrine.
 
 
-###### L'unité temporelle
+###### L'unité temporelle.
 
 Ce dernier semble également chercher une plus grande concentration temporelle, puisqu'il réduit la durée de l'action de la pièce à environ vingt-quatre heures réparties en deux journées, là où Calderón faisait tenir l'intrigue en trois jours, qui, comme le souligne M. Falska [159], ne coïncident pourtant pas avec le découpage des fameuses trois « journées » qui constituent la subdivision des *comedias* espagnoles. La mise en récit de l'action qui occupe la majeure partie de la première « journée » chez Calderón contribue à cette concentration temporelle. L'auteur réalise donc ici l'« l'unité de temps » que les théoriciens classiques ont formulée et qui consiste en une action ne dépassant pas vingt-quatre heures [160]. Les trois premiers actes de la pièce se déroulent au cours d'une même journée et les dernières scènes de l'acte III sont nocturnes : dans la scène III, 6, Don Juan mentionne « l'obscurité » et évoque le rendez-vous du soir (« allons au rendez-vous, / Et tâchons dés ce soir d'appaiser son couroux » ) qui aura lieu dans la huitième et dernière scène de l'acte III et que la lettre rédigée par Leonor annonçait pour la nuit (« venez me voir dés cette nuict » III, 3). L'acte IV s'ouvre le lendemain, au matin : dans la scène IV, 3, Lucrèce affirme en effet avoir perdu son diamant « Entre neuf et dix » et en IV, 9, Don Fernand évoque la scène IV, 2 comme ayant eu lieu le matin : « Celuy qui ce matin vous a fait compliment / En habit de campagne, a vostre diamant ». Une nuit s'est donc écoulée durant l'entracte qui joue ici pleinement sa fonction de coupure puisqu'il permet d'atténuer la distorsion temporelle que la nuit introduit entre la fiction représentée et la représentation concrète. Puis l'action paraît s'enchaîner sans coupure, probablement jusqu'au milieu de la journée [161], en tout cas pas jusqu'au soir du deuxième jour, comme semble l'indiquer dans la scène IV, 12 une réplique de Philipin qui exhorte Mendoce à hâter son départ : « N'attends donc point ce soir à faire ton voyage ». La pièce se situe ainsi approximativement dans les limites des vingt-quatre heures préconisées par les théoriciens.
 
 
-###### L'unité de lieu [162]
+###### L'unité de lieu [162].
 
 Là où Calderón multipliait les changements de lieu (cf. plus haut le tableau de comparaison du déroulement de l'action dans les deux pièces), et donc les décors, Thomas Corneille a plutôt tendance à les restreindre et propose un lieu relativement concentré, le plus souvent une rue de Madrid, près de la maison de l'héroïne et de son jardin, même si certaines scènes [163] nécessitaient vraisemblablement des changements de décor, un décor simultané [164] ou à compartiments, notamment pour les scènes finales qui se déroulent dans le jardin de Léonard et pour celles qui ont lieu chez Léonor (III, 7 et III, 8). Par rapport à son modèle, Thomas Corneille semble donc chercher à se conformer à une certaine unité de lieu, mais dans un sens élargi, telle que la comprenait son frère qui, comme le rappelle M. Falska [165], considérait qu'une action se déroulant dans une même ville répondait à l'exigence d'unité de lieu.
 
 
-###### Vraisemblance et bienséances
+###### Vraisemblance et bienséances.
 
 On l'a vu, Thomas Corneille suit assez fidèlement son modèle. Or le recours récurrent chez Calderón au motif du hasard comme ressort de la progression de l'action constitue d'emblée un obstacle structurel à la vraisemblance. Mais dans la mesure où c'était alors précisément l'extravagance des intrigues et les surprises qui charmaient le public, il n'était bien évidemment pas question pour l'adaptateur Thomas Corneille de gommer la fantaisie de son modèle de ce point de vue. En revanche, il semble qu'il ait tenté d'atténuer l'extravagance du comportement de certains personnages en le motivant davantage par rapport à la pièce espagnole. Le cas le plus révélateur est sans nul doute celui de Don Fernand dont Thomas Corneille semble avoir tenté de motiver plus solidement les revirements inattendus.
 
@@ -817,17 +817,17 @@ Faut-il voir pour autant chez Don Fernand une ébauche de caractère ? C'est en
 Au regard des personnages stéréotypés qui peuplent par ailleurs *Le Feint astrologue* mais aussi les autres pièces de tradition romanesque imitées de l'espagnol, il est donc effectivement tentant d'y voir une ébauche de caractère. D'autant que son ultime revirement et l'ambiguïté du dénouement fait qu'il échappe dans une certaine mesure à l'analyse : malgré ses scrupules et ses inquiétudes quant aux conséquences de la supercherie dont l'ampleur croissante semble l'effrayer dans toute la pièce et malgré son intention maintes fois affichée de mettre fin à la fourbe, le personnage ne dévoilera finalement pas la supercherie, peut-être dans une sorte de griserie de la fourbe, qui jette une note légèrement inquiétante sur le caractère. Il est donc doté d'une psychologie plus élaborée, et ce n'est pas un hasard si d'aucuns y ont vu les germes d'un certain don juanisme [175]. La critique a d'ailleurs souvent voulu voir des traits annonciateurs du Don Juan de Molière chez des héros de comédie de la première moitié du siècle qui présentaient quelques caractéristiques psychologiques légèrement plus originales que la plupart des personnages qui peuplaient les comédies contemporaines. Tel a par exemple été le sort réservé par la critique à l'Alidor de *La Place Royale* de Pierre Corneille, amant inconstant et « extravagant », comme l'indique le sous-titre de la comédie. Si l'on doit d'ailleurs chercher une parentée au personnage de Don Fernand, c'est sans nul doute du côté de la comédie de Pierre Corneille qu'il faudra chercher. Mais Don Fernand ne présente en aucun cas la complexité de l'amant de *La Place Royale* en comparaison duquel il paraît bien pâle et bien lisse. Le caractère reste somme toute assez conventionnel. Nous n'irons donc pas jusqu'à affirmer à la suite de Losada-Goya et d'A. Steiner que le Don Fernand de Thomas Corneille présente des traits d'un « don juanisme » avant la lettre [176], ni comme l'affirme A. Steiner que le personnage rapproche la pièce de Thomas Corneille de la comédie de caractère [177].
 
 
-### Le comique
+### Le comique.
 
 *Le Feint astrologue* nous semble être une pièce plus comique que celles de ses prédécesseurs Calderón et d'Ouville. Le comique y est souvent plus prononcé, il y paraît moins superficiel, même si l'on reste bien loin de la veine burlesque d'un Scarron. Lancaster [178] juge aussi à la suite de Steiner [179] et Oppenheimer [180] que *Le Feint Astrologue* est plus profondément, plus fondamentalement comique que les deux pièces précédentes sur le même sujet, par ailleurs si proches. Le critique souligne à cet égard que le traitement du thème de la revanche de l'amoureux éconduit semble plus proche de celui que l'on retrouvera dans les *Précieuses Ridicules* de Molière que de ce que l'on trouve dans les pièces de Calderón ou d'Ouville qui, « avec leurs intrigues plus sentimentales, ressemblent davantage à des tragi-comédies comportant des épisodes comiques » [181]. Cette modification majeure dans la tonalité générale de l'oeuvre était déjà sensible dans l'ouvrage de Scudéry. Que l'on pense par exemple à la scène de panique chez Léonor qui prend Don Juan pour un spectre : certes cet épisode comique figurait déjà dans la *comedia* de Calderón, mais c'était dans une version bien moins amusante. Thomas Corneille gagne en vivacité et en effets comiques en empruntant à Scudéry les détails et les jeux de scène dont ce dernier avait agrémenté l'épisode espagnol dans son *Ibrahim* [182].
 
 Comment expliquer cette accentuation, même légère, du comique dans la pièce par rapport à ses modèles ? Encore une fois, la réorganisation structurelle de la *comedia* espagnole y est sans aucun doute pour beaucoup : le dramaturge en déplaçant légèrement le point de vue, a fait passer l'intrigue de l'imposture astrologique au premier plan, si bien que les nombreuses situations comiques qui en découlent apparaissent moins comme des épisodes en marge de l'action principale que constituait l'intrigue amoureuse de Don Juan et Doña Maria. Il n'en reste pas moins que l'on sent bien à la lecture de la pièce que la trame de l'action dans *Le Feint astrologue* comme dans son modèle espagnol ne sert que de prétexte aux séquences comiques qu'elle suscite et dans lesquelles résident l'intérêt et le charme de la pièce.
 
 
-#### Les procédés comiques
+#### Les procédés comiques.
 
 
-##### Un comique de situation typique de la comédie d'intrigue
+##### Un comique de situation typique de la comédie d'intrigue.
 
 Comme dans les autres pièces de l'époque, le comique semble au premier abord comme surajouté à l'intrigue galante. Or comme on l'a vu précédemment en examinant l'action du *Feint astrologue*, l'intrigue galante y est précisément mise au second plan par rapport à la fourbe « astrologique » et aux séries d'effets scéniques comiques et plaisants qu'elle suscite. Et c'est en cela que le comique du *Feint astrologue* semble moins superficiel : il naît de situations qui découlent directement de l'intrigue B) de l'astrologie feinte mise au premier plan. Dans l'ensemble, c'est d'ailleurs la fourbe de la fausse astrologie qui assure l'essentiel du comique de la pièce.
 
@@ -836,12 +836,12 @@ Il est vrai néanmoins que le comique lié aux facéties du valet Philipin reste
 Mais c'est surtout par l'approfondissement et l'exploitation maximale de certaines situations comiques que la pièce se distingue de ses modèles et le dramaturge fait preuve à cet égard d'un grand pragmatisme dans l'utilisation des sources. Ce pragmatisme consiste à réutiliser la matière puisée chez ses prédécesseurs en la redisposant selon les besoins, dans la perspective d'en tirer un maximum d'effets comiques ou plaisants. Mais Thomas Corneille ne se contente pas de procéder à cette synthèse habile de ses modèles : quelques séquences sont en effet à porter à son crédit, toujours dans la perspective d'obtenir un effet comique accru. Ainsi, dans l'épisode du bon tour que Philipin joue au serviteur Mendoce dans la scène V, 7, on verra que la fantaisie verbale que le valet y déploie est sans équivalent chez les prédécesseurs de Thomas Corneille.
 
 
-###### Effets de surprise et renversements de situation
+###### Effets de surprise et renversements de situation.
 
 Un renversement de situation comique consiste dans le changement de fortune inattendu du menteur soudain mis en difficulté et menacé d'être découvert. Ces situations comiques d'embarras du personnage de fourbe sont nombreuses dans *Le Feint astrologue* et toujours empruntées à Calderón. Toutefois, Thomas Corneille exploite et approfondit à deux reprises ce procédé en enrichissant d'effets nouveaux ces situations où l'assurance de l'imposteur est brusquement mise à mal et que son prédécesseur développait avec une moindre ampleur. C'est d'abord la scène d'embarras de Don Fernand (II, 3) soumis à l'interrogatoire de Léonard qui menace de tourner à sa confusion et au cours duquel le savoir astrologique du feint astrologue est convoqué sous la forme comique du galimatia pseudo-scientifique. Chez Calderón au contraire, cette confrontation des savoirs entre les deux hommes n'avait finalement pas lieu et le potentiel comique d'une telle scène était donc peu exploité (voir dans le tableau présenté plus haut la comparaison de l'action de cette scène II, 3 avec celle de la scène espagnole correspondante). C'est aussi la scène III, 2 au cours de laquelle Léonor met notre imposteur dans une situation délicate. Cette séquence s'organise en deux temps où l'on assiste à l'accumulation comique des difficultés et une gradation de l'embarras du menteur. Léonor sollicite d'abord Don Fernand sans dire un mot de ce qu'elle attend de lui tant elle est convaincue que ses pouvoirs lui permettent de deviner sa pensée, puis elle lui demande de servir ses desseins grâce à ses pouvoirs surnaturels, le mettant ainsi dans une situation délicate. Le spectateur rit alors de bon cœur de voir le fourbe se débattre pour sauver son stratagème et il se demande combien de temps l'imposture pourra encore durer sans être découverte (là encore, on pourra se référer au tableau établi plus haut qui fait apparaître l'exploitation comique maximale à laquelle procède Thomas Corneille dans sa pièce par rapport à Calderón).
 
 
-###### La méprise
+###### La méprise.
 
 Comme chez Calderón, les situations comiques résultent bien souvent d'une feinte, d'un quiproquo, ou de toute autre interprétation erronée des apparences. Le plaisir du spectateur réside dans la satisfaction qu'il ressent de détenir les clés de lecture de ces apparences dont ne dispose pas le personnage qui se méprend. Connaissant la vérité, il rit de la crédulité du personnage trompé et admire l'habileté du trompeur. Le procédé du quiproquo est récurrent dans *Le Feint astrologue* qui comme comme la pièce de Calderón en présente une grande variété de réalisations.
 
@@ -850,22 +850,22 @@ Parmi les apparitions du procédé dans la pièce, la scène III, 8 du faux spec
 Dans l'ensemble *Le Feint astrologue* se situe donc bien dans un registre comique plus appuyé que celui de son modèle espagnol. Et même si en donnant le rôle du feint astrologue au valet, d'Ouville avait conféré à sa pièce des accents plus burlesques, l'inspiration était sensiblement la même que chez Calderón, plus proche de la tragi-comédie agrémentée d'épisodes comiques.
 
 
-##### Traits burlesques et éléments typiques de la *commedia dell'arte*
+##### Traits burlesques et éléments typiques de la *commedia dell'arte*.
 
 Le burlesque consiste en la dissonance des registres. Le rire naissant dans ce cas du traitement « bas » d'un motif sérieux, on comprend donc aisément pourquoi le personnage du valet était chargé de ce type de comique dans les *comedias* et leurs imitations.
 
 
-###### Le cas du valet Philipin, imité du type du *gracioso* espagnol : un personnage haut en couleur
+###### Le cas du valet Philipin, imité du type du *gracioso* espagnol : un personnage haut en couleur.
 
 
-###### Remarques préliminaires
+###### Remarques préliminaires.
 
 R. Guichemerre [186] distingue deux types de valets qui apparaissent dans le théâtre comique de l'époque et qui sont issus de deux traditions dramatiques différentes. Le premier et de loin le plus représenté est issu du type espagnol du *gracioso*, personnage de valet caractérisé par sa grossièreté, sa gloutonnerie, son goût pour la boisson, sa couardise, son « incontinence verbale » [187], ses impertinences et ses propos bouffons lorsqu'il s'avise de conseiller ou de sermonner son maître, mais aussi par une certaine débrouillardise. Il constitue le plus souvent une sorte de repoussoir de son maître. Philipin comme Jodelet en étaient les héritiers français. Son rôle était principalement d'introduire une dimension nettement comique dans les comédies d'intrigue romanesques à l'espagnole. Philipin relève clairement de cette tradition espagnole du valet de comédie. La seconde tradition de valet, plus rare sur la scène française de l'époque mais que Molière ne devait pas tarder à consacrer avec les rôles de Mascarille et de Scapin, provient du théâtre italien qui l'avait lui-même hérité de la comédie latine antique, en particulier de Plaute. Il s'agit d'un valet intrigant, hardi et rusé, moins grossier que son émule espagnol et qui se caractérise par son ingéniosité et son habileté lorsqu'il s'agit d'inventer toutes sortes de stratagèmes pour tirer son maître de situations délicates. C. Dumas souligne dans ses travaux consacrés à l'étude comparative des types du *gracioso* espagnol et du valet comique français que la transposition du type espagnol dans la version française s'opère en général à cette époque selon une « logique d'homogénéisation restrictive » [188], de simplification et d'unification du type dont le corollaire est le gommage de la complexité de la figure du *gracioso* à la fois bouffon et débrouillard, dans un souci de vraisemblance conforme aux exigences de l'esthétique classique. À l'issue de ce processus, les dramaturges français ne conservent donc bien souvent du *gracioso* que ses caractéristiques les moins nobles. C. Dumas distingue alors deux tendances principales : soit cette « homogénéisation » s'effectue dans le sens du burlesque, comme c'est le cas chez Scarron, et ce sont alors les caractéristiques bouffonnes du type (gloutonnerie, grossièreté outrée…) qui sont retenues et amplifiées, soit elle s'opère dans la perspective de créer un valet plus policé avec un parti pris de modération et de bienséance (les impertinences et les propos grivois étant alors gommés). La tendance globale est donc à « l'unification vraisemblable » à une époque où selon C. Dumas, le valet comique français « cherche sa formule » [189]. De ce point de vue, il semblerait que dans *Le Feint astrologue* le valet Philipin présente dans l'ensemble les mêmes caractéristiques que son modèle espagnol qui correspondait lui-même à une réalisation déjà assez « modérée » et unifiée du type du *gracioso*.
 
 C. Dumas souligne qu'une autre tendance, sorte de troisième voie promise à un bel avenir avec le Scapin de Molière, se profile dans la distribution des rôles entre maître et valet en France, « tendant à revaloriser indirectement, le serviteur, en cantonnant le maître dans un univers plus élevé et sérieux » [190] : pour le maître, le sentiment et l'intrigue amoureuse, pour le valet la ruse, la fourbe et l'ingéniosité. C'est cette « spécialisation des compétences » [191] qui selon elle se profile dans le *Jodelet Astrologue* de d'Ouville, œuvre pour laquelle C. Dumas parle de valet érigé au rang de « serviteur vedette » [192], c'est-à-dire qu'il y acquiert selon elle le statut dramaturgique de personnage moteur du point de vue de l'action tout en continuant d'assumer sa fonction comique traditionnelle : « dans cette pièce, écrit-elle ainsi, le maître, quoique complice de la feinte, en laisse principalement le soin à Jodelet, chez lequel la débrouillardise devient le corrélat très exploitable de la bassesse » [193]. Or si l'on compare attentivement la pièce de d'Ouville avec son modèle espagnol, on se rend vite compte qu'en dépit du transfert du rôle d'astrologue du maître au valet dans le *Jodelet Astrologue*, l'intrigue et la structure de l'action diffèrent curieusement assez peu de celles du modèle. Ainsi, Jodelet semble souvent n'être que l'instrument assez passif de son maître et les personnages ne lui soumettent jamais directement leurs requêtes astrologiques et s'adressent d'abord à son maître qui plus qu'un simple « complice » assume tout au long de la comédie la reponsabilité de la fourbe et en ordonne le plus souvent la mise en scène, Jodelet n'apparaissant alors bien souvent que comme exécutant. Certes dans la scène II, 2, c'est Jodelet qui se prétend astrologue mais son maître prend immédiatement le relai de l'explication embrouillée du valet dans une tirade beaucoup plus longue (75 vers contre 30 vers pour le valet). D'ailleurs Liliane (l'équivalent du personnage de Lucrèce) s'adresse ensuite à Timandre plutôt qu'à Jodelet dans le reste de la scène. En III, 2, c'est aussi Timandre qui dit à son ami Acaste qu'il faut continuer à publier le mensonge ; en d'autres termes c'est lui qui organise la mise en scène de la fourbe. Au cours de la scène III, 7, Jacinte (l'équivalent du personnage de Léonor) s'adresse à lui et c'est lui qui argumente pour justifier l'impossibilité pour son valet de faire apparaître son amant absent. D'Ouville reprend ainsi la démonstration présente chez Calderón en ne faisant subir au discours du maître qu'un changement de personne grammaticale, qui passe de la première à la troisième.  Enfin à la scène V, 1, c'est Timandre qui se plaint de la situation à Acaste et qui exprime sa lassitude au sujet de la poursuite de la feinte. Si bien qu'à la différence de C. Dumas, il nous semble qu'en dépit d'une certaine amorce d'autonomisation du serviteur (du reste tardive, puisqu'elle n'apparaît qu'au début de l'acte V), ce transfert de rôle du maître au valet dans *Jodelet astrologue* a somme toute assez peu d'implications dramaturgiques [194] et que la mise en vedette de Jodelet n'est pas véritablement effective, mais au contraire seulement affichée, notamment par le titre de la pièce, dans une perspective plus publicitaire que dramatique, simplement pour profiter du goût du public pour le personnage de Jodelet. En outre, l'analyse de C. Dumas concernant une mise en avant du personnage reposant sur son rôle dramaturgique de moteur de l'action en tant qu'instigateur de la feinte, vaut tout autant pour son modèle espagnol et l'adaptation de Thomas Corneille qui lui attribuent la même fonction. En somme, la mise en valeur du rôle du valet ne serait que le fruit d'un très léger infléchissement que l'adaptateur d'Ouville aurait fait subir à son modèle puisque ce dernier, tout comme du reste le *Feint astrologue*, présente déjà une réelle complémentarité-complicité entre le maître et son valet.
 
 
-###### Un personnage « timidement » burlesque
+###### Un personnage « timidement » burlesque.
 
 Comme dans la pièce de Calderón, le comique est souvent assuré par le valet qui est traditionnellement dans la comédie « le… personnage… chargé… du commentaire burlesque des événements qui intéressent son maître… » [195] (voir v. 438, 891). La dissonance burlesque affleure constamment dans son discours même si, d'un point de vue quantitatif, on est encore bien loin du ton nettement burlesque qui caractérise les comédies de Scarron et que Thomas Corneille adoptera dans sa pièce suivante, *Dom Bertran de Cigarral*. Ainsi, dans la scène I, 2, Philipin qui s'étonne de ce que Lucrèce aime un homme sans biens associe par exemple de façon plaisante l'abstrait et le concret dans une exclamation burlesque savoureuse, typique du bon sens populaire du valet à l'espagnole : « Et la galanterie échauffe la cuisine ! ». On relève par ailleurs quelques facéties du valet dans les scènes II, 3 et II, 4 qui présentent un jeu de scène comique de Philipin qui, comme son modèle espagnol, près d'exploser, tente en vain de tenir sa langue :
 
@@ -885,12 +885,12 @@ Pourtant, on l'a entrevu, le valet du *Feint astrologue* comme son modèle espag
 Il faut rappeler que cette « mise en sourdine » des caractéristiques les plus bouffonnes du type n'est pas de l'invention de Thomas Corneille. Déjà chez Calderón, le caractère burlesque de Moron était peu prononcé : aucune allusion à sa gloutonnerie, son ivrognerie. Son caractère bavard n'apparaît également que de manière furtive à l'occasion d'une courte scène plaisante où il annonce qu'il ne pourra tenir sa langue (v. 848-860 et sc I, 3 dans *Le Feint astrologue*), puis dans l'énumération comique et gratuite de la scène V, 7 du *Feint astrologue*. En outre, son caractère « débrouillard » est déjà mis en valeur dans la pièce espagnole où il est aussi l'instigateur de la fourbe de fausse astrologie et où son ingéniosité est vantée par son maître lui-même (v 1451-1480). De même dans *Le Feint astrologue*, Don Fernand confie à son valet le soin de le tirer d'embarras en évoquant son habileté (« Tâche à remedier à ce desordre extresme, / Tu n'es que trop adroit pour en venir à bout, / Invente, fourbe, ments, jure, j'advoüeray tout », II, 2, v. 452-454). On a ainsi l'ébauche d'une réelle complémentarité-complicité entre le maître et son valet. Dans les deux pièces, le valet présente donc les traits généraux du *gracioso*, mais les caractéristiques les plus bouffonnes du type y sont absentes où du moins atténuées pour privilégier son ingéniosité. Cette perspective est d'ailleurs accentuée par Thomas Corneille qui ne reprend pas, par exemple, l'avidité du gain qui caractérisait son modèle espagnol toujours enclin à réclamer à son maître une récompense pour ses bons services rendus. Le dramaturge met également en valeur sa verve qui se déploie dans la séquence comique de l'inventaire « endiablé », passage de virtuosité gratuit, absent chez Calderon et d'Ouville (IV, 12).
 
 
-#### Quelques traits de la comédie italienne
+#### Quelques traits de la comédie italienne.
 
 Quant aux quelques traits comiques typiques de la comédie « à l'italienne », ils renvoient à la tradition de la *commedia dell'arte* qui fournit un panel de situations et de jeux de scène comiques stéréotypiques. C'est le cas de la scène burlesque III, 8, imitée de Calderón : la terreur et la panique que manifestent Léonor et sa suivante lors de la visite nocturne de Don Juan qu'elle prennent pour un fantôme est nettement plus comique dans la version de Thomas Corneille qui reprend à Scudéry le procédé de la table renversé au cours du mouvement de panique de Jacinte qui s'était cachée sous la table pour échapper au spectre, ainsi que le détail de la lampe qui s'éteint dans la panique.
 
 
-##### Langage comique et fantaisie verbale
+##### Langage comique et fantaisie verbale.
 
 Le comique lié à l'intrigue et aux situations qu'elle génère est agrémenté chez Thomas Corneille de séquences de fantaisie verbale issues d'une tradition médiévale perpétuée par les farceurs du début du XVII*e* siècle et qui renaît sous la plume des auteurs comiques français de l'époque [199]. La fantaisie verbale se caractérise par sa gratuité et sa dimension plus ludique que comique. R. Garapon souligne ainsi que « le jeu verbal ne se manifeste qu'à partir du moment où l'on a accepté de parler pour ne rien dire » [200]. Elle apparaît donc comme un ajout, un surcroît à la comédie d'intrigue fondée sur les situations et leur enchaînement. Elle a un effet plaisant qui repose sur la jouissance, la griserie du verbe. Elle surgit principalement dans la scène V, 8 à travers le procédé de l'« accumulation descriptive » [201], lorsque Philipin livre un catalogue qui décline les différentes variétés de diables existants dans une énumération truculente (voir V, 8, v. 1745-1764).
 
@@ -922,7 +922,7 @@ Le ressort comique du jargon astrologique et de la fatrasie est néanmoins utili
 Du point de vue du comique dans la pièce, on peut donc déjà dresser un premier bilan : par rapport à son modèle, déjà modéré sur ce point, Thomas Corneille évite globalement le registre grossier et les scènes trop bouffonnes. On pourrait d'ailleurs davantage parler à propos du *Feint astrologue* d'une dimension ludique, liée aux situations et aux traits de langage plaisants, plutôt que d'un registre franchement comique comme on le trouve clairement assumé chez Scarron.
 
 
-##### Le thème de l'astrologie : une matrice à situations comiques
+##### Le thème de l'astrologie : une matrice à situations comiques.
 
 Lorsque Thomas Corneille compose *Le Feint astrologue*, et sans même parler du *Jodelet Astrologue* de d'Ouville, le théâtre français a déjà son lot de faux astrologues et autres sorciers et Don Fernand ne fait nullement figure de précurseur en la matière. En effet l'astrologie est un thème en vogue et un sujet assez fréquent dans la littérature de l'époque qui apparaît dans plusieurs œuvres dramatiques comme par exemple *Le Campagnard* de Gillet de la Tessonnerie, et que Thomas Corneille continuera d'exploiter par la suite, notamment en 1679 dans *La Devineresse*, sa comédie inspirée de la célèbre affaire des poisons de la Voisin.
 
@@ -949,14 +949,14 @@ Don Fernand prend bien soin d'ailleurs de rectifier les propos de son valet igno
 Toute une gestuelle caricaturale comique est en outre associée à la pratique magique : elle apparaît en particulier dans deux jeux de scènes : c'est d'abord Don Fernand qui examine les yeux et la main de Léonor dans une mise en scène visant à simuler l'action magique. Une autre occurrence de ces gesticulations comiques censées traduire une activité magique apparaît au début de la scène V, 7 à partir de l'édition (b) *du Feint astrologue* où elle est décrite dans une didascalie : « *PHILIPIN faisant un cercle avec une baguette, et prononçant en suite quelques mots barbares à demy bas.* ». Dans les deux premières versions de la pièce, ce jeu de scène de fausse magie n'est qu'évoqué de manière allusive à travers le discours des valets : « PHILIPIN. Mets-toy dedans ce rond. MENDOCE. Qu'est-ce que tu marmotes ? ».
 
 
-##### Bilan
+##### Bilan.
 
 Le comique du *Feint astrologue* reflète donc bien le statut de comédie d'intrigue de la pièce. Il repose essentiellement sur des situations plaisantes qui semblent être au cœur de l'intérêt et du travail du dramaturge qui en soigne les effets en se souciant bien peu de ménager les transitions entre ces différentes séquences [206]. D'où le caractère quelque peu brusque et laborieux parfois de certains enchaînements de scènes ou d'effets qui semblent simplement juxtaposés dans un ensemble qui, s'il ne manque pas de vivacité, manque en revanche parfois de souplesse. Autrement dit, les liaisons et l'intégration des effets à l'ensemble semblent avoir été négligés par le dramaturge.
 
 Plus généralement, comme souvent dans les comédies d'intrigue de l'époque imitées de l'espagnol, les effets comiques sont suscités par des situations qui mettent en scène plusieurs personnages, et non par un caractère ridicule qui occuperait à lui seul le devant de la scène. En somme, nulle étude de mœurs autour d'une satire sociale dans *Le Feint astrologue*, ni comique de caractères.
 
 
-### Une esthétique galante de la « gageure » : feinte et jeu de masques
+### Une esthétique galante de la « gageure » : feinte et jeu de masques.
 
 Jamais plus galamment homme ne fut dupé. (*Le Feint astrologue*, II, 5, v. 646)  
 
@@ -989,17 +989,17 @@ Mais il faut que ce soit avec plus de loisir. (V, 12, v. 1907-1909)
 Cela apporte en tout cas une touche ambiguë, légèrement inquiétante au dénouement, là où chez Calderón comme chez ses imitateurs français, le dénouement voyait la fourbe révélée et le fautif sermonné. Même dans l'épisode éminemment galant de Scudéry, le Marquis français était mis en cause puis finalement pardonné en vertu du caractère plaisant que prenait l'aventure considérée *a posteriori*. Ces dénouements avaient finalement un côté plus rassurant puisque tout y rentrait dans l'ordre. Cet aspect de la comédie de Thomas Corneille indiquerait ainsi la prééminence accordée par le dramaturge au principe de plaisir et de jeu par rapport à celui d'instruire. Entre les deux visées que tend à se donner la comédie de l'époque, d'un côté « plaire », de l'autre « instruire », Thomas Corneille trancherait clairement : il n'y pas de sanction morale de l'imposteur qui ne se repent pas. C'est au contraire la virtuosité dans le jeu de masque qui est mise en valeur. De ce point de vue aussi *Le Feint astrologue* devait se trouver en affinité avec les goûts et l'idéal galant du public de l'époque.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation du texte de l'édition établie
+## Présentation du texte de l'édition établie.
 
 L'exemplaire du *Feint Astrologue* qui a servi de base à la réalisation de cette édition est conservé sur le site de Tolbiac de la Bibliothèque nationale sous la cote RES-YF-704 (nous le désignerons par la suite comme l'exemplaire A). Il s'agit du texte de la première édition de l'œuvre, imprimée pour la première fois en 1651 à Rouen par l'imprimeur de prédilection des frères Corneille Laurens Maurry. Les exemplaires se vendent à Paris chez le libraire Charles de Sercy. L'achevé d'imprimer est daté du 31 mai 1651 et le Privilège du 12 mars 1651. Il faut noter que ce privilège porte également sur la première pièce de notre auteur, *Les Engagements du Hasard*, mais aussi sur *Andromède* et *Nicomède* de Pierre Corneille qui semble avoir été l'auteur de la demande.
 
 On a recensé trois autres exemplaires de cette première édition de 1651 : l'un est également conservé sur le site de Tolbiac de la Bibliothèque Nationale sous la cote RES-YF-705 (nous l'appellerons B), un autre sur le site Richelieu de la Bibliothèque nationale sous la cote 8-RF-2671 (nous l'appellerons C) et un dernier contenu dans un recueil factice conservé à la Bibliothèque municipale de Lyon sous la cote Rés 360835 (nous l'apellerons D). Nous n'avons pour le moment pas consulté ce dernier exemplaire.
 
 
-## Description matérielle de notre exemplaire
+## Description matérielle de notre exemplaire.
 
 Il s'agit d'un ouvrage in-4° de IV-144 p. comprenant la page du privilège non chiffrée. Le volume se présente comme suit :
  * – I : page de titre : LE FEINT / ASTROLOGVE / COMEDIE. / fleuron du libraire représentant une corbeille de fleurs / A ROVEN, / Chez LAVRENS MAVRRY, prés le Palais. / filet / *AVEC PRIVILEGE DV ROY.* / M. DC. LI. / *Et se vendent A PARIS*, / Chez CHARLES DE SERCY, au Palais, dans la Salle / Dauphine, à la bonne Foy Couronnée.
@@ -1009,12 +1009,12 @@ Il s'agit d'un ouvrage in-4° de IV-144 p. comprenant la page du privilège non 
  * – 144 : « *PRIVILEGE DV ROY.* » et « *Achevé d'imprimer le dernier May mil six cens cinquante et un.* ».
 
 
-## Variables notables entre les différents exemplaires de la première édition
+## Variables notables entre les différents exemplaires de la première édition.
 
 L'exemplaire A qui sert de base à cette édition présente quelques différences, notamment concernant certaines gravures, par rapport aux deux autres exemplaires consultés (B et C) qui sont semblables en tous points si l'on excepte l'absence dans l'exemplaire B de l'épître et de la liste des acteurs, autrement dit de l'un des feuillets non chiffré.
 
 
-### Concernant les bandeaux et les cahiers
+### Concernant les bandeaux et les cahiers.
 
 Dans B et C, le cahier A est noté « **A** » sur la p. 1 ; p. 28 : le bandeau de l'acte II de A est différent de ceux de B et C : la gravure au centre y représente trois fleurs de lys ; p. 56, les bandeaux de l'Acte III sont les mêmes dans les trois exemplaires (trois fleurs de lys au centre), mais dans A la gravure centrale est en partie recouverte par un petit « papillon » (morceau de papier découpé ajouté après un tirage) vierge ; p. 83, en tête de l'acte IV, on retrouve les trois fleurs de lys au centre du bandeau dans B et C.
 
@@ -1023,27 +1023,27 @@ En ce qui concerne les différences de bandeaux, l'exemplaire A comporte donc de
 En outre, on constate que le cahier A de l'exemplaire A présente une composition différente de celle de B et C. A. Riffaud y voit le signe d'un incident de fabrication et évoque à ce sujet la probabilité d'une impression insuffisante du cahier A qui aurait nécessité un nouveau tirage et donc une seconde composition de ce cahier. Cependant, dans l'hypothèse d'un déficit du cahier A, le petit nombre d'exemplaires dont nous disposons ne nous permet pas de savoir avec certitude si notre exemplaire de base reflète le premier état du cahier ou sa deuxième version et on ne peut déterminer la chronologie des compositions successives.
 
 
-### Concernant les graphies
+### Concernant les graphies.
 
 p. 4 : « secert » dans A, mais « secret » dans B et C ; p. 8 (toujours dans le cahier A) : B et C présentent « **A** personne ? » là où l'on peut lire dans A : « **A** personne ».
 
 
-### Concernant la ponctuation
+### Concernant la ponctuation.
 
 P. 5 (dans le cahier A) B et C présentent : « il a quitté la ville, et doit passer en Flandre » (cette virgule figure également dans toutes les éditions ultérieures).
 
 
-### Concernant le texte
+### Concernant le texte.
 
 Nous n'avons relevé aucune différence de contenu entre les différents exemplaires de la première édition, si ce n'est que ni l'épître dédicatoire ni la liste des acteurs suivie de la didascalie initiale ne figurent dans l'exemplaire B où l'on passe directement de la page de titre à la pièce.
 
 
-## Éditions ultérieures publiées du vivant de l'auteur
+## Éditions ultérieures publiées du vivant de l'auteur.
 
 Elles sont nombreuses si l'on compte les éditions pirates et les éditions successives des œuvres de Thomas Corneille dans lesquelles figure notre pièce, mais trois seulement constituent de véritables rééditions de l'œuvre avec des variantes et des corrections apportées par l'auteur. Nous les indiquerons en gras dans la liste qui suit et nous leur attribuerons une lettre pour faciliter leur désignation dans le reste de cette étude. Nous indiquerons à l'aide d'un sigle particulier les éditions qui présentent un état du texte analogue. Enfin, nous signalerons par une ⁎astérisque les exemplaires auxquels nous n'avons pu avoir accès.
 
 
-### Éditions séparées de la pièce
+### Éditions séparées de la pièce.
  * – ◊ ***Le Feint astrologue*, Rouen, chez L. Maurry, et Paris, chez G. de Luyne, 1653. On l'appellera (a).** L'exemplaire consulté est recensé sous la cote RES-YF-3099 sur le site de Tolbiac de la Bibliothèque nationale (il est relié avec quatre autres pièces de Thomas Corneille).
  * – ◊ *Le Feint astrologue*, Bruxelles, François Foppens, 1654. L'exemplaire consulté de cette contrefaçon figure dans un recueil factice recensé sous la cote 16-YF-986 (1) sur le site de Tolbiac de la Bibliothèque nationale (il est relié avec *L'Amour à la mode*).
  * – Lancaster [209] et Losada-Goya [210] recensent une autre édition pour cette même année : ⁎*Le Feint astrologue*, Leyden, Elzevier, 1654. Nous n'en avons pas trouvé trace dans les catalogues des bibliothèques françaises.
@@ -1056,7 +1056,7 @@ Elles sont nombreuses si l'on compte les éditions pirates et les éditions succ
  * – □ *Le Feint astrologue*, sans nom de libraire, suivant la copie imprimée à Paris, 1689. L'exemplaire consulté figure dans un recueil factice intitulé *Tragédies et comédies de Thomas Corneille* conservé sous la cote 80EE 426(2) INV470 RES à Paris, à la Bibliothèque Sainte-Geneviève. Losada-Goya [214] attribue cette édition pirate à A. Wolfgang, Amsterdam, 1689.
 
 
-### Éditions collectives des œuvres de l'auteur dans lesquelles figure *Le Feint astrologue*
+### Éditions collectives des œuvres de l'auteur dans lesquelles figure *Le Feint astrologue*.
  * – □ ***Poëmes dramatiques de Thomas Corneille*, part. 1, Rouen, Paris, A. Courbé et G. de Luyne, 1661. On l'appellera (b).** L'exemplaire consulté est recensé sous la cote YF-2562 sur le site de Tolbiac de la Bibliothèque nationale. Il présente une nouvelle version de l'épître (cf. annexe 2) et une gravure en frontispice (cf annexe 5) qui représente la scène III, 8 : elle figure la fuite de Léonor à la vue de D. Juan qu'elle prend pour un fantôme, dans un cabinet situé à gauche au fond de la scène, tandis que la suivante, Jacinthe, qui a déjà laissé tomber la chandelle qui gît encore fumante à terre, est cachée sous la table, sur laquelle est représentée la chandelle encore allumée que la suivante renversera en même temps que la table, pour fuir à la fin de la scène.
  * – □ *Poëmes dramatiques de Thomas Corneille*, part. 1, Rouen, Paris, A. Courbé et G. de Luyne, 1665. L'exemplaire consulté est conservé sous la cote 8-RF-2650 à la bibliothèque Richelieu. Il présente la gravure précédemment évoquée en frontispice.
  * – □ *Poëmes dramatiques de Thomas Corneille*, part. 1, Rouen, Paris, G. de Luyne, 1669. L'exemplaire consulté est recensé sous la cote YF-2565 sur le site de Tolbiac de la Bibliothèque nationale. Il ne présente pas la gravure en frontispice.
@@ -1071,10 +1071,10 @@ Elles sont nombreuses si l'on compte les éditions pirates et les éditions succ
 Les variantes significatives des différentes éditions ultérieures figurent en note dans le texte de notre édition, à l'exception de la deuxième version de l'épître qui apparaît dans l'annexe 2. On a constaté que la plupart des variantes apportées dans l'édition (b) résultent d'une volonté de prononcer « D. Juan » en diérèse, ce qui suppose un réajustement des vers où figure ce nom. Quant aux variantes de graphie, trop nombreuses pour être signifiantes, nous ne les avons pas relevées. On peut enfin remarquer que le découpage scénique est variable d'une édition à l'autre : les actes I, II et III de l'édition (a) comptent ainsi respectivement sept, six et six scènes et les actes I, II et III des éditions (b) et (c) comptent tous sept scènes.
 
 
-## Établissement du texte : liste des corrections opérées
+## Établissement du texte : liste des corrections opérées.
 
 
-### Concernant les graphies
+### Concernant les graphies.
 
 Nous avons respecté la graphie de l'édition originale, y compris l'accentuation ou l'absence d'accentuation. Nous avons également fait la distinction entre *i* et *j* et entre *u* et *v*. L'usage des tildes qui notent la nasalité d'une voyelle en permettant un gain d'espace pour les imprimeurs est restreint dans notre texte : on en compte dix (cinq figurant dans des didascalies et cinq dans des répliques, réparties comme suit : deux dans le cahier F, un dans le cahier I, un dans le cahier K, un dans le cahier O, deux dans le cahier P, un dans le cahier R et un dans la cahier S). Dans chaque cas nous avons rétabli la graphie courante correspondante, c'est-à-dire une voyelle + une consonne nasale. En outre, nous avons systématiquement développé les *&* en *et*.
 
@@ -1083,12 +1083,12 @@ Nous avons relevé un certain nombre de coquilles orthographiques que nous avons
 De même, dans le « Privilege », nous avons rectifié « mandons » là où l'on pouvait lire « mandos » dans tous les exemplaires de la première édition, ainsi que « des presentes » là où le texte de 1651 présentait « de présentes ».
 
 
-### Concernant la ponctuation
+### Concernant la ponctuation.
 
 Nous avons respecté la ponctuation, y compris lorsqu'elle semblait contrevenir à l'usage courant. Lorsqu'il s'agissait clairement d'une coquille, nous l'avons rectifiée : v. 69 : « Et malgré tout cela tu veux qu'ils soient d'accord. » : nous avons remplacé le point par un point d'interrogation, conformément au sens interrogatif de la phrase ; v. 111 : « Luy-mesme, » : nous avons remplacé la virgule par un point-virgule ; v. 193 : « Vous craignez le vieillard. » : nous avons remplacé le point par un point d'interrogation (c'est d'ailleurs un point d'interrogation qui figure dans les éditions ultérieures) ; v. 268 : « C'est d'un peuple grossier l'ordinaire foiblesse, » : nous avons remplacé la virgule par un point à la fin de cette phrase (c'est d'ailleurs un point qui figure dans les éditions ultérieures) ; v. 284 et 286 : « à la voir me convie ; » et « j'en attends le succez, » : nous avons inversé les ponctuations de ces deux vers ; v. 515 : « Du trop heureux D. Juan j'ay sçeu la feinte absence, » : nous avons remplacé la virgule par un point à la fin de cette phrase ; v. 1462 : « Depuis que je le sers, je suis demy Sorcier, » : nous avons remplacé la virgule par un point à la fin de cette phrase (même coquille dans A, B et C, rectifiée dès la seconde édition, de 1653) ; v. 1524 : « Cours viste de ce pas dresser ton équipage, » : nous avons remplacé la virgule par un point à la fin de cette phrase ; v. 1667 : « Il meurt d'amour pour vous, vous le croyez encore. » : nous avons remplacé le point par un point d'interrogation, conformément au sens interrogatif de la phrase ; v. 1732 : « A peine bien souvent y gagne-t'on le double, » : nous avons remplacé la virgule par un point à la fin de cette phrase ; v. 1848 : « Et pour nous dérober vous vous cachiez peut-estre. » : nous avons remplacé le point par un point d'interrogation, conformément au sens interrogatif de la phrase.
 
 
-### Concernant le chiffrage des scènes
+### Concernant le chiffrage des scènes.
 
 p. 78 : la scène présente une numérotation erronée : « SCENE VI » rectifiée en « SCENE VII ». Dès la scène suivante, la numérotation reprend normalement.
 
@@ -1096,7 +1096,7 @@ p. 78 : la scène présente une numérotation erronée : « SCENE VI » rect
 # LE FEINT ASTROLOGUE COMEDIE.
 
 
-## A MONSIEUR B. Q. R. I. [215] 
+## A MONSIEUR B. Q. R. I. [215]. 
 
 MONSIEUR,
 
@@ -1789,7 +1789,7 @@ Je le souhaite ainsi, mais Adieu, je vous quitte,
 C'est trop vous empescher de luy rendre visite.  
 
 
-### SCENE VII. [306] 
+### SCENE VII. [306]. 
 
     D. LOPE.
 En quel fascheux⁎ estat me trouvay-je [307] reduit !  
@@ -1802,7 +1802,7 @@ Et s'il faut succomber sous le sort⁎ qui nous brave,
 Qu'elle apprenne du moins qu'elle a plus d'un esclave.  
 
 
-### SCENE VIII. [309] 
+### SCENE VIII. [309]. 
 D. LOPE, LEONOR, JACINTE.
 
 
@@ -1948,7 +1948,7 @@ Et sous quelque couleur⁎ feindre⁎ apres son retour.
 Mais voicy D. Fernand. O la veuë importune !  
 
 
-### SCENE II 
+### SCENE II. 
 D. FERNAND, LUCRECE, BEATRIX, PHILIPIN.
 
 
@@ -2023,7 +2023,7 @@ Je pourray l'éclaircir s'il faut qu'on m'y contraigne.
 Je me retire donc apres un tel advis⁎,  
 Vous estes en cholere, et je crains de voir pis.  
 
-    D. FERNAND *l'arrestant.*
+    D. FERNAND *l'arrestant.*.
 Sans oüyr mes raisons ?  
 
     LUCRECE.
@@ -2045,7 +2045,7 @@ Que Beatrix au guet rompe toute surprise,
 Qu'un galand⁎ quoy qu'absent vienne à l'heure promise,  
 Qu'un voyage à dessein⁎ soit long-temps publié⁎.  
 
-    PHILIPIN *bas.*
+    PHILIPIN *bas.*.
 Il a bonne memoire, il n'a rien oublié ;  
 Au diable soit le maistre avecque sa harangue.  
 Où me suis-je adressé pour joüer de la langue [343] ?  
@@ -2053,10 +2053,10 @@ Où me suis-je adressé pour joüer de la langue [343] ?
     LUCRECE.
 Est-il vray, l'ay-je oüy ?  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
         Monsieur, qu'avez-vous fait ?  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
 D'un injuste mépris tu vois le juste effet.  
 
     LUCRECE.
@@ -2070,10 +2070,10 @@ Ah, Beatrix.
         Tay-toy, tu m'as venduë.  
 Malheur à qui se fie à de pareils esprits.  
 
-    PHILIPIN *à D. Fernand.* 
+    PHILIPIN *à D. Fernand.*. 
 Voyez, on va chasser la pauvre Beatrix.  
 
-    BEATRIX *à Lucrece.*
+    BEATRIX *à Lucrece.*.
 Pleust au Ciel que vous-mesme avec vostre cholere  
 N'eussiez pas advoüé ce que j'avois sçeu taire [344],  
 Et que par ce reproche…  
@@ -2081,33 +2081,33 @@ Et que par ce reproche…
     LUCRECE.
         Encore un coup [345], tay-toy.  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
 Je puis avoir bon dos, tout va tomber sur moy. [346]  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
 Que veux-tu, c'en est fait, mais pour moy, pour toy-mesme,  
 Tâ che à remedier à ce desordre extresme,  
 Tu n'es que trop adroit pour en venir à bout,  
 Invente, fourbe⁎, ments, jure, j'advoüeray tout.  
 
-    LUCRECE *à Beatrix.*
+    LUCRECE *à Beatrix.*.
 C'est un point resolu, n'en dy pas davantage.  
 
-    BEATRIX *à Lucrece.*
+    BEATRIX *à Lucrece.*.
 Et bien, vous le voulez, il faut plier bagage,  
 Mais je puisse [347] à vos yeux si j'ay parlé de rien [348]…  
 
     LUCRECE.
 Ah, l'innocence mesme ! ô la fille⁎ de bien⁎ !  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
 Monsieur, j'ay grande peine à bien mentir pour l'heure,  
 Celle-cy [349] passera faute d'une meilleure.  
 
     D. FERNAND.
 Bonne ou mauvaise enfin, parle, je t'ayderay.  
 
-    PHILIPIN *tout haut.*
+    PHILIPIN *tout haut.*.
 (à D. Fern.)
 
 Deussiez-vous me chasser, Monsieur, je le diray.  
@@ -2179,7 +2179,7 @@ Je ne le pûs entendre alors qu'il vous parla [355],
 Mais parmy plus de cent je dirois, *Le voilà*,  
 Tant je me remets⁎ bien son air⁎ et son visage.  
 
-    D. FERNAND *à Lucrece.*
+    D. FERNAND *à Lucrece.*.
 Il me perdra⁎ d'honneur [356] s'il en dit davantage,  
 Et bien-tost à l'oüyr vous me croirez Sorcier⁎⁎ : [357]  
 Mais puisque je voudrois en vain vous le nier,  
@@ -2209,7 +2209,7 @@ Asseurez-moy de l'un, je vous répons de l'autre.
     BEATRIX.
 O l'habile homme !  
 
-    PHILIPIN *à Lucrece.*
+    PHILIPIN *à Lucrece.*.
         Et bien, vous avois-je menty ?  
 
     BEATRIX.
@@ -2223,10 +2223,10 @@ J'avois assez de peine à soupçonner ta foy⁎,
 Mais enfin, Beatrix, sans son Astrologie⁎⁎  
 Eust-il rien pû sçauoir à moins qu'on m'eust trahie ?  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
 Tout va bien, Philipin, la fourbe⁎ a reüssi.  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
 La bonne Dame en tient [366], et n'est pas sans soucy⁎,  
 Vous verrez son orgueil reduit à la priere.  
 
@@ -2260,7 +2260,7 @@ Qu'il estoit fort expert dedans l'Astrologie⁎⁎,
 Et je le consultois pour sçavoir au certain⁎  
 A quel espoux le Ciel a destiné ma main.  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
 Elle veut esprouver⁎ si ma science⁎ est vraye.  
 
     LEONARD.
@@ -2286,7 +2286,7 @@ Est pauvre, et pour tout bien⁎ n'a que sa bonne mine⁎.
 Il ne faut pas ainsi craindre legerement⁎,  
 Ma fille.  
 
-    BEATRIX *bas.* 
+    BEATRIX *bas.*. 
         De quel front [371] le bon Cavalier⁎ ment !  
 
     LUCRECE.
@@ -2319,13 +2319,13 @@ Saturne⁎⁎regardant⁎⁎Venus⁎⁎ d'un trine⁎⁎ aspect⁎⁎,
 Et peut-on justement⁎ tirer un bon augure  
 De la conjonction⁎⁎ d'Hecate⁎⁎ avec Mercure⁎⁎ ?  
 
-    D. FERNAND *bas.*
+    D. FERNAND *bas.*.
 Il parle Hebreu pour moy, je suis pris, c'en est fait.  
 
-    PHILIPIN *à D. Louys.*
+    PHILIPIN *à D. Louys.*.
 Il auroit besoin d'estre Astrologue⁎⁎ en effet.  
 
-    D. FERNAND *bas.*
+    D. FERNAND *bas.*.
 N'importe, efforçons-nous [374], et payons⁎ d'impudence.  
 Pour vous dire en deux mots, Monsieur, ce que j'en pense,  
 Venus⁎⁎ aux amoureux promet beaucoup de biens⁎,  
@@ -2367,7 +2367,7 @@ Mais si vous vouliez estre un peu plus familier [379] ?
 LEONARD, D. FERNAND, D. LOUYS, LUCRECE, BEATRIX, MENDOCE, PHILIPIN.
 
 
-    MENDOCE *à Leonard.*
+    MENDOCE *à Leonard.*.
 Monsieur.  
 (Il luy parle à l'oreille.) [380]
 
@@ -2375,7 +2375,7 @@ Monsieur.
     LEONARD.
     Que me veux-tu ?  
 
-    PHILIPIN *à D. Fernand.* [381]
+    PHILIPIN *à D. Fernand.* [381].
         Vostre esprit s'évertuë⁎  
 Monsieur, c'est tout de bon⁎.  
 
@@ -2390,7 +2390,7 @@ Philipin, un amy se cognoist au besoin⁎ [383].
 Fay-moy quelque message, et par un tour d'adresse  
 Dans un pas si mauvais [384]…  
 
-    LEONARD *à D. Fernand.*
+    LEONARD *à D. Fernand.*.
         C'est affaire qui presse,  
 Monsieur, excusez-moy, je vous quitte à regret,  
 Et bruslois de sçavoir ce langage secret,  
@@ -2403,7 +2403,7 @@ Adieu.
 D. FERNAND, D. LOUYS, PHILIPIN.
 
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
         Sans ton secours le peril est passé.  
 (à D. Louys.)
 
@@ -2497,7 +2497,7 @@ Je m'abandonne à vous.
 D. LOUYS, D. LOPE.
 
 
-    D. LOUYS *feignant⁎ de ne point voir D. Lope.*
+    D. LOUYS *feignant⁎ de ne point voir D. Lope.*.
         Qui l'auroit pû penser ?  
 O surprenant prodige ! incroyable merveille !  
 N'est-ce point quelque songe, est-il vray que je veille ?  
@@ -2610,7 +2610,7 @@ On pourroit l'accuser d'estre Magicien⁎⁎.
 En voicy du moins⁎ un desja dedans le piege. [402]  
 
 
-### SCENE VII. [403] 
+### SCENE VII. [403]. 
 
     D. LOPE.
 En quel estonnement aujourd'huy me trouvay-je [404] ?  
@@ -2657,11 +2657,11 @@ Vous passerez bien-tost pour un nouveau Prophete.
 Aussi pour confirmer ce que l'on croit de moy,  
 Je ne perds point de temps.  
 
-    PHILIPIN *donnant deux livres à D. Louys.*
+    PHILIPIN *donnant deux livres à D. Louys.*.
         Ces livres en font foy,  
 Voyez.  
 
-    D. LOUYS *ouvrant les deux livres.*
+    D. LOUYS *ouvrant les deux livres.*.
         Un Almanach⁎⁎, un traité de la Sphere⁎⁎.  
 
     PHILIPIN.
@@ -2803,10 +2803,10 @@ Ne me traitez donc point avec tant de rigueur,
 Et puisqu'à vous parler je suis si peu hardie  
 Faites ce que je veux sans que je vous le die [420].  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
 Elle dit bien, Monsieur, songez à l'obliger⁎.  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
 Je croy qu'elle a dessein⁎ de me faire enrager⁎,  
 Deviner sa pensée ! est-elle raisonnable ?  
 Et suis-je pour cela Magicien⁎⁎ ou Diable⁎⁎.  
@@ -2815,7 +2815,7 @@ Et suis-je pour cela Magicien⁎⁎ ou Diable⁎⁎.
 Payez⁎ encor un coup de galimatias,  
 Et dites de grands mots qu'elle n'entende⁎ pas.  
 
-    D. FERNAND *à Leonor.*
+    D. FERNAND *à Leonor.*.
 Sans vouloir feindre⁎ icy, je confesse Madame,  
 Que je puis penetrer les secrets de vostre ame,  
 Voir à nud vostre cœur, lire dans vostre sein,  
@@ -2862,10 +2862,10 @@ Pour un objet⁎ aimable échauffa vostre cœur [422],
 Par l'Amour, par ce Dieu que chacun apprehende,  
 Ne me refusez point ce que je vous demande.  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
 Que luy pourray-je enfin respondre là dessus ?  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
 Appellez au secours le grand Nostradamus.  
 
     D. FERNAND.
@@ -2874,7 +2874,7 @@ Le viellard Astrologue⁎⁎ estoit moins redoutable.
     PHILIPIN.
 Dites qu'il luy faut faire un pacte avec le Diable.  
 
-    D. FERNAND *à Leonor.* 
+    D. FERNAND *à Leonor.*. 
 Madame, je ne sçay pour qui vous me prenez,  
 Ny ce que de mon Art⁎ vous vous imaginez,  
 Car où pretendez-vous que je puisse aller prendre  
@@ -2927,14 +2927,14 @@ Puisque depuis huict jours ayant quitté la ville
 A Sarragoce encor sa presence est utile, [429]  
 Un procez l'y retient.  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
         A ce coup m'y voicy [430].  
 
-    PHILIPIN *à D. Fernand.* 
+    PHILIPIN *à D. Fernand.*. 
 Chacun croit depuis peu D. Juan party d'icy. [431]  
 Si c'estoit luy, Monsieur ?  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
         Cela pourroit bien estre,  
 Sans nous trop engager tâchons de le cognoistre⁎.  
 (à Leonor.)
@@ -2950,7 +2950,7 @@ Que nous sommes tous deux environ du mesme âge.
     LEONOR.
 Je ne le puis nier.  
 
-    D. FERNAND *à Philipin.*
+    D. FERNAND *à Philipin.*.
         C'est luy-mesme, courage⁎.  
 (à Leonor.)
 
@@ -2999,7 +2999,7 @@ Puis-je rien refuser pour ce que je souhaite ?
 Je le déchireray ma figure⁎⁎ estant faite.  
 Depesche, Philipin, de l'encre et du papier.  
 
-    LEONOR *à Jacinte.*
+    LEONOR *à Jacinte.*.
 Et bien, qu'en penses-tu ?  
 
     JACINTE.
@@ -3013,10 +3013,10 @@ Je l'en [437] refuserois. [438]
         Ton cœur trop tost s'abat⁎,  
 Et pour mon interest tu te mets trop en peine⁎.  
 
-    D. FERNAND *luy presentant la plume.*
+    D. FERNAND *luy presentant la plume.*.
 Je m'en vay vous dicter, écrivez.  
 
-    PHILIPIN *à Jacinte pendan t que Leonor écrit.*
+    PHILIPIN *à Jacinte pendan t que Leonor écrit.*.
         Et bien, Reyne ?  
 
     JACINTE.
@@ -3047,7 +3047,7 @@ Un Démon⁎⁎ ! et tu sers⁎ un tel maistre ?
 Un Diable⁎⁎ quelquefois n'est pas mauvaise escorte [439],  
 J'entens⁎ un familier, ne t'épouvante pas.  
 
-    D. FERNAND *à Leonor.*
+    D. FERNAND *à Leonor.*.
 Vostre nom manque encore, il faut le mettre au bas.  
 
     LEONOR.
@@ -3063,10 +3063,10 @@ Souvenez-vous de moy.
     D. FERNAND.
         Je tiendray ma promesse.  
 
-    JACINTE *se cachant le visage.* 
+    JACINTE *se cachant le visage.*. 
 Faut-il qu'il me regarde ! Helas, je meurs de peur.  
 
-    D. FERNAND *à Jacinte.*
+    D. FERNAND *à Jacinte.*.
 Tu te caches les yeux, et je vois dans ton cœur.  
 
     JACINTE.
@@ -3123,7 +3123,7 @@ La plaisante advanture⁎ ! et son billet enfin ?
     D. FERNAND.
 Lisez, ce ne sont pas choses pour vous secrettes.  
 
-    D. LOUYS *lit.*
+    D. LOUYS *lit.*.
 *D. Juan, je sçay bien où vous estes*, [444]  
 *Venez me voir dés cette nuict.* [445]  
 
@@ -3166,7 +3166,7 @@ Et si je ne luy fais changer de rendez-vous…
     D. LOUYS.
 Cet advis en effet est le meilleur de tous.  
 
-    D. FERNAND *luy donnant le billet.*
+    D. FERNAND *luy donnant le billet.*.
 Va donc viste. Je meurs d'en sçavoir des nouvelles.  
 
     PHILIPIN.
@@ -3174,7 +3174,7 @@ Vous en sçaurez bien-tost, Monsieur, et des plus belles,
 La porte du jardin n'est pas bien loing d'icy.  
 
 
-### SCENE IV. [450] 
+### SCENE IV. [450]. 
 
     PHILIPIN.
 Quel intrigue jamais a valu celuy-cy [451],  
@@ -3192,11 +3192,11 @@ N'en estant point cognu, je ne hazarde⁎ rien ;
 J'entens marcher quelqu'un, si c'est luy, tout va bien.  
 
 
-### SCENE V. [456] 
+### SCENE V. [456]. 
 D. JUAN, PHILIPIN.
 
 
-    D. JUAN *heurtant Philipin comme il va pour entrer.*
+    D. JUAN *heurtant Philipin comme il va pour entrer.*.
 Qui va là ?  
 
     PHILIPIN.
@@ -3210,7 +3210,7 @@ Voylà quel est mon ordre.
 Amy, de grace, écoute.  
 
 
-### SCENE VI. [457] 
+### SCENE VI. [457]. 
 
     D. JUAN.
         Il fuit, il m'abandonne,  
@@ -3277,15 +3277,15 @@ Quelle secrette horreur s'empare de mon ame ?
 Je tremble, qu'ay-je à craindre !  
 
 
-### SCENE VIII. [462] 
+### SCENE VIII. [462]. 
 D. JUAN, LEONOR, JACINTE.
 
 
-    JACINTE *laissant tom ber la lumiere qu'elle porte.*
+    JACINTE *laissant tom ber la lumiere qu'elle porte.*.
         Ah Madame, ah Madame,  
 C'est luy-mesme, sinon qu'il est beaucoup plus grand.  
 
-    LEONOR *fuyant.* [463] 
+    LEONOR *fuyant.* [463].
 Ah Ciel, Ah !  
 
     D. JUAN.
@@ -3297,7 +3297,7 @@ C'est la voix de D. Juan, mais je ne puis répondre,
 Et quand j'ay pris dessein⁎ de le faire appeler  
 J'ay souhaité le voir, et non pas luy parler.  
 
-    JACINTE *cachée.*
+    JACINTE *cachée.*.
 Que je crains que ce spectre⁎⁎, ou bien plustost ce Diable⁎⁎  
 Ne me vienne chercher jusques [464] sous cette table.  
 
@@ -3307,7 +3307,7 @@ Leonor, c'est donc moy que vous traitez ainsi ?
 Moy qui vient tout exprés vous donner asseurance  
 Que sur mon cœur vous seule avez toute puissance ?  
 
-    LEONOR *fuyant tousjours.*
+    LEONOR *fuyant tousjours.*.
 Je ne veux point de toy, j'abhorre ce pouvoir,  
 Et c'est le vray D. Juan que je souhaite voir. [465]  
 
@@ -3324,13 +3324,11 @@ Et de grace, écoutez mes raisons de plus prés.
 Leonor. Est-ce feinte⁎, est-ce jeu fait exprés ?  
 Que fais-tu là, Jacinte ?  
 
-    JACINTE *se retirant avec violence de dessous la table
-  
-qu'elle fait tomber avec la lumiere qui s'esteint.*
+    JACINTE *se retirant avec violence de dessous la table qu'elle fait tomber avec la lumiere qui s'esteint.*.
         A l'ayde, je suis morte,  
 C'en est fait.  
 
-    D. JUAN *seul.*
+    D. JUAN *seul.*.
         Qui jamais fut receu de la sorte ?  
 Ay-je perdu l'esprit ? Suis-je moy-mesme encor ?  
 Jacinte, à m'écouter oblige Leonor.  
@@ -3499,7 +3497,7 @@ C'est peut-estre un effet de mon temperament⁎.
     LEONARD.
 Ah, Lucrece !  
 
-    LUCRECE.  
+    LUCRECE. 
         S'il faut l'advoüer librement,  
 J'ay perdu quelque nippe⁎, et c'est la seule cause  
 Qui fait en mon humeur⁎ cette metamorphose.  
@@ -3582,7 +3580,7 @@ Mon amour craindra peu l'authorité d'un pere,
 Mon cœur est à D. Juan, rien ne le peut forcer,  
 Et son espoir est vain s'il prétend l'en chasser. [479]  
 
-    BEATRIX *seule.*
+    BEATRIX *seule.*.
 Que ne peut une fille ayant l'amour en teste !  
 Mais il faut divertir⁎ l'orage qui s'appreste,  
 Instruire Philipin de ce qui s'est passé,  
@@ -3770,18 +3768,18 @@ Et comme ce desordre y cause grand murmure⁎,
 Daignez en ma faveur faire quelque figure⁎⁎,  
 Pour découvrir au vray⁎ ce qu'il est devenu.  
 
-    D. LOUYS *à D. Fernand.*
+    D. LOUYS *à D. Fernand.*.
 O qu'en bonne saison⁎ le vieillard est venu !  
 
-    D. FERNAND *à D. Louys.*
+    D. FERNAND *à D. Louys.*.
 Pour durer plus d'un jour la fourbe⁎ est trop grossiere⁎,  
 Je vous l'avois bien dit.  
 
-    LEONARD *à D. Louys, voyant resver⁎ D. Fernand.*
+    LEONARD *à D. Louys, voyant resver⁎ D. Fernand.*.
         Il resve⁎ à ma priere,  
 Sans doute il l'examine avec attention.  
 
-    D. LOUYS *à Leonard.*
+    D. LOUYS *à Leonard.*.
 Ce mestier a besoin de speculation,  
 Et je l'ay veu souvent en rencontre semblable  
 Dans une resverie⁎ à peine concevable,  
@@ -3791,17 +3789,17 @@ Il semble que l'esprit abandonne le corps.
 Aussi faut-il en [494] faire agir tous les ressorts,  
 Et que jusques au Ciel sa vivacité [495] monte.  
 
-    D. FERNAND *bas.*
+    D. FERNAND *bas.*.
 Ouy, le vouloir fourber⁎ c'est me couvrir de honte,  
 Je n'en puis esperer qu'un embarras plus grand.  
 
-    LEONARD *à D. Louys.* 
+    LEONARD *à D. Louys.*. 
 Voyez pour m'obliger⁎ quelles peines il prend.  
 
     D. LOUYS.
 A vous rendre content sans doute il se dispose.  
 
-    LEONARD *à D. Fernand.*
+    LEONARD *à D. Fernand.*.
 Et bien, m'en allez-vous apprendre quelque chose ?  
 
     D. FERNAND.
@@ -3881,13 +3879,13 @@ C'est entre neuf et dix qu'on croit l'avoir perdu.
 LEONARD, D. FERNAND, D. LOUYS, PHILIPIN.
 
 
-    PHILIPIN *tout haut, presentant un papier à D. Fernand.*
+    PHILIPIN *tout haut, presentant un papier à D. Fernand.*.
 Monsieur, l'autre ce soir vous doit estre rendu. [500]  
 (Il le tire à part, et luy parle à l'oreille)
 
 C'est prétexte, écoutez.  
 
-    LEONARD *à D. Louys.*
+    LEONARD *à D. Louys.*.
         D'où vient qu'il me refuse ?  
 
     D. LOUYS.
@@ -3899,10 +3897,10 @@ C'est par cette raison [501] que vous le voyez feindre⁎.
     LEONARD.
 Je sçay ce qu'il faut taire, il n'a pas lieu de craindre.  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
 C'est ce que maintenant m'a conté Beatrix. [502]  
 
-    D. FERNAND *à Philipin.* 
+    D. FERNAND *à Philipin.*. 
 Ton secours vient à temps, et sans toy j'estois pris.  
 (à Leonard.)
 
@@ -4019,10 +4017,10 @@ Et mesme pour gagner les frais d'un long voyage,
 Je voudrois bien, Monsieur, que par enchantement  
 Vous me fissiez chez moy porter en un moment.  
 
-    D. FERNAND *à D. Louys.*
+    D. FERNAND *à D. Louys.*.
 Vous pouvez voir par là ce que l'on me croit estre.  
 
-    PHILIPIN *à Mendoce.*
+    PHILIPIN *à Mendoce.*.
 Il suffira de moy [511] sans employer mon maistre,  
 J'en sçay trop pour cela, je t'y feray porter.  
 
@@ -4234,7 +4232,7 @@ Pouvois-je moins te rendre, et par recognoissance
 Ne te devois-je pas un peu de complaisance ?  
 
 
-### SCENE II
+### SCENE II.
 LEONARD, D. JUAN.
 
 
@@ -4246,20 +4244,20 @@ Je vous cherchois, D. Juan. [538]
 Et l'heur⁎ de vous servir⁎ fait mes plus grands souhaits,  
 Que me commandez-vous ?  
 
-    LEONARD *bas.* 
+    LEONARD *bas.*. 
         Ah, que c'est grand dommage  
 Que cette lâcheté⁎ noircisse un bon courage⁎,  
 Et qu'un homme sorty d'un sang dont on fait cas  
 L'ose deshonorer par un vice si bas !  
 Qui le prendroit jamais pour voleur à la mine⁎ ?  
 
-    D. JUAN *bas.*
+    D. JUAN *bas.*.
 D'où vient qu'en parlant seul des yeux il m'examine ?  
 Auroit-il pû desja découvrir nostre amour,  
 Et que pour l'abuser⁎ je feins⁎ un faux retour ?  
 O Destin ! ô Fortune à me nuire trop prompte !  
 
-    LEONARD *bas.*
+    LEONARD *bas.*.
 Je ne puis me resoudre à le couvrir de honte.  
 Parlons-luy, mais feignons⁎ de croire seulement  
 Que de quelqu'autre main il tient mon diamant.  
@@ -4269,20 +4267,20 @@ Pour vous dire en deux mots le sujet qui m'améne,
 C'est pour certain bijou dont [539] je suis fort en peine⁎,  
 On me vient d'asseurer qu'il est entre vos mains.  
 
-    D. JUAN *bas.*
+    D. JUAN *bas.*.
 Qu'en peu de temps le Sort⁎ renverse mes desseins !  
 
-    LEONARD *bas.*
+    LEONARD *bas.*.
 Le voilà tout confus.  
 
-    D. JUAN *bas.*
+    D. JUAN *bas.*.
         Que je suis miserable⁎ !  
 
     LEONARD. 
 Je ne dis pas, D. Juan, que vous soyez [540] coupable, [541]  
 Mais la main seulement de qui vous le tenez. [542]  
 
-    D. JUAN *bas.*
+    D. JUAN *bas.*.
 Qu'à me persecuter les Cieux sont obstinez !  
 
     LEONARD.
@@ -4303,14 +4301,14 @@ Je suis le seul coupable et le seul à blâmer.
 
 Plutost mourir cent fois que d'accuser Lucrece.  
 
-    LEONARD *bas.*
+    LEONARD *bas.*.
 Plus je cache son crime, et plus il le confesse.  
 
     D. JUAN.
 Ouy, de ce procedé moy seul j'ay tout le tort,  
 Et vous dire autre chose est faire un faux raport⁎.  
 
-    LEONARD *bas.*
+    LEONARD *bas.*.
 A quel point son erreur le seduit⁎ et l'abuse⁎ !  
 e tâche à l'excuser, et luy-mesme s'accuse.  
 
@@ -4355,7 +4353,7 @@ J'ay le cœur franc⁎ et noble [548], et si j'ay peu de bien⁎,
 Au moins suis-je d'un sang qui ne redoute rien,  
 Mon mal sans ce remede ira jusqu'à l'extréme.  
 
-    LEONARD *bas.*
+    LEONARD *bas.*.
 Est-il dans son bon sens, ou suis-je fou moy-mesme ?  
 Resvay-je [549], ou se peut-il qu'il parle tout de bon⁎ ?  
 Trouvant trop de peril au mestier de larron⁎,  
@@ -4374,7 +4372,7 @@ Vostre fille, Monsieur ?
         Le secret, il suffit,  
 Adieu.  
 
-    D. JUAN *seul.*
+    D. JUAN *seul.*.
         Vit-on jamais une telle surprise ? [551]  
 A luy confesser tout luy-mesme il m'authorise,  
 Et quand il sçait le feu dont je me sens brûler,  
@@ -4412,7 +4410,7 @@ Cessez d'estre credule et de vous abuser⁎,
 D'un si charmant objet⁎ je recognois l'empire  
 Qu'avant que de [553] changer il faudra que j'expire [554].  
 
-    LEONOR *à Jacinte.*
+    LEONOR *à Jacinte.*.
 Avec combien d'adresse⁎ il feint⁎ pour m'éprouver⁎ !  
 
     D. JUAN.
@@ -4536,7 +4534,7 @@ Il regrette ce cœur qu'il n'a sçeu meriter.
 
 ### SCENE VI.
 
-    MENDOCE *en équipage⁎ de voyageur, dans le jardin de Leonard.*
+    MENDOCE *en équipage⁎ de voyageur, dans le jardin de Leonard.*.
 Adieu, Madrid, Adieu, sans regret je te quitte,  
 Le desir du repos enfin m'en sollicite,  
 Je préfere le chaume à tes plus beaux Palais,  
@@ -4557,7 +4555,7 @@ PHILIPIN, MENDOCE.
     MENDOCE.
 Tu vois, la grosse cappe avec de bonnes bottes.  
 
-    PHILIPIN. [568]
+    PHILIPIN. [568].
 Mets-toy dedans ce rond. [569]  
 
     MENDOCE.
@@ -4640,7 +4638,7 @@ Suffit qu'il te conduise.
 (Il le fait monter sur une palissade du jardin, et le lie.)
 
 
-    MENDOCE *monte* [581] *pendant que Philipin le lie.*
+    MENDOCE *monte* [581] *pendant que Philipin le lie.*.
         Ah, Monsieur le Lutin⁎⁎,  
 Ne m'abandonne pas au milieu du chemin,  
 Tu me ferois donner bien-tost du nez en terre [582].  
@@ -4673,7 +4671,7 @@ O comme tu fens l'air !
 Car à peine j'entens le son de sa parole.  
 Quel bonheur ! je verray mon païs [584] aujourd'huy.  
 
-    PHILIPIN *en prenant sa bourse.*
+    PHILIPIN *en prenant sa bourse.*.
 S'il est volé, je m'offre à répondre [585] pour luy.  
 
     MENDOCE.
@@ -4723,7 +4721,7 @@ D'estre à vous pour jamais, ou de n'estre à personne.
     D. JUAN.
 Que je me tiens heureux de vivre sous vos loix !  
 
-    MENDOCE. [593]
+    MENDOCE. [593].
 Je discerne avec peine un bruit confus de voix,  
 Je passe asseurément sur quelque grande ville.  
 
@@ -4769,10 +4767,10 @@ Sur tout de ce ruisseau le murmure est charmant⁎.
     LEONARD. 
 Ma fille, approche-toy, voicy ton diamant.  
 
-    LUCRECE *à Beatrix.*
+    LUCRECE *à Beatrix.*.
 Faut-il souffrir⁎ icy cet objet⁎ de ma hayne ?  
 
-    LEONARD *luy rendant sa bague.*
+    LEONARD *luy rendant sa bague.*.
 Rends grace à D. Fernand qui nous tire de peine⁎.  
 
     D. FERNAND.
@@ -4782,10 +4780,10 @@ Vous cognoistrez mon zele à de plus grands effets [598].
     LUCRECE.
 Vous m'obligez⁎, Monsieur, plus que je ne merite.  
 
-    LEONARD *voyant entrer Leonor.*
+    LEONARD *voyant entrer Leonor.*.
 Que nous veut cette Dame ?  
 
-    MENDOCE. [599]
+    MENDOCE. [599].
         O que je vole viste !  
 Je passe sur un lieu de l'autre differend,  
 Et le bruit qu'on y fait est de beaucoup plus grand.  
@@ -4805,14 +4803,14 @@ Ce reciproque amour me le rend infidelle,
 Il est caché céans⁎ ce lâche suborneur⁎,  
 Faites-m'en la raison [601] et vangez vostre honneur⁎.  
 
-    LUCRECE *bas.*
+    LUCRECE *bas.*.
 O malheur impréveu !  
 
-    MENDOCE. [602]
+    MENDOCE. [602].
         J'entens la voix plaintive,  
 Sans doute à mon pays c'est signe [603] que j'arrive.  
 
-    LEONARD *regardant Lucrece.* 
+    LEONARD *regardant Lucrece.*. 
 Un homme icy caché !  
 
     LUCRECE.
@@ -4871,7 +4869,7 @@ C'est de sa propre main que je l'avois receuë,
 Et si vous luy donnez liberté de parler,  
 Elle m'estime assez pour ne le pas celer⁎.  
 
-    LEONARD *à Lucrece.*
+    LEONARD *à Lucrece.*.
 Dit-il vray ? l'aymes-tu ? parle sans craindre un pere.  
 
     LUCRECE.
@@ -4879,7 +4877,7 @@ Puisque vous m'ordonnez de ne vous plus rien taire,
 J'advoüeray ma foiblesse, et que depuis un an  
 J'ay donné mon estime aux vertus⁎ de D. Juan. [609]  
 
-    LEONARD *tirant D. Fernand à part.*
+    LEONARD *tirant D. Fernand à part.*.
 De grace, D. Fernand.  
 
     LEONOR.
@@ -4915,7 +4913,7 @@ Est-ce ainsi, Leonard, qu'on vange mon honneur⁎ ?
     LEONARD.
 Le mien interessé demandoit ce remede.  
 
-    LEONOR *à D. Juan.*
+    LEONOR *à D. Juan.*.
 Escoute aveuglement l'ardeur⁎ qui te possede,  
 Va, traistre, rends hommage à l'infidelité,  
 Le Ciel me vangera de ta desloyauté.  
@@ -4929,14 +4927,14 @@ LEONARD, D. FERNAND, D. JUAN, LUCR. BEATRIX, PHILIPIN, MENDOCE.
     D. JUAN.
 D'une femme en couroux la menace est frivole.  
 
-    MENDOCE. [614]
+    MENDOCE. [614].
 Ah je suis arrivé, de ce coup [615] je le croy,  
 J'entends force [616] grands crys, Lutin⁎⁎, débande-moy.  
 
-    LEONARD *détournant la teste et appercevant Mendoce.*
+    LEONARD *détournant la teste et appercevant Mendoce.*.
 Quel spectacle est-ce-cy.  
 
-    PHILIPIN *à D. Fernand.*
+    PHILIPIN *à D. Fernand.*.
         La tromperie est bonne.  
 C'est nostre voyageur, que rien ne vous estonne,  
 Il se croit desja loin.  
@@ -4945,7 +4943,7 @@ Il se croit desja loin.
         O qu'il est ingenu !  
 Il faut le deslier.  
 
-    MENDOCE *descendu de la palissade.* 
+    MENDOCE *descendu de la palissade.*. 
         Enfin je suis venu [617],  
 Et je ne fis jamais voyage tant à l'aise [618].  
 O ma terre natale, il faut que je te baise.  
@@ -5008,7 +5006,7 @@ PAR LE ROY EN SON CONSEIL.
 CONRART.< Achevé d’imprimer le dernier May mil six cens cinquante et un. >
 
 
-# Glossaires
+# Glossaires.
 
 Dictionnaires cités :
  * – *Dictionnaire de l'Académie française*, 2 volumes, Paris, Coignard, 1694 : (Ac)
@@ -5018,15 +5016,15 @@ Dictionnaires cités :
  * – REY, A., *Dictionnaire historique de la langue française*, Paris, Dictionnaires Le Robert, 2004 : (Rey)
 
 
-## Glossaire généralAbattre (s')« Perdre courage, se laisser accabler » (R).V. 958, 1115AbuserTromper.V. 215, 311, 891, 1337, 1570, 1595, 1658Admirer« Regarder avec estonnement quelque chose de surprenant ou dont on ignore les cause » (F).V. 638Advanture« Événement, accident, chose qui arrive inopinément » (F).V. 204, 619, 703, 795, 998, 1368Adveu « Ordre ou consentement donné » (F).V. 1226, 1710, 1878 ; le terme présente son sens courant actuel de « confidence » au vers 573AdvisAvertissement.V. 421 ; le terme présente son sens courant actuel d'« opinion » au vers 1022Advouer« Autoriser une chose, déclarer qu'on l'approuve, soit qu'elle ait été faite par notre ordre ou non » (Ac).V. 454 ; le terme présente son sens courant actuel d'« admettre, reconnaître » au vers 479, 499, 629, 680, 888, 987, 1114, 1190, 1247Affaire« Se dit particulierement des procés » (F)V. 575« Se dit aussi quelquefois de la fortune, de l'état, des biens d'une personne » (F).V. 1172AirTraits du visage, mine, physionomie.V. 495AymableDigne d'inspirer de l'amour.V. 410, 416, 1130Amant, maîtresseDésigne ici celui ou celle qui aime et qui est aimé(e), en dehors de toute idée de relation sexuelleListe des acteurs, 913, 946Celui ou celle qui aime, sans idée de réciprocité.V. 405Amiable« En la place de ce mot, on dit doux, honnête, plein d'amitié, de bonté et de tendresse. » (R).V. 1763Amoureux, seDésigne celui ou celle qui aime, sans idée de réciprocité. La liste des acteurs fait le départ entre l'*amant* et l'*amoureux* qui n'est pas aimé en retour.Liste des acteursAppasAttrait, charme.V. 407, 1646Ardeur« Passion » (R et F), vif intérêt.V. 571, 870, 877, 1876, 1884ArtScience, savoir, discipline.V. 501, 595, 601, 642, 851, 873, 886, 893, 937, 1232, 1273, 1350, 1381, 1907ArtificeRuse.V. 1002Asseurance (d')« Où l'on est en sûreté » (H)V. 119Avec certitude.V. 220.Aussi bienD'ailleurs, du reste.V. 312, 801BabillardBavard.V. 18Badaut« Sot, niais » (R).V. 1030Barbe« Tout le poil qui est au dessus des lévres, aux jouës et au menton. » (R).V. 1789BassesseAction indigne.V. 1855Baye ou bailleTromperie. L'expression « *donner la baye* » signifie tromper, duper quelqu'un par de belles promesses.V. 175Besoin (au)En cas de necessité, si besoin est.V. 610, 1061, 1176Bien (fille de bien)Fille honnête, d'une probité absolueV. 458Bien(s)Fortune, richessesV. 219, 364, 556, 585, 930, 1148, 1428, 1621, 1627 dans un sens figuré, 1873Bienfait.V. 585, 701Bienfait« Grace, faveur, … bon office » (Ac). Aux vers 316 et 319, 1551, 1656 le terme a une valeur euphémistique et désigne de façon allusive et bienséante un don d'argent.V. 316, 319BileHumeur, et figurément, colère (F).V. 1483BizarreCapricieux, irrégulier (Rey).V. 590 ; le terme présente son sens courant actuel d'« étrange » au vers 1639Bon-homme« Se prend aussi pour Un vieillard » (Ac).V. 1428, 1815BourdeMensonge.V. 1471Breteur Querelleur, « Celuy qui porte une brette épée qui est plus longue que celle que les Gentilshommes portent d'ordinaire, qui aime à se battre et à ferrailler. On le dit aussi des Filous, des gens qui ne vivent que des violences qu'ils font en des lieux de desbauche, ou qui servent à venger les querelles d'autruy » (F).V. 1762BruitRumeur.V. 217, 253, 263, 267, 641, 643, 655, 846, 1012, 1226, 1346CapriceExtravagance, fantaisie, « On le dit quand au lieu de se conduire par la raison, on se laisse emporter à l'humeur dominante où on se trouve » (F). Rey ajoute qu'il s'agit d'une « disposition d'esprit à des changements fréquents … considérée négativement par l'idéologie classique qui y voit un dérèglement d'esprit ».V. 32, 287, 383, 1236Cavalier« Gentilhomme faisant profession des armes » (Ac). Plutôt qu'une véritable désignation sociale, il s'agit probablement ici de la simple traduction littérale du terme espagnol « Cavallero » qui désigne Don Juan et Don Diego dans la pièce de Calderón *El Astrólogo fingido*.V. 110, 167, 541, 558CéansIci.V. 1833CelerCacher.V. 1188, 1265, 1349, 1862CependantPendant ce temps, en attendant.V. 1109, 1535Certain (au)Avec certitude.V. 545CerveauEsprit.V. 591Chagrin« Melancolie, ennuy : fascheuse, mauvaise humeur » (Ac).V. 1111, 1186, 1205ChangeChangement en amour, infidélité.V. 1699Changé« On dit, qu'*Un homme est bien changé*, pour dire, qu'il a … les mœurs, tout autres qu'il n'avoit auparavant » (Ac).V. 27Charmant« Qui plaît extraordinairement, qui ravit en admiration » (F).V. 1803, 1817CognoistreSavoirV. 630, 650, 822, 924, 1356, 1511, 1612, 1676 ; le terme présente son sens courant actuel d' « avoir une idée de quelque chose ou de quelqu'un » au vers 1906ReconnaîtreV. 1902Se cognoistre« Savoir vraiment qui on est » (R)V. 674, 1379Se reconnaître.V. 1157CommerceRelation.V. 508, 1223, 1284ComplimentParole de civilité, politesse.V. 1314, 1413, 1642Confondre« Troubler, … étonner, … jeter dans le trouble » (R).V. 705, 1083ConfusionTrouble, embarras extrême que cause la honte ou la modestieV. 826« Honte » (F)V. 1269, 1602 Situation troublée, désordre.V. 1089Conseil« Resolution » (F), décision.V. 1211ConstantFidèle.V. 38ConstammentFidèlement, « d'une manière uniforme ; invariable ; toujours égale, et qui ne change point » (F).V. 22ContrefaireImiter, feindre.V. 151Cosmographie« Description du monde universel » (Ac), géographie.V. 991CouleurApparence, « Prétexte, couverture, moien qu'on imagine pour palier quelque chose » (R).V. 341, 394CourageCœur comme siège du sentiment, fermeté, hauteur de l'âmeV. 898, 1149, 1564Énergie morale, « Disposition de l'ame avec laquelle elle se porte à entreprendre ou à repousser, ou à souffrir quelque chose » (Ac)V. 379, 735, 903Exhortation au courage.V. 932Credit« Reputation où l'on est de bien payer, et qui est cause qu'on trouve aisément à emprunter » (Ac).V. 1174, 1175Cruel, elleDans le vocabulaire amoureux classique, le terme signifie « insensible à l'amour qu'on lui porte » (Rey).V. 410DécevoirTromper.V. 237Défier (se)Se méfier.V. 1456Déplaisir« Chagrin, tristesse … » (F). Si le terme signifie simplement « impression désagréable » en français moderne, il a dans la langue classique le sens fort de « souffrance morale » qui disparaît dès le XVIII*e* siècle (Rey).V. 266, 1276, 1796Derechef« Ce mot est un peu vieux. Il ne trouve sa place que dans le burlesque, et même assez rarement. Il veut dire *encore, de nouveau*. » (R).V. 1730Déreglement« Desordre, action ou mouvement qui se fait contre les loix naturelles, ou civiles » (F), en particulier « désordre dans la conduite morale » (Rey).V. 506Dessein (prendre, faire ou avoir dessein)Projeter, avoir l'intention, décider deV. 177, 374, 834, 1085, 1597À dessein deDans le but de, avec l'intention deV. 87, 1265La locution adverbiale « à dessein » signifie *délibérément, dans ce but*.V. 437DevoirHommage (dans un sens amoureux et galant).V. 40, 280, 862, 1654 ; le terme est employé dans son sens courant d'« obligation » au vers 1129DiffererRemettre à plus tard.V. 735, 1163DisgrâceDéfaveurV. 158, 200, 1244« Infortune, malheur » (Ac).V. 335, 551, 1051DisputerContester, « Défendre son sentiment contre quelqu'un. Discourir avec une personne avec chaleur sur quelque point d'art ou de science. » (R).V. 748, 1598DivertirSous sa forme pronominale, le verbe présente ici son sens courant de « se distraire », mais avec une légère nuance de raillerie : le *Dictionnaire de l'Académie* indique en effet que le terme signifie aussi « r ailler, se moquer agréablement » ; (v. 1220) : « Detourner » (F).V. 186Dolent, e« Triste, affligé » (R).V. 1776Émotion« Mouvement extraordinaire qui agite le corps ou l'esprit … » (F), « Crainte, trouble, éfroi » (R).V. 786EnjoüéL'enjouement consiste en une attitude prisée des milieux mondains, une qualité typiquement galante qui se caractérise par la gaîté, la légèreté et le refus de tout esprit de sérieux.V. 690, 1757Ennuy« Affliction, douleur, tristesse. » (H)V. 337, 402EnnuyéAffligé.V. 375EnragerÊtre impatient, « i l se dit aussi, d'Un besoin vif et pressant, et accompagné de douleur …. D'un desir ardent et violent » (Ac)V. 482, 834, 1031Enrager pourBrûler de.V. 155EntendreComprendreV. 39, 193, 418, 592, 625, 838, 1850, 1851J'entensJe veux dire.V. 969EntretenirConverser, discuter, s'entretenir avec quelqu'un.V. 138, 281, 1908Envy (à l')« Par émulation et pour voir qui fera, ou reüssira le mieux » (R), « A qui mieux mieux » (F).V. 691Esprouver« Expérimenter, essayer la bonté d'une chose » (F), mettre à l'épreuve.V. 547, 1661Equipage« Provision de tout ce qui est necessaire pour voyager » (F)V. 1524Manière dont une personne est vêtue.Didascalie de la scène V, 6Escolier Élève.V. 605EssayExpérience, épreuve.V. 509, 845Estat (faire)La locution *faire estat de*  signifie « estimer, considérer comme important » (H), « faire cas de » (Rey, H).V. 329Estude« Se dit aussi de la science, de l'art, et de toute autre chose à quoy on applique son esprit » (F)V. 564« Aplication d'esprit. » (R).V. 663Evertuër (s')« S'éforcer de faire quelque chose. » (R).V. 607FableMensonge.V. 487Fascher« Offenser quelqu'un, lui donner un sujet de chagrin ou de colere. » (F).V. 1408, 1409Fascher (se)Avoir du déplaisir, s'offenser, se mettre en colère.V. 553Fascheux, euseQui cause du déplaisir, de la peine.V. 293, 1703Fantasque« Capricieux …, qui a des manieres ou des humeurs extraordinaires. » (F).V. 1486FatalQui arrive nécessairement, qui est fixé par un décret du sort, mais aussi malheureux, funeste, en particulier dans son emploi hyperbolique typique du lexique galantV. 374, 590.FeindreFaire semblant dans le but de tromper, dissimuler.V. 175, 386, 394, 1395, dans la didascalie qui précède le v. 670, v. 839, 1295, 1342, 1459, 1570, 1573, 1671FeinteRuse, tromperie, dissimulation.V. 67, 260, 388, 1098, 1345, 1406, 1545Feint, eFaux.V. 515, 1435FilleServante, soubretteV. 12, 458Jeune fille, se dit par opposition à *femme mariée*.V. 943, 990FilouVoleur.V. 1762FlatterMénager, donner de l'espoirV. 33, 1558, 1725, 1793« Tromper en deguisant la vérité … » lorsqu'elle est désagréable (Ac).V. 101Fortuné, e Heureux.V. 943FourbeTromperieV. 476, 529, 739, 740, 1011, 1323Au masculin : celui qui trompe.V. 729FourberTromper.V. 454, 1332, 1675, 1868Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer (F)V. 98, 147, 677 Fidélité (d'un serviteur)V. 526, 1318Fidélité amoureuse, amour juré, parole donnée, voire promesse de mariage.V. 146, 147, 1095, 1106, 1113, 1150, 1154, 1302, 1718FrancSincère, loyal.V. 1621FranchiseLiberté.V. 1183, 1316, 1674 ; le terme est employé dans son sens actuel d'« honnêteté » au vers 1247GagerEmployer, rémunérer, verser un salaire en paiement d'un service.V. 487Parier.V. 635GaillardGai, enjoué (au sens moderne ici, et non dans son acception galante spécifique du XVIIe siècle).V. 17GalammentAvec galanterie (voir les définitions suivantes), mais aussi « h abillement, adroitement, finement » (Ac).V. 646Galand, ante« Honneste, civil, sociable, de bonne compagnie, de conversation agréable » (Ac).V. 111, 167, 223, 269, 689GalandPrétendant, « amant qui se donne tout entier au service d'une maîtresse » (F).V. 436, 1761Galanterie« Qualité de celuy qui est galant voir plus haut. … Il se prend plus particulierement pour les devoirs, les respects, les services que l'on rend aux Dames » (Ac)V. 112Idéologie et ensemble d'usages mondains reposant sur des valeurs d'honnêteté (au sens classique), de civilité, de sociabilité et sur une certaine conception de l'amour courtois, qui trouvent leur expression privilégiée dans la littérature et dans l'activité des salons.V. 652, 1348Garder deSe garder de, éviter de.V. 847Gasté, eSouillé.V. 1418GasterRuiner, détruire.V. 1208Généreux, seNoble, conforme à l'honneur.V. 532, 1878, 1119GloireHonneur, réputation.V. 649, 1868GraceBienveillance, bienfait.V. 1179 ; le terme présente son sens courant de « charme » dans l'épître et au vers 319Grossier, ere« Rude … peu civilisé » (Ac)V. 268Sans finesse.V. 1323GueuserMendier.V. 1477Hanter« Fréquenter » (R).V. 224, 503HazardDanger, péril.V. 118 ; le terme présente son sens courant de « fortune, chance bonne ou mauvaise ou encore coïncidence » au v. 662, 1274, 1469HazarderRisquer, faire courir le risque.V. 647, 1037Haut« Se dit de tout ce qui a quelque degré d'excellence, d'eslevation en quelque chose que ce soit » (F).V. 592HeurBonheur, « Bonne fortune » (Ac).V. 740, 1562Honneste« Vertueux, conforme à l'honneur » (Ac), « ce qui mérite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. Il ne faut hanter que d'*honnestes* gens »V. 167 « Signifie aussi, convenable à la raison, bienséant à la condition … des personnes » (Ac).V. 59 dans un sens ironiqueHonneur« Vertu, probité » (Ac)V. 109En particulier lorsqu'il s'agit d'une femme : « réputation attachée au caractère irréprochable de ses mœurs » (Rey)V. 149, 1882Lorsqu'il s'agit d'un père : réputation liée au comportement de sa filleV. 1834Fierté.V. 1358.Humeur« Naturel » (R), caractère, tempérament (dans un sens physiologique, selon la théorie des « humeurs » comme liquides organiques).V. 45, 131, 1185, 1192 ; le terme présente son sens actuel de « disposition, état d'esprit momentané » au vers 1207, 1432Infortuné, e Malheureux.V. 859Ingrat, e « Un amant appelle sa maîtresse ingrate, quand elle est cruelle, quand elle ne veut point répondre à son amour » (F). Cela vaut aussi pour désigner un amant dans le discours d'une maîtresse dédaignée.V. 1711, 1843, 1844InjureOutrage.V. 203, 1719, 1843InquiéterÔter le repos, « chagriner l'esprit, luy donner de la peine » (F).V. 131InquiétudeAgitation d'esprit, trouble.V. 563Interdire« Estonner, troubler en sorte qu'on ne sçache ce qu'on dit ny ce qu'on fait » (Ac).V. 113InterditÉtonné, troublé, « s'applique spécialement à une personne … frappée d'un trouble qui l'empêche d'agir » (Rey).V. 469, 698Jaseur« Causeur » (R).V. 486Joüer, se joüer deTromper, se moquer de.V. 630, 637, 1904JustementLégitimement.V. 579LâcheQui implique la bassesse, qui a des sentiments vils et méprisables.V. 1854LâchetéAction basse, indigne.V. 1564LarronVoleur.V. 1426, 1626LegerementAvec légèreté, à la légère.V. 557Lors« Ce mot est vieux et en sa place on dit *alors* » (R).V. 49, 377, 730, 987, 1146, 1663Lourdaut« Espece de niais et de sot » (R).V. 1756Malice« Meschanceté, inclination à nuire » (Ac).V. 288, 1304Manquer« Ne faire pas ce qu'on est obligé de faire » (F).V. 927Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez » (F). Cette injure apparaît fréquemment dans les comédies, le plus souvent adressée aux valets par leurs maîtres mécontents.V. 477Maroufle« Misérable, sot, impertinent » (R).V. 1787Martel (donner martel en teste)L'expression *donner martel en teste* signifie tourmenter, donner de l'inquiétude, du souci, et selon Furetière, de la jalousie.V. 60, 168Medaille« Se dit encore des personnes vieilles et laides … » (F).V. 1791MenterieMensonge.V. 776Merite« Ce qui rend digne de loüange » (Ac), « ensembles de qualités intellectuelles et morales estimables » (Rey).V. 309, 323, 411, 814Mesler (se … de)« Se dit aussi en parlant de plusieurs sortes d'actions où on s'applique » (F), autrement dit, la tournure signifie *pratiquer*.V. 524, 574, 1461Mine« Physionomie, disposition de corps et sur tout du visage, qui fait juger en quelque façon l'Interieur par l'exterieur » (F)V. 556, 1464, 1567De bonne mineBien fait, séduisantV. 111Faire meilleure mineTraiter avec moins de sévérité.V. 196MisérableMalheureux.V. 239, 1579Moins (au moins, du moins)Employé indifféremment pour exprimer une restriction, mais il « s'emploie quelquefois seulement … pour donner plus de force à ce que l'on dit. » (F).V. 303, 400, 715, 750, 976, 1642, 1651, 1851MonopoleurPersonne qui détient un monopole. Furetière précise que « l e peuple a rendu encor ce nom plus odieux. Car il l'estend à ceux qui sont exacteurs des imposts … » (F).V. 1750Morne« Pensif, mélancolique » (R).V. 1756MurmureRumeurV. 523« Il se prend ordinairement pour le bruit et les plaintes que font des personnes mal contentes » (Ac).V. 1319MurmurerSe plaindre.V. 1254, 1547Mutin« Opiniâtre, obstiné » ou encore « Séditieux » (R).V. 1763Nippe« Sortes de petis meubles au sens de « bien qui se peut transporter d'un lieu à un autre » (F) , comme hardes, linges, bagues et autres pareilles choses. » (R).V. 1191NœudLien amoureux.V. 1285Objet« Personne qui donne de l'amour » (F)V. 30, 416, 855, 861, 878, 1659, 1857Et plus généralement : « chose où l'on arrête les yeux … sa pensée, son cœur, son but ou son dessein » (R).V. 1716, 1819Obligation« Engagement qui vient de quelque plaisir, de quelque bon office qu'on a reçu » (F)V. 225Obligé« Redevable à un autre de quelque bon office, de quelque plaisir » (Ac).V. 326, 1165Obliger« Faire quelque faveur, civilité, courtoisie. » (F), notamment lorsqu'il s'agit d'une faveur amoureuse.V. 206, 322, 833, 1334, 1823OfficeService, « Secours ou devoir réciproque de la vie civile. C'est le propre d'un honnête homme, de rendre de bons *offices* à tout le monde » (F)ÉpitreEmploi, en particulier ici celui de domestique.V. 1515OrdinaireLe courrier.V. 304Outrage Injure.V. 1127PasserDépasser, surpasser.V. 851, 872Passevolant« Faux soldat et non enrollé, qu'un Capitaine fait passer aux reveuës pour montrer que sa Compagnie est complette, ou pour en tirer la paye à son profit » (F).V. 1762PâtirSouffrir.V. 1477Payer (payer en, payer de)« Donner ce qui est dû » dans un sens figuré (Rey). Avec cette valeur figurée, le verbe entre dans la composition de nombreuses locutions comme « payer de coups ».V. 548, 583, 837Peine« Douleur, affliction, souffrance, sentiment de quelque mal dans le corps ou dans l'esprit » (Ac)V. 279, 355, 559, 1312, 1576Tirer de peineTirer d'embarrasV. 1820Se mettre en peineS'inquiéter.V. 959Perdre« Signifie aussi, Détruire, ruiner » (F) et se dit couramment en ce sens « de tout ce qui peut causer du préjudice à la fortune de quelqu'un, à sa réputation » (Ac).V. 179, 443, 496, 1122, 1513Pester« Monstrer par des paroles aigres et emportées le mescontentement qu'on a de quelque chose » (Ac).V. 1032PiperTromper.V. 1340Poche« Sac de cuir, de toile, d'estoffe, de soye, etc. attaché par son dedans à un haut de chausse … » (Ac).V. 966Poly« Civil … qui pratique de bonne grace tout ce qui regarde l'exterieur de la vie civile » (Ac).V. 167Porte (fausse)Porte dérobée, entrée secrète. « On appelle … *Fausse porte*, une secrette issuë d'une maison, d'un chasteau » (F).V. 136, 432PréoccupéOccupé d'avance.V. 645PublierRendre public.V. 319, 437, 1343Railler« Tourner en plaisanterie » (Ac), tourner en ridicule, en dérision. Au XVII*e* siècle, « entendre la raillerie » ou « entendre raillerie », c'est-à-dire être capable de railleries habiles et piquantes mais aussi être capable de ne pas s'en offenser lorsqu'on en est l'objet sont deux qualités importantes de la vie en société dont on fait grand cas dans les milieux mondains.V. 215Raillerie« Plaisanterie » (Ac).V. 651, 1347RapportTémoignage, récit (R).V. 549, 1594, 1684, 1688Ravaler (se)« S'abaisser, se rabaisser. » (R).V. 813RaviTransporté de joie et d'étonnement.V. 1897Ravir« Se dit aussi des passions violentes qui troublent agréablement l'esprit, et suspendent les fonctions des sens, particulièrement de la joie, de l'étonnement et de l'admiration. » (F).V. 283, 800Reformer« Corriger, rajuster, rétrancher, diminuër. » (R).V. 768ReleverAu sens figuré, « r ehausser » (R), « d onner plus d'éclat, plus de lustre » (R).V. 572Remettre (se)Se rappeler.V. 495ReposQuiétude, calme de l'âme.V. 401, 649RespectÉgard, considération, « defference que l'on a pour quelqu'un, pour quelque chose à cause de son excellence » (Ac).V. 247ResverRéfléchir, « p enser, mediter profondement sur quelque chose » (Ac)V. 75, didascalie du vers 1324, 1411« Laisser aller son imagination sur des choses … vagues » (Ac).V. 1185ResverieRéflexion.V. 1328Resveur, euseQui laisse aller son imagination sur des choses vagues, qui médite.V. 239, 1207RetraiteLieu où l'on se retireV. 140Retrait, « esloignement du commerce du monde » (Ac).V. 399, 1539Saison« Se dit aussi du temps convenable pour faire quelque chose » (F).V. 1322, 1657ScienceSavoir.V. 507, 535, 547, 571, 598, 615, 696, 723, 812, 847, 897, 1064, 1263, 1367, 1375, 1435ScrupuleDoute.V. 1899Sectateur« Ce mot se prend en bonne et en mauvaise part et veut dire celui qui suit les sentimens de quelque particulier, qui les soutient, les défend et s'y atache avec ardeur. » (R).V. 794SéduireTromper.V. 1595Sergent« Le plus bas officier de justice » (F), ou un officier d'infanterie.V. 1747ServirRendre service.V. 818, 893, 1176, 1254, 1545, 1562« Estre à un maître, comme son domestique » (Ac).V. 967, 1438, 1443, 1462, 1478Dans un sens galant : « on dit poëtiq., *Servir une Dame*, pour dire, rendre des soins, des services … à une femme pour qui on a de l'amour » (Ac).V. 42, 58Service« Hommage rendu à la femme que l'on courtise » (Rey)V. 31, 384« L'estat ou la fonction de celuy ou de celle qui sert en qualité de domestique » (Ac).V. 479Soin ou soingEffort, peine.V. 294« A pplication d'esprit à faire quelque chose » (Ac)V. 576, 626, 1136, 1521, 1816Prendre soing deVeiller à.V. 1585SortDestin.V. 288, 299, 346, 1578 Condition.V. 518Soucy« Chagrin » (F), inquiétudeV. 350, 530, 1187 « Soin accompagné d'inquietude » (Ac)V. 575, 1014Estre en soucyÊtre inquiet.V. 1774Souffleur« Chercheur de Pierre Philosophale, qui a un fourneau, et qui convertit son bien en charbon à la persuasion de quelques Charlatans, qui lui font entendre qu'ils ont de beaux secrets » (F), c'est-à-dire *alchimiste*.V. 1753Souffrir« Signifie aussi, Ne se pas opposer à une chose, y consentir tacitement » (F), tolérer, permettre.V. 511, 775, 1121, 1701, 1819 ; le terme présente son sens courant d'« endurer, supporter une grande souffrance » aux vers 360, 405, 983Soûpir« Respiration plus forte et plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse » (Ac).V. 337, 1697SoûpirerPousser des soupirs amoureux, aimerV. 359, 819, 1700 ; le terme présente son sens courant de « soûpir », sans connotation psychologique, au vers 1076 Se lamenter.V. 1112Suborneur« Qui corrompt, qui desbauche. » (F)V. 1833SuccéderRéussir.V. 1429Suer« Se donner beaucoup de peine, pour venir à bout de quelque chose » (Ac).V. 608, 982SurprendreTromper.V. 344 ; le terme présente son sens courant d'« étonner » au vers 354, 804, 1082, 1111, 1394, 1588, 1664 Prendre au dépourvu.V. 1286Tailler« Signifie, Avoir la disposition d'une chose, l'accommoder à sa fantaisie, l'augmenter ou la retrencher comme on veut » (F).V. 768TantostTout à l'heure (en se référant à un évènement passé), il y a quelques instantsV. 9, 169, 1859, 1871Tout à l'heure (en se référant à un évènement à venir), bientôt.V. 190, 304, 1160, 1512Temperament« Complexion, habitude ordinaire du corps de l'homme, sa constitution naturelle, la disposition de ses humeurs » (F).V. 1189Tendre« Délicat, foible » ou encore « Sensible, amoureux » (R).V. 591TourmentDouleur de l'esprit, « Il signifie quelquefois simplement, Peine d'esprit, inquietude. … On dit poëtiquement, *Tourment amoureux*, pour dire les maux que l'amour fait souffrir » (Ac.).V. 245Tout de bon« Sérieusement. En vérité. Sans raillerie » (R).V. 77, 608, 1625Tout maintenantImmédiatement.V. 1205À l'instant.V. 1712VertuForce morale, honneur, probité.V. 368, 789, 1115, 1150Parfois même « chasteté » lorsqu'il est question de la vertu d'une femme.V. 151, 211Au pluriel : qualités morales.V. 1866VœuDésirs, hommages, soins amoureux, parfois promesse de mariage.Au pluriel v. 249, 1277 ; le terme présente également son sens courant actuel de « souhait » au vers 1561Vogue« Estime, crédit, reputation » (R).V. 979Voiture« Carosse, chariot, coche, ou autre chose dans quoi on est mené » (R), mais aussi « Transport » (F).V. 1532Vray (de vray)C'est vrai, vraiment, en vérité (H).V. 251Au vrai : cette locution adverbiale signifie « exactement » (H), « sans rien desguiser, sincerement » (F).V. 264, 703, 1321 (À dire le vrai) : à dire vrai, en vérité.V. 201, 1249, 1519
+## Glossaire général.Abattre (s')« Perdre courage, se laisser accabler » (R).V. 958, 1115AbuserTromper.V. 215, 311, 891, 1337, 1570, 1595, 1658Admirer« Regarder avec estonnement quelque chose de surprenant ou dont on ignore les cause » (F).V. 638Advanture« Événement, accident, chose qui arrive inopinément » (F).V. 204, 619, 703, 795, 998, 1368Adveu « Ordre ou consentement donné » (F).V. 1226, 1710, 1878 ; le terme présente son sens courant actuel de « confidence » au vers 573AdvisAvertissement.V. 421 ; le terme présente son sens courant actuel d'« opinion » au vers 1022Advouer« Autoriser une chose, déclarer qu'on l'approuve, soit qu'elle ait été faite par notre ordre ou non » (Ac).V. 454 ; le terme présente son sens courant actuel d'« admettre, reconnaître » au vers 479, 499, 629, 680, 888, 987, 1114, 1190, 1247Affaire« Se dit particulierement des procés » (F)V. 575« Se dit aussi quelquefois de la fortune, de l'état, des biens d'une personne » (F).V. 1172AirTraits du visage, mine, physionomie.V. 495AymableDigne d'inspirer de l'amour.V. 410, 416, 1130Amant, maîtresseDésigne ici celui ou celle qui aime et qui est aimé(e), en dehors de toute idée de relation sexuelleListe des acteurs, 913, 946Celui ou celle qui aime, sans idée de réciprocité.V. 405Amiable« En la place de ce mot, on dit doux, honnête, plein d'amitié, de bonté et de tendresse. » (R).V. 1763Amoureux, seDésigne celui ou celle qui aime, sans idée de réciprocité. La liste des acteurs fait le départ entre l'*amant* et l'*amoureux* qui n'est pas aimé en retour.Liste des acteursAppasAttrait, charme.V. 407, 1646Ardeur« Passion » (R et F), vif intérêt.V. 571, 870, 877, 1876, 1884ArtScience, savoir, discipline.V. 501, 595, 601, 642, 851, 873, 886, 893, 937, 1232, 1273, 1350, 1381, 1907ArtificeRuse.V. 1002Asseurance (d')« Où l'on est en sûreté » (H)V. 119Avec certitude.V. 220.Aussi bienD'ailleurs, du reste.V. 312, 801BabillardBavard.V. 18Badaut« Sot, niais » (R).V. 1030Barbe« Tout le poil qui est au dessus des lévres, aux jouës et au menton. » (R).V. 1789BassesseAction indigne.V. 1855Baye ou bailleTromperie. L'expression « *donner la baye* » signifie tromper, duper quelqu'un par de belles promesses.V. 175Besoin (au)En cas de necessité, si besoin est.V. 610, 1061, 1176Bien (fille de bien)Fille honnête, d'une probité absolueV. 458Bien(s)Fortune, richessesV. 219, 364, 556, 585, 930, 1148, 1428, 1621, 1627 dans un sens figuré, 1873Bienfait.V. 585, 701Bienfait« Grace, faveur, … bon office » (Ac). Aux vers 316 et 319, 1551, 1656 le terme a une valeur euphémistique et désigne de façon allusive et bienséante un don d'argent.V. 316, 319BileHumeur, et figurément, colère (F).V. 1483BizarreCapricieux, irrégulier (Rey).V. 590 ; le terme présente son sens courant actuel d'« étrange » au vers 1639Bon-homme« Se prend aussi pour Un vieillard » (Ac).V. 1428, 1815BourdeMensonge.V. 1471Breteur Querelleur, « Celuy qui porte une brette épée qui est plus longue que celle que les Gentilshommes portent d'ordinaire, qui aime à se battre et à ferrailler. On le dit aussi des Filous, des gens qui ne vivent que des violences qu'ils font en des lieux de desbauche, ou qui servent à venger les querelles d'autruy » (F).V. 1762BruitRumeur.V. 217, 253, 263, 267, 641, 643, 655, 846, 1012, 1226, 1346CapriceExtravagance, fantaisie, « On le dit quand au lieu de se conduire par la raison, on se laisse emporter à l'humeur dominante où on se trouve » (F). Rey ajoute qu'il s'agit d'une « disposition d'esprit à des changements fréquents … considérée négativement par l'idéologie classique qui y voit un dérèglement d'esprit ».V. 32, 287, 383, 1236Cavalier« Gentilhomme faisant profession des armes » (Ac). Plutôt qu'une véritable désignation sociale, il s'agit probablement ici de la simple traduction littérale du terme espagnol « Cavallero » qui désigne Don Juan et Don Diego dans la pièce de Calderón *El Astrólogo fingido*.V. 110, 167, 541, 558CéansIci.V. 1833CelerCacher.V. 1188, 1265, 1349, 1862CependantPendant ce temps, en attendant.V. 1109, 1535Certain (au)Avec certitude.V. 545CerveauEsprit.V. 591Chagrin« Melancolie, ennuy : fascheuse, mauvaise humeur » (Ac).V. 1111, 1186, 1205ChangeChangement en amour, infidélité.V. 1699Changé« On dit, qu'*Un homme est bien changé*, pour dire, qu'il a … les mœurs, tout autres qu'il n'avoit auparavant » (Ac).V. 27Charmant« Qui plaît extraordinairement, qui ravit en admiration » (F).V. 1803, 1817CognoistreSavoirV. 630, 650, 822, 924, 1356, 1511, 1612, 1676 ; le terme présente son sens courant actuel d' « avoir une idée de quelque chose ou de quelqu'un » au vers 1906ReconnaîtreV. 1902Se cognoistre« Savoir vraiment qui on est » (R)V. 674, 1379Se reconnaître.V. 1157CommerceRelation.V. 508, 1223, 1284ComplimentParole de civilité, politesse.V. 1314, 1413, 1642Confondre« Troubler, … étonner, … jeter dans le trouble » (R).V. 705, 1083ConfusionTrouble, embarras extrême que cause la honte ou la modestieV. 826« Honte » (F)V. 1269, 1602 Situation troublée, désordre.V. 1089Conseil« Resolution » (F), décision.V. 1211ConstantFidèle.V. 38ConstammentFidèlement, « d'une manière uniforme ; invariable ; toujours égale, et qui ne change point » (F).V. 22ContrefaireImiter, feindre.V. 151Cosmographie« Description du monde universel » (Ac), géographie.V. 991CouleurApparence, « Prétexte, couverture, moien qu'on imagine pour palier quelque chose » (R).V. 341, 394CourageCœur comme siège du sentiment, fermeté, hauteur de l'âmeV. 898, 1149, 1564Énergie morale, « Disposition de l'ame avec laquelle elle se porte à entreprendre ou à repousser, ou à souffrir quelque chose » (Ac)V. 379, 735, 903Exhortation au courage.V. 932Credit« Reputation où l'on est de bien payer, et qui est cause qu'on trouve aisément à emprunter » (Ac).V. 1174, 1175Cruel, elleDans le vocabulaire amoureux classique, le terme signifie « insensible à l'amour qu'on lui porte » (Rey).V. 410DécevoirTromper.V. 237Défier (se)Se méfier.V. 1456Déplaisir« Chagrin, tristesse … » (F). Si le terme signifie simplement « impression désagréable » en français moderne, il a dans la langue classique le sens fort de « souffrance morale » qui disparaît dès le XVIII*e* siècle (Rey).V. 266, 1276, 1796Derechef« Ce mot est un peu vieux. Il ne trouve sa place que dans le burlesque, et même assez rarement. Il veut dire *encore, de nouveau*. » (R).V. 1730Déreglement« Desordre, action ou mouvement qui se fait contre les loix naturelles, ou civiles » (F), en particulier « désordre dans la conduite morale » (Rey).V. 506Dessein (prendre, faire ou avoir dessein)Projeter, avoir l'intention, décider deV. 177, 374, 834, 1085, 1597À dessein deDans le but de, avec l'intention deV. 87, 1265La locution adverbiale « à dessein » signifie *délibérément, dans ce but*.V. 437DevoirHommage (dans un sens amoureux et galant).V. 40, 280, 862, 1654 ; le terme est employé dans son sens courant d'« obligation » au vers 1129DiffererRemettre à plus tard.V. 735, 1163DisgrâceDéfaveurV. 158, 200, 1244« Infortune, malheur » (Ac).V. 335, 551, 1051DisputerContester, « Défendre son sentiment contre quelqu'un. Discourir avec une personne avec chaleur sur quelque point d'art ou de science. » (R).V. 748, 1598DivertirSous sa forme pronominale, le verbe présente ici son sens courant de « se distraire », mais avec une légère nuance de raillerie : le *Dictionnaire de l'Académie* indique en effet que le terme signifie aussi « r ailler, se moquer agréablement » ; (v. 1220) : « Detourner » (F).V. 186Dolent, e« Triste, affligé » (R).V. 1776Émotion« Mouvement extraordinaire qui agite le corps ou l'esprit … » (F), « Crainte, trouble, éfroi » (R).V. 786EnjoüéL'enjouement consiste en une attitude prisée des milieux mondains, une qualité typiquement galante qui se caractérise par la gaîté, la légèreté et le refus de tout esprit de sérieux.V. 690, 1757Ennuy« Affliction, douleur, tristesse. » (H)V. 337, 402EnnuyéAffligé.V. 375EnragerÊtre impatient, « i l se dit aussi, d'Un besoin vif et pressant, et accompagné de douleur …. D'un desir ardent et violent » (Ac)V. 482, 834, 1031Enrager pourBrûler de.V. 155EntendreComprendreV. 39, 193, 418, 592, 625, 838, 1850, 1851J'entensJe veux dire.V. 969EntretenirConverser, discuter, s'entretenir avec quelqu'un.V. 138, 281, 1908Envy (à l')« Par émulation et pour voir qui fera, ou reüssira le mieux » (R), « A qui mieux mieux » (F).V. 691Esprouver« Expérimenter, essayer la bonté d'une chose » (F), mettre à l'épreuve.V. 547, 1661Equipage« Provision de tout ce qui est necessaire pour voyager » (F)V. 1524Manière dont une personne est vêtue.Didascalie de la scène V, 6Escolier Élève.V. 605EssayExpérience, épreuve.V. 509, 845Estat (faire)La locution *faire estat de*  signifie « estimer, considérer comme important » (H), « faire cas de » (Rey, H).V. 329Estude« Se dit aussi de la science, de l'art, et de toute autre chose à quoy on applique son esprit » (F)V. 564« Aplication d'esprit. » (R).V. 663Evertuër (s')« S'éforcer de faire quelque chose. » (R).V. 607FableMensonge.V. 487Fascher« Offenser quelqu'un, lui donner un sujet de chagrin ou de colere. » (F).V. 1408, 1409Fascher (se)Avoir du déplaisir, s'offenser, se mettre en colère.V. 553Fascheux, euseQui cause du déplaisir, de la peine.V. 293, 1703Fantasque« Capricieux …, qui a des manieres ou des humeurs extraordinaires. » (F).V. 1486FatalQui arrive nécessairement, qui est fixé par un décret du sort, mais aussi malheureux, funeste, en particulier dans son emploi hyperbolique typique du lexique galantV. 374, 590.FeindreFaire semblant dans le but de tromper, dissimuler.V. 175, 386, 394, 1395, dans la didascalie qui précède le v. 670, v. 839, 1295, 1342, 1459, 1570, 1573, 1671FeinteRuse, tromperie, dissimulation.V. 67, 260, 388, 1098, 1345, 1406, 1545Feint, eFaux.V. 515, 1435FilleServante, soubretteV. 12, 458Jeune fille, se dit par opposition à *femme mariée*.V. 943, 990FilouVoleur.V. 1762FlatterMénager, donner de l'espoirV. 33, 1558, 1725, 1793« Tromper en deguisant la vérité … » lorsqu'elle est désagréable (Ac).V. 101Fortuné, e Heureux.V. 943FourbeTromperieV. 476, 529, 739, 740, 1011, 1323Au masculin : celui qui trompe.V. 729FourberTromper.V. 454, 1332, 1675, 1868Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer (F)V. 98, 147, 677 Fidélité (d'un serviteur)V. 526, 1318Fidélité amoureuse, amour juré, parole donnée, voire promesse de mariage.V. 146, 147, 1095, 1106, 1113, 1150, 1154, 1302, 1718FrancSincère, loyal.V. 1621FranchiseLiberté.V. 1183, 1316, 1674 ; le terme est employé dans son sens actuel d'« honnêteté » au vers 1247GagerEmployer, rémunérer, verser un salaire en paiement d'un service.V. 487Parier.V. 635GaillardGai, enjoué (au sens moderne ici, et non dans son acception galante spécifique du XVIIe siècle).V. 17GalammentAvec galanterie (voir les définitions suivantes), mais aussi « h abillement, adroitement, finement » (Ac).V. 646Galand, ante« Honneste, civil, sociable, de bonne compagnie, de conversation agréable » (Ac).V. 111, 167, 223, 269, 689GalandPrétendant, « amant qui se donne tout entier au service d'une maîtresse » (F).V. 436, 1761Galanterie« Qualité de celuy qui est galant voir plus haut. … Il se prend plus particulierement pour les devoirs, les respects, les services que l'on rend aux Dames » (Ac)V. 112Idéologie et ensemble d'usages mondains reposant sur des valeurs d'honnêteté (au sens classique), de civilité, de sociabilité et sur une certaine conception de l'amour courtois, qui trouvent leur expression privilégiée dans la littérature et dans l'activité des salons.V. 652, 1348Garder deSe garder de, éviter de.V. 847Gasté, eSouillé.V. 1418GasterRuiner, détruire.V. 1208Généreux, seNoble, conforme à l'honneur.V. 532, 1878, 1119GloireHonneur, réputation.V. 649, 1868GraceBienveillance, bienfait.V. 1179 ; le terme présente son sens courant de « charme » dans l'épître et au vers 319Grossier, ere« Rude … peu civilisé » (Ac)V. 268Sans finesse.V. 1323GueuserMendier.V. 1477Hanter« Fréquenter » (R).V. 224, 503HazardDanger, péril.V. 118 ; le terme présente son sens courant de « fortune, chance bonne ou mauvaise ou encore coïncidence » au v. 662, 1274, 1469HazarderRisquer, faire courir le risque.V. 647, 1037Haut« Se dit de tout ce qui a quelque degré d'excellence, d'eslevation en quelque chose que ce soit » (F).V. 592HeurBonheur, « Bonne fortune » (Ac).V. 740, 1562Honneste« Vertueux, conforme à l'honneur » (Ac), « ce qui mérite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. Il ne faut hanter que d'*honnestes* gens »V. 167 « Signifie aussi, convenable à la raison, bienséant à la condition … des personnes » (Ac).V. 59 dans un sens ironiqueHonneur« Vertu, probité » (Ac)V. 109En particulier lorsqu'il s'agit d'une femme : « réputation attachée au caractère irréprochable de ses mœurs » (Rey)V. 149, 1882Lorsqu'il s'agit d'un père : réputation liée au comportement de sa filleV. 1834Fierté.V. 1358.Humeur« Naturel » (R), caractère, tempérament (dans un sens physiologique, selon la théorie des « humeurs » comme liquides organiques).V. 45, 131, 1185, 1192 ; le terme présente son sens actuel de « disposition, état d'esprit momentané » au vers 1207, 1432Infortuné, e Malheureux.V. 859Ingrat, e « Un amant appelle sa maîtresse ingrate, quand elle est cruelle, quand elle ne veut point répondre à son amour » (F). Cela vaut aussi pour désigner un amant dans le discours d'une maîtresse dédaignée.V. 1711, 1843, 1844InjureOutrage.V. 203, 1719, 1843InquiéterÔter le repos, « chagriner l'esprit, luy donner de la peine » (F).V. 131InquiétudeAgitation d'esprit, trouble.V. 563Interdire« Estonner, troubler en sorte qu'on ne sçache ce qu'on dit ny ce qu'on fait » (Ac).V. 113InterditÉtonné, troublé, « s'applique spécialement à une personne … frappée d'un trouble qui l'empêche d'agir » (Rey).V. 469, 698Jaseur« Causeur » (R).V. 486Joüer, se joüer deTromper, se moquer de.V. 630, 637, 1904JustementLégitimement.V. 579LâcheQui implique la bassesse, qui a des sentiments vils et méprisables.V. 1854LâchetéAction basse, indigne.V. 1564LarronVoleur.V. 1426, 1626LegerementAvec légèreté, à la légère.V. 557Lors« Ce mot est vieux et en sa place on dit *alors* » (R).V. 49, 377, 730, 987, 1146, 1663Lourdaut« Espece de niais et de sot » (R).V. 1756Malice« Meschanceté, inclination à nuire » (Ac).V. 288, 1304Manquer« Ne faire pas ce qu'on est obligé de faire » (F).V. 927Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez » (F). Cette injure apparaît fréquemment dans les comédies, le plus souvent adressée aux valets par leurs maîtres mécontents.V. 477Maroufle« Misérable, sot, impertinent » (R).V. 1787Martel (donner martel en teste)L'expression *donner martel en teste* signifie tourmenter, donner de l'inquiétude, du souci, et selon Furetière, de la jalousie.V. 60, 168Medaille« Se dit encore des personnes vieilles et laides … » (F).V. 1791MenterieMensonge.V. 776Merite« Ce qui rend digne de loüange » (Ac), « ensembles de qualités intellectuelles et morales estimables » (Rey).V. 309, 323, 411, 814Mesler (se … de)« Se dit aussi en parlant de plusieurs sortes d'actions où on s'applique » (F), autrement dit, la tournure signifie *pratiquer*.V. 524, 574, 1461Mine« Physionomie, disposition de corps et sur tout du visage, qui fait juger en quelque façon l'Interieur par l'exterieur » (F)V. 556, 1464, 1567De bonne mineBien fait, séduisantV. 111Faire meilleure mineTraiter avec moins de sévérité.V. 196MisérableMalheureux.V. 239, 1579Moins (au moins, du moins)Employé indifféremment pour exprimer une restriction, mais il « s'emploie quelquefois seulement … pour donner plus de force à ce que l'on dit. » (F).V. 303, 400, 715, 750, 976, 1642, 1651, 1851MonopoleurPersonne qui détient un monopole. Furetière précise que « l e peuple a rendu encor ce nom plus odieux. Car il l'estend à ceux qui sont exacteurs des imposts … » (F).V. 1750Morne« Pensif, mélancolique » (R).V. 1756MurmureRumeurV. 523« Il se prend ordinairement pour le bruit et les plaintes que font des personnes mal contentes » (Ac).V. 1319MurmurerSe plaindre.V. 1254, 1547Mutin« Opiniâtre, obstiné » ou encore « Séditieux » (R).V. 1763Nippe« Sortes de petis meubles au sens de « bien qui se peut transporter d'un lieu à un autre » (F) , comme hardes, linges, bagues et autres pareilles choses. » (R).V. 1191NœudLien amoureux.V. 1285Objet« Personne qui donne de l'amour » (F)V. 30, 416, 855, 861, 878, 1659, 1857Et plus généralement : « chose où l'on arrête les yeux … sa pensée, son cœur, son but ou son dessein » (R).V. 1716, 1819Obligation« Engagement qui vient de quelque plaisir, de quelque bon office qu'on a reçu » (F)V. 225Obligé« Redevable à un autre de quelque bon office, de quelque plaisir » (Ac).V. 326, 1165Obliger« Faire quelque faveur, civilité, courtoisie. » (F), notamment lorsqu'il s'agit d'une faveur amoureuse.V. 206, 322, 833, 1334, 1823OfficeService, « Secours ou devoir réciproque de la vie civile. C'est le propre d'un honnête homme, de rendre de bons *offices* à tout le monde » (F)ÉpitreEmploi, en particulier ici celui de domestique.V. 1515OrdinaireLe courrier.V. 304Outrage Injure.V. 1127PasserDépasser, surpasser.V. 851, 872Passevolant« Faux soldat et non enrollé, qu'un Capitaine fait passer aux reveuës pour montrer que sa Compagnie est complette, ou pour en tirer la paye à son profit » (F).V. 1762PâtirSouffrir.V. 1477Payer (payer en, payer de)« Donner ce qui est dû » dans un sens figuré (Rey). Avec cette valeur figurée, le verbe entre dans la composition de nombreuses locutions comme « payer de coups ».V. 548, 583, 837Peine« Douleur, affliction, souffrance, sentiment de quelque mal dans le corps ou dans l'esprit » (Ac)V. 279, 355, 559, 1312, 1576Tirer de peineTirer d'embarrasV. 1820Se mettre en peineS'inquiéter.V. 959Perdre« Signifie aussi, Détruire, ruiner » (F) et se dit couramment en ce sens « de tout ce qui peut causer du préjudice à la fortune de quelqu'un, à sa réputation » (Ac).V. 179, 443, 496, 1122, 1513Pester« Monstrer par des paroles aigres et emportées le mescontentement qu'on a de quelque chose » (Ac).V. 1032PiperTromper.V. 1340Poche« Sac de cuir, de toile, d'estoffe, de soye, etc. attaché par son dedans à un haut de chausse … » (Ac).V. 966Poly« Civil … qui pratique de bonne grace tout ce qui regarde l'exterieur de la vie civile » (Ac).V. 167Porte (fausse)Porte dérobée, entrée secrète. « On appelle … *Fausse porte*, une secrette issuë d'une maison, d'un chasteau » (F).V. 136, 432PréoccupéOccupé d'avance.V. 645PublierRendre public.V. 319, 437, 1343Railler« Tourner en plaisanterie » (Ac), tourner en ridicule, en dérision. Au XVII*e* siècle, « entendre la raillerie » ou « entendre raillerie », c'est-à-dire être capable de railleries habiles et piquantes mais aussi être capable de ne pas s'en offenser lorsqu'on en est l'objet sont deux qualités importantes de la vie en société dont on fait grand cas dans les milieux mondains.V. 215Raillerie« Plaisanterie » (Ac).V. 651, 1347RapportTémoignage, récit (R).V. 549, 1594, 1684, 1688Ravaler (se)« S'abaisser, se rabaisser. » (R).V. 813RaviTransporté de joie et d'étonnement.V. 1897Ravir« Se dit aussi des passions violentes qui troublent agréablement l'esprit, et suspendent les fonctions des sens, particulièrement de la joie, de l'étonnement et de l'admiration. » (F).V. 283, 800Reformer« Corriger, rajuster, rétrancher, diminuër. » (R).V. 768ReleverAu sens figuré, « r ehausser » (R), « d onner plus d'éclat, plus de lustre » (R).V. 572Remettre (se)Se rappeler.V. 495ReposQuiétude, calme de l'âme.V. 401, 649RespectÉgard, considération, « defference que l'on a pour quelqu'un, pour quelque chose à cause de son excellence » (Ac).V. 247ResverRéfléchir, « p enser, mediter profondement sur quelque chose » (Ac)V. 75, didascalie du vers 1324, 1411« Laisser aller son imagination sur des choses … vagues » (Ac).V. 1185ResverieRéflexion.V. 1328Resveur, euseQui laisse aller son imagination sur des choses vagues, qui médite.V. 239, 1207RetraiteLieu où l'on se retireV. 140Retrait, « esloignement du commerce du monde » (Ac).V. 399, 1539Saison« Se dit aussi du temps convenable pour faire quelque chose » (F).V. 1322, 1657ScienceSavoir.V. 507, 535, 547, 571, 598, 615, 696, 723, 812, 847, 897, 1064, 1263, 1367, 1375, 1435ScrupuleDoute.V. 1899Sectateur« Ce mot se prend en bonne et en mauvaise part et veut dire celui qui suit les sentimens de quelque particulier, qui les soutient, les défend et s'y atache avec ardeur. » (R).V. 794SéduireTromper.V. 1595Sergent« Le plus bas officier de justice » (F), ou un officier d'infanterie.V. 1747ServirRendre service.V. 818, 893, 1176, 1254, 1545, 1562« Estre à un maître, comme son domestique » (Ac).V. 967, 1438, 1443, 1462, 1478Dans un sens galant : « on dit poëtiq., *Servir une Dame*, pour dire, rendre des soins, des services … à une femme pour qui on a de l'amour » (Ac).V. 42, 58Service« Hommage rendu à la femme que l'on courtise » (Rey)V. 31, 384« L'estat ou la fonction de celuy ou de celle qui sert en qualité de domestique » (Ac).V. 479Soin ou soingEffort, peine.V. 294« A pplication d'esprit à faire quelque chose » (Ac)V. 576, 626, 1136, 1521, 1816Prendre soing deVeiller à.V. 1585SortDestin.V. 288, 299, 346, 1578 Condition.V. 518Soucy« Chagrin » (F), inquiétudeV. 350, 530, 1187 « Soin accompagné d'inquietude » (Ac)V. 575, 1014Estre en soucyÊtre inquiet.V. 1774Souffleur« Chercheur de Pierre Philosophale, qui a un fourneau, et qui convertit son bien en charbon à la persuasion de quelques Charlatans, qui lui font entendre qu'ils ont de beaux secrets » (F), c'est-à-dire *alchimiste*.V. 1753Souffrir« Signifie aussi, Ne se pas opposer à une chose, y consentir tacitement » (F), tolérer, permettre.V. 511, 775, 1121, 1701, 1819 ; le terme présente son sens courant d'« endurer, supporter une grande souffrance » aux vers 360, 405, 983Soûpir« Respiration plus forte et plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse » (Ac).V. 337, 1697SoûpirerPousser des soupirs amoureux, aimerV. 359, 819, 1700 ; le terme présente son sens courant de « soûpir », sans connotation psychologique, au vers 1076 Se lamenter.V. 1112Suborneur« Qui corrompt, qui desbauche. » (F)V. 1833SuccéderRéussir.V. 1429Suer« Se donner beaucoup de peine, pour venir à bout de quelque chose » (Ac).V. 608, 982SurprendreTromper.V. 344 ; le terme présente son sens courant d'« étonner » au vers 354, 804, 1082, 1111, 1394, 1588, 1664 Prendre au dépourvu.V. 1286Tailler« Signifie, Avoir la disposition d'une chose, l'accommoder à sa fantaisie, l'augmenter ou la retrencher comme on veut » (F).V. 768TantostTout à l'heure (en se référant à un évènement passé), il y a quelques instantsV. 9, 169, 1859, 1871Tout à l'heure (en se référant à un évènement à venir), bientôt.V. 190, 304, 1160, 1512Temperament« Complexion, habitude ordinaire du corps de l'homme, sa constitution naturelle, la disposition de ses humeurs » (F).V. 1189Tendre« Délicat, foible » ou encore « Sensible, amoureux » (R).V. 591TourmentDouleur de l'esprit, « Il signifie quelquefois simplement, Peine d'esprit, inquietude. … On dit poëtiquement, *Tourment amoureux*, pour dire les maux que l'amour fait souffrir » (Ac.).V. 245Tout de bon« Sérieusement. En vérité. Sans raillerie » (R).V. 77, 608, 1625Tout maintenantImmédiatement.V. 1205À l'instant.V. 1712VertuForce morale, honneur, probité.V. 368, 789, 1115, 1150Parfois même « chasteté » lorsqu'il est question de la vertu d'une femme.V. 151, 211Au pluriel : qualités morales.V. 1866VœuDésirs, hommages, soins amoureux, parfois promesse de mariage.Au pluriel v. 249, 1277 ; le terme présente également son sens courant actuel de « souhait » au vers 1561Vogue« Estime, crédit, reputation » (R).V. 979Voiture« Carosse, chariot, coche, ou autre chose dans quoi on est mené » (R), mais aussi « Transport » (F).V. 1532Vray (de vray)C'est vrai, vraiment, en vérité (H).V. 251Au vrai : cette locution adverbiale signifie « exactement » (H), « sans rien desguiser, sincerement » (F).V. 264, 703, 1321 (À dire le vrai) : à dire vrai, en vérité.V. 201, 1249, 1519
 
 
-## Lexique relatif à l'astrologie et à la magie
+## Lexique relatif à l'astrologie et à la magie.
 
 Ces termes sont marqués d'une double astérisque⁎⁎ dans le texte.AlmanachCalendrier ou horoscope.V. 747, 754Ascendant« Signe qui paroit sur l'horison au moment qu'on vient au monde, et qui nous donne une pente pour de certaines choses plutôt que pour d'autres » (R). « E n termes d'Astrologie, c' est l'horoscope ou le degré de l'Equateur qui monte sur l'horison au point de la naissance de quelqu'un, et qu'on croit avoir grand pouvoir sur sa vie et sur sa fortune. … se dit aussi des astres, et des degrés qui montent sur l'horizon en quelque cercle ou parallele de l'Equateur que ce soit » (F).V. 590Aspect« Terme d'Astronomie. C'est la situation qu'ont les étoiles et les Planetes les unes à l'égard des autres. Il y a cinq *aspects* : le Sextil, quand les astres sont éloignés de 60. degrés l'un de l'autre : le Quadrat de 90. le Trin de 120. l'Opposition, quand ils sont à 180. degrés : et la Conjonction, quand ils sont en même degré. Kepler ajouste huit nouveaux *aspects* aux anciens …. Il y a des *aspects* favorables, et de malins *aspects* » (F).V. 578, 589Astrologie« Il signifie quelquefois la mesme chose qu'*Astronomie*, mais le plus souvent il se prend pour cet Art conjectural, suivant les regles duquel on croit pouvoir connoistre l'avenir par l'inspection des astres. En ce dernier sens et pour une plus grande distinction, on l'appelle quelquefois *Astrologie Judiciaire* » (Ac).V. 471, 504, 527, 544, 564, 683, 799, 816, 895, 992, 1223, 1227, 1340, 1908Astrologue« Celuy qui professe l'Astrologie Judiciaire » (Ac.), qui prétend lire l'avenir dans le cours des  astres.V. 475, 478, 548, 562, 582, 629, 661, 719, 737, 749, 883, 980, 1028, 1213, 1239, 1248Bonne-advanturePrédictions.V. 524CancreLe terme signifie « Ecrevisse » (F). Il s'agit du signe zodiacal du Cancer : « Il a été ainsi nommé, à cause qu'il represente un cancre ou écrevisse, et que le Soleil commence à reculer ou à retourner vers l'Equateur quand il y est arrivé, à la maniere des écrevisses » (F).V. 752Charme« Enchantement » (R).V. 905, 915, 949, 995, 1089, 1903 ; le terme est employé dans son sens courant d'« attrait » aux vers 271, 309, 1131, 1693Conjonction« En Astronomie, on appelle la *conjonction* des astres, lors qu'ils se rencontrent dans le même degré du Zodiaque. La *conjonction* est le premier des aspects des astres » (F).V. 580Démon« Quelquefois il se prend dans le sens des anciens, pour Génie, esprit, soit bon, soit mauvais » (Ac).V. 508, 966, 967, 1045, 1394Diable« Demon, esprit malin » (Ac).V. 472, 836, 968, 1087, 1545, 1764, 1767 ; le terme correspond à la désignation usuelle de « satan » aux vers : 884, 956, 1466, 1900Ecliptique« *Terme de Géographie, et d'Astronomie*. Cercle qui passe par le milieu du Zodiaque « C'est un des six grands cercles de la sphere, dans lequel le Soleil et les autres Planetes se meuvent. Il est divisé en douze Signes ou Constellations » (F) , et qui représente le chemin par où le Soleil fait son cours annuël » (R).V. 751Fantastique« Imaginaire, qui n'a que l'apparence » (F),  chimérique.V. 900Fantosme« Spectre c'est-à-dire *vision*, vaine image qu'on voit ou qu'on croit voir » (Ac).V. 896, 1010, 1074, 1096, 1270Figure« Ce mot se dit en *parlant d'Astrologie*, et signifie représentation du Ciel et des planettes qu'on fait pour voir le bonheur, ou le malheur d'une personne » (R). Le terme « se dit de la description, de l'estat et de la disposition du ciel à certaine heure …. On la nomme autrement, *Horoscope, Theme celeste* » (F). Le *Dictionnaire* de l'Académie précise qu'elle est « composée de points jettez au hazard et disposez sur seize lignes » et qu'on prétend en tirer certaines divinations.V. 484, 688, 1320« En termes de Negromantie, se dit des visions estranges sous lesquelles les Demons paroissent ou semblent paroistre à nostre imagination » (F).V. 952, 1267Folet (diable) « Une sorte de Lutin qu'on dit qui se divertit sans faire de mal » (Ac).V. 1744HecateDivinité infernale grecque à trois têtes identifiée avec Perséphone, mais aussi parfois divinité lunaire que l'on identifie alors avec Artémis.V. 580, 588Horizon On distingue l'« horizon sensible » de l'« horizon rationnel » : le premier désigne « la partie de la terre ou de la mer que nous pouvons descouvrir de nos yeux » (F), « ce qui termine notre vuë, et qui sépare la partie du ciel que nous voions d'avec celle que nous ne voions pas » (R), tandis que l'horizon rationnel « se doit imaginer comme un plan qui passe par le centre de la terre, et qui est prolongé jusque dans le Ciel » (F).V. 590IdéeVision chimérique.V. 948ImageVision.V. 1067JupinJupiter.V. 753Lutin« Sorte de demon, esprit folet » (Ac).V. 1769, 1890Magicien« Qui use de la magie noire » (Ac).V. 714, 836Magie« Art qui produit des effets merveilleux par des causes occultes ». Le terme désigne en pariculier la  magie noire qui est « c elle qui fait ses opérations par le moyen des demons. La Necromantie en est une espèce. » (Ac).V. 684, 896, 1392MaisonSigne du zodiaque. « Les Astrologues divisent … tout le ciel en douze portions qu'ils nomment les douzes maisons du ciel, ausquelles ils atribüent diverses prorietez » (R).V. 750MercureEn termes d'astrologie, c'« est aussi la plus petite des Planetes …. Cette Planete est seche de sa nature, et est indifferente au bien et au mal, et ne fait qu'augmenter la force des autres » (F).V. 580, 588ParalaxerLe verbe n'est pas attesté dans les dictionnaires du XVII*e* siècle. Il s'agit donc probablement d'un néologisme qui accentue le caractère plaisant du discours pseudo-scientifique de don Fernand dans la scène II, 3. Le terme est le dérivé verbal du substantif *paralaxe*, dont les dictionnaires donnent les définitions suivantes: « Terme d'Astronomie. C'est l'arc du Firmament contenu entre le vray lieu de l'astre, et l'apparent. » (F). A. Rey précise que le terme a été employé en astronomie « pour désigner la différence entre le lieu véritable d'un astre et son lieu apparent, et l'angle qui mesure cette différence et que forment deux lignes droites tirées du centre de l'astre à la surface de la Terre et au centre de la Terre ». V. 591RegarderÊtre en face, « Etre tourné vers un certain lieu » (R). « En termes d'Astrologie, se dit de la situation des astres les uns à l'égard des autres » (F).V. 578Retrograder« En termes d'Astronomie, se dit d'un mouvement apparent des Planetes, quand elles semblent reculer au lieu d'avancer » (F).V. 589Sabat« C'est une assemblée nocturne de sorciers où l'on conte que préside le Diable, et où il se fait adorer » (R).V. 957SaturneC'« est … une des sept Planetes, la plus éloignée de la terre …. Les Astrologues l'appellent la *grande infortune*. Sa nature est froide et seche, et on l'accuse d'être cause de tout le mal qui est sur la terre » (F).V. 578, 586Saturnien« Qui est melancolique, d'humeur sombre, celuy sur qui Saturne domine, ou a presidé à sa naissance. Il est opposé à *jovial* » (F).V. 586Sorcier« Celuy qui, selon l'opinion commune, a un pacte exprés avec le diable, pour faire des malefices et qui va à des assemblées nocturnes qu'on nomme Sabat » (Ac).V. 497, 954, 1462SpectreVision.V. 904, 1068, 1087Sphere« Le mot a désigné la connaissance des principes de l'astronomie que l'on apprenait au moyen d'une sphère » (Rey).V. 747TrineDivisé par trois, aspect de deux planètes séparées d'un tiers de cercle (voir la définition d'*aspect*).V. 578TriplicitéLa triplicité « en termes d'Astrologie Judiciaire, est un regard en trine aspect, quand deux astres sont éloignez de 120. degrez » (F). Voir aussi à *trine* et *aspect*.V. 587Vénusc'« est … la troisiéme Planete de nostre sisteme …. Les Astrologues l'appellent la *petite Fortune* » (F). V. 578, 585, 753Zenith« *Terme d'Astronomie*. … Celui des poles de l'horison qui est sur nôtre tête » (R).V. 751
 
 
-# Annexe 1 : liste chronologique des pièces et opéras de Thomas Corneille
+# Annexe 1 : liste chronologique des pièces et opéras de Thomas Corneille.
 
 Mises à part les dates des deux premières pièces de Thomas Corneille, pour lesquelles nous avons suivi S. W. Deierkauf-Holsboer (voir à ce sujet l'introduction), nous reproduisons ici la liste établie par D. Collins qui, lorsque la date de création est hypothétique, choisit de retenir celle avancée par Lancaster suivie d'un point d'interrogation. Comme l'auteur, nous indiquerons le genre auquel se rattache chaque pièce ainsi que les collaborateurs éventuels.
 
@@ -5115,7 +5113,7 @@ Mises à part les dates des deux premières pièces de Thomas Corneille, pour le
 1695 : *Bradamante*, tragédie.
 
 
-# Annexe 2 : épître dédicatoire telle qu'elle apparaît à partir de l'édition de 1661
+# Annexe 2 : épître dédicatoire telle qu'elle apparaît à partir de l'édition de 1661.
 
 A MONSIEUR⁎⁎⁎
 
@@ -5128,7 +5126,7 @@ Je suis, Monsieur, Vostre tres-humble Serviteur,
 T. Corneille.
 
 
-# Annexe 3 : correspondances entre les différents personnages d'El Astrologo fingido et ceux de ses adaptations françaises
+# Annexe 3 : correspondances entre les différents personnages d'El Astrologo fingido et ceux de ses adaptations françaises.
 
 On fera apparaître les noms des personnages dans l'ordre chronologique de création des œuvres : d'abord ceux de Calderón, puis ceux de Scudéry, enfin ceux de d'Ouville et Thomas Corneille.
  * – Don Diego / Marquis français / Timandre / Don Fernand
@@ -5646,19 +5644,19 @@ FA, V, 12, p. 142, v. 1896 : O ma terre natale, il faut que je te baise.
 AF, IIIème « journée », v. 3267-8 : Ya he Ilegado ha patria mia ! / dexa que tu tierra besse
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources du *Feint Astrologue*El Astrologo fingidoPedro Calderón de la Barca's The Fake Astrologer, A Critical Spanish Text and English Translation
+## Sources du *Feint Astrologue*.El Astrologo fingidoPedro Calderón de la Barca's The Fake Astrologer, A Critical Spanish Text and English Translation
 Jodelet astrologue
 Ibrahim ou l'Illustre Bassa
 
 
 
-## Ouvrages généraux
+## Ouvrages généraux.
 
 
-### Sur le théâtreLa Poétique
+### Sur le théâtre.La Poétique
 Pratique du théâtre
 Les Trois Discours sur le poème dramatiqueŒuvres complètes
 Art poétiqueŒuvres
@@ -5669,7 +5667,7 @@ Lire le théâtre
 
 
 
-### Sur la périodeHistoire de la littérature française du XVII*e* siècle
+### Sur la période.Histoire de la littérature française du XVII*e* siècle
 Le Baroque
 Le Masque et le Visage. Du baroque espagnol au classicisme français
 Introduction à l'analyse des textes classiques
@@ -5678,7 +5676,7 @@ L'Intérieur et l'Extérieur. Essais sur la poésie et le théâtre au XVII*e* s
 
 
 
-### Sur le théâtre de la périodeLa Formation de la doctrine classique en France
+### Sur le théâtre de la période.La Formation de la doctrine classique en France
 L'Art du comédien : déclamation et jeu scénique en France à l'âge classique, 1629-1680
 La Théâtre de l'Hôtel de Bourgogne 1548-1680
 Andromède
@@ -5695,7 +5693,7 @@ La Dramaturgie classique en France*re*
 
 
 
-### Sur le genre comiqueLa Comédie de l'âge classique, 1630-1715
+### Sur le genre comique.La Comédie de l'âge classique, 1630-1715
 Lire la comédie
 La Fantaisie verbale et le Comique dans le théâtre français du Moyen Âge à la fin du XVII*e* siècle
 XVII*e* siècle
@@ -5705,7 +5703,7 @@ La Comédie
 
 
 
-### Sur la *comedia* espagnole et ses adaptations en FranceRépertoire bibliographique des traductions et adaptations françaises du théâtre étranger, du XV*e* siècle à nos jours
+### Sur la *comedia* espagnole et ses adaptations en France.Répertoire bibliographique des traductions et adaptations françaises du théâtre étranger, du XV*e* siècle à nos jours
 Bibliographie critique de la littérature espagnole en France au XVII*e* siècle
 La Comedia espagnole en France de Hardy à Racine
 Pedro Calderón de la Barca's The Fake Astrologer, A Critical Spanish Text and English Translation by…
@@ -5714,16 +5712,16 @@ Modern Philology
 
 
 
-### Études thématiquesL'Astrologie
+### Études thématiques.L'Astrologie
 L'Astrologie*e*
 Théâtre et magie dans la littérature dramatique du XVII*e* en France
 
 
 
-### Sur la langue classique
+### Sur la langue classique.
 
 
-#### DictionnairesDictionnaire
+#### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire de la langue française du XVI*e* siècle
 Curiositez françoises
@@ -5732,7 +5730,7 @@ Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles rem
 
 
 
-#### Rhétorique, grammaire et ponctuationLa Ponctuation
+#### Rhétorique, grammaire et ponctuation.La Ponctuation
 Grammaire du français classique
 Syntaxe française du XVII*e* siècle
 Dictionnaire de rhétorique
@@ -5741,12 +5739,12 @@ Grammaire de la langue française du XVII*e* siècle
 
 
 
-### Ouvrages bibliographiquesBibliographie de la Littérature française du dix-septième siècle
+### Ouvrages bibliographiques.Bibliographie de la Littérature française du dix-septième siècle
 Bibliographie der französischen Literatur-Wissenschaft
 
 
 
-## Études et articles consacrés à Thomas Corneille et à son œuvre dramatiqueLe Festival Corneille. Vingt ans de théâtre à Barentin 1956-1975
+## Études et articles consacrés à Thomas Corneille et à son œuvre dramatique.Le Festival Corneille. Vingt ans de théâtre à Barentin 1956-1975
 Points obscurs et nouveaux de la vie de Pierre Corneille
 Thomas Corneille, Protean Dramatist
 Estudios sobre Calderón, Actas del Coloquio calderoniano en Salamanca

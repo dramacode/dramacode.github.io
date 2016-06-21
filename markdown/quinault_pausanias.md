@@ -15,7 +15,7 @@ A PARIS, Chez GUILLAUME DE LUYNE, Libraire Juré, au Palais, dans Salle des Merc
      master 1 sous la direction de Georges Forestier (2003-2004)
 
 
-# Introduction
+# Introduction.
 
 
 La gloire elle-même ne saurait être pour la femme qu'un deuil éclatant du bonheur. (Mme de Staël,* De l'Allemagne*).
@@ -25,7 +25,7 @@ La gloire elle-même ne saurait être pour la femme qu'un deuil éclatant du bon
 Cependant limiter son théâtre à l'expression de l'amour serait nourrir les critiques de ses détracteurs qui ne voient dans ses œuvres qu'une tendresse mièvre, bien loin des hauteurs où ont su se porter Corneille ou Racine. De Quinault, ce *minores* du XVII*e* siècle, on ne veut plus se rappeler que ses opéras, genre qu'il a contribué à établir avec Lully. On dédaigne ses pièces de théâtre qui ne sont plus guère lues de nos jours. Néanmoins, on ne peut réduire son théâtre et plus particulièrement ses tragédies à une peinture galante de l'amour, ce sentiment auquel il a su rendre son humanité en peignant toutes les nuances de la passion. Souscrire à cette vision conventionnelle et relativement partagée par ses critiques à travers les âges revient à nier le talent de cet auteur qui a connu un succès constant tout au long de sa carrière et qui a été, un temps, présenté comme le rival de Racine. Nous allons nous efforcer, de mettre en lumière les qualités de *Pausanias* et de rendre plus attrayante cette œuvre méconnue.
 
 
-# La vie de Quinault, histoire d'une réussite sociale
+# La vie de Quinault, histoire d'une réussite sociale.
 
 La vie de Philippe Quinault, né à Paris le 4 juin 1635, est avant tout l'histoire d'une impressionnante ascension sociale. En effet, rien ne destine ce modeste fils de boulanger de la rue de Grenelle à devenir celui que l'on nomme « le rival de Racine ». Il a la chance de devenir le « domestique » de Tristan l'Hermite : il peut alors s'initier aux choses de l'esprit et dès l'âge de douze ans, à son penchant pour le théâtre. Quinault est associé à l'éducation que donne personnellement Tristan à son fils unique.
 
@@ -34,7 +34,7 @@ On peut distinguer dans la vie de Quinault, en reprenant la proposition d'E. Gr
 De 1660 à 1671 s'ouvre une nouvelle phase dans la vie de notre auteur, un peu moins riche en pièces de théâtre, plus tournée vers le renforcement de sa position sociale. En effet, la consécration arrive en 1670, lorsque Quinault est élu à l'Académie Française. De plus en 1671, il obtient une place à la Chambre des Comptes. La troisième période est également très féconde, il y compose quatre tragédies, des tragédies lyriques et collabore avec Lully pour édifier en France un nouveau genre poétique, l'opéra et en réalisant des livrets d'inspiration plutôt mythologique.
 
 
-## Un début brillant, consacré à un vieux genre voué à la disparition, la tragi-comédie
+## Un début brillant, consacré à un vieux genre voué à la disparition, la tragi-comédie.
 
 Dès 1653, cet esprit précoce donne une première comédie à l'Hôtel de Bourgogne. Avec *Les Rivales*, à 18 ans, il connaît le succès, quoique cette œuvre ne soit pas originale puisqu'il s'agit d'une refonte des *Deux Pucelles* de Rotrou. Quinault se caractérise par son ambition, il paraît dans les salons où il est introduit par Mme d'Oradour [2] et s'attache à conquérir les suffrages du public féminin. Pour plaire à cette compagnie, il se met à écrire des pièces où la galanterie se fait jour avec éclat. Il écrit coup sur coup plusieurs pièces, s'essaie à différents genres. Notons que toutes les pièces non lyriques de Quinault furent créées à l'Hôtel de Bourgogne, à l'exception de *La comédie sans comédie*, qui fut jouée au Théâtre du Marais.
 
@@ -49,7 +49,7 @@ En 1657 Quinault utilise la procédé du « théâtre dans le théâtre » dan
 Son mariage le 29 avril 1660 avec une certaine Louise Goujon, lui apporte quarante mille écus de biens. L'aisance financière que lui apporte cette union ouvre à Quinault de nouvelles perspectives ; elle va lui permettre de « se pousser dans la Vie ». *Stratonice* (1660) est un immense succès. Sa réussite théâtrale se double de succès mondains. Il est accueilli dans les salons, il séduit les précieux et jouit de la protection du Duc de Guise. Le 23 mars 1661, il achète la charge « de valet de chambre du Roy », ce qui lui donne le titre d'écuyer, titre dont il signe désormais toutes ses pièces à venir.
 
 
-## 1660-1671, le temps de la reconnaissance
+## 1660-1671, le temps de la reconnaissance.
 
 Durant cette période, Quinault donne quatre tragédies. Deux connaissent un succès considérable, il s'agit d'*Agrippa* et d'*Astrate*. En 1663, il dédie au jeune Roi, alors âgé de 24 ans,* Agrippa, roy d'Albe ou faux Tiberinus*. Rappelons que Racine ne dédie une pièce au souverain que trois ans plus tard avec son *Alexandre. Agrippa* est jouée deux mois de suite et reprise plusieurs fois. L'année suivante *Astrate*, une autre tragédie, est jouée à l'Hôtel de Bourgogne et recueille bien des suffrages. C'est l'un des plus grands triomphe du siècle. L'affluence est telle que les acteurs doublent le prix des places. Cette réussite déchaîne la Cabale menée par Boileau qui relève les négligences de l'expression, des facilités dans l'intrigue. Les critiques soulignent aussi certaines ignorances du poète son sens de l'imitation poussée jusqu'au plagiat. Rotrou, Scarron, Donneau de Visé, entre autres, ont été les victimes de ses larcins. D'autres, comme Boursault, et son ami Charles Perrault défendent le jeune auteur. En 1665 Quinault écrit une comédie, *La Mère Coquette* qui est dédiée à Mme de Mautausier. Elle est alors en rivalité avec une autre *Mère Coquette*, celle de Donneau de Visé qui se joue chez Molière. On accuse Quinault de plagiat, mais selon Pierre Mélèse, il a pu se croire « délié du scrupule de s'approprier le sujet d'un confère » par le fait que celui-ci, pendant les lectures de sa pièces dans le monde, a eu la négligente indélicatesse de ne pas avouer sa source espagnole, Moreto.
 
@@ -60,7 +60,7 @@ Le Duc de Montausier est un ami de Mme Deshoulières que fréquentait Quinault d
 En 1670, il obtient un petit succès avec *Béllérophon*, une tragédie galante jouée à l'Hôtel de Bourgogne et dédiée au Duc de Chevreuse, proche de Racine auquel ce dernier avait dédié *Britannicus* l'année précédente.
 
 
-## Une gloire permise par l'essor d'un genre nouveau
+## Une gloire permise par l'essor d'un genre nouveau.
 
 Si Quinault rivalise réellement avec Racine durant ces années, ce ne fut pas en composant des tragédies, mais en imposant un genre nouveau, l'opéra.
 
@@ -71,7 +71,7 @@ Ce succès pousse les deux hommes à continuer de travailler ensemble. Quinault 
 Vers la fin de sa vie, Quinault cède aux sentiments religieux que sa femme lui a inspirés, il cesse alors de travailler pour le théâtre et ne veut plus composer que des vers pieux. Il meurt peu de temps après le triomphe d'*Armide* le 26 novembre 1688, à l'âge de 53 ans.
 
 
-# La réception de Pausanias
+# La réception de Pausanias.
 
 Cette tragédie galante, représentée pour la première fois le 16 novembre 1668 à l'Hôtel de Bourgogne, ne connaît que peu de succès, c'est du moins ce que nous rapporte Sophie Wilma Diererkauf-Holsboer dans *Le Théâtre de l'Hôtel de Bourgogne 1548-1680* [6]. La trop grande proximité avec le triomphe de Racine *Andromaque* lui nuit. Quinault ne peut surpasser ce chef d'oeuvre, lui qui ne possède ni la culture de Racine ni sa fidélité à l'histoire grecque ni son « goût de l'Antiquité ».
 
@@ -135,14 +135,14 @@ Cette conclusion est également permise par le relevé qu'effectue P. Mélèse [
 Le site internet « Cesar » rapporte quant à lui que, outre la représentation du 16 novembre 1668, *Pausanias* a été jouée dix fois dans l'année 1795 (du 28 mars au 28 juillet) au théâtre Feydeau à Paris. Comment expliquer ce brusque retour en grâce ? Faut-il y avoir un témoignage de l'influence posthume de Voltaire qui appréciait les œuvres de Quinault ? Notons néanmoins que c'est, à notre connaissance, la seule tragédie de Quinault qui ait fait l'objet de tardives et nombreuses représentations.
 
 
-# Les divers constituants de la pièce
+# Les divers constituants de la pièce.
 
 Nous nous proposons dans ces pages de considérer la structure interne de Pausanias : le déroulement de l'intrigue dans sa linéarité et les fonctions assignées à chacun des personnages.
 
 Dans un premier temps nous allons résumer acte par acte les événements qui structurent la pièce. Puis nous analyserons dans un second moment la présence des personnages c'est à dire leur importance dans le déroulement de l'intrigue qui est fonction de leur prise de paroles.
 
 
-## La pièce acte par acte
+## La pièce acte par acte.
 Éléments Cléonice : Acte I : Pausanias, général spartiate victorieux des armées perses et à la tête des troupes grecques, est promis à Démarate, princesse lacédémonienne. Cette union est souhaitée par Sparte. Cependant il aime Cléonice, une princesse perse prisonnière dont il a tué le père. Cet amour hors la loi paraît impossible et dangereux : les Grecs ne peuvent accepter à leur tête un homme qui sacrifie les règles les plus sacrées de dévouement et d'oubli de soi que l'on doit à sa patrie pour aimer une non grecque et, qui plus est, une ennemie. Pausanias laisse transparaître cet amour et se met doublement en danger : d'une part politiquement car il offre un angle d'attaque à Aristide (homme politique athénien qui ne supporte pas de voir Athènes subordonnée à Sparte) et d'autre part sur le plan personnel. En effet sa promise a des soupçons sur l'inclination de Pausanias envers Cléonice car celui-ci ne cesse d'ajourner leur union. Elle veut découvrir la vérité. Elle apparaît d'emblée comme un femme soucieuse de sa gloire et qui ne veut risquer un affront qui la déshonorerait. Cléonice, étant prisonnière, fait partie d'un « butin » que doivent se partager les guerriers grecs. Cimon, un jeune Athénien, semble épris de Cléonice et la réclame. Pausanias, devant cette demande qui heurte à la fois son amour (il veut libérer la princesse captive) et sa gloire (voir un autre remettre ses choix en question nuit à son prestige de chef incontesté des Grecs) s'emporte devant Démarate puis devant le perfide Aristide. Ces deux personnages prennent alors toute la mesure du sentiment que porte Pausanias à Cléonice et chacun d'entre eux, va tenter à sa manière de manoeuvrer les sentiments contradictoires qui habitent le général spartiate. Pour Démarate, il va s'agir de réveiller l'honneur, le sens du devoir du général. De son côté, Aristide va tenter de favoriser les amours de Pausanias avec la captive car cette passion porte ombrage à la gloire du Lacédémonien, et de plus elle est synonyme d'un retrait de Pausanias de ses fonctions et représente donc une chance de mettre Athènes au premier plan. C'est dans cette optique qu'il se déclare en faveur de Pausanias dans le conflit qui l'oppose à Cimon pour la possession de Cléonice (bien que ce dernier soit présenté comme son ami). | Éléments extra Cléonice : ⁎ Sparte exprime le désir de voir Pausanias s'unir à Démarate, une princesse spartiate. ⁎ Cimon, ami d'Aristide demande à obtenir Cléonice, la princesse perse retenue prisonnière par les Grecs.
  | 
 Acte II : Cléonice avoue son amour pour Pausanias à sa suivante Stratone et ce malgré la haine légitime qu'elle devrait lui vouer. Néanmoins elle n'a rien laissé paraître de ce sentiment. L'arrivée de Pausanias qui lui annonce sa libération et lui fait offre de son coeur la trouble. Pausanias l'aime et ne veut aucunement la contraindre : la princesse perse, redevenue libre à la possibilité de choisir. Démarate les rejoint, Pausanias laisse les deux jeunes femmes. La princesse lacédémonienne, pour gagner la confiance de Cléonice, feint d'être sensible à son infortune. Elle déclare ne pas aimer Pausanias mais un autre Grec et dit refuser d'épouser celui que lui impose Sparte. Elle évoque habilement l'inclination qu'elle croit avoir décelée chez Pausanias afin de connaitre les sentiments de la jeune fille.Cléonice, avec la candeur qui la caractérise, ne voit pas venir le piège et avoue tout : la proposition que lui a fait Pausanias et à demi-mot son amour pour lui. Forte de cette vérité qu'elle détient avant tout le monde, Démarate peut commencer son double jeu et préparer sa vengeance. En apparence, elle est soumise aux décisions de Pausanias, semble souscrire à tous ses projets et va même jusqu'à proposer de dire à Sparte que c'est elle qui repousse leur hymen. A cette acceptation se superpose l'intérêt amical qu'elle porte à Cléonice. Elle devient ainsi le personnage central, celui qui mène le jeu. Tout en faisant l'aveu de sa passion pour Pausanias elle déclare à sa suivante qu'elle va mettre tout en oeuvre pour tenter de le reconquérir ou tout du moins pour conserver son honneur mis à mal par le peu d'intérêt que lui porte le général spartiate. | ⁎ Délibération entre les chefs grecs, Pausanias, grâce à l'appui d'Aristide a obtenu Cléonice.
@@ -156,7 +156,7 @@ Acte V : Le confident de Pausanias, Eurianax, lui apprend l'arrivée de mutins 
 
 
 
-## Tableau de la présence des personnages [13]
+## Tableau de la présence des personnages [13].
 
 Ce tableau comporte deux entrées (le nom des personnages, les actes et les scènes) dans lequel figurent les rôles parlants (nous avons relevé le nombre de vers prononcés) et les rôles muets (le signe « o »). Ce tableau rassemble tous les personnages amenés à paraître sur scène. Ce relevé permet de quantifier les temps de parole respectifs de chacun des personnages et de prendre la mesure de leur importance dans le déroulement de l'action.
 
@@ -165,12 +165,12 @@ On peut noter que le héros, Pausanias, est pratiquement toujours sur scène et 
 Le décompte apparaît dans un tableau à deux entrées (actes et scènes). Remarquons que le dernier acte comporte un nombre plus élevé de scènes, elles sont de plus très brèves, mimant ainsi la rapidité de la funeste révélation. Cette tragédie de 1588 alexandrins à rimes plates présente un nombre fluctuant de scènes par acte, et la longueur de ces scènes est pour le moins irrégulière. Rien d'étonnant à cela, rappelons que l'*Andromaque* [14] de Racine, l'illustre devancier de Quinault fait pareillement varier scènes et actes.
 
 
-# Les sources de Pausanias ou De l'histoire à la tragédie
+# Les sources de Pausanias ou De l'histoire à la tragédie.
 
 *Pausanias*, créée le 16 novembre 1668, est une tragédie historique c'est-à-dire que l'action est située dans l'Antiquité. Les noms des personnages sont pour la plupart historiquement attestés et empruntés à l'Histoire grecque. Néanmoins, à ces données historiques s'ajoutent des éléments inspirés de l'*Andromaque* de Racine. Nous allons étudier en deux temps distincts ces différentes sources d'inspirations.
 
 
-## Les sources antiques
+## Les sources antiques.
 
 La tragédie de Quinault a pour toile de fond les incessants conflits qui opposèrent les Grecs aux Perses durant le V*e* siècle av. J.-C. Ainsi dès la scène d'exposition (Acte I, sc.1), Démarate évoque : « la liberté » enfin reconquise, les actions d'éclat d'un « général qui vient d'immoler en un jour trois cent mille Persans ... ». L'auteur place délibérément l'action de sa tragédie dans le temps des guerres médiques et rappelle la constante rivalité entre deux villes rivales qui se disputent l'hégémonie de la Grèce : Sparte et Athènes. Ces tensions pour affirmer son influence sur le destin du peuple grec constituent d'ailleurs une dimension non négligeable de l'unité de sa tragédie.
 
@@ -243,7 +243,7 @@ De même pour étayer le caractère de Pausanias, Quinault se réfère aux histo
 On voit que Quinault a, pour *Pausanias*, assez bien respecté les faits historiques. La bataille de Platées est évoquée à l'Acte I, sc.1, les démêlés entre alliés, les intrigues d'Athènes contre Sparte sont rappelées (Acte I, sc.2, 3, 4, et Acte III sc.1, 2). Ce respect, inhabituel chez Quinault, des données de l'Histoire, illustre bien sa volonté d'imiter Racine, de faire une seconde *Andromaque*. En effet, généralement les éléments historiques ne sont « qu'un cadre commode » comme le souligne E. Gros [23], Quinault ne possédant pas le « goût de l'Antiquité » de Racine, ni son érudition.
 
 
-## L'écriture de la tragédie
+## L'écriture de la tragédie.
 
 À l'origine de *Pausanias*, il y a donc cette volonté d'imiter le grand Racine. Le *Pausanias* de Quinault est postérieur d'un an moins un jour à l'*Andromaque* de Racine. Rappelons qu' *Andromaque* était constamment reprise et ce encore en 1668.
 
@@ -310,7 +310,7 @@ Néanmoins, l'inévitable comparaison entre *Pausanias* et *Andromaque* ne tient
 s'il est vrai que Cléonice est la fille d'un homme que Pausanias a fait périr, s'il est vrai qu'elle devrait haïr en Pausanias le meurtrier de son père et l'ennemi de sa race, comme Andromaque abhorre en Pyrrhus le fils d'Achille, vainqueur d'Hector et de Troie, le seul fait qu'elle ne le hait pas et qu'elle l'aime au contraire et qu'elle cède à son amour nous avertit qu'il ne faut pas pousser trop loin la comparaison [37].
 
 
-## Le motif de la pastorale dans Pausanias et divers fragments du discours amoureux issus de différents genres littéraires
+## Le motif de la pastorale dans Pausanias et divers fragments du discours amoureux issus de différents genres littéraires.
 
 L'influence de l'Astrée d'Honoré d'Urfé, grand succès de ce siècle, n'est pas étrangère à l'évolution du traitement de l'amour dans les tragédies. C'est cette veine à la fois courtoise et pastorale qu'exploite Quinault dans les tragédies galantes et qui font sa renommée et son succès, notamment parmi le public précieux.
 
@@ -321,7 +321,7 @@ Cette chaîne amoureuse complexe présente dans l'oeuvre, que l'on pourrait rés
 On peut alors distinguer parmi les personnages deux types de caractères appartenants à deux sphères littéraires différentes que Quinault mêle dans Pausanias afin de peindre la diversité de l'Amour. D'une part les personnages se rattachant au monde du roman galant, où l'amour est loi, où tout lui est subordonné, que ce soit la gloire, l'honneur, ou même une haine légitime. D'autre part, il y a les caractères typiquement théâtraux, comme le personnage de Démarate, amoureuse désespérée mais cependant attachée à sa gloire ou encore Aristide, exemple du personnage manipulateur.
 
 
-### Les personnages hérités du Roman galant
+### Les personnages hérités du Roman galant.
 
 Les amants du théâtre de Quinault sont prêts à tout sacrifier par amour. Ils ont toujours présentes à l'esprit, comme le souligne J.B.A. Buijendorp, « les tables de la Loi d'amour promulguées par Céladon ».
 
@@ -551,7 +551,7 @@ Que son cœur [64]…
 Pour ces deux héros, l'amour est une élévation, une chance de s'accomplir qui justifie toutes les trahisons, tous les compromis. La faiblesse des personnages sympathiques face aux sentiments amoureux trouve son contrepoint dans la lutte énergique et désespérée de Démarate qui veut sauver Pausanias à la fois du déshonneur d'aimer une ennemie et de perdre son autorité sur les armées grecques. C'est en ce sens que les personnages de Pausanias et Cléonice portent moins la tragédie que ne le fait Démarate car ils sont en quelque sorte réifiés par les projets de vengeance et les manipulations de la princesse spartiate. Il semble bien que cette dernière ait toujours un coup d'avance sur eux, elle pressent la trahison comme elle annonce la vengeance ; c'est en somme son programme et son rythme qu'elle impose à la pièce.
 
 
-### Les personnages hérités du théâtre tragique
+### Les personnages hérités du théâtre tragique.
 
 Avec Démarate, Quinault nous offre l'exemple d'un amour passionné, total mais cependant soucieux de sa gloire, de son honneur. Ce que la princesse grecque redoute plus que tout, au delà de la perte de Pausanias, c'est que ce dédain soit connu. C'est sur ce personnage que repose en grande partie la dimension tragique de la pièce. Le théâtre de Quinault est essentiellement féminin, la femme régit et commande, elle est le personnage agissant du drame qui se noue, cet élément est la conséquence nécessaire de la conception précieuse de l'amour. On peut suivre sur ce point les analyses que fait E. Gros [65] lorsqu'il déclare : « les femmes dans le théâtre de Quinault sont plus intéressantes que les hommes car lorsqu'il décrit des héros, il peint un type mais lorsqu'il décrit des héroïnes, il peint des caractères ». Cette primauté donnée aux personnages féminins permet à l'élève de Tristan d'étudier l'amour dans ses manifestations les plus diverses, de la jalousie la plus forcenée à l'extrême tendresse.
 
@@ -685,7 +685,7 @@ La partition en deux groupes entre des personnages marqués par la douceur et c
 Quinault, avide de succès théâtral, remplit ses pièces d'éléments qui plaisent aux spectateurs, il crée des personnages qui deviennent les victimes, non seulement des « violents », mais aussi de leurs propres passions et surtout de la force irrationnelle et toute puissante de l'amour.
 
 
-### Les personnages secondaires, le rôle du confident
+### Les personnages secondaires, le rôle du confident.
 
 Évoquons brièvement les personnages de Charile et Stratone, confidentes de Démarate et de Cléonice. Elles apparaissent comme les reflets, les échos de leurs maîtresses, elles leur sont tellement identifiées qu'elles sont présentes dans des scènes décisives (notamment lors de duos amoureux) sans prononcer une parole et dans le seul souci de respecter les bienséances : une princesse est toujours accompagnée. Ainsi, à l'Acte II, sc. 2, Stratone est là lors de l'aveu que Pausanias fait à Cléonice mais elle reste muette. De même Charile et Stratone sont tous deux présentes lors que Démarate s'entretient du général spartiate avec la princesse perse. Là encore, elles ne prennent pas part à la conversation. Leurs fonctions semblent réduites à un rôle minime, celui de support de l'exposition des sentiments de leur maîtresse. Leurs présences permettent à l'auteur d'exposer avec plus de finesse les interrogations et tergiversations de Démarate et Cléonice.
 
@@ -728,7 +728,7 @@ On ne retrouve pas ce rôle conclusif dans les confidents de Quinault. C'est Ari
 # Une pièce classique ?
 
 
-## La tragédie et l'amour
+## La tragédie et l'amour.
 
 Dans cette tragédie, comme dans l'*Andromaque* de Racine, l'amour est le principal moteur de l'intrigue et les événements politiques, à savoir d'un côté le récent conflit qui a opposé Troie à Athènes et de l'autre la guerre des Grecs contre les Perses, leur sont subordonnés.
 
@@ -812,10 +812,10 @@ Dans le Roman les beautez d'une belle vie y sont déduites et rapportées avec t
 En outre, le principe qui dirige le théâtre de Quinault est le même que celui de tous ces paires : plaire au public et connaître le succès restent bien un impératif catégorique.
 
 
-## Le traitement des règles classiques, de la question des trois unités, de la vraisemblance et de la bienséance
+## Le traitement des règles classiques, de la question des trois unités, de la vraisemblance et de la bienséance.
 
 
-### Une exposition selon les règles
+### Une exposition selon les règles.
 
 Les théoriciens se sont tous penchés sur les éléments qui pourraient permettre de créer une bonne exposition, c'est-à-dire, à la fois claire, ni trop longue, ni trop courte et qui ne donne pas l'impression d'une contrainte formelle à visée informative. C'est en vue cette entrée en matière parfaite que s'orientent les recherches les hommes de théâtre du siècle que l'on nomme classique, tant est grand leur souci de perfection. On peut citer entre autres les prescriptions de divers théoriciens.
 
@@ -837,7 +837,7 @@ De même durant la scène 2 de cet Acte, il a la confirmation que Démarate a vu
 Une bonne exposition doit exciter la curiosité du spectateur, ne pas l'ennuyer. L'exposition parfaite doit être selon l'auteur du manuscrit 599 « entière, courte, claire, intéressante et vraisemblable. » L'exposition ne peut-être « intéressante et vraisemblable » quand un personnage raconte à un autre des événements que ce dernier ne peut manquer de connaître déjà. Le paradoxe d'une exposition est qu'elle doit être à la fois antérieure à l'action et pourtant déjà action elle-même.
 
 
-### La règle des trois unités
+### La règle des trois unités.
 
 Nous allons commencer notre étude par l'unité d'action. Pour certains c'est la plus importante. C'est du moins ce que souligne l'auteur du manuscrit 599.
 
@@ -902,7 +902,7 @@ Nous savons que *Pausanias* a été joué à l'Hôtel de Bourgogne en 1668, la s
 un compromis entre la rigoureuse unité de lieu et la vraisemblance rigoureuse : au prix d'une certaine invraisemblance consentie par convention, il permet de fixer l'action dans un lieu qui a l'apparence de l'unité, mais qui ne correspond pas véritablement à un lieu concret [116].
 
 
-### La vraisemblance et la bienséance
+### La vraisemblance et la bienséance.
 
 L'apparition de l'exigence d'une certaine vraisemblance sous-entend qu'entre chaque acte se déroulent des événements de l'intrigue, voire les plus décisifs, les plus sanglants, ceux que les bienséances ou les moyens techniques encore rudimentaires interdisent de représenter sur la scène même. C'est ce que souligne l'abbé Morvan de Bellegarde dans *Lettres curieuses de littérature et de morale* (1702) :
 
@@ -938,10 +938,10 @@ Et le critique d'ajouter :
 Nuançons toutefois la dureté de cette remarque, comme il faut prendre avec circonspection son jugement célèbre sur l'oeuvre de Quinault : « Le chef-d'oeuvre de Quinault c'est sa vie [121]. »
 
 
-# Annexes
+# Annexes.
 
 
-## Jugements des contemporains sur l'oeuvre de Quinault
+## Jugements des contemporains sur l'oeuvre de Quinault.
 
 Quinault est considéré comme un très grand poète par ses contemporains et ses pièces eurent beaucoup de succès. « Lorsqu'il fit ses premières pièces » écrit Ménage « elles étoient si goûtées et si forts applaudies que l'on entendoit les brouhaha à deux rues de l'Hostel de Bourgogne [122]. » Loret, comme nous l'avons vu, ne parle pas moins élogieusement de lui et quant à sa valeur de poète tragique, l'abbé de Pure le place, avec quelques autres auteurs, au même rang que Molière et Racine :
 
@@ -1019,7 +1019,7 @@ Le phoenix de la poésie chantante renaît de ses cendres, il a vu mourir et rev
 Quinault n'a jamais fait l'unanimité, il a été d'emblée pris dans les polémiques de ruelles qui l'encensent ou l'abhorrent. Notons cependant qu'il a très peu ou pas du tout répliqué à ses détracteurs. Ses succès constants et réguliers dans tous les genres auxquels il s'est adonné – que ce soit les tragi-comédies qui l'ont fait connaître, les tragédies galantes ou les opéras – suffissent à prouver le goût de la majorité de ses contemporains pour son théâtre. Quinault fut avant tout le poète d'une époque, d'une sensibilité qu'il a contribué à exacerber et à chanter.
 
 
-## Quinault et les maximes
+## Quinault et les maximes.
 
 Il ne faut pas oublier que l'auteur de *Pausanias* a été également apprécié par ses contemporains pour ses maximes sur l'amour ou sur la politique. Nous reproduisons quelques maximes sur l'amour à titres d'exemples.
 
@@ -1047,7 +1047,7 @@ Ils disent vrai quelquefois.
 (extraits d'*Armide*).
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Notre texte de référence est en alexandrins à rimes plates, il s'agit de la première édition de *Pausanias* de Philippe Quinault, imprimé en 1669 à Paris chez Guillaume de Luyne, Libraire juré, au Palais, dans la salle des Merciers, à la Justice.
 
@@ -1084,7 +1084,7 @@ On trouve également deux graphies pour des mots tels que « *avec* » qui peu
 Nous distinguerons dans un premier temps les coquilles, erreurs de ponctuation, puis la présence ou l'absence de l'accent diacritique par rapport à l'usage moderne.
 
 
-## Les coquilles et erreurs de ponctuation
+## Les coquilles et erreurs de ponctuation.
 
 « ... tandis que la plupart de ceux qui se m'êlent d'écrire ... ». M'êlent > mêlent.
 
@@ -1141,7 +1141,7 @@ v.1582 : « Tout desarmé qu'il est l'Amour n'est que tropfort ». manque l'e
 v.1583 : « Deffens moi donc Amour de leur pitié cr ». manque la fin du mot > cruelle, rétablie dans l'édition de A. Schelte, 1697
 
 
-## Présence ou absence de l'accent diacritique
+## Présence ou absence de l'accent diacritique.
 
 Nous rétablissons systématiquement les distinctions diacritiques en vigueur en français moderne. Ainsi les accents sur les emplois non verbaux de *–a* sont rétablis. a > à 
 
@@ -1154,7 +1154,7 @@ V. 166, 283, 901, 1013.
 De même, l'accent diacritique sur où a été rétabli : ou >où : v. 858.
 
 
-# Pausanias Tragédie
+# Pausanias Tragédie.
 
 
 ## A MONSEIGNEUR MONSEIGNEUR LE DUC DE MONTAUSIER [136],PAIR DE FRANCE, CHEVA lier des Ordres du Roi, Gouver neur & Lieutenant General d'Angommois, Xaintonge, hau te et basse Alsace, Commandant pour sa Majesté en Normandie, Gouverneur de MONSEIGNEUR LE DAUPHIN, &c.
@@ -1181,7 +1181,7 @@ Registré sur le livre de la Communauté , le 24 Janvier 1669.
 A. SOUBRON Syndic.
 
 
-## ACTEURS
+## ACTEURS.
  – PAUSANIAS,General des Grecs.
  – ARISTIDE,Chef des Atheniens.
  – CLEONICE,Prisonniére des Grecs.
@@ -2168,7 +2168,7 @@ Fin du Second Acte.
 ## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ARISTIDE, SOPHANE.
 
 
@@ -3094,7 +3094,7 @@ Amour⁎, services, soins⁎, rien ne peut l'arrester.
     CHARILE.
 J'admire que vostre ame ait tant pû se contraindre.  
 
-    DEMARATE.  
+    DEMARATE. 
 Tu l'as vû, jusqu'ici, j'ai souffert sans me plaindre.  
 J'ai pris d'extrémes soins⁎, fait les derniers efforts  
 Pour retenir l'ardeur de mes jaloux transports⁎ :  
@@ -3136,7 +3136,7 @@ Fin du Quatriéme Acte.
 ## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 EURIANAX, PAUSANIAS.
 
 
@@ -3172,7 +3172,7 @@ C'est en vain qu'à le perdre on peut se voir forcé,
 Le caractere au moins n'en peut estre effacé.  
 Mon zele encor pour vous des factieux m'écarte.  
 
-    PAUSANIAS. 
+    PAUSANIAS.
 D'un zele Athénien je juge en Roi de Sparte.  
 Je veux bien y répondre avec un libre aveu,  
 Je l'estime beaucoup, & m'en deffie un peu.  
@@ -3494,7 +3494,7 @@ Elle fuit avec l'épée de Pausanias.
     ARISTIDE.
 O Dieux ! Courons...  
 
-    EURIANAX *arrestant Aristide.*
+    EURIANAX *arrestant Aristide.*.
         Seigneur, Sophane l'a suivie,  
 Prés d'elle il suffira pour asseurer sa vie.  
 De grace demeurons prés de Pausanias,  
@@ -3571,7 +3571,7 @@ Mais ne negligeons rien des soins⁎ qu'on lui peut rendre.
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Nous avons relevé les termes ayant subi une évolution de sens depuis le XVII*e* siècle. Seuls sont donnés les sens apparaissant dans notre texte. Les diverses occurences de ces termes sont indiquées en italique.
 
@@ -3580,14 +3580,14 @@ La lettre (F) renvoie au dictionnaire de Furetiere datant du XVII*e* siècle (16
 La lettre (A) renvoie aux définitions données par l'Académie dans l'édition de 1692.AmourSubs. masc. et f. : passion de l'âme qui nous fait aimer quelque personne ou quelque chose. (F).V. 43, 66, 68, 71, 76, 163, 175, 180, 208, 211, 220, 338, 339, 476, 482, 491, 496, 598, 679, 698, 724, 816, 818, 868, 875, 902, 905, 928, 953, 928, 953, 961, 1088, 1091, 1114, 1116, 1136, 1163, 1169, 1182, 1207, 1240, 1298, 1311, 1316, 1330, 1395, 1401, 1422, 1464, 1470, 1502, 1509, 1516, 1522, 1544, 1565, 1572, 1582, 1583. Animer (verbe)Signifie exciter la colère, à la vengeance, au combat.V. 99, 264, 296, 475, 551, 610, 927, 1369. Cela se dit aussi d'un orateur qu'il anime son discours, quand par la force de son action et de ses paroles il a touché et ému ses auditeurs. (F)V. 1032AppasSubs. masc. : au pluriel, se dit particulièrement en Poésie, et signifie charmes, attraits, ce qui plaît.V. 657, 758, 789, 1009, 1021, 1085, 1109, 1171, 1209. (F)ApprehenderVbe actif : craindre. (F)V. 255.ArtSubs. masc. : tout ce qui se fait par l'adresse et l'industrie de l'homme ; et en ce sens il est opposé à la nature.V. 261, 271, 275.Se dit aussi de toutes les manières et inventions dont on se sert pour déguiser les choses ou pour les embellir ou pour réussir dans ses desseins. (F)V. 93, 243.ArtificeSubs. masc. : adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution.V. 451.Fraude, déguisement, mauvaise finesse. (F).V. 279.ChoquerVerbe qui signifie figurement « quereller », « offenser ». Il peut signifier également « blesser légèrement » (F)V. 136, 206, 281, 1042.ConsentirVbe qui signifie reconnaître, approuver. (F)V. 158, 1077.CourageSubs. masc. : ardeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls.V. 187, 244, 645, 676, 1012, 1307.Vertu qui élève l'âme et qui la porte à mépriser les périls, quand il y a des occassions d'exercer sa vaillance, ou à souffrir des douleurs, quand il y a lieu de montrer sa constance et sa fermeté. (F).V. 736, 932, 959, 1332, 1461.DéclarerVbe actif. : se dit des particuliers qui font connaître leurs secrets et leurs volontés. (F).V. 108, 300, 333, 829, 1484.DépitSubs. masc. : colère qui donne du dégout d'une chose contre laquelle on se fâche. (F)V. 348, 643 ,651, 809, 902, 915, 948, 1265, 1312, 1313, 1316, 1319, 1508, 1580.DéplaisirSubs. masc. : chagrin, tristesse que l'on conçoit d'une chose qui choque, qui déplait. (F)V. 509DesseinSubs. masc. : projet, entreprise, intention.V. 104, 114, 119, 123, 210, 227, 327, 737.*À dessein* : exprès, à certaine intention. (F).DesordreSubs. masc. : signifie la confusion, le manque d'ordre, d'arrangement. (F) V. 470, 867.Destin : subs. masc., destinée : subs. f.Disposition ou enchaînement des causes secondes ordonné par la Providence, qui emporte une nécessité de l'événement. (F)V. 2, 24, 144, 163, 453, 747, 795, 1361.DiligenceSubs. f. : activité qui nous fait porter avec promptitude à executer notre devoir, ou nos desseins. (F)V. 999, 1432.ÉblouïrVbe actif.Se dit figurement des choses morales, et signifie tromper, surprendre l'esprit et les sens par de fausses raisons, de fausses lumières. (F)V. 34, 284, 808, 1517.ÉclatSubs. masc. : se dit du bruit qui s'étend, de tout grand bruit subit et surprenant.V. 34, 219, 488, 646, 654, 809, 838, 849, 888, 1198.Se dit aussi des choses vives et hautes en couleur.V. 18, 181, 792.Se dit figurément en choses morales. (F)V. 799.EmbarrasSubs. masc. : difficulté, obstacle que l'on trouve à faire quelque chose se dit aussi figurément des chagrins, des inquiétudes de l'âme. (F)V. 59, 396, 513, 790, 1495.EmpressementSubs. masc. : témoignage d'ardeur, d'affection, de diligence qu'on a pour quelque chose, pour achever quelque besogne. (F)V. 353, 1278, 1281, 1485.EntendreSignifie aussi, outre son sens auditif qui n'a pas fait l'objet de relevé, avoir l'intention, prétendre. (F)V. 414, 688, 1499.EstonnerVbe actif : causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. (F)V. 455, 469, 503, 635, 639, 757, 828, 914, 1333, 1439. ExciterVbe actif : provoquer, causer quelque effet.V. 516.Se dit figurément en morale et signifie animer. (F)V. 1243.FatalAdj. : ce qui doit arriver nécessairement, arrêt de la destinée.V. 1179.Signifie aussi malheureux.V. 663, 788, 1515, 1552.Signifie encore la fin, la mort. (F)V. 766, 1259, 1438. FardSubs. masc. : signifie figurément toute sorte d'artifice dont on se sert pour déguiser une chose et la faire paraître autre et plus belle qu'elle n'est en effet. (F)V. 325, 465.FiertéSubs. f. : qualité de celui qui est fier. En mauvaise part, on dit « Répondre avec fierté » c'est à dire avec insolence, avec témérité. (F)V. 580, 678.FoiSubs. f. : signifie serment, parole qu'on donne de faire quelque chose et qu'on promet d'executer.V. 425, 438, 600, 854, 1131, 1229, 1309, 1501.On trouve la locution adverbiale « de bonne foi » au V.  813. (F)FortuneSubs. f. : ce qui arrive par hasard, qui est fortuit et imprévu.V. 107, 486.Signifie aussi l'établissement, le crédit, les biens qu'on a acquis par son mérite ou par hasard signifie quelques fois avantage. (F)V. 1532.FunesteAdj. masc et féminin : qui cause la mort, ou qui en mence, ou quelque autre accident fâcheux, quelque perte considérable. (F)V. 381, 395, 532, 546, 548, 747, 767, 800, 1175, 1400, 1448, 1495, 1545. GénéreuxAdj. : qui a l'âme grande et noble et qui préfére l'honneur à toute autre interêt.V. 537, 802, 821.Signifie aussi brave, vaillant, courageux. (F)GesnerVbe actif : se contraindre, s'incommoder. (F)V. 156, 456, 1091.GloireSubs. f. : se dit par emprunt et par participation, de l'honneur mondain, de la louange que l'on donne au mérite, au savoir et à la vertu des hommes.V. 8, 72, 114, 119, 126, 220, 247, 287, 292, 346, 419, 475, 487, 568, 596, 680, 697, 788, 816, 818, 847, 935, 961, 967, 980, 990, 935, 979, 990, 1031, 1052, 1060, 1107, 1123, 1139, 1168, 1291, 1360, 1464, 1564.Signifie quelques fois orgueil, présomption, bonne opinion de l'on a de soi-même. (F)V. 309.HeurSubs. masc. : Rencontre avantageuse. (F)V. 39, 595.HorreurSubs. f. : passion violente de l'âme qui la fait frémir, qui lui fait avoir peur de quelque objet nuisible et terrible.V. 1425. Se dit aussi d'une forte haine ou d'une aversion que l'on a pour certaines choses.V. 385, 618, 870, 966, 1162, 1527, 1577, 1585.Se dit parfois d'un simple mouvement de crainte ou de respect. (F)V. 1495.HymenSubs. masc. : signifie poétiquement le mariage. (F)V. 3, 52, 148, 152, 185, 427, 428, 429, 598, 758, 775, 799, 845, 851, 870.ImbecileAdj. masc et f. : se dit de ce qui est faible et sans vigueur. Les enfants au-dessous de sept ans et les vieillards à quatre-vingt sont dans un âge imbécile. (F)V. 647.InterditeParticipe passé et adj. : se dit aussi de ceux qui se troublent, qui s'étonnent et qui ne sauraient parler raisonnablement. (F)V. 919, 1295.InteresserVbe actif : engager quelqu'un par son intérêt à soutenir un parti, attirer quelqu'un à son parti. (F)V. 784, 1231.LanguirVbe qui signifie vivre en langueur, voir altérer de jour sa santé, attendre la mort. (F)V. 735.LoiSubs. f. : règle qui était établie par l'autorité divine ou humaine et oblige les hommes à certaines choses, et leur en défend d'autres. On appelle « loi naturelle » les sentiments donnés aux hommes par l'auteur de la Nature pour les conduire.V. 132, 206, 1121.Puissance, autorité. (A)V. 982.ManquerVbe qui signifie : faire défaut.V. 31, 74, 540, 607, 681, 682.Faire quelque faute. (F)V. 241.ObjetSubs. masc. : se dit poétiquement des belles personnes qui donnent de l'amour. (F)V. 516, 662, 1560, 1568. ReconnaîtreVbe actif : avoir de la gratitude, recompenser un service rendu.V. 984.Découvrir, éclaicir la vérité de quelque chose. (F)V. 1332.SoinSubs. masc. : diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à la perfectionner.V. 105, 143, 167, 201, 257, 331, 337, 349, 353, 371, 388, 404, 411, 423, 531, 537, 565, 619, 624, 636, 664, 669, 691, 825, 978, 985, 989, 999,1031, 1032, 1033, 1034, 1060, 1062, 1073, 1089, 1229, 1231, 1301, 1317, 1381, 1384, 1389, 1391, 1550, 1588. C'est aussi l'attache particulière que l'on a auprès d'un maître, ou d'une maîtresse, pour les servir ou pour leur plaire.V. 38, 80, 337, 443, 528, 759, 925, 927, 1248, 1258, 1298, 1307, 1501.Inquiétude. (F)V. 57, 69, 459, 585, 1025, 1049, 1288, 1452, 1567. SortSubs. masc. : hasard, ce qui arrive fortuitement, par une cause inconnue, et qui n'est pas réglée ni certaine. V. 559, 1154.Se dit aussi des conditions malheureuses de ce monde.V. 1292.Se dit poétiquement de la vie et de la fortune des hommes. (F)V. 120, 358, 424, 522, 525, 1284.SuccèsSubs. masc. : réussite, issue d'une affaire. Il se dit en bonne et mauvaise part. (F)V. 560, 579. SurprendreVbe actif : faire quelque chose à l'improviste, lorsque l'on ne s'y attend pas.V. 91, 468, 1025, 1430. Tromper quelqu'un, lui faire faire une chose trop à la hâte.V. 268, 517, 784.Saisir, intercepter. (F)V. 43, 1233, 1420. TendresseSubs. f. : sensibilité du coeur et de l'âme. La délicatesse du siècle a renfermé ce mot dans l'amour et dans l'amitié. (F)V. 40, 939, 947, 1229, 1259, 1328, 1459.TransportSubs. masc. : se dit figurement en choses morales du trouble ou de l'agitation de l'âme par la violence des passions. (F)V. 99, 1302, 1304, 1325, 1542. Trouble : subs. m., troubler : vbeSe dit figurement en Morale des desordres de l'âme causée par les passions.V. 48, 369, 373, 381, 391, 416, 442, 512, 515, 545, 605, 937, 960, 1223, 1331, 1392, 1446, 1473. (F)VaineAdj. : qui n'a point de solidité, de principes certains et assurés.V. 450, 1244, 1287, 1477.Ce dit de ce qui est chimérique, qui n'est qu'apparence.V. 308.En morale, ce terme signifie : glorieux, superbe, qui a bonne opinion de lui-même. (F)V. 31, 663.VertuSubs. f. : se dit des choses morales de la disposition de l'âme, ou de l'habitude à faire le bien, à suivre ce qu'enseignent la loi et la raison. (F)V. 307, 678, 749, 929, 936, 961, 968, 1137, 1160, 1176, 1184, 1243. VœuSubs. masc. : signifie aussi souhait, prière, serment, suffrage. (F)V. 1165, 1381.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Publications annuellesBibliographie der französischen Literaturwissenschast
+## Publications annuelles.Bibliographie der französischen Literaturwissenschast
 
 
 
-## Textes sourcesPoétique
+## Textes sources.Poétique
 La Pratique du Théâtre
 Dictionnaire portatif des théâtres
 Les Continuateurs de Loret, Lettres en vers de la Gravette de Mayolas, Robinet, Boursault, recueillies par J. de Rothschild
@@ -3601,7 +3601,7 @@ Les Historiens grecs
 
 
 
-## Ouvrages générauxDictionnaire de l'Académie française
+## Ouvrages généraux.Dictionnaire de l'Académie française
 Bibliographie de la littérature française du dix-septième siècle
 Dictionnaire encyclopédique du théâtre
 Dictionnaire universel
@@ -3610,7 +3610,7 @@ Introduction à la langue du XVII*e* siècle
 
 
 
-## Ouvrages sur  le XVII*e* siècleHistoire de la littérature française au XVII*e* siècle
+## Ouvrages sur  le XVII*e* siècle.Histoire de la littérature française au XVII*e* siècle
 Oeuvres complétes
 Les Caractères
 Le Masque et le Visage. Du baroque espagnol au classicisme français
@@ -3641,7 +3641,7 @@ Le Classicisme
 
 
 
-## Ouvrages, articles, éditions, biographies concernant Philippe QuinaultŒuvres choisies de Quinault
+## Ouvrages, articles, éditions, biographies concernant Philippe Quinault.Œuvres choisies de Quinault
 La Vie de Monsieur Quinault de l'Académie Françoise avec l'origine des opera en France, en tête de l'édition de la Petite Bibliothèque des Théâtres
 Bibliographie critique du théâtre de Quinault
 Philippe Quinault : sa vie, ses tragédies et ses tragi-comédies
@@ -3653,11 +3653,11 @@ Douceur et violence in the tragédies and tragi-comédies of Quinault
 
 
 
-## Oeuvres de QuinaultThéâtre
+## Oeuvres de Quinault.Théâtre
 
 
 
-## Oeuvres de RacineThéâtre – Poésie
+## Oeuvres de Racine.Théâtre – Poésie
 
 
 -------

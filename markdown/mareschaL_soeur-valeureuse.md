@@ -18,17 +18,17 @@ A PARIS, Chez Anthoine de Sommaville, dans la Galerie du Palais à l'Escu de Fra
 Édition critique établie par Stéphanie Le Foll dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier
 
 
-# Introduction
+# Introduction.
 
 André Mareschal est un auteur peu connu de nos jours. Il mérite pourtant d'être redécouvert, de par son engagement pour le théâtre, ainsi que pour ses œuvres, ou encore pour le contrat de travail, protégeant aussi bien les auteurs que les comédiens, qu'il a rédigé pour la troupe de l'Illustre Théâtre de Molière [1].
 
 *La Sœur valeureuse* (1634) est la seconde tragi-comédie de cet auteur, cette pièce est relativement longue (2376 vers) et a pour objet l'amour d'une sœur, au caractère guerrier, pour son frère jumeau. On y retrouve les principales caractéristiques de ce genre, qui prolifère tout particulièrement à cette période, comme la mise en scène de combats et le thème du déguisement omniprésent tout au long de l'action.
 
 
-# Andre Mareschal : sa vie et son œuvre
+# Andre Mareschal : sa vie et son œuvre.
 
 
-## Biographie
+## Biographie.
 
 Nous ne connaissons pas les dates de naissance et de décès de cet auteur du XVII*e* siècle. Nous constatons également que son prénom n'est pas fixé, nous trouvons ainsi indifféremment Antoine ou André, qui ne sont qu'une seule et même personne. En effet Antoine ne figure qu'une seule fois dans l'œuvre de Mareschal, et encore dans un privilège, celui de *L'Inconstance d'Hylas*, tragi-comédie pastorale de 1635 [2], c'est à la suite de cette erreur que ce prénom lui a été attribué d'après Durel [3].
 
@@ -75,7 +75,7 @@ En 1643, il dresse l'acte le plus important de sa carrière d'avocat, il rédige
 Mareschal termine sa carrière par deux tragédies, *Le Jugement équitable de Charles le Hardy* et le *Dictateur romain.* Cette dernière pièce aurait d'après Durel probablement été jouée par Molière. Nous ne connaissons pas la date du décès d'André Mareschal, mais nous suivrons la conviction de Durel, en pensant qu'il ne mourut pas avant 1648, car l'usage était de noter le décès de l'auteur dont on publiait les œuvres, et nous n'en trouvons pas trace dans les éditions de 1646, 1647 et 1648 du *Dictateur romain*.
 
 
-## Réception de ses œuvres
+## Réception de ses œuvres.
 
 On peut ajouter que les œuvres de Mareschal subiront un accueil controversé comme on peut le voir avec l'épigramme de De Tornes (Lachèvre M. n° 19145, p8 du supplément des *Recueils collectifs de poésies.*), quand Mareschal apparut dans *Le Recueil des plus beaux vers de Malherbe*… publié chez Toussaint du Bray en 1627 :
 
@@ -103,12 +103,12 @@ Pourtant cette tragi-comédie est publiée précédée de pièces liminaires d'a
 Au siècle suivant, les Frères Parfaict dans *Histoire du Théâtre François* et La Vallière dans *Bibliographie du Théâtre Français*, critiqueront *La Sœur Valeureuse* en prétendant que l'intrigue est trop compliquée et qu'Oronte ne suit pas les règles de la vraisemblance à moins qu'elle ne soit folle.
 
 
-# La Sœur valeureuse ou l'aveugle amante
+# La Sœur valeureuse ou l'aveugle amante.
 
 Lancaster ne nous donne aucune indication sur les circonstances de la représentation de cette pièce. Nous trouvons par contre trois dates pour cette tragi-comédie. Elle aurait pu être écrite en 1633, date que l'on trouve chez les frères Parfaict, dans *Histoire du Théâtre François*, puis tous les exemplaires indiquent 1634, sans achevé d'imprimer, sauf l'exemplaire de la Sorbonne qui présente la date de 1635. Ces exemplaires sont de la même édition, mais tous présentent des différences les uns par rapport aux autres [17].
 
 
-## Résumé de l'histoire
+## Résumé de l'histoire.
 
 D'après L.-C. Durel, dans *L'œuvre d'A. Mareschal* :
 
@@ -116,10 +116,10 @@ D'après L.-C. Durel, dans *L'œuvre d'A. Mareschal* :
 Oronte, fille du roi de Perse et sœur jumelle de Lucidor, travestie en homme, arrive près d'un château où Dorame, prince détrôné, assiège Gélandre l'usurpateur et son cousin. Celui-là aime Olympe, fille du roi de Thrace, mais celle-ci aime Lucidor et en est aimée. Dorame avait réussi à faire s'enfuir Lucidor auprès de Gélandre et à faire croire à Olympe que Lucidor aimait sa sœur Mélinde. Dorame a reçu un cartel mystérieux d'Olympe, qui, habillée en homme, vient mourir à la place de Lucidor, qu'elle croit lâche et infidèle. Apercevant Oronte endormie et frappée de sa ressemblance avec Lucidor, elle se décide à emporter son casque et son écu. Oronte, réveillée peu après, part à la recherche du ravisseur et sauve la vie d'Olympe que Dorame reconnaît. Mélinde de son côté est devenue amoureuse du rival de son frère et s'est attirée l'affection de Gélandre. Oronte devient grand ami de Dorame qui la croit frère de Lucidor. Olympe aussi trouve à Oronte des charmes puissants. Lucidor découvre les mensonges de Dorame par Mélinde qui croyant remettre une lettre d'amour lui tend le cartel de son frère, Lucidor fou de rage lui renvoie donc un cartel. Oronte accepte le cartel de Lucidor à Dorame, car se sera l'occasion de revoir son frère. Au combat, elle poursuit son frère de son amour. Lucidor la repousse violemment. Le duel des jumeaux est interrompu par l'arrivée des troupes des parties adverses. Dorame s'apercevant qu'Oronte le remplace dans les faveurs d'Olympe, se prépare à se débarrasser de ce nouveau rival. Résultat : cinq morts et Oronte grièvement blessée. Dans le camp des assiégés les Persans sont près d'arriver et Lucidor s'apprête à reconquérir Olympe les armes à la main ; en route, il rencontre Oronte et Dorame qui se battent. Il lâche le secret d'Oronte en se riant de Dorame qui s'est laissé vaincre par une femme. Oronte attaque son frère et Dorame se jette entre eux à l'instant où le roi de Perse survient. Un pardon général s'ensuit. Tous sont heureux, Mélinde et Gélandre seront unis, Lucidor et Olympe sont mariés, puis Dorame et Oronte.
 
 
-## Description de la pièce
+## Description de la pièce.
 
 
-### Acte I (558 vers)
+### Acte I (558 vers).
 
 Scène 1 : Monologue d'exposition d'Oronte, qui travestie en homme se rend dans la forêt d'Elvye, suivant la prédiction d'un Oracle et pensant retrouver son frère jumeau Lucidor qu'elle poursuit d'un amour incestueux.
 
@@ -136,7 +136,7 @@ Scène 6 : Début du combat entre Dorame et Olympe travestie, qu'il confond ave
 Scène 7 : Oronte arrive sur les lieux et blesse Dorame qui venait de vaincre Olympe. Cette dernière est démasquée et Oronte se fait passer pour le frère de Lucidor.
 
 
-### Acte II (601 vers)
+### Acte II (601 vers).
 
 Scène 1 : Monologue de Mélinde, amante malheureuse de Lucidor, complice de la machination de son frère Dorame. Elle nous apprend qu'elle a dérobé le cartel destiné à Lucidor.
 
@@ -161,7 +161,7 @@ Scène 10 : Mélinde et Gélandre parviennent à l'endroit du duel, pendant ce 
 Scène 11 : Dorame accourt également sur les lieux. On sépare les adversaires.
 
 
-### Acte III (384 vers)
+### Acte III (384 vers).
 
 Scène 1 : Monologue de Dorame qui se plaint d'Oronte et de Lucidor.
 
@@ -180,7 +180,7 @@ Scène 7 : Lycanthe et trois soldats se rendent dans la forêt pour assassiner 
 Scène 8 : Oronte décide de fuir, mais à ce moment elle est attaquée par Lycanthe qui lui tend la lettre qu'Olympe avait écrite à son intention. Oronte tue Lycanthe et un premier soldat. Son page tue un soldat et meurt à sa suite. Oronte se débarrasse du dernier spadassin et s'effondre à la suite de ses blessure sur le corps inerte de son jeune page.
 
 
-### Acte IV (453 vers)
+### Acte IV (453 vers).
 
 Scène 1 : Monologue de Dorame qui craint les représailles du fait de l'échec de la tentative d'assassinat qu'il avait ourdi contre Oronte.
 
@@ -199,7 +199,7 @@ Scène 7 : Duel entre Dorame et Oronte qui refuse de se battre et ne fait que p
 Scène 8 : Le Roi de Perse arrive, reconnaît son fils, sa fille se présente à lui également. Les jumeaux se repentent et Dorame est finalement gracié.
 
 
-### Acte V (380 vers)
+### Acte V (380 vers).
 
 Scène 1 : Retrouvailles d'Olympe et de Lucidor, amants comblés.
 
@@ -218,21 +218,21 @@ Scène 7 : Les Rois acceptent d'unir Dorame et Oronte.
 Scène 8 : Tous, réunis, annoncent la bonne nouvelle à Gélandre et Mélinde. Dorame accorde enfin sa sœur et la Bithynie à Gélandre.
 
 
-## Sources et réécriture
+## Sources et réécriture.
 
 Les sources sont inconnues pour Lancaster [18] qui propose néanmoins la possibilité que Mareschal se soit inspiré d'une pièce de Bois-Robert intitulée *Pyrandre et Lisimene, ou l'heureuse Tromperie*, publiée en 1633. En effet cette pièce se déroule dans la même région orientale de l'Albanie et la Thrace, et nous y trouvons une jeune fille prénommée Orante, fille du roi d'Albanie, qui poursuit de ses avances amoureuses Pyrandre, lui-même amoureux de Lisimène, fille du roi de Thrace. Mais à la fin de la pièce, l'on découvre que Pyrandre est le véritable frère d'Orante qui du coup cesse ses assiduités.
 
 Lancaster évoque aussi la solution de L.-C. Durel, qui, lui, propose comme source potentielle, « Biblis changée en Fontaine », la fable IX des *Métamorphoses* d'Ovide. Il s'agit certainement de la source principale dans laquelle Mareschal a puisé l'inspiration pour écrire *La Sœur valeureuse*, effectivement on y retrouve l'amour incestueux d'une sœur pour son frère qui la repousse avec dégoût, thème principal de la pièce d'André Mareschal, même si des différences considérables subsistent. Oronte a aimé son frère jumeau dès le berceau, Biblis quant à elle ne s'est découvert de l'amour pour lui que bien plus tard. Biblis lui a avoué son amour par lettre puis lui en a parlé, mais le résultat fut le même et le jeune homme finit par s'enfuir en terres étrangères poursuivi par sa sœur, qui par ses larmes se changea en fontaine. Oronte, elle, n'a pas écrit à son frère, elle s'est adressée directement à lui, Lucidor, de même que Caunus, il s'enfuit. Oronte le poursuit à son tour, mais sa réaction est différente, elle décide de le tuer. Mareschal a par ailleurs utilisé le regret de Biblis, de n'avoir pas parlé au lieu d'écrire, à travers le personnage de Mélinde qui poursuivant également Lucidor sans succès se repent d'avoir fait un billet au lieu d'avoir parlé. Mais ces sources ne révèlent pas la nature de toutes les intrigues ainsi que le caractère particulier d'Oronte.
 
 
-## Représentation et décors
+## Représentation et décors.
 
 Mareschal situe sa pièce en Bythinie, près de Pruse (Brousse en Turquie) mais la couleur locale s'arrête au nom des sites, entre le 5*e* siècle av. J.-C. et le 2*e* ou 3*e* siècle après J.-C.
 
 Cette tragi-comédie possède trois décors dont deux à compartiments, d'après Durel et *Le Mémoire de Mahelot*, ils sont certainement disposés de manière à ce que l'on puisse voir le château de Gélandre de la forêt, et que l'on puisse voir la forêt du château du roi de Thrace. Le décor comporte en outre une chambre avec un lit, une tapisserie derrière laquelle on peut se cacher dans le château du roi de Thrace, une forêt avec un arbre et le haut du mur d'une ville assiégée, un temple consacré au soleil, ainsi qu'une cellule de prison dans le château de Gélandre. Mais nous pourrions suggérer une autre installation en regardant la répartition des décors en fonction des actes et des scènes. L'ensemble de l'acte premier se déroule dans la forêt ; au second acte le décor est modifié puisque nous devons voir le château de Gélandre, la forêt et le château du roi de Thrace, ces décors sont certainement représentés dans cette ordre. À l'acte troisième le décor reste inchangé, ce n'est, en effet, qu'à l'acte IV que des modifications interviennent au niveau des peintures qui forment le décors à compartiments. Nous trouvons en plus de la forêt, du château du roi de Thrace et du château de Gélandre, à la scène III, une chambre dans le château du roi de Thrace, et à la scène V une prison dans le château de Gélandre. L'acte V lui est constitué du château du roi de Thrace dans lequel, ou près duquel, se trouve le temple du Soleil, ainsi que du château de Gélandre et de sa prison.
 
 
-## Les personnages
+## Les personnages.
 
 **ORONTE** : (19 répliques, 495 vers) Il faut d'abord préciser qu'« Oronte » est le nom d'un fleuve et signifie « le fleuve rebelle », il passe par le centre du Liban, l'ouest de la Syrie et le sud-ouest de la Turquie. Notre personnage, quant à elle, est la princesse de Perse, l'héroïne de cette tragi-comédie. À sa naissance, elle perdit sa mère et montra une affection anormale pour son frère. C'est cet amour incestueux qui la pousse à se travestir en homme afin de pouvoir le poursuivre. Mais ce travestissement va plus loin puisqu'il provoque d'autres quiproquos du fait de sa ressemblance avec Lucidor, qui lui attire ainsi l'affection d'Olympe. Elle est sujette à des colères violentes et son tempérament est excessivement guerrier, elle se bat effectivement cinq fois au cours de la pièce et en sort toujours victorieuse (v. 427-428). C'est sur elle que se fait l'ouverture et l'exposition de la pièce, elle explique dans son monologue que c'est la Fatalité qui la pousse à agir de la sorte (v. 55). Son amitié pour Dorame naît du fait qu'elle souhaite qu'il réussisse à séduire Olympe, espérant ainsi conserver son frère pour elle seule. Mais son caractère reste très étrange au demeurant, et il ne peut s'expliquer que par le fait qu'elle se laisse dominer par ses passions. Lorsqu'elle découvre la trahison de Dorame, qui a attenté à ses jours, elle menace de se tuer (A. IV, sc. 4.). Peut-être peut-on y voir une trace de grande émotivité derrière son tempérament franchement guerrier, ou peut-être est-elle à ce moment déjà amoureuse de Dorame qui ne connaît pas encore sa véritable identité. Pourtant, elle ne pleure qu'une seule fois dans la pièce, sur son jeune page mort pour elle. La Fatalité et sa révolte contre les Dieux demeurent son leitmotiv quand il s'agit d'excuser ses agissements ainsi que les crimes de Dorame (v. 1688-1691). C'est ainsi également qu'elle accepte Dorame pour mari choisi une fois de plus par le sort.
 
@@ -262,7 +262,7 @@ Il finit par se faire tuer par Oronte voulant obéir aux ordres de Dorame qui av
 **LE ROY DE PERSE** : (5 répliques, 91 vers) Personnage secondaire. Il est le père de Lucidor et d'Oronte, il apparaît à la fin de la pièce comme une sorte de *Deus ex machina* [19] qui arrive et réconcilie ainsi tout le monde. Ce personnage est également sympathique et développe un véritable sentiment d'amour paternel, horrifié pourtant par les agissements de ses enfants, mais tout prêt à leur pardonner sur-le-champ (v. 1955-1960).
 
 
-# Une tragi-comédie
+# Une tragi-comédie.
 
 Il faut avant tout commencer par rappeler que nous nous situons en pleine période de la querelle des Anciens et des Modernes, la tragi-comédie est un genre très controversé, du fait qu'elle n'applique aucunement les prescriptions d'Aristote dans sa *Poétique*. André Mareschal se situe en faveur des modernes et comme François Ogier, qui dans sa « Préface au lecteur » de *Tyr et Sidon*, tragi-comédie en deux parties, de Jean de Schélandre (1628) attaque les règles des classiques et fait l'apologie de la modernité théâtrale. Notre auteur s'en prend aux règles des trois unités dans sa « Préface » de la deuxième journée de la* Généreuse Allemande* en 1631. L'originalité de Mareschal réside dans son procédé d'argumentation, qui consiste en une plaidoirie où il explique point par point ce qui l'a poussé à enfreindre les règles pour parvenir à l'écriture de sa pièce, il se proclame finalement avant tout du côté de la vérité, prétendant qu'on ne peut pas s'en tenir aux règles et vouloir se faire l'écrivain du réel. C'est en feignant de ne défendre que sa pièce que Mareschal parvient à mettre en place sa conception d'une poétique générale pour toutes les tragi-comédies.
 
@@ -287,7 +287,7 @@ Comme il est nécessaire que l'action soit complète, il faut n'ajouter rien au-
 Mareschal ne s'accorde pas avec Corneille sur ce point de vue puisque le dernier acte est entièrement fondé sur les sentiments de joie des personnages qui s'unissent dans le mariage sur la scène même. À l'exception de cet acte, Mareschal respecte le *dispositio* : la pièce débute par un premier acte qui peut être vu comme le prologue annonçant et détaillant aux spectateurs la situation initiale, les deuxième et troisième actes constituent en partie l'épisode, le nœud de l'action fondé sur les méprises qui découlent de la fausse identité d'Oronte et les fourberies de Dorame (même si ces dernières ont débuté avant le commencement de la pièce). Le quatrième acte peut faire figure d'exorde, où la situation se trouve éclaircie de part et d'autre avec une réconciliation générale des parties adverses. L'Acte V, quant à lui, peut être mis à part comme le résultat d'un effet pompeux voulu par notre auteur.
 
 
-# La passion amoureuse dans La Sœur valeureuse
+# La passion amoureuse dans La Sœur valeureuse.
 
 L'amour et plus particulièrement la passion amoureuse est un thème récurrent dans les tragi-comédies du XVII*e* siècle et *La Sœur valeureuse* ne déroge pas à ce principe.
 
@@ -300,7 +300,7 @@ Un autre fait marquant, que l'on peut noter dans notre pièce, est la représent
 La plupart des monologues tournent autour des différentes formes d'amour heureux Olympe : A. II, sc. 5 et malheureux majoritairement Oronte : A. I, sc. 1 ; Olympe : A. I, sc. 3 ; Mélinde : A. II, sc. 1 ; Lucidor : A. II, sc. 7 ; Dorame : A. III, sc. 1 ; Gélandre : A. III, sc. 5. Les Stances de Mélinde sont plus mitigées A. V, sc. 4, elle renonce à son amour pour Lucidor et s'offre à Gélandre plus ou moins par dépit amoureux. Il ne faut pas omettre d'évoquer également les tirades et stichomythies qui traitent du même thème de l'amour malheureux, mais cette fois, entre les personnages, comme à la scène 6 de l'Acte II, où dans un échange rapide de répliques courtes, Olympe avoue son amour à Oronte qui plaidait la cause de Dorame et non la sienne. Seul l'Acte V met en scène des répliques et des tirades qui ont pour sujet la satisfaction et le bonheur amoureux. Oronte, aux vers 2149-2155, nous fait part de son changement d'état en accusant comme l'avait fait précédemment Dorame, aux vers 1892-1894, une « secrète force » qui la pousse à changer de sentiments et l'objet de son amour.
 
 
-# Le rôle du deguisement dans la pièce
+# Le rôle du deguisement dans la pièce.
 
 Le déguisement a une très grande importance dans cette pièce, en effet Oronte, l'héroïne, est travestie en homme jusqu'au dernier acte. Elle se déguise en guerrière pour poursuivre son frère Lucidor dont elle est amoureuse et qui la repousse. Ce travestissement a pour finalités « la fuite et la reconquête » [29], et il relève d'une attitude défensive. L'action du personnage se révèle n'être plus que la conséquence d'une action antérieure au début de la pièce, d'un autre personnage, en l'occurrence pour notre héroïne la fuite de Lucidor, son frère bien-aimé. Il faut ajouter que notre protagoniste a un nom bisexué, il peut autant être celui d'une femme que celui d'un homme, elle ne revêt donc pas de nom d'emprunt, elle peut ainsi être confrontée aux personnages qui sont de sa connaissance et aux autres qui lui sont inconnus. Le spectateur sait dès le début de la pièce l'identité réelle d'Oronte qui nous l'apprend dans un monologue d'exposition où elle explique ses raisons tout en émettant des regrets et en faisant une déploration. Nous sommes tout de même dans le monde de l'illusion, des fausses apparences typiques des tragi-comédies du XVII*e* siècle. Ce travestissement provoque des incidents, en particulier des équivoques sexuelles, Olympe, l'amante de Lucidor, tombe amoureuse d'Oronte, qui ressemble à Lucidor du fait de leur gémellité, et la poursuit de ses assiduités, elle va même jusqu'à l'embrasser. L'homosexualité n'est ainsi que suggérée, non pas du côté d'Olympe qui ignore l'identité d'Oronte, mais du côté de cette dernière qui nous dit explicitement que seule la nature la retient, mais que si elle avait été un homme elle aurait cédé à ses avances (v. 1376-1379). Dorame se méprend également et en vient à considérer Oronte comme étant l'un de ses rivaux, au point d'en avoir le désir de l'assassiner. Mais étonnamment, après qu'il a été blessé au cours d'un duel contre elle, il en tombe amoureux avant même d'avoir connaissance qu'elle est une femme, nous avons donc ici soit une grande lucidité et clairvoyance de Dorame, soit encore une équivoque sexuelle, du domaine d'une homosexualité couverte (v. 1892-1895). Pourtant Mareschal aurait pu aller plus loin dans la ressemblance d'Oronte et de Lucidor, mais il ne l'a que faiblement exploitée puisque seule Olympe y prête réellement attention, alors que Mélinde, elle aussi éprise de Lucidor, ne la soupçonne même pas A. II, sc. 7. Il n'y a pas non plus de ressemblance au niveau des caractères, des paroles ou des actions de ces deux personnages pourtant jumeaux.
 
@@ -309,7 +309,7 @@ Oronte n'est pas le seul personnage à se déguiser dans *La Sœur valeureuse*, 
 Mélinde, quant à elle, revêt l'habit d'un Hérault pour porter le Cartel de Lucidor à son frère Dorame : elle est bien plus préoccupée par la crainte de perdre celui qu'elle aime ou son frère, que par le travestissement que Lucidor lui a imposé. Oronte d'ailleurs s'y laissera elle-même prendre, puisque désirant obtenir le Cartel elle se fait passer pour Dorame auprès de Mélinde qui bien entendu ne la croit pas l'ombre d'un instant, mais lui remet quand même le Cartel, pensant ainsi sauver son frère. Mélinde comme Oronte appliquent ce déguisement comme un simple masque qu'il leur suffira de retirer pour retrouver leur entière féminité.
 
 
-# La mythologie dans la pièce et la querelle sur le rapport d'André Mareschal au divin
+# La mythologie dans la pièce et la querelle sur le rapport d'André Mareschal au divin.
 
 Depuis la Renaissance, les œuvres théâtrales aussi bien que poétiques font références à la mythologie grecque ou latine. Les auteurs s'adressent à un public averti, qui a les mêmes références culturelles que lui. André Mareschal n'échappe pas à ce principe et *La Sœur valeureuse* abonde en références mythologiques. Du fait de sa culture latine, Mareschal choisit de nous donner les noms latins plutôt que les noms grecs, ce qui peut paraître quelque peu surprenant vu la situation géographique de la pièce toute proche de la Grèce. Il fait référence aux Oracles qui interviennent sur le choix de la destination qu'a empruntée Oronte et donne ainsi lieu à l'œuvre théâtrale que nous avons ici. Ceux-ci, de plus, appartiennent au domaine de l'illusion théâtrale propre à la tragi-comédie. Un autre phénomène intéressant que l'on retrouve dans *La Sœur valeureuse* est la personnification récurrente de l'Amour, du Dieu de l'Amour, Cupidon, auquel l'auteur ne donne jamais de nom, il en est de même pour le Dieu Soleil. Mais cela ne nous autorise pas pour autant à mettre en doute les connaissances de Mareschal sur la Mythologie, les rapprochements qu'il effectue dans sa pièce sonnent tous justes et les Thraces étaient réellement le seul peuple à adorer le Dieu de la guerre, Mars.
 
@@ -327,7 +327,7 @@ J'arrache aux Dieux sur moy le pouvoir qu'ils ont eu ! (v. 1246-1247)
 Ce sont ces passages qui amènent Durel à penser que Mareschal y exprime sa propre pensée, et le fait que « mêlés aux Dieux se trouvent des canons contemporains et la crainte d'offenser le roi Louis XIII » [32]. Catherine Maubon s'accorde à dire que « le théâtre de Mareschal, et surtout les deux premières tragi-comédies [33], est riche en réflexions, commentaires et manifestations hostiles à l'existence d'un principe divin » [34]. Mais elle évoque aussi une confusion et des contradictions dans les réflexions des personnages qui restent toujours superficielles, et ainsi dénie l'existence d'une relation entre les pensées de l'auteur et les propos tenus par ses personnages. Elle ajoute qu'« il est difficile de parler de problèmes métaphysiques réels, là où la notion de destin se mêle à celles de fortune, de dieux, de ciel ou d'astre des grandeurs, même si un tel mélange existe, au niveau du langage, chez Théophile de Viau » [35]. Nous nous en tiendrons l'analyse de Catherine Maubon, puisque nous ne sommes pas en mesure de juger les théories métaphysiques de Mareschal, dans la mesure où il ne nous a pas laissé suffisamment de documents pour nous le permettre.
 
 
-# Les différentes formes du discours introduites dans la pièce de Mareschal
+# Les différentes formes du discours introduites dans la pièce de Mareschal.
 
 Nous distinguons trois formes de discours différentes dans *La Sœur valeureuse*, deux Cartels en vers, un de Dorame intercepté par Mélinde, l'autre de Lucidor intercepté par Oronte, une Lettre d'amour d'Olympe dérobée par Lycanthe, et des Stances prononcées par Mélinde.
 
@@ -338,7 +338,7 @@ La lettre d'Olympe à Oronte a également été dérobée, et elle est reproduit
 La dernière forme de discours qui apparaît dans *La Sœur valeureuse* est contenue de manière isolée à l'intérieur d'une scène, la scène 4 de l'Acte V : ce sont les Stances de Mélinde. Il s'agit d'une pause lyrique, Mélinde réfléchit à la situation dans laquelle elle se trouve désormais. Les stances sont très à la mode durant la période qui s'étend de 1630 à 1660, et constituent des passages obligés de la tragi-comédie. Les vers utilisés dans notre pièce sont l'alexandrin et l'octosyllabe, ils s'ordonnent en quatre strophes de huit vers chacun avec des rimes embrassées. Les stances traduisent l'émotion du personnage et ses pensées les plus intimes et personnelles. Mélinde se désespère d'avoir perdu Lucidor, son amant, et décide de céder aux charmes de Gélandre. La fonction de cette interruption dans le discours théâtral est d'assurer la cohérence du personnage de Mélinde qui se résout à épouser Gélandre, et ainsi conduit notre tragi-comédie à se conclure sur une triple union entre les trois princes et les trois princesses, protagonistes de l'histoire.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 *La sœur valeureuse ou l'aveugle amante*, tragi-comédie.
 
@@ -381,7 +381,7 @@ Il existe sept exemplaires de cette pièce dont voici les références :
 La bibliothèque de la Sorbonne possède un exemplaire (Paris, BU Sorbonne : R.ra747) dont la page de titre porte la date de 1635. En fait il s'agit toujours de la même édition, mais le cahier K a été recomposé et Sommaville en a profité pour modifier la date de la page de titre. Sans doute le premier tirage était-il épuisé, et Antoine de Sommaville, disposant d'un grand nombre de cahiers en supplément, à l'exception du cahier K, a-t-il voulu les écouler en faisant croire à une nouvelle édition.
 
 
-## Comparaison des exemplaires
+## Comparaison des exemplaires.
 
 Tous ces exemplaires, bien qu'ils procèdent de la même édition, comportent des différences :
 
@@ -406,7 +406,7 @@ Tous ces exemplaires, bien qu'ils procèdent de la même édition, comportent de
 – **p. 194-195** : rétablissement de l'erreur d'insertion des pages 65, 66, 155, 156 entre les pages 194 et 195, dans les exemplaires ARS : RF 6526 et BU Sorbonne : R. ra747.
 
 
-## Différences apparaissant dans le cahier K de l'exemplaire de la Sorbonne (BU Sorbonne : R. ra747)
+## Différences apparaissant dans le cahier K de l'exemplaire de la Sorbonne (BU Sorbonne : R. ra747).
 
 – **p. 145** : Coquille dans la didascalie « sã » au lieu de « sãg ».
 
@@ -435,7 +435,7 @@ Tous ces exemplaires, bien qu'ils procèdent de la même édition, comportent de
 Tout cela révèle que dans l'exemplaire BU Sorbonne : R. ra747, le cahier K (p.145-160) a été recomposé.
 
 
-## Liste des corrections
+## Liste des corrections.
 
 Dans le texte, nous avons remplacé les « u » par des « v » et les « i » par des « j ». Nous avons également remplacé les voyelles surmontées d'un tilde par les voyelles nasales correspondantes, puis nous avons rectifié les coquilles d'imprimerie ainsi que la ponctuation lorsque cela s'avérait nécessaire. Au XVII*e* siècle le « a » et le « à » comme le « ou » et le « où » étaient souvent confondus, nous les avons donc corrigés. Nous avons cependant veillé à respecter l'édition originale, aucune modification n'a été apportée.
 
@@ -578,7 +578,7 @@ Dans le texte, nous avons remplacé les « u » par des « v » et les « i
 **v. 2370** : cbangé.
 
 
-# LA SOEUR VALEUREUSE OU L'AVEUGLE AMANTE. TRAGI-COMEDIE DEDIEE A MONSEIGNEUR *le Duc de Vandosme.*
+# LA SOEUR VALEUREUSE OU L'AVEUGLE AMANTE. TRAGI-COMEDIE DEDIEE A MONSEIGNEUR *le Duc de Vandosme.*.
 
 
 ## A TRES-HAUT et TRES-PUISSANT *prince*, CESAR DUC DE VANDOSME, de mercoeur, de penthievre, *de Beaufort, et d'Estampes*; Prince d'Anét & de Martigues, Pair de France.
@@ -594,7 +594,7 @@ Vostre tres-humble & tres- obeïssant serviteur
 A. MARESCHAL.
 
 
-## A MONSIEUR mareschal, *pour sa sœur valeureuse* *epigrame*
+## A MONSIEUR mareschal, *pour sa sœur valeureuse* *epigrame*.
 *Mareschal*, je voy sans envie  
 L'*œuvre* qui te promét une seconde vie ;  
 Et ton stile pompeux, & remply de douceur,  
@@ -605,7 +605,7 @@ D'une si *Valeureuse Sœur.*
 DE SCUDERY.
 
 
-## Monsieur Mareschal
+## Monsieur Mareschal.
 *Mareschal*, vous donner des vers  
 C'est vouloir éclairer le grand flambeau du monde ;  
 Puisque vostre veine seconde  
@@ -614,7 +614,7 @@ En produit les plus beaux qui soient en l'Univers.
 MAIRET.
 
 
-## A MONSIEUR *mareschal*,*pour sa sœur valeureuse*
+## A MONSIEUR *mareschal*,*pour sa sœur valeureuse*.
 Par ses moindres exploits Oronte nous étonne  
 Mars, sous les habits empruntez  
 Ou de Minerve, ou de Bellonne,  
@@ -627,7 +627,7 @@ La force de son bras, que celle de tes vers.
 DE ROTROU.
 
 
-## POUR LA SŒUR valeureuse DE MONSIEUR*mareschal.*
+## POUR LA SŒUR valeureuse DE MONSIEUR*mareschal.*.
 Rendez-vous, Amants & Guerriers,  
 Craignez ses attraits & ses armes ;  
 Sa Valeur egale à ses charmes  
@@ -652,7 +652,7 @@ Son mary fit sortir Minerve toute armée [42].
 CORNEILLE.
 
 
-## A LA SOEUR *valeureuse*DE MONSIEUR*mareschal*
+## A LA SOEUR *valeureuse*DE MONSIEUR*mareschal*.
 Montre toy desormais, amoureuse Guerriere,  
 Certaine de ton prix entre dans la barriere,  
 Viens combattre sans crainte, & pour nous vaincre mieux  
@@ -733,7 +733,7 @@ Déjà les Persans estoient arrivez ; & Lucidor allant treuver son Pere au rend
 FIN.
 
 
-## LES ACTEURS
+## LES ACTEURS.
  – ORONTE.Fille du Roy de Perse.
  – LUCIDOR.Son Frere, fils du Roy de Perse.
  – LE ROY DE PERSE.
@@ -753,7 +753,7 @@ FIN.
 
 ### SCENE I.
 
-    ORONTE, *le casque en teste, & regardant un portrait de son Frère sur son écu⁎.*
+    ORONTE, *le casque en teste, & regardant un portrait de son Frère sur son écu⁎.*.
 A la fin des travaux⁎ d'un triste & long voyage,  
 Doy-je remercier les Dieux, ou cette Image⁎ ?  
 Les Dieux ? Je n'en sçaurois adorer que ces yeux ;  
@@ -839,7 +839,7 @@ Visité tout le Camp, tout le Château d'Elvye [68] :
 Mais ainsi qu'un fantôme, un spectre decevant⁎,  
 Cet Homme, aprés l'Appel⁎, s'est perdu dans le vent.   
 
-    DORAME
+    DORAME.
 Qu'il échappe ; du moins ce Cartel⁎ me demeure,  
 Qui m'assigne au combat le lieu, la forme [69], et l'heure :  
 Va, retourne au Château ; député [70] de ma part  
@@ -1149,7 +1149,7 @@ Tout service est d'honneur⁎, qui nous est favorable [115].
 
 ### SCENE III.
 
-    OLYMPE *habillée en homme, avec un chapeau couvert⁎ de plumes, & l'épée au côté.*
+    OLYMPE *habillée en homme, avec un chapeau couvert⁎ de plumes, & l'épée au côté.*.
 Lucidor me trahir ? me promettre la foy⁎,  
 Pour enlever Melinde, & se moquer de moy ?  
 Refuser un combat, & reduire en fumée  
@@ -1263,7 +1263,7 @@ Ou je mourray contente avec ces cheres marques [128].
 
 ### SCENE IV.
 
-    ORONTE. *S'éveillant.*
+    ORONTE. *S'éveillant.*.
 Doux charmeur [129], n'es-tu pas, ô sommeil gratieux,  
 L'image⁎ du repos qu'on goûte dans les Cieux ?  
 Si les soins⁎, les travaux⁎ sont l'enfer où nous sommes,  
@@ -1319,7 +1319,7 @@ Retenant mon vray bien⁎, au moins rendez le faux.
 
 ### SCENE IV.
 
-    OLYMPE. *Avec le casque & l'écu⁎ d'Oronte.*
+    OLYMPE. *Avec le casque & l'écu⁎ d'Oronte.*.
 Je suis au rendez-vous, enfin voicy la place  
 Qui doit finir ma peine, & montrer mon audace ;  
 Que le sort⁎ me verra contente de mourir !  
@@ -1353,7 +1353,7 @@ Parle peu, rends plus grave & ton geste, & tes pas.
 DORAME, OLYMPE.
 
 
-    DORAME. *S'avanceant à Olympe qu'il prend pour Lucidor.*
+    DORAME. *S'avanceant à Olympe qu'il prend pour Lucidor.*.
 Tu réves, Lucidor ; il n'est plus temps ; approche.  
 
     OLYMPE.
@@ -1390,7 +1390,7 @@ Voicy, traître, voicy le bras à cét écu⁎ :
 Quoy ? si peu de respect ? frapper sur cette Image⁎ ?  
 Cavalier, qu'on luy rende ou la vie, ou l'hommage.  
 
-    DORAME*. Se sentant presser par Oronte.*
+    DORAME*. Se sentant presser par Oronte.*.
 Un tiers ? un Assassin ? ah ! quelle trahison !  
 
     ORONTE.
@@ -1402,7 +1402,7 @@ Puis parlant à Olympe qu'il prend pour Lucidor.
 
 Et tu vis, Lucidor, aprés ta perfidie ?  
 
-    ORONTE *ayant entendu nommer Lucidor.*
+    ORONTE *ayant entendu nommer Lucidor.*.
 Dieux ! seroit-ce mon Frere ? à ce nom que j'entends  
 Que tardez-vous mes yeux de vous rendre contents ?  
 Voyons…..  
@@ -1411,7 +1411,7 @@ Levant le casque à Olympe.
         Ma main s'arreste à cette longue tresse ;  
 Et quoy ! c'est une Fille.  
 
-    DORAME. *Reconnoissant Olympe.*
+    DORAME. *Reconnoissant Olympe.*.
         O Dieux ! c'est ma Maistresse.  
 Je rougy plus de honte, Olympe, que de sang ;  
 Prenez, tirez⁎ ce cœur, je porte ouvert le flanc ;  
@@ -1506,13 +1506,13 @@ Nous sçaurons vostre nom, comme vostre avanture⁎,
 Quel sujét vous ameine inconnu parmy nous,  
 Si c'est là Lucidor…….  
 
-    ORONTE. *Parlant bas.*
+    ORONTE. *Parlant bas.*.
         Son cœur en est jaloux,  
 
     OLYMPE.
 Ce Tyran⁎ de mon ame.  
 
-    ORONTE. *Parlant bas.*
+    ORONTE. *Parlant bas.*.
         Helas ! & de la mienne :  
 Elle augmente ma playe en confessant la sienne.   
 
@@ -1574,7 +1574,7 @@ Helas……
 GELANDRE, MELINDE.
 
 
-    GELANDRE. *La surprenant.*
+    GELANDRE. *La surprenant.*.
     Vous soûpirez.  
 
     MELINDE.
@@ -1654,13 +1654,13 @@ M'oblige⁎ à vous quitter.
 LUCIDOR, MELINDE.
 
 
-    LUCIDOR.*Sur le bord du theatre, & sans voir Melinde.*
+    LUCIDOR.*Sur le bord du theatre, & sans voir Melinde.*.
 Confus, desesperé, tout malheur me poursuit ;  
 Dorame, Olympe, Amour, où m'avez-vous reduit ?  
 Parlez… Mais quel besoin ? vostre commun silence  
 Vous accuse envers moy de trop de violence.  
 
-    MELINDE*. Parlant bas & s'encourageant.*
+    MELINDE*. Parlant bas & s'encourageant.*.
 Ah ! reviens lâche cœur, tu fuis quand tu le vois :  
 Tout me quitte ; je suis sans esprit⁎ & sans voix.   
 
@@ -1674,7 +1674,7 @@ M'a treuvé sans support, & vous sans resistance ?
 Vous me deviez deffendre, & vous me poursuivez ?  
 Vous fustes mon espoir, enfin vous m'en privez.  
 
-    MELINDE.* Tenant une lettre, & parlant bas.*
+    MELINDE.* Tenant une lettre, & parlant bas.*.
 Ma main dans cét écrit tient mes sens & mon ame :  
 La main tremblant.
 
@@ -1683,19 +1683,19 @@ Prends courage⁎, mon cœur… Mais je m'éforce en vain⁎,
 Helas ! je n'en ay plus, je le porte en la main ;  
 Cœur lâche, cœur peureux, quoy ! tu fais qu'elle [145] tremble ?  
 
-     LUCIDOR.
+    LUCIDOR.
 Olympe, fais qu'un monde à ma perte s'assemble,  
 Dy que je doy mourir, j'aymeray le trépas ;  
 Sine [146] ma mort au moins, & j'y courts de ce pas ;  
 Je puis ce que tu veux ; mais fay que je le sçache.  
 
-    MELINDE. *L'écoutant & répondant en elle méme.*
+    MELINDE. *L'écoutant & répondant en elle méme.*.
 Tu me presserois moins sur [147] ce que je te cache.  
 
     LUCIDOR.
 Parle.  
 
-    MELINDE.*Parlant bas.*
+    MELINDE.*Parlant bas.*.
         Je n'oserois ; la honte me retient.  
 
     LUCIDOR.
@@ -1719,7 +1719,7 @@ Vous y verrez l'effect⁎ d'une attainte mortelle.
     LUCIDOR.
 Dont la crainte déjà se tourne à mon tourment⁎.  
 
-     MELINDE. *Parlant bas.*
+    MELINDE. *Parlant bas.*.
 O parole d'un songe ! & pitié d'un moment !  
 Que son erreur me tient en de fausses delices !  
 Fuyons, n'attendons pas qu'on les change en supplices.  
@@ -1728,10 +1728,10 @@ Ly toy mesme en ses yeux, & l'écoute de loin ;
 De ce moment dépent ou ta mort ou ta vie :  
 Ah ! ce cruel regard me l'a déjà ravie.  
 
-    LUCIDOR. *Lisant l'écrit qu'elle luy a donné.*
+    LUCIDOR. *Lisant l'écrit qu'elle luy a donné.*.
 Cartel⁎…..  
 
-    MELINDE. *Parlant bas.*
+    MELINDE. *Parlant bas.*.
     Ouy bien⁎ d'amour.  
 
     LUCIDOR.
@@ -1746,14 +1746,14 @@ A Lucidor.
     MELINDE.
         Qu'entends-je ? ah ! fuyons de douleur⁎.  
 
-    LUCIDOR. *La retenant par la main.*
+    LUCIDOR. *La retenant par la main.*.
 Arrestez.  
 
     MELINDE.
         Expirant il faut bien⁎ qu'on demeure ;  
 Sous les traits⁎ de la haine Amour veut que je meure.  < CARTEL*Ce cartel est un passage poétique important, il est composé de deux octosyllabes suivis de deux alexandrins, un octosyllabe et enfin un alexandrin. C’est le moment où Lucidor découvre le complot qui s’ourdit contre lui.De Dorame à Lucidor. >
 
-    LUCIDOR.* Le lit tout haut.*
+    LUCIDOR.* Le lit tout haut.*.
 Viens au jour, & quitte le sein  
 D'un rampart qui tombe à dessein⁎  
 De t'ouvrir un passage aux lieux où je t'appelle :  
@@ -1792,7 +1792,7 @@ Ouy, mais qui vous oblige à m'estre moins cruel⁎ :
 C'est mon cœur ; qui soûmis à vostre seule gloire⁎,  
 Mesme avant le combat vous donne la victoire.  
 
-    LUCIDOR*. Ayant leu ces deux papiers, & les tenant chacun d'une main.*
+    LUCIDOR*. Ayant leu ces deux papiers, & les tenant chacun d'une main.*.
 Que ces billets divers m'attaquent à leur tour ?  
 Que l'un porte ma mort, & l'autre son amour ?  
 Le miel & le poison⁎ se joignent pour me nuire,  
@@ -1918,7 +1918,7 @@ Obeisse…..
     MELINDE.
         A l'amour, qui m'en fait la deffense.  
 
-    LUCIDOR*. Feignant de tirer⁎ son épée.*
+    LUCIDOR*. Feignant de tirer⁎ son épée.*.
 Ah ! c'est trop m'arrester en discours superflus ;  
 Accorde moy ce poinct⁎, ou bien⁎ tu ne vis plus.  
 
@@ -2133,14 +2133,14 @@ Que de feux⁎, que de trais⁎, que de charmes⁎ puissants !….
 ORONTE, OLYMPE.
 
 
-    ORONTE.* L'interrompant.*
+    ORONTE.* L'interrompant.*.
 Paroissent dans vos yeux, pour émouvoir⁎ nos sens ;  
 Qui s'excusent, muéts de respect & de crainte,  
 Que le silence parle & vous porte leur plainte,  
 Quand la secrette⁎ ardeur qui les fait consommer [169]  
 Vous montre un feu⁎ caché qu'elle n'ose nommer.  
 
-    OLYMPE. *Parlant bas.*
+    OLYMPE. *Parlant bas.*.
 Qu'il m'ayme ? & qu'il previenne un soin⁎ qui me devore ?  
 C'est prendre de l'encens du Dieu que l'on adore.   
 
@@ -2152,7 +2152,7 @@ Qu'Olympe la luy donne, il l'ayme & s'y prepare,
 S'il la doit à l'amour & non pas au dédain ;  
 Tout autre coup⁎ luy semble aymable de sa main.  
 
-    OLYMPE*. Croyant qu'Oronte ait parlé pour soy.*
+    OLYMPE*. Croyant qu'Oronte ait parlé pour soy.*.
 Que je cause la mort d'un qui m'a fait revivre ?  
 Ou que je mette aux fers⁎ celuy qui m'en delivre ?  
 Non, je n'ay pas, Oronte, assez de cruauté,  
@@ -2161,7 +2161,7 @@ On prendroit mon dédain pour une ingratitude ;
 Et mon crime seroit en vostre inquietude ;  
 Je vous doy rendre grâce⁎, & vous m'en demandez.  
 
-    ORONTE. *Se mettant à genoux.*
+    ORONTE. *Se mettant à genoux.*.
 Prest à vous adorer, si vous me l'accordez.  
 
     OLYMPE.
@@ -2170,7 +2170,7 @@ Qu'elle grâce⁎ ?
     ORONTE.
     L'amour.  
 
-    OLYMPE. *Parlant bas.*
+    OLYMPE. *Parlant bas.*.
         A ce mot je soûpire ;  
 Ses vœux⁎ sont mes souhaits, on me porte où j'aspire :  
 Mon Prince [171], levez-vous, parmy tant d'actions  
@@ -2179,7 +2179,7 @@ Puis-je voir à mes pieds celuy qui me surmonte ?
 Faut-il que je rougisse & d'amour, & de honte ?  
 Qu'un autre estat⁎ demande & reçoive mon cœur.  
 
-    ORONTE. *Se relevant de genoux, & faisant une grande reverence.*
+    ORONTE. *Se relevant de genoux, & faisant une grande reverence.*.
 Je le prends ; pour le rendre à son juste vainqueur.  
 
     OLYMPE.
@@ -2194,14 +2194,14 @@ Vostre cœur ?
     ORONTE.
         C'en est un, qui vaut mieux mille fois.  
 
-    OLYMPE *baisant Oronte.*
+    OLYMPE *baisant Oronte.*.
 Mocqueur, un doux baiser me vange de ta voix ;  
 Je couppe ainsi tes mots, & te ferme la bouche.  
 
     ORONTE.
 O faveur⁎ ! qui pourroit animer une souche.  
 
-    OLYMPE. *Ayant treuvé ce baiser trop froid.*
+    OLYMPE. *Ayant treuvé ce baiser trop froid.*.
 Que vous prenez pourtant…..  
 
     ORONTE.
@@ -2357,7 +2357,7 @@ Et vous trop genereux, pour ne le sçavoir point :
 La force⁎ porte icy vos loix⁎, & mon excuse ;  
 Voyez dans ce billét ce que ma crainte accuse.  < REPONSE De Lucidor, au Cartel* de Dorame. >
 
-    ORONTE, *la lit tout haut.*
+    ORONTE, *la lit tout haut.*.
 Un mesme Appel⁎ a mis deux trahisons au jour ;  
 Dans l'amour de ta Sœur j'ay reconnu ta haine :  
 Ta mort punit sa vie, & d'un si lâche tour  
@@ -2368,13 +2368,13 @@ Tu le vois, Ignorant, celuy que tu cherchois,
 Tu parlois à Dorame, & je te le cachois ;  
 Le voicy, c'est luy mesme.  
 
-    MELINDE.* Parlant bas.*
+    MELINDE.* Parlant bas.*.
         O dieux ! qu'elle imposture !  
 
-    ORONTE *parlant bas.*
+    ORONTE *parlant bas.*.
 Servons nous pour le voir, d'une telle avanture⁎.  
 
-    MELINDE *parlant bas.*
+    MELINDE *parlant bas.*.
 Qu'il passe pour mon Frere ? & me le maintenir ?  
 
     ORONTE.
@@ -2382,12 +2382,12 @@ Je cerchois⁎ Lucidor ; les Dieux le font venir :
 Va, dépéche, & dy luy que si peu qu'il attende,  
 Je me rends sur les lieux où son bras me demande.  
 
-    MELINDE *parlant bas.*
+    MELINDE *parlant bas.*.
 Dieux ! en ce jeu du sort⁎ je ne reconnoy rien  
 Sinon qu'un tel hazard⁎ tourne tout à mon bien⁎ :  
 Recevons du destin l'assistance impourveuë.  
 
-    ORONTE *ayant releu le Cartel⁎.*
+    ORONTE *ayant releu le Cartel⁎.*.
 Mais il n'assigne point le lieu de l'entreveuë.  
 
     MELINDE.
@@ -2399,7 +2399,7 @@ Pour le disputer regardent par envie.
     ORONTE.
 C'est assez, dedans [179] peu j'espere le treuver.  
 
-    MELINDE *sur le bout du theatre.*
+    MELINDE *sur le bout du theatre.*.
 Bon Dieux ! quelle rencontre ? il me faut esquiver⁎ ;  
 Le danger evité d'estre prise ou connuë,  
 J'augmente mon espoir, & ma peur diminuë ;  
@@ -2408,7 +2408,7 @@ J'y mettray Lucidor, le dessein⁎ m'est ouvert⁎ ;
 Il l'attend sur le pré ; moy qui veux les surprendre,  
 Je retourne à la ville en avertir Gelandre.  
 
-    *Oronte aprés que Melinde s'en est allée*, 
+    *Oronte aprés que Melinde s'en est allée*,.
 Fay prosperer, Amour, un dessein⁎ que j'ay pris,  
 Qui finit leur querelle & m'en donne le prix ;  
 Par cette invention, dont l'yssuë est chere,  
@@ -2457,13 +2457,13 @@ Aprés avoir combattu quelque temps contre Oronte, qui ne fait que parer.
 
 Il se feint ; il neglige, ou recherche mes coups⁎.  
 
-    ORONTE. *Se sentant presser, mét bas le casque, l'écu⁎ & l'épée*
+    ORONTE. *Se sentant presser, mét bas le casque, l'écu⁎ & l'épée*.
 Pour ce que je les ayme, & qu'ils me semblent doux.  
 Puis courant pour embrasser Lucidor.
 
 Ah ! mon Frere.   
 
-    LUCIDOR *reconnoissant sa Sœur*
+    LUCIDOR *reconnoissant sa Sœur*.
     O prodige !  
 
     ORONTE.
@@ -2543,7 +2543,7 @@ MELINDE, GELANDRE, LUCIDOR,
 ORONTE.
 
 
-    MELINDE *dessus les murailles avec Gelandre, tandis que Lucidor & Oronte se battent.*
+    MELINDE *dessus les murailles avec Gelandre, tandis que Lucidor & Oronte se battent.*.
 Par là vous comprenez…..  
 
     GELANDRE.
@@ -2566,7 +2566,7 @@ Déjà le camp remuë, on marche ; hâstons nous.
 Ils vont pour faire une sortie.
 
 
-    ORONTE *parlant à Lucidor, aprés l'avoir blessé.*
+    ORONTE *parlant à Lucidor, aprés l'avoir blessé.*.
 Regarde que ta haine en ton sang détrempée  
 Montre mon innocence au bout de mon épée.  
 
@@ -2602,22 +2602,22 @@ MELINDE, GELANDRE, ORONTE,
 DORAME, LUCIDOR.
 
 
-    MELINDE.*Parlant à Lucidor.*
+    MELINDE.*Parlant à Lucidor.*.
 Voicy d'autres lauriers, que ce jour vous prepare.  
 
     GELANDRE.
 Avanceons, Lucidor, & voyez l'Ennemy.  
 
-    ORONTE. *Furieuse, & ne voulant point quitter son Frere.*
+    ORONTE. *Furieuse, & ne voulant point quitter son Frere.*.
 Me faut-il emporter la victoire à demy ?   
 
-    DORAME *à ses Soldats.*
+    DORAME *à ses Soldats.*.
 Donnons, il en est temps ; & secourons Oronte.  
 
     LUCIDOR.
 Ah ! la foule m'emporte, & le nombre me domte⁎.  
 
-    ORONTE. *Les ayant mis en déroute.*
+    ORONTE. *Les ayant mis en déroute.*.
 Il fuit ; voilà le sort⁎ que trainent les ingrats⁎ ;  
 Qui [187] ne connoist mon cœur, il connoistra mon bras.  
 Mais vous, dont la valeur⁎ mériteroit de rendre…  
@@ -2698,11 +2698,11 @@ La vie à l'Etranger [190], à vous mesme la mort.
     DORAME.
 La mort ?  
 
-    LYCANTHE. *Luy presentant une lettre que la Princesse envoyoit à Oronte.*
+    LYCANTHE. *Luy presentant une lettre que la Princesse envoyoit à Oronte.*.
         Ouy : mais voyez en ce dessein⁎ perfide,  
 Avant que de mourir, la main de l'Homicide⁎.  
 
-    DORAME. *Lit ainsi le dos de la lettre.*
+    DORAME. *Lit ainsi le dos de la lettre.*.
 *Olympe à son Oronte.* [191]  
         **Ah ! cruelle⁎ ; ce trait⁎  
 Mét son consentement & ma peine en portrait :  
@@ -2726,7 +2726,7 @@ Il ouvre la lettre et luy montre un cachét d'Olympe pour la refermer.
 Vos maux en cette lettre, & leur plaisir secrét⁎ ;  
 Ce cachét dérobé sans danger la referme.   
 
-    DORAME *prenant la lettre.*
+    DORAME *prenant la lettre.*.
 Ta foy⁎ ni mon mal-heur, Amy, n'ont point de terme ;  
 Ta charité me tuë, & par un mesme sort⁎  
 Tu me donnes la vie, & presentes la mort ;  
@@ -2862,7 +2862,7 @@ Quoy ? ma lettre sur vous n'a-t'elle rien gagné ?
     ORONTE.
 Quelle lettre ?  
 
-     OLYMPE. *Parlant bas.*
+    OLYMPE. *Parlant bas.*.
         Sans doute il ne l'a pas receuë ;  
 Les effects⁎ en seroient d'une meilleure yssuë.  
 Mais que je flatte en vain⁎ mon mal & mon esprit⁎ !  
@@ -2894,7 +2894,7 @@ C'est croire m'obliger⁎ par une double injure,
 Vouloir guerir un mal par une autre blessure ;  
 Hors de vous, je n'ay plus de bien⁎ ni de plaisir.  
 
-    ORONTE. *bas, & au bout du theatre.*
+    ORONTE. *bas, & au bout du theatre.*.
 Ah ! que pour en treuver elle sçait mal choisir !  
 Au deffaut de l'amour que sa plainte reclame  
 La douleur⁎ me saisit, & la pitié m'enflame ;  
@@ -2904,7 +2904,7 @@ L'impuissance me sauve, & non pas mon courage⁎ ;
 La Nature tient ferme, & le cœur fait naufrage :  
 A quoy se reduiront des mouvements si forts ?  
 
-    OLYMPE. *Parlant bas.*
+    OLYMPE. *Parlant bas.*.
 Il consulte au dedans, & soûpire au dehors ;  
 Courage⁎, espere, Olympe, & voy s'il est possible  
 D'allumer de la glace en un cœur insensible.   
@@ -2914,7 +2914,7 @@ D'allumer de la glace en un cœur insensible.
 ORONTE, OLYMPE, DORAME.
 
 
-    DORAME. *Se cachant derriere la tapisserie, pour les voir & les épier.*
+    DORAME. *Se cachant derriere la tapisserie, pour les voir & les épier.*.
 Si je ne les entends, je les verray du moins,  
 Et de leurs actions mes yeux seront témoins :  
 Où vas-tu, pauvre Amant ? n'es-tu pas bien⁎ à plaindre  
@@ -2922,7 +2922,7 @@ De cercher⁎ curieux ce qui t'est plus à craindre ?
 Montre toy, va troubler un dessein⁎ vicieux ;  
 Mais non, ne le fay pas, afin de faire mieux.  
 
-    OLYMPE. *Parlant bas.*
+    OLYMPE. *Parlant bas.*.
 Amour, en l'inspirant fay nous voir un miracle  
 Puis revenant à Oronte.
 
@@ -2956,13 +2956,13 @@ D'oublier en sa mort une innocente injure ;
 Pardonnez moy ce coup⁎, qui seroit inhumain  
 Si je ne l'attendois de vostre belle main.  
 
-    DORAME. *Voyant les actions d'Oronte, qui baise la main à Olympe, & parlant bas.*
+    DORAME. *Voyant les actions d'Oronte, qui baise la main à Olympe, & parlant bas.*.
 Que me prends-tu, Voleur ? est-ce là cét office⁎ ?  
 
-    ORONTE. *Continuant à Olympe.*
+    ORONTE. *Continuant à Olympe.*.
 Qu'elle ait, au lieu du cœur, le sang en sacrifice.  
 
-    DORAME. *Parlant bas.*
+    DORAME. *Parlant bas.*.
 Vos baisers, vos soûpirs, & tant de privautez [199]  
 Qui vous sont des faveurs⁎, me sont des cruautez ;   
 Lâche, & perfide Amy ! sourde, ingratte⁎ Maistresse !  
@@ -2974,17 +2974,17 @@ Vivez pour vostre gloire⁎, & pour ma peine aussi ;
 Morte dans mes tourments⁎, je vy dans vostre vie,  
 Ma douleur⁎ vient par elle, & par elle est ravie.  
 
-     ORONTE. *Se relevant de genoux.*
+    ORONTE. *Se relevant de genoux.*.
 Voulez-vous que je vive ? Olympe, j'y consents :  
 Mais Dorame revient, & se plaint à mes sens,  
 Je l'entends qui soûpire & languit à cette heure ;  
 Ou donnez luy la vie, ou souffrez que je meure.  
 
-    DORAME. *Parlant bas.*
+    DORAME. *Parlant bas.*.
 Hé ! qu'esperé-je plus ? ils sont tombez d'accord ;  
 Sans doute qu'entre eux deux ils traittent de ma mort.  
 
-    OLYMPE.* Parlant bas.*
+    OLYMPE.* Parlant bas.*.
 Son amitié persiste, & mon amour s'augmente.  
 Puis revenant à Oronte.
 
@@ -3012,7 +3012,7 @@ Apprenez par la vostre aussi ma resistance ;
 Et sans plus vous tenir de propos superflus,  
 Quand vous l'aymerez moins, je l'aymeray bien⁎ plus.  
 
-    ORONTE. *Seule, aprés qu'Olympe s'en est allée.*
+    ORONTE. *Seule, aprés qu'Olympe s'en est allée.*.
 Quand je l'aymerois moins, les Dieux par un obstacle  
 De remede à tes vœux⁎ n'ont fait que le miracle ;  
 Quel fruict esperes-tu d'un desir impuissant,  
@@ -3027,7 +3027,7 @@ N'ayant plus vers ton Frere aucun engagement,
 Donne à trois par ta fuitte un prompt soulagement,  
 Pour le bien⁎ d'un Amy quitte & Frere, et Maistresse.  
 
-    DORAME *s'avanceant pour tuer Oronte.*
+    DORAME *s'avanceant pour tuer Oronte.*.
 Qu'en la place d'Olympe un poignard le caresse.  
 Puis se retirant.
 
@@ -3039,7 +3039,7 @@ Allons prendre conseil en cette inquietude,
 Et resoudre mes sens parmy la solitude ;  
 La prochaine Forest offre une ombre à mes pas.  
 
-    DORAME *voyant partir Oronte.*
+    DORAME *voyant partir Oronte.*.
 Courage ; c'est assez ; il n'en reviendra pas.   
 
 
@@ -3078,7 +3078,7 @@ Peut-on voir le Soleil dans l'onde avant la nuict ?
 LUCIDOR, MELINDE, GELANDRE.
 
 
-    LUCIDOR *parlant à Melinde.*
+    LUCIDOR *parlant à Melinde.*.
 En vain⁎ vous m'opposez & vos feux⁎, & vos larmes ;  
 Rien ne me peut toucher, la pitié ni les charmes⁎ ;  
 Aymez moy, Frere & Sœur, ou m'offencez [203] toûjours ;  
@@ -3093,7 +3093,7 @@ Un Amy m'a séduit [204], un Parent vous opprime ;
 Et j'amene à vos pieds la Complice du crime :  
 Sus donc ordonnez luy le juste châtiment…  
 
-    MELINDE* à genoux devant Gelandre.*
+    MELINDE* à genoux devant Gelandre.*.
 Que merite & que cerche⁎ un vif ressentiment  
 De l'injure [205] qu'à tort on vous avoit dressée,  
 Et qui m'a par mes mains la premiere blessée :  
@@ -3136,7 +3136,7 @@ Il s'en va.
     MELINDE.
 Encore est-ce trop peu pour tant de trahisons.  
 
-    GELANDRE *parlant bas.*
+    GELANDRE *parlant bas.*.
 Las ! je suis dans la sienne [208], & j'en aurois pour elle ?  
 Mon ame à cét objét⁎ tient mes sens en querelle,  
 Je soûtiens dans mon cœur un combat different :  
@@ -3154,7 +3154,7 @@ Perfide, à quel dessein⁎ ?…
 Qui retarde ma honte, il prolonge mes peines :  
 Est-ce en vain⁎ que ces bras appelleront les fers⁎ ?  
 
-    GELANDRE *parlant bas.*
+    GELANDRE *parlant bas.*.
 Qu'en leur place les miens vous seroient mieux offerts !  
 Puis parlant haut comme en colere.
 
@@ -3167,7 +3167,7 @@ Que la bouche profere, & non pas la pensée⁎.
     MELINDE.
 Allons donc.  
 
-    GELANDRE *parlant haut.*
+    GELANDRE *parlant haut.*.
         En un lieu moins horrible que toy.  
 Puis parlant bas & s'addressant à soy-mesme en se frappant l'estomac.
 
@@ -3178,7 +3178,7 @@ Que toy, dont la rigueur est un monstre à ta foy⁎.
 LYCANTHE, 3 SOLDATS armez.
 
 
-    LYCANTHE *parlant aux Assassins.*
+    LYCANTHE *parlant aux Assassins.*.
 Vous treuverez, Amis, par une heure oportune  
 En ce petit travail⁎ une grande fortune⁎ ;  
 La faveur⁎ de Dorame, & sa ferme amitié  
@@ -3216,7 +3216,7 @@ Nous yrons……
 ORONTE, LYCANTHE, 3. SOLDATS, PAGE.
 
 
-    ORONTE *dans le bois avec son petit Page.*
+    ORONTE *dans le bois avec son petit Page.*.
 Ouy, je fuiray, Dorame, enfin l'affaire presse ;  
 Je quitte Lucidor, & te rends ta Maistresse ;  
 J'ay connu par ses feux⁎ & dedans son erreur  
@@ -3228,11 +3228,11 @@ En vous fuyant tous deux je vous serviray mieux ;
 Tiendrois-je vostre flame également trompée ?  
 Mais quelqu'un me surprend : Page⁎, icy mon épée.  
 
-    LYCANTHE* luy presentant la lettre d'Olympe, mise à la poincte de son épée.*
+    LYCANTHE* luy presentant la lettre d'Olympe, mise à la poincte de son épée.*.
 Prends au bout de la mienne une lettre, & ta mort :  
 Ly hardiment ; aprés, j'acheveray ton sort⁎.  
 
-    ORONTE *prenant la lettre.*
+    ORONTE *prenant la lettre.*.
 Moy le tien ; jusques là cét effect⁎ le prolonge [209].  
 Aprés avoir leu la lettre.
 
@@ -3249,23 +3249,23 @@ Te va faire dormir en l'eternelle nuict.
     ORONTE.
 Pour estre sans repos c'est là que je t'envoye.   
 
-    LYCANTHE *en mourant.*
+    LYCANTHE *en mourant.*.
 Ah ! ma vie en mon sang…..  
 
     ORONTE.
         Mais ton crime se noye.  
 
-    SOLDAT.1 *à ses compagnons.*
+    SOLDAT.1 *à ses compagnons.*.
 Il est mort ; accourons, & vangeons son trépas.  
 
-    ORONTE. *Leur montrant Lycanthe mort.*
+    ORONTE. *Leur montrant Lycanthe mort.*.
 Voyez vostre destin, traîtres, dessus [210] vos pas :  
 Le nombre m'épouvante aussi peu que les armes.  
 
-    Page⁎*aprés avoir pleuré le desastre d'Oronte ; s'encourageant & prenant l'épée de Lycanthe.*
+    Page⁎*aprés avoir pleuré le desastre d'Oronte ; s'encourageant & prenant l'épée de Lycanthe.*.
 Faisons venir ce fer⁎ au secours de mes larmes.  
 
-    ORONTE *voyant combattre son Page⁎.*
+    ORONTE *voyant combattre son Page⁎.*.
 Le Ciel, qui vous a fait l'objét⁎ de son couroux,  
 Arme encore, Assassins, l'enfance contre vous :  
 Des deux Soldats contre elle en tuant l'un.
@@ -3273,7 +3273,7 @@ Des deux Soldats contre elle en tuant l'un.
 Va tenir compagnie à cette Ame infidelle ;  
 Sur les bords de L'Enfer ton compagnon t'appelle.  
 
-    PAGE. *Voyant son Ennemy chancelant d'un coup⁎, & mourant luy-méme.*
+    PAGE. *Voyant son Ennemy chancelant d'un coup⁎, & mourant luy-méme.*.
 Tombe, traître, & m'attends à descendre là-bas [211],  
 Pour y continuer encore nos combats :  
 Que je regrette peu cette poitrine ouverte !  
@@ -3286,7 +3286,7 @@ Doncque la mort de l'un coûte à l'autre la vie ?
 Rends, traître, dans ton sang ma vangeance assouvie :  
 Pour te perdre…..  
 
-     SOLDAT *tombant.*
+    SOLDAT *tombant.*.
     Ah ! je meurs.  
 
     ORONTE.
@@ -3356,10 +3356,10 @@ Seul, confus, interdit, il écarte sa suite.
 LE ROY DE THRACE, DORAME.
 
 
-    ROY DE THRACE* commandant à ses gens de se retirer.*
+    ROY DE THRACE* commandant à ses gens de se retirer.*.
 Qu'autre [219] personne icy ne nous soit introduitte.  
 
-    DORAME *considerant le Roy, & parlant bas.*
+    DORAME *considerant le Roy, & parlant bas.*.
 Je ly dedans ses yeux quelque dessein⁎ caché ;  
 Je tremble, & sents au cœur un poison⁎ attaché ;  
 Ma veuë est égarée, & ma voix est pesante ;  
@@ -3375,7 +3375,7 @@ Sa blessure guerit, & la vostre est mortelle ;
 Dans cette affliction l'un par l'autre perit,  
 Vous portez sa douleur⁎ & son mal en l'esprit⁎.  
 
-    DORAME *parlant bas.*
+    DORAME *parlant bas.*.
 Autrement qu'on ne pense : ah ! ma crainte s'envole ;  
 D'un crime que j'ay fait je voy qu'on me console :  
 Reparons à ce coup⁎ mon esprit⁎ abbattu,  
@@ -3446,7 +3446,7 @@ Ce qu'on donne à sa vie on l'ajoûte à la mienne :
 Du Ciel & de vos soins⁎ faites que je l'obtienne ;  
 Qu'on le tire⁎ du lict par un effort⁎ nouveau.  
 
-    DORAME *parlant bas.*
+    DORAME *parlant bas.*.
 Ouy, je l'en tireray⁎, pour le mettre au tombeau.   
 
 
@@ -3454,7 +3454,7 @@ Ouy, je l'en tireray⁎, pour le mettre au tombeau.
 OLYMPE, ORONTE.
 
 
-    OLYMPE *voyant Oronte dans le lict.*
+    OLYMPE *voyant Oronte dans le lict.*.
 Voilà ce que vous coûte une amitié fidelle⁎ ;  
 Vous n'aviez rien de sainct ni d'aymable au prix d'elle [226] ;  
 C'est ainsi que Dorame a payé vos travaux⁎ ?  
@@ -3547,7 +3547,7 @@ Qui regarde étendu son Ennemy sur l'herbe.
 DORAME, OLYMPE, ORONTE.
 
 
-    DORAME *parlant à Olympe, qui s'avance vers luy.*
+    DORAME *parlant à Olympe, qui s'avance vers luy.*.
 Qu'Oronte doit aymer la main de l'Assassin,  
 Puis qu'il a pour guerir un si beau Medecin !  
 Que sa disgrace est douce ! & luy digne d'envie !  
@@ -3555,7 +3555,7 @@ J'acheterois ses coups⁎ du reste de ma vie ;
 Et si chacun pouvoit guerrir si doucement,  
 Je tiendrois mal-heureux qui n'a point de tourment⁎.  
 
-    [OLYMPE.]
+    [OLYMPE.].
 C'est donc à ce dessein⁎ qu'un Amy si perfide,  
 Afin de l'obliger⁎, s'est fait son homicide⁎ ?  
 Il vous doit la plus-part de ce bien⁎ pretendu,  
@@ -3565,7 +3565,7 @@ Sa perte à compliment, & son mal en risée [233] ?
 Ah ! ce coup⁎ qui vous rend insensible & mocqueur  
 Vous devroit fendre l'ame, & saigner dans le cœur.  
 
-    DORAME *tout surpris.*
+    DORAME *tout surpris.*.
 Hé Dieux ! que dittes-vous ?  
 
     OLYMPE.
@@ -3582,7 +3582,7 @@ Olympe, traitez moy…..
 D'un qui pour vous aymer a cette recompense,  
 Et ce lict, pour le prix de sa ferme amitié.  
 
-    DORAME *parlant bas.*
+    DORAME *parlant bas.*.
 Passons : elle a touché le faict plus de moitié.  
 Puis s'avanceant à Oronte, sans témoigner que les mots d'Olympe eussent porté dans son esprit⁎.
 
@@ -3596,7 +3596,7 @@ Avecque tous ses vœux⁎, le cœur qui vous est du.
     DORAME.
 On m'arracha le mien, quand on toucha le vostre.  
 
-    OLYMPE *parlant bas.*
+    OLYMPE *parlant bas.*.
 Il fait un personnage, & nous en cache un autre.  
 
     DORAME.
@@ -3617,7 +3617,7 @@ Rendant sur nos douleurs⁎ vos delices plus vrayes :
 Flattez, trompez Oronte, & recherchez la paix ;  
 Mais de pardon de moy, n'en esperez jamais.  
 
-     ORONTE *la voyant qui s'en va.*
+    ORONTE *la voyant qui s'en va.*.
 Revoquez cét arrest, cruelle, inexorable ;  
 Helas ! vous me perdez, m'estant trop favorable :  
 Faveur⁎injurieuse, acheve icy tes coups⁎ ;  
@@ -3667,14 +3667,14 @@ Prince…
     ORONTE.
         Rien qu'un mot, qui contente ma foy.  
 
-    DORAME* retournant.*
+    DORAME* retournant.*.
 Sois autant importun que traître, & temeraire ;  
 Et bien⁎, que diras-tu ?  
 Oronte tirant⁎ à Dorame son épée, pour s'en frapper.
 
         Mais Dieux ! que veux-tu faire ?  
 
-    ORONTE *tenant l'épée haute.*
+    ORONTE *tenant l'épée haute.*.
 Pour la derniere fois contre moy vous servir,  
 Et vous donner un cœur qu'autre n'a pû ravir :  
 Puis se la plongeant dans le corps.
@@ -3687,7 +3687,7 @@ Oronte luy tendant l'épée teinte de son sang.
 
 Tenez, et joüissez du fruict de vostre attente.  
 
-    DORAME *parlant bas.*
+    DORAME *parlant bas.*.
 Quoy doncque ? je me rends, & la pitié me tente ?  
 Non, quoy qu'il soit blessé, je ne suis pas vangé ;  
 Son bras qui l'a puni m'a plus desobligé [235],  
@@ -3700,13 +3700,13 @@ Voyez vostre mal-heur, & sa forcenerie [237] :
 Mon épée en ses mains, si quelqu'un ne la prend,  
 Sa rage aprés ce coup⁎ en medite un plus grand.   
 
-    ORONTE *se levant à moitié sur son lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
+    ORONTE *se levant à moitié sur son lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*.
 Allez, retirez-vous ; ou vienne le plus traître ;  
 Ce bras luy montrera qu'il se prend à son Maître ;  
 Auriez-vous oublié ce qu'encore je puis ?  
 Vivant j'ay paru tel, & mourant je le suis.  
 
-    DORAME *luy parlant à l'oreille.*
+    DORAME *luy parlant à l'oreille.*.
 Vous me l'apporterez doncque dessus la place  
 Où Lucidor connut sa honte, & vostre audace ;  
 Là je me vangeray du tort que l'on me fit.  
@@ -3714,7 +3714,7 @@ Là je me vangeray du tort que l'on me fit.
     ORONTE.
 Je vivray jusqu'alors,  
 
-    DORAME *s'en allant.*
+    DORAME *s'en allant.*.
     A demain.  
 
     ORONTE.
@@ -3774,7 +3774,7 @@ Perdant tout, il m'en reste une belle [240] à mourir.
 
 ### SCENE VI.
 
-    LUCIDOR *à ses Soldats*
+    LUCIDOR *à ses Soldats*.
 Jusqu'icy parvenus, une heure nous peut rendre  
 Où mon Pere & les siens ont pris jour à m'attendre ;  
 Amis ; ne soyons pas les derniers sur les lieux,  
@@ -3798,7 +3798,7 @@ Tirons⁎ nous à l'écart, Amis, voyons leur jeu.
 ORONTE, DORAME, LUCIDOR.
 
 
-    ORONTE *l'épée en main, & parlant à Dorame.*
+    ORONTE *l'épée en main, & parlant à Dorame.*.
 Donnez à la raison⁎ le reste de ce feu⁎  
 Que la colere allume en vostre ame trompée.  
 
@@ -3818,12 +3818,12 @@ Pour me plaire en effect⁎, venez, sans m'épargner.
 Dure loy⁎, qui m'oblige⁎ à perdre pour gagner !  
 Ma victoire consiste à me l'ôter moy-mesme.  
 
-    LUCIDOR [242] *les voyant au combat.*
+    LUCIDOR [242] *les voyant au combat.*.
 Ils combattent pour moy dans ce peril extréme ;  
 C'est ma Sœur, & Dorame ; ils me vangent sur eux,  
 Et ma haine s'acquiert ce qu'ils perdront tous les deux.  
 
-    DORAME *voyant qu'Oronte ne fait que parer.*
+    DORAME *voyant qu'Oronte ne fait que parer.*.
 Portez ; cette douceur en m'épargnant m'offence ;  
 
     ORONTE.
@@ -3834,7 +3834,7 @@ Tout ce qui s'est passé donnons le [243] à vostre erreur.
     DORAME.
 La plus grande ne fut que d'aymer un tel homme.  
 
-    ORONTE *parlant bas.*
+    ORONTE *parlant bas.*.
 La mienne est d'avoir feint d'estre ce qu'il me nomme.  
 
     DORAME.
@@ -3847,10 +3847,10 @@ Et mon bras, qui se plaint d'estre employé sur vous.
     DORAME.
 Le mien se plaint aussi d'une trop longue attente.  
 
-    ORONTE *se sentant presser.*
+    ORONTE *se sentant presser.*.
 Est-ce ainsi, furieux, qu'il faut qu'on vous contente ?  
 
-    DORAME *bléssé dans la jointure de la main, qui luy fait tomber l'épée.*
+    DORAME *bléssé dans la jointure de la main, qui luy fait tomber l'épée.*.
 Tu m'ôtes……  
 
     ORONTE.
@@ -3861,7 +3861,7 @@ Tu m'ôtes……
 Le mouvement du bras, & non celuy du cœur ;  
 Tu vois l'épée à toy, mais non pas mon courage⁎.  
 
-    ORONTE *de dépit du coup⁎ qu'elle a fait.*
+    ORONTE *de dépit du coup⁎ qu'elle a fait.*.
 Quoy ? serois-tu mon bras, aprés un tel outrage ?  
 Voyez mon cœur à vous, du mesme coup⁎ percé ;  
 Ah ! mon ame s'écoule en vostre sang versé.  
@@ -3870,14 +3870,14 @@ Ah ! mon ame s'écoule en vostre sang versé.
 Ce dernier trait⁎ m'abbat, ta douceur incroyable  
 Acheve ta victoire en m'estant pitoyable.  
 
-    ORONTE *le conduisant sous un arbre.*
+    ORONTE *le conduisant sous un arbre.*.
 Venez, & reposez vostre bras sur le mien.  
 
     DORAME.
 Que tu me fais de tort, en me faisant ce bien⁎ !  
 Plus douce m'est ta main, plus rude je l'essaye.  
 
-    ORONTE *aprés l'avoir assis sur l'herbe.*
+    ORONTE *aprés l'avoir assis sur l'herbe.*.
 Permettez que mes pleurs arrousent vostre playe ;  
 La vertu⁎ les appreuve ; & c'est un sang pieux  
 Que l'amitié, du cœur distille par les yeux ;  
@@ -3890,7 +3890,7 @@ Qui malgré ma fureur luy sont obéissants ;
 J'ay pris un autre cœur, autres yeux, autre bouche [244] ;  
 Oronte, est-ce bien⁎ vous ?  
 
-    LUCIDOR [245] *les surprenant.*
+    LUCIDOR [245] *les surprenant.*.
         Mais, perfide, est-ce toy,  
 Que le Ciel a puni par un autre que moy ?  
 Depuis ta trahison tu trainois ton supplice ;  
@@ -3912,7 +3912,7 @@ Helas ! qu'ay-je entendu ?
     DORAME.
 Une fille d'Oronte ? ô Dieux quel changement ?  
 
-    ORONTE *attaquant son Frere.*
+    ORONTE *attaquant son Frere.*.
 Ces mots t'ôtent la vie.  
 
     DORAME.
@@ -3928,7 +3928,7 @@ Croy qu'un Dieu de mes mains ne t'arracheroit pas.
     LUCIDOR.
 Furieuse, c'est trop, tu cerches⁎ ton trépas.  
 
-    DORAME *tandis qu'Oronte presse Lucidor, qui tâche de rabattre sa fureur sans se battre.*
+    DORAME *tandis qu'Oronte presse Lucidor, qui tâche de rabattre sa fureur sans se battre.*.
 O Dieux ! qui vit jamais une amitié pareille ?  
 Ce nouvel accident en accroist la merveille⁎ :  
 Elle attaque son Frere, & pour toy l'on se bat ;  
@@ -3964,7 +3964,7 @@ Puis jettant les yeux sur Lucidor.
 Mais quel bruit ? le voilà ; mon œil me le figure ;  
 Est-ce luy-mesme ? ô Dieux ! rendez faux mon augure.  
 
-    ORONTE *à Dorame.*
+    ORONTE *à Dorame.*.
 Quoy ? je combats pour vous, et vous m'en empéchez ?   
 
     DORAME.
@@ -3982,10 +3982,10 @@ Puis attaquant Oronte.
 Je vous soûtiens, mon Fils ; & le secours est promt :  
 Et quoy ? de vostre main je voy tomber les armes ?  
 
-    LUCIDOR *voyant son pere, laisse tomber son épée.*
+    LUCIDOR *voyant son pere, laisse tomber son épée.*.
 O Dieux !  
 
-    ORONTE *la laissant tomber de mesme.*
+    ORONTE *la laissant tomber de mesme.*.
         Je n'en ay plus contre luy que mes larmes,  
 Puis se jettant à genoux devant son pere.
 
@@ -4050,10 +4050,10 @@ Vous presente mon crime, afin de l'oublier ;
 Vostre amitié, mon Prince, est le seau de ma grâce⁎,  
 Permettez qu'à genoux Dorame vous embrasse.  
 
-    LUCIDOR *le recevant & le salüant.*
+    LUCIDOR *le recevant & le salüant.*.
 Que doy-je à la parolle & d'un Pere & d'un Roy ?  
 
-    ORONTE *d'aise, les voyant embrasser.*
+    ORONTE *d'aise, les voyant embrasser.*.
 Mon amitié triomphe.  
 
     DORAME.
@@ -4091,7 +4091,7 @@ Qui me fait admirer la force⁎ du destin.
 OLYMPE, LUCIDOR.
 
 
-    [OLYMPE.]
+    [OLYMPE.].
 Qu'Oronte est une Fille ? & Lucidor fidelle ?  
 Heureuse également l'une & l'autre nouvelle !  
 
@@ -4338,7 +4338,7 @@ Le Ciel accomplira nos lyens qu'il a faits.
 
 ### SCENE IV.
 
-    MELINDE *delivrée de prison par Gelandre.*< StancesPassage particulièrement lyrique, voir Introduction, partie sur « les formes de discours ».. >
+    MELINDE *delivrée de prison par Gelandre.*.< StancesPassage particulièrement lyrique, voir Introduction, partie sur « les formes de discours ».. >
 
 A quoy mes soûpirs et mes plaintes ?  
 Ce mal desesperé n'a plus de guerison ;  
@@ -4378,7 +4378,7 @@ Pourrois-je estre insensible ?…..
 GELANDRE, MELINDE, PAGE⁎.
 
 
-    GELANDRE *la surprenant.*
+    GELANDRE *la surprenant.*.
         Au dernier accident,  
 Qui m'a jetté par vous dans un gouffre evident ?  
 Tout est perdu, Melinde, ô trahison étrange⁎ :  
@@ -4428,7 +4428,7 @@ Icy l'on entend les Trompettes, & un page⁎ entre.
 
     O Dieux ! quel bruit ?  
 
-    GELANDRE. *Parlant au Page⁎.*
+    GELANDRE. *Parlant au Page⁎.*.
     Avance.  
 Puis parlant à Melinde.
 
@@ -4452,7 +4452,7 @@ La rendre ? ô Dieux ! c'est là que le destin me blesse.
     MELINDE.
 Obeissez, Gelandre, asseuré de mes feux⁎.  
 
-    GELANDRE*. Parlant au Page⁎*
+    GELANDRE*. Parlant au Page⁎*.
 Retournez sur vos pas, nous vous suivons tous deux.  
 Comme le Page⁎ s'en est allé.
 
@@ -4486,7 +4486,7 @@ Allons ; je suis à tout [260], sans peur & sans contrainte.
 LES ROYS DE PERSE, ET DE THRACE, OLYMPE, LUCIDOR.
 
 
-    LE ROY DE PERSE.* Adorant le Soleil* [261]* dans le Temple.*
+    LE ROY DE PERSE.* Adorant le Soleil* [261]* dans le Temple.*.
 Premier flambeau du Ciel, Ame de l'Univers,  
 Qui fait voir & qui voit tant de Peuples divers,  
 Soleil, dont les rayons sont au reste du Monde  
@@ -4500,7 +4500,7 @@ Grand Dieu, sois favorable à nos justes desseins⁎ ;
 Que tes plus doux rayons luisent sur nos Provinces,  
 Et joints d'affection ces Peuples & leur Princes.  
 
-    ROY DE THRACE.* Adorant le Dieu Mars.*
+    ROY DE THRACE.* Adorant le Dieu Mars.*.
 Reçoy les mesmes vœux⁎, qu'icy nous t'addressons,  
 Toy Pere de la guerre & de ses Nourissons,  
 Puissant Dieu des combats, que la Thrace revere ;  
@@ -4526,14 +4526,14 @@ Raconte à ses Trytons [263] nostre aise & nos amours.
 Dorame & Oronte viennent.
 
 
-    ROY DE THRACE* donnant sa fille en mariage à Lucidor.*
+    ROY DE THRACE* donnant sa fille en mariage à Lucidor.*.
 En presence des Dieux, dont le respect m'engage,  
 J'offre au Pere ma foy⁎, j'en donne au Fils le gage⁎.  
 
-    ROY DE PERSE *luy presentant son fils.*
+    ROY DE PERSE *luy presentant son fils.*.
 Mon amitie vous rend par un don⁎ mutuel…   
 
-    LUCIDOR* luy faisant la reverence.*
+    LUCIDOR* luy faisant la reverence.*.
 En mon obeissance un vœu⁎ perpetuel.  
 
     OLYMPE.
@@ -4547,7 +4547,7 @@ Que ta puissance, Amour, merite qu'on te louë.
 DORAME, ROIS DE PERSE ET DE THRACE, ORONTE, LUCIDOR, OLYMPE.
 
 
-    DORAME *à genoux devant le Roy de Thrace.*
+    DORAME *à genoux devant le Roy de Thrace.*.
 Sire, en faveur⁎ du bien⁎ qu'à ce jour il a fait,  
 Pardonnez à mes feux⁎ un amoureux effect⁎ ;  
 Mon crime dans la fin apporte ma deffense.  
@@ -4559,7 +4559,7 @@ Je ne puis estre heureux, & le voir affligé.
 Gelandre & Melinde viennent.
 
 
-    ORONTE* à genoux devant son Pere.*
+    ORONTE* à genoux devant son Pere.*.
 Mon erreur fit la sienne……   
 
     ROY DE PERSE.
@@ -4621,7 +4621,7 @@ Les Medes [268] sont soûmis desormais à vos loy⁎.
 Rends luy graces⁎, Amour ; ou prestes moy ta voix.  
 Ma Dame, en ce baiser…  
 
-    ORONTE *le baisant.*
+    ORONTE *le baisant.*.
         Nos ames sont unies.   
 
 
@@ -4629,7 +4629,7 @@ Ma Dame, en ce baiser…
 GELANDRE, MELINDE, ROY DE THRACE, DORAME, LUCIDOR, ROY DE PERSE, OLYMPE, ORONTE.
 
 
-    GELANDRE *parlant bas.*
+    GELANDRE *parlant bas.*.
 Que nos fautes, Melinde, ainsi ne sont punies !  
 
     MELINDE.
@@ -4638,7 +4638,7 @@ Ces miracles ne sont que pour les plus heureux.
     ROY DE THRACE* considerant ces Amants qui s'entresaluent*.
 J'ay de l'amour à voir ces Esprits⁎ amoureux.  
 
-    DORAME *salüant Lucidor.*
+    DORAME *salüant Lucidor.*.
 Eteignons toute haine en ce doux nom de Frere.  
 
     LUCIDOR.
@@ -4652,7 +4652,7 @@ Et nos contentements le tiendroient dans les fers⁎ :
 Melinde est en hôtage ; & tout veut qu'il obtienne  
 L'objét⁎ de vostre foy⁎ pour le prix de la sienne.  
 
-    GELANDRE *parlant bas.*
+    GELANDRE *parlant bas.*.
 O Dieux ! qu'ay-je entendu ? me feriez vous avoir  
 Un plaisir si parfait d'un si grand desespoir ?  
 
@@ -4663,11 +4663,11 @@ D'en refuser quelqu'un [269] je me treuve incapable.
     ROY DE THRACE.
 Du moins à cét effect⁎ nous les avons mandez.  
 
-    GELANDRE. *Se presentant avec Melinde.*
+    GELANDRE. *Se presentant avec Melinde.*.
 Les voicy, pour joüir de ces fruicts accordez :  
 Melinde, à front ouvert⁎ il leur faut rendre grâce⁎.  
 
-    MELINDE. *Se découvrant le visage qu'elle avoit tenu caché.*
+    MELINDE. *Se découvrant le visage qu'elle avoit tenu caché.*.
 Je suis à luy, mon Frere ; excusez cette audace ;  
 Montrez vostre courage⁎ à pardonner au mien,  
 Je treuve mon bon-heur en n'esperant plus rien :  
@@ -4684,7 +4684,7 @@ Comme en cét accident la fortune⁎ se jouë !
     ROY DE THRACE.
 Melinde ? approchez vous.  
 
-    DORAME. *Parlant à Gelandre, tandis que Melinde saluë les Roys.*
+    DORAME. *Parlant à Gelandre, tandis que Melinde saluë les Roys.*.
         Prince, à la fin j'avouë  
 Que le destin plus fort que mon ambition  
 A faict ceder ma haine à vostre affection :  
@@ -4716,7 +4716,7 @@ Ma flame est là cachée, on n'en voit que la moindre [271].
 Separons les, mon Frere, afin de les rejoindre.  < FIN. >
 
 
-# Lexique
+# Lexique.
 
 Liste des abréviations :
 
@@ -4727,7 +4727,7 @@ R : P. Richelet, *Dictionnaire François*, 1680.
 C : G. Cayrou,* Dictionnaire du français classique. « La langue du XVII*e* siècle »*, 2000.Avis : n.m.Réflexion, conseil.V. 287Nouvelles de ce qui se passe. FV. 1615Abord : n.m.Approche, arrivée. CV. 171, 1476Appas : n.m.Amorce, charme, ce qu'on emploie pour gagner ou pour attraper quelqu'un. C V. 112, 328, 578, 1325Appel : n.m.Cri qui se fait en la montre ou reveuë des troupes, lors qu'on veut connoistre ceux qui sont presents, ou qu'il les faut payer.V. 68Deffi ou provocation qu'on fait à quelqu'un pour se battre en duel. FV. 762, 782, 1024Artifice : n.m.Ruse, déguisement, fraude. CV. 114, 1018, 1170Avanture : n.f.Accident, ce qui arrive inopinément en bien ou en mal.V. 5, 554, 726Hasard, il se dit en particulier d'une bonne chance, d'une heureuse rencontre. CV. 554, 1031Bien : n.m.Au singulier, se prend pour bonheur, état heureux, joie, impression douce et agréable ;V. 6, 38, 103, 180, 237, 1069, 1206, l. 38, 1262, 1297, 1304, 1363, 1386, 1494, 1662, 1711, 2013, 2123, 2146, 2220, 2288, 2350Honneur, avantage, chance ;V. 114, 193, 841, 1037, 1113, 1279, 1884Richesse, fortune.V. 83, 248, 452, 524, 675, 1181, 1288, 1601, 1690, 1756, 1969, 2070, 2179Au pluriel, bonnes actions, bons offices, bienfaits, services ;V. 155Mérites, qualités.V. 2240Adv. Beaucoup, parfaitement ;V. 104, 194, 245, 314, 337, 366, 368, 410, 503, 582, 608, 677, 755, 786, 827, 844, 851, 855, 858, 873, 1318, 1373, 1495, 1531, 1596, 1636, 1790, 1819, 1894, 2015, 2169Prochainement.V. 132, 1451, 1619Malgré.V. 322, 1286, 1855Sinon, alors. CV. 777, 1105, 1778, 1939Blesser : vb.Frapper, toucher profondément, en matière d'amour, il est du style poétique, il se dit d'ailleurs avec ce sens très fort de tous les sentiments vifs ou tristes dont un homme peut être atteint. CV. 368, 817Cartel : n.m.Petit contenant un défi pour se battre, le lieu, la manière, le sujet, le jour et l'heure du combat. RV. 69, 284, 287, 675, 693, cartel de Dorame à Lucidor, 732, réponse au cartel, didascalie p. 79Cercher : vb.Chercher.V. 51, 111, 135, 589, 608, 784, 1033, 1079, 1241, 1268, 1319, 1429, 1639, 1911, 2050Charmant : adj.Qui plaist extraordinairement, qui ravit en admiration. FV. 59, 2216Charme : n.m.Signifie figurément attrait, appât, qui plaît extrêmement, qui touche sensiblement. CV. 402, 714, 824, 912, 1419, 1980, 2172, 2322Conjurer : vb.Se lier par serment avec d'autres ; se liguer. CV. 87, 1942Coup : n.m.Heurt, atteinte violenteV. 187, 283, 336, 338, 366, 375, 546, 547, 551, 592, 789, 801, 814, 925, 1084, 1132, 1272, 1344, 1443, 1537, 1545, 1634, 1651, 1697, 1706, 1715, 1747, 1751, 1762, 1791, 1796, p. 155 didascalie, 1879, 1901, 1919, 1948, 1983, 1991Acte frappant, imprévu, se dit aussi des actions héroïques, hardies et extraordinaires, soit en bien, soit en mal.V. 749, 1027, 1070, 1238, 1261, 1619, 1735, 2185Cette fois, pour cette fois, fois. C V. 1443, 1475, p. 124 didascalie, 1587, 1966, 2204Courage : n.m.Cœur, comme siège du sentiment ; passion, mouvement.V. 330, lettre, 1243, 1400Cœur, comme siège de la volonté ; affection, ardeur, zèle, sans idée de fermeté à braver le péril, la souffrance. C V. 86, 118, 133, 302, 517, 651, 718, 766, 903, 1061, 1072, 1078, 1156, 1310, 1314, 1483, 1877, 1889, 2356Couvert : adj.Dissimulé, caché. CV. 73, 116, 269, p. 21 didascalieCruel : adj.Qui ne respond pas bien aux cageolleries qu'on luy fait. FV. 23, 529, 697, 983, 1204, 1276, 1814Decevoir : vb.Tromper, sans idée de douce illusion détruite. CV. 67, 443Dessein : n.m.Détermination, décision, entreprise, résolution, conception, plan. CV. 51, 207, 214, 220, 230, 237, 319, 403, 591, 607, 621, 680, 1009, p. 78 didascalie, 1049, 1052, 1202, 1320, 1404, 1462, 1561, 1575, 1709, 1739, 1842, 1848, 2086, 2189, 2261, 2272Domter : vb.Subjuguer, se rendre maistre.V. 1147, 2323Il se dit figurément en Morale de l'esprit, des passions. FV. 17Don : n.m.Present, gratification.V. 80, 1696, 1771, 1970, 2047, 2072Se dit figurément des choses spirituelles.V. 1771, 1970, 2047, 2072Don mutuel : en terme de palais, est un don autorisé par les coustumes, que se font les conjoints par mariage de l'usufruit de tous leurs biens reciproquement pour en jouïr par celuy qui survivra sa vie durant. FV. 2285Douleur : n.f.Sentiment triste et fascheux qui blesse quelque partie du corps, et est ennemi de la nature.V. 435, 1529, 1584, 1719Se dit aussi des passions de l'ame, affliction d'esprit. FV. 16, 370, 468, 509, 533, 676, 790, 1209, 1307, 1351, 1355, 1742, 1827, 2176Droict : adj. n.m.Titre qu'on a pour posseder quelque chose ou y pretendre.V. 146, 185A bon droit : adverbial, pour dire avec raison, avec juste cause.V. 950, 1152Ce qui est juste, raisonnable, qui est établi par les loix, qui rend à chacun ce qui luy appartient. FV. 1104Ecu : n.m.Bouclier long, ovale et fait de cuir ou d'acier, que les Chevaliers et les hommes d'armes portoient lors qu'il combatoient. R P. 1 didascalie, p. 4 didascalie, v. 380, 404, p. 26 didascalie, p. 27 didascalie, 419, p. 30 didascalie, p. 33 didascalie, v. 488, p. 84 didascalieEffect : n.m.Acte, réalisation, manifestation, exécution de quelque chose.V. 46, 223, 233, 569, 618, 666, 794, 1224, l. 24, 1283, 1381, 1441, 1446, 1502, 1736, 1922, 2085, 2098, 2118, 2289, 2352En effet : En réalité, réellement.V. 372, 585, 744, 901, 1200, 1736, 1859Avoir réel, valeurs effectives, effet, et plus ordinairement effets au pluriel, se dit des biens des personnes. CV. 6, 388Effort : n.m.Action énergique ; effet puissant, violent, tout ouvrage produit par une action où on s'est éfforcé de faire tout ce qu'on pouvait. CV. 145, 188, 211, 299, 583, 856, 1200, lettre, 1548, 1569, 1619, 1643, 1663, 1916, 2039Emouvoir : vb.Exciter en parlant de choses morales. Exciter quelque mouvement, quelque passion dans le cœur, faire naître la colère, la joie, la tristesse, l'inquiétude, etc., aussi bien que la frayeur ou la pitié. CV. 83, 913, 977Escuyer : n.m.Ceux qui ont le soin, le gouvernement des chevaux du Roi, d'un Prince, d'un grand seigneur. CActeurs, p. 6 liste des personnagesEsprit : n.m.Au singulier, soufle, âme, au sens matériel ; dernier soupir.V. 344, 640, 1538Principe de nos idée, intelligence, inspiration, talent. Ce sens est très général, et il n'indique spécialement ni la vivacité piquante de l'intelligence, ni l'enjouement facétieux.V. 188, 192, 273, 836, 1191, 1683Principe de nos sentiment, cœur, sentiment.V. 113, 205, 509, 597, 804, 872, 1284, 1377, 1584, 1587, p. 141 didascalie, 1808, 1855, 1998, 2149Désir, dessein, intention.V. 1244Vie, énergie intellectuelle, intelligence, esprit.V. 1172Vie, énergie morale, sentiment, cœur, âme.CV. 19, 2078, 2087, 2337Esquiver : vb.Se sauver avec legereté et promptitude. FV. 64, 1045Estat : n.m.Royaume, Provinces ou estenduë de pays qui sont sous une même domination.V. 147, 940, 1188, 1425, 1565Signifie aussi la qualité, la nature et la constitution presente de quelque chose. FV. 447, 1665, 1725, 1739, 1899Etrange : adj.Ce qui n'est pas domestique, connu, ou fort familier.V. 273Hors des conditions où l'on vit habituellement, extraordinaire. Il se dit en particulier des malheurs extraordinaires, terribles, épouvantables. CV. 29, 357, 1057, 1126, 2194Faveur : n.f.Grâce qu'on fait à quelqu'un, bon office qu'on luy rend.V. 61, 83, 433, 823, 843, 1331, 1602, 1984, 2274, 2288Bienveillance d'un puissant, d'un supérieur, le crédit qu'on a sur son esprit.V. 107, 160, 173, 286, 819, 1164, 1181, 1472Approbation, estime.Se dit ordinairement en amour de ce qu'un maistresse accorde à celuy qu'elle aime.V. 947, 1110, lettre, 1349, 1676, 1747, 2044, 2050, 2142Adverbial, en faveur : en considération, à l'advantage. F P. 195 didascalieFeinte/Fainte : n.f.Desguisement, apparence, dissimulation, coup destiner à tromper. FV. 112, 200, 227, 271, 585, 866, 1170, 1737Fer : n.m.Se dit absolument d'une espée, et des armes.V. 334, 1136, 1328, 1464, 1515, 1740, 1920On appelle aussi absolument fers, les chaisnes, carcans et menottes qui servent à retenir les prisonniers et les esclaves.V. 1192, 1464, 2168En ce sens, il signifie figurément, esclavage, et se dit particulièrement en matiere d'amour. FV. 604, 927, 1121, 2345Feu : n.m.Se dit figurément en choses spirituelles et morales de la vivacité de l'esprit, de l'ardeur des passions.V. 320, 401, 563, 594, 632, 715, 876, 877, 891, 912, 917, 1400, 1418, 1492, 1564, 1750, 1852, 2017, 2159, 2214, 2232, 2256, 2289, 2307Feux de joye : feux d'artifices. FV. 2275Fidélité : n.f.Entretien des serments qu'on a faits, des paroles qu'on a données. FV. 302, 1199Fidelle : adj.Véritable. FV. 297, 803, 1645Force : n.f.Vigueur, santé du corps qui luy donne les moyens de porter de grands fardeaux, ou d'abatre et de renverser ce qui luy resiste.V. 125, 130, 885, 1124, 1245, 1397, 1482Necessité, contrainte.V. 793, 865, 1022, 1891, 2152Vertu, faculté naturelle de faire quelque chose.V. 826, 1964, 1995, 2258Se dit en morale d'une des quatre vertus cardinales, qui consiste en une grandeur d'ame et de courage qui donne la constance pour supporter les afflictions, ou l'audace pour entreprendre de grandes choses. Les especes de force sont la magnanimité, la mansuetude, la clemence, et la patience.V. 703, 815, 894Force ou à force, adverbial : beaucoup, d'une maniere abondante.V. 878, 909A la force : à l'aide, au secours. FV. 261Forcer : vb.Faire force à quelque chose, vaincre, dompter un sentiment, triompher d'une résistance morale. Contraindre, violenter.V. 405, 585, 787, 883, 1466Il se dit aussi d'une personne dont on fait fléchir le courage, dont on vient à bout moralement. CV. 149Fortune : n.f.Cas fortuit, hasard.V. 2244, 2362Destinée, ensemble de tout ce qui peut arriver de bien ou de mal à un homme, ce à quoi il est voué par le sort.V. 161, 1447, 2219Situation, élevée ou non, où l'on se trouve placé, condition où l'on est, sort, lot, obtenu en partage.V. 177Elévation, se prend aussi pour l'avancement et l'établissement dans les biens, dans les charges, dans les honneurs.C V. 109, 1187, 1471Foy : n.f.Confiance que l'on accorde aux personnes et aux choses, signifie aussi créance.V. 821, 1713, 1769, 1776, 2006, 2018Ce qui, dans les personnes, inspire confiance, assurance donnée par une personne, engagement, parole qu'on donne d'accomplir une chose, promesse de faire et d'accomplir quelque chose.V. 2006Fidélité à un engagement donné, honneur, conscience, sincérité, loyauté d'une personne.V. 99, 311, 340, 890, 972, 977, 1002, 1061, 1219, lettre, 1339, 1364, 1409, 1469, 1595, 1783, 1845, 1976, 1979, 2012, 2283, 2347Ce qui, dans les choses, inspire confiance, témoignage constitué par une chose, preuve, garantie. CV. 693Franchise : n.f.Sincérité tant en ses paroles qu'en ses actions. FV. 77, 1693Gage : n.m.Se dit aussi des témoignages ou assurances d'amitié. FV. 1602, 1673, 1685, 1992, 2283Gloire : n.f.Considération, honneur… estime, réputation qui procède du mérite d'une personne, sans idée éclatante célébrité.V. 294, 346, 353, 522, 698, 734, 1067, 1159, lettre, 1353, 1757, 1898Il se prend aussi quelque fois, en un sens plus matériel, pour l'éclat, la splendeur que donnent la grandeur, la puissance, etc. CV. 316, 378, 1163, 1413, 2125, 2215Glorieux : adj.Celuy qui a acquis de la gloire par son merite, par son sçavoir, par sa vertu, ou de ce qui donne de la gloire. FV. 136, lettre, 1412, 1603, 2124, 2245Grace : n.f.Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée.V. 106, 153, 1195, 1579, 1970, 1976, 2272Se dit des faveurs des Princes.V. 504, 846, 934, lettre, 1768Signifie aussi remerciement, et se dit le plus souvent au pluriel.V. 206, 932, 2354Signifie aussi la bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller qui plaisent aux autres. Plaisirs.V. 190, 328, 575, 911, 2024, 2053, 2072De grâce, adverbial : par faveur, par pitié, par courtoisie. FV. 1006Hazard : n.m.Cas fortuit, ce qui arrive sans cause apparente ou necessaire.V. 216, 248, 471, 1037Signifie aussi, peril, danger. FV. 133, 323Hazarder : vb.Risquer, mettre au hasard.V. 286Mettre en péril. FV. 1927Homicide : n.m.Meurtrier.V. 978, 1203, 1710Se met parfois en poësie adjectivement et sert d'epithete. FV. 12, 788, 810Honneur : n.m.Tesmoignage d'estime ou de soûmission qu'on rend à quelqu'un par ses paroles ou ses actions.V. 75, 304, 310, 1063, 1161S'applique plus particulierement à deux fortes vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes.V. 292, 340, 351, 523, 741, 761, 1546, 1683, 1916Se dit aussi de la chose qui honore, qui donne de la gloire. FV. 1063, 1068, 1074, 1107, lettre, 2074, 2260Honorable : adj.Qui est digne qu'on luy fasse de l'honneur, qu'on le respecte, qu'on le louë. FV. 309, 1070Honteux : adj.Qui a de la honte.V. 329, 2021Se dit aussi de ce qui manque de hardiesse.V. 1156Infamant. FV. 294, 309, 1670, 1791, 1901Image : n.f.Représentations artificielles que font les hommes, soit en peinture, ou sculpture. FV. 2, 408, 425, 489, 742, 1782Infidele : adj. n.m ou f.Ce qui ne garde point la foy, qui n'execute point les choses qu'il a promises ou jurées. FV. 101, 317, 1270Ingrat : adj. n.m ou f.Celuy qui n'a point de reconnaissance des bienfaits qu'il a receus, des bons offices qu'on luy a rendus. Peu officieux, peu courtois. FV. 317, 355, 360, 527, 793, 957, 978, 1148, 1252, 1350, 1650, 1752, 1823, 2212Licence : n.f.Il se dit le plus souvent en mauvaise part d'une liberté trop grande, et signifie dans l'usage ordinaire du monde : déréglement dans les mœurs, dans les actions, dans les paroles et dans toute la conduite de la vie. CV. 266, 1451, 1681, 2021Loy : n.f.Commandement qui vient d'une authorité superieure, auquel un inferieur est contraint d'obeïr.V. 973, 2078, 2090, 2332, 2368Se dit aussi de la differente police des Etats et des peuples, des maximes dont ils sont convenus, ou qu'ils ont receuës de leurs Magistrats pour vivre en paix et en societé.V. 1607, 2332En pays Coustumier signifie la coustume locale, et les loix particulieres par lesquelles une ville est gouvernée.V. 1098Se dit aussi de certaines Regles et principes fondammentaux Escrits ou non Escrits pour le gouvernement de l'Estat.V. 183, 219, 2092Se dit aussi d'une obeïssance volontaire qui fait qu'on se soûmet aux volontez d'autrui. FV. 100, 176, 276, 529, 532, 692, 1022, 1679, 1860Merveille : n.f.Phénomène étrange, hors de l'ordre commun, chose rare, extraordinaire, surprenante, qu'on ne peut guères voir ni comprendre, digne d'étonnement plutôt que d'admiration.V. 357, 505Il se dit parfois au singulier, de l'étonnement même, de la surprise.V. 194, 1913, 2102Phénomène surnaturel, accompli par une divinité, miracle. CV. 2299Meurtrir : vb.Blesser, faire une contusion.V. 1274, 1627Object/Objét : n.m.Ce qui est opposé à notre vue, ou ce qui se représente à notre imagination, vue, spectacle, aspect.V. 4, 400, 1016, 1115, lettre, 1338, 1516, 1578, 1602, 1660, 1700, 2216, 2347Se dit aussi poétiquement des belles personnes qui donnent de l'amour. CV. 17, 36, 59, 361, 369, 580, 754, 900, 1455Obliger : vb.Lier, enchaîner par un serment, par un service, etc.V. 109, 152, 226, 539, 547, 792, 854, 1108, 1223, lettre, 1302, 1341, 1675, 1710, 2078, 2170, 2292Lier par un arrangement, engager, inviter, prier. Signifie aussi exciter, porter quelqu'un à faire quelque chose. Il indique une pression morale, mais exercée par persuasion, par promesse, aussi bien que par force ou menace.V. 40, 634, 717, 756, 863, 974, 1341, 1414, 1717, 1860, 2143Obliger…de : Faire le plaisir de, signifie plus généralement faire quelque faveur, civilité, courtoisie. CV. 56Office : n.m.Service qu'on fait, qu'on rend à quelqu'un.V. 113, 306, 785, 1019, 1346Devoir de la vie humaine, de la société civile, tâche, rôle, fonction, etc. CV. 1529Ouvert : adj.Figurément, sincère, qui ne dissimule rien, vivacité, facilité à comprendre les choses, découvert. FV. 115, 125, 1049, 2354Page : n.m.Enfant d'honneur qu'on met auprès des Princes et des Grands Seigneurs pour les servir avec leurs livrées, et en mesme temps y avoir une honneste education, et y apprendre leurs exercices. F V. 1499, p. 124 didascalie, v. 1525, p. 125 didascalie, p. 126 didascalie, p. 180, p. 182 didascalie, p. 182, p. 183 didascaliesPaïs : n.m.On l'ecrit ordinairement Pays, plus pour l'ornement de l'écriture, que pour marquer qu'il est de deux syllabes ; et se dit des diverses regions, provinces et contrées de l'univers. FV. 31, 164, 183, 219, 1405Peché : n.m.Contravention aux commandements de Dieu. FV. 387, 392, 2051Pensée : n.f.Tout ce qui vient dans l'esprit, dans l'imagination, dans la mémoire, reflexion, délibération qu'on fait dans son esprit. FV. 121, 237, 273, 388, 613, 1091, 1162, lettre, 1467Penser : n.m.Pensée. FV. 19, 1381Poinct : n.m. Se prend aussi pour instant, moment, temps précis dans lequel on fait quelque chose.V. 139, p. 33 didascalie, 633, 1655, 2211Se dit aussi de l'état où sont la santé et les affaires d'un homme.V. 758, 1123Se dit aussi de ce qu'il y a de principal dans une affaire, dans une question, dans une difficulté. CV. 109, 189, 777, 904, 1020, 1292, 1792, 2340Poison : n.m.Ce qui a une si mauvaise qualité, qu'elle nuit au corps, ce qui le tuë.V. 120, 702, 1222, 1496, 1576Se dit figurément en choses spirituelles et morales. FV. 28, 702, 1222, 1496Raison : n.f.Explication d'un fait obscur, étonnant, etc. Se dit aussi de l'éclaircissement de quelque doute.V. 27, 746Choses raisonnable, convenable, suffisante, acceptable, se prend aussi pour tout ce qui est le devoir, de droit, d'équité, de justice. CV. 104, 119, 893, 1259, 1398, 1815, 1852, 1854, 1945Ressort : n.m.Moyen secret, sans nuance défavorable, ressource cachée, se dit encore des causes inconnues par lesquelles la nature agit.V. 107Moyen secret, avec nuance défavorable, machination, intrigue, se dit figurément en choses spirituelles te morales. CV. 864Secrét : n.m.Endroit secret, retiré, retraite, isolement, solitude.V. 195Partie secrète, fond, intimité.Choses secrètes, entretien particulier, tête-à-tête.V. 115, 137, 143, 234, 303, 864, 1012, 1056, 1217, 1591, 1657, 2213Qualité de l'homme secret, discrétion. CV. 805Secret : adj.Discret.V. 211, 916, 1495, 1891, 2152Se dit des personnes qui savent se taire et tenir une chose secrète. CSoin : n.m.Attention, application, attachement à une chose, sollicitude pour une personne, sans aucune idée d'effort et pénible ni d'inquiétude morale. Il se dit en ce sens au pluriel des attention, égards, marques d'attachement, etc., qu'on a pour une personne dans les relations d'intérêt ou d'amitié. Il se dit spécialement des assiduités, des hommages galants rendus à une personne que l'on aime.V. 89, 114, 523, 553, 1280, 1642, 2106, 2177Effort, peine, pour obtenir ou conserver une chose, tracas, charge, lourd devoir, précaution.V. 409, 2014Préoccupation, se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme. Il se dit spécialement dans le langage galant, des soucis d'amour, des inquiétudes de cœur. CV. 918Sort : n.m.Hasard, ce qui arrive fortuitement, par une cause inconnuë, et qui n'est pas reglée ni certaine.V. 55, 81, 399, 438, 448, 455, 463, 541, 560, 694, 870, 1036, 1148, 1197, 1220, 1688, 2240Se dit poëtiquement de la vie et de la fortune des hommes. FV. 47, 93, 172, 872, 1487, 1501, 1581, 1843Tirer : vb.Intransitif, Se tirer : se retirer, s'en aller, sortir, partir.V. 195, 240, 1122, 1548, 1851Se mettre en dehors, au-dessus, échapper.V. 1563Transitif, se diriger, tendre tout droit à, vers, etc., signifie aller, s'acheminer, et alors il est neutre, retirer, sortir. CV. 500, 542, 549, 754, p. 57 didascalie, 782, 843, 867, 1129, 1172, 1248, 1617, 1643, 1644, p. 144 didascalie, 1889, 2072, 2213Titre : n.m.Nom de dignité, ou de Seigneurie, qu'on donne aux personnes.V. 1066Se dit aussi du droit qu'on a de posseder quelque chose. FV. 146, 942Tourment : n.m.Se dit figurément en Morale, des peines et chagrins qu'on se donne soy-mesme, ou les uns aux autres. FV. 12, 667, 756, 813, 884, 994, 1100, 1354, 1708, 1812, 2123, 2208, 2372Trait : n.m.Se dit figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour.V. 94, 324, 367, 396, 567, 678, 912, 1075, 1097, 1204, 1225, 1329, 1881, 2103, 2124Se dit aussi des diverses parties et configurations du visage.V. 362Se dit aussi en quelques supplices, coups. FV. 438Trame : n.f.Se dit d'un complot secret, d'une trahison, d'une conjuration. FV. 202, 493, 1338, 1561Travail : n.m.Labeur, peine, fatigue du corps, danger, entreprise périlleuse.V. 1, 1471, 1994, 2366Il se dit au pluriel des actions, de la vie d'une personne, et particulièrement des gens héroïques.V. 409, 1647Peine de l'esprit : souffrance, épreuve, tourment.CV. 603, 989, 1192, 1245, 2344Traverse : n.f.Accident, contrariété, épreuve, affliction.V. 38A la traverse : se dit de ce qui survient inopinément, et en apportant quelque obstacle. CV. 165Tyran : n.m.Se dit aussi figurément en Morale, des désirs violents, du désordre de nos passions. FV. 131, 483, 557Vain : adj.Vide en parlant des choses. Il se dit surtout au figuré, de ce qui n'est qu'en apparence, qui trompe les yeux, n'a aucun fondement, ne repose sur rien. CV. 98, 268, 398, 425, 569, 651, 839, 855, 1072, 1154, 1189, 1206, 1207, 1284, 1418, 1464, 1553, 1685, 1691, 1776, 1831, 2115, 2248Valeur : n.f.Grandeur de courage, ardeur belliqueuse. FV. 111, 134, 299, 344, 1150, 1185, 1474, 1531, 1605, 2319Vertu : n.f.Energie, force, vigueur, tant du corps que de l'âme. Il se dit en particulier de l'énergie guerrière, du courage, de la vaillance.V. 74, 724, 1248, 1485, 1758, 1962, 2051Il se dit aussi de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite.V. 84, 894, 1094, 1116, lettre, 1887Il se dit au pluriel de toutes les qualités, entrant dans la composition de cette valeur morale, de ce mérite. CV. 797, 822, 1338, 1660, 1682, 2051Vœu : n.m.Promesse qu'on fait à Dieu, ou à quelque Saint ou Sainte de faire certaine chose.V. 2097, 2285Désir ardent, souhait.V. 136, 257, 281, 631, 859, 935, 1065, 1296, 1375, 1591, 1639, 1972, 2070, 2084, 2153, 2158, 2264, 2269Ce mot se dit en parlant d'amour, et signifie hommage. RV. 869, 979, 1728
 
 
-# Annexe 1 : François Colletet (le fils), La Muse coquette (1659), « Poeme Coquet de la Bouteille. »
+# Annexe 1 : François Colletet (le fils), La Muse coquette (1659), « Poeme Coquet de la Bouteille. ».
 
 Vous qui par le nectar de vos doctes merveilles (p. 144)  
 Adoucissez le ciel des plus fâcheux ennuis,  
@@ -5091,20 +5091,20 @@ Françoise Lesguillon
 Duchesne. Fieffé.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Autres œuvres d'André Mareschal*Mareschal*Les Feux de joye de la France sur l'heureuse alliance d'Angleterre et la descente des dieux en France pour honorer la feste de cette alliance, Paris
+## Autres œuvres d'André Mareschal.*Mareschal*Les Feux de joye de la France sur l'heureuse alliance d'Angleterre et la descente des dieux en France pour honorer la feste de cette alliance, Paris
 *Mareschal*Autres Œuvres poëtiques
 
 
 
-## Les sources de *La Sœur valeureuse**Boisrobert*Pyrandre et Lisimène, ou l'Heureuse tromperie
+## Les sources de *La Sœur valeureuse*.*Boisrobert*Pyrandre et Lisimène, ou l'Heureuse tromperie
 *Corneille*Les Métamorphoses d'Ovide. « Biblis changée en Fontaine »
 
 
 
-## Ouvrages sur André Mareschal et ses œuvresPays Lorrain
+## Ouvrages sur André Mareschal et ses œuvres.Pays Lorrain
 *Colletet*La Muse coquette : contenant Le Songe amoureux, Les Amours de Dame Michelette, Plainte sur l'Absence de Philis… et plusieurs autres vers d'amour et de galanterie
 *Durel*L'œuvre d'André Maréchal, auteur dramatique, poète & romancier de la période de Louis XIII
 *Forestier*Littératures classiques, « L'épître en vers au XVII*e* S. »
@@ -5113,7 +5113,7 @@ Duchesne. Fieffé.
 
 
 
-## Ouvrages généraux sur le genre et la période*Baby,*La tragi-comédie de Corneille à Quinault
+## Ouvrages généraux sur le genre et la période.*Baby,*La tragi-comédie de Corneille à Quinault
 *Corneille*Mélite
 *Corneille*Théâtre
 *Forestier*Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
@@ -5131,29 +5131,29 @@ A History of French Dramatic Literature in the seventeenth Century
 
 
 
-## Ouvrages sur la langue du XVII*e* siècle
+## Ouvrages sur la langue du XVII*e* siècle.
 
 
-### Dictionnaires*Cayrou*Dictionnaire du français classique. La langue du XVII*e* siècle
+### Dictionnaires.*Cayrou*Dictionnaire du français classique. La langue du XVII*e* siècle
 *Furetiere*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Richelet*Dictionnaire françois contenent les mots et les choses, plusieus nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
 
 
 
-### Syntaxe*Haase & Obert*Syntaxe française du XVII*e* siècle
+### Syntaxe.*Haase & Obert*Syntaxe française du XVII*e* siècle
 *Sancier-Château*Introduction à la langue française du XVII*e* siècle
 
 
 
-### VersificationEléments de métrique française
+### Versification.Eléments de métrique française
 
 
 
-### Ouvrage sur la mythologie*Hamilton*La Mythologie ses dieux, ses héros, ses légendes
+### Ouvrage sur la mythologie.*Hamilton*La Mythologie ses dieux, ses héros, ses légendes
 
 
 
-## Ouvrages bibliographiques*Arbour*L'ère baroque en France, répertoire chronologique des éditions de textes littéraires
+## Ouvrages bibliographiques.*Arbour*L'ère baroque en France, répertoire chronologique des éditions de textes littéraires
 *Brunet*Table des pièces de théâtre décrites dans le Catalogue de la bibliothèque de M. de Soleinne
 *Cioranescu*Bibliographie de la littérature française du dix-septième siècle
 *Lachevre*Bibliographie des recueils collectifs de poésies publiés de 1597 à 1700

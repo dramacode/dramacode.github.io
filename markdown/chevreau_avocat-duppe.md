@@ -16,7 +16,7 @@ A PARIS, **Chez *Toussaint Quinet*, au Palais, dans la petite salle, sous la mon
 Édition critique établie par Audrey Maratra dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2010-2011)
 
 
-# Introduction
+# Introduction.
 
 « Comédie : Poëme dramatique, piece de theatre representant quelques actions de la vie humaine qui se passe entre des personnes privés. » .
 
@@ -25,10 +25,10 @@ Dictionnaire de l'Académie Française, 1*re* édition, 1694.
 Quiproquos et imbroglios : duper un avocat n'est pas de tout repos. Mais duper un amant est divertissant sachant que celui-ci se comporte comme un pédant. Déguisements et travestissement sont autant de prises de risque pour faire fléchir ce fameux avocat qui se retrouve, malgré lui, prit dans un jeu galant et comique. Chevreau imagine une pièce plaisante autour d'un avocat qui se place en parfaite antithèse face à la duperie qu'il est sensé maîtriser. L'ironie, c'est qu'il se verra confier, dix ans plus tard, la charge d'avocat après avoir reçu sa licence en 1647. Par la suite, il n'hésitera pas à dénigrer son théâtre comme une erreur de jeunesse, mais cette comédie plaisante peut être rapportée à son humeur libre et enjouée que ses contemporains lui connaissaient.
 
 
-# L'auteur
+# L'auteur.
 
 
-## Sa jeunesse
+## Sa jeunesse.
 
 Urbain Chevreau, fils d'Antoine Chevreau, peintre et vitrier, et de Suzanne Delarue ou Rue, est né à Loudun. Les avis divergent sur le jour de sa naissance, mais grâce au médaillon qui orne le *Chevreana*, où il est lui-même représenté avec sa date de naissance inscrite en latin, Gustave Boissière a démontré que par rapport au calendrier latin, qui a jusque-là été mal interprété, Chevreau est né en avril, le 20 [1]. Cette date est également la référence de Lancaster [2]. Les chercheurs ont toujours cru qu'il était natif du mois de mai sans prendre en compte la façon des anciens de compter les jours. De plus, son acte de baptême est daté du lendemain par le prêtre René Lemousnier.
 
@@ -42,7 +42,7 @@ Chevreau fît une partie de ses études à Poitiers. Il fut bachelier et licenci
 … j'ai regardé avec beaucoup de réflexion les incommodités inséparables du mariage et, n'ayant pu m'en accommoder, j'ai pris ce parti, dont je me trouve parfaitement bien [4].
 
 
-## Les pérégrinations de Chevreau
+## Les pérégrinations de Chevreau.
 
 Chevreau a beaucoup voyagé au cours de sa vie et particulièrement de 1653 à 1675. Sa correspondance est un outil précieux pour savoir où il se trouvait et à quel moment ; ainsi, nous pouvons en déduire un itinéraire.
 
@@ -57,7 +57,7 @@ En 1665, Chevreau traversa l'Allemagne en allant à Celle, puis dans le Hanovre 
 Cependant, Chevreau qui s'ennuyait encore à Heidelberg, décida de revenir à Paris en passant par Munich, à la fin de l'année 1675. L'incendie du Palatinat par Turenne en 1674, avait dû précipiter son départ. Chevreau déclara lui-même être resté treize ans en Allemagne. À la suite de ses longues années passées à l'étranger ou à voyager, Chevreau revient dans sa ville natale, pour y goûter un repos bien mérité.
 
 
-## Sa retraire à Loudun
+## Sa retraire à Loudun.
 
 Il revint en 1676, en France et à Loudun, où il restera jusqu'à sa mort le 15 février 1701, à l'âge de quatre-vingts ans.
 
@@ -73,7 +73,7 @@ Je fais plus d'état de six anémones et de six tulipes bien panachées que de t
 Cependant, le « bourgeois du monde » devenu « l'ermite de Loudun » ne se lassait pas de la société, et continuait à entretenir des liens avec ses amis. À sa mort, le *Mercure galant* écrira que Chevreau était « l'un des plus doctes et des plus profonds hommes qui aient paru dans le *xvii*e** siècle, quoiqu'il ait été fécond en grands personnages » .
 
 
-## Ses œuvres
+## Ses œuvres.
 
 Chevreau est un auteur complet dans le sens où il touche à toute la littérature : traductions, poésies, romans, théâtre, observations, il se mêle de tout et démontre ainsi son caractère enthousiaste vanté par *La République des Lettres*.
 
@@ -91,7 +91,7 @@ Quant à ses pièces de théâtre, il les rédiga dans sa jeunesse, probablement
 Graces au Seigneur, il y a longtemps que je ne suis plus entêté de l'amour propre, qui dans ma jeunesse m'a fait passer d'assez bonnes heures quand je me prenois pour un autre : et j'en fus gueri quand je commençai à me connoître et à me servir de ma raison [9].
 
 
-# La comédie au *xvii*e** siècle
+# La comédie au *xvii*e** siècle.
 
 Le genre de la Comédie entre les années 1632 et 1642 est négligé dans le sens où le public ne se lasse pas des traditions latines et de la farce. De plus, la Comédie est assimilée à l'idée des types traditionnels que sont les personnages de pédants, de valets, de soldats fanfarons ou encore de nourrices et d'entremetteuses : « lorsqu'il assistait à une scène d'observation plaisante et délicate, il ne comprenait pas que la comédie c'était précisément cela » [10]. Néanmoins, la pastorale et la tragicomédie n'hésitent pas à mettre des éléments comiques qui poussent la comédie à se renouveler. La comédie d'intrigue et celle de mœurs essaient peu à peu de se dégager de la tragicomédie romanesque. Chevreau se place du coté de la comédie d'intrigue de part les quiproquos entre les personnages. Cette pièce semble avoir été jouée à l'Hôtel de Bourgogne en 1637 [11]. Elle semble avoir eu un succès suffisant pour être réimprimée l'année suivante, en 1638. Néanmoins les critiques du *xviii*e** siècle ont contribué à faire oublier cette pièce ; le commentaire des frères Parfaict va dans ce sens :
 
@@ -100,10 +100,10 @@ Le genre de la Comédie entre les années 1632 et 1642 est négligé dans le sen
 Son titre, pourtant, attire la curiosité du spectateur dans le fait qu'on se demande dans quelle mesure un avocat pourrait se faire duper : c'est en effet, une de leurs caractéristiques, de duper les jurés et la Cour, mais ils se font rarement duper à leur tour. La première scène de l'acte I met en évidence, avec la tirade d'Atalante sur les avocats, le fait qu'ils savent duper tout le monde (vers 64 à 93) . Dans sa tirade, Atalante met en relief les faits détestables des avocats : leur pédanterie dans leurs explications savantes, dans lesquelles ils emploient des termes, plus techniques les uns que les autres, pour montrer leur savoir, ou encore dans leur manière d'être, qui requiert une exigence qui découle de leur pédanterie. Rien n'est suffisant pour eux, et leurs charges les mettent en position de décideur et de maître, dans le sens qu'ils symbolisent une nouvelle classe, celle de la bourgeoisie mise en avant par le pouvoir : les avocats symbolisent une réussite, par l'étude et le savoir, qu'il n'hésite pas à mettre en avant. Cependant, Chevreau ne choisit pas un avocat comme dupe, mais le jeune-homme vaniteux et sot qui incarne la charge d'avocat : c'est dans cette configuration, que notre auteur met en place l'intrigue de sa comédie, même si la comédie des années 1630 reste en retrait par rapport à la tragi-comédie, qui inclue des éléments comiques au sein de ses intrigues.
 
 
-## La peur du rire
+## La peur du rire.
 
 
-### Un phénomène mécanique et un égarement psychologique
+### Un phénomène mécanique et un égarement psychologique.
 
 Au *xvii*e** siècle, la question du rire est importante pour l'insertion de la comédie au théâtre : elle ne peut acquérir la reconnaissance des « honnêtes gens » puisqu'elle est d'un point de vue aristotélicien, une partie du laid :
 
@@ -130,7 +130,7 @@ Mais outre ces études sur un rire mécanique lié à l'esprit, c'est le rire in
 Le rire est la jonction entre la mécanique du corps et de l'âme : la jonction entre la bassesse corporelle et la hauteur de l'esprit ; la comédie doit se placer dans ce même système du rire, à l'intervalle entre la farce basse et la noble tragédie.
 
 
-### Distinction de goût
+### Distinction de goût.
 
 Ainsi le goût des honnêtes gens se définit par un rejet catégorique de ce qui fait rire aux éclats, pour un rire modéré et réglé, par la retenue ainsi que la discrétion; on rejette donc le rire populaire, jugé trop débridé et sauvage. Comment la comédie est-elle perçue par cette société à « deux vitesses » , l'une populaire habituée aux débordements de la farce, l'autre voulant adhérer à une nouvelle comédie joyeuse purgée d'un rire débridé et vulgaire ?
 
@@ -151,10 +151,10 @@ Une intrigue entre personnages de petite condition, finissant heureusement, enti
 La comédie doit également faire face aux deux tentations qui sont celle du « naturel » et celle de la « gratuité irréaliste et de la fantaisie sans frein » . La première se caractérise par le rapport au « bas-corporel » et se manifeste dans des éléments de types farcesques : c'est ce qui déplait aux contemporains, qui juge que les mœurs au théâtre doivent être « décentes et instructives » , comme le dit La Bruyère, qui remet en cause le familier des pièces de théâtre. Quand à la « gratuité irréaliste et la fantaisie sans frein » , il s'agit de critiquer la débauche d'événements romanesques au théâtre, et notamment, ceux inspirés des tragicomédies, dont la comédie veut se distinguer. L'idéal de la comédie se situe entre ces deux tentations : des éléments farcesques sans trop tirer sur le vulgaire, et une intrigue sans trop de détails romanesques. La comédie devient par toutes ces restrictions « un art du comportement » [22] : elle se rapporte alors au principe aristotélicien de l'imitation, puisqu'il s'agit d'observer les mœurs pour les rendre sur scène d'une façon la plus comique possible, c'est-à-dire en privilégiant les manies d'une manière risible, par l'intermédiaire de type, qui mettent d'autant plus en relief ces agissements comiques. La comédie doit se placer sur le même point que la tragédie : elle doit être sujette à un rire noble.
 
 
-## Chevreau et la comédie
+## Chevreau et la comédie.
 
 
-### Une codification du rire
+### Une codification du rire.
 
 La dramaturgie classique se codifie petit à petit. Dans un premier temps, chaque genre va devenir spécifique et va respecter un nombre de règles prédéfinies. Dans un deuxième temps, c'est le théâtre qui va se réglementer : les pièces devront être régies selon des unités, les trois unités connues aujourd'hui (unités de lieu, de temps, et d'action) . Ces règles se placent dans un système fondé sur le plaisir : pour certains doctes, c'est la régularité du théâtre et son entrée dans une forme donnée qui amènent le plaisir du spectateur. Au contraire, d'autres mettent en avant le fait que les règles sont des obstacles au plaisir. Mais elles finissent par s'imposer au spectacle au nom du plaisir. La comédie ne va pas y échapper et au début du siècle, les dramaturges essaient de s'y résoudre. Chevreau également va tenter d'y faire correspondre sa comédie.
 
@@ -236,7 +236,7 @@ Polydas essaie de cacher ce sonnet à sa sœur Flaminie, qui veut le lire : il 
 De plus, Chevreau place des sentences dans sa pièce, que l'on reconnait aux guillemets ouverts : la sentence ne se rencontre que dans les pièces sérieuses, et elle s'inscrit dans la fonction du divertissement, qui est l'apprentissage. Mais elle peut également, être une sorte de parodie des sentences tragiques, prononcées par des personnages enjoués.
 
 
-### Forme et finalité de l'intrigue de *L'Avocat dupé*
+### Forme et finalité de l'intrigue de *L'Avocat dupé*.
 
 Cette comédie est assimilable à la comédie humaniste. En effet, le renouveau dramatique initié par les auteurs de la Pléiade, ainsi que les influences de la comédie italienne dirigent la comédie humaniste, vers une comédie d'intrigue « où l'accent est mis sur l'agencement complexe de situations piquantes, de péripéties inattendues qui font rebondir l'action et tiennent l'attention en éveil. » [27]. La comédie humaniste se caractérise par des sujets qui se passent en France, avec des personnages français ; l'action se déroule donc à Paris, à Orléans ou à Poitiers. Les allusions à l'actualité sont intégrantes à l'intrigue, et les types représentatifs d'un métier ou d'une catégorie sociale sont tournés en dérision. De plus, elle esquisse la définition du *xvii*ème** siècle qui met en évidence le milieu bourgeois et familial de la comédie. Le thème le plus souvent évoqué, est celui de la question d'argent : la subtilité de Chevreau en ce qui concerne ce thème, est de le traiter de façon différente. En effet, dans la comédie humaniste, il est question d'argent quand le mariage est évoqué, c'est un contrat dont les parents veulent tirer le plus d'avantages ; dans notre pièce, c'est la future épouse qui espère en tirer le meilleur profit. Cependant ce profit est indissociable des sentiments, Chevreau lui donne un trait positif car, même si les jeunes femmes cherchent à se marier pour des questions financières, elles ne laissent pas les sentiments de côté : Atalante, au début de la pièce, n'aime pas les avocats, puis elle se laisse finalement charmer par Polydas. La question financière lance l'intrigue sentimentale. Chevreau construit sa pièce sur l'héritage des comédies humanistes, sans oublier d'inscrire ses personnages dans sa propre époque. Sa comédie, comme la comédie humaniste, développe chez le spectateur un plaisir de l'intelligence. Ce plaisir, provoqué par la comédie d'intrigue, est ainsi éveillé par les situations, les déguisements ou encore les quiproquos : le personnage du meneur de jeu, ne fait pas rire en lui-même mais, rend le spectateur conscient de la distance qu'il existe entre lui et les différents personnages. C'est le rôle d'Isidore qui se sort de toutes les situations et qui rend le mariage final possible. Elle est l'héritière du rôle du fourbe, décrit par Madeleine Lazard, dans son ouvrage sur la comédie au *xvi*e** siècle :
 
@@ -270,10 +270,10 @@ Cependant Chevreau, en partant d'un sujet qui semble sans véritable importance,
 La pièce est un divertissement qui se retrouve dans son écriture même : Chevreau y ajoute un sonnet, des stances, des déguisements et un travestissement qui enchantent le public, même si l'intrigue reste légère. De plus, Chevreau aborde des thèmes débattus dans les Salons galants comme, par exemple, quand Polydas fait référence au cocuage à la scène 3 du premier acte et la question de l'amour jaloux : « N'aimer pas comme moi, c'est n'aimer rien qu'un peu. » (vers 271) ; question qui est longuement débattue pour savoir de qui, de l'amoureux « normal » ou du jaloux, aiment le mieux, thème également récurrent, que l'on retrouvera plus tard chez Molière.
 
 
-## Personnages et jeux d'apparences
+## Personnages et jeux d'apparences.
 
 
-### Les différents types
+### Les différents types.
 
 Les personnages de cette comédie sont directement inspirés des types de la comédie humaniste du *xvi*e** siècle : ils appartiennent à la bourgeoisie. En effet, on peut retrouver ainsi le personnage du jeune amoureux dans la société, que l'on peut rapprocher de Polydas. Il est caractérisé par son inactivité, ou par une profession dont il n'est presque jamais fait référence au cours de la pièce, excepté au début : même eux s'en désintéressent provisoirement, au contact de l'amour qui les absorbe. On peut également noter, qu'il est habitué à la richesse et est vaniteux face à son profit.
 
@@ -348,7 +348,7 @@ Tharzinte →    Mainalte →     Polydas
 Isidore symbolise la passion, l'entreprise, le stratagème et surtout l'action ; Flaminie est un cran en dessous d'elle, elle est dans l'action mais moins impliquée, et Atalante est dans la retenue, elle ne se jettera dans l'action qu'à la fin de la pièce. Le schéma est également le même pour les hommes : Tharzinte est jeune et plein de fougue, Mainalte est un peu plus désenchanté et Polydas ne fait preuve de bravoure qu'avec beaucoup de retenue. Ce système de personnages permet d'explorer plusieurs facettes à la fois tout en gardant une certaine homogénéité.
 
 
-### Déguisements et travestissement
+### Déguisements et travestissement.
 
 Chevreau fonde sa pièce sur le travestissement d'Isidore en clerc sous le nom de Sicandre. En effet, Sicandre va s'introduire chez Polydas, pour favoriser les amours de sa sœur, en influençant ce dernier sur ce qu'il doit faire ou ne pas faire. Chevreau joue sur les valeurs du travestissement, et va jusqu'à un point d'ambiguïté important en faisant que Flaminie prenne Sicandre pour un homosexuel, alors qu'Isidore essaie tant bien que mal de se sortir de cette situation embarrassante.
 
@@ -411,15 +411,15 @@ Les filles desormais ne nous charmeroient pas. (Acte IV, scène IX)
 Tharzinte joue considérablement sur les différences de sexes que Sicandre/Isidore rend ambiguës, par sa beauté en tant que femme travestie en homme, mais aussi en homme rivalisant de beauté avec la femme. La référence à la période de la Grèce Antique avec l'importance des mythes reflétant le monde des Hommes, met en évidence cette ambiguïté de sexe, puisque l'homosexualité était reconnue et non dénigrée par ces contemporains.
 
 
-# Conclusion
+# Conclusion.
 
 Chevreau joue avec les conventions et essaie d'inscrire sa pièce dans son époque en se rapportant aux mœurs et aux règles. Cette comédie ouvre le pas sur un nouveau « genre » de comédies plus érudites et faites pour l'élite constituée des honnêtes gens qui déterminent le goût du siècle. Il s'inscrit également dans la lignée des dramaturges du *xvi*e** siècle, et de la comédie humaniste : il réagence les types de personnages et tente de faire œuvre nouvelle en jouant sur les sujets comiques, en les détournant. Cette nouveauté d'esprit le place au début d'une nouvelle ère de la comédie, à l'intervalle entre un héritage et son époque : réaliser la jonction entre les deux, est ce que fait Chevreau dans cette pièce, son unique comédie. Chevreau touche aux prémices de la grande comédie de fin de siècle.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation et description de l'ouvrage
+## Présentation et description de l'ouvrage.
 
 L'édition sur laquelle nous avons travaillée est la suivante : Paris, chez Toussainct Quinet, in 4°, achevé d'imprimer le 30 septembre 1637, imprimeur Claude Prud'Homme, dédié au vicomte de Scudamore (1607-1671) , ambassadeur britannique en France.
 
@@ -454,7 +454,7 @@ L'ADVOCAT / DUPPÉ. / COMEDIE. / Fleuron du libraire / A PARIS, / Chez TOUSSAINC
 Une nouvelle émission de l'édition chez Toussainct Quinet avec le même imprimeur, Claude Prud'Homme, a paru en 1638. Nous pouvons également noter que la même année, une contrefaçon caennaise a été publiée (« sur l'imprimé chez Toussainct Quinet » ), in-8º par ½ feuille par Jacques Mangeant. Le texte reste identique dans cette édition.
 
 
-## Rétablissement des β en ss
+## Rétablissement des β en ss.
 Paβé = passé | v. 188, 449.
 Neceβêre = necessêre | v. 371, 912, 921.
 Laiβez = laissez | v. 1202.
@@ -464,7 +464,7 @@ Bleβé = blessé | v. 1494.
 
 
 
-## Coquilles relevées et corrigées dans le texte de la pièce
+## Coquilles relevées et corrigées dans le texte de la pièce.
 Épitre | Lequel vous *vons* estimeriez | Et s'il *c'*est treuvé | l. 18 | l. 23
 Au lecteur | Se faire jour aux *entteprises* d'une fille | l. 4
 Argument du premier acte | en méme temps *quelles* se proposoient | l. 2
@@ -504,7 +504,7 @@ Acte V, scène 5 | J'aflige *égalemenc* Polydas et Tharzinte, | v. 1578
  * – « treuver / trouver » et « preuver / prouver » sont des doublets linguistiques encore très usités au début du siècle.
 
 
-## Rétablissement des dénasalisations « ã, õ, ẽ »
+## Rétablissement des dénasalisations « ã, õ, ẽ ».
 dõne | l. 12 (épître) | biẽ | v. 149
 recõmandable | l. 13 (épître) | lontẽps | v. 153, 378
 courõne | l. 13 (épître) | Dãtelle | v. 162
@@ -533,7 +533,7 @@ cõtraindre | v. 149 | Hõte | v. 1370
 
 
 
-## Corrections apportées à la ponctuation
+## Corrections apportées à la ponctuation.
 Acte I, | scène 1 | Que le sort est ingrat à celles qui n'ont rien, | v. 3 | Point d'exclamation à la place de la virgule.
 Acte I, | scène 1 | Que le monde la fuit à l'égal de la peste, | v. 6 | Remplacement de la virgule par un point.
 Acte I, | scène 1 | Et ne nous pas aimer c'estoit commettre un crime | v. 26 | Ajout d'un point.
@@ -751,7 +751,7 @@ S'il vous voit un moment, forcez-le de se rendre,
 Joüez de la prunelle, et dans vostre entretien⁎  
 Soyez de bonne humeur⁎, ne luy refusez rien.  
 
-     ATALANTE.
+    ATALANTE.
 J'en feray mon Amant⁎, un sous-ris, une œillade      
 D'un qui sera bien sain en peut [58] faire un malade.  
 Je fais ce que je veux, un geste seulement  
@@ -778,11 +778,11 @@ Laissez faire le reste, et vous serez contrainte
 Quand nous aurons tout fait de bannir vostre crainte :  
 Mais il faut de l'argent.  
 
-    ATALANTE
+    ATALANTE.
         Tout nous vient à propos,  
 Voy nostre Curateur [60] d'où dépend mon repos⁎.  
 
-    ISIDORE
+    ISIDORE.
 Il faut bien en avoir, nous l'y sçaurons contraindre,  
 Pour en tirer de luy, nous n'avons qu'à nous plaindre.  
 
@@ -1085,7 +1085,7 @@ D'où la connessez-vous ? Tout le monde la vante.
     SICANDRE.
 Je la voi tous les jours, ma Sœur est sa servante.  
 
-    POLYDAS
+    POLYDAS.
 à sa Sœur.
 
 Tirons-nous à l'écart.  
@@ -1445,7 +1445,7 @@ Je l'aime comme toi.
         Je te dis mon secret,  
 Et si c'est t'ofenser, je t'ofense à regret.  
 
-    THARZINTE. [101]
+    THARZINTE. [101].
 Tu viens de prononcer ta sentence funeste⁎,  
 Ton mal-heur ou le mien est ici manifeste.  
 Elle ne peut d'un coup épouser qu'un mari,  
@@ -1503,7 +1503,7 @@ POLYDAS, FLAMINIE, SICANDRE, MAINALTE, THARZINTE, CALLIANTE, ATALANTE.
 
 ### SCENE PREMIERE.
 
-    POLYDAS
+    POLYDAS.
 dans son cabinet, où il lit sur sa table ces vers qu'il a fait pour Atalante.
 
 
@@ -1678,7 +1678,7 @@ Il faut le caresser en faveur d'Atalante,
 Et tacher : le voila, faisons-luy bon accueil,  
 Sa presence ma Sœur vient d'acroistre mon dueil.  
 
-    SICANDRE 
+    SICANDRE. 
 arrive.
 
 Quelqu'un vient maintenant de frapper à la porte.  
@@ -1751,7 +1751,7 @@ A ton occasion j'en prendrai la creance [111],
 Et je m'estimerai pourveu que mon amour  
 Oblige ton esprit à me faire la cour.  
 
-    SICANDRE 
+    SICANDRE. 
 (Sicandre dit ceci bas.)
 
 O Ciel je n'en puis plus ! Je me voi découverte !  
@@ -1992,7 +1992,7 @@ Et que par ce moien je cherche ton profit.
 J'aime plus un ami que toutes les richesses,  
 Et pour en avoir un je perdrois cent Maitresses.  
 
-    MAINALTE 
+    MAINALTE. 
 à Tharzinte.
 
 Je te donne Isidore, et je perdrai le jour  
@@ -2006,7 +2006,7 @@ Pour te considerer sans en avoir pitié.
 Adieu je te la quitte à dessin que l'on sçache  
 Qu'une telle amitié ne reçoit point de tache.  
 
-    MAINALTE. [116]
+    MAINALTE. [116].
 Si tu le vois jamés punis sa lacheté,  
 Medite son trépas qu'il a trop merité !  
 Oublions cet infame, il auroit trop de gloire⁎  
@@ -2025,7 +2025,7 @@ Et tu ne devois pas te battre en pleine ruë.
 POLYDAS, ATALANTE, FLAMINIE, SICANDRE.
 
 
-    POLYDAS
+    POLYDAS.
 dans une chambre.
 
 Enfin si vous m'aimez, faites-moi ce plesir,  
@@ -2040,7 +2040,7 @@ Ceci donneroit bien des matieres de rire.
 La Lune a retardé, tout fuira de ces lieux,  
 Et le Ciel n'aura point l'usage de ses yeux.  
 
-    FLAMINIE
+    FLAMINIE.
 arrive à la porte.
 
 Y devons-nous entrer, parle.  
@@ -2064,7 +2064,7 @@ Vous y pourrez entrer avecque [117] moins d'efors.
     ATALANTE.
 Adieu ne sortez point.  
 
-    POLYDAS
+    POLYDAS.
 la conduisant.
 
         J'aurois l'ame brutale,  
@@ -2093,7 +2093,7 @@ POLYDAS, SICANDRE, MAINALTE, THARZINTE, FLAMINIE.
 
 ### SCENE PREMIERE.
 
-    POLYDAS
+    POLYDAS.
 dans le jardin.
 
 Toutes sortes d'objets sont maintenant funebres,  
@@ -2154,7 +2154,7 @@ Mais je l'entens venir ; c'est à tort que j'en doute,
 SICANDRE, MAINALTE, THARZINTE.
 
 
-    SICANDRE
+    SICANDRE.
 en lui ouvrant la porte du jardin.
 
 Allez, elle m'attend, montrez vôtre prudence,  
@@ -2223,7 +2223,7 @@ Témoignons nôtre flâme⁎ et nôtre passience.
 
 ### ACTE IV. SCENE QUATRIÈME.
 
-     MAINALTE
+    MAINALTE.
 estant sorti.
 
 Endurer cét afront ; j'aimerois mieux mourir,  
@@ -2246,7 +2246,7 @@ Nous sçaurons leur amour, et nous verrons son cours.
 FLAMINIE, POLYDAS.
 
 
-    FLAMINIE
+    FLAMINIE.
 entrant dans le jardin.
 
 Il ne peut m'échapper ; malgré toute sa gloire⁎  
@@ -2416,7 +2416,7 @@ Et qu'un pront repentir doit suivre mon erreur.
 Sachez que vôtre gloire⁎ avoit esté trop haute,  
 Et qu'un pront repentir doit suivre aussi ma faute.  
 
-    POLYDAS. [129]
+    POLYDAS. [129].
 Je n'ai rien que deux mots ; arbitre de mon sort⁎,  
 Lors que vous reculez vous avancez ma mort.  
 Attendés un moment ; c'est en vain que je crie,  
@@ -2462,7 +2462,7 @@ Ils seront étonnés [131], et s'ils peuvent parler,
 Ce ne sera jamés que pour se quereler.  
 Mais voici Polydas.  
 
-    THARZINTE
+    THARZINTE.
 en se tirant à l'écart.
 
         Inventez quelque ruse,  
@@ -2473,7 +2473,7 @@ Ou quelque compliment qui fasse mon excuse.
 POLYDAS, SICANDRE, FLAMINIE, MAINALTE, THARZINTE.
 
 
-    POLYDAS
+    POLYDAS.
 entrant dans la chambre.
 
 J'ai pensé sucomber à ces nouveaux maleurs,  
@@ -2490,7 +2490,7 @@ Tout est-il découvert ?
         Mon esprit ingenu  
 M'a sans doute causé. Quel est cét inconnu ?  
 
-    SICANDRE
+    SICANDRE.
 lui dit ceci bas.
 
 Ne parlez pas si haut ; c'est l'ami d'Atalante,  
@@ -2504,7 +2504,7 @@ Nous en pourons avoir quelque contentement.
 (On tire la toile pour cacher la chambre.)
 
 
-    POLYDAS
+    POLYDAS.
 prend un flambeau sur la table.
 
 Je croi ce que tu veux, adieu je me retire,  
@@ -2516,7 +2516,7 @@ J'entens ici du bruit.
 C'est vrêment à propos que je me vois deceu [132].  
 Que songez-vous [133] ma sœur.  
 
-    FLAMINIE
+    FLAMINIE.
 regardant Mainalte se retire.
 
 (Elle dit ceci bas)
@@ -2528,7 +2528,7 @@ Où suis-je ! qu'ai-je fait ! quel sort⁎ m'a pû surprendre !
 Mais quel homme avez-vous ? Ah c'est pour tant de feu⁎  
 Avoir trop d'assurance, et c'est rougir trop peu !  
 
-    FLAMINIE
+    FLAMINIE.
 lui dit ceci bas.
 
 Il est vrai que j'ai tort d'en faire tant de conte,  
@@ -2561,7 +2561,7 @@ Elle en vient de sortir.
     FLAMINIE. 
         Elle y retourne encor.  
 
-    POLYDAS
+    POLYDAS.
 en s'en allant.
 
 C'est assez l'y treuvant, j'y treuve un grand thresor.  
@@ -2786,7 +2786,7 @@ Nous doit faire aujourd'huy rencontrer quelque port.
 
 ### ACTE V. SCENE TROISIESME. 
 
-    POLYDAS
+    POLYDAS.
 sortant du jardin.
 
 Comment je voi des-ja le départ de l'Aurore,  
@@ -2852,7 +2852,7 @@ Fais- moy donc par le nom connêtre ces personnes.
 MAINALTE, THARZINTE, FLAMINIE, ATALANTE, POLYDAS, SICANDRE.
 
 
-    MAINALTE
+    MAINALTE.
 voiant Polydas dit ceci
 
 à Tharzinte.
@@ -2875,7 +2875,7 @@ Mon frere empeschons les.
         Vous ne vous battrez pas,  
 Pourquoi de la façon vous causer le trépas ?  
 
-    ATALANTE
+    ATALANTE.
 en arrivant.
 
 O Ciel qui vit jamés une telle entreprise !  
@@ -2887,7 +2887,7 @@ Et malgré vôtre mort conservez vôtre envie,
 Vous cherchez seulement à me desobliger,  
 Mon interest se doit autrement ménager.  
 
-    SICANDRE
+    SICANDRE.
 à Polydas lui presentant une épée.
 
 Voici pour les tromper, soiez de la querelle,  
@@ -2913,7 +2913,7 @@ Vous craignez le danger.
     SICANDRE.
 Pour un si beau sujet j'aimerois le trépas.  
 
-    THARZINTE
+    THARZINTE.
 à Mainalte.
 
 Ton cœur a donc manqué [139] ?  
@@ -2922,12 +2922,12 @@ Ton cœur a donc manqué [139] ?
         Son humeur est trop pronte,  
 Mais il faut qu'il rougisse, et de sang et de honte.  
 
-    POLYDAS
+    POLYDAS.
 tirant son épée en touche Atalante, qui se met devant lui pour continuer la feinte.
 
 Sicandre qu'ai-je fait ?  
 
-    ATALANTE 
+    ATALANTE. 
 feint d'estre blessée.
 
         O Ciel quelle rigueur !  
@@ -2939,12 +2939,12 @@ Mourons, car Polydas a blessé nôtre cœur.
 Faisons plutôt qu'il meure, il nous en reste encore  
 Pour punir ce cruel.  
 
-    FLAMINIE
+    FLAMINIE.
 dit ceci bas.
 
         Tout va bien Isidore.  
 
-    ATALANTE
+    ATALANTE.
 voiant Polydas poursuivi.
 
 Vous l'aprochez en vain, puis que je vous retiens,  
@@ -2985,7 +2985,7 @@ Que ma sœur ait reduit un cœur si genereux⁎.
 Ce plesir est trop doux, mon ame est trop contente,  
 Je ne pouvois mieux choir en perdant Atalante.  
 
-    POLYDAS 
+    POLYDAS. 
 à Atalante.
 
 Il est vrai, tout va bien, mais consentez aussi  
@@ -3098,7 +3098,7 @@ A trop d'amour pour moi pour ne me pas defendre.
     SICANDRE.
 Tharzinte me plaist fort ; j'estime sa vertu⁎.  
 
-    MAINALTE
+    MAINALTE.
 à Flaminie.
 
 C'est bien mal ordonner, mon cœur [142] qu'en juges-tu.  
@@ -3188,18 +3188,18 @@ Mon esprit ne s'est pas vainement ocuppé,
 Car on ne vit jamais ADVOCAT mieux DUPPÉ.  < FIN DE L’ADVOCAT DUPPÉ. >
 
 
-# Lexique
+# Lexique.
 
 (F.) : Furetière, 1690 – (R.) : Richelet, 1680.AirManière d'agir, de parler, de vivre (F.)V. 1627.Amant« Celui qui aime d'une passion violente et amoureuse » (F.)V. 15, 28, 56, 91, 116, 125, 128, 220, 273, 293, 460, 540, 571, 772, 781, 824, 1048, 1123, 1344, 1364, 1456, 1657.Amoureux« Qui a de la passion pour quelque chose, ou quelque personne » (F.)V. 164, 556, 584, 616, 786, 844, 1108, 1179, 1215, 1476.Apas« Charmes puissans, grans atrais, beauté, agrément, plaisir / ce qu'on emploie pour gagner, ou atraper quelqu'un » (R.)V. 258, 564, 791, 812, 1084, 1231, 1459, 1548.Attrait« Se dit poëtiquement de la beauté » (F.)V. 227, 1443.AvantageGrace, faveur, bienfait (R.)V. 417, 533.Qualité de la nature ou de la fortune (R.)V. 437.AvantureChose arrivée à une personne / amour (R.)V. 717, 833.BrutalitéManque de civilité dans les manières, les paroles allant jusqu'à la grossièretéV. 424.Captif« Se dit figurément et poëtiquement, des prisonniers d'amour » (F.)V. 132, 294.ChaineLien amoureux (R.)V. 294.CivilitéManière honneste, douce et polie d'agir, de converser ensemble (F.)V. 367.Comédie« Toute sorte de poëme dramatique, soit comédie, pastorale, ou tragédie » (R.)V. 22.DecevoirTromper (F.)V. 735, 1620.Ennemi« Se dit quelque fois en galanterie par antiphrase. Un amant appelle sa maitresse, sa douce ennemie » (F.)V. 228, 634.EnnuiTristesse, déplaisir, chagrinV. 96, 140, 608, 1200, 1332.Entendre« Se dit figurément en choses spirituelles, et signifie, comprendre, penetrer dans le sens de celuy qui parle, ou qui escrit » (F.)V. 76, 481, 792, 794, 809, 893.Entretenir« Discourir avec une ou plusieurs personnes » (F.)V. 137, 651, 688, 776, 1157, 1174, 1285, 1294, 1458Entretien, V. 123, 151, 462, 688, 808, 826, 1198, 1296, 1544.ÉtonnerÉpouvanter, surprendre d'une certaine manière qui touche (R.)V. 108, 1547.ÉtudeApplication d'esprit (R.)V. 319.ExpérienceSavoir, connaissanceV. 317, 425.Extrémité« État le plus fâcheux où l'on puisse être réduit par quelque coup de fortune, ou autre accident. » (R.)V. 52, 99, 156, 585, 807, 1020.Fâcheux« Qui donne du déplaisir » (R.)V. 415.FaiblesseÉvanouissement, défaillance, syncope (R.)V. 397.Fameux« Ce mot se prend en bonne et en mauvaise part, et il signifie qui est connu, qui est renommé » (R.)V. 312, 431.Feu« Se dit figurément en choses spirituelles et morales de la vivacité de l'esprit, de l'ardeur des passions » (F.) , désigne ici l'amourV. 23, 88, 250, 272, 291, 536, 566, 644, 668, 712, 800, 861, 864, 892, 1016, 1026, 1114, 1168, 1267, 1616, 1626.FielHaine, ressentiment, aigreur, colère V. 300, 1532.FlambeauAmour, « ce mot au figuré n'est guere usité que dans le style sublime, et dans la belle poésie » (R.)V. 992, 1528.Flamme« Se dit communément de l'amour prophane » (F.)V. 57, 86, 230, 246, 274, 278, 534, 550, 612, 647, 777, 829, 869, 1078, 1110, 1121, 1150, 1437, 1529, 1562, 1658.FoiAssurance, témoignage / fidélité (R.)V. 135, 260, 480, 580, 831, 900, 963, 1112, 1595.Fortune« Le crédit, les biens qu'on a acquis par son mérite, ou par hasard » (F.)V. 2, 98, 322, 362, 378, 406, 485, 516, 562, 837, 1198, 1613.« Se dit de ce qui advient inopinément et contre l'opinion de la cause efficiente » (F.)V. 209, 378, 501, 606, 741, 1049, 1389.Funeste« Qui cause la mort ou qui menace, ou quelque autre accident fâcheux, quelque perte considérable » . (F.)V. 5, 449, 597.Fureur« Se dit (…) de toutes les passions qui nous font agir avec de grands emportements » (F.)V. 1207.Galant« Amant qui se donne tout entier au service d'une maîtresse » (F.)V. 159.GénéreuxCourageuxV. 395, 615, 1180, 1248, 1512, 1549.Gloire/Glorieux« Orgueil » (R.)V. 54, 78, 315, 493, 753, 793, 942, 957, 1093, 1142, 1209, 1305, 1334, 1356, 1389, 1573.« Honneur acquis par de belles actions » (R.)V. 397, 890.Hazard / HasardPéril, risqueV. 295, 387, 413, 987, 988.Heur« Bonheur, mais ce mot est bas et peu usité / se prononce sans faire sentir son h » (R.)V. 794, 1127.HommageRespect, honneur (R.)V. 725.Honneste« Qui a de l'honnêteté, de la civilité et de l'honneur »V. 472.Hospital« Lieu pieux et charitable où on reçoit les pauvres pour les soulager en leurs necessitez » (F.)V. 168.Humeur« L'humeur est une des qualités du tempérament » (R.) , elle correspond à une certaine disposition d'esprit, de fantaisie et de naturelV. 56, 79, 89, 121, 124, 138, 157, 473, 565, 695, 1133, 1198, 1543.Hymen, HyménéeMariage (F.)V. 682, 1307, 1406.InquiétudeChagrin, tristesse, soin, souci (R.)V. 850.Mal« Déplaisir, dommage, peine » (R.)V. 49, 154, 196, 334, 200, 240, 263, 297, 547, 558, 715, 720, 782, 924, 1048, 1100, 1222.Mine« Visage bon, ou mauvais qu'on fait paroître aux gens selon qu'ils nous plaisent, ou selon qu'on se porte bien ou mal » (R.)V. 29, 307, 694.MisérablePauvre (R.)V. 433.« Qui n'a nul mérite, coquin, pour qui on n'a point de consideration. » (R.)V. 1517.MonumentSignifie le tombeau (F.)V. 1540Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour » (F.)V. 591, 774, 922, 1023, 1525, 1556, 1601.PeineInquiétude, ennui, chagrin, tourmentV. 181, 293, 342, 398, 402, 878, 1017, 1234.DifficultésV. 443, 669.PrevenirDevancerV. 799, 1167.ReposAssuranceV. 148.Paix, tranquillité, douceur (R.)V. 54, 352, 568, 700, 1076.Salaire« Prix, ou récompense du travail, des services qu'on a rendus, des bonnes actions qu'on a faites » . (F.)V. 13, 342.Serviteur« Garçon qui recherche une fille en mariage » (F.)V. 814Soin« Soucis, inquiétudes qui émeuvent, qui troublent l'ame » (F.)V. 1116.Sort« Se dit poëtiquement de la vie et de la fortune des hommes. » (F.)V. 3, 117, 207, 434, 507, 787, 885, 1035, 1071, 1166, 1211, 1266, 1377, 1419, 1445, 1474, 1520, 1645.Destin (F.)V. 235.Sot« Niais, dépourveu d'esprit » (F.)V. 64, 418, 427, 1188.Sottise« Signifie quelquefois faute » (F.)V. 61, 101, 341.SoufrirEndurer, supporter (R.)V. 562, 817, 1067, 1126, 1282.Vertu« Force tant du corps que de l'âme » (F.)V. 204, 223, 392, 418, 466, 940, 1142, 1591, 1608, 1650.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Textes et documents d'époque
+## Textes et documents d'époque.
 
 
-### *xvii*e** siècle*Chevreau*L'Advocat duppé
+### *xvii*e** siècle.*Chevreau*L'Advocat duppé
 *Chevreau*Œuvres Mêlées
 *Chevreau*Coriolan
 *Chevreau*Les Véritables frères rivaux
@@ -3208,20 +3208,20 @@ Car on ne vit jamais ADVOCAT mieux DUPPÉ.  < FIN DE L’ADVOCAT DUPPÉ. >
 
 
 
-### Post *xvii*e** siècle*Ancillon*Mémoires concernant les vies et les ouvrages de plusieurs modernes célèbres dans la République des Lettres
+### Post *xvii*e** siècle.*Ancillon*Mémoires concernant les vies et les ouvrages de plusieurs modernes célèbres dans la République des Lettres
 *Niceron*Mémoires pour servir à l'Histoire des Hommes Illustres dans la République des Lettres avec un catalogue raisonné de leurs Ouvrages
 *Parfaict*Histoire du théâtre françois depuis ses origines jusqu'à présent
 
 
 
-## Ouvrages de référence (dictionnaires, grammaire…)*Furetière*Dictionnaire universel
+## Ouvrages de référence (dictionnaires, grammaire…).*Furetière*Dictionnaire universel
 *Fournier*Grammaire du français classique
 *Haase*Syntaxe française du *xvii*e** siècle
 *Richelet*Dictionnaire français
 
 
 
-## Ouvrages généraux*Adam*L'Âge classique I, 1624-1660
+## Ouvrages généraux.*Adam*L'Âge classique I, 1624-1660
 *Bertrand*Dire le rire à l'âge classique
 *Conesa*La Comédie de l'âge classique, 1630-1715
 *Corvin*Lire la comédie
@@ -3237,7 +3237,7 @@ Car on ne vit jamais ADVOCAT mieux DUPPÉ.  < FIN DE L’ADVOCAT DUPPÉ. >
 
 
 
-## Travaux sur Urbain Chevreau*Boissière*Urbain Chevreau (1613-1701) , sa vie – ses œuvres : étude bibliographique et critique accompagnée de l'analyse et de nombreux extraits des différents ouvrages de l'auteur
+## Travaux sur Urbain Chevreau.*Boissière*Urbain Chevreau (1613-1701) , sa vie – ses œuvres : étude bibliographique et critique accompagnée de l'analyse et de nombreux extraits des différents ouvrages de l'auteur
 *Moncond'huy*Actualités Poitou-Charentes
 *Rousseau*Bulletin de la société des Antiquaires de l'Ouest et des Musées de Poitiers*e*
 

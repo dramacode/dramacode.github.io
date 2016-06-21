@@ -14,7 +14,7 @@ A PARIS, Chez AUGUSTUN COURBÉ, Imprimeur, et Libraire de Monseigneur Frere du R
 
 
 
-# Boisrobert
+# Boisrobert.
 
 Comme son illustre ami Corneille, François le Metel de Boisrobert est normand. Né à Caen en 1589 dans une famille d'origine protestante, il est quelque temps avocat au barreau de Rouen, mais très vite, il préfère écrire des vers plutôt que de plaider. Il monte à Paris en 1616, abjure en 1621 et devient abbé de Châtillon-sur-Seine en 1623.
 
@@ -32,14 +32,14 @@ Outre le théâtre et ses contributions à des œuvres collectives, il publie de
 Il meurt à Paris le 30 mars 1662.
 
 
-# L'argument de la pièce
+# L'argument de la pièce.
 
 Iarbe, Duc de Calabre, consulte les astres pour connaître l'avenir de son fils. L'augure révèle un amour incestueux envers sa sœur et un conflit armé contre lui. Pour conjurer ces funestes prophéties, il confie secrètement l'enfant à un de ses fidèles sujets qui le prénomme Phalante et le considère comme son descendant. Adulte, Phalante se distingue par des actions d'éclat à la cour de Iolas, Prince de Tarente, qui en témoignage de sa gratitude lui donne la main d'une de ses sœurs : Iolante, à laquelle il préfère sa sœur Liliane. Rappelé en Calabre pour raison d'état, Phalante tombe amoureux de Bérénice, fille de Iarbe, qui partage ses sentiments. Mais le jeune héros doit repartir et en son absence Bérénice épouse Iolas.
 
 La guerre éclate entre les deux cités. Iolas mortellement blessé offre sa femme et son trône à son ami Phalante, venu à son secours, ce qui renforce la jalousie de l'infortunée Iolante et fomente sa trahison. Grâce à une herbe magique, Iolas guérit. Lors d'un combat Phalante est reconnu par son père putatif qui lui révèle le secret de sa naissance et le conduit à son père. Iarbe est honoré d'avoir un fils aussi illustre, il fait la paix avec Iolas et le traité est affermi par l'union de Phalante avec la Princesse de Tarente et celle de Iolante et de Iarbe.
 
 
-# Date de composition et de représentation
+# Date de composition et de représentation.
 
 *Les Rivaux amis* est la seconde tragi-comédie [2] que François Le Metel de Boisrobert écrit seul (auparavant, il a participé avec les cinq auteurs à la création de *L'Aveugle de Smyrne*).
 
@@ -50,7 +50,7 @@ C'est en tout cas cette date que retient Henry LANCASTER [3], contrairement à F
 Sophie Wilma Deierkauf-Holsboer [5] partage cette opinion. Elle pense que la création des *Rivaux amis* a eu lieu sur la scène de l'Hôtel de Bourgogne en 1637. On ne sait rien de l'éventuel succès remporté par la tragi-comédie de Boisrobert. Il n'a, sans doute, pas été retentissant puisque nous n'en avons aucun témoignage et parce que la pièce depuis sa publication semble avoir été oubliée. De plus, Boisrobert, dans sa dédicace au Comte D'Annan, ne fait aucune allusion à la représentation de la pièce. Il s'enorgueillit du fait que la Reine d'Angleterre, en personne, ait apprécié et lu sa pièce dans une version manuscrite.
 
 
-# Les Rivaux amis, une tragi-comédie
+# Les Rivaux amis, une tragi-comédie.
 
 Dans son ouvrage sur la tragi-comédie, Roger Guichemerre donne une définition synthétique de ce genre qui a marqué la première moitié du XVII*e* siècle et, plus particulièrement, la décennie 1630 :
 
@@ -60,7 +60,7 @@ Une action dramatique souvent complexe, volontiers spectaculaire, parfois déten
 Par la nature de son sujet, ses personnages, ses obstacles, sa crise et son dénouement, la pièce de Boisrobert apparaît comme une tragi-comédie représentative du genre. Il est important de souligner, dès à présent, l'importance du thème du « prince déguisé », sur lequel repose *Les Rivaux amis*.
 
 
-## Un sujet tragi-comique
+## Un sujet tragi-comique.
 
 *Les Rivaux amis* n'est pas une pièce historique. Elle raconte, comme beaucoup de tragi-comédies, les aventures de héros qui trouvent leur origine dans les romans plutôt que dans l'histoire. La source de la pièce est inconnue [7], mais sa construction complexe souligne, sans doute, une inspiration romanesque.
 
@@ -69,7 +69,7 @@ Avant que la pièce ne débute, Phalante possède déjà tout un passé. L'acte 
 L'aspect tragi-comique de la pièce se manifeste également à travers la nature héroïque du personnage de Phalante. Le climat belliqueux lui permet d'accomplir quelques exploits guerriers et, surtout, de s'affirmer en tant que fils du Duc de Calabre. L'affirmation d'un héros, voilà bien un sujet tragi-comique.
 
 
-## Des personnages tragi-comiques
+## Des personnages tragi-comiques.
 
 Les personnages de tragi-comédies sont presque toujours de « rang princier », le personnel dramatique des *Rivaux amis* n'échappent pas à cette règle. Selon la liste des acteurs, Iolas est prince, Bérénice fille d'un duc, Iolante et Liliane princesses... Même Phalante est présenté comme le fils du Duc de Calabre, alors que lui-même ignore son identité au début de la pièce. Par cette indication, Boisrobert semble dévoiler un secret à son lecteur. Cependant, le fait qu'il s'intéresse à un personnage non noble aurait beaucoup plus surpris celui-ci, même si la culture littéraire du lecteur devait l'habituer au thème du prince méconnu et au procédé de la reconnaissance finale.
 
@@ -78,7 +78,7 @@ Parmi les personnages secondaires, qui contribuent à l'action, mais qui n'y son
 Les personnages non nobles ne sont qu'anecdotiques. Ainsi, au début de l'acte III, apparaissent un médecin et un chirurgien qui se ridiculisent par leur incapacité à guérir Iolas. Dans *Les Rivaux amis*, comme dans beaucoup de pièces de l'époque, l'intérêt que l'auteur porte aux personnages est proportionnel à leur noblesse.
 
 
-## Des obstacles tragi-comiques
+## Des obstacles tragi-comiques.
 
 Un des fondements de la tragi-comédie est la nature de l'obstacle entre les amants. L'obstacle principal des *Rivaux amis* est tragi-comique par son aspect insurmontable, sans pour autant être un lieu commun du genre.
 
@@ -105,7 +105,7 @@ Au contraire, sur le plan interne, celui des amants, la mésalliance n'est pas u
 Les obstacles entraînent nécessairement une situation de crise qui évolue de façon différente en fonction des tragi-comédies, tout en demeurant typique.
 
 
-## Une crise tragi-comique
+## Une crise tragi-comique.
 
 Face aux obstacles, les personnages de tragi-comédie adoptent la plupart du temps des comportements typiques. La fuite est la réponse à l'opposition paternelle. Le duel est l'unique issue lorsque le personnage se trouve confronté à l'appareil judiciaire.
 
@@ -155,7 +155,7 @@ Je connois mon remede.
 C'est, peut être, ici que réside le principal défaut des *Rivaux amis*, Boisrobert ne laisse pas à la crise le temps de s'installer. Les personnages ne luttent pas, ils subissent l'obstacle, en espérant un dénouement.
 
 
-## Un dénouement tragi-comique
+## Un dénouement tragi-comique.
 
 La fin d'une tragi-comédie est presque toujours heureuse. Le dénouement d'une tragi-comédie, c'est la disparition des obstacles qui empêchaient la réunion des amants. Dans *Les Rivaux amis*, cet obstacle disparaît dès l'acte IV. Cette résolution anticipée marque tant la faiblesse que la singularité de la pièce.
 
@@ -187,7 +187,7 @@ Elle est si bien pardonnée que Iarbe la prend même pour épouse, comme s'il vo
 *Les Rivaux amis* appartiennent légitimement au genre tragi-comique. Cette pièce possède de nombreux points communs avec celles de son époque. Elles ont toutes un « air de famille », tout en conservant leur singularité, car elles relèvent toutes de la même esthétique.
 
 
-# La « feinte » régularité
+# La « feinte » régularité.
 
 En 1637, Boisrobert cherche t-il à régulariser son théâtre ? Comment aborde t-il la question des unités de temps et de lieu dans *Les Rivaux amis* ?
 
@@ -201,7 +201,7 @@ La marche vers la régularisation n'est que feinte progression: les choix dramat
 Boisrobert semble ne pas se soucier particulièrement des règles. Il en use quand elles vont dans le sens de son travail. L'illusion de régularité qu'elles donnent à sa tragi-comédie lui laisse une entière liberté et c'est, sans doute, ce qu'il recherche avant tout.
 
 
-## Le traitement du temps
+## Le traitement du temps.
 
 Boisrobert respecte l'unité de temps dans *Les Rivaux amis*. Il faut même moins de vingt-quatre heures pour permettre à l'action de s'accomplir. Cependant, cette apparente régularité tient sans doute plus à la nature de l'intrigue qu'au respect d'une règle.
 
@@ -243,12 +243,12 @@ Sans faire en abregé l'Histoire de ma vie,
 *Les Rivaux amis* respectent donc l'unité de temps, tout en usant cependant d'un des plus grand artifice qui soit dans la dramaturgie : le récit sur la scène. L'acte I, en effet, raconte des événements qui se sont déroulés bien avant l'arrivée de Phalante à Tarente. Il ne faut donc pas comparer les vingt-quatre heures du *Cid*, ou tous les conflits naissent et se résolvent, aux vingt-quatre heures de la pièce de Boisrobert qui ne servent qu'à conclure une longue histoire qui se déroule sur plusieurs années et dans plusieurs lieux.
 
 
-## Le traitement du lieu
+## Le traitement du lieu.
 
 Pour *Les Rivaux amis*, l'unité de lieu ne peut être considérée qu'au sens large. Tout se passe dans ou autour de Tarente. Même si l'intrigue ne mène pas les personnages de ville en ville, ou de pays en pays, comme dans certaines tragi-comédies « de la route »; il faut, cependant, plusieurs lieux pour permettre à l'action de se dérouler.
 
 
-### Les lieux dans Tarente
+### Les lieux dans Tarente.
 
 Comme le précise Boisrobert, au bas de la liste liminaire : *« La scene est à Tarente. »*
 
@@ -281,7 +281,7 @@ Un autre lieu a aussi son importance dans le palais : l'antichambre des apparte
 Parfois l'action s'échappe de Tarente mais sans jamais aller bien loin, en ce sens, on peut parler d'unité de lieu au sens large.
 
 
-### Les lieux hors de Tarente
+### Les lieux hors de Tarente.
 
 Même si la majorité des scènes se déroulent au palais, il ne faut pas négliger l'importance de celles qui prennent place hors de la ville.
 
@@ -300,12 +300,12 @@ Il faut par conséquent environ huit lieux pour permettre à l'action des *Rivau
 En ce qui concerne les unités de temps et de lieu, il ne semble pas impropre d'évoquer la « feinte » régularisation à propos de la technique d'écriture dramatique de Boisrobert, pour lequel, les règles ne sont ni des impératifs, ni des priorités. Il les respecte quand elles ne bouleversent pas la construction de sa tragi-comédie.
 
 
-# L'héroïsme, le romanesque et l'enjouement
+# L'héroïsme, le romanesque et l'enjouement.
 
 La tragi-comédie est un mélange. Dans *Les Rivaux amis*, l'héroïsme côtoie le romanesque, tout en laissant à certaines scènes la liberté d'être enjouées.
 
 
-## L'héroïsme
+## L'héroïsme.
 
 L'héroïsme dans *Les Rivaux amis* est incarné par le personnage de Phalante. À travers la structure épique de la pièce, le spectateur assiste à la confirmation d'un héros.
 
@@ -342,14 +342,14 @@ Ce procédé très théâtral possède un double intérêt : il arrête net le 
 L'héroïsme n'est pas un choix pour Phalante, il s'impose naturellement à lui. Phalante est fils de Duc, même s'il l'ignore, ses agissements sont le fait de sa noblesse. Phalante est venu à Tarente pour sauver son ami, non pas pour s'affirmer en tant que héros libérateur, mais parce que sa naissance, qu'il ne connaît pas encore, le pousse à agir de façon héroïque quand une situation périlleuse se présente. Dans les tragi-comédies, les jeunes nobles sont par naissance des héros et les pièces fournissent, presque toujours, l'occasion à ses jeunes hommes de prouver la valeur propre à leur rang, tout en faisant la fierté de leurs pères.
 
 
-## Le romanesque
+## Le romanesque.
 
 Le romanesque mêle l'amour et les aventures extraordinaires. En ce sens, *Les Rivaux amis* est une tragi-comédie romanesque.
 
 La définition de Gérard Genette s'applique parfaitement au genre tragi-comique : « Le romanesque, chacun sait cela, c'est la passion triomphant (le plus tard possible) des obstacles [11]. »
 
 
-### L'amour
+### L'amour.
 
 L'amour est le ressort principal de la tragi-comédie. L'amour est omniprésent dans *Les Rivaux amis*, comme l'écrit Georges Forestier : « Tout chez Boisrobert est subordonné à l'intrigue amoureuse [12]. »
 
@@ -380,7 +380,7 @@ L'importance de l'amour dans la tragi-comédie est marquée par le fait que tous
 Le dénouement révèle la prédominance de ce sentiment. Les problèmes politiques et les obstacles sont rapidement éludés pour parvenir à ce que chacun désire le plus : le mariage, comme victoire de l'amour sur les épreuves.
 
 
-### Les aventures extraordinaires
+### Les aventures extraordinaires.
 
 Les faits extraordinaires se glissent un peu partout dans les tragi-comédies. La magie apparaît souvent dans les tragi-comédies. Elle intervient là ou les hommes ne peuvent plus rien faire et elle souligne l'origine romanesque du genre.
 
@@ -410,7 +410,7 @@ Dans *Les Rivaux amis*, les coïncidences ne sont pas uniquement des rencontres,
 Cet événement tient presque autant du miracle que la guérison de Iolas. Il arrête le combat sur la scène et il permet d'amorcer le processus de reconnaissance de Phalante. Il représente parfaitement l'esthétique tragi-comique car il mêle l'héroïsme au romanesque.
 
 
-### Le ton enjoué
+### Le ton enjoué.
 
 La tragi-comédie possède un ton particulier. Selon Hélène Baby-Litot, elle a « le secret de ce ton désinvolte qui rend impossible toute emphase dramatique [13] ». Ce ton pourrait être qualifié d'« enjoué », car il n'atteint jamais le comique.
 
@@ -455,12 +455,12 @@ Les obstacles sont présents entre les amants mais ils ne sont pas de nature à 
 De plus, il semble important de souligner que le ton enjoué vient de l'attitude et des propos des personnages principaux. Ce sont les princes et les princesses qui donnent de la légèreté à certaines scènes. Le ton enjoué n'est pas l'apanage des personnages de rangs inférieurs. Ce ton survole toute la pièce.
 
 
-# Typologie
+# Typologie.
 
 L'auteur de tragi-comédie emploie des acteurs types pour construire sa pièce. Ainsi, de pièces en pièces, les amoureux adoptent le même discours, les rivaux sont aussi déterminés, les pères orgueilleux et les confidents complices.
 
 
-## Les amoureux
+## Les amoureux.
 
 Les amoureux sont les personnages principaux de la tragi-comédie. *Les Rivaux amis* n'échappent pas à cette règle, et, présentent même deux couples d'amoureux. Même si ces personnages ont en commun la jeunesse, la beauté et presque toujours la noblesse, les héros masculins se différencient, par leurs actions nobles, de la figure féminine de l'amoureuse.
 
@@ -530,7 +530,7 @@ Cette relation ambiguë est relativement typique de la tragi-comédie. Même si 
 Les personnages amoureux ne sont pas les seuls, cependant, à respecter certains codes.
 
 
-## Les rivaux et les rivales
+## Les rivaux et les rivales.
 
 Les rivaux et les rivales peuplent les tragi-comédies. Ce sont des personnages antipathiques qui s'opposent concrètement et symboliquement aux héros.
 
@@ -555,7 +555,7 @@ Iolante est dédaignée par Phalante, elle ne s'intègre donc dans aucune relati
 Il ne faut voir, cependant, aucune profondeur psychologique dans les agissements de Iolante. Elle incarne la rivale et son rôle se cantonne à l'opposition. L'aspect mouvementé de la tragi-comédie fait qu'elle n'est pas seule a joué ce rôle.
 
 
-## Le père : le duc de Calabre
+## Le père : le duc de Calabre.
 
 Comme les rivaux, les pères de tragi-comédie sont des opposants. Dans *Les Rivaux amis*, comme dans beaucoup de pièces, la figure du père se superpose à celle du roi. Mais, ici, cette double puissance ne donne pas au duc de Calabre un pouvoir démesuré. Il n'apparaît qu'à l'acte V, son temps de parole s'en trouve donc réduit et son influence limitée. Sur la liste des acteurs, il n'est inscrit qu'en treizième position. C'est sans lui que l'action principale de la pièce évolue, car il ne joue presque aucun rôle dans l'intrigue amoureuse. Il ne s'oppose pas à l'union de Iolas et de sa fille Bérénice, puisque c'est lui même qui a arrangé ce mariage. Le tempérament intéressé est un des aspects les plus marquant des pères de tragi-comédie :
 
@@ -578,7 +578,7 @@ Iarbe agit plus comme un ennemi que comme un père. Pour cette raison, il n'appa
 Boisrobert fait du duc de Calabre un personnage complexe, possédant tous les aspects typiques de père de tragi-comédie : l'intéressement, l'orgueil, le pouvoir... sans, toutefois, dépasser le statut de personnage épisodique. Sa présence seule suffit-elle à représenter une opposition ?
 
 
-## Les confidents
+## Les confidents.
 
 Les confidents et les confidentes sont, bien souvent, les doubles des héros et ne servent qu'à éviter les monologues. Dans les tragi-comédies, ce qui différencie les confidents, c'est leur noblesse.
 
@@ -607,7 +607,7 @@ Un troisième personnage est annoncé comme « le Confident d'Iarbe », dans l
 *Les Rivaux amis*, comme la plupart des tragi-comédies des années 1630, sont peuplés de personnages typiques qui se ressemblent. Ils se comportent selon leur fonction. Ainsi, il est difficile de différencier un amoureux d'un autre comme il est courant de croiser des rivaux inactifs. Ils agissent, presque tous, pour ou contre l'union d'un ou plusieurs couples. Ce personnel dramatique peut être réparti en deux catégories : les opposants et les adjuvants. C'est, en effet, l'enjeu d'une tragi-comédie de séparer pour réunir un ou plusieurs couples d'amants.
 
 
-# Une poétique de la tension
+# Une poétique de la tension.
 
 Gérard Genette, dans son article « L'or tombe sous le fer [17] », parle d'une « dramaturgie de l'opposition » pour qualifier l'écriture poétique du début du XVII*e* siècle que certains appellent baroque :
 
@@ -671,7 +671,7 @@ Phalante a l'intuition de la réalité, mais il demeure sur le plan des apparenc
 Cependant, Boisrobert, contrairement aux modèles espagnols et aux auteurs français de comédies qui s'en inspirent, rétablit soigneusement, à la fin de sa tragi-comédie, la hiérarchie entre le monde des apparences et celui de la réalité. En apprenant sa véritable identité, Phalante comprend qu'il n'a jamais été véritablement le rival de son ami. Phalante et Iolas ne sont que des amis, l'oxymore initial n'a plus de sens. Les tensions artificielles des *Rivaux amis* se sont neutralisées. L'ordre a surmonté le désordre.
 
 
-# Les Rivaux Amis Tragi-comédie
+# Les Rivaux Amis Tragi-comédie.
 
 
 ## A MONSEIGNEUR LE COMTE D'ANNAN [22].
@@ -711,14 +711,14 @@ La Scene est à Tarente.
 
 
 
-## ACTE I
+## ACTE I.
 
 
-### SCENE I
+### SCENE I.
 PHALANTE, HYDASPE, CLARIDAN.
 
 
-    HYDASPE
+    HYDASPE.
 Enfin tu ne peux plus différer de me dire,  
 Le sujet important qui cause ton martyre,  
 Et quelle occasion t'oblige de chérir,  
@@ -728,7 +728,7 @@ Avant que d'aborder la Princesse affligée,
 De grace, éclaircy moi, favorise mes voeux,  
 Dy moi ce qui nous meine.  
 
-    PHALANTE
+    PHALANTE.
         Hydaspe, je le veux,  
 Puisque je l'ay promis, il faut que je seconde  
 Le desir de l'amy le plus discret du monde;  
@@ -745,15 +745,15 @@ Et qui n'espere plus en rien qu'en nos efforts,
 Jette les yeux par tout, tourne, et veille sans cesse,  
 Tandis que nous irons visiter la Princesse.  
 
-    CLARIDAN
+    CLARIDAN.
 Vous pouvez sur mes soins reposer seurement.  
 
 
-### SCENE II
+### SCENE II.
 PHALANTE, HYDASPE.
 
 
-    PHALANTE
+    PHALANTE.
 Puisque tu veux sçavoir l'estat de mon tourment,  
 Et pourquoy retourné d'Afrique en la Sicile,  
 J'en suis party soudain, pour sauver cette Ville,  
@@ -788,14 +788,14 @@ Je perds, en le perdant, la moitié de son ame;
 Dans mon deüil aujourd'huy rien ne peut m'égaller,  
 Et rien dans ce mal-heur ne me peut consoler.  
 
-    HYDASPE
+    HYDASPE.
 Ce Prince, je l'advoüe, avoit beaucoup de charmes,  
 Et cette grande perte est digne de tes larmes;  
 Mais ton grand coeur, Phalante, invincible d'ailleurs [28],  
 Veut-il se laisser vaincre à ses propres douleurs?  
 En pleurant ton amy, veux-tu cesser de vivre?  
 
-    PHALANTE
+    PHALANTE.
 Pleust au Ciel que mon Sort m'eust permis de le suivre!  
 Escoute, & tu verras que tant qu'il fut vivant,  
 Son amitié pour moy passa bien plus avant: [29]  
@@ -824,13 +824,13 @@ Qu'elle avoit de mon coeur la meilleure partie,
 Que j'estois son esclave, & que je n'aspirois  
 Qu'a l'immortel honneur de vivre sous ses lois.  
 
-    HYDASPE
+    HYDASPE.
 Je touche au but, Phalante, & comprens le mistere,  
 Tu viens servir la Soeur, aussi-tot [32] que le Frere,  
 Cette jeune merveille attire icy nos pas,  
 Ton coeur asseurement languist dans ses appas.  
 
-    PHALANTE
+    PHALANTE.
 Suspend ton jugement, & si tu ne te lasses,  
 Du recit ennuyeux de mille autres disgraces,  
 A qui je fus en butte, accorde moy ce point,  
@@ -870,10 +870,10 @@ Je m'arrestois encore à ma premiere ardeur,
 Et conservois en moy certaines estincelles,  
 Qui ne se perdoient point dans des flames si belles [38].  
 
-    HYDASPE
+    HYDASPE.
 Bizarre coup du Sort! étrange effet d'Amour!  
 
-    PHALANTE
+    PHALANTE.
 Ce dernier feu poûrtant croissoit de jour en jour;  
 J'en voyois la lumiere, & j'en sentois la flame,  
 Qui petit à petit s'allumoit dans mon ame.  
@@ -918,21 +918,21 @@ Que mon meilleur Amy s'en rendit amoureux;
 Et comme il ignoroit le secret de ma flame,  
 Il enleva bien tost ce tresor de mon ame.  
 
-    HYDASPE
+    HYDASPE.
 Quoy? sans t'en advertir, la Belle se rendit,  
 Et ne résista point?  
 
-    PHALANTE
+    PHALANTE.
         L'honneur lui défendit;  
 Et puis le Duc son pere en ce Prince admirable,  
 Des partis qui s'offroient trouvant le plus sortable [44],  
 Il le voulut d'abord aux autres preferer,  
 Sans consulter sa Fille, & sans deliberer.  
 
-    HYDASPE
+    HYDASPE.
 D'ou vient donc qu'il luy fait une guerre mortelle?  
 
-    PHALANTE
+    PHALANTE.
 Voicy comme on m'écrit [45] qu'arriva leur querelle,  
 Le Duc des Calabrois, à certain jour precix,  
 S'obligea par contract au Prince son beau fils,  
@@ -971,22 +971,22 @@ Mais qu'il est demeuré perdu parmy les morts:
 Voila le coup mortel dont mon ame est blessée,  
 Et le soucy cuisant [50], qui trouble ma pensée.  
 
-    HYDASPE
+    HYDASPE.
 Tu perds, je le confesse, un amy genereux;  
 Vengeons donc en ce lieu son Destin rigoureux,  
 Et que ces Calabrois, d'humeur trop insolente,  
 Apprennent aujourd'hui, qu'il revit en Phalante.  
 
-    PHALANTE
+    PHALANTE.
 Nous voicy, cher Hydaspe, aux portes du Chasteau;  
 Et ce lieu, qui me fut si charmant, & si beau,  
 Au temps que Liliane y fit naistre ma flame,  
 Par la mort de son Frere est funeste à mon ame.  
 
-    HYDASPE
+    HYDASPE.
 Si tu l'aimes encor, console sa douceur.  
 
-    PHALANTE
+    PHALANTE.
 Je suis plus qu'elle à plaindre, en ce dernier mal-heur:  
 L'amitié d'Iolas faisoit toute ma gloire,  
 J'en dois jusqu'à la mort affliger ma memoire;  
@@ -1005,10 +1005,10 @@ De l'infidelité, dont je me sens coupable ?
 Aurois-tu peu penser, que mon coeur engagé,  
 Eust pu courir au change, & se fust partagé ?  
 
-    HYDASPE
+    HYDASPE.
 Donc Liliane encore occuppe ta pensée ?  
 
-    PHALANTE
+    PHALANTE.
 Mon ame, je l'avoue, en est toûjours blessée;  
 Et quand je reverray cette Divinité,  
 Je cederay sans doute aux traits de sa beauté.  
@@ -1023,20 +1023,20 @@ J'aime l'une en Maistresse, & cheris l'autre en Soeur; [51]
 Mais en toutes les deux, j'adore une merveille,  
 Et pour le choix en vain la Raison me conseille.  
 
-    HYDASPE
+    HYDASPE.
 Si faut-il te resoudre où tu veux t'engager [52].  
 
-    PHALANTE
+    PHALANTE.
 Auecque Berenice allons nous affliger,  
 Et je consulteray mon amour, & leurs charmes,  
 Quand le temps, & nos soins auront séché leurs larmes.  
 
 
-### SCENE III
+### SCENE III.
 BERENICE, ARONTE, LE PAGE.
 
 
-    BERENICE* & sa suite*
+    BERENICE* & sa suite*.
 Ces propos superflus aigrissent ma douleur,  
 Souffrez qu'en liberté je pleure mon mal-heur,  
 Amys laissez-moi seulle; & parmy tant d'atteintes,  
@@ -1044,7 +1044,7 @@ Ne venez point méler vos soupirs à mes pleintes,
 Je suis inconsolable, en l'estat où je suis,  
 Vos consolations augmentent mes ennuis.  
 
-    ARONTE
+    ARONTE.
 Hé! de grace, Madame, en ce mal-heur extréme,  
 Ayez pitié de nous, ayez en de vous mesme.  
 Nostre espoir est tombé, mais vous le relevez:  
@@ -1056,7 +1056,7 @@ Flechirons nous le coeur de ce Prince irrité [53],
 Qu'on ne peut implorer, sans repos, & sans honte ?  
 Que voulez-vous qu'on face ?  
 
-    BERENICE
+    BERENICE.
         Il faut le perdre, Aronte,  
 Les Manes d'Iolas m'ont ce crime permis;  
 Mon Pere est le plus grand de tous mes ennemis:  
@@ -1070,12 +1070,12 @@ Apres ce coup funeste, il faut, il faut perir;
 Mais je vous vengeray [54], premier que [55] de mourir,  
 Faisant du camp d'Iarbe une Scene sanglante.  
 
-    LE PAGE
+    LE PAGE.
 On me vient advertir, Madame, que Phalante,  
 Entre dans le Palais, & demande à vous voir,  
 Pour s'acquitter vers vous de son premier devoir.  
 
-    BERENICE
+    BERENICE.
 La douleur m'a du tout [56] de raison dépourveuë;  
 Je n'aurois pas le coeur de soutenir sa veuë.  
 Pour quelque temps, Aronte, allez l'entretenir,  
@@ -1084,11 +1084,11 @@ J'ay besoin de son bras, & je suis soulagée,
 De penser que par luy je puis estre vangée.  
 
 
-### SCENE IV
+### SCENE IV.
 IOLAS, CLEONTE.
 
 
-    IOLAS
+    IOLAS.
 Grace aux Dieux, je suis libre, & le Ciel a permis,  
 Que je me sois tiré du camp des Ennemis,  
 Ou m'avoit à tel point engagé la vengeance,  
@@ -1104,7 +1104,7 @@ M'as fait voir ton courage, & monstré que tu m'aimes,
 Je ne me serois pas sans toy débarrassé,  
 De ce monceau de corps, où j'éstois entassé.  
 
-    CLEONTE
+    CLEONTE.
 Je mets vôtre salut au nombre des merveilles,  
 On ne courut jamais de fortunes pareilles:  
 Cela vous doit instruire, o Prince glorieux,  
@@ -1112,23 +1112,23 @@ En autre occasion, à vous mesnager mieux;
 Et ne pas exiger de ce coeur invincible,  
 Qui n'a cedé qu'au nombre, une chose impossible.  
 
-    IOLAS
+    IOLAS.
 De tous tes compagnons n'est-il resté que toy ?  
 
-    CLEONTE
+    CLEONTE.
 Vos bons soldats sont morts, le reste a pris l'effroy [57].  
 
-    IOLAS
+    IOLAS.
 Si Phalante a peuplé mes murailles desertes,  
 Le Ciel soit loué, je ne plains point mes pertes,  
 Ce genereux amy repare mon mal-heur,  
 Il cognoist le besoin que j'ay de sa valleur;  
 
-    CLEONTE
+    CLEONTE.
 Et que le Calabrois, qui vous fut infidelle,  
 Passe pour l'aggresseur d'une injuste querelle,  
 
-    IOLAS
+    IOLAS.
 Ce qui plus me travaille en la peine ou je suis,  
 C'est que ma Berenice, au fort des ennuys,  
 A peine à supporter l'injustice d'un Pere,  
@@ -1142,10 +1142,10 @@ Et qui sans mon Phalante alloient estre perdus:
 Alons voir cét amy, genereux, & fidelle,  
 Je suis veu du Soldat, qui fait la sentinelle.  
 
-    CLEONTE
+    CLEONTE.
 Il doit estre abuzé du bruit de vostre mort.  
 
-    IOLAS
+    IOLAS.
 Detrompe son esprit, découvre [58] moy d'abord;  
 Et puis qu'on ne peut pas ignorer dans Tarente,  
 Par où je dois passer ma fortune presente [59],  
@@ -1156,14 +1156,14 @@ Car j'auray grand plaisir tantost à la surprendre.
 Fin du premier Acte.
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE I
+### SCENE I.
 PHALANTE, BERENICE, IOLAS, caché.
 
 
-    PHALANTE
+    PHALANTE.
 Non non, je ne sçaurois vous accorder ce point,  
 Vous n'avez point failly, ne vous excusez point:  
 J'estois, je le confesse, indigne de vos charmes;  
@@ -1179,10 +1179,10 @@ Et par une funeste, & fatale rencontre,
 Ce jaloux devers luy l'a voulu retirer,  
 Voyant que sa vertu le faisoit adorer.  
 
-    IOLAS, *caché.*
+    IOLAS, *caché.*.
 Dieux! que viens-je d'entendre? est-il vray que je veille?  
 
-    BERENICE
+    BERENICE.
 Encor que ma douleur, qui n'a point de pareille,  
 Dans ce coup de mal-heur, qui nous a tous surpris,  
 Occupe entierement mon coeur, & mes espris;  
@@ -1207,10 +1207,10 @@ Si l'honneur m'eust permis d'en conserver l'idée:
 Mais par sa Loy, Phalante, il te falloit trahir,  
 Je dependois d'un Pere, il falloit obeyr.  
 
-    IOLAS
+    IOLAS.
 La chaste Berenice est l'objet de sa flame ?  
 
-    PHALANTE
+    PHALANTE.
 Les Dieux me sont témoins, Princesse de mon ame,  
 Que la mort d'Iolas faict toute ma douleur,  
 Que je suis plus que vous sensible à ce mal-heur,  
@@ -1219,7 +1219,7 @@ Que celle de la foy que vous m'avez jurée;
 Que je viens pour pleurer en cette extremité,  
 Non pour vous reprocher vostre infidelité.  
 
-    BERENICE
+    BERENICE.
 Elle m'est bien assez par tes yeux reprochée;  
 Et tes sages discours, dont je me sens touchée,  
 Aggravent d'autant plus mon offence envers toy,  
@@ -1235,26 +1235,26 @@ Contre un injuste Pere, animé contre nous:
 Aussi bien nos douleurs ne feront pas revivre  
 Ce Prince Genereux, que je veux bien-tost suivre.  
 
-    PHALANTE
+    PHALANTE.
 Pleust au Ciel, qui mes voeux a souvent exaucé,  
 Qu'avant sa mort, je l'eusse une fois embrassé!  
 
 
-### SCENE II
+### SCENE II.
 IOLAS, PHALANTE, BERENICE.
 
 
-    IOLAS
+    IOLAS.
 Il ne tiendra qu'à toy, me voila plein de vie,  
 Contente, cher amy, contente ton envie.  
 
-    PHALANTE
+    PHALANTE.
 O Dieux !  
 
-    BERENICE
+    BERENICE.
         O iustes Dieux, puis-je voir mon Espoux !  
 
-    IOLAS
+    IOLAS.
 Ouy, tu le vois mon ame, & les destins jalous  
 De me voir possesseur d'une chose si belle,  
 N'ont pas gardé leur haine, en me separant d'elle,  
@@ -1262,13 +1262,13 @@ Ils ont cognu mon zèle, & ma fidelité,
 Et se sont repantis de leur severité:  
 Je te revois encore.  
 
-    BERENICE
+    BERENICE.
         O Destin favorable !  
 
-    PHALANTE
+    PHALANTE.
 O faveur sans exemple ! O bien incomparable !  
 
-    IOLAS
+    IOLAS.
 Mais qu'ay-je ouy, Phalante, en m'approchant d'icy ?  
 Je t'ay veu plain d'angoisse, & comblé de soucy,  
 Reprocher d'une voix qui sembloit alterée,  
@@ -1278,11 +1278,11 @@ La perte d'un tresor justement pretendu,
 Qui (si de tes secrets j'eusse pris cognoissance)  
 Seroit fort aisement tombé sous ta puissance.  
 
-    BERENICE, *(en elle mesme)*
+    BERENICE, *(en elle mesme)*.
 Dans nos civilitez il nous aura surpris,  
 Il a nos chastes feux de nos bouches apris.  
 
-    IOLAS
+    IOLAS.
 Quoy ? mon frere, est-ce ainsi qu'on m'ouvre sa pensée ?  
 Les traits de Berenice ont ton ame blessée:  
 Tu les as soustenus, tu les as peu sentir,  
@@ -1300,7 +1300,7 @@ Quand tu trouvois en moy ta guerison [66] certaine ?
 Pourquoy m'as-tu celé tes transports amoureux,  
 Quand mon consentement te pouvoit rendre heureux ?  
 
-    PHALANTE
+    PHALANTE.
 Il m'estoit impossible, ô Prince magnanime,  
 De découvrir mon coeur, sans découvrir mon crime,  
 Avecque mon secret, j'eusse manifesté  
@@ -1310,10 +1310,10 @@ D'un coeur que tu croyois, entier en ta puissance,
 Que te le faire voir, traistre, inconstant, & faux,  
 Et te le découvrir avec tant de deffaux.  
 
-    IOLAS
+    IOLAS.
 Cét Enigme [67] est obscur, fay qu'on le puisse entendre.  
 
-    PHALANTE
+    PHALANTE.
 A ma confusion tu le dois bien comprendre:  
 Ne te souvient il point, que quand tu me permis,  
 De prendre place au rang de tes meilleurs amys,  
@@ -1324,39 +1324,39 @@ Impunement ailleurs me pouvois-je lier?
 Et sentant pour une autre une flame si prompte,  
 Voulois tu qu'à tes yeux j'exposasse ma honte?  
 
-    IOLAS
+    IOLAS.
 Me devant ton secret, pourquoy le cachois-tu ?  
 
-    PHALANTE
+    PHALANTE.
 C'estoit cacher le Vice à la mesme Vertu. [68]  
 
-    IOLAS
+    IOLAS.
 Tout ce que fait Phalante, est éloigné du Vice.  
 
-    PHALANTE
+    PHALANTE.
 Il a contre sa foy recherché Berenice.  
 
-    IOLAS
+    IOLAS.
 T'ayant promis ma Soeur, contre ton sentiment,  
 Ton coeur a peu changer, & l'a faict justement.  
 
-    PHALANTE
+    PHALANTE.
 Ayant de mon amy méprisé l'âliance  
 J'ay blessé son honneur, avec ma Conscience.  
 
-    IOLAS
+    IOLAS.
 J'ay seul esté coupable, en te tyrannisant.  
 
-    PHALANTE
+    PHALANTE.
 Et moy j'ay seul esté coupable, en t'abusant,  
 Aussi le Ciel te vange, & te rend la Justice,  
 Accordant à tes Voeux la chaste Berenice.  
 
-    IOLAS
+    IOLAS.
 Phalante, il m'est témoin qu'elle seroit à toy,  
 Si tu m'eusses faict voir ton amour, & ta foy.  
 
-    BERENICE
+    BERENICE.
 De ma possession tu fais bien peu de conte [69]:  
 D'ou te vient, cher Espoux, une froideur si prompte?  
 Ne peux tu témoigner en cette occasion  
@@ -1380,7 +1380,7 @@ Tu souhaittes qu'une autre ait le poids de ta foy:
 Tu m'as dedans ton coeur à Phalante cedée,  
 Et te repens quasi [70] de m'avoir possedée.  
 
-    IOLAS
+    IOLAS.
 Reçoy mieux mes discours, & mes intentions,  
 Reyne de mes desirs, & de mes passions:  
 Tu cognois mon amour, & sçais bien en ton ame  
@@ -1398,42 +1398,42 @@ Dans les premiers accès de mon amour naissant.
 Puis donc qu'à son Destin le mien fut si contraire,  
 Pleins avec moi sa perte, & l'aime comme Frere.  
 
-    BERENICE
+    BERENICE.
 Ouy, je le cheriray (puis qu'il te plaist ainsi)  
 D'un amour fraternel: mais qu'as-tu, mon soucy?  
 D'une pâleur de mort je voy ta face [72] peinte.  
 
-    IOLAS
+    IOLAS.
 Je me croyois frappé d'une legere atteinte [73],  
 Mais le coup est plus grand que je n'avois pensé.  
 
-    BERENICE
+    BERENICE.
 Qu'on cherche un prompt secours,  
 
-    IOLAS
+    IOLAS.
         Je me sens fort blessé.  
 
-    BERENICE
+    BERENICE.
 Viste, les Medecins.  
 
-    IOLAS
+    IOLAS.
         Ma playe s'est fermée,  
 Et je croy que la fleche estoit envenimée:  
 De plus, toute la nuict j'ay fait de grands efforts,  
 Pour me développer [74] d'un grand tas de corps morts,  
 Ou j'ay presque tout vif, trouvé ma sepulture.  
 
-    PHALANTE
+    PHALANTE.
 Cela doit bien avoir augmenté ta blessure;  
 Retire toy, mon Frere, & sans plus de propos,  
 Songe que ta santé depend de ton repos.  
 
 
-### SCENE III
+### SCENE III.
 IOLANTE, LILIANE.
 
 
-    IOLANTE
+    IOLANTE.
 Ne fay point la dolente [75], & la dissimulée [76],  
 Je sçay que de nos maux ton ame est consolée,  
 Ton mignon [77] est venu, l'objet de tes amours,  
@@ -1449,7 +1449,7 @@ Caresse le ma Soeur, ne l'abandonne pas,
 Tu peux par tes faveurs animer son courage,  
 Qui de nos maux pressans dissipera l'orage,  
 
-    LILIANE
+    LILIANE.
 Le deuïl te sieroit mieux que cette belle humeur;  
 Montre plus de prudence, en un age si meur:  
 Est-il temps de railler en si triste fortune?  
@@ -1461,7 +1461,7 @@ Il se souviendra bien que tu luy fus promise,
 Et te conservera cet Estat qu'il maintient,  
 Et qui par droit d'ainesse aujourd'huy t'appartient.  
 
-    IOLANTE
+    IOLANTE.
 Je ne veux rien tenir des mains de cét Infame,  
 Qui n'a point mérité de avoir pour sa femme:  
 Ma soeur tu connois mal ce lache suborneur:  
@@ -1478,50 +1478,50 @@ Quelle est notre mal-heur, ô tristes que nous sommes?
 Esperer nostre appuy du plus abjet [79] des hommes?  
 
 
-### SCENE IV
+### SCENE IV.
 ARONTE, avec les Princesses.
 
 
-    [IOLANTE]
+    [IOLANTE].
 Mais Dieux! qu'Aronte est guay, qui l'ameine en ces lieux? [80]  
 
-    ARONTE
+    ARONTE.
 Mes dames tout vous rit [81], rendez graces aux Dieux:  
 Iolas de retour, a surpris la Princesse,  
 Et dedans le Palais remplit tout d'allegresse.  
 
-    IOLANTE
+    IOLANTE.
 Mon frere de retour? Aronte, que dis tu?  
 Que tu releves bien notre espoir abattu!  
 
-    LILIANE
+    LILIANE.
 Mon Frere vit encore? ah! je mourray de joye,  
 Mais l'as-tu veu toy-mesme? est-ce luy qui t'envoye?  
 
-    ARONTE
+    ARONTE.
 Je porte à nos Soldats un ordre de sa part,  
 Il est vivant, & sain; hormis un coup de dart,  
 Qui luy perce le bras; maintenant il repose  
 Selon mon jugement, son mal est peu de chose.  
 
-    IOLANTE
+    IOLANTE.
 As-tu point rencontré Phalante avecque luy?  
 
-    ARONTE
+    ARONTE.
 J'ay sçeu qu'il l'a surpris dans un excès d'ennuy,  
 Reprochant tendrement à sa chaste Princesse,  
 Un manquement de foy, dont il eut la promesse.  
 
-    LILIANE
+    LILIANE.
 Berenice à Phalante avoit donné la foy?  
 Tu te trompes amy.  
 
-    ARONTE
+    ARONTE.
         Madame excusez moy,  
 Il n'est bruit au Palais, que de cette nouvelle;  
 Mais il est temps d'aller, où mon ordre m'appelle.  
 
-    IOLANTE
+    IOLANTE.
 Hé bien, Fille credule, as-tu l'esprit contant  
 De ce beau Cavalier, si zelé, si constant?  
 Veux-tu de sa franchise une preuve plus claire?  
@@ -1529,10 +1529,10 @@ Ce genereux Amant ne songe qu'à te plaire,
 Il n'adore que toy sans doute, & ta beauté  
 Est l'objét & le prix de sa fidelité?  
 
-    LILIANE, *(en elle-même)*
+    LILIANE, *(en elle-même)*.
 L'Ingrat jusqu'à ce point m'auroit-il méprisée?  
 
-    IOLANTE
+    IOLANTE.
 Apres tout j'ay regret de te voir abuzée;  
 Et je m'estonne bien qu'ayant veu son mépris,  
 Avecque moy d'abord tu ne l'as pas compris:  
@@ -1547,16 +1547,16 @@ Je luy quitte la place [82], accepte son amour;
 Il se repentira, si-tost qu'il t'aura veuë,  
 Ne crains plus rien, ma Soeur, Berenice est pourveuë.  
 
-    LILIANE [83]
+    LILIANE [83].
 Le fuyray-je? ah! mon coeur, ce Volage me plaist,  
 Et tu le veux aimer, tout inconstant qu'il est.  
 
 
-### SCENE V
+### SCENE V.
 PHALANTE, LILIANE.
 
 
-    PHALANTE
+    PHALANTE.
 Puisque les iustes Cieux ont entendu mes plaintes,  
 Que le retour du Prince a dissipé mes craintes,  
 Que tout rit, & succede à mes esprits contens,  
@@ -1566,7 +1566,7 @@ Si dans vos belles mains mon coeur demeure encore,
 Et si certainement vous ne dédaignez pas  
 Cét Esclave d'Amour, qui meurt pour vos appas.  
 
-    LILIANE
+    LILIANE.
 Si tu ne te sentois extrémement coupable,  
 Ce coeur qui s'est trouvé d'inconstance capable,  
 Sçachant comme autrefois il me fut precieux,  
@@ -1600,7 +1600,7 @@ Pourveu qu'au premier feu ton ame s'abandonne;
 Et que te repentant, tu veüilles m'asseurer  
 D'un amour sans reproche, & qui puisse durer.  
 
-    PHALANTE
+    PHALANTE.
 Ma chere Liliane, helas! puis-je sans honte,  
 (Ayant de ta beauté tenu si peu de conte)  
 T'appeller mienne encore, & si je te promets,  
@@ -1632,26 +1632,26 @@ Par des ressors cachez, & toutesfois puissans.
 Bref je croy qu'en l'aimant je puis t'étre fidelle,  
 Et m'attacher à toy, sans me separer d'elle.  
 
-    LILIANE
+    LILIANE.
 Et tu n'es pas volage, & perfide en ce point?  
 
-    PHALANTE
+    PHALANTE.
 Mon ame, asseure toy que je ne le suis point.  
 Je sens pour Berenice une innocente flame,  
 Dont l'ardeur pure & sainte échauffe bien mon ame,  
 Mais ne la peut corrompre.  
 
-    LILIANE
+    LILIANE.
         Inconstant, que dis-tu?  
 Que cette extravagance altere ta vertu!  
 
-    PHALANTE
+    PHALANTE.
 Tu veux aprofondir un secret que j'ignore;  
 Mon coeur, contente toy qu'en l'aimant je t'adore;  
 Et pour bannir de toy ces soupçons superflus,  
 Si je puis desormais, je ne la verray plus.  
 
-    LILIANE
+    LILIANE.
 Non, non, voy sa beauté, puisqu'elle te contente,  
 Pourveu que ton amour réponde à mon attente:  
 Sois libre en tes desirs, ne te contrains pas tant,  
@@ -1667,30 +1667,30 @@ Je puisse ton amour, & ta foy posseder:
 Mais Phalante, le mal de mon Frere m'effraye,  
 Et je crains que la Mort ne se cache en sa playe.  
 
-    PHALANTE
+    PHALANTE.
 L'appareil [87] te fera juger plus sainement.  
 
-    LILIANE
+    LILIANE.
 Conduy moy, s'il te plaist, vers son appartement.  
 Fin du deuxiesme Acte.
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE I
+### SCENE I.
 LES MEDECINS, IOLAS, BERENICE.
 
 
-    BERENICE
+    BERENICE.
 Ne me déguisez point ce qu'il faut que je sçache;  
 Je connois mon mal-heur, en vain on me le cache,  
 Et je suis resoluë à tout évenement.  
 
-    LE CHIRURGIEN
+    LE CHIRURGIEN.
 Que sert de la flatter? parlons luy franchement.  
 
-    LE MEDECIN, *se tournant vers la Princesse.*
+    LE MEDECIN, *se tournant vers la Princesse.*.
 Madame, tout va mal, la fleche envenimée  
 A perdu tout son bras, la cangrenne [88] est formée,  
 Le Prince est bien malade, on fait un vain effort;  
@@ -1698,10 +1698,10 @@ Nostre art ne le sçauroit garentir de la mort:
 Nous ne vous pouvons plus flatter en conscience,  
 Songez à vostre Estat, & prenez patience.  
 
-    BERENICE
+    BERENICE.
 O Dieux! ô justes Dieux!  
 
-    IOLAS
+    IOLAS.
         Amys, je comprens bien,  
 Qu'en mon mal sans remede on n'espere plus rien.  
 Vous le cachez en vain, je ly sur vos visages  
@@ -1721,13 +1721,13 @@ Si mon jour est venu, si je suis prest à partir,
 Et sçachez qu'Iolas sent approcher ce terme,  
 D'un visage constant, & d'un courage ferme.  
 
-    BERENICE
+    BERENICE.
 Ce jour n'est pas si prompt, mon ame, espere mieux  
 Des forces de ton aage, & du secours des Cieux;  
 Si le Sort aujourd'huy disposoit de ta vie,  
 Ta fin seroit bien-tost de la mienne suivie.  
 
-    IOLAS
+    IOLAS.
 N'attendry point mon coeur, en l'estat ou je suis,  
 Tu vois bien que mes pleurs naissent de tes ennuys:  
 N'obscurcy point mes yeux de ce triste nuage,  
@@ -1737,7 +1737,7 @@ Que je quitte à regret la lumiere du jour:
 Fay donc que de ma mort ton ame se console,  
 Si tu veux que la mienne en liberté s'envole.  
 
-    BERENICE
+    BERENICE.
 Quoy! mon coeur, d'un oeil sec je verrois ton trépas?  
 Je te verrois mourir, & je ne mourrois pas?  
 Penses-tu qu'apres toy Berenice demeure?  
@@ -1747,7 +1747,7 @@ Si je te survivois d'une heure seulement,
 L'Amour conclud ma mort, la Raison l'authorise,  
 Pour toy j'ayme le jour, sans toy je le méprise.  
 
-    IOLAS
+    IOLAS.
 Si mon coeur d'un noeud ferme au tien se trouve joint,  
 Croy, tant que tu vivras, que je ne mourray point:  
 Conserve donc, mon ame, en ceste departie [90],  
@@ -1765,7 +1765,7 @@ Tu feras subsister l'union des trois ames:
 Cét amy genereux s'offre tout à propos,  
 Vy pour luy, si tu veux que je meure en repos.  
 
-    BERENICE
+    BERENICE.
 Quoy, mon cher Iolas, ta perte est manifeste?  
 Rien ne s'offre à mes yeux, qui ne me soit funeste.  
 Le desespoir me suit, un excés de mal-heurs  
@@ -1775,7 +1775,7 @@ Tu voudrois disposer mon coeur à l'Hymenée?
 Non, non, puisque nos jours n'ont qu'un mesme flambeau,  
 Il faut que Berenice épouse le tombeau.  
 
-    IOLAS
+    IOLAS.
 Si tu nourris en toy cette cruelle envie,  
 Et si tu parles plus d'attenter à ta vie,  
 Sçache que ton Epoux mourra desesperé,  
@@ -1800,22 +1800,22 @@ Si je te voy répondre à sa flame amoureuse,
 Mon ame de ce corps partira bien-heureuse,  
 Autrement:  
 
-    BERENICE
+    BERENICE.
     Mon desir?  
 
-    IOLAS
+    IOLAS.
         Ne me replique point.  
 
 
-### SCENE II
+### SCENE II.
 BERENICE, PHALANTE, IOLAS, IOLANTE.
 
 
-    BERENICE
+    BERENICE.
 Comment veux-tu que j'ayme, en ce funeste point  
 Où je me voy reduite?  
 
-    PHALANTE
+    PHALANTE.
         Eh! mon frere, de grace,  
 Ne force point ce coeur, que ta perte menace,  
 Et ne me prouve point ta parfaite amitié,  
@@ -1827,7 +1827,7 @@ Que parmy tant d'ennuys nous songions à l'amour? [92]
 Crois tu mourir sans moy? tu ne peux ce me semble;  
 Marche quand tu voudras; nous partirons ensemble.  
 
-    IOLAS
+    IOLAS.
 Qui du fier Calabrois vengeroit l'attentat? [93]  
 Qui sauveroient mes Soeurs, ma Femme, & mon Etat?  
 Non, demeure apres moy, tu m'offences, mon Frere,  
@@ -1847,37 +1847,37 @@ Prens le pour ton Espoux, reçoy la pour ta femme;
 Au moins si vous voulez que mes voeux soient parfaits,  
 Et s'il vous plaist de voir mes Manes satisfaits:  
 
-    IOLANTE,* en elle-mesme*
+    IOLANTE,* en elle-mesme*.
 Que ces discours du mal dont je me sens atteinte,  
 Augmentent la douleur, & redoublent ma crainte!  
 
-    IOLAS
+    IOLAS.
 Resistez vous encore à mon contentement?  
 Ne me répondez vous que des yeux seulement?  
 C'est fait, vous consentez, ce silence m'arreste,  
 Et ces beaux yeux moüillez, m'accordent ma requeste.  
 Est-il pas vray, mon coeur? ne te resous tu pas?  
 
-    BERENICE, *en elle-mesme.*
+    BERENICE, *en elle-mesme.*.
 A mourir, à te suivre, à marcher sur tes pas,  
 Avant que je consente, & que l'obeissance  
 Me porte à cette lâche, & dure complaisance.  
 
-    PHALANTE
+    PHALANTE.
 Helas!  
 
-    IOLANTE, *en elle-mesme.*
+    IOLANTE, *en elle-mesme.*.
     Le coeur me fend;  
 
-    PHALANTE
+    PHALANTE.
         Pourquoy me cedes-tu  
 Ce tresor accomply d'Amour, & de vertu?  
 Qui suivra comme moy ta mort inevitable?  
 
-    IOLANTE, *en elle-mesme.*
+    IOLANTE, *en elle-mesme.*.
 O la belle alliance! ô le party sortable!  
 
-    IOLAS
+    IOLAS.
 J'oblige peu Phalante, en luy voulant ceder  
 Un tresor que mon coeur ne peut plus posseder:  
 Ne parle pas ainsi, mon frere, tu m'affliges;  
@@ -1887,10 +1887,10 @@ Je te donne mon bien, engagé comme il est,
 Sçachant que ta valeur, à qui tout fait hommage,  
 Reparera bien-tost ma perte, & mon dommage [94].  
 
-    IOLANTE, *en elle-mesme.*
+    IOLANTE, *en elle-mesme.*.
 O Dieux!  
 
-    IOLAS
+    IOLAS.
         Reçoy ma Femme, & mes Estats aussi,  
 Pourveu que de mes Soeurs tu prennes le souci:  
 Fay les de ta moitié les compagnes fidelles,  
@@ -1901,9 +1901,9 @@ Ne perdons point le temps, l'affaire est resoluë,
 Et je la veux passer de puissance absoluë.  
 
 
-### SCENE III
+### SCENE III.
 
-    IOLANTE, *seulle.*
+    IOLANTE, *seulle.*.
 (On tire le rideau devant la chambre.)
 
 Quoy cét homme inconu, que j'abhorre sur tous  
@@ -1925,25 +1925,25 @@ Il faut l'interesser dans ma juste vengeance,
 Et par elle à mes maux chercher quelque allegeance [97].  
 
 
-### SCENE IV
+### SCENE IV.
 LILIANE, IOLANTE.
 
 
-    LILIANE
+    LILIANE.
 Ah! ç'en est fait, ma Soeur, nous perdons Iolas.  
 
-    IOLANTE
+    IOLANTE.
 Nous perdons plus encor, nous perdons ses Estats:  
 Je ne le puis pleurer parmy tant d'injustice,  
 Il vient de tout donner, avec sa Berenice,  
 A son amy Phalante; & ce beau Suborneur,  
 Triomphe de nos biens, comme de nostre honneur.  
 
-    LILIANE
+    LILIANE.
 Ah! ma Soeur, que dis-tu? tu leur fais une injure,  
 Et ton discours trop libre offence la Nature.  
 
-    IOLANTE
+    IOLANTE.
 Je dy ce que mes yeux seulement m'ont appris,  
 Et j'eusse à peine creu d'un autre ce mépris:  
 Iolas à ma perte, aussi bien qu'à ta honte,  
@@ -1959,10 +1959,10 @@ Et leur procure encor des partys dignes d'elles.
 Ils ont feint quelque temps tous deux d'y resister,  
 Mais qu'enfin, pour luy plaire ils vouloient l'accepter. [98]  
 
-    LILIANE
+    LILIANE.
 Ah! ma Soeur, puis-je croire une telle disgrace?  
 
-    IOLANTE
+    IOLANTE.
 Entre, si tu veux voir le contract qui s'en passe: [99]  
 Mais avant qu'on le suive, & que contre nos lois  
 Il soit effectué, je mourray mille fois:  
@@ -1974,10 +1974,10 @@ Si l'un nous tyrannise, & nous fait une injure,
 L'autre est traistre par tout, infidelle, & parjure;  
 Vangeons nous, Liliane, en sauvant nostre bien.  
 
-    LILIANE
+    LILIANE.
 Quel remede, & comment?  
 
-    IOLANTE
+    IOLANTE.
 Elle la tire à part.
 
         J'en sçay bien le moyen  
@@ -1988,7 +1988,7 @@ Quand il sçaura l'outrage, & le tort qu'on nous fait,
 Qu'il ne se servira d'un si bel advantage,  
 Que pour nous restablir dedans nostre heritage.  
 
-    LILIANE
+    LILIANE.
 Dieux! que proposes-tu? ce discours plein d'horreur,  
 Ne part que d'un esprit agité de fureur;  
 Ce remede, ma Soeur, blesse ma conscience,  
@@ -1996,7 +1996,7 @@ Il est trop violant, donne toy patience,
 Peut estre que le Ciel, par des ressorts cachez,  
 Détournera ces maux qu'attirent nos pechez.  
 
-    IOLANTE
+    IOLANTE.
 O foible & lâche esprit! ô coeur tout plain de glace!  
 Que tu merites bien le coup qui te menace!  
 Puis que ce feu te plaist, & puis qu'aveuglement  
@@ -2008,11 +2008,11 @@ Vers l'endroit le plus foible, & le plus mal gardé;
 De qui les assiegeans n'ont point de cognoissance;  
 Le Duc dans cette nuict, l'aura sous sa puissance.  
 
-    LILIANE
+    LILIANE.
 Eh! de grace, ma Soeur, ne t'abandonne pas  
 Aux coups du Desespoir;  
 
-    IOLANTE
+    IOLANTE.
         Que ton courage est bas!  
 Pense que si j'outrage, on m'outrage de mesme,  
 Qu'à mon extréme mal mon remede est extréme;  
@@ -2028,11 +2028,11 @@ Berenice est déjà femme du Subordoneur;
 Je me vengeray seule, & j'en auray l'honneur.  
 
 
-### SCENE V
+### SCENE V.
 LILIANE, CARINTE.
 
 
-    LILIANE
+    LILIANE.
 Iolante, ma Soeur, où va cette insensée?  
 Détournez, iustes Dieux, sa cruelle pensée,  
 Qui dans le desespoir! [100] va se precipiter; [101]  
@@ -2044,13 +2044,13 @@ Que vomit contre moy la colere du Ciel:
 A tant de maux pressans cherche quelque remede,  
 Soulage ma douleur, je reclame ton aide.  
 
-    CARINTE
+    CARINTE.
 Eh! Madame, je meurs de vous voir affliger;  
 Que puis-je, pour vous plaire, & pour vous soulager?  
 Pleust au Ciel, qui connoist mon coeur, & mon envie,  
 Que je vous peusse aider aux dépens de ma vie.  
 
-    LILIANE
+    LILIANE.
 Tu peux, sans qu'il t'en couste un soupir seulement,  
 Vaincre mon infortune, & guerir mon tourment:  
 Si tu n'as oublié ce secret admirable,  
@@ -2072,7 +2072,7 @@ Retournera peut-estre, à son premier lien:
 C'est de toy que dépend l'honneur de la Province;  
 Le bien de Liliane, & le salut du Prince.  
 
-    CARINTE
+    CARINTE.
 S'ils dépendent de moy, comme vous le jugez,  
 Madame, c'est à tort, que vous vous affligez:  
 Puis qu'ayant sur Carinte une entiere puissance,  
@@ -2100,12 +2100,12 @@ En deux heures luy peut donner toute allegeance,
 Nos esprits sur ce point seroient déjà contens,  
 Si l'on m'eut laissé faire, il en est encor temps.  
 
-    LILIANE
+    LILIANE.
 Quoy? tu peux empescher que mon Frere ne meure?  
 Un doux rayon d'espoir encore te demeure?  
 Tu le pourras guerir?  
 
-    CARINTE
+    CARINTE.
         Ouy, je vous le promets,  
 Si je ne le gueris, ne me voyez jamais:  
 Dans l'Art des Medecins sa perte est resoluë,  
@@ -2113,23 +2113,23 @@ Vous m'y pouvez mener de puissance absoluë,
 Et vous admirerez l'effect de mon secours,  
 Avant que cette nuit ait terminé son cours.  
 
-    LILIANE
+    LILIANE.
 Allons, si de l'effect ta parole est suivie,  
 Je te devray les biens, & l'honneur, & la vie.  
 
 
-### SCENE VI
+### SCENE VI.
 CARINTE, LILIANE, ARONTE.
 
 
-    CARINTE
+    CARINTE.
 Mais il faut sur son mal Aronte consulter,  
 Puis qu'il sort de sa chambre, & vient de le quitter.  
 
-    LILIANE
+    LILIANE.
 Eh bien, que fait mon Frere?  
 
-    ARONTE
+    ARONTE.
         Ah! ç'en est faict, Madame,  
 Ce Prince glorieux, est prest de rendre l'ame,  
 Ce venin espandu fait par tout son effort;  
@@ -2141,51 +2141,51 @@ Son genereux amy, qu'il ne peut secourir:
 La seule Berenice, entre ses bras pasmée,  
 Demeure aupres de luy, de douleur consommée.  
 
-    LILIANE
+    LILIANE.
 O spectacle funeste! Carinte, je meurs.  
 
-    CARINTE
+    CARINTE.
 Ne nous amusons point à d'inutiles pleurs; [103]  
 Sur tout la diligence à nos soins est requise:  
 Ne perdons point de temps, en si belle entreprise.  
 Fin du troisiesme Acte.
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE I
+### SCENE I.
 CARINTE, BERENICE, LILIANE
 
 Il se passe dans la nuict.
 
 
-    CARINTE
+    CARINTE.
 Le page avec un flambeau.
 
 Quoi, vous estes en doute encore sur ce point ?  
 Madame, il est guery, non, non, n'en doutez point,  
 Je connois mon remede.  
 
-    BERENICE
+    BERENICE.
         Helas! est-il posible ?  
 Croiray-je à ce miracle ?  
 
-    LILIANE
+    LILIANE.
         Il est assez visible;  
 Mon frere le confesse,  
 
-    BERENICE
+    BERENICE.
         Et je crains toutefois;  
 Carinte en as-tu fait l'épreuve [104] une autrefois ?  
 
-    CARINTE
+    CARINTE.
 J'en ay fait cent, Madame, & toutes favorables,  
 
-    LILIANE
+    LILIANE.
 Cette herbe a sans mentir, des vertus admirables;  
 
-    BERENICE
+    BERENICE.
 Carinte mon espoir, delices de mes jours,  
 Qui de tous nos mal-heurs viens d'arrester le cours,  
 Qui viens de rétablir mon repos & mon aise,  
@@ -2199,13 +2199,13 @@ Releve puissamment ce courage abattu!
 La moitié de mon coeur, par tes mains m'est rendue,  
 Je te dois tout mon bien, sans toy j'estois perdue.  
 
-    LILIANE
+    LILIANE.
 Fille miraculeuse, on ne peut en effect  
 Recognoistre un si digne, & si rare bien-faict:  
 Nous te serons ingrats, ces faveurs sont trop grandes,  
 Il te faut des Autels, il te faut des Offrandes.  
 
-    CARINTE
+    CARINTE.
 Ne flatez point mes sens par ces excez d'honneur,  
 Mes Dames, c'est à vous qu'on doit tout ce bonheur,  
 Vous m'avez fait agir; c'est par vostre industrie, [106]  
@@ -2219,19 +2219,19 @@ J'ay l'honneur d'estre à vous, j'ay fait ce que j'ay deu;
 Vous prodiguez en moy vostre recognoissance,  
 L'heur d'un si grand succés m'est trop de recompense.  
 
-    BERENICE
+    BERENICE.
 Je sçay bien que ton coeur, noble & grand comme il est,  
 En la seule vertu cherche son interest:  
 Aussi pour te payer de ce bien-fait extréme,  
 Je te fay seulement un present de moy-mesme.  
 
-    LILIANE
+    LILIANE.
 Reçoy mon coeur encore, & dispose de moy,  
 Puis que tous nos tresors sont au dessous de toy;  
 Et croy que je n'auray, ny gloire, ny fortune,  
 Dans le cours de mes ans, qui ne te soit commune.  
 
-    CARINTE
+    CARINTE.
 Je n'abuseray point d'un heur si precieux;  
 Jugeant que tout me vient de la faveur des Cieux;  
 Mais songez qu'il est tard, genereuse Princesse,  
@@ -2239,7 +2239,7 @@ Apres tant de travail, de peine, & de tristesse;
 Puis qu'Iolas est pris des charmes du sommeil,  
 Allez dormir, au moins jusques à son réveil.  
 
-    BERENICE
+    BERENICE.
 Puis qu'en effect le Prince a la paupiere close,  
 Et que nostre esprit calme avec lui repose, [107]  
 Je croy, ma chere Soeur, qu'il est bien à propos,  
@@ -2254,90 +2254,90 @@ J'ay peur que mon Espoux n'en soit inquieté,
 Et le moindre accident peut nuire à sa santé:  
 Bon soir, ma chere Soeur;  
 
-    LILIANE
+    LILIANE.
         Bon soir, belle Princesse;  
 Allez l'accompagner. [108]  
 
-    BERENICE
+    BERENICE.
         Non, non, je vous la laisse,  
 Ce Page me suffit, mon coeur, demeure icy.  
 
 
-### SCENE II
+### SCENE II.
 CARINTE, LILIANE.
 
 
-    CARINTE
+    CARINTE.
 Disposez-vous, Madame, à reposer aussi;  
 La nuict tantost passée enfin vous y convie.  
 
-    LILIANE
+    LILIANE.
 Voicy de qui j'attens mon repos, & ma vie.  
 
-    CARINTE
+    CARINTE.
 D'ou?  
 
-    LILIANE
+    LILIANE.
         Le demandes-tu ? vois-tu pas mon Amant?  
 
-    CARINTE
+    CARINTE.
 Qu'il est pâle, & transi!  
 
-    LILIANE
+    LILIANE.
         Mais Dieu, qu'il est charmant!  
 
-    CARINTE
+    CARINTE.
 Il va revoir le Prince.  
 
-    LILIANE
+    LILIANE.
         Il me suivra sans doute,  
 L'ingrat qui m'a manqué, va prendre une autre route,  
 Pour ne pas soustenir les regards enflammez,  
 Des yeux qu'il a trahis, & qu'il a tant aimez,  
 L'infidelle aura peur de leur juste reproche.  
 
-    CARINTE
+    CARINTE.
 Madame, cependant le voilà qui s'approche.  
 
-    LILIANE
+    LILIANE.
 Que dirons nous Carinte?  
 
-    CARINTE
+    CARINTE.
         Asseurons le d'abord,  
 Que le Prince est par nous garanty de la mort;  
 Observant bien son coeur, il faut qu'on l'eclaircisse,  
 Et qu'il perde l'espoir d'épouser Berenice.  
 
 
-### SCENE III
+### SCENE III.
 LILIANE, PHALANTE, CARINTE.
 
 
-    LILIANE
+    LILIANE.
 Où peut aller Phalante, ainsi triste & pensif?  
 D'où luy vient ce chagrin, & ce deuil excessif,  
 Lors que tout est ravy d'un excez d'allegresse?  
 Ma rencontre peut estre a causé sa tristesse?  
 
-    PHALANTE
+    PHALANTE.
 Quoy, les jours d'Iolas sont à leur occident  
 Madame, & l'on peut rire, en si triste accident?  
 
-    CARINTE
+    CARINTE.
 C'est de sa guerison que provient nostre joye,  
 Prenez part au bon-heur que le Ciel nous envoye.  
 
-    LILIANE
+    LILIANE.
 Nous l'avons cette nuict par nos soings préservé,  
 Et tu devrais baiser la main qui l'a sauvé.  
 
-    PHALANTE
+    PHALANTE.
 Helas! vous vous mocquez; la nouvelle est trop grande,  
 Pour estre si tost creue; il faut que je me rende,  
 Pres du lict d'Iolas, pour éclaircir ce point,  
 A moins que de le voir, je ne le croiray point.  
 
-    LILIANE
+    LILIANE.
 Quoy? je verrois la mort de mon Frère asseurée,  
 Et je serois si lâche, & si denaturée,  
 Au lieu de le pleurer, au lieu de ressentir  
@@ -2355,11 +2355,11 @@ Tu ne le caressois qu'à cause de sa femme,
 Et tu nous as tous deux abusez lâchement,  
 Foible & mauvais Amy, traistre, & perfide Amant.  
 
-    PHALANTE
+    PHALANTE.
 Excusez de mon coeur l'innocente foiblesse,  
 Et ne vous fachez pas, je vous croy ma Princesse.  
 
-    LILIANE
+    LILIANE.
 Tu fais un grand effort, je t'ay creu mille fois,  
 Quand par tes actions tu dementois ta voix,  
 Je n'ay point revoqué tes paroles en doute,  
@@ -2378,7 +2378,7 @@ S'il s'est contre sa foy promis à Berenice,
 C'est par legereté, plutost que par malice:  
 Je veux croire qu'il m'aime.  
 
-    PHALANTE
+    PHALANTE.
         Ah! cruelle, en ce point  
 Tu m'estimes coupable, & je ne le suis point:  
 Je ne me suis promis, contre ma conscience,  
@@ -2424,7 +2424,7 @@ L'honneur que tu me fais, de recevoir ma foy,
 Pourveu qu'il s'en contente, & qu'il nous favorise,  
 Dans ces justes projets que le Ciel authorise.  
 
-    LILIANE
+    LILIANE.
 Croiray-je, mon Phalante, à ce que tu me dis?  
 Tous mes sens d'allegresse & d'amour interdis,  
 Ne me trompent-ils point, en la gloire éclatante,  
@@ -2434,7 +2434,7 @@ Quand je te devrois croire, à ma confusion [113],
 Tes propos dans mon coeur ne trouvent point d'obstacles,  
 Et j'y donne la foy, comme à de vrays Oracles.  
 
-    PHALANTE
+    PHALANTE.
 Tu le peux, ma Princesse, asseure toy d'avoir,  
 Sur l'esprit de Phalante un absolu pouvoir;  
 Et qu'il t'en va donner une preuve asseurée,  
@@ -2442,24 +2442,24 @@ Par sa fidelité d'eternelle durée.
 Mais tu ne me dis point comme on a peu guerir  
 Le Prince abandonné, qui s'en alloit mourir?  
 
-    LILIANE
+    LILIANE.
 Carinte cette nuit accouruë à son aide,  
 Dans la vertu d'une herbe a treuvé [114] son remède,  
 Et j'en ay veu le prompt & merveilleux effect.  
 
-    PHALANTE
+    PHALANTE.
 J'adore ce miracle, & la main qui l'a fait,  
 Mais que tardons nous plus? voyons que fait le Prince,  
 Et sauvons apres luy sa ville & sa Province.  
 
-    LILIANE
+    LILIANE.
 Je sçay bien la dessus un important secret,  
 Qu'il faut que je revele, & non pas sans regret.  
 
 
-### SCENE IV
+### SCENE IV.
 
-    IOLANTE *seulle.*
+    IOLANTE *seulle.*.
 Puis que dedans l'ardeur du corroux qui m'enflame,  
 J'ay si mal menagé le secret de mon ame,  
 Puisqu'elle s'est ouverte à cette ingrate Soeur,  
@@ -2484,13 +2484,13 @@ Sauvons nous dans sa tante, & quitons de bonne heure,
 Une si detestable, & si triste demeure.  
 
 
-### SCENE V
+### SCENE V.
 IOLAS, PHALANTE, LILIANE, CARINTE.
 
 LE CAPITAINE DES GARDES.
 
 
-    IOLAS
+    IOLAS.
 He bien, que dirais-tu des caprices du Sort?  
 Me voila par miracle affranchy de la mort:  
 Cette divine fille, au gré des Destinées,  
@@ -2512,7 +2512,7 @@ Tu sentisses ta perte avec tant de regret,
 Je me lairois [116] mourir de deuil & de tristesse,  
 Pour te laisser en paix posseder la Princesse.  
 
-    PHALANTE
+    PHALANTE.
 Tu peches contre moy par exceds d'amitié,  
 Mon frere, & je te treuve injuste en ta pitié,  
 Pren garde que mes pleurs ne coulent que de joye,  
@@ -2562,14 +2562,14 @@ Que mon service au moins ne me l'ayt mieux acquis:
 Je parleray tantost avec plus de licence,  
 Et si je te sers bien, voila ma recompence.  
 
-    IOLAS
+    IOLAS.
 Aurois-tu ce dessein, & pour elle & pour moy?  
 Songeay-je ce plaisir, ou si je le reçoy? [118]  
 Certes si j'ay le Ciel à ce point favorable,  
 Il n'est Prince en bon-heur qui me soit comparable:  
 Mais qu'en dit Iolante? & qu'en dis-tu ma Soeur?  
 
-    LILIANE
+    LILIANE.
 Que s'il vous plaist ainsi, Phalante est possesseur  
 De ce coeur que je mets entier en sa puissance,  
 Et dont il a raison d'estimer la constance.  
@@ -2578,27 +2578,27 @@ L'a tantost fait sortir des bornes du devoir,
 Concevant pour vous deux une haine mortelle:  
 Elle vous veut trahir.  
 
-    IOLAS
+    IOLAS.
         Que l'on s'asseure d'elle.  
 
-    LE CAPITAINE DES GARDES
+    LE CAPITAINE DES GARDES.
 Si j'eusse un peu plustost son dessein recognu,  
 Grand Prince, asseurement je l'aurois prevenu;  
 Avant que j'eusse appris son crime de Phalante,  
 Elle estoit échappée.  
 
-    IOLAS
+    IOLAS.
         O Fille violante!  
 O dangereuse humeur! esprit pernicieux!  
 
-    PHALANTE
+    PHALANTE.
 Crois-tu que le party d'Iarbe en vaille mieux?  
 
-    IOLAS
+    IOLAS.
 Hé quoy, tu sçavois donc ce qu'elle avoit dans l'ame,  
 Mon Frere?  
 
-    PHALANTE
+    PHALANTE.
         Cét object de ma pudique flame,  
 M'ayant dit que sa Soeur contre vostre maison  
 Machinoit pres du Duc certaine trahison,  
@@ -2617,7 +2617,7 @@ Prevenons son dessein, allons jusques à luy:
 Avec mille des miens ce matin je me vante,  
 De l'aller affronter jusques dedans sa tante.  
 
-    IOLAS
+    IOLAS.
 Tu n'entreprens jamais rien que bien à propos,  
 Va, j'iray cependant prendre un peu de repos,  
 Pour me mettre bien tost en estat de te suivre,  
@@ -2626,13 +2626,13 @@ Carinte à qui je dois la lumiere du jour,
 Le bien de mon Estat, & l'heur de mon Amour;  
 Que feray-je pour toy dans ce bien-fait extréme?  
 
-    CARINTE
+    CARINTE.
 Faisant pour vostre Soeur, vous faites pour moy-mesme,  
 Asseurant son bon-heur, vous asseurez le mien,  
 Apres son amitié, je ne souhaitte rien,  
 Que vos prosperitez.  
 
-    IOLAS
+    IOLAS.
         O genereuse Fille!  
 Je mets entre tes mains l'honneur de ma Famille,  
 Ta vertu me ravit, va t'en voir de ma part,  
@@ -2640,14 +2640,14 @@ Ce que fait la Princesse; elle a veillé bien tard,
 Et croy qu'au jour naissant, cette chere merveille,  
 Avec un doux repos repare cette veille.  
 
-    CARINTE
+    CARINTE.
 J'y vay.  
 
-    LILIANE
+    LILIANE.
         Ne tarde point, retourne promptement,  
 Liliane sans toy ne peut vivre un moment.  
 
-    CARINTE
+    CARINTE.
 J'admire les effets de vostre providence,  
 Grands Dieux, qui vous moqués de l'humaine prudence;  
 Et qui par des ressorts cachez à l'Univers,  
@@ -2663,32 +2663,32 @@ Les rendent bien-heureux, qu'ils soient recognoissans.
 Fin du IV. Acte.
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE I
+### SCENE I.
 IARBE, DUC DE CALABRE
 
 IOLANTE, MENANDRE.
 
 
-    IARBE
+    IARBE.
 Ouy, si je trouve icy toutes choses prosperes,  
 Je vous restabliray dans le bien de vos Peres; [119]  
 Recevez en ma foy, qui ne manqua jamais;  
 Je suis inviolable [120] en ce que je promets.  
 
-    IOLANTE
+    IOLANTE.
 Je n'esperois pas moins de l'honneur de nostre aage, [121]  
 De ce franc, magnanime, & genereux courage.  
 
-    IARBE
+    IARBE.
 Mais Dieux! est-il bien vray qu'en son aveuglement,  
 Berenice envers moy se porte insolamment?  
 Et que jusqu'à ce point cette Ingrate s'oublie  
 Que de nous menacer?  
 
-    IOLANTE
+    IOLANTE.
         J'admire sa folie,  
 Elle se promet tout de ce nouvel Epous,  
 Qui pense triompher bien-tost d'elle & de nous:  
@@ -2697,7 +2697,7 @@ La Calabre déja leur est bien asseurée:
 Déja ces vains esprits charmez dans leurs liens,  
 Estiment qu'ils joindront vos Estats à vos biens.  
 
-    IARBE
+    IARBE.
 S'ils ont fait ce projet, ils l'ont fait à leur honte,  
 Ces Amants aveuglez sont bien loin de leur conte,  
 J'ay dequoy reprimer leurs folles vanitez,  
@@ -2709,27 +2709,27 @@ Mais j'ay, graces aux Dieux, un Heritier vivant;
 Et je vous veux Madame, apprendre l'avanture,  
 Qui fit qu'en l'esloignant, j'offençay la Nature.  
 
-    IOLANTE
+    IOLANTE.
 Quoy? vous avez un fils incognu parmy nous?  
 
-    IARBE
+    IARBE.
 Il m'est sage Princesse, incognu comme à vous,  
 Mais au camp dans ce jour vous le verrez parestre,  
 Car l'ordre en est donné; Menandre, où peut-il estre?  
 Vient-il pas?  
 
-    MENANDRE
+    MENANDRE.
         Monseigneur, s'il sort de ma maison,  
 Il hazarde sa vie, avant sa guerison.  
 
-    IARBE
+    IARBE.
 En quelque estat qu'il soit, je veux qu'on me l'ameine,  
 Quel plaisir prennez-vous de me laisser en peine?  
 
-    MENANDRE, *en luy mesme.*
+    MENANDRE, *en luy mesme.*.
 O mal-heureux Menandre! ô Destin rigoureux!  
 
-    IARBE
+    IARBE.
 Vous sçavez que sans luy je ne puis estre heureux:  
 Je vous l'ay dit cent fois; mais quoy que je vous die,  
 Vous m'allez alleguer [123] tousjours sa maladie:  
@@ -2738,26 +2738,26 @@ Deust-il par les chemins entre vos bras mourir,
 Je le veux voir enfin, quelque mal qui l'accable,  
 Et sans plus de remise. [124]  
 
-    MENANDRE
+    MENANDRE.
         Ah! que je suis coupable,  
 De laisser eschapper ce gage precieux,  
 Que j'avois conservé quinze ans [125], comme mes yeux:  
 Il faut, il faut mourir.  
 
-    IARBE
+    IARBE.
         Que dittes vous Menandre?  
 
-    MENANDRE
+    MENANDRE.
 Qu'il faut vous l'emmener.  
 
-    IARBE
+    IARBE.
         Vous ne pouvez comprendre,  
 Ces discours ambigus, & pleins d'obscurité.  
 
-    IOLANTE
+    IOLANTE.
 Non,  
 
-    IARBE
+    IARBE.
         Je leur vay donner, le sens, & la clarté.  
 Sçachez que mon dessein, pour croistre mes desastres,  
 M'a rendu curieux de cognoistre les Astres;  
@@ -2810,7 +2810,7 @@ A jusques a present retardé mon plaisir.
 Maintenant je le presse; & pour m'oster de peine,  
 Tout malade qu'il est, je veux qu'il me l'emmene.  
 
-    IOLANTE
+    IOLANTE.
 Vrayement cét accident que vous me racontez,  
 Estonne mes esprits, & les tient enchantez;  
 D'un autre que de vous j'aurois peine à le croire,  
@@ -2821,16 +2821,16 @@ Pour estre le témoin vous-mesme de sa vie,
 Je m'estonne comment vous avez eu envie  
 De le faire venir devant vous inconnu?  
 
-    IARBE
+    IARBE.
 Le desir de le voir bien-souvent m'est venu;  
 Mais j'ay (me figurant une vaine disgrace)  
 De son Astre malin redouté la menace.  
 
-    IOLANTE
+    IOLANTE.
 Differez donc encor, jusqu'à tant que les Dieux  
 Vous le rendent entier, & qu'il se porte mieux.  
 
-    IARBE
+    IARBE.
 Puis qu'il doit rétablir mon bon-heur & ma joye,  
 Quoy qu'il puisse arriver, il faut que je le voye:  
 Cependant ma Princesse, allons disposer tout,  
@@ -2839,11 +2839,11 @@ Pour l'assaut de Tarente, & si j'en viens à bout,
 Seule vous en aurez le profit & la gloire.  
 
 
-### SCENE II
+### SCENE II.
 ALMEDOR, IARBE, IOLANTE, LES SOLDATS.
 
 
-    ALMEDOR
+    ALMEDOR.
 Seigneur tout est perdu, vos gens épouvantez,  
 Sans attendre les coups fuyent de tous cottez,  
 Phalante qui n'a point de pareil sur la terre,  
@@ -2852,12 +2852,12 @@ Abat vos Esquadrons, ravit vos Estendarts,
 Et seme dans le Camp l'effroy de toutes parts:  
 Tous nos retranchements cedent à son courage.  
 
-    IARBE
+    IARBE.
 Allons nous opposer à sa bouillante rage,  
 C'est un torrent qui passe, & qui ne peut durer,  
 Il n'est pas temps encor de rien desesperer.  
 
-    ALMEDOR
+    ALMEDOR.
 Vos meilleurs Officiers, qu'à Tarente l'on meine,  
 Sont déja prisonniers de ce grand Capitaine:  
 Rien ne peut resister aux forces de son bras;  
@@ -2865,20 +2865,20 @@ Si vous ne raliez vous-mesme vos Soldats,
 Vous perdez vostre Armée, en ce peril extresme,  
 Et vous courez fortune en vostre tente mesme.  
 
-    IOLANTE
+    IOLANTE.
 Sus, courage Soldats, il me faut secourir.  
 En ceste occasion, il faut vaincre, ou mourir,  
 Je l'extermineray, fut-il le Dieu de Thrace. [130]  
 
-    IARBE
+    IARBE.
 Détournez, justes Dieux, ce mal qui nous menace.  
 
 
-### SCENE III
+### SCENE III.
 MENANDRE, PHALANTE, HYDASPE.
 
 
-    MENANDRE
+    MENANDRE.
 Mourons, pour obéir à la rigueur du Sort,  
 Mais finissons au moins par une belle mort:  
 Vangeons en perissant l'honneur de la patrie;  
@@ -2894,7 +2894,7 @@ De nostre lâcheté, fatalle a sa Province:
 Tourne, teste Phalante, à moy brave Guerrier,  
 Adjouste a ton triomphe encore ce laurier.  
 
-    PHALANTE
+    PHALANTE.
 Tu cours à ta ruïne, insencé temeraire,  
 Qui ne peut resister à ma juste colere.  
 (Icy le Casque tombe de la teste de Menandre,
@@ -2915,7 +2915,7 @@ Qui se doit sa fortune, & qui comblé d'honneurs,
 Se void consideré de tant de grands Seigneurs.  
 Arrestez Compagnons.  
 
-    MENANDRE
+    MENANDRE.
         Ah! je meurs de joye,  
 Est-il vray que je veille, & que je vous revoye,  
 Glorieux Anaxandre? & que Dieu m'ait rendu,  
@@ -2925,12 +2925,12 @@ Vous estes mon Seigneur, & mon Prince, & mon Maistre,
 Souffrez donc aujourd'huy que Menandre à genous,  
 En cette qualité s'incline devant vous.  
 
-    PHALANTE
+    PHALANTE.
 Son plaisir est extrème; & comme il se redouble,  
 Il altere l'esprit du bonhomme [132], & le trouble,  
 Que faites vous, bons Dieux!  
 
-    MENANDRE
+    MENANDRE.
         Je fay ce que je doy,  
 Je l'avouë, il est vray, je suis tout hors de moy;  
 Mais troublé que je suis, je vous connois encore,  
@@ -2948,15 +2948,15 @@ Le camp de vostre Pere est tout épouvanté,
 Si vous ne détournez promptement cét orage;  
 Par vous seul excité, son honneur fait naufrage.  
 
-    PHALANTE
+    PHALANTE.
 Dites vous vray, Menandre? ou si [133] vos sens charmez,  
 Veulent tromper les miens d'alegresse pâmez?  
 
-    MENANDRE
+    MENANDRE.
 Aydez vous, aydez vous, en cette cognoissance,  
 Et par vostre grand coeur sentez vostre naissance.  
 
-    PHALANTE
+    PHALANTE.
 Menandre me surmonte, & dans mes hauts desseins,  
 Un Vieillard fait tomber les Armes de mes mains:  
 Mais puis que vous voulez que je sente ma joye,  
@@ -2964,7 +2964,7 @@ Puisqu'à tous vos discours vous voulez que je croye,
 Faites tant que je sçache au moins pour quel peché,  
 On m'a tenu chez vous si longuement caché.  
 
-    MENANDRE
+    MENANDRE.
 Venez trouver le Duc, que cette affaire touche,  
 Grand Prince, & l'aprenez vous-mesme de sa bouche:  
 Venez sur ma parole, il n'est pas loin d'icy;  
@@ -2972,7 +2972,7 @@ Ou si ses Legions vous tiennent en soucy,
 Si vous vous défiez, souffrez qu'il se hazarde,  
 Et qu'il me suive icy seul avecque sa garde.  
 
-    PHALANTE
+    PHALANTE.
 Je vous croy, cher Menandre, & vous veux obeyr:  
 Celuy qui m'a nourry me voudroit il trahir?  
 Allons à sa rencontre, ah! que j'ay l'ame esmeuë,  
@@ -2988,46 +2988,46 @@ En l'emmenant au camp, raconte luy le reste:
 Dy qu'on luy promet tout, si pour l'amour de moy,  
 Il pardonne à celuy qui luy manqua de foy.  
 
-    HYDASPE
+    HYDASPE.
 J'y cours.  
 
-    PHALANTE
+    PHALANTE.
         Dy cependant, en deux mots, cher Menandre,  
 Pourquoy l'on te commit [134] la garde d'Anaxandre;  
 Eclaircy promptement mon esprit curieux,  
 En gaignant la fraicheur, qui parest en ces lieux,  
 Où j'attendray le Duc, mon Seigneur, & mon Pere.  
 
-    MENANDRE
+    MENANDRE.
 Allons, en peu de mots je vous vay satisfaire.  
 
 
-### SCENE IV
+### SCENE IV.
 IOLAS, & LES PRINCESSES sur les murailles.
 
 
-    IOLAS
+    IOLAS.
 Peut-on voir sur la terre un homme plus vaillant?  
 Admire avecque moy ce courage bouillant,  
 Qu'en dis-tu, ma Princesse?  
 
-    BERENICE
+    BERENICE.
         Il est inimitable.  
 
-    LILIANE
+    LILIANE.
 Rien ne peut resister à ce bras indomptable.  
 
-    CARINTE
+    CARINTE.
 Voyez que d'ennemis à ses pieds abattus!  
 
-    BERENICE
+    BERENICE.
 Certes, j'ay de tout temps admiré ses vertus,  
 J'ay tousjours eu pour luy je ne sçay quelle estime,  
 Qui n'a point offencé nostre amour legitime;  
 Et ne l'ay jamais sçeu, ny hair, ni blasmer,  
 Que quand tu m'as voulu contraindre de l'aimer.  
 
-    IOLAS
+    IOLAS.
 Le respect que je porte à son amitié saincte,  
 M'ordonna dans mon mal cette douce contrainte;  
 Ne la reproche plus à ta chaste moitié;  
@@ -3038,65 +3038,65 @@ Lors qu'arrestant les siens, son casque il a haussé,
 Devant un des vaincus, qu'il a tant embrassé?  
 Puis vers cét arbre ensemble ils ont tourné visage.  
 
-    BERENICE
+    BERENICE.
 Quelqu'un, qui s'est soumis à ce jeune courage;  
 A merité de luy ce trait d'humilité;  
 Je cognois sa franchise, & sa civilité.  
 
-    ARONTE
+    ARONTE.
 Seigneur, les principaux de l'armée ennemie,  
 Dont Phalante a trouvé la valeur endormie,  
 Par luy faits prisonniers, sont sous vostre pouvoir,  
 On les vient d'emmener, vous plaist-il de les voir?  
 
-    IOLAS
+    IOLAS.
 Non, va les consoler un peu dans leur disgrace,  
 Et qu'on les traitte bien; la prosperité passe,  
 Le Sort en autre temps les peut favoriser,  
 Le Sage, de son heur ne doit point abuser.  
 
-    LE PAGE
+    LE PAGE.
 Hydaspe, que Phalante appelle son fidelle,  
 Vous porte de sa part une grande nouvelle:  
 Il vient tout en fureur d'entrer dans la Cité.  
 
-    IOLAS
+    IOLAS.
 Sçais-tu pour quel sujet il s'est si fort hasté?  
 
-    LE PAGE
+    LE PAGE.
 Il dit que le bon-heur de Phalante est extréme,  
 Mais il veut reserver ce secret à vous mesme.  
 
-    IOLAS
+    IOLAS.
 Allons à sa rencontre.  
 
-    BERENICE
+    BERENICE.
         Ah! grands Dieux, que je crains,  
 Que ce Duc malheureux ne tombe sous ses mains;  
 Tout injuste qu'il est, il est toujours mon pere,  
 Grands Dieux; & vos faveurs ont calmé ma colere.  
 
 
-### SCENE V
+### SCENE V.
 IARBE, MENANDRE
 
 
-    IARBE
+    IARBE.
 Il n'est pas vray-semblable; Anaxandre, dis-tu,  
 Arrivé dans le camp, a des-ja combatu?  
 
-    MENANDRE
+    MENANDRE.
 Ouy, grand Prince, & de plus, il a vaincu Phalante,  
 Comme il se preparoit de forcer vostre Tante.  
 
-    IARBE
+    IARBE.
 Il a vaincu Phalante?  
 
-    MENANDRE
+    MENANDRE.
         En ses plus hauts dessains,  
 Il luy vient d'arracher la victoire des mains.  
 
-    IARBE
+    IARBE.
 Quoy! mon Fils, auroit eu tant d'heur, & tant de gloire,  
 Que d'emporter d'abord une telle victoire?  
 Tu le faisois malade, & dans l'extremité,  
@@ -3104,11 +3104,11 @@ Comment en ce peril s'est-il precipité?
 Comme a t'il-pû si tost, dans nostre Camp se rendre;  
 Explique ton discours, que je ne puis comprendre.  
 
-    MENANDRE
+    MENANDRE.
 Quand il vous contera ce succez glorieux,  
 Luy-méme, croyez moy, vous le comprendrez mieux.  
 
-    IARBE
+    IARBE.
 Apres tout, s'il est vray j'en benis l'avanture,  
 Menandre, & te sçay gré de cette nourriture;  
 Les Astres ont menti, du crime incestueux,  
@@ -3119,28 +3119,28 @@ De mon credule esprit Saturne [135] s'est joüé,
 Sa vertu me ravit, le Ciel en soit loüé,  
 Allons vers luy Menandre, allons en diligence.  
 
-    MENANDRE
+    MENANDRE.
 Allons, doy-je advoüer icy ma negligence?  
 Non, devant son cher Fils je me veux accuser:  
 Dans l'excez de sa joye il pourra m'excuser.  
 
-    IARBE
+    IARBE.
 Mais les Astres peut estre on predit de mon Gendre,  
 Ce qu'à faux j'imputois à mon cher Anaxandre:  
 Cét Ingrat m'a tenu lieu d'enfant jusqu'icy,  
 Et c'est luy seulement que le Ciel a noircy  
 De ce grand attentat, qui provocque ma haine.  
 
-    MENANDRE, *en luy mesme.*
+    MENANDRE, *en luy mesme.*.
 Je le veux éclaircir, & le tirer de peine;  
 Toutefois j'attendray que Phalante present,  
 (Puis qu'il a fait le mal) m'excuse en s'accusant;  
 Le voicy qui s'avance, ah! que j'ay l'ame esmeuë.  
 
-    IARBE
+    IARBE.
 Quel est ce Cavalier qui paroist à ma veuë?  
 
-    MENANDRE
+    MENANDRE.
 Grand Prince il n'est plus temps de vous rien déguiser,  
 Phalante est vostre Fils, qui se vient accuser  
 D'avoir des-honoré son bras, & sa naissance,  
@@ -3149,19 +3149,19 @@ Il se met à genoux.
 
 Pour tâcher d'obtenir son pardon, & le mien.  
 
-    IARBE
+    IARBE.
 Tu te fais plus obscur, je ny comprend plus rien.  
 
-    MENANDRE
+    MENANDRE.
 Quand j'ay dit qu'Anaxandre en sa valeur extréme,  
 A surmonté Phalante, il s'est vaincu soy-mesme,  
 Ce genereux Lion a calmé son courrous,  
 Dés qu'il a sceu par moy qu'il estoit né de vous.  
 
-    IARBE
+    IARBE.
 As-tu l'esprit troublé, que dis-tu là Menandre?  
 
-    MENANDRE
+    MENANDRE.
 Qu'en Phalante aujourd'huy vous voyez Anaxandre,  
 Et qu'un discours menteur vous a toûjours trompé;  
 Icy Phalante met un genoüil a terre devant Iarbe.
@@ -3178,21 +3178,21 @@ Qui luy servit quinze ans d'inutille prison:
 Le voila prosterné, mon offense le touche,  
 Et j'ose en demander le pardon par sa bouche.  
 
-    IARBE 
+    IARBE.
 Confus détonnement ie ne sçay que penser.  
 Il fait signe aussi à Menandre de se lever.
 
 Relevez vous mon Fils, & venez m'embrasser.  
 
 
-### SCENE VI
+### SCENE VI.
 PHALANTE, IARBE, MENANDRE &c. [136]
 
 
-    PHALANTE
+    PHALANTE.
 Le Ciel m'a t'il bien faict de ce crime capable?  
 
-    IARBE
+    IARBE.
 Ne vous excusez point, je suis tout seul coupable,  
 Ma superstition a fait tous vos pechez,  
 Je voy les découverts, & je crains les cachez: [137]  
@@ -3201,7 +3201,7 @@ Et l'Inceste sans doute, acheue mes desastres:
 Par la mort d'Iolas vous estes possesseur,  
 Des appas criminels de vostre propre Soeur.  
 
-    PHALANTE
+    PHALANTE.
 Ne craignez, pas mon pere, une telle disgrace,  
 Le Ciel s'est contenté de sa seule menace,  
 Ce dangereux Hymen reste autant imparfaict,  
@@ -3209,13 +3209,13 @@ Que mes sanglants desseins, qui n'ont point eu d'effect.
 Menandre m'a tout dit, vous avez par prudence,  
 De mon astre malin détourné l'influence.  
 
-    IARBE
+    IARBE.
 Ah! mon Fils, ce sçavoir est vain, & dangereux,  
 Si je l'eusse ignoré, j'eusse esté trop heureux:  
 Quoy vous avez donc pas espousé la Princesse,  
 Par la mort d'Iolas?  
 
-    PHALANTE
+    PHALANTE.
         Que vostre crainte cesse,  
 Iolas, dont le mal m'a comblé de soucy,  
 Est guery par miracle, & doit venir icy.  
@@ -3228,7 +3228,7 @@ Par sa rare vertu, jugez combien je l'aime,
 Oubliez vostre haine en ce jour solemnel,  
 Et lions nous à luy d'un amour eternel.  
 
-    IARBE
+    IARBE.
 Ouy, je le veux aymer, ouy mon cher Anaxandre,  
 Juge-le par ces pleurs que tu me vois respandre.  
 En l'excez de la joye, où je me vois plongé,  
@@ -3239,56 +3239,56 @@ A regagner le coeur de ces parfaits Amans,
 Et prevenons les tous par nos embrassemens.  
 
 
-### SCENE VII
+### SCENE VII.
 IOLAS, BERENICE, LILIANE,
 
 CARINTE, IARBE, PHALANTE, &c.
 
 
-    IOLAS 
+    IOLAS.
 Quel miracle est-ce cy? quelle grande fortune  
 Banit de nos destins la rigueur importune?  
 
-    BERENICE
+    BERENICE.
 Quel heur inesperé nous surprend en ces lieux?  
 
-    IARBE
+    IARBE.
 Rendons mes chers Enfans, rendons graces aux Dieux,  
 Ne nous souvenons plus de nos fautes passées,  
 Et que le seul amour regne dans nos pensées.  
 
-    PHALANTE,* à Berenice.*
+    PHALANTE,* à Berenice.*.
 Chere & parfaite Soeur, je ne m'estonne pas,  
 D'avoir eu tant d'amour pour tes chastes appas.  
 
-    BERENICE
+    BERENICE.
 Ta Liliane eut tort dans son amitié pure,  
 De blâmer un instinct qu'enseignoit la Nature:  
 Mais ce divin Objet, qui soupïre pour toy,  
 Sera-t-il pas en fin le seul prix de ta foy?  
 
-    PHALANTE
+    PHALANTE.
 Mon coeur hors ce desir n'a rien qui le contente,  
 Favorisez mon pere une si douce attente,  
 Secondez le vouloir de ce parfait amy,  
 Sans ce bien, vostre Fils n'est heureux qu'à demy.  
 
-    IARBE
+    IARBE.
 Que me demandes-tu?  
 
-    PHALANTE
+    PHALANTE.
         Cette aimable Princesse,  
 Pour qui depuis deux ans je soupire sans cesse,  
 Et dont vous apprendrez la constante amitié,  
 Apres que de mon feu vous aurez eu pitié.  
 
-    IARBE
+    IARBE.
 Iolas y consent?  
 
-    IOLAS 
+    IOLAS.
         Ouy de toute mon ame.  
 
-    IARBE
+    IARBE.
 Que le Ciel de vos coeurs eternise la flame,  
 Je veux une autre grace, Iolante a failly;  
 Mon fils noyez son crime au fleuve de l'oubly,  
@@ -3297,37 +3297,37 @@ Mais elle s'en repent, j'ay de l'amour pour elle,
 Et si vous m'accordez cette chaste beauté,  
 Je vous respons à tous de sa fidelité.  
 
-    IOLAS
+    IOLAS.
 Vous luy faites, mon pere, un honneur qui m'estonne,  
 Ouy, j'excuse sa faute, & je la luy pardonne,  
 Puisque vous l'ordonnez, je pers le souvenir,  
 Du mal quelle m'a fait.  
 
-    IARBE
+    IARBE.
         Qu'on la face venir.  
 
-    PHALANTE
+    PHALANTE.
 Lors que je suis sorty qu'as-tu fait ma Princesse?  
 
-    LILIANE
+    LILIANE.
 Mon esprit a suivy ta fortune sans cesse,  
 Mon coeur à ton espée a tousjours esté jointe:  
 Mais il mouroit de peur & tu n'en avois point.  
 
-    IOLANTE
+    IOLANTE.
 J'estois à la faveur de cet arbre cachée,  
 De regret & d'ennuy sensiblement touchée,  
 Mais sur vostre parole, & celle d'Iolas,  
 Confuse je me viens jetter entre vos bras.  
 
-    IOLAS
+    IOLAS.
 Ne crains plus rien, ma Soeur, ton offence est remise,  
 Tu ne verras icy qu'amour & que franchise.  
 
-    IOLANTE
+    IOLANTE.
 Ah mon frere, je meurs de t'avoir offensé.  
 
-    IOLAS
+    IOLAS.
 De nos espris contens ton crime est effacé,  
 Un pardon general signé de part & d'autre,  
 Abolit pour jamais ton malheur & le nostre,  
@@ -3336,7 +3336,7 @@ Allons dedans [138] Tarente ensevelir nos maux,
 La nous nous conterons toutes nos avantures,  
 Et mettrons ordre à tout pour les nopces futures.  
 
-    IARBE
+    IARBE.
 Allons, & que mon Fils, partout victorieux  
 Face connoistre au Roy, son destin glorieux.  
 Fin.

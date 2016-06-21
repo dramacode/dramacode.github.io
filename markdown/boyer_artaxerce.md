@@ -16,7 +16,7 @@ A PARIS. Chez C. Blageart, Court-Neuve du Palais, au Dauphin. M.DC.LXXXIII. AVEC
 Édition critique établie par Cécile Suignard sous la direction de Georges Forestier (2002-2003)
 
 
-# Introduction
+# Introduction.
 
 Écrivant en 1683 sa *Préface* d'*Artaxerce*, Claude Boyer se présente comme un auteur dont le talent est méconnu par ses contemporains. Il déplore les nombreuses critiques que subit son œuvre et place ses espoirs de reconnaissance dans la postérité :
 
@@ -26,13 +26,13 @@ Cependant il est assez fâcheux de s'exposer à ces Censeurs impertinens, et d'a
 S'il a fallu attendre plus de trois siècles pour voir les voeux de notre auteur se réaliser, il semble bien que les travaux actuels de recherche menés en littérature du XVIIe s'engagent enfin sur la voie d'une réhabilitation. Citons notamment les éditions récentes de certaines des pièces de Claude Boyer enfouies dans l'oubli, mais qui avaient connu en leur temps un franc succès et qui sont maintenant à nouveau à la disposition du grand public : *Les amours de Jupiter et de Sémélé, tragédie*, (1666), réimprimé en 1985, ainsi que deux éditions critiques, *Oropaste ou le faux Tonaxare* parue 1990 et *Tyridate, tragédie suivi de Le fils supposé* (1649), parue en 1998 [2]. En effet, si la carrière de Claude Boyer fut assombrie et entachée pour les siècles suivants par les jugements négatifs d'ennemis de taille comme Racine et Boileau, le public de l'époque, lui, n'était pas si catégorique, et même plutôt favorable à un auteur qui, sans avoir le génie d'un Corneille ou d'un Racine n'était pas pour autant dépourvu de talent. C'est donc forts de cette opinion, que nous nous proposons ici de redécouvrir l'une de ses tragédies oubliée, *Artaxerce*, qui comme nous le verrons n'est pas sans qualités.
 
 
-# Présentation de l'auteur
+# Présentation de l'auteur.
 
 
-## Biographie générale de Claude Boyer (1618-1698)
+## Biographie générale de Claude Boyer (1618-1698).
 
 
-### L'ascension de Boyer dans la vie culturelle parisienne
+### L'ascension de Boyer dans la vie culturelle parisienne.
 
 Claude Boyer naît à Albi en 1618. Peu d'informations nous sont restées concernant ses origines sociales, sa parenté, mais nous savons qu'il fait ses études au collège jésuite de sa ville natale. Il se dote ainsi d'une solide culture en rhétorique et en littérature grecque et latine. Il possède donc les trois acquis fondamentaux selon Alain Viala : « une formation linguistique par la pratique du latin et de la traduction ; l'habitude des exercices d'éloquence, du jeu des figures et des citations ; enfin la familiarité avec l'histoire religieuse et antique [3] ». On ignore en quelle année se manifeste sa vocation littéraire, mais la pédagogie jésuite qui encourageait les pièces de théâtre montées entre élèves, a certainement contribué à éveiller chez le jeune homme un goût pour l'art dramatique. A la fin de ses études, il obtient un baccalauréat de théologie et le titre d'abbé.
 
@@ -84,7 +84,7 @@ Lancaster quant à lui, le qualifie même de : « leader parmi les auteurs de 
 Enfin, l'année 1667 voit le couronnement de la carrière de Boyer puisqu'il est élu à l'Académie française.
 
 
-### La disgrâce progressive de l'abbé Boyer : une renommée qui s'effrite sous les attaques
+### La disgrâce progressive de l'abbé Boyer : une renommée qui s'effrite sous les attaques.
 
 Cependant, à partir du début des années 70, la carrière de Boyer semble changer de face. D'une part, son protecteur Chapelain voit son propre crédit baisser, mais c'est surtout la montée d'un rival belliqueux, Jean Racine, qui triomphe avec *Andromaque* en 1667, qui met en péril le succès de notre auteur. Comme le remarque Lancaster, il semble qu'à l'ascension de Racine corresponde le déclin de Boyer [24] qui certes, n'avait pas son génie, mais était tout de même fort apprécié du public auparavant. Leur concurrence débute dès 1665, lorsque la troupe de Molière annonce la création d'une nouvelle pièce de Racine, *Alexandre Le Grand*, pièce qui est reprise tout de suite après par l'Hôtel de Bourgogne où elle connaît un fort succès. Face à cet événement, on réédite *Porus ou la générosité d'Alexandre* [25], pièce de Boyer vieille de plus de vingt ans, mais qui présente un même héros [26]. Ensuite, cabales et épigrammes multiples émanant du clan racinien ne vont cesser de se multiplier tout au long de la carrière de notre auteur qui, pour son malheur, a comme genre de prédilection le même genre que celui du grand maître Racine, la tragédie.
 
@@ -94,7 +94,7 @@ Les attaques proviennent de Racine, mais également de ses amis. En tant que pro
 Il Boyer n'a pas été assez heureux pour faire dormir personne à ses sermons, car il n'a point trouver de lieux pour prêcher. La nécessité l'a donc réduit à prêcher sur les Théâtres des Marais et de l'hôtel de Bourgogne ; mais il leur a porté malheur [29].
 
 
-### Dernier sursaut d'une carrière mouvementée : la tragédie sacrée
+### Dernier sursaut d'une carrière mouvementée : la tragédie sacrée.
 
 Cependant, en cette fin du règne de Louis XIV, le contexte culturel change peu à peu. Le Roi, vieillissant, voit s'estomper son goût pour les grandes fêtes et il se tourne désormais vers le recueillement et vers davantage d'austérité, sous l'influence notamment de Mme de Maintenon. Cette dernière, sur les conseils du Père de La Chaise, confesseur du Roi, fait appel à notre auteur et lui commande une *Jephté*, pièce destinée à être jouée par les pensionnaires de Saint Cyr, deux ans après le succès de l'*Esther* (1689) de Racine qui attestait d'un engouement nouveau du public pour les tragédies sacrées. Notre auteur accepte la commande et avoue même apprécier de s'essayer à un genre nouveau. Ainsi, dans sa *Préface*, il déclare:
 
@@ -109,7 +109,7 @@ Boyer connut donc une carrière en dents de scie. Il fut de son vivant un dramat
 ## Situation de Boyer en 1683 [34].
 
 
-### La Querelle des Anciens et des Modernes : position de Boyer
+### La Querelle des Anciens et des Modernes : position de Boyer.
 
 Pour comprendre la situation de Claude Boyer en 1683, date de la parution d'*Artaxerce*, il nous faut revenir sur la Querelle des Anciens et des Modernes qui anime alors la vie intellectuelle. Cette querelle débute vers les années 1670 et divise le monde des Lettres en deux camps adverses. D'un côté, les Anciens, ou encore « les gens de Versailles », c'est-à-dire, Boileau, Racine et leurs admirateurs, et de l'autre, les Modernes, ou encore « les beaux esprits de Paris », c'est-à-dire, ceux qui se réunissent autour du Mercure Galant [35], chez Mme de Deshoulières, et dans les salons où se prolonge la tradition précieuse et qui sont souvent des académiciens.
 
@@ -129,7 +129,7 @@ Déjà en 1678, dans *l'Avis au Lecteur* du *Comte d'Essex*, Boyer exposait ce m
 J'ay crû que puisque nos meilleurs Autheurs se picquent d'emprunter les sentimens et les vers des Anciens qui nous ont devancé de plusieurs siècles, que nous pouvions aussi emprunter quelque chose de ceux qui ne sont plus et qui nous ont précédé de quelques années (…) [37]
 
 
-### Boyer au cœur de rivalités personnelles
+### Boyer au cœur de rivalités personnelles.
 
 Par cette prise de position ferme en faveur du clan des Modernes, Boyer se trouve donc en butte avec le clan racinien et doit faire face à des rivalités plus personnelles [38]. Il se plaint souvent dans ses préfaces d'être la victime de cabales destinées à faire systématiquement tomber ses pièces. Dans la *dédicace à Colbert* du *Jeune Marius* (1670), il écrit :
 
@@ -154,7 +154,7 @@ Dans la préface d'*Artaxerce*, Boyer fait allusion à ces réunions, un peu bie
 Face à ces attaques, quelle stratégie notre auteur adopte-t-il ?
 
 
-### La stratégie de Boyer
+### La stratégie de Boyer.
 
 Boyer en vient à utiliser le pseudonyme de Mr. Pader d'Assezan, pour faire paraître certaines de ses pièces. Il nous dévoile ce stratagème dans la préface d'*Artaxerce* :
 
@@ -171,7 +171,7 @@ A travers les vers de Martial, il se compare donc aux plus grands auteurs grecs 
 Cependant, face à l'abondance et à la virulence des attaques contre lesquelles notre auteur résiste, on peut s'interroger sur leur bien fondé et aussi sur leurs conséquences pour la postérité de Boyer.
 
 
-### Répercussion des attaques subies sur la postérité de Boyer
+### Répercussion des attaques subies sur la postérité de Boyer.
 
 Nous avons vu que Boileau dans son *Art Poétique*, affiche clairement son mépris pour notre auteur. Or cet ouvrage se présentant pour les siècles suivants comme l'unique *criterium* du bon goût classique, il est certain qu'il a contribué à faire tomber Boyer dans l'oubli. Ainsi, au XVIII*e* siècle les Frères Parfaict, même s'ils reconnaissent la méchanceté de Boileau et de Racine envers leurs rivaux, ne réhabilitent pas pour autant notre auteur :
 
@@ -183,13 +183,13 @@ Leur condamnation de Boyer reste sans appel, pour eux, « sa poésie est dure, 
 Les siècles suivants ont continué à transmettre cette image d'un piètre rimeur, d'un auteur fade et austère, image que l'on tend aujourd'hui seulement à remettre en cause par les nouveaux travaux de recherches qui sont menés. En effet, si Racine s'est acharné à ce point sur notre auteur ne serait-ce pas parce qu'il risquait de nuire à sa gloire personnelle ? L'œuvre de Boyer ne serait donc pas sans certaines qualités…. Et c'est l'hypothèse que commence à émettre un critique comme Lancaster qui ose même formuler des jugements très positifs sur certaines pièces de Boyer comme *Oropaste ou le faux Tonaxare, Agamemnon*, ou encore *Les Amours de Jupiter et de Sémélé*. Quant à *Artaxerce* il déclare que la pièce «  n'est pas sans mérite [45] ». On peut donc considérer qu'un travail de redécouverte de cette œuvre méconnue reste à entreprendre, large travail étant donné l'ampleur de la production de Boyer [46]. Dans cette perspective, intéressons-nous maintenant à l'étude d' *Artaxerce*, tragédie de Boyer tombée dans l'oubli.
 
 
-# Présentation de la pièce
+# Présentation de la pièce.
 
 
-## Réception et fortune d'*Artaxerce*
+## Réception et fortune d'*Artaxerce*.
 
 
-### Fortune de la pièce : les différentes représentations
+### Fortune de la pièce : les différentes représentations.
 
 Dans les années 1680, le genre de la tragédie perd de sa vitalité, phénomène en partie dû à la volonté de Louis XIV de privilégier l'unité en créant le Théâtre de la Comédie française [47] comme seul théâtre. Ce monopole freine les innovations et la vie théâtrale s'appauvrit.
 
@@ -216,7 +216,7 @@ Aussitôt le parterre de siffler à outrance et de pari pris, comme s'il avait v
 Ainsi, l'échec d'*Artaxerce* ne serait pas dû à la valeur intrinsèque de la pièce mais plutôt aux préjugés négatifs d'une partie de l'opinion contre toute nouvelle création de notre auteur. Voyons à présent quels sont les reproches que formulés par les contemporains de Boyer.
 
 
-### La réception de la pièce : les reproches formulés
+### La réception de la pièce : les reproches formulés.
 
 Si la pièce connaît un certain succès auprès du public parisien et d'une partie de l'opinion, les critiques se déchaînent à Versailles. Toutefois, contrairement à ce que met en avant notre auteur, il ne s'agit pas simplement d'accusations visant sa personne, mais de reproches qui portent sur des éléments de poétique comme la construction de l'intrigue, la constitution des caractères, la conception du tragique. Concernant son action, Boyer déplore que l'acte II, mal compris à Versailles en raison des préjugés, ait nuit à l'éclat de l'acte III tant applaudi à Paris :
 
@@ -240,7 +240,7 @@ Ils critiquent le sujet comme étant indigne d'une tragédie notamment par l'amo
 Toutefois, le jugement plus récent de Lancaster est plus favorable à *Artaxerce*. Pour lui, cette tragédie en accord avec les règles classiques dans sa construction de l'intrigue, des personnages, ce tragique soucieux des bienséances, aurait dû séduire le public du XVIIe siècle et tout particulièrement la Cour. Or, c'est là que la pièce a échoué ! Ainsi, Lancaster en déduit que l'incident d'*Artaxerce* révèle l'importance de Racine et sa méchanceté envers ses rivaux [55]. Suivant cette opinion, nous verrons dans quelle mesure cette pièce au succès compromis par la cabale racinienne mérite qu'on la redécouvre pour la juger à sa juste valeur.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 Après la mort de Cyrus au cours de sa tentative d'attentat contre son frère le roi Artaxerce, Aspasie, jeune femme originaire d'Ionie qui avait été forcée de suivre Cyrus, est traitée avec beaucoup d'honneurs par Le Roy et gagne son amour ainsi que celui de son fils Darius, qu'elle aime en retour. Tiribaze, favori du Roy, aspire quant à lui à marier sa fille Nitocris au futur prince héritier pour se consoler du refus du Roy de lui donner en mariage la princesse Amestris. Nitocris aime Ariarathe, autre fils d'Artaxerce, mais elle est prête à sacrifier cet amour pour satisfaire les ambitions de son père. Le jour du choix de l'héritier au trône est arrivé. Artaxerce hésite entre son fils aîné, Darius, combattant remarquable, et Ariarathe, qui aime Nitocris et qu'il sait avoir le soutien de Tiribaze. Mais, Tiribaze décide finalement de jeter son dévolu sur Darius dont l'âge, les exploits, la popularité, en font un meilleur parti pour sa fille. Il obtient le consentement de celle-ci et lui commande d'enrôler Aspasie en leur faveur car il sait l'influence de celle-ci sur Le Roy (Acte I).
 
@@ -253,12 +253,12 @@ Darius supplie son père et il le menace de se suicider s'il ne peut épouser As
 Quand Darius tente d'enlever Aspasie afin d'empêcher le mariage de son père avec celle-ci, il blesse son frère, mais face à son père il cède, si bien qu'on l'arrête. Tiribaze, stimulé par sa fille, cherche à persuader Le Roy de condamner à mort son fils coupable d'une tentative de parricide, et il le menace de quitter la Cour s'il ne le fait pas. Artaxerce déclare à Darius qu'il lui laisse la vie sauve s'il accepte d'épouser Nitocris. Mais comme Darius se refuse à vivre sans Aspasie, il est condamné à mort. Aspasie accepte alors d'épouser Artaxerce et demande que Darius ait la vie sauve. Le Roy accepte non seulement d'épargner Darius mais, pour supplanter Aspasie en matière de générosité, il l'autorise à épouser son fils. Tiribaze pendant ce temps, poignarde Darius, puis il est tué par Oronte, après avoir avoué qu'il était responsable du conflit fatal entre Le Roy et son fils. Le dernier vœu de Darius avant de mourir, est qu'Aspasie épouse son père et on peut penser que c'est ce qui va se passer... (Acte V)
 
 
-# Le traitement des sources
+# Le traitement des sources.
 
 Au XVIIe siècle, toute œuvre littéraire peut être définie comme un travail de réécriture à partir de modèles anciens ou plus récents [56]. Ainsi, pour bien saisir l'entreprise de redramatisation à laquelle s'est livré notre auteur pour élaborer sa pièce *Artaxerce*, il nous faut dans un premier temps réfléchir sur ses sources et voir ce qu'il en a retenu. Puis, analysant les modifications et inventions auxquelles il s'est livré, nous pourrons apprécier comment il a construit son intrigue autour d'un sujet ancien pour présenter une pièce neuve et adaptée au public de son temps.
 
 
-## Les sources antiques : l'historien Plutarque
+## Les sources antiques : l'historien Plutarque.
 
 Dans la *Préface* de sa pièce, Boyer, sans citer ouvertement ses sources se réfère à Plutarque à travers le récit de trois anecdotes extraites de la *Vie d'Artaxerxès* [57]. Il s'agit des épisodes de l'artisan et de la coupe d'or de mille darigues, du Lacédémonien insolent, et enfin de la tentative d'assassinat du roi par son frère Cyrus dans le temple, épisodes qui lui permettent d'insister sur la douceur et la générosité d'Artaxerce envers ses sujets :
 
@@ -272,19 +272,19 @@ Chez le moraliste grec, Darios, fils aîné du roi Artaxerxès est nommé par ce
 À la lecture de ce résumé on voit que Boyer retient essentiellement de Plutarque la rivalité du roi et de son fils pour une même femme, Aspasie, et l'élément clé de la loi perse fondée sur la faveur que le roi doit accorder à son successeur. Toutefois, notre auteur pour satisfaire aux bienséances recule le choix d'Aspasie à l'acte IV. Le Roy lui accorde en effet un délai pour se prononcer afin d'éviter l'outrage aux bienséances que constituait chez Plutarque l'aveu immédiat d'Aspasie de sa préférence pour Darius. Boyer garde aussi la tentative de parricide manquée de Darius et sa mort finale ainsi que celle de Tiribaze, traître assoiffé de pouvoir et de vengeance. Cependant, il opère de larges modifications concernant le dénouement car il introduit l'acte de générosité d'Artaxerce qui gracie son fils, alors que chez Plutarque, Darius meurt condamné à mort. Artaxerce apparaît comme beaucoup moins violent chez Boyer ; quant à Darius, il est en quelque sorte « blanchi » car il est tué par le traître Tiribaze dont notre auteur en revanche « noircit » les traits. En effet, dans notre pièce, Darius ne s'est pas compromis avec Tiribaze comme chez Plutarque, il ne voulait qu'enlever sa bien aimée et il se trouve poussé au parricide par les circonstances mais il ne peut commettre un tel acte, tandis que Tiribaze, lui, n'hésite pas à tuer le jeune prince [64]. Boyer veut aussi rationaliser son intrigue et occulte toute référence à la déesse Diane. Mais, il garde le thème de l'enlèvement d'Aspasie, enlèvement qui reste à l'état de projet. Enfin, il affadit complètement la rivalité des deux frères pour le pouvoir, créant le personnage d'Ariarathe qui reste hors scène. Boyer a donc modifié très librement la trame de l'historien et devant ce peu de fidélité aux sources historiques [65], on peut penser qu'il a utilisé des œuvres plus récentes pour étoffer son sujet.
 
 
-## Les sources récentes
+## Les sources récentes.
 
 Les frères Parfaict dénoncent les emprunts faits aux pièces de Boisrobert et de Magnon par Boyer pour écrire sa tragédie [66].Or une telle accusation, si l'on conçoit toute œuvre du XVIIe siècle comme un travail d'imitation, n'a pas lieu d'être ; mais elle a le mérite de nous mettre sur la voie d'autres sources plus récentes qu'aurait utilisées Boyer. Quels éléments a-t-il retirés de ces pièces antérieures, pour construire une œuvre qui lui soit propre ?
 
 
-### Le Couronnement de Darie de Boisrobert (1642) [67]
+### Le Couronnement de Darie de Boisrobert (1642) [67].
 
 Résumons brièvement la pièce de Boisrobert. Elle débute le jour du couronnement de Darie nommé héritier de l'Empire perse par son père le roi Artaxerce. Darie accepte d'être couronné mais demande comme faveur, selon l'usage de la loi perse, qu'Aspasie enlevée par le roi qui l'aime aussi, lui soit rendue. Le roi se refuse à disposer de la volonté de celle-ci. On l'interroge, et elle choisit le prince. Le roi cède aux lois mais reporte toute sa colère jalouse sur Aspasie qui l'a outragé en lui préférant un autre. Il envoie Ariaspe, frère jaloux de Darie pour la récupérer mais celui-ci le menace de son fer. Alors le roi donne lui-même l'ordre d'emmener de force la jeune femme pour la donner à la déesse Diane.Tiribaze tente en vain de convaincre Darie de commettre un parricide. Devant le refus de celui-ci, il décide d'agir quand même en faisant croire aux autres conjurés qu'il suit les ordres de Darie. Darie de son coté parvient à s'entretenir en cachette avec Aspasie et projette de l'enlever. Le complot de Tiribaze est découvert et le roi croyant que Darie en fait partie donne l'ordre qu'on le tue. Darie mourant dénonce Tiribaze qui avoue ses crimes et est condamné à des supplices horribles par le roi désespéré de s'être mépris sur son fils. Heureusement Darie n'était que blessé, le roi lui cède Aspasie et partage son pouvoir avec lui, la pièce s'achève sur les projets de mariage.
 
 On voit tout de suite que cette tragi-comédie présente une intrigue complexe que Boyer tend à simplifier. Il retient du personnage de Darie, héros éponyme de la pièce de Boisrobert, l'image du valeureux combattant qui fait naître l'amour d'Aspasie, et aussi sa volonté d'user de la prière pour convaincre son père de lui rendre Aspasie [68].Concernant le personnage de Tiribaze, il garde l'idée d'accès au pouvoir grâce à un mariage, mais si chez Boisrobert il s'agit du propre mariage de Tiribaze avec la princesse Amestris, Boyer supprime ce personnage et, inventant Nitocris, fille de Tiribaze, il reporte le projet sur celle-ci et son mariage avec le prince. Il conserve aussi l'idée d'une confusion dans les accusations portées sur Darie qu'on accuse de parricide alors que son but n'est au départ que l'enlèvement de sa maîtresse. Mais, Boyer écrit sa pièce quarante années plus tard, époque où le goût du public a changé et où les doctes sont beaucoup plus soucieux du respect des règles classiques de bienséance et de vraisemblance, ce qui donne lieu à deux œuvres radicalement différentes sur un même sujet [69].
 
 
-### L'*Artaxerxe* de Jean Magnon (1645) [70]
+### L'*Artaxerxe* de Jean Magnon (1645) [70].
 
 Attachons-nous à présent à l'œuvre de Magnon. Chez Magnon, Artaxerxe, roi de Perse, choisit comme successeur Darius, son fils aîné qui, conformément à la loi perse, demande une faveur à son roi, la main d' Aspasie. Il la demande d'abord pour son frère en compensation de la perte du trône mais, le roi qui aime Aspasie refuse. Darius la demande ensuite pour lui-même et cette fois Artaxerxe est obligé de la céder conformément aux lois et au choix d'Aspasie elle-même. Tiribaze encourage le roi à ne pas se soumettre aux lois prétextant le danger d'une alliance avec une étrangère pour l'Etat. Sur ordre du roi, Ochus enlève donc Aspasie. Cependant, il finit par la céder à nouveau à Darius dans un acte de générosité. La princesse Amestris encourage son père à faire de même afin de donner un bel exemple de générosité à la postérité. Mais Darius accusé à tort de projet de parricide par le traître Tiribaze, est arrêté sur ordre du roi et condamné à mort. Cependant, le prince découvre la trahison de Tiribaze qui finalement meurt suite à une intervention des dieux en avouant ses forfaits, mort dont Tissapherne nous fait le récit. Artaxerxe se repent d'avoir jugé son fils sur des apparences trompeuses et, s'en remettant à la volonté du ciel, il lui cède Aspasie.
 
@@ -309,15 +309,15 @@ Enfin, Boyer choisit de traiter un sujet simple, où prédomine l'amour [86]. On
 Ainsi notre étude des sources nous révèle que notre auteur s'inscrit bien dans la tradition littéraire de l'imitation. Il fait preuve d'une grande liberté avec la source historique de son sujet tiré de Plutarque et s'inspire aussi d'œuvres dramaturgiques d'auteurs plus récents, Magnon essentiellement. De plus, il doit de tenir compte du public et de ses attentes mouvantes ce qui explique la volonté de présenter à la fois des éléments-types du genre de la tragédie, tirés de la tradition et dignes d'émouvoir, mais aussi des éléments plus récents comme le traitement d'un type d'amour particulier, traitement qui révèle l'influence exercée dans une certaine mesure, par le grand modèle en cette fin de siècle, Racine. Cependant, la pièce de Boyer apparaît comme originale car on observe de multiples changements et innovations par rapport à ces diverses sources. Ces modifications impliquent une transformation de la structure interne de l'action, action que nous proposons d'analyser à présent de manière plus approfondie.
 
 
-# Analyse de l'action
+# Analyse de l'action.
 
 
-## Structure de l'action
+## Structure de l'action.
 
 Si l'on se réfère à la définition de Georges Forestier, « le sujet de la tragédie à crise est le dénouement lui-même, paradoxalement envisagé comme le point de départ de l'action tragique : un point de départ situé à la fin, impliquant que l'action soit construite à rebours » [89]. Cette construction de type narratif nécessite une cohérence interne entre les différentes étapes de l'action, chacune d'elles doit sembler découler de la précédente selon un principe de causalité et nous mener ainsi au dénouement, véritable sujet de la pièce, de manière inexorable. Nous proposons donc ici de nous livrer au cheminement inverse : partant du dénouement, nous questionnerons chaque étape afin de dégager les maillons de la chaîne en remontant vers le début de la pièce.
 
 
-## La structure d'*Artaxerce* : une construction à rebours
+## La structure d'*Artaxerce* : une construction à rebours.
 
 Si on considère que le sujet d'une tragédie est son dénouement, alors le sujet d'*Artaxerce* serait la mort de Darius (V, 7). En effet, bien qu'Artaxerce donne son nom à la pièce et que son acte final de générosité soit fortement mis en valeur, ce geste ne constitue pas encore le dénouement de la pièce mais il en est plutôt la dernière péripétie [90]. L'acte de clémence du Roy qui gracie son fils et lui cède Aspasie (V, 6) s'avère inutile car il survient trop tardivement et ne parvient à empêcher le dénouement déjà en marche, la mort de Darius. Mais, comment notre intrigue est-elle construite pour rendre cette mort de Darius inévitable, pour conduire Artaxerce à effectuer ce geste de générosité seulement à ce moment précis de l'action, c'est-à-dire finalement lorsqu'il est déjà trop tard puisqu'il ne parvient pas à empêcher la mort du jeune prince ? Interrogeons-nous sur les liens régissant les étapes de l'action [91].
 
@@ -326,12 +326,12 @@ Tout d'abord, qu'est-ce qui conduit Artaxerce à gracier Darius et à lui céder
 On voit donc comment la rivalité du père et du fils pour une même femme est à la source de cette pièce. Tout s'enchaîne de manière logique à partir du refus du Roy de donner Aspasie à Darius. Dans les maillons de cette chaîne, s'intercalent les actions des personnages secondaires, Tiribaze et Nitocris, qui influencent l'action principale [92].
 
 
-## Analyse de chacune des étapes de l'action
+## Analyse de chacune des étapes de l'action.
 
 Selon Aristote et les théoriciens classiques, toute action pour être crédible et complète doit avoir un commencement, un milieu, et une fin [93]. Dans *Artaxerce*, on peut en effet procéder au découpage suivant : Artaxerce se décide à choisir Darius comme successeur, voilà le commencement, Darius demande comme faveur la main d'Aspasie que son père jaloux lui refuse et le prince renonce alors de peu à commettre un parricide, voilà le milieu, Artaxerce pardonne à Darius et lui cède Aspasie mais trop tard car Darius meurt, voilà la fin. Au niveau dramaturgique, on peut étudier le déroulement de la pièce en suivant ce découpage. On désignera alors ces étapes successives par les termes : d'« exposition »,  de « nœud » et de « dénouement ».
 
 
-### Etude de l'exposition
+### Etude de l'exposition.
 
 L'exposition, selon Bénédicte Louvat peut se définir ainsi :
 
@@ -366,7 +366,7 @@ Ainsi, la scène 1 contenant l'essentiel de l'exposition, la suite de l'acte rep
 Ainsi, cette exposition, si on se réfère à Jacques Scherer, pour qui une exposition satisfaisante « doit être entière, courte, claire, intéressante et vraisemblable [103] », remplit en grande partie ces conditions. En effet, disséminant les informations tout au long de l'acte I, elle parvient à rester claire. Elle est courte car on peut considérer que la scène 1 suffit pour l'essentiel à informer le spectateur. Toutefois, nous avons vu qu'elle présente une forme discontinue puisque certains éléments de l'intrigue principale n'apparaissent qu'à la scène 1 de l'acte II avec l'entrée d'Aspasie et cela dans un souci de raviver l'intérêt du spectateur. Elle se veut intéressante et très vivante puisque alliant constamment informations et action, elle présente un ton naturel qui la rend vraisemblable. Cela posé, passons maintenant à l'étape suivante, le nœud.
 
 
-### Étude du nœud
+### Étude du nœud.
 
 Le nœud constitue la partie centrale de l'intrigue, la durée qui s'écoule entre l'exposition et le dénouement. Il concentre donc l'essentiel de l'action, il est ce qui sera « dénoué » à la fin de la pièce. Bénédicte Louvat définit ainsi le noeud :
 
@@ -394,7 +394,7 @@ Les péripéties sont aussi appelées « coup de théâtre » ou « changemen
 En tant qu'événements qui font basculer l'action, les péripéties se concentrent dans l'acte III de notre pièce, au moment de la naissance du noeud, c'est-à-dire ce moment de bouleversement, où les relations entre les personnages changent pour devenir conflictuelles. On peut considérer alors trois péripéties successives : le refus de Darius d'épouser Nitocris (III, 2), la demande d'Aspasie comme faveur par Darius (III, 4), l'aveu du Roy de son amour pour Aspasie (III, 5). Ces événements inattendus, créateurs de surprise, sont mis en valeur par les exclamations des personnages qui les ressentent comme des péripéties pour eux [113]. L'acte V, voit aussi les péripéties s'accumuler à l'approche du dénouement et annoncent un nouveau renversement de situation. C'est tout d'abord la tentative de parricide de Darius [114], puis son refus d'épouser Nitocris pour être gracié qui amène sa condamnation à mort, puis l'acte de générosité d'Aspasie qui s'offre au Roy pour sauver Darius, et enfin, la dernière péripétie du nœud, l'acte de générosité d'Artaxerce. Si l'on s'en tient à la définition d'Aristote de la « péripétie », alors le geste d'Artaxerce constitue la véritable et unique péripétie de la pièce puisqu'elle fait basculer la situation. Artaxerce gracie Darius et on passe à nouveau du malheur au bonheur mais pour peu de temps, comme nous allons le voir dans notre étude du dénouement.
 
 
-### Le dénouement
+### Le dénouement.
 
 Toute dernière partie de la tragédie, le dénouement marque le moment où littéralement on « dénoue » les fils des intrigues. Alors, s'opère le basculement de l'action et le passage le plus souvent en tragédie, du bonheur au malheur [115]. On distingue l'« action simple » de l'« action complexe [116] », cette dernière présentant un coup de théâtre qui provoque le renversement final. Dans notre pièce, l'action se présente donc comme « complexe » puisque le coup de théâtre de l'acte de générosité d'Artaxerce crée un effet de surprise et permet le passage du malheur au bonheur [117]. Toutefois, il ne s'agit que d'un coup de théâtre inutile [118] et la grâce de Darius arrive trop tard car on nous annonce bientôt sa mort. La tragédie s'achève donc sur un nouveau passage du bonheur au malheur à la tonalité funeste.
 
@@ -409,15 +409,15 @@ Enfin, le dénouement est rapide, puisqu'il est concentré à la fin de la pièc
 L'étude de l'action d'*Artaxerce* nous a donc montré combien cette pièce est conforme aux règles et au goût classique de l'époque. Construite sur le mode de la marche à rebours, elle nous présente son dénouement comme imprévisible et pourtant inexorable. Chaque moment de l'action : exposition, nœud, dénouement, tente de répondre aux attentes du public et de susciter son intérêt. Le rythme de la pièce contribue également à maintenir le spectateur en haleine comme nous allons le voir à présent.
 
 
-## Rythme de l'action
+## Rythme de l'action.
 
 Notre pièce correspond dans sa forme aux critères du goût classique définis par l'Abbé d'Aubignac [122] qui préconise des œuvres d'environ mille cinq cent vers, contenant en moyenne trois cent vers par acte. Les actes, au nombre de cinq, doivent chacun comprendre de trois à sept ou huit scènes [123]. On note que le rythme s'accélère tout au long de notre pièce visant à produire un effet de *crescendo*, plaçant ainsi le sommet d'émotion, le *climax*, à la toute fin de la pièce, lors du dénouement [124]. Le nombre de scènes par acte va croissant ce qui traduit des entrées et sorties de personnages plus nombreuses, le nombre de vers échangés par acte augmente aussi, les échanges sont donc plus vifs, les scènes plus courtes [125]. Ainsi, présentant une forme très classique, notre pièce est également d'une grande vivacité, car la tension monte d'une manière constante et régulière à travers un rythme qui s'accélère. Après ces quelques remarques sur le rythme général de notre pièce, étudions plus précisément la valeur rythmique des actes mais aussi des entractes, et enfin, des scènes qui la constituent.
 
 
-## La valeur rythmique des actes
+## La valeur rythmique des actes.
 
 
-### Définition
+### Définition.
 
 Si l'on se réfère à la définition de Jacques Scherer, l'acte « n'est pas une division arbitraire de la pièce », il a « son unité et son individualité », « il tend à former un ensemble organique [126] ». Chacun des actes s'organise autour d'un noyau dur constitué par une à deux grandes scènes. Ces moments de forte tension où le rythme s'accélère, sont préparés et mis en valeur au sein de l'acte pour accroître l'intérêt du spectateur. De plus, si l'acte compte plusieurs grandes scènes, elles s'enchaînent d'une façon particulière qu'il convient d'étudier. En effet, selon Jacques Scherer :
 
@@ -427,7 +427,7 @@ Le plus souvent les actes classiques n'ont qu'une grande scène ; quand ils en 
 Comment sont donc réparties les grandes scènes dans chacun de nos actes ?
 
 
-### Répartition des grandes scènes de chacun des actes
+### Répartition des grandes scènes de chacun des actes.
 
 Concernant les actes I et II qui sont des actes essentiellement d'exposition et qui lancent l'action, il n'y a pas vraiment de scène majeure qui se dégage. De même, l'acte IV où le nœud se resserre ne comporte pas de scène qui supplante les autres par son importance. Mais, pour l'acte III où le nœud éclate, on peut dire qu'on a trois grandes scènes (les scènes 2, 3, 4). La scène la plus importante est la scène 3, mise en valeur par sa position centrale dans l'acte et dans la pièce. C'est ce grand moment de tension où Darius demande comme faveur la main d'Aspasie et essuie un refus de la part du Roy. Cette scène a été préparée par la scène 2, autre grand moment de tension où Darius a refusé la main de Nitocris. Enfin, de cette scène 3 découle une autre scène importante, la scène 4 dans laquelle Le Roy avoue publiquement son amour pour Aspasie et lui laisse le choix. On peut ici dire les scènes 2, 3 et 4 « s'entreproduisent », au sens ou l'entend Scherer, c'est-à-dire que la scène 4 résulte de la scène 3 qui résulte de la scène 2. Ensuite, c'est à l'acte V que nous pouvons dégager deux scènes importantes, cette fois non pas centrales mais ramassées à la fin de l'acte et donc de la pièce puisqu'il s'agit des deux dernières scènes (V, 6 et 7). Tandis qu'Artaxerce décide de gracier son fils (V, 6), Tiribaze en colère assassine Darius et est tué lui-même (V, 7). On peut donc considérer que notre pièce connaît deux grands moments d'accélération du rythme en fonction de cette étude de la répartition des grandes scènes : le cœur de l'acte III et donc de la pièce, et la fin de la pièce sont les deux *climax*. Toutefois hors de ces grands moments, il est d'autres scènes qui ont une forte valeur dynamique, ce sont les dernières scènes de chaque acte.
 
@@ -458,10 +458,10 @@ Ces révélations apportent pour le spectateur un éclairage nouveau sur la scè
 L'entracte correspond à l'intervalle entre deux actes, rien ne se passe sur scène et pourtant ce moment ne constitue pas un vide dans la pièce. En effet, certains événements ont souvent alors lieu hors scène et ils nous sont révélés à l'acte suivant. Il s'agit souvent d'actions violentes que proscrivent les bienséances, d'actions qui rompraient la règle de l'unité de lieu, ou encore d'actions ayant trop peu d'intérêt pour être représentées. Il faut justifier ce moment de pause et le « vrai entracte » doit donc véritablement instaurer une rupture entre les deux actes, c'est pourquoi remarque Jacques Scherer, « le même acteur qui ferme un acte ne doit pas ouvrir celui qui suit, à moins qu'on sache qu'il a agi ailleurs dans l'intervalle ou à moins que ses interlocuteurs n'aient changé au cours de l'acte [131] ». On peut dire que dans *Artaxerce* nous n'avons que des « vrais entractes » puisqu'on a toujours au moins le changement d'un des personnages. Toutefois, la plupart du temps on observe une continuité événementielle, il semble que rien ne se soit passé pendant l'intervalle de deux actes [132]. A l'exception de l'entracte située entre les actes IV et V, où prennent place des actions violentes, proscrites de la scène par les bienséances et de plus, difficiles à mettre en scène. Il s'agit de la tentative d'enlèvement d'Aspasie par Darius, du moment où il est poursuivi et blesse Ariarathe pour enfin se rendre une fois face à face avec son père. Ces événements nous sont racontés dans l'acte suivant au moyen des récits successifs de Tiribaze (V, 2, v. 1252-1266), puis du Roy (V, 3, v. 1322-1337). Cette abondance soudaine d'événements entre deux actes traduit une accélération du rythme et la montée de la tension dramatique à l'approche du dénouement. Mais si les entractes permettent d'instaurer une rupture entre les actes, les scènes, elles, se doivent d'être liées pour préserver l'illusion théâtrale. Ainsi, penchons-nous à présent sur cette liaison des scènes entre elles, puis tentons de dégager différents types de scènes en fonction de leur valeur rythmique.
 
 
-## Les Scènes : liaison et valeur rythmique
+## Les Scènes : liaison et valeur rythmique.
 
 
-### La liaison des scènes
+### La liaison des scènes.
 
 Pour les doctes, il convient en effet d'éviter à tout prix que le théâtre reste vide car cela conduirait le spectateur à se rappeler qu'il est au théâtre [133]. Il faut donc assurer la continuité d'une scène à l'autre et justifier toute entrée ou sortie de personnages. Selon Bénédicte Louvat, « quoique les théoriciens du théâtre ne s'accordent pas tous sur la définition des types de liaisons des scènes, on peut affirmer avec Corneille, qu'elles ressortissent à trois catégories distinctes : la présence, la vue, et le bruit [134] ». Quels types de liaisons rencontrons-nous dans *Artaxerce* ?
 
@@ -489,7 +489,7 @@ Chargé du nouveau soin de faire un Successeur ? (II, sc. 3-4).
 Remarquons toutefois que la liaison de présence récurrente dans notre pièce s'autorise quelques entorses par rapport à sa stricte définition. En effet, alors qu'elle ne doit présenter qu'une seule entrée ou sortie de personnage à la fois comme le souligne Jacques Scherer [141], bien souvent on assiste dans notre pièce à l'entrée d'un personnage, suivie de la sortie simultanée d'un autre. Cette série d'allées et venues contribue à accélérer le rythme de la pièce et à rendre les enchaînements plus naturels. On peut considérer qu'on a alors une « liaison de présence », puisqu'un des interlocuteurs de la scène précédente reste en place, et « une liaison de vue », puisqu'un personnage sort à la vue de celui qui entre, afin de le laisser seul avec son interlocuteur. On observe ce phénomène aux moments où la tension monte : à l'acte I qui doit être vivant pour lancer l'action, à l'acte V où tout s'accélère car le dénouement est proche et aussi lors de chaque fin d'acte [142]. A l'inverse, le rythme est plus lent à l'intérieur des actes quand on a seulement l'ajout ou le retrait d'une personne à la fois. A présent, voyons quels différents types de scènes on peut dégager en fonction de leur valeur rythmique.
 
 
-### Les types de scènes : du plus rapide au moins rapide
+### Les types de scènes : du plus rapide au moins rapide.
 
 Le rythme des scènes est très varié. Nous avons des scènes plutôt statiques, au rythme assez lent comme les scènes maître-confident qui ouvrent souvent les actes, les monologues placés souvent avant ou après des moments de forte tension car ils permettent un retour au calme et à la réflexion après l'action, et surtout un approfondissement des conséquences psychologiques d'un nouvel événement sur le personnage [143]. D'autres scènes marquent une continuité du rythme, ce sont les courtes scènes de transition qui permettent l'enchaînement des événements de l'action [144]. Enfin certaines scènes, les scènes majeures, voient leur rythme interne s'accélérer au fur à mesure que la tension monte. L'usage de la stichomythie qui crée une rupture dans le flux continu de l'alexandrin marque qu'il s'agit de moments de tension ou d'émotion. On rencontre cet échange de vers à vers lors des scènes d'aveu, lors des scènes du dénouement car elles sont riches en effets de surprise, et aussi lors des scènes de confrontations afin de faire éclater l'opposition entre deux personnages. On pense à la confrontation entre Darius et Tiribaze :
 
@@ -510,15 +510,15 @@ J'exécute son ordre, et n'examine rien. (IV, 8, v. 1130-1133) [145]
 Cette étude de l'action d' *Artaxerce*, puis plus particulièrement du rythme de cette pièce, nous révèle donc une œuvre qui, loin de s'enfermer dans les règles, sait tirer parti de sa forme très classique. En effet, elle se révèle être une pièce vivante, soucieuse de naturel pour maintenir le spectateur en haleine. Mais, si nous avons vu que la modification des sources entraînait la modification de la structure de l'action, elle entraîne alors aussi la modification des personnages puisque selon la définition de Saint Evremond, il faut faire « entrer les Caractères dans les sujets [146] ». Nous nous proposons donc maintenant d'analyser les caractères dans *Artaxerce* : Comment entrent-ils dans le sujet de la pièce ?
 
 
-# Étude des caractères
+# Étude des caractères.
 
 Dans cette partie, nous nous proposons d'étudier comment les « Caractères entre nt dans les sujets [147] » selon la formule de Saint Evremond. Pour ce faire, on s'attachera tout d'abord à étudier l'ensemble des personnages comme système. On tentera de dégager une hiérarchie des personnages et de déterminer les liens qui les unissent. Puis, dans un deuxième temps, on s'attachera à l'analyse de chacun des caractères en brossant leur portrait rapide, afin de voir comment l'auteur les a construits pour les mettre au service de son action et satisfaire en même temps le goût du public de l'époque.
 
 
-## Le système des personnages
+## Le système des personnages.
 
 
-### Hiérarchie des personnages
+### Hiérarchie des personnages.
 
 *Artaxerce* comporte neuf personnages. Pour établir une hiérarchie, on peut comparer leur importance respective en étudiant pour chacun d'entre eux à la fois leur temps de présence sur scène et leur volume de parole [148]. De cette analyse, se dégagent trois personnages principaux, Artaxerce, Darius et Aspasie, deux personnages secondaires, Tiribaze et Nitocris, et quatre personnages annexes, les trois confidents Oronte, Barsine, Cléonne, et le capitaine des gardes Mindate, auxquels s'ajoute la Suite.
 
@@ -529,7 +529,7 @@ Le personnage de Tiribaze, quoique secondaire, se remarque par sa forte présenc
 Enfin, on distingue des personnages annexes qui n'apparaissent que très ponctuellement et parlent peu, ce sont les confidents. Parmi eux, notons la suprématie d'Oronte qui occupe seulement deux scènes mais les scènes qui ouvrent et ferment la pièce, et dont le volume de parole est très élevé par rapport aux autres confidents (90, 5 v.). Viennent ensuite les confidentes Barsine et Cleonne, et le capitaine des gardes Mindate, personnages qui n'aparaissent que très peu et ne prononcent pas plus d'une quinzaine de vers chacun. Enfin, la Suite du Roy, muette, mais présente dans les moments clés que sont le couronnement de Darius (III, 4) et la scène finale.
 
 
-### Les relations entre les personnages
+### Les relations entre les personnages.
 
 Parmi nos personnages, on peut dégager différents groupes selon les liens ou les types de relations, conflictuelles ou alliées, qui les unissent. On distingue divers couples maître-confident qui apparaissent d'une manière générale aux premières scènes des actes [150]. Ainsi à chaque personnages principal ou secondaire correspond un confident : pour Darius, il s'agit d'Oronte, pour Aspasie, de Barsine, pour Nitocris de Cleonne. Notons toutefois que Tiribaze n'a pas un confident attitré dans la liste des acteurs. Il agit seul, tout en faisant part à sa fille de ses projets. Quant au Roy, on peut considérer qu'il a plusieurs confidents : son favori Tiribaze joue ce rôle lorsqu'il lui avoue son amour pour Aspasie (II, 5), mais aussi Aspasie, dont il a fait sa conseillère (II, 4) et enfin Mindate, lorsqu'il lui fait part de ses inquiétudes concernant l'opinion du peuple (IV, 1).On distingue des liens parent-enfant avec Artaxerce et Darius, Tiribaze et Nitocris. Pour chacun, se pose le problème de l'enfant à marier et les pères apparaissent tous deux soucieux du bonheur de leur progéniture. Tiribaze prend le parti de marier sa fille à Darius qui selon lui, lui « fera plus d'honneur [151] », Artaxerce exprime son amour pour son fils et son déchirement de ne pouvoir satisfaire les désirs de mariage de celui-ci [152]. Enfin, on note la présence de couples d'amoureux qu'il s'agisse d'amour partagé comme Darius et Aspasie ou Nitocris et Ariarathe, ou d'amour non partagé, comme le Roy et Aspasie.
 
@@ -538,10 +538,10 @@ Attachons nous maintenant aux couples de personnages qui s'opposent. Aspasie et 
 Enfin, on remarque dans cette pièce la primauté des relations triangulaires, propices aux conflits. Certains personnages sont comme « tiraillés » par deux autres qui les influencent dans des sens opposés. C'est le cas d'Aspasie, partagée entre son amour pour Darius et son devoir envers son roi. C'est le cas de Darius partagé entre son amour pour Aspasie et son respect pour son père. Mais le personnage le plus « tiraillé » est certainement le Roy. Il subit les influences contraires de ses deux conseillers, Tiribaze et Aspasie ; il est partagé entre son amour de père pour Darius et sa passion amoureuse pour Aspasie. Ce déchirement semble donc bien être le propre de nos personnages principaux [154]. Passons maintenant à l'analyse de chacun des caractères de la pièce en commençant par les plus importants.
 
 
-## Étude de chacun des caractères
+## Étude de chacun des caractères.
 
 
-### Les personnages principaux
+### Les personnages principaux.
 
 
 #### LE ROY.
@@ -616,10 +616,10 @@ Racine reprend lui aussi cette définition du héros imparfait et en cela, Dariu
 Aspasie se caractérise tout au long de notre pièce par sa sagesse et sa modération, elle est la « modeste Aspasie » (I, 1, v. 65). Elle se distingue par sa beauté dont Darius souligne les charmes, « Tout plein de la beauté dont j'adore les charmes » (I, 1, v. 44), tout comme le Roy : « Et sa pitié donnant plus de force à ses charmes, / Me rendit trop sensible à de si belles larmes » (II, 5, v. 586-587). Jeune femme étrangère, « Du Païs d'Ionie en ces Lieux amenée » (II, 1, v. 326) [171] et sans naissance, elle a gagné les faveurs du Roy et de la reine et acquis ainsi le statut de princesse : « D'autant plus qu'elle obtint de l'amitié du Roy, / Que j'aurois dans sa Cour les plus augustes marques / Qui distinguent icy les Filles des Monarques » (II, 1, v. 333-335). Toujours auprès du Roy, elle est pour lui une sorte de conseillère : « Toute Fille qu'elle est, le Roy souvent l'appelle /Aux secrets de l'Empire, aux soins de sa grandeur, » (I, 4, v. 247-248). Par son sens du devoir, on peut rapprocher Aspasie du type même de l'héroïne cornélienne. En effet, satisfaisant à son *ethos* de jeune femme, elle est très soumise et soucieuse de respecter son roi. Elle ressent des remords de ne pouvoir l'aimer : « Oüy, c'est une fureur, une rage obstinée, / D'apprendre son amour, et de ne l'aimer pas » (III, 6, v. 867-870) et veut se punir de l'outrager en lui préférant Darius. Ainsi, après un certain déchirement car elle aime sincèrement Darius : « Oüy, Seigneur, je vous aime, et ce cœur qui soûpire, / Se voyant malgré luy forcé de vous le dire, /En devroit à vos yeux expirer de douleur » ( III, 6, v. 850-852), elle se décide dans un premier temps à avouer son amour au Roy pour qu'il l'en punisse (IV, 6), puis elle se résout même à l'épouser :« Me voila toute preste à vous donner la main » (V, 6, v. 1469).Ce sacrifice de soi provoque notre admiration et ainsi on peut qualifier Aspasie de personnage cornélien car son *ethos* parvient à soumettre son *pathos* [172].
 
 
-### Les personnages secondaires
+### Les personnages secondaires.
 
 
-#### TIRIBAZE
+#### TIRIBAZE.
 
 Tiribaze est le favori du Roy, il exerce une grande influence sur son maître et se désigne lui même comme « l'Arbitre de son choix » (I, 4, v.213) pour décider du successeur au trône. Il est le type même de l'ambitieux, avide de pouvoir. S'étant vu refuser la main de la princesse Amestris en dépit des services rendus à la couronne : « Le Roy me refusa la Princesse Amestris » (I, 4, v.200) [173], il entretient son ressentiment contre le Roy et compte désormais régner à travers sa fille en lui faisant épouser le prince héritier : « Que ton front couronné console mes vieux ans, / Et que je regne en toy pour régner plus longtemps » (I, 4, v.208-209). En effet, avide de reconnaissance, il rappelle le rôle qu'il a joué lors de l'attentat de Cyrus, frère du Roy. Il avait alors sauvé la vie du Roy et par la même occasion le royaume :
 
@@ -632,7 +632,7 @@ Par mon sang prodigué marqua cette journée. (I, 2, v. 131-135)
 Le nouvel affront subi par le refus de Darius qui préfère Aspasie à Nitocris (III, 2), explique son accès violent de colère, il est désormais près à tout pour se venger de l'ingratitude dont fait preuve la famille royale à son égard et pour s'emparer du pouvoir. Ainsi, il laisse entrevoir au spectateur son plan de vengeance, monter le père et le fils l'un contre l'autre pour les perdre tous deux : « Vangeons-nous promptement, perdons nos Ennemis, / Faisons armer le Roy contre son propre Fils » (IV, 9, v. 1228-1229). En ce sens, il apparaît comme un traître, un personnage à double face qui s'entretient successivement avec le fils (IV, 8) et le père (V, 3), pour alimenter leur conflit [174]. Toutefois, cette passion du pouvoir le conduit à sa perte, tué par Oronte, il meurt en avouant ses crimes. Mais, fidèle à son image de scélérat, méprisant toute morale, après avoir outragé le Roy, il blasphème les dieux : « A ces mots, vers le Ciel ayant levé les yeux, / Il blasphéme en mourant, et déteste les Dieux » (V, 7, v. 1560-1561).
 
 
-#### NITOCRIS
+#### NITOCRIS.
 
 Nitocris, personnage inventé de toutes pièces par Boyer, est la fille unique de Tiribaze. Ambitieuse comme son père, elle le soutient dans ses projets et apparaît comme une sorte de reflet de celui-ci. Ainsi, à la mort de Tiribaze, elle tombe évanouie car elle n'est plus rien sans lui [175]. On peut ainsi s'interroger : quelle est l'utilité d'un tel personnage ? En fait, la création de Nitocris permet un dédoublement du personnage du scélérat. Au trio de la famille royale constitué par le Roy, Darius et Aspasie, s'oppose le duo constitué par Tiribaze et Nitocris. Il s'opère donc un rééquilibrage des forces de chacun des clans. Nitocris, ambitieuse comme son père l'encourage et provoque même le passage à l'acte de celui-ci en combattant ses hésitations [176] :
 
@@ -652,20 +652,20 @@ D'autres trouvent étrange que j'introduise sur la Scene une Fille sans amour ;
 En effet, Nitocris semble n'éprouver aucun mal à sacrifier son amour pour Ariarathe au profit de son ambition et d'un mariage avec Darius qui la conduirait au trône (I, 5). Nitocris joue ainsi un rôle ornemental, présentant un personnage féminin assez nouveau, justement par son absence de féminité.
 
 
-### Les personnages annexes
+### Les personnages annexes.
 
 
-#### ORONTE
+#### ORONTE.
 
 Oronte est le fidèle confident de Darius, il l'appelle « mon Maître » avec respect (V, 7, v. 1527). Ce personnage a plus de relief que les autres confidents bien qu'il ne soit présent que dans deux scènes. Dans le dialogue avec son maître (I, 1), il parle beaucoup (44 vers sur les 107 que compte la scène), il manifeste ses émotions. Tout d'abord sa surprise, lorsque Darius lui confie son amour pour Aspasie (v. 40) mais aussi, ses inquiétudes par rapport à l'avenir de cet amour pour une étrangère : « Etrangere, et d'un sang trop indigne de vous… » (v. 41), amour qui risque de contrarier les projets de mariage du Roy pour son fils. Ainsi, semblable à un gouverneur, il se permet de donner des conseils à Darius et n'hésite pas à se servir de nombreux impératifs à la fin de leur entretien : « Vous devez ménager, implorer la faveur / D'un Ministre insolent jaloux de sa grandeur » (v. 80-81), « Régnez par sa faveur, et bravez son couroux. / Ne perdez point de temps (…) / Forcez vostre fierté pour conserver vos droits » (v. 97-100). D'autre part, Oronte prend une part active à l'action puisque c'est lui qui intervient dans le dénouement et qui tue Tiribaze pour venger son maître : « (…) Frape le Prince ; et moy des mains de l'Assassin / Arrachant le Poignard, je luy perce le sein » (V, 7, v. 1540-1541). On peut donc considérer que, sans son intervention, la fin de la pièce aurait été différente et c'est ce que souligne le Roy : « Ton zele un peu trop prompt l'enleve à ma justice » (V, 7, v. 1542). En cela, on peut dire qu'il illustre cette nouvelle dimension qu'acquiert le confident à la fin du siècle, on ne peut le retirer de l'action sans changer la pièce [177]. En plus d'être acteur dans le dénouement, il joue donc aussi le rôle d'informateur puisque c'est lui qui en rapporte les derniers retournements. Son rôle évolue en effet vers la figure du traditionnel du messager puisqu'il nous fait le récit des morts successives de Tiribaze et de Darius, récit qui permet de satisfaire aux bienséances qui proscrivent toute violence sur scène [178]. On note l'éloquence dont il fait preuve dans son récit afin de susciter l'émotion du spectateur dans cette scène finale [179].
 
 
-#### BARSINE et CLEONNE
+#### BARSINE et CLEONNE.
 
 Barsine est la confidente d'Aspasie et Cleonne celle de Nitocris. Rarement présentes, elles parlent peu et représentent plutôt des faire-valoir de leur maîtresses dans des scènes qu'on pourrait qualifier de « faux monologues » selon la définition qu'en donne Jacques Scherer, c'est-à-dire ces « monologues déguisés en dialogues », des « monologues devant le confident [180] ». En effet, au début de la pièce, elles écoutent les données de l'exposition mais sans véritablement prendre par à la conversation. Barsine manifeste sa surprise lorsqu'Aspasie lui avoue son amour pour Darius : « O Dieux ! » (II, 1, v. 372), Cleonne exprime ses craintes concernant les projets de Nitocris de façon prémonitoire : « Peut-estre… » (I, 5, v. 299), mais elles sont bien vite interrompues par leur maîtresse qui ne les écoutent pas vraiment. Elles restent même parfois silencieuses durant toute une scène, jouant seulement les rôles d'accompagnatrices de leur maîtresse à l'image de la suite du Roy (II, 2).
 
 
-#### MINDATE
+#### MINDATE.
 
 Capitaine des gardes, Mindate apparaît lui aussi très peu mais, par sa fonction, il représente en quelque sorte la « vox populi », il tient le Roy au courant de l'opinion du peuple perse concernant les intrigues autour de la couronne [181]. Ainsi, il informe le Roy :
 
@@ -685,12 +685,12 @@ On murmure en tous lieux, et les plus emportez
 Semblent pour Darius à demy revoltez (…) (IV, 1, v. 918-925).  
 
 
-#### SUITE
+#### SUITE.
 
 Reste la Suite qui ne parle pas mais qui est présente dans les moments solennels comme le couronnement de Darius (III, 4) et la scène dernière qui rassemble traditionnellement l'ensemble des personnages restants sur scène. La Suite permet de donner plus de dignité à ces scènes, de rappeler que dans la tragédie évoluent les puissants de ce monde.
 
 
-### Les personnages absents de la scène mais évoqués dans le discours
+### Les personnages absents de la scène mais évoqués dans le discours.
 
 Plusieurs personnages ayant un lien avec des événements passés sont évoqués dans la pièce. On pense au frère du Roy, Cyrus, qu'évoque Tiribaze : « Quand vostre Oncle Cyrus vint attaquer le Roy » (I, 2, v. 132), et qui revient comme une image obsédante chez le Roy qui nous fait part d'un présage qu'il a reçu (II, 4, v. 500-513). D'autres figures apparaissent ponctuellement : Arsame mort au combat, la mère du Roy, l'épouse du Roy dont Aspasie souligne la bonté (II, 4, v. 498-499), la princesse Amestris refusée à Tiribaze (I, 2, v. 200-201). Ces personnages servent essentiellement à situer l'action dans le temps et à rappeler les crises qui ont précédé. Distinguons toutefois le frère de Darius, Ariarathe qui appartient au temps présent, et dont les actions simultanées à notre intrigue sont évoquées mais sans qu'il n'apparaisse jamais sur scène. Il apparaît comme terne et effacé. Evincé du trône, il préfère l'exil (IV, 1, v. 640-644).
 
@@ -699,12 +699,12 @@ Enfin, on peut s'interroger sur la place accordée aux dieux dans notre tragédi
 De cette étude des personnages, on constate que Boyer utilise les types qu'on trouve traditionnellement dans la tragédie qui met en scène le monde des puissants. Boyer nous apparaît comme soucieux de faire entrer ses caractères dans son sujet. Pour cela, il privilégie plutôt tel ou tel trait qu'il tire des sources et qu'il met au service de son action. S'il vise également à satisfaire aux critères de l'époque sur la constitution des caractères, il accorde aussi une place privilégiée aux passions. Ainsi, il montre que leur emprise sur les personnages peut entrer momentanément en conflit avec la constance de leur caractère. C'est donc cette place accordée aux passions dans *Artaxerce* que nous nous proposons d'étudier à présent.
 
 
-# Artaxerce : une tragédie des passions
+# Artaxerce : une tragédie des passions.
 
 Au cours de notre étude des caractères, nous avons observé que ceux-ci étaient entraînés par leur passions, leur *pathos* allant parfois jusqu'à subvertir leur *ethos* et provoquant leur perte. Ainsi, on peut s'interroger sur le traitement qui est réservé aux passions dans notre pièce, et comment celles-ci renouvellent la notion même de « tragique ». En quoi peut-on qualifier *Artaxerce* de « tragédie des passions » ?
 
 
-## Définition de la notion de « tragique »
+## Définition de la notion de « tragique ».
 
 Si l'on se reporte au *Dictionnaire* de Furetière, « tragique » se définit traditionnellement au XVIIe, comme ce « qui appartient à la tragédie, ce qui est funeste, sanglant [182] ». Cependant, lors de la parution de sa tragédie *Bérénice*, Racine a remis en cause cette définition :
 
@@ -739,10 +739,10 @@ Ce n'est donc pas un enjeu tragique : c'est un élément fondateur qui permet d
 Ainsi, quelles passions sont représentées, quel est leur rôle sur l'action, et comment parviennent–t-elles à créer le sentiment du « tragique » chez le spectateur ?
 
 
-## Un tragique des passions
+## Un tragique des passions.
 
 
-### Les passions dans *Artaxerce*
+### Les passions dans *Artaxerce*.
 
 On peut se rapporter à Aristote pour tenter de définir le phénomène des passions. Selon lui, si tous les affects dont l'homme est touché et qui modifient son esprit sont appelés *passions*, deux passions seulement sont spécifiques à la tragédie, la crainte et la pitié que celle-ci doit susciter chez le spectateur [191]. Mais sur la scène théâtrale, les tragédies du XVIIe tendent à représenter des personnages emportés par des passions de toutes sortes. On peut dégager selon Georges Forestier une liste de l'ensemble des « principales passions tragiques à cause desquelles les grands de ce monde peuvent mourir aux yeux des spectateurs », à savoir : « la vaine gloire (l'orgueil), l'ambition, l'amour, la jalousie, la haine » auxquelles on peut ajouter « la vengeance [192] ». Cette liste rappelle la tirade de Tiribaze à la fin de l'acte IV de notre pièce, soit juste avant le dénouement, à ce moment précis où les passions sont exacerbées :
 
@@ -754,7 +754,7 @@ Il ne manque que l' « orgueil » et la « haine » pour que la liste soit 
 De plus, on peut distinguer pour chaque caractère de la pièce, la passion à laquelle il se soumet ou contre laquelle il tente de lutter. Si on observe les trois personnages principaux, on voit que c'est l'amour qui exerce son emprise sur eux. Le Roy avoue à Tiribaze son amour pour Aspasie, amour qui pour lui, se révèle supérieur à tout, et qui le conduit même à souhaiter de quitter le trône pour s'adonner en paix à sa passion. Il apparaît donc comme véritablement soumis à cette passion, il déclare : « (…) Et ma foiblesse est telle, / Que mon cœur ne respire, et ne vit que pour elle » (II, 5, v. 577-579). Darius pour sa part ne souhaite le trône que pour demander Aspasie, il est lui aussi sous l'emprise de l'amour : « Mais si d'un feu caché j'avois l'ame enflâmée (…) » (I, 1, v. 35) et exprime sa soumission de façon sentencieuse : « Mais l'amour qui nous rend plus foibles, plus soûmis, / Descend jusqu'à prier nos plus grands Ennemis » (I, 1, v. 104-105). Quant à Aspasie, elle confie à Barsine sa lutte vaine pour oublier Darius : « J'ay fait tous mes efforts, et suis preste à tout faire, / Pour m'arracher au Prince, et me rendre à son Pere. / (…) Mais l'amour disposant de moy, malgré moyméme… » (II, 1, v. 374-378). Les deux personnages secondaires, Tiribaze et Nitocris, sont quant à eux sous l'emprise de l'orgueil, de l'ambition, une ambition qui évolue même en passions de vengeance et de haine suite au nouvel affront lié au refus de Nitocris. Tiribaze se vante de cette ambition qui gouverne ses actes : « Et mon ambition ne pouvant plus monter, / N'aura plus rien à craindre, et rien à souhaiter » (I, 4, v. 256-257). Nitocris utilise des formules sentencieuses pour justifier sa soumission à la passion d'orgueil qui la pousse à sacrifier son amour pour Ariarathe au profit de l'héritier Darius : « L'orgueil fait tout, Cleonne, et pour dire encor plus, / La vanité souvent fait toutes nos vertus. / L'Amour n'est pas un Dieu tel qu'on l'a voulu faire; / L'Amour périt bientost, sa flâme est passagere ; / Le dépit, la raison, l'âge, éteint les ardeurs, / Mais la gloire jamais ne meurt dans les grands cœurs » (I, 5, v. 272-277). On voit donc bien comment *Artaxerce* met en scène l'ensemble des passions qu'aiment à représenter les tragédies du XVIIe. En ce sens, on peut la définir comme tragédie des passions, mais quel rôle jouent ces passions sur l'action ?
 
 
-### Le rôle des passions : motiver, entraver l'action
+### Le rôle des passions : motiver, entraver l'action.
 
 Pour bien saisir le rôle joué par les passions sur l'action de notre pièce, il convient d'analyser leur influence sur les caractères puisque ceux sont eux qui agissent. Pour cela, il est intéressant d'étudier les monologues des personnages du Roy (IV, 2 et V, 5) et de Darius (IV, 7) qui nous dévoilent l'intérieur de ces personnages [193]. Rappelons en effet la définition que nous donne Jacques Scherer du monologue :
 
@@ -766,20 +766,20 @@ Scherer nous indique aussi que la fonction essentielle du monologue est d'ordre 
 Le rôle joué par la passion est différent chez les personnages secondaires. Pour eux, pas de dilemme tragique, la passion est d'emblée et exclusivement motrice de leurs actions. En cela, ils présentent une psychologie beaucoup moins complexe. Tiribaze et Nitocris, types même des scélérats, sont seulement animés par l'orgueil, l'ambition et la vengeance. Pour cette raison, ils ne monologuent pas, mais s'encouragent mutuellement. Ainsi, à la fin de l'acte IV, élaborant leur plan pour anéantir la famille royale, ils marquent leurs prises de décisions à l'aide d'impératifs multiples : « Vangeons-nous promptement, perdons nos Ennemis, / Faisons armer le Roy contre son propre Fils ; / Mais envoyons au Fils des Amis infidelles, (…) » (v. 1229-1236), à l'aide de sentences : « Quand l'honneur parle, il faut prendre pour trahison / Les timides conseils que donne la raison » (v. 1224-1225), de recours à des allégories : « Noble ardeur de régner que je voulois suspendre, / Parle, parle à mon cœur, tu peux te faire entendre » (v. 1203-1206). L'action motivée ici par la passion suscite la crainte du spectateur sur la suite des événements.
 
 
-### Le tragique des passions
+### Le tragique des passions.
 
 Dans cette pièce, les passions, qu'elles entravent ou motivent les actions des personnages conduisent inexorablement à leur perte. En ce sens, on peut parler pour *Artaxerce*, d'un tragique des passions. Comme le souligne Georges Forestier : « ce n'est plus le malheur en soi qui est le fondement du pathétique, mais la marche vers le malheur, une marche rythmée par le choc des passions – ou par le conflit du devoir et de la passion [197] ». Tous les personnages de notre pièce, victimes de leur passion, sont en marche vers le malheur et conduits à leur perte par leurs passions (V, 7). Tiribaze meurt des excès de son ambition qui le conduisent à l'assassinat du jeune prince durant lequel il se perd lui-même. Darius et Le Roy sont victimes de leur obstination amoureuse, aveuglés par leur rivalité, ils sont rattrapés par l'ambition de Tiribaze et de sa fille dont ils ne se sont pas assez méfiés. Darius est tué et Artaxerce réduit au désespoir de n'avoir pu empêcher la mort de son fils. On note toutefois dans cette tragédie des passions, l'importance de l'amour. Quelle place Boyer réserve-t-il à la passion amoureuse et quelle conception en propose-t-il ?
 
 
-## La passion amoureuse
+## La passion amoureuse.
 
 
-### L'importance de l'amour dans *Artaxerce*
+### L'importance de l'amour dans *Artaxerce*.
 
 L'amour est la passion qui occupe la plus grande place dans la pièce. Nous avons vu que nos trois personnages principaux sont soumis à son emprise. Les scènes d'aveux sont d'ailleurs nombreuses dans la pièce. Aux actes I et II on assiste en quelque sorte à un concert d'aveux : Darius avoue son amour à Oronte, Aspasie à Barsine et Le Roy à Tiribaze. A l'acte III, on assiste à une sorte de récapitulatif des aveux de chacun : Darius avoue son amour publiquement, puis c'est au tour du Roy, et enfin Aspasie avoue son amour à Darius. Enfin, on note, reculé à l'acte IV, un dernier aveu, celui d'Aspasie au Roy. On a donc véritablement un phénomène d'écho qui se met en place d'un acte à l'autre, c'est à qui avouera le plus tôt son amour. On note que ces aveux se font en trois temps : au confident, à l'être aimé, publiquement [198]. Aspasie avoue ainsi son amour pour Darius à sa confidente Barsine, puis à l'être aimé Darius, puis de manière publique, au Roy. Cet ordre n'est pas respecté pour Le Roy et Darius mais on observe tout de même trois temps. Le Roy avoue son amour à Aspasie, puis à Tiribaze, puis devant tous. Darius avoue son amour à Aspasie, à son confident Oronte, puis publiquement, au Roy. L'amour est donc bien au premier plan, mais peut-on pour autant parler de « pathétique tendre [199] » ? *Artaxerce* est-elle une tragédie galante ?
 
 
-### Une conception de l'amour qui emprunte à différents modèles
+### Une conception de l'amour qui emprunte à différents modèles.
 
 Dans *Artaxerce*, si l'on observe l'omniprésence de l'amour, cette passion n'asservit pas pour autant les autres passions. Bien au contraire, nous avons vu que l'amour est victime d'autres passions comme l'ambition, la haine, la vengeance à travers le personnage de l'amant Darius qui meurt des emportements violents de l'ambitieux Tiribaze. On ne peut donc qualifier la pièce de tragédie galante, puisque bien que l'amour soit très présent, ce n'est pas à proprement parler « une religion de l'amour [200] » qui est mise en scène ici.
 
@@ -796,7 +796,7 @@ Racine (…) prend ses personnages au moment où ils sont déjà habités par le
 *Artaxerce*, met donc en scène diverses passions et nous présente une conception du tragique comme le sentiment qui naît chez le spectateur à la vue des effets dévastateurs sur les personnages que provoquent les passions. En ce sens, on peut bien parler de tragédie des passions pour Artaxerce. Une tragédie des passions qui a la particularité de mettre en avant l'amour sans pour autant y assujettir toute son action car elle emprunte aux différents modèles du temps que sont non seulement la tragédie galante, mais surtout, les modèles cornélien et racinien.
 
 
-# Conclusion
+# Conclusion.
 
 Pour conclure, on peut dire qu'étudier *Artaxerce* nous conduit à nous étonner de l'échec d'une telle pièce. En effet, écrivant sa tragédie, Claude Boyer se veut en tous points conforme au goût de son époque. Il choisit un sujet à crise, digne d'émouvoir, mais l'adapte soigneusement aux exigences des bienséances du temps. Construisant son action comme une marche à rebours, il nous présente une pièce dont le dénouement apparaît ainsi inexorable. Il crée également des personnages de façon à ce qu'ils s'inscrivent dans son sujet tout en restant conformes aux critères de constitution des caractères à l'époque. De plus, Boyer emprunte à différents modèles contemporains en vogue : la tragédie galante dont le grand maître est Quinault, et les modèles des tragédies cornélienne et racinienne. On peut dire qu'il se livre à une sorte de synthèse de ces modèles pour nous proposer une tragédie des passions qui met en valeur l'amour. Il propose donc une œuvre riche, digne de plaire à son public. Comment alors expliquer l'échec ?
 
@@ -808,7 +808,7 @@ Bien sûr, on peut concéder à notre auteur qu'il a été injustement la cible 
 C'est peut-être là ce qui fait toute la différence entre un bon auteur comme Claude Boyer qui mérite d'être redécouvert, et des génies tels qu'un Corneille ou Racine que trois siècles n'ont pu oublier.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il n'existe qu'une seule édition d'*Artaxerce*, imprimée en 1683, à Paris, par C. Blageart Bibliothèque Arsenal : Rf.5650.En voici la description :
 
@@ -832,7 +832,7 @@ Trois autres exemplaires de la même édition sont aussi disponibles :
  * – Un exemplaire à la Bibliothèque Mazarine : 42142, format in-12. *Artaxerce* est la première oeuvre d'un recueil factice appartenant à un particulier. On trouve à la suite plusieurs comédies de Mr Dancourt, ayant chacune leur pagination, éditeur et date de publication propres.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour l'établissement du texte, nous nous sommes livrés à quelques rectifications d'usage qui nous ont parues indispensables pour une parfaite compréhension du texte :
  * – Nous avons supprimé le tilde qui était employé pour indiquer la nasalisation d'une voyelle, et avons décomposé ces voyelles nasales en voyelle + consonne ;
@@ -849,7 +849,7 @@ Une astérisque à la fin du mot renvoie le lecteur au glossaire situé en fin d
 Nous avons mentionné en gras les deux uniques notes de l'auteur dans sa *Préface* pour les distinguer des nôtres.
 
 
-## Liste des rectifications
+## Liste des rectifications.
 
 Nous donnons ici la liste des erreurs et coquilles qui ont été corrigées dans le texte que nous proposons. Pour ce travail, nous avons aussi confronté les quatre exemplaires existants de notre édition qui se sont révélés identiques tant par la présentation (bandeaux, lettrines, pagination…), que par le texte présenté. Cependant, notre exemplaire comportait par endroits des lettres effacées ou des tâches gênant la lecture, que nous avons pu corriger à l'aide de ces autres exemplaires.
 
@@ -880,7 +880,7 @@ Acte V
 v.1340 partd'un / v.1384 voit / v. 1463 cruelle. / v.1470 cet / v.1545 rang / v.1565 yoir.
 
 
-## Liste des abréviations utilisées en note de bas de page et dans le glossaireDictionnaire*(Acad.94).*
+## Liste des abréviations utilisées en note de bas de page et dans le glossaire.Dictionnaire*(Acad.94).*
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts*(Furet.)*
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*(Rich.).*
 Le Français classique. Lexique de la langue du XVIIe siècle*(Cay.).*
@@ -892,7 +892,7 @@ Introduction à la langue française du XVIIe siècle*(Sancier).*
 # ARTAXERCE TRAGÉDIE. AVEC SA CRITIQUE.
 
 
-## Préface
+## Préface.
 
 / IV / Il ne suffit pas toûjours aux Pieces de Théatre d'estre bonnes, pour estre heureuses⁎ ; beaucoup de choses, comme les Acteurs, la saison, le goût du siecle, la disposition des Spéctateurs, contribuënt à faire valoir, ou à faire tomber cette sorte d'Ouvrages ; ainsi chaque Autheur est en droit de justifier le sien, quand il se croit en état de le pouvoir faire. Jusqu'icy j'ay negligé ce secours, que je devois peut-estre à la justification de quelqu'un [208] de mes Ouvrages, quand ils n'ont pas réüssy. Je n'estois pas assez convaincu de leur mérite, pour me plaindre publiquement de leur malheur. Mais à l'égard d'Artaxerce, le moyen de se taire [209] ? Le jugement des Personnes fort éclairées, et dont le nom est respecté de l'envie⁎ mesme, les applaudissemens que cette Piece reçeut dans les premieres Représentations, me répondoient d'un succés infaillible.Un chûte si prompte, et si surprenante, / V / peut-elle estre naturelle ? Et ne doit-on pas l'imputer à quelque cause extraordinaire ? Toutefois me laissant aller à ma coûtume, et à mon inclination, satisfait du témoignage de beaucoup d'honnestes⁎ Gens, et de l'indignation du Public, qui n'a pû dissimuler une injustice si manifeste, je mettois Artaxerce au nombre des Ouvrages malheureux, et je fusse demeuré dans un profond silence, si ceux qui se croyent intéressez dans la réputation de mon Ouvrage pour l'honneur de leur jugement, ne m'eussent retiré de l'assoupissement où j'estois. Je ne dis pas cecy par cette fausse modestie, qu'affectent ordinairement les Autheurs qui veulent déguiser la demangeaison qu'ils ont de se faire imprimer. Pour justifier mes intentions, il suffit qu'on sçache que je n'ignore pas ce déchaînement de critique qui regne aujourd'huy, qui fait trembler tous ceux qui se meslent d'écrire, et qui sans-doute est un des plus grands malheurs qu'on puisse reprocher à notre siecle. Ce seroit une temérité inexcusable, de se livrer volontairement à cette fureur⁎ contagieuse qui a infecté la Cour et la Ville. Ne sçais-je pas ce qui est arrivé à un de mes Amis, qui ayant donné au public un Ouvrage [210] plein / VI / d'esprit et d'invention, l'a veu déchirer impitoyablement dans toutes ses parties, jusques-là qu'on a pas épargné un des plus beaux Vers qu'on ait jamais fait à la loüange du Roy ?
 
@@ -959,7 +959,7 @@ La Scene est à Babilonne, dans le Palais d'Artaxerce.
 
 
 
-# ACTE PREMIER
+# ACTE PREMIER.
 
 Artaxerce, TRAGEDIE.
 
@@ -1408,7 +1408,7 @@ Ne crains rien, de quelque air que nous puissions agir,
 Tout ce qui fait régner, ne fait jamais rougir [294].  < Fin du Premier Acte. > 
 
 
-# ACTE II
+# ACTE II.
 
 
 ## SCENE PREMIERE.
@@ -1824,7 +1824,7 @@ Rend souvent des devoirs, des soins⁎ à Nitocris…
 Peut-estre donnant trop aux sentimens d'un Pere,  
 Je me laisse flater d'un espoir teméraire.  
 
-    LE ROY. [321]
+    LE ROY. [321].
 Non, non, il faut unir ton sang avec mon sang.  
 Allons nommer enfin l'Héritier de mon rang.  
 Que mon Conseil s'assemble, et quand toute la Terre  
@@ -1929,7 +1929,7 @@ Je laisse à Nitocris, ce qu'elle aime le mieux.
     TIRIBAZE.
 Quel coup de foudre [331] ! O Ciel !  
 
-    NITOCRIS *à Darius.*
+    NITOCRIS *à Darius.*.
         Ce grand effort m'étonne⁎,  
 Seigneur, et c'est bien plus que m'offrir la Couronne.  
 Aussi vous jugez bien que de pareils bienfaits,  
@@ -1948,7 +1948,7 @@ Le Roy vient. Dérobons notre trouble à ses yeux.
 LE ROY, DARIUS, TIRIBAZE.
 
 
-    TIRIBAZE *au Roy.* [333]
+    TIRIBAZE *au Roy.* [333].
 Le Prince est satisfait, et vous allez apprendre  
 Quel est le fruit des soins que je viens de luy rendre.   
 
@@ -2293,7 +2293,7 @@ Vous ne me dites rien.
         Hé n'est-ce pas assez ?  < Fin du Troisiéme Acte. > 
 
 
-# ACTE IV
+# ACTE IV.
 
 
 ## SCENE PREMIERE.
@@ -2341,7 +2341,7 @@ Qu'on cherche Tiribaze.
 
 ## SCENE II.
 
-    LE ROY *seul.* [359]
+    LE ROY *seul.* [359].
         Artaxerce, tu vois  
 Quels bruits soüillent en toy la Majesté des Roys.  
 Tous les vœux des Persans se changent en murmures,  
@@ -2382,7 +2382,7 @@ Seigneur, le Prince est là, qui demande à vous voir.
     LE ROY.
 Est-il seul ?  
 
-    MINDATE 
+    MINDATE. 
         Oüy, Seigneur, et plein de desespoir,  
 J'ay vû sur son visage une douleur mortelle.  
 
@@ -2628,7 +2628,7 @@ Faites vostre devoir, ou je feray le mien.
 
 ## SCENE VII.
 
-    DARIUS *seul.* [371]
+    DARIUS *seul.* [371].
 Est-ce par ce discours, dont la rigueur me tuë,  
 Qu'on me rend la raison que j'ay presque perduë ?  
 Moy-mesme je voulois vous céder, et mourir,  
@@ -2801,7 +2801,7 @@ Tout est icy pour nous, trouble, confusion⁎,
 Vengeance, jalousie, amour, ambition.  < Fin du Quatriéme Acte. > 
 
 
-# ACTE V
+# ACTE V.
 
 
 ## SCENE PREMIERE.
@@ -3027,7 +3027,7 @@ Va, va, je ne suis point si foible que l'on pense,
 Je sçauray contenter ma gloire, ta vengeance,  
 La Nature, l'Amour, Darius, Nitocris.  
 
-    TIRIBAZE *en s'en allant, tout bas.*
+    TIRIBAZE *en s'en allant, tout bas.*.
 Rien ne peut nous vanger que le sang de son Fils.   
 
 
@@ -3066,7 +3066,7 @@ Que la necessité de perdre un Fils que j'aime.
 Il faut pour vous sauver, épouser Nitocris,  
 Je n'ay que ce prétexte à conserver mon Fils.  
 
-    DARIUS 
+    DARIUS. 
 Que jusque-là, Seigneur, le sang des Roys s'abaisse.  
 Sauvez-vous par ma mort d'une indigne foiblesse.  
 La blessure d'un Frere, et par un de mes coups,  
@@ -3107,7 +3107,7 @@ Qu'on l'oste de mes yeux, et que l'Ingrat périsse.
 
 ## SCENE V.
 
-    LE ROY *seul.* [388]
+    LE ROY *seul.* [388].
 Qu'il meure ? Que ce mot est horrible à mon cœur ! [389]  
 Mais tout se taist, et rien ne parle en sa faveur.  
 Ma Cour qui l'adoroit, s'étonne⁎, et se retire.  
@@ -3217,7 +3217,7 @@ Quel tumulte, quel bruit remplit tout ce Palais ? [395]
 LE ROY, ASPASIE, ORONTE, SUITE.
 
 
-    LE ROY *continuë.*
+    LE ROY *continuë.*.
 Qu'est-ce, Oronte ? parlez. Mais que vois-je paraître ?  
 Quel desordre ? quel sang ?  
 
@@ -3307,17 +3307,17 @@ FIN.
 Permis d'imprimer. Fait ce 13. Janvier 1683. DE LA REYNIE [402].
 
 
-# Glossaire
+# Glossaire.
 
 Nous donnons ici la définition des mots lorsque celle-ci diffère du sens actuel.Toutefois, certains termes qui n'apparaissent qu'une fois ont été expliqués dans les notes de bas de page, ceci dans un souci de clarté et de lisibilité. L'orthographe des mots est celle donnée par les différents dictionnaires consultés, et nous indiquons quand celle-ci diffère dans notre texte. Nous mentionnons les numéros de lignes renvoyant à la *Préface* de l'auteur, et les numéros de vers renvoyant à la pièce elle- même.Affreux, euseUn seul sens, très fort, au XVIIe, « Qui est horrible, qui fait peur, qui donne de l'effroy » (Furet.).V. 713, 834, 869, 1053, 1241, 1259, 1287, 1466, 1533Amant, anteSens plus large qu'en français moderne, « adj. Celuy qui aime d'une passion violente et amoureuse » (Furet.). Préface et vers 52, 79, 287, 736, 778, 788, 968, 1006, 1055, 1059, 1085, 1196, 1355, 1480Artifice« F.m. Signifie aussi Fraude, déguisement, mauvaise finesse » (Furet.)V. 1090, 1483Artificieux, euseDans le sens de « rusé, trompeur ». PréfaceCharme, charmes« F.m. Se dit figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration » (Furet.). Donc, en matière d'amour, attraits envoûtants, de même pour le verbe *charmer* (proche d'envoûter).V. 44, 367, 586, 835, 1106, 1484, 1503Charmer v. 301, 306, 660, 784, 844, 1244, 1366Confondre«  Se dit aussi de ceux qu'on surprend en quelque action honteuse qui les fait rougir » (Furet.) *confusion*, qui en ce sens signifie « honte ».Préface et v. 612Confusion v. 760« C'est un composé de fondre, qui ne se dit point au propre mais au figuré. Il signifie, Mesler deux ou plusieurs choses ensemble » (Furet.), et *confusion* (vers 1236), qui en ce sens signifie « embrouillement, desordre qui se trouve dans une famille, un Estat » (Furet.).V. 633, 1171Cruel, elle« Adj. Inhumain, impitoyable, qui aime le sang, qui prend plaisir à faire du mal aux autres » (Acad. 94). Donc le sens est très fort au XVIIe avec l'idée de sang issue de *cruor, oris* en latin, c'est-à-dire « sang rouge, sang qui coule » (Dictionnaire Latin Français de F. Gaffiot), et *cruauté* (ligne 149), dans le sens de « inclination à voir respandre le sang », et *cruellement*.V. 511, 549, 550, 714, 1359« Qui n'a point de bonté, qui est dur, qui ne fait aucune grace » (Rich.).V. 846, 1075, 1173, 1463« Il signifie aussi fâcheux, douloureux, insupportable » (Acad. 94).V. 112, 339, 347, 396, 433, 526, 719, 873, 992, 1004, 1071, 1168, 1380, 1400Courage« Signifie quelque fois Ardeur, affection » (Furet.). On trouve au XVIIe le sens de « cœur » pour *courage* qui est son dérivé. *Coeur* et *courage* sont encore interchangeables en français classique.Préface et v. 163, 887Deffaire« V.act. Mettre en desroute des gens de guerre, les obliger à fuir, les tailler en pieces » (Furet.).V. 2 défait« Signifie aussi quitter, abandonner (…) L'esprit a du mal à se deffaire des opinions dont il est bien préoccupé » (Furet.).V. 575 défaireDémentir« V.act. Signifie encore, Manquer de perseverance dans le bien, ou dans le mal… » (Furet.). PréfaceEnvie« Subst.fem. Chagrin qu'on a de voir les bonnes qualitez ou la prosperité de quelqu'un » (Furet.).Préface et v. 613, 1383« Signifie aussi la passion, le desir qu'on a d'avoir ou de faire quelque chose » (Furet.).V. 1131Estonner« V. act. Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte.Vient du latin attonare » (Furet.). Le mot issu de la même famille que tonnerre, a donc un sens très fort au XVIIe, celui d'ébranlement.Étonner v. 118, 402, 514, 674, 789, 1308, 1446Voir aussi étonnant (vers 501).Fer« F.m. Fer se dit aussi quelque fois absolument d'une espée et des armes » (Furet).V. 1336, 1539« On appelle absolument les fers, les chaisnes, carcans et menottes qui servent à tenir les prisonniers et les esclaves (…) En ce sens, il signifie Esclavage, et se dit particulierement en matiere d'amour » (Furet.), emploi pluriel pour ce sens.V. 380, 1099Fier, ere« Signifie aussi, Cruel, tyran. C'est un fier ennemi, pour dire, un ennemi dangereux » (Furet.)V. 356, 1521Fiérement (vers 145).Flamme« Subst.fem. On dit figurément la flamme de l'amour » (Furet.). Le mot possède donc le sens de ardeur amoureuse, il appartient au vocabulaire galant.Flâme dans notre pièce : v. 51, 263, 271, 275, 279, 398, 723, 790, 821, 859, 894, 915, 975, 991, 1033, 1091, 1098, 1126, 1194, 1360, 1487Fureur« F.f. Emportement violent causé par un déréglement d'esprit et de la raison » (Furet.). Ici, signifie donc délire, folie.Préface et v. 871« Se dit aussi en Morale de la colere lorsqu'elle est violente et démesurée, et qu'elle jette les hommes dans quelques excés » (Furet.)Préface et v. 492, 1164, 1183, 1204, 1222, 1273, 1348Furieux (vers 1192, 1320, 1529).« Se dit aussi de toutes les passions qui nous font agir avec de grands emportements (…) Il y a des amours qui vont jusqu'à la fureur » (Furet.)Préface et v. 386, 494, 546, 1153, 1197, 1231, 1553Furie mis dans le sens de « fureur » : v. 1062Genereux, euse« Adj. Qui a l'ame grande et noble et qui prefere l'honneur à tout autre interest » (Furet.)(Rq : les accents sont mis de façon assez aléatoire dans notre pièce. On trouve : *genereux* l. 175 /*genéreux* v. 969 /*généreux* v. 162.)Préface et v. 162, 969, 1485, 1506, 1569Genérosité (vers 1516).Heureux, euse« Signifie aussi, Chanceux, à qui le hasard est favorable » (Furet.).PréfaceHeureusement (vers 858).« Se dit aussi de ce qui a des qualitez excellentes en son genre » (Furet.).Préface et v. 560Honneste« Adj.m. et f. Celuy qui merite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. On le dit premierement de l'homme de bien, du galant homme, qui a pris l'air du monde, qui sçait vivre » (Furet.)PréfaceHonnesteté : préface.Indiscret, ete« Celuy qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait » (Furet.), donc agir sans retenue.L. 192, vers 922Interesser« Se dit aussi en Morale de l'émotion des passions. Un bon orateur doit Interesser les Juges, les Emouvoir à colere, à la compassion. » (Furet).Intéresser v. 210, 282, 427, 1488Irriter« V. act. Se dit figurément en choses morales et signifie exciter, rendre plus vif et plus fort. » (Furet). Préface et v. 38, 206, 1197, 1521Juste« Qui est en équilibre et convenable à la chose à laquelle il est en relation » (Furet.), sens d'exactPréfaceJustesseExactitude.Préface« Signifie aussi qui est selon les loix et l'équité naturelle » (Furet.), donc *juste* peut aussi s'employer dans le sens de justifié, fondé, légitime, et *justement*. On trouve aussi son contraire, *injuste*, dans le sens de injustifié, d'illégitime. V. 569, 640, 839, 875, 1159, 1450Liberalité« Subst. fem. Vertu morale qui tient le milieu entre la prodigalité et l'avarice ; vertu de celuy qui sçait donner quand il faut, et sans interest. » (Furet). La libéralité a donc un sens bien précis au XVIIe, elle suppose une attitude mesurée et réfléchie.(Rq : Les accents sont mis de façon assez aléatoire dans notre pièce : *liberalité* l. 135 / *libéralité* l. 80).PréfaceLiberal (vers 360).Maistresse« Subst.fem. On le dit particulierement d'un fille qu'on recherche en mariage » (Furet.). Le mot désigne plus généralement celle qui est aimée.Maîtresse dans notre pièce : préface et v. 1128, 1169, 1457Modeste« Adj. masc. et fem. Qui a de la modération, de la sagesse, de la pudeur » (Furet.)Préface et v. 65Murmurer« Parler sourdement, ou incertainement, se plaindre tout bas et avec timidité » (Furet.). V. 15, 250, 314, 590, 924, 1364, 1518ObjetLe mot appartient au registre de la galanterie. « Se dit poétiquement des belles personnes qui donnent de l'amour. C'est un bel Objet, un Objet charmant » (Furet.).V. 660, 1244Orgueil« La grandeur inspire un noble orgueil qui empêche de faire des bassesses » (Furet.), le mot désigne ici l'orgueil lié à la noblesse de sang, et a donc un sens positif différent de notre sens moderne. (Rq : Le mot est présent dans notre pièce sous deux orthographes différentes : *orgueï*l, dans la *Préface)* / *orgueil, dans* la pièce proprement dite.)V. 84, 162, 195, 199, 214, 272, 300, 314, 1184Paier« Acquitter une dette, un devoir » (Furet.).Payer, vers 440, 698, 1477Prevenir« Être le premier à faire la même chose » (Furet.).V. 222« Signifie aussi, Remedier aux maux qu'on a preveus, les empêcher, s'en garantir » (Furet.).V. 1559« Signifie aussi, Préoccuper l'esprit, luy donner les premières impressions » (Furet.)(Rq : les accents sont mis de façon assez aléatoire dans notre pièce, *prévenir* ligne 65 / *preveni*r ligne 245).PréfacePrévention : préface, dans le sens de préoccupation d'esprit, préjugé.SoinDans le vocabulaire galant, désigne les hommages que l'on rend à la femme aimée.V. 293, 305, 601, 868, 895, 1064« Se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l'ame » (Furet.). Donc ici, *soin* pour souci.V. 489, 652Souffrir« V. act. Se dit aussi en Morale, des afflictions de l'esprit, des émotions de l'ame par les passions » (Furet.).V. 102, 348, 536, 1275« Signifie aussi ne pas opposer à une chose, y consentir tacitement » (Furet.). Donc ici, sens de tolérer, supporter. (Rq : Le mot est présent sous deux orthographes différentes dans notre texte : *souffrir* v. 102/ *soufrir* v. 1030.)V. 202, 1030, 1272, 1376Souspirer« V. neutre et act. Pousser son haleine, sa respiration avec violence, quand on est esmeu de douleur, d'affliction, ou de quelque autre passion qui opresse le cœur » (Furet.).V. 8, 395, 434, 478 soûpirer«  Signifie aussi, aspirer, pretendre à quelque chose (…) Les amants souspirent pour le cœur de leurs maîtresses » (Furet.)V. 288, 588, 822, 850, 982, 1365Soûpirer soûpirs (vers 55, 724, 836).Soustenir« En termes de Guerre, signifie, Resister, s'opposer à la violence d'un ennemi » (Furet.).Soûtenir, préface et v. 1395« Signifie aussi, Fournir aux despenses necessaires pour entretenir, faire durer quelque chose (…) Cet homme a toûjours bien soustenu son caractere » (Furet.).Soûtenir, préface et v. 1004, 1234, 1307Sufrage« F.m. Voix qu'on donne dans les délibérations et en matiere d'élection qu'on fait de certaines personnes (…) Donner son sufrage à quelqu'un » (Rich.).(Rq : le mot est présent dans notre pièce sous deux orthographes différentes : *sufrage* vers 15/ *suffrage* vers 194).V. 15, 194, 611, 755Superbe« Vain, orgueilleux, qui a de la présomption, une trop bonne opinion de luy-même » (Furet.).V. 327, 754Surprendre« Signifie aussi, Tromper quelqu'un, lui faire faire une chose trop à la haste, ou en luy exposant faux » (Furet.), se laisser *surprendre* pour se laisser prendre. V. 218, 1195, 1338Timide« Adj. masc. et fem. Faible, peureux, qui craint tout » (Furet.)V. 402, 1225, 1330Transport« F.m. Se dit figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions » (Furet.)V. 175, 964, 1072, 1241, 1336, 1479Transporté, ée (pour le vers 56 dans un sens plus physique, médical, et vers 1192).VertuEmployé au singulier signifie la force morale, la grandeur d'ame.V. 16, 441, 575, 739, 862, 957, 979, 984, 1484
 
 
-# Annexe I : Panorama de la production théâtrale de Boyer [403]
+# Annexe I : Panorama de la production théâtrale de Boyer [403].
 
 La carrière de Boyer est l'une des plus longues de son siècle : vingt-trois pièces en cinquante ans de carrière, de *La Porcie Romaine* (1645), à *Judith* (1695).Ainsi, comme le souligne Lancaster, Boyer auteur de second plan débute peu de temps après que Corneille soit considéré comme le maître de la tragédie classique et il achève sa carrière quand Corneille est déjà mort et que Racine a cessé d'écrire [404]. Toute sa carrière est donc encadrée par les deux grands maîtres du théâtre français du XVIIe siècle.
 
 
-## Les œuvres de théâtre publiées
+## Les œuvres de théâtre publiées.
 
 (Les œuvres sont classées selon l'ordre de leur publication, non de leur représentation.)La Porcie Romaine
 La Sœur généreuse
@@ -3347,7 +3347,7 @@ Méduse
 
 
 
-## Les oeuvres de théâtre non publiées
+## Les oeuvres de théâtre non publiées.
 
 *Tigrane*, tragédie représentée à l'Hôtel de Bourgogne, le 31 décembre 1660.
 
@@ -3362,10 +3362,10 @@ Enfin, les *Oeuvres de M. l'abbé Boyer* parurent en 1685, ouvrage qui marque un
 Boyer s'essaie également à des genres autres que l'art dramatique. Il publie un roman, *La Comtesse de Candale*, en 1672, et sa poésie paraît dans divers recueils, le *Recueil de Furetière* en 1687, les *Recueils de l'Académie française* en 1689, 1691, 1693, 1697, enfin toutes sortes d'ouvrages divers se référant à l'actualité de l'époque comme la *Harangue faite à la Reine d'Espagne, au nom de l'Académie françoise par M.B*.(1679), le *Compliment fait à Mgr le Chancelier, au nom de l'Académie françoise* (1685), etc.
 
 
-# Annexe II : Témoignages sur la réception des pièces de Claude Boyer par ses contemporains
+# Annexe II : Témoignages sur la réception des pièces de Claude Boyer par ses contemporains.
 
 
-## Extraits de *La Muze historique* de Loret
+## Extraits de *La Muze historique* de Loret.
 
 *La Muze historique* de Loret était une gazette de l'époque qui se faisait l'écho de la vie et des divertissements de la Cour [405]. Les jugements de Loret se présentent sous la forme de récits rimés comme ceux de Robinet (voir ci-dessous), faits au jour le jour, sur l'impression du moment. Ces quelques extraits peuvent donc nous donner une idée de la réception des différentes pièces de Boyer par le public de l'époque.
 
@@ -3411,7 +3411,7 @@ De toutes les belles lumières
 Qu'il faut pour de telles matières.  
 
 
-## Témoignage de Robinet
+## Témoignage de Robinet.
 
 Nous présentons ci-dessous une lettre en vers de Robinet datée du 16 janvier 1666 [406], qui atteste de la présence du Roi dans l'assistance lors de la représentation de la tragédie de C. Boyer, *Les Amours de Jupiter et de Sémélé*, pièce qui fut jouée au commencement de janvier 1666, au Théâtre du Marais et qui connu un grand succès.
 
@@ -3431,12 +3431,12 @@ De ce poëme a fait les vers,
 Et Molière [407] a fait les concerts.  
 
 
-# Annexe III : Épigrammes à l'encontre de Boyer
+# Annexe III : Épigrammes à l'encontre de Boyer.
 
 Ces différentes épigrammes rédigées à l'encontre de notre auteur rendent bien compte de l'esprit de cabale régnant à l'époque et dont a souffert l'ensemble de la carrière de Boyer.
 
 
-## Extrait de l'*Art Poétique* de Boileau
+## Extrait de l'*Art Poétique* de Boileau.
 
 Qui dit froid écrivain dit détestable auteur.  
 Boyer est à Pinchêne égal pour le lecteur ;  
@@ -3446,7 +3446,7 @@ Un fou du moins fait rire, et peut nous égayer ;
 Mais un froid écrivain ne sait rien qu'ennuyer [408].  
 
 
-## Épigramme de Furetière
+## Épigramme de Furetière.
 
 Quand les pièces représentées  
 De Boyer sont peu fréquentées  
@@ -3456,7 +3456,7 @@ Vendredi, la pluie en est cause,
 Et dimanche, c'est le beau temps [409].  
 
 
-## Épigrammes de Racine
+## Épigrammes de Racine.
 
 Sur la *Judith* de Boyer.  
 A sa *Judith*, Boyer par aventure,  
@@ -3519,13 +3519,13 @@ SUITE. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 0 | 2 | 
 
 
 
-# Bibliographie sommaire
+# Bibliographie sommaire.
 
 
-## Œuvres de référence
+## Œuvres de référence.
 
 
-### ŒuvresLe Couronnement de Darie
+### Œuvres.Le Couronnement de Darie
 Le jeune Marius
 Le Comte d'Essex
 Tyridate, tragédie suivi de Le fils supposé
@@ -3544,14 +3544,14 @@ Le Roi Lear
 
 
 
-### Ouvrages de poétiqueLa Poétique
+### Ouvrages de poétique.La Poétique
 Rhétorique
 La Pratique du théâtre
 Art Poétique
 
 
 
-### Ouvrages sur le contexte littéraireLa Réponse de l'abbé Boileau au discours de réception de l'abbé Genest, successeur de Boyer à l'Académie française
+### Ouvrages sur le contexte littéraire.La Réponse de l'abbé Boileau au discours de réception de l'abbé Genest, successeur de Boyer à l'Académie française
 Opuscules critiques
 Recueil des Factums d'Antoine Furetière
 
@@ -3561,10 +3561,10 @@ Histoire du théâtre français des origines jusqu'à présent
 
 
 
-## Études
+## Études.
 
 
-### Approches généralesIntroduction à l'analyse des textes classiques
+### Approches générales.Introduction à l'analyse des textes classiques
 Le Théâtre en France
 Le Langage dramatique
 Lire le théâtre
@@ -3572,7 +3572,7 @@ Lire le théâtre II
 
 
 
-### Ouvrages sur le théâtre au XVII*e* siècleHistoire de la littérature française au XVIIe siècle
+### Ouvrages sur le théâtre au XVII*e* siècle.Histoire de la littérature française au XVIIe siècle
 La Formation de la doctrine classique en France
 Morales du Grand Siècle
 Bibliographie de la littérature française du XVIIe siècle
@@ -3585,18 +3585,18 @@ Naissance de l'écrivain
 
 
 
-### Ouvrages sur le genre de la tragédiePoétique de la tragédie
+### Ouvrages sur le genre de la tragédie.Poétique de la tragédie
 La Tragédie de l'âge classique
 Passions tragiques et règles classiques. Essai sur la tragédie française
 La Tragédie
 
 
 
-### Ouvrages sur Claude BoyerHistoire littéraire de la ville d'Albi
+### Ouvrages sur Claude Boyer.Histoire littéraire de la ville d'Albi
 
 
 
-## Instruments de travailDictionnaire
+## Instruments de travail.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
 

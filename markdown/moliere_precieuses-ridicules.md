@@ -20,7 +20,7 @@ AVEC PRIVILÈGE DU ROI.
 
 
 
-# PRÉFACE
+# PRÉFACE.
 
 C'est une chose étrange, qu'on imprime les Gens, malgré eux. Je ne vois rien de si injuste, et je pardonnerais toute autre violence, plutôt que celle-là.
 
@@ -29,7 +29,7 @@ Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser par honneur
 Mon Dieu, l'étrange embarras, qu'un Livre à mettre au jour ! et qu'un Auteur est neuf, la première fois qu'on l'imprime ! encore si l'on m'avait donné du temps, j'aurais pu mieux songer à moi, et j'aurais pris toutes les précautions, que Messieurs les Auteurs, à présent mes confrères ont coutume de prendre en semblables occasions. Outre quelque grand Seigneur, que j'aurais été prendre malgré lui, pour Protecteur de mon Ouvrage ; et dont j'aurais tenté la libéralité, par une Épître dédicatoire bien fleurie ; j'aurais tâché de faire une belle et docte Préface, et je ne manque point de Livres, qui m'auraient fourni tout ce qu'on peut dire de savant sur la Tragédie, et la Comédie, l'Étymologie de toutes deux, leur origine, leur définition, et le reste. J'aurais parlé aussi à mes amis, qui pour la recommandation de ma Pièce, ne m'auraient pas refusé, ou des vers Français, ou des vers Latins. J'en ai même qui m'auraient loué en Grec, et l'on n'ignore pas qu'une louange en Grec, est d'une merveilleuse efficace à la tête d'un Livre : mais on me met au jour, sans me donner le loisir de me reconnaître ; Et je ne puis même obtenir la liberté de dire deux mots, pour justifier mes intentions, sur le sujet de cette Comédie. J'aurais voulu faire voir qu'elle se tient partout dans les bornes de la satire honnête, et permise ; que les plus excellentes choses sont sujettes à être copiées par de mauvais Singes, qui méritent d'être bernés, que ces vicieuses imitations de ce qu'il y a de plus parfait, ont été de tout temps la matière de la Comédie, et que par la même raison, les véritables Savants, et les vrais braves, ne se sont point encore avisés de s'offenser du Docteur de la Comédie, et du Capitan, non plus que les Juges, les Princes et les Rois, de voir Trivelin, ou quelque autre sur le théâtre, faire ridiculement le Juge, le Prince, ou le Roi ; aussi les véritables Précieuses, auraient tort de se piquer, lorsqu'on joue les Ridicules, qui les imitent mal : mais enfin, comme j'ai dit, on ne me laisse pas le temps de respirer, et Monsieur de Luynes veut m'aller relier de ce pas : à la bonne heure, puisque Dieu l'a voulu.
 
 
-# PERSONNAGES
+# PERSONNAGES.
  – La Grange, *Amant rebuté.*
  – Du Croisy, *Amant rebuté.*
  – Gorgibus, Bon Bourgeois.
@@ -44,1025 +44,1024 @@ Mon Dieu, l'étrange embarras, qu'un Livre à mettre au jour ! et qu'un Auteur 
  – Violons.
 
 
-# Les Précieuses Ridicules
+# Les Précieuses Ridicules.
 
 
-## Scène I
+## Scène I.
 La Grange, Du Croisy.
 
 
-    DU CROISY
+    DU CROISY.
 Seigneur la Grange.
 
-    LA GRANGE
+    LA GRANGE.
 Quoi ?
 
-    DU CROISY
+    DU CROISY.
 Regardez-moi un peu sans rire.
 
-    LA GRANGE
+    LA GRANGE.
 Eh bien !
 
-    DU CROISY
+    DU CROISY.
 Que dites-vous de notre visite ? en êtes-vous fort satisfait ?
 
-    LA GRANGE
+    LA GRANGE.
 À votre avis, avons-nous sujet de l'être tous deux ?
 
-    DU CROISY
+    DU CROISY.
 Pas tout à fait à dire vrai.
 
-    LA GRANGE
+    LA GRANGE.
 Pour moi je vous avoue que j'en suis tout scandalisé. A-t-on jamais vu, dites-moi, deux Pecques Provinciales faire plus les renchéries que celles-là, et deux hommes traités avec plus de mépris que nous ? à peine ont-elles pu se résoudre à nous faire donner des sièges. Je n'ai jamais vu tant parler à l'oreille qu'elles ont fait entre elles, tant bâiller ; tant se frotter les yeux, et demander tant de fois quelle heure est-il ; ont-elles répondu que oui et non, à tout ce que nous avons pu leur dire ? Et ne m'avouerez-vous pas enfin que quand nous aurions été les dernières personnes du monde, on ne pouvait nous faire pis qu'elles ont fait ?
 
-    DU CROISY
+    DU CROISY.
 Il me semble que vous prenez la chose fort à cœur.
 
-    LA GRANGE
+    LA GRANGE.
 Sans doute je l'y prends, et de telle façon que je veux me venger de cette impertinence. Je connais ce qui nous a fait mépriser. L'air précieux n'a pas seulement infecté Paris, il s'est aussi répandu dans les provinces et nos Donzelles ridicules en ont humé leur bonne part. En un mot c'est un ambigu de Précieuse et de Coquette que leur personne ; je vois ce qu'il faut être, pour en être bien reçu, et si vous m'en croyez, nous leur jouerons tous deux une pièce, qui leur fera voir leur sottise, et pourra leur apprendre à connaître un peu mieux leur monde.
 
-    DU CROISY
+    DU CROISY.
 Et comment encore ?
 
-    LA GRANGE
+    LA GRANGE.
 J'ai un certain valet nommé Mascarille, qui passe au sentiment de beaucoup de gens pour une manière de bel esprit, car il n'y a rien à meilleur marché que le bel esprit maintenant. C'est un extravagant, qui s'est mis dans la tête de vouloir faire l'homme de condition. Il se pique ordinairement de galanterie, et de vers, et dédaigne les autres valets jusqu'à les appeler brutaux.
 
-    DU CROISY
+    DU CROISY.
 Et bien qu'en prétendez-vous faire ?
 
-    LA GRANGE
+    LA GRANGE.
 Ce que j'en prétends faire ! il faut… mais sortons d'ici auparavant.
 
 
-## Scène II
+## Scène II.
 Gorgibus, Du Croisy, La Grange.
 
 
-    GORGIBUS
+    GORGIBUS.
 Et bien vous avez vu ma nièce, et ma fille, les affaires iront-elles bien ? Quel est le résultat de cette visite ?
 
-    LA GRANGE
+    LA GRANGE.
 C'est une chose que vous pourrez mieux apprendre d'elles, que de nous. Tout ce que nous pouvons vous dire, c'est que nous vous rendons grâce de la faveur que vous nous avez faite, et demeurons vos très humbles serviteurs.
 
-    GORGIBUS
+    GORGIBUS.
 Ouais il semble qu'ils sortent mal satisfaits d'ici, d'où pourrait venir leur mécontentement ? Il faut savoir un peu ce que c'est. Holà.
 
 
-## Scène III
+## Scène III.
 Marotte, Gorgibus.
 
 
-    MAROTTE
+    MAROTTE.
 Que désirez-vous Monsieur ?
 
-    GORGIBUS
+    GORGIBUS.
 Où sont vos Maîtresses ?
 
-    MAROTTE
+    MAROTTE.
 Dans leur cabinet.
 
-    GORGIBUS
+    GORGIBUS.
 Que font-elles ?
 
-    MAROTTE
+    MAROTTE.
 De la pommade pour les lèvres.
 
-    GORGIBUS
+    GORGIBUS.
 C'est trop pommadé. Dites-leur qu'elles descendent. Ces pendardes-là avec leur pommade ont je pense envie de me ruiner. Je ne vois partout que blancs d'œufs, lait virginal, et mille autres brimborions que je ne connais point. Elles ont usé, depuis que nous sommes ici, le lard d'une douzaine de cochons, pour le moins ; et quatre valets vivraient tous les jours des pieds de mouton qu'elles emploient.
 
 
-## Scène IV
+## Scène IV.
 Magdelon, Cathos, Gorgibus.
 
 
-    GORGIBUS
+    GORGIBUS.
 Il est bien nécessaire vraiment, de faire tant de dépense pour vous graisser le museau. Dites-moi un peu ce que vous avez fait à ces messieurs, que je les vois sortir avec tant de froideur ? vous avais-je pas commandé de les recevoir comme des personnes, que je voulais vous donner pour maris ?
 
-    MAGDELON
+    MAGDELON.
 Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ?
 
-    CATHOS
+    CATHOS.
 Le moyen, mon oncle, qu'une fille un peu raisonnable se pût accommoder de leur personne ?
 
-    GORGIBUS
+    GORGIBUS.
 Et qu'y trouvez-vous à redire ?
 
-    MAGDELON
+    MAGDELON.
 La belle galanterie que la leur ! quoi, débuter d'abord par le mariage ?
 
-    GORGIBUS
+    GORGIBUS.
 Et par où veux-tu donc qu'ils débutent, par le concubinage ? n'est-ce pas un procédé, dont vous avez sujet de vous louer toutes deux, aussi bien que moi ? Est-il rien de plus obligeant que cela ? et ce lien sacré où ils aspirent n'est-il pas un témoignage de l'honnêteté de leurs intentions ?
 
-    MADELON
+    MADELON.
 Ah mon père, ce que vous dites là est du dernier bourgeois. Cela me fait honte de vous ouïr parler de la sorte, et vous devriez un peu vous faire apprendre le bel air des choses.
 
-    GORGIBUS
+    GORGIBUS.
 Je n'ai que faire, ni d'air, ni de chanson. Je te dis que le mariage est une chose sainte et sacrée, et que c'est faire en honnêtes gens que de débuter par là.
 
-    MAGDELON
+    MAGDELON.
 Mon Dieu, que si tout le monde vous ressemblait un Roman serait bientôt fini : la belle chose, que ce serait, si d'abord Cyrus épousait Mandane, et qu'Aronce de plain-pied fût marié à Clélie.
 
-    GORGIBUS
+    GORGIBUS.
 Que me vient conter celle-ci ?
 
-    MAGDELON
+    MAGDELON.
 Mon père, voilà ma cousine, qui vous dira, aussi bien que moi, que le mariage ne doit jamais arriver, qu'après les autres aventures. Il faut qu'un amant, pour être agréable, sache débiter les beaux sentiments ; pousser le doux, le tendre, et le passionné, et que sa recherche soit dans les formes. Premièrement il doit voir au Temple, ou à la promenade, ou dans quelque cérémonie publique la personne dont il devient amoureux ; ou bien être conduit fatalement chez elle, par un parent, ou un ami, et sortir de là tout rêveur et mélancolique. Il cache, un temps, sa passion à l'objet aimé, et cependant lui rend plusieurs visites, où l'on ne manque jamais de mettre sur le tapis une question galante, qui exerce les esprits de l'assemblée. Le jour de la déclaration arrive, qui se doit faire ordinairement dans une allée de quelque jardin, tandis que la compagnie s'est un peu éloignée : et cette déclaration est suivie d'un prompt courroux, qui paraît à notre rougeur, et qui pour un temps bannit l'amant de notre présence. Ensuite il trouve un moyen de nous apaiser ; de nous accoutumer insensiblement au discours de sa passion, et de tirer de nous cet aveu qui fait tant de peine. Après cela viennent les aventures ; les rivaux qui se jettent à la traverse d'une inclination établie, les persécutions des pères, les jalousies conçues sur de fausses apparences, les plaintes, les désespoirs, les enlèvements, et ce qui s'ensuit. Voilà comme les choses se traitent dans les belles manières, et ce sont des règles, dont en bonne galanterie on ne saurait se dispenser ; mais en venir de but en blanc à l'union conjugale ! ne faire l'amour qu'en faisant le contrat du mariage, et prendre justement le Roman par la queue ! Encore un coup mon père, il ne se peut rien de plus Marchand que ce procédé, et j'ai mal au cœur de la seule vision que cela me fait.
 
-    GORGIBUS
+    GORGIBUS.
 Quel diable de jargon entends-je ici ? voici bien du haut style.
 
-    CATHOS
+    CATHOS.
 En effet, mon oncle, ma cousine donne dans le vrai de la chose. Le moyen de bien recevoir des gens qui sont tout à fait incongrus en galanterie ? je m'en vais gager qu'ils n'ont jamais vu la carte de tendre, et que billets-doux, petits soins, billets galants, et jolis vers, sont des terres inconnues pour eux. Ne voyez-vous pas que toute leur personne marque cela, et qu'ils n'ont point cet air qui donne d'abord bonne opinion des gens ? venir en visite amoureuse avec une jambe toute unie ; un chapeau désarmé de plumes ; une tête irrégulière en cheveux et un habit qui souffre une indigence de rubans ! mon Dieu, quels amants sont-ce là ! quelle frugalité d'ajustement, et quelle sécheresse de conversation ! on n'y dure point, on n'y tient pas. J'ai remarqué encore que leurs rabats ne sont pas de la bonne faiseuse, et qu'il s'en faut plus d'un grand demi-pied, que leurs hauts-de-chausses, ne soient assez larges.
 
-    GORGIBUS
+    GORGIBUS.
 Je pense qu'elles sont folles toutes deux, et je ne puis rien comprendre à ce baragouin. Cathos et vous Magdelon...
 
-    MAGDELON
+    MAGDELON.
 Eh de grâce, mon père, défaites-vous de ces noms étranges, et nous appelez autrement.
 
-    GORGIBUS
+    GORGIBUS.
 Comment ces noms étranges ? Ne sont-ce pas vos noms de Baptême ?
 
-    MAGDELON
+    MAGDELON.
 Mon Dieu, que vous êtes vulgaire ! pour moi un de mes étonnements, c'est que vous ayez pu faire une fille si spirituelle que moi. A-t-on jamais parlé dans le beau style de Cathos ni de Magdelon ? et ne m'avouerez-vous pas que ce serait assez d'un de ces noms, pour décrier le plus beau Roman du monde ?
 
-    CATHOS
+    CATHOS.
 Il est vrai, mon oncle, qu'une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là, et le nom de Polixène, que ma cousine a choisi, et celui d'Aminte, que je me suis donné, ont une grâce, dont il faut que vous demeuriez d'accord.
 
-    GORGIBUS
+    GORGIBUS.
 Écoutez ; il n'y a qu'un mot qui serve. Je n'entends point que vous ayez d'autres noms, que ceux, qui vous ont été donnés par vos parrains et marraines, et pour ces messieurs dont il est question je connais leurs familles et leurs biens, et je veux résolument que vous vous disposiez à les recevoir pour maris. Je me lasse de vous avoir sur les bras, et la garde de deux filles est une charge un peu trop pesante, pour un homme de mon âge.
 
-    CATHOS
+    CATHOS.
 Pour moi, mon oncle, tout ce que je vous puis dire c'est que je trouve le mariage une chose tout à fait choquante. Comment est-ce qu'on peut souffrir la pensée de coucher contre un homme vraiment nu ?
 
-    MAGDELON
+    MAGDELON.
 Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous ne faisons que d'arriver. Laissez-nous faire à loisir le tissu de notre Roman, et n'en pressez point tant la conclusion.
 
-    GORGIBUS
+    GORGIBUS.
 Il n'en faut point douter elles sont achevées. Encore un coup, je n'entends rien à toutes ces balivernes, je veux être maître absolu, et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux, avant qu'il soit peu, ou, ma foi, vous serez religieuses, j'en fais un bon serment.
 
 
-## Scène V
+## Scène V.
 Cathos, Magdelon.
 
 
-    CATHOS
+    CATHOS.
 Mon Dieu, ma chère, que ton père a la forme enfoncée dans la matière ! que son intelligence est épaisse, et qu'il fait sombre dans son âme !
 
-    MAGDELON
+    MAGDELON.
 Que veux-tu, ma chère, j'en suis en confusion pour lui. J'ai peine à me persuader que je puisse être véritablement sa fille, et je crois que quelque aventure, un jour, me viendra développer une naissance plus illustre.
 
-    CATHOS
+    CATHOS.
 Je le croirais bien oui, il y a toutes les apparences du monde, et pour moi, quand je me regarde aussi…
 
 
-## Scène VI
+## Scène VI.
 Marotte, Cathos, Magdelon.
 
 
-    MAROTTE
+    MAROTTE.
 Voilà un laquais, qui demande, si vous êtes au logis, et dit que son maître vous veut venir voir.
 
-    MAGDELON
+    MAGDELON.
 Apprenez, sotte, à vous énoncer moins vulgairement. Dites : voilà un nécessaire qui demande, si vous êtes en commodité d'être visibles.
 
-    MAROTTE
+    MAROTTE.
 Dame, je n'entends point le Latin, et je n'ai pas appris, comme vous, la Filofie dans le *Grand Cyre*.
 
-    MAGDELON
+    MAGDELON.
 L'impertinente ! le moyen de souffrir cela ! et qui est-il, le maître de ce laquais ?
 
-    MAROTTE
+    MAROTTE.
 Il me l'a nommé le Marquis de Mascarille.
 
-    MAGDELON
+    MAGDELON.
 Ah ma chère ! un Marquis, oui, allez dire qu'on nous peut voir. C'est sans doute un bel esprit, qui aura ouï parler de nous.
 
-    CATHOS
+    CATHOS.
 Assurément, ma chère.
 
-    MAGDELON
+    MAGDELON.
 Il faut le recevoir dans cette salle basse, plutôt qu'en notre chambre : ajustons un peu nos cheveux au moins, et soutenons notre réputation. Vite venez nous tendre ici dedans le conseiller des grâces.
 
-    MAROTTE
+    MAROTTE.
 Par ma foi, je ne sais point quelle bête c'est là, il faut parler Chrétien, si vous voulez, que je vous entende.
 
-    CATHOS
+    CATHOS.
 Apportez-nous le miroir, ignorante que vous êtes. Et gardez-vous bien d'en salir la glace, par la communication de votre image.
 
 
-## Scène VII
+## Scène VII.
 Mascarille, deux Porteurs
 
 
-    MASCARILLE
+    MASCARILLE.
 Holà, porteurs, holà. Là, là, là, là, là, là. Je pense que ces marauds-là ont dessein de me briser, à force de heurter contre les murailles, et les pavés.
 
-    LE PREMIER PORTEUR 
+    LE PREMIER PORTEUR.
 Dame, c'est que la porte est étroite. Vous avez voulu aussi, que nous soyons entrés jusqu'ici.
 
-    MASCARILLE 
+    MASCARILLE.
 Je le crois bien. Voudriez-vous, faquins, que j'exposasse l'embonpoint de mes plumes aux inclémences de la saison pluvieuse ? et que j'allasse imprimer mes souliers en boue ? Allez ôtez votre chaise d'ici.
 
-    LE SECOND PORTEUR
+    LE SECOND PORTEUR.
 Payez-nous donc, s'il vous plaît, monsieur.
 
-    MASCARILLE 
+    MASCARILLE.
 Hem ?
 
-    LE SECOND PORTEUR
+    LE SECOND PORTEUR.
 Je dis, monsieur, que vous nous donniez de l'argent, s'il vous plaît.
 
-    MASCARILLE, *lui donnant un soufflet*
+    MASCARILLE, *lui donnant un soufflet*.
 Comment, coquin, demander de l'argent à une personne de ma qualité ?
 
-    LE SECOND PORTEUR
+    LE SECOND PORTEUR.
 Est-ce ainsi, qu'on paie les pauvres gens ? et votre qualité nous donne-t-elle à dîner ?
 
-    MASCARILLE 
+    MASCARILLE.
 Ah, ah, ah, je vous apprendrai à vous connaître. Ces canailles-là s'osent jouer à moi.
 
-    LE PREMIER PORTEUR, *prenant un des bâtons de sa chaise.*
+    LE PREMIER PORTEUR, *prenant un des bâtons de sa chaise.*.
 Çà, payez-nous vitement.
 
-    MASCARILLE 
+    MASCARILLE.
 Quoi ?
 
-    LE PREMIER PORTEUR 
+    LE PREMIER PORTEUR.
 Je dis, que je veux avoir de l'argent, tout à l'heure.
 
-    MASCARILLE
+    MASCARILLE.
 Il est raisonnable.
 
-    LE PREMIER PORTEUR 
+    LE PREMIER PORTEUR.
 Vite donc.
 
-    MASCARILLE 
+    MASCARILLE.
 Oui-da, tu parles comme il faut, toi ; mais l'autre est un coquin, qui ne sait ce qu'il dit. Tiens, es-tu content ?
 
-    LE PREMIER PORTEUR 
+    LE PREMIER PORTEUR.
 Non, je ne suis pas content, vous avez donné un soufflet à mon camarade, et...
 
-    MASCARILLE
+    MASCARILLE.
 Doucement, tiens, voilà pour le soufflet. On obtient tout de moi, quand on s'y prend de la bonne façon. Allez, venez me reprendre tantôt, pour aller au Louvre au petit coucher.
 
 
-## Scène VIII
+## Scène VIII.
 Marotte, Mascarille.
 
 
-    MAROTTE 
+    MAROTTE.
 Monsieur, voilà mes maîtresses, qui vont venir tout à l'heure.
 
-    MASCARILLE 
+    MASCARILLE.
 Qu'elles ne se pressent point, je suis ici posté commodément, pour attendre.
 
-    MAROTTE 
+    MAROTTE.
 Les voici.
 
 
-## Scène IX
+## Scène IX.
 Magdelon, Cathos, Mascarille, Almanzor.
 
 
-    MASCARILLE, *après avoir salué*
+    MASCARILLE, *après avoir salué*.
 Mesdames, vous serez surprises, sans doute, de l'audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a, pour moi, des charmes si puissants, que je cours, partout, après lui.
 
-    MAGDELON
+    MAGDELON.
 Si vous poursuivez le mérite, ce n'est pas sur nos terres que vous devez chasser.
 
-    CATHOS
+    CATHOS.
 Pour voir chez nous le mérite, il a fallu, que vous l'y ayez amené.
 
-    MASCARILLE
+    MASCARILLE.
 Ah je m'inscris en faux contre vos paroles. La Renommé accuse juste, en contant ce que vous valez, et vous allez faire pic, repic et capot, tout ce qu'il y a de galant dans Paris.
 
-    MAGDELON
+    MAGDELON.
 Votre complaisance pousse, un peu trop avant, la libéralité de ces louanges, et nous n'avons garde, ma cousine et moi, de donner de notre sérieux dans le doux de votre flatterie.
 
-    CATHOS
+    CATHOS.
 Ma chère, il faudrait faire donner des sièges.
 
-    MAGDELON
+    MAGDELON.
 Holà, Almanzor.
 
-    ALMANZOR
+    ALMANZOR.
 Madame.
 
-    MAGDELON
+    MAGDELON.
 Vite, voiturez-nous ici les commodités de la conversation.
 
-    MASCARILLE
+    MASCARILLE.
 Mais au moins, y a-t-il sûreté ici pour moi ?
 
-    CATHOS
+    CATHOS.
 Que craignez-vous ?
 
-    MASCARILLE
+    MASCARILLE.
 Quelque vol de mon cœur, quelque assassinat de ma franchise. Je vois ici des yeux qui ont la mine d'être de fort mauvais garçons, de faire insulte aux libertés, et de traiter une âme de Turc à More. Comment diable, d'abord qu'on les approche, ils se mettent sur leur garde meurtrière ? Ah ! par ma foi je m'en défie, et je m'en vais gagner au pied, ou je veux caution bourgeoise, qu'ils ne me feront point de mal.
 
-    MAGDELON
+    MAGDELON.
 Ma chère, c'est le caractère enjoué.
 
-    CATHOS
+    CATHOS.
 Je vois bien que c'est un Amilcar.
 
-    MAGDELON
+    MAGDELON.
 Ne craignez rien, nos yeux n'ont point de mauvais desseins, et votre cœur peut dormir en assurance sur leur prud'homie.
 
-    CATHOS
+    CATHOS.
 Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d'heure, contentez un peu l'envie qu'il a de vous embrasser.
 
-    MASCARILLE, *après s'être peigné et avoir ajusté ses canons*
+    MASCARILLE, *après s'être peigné et avoir ajusté ses canons*.
 Et bien, Mesdames, que dites-vous de Paris ?
 
-    MAGDELON
+    MAGDELON.
 Hélas ! qu'en pourrions-nous dire ? Il faudrait être l'antipode de la raison, pour ne pas confesser que Paris est le grand Bureau des merveilles, le centre du bon goût, du bel esprit et de la galanterie.
 
-    MASCARILLE
+    MASCARILLE.
 Pour moi, je tiens que hors de Paris, il n'y a point de salut pour les honnêtes gens.
 
-    CATHOS
+    CATHOS.
 C'est une vérité incontestable.
 
-    MASCARILLE
+    MASCARILLE.
 Il y fait un peu crotté, mais nous avons la Chaise.
 
-    MAGDELON
+    MAGDELON.
 Il est vrai que la Chaise est un retranchement merveilleux contre les insultes de la boue, et du mauvais temps.
 
-    MASCARILLE
+    MASCARILLE.
 Vous recevez beaucoup de visites ? Quel bel Esprit est des vôtres ?
 
-    MAGDELON
+    MAGDELON.
 Hélas nous ne sommes pas encore connues ; mais nous sommes en passe de l'être, et nous avons une amie particulière, qui nous a promis d'amener ici tous ces Messieurs du *Recueil des Pièces Choisies*.
 
-    CATHOS
+    CATHOS.
 Et certains autres, qu'on nous a nommés aussi, pour être les arbitres souverains des belles choses.
 
-    MASCARILLE
+    MASCARILLE.
 C'est moi qui ferai votre affaire mieux que personne ; ils me rendent tous visite, et je puis dire que je ne me lève jamais, sans une demi-douzaine de beaux Esprits.
 
-    MAGDELON
+    MAGDELON.
 Eh ! mon Dieu, nous vous serons obligées de la dernière obligation, si vous nous faites cette amitié : car enfin il faut avoir la connaissance de tous ces Messieurs-là, si l'on veut être du beau monde. Ce sont ceux qui donnent le branle à la réputation dans Paris ; et vous savez qu'il y en a tel, dont il ne faut que la seule fréquentation, pour vous donner bruit de connaisseuse, quand il n'y aurait rien autre chose que cela. Mais pour moi ce que je considère particulièrement, c'est que, par le moyen de ces visites spirituelles, on est instruite de cent choses, qu'il faut savoir de nécessité, et qui sont de l'essence d'un bel esprit. On apprend par là, chaque jour, les petites nouvelles galantes ; les jolis commerces de Prose, et de Vers. On sait à point nommé, un tel a composé la plus jolie pièce du monde, sur un tel sujet ; Une telle a fait des paroles sur un tel air ; celui-ci a fait un Madrigal sur une jouissance ; celui-là a composé des Stances sur une infidélité ; Monsieur un tel écrivit hier au soir un Sixain à Mademoiselle une telle, dont elle lui a envoyé la réponse ce matin sur les huit heures ; un tel Auteur a fait un tel dessein ; celui-là en est à la troisième partie de son Roman ; cet autre met ses ouvrages sous la Presse : c'est là ce qui vous fait valoir dans les compagnies ; et si l'on ignore ces choses, je ne donnerais pas un clou de tout l'esprit qu'on peut avoir.
 
-    CATHOS
+    CATHOS.
 En effet je trouve que c'est renchérir sur le ridicule, qu'une personne se pique d'esprit, et ne sache pas jusqu'au moindre petit Quatrain qui se fait chaque jour ; et pour moi j'aurais toutes les hontes du monde, s'il fallait qu'on vînt à me demander, si j'aurais vu quelque chose de nouveau, que je n'aurais pas vu.
 
-    MASCARILLE
+    MASCARILLE.
 Il est vrai qu'il est honteux de n'avoir pas des premiers tout ce qui se fait ; mais ne vous mettez pas en peine, je veux établir chez vous une Académie de beaux Esprits, et je vous promets, qu'il ne se fera pas un bout de Vers dans Paris, que vous ne sachiez par cœur avant tous les autres. Pour moi, tel que vous me voyez, je m'en escrime un peu quand je veux, et vous verrez courir de ma façon dans les belles Ruelles de Paris, deux cents Chansons, autant de Sonnets, quatre cents Épigrammes, et plus de mille Madrigaux, sans compter les Énigmes et les Portraits.
 
-    MAGDELON
+    MAGDELON.
 Je vous avoue, que je suis furieusement pour les Portraits ; je ne vois rien de si galant que cela.
 
-    MASCARILLE
+    MASCARILLE.
 Les Portraits sont difficiles, et demandent un esprit profond. Vous en verrez de ma manière, qui ne vous déplairont pas.
 
-    CATHOS
+    CATHOS.
 Pour moi j'aime terriblement les Énigmes.
 
-    MASCARILLE
+    MASCARILLE.
 Cela exerce l'esprit, et j'en ai fait quatre encore ce matin, que je vous donnerai à deviner.
 
-    MAGDELON
+    MAGDELON.
 Les Madrigaux sont agréables, quand ils sont bien tournés.
 
-    MASCARILLE
+    MASCARILLE.
 C'est mon talent particulier, et je travaille à mettre en Madrigaux toute l'Histoire Romaine.
 
-    MAGDELON
+    MAGDELON.
 Ah ! certes, cela sera du dernier beau, j'en retiens un exemplaire au moins, si vous le faites imprimer.
 
-    MASCARILLE
+    MASCARILLE.
 Je vous en promets à chacune un, et des mieux reliés. Cela est au-dessous de ma condition ; mais je le fais seulement pour donner à gagner aux Libraires, qui me persécutent.
 
-    MAGDELON
+    MAGDELON.
 Je m'imagine que le plaisir est grand de se voir imprimé.
 
-    MASCARILLE
+    MASCARILLE.
 Sans doute ; mais à propos, il faut que je vous die un Impromptu que je fis hier chez une Duchesse de mes amies que je fus visiter ; car je suis diablement fort sur les Impromptus.
 
-    CATHOS
+    CATHOS.
 L'Impromptu est justement la pierre de touche de l'esprit.
 
-    MASCARILLE
+    MASCARILLE.
 Écoutez donc.
 
-    MAGDELON
+    MAGDELON.
 Nous y sommes de toutes nos oreilles.
 
-    MASCARILLE
+    MASCARILLE.
 
 Oh, oh, je n'y prenais pas garde,  
 Tandis que sans songer à mal, je vous regarde.  
 Votre œil en tapinois me dérobe mon cœur,  
 Au voleur, au voleur, au voleur, au voleur.  
 
-    CATHOS
+    CATHOS.
 Ah mon Dieu ! voilà qui est poussé dans le dernier galant.
 
-    MASCARILLE
+    MASCARILLE.
 Tout ce que je fais a l'air Cavalier, cela ne sent point le Pédant.
 
-    MAGDELON
+    MAGDELON.
 Il en est éloigné de plus de deux mille lieues.
 
-    MASCARILLE
+    MASCARILLE.
 Avez-vous remarqué ce commencement, *oh, oh* ? voilà qui est extraordinaire, *oh, oh.* Comme un homme qui s'avise tout d'un coup *oh, oh.* La surprise, *oh, oh .*
 
-    MAGDELON
+    MAGDELON.
 Oui, je trouve ce *oh, oh,* admirable.
 
-    MASCARILLE
+    MASCARILLE.
 Il semble que cela ne soit rien.
 
-    CATHOS
+    CATHOS.
 Ah, mon Dieu, que dites-vous ! ce sont là de ces sortes de choses qui ne se peuvent payer.
 
-    MAGDELON
+    MAGDELON.
 Sans doute, et j'aimerais mieux avoir fait ce *oh, oh,* qu'un Poème épique.
 
-    MASCARILLE
+    MASCARILLE.
 Tudieu, vous avez le goût bon.
 
-    MAGDELON
+    MAGDELON.
 Eh, je ne l'ai pas tout à fait mauvais.
 
-    MASCARILLE
+    MASCARILLE.
 Mais n'admirez-vous pas aussi, *je n'y prenais pas garde* ? *je n'y prenais pas garde*, je ne m'apercevais pas de cela, façon de parler naturelle, *Je n'y prenais pas garde. Tandis que sans songer à mal.* Tandis qu'innocemment, sans malice, comme un pauvre mouton, *je vous regarde* ; c'est-à-dire je m'amuse à vous considérer, je vous observe, je vous contemple. *Votre œil en tapinois…* Que vous semble de ce mot, *Tapinois*, n'est-il pas bien choisi ?
 
-    CATHOS
+    CATHOS.
 Tout à fait bien.
 
-    MASCARILLE
+    MASCARILLE.
 *Tapinois*, en cachette, il semble que ce soit un chat qui vienne de prendre une souris. *Tapinois*.
 
-    MAGDELON
+    MAGDELON.
 Il ne se peut rien de mieux.
 
-    MASCARILLE
+    MASCARILLE.
 *Me dérobe mon cœur*, me l'emporte, me le ravit. *Au voleur, au voleur, au voleur, au voleur*. Ne diriez-vous pas que c'est un homme qui crie et court après un voleur pour le faire arrêter, *au voleur, au voleur, au voleur, au voleur.*
 
-    MAGDELON
+    MAGDELON.
 Il faut avouer que cela a un tour spirituel, et galant.
 
-    MASCARILLE
+    MASCARILLE.
 Je veux vous dire l'air que j'ai fait dessus.
 
-    CATHOS
+    CATHOS.
 Vous avez appris la Musique ?
 
-    MASCARILLE
+    MASCARILLE.
 Moi ? point du tout.
 
-    CATHOS
+    CATHOS.
 Et comment donc cela se peut-il ?
 
-    MASCARILLE
+    MASCARILLE.
 Les gens de qualité savent tout, sans avoir jamais rien appris.
 
-    MAGDELON
+    MAGDELON.
 Assurément, ma chère.
 
-    MASCARILLE
+    MASCARILLE.
 Écoutez si vous trouverez l'air à votre goût : *hem, hem, la, la, la, la, la*. La brutalité de la saison a furieusement outragé la délicatesse de ma voix ; mais il n'importe, c'est à la Cavalière.
 Il chante.
 
 Oh, oh, je n'y prenais pas ....
 
-    CATHOS
+    CATHOS.
 Ah que voilà un air qui est passionné ! Est-ce qu'on n'en meurt point ?
 
-    MAGDELON
+    MAGDELON.
 Il y a de la chromatique-là dedans.
 
-    MASCARILLE
+    MASCARILLE.
 Ne trouvez-vous pas la pensée bien exprimée dans le chant ? *au voleur...* Et puis comme si l'on criait bien fort, *au, au, au, au, au, au, voleur* ; et tout d'un coup comme une personne essoufflée, *au voleur*.
 
-    MAGDELON
+    MAGDELON.
 C'est là savoir le fin des choses, le grand fin, le fin du fin. Tout est merveilleux, je vous assure ; je suis enthousiasmée de l'air, et des paroles.
 
-    CATHOS
+    CATHOS.
 Je n'ai encore rien vu de cette force-là.
 
-    MASCARILLE
+    MASCARILLE.
 Tout ce que je fais me vient naturellement, c'est sans étude.
 
-    MAGDELON
+    MAGDELON.
 La Nature vous a traité en vraie mère passionnée, et vous en êtes l'enfant gâté.
 
-    MASCARILLE
+    MASCARILLE.
 À quoi donc passez-vous le temps ?
 
-    CATHOS
+    CATHOS.
 À rien du tout.
 
-    MAGDELON
+    MAGDELON.
 Nous avons été jusqu'ici, dans un jeûne effroyable de divertissements.
 
-    MASCARILLE
+    MASCARILLE.
 Je m'offre à vous mener l'un de ces jours à la Comédie, si vous voulez, aussi bien on en doit jouer une nouvelle, que je serai bien aise, que nous voyions ensemble.
 
-    MAGDELON
+    MAGDELON.
 Cela n'est pas de refus.
 
-    MASCARILLE
+    MASCARILLE.
 Mais je vous demande d'applaudir, comme il faut, quand nous serons là. Car je me suis engagé de faire valoir la Pièce, et l'Auteur m'en est venu prier encore ce matin. C'est la coutume ici, qu'à nous autres gens de condition, les Auteurs viennent lire leurs Pièces nouvelles, pour nous engager à les trouver belles, et leur donner de la réputation, et je vous laisse à penser, si quand nous disons quelque chose le parterre ose nous contredire. Pour moi, j'y suis fort exact ; et quand j'ai promis à quelque Poète, je crie toujours, voilà qui est beau, devant que les chandelles soient allumées.
 
-    MAGDELON
+    MAGDELON.
 Ne m'en parlez point, c'est un admirable lieu que Paris ; il s'y passe cent choses tous les jours, qu'on ignore dans les Provinces, quelque spirituelle qu'on puisse être.
 
-    CATHOS
+    CATHOS.
 C'est assez, puisque nous sommes instruites, nous ferons notre devoir de nous écrier comme il faut sur tout ce qu'on dira.
 
-    MASCARILLE
+    MASCARILLE.
 Je ne sais si je me trompe ; mais vous avez toute la mine d'avoir fait quelque Comédie.
 
-    MAGDELON
+    MAGDELON.
 Eh, il pourrait être quelque chose de ce que vous dites.
 
-    MASCARILLE
+    MASCARILLE.
 Ah, ma foi, il faudra que nous la voyions. Entre nous, j'en ai composé une que je veux faire représenter.
 
-    CATHOS
+    CATHOS.
 Hé, à quels Comédiens la donnerez-vous ?
 
-    MASCARILLE
+    MASCARILLE.
 Belle demande ! aux grands Comédiens. Il n'y a qu'eux qui soient capables de faire valoir les choses ; les autres sont des Ignorants, qui récitent comme l'on parle, ils ne savent pas faire ronfler les Vers et s'arrêter au bel endroit ; le moyen de connaître où est le beau Vers, si le Comédien ne s'y arrête et ne vous avertit par là, qu'il faut faire le brouhaha.
 
-    CATHOS
+    CATHOS.
 En effet, il y a manière de faire sentir aux Auditeurs les beautés d'un Ouvrage, et les choses ne valent que ce qu'on les fait valoir.
 
-    MASCARILLE
+    MASCARILLE.
 Que vous semble de ma petite-oie ? la trouvez-vous congruante à l'habit ?
 
-    CATHOS
+    CATHOS.
 Tout à fait.
 
-    MASCARILLE
+    MASCARILLE.
 Le ruban est bien choisi.
 
-    MAGDELON
+    MAGDELON.
 Furieusement bien. C'est Perdrigeon tout pur.
 
-    MASCARILLE
+    MASCARILLE.
 Que dites-vous de mes canons ?
 
-    MAGDELON
+    MAGDELON.
 Ils ont tout à fait bon air.
 
-    MASCARILLE
+    MASCARILLE.
 Je puis me vanter au moins qu'ils ont un grand quartier plus que tous ceux qu'on fait.
 
-    MAGDELON
+    MAGDELON.
 Il faut avouer que je n'ai jamais vu porter si haut l'élégance de l'ajustement.
 
-    MASCARILLE
+    MASCARILLE.
 Attachez un peu sur ces gants la réflexion de votre odorat.
 
-    MAGDELON
+    MAGDELON.
 Ils sentent terriblement bon.
 
-    CATHOS
+    CATHOS.
 Je n'ai jamais respiré une odeur mieux conditionnée.
 
-    MASCARILLE
+    MASCARILLE.
 Et celle-là ?
 
-    MAGDELON
+    MAGDELON.
 Elle est tout à fait de qualité ; le sublime en est touché délicieusement.
 
-    MASCARILLE
+    MASCARILLE.
 Vous ne me dites rien de mes plumes, comment les trouvez-vous ?
 
-    CATHOS
+    CATHOS.
 Effroyablement belles.
 
-    MASCARILLE
+    MASCARILLE.
 Savez-vous que le brin me coûte un Louis d'or ? Pour moi j'ai cette manie, de vouloir donner généralement sur tout ce qu'il y a de plus beau.
 
-    MAGDELON
+    MAGDELON.
 Je vous assure, que nous sympathisons vous et moi, j'ai une délicatesse furieuse pour tout ce que je porte ; et jusqu'à mes chaussettes, je ne puis rien souffrir qui ne soit de la bonne ouvrière.
 
-    MASCARILLE, *s'écriant brusquement*
+    MASCARILLE, *s'écriant brusquement*.
 Ahi, ahi, ahi, doucement ; Dieu me damne, Mesdames, c'est fort mal en user ; j'ai à me plaindre de votre procédé ; cela n'est pas honnête.
 
-    CATHOS
+    CATHOS.
 Qu'est-ce donc ? qu'avez-vous ?
 
-    MASCARILLE
+    MASCARILLE.
 Quoi, toutes deux contre mon cœur, en même temps ? m'attaquer à droit et à gauche ? ah c'est contre le droit des gens, la partie n'est pas égale, et je m'en vais crier au meurtre.
 
-    CATHOS
+    CATHOS.
 Il faut avouer qu'il dit les choses d'une manière particulière.
 
-    MAGDELON
+    MAGDELON.
 Il a un tour admirable dans l'esprit.
 
-    CATHOS
+    CATHOS.
 Vous avez plus de peur que de mal, et votre cœur crie avant qu'on l'écorche.
 
-    MASCARILLE
+    MASCARILLE.
 Comment diable ! il est écorché depuis la tête jusqu'aux pieds.
 
 
-## Scène X
+## Scène X.
 Marotte, Mascarille, Cathos, Magdelon.
 
 
-    MAROTTE
+    MAROTTE.
 Madame, on demande à vous voir.
 
-    MAGDELON
+    MAGDELON.
 Qui ?
 
-    MAROTTE
+    MAROTTE.
 Le Vicomte de Jodelet.
 
-    MASCARILLE
+    MASCARILLE.
 Le Vicomte de Jodelet ?
 
-    MAROTTE
+    MAROTTE.
 Oui, Monsieur.
 
-    CATHOS
+    CATHOS.
 Le connaissez-vous ?
 
-    MASCARILLE
+    MASCARILLE.
 C'est mon meilleur Ami.
 
-    MAGDELON
+    MAGDELON.
 Faites entrer vitement.
 
-    MASCARILLE
+    MASCARILLE.
 Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette aventure.
 
-    CATHOS
+    CATHOS.
 Le voici.
 
 
-## Scène XI
+## Scène XI.
 Jodelet, Mascarille, Cathos, Magdelon, Marotte.
 
 
-    MASCARILLE
+    MASCARILLE.
 Ah Vicomte !
 
-    JODELET, *s'embrassant l'un l'autre.*
-            
+    JODELET, *s'embrassant l'un l'autre.*.
 Ah Marquis !
 
-    MASCARILLE
+    MASCARILLE.
 Que je suis aise de te rencontrer !
 
-    JODELET
+    JODELET.
 Que j'ai de joie de te voir ici !
 
-    MASCARILLE
+    MASCARILLE.
 Baise-moi donc encore un peu, je te prie.
 
-    MAGDELON
+    MAGDELON.
 Ma toute Bonne, nous commençons d'être connues, voilà le beau monde qui prend le chemin de nous venir voir.
 
-    MASCARILLE
+    MASCARILLE.
 Mesdames, agréez que je vous présente ce Gentilhomme-ci. Sur ma parole, il est digne d'être connu de vous.
 
-    JODELET
+    JODELET.
 Il est juste de venir vous rendre ce qu'on vous doit, et vos attraits exigent leurs droits seigneuriaux sur toutes sortes de personnes.
 
-    MAGDELON
+    MAGDELON.
 C'est pousser vos civilités jusqu'aux derniers confins de la flatterie.
 
-    CATHOS
+    CATHOS.
 Cette journée doit être marquée dans notre Almanach, comme une journée bienheureuse.
 
-    MAGDELON
+    MAGDELON.
 Allons, petit garçon, faut-il toujours vous répéter les choses ? voyez-vous pas qu'il faut le surcroît d'un fauteuil ?
 
-    MASCARILLE
+    MASCARILLE.
 Ne vous étonnez pas de voir le Vicomte de la sorte, il ne fait que sortir d'une maladie qui lui a rendu le visage pâle, comme vous le voyez.
 
-    JODELET
+    JODELET.
 Ce sont fruits des veilles de la Cour, et des fatigues de la guerre.
 
-    MASCARILLE
+    MASCARILLE.
 Savez-vous, Mesdames, que vous voyez dans le Vicomte un des vaillants hommes du siècle ? C'est un brave à trois poils.
 
-    JODELET
+    JODELET.
 Vous ne m'en devez rien, Marquis, et nous savons ce que vous savez faire aussi.
 
-    MASCARILLE
+    MASCARILLE.
 Il est vrai que nous nous sommes vus tous deux dans l'occasion.
 
-    JODELET
+    JODELET.
 Et dans des lieux où il faisait fort chaud.
 
-    MASCARILLE, *les regardant toutes deux*
+    MASCARILLE, *les regardant toutes deux*.
 Oui, mais non pas si chaud qu'ici. Hay, hay, hay.
 
-    JODELET
+    JODELET.
 Notre connaissance s'est faite à l'armée, et la première fois que nous nous vîmes, il commandait un Régiment de Cavalerie sur les Galères de Malte.
 
-    MASCARILLE
+    MASCARILLE.
 Il est vrai ; mais vous étiez pourtant dans l'emploi avant que j'y fusse, et je me souviens que je n'étais que petit Officier encore, que vous commandiez deux mille Chevaux.
 
-    JODELET
+    JODELET.
 La Guerre est une belle chose : mais ma foi, la Cour récompense bien mal aujourd'hui les gens de service comme nous.
 
-    MASCARILLE
+    MASCARILLE.
 C'est ce qui fait que je veux pendre l'épée au croc.
 
-    CATHOS
+    CATHOS.
 Pour moi j'ai un furieux tendre pour les hommes d'épée.
 
-    MAGDELON
+    MAGDELON.
 Je les aime aussi : mais je veux que l'Esprit assaisonne la bravoure.
 
-    MASCARILLE
+    MASCARILLE.
 Te souvient-il, Vicomte, de cette demi-lune, que nous emportâmes sur les ennemis au siège d'Arras ?
 
-    JODELET
+    JODELET.
 Que veux-tu dire avec ta demi-lune ? c'était bien une lune toute entière.
 
-    MASCARILLE
+    MASCARILLE.
 Je pense que tu as raison.
 
-    JODELET
+    JODELET.
 Il m'en doit bien souvenir, ma foi : j'y fus blessé à la jambe d'un coup de grenade, dont je porte encore les marques. Tâtez un peu, de grâce, vous sentirez quelque coup, c'était là.
 
-    CATHOS
+    CATHOS.
 Il est vrai que la cicatrice est grande.
 
-    MASCARILLE
+    MASCARILLE.
 Donnez-moi un peu votre main, et tâtez celui-ci : là, justement au derrière de la tête. Y êtes-vous ?
 
-    MAGDELON
+    MAGDELON.
 Oui, je sens quelque chose.
 
-    MASCARILLE
+    MASCARILLE.
 C'est un coup de mousquet que je reçus la dernière campagne que j'ai faite.
 
-    JODELET
+    JODELET.
 Voici un autre coup qui me perça de part en part à l'attaque de Gravelines.
 
-    MASCARILLE, *mettant la main sur le bouton de son haut-de-chausses*
+    MASCARILLE, *mettant la main sur le bouton de son haut-de-chausses*.
 Je vais vous montrer une furieuse plaie.
 
-    MAGDELON
+    MAGDELON.
 Il n'est pas nécessaire, nous le croyons, sans y regarder.
 
-    MASCARILLE
+    MASCARILLE.
 Ce sont des marques honorables, qui font voir ce qu'on est.
 
-    CATHOS
+    CATHOS.
 Nous ne doutons point de ce que vous êtes.
 
-    MASCARILLE
+    MASCARILLE.
 Vicomte, as-tu là ton Carrosse ?
 
-    JODELET
+    JODELET.
 Pourquoi ?
 
-    MASCARILLE
+    MASCARILLE.
 Nous mènerions promener ces Dames hors des Portes, et leur donnerions un cadeau.
 
-    MAGDELON
+    MAGDELON.
 Nous ne saurions sortir aujourd'hui.
 
-    MASCARILLE
+    MASCARILLE.
 Ayons donc les violons pour danser.
 
-    JODELET
+    JODELET.
 Ma foi c'est bien avisé.
 
-    MAGDELON
+    MAGDELON.
 Pour cela nous y consentons ; mais il faut donc quelque surcroît de compagnie.
 
-    MASCARILLE
+    MASCARILLE.
 Holà Champagne, Picard, Bourguignon, Casquaret, Basque, la Verdure, Lorrain, Provençal, la Violette. Au diable soient tous les Laquais. Je ne pense pas qu'il y ait Gentilhomme en France plus mal servi que moi. Ces canailles me laissent toujours seul.
 
-    MAGDELON
+    MAGDELON.
 Almanzor, dites aux gens de Monsieur, qu'ils aillent quérir des Violons, et nous faites venir ces Messieurs, et ces Dames d'ici près, pour peupler la solitude de notre bal.
 
-    MASCARILLE
+    MASCARILLE.
 Vicomte, que dis-tu de ces yeux ?
 
-    JODELET
+    JODELET.
 Mais toi-même, Marquis, que t'en semble ?
 
-    MASCARILLE
+    MASCARILLE.
 Moi, je dis, que nos libertés auront peine à sortir d'ici les braies nettes. Au moins, pour moi, je reçois d'étranges secousses, et mon cœur ne tient plus qu'à un filet.
 
-    MAGDELON
+    MAGDELON.
 Que tout ce qu'il dit est naturel ! il tourne les choses le plus agréablement du monde.
 
-    CATHOS
+    CATHOS.
 Il est vrai, qu'il fait une furieuse dépense en esprit.
 
-    MASCARILLE
+    MASCARILLE.
 Pour vous montrer que je suis véritable, je veux faire un impromptu là-dessus.
 
-    CATHOS
+    CATHOS.
 Eh je vous en conjure de toute la dévotion de mon cœur. Que nous ayons quelque chose qu'on ait fait pour nous.
 
-    JODELET
+    JODELET.
 J'aurais envie d'en faire autant : mais je me trouve un peu incommodé de la veine Poétique, pour la quantité des saignées que j'y ai faites ces jours passés.
 
-    MASCARILLE
+    MASCARILLE.
 Que Diable est cela ? je fais toujours bien le premier vers : mais j'ai peine à faire les autres. Ma foi, ceci est un peu trop pressé, je vous ferai un impromptu à loisir, que vous trouverez le plus beau du monde.
 
-    JODELET
+    JODELET.
 Il a de l'esprit comme un Démon.
 
-    MAGDELON
+    MAGDELON.
 Et du galant, et du bien tourné.
 
-    MASCARILLE
+    MASCARILLE.
 Vicomte dis-moi un peu, y a-t-il longtemps, que tu n'as vu la Comtesse ?
 
-    JODELET
+    JODELET.
 Il y a plus de trois semaines que je ne lui ai rendu visite.
 
-    MASCARILLE
+    MASCARILLE.
 Sais-tu bien que le Duc m'est venu voir ce matin, et m'a voulu mener à la campagne, courir un Cerf, avec lui ?
 
-    MAGDELON
+    MAGDELON.
 Voici nos amies, qui viennent.
 
 
-## Scène XII
+## Scène XII.
 Jodelet, Mascarille, Cathos, Magdelon, Marotte, Lucile.
 
 
-    MAGDELON
+    MAGDELON.
 Mon Dieu, mes chères, nous vous demandons pardon. Ces Messieurs ont eu fantaisie de nous donner les âmes des pieds, et nous vous avons envoyé quérir pour remplir les vides de notre assemblée.
 
-    LUCILE
+    LUCILE.
 Vous nous avez obligées, sans doute.
 
-    MASCARILLE
+    MASCARILLE.
 Ce n'est ici qu'un Bal à la hâte ; mais l'un de ces jours nous vous en donnerons un dans les formes. Les Violons sont-ils venus ?
 
-    ALMANZOR
+    ALMANZOR.
 Oui, Monsieur, ils sont ici.
 
-    CATHOS
+    CATHOS.
 Allons donc, mes chères, prenez place.
 
-    MASCARILLE, *dansant lui seul comme par Prélude.*
+    MASCARILLE, *dansant lui seul comme par Prélude.*.
 La, la, la, la, la, la, la, la.
 
-    MAGDELON
+    MAGDELON.
 Il a tout à fait la taille élégante.
 
-    CATHOS
+    CATHOS.
 Et a la mine de danser proprement.
 
-    MASCARILLE, *ayant pris Magdelon*
+    MASCARILLE, *ayant pris Magdelon*.
 Ma franchise va danser la courante aussi bien que mes pieds. En cadence, Violons, en cadence. Oh quels ignorants ! il n'y a pas moyen de danser avec eux. Le Diable vous emporte, ne sauriez-vous jouer en mesure ? La, la, la, la, la, la, la, la ? Ferme, ô Violons de village.
 
-    JODELET, *dansant ensuite*
+    JODELET, *dansant ensuite*.
 Holà, ne pressez pas si fort la cadence, je ne fais que sortir de maladie.
 
 
-## Scène XIII
+## Scène XIII.
 Du Croisy, La Grange, Mascarille.
 
 
-    LA GRANGE
+    LA GRANGE.
 Ah, ah, Coquins, que faites-vous ici ? il y a trois heures que nous vous cherchons.
 
-    MASCARILLE, *se sentant battre*
+    MASCARILLE, *se sentant battre*.
 Ahy, ahy, ahy, vous ne m'aviez pas dit que les coups en seraient aussi.
 
-    JODELET
+    JODELET.
 Ahy, ahy, ahy.
 
-    LA GRANGE
+    LA GRANGE.
 C'est bien à vous, infâme que vous êtes, à vouloir faire l'homme d'importance.
 
-    DU CROISY
+    DU CROISY.
 Voilà qui vous apprendra à vous connaître.
 Ils sortent.
 
 
 
-## Scène XIV
+## Scène XIV.
 Mascarille, Jodelet, Cathos, Magdelon.
 
 
-    MAGDELON
+    MAGDELON.
 Que veut donc dire ceci ?
 
-    JODELET
+    JODELET.
 C'est une gageure.
 
-    CATHOS
+    CATHOS.
 Quoi, vous laisser battre de la sorte !
 
-    MASCARILLE
+    MASCARILLE.
 Mon Dieu, je n'ai pas voulu faire semblant de rien : car je suis violent, et je me serais emporté.
 
-    MAGDELON
+    MAGDELON.
 Endurer un affront comme celui-là, en notre présence ?
 
-    MASCARILLE
+    MASCARILLE.
 Ce n'est rien, ne laissons pas d'achever. Nous nous connaissons il y a longtemps, et entre amis on ne va pas se piquer, pour si peu de chose.
 
 
-## Scène XV
+## Scène XV.
 Du Croisy, La Grange, Mascarille, Jodelet, Magdelon, Cathos.
 
 
-    LA GRANGE
+    LA GRANGE.
 Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets. Entrez, vous autres.
 
-    MAGDELON
+    MAGDELON.
 Quelle est donc cette audace, de venir nous troubler de la sorte, dans notre maison ?
 
-    DU CROISY
+    DU CROISY.
 Comment, mes Dames, nous endurerons que nos laquais soient mieux reçus que nous ? qu'ils viennent vous faire l'amour à nos dépens, et vous donnent le Bal ?
 
-    MAGDELON
+    MAGDELON.
 Vos laquais ?
 
-    LA GRANGE
+    LA GRANGE.
 Oui, nos laquais, et cela n'est ni beau, ni honnête, de nous les débaucher, comme vous faites.
 
-    MAGDELON
+    MAGDELON.
 Ô ciel, quelle insolence !
 
-    LA GRANGE
+    LA GRANGE.
 Mais ils n'auront pas l'avantage de se servir de nos habits, pour vous donner dans la vue, et si vous les voulez aimer, ce sera, ma foi, pour leurs beaux yeux. Vite qu'on les dépouille sur-le-champ.
 
-    JODELET
+    JODELET.
 Adieu notre braverie.
 
-    MASCARILLE
+    MASCARILLE.
 Voilà le Marquisat et la Vicomté à bas.
 
-    DU CROISY
+    DU CROISY.
 Ha ha, coquins, vous avez l'audace d'aller sur nos brisées. Vous irez chercher autre part de quoi vous rendre agréables aux yeux de vos belles, je vous en assure.
 
-    LA GRANGE
+    LA GRANGE.
 C'est trop que de nous supplanter, et de nous supplanter avec nos propres habits.
 
-    MASCARILLE
+    MASCARILLE.
 Ô fortune, quelle est ton inconstance !
 
-    DU CROISY
+    DU CROISY.
 Vite qu'on leur ôte jusqu'à la moindre chose.
 
-    LA GRANGE
+    LA GRANGE.
 Qu'on emporte toutes ces hardes, dépêchez. Maintenant, mes Dames, en l'état qu'ils sont, vous pouvez continuer vos amours avec eux, tant qu'il vous plaira, nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, Monsieur, et moi, que nous n'en serons aucunement jaloux.
 
-    CATHOS
+    CATHOS.
 Ah quelle confusion !
 
-    MAGDELON
+    MAGDELON.
 Je crève de dépit.
 
-    VIOLONS, *au Marquis*
+    VIOLONS, *au Marquis*.
 Qu'est-ce donc que ceci ? qui nous payera, nous autres ?
 
-    MASCARILLE
+    MASCARILLE.
 Demandez à Monsieur le Vicomte.
 
-    VIOLONS, *au Vicomte*
+    VIOLONS, *au Vicomte*.
 Qui est-ce qui nous donnera de l'argent ?
 
-    JODELET
+    JODELET.
 Demandez à Monsieur le Marquis.
 
 
-## Scène XVI
+## Scène XVI.
 Gorgibus, Mascarille, Jodelet, Magdelon.
 
 
-    GORGIBUS
+    GORGIBUS.
 Ah coquines, que vous êtes, vous nous mettez dans de beaux draps blancs, à ce que je vois, et je viens d'apprendre de belles affaires vraiment, de ces Messieurs, qui sortent.
 
-    MAGDELON
+    MAGDELON.
 Ah ! mon père, c'est une pièce sanglante, qu'ils nous ont faite.
 
-    GORGIBUS
+    GORGIBUS.
 Oui c'est une pièce sanglante ; mais qui est un effet de votre impertinence, infâmes. Ils se sont ressentis du traitement que vous leur avez fait, et cependant, malheureux que je suis, il faut que je boive l'affront.
 
-    MAGDELON
+    MAGDELON.
 Ah, je jure, que nous en serons vengées, ou que je mourrai en la peine. Et vous, marauds, osez-vous vous tenir ici, après votre insolence ?
 
-    MASCARILLE
+    MASCARILLE.
 Traiter comme cela un Marquis ? Voilà ce que c'est que du monde, la moindre disgrâce nous fait mépriser de ceux qui nous chérissaient. Allons, camarade, allons chercher fortune autre part ; je vois bien qu'on n'aime ici, que la vaine apparence, et qu'on n y considère point la vertu toute nue.
 Ils sortent tous deux.
 
 
 
-## Scène XVII
+## Scène XVII.
 Gorgibus, Magdelon, Cathos, Violons.
 
 
-    VIOLONS
+    VIOLONS.
 Monsieur nous entendons que vous nous contentiez à leur défaut, pour ce que nous avons joué ici.
 
-    GORGIBUS, *les battant*
+    GORGIBUS, *les battant*.
 Oui, oui, je vous vais contenter, et voici la monnaie, dont je vous veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant, nous allons servir de fable, et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines, allez vous cacher pour jamais. Et vous, qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, Romans, Vers, Chansons, Sonnets et Sonnettes, puissiez‑vous être à tous les Diables.< FIN >

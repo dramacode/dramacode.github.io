@@ -18,14 +18,14 @@ A PARIS ; Chez Jean Pasle', ruë Sainct Jacques, à la Pomme d'Or, proche Sainc
 
 
 
-# Introduction
+# Introduction.
 
 Fauste tombe amoureuse de Crispe, fils de Constantin et de sa première femme. Elle avoue son amour à son beau-fils, qui la repousse avec horreur; furieuse, elle l'accuse auprès de son mari d'avoir voulu la séduire. Constantin croit à la calomnie de sa femme et fait tuer son fils. Une fois Crispe mort, Fauste, bouleversée, avoue la vérité et veut mourir; Constantin pour venger l'innocence la fait tuer en la noyant dans un bain bouillant pour laver son crime.
 
 Tel est le sujet dont traite *L'Innocent Malheureux ou La Mort de Crispe*, tragédie en cinq actes de François de Grenaille, sieur de Chatounières. Cette pièce, qui est l'une des premières créations de François de Grenaille a été publiée en 1639, et elle est dédiée à Jean, vicomte de Pompadour. L'auteur, pour prévenir les éventuelles critiques, nous rappelle dans sa préface, qu'il débute, et que par conséquent on ne peut pas lui reprocher d'exceller en une matière dans laquelle il débute à travers la métaphore de l'envol impossible « sans avoir appris à marcher ». Bien que H. Lancaster [1], pense que cette pièce n'a pas été publiquement représentée, mais elle l'a pourtant été, puisque Grenaille souligne dans sa préface que la pièce fut représentée devant plusieurs cardinaux, et E. Forsyth précise que la pièce a été représentée en 1638 [2]. 
 
 
-# La vie et l'œuvre de françois de grenaille
+# La vie et l'œuvre de françois de grenaille.
 
 François de Grenaille naît à Uzerche, dans le Bas-Limousin, en 1616 et meurt en 1680 [3] à Puygrolier. Il est issu d'une famille de bonne bourgeoisie, il est élevé à Bordeaux et il est entré dans l'ordre de Saint-Benoît en cette ville : ses supérieurs l'envoient à Agen vers 1635 où il se livre à des travaux d'érudition. À 22 ans, il « jette le froc aux orties » parce que , dit-on, il était amoureux d'une nièce du vicomte de Jean de Pompadour, celui-là même à qui est dédiée la tragédie de *Crispe* mais cela semble peu vraisemblable [4].
 
@@ -38,43 +38,43 @@ François de Grenaille a joué un rôle considérable dans la vie littéraire de
 Nous pouvons rapporter ici quelques jugements des critiques contemporains de François de Grenaille, pour montrer la sévérité dont ils ont fait preuve envers lui. Samuel Sorbière considère que dans ses œuvres : « … les bonnes choses y étaient fort rares et ce qu'il y en avait de bonnes avaient déjà été dites si souvent que ce n'était pas grande gloire de les répéter. Le style était assez fade et qui faisait juger de l'auteur qu'il n'écrivait que pour écrire [7]. Guez de Balzac, lui reproche aussi son manque d'originalité, en lui déclarant un jour : « Qu'un livre ait quelque air de nouveauté, vous le contrefaites aussitôt. ».Quant à Goujet, il estime que le nom de Grenaille est: « fort peu révéré dans la République des lettres, et très décrédité sur le Parnasse [8] ». Enfin, Guéret dans sa *Guerre des Auteurs*, va jusqu'à s'offusquer de l'inscription que Grenaille a fait mettre en bas de son portrait [9] : « Franciscus de Grenaille, Dominus de Chateaunières, natus Uzerchii in Lemovicibus, Burdigalae tantum non mortuus, renatus Aginni, Parisiis immortalis. Aetatis anno 24. Aeterni regni 1640. Sic mortales immortales evadimus [10]. », car il estime que cette inscription est « un article qui n'a rien de la vérité ».
 
 
-# L'innocent malheureux ou la mort de crispe
+# L'innocent malheureux ou la mort de crispe.
 
 
-## Résumé de l'argument
+## Résumé de l'argument.
 
 
-### Acte I
+### Acte I.
 
 L'empereur Constantin se réjouit du succès des combats qu'il a livrés, et il est heureux de voir « sa maison en paix comme l'empire ». Mais Emile vient presque aussitôt avertir le roi d'une révolte organisée par l'un de ses sujets. Constantin sur l'avis d'Artaban, décide d'envoyer Crispe faire taire cette rébellion. De son côté, Hélène, la mère de Constantin, demande à Crispe de mener Fauste vers la Religion. Au même moment, Fauste de son côté, feint de s'intéresser aux amours de Procle, ami de Crispe, pour en fait en savoir d'avantage sur les amours de celui-ci. Fauste, dans une stance déchirante, avoue son amour pour Crispe. Hélène, la sœur jumelle de Crispe vient avertir Fauste du projet qu'on a d'envoyer Crispe en mission. Elles décident toutes deux de tout faire pour annuler cette charge. Adelaïde, l'amoureuse de Crispe, vient s'informer des raisons du futur départ de celui-ci.
 
 
-### Acte II
+### Acte II.
 
 Constantin donne l'épée du Général d'Armée à son fils, avec ordre de mourir ou de vaincre. Crispe la prend, et a hâte de montrer sa valeur. Fauste invoque diverses raisons pour empêcher le départ de Crispe, et finit par convaincre le père de celui-ci de renoncer à ce projet. La grand-mère de Crispe vient d'apprendre le départ de son petit-fils et en est affligé, quand Artaban vient arrêter Crispe qui était sur le point de partir. Crispe en est très irrité, mais respecte la décision de son père. Sa sœur Hélène et la princesse Adelaïde se réjouissent de cette nouvelle. Procle informe Fauste du désintérêt qu'éprouve Crispe pour les femmes. Adelaïde demande à Fauste de l'aider à gagner le cœur de Crispe, sans se douter que celle-ci est sa rivale. Et Crispe avoue à Procle qu'il a fini par céder à l'amour, et que c'est Adelaïde qui a fait prisonnier son coeur.
 
 
-### Acte III
+### Acte III.
 
 Fauste envoie Adelaïde chercher Crispe, et fait croire à celle-ci qu'elle veut lui parler en sa faveur. En réalité, Fauste veut déclarer à Crispe son amour qu'elle ne peut plus cacher. Fauste lui déclare sa flamme, et Crispe la rejette avec révolte et colère. Fauste pour se venger décide de causer sa mort. De son côté, Crispe décide de se retirer de la cour, il le déclare à son ami Procle sans lui en avouer la cause. Son ami insiste pour en connaître les raisons, Crispe lui répond alors que c'est « pour le bien de l'Estat et de la maison de son Pere ». Constantin, lui se réjouit avec Artaban de la soumission des rebelles, mais se fâche lorsque Procle l'informe du départ de son fils, car il pense que ce départ précipité cache une trahison. Fauste vient accuser Crispe auprès de Constantin du crime qu'elle seule a voulu commettre.
 
 
-### Acte IV
+### Acte IV.
 
 Constantin décide de tuer Crispe pour venger l'honneur de sa femme, et Artaban tente sans succès de l'en dissuader. Qui plus est, Constantin confie à Artaban la mission d'exécuter ce crime. Artaban ne pense pas que Crispe soit coupable, mais il préfère « quitter la vertu que la cour ». Fauste continue à rendre détestable Crispe, en faisant croire à Adelaïde « que Crispe ne paye son feu que de mine et de froideur ». Hélène mère de Constantin s'excuse auprès de Fauste du prompt départ de Crispe, et lui demande d'adoucir Constantin. Fauste répond qu'elle le fera, et ne dit rien de la vérité. Emile questionne Constantin pour savoir s'il a changé de dessein. Mais il s'aperçoit que Constantin restera sur ses décisions. Hélène fille de l'empereur, raconte à son père la vision qu'elle a eue, sur la mort de son frère. Constantin ne lui dit quand même rien de son projet. Constantin, bien qu'il croie toujours son fils coupable, regrette d'avoir donné l'ordre de le tuer. Fauste vient avec Hélène mère de l'empereur pour intercéder en faveur de Crispe. Fauste en défendant l'innocence, couvre mieux son crime. Procle après avoir vu mourir son ami, décide d'en finir avec la vie, mais avant, il doit porter cette nouvelle à sa maîtresse, et pour lui faire deviner ce sinistre accident, il choisit un silence affecté.
 
 
-### Acte V
+### Acte V.
 
 Fauste semble s'affliger avec Hélène mère de son mari de la mort de Crispe, alors qu'en réalité, elle en est heureuse. Mais elle commence a éprouvé des remords du fait de son crime, même si elle garde encore le secret. Artaban vient rendre compte de son forfait à Constantin, le premier s'en repentit, le second en est heureux. Hélène mère de l'empereur, reproche à celui-ci, son crime, mais celui-ci lui répond que le seul coupable est Crispe. Constantin est stupéfait lorsque Fauste vient avouer son crime et ainsi innocenter Crispe. Sa fille, Hélène, demande vengeance pour son frère. Constantin ne peut refuser; c'est pourquoi il fait tuer sa femme. Ensuite, Procle fait le récit de la mort de Crispe, et en faisant cela, il attriste tout le monde. Hélène mère de l'empereur avait tout d'abord, elle aussi, demandé vengeance, mais ensuite par pitié, elle demande la grâce pour Fauste, et pendant qu'elle le fait, on porte la nouvelle de la mort de cette « Megere ».
 
 
-## Les sources
+## Les sources.
 
 Au XVII*e* siècle, il y'a eu un engouement à chercher des sujets du côté du mythe et de l'histoire, et surtout à puiser des sujets chez les anciens, car ceux-ci ayant fait l'épreuve du temps, semblent avoir donné la preuve de ce qu'ils sont donc dignes d'être copiés. D'ailleurs P. René Rapin écrit que « l'Histoire et la fable doivent nécessairement entrer dans la composition du sujet. En ce qui concerne notre pièce, « Au XVII*e* siècle, les métamorphoses du thème de Phèdre, si souvent évoquées en notre siècle, sont devenues inséparables de celle de l'histoire du malheureux fils de Constantin, Chrispe [11]. ». Grenaille ne coupe pas à cette mode, et se choisit de se fonde sur le mythe de Phèdre et l'histoire de Constantin pour composer l'intrigue de *La Mort de Crispe.*
 
 
-### Le mythe
+### Le mythe.
 
 Nous ne parlerons ici que du mythe de Phèdre raconté par Sénèque dans son *Hippolyte*, puisque c'est celui qui est mentionné par notre auteur dans sa préface, et qui est reconnu comme présentant des similitudes avec notre sujet :
 
@@ -84,7 +84,7 @@ La conformité de son sujet avec le mien, peut avoir produit en plusieurs endroi
 Nous pouvons résumer l'œuvre de Sénèque en ces termes : Phèdre tombe amoureuse de son beau-fils Hippolyte. Elle profite de l'absence de Thésée, pour avouer cet amour. Hippolyte. Celui-ci qui n'aime que la chasse, la repousse avec colère, ce qui provoque une réaction furieuse de Phèdre, qui pour se venger laisse sa nourrice accuser Hippolyte d'un crime qu'elle seule a voulu commettre. Thésée croit à la calomnie et furieux, demande aux dieux d'exercer leur vengeance sur Hippolyte, qui est tué par un monstre. Après avoir su la mort d'Hippolyte, Phèdre décide de mourir mais avant elle avoue son crime à Thésée. Thésée comprend trop tard sa faute et la malédiction des dieux.
 
 
-### L'Histoire
+### L'Histoire.
 
 Dans le chapitre 9 de la Poétique, Aristote explique que l'action tragique doit se fonder sur des événements historiques parce que les faits paraissent au spectateur plus crédibles s'ils ont réellement eu lieu. Ceci est d'autant plus vrai, que comme nous le verrons plus loin le choix d'un sujet historique offre à Grenaille une garantie de « vraisemblance ».
 
@@ -96,12 +96,12 @@ Ceux qui n'en ont osé parler de peur d'offencer la gloire du Protecteur de la f
 Bien que Grenaille ne le mentionne pas, « the main plot is taken chiefly from Caussin's Cour sainte, II, 48 [12] ». L'histoire nous apprend que Crispus, fils de l'Empereur Constantin et de Minervine, fut exécuté secrètement sur l'ordre de son père, alors remarié avec Fausta, que le même Constantin fit ensuite étouffer dans un bain. Tels sont les faits relatés dans *La Cour Sainte* par Nicolas Caussin [13], est plus enrichissante puisqu'elle offre une dimension morale à l'affaire, et comme nous le précise Caussin, toujours dans La Cour Sainte « la pire des attitudes est le silence, mais pour rompre le silence il faut proposer une interprétation. » [14]. La solution était selon Caussin d'« accepter que Constantin pût être l'auteur de crimes inexcusables mais en tentant de les justifier et même de les excuser à sa décharge [15]. ». Il était impensable d'imputer un tel crime au « défenseur de la foi », c'est pourquoi il a été utile de recourir au mythe de Phèdre, qui a l'avantage de faire endosser à la païenne l'entière responsabilité des événements advenus. Et si Constantin a quelque tort, il est excusable selon P. Caussin [16] car  : « Ce n'est pas de merveille qu'il ait eu les vices devant le Baptême, mais c'est le miracle du Christianisme de changer les lions en agneaux, les cloaques en fontaines, et les épines en roses et en tulipes ».
 
 
-### Bilan
+### Bilan.
 
 Grenaille nous précise qu'il a apporté des changements à l'histoire. Le travail du poète sur les sources relève donc, selon l'expression de G. Forestier, d'une « dialectique fidélité / invention ».
 
 
-#### Les emprunts
+#### Les emprunts.
 
 Grenaille explique dans sa préface que le sujet de Crispe a déjà été traité par un jésuite nommé Stephonius [17] :
 
@@ -113,7 +113,7 @@ De Stephonius, mais vraisemblablement aussi de Caussin, bien qu'il ne le mention
 Quant à la ressemblance avec le mythe, la relation Crispe-Fauste-Constantin, semble reproduire avec exactitude la relation Hippolyte-Phèdre-Thésée, puisque la marâtre, le père et le fils y remplissent respectivement les mêmes fonctions. Mais Grenaille a été plus loin, il « a repris la structure de la Phèdre sénéquienne _ notamment l'aveu de Fauste à Crispe, et la violence aveugle de Constantin contre un fils que tout accuse (la calomnie de Fauste, et la manière suspecte dont il s'est brusquement exilé de la cour sans prendre congé [19]) ». Sa pièce est trop proche du mythe pour que l'on puisse croire à ses dires, selon lesquels il ne s'en serait pas directement inspiré. D'ailleurs Lancaster [20], ne manque pas de remarquer cet emprunt : « The well-known legend, dramatized by Euripides and Seneca, had reappered in French plays (...) in Grenaille's Innocent malheureux, where imitation of Seneca is added to the dramatization of another story. »
 
 
-#### Les ajouts
+#### Les ajouts.
 
 Grenaille nous explique dans la préface, que l'on peut ajouter des événements « dont les Historiens ne fassent pas de mention », mais à une condition : « Il suffit que ce qu'il ajoûte à la deposition des autres, ne les contredise point en la substance des choses, et soit plustost un enrichissement du fonds, qu'une Fable du tout hors d'œuvre. Quand il s'esloigne du vray, il doit suivre le vray semblable [21]. » Cette évocation montre selon D. Dalla Valle l'« autonomie du poète ». Elle rend compte de la démarche que suit le poète pour construire sa tragédie, « elle explique l'introduction de personnes et de constructions différentes par rapport à la source, pourvu qu'ils ne la modifient pas directement [22] ». Grenaille introduit deux histoires d'amour, celle de Crispe et d'Adelaïde suivante de Fauste, et celle d'Hélène et de Procle, l'ami de Crispe, et il s'en justifie ainsi : «  … si dans toute cette Tragedie j'ay meslé encore d'autres intrigues d'amour outre celles qui en font proprement le corps, ç'a esté pour adoucir la severité des evenemens funestes, et resjoüir un peu ceux que je dois faire pleurer. ». Grenaille, contrairement à la tradition, loin d'avoir présenté l'« Hippolyte » qu'est Crispe, comme un être n'ayant goût qu'à la chasse, il en fait un jeune homme amoureux même s'il le confesse avec quelque honte. Pour quelle raison ? Peut-être que le conflit entre l'amour et la chasteté semblait peu croyable au dix-septième siècle, et qu'on lui préférait le conflit entre la passion et la raison, le moral et l'immoral. C'est pourquoi notre Crispe est amoureux et que « tous les Hippolytes français qui suivront le Crispe de Grenaille, seront, eux aussi, amoureux : chez Gilbert, chez Bidar, chez Pradon et finalement chez Racine. » [23]
 
@@ -121,12 +121,12 @@ Grenaille nous explique dans la préface, que l'on peut ajouter des événements
 ## Une tragédie classique ?
 
 
-### Un sujet aristotélicien
+### Un sujet aristotélicien.
 
 Selon Aristote, le sujet tragique nécessite un conflit entre des « passions nobles », or quoi de plus noble que l'amour et la vengeance qui sont les moteurs de l'action dans notre pièce. Le sujet étant de caractère élevé, il doit y avoir de nobles personnages, or que présente *L'Innocent malheureux* ? Un empereur, une impératrice, des princes et des princesses. De plus, le tragique par excellence est suscité par une situation dans laquelle « c'est entre personnes amies que se produisent les événements tragiques (…) [24] ». Tous les principes aristotéliciens semblent réunis dans notre tragédie.
 
 
-### La règle des unités
+### La règle des unités.
 
 L'unité de temps est respectée puisque « tous les événements présentés peuvent vraisemblablement se produire en vingt-quatre heures [25] ».
 
@@ -135,7 +135,7 @@ Quant au lieu, tout semble se dérouler au sein d'un même palais, comme le conf
 L'unité d'action, est elle, plus discutable, puisque Grenaille y a introduit deux épisodes : l'amour d'Hélène et de Procle, et l'amour de Crispe et Adélaïde, car en ce faisant, « there is no doubt about the fact they violate the unity of action and detract from the effectiveness of the play by introducting too many characters [27]. ». En effet, ces actions secondaire n'influent nullement sur l'action principale, et pourraient tout à fait être supprimées.
 
 
-### La bienséance
+### La bienséance.
 
 Selon P. René Rapin, les bienséances sont de deux ordres :
 
@@ -145,7 +145,7 @@ Le premier est celui de la convenance morale : c'est ce qu'on appelle les biens
 Or, est-il cohérent ce soudain remords de Fauste ? Cela est peu vraisemblable, étant donné qu'elle a tout orchestré et s'est même réjouit à l'annonce de la mort de Crispe. Ou encore est-il bienséant que Crispe aime la suivante de Fauste ? Fauste elle-même s'en étonne : « Cet ingrat me prisoit moins que ma Confidente [28] » remarque cette incohérence. Il semble que la vraisemblance soit malmenée.
 
 
-### La vraisemblance
+### La vraisemblance.
 
 La vraisemblance ordonne que l'action représentée soit conforme au comportement habituel des hommes, et ce, même si « le vrai peut quelquefois n'être pas vraisemblable [29] ». Or, est-il, vraisemblable qu'une femme après avoir voulu trahir son mari, cherche à perdre son beau-fils parce qu'il n'a pas voulu lui céder, et que le père ordonne le meurtre de son propre fils. Car, si en effet, le sujet est similaire à celui de Sénèque, d'Euripide ou encore de Racine, chez ces divers auteurs, la culpabilité de Phèdre est plus ou moins atténuée par l'absence de Thésée et par la persécution des dieux (« C'est Vénus toute entière à sa proie attachée [30] »), qui fait que le combat de Phèdre est moins celui d'une femme contre l'amour que celui d'un être humain contre les Dieux. Mais Fauste, cette « nouvelle Phèdre » n'a pas ce poids des dieux comme prétexte, elle apparaît plus libre, et donc du même coup, plus coupable. Elle ne peut être ce personnage « ni tout à fait innocent ni tout à fait coupable ». Mais « la perfection esthétique de la violence exige des sujets proprement *extra*-ordinaires, qui ne peuvent s'accommoder du critère de vraisemblance tel du moins que l'entendent les théoriciens classiques français … [31]. » mACependant Corneille dans la préface de sa tragédie *Héraclius* nous dit ceci :
 
@@ -155,12 +155,12 @@ Aristote … ne veut pas qu'on compose une tragédie d'un ennemi qui tue son enn
 Qu'en conclure ? Si l'on considère le principe aristotélicien selon lequel c'est le « surgissement de violences au cœur des alliances » qu'il faut rechercher pour faire une belle tragédie, alors Grenaille n'a point fait de fautes. Car même s'il s'est éloigné du vraisemblable, il est dans le vrai, et comme conclut Corneille « … L'action étant vraie …, il ne faut plus s'informer si elle est vraisemblable [33] ».
 
 
-## La passion
+## La passion.
 
 Cette « exemple terrible de la force des passions [34] » est ici le moteur de l'action tragique
 
 
-### Les caractéristiques de cette passion
+### Les caractéristiques de cette passion.
 
 Cette passion apparaît tout d'abord comme une passion coupable. En effet, par le choix même de l'être aimé Fauste devient coupable. Sa passion est une faute, en ce qu'elle coïncide avec la transgression d'une loi morale (adultère et inceste), même si au regard de la loi, Fauste en aimant son beau-fils n'est pas incestueuse, puisqu'il n'y a pas de lien de famille, et par conséquent pas de lien de consanguinité qui les unisse. Mais subjectivement, elle se voit comme quelqu'un allant à l'encontre des lois morales. Cet interdit engendre un conflit moral permanent. Ce conflit est intériorisé et se traduit par les nombreuses stances. Les stances expriment son déchirement entre sa passion et son sentiment de culpabilité. Ce déchirement est, sans aucun doute, l'un des ressorts du tragique.
 
@@ -172,22 +172,22 @@ et l'aimant tu ne peux qu'estre fort miserable [35].
 Enfin, cette passion peut être décrite comme un rapport de force. Fauste l'amoureuse dédaignée est la femme de l'empereur, et se place donc du côté du pouvoir politique. À ce titre, elle tente de contraindre l'autre à l'aimer, car elle dispose du droit de vie ou de mort sur lui, c'est pourquoi elle lui objecte : « Si tu ne m'aimes pas garde toy de perir ». Mais cette menace est en réalité un aveu d'impuissance. Car si Fauste y recourt c'est parce que c'est la « seule carte » qu'il lui reste à jouer. Et paradoxalement, c'est Crispe qui se retrouve en position de supériorité sur Fauste bien qu'elle ait le pouvoir.
 
 
-### Le comportement de Fauste
+### Le comportement de Fauste.
 
 Son comportement est celui d'une femme déchirée. Il se caractérise par le recours aux stances qui « se présentent comme l'expression d'un moi souffrant, irrésolu, inquiet … [36]. ». Ce déchirement est d'autant plus perceptible que ces stances sont marquées par la présence de nombreuses figures. Le grand nombre de stances convoque une impression de plainte, d'élégie. Les vers cessent d'être discours pour tendre au chant. Nous commencerons par repérer dans à la première stance [37] la « figure macrostructurale [38] » qu'est l'opposition. Elle se manifeste à travers plusieurs antithèses : l'isotopie de la justice, de la raison ( « Droit », «  loy », « devoir », « Loix », « infidèle » / « sage », « raison », ) s'oppose à l'isotopie de l'amour (« Amour », « aimer », « aimable », « feu », « flame », « cherir », « amorce ») ; cette isotopie de l'amour s'oppose aussi à celle de la mort ( « oste la vie », « perir », « étouffer », « tüe »). L'opposition atteint son paroxysme à travers les oxymores (« Injuste Droict », « doux sang … barbare »)
 
 Le rejet de la femme amoureuse la rend capable d'une haine destructrice, en effet Fauste se sent obligée de « changer de flamme, et brûler de cholere et non plus de desir. ». Mais en dépit des apparences, les deux réactions ne sont pas contradictoires, car la haine dont Fauste fait preuve n'est que la forme du désespoir amoureux [39].
 
 
-## L'aveu
+## L'aveu.
 
 « Dans le théâtre classique, les grands monologues recèlent des voix exposant des thèmes et des motifs, souvent contradictoires (…) [40] » *L'Innocent malheureux* est une tragédie de l'aveu ? L'aveu est l'acte tragique, par excellence, car avec lui l'étape décisive est franchie. Un aveu dont le psychologie est ambiguë, puisqu'il comporte deux réactions opposées : d'une part le soulagement d'avoir enfin rompu le silence et qui permet à Fauste d'avoir un espoir, d'autre part, la conscience d'avoir aggravé sa passion en l'avouant à celui qui en est l'objet. Fauste est maîtresse de son destin tant qu'elle garde le silence, et ne l'est plus dès lors qu'elle parle. Tant qu'elle est seule à connaître son terrible secret, elle a le choix de vivre ou mourir. Mais après avoir parlé, après avoir rompu le silence, qui plus est à deux reprises puisqu'il y a eu l'aveu à Crispe, puis l'aveu à Constantin, elle ne peut plus que mourir. Les mots, en donnant forme à son crime, scellent son destin tragique. D'ailleurs avant même d'avoir avoué son crime, l'héroïne sait que la mort peut être une des conséquences de l'aveu, au vers 214, elle énonce le choix suivant : « Et Crispe se voyant aimé qu'il me tuë, ou qu'il m'aime [41]. ». *é*tant donné le résultat prévisible de l'aveu, la tentation de se taire est bien grande, Fauste, au début de sa première stance tente de s'en convaincre, et ordonne à son cœur de tenir « sa flamme couverte ». Mais à cette tentation du silence s'oppose la nécessité de l'aveu, car Fauste sent que l'amour qu'elle éprouve « doit l' étouffer s'il n'est produit au jour [42] ». Et jusqu'au moment de la confession, Fauste oscille entre le silence et l'aveu, c'est pourquoi l'aveu se fait de façon voilée au début, puis de plus en plus explicitement. Le dernier aveu, c'est-à-dire celui à Constantin, ne s'encombre plus d'hésitations, puisque Fauste a alors décidé de mourir.
 
 
-## Les principaux personnages [43]
+## Les principaux personnages [43].
 
 
-### Fauste
+### Fauste.
 
 Elle incarne la passion. Elle éprouve un amour déraisonnable, et presque adultère pour son beau-fils, Crispe, c'est pourquoi Hélène mère de Constantin la compare à Phèdre :
 
@@ -197,29 +197,29 @@ On peut trouver icy des Phèdres veritables [44].
 Elle représente celle qui ne croit pas au « vrai Dieu », la Païenne. Elle intervient tout au long de la pièce, à tous les actes. Elle représente le pouvoir, c'est pourquoi Adélaïde et Procle comptent respectivement sur elle pour se voir heureux en amour. Elle est rancunière et sait utiliser la « stratégie des larmes ». C'est la « tentatrice-accusatrice [45] ».
 
 
-### Crispe
+### Crispe.
 
 Fils de Constantin et de Minervine. C'est le personnage éponyme, et donc le héros de la pièce, bien qu'il disparaisse au milieu de l'acte III, c'est-à-dire au milieu de la pièce. Il semble avoir l'emploi du jeune premier, parfait en tous points. Mais c'est à travers les dires des autres personnages qu'on le découvre, car du fait de son petit nombre d'apparitions sur scène, il se caractérise surtout par son absence, son silence qui facilitera d'ailleurs l'injustice dont il est victime. Il souffre de n'avoir encore accompli aucune grande action, et rêve d'en accomplir, mais il n'est pas pour autant le chaste Hippolyte qui n'a d'yeux que pour la châsse, il est ici amoureux d'Adélaïde.
 
 
-### Constantin
+### Constantin.
 
 Selon J. Truchet, « Le roi (ou l'empereur) est noble et juste, parle avec autorité, n'est pas forcément très subtil (…). Il est souvent père, et père déchiré (…). *à* ce type s'en oppose un autre : celui du tyran qui abuse de son pouvoir et professe l'arbitraire [46]. ». Quel est le type de l'empereur Constantin ? Il semble être tout à la fois. Il apparaît comme un personnage victime de l'ignorance dans laquelle il se trouve des vrais rapports entre son fils et sa seconde épouse, et de son emportement qui le pousse à condamner sans avoir eu soin d'informer son jugement. Il est tour à tour le père horrifié d'avoir un fils criminel, et le père aimant et accablé par la mort de son fils.
 
 
-### Hélène
+### Hélène.
 
 Elle est la mère de Constantin. Elle représente la religion, elle tente d'amener Fauste vers la religion, et au dernier acte, elle demande le pardon pour celle-ci. Et sera d'ailleurs la future sainte hélène [47].
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 L'édition de *L'Innocent malheureux ou La Mort de Crispe* sur laquelle nous avons travaillé a été exécutée en 1639 par Jean Paslé :
 
 In-4, 27f. non chiffrés.- 125. II p. Bibliothèque Nationale de France : Microfiche Yf 501.
 
 
-## Description
+## Description.
 
 (I) Page de titre : L'INNOCENT / MALHEUREUX, / OU LA MORT / DE CRISPE. / TRAGEDIE. / Par le Sieur de GRENAILLE, / fleuron du libraire /A PARIS, / Chez *Jean Pasle'*, ruë Sainct Jacques, à la Pomme / d'Or, proche Sainct Severin. / M. DC. XXXIX. / AVEC PRIVILEGE DU ROY.
 
@@ -236,7 +236,7 @@ sonnet de P.L.P / sonnet de Pisieux / sonnet de Grenaille, frère de l'autheur /
 (VI) PRIVILEGE DU ROY.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 En règle générale nous avons conservé l'orthographe de l'édition originale, à quelques réserves près :
  * – nous avons modernisé les « ∫ » en « s ».
@@ -246,7 +246,7 @@ En règle générale nous avons conservé l'orthographe de l'édition originale,
  * – Nous avons corrigé quelques erreurs manifestes (cf. liste des rectifications).
 
 
-## Corrections
+## Corrections.
 
 Nous avons apporté les modifications suivantes au texte :
 
@@ -295,7 +295,7 @@ Nous avons également rectifié la ponctuation dans les vers suivants :
 Enfin nous avons corrigé les erreurs de numérotation de l'acte II (IV -> V ; V -> VI), et la pagination du cahier C (p.17 à p. 24).
 
 
-## Autres exemplaires consultés
+## Autres exemplaires consultés.
 
 B.N.F        Rés Yf 1420
 
@@ -505,40 +505,40 @@ La Scene est à Rome.
 
 
 
-## Argument du premier Acte
+## Argument du premier Acte.
 
 
-### Scene premiere
+### Scene premiere.
 
 Constantin se réjoüit de l'heureuse fin de toutes ses entreprises, qui doit neantmoins estre un commencement de malheur pour sa maison⁎; la paix du dehors va causer la guerre audedans.
 
 
-### Scene II
+### Scene II.
 
 Emile vient donner avis [150] à l'Empereur, qu'un Prince de ses sujets s'est revolté contre luy. Il prend resolution de rompre ce qui ne veut pas plier.
 
 
-### Scene III
+### Scene III.
 
 Helene mere de Constantin, sçachant bien le pouvoir qu'a Crispe sur l'Esprit de l'Imperatrice, avertit ce Prince de complaire⁎ en tout à Fauste, afin de luy faire agréer les bons desseins⁎ que son espoux a conceus pour la Religion.
 
 
-### Scene IV
+### Scene IV.
 
 L'imperatrice sous pretexte d'aider les amours [151] de Procle, s'informe de celles de Crispe, et charge ce confident de disposer son amy à correspondre aux affections de la plus grande Dame de l'Empire.
 
 
-### Scene V
+### Scene V.
 
 Elle avouë en secret ce qu'elle cachoit en public, et se veut persuader qu'un amour illegitime est raisonnable.
 
 
-### Scene VI
+### Scene VI.
 
 La jeune Helene la vient avertir du dessein⁎ qu'on a pris d'éloigner Crispe par une Charge specieuse ; elles en prennent un autre d'empescher l'execution.
 
 
-### Scene VII
+### Scene VII.
 
 Adelaïde s'informe du sujet de l'éloignement de Crispe, et maudit en suite son esperance qui ne l'a flattée que pour l'affliger⁎.
 
@@ -547,14 +547,14 @@ L'INNOCENT MALHEUREUX,
 OU LA MORT DE CRISPE. 
 
 
-## ACTE I
+## ACTE I.
 
 
-### Scene premiere
+### Scene premiere.
 Constantin, Artaban
 
 
-    CONSTANTIN
+    CONSTANTIN.
 Ce repos me plaist bien qui vient de [152] mes travaux,  
 Je n'ay plus d'ennemis, n'ayant plus de Rivaux ;  
 J'ay dèstruit ces Tyrans⁎ qui pensoient tout destruire  
@@ -564,7 +564,7 @@ La Fortune [154] n'a point de part à mon bon-heur⁎ ;
 Ce qu'on nomme Faveur, n'est que ma recompense,  
 Et le Ciel seulement seconde ma vaillance.  
 
-    ARTABAN
+    ARTABAN.
 Nul ne peut desirer plus de prosperitez,  
 Mais vous en avez moins que vous n'en meritez ;  
 De toutes neantmoins la plus considerable  
@@ -580,7 +580,7 @@ Et dans leur difference, ils n'ont rien de contraire.
 Mais Crispe à son advis vous representant mieux,  
 Comme il est le plus grand, est plus cher à ses yeux.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Aussi l'unique bien⁎que mon ame desire,  
 C'est de voir ma maison⁎ en paix comme l'Empire,  
 Un Prince peut tomber, quand le dernier Appuy  
@@ -597,21 +597,21 @@ Emile entre.
 
 
 
-### Scene II
+### Scene II.
 Constantin, Artaban, Emile
 
 
-    CONSTANTIN
+    CONSTANTIN.
 Emile que dis-tu ?  
 
-    EMILE
+    EMILE.
         Qu'une de vos Provinces [162]  
 D'un de vos Lieutenans a fait un de ses Princes,  
 Sur le bord du Danube un peuple revolté,  
 Veut opposer sa force à vôtre Majesté ?  
 Il arme puissamment pour attaquer l'Empire.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il me faut travailler [163] mesme quand je respire ;  
 Je m'ennuyois [164] déja de me voir en repos,  
 La peine et la sueur me rendent plud dispos,  
@@ -620,28 +620,28 @@ Que pour avoir l'honneur que je songe à l'abatre,
 Je me vay disposer à domter son orgueil,  
 Et sa vaine [165] grandeur sera son vray cercueil.  
 
-    ARTABAN
+    ARTABAN.
 Vostre fils doit gagner cette belle Couronne.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Assemblez le Conseil [166] avant que j'en ordonne.  
 
 
-### Scene III
+### Scene III.
 *Helene*, mere de l'Empereur. *Crispe*
 
 
-    HELENE
+    HELENE.
 C'est un objet bien rare à mes yeux de te voir.  
 
-    CRISPE
+    CRISPE.
 Je choque⁎ mon desir autant que mon devoir,  
 Je m'accuse, Madame, entendant vôtre plainte ;  
 Mais je ne peche point agissant par contrainte :  
 Car Fauste me retient si long temps pres de soy [167],  
 Qu'il ne m'en reste plus ny pour vous ny pour moy.  
 
-    HELENE
+    HELENE.
 Je t'excuse en effet, et ne me plains pas d'elle,  
 C'est la Foy⁎ seulement qui la trouve rebelle ;  
 Son esprit, et son corps sont parfaits à ce point,  
@@ -661,7 +661,7 @@ Et qu'en tout ses humeurs reglent tes mouvemens ;
 Il te la faut gagner par de si bons offices [169],  
 Qu'en fin tous tes advis soient toutes ses delices⁎.  
 
-    CRISPE
+    CRISPE.
 Il le faut avoüer, elle m'oblige⁎ tant,  
 Qu'à peine l'Empereur en sçauroit faire autant ;  
 Elle n'est pas marastre⁎, elle m'est plus que Mere,  
@@ -673,18 +673,18 @@ Que de tous les grands biens il paroist susceptible ;
 Et l'on peut bien juger par ses affections,  
 Que la mesme vertu forme ses passions.  
 
-    HELENE
+    HELENE.
 L'Empereur agira puissamment envers elle,  
 Son pouvoir neantmoins a besoin de ton zele ;  
 Puis donc que [170] nous avons mesme dessein⁎ que luy,  
 Pour l'achever bien tost, commençons aujourd'huy.  
 
 
-### Scene IV
+### Scene IV.
 Fauste, Flavie, Procle
 
 
-    FAUSTE
+    FAUSTE.
 Procle, ne te feins⁎ point ; c'est de la jeune Helene  
 Que ton ame reçoit et sa joye, et sa peine :  
 N'en fais pas un secret, tout le monde le dit ;  
@@ -692,7 +692,7 @@ Ton cœur a de l'amour, mais j'ay bien du credit⁎ ;
 Et secondant tes vœux, j'entreprendray l'affaire,  
 Si comme tu cheris je te connois [171] sincere.  
 
-    PROCLE
+    PROCLE.
 Madame, dés qu'on sent l'ardeur d'un si grand feu⁎,  
 Pour bien couvert⁎ qu'il soit, il paroist quelque peu,  
 j'ay caché jusqu'icy le transport⁎ de mon ame,  
@@ -700,13 +700,13 @@ Apprehendant qu'il eust moins d'effet, que de blâme ;
 Mais je ne crains plus rien ayant un tel secours,  
 Et tousjours vous verrez mon cœur dans mes discours⁎.  
 
-    FAUSTE
+    FAUSTE.
 Descouvre⁎ [172] moy si Crispe aime quelque Princesse,  
 Et si faisant le froid, il n'a point de Maistresse ?  
 Il n'est pas sans amour, ayant tant de beauté,  
 Ny toy sans le sçavoir dedans [173] la privauté [174].  
 
-    PROCLE
+    PROCLE.
 Je sçay bien ses desirs ; mais toutefois, Madame,  
 Dans une belle humeur, il est du tout sans flame :  
 Ouy son ame est sans feu⁎ quand Mars [175] ne l'esmeut pas ;  
@@ -720,7 +720,7 @@ Il faut que tous mes vœux soient pour cette Princesse ;
 Il m'entretient ainsi de vos perfections,  
 Qui font tous ses respects, et ses affections.  
 
-    FAUSTE
+    FAUSTE.
 Ce discours⁎ me plaist bien, et ce Prince m'oblige⁎,  
 Mais croy qu'en m'obligeant⁎, neantmoins il m'afflige⁎;  
 Son Amour me seroit plus cher que son respect,  
@@ -730,17 +730,17 @@ Couvrent plus seurement les desirs des Couronnes ;
 Le veritable hommage est rendu par le cœur,  
 S'il a moins d'apparence, il a plus de douceur.  
 
-    PROCLE
+    PROCLE.
 Madame, il vous cherit comme sa propre mere.  
 
-    FAUSTE
+    FAUSTE.
 Je voudrois qu'il m'aimât à l'esgal de son pere.  
 
-    PROCLE
+    PROCLE.
 Madame, asseurez vous qu'il ne luy peut ceder,  
 Qu'au seul droict qu'un espoux a de vous posseder.  
 
-    FAUSTE
+    FAUSTE.
 Je prise⁎ son amour qui m'est si desirable,  
 Mais quand il est plus franc, il est plus agreable ;  
 Qu'il soit moins serieux conversant avec moy,  
@@ -750,11 +750,11 @@ Voyant le feu⁎ d'un cœur qui l'adore, et qui l'aime ;
 Quel danger trouve-t'il dans la proximité,  
 D'avoir moins de reserve, et plus de liberté ?  
 
-    PROCLE
+    PROCLE.
 Si vous ne voyez pas son ame toute nuë,  
 C'est que sa passion cede à sa retenuë.  
 
-    FAUSTE
+    FAUSTE.
 Cette vertu visible a beaucoup de pouvoir,  
 Mais n'a jamais de droit qui s'oppose au devoir.  
 Au reste va t'en dire à ce Prince adorable⁎,  
@@ -766,30 +766,30 @@ Qu'on voit la Beauté mesme, en la voyant parestre,
 Que la Vaillance en fin doit ceder à l'Amour,  
 La peine est pour le Camp, le plaisir pour la Cour.  
 
-    PROCLE
+    PROCLE.
 C'est vôtre Confidente, on a fort parlé d'elle.  
 
-    FAUSTE
+    FAUSTE.
 Non ; mais je vois par là qu'elle m'est infidele⁎ ;  
 Ayme-t'elle si haut⁎ ?  
 
-    PROCLE
+    PROCLE.
         Vous sçavez son secret.  
 
-    FAUSTE
+    FAUSTE.
 Puis qu'elle me le cache, il doit estre indiscret [177] ;  
 Celle dont je parlois est de meilleure race [178],  
 Elle a bien moins d'orgueil, mais elle a plus de grace ;  
 S'il la pouvoit aymer, il me feroit plaisir,  
 Car mes vœux sont de voir accomplir son desir.  
 
-    PROCLE
+    PROCLE.
 Madame, si son cœur mes discours⁎ ne rejette [179],  
 Vous serez obeïe, et l'autre satisfaite.  
 Procle se retire.
 
 
-    FAUSTE
+    FAUSTE.
 Flavie, tu sçais bien où visoit ce discours⁎ [180],  
 Spurine adorant Crispe implore mon secours,  
 Va la donc avertir, sans parler d'autre chose ;  
@@ -798,7 +798,7 @@ Flavie se retire.
 
 
 
-### Scene V
+### Scene V.
 
     FAUSTE *seule*.
 
@@ -865,31 +865,31 @@ Que Crispe l'apprenne luy mesme,
 Et se voyant aimé qu'il me tuë, ou qu'il m'aime [188].  
 
 
-### Scene VI
+### Scene VI.
 *Fauste, Helene* fille de l'Empereur.
 
 
-    HELENE
+    HELENE.
 Madame, l'Empereur éloigne de nos yeux,  
 Ce Prince qui faisoit et sa gloire, et nos voeux.  
 
-    FAUSTE
+    FAUSTE.
 Est-il disgracié [189] ?  
 
-    HELENE
+    HELENE.
         Sa grande renommée  
 L'a fait choisir d'abord⁎ pour conduire l'armée.  
 
-    FAUSTE
+    FAUSTE.
 Je crains beaucoup pour luy ; le sort⁎ est dangereux,  
 Mais souvent aux plus grands⁎ il est plus malheureux ;  
 Et Crispe le veut-il ?  
 
-    HELENE
+    HELENE.
         Comme il aime la gloire,  
 Il fuit tous les plaisirs pour suivre la victoire.  
 
-    FAUSTE
+    FAUSTE.
 On croit vaincre souvent que [190] l'on se voit vaincu,  
 Et par fois les plus forts n'ont pas le plus vescu ;  
 Si Crispe est genereux [191], la mort porte des armes,  
@@ -897,22 +897,22 @@ Qui n'espargnent non plus [192], la valeur que les charmes;
 Donc pour l'en preserver il le faut retenir ;  
 On recherche un malheur qu'on tarde à prevenir [193].  
 
-    HELENE
+    HELENE.
 L'Empereur là dessus n'escoute point sa mere ;  
 Madame, c'est en vain qu'elle a fait sa priere [194] ;  
 Mais vous estant son cœur, et reglant ses desirs,  
 De grace conformez [195] son ordre à nos plaisirs.  
 
-    FAUSTE
+    FAUSTE.
 Je m'y veux employer, l'affaire est importante,  
 Et mon ressentiment⁎ la fait juger pressante.  
 
 
-### Scene VII
+### Scene VII.
 Artaban, Adelaïde
 
 
-    ADELAÏDE
+    ADELAÏDE.
 Je sçay que l'Empereur vous a dit son dessein⁎;  
 Il ne s'esclorra pas s'il n'est que dans mon sein⁎.  
 Est-il vray que son fils doit quitter sa presence,  
@@ -920,7 +920,7 @@ Et qu'un si doux sujet sort par la violence ?
 Ce Prince a-t'il peché pour estre ainsi banny,  
 Et n'a-t'il de renom que pour estre terny ?  
 
-    ARTABAN
+    ARTABAN.
 C'est pour mieux l'honorer que l'Empereur l'envoye ;  
 Vous faites vos douleurs de ce qui fait sa joye.  
 Un Grand⁎ doit souhaiter de prendre ses esbats [196],  
@@ -928,68 +928,68 @@ Moins dedans une Cour, que parmy [197] les Combats ;
 Choquant⁎ l'amour d'un fils pour aider son courage,  
 Un pere si vaillant se monstre aussi fort sage.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Mais que sera la Cour sans un si beau Soleil,  
 Et qu'y peut-on plus voir s'il nous cache son œil ?  
 Ce Prince estoit le Dieu des Seigneurs et des Dames [198],  
 Et d'éloigner son corps, c'est leur ravir⁎ leurs ames.  
 
-    ARTABAN
+    ARTABAN.
 La mollesse n'est pas bonne pour un Vainqueur,  
 Qui ne doit trouver rien de doux que la rigueur,  
 Madame, il vaut bien mieux n'estre aimé de personne,  
 Que de gagner un cœur, et perdre une Couronne.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Il a vaincu tousjours quand il a combatu.  
 
-    ARTABAN
+    ARTABAN.
 Ces autres bons succés excitent sa vertu.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Il peut perdre du sang faisant un grand carnage.  
 
-    ARTABAN
+    ARTABAN.
 Le mal qui vous fait peur augmente son courage.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Trop de cœur [199] quelquefois nous fait perdre le jour.  
 
-    ARTABAN
+    ARTABAN.
 Souvent on perd l'honneur, quand on a trop d'amour.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Il doit doncques partir ?  
 
-    ARTABAN
+    ARTABAN.
         L'affaire est resoluë,  
 L'Empereur veut qu'il vainque.  
 
-    ADELAÏDE
+    ADELAÏDE.
         Et je crains qu'on le tuë.  
 N'est-il point de moyen, Monsieur, de l'empescher ?  
 
-    ARTABAN
+    ARTABAN.
 Esperez [200] mieux de luy puis qu'il vous est si cher ;  
 Quel droit peut revoquer cette belle ordonnance  
 Que la Justice a faite avecque la Puissance ?  
 
-    ADELAÏDE
+    ADELAÏDE.
 Si j'avois du credit⁎ j'en suspendrois l'effet.  
 
-    ARTABAN
+    ARTABAN.
 Cette faveur rendroit Crispe mal satisfait.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Chacun est bien content qu'on ait soin⁎ de sa vie.  
 
-    ARTABAN
+    ARTABAN.
 La vaillance resiste à cette lasche envie.  
 Mettez vôtre repos à plaire à l'Empereur.  
 Artaban se retire.
 
 
-    ADELAÏDE *seule.*
+    ADELAÏDE *seule.*.
 Le funeste⁎ repos qui me met en fureur !  
 Que j'avois tort d'aimer un sujet trop aimable⁎,  
 Qui m'afflige⁎ plustost qu'il ne m'est favorable [201] ?  
@@ -1002,40 +1002,40 @@ Mes yeux voyez-le encor, ne le devant plus voir.
 Fin du premier Acte. 
 
 
-## Argument du second Acte
+## Argument du second Acte.
 
 
-### Scene premiere
+### Scene premiere.
 
 *Constantin* donne l'épée de General d'Armée à son fils, avec ordre de mourir ou de vaincre ; Crispe la prend, et témoigne que ses resolutions ont prevenu les desirs de son pere.
 
 
-### Scene II
+### Scene II.
 
 Fauste se plaint à Constantin de ce qu'éloignant Crispe de la Cour il esbranle l'appuy de l'Empire, et empesche ce jeune Prince d'aller aux occasions d'honneur, pour avoir plus de loisir de l'aimer.
 
 
-### Scene III
+### Scene III.
 
 Crispe croyant estre sur son depart, afflige⁎ autant sa grand'mere Helene en luy disant Adieu, qu'il se réjoüit de sa nouvelle charge.
 
 
-### Scene IV
+### Scene IV.
 
 Ils changent tous deux de ressentiment⁎, lors qu'Artaban vient arrester Crispe au poinct [203] qu'il avoit ordre de marcher. Crispe s'en irrite sans pecher contre le respect.
 
 
-### Scene V
+### Scene V.
 
 La jeune Helene et la Princesse Adelaïde, se conjouïssent sur cet arrest, qu'elles estiment heureux, et qui sera la cause des infortunes de Crispe.
 
 
-### Scene VI
+### Scene VI.
 
 Fauste aprend de Procle que Crispe n'aime que les armes, et ne haït que les plaisirs.
 
 
-### Scene VII
+### Scene VII.
 
 Adelaïde vient implorer le secours de Fauste pour gagner le cœur de Crispe, ne prenant pas garde qu'elle prie sa Rivale de luy ceder.
 
@@ -1045,14 +1045,14 @@ Adelaïde vient implorer le secours de Fauste pour gagner le cœur de Crispe, ne
 Crispe avoüe en fin qu'il cede à l'amour ce qu'il avoit dissimulé, et que de Conquerant il devient serviteur d'une Princesse. 
 
 
-## ACTE II
+## ACTE II.
 
 
-### Scene premiere
+### Scene premiere.
 Constantin tenant l'espée pour la donner à son fils. Crispe, Deux Gardes de l'Empereur.
 
 
-    CONSTANTIN
+    CONSTANTIN.
 SOuviens-toy bien, mon fils, des exploits de ton pere ;  
 Constantin a bien fait, mais Crispe doit mieux faire ;  
 Tu dois estre Empereur me devant succeder,  
@@ -1068,7 +1068,7 @@ Pour avoir son esclat doit estre rougissant ;
 Les Barbares [204] ont fait une esmeute nouvelle,  
 Va faire voir ta force où la Gloire t'appelle.  
 
-    CRISPE
+    CRISPE.
 Pour faire vaillamment il me faut commencer  
 A suivre un Conquerant qu'on ne peut devancer;  
 Mais je n'ay point de peine à prodiguer ma vie,  
@@ -1081,11 +1081,11 @@ Crispe se retire, et Fauste entre d'un autre costé
 
 
 
-### Scene II
+### Scene II.
 Constantin, Fauste, Flavie suivante.
 
 
-    FAUSTE
+    FAUSTE.
 Vous perdez donc un fils pour gagner de l'honneur ?  
 Un malheur recherché vous ravit⁎ ce bon-heur⁎ ?  
 Mes enfans sont petits, les travaux de la guerre  
@@ -1095,7 +1095,7 @@ L'Empire est en danger de faillir [205] avec luy ;
 N'ayant point d'ennemis vous allumez [206] des guerres ?  
 Et dans la paix de l'air excitez des tonnerres ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Ne vous offensez pas qu'il subisse une Loy  
 Qui luy sera tousjours commune avecque moy ?  
 Vivra-t'il dans la paix ? j'ay vécu dans la peine,  
@@ -1103,7 +1103,7 @@ Pour m'asseoir sur le thrône on m'a mis à la géne :
 Ma vie pour le moins estoit d'aussi grand prix,  
 Le prisez⁎-vous, Madame, avecque mon mespris ?  
 
-    FAUSTE
+    FAUSTE.
 Monseigneur n'a non plus de Rival que [207] de Maistre,  
 Et Crispe prés de [208] vous ne me semble rien estre ;  
 Toutefois si le Ciel vous eust fait Empereur,  
@@ -1114,7 +1114,7 @@ Ainsi donc les Tyrans⁎ estans tous abbatus,
 Tout le monde adorant ou craignant vos Vertus,  
 Laissez Crispe à la Cour.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Pour aimer les alarmes⁎,  
 Il faut haïr, Madame, un lieu si plein de charmes;  
 La Cour peut ramollir la plus mâle vigueur,  
@@ -1128,70 +1128,70 @@ Qu'un Prince assujetty s'est fait chef des rebelles ;
 Puis donc qu'il se soûleve, il le faut abaisser ;  
 Ma douceur l'aigrissant, mon fils le doit forcer.  
 
-    FAUSTE
+    FAUSTE.
 Vous avez d'autres chefs pour conduire l'armée.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mais Crispe doit luy seul faire sa renommée.  
 
-    FAUSTE
+    FAUSTE.
 Je frissonne d'horreur à vous l'oüir [211] nommer.  
 
-    CONSTANTIN
+    CONSTANTIN.
 S'il se fait tant cherir, qu'il se fasse estimer  
 
-    FAUSTE
+    FAUSTE.
 Il est assez prisé⁎, tout le monde l'adore.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Et cette charge aussi fait voir que je l'honore.  
 
-    FAUSTE
+    FAUSTE.
 Mais s'il meurt à la guerre ?  
 
-    CONSTANTIN
+    CONSTANTIN.
         Il mourra dans l'honneur.  
 
-    FAUSTE
+    FAUSTE.
 Vous serez malheureux.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Il aura du bonheur.  
 
-    FAUSTE
+    FAUSTE.
 Dans toute sa Faveur je crains quelque disgrace [212],  
 Si quelqu'autre ne va commander en [213] sa place.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Tout le mal que je crains, c'est qu'estant à la Cour  
 Il soûmette à la fin sa grandeur à l'Amour.  
 
-    FAUSTE
+    FAUSTE.
 Il n'en est pas touché.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Ne le peut-il pas estre ?  
 
-    FAUSTE
+    FAUSTE.
 Il n'a point de Maistresse [214].  
 
-    CONSTANTIN
+    CONSTANTIN.
         Elle n'est pas à naistre.  
 
-    FAUSTE
+    FAUSTE.
 Il n'en aime pas une.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Au moins est-il aimé.  
 
-    FAUSTE
+    FAUSTE.
 Et quel seroit le cœur qui n'en seroit charmé !  
 Mais encor, Monseigneur, le nom de son Amante⁎ ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Elle est de vostre Cour.  
 
-    FAUSTE
+    FAUSTE.
         Oüy, c'est ma Confidente ;  
 Elle a de grands desseins⁎, mais ce discours⁎ à part,  
 Crispe me fait beaucoup souffrir par son depart ;  
@@ -1204,19 +1204,19 @@ Si parmy nos bonheurs il estoit miserable ?
 Si je l'estime tant, c'est qu'estant pres de nous  
 En voyant vôtre fils, je croy voir mon espoux.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Contre ma volonté, je le donne à vos larmes ;  
 Qu'il vive pres de vous éloigné des alarmes⁎.  
 Ayez soin⁎ neantmoins qu'il garde sa vigueur,  
 Et que d'autre que vous ne possede son cœur.  
 
-    FAUSTE
+    FAUSTE.
 En cela comme en tout je vous seray fidele,  
 Vôtre précaution s'accordant à mon zele,  
 Ma Confidente mesme, et remarquez ce poinct,  
 Sans voir choquer⁎ son feu⁎, ne le cherira point.  
 
-    FAUSTE *seule à costé.*
+    FAUSTE *seule à costé.*.
 Mon cœur estoit pressé, mais je sens qu'il respire,  
 Dans ma joye pourtant je rencontre un martyre,  
 La guerre pour ce Prince a perdu son ardeur,  
@@ -1231,7 +1231,7 @@ Et qu'il aime l'amorce⁎ et haïsse l'horreur [216].
 *Helene* mere de l'Empereur. *Crispe, Emile*
 
 
-    HELENE
+    HELENE.
 Puis qu'en fin mon Amour doit ceder à ta gloire,  
 Puisses-tu me quittant rencontrer la Victoire !  
 *à* te voir seulement on voudra t'obéïr,  
@@ -1239,27 +1239,27 @@ Il faut ne s'aimer pas pour te pouvoir haïr,
 Tant de belles Vertus et des attraits si rares  
 Changeront en douceur l'humeur de ces Barbares [217].  
 
-    CRISPE
+    CRISPE.
 Ce n'est pas mon dessein⁎ non plus que mon desir,  
 Recherchant du travail [218], de trouver du plaisir ;  
 Qu'ils se defendent bien, je n'aime de conqueste  
 Que celle que j'obtiens au peril de ma teste.  
 Adieu [219] Madame,  
 
-    HELENE
+    HELENE.
     Adieu.   
 
 
-### Scene IV
+### Scene IV.
 Helene mere de Constantin. Crispe, Artaban
 
 
-    ARTABAN
+    ARTABAN.
         Seigneur, ne partez pas;  
 La Cour arreste en fin vos desseins⁎ et vos pas.  
 L'Empereur a changé sa premiere Ordonnance [220].  
 
-    CRISPE
+    CRISPE.
 C'est doncques sans effet que j'ay de la puissance ?  
 On me donne une charge afin de me l'oster,  
 On me dit que je marche expres pour m'arrester ;  
@@ -1268,33 +1268,33 @@ Je suis fils d'Empereur quand il seroit Monarque ;
 Un pere a tout pouvoir sur ce qui m'appartient,  
 Mais non pas pour m'oster l'honneur qu'un autre obtient.  
 
-    ARTABAN
+    ARTABAN.
 L'Imperatrice mesme a rompu l'entreprise [221].  
 
-    CRISPE
+    CRISPE.
 Cette opposition doit estre une surprise.  
 
-    ARTABAN
+    ARTABAN.
 Elle ne vous retient qu'afin qu'estant icy  
 Vous viviez sans danger comme elle sans soucy.  
 
-    CRISPE
+    CRISPE.
 Un illustre danger m'est tousjours souhaitable,  
 Comme un plaisir honteux ne m'est qu'abominable,  
 Elle ne devroit pas acheter son bonheur  
 Au prix de mon tourment [222] et de mon deshonneur.  
 
-    ARTABAN
+    ARTABAN.
 L'Empereur resistoit d'abord à sa poursuite [223].  
 
-    CRISPE
+    CRISPE.
 Et pour la rompre en fin, je veux partir plus viste.  
 
-    ARTABAN
+    ARTABAN.
 Mais ses larmes apres l'ont si fort combatu,  
 Que la foiblesse en fin emporte [224] la vertu.  
 
-    CRISPE
+    CRISPE.
 Un Prince ne doit pas se soûmettre à sa femme,  
 Ny pour la trop priser⁎ mettre un fils dans le blâme,  
 On dira que c'est moy qui charmé de la Cour  
@@ -1306,71 +1306,71 @@ Et l'Amour sans l'honneur sera mon partisan ;
 Je vay tout de ce pas obtenir ma dépesche,  
 Car il n'est pas seant qu'une femme l'empesche.  
 
-    HELENE
+    HELENE.
 Croy [226] que l'Imperatrice agit pour t'obliger⁎,  
 Et la desobligeant tu nous vas affliger⁎,  
 Reconnois en ce poinct [227] l'amour qu'elle te porte.  
 
-    CRISPE
+    CRISPE.
 Qui me voudroit haïr m'aimeroit de la sorte,  
 Sa grandeur va [228] tousjours sur ses contentemens,  
 Pourquoy n'auray-je pas les mesmes sentimens.  
 
-    HELENE
+    HELENE.
 Un pere ne doit pas trouver un fils rebelle.  
 
-    CRISPE
+    CRISPE.
 Je ne dois pas aussi n'obeïr que pour elle.  
 
-    ARTABAN
+    ARTABAN.
 Un honneur qu'on differe est encore asseuré.  
 
-    CRISPE
+    CRISPE.
 On nous éprouve [229] encor quand il est differé.  
 
-    HELENE
+    HELENE.
 Mon fils, tu dois priser⁎ l'amour d'une marastre⁎.  
 
-    CRISPE
+    CRISPE.
 Cet amour est trompeur puis qu'il est idolâtre [230].   
 
 
-### Scene V
+### Scene V.
 *Helene* fille de l'Empereur. *Adelaïde*
 
 
-    HELENE
+    HELENE.
 Il ne s'en ira pas, appaisons nos douleurs,  
 La joye seulement [231] doit avoir de nos pleurs.  
 Elle l'a retenu.  
 
-    ADELAÏDE
+    ADELAÏDE.
         Que j'admire son zele,  
 Et que j'ay peine [232] à croire une douce nouvelle ?  
 
-    HELENE
+    HELENE.
 Elle le voit tousjours, et le veut tousjours voir,  
 Et n'a que pour luy seul de cœur ny [233] de pouvoir ;  
 En outre elle parloit de quelque mariage  
 *à* dessein [234] d'arrester par l'amour son courage.  
 
-    ADELAÏDE
+    ADELAÏDE.
 He Dieux ! quelle Princesse auroit assez d'appas⁎  
 Pour pouvoir arrester [235] son cœur comme ses pas ?  
 
-    HELENE
+    HELENE.
 L'Imperatrice seule a pouvoir de luy plaire.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Mais il veut une femme, et Fauste n'est que mere.  
 
-    HELENE
+    HELENE.
 Elle doit luy choisir celle qu'il doit aimer ;  
 Sondez [236] bien ses secrets pour nous en informer.  
 Helene se retire.
 
 
-    ADELAÏDE *seule.*
+    ADELAÏDE *seule.*.
 Et c'est là mon malheur d'estre sa Confidente,  
 Car ce nom me defend d'estre sa concurrente ;  
 Si je cheris ce Prince elle me peut haïr,  
@@ -1393,19 +1393,19 @@ Et qu'elle veut donner son beau Fils à ma Foy⁎.
 Fauste, Procle, Flavie
 
 
-    FAUSTE
+    FAUSTE.
 Son cœur n'aime donc rien que l'horreur des alarmes⁎ !  
 Et met toute sa joye à rejetter les charmes ?  
 L'estrange naturel qui fait ses déplaisirs⁎  
 De toutes ces douceurs qui font tous les desirs.  
 
-    PROCLE
+    PROCLE.
 S'il peut s'en rencontrer une qui vous égale,  
 Madame, il est content d'aimer vôtre Rivale,  
 Mais vous n'en ayant point, et n'en pouvant avoir,  
 Comment peut-il aimer ce qu'il ne peut pas voir ?  
 
-    FAUSTE
+    FAUSTE.
 Ces doux ressentimens⁎, au moins comme je pense,  
 Viennent bien moins de luy que de ta complaisance,  
 Tu penses m'abuser par ce bel entretien,  
@@ -1413,7 +1413,7 @@ Et pour gagner mon cœur tu me donnes le sien,
 Mais Procle, à mon humeur, croy que la flatterie  
 Tient moins lieu de plaisir que de supercherie.  
 
-    PROCLE
+    PROCLE.
 Madame, vous pourrez connoistre par effet [240]  
 Que mon discours⁎ est vray comme il vous satisfait,  
 Procle s'abuseroit en trompant sa Princesse,  
@@ -1422,7 +1422,7 @@ On surprend des Esprits indignes de respect,
 Je vous honore trop pour vous estre suspect ;  
 Vous possedez ce fils beaucoup plus que son pere.  
 
-    FAUSTE
+    FAUSTE.
 Il n'aura doncques pas de peine à me complaire⁎ ;  
 Que [241] si j'ay du pouvoir autant que tu m'as dit,  
 Et que sa volonté s'accorde à mon credit⁎,  
@@ -1435,7 +1435,7 @@ Ce qui lie ton cœur, tient le sien à la chaine,
 Elle t'aime si fort depuis mon entretien  
 Qu'elle n'a point de vœu, Procle, qui ne soit tien.  
 
-    PROCLE
+    PROCLE.
 Crispe se reconnoit obligé dans moy mesme,  
 Madame, ayant receu cette faveur extreme.  
 Je m'en vay publier⁎ l'effect d'une bonté  
@@ -1444,59 +1444,59 @@ Procle se retire.
  
 
 
-### Scene VII
+### Scene VII.
 Fauste, Adelaïde, Flavie
 
 
-    ADELAÏDE
+    ADELAÏDE.
 Madame, je ne puis plus cacher un mystere,  
 Et vous me disant tout, je ne vous dois rien taire ;  
 Pour vous estre inconnu mon feu⁎ n'est pas honteux,  
 Mais c'est qu'allant bien haut⁎ l'effet [242] en est douteux [243].  
 
-    FAUSTE
+    FAUSTE.
 Le feu⁎ s'éleve fort en quel lieu qu'on le voye [244],    505  
 Parle pour voir changer toutes tes pleurs [245] en joye :  
 Va-t'en sçavoir, Flavie, où Crispe est si long-temps.  
 Flavie se retire.
 
 
-    ADELAÏDE
+    ADELAÏDE.
 J'ayme un grand⁎ de la Cour.  
 
-    FAUSTE
+    FAUSTE.
         Tes vœux seront contens [246]  
 Dy moy ses qualitez.  
 
-    ADELAÏDE
+    ADELAÏDE.
         Il est incomparable,  
 Madame, il est vaillant plus qu'il n'est agreable.  
 
-    FAUSTE
+    FAUSTE.
 Son nom ?  
 
-    ADELAÏDE
+    ADELAÏDE.
         Ses qualitez vous le font bien sçavoir,  
 On ne voit rien de grand que lors qu'on le peut voir.  
 
-    FAUSTE
+    FAUSTE.
 C'est doncques l'Empereur.  
 
-    ADELAÏDE
+    ADELAÏDE.
         Pour si haut⁎ que j'aspire,  
 Mes vœux sont au dessous du faiste⁎ de l'Empire.  
 
-    FAUSTE
+    FAUSTE.
 C'est Crispe à mon advis.  
 
-    ADELAÏDE
+    ADELAÏDE.
         Ce beau nom me blessant  
 Fait voir le mal caché que mon ame ressent.  
 
-    FAUSTE
+    FAUSTE.
 Tu devois donc plustost [247] me declarer ta peine.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Je pensois l'étouffer la croyant estre vaine,  
 Mais mon feu⁎ s'augmentant jusqu'à l'extremité  
 Peut-il estre excessif et sembler limité ?  
@@ -1505,13 +1505,13 @@ Vous faites son amour comme mon esperance ;
 Donc si vous desirez voir mon esprit guery,  
 Donnez-moy pour Amant⁎ ce noble Favory.  
 
-    FAUSTE
+    FAUSTE.
 Mes effets [248] ont déja prevenu [249] ta demande.  
 
-    ADELAÏDE
+    ADELAÏDE.
 La faveur qu'on avance est tousjours la plus grande.  
 
-    FAUSTE
+    FAUSTE.
 J'acheveray bien-tost ce que j'ay commencé,  
 Et ton feu⁎ par ta foy⁎ sera recompencé ;  
 Souviens-toy seulement que dans la confidence  
@@ -1519,30 +1519,30 @@ Tu dois cacher ta flamme⁎ et monstrer ta prudence,
 Presque toute la Cour a connu ton secret,  
 L'Amour pour s'asseurer [250] doit paroître discret.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Bien qu'il soit malaisé, Madame, qu'une Amante⁎  
 Toute aveugle qu'elle est puisse estre fort prudente ;  
 Je tascheray pourtant de contraindre mes feux⁎  
 Pour conformer [251] tousjours mes desirs à vos vœux.  
 
-    FAUSTE
+    FAUSTE.
 Maintenant pour pouvoir mieux avancer l'affaire ;  
 Je fais mes interests de ce qui t'a pû plaire,  
 Et je vais travailler à [252] gagner cét Amant⁎  
 Comme si ton supplice estoit mon vray tourment.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Peut-on assez priser⁎ une telle Princesse ?  
 
-    FAUSTE
+    FAUSTE.
 L'effet [253] t'étonnera [254] bien plus que la promesse.  
 
 
-### Scene VIII
+### Scene VIII.
 Crispe, Procle
 
 
-    CRISPE
+    CRISPE.
 Procle, tu m'aymes bien, mais tu cheris ma sœur,  
 C'est aussi mon dessein⁎ de t'en voir possesseur ;  
 Adelaïde aussi me semble si parfaite,  
@@ -1550,7 +1550,7 @@ Qu'il me faut dans ma force avoüer ma défaite ;
 Je ne semblois haïr que les contentemens,  
 Mais enfin je me vois au nombre des Amans.  
 
-    PROCLE
+    PROCLE.
 Il n'est point de grandeur ny de beauté si rare  
 Qui me puisse toucher si je vous la compare ;  
 Et dans le beau dessein⁎ que j'ay de vous servir,  
@@ -1565,15 +1565,15 @@ Et quoy que cét Hymen nous rende bien-heureux,
 C'est pour vous seulement qu'elle aura tous mes vœux.  
 Fauste au surplus vous doit parler de quelque Dame.  
 
-    CRISPE
+    CRISPE.
 Son discours⁎ me plaira s'il s'accorde à ma flamme⁎ ;  
 Mais hors d'un seul objet [256] je n'en sçaurois plus voir,  
 Et ce n'est mon humeur non plus que moin devoir.  
 
-    PROCLE
+    PROCLE.
 Cette Marastre⁎ agit pour vous avec grand zele.  
 
-    CRISPE
+    CRISPE.
 Souvent plus il est grand plus il est infidele⁎:  
 Mais pour voir les effets de tant de beaux desirs,  
 Et changer à la fin [257] tous nos feux⁎ en plaisirs ;  
@@ -1582,52 +1582,52 @@ Croy [259] que me la gagnant tu gagneras Helene.
 Fin du second acte. 
 
 
-## Argument du troisiesme Acte
+## Argument du troisiesme Acte.
 
 
-### Scene premiere
+### Scene premiere.
 
 Fauste fait appeller Crispe pour luy declarer un dessein⁎ qu'elle veut et ne peut cacher : Adelaïde sert à ce Ministere, et s'interesse pour [260] Fauste, croyant que Fauste ne s'interesse que pour elle.
 
 
-### Scene II
+### Scene II.
 
 Fauste ouvre son cœur à Crispe par des termes couverts⁎, et puis dans une impudence manifeste, ses poursuites neantmoins ne reçoivent que des rebuts, enfin elle s'excuse pour accuser l'innocent.
 
 
-### Scene III
+### Scene III.
 
 Fauste voyant son amour desesperé le convertit tout en haine, et se resout à perdre⁎ dans la paix ce foudre de guerre qu'elle [261] avoit fait retenir.
 
 
-### Scene IV
+### Scene IV.
 
 Crispe resout avec Procle sa retraite de la Cour sans en donner de cause apparente que sa manifeste melancolie, il y joint le bien de l'Estat et de la maison⁎ de son Pere.
 
 
-### Scene V
+### Scene V.
 
 Constantin se rejoüit avec Artaban de la nouvelle qu'il a receuë de la cessation des troubles, et des sousmissions des rebelles.
 
 
-### Scene VI
+### Scene VI.
 
 Procle rendant raison de la retraite de Crispe, l'Empereur entre en soupçon quand l'autre l'en veut delivrer.
 
 
-### Scene VII
+### Scene VII.
 
 Fauste accuse en effet Crispe du crime qu'elle seule a voulu commettre, et fait semblant d'appaiser l'Empereur afin de l'aigrir davantage contre son fils. 
 
 
-## ACTE III
+## ACTE III.
 
 
-### Scene premiere
+### Scene premiere.
 Fauste, Adelaïde
 
 
-    FAUSTE
+    FAUSTE.
 VA dire à ton Amant⁎ que je luy veux parler,  
 C'est pour te l'acquerir, et pour me consoler.  
 Adelaïde se retire.
@@ -1648,11 +1648,11 @@ Crispe entre Icy.
 
 
 
-### Scene II
+### Scene II.
 Fauste, Crispe
 
 
-    FAUSTE
+    FAUSTE.
 Beau Crispe dont l'honneur et la grace est [264] extréme,  
 Cher Prince qui n'as point d'ennemy qui ne t'aime ;  
 Je t'ay fait appeller voulant t'ouvrir [265] un cœur  
@@ -1662,50 +1662,50 @@ Qui fait avecque moy méme corps et méme ame [266],
 Elle m'égale en tout, si tu veux l'honorer,  
 Ou plustost la cherir, je te veux adorer [267].  
 
-    CRISPE
+    CRISPE.
 Vous ne pretendez-pas à ce conte que j'aime,  
 Madame, s'il n'est rien de si grand que vous-méme.  
 
-    FAUSTE
+    FAUSTE.
 Je ne me picque pas qu'elle usurpe mes droits,  
 Afin de meriter de vivre sous tes loix.  
 
-    CRISPE
+    CRISPE.
 Si vous luy permettez de vous estre semblable,  
 Vous seule neantmoins me semblez adorable⁎.  
 
-    FAUSTE
+    FAUSTE.
 Quelque autre, à ce qu'on dit, t'oste ta liberté ?  
 
-    CRISPE
+    CRISPE.
 Mon cœur est bien attaint, mais non pas arresté ;  
 Je mesure mon feu⁎ pour des sujets que j'aime,  
 Mais mon zele envers vous paroist toujours extréme.  
 
-    FAUSTE
+    FAUSTE.
 Fay-le moy doncques voir dans son extremité.  
 
-    CRISPE
+    CRISPE.
 Mon respect n'en peut voir qu'un effet limité.  
 
-    FAUSTE
+    FAUSTE.
 Quitte ce vain respect pour contenter ma flamme⁎.  
 
-    CRISPE
+    CRISPE.
 Il me souvient toujours de qui vous estes femme.  
 
-    FAUSTE
+    FAUSTE.
 Crispe n'est pas mon fils si l'autre est mon époux ;  
 Fay donc ce que je dy pour faire comme nous ?  
 
-    CRISPE
+    CRISPE.
 Quoy ?  
 
-    FAUSTE
+    FAUSTE.
         Fay voir à mon cœur que ta flamme⁎ est extréme  
 Aimant ce bel objet qui semble estre moy-méme.  
 
-    CRISPE
+    CRISPE.
 C'est contraindre mon cœur que de luy faire aimer  
 Un objet hors de vous qu'il ne peut estimer,  
 Si je suis tout à vous pourrois-je estre à quelque autre,  
@@ -1715,61 +1715,61 @@ Et je resiste mieux aux armes qu'à ses traits ;
 Mais si je la cheris c'est comme une Maistresse,  
 Et vous comme ma Mere, et comme ma Princesse.  
 
-    FAUSTE
+    FAUSTE.
 Je n'entens-pas parler de cette autre beauté,  
 Mais plustost de…Mon cœur n'a plus de liberté.  
 
-    CRISPE
+    CRISPE.
 Vous avez tout pouvoir bannissez [268] toute crainte.  
 
-    FAUSTE
+    FAUSTE.
 Te faisant ce discours⁎ tu fairas quelque plainte.  
 
-    CRISPE
+    CRISPE.
 Je ne puis m'irriter de vos contentemens,  
 C'est vôtre déplaisir⁎ qui fait tous mes tourmens.  
 
-    FAUSTE
+    FAUSTE.
 Adelaïde au prix [269], quoy que ma Confidente,  
 Méme à ton jugement ne sera que suivante ;  
 Enfin c'est le party le plus grand⁎ de ma Cour ;  
 Qui voyant tes respects recherche ton amour ;  
 Mais ton cœur estant pris je ne te l'ose dire.  
 
-    CRISPE
+    CRISPE.
 Vous me pouvez toujours parler avec empire [270].  
 
-    FAUSTE
+    FAUSTE.
 Tu le peux deviner à me voir seulement.  
 
-    CRISPE
+    CRISPE.
 Madame, j'ay besoin d'un autre truchement [271].  
 
-    FAUSTE
+    FAUSTE.
 Je crains de t'offenser te faisant une grace,  
 Il faut que mon époux te cede un peu sa place.  
 
-    CRISPE
+    CRISPE.
 Au lieu de luy ravir⁎ le premier de ses droits,  
 S'il estoit mon sujet je le luy cederois ;  
 Madame, je ne puis entendre ce langage,  
 Ne m'avantagez-pas à son desavantage.  
 
-    FAUSTE
+    FAUSTE.
 Ne pense pas aussi que mon intention  
 Soit de voir l'Empereur dans la sujettion ;  
 S'il faut perdre l'honneur il faut que l'on me prive,  
 Et c'est moy seulement qui veux estre captive [272].  
 Enfin m'aimes-tu bien ?  
 
-    CRISPE
+    CRISPE.
         Tout autant que je peux,  
 Si c'est moins que je dois, n'en blâmez pas mes vœux.  
 
-    FAUSTE
+    FAUSTE.
 Donne m'en une marque aussi douce que belle.  
 
-    CRISPE
+    CRISPE.
 Dites quelle vous peut estre la plus fidele.  
 Si vous me commandez d'affronter le trépas,  
 La vie m'est à charge avec tous ses appas⁎;  
@@ -1778,74 +1778,74 @@ J'aime mieux vous servir que commander l'armée :
 Voulez-vous que jamais Crispe ne soit qu'à vous,  
 Et que pour vous servir j'abhorre d'estre époux ?  
 
-    FAUSTE
+    FAUSTE.
 Ce n'est pas mon desir de contraindre tes flammes⁎,  
 Si tu sers librement la plus grande⁎ des Dames ;  
 Et sans prendre autrement le nom de son époux,  
 Je voudrois qu'en effet tu luy fusses plus doux.  
 
-    CRISPE
+    CRISPE.
 L'Empereur seul a droit sur ce bonheur supréme,  
 Et le nom et l'effet doit estre pour un méme.  
 
-    FAUSTE
+    FAUSTE.
 Qu'il en garde le nom, et fais m'en voir l'effet.  
 
-    CRISPE
+    CRISPE.
 Ce plaisir pretendu me rend mal satisfait.  
 
-    FAUSTE
+    FAUSTE.
 Tu ne me promettois que pour tromper ma flamme⁎.  
 
-    CRISPE
+    CRISPE.
 Je promettois en fils, vous demandez en femme.  
 
-    FAUSTE
+    FAUSTE.
 Crispe n'est pas mon fils.  
 
-    CRISPE
+    CRISPE.
         Constantin m'a produit.  
 
-    FAUSTE
+    FAUSTE.
 Et je pretens par là provigner [273] ce beau fruit.  
 
-    CRISPE
+    CRISPE.
 Quoy ? priser⁎ tant le fils pour mépriser le Pere ?  
 
-    FAUSTE
+    FAUSTE.
 C'est pour te plaire en tout, que je veux luy déplaire.  
 
-    CRISPE
+    CRISPE.
 Madame, avec l'honneur vous perdez la raison.  
 
-    FAUSTE
+    FAUSTE.
 Les sentimens d'honneur ne sont pas de saison.  
 J'ay caché si long-temps que je ne puis plus taire  
 Ce que tu croy forfait⁎, et qui n'est que Mystere [274].  
 
-    CRISPE
+    CRISPE.
 Mais les plus inhumains ont d'autres sentimens !  
 
-    FAUSTE
+    FAUSTE.
 C'est qu'ils n'ont jamais veu ces beaux lineamens [275].  
 
-    CRISPE
+    CRISPE.
 Vous voulez m'éprouver.  
 
-    FAUSTE
+    FAUSTE.
         Voy ce cœur que tu brûles !  
 Il n'est que trop sincere, approche, tu recules !  
 
-    CRISPE
+    CRISPE.
 Les Cieux peuvent-ils voir et souffrir ce dessein⁎ !  
 
-    FAUSTE
+    FAUSTE.
 Ils peuvent bien souffrir ce Tyran⁎ [276] dans mon sein⁎.  
 
-    CRISPE
+    CRISPE.
 Dieu vangeur vous entend.  
 
-    FAUSTE
+    FAUSTE.
         Les Dieux [277] sont mes exemples,  
 Les suivant je ne peux meriter que des Temples [278].  
 Jupiter n'a-t'il pas pour épouse Junon [279] ?  
@@ -1857,7 +1857,7 @@ Comme on n'en peut douter, c'est mon plus grand honneur.
 Enfin les animaux ont-ils quelque avantage  
 Qu'on puisse nous ôter sans nous faire un outrage ?  
 
-    CRISPE
+    CRISPE.
 Certes vôtre sagesse est sans comparaison  
 Puisque les animaux fondent vôtre raison ;  
 Si vos Dieux estoient vrais, on verroit la tempeste  
@@ -1875,66 +1875,66 @@ Que ton feu maintenant vienne esteindre ces feux⁎;
 Oüy je suis criminel d'avoir causé sa flamme⁎,  
 Et ce corps doit perir qui brûle ainsi son ame.  
 
-    FAUSTE
+    FAUSTE.
 Croy que si mon époux me sembloit aussi beau  
 Je ne t'aimerois pas.  
 
-    CRISPE
+    CRISPE.
         Si suis-je son tableau.  
 
-    FAUSTE
+    FAUSTE.
 Mais il est moins parfait.  
 
-    CRISPE
+    CRISPE.
         Vostre poursuite est vaine,  
 Cét amour ne peut rien meriter que ma haine ;  
 Je vous dois resister si je suis si parfait,  
 Et ma vertu ne peut approuver ce forfait⁎.  
 
-    FAUSTE
+    FAUSTE.
 Prince par ces genoux que tu vois que j'adore,  
 Modere un peu l'excés du feu⁎ qui me devore ;  
 Ou bien si ta froideur étouffe ton amour,  
 Sans prendre de mon feu⁎ fais moy perdre le jour.  
 
-    CRISPE
+    CRISPE.
 Demander un tel crime avec de telles larmes !  
 Et pour perdre l'honneur employer tant de charmes !  
 
-    FAUSTE
+    FAUSTE.
 Tu méprises mes vœux ?  
 
-    CRISPE
+    CRISPE.
         Les peut-on estimer ?  
 
-    FAUSTE
+    FAUSTE.
 Tu peux donc me haïr ?  
 
-    CRISPE
+    CRISPE.
         Mais vous peut-on aimer ?  
 
-    FAUSTE
+    FAUSTE.
 Tu t'en repentiras.  
 
-    CRISPE
+    CRISPE.
         Jamais [280] la repentance  
 Ne peut suivre que ceux qui commettent l'offence.  
 
-    FAUSTE
+    FAUSTE.
 Si tu ne m'aimes pas garde toy [281] de perir.  
 
-    CRISPE
+    CRISPE.
 Et si vous m'aimez plus [282] gardez vous de mourir.  
 
-    FAUSTE
+    FAUSTE.
 Cruel⁎ ! tu ne veux pas appointer [283] ma requeste.  
 
-    CRISPE
+    CRISPE.
 Sans doute l'Empereur la doit trouver honneste.  
 Crispe se retire, et Fauste fait semblant de le suivre.
 
 
-    FAUSTE *à genoux.*
+    FAUSTE *à genoux.*.
 Je me rends au devoir confessant que j'ay tort,  
 Et vois que mon amour a merité ma mort.  
 Prince pardonne moy, j'aurois eu moins de flamme⁎  
@@ -1947,9 +1947,9 @@ Le forfait⁎ est fort beau quand on semble pecher
 Pour tenir un sujet trop aimable⁎ trop cher.  
 
 
-### Scene III
+### Scene III.
 
-    FAUSTE *seule.*
+    FAUSTE *seule.*.
 
 Donc [285] l'aimant je n'ay pû meriter que sa haine ?  
 Et je me vois en peine  
@@ -2001,74 +2001,74 @@ Te l'oste par envie [295],
 Et tout mon deshonneur s'en ira sur ton front.   
 
 
-### Scene IV
+### Scene IV.
 Crispe, Procle
 
 
-    PROCLE
+    PROCLE.
 Vous retirer, Monsieur, sans le dire à personne ?  
 Ce projet vous rendra suspect à la Couronne.  
 
-    CRISPE
+    CRISPE.
 Je voudrois avoir fait icy moins de discours⁎,  
 Je ne maudirois pas aujourd'huy mes amours.  
 
-    PROCLE
+    PROCLE.
 Vôtre amour n'a jamais esté que fort prospere.  
 
-    CRISPE
+    CRISPE.
 Pour l'avoir trop esté, Procle, il me desespere ;  
 Mais, adieu, cher Amy.  
 
-    PROCLE
+    PROCLE.
         Quoy me celez⁎ vous rien ?  
 
-    CRISPE
+    CRISPE.
 Je te cache le mal pour te dire le bien.  
 
-    PROCLE
+    PROCLE.
 C'est n'aimer qu'à demy.  
 
-    CRISPE
+    CRISPE.
         Tu dois lire en mon ame ;  
 Mais de te dire tout je ne le puis sans blâme.  
 
-    PROCLE
+    PROCLE.
 Vostre desir s'oppose aux vœux de l'Empereur.  
 
-    CRISPE
+    CRISPE.
 Bien loin de m'agréer sa Cour m'est en horreur.  
 
-    PROCLE
+    PROCLE.
 Fauste s'offencera, puisque son entremise [296]  
 A fait rompre tantost une méme entreprise.  
 
-    CRISPE
+    CRISPE.
 Elle ne m'arrestoit que pour ses interests,  
 Et pour eux, Procle, aussi, croy que je disparais.  
 Avertis l'Empereur que son fils se retire  
 Pour l'heur [297] de sa maison⁎, comme de son Empire.  
 
-    PROCLE
+    PROCLE.
 Donc vous me delaissez ? non, Monsieur, je vous suis,  
 Car comme à vos douceurs j'ay part à [298] vos ennuis.  
 
-    CRISPE
+    CRISPE.
 Tu sçais que sans amy mon cœur ne sçauroit vivre.  
 
-    PROCLE
+    PROCLE.
 Ce m'est plus que mourir que de ne vous pas suivre.  
 
-    CRISPE
+    CRISPE.
 Pour rendre neantmoins ce voyage asseuré,  
 Tu dois suivre la Cour quand je la quitteray.  
 
 
-### Scene V
+### Scene V.
 Constantin, Artaban
 
 
-    CONSTANTIN
+    CONSTANTIN.
 Les troubles ont cessé, mais ils peuvent renaistre,  
 Ce peuple m'est sujet, mais n'aime pas son Maistre.  
 Il me sert par caprice, et prend la liberté  
@@ -2082,7 +2082,7 @@ Méprisant ma douceur qu'ils éprouvent mon ire,
 Et qu'en voyant leurs Chefs condamnez au trépas,  
 Qu'on apprenne que c'est de ne m'obeïr pas.  
 
-    ARTABAN
+    ARTABAN.
 Où la clemence est foible, il faut estre severe,  
 Il faut que tout perisse, ou bien qu'on vous revere ;  
 Mais regnant par amour on acquiert plus d'honneur,  
@@ -2092,73 +2092,73 @@ Il regira les cœurs, ou les pourra contraindre,
 Et sans toucher au sang qu'il vous faut épargner  
 En se faisant bien craindre, il vous faira regner.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Cette charge [301] est pour Crispe, il doit tenir ma place  
 Tous en doivent attendre, ou la mort, ou la grace  
 Procle entre.
 
 
 
-### Scene VI
+### Scene VI.
 Constantin, Procle, Artaban
 
 
-    PROCLE
+    PROCLE.
 Grand⁎ Prince, vôtre fils vient de se retirer.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mais contre mon dessein⁎ on l'a fait demeurer.  
 
-    PROCLE
+    PROCLE.
 C'est depuis deux momens [302].  
 
-    CONSTANTIN
+    CONSTANTIN.
         Sans le dire à personne ?  
 Leve moy les soupçons que son depart me donne.  
 
-    PROCLE
+    PROCLE.
 Il le fait, m'a-t'il dit, avec grande raison,  
 Pour le bien de l'Estat et de vôtre Maison⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Ce depart me plairoit, mais il semble une fuite,  
 Et dans ma seureté j'en dois craindre la suite.  
 
-    PROCLE
+    PROCLE.
 Il vous est trop acquis [303] pour vous estre suspect.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Procle, s'il a du zele, il n'a point de respect.  
 
-    PROCLE
+    PROCLE.
 L'effet vous en plairoit, dit-il, sçachant la cause.  
 
-    CONSTANTIN
+    CONSTANTIN.
 C'estoit donc son devoir d'en dire quelque chose.  
 
-    PROCLE
+    PROCLE.
 Vous le sçaurez toujours [304].  
 
-    CONSTANTIN
+    CONSTANTIN.
         Mais il est à propos  
 De bien-tost le sçavoir pour avoir du repos [305] :  
 A-t'il rien dit à Fauste.  
 
-    PROCLE
+    PROCLE.
         Il a craint sa poursuite,  
 Et pour ne la pas voir il est party plus viste.  
 Elle sçait son depart et non pas son secret,  
 Car s'il estoit sa joye, elle a bien du regret.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Connoissant tant son cœur tu sçais toute l'affaire,  
 Puis qu'il le faut sçavoir n'en fais pas un Mystere [306].  
 
-    PROCLE
+    PROCLE.
 Grand⁎ Prince, je n'ay pû luy faire ouvrir le sein⁎,  
 Il me faut comme à vous deviner son dessein⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Si je vois arriver du mal de sa retraite,  
 Je puis bien le punir et m'en prendre à sa teste ;  
 Pour m'esclaircir du tout suis-le dés aujourd'huy,  
@@ -2166,18 +2166,18 @@ Ne viens plus à la Cour où reviens avec luy.
 Procle se retire.
  
 
-    ARTABAN
+    ARTABAN.
 On ne sçauroit jamais avoir trop d'affeurance,  
 Et tel se voit trompé qui vit sans défiance.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Sonde si dans la Ville on a sceu son projet,  
 Et s'il est mécontent, quel en est le sujet.  
 
-    ARTABAN
+    ARTABAN.
 Je vay tout de ce pas en sçavoir des nouvelles.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mon fils s'en iroit-il soûlever nos rebelles ?  
 Bien loin de me defendre il s'en va m'attaquer !  
 Mais il est trop bien né pour me vouloir chocquer⁎.  
@@ -2189,28 +2189,28 @@ L'Imperatrice entre.
  
 
 
-### Scene VII
+### Scene VII.
 *Constantin, Fauste* faisant semblant de pleurer.
 
 
-    CONSTANTIN
+    CONSTANTIN.
 D'où vient que ces beaux yeux qui font mon allegresse,  
 De riants qu'ils estoient, sont couverts de tristesse ?  
 
-    FAUSTE
+    FAUSTE.
 C'est pour vous, Monseigneur, que découlent ses pleurs,  
 Si j'avois moins d'amour, j'aurois moins de malheurs ;  
 Toujours dans vôtre honneur mon bonheur s'interesse,  
 Et de le voir chocqué⁎, c'est le mal qui me blesse⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Si vous le découvriez [307] je le pourrois guerir.  
 
-    FAUSTE
+    FAUSTE.
 Mais vous ne pourriez pas l'entendre sans mourir,  
 Vôtre fils, ha ! ce mot m'arreste et me fait taire.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mon fils s'est retiré, n'est-ce pas le mystere ?  
 Faut-il vous offencer, qu'il fasse à son plaisir,  
 Et suivant son devoir il suive son desir.  
@@ -2223,16 +2223,16 @@ L'honneste alloit ceder son cœur à l'agreable ;
 Ne vous picquez donc pas s'il aime son honneur,  
 Et faites vos plaisirs de son propre bon-heur⁎.  
 
-    FAUSTE
+    FAUSTE.
 Son sejour [308] me touchoit bien plus que sa retraite,  
 Je deplore à present qu'il ne l'ait plustost faite ;  
 Mais, vôtre fils à par [309]t, Grand⁎ Prince, mon regret  
 Ne se peut découvrir, ny demeurer secret.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Madame, en me parlant vous parlez à vous mesme,  
 
-    FAUSTE
+    FAUSTE.
 Et je me tais, Seigneur, pource que je vous aime,  
 Je ne puis à present vous nommer mon époux,  
 Depuis qu'un scelerat offence un nom si doux ;  
@@ -2241,24 +2241,24 @@ Que mesme ma vertu vous semble criminelle,
 C'est d'un grand⁎ de la Cour que je pleure l'erreur,  
 Non y participant, mais en ayant horreur.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Peut-on bien dans ma Cour faire de si grands crimes ?  
 
-    FAUSTE
+    FAUSTE.
 Les Grands⁎ croyent par fois les rendre legitimes.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Parlez plus franchement.  
 
-    FAUSTE
+    FAUSTE.
         Grand⁎ Prince, je le veux  
 Si vôtre sentiment est conforme à mes vœux ;  
 Faites grace à celuy que vous sçaurez coupable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 J'y consens si son crime au moins en est capable.  
 
-    FAUSTE
+    FAUSTE.
 Pour vous confesser tout, c'est bien un grand delit  
 Que de vous offencer jusques sur vôtre lit ;  
 On m'a sollicitée à vous estre infidele⁎,  
@@ -2267,7 +2267,7 @@ Mais j'ay dit constamment nonobstant cét effort,
 Que je souffrirois moins cét affront que la mort,  
 Je vous en donne avis.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Vous m'offencez, Madame,  
 Luy vouloir pardonner, c'est n'estre pas ma femme ;  
 Je jure par le Dieu que je sers de nouveau,  
@@ -2289,26 +2289,26 @@ Pour oster tout le mal, Madame, il faut tout dire :
 Le nom, la qualité de ce grand criminel,  
 Pour qui punir c'est peu qu'un supplice eternel ?  
 
-    FAUSTE
+    FAUSTE.
 Oserez-vous l'oüir si je vous l'ose dire,  
 Ou punir un méchant sans souffrir un martyre ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Je sçay que la justice est aveugle en effet,  
 Mais sans voir la personne, elle voit le forfait⁎.  
 
-    FAUSTE
+    FAUSTE.
 Si l'Empire est taché de son ignominie ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mon Empire ne peut voir sa gloire ternie.  
 S'il estoit de mon sang, ce que je ne croy pas,  
 Je l'épancherois tout, je couperois mon bras.  
 
-    FAUSTE
+    FAUSTE.
 C'est Crispe.  
 
-    CONSTANTIN
+    CONSTANTIN.
         C'est ! C'est Crispe ! O funeste⁎ nouvelle ?  
 Cieux ? suis-je trop credule, ou m'est-elle infidele⁎ ?  
 De ma femme aujourd'huy mon fils veut estre époux ;  
@@ -2326,7 +2326,7 @@ Puis qu'un monstre inhumain en a pris sa naissance.
 Dieux ! que vous ay-je fait ! l'ay-je doncques produit !  
 Enfer ouvre ton sein⁎, brûle l'arbre et le fruit.  
 
-    FAUSTE
+    FAUSTE.
 Grand⁎ Prince, je ne puis supporter cét orage,  
 Qui rend des yeux si doux approchans de la rage ;  
 S'il est vray que ce Prince ait commis ce forfait⁎,  
@@ -2358,7 +2358,7 @@ Il n'a pas fait de mal, bien qu'il l'ait souhaitté,
 C'est le crime d'un fils, donc punissez-le en pere,  
 Et laissez l'impuny si vous me voulez plaire.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Vous avez trop d'amour pour ceux qu'il faut haïr,  
 Luy puis-je pardonner s'il a pû me trahir ?  
 Sans que ce discours⁎ vient d'un excés d'indulgence,  
@@ -2370,20 +2370,20 @@ Je te seray cruel⁎, puis que tu m'es perfide.
 Fin du troisième Acte.
 
 
-## Argument du quatriesme Acte
+## Argument du quatriesme Acte.
 
 
-### Scene premiere
+### Scene premiere.
 
 Artaban tâche de détourner Constantin de la resolution qu'il a prise de vanger l'honneur de sa femme par la mort de son fils, mais en fin la jalousie l'emporte sur l'amour de pere.
 
 
-### Scene II
+### Scene II.
 
 Artaban déplore le credit⁎ qu'il a, puis qu'il n'est dans la faveur que pour estre dans le crime. Il aime neantmoins mieux quitter la vertu que la Cour.
 
 
-### Scene III
+### Scene III.
 
 Fauste continuë à rendre odieux celuy qu'elle n'a pû faire consentir à son amour detestable, et asseure Adelaïde que Crispe ne paye son feu⁎ que de mine et de froideur.
 
@@ -2426,134 +2426,134 @@ Il annonce cette funeste⁎ avanture [311] par un silence affecté.
 ## ACTE IV.
 
 
-### Scene premiere
+### Scene premiere.
 Constantin, Artaban
 
 
-    CONSTANTIN
+    CONSTANTIN.
 Artaban, c'est conclu, mais puis qu'il doit mourir,  
 Quels moyens prendrons-nous pour le faire perir ?  
 
-    ARTABAN
+    ARTABAN.
 Grand⁎ Prince, il ne faut pas avancer [312] la vangeance,  
 Souvent elle ne suit que de trop prés l'offence.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Peut-on sans faire un crime excuser ce forfait⁎ ?  
 
-    ARTABAN
+    ARTABAN.
 Non ; mais il faut devant⁎ s'informer bien du fait.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Puis-je douter jamais de la foy⁎ de ma femme ?  
 
-    ARTABAN
+    ARTABAN.
 Croyez-vous qu'un bon fils ait une mauvaise ame !  
 
-    CONSTANTIN
+    CONSTANTIN.
 S'il n'a pas fait de mal le peut-elle accuser ?  
 
-    ARTABAN
+    ARTABAN.
 Combien qu'elle l'accuse, il se peut excuser.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Je ne le veux pas voir.  
 
-    ARTABAN
+    ARTABAN.
         De punir un coupable  
 Sans l'oüir, ce n'est pas estre Juge équitable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 L'oüir ! je ne veux plus le voir qu'il ne soit mort [313].  
 
-    ARTABAN
+    ARTABAN.
 Mais le pouvez vous voir mourir si c'est à tort.  
 
-    CONSTANTIN
+    CONSTANTIN.
 A tort ! ayant voulu soüiller ainsi ma couche ?  
 
-    ARTABAN
+    ARTABAN.
 Pour le sçavoir il faut l'entendre de sa bouche.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Pourroit-il avoüer devant moy ce forfait⁎ ?  
 
-    ARTABAN
+    ARTABAN.
 Peut-il avoir esté si coupable en effet !  
 
-    CONSTANTIN
+    CONSTANTIN.
 Fauste l'a trop aimé pour le rendre coupable ?  
 
-    ARTABAN
+    ARTABAN.
 Les marastres⁎ toujours ont le cœur variable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Son depart prouve assez qu'il se croit criminel.  
 
-    ARTABAN
+    ARTABAN.
 Son sejour a monstré qu'il ne peut estre tel.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Tu t'entens [314] avec luy.  
 
-    ARTABAN
+    ARTABAN.
         Je defends l'innocence.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il est donc innocent ?  
 
-    ARTABAN
+    ARTABAN.
         Pour le moins [315] je le pense.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Quels [316] seront les meschans [317], si de fouler mon lit  
 C'est un trait d'innocence et non pas un delit !  
 
-    ARTABAN
+    ARTABAN.
 Je l'appelle innocent, pource que [318] la justice  
 Ne l'a pas jusqu'icy convaincu d'aucun vice.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Et j'entens, Artaban, que sans autre respect  
 Il soit bien-tost puny, pource qu'il m'est suspect.  
 
-    ARTABAN
+    ARTABAN.
 Quand il auroit failly, sa faute est pardonnable,  
 Un crime sans effet est toujours reparable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 C'est un mal que sa mort peut seulement guerir ;  
 
-    ARTABAN
+    ARTABAN.
 Si vous estes son pere il ne doit pas perir :  
 
-    CONSTANTIN
+    CONSTANTIN.
 S'il ne vit pas en fils, pourquoy vivrois-je en pere ?  
 
-    ARTABAN
+    ARTABAN.
 Il vous peut agréer s'il vous a pû deplaire.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Pour me plaire, Artaban, il me faut contenter ;  
 Or mon plaisir sera de le voir tourmenter.  
 
-    ARTABAN
+    ARTABAN.
 C'est la raison qui parle ; écoutez la nature,  
 Vous voulez dans ce fils vous mettre à la torture ;  
 Et puis son deshonneur rejaillira sur vous.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Pourveu qu'il souffre bien tous ses maux me sont doux,  
 Je n'ay jamais produit un fils si detestable ;  
 S'il estoit mon image, il me seroit semblable ;  
 Ainsi le deshonneur ne peut estre qu'à luy.  
 
-    ARTABAN
+    ARTABAN.
 Mais enfin s'il perit, vous perdez vôtre apuy ;  
 Vous vous perdez vous mesme en le pensant détruire ;  
 Et vous en prenez moins à Crispe qu'à l'Empire.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Tu nommes mon apuy qui me veut renverser ?  
 Qui ne voit mes plaisirs que pour les traverser [319] ?  
 Il est meilleur pour moy de voir punir ma race [320],  
@@ -2563,38 +2563,38 @@ Que de le laisser vivre apres cét attentat ;
 Ce n'est rien de regner si l'on regne sans gloire,  
 Et qu'on dure long temps pour flétrir sa memoire.  
 
-    ARTABAN
+    ARTABAN.
 Ce coup⁎ diffamera par tout vôtre maison⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mais on dira par tout que je suy la raison.  
 
-    ARTABAN
+    ARTABAN.
 Les attraits d'un beau-fils nuiront à vôtre femme.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Luy seul courant danger encourra tout le blâme.  
 
-    ARTABAN
+    ARTABAN.
 S'il est le seul coupable, on ne le croira pas.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il faudra bien le croire ayant veu son trépas.  
 Ce discours⁎ semble trop retarder son supplice ;  
 Si tu ne le poursuis je te croiray complice.  
 
-    ARTABAN
+    ARTABAN.
 Ce mot encore, Sire, on se peut repentir.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Non pas de m'avoir plû, mais de me repartir.  
 Je t'ay dit mon secret, sois moy doncques fidelle,  
 Et montre toy plustost trop zelé que rebelle.  
 
 
-### Scene II
+### Scene II.
 
-    ARTABAN *seul.*
+    ARTABAN *seul.*.
 
 Quel credit⁎ qui n'est bon que pour faire du mal ?  
 Et m'est avantageux pour m'estre plus fatal !  
@@ -2624,11 +2624,11 @@ Et s'il ordonne ton trépas,
 Ma main obéïssant mon ame est innocente.  
 
 
-### Scene III
+### Scene III.
 Fauste, Adelaïde
 
 
-    FAUSTE
+    FAUSTE.
 Il est vray qu'il a tort de s'éloigner ainsi,  
 S'il en a du plaisir j'en ay bien du soucy.  
 En cas qu'on me l'eust dit, j'eusse empesché sa fuite,  
@@ -2642,11 +2642,11 @@ Il ne m'a témoigné que beaucoup de froideur ;
 Et pour t'oster enfin tout sujet d'esperance,  
 Ayant sceu ton dessein⁎ il sort de ta presence.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Justes Cieux ! pôuvez-vous brûler ainsi mon cœur,  
 Si moy n'estant qu'amour, Crispe n'est que rigueur ?  
 
-    FAUSTE
+    FAUSTE.
 Croyrois-tu qu'il rejette un amour legitime,  
 Pour en aimer ailleurs une autre dans le crime ?  
 Il poursuit une Dame inégale à son rang,  
@@ -2654,17 +2654,17 @@ Et qu'il ne peut cherir qu'il ne choque⁎ le sang ;
 Cette nouvelle donc qui n'est que trop certaine,  
 Te doit laisser pour luy moins d'amour que de haïne.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Ah ! qu'elle a de bonheur, quoy qu'il soit defendu.  
 
-    FAUSTE
+    FAUSTE.
 Soit-il bonheur ou non, c'est ce qui l'a perdu.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Perdu ! vous devinez quelque étrange infortune :  
 Le nom de cette Dame.  
 
-    FAUSTE
+    FAUSTE.
         Ah ! ce mot m'importune,  
 Comme il ne peut l'aimer que par un grand forfait⁎,  
 Je ne puis t'en parler que dans un mesme effet ;  
@@ -2674,11 +2674,11 @@ Helene entre.
 
 
 
-### Scene IV
+### Scene IV.
 *Fauste, Helene* mere de l'Empereur.
 
 
-    HELENE
+    HELENE.
 Crispe s'est mal conduit en partant de ce lieu,  
 Sans nous en avertir, et sans vous dire adieu ;  
 La prudence n'est pas vertu de la jeunesse,  
@@ -2688,7 +2688,7 @@ Que son depart pourtant ne vous soit plus suspect ;
 Je sçay qu'il vous cherit autant qu'il vous honore,  
 Et pour vous seulement la Cour luy plaist encore.  
 
-    FAUSTE
+    FAUSTE.
 Sa presence m'estant un agreable objet,  
 Son absence m'afflige⁎ à tres-juste sujet ;  
 Ne croyez pas pourtant que son depart m'offence,  
@@ -2702,51 +2702,51 @@ Mais je l'aigrissois plus le voulant rendre doux ;
 S'il ne revient bien-tost, je crain pour sa personne ;  
 Prenez en bonne part, lavis que je vous donne.  
 
-    HELENE
+    HELENE.
 Ce Prince est trop bien né pour couver dans le sein⁎,  
 Parmy tant de bonté quelque mauvais dessein⁎;  
 Je n'ay pas pû sçavoir ce qui peut luy deplaire,  
 Mais il estoit en peine aussi bien qu'en colere.  
 
-    FAUSTE
+    FAUSTE.
 Je ne vois pas au moins qu'on l'ait desobligé.  
 
-    HELENE
+    HELENE.
 C'est de trop de plaisir qu'il est donc affligé⁎.  
 
-    FAUSTE
+    FAUSTE.
 J'estime apres avoir bien pesé cette affaire,  
 Que pour sauver le fils, il faut gagner le pere.  
 
-    HELENE
+    HELENE.
 Aydez-nous donc, Madame, à sauver un sujet  
 Dont les respects vous ont toujours eu pour objet.  
 
-    FAUSTE
+    FAUSTE.
 Quoy qu'en se retirant il m'ait bien affligée⁎,  
 Au poinct que j'attendois d'en estre soulagée ;  
 Je veux l'aider, Madame, et tiens à grand bienfait  
 De pouvoir l'obligeant⁎ vous servir en effet.  
 
-    HELENE
+    HELENE.
 Ainsi vôtre clemence à nulle autre seconde,  
 Gagnant un seul sujet gagnera tout le monde.  
 
 
-### Scene V
+### Scene V.
 Constantin, Emile
 
 
-    CONSTANTIN
+    CONSTANTIN.
 Artaban tarde trop à faire un si bon coup⁎,  
 Qui me doit affliger⁎ et réjoüir beaucoup.  
 
-    EMILE
+    EMILE.
 Il m'a dit que dé-ja l'affaire est avancée,  
 Et qu'il peut l'achever comme elle est commencée ;  
 Selon que vous voudrez, ou la vie, ou la mort.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Les dés sont trop avant pour faire un autre sort⁎.  
 Emile se retire.
 
@@ -2760,40 +2760,40 @@ Helene entre.
 
 
 
-### Scene VI
+### Scene VI.
 Constantin, Helene sa fille.
 
 
-    HELENE
+    HELENE.
 Seigneur, à qui je dois et l'honneur et le jour,  
 Et qui joignez si bien la grandeur à l'amour ;  
 Ne vous estonnez pas si parmy [325] vôtre joye,  
 Vous voyez maintenant qu'en [326] mes pleurs je me noye.  
 
-    CONSTANTIN
+    CONSTANTIN.
 J'approuve tes sanglots, sçachant que ta douleur  
 Prend sa source d'amour, non de quelque malheur,  
 Tu regrettes ton frere, et tu blâmes sa retraite,  
 
-    HELENE
+    HELENE.
 Je crain quelque accident qui luy pend sur la teste.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Quel malheur ? de quel lieu luy pourroit-il venir ?  
 
-    HELENE
+    HELENE.
 Le present luy rit bien, mais je crain l'avenir.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Ma fille, as-tu bien sceu le mal qu'on luy veut faire ?  
 
-    HELENE
+    HELENE.
 Non ; mais le cœur me dit qu'on m'en fait un mystere.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Comment ?  
 
-    HELENE
+    HELENE.
         Mon frere, helas, estant party d'icy,  
 J'ay cherché du repos pour charmer mon soucy ;  
 Lors il m'a semblé voir Minervine ma mere,  
@@ -2821,7 +2821,7 @@ Vôtre mere et sa sœur vont perir s'il expire ;
 Fauste qui ne vivoit qu'en voyant ses apas,  
 Ne pourra le voir mort sans souffrir le trépas.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Je l'aimois plus que tous ; s'il meurt à cette heure ;  
 Ma fille, ne crains pas que de long temps il meure,  
 Il est vray que j'avois quelque aigreur contre luy,  
@@ -2829,14 +2829,14 @@ Mais il m'a plainement satisfait ce jourd'huy.
 J'ay pour luy de l'amour, si j'estois en colere,  
 Et Crispe desormais ne me sçauroit déplaire.  
 
-    HELENE
+    HELENE.
 Je m'en vay publier⁎ ma joye et son bonheur,  
 En dépit de l'enuie il vivra dans l'honneur.  
 
 
-### Scene VII
+### Scene VII.
 
-    CONSTANTIN *seul.*
+    CONSTANTIN *seul.*.
 
 Qui peut trahir son cœur ? j'ay pour luy de la haine,  
 Mais j'ay bien de la peine  
@@ -2871,17 +2871,17 @@ Fauste et Helene entrent.
  
 
 
-### Scene VIII
+### Scene VIII.
 Constantin, Fauste, Helene mere de l'Empereur.
 
 
-    FAUSTE
+    FAUSTE.
 Si vôtre fils, grand⁎ Prince, a failly contre vous,  
 Soyez pere envers luy si vous m'estes époux ;  
 J'aime mieux son salut que voir vôtre vengeance,  
 Et s'il est affligé⁎ je suis sans allegeance ;  
 
-    HELENE
+    HELENE.
 Un Prince qui ravit les cœurs comme les yeux,  
 Ne vit pas dans la Cour long temps sans envieux ;  
 Il n'est point de vertu que l'on ne calomnie,  
@@ -2889,23 +2889,23 @@ Ce qu'on peut asseurer contre luy, je le nie ;
 Et crois asseurément que son plus grand forfait⁎,  
 C'est d'estre trop aimable⁎ et d'avoir trop bien fait.  
 
-    FAUSTE
+    FAUSTE.
 Et quoy qu'il ait peché, vous estes tousjours pere,  
 Que l'amour envers luy vainque vôtre colere ;  
 En fin pour m'obliger⁎ d'un bienfait eternel,  
 Donnez à mes desirs ce noble Criminel.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il n'aura plus de mal.  
 
-    FAUSTE
+    FAUSTE.
         O clemence infinie,  
 Qui doit punir l'offence, et la laisse impunie !  
 
 
-### Scene IX
+### Scene IX.
 
-    PROCLE *seul, estant de retour du lieu où Crispe est mort.*
+    PROCLE *seul, estant de retour du lieu où Crispe est mort.*.
 
 Quel de ces deux malheurs, Procle, dois-tu choisir !  
 Voyant ton amy mort tu ne sçaurois plus vivre ;  
@@ -2944,167 +2944,167 @@ Et que Procle n'agissant pas,
 Elle se cause son martyre.   
 
 
-### Scene X
+### Scene X.
 *Helene*fille de l'Empereur. *Procle.Hycarie*suivante.
 
 
-    HELENE
+    HELENE.
 Procle m'estoit connu, mais je le méconnoy,  
 Ses joyes sont ailleurs, et ses pleurs sont pour moy.  
 
-    PROCLE
+    PROCLE.
 Si Procle est affligé⁎, vous causez sa tristesse.  
 
-    HELENE
+    HELENE.
 Si [328] faisois-je devant⁎ toute son allegresse.  
 
-    PROCLE
+    PROCLE.
 Mais depuis quelque temps le sort⁎ est bien changé.  
 
-    HELENE
+    HELENE.
 A quelque autre party, Procle, s'est-il rangé !  
 
-    PROCLE
+    PROCLE.
 Je suis trop honoré de vous faire service,  
 Mais vôtre frere et vous m'estes un grand supplice.  
 
-    HELENE
+    HELENE.
 Crispe que t'a-t'il fait ?  
 
-    PROCLE
+    PROCLE.
         Ne m'en demandez rien.  
 
-    HELENE
+    HELENE.
 Qui peut avoir rompu cét intime lien [329] ?  
 Vous n'aviez en deux corps qu'un seul cœur, et qu'une ame ?  
 
-    PROCLE
+    PROCLE.
 Pour bon amy qu'il fust, il est du tout sans flamme [330].  
 
-    HELENE
+    HELENE.
 Quelque grand accident vous a donc separez.  
 
-    CRISPE
+    CRISPE.
 Et nous separera lors que vous le sçaurez,  
 Car je pretens [331] mourir.  
 
-    HELENE
+    HELENE.
         Mais que fait-il encore ?  
 
-    PROCLE
+    PROCLE.
 Il ne vous aime plus, personne ne l'honore.  
 
-    HELENE
+    HELENE.
 Je sçay bien que mon cœur ne l'a pas offencé ;  
 Si mon pere s'aigrit son courroux est passé.  
 
-    PROCLE
+    PROCLE.
 Il ne vous sçauroit voir.  
 
-    HELENE
+    HELENE.
         Et moy je passionne,  
 De voir Crispe plustost que toute autre personne.  
 
-    PROCLE
+    PROCLE.
 Vous ne le verrez plus qu'avecque déplaisir⁎.  
 
-    HELENE
+    HELENE.
 Quelque mal que j'attende, au moins j'ay ce desir.  
 
-    PROCLE
+    PROCLE.
 Je ne puis en parler qu'avecque violence,  
 Et vous le pourriez voir dedans la complaisance ?  
 Il ne peut retourner ny s'en ressouvenir,  
 Il faudroit le porter pour le faire venir.  
 
-    HELENE
+    HELENE.
 Je croy qu'il est blessé.  
 
-    PROCLE
+    PROCLE.
         Son corps est sans blessure,  
 Crispe n'a point de mal, c'est Procle qui l'endure.  
 
-    HYCARIE [332]
+    HYCARIE [332].
 Il s'en est fuy peut estre ?  
 
-    PROCLE
+    PROCLE.
         Il est allé bien loin.  
 
-    HELENE
+    HELENE.
 Tu montres que ton cœur en eust bien peu de soin⁎.  
 
-    PROCLE
+    PROCLE.
 Peu de soin⁎; ha ! Dieu sçait si mon cœur le deplore.  
 
-    HELENE
+    HELENE.
 Fais-moy donc tout sçavoir, tu sçais que je t'adore.  
 
-    PROCLE
+    PROCLE.
 Enfin Crispe.  
 
-    HELENE
+    HELENE.
     Poursuis.  
 
-    PROCLE
+    PROCLE.
         Il me faudroit mourir.  
 
-    HELENE
+    HELENE.
 Si je te fais du mal, je puis bien t'en guerir.  
 
-    PROCLE
+    PROCLE.
 Crispe, Madame ; il faut encore des larmes,  
 Crispe n'a plus icy de grandeurs ny de charmes.  
 Vous lirez maintenant le reste dans mes yeux,  
 Qui sans autre discours⁎ vous en parleront mieux.  
 
-    HELENE
+    HELENE.
 Je prevois un malheur à voir ta contenance,  
 Et mon songe sans doute, aura trop de creance,  
 Procle, mon frere est mort ?  
 
-    PROCLE
+    PROCLE.
         Vous mesme l'avez dit,  
 Car pour vous l'annoncer j'estois trop interdit.  
 
-    HELENE
+    HELENE.
 Crispe mon frere est mort, ce beau corps est sans ame !  
 Dieux ! il me faut perir, c'est trop peu que je pâme ;  
 Nous nâquimes tous deux à mesme poinct de temps,  
 De mourir avec luy, c'est le bien⁎ que j'attens.  
 
-    PROCLE
+    PROCLE.
 Il me faut soûtenir cette belle Princesse,  
 Accablé que je suis du regret qui me presse.  
 
-    HYCARIE
+    HYCARIE.
 Ceux qui sont les plus grands⁎, ont les plus grands malheurs,  
 Et s'ils ont des plaisirs, ils ont plus de douleurs.  
 
-    PROCLE
+    PROCLE.
 Madame, vous mourez, au contraire il faut vivre,  
 Car Crispe vous defend comme à moy de le suivre.  
 
-    HYCARIE
+    HYCARIE.
 Vôtre decés n'est pas pour le resusciter,  
 Et si c'est un Grand⁎ mort, il le faut regretter.  
 Qu'il est vray que l'amour de deux n'en fait qu'un mesme ?  
 Quoy que Crispe soit mort, je croy qu'il est moins blesme.  
 
-    HELENE *se relevant.*
+    HELENE *se relevant.*.
 Ton cœur me le celoit me pensant obliger⁎ ?  
 
-    PROCLE
+    PROCLE.
 Je differois tousjours à vous tant affliger⁎.  
 
-    HELENE
+    HELENE.
 Affliger⁎; c'en est fait, Helene n'a de vie  
 Que pour voir dans ce jour qu'elle luy soit ravie⁎.  
 Et comment est-il mort ?  
 
-    PROCLE
+    PROCLE.
         Par l'effet du poison.  
 
-    HELENE
+    HELENE.
 Il n'eust sceu redouter que quelque trahison.  
 Que dira l'Empereur, mais que dira sa femme ?  
 Sont-ils pas pour mourir si l'autre a rendu l'ame ?  
@@ -3113,7 +3113,7 @@ M'empesche de parler et de me soûtenir.
 Fin du quatriesme Acte.
 
 
-## Argument du cinquiesme Acte
+## Argument du cinquiesme Acte.
 
 
 ### Scene premiere.
@@ -3161,64 +3161,64 @@ Procle cause presque trois morts differentes, en racontant la mort de Crispe aux
 Helene mere de l'Empereur, qui suivant la raison demandoit vengeance contre Fauste, suivant la pitié vient requerir sa grace. Mais on porte la nouvelle de la mort de cette Megere⁎, quand l'autre demandoit la vie pour elle. 
 
 
-## ACTE V
+## ACTE V.
 
 
-### Scene premiere
+### Scene premiere.
 *Fauste, Helene* mere de l'Empereur.
 
 
-    FAUSTE
+    FAUSTE.
 Oui, Madame, sa mort me semble déplorable,  
 Mais sa faute autrement sembloit irreparable.  
 
-    HELENE
+    HELENE.
 Madame, en l'offençant vous m'offencez aussi,  
 L'excusiez-vous devant⁎ pour l'accuser ainsi ?  
 
-    FAUSTE
+    FAUSTE.
 Mon cœur parle bien moins que l'interest du pere.  
 
-    HELENE
+    HELENE.
 Croyez qu'il n'en a point, Madame, en cette affaire.  
 
-    FAUSTE
+    FAUSTE.
 Quoy qu'il en soit, Madame, au moins son fils est mort.  
 
-    HELENE
+    HELENE.
 Cela n'est que trop vray, mais c'est toujours à tort.  
 
-    FAUSTE
+    FAUSTE.
 L'Empereur se craignoit de quelque intelligence ;  
 Il l'étouffe avec luy, c'est un trait de prudence.  
 
-    HELENE
+    HELENE.
 L'Empereur n'ayant point minuté ce forfait⁎,  
 L'on ne peut sans peché le charger [333] de l'effet.  
 
-    FAUSTE
+    FAUSTE.
 Si ne s'émeut-il pas de voir Crispe sans vie.  
 
-    HELENE
+    HELENE.
 Si verrez-vous pourtant sa mort bien poursuivie :  
 Et le Ciel est menteur s'il ne met pas à mort  
 Ceux qui firent mourir sa joye et mon support.  
 
-    FAUSTE
+    FAUSTE.
 Je voudrois de ma part aider à la vengeance,  
 Et mes douleurs pourroient trouver de l'allegeance ;  
 Mais je n'ay pas le cœur.  
 
-    HELENE
+    HELENE.
         De vanger l'Innocent ?  
 
-    FAUSTE
+    FAUSTE.
 Celuy qui veut couvrir un forfait⁎, y consent.  
 
-    HELENE
+    HELENE.
 Vôtre cœur n'a donc plus pour luy que de la haïne ?  
 
-    FAUSTE
+    FAUSTE.
 Trop d'amour envers luy m'a failly mettre en peine.  
 Puis qu'il pretendoit estre autant que l'Empereur,  
 Quel cœur pourroit aimer cét excés de fureur ?  
@@ -3227,7 +3227,7 @@ Mais ne l'excusez point sa faute est découverte ;
 Et puis il ne faut pas en matiere d'Estat,  
 Employer son credit⁎ pour un tel attentat.  
 
-    HELENE
+    HELENE.
 Il n'est plus d'innocent si mon fils est coupable,  
 Fauste, Helene, en un mot, chacun est execrable.  
 Cher Prince tu peux voir si tu devois cherir  
@@ -3238,9 +3238,9 @@ Helene se retire.
  
 
 
-### Scene II
+### Scene II.
 
-    FAUSTE *seule.*
+    FAUSTE *seule.*.
 
 Donc le sang de ce mort m'apprendra mon devoir ?  
 Invisible qu'il est, il me semble le voir,  
@@ -3290,164 +3290,164 @@ Adelaïde entre.
  
 
 
-### Scene III
+### Scene III.
 Fauste, Adelaïde
 
 
-    ADELAÏDE
+    ADELAÏDE.
 Vos regrets maintenant ont un plus grand effort,  
 Vous ressentez du mal d'ailleurs que de la mort.  
 
-    FAUSTE
+    FAUSTE.
 Je ne m'en émeu pas ayant sceu la nouvelle,  
 Me doutant que ce fust quelque bruit infidele⁎ ;  
 Maintenant que je voy la verité du fait  
 Je ne puis plus me feindre⁎.  
 
-    ADELAÏDE
+    ADELAÏDE.
         On le voit en effet.  
 A quoy visent pourtant ces pleurs et ce courage ?  
 Ce sont moins des regrets que des transports⁎ de rage ?  
 
-    FAUSTE
+    FAUSTE.
 Il faut suivre mon Crispe, et mourir comme luy.  
 
-    ADELAÏDE
+    ADELAÏDE.
 C'est vouloir doublement le meurtrir aujourd'huy :  
 Puis que vous ne faisiez avec luy qu'un cœur mesme ?  
 
-    FAUSTE
+    FAUSTE.
 Mon decés fera voir qu'encore mort je l'aime.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Il faut vivre et vanger cét enorme forfait⁎.  
 
-    FAUSTE
+    FAUSTE.
 Je m'en vay découvrir l'unique autheur du fait.  
 
 
-### Scene V
+### Scene V.
 Constantin, Artaban
 
 
-    CONSTANTIN
+    CONSTANTIN.
 L'affaire a reüssi suivant mon esperance.  
 
-    ARTABAN
+    ARTABAN.
 Si crains-je bien l'effet d'une telle ordonnance.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Un Empereur ne peut craindre d'autre pouvoir.  
 
-    ARTABAN
+    ARTABAN.
 Je dois craindre toujours de choquer⁎ mon devoir.  
 
-    CONSTANTIN
+    CONSTANTIN.
 N'est-ce pas ton devoir de rendre obeïssance [338]  
 A celuy qui peut tout.  
 
-    ARTABAN
+    ARTABAN.
         Hors de ma conscience.  
 
-    CONSTANTIN
+    CONSTANTIN.
 La conscience veut qu'on suive la raison.  
 
-    ARTABAN
+    ARTABAN.
 La raison defendoit de donner ce poison.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mon fils devoit souffrir pour me tirer de peine.  
 
-    ARTABAN
+    ARTABAN.
 L'innocent devoit-il estre mis à la géne ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 L'innocent, prevenu d'un horrible forfait⁎ ?  
 
-    ARTABAN
+    ARTABAN.
 S'il vous parust coupable, il fut chaste en effet.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Tu l'excuses encor avec ton eloquence !  
 
-    ARTABAN
+    ARTABAN.
 Je parle moins pour luy que sa propre innocence.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Tu pretens m'irriter m'en discourant [339] ainsi.  
 
-    ARTABAN
+    ARTABAN.
 Ceux qui l'ont veu mourir vous le diront aussi.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Sa mort devoit toujours ressembler à sa vie.  
 
-    ARTABAN
+    ARTABAN.
 Il est mort dans l'honneur, s'il est mort par envie.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il est mort dans l'honneur m'ayant fait cét affront ?  
 
-    ARTABAN
+    ARTABAN.
 L'innocence toujours a paru sur son front.  
 
-    CONSTANTIN
+    CONSTANTIN.
 L'impudence par fois prend le nom d'innocence.  
 
-    ARTABAN
+    ARTABAN.
 Jamais tant de douceur ne viendroit d'impudence.  
 Il a toujours nié ce crime.  
 
-    CONSTANTIN
+    CONSTANTIN.
         On l'a prouvé.  
 
-    ARTABAN
+    ARTABAN.
 Mais vous ne voyez pas s'il n'est que controuvé [340].  
 
-    CONSTANTIN
+    CONSTANTIN.
 L'accusateur est grand⁎.  
 
-    ARTABAN
+    ARTABAN.
         Et fait un grand coupable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Fauste estoit hors de blâme.  
 
-    ARTABAN
+    ARTABAN.
         Et l'autre irreprochable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Si Dieu l'eust veu sans crime, eust-il permis sa mort ?  
 
-    ARTABAN
+    ARTABAN.
 Les Dieux permettent bien qu'on leur face du tort ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Qu'a-t'-il dit en mourant ?  
 
-    ARTABAN
+    ARTABAN.
         Qu'il n'estoit pas coupable  
 D'une horreur dont un Monstre à peine estoit capable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il devoit ainsi dire au lieu de s'en aller.  
 
-    ARTABAN
+    ARTABAN.
 La Cour reconnoistra qu'il le devoit celer⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Cependant il est mort sans qu'on le reconnaisse [341].  
 
-    ARTABAN
+    ARTABAN.
 Le Soleil a ses rais sans qu'il nous apparaisse.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mais il ne tarde pas à luire dans les Cieux.  
 
-    ARTABAN
+    ARTABAN.
 Et possible ce mort dessillera vos yeux.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Qu'il dessille les siens qui n'ont plus de lumiere ?  
 Je cede neantmoins à ma flamme⁎ premiere ;  
 J'aime encore mon fils, et bien qu'il m'ait picqué,  
@@ -3460,143 +3460,143 @@ Helene entre.
  
 
 
-### Scene V
+### Scene V.
 Constantin, Helene sa mere.
 
 
-    HELENE
+    HELENE.
 Et vous vivez encor, le Prince estant sans ame ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Qu'ay-je fait pour mourir qui soit digne de blâme ?  
 
-    HELENE
+    HELENE.
 Qu'avoit fait vôtre fils ?  
 
-    CONSTANTIN
+    CONSTANTIN.
         Il avoit bien du tort,  
 Puis que son pere mesme a procuré [342] sa mort.  
 
-    HELENE
+    HELENE.
 Quel tort pouvoit avoir un fils plein d'innocence ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 De l'appeler ainsi, c'est doubler son offence.  
 
-    HELENE
+    HELENE.
 Et quelle est cette offence ?  
 
-    CONSTANTIN
+    CONSTANTIN.
         Elle est noire à ce poinct,  
 Que son enormité fait qu'on n'en parle point.  
 
-    HELENE
+    HELENE.
 Vôtre cœur peut-il rien celer⁎ à vôtre mere ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Ce fils ne tenoit plus Constantin pour son pere.  
 
-    HELENE
+    HELENE.
 Il vous honoroit tant.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Oüy pour me mépriser.  
 
-    HELENE
+    HELENE.
 Il estoit tout [343] à Fauste.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Oüy pour la courtiser.  
 
-    HELENE
+    HELENE.
 Pouvez-vous accuser une si pure flamme⁎ ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 L'innocent souhaittoit d'estre époux de ma femme.  
 
-    HELENE
+    HELENE.
 Quels en sont les témoins ?  
 
-    CONSTANTIN
+    CONSTANTIN.
         Ceux qui le sçavent bien.  
 Et qui por l'excuser n'en disent pourtant rien.  
 
-    HELENE
+    HELENE.
 Fauste ne dira pas que Crispe soit coupable.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Ny qu'un si prompt depart ne le rende blâmable.  
 
-    HELENE
+    HELENE.
 Les objets le cherchoient, il en trouvoit ailleurs.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il n'en rencontroit pas peut estre de meilleurs.  
 
-    HELENE
+    HELENE.
 Pour voir de grands malheurs ne cherchons pas les Fables,  
 On peut trouver icy des Phedres veritables.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Possible on l'a chargé des attentats d'autruy,  
 Quel autre eut osé faire un tel crime que luy ?  
 
-    HELENE
+    HELENE.
 Fauste dans son amour pour se tirer de peine,  
 A fait voir à ce coup⁎ sa prudence et sa haine ;  
 Je voy bien que son zele estoit pernicieux,  
 Elle le cherissoit pour le rendre odieux.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il ne faut pas blamer ma femme en ma presence.  
 
-    HELENE
+    HELENE.
 Fauste aussi n'y doit pas accuser l'innocence.  
 Fauste entre.
 
 
 
-### Scene VI
+### Scene VI.
 Constantin, Fauste, Artaban, Helene mere.
 
 
-    FAUSTE
+    FAUSTE.
 Je demande justice, et pour vous et pour moy.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Devant⁎ qu'en voir l'effet il faut sçavoir pourquoy.  
 
-    FAUSTE
+    FAUSTE.
 Il faut icy vanger la mort de l'innocence.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il n'est mort d'aujourd'huy qu'un Monstre d'impudence !  
 
-    FAUSTE
+    FAUSTE.
 Apres que Crispe est mort il faut faire perir  
 Cét esprit qui l'aimoit pour le faire mourir.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Il faut s'en prendre à moy.  
 
-    FAUSTE
+    FAUSTE.
         Vous estes excusable,  
 S'il est mort innocent, c'est moy qui suis coupable.  
 C'est moy qui l'accusay du crime que je fis,  
 Voulant un autre époux, je vous ostay ce fils.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Rappellez vos esprits ; une forte pensée  
 De la mort de mon fils l'a renduë insensée.  
 
-    FAUSTE
+    FAUSTE.
 Non, je n'ay pas perdu l'usage de raison,  
 Mais j'ay perdant ce fils perdu vôtre maison⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Vos discours⁎ en deux temps n'ont pas de ressemblance.  
 
-    FAUSTE
+    FAUSTE.
 Je dis la verité n'ayant plus d'impudence.  
 Je le sollicitay, mais il me resista,  
 Et l'amour me quittant la fureur m'emporta.  
@@ -3613,13 +3613,13 @@ Aussi ne suis-je plus un objet de clemence :
 Acheve donc, cher Prince ; hé ! tu ne le veux pas,  
 Mais pour mieux me punir retardes mon trépas !  
 
-    CONSTANTIN
+    CONSTANTIN.
 O Manie [344] !  
 
-    ARTABAN
+    ARTABAN.
     O fureur !  
 
-    FAUSTE
+    FAUSTE.
         Si Crispe est debonnaire [345],  
 Il me faut irriter la fureur de son Pere,  
 Elle s'adresse à Constantin.
@@ -3627,7 +3627,7 @@ Elle s'adresse à Constantin.
 j'ay mis ton fils à mort, fais moy doncques mourir,  
 L'innocent n'estant plus, ne dois-je pas perir ?  
 
-    CONSTANTIN
+    CONSTANTIN.
 Comme elle aimoit mon fils elle le pretend suivre,  
 Et pour le suivre ailleurs, elle ne veut plus vivre :  
 C'est pourquoy n'ayant point d'autre cause de mort,  
@@ -3636,27 +3636,27 @@ Je vous estime trop pour vous croire sincere,
 Sous ce mal apparent vous *couvrez* un mystere :  
 Ce discours⁎ n'est qu'opprobre et que temerité.  
 
-    FAUSTE
+    FAUSTE.
 Qu'il soit tel, je le veux, mais c'est la verité ;  
 Je cherissois ton fils, non pas comme une mere,  
 Mais comme une marastre⁎ [346], ou comme une Megere⁎;  
 Je le veux suivre ailleurs, mais c'est moins par amour,  
 Qu'en effet me voyant estre indigne du jour.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Artaban dois-je croire à ce rapport [347] infame ?  
 
-    ARTABAN
+    ARTABAN.
 C'estoit une marastre⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Oüy, mais c'estoit ma femme.  
 Elle avoit le cœur bon.  
 
-    ARTABAN
+    ARTABAN.
         Et le Prince estoit beau.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mais quoy, pour le cherir l'avoir mis au tombeau ?  
 
     HELENE *mere*.
@@ -3665,18 +3665,18 @@ Ce sont là de beaux fruits d'un second mariage ;
 Il vous ravit⁎ un fils digne d'estre Empereur,  
 Pour ne vous engendrer que des sujets d'horreur.  
 
-    FAUSTE
+    FAUSTE.
 Dedans [348] vôtre equité vous vous rendez coupable,  
 D'aviser [349] seulement si je suis excusable :  
 Vous redoublez encor le crime que j'ay fait,  
 Quand vous me laissez vivre ayant veu mon forfait⁎.  
 
 
-### Scene VII
+### Scene VII.
 Constantin, Fauste, Helene mere. Helene fille. Artaban
 
 
-    HELENE *fille.*
+    HELENE *fille.*.
 Vous voyez, Monseigneur, dans l'effet de mon songe,  
 Que c'est la verité qu'on appelloit mensonge ;  
 Mon frere toutefois n'est mort que par moitié,  
@@ -3690,7 +3690,7 @@ Sa sœur pareillement n'est plus dans l'innocence ;
 Mais avant que perir, que j'embrasse son corps,  
 Pour me voir avec luy mettre au nombre des morts.  
 
-    HELENE *mere de l'Empereur.*
+    HELENE *mere de l'Empereur.*.
 Donc pour avoir suivy les humeurs d'une femme  
 Tout couvert de Laurier, on vous couvre de blâme ?  
 Rappellez maintenant un Prince si parfait,  
@@ -3698,7 +3698,7 @@ Et le resuscitez, s'il est mort en effet.
 Les deux Helenes se retirent brusquement.
 
 
-    CONSTANTIN
+    CONSTANTIN.
 Ce seroit mon desir, s'il n'estoit impossible,  
 Et nous le reverrions sans qu'il est invisible ;  
 Il fléchit le genoüil.
@@ -3728,35 +3728,35 @@ Il parle tout bas à Artaban, et luy donne charge de noyer Fauste dans le bain e
 Tu fis mourir celuy qui n'estoit pas coupable,  
 Lave donc cette erreur dans un sang execrable.  
 
-    ARTABAN
+    ARTABAN.
 Ce dernier coup⁎ perdra du tout [352] vôtre maison⁎.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Je la veux voir perir puis que c'est la raison.  
 
-    ARTABAN
+    ARTABAN.
 Vous consolez vos maux par de grandes miseres.  
 
-    FAUSTE
+    FAUSTE.
 Pour punir un tel crime on fait trop de mysteres [353].  
 
-    CONSTANTIN
+    CONSTANTIN.
 Sa peine tarde trop.  
 
-    FAUSTE
+    FAUSTE.
         Il est vray qu'il est lent,  
 Tout supplice m'est doux, bien qu'il soit violent.  
 
 
-### Scene VIII
+### Scene VIII.
 *Helene* fille de l'Empereur. *Adelaïde, Procle*
 
 
-    HELENE
+    HELENE.
 Maintenant que nos yeux ont épuisé nos larmes,  
 Dy nous comment mourut ce vainqueur loin des armes.  
 
-    PROCLE
+    PROCLE.
 Vous me faites mourir me demandant sa mort ;  
 Pour vous faire plaisir je vay faire un effort.  
 Vous avez bien apris qu'elle fut sa retraite,  
@@ -3789,10 +3789,10 @@ Mais il a son malheur ay dedans de luy-mesme,
 Son visage de vif à l'instant devient blesme.  
 Il chancelle.  
 
-    HELENE
+    HELENE.
     Je meurs.  
 
-    PROCLE
+    PROCLE.
         Il tombe renversé,  
 Et sans sembler malade, il paroist trespassé.  
 Artaban s'en estonne au moins en apparence,  
@@ -3800,11 +3800,11 @@ Nous prenons mille fois et perdons esperance ;
 On s'oppose à son mal pour empescher sa mort,  
 Mais nous voyons nos soins⁎ trompez par son effort.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Se souvint-il de nous devant⁎ que rendre l'ame ?  
 Je fais la curieuse, et je sens que je pâme.  
 
-    PROCLE
+    PROCLE.
 Je m'escrie en pleurant, Crispe vous me laissez !  
 Et puis-je vivre icy si vous y trépassez ?  
 A ces mots s'éveillant, il ouvre la paupiere,  
@@ -3825,10 +3825,10 @@ Je ne t'en diray pas toutefois le secret,
 Ay-je esté si méchant si je suis si discret  [355] ?  
 Aime toujours ma sœur, honore ma Maistresse.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Que ce doux souvenir me cause de tristesse.  
 
-    PROCLE
+    PROCLE.
 Apres de tels propos ses yeux s'abbaissent fort,  
 Nous le croyons vivant et nous le voyons mort ;  
 Il me parle de vous, quand la douleur le presse,  
@@ -3856,11 +3856,11 @@ Madame, recevez mes larmes et mes feux⁎.
 Je n'aimois que luy seul, je n'aimeray qu'Helene,  
 Il passoit pour mon Prince, et vous serez ma Reine.  
 
-    HELENE
+    HELENE.
 Oüy, Procle, je me rends à ce doux compliment,  
 Et sans qu'il faut mourir nous vivrions doucement.  
 
-    ADELAÏDE
+    ADELAÏDE.
 Allons nous informer si Fauste est étouffée,  
 Mon amour de sa mort doit dresser son trophée.   
 
@@ -3869,19 +3869,19 @@ Mon amour de sa mort doit dresser son trophée.
 Constantin, Helene mere. Artaban Emile, Procle
 
 
-    CONSTANTIN
+    CONSTANTIN.
 C'est en vain, c'est en vain qu'on la pretend sauver,  
 Ce forfait⁎ est trop noir, ce bain le doit laver.  
 
-    EMILE
+    EMILE.
 Vos enfans crient-là, nous n'aurons plus de mere.  
 
-    ARTABAN
+    ARTABAN.
 Qui veüille à ses enfans choisir un autre Pere.  
 Helene entre.
 
 
-    HELENE *mere.*
+    HELENE *mere.*.
 C'est contre mon desir que je demande un don,  
 Mais la Foy⁎ nous aprend qu'il faut faire pardon [359] ;  
 Fauste pour elle mesme est vrayment punissable,  
@@ -3889,40 +3889,40 @@ Trois innocens pourtant la rendent excusable ;
 Ils sont foibles encor, ne la leur ostez pas,  
 Ou vous les tuez tous pour venger un trépas.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Pardonner ! si mon fils avec tant d'innocence  
 Plus que les scelerats éprouva [360] ma vengeance !  
 Vous ne l'aimez donc plus, ou ce n'est qu'à demy,  
 Si vous pleurez sa mort plaignant son ennemy.  
 
-    HELENE *mere.*
+    HELENE *mere.*.
 Le sang m'enseigne l'un, et le Ciel m'aprend l'autre.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Mon sentiment pourtant n'est pas conforme au vôtre.  
 
-    HELENE *mere.*
+    HELENE *mere.*.
 Mais la mettant à mort vous estes pour mourir,  
 Et perdant tout son sang Constantin va perir.  
 
-    CONSTANTIN
+    CONSTANTIN.
 C'est un sang corrompu que j'épanche à cette heure,  
 J'ay bien perdu devant⁎ le bon sans que j'en meure ?  
 
-    HELENE *à costé.*
+    HELENE *à costé.*.
 Dedans [361] la probité son mal ne me plaist pas,  
 Mais j'ay bien de la peine à pleurer son trépas.  
 
-    CONSTANTIN
+    CONSTANTIN.
 Qui peut sans m'offencer defendre une Megere⁎ ?  
 Qui de pere m'a fait un Tyran⁎ sanguinaire ?  
 Artaban entre.
 
 
-    ARTABAN
+    ARTABAN.
 On vient de l'étouffer.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Quel excés de malheur ?  
 Où je me fais du mal pour calmer ma douleur ;  
 Je peris par moitié sans pourtant rendre l'ame,  
@@ -3934,10 +3934,10 @@ Le forfait⁎ bien puny vange ainsi l'innocence.
 Procle entre.
 
 
-    PROCLE
+    PROCLE.
 On a porté le corps de Crispe.  
 
-    CONSTANTIN
+    CONSTANTIN.
         Le devoir  
 Aussi bien que l'amour nous oblige à le voir,  
 Estant mort méprisé qu'il vive dans la gloire,  
@@ -3956,10 +3956,10 @@ De Gyves.
 Ledit sieur de Grenaille a cedé et transporté tous les droicts à luy accordez par sa Majesté dans ce present Privilege, à Jean Paslé Imprimeur et Libraire en l'Université de Paris, pour en joüir par ledit Paslé durant le temps porté par iceluy, et ce suivant la convention faite entr'eux.< Achevé d’imprimer pour la premiere fois, le 22.Novembre 1639. >
 
 
-# LexiqueAbord (d') : n.m.Dès l'abord, tout de suite.Épître, préface (quatre occurences), v. 218, 1252Adorable : adj.Digne d'être adoré.V. 139« Qui mérite le plus profond des respects. » (Furetière).V. 598Affliger qq'n : v.t.Faire endurer une peine, un chagrin à qq'n.Préface, argument 1, v. 116, 274, argument 2, 424, 736, 1114, 1130, 1135, 1142, 1228, 1262, 1275, 1330, 1331, argument 5, 1718Aimable : adj.Digne d'être aimé.V. 140, 166, 193, 273, 694, 732, 763, 875, 1234Alarmes : n.f.pl.« Emotions causées par les ennemis. » (Cayrou).V. 325, 366, 465Amant : n.m.Homme qui éprouve des sentiments amoureux pour une femme, qu'ils soient ou non réciproques.Préface, v. 524, 539, 571Amante : n.f.Femme attachée à un homme par des sentiments passionnés qu'ils soient ou non réciproques.Préface, v. 353, 533Amorce : n.f.« Se dit figurément en Morale des appâts qui attirent et persuadent l'esprit. » (Furetière).V. 68, 199, 380Appas : n.m.pl.Terme poétique qui désigne, les charmes puissants, les grands attraits.V. 106, 170, 443, 580, 648, 741, 1582Barbare : adj.Cruel, impitoyable.V. 171Adj. substantivé. Quelqu'un de cruel, d'inhumain.V. 1175Bien : n.m.Bonheur.V. 23, 276, 455, 1318Blesser : v.t.Frapper, toucher profondément.V. 553, 864, 1268Celer : v.t.Couvrir, cacher.V. 781, 1458, 1479Choquer : v.t.Offenser, déplaire.Préface, Au mesme de Vaudrichard, v. 50, 245, 300, 372, 807, 854, 864, 1094, 1430, 1466Complaire : v.t.« Se rendre agréable à quelqu'un en déférant à ses volontés et à ses sentiments. » (Furetière).Argument 1, v. 76, 486Connaître : v.t. Reconnaître.Préface, v. 1211Coup : n.m.Heurt, atteinte violente, acte frappant et imprévuV. 1041, 1141, 1496, 1597Couvert (e) : adj.Dissimulé, caché.V. 94, 195, argument 3, v. 1520Crédit : n.m.Influence, considération.Épître, Préface, v. 90, 267, 488, 806, Argument 4, 1053, 1366Cruel : adj.Barbare, inhumain.V. 984, 1269« Qui ne répond pas bien aux cajoleries qu'on lui fait. » (Furetière).V. 721Décharger : v.t.Retirer une accusation que l'on a auparavant faite à qq'n.Préface, argument 5, v. 1408Découvrir : v.t.Révéler, montrer.Préface, v. 99Délices : n.f.pl.Plaisir extrême.V. 72, 1208Déplaisir : n.mProfonde douleur, désespoir.V. 467, 624, 1293Dessein : n.m.Projet.Préface (huit occurrences), argument 1, v. 85, 235, 387, 551, argument 3, 675, 735, 822, 842, 871, 1088Devant : adv.Avant, auparavant.Préface, v. 760, 990, 1276, 1342, 1407, 1502, 1639Discours : n.mConversation, entretien, action de s'exprimer.Préface, v. 98, 115, 155, 157, 355, 480, 562, 622, 777, 979, 1047, 1268, 1310, 1515, 1541, 1625Faîte : n.m.Partie la plus élevée de qqch. Gloire.Préface, v. 277, 514Feu : n.m.« Se dit poétiquement pour signifier la passion de l'amour. » (Dictionnaire du français classique).Préface, v. 93, 105, 132, 177, 372, 503, 505, 519, 528, 535, 568, 575, 601, 700, 710, 712, 873, 909, argument 4, 1682Feindre : v.t.Faire croire une chose fausse, faire semblant.Préface (trois occurrences), v. 87, 1418Flamme : n.f.Vive ardeur, passion.Au mesme stances, v. 195, 457, 530, 562, 605, 609, 653, 661, 701, 725, 737, 760, 1284, 1464, 1483Forfait : n.m.Crime détestable, violation d'un devoir.Préface, v. 670, 708, 731, 926, 949, 969, 989, 1001, 1101, 1213, 1233, 1349, 1358, 1372, 1403, 1425, 1437, 1558, 1690, 1720Foi : n.f.Croyance en Dieu, religion.Préface, v. 56, 66, 78, 1694Mariage, fidélité à un engagement.V. 464, 528Parole donnée, serment.V. 991Funeste : adj.« Il se dit parfois de la mort même, et éveille alors l'idée d'une mort affreuse, d'un meurtre. » (Dictionnaire du français classique).Préface (deux occurrences), argument 4Qui cause une grande tristesse.V. 272, 931Grand : adj.Qui l'emporte par sa naissance, sa fortune, son influence.Épître, Préface, v. 220, 627, 654, 821, 841, 881, 893, 947, 987, 1225, 1321, 1326, 1451Adj.substantivé. Qui a le rang le plus élevé, noble.Préface, v. 243, 508, 889, 892, 1068, 1151Haut : adj.« Il se dit aussi en mal, en parlant des choses excessives, extravagantes. » (Dictionnaire du français classique).V. 149, 504Excellent, noble, qui a de l'élévation, du mérite.V. 79, 513Heur : n.m.Chance.Préface (deux occurrences), v. 6, 298, 792Infidèle : adj.En qui on ne peut pas avoir foi.V. 148, 566, 803, 932Inconstant.V. 189, 899Qui n'est pas conforme à la vérité.V. 1416Loi : n.f.Ordre, commandement.V. 130, 164Maison : n.f.Race, famille.Épître (deux occurences), Préface, argument 1, v. 24, argument 3, 792, 826, 1041, 1514, 1597Marâtre : n.f.Belle mèrePréface (deux occurrences), Au mesme de la Tour, Au mesme de Vaudrichard, v. 75, 185, 433, 458, 565, 682, 1004, 1375, 1544, 1548Mégère : n.f.Emprunt au nom propre mythologique de la furie, qui a pour but de semer la discorde parmi les hommes. Il signifie femme acariâtre.Préface, argument 5, v. 1544, 1587, 1711Obliger : v.t.Faire le plaisir de qqn.Préface, V. 73, 77, 115, 116, 423, 462, 1064, 1081, 1138, 1237, 1329Perdre : v.t.Faire périr.Argument 3, V. 762, 1384Priser : v.t.Estimer.V. 127, 316, 414, 433, 541, 665, 727, 918Publier : v.t.Répandre une nouvelle.V. 499, 1197Ravir : v.t.Enlever violemment de force.Préface (deux occurrences), Au mesme P.L.P., v. 256, 304, 635, 916, 1332, 1553Regarder : v.t.Considérer, tenir compte de.Préface (quatre occurrences), v. 753Ressentiment : n.m.Sentiment de douleur.V. 107, 234, argument 2, 473Sein : n.m.Cœur, poitrine.V. 236, 676, 841, 946, 1125Soin : n.m.Souci, préoccupation.Préface (deux occurrences), v. 269, 367, 1302, 1303Sort : n.m.Destin, destinée.V. 219, 1146, 1185, 1277TransportViolente émotion de l'âme qui met l'être hors de lui-même.Préface (deux occurrences), v. 95, 1420Tyran : n.m.Qui agit de façon cruelle et violente.V. 30, 192, 676Opresseur de la liberté.V. 1207, 1712N.m.pl. Personnes qui tentent d'usurper le pouvoir.V. 3, 323, 942
+# Lexique.Abord (d') : n.m.Dès l'abord, tout de suite.Épître, préface (quatre occurences), v. 218, 1252Adorable : adj.Digne d'être adoré.V. 139« Qui mérite le plus profond des respects. » (Furetière).V. 598Affliger qq'n : v.t.Faire endurer une peine, un chagrin à qq'n.Préface, argument 1, v. 116, 274, argument 2, 424, 736, 1114, 1130, 1135, 1142, 1228, 1262, 1275, 1330, 1331, argument 5, 1718Aimable : adj.Digne d'être aimé.V. 140, 166, 193, 273, 694, 732, 763, 875, 1234Alarmes : n.f.pl.« Emotions causées par les ennemis. » (Cayrou).V. 325, 366, 465Amant : n.m.Homme qui éprouve des sentiments amoureux pour une femme, qu'ils soient ou non réciproques.Préface, v. 524, 539, 571Amante : n.f.Femme attachée à un homme par des sentiments passionnés qu'ils soient ou non réciproques.Préface, v. 353, 533Amorce : n.f.« Se dit figurément en Morale des appâts qui attirent et persuadent l'esprit. » (Furetière).V. 68, 199, 380Appas : n.m.pl.Terme poétique qui désigne, les charmes puissants, les grands attraits.V. 106, 170, 443, 580, 648, 741, 1582Barbare : adj.Cruel, impitoyable.V. 171Adj. substantivé. Quelqu'un de cruel, d'inhumain.V. 1175Bien : n.m.Bonheur.V. 23, 276, 455, 1318Blesser : v.t.Frapper, toucher profondément.V. 553, 864, 1268Celer : v.t.Couvrir, cacher.V. 781, 1458, 1479Choquer : v.t.Offenser, déplaire.Préface, Au mesme de Vaudrichard, v. 50, 245, 300, 372, 807, 854, 864, 1094, 1430, 1466Complaire : v.t.« Se rendre agréable à quelqu'un en déférant à ses volontés et à ses sentiments. » (Furetière).Argument 1, v. 76, 486Connaître : v.t. Reconnaître.Préface, v. 1211Coup : n.m.Heurt, atteinte violente, acte frappant et imprévuV. 1041, 1141, 1496, 1597Couvert (e) : adj.Dissimulé, caché.V. 94, 195, argument 3, v. 1520Crédit : n.m.Influence, considération.Épître, Préface, v. 90, 267, 488, 806, Argument 4, 1053, 1366Cruel : adj.Barbare, inhumain.V. 984, 1269« Qui ne répond pas bien aux cajoleries qu'on lui fait. » (Furetière).V. 721Décharger : v.t.Retirer une accusation que l'on a auparavant faite à qq'n.Préface, argument 5, v. 1408Découvrir : v.t.Révéler, montrer.Préface, v. 99Délices : n.f.pl.Plaisir extrême.V. 72, 1208Déplaisir : n.mProfonde douleur, désespoir.V. 467, 624, 1293Dessein : n.m.Projet.Préface (huit occurrences), argument 1, v. 85, 235, 387, 551, argument 3, 675, 735, 822, 842, 871, 1088Devant : adv.Avant, auparavant.Préface, v. 760, 990, 1276, 1342, 1407, 1502, 1639Discours : n.mConversation, entretien, action de s'exprimer.Préface, v. 98, 115, 155, 157, 355, 480, 562, 622, 777, 979, 1047, 1268, 1310, 1515, 1541, 1625Faîte : n.m.Partie la plus élevée de qqch. Gloire.Préface, v. 277, 514Feu : n.m.« Se dit poétiquement pour signifier la passion de l'amour. » (Dictionnaire du français classique).Préface, v. 93, 105, 132, 177, 372, 503, 505, 519, 528, 535, 568, 575, 601, 700, 710, 712, 873, 909, argument 4, 1682Feindre : v.t.Faire croire une chose fausse, faire semblant.Préface (trois occurrences), v. 87, 1418Flamme : n.f.Vive ardeur, passion.Au mesme stances, v. 195, 457, 530, 562, 605, 609, 653, 661, 701, 725, 737, 760, 1284, 1464, 1483Forfait : n.m.Crime détestable, violation d'un devoir.Préface, v. 670, 708, 731, 926, 949, 969, 989, 1001, 1101, 1213, 1233, 1349, 1358, 1372, 1403, 1425, 1437, 1558, 1690, 1720Foi : n.f.Croyance en Dieu, religion.Préface, v. 56, 66, 78, 1694Mariage, fidélité à un engagement.V. 464, 528Parole donnée, serment.V. 991Funeste : adj.« Il se dit parfois de la mort même, et éveille alors l'idée d'une mort affreuse, d'un meurtre. » (Dictionnaire du français classique).Préface (deux occurrences), argument 4Qui cause une grande tristesse.V. 272, 931Grand : adj.Qui l'emporte par sa naissance, sa fortune, son influence.Épître, Préface, v. 220, 627, 654, 821, 841, 881, 893, 947, 987, 1225, 1321, 1326, 1451Adj.substantivé. Qui a le rang le plus élevé, noble.Préface, v. 243, 508, 889, 892, 1068, 1151Haut : adj.« Il se dit aussi en mal, en parlant des choses excessives, extravagantes. » (Dictionnaire du français classique).V. 149, 504Excellent, noble, qui a de l'élévation, du mérite.V. 79, 513Heur : n.m.Chance.Préface (deux occurrences), v. 6, 298, 792Infidèle : adj.En qui on ne peut pas avoir foi.V. 148, 566, 803, 932Inconstant.V. 189, 899Qui n'est pas conforme à la vérité.V. 1416Loi : n.f.Ordre, commandement.V. 130, 164Maison : n.f.Race, famille.Épître (deux occurences), Préface, argument 1, v. 24, argument 3, 792, 826, 1041, 1514, 1597Marâtre : n.f.Belle mèrePréface (deux occurrences), Au mesme de la Tour, Au mesme de Vaudrichard, v. 75, 185, 433, 458, 565, 682, 1004, 1375, 1544, 1548Mégère : n.f.Emprunt au nom propre mythologique de la furie, qui a pour but de semer la discorde parmi les hommes. Il signifie femme acariâtre.Préface, argument 5, v. 1544, 1587, 1711Obliger : v.t.Faire le plaisir de qqn.Préface, V. 73, 77, 115, 116, 423, 462, 1064, 1081, 1138, 1237, 1329Perdre : v.t.Faire périr.Argument 3, V. 762, 1384Priser : v.t.Estimer.V. 127, 316, 414, 433, 541, 665, 727, 918Publier : v.t.Répandre une nouvelle.V. 499, 1197Ravir : v.t.Enlever violemment de force.Préface (deux occurrences), Au mesme P.L.P., v. 256, 304, 635, 916, 1332, 1553Regarder : v.t.Considérer, tenir compte de.Préface (quatre occurrences), v. 753Ressentiment : n.m.Sentiment de douleur.V. 107, 234, argument 2, 473Sein : n.m.Cœur, poitrine.V. 236, 676, 841, 946, 1125Soin : n.m.Souci, préoccupation.Préface (deux occurrences), v. 269, 367, 1302, 1303Sort : n.m.Destin, destinée.V. 219, 1146, 1185, 1277TransportViolente émotion de l'âme qui met l'être hors de lui-même.Préface (deux occurrences), v. 95, 1420Tyran : n.m.Qui agit de façon cruelle et violente.V. 30, 192, 676Opresseur de la liberté.V. 1207, 1712N.m.pl. Personnes qui tentent d'usurper le pouvoir.V. 3, 323, 942
 
 
-# Annexe : extrait de *La Cour sainte*
+# Annexe : extrait de *La Cour sainte*.
 
 Nicolas CAUSSIN S.J., *La Cour Sainte. Tome second : le prelat, le cavalier, l'homme d'estat, la dame*, Paris, Sebastien Chappelet, 1640, p. 521-535 (privilège de 1627)
 
@@ -4018,21 +4018,21 @@ On ne peut pas icy excuser Constantin d'une grande colere, d'une precipitation, 
 Voila pourquoy ce peché, quoy qu'il ait bien du mal-heur, n'a pas encore la meschanceté determinée du peché de David, en la mort d'Urie, pource que l'un operoit avec une manifeste cognoissance de son crime, et l'autre y alloit avec beaucoup d'ignorance et de sentiment de justice. Si est-ce que Constantin apres ces executions eut de tres-grands remords, qui l'acheminerent en fin tout à fait à la profession du Christianisme.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Œuvres théoriques*Aristote*Poétique
+## Œuvres théoriques.*Aristote*Poétique
 *Corneille*Discours de la tragédie et des moyens de la traiter selon le vraisemblable ou le nécessaire
 
 
 
-## Instruments de travail*Dubois, Lagane**Lerond*Dictionnaire du Français classique
+## Instruments de travail.*Dubois, Lagane**Lerond*Dictionnaire du Français classique
 *Furetière*Dictionnaire universel
 *Richelet*Dictionnaire françois
 
 
 
-## Sur les sources*Bénichou.*L'écrivain et ses travaux
+## Sur les sources.*Bénichou.*L'écrivain et ses travaux
 *Caussin*La Cour Sainte
 *Dalla Valle*Horizons européens dans la littérature française.
 *Delmas*Histoire et mythologie dans la tragédie française du XVIIe siècle*e*
@@ -4040,7 +4040,7 @@ Voila pourquoy ce peché, quoy qu'il ait bien du mal-heur, n'a pas encore la mes
 
 
 
-## Sur Grenaille (ouvrages qui en font mention)*Bayle*Dictionnaire de Bayle.
+## Sur Grenaille (ouvrages qui en font mention).*Bayle*Dictionnaire de Bayle.
 *Clément Simon*François de Grenaille, sieur de Châteaunières, notice biographique et bibliographique
 *Goujet*Bibliothèque françoise ou histoire de la littérature françoise
 *Guéret*Guerre des auteurs
@@ -4051,10 +4051,10 @@ Lachèvre.Recueils collectifs de poésie
 
 
 
-## Sur la littérature et le théâtre du XVII*e* siècle
+## Sur la littérature et le théâtre du XVII*e* siècle.
 
 
-### Études*Auerbach*Le culte des passions, essais sur le XVII*e* siècle français
+### Études.*Auerbach*Le culte des passions, essais sur le XVII*e* siècle français
 *Bénichou*Morales du Grand Siècle
 *Bury*Le classicisme
 *Delmas*Mythologie et mythe dans le théâtre français
@@ -4073,11 +4073,11 @@ Lachèvre.Recueils collectifs de poésie
 
 
 
-### Articles
+### Articles.
 
 
 
-## Édition moderne de L'Innocent malheureux*Dalla Valle*Le Tragedie francesi su CrispoL'Innocent malheureuxLa Mort de Chrispe
+## Édition moderne de L'Innocent malheureux.*Dalla Valle*Le Tragedie francesi su CrispoL'Innocent malheureuxLa Mort de Chrispe
 
 
 -------

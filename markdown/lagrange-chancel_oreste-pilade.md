@@ -15,7 +15,7 @@ A PARIS, Chez PIERRE RIBOU, proche les Augustins, à la descente du Pont-neuf, �
       master 1 sous la direction de Georges Forestier (2009-2010)
 
 
-# Introduction
+# Introduction.
 
 
 A vaincre sans péril, on triomphe sans gloire.
@@ -29,10 +29,10 @@ Il est vrai que son entrée dans l'écriture ne se fit pas dans un contexte part
 Examiner *Oreste et Pilade*, seconde tragédie de l'auteur, c'est étudier ses débuts en tant que dramaturge, tout en analysant objectivement les mérites et les faiblesses de la pièce, ses qualités et ses défauts, pour tenter de comprendre son succès. Car succès il y eut pour cette tragédie qui resta à l'affiche pendant vingt-six représentations et qui ne quitta le répertoire de la Comédie-Française qu'en 1738, après avoir été rejouée à plusieurs reprises.
 
 
-# Présentation de la pièce et de son auteur
+# Présentation de la pièce et de son auteur.
 
 
-## Biographie de La Grange-Chancel
+## Biographie de La Grange-Chancel.
 
 « La vie de La Grange-Chancel fut une des plus agitées de son siècle [2] ». Une telle affirmation pourrait faire sourire le lecteur d'aujourd'hui qui ne connait plus, ou si peu, l'homme que fût notre auteur. Pourtant, sous la plume d'un biographe du XIX*e* siècle, une époque où ce prétendant à la succession des maîtres classiques n'était pas encore totalement tombé dans l'oubli, cette citation s'explique aisément. Jeune ambitieux originaire de province et jugeant son talent assez grand pour conquérir les théâtres parisiens, La Grange-Chancel se caractérisa par sa prétention et sa verve satirique qui n'eurent de cesse de le mêler aux scandales et aux rivalités qui marquèrent le premier XVIII*e*. Cette « existence tourmentée » [3] fut ponctuée de quelques succès littéraires qui ne connurent pas meilleure fortune que la vie de leur auteur dans la postérité.
 
@@ -75,7 +75,7 @@ Je dirai maintenant à un très petit nombre de jeunes gens qui n'en ont pas ét
 Dans la préface d'*Ino et Mélicerte*, il s'en prit au défaut de connaissances de ses contemporains : « Est-il possible que les connoissances d'aujourd'hui soient si bornées ? Hyginus est-il un livre si peu connu ? ». Tel était l'orgueil de cet homme qui écrivit en outre une comédie, *La Fille supposée*, en 1713 et une *Sophonisbe* en 1716. La première pièce a été perdue [42]. Selon nos recherches à la Comédie-Française, elles furent toutes deux un échec. La comédie avait été représentée pour la première fois le 11 mai 1713 et avait fait l'objet de seulement quatre représentations. La tragédie de *Sophonisbe* fut jouée le 10 novembre 1716 et fut arrêtée six jours plus tard après quatre représentations également. À la fin de sa vie, La Grange-Chancel se lança dans un projet d'histoire du Périgord qu'il entreprit avec le chevalier de Cablans, un gentilhomme de sa province. Cependant, la mort de ce dernier ne lui permit pas de finir ce travail. C'est dans les fatigues d'une nouvelle édition complète de ses *Œuvres* que La Grange-Chancel s'éteignit le 26 décembre 1758, à près de quatre-vingt-deux ans.
 
 
-## Création et vie théâtrale d'*Oreste et Pilade*
+## Création et vie théâtrale d'*Oreste et Pilade*.
 
 La Grange-Chancel était un jeune homme de vingt ans lorsque sa seconde tragédie fut représentée sur la scène du jeu de paume de l'Étoile. *Oreste et Pilade* est donc une œuvre de jeunesse, celle d'un adolescent ambitieux qui rêvait d'égaler, voire de dépasser, les grands dramaturges du XVII*e* siècle. L'enjeu de cette pièce était considérable car notre auteur fondait sur la réception de celle-ci le choix de la carrière qu'il allait embrassé. En effet, le succès très modéré qu'avait rencontré sa première tentative de tragédie l'avait amené à se poser quelques questions concernant ses qualités en tant que dramaturge. C'est pourquoi, La Grange-Chancel envisagea *Oreste et Pilade* comme un moyen de faire ses preuves ou d'abandonner définitivement l'écriture tragique. Lors de la publication de cette pièce le 20 mars 1699, notre auteur expliquait ses motivations en ces termes : « D'ailleurs comme l'on sçait assez que la qualité d'Autheur n'est pas celle qui m'honnore le plus, j'ay voulu traiter un sujet dont la réussite me déterminast à travailler pour le Theatre, ou à employer mes momens de loisir à quelque occupation qui me fust plus convenable [43] ». Trente-cinq ans plus tard, lors de la seconde édition des *Œuvres Monsieur de La Grange-Chancel*, le dramaturge enorgueilli modifia quelque peu le contexte de création de cette seconde tragédie et expliqua ceci : « Le succès de ma premiere Tragedie m'encouragea à chercher un sujet fameux dans l'Antiquité, qui répondît à l'idée que le Public sembloit avoir de mes talens [44] ». Le fait est que La Grange-Chancel abandonna les sources historiques, dont le mauvais traitement avait en partie causé l'infortune de *Jugurtha*, au profit d'un sujet mythologique. Il donna alors à sa pièce le nom de deux personnages de la légende grecque, bien connus du public de la fin du XVII*e* siècle, en particulier depuis l'*Andromaque* de Racine, créée le 17 novembre 1667, et où le fidèle Pilade tentait de raisonner l'amoureux Oreste tout en donnant créance aux projets de ce dernier.
 
@@ -136,41 +136,41 @@ Un événement important en marge des premières séances au théâtre de la rue
 Du reste, les dix-huit représentations de la pièce de La Grange-Chancel jusqu'en août 1698, auxquelles s'ajoute le spectacle à Versailles, illustrent l'intérêt que *Oreste et Pilade* a pu susciter envers le public. En effet, si l'on tient compte du nombre limité des spectateurs à cette époque, nous pouvons supposer que les mêmes personnes sont venues voir jouer la pièce à plusieurs reprises. Le succès de la pièce peut également s'expliquer par le peu de tragédies qui ont vu le jour en 1697. Cette année là se caractérisa par une profusion de comédies créées, dix-sept pour être plus précis, contre seulement deux tragédies, dont celle de notre auteur [84]. *Oreste et Pilade* succèda donc à une tragédie de Pradon intitulé *Scipion l'Africain* et qui avait quitté la scène depuis le 19 mars 1697. C'est ainsi que le *Mercure Galant* du mois de décembre 1697 indiquait que «  Les Comédiens du Roy représentent depuis trois semaines une pièce nouvelle intitulée Pilade et Oreste, qui fait grand honneur à son auteur. Les situations en sont très heureuses, et excitent des sentiments de pitié qui rendent cette pièce très agréable [85]. » Cet avis favorable, notamment à l'égard du dramaturge, fut renouvelé par la *Gazette de Rotterdam*, le 7 mai 1699, alors que la pièce était reprise en France depuis quatre mois et qu'elle allait bientôt être publiée à Amsterdam par Desbordes. La Grange-Chancel fut alors qualifié comme étant « un jeune homme que le public voit avec plaisir marcher sur les traces du grand Corneille ». De plus, les informations fragmentaires précisées sur les deux registres journaliers de la Comédie-Française autorisent à croire que les représentations de la pièce furent fréquentées par du beau monde, comme l'indiquent les noms figurant sous la liste des acteurs, ou sous la liste des billets achetés, pour avoir acquitté ou devoir leur place. Le registre mentionne ainsi « le Chevalier Boüillon », « le Marquis de Saint Pouange », « le Chevalier de Roye », « Monseigneur le Prince d'Epinoy », « Monsieur le Comte de la Penage », « Monseigneur le duc de Chartres », « Monseigneur le Prince » et bien d'autres encore. Certains de ces noms apparaissent même plusieurs fois. C'est pourquoi, La Grange-Chancel se félicita d'avoir suscité du « plaisir » et des « applaudissements » grâce à « cet Ouvrage qui a esté si generalement approuvé de tout le monde [86] ». L'auteur évoqua également dans cette préface « la mauvaise critique de ceux qui ont condamné Thoas et Thomiris » mais nous n'avons pas pu retrouver de traces de ces reproches. Cependant, celles-ci ont été largement reprises par les critiques du XVIII*e* siècle, les frères Parfaict en tête. En effet, si ces derniers s'accordèrent à dire qu'« il y auroit injustice à ne pas convenir que la Tragédie d'*Oreste et Pilade* a nombre de détails bien rendus [87] », ils relevèrent également plusieurs défaut à la pièce. Tout d'abord, ils mirent en avant « la faiblesse du plan et du tissu de la Fable [88] » mis en place par La Grange-Chancel. Ils détaillèrent ce point de vue en expliquant que les actes I et II étaient fades et sans grand intérêt, que le troisième et le quatrième actes étaient intéressants par l'action et le suspens mais que le dernier acte était vraiment manqué [89]. Le dénouement de la pièce fut le point le plus fustigé ; au XIX*e* siècle La Harpe décrivit celui-ci comme étant « le grand écueil de la tragédie [90] ». Enfin, les frères Parfaict évoquèrent ce sur quoi, selon les dires de La Grange-Chancel, les critiques du XVII*e* siècle s'étaient le plus arrêtés. « Rien n'est plus manqué que les caracteres de Thoas et de Thomiris [91] » : le premier personnage se vit reprocher sa passivité malgré son statut de tyran et ils blâmèrent la princesse pour ses menaces à l'encontre de tous les autres acteurs de la pièce. Dès lors, la postérité considéra *Oreste et Pilade* comme une œuvre médiocre et la pièce ne fut plus éditée après 1758.
 
 
-## Argument d'*Oreste et Pilade*
+## Argument d'*Oreste et Pilade*.
 
 
-### Acte I
+### Acte I.
 
 Alors que Thoas, le roi de Tauride, s'apprête à épouser Iphigénie, l'objet de tous ses désirs, et alors même qu'un Grec, arrivé sur les terres des Taures va être offert en sacrifice à la déesse Diane, comme le veut une cruelle coutume, Thoas ne semble pas profiter de cet heureux jour et se montre inquiet. Il confie alors ses tourments à Hidaspe, un des ministres du Royaume. Rappelant tout d'abord que sa place sur le trône n'est pas due à une filiation parentale mais à la confiance que le feu roi de Tauride avait en lui, Thoas précise que son statut royal ne peut être légitimé qu'à condition d'honorer sa parole, à savoir épouser Thomiris, la fille du roi défunt. Cependant, c'est un terrible secret qui nourrit d'avantage les craintes de Thoas. Ayant un jour consulté Apollon afin de connaître son avenir, l'oracle du dieu le mit en garde contre un Grec prénommé Oreste et qui causerait sa perte en enlevant du Temple la statue de Diane. Pris de panique et soucieux de la prospérité de ses jours, Thoas préféra mettre à mort tous les étrangers qui se présenteraient sur ses terres. Il envoya également l'un de ses fidèles, Anthenor, se renseigner quant à l'identité du dit Oreste. Après un an d'absence, Anthenor est de retour en Tauride (scène 1). Ce dernier apprend à Thoas qu'Oreste n'est autre que le fils du puissant Agamemnon et qu'il s'est rendu coupable du meurtre de sa mère qu'il ne pourra expier qu'en venant en Tauride. Anthenor ajoute que le courageux Oreste est déjà en route et que l'oracle d'Apollon est sur le point de se réaliser. Thoas croit alors que le Grec qu'on s'apprête à immoler est son ennemi (scène 2). Iphigénie entre pour annoncer les volontés de Diane, dont elle est une prêtresse. Elle expose l'impossibilité pour Thoas de l'épouser, ainsi que la liberté que la déesse souhaite rendre au Grec. Mais Thoas, un temps troublé, est résolu à défier l'autorité divine et à satisfaire ses désirs (scène 3). Les Ambassadeurs Sarmates demandent à s'entretenir avec le roi, ce qui diffère alors les actions impies de ce dernier (scène 4). Cyane, la confidente d'Iphigénie, s'inquiète pour celle-ci qui a menti à Thoas afin de lui échapper, et craint la réaction du tyran quand il apprendra la vérité sur l'artifice. Elle interroge également Iphigénie sur les motivations de sa soudaine pitié pour l'étranger et elle lui rappelle que ce Grec ne veut même pas révéler son identité. Iphigénie confie alors sa tristesse d'être éloignée de sa patrie grecque. Le spectateur comprend ainsi qu'il s'agit de la fille d'Agamemnon et de Clytemnestre, celle là même sacrifiée en Aulis et sauvée *in extremis* du bûcher par Diane. Sauver le Grec lui permettrait de lui confier une lettre à remettre aux siens afin que ceux-ci viennent la chercher (scène 5).
 
 
-### Acte II
+### Acte II.
 
 L'acte II s'ouvre sur Thomiris qui laisse éclater sa colère et qui réclame à Anthenor d'être vengée. La Princesse bafouée est révoltée par l'offense qu'elle a subi et réclame la mort de Thoas. Anthenor tente de tempérer Thomiris en lui apprenant la soumission du peuple aux paroles de la déesse, ainsi que la venue imminente du roi. Thomiris n'entend rien, forte du soutien qu'elle trouve en son peuple et auprès de l'Ambassadeur du Sarmate (scène 1). Thoas entre et propose à Thomiris de régner sur le Sarmate, à défaut d'accéder au trône de la Tauride. Irrité du refus de la jeune femme, il perd son calme et fixe le départ de celle-ci au soir même (scène2). Anthenor s'inquiète de l'entreprise formée par le tyran et de son manque de foi envers sa promesse passée et envers les dieux. Il le met également en garde contre la menace que représenterait une union entre Thomiris et l'Empereur du Sarmate. Thoas n'en prend pas note et demande à voir l'étranger (scène 3). Hidaspe explique que le Grec est protégé par le peuple Scythe (scène 4) et le roi accorde alors au prisonnier la liberté réclamée par Iphigénie. Contre toute attente, l'étranger refuse de retourner dans son pays et préfère mourir chez les Taures, à défaut de ne pas avoir remporté la victoire qu'il était venu chercher. Thoas retrouve l'idée qu'il est face à Oreste (scène 5). Le roi explique la situation à Iphigénie et lui laisse une heure pour comprendre le choix de l'étranger et lui faire changer d'avis, sans quoi il le tuera (scène 6). La prêtresse s'entretient donc avec le Grec qui lui avoue vouloir mourir pour rejoindre la triste destinée de l'ami avec qui il était parti de Grèce et qui a péri dans le naufrage de leur navire. Iphigénie salue cette constance amicale mais lui confie qu'il pourrait lui être utile et la délivrer du joug du tyrannique de Thoas. L'étranger, plein de fougue, promet de lui porter secours et, dans son emballement, il fait part de ses sentiments naissant envers Iphigénie. Contrariée, cette dernière décide de le ramener sur le bûcher (scène 7). Dans un court monologue, Iphigénie se dit écartelée entre son devoir de prêtresse et ses sentiments de femme (scène 8). Hidaspe entre et lui annonce l'arrivée d'un nouveau Grec (scène 9). Iphigénie décide alors de sacrifier ce second étranger et de convaincre l'autre de rejoindre la Grèce (scène 10).
 
 
-### Acte III
+### Acte III.
 
 Thomiris vient supplier le nouvel étranger de cacher son identité afin qu'il diffère la décision de Thoas concernant le sacrifice jusqu'au lendemain et qu'elle dispose ainsi de la nuit pour régler sa vengeance (scène 1). Anthenor prévient Thomiris quant à la faiblesse physique et morale du Grec qu'elle veut rencontrer. La Princesse l'envoie annoncer à Thoas sa décision de partir et sa volonté de ne rien voir de l'hymen du roi et de la prêtresse (scène 2). Elle rassure ensuite sa confidente, Érine, en lui avouant qu'il ne s'agit là que d'un artifice destiné à tromper le tyran (scène 3). L'étranger sur qui elle fonde le succès de son entreprise entre, frappé par la démence. Thomiris le calme en lui expliquant qu'il se trouve dans un lieu funeste duquel il ne pourra échapper qu'en cachant à tous quel il est. Thomiris lui demande de lui faire confiance et elle sort (scène 4). Dans un monologue, le Grec livre son identité. L'étranger n'est autre qu'Oreste qui précise les origines et le but de sa venue chez les Tauros-Scythes (scène 5). Iphigénie entre et lui dit dans quel pays il se trouve. Elle lui annonce également sa mort prochaine, ce à quoi Oreste répond avec soulagement et dignité. La prêtresse voulant savoir l'identité de ce téméraire n'obtient que le silence en guise de réponse. Elle le questionne alors sur la Grèce et sur Agamemnon. Oreste lui apprend la mort de son père et celle de Clytemnestre, tout en se désignant coupable de ce dernier crime. Furieuse, Iphigénie veut hâter le sacrifice d'Oreste, sans se douter qu'il s'agit de son frère (scène 6). Oreste se réjouit de cette décision qui met un terme à ses souffrances mais regrette la mort de son ami Pilade qu'il croit avoir perdu lors du naufrage (scène 7). Hidaspe entre avec le premier étranger qu'il charge de découvrir l'identité d'Oreste (scène 8). Oreste reconnaît Pilade et les deux amis laissent éclater leur joie avant que Pilade ne s'inquiète pour leur sort en ces terres hostiles. Le jeune homme confie également à Oreste son amour pour Iphigénie (scène 9). Hidaspe revient pour soustraire des informations à Pilade. Les deux hommes demandent à être conduits au roi (scène 10).
 
 
-### Acte IV
+### Acte IV.
 
 Iphigénie attend impatiemment le retour de Cyane qu'elle a envoyé auprès du roi porter l'ordre de sacrifier le dernier étranger arrivé en Tauride. Cyane revient sans avoir pu s'entretenir avec Thoas, fort occupé avec les deux Grecs (scènes 1 et 2). Thomiris entre et souhaite parler à Iphigénie qui semble gênée par cette arrivée soudaine. Thomiris cherche à comprendre la raison du sacrifice du Grec dont Iphigénie presse le moment, sachant que ce geste hâtera son union avec Thoas. Iphigénie tente d'expliquer sa volonté par son devoir de prêtresse mais Thomiris, ainsi que le peuple, la soupçonne de vouloir usurper la couronne. Thomiris affirme que la victime est sous sa protection et menace Iphigénie avant de sortir (scène 3). Cyane demande à son tour la cause de cette haine envers l'un des Grecs en particulier. Iphigénie lui confie le crime d'Oreste ; Cyane comprend alors le sacrifice mais craint pour l'avenir d'Iphigénie (scène 4). Hidaspe vient faire part du trouble dans lequel Thoas est plongé – les deux étrangers voulant prendre le nom maudit d'Oreste. Iphigénie demande à les voir pour déceler la vérité (scène 5). Lors de cet entretien, Pilade défend vivement son ami des injures d'Iphigénie et finit par révéler qu'il s'agit d'Oreste. Le frère et la sœur se reconnaissent. Iphigénie craint de devoir choisir l'un ou l'autre des Grecs à immoler. Les deux hommes lui demandent de leur livrer la statue de Diane et de s'en remettre aux dieux. Iphigénie laisse supposer son amour pour Pilade (scène 6). Thoas paraît et espère voir son doute cesser. Le roi est chahuté par l'audace d'Oreste et de Pilade qui continuent de brouiller les pistes de leurs identités, et par l'insolence d'Iphigénie qui lui impose d'attendre un ordre du Ciel (scène 7). Thoas, furieux, annonce que les deux étrangers seront immolés le lendemain (scène 8). Hidaspe lui rappelle que le peuple menace de se révolter s'il perd Thomiris. Thoas ne s'inquiète pas pour cela et accepte que la princesse n'assiste pas à l'hymen qu'il retarde au jour suivant (scène 9). Resté seul avec Hidaspe, le roi demande à celui-ci de conduire en cachette Thomiris jusqu'aux vaisseaux Sarmates qui l'éloigneront de la Tauride (scène 10).
 
 
-### Acte V
+### Acte V.
 
 Thoas attend avec impatience le retour d'Hidaspe qui le renseignera sur le succès ou sur l'échec de la fuite de Thomiris (scène 1). Hidaspe entre et rassure le roi en lui assurant avoir conduit Thomiris, toute voilée, aux navires qui attendent maintenant un climat favorable au départ (scène 2). Thoas se réjouit et compte déjouer la sédition du peuple par le spectacle des sacrifices des Grecs et par son mariage avec Iphigénie. Mais Taxis entre épouvanté (scène 3). Ce dernier annonce à Thoas que la statue de Diane a été soustraite du Temple et qu'il n'a pu trouver les Grecs dans tout le Royaume. Il ajoute qu'une femme a orchestré ce sacrilège. Thoas pense alors à Iphigénie mais c'est Thomiris qui se présente à lui (scène 4). Celle-ci s'accuse de l'artifice qui a trompé le tyran : Iphigénie, cachée sous ses voiles, a pu atteindre les vaisseaux, et Thomiris a remis le simulacre de Diane entre les mains d'Oreste et de Pilade, avant de les conduire au port. Elle révèle à Thoas que l'un des étrangers étaient bien Oreste, et que le second est devenu l'époux d'Iphigénie. Le tyran menace Thomiris de la mettre à mort (scène 5). Taxis entre pour annoncer que les Grecs sont retenus au port par les vents contraires au départ et que le peuple commence à se soulever. Thoas décide d'y ramener l'ordre et sort en demandant à Taxis de surveiller sa captive, Thomiris (scène 6). La princesse tente de sortir mais Taxis obéit aux ordres et la retient (scène 7). Érine accourt et prie Thomiris de s'enfuir, la vue du tyran furieux la faisant craindre pour sa vie (scène 8). Anthenor arrive à son tour et livre l'issu des événements. Hidaspe est mort sous les coups de Pilade et Thoas est tombé sous l'épée d'Oreste. Les flots et les vents déchainés se sont alors calmés et les navires ont pu partir, ramenant vers la Grèce Oreste, Pilade et Iphigénie. Thomiris accède ainsi au trône de son père et peut régner sur son peuple et sur la Tauride (scène dernière).
 
 
-# Élaboration de la tragédie
+# Élaboration de la tragédie.
 
 
-## La genèse de la pièce
+## La genèse de la pièce.
 
 
-### Contexte d'écriture : un nouveau conformisme plus austère
+### Contexte d'écriture : un nouveau conformisme plus austère.
 
 Lorsque fut jouée la tragédie d'*Oreste et Pilade*, à la fin de l'année 1697, le théâtre parisien évoluait dans un climat de crainte et de découragement en raison d'un puritanisme croissant et d'une autorité royale qui s'abattaient lourdement sur le divertissement dramatique. Bien loin semblait être le temps des fêtes et des plaisirs qui avaient animé Versailles. Depuis une douzaine d'années, une ambiance tout autre régnait sur la Cour où austérité, vertu et ennui étaient les maîtres-mots. Les lettres de la duchesse d'Orléans en témoignent. Le 1er novembre 1685, celle-ci écrivait : « Le roi change si horriblement que je ne le reconnais plus [92] ». Deux ans plus tard, elle confiait : « La cour devient si ennuyeuse que l'on n'y tient plus [93] ». En effet, une suite de guerres épuisantes et un regain de dévotion mirent en place un climat austère à la Cour, comme à la ville. En 1696, alors même que La Grange-Chancel était en pleine rédaction de son *Oreste et Pilade*, l'abbé du Bos affirmait : « Si Dieu ne nous assiste, on mettra bientôt la moitié de la ville en couvents, et la moitié des bibliothèques en livres de dévotion [94] ». Ce n'était donc pas un moment propice pour les dramaturges, alors même que les gazettes de Hollande annonçaient la fermeture prochaine des théâtres de Paris.
 
@@ -195,7 +195,7 @@ Alors pourquoi une telle fantaisie de la part de La Grange-Chancel ? Le premier
 En outre, il est possible que notre auteur ait croisé, durant sa jeunesse passée à la Cour, le célèbre Racine. En effet, celui-ci ne cessa de se rendre à Versailles – il disposait d'un logement dans le château – dans les derniers mois de sa vie, en 1699. Alors quoi de plus normal pour le petit provincial rêvant de reconnaissance et de théâtre que d'être admiratif du grand Racine ? Peut-être que La Grange-Chancel avait longtemps refoulé sa frustration de n'être qu'un dramaturge médiocre à l'heure du déclin du classicisme. Nous pouvons supposer alors qu'à cinquante-sept ans il coucha sur papier ce dont il avait toujours rêvé, allant jusqu'à s'inventer des anecdotes romanesque [106]. Quoi qu'il en soit, l'influence de Racine sur La Grange-Chancel est indéniable. Le texte d'*Oreste et Pilade* regorge par exemple de vers et de tournures inspirés par Racine [107]. Le fait que Mlle de Champmeslé, comédienne favorite de Racine qui lui avait confié ses plus beaux rôles féminins, ait joué le rôle d'Iphigénie dans *Oreste et Pilade* amena une nouvelle fois La Grange-Chancel à évoquer Racine : « Mademoiselle de Champmelé, qui representoit Iphigénie dans un âge où l'on n'a plus les agrémens de la jeunesse, ne fit pas verser plus de larmes dans le rôle de M. Racine, qu'elle en fit verser dans le mien [108] ». Comme si l'auteur cherchait à tout prix à se rapprocher de celui dont il aurait tant aimé être le disciple et le digne successeur.
 
 
-### Un sujet mythologique
+### Un sujet mythologique.
 
 Au XVII*e* siècle, les aventures de la famille des Atrides fournirent matière à nombre de tragédies. La seconde pièce de La Grange-Chancel, dont le titre complet est *Oreste et Pilade, ou Iphigénie en Tauride*, s'inscrivit dans cette veine de pièces à sujet mythologique. En 1697, les trois noms propres du titre, issus de la légende grecque, évoquaient à eux seuls le souvenir d'effroyables calamités et attiraient d'emblée la sympathie des spectateurs. En effet, les enfants d'Agamemnon avaient fait l'objet de plusieurs tragédies tout au long du siècle. Iphigénie sacrifiée en Aulide avait été traitée dans trois pièces de 1640 à 1675 par Rotrou, par Racine et par le Clerc, en collaboration avec Coras. L'*Iphigénie* de Racine (1674) est bien sûr celle qui eut le plus de succès. Racine avait également mis le personnage d'Oreste sur la scène, à travers sa tragédie *Andromaque*, datant de 1667. Toutefois, c'est un Oreste affaibli, véritable épave humaine soumis à Hermione, que présenta Racine. Cette image est bien loin de celle développée à travers l'épisode du voyage en Tauride où Oreste est montré comme courageux et vaillant.
 
@@ -206,12 +206,12 @@ Les mésaventures d'Oreste et de sa sœur passionnaient les dramaturges depuis l
 Le premier texte qui rapporta l'histoire d'Oreste fut l'*Odyssée* d'Homère qui s'ouvre par les paroles de Nestor revenant sur la situation de la Grèce après la chute de Troie. Oreste est évoqué en tant que meurtrier d'Egisthe et par la même occasion en tant que vengeur du meurtre de son père. Il est donc décrit comme étant un personnage positif, un modèle de droiture. Il ne s'agit que d'une première mention du personnage et les autres épisodes de son histoire, dont le matricide et le voyage en Tauride, n'ont pas encore été inventés. Le début de la tradition littéraire fut marquée par la trilogie d'Eschylle, datant environ de 458 avant J.-C., et intitulée *L'Orestie*. En effet, le poète relata en trois œuvres de nombreux épisodes de la légende qui nous intéresse. *Agamemnon*, la première tragédie, présente le meurtre du personnage éponyme et ne fait pas apparaître Oreste sur scène. C'est dans la seconde tragédie, *Les Choéphores*, que celui-ci commence à jouer son rôle le plus connu : celui du meurtrier de sa mère. Enfin, *Les Euménides* ont pour sujet le jugement d'Oreste à l'Aéropage. Le jeune homme, attaqué par les Érinyes et défendu par Apollon, gagne ce *procès* et ne sera plus jamais poursuivit par les déesses vengeresses. Bien que ces trois pièces exposent une grande partie de l'histoire des Atrides, par des allusions ou par le biais de la représentation directe, les aventures d'Oreste sont toujours incomplètes puisqu'il n'y a aucune mention de sa venue en Tauride. Vers 421 avant J.-C., Sophocle écrivit à son tour sur Oreste dans une pièce intitulée *Electre*. La tragédie s'achève sur le triomphe d'Oreste, assassin de sa mère et de l'amant de celle-ci, mais ne fait aucune allusion à un quelconque réveil des Érinyes ni à la longue période d'errances angoissées. Il faudra en fait attendre Euripide pour que l'histoire du personnage soit complétée, en 413 avant notre ère. La pièce du dramaturge Grec, *Iphigénie en Tauride*, traita alors de l'épisode qui nous intéresse et dans lequel La Grange-Chancel trouva matière pour sa seconde tragédie.
 
 
-## Le traitement de la source littéraire
+## Le traitement de la source littéraire.
 
 La malédiction qui pèse sur la famille des Atrides et les infortunes qui en découlent ont largement fourni de la matière au genre tragique. Les aventures d'Iphigénie, et plus précisément son exil sur les terres des Scythes, ont été traitées par de nombreux auteurs, de l'Antiquité d'Euripide jusqu'au XVIII*e* siècle de Voltaire. La comparaison des diverses versions du sujet d'Iphigénie en Tauride met immédiatement en valeur les aménagements faits par chaque auteur à la progression dramatique de la pièce et au traitement des personnages, retraçant fidèlement l'évolution de l'esthétique tragique au fil du temps. Même les plus brillants dramaturges puisèrent certaines de leurs idées au fond du puits infini de la littérature et La Grange-Chancel, bien qu'âgé de seulement vingt ans, avait déjà suffisamment lu pour pouvoir s'inspirer de ses prédécesseurs.
 
 
-### La principale source antique : *Iphigénie en Tauride* d'Euripide (vers 414 avant J.-C.)
+### La principale source antique : *Iphigénie en Tauride* d'Euripide (vers 414 avant J.-C.).
 
 Dans la première préface à *Oreste et Pilade*, publiée en 1699, La Grange-Chancel évoquait Euripide, « sans lequel il n'y auroit point de Piece [114] ». Lors de la seconde édition des *Œuvres de Monsieur de La Grange-Chancel*, notre auteur précisait sa source principale en ces termes : « Je crus avoir trouvé dans l'Iphigénie *in Tauris* le sujet que je desirois ; j'y vis des Scenes interessantes, qui sembloient ne me devoir coûter que la peine de les traduire ; mais j'avouë que j'y trouvai en même tems des difficultés capables de me détourner de mon entreprise [115] ». Toutefois, en 1697, nous n'étions plus au temps de la redécouverte des thèmes de l'Antiquité. Ceux-ci avaient déjà été présentés sur la scène du théâtre du XVII*e* siècle et n'étaient donc pas inconnus du public. Cela laissait alors plus de liberté aux auteurs de la fin du siècle qui pouvaient jouer avec leur créativité tout en conservant la trame première de la tragédie. En outre, ce qui était du goût des anciens n'était pas forcément apprécié par les spectateurs du temps de notre poète qui avaient des exigences précises et une capacité de critique aiguisée. Ainsi, en adaptant *Iphigénie en Tauride* d'Euripide, La Grange-Chancel conserva certains passages sans y apporter de modifications majeures ; cependant, il mit également en place de profonds changements tant au niveau de la construction que du fond de la pièce [116].
 
@@ -293,7 +293,7 @@ C'est un rapport tout autre qu'entretient Iphigénie et le roi dans *Oreste et P
 Enfin, la tragédie de La Grange-Chancel accorda une grande place à l'hésitation du roi sur l'identité de son ennemi. Thoas s'entretient même longuement avec les Grecs afin de démêler la vérité. Pourtant, dans *Iphigénie en Tauride*, le roi ne se préoccupe guère de l'identité de ses victimes qu'il souhaite immoler selon la coutume au même titre que les infortunés qui les ont précédés. Thoas n'entre d'ailleurs jamais en contact avec eux puisque, les pensant impurs, il se cache les yeux pour éviter d'être souillé à leur vue. Il y aurait encore bien des différences à relever dans l'étude comparative des deux œuvres mais nous avons retenu les plus importants afin d'illustrer le travail de réécriture d'un texte antique destiné à être mis sur la scène d'un théâtre du XVII*e* siècle. Nous avons vu que si La Grange-Chancel conserva la trame d'*Iphigénie en Tauride*, il étoffa sa pièce en créant d'autres fils d'intrigues susceptibles d'intéresser les spectateurs. Il supprima au contraire les éléments qui auraient heurté le principe de vraisemblance cher aux classiques et il modifia à sa guise certains détails du texte-source, laissant libre cours à son imagination.
 
 
-### Création d'un fil d'intrigue secondaire : le personnage de Thomiris
+### Création d'un fil d'intrigue secondaire : le personnage de Thomiris.
 
 En 1630, dans sa *Lettre sur la règle des vingt-quatre heures*, Jean Chapelain affirmait : « Je pose donc pour fondement que l'imitation en tous Poèmes doit être si parfaite qu'il ne paraisse aucune différence entre la chose imitée et celle qui imite [136] ». Ce serait une grande méprise que de prendre cette assertion au pied de la lettre en l'interprétant comme contraire à la pensée classique dominante qui cherchait alors à atteindre « une imitation, non parfaite, mais perfectionniste [137] ». Au cours de son étude consacrée à ce sujet, Georges Forestier a démontré en quoi l'affirmation de Chapelain n'était « ni contradiction, ni reniement, ni même paradoxe [138] » mais que l'imitation parfaite proposait par le théoricien était en fait une imitation corrigée par la vraisemblance – donc parfaite – qui donnait l'illusion du vrai au spectateur. Et quoi de plus éminemment classique que cette pensée, à une époque où la tragédie du XVII*e* siècle avait mis au point des règles précises basées sur le principe fondateur de la vraisemblance et devant répondre à un second principe appelé bienséance ? Dès lors, tous les éléments développés dans les tragédies antiques ne pouvaient pas être calqués par les dramaturges classiques puis repris sur leur théâtre car comme l'affirmait Corneille dans l'un de ses *Discours*, « ce qui plaisait au dernier point à ces Athéniens ne plaît pas également à nos Français [139] ». C'est pourquoi les auteurs du XVII*e* siècle durent adapter leurs pièces aux convenances de leur temps.
 
@@ -319,17 +319,17 @@ Je vis que l'Episode d'Eriphile avoit été heureusement substituée par M. Raci
 En effet, lors de la création d'*Iphigénie* en 1674, Racine se trouva dans une situation semblable à celle de La Grange-Chancel. Le texte d'Euripide fournissait à l'éminent dramaturge une pièce reposant sur un coup de théâtre, mais sur un coup de théâtre faisant intervenir un dieu et une scène de machine. Ce retournement de situation, certes heureux pour le personnage éponyme, ne reposait pas sur une logique mise en place durant la pièce mais sur un merveilleux hasard. Cela n'était pas convenable pour le théâtre classique et c'est pourquoi Racine inventa le personnage d'Eriphile. Ainsi, lorsque l'oracle de Calchas annonce à Agamemnon qu'une fille du sang d'Hélène doit être sacrifiée pour permettre à l'expédition troyenne d'avoir lieu, le roi d'Argos et de Mycène pense directement à sa fille. Iphigénie est donc conduite sur le bûcher et juste avant d'être mise à mort, Calchas révèle que ce n'est pas à elle d'être sacrifiée mais à Eriphile, que Racine fait fille naturelle d'Hélène, nommée de surcroît à sa naissance Iphigénie. Le coup de théâtre est donc total et vraisemblable. La douce et innocente Iphigénie est épargnée tandis que la jalouse et négative Eriphile est mise à mort. Ce fut donc pour conserver le dénouement heureux de la pièce d'Euripide, c'est à dire le fait qu'Iphigénie soit sauvée, tout en évitant le recours à un *deux ex machina*, que Racine créa ce nouveau personnage. De fait, Thomiris semble être un combiné de Dircé et d'Eriphile.
 
 
-# Étude de la structure dramaturgique de la pièce
+# Étude de la structure dramaturgique de la pièce.
 
 Bien qu'*Oreste et Pilade* rencontrât un succès honorable jusqu'au premier tiers du XVIII*e* siècle, cette pièce est aujourd'hui tombée dans l'oubli, à l'instar des autres tragédies de La Grange-Chancel et de l'auteur lui-même, effacé en partie de l'histoire littéraire et théâtrale. Les raisons de l'accueil favorable du public pour cette seconde tragédie ne nous sont pas parvenues, exceptées les dernières performances de la Champmeslé. C'est pourquoi l'étude de la structure dramaturgique de la pièce devait nous permettre de mettre en lumière les qualités de celle-ci, susceptibles d'avoir susciter l'intérêt des spectateurs. D'autant plus que La Grange-Chancel n'avait de cesse de vanter ses talents à appliquer les préceptes classiques et « ces règles si judicieusement établies [147] ».
 
 
-## La structure interne d'*Oreste et Pilade*
+## La structure interne d'*Oreste et Pilade*.
 
 La structure interne d'une pièce correspond aux relations qu'entretiennent les différentes parties qui la composent. Dans son *Introduction à l'analyse des textes classiques*, Georges Forestier explique qu'une pièce est divisée en rapports structurels et macrostructurels. Chaque pièce doit donc former un ensemble, un tout comportant « un commencement, un milieu et une fin [148] ». Nous parlerons, en termes dramaturgiques, d'une exposition, d'un nœud et d'un dénouement.
 
 
-### L'exposition
+### L'exposition.
 
 En 1674, Nicolas Boileau proclamait :
 
@@ -354,7 +354,7 @@ Non, tu ne mourras point, je n'y puis consentir (vers 40).
 Enfin, si bien souvent l'exposition des pièces du XVII*e* siècle se terminait avec la fin du premier acte [152], les auteurs avaient parfois besoin de l'étendre d'avantage. Ce fut le cas de La Grange-Chancel qui, pour la composition d'*Oreste et Pilade*, ne souhaitait introduire certains personnages qu'au début de l'acte II, en l'occurrence Thomiris et sa confidente Erine (scène I), ainsi que Pilade (scène V). Thomiris était déjà connue par certaines informations posées dès la première scène de l'acte I, « mais l'introduction d'un nouveau héros à l'acte II entraîne souvent un renouveau d'exposition [153] ». Ainsi, le deuxième acte permet de poursuivre l'exposition et d'informer le spectateur d'un fil d'intrigue secondaire : Thomiris qui se sait bafouée par Thoas veut se venger du tyran. L'exposition obéit donc à toutes les règles : elle évoque le passé utile à la compréhension de ce qui va se dérouler sur scène, informe le spectateur des éléments principaux et définit les caractéristiques de la majorité des personnages.
 
 
-### Le nœud
+### Le nœud.
 
 Le nœud constitue le cœur de l'intrigue, celle-ci résultant de la combinaison de l'action principale et des éventuels épisodes, et se développant de l'exposition au dénouement. Ainsi, le nœud correspond au moment où les différents fils tissés depuis l'exposition se nouent entre eux et c'est « ce qui sera dénoué à la fin de la pièce [154] ». L'un des éléments essentiels à la composition du nœud dans une pièce est donc la présence d'obstacles car, comme l'écrivait Jacques Scherer, « l'homme heureux n'a pas d'histoire [155] ». Ces obstacles sont de deux ordres ; le plus récurrent étant l'obstacle extérieur caractérisé par la volonté d'un héros se heurtant à celle d'un autre. Dans *Oreste et Pilade*, le personnage de Thoas représente parfaitement l'obstacle extérieur. En outre, le roi est une entrave particulière aux tragédies du XVII*e* siècle ; « … c'est lui, présent dans la pièce ou dissimulé derrière des idées, qui constitue l'obstacle fondamental auquel se heurtent les aspirations des jeunes héros [156] ». Par exemple, le désir de Thomiris de monter sur le trône pour régner sur la Tauride, à l'instar du feu roi son père, est confronté à la volonté de Thoas d'épouser une autre femme qu'elle et de l'éloigner du pays. De même, le roi usurpateur est envisagé comme un obstacle extérieur au bonheur d'Iphigénie. En effet, en voulant imposer un hymen à la jeune femme, Thoas va à l'encontre du souhait de la prêtresse qui est de rester fidèle au culte de Diane jusqu'à ce qu'elle trouve le moyen de retourner en Grèce auprès des siens. Le roi est présenté comme un tyran ; « il est alors un tel obstacle au bonheur des héros qu'on ne se débarrasse de lui qu'en le tuant [157] ». Cependant, le personnage de Thoas rencontre également un obstacle extérieur en la personne d'Iphigénie. Celle-ci n'éprouve aucun amour pour lui, cherche à le fuir ou à le faire constamment changer d'avis. L'amour non réciproque qui consume le roi est un des obstacles les plus récurrents du théâtre classique ; d'où l'interrogation rhétorique de Jacques Scherer : « dans l'être qu'on aime, est-il obstacle plus grand que l'absence d'amour ? [158] ».
 
@@ -377,7 +377,7 @@ La reine bafouée va donc encourager une quatrième péripétie en implorant Ore
 Après ces nombreux rebondissements, le véritable coup de théâtre arrive à l'acte V et est caractérisé par la fuite d'Iphigénie sous les voiles de Thomiris ; ce qui entraîne le dénouement. La Grange-Chancel n'a donc pas lésiné sur les péripéties dont est riche sa tragédie. Nous pouvons aisément supposer que ces multiples retournements de situation furent une force lors des représentations de la pièce, le but ultime de la tragédie étant d'émouvoir le public en lui faisant ressentir une gamme d'émotions violentes. Les nombreux coups de théâtre tenaient le spectateur dans l'attente continuelle du dénouement qui se faisait autre à chaque péripétie. Ce que l'on nommerait de nos jours *suspense* était appelé au XVII*e* siècle *suspension*. Le Père Rapin écrivait ainsi que « le plaisir des spectateurs est d'attendre toujours quelque chose de surprenant, et de contraire à leurs préjugés. Et rien ne doit tant régner dans le théâtre que la suspension : parce que le principal plaisir qu'on y prend est la surprise [162] ». Les péripéties attisaient la curiosité du public et lui faisaient éprouver les deux émotions qui se trouvent au cœur du dispositif pathétique de la tragédie et qui furent analysées par Aristote : la crainte et la pitié [163]. Le spectateur connaissait alors les mêmes émotions que celles éprouvaient par les personnages de la pièce et il était dans l'émotion continue.
 
 
-### Le dénouement
+### Le dénouement.
 
 Aristote définissait le dénouement comme « ce qui va du commencement du renversement du bonheur au malheur ou du malheur au bonheur jusqu'à la fin [164] » mais Aristote, comme le rappelle Georges Forestier dans son *Introduction à l'analyse des textes classiques*, faisait se confondre la péripétie et le dénouement [165]. C'est pourquoi nous suivrons plutôt la définition de Georges Forestier qui explique que le dénouement consiste en « la résolution des obstacles qui constituaient le nœud » ainsi qu'en « l'effacement des conséquences immédiates de la péripétie [166] ». Cette même explication se retrouve chez Marmontel qui remarquait à propos du dénouement la chose suivante : « C'est le point où aboutit et se résout une intrigue …. Le dénouement … est un événement qui tranche le fil de l'action, par la cessation des périls et des obstacles … ». Ce dernier point de la tragédie est donc intimement lié au nœud de la pièce. Il est l'aboutissement à une situation stable, heureuse ou malheureuse, mais détachée des luttes de puissances adversaires qui fondaient le nœud. Le dénouement est donc séparé de la péripétie même s'il découle généralement de celle-ci.
 
@@ -402,7 +402,7 @@ La flamme du bûcher d'elle-même s'allume. (*Iphigénie*, vers 1777-1782).
 Le dénouement d'*Oreste et Pilade* est donc complet, riche d'une issue heureuse et d'un recours au miracle de la nature : rien n'est laissé dans l'ombre par notre auteur tant attaché aux dogmes du classicisme.
 
 
-## Le respect des règles classiques
+## Le respect des règles classiques.
 
 Les différentes règles ayant trait aux unités dramaturgiques d'une pièce ont longtemps été considérées comme un ensemble et envisagée dès lors sous le même angle. Cette idée de bloc s'est mis en place à partir du XVII*e* siècle comme le souligne le fameux passage de l'*Art Poétique* de Boileau :
 
@@ -412,7 +412,7 @@ Tienne jusqu'à la fin le théâtre rempli [179].
 Certains critiques et essayistes tentent depuis le début du XX*e* siècle de réparer cette méprise, qui persiste encore de nos jours dans certains manuels scolaires. René Bray le premier insista sur la nécessité de dissocier ce que l'on trouve souvent sous le nom de *règle des trois unités* : « La règle des trois unités est habituellement considérée en bloc. Aux yeux de bien des gens, elle représente toute la doctrine classique …. Or, il ne suffit pas de la remettre à sa place, qui n'est que secondaire, il faut la dissocier …. En réalité, elle n'a pas l'unité historique et logique qu'on lui suppose [180] ». C'est pourquoi, dans une démarche d'étude de la dramaturgie d'*Oreste et Pilade*, nous nous attacherons à adopter une certaine distance vis-à-vis des unités de temps, de lieu et d'action qui composent la pièce.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 Cette unité fut la première à s'imposer aux critiques et aux auteurs classiques grâce à une exigence simple à énoncer : les événements de la pièce doivent se dérouler en temps limité. En effet, reproduire un long espace temps (des mois voire des années) en quelques heures de représentation théâtrale semblaient absurdes et ridicules au regard du principe de vraisemblance [181]. À la fin du XVII*e* siècle, l'unité de temps pour une tragédie était majoritairement celle des vingt-quatre heures, artificielles ou temporelles selon qu'elles suivaient ou non le cycle solaire. Dès lors, afin de donner l'impression au public que cette durée était vraisemblable, les entractes étaient mises à profit pour étendre la durée d'une représentation.
 
@@ -427,7 +427,7 @@ L'acte V s'ouvre sur l'angoisse de Thoas qui constate que « la nuit est avanc�
 « Au-delà de l'inscription explicite de l'unité de temps dans le texte de la tragédie, le respect de l'unité de temps passe d'abord par le choix d'un moment exemplaire où se joue le sort d'un ou plusieurs personnages, voire de tout un peuple [185] ». En effet, l'une des caractéristiques de l'unité de temps tragique est l'ancrage de l'action dans un jour illustre. Ce principe est respecté par La Grange-Chancel dans *Oreste et Pilade*. La journée qui commence au début de la pièce s'annonce être « un grand jour » (vers 18), un « jour de gloire et d'allégresse » (vers 28). Les enjeux sont importants pour tous les personnages de la tragédie : Thoas va-t-il pouvoir épouser Iphigénie et conserver le trône en écartant Thomiris ? Cette dernière va-t-elle combattre l'usurpateur ? Iphigénie va-t-elle retrouver sa patrie et les siens ? Oreste et Pilade vont-ils arrivés à voler la statue de Diane ? C'est en fait tout le peuple des Tauro-Scythes qui vont faire face à leur sort en cette « heureuse journée » (vers 1481) qui déterminera l'identité du personnage qui régnera sur la Tauride. Notre auteur s'était donc rangé du côté de Corneille qui déclarait en 1660 : « Je ne puis oublier que c'est un grand ornement pour un poème que le choix d'un jour illustre et attendu depuis quelque temps [186] ». Notons pour finir que si ce grand jour était attendu, il était forcément lié à un passé et que sur la scène les spectateurs assistaient à un moment de crise tragique prévue depuis longtemps. Dans *Oreste et Pilade*, cela se traduit par l'évocation à plusieurs reprises des oracles d'Apollon qui avaient préparé certains des personnages au jour représenté sur scène. De même, si l'unité de temps est attachée à un passé, elle est également ouverte sur un futur. La fin de la tragédie *prophétise* l'avenir serein de la Tauride et de son peuple après la mort de Thoas.
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 Cette unité, qui s'imposa lentement au sein de la tragédie du XVII*e* siècle et qui fut une contrainte pour grand nombre de dramaturges, fut très bien résumée par Jacques Scherer en ces termes : « La scène ne devra représenter que les lieux où les personnages peuvent vraisemblablement se rendre pendant le temps que dure l'action [187] ». L'unité de lieu devait donc s'imposer au nom de la vraisemblance chère aux écrivains classiques [188]. En outre, on aurait pu penser que les pauses entre chaque acte pendant les représentations permettaient des changements de décors mais, si la possession d'un rideau de scène était un luxe que la Comédie-Française s'était permise pour le théâtre de la rue des Fossés-Saint-Germain, il faut savoir qu'il était impossible de manier le rideau à chaque entracte en raison de la manœuvre laborieuse que cela représentait. De fait, changer de décor à ce moment là serait revenu à le faire au regard des spectateurs. On le voit, la disposition des théâtres était une entrave à la mise en scène. Le jeu de paume de l'Étoile proposait une disposition incommode. Il était construit tout en longueur – les côtés étant encombrés de loges – et la scène était encore plus réduite sachant qu'à l'époque des représentations d'*Oreste et Pilade*, et ce depuis le triomphe du *Cid* de Corneille en 1637, des banquettes étaient fixées latéralement et occupées par les gens de qualité. La mise en scène était donc réduite par cet espace insuffisant.
 
@@ -436,7 +436,7 @@ Malgré les contraintes qui bousculaient le traitement du lieu dans une pièce, 
 En marge de ces indications qui formaient le contexte général et qui permettaient alors de suppléer au refus du décor multiple, l'unique lieu dans lequel se déroulait l'intégralité de la pièce se trouvait être à l'intérieur du palais. En effet, il s'agissait d'un « appartement », comme l'indiquent les vers 694, 735 et 1414, sur lequel nous n'avons pas d'autres détails que ceux apportés par l'entrée en scène d'Oreste qui s'exclamait sur la « pompe » du lieu. C'est donc dans cet unique appartement que vont entrer et sortir les personnages au gré des actes. Pourtant, d'autres endroits du palais vont être évoqués abondamment mais par le biais de récits ou de simples mentions. Parmi ceux-ci, citons le Temple de Diane où Iphigénie se rend régulièrement pour invoquer la déesse et où le peuple vient prier cette dernière. Il est désigné tour à tour comme étant « une enceinte sacrée » (vers 24), « un sanctuaire » (vers 25), un « Temple » (vers 189, 207, 350, 398, 1408, 1490 et 1660), un « tribunal » (vers 200), un « Autel » (vers 203, 208, 247, 255, 397, 652 et 882) et enfin un « bucher » (vers 670). Une des pièces du palais qui est suggérée à plusieurs reprises est l'appartement privé du roi dans lequel Thoas s'entretient avec les ambassadeurs du Sarmate puis avec les deux Grecs arrivés sur ses terres. Mais sur la scène du théâtre des Fossés, aucun de ces deux derniers lieux n'était montré aux spectateurs et le public était bel et bien face à une seule pièce. L'unité de lieu était donc totalement respectée.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 L'unité d'action est la plus complexe à analyser et elle se dissocie des deux précédentes en ce sens qu'elle touche au fond même de la pièce, c'est à dire au nœud. Le terme même d'*unité d'action* n'est pas des plus clairs ; il évoque à tort l'idée de simplicité et d'action unique. Corneille avait tenté de débrouiller ce malentendu dans son troisième *Discours* en expliquant que « ce mot d'unité d'action ne veut pas dire que la tragédie n'en doive faire qu'une sur le théâtre …. Il n'y doit avoir qu'une action complète, qui laisse l'esprit de l'auditeur dans le calme ; mais elle ne peut le devenir que par plusieurs imparfaites, qui lui servent d'acheminements, et tiennent cet auditeur dans une agréable suspension [191] ». C'est pourquoi, en terme de vocabulaire dramaturgique nous préférerons l'expression d'*unification de l'action*, empruntée à Jacques Scherer. Ainsi, au XVII*e* siècle, une pièce classique ne se caractérisait guère par une seule et même action mais par une action principale liée à une ou plusieurs actions secondaires – cette combinaison constituant l'intrigue. Le nombre de celles-ci n'étaient pas clairement délimité mais il était préférable qu'il soit raisonnable afin de ne pas brouiller l'attention et la compréhension des spectateurs. Il fallait donc « que les divers fils que pouvait composer une intrigue fussent tissés de telle sorte que tout acte ou parole de l'un des personnage réagît sur le destin de tous les autres, et que chaque détail se subordonnât à l'action principale [192] ».
 
@@ -445,7 +445,7 @@ L'unité d'action est la plus complexe à analyser et elle se dissocie des deux 
 La Grange-Chancel portait donc, du haut de ses vingt ans, un soin tout particulier à appliquer la doctrine classique. L'effort de notre auteur trouva satisfaction sur de nombreux points avec *Oreste et Pilade* bien que la tragédie restât imparfaite. Les critiques contemporains à La Grange-Chancel ont choisi d'assumer leur rôle en blâmant d'avantage les défauts de la pièce qu'en saluant ses qualités. Toutefois, l'attitude de notre poète n'a pas encouragé l'indulgence de cette critique car si la jeunesse de l'auteur aurait pu lui être favorable, sa vanité n'a fait que lui porter préjudice. La fougue du petit provincial débutant à Paris lui fit écrire que « cet Ouvrage a esté si generalement approuvé de tout le monde, que je ne répondray pas seulement à la mauvaise critique ... [197] » ; l'orgueil de l'homme de près de soixante ans retenait seulement de sa pièce que « le succès fut au delà de ses esperances [198] ».
 
 
-# Des intentions tragiques
+# Des intentions tragiques.
 
 
 ## Thoas : un tyran passif ?
@@ -453,7 +453,7 @@ La Grange-Chancel portait donc, du haut de ses vingt ans, un soin tout particuli
 Le roi, personnage récurrent dans la tragédie classique, s'inscrit dans une tradition littéraire qui s'explique aisément par le régime monarchique de l'époque. « Il satisfait en outre le goût de la 'pompe' des contemporains de Louis XIII et de Louis XIV [199] ». Le théâtre du XVII*e* siècle laissa donc une large place au personnage du roi qui se caractérisait, d'une façon simplifiée, par le bon monarque d'un côté et le tyran de l'autre. Cependant, ces caractères n'étaient pas toujours aussi définis. Dans *Iphigénie* de Racine (1674), Agamemnon a un rôle de bourreau puisqu'il conduit sa propre fille sur le bûcher. Cependant, le personnage n'est pas aussi mauvais que l'on pourrait le penser. D'une part, le roi est bouleversé par cette décision mais d'autre part, celle-ci est nécessaire afin de quitter la Grèce et de livrer bataille aux Troyens. Agamemnon est un bon monarque, héroïque et vertueux mais il adopte une attitude de bourreau sous peine de contraindre son peuple et de perdre son titre. Dans la tragédie de Corneille intitulée *Pertharite* (1651), le personnage de Grimoald, simple comte de Bénévent, est devenu roi de la Lombardie après avoir tué – ou plutôt avoir cru tué – le roi légitime, Pertharite. Il s'agit donc d'un personnage de tyran qui pour asseoir son pouvoir cherche à épouser la veuve de Pertharite en exerçant sur elle une pression morale inhumaine, allant même jusqu'à menacer la vie de son fils. Pourtant, l'usurpateur n'est pas tout à fait mauvais. Lorsqu'au milieu du troisième acte, le personnage éponyme réapparaît, Grimoald le reconnaît et cherche alors à l'exécuter une seconde fois en le faisant passer pour un menteur. Pertharite désespéré réclame alors la mort, mais aussi la reconnaissance de son statut de roi. Grimoald, pris de remords, finit par lui rendre son trône. Dans *Oreste et Pilade*, le personnage de Thoas est qualifié de tyran à vingt-six reprises [200]. En effet, c'est un usurpateur sans grands scrupules qui oublie qu'il doit le sceptre au défunt roi et qui affirme devoir son titre à la fortune (vers 460). Toutefois, ses pratiques tyranniques ne sont pas sans faille et elles sont confrontées à plusieurs obstacles.
 
 
-### Le roi comme source de la loi
+### Le roi comme source de la loi.
 
 « Un Tyran couronné ne connoît plus de loix » déplore Iphigénie au vers 241. En fait, ce n'est pas que Thoas n'honore aucune loi, mais c'est que le roi ne respecte que les siennes. La plus absurde et la plus injuste de celle-ci n'est autre que la lugubre coutume qu'il a imposé : tout étranger se présentant sur ses terres doit être sacrifié à la déesse Diane. Un principe tyrannique certes, mais auquel personne n'a jamais osé s'opposer. Le roi a parlé, il faut obéir au roi. Au moment de l'action d'*Oreste et Pilade*, aucun personnage ne s'élève contre ces barbares sacrifices. Si Iphigénie cherche à délivrer le premier Grec – Pilade – ce n'est pas qu'elle prend pitié de lui comme elle le prétend un temps (vers 301-302), mais c'est parce qu'elle souhaite l'utiliser pour servir ses propres desseins, à savoir remettre une lettre en Grèce. Cyane, sa confidente, s'étonne d'ailleurs de ce soudain appui que prend Iphigénie pour l'étranger en lui rappelant combien de fois elle a su répandre le sang d'innocents sans frémir (vers 287-290).
 
@@ -462,12 +462,12 @@ De même, Thomiris, pourtant fille du défunt roi qui était vraisemblablement u
 Thoas peut donc imposer ses lois sans avoir à se justifier et sans être contesté. Thoas profite et abuse même de son statut de roi pour « servir la malhonnêteté d'une volonté soumise à ses propres désirs [201] ». Le personnage agit donc en véritable tyran. En effet, la raison de ses sacrifices multiples résulte de l'oracle d'Apollon auquel Thoas avait fait appel une année avant le début de l'action de la pièce, et qui l'avait mis en garde contre un Grec prénommé Oreste qui mettrait un terme à son règne et à sa vie. Cette perspective tragique ayant épouvanté le roi, celui-ci préféra immoler tous les étrangers se présentant sur ses terres pour être certain de ne pas épargner son ennemi. C'est également en exerçant son pouvoir tyrannique que Thoas prend la décision d'évincer définitivement Thomiris du royaume en la donnant en épouse à l'Empereur du Sarmate. Il va de soi que cette résolution est prise sans l'accord de l'intéressée dont il méprise l'avis. Thoas se montre même choqué lorsque la jeune princesse se rebelle et fait front à son autorité (vers 471-474).
 
 
-### Une attitude tyrannique
+### Une attitude tyrannique.
 
 Sans égard pour les étrangers, dénué de franchise envers son peuple, limité dans le respect qu'il accorde aux femmes, Thoas semble être l'archétype du tyran tragique. À l'ouverture de la pièce, le personnage semble se croire détenteur de l'autorité suprême et va jusqu'à dédaigner la (fausse) décision de Diane selon laquelle son union avec Iphigénie est impossible, de même que le sacrifice du Grec. Se croyant tout puissant, il ne craint pas de s'opposer à ceux qu'il appelle, en prenant une distance notable, « vos dieux » (vers 257). Ainsi, Thoas ne se sent pas concerné par l'autorité divine. Ce n'est pas qu'il ne respecte pas celle-ci – sa croyance en l'oracle d'Apollon prouve d'ailleurs le contraire – mais c'est qu'il ne se juge en aucun cas inférieur aux dieux. Lise Michel explique que « les principes politiques, dans la tragédie, sont employés comme des arguments pour justifier, expliquer ou annoncer un acte [202]  ». Ainsi, en soulignant sa puissante autorité, Thoas se permet de contraindre la liberté des autres. Ses volontés sont tyranniques du fait que l'action qu'elles sous entendent « satisfait une passion et non un intérêt collectif [203] ». Il s'agit là d'une différence fondamentale entre le bon monarque qui agit pour le bien de son peuple – au détriment parfois d'un individu comme Agamemnon dans *Iphigénie* de Racine – et le tyran qui cherche à combler ses propres désirs. Thoas semble donc bien être un mauvais souverain puisqu'il justifie ses actes par le pouvoir que lui accorde sa couronne. Par exemple, il veut épouser Iphigénie malgré ses refus et l'opposition – mensongère – de la déesse Diane et il va jusqu'à menacer la prêtresse par une sentence éloquente : « Rien n'est plus dangereux qu'un Amant qui peut tout » (vers 228). Cette maxime caractéristique d'une attitude tyrannique trouve son contre-pieds dans *Pertharite* de Corneille lorsque le personnage de Grimoald confirme que l'autorité royale de saurait s'appliquer dans la sphère privée : « Et l'Amant couronné doit agir en amant » (acte II, scène 3).
 
 
-### Les limites de la pratique tyrannique
+### Les limites de la pratique tyrannique.
 
 Dès l'ouverture de la pièce, Thoas confie à Hidaspe les quelques scrupules qu'il éprouve quant à son comportement tyrannique qui a coûté la vie à grand nombre d'innocents (vers 36-39). Pourtant, il n'envisage pas d'arrêter ces sacrifices injustes et se réjouit même de l'immolation prochaine de Pilade – qu'il prend pour Oreste, ce qui explique principalement sa joie. Ce n'est donc pas en sa conscience que le roi va trouver obstacle à sa tyrannie mais par le biais des personnages féminins que sont Iphigénie et Thomiris. Ces dernières sont pourtant celles qui nomment le plus Thoas de tyran. Il s'agit donc d'une véritable rébellion qui s'engage conte le pouvoir absolu du roi.
 
@@ -476,7 +476,7 @@ Thoas a compris le danger que peut représenter la colère de Thomiris qu'il éc
 Iphigénie quant à elle représente un double obstacle pour Thoas. Premièrement, sa fonction de principale prêtresse de Diane lui accorde une certaine autorité ; d'autant plus que la Tauride voue un véritable culte à cette déesse. Thoas lui-même participe à ce culte, ne serait-ce qu'en offrant les étrangers au temple de Diane. S'il croit pouvoir échapper aux ordres divins, c'est parce qu'il n'applique que ses propres lois, auxquelles il pourrait même se soustraire s'il le voulait. Sa prise de position contre les décisions de Diane résulte également du fait qu'il se laisse déborder par sa passion amoureuse. Car c'est là le second frein que représente Iphigénie par rapport aux souhaits du tyran. Épris de la jeune femme, Thoas veut éviter de s'attirer sa haine. C'est ainsi qu'il accepte dès le second acte de délivrer le premier Grec, Pilade, alors même qu'il croit laisser s'échapper son ennemi Oreste. La raison de cette résolution n'est pas un engagement sur la voie du bon monarque, Thoas l'avoue : « La Prestresse t'arrache à mon inimitié » (vers 535). Le tyran est donc limité dans son exercice du pouvoir. Les Frères Parfaict soulignèrent ce défaut de caractère : « Thoas, quoique traité de Tyran à chaque discours qu'on lui adresse, est le plus pacifique et le plus docile personnage du monde [204] ». Passif, car il s'embarrasse de démêler lequel des deux Grecs est Oreste, là où un véritable tyran les aurait exécuté tous deux. En outre, Thoas n'est pas gêné par un quelconque lien avec l'un des deux étrangers qui entraverait son exécution. La Grange-Chancel, qui s'est inspiré de *Héraclius* de Corneille à plusieurs reprises, n'a pas saisi la différence entre le souverain de sa pièce et Phocas. L'hésitation de ce dernier est légitime et toute tragique puisqu'il risque de tuer son fils s'il ne parvient pas à mettre au clair qui est véritablement Héraclius. Docile, Thoas l'est en raison de son amour pour Iphigénie qui en profite pour dominer le roi jusqu'à lui imposer ses propres choix. Thoas se rend compte de sa faiblesse. À la scène VIII de l'acte IV, après que la prêtresse lui ait intimé l'ordre d'attendre son retour avant d'agir, le roi réalise son impuissance : « Qui suis-je ? Est-ce à Thoas qu'un tel discours s'adresse ? / A quoy m'exposes-tu malheureuse tendresse ? / Je puis tout, et malgré mon nom, ma dignité, / Une simple Prestresse étonne ma fierté (vers 1383-1386). » Les dramaturges du XVII*e* siècle « ont réalisé l'égalité des sexes, car les amoureuses ne le cèdent en rien aux amoureux » écrit Raymond Lebègue [205]. Quoi qu'il en soit de cette affirmation, dans *Oreste et Pilade*, les femmes se rebellent contre un tyran qui se laisse dépasser et qui ne parvient plus à imposer son autorité pourtant suprême.
 
 
-## Oreste furieux : la triste lignée des Atrides
+## Oreste furieux : la triste lignée des Atrides.
 
 « Sans Furies, point d'Oreste », écrivait Schiller à Goethe le 22 janvier 1802 [206]. Il est vrai que peu sont ceux qui n'associent pas le fils damné des Atrides aux déesses persécutrices. Oreste est issu d'une famille maudite par les dieux depuis la haine immodérée qu'éprouvèrent l'un pour l'autre les frères jumeaux Atrée et Thyeste [207]. Ces deux personnages légendaires se disputèrent le trône de Mycènes, une cité de la plaine d'Argos dans le Péloponnèse, et imaginèrent les barbaries les plus lâches pour évincer l'autre. Thyeste vola l'agnelle d'or que son frère conservait précieusement dans un coffre [208] et il fit en sorte que le possesseur de cette richesse devienne roi de Mycènes. Grâce à une intervention divine, Atrée réussit à son tour à flouer son frère et à récupérer le sceptre. Quelques temps plus tard, il apprit la liaison que sa femme entretenait avec Thyeste et il voulut se venger de ce dernier en faisant égorger ses trois fils et en les lui servant à diner. Fou de douleur, ce fut alors au tour de Thyeste de chercher un moyen pour se venger. Un oracle lui apprit qu'en ayant un fils de sa propre fille, Pélopia, il serait vengé. Il engendra donc un fils incestueux nommé Egisthe et lorsque celui-ci atteint l'âge d'homme, il confirma l'oracle en assassinant Atrée. Tous ces crimes au sein d'une même cellule familiale condamnèrent les Atrides à un destin marqué par le meurtre, l'adultère, le parricide, l'infanticide et l'inceste.
 
@@ -501,7 +501,7 @@ Les théoriciens classiques ne se sont pas vraiment épanchés sur le personnage
 Faisant au départ partie de la longue liste des personnages secondaires, le confident a su au fil du Grand Siècle s'imposer jusqu'à confondre la barrière entre protagoniste principal et accessoire. Jacques Scherer indique dans *La Dramaturgie classique en France* que le mot confident pourrait venir de l'italien *confidente* qui signifiait au XV*e* siècle « l'ami à qui l'on demandait de vous servir de second dans un duel [220] ». On retrouve dans cette définition une caractéristique de Pilade qui est d'être toujours aux côtés d'Oreste, même dans les moments les plus dangereux. Dans la pièce de La Grange-Chancel, lors du combat final rapporté par le personnage d'Anthenor, Pilade épaule son ami. Si c'est Oreste qui tue le roi, Pilade fait tomber Hidaspe, l'allié le plus fidèle de Thoas. Amis, cousins, élevés comme des frères, les deux hommes ont tout pour être égaux. Pourtant, La Grange-Chancel souligna très mal cette relation. En effet, dans *Oreste et Pilade*, Pilade vouvoie Oreste, installant ainsi une distance entre eux qui n'a pas lieu d'être. De même, il s'adresse à Oreste en le nommant « Prince », là où leurs rapports familiaux devraient lui permettre de l'appeler par son prénom. D'ailleurs, c'est ainsi qu'Oreste s'adresse à Pilade, ce qui le place injustement au dessus de son ami. Sur ce point, La Grange-Chancel a trop voulu – comme souvent – suivre Racine qui dans *Andromaque* présentait la relation entre les deux hommes de la même façon : Pylade vouvoie également Oreste et désigne celui-ci par le titre de « Seigneur ». Pourtant, Racine insistait sur la longue et solide amitié qui unissait ces personnages en débutant sa pièce sur leurs retrouvailles chaleureuses. La tragédie de La Grange-Chancel regorge donc elle aussi d'exemples illustrant cette amitié sans borne. Le plus probant est celui où les deux personnages éponymes pensent l'un et l'autre être le seul survivant du naufrage. Si Pilade pleure son unique ami (vers 587), Oreste se réjouit de le rejoindre bientôt dans la mort (vers 988-992). Leur volonté de vouloir mourir à la place de l'autre souligne également leur relation sans faille. Ainsi, leur comportement identique ne devrait pas nous faire hésiter quant à la place de Pilade parmi les personnages principaux mais le traitement dramatique de La Grange-Chancel le place comme étant inférieur à Oreste. Il fallait donc renforcer son importance au sein de la pièce.
 
 
-### L'héroïsation du personnage
+### L'héroïsation du personnage.
 
 Pour la première fois dans l'histoire littéraire, Pilade est détaché d'Oreste puisqu'il entre sur scène sans son compagnon, et de surcroît le premier. Pilade peut alors exister par lui-même et devenir un véritable caractère tragique. Ce premier indice de sa prise d'indépendance se confirme par de nombreux autres éléments.
 
@@ -510,7 +510,7 @@ La liste des *acteurs* le précise : Pilade est un Prince. N'est-ce pas une car
 En outre, dans la tragédie de La Grange-Chancel, Pilade subit une véritable héroïsation. Il s'agit de l'élever à la hauteur du héros mythique qu'est Oreste. Lors de sa première confrontation à Thoas, le protagoniste expose son courage et fait preuve de toutes les qualités d'énergie et de vaillance dont un héros a besoin. Il souligne d'abord sa venue en Tauride « animé par la gloire » (vers 550). Le terme de *gloire* est important, comme le précise Anne Sancier-Chateau dans son ouvrage consacré au vocabulaire du XVII*e* siècle [221]. En effet, elle indique que le mot *gloire* a subit une évolution sémantique au cours du siècle, passant de l'idée d'estime et d'honneur à une véritable action héroïque relevant de l'éclat et de la splendeur des hauts faits. Pilade venait donc en Tauride pour montrer sa puissance. Le courage de Pilade trouve son apogée lorsqu'il refuse le salut offert par Thoas. Le jeune Grec est montré comme étant brave et vaillant puisqu'il préfère la mort à une vie qu'il devrait à un tyran barbare. L'héroïsation du personnage se poursuit au moment où animé par sa bravoure, il promet à Iphigénie de tuer Thoas de ses propres mains (vers 620-625) et de revenir seul la délivrer (vers 635-636).
 
 
-### Pilade et l'amour
+### Pilade et l'amour.
 
 L'une des valeurs essentielles de la tragédie classique était la « nécessité d'introduire une dimension sentimentale dans des mythes souvent indifférents à la psychologie [222] ». Nous l'avons vu, La Grange-Chancel complexifia la simplicité des lignes originelles de l'*Iphigénie en Tauride* d'Euripide en intégrant deux *histoires* d'amour à sa pièce.
 
@@ -519,17 +519,17 @@ La première, qui concerne les personnages de Thoas et d'Iphigénie, est un amou
 Le second amour de la pièce se devait donc d'être modéré et réciproque. Il s'agit de celui qui unit Pilade et Iphigénie. Certes, la prêtresse grecque s'offusque dans un premier temps des sentiments que lui révèlent Pilade, car au XVII*e* siècle une femme ne pouvait sans rougir se laisser faire la cour. Dans *Oreste et Pilade*, Iphigénie est de surcroît vouée à servir Diane et ses Autels, ne pouvant décemment pas s'abandonner à l'amour. Toutefois, le spectateur comprend vite qu'Iphigénie partage les sentiments de Pilade, et ce dès la scène suivant les déclarations du jeune homme. L'aposiopèse de la scène VIII de l'acte second marque les réticences qu'éprouve Iphigénie à reconnaître qu'elle est vaincue par l'amour. Cet amour – bien que tout à fait inattendu – est donc réciproque et il devient même tout à fait pathétique au moment où les amoureux s'avouent leurs sentiments alors qu'ils risquent à tout moment d'être séparés par la mort. Il s'agit d'un amour sans passion qui permet de créer un équilibre dans la pièce et qui participe au dénouement heureux puisque La Grange-Chancel souhaita unir par un mariage ces deux protagonistes. Par Pilade, les attentes du public sont donc tout à fait comblées.
 
 
-### Pilade : la principale force d'Oreste
+### Pilade : la principale force d'Oreste.
 
 Si Oreste présente certaines faiblesses, notamment lorsqu'il est tourmenté par les Érinyes, Pilade fait preuve d'un soutien immuable pour son ami. Depuis *Les Choéphores* d'Eschylle jusqu'à l'*Andromaque* de Racine, Oreste est montré hésitant et Pilade influent. Dans la pièce antique, l'épée levée sur sa mère, Oreste doute. C'est alors que Pylade se met à parler, pour la première et la dernière fois de la pièce, et ses trois vers sont déterminants car ils suffisent à décider Oreste à commettre le matricide, déclenchant ainsi ses errances et ses tourments [224]. Chez Racine, l'influence de Pylade sur son ami est moindre car supplée par le personnage d'Hermione, pour laquelle Oreste nourrit une dévorante passion qui le poussera à assassiner Pyrrhus. Toutefois, Pylade répond à deux reprises des hésitations d'Oreste en lui ordonnant d'enlever Hermione (acte III, scène 2) et il montre également sa fougue en projetant leur fuite tandis qu'Oreste se lamente sur son sort en restant passif.
 
 Dans *Oreste et Pilade*, La Grange-Chancel confia à Pilade la charge de redonner l'envie de vivre à Oreste qui souhaitait lâchement mourir sans lutter. L'auteur aurait pu développer cette attitude d'avantage en s'inspirant d'*Iphigénie en Tauride* dans laquelle les deux Grecs arrivent ensemble en Tauride et où Oreste veut fuir dès le départ, ramené à la raison par son fidèle ami. Pilade a donc bel et bien toutes les caractéristiques d'un personnage principal et même d'un héros. Le titre de la pièce prend alors tout son sens en accordant une place à Pilade au même titre qu'à Oreste. D'autres dramaturges n'en firent pas autant : Voltaire, par exemple, reprit ce même sujet en 1750 et intitula sa pièce *Oreste*.
 
 
-## Esthétique de l'identité, ou le jeu des identités comme fondement de la pièce
+## Esthétique de l'identité, ou le jeu des identités comme fondement de la pièce.
 
 
-### Les différents déguisements présents dans Oreste et Pilade [225]
+### Les différents déguisements présents dans Oreste et Pilade [225].
 
 La pièce de La Grange-Chancel propose deux types de déguisement : un déguisement du physique par l'utilisation de voiles et de divers artifices vestimentaires, et un avatar du déguisement qui consiste en une dissimulation des identités. Si les moyens sont différents, la fin est la même : devenir autre, ne pas dévoiler qui l'on est réellement. Les raisons de ces feintes sont quant à elles propres à chacun des personnages camouflés. En 1697, ce procédé était devenu rarissime dans la tragédie, mais notre auteur se fonda une nouvelle fois sur ses prédécesseurs.
 
@@ -543,7 +543,7 @@ Certains « masques », qui n'affectent de façon fondamentale qu'une partie d
 Les différents types de déguisement que présente la pièce de La Grange-Chancel ont une motivation identique : échapper à un danger. Iphigénie se déguise pour fuir le royaume dont elle est retenue captive. Elle adopte alors une « attitude défensive [229] » qui lui permet d'éviter le mariage que voulait lui imposer Thoas, d'épouser celui qu'elle aime et de rejoindre ce qui reste de sa famille en Grèce. Il en va de même pour les deux amis que sont Oreste et Pilade et qui cachent leurs identités jusqu'à pouvoir s'enfuir avec la statue expiatrice. De plus, si « un déguisement conscient débouche sur un succès ou sur échec [230] », nous pouvons dire que dans le cas des déguisements d'*Oreste et Pilade*, le public assiste à une véritable réussite.
 
 
-### Le traitement dramaturgique des scènes de reconnaissances
+### Le traitement dramaturgique des scènes de reconnaissances.
 
 La *Poétique* d'Aristote expose l'idée que les principales formes de déguisement appellent à un procédé nommé la reconnaissance. Aristote mentionna de surcroît, à plusieurs reprises, le texte source de la pièce de La Grange-Chancel : *Iphigénie en Tauride* d'Euripide.
 
@@ -556,7 +556,7 @@ En outre, la reconnaissance qui a lieu entre Iphigénie et Oreste correspond à 
 La Grange-Chancel n'utilisa pas le procédé dramaturgique de la lettre comme moyen de reconnaissance entre le frère et la sœur. Pourtant, celui-ci était couvert d'éloges dans la *Poétique* d'Aristote qui affirmait au chapitre XVI de son ouvrage : « Le meilleur mode de reconnaissance est celui qui résulte des faits eux-mêmes, parce que, alors, la surprise a des causes naturelles ... [239] ». Il semblait légitime et naturel que le personnage d'Iphigénie veuille confier une lettre à Pylade, dans *Iphigénie en Tauride*, afin que celui-ci la transmette aux siens. Il était également normal que la jeune femme la récite à Pylade de façon à ce que celui-ci la retienne au cas où il perdait la lettre en chemin. Dès lors, déclinant son identité, Oreste pouvait reconnaître sa sœur d'une manière tout à fait naturelle. La Grange-Chancel écarta ce procédé dramaturgique. Cependant, il respecta tout de même les recommandations d'Aristote. Ainsi, dans *Oreste et Pilade*, la reconnaissance entre Oreste et Iphigénie découle naturellement des propos de Pilade qui, en ami dévoué, protège son double et prend la défense de celui-ci. La réaction du personnage est vive car il ne supporte pas qu'Iphigénie veuille mettre à mort Oreste, sans aucun scrupule, et qu'elle l'accuse de choses abominables. Ainsi, Pilade révèle, pour le sauver, qu'Oreste est le fils du grand Agamemnon, permettant alors à Iphigénie de reconnaître son frère.
 
 
-## Le traitement des divinités et des oracles
+## Le traitement des divinités et des oracles.
 
 Le XVII*e* siècle, de la moitié des années 1630 à la toute fin du siècle, vit une vingtaine de ses pièces faire place à des oracles [240]. Cette période est suffisamment étendue pour que l'on ne parle pas de *mode*. Cependant, les oracles de la tragédie classiques sont souvent considérés comme de simples ornements poétiques et ils ont longtemps été écartés de tout traitement dramaturgique. Tout d'abord, l'oracle était vu comme une contrainte imposée aux dramaturges du XVII*e* siècle par le texte-source ; une règle antique que les auteurs modernes s'efforçaient de respecter. En outre, l'oracle se vit attribuer la caractéristique d'ornement poétique destiné à renforcer la magnificence du spectacle. Enfin, le fait que l'oracle aille contre le principe de vraisemblance, s'inscrivant même dans la lignée des *dei ex machina*, acheva de l'écarter de la catégorie des procédés dramaturgiques. Bien sur, l'oracle est de l'ordre de l'invraisemblable ; « c'est même très exactement ce qui fait son intérêt » précise Bénédicte Louvat-Molozay [241]. En effet, il s'agit de la parole d'un dieu et elle est de ce fait chargée d'énigme. Le personnage tragique doit alors déchiffrer le message divin ou obéir à l'ordre que celui-ci contient.
 
@@ -573,15 +573,15 @@ Le troisième oracle sert de support à un nouveau nœud, ou plus précisément 
 Enfin, le quatrième oracle est celui qui correspond le plus à un véritable procédé dramaturgique puisqu'il organise la succession logique et chronologique entre deux actions. Cet oracle est d'abord évoqué par Pilade lors de son entretien avec Iphigénie où il pleure son ami qu'il croit mort (vers 595-597). Les informations concernant l'oracle sont réduites puisqu'elles se limitent à l'aspect expiatoire du voyage en Tauride. Cependant, les spectateurs ne savent pas encore quel crime Oreste veut purifier ni de quelle manière il doit s'y prendre. Cela n'est su qu'au moment où le personnage concerné revient sur les paroles d'Apollon (acte III, scène V). Dès lors, l'oracle premier est confirmé et il est sur le point de se réaliser. Les fonctions de l'oracle sont donc multiples et ce procédé peut être considéré comme une technique dramaturgique et une forme d'écriture théâtrale « admise à toutes les époques du théâtre classique et dans tous les genres [246] ».
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La première édition de *Oreste et Pilade* fut achevée d'imprimer le 20 mars 1699, soit un an et trois mois après la première représentation de la pièce au Théâtre de la rue des Fossés Saint-Germain, à Paris. C'est le marchand libraire Pierre Ribou qui prend un Privilège du Roi de huit années pour l'impression de cette pièce, dans le cadre de la publication du *Recueil des Tragédies du Sieur de la Grange*. La veuve de ce libraire, ainsi que son fils, se chargeront de la publication des *Oeuvres de M. de La Grange-Chancel revues et corrigées par lui-même*, en 1734. Par la suite, la Compagnie des libraires associés imprimera *Oreste et Pilade* au sein des Oeuvres complètes de La Grange-Chancel, en 1742 puis en 1758. Seuls sept exemplaires de l'édition première ont été conservés : trois d'entre eux sont compris dans des recueils factices intitulés *Les Œuvres de M. DeLaGrange*, comportant diverses tragédies choisies émanant de l'auteur, trois autres proposent la pièce seule et le dernier se trouvant à la Bibliothèque Universitaire des Lettres de Caen n'a pas été consulté. Précisons notamment que la pièce a été publié à Amsterdam par Desbordes en 1700, 1707 et 1709 mais nous ne prendrons pas en considération ces exemplaires que nous mentionnons juste. Les exemplaires que nous avons consultés sont subsumés sous les cotes suivantes.
 
 
-## Liste des ouvrages
+## Liste des ouvrages.
 
 
-### Pour les recueils factices
+### Pour les recueils factices.
 
 *8-RG-6390*, disponible à la bibliothèque de Richelieu, au Département des Arts du Spectacle de la Bibliothèque Nationale de France. Le volume comprend *Adherbal, roy de Numidie* (1694), *Oreste et Pilade* (1699), *Méléagre* (1699), *Athenaïs* (1699), *Amasis* (1701) et *Alceste* (1703).
 
@@ -590,7 +590,7 @@ La première édition de *Oreste et Pilade* fut achevée d'imprimer le 20 mars 1
 *RRA6=781*, volume disponible à la Réserve de la Sorbonne et qui comporte *Adherbal, roy de Numidie* (1694), *Oreste et Pilade* (1699), *Méléagre* (1699) et *Athenaïs* (1699).
 
 
-### Pour les pièces seules
+### Pour les pièces seules.
 
 *RES-YF-3939*, conservée au site Tolbiac de la Bibliothèque nationale de France.
 
@@ -611,7 +611,7 @@ V bandeau 8, 6 x 0, 5 / ACTEURS. / liste des Acteurs
 1-78 texte de la pièce, avec un titre courant constant : « ORESTE ET PILADE, » sur la page paire ; « TRAGEDIE. », sur la page impaire.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 La retranscription du texte a eu pour principe une fidélité maximale à l'édition imprimée. L'orthographe originale a été respectée, y compris dans le cas de formes concurrentes, à savoir : *Tauride / Thauride, flate / flatte, longtemps / long-tems / long-temps, plûtost / plutôt, à bout / about, aussi-tôt / aussi-tost, plusque / plus que, bon-heur / bonheur, rappellant / rapellant / r'appellant*. Ces variations graphiques n'ont pas une répartition significative au sein de la pièce, susceptible de faire apparaître l'exercice de plusieurs ouvriers. En outre, nous nous sommes strictement conformés à l'accentuation des mots telle qu'elle est pratiquée dans l'édition originale : les formes *déja* et *voila*, toutes deux attestées par Richelet, ont par exemple été maintenu. Enfin l'emploi des majuscules a été systématiquement suivi, aucune occurrence ne semblant fautive. Ainsi, seules les coquilles manifestes ont été rectifiées.
 
@@ -630,12 +630,12 @@ Comme nous l'avons mentionné, la pièce a été rééditée à trois reprises l
 Enfin, les notes de bas de page de la présente édition font régulièrement référence aux dictionnaires de l'Académie française, de Furetière et de Richelet : ils sont respectivement désignés par les abréviations (Acad.), (F) et (Ric.).
 
 
-## Coquilles corrigées
+## Coquilles corrigées.
 
 Jy / J'y (préface) ; ou / eu (préface) ; Scyches / Scythes (liste des personnages) ; inconnë / inconnuë (v. 74) ; grand / grands (v. 121) ; Souffres / Souffrez (v. 126) ; ANTENOR / ANTHENOR (entre v. 132 et v. 133) ; ces / ses (v. 136) ; Letemeraire / Le temeraire (v. 149) ; ANTENOR / ANTHENOR (liste des personnages : scène IV, I) ; pordonne / pardonne (v. 281) ; animer / animé (v. 550) ; Ciane / Cyane (v. 652) ; Remetsdans / Remets dans (v. 800) ; ORELTE / ORESTE (entre v. 905 et v. 906) ; Horrrible / Horrible (v. 930) ; offront / affront (v. 949) ; Ou / Où (v. 981) ; Pur / Pour (v. 990) ; un / blanc et signe incompréhensible (v. 1025) ; plae / place (v. 1025) ; nos / vos (v. 1114) ; 35 / 53 (pagination de l'édition originale) ; Ou / Où (v. 1180) ; versez / verser (v. 1267) ; 26 / 62 (pagination de l'édition originale) ; ou / où (v. 1348) ; Ses / Ces (v. 1390) ; secret, détours / secrets détours (v. 1456).
 
 
-## Correction des ponctuations
+## Correction des ponctuations.
 
 pour jurer, de / pour jurer de (v. 418) ; Verray-je l'Etranger Anthenor / Verray-je l'Etranger, Anthenor (v. 731) ; ORESTE, / ORESTE. (entre v. 883 et v. 884) ; privé / privé. (v. 1105) ; Dieux / Dieux. (v. 1109) ; toy / toy. (v. 1552)
 
@@ -664,7 +664,7 @@ pour jurer, de / pour jurer de (v. 418) ; Verray-je l'Etranger Anthenor / Verra
  ! au lieu de ? à la fin des vers 1422, 1423 et 1659.
 
 
-# ORESTE ET PILADE ; *TRAGEDIE.*
+# ORESTE ET PILADE ; *TRAGEDIE.*.
 
 
 ## Préface.
@@ -746,7 +746,7 @@ De ce sombre chagrin⁎ qui [274] peut être la cause ?
 Me seroit-il permis, sans sortir du devoir,  
 D'oser m'en informer ? Ne le puis-je sçavoir ? [275]  
 
-    THOAS
+    THOAS.
 Heureux qui sans remords, portant un Diadême,  
 N'a point à redouter la vangeance suprême,  
 Et n'est point obligé de conserver ce rang,  
@@ -1349,7 +1349,7 @@ Adieu.
 THOAS, ANTHENOR, HIDASPE.
 
 
-    THOAS *à Hidaspe.*
+    THOAS *à Hidaspe.*.
     Faites venir ce Grec.  
 
     ANTHENOR.
@@ -1644,7 +1644,7 @@ Que j'attens sa victime, et vais tout préparer.
 
 ### SCENE X.
 
-    IPHIGENIE *seule.*
+    IPHIGENIE *seule.*.
 Le Ciel a fait mon crime, il va le reparer ;  
 Dans le sang de ce Grec expions ma foiblesse ;  
 Allons par son trépas appaiser la Deesse.  
@@ -2097,7 +2097,7 @@ Croit-on m'épouvanter de menaces pareilles ?
     ORESTE.
 Qu'entens-je ! quelle voix vient fraper mes oreilles !  
 
-    HIDASPE *à Pilade.*
+    HIDASPE *à Pilade.*.
 Voyez ce Grec : domptez ses farouches esprits :  
 Sçachez quel est son nom : vos jours sont à ce prix.  
 
@@ -2864,7 +2864,7 @@ On menace mes jours, mon Peuple, mes Etats,
 Et mon lâche ennemy trouve qui [466] le protege.  
 Quel monstre dans ma Cour …  
 
-    TAXIS
+    TAXIS.
         Seigneur⁎, vous le diray-je,  
 Une impie, une ingrate, une fiere⁎ beauté,  
 Se vante, sans fremir, de cette impieté :  
@@ -3096,7 +3096,7 @@ Et de nostre bonheur faisons part au Sarmate.
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Dictionnaires cités :
 
@@ -3112,7 +3112,7 @@ Dictionnaires cités :
 **L**e succès de ma premiere Tragedie m'encouragea à chercher quelque sujet fameux dans l'Antiquité, qui répondît à l'idée que le Public sembloit avoir de mes talents. J'y étois d'autant plus excité, que j'avois été élevé dans l'opinion que la qualité d'Auteur ne convenoit à des Personnes d'un certain nom, que lorsqu'elles se distinguoient par leurs Ecrits. Je m'attachai d'abord à la lecture d'Euripide, où le celebre Racine avoit fait des moissons si avantageuses à la République des Lettres. Je crus avoir trouvé dans l'Iphigénie *in Tauris* le sujet que je desirois ; j'y vis des Scenes interessantes, qui sembloient ne me devoir coûter que la peine de les traduire ; mais j'avouë que j'y trouvai en même tems des difficultés capables de me détourner de mon entreprise. Je voyois d'un côté que le grand Corneille, dans ses Réflexions sur le Theâtre, met ce sujet au nombre de ceux qui ne peuvent être traités. D'un autre côté, j'entendois dire à M. Racine, qui ne me refusoit point ses bons avis, qu'il avoit été long-tems à se déterminer entre *Iphigénie sacrifiée* et *Iphigénie sacrifiante*, et qu'il ne s'étoit déclaré en faveur de la premiere, qu'après avoir connu que la seconde n'avoit point de matiere pour un cinquième Acte. Les anciens Poëtes ne faisoient point difficulté d'employer le secours d'une machine, quand les autres ressources leur manquoient. Mais ce qui étoit toleré parmi eux, feroit échoüer aujourd'hui la plus belle de nos Tragedies. Tout cela ne fut pas capable de me rebuter. Je vis que l'Episode d'Eriphile avoit été heureusement substituée par M. Racone à la Biche miraculeuse dont Euripide s'étoit servi pour sa catastrophe. Je crus que la Minerve qu'il employe également pour dénoüer sa seconde Tragedie, pouvoit être remplacée avec la même vraisemblance par une Princesse interessée à l'action principale, et capable de me fournir ce qui manquoit à mon sujet. Je trouvai dans le sujet même le caractere du Personnage que je cherchois ; et dès que j'eus fait cette découverte, qui fut aprouvée par M. Racine, je ne songeai plus qu'à l'exécution de mon projet. Le succès fut au delà de mes esperances. Mademoiselle de Champmelé, qui representoit Iphigénie dans un âge où l'on n'a plus les agrémens de la jeunesse, ne fit pas verser plus de larmes dans le rôle de M. Racine, qu'elle en fit verser dans le mien. Le Public eut le regret de la perdre dans le plus fort des representations de cette Tragédie, qui fut reprise l'année suivante avec le même succès par Mademoiselle Desmares, nièce de cette celebre Actrice, et digne héritiere de ses talens.
 
 
-# Annexe II- Variantes du texte original : correction du manuscrit de souffleur
+# Annexe II- Variantes du texte original : correction du manuscrit de souffleur.
 
 Les ratures du texte original sont signalées en caractère gras.
 
@@ -3121,10 +3121,10 @@ Les corrections pratiquées sur celles-ci sont soulignées.
 Les mots, les vers, ou les passages qui ne présentent aucune correction sur le manuscrit de souffleur mais qui sont différents de la version imprimée de 1699 sont indiqués en italiques.
 
 
-## Acte I
+## Acte I.
 
 
-### Scène I
+### Scène I.
 
 Thoas, Hidaspe, *Suite*.
 
@@ -3139,7 +3139,7 @@ Vers 100 : Je fis parler *du Dieu* le plus zelé ministre
 Vers 111 : Anthenor dont *je scais* la prudence et l'adresse
 
 
-### Scène II
+### Scène II.
 
 La suite a disparu de la liste des personnages présents sur scène.
 
@@ -3152,12 +3152,12 @@ Vers 146 : Portant dans vos Etats **l'outrage** et la terreur. => *la rage*.
 Vers 162 : Enlever la statuë, *et* vous perdre ou périr.
 
 
-### Scène III
+### Scène III.
 
 Vers 242 : **Par l'équité des Dieux avec aux injustices.** => *Tu veux par mon hymen combler tes injustices*.
 
 
-### Scène V
+### Scène V.
 
 Vers 267 : Je croy deja le voir **en amant** irrité => *furieux*.
 
@@ -3178,10 +3178,10 @@ Je vay le **renvoyer**, le charger d'une lettre.
 Vers 339 : Qu'aux mains d'Agamemnon **la sienne ira** remettre => *il jure de.*
 
 
-## Acte II
+## Acte II.
 
 
-### Scène I
+### Scène I.
 
 Vers 385 : L'élever **sur le** trône au mépris de vos droits => *Et* l'élever *au* trône au mépris de vos droits.
 
@@ -3190,7 +3190,7 @@ Vers 398-399 : Son Temple estoit fermé: Le Peuple vehement / Impatient d'entre
 Vers 432-433 : **Non non il n'a pas fait ce pas pour reculer / Mais il faut de son cours arreter la durée**. => *Et qu'il n'ait fait ce pas qu'afin de reculer* / *Non, non plus de pitié quand sa mort est jurée*.
 
 
-### Scène II
+### Scène II.
 
 Thoas, Thomiris, Anthenor, Hidaspe, Erine, **Taxis**.
 
@@ -3199,17 +3199,17 @@ Vers 447 : N'ont **point de mon devoir** écarté la justice => N'ont *jamais d
 Vers 486 : **Je te pourrais laisser paisible en mes Etats** => *Te laisseroit paisible occuper mes Etats.*
 
 
-### Scène III
+### Scène III.
 
 Thoas, Anthenor, Hidaspe, *Taxis*.
 
 
-### Scène IV
+### Scène IV.
 
 Thoas, Anthenor, Hidaspe, *Taxis*.
 
 
-### Scène V
+### Scène V.
 
 Vers 533 : Approche. Ce n'est plus ton nom **et** ta naissance => *ni*
 
@@ -3224,14 +3224,14 @@ Vers 552 : Jamais projet ne fut plus **saintement** formé => *dignement*.
 Vers 553 : *La gloire* armoit mon bras, les mers l'ont désarmé.
 
 
-### Scène VI
+### Scène VI.
 
 Thoas, Iphigénie, Pilade, Anthenor, Hidaspe, Taxis [481].
 
 Vers 568 : J'ouvrois à cet ingrat *les chemins* de la Grece.
 
 
-### Scène VII
+### Scène VII.
 
 Iphigénie, Pilade [482].
 
@@ -3244,25 +3244,25 @@ Vers 647-648 : rature complète : **Mais pourquoy déguiser le trouble de mon 
 Vers 668 : Ne portes pas plus loin la peine de **mon** crime => *ton*.
 
 
-## Acte III
+## Acte III.
 
 
-### Scène I
+### Scène I.
 
 Vers 723 : **Pour empescher l'hymen** troublons le sacrifice => *De l'hymen du tyran* troublons le sacrifice.
 
 
-### Scène IV
+### Scène IV.
 
 Vers 803-804 : En est il **dont je puisse estre ouy sans horreur** / O vous, dont la pitié **rallentit ma fureur** => En est il q*ui pour moy se laissent attendrir* / O vous, dont la pitié *daigne me secourir*.
 
 
-### Scène V
+### Scène V.
 
 Vers 854 : De forfaits inoüis devoit estre **remplie** => *suivie*.
 
 
-### Scène VI
+### Scène VI.
 
 Suite vers 918 : ajout d'un vers raturé = Comment et par quel sort des jours si respectez …
 
@@ -3277,7 +3277,7 @@ Vers 932 : Malheureuse famille ! O triste Iphigénie ! => *Déplorable*
 Vers 934-937 : Son sang qu'avec terreur l'Aulide vit couler / Qu'Agamemnon luy-mesme aux dieux fit immoler / Du sort de ce grand Roy n'a point veu la misere / Mais ciel ! Quelle a depuis couté cher a son Pere. => corrections manuscrites = version que l'on retrouve dans le texte imprimé de 1699.
 
 
-### Scène IX
+### Scène IX.
 
 A la suite du vers 1017 : ajout de 5 vers mais rayés et rendu illisibles.
 
@@ -3300,10 +3300,10 @@ Ta mort estonneroit ma timide vertu
 Vy, mon coeur t'en conjure au nom de la Prestresse.
 
 
-## Acte IV
+## Acte IV.
 
 
-### Scène I
+### Scène I.
 
 Vers 1063 : Mais où va le torrent de **ton** inquietude ? => *mon*
 
@@ -3312,12 +3312,12 @@ Vers 1066-67 : rature mais vers illisibles => *Pour couvrir autrefois les amour
 Vers 1069 : N'immole tu point l'autre **a** la mesme raison => *par*
 
 
-### Scène II
+### Scène II.
 
 Vers 1086 : Allons **luy dire**, allons haster nostre vangeance => correction manuscrite = Allons *Cyane*, allons haster nostre vangeance.
 
 
-### Scène III
+### Scène III.
 
 Vers 1099 : Elle en attend **l'offrande**, en presse la Justice => correction manuscrite = *la pompe*
 
@@ -3328,17 +3328,17 @@ Vers 1119 : **admirois** => *admire*
 Vers 1127 : **ma** couronne => *la* couronne
 
 
-### Scène IV
+### Scène IV.
 
 Vers 1150 : **Qu'entens je** ? Elle menace, et de ce Grec impie => *Quoy donc* !
 
 
-### Scène V
+### Scène V.
 
 Vers 1180-81 : Ou donc est l'Etranger ? par quelle **intelligence** / Thoas **refuse-t-il la victime a l'offence** ? => correction manuscrite = Ou donc est l'Etranger ? *et* par quelle *injustice* / Thoas *recule-t-il ce fatal sacrifice* ?
 
 
-### Scène VI
+### Scène VI.
 
 Iphigénie *à Pilade.*
 
@@ -3363,44 +3363,44 @@ Vers 1285-1286 : **Mon ame aprouveroit cette ardeur empressée / Et mesme en c
 Vers 1329 : Vivez Prince, étouffez de **criminels** souhaits => Vivez Prince, étouffez *d'inutiles* souhaits
 
 
-### Scène VII
+### Scène VII.
 
 Vers 1355-1356 : **Après de cet aveu la vérité suprême / Si tu doutes encor ne t'en prens qu'a toy mesme** => *Si tu veux t'obstiner dans ton erreur extrême*, / *Aprés un tel aveu ne t'en prend qu'à toy-même*.
 
 
-### Scène IX
+### Scène IX.
 
 Vers 1403 : Non il obéïra, *je répons* de son zele.
 
 
-## Acte V
+## Acte V.
 
 
-### Scène II
+### Scène II.
 
 Vers 1448 : Tout **saccorde** seigneur a vos empressements => Tout *succede* seigneur a vos empressements.
 
 
-### Scène IV
+### Scène IV.
 
 Vers 1497 : Ont tristement fait voir a mon ame **éperduë** => *abattuë*.
 
 
-### Scène V
+### Scène V.
 
 Vers 1571: Ouy, ce m'est un plaisir **du moins dans** ma disgrace => *qui flatte*.
 
 Ajout d'un vers après vers 1578  : **Thoas : Ah c'en est trop, il faut que ton sang …**
 
 
-### Scène VI
+### Scène VI.
 
 Taxis / **Ah** seigneur, (rayé et remplacé par *Venez*) / **De vous seul aujourd'huy depend vostre bonheur** => ajouté mais supprimé.
 
 Vers 1589 : Et toy dans ce Palais **retiens** mon ennemie. => *garde*.
 
 
-### Scène dernière
+### Scène dernière.
 
 Vers 1634 : Au(x) **efforts du barbare** oppose sa valeur => Aux *courage du Scythe* oppose sa valeur.
 
@@ -3436,7 +3436,7 @@ C'est la seconde version qui sera retenue pour la version imprimée de 1699.
 Le chiffre indique le montant de la recette rapportée [483].
 
 
-## Décembre 1697
+## Décembre 1697.
 
 1er : *Polixène* / *Le Grondeur* = 616, 15
 
@@ -3501,7 +3501,7 @@ Le chiffre indique le montant de la recette rapportée [483].
 31 : *D. Bertand* / *Le Charivari* = 485
 
 
-## Janvier 1698
+## Janvier 1698.
 
 **1er : *Oreste et Pilade*** / *Le Médecin malgré lui* = **1225**
 
@@ -3589,10 +3589,10 @@ ERINE |  | x | 8 v. | x | 10 v. | 18 vers 1, 08%
 Je me souviens que quelques mois avant que ma Tragédie fut en état d'être présentée aux Comédiens [484], toute la Cour étant à Chantilly, l'on vint me chercher de la part de Monsieur le Duc, et mon guide m'ayant conduit à un appartement qui étoit au troisième étage du Château, j'y trouvai ce Prince, avec le Comte de Fiesque, Racine et un Religieux vêtu de blanc, qui après m'avoir parcouru depuis les pieds jusqu'à la tête avec des regards où je voyois quelque chose de furieux, m'adressa ainsi la parole. « Ce que l'on m'a raconté de toi, a donné à Santeuil [485] la curiosité de te voir, et je ne puis m'empêcher de te plaindre, lorsqu'avec de si beaux talens pour la poësie, je vois que tu en profite si mal. Je n'ai pas crû, lui repartis-je, pouvoir mieux faire que de profiter des leçons que Monsieur Racine veut bien avoir la bonté de me donner. Il te gâte, jeune homme, repliqua le Moine, c'était entre les mains de Santeuil qu'un beau naturel comme le tien devoit tomber, et je t'aurois rendu après moi le plus habile homme du siecle pour la poésie latine. » A cette fougue la compagnie ne put s'empêcher de rire, et la bile de Santeuil se trouvant échauffée, tant par ces éclats de rire que par le vin qu'il ne s'étoit pas épargné. « Quoi, me dit-il avec emportement, serois-tu d'assez méchant goût pour ne pas préferer le plus petit ouvrage de Santeuil à toutes les Comédies de cet homme ? J'avouë, lui repartis-je, que vos ouvrages sont aussi parfaits dans leur genre, que ceux de Monsieur Racine le sont dans le leur, j'ai admiré surtout votre Santolius penitens ; mais puisque vous me permettez de vous dire naïvement ma pensée, j'ai encore trouvé la traduction qui en a été faite au dessus de l'original. » Racine étoit effectivement l'Auteur de la traduction que je venois de citer, quoi qu'il ne l'ait jamais avoüé qu'à ses amis particuliers ; je connus dans ses yeux le plaisir que ma repartie lui avoit fait. Il n'en fut pas de même de Santeuil, il se trouva tellement offensé et de ma hardiesse, et de ce que les rieurs étoient pour moi, qu'il prit une assiette dont il m'auroit fendu la tête si Monsieur le Duc ne lui avoit promptement saisi le bras. J'étois si enfant, et j'avoit été si effrayé de l'attitude du Moine, que je me mis à pleurer, ce qui obligea son Altesse de lui faire de severes réprimandes. Monsieur le Comte de Fiesque et Racine vinrent à moi pour m'apaiser ; et après m'avoir donné quelques truffes et rempli ma poche de confitures, ils me conduisirent jusqu'à l'escalier hors de l'appartement de Monsieur le Duc.
 
 
-# Annexe VI- Comparaison entre la pièce d'Euripide, Iphigénie en Tauride (vers 414 avant J.-C.) et celle de La Grange Chancel, Oreste et Pilade (1697)
+# Annexe VI- Comparaison entre la pièce d'Euripide, Iphigénie en Tauride (vers 414 avant J.-C.) et celle de La Grange Chancel, Oreste et Pilade (1697).
 
 
-## Personnages
+## Personnages.
 Euripide | La Grange-Chancel
 Iphigénie | Thoas
 Oreste | Iphigénie
@@ -3610,7 +3610,7 @@ Chœur de captives grecques | Cyane
 Les personnages communs aux deux pièces ont été mis en caractère gras.
 
 
-## Lieu
+## Lieu.
 
 Euripide : *Le temple d'Artémis, précédé d'un* Autel. deux lieux
 
@@ -3619,7 +3619,7 @@ La Grange-Chancel : *Anticire, dans le Palais de Thoas*
 La pièce antique présente donc deux lieux, du surcroît ouvert sur l'extérieur, tandis que la tragédie de 1697 propose un lieu unique, conforme à la notion classique d'unité de lieu, qui se trouve être plus précisément un appartement de Thoas.
 
 
-## Découpage de la pièce
+## Découpage de la pièce.
 Euripide | La Grange-Chancel
 **Prologue** : Iphigénie se présente en évoquant ses origines et son histoire personnelle [486]. + Elle revient sur l'épisode de son sacrifice à Aulis (// promesse d'Agamemnon de donner à Artémis ce que l'année avait produit de plus beau ; navires bloqués au port ; prise d'Hélène retardée ; invocation du devin Calchas ; mensonge à propos du mariage entre Achille et Iphigénie ; mise sur le bûcher ; intervention d'Artémis et arrivée en Tauride). + Brève présentation de Thoas qui est décrit comme un barbare et de son rôle au sein du temple => évocation d'une pratique ancienne qui consiste à consacrer les Grecs qui se présentent chez les Tauro-Scythes. L'origine de cette coutume n'est pas mentionnée. + Rêve d'Iphigénie qui a vu Oreste mort => Volonté de lui offrir des libations en guise de deuil. *Elle sort de scène pour entrer dans le temple.* | **Acte I** : **Scène première** : La pièce s'ouvre sur la préparation d'un hymen entre Thoas et Iphigénie. Évocation de la réticence d'Iphigénie à cette union. Insistance sur l'amour que Thoas voue à la prêtresse. + Rappel du contexte de la montée au pouvoir de Thoas, désigné par le défunt roi pour régner à sa place à condition d'épouser sa fille Thomiris. + Présence des Ambassadeurs. + Un Grec vient d'arriver en Tauride et va être sacrifier à la déesse Diane comme le veut la coutume => Thoas confie alors que cette coutume a été inventée par lui-même après avoir entendu l'oracle d'Apollon qui lui prédisait sa perte à la venue d'un dénommé Oreste. Pour assurer ses jours, il a préféré faire immoler tous les étrangers. + Départ d'Anthenor, un fidèle de Thoas, un an auparavant, pour la Grèce afin d'avoir des informations sur Oreste. Thoas aperçoit Anthenor qui est de retour.
 **Prologue 2** : Entrée d'Oreste et de Pylade. Ils arrivent *ensemble.* + Oreste explique d'emblée la raison de sa venue en Tauride. + Oreste formule l'idée de fuir face aux dangers que son entreprise représente. Mais Pylade l'en dissuade et il propose plutôt de se cacher en attendant de trouver une solution. Oreste accepte et reprend confiance. *Ils sortent.* | **Scène II** : Anthenor révèle l'identité d'Oreste, fils d'Agamemnon qui a tué sa propre mère Clytemnestre afin de venger la mort de son père. + Le jeune homme, décrit comme courageux, doit venir en Tauride enlever la statue de Diane pour expier son crime. + Thoas est persuadé que le Grec qui va être sacrifié n'est autre que cet Oreste. Il est alors soulagé.
@@ -3643,10 +3643,10 @@ Les éléments présents dans la tragédie d'Euripide et qui ont des échos dans
 Les éléments différents d'une pièce à l'autre n'ont pas de signalisation particulière.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions d'*Oreste et Pilade*
+## Éditions d'*Oreste et Pilade*.
     Oreste et Pilade
 Œuvres de Monsieur de La Grange-Chancel
 Oreste et Pylade
@@ -3659,7 +3659,7 @@ Les Œuvres de Monsieur de la Grange
 
 
 
-## Œuvres de La Grange-Chancel
+## Œuvres de La Grange-Chancel.
     Adherbal roy de Numidie
 Méléagre
 Athénaïs
@@ -3671,17 +3671,17 @@ Les Philippiques
 
 
 
-## Sources manuscrites
+## Sources manuscrites.
     Registres des Comédiens ordinaire du Roy
 Registres d'assemblée
 Registre des représentations données sur la scène de la Comédie-Française de 1680 à 1793
 
 
 
-## Sources imprimées antérieures à 1900
+## Sources imprimées antérieures à 1900.
 
 
-### Antiquité
+### Antiquité.
     La Bibliothèque
 La Poétique
 Tragédies complètes II
@@ -3693,7 +3693,7 @@ Enéide
 
 
 
-### XVIe – XIXe siècles
+### XVIe – XIXe siècles.
     La Pratique du théâtre
 Annales dramatiques, ou Dictionnaire général des théâtres
 Recherches sur les théâtres de France
@@ -3736,13 +3736,13 @@ Lettres à son fils
 
 
 
-## Sources imprimées postérieures à 1900
+## Sources imprimées postérieures à 1900.
     Electre
 Les Mouches
 
 
 
-## Travaux critiques
+## Travaux critiques.
     Histoire de la littérature française au XVIIe siècle
 Oreste
 The Greek Tragic Theatre
@@ -3768,7 +3768,7 @@ La Comédie-Française (1680-1716) : Public et folies dramatiquesProblèmes soc
 
 
 
-## Articles
+## Articles.
     Actes de Lexington 1993 : Pierre Charron : autour de l'année 1715 dans les “Mémoires” de Saint-Simon, la mort dans la littérature du XVIIe siècle
 Dix-septième siècle
 Theatrum Mundi : Studies in Honor of Ronald W. Tobin
@@ -3778,10 +3778,10 @@ Le théâtre tragique
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires
+### Dictionnaires.
     Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire de la langue française
@@ -3790,7 +3790,7 @@ Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles rem
 
 
 
-### Rhétorique, grammaire et ponctuation
+### Rhétorique, grammaire et ponctuation.
     Grammaire du français classique
 Syntaxe française du XVIIe siècle
 Introduction à la langue française du XVIIe siècle

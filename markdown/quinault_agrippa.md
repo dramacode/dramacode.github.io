@@ -17,7 +17,7 @@ A PARIS, Chez GUILLAUME DE LUYNE, Libraire-Juré, au Palais, dans la Salle des M
       master 1 sous la direction de Georges Forestier (1999)
 
 
-# Introduction
+# Introduction.
 
 Quinault fut, de son vivant, un auteur à succès. De nos jours, si ses pièces ne sont plus jouées, il reste l'un des « minores » les plus connus. Il figure dans les ouvrages consacrés au XVII*e* siècle, son nom généralement associé à celui de Thomas Corneille, et à la tragi-comédie. En outre, deux biographies et une bibliographie sont consacrées à sa vie et ses œuvres, et ses pièces sont, depuis une dizaine d'années l'objet d'éditions critiques [1]. Dans ces conditions, il ne nous a pas paru nécessaire de retracer, une fois de plus, la carrière brillante d'un auteur ayant su s'attirer les foudres de Boileau comme les louanges de Perrault. Nous avons voulu montrer comment, à l'apogée du classicisme, Quinault avait su capter les aspirations frivoles de ses contemporains.
 
@@ -26,7 +26,7 @@ S'inspirant de noms historiques, Quinault construit une intrigue fondée sur la 
 Ce sujet offrait la possibilité d'une réflexion sur la question de l'identité. Mais nous verrons en quoi, sous des apparences classiques propres à la tragédie, *Agrippa* se révèle comme une pièce galante, jouant des faux-semblants pour mieux séduire le public.
 
 
-# Contexte de la pièce
+# Contexte de la pièce.
 
 Lorsque cette nouvelle tragi-comédie parut, Quinault était déjà un auteur à succès, et déjà, on se moquait des invraisemblances de ses intrigues et du traitement des sources historiques de ses pièces. Lorsque l'on connaît l'origine du sujet d'*Agrippa*, il paraît évident que Quinault ne s'est absolument pas préoccupé de ces critiques.
 
@@ -49,14 +49,14 @@ On peut noter que Quinault, dès le début de son succès, s'était attaché à 
 La dédicace d'*Agrippa* est un modèle du genre et la flatterie y est portée à son plus haut point : « la Personne Auguste du plus accomply de tous les Monarques, & d'y voir briller de prés ces Vertus éclatantes qui font aujourd'huy l'admiration de toute la Terre ». Il est certain que le lecteur du XX*e* siècle s'étonnera de tant de flagornerie, mais la flatterie était le passage obligé de toute dédicace et celles qui furent composées par Corneille, Racine ou Molière sont tout aussi édifiantes.
 
 
-# Datation de la pièce
+# Datation de la pièce.
 
 *Agrippa*, tout comme *Les Rivales*, a été l'objet de nombreuses discussions quant à l'exactitude de l'année de la première représentation. Boscheron, son premier biographe, mentionne 1660 [6], tout comme D'Olivet et Titon du Tillet. Les Frères Parfaict, quant à eux, indiquent 1661 [7], date reprise par Leris. Loret, lui, dans sa gazette, écrit que *Agrippa* a été représentée en 1662.
 
 Etienne Gros [8] retient la date de 1662 en avançant des arguments que nous trouvons des plus convaincants. Tout d'abord, puisque la pièce a connu un très grand succès, pourquoi avoir attendu 1663 pour la publier ? En effet, même s'il est quelques exceptions, dont *La Comédie sans comédie* et *L'Amant indiscret*, au début de la carrière de Quinault, la publication suivait la pièce. Ensuite, les œuvres rencontrant un large succès bénéficiaient généralement d'une édition (légale ou non) en Hollande. Or, Abraham Wolfgang, qui a édité toutes les pièces de Quinault appréciées du public, et cela dans de brefs délais, n'édite *Agrippa* qu'en 1663. Enfin, dernier argument et non des moindres, la dédicace de la pièce est adressée à Louis XIV et il eut été peu délicat d'adresser à ce jeune roi, dont Quinault loue l'orgueil, une pièce vieille de deux ans. William Brooks qui a réalisé une bibliographie critique des œuvres de Quinault se rallie également à cette théorie. Nous en concluons donc que, la même année, furent jouées *Agrippa, le Faux Tibérinus* de Quinault et *Oropaste ou le Faux Tonaxare* de Boyer.
 
 
-# Polémique au sujet de cette « coïncidence »
+# Polémique au sujet de cette « coïncidence ».
 
 Ces deux pièces ont déjà fait l'objet d'une comparaison dans l'édition critique de la tragédie de Boyer par G. Forestier. À notre tour, nous nous sommes intéressés à ces troublantes similitudes. Ces pièces traitent toutes deux d'une substitution d'un roi par un de ses sujets. Dans les deux cas également, cette usurpation d'identité n'est pas de leur propre initiative mais de celle d'un parent, père ou frère.
 
@@ -101,7 +101,7 @@ Si Quinault s'était permis quelques libertés avec la bienséance externe, au d
 S'il est vrai que la tragi-comédie chez Quinault arbore un aspect régulier, elle n'en est pas moins différente de la tragédie. Du moins, de la tragédie en général, car les tragédies de Quinault ne sont rien moins finalement que des tragi-comédies à fin malheureuse [16]. Ne nous y trompons pas, H. Baby-Litot n'a parlé que d'un « habillage ». En réalité, elle considère qu'il y a tragi-comédie parce que, bien que donnant des effets de réel, d'imitation, la pièce se moque éperdument de la vérité, de la vraisemblance. Quinault emmène ses personnages en une île coupée du monde extérieur, digne de Watteau. Une île consacrée à l'amour, seul sujet de pleurs ou de joies. Tragédie, tragi-comédie, *Agrippa* est une fois de plus chez Quinault, un prétexte pour parler d'amour sur tous les tons.
 
 
-# Agrippa, pièce galante
+# Agrippa, pièce galante.
 
 Il écrit toujours tendrement :  
 Il conjugue Amo galamment.  
@@ -150,7 +150,7 @@ Il est admis que la femme peut (et doit) éprouver la valeur de l'amour de ses p
 L'amour est bien le sujet principal de la pièce mais trop d'amour tue l'amour et les personnages apparaissent bien seuls. Leur amour n'est pas un amour généreux. Il ne se tourne que vers l'aimé(e) et peut sembler bien égoïste. Dans leur quête de l'amour, les personnages oublient tout, excepté eux-mêmes dans la représentation qu'ils se font de leur personne.
 
 
-# Le déguisement
+# Le déguisement.
 
 Le thème du déguisement, source de quiproquos, de rebondissements, est fort en vogue au moment où Quinault compose *Agrippa*. Il a d'ailleurs traité ce thème à plusieurs reprises : *Alamasonte* en 1657, *Le Feint Alcibiade* en 1658. Mais, dans le cas d'Agrippa, il ne s'agit pas, pour le héros, de se faire passer pour un homme de classe inférieure [21] ou de se travestir [22]. Le faux Tibérinus n'est pas dans l'obligation de modifier son apparence. En effet, il est « tout semblable » à Tibérinus.
 
@@ -206,7 +206,7 @@ Luy dont je suis prêt d'aller trancher la trâme…
 Cependant, si cette attitude justifie la réussite de la supercherie, elle est fort peu plausible. En effet, quoiqu'il fasse dire à Tirrhene (le complot aurait permis de détourner d'éventuels soupçons pouvant peser sur l'identité du roi), Quinault rend peu probable une telle prise de risque. En fait, le complot était nécessaire à la construction dramatique afin d'éliminer le successeur légitime et assurer ainsi la réussite de l'entreprise.
 
 
-# Agrippa, le succès du déguisement
+# Agrippa, le succès du déguisement.
 
 C'est Agrippa qui met lui-même en péril le succès de son déguisement lorsqu'il veut révéler sa véritable identité à Lavinie [31]. Il se trouve alors face à une situation inextricable et douloureuse : à la vue de son amante, Agrippa ne peut s'empêcher de lui parler d'amour. Or, son entreprise est vouée à l'échec. En effet, si elle répond à cet amour, il est trahi, si elle le rejette, il est malheureux. Or, si Agrippa a accepté l'usurpation d'identité, c'est à seule fin d'empêcher que « Mézence devenu roi, il aurait pû être heureux en amour ». Mais, lui-même sur le trône, ne peut accéder au bonheur.
 
@@ -262,10 +262,10 @@ Les arguments de Tirrhene font mouche et Agrippa consent à rester sur le trône
 En effet, Mézence était, pour sa part, attaché au roi et, lors d'une entrevue avec Lavinie, il tente de justifier le meurtre d'Agrippa. Le fait que Mézence accepte d'assassiner le roi peut être envisagé comme une preuve d'amour mais nous pensons, pour notre part, qu'il faut également tenir compte de l'attitude humiliante du roi comme facteur déterminant dans cette décision.
 
 
-# Les enjeux du complot
+# Les enjeux du complot.
 
 
-## Amour et amour-propre
+## Amour et amour-propre.
 
 Les motifs avoués du complot sont liés à l'amour : Lavinie l'entend comme une preuve d'amour à son amant défunt, Mézence s'y résoud par amour pour Lavinie, Albine pour venger son frère. Mais la motivation des personnages provient en grande partie des offenses ressenties face à l'attitude du faux Tiberinus à leur égard. Pour s'en rendre compte, il suffit de relever les termes exprimant la colère et le mépris : « venger, sang, haine, dépit, honte, offense, colère, fureur » ; tous ces termes sont utilisés en abondance par le trio que forment Lavinie, Mézence et Albine. En quelques scènes, Agrippa semble agir et parler dans le seul but de s'attirer la haine de tous. Il est vrai qu'en cela, il est admirablement secondé par Tirrhene qui ne cesse d'exciter la colère des uns et des autres. Ainsi, c'est lui qui « révèle » le véritable motif du meurtre d'Agrippa : se débarrasser d'un rival, amoureux et politique, gênant.
 
@@ -302,7 +302,7 @@ S'est, à travers la haine, eschapé de vôtre ame [39].
 La conduite d'Agrippa est des plus offensantes pour Albine car il s'exprime sur un ton badin et feint d'ignorer les souffrances de la jeune femme. L'humiliation d'Albine est manifeste dans le registre utilisé pour exprimer ses sentiments : « honteuse estime, indignée, outrage, offensée… ».
 
 
-## Mensonges et mal-entendus
+## Mensonges et mal-entendus.
 
 Le mensonge est l'apanage de Tirrhene. Certes, Agrippa incarne la supercherie, mais il trompe par son apparence, non par ses mots. Aucun autre personnage ne ment et il n'y a pas véritablement de traître. En effet, si tous veulent la mort du roi (tout en feignant, comme Mézence, la soumission), personne ne veut la mort d'Agrippa et pas une seule personne ne vient révéler la supercherie. Même si Tirrhene ment et que, par son ambition forcenée, il manque provoquer la mort de son fils, il reste foncièrement un adjuvant puisque ses intentions sont destinées à cacher la substitution. Le jeu des apparences est d'ailleurs présent dans le registre lexical du regard et de la démonstration : « tu vas voir [40], vous montrent [41]… »
 
@@ -344,7 +344,7 @@ Si *Agrippa* fit les délices de la Cour du XVII*e* siècle, les critiques de l'
 Plus à l'aise dans le registre des *Questions d'amour* que dans celui du tragique, Quinault a su pourtant, approcher le pathétique lors, notamment, de la confrontation entre le héros, Tirrhene et Lavinie [48]. Mais il s'est contenté de laisser entrevoir une situation réellement tragique, sans se détacher de son goût pour la légèreté et les intrigues amoureuses. Il faut donc apprécier *Agrippa* pour ce qu'elle est, un marivaudage plaisant, un conte de fées, dont le dénouement est d'autant plus heureux que le péril fut grand.
 
 
-# Édition du texte
+# Édition du texte.
 
 Il n'existe aucun manuscrit des pièces de Quinault.
 
@@ -378,7 +378,7 @@ Les éditions parues après la mort de Quinault ne contiennent pas de différenc
 Nous avons fait la distinction moderne entre « u » et « v », « i » et « j ». Nous avons remplacé le tilde de par « m » ou « n », selon les cas. Nous avons toutefois conervé la ligature & et avons respecté la graphie et la ponctuation originales. Toutes les modifications qui nous ont semblé nécessaires sont signalées par des notes de bas de page.
 
 
-# Agrippa Roy d'Albe Ou le Faux Tiberinus
+# Agrippa Roy d'Albe Ou le Faux Tiberinus.
 
 
 ## Epistre Au Roy.
@@ -411,7 +411,7 @@ Les Exemplaires ont esté fournis.
 Signé, DUBRAY, Scyndic.
 
 
-## Acteurs
+## Acteurs.
  – LAVINIE,Princesse du Sang des Roys d'Albe.
  – ALBINE,Fille de Tirrhene, & sœur d'Agrippa.
  – CAMILLE,Confidente de Lavinie.
@@ -427,26 +427,26 @@ La scène est au Palais des Roys d'Albe, dans l'Appartement de Lavinie.
  
 
 
-## Acte I
+## Acte I.
 
 
-### Scène premiere
+### Scène premiere.
 Lavinie, Albine, Camille, Julie.
 
 
-    LAVINIE
+    LAVINIE.
 Vostre malheur au mien n'est pas à comparer,  
 Consolez-vous, Albine, & layssez-moy pleurer.  
 
-    ALBINE
+    ALBINE.
 Que vous connoissez peu la douleur qui m'emporte,  
 Si vous croyez la vostre, & plus juste & plus forte !   
 
-    LAVINIE
+    LAVINIE.
 Dans l'Illustre Agrippa massacré laschement,  
 Vous ne perdez qu'un frere, & j'y pers un amant.  
 
-    ALBINE
+    ALBINE.
 J'y pers un frere unique, & le mal qui m'accable,  
 Est d'autant plus cruel, qu'il est irreparable :   
 Mais pour vous en effet l'on doit vous plaindre moins ;  
@@ -454,7 +454,7 @@ Le Prince à vous aymer a mis ses plus grands soins :
 Et pour vous consoler vos yeux ont sceu vous faire  
 Beaucoup plus d'un amant, & je n'avois qu'un frere.  
 
-    LAVINIE
+    LAVINIE.
 J'avois plus d'un amant avant ce dur revers,  
 Mais je n'en aymois qu'un, Albine, & je le pers ;  
 Le Roy jusques au jour qu'il perdit vostre frere,  
@@ -462,7 +462,7 @@ Vous a parlé d'hymen, a tasché de vous plaire,
 Et le devant haïr, peut-estre en vostre cœur,  
 Un frere ne fait pas toute vostre douleur.  
 
-    ALBINE
+    ALBINE.
 Ne me soupçonnez point d'un sentiment si lasche ;  
 Ce coup d'avec le Roy pour jamais me destache ;  
 Et soüillé de mon sang, il me fait trop d'horreur,  
@@ -474,7 +474,7 @@ Aupres de mes malheurs, les vôtres sont bien doux.
 Pres d'un an escoulé depuis nostre disgrace,  
 Est pour vous consoler un assez long espace.  
 
-    LAVINIE
+    LAVINIE.
 Dites, dites pour vous, c'est bien plus aisement  
 Que l'on peut oublier un frere qu'un amant.  
 L'amour est bien plus tendre, en pareille avanture,  
@@ -486,7 +486,7 @@ La nature s'arrête, & n'a [55] plus rien à faire ;
 Mais l'Amour qui penetre au creux d'un monument [56],  
 Peut faire encore aymer, quand on n'a plus d'amant.  
 
-    ALBINE
+    ALBINE.
 Pour regretter mon frere, & croistre ma tristesse,  
 L'interest de ma gloire est joint à ma tendresse :  
 Des vieux ans de mon pere estant l'unique appuy,  
@@ -496,7 +496,7 @@ Mais c'est d'un peu trop loin pour en prendre avantage ;
 Vous, vous touchez au throsne, & la Fortune un jour,  
 Pourroit vous consoler des rigueurs de l'amour.  
 
-    LAVINIE
+    LAVINIE.
 Mon cœur est à l'amour, & non à la fortune ;  
 Je tiendrois maintenant la Couronne importune,  
 Et quand tout ce qu'on aime entre dans le tombeau,  
@@ -523,34 +523,34 @@ Et l'injuste assassin de mon illustre amant,
 Doit tout apprehender de mon ressentiment.  
 Mais qui s'approche,  
 
-    ALBINE
+    ALBINE.
         Adieu, c'est le Prince Mezence,  
 Son amour prés de vous ne veut pas ma presence.  
 
 
-### Scene II
+### Scene II.
 Lavinie, Mezence, Fauste, Camille.
 
 
-    LAVINIE
+    LAVINIE.
 Vous voyez de vos soins quel est pour moy le fruit,  
 Dés que vous m'abordez tout le monde me fuit [62] ?  
 
-    MEZENCE
+    MEZENCE.
 Si c'est moy qui fais fuir Albine qui vous quitte,  
 J'oste à vostre douleur, un objet qui l'irrite [63].  
 
-    LAVINIE
+    LAVINIE.
 Le neveu du Tyran qui fait tout mon malheur  
 Doit bien plustot encor irriter ma douleur.  
 
-    MEZENCE
+    MEZENCE.
 Par quelle cruauté, puny par vostre haine,  
 Sans avoir part au crime, ay-je part à la peine ?  
 Quand j'aurois de ma main fait perir vostre amant,  
 Pourriez-vous ma traitter plus inhumainement ?  
 
-    LAVINIE
+    LAVINIE.
 Et qui peut m'asseurer que vostre jalousie,  
 N'ait point poussé la main qui termina sa vie ?  
 Le Roy contre Agrippa n'estoit point irrité :  
@@ -558,7 +558,7 @@ Que sçay-je si son bras n'estoit pas emprunté ?
 Et n'a point immolé cette illustre victime,  
 Pour vous metre en estat de joüir de son crime ?  
 
-    MEZENCE
+    MEZENCE.
 Hier [64] le Roy sur ce point s'expliquant hautement,  
 Fit voir qu'il soupçonna la foy de vostre Amant,  
 Qu'il l'avoit fait si grand qu'il luy fut redoutable,  
@@ -570,7 +570,7 @@ Leur rapport estoit tel qu'on pouvoit s'y meprendre,
 Et qu'apres les avoir cent fois considerez,  
 Je m'y trompois, moy mesme, à les voir separez.  
 
-    LAVINIE
+    LAVINIE.
 La Nature oublia sans doute, en leurs visages,  
 Ce dehors different qu'on void dans ses ouvrages,  
 Et contre sa coustume elle ne mit jamais  
@@ -584,7 +584,7 @@ Que celle du Tyran est perfide, & cruelle,
 Et ce Heros receut bien plustost le trepas,  
 Parce qu'à ce Barbare, il ne ressembloit pas.  
 
-    MEZENCE
+    MEZENCE.
 Ce transport violent n'a rien de condemnable ;  
 Le Roy mesme envers vous sent bien qu'il est coupable :  
 Hier, pour le recevoir, m'estant fort avancé,  
@@ -594,19 +594,19 @@ Où [67] la mort d'Agrippa vous plonge encore sans cesse,
 Je l'oüis soupirer, je le vis s'esmouvoir,  
 Et pour vous consoler, il promit de vous voir.  
 
-    LAVINIE
+    LAVINIE.
 Ah ! C'est le dernier mal qui me restoit à craindre !  
 Ce cruel à le voir pretend donc me contraindre !  
 Et pour nouveau tourment, veut offrir à mes yeux  
 Une main teinte encor d'un sang si précieux !  
 
-    MEZENCE
+    MEZENCE.
 Dans le premier combat, au gré de votre haine,  
 Un trait fatal perça cette main inhumaine ;  
 Et le Destin fit voir par ce coup mérité,  
 Qu'on ne peut vous déplaire avec impunité.  
 
-    LAVINIE
+    LAVINIE.
 Les Dieux justes vengeurs du sang de l'Innocence,  
 N'ont fait encor sur luy, qu'esbaucher leur vengeance ;  
 Et le trait dont sa main a senty le pouvoir,  
@@ -617,7 +617,7 @@ Redoutez que ces Dieux, dans leur juste couroux,
 N'estendent leur vengeance & leurs traits jusqu'à vous.  
 Mais vous n'en croyez point [68], & vous en faites gloire.  
 
-    MEZENCE
+    MEZENCE.
 Si je n'en ay pas cru, je commence d'en croire :  
 Je me sens convaincu, graces à vos beautez,  
 Que l'on doit de l'encens à des Divinitez :  
@@ -630,7 +630,7 @@ De ne pas connoistre tous les Dieux qu'on adore,
 Pres de Vous, quelque erreur dont on soit prevenu,  
 L'Amour n'est pas un Dieu qui puisse estre inconnu.  
 
-    LAVINIE
+    LAVINIE.
 Quoy qu'il en soit, Prince, à ne rien vous taire ;  
 Agrippa n'estant plus, rien ne me sçauroit plaire,  
 Le Ciel dans ce [69] Heros prit soin de renfermer  
@@ -640,17 +640,17 @@ N'attacha qu'à luy seul tous [70] les vœux de mon Ame ;
 On ne doit à l'Amour qu'un tribut à son choix,  
 Et c'est trop pour un cœur d'aymer plus d'une fois.  
 
-    MEZENCE
+    MEZENCE.
 Je n'en sçaurois douter, inhumaine Princesse :  
 Cet amant seul a pris toute vostre tendresse,  
 Et reservant pour moy toute votre rigueur,  
 Son ombre encor suffit pour m'oster votre cœur :  
 Vostre couroux s'accroist, plus mon amour esclatte.  
 
-    LAVINIE
+    LAVINIE.
 Perdez donc cet amour.  
 
-    MEZENCE
+    MEZENCE.
         Le perdre ! Helas ingratte !  
 Plustost tousjours pour moy, gardez ce fier couroux,  
 Et laissez moy du moins l'amour que j'ay pour vous,  
@@ -661,7 +661,7 @@ Le vostre est d'estre aymable, & le mien est d'aymer :
 Mais vous n'escoutez point, & vos yeux qui s'agittent  
 Lassez de mes regards, avec soin les evitent.  
 
-    LAVINIE
+    LAVINIE.
 Voicy de mon amant le Pere infortuné,  
 Quelque soucy le presse [71], il paroit estonné [72].  
 
@@ -670,19 +670,19 @@ Quelque soucy le presse [71], il paroit estonné [72].
 Tirrhene, Lavinie, Mezence,Fauste, Camille.
 
 
-    TIRRHENE *à Mezence*
+    TIRRHENE *à Mezence*.
 Ne vous offencez [73] pas, Seigneur, si je m'avance,  
 J'apporte à Lavinie un advis d'importance :  
 Et je viens l'avertir que l'on m'a fait sçavoir,  
 Que le Roy va sortir à l'instant pour la voir.  
 
-    LAVINIE *à Mezence*
+    LAVINIE *à Mezence*.
 Ah ! Prince, si vostre Ame à ma peine est sensible,  
 Empeschez qu'on m'expose à ce tourment horrible,  
 Et tâchez par vos soins d'espargner à mes yeux,  
 Le supplice [74] de voir cet objet odieux.  
 
-    MEZENCE
+    MEZENCE.
 Mon plus ardent desir est celuy de vous plaire,  
 Et de tout mon pouvoir je cours vous satisfaire.  
 
@@ -691,7 +691,7 @@ Et de tout mon pouvoir je cours vous satisfaire.
 Tirrhene, Lavinie, Camille.
 
 
-    TIRRHENE
+    TIRRHENE.
 Le Prince entreprendra de l'arrester en vain ;  
 Je ne connois que trop ce Tiran [75] inhumain :  
 Son ame violente en ses desirs persiste,  
@@ -701,10 +701,10 @@ Je doute que chez vous par force il ose entrer,
 Il ne passera point à cette audace extréme.  
 Ce Meschant [76] craint le peuple, & le peuple vous ayme.  
 
-    LAVINIE
+    LAVINIE.
 Mais pour vous …  
 
-    TIRRHENE
+    TIRRHENE.
         Que peut craindre un Pere desolé ?  
 Le plus beau de mon sang par ses mains a coulé ;  
 Pour le peu qui m'en reste, il faut peu me contraindre,  
@@ -717,7 +717,7 @@ Gardez qu'il ne vous voye, il vient, retirez-vous.
 Agrippa, sous le nom de TiberinusMezence, Lauzus, Atis, Tirrhene
 
 
-    AGRIPPA*à Mezence*
+    AGRIPPA*à Mezence*.
 Qu'on ne m'en parle plus, je veux voir Lavinie.  
 Mezence se retire
 
@@ -731,13 +731,13 @@ A Atis
 Que le reste s'esloigne, & devant que je sorte [78]  
 Qu'aucun n'entre en ce lieu …quoy ! l'on ferme la porte !  
 
-    TIRRHENE
+    TIRRHENE.
 Ouy, l'on la ferme, Ingrat, & c'est par mes avis.  
 
-    AGRIPPA
+    AGRIPPA.
 Mon Pere …  
 
-    TIRRHENE
+    TIRRHENE.
         A peine en vous je reconnoy mon Fils [79].  
 Nous sommes sans tesmoins, je parle en asseurance.  
 Quoy ! chercher Lavinie, & contre ma deffence !  
@@ -747,7 +747,7 @@ Ne vous souvient-il plus que c'est par ma prudence,
 Que vous tenez icy la supresme puissance ?  
 Et que vous ne vivez, ny regnez que par moy ?  
 
-    AGRIPPA
+    AGRIPPA.
 Je n'ay rien oublié de ce que je vous doy.  
 Lorsque pour r'assurer la Frontiere alarmée,  
 Tiberinus pressé de joindre son armée,  
@@ -762,7 +762,7 @@ J'ay trompé tout le Camp, & m'y suis rendu maistre,
 Pour mieux feindre, en ces lieux retournant sur vos pas,  
 Vous avez au Roy mesme imputé mon trépas …  
 
-    TIRRHENE
+    TIRRHENE.
 Mais lorsque pour tenir l'entremise couverte,  
 Je vous quitay, pour feindre encor mieux vôtre perte,  
 Et pour en accuser la main mesme du Roy,  
@@ -779,37 +779,37 @@ Il faloit sur le Throne estouffer cette flame ;
 Il faloit commencer à regner dans vostre ame,  
 Estre Roy tout à fait & sçavoir reprimer…  
 
-    AGRIPPA
+    AGRIPPA.
 Pour estre Roy, Seigneur, est-on exempt d'aymer !  
 Pour avoir pris un Sceptre en est-on moins sensible ?  
 Le Throne aux trais d'Amour est-il inaccessible ?  
 Pensez-vous qu'à ce Dieu les Rois ne doivent rien ?  
 Et qu'il soit quelqu'Empire independant du sien ?  
 
-    TIRRHENE
+    TIRRHENE.
 Ah ! quittez ces erreurs : l'Amour, & ses chimeres,  
 Sont des amusements pour des Ames vulgaires,  
 La foiblesse sied mal à qui donne des loix,  
 Et la seule grandeur est l'amour des grands Rois.  
 Agissez comme eust fait Tiberinus luy mesme.  
 
-    AGRIPPA
+    AGRIPPA.
 Mais il aymoit ma Sœur, voulez-vous que je l'ayme ?  
 Que je presse [82] un himen horrible, incestueux ?  
 
-    TIRRHENE
+    TIRRHENE.
 Non, un crime de vous n'est pas ce que je veux.  
 L'heur de vous voir au thrône à mes vœux peut suffire ;  
 Mais ne hasardez point cette gloire où j'aspire,  
 Je veux que mon sang regne, & c'est ma passion.  
 
-    AGRIPPA
+    AGRIPPA.
 Quel mal fait mon amour à vostre ambition ?  
 Lavinie est le charme où mon âme est sensible,  
 Son Cœur avec le Sceptre est-il incompatible ?  
 Quel peril voyez-vous à luy tout reveler ?  
 
-    TIRRHENE
+    TIRRHENE.
 Elle est jeune, elle est fille, & pourroit trop parler.  
 Fiez-vous à moy seul : tout m'alarme, & me blesse, [83]  
 Tout m'est suspect d'ailleurs, l'Amour, vous, la Princesse,  
@@ -822,7 +822,7 @@ Que Lavinie en vous reconnoit son Amant.
 Pour mieux garder le sceptre, il faut soufrir sa haine,  
 Et payer à ce prix la grandeur Souveraine.  
 
-    AGRIPPA
+    AGRIPPA.
 Ah ! Vous n'estimez point ce prix si grand qu'il est,  
 Et le Sceptre n'est pas si doux qu'il vous paroist.  
 Depuis que votre soin à qui je m'abandonne,  
@@ -838,7 +838,7 @@ Lors que d'un trait fatal j'eus cette main percée,
 Comme si le Ciel juste eust voulu la punir  
 Du Sceptre desrobé qu'elle osoit soutenir.  
 
-    TIRRHENE
+    TIRRHENE.
 Ne craignez rien du Ciel, il vous est favorable,  
 Bien qu'à Tiberinus vous soyez tout semblable :  
 Les tesmoins de sa mort pouvoient vous descouvrir,  
@@ -864,13 +864,13 @@ Mezence en est indigne, & le Ciel vous la donne ;
 Et puis qu'icy les Roys sont les portraits des Dieux,  
 Faites en un en vous qui leur ressemble mieux.  
 
-    AGRIPPA
+    AGRIPPA.
 Le throsne eust pu changer les injustes maximes ;  
 Respectons sa naissance, en detestant ses crimes ;  
 Noircy d'impietez, de meurtres, d'attentats,  
 Il sort tousjours d'Ænée [84].  
 
-    TIRRHENE
+    TIRRHENE.
         Et n'en sortons nous pas ?  
 Le sang des Dieux qu'Ænée a transmis à sa race,  
 Dans le cœur de Mezence & s'altere & s'efface ;  
@@ -889,21 +889,21 @@ Et puis qu'il veut enfin emprunter vostre teste,
 Souffrez y la Couronne, & vous representez  
 Que c'est à tous les Dieux à qui vous la prestez.  
 
-    AGRIPPA
+    AGRIPPA.
 Accomodez [86] ma flame avec le Diademe.  
 Je consens à regner, mais consentez que j'aime.  
 
-    TIRRHENE
+    TIRRHENE.
 L'amour de Lavinie expose trop nos jours,  
 Si vous voulez aimer, prenez d'autres amours.  
 
-    AGRIPPA
+    AGRIPPA.
 Je ne sçaurois rien voir de plus aimable qu'elle.  
 
-    TIRRHENE
+    TIRRHENE.
 Regardez la Couronne, elle est encor plus belle.  
 
-    AGRIPPA
+    AGRIPPA.
 Je suis amant, Seigneur, & vous ambitieux,  
 Et nous ne voyons pas avec les mesmes yeux.  
 Le Sceptre que j'ay pris ne m'a jamais sceu plaire  
@@ -911,16 +911,16 @@ Qu'autant qu'à mon amour je l'ay cru necessaire :
 Mezence estoit amant, en mesme lieu que moy,  
 Et pouvoit estre heureux s'il fût devenu Roy.  
 
-    TIRRHENE
+    TIRRHENE.
 Il garde encor ses feux, gardez le Diadesme.  
 
-    AGRIPPA
+    AGRIPPA.
 Mais sous le nom du Roy du moins soufrez que j'aime.  
 
-    TIRRHENE
+    TIRRHENE.
 Sous ce nom odieux vous serez mesprisé [87].  
 
-    AGRIPPA
+    AGRIPPA.
 Ah ! qu'un mespris est doux, sous un nom supposé !  
 Caché sous les faux trais d'un Prince, où Lavinie  
 Ne croit voir qu'un Tyran qui m'arracha la vie,  
@@ -931,7 +931,7 @@ Son couroux me doit estre une faveur extreme,
 Et pour mieux m'exprimer sa tendresse, en ce jour,  
 La haine servira d'interprette à l'amour.  
 
-    TIRRHENE
+    TIRRHENE.
 Hé bien, flattez vos feux de cette douceur vaine,  
 Et perdant son amour joüissez de sa haine,  
 Sondez jusqu'où pour vous son cœur est enflamé,  
@@ -953,28 +953,28 @@ Dites que mes conseils ont fait fuir Lavinie,
 Menacez, & d'abord m'ordonnez en couroux,  
 De n'aprocher jamais ny d'elle ny de vous.  
 
-    AGRIPPA
+    AGRIPPA.
 De ce que je vous doy faire si peu de conte !  
 
-    TIRRHENE 
+    TIRRHENE.
 Un mepris qui vous sert ne me peut faire honte :  
 Je vous deffends moy-mesme icy de m'espargner ;  
 Ma veritable gloire [89] est de vous voir regner.  
 Fin du premier Acte. 
 
 
-## Acte II
+## Acte II.
 
 
-### Scène première
+### Scène première.
 Albine, Julie.
 
 
-    JULIE
+    JULIE.
 Ce Palais n'est pour vous qu'un objet de tristesse.  
 Pouvez-vous y rentrer ?  
 
-    ALBINE
+    ALBINE.
         C'est pour voir la Princesse.  
 L'amitié, tu le sçais, nous unit fortement,  
 Au frere que je pers, elle perd un amant,  
@@ -985,38 +985,38 @@ Et sentant aujourd'huy tous mes maux s'augmenter,
 J'en veux aller chez elle adoucir l'amertume.  
 Mais la porte est fermée, & contre la coutume.  
 
-    JULIE
+    JULIE.
 Peut-être, que le Roy de son deüil adverty,  
 Est entré pour la voir, & qu'il n'est pas sorty.  
 
-    ALBINE
+    ALBINE.
 S'il est vray, je l'attens, & pleine de furie,  
 Je veux luy reprocher sa lasche barbarie,  
 Et dans l'ennuy mortel dont mon cœur est pressé,  
 Luy demander raison du sang qu'il a versé.  
 Je veux enfin : mais Dieux ! puis-je bien t'en instruire ?  
 
-    JULIE
+    JULIE.
 Qui vous fait hesiter , craignez-vous de me dire  
 Que vous le hayssez ? & qu'un couroux puissant …  
 
-    ALBINE
+    ALBINE.
 Pour dire que l'on hait [90] l'on n'hesite pas tant.  
 
-    JULIE
+    JULIE.
 Le meurtrier d'un frere à qui le sang vous lie,  
 Pourroit vous plaire encor ?  
 
-    ALBINE
+    ALBINE.
         J'en ay bien peur, Julie :  
 Et mon mal à tes yeux cherche à se découvrir,  
 Afin que tes conseils m'aident à m'en guérir.  
 L'ingrat ! qu'il me fut doux autrefois [91] de luy plaire !  
 
-    JULIE
+    JULIE.
 Songez que maintenant il vous prive d'un frere.  
 
-    ALBINE
+    ALBINE.
 Il m'oste beaucoup plus encor que tu ne crois ;  
 Il m'a ravy mon frere, & son cœur, à la fois.  
 Depuis le coup fatal dont mon Pere l'accuse,  
@@ -1024,10 +1024,10 @@ Je n'ay point de sa part receu la moindre excuse,
 L'ingrat pour m'appaiser, n'a pris aucun soucy,  
 Et si mon frere est mort, son amour l'est aussi.  
 
-    JULIE
+    JULIE.
 Vous ne devez pleurer qu'un frere plein de gloire.  
 
-    ALBINE
+    ALBINE.
 Il m'estoit cher, Julie, & plus qu'on ne peut croire.  
 Pour un frere jamais le sang avec chaleur,  
 Ne mit tant de tendresse en l'âme d'une sœur,  
@@ -1044,11 +1044,11 @@ Quand j'en donne au devoir, le dépit [92] m'en arrache :
 Et l'amour, malgré moy, meslé dans mes douleurs,  
 Partage, avec le sang, mes soupirs & mes pleurs.  
 
-    JULIE
+    JULIE.
 Rappellez, pour hair cet assassin d'un frere,  
 Ce que de ses fureurs [93] raconte vostre Pere.  
 
-    ALBINE
+    ALBINE.
 Mon Pere à le haïr tâche de m'animer ;  
 Mais luy mesme autrefois m'ordonna de l'aymer.  
 Si j'ayme injustement, j'aimay d'abord sans crime,  
@@ -1060,36 +1060,36 @@ Et dés qu'on a soufert qu'un premier s'allume,
 Julie, on s'aperçoit qu'il est si doux d'aymer,  
 Qu'on peut malaisément s'en desacoutumer.  
 
-    JULIE
+    JULIE.
 Je n'ose avoir pour vous l'injuste complaisance,  
 D'excuser laschement un feu qui vous offence,  
 Ce seroit vous trahir que vouloir vous flatter.  
 
-    ALBINE
+    ALBINE.
 Je ne t'ay dit mon mal que pour y resister,  
 Et seule estant trop foible à combattre ma flame,  
 J'appelle tes conseils au secours de mon ame.  
 
-    JULIE
+    JULIE.
 Pour fuir ce feu funeste, & trop honteux pour vous,  
 Il faut…  
 
-    ALBINE
+    ALBINE.
         N'acheve pas, mon Pere vient à nous.  
 
 
-### Scene II
+### Scene II.
 Tirrhene, Albine, Julie.
 
 
-    TIRRHENE
+    TIRRHENE.
 O dure tirannie ! ô rigueur inhumaine !  
 Viens prendre part, Albine, à l'excez de ma peine.  
 
-    ALBINE
+    ALBINE.
 Qui peut causer, Seigneur [94], le trouble où je vous voy ?  
 
-    TIRRHENE
+    TIRRHENE.
 Un outrage nouveau que j'ay receu du Roy.  
 Mais, Julie, observez si l'on peut nous entendre,  
 Sans plainte & sans transports je ne puis te l'aprendre,  
@@ -1108,7 +1108,7 @@ Je n'ouvre plus les yeux que pour verser des larmes ;
 Mais te voyant encor, & jeune, & sans secours,  
 Je doy prendre pour toy quelques soins de mes jours.  
 
-    ALBINE
+    ALBINE.
 Puis qu'on ne vous deffend que de voir Lavinie,  
 Daignez donc prendre encor ce soin pour vostre vie ;  
 Ou si vous la voyez, engagez la, Seigneur,  
@@ -1116,13 +1116,13 @@ A voir du moins le Roy pour calmer sa fureur,
 Et de peur que sur vous, sa cruauté n'esclatte,  
 Par quelques faux respects soufrez qu'elle le flatte.  
 
-    TIRRHENE
+    TIRRHENE.
 Tu veux que je l'engage à flatter son amour !  
 
-    ALBINE
+    ALBINE.
 Son amour !  
 
-    TIRRHENE
+    TIRRHENE.
         Ce secret enfin paroist au jour.  
 Il vouloit aborder la Princesse sans suitte ;  
 Et brulant de depit de voir qu'elle l'evite,  
@@ -1137,26 +1137,26 @@ Un feu qui de ton frere a fait trancher la vie,
 Et mettre enfin, de peur de le suivre au Tombeau,  
 Le cœur de sa Maitresse aux mains de son boureau [96] !  
 
-    ALBINE
+    ALBINE.
 Non, cette lacheté, Seigneur, seroit infame ;  
 Opposez vous plustost à cette indigne flame,  
 Irritez Lavinie, & tâchez aujourd'huy,  
 De redoubler encor l'horreur qu'elle a pour luy.  
 
-    TIRRHENE
+    TIRRHENE.
 C'est aussi maintenant le soucy qui me presse.  
 
-    ALBINE
+    ALBINE.
 Mais c'est vous exposer que de voir la Princesse ;  
 Le Tiran vous perdra, s'il vient à le sçavoir,  
 Et sans aucun peril je puis encor la voir.  
 Laissez moy tout le soin d'animer son courage.  
 
-    TIRRHENE
+    TIRRHENE.
 Va donc, parle, agis, presse ; & mets tout en usage  
 Pour nuire à ce Barbare, & le faire haïr.  
 
-    ALBINE
+    ALBINE.
 Je vous respons [97], Seigneur, de vous bien obeïr [98].  
 Ouy, Julie, en effet je vais me satisfaire,  
 Et servir à la fois mon depit, & mon pere,  
@@ -1168,7 +1168,7 @@ Mais on ouvre chez elle, & je la voy qui sort.
 Lavinie, Albine, Camille, Julie.
 
 
-    LAVINIE
+    LAVINIE.
 J'allois vous voir, Albine, & confuse & troublée,  
 Vous dire un nouveau mal dont je suis accablée.  
 Le fier Tiberinus contre moy declaré,  
@@ -1176,33 +1176,33 @@ Soüillé qu'il est du sang d'un Heros adoré,
 Par une cruauté qui toujours continuë,  
 Veut encor m'exposer à l'horreur de sa vuë.  
 
-    ALBINE
+    ALBINE.
 Sa fureur va plus loin que d'offrir à vos yeux,  
 Le bras qui fit couler un sang si precieux :  
 Il porte plus avant son injuste extreme.  
 
-    LAVINIE
+    LAVINIE.
 Que peut-il faire plus le Barbare ?  
 
-    ALBINE
+    ALBINE.
         Il vous aime.  
 
-    LAVINIE
+    LAVINIE.
 Ah ! de quel coup affreux frappez-vous [99] mes esprits !  
 
-    ALBINE
+    ALBINE.
 Mon pere qui l'a sceu me l'a luy-mesme apris ;  
 Et sans un ordre exprés de fuir vostre presence,  
 Il vous en eust donné la fatale asseurance.  
 Ce feu perdit mon frere, & luy cousta le jour.  
 
-    LAVINIE
+    LAVINIE.
 Helas ! luy-mesme, Albine, ignoroit mon amour.  
 Tousjours, un fier orgueil, tant qu'a vescu ton [100] frere,  
 S'il m'a permis d'aymer, m'a contrainte à le taire,  
 J'ay caché tous mes feux avec des soins trop grands…  
 
-    ALBINE
+    ALBINE.
 Ah ! qu'un Rival jaloux à les yeux penetrans !  
 Il aura, malgré vous, esclairé par sa flame,  
 Surpris dans vos regars, le secret de vostre Ame,  
@@ -1217,12 +1217,12 @@ Vous a sceu malgré vous, engager dans son crime,
 Et perdant ce Heros par un jaloux transport,  
 A rendu vostre amour complice de sa mort [101].  
 
-    LAVINIE
+    LAVINIE.
 A ce penser horrible, à cette affreuse Image,  
 Vous me voyez fremir & d'horreur, & de rage.  
 Ah Barbare ! ah Tiran ! tremble, & crains ma fureur.  
 
-    ALBINE
+    ALBINE.
 Vous ne sçauriez pour luy, concevoir trop d'horreur.  
 Il est digne en effect de toute vostre haine.  
 Ouy, pour cét inhumain rendez-vous inhumaine.  
@@ -1237,7 +1237,7 @@ Pour punir ce Tiran il suffit qu'il vous ayme,
 Et l'amour dont son Cœur suit l'empire aujourd'huy,  
 Est du moins un Tiran aussi cruel que luy.  
 
-    LAVINIE
+    LAVINIE.
 Ce n'est pas où je veux que ma haine en demeure,  
 Elle ira bien plus loin, Albine, il faut qu'il meure.  
 Le sang qu'il a versé demande tout le sien,  
@@ -1253,10 +1253,10 @@ Ce jour est le dernier qui doit luyre à ses yeux.
 Je brule dans sa mort de gouster l'avantage…  
 Mais quel soudain effroy paroist sur ton [103] visage ?  
 
-    ALBINE
+    ALBINE.
 Je tremble des perils où vous semblez courir.  
 
-    LAVINIE
+    LAVINIE.
 Quoyque que puisse un Tiran, du moins il peut mourir.  
 L'Amour au desespoir ne void rien d'impossible.  
 Tiberinus n'a pas un cœur inaccessible ;  
@@ -1270,18 +1270,18 @@ Mais le Roy va passer.
 Les gardes paroissent.
 
 
-    ALBINE
+    ALBINE.
         Evitez ce Barbare.  
 Lavinie rentre & Albine continuë.
 
 L'ingrat merite assez le sort qu'on luy prepare,  
 Et toutefois…  
 
-    JULIE
+    JULIE.
         Songez vous mesme à l'eviter,  
 Il vient.  
 
-    ALBINE
+    ALBINE.
         Si je le voy, c'est pour mieux m'irriter.   
 
 
@@ -1289,19 +1289,19 @@ Il vient.
 Agrippa, Albine, Julie, suitte.
 
 
-    AGRIPPA
+    AGRIPPA.
 Le sort m'offre un bonheur où je n'osois pretendre,  
 Je sçay quels sentimens pour moy vous devez prendre,  
 Madame, & j'avoüeray que le bien de vous voir,  
 Estoit une douceur qui passoit mon espoir.  
 
-    ALBINE
+    ALBINE.
 Il n'est pas mal-aisé de connoistre à mes larmes,  
 Ce qu'au bien de me voir vos yeux trouvent de charmes :  
 Et d'un frere meurtry [105] tout le sang épanché  
 Montre à quel poinct pour moy, vôtre cœur est touché.  
 
-    AGRIPPA
+    AGRIPPA.
 Je ne suis point surpris de voir vostre colere,  
 Je vous ay fait outrage en vous ostant un frere ;  
 De ses traits & des miens le merveilleux [106] raport  
@@ -1309,7 +1309,7 @@ Ne sçauroient envers vous justifier sa mort ;
 Tout ce que d'une erreur on avoit lieu de craindre,  
 Ny l'interest d'Estat…  
 
-    ALBINE
+    ALBINE.
         Non, non, cessez de feindre.  
 Je sçay quel interest fut en vous le plus fort ;  
 L'Estat moins que l'amour eut part à cette mort ;  
@@ -1317,14 +1317,14 @@ Et vous sacrifiant cette illustre victime,
 L'Estat fit le pretexte, & l'amour fit le crime.  
 Vos feux pour Lavinie armerent vostre bras.  
 
-    AGRIPPA
+    AGRIPPA.
 Je voy qu'on vous l'a dit, & ne m'en deffens pas ;  
 Aussi bien, si j'en croy le sang qui vous anime,  
 Pretendre à vostre cœur seroit un nouveau crime ;  
 Et tout ce qu'a l'amour d'innocent & de doux,  
 N'auroient rien desormais, que d'affreux parmy nous.  
 
-    ALBINE
+    ALBINE.
 J'ay dû peu m'étonner que vostre ame inhumaine,  
 Pour se donner ailleurs m'ait pû quitter sans peine ;  
 Vous trouvastes d'abord dans ce change fatal,  
@@ -1338,7 +1338,7 @@ Mais rien ne vous est doux, s'il ne vous coûte un crime
 Et vôtre ame aux forfaits unie estroitement,  
 Se fut fait trop d'effort d'aymer innocemment.  
 
-    AGRIPPA
+    AGRIPPA.
 Esclattez, & traittez mon feu pour Lavinie,  
 De noire trahison, de lasche Tyrannie,  
 Nommez moy criminel d'adorer ses apas,  
@@ -1348,7 +1348,7 @@ Des remors attachez aux flâmes criminelles,
 Et quoy qu'auparavent noircy de trahison,  
 Mon amour, est en paix, avecque ma Raison.  
 
-    ALBINE
+    ALBINE.
 L'absence des remors est, dans un cœur coupable,  
 D'unTyran achevé la marque indubitable,  
 Et c'est où peut monter la dernière fureur  
@@ -1362,20 +1362,20 @@ De la vertu bannie un reste de racine,
 Mais ce reste est destruit quand on est sans combas  
 Et l'on ne guerit point d'un mal qu'on ne sent pas.  
 
-    AGRIPPA
+    AGRIPPA.
 Si la perte d'un frere est tout ce qui vous blesse,  
 Vous n'aurez rien perdu que vôtre douleur cesse ;  
 Je vous offre en moy-mesme un frere plein d'ardeur ;  
 Vous aurez mon estime au deffaut de mon cœur.  
 
-    ALBINE
+    ALBINE.
 Vôtre estime ? ah du moins, distes moy par quel crime,  
 J'ay pû la meriter cette honteuse estime ?  
 Et puis que les forfaits ont pour vous tant d'apas,  
 Dequoy [108] m'accusez vous pour ne me haïr pas ?  
 Pour m'offrir un barbare, un Tyran pour mon frere ?  
 
-    AGRIPPA
+    AGRIPPA.
 Mon estime s'augmente avec vôtre colere :  
 Et, quelqu'indignité qu'il m'en faille souffrir,  
 Loin de m'en irriter je m'en sens attendrir.  
@@ -1386,7 +1386,7 @@ A trahy dans vos yeux vôtre indignation,
 Et qu'encor, à ma veuë, un vieux reste de flame  
 S'est, à travers la haine, eschapé de vôtre ame.  
 
-    ALBINE
+    ALBINE.
 Je n'ay pour vous qu'horreur, n'en doutez nullement,  
 Si mes yeux ont osé vous parler autrement,  
 S'ils ont rien avancé [109] dont vôtre orgüeil se louë,  
@@ -1406,7 +1406,7 @@ A pû d'un frere mort me retracer l'image,
 Et qu'il est naturel, que le sang offencé  
 S'esmeuve en approchant du bras qui l'a versé.  
 
-    AGRIPPA
+    AGRIPPA.
 Je n'inviteray point vôtre haine à s'éteindre ;  
 Ces mouvemens du sang, sont trop beaux pour m'en plaindre,  
 Et vôtre cœur par eux, se montre esgalement,  
@@ -1427,11 +1427,11 @@ Je veux en m'éloignant vous sauver cette peine,
 Et mettre en seureté l'honneur de vôtre haine.   
 
 
-### Scene V
+### Scene V.
 Albine, Julie
 
 
-    ALBINE
+    ALBINE.
 Pour te faire haïr, va ne prens aucun soin,  
 Graces à tes forfaits, tu n'en a plus besoin.  
 Ne crains plus mon amour, Tyran, crains ma vengeance ;  
@@ -1453,14 +1453,14 @@ Sont trop forts, estants joints, pour n'étre pas vangez.
 Fin du second Acte. 
 
 
-## Acte III
+## Acte III.
 
 
-### Scene I
+### Scene I.
 Fauste, Mezence
 
 
-    FAUSTE
+    FAUSTE.
 Quoy ! tant de mécontens qui s'offrent dans l'armée  
 Dont la valeur paroist du repos allarmée,  
 Et dont les bras hardis sont mal accoustumés  
@@ -1470,7 +1470,7 @@ Tous, pour vos interests prests d'éclater sans peine,
 N'éveillent point en vous l'ambitieuse ardeur  
 Qui jadis pour le trône animoit vostre cœur ?  
 
-    MEZENCE
+    MEZENCE.
 Fauste, je suis amant, & depuis qu'on soûpire,  
 A peine à l'amour seul tout un cœur peut suffire,  
 Et cette impetueuse & fiere passion  
@@ -1488,10 +1488,10 @@ Et s'il pouvoit se rendre à mon amour extreme,
 Je ne changerois pas un bien si precieux,  
 Pour la felicité ny des Rois, ny des Dieux.  
 
-    FAUSTE
+    FAUSTE.
 Le Roy vient vers l'endroit où loge la Princesse.  
 
-    MEZENCE
+    MEZENCE.
 Il s'arreste en resvant, quelque soucy le presse.  
 
 
@@ -1499,7 +1499,7 @@ Il s'arreste en resvant, quelque soucy le presse.
 Agrippa, Atys, Mezence, Fauste.
 
 
-    MEZENCE
+    MEZENCE.
 Sans paroistre indiscret puis-je estre curieux,  
 Seigneur ? Quel noir chagrin [113] se monstre dans vos yeux ?  
 Tout conspire [114] à l'envy [115] pour remplir vôtre attente,  
@@ -1511,7 +1511,7 @@ Ose aller jusqu'à vous à travers tant de gloire ?
 Où trouvés vous encore à former des souhaits ?  
 Et qui peut vous troubler dans le sein de la Paix ?  
 
-    AGRIPPA
+    AGRIPPA.
 Tout paroist en effect m'applaudir sur la terre,  
 Je reviens glorieux d'une sanglante guerre,  
 Après d'heureux exploicts j'ay fini nos combats,  
@@ -1521,13 +1521,13 @@ Rarement on le gouste avec une Couronne,
 Et le calme qu'on trouve apres d'heureux exploits,  
 Est fait pour les Sujets, & non pas pour les Rois.  
 
-    MEZENCE
+    MEZENCE.
 Les Rois heureux n'ont pas des soucis sans relache,  
 La fortune sans cesse à tous vos voeux s'attache,  
 Et tout exprés pour vous, sans jamais se lasser,  
 A sa propre inconstance a semblé renoncer.  
 
-    AGRIPPA
+    AGRIPPA.
 Il est vray, jusqu'icy la Fortune constante  
 A prevenu mes vœux & passé [118] mon attente :  
 Mais la Fortune seule a t-elle entre ses mains  
@@ -1537,20 +1537,20 @@ De deux Divinités aveugles & cruelles ;
 On les voit rarement nous flater tout à tour,  
 Et seur de la Fortune, on doit craindre l'Amour.  
 
-    MEZENCE
+    MEZENCE.
 Je suis surpris qu'Albine encor puisse vous plaire,  
 Elle dont vous avés sacrifié le Frere.  
 
-    AGRIPPA
+    AGRIPPA.
 Mon amour vient d'ailleurs, & vous l'ayant appris  
 Je m'attens à vous voir encore plus surpris ;  
 Ma flame pour Albine est pour jamais finie,  
 Mais, pour vous dire tout, j'ayme enfin [119] Lavinie.  
 
-    MEZENCE
+    MEZENCE.
 Lavinie !  
 
-    AGRIPPA
+    AGRIPPA.
         A ce mot j'entends vostre douleur,  
 Je connoy que ce coup vous perce jusqu'au cœur,  
 J'entends tous vos soupirs se plaindre de ma flame ;  
@@ -1558,7 +1558,7 @@ Je sçay que Lavinie a sçeu charmer vôtre ame,
 J'ay regret de l'aymer quand vous l'aimés aussi,  
 Mais il plaist à l'Amour d'en ordonner ainsi.  
 
-    MEZENCE 
+    MEZENCE.
 Malgré l'ennuy profond que je vous fais paroistre,  
 Et dont tout mon respect est à peine le Maistre,  
 Je sçay qu'en ma faveur je ne pourrois qu'à tort  
@@ -1592,7 +1592,7 @@ M'en a fait faire assés la triste experience,
 Et d'un feu si fatal vous serés peu tenté,  
 Si vous considerés ce qu'il m'en a cousté.  
 
-    AGRIPPA
+    AGRIPPA.
 La rigueur où pour vous la Princesse se porte  
 Loin de me rebutter rend ma flame plus forte ;  
 Forcé de soupirer il doit m'estre bien doux  
@@ -1602,7 +1602,7 @@ Que pour vous la conqueste en paroist impossible,
 Plus je vous voy hay, plus je suis enflammé,  
 Et n'aymerois pas tant si vous estiés aymé.  
 
-    MEZENCE
+    MEZENCE.
 Mais sa rigueur pour vous est encor plus certaine ;  
 Vous ne vaincrés jamais les fureurs de sa haine,  
 Et jamais un grand Roy par la gloire animé  
@@ -1612,7 +1612,7 @@ De menager en vous l'honneur du Diademe,
 Et de n'exposer pas par d'inutiles vœux  
 La majesté du trône à des mepris honteux.  
 
-    AGRIPPA
+    AGRIPPA.
 Je connois sur ce point tout ce que doy croire ;  
 Ne craignés rien pour moy j'auray soin de ma gloire,  
 Et l'honneur de mon rang dans mes vœux empressés  
@@ -1622,7 +1622,7 @@ Qui ne se laissent vaincre aux grandeurs souveraines,
 Et le sceptre en mes mains peut estre assés charmant,  
 Pour luy faire oublier tout le sang d'un amant.  
 
-    MEZENCE
+    MEZENCE.
 Ah ! ne vous flattés point d'une si vaine attente,  
 Seigneur, pour Agrippa son ame est trop constante,  
 Et dans son cœur pour vous à la haine obstiné  
@@ -1636,7 +1636,7 @@ Teint d'un sang si chery tout de vous l'épouvante,
 A vostre nom ses yeux sont de rage allumés,  
 Et sa fureur est telle…  
 
-    AGRIPPA
+    AGRIPPA.
         Ah ! que vous me charmés !  
 Qu'il m'est doux de trouver tant de fermeté d'ame,  
 Tant d'amour, tant de foy, dans l'objet de ma flame !  
@@ -1647,13 +1647,13 @@ La conqueste doit estre precieuse & belle !
 Et qu'un si rare prix sous l'amoureuse loy  
 Est digne d'occuper tous les vœux d'un grand Roy !  
 
-    MEZENCE
+    MEZENCE.
 Mais songés vous qu'un cœur si fidelle & si tendre  
 Est un prix que jamais vous ne pouvés pretendre ?  
 Que vos feux vont encor redoubler sa fureur ?  
 Qu'en vain…  
 
-    AGRIPPA
+    AGRIPPA.
         Que j'ay pitié, Prince, de vostre erreur !  
 L'espoir de voir sur moy tomber toute sa haine  
 Flatte déjà sans doute en secret vostre peine,  
@@ -1673,11 +1673,11 @@ J'ay crû vous en devoir quelque chose à mon tour.
 Mezence, Fauste.
 
 
-    MEZENCE
+    MEZENCE.
 Fauste, as tu bien compris jusqu'où va ma disgrace ?  
 Et le barbare effort [124] dont le Roy me menace ?  
 
-    FAUSTE
+    FAUSTE.
 Il en dit trop, Seigneur, à ne vous point flatter [125],  
 Pour nous laisser encor quelque lieu d'en douter :  
 Il ne vous a donné que trop connoissance [126]  
@@ -1692,30 +1692,30 @@ Mais la Princesse sort, je vous laisse avec elle.
 Lavinie, Mezence.
 
 
-    LAVINIE
+    LAVINIE.
 Vous a [127]-t'on dit, Seigneur, mes nouveaux deplaisirs ?  
 Sçavés vous qu'un Tyran m'ose offrir ses soupirs ?  
 Et que mes tristes yeux, pour comble de misere,  
 Au plus lâche des cœurs ont la honte de plaire ?  
 
-    MEZENCE
+    MEZENCE.
 Helas ! je sçay bien plus, je sçay que malgré vous  
 Ce fier Rival pretend devenir vostre époux.  
 
-    LAVINIE
+    LAVINIE.
 Le barbare ! ah, Seigneur ! s'il est vray que sans feinte  
 Pour moy d'un pur amour vostre ame soit atteinte,  
 M'abandonnerés vous dans cét estat fatal  
 Aux attentats affreux d'un si cruel Rival ?  
 
-    MEZENCE
+    MEZENCE.
 Quoy que ce pur amour où je suis si sensible  
 N'ayt jamais eu pour prix qu'une haine invincible,  
 Il ne balance point, & pour vous secourir  
 Aux plus mortels dangers il est prest à courir.  
 Commandés seulement.  
 
-    LAVINIE
+    LAVINIE.
         Cette entreprise est grande ;  
 C'est la mort du Tyran enfin que je demande ;  
 Vous hesités ! & bien ; ne me secourés pas,  
@@ -1725,7 +1725,7 @@ Je sçay trop au besoin comme on sort de la vie,
 Et contre les Tyrans qui voudront m'attaquer  
 La mort est un secours qui ne peut me manquer [128].  
 
-    MEZENCE
+    MEZENCE.
 Ah [129] ! plustost mille fois, vivés, belle inhumaine  
 Au prix fatal du sang qu'exige vostre haine,  
 Du moins à son déffaut vous aurés tout le mien,  
@@ -1739,7 +1739,7 @@ Des droits les plus sacrés la puissance s'oppose [131],
 Il n'est rien sur mon cœur de si puissant que vous,  
 Et les droits de l'amour sont les premiers de tous.  
 
-    LAVINIE
+    LAVINIE.
 Ah ! que de cette mort l'agreable promesse  
 Flatte [132] déjà ma haine & suspend ma tristesse !  
 J'ay fuy toûjours vos soins, mais ce bien m'est si doux,  
@@ -1761,7 +1761,7 @@ De perdre ce qu'on hait, & vanger ce qu'on ayme,
 La fureur assouvie a du charme à son tour,  
 Et la vangeance est douce au deffaut de l'amour.  
 
-    MEZENCE
+    MEZENCE.
 Je vous entends, Madame, il faut toûjours m'attendre  
 A me voir mépriser pour un Rival en cendre,  
 Et vous offrant mon bras vous avés déjà peur  
@@ -1780,7 +1780,7 @@ Et mon sort, quel qu'il soit, ne peut estre que doux,
 Par l'heur de vous servir, ou de perir pour vous.  
 Je cours de mes amis solliciter le zele.  
 
-    LAVINIE
+    LAVINIE.
 Gardés de vous fier à quelque ame infidelle ;  
 Sur tout asseurés vous Tirrhene [133] qui paroit,  
 Au coup que je demande il doit prendre interest ;  
@@ -1794,39 +1794,39 @@ De combler promptement tous mes vœux & les siens.
 Tirrhene, Mezence.
 
 
-    MEZENCE
+    MEZENCE.
 Venés sçavoir [134] pour vous combien on s'interesse,  
 Et quel remede on cherche à l'ennuy qui vous presse.  
 
-    TIRRHENE 
+    TIRRHENE.
 En est-il pour les maux où l'on me voit plongé ?  
 Mon fils peut-il revivre ?  
 
-    MEZENCE
+    MEZENCE.
         Il peut estre vangé :  
 La mort du Roy cruel qui termina sa vie  
 Fait sans doute aujourd'huy vostre plus chere envie,  
 Et je viens vous promettre en secondant vos coups.  
 Tout ce que la vangeance eut jamais de plus doux.  
 
-    TIRRHENE 
+    TIRRHENE.
 Vous, Seigneur, sur le Roy vous pourriés entreprendre ?  
 
-    MEZENCE
+    MEZENCE.
 Pensés vous que je feigne afin de vous surprendre ?  
 N'avés vous [135] pas appris qu'il me veut arracher  
 L'aymable & seul objet qui seul m'a pû toucher ?  
 Et ne sçavés vous pas quand l'amour est extréme  
 Qu'on perd tout mille fois plustost que ce qu'on aime ?  
 
-    TIRRHENE
+    TIRRHENE.
 Je condamne avec vous vostre injuste Rival,  
 Et cét indigne amour luy doit estre fatal :  
 Mais se peut-il, Seigneur, estant fils de son frere  
 Que l'amour force en vous la nature à se taire ?  
 Ne pourra-t'elle rien sur vostre ame à son tour ?  
 
-    MEZENCE
+    MEZENCE.
 Et que peut la Nature opposée à l'Amour ?  
 Je ne sens plus les noeuds par qui le sang nous lie ;  
 Et dés que la Princesse a demandé sa vie,  
@@ -1841,13 +1841,13 @@ En vain la voix du sang tâche à se faire entendre ;
 L'objet aimé peut tout sur quiconque ayme bien,  
 Et dés que l'amour parle on n'écoute plus rien.  
 
-    TIRRHENE
+    TIRRHENE.
 Le peril qui suivroit l'entreprise avortée,  
 La peur de la voir sçeue ou mal executée,  
 La vengeance [136] d'un Roy qui sçait peu pardonner,  
 Forceront vostre cœur peut-estre à s'étonner.  
 
-    MEZENCE [137]
+    MEZENCE [137].
 Non, non, ne craignés point qu'aucun danger m'étonne,  
 Et me force à trahir l'espoir que je vous donne ;  
 Un objet trop puissant m'engage à ce trépas,  
@@ -1855,7 +1855,7 @@ J'en voy tous les perils, & ne m'en emeus pas :
 La crainte dans mon cœur ne sçauroit trouver place,  
 Et le Dieu qui l'occupe est un Dieu plein d'audace.  
 
-    TIRRHENE
+    TIRRHENE.
 Je vous laisse à juger dans des desseins si grands,  
 L'effort que je doy faire, & la part que j'y prens :  
 Mais, Seigneur, comme aux Rois on ne peut faire outrage  
@@ -1866,7 +1866,7 @@ Si vous meprisés tout du costé de la Terre,
 Peut-estre craindrés vous les éclats du tonnerre ;  
 Les plus grands criminels s'en treuvent efrayés.  
 
-    MEZENCE
+    MEZENCE.
 Les criminels toûjours ne sont pas foudroyés ;  
 Quand le Ciel en courroux gronde contre la Terre,  
 C'est sur les malheureux que tombe le Tonnerre,  
@@ -1883,29 +1883,29 @@ Ny le Ciel ébranlé ne m'ébranleroient pas.
 Conduisez seulement ce que j'ose entreprendre,  
 Faites voir l'interest qu'un Fils vous y fait prendre.  
 
-    TIRRHENE 
+    TIRRHENE.
 Si vous pouviez sçavoir, Seigneur, jusqu'à quel poinct  
 Cét interest me touche…  
 
-    MEZENCE
+    MEZENCE.
         Ah ! je n'en doute point ;  
 J'ay bien crû que c'estoit vous faire vive injustice  
 Que vous refuser part à ce grand sacrifice ;  
 Et que je ne pouvois, pour conduire mes coups,  
 Me confier icy plus seurement qu'à vous.  
 
-    TIRRHENE 
+    TIRRHENE.
 Je doy tout, je l'avouë, à cette confiance,  
 Vous relevez par là ma plus chere esperance,  
 Et m'auriez fait un tort qui m'eut desesperé,  
 Si, sans m'en avertir, vous eussiez conspiré.  
 
-    MEZENCE
+    MEZENCE.
 Decidez donc de l'heure & du lieu qu'il faut prendre,  
 J'ay des amis puissans & tous prests d'entreprendre,  
 Qui dés mon premier ordre oseront tout tenter.  
 
-    TIRRHENE 
+    TIRRHENE.
 Ah ! sur tout gardez vous de rien precipiter.  
 Le Roy s'est fait icy suivre par son armée,  
 Le Fort est bien gardé, la ville est enfermée,  
@@ -1919,7 +1919,7 @@ Nos conjurez alors les plus forts dans la place
 Voyant moins de peril en prendront plus d'audace.  
 Un grand dessein dépend d'en bien choisir le temps.  
 
-    MEZENCE
+    MEZENCE.
 Puisque c'est vostre advis, differons, j'y consens,  
 L'entreprise vous touche, & vostre experience  
 Doit icy prevaloir sur mon impatience :  
@@ -1927,7 +1927,7 @@ Nous tiendrons cependant mes amis preparez ;
 Je vay mander les miens, & vous en jugerez :  
 J'attens tout de vos soins, c'est en eux que j'espere [138].  
 
-    TIRRHENE 
+    TIRRHENE.
 Ah, Seigneur ! pour un fils que ne fait point un pere !  
 Pour peu que par le Ciel mes soins soient secondez,  
 Ils pourront faire encore plus que vous n'attendez.  
@@ -1941,11 +1941,11 @@ Fin du troisième Acte.
 Lavinie, Mezence
 
 
-    LAVINIE
+    LAVINIE.
 Quel malheur impreveu venez vous de m'apprendre !  
 Tirrhene est arresté !  
 
-    MEZENCE
+    MEZENCE.
         Ce coup vous doit surprendre.  
 Ainsi que vous, Madame, il m'a beaucoup surpris.  
 J'attendois tout du Pere allant venger le fils ;  
@@ -1958,7 +1958,7 @@ Avoit pris à l'entendre une audace nouvelle :
 Lors qu'Atis l'ayant veu qui sortait de chez moy,  
 Est venu l'arrester, par les ordres du Roy.  
 
-    LAVINIE
+    LAVINIE.
 Jamais un prompt secours ne fut plus necessaire.  
 Du sang de mon Amant, ce barbare s'altere :  
 Et veut en perdre encor, d'un courroux obstiné,  
@@ -1976,7 +1976,7 @@ Et ne leur donnez pas le temps d'en pouvoir faire.
 Si Tirrhene perit, sur tout [139], considerez  
 Quel trouble peut alors saisir vos Conjurez ;  
 
-    MEZENCE
+    MEZENCE.
 Ce sont vos seuls desirs qu'icy je considere ;  
 Je cours sans differer oser tout pour vous plaire :  
 Et sans voir les raisons que vous examinez,  
@@ -1987,10 +1987,10 @@ Et je jure vos yeux, ou de perdre le jour,
 Ou de vous apporter la teste à mon retour.  
 Mais il vient.  
 
-    LAVINIE
+    LAVINIE.
     Je le fuis.  
 
-    MEZENCE
+    MEZENCE.
         Contraignez vostre haine ;  
 Il s'est trop avancé, la fuite seroit vaine.  
 Pour l'amuser [140] icy, faites vous quelque effort,  
@@ -2001,7 +2001,7 @@ Et donnez ces momens aux aprests de sa mort.
 Agrippa, Lavinie, Atis, Suite.
 
 
-    AGRIPPA
+    AGRIPPA.
 Il se peut donc, Princesse, enfin que je vous voye ?  
 Mais, helas ! c'est pour vous, un tourment que ma joye :  
 Et tout l'ardent amour dont vous touchez mon cœur,  
@@ -2019,7 +2019,7 @@ Font que vos yeux, aux miens, ne montrent que des larmes ?
 Ma veuë attendrit elle un cœur si rigoureux ?  
 Helas ! le puis-je croire ?  
 
-    LAVINIE
+    LAVINIE.
         Oüy, cruel, tu le peux.  
 Mon cœur ne fait rien moins que ce qu'il croyait faire ;  
 Je croyais que ta veuë aigriroit ma colere,  
@@ -2027,11 +2027,11 @@ Je croyois sans horreur, ne te pouvoir souffrir,
 Cependant, je te vois, & me sens attendrir :  
 La haine dans mon cœur à peine à treuver place…  
 
-    AGRIPPA
+    AGRIPPA.
 Quoy , Madame, Agrippa de vôtre cœur s'efface ?  
 Et vous pourriez aymer un Roy trop fortuné ?  
 
-    LAVINIE
+    LAVINIE.
 Et mon cœur d'un tel crime est par toy soupçonné ?  
 Aymer le Meurtrier de l'objet de ma flame ?  
 D'un Heros que la mort respecte dans mon ame ?  
@@ -2057,7 +2057,7 @@ Tu vas voir à son tour la fureur implacable,
 Que m'inspire le sang d'un amant adorable ;  
 Tu vas voir tant de haine esclatter dans mes yeux…  
 
-    AGRIPPA
+    AGRIPPA.
 Helas ! Princesse, helas ! je n'attendois pas mieux.  
 Armez vous d'une haine encore plus esclattante,  
 Vous n'en paroistrez point à mes yeux moins charmante.  
@@ -2068,7 +2068,7 @@ Sans murmurer jamais contre vôtre colere,
 Sans presser vôtre cœur d'estre moins animé ;  
 Et n'aymeray pas moins pour n'estre pas aimé.  
 
-    LAVINIE
+    LAVINIE.
 C'estoit donc pour mes yeux trop peu que de mes larmes,  
 Sans la honte & l'horreur, d'avoir pour toy des charmes.  
 Ce feu dans un Tyran tombé mal à propos,  
@@ -2087,7 +2087,7 @@ Qu'elle attire sur toy tout le couroux des Cieux,
 Qu'elle allume la foudre entre les mains des Dieux.  
 J'obtiendray de ces Dieux dont tes crimes abusent…  
 
-    AGRIPPA
+    AGRIPPA.
 Ne les pressez point tant, ces Dieux qui vous refusent.  
 Ils sçavent mieux que nous d'où despend nôtre bien,  
 Princesse, croyez moy, ne leur demandez rien.  
@@ -2100,13 +2100,13 @@ Mais quel deüil ne console une Couronne offerte ?
 Le sceptre est un doux charme aux plus vives douleurs,  
 Et le bandeau Royal seche aisément des pleurs.  
 
-    LAVINIE
+    LAVINIE.
 Dans les mains des Tyrans le Sceptre doit déplaire.  
 Et l'ombre d'Agrippa m'est encore si chere,  
 Qu'on me verroit choisir, avec bien moins d'effroy,  
 Le cercueil avec luy que le Trône avec toy.  
 
-    AGRIPPA
+    AGRIPPA.
 Quoy ! haïr jusqu'au Thrône ! helas ! le puis-je croire ?  
 Et que vous preferiez une ombre à tant de gloire ?  
 C'est un exemple rare, encor jusqu'à ce jour,  
@@ -2116,7 +2116,7 @@ Le feu bien tost esteint, quand l'objet est en cendre !
 Et qu'apres quelqu'esclat de regrets superflus,  
 On oublie aisement un amant qui n'est plus !  
 
-    LAVINIE
+    LAVINIE.
 Connoy donc mieux, par moy, ce que la gloire inspire  
 Aux Cœurs où l'Amour prend un legitime empire.  
 La cendre sans chaleur de l'objet de mon deüil  
@@ -2140,7 +2140,7 @@ De sçavoir quel empire il avait sur mon cœur.
 Dieux ! s'il eust pleinement joüy de ma tendresse  
 S'il eust préveu mes pleurs…  
 
-    AGRIPPA
+    AGRIPPA.
         Ah ! c'en est trop, Princesse ;  
 Je ne puis plus tenir contre un charme si doux.  
 Faites venir Tirrhene, Atis : Vous, laissez-nous ;  
@@ -2155,10 +2155,10 @@ De chercher Agrippa dans la Nuit eternelle ;
 Tiberinus fut seul dans le Fleuve abismé,  
 Et vous voyez en moy cét Amant trop aymé.  
 
-    LAVINIE
+    LAVINIE.
 Vous ! ô Ciel…mais douter d'un Pere qui m'asseure !…  
 
-    AGRIPPA
+    AGRIPPA.
 Je voy que vous m'allez soupçonner d'imposture,  
 Et je vous fais si tard ce surprenant aveu,  
 Que j'ay bien merité qu'on me soupçonne un peu.  
@@ -2173,24 +2173,24 @@ A separer deux cœurs que l'Amour veut unir.
 Essayez cependant vous mesme à me connoistre,  
 Croyez-en vostre cœur.  
 
-    LAVINIE
+    LAVINIE.
         J'en croirois trop, peut-estre ;  
 Mon cœur se peut mesprendre ; interdit comme il est  
 Je n'ose l'écouter.  
 
-    AGRIPPA
+    AGRIPPA.
         Tirrhene enfin paroist.  
 Connoissez qui je suis par l'aveu qu'il va faire.  
 
-    LAVINIE
+    LAVINIE.
 Taschez d'estre son fils, si vous me voulez plaire.  
 
 
-### Scene III
+### Scene III.
 Agrippa, Tirrhene, Lavinie
 
 
-    AGRIPPA
+    AGRIPPA.
 Il fait signe à Atis de se retirer.
 
 Seigneur, à la Princesse, enfin, j'ay tout appris :  
@@ -2200,18 +2200,18 @@ Mon cœur de mon secret n'a pas esté le maistre,
 Je n'ay pû vous tenir ce que j'avois promis,  
 J'ay tout dit.  
 
-    TIRRHENE
+    TIRRHENE.
     Quoy ? Seigneur.  
 
-    AGRIPPA
+    AGRIPPA.
         Que je suis vostre fils.  
 
-    TIRRHENE
+    TIRRHENE.
 Vous, Seigneur ! vous, mon fils ! que pouvez-vous pretendre ?  
 Mon fils est au Tombeau, laissez en paix sa cendre,  
 Helas ! c'est par vos coups…  
 
-    AGRIPPA
+    AGRIPPA.
         Vos soins sont superflus,  
 Un secret échapé ne se r'appelle plus.  
 Avoüez qu'en faveur de nostre ressemblance,  
@@ -2222,29 +2222,29 @@ Que pour fuir tout soupçon, & pouvoir vous instruire
 De ce qu'entre-prendroient ceux qui me voudroient nuire,  
 Vous avez accusé le Roy de mon trespas.  
 
-    TIRRHENE
+    TIRRHENE.
 Je vois ou je m'expose en ne l'avoüant pas ;  
 Il y va de ma vie, & desja je m'appreste,  
 Seigneur, à vous payer ce refus de ma Teste.  
 Trahir le sang d'un fils pour m'entendre avec vous !  
 
-    AGRIPPA
+    AGRIPPA.
 Quoy ?…  
 
-    TIRRHENE
+    TIRRHENE.
         Non, en vain vos yeux éclattent de courroux :  
 Vous m'avez mal connû si vous l'avez pû croire ;  
 De cette lascheté l'infamie est trop noire,  
 Et le sang mal-heureux qui peut m'estre resté,  
 Ne vaut pas l'acheter [145] par cette indignité.  
 
-    AGRIPPA
+    AGRIPPA.
 Que vous estes cruel, de chercher tant d'adresse  
 Pour tromper une illustre & fidelle Princesse !  
 Ses beaux yeux dans les pleurs sans cesse ensevelis  
 N'en ont-ils pas assez honoré vostre fils ?  
 
-    TIRRHENE
+    TIRRHENE.
 Je vous entends, Seigneur, vous ne sçauriez encore  
 Souffrir que de ses pleurs la Princesse l'honore ?  
 Et que, jusqu'au cercueil, un cœur si genereux  
@@ -2258,7 +2258,7 @@ Vous avez eu son sang, vous avez eu sa vie,
 Ne sçauriez vous laisser à cét infortuné ;  
 Un cœur que pour luy seul l'Amour a destiné ?  
 
-    AGRIPPA
+    AGRIPPA.
 Ah ! n'empeschez donc pas que je le desabuse,  
 Ce cœur que je possede, & que l'on me refuse :  
 Ce cœur qui pour le mien est plus cher mille-fois  
@@ -2267,7 +2267,7 @@ Ce cœur à qui toujours tout mon bon-heur s'attache ;
 Ce cœur que l'Amour m'offre, & qu'un Pere m'arrache,  
 Un Pere qui pour fils veut ne m'avoüer [148] pas.  
 
-    TIRRHENE
+    TIRRHENE.
 J'avoürois pour mon fils l'autheur de son trepas !  
 Sa mort, vous le sçavez, n'est que trop veritable,  
 Et mon rapport, helas ! n'en est que trop croyable.  
@@ -2294,7 +2294,7 @@ Je n'ay plus que des pleurs pour vous dire le reste,
 C'est le sang qui s'émeut, & pour s'expliquer mieux,  
 Au deffaut de ma bouche, il parle par mes yeux.  
 
-    LAVINIE
+    LAVINIE.
 Reçoy [153] donc à la fois, Ombre qui m'es si chere,  
 Les larmes d'une Amante, avec les pleurs d'un Pere,  
 Et sois sensible encore, ayant perdu le jour,  
@@ -2314,32 +2314,32 @@ En regardant Agrippa.
 
 Mais, Seigneur, mais, helas ! s'il estoit vostre fils ?  
 
-    TIRRHENE
+    TIRRHENE.
 Quoy ! vous écouterez l'erreur qu'on vous inspire ?  
 
-    AGRIPPA
+    AGRIPPA.
 Quoy ! vous n'entendrez pas ce que l'amour veut dire ?  
 N'est-il pas un tesmoin assez digne de foy,  
 Pour l'entendre un moment, s'il veut parler pour moy ?  
 Et puis qu'en vostre cœur sa voix m'est favorable…  
 
-    TIRRHENE
+    TIRRHENE.
 L'Amour parle en aveugle, & n'en est pas croyable.  
 
-    AGRIPPA
+    AGRIPPA.
 Suivrez vous, ma Princesse, une si dure loy ?  
 Ne me croirez vous point ?  
 
-    LAVINIE
+    LAVINIE.
         Helas ! tient-il à moy ?  
 
-    TIRRHENE
+    TIRRHENE.
 Vostre cœur n'a-t'il pas, contre cette imposture,  
 Assez bien entendu la voix de la nature ?  
 En a-t'il dit trop peu, ce sang tout interdit,  
 Dont le trouble…  
 
-    LAVINIE
+    LAVINIE.
         Ah ! Tirrhene, il n'en a que trop dit [154].  
 Il ne m'oste que trop, sur un trepas si rude,  
 La flatteuse [155] douceur d'un peu d'incertitude.  
@@ -2348,10 +2348,10 @@ La nature le dit, & je n'ose en douter :
 Mais ce doute est si doux, que l'Amour qui murmure  
 Voudroit bien, s'il osoit, démentir la Nature.  
 
-    TIRRHENE
+    TIRRHENE.
 Quoy que le Roy vous die, asseurez vous si bien…  
 
-    LAVINIE
+    LAVINIE.
 Regardant encore Agrippa.
 
 Ah ! si je ne le fuis, je ne respons de rien.  
@@ -2364,24 +2364,24 @@ Mais, pour peu que ses yeux & les miens se rencontrent,
 Ce regard, malgré moy, vous, & ses trahisons,  
 Est seul presqu'aussi fort que toutes vos raisons.  
 
-    TIRRHENE
+    TIRRHENE.
 Fuyez-le donc, Madame, & pour mieux vous deffendre…  
 
-    AGRIPPA
+    AGRIPPA.
 Ah ! Princesse, arrestez un moment pour m'entendre.  
 
-    LAVINIE
+    LAVINIE.
 Cruel, qui que tu sois, jusqu'où va ta rigueur ?  
 N'es-tu pas satisfait des troubles de mon cœur ?  
 
-    AGRIPPA
+    AGRIPPA.
 Quoy ! fuir sans m'écouter ?  
 
-    LAVINIE
+    LAVINIE.
         Est-ce peu pour ta gloire ?  
 Va, si je t'escoutois, j'aurois peur de te croire.  
 
-    AGRIPPA
+    AGRIPPA.
 Je ne vous quitte point, que vous n'ayez pû voir…  
 
 
@@ -2389,16 +2389,16 @@ Je ne vous quitte point, que vous n'ayez pû voir…
 Tirrhene, Agrippa.
 
 
-    TIRRHENE
+    TIRRHENE.
 Retenant Agrippa.
 
 Arreste, aveugle, arreste, & rentre en ton devoir [156] :  
 Sois mon fils en effet, songe à me satisfaire.  
 
-    AGRIPPA
+    AGRIPPA.
 Et vous ne voulez plus, Seigneur, estre mon Pere !  
 
-    TIRRHENE
+    TIRRHENE.
 A cét aveu fatal trop de peril est joint :  
 C'est estre Pere icy, que de ne l'avoüer point.  
 Puisque la guerre a pû nous oster les complices  
@@ -2418,7 +2418,7 @@ Vous deviez si bien feindre, auprés de la Princesse ;
 Sçavoir bien vous taire, & nourrir son erreur ;  
 Vous l'aviez tant promis.  
 
-    AGRIPPA
+    AGRIPPA.
         Et l'ay-pû, Seigneur ?  
 Prés d'un Objet aimé vostre Esprit trop severe,  
 Connoist mal un Amant, sil croit qu'il se peut taire.  
@@ -2433,10 +2433,10 @@ D'estre seur d'estre aimé d'un cœur vrayment fidelle,
 D'un cœur qu'on ne peut perdre, ayant perdu le jour,  
 Et d'où mesme la Mort ne peut chasser l'Amour.  
 
-    TIRRHENE
+    TIRRHENE.
 N'estoit-ce pas assez de ce bon-heur extréme ?  
 
-    AGRIPPA
+    AGRIPPA.
 Peut-on estre en effet heureux sans ce qu'on aime ?  
 Et quand on est charmé d'un Objet plein d'appas,  
 Est-ce un bon-heur qu'un bien qu'il ne partage pas ?  
@@ -2445,7 +2445,7 @@ Luy desrober ma joye, & joüir de sa peine,
 C'estoit pour mon amour un plaisir trop cruel :  
 Le bon-heur des Amants est d'estre mutuel.  
 
-    TIRRHENE
+    TIRRHENE.
 Je plains des feux si beaux ; mais il faut les contraindre,  
 Nous avons maitenant trop sujet de tout craindre,  
 Nos secrets, n'ont jamais esté plus importants ;  
@@ -2473,10 +2473,10 @@ Par une fausse estime, endormez ses souçons ;
 En suitte, asseurez vous sans bruit de sa personne,  
 Et dans un lieu bien seur…Quoy ! vostre ame s'étonne !  
 
-    AGRIPPA
+    AGRIPPA.
 Sans scrupules à ce prix peut-on donner des loix ?  
 
-    TIRRHENE
+    TIRRHENE.
 Le scrupule doit estre au dessous des grands Rois.  
 Mezence veut vous perdre, & s'y resoud sans peine,  
 Le crime n'est pas moindre, encor qu'il se méprenne,  
@@ -2497,11 +2497,11 @@ Et qui regne tousjours est tousjours innocent [160].
 Regnez donc. Ah ! mon fils, si vous pouviez connoistre,  
 Combien est beau le droit de n'avoir point de Maistre…  
 
-    AGRIPPA
+    AGRIPPA.
 Ah ! si vous connoissiez combien l'Amour est doux,  
 Seigneur…  
 
-    TIRRHENE
+    TIRRHENE.
         J'entends du bruit ; on vient : songez à vous.  
 
 
@@ -2509,22 +2509,22 @@ Seigneur…
 Tirrhene, Agrippa, Lauzus, Atis.
 
 
-    TIRRHENE
+    TIRRHENE.
 He bien ! par tout mon sang, contentez vostre haine.  
 
-    LAUZUS
+    LAUZUS.
 Tout est prest dans le Temple.  
 
-    AGRIPPA
+    AGRIPPA.
         Allons, qu'on le rameine [161].  
 
-    TIRRHENE
+    TIRRHENE.
 Va, barbare.  
 
-    ATIS
+    ATIS.
         Ah ! Seigneur, craignez d'estre entendu.  
 
-    TIRRHENE
+    TIRRHENE.
 Que peut-on craindre, helas ! quand on a tout perdu !  
 Fin du quatrième Acte. 
 
@@ -2536,20 +2536,20 @@ Fin du quatrième Acte.
 Fauste, Lavinie, Camille.
 
 
-    FAUSTE
+    FAUSTE.
 De quel effroy, Madame, estes vous agitée  
 Au poinct [162] que l'entreprise est presque executée ?  
 On a surpris le Prince, en luy faisant sçavoir  
 Qu'avec empressement vous cherchez à le voir.  
 
-    LAVINIE
+    LAVINIE.
 Oüy, Fauste, je le cherche, & luy veut faire entendre  
 Qu'il seroit bon encor de ne rien entreprendre ;  
 Que je voy tout à craindre à trop tost éclater ;  
 Qu'un peu trop de chaleur sceut d'abord m'emporter ;  
 Qu'un attentat si grand veut moins de promptitude :  
 
-    FAUSTE
+    FAUSTE.
 Le Prince s'est douté de vostre inquietude ;  
 Et se trouvant au Temple engagé prés du Roy,  
 Pour vous tirer de peine, il s'est servy de moy.  
@@ -2582,7 +2582,7 @@ Qu'à peine pour Tirrhene a-t'il ouvert la bouche,
 Que le Roy, tout à coup, cessant d'estre irrité,  
 L'a fait en sa faveur remettre en liberté.  
 
-    LAVINIE
+    LAVINIE.
 Puisque Tirrhene est libre, il est plus seur d'attendre ;  
 Il faut le consulter avant que d'entreprendre.  
 Tout m'effroye en ce jour, je sens secrettement  
@@ -2591,22 +2591,22 @@ Helas ! si pour servir mon aveugle colere…
 Ah ! [164] si Mezence m'ayme, obtenez qu'il differe :  
 Hastez-vous.  
 
-    FAUSTE
+    FAUSTE.
         J'obeïs, mais vous courez hazard  
 Que cét ordre impreveu n'arrive un peu trop tard ;  
 Madame, nous touchons à l'heure qu'on a prise ;  
 On doit sortant du temple estre prest sans remise ;  
 Le signal est donné, les ordres sont receus.  
 
-    LAVINIE
+    LAVINIE.
 Empeschez qu'on n'acheve ; allez, ne tardez plus.  
 
-    CAMILLE
+    CAMILLE.
 Que pourra-t'on [165] penser du desordre ou [166] vous estes ?  
 De ces troubles pressants, de ces craintes secretes ?  
 Si ce n'est que le Roy par un doux entretien…  
 
-    LAVINIE
+    LAVINIE.
 Qu'on pense tout, pourveu qu'on n'execute rien.  
 Dieux ! si le coup fatal qu'a tant pressé ma haine  
 Tomboit…mais qu'on me laisse entretenir Tirrhene.   
@@ -2616,7 +2616,7 @@ Tomboit…mais qu'on me laisse entretenir Tirrhene.
 Lavinie, Tirrhene.
 
 
-    LAVINIE
+    LAVINIE.
 Venez, Seigneur, venez, s'il se peut, dissiper  
 Les mortelles frayeurs dont je me sens frapper [167].  
 Par une voix secrette, en mon cœur eslevée,  
@@ -2642,7 +2642,7 @@ Rendez moy mon courroux qu'il vient de m'arracher.
 De ses discours encor mon ame est toute pleine,  
 Et des vostres, Seigneur, il me souvient à peine.  
 
-    TIRRHENE
+    TIRRHENE.
 J'ay preveu tout l'excés du trouble où je vous voy :  
 Et si-tost que Mezence a pû fléchir le Roy,  
 Et que de ce Tiran l'âme aujourd'huy moins fiere,  
@@ -2675,7 +2675,7 @@ Vous sçavez pour la mort quels soins j'ay tousjours pris ;
 Et vous pourriez encor, penser qu'il fût mon fils.  
 Luy dont je suis prest d'aller trancher la trâme…  
 
-    LAVINIE
+    LAVINIE.
 Que vous rendez, Seigneur, un doux calme à mon ame.  
 Pour fuir l'affreux desordre en mon cœur excité,  
 Je prens cette asseurance avec avidité ;  
@@ -2693,7 +2693,7 @@ Je m'abandonne entiere à la felicité
 D'oster au moins la vie, à qui m'a [169] tout osté,  
 Au barbare assassin d'un Heros adorable…  
 
-    TIRRHENE
+    TIRRHENE.
 Pleust au Ciel [170], seul recours d'un Pere miserable,  
 Que dés ce mesme jour, il m'eust ésté permis  
 D'offrir cette victime aux Manes de mon Fils.  
@@ -2703,22 +2703,22 @@ Pressant un si grand coup, on l'eust trop hazardé :
 L'Armée est autour d'Albe, & le Fort bien gardé.  
 Il faut encor languir, il faut encor attendre.  
 
-    LAVINIE
+    LAVINIE.
 Non, non, consolez-vous, j'ay fait tout entreprendre.  
 
-    TIRRHENE
+    TIRRHENE.
 Quoy ! sans considerer…  
 
-    LAVINIE
+    LAVINIE.
         Vous sçachant arresté,  
 J'ay voulu sans delay, que l'on ait éclaté,  
 Et vous pouvez flatter dés ce jour vostre haine,  
 De toutes les douceurs d'une vengeance pleine.  
 
-    TIRRHENE
+    TIRRHENE.
 Ah, Madame ! empeschons ce coup precipité.  
 
-    LAVINIE
+    LAVINIE.
 Sans doute, il n'est plus temps, tout est executé.  
 
 
@@ -2729,15 +2729,15 @@ Fauste, Lavinie, Tirrhene.
     LAVINIE *à Fauste*.
 Avez-vous assez tost pû rejoindre Mezence ?  
 
-    FAUSTE
+    FAUSTE.
 J'ay couru par vostre ordre avecque diligence ;  
 Et dans vos interests le Ciel prend tant de part,  
 Qu'enfin heureusement, je l'ay rejoint trop tard.  
 
-    TIRRHENE
+    TIRRHENE.
 Ciel ! qu'entens-je !  
 
-    FAUSTE
+    FAUSTE.
         Admirez un bonheur sans exemple.  
 Je n'ay pas eu besoin d'aller jusques au Temple ;  
 J'ay trouvé le Tyran au retour attaqué,  
@@ -2751,10 +2751,10 @@ Mais le Tyran entré, la porte s'est fermée,
 On a craint les fureurs d'un Peuple soûlevé,  
 Et le Roy seul…  
 
-    TIRRHENE
+    TIRRHENE.
         O Dieux ! se seroit-il sauvé ?  
 
-    FAUSTE
+    FAUSTE.
 Chacun s'est, comme vous, senty l'ame allarmée :  
 Nous avons craint le Fort, nous avons craint l'Armée,  
 Et perdant tout, enfin, à beaucoup differer,  
@@ -2771,10 +2771,10 @@ Mes Gens l'ont immolé par mon ordre à mon Frere,
 Tout son sang à mes yeux, vient de me satisfaire.  
 C'en est fait, il est mort.  
 
-    TIRRHENE
+    TIRRHENE.
     Dieux !  
 
-    FAUSTE
+    FAUSTE.
         Ces mots, tout d'un temps,  
 Ont fait pousser au Ciel mille cris éclatants.  
 Chacun admire Albine, & le Prince s'appreste  
@@ -2791,27 +2791,27 @@ Albine venge un frere, & nous goûtons les charmes…
 Mais, d'où naissent, Seigneur ces soudaines allarmes ?  
 Ce trouble où [174] vous tombez ?  
 
-    TIRRHENE
+    TIRRHENE.
         Je tremble, je fremis.  
 
-    LAVINIE
+    LAVINIE.
 Quoy ! le Roy mort !  
 
-    TIRRHENE
+    TIRRHENE.
         Helas ! Madame, c'est mon fils.  
 Elle tombe sur un siege, & Fauste se retire.
 
 
-    LAVINIE
+    LAVINIE.
 Vostre fils !  
 
-    TIRRHENE 
+    TIRRHENE .
         Je sens trop icy que je suis Pere :  
 La voix du sang m'échape, & ne peut plus se taire :  
 La Nature à ce coup, laisse la feinte à part :  
 Elle parle.  
 
-    LAVINIE
+    LAVINIE.
         Ah ! pourquoy parle-t'elle si tard ?  
 Enfin, il est donc vray, j'ay perdu ce que j'ayme,  
 J'en recherchois la cause, & la trouve en moy mesme ;  
@@ -2848,7 +2848,7 @@ Si pour vous en punir, mon bras est trop timide,
 Rendez graces, cruel, dans mon juste courroux,  
 Au sang de vostre fils que je respecte en vous.  
 
-    TIRRHENE
+    TIRRHENE.
 Quand un Pere a fait choir son fils au precipice,  
 Il n'a guere besoin qu'on aide à son supplice ;  
 Et pouvant d'Agrippa me reprocher la mort,  
@@ -2864,13 +2864,13 @@ L'Amour & la Nature à la fois contre luy.
 Soit crime, soit mal-heur [178], il cesse enfin de vivre,  
 Je l'ay tousjours perdu, c'est assez pour le suivre.  
 
-    LAVINIE
+    LAVINIE.
 Suivons-le, mais du moins par nos derniers efforts,  
 Entraisnons avec nous Mezence chez les morts.  
 Le crime est assez grand pour luy coûter la vie,  
 D'avoir trop bien servy mes vœux qui m'ont trahie.  
 
-    TIRRHENE
+    TIRRHENE.
 Rien ne me couste à perdre, après ce que je pers,  
 Avec mon Fils & nous, perisse l'Univers ;  
 Que ma Fille elle-mesme évite ma colere.   
@@ -2880,26 +2880,26 @@ Que ma Fille elle-mesme évite ma colere.
 Albine, Tirrhene, Lavinie,Camille, Julie.
 
 
-    TIRRHENE
+    TIRRHENE.
 Mal-heureuse ! où viens-tu ?  
 
-    ALBINE
+    ALBINE.
         Me livrer à mon Pere ;  
 Luy déclarer mon crime, & m'offrir à ses coups ;  
 Le remords me deffend d'éviter son courroux.  
 
-    TIRRHENE
+    TIRRHENE.
 Sçais-tu ce que ton crime en effet vient de faire ?  
 
-    LAVINIE
+    LAVINIE.
 Sçais-tu, cruelle Sœur, que tu trahis ton Frere ?  
 
-    ALBINE
+    ALBINE.
 Je sçay que j'ay trahy mon Frere, & mon devoir.  
 Son meurtrier vainqueur…Mais vous allez le voir.  
 Il vient.  
 
-    TIRRHENE
+    TIRRHENE.
         Tournons sur luy la fureur qui nous presse.  
 
 
@@ -2907,24 +2907,24 @@ Il vient.
 Agrippa, Tirrhene, Lavinie,Albine, Camille, Julie, Suite.
 
 
-    AGRIPPA
+    AGRIPPA.
 Ay-je encor, contre moy, mon Pere, & ma Princesse ?  
 
-    TIRRHENE
+    TIRRHENE.
 Mon Fils respire encore !  
 
-    LAVINIE
+    LAVINIE.
         Agrippa void le jour !  
 Quel favorable Dieu le rend à mon Amour ?  
 
-    AGRIPPA
+    AGRIPPA.
 L'instinct sacré du sang est le Dieu tutelaire,  
 Par qui ma Sœur…  
 
-    ALBINE
+    ALBINE.
         Seigneur, vous estes donc mon Frere ?  
 
-    TIRRHENE
+    TIRRHENE.
 Oüy, loin de faire un crime, empeschant son trépas,  
 Tu nous a tous sauvez… Mais ne l'interromps pas.  
 
@@ -2978,14 +2978,14 @@ Je cours pour l'arrester : mais il tombe, il expire ;
 Et fait dans son trépas, voir tant d'amour pour vous,  
 Qu'avec tout mon bon-heur, j'en suis presque jaloux.  
 
-    LAVINIE
+    LAVINIE.
 Je le plains, mais le bien qu'en vous le Ciel m'envoye  
 Ne laisse dans mon cœur, de lieu que pour la joye.  
 
-    TIRRHENE *à Lavinie*
+    TIRRHENE *à Lavinie*.
 C'est à vous que le sceptre est dû par ce trespas.  
 
-    LAVINIE
+    LAVINIE.
 De mes droits pour regner, ne vous allarmez pas.  
 Si le sceptre m'est doux, ce n'est pas pour moy-mesme,  
 C'est pour mieux l'asseurer aux mains de ce que j'ayme.  
@@ -2994,14 +2994,14 @@ Vostre Fils de nouveau couronné par l'Amour.
 Fin du cinquième & dernier Acte.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourcesPoétique
+## Sources.Poétique
 
 
 
-## Ouvrages du XVII*e* siècleOropaste ou le faux Tonaxare
+## Ouvrages du XVII*e* siècle.Oropaste ou le faux Tonaxare
 Œuvres complètes
 Théâtre du XVII*e* siècle
 Œuvres complètes
@@ -3010,14 +3010,14 @@ Les MechmenesŒuvres
 
 
 
-## BibliographiesHistoire du théâtre français depuis son origine jusqu'à présent
+## Bibliographies.Histoire du théâtre français depuis son origine jusqu'à présent
 Les Elsevier. Histoire et annales typographiques
 Bibliographie de la littérature française du dix-septième siècle
 Bibliographie critique du théâtre de Quinault
 
 
 
-## BiographiesLa vie de Monsieur Quinault de l'Académie Françoise avec l'origine des opera en France, en tête de l'édition de la Petite Bibliothèque des Théâtres
+## Biographies.La vie de Monsieur Quinault de l'Académie Françoise avec l'origine des opera en France, en tête de l'édition de la Petite Bibliothèque des Théâtres
 Œuvres choisies de Quinault
 Philippe Quinault, sa vie et son œuvre
 Philippe Quinault : sa vie, ses tragédies et ses tragi-comédies
@@ -3025,7 +3025,7 @@ Les Visages de l'amour au XVII*e* siècle
 
 
 
-## Travaux sur le XVII*e* siècleL'Esthétique de la tragi-comédie en France de 1628 à 1643
+## Travaux sur le XVII*e* siècle.L'Esthétique de la tragi-comédie en France de 1628 à 1643
 Le Classicisme
 La Dramaturgie classique en France
 Recherches de thématique théâtrale. L'exemple des conseillers des rois dans la tragédie classique
@@ -3037,7 +3037,7 @@ Lycée, ou Cours de littérature ancienne et moderne
 
 
 
-## Sur l'esthétique théâtraleLire le théâtre
+## Sur l'esthétique théâtrale.Lire le théâtre
 Le Théâtre
 
 

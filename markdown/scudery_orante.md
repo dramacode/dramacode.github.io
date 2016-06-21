@@ -17,7 +17,7 @@ A PARIS, Chez AUGUSTIN COURBE, imprimeur & Libraire de Monsieur frere du Roy, da
       maîtrise sous la direction de Georges Forestier (2000-2001).
 
 
-# La pièce et son auteur
+# La pièce et son auteur.
 
 
 ## Qui était Georges de Scudéry ?
@@ -154,7 +154,7 @@ Scudéry a été la victime (comme beaucoup de dramaturges de cette époque), du
 *– Almahide ou l'Esclave reine*, Paris, 1660-1663, 8 vol., in-8°.
 
 
-## Le théâtre des années 1630
+## Le théâtre des années 1630.
 
 Ces années voient apparaître une nouvelle génération de dramaturges. C'est véritablement l'âge d'or du théâtre qui commence. Georges Mongrédien écrit que le théâtre « est né en réalité en 1630 [23] ». Commencent en effet leur carrière entre 1628 et 1629 des hommes comme Rotrou (l'*Hyponcondriaque* en 1628), Corneille (*Mélite* en 1629), Baro (*Célinde* en 1629), et évidemment Scudéry (*Ligdamon et lidias* en 1629).
 
@@ -194,7 +194,7 @@ Pourvu que dans leurs poèmes, ils eussent mêlé confusément les amours, les j
 Mais Sarasin généralise excessivement, et l'on peut dire que, pour beaucoup d'entre eux, ce n'est pas « qu'ils croyaient avoir fait », mais qu'ils avaient souvent effectivement fait « un bon poème dramatique ». On ne peut pas juger d'après les règles classiques, des pièces écrites avant celles-ci. Et nous pouvons dire que Scudéry est un homme de son temps. Doté d'un tempérament fougueux, élevé au son des récits de batailles navales de son père, il aimait ce genre dramatique. Bien qu'il ait été un des théoriciens du classicisme [33], il a abandonné le théâtre quand les règles se sont installées. Le théâtre de Scudéry correspond tout à fait à la nouvelle esthétique dont parle Jean Rousset : « une esthétique, du mélange, du changement et de la luxuriance [34]. »
 
 
-## Création et réception
+## Création et réception.
 
 Nous n'avons aucune information sur la création d'*Orante*. Lancaster [35] pense qu'elle a été produite au début de l'année 1633. Comme nous n'en trouvons aucune trace dans la mémoire de Mahelot, il est probable que ce soit la troupe de Montdory qui l'ait jouée. Eveline Dutertre dans *Scudéry dramaturge* [36] situe la représentation de cette tragi-comédie en 1635, et sa composition en 1634-1635. Nous ne savons pas sur quoi elle s'appuie. Et, par ailleurs, si l'on refuse d'admettre l'hypothèse de Lancaster, selon qui la pièce est plus ancienne, on se heurte à une difficulté : bien que Scudéry soit un écrivain très fécond, est-il possible qu'il ait composé en un an cinq pièces de théâtre ?
 
@@ -217,17 +217,17 @@ Grâce aux indications trouvées dans le texte, nous remarquons que certains acc
 Nous avons donc cherché de quelles façons étaient représentés les différents lieux de l'action, et nous avons effectué un montage en utilisant le décor de *Ligdamon et Lydias* de Scudéry, et celui de *Ménechmes* de Rotrou. Nous renvoyons pour cela le lecteur à l'appendice V (voir la version imprimée déposée à la Bibliothèque de l'Institut de littérature française).
 
 
-## Le jeu de paume de la fontaine
+## Le jeu de paume de la fontaine.
 
 
-### L'itinéraire de la troupe du Théatre du Marais
+### L'itinéraire de la troupe du Théatre du Marais.
 
 C'est en 1629 que la troupe des Comédiens du Prince d'Orange tente de s'établir définitivement à Paris, disputant l'exclusivité du Théâtre de l'Hôtel de Bourgogne à la troupe des Comédiens du Roi. Mais ce sont ces derniers qui finissent par s'entendre avec les Confrères de la Passion, propriétaires du théâtre, pour une location permanente. Les Comédiens du Prince d'Orange vont donc aller de jeu de paume en jeu de paume : le jeu de paume de Berthault, tout d'abord ; puis le 12 décembre 1631, la troupe s'installe au jeu de paume de la Sphère, rue Vieille du Temple. Le bail nous indique que le loyer, trois cent soixante livres tournois, était cher pour l'époque. C'est pourquoi la troupe déménage trois mois plus tard. Les comédiens s'installent alors le 15 mars 1632, au « tripot de la fontaine » dans la rue Michel le Comte. Il s'agit d'un jeu de paume. Le seul document que nous ayons est une requête des voisins pour se plaindre des désagréments que cause la proximité du théâtre. Cela nous permet d'apprendre que la troupe attire un public nombreux. La rue Michel le Comte est étroite et à la fin de la représentation les gens envahissent les lieux. Il ne reste alors aucune place pour « les gens de pieds ». Ces attroupements laissent aussi la porte ouverte aux petits vols et menus larcins. Les voisins ont donc porté plainte au près d'Avenet, le propriétaire des lieux. Ce dernier ne voulant pas expulser la troupe qui, du reste, avait un bail de deux ans, les plaignants déposent une requête au Parlement. Il est finalement décidé que les comédiens pourront rester dans le jeu de paume de la Fontaine jusqu'à la fin de leur bail. D'après Lancaster, c'est dans ce théâtre qu'*Orante* est représentée.
 
 Enfin, en mars 1634, la troupe s'installera dans le jeu de paume de la rue Vieille-du-Temple, dans le quartier du Marais, et elle s'illustrera désormais sous le nom de « Théâtre du Marais ».
 
 
-### À quoi ressemblait un jeu de paume
+### À quoi ressemblait un jeu de paume.
 
 Au XVI*e* siècle, les jeux de paume furent les premières salles à acceuillir des troupes de théâtre.
 
@@ -239,7 +239,7 @@ Nous n'avons guère d'informations sur le jeu de paume de la fontaine. D'après 
 lesdits preneurs laisseront jouir lesd. Avenet et sa femme de la grande chambre sur le devant qui est au-dessus de la porte du jeu de paume [44].
 
 
-# Les sources
+# Les sources.
 
 
 L'on a tant fait d'avant propos, qu'il est comme impossible maintenant que mes pensées ne se rencontrent avec celles d'un autre.
@@ -247,7 +247,7 @@ L'on a tant fait d'avant propos, qu'il est comme impossible maintenant que mes p
 « Au Lecteur », *Orante.*
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 I) L'action se déroule en Italie. Isimandre, le fils du roi de Naples, est amoureux d'Orante. Malheureusement une terrible haine oppose les familles de ces jeunes gens. Or ces derniers ont été séparés car Poliante, le père d'Isimandre et roi de Naples, a chassé la jeune fille et sa mère, Lucinde, de son royaume. La mère d'Orante « étant veuve et ne sachant que faire » est partie se réfugier chez Ormin, « leur proche cousin », qui est roi de Pise. Isimandre ne supportant pas cette séparation, a envoyé Clindor, son fidèle écuyer, remettre une lettre pleine d'amour à Orante. Pendant ce temps, la jeune fille souffre, elle aussi, car sa mère, Ormin et Palinice (la femme de ce dernier), veulent la marier à Florange, un vieux barbon. Mais Ormin a une idée toute particulière sur l'issue de cet éventuel mariage : malgré leur liens familiaux, il est éperdument épris de sa jeune cousine. Pour conquérir Orante, absolument vertueuse, il espère séduire la belle, dégoutée par la laideur de son mari. Pendant ce temps, la jeune fille ne pouvant supporter l'idée de cette union décide de mettre fin à ses jours en débandant son bras qui venait d'être saigné. Mais avant de perdre connaissance, elle écrit de son sang : « tienne je meurs mon Isimandre. » C'est alors que Nérine amenant joyeusement la lettre d'Isimandre, entre dans la chambre et découvre la jeune fille évanouie « baignant dans son sang ». Elle se retourne alors vers Clindor le messager, et pensant qu'Orante est morte, lui remet l'ultime message en demandant à son maître de venger cette pauvre enfant. Clindor part sur-le-champ. Aux cris de la suivante tout le monde accourt alors, on ranime la jeune fille, mais le messager est déjà parti.
 
@@ -278,10 +278,10 @@ Pendant ce temps, Ormin qui attend Isimandre au lieu de rendez-vous, est attaqu�
 Les deux hommes retrouvent au palais Lucinde et Palinice. Poliante et Ormin mettent fin à la guerre qui opposait leurs deux familles. Palinice pardonne à son mari repentant et décide d'oublier le passé. Poliante, qui s'est pris d'affection pour Cléomire, demande à le voir et à sa grande surprise découvre Orante. Lucinde pardonne l'escapade des deux amoureux, et le père d'Isimandre accorde leur union.
 
 
-## *L'Astrée* d'Honoré d'Urfé
+## *L'Astrée* d'Honoré d'Urfé.
 
 
-### Les ressemblances
+### Les ressemblances.
 
 Orante est la quatrième pièce que Scudéry tire d'un épisode de l'*Astrée* [45]* : L'Histoire de Cryséide et Arimant* [46], comme l'a montré Barterau [47].
 
@@ -361,7 +361,7 @@ Et j'aime trop mon fils pour le vouloir contraindre ;
 L'entretien entre Orante et Poliante suit le même déroulement que dans le roman. Peu à peu le père cède.
 
 
-### Le travail de dramatisation
+### Le travail de dramatisation.
 
 Scudéry n'a pas suivi docilement ce que lui indiquait l'*Astrée*, il a effectué un réel travail de dramatisation, et a dû procéder à quelques modifications pour adapter cette histoire à la scène.
 
@@ -452,7 +452,7 @@ Selon E. Dutertre [56], le choix de transformer le héros non pas en vendeur de 
 Nous avons donc vu que Scudéry visait deux effets dans son remaniement du roman. Il a tout d'abord cherché à condenser l'action dramatique et à réduire sa durée pour qu'elle puisse s'adapter aux exigences du théâtre. Il a ensuite accentué le coté dramatique de certaines scènes. Scudéry a joué sur l'émotion du spectateur en ménageant des effets de surprise et d'angoisse.
 
 
-## *Chryséide et Arimant*, 1*re* tragi-comédie de Mairet
+## *Chryséide et Arimant*, 1*re* tragi-comédie de Mairet.
 
 L'histoire de Cryséide et Arimant avait déjà inspiré une tragi-comédie, publiée en 1625, par Mairet sous le titre : *Cryséide et Arimant*. H. C. Lancaster a montré dans son édition critique que cette oeuvre avait eu une très grande importance dans l'histoire du théâtre au XVII*e* siècle. « C'est le premier essai dramatique de Mairet et de sa génération, qui est celle de Corneille [57]. » Mairet, en effet ouvre une porte et établit une sorte de « trait d'union » entre Hardy et Corneille ou encore Scudéry.
 
@@ -465,7 +465,7 @@ Scudéry s'est davantage concentré sur la première partie de cette histoire, e
 Par ailleurs, Lancaster montre que Mairet a été très influencé par *Pyrame* de Théophile de Viau, qui fut son ami intime. Il n'existe donc comme point commun dans ses deux pièces que l'histoire de deux amants qu'un rival sépare.
 
 
-## Les influences de Hardy
+## Les influences de Hardy.
 
 Comme Lancaster le rappelle [59], Bartereau a découvert la source d'un passage (III, 7) :
 
@@ -486,10 +486,10 @@ Et ne prétends borner mon empire des Cieux.
 Il n'est pas tellement étonnant de retrouver chez Scudéry, ou chez d'autres des passages provenant de pièces de Hardy. Ce dramaturge est le père fondateur du théâtre du XVII*e* siècle. Comme le dit Roger Guichemmerre, c'est lui qui « va populariser la tragi-comédie et en fixer les caractéristiques ».
 
 
-# La structure de la pièce
+# La structure de la pièce.
 
 
-## « Une tragi-comédie des amours contrariées »
+## « Une tragi-comédie des amours contrariées ».
 
 Orante, selon la classification de R. Guichemmerre [60], est « une tragi-comédie des amours contrariées ». Cela ressemble à une tragi-comédie d'aventure, mais l'intrigue est centrée sur les amours des protagonistes. La pièce se résume en effet à la seule question : Malgré tous les obstacles, Orante et Isimandre vont-ils pouvoir s'aimer ?
 
@@ -504,7 +504,7 @@ Ces trois fils constituent tous un obstacle au bonheur des héros et l'intrigue 
 Par ailleurs les fils secondaires sont également liés entre eux. Florange et Ormin sont tous les deux opposés à Isimandre, mais ils sont aussi rivaux car amoureux de la même femme. Ainsi leur fils se croisent souvent : Ormin, après avoir soutenu Florange dans son projet de mariage, lui défend ensuite d'approcher Orante. Ce sont pour ces mensonges que Florange va chercher à se venger, et c'est cela qui va permettre le dénouement.
 
 
-## Recherche du spectaculaire
+## Recherche du spectaculaire.
 
 Même quand Scudéry se fait le porte-parole de la doctrine classique, il ne cesse de réaffirmer son goût pour les histoires merveilleuses et surprenantes. Dans la préface de *Didon* [64], il déclare :
 
@@ -545,7 +545,7 @@ Ce type de scène ne choque pas encore dans les années trente. Il s'agirait pou
 Eveline Dutertre va jusqu'à parler de merveilleux. L'évanouissement d'Orante et son réveil sont, selon elle, une mort suivie d'une résurrection. Ces propos semblent un peu exagérés, car il s'agit en réalité d'un évanouissement. Cependant, il est vrai que dans le roman, les personnages insistent à plusieurs reprises sur le coté extraordinaire de ce retours à la vie. Le messager de Cryséide confie à Arimant : « Seigneur, respondit le messager, elle a encor esté plus mal que l'on ne vous a point dit ; car on peut dire qu'elle a esté morte, et puis retournée en vie [68]. »
 
 
-## L'espace et le temps : sous le signe du mouvement
+## L'espace et le temps : sous le signe du mouvement.
 
 Tout est mouvement et agitation dans *Orante.* Tout d'abord, Scudéry déplace son théâtre très souvent. Eveline Dutertre compte 15 changements de lieux [69]. Ce simple fait donne à l'action un mouvement indéniable. Il faut ajouter à cela les déplacements des personnages et les nombreux aller et retours entre Naples et Pise. Ces voyages s'accompagnent d'une profusion de verbes de mouvements. Isimandre parle de « l'esloignement de l'homme … qui doit rendre (sa) lettre » (I, 1). Clindor en effet est parti depuis six jours. Arrivé à Pise, il revient aussitôt avec le billet funèbre (II, 8). Mais ce n'est que pour repartir aussitôt ; car Isimandre veut se venger : « Partons Clindor, allons lui rendre cét office ; ». Entre temps Lucinde projette de partir pour Florence. Palinice lui conseille ce voyage pour échapper à Ormin (v. 735-738) :
 
@@ -637,7 +637,7 @@ La robe retroussée & les cheveux espars.
 Il est par ailleurs très difficile d'évaluer la durée de l'action. Nous savons que Clindor met six jours pour apporter la lettre à Orante. Mais combien de temps lui faut-il pour rapporter le billet de la jeune fille ? Est-ce que les six journées représentent le temps qu'il a fallu au serviteur pour faire l'aller retour ? Nous n'avons rien de précis. Nous savons tout du moins que l'action s'étend sur quelques semaines.
 
 
-## Les déguisements
+## Les déguisements.
 
 Les déguisements sont assez communs : Le héros change de condition pour s'introduire chez sa belle. Cette motivation est l'une des plus courantes comme l'explique Georges Forestier : « l'approche est la principale finalité des déguisements masculins [72]. » L'héroïne se travestit pour échapper à un mariage. Ce déguisement motivé par la fuite est lui aussi assez commun. Il s'agit de deux déguisements d'apparence conscients. Nous pouvons compter un troisième déguisement qui est celui de la suivante, que Georges Forestier appelle un « déguisement accessoire [73] ».
 
@@ -679,12 +679,12 @@ Et je vous serviray pour tous les deux ensemble :
 Ce changement d'attitude nous prouve que le déguisement d'Orante conditionne sa manière de parler.
 
 
-# Les personnages
+# Les personnages.
 
 La pièce de Scudéry met en scène des personnages tout à fait communs aux autres tragi-comédies. Leurs traits de caractère sont assez conventionnels, et pour reprendre les termes d'Eveline Dutertre, les personnages « se réduisent à quelques marionnettes sans épaisseur humaine [74] ». Comme nous l'avons déjà dit, les dramaturges du début du XVII*e* recherchaient avant tout du spectacle, et n'accordaient qu'une place très réduite aux caractères des personnages.
 
 
-## Un couple de héros
+## Un couple de héros.
 
 Les personnages centraux sont, sans doute possible, Orante et Isimandre. Mais il faut tout de même noter que le véritable héros de la pièce n'est pas, comme le titre pourrait nous le laisser penser, Orante, mais Isimandre. Nous en avons l'indication dès le début dans la liste des acteurs. Comme l'écrit Jacques Scherer [75] : « On nomme d'abord dans la pièce … les véritables héros … après eux … leurs maîtresses. »
 
@@ -773,7 +773,7 @@ Que pour mettre en repos l'une & l'autre famille,
 Scudéry semble avoir esquissé un personnage assez déterminé. Elle n'hésite pas, ou à peine [77], à s'enfuir avec son amant, déguisée en homme vers une terre dont elle a été exilée.
 
 
-## Les rivaux
+## Les rivaux.
 
 Les personnages des rivaux, Ormin et Florange sont deux caractères assez différents. Le premier, bien qu'étant un personnage secondaire semble être très dépendant de l'action. Le deuxième, est d'une façon plus schématique LE mauvais de l'histoire, et le sort que la pièce lui réserve nous l'indique : c'est à partir de sa mort que tout va pouvoir s'arranger.
 
@@ -885,7 +885,7 @@ La lacheté, l'égoïsme, l'amour de l'argent, il est clair que le vieillard res
 Absolument ridicule, laid et mal-honnête, Florange d'une façon schématique, est le repoussoir du héros.
 
 
-## Des amoureux précieux
+## Des amoureux précieux.
 
 L'attitude des personnages amoureux correspond au code de l'amour tendre. Ce code établit une ligne de conduite que le couple doit respecter.
 
@@ -903,7 +903,7 @@ Je me vante de mes douleurs ;
 Tant je cheris ma servitude :  
 
 
-## Les parents
+## Les parents.
 
 Ils ont dans Orante un rôle assez minime. Ils ont tous les deux une fonction d'opposant : Lucinde, car elle veut marier sa fille à Florange, et Poliante car il est celui qui a exclu Orante et sa mère.
 
@@ -950,13 +950,13 @@ Il est aussi sage et clément. Il condamne cette haine qui l'oppose à la famill
 Poliante représente, plus qu'un simple obstacle au bonheur des héros, l'image du roi juste. Reconnaissant ses erreurs, aimant son fils, et plaçant au-dessus de tout l'honneur.
 
 
-# L'écriture de la tragi-comédie
+# L'écriture de la tragi-comédie.
 
 
-## Les thèmes
+## Les thèmes.
 
 
-### Le thème du hasard et de l'inconstance
+### Le thème du hasard et de l'inconstance.
 
 Dans toute la pièce les personnages ne cessent de se plaindre de la fortune et de son inconstance.
 
@@ -974,7 +974,7 @@ Nous trouvons aussi dans *Orante* une idée de discontinuité. Tout d'abord dans
 Tous ces éléments traduisent à travers cette irrégularité, un gôut pour l'inconstance et l'illusion. Comme le précise Georges Forestier [95], le début du XVII*e* est en pleine transition, l'homme passe des valeurs sûres médiévales aux doutes de la renaissance, et c'est ce qui explique le succés que connaît ces thémes dans les années trente.
 
 
-### La nature
+### La nature.
 
 Les éléments de la nature reviennent très souvent dans cette tragi-comédie. Cette récurrence n'est pas sans importance. Comme le souligne Jean Rousset, cette « nature est à demi symbolique ». L'*Astrée* a donné comme un modèle de vie à ses lecteurs. Ce célèbre roman nous enseigne qu'il faut se tourner vers la nature, et qu'elle est en fait « un songe d'amour ». Les héros d'*Orante* ne cessent d'y faire appel. La beauté d'Orante dépasse selon Isimandre les plus belles choses du monde : les lys, les roses, l'albastre, le corail, les perles ou encore l'or. Clindor nous confie que son maître, malheureux d'être séparé de sa bien aimée, se réfugie dans les bois. C'est dans ces lieux que l'amour lui a dicté sa lettre. Comme dans la pastorale, tout est amour dans cette nature.
 
@@ -1001,7 +1001,7 @@ Les chaînes d'amoureux qui se poursuivent en vain dans les sous-bois et qu'un D
 Ces deux courants donnent à *Orante* une même dominante, c'est l'instabilité.
 
 
-### Le pictural
+### Le pictural.
 
 Dans la préface d'*Andromire*, Scudéry reprend le traditionnel parallèle entre la poésie et la peinture :
 
@@ -1030,7 +1030,7 @@ Voyez de Jupiter le regard inhumain ;
 Comme il hausse le bras, la foudre dans la main.  
 
 
-### Les réalités dédoublées
+### Les réalités dédoublées.
 
 L'intervention de ces scènes picturales a une importance toute particulière. Tout d'abord nous assistons réellement à une sorte de dédoublement de l'action. Comme l'explique Emmanuelle Hénin [101], dans les années 1630-1650, le théme du tableau dans le théâtre connaît un grand dévelopement, comme le témoigne *Le Mémoire de Mahelot*. « Le procédé prend alors deux formes, selon que le tableau intérieur réfléchit le contenu ou la forme de la représentation ». *Orante* appartient à la première catégorie. Les quatre peintures que nous présente Isimandre « contiennent en germe une partie de l'histoire, sous une forme voilée ». La scène illustrant la trahison d'Ixion avec le double de Junon annonce le sort réservé à Florange. Comme le personnage mythologique, le vieillard poursuit une femme qui le rejette et qui en aime un autre. Apollon poursuivant Dafnée, qui pour lui échapper se transforme en bois, illustre tout à fait l'attitude d'Ormin, qui va suivre Orante, déguisée en homme, jusqu'à Pise pour l'enlever des mains d'Isimandre. L'issue de ces deux épisodes annonce le dénouement heureux de la pièce. En effet, dans un cas, Ixion meurt par la main du mari, et dans l'autre Apollon laisse vivre paisiblement Dafnée transformée en laurier.
 
@@ -1058,7 +1058,7 @@ L'annonce de la fausse mort d'Orante apporte elle aussi une image dédoublée de
 Cet aspect se retrouve dans l'utilisation des déguisements. C'est le dédoublement des personnages qui va permettre de débloquer la situation des deux amants.
 
 
-## La métaphore
+## La métaphore.
 
 Comme le souligne Jean Rousset, la métaphore est la figure baroque par excellence [102], car elle transforme la réalité de l'objet.
 
@@ -1078,7 +1078,7 @@ Et c'est justement la surprise que Scudéry recherche. Le public veut des scène
 Cette métaphore donne une image très mouvementée de la colère et correspond, selon nous, à ce que décrit Jean Rousset.
 
 
-## La stichomythie
+## La stichomythie.
 
 Nous remarquons deux passages en stichomythie. Comme le précise R. Guichemerre, cette figure est particulièrement appréciée des dramaturges baroques « pour sa vivacité pathétique [105] ». En effet, ce procédé frappe les oreilles autant que l'esprit. Ces affrontements verbaux suivent un crescendo qui finit souvent dans une explosion de violence. C'est le cas de la scène 10 de l'acte IV. Les propos au fil des vers se font plus violents et aggressifs. En effet, le rythme se fait plus haletant multipliant interrogations, interjections et exclamations (v. 1119-1126) :
 
@@ -1114,7 +1114,7 @@ Un autre passage en stichomythie occupe toute la scène 8 de l'acte IV et une pa
 En effet le rappel de champs lexicaux vient renforcer l'impression de vitesse et attire l'attention du public. Nous pouvons voir Florange s'enfoncer peu à peu dans le désespoir le plus complet. Le vieil homme commence par des plaintes : « souffrez qu'elle (la voix) me serve à pleindre ». Puis l'hyperbole « le plus grand des malheurs » est vite remplacée par le désir de mourir : « Donnez moy cette fin en celle de mes jours ». L'impression de lente descente est renforcée par les connecteurs sémantiques. Le « mal » (v. 1064) fait écho au « mal-heur » (v. 1063), « cette fin » (v. 1066) renvoie à l'« inévitable fin » (v. 1065), La « vieillesse » (v. 1072) est reprise par « âge » (V. 1073). Le rappel des champs lexicaux combiné à cette figure de style donne une dynamique propre à émouvoir le spectateur. Cela entraîne le public dans l'empressement et la panique des deux amants.
 
 
-## Les stances
+## Les stances.
 
 Nous avons dans cette pièce deux passages en stances. Ce mode est très utilisé par Scudéry. Tout d'abord le dramaturge satisfaisait les acteurs qui réclamaient dans leur texte des passages en stances. Cela leur permettait de mettre en valeur leur maîtrise de la déclamation.
 
@@ -1160,10 +1160,10 @@ Cette longue plainte amoureuse marque une pause à un moment tout à fait strat�
 Les stances, que certains ont prises pour un ornement artificiel et prétentieux, trouvent ici leur place dans l'action, et participent pour une grande part au rythme dramatique de la pièce.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 
-## Édition originale
+## Édition originale.
 
 Il n'existe qu'une édition d'*Orante*, exécutée en 1635 à Paris par le libraire Augustin Courbé. En voici la description :
 
@@ -1188,7 +1188,7 @@ Pages non chiffrées :
 Le texte de la pièce est précédé d'un rappel du titre en haut de la première page.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Il semble qu'il n'y ait eu qu'une seule édition, cependant nous avons remarqué dans un exemplaire se trouvant à la Bibliothèque nationale, qu'une des fautes signalées par l'auteur a été corrigée. Les trois autres exemplaires que nous avons consultés comportaient l'*errata*. Il s'agit de la même édition dans tous les cas. Nous en avons déduit que l'imprimeur avait peut-être corrigé cette faute au cours de l'impression de cette édition.
 
@@ -1209,7 +1209,7 @@ Nous avons entrepris les modifications traditionnelles aux usages typographiques
 – Pour finir, nous avons retranscrit en caractère romain le texte à l'origine en italiques. Et inversement, les didascalies en caractères romains ont été transformées en italiques.
 
 
-## Rectifications
+## Rectifications.
 
 Nous avons respecté la ponctuation de cette unique édition, cependant nous avons procédé à une correction. Nous avons remarqué deux absences de ponctuation aux vers 304 et 948, qui nous ont paru fautives. Il ne s'agit pas d'une interruption du discours. Au vers 304, le personnage finit sa phrase normalement, et le vers 948 est le dernier de la scène 2 de l'Acte IV. La scène suivante se déroule dans un autre lieu, et est consacrée au monologue d'Ormin. Nous avons donc ajouté un point dans les deux cas.
 
@@ -1258,10 +1258,10 @@ v 1339: *suivez* ( faute signalée par l'auteur ).
 p 112 :: *ORMIN.*
 
 
-# ORANTE TRAGI-COMEDIE
+# ORANTE TRAGI-COMEDIE.
 
 
-## A MADAME, MADAME LA DUCHESSE DE LONGUEVILLE [111]
+## A MADAME, MADAME LA DUCHESSE DE LONGUEVILLE [111].
 
 Madame,
 
@@ -1736,7 +1736,7 @@ Adieu cher Isimandre, adieu, je perds le jour.
 ORANTE [148], NERINE.
 
 
-    [NERINE]
+    [NERINE].
 Que me donneriez vous d'une bonne nouvelle ?  
 Madame, vous dormez ; c'est en vain que j'appelle :  
 Ha Ciel ! quel accident⁎ ? au secours mes amis ;  
@@ -2677,7 +2677,7 @@ Ha ! que n'ay-je son cœur, ainsi qu'il a mon ame.
 Il dit ce vers bas.
 
 
-    ORANTE. 
+    ORANTE.
 Elle tient le premier Tableau [191].
 
 Monsieur, cét Ixion me semble le plus beau  
@@ -3140,14 +3140,14 @@ Que votre œil se prepare à voir tomber la foudre.
 Que je ne meure point d'un coup inopiné ;  
 Orante vient icy ;  
 
-    ISIMANDRE
+    ISIMANDRE.
         Vous l'avez deviné.  
 Approche mon espoir,  
 Elle arrive.
 
 
 
-### SCENE NEUFIESME
+### SCENE NEUFIESME.
 ORANTE, ISIMANDRE, FLORANGE, CLINDOR, NERINE.
 
 
@@ -3163,7 +3163,7 @@ Il monstre Florange.
     ORANTE.
 Ha ! chassez ce phantosme il desplait à mes yeux.  
 
-    FLORANGE 
+    FLORANGE. 
 Que par l'ombre du bien l'ame est souvent trompée :  
 Il parle bas.
 
@@ -3385,12 +3385,12 @@ Et j'en serois indigne, en vivant sans honneur⁎ :
 Ha ! mon affliction n'a rien qui la console.  
 Où me dois tu mener ?  
 
-    LERISTE
+    LERISTE.
         Du costé de Pouzzole [215].  
 Mais sans vous designer espressément le lieu,  
 Je vous y conduiray,  
 
-    ISIMANDRE
+    ISIMANDRE.
         Je le veux bien ; adieu.  
 Separons nous, je crains que mon pere ne sorte :  
 Je te suy pas à pas, va m'attendre à la porte.  
@@ -3426,23 +3426,23 @@ Que ce nom desormais soit banny d'entre nous ;
 Veux-tu pour l'obtenir que je sois à genous ?  
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 ORANTE, ISIMANDRE.
 
 
-    ORANTE 
+    ORANTE. 
 Cruel, que ne fais tu ce que ta voix m'ordonne ?  
 
-    ISIMANDRE
+    ISIMANDRE.
 Le Ciel m'a refusé les graces qu'il te donne ;  
 Et mon discours n'a point l'art de persuader :  
 Helas ! je le vois bien, tu ne veux pas m'aider :  
 
-    ORANTE
+    ORANTE.
 Charmeur, tes volontez sont tousjours souveraines ;  
 Elles tiennent sur moy la qualité de Reines.  
 
-    ISIMANDRE
+    ISIMANDRE.
 L'espreuve en fera foy ; le voicy, tu le vois,  
 Adieu, peut-estre adieu, pour la derniere fois.  
 Il dit ce vers bas.
@@ -3740,7 +3740,7 @@ S'il la tenoit cachée il seroit aupres d'elle ;
 Ces plaisirs dérobez attachent tout le jour ;  
 Je la croy plus à luy, puis qu'il a moins d'amour.  
 
-    LUCINDE
+    LUCINDE.
 Plûst au Ciel que ce mal eust enfin bonne issuë ;  
 Et qu'elle fust ainsi que vous l'avez conçeuë ;  
 Je me consolerois ; ma fille auroit bien fait ;  
@@ -3899,13 +3899,13 @@ Des Enfans aussi bons que vous l'aurez esté.
 FIN.
 
 
-# GlossaireDictionnaire de l'Académie française
+# Glossaire.Dictionnaire de l'Académie française
 Dictionnaire universel
 Dictionnaire français
 Accidens« Evenement fortuit ; hasard ; coup de fortune ; malheur imprévu. » (F.)V. 287, 913, 994, 1149Advanture« Chose qui arrive inopinément. » (F.)V. 147, 497, 834, 953, 1069Advis« Avertissement, instruction, qu'on donne à quelqu'un ou quelque chose qu'il ignore, ou à quoy il ne prend garde. » (F.)V. 674, 699, 720, 1092Allégeance« Soulagement d'un mal. » (F.)V. 605, 1173Amitié« Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un coté, soit qu'elle soit réciproque. » (F.)V. 129, 428, 860, 967, 1244, 1261, 1423Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les attirer, à les inviter à faire quelque chose. » (F.)V. 65, 229, 364, 751, 769, 887Arrest« Jugement d'une puissance souveraine, & en dernier ressort, contre lequel il n'y a nul appel. » (F.)V. 503, 556Astre« Se dit figurément en Morale, d'une personne extraordinaire en mérite, en beauté. » (F.)V. 491Besoing« Necessité ; affaire. » (F.)V. 1235Bonté« Bienveillance ; affection ; tendresse. » (F.)V. 201Cartel« Defi par écrit pour un combat singulier. » (A.)Début acte VCeler« Tenir quelque chose cachée, & secrète ; dissimuler ; taire. » (F.)V. 3, 696Change« Se dit en morale et signifie, changement. (…) Ce mot est plus usité en poësie, on ne s'en doit servir que très rarement, & à moins qu'il ne soit employé bien à propos. » (F.)V. 156, 323, 557Choquer« Heurter avec violence. Signifie figurément, quereller, offenser. » (F.)V. 699, 913, 954, 1149Constance, constant« Force de l'âme qui la maintient toujours dans une assiette ferme, & tranquille, et qui la rend inébranlable aux disgrâces de la fortune, à la douleurs, à l'affliction, à la nécessité… » (F.)V. 253, 434, 564, 791, 994Courage« … est aussi une force, ou une vertu qui élève l'âme, et qui la porte à mépriser les périls, à soutenir les douleurs, avec constance et fermeté. » (F.)V. 349, 432, 661, 898, 1210Crédit« Considération ; réputation ; estime qu'on acquiert dans le public par la vertu, la probité, la bonne foi, & le mérite. » (F.)V. 101Débile« Qui n'a pas les forces qu'il doit avoir naturellement et ordinairement. » (F.)V. 566, 1090Decevoir« Tromper adroitement ; seduire. » (F.)V. 407, 1042, 1261  Descouvrir« Montrer un chose qu'on doit cacher. » (F.)V. 93, 333, 624, 852Déplorable« Qui mérite d'être pleuré, qui attriste » (F.)V. 454Dérober« Se dit figurément en choses spirituelles & morales, & signifie, ravir ; enlever. » (F.)V. 224Diligence« Activité, promptitude à exécuter notre devoir, ou nos desseins. » (F.)V. 1089Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein, de se vanger, son entreprise, son travail. » (F.)V. 81Enfanter« Se dit figurément des productions, des conceptions de l'esprit. » (A.)V. 28Ennuy« Chagrin, déplaisir, souci. » (A.)V. 272, 500, 615, 999Entendre« Se dit figurément, & signifie, concevoir, comprendre, pénétrer dans les sens de celui qui parle, ou qui écrit. » (F.)V. 39Entreprise« Résolution hardie de faire quelque chose » (F.)V. 913Esprouver« Reconnoître, ressentir les effets » (F.)V. 129, 857, 994Estonner« Surprendre, épouvanter ; causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. » (F.)V. 211, 891, 1118Extase« Ravissement d'un esprit hors de son assiette naturelle, transport hors de soi-même qui suspend la fonction des sens, suspension des sens causée par une forte contemplation de quelque objet extraordinaire ou surnaturel. » (F.)V. 18Fantaisie« La détermination à croire, ou à vouloir les choses selon les impressions des sens. » (F.)V. 314, 1053Flatter« Déguiser la verité qui seroit désagréable à celui qui y est interressé ; lui donner une meilleur opinion d'une chose qu'il n'en doit avoir. » (F.)V. 407Foudre« Se dit figurément de la colère des dieu, ou des rois. » (F.)V. 77, 847Foy« Signifie encore, fidélité, assurance, promesse, serment, parole qu'on donne de faire quelque chose & de l'exécuter. » (F.)V. 215, 497, 564, 619, 659, 1179, 1183, 1364FranchiseLiberté, « en ce sens, il n'a guère d'usage qu'en poésie, et en parlant d'amour. » (A.)V. 76Fureur« Se dit figurément des emportements de colère, lorsqu'elle est violent et démesurée, des vices et des excès où l'on s'abandonne. » (F.)V. 73Généreux« Qui a l'âme grande et noble, & qui préfère l'honneur à tout autre interest. (…) Signifie aussi brave, vaillant, courageux. » (F.)V. 76, 124, 146, 417, 953, 1356, 1377Gesne« Torture. Les gesnes ont été mises en usage pour arracher la vérité de la bouche des grands criminels. » (F.)V. 316, 1044.Heur« Bonne fortune » (A.)V. 1082, 1211Honneur« Vertu, probité ; qualité qui nous porte à faire des actions nobles, courageuses, loyales, etc. » (A.)V. 319, 916, 1212« L'action, la démonstration extérieure par laquelle on fait connaître la vénération, le respect, l'estime qu'on a pour la dignité ou le mérite de quelqu'un. » (A.)V. 968« L'estime, la réputation dont une personne jouit dans le monde. » (A.)V. 742, 1006, 1426Humeur« Signifie en morale, la disposition, la situation de l'esprit. » (F.)V. 11, 43, 514Hymen, hyménéeMariage.V. 152, 325, 506, 1280Industrie« Dextérité, invention, adresse à faire réussir quelque chose, quelque dessein, quelque travail. » (F.)V. 781, 1186Insigne« Signalé, remarquable, qui se fait distinguer de ses semblables. Il se dict tant en bonne qu'en mauvaise part. » (F.)V. 227Irriter« Se dit figurément, & signifie exciter ; piquer ; aigrir ; rendre plus vif, & plus violent. » (F.)V. 262, 606Loyer« Salaire, prix, récompense. » (F.)V. 924« Plus en usage en vers qu'en prose » (R.)Lustre« Est un brillant qui résulte des choses polies, ou qui réfléchit agréablement la lumière. » (F.)V. 48, 158Martyrer« Vieux mot, qui signifie tourmenter, faire souffrir. » (F.)V. 309Mesuré, ée« On appelle des vers mesurez, des vers que nos anciens ont voulu faire à la manière, & avec les mesures des latins. » (F.)V. 6Mine« Physionomie, extérieur, air, disposition du corps, & surtout du visage. » (F.)V. 160, 753Monument« Signifie encore le Tombeau, & particulièrement en poésie. » (F.)V. 36, 239Objet« Chose où l'on arrête sa pensée, son cœur, son but, ou son dessein. » (R.)V. 45, 139, 346, 389, 472, 860Obliger« Faire quelque faveur, quelque plaisir ; rendre bon office. » (F.)V. 341, 719, 883Ombre« L'ame d'un mort, qu'on se représente sous la figure qu'il avoit vivant ; mais qui est une image vaine sans corps. » (F.)V. 585Pasmer (se)« Tomber en défaillance, perdre l'usage des sens ; ce qui arrive, lorsque l'agitation & les mouvements des esprits est arrêté par quelque cause, ou passion violente et subite. » (F.)V. 19, 765Port« Se dit de la mine, de l'air, de la contenance ; de la manière de marcher, de porter son corps. » (F.)V. 64, 1347Prodige« Signe ou accident surprenant dont on ignore la cause. » (F.)V. 294, 1472Relever« Signifie au sens figuré, faire paraître davantage une chose, lui donner plus de relief, plus d'éclat. » (A.)V. 15Sens« Signifie aussi l'opinion particulière d'une personne ; son advis, son sentiment ; sa pensée ; sa manière ; de connoître les choses ; d'en juger. » (F.)V. 977, 1303Souffrir« … se dit en sens moins étendu, en parlant de ce qui déplait, de ce qui incommode, qui gêne ou fait quelque peine aux gens, ou à l'esprit. » (F.)V. 460, 466, 487, 579, 1023, 1036, 1061, 1153, 1181, 1367Souspirer« Au figuré, éprouver de la douleur. » (A.)V. 221« Signifie quelque fois désirer ardemment, rechercher avec passion » (A.)V. 1278 Support« Se dit figurément en Morale, de ce qui donne à l'appui, de secours, de la protection. » (F.)V. 1029, 1225Susciter« Produire, mettre en avant, faire paroître. » (F.)V. 893Traict, trait« Terme générique qui signifie également, les flèches qu'on tire avec l'arc ou l'arbalète, et les dards & les javelots qui se lancent avec la main. » (A.)V. 133, 251, 762« En ce sens, se dit figurément, & poëtiquement des regards, & des charmes qui touchent les cœurs, & qui inspirent l'amour. » (F.)V. 57, 1177« Linéaments du visage ; et alors il s'emploie surtout au pluriel. » (A.)V. 594« En peinture signifie, une ligne au moyen de laquelle on imite la forme d'un objet. » (A.)V. 591Vœu« Hommage, soins amoureux. » (F.)V. 1, 165, 213
 
 
-# Appendice I : étude tabulaire
+# Appendice I : étude tabulaire.
  | ACTE I
 Scène 1 | Scène 2 | Scène 3 | Scène 4 | Scène 5 | Scène 6 | Scène 7 | Scène 8 | TOTAL
 ISIMANDRE | 69,5 |  |  |  |  |  |  |  | 69,5
@@ -3927,10 +3927,10 @@ TOTAL | 126 | 40 | 34 | 30 | 54 | 8 | 8 | 12 | 312
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Instruments de travailDictionnaire de l'Académie Françoise
+## Instruments de travail.Dictionnaire de l'Académie Françoise
 Dictionnaire Universel
 Petit glossaire français du XVII*e* siècle
 Dictionnaire français
@@ -3939,7 +3939,7 @@ Grammaire de la langue française du XVII*e* siècle
 
 
 
-## Œuvres de Georges de Scudéry utiliséesLa Comédie des Comédiens
+## Œuvres de Georges de Scudéry utilisées.La Comédie des Comédiens
 Observations sur Le CidLa Querelle du Cid, pièces et pamphlet publiés d'après les originaux
 L'Apologie du théâtre
 Le Cabinet de M. de Scudéry*re*
@@ -3949,7 +3949,7 @@ Arminius ou les frères ennemis
 
 
 
-## Textes de l'antiquité, du XVI*e*, du XVII*e* et du XVIII*e* siècleLa Poétique
+## Textes de l'antiquité, du XVI*e*, du XVII*e* et du XVIII*e* siècle.La Poétique
 Jugemens des Savans sur les principaux ouvrages des auteurs
 Mémoires
 Chryseide et Arimant
@@ -3966,7 +3966,7 @@ Les Amours tragiques de Pyrame et Thisbéœuvres du Sieur Théophile
 
 
 
-## Études et textes du XIX*e* et du XX*e* sièclesHistoire de la littérature françoise du XVII*e* siècle
+## Études et textes du XIX*e* et du XX*e* siècles.Histoire de la littérature françoise du XVII*e* siècle
 L'Esthétique de la Tragi-comédie en France de 1628 à 1643
 Georges de Scudéry als Dramatiker
 Morales du Grand Siècle

@@ -16,7 +16,7 @@ On la vend, A Paris, A l'Entrée de la Porte de l'Academie Royale de Musique Au 
 Édition critique établie par Nathalie Tramieux dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2004-2005)
 
 
-# Introduction
+# Introduction.
     
 
 Un Gascon chez les morts depuis peu descendu  
@@ -66,10 +66,10 @@ Cette chanson satirique anonyme, comme toute bonne chanson du genre, résume en 
 Cependant, en ce qui concerne *Médée*, Thomas Corneille a tendu une perche aux satiristes que ces derniers ne pouvaient pas ne pas saisir. En effet, en choisissant ce thème à la fin de sa vie – il a alors soixante-huit ans –, il reprend le sujet de la première tragédie de son frère, écrite en 1635. Le rapprochement, et *a fortiori* la comparaison des deux frères, s'imposent donc d'eux-mêmes, même si nous verrons plus tard à quel point le cadet s'est éloigné du modèle de son aîné.
 
 
-# Présentation : Thomas Corneille et son œuvre
+# Présentation : Thomas Corneille et son œuvre.
 
 
-## Quelques mots sur *Médée*
+## Quelques mots sur *Médée*.
 
 Médée, ou l'un des personnages les plus célèbres de la littérature antique : magicienne renommée, petite-fille du soleil, et nièce de Circé, épouse répudiée qui tua ses propres enfants pour se venger de son mari, Jason.
 
@@ -80,7 +80,7 @@ Le mythe de Médée suit donc immédiatement celui de la Toison d'Or, et met en 
 C'est ce sujet que Thomas Corneille, après tant d'autres, choisit de traiter, dans sa tragédie lyrique mise en musique par Marc-Antoine Charpentier.
 
 
-## L'auteur
+## L'auteur.
 
 Bien qu'il soit aujourd'hui presque méconnu, Thomas Corneille fut de son temps un écrivain à succès, très estimé de ses contemporains.
 
@@ -91,7 +91,7 @@ Parallèlement à sa carrière de dramaturge, il codirigea le *Mercure Galant* a
 S'il fut de son temps un auteur à la mode – sa tragédie *Timocrate* resta à l'affiche durant quatre-vingt représentations successives, devenant ainsi le plus grand succès théâtral du siècle –, Thomas Corneille tomba rapidement dans l'oubli au cours des siècles suivants, très brièvement mentionné dans les histoires de la littérature jusqu'au début du XX*e* siècle. La critique contemporaine commence à le réhabiliter [3], mais il est significatif de constater que la biographie de référence sur Thomas Corneille demeure celle de Gustave Reynier, qui date de la fin du XIX*e* siècle [4], et qu'Antoine Adam, dans son *Histoire de la Littérature Française du XVII**e**siècle* [5], ainsi que Lancaster, dans son ouvrage, *A History of French Dramatic Literature in the seventeenth century* [6] ne consacrent que quelques lignes à notre auteur.
 
 
-## Création et réception de l'œuvre
+## Création et réception de l'œuvre.
 
 *Médée* fut créée le 4 décembre 1693 à l'Académie royale de Musique, dans la salle du Palais-Royal [7]. C'est ce que rapporte le *Mercure Galant* daté du même mois, qui indique que
 
@@ -182,22 +182,22 @@ Opéra – Tragédie de M. Thomas Corneille, mise en Musique par M. Charpentier,
 Bien que représentée seulement une dizaine de fois lors de sa création, l'opéra de Thomas Corneille et de Marc-Antoine Charpentier marqua toutefois les esprits en son temps, avant de sombrer peu à peu dans l'oubli, jusqu'à ce que les *Arts Florissants*, sous la direction de William Christie, le recréent en 1984, puis que l'anniversaire du tricentenaire de la mort de Charpentier en 2004 remette à l'affiche cette œuvre magnifique.
 
 
-## Un sujet inédit en musique
+## Un sujet inédit en musique.
 
 Si *Médée* a toujours connu un grand succès en littérature, le personnage de la magicienne trahie n'apparaît pour la première fois en musique qu'en 1675, dans la tragédie en musique de Quinault et Lully, *Thésée*, qui raconte les amours contrariées de Médée (qui a oublié Jason) pour Thésée. L'opéra de Thomas Corneille et de Charpentier se situe donc chronologiquement avant l'intrigue de *Thésée*, et raconte en quelque sorte le premier volet du mythe. Il faut souligner les liens qui existent entre les deux opéras ; tout d'abord, Berain s'est occupé de la décoration dans les deux cas, et certains éléments, comme les chars de l'acte V, par exemple, présentent de nombreuses similitudes, ce qui assure une continuité entre les deux œuvres. Cette dernière est renforcée par la présence des mêmes chanteurs ; ainsi, Mlle Le Rochois, Duménil et Mlle Moreau, qui interprétaient respectivement les personnages de Médée, Thésée et Aeglé dans la reprise de Thésée de 1688, créent les rôles de Médée, Jason et Créüse en décembre 1693.
 
 Cependant, s'il faut attendre 1693 pour que Médée occupe le devant de la scène de l'Académie royale de Musique, le personnage de la magicienne trahie constitue un sujet d'opéra très en vogue depuis *Armide*, que Lully et Quinault ont présenté en 1686. Nous avons déjà souligné que pour la seule année 1693 sont présentées sur la scène de l'Opéra trois œuvres ayant pour héroïne une enchanteresse ; en outre, une reprise de *Circé* [26], autre magicienne, tante de Médée, sera donnée l'année suivante. L'opéra de Thomas Corneille et de Marc-Antoine Charpentier, malgré son échec relatif, inspire d'autres auteurs, Longepierre en 1694, dont nous avons déjà parlé, puis Pellegrin et Salomon, qui composeront un *Médée et Jason* en 1713, et obtiendront un grand succès lors de la création.
 
 
-# Dramaturgie
+# Dramaturgie.
 
 
-## Le prologue
+## Le prologue.
 
 Bergers et habitants des bords de la Seine invoquent la Victoire, la Gloire et Bellone, qui descendent sur terre chanter les victoires de Louis XIV contre l'Angleterre et la Hollande, et le retour à un paix prochaine.
 
 
-## Acte I
+## Acte I.
 
 **Scène 1** : Médée se plaint à sa confidente Nérine de ce que Jason la délaisse au profit de la princesse de Corinthe, Créüse, chez qui le couple s'est réfugié après avoir fui la Thessalie, à la suite des crimes de Médée.
 
@@ -212,7 +212,7 @@ Bergers et habitants des bords de la Seine invoquent la Victoire, la Gloire et B
 **Scène 6** : Corinthiens et Argiens encouragent Jason et l'exhortent à la victoire.
 
 
-## Acte II
+## Acte II.
 
 **Scène 1** : Créon annonce à Médée son intention de ne pas la livrer à ses ennemis, bien qu'elle soit la cause de la guerre déclarée contre Corinthe par la Thessalie, mais lui ordonne, sur l'instance de son peuple, de partir, tandis qu'il retient Jason pour l'aider à combattre.
 
@@ -227,7 +227,7 @@ Bergers et habitants des bords de la Seine invoquent la Victoire, la Gloire et B
 **Scène 6** : Oronte déclare lui aussi, un peu tard cependant, sa flamme à la princesse et lui offre un divertissement qui clôt l'acte II.
 
 
-## Acte III
+## Acte III.
 
 **Scène 1** : Médée révèle à Oronte l'amour réciproque de Jason et Créüse, et les deux amants trahis décident d'unir leurs forces.
 
@@ -240,7 +240,7 @@ Bergers et habitants des bords de la Seine invoquent la Victoire, la Gloire et B
 **Scène 5** : Elle fait appel aux divinités des Enfers pour l'aider à accomplir ce sortilège.
 
 
-## Acte IV
+## Acte IV.
 
 **Scène 1** : Cléone, la suivante de Créüse et Jason chantent la beauté de Créüse, qui vient de revêtir la robe offerte par sa rivale.
 
@@ -261,7 +261,7 @@ Bergers et habitants des bords de la Seine invoquent la Victoire, la Gloire et B
 **Scène 9** : L'acte s'achève sur le roi resté seul, qui sombre dans la folie.
 
 
-## Acte V
+## Acte V.
 
 **Scène 1** : Nérine rapporte à la magicienne les agissements de Créon, devenu fou, tandis que celle-ci hésite, puis finalement se résout à sacrifier ses enfants pour blesser Jason au plus profond de sa chair.
 
@@ -280,7 +280,7 @@ Bergers et habitants des bords de la Seine invoquent la Victoire, la Gloire et B
 **Scène 8** : Dans une dernière scène très spectaculaire, Médée, chevauchant sur un dragon, apprend à Jason la mort de ses enfants, vengeance ultime contre la trahison de son amant, et quitte la scène en s'éloignant dans les airs.
 
 
-## Médée, d'Euripide à Longepierre
+## Médée, d'Euripide à Longepierre.
 
 En choisissant Médée comme sujet de sa dernière tragédie en musique [27], Thomas Corneille, à soixante-huit ans, s'attaque à l'un des thèmes les plus traités de la littérature antique. Il ne nous reste aujourd'hui que deux pièces de cette époque, celles d'Euripide (vers 485-406 av. J.-C.) et de Sénèque [28] (vers 4 av. J.-C. – 65 ap. J.-C.), ainsi que la lettre XII des *Héroïdes* d'Ovide [29], où Médée s'adresse à Jason. Le mythe a également inspiré de nombreux auteurs à partir du XVI*e* siècle, et Emmanuel Minel, dans son excellente introduction à la *Médée* de Longepierre [30], souligne très judicieusement que « La *Médée* de Sénèque a été par deux fois, au XVI*e* et au XVII*e* siècle, un point de départ privilégié de la renaissance de la tragédie en France ». En effet, Jean de la Péruse, en 1553, puis Pierre Corneille, en 1635, choisirent tous les deux ce thème pour illustrer leur conception de la tragédie, à des époques où celle-ci reprenait son essor après être quelque peu tombée en désuétude. Enfin, Longepierre, en 1694, en fait également le sujet de sa première tragédie.
 
@@ -291,12 +291,12 @@ Longepierre choisit d'écrire lui aussi une *Médée*, un an après celle de Tho
 Ainsi, bien qu'il existe, comme nous venons de le voir, de nombreuses tragédies sur le thème de Médée, c'est de celle de son frère que choisit de s'inspirer Thomas Corneille.
 
 
-## Comparaison des *Médée* des deux Corneille
+## Comparaison des *Médée* des deux Corneille.
 
 On ne peut manquer, en mettant côte à côte les deux tragédies, de remarquer immédiatement les modifications, minimes ou de taille, que Thomas Corneille apporte à la pièce de son frère aîné, écrite en 1635. Le personnage d'Egée, par exemple, disparaît de la version de 1693, au profit du prince d'Argos, Oronte, et Thomas Corneille supprime l'épisode empreint de magie au cours duquel Médée délivre Egée, emprisonné après avoir tenté d'enlever la princesse Créüse. Par ailleurs, le dramaturge sépare la punition que la magicienne réserve au roi Créon de celle destinée à sa fille, rompant là avec une tradition solidement établie d'Euripide à Longepierre. Enfin, Thomas Corneille, par la scène finale, se démarque également de son frère aîné. Il convient ainsi de s'interroger sur les motifs de ces changements, et les conséquences qui en découlent.
 
 
-### Analyse dramaturgique des deux pièces
+### Analyse dramaturgique des deux pièces.
 
 Dans la tragédie de Pierre Corneille, la scène d'introduction est prise en charge par Jason, qui raconte ses exploits à Pollux, tandis que la pièce de Thomas Corneille s'ouvre sur les confidences de Médée à sa suivante, Nérine, offrant ainsi une première scène construite sur le même modèle, mais symétrique à celle de son aîné. Les deux frères ont cependant fait des choix dramaturgiques différents de départ : Pierre met d'abord en scène Jason, qui hésite entre sa fidélité à Médée, et son amour, choix politique avant tout, pour la princesse de Corinthe, Créüse. L'acte I, scène 3 confirme la dimension politique de son acte : c'est avant tout pour protéger ses enfants, et se protéger lui-même, que Jason fait la cour à Créüse. Ce n'est qu'après ce premier face-à-face entre Jason et Créüse qu'apparaît Médée, seule sur scène, à l'acte I, scène 4. Thomas, quant à lui, a fait intervenir la magicienne dès le début de sa pièce. Le spectateur prend connaissance des faits par le récit de Médée, il est plus proche de la magicienne, qui semble profondément humaine par ses doutes d'amante délaissée, et les reproches qu'elle adresse à Jason. [36]
 
@@ -307,7 +307,7 @@ Si l'acte III constitue naturellement dans les deux tragédies le pivot de la pi
 Après cette étude comparée de la structure des deux tragédies, intéressons-nous maintenant au traitement des personnages.
 
 
-### Transformation des personnages
+### Transformation des personnages.
 
 En reprenant le sujet de *Médée* en 1693, Thomas Corneille a dû procéder à certaines modifications par rapport à la pièce de son frère afin d'adapter la tragédie à l'esprit de son temps, en retouchant notamment le caractère des différents personnages. Ainsi, il substitue le vaillant prince d'Argos, Oronte, au vieux roi d'Athènes, Egée. Pierre Corneille utilise en 1635 ce personnage de vieux bourbon ridicule afin d'introduire un épisode de tragi-comédie. Egée, éconduit par la princesse, qui se moque de lui [38], la fait enlever, mais cette manœuvre échoue, déjouée par Jason venu sauver sa bien-aimée, et le roi imprudent se retrouve emprisonné. C'est alors l'occasion pour Pierre Corneille de mettre en scène la magie de Médée, capable, d'un simple coup de baguette magique, d'ouvrir la porte de la prison, de faire tomber les chaînes d'Egée, et de le délivrer ; ce dernier, achevant de se ridiculiser, lui propose aussitôt de l'épouser, et de l'assister dans sa vengeance. En 1693, le personnage du vieillard amoureux est passé de mode. Toutefois, Thomas Corneille, en le remplaçant par Oronte, n'abandonne pas entièrement le côté ridicule du personnage. Ainsi, le prince d'Argos, en dépit de sa valeur militaire, apparaît sur scène systématiquement précédé d'une musique guerrière et pompeuse ; de plus, sa déclaration d'amour, qu'il présente par le biais du divertissement galant de l'acte II, intervient après le premier face-à-face tant attendu de Jason et Créüse, qui viennent de se déclarer leur flamme réciproque. Enfin, le dramaturge fait mourir Oronte de manière dérisoire, passive, hors de la scène.
 
@@ -357,17 +357,17 @@ Ce que hors du péril je voudrois traverser.
 Ainsi, Thomas Corneille, tout en reprenant un sujet déjà traité par son frère, réussit cependant à conférer à sa pièce une empreinte très personnelle, en conformité avec l'esprit de son temps.
 
 
-## Structure externe de la pièce et répartition des personnages
+## Structure externe de la pièce et répartition des personnages.
 
 *Médée* comporte 1059 vers, qui se répartissent en 36 scènes. Les deux derniers actes se divisent respectivement en neuf et huit scènes, nombre légèrement supérieur aux trois premiers actes. On trouve dans cette tragédie en musique le traditionnel récit d'exposition dans la première scène de l'acte I, mais également de longues tirades devant un confident silencieux (I, 3 ; V, 5) ou seuls (III, 3), une scène de délibération (V, 1), et des divertissements à la fin de chaque acte, excepté le dernier. La plupart des éléments de la tragédie dramatique et lyrique se trouvent donc réunis dans cette pièce. En étudiant la structure des actes, on se rend compte de certaines corrélations ; ainsi, l'acte II est clairement celui de la victoire de Créüse sur sa rivale. La princesse apparaît dans six scènes des sept scènes. A cet acte correspond le dernier acte, qui témoigne de la chute de Créüse ; cette dernière vient supplier Médée de sauver son père, mais y échoue, et meurt des poisons contenus dans la robe offerte par la magicienne. De même, Créon, qui triomphe avec sa fille dans l'acte II, est totalement absent de l'acte III, où Médée décide d'accomplir sa vengeance contre « Corinthe, le Roy, la Princesse, Jason » (v. 623), et, après avoir tenu tête à la magicienne, dans l'acte IV, il est frappé de folie. La symétrie entre les actes II et IV est ici flagrante, puisque Créon apparaît dans les quatre premières scènes de l'acte II, et dans les quatre dernières de l'acte IV. Sa mort sera rapporté par la confidente de Créüse, Nérine, à l'acte V, scène 3. L'acte I est celui de Jason, qui y est présent cinq scènes sur six. C'est en effet dans ce premier acte que sont développées à la fois les intrigues amoureuses – la jalousie et les soupçons de Médée, et l'aveu de Jason concernant son amour pour Créüse – et politiques – le roi Créon, attaqué par Acaste, sera défendu par Jason et Oronte. La dimension politique s'estompe cependant au cours des actes suivants au profit du récit de la passion, puis de la vengeance de Médée. Les apparitions de Jason se raréfient – de cinq au premier acte, à quatre, puis à trois dans les derniers actes, au fur et à mesure que la magicienne acquiert toute son importance. C'est le drame de Médée qui se joue ici, Jason est réduit à un amoureux transi, acteur passif et impuissant à la fois à duper Médée, et protéger Créüse contre celle-ci. Si Médée n'apparaît que dans les deux premières scènes des actes I et II – c'est toutefois elle qui ouvre la pièce –, elle devient omniprésente à partir de l'acte III, qu'elle occupe entièrement. La scène – pivot de la pièce se trouve à l'acte III, scène 3, très bel air de lamentation d'une héroïne qui vient de prendre pleinement conscience de la fourberie et la lâcheté de son amant. A partir de là, sa décision de vengeance, puis son accomplissement se mettent inexorablement en place, et c'est elle qui conduit l'action, dessillant les yeux d'Oronte, mettant au défi l'autorité de Créon, et pour finir, empoisonnant Créüse et tuant ses propres enfants afin de faire souffrir Jason. Si l'on étudie pour finir la répartition des personnages, on s'aperçoit que la plupart des scènes fonctionnent selon le modèle de la confrontation entre deux personnages – confidences de Médée à Nérine, qui essaie de la détourner de ses projets funestes, face-à-face entre Médée et Jason, duos d'amour de Jason et Créüse, la princesse et son père qui se réjouissent de leur victoire sur Médée, la magicienne qui tient tête à Créon ou Créüse qui vient supplier la magicienne de délivrer son père. Les scènes de dialogues entre plusieurs personnages, telles que l'acte I, scène 6, qui fait intervenir Créon, Jason et Oronte, sont rares, et cette économie de moyens contraste d'autant plus avec la débauche d'intervenants dans les divertissements.
 
 L'étude de la macrostructure et des relations entre les personnages illustre donc l'habileté de Thomas Corneille à écrire une pièce savamment construite selon des principes de symétries et d'oppositions.
 
 
-# Une tragédie en musique
+# Une tragédie en musique.
 
 
-## Naissance et régularisation de la tragédie en musique
+## Naissance et régularisation de la tragédie en musique.
 
 Lorsque Thomas Corneille et Marc-Antoine Charpentier créent *Médée* en décembre 1693, l'opéra est devenu un genre à part entière, qui possède ses admirateurs et ses détracteurs, et dont la légitimité n'est plus contestée. Cependant, le genre de la tragédie en musique n'a pas été tout de suite accepté, et c'est grâce aux efforts conjugués de Lully et de Quinault qu'il s'est imposé progressivement. L'opéra, venu d'Italie, est importé en France par Mazarin, qui fait représenter en 1647 *l'Orfeo* de Luigi Rossi. Cette nouveauté provoque chez les Français l'envie de surpasser les Italiens, mais il faut attendre 1659 pour que soit composé le premier opéra français, *La Pastorale d'Issy*, de l'abbé Perrin et Robert Cambert, qui, dix ans plus tard, obtiennent de Louis XIV le privilège de fonder l'Académie royale de Musique. Cependant, la mauvaise gestion financière des deux associés les contraint à céder leur privilège à Lully seulement trois ans après l'avoir obtenu, et c'est le Florentin qui, avec la collaboration de Quinault, crée véritablement le genre et le développe, de 1673, date de la création de *Cadmus et Hermione*, à 1686, année de la composition d'*Armide*. Lully et Quinault synthétisent dans la tragédie en musique, ou tragédie lyrique, plusieurs genres déjà existants. Ils reprennent de l'opéra italien l'association de la musique, du théâtre à machines, de la pastorale et des sujets merveilleux, en y ajoutant un ingrédient typiquement français, alors très en vogue, la danse. Le surintendant du roi s'était déjà essayé auparavant à de nombreux genres, auteur de ballets, et de comédies-ballets, fruits en grande partie de sa collaboration avec Molière [54]. Leur brouille, survenue en 1672, résulte en partie de conceptions esthétiques différentes entre les deux Baptiste. C'est ce qu'explique Marie-Thérèse Hipp, dans son article : « L'illusion, plaisir du théâtre : du théâtre humaniste à la tragédie en musique » :
 
@@ -384,7 +384,7 @@ La présence de la musique se justifie par la nature de l'action et par celle de
 On voit donc se dessiner progressivement un système opératique cohérent susceptible de cohabiter avec le système dramatique classique.
 
 
-## *Médée* et les Spécificités de la tragédie en musique
+## *Médée* et les Spécificités de la tragédie en musique.
 
 Nous possédons aujourd'hui deux versions imprimées de *Médée* ; tout d'abord, la tragédie en musique écrite par Thomas Corneille, qui est datée de 1693, puis la partition, sortie des presses de Christophe Ballard en 1694 [62]. Or on constate des divergences entre les deux textes, phénomène tout à fait courant pour l'époque, puisque l'écriture d'une tragédie en musique est une œuvre collective; outre qu'il existait un comité de lecture très actif à l'Académie royale de Musique, surnommé la *Petite Académie*, qui se réunissait souvent pour rectifier ou censurer certains passages, le texte définitif d'un opéra – c'est-à-dire, ce qui est chanté sur scène – résulte de la collaboration entre l'auteur et le compositeur, et des modifications peuvent avoir lieu à différentes étapes, de l'écriture de l'opéra jusqu'aux dernières répétitions avant la création de l'œuvre sur scène. Ainsi, certains détails ont pu être réglés alors que le texte de la tragédie était déjà envoyé sous presse. En effet, il était d'usage de vendre la tragédie imprimée aux spectateurs, afin qu'ils puissent suivre l'action sur scène plus facilement. Notre édition de texte porte cependant sur la tragédie en musique telle qu'elle a été écrite par Thomas Corneille, et imprimée en décembre 1693. Rappelons qu'au XVII*e* siècle, le texte primait largement sur la musique, que l'auteur était beaucoup plus reconnu que le compositeur, même si cela est moins vrai dans le cas de *Médée*, en proie à la cabale des lullystes contre la musique italianisante de Charpentier. [63]
 
@@ -400,17 +400,17 @@ On peut se demander si *Médée* a été perçue à l'époque comme une bonne tr
 Catherine Kintzler et Laura Naudeix ont réfléchi dans plusieurs de leurs ouvrages sur la poétique de l'opéra, et ont dressé plusieurs critères définissant une bonne tragédie. Appliquons-en quelques-uns à *Médée* afin de tenter de comprendre les spécificités de cette œuvre.
 
 
-### Le choix du sujet
+### Le choix du sujet.
 
 Rappelons pour commencer que la tragédie en musique est née en grande partie de la pastorale, donc du genre tendre et galant, et en conserve par la suite le souvenir dans les divertissements et le prologue, qui mettent souvent en scène des bergers dans un décor champêtre et idyllique. *Médée* ne fait pas exception à la règle. On trouve ainsi mentionné pour le prologue : « Le théâtre represente un lieu rustique, embelly par la Nature, de Rochers et de Cascades. » L'amour se trouve donc au cœur de l'intrigue des tragédies lyriques, sujet qui supporte bien la mise en musique. De plus, le chant – l'intrigue est entièrement chantée, et non parlée – apparaît pour le public de l'époque comme le langage naturel des dieux, et du monde merveilleux. Ainsi, en choisissant le sujet de *Médée*, magicienne dont les pouvoirs peuvent se révéler redoutables, Thomas Corneille et Marc-Antoine Charpentier font preuve d'originalité – puisque ce sujet n'a jamais été traité auparavant à l'opéra – tout en adhérant parfaitement aux canons esthétiques de l'époque. Le personnage de l'enchanteresse, petite-fille du Soleil, et nièce d'Hécate, permet d'introduire certaines épisodes spectaculaires, tels que le divertissement du troisième acte, où Médée invoque les Enfers et fait surgir des démons qui l'aident à empoisonner la robe, ou celui du quatrième acte, où des fantômes apparaissent, qui charment les soldats du roi et les entraînent dans une danse. De plus, toutes les versions de la légende s'achèvent sur l'image de la magicienne s'envolant dans les airs sur son char ailé, après avoir révélé sa vengeance à Jason. Cette scène très frappante est bien entendu parfaite pour l'opéra, car elle conjugue à la fois l'utilisation des machines, de la musique et de la magie. En ce sens, Médée constitue un très bon sujet d'opéra.
 
 
-### La question des unités
+### La question des unités.
 
 La règle des trois unités s'applique de manière particulière au théâtre lyrique. En effet, il est d'usage dans une tragédie en musique de changer de lieu à chaque acte, afin de mettre en valeur les prouesses techniques des machines. Ainsi, l'intrigue de *Médée*, si elle se déroule entièrement à Corinthe, prend lieu successivement sur une « Place publique, ornée d'un Arc de Triomphe, de Statuës, et de Trophées sur des pied-destaux » (acte I), dans un « Vestibule, orné d'un grand Portique » (acte II), dans un « lieu destiné aux Evocations de Médée » (acte III), dans « l'avant-cour d'un Palais, et un jardin magnifique dans le fonds » (acte IV), et enfin dans le « Palais de Médée » (acte V). On constate donc que ces décors participent tous d'une architecture urbaine qui contraste avec le cadre bucolique et champêtre du prologue. L'Arc de Triomphe du premier acte, ainsi que le grand Portique du troisième acte, représentent des éléments de décors typiques de l'époque, car ils ordonnent la scène symétriquement, et lui confèrent de la profondeur. Quant aux unités de temps et d'action, elles sont ici respectées, et Thomas Corneille, par la bouche de Créon, fixe le cadre temporel de sa tragédie : « pour sortir de ma Cour / Je ne puis vous donner que le reste du jour. » [64] De même, Médée exige de sa rivale, à l'acte IV, scène 2, qu'elle épouse Oronte « en ce même jour. »
 
 
-### Le prologue
+### Le prologue.
 
 Descendant direct des prologues de tragédies antiques, le prologue introduit tous les divertissements de cour, et c'est pourquoi on le retrouve tout naturellement en ouverture des opéras. Situé avant le début de l'intrigue, il occupe une place particulière, appartenant à l'œuvre, mais tout en restant au seuil de celle-ci. Selon Laura Naudeix [65], le prologue possède trois fonctions : tout d'abord à rendre hommage au commanditaire de l'œuvre, en l'occurrence le roi, et le divertir ; ensuite servir de relais entre le monde réel des spectateurs et le monde merveilleux de l'opéra, et enfin, introduire l'opéra proprement dit.
 
@@ -449,7 +449,7 @@ Tout en renvoyant un portrait flatteur au roi, héros glorieux seul capable de r
 Enfin, le prologue, également écrit pour les spectateurs, sert de présentation de la tragédie lyrique, et développe le thème principal de la pièce. Si ni habitants, ni bergers ne réapparaîtront plus tard, certains de leurs passages chantés renvoient directement à la tragédie qui suit. Ainsi, le couplet que chante un berger à la fin du prologue [70], justification en quelque sorte du comportement futur de Créüse, évoque déjà le divertissement de l'acte II, dans lequel la princesse refusera l'arc que lui tend l'Amour, puis restera volontairement ambiguë au moment venu de choisir clairement son prétendant [71]. Bergers et bergères célèbrent à la fin du prologue leur cadre pastoral, évoquant tour à tour « les moutons dans la verte prairie », « l'herbette fleurie », « la fureur des loups », « nos pipeaux, nos musettes » dans une insouciance qui les relient aux protagonistes du divertissement galant offert par Oronte.
 
 
-### Les divertissements
+### Les divertissements.
 
 Les divertissements, à l'instar du prologue, occupent une place particulière au sein de l'opéra. En effet, ils représentent une pause dans l'intrigue, dédiée à la danse et à la musique mis en scène en tant que tels, qu'ils soient commandés et offerts galamment par un personnage – le divertissement de l'acte II, qu'Oronte dédie à Créüse –, entonnés spontanément par les peuples prêts au combat – premier acte – ou qu'ils servent de support aux pouvoirs de Médée –actes III et IV. Ces divertissements, traditionnellement l'apanage du compositeur, lui sont un espace de liberté qui lui permet de déployer des formations instrumentales ou vocales nouvelles, en faisant par exemple intervenir les chœurs ou en intercalant des ritournelles instrumentales. Maître du jeu, il n'est pas forcément assujetti lors des divertissements au respect de l'intrigue, et peut orchestrer des chorégraphies qui soit racontent une histoire autonome, soit s'intègrent à l'action. Rappelons l'importance extrême de la danse à la Cour, et au sein de l'opéra français, élément constitutif du genre, qui le distingue de son prédécesseur italien, puisque ce dernier ne comprend pas de ballets.
 
@@ -460,7 +460,7 @@ Enfin, les divertissements permettent au dramaturge et au compositeur de mettre 
 A l'issue de cet examen, on comprend en quoi Thomas Corneille et Marc-Antoine Charpentier, tout en respectant les codes opératiques instaurés par Lully, ont signé une partition à quatre mains empreinte d'audace et d'inventivité. A la fois fidélité à la légende et jeu sur l'attente des spectateurs, respect des conventions et renversement des valeurs, *Médée* conserve aujourd'hui toute la modernité à l'origine de sa réputation.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La tragédie en musique de Thomas Corneille, *Médée*, a été publiée pour la première fois par Christophe Ballard en 1693. Il existe encore aujourd'hui plusieurs exemplaires de cette première édition.
 
@@ -531,10 +531,10 @@ Dans l'édition de 1693, la majeure partie de la tragédie se trouve en caractè
 Nous avons scrupuleusement respecté l'orthographe, ainsi que la ponctuation, même si l'usage de cette dernière a considérablement évolué, et peut aujourd'hui nous paraître à certains égards surprenante [79]. Cependant, nous avons harmonisé la ponctuation, lorsque deux vers identiques sont repris avec une ponctuation différente. Nous avons conservé la ligature « & », sans y substituer la conjonction « et », corrigé les «  » en deux « s », et égalisé la hauteur des caractères – notamment les grands S et Z. Nous avons également procédé à quelques harmonisations ; ainsi, on constate à partir des feuillets F à H certains « I » mis à la place de « J », alors que ce n'était pas le cas auparavant. Nous n'avons pas conservé ces substitutions, qui disparaissent progressivement de l'édition de 1695, et entièrement de celle de 1699. Par ailleurs, nous avons harmonisé les points de suspension selon l'usage actuel, alors que l'usage de l'époque autorise de deux à cinq points de suspension. S'est également posé le problème de l'attribution des majuscules à certains substantifs, gage d'ennoblissement ou indication destinée à l'acteur qui hausse alors la voix. Cette majuscule, qui orne la plupart des occurrences du même substantif, lui est quelquefois refusée – par exemple, « amour » est orthographié sans majuscule dans la « Liste des Acteurs ». Nous avons signalé ces exceptions, et rétabli la majuscule, lorsque cela nous a semblé nécessaire. Pour finir, nous avons harmonisé les indications de fin de chaque acte, qui tantôt étaient en majuscule, tantôt en minuscule.
 
 
-## Liste des corrections
+## Liste des corrections.
 
 
-### Dans le prologue
+### Dans le prologue.
 
 Dans la « liste des acteurs du prologue » : Bellonne : est orthographiée avec deux *n*, seule fois dans l'ouvrage cette coquille n'est pas rectifiée dans les éditions de 1695 et 1699
 
@@ -545,7 +545,7 @@ au vers 41 : tremblez fiers Ennemis
 aux vers 53 et 55 : jaloux,     /     jaloux
 
 
-### Dans la tragédie
+### Dans la tragédie.
 
 Dans la « liste des acteurs de la tragédie » : déguisé en amour
 
@@ -630,7 +630,7 @@ p. 79 : FIN DU CINQUIEME ET DERNIER ACTE.
  – 
 
 
-## PROLOGUE 
+## PROLOGUE. 
 Le Theatre represente un lieu rustique, embelly par la Nature, de Rochers & de Cascades.
 
 
@@ -658,11 +658,11 @@ Par qui vos soins⁎ pour nous sont si bien secondez.
 Paroissez, charmante Victoire,  
 Hastez-vous, venez, descendez.  
 
-    CHŒUR. 
+    CHŒUR.
 Paroissez, charmante Victoire,  
 Hastez-vous, venez, descendez.  
 
-    LES DEUX BERGERS & L’HABITANT. 
+    LES DEUX BERGERS & L’HABITANT.
 Ce nuage brillant nous donne lieu de croire,  
 Que vous nous entendez.  
 
@@ -686,13 +686,13 @@ Qu'afin de prolonger la guerre.
 LOUIS combat pour l'étouffer,  
 Et rendre le calme à la terre.  
 
-    CHŒUR. 
+    CHŒUR.
 Ils ne cherchent à triompher  
 Qu'afin de prolonger la guerre.  
 LOUIS combat pour l'étouffer,  
 Et rendre le calme à la terre.  
 
-    BELLONE. 
+    BELLONE.
 Vous resistez en vain, tremblez, fiers Ennemis,  
 Au grand Roy que je sers, je vous rendray soûmis.  
 Chez vous plus que jamais, par l'effroy de ses armes,  
@@ -712,7 +712,7 @@ Quand même il n'aura plus besoin de la Victoire.
 Non, non, ses ennemis jaloux,  
 Ne pourront jamais rien, contre des nœuds⁎ si doux.  
 
-    CHŒUR. 
+    CHŒUR.
 Non, non, ses ennemis jaloux,  
 Ne pourront jamais rien, contre des nœuds⁎ si doux.  
 
@@ -729,13 +729,13 @@ Que ses Ennemis terrassez,
 Malgré tous leurs projets, seront enfin forcez  
 De souffrir⁎ le repos⁎ qu'il veut donner au monde.  
 
-    CHŒUR. 
+    CHŒUR.
 Il vaincra tant de fois, sur la terre & sur l'onde,  
 Que ses Ennemis terrassez,  
 Malgré tous leurs projets, seront enfin forcez   
 De souffrir⁎ le repos⁎ qu'il veut donner au monde.  
 
-    UN BERGER. 
+    UN BERGER.
 Dans le bel âge,  
 Si l'on n'est volage,  
 Les tendres cœurs  
@@ -749,7 +749,7 @@ Si l'on n'est volage,
 Les tendres cœurs  
 Goûtent peu de douceurs.  
 
-    DEUX BERGERES. 
+    DEUX BERGERES.
 Voir nos moutons dans la verte prairie,  
 Bondir sur l'herbette [84] fleurie,    
 Sans craindre la fureur des loups,  
@@ -757,7 +757,7 @@ C'est pour nous un plaisir extrême ;
 Mais voir souvent ce que l'on aime,  
 C'est encore un plaisir plus doux.  
 
-    LE CHŒUR. 
+    LE CHŒUR.
 Le bruit des tambours, des trompettes,  
 Ne viendra plus troubler nos jeux.  
 Prenons nos pipeaux, nos musettes,  
@@ -800,7 +800,7 @@ Le Theatre represente une Place publique, ornée d'un Arc de Triomphe, de Statu
 Medée, Nerine.
 
 
-    MEDÉE. 
+    MEDÉE.
 Pour flater mes ennuis [86]⁎, que ne puis-je te croire !  
 Tout le voudroit, mon repos⁎ & ma gloire⁎ ;  
 Mais en vain à douter je trouve des appas⁎,  
@@ -919,7 +919,7 @@ Il me coûte assez cher pour ne le perdre pas.
     JASON. 
 Ah ! que me dites-vous ?  
 
-    MEDÉE
+    MEDÉE.
     Ce que je crains.  
 
     JASON.
@@ -1012,7 +1012,7 @@ Et ne m'opposez plus vos chimeres d'honneur :
 Que me peut demander la Gloire,  
 Quand l'Amour s'est rendu le maître de mon cœur ?  
 
-    CHŒUR DE CORINTHIENS *qu'on ne voit pas.*
+    CHŒUR DE CORINTHIENS *qu'on ne voit pas.*.
 Disparoissez, inquietes alarmes⁎ ;  
 Vaines terreurs, fuyez, éloignez-vous.  
 Le secours d'un Heros vient se joindre à nos armes,  
@@ -1036,7 +1036,7 @@ Rendons luy les honneurs que son rang nous demande.
 Creon, Jason, Oronte. Suite de Creon & d'Oronte.
 
 
-    ORONTE. 
+    ORONTE.
 Seigneur, la Thessalie attaquant vos Estats,  
 Pour vous de mon secours je craindrois la foiblesse⁎,  
 Si ma seule valeur répondoit de mon bras ;  
@@ -1072,7 +1072,7 @@ Et souffrez que leur joye auprés de vous s'exprime.
 Creon, Jason, Oronte. Troupe de Corinthiens & d'Argiens.
 
 
-    UN CORINTHIEN, *à Oronte.*
+    UN CORINTHIEN, *à Oronte.*.
 Courez aux champs de Mars, volez, jeune Heros.  
 Ouvrez-nous le chemin qui conduit à la gloire⁎.  
 Nos cœurs ont trop languy dans le sein du repos⁎ :  
@@ -1169,35 +1169,35 @@ Et pour deffendre cet empire,
 Jason voudroit nous refuser son bras ?  
 Me ravir ce Heros, c'est m'ôter la Victoire.  
 
-    MEDÉE. 
+    MEDÉE.
 Me separer de luy, c'est me priver du jour.  
 
-    CREON. 
+    CREON.
 S'il m'ose abandonner, que deviendra sa gloire⁎ ?  
 
     MEDÉE.
 S'il m'ose abandonner, que devient son amour ?  
 
-    CREON & MEDÉE, *ensemble.*
+    CREON & MEDÉE, *ensemble.*.
 S'il m'ose abandonner, // que deviendra sa gloire⁎ / que devient son amour // ?  
 
     CREON.
 Par une lâcheté, voulez-vous qu'il ternisse  
 L'éclat des grands exploits, qui le font redouter ?  
 
-    MEDÉE. 
+    MEDÉE.
 Ses exploits sont fameux [122], mais rendez-moy justice ;  
 Si malgré les perils qu'il falloit surmonter,  
 La Toison emportée a fait voir son courage,  
 A qui doit-il cét avantage ?  
 
-     CREON.
+    CREON.
 Je veux que ce qui rend son nom si glorieux,  
 De vos enchantements soit l'effet admirable [123] ;  
 Ignorez-vous qu'un murmure odieux [124]  
 Vous fait par tout croire coupable ?  
 
-    MEDÉE. 
+    MEDÉE.
 Doit-on m'imputer des forfaits,  
 Sans voir⁎ pour qui je les ay faits ?  
 Vos reproches, Seigneur, ne sont pas legitimes.  
@@ -1289,7 +1289,7 @@ Prenez avis de la Princesse.
 Jason, Créüse, Cléone.
 
 
-    JASON. 
+    JASON.
 Qu'ay-je à resoudre encor [134] ? il faut vivre pour vous.  
 Est-il un plus grand avantage  
 Que de borner mes souhaits les plus doux  
@@ -1299,7 +1299,7 @@ A mon amour mon cœur ne peut suffire.
 Quand on aime ardemment, quel plaisir d'estre aimé.  
 Quel triomphe de l'oser dire !  
 
-    CRÉÜSE. 
+    CRÉÜSE.
 Pour regner par tout à son choix,  
 L'imperieux Amour ne respecte personne.  
 
@@ -1321,7 +1321,7 @@ Quand on sent un trouble si doux ?
     CRÉÜSE.
 J'en joüirois [136] encor sans vous.  
 
-    JASON. 
+    JASON.
 Contre l'amour la resistance est vaine.  
 Goûtons l'heureux plaisir de perdre cette paix.  
 
@@ -1397,7 +1397,7 @@ Un petit Argien representant l'Amour, paroist dans un char traisné par des capt
 Créüse, Jason, Oronte, Cléone.
 
 
-    CHŒUR DES CAPTIFS D’AMOUR. 
+    CHŒUR DES CAPTIFS D’AMOUR.
 Qu'elle est charmante, qu'elle est belle !  
 Ah, qu'il est doux de soupirer pour elle !  
 
@@ -1408,7 +1408,7 @@ Mais si la douceur de ses yeux
 Doit tromper une ardeur⁎ si belle,  
 Ah, quel malheur pour un amant fidelle !  
 
-    CHŒUR. 
+    CHŒUR.
 Ah, quel malheur pour un amant fidelle !  
 
     LE CAPTIF.
@@ -1421,7 +1421,7 @@ Ah, quel bonheur pour un amant fidelle !
     CHŒUR.
 Ah, quel bonheur pour un amant fidelle !  
 
-    L’AMOUR *à Créüse.*
+    L’AMOUR *à Créüse.*.
 Regnez ; l'Amour à vos loix  
 Vient soumettre son empire,  
 Chacun à vous plaire aspire ;  
@@ -1468,7 +1468,7 @@ Ilgrato martire,
 O non vuol gioire,  
 O cuore non hà.  
 
-    CHŒUR. 
+    CHŒUR.
 Son gusti i dolori  
 Le spine son fiori  
 Ch'amore non dà.  
@@ -1488,7 +1488,7 @@ O cuore non hà.
 O non vuol gioire,  
 O cuore non hà.  
 
-    TROIS AUTRES CAPTIFS. 
+    TROIS AUTRES CAPTIFS.
 D'un amant qui veut plaire  
 L'hommage est sincere,  
 D'un amant qui veut plaire  
@@ -1506,7 +1506,7 @@ C'est ce qu'il desire ;
 Aimer & l'oser dire,  
 C'est ce qu'il prétend [146].  
 
-    CHŒUR. 
+    CHŒUR.
 D'un amant qui veut plaire  
 L'hommage est sincere,  
 D'un amant qui veut plaire  
@@ -1532,7 +1532,7 @@ L'hommage est sincere,
 D'un amant qui veut plaire  
 L'hommage est constant.  
 
-    L’AMOUR *à Créüse après qu'elle est descenduë du char.*
+    L’AMOUR *à Créüse après qu'elle est descenduë du char.*.
 Vous voyez à quoy j'aspire.  
 Pour faire un heureux vainqueur,  
 Je compte sur vostre cœur.  
@@ -1546,7 +1546,7 @@ D'avoir le cœur sincere & d'aimer qui vous aime.
 L'amour sur ce qu'il veut s'est expliqué luy-même,  
 Vous devez contenter l'amour.  
 
-    CRÉÜSE. 
+    CRÉÜSE.
 En vain l'amour me sollicite.  
 Qu'un amant se fasse estimer  
 Par tout ce que la gloire⁎ ajoûte au vray merite,  
@@ -1694,7 +1694,7 @@ Que me cause un soupçon jaloux ;
 Mais enfin malgré moy je sens couler mes larmes,  
 Ingrat, m'abandonnerez-vous ?  
 
-    JASON. 
+    JASON.
 S'il faut de tout mon sang racheter vostre vie,  
 Je suis tout prest à le donner.  
 Partager les malheurs dont elle est poursuivie,  
@@ -1740,7 +1740,7 @@ Si je veux en sauver ma gloire⁎ [164].
 
 ### Scene troisieme.
 
-    MEDÉE, *seule.*
+    MEDÉE, *seule.*.
 Quel prix de mon amour ! quel fruit de mes forfaits !  
 Il craint des pleurs qu'il m'oblige à répendre ;  
 Insensible au feu⁎ le plus tendre  
@@ -1766,7 +1766,7 @@ Quel prix de mon amour ! quel fruit de mes forfaits !
 Medée, Nérine.
 
 
-    MEDÉE. 
+    MEDÉE.
 Croiras-tu mon malheur ? Jason, Jason luy-mesme,  
 L'infidelle Jason me presse de partir.  
 
@@ -1812,7 +1812,7 @@ Je suspendray la violence,
 Et je ne les feray servir à ma vangeance  
 Que quand je m'y verray forcer.  
 
-    NERINE. 
+    NERINE.
 De la pitié vous pourrez-vous deffendre [170] ?  
 En punissant Jason craignez de vous punir.  
 
@@ -1851,13 +1851,13 @@ Je voy le don fatal qu'exige ma rivale.
 Pour le rendre funeste⁎, il est temps, faisons choix  
 Des sucs les plus mortels de la rive infernale [172].  
 
-    CHŒUR DE DÉMONS. 
+    CHŒUR DE DÉMONS.
 L'Enfer obéit à ta voix,  
 Commande, il va suivre tes loix.  
 Les Demons apportent une Chaudiere infernale, dans laquelle ils jettent les herbes qui doivent composer le poison, dont Medée a besoin pour empoisonner la robe.
 
 
-    MEDÉE. 
+    MEDÉE.
 Dieu du Cocyte⁎ & des royaumes sombres,  
 Roy des pasles Ombres [173],  
 Sois attentif à mes enchantements.  
@@ -1906,17 +1906,17 @@ Le Theatre represente l'avant-cour d'un Palais, & un jardin magnifique dans le f
 Jason, Cleone.
 
 
-    CLEONE. 
+    CLEONE.
 Jamais on ne la vit si belle,  
 Cette Robe superbe augmente ses appas⁎  ;  
 Et dans l'éclat qu'elle répand sur elle,  
 Il faut estre sans yeux pour ne l'admirer pas.  
 
-    JASON. 
+    JASON.
 A peine dans ses mains cette Robe est remise,  
 Et déja la Princesse a voulu s'en parer !  
 
-    CLEONE. 
+    CLEONE.
 L'agrément qu'elle en sçait tirer  
 Vous causera de la surprise.  
 Elle paroist. Voyez quel air de Majesté  
@@ -1927,7 +1927,7 @@ Anime & soutient sa beauté.
 Créüse, Jason, Cleone.
 
 
-    JASON. 
+    JASON.
 Ah ! que d'attraits, que de graces nouvelles ?  
 A voir ce vif éclat que mes yeux sont contents !  
 Des fleurs que produit le Printemps  
@@ -2008,7 +2008,7 @@ Est-ce assez que de l'estime ?
 Avec un tel secours, si vos feux⁎ sont constans,  
 Aimez, on obtient tout du temps.  
 
-    ORONTE. 
+    ORONTE.
 Non, non, dans sa froideur extrême  
 Je vois le refus de son cœur.  
 Quelque Rival se cache, elle est aimée, elle aime ;  
@@ -2016,7 +2016,7 @@ Je pourray [177] découvrir ce trop heureux Vainqueur,
 Et mon bras disputant cette noble victoire,  
 Fera voir qui de nous en merite la gloire⁎.  
 
-    JASON. 
+    JASON.
 L'Amour promet souvent plus qu'il ne peut tenir.  
 
     ORONTE.
@@ -2051,7 +2051,7 @@ Mais si Creon ne cede pas,
 Il verra quelle peine est deuë  
 A qui se fait le soutien des ingrats.  
 
-    ORONTE. 
+    ORONTE.
 Pardonnez à [178] ma foiblesse,  
 L'Amour a sçeu m'engager.  
 Un juste couroux⁎ vous presse ;  
@@ -2059,7 +2059,7 @@ Mais à ne rien menager,
 Le plaisir de vous vanger  
 Me rendra-t-il la Princesse ?  
 
-    MEDÉE. 
+    MEDÉE.
 Je me declare pour vous [179].  
 Jamais, quoy que puissent faire,  
 Les Dieux, Créüse & son Pere,  
@@ -2073,7 +2073,7 @@ J'ay besoin de calmer le trouble qui m'agite.
 Medée, Nerine.
 
 
-    MEDÉE. 
+    MEDÉE.
 D'où me vient cette horreur ? est-ce à moy de trembler ?  
 Preste à punir la criminelle flame [181]  
 Qui cause les ennuis⁎ dont on m'ose accabler,  
@@ -2097,7 +2097,7 @@ Qu'il faut porter les derniers coups.
 Créon, Medée, Nerine, Gardes.
 
 
-    CRÉON. 
+    CRÉON.
 Vos adieux sont-ils faits ? Le murmure s'augmente [183],  
 C'est aigrir les esprits que de ne céder pas.  
 D'un Peuple qui vous fait sortir de mes Estats  
@@ -2168,7 +2168,7 @@ Créon, Medée.
 Phantômes & Gardes du Roy.
 
 
-    MEDÉE. 
+    MEDÉE.
 Objets agreables,  
 Phantômes aimables,  
 Appaisez les fureurs  
@@ -2180,7 +2180,7 @@ Entrée des Phantômes.
 Aprés de mortelles alarmes,  
 Qu'un heureux calme semble doux !  
 
-    CHŒUR. 
+    CHŒUR.
 Aprés de mortelles alarmes,  
 Qu'un heureux calme semble doux !  
 
@@ -2211,7 +2211,7 @@ Luy doit ceder la place.
 Tout ressent le pouvoir  
 Du plaisir de nous voir.       
 
-    CHŒUR. 
+    CHŒUR.
 Tout ressent le pouvoir  
 Du plaisir de nous voir.  
 Une ame de glace  
@@ -2250,7 +2250,7 @@ La Fureur paroist avec son flambeau, & passe pardevant Creon.
 
 ### Scène neuvième.
 
-    CRÉON *seul.* 
+    CRÉON *seul.*.
 Noires Divinitez [191], que voulez-vous de moy ?  
 Impitoyables Eumenides⁎,  
 Vous faut-il le sang des perfides  
@@ -2278,7 +2278,7 @@ Le Theatre represente le Palais de Medée.
 Medée, Nerine.
 
 
-    NERINE. 
+    NERINE.
 On ne peut sans effroy soutenir sa presence.  
 Il court de toutes parts, menaçant, furieux,  
 Dans ce funeste⁎ estat tout ce qu'il voit l'offence [192] ;  
@@ -2286,7 +2286,7 @@ La Princesse elle seule, en s'offrant à ses yeux,
 Semble de sa fureur calmer la violence ;  
 Il s'arreste, il soupire, & garde un long silence.  
 
-    MEDÉE. 
+    MEDÉE.
 Et que dit son heureux Amant ?  
 
     NERINE.
@@ -2376,14 +2376,14 @@ Non, de ma main vous prendez un Epoux ;
 Ce seul moyen peut satisfaire  
 Les transports⁎ de mon cœur jaloux.  
 
-    CHŒUR DE CORINTHIENS *qu'on ne voit pas.* 
+    CHŒUR DE CORINTHIENS *qu'on ne voit pas.*.
 Ah, funeste⁎ revers ! fortune impitoyable !  
 Corinthe, helas ! que vas-tu devenir ?  
 
     CRÉÜSE.
 Que ce grand bruit m'est redoutable !  
 
-    CHŒUR. 
+    CHŒUR.
 Dieux cruels, est-ce ainsi que vostre haine accable  
 Ceux que vous devez soutenir ?  
 
@@ -2394,7 +2394,7 @@ Créüse, Medée, Nerine, Cléone.
 Chœur de Corinthiens.
 
 
-    CRÉÜSE *à Cléone.* 
+    CRÉÜSE *à Cléone.*.
 Venez, parlez ; qu'avez-vous à m'apprendre ?  
 Je vois vos yeux baignez de pleurs.  
 
@@ -2410,7 +2410,7 @@ De ce malheureux Prince il a saisi l'épée,
 Et luy perçant le flanc, son bras nous a fait voir  
 Ce que peut un prompt desespoir.  
 
-    CRÉÜSE. 
+    CRÉÜSE.
 Helas !  
 
     CLEONE. 
@@ -2421,7 +2421,7 @@ Du mesme fer il s'est percé luy-même [197].
 Ah, s'est-il écrié, le ciel a donc permis, [198]  
 J'ay vaincu tous mes ennemis.       
 
-    CHŒUR DE CORINTHIENS. 
+    CHŒUR DE CORINTHIENS.
 Ah, funeste⁎ revers ! fortune impitoyable !  
 Corinthe, helas ! que vas-tu devenir ? [199]  
 Dieux cruels, est-ce ainsi que vostre haine accable  
@@ -2442,7 +2442,7 @@ Les maux que je me dois preparer à souffrir⁎.
 Medée, Créüse, Nerine, Cleone.
 
 
-    CRÉÜSE. 
+    CRÉÜSE.
 Eh bien, barbare [201], estes-vous satisfaite ?  
 Par des crimes plus noirs voulez-vous meriter  
 Le détestable honneur de faire redouter  
@@ -2472,7 +2472,7 @@ Medée touche Créüse de sa baguette & s'en va.
 
 ### Scéne cinquième.
 
-    CRÉÜSE, CLÉONE. 
+    CRÉÜSE, CLÉONE.
 Quel feu dans mes veines s'allume ?  
 Quel poison, dont l'ardeur⁎ tout à coup me consume,  
 Dans cette robe étoit caché ?  
@@ -2487,7 +2487,7 @@ Rien ne peut soûlager l'excez de mes douleurs.
 Jason, Créüse, Cleone.
 
 
-    JASON. 
+    JASON.
 Ah, Roy trop malheureux ! mais ô ciel ! la Princesse  
 Parôit mourante entre vos bras !  
 Qui la met dans cette foiblesse⁎ [203] ?  
@@ -2520,7 +2520,7 @@ Peut-on rien [207] ajoûter à l'excés de mes peines ?
     JASON.
 Peut-on lancer sur moy de plus terribles traits ?  
 
-    TOUS DEUX. 
+    TOUS DEUX.
 Helas ! prests d'estre unis par les plus douces chaînes,  
 Faut-il nous voir separes à jamais ?  
 
@@ -2543,7 +2543,7 @@ On emporte Créüse.
 
 ### Scène septieme.
 
-    JASON, *seul.* 
+    JASON, *seul.*.
 Elle est morte, & je vis ! courons à la vengeance,  
 Pour estre en liberté de renoncer au jour.  
 La perte de Medée est deuë à mon amour.  
@@ -2555,7 +2555,7 @@ Mais par quel effet de son art…
 Médée, Jason.
 
 
-    MÉDÉE, *en l'air sur un Dragon.*
+    MÉDÉE, *en l'air sur un Dragon.*.
 C'est peu, pour contenter la douleur qui te presse,  
 D'avoir à vanger la Princesse ;  
 Vange encor tes Enfans ; ce funeste⁎ poignard  
@@ -2589,7 +2589,7 @@ Medée fend les Airs sur son Dragon, & en mesme temps les Statuës & autres orne
 Fin du cinquième et dernier Acte.
 
 
-# Lexique
+# Lexique.
 
 Les définitions sont tirées des dictionnaires suivants :
 
@@ -2651,7 +2651,7 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 
 
 
-# Annexe 2 : Œuvres de M. Thomas Corneille de l'Isle
+# Annexe 2 : Œuvres de M. Thomas Corneille de l'Isle.
 
 **1651** : *Le feint astrologue*, comédie 
 
@@ -2736,10 +2736,10 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 1708
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Corpus*Ballard*Recueil général des opéras représentés par l'Académie royale de Musique depuis son établissement
+## Corpus.*Ballard*Recueil général des opéras représentés par l'Académie royale de Musique depuis son établissement
 *Corneille*La Conquête de la Toison d'OrŒuvres Complètes
 *Corneille*MédéeŒuvres Complètes
 *Corneille*Médée
@@ -2752,15 +2752,15 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 
 
 
-## Ouvrages et articles sur Thomas Corneille
+## Ouvrages et articles sur Thomas Corneille.
 
 
-### Ouvrages*Fischler*La Dramaturgie de Corneille
+### Ouvrages.*Fischler*La Dramaturgie de Corneille
 *Reynier*Thomas Corneille : sa vie et son théâtre
 
 
 
-### Articles*Aron*Cahiers de Lexicologie
+### Articles.*Aron*Cahiers de Lexicologie
 *Brereton*French tragic drama in the XVI and XVII centuries
 *Carlez*Mémoire de l'Académie nationale des Sciences, arts et belles lettres de Caen
 *Cuche*MédéePapers of French Seventeenth-Century Litterature
@@ -2770,13 +2770,13 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 
 
 
-## Ouvrages généraux*Forestier*Introduction à l'analyse des textes classiques
+## Ouvrages généraux.*Forestier*Introduction à l'analyse des textes classiques
 *Rousset*La Littérature à l'âge baroque en France, Circé et le paon
 *Ubersfeld*Lire le théâtre
 
 
 
-## Ouvrages sur le théâtre du XVIIe siècle*Adam*Histoire de la littérature française du xviie siècle
+## Ouvrages sur le théâtre du XVIIe siècle.*Adam*Histoire de la littérature française du xviie siècle
 *Bénichou*Morales du Grand Siècle
 *Bluche*Louis XIV
 *Forestier*Passions tragiques et règles classiques. Essai sur la tragédie française
@@ -2788,10 +2788,10 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 
 
 
-## Ouvrages et articles sur la tragédie en musique au XVII*e* siècle
+## Ouvrages et articles sur la tragédie en musique au XVII*e* siècle.
 
 
-### Ouvrages*Antony*La musique en France à l'époque baroque de Beaujoyeult à Rameau
+### Ouvrages.*Antony*La musique en France à l'époque baroque de Beaujoyeult à Rameau
 *Barthélémy*Métamorphoses de l'opéra français
 *Benoît*Dictionnaire de la musique en France aux XVIIe et XVIIIe siècles
 *Brossard*Dictionnaire de musique
@@ -2812,15 +2812,15 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 
 
 
-### Articles*Niderst*Regards sur l'opéra : du ballet comique de la reine à l'opéra de Pékin
+### Articles.*Niderst*Regards sur l'opéra : du ballet comique de la reine à l'opéra de Pékin
 *Saint-Evremont*Sur les OperaŒuvres en prose
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires*Académie Française*Dictionnaire
+### Dictionnaires.*Académie Française*Dictionnaire
 *Commelin*Mythologie grecque et romaine
 Dictionnaire de la mythologie grecque et romaine
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
@@ -2831,7 +2831,7 @@ The new Grove dictionary of music and musicians
 
 
 
-### Rhétorique, grammaire et ponctuation*Catach*La Ponctuation
+### Rhétorique, grammaire et ponctuation.*Catach*La Ponctuation
 *Cayrou*Le Français classique. Lexique de la langue du XVIIe siècle
 *Drillon*Traité de la ponctuation
 *Fournier*Grammaire du français classique

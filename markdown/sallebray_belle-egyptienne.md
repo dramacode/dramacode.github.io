@@ -21,13 +21,13 @@ De quoi Sallebray est-il le nom ? Un curieux de bibliothèques et de collection
 Ouvert bien souvent par procuration, on l'aura lu quand il s'agit de parler de l'*Andromaque* de Racine, des précurseurs de l'opéra ou du théâtre à machine, des postérités des *Nouvelles Exemplaires* de Cervantès ou du grand Alexandre Hardy dont Sallebray tire ses sources, et, comme bien souvent, de ces irréguliers si dissipés et dissidents. Jamais encore un travail n'a tenté de le prendre pour objet à part entière. C'est ce que souhaite accomplir la présente édition critique, en proposant un texte lisible de *La Belle Egyptienne*, une des pièces les plus importantes de Sallebray. Nombre d'enjeux et de questions se posent avec cette tragi-comédie : on y voit l'alliance du poétique au spectacle à machines, un travail formel pour insérer dans la dramaturgie même de la pièce, et musique, et danses. Celle qui danse, c'est Précieuse : Sallebray ne touche pas moins à celle qui donnera son nom à la préciosité, à une muse Egyptienne qui permet d'accueillir tout un monde exotique sur scène. En cherchant à unifier les différents signes laissés par le nom de Sallebray, cette édition tente également de couvrir les débuts d'une recherche biographique. Ainsi pourra-t-on commencer à s'entretenir du « destin qu'éprouva *La Belle Egyptienne* ».
 
 
-# Sur les traces de La Belle Egyptienne
+# Sur les traces de La Belle Egyptienne.
 
 
-## Sallebray, illustre inconnu
+## Sallebray, illustre inconnu.
 
 
-### Le silence de l'archive sur sa vie
+### Le silence de l'archive sur sa vie.
 
 Il est difficile d'affirmer avec certitude quelconque postulat concernant la vie de Sallebray, sur laquelle règnent des absences et des zones d'ombre. Nous ne pourrons qu'avancer des hypothèses établies directement à partir de la consultation d'archives et, à défaut, nous mettrons en évidence les énigmes qui planent sur sa biographie. Il faut d'emblée souligner les limites des recherches archivistiques menées pour ce travail, qui sont loin d'être exhaustives et qui aspirent plutôt à entamer la destruction du quasi-néant d'informations qui enveloppe sa personne.
 
@@ -42,7 +42,7 @@ En 1673, à Bruxelles, l'oeuvre du chroniqueur liégeois du XIV*e* siècle Jacqu
 Il y a donc bien de fortes chances pour que le Sallebray poète dramatique des années 1630-1640 soit bien le même que le précepteur du fils du comte de Marsin, et sans doute le même que le concierge de la chancellerie de Fontainebleau. Toujours est-il qu'il faut encore dessiner les contours et trouver le fil rouge de son parcours : comment, en effet, expliquer le passage de la dense production dramatique des années 1630-1640 à la chancellerie de Fontainebleau, en passant par le statut de précepteur auprès de la famille de Marsin ? Convoquons ici plusieurs éléments de réponse qui nous permettront d'avancer une hypothèse : la première pièce publiée par Sallebray dont le texte nous soit parvenu est *Le Jugement de Pâris et le ravissement d'Hélène*, tragi-comédie jouée à l'hôtel de Bourgogne et éditée en 1639. Or, la pièce comporte elle aussi une épître, destinée à une « Mademoiselle de Clermont d'Antragues [12] », qui n'est très probablement autre que la comtesse de Marsin. Seulement, en 1639 elle n'est pas encore mariée à de Marsin, et s'appelle encore Marie de Balzac de Clermont d'Entragues. Il est vrai que l'épître pourrait s'adresser à sa sœur, mademoiselle Louise de Clermont. Cependant, au dire d'Alain Niderst qui mentionne les relations qui unissent les deux sœurs au monde des poètes (les Scudéry notamment), Marie de Clermont est celle qui fut « louée par maints poètes » [13] et il semble plus probable que Sallebray ait vécu sous son unique protection. Si ce constat corrobore l'affirmation selon laquelle c'est bien le même homme qui composa *La Belle Egyptienne* en 1642 et la fit rééditer en 1671, il permet aussi de comprendre le pourquoi d'une réédition *à Bruxelles* : en effet, comme nous l'avons dit, le comte de Marsin était frondeur et demeura au-delà des frontières françaises après la fin de la guerre civile. Sallebray aurait ainsi suivi la famille de sa protectrice jusque dans les Pays-Bas méridionaux et se serait mis à son service en devenant le précepteur de leur fils, Ferdinand de Marsin. Sans doute sera-t-il rentré en France en même temps que ce dernier fit son entrée à la cour de Louis XIV et se mit au service de l'armée du roi. En tout cas, si l'on ne saurait expliquer l'interruption – ou le délaissement - de sa production dramatique, force est de constater que son activité littéraire semble largement subordonnée au destin de la famille de Marsin.
 
 
-### Principaux traits de l'oeuvre de Sallebray
+### Principaux traits de l'oeuvre de Sallebray.
 
 La cohérence de son œuvre contraste nettement avec sa biographie. L'oeuvre de Sallebray, principalement dramatique mais pas exclusivement, est quasiment répartie sur la courte période 1639-1642. En effet, sa première pièce, une comédie intitulée *l'Enfer divertissant*, a été publiée en 1639 quand les deux dernières, les deux tragi-comédies que sont *L'Amante Ennemie* et *La Belle Egyptienne*, ont été publiées en même temps en 1642. Entre temps, ont été éditées *Le Jugement de Pâris* (1639) et une tragédie, *La Troade* (1640), réécriture partielle de la pièce de Garnier. L'oeuvre poétique de Sallebray, moins fertile, se résume à la *Description de la belle chapelle de la maison royale de Fontainebleau*, une ode publiée vers 1635, et à quelques épigrammes destinées à d'autres poètes dramatiques. Nous connaissons l'épigramme liminaire de *La Quixaire*, tragi-comédie de Gillet de la Tessonnerie (1640) ainsi que celle de *Marie Stuard*, tragédie de Regnault (1639) – qu'il signe par ailleurs « Sallebret ». Il aurait également composé une épigramme pour *Le Songe du rêveur*, une satire en vers anonyme datant de 1660 qui eut un rôle important dans la querelle des Précieuses, mais dont le texte de Sallebray est difficilement trouvable. L'existence de ces épigrammes peut être comprise comme représentative des échanges assez abondants entre Sallebray et d'autres poètes dramatiques. N'oublions pas, enfin, d'inclure l'établissement et la traduction de la chronique de Jacques de Hemricourt, *Miroir des nobles de Hasbaye*, publiée à Bruxelles en 1673.
 
@@ -63,38 +63,38 @@ c'est la prise et la destruction de Troie, et le partage des captifs par ses vai
 De cette théâtralité sanguinaire aux « machines » du *Jugement de Pâris*, Sallebray manifeste un penchant tout particulier pour les passages musicaux et dansés : *l'Amante ennemie* comporte une chanson accompagnée d'une guitare [25] et *La Belle Egyptienne* inclut de nombreux éléments empruntés au ballet de cour : un « récit » qui pouvait être chanté, ainsi qu'un ballet dansé pour clore la pièce. Si son goût pour le spectacle ne fait en rien de Sallebray un original parmi les poètes dramatiques de son temps, son usage de la musique, en revanche, est l'aspect qui a le plus frappé les chercheurs contemporains, si bien que H.C Lancaster n'hésite pas à conclure que « the play deserves recognition in the history of the development of opera and in that of the reciprocal influence of plays and ballets. » [26]
 
 
-## Présentation de *La Belle Egyptienne*
+## Présentation de *La Belle Egyptienne*.
 
 
-### Argument de la tragi-comédie
+### Argument de la tragi-comédie.
 
 
-#### Acte I
+#### Acte I.
 
 **Scène première.** La pièce se passe à Tolède en Espagne et commence avec un dialogue entre Précieuse, la « belle égyptienne », jeune bohémienne, et « la Vieille », tante de Précieuse. Cette dernière apprend à Précieuse qu'un gentilhomme, Dom Jean de Carcame, après l'avoir vue danser lors d'un ballet de cour, est tombé amoureux d'elle et a fait le voyage jusqu'à Tolède pour la voir. **Scènes 2-3-4**. Arrive le personnage du poète, tout aussi amoureux de Précieuse, mais celle-ci se refuse à écouter ses déclarations et souhaite qu'il se comporte avec elle en ami et non en amant ; ainsi les deux personnages se mettent à parler de poésie. Le poète lui donne quelques vers rédigés avec une pièce de monnaie dissimulée à l'intérieur que Précieuse lui demande de garder. Rappelée par la Vieille qui entend quelqu'un arriver, Précieuse fait choir le papier par mégarde. **Scène 5**. Voici maintenant Dom Jean qui fait son entrée, avec un long monologue au cours duquel il est pris par un sentiment de culpabilité, étant tombé amoureux d'une femme qui n'est pas de son rang. Mais l'amour prend le dessus, et Dom Jean sort une bourse d'or de sa poche en espérant qu'elle lui servira à charmer Précieuse. **Scène 6.** Petit quiproquo comique où Précieuse cherche le papier du poète, qu'elle finit par retrouver, tandis que la Vieille lui parle de Dom Jean qu'elle voit arriver au loin. Les deux Egyptiennes abordent Dom Jean et Précieuse lui dit sa « bonne aventure ». Il lui offre l'argent et son amour, et lui propose de la délivrer de sa condition sociale misérable en devenant sa femme. Précieuse, attachée à son honneur, refuse et lui impose les conditions à remplir s'il veut gagner son amour : pour l'épouser, il doit devenir lui aussi Egyptien et attendre deux ans, selon la coutume établie dans leur communauté. Il accepte, et part chercher son équipement. Avant de partir, il insiste pour que Précieuse reçoive la bourse, mais elle refuse tout de même. **Scène 7.** La Vieille se fâche : Précieuse aurait dû tout de même accepter la bourse et néglige ainsi la valeur de l'argent. Elles sortent préparer la « conversion » de Dom Jean en Bohémien.
 
 
-#### Acte II
+#### Acte II.
 
 **Scène 1**. Monologue de Dom Jean, qui est pris de doute au sujet de sa décision. La vue de Précieuse qui arrive au loin chasse ses incertitudes. **Scène 2**. Le capitaine des Egyptiens, accompagné par d'autres hommes de sa « bande », accueille Dom Jean, mais le met en garde contre la rudesse du métier d'Egyptien : il s'agit de savoir voler avec adresse, et de ne jamais se faire attraper sous peine de subir les pires supplices. Mais il lui fait également l'éloge de leur mode de vie, qui est pleine des plaisirs de la liberté et du vagabondage. Précieuse rappelle les conditions qu'elle lui a imposées : il attendra deux ans avant de la prendre pour épouse. Dom Jean ayant accepté, la scène s'achève, et le voilà devenu Andrès. **Scène 3**. La « cérémonie » achevée et les Egyptiens repartis, Précieuse et Andrès se retrouvent seuls. Tandis qu'il se laisse aller à de multiples louanges amoureuses, Précieuse se désole de l'avoir réduit à une condition sociale si basse. Andrès remarque le papier du poète qu'elle porte dans son habit et lui demande d'où il provient. C'est l'occasion de voir les premiers traits de jalousie d'Andrès, qui ne supporte guère l'idée que Précieuse ait pu recevoir un billet amoureux. Précieuse, pour le détromper, lui montre que ce sont des vers. S'ensuit la lecture du poème, dont se moque Andrès. C'est maintenant à son tour de lire à Précieuse un « récit » qu'il a composé pour elle, mais dont il dissimule l'identité de l'auteur, même si Précieuse, lucide, a très bien compris que c'est de lui qu'il s'agit. Enfin, elle l'engage à la suivre pour qu'il revête la tenue d'un Egyptien.
 
 
-#### Acte III
+#### Acte III.
 
 **Scène 1.** La scène se passe de nuit. Le poète, déguisé en berger arrive sur scène et appelle à l'aide : il est tombé sur les chiens des Egyptiens qui lui ont violemment mordu la jambe. Des Egyptiens, à ses cris, viennent à son aide. Moment comique où les Egyptiens expliquent au poète qu'ils pourront lui procurer les soins nécessaires à sa guérison à condition qu'il les paie considérablement. Le poète s'exécute et les Egyptiens l'emmènent auprès de la Vieille. **Scène 2**. Celle-ci, qui elle-même vient de croiser Andrès et Précieuse, leur raconte son accident et envoie Précieuse, qui a reconnu le poète, chercher des remèdes. **Scène 3.** Syllepse à effet comique du poète dans laquelle il invoque le soleil – métaphore pour désigner Précieuse ? – et qui est reçue par Andrès au sens littéral. **Scène 4-5.** Précieuse revient en courant, avec le remède, et l'attention qu'elle porte au blessé suscite la jalousie d'Andrès. **Scène 6-7.** Les Egyptiens laissent le poète soigné allongé dans une tente. Précieuse révèle à Andrès la véritable identité du blessé, ce qui le rend jaloux. Il lui demande un baiser de Précieuse en preuve d'amour, qu'elle refuse en partant. **Scène 8.** Monologue d'Andrès dans lequel il exprime la douleur que lui a causée Précieuse. Il décide d'aller interroger le poète pour avoir une preuve de sa « trahison ». **Scène 9.** Dialogue entre le poète et Andrès où ce dernier fait tout pour que le blessé se confie à lui et avoue son amour pour Précieuse. Andrès, pris dans sa jalousie, propose même au poète d'arranger une rencontre avec sa « maîtresse » et quitte la scène.
 
 
-#### Acte IV
+#### Acte IV.
 
 **Scène 1**. Andrès fait croire à Précieuse qu'il a arrangé un entretien entre elle et le poète pour qu'elle puisse découvrir pourquoi il est revenu déguisé vers la communauté des Egyptiens. **Scène 2.** Avant que Précieuse ne puisse rétorquer quoi ce soit, la conversation est interrompue par l'arrivée d'Hipolite, qu'Andrès reconnaît et dont elle est amoureuse. Précieuse ne manque pas de tirer parti de la situation pour railler Andrès à son tour et l'encourage à aller parler à Hipolite. **Scène 3.** Précieuse partie, Hipolite réaffirme devant Andrès la passion qu'elle éprouve pour lui. Andrès ne cesse de refuser ses avances. Ne comprenant pas pourquoi il préfère conserver sa condition d'Egyptien pour épouser Précieuse, quand il peut la choisir, elle, riche paysanne, Hipolite quitte la scène en promettant de se venger. **Scène 4**. Précieuse regarde amusée Andrès revenir. Mais le ton ne tarde pas à changer lorsqu'Andrès lui apprend qu'Hipolite a de fermes intentions de se venger en tête. Précieuse souhaite prévenir le capitaine des Egyptiens d'un danger. **Scène 5.** Hipolite demande justice auprès du prévôt, et accuse les Egyptiens de vol. Elle déclare savoir lequel d'entre eux est le responsable d'un crime. **Scène 6**. Court monologue d'Hipolite où elle montre les bijoux qu'elle va cacher dans la valise d'Andrès pour faire croire à un vol. **Scène 7**. Le capitaine, prévenu de la colère qui frappe Hipolite, juge bon de quitter la ville. **Scène 8**. Mais trop tard : le prévôt arrive avec Hipolite et les deux accusent Andrès. On ouvre la valise et l'on découvre les bijoux. Aux protestations d'Andrès, Hipolite ordonne le silence, il l'ignore et un archer le rappelle à l'ordre par un soufflet. Indigné par cet acte, Andrès oublie quel est son nouveau rang d'Egyptien et tue l'archer avec son épée. Le prévôt décide de l'emmener auprès sénéchal pour faire punir ce crime.
 
 
-#### Acte V
+#### Acte V.
 
 **Scène 1**. Nous voyons pour la première fois le sénéchal, Ferdinand, et sa femme Isabelle. L'épouse s'inquiète du crime commis par les Egyptiens et pense qu'ils auraient dû les chasser bien auparavant. Elle déclare également que la vue de Précieuse lui a rappelé sa fille perdue, disparue un jour lorsqu'elle était encore enfant. **Scène 2.** Précieuse vient avec la Vieille demander justice auprès du sénéchal, soutient qu'Andrès n'est pas responsable du vol et qu'il ne mérite pas d'être puni pour son crime. Le sénéchal accepte d'aller entendre ses raisons et quitte la scène. **Scène 3**. Isabelle s'intéresse à Précieuse et ne cesse de faire le parallèle entre elle et sa fille perdue. Précieuse quant à elle essaie de convaincre Isabelle de la noblesse d'Andrès, qui n'aurait jamais pu commettre un tel crime. La Vieille, voyant que la femme n'est pas prête à se laisser convaincre, finit par avouer que c'est elle qui a enlevé sa fille jadis lorsque la troupe des Egyptiens était de passage à Tolède, et qu'elle n'est autre que Précieuse elle-même, prouvant ses dires avec un médaillon et une carte datant du jour de l'enlèvement. Du même coup, elles apprennent à Isabelle la véritable identité d'Andrès. Isabelle, qui s'apprête à apprendre au sénéchal tous ces coups de théâtre, espère qu'il acceptera de pardonner à la Vieille l'enlèvement qu'elle a commis douze ans auparavant. **Scène 4**. On apprend donc au sénéchal quelles sont les véritables identités de Précieuse et d'Andrès, dont le sénéchal connaît le père. Trop heureux de cette annonce, il paraît même oublier la faute commise par la Vieille. Précieuse demande Andrès pour époux, et le sénéchal accepte. **Scène 5**. On amène Andrès. Le sénéchal lui apprend que son identité, découverte, l'a absout de ses crimes. Et désireux de vérifier que son amour pour Précieuse est réciproque, il lui offre sa fille en mariage. Bien entendu, Andrès redevenu Dom Jean, qui ne sait pas encore que cette fille est en fait Précieuse, refuse. Preuve d'amour faite, le sénéchal dévoile l'identité de Précieuse. Les amants se réjouissent de leur mariage prochain. **Scène dernière.** Le capitaine des Egyptiens arrive en trombe, guidé par le prévôt, pour plaider en l'innocence d'Andrès. Le sénéchal le rassure, l'affaire est élucidée puisqu'entre temps Hipolite a également avoué sa ruse. Et, pour couronner ce jour de bonheur, il demande à ce qu'on laisse les Egyptiens en liberté dans Tolède, puisqu'ils n'ont commis aucun crime. La pièce se clôt avec un ballet dansé par les Egyptiens pour remercier Ferdinand de son geste, et ce dernier célèbre le bonheur de Précieuse rendue à sa famille et du mariage des deux amants.
 
 
-### Les trois éditions de la pièce
+### Les trois éditions de la pièce.
 
 La question des rééditions de *La Belle Egyptienne* a déjà été évoquée au sujet de la mystérieuse biographie de son auteur. Rappelons ici quelques détails à leur sujet : la première édition de la tragi-comédie a été imprimée à Paris en 1642, chez Antoine de Sommaville et Augustin Courbé, en même temps que *L'Amante Ennemie*. Elle a été republiée une seconde fois à Lyon en 1654, chez Claude Larivière et enfin une dernière fois à Bruxelles en 1671 chez François Foppens. Si l'édition lyonnaise est identique à la première édition, l'édition belge comporte des variantes importantes : elle comporte une épître [27], et rares sont les scènes qui demeurent intactes, certaines sont mêmes supprimées, et des passages entiers sont réécrits. Ces changements n'ont pas, toutefois, d'impact radical sur le sens général de la pièce : les dynamiques demeurent les mêmes. Nous parlerons tout de même de deux versions différentes de la tragi-comédie, dont nous ne connaissons d'ailleurs pas la période de composition. Nous pouvons simplement supposer que la première version, représentée vers 1640-1641 selon Bénédicte Louvat- Molozay dans son tableau récapitulatif [28], a été composée vers 1637-1640. Le laps de temps entre la deuxième édition de 1654 et l'édition bruxelloise de 1671 est trop long, et nous ne possédons pas suffisamment d'éléments de contexte, pour situer précisément la date à laquelle Sallebray aurait repris la pièce.
 
@@ -106,7 +106,7 @@ Il n'y a rien dans son ouvrage qui justifie ce renouvellement d'un thème déjà
 Nous reviendrons sur son analyse, qui est très discutable, lorsque nous étudierons de plus près les sources de la pièce et le travail de composition fait par Sallebray à partir de celles-ci. Retenons pour l'instant de cette remarque l'importance visiblement accordée par Sallebray au style, attention indéniable, qui pourrait en partie expliquer qu'il se soit lancé dans un perfectionnement rhétorique de sa propre pièce.
 
 
-### De la composition à la postérité de la tragi-comédie
+### De la composition à la postérité de la tragi-comédie.
 
 Commençons par quelques sources d'inspiration qui semblent présentes dans *La Belle Egyptienne*. La pièce de Sallebray ne va pas sans faire écho à d'autres auteurs contemporains du nôtre, à commencer par Rotrou. Sallebray est peut-être allé puiser chez lui la forme du ballet, pour la développer et la rendre plus prégnante encore dans sa *Belle Egyptienne*. H.C Lancaster avance l'hypothèse que « the fact that Rotrou had already included a ballet in his *Belle Alphrède* » [30] ait pu suggérer à Sallebray d'en faire de même. De même, *La Belle Egytienne*, ainsi que *L'Amante ennemie*, rappellent des thématiques chères à Corneille : on trouve notamment le code de l'honneur dans la tragi-comédie qui fait l'objet de notre étude. Mais c'est surtout le souvenir du *Cid* qui est convoqué lors du dénouement, en faisant appel à un quiproquo qui évoque celui de Chimène lorsqu'elle croit Rodrigue tué par Don Sanche : le père de Précieuse souhaite dissimuler l'identité tout juste découverte de la jeune Egyptienne, et faire croire à Andrès que s'il veut échapper à la mort, il n'a d'autre choix que d'épouser sa fille. Andrès, bien entendu, ne sachant pas encore que sa fille est Précieuse, refuse. C'est alors que Ferdinand peut dévoiler la vérité. Le sénéchal attend donc de voir la réaction d'Andrès, qui par son refus démontre son amour pour Précieuse, avant de lui annoncer sa véritable identité, tout comme le roi du *Cid* laissait durer le quiproquo dans lequel Chimène était prise en guise de preuve d'amour. L'accent mis sur cette feinte « pour le plaisir » est une innovation de Sallebray, ce qui pousse d'autant plus à croire qu'il aurait voulu réactualiser ce procédé riche en émotions.
 
@@ -118,14 +118,14 @@ Le sujet de *La Gitanilla* était vraisemblablement très populaire depuis 1615,
 S'il semble donc que l'accueil très favorable qui avait été fait aux *Novelas Ejemplares* et plus particulièrement la popularité du sujet de la « belle égyptienne » offraient à Sallebray un chemin tout tracé vers une réception positive, inversement, sa tragi-comédie « n'a pas peu contribué à entretenir la popularité de cette nouvelle cervantesque. » [31]. Mises au service l'une de l'autre, la nouvelle sert de tremplin au succès à la pièce et celle-ci l'entretient dans son statut d'oeuvre de référence, si ce n'est encore celui de chef-d'oeuvre ou de classique. Si bien que lorsque Molière se mettra à la composition de l'une de ses premières comédies, *L'Etourdi*, créée en 1655 à Lyon, qui met en scène un valet et son maître affreusement maladroit et « étourdi » tombé amoureux d'une esclave, appelée Célie, la présence d'un marchand d'esclaves nommé Andrès aussi bien que celle de cette jeune esclave aux allures précieuses signale une réminiscence de la nouvelle tout comme des deux adaptations théâtrales. Le succès des pièces inspira même des pratiques mondaines : Myriam Dufour-Maître mentionne l'existence d'un « Ordre des Egyptiens » fondé par Mademoiselle du Pré, dont la décoration était sans doute empruntée « au rituel d'admission d'Andrès dans la bande des Gitans » [32].
 
 
-### Éléments de contexte : les Bohémiens sous l'Ancien Régime
+### Éléments de contexte : les Bohémiens sous l'Ancien Régime.
 
 L'attention littéraire portée au groupe social des Bohémiens n'a donc rien d'exceptionnel au XVII*e* siècle, bien au contraire. Afin de comprendre la place du faste égyptien sur la scène du début des années 1640, posons quelques éléments d'histoire qui permettent de saisir le sens de leur représentation par Sallebray. Les Egyptiens, autrement dit les Bohémiens ou les Tsiganes, constituent un objet problématique pour l'historien puisqu'ils forment un groupe social qui ne laisse pas de traces archivistiques. Cependant, depuis son arrivée en Europe au XV*e* siècle, et notamment tout au long du second XVI*e* et du XVII*e* siècles, le « ménage égyptien » ne cesse de faire l'objet de représentations théâtrales, picturales et littéraires, véritable objet de fascination et d'exotisme. Car les Egyptiens sont effectivement issus de différentes contrées et ethnies. Contrairement à ce que la terminologie peut faire croire, ils ne viennent pas d'Egypte, mais « ils sont en réalité originaires du nord de l'Inde, d'où ils ont émigré … pour arriver en Épire, dite 'Petite Egypte' » [33], et leur répartition géographique coïncide avec les différentes nominations qui ont pu être utilisées pour les désigner. La sympathie souvent manifestée à leur égard est due à la place qu'ils détiennent, qui n'est ni marginale, ni comparable à celle des vagabonds sous l'Ancien Régime. Bien au contraire, les Egyptiens font l'objet d'une certaine forme d'intégration même s'ils sont également réprimés. Originellement des sortes de compagnies militaires, les compagnies bohémiennes ont longtemps été patronnées par des seigneurs. Ainsi la répression de ces groupes, entamée vers le milieu du XVIe siècle, était d'abord hautement politique : on tentait ainsi de les empêcher de servir les intérêts des seigneurs. S'il y a bien eu une législation répressive, « la formulation des édits se heurtait à la pratique de patronage » [34], écrit Henriette Asséo, et ce n'est que l'édit de 1682 visant à « définitivement dissoudre les réseaux qui lient les Bohémiens aux nobles » [35] qui eut de réelles conséquences. Répression violente quand elle eut lieu, puisque les Bohémiens étaient soumis à de rudes peines et supplices s'ils refusaient de quitter le pays d'où ils étaient chassés. [36]
 
 Toutefois, « les Tsiganes ne font leur véritable entrée en littérature qu'à partir du moment où ils sont visés par des mesures discriminatoires » constate Frédéric Tinguely [37]. Ils seront également présents en peinture, comme en témoignent la célèbre *Diseuse de bonne aventure* (1639) de Georges de la Tour ou encore les toiles de Sébastien Bourdon, œuvres qui révèlent - comme le rappelle François de Vaux de Foletier [38], historien phare des Tsiganes sous l'Ancien Régime - le succès des danseurs bohémiens. Car plus qu'en littérature à proprement parler, les Egyptiens trouvent leur domaine réservé dans les ballets de cour. Le même roi qui proclama l'édit de 1682 avait pu, en 1664, prendre part à une représentation, déguisé en Egyptien avec des grands seigneurs de sa cour, dans un appartement du Louvre. La liste de festivités de ce genre est longue, et la présence d'Egyptiens sur la scène excède largement le *Mariage forcé*, comédie-ballet où Sganarelle par exemple se fait dire la bonne aventure. Bornons-nous ici à en citer quelques exemples : *Le Ballet du château de Bicêtre* (1630), *Le Ballet royal des plaisirs* (1665), *Le Ballet royal de l'impatience* (1661), ou encore *Les Noces de Village* (1663). Les « belles égyptiennes », loin de se limiter à faire l'objet de réactualisation du personnage de Cléopâtre, ont fait couler l'encre d'une autre veine littéraire, celle de la poésie. Ainsi Scudéry écrit en 1631 un sonnet du même nom de notre tragi-comédie ; Tristan avait lui aussi chanté la beauté noire dans son sonnet « La Belle Esclave More ». Le personnage de Précieuse trouve lui-même des résonances en la personne de « la belle Liance », « une Bohémienne de Fontenay-le-Conte venue à Paris, vers 1645 et qui, âgée d'une quinzaine d'années alors, semble soudain incarner celle que dramaturges et poètes chantaient depuis presque trois décennies » [39] explique Myriam Dufour-Maître. Nous savons comment la « belle Liance » a pu effectivement fasciner nombreux poètes à l'image de Benserade, tout comme des personnalités littéraires, si bien que Madame de Sévigné accueille des Bohémiens chez elle en 1671, selon François de Vaux de Foletier.
 
 
-## Des sources croisées : entre adaptation et réécriture
+## Des sources croisées : entre adaptation et réécriture.
 
 
 ### La Gitanilla de Cervantès.
@@ -187,13 +187,13 @@ Acte V – Scène 1 :courte scène où Ferdinand et Guiomar émettent de rapide
 Certains passages repris par Sallebray manifestent une ressemblance si proche avec le texte de Hardy que nous pourrions bien des fois être amenée à considérer sa *Belle Egyptienne* comme une réécriture plus que comme une adaptation. Mais c'est là aussi toute l'originalité de notre auteur, qui tisse deux sources pour créer sa propre version dramatique. La relative fidélité que démontre la pièce de Sallebray à l'égard de sa sœur aînée permettrait peut-être d'en déduire la scénographie et le décor mis en place pour la tragi-comédie dont nous ne savons rien : la pièce de Hardy a été représentée au temps du décor simultané, modèle qui s'estompe au tournant des années 1640, concurrencé par le décor successif importé du théâtre à machines italien. Et nous avons souligné à quel point Sallebray considère les effets musicaux des éléments de taille : ainsi il est même plus probable que la pièce de Sallebray ait trouvé meilleur accueil au sein d'un décor successif, favorisant le spectacle.
 
 
-# Composition et dramaturgie
+# Composition et dramaturgie.
 
 
-## Structure de l'action : une tragi-comédie type
+## Structure de l'action : une tragi-comédie type.
 
 
-### Les codes d'une intrigue romanesque
+### Les codes d'une intrigue romanesque.
 
 Malgré les difficultés à établir une action type de la tragi-comédie, nous pouvons nous appuyer sur les critères et les caractéristiques récurrents distingués par les ouvrages universitaires et critiques afin de qualifier l'intrigue de *La Belle Egyptienne*. La pièce offre effectivement au lecteur une action dont l'*inventio* coïncide parfaitement avec les « deux critères objectifs », bien que non exhaustifs ni incontestables, du genre tragi-comique soulignés par Hélène Baby : « la matière fictionnelle des intrigues, et la fin heureuse » [49]. Tirée de la nouvelle de Cervantès, la matière que Sallebray dramatise après Hardy est effectivement pure fiction : pas un seul des personnages n'a de référent historique. Bien plus, le choix de cette intrigue, loin d'être anodin, s'inscrit tout à fait dans l'enthousiasme manifesté à l'égard des aventures romanesques dans la première moitié du XVIIe siècle comme le rappelle Guiomar Hautcoeur Pérez-Espejo : « Ce qui plaît aux auteurs français de l'époque, aussi bien dans les *novelas* que dans la *comedia*, ce sont leurs histoires. » [50]. Comme souvent, ce genre d'histoire capable de tenir en haleine les spectateurs d'alors se fonde sur un schéma codé, celui de l'amour contrarié, finalement soldé par une une issue heureuse – un mariage. C'est bien le cas pour notre tragi-comédie qui est construite autour de l'amour de Dom Jean pour Précieuse, amour confronté à divers obstacles mais finalement rendu possible par la promesse d'un mariage. Le schéma de la pièce, au premier abord, donne l'impression que son héros est Dom Jean-Andrès. C'est bien sur lui que repose le développement de l'action, car c'est son amour pour Précieuse qui la déclenche : Précieuse, elle, semble demeurer un objet passif. C'est également une fois qu'il est sauvé de la mort et qu'il a surmonté l'ultime obstacle pour obtenir sa belle en mariage que la pièce se termine. Dans la perspective d'une conquête amoureuse, donc, Dom Jean-Andrès est le principal héros de la tragi-comédie. Cependant, le personnage de Précieuse est loin d'être cantonné au statut de jeune femme convoitée. Si elle donne à la pièce son titre, c'est bien parce que son personnage est celui qui attire les regards du public. Loin de jouer un rôle passif dans le développement actanciel de la tragi-comédie, Précieuse impose le respect de l'honneur et de la vertu à Dom Jean, fait qui l'entraîne précisément dans son aventure égyptienne. Sa beauté et sa vertu attirent particulièrement l'attention d'Isabelle et de Ferdinand lors de l'acte V, et les attendrissent. Ainsi, s'il n'y a pas « de définition précise du héros », les spectateurs savent bien que c'est Précieuse, cette exotique bohémienne, tout autant – voire plus ? - que Dom Jean-Andrès « qui les intéresse, qui fait battre leur cœur ou qui séduisent leur esprit. » [51], comme l'explique Jacques Scherer. Ainsi comprend-on d'autant mieux le fait que son personnage détienne le plus grand nombre de répliques [52] et soit rarement absent de la scène.
 
@@ -219,7 +219,7 @@ Si tu l'aimes, ma fille, oui tu peux le prétendre.(V, 4, vers 1731-1740)
 La prise de conscience de la véritable identité de Dom Jean, qui n'est pas Egyptien mais noble, pousse le sénéchal à consentir au mariage de sa fille. En d'autres termes, le dernier obstacle qu'il pouvait potentiellement constituer en exécutant la peine prévue pour Dom Jean se dissout en même temps qu'il retrouve sa fille et découvre l'identité du faux Egyptien. « Il n'est pas possible d'être roi quand on est père » [55], pour reprendre le texte d'Hélène Baby, ou plutôt ici, il n'est pas possible d'être sénéchal quand on est père, et c'est ce père qui va autoriser le mariage heureux des deux personnages principaux. Son personnage constitue ici le dernier jalon d'une série de types propres à une tragi-comédie de l'amour contrarié.
 
 
-### Le déroulement de l'action
+### Le déroulement de l'action.
 
 Romanesque, l'action voit d'abord les obstacles qui la structurent répondre à des principes tout aussi caractéristiques de la tragi-comédie : le hasard et la feinte. C'est le hasard, et la contingence qui l'accompagne, qui semble régir le développement de l'action et sa *dispositio*. Précisons ce que nous entendons par là. En termes dramaturgiques, le hasard se remarque au caractère fortuit, inexpliqué, voire invraisemblable et gratuit, de l'enchaînement des différents nœuds et événements de la pièce. Si nous pouvons considérer la première scène de notre pièce comme la partie la plus importante de l'exposition – elle pose *in medias res* l'essentiel de l'intrigue en informant de l'arrivée de Dom Jean à Tolède pour rencontrer Précieuse – elle est d'emblée placée sous le signe de la contingence par la Vieille, qui s'exprime ainsi à propos de la venue du jeune aristocrate :
 
@@ -261,7 +261,7 @@ Me fait venir chercher un asile entre vous. (III, 9, vers 1085-1090)
 C'est effectivement une mésaventure qui l'a jeté sur la route et l'a poussé à trouver refuge auprès des Egyptiens. C'est donc uniquement du point de vue de Dom Jean-Andrès que le poète constitue un rival, seulement lorsque l'on considère le schéma actanciel en prenant Dom Jean-Andrès comme sujet qu'il remplit la fonction d'opposant. En d'autres termes, la jalousie qu'il éprouve forme un obstacle contre lui-même ; Sallebray introduit ainsi une forme d'intériorité dans les principes structurants de l'action.
 
 
-### À la recherche d'un équilibre des actes
+### À la recherche d'un équilibre des actes.
 
 Contrairement à la version de Hardy, la pièce de Sallebray répartit plus rigoureusement et également les différentes scènes au fil des cinq actes. Chacun d'entre eux présente une longueur comparable, respectivement 440, 370, 302, 320 et 420 vers. Chacun d'entre eux, aussi, semble dédié au développement d'un moment particulier de l'action et se construit autour d'une scène principale : l'acte I, le plus long, forme presque une exposition à part entière, nous y apprenons l'amour de Dom Jean pour Précieuse, nous découvrons le personnage du poète et l'accord entre Dom Jean et Précieuse est scellé pour qu'il devienne Egyptien. Les actes II et III sont dominés par les crises de jalousie de Dom Jean-Andrès qui empiètent légèrement sur l'acte IV ; ce dernier, quant à lui, voit le tournant tragique de la pièce avec l'arrivée du personnage d'Hipolite et la ruse qu'elle met en place. Le dénouement constitue la quasi-totalité de l'acte V. Le déroulement de l'action progresse ainsi selon un schéma assez classique au fil des cinq actes.
 
@@ -302,10 +302,10 @@ Elle s'en doute, Amour seconde son dessein. (II, 3, vers 806-810)
 Ce relatif équilibre donné à la pièce est révélateur d'une emprise de la dramaturgie classique s'affirmant peu à peu et exigeant une harmonisation et une homogénéisation de la structure de la pièce.
 
 
-## La pièce et son temps : conscience des règles et langage nouveau
+## La pièce et son temps : conscience des règles et langage nouveau.
 
 
-### Un effort d'adaptation aux unités
+### Un effort d'adaptation aux unités.
 
 Sallebray semble effectivement soucieux d'infléchir la composition de la pièce afin qu'elle puisse répondre à certaines exigences des unités de temps, de lieu et d'action qui gagnent en importance au début des années 1640. Son choix est d'autant plus révélateur que nous savons que Sallebray était capable de mépriser l'unité de lieu au bénéfice du spectacle scénique comme il l'expliquait dans son avis au lecteur du *Jugement de Pâris*. Et comme le rappelle H.C Lancaster à ce propos, il est le seul auteur à situer son action dans plusieurs endroits parmi les tragi-comédies des années 1637-1639. En revanche, pour *La Belle Egyptienne*, il se montre plus scrupuleux. L'unité de temps est d'abord respectée « grâce à quelques vers précisant le moment de la journée » [60] pour reprendre l'analyse de Daniela Dalla Valle. Dès la première scène de la pièce, en effet, la Vieille s'empresse de préciser le moment où elle a rencontré Dom Jean : « Ce matin, m'ayant vue à Tolède » [61]. La journée passe, et, à l'ouverture de l'acte III, nous avons une didascalie qui précise que l'action se situe maintenant la nuit : « Le poète, en habit de berger et de nuit » [62]. Un peu plus loin, c'est Précieuse qui se charge de situer le moment de l'action :
 
@@ -393,7 +393,7 @@ Sallebray does not attempt to unify the action which is still under the influenc
 Peu nous importe, en effet, le sort du pauvre poète ou le chagrin des parents de la belle Egyptienne. C'est ainsi que l'on peut également justifier le resserrement du rôle d'Hipolite autour de sa fonction de rivale : c'est au bout du compte toujours le sort des deux amants qui nous intéresse et qui est en jeu.
 
 
-### Ni tout à fait bienséante, ni tout à fait vraisemblable
+### Ni tout à fait bienséante, ni tout à fait vraisemblable.
 
 La vraisemblance semble ignorée par Sallebray : la pièce regorge d'éléments qui paraissent aller contre elle, à commencer par la présence d'effets merveilleux qui tiennent aux spectacles intérieurs intégrés dans la pièce. À propos des danses et des ballets ou effets de spectacle présents dans un certain nombre de pièce et revêtant une fonction décorative, Georges Forestier écrit :
 
@@ -472,7 +472,7 @@ Triomphe beau vainqueur après avoir conquis : (IV, 3, vers 1179-1183)
 Le recours aux allégories de l'Amour, ainsi qu'aux métaphores du butin et de la conquête amoureuse, sublime la réalité triviale qui se cache derrière ces invitations. Pour finir, la suppression de la scène de la prison qu'avait inventée Hardy ne sert pas qu'à effacer la dimension pathétique du dernier acte, mais permet aussi de ne pas montrer un Andrès sur le point de mourir, sans doute dans un état pitoyable et humiliant pour sa condition noble. Toujours est-il qu'il demeure une mort sur scène, même si c'est celle d'un soldat, lors de l'accusation d'Andrès à la scène 8 de l'acte IV. C'est là le seul sang qui est versé sur scène, sang nécessaire au tournant tragique de la pièce puisqu'il vaut à Andrès sa condamnation à mort.
 
 
-### Le travail sur le style
+### Le travail sur le style.
 
 Les vers cités ci-dessus montrent déjà un fort contraste entre le style des deux auteurs. À partir du texte de Hardy, Sallebray met en œuvre une épuration triple – épuration linguistique, syntaxique ainsi que rhétorique. Notre auteur privilégie effectivement le choix d'un vocabulaire moderne, entendons par là, d'un vocabulaire aisément accessible pour ses contemporains, là où Hardy jonglait volontiers avec les archaïsmes, préférant à la propreté du vocabulaire des termes poétiques, recherchés, rares et érudits. Dans les scènes que Sallebray a reprises de Hardy, si l'on observe de près le langage adopté par les personnages dans chacune des deux versions, lors de la rencontre entre Précieuse et le poète, par exemple, la simplicité des termes choisis par Sallebray est frappante. Les vers suivants chez Hardy, « Ma foi vous triomphez en ces œuvres dernières / Pleines à mon avis de chaleurs printanières, » [74] deviennent chez Sallebray « Chaque rime en est riche, et dans les plus nouveaux, / Les termes, à mon gré, ne semblent point si beaux. » [75]. Hardy suit d'emblée la voie du figuré, tandis que Sallebray reste proche du sens littéral, du sens premier. C'est ainsi que les ornements linguistiques de cette même scène chez Hardy – « los », « débonnaire fils », « homicides sagettes » - sont laissés de côté par Sallebray. Apparaissent en revanche des termes concrets, dont l'ambivalence ne peut faire doute ; ainsi Précieuse parle de la richesse de la rime. Le contraste est encore plus frappant dans le premier monologue de Dom Jean qui correspond à la première scène de la pièce chez Hardy et à la scène 5 de l'acte I chez Sallebray. Le premier recourt à des termes vieillis - « cauteleux », « nuaus », « specieus », que Sallebray néglige. Et lorsque ce dernier reprend certaines tournures, c'est pour les rendre avec plus de clarté. Ainsi, « Puissant maître des Dieux, modère, Amour, modère / Le foudre décoché de ta juste colère, » [76] devient « Hé bien, es-tu content puissant maître des Dieux, / Connaissant le sujet qui m'amène en ceux lieux ? ». Tandis que le premier repousse le complément d'objet de l'impératif avec deux apostrophes, le second construit les deux vers sans inverser la structure syntaxique de la phrase, convoquant des adjectifs extrêmement banals tel que « content ». Toutefois, Sallebray sait tirer parti de son prédécesseur et lui reprend quelques tournures telles que « l'ordre du carcan » [77], le « vivant corail » [78], le « fard égyptien » [79], et d'autres encore, mais de façon à ce que le sens en ressorte clairement.
 
@@ -497,10 +497,10 @@ Me fait voir glorieux ce que je crûs infâme ?(II, 1, vers 459-462)
 La métaphore érudite est abandonnée, le langage est plus explicite et explicatif par le recours aux démonstratifs et aux relatives. La question que pose Dom Jean est presque posée aux spectateurs - signe, par ailleurs, que Sallebray est soucieux de prendre en considération son public. Toujours est-il que sa rhétorique, si elle est simplifiée, épurée, n'est pas sans recherche poétique. Simplement, Sallebray favorise l'esprit des répliques, ainsi que des figures de symétrie, des métaphores concrètes, des discours fondés sur une opposition thématique sans jamais se lancer dans la licence syntaxique ou poétique. Ce qu'il reprend de la traduction de Rosset et qui n'était pas présent chez Hardy lui permet d'alimenter une rhétorique plaisante, légère, et charmante, comme la description de la vie nomade par le capitaine. Ce dernier parle par exemple des « pavillons mobiles », des « palais volants », expressions présentes dans la traduction de la nouvelle, qui conduisent Sallebray à insérer une tonalité ludique dans la façon de présenter la vie bohémienne : les pavillons et palais désignant par métonymie les Egyptiens, ils sont ici personnifiés et ajoutent une touche d'humour à la description.
 
 
-## « La frontière comique » [81]. Du rire dérisoire au lyrisme tragique
+## « La frontière comique » [81]. Du rire dérisoire au lyrisme tragique.
 
 
-### Personnel noble et troupe égyptienne
+### Personnel noble et troupe égyptienne.
 
 Parmi les traits récurrents du genre de la tragi-comédie, *La Belle Egyptienne* présente non seulement « le mélange de la matière comique et tragique » [82], mais surtout un mélange de personnel noble et de personnel « bas ». Cependant, l'originalité de la pièce tient essentiellement à ce qu'elle fait son sujet de la transformation d'un noble en Egyptien, et ainsi en plus de mélanger les tons, la pièce renverse les statuts sociaux des personnages. Si le mélange des registres est courant et acquis dans la tragi-comédie, la présence de personnages bas l'est moins : elle se situe dans la lignée de la compréhension de la tragi-comédie telle qu'elle pouvait être conçue par Plaute dans son *Amphitryon*, mais ne fait pas autorité dans la majorité des définitions données au genre dans les années 1630. Les pièces de Hardy et de Sallebray répondent toutes deux ces caractéristiques. Il semblerait, en revanche, que Sallebray favorise la tonalité comique de la pièce et l'infléchisse pour en faire une tragi-comédie plus légère. Peut-être ce geste s'inscrit-il dans une volonté de rappeler les sources premières de la pièce, comme bien souvent dans les tragi-comédies tirées des nouvelles cervantesques, où « the comic element is larger than that of the heroic tragi-comedies, though not as large as in the tragi-comedies that resemble comedies » [83] précise H.C Lancaster.
 
@@ -690,10 +690,10 @@ T'obtient si promptement ce que ton cœur souhaite ?(V, 3, vers 1515-1520)
 La femme offre ici une courte description de la jeune fille qui suffit tout de même à orner l'Egyptienne d'un imaginaire de la pitié : il semble au spectateur que les larmes de Précieuse coulent sans fin au travers de chacune de ses répliques. Le fait d'attribuer cette réplique à Isabelle permet de jeter sur Précieuse un regard réflexif, distancié, qui rend d'autant plus puissant l'impact de sa présence sur Isabelle elle-même ainsi que sur les spectateurs. Les pressentiments d'Isabelle ont une portée bien évidemment proleptique de la révélation ultérieure de l'identité réelle de Précieuse, que le public devine déjà, et rendent l'isolement et la désolation de cette dernière d'autant plus émouvants par leur ironie dramatique.
 
 
-## En quête d'une dramaturgie du spectacle et du mouvement
+## En quête d'une dramaturgie du spectacle et du mouvement.
 
 
-### Des scènes rendues dynamiques
+### Des scènes rendues dynamiques.
 
 Si les monologues imposants du théâtre de Hardy ont souvent conduit à le qualifier de théâtre statique, c'est bien là une de ses caractéristiques dont Sallebray tente de s'éloigner. Pour ce faire, lorsqu'il reprend des scènes présentes dans la pièce de Hardy dont la fonction demeurera la même pour la progression dramatique de sa propre pièce, il en change sensiblement la forme, offrant ainsi au spectateur une nette préférence pour le dynamisme des dialogues et la pluralité des personnages sur scène. Sa volonté de remplacer le plus possible les monologues par d'autres formes d'écriture semble émaner d'un goût pour le mouvement des échanges entre personnages, pour leur vivacité et leur potentielle rapidité. Le tableau suivant souligne la façon dont Sallebray a remplacé la majorité des monologues de Hardy par des dialogues ou des stichomythies, allant parfois jusqu'à les supprimer, tout en conservant la fonction de chaque scène au sein de l'action. Dans le tableau, le symbole « = » signale que l'on retrouve la même forme d'écriture chez Sallebray que chez Hardy, « ≠ » qu'elle est différente et « Ø » que la scène ne trouve pas de double dans l'autre pièce.
 Pièce de Hardy | Pièce de Sallebray
@@ -734,7 +734,7 @@ Tu pourrais sans courir hâter mon allégeance. (III, 5)
 Notons que ces cinq vers forment l'intégralité de la scène. Un procédé semblable est à l'oeuvre au moment du dénouement, où Sallebray préfère dévoiler les véritables identités au spectateur et aux personnages de la pièce en même temps. En effet nous voyons la Vieille qui, après avoir fait rapidement part de ses intentions par le biais d'apartés, avoue avoir enlevé Précieuse lorsqu'elle était enfant. Chez Hardy, c'est encore une fois un monologue qui informe le spectateur des intentions du personnage, et le moment de l'aveu, pourtant fort en émotion, est passé sous silence. Sallebray préfère donc créer une complicité et une proximité avec le public.
 
 
-### Gratuité et multiplicité des plaisirs pour le spectateur
+### Gratuité et multiplicité des plaisirs pour le spectateur.
 
 Riche en émotions scéniques, la pièce de Sallebray en cultive un véritable plaisir qui se remarque notamment à la gratuité de certains de ses éléments, à commencer par les éléments comiques qui reposent essentiellement sur le personnage de la Vieille. Prenons par exemple le court, mais amusant, quiproquo qui prend place juste avant la rencontre de Dom Jean, entre la vieille Egyptienne et Précieuse. La belle Egyptienne cherche le papier du poète qu'elle a égaré tandis que la Vieille attend avec impatience le moment où elles pourraient tomber sur Dom Jean. Voici que les deux personnages ne parlent plus des mêmes objets :
 
@@ -814,7 +814,7 @@ les violons ont pu être employés quand les passages musicaux étaient plus com
 Plaisir visuel et sonore, la pièce semble bien avoir rencontré l'enthousiasme du public comme le constate Marie-Françoise Christout qui parle du « succès en 1642 des divertissements insérés dans *La Belle Alphrède* de Rotrou et dans *La Belle Egyptienne* de Sallebray. » [102]
 
 
-### Une « comédie-ballet avant la lettre »
+### Une « comédie-ballet avant la lettre ».
 
 Selon Bénédicte Louvat-Molozay, *La Belle Egyptienne* est la seule tragi-comédie de son époque à comporter un ballet, aux côtés de deux comédies [103], rendant ainsi l'oeuvre de Sallebray tout à fait originale. Georges Forestier parle même d'une « comédie-ballet avant la lettre » [104]. L'insertion d'un ballet participe d'une dynamique générale à l'oeuvre dans la pièce, celle du spectacle dans le spectacle. Le chant et la danse des Egyptiens après la conversion de Dom Jean à la scène 2 de l'acte II y contribuent également. Si l'insertion de ces éléments n'a pas d'incidence sur l'action, l'originalité de la pièce de Sallebray tient cependant au fait qu'ils sont intégrés dans le cadre de l'action et justifiés par celle-ci. *La Belle Egyptienne* fait partie de la catégorie des « comédies nuptiales » [105], selon la catégorisation établie par Georges Forestier, soit des pièces qui justifient l'intégration d'un spectacle par la célébration d'un mariage. Il classe également notre tragi-comédie dans la structure d' « enchâssement monolithique » [106], structure assez simple qui consiste à introduire un deuxième niveau de fiction par le biais d'un spectacle inséré au sein même de la fable. Le petit chant exécuté par les Egyptiens après la conversion de Dom Jean est peut-être effectivement trop court pour permettre de parler d' « enchâssement multiple », cas de figure où plusieurs spectacles sont insérés dans l'intrigue. Cependant, le ballet
 
@@ -881,13 +881,13 @@ Du destin qu'éprouva LA BELLE EGYPTIENNE.(V, 5 vers 1847-1852)
 La référence au titre de la pièce et au personnage éponyme est ici une façon non seulement de souligner l'achèvement de la pièce et son dénouement heureux, mais encore, une manière ludique de créer une proximité et une complicité avec le spectateur. L'autoréférentialité de ce dernier vers permettrait tout à fait de susciter l'enthousiasme d'un public déjà animé par le ballet qui précède. Elle émane également d'un *topos* bien plus vaste, celui du *theatrum mundi* : certes, si les personnages et le public n'hésitent pas entre le réel et l'illusion théâtrale comme c'est bien souvent le cas, ils n'en demeurent pas moins confrontés au pouvoir du spectacle. Celui-ci fait tomber amoureux, le spectacle théâtral leur fait incarner des rôles qui ne sont finalement que pur jeu, comme Précieuse qui n'aura plus à « jouer » l'Egyptienne à la fin de la pièce, étant d'origine noble, et Dom Jean qui pourra être absous de son crime puisque son identité n'était que factice, causée par la passion née à la vue du spectacle égyptien, effective seulement le temps de la représentation théâtrale. Mais ce n'est là qu'une thématique parmi toutes celles que Sallebray emprunte à la tendance baroque de son époque.
 
 
-# Étude des thèmes
+# Étude des thèmes.
 
 
-## Constance, mouvement, et le jeu des identités
+## Constance, mouvement, et le jeu des identités.
 
 
-### Un thème baroque : réversibilité et illusion du monde
+### Un thème baroque : réversibilité et illusion du monde.
 
 La notion de baroque, notion problématique, est ici bienvenue pour analyser les thèmes centraux de *La Belle Egyptienne*. Précisons cependant en quel sens elle peut être convoquée. Elle gagne ici à être comprise à partir de l'étude de Jean Rousset [114] selon laquelle le baroque est pensé à partir des thèmes du mouvement et de l'apparence. Dans notre tragi-comédie, en effet, les apparences sont trompeuses ; un écart se creuse entre l'être et le paraître : Précieuse et Dom Jean-Andrès ne sont pas vraiment Egyptiens, par conséquent ce n'est pas la Vieille qui est la mère de Précieuse mais Isabelle, le blessé de l'acte III n'est pas un berger mais le poète... Dans la tragi-comédie, le jeu des apparences et des identités est étroitement lié à une dynamique récurrente dans la pièce qui pose le monde comme une illusion. Ce thème se manifeste par une esthétique du déguisement, mais pas uniquement : feintes, ruses et faux-semblants sont également des mobiles fréquents chez les personnages. C'est d'abord Précieuse qui fait comme si elle n'avait pas reconnu Dom Jean lors de leur rencontre à la scène 6 de l'acte I : « Je ne le voyais pas, mais feignons pour le mieux. » [115] ; par la suite, Andrès se fera passer pour un complice du poète afin de percer à jour ses intentions auprès de Précieuse dans la scène 9 de l'acte III ; enfin, c'est Hipolite qui met en place une ruse destinée à faire faussement accuser Andrès comme elle en informe le spectateur à la scène 6 de l'acte IV dans un très bref monologue. Les régimes d'illusion et de fausseté conduisent non seulement les personnages à revêtir des identités multiples, mais également à dédoubler leurs fonctions. Ainsi la Vieille incarne d'abord une figure d'autorité sur Précieuse qui est relayée par Isabelle et le sénéchal ensuite. Mais ils permettent surtout d'introduire une forme de méfiance vis-à-vis de la parole, préférant un discours sensible et matériel à l'instabilité d'une parole pure, potentiellement mensongère. Hélène Baby analyse dans la tragi-comédie
 
@@ -913,7 +913,7 @@ Le contexte culturel de la pièce et la nature des personnages pousseraient d'au
 Le contexte égyptien constitue également le cadre permettant de décliner le *topos* de la roue de la fortune, thème voisin de celui des fausses apparences. Si le monde est illusoire, il est aussi soumis à un perpétuel mouvement qui s'accompagne d'un changement continuel des apparences ; c'est aussi ce mouvement, cette mobilité du monde qui est la seule condition du devenir des personnages. Ainsi, leurs états, leurs situations sont déterminés par l'instabilité d'une fortune toujours changeante. Le personnel en grande partie égyptien de la pièce accueille ainsi les infortunes de Dom Jean, forcé de devenir égyptien afin d'obtenir Précieuse en mariage, accusé faussement de vol, et sans merci à cause de cette nouvelle condition sociale, puis finalement rétabli à sa condition d'origine, en même temps que Précieuse. Mais ce sont aussi les fortunes et infortunes du poète, dont la présence est acceptée par Précieuse, mais qui se fait attaquer par les chiens des Egyptiens, les fortunes et infortunes de la troupe égyptienne, qui passe d'un objet de mépris au sein de la ville à un objet de tolérance à l'issue du dénouement. Le thème de la fortune même semble cristallisé dans la pratique égyptienne qui consiste à « dire la bonne aventure », soit à prédire l'avenir à divers passants en échange de quelque argent, comme le fait Précieuse à Dom Jean dans la scène 6 de l'acte IV. Et les personnages manifestent une conscience absolue d'être soumis aux volontés arbitraires du destin. Si cette présence de la fortune a bien entendu pour corollaire une dramaturgie du hasard, une esthétique de l'arbitraire telle que nous l'avons décrit, elle n'en demeure pas moins analysée par les personnages eux-mêmes, par le biais d'un regard auto-réflexif qu'ils portent sur leurs propres situations, de la Vieille qui, dès les premiers vers de la pièce, s'exclame : « O Ciel ! quelle fortune est à la nôtre pareille ? » [117], à Andrès qui pleure les coups de haine de « l'ingrate Fortune » [118], en passant par le poète qui se dit guidé par « sa fortune inhumaine » [119] jusque dans la gueule des chiens. La tragi-comédie s'achève même sur un mot qui invite à se rappeler la façon dont les coups de la fortune ont fait passer Précieuse d'une condition basse à sa condition aristocrate d'origine - « Et que par votre voix l'Univers s'entretienne / Du destin qu'éprouva LA BELLE EGYPTIENNE. » [120] - faisant ainsi du thème un des fils principaux de l'intrigue.
 
 
-### Précieuse ou la constance retrouvée
+### Précieuse ou la constance retrouvée.
 
 Dans un espace instable et soumis au perpétuel mouvement, Précieuse incarne pourtant une forme de stabilité et de permanence. Si son personnage revêt bien une identité multiple, son déguisement est « inconscient », selon la typologie établie par Georges Forestier, causé par un enlèvement qui a eu lieu dans un temps antérieur au temps de l'action :
 
@@ -977,7 +977,7 @@ Et ce front dont l'éclat répugne à sa fortune.(V, 1, vers 1457-1460 ; vers 1
 Le « tendre instinct » dont parle Isabelle met bien en évidence l'attrait qu'exerce Précieuse sur elle en tant que mère, de même que la description de sa « grâce » et de son « front » laisse facilement comprendre que Précieuse est de rang noble. Et le fait que Dom Jean tombe amoureux de Précieuse et pas d'une autre Egyptienne n'est pas anodin. Conséquemment, le langage qu'il est amené à utiliser auprès d'elle est ambigu, comme suit : « La voici, Dieux ! je tremble à son divin aspect, / Et je sens ce désir qui se change en respect. » [131]. Ce « respect » dont le personnage parle est bien évidemment dû à sa passion pour elle, et résulte de sa position d'amant pétrarquisant et esclave. Mais il révèle aussi que Dom Jean est poussé à traiter Précieuse comme une dame, comme une noble, avec le respect qui lui serait dû dans le monde aristocrate.
 
 
-### L'expérience de l'instabilité : les passions de Dom Jean-Andrès
+### L'expérience de l'instabilité : les passions de Dom Jean-Andrès.
 
 Inversement, c'est le personnage de Dom Jean-Andrès qui incarne la plus forte inconstance et la plus évidente instabilité dans la pièce. Son personnage est exactement l'opposé inverse de Précieuse : là où elle est rétablie à sa condition noble d'origine lors du dénouement, lui en est déchu le temps de la pièce en devenant Egyptien. Là où le déguisement de Précieuse est inconscient, le sien est tout à fait conscient. Fait ironique, il n'en demeure pas plus maître de lui-même. Le personnage est d'abord inconstant sous l'emprise de la passion amoureuse. Lors de sa première entrée en scène, il se dit l'objet des « aimables coups » [132] de l'Amour, objet passif face à un Amour allégorique qui fait de Dom Jean ce que bon semble. Pourtant, au début de l'acte II, après avoir accepté de devenir Egyptien, il se voit pris d'une hésitation :
 
@@ -1032,10 +1032,10 @@ PRECIEUSE
 Dans ce premier cas, c'est à la fois la jalousie d'Andrès et la nécessité de dissimuler qu'il est lui-même l'auteur du récit pour Précieuse qui ne souhaite pas être louée qui le poussent à faire passer son récit pour celui d'un autre. Mais la deuxième scène de jalousie est révélatrice d'une tension bien plus importante : Andrès va jusqu'à se faire passer pour un ami de Précieuse auprès du poète, persuadé que s'il lui propose d'arranger un rendez-vous avec elle, il percera à jour ses intentions qu'il croit douteuses. Mais, contrairement à la première scène, il s'en prend également à Précieuse : antiphrases aiguisées - « Enfin c'est ta conquête, / Pourquoi traiter si mal un fidèle Amant ? » [137] - suivies plus tard d'une accusation d'infidélité : « Arrachons son aveu par force ou par adresse, / Et perdons puis après le traître et la traîtresse. » [138]. Ce qui était discours amoureux devient discours de haine, schizophrénie de la parole qui est le résultat direct de l'emprise d'une passion, et qui participe également à l'inconstance et au mouvement du personnage. Le changement de condition sociale du personnage achève de lui conférer toute sa versatilité. Son déguisement, en effet, ne force pas seulement Dom Jean à porter un masque, mais lui fait dire « je ne suis pas là où je suis » [139] selon l'analyse de Georges Forestier à propos des déguisements inférieurs [140]. Autrement dit, l'identité n'est pas seulement dissimulée, ce sont bien plus les actes du personnage qui deviennent « déplacés », n'étant plus en adéquation avec la condition sociale d'origine. On peut ainsi avancer que, lors de la fausse accusation de vol que subit Andrès, quand ce dernier tue le soldat qui lui a donné un soufflet, il réagit comme un noble face à un geste déshonorant, ce que ne manque pas de relever le prévôt à la fin de la scène dans une tournure sylleptique involontaire et amusante : « Allons, et que pas un ne sorte de son rang, » [141] ; Andrès s'oublie, oublie la fausse identité d'Egyptien qu'il a endossée, sort de son déguisement, et c'est là toute le tragique de la scène.
 
 
-## La couleur égyptienne
+## La couleur égyptienne.
 
 
-### Exotisme des mœurs égyptiennes
+### Exotisme des mœurs égyptiennes.
 
 Il va sans dire que la cadre égyptien constitue un thème structurant de la pièce puisqu'il est au fondement de son intrigue. *La Belle Egyptienne* offre un double-exotisme au spectateur, puisque la pièce voit se déployer l'exotisme du monde bohémien dans un cadre espagnol. De toute évidence, Sallebray privilégie l'effort de couleur locale égyptienne sur la couleur espagnole ; mais sa peinture du faste bohémien suscite des avis divergents. H.C Lancaster, par exemple, juge la tragi-comédie de Sallebray une « far better play » [142] que celle de Hardy, notamment parce que l'auteur « amplifies the study of manners », soulignant que « no other tragi-comedy of the period presents so much attention to the manners and costums or to varying the action by music and dancing. » [143]. François de Vaux de Foletier, en revanche, commente les pièces de Hardy et de Sallebray d'une seule traite : « Dans le décor, ... il n'y a qu'un timide essai de couleur locale » [144], reconnaissant tout de même au second qu'il a traité le même sujet « sur un mode plus vivant » [145], faisant par là référence au ballet final de la pièce qui, comme nous l'avons vu, est étroitement associé aux Egyptiens. L'historien poursuit en décrivant les costumes qui étaient confectionnés à l'occasion de représentations incluant des Egyptiens sur scène :
 
@@ -1091,7 +1091,7 @@ Ces vers apologétiques du voyage mêlés à la description des ruses du vol et 
 Cependant, Sallebray profite également du cadre égyptien pour s'intéresser au thème de l'argent. Si la vie bohémienne est présentée sous un jour plutôt riche par le capitaine, notre auteur ne manque pas, à d'autres occasions, de souligner l'attachement des Egyptiens à l'argent et la constante crainte de la pauvreté. Mais en plus que de répondre à un besoin, comme pour nombre de personnages comiques, l'argent voit sa valeur rédemptrice exaltée comme un objet de merveille notamment par le personnage de la Vieille : « Apprends qu'une clé d'or ouvre toutes serrures » [156], déclare-t-elle en sermonnant Précieuse. Même Dom Jean en fait un instrument tout-puissant et corrupteur pour servir ses fins amoureuses (I, 5, vers 279-282). Le vocabulaire pécuniaire, enfin, va jusqu'à contaminer le discours esthétique du poète qui nomme la poésie une « pièce rare » [157] et qui décrit les pistoles qu'il reçoit par le biais d'une alliance du profane au sacré : « Ce trésor que j'égale à ceux des Républiques, / Et je vais l'enchâsser ainsi que des Reliques. » [158].
 
 
-### La belle Egyptienne, une « belle moresque »
+### La belle Egyptienne, une « belle moresque ».
 
 Un des intérêts fondamentaux de la pièce repose cependant en grande partie sur la beauté du personnage de Précieuse. Sa beauté est une beauté paradoxale : aux antipodes des canons aristocrates, la belle Egyptienne a le teint foncé, les yeux et les cheveux noirs, elle est sans doute moins bien en chair que les dames nobles, et surtout, elle danse comme une bohémienne. Aussi, sa sensualité est le principal objet de la fascination et de l'admiration qui s'exercent à son égard – voici comment Tallemant des Réaux décrit la belle Liance qu'il compare à la Preciosa de Cervantès : « Elle était grande, avec des traits réguliers, des yeux brillants ; elle avait l'esprit vif et elle dansait admirablement. » [159]. La danse orientale et exotique des Bohémiennes aux cheveux flottants est donc ce qui retenait le regard, et c'est en regardant Précieuse danser que Dom Jean tombe amoureux d'elle. Ainsi, tel que l'analyse Myriam Dufour-Maître,
 
@@ -1120,7 +1120,7 @@ Que l'une et l'autre joue emprunte de tes yeux,(II, 3, vers 697-700)
 L'oxymore des « Astres bruns » conjugue la noirceur de l'oeil avec la vivacité du regard, il souligne la porosité entre la profondeur de ce regard sombre et la flamme amoureuse qu'Andrès y voit. Le paradoxe de son apparence se prolonge sur son visage tout entier, puisque le sombre de ses joues devient un miroir réfléchissant ; ainsi la figure de Précieuse en tant que « belle » suscite l'ébahissement en tant qu'elle parvient à répondre à une exigence esthétique tout en satisfaisant le désir de rencontrer une beauté radicalement « autre ». Si Précieuse est aussi présente sur scène pendant la pièce, c'est également parce que les regards des spectateurs se concentrent avant tout sur elle.
 
 
-### L'affirmation d'un ordre social
+### L'affirmation d'un ordre social.
 
 On pourrait croire que *La Belle Egyptienne*, par l'attention qu'elle accorde aux personnages égyptiens, propose aux spectateurs la représentation d'un désordre social, d'un monde sans contraintes où le vol est prôné et la goût de l'argent exalté. À vrai dire, la dynamique à l'oeuvre dans la pièce est encore une fois une dynamique de faux-semblant : c'est *comme si* tout au long de la pièce Dom Jean était vraiment tombé amoureux d'une Egyptienne, comme si la vie nomade des Bohémiens était réellement perçue sous un regard mélioratif, jusqu'au moment du dénouement, où, avec le rétablissement des identités des héros, un ordre social est rétabli. Ainsi, l'esthétique de clair-obscur adoptée par Sallebray pour décrire le personnage de Précieuse permet aussi de souligner, comme le met en avant Frédéric Tinguely à propos des deux tragi-comédies, « le caractère paradoxal de la situation initiale » [161], soit le fait étonnant de rencontrer une beauté comme Précieuse dans un milieu égyptien. On explique alors les formules concessives utilisées par Dom Jean, telles que « Tu ne brilles pas moins pour être dans la fange » [162]. L'analyse se poursuit comme suit :
 
@@ -1158,10 +1158,10 @@ S'efforcent d'imiter ceux dont ils tiennent l'être, (V, 1, vers 1433-1436 ; ve
 Il semblerait que le statut social des Egyptiens et la fonction qu'ils remplissent se trouve dans une sorte d'opposé radical du « bon pauvre » : ici, leur présence gêne, sème le désordre social et forme une « mauvaise engeance », selon les termes utilisés à l'époque dans les textes répressifs. Et lorsque Ferdinand croit comprendre que sa fille est destinée à épouser un Egyptien, il exprime le plus profond dégoût : « À notre fille encore destiner un époux / Un traitre égyptien, un voleur, un infâme » [166]. Cela dit, l'aveu de la Vieille ayant permis au sénéchal de retrouver sa fille, elle est pardonnée pour l'enlèvement qu'elle avait commis et les Egyptiens sont lavés de toute accusation ; ils sont même tolérés dans la ville de Tolède : « Puisque dans ce pays ils n'ont point fait de crime, / Qu'ils aient la liberté dont ils font tant d'estime. » [167]. Ainsi, donc, la tragi-comédie, si elle est loin d'être subversive, met en place des éléments proprement transgressifs : on croit à la brisure de certains codes, mais cette transgression n'était vraie que l'espace de quelque temps. Les vols commis par les Bohémiens dans la pièce n'auront été que parole. La note sur laquelle s'achève la pièce est tout à fait révélatrice de leur statut dans la France des années 1630, faisant l'objet d'une « culture du consensus » [168].
 
 
-## Poésie et discours amoureux
+## Poésie et discours amoureux.
 
 
-### Topoi pétrarquistes et courtois
+### Topoi pétrarquistes et courtois.
 
 Les discours amoureux de Dom Jean et du poète à Précieuse empruntent une série de thèmes et de lieux communs à la poésie pétrarquiste ainsi qu'à la littérature courtoise, à commencer par le motif de *l'inamoramento* que relève Bénédicte Louvat-Molozay :
 
@@ -1203,7 +1203,7 @@ Qui me dompte à ma gloire, et m'honore en ses fers.(II, 1, vers 453-460)
 Le déguisement de Dom Jean et l'épreuve qu'il représente le pousse à faire fi de tous les principes moraux qu'il a acquis en tant que noble, et comme le commente Georges Forestier à propos de ces vers : « l'Amour passe avant l'amour de soi et rend la déchéance sociale plus glorieuse » [172], tout comme il rend Dom Jean glorieux dans son épreuve. En effet, le personnage fait également appel à des images mythologiques qui permettent de souligner la gloire et la beauté de son épreuve : « Propose si tu veux à mon âme assurée / Les périls encourus pour la Toison dorée, » [173]. En se comparant à Jason, Dom Jean amplifie le danger qu'il prend en acceptant de se déguiser en Egyptien, tout en présentant son acceptation comme héroïque.
 
 
-### Réflexion sur le langage poétique
+### Réflexion sur le langage poétique.
 
 Emprunts aux lieux communs de la poésie amoureuse, lecture des vers du poète par Andrès et Précieuse, discussion sur la poésie entre Précieuse et le poète, le thème de la poésie est souvent mis en abyme dans la pièce. À commencer par les commentaires de Précieuse qui introduisent un métadiscours au sein de la tragi-comédie :
 
@@ -1228,12 +1228,12 @@ Le style en est plus doux, et persuade mieux.(II, 3, vers 749-750)
 Son goût pour la poésie et l'attachement qu'elle démontre à entretenir une relation intellectuelle avec le poète jette un des fondements de ce que sera la préciosité, comme le remarque Myriam Dufour-Maître à propos de son personnage. L'amour de Précieuse « pour la poésie et sa facilité d'improviser ... la rendent bon juge des chansons et des vers qu'on lui destine » [175], attitude savante que les précieuses du milieu du XVII*e* siècle s'évertueront à adopter. Les discours autoréférentiels insérés par Sallebray dans la tragi-comédie, en revanche, jettent une lumière positive sur le langage de Précieuse, loin encore d'être raillée comme les précieuses moliéresques. Attachée à sa vertu et à son honneur, et par son langage retenu qui en est la conséquence, la jeune Egyptienne incarne tout à fait « cette chaste beauté qu'on nomme Poésie » [176].
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La présente édition reproduit le texte original de *La Belle Egyptienne* de Sallebray, dont le privilège est daté du 8 avril 1642 et l'achevé d'imprimer du 2 mai 1642. L'exemplaire qui a servi de référence se trouve à la Bibliothèque Nationale sous la cote : RES-YF-233.
 
 
-## Différentes éditions du texte
+## Différentes éditions du texte.
 
 Le texte a fait l'objet de trois éditions, la première en 1642 à Paris, la seconde en 1654 à Lyon et la troisième en 1671 à Bruxelles.
 
@@ -1258,7 +1258,7 @@ Tous les exemplaires français ont été consultés exception faite de celui d'A
 *La troisième et dernière édition* de la pièce que nous possédons à ce jour à été établie à Bruxelles par François Foppens en 1671. Le texte se présente sous un format in-12 de 95 pages. Cette édition est uniquement disponible à Paris, à la Bibliothèque Richelieu, sous la cote 8-RF-7113. Elle présente des variantes notables par rapport au texte original qui seront indiquées dans le texte de la présente édition en note en bas de page, ainsi qu'une épître dont le texte est consultable en annexe.
 
 
-## Description matérielle de l'édition de référence
+## Description matérielle de l'édition de référence.
 
 Le texte qui a été adopté comme référence se présente sous la forme d'un in-4° de IV-143 pages. En voici la description :
 
@@ -1273,7 +1273,7 @@ IV - les personnages
 1-143 - texte de la pièce
 
 
-## Principes de correction et d'annotation
+## Principes de correction et d'annotation.
 
 En règle générale, nous avons conservé l'orthographe et la ponctuation de l'édition originale, hormis les exceptions suivantes :
  * – nous avons modernisé les « ∫ » en « s ».
@@ -1293,7 +1293,7 @@ Il convient cependant de signaler ce qui apparaît comme des coquilles :
  * – *De graphie* : p.IV : amoureux → amoureuse ; vers 637 : générosiée → générosité ; vers 969 : dces → de ces ; vers 995 : aussi → ainsi ; vers 1307 : forgent → forge
 
 
-# La Belle Egyptienne. Tragi-comédie
+# La Belle Egyptienne. Tragi-comédie.
 
 
 ## Extrait du Privilege du Roy.
@@ -1322,12 +1322,12 @@ La Scene est à Tolede, ville d'Espagne.
 LA BELLE EGIPTIENNE, TRAGI-COMEDIE
 
 
-## ACTE I
+## ACTE I.
 PRECIEUSE, LA VIEILLE, DOM JEAN DE CARCAME, LE POETE.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 PRECIEUSE, LA VIEILLE sortant de leur tante.
 
 
@@ -1554,7 +1554,7 @@ Que tous ces vains discours et de trais⁎ et de flame [200].
 Parlons-en, je le veux, m'avés vous fait l'honneur  
 De lire ce Sonnet où j'ai peint mon bon-heur ?  
 
-    LA VIEILLE, *à part avec Precieuse.*
+    LA VIEILLE, *à part avec Precieuse.*.
 Puisque cet entretien te plaist et te contente,  
 Je m'en vay cependant faire un tour dans la tante,  
 Mais si de son amour il t'ose encor parler,  
@@ -1753,7 +1753,7 @@ Nous bravons sans cela les beautés les plus rares.
 
 ### SCENE V.
 
-    DOM JEAN DE CARCAME, *seul.* 
+    DOM JEAN DE CARCAME, *seul.*.
 Hé bien, es-tu content puissant Maistre des Dieux [222],  
 Conessant le sujet qui m'amene en ces lieux ?  
 Ay-je enfin satisfait à ta juste colere ?  
@@ -1816,13 +1816,13 @@ Et je sens ce desir qui se change en respect [228]. [229]
 LA VIEILLE, PRECIEUSE, DOM JEAN DE CARCAME.
 
 
-    LA VIEILLE, *voyant Precieuse qui cherche quelque chose.*
+    LA VIEILLE, *voyant Precieuse qui cherche quelque chose.*.
 Qu'est-ce donc ?  
 
     PRECIEUSE.
     Ce n'est rien.  
 
-    DOM JEAN, *seul.* 
+    DOM JEAN, *seul.*.
         Amour soutien ta cause.  
 
     LA VIEILLE.
@@ -1839,10 +1839,10 @@ Dieu, qu'un petit sujet vous donne un grand soucy !
 Hé bien, c'est une papier qui vient de choir icy.  
 Etes-vous satisfaite ?  
 
-    DOM JEAN,  *à part.*
+    DOM JEAN, *à part.*.
         Ha que cet Astre brille !  
 
-    PRECIEUSE, *ayant apperceu son papier.*
+    PRECIEUSE, *ayant apperceu son papier.*.
 Le voylà.  
 
     LA VIEILLE.
@@ -2060,7 +2060,7 @@ Quoy ?
     LA VIEILLE.
 Faites.  
 
-    DOM JEAN, *lui presentant la bourse.*
+    DOM JEAN, *lui presentant la bourse.*.
         En m'atendant garde toujours cecy.  
 
     PRECIEUSE.
@@ -2116,14 +2116,14 @@ Passe pour cette fois, mais n'y retourne plus.
 Fin du premier Acte. 
 
 
-## ACTE II
+## ACTE II.
 DOM JEAN, LA VIEILLE, PRECIEUSE, LE CAPITAINE. Et la Troupe d'Egiptiens.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
-    DOM JEAN, *seul.*
+    DOM JEAN, *seul.*.
 A peine mon vaisseau s'éloigne du rivage,  
 Qu'un Neptune jaloux veut exciter l'orage,  
 A peine dans la lice [259] ay-je fait quelques pas,  
@@ -2208,7 +2208,7 @@ Rien n'échape à nos mains avec ses artifices,
 Et nous hazardons⁎ tout sous ses divins auspices,  
 Cet avertissement doit déjà t'animer.  
 
-    DOM JEAN, *bas.*
+    DOM JEAN, *bas.*.
 Le glorieux motif !  
 
     LE CAPITAINE.
@@ -2282,7 +2282,7 @@ Qui ne sçait son métier doit tâcher de l'apprendre,
 Cela le subtilise⁎ en autre occasion,  
 Et le rend bien plus prompt à l'execution.  
 
-    DOM JEAN, *bas.*
+    DOM JEAN, *bas.*.
 Qu'on prepare mon ame à d'agreables choses.  
 
     LE CAPITAINE.
@@ -2412,7 +2412,7 @@ D'un si cher camarade exaltons la noblesse,
 Meslons un doux concert à nos remercimens,  
 Et faisons mille vœux pour ses contentemens.  
 
-    LES EGIPTIENS*chantent en musique ces quatre Vers.*
+    LES EGIPTIENS*chantent en musique ces quatre Vers.*.
 Vive le noble Andrés, vive la Precieuse  
 D'une vie à leur gré la plus delicieuse, [294]  
 Qu'Hymen⁎ joigne bien-tost ce beau couple d'Amans,  
@@ -2550,7 +2550,7 @@ Je veux de son rival faire mon confident,
 Tenés [307], apres cela doutés que je vous aime,  
 Car je ne l'ay point leu.  
 
-    ANDRES. 
+    ANDRES.
         La faveur est extreme.  
 
     PRECIEUSE.
@@ -2559,7 +2559,7 @@ J'en espere pourtant un aimable entretien,
 
 Il est un peu remis.  
 
-    ANDRES, *à part, ayant leu.*
+    ANDRES, *à part, ayant leu.*.
         Mon cœur ne crains plus rien.  
 
     PRECIEUSE.
@@ -2647,7 +2647,7 @@ Vous avés leu les miens, que je lise ceux-ci.
     ANDRES.
 Il est juste, tiens donc, tu peux en rire aussi.  
 
-    PRECIEUSE, *lit ce qui suit.*
+    PRECIEUSE, *lit ce qui suit.*.
 Recit de la belle Egiptienne.
 
 Si je vous semble Egiptienne,  
@@ -2699,7 +2699,7 @@ Elle s'en doute, Amour seconde⁎ son dessein.
 Fin du second Acte. 
 
 
-## ACTE III
+## ACTE III.
 LE POETE, 2 EGIPTIENS, LA VIEILLE, ANDRES, PRECIEUSE.
 
 
@@ -2708,11 +2708,11 @@ LE POETE, 2 EGIPTIENS, LA VIEILLE, ANDRES, PRECIEUSE.
 LE POETE, LES EGIPTIENS.
 
 
-    LE POETE, *en habit de berger et de nuit.*
+    LE POETE, *en habit de berger et de nuit.*.
 Au secours, je suis mort, ha ! quelle destinée  
 M'a fait treuver ces chiens dans leur rage obstinée ?  
 
-    L'EGIPTIEN*à son camarade.*
+    L'EGIPTIEN*à son camarade.*.
 Sans doute nos mâtins [318] font quelque bon repas,  
 Ils cessent d'aboyer, suy moy, doublons le pas.  
 
@@ -2775,7 +2775,7 @@ Je n'épargneray rien pour mon soulagement.
 ANDRES, LA VIEILLE, PRECIEUSE LES EGIPTIENS, LE POETE.
 
 
-    LA VIEILLE, *à Andres.*
+    LA VIEILLE, *à Andres.*.
 Mon fils, où courés-vous ?  
 
     PRECIEUSE.
@@ -2827,11 +2827,11 @@ Mon mal va jusqu'au cœur.
     ANDRES.
         Amy, prens patience.  
 
-    LA VIEILLE, *à Precieuse.*
+    LA VIEILLE, *à Precieuse.*.
 Ne l'as-tu point tantost assés considéré ?  
 Cours, es-tu revenuë ? [322]  
 
-    PRECIEUSE, *à part en s'en allant.*
+    PRECIEUSE, *à part en s'en allant.*.
         Il est trop assuré [323],  
 C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,  
 De nuit, et déguisé, je crains quelque surprise.   
@@ -2852,7 +2852,7 @@ Non, il est tantost [324] jour.
         Sa divine presence  
 Peut des maux que je sens charmer la violence.  
 
-    LA VIEILLE, *aux Egiptiens.*
+    LA VIEILLE, *aux Egiptiens.*.
 Entrés-là, c'en est fait, son sang est arresté.  
 
     ANDRES.
@@ -2865,7 +2865,7 @@ O discours salutaire en cette extremité [325].
 LA VIEILLE, ANDRES, PRECIEUSE
 
 
-    ANDRES, *à Precieuse.*
+    ANDRES, *à Precieuse.*.
 Quoy déjà de retour ?  
 
     LA VIEILLE.
@@ -2995,7 +2995,7 @@ Tu l'as porté peut-estre à ce déguisement.
 Ne voyla pas déja des effets de ma crainte.  
 Vous estes donc jaloux.  
 
-    ANDRES, *à part.*
+    ANDRES, *à part.*.
         Est-ce franchise ou feinte ?  
 Moy, jaloux, nullement.  
 
@@ -3043,7 +3043,7 @@ La nuit, et sans témoins elle seroit meilleure. [335]
 
 ### SCENE VIII.
 
-    ANDRES, *seul.* 
+    ANDRES, *seul.*.
 Loin de ces beaux charmeurs qui corrompent les sens,  
 Donnons un libre cours à nos desirs pressans,  
 Amour, foy, complaisance, incomparable idée,  
@@ -3110,7 +3110,7 @@ Et perdons puis apres [343] le traitre et la traitresse.
 ANDRES, LE POETE couché dans la tante.
 
 
-    ANDRES, *ayant relevé un costé de la tante.*
+    ANDRES, *ayant relevé un costé de la tante.*.
 Camarade, dors-tu ?  
 
     LE POETE.
@@ -3309,7 +3309,7 @@ Va, je reconnestray tant de soins obligeans⁎.
 (La tante se referme.)
 
 
-    ANDRES, *en s'en allant.*
+    ANDRES, *en s'en allant.*.
 Marche droit hardiment⁎, ou mon ame abusée  
 Sçaura bien se vanger de ta flame rusée,  
 Qui cherche ma maitresse il cherche le trespas⁎,  
@@ -3319,7 +3319,7 @@ J'abatrois d'un seul coup l'autel et la victime.
 Fin du troisieme Acte. 
 
 
-## ACTE IV
+## ACTE IV.
 ANDRES, PRECIEUSE, LA VIEILLE LE CAPITAINE ET LA TROUPE D'EGIPTIENS, HIPOLITE, LE PREVOST ET SES ARCHERS.
 
 
@@ -3377,7 +3377,7 @@ Et prepare à ses vœux un acueil favorable.
 ANDRES, PRECIEUSE, HIPOLITE
 
 
-    ANDRES, *ayant apperceu Hipolite.*
+    ANDRES, *ayant apperceu Hipolite.*.
 Ha ! le fâcheux objet⁎.  
 
     PRECIEUSE.
@@ -3743,7 +3743,7 @@ Du meurtre general mon pouvoir vous absout. [381]
 
 ### SCENE VI.
 
-    HIPOLITE, *seule.*
+    HIPOLITE, *seule.*.
 Je te tiens arrogant, et ta perte arrestée  
 Va vanger mon amour lachement rejetée [382],  
 Ma fourbe par mes mains conduite adrétement [383],  
@@ -3827,7 +3827,7 @@ Ouy, voyla mon voleur.
         Toy-mesme en personne,  
 Toy que l'on m'a dépeint, et que chacun soupçonne.  
 
-    ANDRES *la tirant à part, et luy parlant bas.*
+    ANDRES *la tirant à part, et luy parlant bas.*.
 Celle qui m'a prié m'ose-t'elle accuser ?  
 Craint-elle point la honte où je puis l'exposer ?  
 
@@ -3871,7 +3871,7 @@ Elle vous appartient estant interessée.
     LA VIEILLE.
 Nous n'aurions point ces maux si l'on l'eut caressée [388].  
 
-    HIPOLITE *voyant l'Egiptien qui revient avec la malle.*
+    HIPOLITE *voyant l'Egiptien qui revient avec la malle.*.
 Apporte icy, mets là, vous verrés si j'ay tort  
 D'accuser ce voleur.  
 
@@ -3881,7 +3881,7 @@ D'accuser ce voleur.
     PRECIEUSE.
         Mais quel sort !  
 
-    HIPOLITE, *fouillant la malle.*
+    HIPOLITE, *fouillant la malle.*.
 Ne voyla pas déjà mes bracelets, ma chaine ?  
 Pour découvrir le reste il ne faut point de géne⁎.  
 
@@ -3937,13 +3937,13 @@ Commandés qu'il se taise.
         Ha monstre que j'abhorre !  
 Tu m'empesches en vain.  
 
-    UN ARCHER *luy donnant un soufflet.*
+    UN ARCHER *luy donnant un soufflet.*.
         Tu discoures encore. [390]  
 
     PRECIEUSE.
 Ha Dieu, quelle impudence !  
 
-    ANDRES *le tuant de son épée, qu'il luy tire de son costé.*
+    ANDRES *le tuant de son épée, qu'il luy tire de son costé.*.
         Un soufflet, effronté !  
 Ton sang me vangera de ta temerité.  
 
@@ -3990,7 +3990,7 @@ Je seray toujours prest à vous rendre service.
 Fin du quatriéme Acte. 
 
 
-## ACTE V
+## ACTE V.
 FERDINAND, ISABELLE, PRECIEUSE, ANDRES, LA VIEILLE, LE PREVOST, UN VALET muët, LE CAPITAINE ET LA TROUPE D'EGIPTIENS.
 
 
@@ -4072,7 +4072,7 @@ Il la faut escouter.
 PRECIEUSE, LA VIEILLE, ISABELLE, FERDINAND.
 
 
-     PRECIEUSE.
+    PRECIEUSE.
         Ha ! Monseigneur, justice,  
 Delivrés mon époux, sauvés un innocent,  
 Sa vertu vous en prie, et le Ciel y consent,  
@@ -4126,7 +4126,7 @@ N'ordonnés point la peine à qui souffre⁎ l'offense.
 ISABELLE, PRECIEUSE, LA VIEILLE.
 
 
-    ISABELLE
+    ISABELLE.
 Ne crains point, Precieuse, approche, baise moy,  
 Si l'on luy fait faveur, c'est pour l'amour de toy.  
 Tay toy, seche tes pleurs, banny cette tristesse,  
@@ -4141,11 +4141,11 @@ Ta beauté, ton esprit, ta grace et ton adresse
 Elevent jusqu'au Ciel ton indigne bassesse,  
 Bonne mere, approchés.  
 
-    LA VIEILLE *à part.*
+    LA VIEILLE *à part.*.
         Dans l'ennuy⁎ que je sens  
 Quelle nouvelle peur vient troubler tous mes sens ?  
 
-    ISABELLE. 
+    ISABELLE.
 Je voy bien qu'en son mal vostre ame s'interesse,  
 Cette fille est à vous.  
 
@@ -4165,20 +4165,20 @@ Elle seroit ainsi belle, aimable et gentille,
 Et rien ne semble mieux à ce gage d'Amour,  
 Qu'on nous ravit si jeune à Madrid en plein jour.  
 
-    LA VIEILLE *à part.*
+    LA VIEILLE *à part.*.
 Dieu ! Qu'est-ce que j'entens ?  
 
     ISABELLE.
         Ha, ma chere Constance !  
 
-    LA VIEILLE *à part.*
+    LA VIEILLE *à part.*.
 Voyla son mesme nom.  
 
     ISABELLE.
         Montre moy ta presence,  
 Fay nous voir ta personne, et non pas ton portrait. [401]  
 
-    LA VIEILLE *à part.*
+    LA VIEILLE *à part.*.
 O Ciel ! pour quelque temps cache encor ce secret.  
 
     ISABELLE.
@@ -4233,7 +4233,7 @@ Il se voit à ce conte unique en son espece.
 Aussi l'est-il, Madame, en merite, en noblesse,  
 Et ce cœur genereux⁎ n'eut jamais de second [405].  
 
-    ISABELLE
+    ISABELLE.
 Quoy, tu veux annoblir un traitre, un vagabond ?  
 
     PRECIEUSE.
@@ -4276,7 +4276,7 @@ Heureux dans son mal-heur⁎ d'avoir tes bonnes graces⁎,
 Hé bien, pour t'obliger⁎ ; je parleray pour luy,  
 Modere cependant l'excez de ton ennuy⁎.  
 
-    LA VIEILLE *à part.*
+    LA VIEILLE *à part.*.
 Parlons ; pour seconder⁎ une si juste envie,  
 C'est l'unique moyen pour luy sauver la vie.  
 Puis-je esperer, Madame, un pardon ?  
@@ -4803,7 +4803,7 @@ Du destin qu'épreuva *la belle egiptienne*.
 FIN.
 
 
-# Lexique
+# Lexique.
 
 Les termes répertoriés dans ce lexique sont marqués d'une astérisque dans le texte de le pièce.
 
@@ -4829,13 +4829,13 @@ MADAME
 De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Oeuvres de Sallebray
+### Oeuvres de Sallebray.
     *Sallebray*Le Jugement de Pâris et le ravissement d'Hélène
 *Sallebray*La Troade
 *Sallebray*La Troade
@@ -4846,7 +4846,7 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
 
-### Autres oeuvres
+### Autres oeuvres.
     *Cervantès*La Gitanilla, Novelas EjemplaresLa Belle Egyptienne, Nouvelles
 *Cervantès*Novelas EjemplaresNouvelles exemplaires
 *Corneille*Le Cid
@@ -4860,7 +4860,7 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
 
-### Autour de Sallebray – biographie et réception
+### Autour de Sallebray – biographie et réception.
     *aa.vv.*Catalogue des livres, estampes et dessins composant la bibliothèque et le cabinet de feu M.Armand Bertin, rédacteur en chef du journal des débats
 *Besongne*L'État de la France, où l'on voit tous les princes, ducs et pairs, maréchaux de France et autres officiers de la couronne : les évêques, les cours qui jugent en dernier ressort, les gouverneurs des Provinces, les Chevaliers des trois Ordres du Roi, etc
 *Delisle de Sales*Recueil des meilleures pièces dramatiques faites en France depuis Rotrou jusqu'à nos jours, ou Théâtre français. Tragédies
@@ -4876,17 +4876,17 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ressources bibliographiques
+### Ressources bibliographiques.
     *Arbour*L'ère baroque en France : répertoire chronologique des éditions de textes littéraires1629-1643
 *Klapp*Bibliographie der französischen Literaturwissenschaft
 *Losada*Bibliographie critique de la littérature espagnole en France au XVII*e*
 
 
 
-### Dictionnaires
+### Dictionnaires.
     *Académie Française*Le Dictionnaire de l'Académie française dédié au Roi
 *Collin de Plancy*Dictionnaire infernal : répertoire universel
 *Furetière*Dictionnaire universel
@@ -4896,35 +4896,35 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
 
-### Sur la langue du XVII*e* siècle et la versification
+### Sur la langue du XVII*e* siècle et la versification.
     *Fournier*Grammaire du français classique
 *Haase*Syntaxe française du XVIIe siècle
 *Peureux*La Fabrique du vers
 
 
 
-### Sur les pratiques bohémiennes
+### Sur les pratiques bohémiennes.
     *De Hagen*Chiromancie ou l'art de dire la bonne aventure par l'inspection des lignes de la main
 *Perenna*L'Art de dire la bonne aventure dans la main
 
 
 
-### Histoire du livre
+### Histoire du livre.
     *Riffaud*Archéologie du livre français moderne
 
 
 
-## Études historiques et littéraires
+## Études historiques et littéraires.
 
 
-### Histoires littéraires et études générales
+### Histoires littéraires et études générales.
     *Adam*Histoire de la littérature française du XVII*e* siècle
 *Lancaster*A History of French Dramatic Literature in the Seventeenth Century
 *Ubersfeld*Lire le théâtre
 
 
 
-### Sur le théâtre et les comédiens au XVII*e* siècle
+### Sur le théâtre et les comédiens au XVII*e* siècle.
     *Deierkauf-Holsboer*Le Théâtre de l'Hôtel de Bourgogne
 *Howe*Le Théâtre professionnel à Paris. 1600-1649
 *Howe*Écrivains de théâtre, 1600-1649
@@ -4934,7 +4934,7 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
 
-### Études sur le théâtre et la littérature du XVII*e*
+### Études sur le théâtre et la littérature du XVII*e*.
     *Baby*La Tragi-comédie de Corneille à Quinault
 *Christout*Le Ballet de cour de Louis XIV
 *Emelina*Comédie et tragédie
@@ -4949,14 +4949,14 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 
 
 
-### Sur les Bohémiens au XVII*e* siècle
+### Sur les Bohémiens au XVII*e* siècle.
     *Gambin*Alle Radici dell'Europa. Mori, giudei e zingari nei paesi del Mediterraneo occidentale
 *Moussa*Le Mythe des Bohémiens dans la littérature et les art
 *Vaux de Foletier*Les Tsiganes dans l'Ancienne France
 
 
 
-### Sur les filiations franco-espagnoles au XVII*e* siècle
+### Sur les filiations franco-espagnoles au XVII*e* siècle.
     *Cioranescu*Le Masque et le Visage : du baroque espagnol au classicisme français
 *Hainsworth*Les Novelas Exemplares de Cervantès en France au XVII*e* siècle
 *Hautcoeur Perez-Espejo*Parentés franco-espagnoles au XVII*e* siècle. Poétique de la nouvelle de Cervantès à Challe
@@ -4964,7 +4964,7 @@ De V.E / Le tres humble & tres- / obeissant Serviteur, / SALBRAY. 
 <  >
 
 
-### Articles
+### Articles.
     *Asséo*Alle Radici dell'Europa. Mori, giudei e zingari nei paesi del Mediterraneo occidentale
 *Dalla Valle*L'Âge d'or de l'influence espagnole
 *Dufour-Maître*Littératures ClassiquesLe Salon et la Scène : comédie et mondanité au XVIIe siècle.

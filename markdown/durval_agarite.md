@@ -16,14 +16,14 @@ A PARIS, Chez *François Targa*, au premier pillier de la grand'Salle du Palais,
 Édition critique établie par Marine Jeannoutot dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)
 
 
-# Introduction
+# Introduction.
 
 Jean-Gilbert Durval est un auteur très peu connu de nos jours. Il mérite cependant d'être redécouvert, d'une part pour son engagement en matière de dramaturgie théâtrale, et plus particulièrement au sujet des règles dites « classiques » qui s'instaurèrent à cette époque, et contre lesquelles il s'insurgea de façon tranchée et assez virulente, et d'autre part, pour ses œuvres poétiques et théâtrales originales empreintes d'un mélange d'ancien et de moderne, de classique et de baroque.
 
 *Agarite* (1636) est la seconde tragi-comédie de Durval ; elle est en matière de longueur dans la moyenne observée par J. Scherer [1], c'est-à-dire un peu plus de 1600 vers, composée de cinq actes et a pour objet les amours contrariées d'une jeune fille prénommée Agarite. On y retrouve les principales caractéristiques du genre, comme le thème du déguisement, celui du père qui tente d'imposer un prétendant à sa fille, les évasions préméditées, le coup de théâtre de la dernière scène, mais aussi des éléments, plus particuliers et moins attendus dans une tragi-comédie, comme un assassinat sur scène, le jeu d'une pièce de théâtre dans la pièce de théâtre, des lectures de poèmes, ainsi que nous allons le constater.
 
 
-# Biographie
+# Biographie.
 
 Nous ne connaissons que très peu d'éléments de la vie de Jean-Gilbert Durval, si ce n'est à travers les préfaces de ses pièces. Nous ignorons les dates de naissance et de mort de cet auteur du XVII*e* siècle. Il semble qu'au moment où *Agarite* fut publiée, il avait déjà un certain âge [2].
 
@@ -56,7 +56,7 @@ La dernière production que l'on attribue à Durval de façon incertaine puisque
 Si l'on part du postulat que Durval est bien l'auteur du Discours, on peut dire de ce dernier qu'il était favorable à Corneille et de surcroît un grand admirateur du dramaturge Hardy [18], ce qui vient corroborer ce qui était dit dans la préface de *Panthée*.
 
 
-# Édition et réception d'Agarite et conditions de représentation
+# Édition et réception d'Agarite et conditions de représentation.
 
 Le grand succès de cette pièce est évoqué par Durval dans son épître dédicatoire à la Duchesse de Nemours : « Celle-cy  la pièce de théâtre que j'ay l'honneur de présenter à Votre Grandeur ayant esté aucunement bien receuë sembloit ne devoir plus craindre l'injure du temps ny les coups de langue(…) » , ainsi que par les Frères Parfaict [19] qui n'apprécient guère, ni l'engagement de Durval contre les règles naissantes, ni « la mauvaise versification » de l'auteur, ni son scénario médiocre ; il faut cependant rappeler que ce dénigrement fut très en vogue au XVIII*e* siècle, le mépris pour le baroque, dont ce genre découle directement du fait de sa grande liberté, perdurant encore jusqu'au début du XIX*e* siècle, époque où des auteurs commencèrent à s'intéresser aux précurseurs du théâtre classique et à leur production abondante et diversifiée.
 
@@ -67,7 +67,7 @@ D'autre part, il est donné au milieu de la pièce un ballet spectaculaire où d
 Cette pièce est jugée comme l'une des plus divertissantes de la période par Lancaster.
 
 
-# Résumé de l'histoire
+# Résumé de l'histoire.
 
 Agarite, belle demoiselle chaste est courtisée par le roi d'un pays dont on ne connaît pas le nom, les contrées imaginaires étant une constante dans les tragi-comédies [22]. Pour échapper aux avances de ce puissant prétendant, son père, Médon, l'exhorte à fuir à la campagne où ils possèdent une demeure, de façon à faire croire au roi que la belle a été ravie. Là bas, Agarite fait la connaissance de deux gentilshommes : Policaste, objet de son amour, et Lizène qui ne fera qu'attiser sa haine. Très vite ce dernier va trouver Médon afin d'obtenir la main d'Agarite. Pour qu'elle échappe à ce mariage forcé, Policaste suggère à son amante de fuir le soir de ses noces avec lui, de se retrancher dans la forteresse de son père, un peu plus loin en suivant la rivière, et de se départir au passage de ses vêtements pour faire croire à un suicide.
 
@@ -80,10 +80,10 @@ Agarite et Policaste, désireux de rentrer à la cour, doivent trouver un moyen 
 Ils rencontrent la jeune princesse Amélise, éprise du roi et de son trône, qu'ils décident de substituer à la statue érigée en l'honneur d'Agarite, sur le lit de parade sur lequel le roi laisse cours à son chagrin. C'est au moment où la vraie fausse statue s'anime, laissant le roi médusé, qu'il en oublie instantanément son chagrin et accepte d'épouser cette princesse. Il est alors temps pour les amants de dévoiler le stratagème, et Agarite, au roi. Ce dernier consent à les unir, ainsi que Célidor et Corintie, eux aussi revenus à la cour après s'être retrouvés. La pièce s'achève sur l'annonce de ce triple mariage.
 
 
-# Description de la pièce
+# Description de la pièce.
 
 
-## ACTE I (318 vers)
+## ACTE I (318 vers).
 
 *Scène 1* : Monologue d'exposition où le roi annonce qu'il aimerait se faire aimer d'Agarite et profiter de ses charmes (sans que le nom de cette dernière ne soit prononcé). Entrée de son favori, Célidor, à qui il promet fortune et gloire si ce dernier parvient à le faire « jouyr » de cette « beauté si rare » (V.35).
 
@@ -94,7 +94,7 @@ Ils rencontrent la jeune princesse Amélise, éprise du roi et de son trône, qu
 *Scène 4* : Apparition fugitive d'Amélise (qui ne réapparaîtra qu'à la fin de la pièce) qui avoue à Phénice son attrait pour le roi. Dans un second temps, Phénice dans un mouvement de travelling interne va assister au conseil du roi où il est question de la fidélité des vassaux. Médon fait alors irruption dans le conseil et informe le roi du rapt de sa fille, lequel annonce que l'auteur de ce forfait le paiera de sa tête.
 
 
-## ACTE II (288 vers)
+## ACTE II (288 vers).
 
 *Scène 1* : Monologue d'Agarite qui évoque l'amour qu'elle porte à Policaste et la haine que lui inspire Lizène. Entrée des deux prétendants à qui elle révèle respectivement ses sentiments par le biais de deux poèmes, dont ils font la lecture. Lizène, dédaigné, part, furieux. S'ensuit un badinage amoureux entre les deux amants.
 
@@ -105,7 +105,7 @@ Ils rencontrent la jeune princesse Amélise, éprise du roi et de son trône, qu
 Scène 4 : Le roi apprend que Lizène va épouser Agarite. Il commande à Célidor de le tuer et de ravir l'épousée.
 
 
-## ACTE III (288 vers)
+## ACTE III (288 vers).
 
 *Scène 1* : Dissertation de Médon sur les vertus du mariage (jeux de mots sur l'équivoque sexuelle), afin de tenter d'accorder les époux, mais Agarite reste glaciale.
 
@@ -114,7 +114,7 @@ Scène 4 : Le roi apprend que Lizène va épouser Agarite. Il commande à Céli
 *Scène 3* : Représentation du « Ballet Des Quatre Vents », durant lequel Lizène est tué par Célidor qui profite des coups de feu représentant les éclairs et le tonnerre, pour tuer l'époux. C'est alors qu'on s'aperçoit de la disparition d'Agarite.
 
 
-## ACTE IV (360 vers)
+## ACTE IV (360 vers).
 
 *Scène 1* : Conversation pittoresque des pêcheurs. Découverte des effets d'Agarite sur la rive.
 
@@ -129,7 +129,7 @@ Scène 4 : Le roi apprend que Lizène va épouser Agarite. Il commande à Céli
 *Scène 5* : Lamentations du roi, fou de tristesse, qui décide de faire ériger un lit de parade en l'honneur d'Agarite. Cette scène est la plus longue de l'acte.
 
 
-## ACTE V (366 vers)
+## ACTE V (366 vers).
 
 *Scène 1* : Retour d'Agarite et de Policaste au palais. Policaste a inventé un stratagème pour que le roi oublie Agarite et consente à les unir. Ils trouvent en chemin Phénice et Amélise qui vont les aider dans ce projet.
 
@@ -138,7 +138,7 @@ Scène 4 : Le roi apprend que Lizène va épouser Agarite. Il commande à Céli
 *Scène 3* : Amélise s'est substituée à la statue d'Agarite sur le lit de parade, et commence à se mouvoir tandis que le roi songe à Agarite. Ce dernier, émerveillé en oublie aussitôt son amour pour Agarite et finit par accepter d'épouser Amélise. Aveu du subterfuge au roi, qui consent à unir les amants. Arrivée de Corintie et de Célidor que le roi relève de sa promesse de faire pénitence et qui bénit cette nouvelle union. La pièce s'achève sur ce triple mariage.
 
 
-# Sources et réécriture
+# Sources et réécriture.
 
 Les sources sont inconnues pour Lancaster [23], qui propose néanmoins quelques pièces présentant des similitudes avec celle de Durval. En ce qui concerne le prénom de l'héroïne, Agarite, ce nom a été utilisé par Richemont Banchereau dans *Les Passions égarées* [24]. D'autre part, dans *La Pélerine amoureuse* [25] de Rotrou, on retrouve une discussion sur la valeur de certains poèmes, comme celle qu'a Agarite avec ses prétendants, acte II, scène 1 ; cette pièce a cependant probablement été jouée au même moment ou peu de temps avant *Agarite*, son influence sur celle de Durval est donc discutable. Quant au ballet joué sur scène, une seule pièce présente un ballet de ce type : il s'agit d'*Antioche, Tragoedie traitant le martyre de sept enfants machabéens* de Jean-Baptiste Le Francq, publiée en 1625 ; au troisième acte, scène 7 est dansé un ballet donné par le « génie de nature », les « esprits de l'homme », et les vents pour condamner l'inconstance.
 
@@ -163,7 +163,7 @@ Nous pouvons enfin rapprocher notre pièce de celle de Cyril Tourneur, intitulé
 Les thèmes tels que la rivalité du roi et de son sujet, le faux kidnapping de la jeune fille afin qu'elle échappe aux assiduités du roi ou l'assassinat du rival par un autre protagoniste, sont des thèmes communs aux pièces romantiques, même s'il est vrai que le meurtre sur scène est surprenant en ce qui concerne une tragi-comédie. Le thème de l'horrible (la scène du cimetière) est un thème baroque. De ce fait, la pièce de Durval, assez conventionnelle en ce qui concerne son histoire, se démarque des autres tragi-comédies par quelques traits d'originalité comme nous le verrons, et par la dramatisation bien élaborée de son intrigue.
 
 
-# Décors et mise en scène
+# Décors et mise en scène.
 
 Durval ne nous fournit aucune indication [36] en ce qui concerne le pays où a lieu l'histoire, comme ce fut souvent le cas des tragi-comédies. En revanche, et conformément à sa volonté de ne pas se soumettre systématiquement à l'unité de lieu [37], il a multiplié les lieux dans cette pièce ; huit au total :
  * – le palais dans lequel se trouve le lit (acte I, 1 et 4 ; acte II, 4 ; acte IV, 2 et 6 ; acte V, 1 et 3),
@@ -189,7 +189,7 @@ Comme nous pouvons le constater, Mahelot a réduit ce chiffre à six, faisant jo
 Cependant, et comme le souligne Rigal, cette disposition symétrique qu'affectionnait particulièrement le décorateur de l'Hôtel de Bourgogne au point de la reproduire aussi souvent que cela était possible, est compromise du fait qu'étant difficile d'isoler complètement la chambre du fond du cimetière (à gauche), le décorateur a dû placer entre les deux, un morceau de maison (ou palais). Mais cette façade rapprochée du cimetière et faisant bloc avec lui (espèce de prolongement de l'église) et la boutique du marchand, en face, étant assez large, l'œil du spectateur ne distingue dans un premier temps que cinq compartiments, ce qui offre malgré tout une impression de symétrie.
 
 
-# Les personnages
+# Les personnages.
 
 Il est intéressant de considérer le statut des personnages dans la pièce : le père, Médon passe du statut d'adjuvant à celui d'opposant, ce qui est assez original pour être souligné : dans un premier temps, il aide sa fille à fuir loin du roi et, dans un second temps, il lui impose un pédant contre son gré. Ainsi l'ordre transgressé dans un premier temps est rétabli. De ce fait Agarite est obligée de fuir : c'est l'action type des tragi-comédie pour échapper à un obstacle. En revanche, ce qui est assez étonnant dans *Agarite*, c'est l'absence d'obstacles majeurs à ces échappées (les seuls obstacles sont les ombres de la nuit), qui ne connaissent ni échec, ni retard ; l'action est sans cesse dédramatisée de ce point de vue, puis une nouvelle tension se crée du fait qu'à chaque fois, la fuite devient un emprisonnement : Agarite, pour échapper au roi, tombe dans les griffes de Lizène, et lorsqu'elle échappe à ce dernier, elle ne peut profiter de sa liberté, puisque la société ne peut reconnaître leur amour illégitime.
 
@@ -204,7 +204,7 @@ Durval sait ménager un certain suspens, malgré le fait que la dramatisation to
 On peut déplorer la docilité des héros, leur manque de caractère et l'absence de fatalité qui retrancherait les héros derrière leur humanité et leur originalité (Agarite parvient sans encombres à rejoindre Policaste ; aucune de leurs actions n'échoue dans le fond) ; mais cela n'est pas le but visé par Durval ; comme le dit Lancaster [40], Durval ne tente pas de dessiner des personnages (« There is little attempt at character drawing, no care for unity or propriety (…) ») ; c'est d'ailleurs une des raisons pour lesquelles il est difficile de les considérer comme des héros ; Durval cherche à plaire et à divertir.
 
 
-## Agarite
+## Agarite.
 
 (9 apparitions, 225 vers) C'est le personnage principal de la pièce même si en ce qui concerne le nombre de vers prononcés, elle est en quatrième position. Elle apparaît dans neuf scènes sur vingt, ce qui en fait après Célidor, le personnage le plus présent sur scène ; et lorsqu'elle n'est pas présente, elle est presque toujours l'objet de conversation des personnages, même indirectement. Elle est l'objet, l'enjeu de toute la pièce, qui porte d'ailleurs son nom ; de son existence dépendent toutes les amours de la pièce, y compris celles de Corintie et de Célidor, dans la mesure où c'est grâce à elle que Célidor rencontre Corintie, tandis qu'il la cherchait, mais à cause d'elle qu'il s'en sépare, car c'est à cause d'Agarite que Célidor doit faire pénitence (meurtre de Lizène). C'est d'elle que vont s'éprendre ses trois prétendants que sont Lizène, Policaste et le roi.
 
@@ -215,21 +215,21 @@ D'un point de vue social, elle est une « simple demoiselle » (vers 68), donc
 Dans un premier temps, elle est soumise puisqu'elle se laisse entraîner par son père hors de la ville, puis désobéissante lorsqu'elle décide de suivre son amant hors de la demeure paternelle, bravant ainsi tous les dangers et les conventions sociales ; en digne aventurière, elle acceptera de se déguiser en page pour ne pas être reconnue et arriver jusqu'au roi, ce qui fait d'elle une amoureuse de convention.
 
 
-## Policaste
+## Policaste.
 
 (6 apparitions, 296 vers) Il est la figure même de l'amant ; sans doute beau (Agarite s'en éprend), mais il est certainement moins fortuné que Lizène (il possède une vieille forteresse). Il reste vertueux et chevaleresque puisqu'en dépit d'un langage et d'actions quelque peu paillards, il sait rester sage et n'abusera pas d'Agarite tandis qu'il en a la possibilité.
 
 C'est grâce à lui que la situation qu'il a compliquée malgré lui va être résolue, puisqu'il est l'auteur des stratagèmes qui lui permettront d'obtenir Agarite. Dans un premier temps, il organise son enlèvement consenti (il la soustrait au roi et à son futur époux) ; puis, dans un second temps, il parvient à redonner au roi sa lucidité : il imagine un moyen de le guérir définitivement de sa passion pour Agarite en substituant à la statue de cette dernière la princesse Amélise, amoureuse potentielle. Il devient à la fois magicien, car la réussite du projet est miraculeuse et rapide, et scénariste de la scène dont il va lui-même tirer avantage, légitimant ainsi son union avec Agarite.
 
 
-## Lizène
+## Lizène.
 
 (4 apparitions, 67 vers) Il s'agit du méchant de l'histoire dont les consonances du prénom résument les sentiments qu'il inspirera à l'héroïne : il y a le substantif « lise » (c'est un personnage qui n'hésitera pas à faire appel à ses relations pour avoir Agarite de gré ou de force) et le substantif « haine », sentiment que ressentira très vite Agarite à son égard, ainsi que le roi qui ira jusqu'à le faire tuer sur scène (il a tenté de lui soustraire Agarite).
 
 Son assassinat aurait dû provoquer ressentiments et tristesse, puisqu'il est tué par l'amant de sa sœur, sur scène de surcroît, mais ces sentiments sont très vite oubliés, et son nom n'est plus prononcé à partir du moment où sa mort est découverte. Il est obstiné, déplaisant (vers 335 et 337) et lourdaud (vers 543). Sa mort n'apporte rien à ceux qui la souhaitaient (Agarite s'est enfuie), mais arrange les affaires d'Agarite puisqu'elle se libère de la contrainte imposée par son père. Sa mort était inévitable pour rétablir l'équilibre de la pièce : il y a trois hommes pour une même femme au début de la pièce. La présence d'Amélise compensant le déséquilibre, il était difficile d'introduire une troisième femme ; la seule solution était de faire disparaître l'un des rivaux, et de surcroît le moins sympathique.
 
 
-## Le roy
+## Le roy.
 
 (7 apparitions, 379 vers) Si l'on se base sur le nombre de vers déclamés par le roi dans la pièce, on peut dire qu'il s'agit du personnage le plus présent sur scène ; en effet, son temps de parole représente presque un quart du temps de parole de tous les personnages (soit 379 vers sur les 1620 de la pièce), et pourtant, ce n'est pas celui qui apparaît le plus souvent (il est en quatrième position de ce point de vue). En revanche, lorsque ce personnage apparaît, il accapare la parole ; c'est le roi, le maître des lieux ; une scène entière lui est accordée (acte IV, scène 6) tandis qu'il pleure Agarite.
 
@@ -238,7 +238,7 @@ En ce qui concerne le personnage à proprement parler, le texte là encore ne no
 Il se comporte comme un roi amoureux de tragi-comédie : l'amour le pousse à perdre toute dignité et à se conduire en tyran.
 
 
-## Célidor
+## Célidor.
 
 (10 apparitions, 231 vers) C'est l'amant de Corintie en plus d'être le favori du roi. En tant que proche du roi, il est opposé à Lizène qui est son rival, et du fait de cette position viendra à un moment donné contrarier ses amours. Tandis que le spectateur s'attend à assister à un dilemme tragique, que l'on pourrait résoudre ainsi : choisir entre honneur et amour, Durval occulte le problème, puisqu'au moment où Célidor opère il ignore probablement qui est Lizène (il ne l'a jamais vu, du fait que Corintie le faisait venir quand son frère était parti).
 
@@ -247,14 +247,14 @@ Il agit par intérêt (c'est-à-dire, occuper une position sociale plus élevée
 C'est dans ce personnage que la voix de Durval apparaît le plus ; il flatte pour pouvoir exister. Il possède néanmoins une certaine morale puisqu'il décide de se punir non d'avoir tué, mais d'avoir tué le frère de celle qu'il aime. A la fin de la pièce, la fidélité de ce personnage est récompensée : celui qui s'était vu abandonner l'amour et la cour tout à la fois se voit réhabilité dans les deux domaines ; il gagne ainsi une double reconnaissance, royale et affective.
 
 
-## Medon
+## Medon.
 
 (8 apparitions, 116 vers) C'est le père d'Agarite ; conformément aux principes de la tragi-comédie, il va aller contre les desseins de sa fille en la mariant à Lizène qu'elle n'aime pas, et ce, en raison des liens d'amitié qui lient les deux familles. Mais l'image du père est différente : il ne s'agit pas d'un homme cruel et intransigeant, d'un père tyrannique, mais d'un personnage comique, voire bouffon, à qui les plaisanteries salaces dans le genre de celles des pécheurs ne déplaisent pas, notamment lorsqu'il va tenter d'adoucir Agarite qui doit épouser Lizène. Durval ne lui épargne rien, pas même de s'évanouir sur la rive. En revanche, lorsqu'il lui présente les dangers de l'amour, il joue plus le rôle d'un conseiller ou d'une mère (qui n'existe pas dans la pièce), que celui de père : il ne lui interdit rien, pas même de recevoir chez eux deux prétendants, et ne lui impose aucune obligation. Il sait mentir, puisqu'il n'hésite pas à duper le roi en lui annonçant le faux enlèvement de sa fille.
 
 C'est un homme âgé (il porte la calotte et des lunettes (vers 627 et 844)). On ignore son appartenance sociale, mais on peut supposer qu'il s'agit d'un grand seigneur de la cour, puisqu'il possède au moins un tableau (vers 199), et deux maisons (une à la ville, une à la campagne). De plus il organise un mariage somptueux au cours duquel un ballet est joué.
 
 
-## Corintie
+## Corintie.
 
 (6 apparitions, 165 vers) C'est la sœur de Lizène dont on apprend qu'elle entretient une amitié avec le favori du roi, Célidor.
 
@@ -263,14 +263,14 @@ Elle est belle (vers 479, 480, 481) et a des yeux bleus, comme toute beauté cla
 Elle ne joue pas de rôle particulier dans l'intrigue principale. Le spectateur moderne s'attend en ce qui la concerne, au dilemme cornélien : choisir entre l'amour et l'honneur ; mais il n'en est rien : Corintie aura tôt fait de pardonner au meurtrier et d'oublier son frère dont elle avait prédit la mort (amorce dramatique) à l'acte II, scène 2. N'ayant réussi à convaincre son amant que l'amour excuse toute chose, elle va se travestir en cavalier pour le suivre. Comme dans la scène où Agarite est déguisée en homme, le spectateur va assister à une discussion amoureuse entre deux hommes, si l'on se base sur l'apparence physique, ce qui rend cocasse la situation, comme cela était fréquemment le cas dans les tragi-comédies (comme par exemple dans *La Sœur Valeureuse* de Mareschal [41]).
 
 
-## Amélise
+## Amélise.
 
 (3 apparitions, 22 vers) Elle est le *deus ex machina* de la pièce. Elle doit avoir le même âge qu'Agarite, « l'âge de se marier » (vers 258). Elle est belle (vers 1314), mais sans doute moins qu'Agarite, puisqu'elle dit d'elle qu'elle est d'une beauté moindre, vers 264; à moins que ce ne soit de la modestie. Cependant, c'est une princesse ; elle est donc d'une condition sociale supérieure à Agarite, c'est pourquoi elle ne refuserait pas les avantages de la couronne, si l'occasion s'en présentait (vers 259-262).
 
 Elle s'exprime très peu (22 vers), et n'apparaît que trois fois (dans le premier acte, ainsi que cela doit être dans les règles classiques du théâtre, et dans le dernier). En revanche, c'est grâce à ce personnage que la pièce trouve un dénouement heureux, car c'est grâce à elle que le stratagème inventé par Policaste prend corps et réussit, en faisant oublier au roi la belle Agarite de façon quasi merveilleuse. C'est grâce à elle que l'ordre des passions est rétabli.
 
 
-## Phénice
+## Phénice.
 
 (5 apparitions, 65 vers) C'est le conseiller du roi et le gouverneur d'Amélise ; il exerce une fonction politique. C'est en sa présence que sont abordés pour l'unique fois dans la pièce les problèmes liés à la politique intérieure du royaume (les trahisons et fourberies des conseillers du roi), acte I, scène 4. En tant qu'homme politique, il va chercher à donner au roi une épouse et en tant que gouverneur, il souhaite rendre Amélise heureuse ; deux souhaits qui vont être exaucés à la fin de la pièce.
 
@@ -315,10 +315,10 @@ Pl r/tps parole | 1 | 13 | 3 | 4 | 6 | 8 | 10 | 12 | 2 | 7 | 5 | 14 
 
 
 
-# Étude thématique
+# Étude thématique.
 
 
-## *Agarite* et le *Discours à Cliton*
+## *Agarite* et le *Discours à Cliton*.
 
 Comme nous l'avons constaté précédemment, au moment où paraît cette tragi-comédie, l'histoire du théâtre connaît bien des turpitudes : « Anciens » et « Modernes » se déchirent au sujet des règles classiques qui finiront par s'imposer au genre dramatique. La tragi-comédie est d'emblée un genre controversé puisqu'elle n'applique aucun des principes édictés par Aristote dans sa *Poétique.*
 
@@ -338,7 +338,7 @@ L'enjeu des irréguliers et des réguliers est finalement le même, c'est-à-dir
 La mention des quatre genres que sont la tragédie, la tragi-comédie, la comédie et la pastorale, trouvée dans la préface d'*Agarite* est également retrouvée dans le *Discours à Cliton*, page 248.
 
 
-## Une tragi-comédie dans les règles de l'art
+## Une tragi-comédie dans les règles de l'art.
 
 On peut considérer qu'*Agarite* ne correspond pas exactement aux règles en usage à l'époque. En ce qui concerne la temporalité de l'histoire, il est impossible d'évaluer le nombre de jours qui s'écoulent entre le moment où le roi est surpris dans son palais à avouer qu'il convoite une jeune fille (Acte I, scène 1), et celui où la pièce s'achève sur un triple mariage, dont celui du roi (Acte V, scène III). Agarite doit avoir le temps de fuir la ville, avec l'aide de Médon, d'y revenir pour y célébrer son mariage, et de repartir à nouveau, escortée cette fois de son amant Policaste, pour finalement revenir à la cour. L'acte I peut se dérouler en quelques heures ; en revanche, le voyage représente au moins une nuit, le temps pour Célidor de se mettre en quête du criminel qui a ravi Agarite ; l'acte II peut également couvrir une journée, deux au plus, le temps pour Lizène de trouver Médon à la ville et de lui demander sa fille en mariage et de faire quérir Agarite à la campagne. Les actes IV et V peuvent également chacun se dérouler sur une journée. Mais il s'écoule un temps plus conséquent entre les actes.
 
@@ -368,7 +368,7 @@ Pauvre sot, tu devois la passer dans le sien.
 Heureusement, le langage est vite corrigé par le premier des pêcheurs au vers suivant. Il en va de même pour les badinages amoureux des amants où les gestes parfois outrepassent la bienséance, et notamment lorsque ces derniers sont déguisés, ce qui donne lieu à des situations cocasses pour le spectateur qui visuellement assiste aux ébats de deux hommes, ce genre d'équivoques amusant beaucoup le public de l'époque, comme c'est le cas, par exemple acte V, scène 2.
 
 
-## Mythologie et religion
+## Mythologie et religion.
 
 L'amour est sans cesse personnifié sans pour autant être nommé ou que d'autres dieux ne soient évoqués. Durval, qui avait écrit *Les Travaux d'Ulysse*, n'a recours à aucun des dieux latins ou grecs auxquels on s'attendrait. Il est souvent fait mention d'une instance supérieure, celle de la nature ou de l'amour, mais Durval conserve une neutralité, de ce point de vue quasi religieuse.
 
@@ -379,7 +379,7 @@ Le profane et le religieux sont souvent mêlés : Agarite est divine, ses vête
 De plus, la notion de destin est perçue lorsque Corintie, telle Cassandre, annonce qu'un drame va se produire à l'encontre de son frère, sans pouvoir cependant changer le cours des événements. A la fin de la pièce, les crimes sont effacés car ils furent perpétrés au nom de l'amour. Ainsi la justice divine ne tient pas devant l'amour païen, puisqu'en outre, le roi relève de son vœu Célidor, parti pour faire pénitence, comme cela était courant à cette époque où les pèlerinages, notamment ceux menant à Saint-Jacques de Compostelle, étaient très en vogue.
 
 
-## Le déguisement, art du spectacle et art dramatique
+## Le déguisement, art du spectacle et art dramatique.
 
 Le déguisement est l'un des attributs classiques de la tragi-comédie ; il témoigne d'un goût des contemporains pour l'illusion [50] ; à partir du moment où le faux est pris pour le vrai, il y a illusion. Si le dramaturge conçoit des déguisements pour ses personnages, c'est en vue d'une orientation dramatique précise. Mais dans cette pièce le déguisement est relativement peu développé, en comparaison de pièces comme *La Sœur valeureuse* de Mareschal [51] par exemple. Cependant, comme dans cette tragi-comédie, le travestissement a pour finalité « la fuite » et « la reconquête » [52]. Dans le cas présent, quatre personnages se déguisent, voire cinq si l'on inclut la princesse Amélise qui se substitue à la statue ; le déguisement est un peu plus qu'un accessoire. Il y a trois cas de figure :
  * – Le déguisement peut être envisagé comme un moyen de masquer son identité ponctuellement : c'est le cas d'Agarite et de Corintie qui se travestissent respectivement en page et en cavalier. Leur but est de ne pas être reconnues du roi en ce qui concerne Agarite, de son amant en ce qui concerne Corintie, puisqu'elle le suit. Dans les deux cas, les femmes sont encore travesties à la fin de la pièce, même si leur identité est révélée chaque fois par le personnage masculin qui les escorte. L'aveu de leur identité usurpée les rétablit dans leur identité de femme, qu'elles ont quittée pour les commodités du voyage, mais aussi nous venons de le dire pour n'être pas reconnues. Ce temps où elles évoluent est à chaque fois très bref, et marque dans les deux cas le retour dans la société (même s'il est vrai que Corintie est dans un premier temps déguisée pour rejoindre Célidor, elle ne quitte pas ses vêtements masculins pour autant en arrivant à la cour). Le spectateur est d'emblée informé de l'identité usurpée par les jeunes femmes : Corintie annonce, vers 1166, qu'elle va « le Célidor suivre partout en jeune cavalier », tandis que Policaste révèle immédiatement le déguisement de sa maîtresse ; le déguisement n'est donc pas un artifice destiné à tromper le spectateur, mais a une fonction interne à l'histoire, c'est-à-dire cacher une identité, ce qui donnera lieu à des équivoques sexuelles [53], ainsi qu'une discussion sur les faux-semblants de la cour, Acte V, scène 1, dans laquelle il est envisageable d'imaginer la voix de l'auteur. Le masque tombe à partir du moment où les personnages sont nommés, et de ce fait, les deux femmes recouvrent à la fois une identité sexuelle et une identité sociale refoulées ponctuellement pour la réussite du stratagème mis en place. Ce retour à l'ordre lié à la chute du déguisement occasionne une triple joie royale : celle de trouver une épouse (Amélise sort de son rôle de vraie fausse statue), de retrouver vivante celle qu'il avait tant chérie, et enfin de retrouver son favori.
@@ -387,7 +387,7 @@ Le déguisement est l'un des attributs classiques de la tragi-comédie ; il té
  * – Le troisième type de déguisement est celui de Célidor lorsqu'il interprète le ballet des Quatre-Vents : il profite du spectacle pour commettre un meurtre. Cet usage inhabituel déguisement sert la poursuite de l'action mais à la différence du cas précédent, il est légitimé par le fait que Célidor est à ce moment-là un acteur. L'habit ne travestit pas une identité, il fait partie intégrante du spectacle et de la mise en scène, même si Célidor utilise à bon escient cet anonymat, ce qui lui permet d'ailleurs de fuir sans que quiconque ne s'en préoccupe, l'attention étant fixée sur la victime.
 
 
-## Le théâtre dans le théâtre
+## Le théâtre dans le théâtre.
 
 Une des particularités d'Agarite se trouve donc dans le fait qu'un ballet, celui des Quatre-Vents, est joué et représenté sur scène, à l'Acte III, scène 3 [55] ; ce procédé est celui du théâtre dans le théâtre qui « consiste à inclure un spectacle dans un autre spectacle ; … il s'agit avant tout d'une structure … il y a théâtre dans le théâtre à partir du moment où au moins un des acteurs de la pièce cadre se transforme en spectateur » [56]. C'est tout à fait le cas d'*Agarite*, puisque deux des personnages deviennent acteurs du ballet, c'est-à-dire Lizène (contre son gré) et Célidor et deux autres assistent au spectacle, Médon et Corintie. Les acteurs devenus spectateurs regardent un spectacle comme le spectateur regarde *Agarite* ; il s'agit d'un dédoublement du point de vue de la structure.
 
@@ -422,7 +422,7 @@ Faire pleuvoir dessus terre.
 Un autre épisode est à considérer dans *Agarite*, il s'agit du passage où Amélise prend la place de la statue d'Agarite sur le lit de parade [72]. Nous pouvons considérer qu'il y a une forme d'enchâssement structurel, lorsque cette mise en scène [73] s'opère et qu'Amélise, véritable marionnette mi-divine, mi-humaine commence à se mouvoir. Effectivement, ce second spectacle, fort bref, est joué devant un public (Phénice, Agarite, Célidor, et le roi [74]), dont le spectateur peut voir les réactions, et à la suite duquel l'action dramatique est modifiée, puisque le roi en oublie totalement Agarite.
 
 
-## Les formes de discours
+## Les formes de discours.
 
 Dans *Agarite*, figurent deux poèmes [75] et un cartel [76] qui viennent s'insérer dans les dialogues en alexandrins des personnages.
 
@@ -435,10 +435,10 @@ Ces stances sont dans les deux cas typographiquement isolées du texte par un sa
 Les stances sont à rapprocher des monologues [81], elles font partie de la rhétorique passionnelle : les sentiments des personnages sont exaltés tant dans leur violence que dans leur joie paillarde. Les lamentations du roi furieux donnent lieu à un monologue douloureux et l'attente dans la nuit à des monologues lyriques et pathétiques. La langue dramatique est ponctuée également d'hyperboles en ce qui concerne l'amour, de comparaisons stéréotypées, les métaphores exprimant par exemple les traits de l'amour qui blessent, et sont emblématiques de la littérature dite baroque, tout comme les apostrophes et les invocations fort nombreuses dans le texte qui expriment tantôt la douleur, tantôt la stupéfaction.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 
-## Présentation
+## Présentation.
 
 La présente édition a été établie à partir de l'édition originale de 1636 qui apparaît comme suit (Bibliothèque nationale de France : Yf4810) :
 
@@ -469,14 +469,14 @@ Il existe quatre exemplaires de cette pièce dont voici les références :
 *Comparaison des exemplaires* : aucune différence n'a été constatée, et aucune correction n'a été faite.
 
 
-## Liste des corrections
+## Liste des corrections.
 
 Dans le texte, nous avons distingué les « u » et les « v » et les « i » et les « j », initialement confondus. Nous avons également remplacé les voyelles surmontées d'un tilde par le groupe voyelle/consonne nasale (« m » ou « n ») correspondant, ainsi que les abréviations par les lettres correspondantes lorsque cela s'imposait ; le « B » a été développé en « ss ». De surcroît, nous avons rectifié les coquilles d'imprimerie ainsi que la ponctuation lorsque cela s'avérait nécessaire. Au XVII*e* siècle le « a » et le « à » comme le « ou » et le « où » étaient souvent confondus ; nous les avons donc corrigés quand cela était indispensable. Nous avons cependant veillé à respecter l'édition originale ; aucune modification n'a été apportée. Les graphies différentes d'un même mot ont été reproduites dans le respect du texte.
 
 Nous avons ajouté entre crochets les noms ou les caractères qui avaient été omis.
 
 
-### Epître
+### Epître.
  * – **l.4** : ; supprimé après « *Grandeur* ».
  * – **l.12** : : remplacé par . ; « ésté » remplacé par « esté ».
  * – **l.20** : « employe » remplacé par « employé ».
@@ -484,13 +484,13 @@ Nous avons ajouté entre crochets les noms ou les caractères qui avaient été 
  * – **l.27** : ajout d'un point avant « les noms » et d'une majuscule à « les ».
 
 
-### Au lecteur
+### Au lecteur.
  * – **l.4** : « très-volontiers » remplacé par « très volontiers ».
  * – **l.13** : « face » remplacé par « fasse ».
  * – **l.15** : « que » a été omis.
 
 
-### Poème liminaire
+### Poème liminaire.
  * – **l.6** : ; supprimé à la fin du vers.
  * – **l.54** : ? remplacé par , et « a » remplacé par « à ».
  * – **l.61** : , supprimé à la fin du vers.
@@ -500,7 +500,7 @@ Nous avons ajouté entre crochets les noms ou les caractères qui avaient été 
  * – **l.64** : « ? » remplacé par une virgule.
 
 
-### Argument
+### Argument.
  * – **l.3** : « ésté » remplacé par « esté ».
  * – **l.19** : : remplacé ,.
  * – **l.21** : : supprimé après « pere ».
@@ -508,7 +508,7 @@ Nous avons ajouté entre crochets les noms ou les caractères qui avaient été 
  * – **l.41** : ; remplacé par ,.
 
 
-### Pièce
+### Pièce.
  * – **v.14** : « quand-il » pour « quand il ».
  * – **v.16** : : supprimé en fin de vers.
  * – **v.17** : « a » remplacé par « à ».
@@ -654,7 +654,7 @@ Nous avons ajouté entre crochets les noms ou les caractères qui avaient été 
  * – **v.1606** : « cé » remplacé par « ce ».
 
 
-### Privilège du roi
+### Privilège du roi.
  * – **l.5** : : remplacé par ..
  * – **l.8** : : remplacé par ..
  * – **l.10** : . remplacé par ,.
@@ -782,7 +782,7 @@ Agarite jeune Damoiselle, mais trop agreable aux yeux d'un Roy est sollicitée p
 Une consideration m'empesche de nommer le Royaume & la Province où j'ay feint cette Histoire. Je diray seulement contre l'opinion de ceux qui veulent que la Scene soit en un seul lieu, qu'une partie des adventures de ce Poëme se passe aux champs, & l'autre à la ville, s'ils ne veulent prendre pour un seul lieu toute une contrée [109] . / /
 
 
-## PERSONNAGES
+## PERSONNAGES.
  – LE ROY.
  – LE FLAMAN,Peintre & Marchand de Tableaux.
  – CELIDOR,Favory du Roy, Amant de Corintie.
@@ -798,14 +798,14 @@ Une consideration m'empesche de nommer le Royaume & la Province où j'ay feint c
  – LES PESCHEURS (I et II). 
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
 ### Scene premiere.
 Le roy, celidor.
 
 
-    LE ROY. 
+    LE ROY.
 Que les Roys de mon aage ont de trouble en aymant !  
 Et qu'un Sceptre déplaist en la main d'un Amant !  
 L'éclat de ma Couronne est contraire à la flame⁎  
@@ -905,7 +905,7 @@ ACTE I.
 Agarite, le Flaman, Celidor, Medon.
 
 
-    AGARITE. 
+    AGARITE.
 Si le mignon [135] du Roy n'est point⁎ un suborneur⁎  
 Qui tâche d'abuser une fille d'honneur⁎,  
 Ce nom de Masjesté m'esblouyt et me tente  
@@ -933,7 +933,7 @@ Ha ! ne me gaussés [140] point⁎ en me voulant complaire⁎
     LE FLAMAN.
 Excusez [141] j'ay là haut quelques comptes à faire.  
 
-    CELIDOR. 
+    CELIDOR.
 Page⁎ [142] tiens mon espée et m'attends là devant, [143]  
 Vrayment j'eusse mal fait de passer plus avant  
 Voyant des raretés où l'art de la Peinture  
@@ -987,10 +987,10 @@ Ce seroit proprement dementir la raison,
 Et délors [152] ces pourtraits qui manquent de parole  
 En auroient pour reprendre une personne fole.  
 
-    AGARITE. 
+    AGARITE.
 Vous ne serés jamais par leurs bouches repris.  
 
-    CELIDOR. 
+    CELIDOR.
 Pourquoy ? de leurs beaux yeux je me sens bien espris,  
 Ils font dedans [153] mon cœur ce qu'au vostre peut faire  
 Ceste image⁎ du Roy capable de vous plaire.  
@@ -1073,7 +1073,7 @@ Quoy ! n'aymerez vous pas un Prince qui vous ayme ?
 Serez vous seule [183] au monde en qui la cruauté  
 Ait de l'intelligence avecque la beauté. [184]  
 
-    MEDON. 
+    MEDON.
 Qu'est-ce que ce mignon peut tant dire à ma fille ?  
 Sur la fleur de ses ans je crains cette chenille.  
 
@@ -1087,11 +1087,11 @@ Mon Pere à la fenestre.
     MEDON.
 Agarite ma fille.  
 
-    AGARITE. 
+    AGARITE.
         Escoutez il m'appelle !  
 Adieu c'est trop causer.  
 
-    CELIDOR. 
+    CELIDOR.
         Adieu doncque [185] cruelle⁎  
 Ha ! qu'il est mal aisé de la solliciter [186]  
 En passant par icy je ne puis m'arrester   
@@ -1155,7 +1155,7 @@ Luy vient oster la vie en la voulant forcer.
 Agarite prens garde où sa rage le porte  
 Et songe que l'on peut te traiter de la sorte.  
 
-     AGARITE.
+    AGARITE.
 Las ! Pourvoyez y donc car c'est la verité  
 Qu'on attente desja sur ma pudicité,  
 Le Favory⁎ du Roy tous les jours m'importune  
@@ -1189,7 +1189,7 @@ ACTE I.
 Phenice, Amelise, le Roy, Celidor, l'Exempt , Medon.
 
 
-    PHENICE. [200] 
+    PHENICE. [200].
 Quand je pense, Madame [201], au bon-heur qui vous fuit,  
 Il me semble de [202] voir un beau jour qui me luit.  
 Soit que je vous regarde ou que je considere,  
@@ -1212,7 +1212,7 @@ Une moindre [208] beauté luy tient lieu de maistresse⁎,
 Mais il entre au Conseil⁎, allez-y vistement  
 Tandis [209] je me retire en mon apartement.  
 
-    PHENICE. [210]
+    PHENICE. [210].
 Je reviendray bien tost.  
 
     LE ROY.
@@ -1297,14 +1297,14 @@ Quiconque soit l'Autheur de ceste lascheté
 Je respons de sa teste à vostre Majesté [222].   
 
 
-## ACTE II
+## ACTE II.
 
 
 ### Scene premiere.
 Agarite, Lizene, Policaste.
 
 
-    AGARITE. 
+    AGARITE.
 Je pense qu'autrefois en ceste solitude [223],  
 Quelque Esprit⁎ amoureux s'occupoit à l'estude [224],  
 Et je croy que celuy qui fit bastir ce lieu,  
@@ -1494,7 +1494,7 @@ ACTE II.
 Lyzene, Corintie, Celidor.
 
 
-    LYZENE. 
+    LYZENE.
 Malgré ses cruautez je luy seray fidelle⁎,  
 Ma sœur [257] ne parle point⁎ de son pere, ny d'elle,  
 Peut-estre qu'à la fin.  
@@ -1545,7 +1545,7 @@ Peut bien croistre [263] ma joye, et finir [264] mes ennuis⁎.
 Ne vous en mocquez pas une personne absente  
 Pourra rendre vostre ame et la mienne contente.  
 
-    CELIDOR. 
+    CELIDOR.
 Hé Dieu ! seroit-ce bien vostre Frere ?  
 
     CORINTIE.
@@ -1612,7 +1612,7 @@ Que vous estes flatteur⁎ !
     CORINTIE.
 De parler autrement que vous n'osez penser.  
 
-    CELIDOR. 
+    CELIDOR.
 Ha ! vous le payerez,  
 
     CORINTIE.
@@ -1712,7 +1712,7 @@ Celuy-cy vient troubler nostre amoureux repos [288].
 Ha ! c'est nostre Cocher : et bien quelle nouvelle  
 A la ville ?  
 
-    POLICASTE. 
+    POLICASTE.
         Il me faut retirer d'aupres d'Elle.  
 
     LE COCHER.
@@ -1812,7 +1812,7 @@ Quand tu verras le soir de la nopce approcher,
 Une heure auparavant [316] qu'on s'en aille coucher,  
 Il le faut. [317]  
 
-    CELIDOR. 
+    CELIDOR.
     C'est tout dire. [318]  
 
     LE ROY.
@@ -1825,7 +1825,7 @@ Il le faut. [317]
 Escoute, si tu fais ce coup⁎ là dextrement,  
 Juge⁎ que [319] peut un Roy qui t'ayme uniquement [320].  
 
-    CELIDOR. 
+    CELIDOR.
 Pourveu que ses faveurs⁎ soient un peu de durée,  
 Je verray pour long temps ma fortune⁎ asseurée.  
 Tandis qu' [321]un Gentil-homme a l'oreille d'un Roy [322],  
@@ -1924,7 +1924,7 @@ ACTE II.
 Policaste, vestu en battelier, Agarite.
 
 
-    POLICASTE. 
+    POLICASTE.
 Nymphes ne trouvés point⁎ ce changement estrange⁎,  
 Ce n'est qu'en vestemens que j'affecte le change⁎,  
 Et puis je suis de ceux que vous favorisez⁎,  
@@ -2059,7 +2059,7 @@ Paresseux es-tu sourd es-tu mort sur la rive
 Si tu l'es, c'en est fait, il faut que je te suive.  
 Neantmoins un baiser te peut resusciter.  
 
-    POLICASTE. 
+    POLICASTE.
 La riviere s'arreste afin de l'escouter.  
 C'est elle mais je veux la tenir en haleine  
 Le plaisir est plus grand avec un peu de peine⁎.  
@@ -2068,7 +2068,7 @@ Le plaisir est plus grand avec un peu de peine⁎.
 Policaste, respons tu n'es point⁎ endormy.  
 Ou pour le moins sans moy tu ne l'es qu'à demy  
 
-     POLICASTE.
+    POLICASTE.
 Ingrate, desloyale, et cruelle⁎ maistresse⁎.  
 
     AGARITE.
@@ -2290,7 +2290,7 @@ C'est assez taisons-nous, car ils vont commencer.
 Icy se danse le Ballet
  
 
-    CELIDOR *masqué representant l'un des Quatre-vents, le Balet finy dit les vers suyvants.*
+    CELIDOR *masqué representant l'un des Quatre-vents, le Balet finy dit les vers suyvants.*.
 Amis le coup⁎ est fait, avant qu'il resuscite [407]  
 Un autre jouyra des amours d'Agarite.  
 Cependant [408] sauvons-nous puisqu'on ne peut trouver  
@@ -2345,7 +2345,7 @@ Las ! j'ay cherché par tout et ne l'ay point⁎ trouvée.
 Amis emportés nous dans un mesme cercueil,  
 Venez m'ayder.  
 
-    MEDON. 
+    MEDON.
         Allons nous revestir de dueil.   
 
 
@@ -2356,7 +2356,7 @@ Venez m'ayder.
 Les pescheurs I. et II.
 
 
-    [PESCHEUR]  [415] I.
+    [PESCHEUR] [415] I.
 Tant que dessus [416] les eaux nous voyons la bonasse [417],  
 Les poissons clairvoyants n'entrent point⁎ dans ma Nasse,  
 Mais apres que les vents ont troublé nos marets [418],  
@@ -2455,7 +2455,7 @@ ACTE IIII.
 Le Roy, Celidor, Medon, Phenice, le Pescheur.
 
 
-    LE ROY. 
+    LE ROY.
 Un desir violent me presse de la voir,  
 Où croy-tu qu'elle soit [430] ?  
 
@@ -2526,7 +2526,7 @@ Des vestemens. [439]
     LE PESCHEUR.
 Tels qu'on en voit porter aux jeunes Damoiselles.   
 
-    MEDON. 
+    MEDON.
 Las, peut-estre ma fille, haissant son espoux [440]  
 Au soir pour se noyer se dérobba de nous.  
 
@@ -2728,7 +2728,7 @@ ACTE IIII.
 Corintie vestuë en dueil, Celidor en pelerin [474].
 
 
-    CORINTIE. 
+    CORINTIE.
 Quel jour peut amener le Soleil qui nous luit [475]  
 Qui ne soit obscurcy de l'ombre de la nuit ? [476]  
 L'air peut-il estre calme où [477] mes pleurs continues  
@@ -2801,7 +2801,7 @@ Vous ferez donc encore un meurtre dans mon cœur.
 Cet Archer [491] qui n'aguere y faisoit quelques bresches,  
 Par dessous mon habit ne tire plus de flèches,  
 
-    CORINTIE
+    CORINTIE.
 Ce Chasseur qui souvent m'est venu visiter,  
 Encore par les champs se fait-il redouter.  
 
@@ -2841,7 +2841,7 @@ ACTE IIII.
 
 ### Scene VI.
 
-    LE ROY *furieux⁎.*
+    LE ROY *furieux⁎.*.
 Traistres [498] sortez d'icy, mes fureurs⁎, et mes rages  
 Me servent-elles pas d'Officiers et de pages⁎ ?  
 Voulez-vous par despit irriter vostre Roy ?  
@@ -2931,7 +2931,7 @@ T'entretenir icy de tes folles amours [521].
 Policaste, Agarite, en Page, Phenice, Amelise.
 
 
-    POLICASTE. 
+    POLICASTE.
 Tant de braves [522] Seigneurs que le Roy tient à gages,  
 Et que l'on voit suivis d'une troupe de Pages⁎,  
 Ne s'imaginent pas, me voyant [523] à la Cour,  
@@ -2988,7 +2988,7 @@ Encore en ce discours⁎ vous avez bonne grace⁎ [542].
 Me voulez-vous long temps gausser de la façon  
 A cause qu'à [543] present je ressemble un garçon.  
 
-    [POLICASTE.]
+    [POLICASTE.].
 Agarite, chacun fait l'amour [544] à sa guise,  
 Et l'on doit trouver bon qu'ainsi je te déguise.  
 
@@ -3002,7 +3002,7 @@ Ce pendant je voudrois avoir trouvé Phenice,
 Je suis bien asseuré que sçachant l'artifice  
 Dont je me veux servir, il nous feroit entrer.  
 
-    AGARITE. 
+    AGARITE.
 Cet honneste Escuyer nous le pourra montrer.  
 
     POLICASTE.
@@ -3013,7 +3013,7 @@ Allons le salüer.
     AGARITE.
     Je vous suis.  
 
-    POLICASTE. 
+    POLICASTE.
         Monseigneur.  
 J'interprete déja ce rencontre⁎ à bon-heur,  
 En ce Palais Royal, le dessein⁎ qui m'ameine,  
@@ -3072,7 +3072,7 @@ ACTE V.
 *Corintie*, en cavalier, *Celidor *, en pelerin.
 
 
-    CORINTIE. 
+    CORINTIE.
 Mon Amant doit passer au coin de ce Boccage,  
 En ce lieu je pourray le guetter au passage,  
 Cet Ormeau que je voy, de Lambrusches [551] couvert,  
@@ -3086,7 +3086,7 @@ J'amortiray le feu⁎ que je sens dans le cœur.
 Je me trompe, les eaux n'augmentent que ma braise,  
 Et mon amour renaist des Nymphes que je baise.  
 
-    CORINTIE. 
+    CORINTIE.
 Demeure, Pelerin, dans ce bois écarté,  
 Un jeune homme se plaint que tu l'as maltraitté.  
 
@@ -3223,11 +3223,11 @@ Avec toy le chemin ne me sçauroit durer.
 ACTE V. 
 
 
-### Scene derniere
+### Scene derniere.
 Le Roy, Policaste, Amelise, Phenice, Agarite, Medon, l'exempt, Celidor, Corintie.
 
 
-    LE ROY. 
+    LE ROY.
 En fin cette Beauté, dont je suis idolatre,  
 A changé ma fureur⁎ en une humeur⁎ folastre,  
 Je ne sens plus en moy ce transport [571] furieux⁎,  
@@ -3545,7 +3545,7 @@ Achevé d'imprimer le deuxiesme jour de juin mil six cens trente-six.
 Les Exemplaires ont esté fournis en la Bibliotheque du Roy, & à Monseigneur le Chancelier.
 
 
-# Lexique
+# Lexique.
 
 Liste des abréviations :Dictionnaire de l'Académie française
 Dictionnaire du français classique. « La langue du XVIIe siècle »
@@ -3554,7 +3554,7 @@ Dictionnaire françois
 ADVANTURE (n.f.)« Accident, ce qui arrive inopinément en bien ou en mal. » CV. 684, 968, 1603.« Hasard » CV. 1381.AMITIE (n.f.)« Grâce, faveur, plaisir » R,V. 41.« On le dit encore en matière d'amour » FV. 138, 468, 610, 1378, 1512, 1539.APPAS (n.m.)« Amorce, charme. Ce qu'on emploie pour gagner ou attraper quelqu'un » RV. 102, 479, 1504.BARBARE (n.m.)« Les barbares étaient ceux qui avaient de la rudesse dans leurs manières ou qui pechoient contre la pureté et les règles du langage : mais la ferocité et la grossiereté étaient des vices naturels aux hommes qui ne connoissaient que les sentiments que la nature inspire presque à tous les animaux » R, ce terme signifie ici surtout « étranger qui est d'un pays fort éloigné » FV. 200. (adj.) : « Cruel, impitoyable, qui n'écoute point la pitié ni la raison »V. 956.BIEN (n.m.)« Mérites, qualités » CV. 1408.« Toutes sortes de possessions et de richesses » FV. 276.« Bonheur » AV. 252, 382.« Joie » AV. 465, 527, 1332.« Homme, gens de bien » : « Homme(s) généreux » FV. 290, 1513.BLESSER (v.)« Frapper, toucher profondément. Se dit figurément en matière d'amour. Il est du style poétique, il se dit d'ailleurs avec ce sens très fort de tous les sentiments vifs ou tristes dont un homme peut être atteint (…) » CV. 1252, 1330, 1396.BLUETTE (n.f.)« Petite étincelle de feu » FV. 487, 747.BRUIT (n.m.)« Sons » FV. 550, 723, 734, 829, 1181.« Il signifie une sorte de nouvelle qui se dit et qui court » RV. 196, 582. CHANGE (n.m.)« En poësie il est plus usité qu'en prose dans la signification de changement. Cependant il ne s'en faut servir que le plus rarement qu'on peut, et à moins qu'il ne soit dans quelque façon de parler, belle ou jolie » RV. 652.CHARME (n.m.)« Ce qui nous plait d'une façon extraordinaire » FV. 24, 486.CHARMER (v.)« User de sortilèges et de charmes » FV. 56, 525, 744.COMPLAIRE (v.)« Se rendre agréable à quelqu'un en déférant à ses volontez et à ses sentiments » FV. 79, 192, 366, 1250.CONNOISTRE (v.)« Savoir » FV. 207, 482, 740, 944, 956, 1031, 1125, 1405, 1491.« Avoir fréquenté le monde, avoir de grandes expériences de quelque choses » FV. 431.« Découvrir, faire voir ce que l'on est » FV. 690, 1260.« Reconnaître » CV. 795, 798, 1172, 1364.Connaîstre mal : « méconnaître » CV. 408.CONSEIL (n.m.)« Dessein réfléchi, décision calculée, parti fermement pris » CV. 547, 1162.« Signifie quelques fois, Résolution » FV. 536.« Assemblée de notables, personnes ou officiers pour délibérer sur les affaires publiques, ou pour juger les différents des particuliers (…) », il s'agit sans doute ici du conseil des depesches, conseil « particulier qui se tient dans la chambre du Roy (…) » FV. 265, 289.« Secret de la providence divine » FV. 1144.CONSEILLER (n.m.)« Ministre (…), celui qui donne conseil » FV. 286.CONSULTER (v.)« Réfléchir, hésiter » CV. 759.« Conférer ensemble, délibérer » AV. 772. CONTENTEMENT (n.m.)« Plaisirs, joyes mondaines » FV. 621.« Satisfaction qu'on a de quelque chose » FV. 170, 377.CONTENTER (v.)« Satisfaire quelqu'un, le rendre heureux ou content, soit en paroles, soit en argent » FV. 202, 480, 1528.« Donner ce qui est propre pour satisfaire ; contenter les passions, les satisfaire » FV. 117.« Suffire » FV. 278, 1204.COUP (n.m.)« Acte frappant, imprévu, se dit aussi des actions héroïques, hardies et extraordinaires, soit en bien, soit en mal » CV. 597, 871.« Accidents extraordinaires qui sont des effets de la Providence, de quelque cause inconnue, de la fortune, du hasard » FV. 889, 890.A ce coup : « Cette fois, pour cette fois » CV. 466, 740, 1453.COURAGE (n.m.)« Cœur comme siège du sentiment, passion, mouvement » CV. 1243, 1249.« Affection, ardeur, zèle sans idée de fermeté à braver le péril, la souffrance » CV. 441, 907. CRUEL (adj.)« Qui ne respond pas bien aux cageolleries qu'on luy fait » FV. 1159, 1215.« Qui est barbare, inhumain, qui aime à tuer, massacrer, tourmenter les autres hommes » FV. 212, 1192.« Celle qui ne fait nulle faveur » RV. 184, 787.DECEU (adj.)« Trompé » FV. 1538, 1577.DESOBLIGER (v.)« Faire quelque déplaisir à quelqu'un, quelque incivilité, luy rendre de mauvais offices » FV. 401. DESSEIN (n.m.)« Détermination, décision, entreprise » C ; « résolution » AV. 236, 338, 354, 573, 962, 1135, 1174, 1259, 1311, 1342, 1380, 1405.« Conception, plan » CV. 554.A dessein : « Exprès et à certaine intention » FV. 367.DISCOURS (n.m.)« Raisonnement, réflexion » CV. 989, 1296.« Action (…) de raconter, par la parole orale ; exposé, récit » CV. 173, 306.« Signifie aussi entretien » AV. 40.« Propos, assemblage de paroles pour expliquer ce qu'on pense » AV. 26, 518, 1245.DIVORCE (n.m)« Différend, querelle » CV. 991. DROIT (n.m.)« Titre qu'on a pour posséder quelque chose ou y prétendre » FV. 954, 1413.A bon droit : « Adverbial, pour dire avec raison, avec juste cause » FV. 255.EFFECT/ EFFET (n.m.)« Acte, réalisation, manifestation » CV. 24, 578, 1034, 1574.En effet : « Réellement » AV. 78.ENTENDRE (v.)« Ouïr, écouter » FV. 85, 160, 181, 441, 539, 550, 723, 740, 761, 773, 829, 831.« Comprendre, pénétrer dans le sens de celui qui parle ou écrit » FV. 10, 516, 922, 1399.« Avoir de l'intelligence avec » FV. 50.« Avoir l'intention, prétendre » FV. 801, 995.ENNUI (n.m.)« Douleur odieuse, tourment insupportable, violent désespoir » CV. 928.« Fâcherie, chagrin, déplaisir, souci » FV. 458.ESPRIT (n.m.)« Souffle, âme » CV. 46, 202, 320, 515, 789, 855, 1214, 1251, 1425, 1435Et notamment « âme de personnes mortes » RV. 1113.« Intelligence » CV. 51, 125, 389, 1270.« Cœur » CV. 1013.« Au pluriel, ce sont de petits corps légers, chauds et invisibles, qui portent la vue et le sentiment dans les parties de l'animal » AV. 1182.ESPROUVER (v.)« Expérimenter » F, « Mettre à l'épreuve » CV. 19, 745, 850.ESTAT (n.m.)« Royaume, province ou étenduë de pays qui sont sous une même domination » FV. 252, 288.« Se dit aussi de la domination et de la manière dont on se gouverne dans une nation » FV. 282.ESTONNEMENT (n.m.)« Action ou effet qui cause de la surprise par de l'admiration » FV. 1471, 1599, 1608.ESTONNER (v.)« Causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte » FV. 521, 577, 763, 923, 1269, 1359, 1575.ESTRANGE (adj.)« Hors des conditions où l'on vit habituellement » C, « Extraordinaire » RV. 491, 651, 968, 1371.ESTRANGER (n.m.)« Qui est d'un autre pays que celui où il est » RV. 294, 1581.EVENEMENT (n.m.)« L'issue, le succès de quelque chose » AV. 1475.« Se dit des choses grandes, surprenantes et singulières qui arrivent dans le monde » FV. 1585.FAVEUR (n.f.)« Grâce qu'on fait à quelqu'un, bon office qu'on lui rend » FV. 567.« Bienveillance d'un puissant, d'un supérieur, le crédit qu'on a sur son esprit » FV. 599.« Se dit ordinairement en amour de ce qu'une maîtresse accorde à celui qu'elle aime » FV. 993.« En faveur » ou « à faveur » ou encore « à ma faveur » dans le texte : « en considération, à l'avantage » FV. 374, 775, 1609.« A la faveur » : « Par l'advantage » FV. 449, 1291.FAVORISER (v.)« Faire grâce, plaisir, faveur à quelqu'un, luy aider » FV. 653, 730, 771.FAVORY (n.m.)« Qui a les bonnes grâces d'un prince, d'une personne puissante (…) et généralement d'un supérieur à qui plusieurs s'efforcent de plaire » FV. 197, 231, 1606.FEINTE (n.f.)« Desguisement, apparence, dissimulation » FV. 875, 877.« Coup destiné à tromper, invention, stratagème » FV. 1475, 1487.FEU (n.m.)« Se dit poétiquement pour signifier la passion de l'amour » AV. 48, 146, 358, 360, 488, 665, 813 (jeu de mots avec l'autre sens du terme : « brûlant »), 1350, 1502. « Elément chaud et sec » FV. 135 et 813.« Astres » FV. 698.« Feux ardents » : « Exhalaisons qui s'enflamment » FV. 741, 743.« Feux de joye » : « Feux d'artifices, faits artificiellement avec de la poudre à canon, qu'on tire dans les résjoüissances publiques ou dans les régals magnifiques » FV. 1548. FIDEL, LE (adj.)« En qui on peut avoir foi, en parlant de personnes, qui tient ses promesses » CV. 284, 1570.« En quoi on peut avoir foi, en parlant des choses » CV. 1544.« Docile, obéissant » CV. 427.FIDELITE (n.f.)« Entretien des serments qu'on a faits, des paroles qu'on a données » FV. 689, 768.« Confiance, obéissance docile d'une personne » CV. 1294.FIGURE (n.f.)« Reproduction matérielle d'une forme » C (peinture, sculpture…)V. 71, 1230.« Visage » CV. 1488.FLAME (n.f.)« Partie la plus subtile du feu qui s'élève en haut » FV. 476, 756.« Amour » FV. 3, 362, 664, 868, 1188, 1360, 1448, 1483.« Eclat, vivacité » FV. 750 FLATTER (v.)« Caresser au sens figuré, les sens, l'esprit, charmer, séduire » CV. 661.« On dit flatter quelqu'un de quelque chose pour dire : lui faire espérer quelque chose, l'amuser de l'espérance de quelque chose » AV. 65, 259.FLATTEUR (adj.)« Caressant », AV. 493.FORTUNE (n.f.)« Destinée, ensemble de « (…) tout ce qui peut arriver de bien ou de mal à un homme, ce à quoi il est voué par le sort » A » CV. 232, 304, 728, 1378. « Situation, élevée ou non, où l'on se trouve placé, condition où l'on est » AV. 5, 277, 600, 1584.« Elévation, « se prend aussi pour l'avancement et l'établissement dans les biens, dans les charges, dans les honneurs » A » CV. 59.INFORTUNÉ (adj.)« Malheureux ou à qui il est arrivé quelque accident fortuit » FV. 879.FOY (n.f.)« Fidélité à un engagement donné, honneur, conscience, sincérité, loyauté d'une personne » CV. 334, 1005, 1589.« Ce qui dans les personnes inspire confiance, assurance donnée par une personne, engagement, parole que l'on donne d'accomplir une chose, promesse de faire et d'accomplir quelque chose » RV. 718, 1511.FUNESTE (adj.)« Qui concerne la mort, funèbre, sanglant, souillé par un meurtre » CV. 563, 880.FUREUR (n.f.)« Emportement violent causé par un dérèglement d'esprit et de la raison » F, « Folie » CV. 1321, 1420.« Se dit aussi de toutes les passions qui nous font agir avec de grands emportements » FV. 1175.FURIEUX (adj.)« Fou, insensé, égaré par une passion, surtout par l'amour » CV. 1175 (didascalie), 1317.« Signifie aussi Prodigieux… excessif » AV. 1421.GLORIEUX (adj.)« Qui est dans la gloire céleste, qui jouit de la béatitude éternelle » FV. 1422.« Est aussi celuy qui a acquis de la gloire par son mérite, son savoir, sa vertu ou ce qui donne de la gloire » FV. 554.GRACE (n.f.)« En poésie : les grâces en parlant des divers agréments qu'ont les femmes qu'on aime » FV. 479, 1474.« Signifie aussi la bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller, qui plaisent aux autres » FV. 1296, 1504, 1519.« De grâce » : emploi adverbial, signifiant « par faveur, par pitié, par courtoisie » FV. 371, 1009.HONNEUR (n.m.)« Tesmoignage d'estime ou de soumission qu'on rend à quelqu'un par ses paroles ou ses actions » FV. 406, 424.« S'applique plus particulièrement à deux fortes vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes » FV. 62, 242, 405, 993, 1550.« Se dit aussi de la chose qui honore, qui donne de la gloire » FV. 26, 234, 292, 417, 1527.HUMEUR (n.f.)« Caractère au point de vue moral » CV. 1167.« Disposition accidentelle, état d'âme passager » CV. 506, 1372, 1420.« Disposition de l'esprit » FV. 500.« Substance fluide (…). En terme de médecine, certaines provoquent des maladies » FV. 1325.IMAGE (n.f.)« Représentation artificielle que font les hommes, soit en peinture, ou en sculpture » FV. 112, 1231, 1456, 1469.« Peinture qu'on se forme soi-même dans son esprit par les meslange de plusieurs idées et impressions de choses » FV. 732, 763, 1111.INJURE (n.f.)« Offense volontaire qu'on fait à quelqu'un contre la défense de la loi » RV. 307.« Dommage, « tort » R » CV. 774.INTEREST (n.m.)« Ce qui touche une personne, par la part qu'elle y prend ; affaire, question, souci qui la regarde » CV. 279.« Part même que la personne prend à l'affaire, de la façon dont elle s'y trouve mêlée, dont son intérêt y est engagé » CV. 589.JUGER (v.)« Estimer, penser » FV. 213, 598, 1585.LANGAGE (n.m.)« Bavardage » CV. 634, 1244.« Manière dont chacun parle » FV. 919.LICENCE (n.m.)« Liberté, sans idée d'excès, ni de dérèglement moral « Permission. Mais, en ce sens, il est vieux » R » CV. 464, 980.LOY/ LOI (n.f.)« Commandement qui vient d'une autorité supérieure, auquel un inférieur est contraint d'obéir » FV. 17, 612.« Se dit aussi d'une obéissance volontaire qui fait qu'on se soumet souvent aux volontez d'autrui » FV. 333, 602.MAISTRESSE (n.f.)« Fiancée, à cause de l'empire qu'elle exerce sur l'homme qu'elle aime. Se dit aussi des « femmes … simplement aimées de quelqu'un » A, sans qu'il y ait réciprocité, mais toujours d'un amour honnête et légitime » CV. 264, 351, 787, 1004.MERVEILLE (n.f.)« Phénomène étrange, hors de l'ordre commun, « chose rare, extraordinaire, surprenante qu'on ne peut guère voir ni comprendre » F, digne d'étonnement plutôt que d'admiration » CV. 55, 343, 1271.« Il se dit parfois, au singulier, de l'étonnement même, de la surprise » CV. 1471.« Phénomène surnaturel accompli par une divinité » CV. 512, 1543.MERVEILLEUX (adj.)« Surprenant » FV. 1481.NATURE (n.f.)« Comprend toutes les choses créées et incréées, le spirituel et le corporel » FV. 84, 134, 205, 612, 1052.« Action de la providence qui agit en tous les corps » FV. 16, 308, 367, 960, 1336, 1408.OBJET/ OBJECT (n.m.)« Ce qui est opposé à notre vue… ou ce qui se représente à notre imagination » F, spectacle, aspect, image matérielle, vision, image morale » CV. 54, 480, 1044.« Se dit poétiquement des belles personnes qui donnent de l'amour » FV. 1184, 1429.OBLIGER (v.)« Lier, enchaîner par un serment, par un service » CV. 293.« Lier par un arrangement, engager, inviter, prier » CV. 303, 677, 1077.« Exciter, porter quelqu'un à persuasion, par promesse, aussi bien que par force ou menace » FV. 541. « Obliger … de » : « Faire quelque faveur, civilité, courtoisie » FV. 338.PAGE (n.m.)« Enfant d'honneur qu'on met auprès des Princes et des Grands Seigneurs pour les servir avec leurs livrées, et en même temps y avoir une honneste éducation et y apprendre leurs exercices » FV. 81, 1256, 1176, 1294, 1550, 1552.PASSION (n.f.)« Sentiment, mouvement du cœur » CV. 114, 1326.En général, « se dit des différentes agitations de l'âme, selon les divers sujets qui se présentent à ses sens… le volupté, la douleur, la cupidité et la fuite, l'amour et la haine… la colère, l'audace, la crainte, l'espérance et le désespoir, etc… » FV. 1423 ; en l'occurrence, ici il s'agit de l'amour.PEINE (n.f.)« Obstacle, difficulté » FV. 640, 784.« Soin, inquiétude d'esprit » FV. 363, 667.« Douleur, tourment » FV. 14, 378, 1104, 1507.POINCT/ POINT (n.m.)« Se dit aussi de ce qu'il y a de principal dans une affaire, dans une question, dans une difficulté » CV. 345, 957, 1005.« Marque syntaxique »V. 501 (jeu de mots avec le sens précédent).Adv. « de sorte négative… Semble nier plus fort que la négative pas » RV. 26, 36, 61, 79, 89, 100, 146, 169, 171, 217, 246, 253, 259, 344, 346, 355, 399, 411, 412, 428, 468, 510, 526, 641, 651, 705, 706, 753, 763, 785, 806, 816, 822, 840, 866, 892, 896, 962, 1004, 1020, 1075, 1224, 1323, 1360, 1369, 1395, 1400, 1402, 1413, 1430, 1433, 1505, 1509, 1516, 1542, 1549, 1562.POINTE (n.f.)« Pensée qui surprend par quelque subtilité d'imagination, par quelque jeu de mots » AV. 369.PRESSE (n.f.)« Foule » AV. 558, 1340, 1619.« Machine en bois qui sert à serrer fort étroitement quelque chose. Elle est composée de deux pièces de bois unies qui se serrent tant qu'on veut par le moyen de deux vis qui les assemblent. Machine qui sert à imprimer. Mettre sous la presse : imprimer » FV. 352.RARE (adj.)« Qui se trouvent peu souvent et en petite quantité, ou qui ont quelque beauté ou excellence particulière » FV. 97, 199.« Se dit aussi des personnes extraordinaires en savoir, en vertu, en mérite » FV. 35, 477, 804. RENCONTRE (n.f.)On le trouve normalement au féminin, mais il arrivait de le trouver au masculin, comme c'est le cas dans le texte. Il signifie :« Pointe d'esprit, bon mot » AV. 647.« Assemblage, jonction de deux choses qui se meslent ensemble, ou qui se touchent simplement » F, chocV. 793.« Signifie aussi l'arrivée fortuite de deux personnes, ou de deux choses en un mesme lieu » FV. 1310. RICHE (adj.)« Qui a abondance de toute chose » FV. 72.« Se dit de tout ce qui est de grand prix, magnifique, orné » RV. 925, 1079, 1085.SECRET (n.m.)« Choses secrètes, entretien particulier, tête-à-tête » CV. 11, 473, 1336.« Recette particulière pour quelque maladie » RV. 1284, 1320, 1481, 1486.SOIN (n.m.)« Préoccupation, « se dit des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » F » CV. 1253.« Attention, application, attachement à une chose… sans aucune idée d'effort pénible, ni d'inquiétude morale » CV. 125.SOUCI / SOUCY (n.m)« Chagrin, inquietude d'esprit » FV. 1453.SOUFFRIR (v.)« Supporter, subir (avec complément de choses) » CV. 14, 175, 1104, 1202, 1247.« Sentir de la douleur, du mal ou quelque incommodité considérable » FV. 1131.SUBORNEUR (n.m.)« Celui qui corrompt, débauche » FV. 61.TIRAN/ TYRAN (n.m.)« Se dit aussi figurément en Morale, des désirs violents, du désordre de nos passions » FV. 1186, 1247.TOURMENS (n.m.)« Se dit figurément en Morale, des peines et chagrins qu'on se donne soi-mesme, ou les uns aux autres » FV. 15, 385, 1545.TRAICT/ TRAIT (n.m.)« Se dit figurément et poétiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils inspirent de l'amour » CV. 77, 1330.« Se dit aussi des diverses parties et configurations du visage » C,V. 84 (jeu de mot entre ce sens et celui de « coup de crayon »), 86, 116.« Se dit aussi en quelques supplices, coups » FV. 310.« En terme d'architecture, se dit du dessin et de la coupe » FV. 84, 121.« Se dit figurément et poétiquement des regards et des blessures que les traits font dans les cœurs quand ils y inspirent de l'amour » FV.21.« Se dit figurément en choses spirituelles et morales » FV. 508, 631, 1220.VERTU (n.f.)« Energie, force, vigueur, tant du corps que de l'âme. Il se dit en particulier de l'énergie guerrière, du courage, de la vaillance » CV. 214, 1250.« Il se dit aussi de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite » CV. 1261.
 
 
-# Annexe 1 : Épitre dédicatoire des *Travaux d'Ulysse* de Durval
+# Annexe 1 : Épitre dédicatoire des *Travaux d'Ulysse* de Durval.
 
 A très-haut et puissant Prince, Henry de Savoye, Duc de Genevois, de Nemours et d'Aumalle, Comte de Geneve, et de Gisors, Marquis de Sainct Sorlin, etc.
 
@@ -3649,7 +3649,7 @@ Et si du temps passé le souvenir vous touche,
 Prestez nous sans regret vostre amoureuse couche ;  
 
 
-# Annexe 3 : EXTRAITS DU DISCOURS A CLITON SUR LES OBSERVATIONS DU CID, ATTRIBUE A DURVAL :
+# Annexe 3 : EXTRAITS DU DISCOURS A CLITON SUR LES OBSERVATIONS DU CID, ATTRIBUE A DURVAL :.
 
 Tu me demandes, Cliton [616], ce qu'il me semble du *Cid* et des observations que nous en avons. N'est-ce pas me vouloir mettre mal avec l'un ou l'autre de nos Autheurs qui sont en querelle, et peut-estre avec tous les deux ensemble ? veritablement si j'estois assez habile homme pour trouver un moyen de les accorder, j'amerois mieux faire le hola [617] que de m'engager à prendre party, ou de les avoir tous les deux sur les bras (…).
 
@@ -3666,14 +3666,14 @@ Pour ce qui est des anciennes pieces des Grecs et des Latins, sur les patrons de
 Cependant il me suffit que les pieces que j'ay faictes, quoy qu'en petit nombre, parviennent és mains de ceux que j'honore et que je cheris, et qu'elles prejugent à l'avenir ce que j'aurois pu faire de plus. Si je renonce au mestier, ce n'est pas qu'il me déplaise, ny que je m'en lasse, mais je ne le puis faire ny en Mercenaire, n'ayant pas le cœur si bas, ny gratuitement, n'en pouvant gratifier que des Comediens, autant indignes du bien qu'on leur fait, qu'ils sont incapables de juger des pieces qu'on leur donne.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## AgariteAgarite, tragi-comédie
+## Agarite.Agarite, tragi-comédie
 
 
 
-## Autres œuvres de Jean-Gilbert DurvalLes Travaux d'Ulysse, tragi-comédie, tirée d'Homère
+## Autres œuvres de Jean-Gilbert Durval.Les Travaux d'Ulysse, tragi-comédie, tirée d'Homère
 Discours à Cliton sur les Observations du CD avec un Traité de la disposition du Poème Dramatique, et de la prétendue Règle des vingt-quatre heures, Paris, imprimé aux dépens de l'AuteurLa Querelle du Cid, pièces et pamphlets publiés d'après les originaux avec une introduction
 Panthée, tragédie
 L'Ecclésiaste en vers Liriques, accomodé à la politique morale et chrétienne…
@@ -3683,7 +3683,7 @@ La Lyre du jeune Apollon, ou la muse naissante du petit de Beauchasteau
 
 
 
-## Textes contemporainsCélinde
+## Textes contemporains.Célinde
 Œuvres Meslées
 Ballets, mascarades de cour de Henri III à Louis XIV, 1581-1652
 Antioche, Tragoedie traitant le martyre de sept enfants machabéens
@@ -3697,19 +3697,19 @@ Les Amours tragiques de Pyrame et ThisbéŒuvres Complètes
 
 
 
-## Textes théoriques (avant 1800)
+## Textes théoriques (avant 1800).
 
 
-### AntiquitéLa Poétique
+### Antiquité.La Poétique
 
 
 
-### XVII*e* siècleOpuscules critiques
+### XVII*e* siècle.Opuscules critiques
 Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-## Études générales sur l'histoire des idées, l'histoire littéraire, la littérature au 17*e* siècleHistoire de la littérature française au 17*e* siècle
+## Études générales sur l'histoire des idées, l'histoire littéraire, la littérature au 17*e* siècle.Histoire de la littérature française au 17*e* siècle
 Le Masque et le visage, du baroque espagnol au classicisme français
 La Querelle du Cid
 The Triumph of time 1584-1588, in Life and complete works in prose and verse...
@@ -3721,16 +3721,16 @@ Lire le théâtre
 
 
 
-## Études sur le théâtre du 17*e* siècle
+## Études sur le théâtre du 17*e* siècle.
 
 
-### RecensionsL'Ère baroque en France, répertoire chronologique des éditions de textes littéraires (1585-1643)
+### Recensions.L'Ère baroque en France, répertoire chronologique des éditions de textes littéraires (1585-1643)
 A History of French Dramatic Literature in the XVIIth Century
 Histoire du théâtre français depuis ses origines jusqu'à présent
 
 
 
-### Etudes généralesArmand Gasté « la Querelle du Cid »
+### Etudes générales.Armand Gasté « la Querelle du Cid »
 La Tragédie de l'âge classique (1553-1770)
 Temps de préfaces. Le débat théâtral en France de Hardy à la Querelle du Cid
 Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
@@ -3744,30 +3744,30 @@ La Dramaturgie classique en France
 TRUCHET, Jacques, *La Tragédie classique en France*, Paris, PUF, collection « SUP », 1975.
 
 
-### Etudes sur la tragi-comédieTragi-comédie de Corneille à Quinault
+### Etudes sur la tragi-comédie.Tragi-comédie de Corneille à Quinault
 La Tragi-comédie
 The French tragi-comedy. Its origin and development from 1552 to 1628*re*
 
 
 
-## Instruments de travailDictionnaire de l'Académie française
+## Instruments de travail.Dictionnaire de l'Académie française
 Dictionnaire du français classique. La langue du XVII*e* siècle
 Dictionnaire universl contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
 
 
 
-### SyntaxeSyntaxe française du XVII*e* siècle
+### Syntaxe.Syntaxe française du XVII*e* siècle
 Introduction à la langue française du XVII*e* siècle
 Remarques sur la Langue française
 
 
 
-### VersificationEléments de métrique française
+### Versification.Eléments de métrique française
 
 
 
-### Autres ouvragesLe Livre des superstitions
+### Autres ouvrages.Le Livre des superstitions
 
 
 -------

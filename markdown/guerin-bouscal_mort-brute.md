@@ -14,7 +14,7 @@ A PARIS, Chez Tovssainct Qvinet, au Palais dans la petite salle, sous la montée
 Édition critique établie par Yann Ombrouck dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2011-2012)
 
 
-# Introduction
+# Introduction.
 
 
 DÉDICACE,
@@ -45,13 +45,13 @@ Cette outrance ne saurait décrire le Brute de Guérin de Bouscal et ce n'est pa
 Bien évidemment, cette édition critique, car c'est un de ses rôles majeurs, sera le lieu où l'on retrouvera le contexte perdu dans le voyage qui mène de Paris à la Hollande, contexte nécessaire à la légitimation de tout commentaire littéraire et auquel nous nous sommes attaché le plus soigneusement qu'il nous a été possible. Cela posé, nous sommes heureux de découvrir non sans surprise, dans ce que nous imaginons être les conditions dans lesquelles Pieter van Zeerijp a pris connaissance de cette tragédie, que la lecture d'un texte pour lui-même, qui conduit aisément aux égarements les plus malheureux, est ici possible. Que le lecteur ne craigne pas de s'y exposer ; s'il doute, qu'il nous lise.
 
 
-# Guérin de Bouscal et son œuvre
+# Guérin de Bouscal et son œuvre.
 
 
-## Guérin de Bouscal
+## Guérin de Bouscal.
 
 
-### Réflexions sur un état civil
+### Réflexions sur un état civil.
 
 Guérin de Bouscal est un auteur peu connu du début du XVII*e* siècle, originaire du Languedoc. Malheureusement, les éléments sont pauvres et parler de sa vie est une tâche difficile ; les efforts faits dans ce sens ont souvent mené à des inexactitudes. Il apparaît alors qu'on a longtemps malmené son état civil, mettant même en question le prénom de *Guyon* [7] ainsi que des dates fantaisistes [8], reposant sur une tradition qui manquait de sources fiables, quand elle songeait à en citer. Un dépouillement fin des archives du Tarn a notamment permis de mettre au jour cinq documents autographes et un acte de décès qui ne laissent guère de doute quant à leur pertinence. Notre auteur serait ainsi né protestant vers 1613 [9] et décédé catholique le 31 décembre 1675 à Réalmont. C'est là l'essentiel de ce que montrent les travaux de C. E. J. Caldicott, les plus complets en la matière, exposés dans l'introduction de son édition critique du *Gouvernement de Sanche Pansa*.
 
@@ -85,14 +85,14 @@ Fier et ombrageux, conseiller du Roi, lieutenant du Roi en la prévôté, élu p
 Si nous lisons bien, nous comprenons qu'il n'existe pas de document signé « Daniel Guérin de Bouscal ». D'ailleurs, le seul document dont Edric Caldicott donne une reproduction (frontispice de son édition critique) est signé « Guerin de Bouscal ». Il ne faut pas en attendre plus du côté de ses œuvres : en effet, de ce côté, le privilège de *La Mort de Brute et de Porcie* est le seul à donner un prénom, qui confirme, on l'a vu, l'acte de baptême. Face au seul document de Caldicott donnant le prénom de Daniel, sous réserve de pouvoir un jour examiner les documents dont le chercheur donne les références sans les citer, ce privilège sort renforcé par l'acte de baptême que nous avons reproduit. Nous n'avons plus guère de doute quant à la naissance, en janvier 1617, de Guérin de Bouscal. Nous posons la question du prénom de *Guyon*, dont la fausseté nous semble à réévaluer.
 
 
-### Activité littéraire à Paris et retour dans le Languedoc
+### Activité littéraire à Paris et retour dans le Languedoc.
 
 L'essentiel de l'activité littéraire de Guérin de Bouscal se déroula à Paris, entre 1634 et 1645. [19] Entre 1645 et 1647, il revint dans le Languedoc pour devenir, en 1651, premier consul de Réalmont, fief protestant. Or Guérin de Bouscal, né protestant, s'était converti. [20] En 1652, un conflit éclate entre les partis protestant et catholique, soutenus respectivement par la Chambre de l'Édit de Castres et le Parlement de Toulouse. Il faudra attendre 1664 pour que Guérin de Bouscal soit rétabli dans ses fonctions de premier consul.
 
 L'histoire littéraire l'a retenu pour ses liens, difficiles à déterminer, avec Molière. Ce dernier, qui était régulièrement dans le Languedoc entre 1647 et 1657, avait d'excellentes relations avec les lieutenants-généraux, en particulier avec le comte d'Aubijoux, qui fut l'un de ses premiers mécènes. Or Guérin de Bouscal connaissait d'Aubijoux, qui habitait d'ailleurs non loin de Réalmont. Caldicott avance ainsi l'hypothèse d'une rencontre entre Molière et Guérin de Bouscal par l'intermédiaire de d'Aubijoux, ce qui semble tout à fait vraisemblable. Mais il est encore plus probable que *Le Gouvernement de Sanche Pansa*, troisième volet d'une trilogie théâtrale à succès, soit arrivé entre les mains de Molière, à Paris, dès sa parution en 1642. *Le Gouvernement de Sanche Pansa* fut, après le *Dom Japhet* de Scarron, « la reprise comique préférée de Molière », annonce Caldicott au commencement de son introduction. La pièce fut en effet l'une des plus jouées par la troupe de Molière, qui a continué à la jouer vingt ans après sa création. Ainsi, c'est par Molière que la littérature a gardé un souvenir de Guérin de Bouscal.
 
 
-## L'œuvre
+## L'œuvre.
 
 
 There is also considerable lyrical variety, shown in lovers' dialogues (II, 2, 4), stances (II, 3), an oracle (I, 1), and a scene with two echoes (II, 1).
@@ -100,10 +100,10 @@ There is also considerable lyrical variety, shown in lovers' dialogues (II, 2, 4
 (H.C. Lancaster, à propos de La Doranise) [21]
 
 
-### Tour d'horizon
+### Tour d'horizon.
 
 
-#### Théâtre [22]
+#### Théâtre [22].
 Ordre | Titre | Genre | Année de la première édition
 1 | La Doranise | Tragi-comédie pastorale | 1634
 2 | La Mort de Brute et de Porcie ou la vengeance de la mort de César | Tragédie | 1637
@@ -120,7 +120,7 @@ Ordre | Titre | Genre | Année de la première édition
 
 
 
-#### Autres écrits
+#### Autres écrits.
 
 *Oraison funèbre de Mgr l'Eminentissime Cardinal Duc de Richelieu* (1643) [24]
 
@@ -129,67 +129,67 @@ Ordre | Titre | Genre | Année de la première édition
 *L'Antiope, roman* (1644-1645) [25]
 
 
-#### Poèmes au sein des œuvres
+#### Poèmes au sein des œuvres.
 
 « Sur la guerison de Sylvie » (1637) [26]
 
 « Les Stances à Antiope » et le « Poème pour Périgonne » (1644) [27]
 
 
-### Commentaire général
+### Commentaire général.
 
 On l'aura compris après ce tour d'horizon, l'œuvre de Guérin de Bouscal ne se réduit pas à la trilogie cervantine. Sans Molière, l'histoire littéraire aurait-elle jamais retenu le nom de Guérin de Bouscal ? À regarder les travaux réalisés sur cet auteur, qui traitent de manière quasi-exclusive de ses comédies adaptées du *Quichotte*, il est permis d'en douter. [28] Pourtant, il est frappant de constater non seulement une certaine fécondité, mais une véritable variété qui fait de notre auteur un polygraphe. D'un bout à l'autre de son théâtre, Guérin de Bouscal s'est adonné au genre de la tragi-comédie. Il a également écrit trois tragédies dont les sujets sont tirés de Plutarque. Mieux, le constat va au-delà du théâtre : en témoigne *l'Antiope*, roman qui évoque les amours de Thésée et de la reine des Amazones, qui « ne comporte pas moins de deux mille pages » et qui eut selon Georges Vergnes un « succès non négligeable ». [29] Enfin, Guérin de Bouscal a également écrit de la poésie amoureuse, une *Paraphrase du Pseaume XVII* et une oraison funèbre à la mémoire de Richelieu.
 
 
-### Application à La Mort de Brute et de Porcie
+### Application à La Mort de Brute et de Porcie.
 
 Cette variété est sensible dans la première édition de *La Mort de Brute et de Porcie*, que nous présentons. En effet, cette première tragédie de Guérin de Bouscal est précédée d'un prologue et suivie de poèmes, laissant la place à une certaine liberté : le prologue met alors en scène une Renommée en vierge rougissante, les poèmes évoquent une Sylvie insaisissable, si ce n'est « en songe » [30]. La tragédie elle-même est touchée par cette variété que l'on constate : se succèdent des discours tout aussi différents que des lamentations, des harangues, des récits de bataille ou encore le récit du rêve du médecin d'Octave. Enfin, la forme est également concernée par le phénomène, par l'emploi des stances (IV, 4) et des rimes croisées au lieu des traditionnelles rimes plates (les imprécations de Porcie, II, 4 ; le changement du système de rimes introduit le thème du suicide de Brute, fin de V, 4). En V, 4, l'emploi des rimes croisées est combiné à l'usage extensif du quatrain, « caractéristique des passages lyriques visant à la pompe » [31]. La liberté des rimes et l'hétérométrie ont une place importante dans chaque partie de cette édition (prologue, pièce, poèmes), fait qu'on peut illustrer en relevant les trois schémas strophiques les plus complexes que l'on rencontre. Ces trois schémas peuvent être vus comme une variation autour d'un même système de rimes : ABBACCDEED. [32] Les fluctuations sont au niveau du genre des rimes, du mètre et du nombre de strophes. Si l'on symbolise les rimes masculines par des minuscules, les rimes féminines par des majuscules et le mètre par le nombre de syllabes, on obtient les schémas strophiques suivants, multipliés par le nombre de strophes ou d'unités strophiques. Pour le prologue, l'unité, répétée dix-sept fois, est composée d'un quatrain séparé d'un sizain : (a8-B8-B8-a12 + c8-c8-D12-e12-e8-D12) x17. En IV, 4, il s'agit d'un dizain : (a8-B8-B8-a8-C8-C8-d12-E8-E8-d12) x6. Enfin, les stances qui terminent la série de poèmes prennent à nouveau la forme de dizains : (A12-b12-b8-A8-c8-c12-D12-e12-e6-D12) x3. Il y a sans doute de la virtuosité derrière ces systèmes, maîtrise qui va jusqu'au jeu : dans le second poème, on trouvera ainsi un octosyllabe seul en plein sonnet régulier !
 
 
-# La pièce
+# La pièce.
 
 
-## Argument de *La Mort de Brute et de Porcie*, sujet romain
+## Argument de *La Mort de Brute et de Porcie*, sujet romain.
 
 
-### Situation
+### Situation.
 
 Après l'assassinat de César en 44 av. J.-C., ses héritiers politiques, menés par Marc Antoine (son ancien bras droit) et Octave (son fils adoptif, le futur empereur Auguste), forment un triumvirat avec Lépide. Les Républicains fondent alors leurs espoirs sur ceux qu'ils surnomment les « Libérateurs » alors que le parti adverse les considère comme les « césaricides ». Brutus et Cassius, les chefs des conjurés, ont dû fuir en Orient. En Italie, Marc Antoine et Octave mettent en place une politique de proscription, politique dont Cicéron est notamment victime. La confrontation entre les deux partis a finalement lieu en octobre 42 av. J.-C. à Philippes (Macédoine) au cours de deux batailles successives : la première voit la victoire de Brutus face à Octave et la défaite de Cassius devant Marc Antoine, la seconde la victoire de Marc Antoine contre Brutus.
 
 
-### Acte I
+### Acte I.
 
 Brute expose sa position politique en soulignant que la République est la seule qui respecte avec la liberté le droit des gens et la volonté des dieux. Il ajoute que ce système est celui qui permet à la vertu de s'épanouir, avant d'annoncer une bataille imminente (sc. 1). Cassie est contre l'idée de combattre et propose à Brute de reporter la bataille. Brute lui oppose la fatigue des troupes et la lassitude de Rome : c'est le moment de rétablir la liberté. Cassie se laisse convaincre, « contre s on cœur » (v. 118 et 127) (sc. 2). Cassie, sans remettre en cause l'autorité de Brute, confie à Titine son inquiétude et doute d'une victoire assurée par les dieux (sc. 3). Comme il l'avait annoncé aux vers 125-126, Brute « minute en repos l'ordre de la bataille » et commence par imaginer l'aile droite de son armée. Mais cette solitude est interrompue par l'apparition de son mauvais génie, mauvais présage dont Brute ne tient aucunement compte. Il reprend ses plans là où il s'était arrêté, avec l'évocation de l'aile gauche. Le soleil se lève et Brute sort de la scène pour encourager ses troupes (sc. 4). La scène suivante est la première où nous voyons le couple s'entretenir. Elle met en avant le personnage de Porcie, que nous voyons pour la première fois : celle-ci se caractérise par sa vertu, héritée de son père, Caton d'Utique, vertu qui signifie pour les Romains à la fois courage physique (« La fille de Caton nasquit parmy les armes », v. 181) et courage moral (« Ouy, Brute, ton trespas rend le mien necessaire », v. 213). Brute, dont le souci était de « sçavoir s a Porcie en repos » (v. 171), doit se soumettre à la fidélité absolue de sa femme, fidélité au mari et au dernier défenseur de la liberté. Tous les possibles sont évoqués dans cet échange d'amour : quoi qu'il arrive, ce dernier est plus fort que la mort ; Brute évoque l'espoir d'un bonheur qui serait alors parfait (sc. 5). Entre désespoir et fureur, Porcie invoque la vertu et forme l'idée d'aller courir aux armes, dans ce qu'on pourrait prendre pour un sacrifice à la Victoire. Sa compagne l'en détourne et Porcie sort de la scène pour prier Jupiter (sc. 6).
 
 
-### Acte II
+### Acte II.
 
 La première réplique de Marc Antoine développe l'idée que la mort de César réclame une vengeance qui doit aller jusqu'au bout, quel qu'en soit le prix, pour châtier ces traîtres qui ont assassiné leur bienfaiteur. La royauté est le seul système qui convienne à l'État mûr, celui qui a atteint sa forme achevée après les conquêtes : l'ordre garanti par le souverain est alors une nécessité pour se prémunir contre les divisions et durer (sc. 1). Le médecin d'Octave (ce dernier est souffrant) rapporte à Marc Antoine le rêve qu'il a fait, véritable ravissement, état mystique qui lui a fait apercevoir une « troupe de Dieux » (v. 415) et recevoir ce commandement : il faut, pour sauver Octave, l'amener au camp de Marc Antoine. Marc Antoine s'empresse de suivre cet avis (sc. 2). En une longue tirade, Brute exhorte ses troupes contre la tyrannie considérée comme dégradation insupportable de Rome, décadence, usurpation impie. Il leur montre l'immortalité que leur promet leur vertu (sc. 3). La scène suivante est un monologue de Porcie, qui songe à la défaite en une imprécation contre les tyrans (sc. 4). À la proposition de sa compagne d'aller voir le combat, Porcie oppose son agitation intérieure. Elle se laisse convaincre mais ne manque pas de déclarer que « Les Dieux lui sont suspects depuis que leur cholere / En faveur d'un Tyran arma contre son père » (v. 583-584) (sc. 5).
 
 
-### Acte III
+### Acte III.
 
 Avec sa défaite, Cassie déplore celle de Rome. Mais l'acceptation première de l'ordre des choses s'accompagne d'un sursaut individuel (« je veux mourir libre », v. 595) et du souhait pour sa patrie de voir « un jour Brute ressuscité » (v. 601). Ses affranchis reculent devant le service que leur demande leur maître : lui donner la mort. Titine propose d'aller s'enquérir de Brute pour savoir l'issue du combat de son côté. Cassie se place sur le haut d'un rocher pour surveiller l'approche éventuelle d'un tiers (sc. 1). Brute se réjouit de sa victoire sur Octave, qu'il pense mort, et croit à la victoire de la République. Titine s'avance vers lui (sc. 2). Ce dernier apprend à Brute la défaite de Cassie face à Marc Antoine et fait le récit de la bataille, longtemps incertaine. Titine et Brute vont rejoindre Cassie (sc. 3). Du haut de son rocher, Cassie croit voir l'ennemi approcher. Pour échapper à la honte de la servitude et venger Titine, dont il a risqué la vie, il demande à Demetrie et Pindare de le tuer enfin. Cassie donne à Pindare le poignard qui a frappé César ; Pindare obéit et refuse pour punition la mort, pour le remords. Demetrie décide d'aller implorer la clémence de l'ennemi (sc. 4). Titine découvre le cadavre de Cassie et impute sa mort aux affranchis restés à ses côtés. Pour venger Cassie, il compte sur les tyrans eux-mêmes, qui n'accepteront pas de laisser impunie une telle traîtrise. Pour se venger lui-même et prouver son innocence, Titine décide de ne pas survivre à son maître (sc. 5). Brute arrive sur la scène alors que Titine expire ; il découvre le corps de Cassie. « Il faut dissimuler. » (v. 830). Brute tient alors devant sa suite un discours de confiance envers les dieux, commande d'enterrer Cassie nuitamment et « sans bruit » et songe à la façon de motiver ses troupes le lendemain (sc. 6).
 
 
-### Acte IV
+### Acte IV.
 
 Octave à son tour expose son désir de vengeance contre le crime des césaricides. S'ensuit un échange crispé de compliments : le fait qu'Octave n'ait pas pu montrer sa valeur pose problème (sc. 1). Un soldat vient rapporter aux deux généraux la défaite des troupes d'Octave et faire le récit de cette bataille. Après un premier mouvement de désespoir, Octave se reprend et ajoute au désir de venger César celui de venger ses hommes. Marc Antoine juge le bilan globalement positif : grâce aux dieux, Octave est sauf et les troupes de Cassie sont défaites (sc. 2). Demetrie vient annoncer à Octave et Marc Antoine la mort de Cassie et, pour ne pas s'opposer à la Providence, leur propose de combattre à leurs côtés, ce qu'ils acceptent. Octave et Marc Antoine comptent profiter du trouble que suscite cette nouvelle chez l'ennemi (sc. 3). Porcie rend grâces aux dieux pour la victoire de Brute et souhaite expier ses doutes et ses alarmes passés. La victoire qu'elle relate s'accompagne de la prise du camp d'Octave qui lui fait croire, comme à Brute un peu plus tôt (III, 2, v. 645), à la mort du général ennemi (sc. 4). L'enthousiasme auquel Porcie s'est abandonnée est rompu par la nouvelle qu'apporte Brute : la mort de Cassie. Porcie refuse à nouveau de se mettre en lieu sûr et réaffirme sa volonté d'être, quoi qu'il arrive, auprès de son mari, auquel son sort est lié. Brute redit son admiration pour sa femme (sc. 5).
 
 
-### Acte V
+### Acte V.
 
 Cette harangue, à laquelle Brute pense depuis les derniers vers du troisième acte, évoque à nouveau l'immortalité acquise par la victoire, certes, mais insiste en particulier sur le fondement de l'action des Libérateurs, fondement qui se confond avec le respect des dieux. Ainsi, ce qui est combattu, c'est la tyrannie, notamment caractérisée par sa cruauté, et par là distincte de la royauté. L'ancienne aversion héritée du temps des Tarquins n'est pas suffisante et le motif est proprement la restauration du droit naturel, c'est-à-dire la restauration du droit des gens garanti par les dieux. L'orateur fait entrevoir le retour de la liberté et la fin des guerres civiles, fin synonyme de paix et de prospérité, avant de rappeler, après l'enjeu, la situation présente : la dernière bataille (sc. 1). Porcie, désespérée, est en proie aux présages et au désir de mort. Sa compagne a reçu pour ordre de ne pas la quitter (sc. 2). Les deux triumvirs exaltent leur victoire et sont après Brute (sc. 3). Brute prend acte de la défaite : la Providence veut la décadence de Rome et la Vertu doit s'incliner face à la nécessité. Il est alors temps pour lui de demander la mort à ses amis, pour « s' ensevelir avec s a liberté » (v. 1347). Deux amis anonymes reculent ; il reste donc Straton, figure nommée de l'amitié vraie, le « cher amy » (v. 1423), pour éprouver la décision de Brute avant de l'accepter. Straton voit tomber son général, son ami et le dernier espoir de liberté pour Rome ; sa mort s'ensuit (sc. 4). Porcie découvre le cadavre de Brute. Sa tirade commence par un blasphème avant de mettre en place les raisons du suicide à venir. Ces raisons se résument à un nom : la Vertu. La Vertu comme fidélité au mari et à la liberté tout à la fois, qui ne sont qu'une même figure, « Brute et la liberté » (v. 1470 et 1527). La Vertu comme fidélité à son identité, déterminée par le mari mais aussi par le père (v. 1513-1520). Aucun obstacle ne l'arrêtera : « Je cognois cent chemins pour aller aux enfers. » (v. 1530) (sc. 5). Octave et Marc Antoine parviennent devant le corps de Brute. S'opposent alors deux réactions : Octave souhaite poursuivre les derniers partisans du camp républicains pour parfaire la vengeance de César ; Marc Antoine considère qu'il faut faire cesser une guerre qui n'a que trop duré (sc. 6). Un soldat du camp ennemi vient annoncer aux deux généraux la mort de Porcie. Dans ce récit, la fille de Caton a déjoué la surveillance de son entourage et, sous couleur d'avoir froid, a fait allumer un feu dont elle a avalé des charbons ardents, ayant bravé ses gardiens. Octave, jusqu'ici inexorable, est en proie à la crainte et à la pitié : les hommes, quelle que soit leur condition, sont le jouet du destin. Il proclame l'amnistie pour les ennemis. Marc Antoine ordonne que soient rendus à Cassie, à Brute et à Porcie les honneurs funèbres ; leurs cendres seront rendues à leur famille. Octave se réjouit de la paix revenue et de la victoire, signe que la vengeance de César est accomplie (sc. 7).
 
 
-## Une tragédie régulière de 1637
+## Une tragédie régulière de 1637.
 
 Le « Prologue de la Renommée », à la gloire de Louis XIII et, surtout, de Richelieu, le dédicataire, est divisé en deux parties : l'une a une fonction d'éloge à proprement parler (v. 1-110), l'autre, en mettant en scène un ministre mécène (v. 111-120), évoque les grandes tragédies du moment (v. 121-150) avant de présenter le sujet de la pièce (v. 151-170). Outre l'éloge à Richelieu, ce prologue permet à son jeune auteur de se situer dans le champ littéraire et d'inscrire son nom parmi ceux de dramaturges fameux. Il est alors fait allusion à l'*Hercule mourant* de Rotrou, *La Sophonisbe* de Mairet, la *Cléopâtre* de Benserade, *La Mort de Mithridate* de La Calprenède et *La Mort de César* de Scudéry, dont notre pièce se présente, par le sujet, comme une suite, cinq pièces qui illustrent la nouvelle renaissance de la tragédie après quelques années d'éclipse. [33] Comme tous ceux de sa génération qui font renaître la tragédie après 1634, Guérin de Bouscal puise son sujet dans le répertoire des tragédies humanistes : en l'occurrence, la *Porcie* de Robert Garnier, publiée en 1568.
 
 Avec les questions de la bienséance et de la vraisemblance, la régularité d'une pièce se mesure, comme l'illustrera la même année la Querelle du *Cid* [34], du point de vue de règles qui s'imposent progressivement et évoluent dans leur définition, règles tirées des lectures d'Aristote. La règle des trois unités, par exemple, sera de plus en plus stricte à mesure qu'avancera le XVII*e* siècle.
 
 
-### Les bienséances
+### Les bienséances.
 
 La tragédie que nous étudions compte cinq suicides (dans l'ordre, ceux de Cassie, Titine, Brute, Straton et Porcie), les quatre premiers ayant lieu sous les yeux du spectateur, le dernier étant rapporté dans le récit de la scène finale. Le suicide en tant que tel est permis par les bienséances. Il est même, comme le dit Jacques Scherer, une « nécessité dramaturgique », la seule solution pour apporter ses morts à la tragédie : car on ne peut représenter directement les combats, de même qu'un héros qui a le sens de l'honneur ne peut tuer un personnage respectable ou être tué par un traître. [35] Outre les nécessités d'échapper à la honte de la défaite et de la servitude (Cassie), de ne pas survivre à son général (Titine et Straton) ou à son mari (Porcie), le suicide sera, comme nous le verrons par la suite, exemplifié dans la figure de Brute, qui en développera la justification. Le problème de la bienséance est alors déplacé des suicides aux cadavres et à leur exposition. Mais, là encore, il semble que le problème n'en soit pas un, ou du moins pas encore. Il suffit, pour s'en convaincre, de considérer une des tragédies mises en avant par Guérin de Bouscal dans son prologue : « *La Mort de Mithridate* (1636) de La Calprenède est une tragédie qui respecte presque toutes les règles classiques et qui se termine par la macabre découverte que fait Pharnace de quatre cadavres. » [36] Jacques Scherer, qui ne manque pas d'exemples de suicides devant les spectateurs, désigne le dernier acte de cette tragédie comme « l'acte du suicide », « où il n'est guère question que de se tuer ». [37]
 
@@ -209,7 +209,7 @@ Mais je souffre trop peu; mort redouble ta rage. (V, 4, v. 1451-1452)
 Cela dit, cet exemple, le seul à traiter la question, laisse entrevoir la violence de la mort car, malgré Straton, la positivité de la « rage » de la mort est bien là. Sans doute est-elle nécessaire pour le personnage qui l'affronte héroïquement, et pour le spectateur qui l'attend.
 
 
-### Un lieu à délimiter
+### Un lieu à délimiter.
 
 Il est difficile de déterminer précisément ce qu'est l'unité de lieu en ce début de 1637. En effet, les grands manifestes réguliers, qu'il s'agisse de la *Lettre à Godeau sur la règle des vingt-quatre heures* de Jean Chapelain (1630) ou de la préface de *La Silvanire* de Jean Mairet (1631), n'évoquent la question que fort incidemment, à l'occasion du traitement qu'ils font de l'unité de temps dont l'unité de lieu n'est que la conséquence. C'est alors l'excès de la durée représentée qui est dénoncé et, par suite, la diversité des lieux que cette longueur implique. Chapelain évoque l'exemple de « dix ans », Mairet celui de « dix ou douze années ». Ces exemples impliquent des changements de lieu, jusqu'à « passer, pour Mairet, d'un Pole à l'autre dans un quart d'heure », changements de lieu qui ne peuvent que briser l'illusion dans laquelle la vraisemblance doit tenir le spectateur. Or si l'unité de temps connaît une borne supérieure bien précise, celle des vingt-quatre heures, inférée d'Aristote, l'unité de lieu, elle, n'en connaît pas. Le Philosophe, qui n'avait pas même évoqué cette unité de lieu, ne pouvait pas fournir de modèle, condamnant les théoriciens à rester pour un temps dans le flou de l'indétermination spatiale. L'antichambre ou la place ne sont pas encore obligatoires au théâtre et le décor compliqué de *La Silvanire* elle-même, tel qu'il est décrit dans le Mémoire de Mahelot, montre bien, dans la fragmentation de la scène, que l'unicité du lieu n'est pas alors conçue dans ces termes. Mairet, lorsqu'il « passe … à la dissection de sa pièce », dans sa préface, ne traite malheureusement pas la question. Jacques Scherer, passant en revue ses pièces, vient pallier ce manque.
 
@@ -224,12 +224,12 @@ Pour Scherer, à l'époque de *La Mort de Brute et de Porcie*, l'unité de lieu 
 Pour ce qui est de la liaison des scènes, elle ne ménage pas le lecteur. Les changements de camp entre la fin d'un acte et le début de celui qui le suit seront, pour un classique, acceptables. Mais passer, au cours d'un acte, d'un camp à un autre, provoque nécessairement une discontinuité touchant à l'entrée et à la sortie des personnages (II, 2 à II, 3 ; III, 1 à III, 2 ; III, 3 à III, 4 ; IV, 3 à IV, 4 ; V, 3). D'ailleurs, au sein d'un même camp, la liaison n'est pas toujours assurée (I, 3 à I, 4 ; II, 3 à II, 4 ; V, 1 à V, 2). Sans compter les cas où seul un cadavre fait la liaison (III, 4 à III, 5 ; V, 4 à V, 5 [44]). Selon Jacques Scherer, « on ne saurait énumérer toutes les pièces des 40 premières années du XVII*e* siècle où la liaison des scènes est rompue, non seulement quand le lieu change, mais en de nombreuses autres occasions. » [45] Et l'auteur de produire de nombreux exemples, notamment chez Mairet, Scudéry et Rotrou, trois des cinq auteurs convoqués dans le prologue de *La Mort de Brute et de Porcie*. Ainsi, de manière analogue à l'étendue du lieu unique, le peu de liaison des scènes dépendait-il d'un usage qui s'accommodait avec l'unité de lieu, sans être ressenti comme irrégulier, mais sans être encore véritablement classique. De même que le lieu ne se réduisait pas à une salle unique correspondant à la scène, la liaison des scènes n'avait pas un caractère obligatoire.
 
 
-### Un temps concentré
+### Un temps concentré.
 
 Pour ce qui est de la règle de l'unité de temps, les vingt-quatre heures sont, à peu de choses près, respectées : l'action commence à l'aube (Brute voit le soleil se lever en I, 4 aux vers 165-166) et se termine le lendemain matin, après la défaite du héros. Il a fallu pour cela faire une entorse à l'histoire : en effet, il n'y pas eu une bataille de Philippes, mais deux, espacées de trois semaines. La première bataille de Philippes (qui mène à la défaite de Cassius face à Marc Antoine et à la victoire de Brutus sur les forces d'Octave) a lieu dans notre pièce la journée et la seconde le lendemain matin. On peut situer la nuit entre la fin du quatrième acte (« … il faut que demain la bataille se donne », IV, 5, v. 1143) et le début du cinquième acte (à la première scène, Brutus encourage ses soldats en appelant la victoire : « Soleil, fay que bien-tost ce beau jour nous esclaire; / Mais je te parle en vain, tu ne le sçaurois faire, / Si nous ne dissipons par des coups furieux / Ce nuage ennemy qui te cache à nos yeux. », v. 1239-1242 [46]). C'est durant cette nuit que Cassie est censé être enterré « sans bruit », tel que l'a ordonné Brute. [47]
 
 
-### L'unité d'action
+### L'unité d'action.
 
 Quant à l'unité d'action de *La Mort de Brute et de Porcie*, on peut reprendre le propos de Lancaster, qui consiste à dire qu'elle est plus respectée que dans *La Mort de César* de Scudéry. [48] Scudéry place en effet la mort de César au terme du quatrième acte, faisant du cinquième un acte qu'on pourrait qualifier, comparativement du moins, de surnuméraire. [49] Lancaster ajoute que la règle de l'unité de temps l'empêchait d'évoquer Philippes et qu'une mauvaise compréhension du personnage de Brutus ne lui permettait pas d'en faire le sujet d'une pièce achevée par l'assassinat de César. [50] Le sujet de Guérin de Bouscal est sans doute mieux défini et son dénouement plus réglé : la bataille finale est réservée au dernier acte, la mort de Brute intervient en V, 4 et celle de Porcie est rapportée par un soldat dans la scène finale. *La Mort de Brute et de Porcie* est à notre connaissance la première pièce qui fasse de la bataille de Philippes la matière de cinq actes. À titre de comparaison, Shakespeare y a consacré le dernier acte de son *Jules César*, Robert Garnier le quatrième acte de sa *Porcie*, où la bataille est rapportée par la voix d'un messager.
 
@@ -238,7 +238,7 @@ Le troisième acte de la tragédie de Robert Garnier annonce très brièvement l
 Pour entrer dans le détail, il convient d'envisager la composition de la pièce, ce qui nous aidera à considérer plus précisément l'unité d'action.
 
 
-#### Composition : exposition, nœud, dénouement
+#### Composition : exposition, nœud, dénouement.
 
 Les deux premiers actes se déroulent avant la première bataille. [52] Marc Antoine et Brute, dont les pensées politiques sont exposées symétriquement aux scènes liminaires (I, 1 et II, 1), se préparent à combattre. Chacun juge sa cause soutenue par les dieux. Du côté des Libérateurs, les personnages de Cassie et de Porcie portent le mauvais pressentiment. Le troisième acte pose, avec la défaite et la mort de Cassie, la possibilité d'entamer l'espoir de Brute victorieux. Mais ce dernier ne faiblit pas. Parallèlement, le quatrième acte présente aux yeux des spectateurs une montée en puissance des triumvirs (sc. 1 à 3) et prépare, avec l'annonce de la mort de Cassie à Porcie (sc. 5), la désillusion de l'épouse, qui croyait déjà en la victoire (sc. 4), et qui sera bientôt, plus que jamais, la proie des mauvais présages (V, 2). Le dernier acte est divisé en trois parties : avant la bataille (sc. 1 et 2 ) ; la défaite de Brute, l'exultation des triumvirs et le suicide du héros (sc. 3 et 4) ; après la bataille, le désir de vengeance coupé court par la mort de Porcie (sc. 5 à 7). À cette composition précise de la pièce se joint le fait qu'à chaque scène et chaque personnage est assignée une place déterminée ; l'enchaînement scénique semble dès lors motivé : il s'agit de précipiter le camp des Libérateurs dans le malheur, en laissant au spectateur les indices d'une progression funeste. [53]
 
@@ -268,17 +268,17 @@ Le dernier acte est celui du dénouement : la défaite (V, 3) et la mort de Br
 Guérin de Bouscal a placé le dénouement, c'est-à-dire la mort du héros, au milieu du cinquième acte. Les catastrophes qui en résultent, (la mort de Chélonide, puis celle d'Agésistrate), complètent la pièce sans l'allonger indûment, ni sans la ralentir. [56]
 
 
-#### Une structure précise qui détermine le dénouement
+#### Une structure précise qui détermine le dénouement.
 
 *La Mort de Brute et de Porcie* est une tragédie construite selon une alternance entre deux camps bien séparés, alternance rythmée où chaque parti prend la parole à tour de rôle (voir document en format PDF).
 
 Les quatre premiers actes, relativement égaux en longueur, répondent au schéma suivant selon des séquences de scènes : un acte du coté des Libérateurs puis un acte divisé en deux parties (les triumvirs puis les Libérateurs). Au dernier acte, plus long, les triumvirs sont à la poursuite de Brute (V, 3) et les scènes qui suivent sont marquées par la présence du corps du héros (V, 4 à V, 7), de Porcie fuyant la vue d'Octave (V, 5) et d'un soldat de Brute (V, 7). Ainsi, le tableau que nous présentons semble redoubler symboliquement l'invasion spatiale : l'invasion par le discours vient rompre le schéma. Le cinquième acte était dû au Libérateurs ; la victoire finale des triumvirs vient le leur voler. Mais il n'y a peut-être là qu'apparence, si l'on considère que les scènes qui semblent consacrées aux triumvirs sont minées. On remarque alors que la troisième scène, la première des triumvirs, est la plus courte de la pièce (12 vers), que le corps de Brute n'est pas qu'un simple indicateur spatial mais un véritable acteur (Porcie le voit et lui parle avant sa résolution finale, il occupe le discours d'Octave et sa vue coïncide avec le renoncement de Marc Antoine à la vengeance [57]), que le récit du soldat rapporte les dernières paroles de Porcie, dans une intensité dramatique qui fait un grand effet sur Octave (V, 7) [58]. Par ailleurs, si l'on quitte l'alternance des scènes pour considérer la part exacte de chaque camp, on se rend compte que le discours des Libérateurs est largement majoritaire en ce dernier acte (78% des vers), et dépasse même la longueur des actes précédents [59] (voir document en format PDF).
 
 
-# La Mort de Brute et de Porcie, ou, La Vengeance de la mort de Cesar : une fausse ambivalence
+# La Mort de Brute et de Porcie, ou, La Vengeance de la mort de Cesar : une fausse ambivalence.
 
 
-## Des titres, un sujet
+## Des titres, un sujet.
 
 Si « LA VENGEANCE DE LA MORT DE CA ESAR. » est le titre reproduit aux seuils du prologue et de la pièce, il faut bien suivre la page de titre et le privilège, qui le placent au rang de sous-titre. Le titre allégé de l'émission de 1647, « LA MORT DE BRVTE, ET DE PORCIE. », est en cela plus satisfaisant.
 
@@ -289,10 +289,10 @@ Si l'on affine l'analyse, on comprend avec le premier graphique que l'attention 
 Enfin, le sous-titre est à rapprocher de la page de titre de l'émission de 1640, qui indique « LA SVITE DE LA MORT DE CÆSAR. » : on peut supposer que le remplacement du titre original par un autre qui place la pièce en simple suite de celle de Scudéry, dont le succès fut notable, participe d'une manœuvre commerciale.
 
 
-## Les caractères : d'un Brutus quasi-parfait à un Octave en apprentissage
+## Les caractères : d'un Brutus quasi-parfait à un Octave en apprentissage.
 
 
-### Le camp des Libérateurs
+### Le camp des Libérateurs.
 
 On serait tenté de dire, sans lui retirer sa beauté, que le caractère de Brute est l'un des moins complexes parmi les personnages principaux. En effet, il n'est pas un moment où Brute perd de vue son devoir, pas un moment de doute ou d'impiété. À son mauvais génie qui lui apparaît (I, 4), il rétorque la plus profonde confiance et continue de « minuter en repos l'ordre de la bataille », comme il l'avait annoncé aux vers 125-126, sans montrer de signe de trouble. La première scène conjugale (I, 5 ; scène très proche de la seconde, en IV, 5) montre un Brute dont le premier souci est la sécurité de sa femme, condition suffisante pour partir, léger, au combat. La scène n'est pas dénuée de tendresse quand Brute évoque la force de son amour, son admiration pour Porcie et l'espoir d'un avenir commun. Mais pas un moment le général ne perd le contrôle de lui-même. [62] Devant le cadavre de Cassie, Brute dissimule et encourage ses hommes en renouvelant sa confiance envers les dieux. Loin de toute effusion, il n'est pas question de s'attendrir sur un ami mais de relativiser cette mort pour encourager ses hommes ; le corps de Cassie sera enterré nuitamment et « sans bruit » (III, 6). Brute ne cédera jamais, pas même au moment de mourir : le suicide sera le moyen de ne pas survivre à sa raison de vivre, la liberté.
 
@@ -378,7 +378,7 @@ Rendez-moy seulement Brute et la liberté. (Porcie, V, 5, v. 1455-1470)
 Le manque de lucidité de Brute, que Normand Doiron considère dans *La Porcie romaine* de Claude Boyer, semble épargner le héros de Guérin de Bouscal. [66] Mieux, à la différence de Boyer, il n'y a chez lui ni précipitation, ni impiété, ni mépris de la religion. Cassie et Porcie n'ont ni clairvoyance, ni prescience de l'avenir, et leur désespoir, moins qu'un signe que Brute aurait dû considérer, est avant tout le produit d'une passion blasphématoire.
 
 
-### Les Triumvirs
+### Les Triumvirs.
 
 Avec les précautions que nous avons posées, il faut parler de la vengeance de César, qui motive, avec la défense d'un type de régime politique, l'action des deux triumvirs. Ceux-ci ne sont pas dépourvus de défauts et ce désir de vengeance est leur faiblesse même. Sur les huit scènes où ils figurent, six scènes les réunissent. Inséparables, il est ainsi possible de mesurer la force de leur alliance. La vengeance s'avère être l'élément fédérateur : le bras droit et l'héritier se retrouvent autour de César. Marc Antoine, le premier sur scène, est pris de fureur en relatant le crime de Brute :
 
@@ -516,7 +516,7 @@ Je veux que les vaincus soient certains de leur vie (Octave, V, 7, v. 1623-1624 
 On peut alors noter qu'au moment même où se construit la clémence d'Octave, ce dernier se voit placé dans la position de spectateur, ou plutôt du spectateur, évacué de la pièce d'une nouvelle manière à l'instant même où il se réalise. La clémence d'Octave apparaît comme la conséquence de la pitié et de la crainte. Cette clémence, accompagnée d'un retour de piété, sauve ainsi, *in extremis*, notre personnage, bien plus qu'elle ne le porte aux nues. Le caractère édifiant du dénouement, où la Providence fait gagner la monarchie et élève Octave [75], est là pour corriger ce qui nous semble animer la pièce entière et qui ne peut constituer un propos moral : l'admiration pour Brute, personnage historique qui semble avoir séduit l'auteur. Dès lors, il ne faut pas s'étonner que le neveu et beau-fils de Caton soit le seul personnage répondant à la dénomination de « Heros ». [76]
 
 
-# Brutus stoïcien ou le triomphe de la virtus
+# Brutus stoïcien ou le triomphe de la virtus.
 
 Parmi les philosophes grecs, aucun, en vérité, ne lui était inconnu ou étranger, mais il avait un culte particulier pour les platoniciens. Il n'appréciait guère ce qu'on appelle la Nouvelle Académie et la Moyenne Académie ; il restait attaché à l'Ancienne Académie : il ne cessa d'admirer Antiochos d'Ascalon et prit pour ami et pour compagnon son frère Aristos [77]
 
@@ -525,7 +525,7 @@ Ce témoignage de Plutarque est sans doute l'un des plus explicites sur la quest
 Toutefois, à faire preuve de rigueur historique, on risquerait d'oublier un fait important : un dramaturge forge ses caractères, notamment, selon le principe de ressemblance. Ainsi, le héros d'un sujet historique doit-il être conforme à l'histoire. Ou plutôt, conforme à l'image que l'on se fait de lui, c'est-à-dire, sans trop d'approximation, conforme à la tradition historique. Or cette tradition historique lègue avant tout un Brutus stoïcien. L'occulter serait dès lors non seulement manquer de rigueur dans l'étude d'une pièce telle que celle qui nous intéresse, mais faire preuve d'absurdité dans la démarche.
 
 
-## La *doxa* au XVII*e* siècle
+## La *doxa* au XVII*e* siècle.
 
 S'il est difficile de reconstituer la pensée des hommes et des historiens de la France du XVII*e* siècle concernant cette question précise de la philosophie de Brutus, les rares lectures que nous avons trouvées tendent à faire de Brutus un stoïcien, conformément au jugement général de Sedley sur la tradition historique. Deux exemples permettront de se faire une idée du type de discours tenu sur ce point au XVII*e* siècle et de l'argumentation complexe qui s'y attache.
 
@@ -563,7 +563,7 @@ Selon que Ciceron parle des Stoïques en cét endroit il paroist clairement que 
 Premièrement, ce court passage ne vaut pas ceux plus longs et plus explicites que l'on trouve chez Cicéron concernant la philosophie de Brutus, passages qui nous gardent de toute surinterprétation. Ensuite, il convient de noter ici que le syntagme à l'origine de la traduction « vos Stoïques » est s*toici nostri* [89] ; il y a donc un écart notable imputable à la traduction de Soreau. Cicéron prêtait plus haut les paroles suivantes à Brute : « il en est de nos stoïciens comme de ceux de la Grèce ». Le possessif ne témoignait alors d'aucun signe de l'appartenance de Brutus au courant philosophique mais de l'appartenance de membres de ce courant à une nation romaine (par ailleurs, nation de Brutus et de Cicéron) qui possédait ses propres stoïciens. La lecture en faveur du stoïcisme de Brutus, là encore, ne tient pas. Soreau semble réduit à exploiter un détail pour corroborer son jugement, un détail qu'il a par ailleurs lui-même créé.
 
 
-## La morale nuancée de l'Antiquité et le stoïcisme
+## La morale nuancée de l'Antiquité et le stoïcisme.
 
 L'hésitation entre platonisme et stoïcisme, chez Rapin et Soreau, semble être de courte durée. Il est néanmoins frappant, en décortiquant la façon dont se développe une rhétorique défendant l'option stoïcienne, de voir rétrospectivement comment le problème historique, bien loin d'être surmonté par ces savants, n'en est que souligné. Notre sujet, la bataille de Philippes, et ce qu'il implique, à savoir les suicides dans le camp des *Liberatores*, exige alors une mise au point essentielle sur la façon dont l'Antiquité aborde le suicide et le rôle du stoïcisme dans cette réflexion. C'est le sens de ce point théorique qui pourra, nous l'espérons, contribuer à éclairer le sens profond de l'œuvre.
 
@@ -594,7 +594,7 @@ Et si Brutus estimait en effet que la vertu politique de la justice devait être
 Les exemples que Sedley attribue à Brutus, en contrepoint de Caton, ne sont pas des exemples de suicidés et ne font donc pas avancer la question du suicide de Brutus. Il faut voir là, sans doute, la rigueur de l'historien qui ne s'étend pas là où il a constaté qu'il n'y avait pas de matière. La rigueur historique impose une hypothèse platonicienne décourageante là où l'hypothèse stoïcienne est stimulante.
 
 
-## Caton, l'exemple stoïcien
+## Caton, l'exemple stoïcien.
 
 Nous ne sommes pas chez Shakespeare et la bataille de Philippes ne se réduit pas au cinquième acte : elle est, chose remarquable, la pièce elle-même. Brute ne condamne pas le suicide de Caton [98] et la fille de ce dernier tient une place de premier plan avec près de 20% des vers à son actif, la plus proche de son mari. [99] Porcie a la parole pour parler de sa mort et, lorsqu'elle est morte, ses derniers mots sont rendus par le soldat qui tient lieu de messager. Shakespeare, lui, rapporte brièvement sa mort à la troisième scène de l'acte IV, par l'intermédiaire de Brutus. Il suit la tradition minoritaire selon laquelle cette mort serait intervenue quelques temps avant la dernière bataille. La Porcie de Guérin de Bouscal est pleinement présente et son caractère est défini par son état-civil : elle est fille de Caton et femme de Brutus. [100] Si ces deux figures la poussent toutes deux au dépassement d'elle-même, elles représentent également les deux pôles d'une division tragique. Ainsi Porcie est-elle prise entre la volonté de reproduire le geste de son père et les passions de l'amante. C'est ce qui fait l'ambiguïté ou la richesse du personnage, écartelé entre son idéal de liberté et la réalité de ses sentiments incontrôlables. [101] La Porcie de Guérin de Bouscal n'est pas cette femme qui, soupçonnant la conjuration dans le trouble nocturne de son mari, se livre à un exercice stoïcien pour démontrer à Brutus cette force d'âme qui la rend digne de partager son douloureux secret. Après s'être entaillée la cuisse profondément, elle disait ainsi à Brutus :
 
@@ -789,16 +789,16 @@ Afin de te saouler, et de me satisfaire. (V, 4, v. 1421-1436)
 Le traitement de cette mort est éloquent. La responsabilité de la foudre est explicitement écartée (v. 1431-1432) et l'épée de la Justice (prologue, v. 163) laisse la place à celle d'un ami. La mort de Brute devient le fait d'un « bras desloyal », d'une « lame cruelle » et d'un « malheureux poignard ». La conjuration a changé de camp et c'est alors de Brutus qu'il faut dire que « la vertu fut son crime » (prologue, v. 150). Comme Titine, l'unique chemin possible pour Straton consiste à suivre son général pour prouver son innocence aux yeux de la postérité et se « venger » lui-même (v. 1450). [137] La mort enlève Brute à regret et cet homme dont le dernier vers répète ce que fut sa vie et dit à la postérité ce qu'est sa mort, cet homme à la constance exemplaire, semble promis à une apothéose [138] : il est « ce grand demy-Dieu » (v. 1425), « ce grand Heros » (v. 1439) « que la Parque revere » (v. 1434). Suivant les pas de Caton, il rejoint ses ancêtres au panthéon des hommes illustres, après avoir donné une justification philosophique à son suicide, celle-là même qui manquera aux historiens modernes. [139]
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Les éditions de *La Mort de Brute et de Porcie*
+## Les éditions de *La Mort de Brute et de Porcie*.
 
 
-### L'édition originale de 1637
+### L'édition originale de 1637.
 
 
-#### Description
+#### Description.
 
 Un volume. In-4°, VIII-104 p.
 
@@ -817,7 +817,7 @@ I-104 [142] le texte, composé d'un prologue, de la pièce et de cinq poèmes.
 Nous avons établi le texte à partir de l'exemplaire qui se trouve à la Bibliothèque nationale de France (site de Tolbiac) sous la cote RES-YF-520, incommunicable car microfilmé et numérisé. [143] Ce livre est ainsi disponible sur Gallica, la bibliothèque numérique de la BnF.
 
 
-#### Recensement des exemplaires
+#### Recensement des exemplaires.
 
 Il existe à notre connaissance dix autres exemplaires en France de l'édition de 1637 : [144]
  * – Un à la Bibliothèque nationale de France (site de Tolbiac), sous la cote RES-YF-1453.
@@ -844,12 +844,12 @@ La Bibliothèque de l'Arsenal possède par ailleurs deux nouvelles émissions de
 Tous ces exemplaires de 1637, 1640 et 1647 sont, pour ceux que nous avons examinés, strictement identiques, jusque dans l'erreur de pagination qui fait de la page 49 une seconde page 46. [147] Identiques à un fait près : la fin du vers 592 est effacée dans le premier exemplaire de Tolbiac (RES-YF-520) ainsi que dans celui de la Bibliothèque de la Sorbonne (RRA 8= 443), qui donnent « metamorph*...* », de la même manière, alors qu'elle est bien présente dans les autres exemplaires, qui donnent « metamorph**oses;** ». [148]
 
 
-### Deux nouvelles éditions et une traduction néerlandaise
+### Deux nouvelles éditions et une traduction néerlandaise.
 
 Si l'on considère l'édition originale et celles qui suivent, on remarque qu'elles couvrent plus de vingt ans, de 1637 à 1659. Ce fait, allié à l'existence d'une traduction, représentée sur le théâtre d'Amsterdam en 1653, pourrait bien être la trace d'un certain succès.
 
 
-#### L'édition de 1652
+#### L'édition de 1652.
 
 Il existe une seconde édition de la pièce, datée de 1652, dont un exemplaire est disponible à la Bibliothèque de l'Arsenal, sous la cote GD-23605. Elle nous a notamment confirmé dans nos corrections (pour une vingtaine de coquilles, notamment). Voici la description de l'exemplaire de l'Arsenal :
 
@@ -870,7 +870,7 @@ Alain Riffaud, à qui nous avons soumis nos clichés de l'exemplaire, indique qu
 Nous avons pu consulter un autre exemplaire de l'édition de 1652, qui se trouve à la Bibliothèque de Rennes Métropole (Les Champs Libres), sous la cote 88421 Rés (Fonds ancien). Cet exemplaire n'a pas subi de remontage sur in-4° ; il est revêtu d'une couverture et porte sur sa tranche l'indication : « LA MORT DE BRUTE 1652 ».
 
 
-#### L'édition de 1659
+#### L'édition de 1659.
 
 Nous notons ici l'existence d'une autre réimpression légitime chez Claude La Rivière, à Lyon, en 1659, alors que le privilège était épuisé. Nous en avons compté deux exemplaires en France :
  * – Un à la Bibliothèque de l'Arsenal, sous la cote GD-21279.
@@ -901,7 +901,7 @@ I-67 le texte de la pièce.
 Un an plus tôt, en 1658, Claude La Rivière avait publié *La Mort de César* « avec permissions ». [152]
 
 
-#### Une traduction néerlandaise
+#### Une traduction néerlandaise.
 
 Enfin, il faut noter non sans surprise une traduction de la pièce en néerlandais, publiée à Amsterdam en 1653, sous le titre *De Dood van Brutus en Cassius*. Ce titre semble indiquer que l'édition qui a donné lieu à la traduction est celle publiée un an plus tôt, sous le titre singulier de *La Mort de Brute et de Cassie*. [153] L'édition caennaise de 1652 est le fait d'Eléazar Mangeant, nous l'avons vu. Ce dernier, comme nous l'apprend Alain Riffaud, avait pour habitude d'inventer de fausses adresses néerlandaises, ce qui vient confirmer, pour la question qui nous intéresse, les liens entre Caen et la Hollande. Toutefois, les noms des traducteur, imprimeur et libraire (Pieter van Zeerijp, Tijmon et Dirck Cornelisz Houthaak) sont ici véridiques et la publication de la traduction n'est pas le fait de Mangeant. De façon cohérente, la collaboration entre l'imprimeur et le libraire avait déjà donné, en 1650, *De Doodt van Julius Caezar*, traduction de *La Mort de César* de Georges de Scudéry. [154] Notons que Jacques Mangeant, le père d'Eléazar, avait lui-même contrefait la pièce de Scudéry en 1638, et qu'il l'avait rééditée en 1646. [155] Nous n'avons pas pu consulter ces deux éditions pour les confronter à la traduction néerlandaise mais il est possible que les Houthaak aient puisé dans les éditions des Mangeant, ce qui est fort probable dans le cas de *De Dood van Brutus en Cassius*.
 
@@ -929,10 +929,10 @@ La page de titre indique que cette traduction a été représentée « sur le t
 Cette traduction semble assez fidèle au texte : bien souvent, elle est littérale ; par ailleurs, l'enchaînement des scènes et des prises de parole est généralement respecté. Il s'agit d'une traduction versifiée marquée par un certain effort : ainsi, les stances de Porcie (IV, 4) se présentent, comme chez Guérin de Bouscal, sous une forme hétérométrique. [159] Cependant, il arrive que la densité des répliques soit atteinte : par exemple, la tirade de Brutus exhortant ses soldats dans une scène qui correspond à V, 1 [160] est singulièrement raccourcie. Entre ce qui correspond à nos vers 1622 et 1623, une didascalie annonce le corps de Porcie, ce qui n'était pas le cas chez Guérin de Bouscal. [161] Il est possible que cette didascalie soit le fruit d'une mauvaise interprétation des vers 1655-1656 ; elle présente toutefois l'intérêt de mettre sur scène le cadavre de la dernière des suicidés, en cohérence avec le traitement des cas précédents (Cassie, Titine, Brute et Straton). Il faut par ailleurs signaler l'ajout de deux scènes entre nos scènes I, 4 et I, 5. Lors de la première, très brève, un Chef de Brutus annonce la venue de Cassius. Lors de la seconde, un contentieux oppose violemment les deux hommes, qui finissent par se réconcilier et « s'embrasser avec joie ». [162]
 
 
-## Interventions sur le texte
+## Interventions sur le texte.
 
 
-### Remarques liminaires
+### Remarques liminaires.
 
 Au début du XVII*e* siècle, l'orthographe n'était pas encore fixée. Par ailleurs, des variations sont sensibles au sein d'une même édition, entre différents groupes de cahiers, selon le travail de l'ouvrier. Pour illustrer le propos, voici trois exemples :
  * – 1°) Celui de la famille de *lâche* est frappant : *â* noté *as* apparaît dans les cahiers C, D, E, G, M et N ; *â* noté *a* dans les cahiers G et H ; *â* noté *â* dans les cahiers K et L. On remarque qu'à une occurrence près (qui peut être involontaire), quatre séquences de cahiers se succèdent, avec chacune leur propre norme, exclusive : *as, a, â* puis de nouveau *as*. [163]
@@ -942,7 +942,7 @@ Au début du XVII*e* siècle, l'orthographe n'était pas encore fixée. Par aill
 Pour les imprimeurs de notre pièce, Alain Riffaud donne les noms de Denis Houssaye, pour le cahier liminaire, et de Jacques Dugast, pour les cahiers A à N. De manière générale, il qualifie leur travail respectivement de « souvent correct » et « de qualité ». [165]
 
 
-### Corrections d'usage et corrections systématiques
+### Corrections d'usage et corrections systématiques.
  * – Distinction entre *i* et *j* et entre *u* et *v*.
  * – *∫* devient *s*.
  * – Suppression de l'esperluette (&) au profit de la conjonction *et*.
@@ -951,12 +951,12 @@ Pour les imprimeurs de notre pièce, Alain Riffaud donne les noms de Denis Houss
  * – Systématisation du redoublement du *r* au futur et au conditionnel (verbes *pouvoir, mourir* et *voir*) : « pouroit », v. 799 ; « pouroient », v. 989, 1575 ; « mouroit », v. 1162 ; « moura », v. 1210 ; « mouray », pièce, v. 1291 et sonnet pour la mesme, v. 4 ; « veray », v. 1531. [166]
 
 
-### Coquilles
+### Coquilles.
 
 La comparaison systématique des différentes éditions montre que celle de 1652 (Arsenal, GD-23605) corrige bien souvent des coquilles de l'édition originale. Alain Riffaud nous a confié que « si le travail typographique lui-même, dans l'atelier d'Eléazar Mangeant, est des plus médiocres, en revanche souvent cet imprimeur porte attention au texte et le corrige. » Ce jugement sur la production caennaise nous semble autoriser notre intuition première. Ainsi, nous marquons d'un astérisque les cas où nous avons suivi l'édition de 1652.
 
 
-#### ACTE PREMIER
+#### ACTE PREMIER.
 
 v. 75 : « longs-temps » [167] devient « long-temps » ⁎
 
@@ -965,7 +965,7 @@ v. 219 : « auroit » devient « auroient » ⁎
 v. 249 : « n'escoustez » devient « n'escoutez »
 
 
-#### ACTE SECOND
+#### ACTE SECOND.
 
 v. 316 : « ces » devient « ses »
 
@@ -976,7 +976,7 @@ v. 396 : « ses » devient « ces »
 v. 445 : « ces » devient « ses » ⁎
 
 
-#### ACTE TROISIEME
+#### ACTE TROISIEME.
 
 v. 592 : « ses » devient « ces »
 
@@ -999,7 +999,7 @@ v. 798 : « vaiqueurs » devient « vainqueurs » ⁎
 v. 862 : « torans » [170] devient « torrens » ⁎
 
 
-#### ACTE QUATRIEME
+#### ACTE QUATRIEME.
 
 v. 897 : « fort » devient « sort » ⁎
 
@@ -1014,7 +1014,7 @@ v. 1115 : « resentiment » [172] devient « ressentiment » ⁎
 v. 1122 : « resentir » devient « ressentir » ⁎
 
 
-#### ACTE CINQUIEME
+#### ACTE CINQUIEME.
 
 v. 1238 : « des trosnes des Dieux » devient « *les* trosnes des Dieux »
 
@@ -1047,22 +1047,22 @@ v. 1654 : « ce » devient « se » ⁎
 v. 1669 : « frond » devient « front » ⁎
 
 
-#### CHANSON
+#### CHANSON.
 
 v. 15 : « ce » devient « se »
 
 
-#### PREMIER SONNET
+#### PREMIER SONNET.
 
 v. 14 : « resenti » devient « ressenti »
 
 
-#### A LA MESME SUR SON DEPART LE JOUR DE NOËL
+#### A LA MESME SUR SON DEPART LE JOUR DE NOËL.
 
 v. 6 : « raisonner » devient « résonner »
 
 
-### Ponctuation
+### Ponctuation.
 
 La ponctuation au XVII*e* siècle ne connaissait pas les mêmes règles que les nôtres. Aussi, le lecteur ne sera plus étonné, s'il considère la ponctuation comme un guide pour la déclamation, qui rythme le discours et détermine la hauteur de la voix. [174] Nous avons ainsi, par exemple, laissé le point dans le cadre de questions oratoires (voir notamment les vers 554 et 1480).
 
@@ -1081,33 +1081,33 @@ Notons que l'usage des points de suspension n'est pas systématique dans l'édit
  * – par les points de suspension (v. 649, 653).
 
 
-### Diérèses et synérèses
+### Diérèses et synérèses.
 
 
-#### Diérèses (typologie par ordre d'importance quantitative)
+#### Diérèses (typologie par ordre d'importance quantitative).
 
 
-##### -I/Y ON
+##### -I/Y ON.
 
 « rebellion » (prologue, v. 38) ; « Lyon » (prologue, v. 39), « lyon » (v. 473) ; « actions » (prologue, v. 137 ; pièce, v. 35, 585), « action » (v. 615, 824) ; « adversion » (v. 31, 853) ; « passion » (pièce, v. 32, 148 ; sonnet pour la mesme, v. 11), « passions » (v. 586) ; « obligations » (v. 36) ; « occasion » (v. 93, 1307) ; « resolution » (v. 117) ; « presomption » (v. 147) ; « affection » (pièce, v. 175, 482 ; stances, v. 15) ; « perfection » (v. 176 ; stances, v. 16) ; « punition » (v. 366), « punitions » (v. 368) ; « inventions » (v. 367) ; « ambition » (v. 333, 854, 1640) ; « reflexion » (v. 426) ; « protection » (v. 481) ; « possession » (v. 1209) ; « Pelion » (v. 1550).
 
 
-##### -IEUX
+##### -IEUX.
 
 « victorieux » (prologue, v. 128 ; pièce, v. 23, 227, 582, 1111) ; « furieux » (prologue, v. 129 ; pièce, v. 1241, 1353) ; « ambitieux » (v. 20, 550, 1495) ; « gracieux » (v. 399) ; « precieux » (v. 548, 1170) ; « injurieux » (v. 959, 1523, 1609) ; « glorieux » (v. 1237) ; « officieux » (v. 1355, 1593).
 
 
-##### *e* muet prononcé
+##### *e* muet prononcé.
 
 « tuent » (v. 362) ; « Cassie » (v. 703) ; « Demetrie » (v. 738) ; « je m'oublie » (v. 1148) ; « j'aye » (v. 1172 deux fois) ; « Ils fuyent » (v. 1205) ; « Morphée » (v. 1257) ; « Porcie » (v. 1598) ; « Renoüent » (v. 1650) ; « Sylvie » (chanson, v. 13) ; « Croye » (stances, v. 30).
 
 
-##### I-e/ɛ
+##### I-e/ɛ.
 
 « hier » (pièce, v. 391 ; chanson, v. 14) ; « s'humilier » (v. 589) ; « expier » (v. 792) ; « impieté » (v. 1060) ; « inquietude » (v. 1256) ; « chastier » (v. 1308).
 
 
-#### Autres diérèses
+#### Autres diérèses.
  * – I-O : « violent » (v. 196, 260), « violant » (v. 1129, 1615), « violance » (v. 512) ; « mediocre » (v. 718) ;
  * – I-ɑ̃ : « aliance » (prologue, v. 110) ; « impatience » (v. 105), « impatiance » (v. 333) ;
  * – I-ɛ̃ : « lien » (v. 1168, 1514) ; « anciens » (v. 1650) ;
@@ -1115,7 +1115,7 @@ Notons que l'usage des points de suspension n'est pas systématique dans l'édit
  * – « fuyr » (prologue, v. 122).
 
 
-#### Synérèses
+#### Synérèses.
 
 Hormis une exception (« fleau », v. 1138), elles concernent toutes le même type de syllabe (consonne + RIER/Z) :
  * – « meurtriers » (prologue, v. 159 ; pièce, v. 109, 316, 882, 1565), « meurtrier » (v. 750, 790, 1537, 1576) ;
@@ -1148,7 +1148,7 @@ Louis par la grace de Dieu Roy de France et de Navarre, à nos amez et feaux Con
 ET ledit sieur de Bouscal a cedé et transporté le present Privilege à Toussainct Quinet, Marchand Libraire à Paris, pour jouyr du contenu en iceluy, ainsi qu'il a esté accordé entr'eux par acte de seiziesme Janvier 1637.< Achevé d’imprimer pour la premiere fois le 20. Fevrier 1637. >< Les exemplaires ont esté fournis. >
 
 
-## ACTEURS
+## ACTEURS.
  – BRUTE,
  – STRATON, Amy de Brute.
  – CASSIE,
@@ -2469,7 +2469,7 @@ Celle d'un innocent que la parque⁎ va prendre.
     UN DE LA SUITE DE BRUTE.
 O malheur sans pareil ! Cassie est aussi mort.  
 
-    BRUTE *à part soy.*
+    BRUTE *à part soy.*.
 Il faut dissimuler.  
 
     UN DE LA SUITE.
@@ -3643,7 +3643,7 @@ Qui tiens ma liberté,
 Croye que je l'adore, et souffre que je l'ayme.  < FIN. >
 
 
-# Lexique
+# Lexique.
 
 Dictionnaires utilisésDictionnaire de l'ancienne langue française et de tous ses dialectes du IXe au XVe siècle
 Dictionnaire historique de l'ancien langage français ou Glossaire de la langue françoise depuis son origine jusqu'au siècle de Louis XIV
@@ -3664,12 +3664,12 @@ Trésor de la Langue Française
 AbasÀ bas. *Mettre à bas, être à bas* : abattre, être abattu. (TLFi, Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).V. 316, 1545Abord« Aproche, arrivée. » (Richelet). « Se dit aussi d'une attaque d'ennemis, soit par mer, soit par terre. L'*abord* des François est à craindre, on ne peut soûtenir leur premier *abord. l'abord* fut rude quand on eut accroché le vaisseau. » (Furetière).Prologue, v. 75 ; pièce, v. 894, 1203Adresser« Diriger. » (Huguet).V. 1179Appareil« Ce qu'on prepare pour faire une chose plus ou moins solemnelle. » (Furetière). « Apprest, préparatif, attirail et pompe. *Grand appareil. appareil extraordinaire. appareil lugubre. appareil de guerre. on fait de grands appareils pour son entrée. il a fait son entrée dans un magnifique appareil.* » (*Dictionnaire de l'Académie françoise*, deuxième édition, 1718).V. 1338« Objet préparé pour une destination spéciale, réunion, agencement d'ustensiles, de choses se combinant entre elles placées, disposées, mises en certain ordre dans un but auquel elles doivent concourir ensemble » (Godefroy). Godefroy donne l'exemple suivant : « Quant li vilains se fud disné, / As chans revait son labor faire; / Mais donc out mult dol e contraire / Quant ne trova ses *apareilz*. (BEN., *D. de Norm.*, II, 7195, Michel.) » Le TLFi cite cet exemple de Godefroy pour illustrer ce sens puis écrit : « repris début XIX*e* s. 1805 (*Lunier*, *Dict. des sc. et des arts* : *Appareil*, en physique, est une collection de machines ou instruments nécessaires pour faire une suite d'expériences sur une matière déterminée) » (article « appareil », partie « Étymologie et Histoire »). Ainsi, le sens qui nous est peut-être le plus familier semble disparaître aux XVII*e* et XVIII*e* siècle avant de renaître de ses cendres au XIX*e* siècle : absent de Huguet, Estienne, Nicot, Cotgrave, Furetière et du *Dictionnaire de Trévoux*, il n'apparaît dans le dictionnaire de l'Académie qu'à partir de la sixième édition (1835).V. 1634Arresté« *Arresté*. Calme. » (Huguet).V. 569Attentat« Outrage ou violence qu'on tâche de faire à quelqu'un. On punit de mort cruelle les *attentats* contre les personnes sacrées. il ne s'est pas trouvé coupable de meurtre, mais d'un simple *attentat* sans execution, le cas est remissible. » (Furetière). « Entreprise contre les loix. *Enorme attentat. horrible attentat. c'est un attentat. faire un attentat. commettre un attentat. un attentat contre la liberté publique. empescher l'execution d'un arrest, c'est un attentat. le Parlement a cassé toute la procedure, et tout ce qui s'en est ensuivi, comme un attentat.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 19, 339, 841, 1305AuthoriserSignifie en premier lieu, dans un sens aujourd'hui vieilli : « Domaine *admin., jur., pol.*, etc. Donner un pouvoir légitime, de l'autorité (à qqn, qqc.). (Quasi-) synon. *accréditer, légaliser, légitimer*. » « *P. ext.*, domaine *moral, idéol.*, etc. Donner du poids, de l'influence (à quelqu'un, quelque chose). » (TLFi).Épître ; pièce, v. 104 ; sonnet pour la mêmeAvancerSpécialement : « Devancer, prévenir. » (La Curne). Ce sens est également présent dans Huguet, qui cite pour l'illustrer quatre exemples tirés de la traduction d'Héliodore par Jacques Amyot (1513-1593), *L'Histoire æthiopique*.V. 709Avanture« Accident, ce qui arrive inopinément. » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « Signifie aussi, Ce qui est au pouvoir du hasard, de la fortune. » (Furetière). Nous expliquons le vers 831 par la définition suivante : « Ce qui arrivera probablement (à qqn) dans l'ensemble de l'existence, succession probable d'événements généralement imprévisibles. (Quasi-) synon. *sort, destinée. La longue aventure de la vie* » (TLFi).V. 5, 703, 787, 831Balancer, balance« Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. Le Juge a longtemps *balancé* les raisons de ces parties. il y avoit longtemps qu'il *balançoit* s'il se marieroit ou non. les Juges étoient partagés, et cette affaire a esté long-temps *balancée*. » « On dit aussi pendant un combat opiniastre entre deux armées, que la victoire est en *balance*, en suspens, qu'elle ne sçait pour quel parti se declarer. » (Furetière).V. 221, 923, 997, 1401, 1553(Se) bander« Avec le pronom personnel, signifie, Se liguer, s'unir plusieurs bandes de personnes ensemble pour s'opposer à quelque dessein. Tous les Seigneurs du Parlement d'Angleterre s'étoient alors *bandez* contre le Roy. » (Furetière).V. 1023, 1484Bande« Signifie encore, une trouppe de plusieurs personnes associées ensemble pour un même dessein. » ; « se disoit autrefois des trouppes, des gens de guerre; mais il n'est demeuré en usage qu'en cette phrase, le Prevost des *Bandes*, pour dire, le Juge des soldats du regiment des Gardes. » (Furetière).Prologue, v. 43 ; pièce, v. 1094Chacun« *Un chascun* (pronom). Chacun, tout le monde. » (Huguet). « XII*e* s. *un chacun* (*Sermons St Grégoire sur Ezechiel*, 20, 30 *ibid*.), surtout en usage au XVI*e* s. (*Hug*.), loc. considérée comme basse par *Fur*. 1690. » (TLFi, partie « Étymologie et Histoire » de l'article « chacun »).V. 437ChangeEmployé comme substantif, le mot signifie « changement » (Huguet, Cotgrave, Richelet, *Dictionnaire de Trévoux*). Dans Richelet et le *Dictionnaire de Trévoux*, il est préféré en poésie plutôt qu'en prose.V. 46Charme, charmerNe pas oublier la dimension magique du mot, qui en fait un terme fort et peut le rapprocher de l'enchantement ou du sortilège.Prologue, v. 13, 126 ; pièce, v. 129, 182, 224, 1117Choquer1°) « Heurter avec violence. … les armées se sont *choquées* avec grande ardeur, si-tost qu'elles ont été en presence. » 2°) « Signifie figurément, Quereller, offencer. » 3°) « Signifie encore, Blesser legerement. » (Furetière).V. 232, 612Coeur« Signifie quelquefois, Vigueur, force, *courage*, intrepidité. Cet homme a un *cœur* de lion, n'a rien de bas dans le *cœur*, a le *cœur* haut, noble. il a le *cœur* bien placé. la naissance hausse le *cœur*, enfle le *cœur* des Gentilshommes. on ne sçauroit trop mépriser les gens sans *cœur* et sans foy. » (Furetière ; nous soulignons en caractères gras). [337]V. 60, 433, 538, 606, 870, 922, 1197Connoistre / cognoistrePour un verbe aussi important, la démarche la plus sûre semble être de partir d'un dictionnaire structuré et donc (car c'est le meilleur) du TLF. Dans sa longue entrée CONNAÎTRE, on relève deux emplois, vieilli ou vieux. [338] Ceux-ci permettent de lever toutes les ambiguïtés que l'on rencontre dans la pièce.1°) L'emploi *vieilli* (ou *littéraire*) : « Reconnaître la marque de quelqu'un ou de quelque chose. » (prologue, v. 20 : les attributs de la Renommée sont évoqués d'abord négativement ; s'ils n'étaient pas cachés, on la reconnaîtrait alors).2°) L'emploi *vieux* (ou *littéraire*) : « *Connaître qqc., connaître que* + ind. … - *P. ext.* Se rendre compte (de) ; avoir la révélation que. Synon. emphatique de *savoir*. » (pièce, v. 121, 338, 387, 416, 975, 1079, 1319, 1625). Ainsi ce dernier sens a ceci de particulier par rapport à l'emploi usuel que « connaître » est alors une véritable action, strictement concomitante au moment évoqué, et non plus un état de connaissance tributaire du passé. Sur ce point, il se rapproche de l'emploi vieilli 1°).La forme en -GN- (« (re) cognoistre ») apparaît six fois, dans les cahiers A, M et N ; la forme en -NN- (« (re) connoistre ») onze fois, dans les cahiers B, D, F, G, H, I et L : il n'y a pas de concurrence au sein d'un même cahier. Il est donc probable qu'il s'agisse là d'un fait d'imprimeurs. « Noter la graph. étymol. (sur le lat. class.) *cognoistre* ds Ac. 1694 (en tant que vedette de renvoi à *connoistre*) et avec ses dér. : *cognoissance, cognoissant, cognoissement* ds *Ac. Compl.* 1842 qui note également le part. passé *cognu* et *Lar. 19e* (à titre hist.). » (TLFi).Prologue, v. 20 ; pièce, v. 121, 338, 387, 416, 975, 1079, 1319, 1625ConseilSpécialement : résolution (Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).V. 269ContraireNous laissons de côté l'adjectif, dont l'emploi est resté relativement stable durant les siècles qui nous séparent de notre œuvre, pour nous intéresser au substantif, dont l'emploi a évolué et semble s'être affaibli pour se réduire à un sens logique (comme dans « dire le contraire »). C'est déjà le cas dans le Furetière. En outre, s'il en reste des traces dans un emploi de l'adjectif que le TLFi note usuel et littéraire, la dimension d'hostilité s'efface dans le substantif. [339] Ceci, appuyé des définitions (exhaustives) suivantes, permet une mise au point sur la locution « au contraire ». On comprendra mieux la construction du vers 1491 et l'on ne sera dès lors plus tenté de voir une substantivation hardie ou une ellipse (« party » sous-entendu, par exemple).Godefroy :1°) « CONTRAIRE 2., s.m. chose qu'on fait en retour ou en représailles d'une autre … Opposition, contrariété, affliction, toute chose fâcheuse et nuisible ».2°) « CONTRAIRE, s.m. Compl. chose contraire …*Aller au contraire*, loc. Compl. s'opposer ».Huguet :« Contraire (subst.). Adversaire, ennemi, rival. …*Au contraire*. D'une façon contraire, opposée. … En sens contraire, tendant vers le contraire. … Faisant opposition, hostile. »Richelet distingue deux adverbes :1°) « *Au contraire, adv.* Au préjudice. Elle cassa tous les actes rendus au contraire. *Maucroix Schisme. l. 2.* »2°) « *Au contraire, adv.* Bien loin de cela. »La distinction n'est plus aussi nette dans le *Dictionnaire de l'Académie françoise*, première édition, 1694, où le substantif n'est par ailleurs pas mentionné (article « contre ») :« AU CONTRAIRE. adv. Tout autrement, d'une maniere opposée. *Vous dites que cela arriva de la sorte, au contraire il arriva que etc. tant s'en faut que cela soit ainsi, qu'au contraire. vous faites tout au contraire de ce que l'on vous dit. il destruit la Religion, bien au contraire de ses ancestres qui l'ont soustenuë.* / On dit, *Aller au contraire d'une chose*, pour dire, S'y opposer, y contredire. *On en demeure d'accord, personne ne va au contraire. allez vous au contraire de cela* ? »V. 1491Courier« Postillon qui fait mestier de courir la poste, de porter des dépesches en diligence. … Se dit aussi de tous ceux qui courent la poste, soit pour leur plaisir, soit pour leurs affaires, encore qu'ils soient de condition. » (Furetière).Prologue, v. 121Crayon« Se dit figurément des descriptions qu'on fait par le discours, soit des personnes, soit des choses. Il a fait un leger *crayon* de cet homme, qui suffit pour le reconnoistre. Il nous a fait le *crayon* de cette bataille, de ce campement. » (Furetière).V. 404DedansVoir l'entrée DESSUS.Def(f)aire« Il signifie aussi, Faire mourir. *Cette malheureuse a deffait son fruit, son enfant. on a deffait aujourd'huy trois hommes à la Greve. se deffaire soy-mesme.* / *Deffaire*, en parlant de Troupes de gens de guerre, signifie Mettre en desroute, Tailler en pieces. *On deffit les ennemis à platte couture. aprés avoir deffait les ennemis.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694).Prologue, v. 159 : pièce, v. 488, 1172, 1515, 1576Deüeil« Douleur qu'on sent dans le cœur pour quelque perte ou accident, ou la mort de quelque personne chere. », « accident » étant à prendre au sens de « Hasard, coup de fortune. » (définitions de Furetière).V. 665Démon« Esprit bon ou mauvais qui préside aux destinées de l'individu, de la communauté » (TLFi). « Le spectre qui apparut à Cassius étoit un mauvais Demon qui l'épouvanta. » (Furetière). Voir l'entrée GENIE.V. 507, 535, 1627Dépiter« Mépriser, dédaigner, braver: … Les Cireniens enragez, / Un jour en bataille rangez, / *Despitoient* le ciel et le foudre, / Voulans arracher le soleil. (D'AUBIGNÉ, *Trag.*, Préf., Bibl. elz.) Cette signification se retrouve encore chez Régnier et chez Malherbe; aujourd'hui *depiter* ne s'emploie plus que pour signifier causer du dépit à quelqu'un, et au réflechi, concevoir du dépit » (Godefroy). « Braver, défier. … Maudire. — Oudart renioit et despitoit les nopces. RABELAIS, IV, 15. — Despite moy tous les cieux, Despite moy tous leurs dieux, Autheurs de ton mal extreme. JODELLE, *Cleopatre*, V (I, 150). — Je maudy le destin contre moy conjuré; Je despite ma vie à souffrir condamnee. DESPORTES, *Elegies*, I, 14. » (Huguet). Ce sens est présent dans Godefroy, Huget et La Curne mais n'apparaît pas dans les dictionnaires des époques postérieures.V. 944Déraisonnable« Qui est contre la raison, le bon sens, la justice. » (Furetière).V. 815DeschasserChasser, expulser, bannir. En ce sens vieilli, on trouve le mot dans Godefroy, La Curne, Huguet, Estienne, Nicot, Cotgrave et Barré (1842). Ce dernier précise : « Il se trouve dans Montaigne et dans Rabelais. » Notons le préfixe « des » et sa valeur d'intensité.V. 1550Dessus, dessous, dedansVaugelas condamne l'emploi, qu'il constate courant et en prose et en vers, de prépositions composées (dessus, dessous, dedans, dehors) à la place des simples correspondantes (sur, sous, dans, hors). « Je dis que ce n'est pas escrire purement, que d'en user ainsi, et qu'il faut toujours dire, *sur la table, sous la table, dans la maison*, et *hors la ville*, ou *hors de la ville;* car tous deux sont bons, et non pas *dessus la table, dessous la table, etc.* *On le permet pourtant aux Poëtes, pour la commodité des vers, où une syllabe de plus ou de moins est de grand service;* Mais en prose, tous ceux qui ont quelque soin de la pureté du langage, ne diront jamais, *dessus une table*, ny *dessous une table;* non plus que *dedans la maison*, ou *dehors la maison.* Il semble que ces composés soient plustost adverbes que prepositions; car leur grand usage est à la fin des periodes, sans rien regir aprés eux, puis qu'ils terminent la période et le sens » [340]. Vaugelas donne trois exceptions bien précises (qui ne concernent pas les mots que nous avons marqués) avant de conclure : « Ces cas exceptez, il ne faut jamais employer ces composez, que comme adverbes, et se faut servir des autres, comme de prepositions. » (*Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 124-126). Richelet et le *Dictionnaire de l'Académie françoise* (première édition, 1694) suivent strictement Vaugelas [341] ; Furetière, lui, ne semble pas en tenir compte (voir notamment les articles « dessus » et « dessous »). Remarquons que l'emploi des formes composées est ici exclusivement prépositionnel. Certes, les formes simples sont 6, 5 [342] fois plus employées, mais les 23 occurrences de composées sont un fait significatif qui nous semble témoigner d'une possibilité : qu'il s'agisse là d'une affaire d'usage de l'auteur ou de style plus que de syllabe.Prologue, v. 83 ; pièce, v. 5, 83, 148, 474, 502, 572, 740, 868, 906, 943, 947, 985, 1026, 1053, 1199, 1252, 1482, 1564, 1579, 1617, 1643 ; stancesDeversDu côté de, vers. « *Devers*. marquant l'origine, le point de départ. » (Huguet). « Préposition qui a vielli, et qui tout au plus ne peut trouver sa place que dans le langage le plus-bas. En sa place on se sert de la préposition *vers. Vau. Rem.* » (Richelet). Furetière et le *Dictionnaire de l'Académie* (première édition, 1694) ne sont pas aussi sévères et n'évoquent ni le caractère « vieux » du mot ni son caractère « bas ». Pour le *Dictionnaire de l'Académie*, il faudra attendre la cinquième édition (1798) pour lire : « DEVERS a vieilli; aujourd'hui on emploie Vers. » D'ailleurs pour comprendre Richelet, il faut remonter à sa source, Vaugelas, dont le jugement est nuancé : « Cette preposition a tousjours esté en usage dans les bons Autheurs, par exemple, *il se tourna devers luy, cette ville est tournée devers l'Orient, devers le Midy*. Et ainsi des autres. Mais *depuis quelques temps ce mot a vieilli*, et nos modernes Escrivains ne s'en servent plus dans le beau langage. Ils disent tousjours *vers*, comme *se tournant vers luy, vers l'Orient, vers le Midy*. » (*Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 172 ; nous soulignons). Un demi-siècle plus tard, l'Académie fait publier ses *Remarques* accompagnées d'observations censées « rendre compte de l'usage present » (voir l'Avertissement) : « On ne dit plus il se tourna *devers luy*, ni *cette Ville est tournée devers l'Orient*, il saut dire *vers luy* et *vers l'Orient*. La préposition *devers* ne laisse pas d'avoir encore quelque usage, mais c'est quand elle veut dire *aux environs de* comme *il vient de devers Lyon*. » (*Observations de l'Académie françoise sur les Remarques de M. de Vaugelas*, Coignard, 1704, p. 195).V. 1324Discord« Desunion, dispute, querelle. Il est vieux et hors d'usage. » (Furetière). « DISCORD. s.m. Discorde. Il n'a d'usage qu'en vers, et ne se met guére qu'au pluriel. » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « *Discord* pour *discorde*, ne vaut rien en prose, mais il est bon en vers Exemple pris chez Malherbe. Les autres Poëtes en ont aussi usé et devant et apres luy. C'est un de ces mots, que l'on employe en vers et non pas en prose, dont le nombre n'est pas grand. … Quoy qu'il en soit, on ne s'en sert en prose que tres-rarement, y ayant quelque lieu, où peut-estre il pourrait trouver sa place. » (Vaugelas, *Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 496-457 [343]). On trouve l'orthographe « discort », apparemment archaïsante, dans le Godefroy. [344]Prologue, v. 91 ; pièce, v. 1662Donner« Absolument c'est, Commencer le combat, aller à l'assaut. » (Furetière).V. 164Empire« Se dit figurément en Morale, de la domination, du pouvoir qu'on a sur quelque chose. Il a beaucoup d'*empire* sur soy, sur ses passions, sur l'esprit de sa maîtresse. » (Furetière). Ce sens ne paraît pas vieilli dans les dictionnaires contemporains, comme le TLFi.V. 1368Encontre« Contre. » (Huguet). En tant que préposition, le mot est aussi présent dans Cotgrave mais absent de Nicot, Furetière et du *Dictionnaire de l'Académie françoise*, première édition, 1694.V. 485Ennui« Affliction, douleur, tristesse. » (Huguet). Le sens du mot s'est affaibli.V. 72, 1114, 1141, 1525Es« Mot fait par contraction de la préposition *En*, et de l'article pluriel *les*, pour signifier *Dans les.* Il n'a plus maintenant d'usage qu'en cette phrase, *Maistre és Arts*, et en quelques autres phrases qui sont purement du style de Pratique. » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « *Est tantost preposition locale, qui se donne au nombre plur. comme au singul. Mais le plus vsité et plus naturel au plur. est aux, comme, Il loge és forsbourgs*, In suburbiis habitat. *Dont le plus commun est aux forsbourgs.* » (Nicot). « Avant que la particule *és*, pour *aux*, fust bannie du beau langage, on disoit, *tomber és mains*, depuis on a dit, *tomber aux mains*, mais ny l'un ny l'autre ne valent rien, et il faut tousjours dire, *tomber entre les mains de quelqu'un*. L'usage moderne le veut ainsi. *Tomber és mains*, est particulierement de Normandie. » (Vaugelas, *Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 167).V. 728, 1476Eschet1°) « Eschet 1. Coup ( ?). — L'eschet de la tempeste tombe volontiers sur les plus hautes tours. BEROALDE DE VERVILLE, *le Moyen de parvenir, Sommaire* (I, 285). » ; 2°) « Eschet 2, Eschete, v. Eschec. », « Eschec. Prise, butin. … Carnage, destruction, ravage. » (Huguet).« Eschet: m. *An Escheat* [345], *or thing fallen to.* » (Cotgrave).« ESCHEC, se dit figurément en choses morales, d'un malheur ou de quelque perte qui donne atteinte aux biens, à la fortune, à l'honneur. Ce favori a receu un grand *eschec*, un vilain *eschec*. L'armée a receu un *eschec*, on luy a enlevé un quartier. » (Furetière).Le mot *échec* que nous connaissons, notamment dans le sens d'« insuccès » (le dernier sens que nous avons indiqué, avec Furetière), vient du jeu. « Le *c* final de *échec* est peut-être dû à un croisement de ce mot avec l'a. fr. *eschec* “butin” » (TLFi, partie « Étymologie et Histoire » de l'article « échec ») : il s'agit là du second sens signalé par Huguet. Ici, la difficulté est l'absence de *c* au profit d'un *t*. L'hypothèse d'un dérivé du verbe *eschoir* (*échoir* en français moderne) n'est dès lors pas exclue. Le sens de Cotgrave vient de là, mais n'est pas satisfaisant. Cependant, *échoir*, de la famille de *choir*, a notamment le sens de « qui advient, qui est dévolu par hasard » (TLFi), ce qui s'applique bien au premier sens donné par Huguet pour le mot *eschet*, à l'exemple singulier qui l'accompagne, et au mouvement que ce dernier décrit. De plus, une recherche du contexte de cette citation nous confirme qu'il est bien question d'un coup de fortune.V. 597Espris (de)« *Espris de.* Pris de, saisi par, en proie à. » ; mais aussi : « *Estre espris.* S'enflammer. » (Huguet). Ce dernier sens est dans La Curne mais disparaît des dictionnaires des époques postérieures.Prologue, v. 1Estomach1°) estomac ; 2°) poitrine. « Se dit abusivement de la partie exterieure du corps, qu'on appelle autrement le *sein*, la *poitrine*, et qui est au dessus de la ceinture. Les pecheurs se frappent l'*estomac* en signe de penitence. Quand on se confesse, on se frappe trois fois l'*estomac*, en disant *mea culpa*. » (Furetière). « Poitrine. … — Et si pouvoit on voir la plus grande partie de son estomac deschiré et meurtry. AMYOT, *Antoine*, 83. … Voila comment les armes receues par force et non cerchees ont esté tirees des estomacs offencez. AUBIGNÉ, *Debvoir des roys et des subjects*, 5 (II, 59). … De cette signification du mot *estomac*, il résulte qu'on place souvent le cœur dans l'estomac. … — Elle... ouvrit à ce meurtrier l'estomach: et tout chaudement de ses mains, fouillant et arrachant son cœur, le jetta manger aux chiens. MONTAIGNE, III, 1 (III, 254). » (Huguet).V. 769Estonnement, (s')estonnerLe mot « étonnement » a perdu de sa force. Étymologiquement lié au tonnerre, il signifiait : « Commotion, ébranlement, étourdissement. » ; employé figurément : « Ébranlement moral. » ; enfin : « Crainte, frayeur. » (Huguet). Dans notre pièce, c'est ce dernier sens qui prévaut. Furetière donne l'exemple suivant : « Les Tyrans n'ont point *estonné* les Martyrs, ils n'ont pû vaincre leur constance. » Toutefois, il faut garder cette image du tonnerre qui frappe, de telle sorte que le prologue, en employant le mot, peut ainsi rapprocher Louis XIII (« ce grand Roy », v. 8) de Jupiter portant le foudre.Prologue, v. 9 ; pièce, v. 665Faillir1°) « Pecher, manquer à son devoir. » 2°) « A aussi toutes les autres significations de manquer. » (Furetière).V. 1461Fier« Hautain, altier, audacieux. *Oeil fier. mine fiere. courage fier. humeur fiere. un esprit fier. beauté fiere. il se tient fier de ses amis, de ses richesses, de son credit.* Il sign. aussi, *Cruel, barbare. Un fier tyran. un fier ennemi.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 95, 862FoyFidélité, exactitude de la parole donnée, serment. Notamment, dans un contexte féodal, foi du vassal (v. 607, 1038, 1047). Voir Furetière.Pièce, v. 607, 1038, 1427 ; sonnet pour la mêmeFranchise, franc(he)« Signifie chez les Poëtes et les amants, *Liberté*. » (Furetière ; nous soulignons). Dans ce sens, être franc, c'est être libre.V. 444, 739, 1225Gen(s)darmes« *Gendarmes*, au pluriel. signifie quelquefois toutes sortes de gens de guerre, soit Infanterie, soit Cavalerie. » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 967, 1032Générosité, généreux« Grandeur d'ame, de courage, magnanimité, bravoure, liberalité, et toute autre qualité qui fait le genereux. » (Furetière). Signifie donc également noblesse, attachement à l'honneur. Marc Escola, dans son lexique d'*Horace* [346], cite Descartes : « être généreux, c'est “ne manquer jamais de volonté pour entreprendre et exécuter toutes les choses qu'on juge être les meilleures ; ce qui est suivre parfaitement la vertu” (Descartes, *Les Passions de l'âme*, 1649). »Prologue, v. 61 ; pièce, v. 43, 542, 873, 890, 1184, 1270, 1274, 1341, 1653, 1657Génie« Être surnaturel, esprit bon ou mauvais, inspirant une personne et influant sur sa destinée. » (TLFi). « Bon ou mauvais Demon que les Anciens croyoient accompagner les hommes illustres. Apulée a fait un Traitté du *Genie* de Socrate. » (Furetière). Voir l'entrée DEMON.V. 158Gésir« Vieux mot qui signifioit autrefois, Estre couché: maintenant il ne se dit que des morts qui sont dans le sepulcre. Cy *gist*, cy *gisent*: c'est le commencement des épitaphes. / On le dit au figuré du point où consiste la difficulté d'une affaire, d'une question. Tout le different de ces parties ne *gist* qu'à sçavoir l'usage de la Coûtume. » (Furetière). 1°) « Être couché, reposer, coucher, se coucher. » 2°) « Être situé, placé. » 3°) « Être placé, consister. » « *Gesir en, à*. Dépendre de. » (Huguet).V. 670, 1402GesneTorture, supplice, tourments (Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).V. 197Haut« On dit, qu'*Un cheval va par haut*, pour dire, qu'Il fait un manege eslevé, qu'*Un homme le prend bien haut*, pour dire, qu'Il parle, qu'il respond arrogamment, qu*'Il le porte haut, qu'il est haut à la main*, pour dire, qu'Il est altier, fier, audacieux. *Faire quelque chose haut à la main*, pour dire, Avec authorité, imperieusement. » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « Pris adverbialement, s'emploie dans certaines phrases figurées, telles que les suivantes: … *La fortune semblait ne l'avoir placé si haut, que pour rendre sa chute plus éclatante.* » (Académie française, sixième édition, 1835).V. 849Héros, héroïque« C'estoit chez les Anciens un grand et illustre personnage, qui quoy que de nature mortelle, passoit dans la creance des peuples pour estre participant de l'immortalité, et ils le mettoient au rang des Dieux aprés sa mort. Lucien definit un Heros, qui n'est ni Dieu ni homme, mais qui est tous les deux ensemble. » (Furetière). Le héros, incarnation de la vertu (idéal, valeur, force, courage ; voir notre entrée), est originairement un demi-dieu, ce sur quoi Furetière se focalise tout au long de son article.V. 244, 277, 313, 1077, 1391, 1439, 1448Heur1°) « Chance bonne ou mauvaise. » 2°) « Chance favorable, bonheur. » (Huguet). « Ce mot signifie *bon-heur*, mais il est bas, est peu usité et *se prononce sans faire sentir son h*. Je hai la solitude car elle pourroit me ravir *l'heur* de te voir et te servir. *S. Am.* » (Richelet). C'est le seul endroit où nous rencontrons ce jugement.V. 1303Heure*Dés l'heure* : alors, dès lors. *À l'heure* : à cette heure, maintenant, à cet instant, alors. Vaugelas note que la façon de parler qui fait dire *à l'heure* pour *alors* est au rang de celles qui « ne valent rien » et même, qu'elle est « bien basse » (*Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 228). On peut penser que son avis est le même concernant *dés l'heure* pour *dés lors*. Si l'on regarde dans le Furetière et le *Dictionnaire de l'Académie françoise*, première édition, 1694, on ne trouvera nulle part *à l'heure* pour *alors*. Et l'on ne trouvera qu'une seule occurrence de *dés l'heure* pour *dés lors* (incidemment, dans l'article « pasmer » de Furetière, qui cite *Les Visionnaires* de Jean Desmarets de Saint-Sorlin (1595-1676), comédie publiée en 1637).V. 335, 579HeureuxNe pas oublier la connotation charnelle : « *Rendre un homme heureux* le sujet désigne une femme courtisée. Lui accorder ses faveurs. » (TLFi).StancesHumilier« *Humilier, v.a.* Soumettre, rendre humble. Une Reine à mes piez se vient humilier, *Racine, Iphigenie, a. 2.* » (Richelet). « Humilier. Fléchir. … *S'humilier.* Se pencher. … *S'humilier à*. S'humilier devant. » (Huguet). « S'HUMILIER, se dit aussi de cet abbaissement volontaire qu'on fait devant quelqu'un, et sur tout devant la Majesté de Dieu. L'Evangile dit, qu'il faut prendre les moindres places dans les assemblées, parce que celuy qui s'*humiliera* sera eslevé. » (Furetière).V. 589Injurieux1°) Qui offense, outrage. 2°) Injuste. « INJURE. s.f. Parole qu'on dit pour offenser quelqu'un, en luy reprochant quelque defaut, ou quelque vice vray ou faux. … Ce mot vient du Latin *injuria. Quod fit citra jus, injuria est*. on appelle *injure*, ce qui se fait sans raison, contre les biens ou contre l'honneur d'une personne. » (Furetière). « INJURIEUX, EUSE, … On dit fig. et poëtiquement, *La fortune injurieuse. le sort, le destin injurieux*, pour dire, La fortune, le sort, le destin injuste. » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 959, 1523, 1609IntermisInterrompu. On ne trouve le verbe « intermettre » que dans Godefroy, Huguet, Nicot, Cotgrave et Barré [347]. Ce qui laisse supposer qu'il a vieilli au moment où Guérin de Bouscal écrit.V. 1229LieutenanceUn lieutenant est un « officier qui tient le lieu d'un Superieur, qui exerce une charge en son absence, ou qu'il devroit exercer luy-même » (Furetière). La lieutenance est la charge de lieutenant. Ainsi, vers vingt-six, il n'est pas un homme qui puisse gouverner Rome au nom ou en lieu et place des Dieux.V. 26Lys« Lis, se prend aussi simplement pour la fleur du lis. *Cueillir des lis. la pureté des lis. blanc comme un lis. plus blanc que les lis.* le lis est le symbole de la virginité, de la candeur, de l'innocence, de la pureté. / On dit fig. *Un teint de lis. un teint de lis et de roses*, pour dire, Un teint extremement blanc, un teint blanc et vermeil. Et poëtiquement. *Les lis de son teint, de son visage. le temps flestrira ces lis et ces roses.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694). Voir l'entrée ROSES.V. 1619MaistresseFemme aimée. Le TLFi, dans la partie « Étymologie et Histoire » de l'article « maîtresse », donne cette citation : « XIII*e* s. date du ms. « fille ou femme aimée de quelqu'un, ainsi nommée à cause de l'empire qu'elle exerce sur l'homme qui l'aime » (*Guillaume Le Vinier*, *Poésies*, éd. Ph. Ménard, p. 77, 24) ».V. 1180Métamorphose« On s'en sert dans le fig. pour exprimer un changement extraordinaire dans les affaires publiques, ou dans la fortune et les mœurs des particuliers. » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 592, 1027, 1628Meurtrir« Ce mot signifioit autrefois *tuer*, aussi bien qu'occire, qui ne se disent plus. » (Furetière). Il faut croire que ce mot n'eût pas déplu à Vaugelas, qui l'a employé en ce sens dans sa traduction de Quinte-Curce. [348] Il faut dire que le dictionnaire de Furetière paraît bien plus tard. Nous ne comptons pas cet emploi au nombre des archaïsmes.V. 353, 1306Murmurer« Parler sourdement, ou incertainement, se plaindre tout bas et avec timidité. Le peuple *murmure* ordinairement contre les Puissances. On n'ose pas parler ouvertement de cette affaire, mais on en *murmure*; on tient que nos trouppes ont esté deffaites, on en *murmure*; on en attend des nouvelles plus certaines. » (Furetière).V. 835, 1277Nef« Navire. En ce sens il n'a plus guere d'usage qu'en poësie. » (*Dictionnaire de l'Académie françoise*, première édition, 1694).Prologue, v. 71Neveu(x)« Au pluriel, se dit de tous les hommes qui viendront aprés nous, de la posterité. » (Furetière).V. 544ObjetÀ côté des sens toujours usuels, on note celui de « personne aimée ». Il se dit « dans le langage amoureux » (Huguet), « poëtiquement » (Furetière et le *Dictionnaire de l'Académie françoise*, première édition, 1694).Pièce, v. 1471 ; sonnet pour la même ; stancesOfficieux« Prompt à rendre service, office, courtoisie. » (Furetière).V. 1355, 1593OreGodefroy, donne à cet adverbe la signification général de « maintenant ». Et il ajoute : « Ore... ore, tantôt... tantôt: Rossignol amoureux, qui dans cette ramee / *Ore* haut, *ore* bas, atrempant ton chanter... (BAIF, *Poés. chois.*, p. 122, Becq de Fouquières.) » On trouve également dans le Huguet le balancement « ore(s)... ore(s) » dans le sens de « tantôt... tantôt », ainsi que dans le TLFi comme archaïsme, mais nulle part ailleurs.V. 576Paresse« Faineantise, nonchalance, negligence des choses qui sont de devoir, d'obligation. » (Furetière). « Nonchalance. Négligence. Lenteur blamâble. » (Richelet). Chez les chrétiens, c'est un des sept péchés capitaux.V. 799Parque« Déêsse qui à ce que content les Poëtes preside à la vie. Il y a trois parques Cloton, Lachesis, Atropos. L'une tire le fil de nos jours, l'autre tourne le fuseau, et l'autre coupe la trame. » (Richelet). Ici, c'est avant tout Atropos qui est convoquée.V. 807, 827, 959, 1434Patron« Se dit aussi d'un modele, de l'idée que nous nous proposons d'imiter. » (Furetière).V. 255Pesle et meslePêle-mêle (voir Godefroy et Huguet), c'est-à-dire « dans le plus grand désordre, dans une grande confusion » (TLFi).V. 656PoudrePoussière (Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).Prologue, v. 160 ; pièce, v. 647, 841, 943Presse« Foule, multitude de personnes qui se pressent. » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « Se dit figurément en Morale, en parlant des choses fâcheuses ou dangereuses. Ce brave s'étoit engagé trop avant dans la meslée, son ami est venu qui l'a tiré de la *presse*. » (Furetière).V. 659, 1195PrévénirPrécéder, devancer.V. 1320, 1339Race« On dit poëtiquement. *La race future, les races futures, les races à venir*, pour dire, Tous les hommes à venir. » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 1412Raison« *Avoir sa raison, avoir la raison.* Obtenir satisfaction. — Antonius fut contraint d'appeller devant les tribuns du peuple à Rome, alleguant, pour donner couleur à son appel, qu'il ne pouvoit avoir sa raison en plaidant dedans la Grece contre les Grecs. AMYOT, *César*, 4. / Tirer vengeance. — Celuy là qui s'est veu d'un mot injurieux Outrager mille fois par quelque audacieux. S'il n'en a sa raison, n'est ce pas une beste ? CORNU, p. 65. — Ce brave me pensoit si failli de courage De souffrir m'estre fait un si vilain outrage Et ne m'en ressentir, n'avoir point la raison D'une si detestable et lasche trahison. GARNIER, *Juifves*, 209. » (Huguet). Ailleurs, on ne trouve l'expression « avoir sa raison » que dans Godefroy et La Curne, qui citent le même exemple ancien. Elle est donc vraisemblablement vieillie. On trouve quelques occurrences de l'expression « avoir raison de » dans Furetière et dans les premières éditions du *Dictionnaire de l'Académie françoise*.V. 818RencontreCe substantif est exclusivement masculin dans notre pièce et renvoie au sens suivant : « Il signifie aussi, le choc de deux armées qui se fait ordinairement par hazard. *Il y eut une sanglante rencontre des deux avantgardes, qui engagea ensuite un combat general.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694). Dans Huguet, ce sens se réduit à l'emploi masculin et recouvre la grande majorité des exemples alors donnés. Pour le TLFi, il est le plus ancien : « 1234 subst. masc. « action de combattre » (*Huon de Méry*, *Antéchrist*, 927 ds T.-L.), au masc., dans les différents sens, jusqu'au XVII*e* s. » (partie « Étymologie et Histoire » de l'article « rencontre »). Vaugelas préconise le féminin quel que soit le sens (*Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 19). Si le genre masculin ne semble pas se réduire pas au sens guerrier à l'époque de Guérin de Bouscal, nous formons l'hypothèse que la confluence du sens guerrier et du genre masculin connotent un état de la langue antérieur.V. 559, 997Ressentiment1°) Fait de ressentir, sensation ou sentiment ; 2°) « Fait de ressentir un mal, un dommage. » ; 3°) « Reconnaissance, acte de reconnaissance. » ; 4°) « Sentiment, notion, idée. » ; 5°) « Souvenir. » (Huguet). Nous marquons le premier sens, qui n'est plus représenté dans Furetière ou dans la première édition du *Dictionnaire de l'Académie françoise* (1694) [349], apparemment hors d'usage. Notons qu'il est dans le Cotgrave (1611) : *A full tast, a true feeling, a sensible apprehension, of.* Au vers 98, il se superpose avec le sens qui nous est familier.V. 98, 1115Roses« Se dit figurément en choses morales, de ce qui est doux et agreable. … On dit pour bien louër une femme, qu'elle a un teint de lis et de *roses*; que sa bouche est une *rose* vermeille, un bouton de *rose*. » (Furetière). Voir l'entrée LYS.V. 222SaisonMoment opportun (Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).V. 271, 1282, 1554Saouler1°) Rassasier avec excès. 2°) Enivrer. « On dit fig. *Soûler ses yeux de sang, de carnage*, pour dire, Prendre plaisir à voir respandre le sang. » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « Se dit aussi de ce qui remplit les autres organes des sens, et même l'esprit. » (Furetière).V. 1436Saut« *Saut*, sign.quelquefois, *Chute. Tomber d'un troisiéme estage, c'est un terrible saut.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « *Saut*. Chute. … *Prendre le saut*. Faire une chute, tomber. … *Recevoir un saut*. Se blesser en tombant. … *Faire le saut*. Être maltraité, tué. … *Faire le saut naturel*. Mourir. … *Donner le saut, un saut à*. Faire tomber, renverser. … Comme ils pensoient estre au sommet de leur grandeur, voila que vous leur donnez le saut et les precipitez en un abysme de misere. DU VAIR, *Medit. sur sept. Ps. de la Consolat., Ps. 72.* … Faire mourir, tuer. … Attaquer, tuer. » (Huguet).V. 850Semence(s)« Se dit figurément en Morale, de la cause des guerres, des dissentions, des procés. » (Furetière).V. 1192Soin(g)« Se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l'ame. Le mauvais état de sa fortune luy donne bien des *soins* et du chagrin. Vous luy parlez de s'aller divertir, il a des *soins* plus importans qui l'agitent. Les Prelats ont le *soin* des ames qui les inquiete. » (Furetière).V. 56SoucyÀ côté des sens toujours usuels, on note : « 3. a) fin XIV*e* s. « préoccupation, inquiétude amoureuse » … ; 1*re* moit. XV*e* s. ms. *estre en grant soussi de cuer* (*Froissart*, *Chron.*, I, éd. S. Luce, § 168, leçon ms. d'Amiens, t. 2, p. 368) ; b) av. 1577 « objet de préoccupation amoureuse » (*R. Belleau*, *Eglogues sacrées*, I ds *Œuvres*, éd. Ch. Marty-Laveaux, t. 2, p. 302: Avance toy, mon Cœur, et vien choisir ta place Pres de moy, mon *souci*) ; av. 1589 (*A. de Baïf*, *Églogues*, VII ds *Œuvres*, éd. Ch. Marty-Laveaux, t. 3, p. 41: Muses, mon cher *soucy*) ; » (TLFi, partie « Étymologie et Histoire » de l'article « souci »). Présent dans le Godefroy, qui donne la même citation de Rémy Belleau, l'emploi amoureux disparaît dans les dictionnaires du XVII*e* siècle (Cotgrave, Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).V. 239, 247, 1153, 1182, 1500Soudain queOn ne trouve guère cette locution conjonctive que dans Godefroy, dans le Dictionnaire du Moyen Français (ATILF) ou dans Huguet (« *Soudain que.* Aussitôt que. ») ; elle est manifestement vieillie à l'époque de notre auteur. Les exemples donnés se trouvent chez Rabelais et Etienne Dolet (1509-1546).V. 655, 911Succez« Reüssite, issuë d'une affaire. Il se dit en bonne et en mauvaise part. » (Furetière).V. 393, 523Superbe« Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy-même. » (Furetière).V. 1091Sus« Formule d'exhortation ou d'excitation » (TLFi), au moment de l'attaque (v. 257, 373), du suicide (v. 735, 825) et peut-être, dans le cas du vers 257, de l'attaque comme suicide. Pierre Gassendi, résumant la doctrine d'Épicure, donne une belle illustration du moment du suicide : « Quoiqu'il y ait plusieurs cas qui pourraient nous faire renoncer à la vie et nous engager à ne pas attendre qu'un cas fortuit vienne nous en enlever la liberté, nous ne devons rien entreprendre à ce sujet sans méditation, sans calme et surtout sans opportunité. *Mais, lorsque le moment tant désiré sera arrivé, oh ! alors, plus d'hésitation* ! Celui qui veut faire ce grand pas ne doit pas douter de trouver son salut au milieu même des situations les plus difficiles, pourvu toujours qu'il ne se hâte pas trop et qu'il sache s'y prendre à temps. » [350] L'exclamation est alors amenée par une interjection marquant le paroxysme, doublée d'un commandement, et qui est l'équivalent même de « sus » dans notre pièce. Ici, la formule est toujours renforcée par « donc ». D'après le TLFi, elle est obtenue par ellipse de l'expression « courir sus à ». [351] Or Vaugelas a écrit une remarque sur « courir sus », témoignant que : « Cette façon de parler soit dans le propre, ou dans le figuré estoit fort élégante du temps de M. Coe ffeteau qui en use souvent, mais aujourd'huy *elle commence à vieillir*. Nous avons pourtant quelques uns de nos Autheurs modernes, et des meilleurs qui s'en servent encore. » (Vaugelas, *Remarques sur la langue françoise*, Camusat et Le Petit, 1647, p. 434 ; nous soulignons).V. 257, 373, 735, 825Tempérament« 1°) Mélange. … 2°) Composition. … 3°) Assaisonnement. … 4°) Règle. — C'est l'unique sagesse Qui de tous autres biens est le temperament, La fontaine, l'outil, la guide et l'ornement. DU BARTAS, 2*e* *Sem., Magnificence*, p. 371. 5°) Modération, juste mesure. — Platon fut le medecin qui guerit le malade par contraires excessifs: et Aristote le conservateur de la santé, ja recouverte par l'ayde de Platon, avec l'usage du temperament et regime moderé. TYARD, tr. Hebrieu, *Dial.* III, p. 319. 6°) Qualité de ce qui est tempéré. » (Huguet).« 1°) Complexion, habitude ordinaire du corps de l'homme, sa constitution naturelle, la disposition de ses humeurs. Il y a des gens d'un *temperament* robuste et violent, qui sont bons pour la guerre; d'autres d'un *temperament* doux et delicat, qui sont propres pour l'Eglise. En Medecine on appelle aussi *temperament*, le meslange et l'harmonie des quatre simples qualités elementaires. … 2°) Se dit aussi figurément en choses morales, d'un adoucissement, d'une voye mitoyenne qu'on trouve dans les affaires pour accorder des parties. … 3°) En termes de Musique, se dit de l'alteration que l'on fait des intervalles, tant à l'égard des consonances que des dissonances, pour les rendre plus justes sur certains instruments. » (Furetière).Le TLFi donne le sens vieilli de « Mesure dans la conduite; *p. méton.*, solution mesurée apportée pour régler un différend. », qui correspond à Huguet 5°) et Furetière 2°), Huguet 5°) convenant au sens général et Furetière 2°) au métonymique. Ainsi préférera-t-on le Huguet pour expliquer le vers 1127 : on retiendra les sens 4°) de *règle* (absent du Furetière et du TLFi) et 5°) de *mesure dans la conduite, de modération*.V. 1127Tempeste« Se dit figurément en choses morales, des troubles, des persecutions qui se font ou contre le general, ou contre le particulier. Voilà une grosse armée qu'on leve, on ne sçait où viendra fondre la *tempeste*; il sera difficile de conjurer cette *tempeste*. Il s'est élevé une grande *tempeste* contre cet Auteur. Il s'est mis dans un Couvent à l'abri de la *tempeste*. » (Furetière).V. 1495TonnerrePar métonymie, le tonnerre, manifestation sonore de la foudre, désigne la foudre elle-même, dans un sens usuel au XVII*e* siècle (Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694), aujourd'hui vieilli (TLFi).V. 406, 879, 1059, 1244Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (Furetière).V. 1129, 1603TravauxÉpreuves. « Se dit au plurier des actions, de la vie d'une personne, et particulierement des gens heroïques » (Furetière).TraverserFaire obstacle, entraver, empêcher (Furetière, *Dictionnaire de l'Académie françoise*, première édition, 1694).V. 269, 1459Trébucher« Faire un faux pas, tomber en faisant un faux pas. *Il ne faisoit pas un pas sans trebucher. une pierre le fit trebucher.* / Il signifie aussi quelquefois simplement Tomber. *Le pont fondit sous leurs pieds, et ils trebucherent dans la riviere.* En ce sens on dit fig. *Trebucher du faiste des grandeurs.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 1426Trespas(ser)« TREPASSER. v.n. … n'a guere d'usage dans le discours ordinaire. » « TREPAS. s.m. La mort naturelle de l'homme. … En poësie il se prend pour quelque mort que ce soit. Ainsi on dit poëtiquement, *Les horreurs du trépas. affronter le trépas. mépriser le trépas. un trépas glorieux.* » (*Dictionnaire de l'Académie françoise*, première édition, 1694). « Mort, passage de cette vie à une autre. Il ne se dit que de l'homme. Il est allé de vie à *trepas*. … Ce mot est plus en usage chez les Poëtes, que chez les Orateurs, à cause du beau son et de la rime à *appas*, et *combats*, avec lesquels ils le joignent souvent. » (Furetière).Pièce, v. 195, 199, 203, 213, 458, 626, 709, 722, 730, 825, 861, 865, 972, 1001, 1190, 1381, 1424, 1454, 1509 ; stancesTriomphe« Ceremonie ou solemnité qu'on pratiquoit autrefois à Rome pour faire honneur à un victorieux, en luy faisant une entrée magnifique. Le Senat decernoit les honneurs du *triomphe* à ceux qui avoient conquis une Province, ou gagné quelque grande bataille. On menoit les Rois en *triomphe*, leurs dépouilles étoient étalées en *triomphe*, suivoient le char de *triomphe*. » (Furetière). Y a-t-il substantivation de l'adjectif verbal au vers 1574 ? On ne trouve guère le substantif « triomphant » que dans le *Dictionnaire du Moyen Français* ou dans le Godefroy, qui le mentionne comme « ancien ». Néanmoins, à côté de Jean de Bueil (1406-1477), Godefroy cite *Les Tragiques* d'Agrippa d'Aubigné (1552-1630), œuvre tardive et relativement proche dans le temps de Guérin de Bouscal. Qu'il y ait ici une tendance archaïsante ou non, « triomphant » a été préféré au nom « triomphateur », dont l'usage n'est aucunement problématique. La nuance est fine. Entre « triomphateurs » et « triomphans », l'on peut voir un déplacement de point de vue, de l'agent (suffixe -(at) eur) vers l'action.V. 290, 1574VertuL'article du TLFi recoupe (et ce, dans une forme plus rigoureuse) les principaux sens du Furetière et du *Dictionnaire de l'Académie françoise* (première édition, 1694). On peut donc repartir de sa structure : « *Vieilli*. Courage physique ou moral; force d'âme, vaillance. *Mâle vertu; vertu romaine*. »Prologue, v. 168 ; pièce, v. 40, 248, 250, 297, 432, 470, 890, 1222, 1325, 1519« *Absol*. Avec l'art. déf. Disposition habituelle, comportement permanent, force avec laquelle l'individu se porte volontairement vers le bien, vers son devoir, se conforme à un idéal moral, religieux, en dépit des obstacles qu'il rencontre. *Amour, triomphe de la vertu; aimer, appeler, pratiquer la vertu; croître, grandir en vertu; le vice et la vertu*. »Prologue, v. 150, v. 168 ; pièce, v. 432, 1222, 1325, 1519, 1666.« Exercice de la vertu; la vertu telle qu'elle apparaît dans son expression, sa réalisation. *Vertu angélique, austère; paré de toutes les vertus*. »α − « *Vertu* + adj. ou déterm. indiquant le domaine, l'espèce d'actes auxquels elle s'applique. *Vertus chrétiennes, civiles, privées, morales, sociales. Vertus cardinales*. … *Vertus théologales*⁎. »β− « *En partic., vieilli* ou *plais.* À propos d'une femme Retenue, chasteté; fidélité conjugale. … *La chasteté, pour la femme, est synonyme de vertu, comme pour l'homme la justice et le courage, car le milieu de l'homme est la cité, le milieu de la femme est la famille* (Ménard, *Rêv. païen*, 1876, p. 113). »Pièce, v. 173, 1519 ; stances.4. « *P. ext.* Qualité morale. *Vertus civiques, domestiques, militaires. »*Prologue, v. 54, 103, 168 ; pièce v. 219, 236, 890, 1100 ; stances.« *Vieilli* ou *littér.* Propriété d'un corps, de quelque chose à quoi on attribue des effets positifs. *Vertus d'une plante; remède sans vertu; avoir des vertus; connaître la/les vertu(s) de.* »« Domaine *abstr*. Pouvoir, propriété. *Vertu d'un dialogue*. »La différence notable tient au fait qu'au XVII*e* siècle les sens vieillis ne l'étaient pas.Ce mot est difficile. En effet, il n'est pas rare qu'une de ses occurrences revête plus d'un sens décrit plus haut. Et pour cause, la *virtus*, originellement force physique, virile, puis courage moral, a été tirée du côté d'une droiture toute stoïcienne. Ainsi les sens A. 1. et A. 2. tendent-ils souvent à se confondre. Lorsque, selon Dion Cassius, Brutus invoque au moment de mourir la Vertu comme victime de la Fortune, [352] cette vertu relève du sens A. 2 ; mais, dans notre pièce, même lorsqu'elle est liée à la fortune, au destin ou aux dieux, la vertu est souvent rapprochée du courage (v. 432, 1222, 1325) ou même de la qualité morale de l'individu (prologue, v. 168). Ainsi les allusions à cette fin de Brutus ne déterminent pas strictement le sens du mot. Du côté féminin, la vertu a longtemps été considérée sous son rapport avec à la chasteté et la fidélité : ainsi Porcie, l'épouse inconditionnelle de Brute, peut-elle réunir trois sens au vers 1519 (A. 1., 2. et 3. β). Quant au sens A. 4., il dérive de ceux qui le précèdent et peut donc s'accompagner de connotations. Cette complexité est la raison pour laquelle, bien que nous ayons de manière générale ciblé le sens qui s'impose, nous avons parfois choisi de ne pas décider, ou plus exactement de proposer un choix multiple. C'est également la raison pour laquelle nous avons pris le parti de marquer toutes les occurrences : ainsi le lecteur aura la possibilité de revenir sur le choix, mais surtout sera amené à se rappeler l'arrière-plan que peut cacher un sens jugé évident.Visage« On dit aussi, tourner *visage*, pour dire, s'enfuir, ou retourner au combat, ou même changer de party. » (Furetière). « On dit, *Tourner visage aux ennemis*, pour dire, *Se tourner vers les ennemis pour les combattre*. » (*Dictionnaire de l'Académie françoise*, première édition, 1694).V. 699
 
 
-# L'archaïsme dans La Mort de Brute et de Porcie : annexe au lexique
+# L'archaïsme dans La Mort de Brute et de Porcie : annexe au lexique.
 
 Guérin de Bouscal est un auteur peu connu du début du XVII*e* siècle, originaire du Languedoc. Selon les recherches de M. Caldicott pour son décès et les nôtres pour son baptême, notre auteur serait né en janvier 1617 et décédé le 31 décembre 1675 à Réalmont, actuellement dans le Tarn. Issu d'une famille de notaires protestants, il a été lieutenant de Réalmont et conseiller du roi. Ce qui focalise l'attention de l'histoire littéraire, ce sont ses liens avec Molière, qui était lui aussi dans le Languedoc dans les années 1650 et dont la troupe a joué *Le Gouvernement de Sancho Pansa*, comédie de Guérin de Bouscal sur le thème du Don Quichotte. [353] L'œuvre qui nous intéresse est une tragédie publiée pour la première fois en 1637, intitulée *La Mort de Brute et de Porcie*, seconde pièce et première tragédie d'un auteur qui a vingt ans environ et qui se place du côté des réguliers. C'est le sens de son prologue qui, outre la louange au roi, et surtout à son ministre Richelieu, protecteur des arts, permet à Guérin de Bouscal de se situer dans le champ littéraire : il fait ainsi allusion à des tragédies de Rotrou, Mairet, Benserade, La Calprenède et Scudéry. Le sujet de la pièce est la bataille de Philippes de 42 av. J.-C., opposant les derniers défenseurs de la République romaine (Brutus et Cassius) aux partisans de César assassiné (Octave et Marc Antoine). En préparant l'édition critique de cette pièce, nous avons constaté la récurrence d'un phénomène : l'apparition problématique d'emplois et de mots dont l'usage est non seulement discuté, mais tend à disparaître ou a déjà disparu. C'est la question de ces mots vieillis ou vieux, autrement dit de l'archaïsme, à un moment où la langue s'engage dans le processus normatif du classicisme : 1637, c'est le moment de la Querelle du *Cid*, arbitrée par l'autorité nouvelle de l'Académie ; Claude Favre de Vaugelas collabore alors à la rédaction du *Dictionnaire* et ses *Remarques sur la langue françoise : utiles à ceux qui veulent bien parler et bien escrire*, publiées en 1647, auront le retentissement que l'on sait.
 
 
-## Étude et analyse du phénomène archaïque
+## Étude et analyse du phénomène archaïque.
 
 Pour commencer, il convient de donner une idée du relevé que nous avons établi sur cette question de l'archaïsme. Nous avons ainsi retenu 44 mots, correspondant à 81 occurrences. L'édition de 1637 comporte un prologue (170 vers), la tragédie à proprement parler (1670 vers) et cinq poèmes (88 vers), soit un ensemble textuel étudié de 1928 vers. Pour avoir une idée concrète, on considérera qu'on croise en moyenne un emploi archaïque ou archaïsant tous les vingt-quatre vers. Avoir une idée de la langue de 1637 n'est pas évident : il faut voyager dans le temps, en avant, avec notamment les dictionnaires de Richelet (1680), de Furetière (1690) et de l'Académie (1694), et en arrière, avec en particulier Estienne (1549), Nicot (1606), Cotgrave (1611) et le *Dictionnaire de la langue française du seizième siècle* d'Edmond Huguet. Pour affiner la recherche, on aura confronté le texte aux *Remarques* de Vaugelas, qui ont valeur de témoignage (contemporain), et, pour sa rigueur plus scientifique, au *Trésor de la Langue Française* (et notamment à la rubrique « Étymologie et Histoire » de ses articles). Notre approche est de dimension lexicale, les faits syntaxiques ne formant pas un tout significatif.
 
@@ -3683,7 +3683,7 @@ Une bonne façon de donner une vue d'ensemble est de dresser une typologie. Nous
 Nous avons pris soin de ne pas mettre au nombre des archaïsmes, pour épurer nos chiffres, les mots anciens qui ont subsisté sous la forme d'un emploi poétique par lequel ils ont connu une importante postérité (*nef*, le substantif *penser, trespas* et *trespasser* ; quatre mots pour vingt-deux occurrences). Ils constituent ainsi une catégorie à part. Néanmoins, ces mots sont marqués du sceau de l'ancienneté. Leur présence va dans le sens du constat développé ici.
 
 
-## *La Mort de Brute et de Porcie* au sein des débats
+## *La Mort de Brute et de Porcie* au sein des débats.
 
 Notre pièce n'aurait certes pas plu à Vaugelas (1585-1650) et, par suite, à l'Académie. Cela dit, Antoine Furetière (1619-1688), homme de la génération de Guérin de Bouscal (1617-1675), eût sans doute été d'un avis plus nuancé. Le paradoxe est que l'aîné est généralement celui qui condamne, là où ses cadets opposent une résistance. C'est ce que nous allons tenter de montrer par l'étude de quelques cas.
 
@@ -3729,7 +3729,7 @@ Mais un cœur genereux doit cacher sa vertu.
 Ainsi la nouveauté en question, comme le montre bien le recours au TLFi, correspond plutôt à un mot ancien qui a réussi et dont on refuse l'usage à un moment donné, sans qu'on puisse dire en droit qu'il n'est plus employé. [367] Car il est beaucoup plus aisé, quand on prône l'hégémonie de l'usage, de réfuter la nouveauté que l'ancienneté : il est alors permis d'invoquer la « reigle generale » ici énoncée. Cette tendance, mise en évidence par la mauvaise foi de l'Académie, désireuse de suivre Vaugelas coûte que coûte, est à lier à la tension interne de la notion d'usage, qui contient en un mot deux idées distinctes : l'usage et le *bon* usage, ce qui se dit et ce qu'il faut dire.
 
 
-## Rapprochements et âpreté baroque
+## Rapprochements et âpreté baroque.
 
 Nous ne savons pas si Guérin de Bouscal s'est converti au catholicisme avant 1637. Quoiqu'il en soit, ses rapports cordiaux avec ses frères, tout au long de sa vie, ainsi que les autres arguments donnés par Caldicott [368], laissent penser qu'il a pu avoir un rapport privilégié avec un auteur comme Agrippa d'Aubigné (1552-1630), autre auteur protestant originaire du Sud-Ouest. Le premier rapprochement possible est l'utilisation du substantif *triomphant*, rare et inusité.
 
@@ -3879,25 +3879,25 @@ O crisme d'un Démon bien plûtost que d'un homme !
 « *O tempora, o mores* » s'écriait Cicéron dans ses *Verrines* (II, IV, 25) ainsi qu'au début de ses *Catilinaires* (I, 1). Son mot est ainsi mis dans la bouche de Marc Antoine, celui qui avait fait exécuter et exposer la tête et les mains de l'auteur des virulentes *Philippiques*, un an plus tôt. Marc Antoine, en condamnant le crime du meurtrier Brutus, nous rappelle le sien. La victoire de Marc Antoine sera rendue acceptable par la clémence dont il fera preuve au cinquième acte en appelant à la fin des combats : car la clémence revient à se vaincre soi-même. [382]*La Mort de Brute et de Porcie* est ainsi une célébration des Anciens par la langue ancienne.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Textes de Guérin de Bouscal
+### Textes de Guérin de Bouscal.
 
 
-#### Édition originale de la pièceLa Mort de Brute et de Porcie, ou, La Vengeance de la mort de Cesar
+#### Édition originale de la pièce.La Mort de Brute et de Porcie, ou, La Vengeance de la mort de Cesar
 
 
 
-#### Ses autres tragédiesLa Mort de Cleomenes, roy de Sparte
+#### Ses autres tragédies.La Mort de Cleomenes, roy de Sparte
 La Mort d'Agis
 
 
 
-#### Éditions critiques existantes de ses œuvresDom Quixote de la Manche
+#### Éditions critiques existantes de ses œuvres.Dom Quixote de la Manche
 Dom Quichot de la Manche
 Le Gouvernement de Sanche Pansa
 Dom Quixote de la Manche ; Dom Quichot de la Manche, seconde partie
@@ -3905,10 +3905,10 @@ Le Fils désadvoüé, ou le Jugement de Theodoric roy d'Italie
 
 
 
-### Textes des XVI*e* et XVII*e* siècles
+### Textes des XVI*e* et XVII*e* siècles.
 
 
-#### Tragédies*Boyer*La Porcie romaine
+#### Tragédies.*Boyer*La Porcie romaine
 *Corneille*Cinna
 *Garnier*Les Tragédies de Robert Garnier
 *Racine*Œuvres complètes
@@ -3917,16 +3917,16 @@ Le Fils désadvoüé, ou le Jugement de Theodoric roy d'Italie
 
 
 
-#### Textes théoriques*Chapelain*Opuscules critiques
+#### Textes théoriques.*Chapelain*Opuscules critiques
 *Mairet*La Silvanire ou la Morte-vive
 *Rapin*Les Réflexions sur la poétique de ce temps et sur les ouvrages des poètes anciens et modernes
 
 
 
-### Textes antiques
+### Textes antiques.
 
 
-#### La Bataille de Philippes*Appien*Histoire des guerres civiles de la république romaine
+#### La Bataille de Philippes.*Appien*Histoire des guerres civiles de la république romaine
 *Dion Cassius*Histoire romaine
 *Plutarque*Vies parallèles
 *Valère Maxime*Actions et paroles mémorables
@@ -3934,26 +3934,26 @@ Le Fils désadvoüé, ou le Jugement de Theodoric roy d'Italie
 
 
 
-#### Sources historiques complémentaires*Aurelius Victor*Origine du peuple romain ; Hommes illustres de la ville de Rome ; Histoire des Césars ; Vie des empereurs romains
+#### Sources historiques complémentaires.*Aurelius Victor*Origine du peuple romain ; Hommes illustres de la ville de Rome ; Histoire des Césars ; Vie des empereurs romains
 *Cicéron*Œuvres complètes de Cicéron
 *Quintilien*Institution oratoire
 
 
 
-#### Références indispensables*Aristote*Poétique
+#### Références indispensables.*Aristote*Poétique
 *Homère*Iliade – Odyssée
 *Sénèque*De clementia
 *Virgile*Énéide
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires, remarques et encyclopédies
+### Dictionnaires, remarques et encyclopédies.
 
 
-#### Dictionnaires de langue (classés chronologiquement selon leur objet)*Godefroy*Dictionnaire de l'ancienne langue française et de tous ses dialectes du IXe au XVe siècle
+#### Dictionnaires de langue (classés chronologiquement selon leur objet).*Godefroy*Dictionnaire de l'ancienne langue française et de tous ses dialectes du IXe au XVe siècle
 *de) La Curne de Sainte-Palaye*Dictionnaire historique de l'ancien langage français ou Glossaire de la langue françoise depuis son origine jusqu'au siècle de Louis XIV
 Dictionnaire du Moyen Françaishttp://www.atilf.fr/dmf
 *Huguet*Dictionnaire de la langue française du seizième siècle
@@ -3973,12 +3973,12 @@ Dictionnaire de l'Académie française*ère*
 
 
 
-#### Remarques*Favre de Vaugelas*Remarques sur la langue françoise
+#### Remarques.*Favre de Vaugelas*Remarques sur la langue françoise
 Observations de l'Académie françoise sur les Remarques de M. de Vaugelas
 
 
 
-#### Dictionnaires thématiques et encyclopédies*Corneille*Le Dictionnaire des Arts et des Sciences
+#### Dictionnaires thématiques et encyclopédies.*Corneille*Le Dictionnaire des Arts et des Sciences
 *Diderot**D'Alembert*Encyclopédie
 *Mongez**Mongez*Encyclopédie méthodique, ou Recueil d'antiquités
 *Noël*Dictionnaire de la Fable
@@ -3986,24 +3986,24 @@ Observations de l'Académie françoise sur les Remarques de M. de Vaugelas
 
 
 
-### Bibliographies*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
+### Bibliographies.*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
 *Klapp**Klapp-Lehrmann*Bibliographie der französischen Literaturwissenschaft
 
 
 
-### Grammaire, syntaxe, ponctuation*Anglade*Grammaire élémentaire de l'ancien français
+### Grammaire, syntaxe, ponctuation.*Anglade*Grammaire élémentaire de l'ancien français
 *Haase*Syntaxe française du XVII*e* siècle
 *Riffaud*La Ponctuation du théâtre imprimé
 
 
 
-## Travaux critiques
+## Travaux critiques.
 
 
-### Études historiques, histoires de la littérature, histoires du théâtre
+### Études historiques, histoires de la littérature, histoires du théâtre.
 
 
-#### Ouvrages*Bayet*Le Suicide et la morale
+#### Ouvrages.*Bayet*Le Suicide et la morale
 *Grisé*Le Suicide dans la Rome antique
 *Himy-Piéry**Macé*Stylistique de l'archaïsme
 *Pasquier*Le Mémoire de Mahelot
@@ -4013,14 +4013,14 @@ Observations de l'Académie françoise sur les Remarques de M. de Vaugelas
 
 
 
-#### Article*Sedley*Journal of Roman Studies
+#### Article.*Sedley*Journal of Roman Studies
 
 
 
-### Travaux sur le théâtre du XVII*e* siècle
+### Travaux sur le théâtre du XVII*e* siècle.
 
 
-#### Ouvrages*Forestier*Essai de génétique théâtrale. Corneille à l'œuvre
+#### Ouvrages.*Forestier*Essai de génétique théâtrale. Corneille à l'œuvre
 *Forestier*La Tragédie française. Passions tragiques et règles classiques*re*
 *Kossmann*Nieuwe bijdragen tot de geschiedenis van het Nederlandsche tooneel in de 17*e* en 18*e* eeuw
 *Lancaster*A History of French Dramatic Literature in the Seventeenth Century
@@ -4031,33 +4031,33 @@ Observations de l'Académie françoise sur les Remarques de M. de Vaugelas
 
 
 
-#### Article*Dutertre**e**e*Littératures Classiques
+#### Article.*Dutertre**e**e*Littératures Classiques
 
 
 
-### Travaux sur l'auteur
+### Travaux sur l'auteur.
 
 
-#### L'homme*Caldicott*Revue du Tarn
+#### L'homme.*Caldicott*Revue du Tarn
 *Caldicott*Revue du Tarn
 *Desbarreaux-Bernard**e*Mémoires de l'Académie des Sciences de Toulouse*e*Bulletin du Bibliophile
 *Vergnes*Revue du Tarn
 
 
 
-#### Son œuvre en général*Davies*The dramatic works of Guérin de Bouscal
+#### Son œuvre en général.*Davies*The dramatic works of Guérin de Bouscal
 *La Vallière*Bibliothèque du théâtre françois depuis son origine
 
 
 
-#### Ses tragédies [384]
+#### Ses tragédies [384].
 
 
-##### Ouvrage*Wahner*Das Böse im französischen Theater der Jahre 1635-1649 : Studien zu ausgewählten Werken Boyers, Chevreaus, Pierre Corneilles und Guérin de Bouscals
+##### Ouvrage.*Wahner*Das Böse im französischen Theater der Jahre 1635-1649 : Studien zu ausgewählten Werken Boyers, Chevreaus, Pierre Corneilles und Guérin de Bouscals
 
 
 
-##### Articles et contributions à des ouvrages collectifs*Doiron*Poétique
+##### Articles et contributions à des ouvrages collectifs.*Doiron*Poétique
 *Forsyth*Semper Aliquid Novi : Mélanges offerts à Albert Gérard
 *Hilgar*La Mort d'AgisProceedings – Pacific Northwest Conference on Foreign Languages
 *Hilgar*Onze nouvelles études sur l'image de la femme dans la littérature française du dix-septième siècle
@@ -4065,7 +4065,7 @@ Observations de l'Académie françoise sur les Remarques de M. de Vaugelas
 
 
 
-#### La trilogie cervantine*Akhamlich*Don QuichotteCahiers de Littérature du XVII*e* siècle
+#### La trilogie cervantine.*Akhamlich*Don QuichotteCahiers de Littérature du XVII*e* siècle
 *Akhamlich*Cahiers de Littérature du XVII*e* siècle
 *Caldicott*Don QuixoteDom JuanThe Modern Language ReviewRevue du Tarn
 *Dalla Valle*
@@ -4076,13 +4076,13 @@ Observations de l'Académie françoise sur les Remarques de M. de Vaugelas
 
 
 
-#### Son roman*Borda*AntiopeThéséeStudi Francesi
+#### Son roman.*Borda*AntiopeThéséeStudi Francesi
 *Dalla Valle*Mélanges à la mémoire de Franco Simone
 *Rolla**e*Préfaces romanesques*e*
 
 
 
-#### Autres*Pompejano Natoli*Amant libéralDalla tragedia rinascimentale alla tragicommedia barocca
+#### Autres.*Pompejano Natoli*Amant libéralDalla tragedia rinascimentale alla tragicommedia barocca
 *Vergnes*Revue du Tarn
 *Vergnes*Revue du Tarn
 

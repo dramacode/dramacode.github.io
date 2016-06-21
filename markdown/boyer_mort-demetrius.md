@@ -16,7 +16,7 @@ Imprimé à Rouen,  ; se vend A Paris, Chez Augustin Courbé, au Palais, Galler
 Édition critique établie par Claire Supplisson sous la direction de Georges Forestier (2000-2001)
 
 
-# Introduction
+# Introduction.
 
 *La Mort de Démétrius* a été représentée en 1660, et publiée en 1661. Il s'agit de la sixième tragédie de l'abbé Claude Boyer, qui était à cette date un auteur productif, reconnu, encore en pleine ascension.
 
@@ -25,7 +25,7 @@ L'intrigue est inspirée de l'histoire antique. Alexandre, le fils de Pyrrus qui
 Ces quelques éléments d'intrigue composent le canevas d'une pièce qui suit scrupuleusement les règles et schèmes de la tragédie classique. C'est la seule fois que ce sujet est traité dans une pièce, ce qui laisse au dramaturge une grande liberté d'invention. Loin de l'image d'auteur fade et conformiste retenue par la postérité, Boyer a su créer ici une oeuvre dynamique et rigoureuse à la fois, qui s'adapte parfaitement au goût de l'époque.
 
 
-# La représentation de La Mort de Démétrius
+# La représentation de La Mort de Démétrius.
 
 La tragédie de Claude Boyer a été représentée pour la première fois le 21 février 1660 à l'hôtel de Bourgogne. Seul le témoignage de Loret [1] demeure aujourd'hui pour mesurer l'accueil fait à la pièce à cette date. Dans la *Muse historique* du 28 février 1660, il écrit :
 
@@ -45,7 +45,7 @@ Si l'on en croit bien des cervelles.
 À Paris les représentations théâtrales ont lieu le mardi, vendredi et dimanche. D'après Loret, la *Mort de Démétrius* a donc été jouée au moins 3 fois. La pièce n'a pas été un échec [2]. Loret parle des « Pièces nouvelles » . En fait, l'hôtel du Marais prépare *la Toison d'or*, de Pierre Corneille, une tragédie à machines qui doit être jouée aux fêtes que le marquis de Sourdiac donnera à l'automne 1660 dans son château de Neubourg en réjouissance du mariage de Louis XIV. Concentré sur ce qui doit être l'évènement mondain de l'année, le théâtre du Marais monte à Paris des comédies déjà jouées, telles que *le Chevalier de Fin Matois* de Boisrobert, ou *le Cartel de Guillot* de Chevalier. La troupe de Molière est quant à elle prise dans la querelle des *Précieuses*. Le prochain grand succès du théâtre du Petit Bourbon sera *Sganarelle*. L'hôtel de Bourgogne n'a donc pas souffert de la concurrence lors des représentations de *Démétrius.* La Troupe Royale, depuis qu'elle est dirigée par le comédien-vedette Floridor, porte le flambeau du genre tragique. En ce début 1660, elle était composée de Floridor et de sa femme Marguerite Baloré, de Zacharie Jacob dit Montfleury, et sa femme Jehanne de la Chappe, de Claude Deschamps, sieur de Villiers et sa femme Marguerite Béguin, de Beauchasteau et sa femme Madeleine du Pouget, de Nicole Gassot femme de Bellerose, de Jehanne Anzoult, de Hauteroche et Raymond Poisson, dit Crispin. La distribution exacte de la tragédie de Boyer demeure cependant inconnue.
 
 
-## Le contexte politique, social et artistique
+## Le contexte politique, social et artistique.
 
 À partir de la fin des années 1650 commence une période de grande production théâtrale après la parenthèse difficile de la guerre civile et de la guerre d'Espagne. La Fronde (1648-1652) avait remis en cause la monarchie absolue grandissante, et plongé le royaume dans des troubles incessants. Le jeune roi avait quitté Paris, l'aristocratie était divisée. Les temps n'étant plus aux festivités, les théâtres parisiens furent fermés. Le conflit contre l'Espagne qui suivit ces évènements vida les caisses de l'Etat, et provoqua une grave crise financière. Cette période instable s'achève en 1659 par la signature d'un traité de paix qui convient du mariage de Marie-Thérèse, infante d'Espagne, et de Louis XIV, le Traité des Pyrénées.
 
@@ -54,7 +54,7 @@ La France de 1660 rentre peu à peu dans la prospérité. Elle est gouvernée pa
 Ce contexte incite des auteurs qui s'étaient retirés de la scène parisienne à produire de nouvelles pièces. Ainsi, après sept ans d'absence, Pierre Corneille présente en 1659 *Oedipe*. C'est aussi en 1659 que Boyer revient à l'écriture dramatique avec la tragédie *Clotilde*. Ce retour au théâtre ouvre la période la plus faste et la plus féconde de la carrière de l'auteur. *Clotilde* est rapidement suivie de la tragi-comédie *Fédéric*, puis de *La Mort de Démétrius*. En 1660, Boyer est un auteur expérimenté et reconnu tant par ses pairs que par le public. Il est reçu dans tous les salons, ses amis, Chapelain en tête, sont influents. Avant de connaître à la fin de sa vie la déchéance et l'oubli, il a été considéré par ses contemporains comme une des gloires du théâtre français.
 
 
-## Succès et disgrâce de l'abbé Claude Boyer
+## Succès et disgrâce de l'abbé Claude Boyer.
 
 Claude Boyer est né à Albi en 1618, et mort à Paris le 22 juillet 1698. Nous possédons peu d'informations concernant ses années de jeunesse et de formation. Il aurait obtenu dans le collège de sa ville le grade de bachelier en théologie. Bien qu'ayant réellement le titre d'abbé, Boyer ne semblait pas y réellement y tenir : il précha très rarement, et apparemment sans conviction. À 27 ans, une tragédie en poche, il part pour la capitale. *La Porcie romaine* sera représentée en 1646, soit quelques mois seulement après son arrivée à Paris ; c'est un succès. En peu de temps, Boyer parvient à se faire une place dans le milieu littéraire de l'époque. Les salons de Mme Tallemant et de Mme de Rambouillet s'ouvrent à lui. Il se lie rapidement avec des personnalités telles que Melle de Scudéry et surtout Jean Chapelain, la plus haute autorité littéraire de l'époque, qui restera un admirateur fidèle et un ami zélé. Boyer sait s'entourer, et demeurera toute sa vie très prolixe. Entre 1645 et 1695, il écrit 23 pièces de théâtre, parmi lesquelles des tragi-comédies, des pastorales, des comédies, des tragédies en musique ou à machines [3]. Il s'adonna aussi à l'occasion à d'autres genres, publiant régulièrement des poésies galantes, religieuses, et des compliments.
 
@@ -95,7 +95,7 @@ Boileau n'admettait pas de mesure entre le sublime et la médiocrité. Claude Bo
 L'oeuvre de Claude Boyer nous donne une bonne idée de ce que pouvait voir un parisien du XVIIème siècle dans des théâtres qui ne donnaient pas constamment les meilleures pièces de Corneille, de Racine ou de Molière.
 
 
-# Le traitement des sources : primauté de l'invention
+# Le traitement des sources : primauté de l'invention.
 
 Pour l'intrigue de la *Mort de Démétrius*, Claude Boyer s'est inspiré des *Histoires philippiques* de Justin, dans lesquelles l'auteur retrace notamment l'histoire des royaumes de Macédoine et d'Epire au IV*e* et III*e* siècle avant Jésus-Christ. Dans le livre XXVI, Justin rapporte que le roi de Macédoine Antigone Gonatas a tué Pyrrhus, roi d'Epire, en voulant reconquérir son royaume, que celui-ci avait envahi. Il part ensuite en guerre contre Athènes. Suit le récit des circonstances qui mènent Démétrius sur le trône d'Epire :
 
@@ -149,12 +149,12 @@ C'est son caractère historique (ou prétendument historique) qui permet à la t
 Un minimum d'Histoire conservé dans une intrigue donne une caution, une garantie d'authenticité à l'ensemble des inventions de l'auteur. Ainsi, les circonstances du rétablissement d'Alexandre peuvent être légitimées par la référence à Justin et acceptées par un spectateur persuadé d'assister à ce qui s'est réellement déroulé au IIIe siècle avant Jésus-Christ. Boyer n'a donc pas sur ce point une conception du traitement de l'Histoire différente de celle de Corneille.
 
 
-# Composition et structure de la pièce
+# Composition et structure de la pièce.
 
 La *Mort de Démétrius* peut être considérée comme tragédie régulière, en cinq actes et 1836 vers. Chaque acte comporte entre 356 et 380 vers.
 
 
-## Le traitement du lieu
+## Le traitement du lieu.
 
 L'unité de lieu est respectée. Toute l'action se déroule dans ce que Anne Ubersfeld appelle un « vestibule classique » [14], situé dans le palais royal de Dodone, capitale de l'Epire. Ce lieu clos s'ouvre cependant sur un espace plus vaste, construit essentiellement grâce au récit de certains personnages. Cet espace élaboré par la parole correspond d'abord à l'ailleurs, à ce qui est hors du Palais. Alexandre a trouvé des alliés en exil, parmi lesquels Athènes (v. 361 ; v. 825) . À la scène 1 de l'acte III, Milon rapporte son excursion nocturne dans la forêt sacrée qui entoure la ville. Le peuple d'Epire se révolte à Dodone. En dehors du vestibule classique, d'autres parties du palais sont évoquées : le cabinet dans lequel est assassiné Démétrius (v. 1514) , le « Balcon élevé qui domine la place » (v. 1743) . Tous ces éléments construisent en dehors de la scène un univers. Cet univers est clairement divisé en deux : l'espace extérieur et l'espace intérieur. Le palais est le lieu de la traîtrise, du pouvoir illégitime. C'est à l'intérieur que Démétrius est assassiné, que Milon peut mettre en œuvre dans le cinquième acte ses funestes projets. Hors de ses murs se trouvent les forces du droit, de la vérité. L'extérieur est le lieu de l'oracle et de l'insurrection du peuple contre le tyran. Entre ces lieux d'action, se place le vestibule, le lieu protégé de la parole. Arsinoé, personnage de l'intérieur, brise la frontière établie entre les deux mondes en ouvrant la porte du palais (v. 1785-1786) . La légitimité et la justice rentrent alors avec Alexandre et le peuple dans l'espace intérieur pour le dénouement. Le complot est maté, le roi retrouve son trône, l'équilibre entre les deux mondes peut être rétabli. Et comme le confirme Alexandre dans la dernière scène de la pièce,
 
@@ -163,7 +163,7 @@ Allons de tant d'horreurs purger ces tristes lieux,    (v. 1833)
 Le Palais de Dodone redevient le lieu d'un pouvoir royal soutenu par le peuple, l'ordre est rétabli.
 
 
-## Le traitement du temps
+## Le traitement du temps.
 
 Boyer observe aussi l'unité de temps, en réduisant au maximum le temps de la fiction pour le faire concorder au temps réel, comme l'exige le principe de vraisemblance.
 
@@ -205,12 +205,12 @@ Les deux derniers vers ouvrent la pièce sur les perspectives de l'« après-cr
 Boyer a donc pris un soin particulier pour traiter les problèmes de temporalité. L'action se déroule quasiment entièrement en temps réel sur la scène. L'auteur a concentré au maximum l'épisode qu'il a choisi de traiter et l'a parfaitement inscrit dans le temps de l'Histoire.
 
 
-## Définition des fils de l'intrigue
+## Définition des fils de l'intrigue.
 
 Boyer a tiré son sujet de l'Histoire. Il a mis en place à partir de cette base les grands axes de sa tragédie, de manière cohérente et suivie. *La Mort de Démétrius* compte cinq personnages principaux actifs qui partagent les quatre fils de l'action. Le fil principal est le retour d'Alexandre à la cour d'Epire et son amour pour Isménie. À ce fil principal s'ajoutent trois fils secondaires : Démétrius aime Isménie, Milon aime Isménie, Arsinoé aime Démétrius [16]. Les actions secondaires sont reliées entre elles : Milon et Arsinoé se liguent contre Démétrius. Démétrius écoute les conseils de Milon. Elles influencent aussi l'action principale et sont nécessaires à son déroulement. Démétrius fait revenir Alexandre d'exil et lui offre le trône afin de conquérir Isménie. Milon complote la chute d'Alexandre et de Démétrius afin d'obtenir de gré ou de force le cœur de la princesse. Arsinoé, désespérée d'avoir aidé Milon à assassiner l'homme qu'elle aimait, permet au peuple de rentrer dans le palais, et donc à Alexandre de reprendre le pouvoir. Aucune de ces actions ne peut être soustraite de la tragédie sans rendre incompréhensible l'action principale. Ces fils secondaires suivent le déroulement de la pièce, de l'exposition au dénouement. Les quatre fils se nouent entre l'acte I et le début de l'acte II, pour se poursuivre jusqu'au dernier acte, dans lequel Démétrius, Arsinoé et Milon meurent. Autour d'une action unique, le rétablissement d'Alexandre, l'auteur a tissé d'autres éléments interdépendants afin d'obtenir une action cohérente et unifiée, avec un début, un milieu et une fin bien définis. C'est la rencontre de ces différents fils, ainsi que la présence de difficultés ou obstacles qui forme l'intrigue. Nous allons voir à travers l'étude du déroulement de la pièce comment l'auteur tisse les différents fils et construit son intrigue.
 
 
-## L'exposition
+## L'exposition.
 
 Les informations nécessaires à la bonne compréhension de la pièce sont données dans les premières scènes de l'acte I, et au début de l'acte II. La scène 2 fournit les circonstances qui ont conduit Démétrius sur le trône. Le roi, Alexandre, Arsinoé, ainsi que Pyrrus et Artaban sont maintenant connus du spectateur. Démétrius révèle dans la scène 3 son amour pour Isménie, la maîtresse d'Alexandre. La scène 4 révèle que Démétrius veut céder la couronne d'Epire afin de gagner le cœur d'Isménie. C'est seulement à l'acte II que le personnage de Milon est véritablement présenté : il veut devenir roi ; il aime Isménie depuis longtemps. L'exposition de la *Mort de Démétrius* se clôt donc avec la scène 1 de l'acte II. Longue, elle peut aussi être qualifiée de « discontinue » , selon la terminologie adoptée par Jacques Scherer :
 
@@ -281,7 +281,7 @@ Mais mon amour ne peut luy quiter Isménie.    (v. 390-392)
 Tous ces faits montrent qu'à la fin de l'exposition, à la scène première de l'acte II, l'agencement des fils est accompli.
 
 
-## Le nœud de la pièce
+## Le nœud de la pièce.
 
 L'exposition est, nous l'avons vu plus haut, divisée en deux parties. C'est entre ces deux parties que débute véritablement l'action. Dans les scènes 5 à 7 du premier acte, Isménie présente à Démétrius ses craintes concernant la vie de son amant que le roi a fait revenir. Démétrius est amoureux d'elle, il pourrait tuer ce rival encombrant. De plus, elle préfère voir Alexandre en exil plutôt que dans la position de sujet soumis à une autorité. Le roi se déclare alors prêt à céder la couronne si elle consent à « quitter l'objet de sa flamme » . Le premier obstacle à l'amour d'Alexandre et Isménie est posé. La princesse est placée en face d'une situation où passion amoureuse et devoir sont opposés. Elle doit choisir : rendre le pouvoir à son prince en « aimant ailleurs » , ou rester fidèle à son amour, le laissant ainsi dans le statut d'exilé, de sujet. Isménie examine les deux possibilités dans la scène 7, et décide finalement de sacrifier sa flamme à la grandeur d'Alexandre :
 
@@ -420,7 +420,7 @@ Si les personnages conviennent par la suite d'agir, ces hésitations annoncent l
 Le quatrième acte est le seul à mettre en scène tous les personnages principaux. Le fil principal, à l'arrière-plan de l'acte III, est de nouveau au centre de l'action, et lié au plus près des actions secondaires. Alexandre est au courant de la conspiration. Le conflit larvé entre lui et Démétrius a été exposé dans la scène VI. Alexandre ignore donc une seule donnée : ce que compte faire Isménie pour résoudre son dilemme.
 
 
-## Le dénouement
+## Le dénouement.
 
 Dans le cinquième acte se produisent toutes les péripéties de la pièce. Milon annonce d'abord l'assassinat de Démétrius par Isménie. Dans la scène 2, le spectateur apprend que Milon est le véritable meurtrier, qui expose les faits du vers 1513 au vers 1525. Cet événement remplit les caractéristiques définissant la péripétie selon Jacques Scherer [19]. La péripétie doit d'abord être « imprévue, créatrice de surprise » . La surprise est ici triple : Démétrius est mort, Milon accuse Isménie, puis se révèle être l'auteur du meurtre. L'événement doit de plus impliquer un « changement de fortune » . Ce changement est ici matériel. L'émoi causé par l'assassinat du roi a permis à Alexandre de fuir le palais et de rejoindre le peuple révolté. Le changement est aussi psychologique. Avec la mort de Démétrius disparait l'obstacle principal qui empêchait Alexandre de reprendre son trône. Reste seulement l'obstacle extérieur que représente Milon. Il est un autre changement de fortune impliqué par cette péripétie. Isménie accusée du meurtre est à la merci de Milon qui explique :
 
@@ -477,7 +477,7 @@ Cette étude détaillée de la structure de la pièce montre la relative linéar
 L'intrigue est pourtant complexe. L'auteur a pris le parti de tisser ensemble quatre fils dans son intrigue, quand la majorité des tragédies n'en comprennent que deux ou trois. Les fils secondaires sont noués autour de l'action principale en ce qu'ils s'opposent directement ou indirectement à son accomplissement. L'action est unifiée.
 
 
-# Les personnages principaux de la tragédie
+# Les personnages principaux de la tragédie.
 
 L'action principale est, nous l'avons vu, le rétablissement d'Alexandre. L'auteur a donné au prince toutes les caractéristiques du héros. Même si le texte ne fait aucune mention sur son âge et son attrait physique, il va sans dire qu'il est jeune et beau. Il aime et est aimé d'Isménie. Mais ici, le héros brille surtout par sa noblesse et sa grandeur d'âme. Alexandre est le seul personnage issu d'une lignée royale. Isménie parle au vers 263 de ce « beau sang » . Démétrius l'affirme aussi :
 
@@ -768,7 +768,7 @@ Je voulois prévenir un Tyran comme toy.    (v. 1629-1630)
 Le roi s'est résolu à ne pas employer la force. Il est devenu pendant les quelques instants qui le séparait de sa mort un souverain juste.
 
 
-# Une allégorie du pouvoir
+# Une allégorie du pouvoir.
 
 L'analyse de l'intrigue et des personnages a montré que l'enjeu politique de la pièce devient le lieu où se déploient les intérêts amoureux. Pour Alexandre, Démétrius et Milon, la conquête du trône ne peut se concevoir sans l'amour d'Isménie. Arsinoé, en se suicidant, place sa passion amoureuse au-dessus du désir de régner. Les thématiques de la tragédie galante sont mises en place par le discours de Démétrius particulièrement, lorsqu'il déclare aux vers 217-220 en parlant de son rival :
 
@@ -850,12 +850,12 @@ Le retour de la légitimité s'accompagne du retour de la justice. L'ordre primi
 Boyer a donné à ses personnages des motivations essentiellement affectives. Les dérèglements causés par la passion amoureuse sont punis à la fin de la pièce. Cependant, si l'accent est mis sur l'émotion, la *Mort de Démétrius* fournit aussi une « leçon politique » .
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Le texte retenu est celui de l'édition originale, parue en 1661 et dont l'achevé d'imprimer est daté du 12 novembre 1660. Deux exemplaires de cette édition in-12° qui ont été conservés (ARS Rf 5636 et BN Yf 657) sont identiques tant par le texte présenté que par la présentation.
 
 
-## L'édition originale de la *Mort de Démétrius*
+## L'édition originale de la *Mort de Démétrius*.
 
 I : LA MORT / DE / DÉMÉTRIUS, / OU LE / RÉTABLISSEMENT / D'ALEXANDRE / ROY D'ÉPIRE. / *TRAGÉDIE.* / Par Monsieur BOYER. /  fleuron du libraire  / *Imprimé à ROUEN,  ; se vend* / A PARIS, / Chez accolade / AUGUSTIN COURBÉ, au Palais, en la / Gallerie des Merciers, à la Palme. / Et / CHARLES DE SERCY, au Palais, dans / la Salle Dauphine, à la Bonne-Foy / couronnée. / filet / M. DC. LXI. / *AVEC PRIVILEGE DU ROY.*
 
@@ -874,7 +874,7 @@ XII : Acteurs.
 1 + 85 : Texte de la pièce, précédé d'un rappel du titre en haut de la 1ère page.
 
 
-## L'établissement du texte
+## L'établissement du texte.
 
 Nous avons tenu compte des errata signalés à la page XI de l'édition originale :
  * – « Quel estrange licence » v. 1603 .
@@ -898,7 +898,7 @@ Nous donnons ici la liste des coquilles et erreurs qui ont été corrigées :
  * – Acte V, scène 9 : Alexandre, Isménie.
 
 
-## Abréviations utilisées dans les notes
+## Abréviations utilisées dans les notes.
 
 Furetière A., *Dictionnaire universel*, Paris, SNL-Le Robert, 1978 : (Fur.)
 
@@ -913,10 +913,10 @@ Haase A., *Syntaxe française du XVIIème siècle*, Paris, Gallimard, 1935 : (H
 Brunot F., *Histoire de la langue française*, Paris, Armand Colin, rééd. 1966 : (H.L.F.)
 
 
-# LA MORT DE DÉMÉTRIUS, ou le rétablissement d'Alexandre roy d'Epire. TRAGÉDIE
+# LA MORT DE DÉMÉTRIUS, ou le rétablissement d'Alexandre roy d'Epire. TRAGÉDIE.
 
 
-## **EPISTRE A Monseigneur le CHANCELIER** [25]
+## **EPISTRE A Monseigneur le CHANCELIER** [25].
 
 MONSEIGNEUR,
 
@@ -950,7 +950,7 @@ Mais avec tant d'orgueil la France desespere,
 D'avoir un Successeur qui soit digne de Toy.  
 
 
-## ACTEURS
+## ACTEURS.
  – DEMETRIUS,Roy d'Epire.
  – ARSINOÉ,Reine d'Epire.
  – ALEXANDRE,Fils de Pyrrus, legitime heritier de la Couronne d'Epire.
@@ -999,7 +999,7 @@ La Reyne...
         Elle me suit de prés,  
 La voicy.  
 
-    DEMETRIUS *à Arsinoé.*
+    DEMETRIUS *à Arsinoé.*.
         Quoy, faut-il nous voir toûjours ensemble ?  
 Je hay la jalousie,  ; cela luy [30] ressemble.  
 Quoy, toûjours sur mes pas, à toute heure, en tous lieux,  
@@ -1132,7 +1132,7 @@ Estre quitte envers moy, ny quitte envers les Dieux.
 
 ### SCENE III.
 
-    DEMETRIUS *seul.*
+    DEMETRIUS *seul.*.
 Ton interest n'est pas ce qui trouble mon ame,  
 Et les Dieux auroient tort de condamner ma flame,  
 Pour m'en justifier Ismenie est mon choix,  
@@ -1331,7 +1331,7 @@ MILON, ISMÉNIE.
     TELAMON.
 La Princesse, Seigneur, par vostre ordre est venuë.  
 
-    DEMETRIUS, *à Milon.*
+    DEMETRIUS, *à Milon.*.
 Laisse-nous, ta presence offenceroit sa veuë.  
 Milon sort.
 
@@ -1499,7 +1499,7 @@ SELEUCUS, MILON.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
     SELEUCUS.
 Ou peut-on voir jamais avecque tant de zele  
@@ -1650,7 +1650,7 @@ DEMETRIUS, ALEXANDRE,
 MILON.
 
 
-    DEMETRIUS *à Alexandre.*
+    DEMETRIUS *à Alexandre.*.
 Souffrez que l'amitié vous dérobe un moment  
 Aux tendres entretiens d'un objet si charmant.  
 Mais j'aperçoy Milon. Viens, cher Milon, aproche ;  
@@ -1804,7 +1804,7 @@ Et faisant qu'Ismenie excuse mon transport,
 Avec elle donnez quelques pleurs à ma mort.  
 Adieu.  
 
-    MILON *bas.*
+    MILON *bas.*.
         Peut-on regner avec tant de foiblesse ?  
 à Alexandre.
 
@@ -1816,7 +1816,7 @@ Seigneur, souffrirez-vous...
 
 ### SCENE III.
 
-    ALEXANDRE *seul.*
+    ALEXANDRE *seul.*.
 Amy, cruel autant qu'on peut l'imaginer,  
 Ne m'as-tu rappellé que pour m'assassiner ?  
 Où me reduisez-vous, desordre de mon ame,  
@@ -2325,7 +2325,7 @@ ARSINOÉ, DEMETRIUS.
     ARSINOÉ.
 Qu'entens-je !  
 
-    DEMETRIUS, *sans voir Arsinoé.*
+    DEMETRIUS, *sans voir Arsinoé.*.
         C'en est fait ; je suivray ton envie ;  
 Perisse Arsinoé ; vive  ; regne Ismenie ;  
 Meure Alexandre.  
@@ -2363,7 +2363,7 @@ Adieu, suivez mon ordre.
 
 ### SCENE V.
 
-    ARSINOÉ, *seule.*
+    ARSINOÉ, *seule.*.
         Est-ce un charme, est-ce un songe,  
 Qui dans une erreur folle,  ; m'entraîne,  ; me plonge ?  
 Le traistre a déjà fait un choix à son amour :  
@@ -2538,7 +2538,7 @@ Adieu, je ne la veux que pour te faire Roy.
 
 ### SCENE VII.
 
-    MILON, *seul.*
+    MILON, *seul.*.
 Ce n'est pas mon dessein de regner avec toy :  
 Une autre par ma main sur le Thrône élevée  
 Doit rendre pleinement ma fortune achevée.  
@@ -2684,7 +2684,7 @@ TELAMON, SÉLEUCUS.
 Madame, vous sçavez quel est l'ordre du Roy ;  
 J'attens vostre réponse avec impatience.  
 
-    ISMENIE, *parlant à Seleucus et Telamon.*
+    ISMENIE, *parlant à Seleucus et Telamon.*.
 Laissez ce moment libre à nostre confidence.  
 
 
@@ -2703,7 +2703,7 @@ Ce n'est point aux faveurs d'un amy genereux ;
 C'est à la cruauté d'un Tyran amoureux :  
 De ce fatal écrit vous le pourrez apprendre.  
 
-    ALEXANDRE, *en prenant le Billet.*
+    ALEXANDRE, *en prenant le Billet.*.
 Je tremble, je fremis, Madame, à vous entendre,  
 *Princesse, si vos loix m'ordonnent de perir*,  
 Il faut que mon Rival partage ma fortune ;  
@@ -2869,7 +2869,7 @@ Quoy ? Madame...
 
 ### SCENE IV.
 
-    ALEXANDRE *seul.*
+    ALEXANDRE *seul.*.
 Que ton dessein me jette en un desordre extrême !  
 Qu'a-t'elle resolu ? mais n'ay-je pas sa foy ?  
 J'ay son coeur ; c'est assez, Ismenie est à moy :  
@@ -2884,7 +2884,7 @@ ARSINOÉ, SELEUCUS,
 ALEXANDRE.
 
 
-    ARSINOÉ *à Seleucus.*
+    ARSINOÉ *à Seleucus.*.
 Avec ton Prisonnier je seray peu de temps ;  
 Laisse-moy ; tu nuirois à nostre confidence.  
 
@@ -3014,7 +3014,7 @@ Arreste.
     DEMETRIUS.
     Quel advis ?  
 
-    ARSINOÉ, *à Milon bas.*
+    ARSINOÉ, *à Milon bas.*.
         Il va tout dire au Roy.  
 
     ALEXANDRE.
@@ -3064,10 +3064,10 @@ DEMETRIUS, ARSINOÉ,
 MILON.
 
 
-    ARSINOÉ, *bas.*
+    ARSINOÉ, *bas.*.
 Ah ! Prince genereux !  
 
-    MILON, *au Roy.*
+    MILON, *au Roy.*.
         Orgueil insuportable !  
 
     DEMETRIUS.
@@ -3105,7 +3105,7 @@ La frayeur dont tantost vous estiez alarmée,
 Et qu'en vain vostre front tâche à [104] dissimuler,  
 Dit assez que c'est vous dont il vouloit parler.  
 
-    MILON, *bas.*
+    MILON, *bas.*.
 Dans quels nouveaux perils me met sa défiance ?  
 
     DEMETRIUS.
@@ -3587,7 +3587,7 @@ TELAMON, MILON,
 ISMENIE.
 
 
-    TELAMON *tirant Milon à l'écart.*
+    TELAMON *tirant Milon à l'écart.*.
         Ah ! Seigneur, Alexandre  
 A pour luy tout le monde, il est temps de se rendre.  
 Seleucus poursuivy d'un Peuple furieux,  
@@ -3701,7 +3701,7 @@ Vous triomphez malgré la malice du Sort.
     ISMENIE.
 Dieux ! vous obstinez-vous à trahir l'innocence ?  
 
-    MILON, *à Ismenie.*
+    MILON, *à Ismenie.*.
 Ose encore braver ma flame  ; ma puissance.  
 Mais dy moy, Seleucus, d'où naist ce prompt espoir.  
 
@@ -3900,13 +3900,13 @@ Registré sur le Livre de la Communauté le 12 Novembre 1660. Signé, Josse, Syn
 Achevé d'imprimer pour la premiere fois, le 10 Decembre 1660, à ROUEN, par L. MAURRY.
 
 
-# GlossaireDictionnaire de l'Académie française
+# Glossaire.Dictionnaire de l'Académie française
 Dictionnaire universel
 Dictionnaire français
 Aigreur« Haine, aversion » (R.) .V. 452Alarme« Appréhensions bien ou mal fondées » (F.) .V. 178Apparence« Vraisemblance, probabilité » (A.) .V. 441Avantage« En termes de jurisprudence, un avantage est une gratification qu'on fait à l'un plus qu'à l'autre en partage ou en succession » (F.) .V. 66Aveu« Ordre ou consentement donné » (F.) .V. 330Avoir part à« Connaître une affaire » (F.) .V. 39Avouer« Autoriser une chose » (A.) .V. 219Celer« Tenir quelque chose cachée, secrète, dissimuler » (F.) .V. 1214Charmes« Sortilège, puissance magique » (A.) .V. 907Conclure« Se déterminer à quelque chose de particulier. Fixer son sentiment à quelque chose » . (R.) .V. 20Commettre se« Se confier » ; « s'exposer à quelque danger » (A.) .V. 1058Confondre« Réduire à n'avoir rien à répondre » (A.) .V. 1646Conseil« Se prend quelquefois pour résolution, parti » (A.)V. 463Content« Qui a l'esprit satisfait » (A.) .V. 1269Contraire« Qui offense, nuit, incommode » ; « tout ce qui est ennemy, opposé » (F.) .V. 1207Deffendre se« S'excuser de faire quelque chose à quoi on voudroit nous obliger » (A.) .V. 865Déguiser se« Se montrer tout autre que l'on est » (A.) .V. 895Éclaircir« Instruire d'une vérité, d'une chose dont on doutoit » (A.) .V. 926Éclairer« Épier, observer » (A.) .V. 924Éclat« Se dit des choses dont on se vante trop  ; que l'on affecte de faire paroistre » (F.) .V. 10Effort« Tout ce qu'on fait avec violence » (F.) .V. 1458, 1466, 1821Ennui« Chagrin, souffrance, souci » (A.) .V. 568, 588, 1152Erreur« Méprise, malentendu » , « fausse opinion qu'on se met dans l'esprit, soit par ignorance, soit faute d'examen ou de bon raisonnements » (F.) .V. 119Étonner« Faire trembler par quelque violente commotion » (A.) .V. 411, 1153, 1486« Épouvanter » (R.) .V. 1520Fatal« Malheureux, voulu par le destin, qui est signe de douleur et de mort » ; « ce qui doit arriver nécessairement » ; « la fin, la mort » (F.) .V. 48, 143, 684, 1448Forcer« Rompre avec violence » (F.) ; « contraindre, violenter » (A.) .V. 1175Foy« Foy conjugale : est la foy que le mari et la femme se donne en se mariant » (F.) .V. 96Franchise« Liberté » (F.) .V. 98, 1604Fureurs« Violents mouvements de l'ame, des enthousiasmes qui la mettent hors de son assiette ordinaire » (F.) .V. 73Garans« Caution, garantie » (A.) .V. 151Intelligence« Amitié réciproque, union de sentiments » (A.) .V. 274, 373Maison« Famille » (A.) .V. 32Obliger se« Faire quelques faveurs, courtoisie » (F.) ; « rendre service, faire plaisir » (A.) .V. 1140Oster« Arracher, enlever ou par violence ou par remède » (F.) .V. 59Politique« En sens plus étroit, de la conduite particulière de chacun dans sa famille, dans ses affaires » (F.) .V. 772Posseder se« Ne pas se laisser émouvoir, ne pas se laisser troubler par quoique ce soit » (A.) .V. 1598Prévenir« Être le premier à faire quelque chose, devancer » (F.) .V. 1443Publier« Rendre une chose publique » (F.) .V. 779Querelle« Contestation, dispute, combat » ; « se dit aussi de l'intéret d'autrui, quand on en prend la deffense » (F.) .V. 977Quitter« Lâcher, laisser aller ; céder » (A.) .V. 795RecueillirProfiter (F.) .V. 43Résoudre« Conclure après avoir délibéré » (F.) .V. 887Retenir« Ne pas lacher, ne pas laisser échapper » « avoir des engagements à faire quelque chose » (F.) .V. 34Sanglant« Se dit figurément de ce qui est sensible, offensant, cruel, de ce qui pique et outrage au dernier point » (F.) .V. 75Secouer« Il a secoué le joug, pour dire, il s'est délivré de la servitude, de l'oppression, de la tyrannie » .V. 46Signaler« Rendre célèbre » (F.) .V. 358, 1716Succès« De ce qui arrive à quelqu'un de conforme ou de contraire au but qu'il se proposait dans un dessein qu'il avait formé » (A.) . « Issue d'une affaire (F.) .V. 603, 1184Surprendre« Obtenir frauduleusement, par artifice » (F.) , « tromper quelqu'un, l'abuser, le jeter dans l'erreur » .V. 97Traitement« Bon ou mauvais acceuil qu'on fait à quelqu'un, outrages ou caresses qu'on lui fait » (F.) .V. 1023Triste« D'un tempérament sombre et mélancolique » (F.) .V. 51Vœux« Souhaits, désirs amoureux » (F.) .V. 553
 
 
-# L'oeuvre théâtrale de Boyer
+# L'oeuvre théâtrale de Boyer.
 
 La date indique l'année de la première représentation de la pièce.
 
@@ -3965,10 +3965,10 @@ La date indique l'année de la première représentation de la pièce.
 *Méduse*, tragédie en musique, 1697.
 
 
-# Quelques jugements sur Boyer et son oeuvre
+# Quelques jugements sur Boyer et son oeuvre.
 
 
-## Furetière
+## Furetière.
 
 
 « On a reproché à Boyer un jour qu'il prêchoit dans les déserts de la Thébaïde, à cause de la solitude qui se trouva à la représentation d'une de ses pièces qui portoit ce nom. (...) Etant venu à Paris pour apprendre la Langue, dont il ne sait pas encore la prononciation, il veut l'enseigner aux autres. (...) Ce pauvre autheur a été obligé de se mettre souvent à genoux devant les Comédiens pour faire jouer leurs comédies, ou en partager le profit avec quelqu'un de la Troupe pour avoir sa protection. Il a employé l'autorité et le commandement des grands Seigneurs pour arriver à cette fin : mais cela n'a pas empêché qu'il n'ait été sifflé par le parterre » .
@@ -3981,7 +3981,7 @@ La date indique l'année de la première représentation de la pièce.
 *Les couches de l'Académie.*
 
 
-## Un échange d'épigrammes entre Furetière et Boyer
+## Un échange d'épigrammes entre Furetière et Boyer.
 
 
 Boyer :
@@ -4017,7 +4017,7 @@ Il ne croyoit parler qu'en se moquant ;
 On l'entend au pied de la lettre. »  
 
 
-## Racine
+## Racine.
 
 
 « A sa *Judith*, Boyer, par aventure,
@@ -4047,15 +4047,15 @@ A la mort de Claude Boyer :
 *Lettre à son fils Jean-Baptiste*, 24 juillet 1698.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ouvrages généraux sur le théâtreLe Langage dramatique
+## Ouvrages généraux sur le théâtre.Le Langage dramatique
 Lire le théâtre
 
 
 
-## Ouvrages sur le théâtre du XVII*e* siècleHistoire de la littérature française du XVIIe siècle
+## Ouvrages sur le théâtre du XVII*e* siècle.Histoire de la littérature française du XVIIe siècle
 La Tragédie
 Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 La Tragédie de l'âge classique 1553-1770
@@ -4067,14 +4067,14 @@ La Dramaturgie classique en France
 
 
 
-## Ouvrages théoriques et critiques du XVII*e* et XVIII*e* siècleLa Pratique du Théâtre
+## Ouvrages théoriques et critiques du XVII*e* et XVIII*e* siècle.La Pratique du Théâtre
 Oeuvres complètes
 Le Théâtre français
 Histoire du théâtre français depuis son origine jusqu'à présent, avec la vie des plus célèbres poètes accompagnés de notes historiques et critiques
 
 
 
-## Ouvrages évoquant Claude Boyer et son oeuvreThe Works of l'abbé Claude Boyer
+## Ouvrages évoquant Claude Boyer et son oeuvre.The Works of l'abbé Claude Boyer
 Les Ennemis de Racine au XVIIe siècle
 Recueil de factums
 Discours prononcez dans l'Académie françoise le samedi 27 septembre 1698 à la réception de Mr l'abbé Genest
@@ -4082,13 +4082,13 @@ Histoire littéraire de la ville d'Albi
 
 
 
-## Éditions critiques des pièces de Claude BoyerLes Amours de Jupiter et SéméléRecueil de tragédies à machines sous Louis XIV (1657-1672)
+## Éditions critiques des pièces de Claude Boyer.Les Amours de Jupiter et SéméléRecueil de tragédies à machines sous Louis XIV (1657-1672)
 Oropaste ou le faux Tonaxare
 Tyridate, suivi de Le fils supposé
 
 
 
-## Instruments de travailDictionnaire
+## Instruments de travail.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françois...avec les termes les plus connus des arts et des sciences
 Grammaire du français classique

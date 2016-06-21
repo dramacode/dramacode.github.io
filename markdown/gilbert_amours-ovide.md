@@ -16,14 +16,14 @@ A PARIS, Chez GUILLAUME DE LUYNE, Libraire Juré, au Palais, en la Galle- Rie de
 Édition critique établie par Valérie Louchart dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2004)
 
 
-# Introduction
+# Introduction.
 
 Comme l'a si bien fait remarquer Eleanor J. Pellet [1], Gabriel Gilbert n'est pour nous *a priori* qu'un dramaturge oublié de l'Histoire. Pourtant cet auteur semble avoir connu un certain succès au temps de Corneille, Racine et Molière. En outre, ses pièces de théâtre, représentées à l'Hôtel de Bourgogne, reflètent très souvent avec précision l'esprit de l'époque qui s'étend de 1640 à 1670. Nous tenterons donc ni plus ni moins de montrer l'intérêt de ressusciter cet auteur des abîmes du Léthé, à travers l'analyse d'une de ses pièces, *Les Amours d'Ovide*.
 
 Cette dernière se distingue immédiatement des autres œuvres de Gilbert par l'ambiguïté de son titre : en effet celui-ci évoque explicitement l'œuvre d'Ovide intitulée *Les Amours*. Oralement, il est ainsi impossible de différencier l'œuvre du classique et l'œuvre du dramaturge du XVIIème. Ce procédé habile, qui repose sur l'ambivalence de la préposition « de », permet à Gilbert de jouer sur l'identité de l'auteur et ainsi de se présenter comme l'héritier du célèbre écrivain romain. On serait presque tenté – en risquant l'anachronisme ‒ de parler de « métalittérature », pour reprendre la notion de Genette. Ce jeu de mot savant en effet peut avoir été formé par l'auteur à l'intention des gens lettrés de l'époque mais aussi de ceux des siècles à venir. Ceci nous montre que Gabriel Gilbert ne concevait pas son art sans une certaine résonance à travers les siècles. Or une des caractéristiques d'un chef-d'œuvre littéraire – si tant est qu'on puisse en donner une définition exhaustive ‒ n'est-elle pas une certaine intemporalité, servie paradoxalement par diverses marques de temporalité ? Le titre évocateur de la pièce de Gilbert nous invite donc tout naturellement à procéder à un examen aussi minutieux et rigoureux que possible de l'œuvre elle-même, replacée dans tout le contexte historique, littéraire et social des années qui entourent sa date de publication.
 
 
-# Vie de l'auteur
+# Vie de l'auteur.
 
 Il faut reconnaître que le nom de Gabriel Gilbert n'est à l'heure actuelle que très peu connu. Pourtant diverses sources attestent de son succès dans les années 1640-1670. Gilbert est mentionné en premier dans la liste établie par Lanson des « principaux auteurs de cette période peu étudiés ». Bédier et Hazard [2] font également référence à cet auteur mais de manière générale, les allusions à Gilbert sont rares. On ne connaît d'ailleurs avec exactitude ni sa date de naissance ni sa date de décés. La date la plus ancienne que nous connaissons est à ce jour le mois de juillet 1640 : une lettre de Chapelain [3] à Conrart [4] y fait en effet référence, dans laquelle celui-là écrit : « Monsieur Gilbert eust bien souhaitté aussy que vous eussiés assisté à la représentation de sa *Marguerite françoise…* ». C'est lors de la première représentation de cette tragi-comédie, le 4 Juillet, que Gilbert fut introduit devant le public parisien comme dramaturge. La seule allusion de l'écrivain à son âge se trouve dans l'épître de *L'Art de plaire des dames*, dont le privilège a été accordé en Mars 1654 et dans lequel Gilbert fait allusion à « sa jeune Muse ». Comme l'explique Eleanor J. Pellet, on peut penser, selon toute logique, qu'il devait être âgé de vingt ans environ en 1640 et donc de moins de quarante ans quand il écrivit *L'Art de plaire*. La date de sa mort peut être présentée avec plus de précision : la publication de sa dernière œuvre, *Les pseaumes en vers français*, date de 1680 ; le premier permis d'imprimer est du 26 mai et l'attestation du 24, mais des additions ont été effectuées par Gilbert, comme en témoigne l'attestation du 23 juillet. Le second permis d'imprimer date du 25. Or l'attestation de l'addition du 23 juillet nomme l'auteur « feu M. Gilbert ». Il semble donc que Gilbert soit mort entre le 24 mai et le 23 juillet.
 
@@ -90,10 +90,10 @@ Les dernières années de la vie de Gilbert semblent avoir été marquées par l
 Gilbert semble avoir été moins démuni d'amis et de célèbres protecteurs que de ressources financières. Il jouissait du patronage du Roi, à qui il a dédié deux de ses œuvres, *Les Amours d'Angélique et de Médor* et les *Poésies diverses*, de celui du Duc d'Orléans, de Richelieu, de Colbert, de Mazarin, de Lionne et de Fouquet. Il fut également le protégé de nombreuses femmes de haut rang telles que bien sûr Christine de Suède, mais aussi telles que la Duchesse d'Aiguillon, la nièce de Richelieu, la Duchesse de Sully et de Rohan et la Grande Mademoiselle, la Duchesse de montpensier.
 
 
-# Les Amours d'Ovide
+# Les Amours d'Ovide.
 
 
-## Fortune de la pièce
+## Fortune de la pièce.
 
 La pièce a été jouée d'après Loret le 1*er* juin 1663 à l'Hôtel de Bourgogne (cf. *Le livre de la Muze historique*, 2 juin v. 223-224). C'est donc cette date que reprend Deierkauf-Holsbœr dans *Le Théâtre de l'Hôtel de Bourgogne 1548-1680*, t. 2), tout comme les frères Parfaict, dans leurs *Mémoires* et Pierre Mélèse dans le *Répertoire analytique*.
 
@@ -104,7 +104,7 @@ La pièce de Gilbert a donc été créée par la troupe de l'Hôtel de Bourgogne
 Deierkauf-Holsbœr ne fait aucune allusion au succès de la pièce.
 
 
-## L'intrigue
+## L'intrigue.
 
 L'action se déroule en vingt-quatre heures, dans l'île de « Cypre », plus particulièrement dans les Jardins d'Adonis. L'unité d'action n'est, elle, pas tout à fait respectée car, comme le dit Lancaster [15], d'une part plus de la première moitié de la pièce aurait pu être omise sans grande conséquence sur l'intrigue et d'autre part le fil de l'action n'est interrompu que par l'intervention merveilleuse d'un véritable *deus ex machina*.
 
@@ -119,7 +119,7 @@ La pièce débute avec le prologue au cours duquel interviennent les trois Grâc
 Le récit consiste ensuite en une invitation faite aux amants.
 
 
-### Acte I
+### Acte I.
 
 **Scène 1** : Ovide, chevalier romain et amant de Corinne, avoue à Hyacinthe, amant de Céphise, qu'il éprouve des sentiments pour cette dernière. Il affirme l'aimer autant que Hyacinthe voire plus que lui ne l'aime bien que cette passion soit récente. Ils consentent pourtant à rester amis et conviennent dans ce but qu'ils ne doivent avoir aucune malveillance l'un envers l'autre. Après avoir fait avouer à Hyacinthe que Céphise ne cédait en rien à ses avances, Ovide affirme avoir offert à cette dernière, sans avoir essuyé de refus, son propre portrait caché derrière un miroir.
 
@@ -134,7 +134,7 @@ Le récit consiste ensuite en une invitation faite aux amants.
 **Scène 6** : Céphise exprime sa colère à Ovide et lui demande si le portrait vient du préteur ou de lui. Ovide l'assure qu'il saurait être discret si elle voulait l'aimer. Il lui promet même d'abandonner ces amours romaines pour elle. Comme gage de son amour, Céphise lui demande d'abandonner seulement Corinne. Ovide décide d'écrire un billet, que Céphise exige de voir avant qu'il ne le fasse parvenir à Corinne.
 
 
-### Acte II
+### Acte II.
 
 **Scène 1** : Céphise s'assure auprès d'Aminte que Corinne a reçu le billet et lui demande l'air qu'elle a eu à ce moment là. Elle lui demande également si elle a mis Hyacinthe au courant du tour que lui a joué Ovide ; celle-ci lui répond qu'elle en a parlé à Daphnis, le confident de Hyacinthe. Aminte interroge alors Céphise, curieuse de savoir lequel des deux hommes elle préfère, mais celle-ci la rabroue et affirme qu'elle ne veut pas se confier telle une faible amante.
 
@@ -149,7 +149,7 @@ Le récit consiste ensuite en une invitation faite aux amants.
 **Scène 6 : Monologue de Hyacinthe.** Hyacinthe n'est pas dupe et comprend que Corinne a essayé de le séduire. Il pense qu'il s'agit d'une ruse orchestrée par Ovide afin qu'il passe pour infidèle aux yeux de Céphise. Il attend la décision des Grâces et annonce qu'il se vengera d'Ovide si celui-ci « excite encore sa haîne ».
 
 
-### Acte III
+### Acte III.
 
 **Scène 1** : Ovide croise Corinne qui l'accuse d'avoir rompu ses vœux. Ovide récrimine et, à la demande de cette dernière, lit ces serments qui se présentent sous la forme de six articles. Mais il oublie le sixième, ce que remarque aussitôt Corinne ; cet article stipule qu'elle doit toujours avoir sa préférence. Ovide jure que si elle perd le concours organisé par les Grâces, il se déclarera quand même pour elle, de même que si elle remporte la victoire sur Céphise.
 
@@ -164,7 +164,7 @@ Le récit consiste ensuite en une invitation faite aux amants.
 **Scène 6** : Daphnis vient annoncer la victoire de Céphise. Ovide décide aussitôt d'aller rendre hommage à cette dernière, oubliant ses vœux pieux. Hyacinthe lui rappelle alors son engagement pour les vaincus, tandis qu'Ovide lui répond impudemment qu'un vrai Romain aime la plus parfaite et la plus glorieuse.
 
 
-### Acte IV
+### Acte IV.
 
 **Scène 1** : Contre toute attente, Corinne vient voir Céphise victorieuse … pour la consoler ! Selon elle, c'est par dépit que les Grâces ne l'ont pas couronnée et ont bien plutôt accordé la victoire à une femme qui ne les menacait pas par sa beauté. Elle déclare vouloir faire appel à la justice d'Auguste « pour convaincre les Grâces d'erreur ».
 
@@ -177,7 +177,7 @@ Le récit consiste ensuite en une invitation faite aux amants.
 **Scène 5 : joute verbale.** Chaque amant se lance dans une grande tirade afin de défendre leur conception respective de l'amour. Ovide fait valoir qu'il a fait triompher l'amour à Rome et se déclare pour la satisfaction naturelle des désirs, qui évoluent en fonction de la diversité de la nature. Sa devise est celle-ci : « On doit aymer partout tout ce qu'on voit d'aymable », ou encore : « quand la nature change, il faut changer aussi ». A cela Hyacinthe réplique en disant qu'il existe autant de désirs différents que de beautés différentes et que chacune mérite de posséder un seul amant. Ovide répond que c'est limiter son plaisir que de choisir une seule beauté. Selon Hyacinthe, plusieurs désirs qui divisent un cœur s'affaiblissent eux-même, et « qui veut aymer tout, à la fin n'ayme rien ». De plus comment obéir à plusieurs amantes ? Ovide répond qu'on peut les aimer chacune à leur tour. Hyacinthe déclare que fuir la laideur n'est qu'un prétexte pour l'inconstant, d'autant que chez une femme l'esprit ne vieillit pas. Enfin il affirme que chacun ne doit aimer qu'une seule personne de même que chacun n'a qu'un cœur et qu'une volonté. Les trois Grâces remontent dans les cieux pour demander l'avis de Vénus.
 
 
-### Acte V
+### Acte V.
 
 **Scène 1 : Stances de Céphise.** La nymphe exprime combien peuvent s'opposer l'amour et la vertu. Elle avoue qu'elle aime Hyacinthe depuis longtemps mais que sa vertu l'obligeait à se taire : « c'est un grand mal que d'aimer sans le dire », dit-elle. Elle prie les dieux de faire couronner Hyacinthe afin de satisfaire à la fois son amour et son souci de gloire.
 
@@ -190,7 +190,7 @@ Le récit consiste ensuite en une invitation faite aux amants.
 **Scène 6** : Il fait venir du ciel Hyménée pour qu'il unisse Hyacinthe et Céphise des « liens plus doux que n'est la liberté ». Amour déclare alors solennellement que toute femme également est digne d'être aimée, que les amants ont le droit d'être libres, mais qu'Ovide doit savoir que la victoire revient aux plus constants et que « l'Hymen n'est pas fâcheux quand l'Amour est avec lui ».
 
 
-# Les sources
+# Les sources.
 
 Les sources auxquelles a recouru l'auteur sont diverses et variées ; on les présentera par souci de clarté dans l'ordre chronologique et en distinguant leur nature.
 
@@ -235,10 +235,10 @@ On peut citer encore comme une œuvre « phare » ayant inspiré Gilbert la co
 De l'avis de Lancaster, Gilbert a repris également certains aspects de sa tragédie intitulée *Les Amours de Diane et d'Endimion*, représentée en 1657 ; on peut citer surtout le lieu où se déroule l'intrigue et l'emploi de machines pour faire apparaître dans le champ de l'action dramatique des êtres venus des cieux.
 
 
-# Les divers arts d'aimer
+# Les divers arts d'aimer.
 
 
-## Symbolique de chaque personnage de la pièce
+## Symbolique de chaque personnage de la pièce.
 
 À partir de 1650 environ, apparaît dans les cercles mondains de la capitale une nouvelle conception des relations amoureuses qui tranche avec l'idéologie du « Royaume du Tendre ». Comme l'affirme l'abbé d'Aubignac dans son *Histoire du Royaume de coquetterie*, en 1655, « *le pays de Tendre n'est plus qu'un petit canton isolé de l'Empire amoureux où une poignée de fidèles s'enferment dans un culte nostalgique* ». Le début du règne de Louis XIV coïncide avec l'avènement d'une approche plus riante et plus libre de la quête amoureuse. D'après J-M Pelous [20], *« l'itinéraire qui passe par Constance, Soumission, Obéissance et autres lieux semblables, dont on pouvait croire jusqu'alors qu'il était le grand chemin de l'amour, sera de plus en plus délaissé au profit d'autres routes plus avenantes ».* Ainsi, le caractère vertueux et sévère des amants de l'époque précédente est considéré comme suranné. Un sentiment d'agacement est perceptible dans l'opinion mondaine vis-à-vis de grandes et exceptionnelles vertus qu'elle ne se sent plus l'envie d'imiter.
 
@@ -602,7 +602,7 @@ Qui parmi ces Captifs conte des Demy-Dieux.
 Connoissant vos vertus n'a point pour vous de hayne (II, 5, v. 606-609).  
 
 
-# La galanterie et le libertinage ou l'influence d'Ovide sur le mythe de Don Juan
+# La galanterie et le libertinage ou l'influence d'Ovide sur le mythe de Don Juan.
 
 Il est évident que la pièce de Gilbert *Les Amours d'Ovide* a eu une influence sur la pièce *Le Festin de Pierre ou Dom Juan* de Molière et donc indirectement, sur l'opéra *Don Giovanni* de Mozart. La pastorale occupe une place chronologique intermédiaire entre la pièce *Del burlador de Sevilla* de Tirso de Molina, qui date de 1630 environ, et l'importation du mythe de Don Juan en France. Par la suite, Molière a, quant à lui, synthétisé les aspects espagnols, transmis par les pièces italiennes et les traits de caractère du galant homme Ovide, décrit par Gilbert, ce qui était rendu possible par l'existence de nombreux points communs de nature entre le donjuanisme et la galanterie.    
 
@@ -705,7 +705,7 @@ Comme le dit J.-M. Pelous, « le libertinage amoureux exerce dans la deuxième 
 Entre le libertin et le galant homme, il n'y a sans doute que peu de différences ; railleurs, inconstants, impies à l'occasion, tous les deux le sont. Les mêmes traits se retrouvent chez l'un comme chez l'autre, mais ici poussés jusqu'à l'extravagance, là sagement tempérés par l'esprit et la raison. A la fois semblables et antithétiques, ils sont comme l'avers et le revers d'un même idéal. Mais le galant homme sait qu'il y a dans la galanterie une large part de jeu … [44].
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La présente édition a été établie à partir de l'exemplaire de la pièce de Gilbert disponible à la Bibliothèque de l'Arsenal. Il s'agit d'un volume de format in-12°. Il se présente ainsi :
 
@@ -740,7 +740,7 @@ I LES/AMOURS/D'OVIDE./PASTORALE/HEROIQUE./PAR MONSIEUR GILBER, /Secretaire des C
 Il existe donc une seule édition parisienne et une édition hollandaise de la pièce de Gilbert, celle de Barbin et celle d'Elzevir à Amsterdam. En effet Barbin a reçu le privilège du roi et en a fait ensuite part à Guillaume de Luyne et Estienne Loyson ; il s'agit d'une édition partagée.
 
 
-## Corrections
+## Corrections.
 
 Les orthographes différentes d'un même mot ont été reproduites dans le respect du texte. En effet, de très nombreux mots ont des orthographes multiples dans le texte, ce qui ne peut pas être dû à des coquilles. Le tilde (~) a été remplacé par la lettre correspondante –m ou –n. Le –u et le –v, le –i et le –j, initialement confondus, ont été distingués. La ponctuation de l'édition originale a également été respectée dans la mesure où la ponctuation de l'époque ne répondait pas aux mêmes critères que celle d'aujourd'hui : il s'agit d'une ponctuation orale. La virgule marque ainsi un court temps d'arrêt; le point virgule et le point marquent une pause plus longue. Ces derniers servent parfois à souligner une articulation forte dans une phrase.
 
@@ -774,7 +774,7 @@ Achevé d'imprimé pour la premiere fois le 20 Aoust 1663.
 
 ## PROLOGUE DES GRACES.
 
-    TALIE, UNE DES GRACES [48]. 
+    TALIE, UNE DES GRACES [48].
 Nous sommes de Venus les compagnes fidelles,  
 Qui venons presider aux festes solemnelles,  
 Que l'Amour, pour charmer⁎ ses regrets infinis [49],  
@@ -841,7 +841,7 @@ Venez voir Triompher sur les flots applanis
 Venus & les Amours en faveur d'Adonis.   
 
 
-## ACTE I
+## ACTE I.
 
 
 ### SCENE PREMIERE.
@@ -1246,7 +1246,7 @@ Il falut l'accepter par l'ordre de mon pere,
 Et sans son ordre expres⁎ je l'aurois refusé,  
 Il eut peû s'offenser, & je n'ay pas osé.  
 
-    HYACINTHE, *voyant le portraict d'Ovide.*
+    HYACINTHE, *voyant le portraict d'Ovide.*.
 Dieux, qu'est-ce que je voy ! ma surprise est extréme !   
 
     CEPHISE.
@@ -1303,7 +1303,7 @@ Il se promene au parc ; vas, cours en diligence⁎.
 
 ### SCENE V.
 
-    CEPHISE, *seule.*
+    CEPHISE, *seule.*.
 De ce perfide Amant⁎ je veux prendre vengeance,  
 Luy seul asseurément m'a fait ce lasche trait ;  
 Par addresse au miroir il a joint son portrait,  
@@ -1546,7 +1546,7 @@ A vous suivre partout il fait fort l'empressé⁎.
 Depuis qu'il m'a conduite au bord de la fontaine,  
 Je ne l'ay point reveu, ny n'en suis point en peine.  
 
-    CEPHISE. 
+    CEPHISE.
 Quand il ne vous suit pas, c'est un fort grand hazard⁎.  
 
     CORINNE.
@@ -1582,7 +1582,7 @@ Accusez seulement la nature & les Dieux,
 Qui vous firent naistre moins belle.  
 Ovide.
 
-    CORINNE, *apres que Cephise a leu le billet.*
+    CORINNE, *apres que Cephise a leu le billet.*.
 Le procedé d'Ovide & bien vous surprend-il ?  
 
     CEPHISE.
@@ -1619,7 +1619,7 @@ Je luy prestay ma main pour vous faire une injure⁎,
 Mais pour vous en vanger je vous donne mon cœur.  
 Ovide.
 
-    CEPHISE, *ayant leu le second billet.*
+    CEPHISE, *ayant leu le second billet.*.
         Il nous joüe⁎, & la galanterie⁎,  
 A ne rien desguiser, passe⁎ la raillerie ;  
 Il faut pour le punir, nous vanger toutes deux,  
@@ -2033,7 +2033,7 @@ A Dieu, je me raillois, & n'ay rien à vous dire.
 
 ### SCENE VI.
 
-    HIACINTHE, *seul.*
+    HIACINTHE, *seul.*.
 Je ne puis rien connaistre à cet obscur discours [132],  
 Elle dit qu'elle vient pour me donner secours.  
 Et tourne, en me quittant, ma peine en raillerie,  
@@ -2149,7 +2149,7 @@ Sans que des liens de l'un, l'autre soit envieux,
 Ovide peut chercher les plaisirs en tous lieux,  
 Et Corinne par tout la gloire⁎.  
 
-    OVIDE *apres avoir leu les cinq articles.*
+    OVIDE *apres avoir leu les cinq articles.*.
 De violer ces lois puis-je estre convaincu ?  
 
     CORINNE.
@@ -2240,7 +2240,7 @@ Adieu, fidel Amant⁎ de la belle Cephise.
 
 ### SCENE III.
 
-    OVIDE *seul.*
+    OVIDE *seul.*.
 Je fais des vœux pour elle, afin qu'elle ait le prix,  
 Sa Rivale pourtant regne sur mes esprits ;  
 Et bien qu'aux yeux de tous Corinne soit plus belle,  
@@ -2572,7 +2572,7 @@ DAPHNIS, HIACINTHE, OVIDE, MAXIME.
 Hyacinthe, je viens pour vous tirer de peine,  
 La divine Cephise a remporté le prix.   
 
-    HIACINTHE
+    HIACINTHE.
 Ah ! que j'en ay de joye !  
 
     OVIDE.
@@ -2867,7 +2867,7 @@ Je ne veux point d'Amans, vous vouliez deux Amantes.
 Si deux sont trop pour vous, ne faites choix que d'un,  
 Prenez le plus galand & le moins importun.  
 
-    HYACINTHE. 
+    HYACINTHE.
 Vous figurez⁎ l'amour d'une humeur⁎ si legere,  
 Qu'elle croit que vos feux ne sont qu'une chimere.  
 
@@ -2900,7 +2900,7 @@ Vostre exemple aujourd'huy m'enseigne mon devoir.
 LES GRACES, OVIDE, HYACINTHE, CEPHISE, CORINNE, CELIE, AMINTE, DAPHNIS, MAXIME, & trois intendans des jeux.
 
 
-    THALIE, *l'une des Graces.*
+    THALIE, *l'une des Graces.*.
 De tant d'Amans divers dont cette Isle est remplie [173],  
 Que de tous les costez de Grece & d'Italie,  
 L'on voit venir en foule en cet heureux sejour⁎,  
@@ -2910,7 +2910,7 @@ Et puis que l'un & l'autre aspire à la victoire,    
 Apprenons de quels traits leurs deux cœurs sont blessez.  
 Pour faire honneur à Rome, Ovide, commencez.   
 
-    OVIDE POUR LES INCONSTANS. [174]
+    OVIDE POUR LES INCONSTANS. [174].
 Pour d'un Myrrhe amoureux voir couronner ma teste,  
 Assiste moy, Venus, dans cette belle feste [175] ;  
 Mesle dans mes discours ces entretiens⁎ charmans,  
@@ -2962,7 +2962,7 @@ Sourire est mal respondre en faveur des constans [179].
     HYACINTHE.
 Et bien, j'y respondray quand il en sera temps.  
 
-    OVIDE*monstrant les Graces.*
+    OVIDE*monstrant les Graces.*.
 Mon esprit esclairé de ces belles lumieres,  
 S'en va vous en donner de nouvelles matieres [180].      
 Chacun connaist assez que ce sexe charmant⁎,  
@@ -3002,7 +3002,7 @@ Puis que vous estes trois, qu'il n'en offense deux  [182];
 Et puis que toutes trois je vous crois adorables,  
 Pour moy donc toutes trois monstrez vous favorables.  
 
-    THALIE *à Hyacinthe.*
+    THALIE *à Hyacinthe.*.
 Vous dont le cœur constant brusle d'un autre Amour,  
 Hyacinthe, parlez, car c'est à vostre tour.  
 
@@ -3130,7 +3130,7 @@ L'un & l'autre a fait voir un amour sans pareil.
     CEPHISE.
 Les Graces sur ce point tiennent desja conseil.  
 
-    OVIDE *à Hyacinthe.*
+    OVIDE *à Hyacinthe.*.
 On va vous condamner, tremblez donc Hyacinthe.  
 
     HYACINTHE.
@@ -3168,7 +3168,7 @@ Quand on aime par tout, on doit tout esperer.
 
 ### SCENE PREMIERE.
 
-    CEPHISE *seule.*
+    CEPHISE *seule.*.
 STANCES.
 
 L'Amour & la Vertu⁎ sont deux grandes puissances,  
@@ -3233,7 +3233,7 @@ Elle vient m'annoncer le sort de deux Amans.
 CEPHISE, AMINTE.
 
 
-    CEPHISE *continuë.*
+    CEPHISE *continuë.*.
 Dy les Graces du Ciel sont-elles revenuës ?  
 
     AMINTHE.
@@ -3484,7 +3484,7 @@ Je suis pour accorder⁎ la raison⁎ & mes flammes,
 Fort fier⁎ à mes Rivaux, & fort civil⁎ aux Dames,  
 Corinne qui le sçait, ne se plaint pas de moy.  
 
-    CEPHISE, *à Corinne.*
+    CEPHISE, *à Corinne.*.
 Quoy ? vous pardonnez donc à cet amant⁎ sans foy⁎ ?  
 
     CORINNE.
@@ -3604,7 +3604,7 @@ Que son visage est beau !
         Qu'il a d'attraits pour plaire !  
 
 
-### SCENE VI. *& derniere.*
+### SCENE VI. *& derniere.*.
 L'AMOUR, HYACINTHE, CEPHISE, OVIDE, CORINNE, AMINTE, CELIE, DAPHNIS, MAXIME.
 
 
@@ -3638,7 +3638,7 @@ Qu'Hymen n'est point facheux⁎ quand je suis avec luy.
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 ABREVIATIONS
 
@@ -3649,10 +3649,10 @@ F = A. Furetière, *Dictionnaire universel*, 1690.
 R = P. Richelet, *Dictionnaire français*, 1680.A ce discoursD'après ce discours, à entendre ce discours.V. 772.Accident« Cas fortuit, ce qui arrive par hasard ; il se prend presque toujours en mauvaise part » (A). Il signifie donc tantôt seulement événement...V. 781Tantôt calamité.V. 47Accorder« Concilier, ôter l'apparence de contradiction », en parlant des choses (A)V. 830, 932, 1409, 1566« Mettre d'accord » (A), en parlant des personnes.V. 1128 et 1620.A aussi parfois le sens actuel, à savoir consentir à donner, octroyer.V. 139.Accorder (s')« Se dit de l'union de deux personnes qui traitent, qui conviennent de quelque chose. Il faut remarquer qu'on ne dit « accord » que des affaires légères et particulières » (F), se « mettre d'accord », « mettre entre soi la bonne intelligence » (A)V. 973 et 1594.Se concilier, quand il s'agit de choses.V. 122, 172, 730.Avoir accoustuméAvoir l'habitude de, être accoutumé à.V. 131.AdmirableQu'on « regarde avec étonnement », ou stupeur comme « quelque chose de surprenant ou dont on ignore les causes » (F). Ce mot comporte le plus souvent une intention ironique. Il tient ce sens, relativement faible par rapport au sens actuel, du latin « admirari », « regarder avec étonnement ».V. 26, 179, 365.AdresseHabileté, talent.V. 779, 814, 935.Conduite artificieuse, ruse, finesse⁎.V. 736.Advis« Se dit des nouvelles qu'on reçoit de dehors » (A).V. 1016.Affecter« Aimer, souhaiter quelque chose avec empressement » (F) sans nuance défavorable ; rechercher avec soin, suivre avec passion, employer avec amour.V. 817 (le terme « affectez » est dans ce cas un participe présent passif).S'emploie déjà parfois au sens défavorable, comme le substantif « affectation », et marque l'ostentation ou la feinte⁎.Affronter« Tromper sous prétexte⁎ de bonne foi » (A), abuser impudemment par de fausses apparences.V. 455, 531, 989.Agrément« Qualité par laquelle on plait » (A) ; par exemple, « cette femme n'est pas belle mais elle a beaucoup d'agrément » ou « il n'a nul agrément en tout ce qu'il fait ».V. 921 et 1194.AimableDigne d'être aimé.V. 38, 61, 78, 93, 114, 116, 177, 181, 366, 714, 753, 818, 1055, 1120, 1200, 1235, 1239, 1357, 1423, 1579.Air« Certaine manière que l'on a dans les exercices du corps, dans la façon d'agir » (A) ; ce mot vague était très à la mode. Il « veut dire je ne sais quoi qui paraît en un instant que la nature donne et qu'on ne peut bien définir » (Andry de Boisregard dans *Réflexions sur l'usage présent de la Langue française*, 1689). Mais l'abus du mot le rendit ridicule : « ceux qui parlent bien, ne s'en servent qu'en riant, por se moquer des gens du *bel air*. » (P. Bouhours dans *Les entretiens⁎ d'Ariste et d'Eugène*, 1671) Molière n'y a pas manqué (cf. *Les Précieuses Ridicules*, sc. 4 ; *Les Fâcheux⁎*, V.  61 ; *La Critique de L'Ecole des Femmes*, sc. 3-5 etc.)V. 107, 365, 567, 908.Alarme« Se dit de toute sorte d'effroi, d'épouvante. » (A)V. 689.AmantPersonnage « qui aime d'amour une personne d'un autre sexe » (A) et désire en être aimé.V. 64, 258, 278, 296, 342, 360, 375, 528, 569, 588, 636, 656, 748, 794, 1057, 1114, 1150, 1223, 1243, 1325, 1424, 1564, 1569, 1605, 1650, 1653.Se distingue de l'amoureux qui aime sans être aimé : « qui aime et qui est aimé ». (R) L'ambiguité du terme est présente dans toute la pièce. On peut penser que c'est parce que Hyacinthe était secrètement aimé de Céphise que les Graces lui ont accordé la victoire sur Ovide.Prologue, et V. 8, 1314, 1359, 1398, 1469, 1517, 1521.Appeler de(Sens juridique) en réclamer la réformation devant une juridiction supérieure.V. 1062.Ardent« Qui est en feu,…allumé, enflammé » (A)Au sens figuré, passionné.V. 70, 163, 307.Appareil« Apprêt, préparatif ». (A)Appas« Amorce, charme qu'on emploie pour gagner ou attraper quelqu'un » (R), au sens propre et au sens figuré.V. 31, 40, 135, 203, 213, 219, 232, 360, 511, 537, 833, 904, 945, 965, 993, 1090, 1201, 1373.AvantageSuccès, « se dit de la victoire » (F).V. 739, 795, 871.« Ce qu'on a de plus qu'un autre en quelque sorte de bien que ce soit » (A), d'où le sens actuel, privilège d'ordre pratique, intérêt.BienséanceConvenance, sans caractère moral ni social. « se dit de ce qui est commode, utile et avantageux » (F).Briller« Reluire, jeter une lumière étincelante, avoir de l'éclat » (A) ; ce sens correspond au sens actuel.V. 185, 651, 1535.Aller et venir dans un lieu, autour de quelqu'un, « se dit aussi d'un chien de chasse qui quête et qui bat beaucoup de pays » (A).V. 68, 1190.Cabale« Se dit de quelques sociétés d'amis qui ont entre eux une liaison plus étroite qu'avec d'autres, sans avoir aucun mauvais⁎ dessein, comme pour se divertir, étudier. » (F)V. 1611.Cajoler(Verbe intransitif) Piailler, jaser, jacasser comme un jeune oiseau en cage.V. 908.Chagrin(Adjectif) de rude, « de facheuse, de mauvaise humeur⁎ » (A) sans idée d'affliction ni d'ennui, irritable.V. 350, 1116, 1214, 1589.(Substantif) rude, « fâcheuse, mauvaise humeur⁎ » (A) sans idée d'affliction, accès de bile, mouvement d'irritation.V. 1011, 1125.Charmant(e)A un sens beaucoup plus fort qu'aujourd'hui qui signifie ensorcelante, exerçant « quelque effet merveilleux » (F).Prologue, V. 10, 29, 91, 763, 793, 825, 1149, 1221, 1253, 1631.CivilCourtois, honnête, affable.V. 908, 1204, 1213, 1567.Climat« Pays, contrée » sans idée de conditions atmosphériques. (« La France est un climat heureux et doux. » (R)V. 4, 16, 130, 799.Complaisant« Qui tâche de plaire » (F), qui cherche en tout et pour tout à faire plaisir.V. 1213.ComplaisanceExprime la même nuance et a la même force.V. 186.ConfidentQui reçoit ou mérite de recevoir des confidences, en qui on peut avoir confiance. (cf. l'identité d'origine des deux mots « confiance » et « confidence », doublets du même mot latin « confidentia ».V. 48, 88, 293.ConfusTroublé entièrement, bouleversé, « plein de trouble et de confusion » (R).V. 237, 249.De même confusion signifie trouble profond, bouleversement.V. 1577.S'emploie déjà en parlant de l'embarras qui naît d'un sentiment de faute ou de pudeur⁎.V. 237.Convaincre (quelqu'un)Confondre quelqu'un, au sens judiciaire du terme, c'est-à-dire prouver publiquement son erreur, ses torts, son crime.V. 1047, 1330.Cour« Les respects et les assiduités qu'on rend à quelqu'un. » (A)V. 164, 475, 1094, 1382.A aussi le sens actuel de résidence d'un souverain et de son entourage.Prologue et V. 3, 194, 300, 308, 675, 790, 792, 1290, 1488.Croire« Obéïr à, écouter comme digne de foi…suivre l'avis, le conseil de… » (F).V. 191.(Avec complément direct et indirect) ajouter foi à, regarder comme réel.V. 73, 290, 321, 573, 1429.D'abordAussitôt, tout de suite.V. 48, 50.DébiterMettre en circulation.Extrait du privilège.Décider« Juger de quelque chose avec trop de présomption et de confiance » (A).V. 495, 887, 1197, 1650.« Résoudre », « terminer, mettre fin à » (A).V. 24, 1019.Se défier de« Se douter. *Je me suis toujours bien défié que cela arriverait ainsi*. » (F)V. 342.DéplaisirDésespoir, « chagrin⁎, tristesse » (F). Il a en général un sens très fort, et se dit des afflictions les plus profondes, des souffrances morales les plus violentes.V. 252, 957, 1028, 1524.DémêlerMettre au clair, « débrouiller, éclaircir. » (A)V. 168.DépitRévolte d'amour-propre, « sorte de courte colère, fâcherie, déplaisir⁎ » (R), irritation violente, causée par une marque de mépris, par un affront⁎.V. 96, 903, 906, 1025, 1027, 1030, 1035, 1084.Devoir« Ce à quoi on est obligé par la bienséance, la profession, le droit » (A). Ce sens est conforme au sens actuel.« Se dit aussi de ce qui arrivera nécessairement, infailliblement » et se conjugue alors au présent de même qu'on dit à l'heure actuelle : « il doit être malade ».V. 225, 550, 646.Deshonneste« Qui est contre les règles de l'honneur, de la bienséance. » (F)DiligenceHâte, et même « exactitude qu'on a à faire quelque recherche » (F).V. 257.Disgrâce« Infortune, malheur » (A), a un sens très fort (peut même signifier la mort).V. 245.Disputer« Être en débat, avoir contestation » concernant un objet convoité par deux personnes au moins (A). Ce verbe se construit donc avec un complément d'objet direct et indirect.Prologue, V. 4, 79, 141, 788, 882, 942, 1066, 1170, 1605.DonnerInspirer, en parlant de sentiments.V. 477, 589.DouteIncertitude.V. 24, 385.Difficulté qui rend incertain, scrupule qui rend hésitant.V. 500.« Quelquefois, crainte, appréhension » (A), soupçon.V. 24.DouterTenir pour douteux, considérer comme suspect.V. 42, 340, 778, 1533.EclaircissementExplication, demandée ou donnée à un adversaire, à propos de paroles blessantes, d'actions équivoques.V. 777.Eclat« Gloire⁎, splendeur, magnificence » (A), lustre.V. 220, 835, 1021.EclatantQui se manifeste de façon brillante, qui se couvre d'une splendeur resplendissante.EgalementPareillement, semblablement.V. 61, 1649.Elite« Ce qu'il y a de plus excellent en chaque genre, et de plus digne d'être choisi » (A).Prologue.EnchanterEnsorceler comme par un charme magique, « surprendre, engager⁎ par des attraits, par des artifices, par de belles paroles, de belles promesses » (A). Il tient ce sens très fort du latin « incantare », « chanter sur, prononcer une formule magique ».V. 960.Engager(Verbe transitif) « obliger à faire quelque chose et le plus souvent sans violence » (A).V. 818.Attacher, lier en parlant de sentiments, d'intérêts.V. 201, 587, 818, 1299.EnnuiDouleur odieuse, tourment insupportable, violent désespoir, « signifie aussi généralement fâcherie, chagrin, déplaisir, souci » (A).V. 610, 1326.Entreprise « Dessein formé » (A, 94), « résolution hardie de faire quelque chose » (F), sans nuance défavorable.V. 747, 856. « Veut dire aussi quelquefois…action injustifiée par laquelle on entreprend, « c'est-à-dire on empiète » … sur les droits d'autrui ». (A)V. 856.Entretenir (quelqu'un)Parler à quelqu'un (de quelque affaire).V. 279, 521.Entretien« Conversation ». (F)V. 29, 351, 691, 1177.Estime(Sens actif) « Bonne ou mauvaise opinion qu'on a … d'une personne ou d'une chose » (F).V. 615, 1152, 1261, 1447.(Sens passif) bonne ou mauvaise réputation dont on est l'objet ; en particulier, bonne réputation, gloire⁎.V. 577.Exact« Qui observe ponctuellement tout ce qu'il faut jusqu'aux moindres choses dans ce qu'il fait… » (A).S'expliquer pour une femmeSe déclarer.V. 427, 429, 734.Exprès(Adj.) « qui est en termes si formels qu'il ne laisse aucun lieu de doute » (A).V. 227.(Adv.) « à dessein, à certaine fin » (A). Ce sens est conforme au sens actuel.FâcheuxPénible à vivre, « malaisé à contenter, … peu traitable⁎ » (A), dur ; susceptible, ombrageux.V. 598, 684, 1572, 1588, 1659.Faire l'amourFaire la cour⁎, « c'est aimer d'une passion déclarée et connue à la personne que l'on aime, à laquelle on continue de la témoigner par les assiduités et les autres complaisances des amants. » (A)Faire (peu de) conte deFaire (peu de) cas de, en parlant d'une personne ; tenir (peu) compte de, en parlant d'une chose.V. 561, 992.Faire éclaterManifester de façon bruyante, retentissante, un sentiment.V. 918.Faire l'empressé« Faire l'affairé, être chargé de beaucoup de besogne, faire le nécessaire » (F), marquer de l'empressement, c'est-à-dire de la hâte, sans idée de politesse obligeante, d'affection respectueuse, de dévouement inquiet.V. 380.Faire le fin (la fine), faire de la finesseFaire le cachottier, dissimuler ; « je n'y entends point de *finesse* signifie je parle sincérement » (F).V. 65, 191.Fatal« Ce qui doit arriver nécessairement, arrêt de la destinée. » (F)V. 47, 1396.Funeste⁎, « malheureux », néfaste. (F)V. 47, 640, 786, 1008, 1034, 1396.Qui cause ou qui accompagne la mort.V. 47, 640, 1396.Faveur« Par opposition à rigueur, et surtout en matière de justice », « bienveillance d'un puissant, d'un supérieur », d'une maîtresse ; « crédit qu'on a sur son esprit ». (F)V. 66, 129, 275, 839, 1046.Feindre« Inventer » (A), se dit en particulier de l'invention poétique.V. 166, 182.Dire faussement, faire croire⁎ une chose inventée.V. 166, 182.FierFarouche.V. 33, 171, 625, 635, 991, 1210, 1377, 1567.FigureReproduction matérielle d'une forme.V. 14.FigurerReprésenter, dépeindre, aux yeux ou à l'esprit.V. 1147.Finesse« (Mauvaise part) ruse, adresse⁎, artifice ; il est au bout de ses finesses⁎ signifie au bout de ses inventions pour tromper. » (F)V. 65.FlatterCharmer, séduire, « délecter » (A).V. 936.Se dit par extension, de tout ce qui agrée à une personne, de tout ce qui lui fait plaisir, lui donne de l'espoir et en particulier de tout ce qui apaise un chagrin⁎.V. 148, 936.« Signifie aussi tromper en déguisant la vérité ou par faiblesse ou par une mauvaise crainte de déplaire. (A)V. 191.FoiAssurance donnée par une personne, engagement, « parole qu'on donne d'accomplir une chose, promesse de faire et d'accomplir quelque chose. » (R).V. 410, 428, 488, 677, 1533, 1569.Fidélité à un engagement donné, honneur, loyauté d'une personne.Follet« Qui s'amuse par gaïté à de petites badineries » ; un feu follet est « une espèce de météore, autrement appelé Ardent » (A).V. 1298.Fortuné(e)Littéralement, à qui la Fortune, c'est-à-dire la chance, sourit ; autrement dit aimée des Dieux, ce qui se dit felix en latin.V. 600, 1424, 1640.FranchiseLiberté, indépendance, en ce sens « n'a guère d'usage qu'en poésie, et en parlant d'amour ». (A).Prologue et V. 37, 50, 173, 720, 783, 1119, 1637.Froid« Qui ne s'émeut de rien » (A) ; faire froid à signifie « le recevoir avec une minemoins gaie, un visage moins ouvert qu'à l'ordinaire. » (A)V. 162, 1142, 1186, 1225, 1449.Funeste« Qui cause la mort, ou qui en menace », mortel, meurtrier, sinistre, fatal⁎. (F)V. 361, 686.Galant(Adjectif) « honnête⁎, civil⁎, sociable, de bonne compagnie de conversation agréable ». (A)V. 9, 764.Vif, plein d'entrain, jovial, empressé à s'amuser, à plaisanter (sans nuance défavorable).V. 764.Empressé à s'amuser (avec nuance défavorable), en parlant spécialement des plaisirs de l'amour ; qui aime les intrigues amoureuses.V. 1283.« Habile en sa profession » (A).V. 1283.« Qui cherche à plaire aux Dames » (A), qui s'en fait même un devoir.V. 1283, 1603. (Substantif) Amant⁎ qui se donne tout entier au service d'une maîtresse, « mais se dit plus ordinairement de clui qui fait l'amour à une femme mariée ou à une fille qu'il n'a aps dessein d'épouser » (A).N.B : Ce mot vient du vieux français « Gale », qui signifie réjouïssance et bonne chère, qui vient de « gallare », c'est-à-dire boire d'autant et se réjouïr à la mode des prestres de Cybelle qu'on nommait « galli ». (F)GalanterieDevoirs, respects, services que l'on rend aux Dames. Ce sens renvoie à peu près au sens actuel.Fait de « chercher à plaire aux Dames ».V. 417, 453.Généreux« Qui a l'âme grande et noble » (F), sans idée d'inclination à donner, de libéralité facile.V. 528, 873, 1001.Gloire« Éclat, splendeur » (A)V. 1607.Considération, « honneur,… estime⁎, réputation qui procède du mérite d'une personne » (A) sans idée d'éclatante célébrité.V. 11, 138, 143, 154, 155, 169, 306, 704, 723, 776, 919, 1008, 1040, 1075, 1122, 1155 1171, 1182, 1242, 1320, 1328, 1371, 1457, 1526, 1545, 1607, 1656.Désir de considération, ambition, amour-propre, fierté, vanité.V. 570, 574, 662, 950, 1411.GlorieuxExprime parfois la même nuance, c'est-à-dire « plein de vanité, rempli de trop bonne opinion de soi. » (A)V. 1305Mais il signifie le plus souvent « qui est estimé » (sens passif)...V. 83, 396, 846, 945, 1160, 1405Ou « qui apporte la considération » (sens actif)V. 83, 111, 613, 998.GrâceDisposition à être agréable.Prologue, V. 94, 752, 892, 931, 1192.Faveur⁎, amabilité qu'on accorde, sans idée de pardon, de remise de peine.V. 462, 629, 1135.« Selon le P. Bouhours, écrit Thomas Corneille, (*Notes*, 1687) le terme ne se dit en prose sérieusement que quand il s'agit de peinture » ; par conséquent, la disposition à être agréable est dans ce cas d'ordre visuel, conformément au sens actuel.V. 94, 752, 892, 931, 1192.GracieuxQui est bienveillant, favorable, qui accorde un service.Prologue.Disposition à être agréable, aimable.De mauvaise grâce(Accomplir quelque chose) malgré soi, sans avoir un mouvement spontané mais en y étant prié.V. 401.HasardDanger, « péril, risque » (A).Agir au hasard : agir de manière inconsidérée, irréfléchie ».V. (383), 593, 1548.HasarderS'exposer au hasard⁎ de, courir le risque de, braver.V. 595.HautainFier, arrogant.V. 1071.HonnêteHonorable, qui mérite de l'estime⁎, de la considération.Distingué, sous le rapport des manières et des agréments de l'esprit. « En ce sens, *honnête⁎ homme* ne veut dire autre chose que galant⁎ homme, homme de bonne conversation de bonne compagnie. » (A)Bienséant, conforme aux règles de l'étiquette, aux devoirs de l'urbanité.« Convenable à la raison⁎, bienséant à la condition, à la profession et à l'âge des personnes. » (A)HontePudeur⁎, modestie⁎, timidité, sans idée défavorable de déshonneur, d'humiliation.V. 138, 154, 457, 582, 919, 991, 1011, 1040, 1084.HumeurCaractère au pont de vue moral, « naturel,…. être d'*humeur* à tout souffrir, c'est être d'un tempérament à tout souffrir. » (R)Se dit aussi comme aujourd'hui, d'une disposition accidentelle, d'un état d'âme passager.V. 202, 297, 350, 454, 479, 509, 614, 682, 764, 1071, 1119, 1143, 1147, 1372IllustreBien en vue, manifeste, éclatant⁎ ; se dit des choses extraordinaires qui signalent un homme en bien ou en mal, et n'implique nécessairement aucune idée de gloire⁎ ni de mérite.Dédicace, prologue, V.  86, 317, 331, 612, 884, 925, 1019, 1323, 1355, 1426, 1555, 1615.IncivilDiscourtois, deshonnête⁎.V. 400, 532.InclinationPassion.Objet⁎ d'une inclination, personne aimée.IndiscretSans discernement, irréfléchi, « étourdi, imprudent, qui ne prend pas garde à ce qu'il dit ou à ce qu'il fait » (A).V. 616.InjureInjustice, « offense volontaire qu'on fait à quelqu'un contre la défense de la loi » (R)V. 234, 416, 1069, 1115, 1292. Dommage, « tort » (F).V. 416, 1310.InterdireJeter quelqu'un dans un étonnement, un trouble, tel qu'il lui ôte la faculté de parler et d'agir. Ce terme s'emploie encore, mais rarement, en ce sens.V. 1505.IntérêtCe terme a un sens judiciaire et signifie parti, cause.V. 142, 168, 267, 709, 715, 1065, 1183, 1241, 1619.Il peut signifier aussi, comme aujopurd'hui, affaire, question, souci qui regarde une personne.V. 709, 1576.Interessé(Adj.) vient du latin interesse qui signifie « être ou se placer au milieu de », puis « prendre part à, se mettre dans la partie, intervenir ». « Intéressé » signifie donc dans cette pièce, qui participe à l'affaire (dont il est question), qui est concerné.V. 1017.S'interesserS'engager à fond, prendre délibérément parti, se passionner pour ou contre une personne, une chose ; il a alors un sens très fort.V. 1351.Se jouer deSe moquer de quelqu'un.V. 417.LicenceLiberté, sans idée d'excés ni de dérèglement moral. Se dit déjà souvent en mauvaise part et signifie « abus de permissions qu'on étend au delà de leur intention, libertés qu'on prend de soi-même » (F), « dérèglement dans les mœurs, dans les actions, dans les paroles, et dans toute la conduite de la vie ».V. 81.LorsAlors. C'est un adverbe et non une conjonction de subordination.V. 903.Lors queLorsque (conjonction de subordination).V. 213, 318, 431, 547, 619, 773, 831, 861, 884, 1019, 1103, 1116, 1284, 1315, 1318, 1382, 1394, 1514, 1575, 1602, 1603.MaîtresseFemme aimée, qui exerce un empire sur l'homme qui l'aime.V. 66, 278, 346, 493, 698, 780, 862, 971, 1223, 1291, 1503, 1563, 1615.MalheureuxInfortuné, comme le latin *infelix*.V. 1402, 1517.MauvaisSans bonté, au point de vue moral, méchant, malveillant.V. 405.Funeste.V. 686, 1623.Mérite« Assemblage de plusieurs vertus ou bonnes qualités en quelque personne qui luy donne de l'estime⁎ et de la considération. Pour une dame cela signifie être fort belle et fort vertueuse. » (F)V. 89, 177, 218, 391, 425, 462, 492, 538, 1104, 1127, 1203, 1292.Modestie« Modération, retenue dans les sentiments et dans tout ce qui parait au dehors » (A).Respect des bienséances.Modeste« Qui a de la modération, de la sagesse, de la pudeur⁎. »Se dit aussi « des choses inanimées, qui ne sentent point le faste et l'orgueil. » (F)V. 83.MurmureBrouhaha, « se dit du bruit confus de plusieurs personnes qui parlent ensemble, sans qu'on en puisse discerner aucune en particulier. Il tient ce sens très fort du latin « murmur »,  « bruit sourd et confus » en parlant aussi bien du tonnerre, du rugissement des lions que des paroles dites à voix basse.V. 683.Objet« Ce qui est opposé à notre vue,…ou ce qui se représente à notre imagination » (F).V. 243.« Se dit aussi des belles personnes qui donnent⁎ de l'amour. » (F)V. 465, 714, 846, 892, 1333. PartiMoyen terme, état intermédiaire.V. 62.Cause, au sens judiciaire.V. 62, 552, 1281.PasserEn arriver à, aller jusqu'à, avec l'idée d'une limite franchie.V. 418.PassionSentiment, mouvement du cœur, en général. « Se dit des différentes agitations de l'âme selon les divers objets⁎ qui se présentent à ses sens » (F).V. 529, 968.PasteurPâtre, berger.Se piquer deSe flatter de, faire profession de.V. 101.PompeCortège triomphal, solennel.Prologue.Par extension, sans nuance défavorable, tout « appareil⁎ magnifique, joyeux… ». (A) Ici, le mot pompe peut avoir les deux sens.ProloguePompeuxTriomphant, glorieux, éclatant, grandiose, magnifique.Prologue, V. 1641.PousserRepousser, faire reculer avec violence, refouler.V. 649.Pousser à boutRéduire à ne pouvoir répondre, sans inspirer d'ailleurs ni irritation ni impatience ; mettre à quia c'est-à-dire faire en sorte que son interlocuteur soit à court d'argument.V. 435.Prétendre« Demander une chose à laquelle on croit avoir droit » (A), réclamer, revendiquer ; c'est un verbe transitif, contrairement à l'usage actuel.V. 125, 479, 621, 473, 1043, 1161, 1602.PriserÉvaluer très haut, « estimer », apprécier, louer. (A)V. 98, 1580.PudeurConfusion, embarras, « honnête⁎ honte⁎ » (A) ; ne se dit pas seulement de l'embarras qu'éprouve une âme chaste en présence de ce qui blesse la décence mais de la confusion causée par l'appréhension de ce qui blesse l'honnêteté, la modestie⁎, la délicatesse.Modestie⁎.V. 69, 617, 987, 1393, 1448, 1451.Quartier« Le quartier d'une rente, d'une pension » représente « ce qui est échu pendant trois mois, soit le quart de l'année » (F) ; le terme « se dit encore en parlant des gensqui servent chez le Roi… et signifie trois mois pendant lesquels on est obliger de servir » (R).V. 1290.Quereller(Verbe actif) « attaquer, offenser quelqu'un » (F).V. 53, 86, 1019, 1127.Se plaindre de, accuser quelqu'un.RaisonJugement, discernement, sagesse, intelligence.V. 30, 617, 810, 812, 830, 939, 1443, 1566.Cause, motif.V. 552, 568, 585, 725, 835, 1227, 1268.Justification d'un acte suspect, blâmable.V. 835, 1227.Chose raisonnable⁎, convenable, suffisante⁎, acceptable ; « se prend aussi pour tout ce qui est de devoir, de droit, d'équité, de justice. » (A)V. 743.Raisonnable« Qui est pourvu de raison », en parlant des personnes. (F)V. 1199.Convenable, suffisant⁎, acceptable, en parlant des choses.V. 62.Ravissant(e)S'emploie déjà « au figuré » et « en bonne part » d'après A. de Boisregard, en parlant de ce qui nous ravit à nous-même, nous transporte⁎ de joie, d'admiration.V. 949.Recevoir les vœux (de quelqu'un)Accepter sa cour et son amour.V. 467, 695, 1245.RencontreCirconstance fortuite, « occasion » (A) ; *par rencontre* a la même nuance et signifie par hasard.Satisfaire(Avec un complément direct ou indirect) « faire réparation, demander pardon ». (F)V. 860.SéjourStationnement, arrêt.V. 797, 889, 1169, 1634.Sensible« Qui frappe les sens » (A), palpable, tangible, visible.V. 455, 1028, 1481.Qui est vivement ressenti, d'où pénible, douloureux.Quand il s'agit d'une personne, cela signifie facile à toucher en bien ou en mal, par exemple accessible à l'amour, à la reconnaissance : « se dit …des personnes, et veut dire Délicat, qui sent les choses qui le touchent, ou qui le choquent, qui a de la sensibilité pour les gens qui l'obligent, qui a du ressentiment… » (R).V. 1201, 1458.Servir une femme« Se dit de l'attachement d'un homme auprès d'une dame dont il tasche d'acquérir les bonnes graces » (F) ; faire la cour⁎.V. 1290.Sévère« Rigide et exact⁎,...austère » (R), farouche, impitoyable.V. 69, 804, 1372.SouciInquiétude.V. 687, 816, 1319.SouffrirTolérer, supporter.V. 234, 273, 1604.SubtilAdroit, habile, « se dit aussi de ce qui est fait avec une adresse⁎ cachée et inconnue autres. » (F)V. 736, 835, 1251, 1490.SuffisanceHabileté, science.DédicaceSuperbe(Adjectif) « vain⁎, orgueilleux » (A), d'un orgueil imposant.V. 311, 319, 944, 996, 1184, 1415, 1444, 1466.(Substantif) « Orgueil, vaine gloire⁎, présomption, arrogance. » (A)TéméraireQui agit au hasard⁎, à la légère.V. 788.En même tempsAussitôt, dés l'ordre prononcé ou dés la demande formulée par exemple.V. 923, 1286.TimideCraintif, « peureux, qui craint tout » (F).V. 593, 1419.TourmentTorture, d'ordre physique.V. 1397.Tout de mêmeTout à fait pareillement.V. 320, 429.Travail« Il se dit au pluriel des actions, de la vie d'une personne, et particulièrement des gens héroïques » (F) ; « peine de l'esprit » (A), souffrance, épreuve, tourment. Ces deux sens sont présents dans le vers 1639.V. 1639Traitable« Qui a l'esprit doux et facile » (F). Transport« En choses morales, trouble ou agitation de l'âme » (F), émotion violente, agréable ou désagréable qui nous met hors de nous, emportement, égarement, élan de passion en parlant de l'amour.V. 240, 648, 950, 1085, 1472, 1522, 1556.En userSe conduire, se comporter, « agir » (A).V. 88, 454.VainSe dit d'une personne qui s'estime trop et s'attache ainsi à ce qui n'est pas. « Signifie aussi orgueilleux, superbe, qui a bonne opinion de lui-même » (F)V. 303, 479, 1429. Se dit aussi d'une chose vide, c'est-à-dire au sens figuré qui n'a aucun fondement, qui ne repose sur rien.V. 856, 1429.Vertu« En choses morales, disposition de l'âme ou habitude à faire le bien » c'est-à-dire « à suivre ce qu'enseignent la loy et la raison⁎ » (F).V. 69, 250, 576, 577, 802, 805, 840, 1335, 1364, 1371, 1373, 1380, 1410, 1445, 1534, 1550.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourcesLES/AMOURS/D'OVIDE./PASTORALE/HEROIQUE./
+## Sources.LES/AMOURS/D'OVIDE./PASTORALE/HEROIQUE./
 LES/AMOURS/D'OVIDE./PASTORALE/HEROIQUE./
 L'Iliade
 L'Odyssée
@@ -3677,10 +3677,10 @@ Don Giovanni
 
 
 
-## Instruments de travail et études
+## Instruments de travail et études.
 
 
-### Antérieurs à 1800Lettres de Chapelain
+### Antérieurs à 1800.Lettres de Chapelain
 Mémoire de quelques gens de lettres vivants en 1662, in Lettres de Chapelain.
 La Rhétorique ou l'Art de bien parler
 Le Théâtre français
@@ -3694,7 +3694,7 @@ Histoire de Tancrède de Rohan
 
 
 
-### Postérieurs à 1800Un Précurseur de Racine : Tristan L'Hermite
+### Postérieurs à 1800.Un Précurseur de Racine : Tristan L'Hermite
 Syntaxe française du XVII*e* siècle
 Le Mémoire de Mahelot, Laurent, et d'autres décorateurs de l'Hôtel de Bourgogne
 A History of French Dramatic Literature in the XVIIth Century

@@ -18,7 +18,7 @@ A PARIS. Chez JEAN GVIGNARD, au premier Pillier de la grand' salle du Palais. M.
 Édition critique établie par Luca Falcone dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2012-2013)
 
 
-# Introduction : les « noces de vaugirard » une pièce creuset dans un moment de transition
+# Introduction : les « noces de vaugirard » une pièce creuset dans un moment de transition.
 
 
 ... je puis vous asseurer ... que les *oreilles delicates* n'y trouveront point leur satisfaction, que les chercheurs de poinctes en trouveront plus chez les vitriers que dans mon livre ...
@@ -50,10 +50,10 @@ La question du mélange des genres se rattache à une deuxième question concern
 Par cette utilisation du comique traditionnel, auquel reviendra plus tard aussi Molière, Discret fait subir à la pastorale un traitement parodique : il s'agit donc de rire de la pastorale. Or dans la conscience commune, le terme de *parodie* évoque spontanément, et exclusivement, l'imitation à visée satirique, mais en réalité, l'intention moqueuse n'est pas forcement la seule fonction attribuable à la parodie, qui se manifeste aussi par des imitations à visée non satirique. Le régime parodique, est en effet une pratique bien plus complexe en ce qu'elle contient une large gamme de gradations et attitudes différentes qui intéressent le rapport entre l'imitateur et son modèle [8]. La question de la parodie nous permet ainsi d'analyser les transformations des poncifs du genre pastoral à l'intérieur de la pièce.
 
 
-# La construction de la figure auctoriale
+# La construction de la figure auctoriale.
 
 
-## La condition de l'auteur, « tres-humble & tres obeïssant serviteur »
+## La condition de l'auteur, « tres-humble & tres obeïssant serviteur ».
 
 En voulant s'arrêter au seuil de la pièce, on s'aperçoit que Discret pratique la parodie dès les préfaces, d'où il fait allusion à l'actualité théâtrale de sont temps sous le mode de la raillerie, comme le montrent les deux citations d'ouverture.
 
@@ -78,12 +78,12 @@ mon humeur indifferente ne se soucie de la probation des doctes, ny du mépris d
 C'est par ces quelques lignes de supérieure indifférence qu'il livre nonchalamment en 1638 sa deuxième et dernière pièce au goût du lecteur. Mais faut-il vraiment croire à cette attitude d'indifférence ? Il est vrai que sa production restreinte, laisse penser qu'il ne s'agit là que d'un auteur occasionnel, qui a probablement arrêté sa carrière assez tôt. En outre ses pièces ne semblent pas être très représentatives des la production théâtrale des années 1630, puisque, comme le dit Charles Mazouer : « les genres pratiqués ... sont ceux qui ont la faveur du public en ces années : la tragi-comédie et la tragédie d'abord ; assez loin derrière la comédie et plus loin encore la pastorale [13]. » Or à travers leurs frontispices [14] on voit que ses deux pièces de Discret s'affichent précisément comme appartenant à ces deux derniers genres assez démodés qu'on vient d'évoquer.
 
 
-## Le public visé par Discret
+## Le public visé par Discret.
 
 Cependant le fait que Discret choisit d'écrire dans des genres qui ne sont plus à la mode, n'explique pas forcément l'attitude d'indifférence dont il se pare, et la condition d'amateur qu'on pourrait lui prêter. À regarder de plus près la production théâtrale de ces années, on se rend compte que ces genres désuets, qui avaient connu leur apogée dans le premier tiers du siècle, arrivent malgré tout  à survivre : la pastorale trouve une nouvelle longévité en se glissant dans les genres voisins de la tragi-comédie et de la comédie ; le genre comique de son côté, qui avait été directement concerné par le mouvement de réhabilitation et de normalisation du théâtre dirigé par Richelieu, garde néanmoins un espace pour le comique traditionnel, même s'il est désormais confiné à une vie plus marginale mais qui trouve malgré tout son public. Dès lors, peut-on parler, en suivant l'abbé D'Aubignac, d'un public populaire, qui n'ayant du plaisir que pour les spectacles « des-honnestes » n'est que « populace élevée dans la fange [15] » ? Il est certain que, D'Aubignac avait trop d'intérêt à rabaisser le comique traditionnel pour qu'on puisse prêter foi à ses affirmations. Nous somme plutôt, enclin à penser que, compte tenu des catégories socioprofessionnelles qui peuvent se permettre d'aller au théâtre à cette époque [16], Discret s'adresse à un public choisi, appartenant « au meilleures maisons de Paris [17] », mais qui ne dédaignent pas pour autant la trivialité d'un comique s'inspirant de la farce traditionnelle. C'est ainsi que l'attitude détachée qu'il manifeste dans ses *advertissements* aux égards des pratiques flatteuses des auteurs à la mode peut être vue comme une stratégie d'écrivain visant à proposer une image d'auteur différente, fondée sur le refus et la subversion railleuse des autres pratiques auctoriales. Dès lors, Discret n'est pas forcement l'auteur insensible au sort de sa pièce, comme il veut le laisser croire ; et ses *advertissements au lecteur* contiennent tout une série de signaux textuels qui montrent la volonté de l'auteur de promouvoir son œuvre et son attention au contexte théâtral.
 
 
-## La parodie de la pratique auctoriale
+## La parodie de la pratique auctoriale.
 
 La comparaison des deux éditions successives de sa première comédie, *Alizon*, nous montre, la volonté de l'auteur d'inscrire dans ses publications l'actualité théâtrale de son temps, et cela même dans l'espace considérable d'une vingtaine d'année qui sépare les deux éditions de sa pièce. En effet, alors que dans la première édition de 1637, on trouve les allusions à la troupe de Mondory et au succès retentissant du *Cid* [18], dans l'édition de 1664, n'étant plus d'actualité, la référence particulière à cette représentation est supprimée, tout comme un long passage relatant les trois représentations privées de sa pièce [19]. À côté de ces retranchements, on voit en revanche apparaître toujours dans cette deuxième édition de 1664, une épître dédicatoire dédiée à « Mesdames les beurières de Paris », qui affirme et prolonge la stratégie de subversion de la figure auctoriale déjà entamée, vingt ans plutôt, dans l'*Advertissement au lecteur* des *Noces* [20].
 
@@ -92,25 +92,25 @@ Bouleversant ainsi la figure habituelle du destinataire de l'épître, Discret d
 Le souci de Discret, dans la mise en place de la stratégie d'auteur, ne reste pas confiné dans les épîtres car au théâtre l'appareil para-textuel déborde souvent les contours de la feuille écrite : de telle façon que, en paraphrasant Pierre Larthomas [23], nous pouvons dire que le texte théâtral se construit par un « compromis » entre deux espaces d'expression : celui du livre et celui de la scène. C'est ainsi que dans la première comédie de Discret, le titre même : *Alizon*, établit un pont avec la réalité théâtrale du temps, et nous aide à comprendre le type de relations que le dramaturge aurait pu avoir avec les théâtres parisiens et leurs comédiens. *Alizon* est le nom d'un personnage comique appartenant à la tradition farcesque qu'on trouve bien avant 1637, et comme ce personnage de vieille au franc-parler et à l'affût d'amours tardives constitue la figure principale autour de laquelle la pièce est construite, il était normal que l'auteur choisisse de le faire apparaître dans le titre. D'autant plus que *Alizon* était aussi le nom de scène que portait un acteur de cette période spécialisé dans ce rôle [24]. Ainsi Discret aurait pu concevoir sa pièce, en pensant la faire jouer par cet acteur ; ce n'était pas qu'une pratique isolée d'écrire des pièces faites « sur mesure », exploitant le nom d'un acteur célèbre, qui pouvait ainsi assurer la venue du public, désireux de voir tel ou tel acteur sur scène [25].
 
 
-# Les conditions de creation et de représentation
+# Les conditions de creation et de représentation.
 
 Autour de la coïncidence entre le nom de l'acteur et le titre de la pièce, une partie de la critique, principalement représenté dans la figure de H. C. Lancaster, a avancé l'hypothèse que la pièce *Alizon*, aurait été représentée au théâtre de l'Hôtel de Bourgogne. Cette hypothèse a ensuite été contestée, par une proposition adverse, qui est allée plutôt dans le sens d'une éventuelle représentation donnée au Théâtre du Marais. Ce débat autour des représentations s'est avéré précieux pour notre recherche même si cela ne concerne pas directement la pièce des *Noces*. En l'absence d'informations sur les conditions de représentation de celle-ci, la considérable proximité — autant dans le temps que dans le traitement — des *Noces* (1638) avec *Alizon* (1637) ; nous permet de faire valoir pour toutes les deux les considérations que nous allons entreprendre sur les représentations d'*Alizon.*
 
 
-## Lieux et modalités de la représentation
+## Lieux et modalités de la représentation.
 
 
-### La circulation des comédiens
+### La circulation des comédiens.
 
 Dans le dictionnaire des Frères Parfaict, une notice [26] concernant cette pièce indique que *Alizon* aurait été représentée à l'Hôtel de Bourgogne en 1637, l'année même de sa publication. Suivant cet indication, H. C. Lancaster a tenté de démontrer que cette même année, l'acteur Alizon, après une série d'allées et venues de la troupe du Marais à celle de l'Hôtel de Bourgogne [27], faisait partie de cette dernière et qu'il aurait par conséquent interprété le rôle traditionnel de la vieille Alizon dans la pièce homonyme de Discret [28]. Cette proposition a été ensuite reprise par Dierkauf-Holsboer, qui a montré comment certains éléments de la reconstruction de Lancaster étaient sans fondement [29], venant ainsi à la conclusion que l'acteur Alizon avait bien fait partie de la troupe de l'Hôtel de Bourgogne mais seulement pendant quelque mois en 1635 pour ensuite quitter Paris et continuer sa carrière en province [30].
 
 
-### Les allusions textuelles
+### Les allusions textuelles.
 
 D'autres critiques sont allés plus loin ; jusqu'au point de remettre en cause l'idée que la pièce ait pu être représentée dans le théâtre de la rue Mauconseil. Comme on l'a vu, l'*Advertissement* au lecteur, contient des allusions élogieuses à la troupe de Montdory, mais surtout avant le début de la pièce, on trouve un poème liminaire où l'on fait allusion à plusieurs œuvres dramatiques que l'on sait avoir été toutes représentées au théâtre du Marais : « A luy-mesme. / Mariane, le Cid, Cesar, & Cléopatre [31], / Paroissans au théâtre, / Ont ravy les esprits par l'oreille & les yeux : / Mais qui preferera le plaisir à tristesse, / Doit cherir Alizon autant qu'une Deesse / Comme un present des Cieux. / C.M. Fort de ces indices, l'auteur de l'unique édition critique d*'Alizon* [32] a cru, puisque Discret s'exprimait en des termes élogieux envers des pièces représentées au théâtre du Marais, que sa pièce ne pouvait être destinée qu'à ce théâtre. En voulant suivre le raisonnement de ce critique, on pourrait corroborer son argumentation en avançant que, considération faite de la rude concurrence que le Marais et l'Hôtel de Bourgogne se faisaient l'un l'autre, Discret ne se serait pas employé à mettre en bonne lumière le théâtre du Marais s'il n'y avait pas été attaché par des intérêts personnels. Toutefois ce critique, se limite à ce raisonnement déductif et ne propose aucun autre argument pour fortifier la thèse selon laquelle *Alizon* aurait été représentée au Marais.
 
 
-### Le répertoire des théâtres parisiens
+### Le répertoire des théâtres parisiens.
 
 Si les arguments fournis par Lancaster n'apparaissent pas plus probants, en revanche la prise en considération des répertoires des pièces jouées, appartenant aux deux seuls théâtres stables parisiens des années 1630, nous porte plutôt à attribuer, comme étant plus plausible, la possibilité d'une représentation de la pièce de Discret à l'Hôtel de Bourgogne.
 
@@ -119,10 +119,10 @@ Grâce au processus de régularisation du théâtre, l'Hôtel de Bourgogne connu
 D'autre part, en revenant aux pièces imprimées, on observe que si l'on a trouvé des allusions aux pièces jouées au Marais dans l'appareil para-textuel d'*Alizon*, celui des *Noces* ne se trouve pas non plus dépourvu d'indices textuels de ce type, mais qui semblent plutôt faire référence à l'Hôtel de Bourgogne. Dans l'*Advertissement* des *Noces* que nous avons déjà cité plus haut, Discret, cherchant à se distinguer des autres auteurs, nous dit : « moy je ne sçaurois flatter ... sans chercher la protection des grands, ainsi que beaucoup font, & qui s'imaginent que le nom de ceux à qui leurs livres sont dediez excusent leurs fautes, & deffendent leurs œuvres de la médisance ... ». Selon Lancaster, ce passage est une pique lancée contre les prétentions de Rotrou qui, dans l'épître dédicatoire de *L'heureuse constance* de 1636 [33], représentée pour la première fois en 1631 à l'Hôtel de Bourgogne [34], avait manifesté son désintérêt hautain à l'égard de tout jugement sur son œuvre. L'identification de Rotrou en tant que cible de l'accusation allusive faite par Discret semble être plausible, d'autant plus qu'à l'intérieur de l'*Advertissement*, l'auteur des *Noces* étale sa critique railleuse en conseillant « aux Autheurs du temps ... de donner plus de temps à la composition de leurs ouvrages, & de ne les entreprendre *si jeunes* ». Par rapport au contexte théâtral évoqué au début de l'introduction, nous avons toutes les raisons de croire que ces jeunes auteurs sont ceux qui constituent la « société des cinq » voulue par Richelieu. Parmi ceux-ci, Jean de Rotrou, tout de suite après Corneille, est l'auteur le plus jeune du groupe [35] : en 1637, l'année de la publication des *Noces*, il a 28 ans, et si l'on accepte l'année 1631 comme datation de la représentation de *L'heureuse constance*, cela signifie qu'il ne pouvait avoir plus de 22 ans lorsqu'il écrivait cette pièce. Le jeune Rotrou avait commencé sa carrière à l'Hôtel de Bourgogne dont il en était devenu le poète à gage. Bien qu'appartenant à ce groupe de jeunes dramaturges désireux de renouveler le théâtre, il restait le grand représentant de la tragicomédie traditionnelle. À la différence de Corneille, qui étais le poète phare du Marais, Rotrou ne participa jamais aux tendances contemporaines [36]. Malgré les critiques que Discret fait à Rotrou, la constante présence de ce poète manifeste que le répertoire de l'Hôtel de Bourgogne restait plus attaché à la tradition, donc qu'il pouvait plus facilement accueillir une pièce présentant les caractéristiques traditionnelles comme celle de Discret. De plus, Dierkauf-Holsboer qui a reconstitué le répertoire de la rue Mauconseil dans les années 1636 et 1637, grâce aux données fournis par le *Mémoire de Mahelot* et les travaux de Lancaster, indique comme très probable la possibilité que *Les Noces* ait pu être représentée à l'Hôtel de Bourgogne [37].
 
 
-## Les conditions matérielles
+## Les conditions matérielles.
 
 
-### Le décor au théâtre de l'hôtel de bourgogne
+### Le décor au théâtre de l'hôtel de bourgogne.
 
 Savoir dans quel théâtre *Les Noces de Vaugirard* a pu être représentée, on a vu que ce n'était pas une chose facile à déterminer. Mais quelle que soit la salle de représentation envisagée, cela ne comporte pas de différences sensibles en ce qui concerne le décor, car les dispositifs scénographiques pratiqués par le Théâtre du Marais et l'Hôtel de Bourgogne étaient à peu près équivalents pendant les années 1630. Les genres dramatiques qui dominent nettement cette période, et d'autant plus qu'ils ne se distinguent pas toujours clairement l'un de l'autre sont la tragi-comédie et la pastorale. C'est à ce dernier qu'appartient la pièce de Discret et cela constitue pour notre étude un avantage considérable dans la compréhension du décor des *Noces*. La scénographie de la pastorale en effet, au contraire de la tragi-comédie, présente une fixité des décors, puisqu'on utilisait toujours les mêmes lieux topiques. Le caractère récurrent que présente le décor pastoral est manifeste dans les annotations du répertoire de Mahelot où, comme le fait remarquer Pierre Pasquier : 
 
@@ -143,36 +143,36 @@ Parmi ces onze lieux topiques du genre de la pastorale à quoi correspond une ch
 Une fois identifiés, à travers l'analyse textuelle, tous les lieux [40] où est censé se passer l'histoire de la pièce, nous avons essayé de comprendre à quels emplacements pouvaient avoir été disposées les chambres pour former le décor, selon les nécessités de l'action et du jeu des acteurs dans la pièce.
 
 
-# Résumé de la pièce
+# Résumé de la pièce.
 
 
-## Acte premier Première journée
+## Acte premier Première journée.
 
 **• *I , 1 •* **Pancrace, le vieux berger du village, se félicite de voir enfin son dessein accompli pour le mariage de sa fille Amarille avec Floridon, lequel, aux yeux du vieux père, passe pour être le meilleur gendre qu'on puisse espérer. Le vieux Pancrace *est* d'autant plus satisfait que, s'il n'avait pas veillé à contrôler les événements, le mariage qu'il ambitionnait aurait pu s'écrouler à cause des amourettes que sa fille entretient avec un jeune nommé Polydas que tout le monde croit un berger étranger mais qui se révèlera être en réalité un jeune noble parisien. Amarille, bien qu'elle se soit pliée aux volontés de son père, a néanmoins exigé de faire ajouter au contrat de mariage une clause interdisant à son époux de coucher avec elle avant une période de six mois à compter du jour des noces. Pancrace a bien voulu la contenter, convaincu du fait qu'une fois mariée, sa fille cédera bien facilement aux attraits de la vie conjugale, et se laissera faire par son époux. C'est pourquoi il s'en va accueillir allègrement les invités pour mener les danses de la fête organisée pour les noces. **• *I , 2 •* **Entretemps Floridon, l'heureux époux, s'apprête à célébrer le jour qui va désormais l'unir avec sa bien aimée Amarille, mettant ainsi un terme à ses peines et à ses attentes interminables. En croyant que l'amour de cette union est réciproque, Floridon, pense ingénument que la clause des six mois, n'est en réalité qu'une adroite manière de son épouse pour tromper Polydas en lui donnant un faux espoir afin de n'être plus embarrassée par lui. **• *I , 3 •* **De son côté, le berger Polydas, qui entretient cette relation amoureuse avec la fille de Pancrace, se plaint de s'être fait dérober sa belle Amarille pour laquelle il était venu habiter la campagne. Il aurait déjà tué Floridon, afin de punir son insolence d'avoir voulu rivaliser avec lui, si Amarille ne lui avait pas prouvé, par cette clause des six mois, son amour et sa volonté de lui rester fidèle malgré le fait d'avoir été unie en mariage avec Floridon. Conforté par l'engagement qu'Amarille a pris avec lui, Polydas décide de patienter, tout en se disant que, quand dans quelques jours un bateau qu'il attend aura jeté l'ancre, il pourra enfin enlever Amarille. Avec cet espoir il décide d'aller participer à la fête des noces afin de ne pas donner la possibilité de faire naître des soupçons sur lui. **• *I , 4 •* **Pendant que Pancrace exhorte ses invités à prendre part aux danses, Polydas apparaît, mais, ne voulant pas se faire remarquer, décide d'observer la scène en se tenant à l'écart ; tout à coup, pendant qu'il observe le groupe, il aperçoit parmi les invités Lydiane et il en tombe amoureux à l'instant même. Dès lors, ne pouvant plus demeurer à l'écart, il se décide à aller joindre le groupe et invite Lidiane à une danse. Après un certain temps où les invités se délectent avec les danses Pancrace fait taire les musiciens et invite jovialement ses hôtes à rentrer au logis pour se régaler du banquet nuptial organisé pour la fête. **• *I , 5 •* **C'est ainsi que, ayant laissé partir tout le monde, Amarille peut profiter d'un moment de solitude pour donner libre cours à son affliction en se demandant comment l'ingrat Polydas ait pu danser, sous ses yeux, avec Lidiane. Or à ce moment là, Amarille voit s'approcher le berger Polydas dont elle vient de se plaindre. Celui-ci, se croyant seul, déclare passionnément l'extraordinaire beauté de Lidiane qu'il avait dû jusque-là retenir en son cœur. S'étant ensuite aperçu de la présence d'Amarille il se précipite sur elle avec des paroles douces en espérant qu'elle n'ait rien entendu. Amarille demeure, dans un premier temps, insensible aux tendresse du berger en lui reprochant sa conduite ; mais finalement Polydas réussit adroitement à la persuader du fait qu'il n'aurait dansé avec Lidiane que pour écarter les soupçons sur son compte, mais qu'en fait derrière cette comédie, il lui reste fidèle plus que jamais. Ainsi, grâce à cette ruse Polydas réussit, plus ou moins, à rassurer Amarille qui, après lui avoir donné un baiser, s'en retourne à la fête. La voyant s'en aller, Polydas sent sur lui le chatouillement d'un petit remords mais il s'innocente facilement en se disant que de toute façon il ne peut rien faire pour résister aux charmes de Lidiane et qu'il ne croit pas du tout que Floridon puisse vraisemblablement attendre les six moins exigés par Amarille. C'est ainsi qu'il s'apprête à rejoindre les autres invités au souper des noces en espérant jouir des faveurs de Lidiane.
 
 
-## Acte II Deuxième journée
+## Acte II Deuxième journée.
 
 **• *II , 1 •*** L'acte s'ouvre par de mélancoliques réflexions de Lidiane sur la misérable condition de l'homme, soumis aux souffrances de l'amour et aux aléas de la vie terrestre. Elle évoque la guerre qui les a obligées, elle et sa mère Luciane, à quitter leur contrée, les souffrances interminable face auxquelles elle a, plus d'une fois, souhaité de mettre fin à sa vie. Enfin pour occuper son esprit à des réflexions moins tristes, Lidiane se met à songer aux charmes de Polydas, qui ont fait grand effet sur elle la veille au soir. Voici alors que Polydas survient et les deux amoureux commencent à se faire des galanteries, se déclarant ainsi réciproquement leur amour pour ensuite disparaître ensemble sous la fraicheur des ormeaux. • *****II , 2 •*** Non loin de là, le berger Pysandre mène son petit troupeau dans les prés, et comme il se trouve à passer près d'une grotte, il entend la voix d'Écho qui s'adresse à lui.  Mais Pysandre, craignant d'entendre des mauvais présages, s'éloigne de la grotte pour aller attendre dans un coin tranquille l'arrivée de sa bergère Cleanide. Une fois celle-ci arrivée, Pysandre lui fait croire d'avoir été mordu sur les lèvres par une abeille et il lui demande de soulager sa douleur par des baisers. Après ce petit jeu, Pysandre et Cleanide aperçoivent Polydas et Lidiane, alors les deux couples se rejoignent et décident de passer le reste de la journée ensemble dans les prés, avec aussi Amarille qui, ayant pu se débarrasser de son mari importun Floridon, les a rejoint entretemps. Pour divertir la compagnie, Polydas sort de sa poche un petit livre de divination, et à tour de rôle les bergers lisent un quatrain qui contient, sur le ton de la révélation et du présage, des réprimandes malicieuses concernant les amours de chacun. La compagnie s'arrête de jouer quand Floridon, le niais du groupe arrive et demande de pouvoir s'unir à leur compagnie. Alors, pour se débarrasser de lui, Polydas propose à la compagnie de jouer à la cligne-musette. C'est ainsi qu'au deuxième tour du jeu, grâce aux tricheries d'Amarille et Polydas, c'est à Floridon de devoir chercher les autres. Ainsi pendant qu'il garde les yeux fermés, toute la compagnie se sauve l'abandonnant dans le pré alors que la nuit commence à tomber. Floridon reste quelque temps à les chercher en vain, jusqu'à ce qu'il comprenne, pendant qu'Écho se moque de lui, qu'il a été berné. Il rentre donc au village en jurant de se venger de l'affront subi. **• *II , 3 •* ** Entretemps, avec la tombée de la nuit, le vieux Pancrace, s'étant épris de Luciane depuis la fête des noces, se dirige en parfait amant sous la fenêtre de la vieille pour lui faire une sérénade au clair de la lune. Celle-ci apparaît alors à la fenêtre en coiffe de nuit et, pour le remercier, elle lui tend en signe de sa faveur un anneau que le vieux berger reçoit avec milles transports.
 
 
-## Acte III Troisième journée
+## Acte III Troisième journée.
 
 • *****III , 1 •*** Le lendemain, devant son fidèle ami Pysandre, le berger Polydas se plaint de ne pouvoir plus revoir la belle Lidiane. Pysandre alors, voulant lui apporter du secours, le prie de lui révéler la cause de son malheur. Ainsi, après quelques hésitations Polydas lui raconte que, ayant raccompagné Lidiane chez elle, celle-ci lui a donné un baiser sur la bouche devant sa porte, mais que par malheur, la vieille Luciane, les ayant surpris par la fenêtre, a giflée sa fille en lui interdisant de ne plus sortir pendant six mois. Ayant entendu ce pitoyable récit, Pysandre se propose d'aider son ami en tant qu'intermédiaire entre les deux amants. Polydas alors lui confie une lettre à apporter à la belle Lidiane. Ainsi les deux amis se séparent avec la promesse de se retrouver une heure plus tard au même endroit. **• *III, 2 •*** Entretemps Amarille se plaint d'être délaissée par Polydas au profit de Lidiane ; et pendant qu'elle tient ce discours, son mari Floridon débarque. Mais se voyant durement rejeté par sa nouvelle femme, Floridon lui dit qu'elle devra bien un jour se plier aux lois du mariage et que de toute façon désormais Polydas ne veut plus d'elle. Une fois la dispute entre les époux terminée, Floridon s'en va et Amarille se voyant accablée de toutes parts, s'en prend à l'injustice des pères, qui marient leurs filles contre leurs volontés. Elle espère enfin que le ciel, prenant pitié d'elle, changera son sort. **• *III, 3 •* **Luciane, déçue par sa fille Lidiane, déplore la décadence des mœurs du temps, en évoquant en contrexemple la stricte pudeur de son époque. Mais Pancrace, beaucoup moins stricte qu'elle, à l'inverse, considère d'un bon œil le fait de vouloir suivre son désir amoureux, et sur le ton badin reproche à Luciane, de ne pas avoir été si chaste en sa jeunesse comme elle voudrait le laisser croire. Puis le vieux berger lui propose de l'accepter comme époux, mais, bien que Pancrace lui assure d'avoir encore bien de vigueur, Luciane cherche à le dissuader en raison de leur âge avancé. Luciane revient enfin sur le déshonneur causé par sa fille, et Pancrace s'offre vaillamment à aller donner une leçon à ce coquin séducteur. Les deux aperçoivent alors un berger s'approcher, que Luciane prend dans un premier moment pour celui qui a embrassé sa fille. Mais, voyant qu'il ne s'agit que de Pysandre, Pancrace refroidit son élan vengeur et invite galamment sa nouvelle fiancée Luciane à aller prendre une collation. **• *III , 4 •* **Pysandre de son côté, une fois arrivé devant la maison où Lidiane demeure enfermée par sa mère, lui fait passer la lettre de Polydas à travers la fenêtre. Elle lit la lettre immédiatement sans en révéler le contenu puis dit à son cousin de rapporter à Polydas que, bien qu'elle ait de la crainte pour la résolution prise par Polydas, elle se tient néanmoins prête à le suivre. Une fois Pysandre parti, elle va donc préparer ses bagages pour la fuite nocturne. **• *III , 5 •* **Luciane et Pancrace, reviennent de leur collation, mais en chemin, ils voient approcher de l'autre côté Pysandre et Polydas, qui ne les ayant pas aperçus continuent leur conversation, jusqu'au moment au où Pancrace les interpelle brusquement. Le vieux et les bergers commencent à s'insulter pendant que la vieille Luciane essaie de retenir la fureur de Pancrace, dont les deux jeunes se moquent éperdument. Enfin Luciane réussit à ramener Pancrace vers le village, sous les railleries des deux bergers. **• *III , 6 •* **Pancrace revient tout seul portant une hallebarde pour se battre. Mais ne trouvant personne, il se rit de la couardise de Polydas qui selon lui n'a pas eu le courage de l'attendre pour le duel. Enfin le soir tombant, il rentre au village.
 
 
-## Acte IV
+## Acte IV.
 
 **• *IV , 1 •* **Polydas s'avance dans la nuit un flambeau à la main en invoquant les dieux pour qu'ils veuillent bien l'assister dans son périlleux projet. Arrivé au village il met le feu à une maison afin qu'une fois l'incendie répandu, il puisse, au milieu de la confusion générale, enlever Lidiane sans qu'on s'en aperçoive. **• *IV , 2 •* **Au beau milieu de la nuit, Luciane lance l'alarme de sa fenêtre ; Pancrace, en chemise de nuit, se précipite à son secours, avec bientôt le support de Pysandre et d'autres bergers. Tout le village est en tumulte, et on envoie chercher de l'eau pour essayer de maîtriser les flammes. **• *IV , 3 •* **Le moment est ainsi propice pour Polydas qui entre dans la maison de Lidiane et l'enlève. Puis, arrivés au bord d'un rivage Polydas fait monter Lidiane dans un bateau qu'il avait placé là pour s'enfuir, mais au moment où il s'apprête à monter à son tour, la corde à laquelle le bateau était accrochée se rompt, et Lidiane est ainsi emportée par le courant. Polydas en proie à la panique cherche un moyen pour la rejoindre, mais il ne trouve rien, et comble du malheur, il voit au loin Lidiane tomber dans l'eau. Ainsi en proie à la folie Polydas s'en prend à Neptune et à l'inclémence des dieux qui ont voulu lui ravir sa belle. Il décide alors de se donner la mort, en se précipitant dans la grotte des démons, et avant de se précipiter il grave au couteau quelques vers funèbres sur un rocher près du lieu de sa mort. **• *IV , 4 •* **Luciane, attristée par la fuite de sa fille, implore les dieux de lui dire pourquoi ils lui infligent de telles souffrances ; elle qui a toujours vécu de façon vertueuse. Puis en invoquant la lettre que Lidiane a oubliée dans la maison, Luciane déplore d'avoir une fille si sotte au point de se laisser duper par les galantes promesses de son ravisseur. Elle en vient enfin à se souhaiter une mort prochaine plutôt que de voir le nom de sa famille couvert de déshonneur par sa fille. Ce disant, elle retourne vers son logis pour recueillir ce qui a survécu aux flammes, en s'en allant elle pense à envoyer sa servante Pernelle à la recherche de sa fille. **• *IV , 5 •* **Après la fuite de Polydas, Amarille ayant été abandonnée éclate de colère, et invoque la justice des Dieux afin d'obtenir vengeance. Cependant, comme les dieux ne répondent pas à son appel elle en tire la conclusion qu'ils doivent plutôt prendre plaisir à la voir souffrir. Alors afin d'arrêter ses souffrances elle décide de se donner la mort, quand, s'approchant d'un rocher, elle découvre l'épitaphe gravée par Polydas par quoi elle comprend que celui-ci s'est suicidé à cause de la perte de Lidiane. Par conséquent elle décide aussi de mettre un terme à sa vie, et se précipite dans la grotte en espérant de rejoindre Polydas dans l'outre tombe. **• *IV , 6* •** Pysandre et Cleanide déplorent la fuite de Polydas et Lidiane, ils se disent de ne pas avoir été au courant, ni l'un ni l'autre, de leur funeste dessein autrement ils auraient tenté quelque chose pour les en dissuader. Leur discussion se porte ensuite sur les dégâts causés par l'incendie. Comme Cleanide a perdu sa maison, Pysandre lui propose galamment de dormir sous son toit, mais trop enflammé par cette idée il se laisse aller à des allusions licencieuses que Cleanide semble trouver inconvenantes. **• *IV , 7 •* **Floridon se plaint d'avoir perdu ses biens et sa femme Amarille, qu'il croit aussi dans les bras de Polydas. Il s'en prend aux dieux, et en proie au désespoir décide de se donner la mort. Mais après quelques hésitations, il choisit finalement de rester en vie pour trouver le traître et se venger. Pendant ce temps, apparaît son beau-père Pancrace, qui vient le soutenir dans son chagrin. Tout les deux, réclament une vengeance sanglante contre Polydas qui passe ainsi pour avoir enlevé à la fois Amarille et Lidiane. Après cette plainte commune, Pancrace et Floridon retournent au village pour organiser les recherches avec les autres bergers.
 
 
-## Acte V Quatrième journée
+## Acte V Quatrième journée.
 
 **• *V , 1 •*** Au même endroit où elle avait était séparée de Polydas, Lidiane est ramenée au petit matin par deux pêcheurs qui l'ont miraculeusement sauvée. En le quittant elle les remercie du fond de son cœur et, pour les récompenser, leur fait cadeau d'une précieuse bague. Ainsi, de retour sur le rivage, Lidiane se hâte de retrouver Polydas pour qui elle craint les pires malheurs à cause de son désastreux projet d'enlèvement. Entretemps Floridon et ses hommes, qui parcourent les bois à la recherche de Polydas, aperçoivent Lidiane et la saisissent pour l'amener devant le juge, convaincus du fait qu'elle sait où se trouve l'infâme Polydas. **• *V , 2 •* **Le juge se montre plutôt enclin à être clément pour juger l'affaire qui concerne Polydas ; alors que l'impitoyable procureur qui l'assiste exige qu'il soit condamné à mort, et il s'emploie à mettre sous les yeux du juge les arguments qui valident la condamnation du berger. Pendant qu'un désaccord a lieu entre les deux juristes, Lidiane est amenée par Floridon devant le juge qui l'invite à donner sa version des faits. Elle raconte alors son histoire en entier : du baiser échangé avec Polydas jusqu'au sauvetage par les pêcheurs. Le procureur ne la croit pas et le juge émet la sentence de mort contre elle. **• *V , 3 •* **Pysandre accourt pour rapporter la malheureuse nouvelle de la sentence de mort à Cleanide, peu après arrive Luciane qui est déjà au courant de la chose, ainsi Pysandre et Cleanide l'accompagnent pour se rendre tous ensemble devant le juge en espérant de lui faire changer d'opinion. **• *V , 4 •* **On amène Lidiane sur le lieu où elle doit être exécutée et on lui signifie qu'elle peut encore se sauver en révélant au juge où se trouve Polydas. Mais à ce moment précis, elle aperçoit l'épitaphe gravée par celui-ci sur le rocher, juste avant de mourir. Cela prouve son innocence, mais puisque son Polydas est mort, désormais elle veut mettre fin à sa vie au plus vite. Entretemps sa mère Luciane, accompagnée de Pancrace et des autres bergers, arrive pour implorer le juge d'épargner sa fille ; celui-ci ne semble pas disposé à céder quand au milieu de cette confusion générale, surgit de la grotte l'ombre de Castrape, amenant avec lui Polydas et Amarille ressuscités. Castrape rétablit l'ordre et invite toute la compagnie à retourner au village, le juge devant cette manifestation de justice divine retire alors sa sentence, et toute la compagnie s'en retourne au village chacun avec sa compagne pour profiter des douceurs de l'amour. Ainsi Amarille revient au près de son époux légitime Floridon, et Lidiane au près de Polydas qui se prépare à regagner Paris avec sa belle.
 
 
 
-### Présence des personnages sur scène Tableau synoptique [41] | pan | flo | pol | pys | lid | cle | ama | luc | pes | Jug | pro | gre | dep | cas
+### Présence des personnages sur scène Tableau synoptique [41]. | pan | flo | pol | pys | lid | cle | ama | luc | pes | Jug | pro | gre | dep | cas
 I.1 | X |  |  |  |  |  |  |  |  |  |  |  |  | 
 I.2 |  | X |  |  |  |  |  |  |  |  |  |  |  | 
 I.3 |  |  | X |  |  |  |  |  |  |  |  |  |  | 
@@ -203,7 +203,7 @@ V.4 | X | X | X | X | X | X | X | X |  |  |  |  |  | X
 
 
 
-# Les sources
+# Les sources.
 
 Les seules indications par rapport aux sources de notre pièce sont celles qui ont été signalé par H. C. Lancaster. Ces indications sont relatives à quelques épisodes de la pièce : La ruse de Pysandre concernant la morsure de l'abeille (II , 2) et le sauvetage de Lidiane par les pêcheurs (V , 1) ; ainsi que le thème du mariage blanc entre Amarille et Floridon et la scène du procès faite à Lidiane. En ce qui concerne la thématique de l'abeille, Lancaster fait remarquer qu'elle provient de la tradition ancienne du roman grec, et indique comme source principale *Les Amours de Leucippé et Clitophon* de Achille Tatius (II*e* siècle après J. C.) :
 *Les Noces*, II , 2, vv. 524-539 | Achille Tatius (II*e*s. après J.-C.) *Les Amours de Leucippé et Clitophon* II, 7, 3-4
@@ -230,15 +230,15 @@ LIDIANE. Les deux pescheurs rameinent Lidiane dans le basteau. AMis de qui je ti
 Enfin les deux dernières indications que Lancaster nous donne concernent d'une part le thème du « mariage blanc » entre les bergers Floridon et Amarille ; et d'autre part la scène du procès faite à Lidiane (V, 2). Le « mariage blanc » proviendrait de *La Vraie Histoire comique de Francion* de Charles Sorel ; quant à la scène du procès, on retrouve dans l'*Aristène*, pastorale de Pierre Troterel (1626), l'utilisation d'une scène de jugement vers la fin de la pièce (IV, 1). Ces deux dernières indications demeurent cependant assez vagues, et le rapprochement que fait Lancaster se limite au signalement d'un thème qui reste dépourvu d'un quelconque rapprochement formel.
 
 
-# Le contexte théâtral
+# Le contexte théâtral.
 
 
-## De la pastorale tragi-comique à la tragi-comédie pastorale
+## De la pastorale tragi-comique à la tragi-comédie pastorale.
 
 Pour indiquer la spécificité des *Noces* nous avons dit qu'elle ressentait à la fois l'influence de la période baroque et de l'esthétique classique en train de se fixer autour des années 1630, et que ses attributs étaient en grande partie ceux du genre tragi-comique en plein épanouissement. Or par rapport à ce constat deux questions se posent : premièrement, pourquoi le fait de s'intéresser au genre de la pastorale nous mène nécessairement sur le terrain de la tragi-comédie ? Deuxièmement, comment la tragi-comédie, fer de lance de l'esthétique baroque irrégulière, passe-t-elle dans le camp adverse au point que l'on voit apparaître des pièces comme la nôtre que l'on peut paradoxalement définir comme tragi-comédies régulières ? La pastorale et la tragi-comédie, sont deux genres qui se rencontrent très tôt sur leur chemin. D'abord parce que la tragi-comédie est un genre qui dès ses débuts pose des problèmes de définition [48], dans la mesure où elle se constitue en tant que mélange des autres genres et par conséquence elle transgresse les frontières établies. Le terme *tragi-comédie* est originairement une invention du poète latin Plaute. Il est repris par le *Cinquecento* italien qui fait l'objet de réflexions théoriques précises sur ce genre qu'on appelle aussi à l'époque « drame mixte ». Un de ces théoriciens italiens, Giraldi Cinthio (1504-1573) introduit la mode des sujets romanesques pour créer une Tragédie qui soit à fin heureuse et qui s'inspire de la fiction plutôt que de l'histoire. C'est là qu'on trouve le premier point de conjonction avec le drame pastoral. Car celui-ci est en train de se développer avec des œuvres marquantes telles que le drame pastoral de l'*Aminte* (1573) et la *tragicommedia pastorale* du *Pastor Fido* (1589). La pastorale, qui mêle facilement les tons, contribue par là à l'élaboration de l'univers moyen de la tragi-comédie. Le Tasse donne avec l'*Aminte* le modèle du mélange des tons (dits « tragique » et « comique ») et Guarini mène une réflexion sur la tragi-comédie qui aboutit à la publication de son *Compendio della poesia tragicomica* [49] qui fait autorité sur la matière. L'auteur du *Pastor Fido* soutient que la tragi-comédie est une troisième forme et revendique la modernité du genre à travers le mélange des éléments comiques et tragiques, alors que ses adversaires comme le professeur de la prestigieuse université de Padoue Giasone de Nores définissait le genre tragi-comique comme une «  composition monstrueuse et disproportionnée [50] ». Au moment donc de se déverser de l'autre côté des Alpes, la pastorale et la tragi-comédie sont déjà des genres très voisins. Ce qui va encore plus les rapprocher c'est le fait que les auteurs français s'éloignent de plus en plus du modèle de la pastorale pure de l'*Aminte*, considérée comme un exemple de « parfait équilibre [51] », pour embrasser plutôt le modèle tragi-comique du *Pastor Fido* de Guarini. Ainsi la pastorale qui avait déjà pour domaine un monde imaginaire, affirme son penchant en « cédant aux extravagances romanesques [52] ». Si donc la pastorale avait dans un premier temps influencé la tragi-comédie, c'est elle à son tour qui subit l'ascendant tragi-comique au point de perdre son identité d'origine ; dans son ouvrage de référence sur la pastorale, Marsan encore une fois exprime fort bien cette double influence qui se solde, si l'on peut dire, par une inversion des rôles : « l'essentiel est devenu l'accessoire, et, d'une pastorale de forme tragi-comique nous passons à une tragi-comédie n'ayant de pastoral que le costume de ses héros [53] ».
 
 
-## Discret entre réguliers et irréguliers
+## Discret entre réguliers et irréguliers.
 
 C'est ainsi qu'en s'appuyant de plus en plus sur son côté romanesque le genre protéiforme de la tragi-comédie connaît une grande prospérité en France. À partir de 1628 s'ouvre pour elle une grande époque, surtout parce que celle-ci devient l'étendard éclatant des modernes irréguliers pendant les six années de débat théorique qui traversent le théâtre français [54]. Ce débat est provoqué par la vague du mouvement de régularisation qui pose la question de la fonction du théâtre : du moment que l'on cherche à épurer l'art dramatique, celui-ci ne peut plus se limiter à être un simple divertissement mais elle se doit, pour être honnête, d'avoir une fonction instructive à l'imitation du théâtre des anciens. Deux factions opposées vont ainsi se former : celle de réguliers qui exigent un théâtre moralement instructif et celle d'irréguliers revendiquant le plaisir comme seul but de l'art dramatique. À l'essor du débat, ces deux fonctions, plaisir et instruction, vont réduire considérablement leur opposition du départ, pour retrouver le précepte horatien de l'*utile dulci.* Le procès de régularisation va ainsi redéfinir les principales parties de la composition du poème dramatique ; et la pièce de Discret en 1637 est un exemple de l'aboutissement de ce processus : une tragi-comédie dans son ossature mais avec tous les ajustements nécessaires pour évacuer les éléments scabreux de l'esthétique baroque.
 
@@ -256,12 +256,12 @@ je conseillerois volontiers à ces esprits de donner plus de temps à la *compos
 et un peu plus loin, quant à la composition de sa pièce, il s'empresse de mettre en avant tout son zèle de régulier « la Pastoralle que j'ay faicte, ... j'ay beaucoup de fois repassé par dessus, j'y ay corrigé quantité de choses, j'ay faict mon possible pour la polir, & empescher qu'il n'y eust point de fautes remarquables ».
 
 
-# Analyse dramaturgique
+# Analyse dramaturgique.
 
 Ayant montré le chemin que la tragi-comédie et la pastorale parcourent ensemble, nous allons à présent nous concentrer sur le fonctionnement dramaturgique à l'intérieur de la pièce. La tragi-comédie, est un genre qui cherche à établir des archétypes, par conséquent il est relativement aisé pour le lecteur de se rendre compte de la répétition des mêmes processus actantiels et des traits distinctifs permanents. Pour ce faire, nous suivrons de près l'analyse menée par H. Baby [62], afin de voir comment les codes dramaturgiques du genre s'actualisent dans *Les Noces* en précisant les infléchissements particuliers et les atténuations que le processus de régularisation exige.
 
 
-## Le schéma actantiel général
+## Le schéma actantiel général.
 
 La structure actantielle des *Noces*, correspondant au schéma topique « des amours contrariés [63] » se bâtit autour d'une histoire qui met en scène les tribulations d'un couple d'amants luttant pour asseoir sa relation amoureuse. La pièce ne s'intéresse pas aux aventures d'un seul personnage, mais elle met en scène un couple aux prises avec les obstacles provoqués par les divers opposants. Le couple qui constitue l'axe central du schéma actantiel est celui formé par les personnages principaux de la pièce. On peut certes déterminer cela de façon intuitive par le fait que les personnages principaux sont ceux vers qui tous les intérêts se tournent, mais une analyse actantielle plus précise, nous montre que pour remplir cette fonction, le couple principal doit réunir d'abord deux conditions : avoir une relation amoureuse réciproque, et être formé par des personnages de rang nobles.
 
@@ -304,10 +304,10 @@ Que jamais Polydas ne fut d'un crime autheur.
 La méconnaissance du suicide d'Amarille par les autres personnages, crée ainsi un *quiproquo* permettant de faire fonctionner les opposants du premier schéma dans le deuxième.
 
 
-## Acteurs et action types
+## Acteurs et action types.
 
 
-### Les actions des opposants
+### Les actions des opposants.
 
 À partir de cette organisation actantielle nous pouvons individualiser le profil de chaque catégorie agissante sur le couple des amants.
 
@@ -333,35 +333,35 @@ En me donnant la mort apaiser ma souffrance :
 Le deuxième type d'opposant est l'acteur parental incarné par le personnage de Luciane. À la différence du rival, elle ne demeure pas passive mais, étant pourvue d'une autorité, elle est engagée dans une action contraire au désir de sa fille Lidiane, qui se traduit par l'enfermement de celle-ci (III, 1), constituant ainsi l'obstacle principal de la pièce.
 
 
-### L'action du héros et le rapport avec la structure dramatique
+### L'action du héros et le rapport avec la structure dramatique.
 
 L'enfermement, selon H. Baby est l'un des obstacles faisant partie du répertoire récurrent de la tragi-comédie ; et l'attitude du héros peut varier entre la passivité et l'action violente, quoique ce dernier type de réaction demeure dans les limites déjà imposées par l'inventaire fixe des obstacles. Polydas, le héros de notre pièce, répond à l'obstacle en prenant la fuite avec Lidiane après l'avoir délivrée. Avec le moyen de la fuite Polydas adopte l'action-type privilégiée par le héros tragi-comique. Cette préférence s'explique par des raisons d'ordre structurel : la tragi-comédie qui est un genre spectaculaire, provoque majoritairement des obstacles extérieurs qui déterminent une structure fonctionnant dans l'exploitation de l'accidentel. Or comme l'événement accidentel se manifeste dans le court terme, pour nourrir suffisamment une intrigue, la tragi-comédie doit nécessairement multiplier ces obstacles extérieurs. La fuite est donc un excellent moyen pour les auteurs de tragi-comédie d'organiser le parcours du héros selon cette « dramaturgie de l'extériorité [66] ». À travers les multiples péripéties qui composent l'action de Polydas (mise au feu du village, sauve-qui-peut général, irruption dans la maison et enlèvement de Lidiane, cavale nocturne avec noyade de celle-ci, conséquent désespoir et suicide du héros) on voit bien que Discret reste sensible à cette esthétique du spectaculaire, et de la prolifération de l'obstacle extérieur.
 
 
-## L'unification de l'obstacle
+## L'unification de l'obstacle.
 
 Cependant on ne peut pas véritablement parler des *Noces* comme d'une pièce qui épouse pleinement les ressources de la fuite dans ce que Jacques Morel [67] a nommée la « tragi-comédie de la route » puisque, à la différence de ce type où « les héros ont pris la route bien avant la première scène, et que l'action débute sur une des étapes de leur itinéraire » la séquence de la fuite de Polydas et Lidiane n'intervient que très tard dans la pièce (acte IV).     Par conséquent, cette introduction tardive ne contribue pas à la pleine exploitation du motif de la fuite avec une grande prolifération des obstacles extérieurs. La restriction que Discret applique à l'exploitation de l'obstacle extérieur semble être le résultat de l'influence du critère de la vraisemblance dans le processus de régularisation. Alors que la route consacre le règne du hasard, faisant succéder librement les obstacles sous le mode de la rencontre et des coïncidences, l'action des *Noces* se construit sur un seul obstacle majeur (l'enfermement de Lidiane) à partir duquel, toutes les péripéties qui se produisent pendant la fuite sont liées par des rapports de causalité qui montrent la volonté du dramaturge d'aller vers l'unification de l'action, qui demande, pour se faire, la suppression d'événements dus au seul hasard [68].
 
 
-### Alternance entre scènes d'actions et scènes de genre
+### Alternance entre scènes d'actions et scènes de genre.
 
 Se privant de faire intervenir le motif de la fuite plus tôt, Discret ne peut alors remplir les premiers actes de sa pièce par une commode successions d'obstacles comme dans la plus conventionnelle des tragi-comédies. Dès lors, une fois que l'exposition s'achève (I, 2) en donnant le cadre complet des relations entre les personnages, l'action dramatique procède par touches, et dans les moments où l'action dramatique se suspend entre des scènes ou à l'intérieur d'une même scène viennent s'intercaler des intrigues secondaires proposant des séquences qui mêlent un comique de mœurs et des moments topiques du genre pastoral. Faisant ainsi alterner l'action dramatique avec la peinture de mœurs bourgeois et les clichés de la pastorale, Discret s'éloigne de la structure tragi-comique de base pour chercher à réaliser un équilibre difficile entre scènes d'action et scènes de genre.
 
 
-### Prolifération et concentration des intrigues
+### Prolifération et concentration des intrigues.
 
 Comme on l'a vu, la tragi-comédie raconte presque toujours les aventures d'un couple de jeunes amants qui lutte pour établir ou préserver leur amour. Par rapport à ce sujet-type, elle privilégie deux sortes d'intrigues [69] : le premier, celui qui appartient à la tragi-comédie de la route, exploite clairement sa dépendance au roman mettant l'accent sur les multiplications des péripéties [70] et des coups de théâtre. En revanche le deuxième type cherche, comme dans le cas des *Noces*, à rassembler son action sur un obstacle majeur qui s'oppose au couple d'amants. L'accent, au lieu de porter sur la prolifération des aventures, est alors mis sur les amants et leurs réactions devant les persécutions dont ils sont l'objet ; de la même manière qu'il peut, comme dans notre pièce, donner de l'espace à l'expression du comique. Dans les deux cas les dramaturges gardent donc un intérêt pour les actions complexes, mais avec l'influence des théoriciens, on voit apparaître chez Discret une plus grande concentration dramatique avec le conséquent abandon de pièces « à tiroirs » et à épisodes multiples. Il s'agit donc de disposer les plusieurs fils de l'action complexe en allant vers une progressive unification. Si *Les Noces*, participent encore pleinement de ce goût pour l'action complexe, l'emploi dans la structure de la chaîne amoureuse permet la mise en œuvre d'une unification appréciable entre l'intrigue principale et les intrigues annexes.
 
 C'est en effet grâce à la chaîne des amants de la pastorale, que l'intrigue amoureuse secondaire dépend de l'issue de l'intrigue principale. Dans *Les Noces* en effet les espoirs de Floridon de reconquérir son épouse Amarille ne se concrétiseront qu'au moment où le couple Polydas-Lidiane se confirmera dans son union, rendant ainsi inutile les efforts de la rivale Amarille qui acceptera à la fin de la pièce l'amour de son mari Floridon. Cela contribue donc à rechercher une plus grande concentration dramatique même si, comme l'a remarqué Jacques Scherer, la conception de l'unité d'action que l'on retrouve appliquée chez les auteurs préclassiques et théorisée dans la *Pratique du Théâtre* de D'Aubignac est l'inverse de celle qu'on trouvera appliquée en plein classicisme [71]. Les deux autres fils, Pysandre-Cleanide et Pancrace-Lidiane, restent parallèles à l'intrigue principal n'ayant avec lui aucun lien structural véritable mais, si l'on fait abstraction du rôle assez réduit de confident-adjuvant pour Pysandre (III, 1) et de confident-opposant pour Pancrace on peut dire que ces deux couples de personnages se limitent à l'expression des scène de genre dont on a parlé.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## L'édition originale de 1638 de *Les nopces de Vaugirard ou les naifvetez champestres*
+## L'édition originale de 1638 de *Les nopces de Vaugirard ou les naifvetez champestres*.
 
 
-### Description matérielle
+### Description matérielle.
 
 Un volume. 16 -144 p. ; in-8
 
@@ -388,7 +388,7 @@ XVI *Les Acteurs.*
 Nous avons établit le texte à partir de l'exemplaire qui se trouve à la Bibliothèque nationale de France (site de la Bibliothèque de l'Arsenal) sous la cote 8-BL-4637.
 
 
-### Recensement des exemplaires
+### Recensement des exemplaires.
 
 Il existe à notre connaissance cinq autres exemplaires en France de l'unique édition de 1638 [73] :
  * – Bnf (site Tolbiac) Réserve des livres rares, YF-7045 [74]
@@ -403,17 +403,17 @@ Il existe à notre connaissance cinq autres exemplaires en France de l'unique é
  * – Un à la bibliothèque de Universitäts-und Landesbibliothek Sachsen-Anhalt / Zentrale (Allemagne)
 
 
-### Collation des exemplaires consultés à terminer
+### Collation des exemplaires consultés à terminer.
 
 Variantes entre l'exemplaire de réference 8-BL-14637 et l'exemplaire YF-7045 :
 
 30 v.435 : « servant » (YF-7045 gallica) → « servante » (8-BL-14637) ; 37 v.540 : « mort » (YF-7045) → « mors » (8-BL-14637) ; 89 v.1203 titre de replique : « PNACARCE. » (8-BL-14637) ; « PANCARCE » (YF-7045 gallica) ; 110 l'exemplaire YF-7045 gallica présente un doublet de la page 110 on a en effet la sequence : 110, 111, 110, 111, 112
 
 
-## Interventions sur le texte
+## Interventions sur le texte.
 
 
-### Corrections d'usage et corrections systématiques
+### Corrections d'usage et corrections systématiques.
  * – Distinction entre le graphème *j* et le graphème *i* pour noter le son ʒ
  * – Distinction entre le graphème *u* et le graphème *v* pour désambiguïser la graphie des sons y et v
  * – Modernisation du graphème**∫**en *s*
@@ -424,7 +424,7 @@ Variantes entre l'exemplaire de réference 8-BL-14637 et l'exemplaire YF-7045 :
  * – Nous avons unifié la forme de certains noms de personnes, en éliminant la variante aléatoire ***i / y*** à l'œuvre dans : P***y***sandre/P***i***sandre, L***y***diane/L***i***diane, Pol***y***das/Pol***i***das. Les occurrences ont été alignées sur la variante en ***y***étant donné qu'elle est la plus utilisée dans le texte et que c'est celle qui apparaît à la page XVI dans la liste des *Acteurs.*
 
 
-### Corrections des erreurs de composition typographique (coquilles)
+### Corrections des erreurs de composition typographique (coquilles).
 
 EPITRE
 
@@ -455,7 +455,7 @@ ACTE V 114-144
 121 v.1693 : « b ! asmable » → « blasmable » ; 123 v.1723 : « crime apparant » → « crime appariant » ; 123 v.1723 : « crime apparant » → « crime appariant » ; 123 v.1726 : « Le ciel command » → « Le ciel commande » ; 124 v.1735 : « je jugerois » ; 124 v.1739 : « qui aye mis » → « qui ayt mis » ; 129 v.1822 : « Et si j'ay parlay » → « Et si j'ay parlé » ; 132 v.1864 : « Reprend un peu tes sens » → « Reprends un peu tes sens » ; 134 liste de personnages : « FORIDON » → « FLORIDON » ; 135 v.1896 : « Se seroit » → « Ce seroit » ; 135 v.1910 : « attend moy » → « attends moy » ; 136 v.1922 : « que tu meure » → « que tu meures » ; 138 v.1943 :  « vous veille consoler » → « vous veuille consoler » ; 141 v.1985 : « Que Polydas aussi aye » → « Que Polydas aussi ayt » ; 141 v.1991 : « ont ce matin » → « sont ce matin » ; 142 v.2007 : « allez embrassez » → « allez embrasser » 143
 
 
-### Ponctuation
+### Ponctuation.
 
 Le rôle de la ponctuation, dans la déclamation théâtrale du XVII*e* siècle, ne se limite pas à noter les rapports syntaxiques entre les divers éléments de la phrase mais détermine aussi le débit et l'intonation de la voix du comédien. [76] Ainsi le lecteur ne sera pas étonné de voir dans certains passages du texte une ponctuaction qui ne correspond pas aux exigences modernes.
 
@@ -526,7 +526,7 @@ Pendant que Polydas, Lidiane, Pysandre, Cleanide, & Amarille Bergers, & Bergeres
 Polydas qui croit qu'elle est morte se precipite dans la grotte des Demons, Amarille qui se doute qu'elle est trompée, voyant que Polydas estoit precipité, s'y jette pareillement, laissans tous leurs parents dans une confusion épouventable, & en fin Lidiane repeschée, & ramenée par les Pescheurs au lieu où elle pensoit retrouver Polydas, est à l'instant prise par les Deputez de Vaugirard qui faisoient la recherche d'eux, par le soupçon qu'ils avoient que Polydas avoit efté le boutte-feu⁎, elle est ménée devant les Juges qui luy font son procez, & quelques prieres, & supplications que leur puissent faire les habitans du village, elle est par eux condamnée à estre precipitée dans la mesme grotte des Demons, où estoient Polydas, & Amarille ; mais comme on vient pour executer cette sentence, l'ombre⁎ de Castrape Magicien, qui avoit basty cette grotte, sort tenant Polydas d'une main, & Amarille de l'autre sains & sauves, arreste l'execution de cette condamnation, & faisant le recit de toutes leurs advantures, ordonne des mariages du bon homme Pancrace avec la vieille Luciane, dont les crotesques [86] amours sont naïfuement traictées, redonne Amarille à son Floridon Polydas à sa Lidiane, & Pyfandre à Cleanide, & par ces mariages inesperez calment les differents de tout le village, & leur cause une réjoüissance publique.
 
 
-## A. D. D. L. R. D. L. P. [87] 
+## A. D. D. L. R. D. L. P. [87]. 
 
 Beautez de qui les yeux captivent les franchises⁎  
 De tous les jeunes cœurs qui passent devant eux,  
@@ -551,7 +551,7 @@ Vous entendrez mes sentimens.
 **P**ar grace & Privilege du Roy, il est permis à Jean Guignard, Marchand Libraire, d'imprimer ou faire imprimer, vendre & debiter un livre intitulé, *Les Nopces de Vaugirard* : avec deffences à tous Libraires, Imprimeurs, & autres de quelque qualité ou condition qu'ils soient, de faire imprimer, vendre ny distribuer ledit livre, durant le temps & espace de six ans, comme plus amplement est porté par ledict Privilege. Donnè à Paris le vingt-deuxiesme May mil six cens trente-huict, & de nostre regne le vingt-huictiesme.
 
 
-## Errata
+## Errata.
 
 **P**age 13, vers 4 lisez baise pour baiser p. 40. v.7. 1. sans vous veoir p.49.v.13. l. d'Orphee. p.53 v.18 & 19 l. affection au premier, & affliction au second. p.57.v.8. l. qu'un pour qu'en. p.58.v.10. l. faicts pour faictes. p.63.v.9. l. me parleront. p.101.v.15 l. seile pour sicle. p.107.v.10. l. qu'un pour qu'en.
 
@@ -579,7 +579,7 @@ PANCRACE, FLORIDON, POLYDAS, LIDIANE, AMARILLE, LUCIANE, PYSANDRE, CLEANIDE.
 
 
 
-### SCENE PREMIERE. [91]
+### SCENE PREMIERE. [91].
 
     PANCRACE.
 **E**n fin le juste Ciel par un sainct Hymenee,  
@@ -832,7 +832,7 @@ Les bergers & Bergeres donnent chacun une courante⁎.
 
 Chacun mene dancer & baiser sa maistresse.  
 
-    POLYDAS *remenant Lidiane à sa place.*
+    POLYDAS *remenant Lidiane à sa place.*.
 Belle Nymphe excusez mon importunité.  
 
     LIDIANE.
@@ -844,7 +844,7 @@ Autre [110] occupation qui est beaucoup meilleure,
 Nous attend au logis allons viste dedans  
 Faire sur le souper dancer toutes nos dents.  
 
-    FLORIDON
+    FLORIDON.
 Adorable subjet qui m'a l'ame [111] asservie,  
 Allons passer heureux ensemble nostre vie,  
 Ne veux-tu plus dancer dis-le moy librement,  
@@ -852,7 +852,7 @@ Ne veux-tu plus dancer dis-le moy librement,
     AMARILLE.
 C'est le moindre soucy de mon contentement.  
 
-    PYSANDRE *à CLEANIDE.*
+    PYSANDRE *à CLEANIDE.*.
 Quel heur⁎ ont ces Amans, est il pas vray ma Reine,  
 Nous voudrions [112] bien tous deux estre en la mesme peine.  
 
@@ -860,7 +860,7 @@ Nous voudrions [112] bien tous deux estre en la mesme peine.
 Mon espoir qui n'attend que le vouloir des Dieux  
 Me fait imaginer qu'ils font tout pour le mieux.  
 
-    POLYDAS *à Lidiane.*
+    POLYDAS *à Lidiane.*.
 Deesse à qui l'amour ce grand Dieu doit l'hommage,  
 Permettez que ma main vous remeine au village,  
 
@@ -934,7 +934,7 @@ Je luy veux tesmoigner un visage attristé,
 Afin qu'à l'action froide & sans raillerie  
 Il cognoisse à l'instant d'où vient ma fascherie [117].  
 
-    POLYDAS. [118]
+    POLYDAS. [118].
 Si jamais amoureux a souffert des tourmens  
 Parmy le bal, la dance, & les contentemens,  
 Je pense avoir senty plus de mal en mon ame,  
@@ -1056,7 +1056,7 @@ Je caresse quelqu'autre evitant médisance.
 Ne crains pas, mon espoir⁎ cognoissant ton humeur,  
 Que jamais mon esprit retombe en telle erreur.  
 
-    POLYDAS *seul.*
+    POLYDAS *seul.*.
 Pauvre Amarille, helas, te voila bien trompee,  
 Tu crois que ma raison soit tousjours occupee  
 A penser aux appas de tes perfections,  
@@ -1150,7 +1150,7 @@ Sans mentir tu dis vray ma Nimphe [135], le voicy
 Tout prest de t'obeyr si tu le crois propice,  
 A te rendre aujourd'huy quelque courtois office⁎.  
 
-    LIDIANE
+    LIDIANE.
 De si bonne façon vous sçavez obliger⁎,  
 Qu'impossible seroit de s'en pouvoir venger :  
 L'exces d'humilité joinct à la courtoisie,  
@@ -1192,7 +1192,7 @@ O Dieux ! Où vostre esprit s'alembique⁎ les sens.
     POLYDAS.
 C'est à vous que l'on doit les vœux & les encens,  
 
-    LIDIANE, 
+    LIDIANE,.
 Pasteur telle loüange est beaucoup inutile.  
 
     POLYDAS.
@@ -1448,7 +1448,7 @@ Et pour ne s'en venger [158] faudroit estre insensible.
     PYSANDRE.
 Je refere ce poinct à vostre humilité.  
 
-    POLYDAS, 
+    POLYDAS,.
 C'est pour faire admirer vostre civilité.  
 
     LIDIANE.
@@ -1472,7 +1472,7 @@ A quoy
     POLYDAS.
                         Il fait bien chaud mamour⁎.  
 
-    LIDIANE,
+    LIDIANE,.
 Joüons à quelque jeu remply de modestie⁎,  
 Amarille qui vient sera de la partie.  
 
@@ -1519,7 +1519,7 @@ Amarille tirez s'il vous plaist vistement.
 Ils piquent dans un livre où ces quadrains [163] sont transcripts.
 
 
-    LA FORTUNE *à Amarille.*
+    LA FORTUNE *à Amarille.*.
 Belle vous n'este assez fine  
 Pour veoir des yeux de vostre esprit,  
 *Celuy dont l'amour vous surprit*,                          
@@ -1534,7 +1534,7 @@ Sus Lidiane à vous,
     AMARILLE.
                     Je ne croy point cela,  
 
-    LA FORTUNE *à Lidiane.*
+    LA FORTUNE *à Lidiane.*.
 *Pour estre un petit trop* [164]*hardie*,  
 Sur le point de souffrir la mort,  
 Une ombre pour dernier effort,  
@@ -1552,7 +1552,7 @@ Vous ne le devez pas,
     CLEANIDE.
                     Pysandre c'est à moy.  
 
-    LA FORTUNE *à Cleanide.*
+    LA FORTUNE *à Cleanide.*.
 Ne faites *point tant la farouche*,  
 *Confessez que vous aymez mieux*                          
 Les baisers de vostre amoureux,  
@@ -1564,13 +1564,13 @@ Cleanide est il vray ?
     CLEANIDE.
                     Non, ne le croyez pas,  
 
-    PYSANDRE, 
+    PYSANDRE,.
 Je n'en veux point douter.  
 
     LIDIANE.
                     C'est à vous Polydas.  
 
-    LA FORTUNE *à Polydas.*
+    LA FORTUNE *à Polydas.*.
 L'amour *qui captive vostre ame*,  
 Vous fera jetter dans un trou,  
 *D'ou sortant ainsi qu'un hibou*,  
@@ -1585,7 +1585,7 @@ Ha voila le meilleur,
     AMARILLE.
 Quiconque ayt fait cela sans doubte il estoit fous.  
 
-    LA FORTUNE *à Pysandre.*
+    LA FORTUNE *à Pysandre.*.
 *Si vostre amour ne diminue*                              
 *Je juge pourtant aujourd'huy*,  
 Que vous aymerez bien l'apuy  
@@ -1752,7 +1752,7 @@ Allons le reveiller d'un musical accord :
 Il me semble desja que je le voids paroistre,  
 Il ne faict jamais nuict où son bel œil peut estre.  
 
-    LUCIANE 
+    LUCIANE.
 coiffee de nuict à la fenestre.
 
 Bonsoir, bonsoir Pancrace, ha vrayment c'est trop tard,  
@@ -1780,7 +1780,7 @@ Que souvent desormais je face le semblable.
     LUCIANE.
 J'aurois trop de regret de vous causer ce mal,  
 
-    PANCRACE. 
+    PANCRACE.
 Au contraire ce bien n'en peut avoir d'esgal,  
 Et pourveu qu'en effect ce passe-temps vous plaise,  
 Ce seul contentement rendra mon cœur trop aise :  
@@ -1879,7 +1879,7 @@ Ma langue ne peut pas dire ce que j'endure,
     PYSANDRE.
 Le respect quelquefois nous faict souffrir injure  
 
-    POLYDAS, 
+    POLYDAS,.
 Aux maux desesperez tous remedes sont vains  
 
     PYSANDRE.
@@ -1951,7 +1951,7 @@ Que vous estant pillade on m'estime un Oreste [184]
 Ce m'est trop de faveur vous estes trop courtois,  
 Ne faut importuner son amy tant de fois.  
 
-    PYSANDRE
+    PYSANDRE.
 Librement voulez vous luy mander⁎ quelque chose,  
 
     POLYDAS.
@@ -2021,7 +2021,7 @@ Plus vous le pressez & plus il durcira :
     FLORIDON.
 Si ce n'est d'amitié vous y serez forcee,  
 
-    AMARILLE. 
+    AMARILLE.
 La force & l'amitié n'ont rien sur ma pensee :  
 
     FLORIDON.
@@ -2135,7 +2135,7 @@ Si tu debvois brusler je t'en donnerois mille.
     FLORIDON.
 En fin mon amitié dessus toy n'aura rien,  
 
-     AMARILLE.
+    AMARILLE.
 Que la haine d'avoir troublé mon entretien.  
 
     FLORIDON.
@@ -2393,7 +2393,7 @@ Je n'oserois quasi, toutefois, il n'importe :
 Puisque de ce dessein nul ne se doute pas,  
 Holla ho.  
 
-    LIDIANE *à la fenestre.*
+    LIDIANE *à la fenestre.*.
         On y va, parlez qui est là bas ?  
 
     PYSANDRE.
@@ -2435,7 +2435,7 @@ Ne t'aflige point tant de semblables choleres,
 A bien conjecturer ne peuvent durer guieres [203].  
 He bien a-t-il [204] raison ? a-t-il le cœur Loyal ?  
 
-    LIDIANE *lit la lettre tout bas puis dit*,
+    LIDIANE *lit la lettre tout bas puis dit*,.
 Je ne merite pas qu'il souffre tant de mal,  
 Cher cousin dites luy que ce qui plus m'afflige  
 C'est qu'avec trop d'ardeur son honneur il oblige  
@@ -2449,7 +2449,7 @@ Adieu je me retire afin qu'en devisans
 Nous ne soyons ouis de quelques medisans :  
 Jugez si je vous puis servir en quelque chose,  
 
-    LIDIANE
+    LIDIANE.
 Pysandre entre vos mains mon honneur je depose :  
 Que le Ciel puisse un jour faire naistre un subjet,  
 De vous pouvoir servir en quelque bon projet :  
@@ -2583,7 +2583,7 @@ Pour tel que je puis estre,
                     Il a raison je jure,  
 Champignon d'une nuict il vint à l'advanture :  
 
-    POLYDAS. 
+    POLYDAS.
 J'ay plus dans ce pais que vous n'aurez jamais,  
 
     PANCRACE.
@@ -2676,7 +2676,7 @@ Je n'y failliray pas, & cependant adieu,
 
 ### SCENE SIXIESME.
 
-    PANCRACE *seul une halebarde à la main.*
+    PANCRACE *seul une halebarde à la main.*.
 Il revient
 
 **Q**Ue sont-ils devenus ? certes ils n'avoient garde,  
@@ -2704,7 +2704,7 @@ POLYDAS, LUCIANE, PANCRACE, PYSANDRE, LIDIANE, AMARILLE, CLEANIDE, FLORIDON.
 
 ### SCENE PREMIERE.
 
-    POLYDAS *tenant un flambeau allumé.*
+    POLYDAS *tenant un flambeau allumé.*.
 **D**Eesse de la nuict aux amans favorable  
 Qui bornez leurs desirs d'une gloire durable :  
 Et pour les asseurer dans leur contentement,  
@@ -2753,14 +2753,14 @@ J'iray ma Lidiane enlever à l'instant.
 LUCIANE. PANCRACE. PYSANDRE Trouppe de Pafteurs.
 
 
-    LUCIANE *à la fenestre.*
+    LUCIANE *à la fenestre.*.
 **V**Iste viste debout, une espaisse fumee  
 Me dit qu'une maison icy proche allumee :  
 Pourroit mettre le feu dedans nostre logis,  
 O bons Dieux ! c'est ceans⁎, à l'aide mes amis.  
 O feu, ô feu, [213]  
 
-    PANCRACE *nud en chemife avec une lanterne.*
+    PANCRACE *nud en chemife avec une lanterne.*.
             Où est-ce ?  
 
     PYSANDRE.
@@ -2774,7 +2774,7 @@ Que d'aporter de l'eau l'on face diligence⁎ :
 La grange & le fourny⁎ de Luciane en feu  
 Veut que par charité vous l'assistiez un peu.  
 
-    PYSANDRE. 
+    PYSANDRE.
 Ouy da⁎, tres-volontiers sus Passeurs sans rien craindre,  
 Courrons querir de l'eau pour promptement l'esteindre.  
 
@@ -3016,7 +3016,7 @@ Aprochez vous mes yeux, voyons quelle advanture
 Se pourroit estre icy : car jamais on n'aprit  
 Qu'il y eust en ce lieu quelque chose d'escrit.  
 
-    AMARILLE *lit le tombeau de Polydas.*
+    AMARILLE *lit le tombeau de Polydas.*.
 *Passant sache que mon flambeau*,  
 A dans les eaux esteint sa vie,  
 *Et Polydas malgré l'envie*,                              
@@ -3114,7 +3114,7 @@ Qui vous donnant du laict vous peut rendre nourrice.
     CLEANIDE.
 Ha c'est estre indiscret jusques au dernier point,  
 
-    PYSANDRE
+    PYSANDRE.
 Ma belle pour cela ne te courrouces point.  
 
     CLEANIDE.
@@ -3307,7 +3307,7 @@ Qui depuis un long temps me retient en servage.
     PANCRACE.
 Je les en prie aussi de pure affection,  
 
-    FLORIDON
+    FLORIDON.
 Dieux, mettez bien tost fin à nostre affliction.  
 
     PANCRACE.
@@ -3321,7 +3321,7 @@ Que ne leur a-t-on fait un esprit moins malin,
 Puisque c'est le secours du sexe masculin ?   
 
 
-## ACTE V
+## ACTE V.
 LIDIANE, LES DEUX PESCHEURS, FLORIDON, TROUPPE DE PASTEURS, LE JUGE, LE PROCUREUR FISCAL, LE GREFFIER, PYSANDRE, CLEANIDE, LUCIANE, PANCRACE, L'OMBRE⁎ DE CASTRAPE, POLYDAS, AMARILLE.
 
 
@@ -3358,7 +3358,7 @@ Nous n'avons tant gaigné comme cette journee.
 Nous voudrions tous les jours prendre de tels poissons,  
 Et si ne nous faudroit lignes ny hameçon.  
 
-    LIDIANE
+    LIDIANE.
 Faites vostre proffit,  
 
     SECOND PESCHEUR.
@@ -3379,7 +3379,7 @@ Afin d'en acquerir quelque bon heritage.
     SECOND PESCHEUR.
 Nous boirons en passant dans ce petit village.  
 
-    LIDIANE. *seule.*
+    LIDIANE. *seule.*.
 Agreable sejour, arbres, cypres, jasmin,  
 Pour trouver Polydas monstrez moy le chemin :  
 Voicy le mesme lieu [235] où l'ingratte fortune,  
@@ -3409,7 +3409,7 @@ Prend plaisir quand il void me tourmenter ainsi.
 Elle s'assit [236].
 
 
-    FLORIDON *parlant à sa trouppe de deputez.*
+    FLORIDON *parlant à sa trouppe de deputez.*.
 Fidelles deputez de tout le voisinage,  
 Pour rechercher celuy qui de nostre village  
 A la perte causé par un embrasement,  
@@ -3583,7 +3583,7 @@ Voicy nos deputez de retour de leur queste,
     LE JUGE.
 Entendons les parler Floridon s'y apreste.  
 
-    FLORIDON & LES DEPUTEZ *amenant Lidiane.*
+    FLORIDON & LES DEPUTEZ *amenant Lidiane.*.
 Grands Juges deleguez par les dieux icy bas,  
 Pour reprimer le vice & calmer les debats :  
 Sachez qu'apres avoir couru cette contree,  
@@ -3609,7 +3609,7 @@ Ne dise devant nous aucune manterie⁎ :
 Dits nous presentement où est ce Polydas,  
 Qui nous a tant causé de plaintes & debas.  
 
-    LIDIANE *à genoux.*
+    LIDIANE *à genoux.*.
 Arbitres souverains des affaires du monde,  
 Sur qui chacun mortel son esperance fonde :  
 Pour tirer la raison de l'infidelité,  
@@ -3715,7 +3715,7 @@ Les Bergers font feinte de regarder ce que le Greffier escript.
 
 Je ne sçaurois escrire alors qu'on me regarde.  
 
-    LE JUGE *prononce le Jugement contre Lidiane.*
+    LE JUGE *prononce le Jugement contre Lidiane.*.
 Nous Juges deleguez par saincte eslection,  
 Pour les cas contenus en l'information.  
 Par jugement dernier condamnons Lidiane,  
@@ -3827,7 +3827,7 @@ Nous livrant Polydas pour en faire Justice :
 Vois, regarde, consulte, advise sur ce cas,  
 Je te donne du temps autant que tu voudras.  
 
-    LIDIANE *ayant leu le tombeau de Polydas.*
+    LIDIANE *ayant leu le tombeau de Polydas.*.
 Pendant que le juge parle, Lidiane lict les vers du tombeau de Polydas.
 
 Las⁎ comment voulez vous grand Juge venerable,  
@@ -3930,8 +3930,7 @@ La trouppe que voicy vous en prie par moy,
     LE JUGE.
 Non, non, n'en parlez plus, berger depéche toy.  
 
-    L’OMBRE* DE CAFTRAPE, *sortant de la grotte, tenant Polydas d'une main,   
-& Amarille de l'autre.*
+    L’OMBRE* DE CAFTRAPE, *sortant de la grotte, tenant Polydas d'une main, & Amarille de l'autre.*.
 Demeurez malheureux cessez vostre vengeance,  
 Aprochez ceste grotte & me prestez silence :  
 Je sors des noirs palus⁎ de l'abysme infernal,  
@@ -4057,31 +4056,31 @@ Et qu'à coigne festu⁎ pas un de nous ressemble.
 FIN.
 
 
-# GlossaireABSOLUS : adj.Souverains. (Richelet, 1680)V. 431ADVISERRéfléchir, penser. (La Curne, 12e-17e siècles)V. 545Prendre garde (Huguet, 16e siècle)V. 1453AFFETTERIE subst. fém.Manière pleine d'affectation par laquelle, dans le dessein de plaire, on s'éloigne du naturel et tombe dans un excès de recherche superficielle ou contraire au bon goût. (TLFi)V. 1759ALEMBIQUE (S')ALAMBIQUER. v.a. Il n'a d'usage qu'au figuré et dans ces phrases, *S'alambiquer l'esprit; alambiquer l'esprit*, qui signifient, Se distiller en quelque sorte l'esprit, par une trop grande application à des choses abstraites et trop subtiles. *S'alambiquer l'esprit mal-à-propos sur des questions espineuses, difficiles, inutiles. s'alambiquer la cervelle. des questions qui ne sont bonnes qu'à alambiquer l'esprit. ne vous allez point alambiquer l'esprit inutilement.* (*Académie*, 1718, 2*ème* éd.) — Au fig., vx, péj. 1. Emploi trans. Tourmenter à force de réflexions, par excès de recherche. Alambiquer le sentiment, l'esprit, la cervelle (TLFi)V. 427AMBALLEUR subst. masc.Se dit figurément des hableurs, qui disent plusieurs choses contre la verité, qui inventent plusieurs histoires à plaisir, et qu'ils debitent aux credules. (Furetière, 1690)V. 1103APPARIERComparer, assimiler, égaler. (Huguet, 16e siècle)V. 1722APPETIT subst. masc.Passion de l'ame qui nous porte à desirer quelque chose. (Furetière, 1690)V. 536APRESDINEEDISNER. v.n. Prendre le repas du midy. (*Académie*, 1687 Av.-Prem.3 — Prendre son repas vers le milieu du jour. (Furetière 1690)V. 249ARRESTERTarder (Académie, 1687 Av.-Prem.1) — Rester en arrière (Furetière, 1680)V. 669ASPECT subst. masc.Regard, vue (Richelet, 1680)V. 446AUBADE subst. fém.Violons qu'un amant donne le matin à sa maitresse. Régal de violons qu'on donne à quelqu'un pour lui marquer l'estime qu'on fait de lui, ou pour lui marquer de la joie, ou de la passion. (Richelet, 1680)V. 21BRASNLETerme de maitre à dancer. Dance où plusieurs dancent en rond, se tenant par la main. (Richelet, 1680)V. 20, v. 150, v. 171BOCAGE subst. masc.Sorte de petit bois. (Richelet, 1680)V. 623BOUTTE-FEU BOUTEFEU. Subst. masc.Incendiaire qui de dessein formé met le feu à un edifice, à une ville. On surprit des boutefeux. (Académie, 1687 Av.-Prem.3)ArgumentCALLOTE subst. fém.Petite cale ou coëffe de cuir, de satin, ou d'autre estoffe, qui couvre le haut de la teste. On s'en sert particulierement quand on est en des lieux où on est obligé d'estre long-temps teste nuë. Les vieillards portent des *calottes* à oreilles. On porte aussi des perruques à *calotte*. La *calotte* rouge est une marque de dignité, car il n'y a que les Cardinaux qui en portent. (Furetière, 1690)V. 975CARRIERE subst. fém.Lieu qu'on creuse dans un champ pour en tirer la pierre qui est dessous. On ne peut pas bastir sur ce terrain, il est creux, on y a fouillé des carrieres. cet enfant est tombé dans le puits de la carriere. (Furetière, 1690)V. 1383CEANS adv.Ici. En cét endroit, en ce lieu. ci. Il est céans. (Richelet, 1680)V. 1194CHARME, CHARMANT, CHARMERNe pas oublier la dimension magique du mot, qui en fait un terme fort et peut le rapprocher de l'enchantement ou du sortilège.V .25, v. 60, v. 375, v. 392, v. 507, v. 1254, 1259, v. 1468, v. 1683, v. 1923CLAIR-SEMÉ, ÉE Adj.Qui n'est pas bien serré, qui n'est pas près à près. Du blé clair-semé, de l'avoine clair-semée. On dit prov. que L'argent est clair-semé chez quelqu'un, pour dire, qu'Il en a fort peu. Il se dit aussi figur. Des ouvrages d'esprit. Ainsi on dit, d'Un livre où il y a quelques beaux traits, mais de loin à loin, que Les beautez y sont clair-semées. (Académie, 1740 3*e* éd.)ÉpîtreCLIGNE-MUSETTE Subst. fém.Jeu de petits enfants, dans lequel l'un d'eux ferme les yeux, tandis que les autres se cachent en divers endroits, qu'il doit chercher pour les prendre. *Joüer à cligne-mussette.* (*Académie*, 1687 Av.-Prem.2)V. 622COIGNE FESTUCelui qui s'occupe de choses inutiles. Celui dont les entreprises restent sans résultat. — Et je di voyant ma fortune, Maigre s'il en fut jamais une, Je suis un grand Cogne festu: Qui cogne cogne et rien n'avance. BAÏF, *les Mimes*, L. I (V, 42). Celui qui n'est bon à rien, qui ne fait rien. — Et ne me puis tenir de luy dire qu'il sembloit un coigne-festu, qu'il ne voulloict rien fere ny laisser fere les aultres. MONLUC, *Commentaires*, L. I (I, 114). Employé Surtout au XVI*e* (Huguet) À noter que l'occurence présente dans notre texte maintient la graphie étymologisante dans sa partie verbale : COGNER, verbe Étymol. et Hist. 1. Fin xii*e*s. « coincer » (J. Le Nevelon, *Vengeance Alexandre*, 1427 ds T.-L.) ; 2. 1*re*moitié xiii*e*s. « frapper » (Hugues Piaucele, *D'Estormi*, 195 ds Montaiglon, Raynaud, *Fabliaux*, t. 1, p. 204). Dér. de *coin*⁎; dés. -*er*, plutôt qu'issu du lat. impérial *cuneare* « serrer, maintenir avec un coin ». (TLFi)V. 2040CONFUSIONSubst. fém. signifie aussi, Honte (Furetière, 1690)V. 1517COMMETRE— Nommer (Godefroy, 9e-15e siècles) — Signifie encore, Donner pouvoir d'exercer une charge de Judicature, ou autre charge en la place d'un Titulaire. On a interdit un tel Baillif, et il a fallu *commettre* à sa charge. s'il neglige de se faire recevoir, on *commettra* à sa place. un Intendant a pouvoir de *commettre* et de subdeleguer. (Furetière 1690)V. 1717COMPROMISFiancé. (Godefroy, 9e-15e siècles)V. 43COURAGESignifie quelquefois, Ardeur, affection. Il est allé en un tel lieu de grand courage, avec grande promptitude. Il sert ses amis de grand courage. Il travaille de grand courage, pour dire, avec grande affection. (Furetière, 1690)V. 1002COURANTE Subst. fém.Piece de Musique, d'une mesure triple ou mouvement ternaire. Elle commence et finit, quand celuy qui bat la mesure baisse la main; ... C'est la plus commune de toutes les danses qu'on pratique en France, qui se fait d'un temps, d'un pas, d'un balancement, et d'un couppé. ... Il y a des courantes simples, et des courantes figurées, qui se dansent toutes à deux personnes. On appelle courante, tant l'air, que les pas qu'on fait dessus pour la danser, et même les paroles sur lesquelles on a mis un air de cette mesure. (Furetière, 1690)V. 20, v. 178, v. 193, v. 290CREVE CŒURDouleur déchirante (Cotgrave, 1611) — Grand déplaisir, grande douleur mêlée de dépit. *Quel crève-cœur ! C'est un grand crève-cœur de voir...* Connoté dans le registre familier par le dictionnaire de l'Académie en 1798, mais ce n'est peut être pas le cas à l'époque de notre pièce (1638). (Académie, 1798 5*e* éd.)V. 1265CURIEUSEMENTSoigneusement (Huguet 16*e* siècle)Épître, v. 1979DART Subst. masc.Sorte de trait de bois dur qui est ferré au bout et propre à être lancé. (Richelet, 1680)V. 1508DILIGENCE Subst. fém.Prontitude à faire une chose. (Richelet, 1680)V. 1196DISPOSTDISPOS. *adj. m.* Qui est agile, leger, qui se porte bien. (Furetière, 1690) — DISPOST, OSTE. adj. Ancienne forme du mot que nous écrivons aujourd'hui Dispos. (Barré, 1842)V. 5DIVERTIR DIVERTIR. v.a. Destourner, distraire. *Divertir quelqu'un de ses occupations. il avoit un tel dessein, je l'en ay diverti.* (Académie, 1687 Av.-Prem.3)V. 373SE DIVERTIR signifie aussi, Réjouïr. Il n'y a rien qui *divertisse* plus que la Comedie. Il ne faut pas toûjours estudier, il faut prendre le temps de se *divertir*. On dit qu'une femme se *divertit*, lors qu'elle fait l'amour; (Furetière, 1690)V. 448Écarter, éloigner, empêcher. — Il faut parer au coup qui nous menace, et lequel, s'il n'estoit diverty, nous rendroit apres soy tous les autres remedes inutiles. DU VAIR, Actions et traictez oratoires, Pour la loy salique, p. 138. (Huguet, 16*e* siècle)V. 1714DEVALLEE, DEVALLERDescendre (Ménage, 1650)V. 163, v. 1380DESDUICT Subst. masc.Passe-tems. Plaisir. « Prendre le déduit avec sa nouvelle épouse » (Richelet, 1680) La forme archaïsante de cette occurrence conserve le /c/ etymologique du part. latin *deductus* ainsi que le /-s/ du préfixe /des-/.V. 2038EFFECT Subst. masc.Pratique, execution (Furetière, 1690)Argument, v. 311, v. 1181EFFROI Subst. masc.Saisissement provoqué par une très grande peur. Cri, hurlement d'effroi; glacer, pâlir d'effroi; jeter l'effroi. (Tlfi)V. 902EMULATION Subst. fém.Jalousie, mauvaise intention. (La Curne, 12e-17e siècles)V. 307ENGENCE Subst. fém.*Terme de mépris.* Race. Quand de ces médisans *l'engence* toute entiere iroit la tête en bas rimer dans la riviere. *Dépreaux, Satire. 9.* De tous les maux on vit poindre *l'engence. Benserade, Rond.* (Richelet, 1680)V. 1130ENMEINE, EMMENER, v.a.Compl. mener quelqu'un avec soi d'un lieu à un autre; emporter : Ses meillurs humes *enmeinet* ensembl' od sei. (*Rol.*, 502.) (Godefroy, 9e-15e siècles) — Étymol. et Hist. *Ca* 1100 trans. *em meinet* « mener hors du lieu où l'on est, en quelque autre lieu » (*Roland*, éd. J. Bédier, 2817) ; (TLFi)ArgumentENNUY, ENNUYEUXDans toutes ses acceptions le mot garde son sens ancien. Ennuy 1. Affliction, douleur, tristesse. (Huguet, 16*e* siècle) — Ennuy: m. *Annoy; vexation, trouble, disquiet, molestation; sorrow, griefe, anguish ;* (Cotgrave, 1611)V. 916, v. 1301, v. 1361, v. 1434, v. 1922ÉPHÉMERIDE s. m. plur.Terme d'Astronomie. Ce sont des tables calculées par des Astronomes, qui marquent l'estat du ciel tous les jours à midi, c'est à dire, le lieu où à midi se trouvent toutes les Planetes: et ce sont ces tables qui servent à dresser les horoscopes ou themes celestes. Les Ephemerides d'Origan, de Kepler, d'Argolus, de Joannes Heckerus, etc. Jean Dominique Cassini a fait des Ephemerides des astres de Medicis, ou des Satellites de Jupiter, qui servent à la descouverte des longitudes. (Furetière, 1690)V. 9ESPOIRAppréciation, jugement. (Godefroy, 9e-15e siècles)V. 323FAIRE TENIR*Faire tenir quelque chose à* : transmettre ou envoyer quelque chose vers. « To conuey, or send a thing vnto. » (Cotgrave, 1611)V. 809FINET, FINETTE adj. diminutif de fin.Qui est fin et qui le dissimule, qui fait le fin. *C'est un finet. c'est une finette.* Il ne se dit jamais qu'en mauvaise part. (Académie, 1687 Av.-Prem.3) — FIN : *pur, subtil, délié* : comme *fin or, fin lin, fin drap;* et de là par metaphore *aduisé, adroit*, et mesme *rusé et cauteleux*. (Ménage, 1650)V. 537, 1429FLAME, FLAMMEOn dit figurément, la flamme de l'amour; et se dit premierement de l'amour divin. une flamme celeste. Seigneur, que je brusle de vos flammes. Il se dit communément de l'amour prophane. Cet amant brusle d'une flamme innocente pour cette fille. il ne faut point nourrir des flammes criminelles. une flamme constante, est une amour fidelle. Signifie aussi, Eclat, vivacité. Ses yeux estoient pleins de flamme, estoient vifs et brillants. ces pierreries jettoient des flammes, brilloient de tous costez. Signifie aussi, Eclat, vivacité. Ses yeux estoient pleins de flamme, estoient vifs et brillants. ces pierreries jettoient des flammes, brilloient de tous costez. (Furetière, 1690)V. 97, v. 101, v. 238, v. 457, v. 867, v. 1223, v. 1248, v. 1515, v. 1860, v. 1919FOURNY Subst. fém.Pièce d'une maison où l'on garde des aliments et des outils, annexée à l'endroit ou l'on cuit le pain. « Elle tiendra le fourny fermé aux heures où elle n'y aura que faire » (source : *Règlemens ou éclaircissemens sur les constitutions des religieuses*, Pierre Fourier, 1674)V. 1197FRANCHISE subst. fem.Dignifie aussi, Asyle, lieu saint et privilegié où on est en seureté de sa personne. Les Eglises et les Monasteres d'Espagne sont des Franchises pour les Criminels. (Furetière, 1690)V. 1784Signifie chez les Poëtes et les amants, Liberté. Il a perdu sa franchise. il a engagé sa franchise. (Furetière, 1690)Poème liminaireGAILLARDE subst. masc.Espece de danse ancienne qu'on dansoit tantost terre à terre, et tantost en cabriolant; tantost allant le long de la salle, et tantost à travers. (Furetière, 1690)V. 172GAILLARD, ARDE adjectif Gai. Plein de gaïeté (Richelet, 1680)V. 571GESNE subst. fém.Signifie *torture*, puis par affaiblissement sémantique Fatigue, peine, travail. « Donner la gêne à son esprit. » (Richelet, 1680)V. 723GUESTEUR GUETTEUR subst. masc.Se dit des voleurs, des *guetteurs* de chemins qui attendent les passans pour les destrousser. (Furetière, 1690)V. 1094GOGUELUREAUForme attestée par Ménage (1694), Godefroy, (9e-15e siècles) et Cotgrave (1611) variante de : GODELUREAU. subst. masc. Jeune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprés des femmes, qui est toûjours bien propre et bien mis sans avoir d'autres perfections. Les vieux maris ont sujet d'estre jaloux de ces *godelureaux* qui viennent cajoller leurs femmes.V. 1126HALLEBARDE Subst. fém.Arme d'infanterie en usage du xiv*e*au xvii*e*siècle et, de nos jours, arme d'apparat pour certains hommes assurant une garde d'honneur (marins, suisses, garde vaticane, etc.), comportant une longue hampe terminée par un fer pointu et tranchant, muni de deux ailes, l'une en pointe, l'autre en croissant de hache.(TLFi) — Ce substantif et son verbe dérivé sont mentionnés par Ménage (1650) et Huguet (16e siècle)V. 1104HALLIER subst.masc.Réunion de buissons touffus et serrés (Godefroy, 9e-15*e* siècles)V. 280HAZARD subst.masc.Peril, risque. On est bien fou de mettre sa vie *au hazard* pour les biens du monde. S'exposer au hazard, *Ablancourt*. Il a couru *hazard* de se perdre. (Richelet, 1680)V. 690, 1009HEURChance bonne ou mauvaise (Huguet, 16*e* siècle)Poème liminaire*Subst. masc.* Ce mot signifie *bon-heur*, mais il est bas, est peu usité et *se prononce sans faire sentir son h.* Je hai la solitude car elle pourroit me ravir *l'heur* de te voir et te servir. *S. Am.* (Richelet, 1680)V. 184, v. 205, v.411*Subst. masc.* Rencontre avantageuse (Furetière, 1690)V. 701IL S'EN VA TARDIl va être tard, il va faire nuit. (Huguet, 16e siècle)V. 1132INDISCRETTE adj.Estourdy, imprudent, qui ne prend pas garde à ce qu'il dit ou à ce qu'il fait. Cet homme est fort indiscret. cette femme est bien indiscrete. (Académie, 1687 Av.-Prem.3)V. 1325INFAILLIBLE Adj.Qui est certain, et immancable. (Académie, 1694 1*ère* éd.)V. 1467JOUR subst. masc.Se dit aussi d'une lumiere, d'une ouverture qui nous vient dans l'esprit, qui nous donne bonne esperance de la reüssite d'une affaire. Cela n'est pas impossible, je voy quelque jour, quelque apparence d'en venir à bout. (Furetière, 1690)V. 574JOUYRDéformation de *chevir* : venir à bous de quelquechose. (Huguet, 16*e* siècle)V. 479JUPIN n. pr. m.Abréviation familière du nom de Jupiter. La Fontaine dit, en parlant des grenouilles: Jupin les soumit au pouvoir monarchique. (Barré, 1842)V. 350, v. 1150, v. 1260, v. 1284, v. 1822, v. 1980LAITAGESubst. masc. Le lait considéré collectivement ; l'ensemble de ce qui se fait avec le lait (Godefroy, 9e-15e siècles) — Il se dit du lait et de tout ce qui se fait de lait, comme cresme, beurre, fromage, etc. *Il ne vit que de laitage.* (Académie, 1718 2*ème* éd.)V. 996LAPREAU subst. masc.Petit lapin. (Richelet, 1680)V. 1142LASInterjection Plaintive. *Las ! qui le pourroit croire ! las que j'ay souffert de peine* ! Il commence à vieillir, et on se sert plus ordinairement d'*helas*. (Académie, 1694 1*ère* éd.) —Interjection et expression d'un mouvement de douleur ou d'affliction, laquelle on marque avec cette ponctuation ! Il est plus en usage en Poësie qu'en prose, à cause qu'il donne la facilité pour la mesure du vers, on dit ailleurs *helas*. (Furetière, 1690) La pièce de Discret témoigne d'un usage encore instable car les deux formes sont présentes : *hélas* avec 20 occurrences contre *Las* avec seulement 7 occurrences. Cette disproportion à l'avantage de la forme *hélas* confirme le commentaire des dictionnaires perçevant *Las* comme une forme vieillie.V. 1211, v. 1313, v. 1545, v. 1631, v. 1891, v. 1918, v. 1940LIESSEDe *lie*, vieux mot François qui signifie *ioyeux*, et qui est encore en vsage en cette façon de parler *faire chere lie.* Au lieu de *lie* on a dit aussi *lié*, témoin *Saint Lié.* L'vn et l'autre viennent de *lætus*, d'où les Italiens ont aussi fait *lieto.* Voyez André du Chesne dans ses Annotations sur Alain Chartier pag. 866. (Ménage, 1650) — LÏESSE, *Subst. fém.* † Vieux mot qui signifie *joie*, et qui entre encore dans le burlesque et le stile le plus simple. Dieu garde en joie et en lïesse. *Voit. Poës.* On dit pourtant sérieusement *Notre Dame de liesse* mais c'est une façon de parler consacrée qui ne tire point à consequence. (Richelet, 1680) — LIESSE. Subst. fém. Joye, gayeté. Vieux mot qui n'a plus d'usage dans le discours serieux que dans cette phrase. *Nostre-Dame de Liesse.* (Académie, 1687 Av.-Prem.3) — LIESSE. Subst. fém. Vieux mot qui signifioit autrefois, Joye, santé, prosperité. Il est revenu de son voyage, on l'a reçeu en grande *liesse*. Il ne se dit plus guere qu'en cette phrase, Nostre-Dame de *liesse*. Ce mot vient de *lætitia*. (Furetière, 1690)V. 549LOGETTE Subst. fém.Petit logis, échoppe. (Huguet, 16e siècle)V. 1063MAIL, ÉMAIL, ESMAIL Subst. masc.Certaine composition dont se servent les peintres, les vitriers, orfévres et émailleurs. Ce mot au figuré est plus de la poësie que de la prose, et il signifie l'embélissement que font les fleurs et autres pareilles choses. L'émail des prez. God. Poës. 2. partie, I. églogue.V. 248, v. 504, v. 512MAIS adverbre.Signifioit aussi autrefois, *Plus, d'avantage*. On le dit encore en Lyonnois et autrefois à Paris. Vous dites qu'il n'y a là que quatre aunes de ruban, il y en a mais, pour dire, il y en a davantage. Ce mot vient de Magis. (Furetière, 1690)V. 1000MAMOUR, MAMIE Subst. masc. et f.Termes de cageollerie familiere, qui sont abregez de *mon amour* et de *mon amie*. Ils ne sont en usage que dans le Burlesque et dans les chansons. Mon cœur, *m'amour*, se dit par une jeune femme à son mary, par une nourrice à son nourriçon. On dit en esconduisant une pauvre femme, *m'amie*, je n'ay rien à vous donner. (Furetière, 1690) — M'AMOUR qui n'a cours que parmi le bourgeois ; M'AMIE ce mot ne se dit guere qu'en parlant à des servantes, ou qu'entre de petis bourgeois. (Richelet, 1680)V. 213, v. 285, v. 568, v. 994, v. 1057MANDER Inviter à se trouver à quelque ceremonie. Il a esté mandé pour assister à la nopce, à l'enterrement. On mande de notables bourgeois de se trouver au Bureau de la ville pour l'élection des Eschevins. Les escornifleurs viennent disner aux bonnes tables sans estre mandez. Cet homme est bien malade, il faut mander un Medecin, un Prestre. (Furetière, 1690)ArgumentSignifie aussi, Convoquer, enjoindre de venir à soy. Le Roy a mandé le ban et arriereban, a mandé le Parlement. Il a mandé le Prevost et ses Archers pour conduire ce prisonnier. Ce General a mandé tels Regiments, leur a ordonné de le venir joindre. La Cour a mandé un tel Juge, ordonné un veniat contre luy. (Furetière, 1690)V. 13Signifie aussi, Escrire à quelqu'un, ou luy envoyer un message pour luy faire sçavoir quelque chose, pour le prier, le charger, de faire quelque affaire. On luy a mandé cette nouvelle par un billet. On luy a mandé par un homme exprés tout ce qui s'est passé en une telle affaire. Cette partie a mandé à son Procureur de mettre son procés en estat. J'ay mandé à mes Fermiers qu'ils payassent cette somme. (Furetière, 1690)V. 807MANTERIE MENTERIE, Subst. fém.Prononcez *manterie*. Bourde, mensonge (Richelet, 1680) — La *menterie* est le vice des valets et du bas peuple. Ce Livre est tout plein de bourdes et de *menteries*. On s'excuse ordinairement par des *menteries*. Les hableurs soûtiennent effrontement leurs *menteries*. (Furetière, 1690)V. 1760MASTIN subst. masc.Gros chien de cuisine, ou de bassecour. Les Bergers, les Bouchers ont des mastins pour garder, pour conduire, leurs troupeaux. Ce mot vient de mastinus, qu'on a dit dans la basse Latinité en même signification. Se dit aussi des hommes grossiers, mal bastis de corps, ou d'esprit. C'est un vilain, un gros mastin, un sot mastin. (Furetière, 1690)V. 520MESFAITFaire mal à quelqu'un (Académie, 1687 Av.-Prem.3)V. 847MODESTIE subst. fem.Pudeur, retenuë. La modestie sied bien sur le visage d'une fille. (Furetière, 1690)V. 569MOUILLER LE DOIGTIl y a un jeu d'enfant qu'on appelle au doit mouillé, quand on propose à deviner le doit qu'on a mouillé secretement. (Furetière, 1690) — Tirer au doigt moillié, tirer au sort en choisissant entre plusieurs doigts que qqu'un présente et dont l'un est mouillé en dessous. (Godefroy, 9e-15e siècles)V. 625NAIFVETE sust. fém.Caractère de ce qui est naturel. (Huguet, 16e siècle) — Ingenuité, simplicité d'une personne qui n'use point de desguisement. La naïveté des paysans. la naïveté d'un jeune enfant. (Académie, 1718 2ème éd.)ÉpîtreNARGUEMot dont on se sert lorsqu'on veut marquer du mepris pour une personne, ou pour quelque autre chose. † *Nargue* du Parnasse et des Muses, *Saint Amant. Nargue* pour lui, *Scaron*. (Richelet, 1680)V. 1117NAZARDE subst. fem.Chiquenaude que l'on donne sur le bout du nez. On dit d'un homme ridicule et timide, qu'il a un nez à camouflets et à nazardes. (Furetière, 1690)V. 1136NENNY, NENNI adv. negatif ou subst. fem.Nenni da, Nenni vrayement. Il est bas, il est quelquefois subst. fem. Cette boutique est si bien fournie, que quelque chose qu'on demande il n'y a point de nenni. (Furetière, 1690) — NENNI Particule dont on se sert pour répondre négativement à une interrogation expresse ou sous-entendue. Il n'a guère d'usage hors de la conversation familière. Voulez-vous aller à la chasse ? Nenni. En parlant d'Un homme complaisant, qui est toujours d'accord de tout, on dit, que C'est un homme avec qui il n'y a point de nenni. La même chose se dit d'un Marchand chez lequel on trouve tout ce qu'on demande.V. 628NEPVEU subst. masc.Petit-fils, Descendant (Huguet, 16e siècle) la graphie etymologisante rappelle l'origine latine du mot — Du lat. *nepos, nepotis* (fém. *neptis, neptis*) « petit-fils (descendant de parenté indirecte) » qui a pris à basse époque le sens de « fils du frère ou de la soeur » ; ces 2 sens du lat. subsistent en fr. (TLFi)V. 1952OBLIGER Littér., vieilli.Rendre service à quelqu'un, lui être utile ou agréable, avoir droit à sa reconnaissance. (TLFi)Épître, v. 403, v. 406OCCASION EST CHAUVE (L')On dit prov. et fig. que *l'occasion est chauve par derriere*, ou simplement, *est chauve*, pour dire, qu'il ne la faut pas laisser eschapper quand elle se presente. (Académie, 1694 1ère éd.)V. 647OFFICE Subst. masc.Secours ou devoir reciproque de la vie civile. (Furetière, 1690)V. 402OYANTS participe présent du verbe OïrEntendre (Godefroy, 9e-15e siècles)V. 878OMBRE subst. fém.Signifie aussi l'ame d'un mort, qu'on se represente sous la figure qu'il avoit vivant, mais qui est une vaine image sans corps. (Furetière, 1690)Argument, acte 5 sc. 1 et 4 (liste des personnages), v. 1951, v. 1968, v. 1994ONCQUESJamais (Huguet, 16e siècle, Godefroy, 9e-15e siècles) Avec une valeur négative, servant, avec *ne*, à former une négation de temps (TLFi)V. 165, 1774ORGANE subst. masc.Se dit figurément en parlant de ceux qui servent à quelqu'un pour faire connoistre ses pensées. Le Grand Seigneur ne s'explique à ses sujets que par l'organe de ses Ministres. (Furetière, 1690)V. 824OUY DA, DA/DEAEst une interiection laquelle enforce la diction où elle est apposée, comme, *Non deà, ouy deà*, Non vtique, Sanè quidem, mais en telles manieres de parler on use plustost de Deâ, fait dudit Deâ par contraction ou syncope, et dict-on *non Dâ, ouy dâ*. (Nicot, 1606)V. 1199PALUS, PALUD, PALUDSTerme de Geographie. Marescage. (Furetière, 1690) Du lat. *palus, -udis* (TLFi).V. 1949PANTALON, PANTALONADE Subst. masc.Bouffon, ou mascarade qui fait des danses par haut, et des postures irregulieres et extravagantes. (Furetière, 1690)V. 172PASTURE subst.fém.Nourriture qu'on donne aux bêtes (Richelet, 1680)V. 1568PENSEMENTAction de penser, méditation, réflexion. (Huguet, 16e siècle)V. 817PINTE subst. fém.Vase qui contient deux chopines et dont on se sert ordinairement pour mesurer le vin, la biére, le lait, et quelques autres liqueurs. (Richelet, 1680)V. 1092PIPEUR Subst. masc. et f.Filou qui trompe au jeu, qui jouë de mauvaise foy. (Furetière, 1690)V. 1326PROBATION Subst. fém.Terme de Capucin et de quelques autres Religieux. Il se dit en parlant du noviciat, et c'est proprement le tems du noviciat durant lequel on éprouve et on voit si le novice a l'esprit de religion. Faire son année de probation. On ne peut recevoir un Religieux qu'aprés le tems de probation. Patru, plaidoié I5. (Richelet, 1680)ÉpîtrePRESTE adj.Qui se fait viste et en peu de temps. Les Charlatans sont *prestes* et subtils à faire leurs tours, à joüer des gobelets. — On dit aussi adverbialement, Allons *preste*, alaigrement. (Furetière, 1690) — PRESTE, Est aussi adverbe d'exhortation, et signifie, Viste, promptement. *Allez-là, et despeschez-vous, preste.* Il n'a d'usage que dans le style familier. (Académie, 1718 2*ème* éd.)Argument, v. 533PROU adv.Beaucoup, suffisamment. (Furetière, 1690)V. 1009RAMAGE subst. masc.C'est le chant naturel de quelque oiseau que ce soit. (Richelet, 1680)V. 639(SE) RESENTIR v.r. Ce mot autant que je le puis conjecturer ne se dit qu'en mauvaise part. Avoir du ressentiment d'un déplaisir qu'on nous a fait. (Richelet, 1680)V. 664SILLETMarquer d'un sillage (Huguet, 16e siècle)V. 355SIMPLESSE subst.fém.Simplicité ingénue (Godefroy, 9e-15e siècles) — Terme populaire (Furetière, 1690) — Il n'a guere d'usage que dans le discours familier, et dans cette phrase, *Il ne demande qu'amour et simplesse*, pour dire, que C'est un homme ingenu, qui a les manieres douces et aisées, et qui ne demande qu'à vivre en paix. Académie, 1718 2*e* éd.V. 828SIMPLICITÉ subst.fém.Se dit aussi de l'action qui est faite par une grande foiblesse d'esprit, ou defaut d'experience. On nous a rapporté une grande simplicité que fit cette villageoise. On rit beaucoup de cette simplicité. Il ne faut pas abuser de la simplicité des pauvres gens. (Furetière, 1690)V. 670SOCIETEAmitié, liaison (Richelet, 1680)V. 761SOULASPlaisir, joie, agrément. (Huguet, 16e siècle) — Vieux mot qui ne peut entrer que dans le burlesque et le stile le plus simple et qui signifie tout ce qui fait la consolation d'une personne, tout ce qui adoucit ses peines et fait son plaisir. (Richelet, 1680)V. 1209SOUFFRIRPermettre, Tolérer (Académie, 1694 1*ère* éd.)V. 1270SUASION subst.fém.Terme de pratique, conseil, sollicitation, instigation. *Il a commis ce meurtre à la suasion d'un tel.*( Académie, 1694 1*re* éd.)V. 407SUBORNERDébaucher, seduire, induire à faire une mauvaise action, une action contre son devoir. (Académie, 1694 1*ère* éd.)V. 987SUS, OR SUSExclamation, pour exciter, allons debout, eh bien (Godefroy, 9e-15e siècles, Huguet, 16e siècle) — Vieux mot qui veut dire *présentement*, et qui quelquefois a encore cours dans le burlesque. (Richelet, 1680)V. 149, v. 629, v. 636, v. 638, v. 1149, v. 1185, v. 1896TENSEULEMENTTANT SEULEMENT. Seulement (Huguet, 16e siècle)V. 740TOURMENTPeine corporelle cruelle (Godefroy, 9e-15e siècles)V. 1754TOUR DE SOUPLESSECes mots au figuré signifient finesses, adresses, subtilitez, moiens fins et subtils, ruses. Ainsi on dit il a fait, mile tours de souplesse pour venir à bout de ses desseins. (Richelent, 1680)V. 537TRANSPORTERSe dit aussi des violentes agitations de l'esprit. Un homme transporté de colere, de joye, d'amour, etc. Ceux qui rendoient des oracles étoient transportez de fureur. Un Poëte dit aussi, qu'une sainte fureur le transporte. (Furetière, 1690)V. 1329TRAVAUXSe dit au pluriel des actions, de la vie d'une personne, et particulierement des gens heroïques. Dieu benit les travaux des gens de bien. Il recompense les travaux de ceux qui l'ont bien servy. Les Martyrs jouïssent du fruit de leurs glorieux travaux. Les Payens ont aussi appellé les travaux d'Hercule, et ont creu qu'ils meritoient le ciel. On appelle aussi les dehors d'une place, les pieces detachées, des travaux avancez. (Furetière, 1690)V. 495, v. 726, v. 913, v. 1270, v. 1901TROU-MADAME subst.masc.C'est une sorte de jeu de bois composé de tréze portes et d'autant de galeries auquel on jouë avec tréze petites boules. (Richelet, 1680)V. 610TRUCHEMENT subst.mascInterprete, celuy qui explique à deux personnes qui parlent de langues differentes ce qu'ils se disent l'un à l'autre. (Académie, 1718 2ème éd.)V. 824
+# Glossaire.ABSOLUS : adj.Souverains. (Richelet, 1680)V. 431ADVISERRéfléchir, penser. (La Curne, 12e-17e siècles)V. 545Prendre garde (Huguet, 16e siècle)V. 1453AFFETTERIE subst. fém.Manière pleine d'affectation par laquelle, dans le dessein de plaire, on s'éloigne du naturel et tombe dans un excès de recherche superficielle ou contraire au bon goût. (TLFi)V. 1759ALEMBIQUE (S')ALAMBIQUER. v.a. Il n'a d'usage qu'au figuré et dans ces phrases, *S'alambiquer l'esprit; alambiquer l'esprit*, qui signifient, Se distiller en quelque sorte l'esprit, par une trop grande application à des choses abstraites et trop subtiles. *S'alambiquer l'esprit mal-à-propos sur des questions espineuses, difficiles, inutiles. s'alambiquer la cervelle. des questions qui ne sont bonnes qu'à alambiquer l'esprit. ne vous allez point alambiquer l'esprit inutilement.* (*Académie*, 1718, 2*ème* éd.) — Au fig., vx, péj. 1. Emploi trans. Tourmenter à force de réflexions, par excès de recherche. Alambiquer le sentiment, l'esprit, la cervelle (TLFi)V. 427AMBALLEUR subst. masc.Se dit figurément des hableurs, qui disent plusieurs choses contre la verité, qui inventent plusieurs histoires à plaisir, et qu'ils debitent aux credules. (Furetière, 1690)V. 1103APPARIERComparer, assimiler, égaler. (Huguet, 16e siècle)V. 1722APPETIT subst. masc.Passion de l'ame qui nous porte à desirer quelque chose. (Furetière, 1690)V. 536APRESDINEEDISNER. v.n. Prendre le repas du midy. (*Académie*, 1687 Av.-Prem.3 — Prendre son repas vers le milieu du jour. (Furetière 1690)V. 249ARRESTERTarder (Académie, 1687 Av.-Prem.1) — Rester en arrière (Furetière, 1680)V. 669ASPECT subst. masc.Regard, vue (Richelet, 1680)V. 446AUBADE subst. fém.Violons qu'un amant donne le matin à sa maitresse. Régal de violons qu'on donne à quelqu'un pour lui marquer l'estime qu'on fait de lui, ou pour lui marquer de la joie, ou de la passion. (Richelet, 1680)V. 21BRASNLETerme de maitre à dancer. Dance où plusieurs dancent en rond, se tenant par la main. (Richelet, 1680)V. 20, v. 150, v. 171BOCAGE subst. masc.Sorte de petit bois. (Richelet, 1680)V. 623BOUTTE-FEU BOUTEFEU. Subst. masc.Incendiaire qui de dessein formé met le feu à un edifice, à une ville. On surprit des boutefeux. (Académie, 1687 Av.-Prem.3)ArgumentCALLOTE subst. fém.Petite cale ou coëffe de cuir, de satin, ou d'autre estoffe, qui couvre le haut de la teste. On s'en sert particulierement quand on est en des lieux où on est obligé d'estre long-temps teste nuë. Les vieillards portent des *calottes* à oreilles. On porte aussi des perruques à *calotte*. La *calotte* rouge est une marque de dignité, car il n'y a que les Cardinaux qui en portent. (Furetière, 1690)V. 975CARRIERE subst. fém.Lieu qu'on creuse dans un champ pour en tirer la pierre qui est dessous. On ne peut pas bastir sur ce terrain, il est creux, on y a fouillé des carrieres. cet enfant est tombé dans le puits de la carriere. (Furetière, 1690)V. 1383CEANS adv.Ici. En cét endroit, en ce lieu. ci. Il est céans. (Richelet, 1680)V. 1194CHARME, CHARMANT, CHARMERNe pas oublier la dimension magique du mot, qui en fait un terme fort et peut le rapprocher de l'enchantement ou du sortilège.V .25, v. 60, v. 375, v. 392, v. 507, v. 1254, 1259, v. 1468, v. 1683, v. 1923CLAIR-SEMÉ, ÉE Adj.Qui n'est pas bien serré, qui n'est pas près à près. Du blé clair-semé, de l'avoine clair-semée. On dit prov. que L'argent est clair-semé chez quelqu'un, pour dire, qu'Il en a fort peu. Il se dit aussi figur. Des ouvrages d'esprit. Ainsi on dit, d'Un livre où il y a quelques beaux traits, mais de loin à loin, que Les beautez y sont clair-semées. (Académie, 1740 3*e* éd.)ÉpîtreCLIGNE-MUSETTE Subst. fém.Jeu de petits enfants, dans lequel l'un d'eux ferme les yeux, tandis que les autres se cachent en divers endroits, qu'il doit chercher pour les prendre. *Joüer à cligne-mussette.* (*Académie*, 1687 Av.-Prem.2)V. 622COIGNE FESTUCelui qui s'occupe de choses inutiles. Celui dont les entreprises restent sans résultat. — Et je di voyant ma fortune, Maigre s'il en fut jamais une, Je suis un grand Cogne festu: Qui cogne cogne et rien n'avance. BAÏF, *les Mimes*, L. I (V, 42). Celui qui n'est bon à rien, qui ne fait rien. — Et ne me puis tenir de luy dire qu'il sembloit un coigne-festu, qu'il ne voulloict rien fere ny laisser fere les aultres. MONLUC, *Commentaires*, L. I (I, 114). Employé Surtout au XVI*e* (Huguet) À noter que l'occurence présente dans notre texte maintient la graphie étymologisante dans sa partie verbale : COGNER, verbe Étymol. et Hist. 1. Fin xii*e*s. « coincer » (J. Le Nevelon, *Vengeance Alexandre*, 1427 ds T.-L.) ; 2. 1*re*moitié xiii*e*s. « frapper » (Hugues Piaucele, *D'Estormi*, 195 ds Montaiglon, Raynaud, *Fabliaux*, t. 1, p. 204). Dér. de *coin*⁎; dés. -*er*, plutôt qu'issu du lat. impérial *cuneare* « serrer, maintenir avec un coin ». (TLFi)V. 2040CONFUSIONSubst. fém. signifie aussi, Honte (Furetière, 1690)V. 1517COMMETRE— Nommer (Godefroy, 9e-15e siècles) — Signifie encore, Donner pouvoir d'exercer une charge de Judicature, ou autre charge en la place d'un Titulaire. On a interdit un tel Baillif, et il a fallu *commettre* à sa charge. s'il neglige de se faire recevoir, on *commettra* à sa place. un Intendant a pouvoir de *commettre* et de subdeleguer. (Furetière 1690)V. 1717COMPROMISFiancé. (Godefroy, 9e-15e siècles)V. 43COURAGESignifie quelquefois, Ardeur, affection. Il est allé en un tel lieu de grand courage, avec grande promptitude. Il sert ses amis de grand courage. Il travaille de grand courage, pour dire, avec grande affection. (Furetière, 1690)V. 1002COURANTE Subst. fém.Piece de Musique, d'une mesure triple ou mouvement ternaire. Elle commence et finit, quand celuy qui bat la mesure baisse la main; ... C'est la plus commune de toutes les danses qu'on pratique en France, qui se fait d'un temps, d'un pas, d'un balancement, et d'un couppé. ... Il y a des courantes simples, et des courantes figurées, qui se dansent toutes à deux personnes. On appelle courante, tant l'air, que les pas qu'on fait dessus pour la danser, et même les paroles sur lesquelles on a mis un air de cette mesure. (Furetière, 1690)V. 20, v. 178, v. 193, v. 290CREVE CŒURDouleur déchirante (Cotgrave, 1611) — Grand déplaisir, grande douleur mêlée de dépit. *Quel crève-cœur ! C'est un grand crève-cœur de voir...* Connoté dans le registre familier par le dictionnaire de l'Académie en 1798, mais ce n'est peut être pas le cas à l'époque de notre pièce (1638). (Académie, 1798 5*e* éd.)V. 1265CURIEUSEMENTSoigneusement (Huguet 16*e* siècle)Épître, v. 1979DART Subst. masc.Sorte de trait de bois dur qui est ferré au bout et propre à être lancé. (Richelet, 1680)V. 1508DILIGENCE Subst. fém.Prontitude à faire une chose. (Richelet, 1680)V. 1196DISPOSTDISPOS. *adj. m.* Qui est agile, leger, qui se porte bien. (Furetière, 1690) — DISPOST, OSTE. adj. Ancienne forme du mot que nous écrivons aujourd'hui Dispos. (Barré, 1842)V. 5DIVERTIR DIVERTIR. v.a. Destourner, distraire. *Divertir quelqu'un de ses occupations. il avoit un tel dessein, je l'en ay diverti.* (Académie, 1687 Av.-Prem.3)V. 373SE DIVERTIR signifie aussi, Réjouïr. Il n'y a rien qui *divertisse* plus que la Comedie. Il ne faut pas toûjours estudier, il faut prendre le temps de se *divertir*. On dit qu'une femme se *divertit*, lors qu'elle fait l'amour; (Furetière, 1690)V. 448Écarter, éloigner, empêcher. — Il faut parer au coup qui nous menace, et lequel, s'il n'estoit diverty, nous rendroit apres soy tous les autres remedes inutiles. DU VAIR, Actions et traictez oratoires, Pour la loy salique, p. 138. (Huguet, 16*e* siècle)V. 1714DEVALLEE, DEVALLERDescendre (Ménage, 1650)V. 163, v. 1380DESDUICT Subst. masc.Passe-tems. Plaisir. « Prendre le déduit avec sa nouvelle épouse » (Richelet, 1680) La forme archaïsante de cette occurrence conserve le /c/ etymologique du part. latin *deductus* ainsi que le /-s/ du préfixe /des-/.V. 2038EFFECT Subst. masc.Pratique, execution (Furetière, 1690)Argument, v. 311, v. 1181EFFROI Subst. masc.Saisissement provoqué par une très grande peur. Cri, hurlement d'effroi; glacer, pâlir d'effroi; jeter l'effroi. (Tlfi)V. 902EMULATION Subst. fém.Jalousie, mauvaise intention. (La Curne, 12e-17e siècles)V. 307ENGENCE Subst. fém.*Terme de mépris.* Race. Quand de ces médisans *l'engence* toute entiere iroit la tête en bas rimer dans la riviere. *Dépreaux, Satire. 9.* De tous les maux on vit poindre *l'engence. Benserade, Rond.* (Richelet, 1680)V. 1130ENMEINE, EMMENER, v.a.Compl. mener quelqu'un avec soi d'un lieu à un autre; emporter : Ses meillurs humes *enmeinet* ensembl' od sei. (*Rol.*, 502.) (Godefroy, 9e-15e siècles) — Étymol. et Hist. *Ca* 1100 trans. *em meinet* « mener hors du lieu où l'on est, en quelque autre lieu » (*Roland*, éd. J. Bédier, 2817) ; (TLFi)ArgumentENNUY, ENNUYEUXDans toutes ses acceptions le mot garde son sens ancien. Ennuy 1. Affliction, douleur, tristesse. (Huguet, 16*e* siècle) — Ennuy: m. *Annoy; vexation, trouble, disquiet, molestation; sorrow, griefe, anguish ;* (Cotgrave, 1611)V. 916, v. 1301, v. 1361, v. 1434, v. 1922ÉPHÉMERIDE s. m. plur.Terme d'Astronomie. Ce sont des tables calculées par des Astronomes, qui marquent l'estat du ciel tous les jours à midi, c'est à dire, le lieu où à midi se trouvent toutes les Planetes: et ce sont ces tables qui servent à dresser les horoscopes ou themes celestes. Les Ephemerides d'Origan, de Kepler, d'Argolus, de Joannes Heckerus, etc. Jean Dominique Cassini a fait des Ephemerides des astres de Medicis, ou des Satellites de Jupiter, qui servent à la descouverte des longitudes. (Furetière, 1690)V. 9ESPOIRAppréciation, jugement. (Godefroy, 9e-15e siècles)V. 323FAIRE TENIR*Faire tenir quelque chose à* : transmettre ou envoyer quelque chose vers. « To conuey, or send a thing vnto. » (Cotgrave, 1611)V. 809FINET, FINETTE adj. diminutif de fin.Qui est fin et qui le dissimule, qui fait le fin. *C'est un finet. c'est une finette.* Il ne se dit jamais qu'en mauvaise part. (Académie, 1687 Av.-Prem.3) — FIN : *pur, subtil, délié* : comme *fin or, fin lin, fin drap;* et de là par metaphore *aduisé, adroit*, et mesme *rusé et cauteleux*. (Ménage, 1650)V. 537, 1429FLAME, FLAMMEOn dit figurément, la flamme de l'amour; et se dit premierement de l'amour divin. une flamme celeste. Seigneur, que je brusle de vos flammes. Il se dit communément de l'amour prophane. Cet amant brusle d'une flamme innocente pour cette fille. il ne faut point nourrir des flammes criminelles. une flamme constante, est une amour fidelle. Signifie aussi, Eclat, vivacité. Ses yeux estoient pleins de flamme, estoient vifs et brillants. ces pierreries jettoient des flammes, brilloient de tous costez. Signifie aussi, Eclat, vivacité. Ses yeux estoient pleins de flamme, estoient vifs et brillants. ces pierreries jettoient des flammes, brilloient de tous costez. (Furetière, 1690)V. 97, v. 101, v. 238, v. 457, v. 867, v. 1223, v. 1248, v. 1515, v. 1860, v. 1919FOURNY Subst. fém.Pièce d'une maison où l'on garde des aliments et des outils, annexée à l'endroit ou l'on cuit le pain. « Elle tiendra le fourny fermé aux heures où elle n'y aura que faire » (source : *Règlemens ou éclaircissemens sur les constitutions des religieuses*, Pierre Fourier, 1674)V. 1197FRANCHISE subst. fem.Dignifie aussi, Asyle, lieu saint et privilegié où on est en seureté de sa personne. Les Eglises et les Monasteres d'Espagne sont des Franchises pour les Criminels. (Furetière, 1690)V. 1784Signifie chez les Poëtes et les amants, Liberté. Il a perdu sa franchise. il a engagé sa franchise. (Furetière, 1690)Poème liminaireGAILLARDE subst. masc.Espece de danse ancienne qu'on dansoit tantost terre à terre, et tantost en cabriolant; tantost allant le long de la salle, et tantost à travers. (Furetière, 1690)V. 172GAILLARD, ARDE adjectif Gai. Plein de gaïeté (Richelet, 1680)V. 571GESNE subst. fém.Signifie *torture*, puis par affaiblissement sémantique Fatigue, peine, travail. « Donner la gêne à son esprit. » (Richelet, 1680)V. 723GUESTEUR GUETTEUR subst. masc.Se dit des voleurs, des *guetteurs* de chemins qui attendent les passans pour les destrousser. (Furetière, 1690)V. 1094GOGUELUREAUForme attestée par Ménage (1694), Godefroy, (9e-15e siècles) et Cotgrave (1611) variante de : GODELUREAU. subst. masc. Jeune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprés des femmes, qui est toûjours bien propre et bien mis sans avoir d'autres perfections. Les vieux maris ont sujet d'estre jaloux de ces *godelureaux* qui viennent cajoller leurs femmes.V. 1126HALLEBARDE Subst. fém.Arme d'infanterie en usage du xiv*e*au xvii*e*siècle et, de nos jours, arme d'apparat pour certains hommes assurant une garde d'honneur (marins, suisses, garde vaticane, etc.), comportant une longue hampe terminée par un fer pointu et tranchant, muni de deux ailes, l'une en pointe, l'autre en croissant de hache.(TLFi) — Ce substantif et son verbe dérivé sont mentionnés par Ménage (1650) et Huguet (16e siècle)V. 1104HALLIER subst.masc.Réunion de buissons touffus et serrés (Godefroy, 9e-15*e* siècles)V. 280HAZARD subst.masc.Peril, risque. On est bien fou de mettre sa vie *au hazard* pour les biens du monde. S'exposer au hazard, *Ablancourt*. Il a couru *hazard* de se perdre. (Richelet, 1680)V. 690, 1009HEURChance bonne ou mauvaise (Huguet, 16*e* siècle)Poème liminaire*Subst. masc.* Ce mot signifie *bon-heur*, mais il est bas, est peu usité et *se prononce sans faire sentir son h.* Je hai la solitude car elle pourroit me ravir *l'heur* de te voir et te servir. *S. Am.* (Richelet, 1680)V. 184, v. 205, v.411*Subst. masc.* Rencontre avantageuse (Furetière, 1690)V. 701IL S'EN VA TARDIl va être tard, il va faire nuit. (Huguet, 16e siècle)V. 1132INDISCRETTE adj.Estourdy, imprudent, qui ne prend pas garde à ce qu'il dit ou à ce qu'il fait. Cet homme est fort indiscret. cette femme est bien indiscrete. (Académie, 1687 Av.-Prem.3)V. 1325INFAILLIBLE Adj.Qui est certain, et immancable. (Académie, 1694 1*ère* éd.)V. 1467JOUR subst. masc.Se dit aussi d'une lumiere, d'une ouverture qui nous vient dans l'esprit, qui nous donne bonne esperance de la reüssite d'une affaire. Cela n'est pas impossible, je voy quelque jour, quelque apparence d'en venir à bout. (Furetière, 1690)V. 574JOUYRDéformation de *chevir* : venir à bous de quelquechose. (Huguet, 16*e* siècle)V. 479JUPIN n. pr. m.Abréviation familière du nom de Jupiter. La Fontaine dit, en parlant des grenouilles: Jupin les soumit au pouvoir monarchique. (Barré, 1842)V. 350, v. 1150, v. 1260, v. 1284, v. 1822, v. 1980LAITAGESubst. masc. Le lait considéré collectivement ; l'ensemble de ce qui se fait avec le lait (Godefroy, 9e-15e siècles) — Il se dit du lait et de tout ce qui se fait de lait, comme cresme, beurre, fromage, etc. *Il ne vit que de laitage.* (Académie, 1718 2*ème* éd.)V. 996LAPREAU subst. masc.Petit lapin. (Richelet, 1680)V. 1142LASInterjection Plaintive. *Las ! qui le pourroit croire ! las que j'ay souffert de peine* ! Il commence à vieillir, et on se sert plus ordinairement d'*helas*. (Académie, 1694 1*ère* éd.) —Interjection et expression d'un mouvement de douleur ou d'affliction, laquelle on marque avec cette ponctuation ! Il est plus en usage en Poësie qu'en prose, à cause qu'il donne la facilité pour la mesure du vers, on dit ailleurs *helas*. (Furetière, 1690) La pièce de Discret témoigne d'un usage encore instable car les deux formes sont présentes : *hélas* avec 20 occurrences contre *Las* avec seulement 7 occurrences. Cette disproportion à l'avantage de la forme *hélas* confirme le commentaire des dictionnaires perçevant *Las* comme une forme vieillie.V. 1211, v. 1313, v. 1545, v. 1631, v. 1891, v. 1918, v. 1940LIESSEDe *lie*, vieux mot François qui signifie *ioyeux*, et qui est encore en vsage en cette façon de parler *faire chere lie.* Au lieu de *lie* on a dit aussi *lié*, témoin *Saint Lié.* L'vn et l'autre viennent de *lætus*, d'où les Italiens ont aussi fait *lieto.* Voyez André du Chesne dans ses Annotations sur Alain Chartier pag. 866. (Ménage, 1650) — LÏESSE, *Subst. fém.* † Vieux mot qui signifie *joie*, et qui entre encore dans le burlesque et le stile le plus simple. Dieu garde en joie et en lïesse. *Voit. Poës.* On dit pourtant sérieusement *Notre Dame de liesse* mais c'est une façon de parler consacrée qui ne tire point à consequence. (Richelet, 1680) — LIESSE. Subst. fém. Joye, gayeté. Vieux mot qui n'a plus d'usage dans le discours serieux que dans cette phrase. *Nostre-Dame de Liesse.* (Académie, 1687 Av.-Prem.3) — LIESSE. Subst. fém. Vieux mot qui signifioit autrefois, Joye, santé, prosperité. Il est revenu de son voyage, on l'a reçeu en grande *liesse*. Il ne se dit plus guere qu'en cette phrase, Nostre-Dame de *liesse*. Ce mot vient de *lætitia*. (Furetière, 1690)V. 549LOGETTE Subst. fém.Petit logis, échoppe. (Huguet, 16e siècle)V. 1063MAIL, ÉMAIL, ESMAIL Subst. masc.Certaine composition dont se servent les peintres, les vitriers, orfévres et émailleurs. Ce mot au figuré est plus de la poësie que de la prose, et il signifie l'embélissement que font les fleurs et autres pareilles choses. L'émail des prez. God. Poës. 2. partie, I. églogue.V. 248, v. 504, v. 512MAIS adverbre.Signifioit aussi autrefois, *Plus, d'avantage*. On le dit encore en Lyonnois et autrefois à Paris. Vous dites qu'il n'y a là que quatre aunes de ruban, il y en a mais, pour dire, il y en a davantage. Ce mot vient de Magis. (Furetière, 1690)V. 1000MAMOUR, MAMIE Subst. masc. et f.Termes de cageollerie familiere, qui sont abregez de *mon amour* et de *mon amie*. Ils ne sont en usage que dans le Burlesque et dans les chansons. Mon cœur, *m'amour*, se dit par une jeune femme à son mary, par une nourrice à son nourriçon. On dit en esconduisant une pauvre femme, *m'amie*, je n'ay rien à vous donner. (Furetière, 1690) — M'AMOUR qui n'a cours que parmi le bourgeois ; M'AMIE ce mot ne se dit guere qu'en parlant à des servantes, ou qu'entre de petis bourgeois. (Richelet, 1680)V. 213, v. 285, v. 568, v. 994, v. 1057MANDER Inviter à se trouver à quelque ceremonie. Il a esté mandé pour assister à la nopce, à l'enterrement. On mande de notables bourgeois de se trouver au Bureau de la ville pour l'élection des Eschevins. Les escornifleurs viennent disner aux bonnes tables sans estre mandez. Cet homme est bien malade, il faut mander un Medecin, un Prestre. (Furetière, 1690)ArgumentSignifie aussi, Convoquer, enjoindre de venir à soy. Le Roy a mandé le ban et arriereban, a mandé le Parlement. Il a mandé le Prevost et ses Archers pour conduire ce prisonnier. Ce General a mandé tels Regiments, leur a ordonné de le venir joindre. La Cour a mandé un tel Juge, ordonné un veniat contre luy. (Furetière, 1690)V. 13Signifie aussi, Escrire à quelqu'un, ou luy envoyer un message pour luy faire sçavoir quelque chose, pour le prier, le charger, de faire quelque affaire. On luy a mandé cette nouvelle par un billet. On luy a mandé par un homme exprés tout ce qui s'est passé en une telle affaire. Cette partie a mandé à son Procureur de mettre son procés en estat. J'ay mandé à mes Fermiers qu'ils payassent cette somme. (Furetière, 1690)V. 807MANTERIE MENTERIE, Subst. fém.Prononcez *manterie*. Bourde, mensonge (Richelet, 1680) — La *menterie* est le vice des valets et du bas peuple. Ce Livre est tout plein de bourdes et de *menteries*. On s'excuse ordinairement par des *menteries*. Les hableurs soûtiennent effrontement leurs *menteries*. (Furetière, 1690)V. 1760MASTIN subst. masc.Gros chien de cuisine, ou de bassecour. Les Bergers, les Bouchers ont des mastins pour garder, pour conduire, leurs troupeaux. Ce mot vient de mastinus, qu'on a dit dans la basse Latinité en même signification. Se dit aussi des hommes grossiers, mal bastis de corps, ou d'esprit. C'est un vilain, un gros mastin, un sot mastin. (Furetière, 1690)V. 520MESFAITFaire mal à quelqu'un (Académie, 1687 Av.-Prem.3)V. 847MODESTIE subst. fem.Pudeur, retenuë. La modestie sied bien sur le visage d'une fille. (Furetière, 1690)V. 569MOUILLER LE DOIGTIl y a un jeu d'enfant qu'on appelle au doit mouillé, quand on propose à deviner le doit qu'on a mouillé secretement. (Furetière, 1690) — Tirer au doigt moillié, tirer au sort en choisissant entre plusieurs doigts que qqu'un présente et dont l'un est mouillé en dessous. (Godefroy, 9e-15e siècles)V. 625NAIFVETE sust. fém.Caractère de ce qui est naturel. (Huguet, 16e siècle) — Ingenuité, simplicité d'une personne qui n'use point de desguisement. La naïveté des paysans. la naïveté d'un jeune enfant. (Académie, 1718 2ème éd.)ÉpîtreNARGUEMot dont on se sert lorsqu'on veut marquer du mepris pour une personne, ou pour quelque autre chose. † *Nargue* du Parnasse et des Muses, *Saint Amant. Nargue* pour lui, *Scaron*. (Richelet, 1680)V. 1117NAZARDE subst. fem.Chiquenaude que l'on donne sur le bout du nez. On dit d'un homme ridicule et timide, qu'il a un nez à camouflets et à nazardes. (Furetière, 1690)V. 1136NENNY, NENNI adv. negatif ou subst. fem.Nenni da, Nenni vrayement. Il est bas, il est quelquefois subst. fem. Cette boutique est si bien fournie, que quelque chose qu'on demande il n'y a point de nenni. (Furetière, 1690) — NENNI Particule dont on se sert pour répondre négativement à une interrogation expresse ou sous-entendue. Il n'a guère d'usage hors de la conversation familière. Voulez-vous aller à la chasse ? Nenni. En parlant d'Un homme complaisant, qui est toujours d'accord de tout, on dit, que C'est un homme avec qui il n'y a point de nenni. La même chose se dit d'un Marchand chez lequel on trouve tout ce qu'on demande.V. 628NEPVEU subst. masc.Petit-fils, Descendant (Huguet, 16e siècle) la graphie etymologisante rappelle l'origine latine du mot — Du lat. *nepos, nepotis* (fém. *neptis, neptis*) « petit-fils (descendant de parenté indirecte) » qui a pris à basse époque le sens de « fils du frère ou de la soeur » ; ces 2 sens du lat. subsistent en fr. (TLFi)V. 1952OBLIGER Littér., vieilli.Rendre service à quelqu'un, lui être utile ou agréable, avoir droit à sa reconnaissance. (TLFi)Épître, v. 403, v. 406OCCASION EST CHAUVE (L')On dit prov. et fig. que *l'occasion est chauve par derriere*, ou simplement, *est chauve*, pour dire, qu'il ne la faut pas laisser eschapper quand elle se presente. (Académie, 1694 1ère éd.)V. 647OFFICE Subst. masc.Secours ou devoir reciproque de la vie civile. (Furetière, 1690)V. 402OYANTS participe présent du verbe OïrEntendre (Godefroy, 9e-15e siècles)V. 878OMBRE subst. fém.Signifie aussi l'ame d'un mort, qu'on se represente sous la figure qu'il avoit vivant, mais qui est une vaine image sans corps. (Furetière, 1690)Argument, acte 5 sc. 1 et 4 (liste des personnages), v. 1951, v. 1968, v. 1994ONCQUESJamais (Huguet, 16e siècle, Godefroy, 9e-15e siècles) Avec une valeur négative, servant, avec *ne*, à former une négation de temps (TLFi)V. 165, 1774ORGANE subst. masc.Se dit figurément en parlant de ceux qui servent à quelqu'un pour faire connoistre ses pensées. Le Grand Seigneur ne s'explique à ses sujets que par l'organe de ses Ministres. (Furetière, 1690)V. 824OUY DA, DA/DEAEst une interiection laquelle enforce la diction où elle est apposée, comme, *Non deà, ouy deà*, Non vtique, Sanè quidem, mais en telles manieres de parler on use plustost de Deâ, fait dudit Deâ par contraction ou syncope, et dict-on *non Dâ, ouy dâ*. (Nicot, 1606)V. 1199PALUS, PALUD, PALUDSTerme de Geographie. Marescage. (Furetière, 1690) Du lat. *palus, -udis* (TLFi).V. 1949PANTALON, PANTALONADE Subst. masc.Bouffon, ou mascarade qui fait des danses par haut, et des postures irregulieres et extravagantes. (Furetière, 1690)V. 172PASTURE subst.fém.Nourriture qu'on donne aux bêtes (Richelet, 1680)V. 1568PENSEMENTAction de penser, méditation, réflexion. (Huguet, 16e siècle)V. 817PINTE subst. fém.Vase qui contient deux chopines et dont on se sert ordinairement pour mesurer le vin, la biére, le lait, et quelques autres liqueurs. (Richelet, 1680)V. 1092PIPEUR Subst. masc. et f.Filou qui trompe au jeu, qui jouë de mauvaise foy. (Furetière, 1690)V. 1326PROBATION Subst. fém.Terme de Capucin et de quelques autres Religieux. Il se dit en parlant du noviciat, et c'est proprement le tems du noviciat durant lequel on éprouve et on voit si le novice a l'esprit de religion. Faire son année de probation. On ne peut recevoir un Religieux qu'aprés le tems de probation. Patru, plaidoié I5. (Richelet, 1680)ÉpîtrePRESTE adj.Qui se fait viste et en peu de temps. Les Charlatans sont *prestes* et subtils à faire leurs tours, à joüer des gobelets. — On dit aussi adverbialement, Allons *preste*, alaigrement. (Furetière, 1690) — PRESTE, Est aussi adverbe d'exhortation, et signifie, Viste, promptement. *Allez-là, et despeschez-vous, preste.* Il n'a d'usage que dans le style familier. (Académie, 1718 2*ème* éd.)Argument, v. 533PROU adv.Beaucoup, suffisamment. (Furetière, 1690)V. 1009RAMAGE subst. masc.C'est le chant naturel de quelque oiseau que ce soit. (Richelet, 1680)V. 639(SE) RESENTIR v.r. Ce mot autant que je le puis conjecturer ne se dit qu'en mauvaise part. Avoir du ressentiment d'un déplaisir qu'on nous a fait. (Richelet, 1680)V. 664SILLETMarquer d'un sillage (Huguet, 16e siècle)V. 355SIMPLESSE subst.fém.Simplicité ingénue (Godefroy, 9e-15e siècles) — Terme populaire (Furetière, 1690) — Il n'a guere d'usage que dans le discours familier, et dans cette phrase, *Il ne demande qu'amour et simplesse*, pour dire, que C'est un homme ingenu, qui a les manieres douces et aisées, et qui ne demande qu'à vivre en paix. Académie, 1718 2*e* éd.V. 828SIMPLICITÉ subst.fém.Se dit aussi de l'action qui est faite par une grande foiblesse d'esprit, ou defaut d'experience. On nous a rapporté une grande simplicité que fit cette villageoise. On rit beaucoup de cette simplicité. Il ne faut pas abuser de la simplicité des pauvres gens. (Furetière, 1690)V. 670SOCIETEAmitié, liaison (Richelet, 1680)V. 761SOULASPlaisir, joie, agrément. (Huguet, 16e siècle) — Vieux mot qui ne peut entrer que dans le burlesque et le stile le plus simple et qui signifie tout ce qui fait la consolation d'une personne, tout ce qui adoucit ses peines et fait son plaisir. (Richelet, 1680)V. 1209SOUFFRIRPermettre, Tolérer (Académie, 1694 1*ère* éd.)V. 1270SUASION subst.fém.Terme de pratique, conseil, sollicitation, instigation. *Il a commis ce meurtre à la suasion d'un tel.*( Académie, 1694 1*re* éd.)V. 407SUBORNERDébaucher, seduire, induire à faire une mauvaise action, une action contre son devoir. (Académie, 1694 1*ère* éd.)V. 987SUS, OR SUSExclamation, pour exciter, allons debout, eh bien (Godefroy, 9e-15e siècles, Huguet, 16e siècle) — Vieux mot qui veut dire *présentement*, et qui quelquefois a encore cours dans le burlesque. (Richelet, 1680)V. 149, v. 629, v. 636, v. 638, v. 1149, v. 1185, v. 1896TENSEULEMENTTANT SEULEMENT. Seulement (Huguet, 16e siècle)V. 740TOURMENTPeine corporelle cruelle (Godefroy, 9e-15e siècles)V. 1754TOUR DE SOUPLESSECes mots au figuré signifient finesses, adresses, subtilitez, moiens fins et subtils, ruses. Ainsi on dit il a fait, mile tours de souplesse pour venir à bout de ses desseins. (Richelent, 1680)V. 537TRANSPORTERSe dit aussi des violentes agitations de l'esprit. Un homme transporté de colere, de joye, d'amour, etc. Ceux qui rendoient des oracles étoient transportez de fureur. Un Poëte dit aussi, qu'une sainte fureur le transporte. (Furetière, 1690)V. 1329TRAVAUXSe dit au pluriel des actions, de la vie d'une personne, et particulierement des gens heroïques. Dieu benit les travaux des gens de bien. Il recompense les travaux de ceux qui l'ont bien servy. Les Martyrs jouïssent du fruit de leurs glorieux travaux. Les Payens ont aussi appellé les travaux d'Hercule, et ont creu qu'ils meritoient le ciel. On appelle aussi les dehors d'une place, les pieces detachées, des travaux avancez. (Furetière, 1690)V. 495, v. 726, v. 913, v. 1270, v. 1901TROU-MADAME subst.masc.C'est une sorte de jeu de bois composé de tréze portes et d'autant de galeries auquel on jouë avec tréze petites boules. (Richelet, 1680)V. 610TRUCHEMENT subst.mascInterprete, celuy qui explique à deux personnes qui parlent de langues differentes ce qu'ils se disent l'un à l'autre. (Académie, 1718 2ème éd.)V. 824
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Textes de L.C.D. Discret
+### Textes de L.C.D. Discret.
 
 
-#### Édition originale de la pièceLes Noces de Vaugirard, ou les naïvetés champêtre. Pastoralle dédiée à ceux qui veulent rire
-
-
-
-#### Ses autres piècesAlizon, comédie dédiée aux vieilles veuves et aux jeunes filles
+#### Édition originale de la pièce.Les Noces de Vaugirard, ou les naïvetés champêtre. Pastoralle dédiée à ceux qui veulent rire
 
 
 
-#### Éditions critiquesAlizon
+#### Ses autres pièces.Alizon, comédie dédiée aux vieilles veuves et aux jeunes filles
 
 
 
-### Textes de la période moderne*Aubignac*La pratique du Théâtre*Champion*
+#### Éditions critiques.Alizon
+
+
+
+### Textes de la période moderne.*Aubignac*La pratique du Théâtre*Champion*
 *Auvray*La Madonte du tragicomédie dédiée à la reine
 *Baillif*Traicte de l'homme, et son essentielle anatomie
 *Chapelain*Opuscules critiques
@@ -4098,7 +4097,7 @@ FIN.
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
 ### Dictionnaires, lexiques, commentaires sur la langue française.Le Dictionnaire de l'Académie françoise dedié au Roy*ère*
@@ -4122,12 +4121,12 @@ Trésor de la langue françaisehttp://atilf.atilf.fr/
 
 
 
-### Bibliographies*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
+### Bibliographies.*Cioranescu*Bibliographie de la littérature française du XVIIe siècle
 *Klapp**Klapp-Lehrmann*Bibliographie der französischen Literaturwissenschaft
 
 
 
-### Grammaire, syntaxe, ponctuation*Fournier*Grammaire du français classique
+### Grammaire, syntaxe, ponctuation.*Fournier*Grammaire du français classique
 *Haase*Syntaxe française du XVIIe siècle
 *Molinié*Dictionnaire de rhétorique
 *Sancier-Château*Introduction à la langue française du XVII*e* siècle
@@ -4136,7 +4135,7 @@ Trésor de la langue françaisehttp://atilf.atilf.fr/
 
 
 
-## Études*Assaf*Charles Sorel polygraphel
+## Études.*Assaf*Charles Sorel polygraphel
 *Baby*La Tragi-comédie de Corneille à Quinault
 *Dalla Valle*Pastorale barocca : forme e contenuti dal « Pastor Fido » al dramma pastorale francese
 *Dalla Valle*Aspects de la pastorale dans l'italianisme du XVIIe siècle

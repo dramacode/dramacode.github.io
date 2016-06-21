@@ -17,7 +17,7 @@ A PARIS, Chez CARDIN BESONGNE, au Palais, au haut de la montée de la saincte Ch
       maîtrise sous la direction de Georges Forestier (2006-2007).
 
 
-# Introduction
+# Introduction.
 
 La comédie de d'Ouville, *Jodelet astrologue*, a été vraisemblablement jouée pour la première fois sur les planches du théâtre du Marais en 1645. D'Ouville a introduit la comédie à l'espagnole en France en adaptant les pièces de plusieurs dramaturges espagnols, et avec *Jodelet astrologue*, pièce adaptée de la comédie de Calderón, *El astròlogo fingido*, il signe sa cinquième adaptation. Le rôle principal, qui porte le comique de la pièce, est revenu au célèbre comédien Jodelet, dont la notoriété était telle que l'auteur a choisi de donner son nom au titre de sa pièce.
 
@@ -26,10 +26,10 @@ Il ne s'agit pas, à travers l'étude de cette pièce, de faire sortir de l'ombr
 Ainsi, si le nom de d'Ouville n'évoque rien à nos contemporains, si son œuvre n'a pas traversé les siècles, il n'en reste pas moins que l'étude de ses pièces, de leur réception par le public du XVII*e* siècle permet de mieux saisir une période importante, charnière dans l'histoire de la littérature française et particulièrement cruciale pour le genre comique.
 
 
-# Antoine Le Métel d'Ouville (1587/1590-1656/1657)
+# Antoine Le Métel d'Ouville (1587/1590-1656/1657).
 
 
-## Sa vie
+## Sa vie.
 
 Il est difficile de dresser la biographie de d'Ouville de façon exacte. En effet, les sources sont minces et se contredisent parfois. Il est cependant possible de dégager certaines grandes lignes de sa vie.
 
@@ -50,7 +50,7 @@ Que celle qu'il trouve en ma bourse. [4]
 D'Ouville mourrut peu après au Mans comme l'indique Tallemant des Réaux dans ses *Historiettes* [5]. Son décès est attesté pour la première fois en 1657 dans la *Suite des Mémoires de Michel de Marolles* [6] dans laquelle l'auteur évoque la personne de « feu seigneur d'Ouville ».
 
 
-## Son œuvre
+## Son œuvre.
 
 C'est ainsi en marge de sa carrière de scientifique que d'Ouville se consacra à l'écriture, c'est-à-dire en tant qu'amateur, ce qui n'était pas rare au XVII*e* siècle. Ses différents séjours à l'étranger furent pour lui l'occasion de s'imprégner des cultures voisines de la France et plus particulièrement de leurs pratiques théâtrales. C'est ainsi qu'il introduisit la comédie à l'espagnole, genre inédit en France qui connaissait depuis quelques temps un véritable succès de l'autre côté des Pyrénées. Rotrou avait déjà puisé dans les comédies espagnoles afin de trouver des sujets pour ses tragi-comédies. D'Ouville, lui, traduisit et adapta ces comédies, faisant ainsi connaître les grands auteurs espagnols et leurs pièces qui contribuèrent en Espagne à faire du XVII*e* siècle le Siècle d'Or de l'art théâtral.
 
@@ -59,7 +59,7 @@ D'Ouville écrivit tout d'abord une tragi-comédie, *Les Trahisons d'Arbiran*, (
 D'Ouville était également connu pour ses *Contes* publiés en 1641, inspirés de ceux de l'italien Boccace. A la fin de sa vie, d'Ouville traduisit six « novelas », nouvelles espagnoles de Maria de Zayas y Sotomayor, qui furent publiées en 1656 sous le titre : *Nouvelles amoureuses et exemplaires par cette merveille de son siècle doña Maria de Zayas y Sotomayor, traduites de l'Espagnol par Antoine de Methel, escuier, sieur d'Ouville, ingénieur et géographe du roy*.
 
 
-## Panorama critique de l'œuvre de d'Ouville
+## Panorama critique de l'œuvre de d'Ouville.
 
 Les critiques à l'égard de l'écriture de d'Ouville furent sévères et il semble qu'il soit toujours resté dans l'ombre de la notoriété de son frère qui l'a protégé tout au long de sa carrière, faisant jouer ses relations pour lui venir en aide. Certains même prétendirent que les oeuvres paraissant sous le nom d'Antoine Le Métel d'Ouville étaient en réalité écrites par son frère. Cela semble peu crédible étant donné que les langues et la traduction tiennent une place capitale dans l'œuvre de d'Ouville et que son frère ne maîtrisait pas aussi bien l'espagnol et l'italien.
 
@@ -88,10 +88,10 @@ Qu'on escuse aisément la foiblesse des vers.
 Afin de comprendre quelle fut l'importance de cet auteur et de son œuvre, il s'agit de saisir les enjeux littéraires et plus particulièrement dramaturgiques de l'époque. C'est uniquement en situant d'Ouville dans son contexte littéraire que l'on peut apprécier son œuvre à sa juste valeur.
 
 
-# Le contexte littéraire
+# Le contexte littéraire.
 
 
-## La place de la comédie en France
+## La place de la comédie en France.
 
 La comédie en France dans la première moitié du XVII*e* siècle revient de loin. En effet, ce genre a sommeillé durant plusieurs siècles avant de renaître sous la plume des auteurs humanistes au XVI*e* siècle. Cette absence de la comédie sur la scène française durant si longtemps s'explique par un discrédit moral provenant d'une très vieille tradition critique et religieuse. *La Poétique* d'Aristote, prise pour norme dès l'âge antique, ne traite pas du genre comique. Ce qui pourrait s'expliquer par une perte de manuscrits est interprété comme une condamnation du genre. Dès lors, pèse sur la comédie un interdit moral qui empêche le genre de se développer et dont les seules formes restent longtemps la farce, la sotie et le miracle, beaucoup critiqués pour leur manque de noblesse. Plusieurs auteurs humanistes du XVI*e* siècle, désireux de rompre avec les genres médiévaux, se penchent à nouveau sur la comédie à travers le prisme des pièces antiques qu'ils adaptent pour leur public contemporain. Rendue légitime par la noblesse des écrits des anciens, la comédie connaît un renouveau sous la plume de Jodelle avec sa comédie *Eugène* (1552), puis ensuite avec des dramaturges tels que Grévin, Belleau, Larivey, Amboise et d'autres encore. En s'inspirant largement des modèles antiques, surtout latins, ces auteurs prennent *L'Art poétique* de Boileau comme référence normative tout en n'oubliant pas Aristote. Leurs comédies sont ainsi construites selon des règles bien précises telles le découpage en cinq actes, l'importance de la vraisemblance, qui dicte la loi des unités, et le schéma figé du genre comique, qui vise à montrer des destins médiocres dont la fin est nécessairement heureuse. Cette reconsidération du genre comique et sa théorisation lui permettent de connaître un second souffle et posent les bases de ce qu'elle devient au XVII*e* siècle.
 
@@ -100,7 +100,7 @@ Le genre connaît une autre crise au début du XVII*e* siècle, puis une nouvell
 C'est dans ce contexte littéraire que d'Ouville s'essaye à la comédie et, avec lui, les comédies des années 1630, pourtant très variées, vont être rapidement supplantées par un nouveau type, la comédie à l'espagnole.
 
 
-## La *comedia* espagnole
+## La *comedia* espagnole.
 
 La *comedia* marque le XVII*e* siècle et contribue à faire de lui le siècle d'or du théâtre espagnol. Les plus grands dramaturges de l'époque s'essaient à ce genre baroque: Calderón, Lope de Vega, Montalván. La *comedia* naît à Madrid et plait au public espagnol, féru de théâtre, tout au long du XVII*e* siècle.
 
@@ -111,17 +111,17 @@ Les *comedias* mettent en scène des personnages types, incarnant certaines vale
 Le peuple est également représenté dans les *comedias* et ce, avec les *criados* et* criadas*, c'est-à-dire les valets dont le type le plus fameux est le *gracioso*. C'est lui qui prend en charge le comique de la pièce et qui allège la complexité de l'intrigue principale. Le *gracioso* est le pendant théâtral de Sancho Pança et cumule tous les défauts ; il est couard, poltron, buveur, gourmand, menteur et paraît être le reflet inversé de son maître, qui lui possède toutes les qualités du gentilhomme. Il convient cependant d'introduire une nuance dans la description de ce valet. Si le *gracioso* est souvent le lourdaud décrit ci-dessus, il en existe un autre, plein d'esprit et sachant parodier les manières des maîtres [12]. L'origine du *gracioso* est à chercher du côté du compagnon d'étude du jeune galand et peut de ce fait être instruit. Dans certaines pièces, comme dans *Astrologo fingido*, on le verra, le rapport social maître/valet s'efface au profit d'une véritable relation de confiance et de fidélité où la complicité est très présente. Dans tous les cas, le *gracioso* est le personnage qui fait rire le public, soit par la bassesse de ses réflexions, soit par la finesse et l'ironie de ses propos. Il aide son maître à courtiser celle dont il est épris, transmet des messages, espionne, interroge la servante de cette dame, est souvent amoureux de cette dernière et se marie souvent en même temps que son maître. La *comedia de figurõn* est un type particulier de *comedia* qui met ce valet bouffon au centre de l'intrigue et s'amuse des situations absurdes et comiques dans lesquelles il se voit empêtré.
 
 
-## La comédie à l'espagnole en France
+## La comédie à l'espagnole en France.
 
 Si Rotrou a écrit en 1629 une pièce inspirée de Lope de vega, *La Bague de l'oubli*, d'Ouville est considéré comme celui qui a introduit ce genre en France. Il a en effet créé plusieurs pièces coup sur coup et chacune d'entre elles a été jouée au Marais ou à l'Hôtel de Bourgogne. C'est lui qui fait découvrir ce type de comédie au public français. Il lance une véritable mode en France car tous les dramaturges de l'époque s'essaient à la comédie à l'espagnole à sa suite.
 
 Les sources d'influences ne manquent pas puisque la production théâtrale espagnole représente entre dix mille et trente mille pièces. *Le Menteur* de Pierre Corneille et *la Suite du Menteur* sont directement inspirées des pièces d'Alarcon et de Lope de Vega. Scarron également adapte de nombreuses pièces espagnoles pour créer entre autres *Jodelet ou le maître valet, Les Trois Dorothées, Don Japhet d'Arménie* ou encore *L'Héritier ridicule*. Boisrobert suit également les traces de son frère pour plusieurs pièces d'inspiration espagnole dont *La Jalouse d'elle-même* ou *Les Apparences trompeuses*. Thomas Corneille enfin satisfait les goûts du public parisien et écrit plusieurs pièces sur le modèle espagnol, telles que *Le Feint Astrologue*, adaptée elle aussi de la pièce de Calderón, ou *L'Amour à la mode*. En l'espace de vingt ans, après d'Ouville, une trentaine de pièces adaptées de comédies espagnoles sont jouées dans les théâtres parisiens. L'influence de ce genre perdure au-delà de cette période puisque des figures telles que le *gracioso* et un certain goût pour les méprises, les quiproquos et pour le jeu sur les apparences s'inscrit définitivement dans la tradition théâtrale française et continue longtemps de donner des idées aux dramaturges.
 
 
-# Jodelet astrologue sur la scène française
+# Jodelet astrologue sur la scène française.
 
 
-## Présentation
+## Présentation.
 
 La date à laquelle *Jodelet astrologue* fut jouée pour la première fois n'est mentionnée nulle part. Cependant, dans la mesure où cette pièce a été publiée en 1646, on peut penser qu'elle fut représentée l'année précédant cette impression comme c'était fréquemment le cas, c'est-à-dire en 1645. Les différents dictionnaires théâtraux recensant les pièces de cette époque, comme celui des Frères Parfaict, situent les représentations de *Jodelet astrologue* au théâtre de l'Hôtel de Bourgogne. Cela ne semble pas correspondre avec ce que l'on sait de la vie du célèbre comédien Jodelet ou Julien Bedeau, figure principale de cette pièce de d'Ouville. En effet, il est certain qu'il rejoignit en 1642 la troupe du théâtre du Marais où il resta jusqu'en 1659. Dès lors, il semble plus cohérent que *Jodelet astrologue* ait été joué au théâtre du Marais. Un indice textuel nous conforte dans cette idée puisque Jodelet s'exclame à la fin de l'acte I : 
 
@@ -131,43 +131,43 @@ On me le vient d'apprendre au marais, et demain
 On le sçaura sans doute au fauxbourg S.Germain. (v. 327-330)  
 
 
-## Réception de la pièce
+## Réception de la pièce.
 
 Julien Bedeau était très connu et très aimé du public parisien à cette époque. Ce comédien était entièrement associé dans les mentalités de l'époque à la farce, au personnage burlesque et au théâtre du Marais, ce qui fit dire à Tallemant de Réaux [13] « il n'y a plus de farce qu'au Marais où il est ». Sa notoriété était considérable. Sa simple apparition sur scène déclenchait des éclats de rire parmi l'assistance et son jeu suffisait à faire se déplacer les spectateurs. La célébrité de ce comédien, dressé en personnage de premier plan de la pièce de d'Ouville, laisse imaginer le fort succès qu'a connu *Jodelet astrologue* auprès du public parisien. La même année, le théâtre du Marais présenta également *Jodelet et le maître valet* de Scarron, pièce qui connut un vif succès, ce qui contribua encore sans doute à la notoriété de la pièce de d'Ouville. Ce succès fut tel que le Mémoire de Mahelot mentionne *Jodelet astrologue* au répertoire du théâtre de l'Hôtel de Bourgogne dès 1647. Cela signifie que cette pièce fut reprise sitôt l'impression achevée. Les critiques même, d'ordinaire si sévères à l'égard des pièces de d'Ouville, trouvèrent un certain charme à *Jodelet astrologue*. Les frères Parfaict écrivirent à son sujet : « cette pièce n'est pas la plus foible de celles de d'Ouville ; cependant elle est plus plaisante par les situations que par l'expression qui en est assez froide » [14].
 
 
-# L'intrigue et sa source
+# L'intrigue et sa source.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Acte I
+### Acte I.
 
 Liliane et Tindare se quittent au petit jour après s'être entretenus toute la nuit en secret (scène1). Liliane confie à sa servante le malheur que lui procure cet amour impossible car Tindare est sans argent et son père n'acceptera jamais leur union. Nise se moque gentiment des bons sentiments de sa maîtresse et vante les mérites de Timandre qui la courtise également et qui est plus fortuné. Liliane rappelle à Nise comment Tindare l'a courtisée durant deux ans et comment elle a résisté jusqu'au jour où il lui a annoncé son départ pour l'Italie et où elle lui a alors avoué son amour. Il a simulé ainsi son départ et se cache depuis six mois chez un ami afin de pouvoir lui rendre visite chaque nuit en secret (scène 2). Elle congédie sèchement Timandre qui vient lui déclarer sa flamme et prétend qu'aucun homme n'est digne d'elle (scène 3). Jodelet et Nise conseillent à Timandre de cesser d'aimer Liliane et Nise assure avoir tout tenté pour convaincre sa maîtresse de porter son amour sur lui (scène 4). Jodelet, seul avec Nise, parvient à apprendre d'elle que Liliane a un amant, qu'il se nomme Tindare et qu'il se cache chez Ariste. Nise lui révèle également la façon dont ils se retrouvent chaque nuit. Une fois seul, Jodelet s'aperçoit qu'il ne peut tenir sa langue tandis qu'il a promis à Nise de garder le silence quelques minutes auparavant (scène 5).
 
 
-### Acte II
+### Acte II.
 
 Jodelet fait un rapport complet à son maître et lui recommande la discrétion afin d'éviter des problèmes à Nise (scène 1). Timandre déclare à nouveau sa flamme à Liliane et devant le mépris qu'elle affiche pour les choses de l'amour, il ne résiste pas à la tentation de la confondre en évoquant sa relation avec Tindare. Afin de venir en aide à Nise, accusée de trahison par sa maîtresse, Jodelet prétend être astrologue, avoir lu ces renseignements dans les astres et les avoir ensuite appris à son maître. Timandre confirme l'histoire de Jodelet et invente une fable racontant l'apprentissage de Jodelet auprès d'un grand maître de l'astrologie. Liliane les croit et leur demande de garder le silence (scène 2), puis elle se plaint de sa situation auprès de Nise (scène 3). Timandre rencontre Acaste et fait mine de ne pouvoir lui révéler ce qu'il vient d'apprendre puis, une fois qu'Acaste a promis de garder le silence, il lui apprend que Tindare est l'amant de Liliane et qu'il se cache chez Ariste, un de ses bons amis (scène 5). Acaste va trouver Ariste afin d'avoir confirmation de ce qui vient de lui être dit. C'est l'occasion pour Ariste d'apprendre pourquoi Tindare se cache chez lui, ce qu'il n'avait pu savoir de la bouche de son ami. Il décide alors d'aller trouver Jacinte, qu'il aime en secret et qui est l'amante officielle de Tindare (scène 6).
 
 
-### Acte III
+### Acte III.
 
 Ariste rend visite à Jacinte qui se désespère de l'absence de Tindare. Elle invite Ariste à revenir afin qu'ils puissent s'entretenir au sujet de son amant (scène 1). Timandre raconte à Acaste la ruse que Jodelet et lui ont inventée. Ils décident de faire courir la rumeur selon laquelle Jodelet a des dons d'astrologue (scène 2). Ariste, seul, se plaint d'être déchiré entre amitié et amour (scène 3). Acaste vient le trouver et vante les talents de Jodelet. Ariste, jusque là persuadé de la bêtise de Jodelet, est impatient de le rencontrer (scène 4). Il apporte à Jacinte une lettre de Tindare provenant d'Italie et devant la tristesse qu'elle affiche, Ariste lui parle des talents de Jodelet, qui peuvent rendre visibles les absents (scène 5). Acaste apprend à Jodelet et Timandre que tout le monde en ville parle des dons de Jodelet. Ce dernier appréhende les questions qui pourraient lui être posées dans le but de tester ses talents. Jacinte frappe à la porte (scène 6) pour demander à Jodelet de lui faire voir son amant qui vit actuellement dans un pays voisin. Le valet lui assure que cela est impossible et relève de la magie puis, lorsqu'il apprend qu'il s'agit de Tindare, il saisit l'occasion de donner du crédit à sa fable et dicte une lettre à Jacinte dans laquelle elle convoque Tindare (scène 7). Acaste, Timandre et Jodelet se félicitent du nouveau tour qu'ils sont en train de jouer. Acaste émet cependant une réserve quant au bon déroulement des événements futurs (scène 8).
 
 
-### Acte IV
+### Acte IV.
 
 Ariste reproche à Tindare son manque d'amour pour Jacinte qui souffre et l'attend. Tindare avoue à son ami qu'il aime ailleurs mais refuse de donner le nom de celle qu'il voit en secret chaque nuit. Ariste le prévient que cela est connu de tous. Tindare, seul, trouve à ses pieds la lettre de Jacinte (scène 1). Nise vient trouver Tindare afin de l'avertir que sa relation avec Liliane est découverte et lui conseille de se présenter auprès de son père en prétendant venir de la part de son frère, l'oncle de Liliane qui habite à Turin, afin de s'introduire chez celle qu'il aime (scène 2). Julie et Jacinte attendent l'apparition de Tindare, l'une est effrayée et l'autre impatiente (scène 3), mais toutes deux sont terrorisées lors que ce dernier arrive. Jacinte supplie Tindare de partir et ce dernier croit que la colère est cause de ce rejet. Il tente de se justifier et Jacinte lui ferme la porte au nez (scène 4). Liliane donne à Tindare un ruban vert avec un cœur de diamant en pendentif en gage de son amour (scène 5). Arimant ouvre les portes de sa maison à Tindare qui dit venir de la part de son frère de Turin. Les deux amants renouvellent leurs serments amoureux devant Arimant grâce à un double langage qui peut faire croire à un simple échange de compliments polis (scène 6). Après avoir reproché à Jodelet de n'avoir su tenir sa langue, Nise le tient au courant de tout se qui s'est passé afin qu'il puisse faire croire à ses dons de devin (scène 7). Nise présente l'astrologue Jodelet à Arimant et prétend qu'il vient d'annoncer à Liliane qu'elle épousera un homme nécessiteux. Jodelet craint d'être découvert et minimise ses talents ce qui convainc Arimant de la grandeur de son savoir. Resté seul avec Jodelet, Arimant lui confie avoir étudié l'astrologie mais avoir besoin d'actualiser ses connaissances et il l'interroge sur certains aspects de cette science en employant le jargon qui lui est propre. Jodelet prétend que tous les noms ont changé et parodie le jargon des astrologues (scène 8).
 
 
-### Acte V
+### Acte V.
 
 Timandre assure à Ariste qu'il continue à jouer le jeu, non pour empêcher le mariage de Liliane avec Tindare, mais pour éviter des problèmes à Nise (scène 1). Jacinte reproche à Jodelet de l'avoir bernée, ce à quoi il répond qu'il ignorait la présence de Tindare à Paris. Elle lui demande ensuite de lui rendre l'amour de Tindare et Jodelet lui assure qu'il feint l'indifférence (scène 2). Ariste vient trouver Jodelet afin d'obtenir l'amour de Jacinte. Jodelet l'ausculte puis lui prédit qu'il l'obtiendra s'il persévère (scène 3). Arimant vient demander l'aide de Jodelet qui préfère avouer toute la mascarade de peur d'être démasqué. Arimant croit à de la modestie et l'interroge afin de trouver le diamant qui a été dérobé à sa fille. Jodelet, mis au courant à l'acte précédent par Nise, dénonce Tindare. Arimant invite tout le monde à souper le soir même (scène 4). Le page Moron vient trouver Jodelet afin qu'il le fasse voyager par les airs jusqu'à sa Provence natale. Jodelet l'envoie se préparer (scène 5). Arimant demande à Tindare de lui rendre le diamant et ce dernier, pensant que son amour est découvert, s'accuse afin d'innocenter Liliane puis demande sa main à Arimant. Ce dernier croit le jeune homme fou et refuse sèchement (scène 6). Jacinte reproche à Tindare son manque d'amour et ce dernier répond qu'il aime ailleurs depuis qu'elle l'a chassé de chez elle. Jacinte admire ses qualités d'acteur tandis que Julie le soupçonne d'être réellement indifférent (scène 7). Jodelet bande les yeux de Moron, lui décrit les monstres qu'il rencontrera dans les airs tandis qu'il vole sa bourse (scène 8). Liliane et Tindare se jurent à nouveau fidélité et, voyant Arimant arriver avec ses convives, Tindare se cache derrière un buisson (scène 9). Arimant donne les ordres pour préparer le souper et rend son diamant à Liliane (scène 10). Jacinte vient et provoque le scandale en révélant la relation amoureuse qu'entretiennent Liliane et Tindare. Elle affirme que ce dernier est caché dans le jardin. Tous cherchent et trouvent Moron ce qui crée un quiproquo. Tindare se montre et Arimant, croyant toujours qu'il n'est qu'un simple voleur, se met en colère. Jodelet intervient afin de démêler l'affaire. Les amants avouent leur amour et Arimant permet leur union. Ariste déclare ensuite sa flamme à Jacinte qui accepte de l'épouser. Tous se retournent ensuite contre Jodelet et chacun, dans un quatrain, l'accuse d'être un imposteur. Jodelet explique l'origine de cette ruse et affirme que, s'il n'est pas astrologue, il a néanmoins réussi à contenter tout le monde. Timandre assume sa part de responsabilité puis Jodelet accepte de rembourser Moron à condition que Liliane pardonne à Nise son indiscrétion et qu'elle permette son mariage avec lui. Toutes ses demandes sont accordées.
 
 
-## Comparaison avec la source espagnole
+## Comparaison avec la source espagnole.
 
 Ce tableau met en lumière la reconstruction textuelle effectuée par d'Ouville et permet de comprendre quels furent ses choix et quel fut réellement son travail d'adaptation. Il est aisé de remarquer combien les deux intrigues se ressemblent, la grande majorité des scènes suivant le même ordre et les deux pièces comptant le même nombre de personnages. L'intrigue principale chez d'Ouville est presque en tous points semblable à celle de la pièce de Calderón, de même que les intrigues secondaires. Il est ainsi plus intéressant d'étudier les différences dramaturgiques qui existent entre les deux pièces que d'en énumérer les similitudes.
 
@@ -179,10 +179,10 @@ Dans ce tableau, les textes des deux pièces sont distingués afin que les paral
 
 
 
-# Analyse du travail de réécriture
+# Analyse du travail de réécriture.
 
 
-## Les modifications de l'intrigue
+## Les modifications de l'intrigue.
 
 La différence majeure qui existe entre la pièce de Calderón et celle de d'Ouville, et qui fait que cette dernière ne peut être considérée comme une simple adaptation, concerne le rôle de l'astrologue. Chez Calderón, le personnage jouant le rôle de l'astrologue est Don Diego, le jeune noble qui courtise Maria. Chez d'Ouville, et c'est là la modification la plus importante qu'il ait effectuée par rapport au texte de Calderón, c'est Jodelet, le valet de ce second courtisan, qui fait croire à des talents d'astrologue afin d'innocenter Nise, dont il est amoureux. Le rôle de son maître, Timandre, est réduit à celui de complice car il le soutient et l'aide dans sa supercherie. La noblesse de son rang donne du crédit à Jodelet lorsque Timandre affirme que son valet est astrologue. Le personnage du valet est évidemment bien plus présent chez d'Ouville que chez Calderón. Les situations et textes sont adaptés à la nature sociale et au caractère de cet astrologue, respectant le critère de vraisemblance et ainsi les caractéristiques propres au valet. Ainsi, Jodelet prend plus de plaisir que Don Diego dans son rôle d'astrologue. Il est en effet plus normal qu'un valet, par son caractère facécieux et la légèreté de ses mœurs, se plaise à jouer son entourage, à se composer un personnage, à faire des grimaces. Jodelet ne se contente pas de donner le change, il exagère et profite de son statut pour piéger les autres personnages et même dépouiller Moron.
 
@@ -216,7 +216,7 @@ Ainsi d'Ouville concentre l'action de la première journée de la pièce de Cald
 Enfin, la scène finale présente la dernière grande différence dramaturgique entre la pièce espagnole et son adaptation française. En effet, la pièce de Calderón s'achève sur un unique mariage, celui de Dona Maria et de Don Juan, tandis que dans *Jodelet astrologue*, le dénouement est marqué par une véritable scène de liesse avec l'annonce de trois mariages, celui de Liliane et de Tindare, celui d'Ariste et de Jacinte et enfin celui de Jodelet avec Nise.
 
 
-## Les suppressions
+## Les suppressions.
 
 Étant donné les modifications dramaturgiques effectuées par d'Ouville dans le premier acte de *Jodelet astrologue*, certaines scènes de la pièce espagnole n'ont plus lieu d'être et ont tout simplement disparu dans l'adaptation de d'Ouville. 
 
@@ -242,14 +242,14 @@ Elle reste ainsi évasive et le spectateur n'en apprend pas plus par la suite.
 Enfin, d'Ouville supprime également la scène dans laquelle Violante feint d'aimer Don Carlos afin de rendre jaloux Don Juan qui vient de la repousser. Cet épisode de la troisième journée vient après celui de la prédiction que fait l'astrologue à Don Carlos, prédiction selon laquelle Violante lui révèlerait bientôt ses sentiments d'amour à son égard. Cette scène sert le comique de la pièce puisqu'elle donne raison aux dires de Don Diégo et qu'elle intensifie encore le quiproquo. Chez d'Ouville, le mariage de Jacinte et d'Ariste survient alors que ces deux personnages n'ont encore jamais parlé d'amour.
 
 
-## Les modifications dans l'enchaînement des scènes
+## Les modifications dans l'enchaînement des scènes.
 
 La scène dans laquelle Leonardo interroge le prétendu astrologue sur les dernières découvertes de sa science intervient à deux moments très différents de l'intrigue chez Calderón et chez d'Ouville. Chez l'un, cette scène intervient dans la première journée lorsque Leonardo surprend Don Diego chez lui en train de converser avec Dona Maria. Beatriz explique la présence du jeune homme en prétendant qu'il est ici pour faire part de ses prédictions quant au futur mariage de Maria. Chez d'Ouville, à l'acte IV, Nise trouve le même prétexte pour expliquer la présence de Jodelet qui est venu chercher auprès d'elle des renseignements afin de pouvoir nourrir ses prédictions. C'est ainsi vers la fin de la pièce qu'a lieu cette scène dans laquelle Leonardo met en difficulté l'astrologue en lui posant des questions de connaisseur.
 
 D'Ouville déplace également la scène dans laquelle l'ami de Don Juan ou de Tindare va trouver pour la première fois la maîtresse officielle de ce dernier. Chez Calderón, Don Carlos va trouver Violante dans la première journée, afin de lui annoncer le départ de Don Juan. Chez d'Ouville, cette scène n'a pas lieu d'être au début de la pièce et ne survient qu'au début de l'acte III. Ariste rend visite à Jacinte après avoir appris de la bouche d'Acaste que son ami Tindare est amoureux de Liliane. Ainsi, dans la pièce française, l'intrigue secondaire qui s'intéresse aux amours d'Ariste survient de façon épisodique, concentrée, au début du troisième acte. Chez Calderón, cette intrigue secondaire se déroule tout au long de la pièce.
 
 
-## Un important travail de compression
+## Un important travail de compression.
 
 Lorsque l'on compare *Jodelet astrologue* et *Astrologo fingido*, il apparaît tout de suite que la pièce de d'Ouville, longue pourtant pour une pièce française avec 1996 vers, est beaucoup plus courte que celle de Calderón qui en compte 3235. En adaptant la pièce espagnole, d'Ouville a considérablement compressé l'intrigue.
 
@@ -279,7 +279,7 @@ L'autre grande scène raccourcie par d'Ouville est celle de la mise en place de 
 Plusieurs petites scènes secondaires se trouvent compressées sous la plume de d'Ouville comme celle dans laquelle Nise révèle le secret de sa maîtresse à Jodelet, à l'acte I scène 5. Dans la pièce de Calderón, Moron a besoin de deux scènes afin d'obtenir de Beatriz ce qu'elle sait au sujet des amours de sa maîtresse. Chez d'Ouville, Nise parle rapidement, ce qui illustre encore mieux le caractère léger des valets, indignes de confiance.
 
 
-## Les ajouts
+## Les ajouts.
 
 D'Ouville n'ajoute qu'une scène à la pièce de Calderón : celle dans laquelle Nise vient en aide à Tindare et lui conseille de prétendre avoir rencontré le frère du père de Liliane afin de s'introduire chez elle :
 
@@ -298,7 +298,7 @@ Que de cette autre fourbe on ne descouvre rien. (v. 1240-1250)
 Chez Calderón, Don Juan invente ce mensonge au début de la troisième journée et le spectateur peut se demander comment cette idée lui est venue. La précision de ce qu'il avance semble effectivement suspecte. D'Ouville fait preuve ici de plus de précision et confère à Nise un rôle de complice dans les amours de sa maîtresse.
 
 
-## Une adaptation critiquée
+## Une adaptation critiquée.
 
 L'ensemble des modifications, dramaturgiques et stylistiques, effectuées par d'Ouville visent à contenter le public français. Ces modifications semblaient nécessaires dans la mesure où il fallait un médiateur entre le public français et la comédie espagnole. En effet, les Espagnols et leur théâtre ne connurent pas un franc succès à Paris. Pour faire passer quelque chose de la comédie espagnole, pour que le public français l'apprécie, d'Ouville adapte cet art théâtral. Il lui donne une forme régulière, gomme les longues tirades lyriques et accentue la tonalité comique de la pièce de façon à mieux satisfaire le public parisien.
 
@@ -308,7 +308,7 @@ Si d'Ouville est considéré comme le dramaturge qui a introduit la comédie à 
 « Le sort commun à tous les copistes médiocres du drame espagnol est le fait de vouloir mettre plus d'ordre et de clarté dans son modèle en appliquant le moule étroit des unités et en le travestissant misérablement dans la gravité terne et monotone de leurs alexandrins. … Dépouillée de sa poésie et de son âme la “*comedia*” n'offre plus qu'une intrigue compliquée et romanesque et fait retomber notre théâtre dans l'ornière même à laquelle elle avait d'abord contribué à l'arracher. [15] » Lorsqu'il parle de d'Ouville précisément, il écrit : « De la fermété et de la grâce de Caldron rien ne passe dans ces vers obscurs qui éteignent tout ce qui luit. » Cette critique rejoint en fait celle des Frères Parfaict qui trouvent l'expression de d'Ouville trop « froide » [16].
 
 
-# Analyse dramaturgique
+# Analyse dramaturgique.
 
 Il s'agit à présent de comprendre pourquoi d'Ouville a effectué ces diverses modifications. Tout d'abord, ce travail de recomposition textuelle répond à certaines contraintes poétiques de l'époque.
 
@@ -317,12 +317,12 @@ L'esthétique baroque dans le théâtre espagnol n'est pas accompagnée de norme
 Le théâtre espagnol du Siècle d'Or joue beaucoup sur la porosité de la frontière entre illusion et réalité et vise à donner à voir au spectateur la vie dans tout son caractère hybride, trompeur, à le plonger dans l'ivresse d'une action riche et variée. La rigueur esthétique ne convient pas à ce théâtre qui aime les contrastes, les rebondissements et les mélanges. La pièce de Calderón se plie ainsi difficilement à la conception normative du théâtre de l'âge classique qui veut qu'une pièce se rapproche le plus possible de la réalité. C'est pourquoi d'Ouville doit remanier ce texte et adapter sa dramaturgie aux règles françaises.
 
 
-## Structure externe de la pièce
+## Structure externe de la pièce.
 
 D'Ouville doit tâcher de rendre vraisemblable l'intrigue de sa pièce. Pour ce faire, il s'efforce de ramasser l'intrigue de sa pièce, de façon à respecter la poétique classique et les trois unités.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 Chez Calderón, l'intrigue s'étale sur trois jours. D'ouville choisit de faire commencer l'intrigue de sa pièce bien après celle de Calderón et compresse ainsi considérablement l'action. La pièce commence par les adieux de deux amants qui se quittent au lever du jour (I, 1, v.1-2) :
 
@@ -337,12 +337,12 @@ Nise, et que l'on nous serve à souper promptement.
 D'Ouville respecte ainsi le principe de l'unité de temps puisque son intrigue dure moins de vingt-quatre heures.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 En raccourcissant l'intrigue, d'Ouville n'en garde que l'essentiel. Comme nous l'avons vu, il coupe toutes les longues tirades amoureuses qui laissent s'exprimer, dans la pièce espagnole, le lyrisme des personnages. Chez d'Ouville, les amants s'échangent de rapides compliments, efficaces, et l'expression de leurs sentiments s'efface au profit de la progression de l'intrigue. La pièce de d'Ouville se concentre sur la comédie de Jodelet, son rôle d'astrologue et les quiproquos qu'il provoque. Les histoires amoureuses des différents personnages sont en fait les prétextes qui permettent cette intrigue principale. Plusieurs intrigues sont ainsi compressées et réduites à la fonction d'intrigues secondaires. Cela explique la disparition de la scène dans laquelle Violante, qui souhaite rendre jaloux Don Juan, fait croire à Don Carlos qu'elle l'aime. Cette recherche de l'efficacité de l'intrigue, effaçant tous les ornements, permet le respect de l'unité d'action.
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 La pièce de d'Ouville se déroule en plusieurs endroits qui sont facilement identifiables.
 
@@ -369,14 +369,14 @@ On frappe, Jodelet, va, regarde qui c'est.
 La notion d'unité de lieu est quelque peu mise à mal par la multiplicité des pôles de rencontre. Sur ce point, d'Ouvillle n'a pas retravaillé la pièce de Calderón et a gardé l'ensemble des déplacements dans l'espace. Il est cependant possible d'affirmer que d'Ouville respecte la règle des unités au regard de la dramaturgie de l'ensemble de la pièce car l'intrigue se passe dans une même ville, Paris.
 
 
-## Structure interne de la pièce
+## Structure interne de la pièce.
 
 Lorsqu'il adapte *L'Astrologo fingido*, d'Ouville a en tête les règles dramaturgiques classiques. L'étude des rapports macrostructurels dans sa pièce révèle sa volonté d'obéir à cette poétique normative.
 
 En effet, la construction et le déroulement de l'intrigue de *Jodelet astrologue* sont en adéquation avec les attentes des théoriciens de l'époque.
 
 
-### La scène d'exposition
+### La scène d'exposition.
 
 La poétique classique réclame un premier acte qui met à plat l'ensemble de l'intrigue à venir, qui présente tous les personnages importants, qui annonce et justifie de façon logique le déroulement de l'action dans les actes suivants.
 
@@ -385,21 +385,21 @@ Si d'Ouville fait commencer son intrigue plus tôt que dans la pièce espagnole,
 Ainsi cette scène d'exposition respecte les règles dramaturgiques classiques car les personnages principaux y sont présentés ainsi que la trame globale de l'intrigue.
 
 
-### Le nœud
+### Le nœud.
 
 Les règles poétiques classiques définissent le nœud de l'intrigue comique comme l'enchaînement nécessaire d'un conflit qui sépare les amants, et qui est annoncé dans la scène d'exposition. L'action doit être unique et toujours motivée par la logique et la vraisemblance.
 
 Le tableau comparatif permet de remarquer que le déroulement de l'intrigue de la pièce de d'Ouville reprend presque tous les éléments de la pièce de Calderón. Cependant, d'Ouville gomme au maximum les intrigues parallèles n'ayant pas un lien direct avec l'intrigue principale. C'est pourquoi la scène dans laquelle Maria pleure et prétexte la disparition de son bijou auprès de son père n'a pas d'équivalent chez d'Ouville. Liliane explique en une phrase ce qui s'est passé. De même la scène dans laquelle Violante feint d'aimer Don Carlos afin de rendre jaloux Don Juan est supprimée chez d'Ouville. Cette scène n'a en effet pas beaucoup d'implication dans le reste de la pièce et visait à satisfaire, chez Calderón, le goût du public espagnol pour les histoires d'amour et les grandes tirades lyriques. D'Ouville concentre ainsi l'intrigue autour d'une trame principale, respectant les règles dramaturgiques classiques.
 
 
-### Le dénouement
+### Le dénouement.
 
 La dramaturgie classique attend du dénouement la résolution de tous les conflits de l'intrigue. La comédie appelle forcément un passage à l'état de malheur à celui de bonheur, c'est-à-dire que les obstacles qui séparent les amants doivent être levés. La règle implique ainsi que la comédie s'achève sur un mariage. Les dramaturges français ont même tendance souvent à achever leurs pièces avec de véritables scènes de liesse générale suite à l'annonce plusieurs mariages.
 
 Le tableau comparatif montre comment d'Ouville suit fidèlement l'enchaînement des faits de la pièce espagnole au dernier acte. Tous les personnages se retrouvent dans un même lieu et la vérité se fait voir. Jacinte dénonce les amants, la ruse de Jodelet est découverte, l'implication de Timandre et Nise révélée. Cet éclatement de la vérité rend nécessaire le dénouement de la pièce et la levée des obstacles. Arimant voit l'amour de sa fille pour Tindare étalé au grand jour et ne peut refuser leur union par peur que l'honneur de sa famille en soit entaché. La découverte de cet amour contredit les prédictions passées de Jodelet et révèle son imposture. Les deux autres personnages joués par Jodelet se tournent l'un vers l'autre et annoncent leur mariage prochain. La ruse de Jodelet déjouée implique les aveux de Timandre et de Nise. Jodelet négocie le pardon de Liliane et son mariage avec Nise en échange de la restitution de la bourse de Moron. En quelques vers, tout le nœud se délie, chaque obstacle connaît une issue. D'Ouville donne à sa pièce une fin heureuse, avec trois mariages, soit deux de plus que chez Calderón.
 
 
-## Les rapports structurels
+## Les rapports structurels.
 
 Le travail de recomposition textuelle effectué par d'Ouville nuit parfois à la cohérence de l'action. En effet, certaines de ces modifications auraient dû entraîner d'autres changements dans le reste de l'intrigue, puisqu'au théâtre, chaque épisode, chaque événement découle d'une situation précédente. Il néglige ainsi les tenants logiques de sa pièce et le spectateur peut aisément se rendre compte de plusieurs contradictions et maladresses.
 
@@ -437,12 +437,12 @@ Je vous donne ma fille et vous reçois pour gendre. (v. 1925-1930)
 Cette confiance dans le jugement de Timandre est incompréhensible car pas un instant ces deux personnages ne se sont entretenus dans le reste de la pièce. Dans la pièce de Calderón, Leonardo s'adresse à Don Diego car c'est lui qui tient le rôle de l'astrologue. Chez d'Ouville cette adresse ne fait pas sens. Là encore, il a retravaillé le texte sans repenser la logique de l'enchaînement des événements.
 
 
-## La vraisemblance des caractères
+## La vraisemblance des caractères.
 
 D'Ouville a raccourci la grande majorité des tirades des différents personnages et il a supprimé certaines scènes. Il s'ensuit un appauvrissement de leur consistance. D'Ouville ne s'attache pas au caractère de ses personnages et ne leur confère aucune profondeur car il s'intéresse avant tout à l'intrigue. Cela entraîne quelques incohérences dans leur comportement et le principe de vraisemblance est ainsi parfois mis à mal.
 
 
-### Jodelet
+### Jodelet.
 
 Ce personnage est un mélange entre plusieurs types de valet. Jodelet a en effet plusieurs caractéristiques bien différentes. Il est tout d'abord la représentation classique du personnage espagnol du *gracioso*. Il est balourd, maladroit, et menteur. Il est le valet facétieux qui accomplit les basses actions et fait rire le public. Il fait du chantage à Nise, joue et vole le vieux page.
 
@@ -461,19 +461,19 @@ Je passeray pourtant pour tel, puis qu'il vous plaist. (v. 1033-1037)
 Ce genre de préoccupations ne correspond pas au statut social de Jodelet. Les valets n'ont que faire d'ordinaire de leur réputation. Un valet classique se serait jeté dans la duperie sans états d'âmes et a tendance à ne pas anticiper, redouter les conséquences de ses actes. D'Ouville, sans faire un véritable écart par rapport au principe de vraisemblance, nous présente un valet à la personnalité plus complexe que dans la plupart des comédies classiques.
 
 
-### Timandre
+### Timandre.
 
 Ce personnage est le type même du gentilhomme. Si Jodelet est son complice dans son entreprise amoureuse, il devient ensuite le complice de son valet dans la ruse de l'astrologue. Il a un sens de l'honneur très important et en cela, d'Ouville a conservé quelque chose de la pièce de Calderón, empreinte de tradition espagnole. Timandre est en effet scandalisé par le mensonge de Liliane, non pas tant parce qu'elle en aime un autre, mais parce qu'elle prétend être ce qu'elle n'est pas, c'est-à-dire une femme d'honneur désintéressée des choses de l'amour. Cette imposture heurte son sens de l'honneur. De même, une fois qu'il réalise que les reproches qu'il fait à Liliane mettent Nise dans une situation délicate, il se rappelle ce qu'il lui doit et dès lors devient le complice de Jodelet pour innocenter la servante de Liliane. Timandre assume ainsi ses actes et accepte de s'impliquer dans une fourbe, contraire à la noblesse de son rang, de façon à sauver la mise à une personne, fut-elle une servante, qu'il a mise en difficulté. D'autre part, Timandre, bien qu'il ait été trompé et méprisé par Liliane, ne se montre pas rancunier. Après lui avoir fait la morale au début de l'acte II, il n'essaie pas d'entraver son mariage avec Tindare et l'encourage même dans la dernière scène. Contrairement à Don Diego chez Calderón, ce n'est pas lui qui dénonce Tindare comme le responsable de la disparition du bijou de Liliane.
 
 Son inconstance amoureuse peut rendre suspect le personnage de Timandre. À l'acte I, Timandre nous apparaît désespéré devant l'indifférence de Liliane et il lui déclare son amour avec beaucoup d'emphase. Puis rapidement il oublie sa déception amoureuse et se concentre sur la fourbe de son valet. Il s'amuse des situations provoquées par cette imposture et à l'acte V, Timandre affirme ne plus rien ressentir pour Liliane. Ce revirement sentimental provient de la version de Calderón. Dans la tradition romanesque espagnole, ces amours fluctuantes sont courantes et contribuent à l'esthétique baroque. Dans la pièce de d'Ouville, cela nuit à la vraisemblance du personnage de Timandre car une telle inconstance ne sied pas à la grandeur du rang du gentilhomme.
 
 
-### Tindare
+### Tindare.
 
 Le personnage de Tindare, qui est pourtant au centre de l'intrigue amoureuse, est quasiment inconsistant. Il n'apparaît que dans peu de scènes (I, 1 ; IV, 1, 2, 5, 6 ; V, 6, 7, 9, 10, 11). D'autre part, d'Ouville a coupé toutes ses grandes tirades du début de la pièce de Calderón. De ce fait, ce personnage est sans grande consistance. Comme pour le personnage de Liliane, Tindare est dit d'une grande noblesse d'âme mais ses actions contredisent cette prétendue vertu. Lui aussi ment et dissimule. Il fait croire à Jacinte qu'il lui est toujours attaché et la laisse l'attendre dans le désespoir. Le public espagnol, féru des intrigues et quiproquos amoureux n'est pas gêné par ce personnage mais, au regard de la tradition classique, Tindare n'agit pas comme le voudrait son statut de gentilhomme. Cependant, lui aussi fait preuve d'une grande loyauté à l'égard de Liliane. Lorsque Arimant vient lui demander le bijou de sa fille, Tindare s'accuse afin d'innocenter celle qu'il aime. Ce couple d'amoureux semble en fait placer son sens de l'honneur dans leur constance sentimentale et dans leur dévouement à l'être aimé mais, quand il s'agit de sauver cet amour, la fin honorable justifie des actes qui le sont moins.
 
 
-### Liliane
+### Liliane.
 
 Dans la pièce de Calderón, Maria a un caractère de feu et reflète les valeurs espagnoles de l'époque. Le sens de l'honneur dicte sa conduite. Au début de la pièce, elle méprise l'amour de l'homme qu'elle aime car son honneur lui commande de ne pas avouer ses sentiments, afin d'être toujours respectée. Puis, de peur qu'il se fasse tuer à la guerre, elle cède et lui dit son amour. Chez d'Ouville, Liliane est d'emblée présentée comme la maîtresse de Tindare. Ses discours sur l'honneur font ainsi moins sens car ils ne sont jamais illustrés. Liliane, au contraire, est toujours dans le mensonge, auprès de Timandre, de son père, et dans la dissimulation car elle rencontre Tindare la nuit, et ce depuis six mois. Chez Calderón, c'est Don Juan qui prend l'initiative de mentir en disant venir trouver Leonardo de la part de son frère. Chez d'Ouville, Nise renseigne Tindare et cette idée semble ainsi venir de Liliane. Ce personnage se rapproche d'avantage de l'amante passionnée, prête à tout pour sauver son amour. Si ce personnage et ses contradictions ne heurtent pas le public espagnol aimant avant tout les contrastes et les jeux amoureux, la distance évidente qui existe entre ses actions et son discours sur le sens de l'honneur crée une impression de dissonance dans la pièce française. Une telle attitude ne convient par ailleurs pas au rang social de Liliane. Cependant, Liliane met un point d'honneur à n'aimer que Tindare. Dans la pièce espagnole, Maria n'écoute pas les arguments de Beatriz quand elle lui vante les qualités d'un second prétendant, Don Diego, car elle affirme n'aimer que Don Juan. Chez d'Ouville, Liliane semble connaître plus de doute mais reste fidèle à l'amour de Tindare avant tout par sens de la loyauté comme le montre cette tirade à l'Acte I, scène 2 :
 
@@ -483,49 +483,49 @@ Depuis six mois entiers des gages de ma foy,
 Tels que je ne sçaurois à present m'en desdire. (v. 68-71)  
 
 
-### Nise
+### Nise.
 
 Nise est le personnage type de la servante. Elle aide sa maîtresse dans ses entreprises amoureuses, écoutes ses confidences, est la complice de ses rendez-vous nocturnes avec Tindare. Elle aime et est aimée du valet d'un autre prétendant de sa maîtresse, Jodelet, et joue de ce fait les entremetteuses entre Timandre et Liliane. C'est pour cette même raison qu'elle trahit le secret de sa maîtresse à la fin de l'acte I, Jodelet lui ayant fait du chantage affectif. Nise est en fait un véritable moteur dans la pièce de d'Ouville car c'est elle qui renseigne tous les personnages. En effet, c'est par sa bouche que Jodelet apprend l'amour de Liliane pour Tindare. Elle impulse ainsi l'intrigue car c'est pour lui sauver la mise que Jodelet et Timandre inventent la ruse de l'astrologue. Par la suite, Nise tient Jodelet au courant de ce qui se passe sous le toit d'Arimant de façon à pouvoir alimenter ses prédictions. C'est elle encore qui vient trouver Tindare pour lui conseiller de prétendre auprès d'Arimant être envoyé de la part de son frère à Turin. Elle tient ainsi plusieurs fils de l'intrigue.
 
 
-### Jacinte
+### Jacinte.
 
 C'est le deuxième personnage féminin de la pièce. Elle croit que Tindare, dont elle est aussi éperdument amoureuse, vit depuis six mois en Italie et elle l'attend patiemment. Comme Liliane, elle décide de lui rester fidèle et respecte, par sens de l'honneur, la parole donnée. Elle est en fait la femme victime de la pièce dans la mesure où Tindare ne garde quelques liens épistolaires avec elle qu'afin de sauver les apparences et de pouvoir aimer Liliane sans éveiller les soupçons. À la fin de la pièce, c'est elle qui provoque le dénouement de l'intrigue en arrivant chez Arimant pour dénoncer la relation entre Tindare et Liliane. Elle accepte ensuite d'épouser Ariste considérant qu'il le mérite, pour avoir été toujours loyal envers elle.
 
 
-### Julie
+### Julie.
 
 Ce personnage de servante est très classique et est avant tout présent dans les scènes de confidences. Jacinte lui fait part des joies et tristesses que lui apporte son amour pour Tindare. Elle est poltronne quand l'apparition de Tindare doit arriver et elle lui ferme la porte au nez lorsqu'il s'adresse à elle. Elle se montre cependant plus clairvoyante que sa maîtresse lorsque Tindare dit à Jacinte aimer ailleurs et ne rien ressentir à son égard. Jacinte, faisant confiance aux prédictions de Jodelet, croit à une indifférence feinte. Julie émet certaines réserves et objecte à sa maîtresse que Tindare a l'air tout à fait sincère.
 
 
-### Ariste
+### Ariste.
 
 Ce personnage est le type même du gentilhomme et l'ami loyal. Il est très fidèle vis-à-vis de son ami Tindare et accepte de l'héberger pendant six mois dans le plus grand secret. Cela est d'autant plus noble qu'il croit que Tindare se cache chez lui de façon à vivre son amour avec Jacinte, dont Ariste est amoureux en secret. Même une fois renseigné sur la véritable identité de la maîtresse de Tindare, Ariste se reproche son manque d'amitié à l'égard de son ami lorsqu'il se rend chez Jacinte afin de mesurer la profondeur des sentiments qu'elle nourrit pour Tindare. De même lorsque Jacinte lui fait part de son envie de voir Tindare, Ariste s'apprête à dénoncer le secret de son ami et lui affirme pouvoir lui faire voir Tindare très facilement mais il se rattrape au dernier moment en imaginant l'industrie suivante : il conseille à Jacinte d'aller trouver Jodelet qui a le don de faire voir les absents. Jacinte accepte la demande en mariage d'Ariste dans la dernière scène en disant qu'il mérite bien cette récompense. Jacinte fait ici référence à la noblesse d'âme de ce très loyal gentilhomme.
 
 
-### Acaste
+### Acaste.
 
 Lui aussi incarne un gentilhomme et surtout un ami fidèle. Il est le confident et le complice de Timandre. Il s'implique dans son amour pour Liliane et va trouver Ariste pour lui demander confirmation de la présence de Tindare dans Paris. Il l'aide dans sa ruse et la sert en faisant courir la rumeur des dons de Jodelet. Il est également un représentant de la morale et du bon jugement. C'est lui qui s'enquiert auprès de Timandre afin de savoir si sa ruse ne vise pas à empêcher le mariage de Liliane et Tindare. C'est lui encore qui rassure Jodelet en lui affirmant qu'il peut faire illusion sur ses dons dans la mesure où c'est également ce que font les prétendus véritables astrologues. Acaste est un personnage censé, que la fourbe amuse beaucoup et qui veille à ce que la farce soit toujours légère, sans but mesquin, c'est-à-dire qu'elle reste un jeu, du théâtre.
 
 
-### Arimant
+### Arimant.
 
 Ce personnage est le garant de l'autorité et de l'honneur. Liliane craint ce père qui la destine à un mariage avec un homme fortuné et tous les personnages de la pièce sont impressionnés par lui. Jodelet, qui craint d'être démasqué par cet homme respectable, préfère avouer son ignorance. La sagesse d'Arimant le pousse à penser que tant d'humilité ne peut que cacher un grand talent. C'est également un personnage de savoir car lui seul met à mal la fourbe de Jodelet en l'interrogeant sur certains aspects de cette science qu'il dit connaître. Dans la dernière scène, il accepte le mariage de sa fille avec Tindare car il craint que l'honneur de sa famille ne soit entâché. À la toute fin de la scène, sa fille s'en remet à son autorité pour décider du mariage de Nise avec Jodelet.
 
 
-### Moron
+### Moron.
 
 Ce page n'a pas une grande importance dans la pièce de d'Ouville. Il est simplement le prétexte à un épisode comique dans le dernier acte. Souhaitant rentrer dans son pays natal, il se laisse berner par Jodelet qui lui bande les yeux puis le dépouille de sa bourse. Il reste immobile, les yeux fermés, dans le jardin durant deux scènes, parlant tout seul, croyant être en chemin, ce qui crée un effet très comique.
 
 
-# Le comique
+# Le comique.
 
 Les critiques à l'encontre des adaptations de d'Ouville semblent ne pas prendre en compte la caractéristique principale du théâtre de cet auteur. Si d'Ouville n'a pas particulièrement soigné l'intrigue et la cohérence de sa pièce, s'il n'a pas cherché à doter ses personnages de caractères propres, si encore le style n'est pas des plus recherchés, c'est que son but est ailleurs. Les comédies de d'Ouville attirent le public parisien et sont réputées pour le faire rire. Le comique est ce que d'Ouville soigne le plus dans ses pièces.
 
 L'objet et la qualité principale de *Jodelet astrologue* sont, comme son titre l'indique, le personnage de Jodelet et plus précisément encore le jeu du comédien Julien Bedeau. Cette pièce se veut divertissante et le comique en est la caractéristique principale.
 
 
-## La prédominance accordée au comique
+## La prédominance accordée au comique.
 
 L'importance du personnage de Jodelet montre la volonté de d'Ouville d'inscrire sa pièce dans la tonalité comique
 
@@ -537,12 +537,12 @@ Nous ne disposons d'aucune information sur les débuts de la carrière de Julien
 Son succès devint véritablement important avec *Le Menteur* (1642) et *La Suite du menteur* (1643) de Pierre Corneille. Tallemant des Réaux écrivit : « Jodelet … est un bon acteur ; il n'y a plus de farce qu'au Marais où il est, et c'est à cause de lui qu'il y en a. » [18] Le public se montra très enthousiaste et par la suite, plusieurs dramaturges écrivirent des pièces spécialement pour lui et leur donnèrent son nom. Scarron écrivit *Jodelet ou le maître valet* (1645), *Jodelet duelliste* (1646), d'Ouville lui consacra *Jodelet astrologue* (1646) et enfin Thomas Corneille écrivit *Jodelet Prince* (1655). Ces différents titres sonnent comme les noms d'épisodes consacrés à ce personnage et le public de l'époque devait ainsi rire d'avance à l'idée de retrouver Jodelet sous un nouveau déguisement, dans de nouvelles aventures. 
 
 
-### La naissance d'un personnage et d'un jeu de scène comiques
+### La naissance d'un personnage et d'un jeu de scène comiques.
 
 Jodelet se spécialisa dès ses débuts dans les rôles de valet, et créa un type particulier : glouton, rusé, poltron, vantard et grossier, c'est-à-dire le personnage type du *gracioso*. Parfois, il prenait la place de son maître et faisait le gentilhomme, accumulant les bêtises dont on accusait ensuite son maître. Ce comédien était très apprécié surtout pour son jeu de scène tout à fait personnel. Pierre David Lemazurier évoque le jeu de scène de Jodelet : « Les traits de son visage étaient si marqués et si comiques, qu'il n'avait qu'à se montrer pour exciter les éclats de rire; il savait les augmenter encore par la surprise qu'il témoignait en voyant rire les spectateurs. Il parlait du nez, et ce défaut rendait son débit beaucoup plus burlesque qu'on ne peut l'imaginer.» [19]
 
 
-### Une pièce écrite pour le comédien
+### Une pièce écrite pour le comédien.
 
 D'Ouville fit jouer cette pièce quelques temps après le fameux *Jodelet ou le maître valet* de Scarron et profita du succès incroyable de ce comédien. L'auteur écrivit ainsi cette pièce et le personnage de Jodelet pour le comédien. C'est pourquoi, outre le fait de donner son nom à la pièce, il attribua le rôle de l'astrologue au valet. Il souhaita ainsi mettre Jodelet sur le devant de la scène. Plusieurs répliques dans la pièce font directement référence aux caractéristiques de l'acteur et montrent ainsi combien, jusque dans le texte, cette pièce lui est dédiée.
 
@@ -569,10 +569,10 @@ Deux interprétations sont possibles pour cette réplique. Les illustrations don
 Toutes ces références au physique de Jodelet montrent que d'Ouville s'est véritablement inspiré de ce personnage pour écrire sa pièce et qu'il a tout fait pour le mettre en valeur. Le jeu du comédien Jodelet apporte beaucoup au jeu sur le langage et au comique de geste.
 
 
-## La nature du comique
+## La nature du comique.
 
 
-### Le comique de geste
+### Le comique de geste.
 
 Le jeu scénique de Jodelet est le principal ressort comique de la pièce. À la scène 2 de l'acte III, il compose son personnage d'astrologue (v. 795-798):
 
@@ -589,10 +589,10 @@ Grimassoit en resvant, et fronçoit le sourcy,
 Ces vers devaient sûrement déclencher le rire des spectateurs qui reconnaissaient immédiatement les mimiques de l'acteur. Si les didascalies sont absentes lorsqu'il s'agit de décrire le jeu de scène des acteurs, il est possible d'imaginer que Jodelet grimaçait beaucoup, exagérait le roulement de ses yeux et son ton nasillard lorsqu'il se lançait dans ses prédictions. Chez Calderón, Don Diego fait des effets de voix et de grimace pour simuler l'intense concentration. Cela doit avoir inspiré d'Ouville qui comptait sur les talents d'acteur de Jodelet pour caricaturer de façon comique l'attitude du devin inspiré.
 
 
-### Le comique de mots
+### Le comique de mots.
 
 
-#### Les Jodeletteries
+#### Les Jodeletteries.
 
 Les valets interprétés par Jodelet étaient réputés pour leurs jeux de mots et leurs néologismes. D'Ouville s'inspire encore de cette caractéristique du comédien dans sa pièce. À la scène 7 de l'acte IV (v.1408-1409), Nise fait référence à la silhouette de Jodelet :
 
@@ -642,7 +642,7 @@ Et tu te donnerois de peur, à tous les diables. (v. 1821-1826)
 Dans cette tirade, ces mots de Jodelet provoquent le rire car il les emploie au premier degré, dans leur réalité concrète et prosaïque. La maladresse légendaire du comédien, sa naïveté ainsi que son jeu de scène expressif font que d'Ouville met Jodelet au cœur du comique de la pièce, surtout pour le comique de gestes et celui de mots.
 
 
-#### Le double langage
+#### Le double langage.
 
 À la scène 6 de l'acte IV, Tindare se présente à Arimant afin que lui soient ouvertes les portes de sa demeure et prétend venir de la part de son frère de Turin. Il complimente ensuite le maître de maison afin de le remercier de son hospitalité et fait de même auprès de Liliane. Dans cette dernière tirade, Tindare utilise un double langage. Il déclare à nouveau sa flamme à Liliane en dissimulant ses mots d'amour dans un discours apparemment poli et conventionnel. Cette scène est comique car Arimant ne se rend compte de rien et, au contraire, presse sa fille de répondre à ces compliments. Liliane s'exécute et reformule ses promesses amoureuses et son dévouement pour Tindare et ce, de manière détournée, sous les yeux de son père. Tindare prend ensuite congé de ces deux personnages et dit à Liliane :
 
@@ -652,12 +652,12 @@ Je vous baise à tous deux les mains. (v. 1395-1396)
 Dans cette dernière réplique qui met fin à ce jeu de langage à double entente, Tindare joue sur le double sens de l'expression *« Je vous baise les mains »* qui peut tout à la fois être une simple formule de politesse et renvoyer à l'idée d'un geste tendre témoignant de l'amour de Tindare pour Liliane.
 
 
-### Le comique de situation
+### Le comique de situation.
 
 Le jeu sur les fausses prédictions de Jodelet offre des possibilités multiples pour créer des situations cocasses. Les quiproquos sont nombreux et font chaque fois se rencontrer un innocent trompé par l'astrologue et un personnage averti.
 
 
-#### Les quiproquos
+#### Les quiproquos.
 
 Jodelet manipule les différents personnages de la pièce grâce à son prétendu talent d'astrologue. Au courant de tout, il révèle certaines vérités tenues secrètes, de façon à maintenir l'illusion de son don de devin. Cela entraîne plusieurs scènes de quiproquo qui participent au comique de la pièce. 
 
@@ -716,7 +716,7 @@ Le contraste évident entre les propos de Tindare et l'interprétation qu'en fai
 Ainsi le jeu de Jodelet provoque de nombreux malentendus. Il se joue des différents personnages et les met tout au long de la pièce dans des situations fort comiques.
 
 
-#### La crédulité des personnages
+#### La crédulité des personnages.
 
 Les prédictions de Jodelet sont comiques car elles rencontrent un public naïf. Les personnages, victimes de la supercherie de Jodelet, se laissent en effet aisément convaincre que les vérités énoncées par Jodelet proviennent bien d'un don quelque peu surnaturel. À la scène 7 de l'acte III, Jacinte vient demander à Jodelet de lui faire apparaître l'image de son amant Tindare. Jodelet connaît Tindare et saisit cette occasion de faire croire en ses talents. Il prétend réussir à identifier l'amant de Jacinte, un gentilhomme vivant depuis six mois en Italie, puis le décrit. Ces propos de Jodelet suscitent l'admiration de Jacinte et de sa servante :
 
@@ -738,10 +738,10 @@ Jodelet se joue de plusieurs personnages mais aucune ruse n'est plus comique que
 Le comique de la pièce revêt ainsi de nombreux aspects mais il est possible d'affirmer que c'est le personnage de Jodelet qui est en charge du rire. Si ce ne sont pas ses pitreries, ou ses inventions langagières qui amusent le public, ce sont les conséquences de ses prédictions, les situations dans lesquelles il implique les autres personnages. Cette prédominance du personnage comique de Jodelet est encore la preuve de la volonté de d'Ouville de profiter de la notoriété du comédien pour assurer le succès de sa pièce.
 
 
-# La thématique du secret impossible
+# La thématique du secret impossible.
 
 
-## Le plaisir de se faire prier
+## Le plaisir de se faire prier.
 
 À la base de la pièce est un secret, celui de l'amour qui unit Liliane et Tindare. Dans la première scène, le vocabulaire du secret est extrêmement présent et place immédiatement le spectateur dans la position du confident.
 
@@ -787,7 +787,7 @@ Je vous le diray donc, mais, Acaste entre nous. (v. 665-670)
 Ces changements soudains d'attitude sont comiques et il est possible d'imaginer que ces scènes de confidence étaient jouées de façon exagérée, les comédiens forçant le jeu de façon à montrer la mauvaise foi des personnages. L'inconstance de Timandre pouvait être ici soulignée par l'usage d'un ton de voix grave et sérieux quand il dit être tenu au secret puis une voix légère, libérée du poids du silence dès qu'il se met parler.
 
 
-## Des promesses de circonstances
+## Des promesses de circonstances.
 
 La mauvaise foi de ceux qui reçoivent le secret est également soulignée dans la pièce de d'Ouville. Dans la scène 2 de l'acte I, Nise prête serment auprès de Liliane et use d'hyperboles convaincantes :
 
@@ -816,7 +816,7 @@ Dans cette tirade dit en fait tout haut ce que chaque personnage semble penser e
 Les promesses, les précautions prises avant de révéler un secret semblent ainsi n'être que pure coquetterie et faire partie d'un rituel auquel personne ne croit réellement. La mauvaise foi qui transparaît dans ces comportements typiques contient une charge comique d'autant plus importante qu'elle est accentuée par le phénomène de répétition.
 
 
-## Le gonflement de la rumeur
+## Le gonflement de la rumeur.
 
 La dernière caractéristique du secret présente dans la pièce de d'Ouville est celle de l'amplification proportionnelle au nombre de personnes mises au courant.
 
@@ -855,12 +855,12 @@ Mais je ne voulois pas qu'on le tint pour sorcier. (v. 1513-1516)
 Les personnages, qui ont pourtant tout manigancé, qui ont inventé ce stratagème et ont simulé de révéler un secret, perdent le contrôle de cette rumeur qui grandit de bouche en bouche. Leur mensonge les dépasse ce qui donne une tonalité comique à la pièce et montre une fois encore que les secrets ne peuvent être gardés.
 
 
-# Le théâtre dans le théâtre
+# Le théâtre dans le théâtre.
 
 Calderón est l'auteur de la célèbre pièce *El gran teatro del mundo* et ses pièces mettent souvent le théâtre sur le devant de la scène. Dans *Jodelet astrologue*, d'Ouville reprend cette caractéristique de la pièce espagnole qu'est le théâtre dans le théâtre. En effet, les différents personnages sont amenés à jouer la comédie au fur et à mesure de la pièce. Le thème du plaisir pris dans ce divertissement théâtral s'exprime sous de nombreux aspects.
 
 
-## Le plaisir du jeu
+## Le plaisir du jeu.
 
 Jodelet commence le premier à jouer un rôle. Il feint d'être un astrologue et va devoir maintenir l'illusion tout au long de la pièce. Si le valet craint d'être découvert et humilié, il se prend cependant rapidement au jeu. En effet, Jodelet prend un certain plaisir à composer son personnage et à anticiper les réactions des victimes de sa farce.
 
@@ -890,7 +890,7 @@ Acaste également est amené à jouer la comédie car c'est lui qui est chargé 
 Je n'ay jamais tant eu de plaisir en ma vie, (III, 6, v. 1019)  
 
 
-## Le plaisir du spectateur à l'intérieur de la pièce
+## Le plaisir du spectateur à l'intérieur de la pièce.
 
 Le point de vue du spectateur est également évoqué dans la pièce de d'Ouville. Timandre et Acaste sont les complices de Jodelet et assistent à toutes ses manigances. Ce sont les seuls à être au courant de la supercherie et ils sont ainsi dans la même position que les spectateurs de la pièce. Ils s'amusent ainsi au même titre que le public des ruses de Jodelet. Acaste et Timandre expriment leur plaisir de spectateur à plusieurs reprises. À la scène 6 de l'Acte III, Jacinte frappe à la porte et Timandre s'attend à un nouveau rebondissement dans l'intrigue :
 
@@ -912,7 +912,7 @@ J'en ay pensé mourir de rire. (v. 1160-1061)
 Ainsi Timandre et Acaste représentent la figure du spectateur et leurs paroles expriment ce que le spectateur d'une comédie est censé ressentir. La dimension du divertissement est importante mais celle du rire également. Le spectateur est présent pour s'amuser. La comédie doit être drôle et non plus uniquement plaisante.
 
 
-## L'esthétique baroque et la dramaturgie de l'ambiguïté
+## L'esthétique baroque et la dramaturgie de l'ambiguïté.
 
 La pièce de d'Ouville est empreinte de certaines caractéristiques de l'esthétique baroque. Le théâtre dans le théâtre est l'aspect principal de cette influence mais celui-ci ne consiste pas uniquement en une mise en abîme du processus théâtral. En effet, chez Calderón, le théâtre est partout présent, le monde entier est illusion, le réel est par essence trompeur. Ce dramaturge est ainsi friand d'inconstances, de métamorphoses, de renversements de situations, de hasards et de coïncidences. Dans *Jodelet astrologue*, il est possible de retrouver cette impression de constante ambiguïté entre réalité et illusion. L'imposture de Jodelet berne tous les personnages qui ne sont pas dans le secret. Arimant même, qui représente l'homme sage d'expérience, se méfie d'abord de Jodelet puis est convaincu de son honnêteté et de ses talents d'astrologue. Il fera par la suite appel à lui plusieurs fois. Timandre et Acaste, quant à eux, ne cessent de s'étonner de la crédulité des victimes de Jodelet :
 
@@ -927,17 +927,17 @@ Vous rencontrez des gens de legere croyance. (III, 8, v. 1163)
 En réalité, Calderón montre combien il est aisé de croire à la magie tant les apparences peuvent être trompeuses. Le public, comme Timandre et Acaste, ont accès aux coulisses des manœuvres de Jodelet et peuvent se délecter de la crédulité des personnages. Ainsi, on observe sans cesse un jeu de bascule entre les moyens simples et concrets qui permettent à Jodelet de maintenir l'illusion et la fascination qu'il exerce sur les différents personnages qu'il abuse. Cela reflète bien la conception que Calderón a du monde, celle d'une construction trompeuse et ambivalente, la vérité n'y tenant qu'une place humaine et subjective.
 
 
-# L'avenir et l'influence de Jodelet astrologue
+# L'avenir et l'influence de Jodelet astrologue.
 
 
-## Une pièce non renouvelable
+## Une pièce non renouvelable.
 
 Le Mémoire de Mahelot mentionne la pièce de d'Ouville, *Jodelet astrologue.* Sans avoir plus de précisions, nous savons ainsi qu'elle a été reprise, très peu d'années après sa création, au théâtre de l'Hôtel de Bourgogne. Ces représentations ne sont décrites nulle part mais il est possible d'imaginer que cette reprise n'a pas connu un grand succès. En effet, la pièce de d'Ouville était prévue pour être jouée par Jodelet. La popularité de ce comédien assurait à elle seule l'approbation du public. La volonté de faire incarner le rôle du valet par Jodelet se ressent dans les choix d'adaptation dramaturgique de d'Ouville, dans le choix du titre et dans le jeu, les paroles du valet. Or, à l'Hôtel de Bourgogne, la pièce est mentionnée au répertoire sous le même titre. Comment la troupe de ce théâtre est parvenue à compenser l'absence du comédien Jodelet ? Les tirades, écrites expressément pour lui, représentaient autant d'obstacles à la reprise de cette pièce. Il paraît vraisemblable que ce soit le Sieur de Villiers qui a repris le rôle de Jodelet. Ce comédien de l'Hôtel de Bourgogne était spécialisé, sous le nom de Philipin, dans le même type de rôle que Jodelet.
 
 Cependant, la pièce de d'Ouville est tellement personnalisée qu'il semble difficile d'imaginer que cette pièce ait eu un succès important dès lors que le rôle de Jodelet n'est plus assuré par le comédien du même nom. La pièce était de ce fait dépendante de Jodelet et avec la disparition du comédien, *Jodelet astrologue* est tombé dans l'oubli, rangé au répertoire des pièces liées intrinsèquement à leur époque.
 
 
-## Une pièce qui inspire Thomas Corneille
+## Une pièce qui inspire Thomas Corneille.
 
 À peine cinq ans après le succès de *Jodelet astrologue*, Thomas Corneille reprend le sujet et publie en 1651 *Le Feint Astrologue*. Avec cette pièce, cet auteur s'inscrit dans la vague de popularité du thème de l'astrologie, initiée par l'adaptation de d'Ouville. La pièce a sûrement été jouée en 1648 à l'Hôtel de Bourgogne, soit un an à peine après la reprise de *Jodelet astrologue*. Thomas Corneille souhaite cependant se distinguer de d'Ouville, et se rapproche de la source espagnole. En effet, le titre est une traduction fidèle de celui de Calderón et les noms des personnages sont moins francisés. La différence la plus importante est que le rôle de l'astrologue n'est plus endossé par le valet comme chez d'Ouville mais par le maître, rappelant ainsi plus fidèlement la pièce de Calderón. Les frères Parfaict soulignent cette différence et affirment que c'est celle-ci qui rend la pièce de Thomas Corneille plus cohérente, plus vraisemblable que celle de d'Ouville. Le ton dans la pièce de Thomas Corneille est moins burlesque, et est plus proche de celui des nobles personnages espagnols de la pièce de Calderón. Néanmoins, Thomas Corneille s'inspire de la pièce de d'Ouville pour certaines tirades qu'il reprend parfois presque mot à mot. La critique de l'époque ne mentionne pas cette pièce comme un succès et il semble qu'elle ait eu moins de retentissement que celle de d'Ouville.
 
@@ -947,7 +947,7 @@ Cependant, la pièce de d'Ouville est tellement personnalisée qu'il semble diff
 Claude Bourqui [22] et Roger Guichemerre [23] ont démontré que le théâtre de d'Ouville représente une source importante pour Molière mais ils n'évoquent pas *Jodelet astrologue*. Pourtant, il est possible de repérer certaines analogies d'ordre comique entre cette pièce de d'Ouville et *Le Médecin malgré lui*. L'origine du comique de la pièce de d'Ouville provient d'une imposture. Jodelet se fait passer pour ce qu'il n'est pas. Il endosse le rôle d'un homme de science, dont l'autorité peut être importante et s'attaque à une discipline dont il ne connaît que la caricature et le *décorum*. Certaines scènes comiques découlent de cette situation, celles où Jodelet est amené à imiter l'astrologue. Il singe d'abord l'astrologue lorsqu'il effectue une prédiction, puis il tente d'imiter son discours lorsqu'il est face à Arimant et que ce dernier utilise un vocabulaire complexe qu'il est supposé comprendre. Jodelet invente alors un jargon complexe, en vague rapport avec les astres et aux sonorités truculentes. Il tente ainsi d'inspirer l'admiration et le respect pour cette science qu'il doit incarner en déstabilisant son interlocuteur avec un vocabulaire opaque et compliqué. Cette scène peut rappeler la scène 4 de l'Acte II du *Médecin malgré lui* de Molière. Dans cette scène, Sganarelle, que tout le monde prend pour un médecin, doit maintenir l'illusion et jouer ainsi le médecin. On lui demande de trouver le mal dont est atteinte Lucinde, la fille de Géronte. Sganarelle singe alors les médecins, utilise un jargon compliqué, latinise son vocabulaire et expose des théories médicales farfelues. Martinenche rapproche ces deux scènes qui jouent selon lui sur le même ressort comique : « Ce faux disciple du « grand Nostradamus » se sert pour parler de l'influence des astres de prétendus termes de l'art qui amènent sur les lèvres le même sourire que le latin du *Médecin malgré lui*. » [24]. Aussi n'est-il pas interdit de penser que le personnage de Jodelet a directement pu inspirer Molière.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 L'édition originale de *Jodelet astrologue* de d'Ouville a été publiée en 1646 par Cardin Besongne. Le volume que nous avons pris pour référence est un exemplaire de la Bibliothèque de la Sorbonne dont la cote est **Rra 8 = 475**.
 
@@ -986,10 +986,10 @@ Liste des corrections
 Rubrique personnages : NISE, Suivante de Liliane, amoureuse de Jodelet, ; rubrique personnages : JACINTE, Damoiselle Parisienne amoureuse de Tindare. ; rubrique personnages : ARIMANT, vieillard pere de Liliane. ; v. 115 : omission ; v. 140 : quil ; v. 173 : où ; v. 191 : méprise ; v. 408 : silence (pas de ponctuation) ; v. 416 : encor, ; v. 421 : ne le ; v. 480 : omission ; v. 482 : point (pas de ponctuation) ; v. 617 : trahis. ; v. 618 : obeïs, ; v. 692 : adresse (pas de ponctuation) ; v. 697 : doy. ; v. 748 : son ; v. 840 : bien ; v. 877 : advenir ; v. 879 : vid ; v. 898 : à ; v. 950 : pouvoir. ; v. 958 : magicien (pas de ponctuation) ; v. 968 : non, ; v. 1069 : ans ; v. 1084 : clein ; v. 1196 : Acaste ; v. 1219 : lé ; v. 1332 : amour ? ; v. 1404 : deviner. ; v. 1515 : ordonné ? ; v. 1519 : satisfait ? ; v. 1570 : Puis ; v. 1642 : pretens (pas de ponctuation) ; v. 1657 : grace (pas de ponctuation) ; v. 1747 : voir ? ; v. 1769 : dis-je ? ; v. 1788 : vueille ; v. 1792 : pouvoir ? ; entre les vers 1925 et 1926 : TINDARE. ; v. 1928 : veux ? ; v. 1965 : Maistresse. ; v. 1980 : frayeurs ?.
 
 
-# JODELET ASTROLOGUE, Comedie
+# JODELET ASTROLOGUE, Comedie.
 
 
-## A MESSIRE NICOLAS **BOURDIN**, CHEVALIER, SEIGNEUR DE VILLENNES. [25]
+## A MESSIRE NICOLAS **BOURDIN**, CHEVALIER, SEIGNEUR DE VILLENNES. [25].
 
 MONSIEUR,
 
@@ -1515,7 +1515,7 @@ Et ne te voir jamais si l'on le sçait par moy.
     NISE.
 Va, je suis resoluë, et quasi⁎ je te croy.  
 
-    JODELET
+    JODELET.
 Parle donc librement, et sans aucun scrupule.  
 
     NISE.
@@ -1795,13 +1795,13 @@ Cela n'est point, Madame, et je vous le proteste.
 Des valets langagers [75] sont pires que la peste,  
 Dieux à qui me fiois-je ?  
 
-    JODELET* à Timandre.*
+    JODELET* à Timandre.*.
         Ah vous avez grand tort !  
 
     LILIANE *à Nise*.
 Sans doute tu seras la cause de ma mort.  
 
-    JODELET *à Timandre.*
+    JODELET *à Timandre.*.
 Cette fille en patit, voyez que l'on l'accuse.  
 Ah Dieux qu'avez-vous dit !  
 
@@ -1825,10 +1825,10 @@ Si quelqu'un vous a fait ce faux rapport⁎ de moy
 Sans doute il a menty, car jamais en ma vie,  
 Et me croyez, madame, il ne m'en prist envie.  
 
-    JODELET *à Timandre.*
+    JODELET *à Timandre.*.
 J'ay conceu dans moy-mesme un tour assez plaisant.  
 
-    TIMANDRE *à Jodelet.*
+    TIMANDRE *à Jodelet.*.
 Je t'ay tousjours cognu l'esprit assez present [77],  
 Va, va, je t'ayderay.  
 
@@ -1982,7 +1982,7 @@ Que deviendray-je, ô Dieux ! je suis tout hors de moy.
 Aurez-vous desormais des doutes de ma foy⁎.  
 Pourrez-vous m'accuser que je vous ay venduë ?  
 
-    JODELET *bas à Timandre.*
+    JODELET *bas à Timandre.*.
 La fourbe⁎ est excellente, et quasi⁎ je l'ay creuë,  
 Tant vous l'avez, Monsieur, sceu peindre adroitement.  
 
@@ -2552,7 +2552,7 @@ Il vous contentera là dessus que je croy.
     JACINTE.
 Voyons ce qu'il m'escrit.  
 
-    ARISTE *bas durant qu'elle lit.*
+    ARISTE *bas durant qu'elle lit.*.
         Il faut prendre courage,  
 Je ne doy point sans doute attendre davantage,  
 Mais que peut, justes Dieux ! contenir cet escrit ?  
@@ -2887,7 +2887,7 @@ Le nom de vostre Amant.
         Il s'appelle Tindare,  
 Depuis six mois entiers il est absent d'ici.  
 
-    TIMANDRE *bas à Jodelet.*
+    TIMANDRE *bas à Jodelet.*.
 Jodelet, que t'en semble ? escoutes-tu ceci ?  
 
     JODELET *bas*.
@@ -2967,7 +2967,7 @@ Quel espoir il me donne, ah ! j'ay l'ame ravie.
     TIMANDRE.
 Il peut facilement contenter vostre envie.  
 
-    JODELET *avec plume et papier.*
+    JODELET *avec plume et papier.*.
 Escrivez à present.  
 
     JACINTE.
@@ -3255,7 +3255,7 @@ J'ay desiré vous voir, et non pas vous parler.
 Il n'est plus temps de feindre et de dissimuler,  
 Madame, permettez qu'ici je vous embrasse.  
 
-    JACINTE *troublée.*
+    JACINTE *troublée.*.
 Que vois-je ? justes Dieux ! retirez-vous de grace ?  
 Sortez d'icy, Tindare, et ne m'approchez pas.  
 
@@ -3708,7 +3708,7 @@ Fin du quatriesme Acte.
 ## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 TIMANDRE, ACASTE.
 
 
@@ -3971,7 +3971,7 @@ AH Dieux ! c'est Arimant, il me pourroit confondre,
 Il vient m'interroger, je ne pourrois respondre,  
 Je ne l'attendray point, je ne suis pas si sot.  
 
-    ARIMANT *le retenant.*
+    ARIMANT *le retenant.*.
 Jodelet, escoutez, je veux vous dire un mot.  
 
     JODELET.
@@ -4373,7 +4373,7 @@ Nise, et que l'on nous serve à souper promptement.
 Nise sort.
 
 
-    MORON *derriere.*
+    MORON *derriere.*.
 Dieux ! je vole par l'air assez legerement,  
 Je suis desja bien loin de Paris, ce me semble,  
 Je crois ouïr des gens qui discourent ensemble.  
@@ -4458,7 +4458,7 @@ Dieux ! qui de ce danger me pourra garantir ?
 Je suis prez de chez moy, je me le persuade [178]  
 Par ce bruict que j'entens.  
 
-    ARISTE *descouvrant Moron.*
+    ARISTE *descouvrant Moron.*.
         Sur cette palissade  
 J'aperçoy, ce me semble, un homme garoté.  
 
@@ -4505,7 +4505,7 @@ Le charme t'a manqué.
     ARIMANT *à Jacinte*.
 Cherchons cet affronteur, Madame, je vous prie.  
 
-    TINDARE *se monstrant.*
+    TINDARE *se monstrant.*.
 Pardonnez, Arimant, à mon effronterie,  
 C'est moy, ne cherchez pas davantage, Monsieur.  
 
@@ -4536,10 +4536,10 @@ Que Tindare est à moy, que je suis à Tindare,
 Et si vous ne voulez approuver nostre amour,  
 Privez-nous sur le champ de la clarté du jour.  
 
-    ARIMANT* à Timandre.*
+    ARIMANT* à Timandre.*.
 En cette extremité, Monsieur, que doy-je faire ?  
 
-    [TIMANDRE.]
+    [TIMANDRE.].
 Puis qu'ils s'aiment si fort, il les faut satisfaire,  
 Approuvez leurs amours et secondez leurs vœux⁎.  
 
@@ -4653,20 +4653,20 @@ Que je ne suis devin, Astrologue⁎, ny sot.
 Fin de la Comedie de Jodelet Astrologue.
 
 
-# LexiqueAborder« Approcher quelqu'un pour lui parler », *Furetière*.V. 145, 365, 724, 1362Abuser« Tromper », *Furetière*.V. 794, 803, 907, 982, 1228, 1394Astrologie« Science conjoncturale qui enseigne à juger des effets et des influences des astres et a prédire les événements par la situation des Planètes, et par leurs differents aspects. … Tout le monde convient enfin que l'astrologie est une science vaine et incertaine » *Furetière*.V. 567, 863, 1095, 1501, 1845, 1961Astrologue« Qui prédit les événements par le moyen des Astres, et d'un  horoscope, ou figure du ciel qu'il dresse. On appelle aussi Astrologue tous les faiseurs d'Almanacs, devins et charlatans qui se mêlent de prédire par les moyen des astres », *Furetière*. V. 490, 780,  1473, 1494, 1840, 1996Autant vaut« On dit … autant vaut pour dire qu'une chose est presque achevée », *Furetière*.V. 931, 1279Aymable ou aimable« Qui a des qualités qui attirent l'amour », *Furetière*.V. 246, 1065Brave« Excellent en sa profession, qui fait toutes choses de manière noble et honnête. Cette qualité ne doit etre attribue qu'à un home d'épée », *Furetière*.V. 46, 195, 249, 609, 1967Braver« Choquer, mépriser quelqu'un, le traiter de haut en bas, l'insulter, le gourmander », *Furetière*.V. 211, 344, 582  CavalierHomme de haute naissance. Acteurs, v. 41, 46, 62, 289, 609, 1012, 1087, 1360, 1686, 1694 CéansIci, dans ce lieu.V. 1201, 1257, 1429, 1704, 1875Celer« Tenir quelque chose cachée, et secrette ; dissimuler ; taire », *Furetière*.V. 79, 266, 310, 421, 579, 697, 702, 1415Change« Se dit aussi en Morale et signifie changement. Un Amant a recours au change quand il est maltraité », *Furetière*.V. 764, 1802Cœur« Signifie quelquefois vigueur, force, courage, intrépidité », *Furetière*. V. 1002, 1138, 1273« Fierté. Manière d'âme généreuse et incapable de faiblesse et de lâcheté. Caractère d'âme plein de bonté, de tendresse, de générosité et d'amitié », *Richelet*.V. 349, 1803Compliment« Civilité, ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions », *Furetière*.V. 152, 731, 1703 Courage« Cœur », *Richelet*.V. 68, 1543Decevoir« Tromper adroitement », *Furetière*.V. 802, 1109, 1335Désobliger« Faire quelque deplaisir a quelqu'un, quelque incivilité, lui rendre mauvais office », *Furetière*.V. 174, 759Discret« Qui est sage et retenu, dans ses paroles et dans ses actions ; avisé, prudent, judicieux, circonspect. L'honnête homme est discret. », *Furetière*. V. 42, 247, 289, 609, 1126, 1213 Ennui ou Ennuy« Chagrin, fâcherie, tristesse, déplaisir », *Furetière*. V. 662, 934, 942, 1062, 1078, 1090, 1790Estonner« Épouvanter, surprendre d'une manière qui touche », *Richelet*.V. 539, 606, 813, 853, 869, 1447, 1748, 1756, 1830Exciter« Provoquer, causer quelque effet », *Furetière*.V. 32, 1582Fait (bien ou mal)« Se dit de celui qui a bonne ou mauvaise mine, qui est de belle ou de vilaine taille », *Furetière*.V. 41, 246, 861, 1747 Fascher (se)« Choquer, offenser quelqu'un, lui donner un sujet de chagrin, ou de colère », *Furetière*.V. 35, 193, 491, 503, 773, 1351Fascheux« Qui donne de la fâcherie, qui cause de l'ennui, de la peine et de la difficulté » V. 1332, 1454, 1541Feu(x)« Se dit figurément de l'ardeur, et de la violence des passions, et des mouvements impétueux de l'âme », *Académie*.V. 204, 1192, 1525Flame« Amour, passion », *Richelet*. V. 28, 48, 92, 368, 617, 628, 948, 1525, 1806, 1945, 1990Fortune « Hazard », *Richelet*.V. 599, 1180« Bonheur », *Richelet*.V. 159, 1789Fourbe« Tromperie, déguisement de la vérité fait avec adresse », *Furetière*. V. 604, 846, 1250, 1418Foy« Assurance, promesse, serment, parole qu'on donne de faire quelque chose et de l'exécuter », *Furetière*. V. 70, 234, 602, 838, 1134, 1229, 1299, 1584, 1872« Serment, manière de jurement », *Richelet*.V. 261, 1668, 1847« Créance, assurance, témoignage », *Richelet*.V. 1031GalandSubstantif : « amant qui se donne tout entier au service d'une maîtresse », *Furetière*.V. 516, 1427Adjectif : « se dit aussi d'un homme qui a l'air de la Cour, les manières  agréables, qui tâche à plaire, et particulièrement au beau sexe », *Furetière*.V. 50, 246, 289  Heur« Bonheur, bonne fortune. Ce mot est bas et commence à être de peu d'usage », *Furetière*.V. 17, 879, 880, 892, 980, 1343, 1605, 1617, 1932, 1970 Humeur« L'humeur est une des qualités du tempérament. Certaine disposition d'esprit, fantaisie, naturel. », *Richelet*.V. 126, 130, 135, 244, 337, 437Hymen ou Hyménée« Mariage », *Furetière*.V. 1452, 1454, 1544, 1938Inclination« Se dit de l'amour », *Furetière*.V. 37, 1094Industrie« Dextérité, invention, adresse à faire réussir quelque chose, quelque dessein, quelque travail », *Furetière*.V. 955, 1023, 1534Infame« Qui est sans honneur, qui ne mérite aucune estime dans le monde », *Furetière*.V. 458, 583, 1881Interdire« Se dit aussi de ceux qui se troublent, qui sétonnent, qui ne sauraient parler raisonnablement », *Furetière*.V. 334, 1181, 1908Je vous baise les mains« On dit proverbialement, *je vous baise les mains*, pour dire, je me recommande à vous, ou je vous remercie », *Furetière*.V. 647, 1155, 1396, 1639, 1704LascheSubstantif : « un lasche est celui qui n'a pas de fermeté de cœur, de générosité, d'honnêteté », *Furetière*.V. 759, 1559Adjectif : « qui est bas et honteux ; qui est sans honneur, qui est infame », *Furetière*.V. 116, 349, 504, 1695Lors« Adv. de temps qui signifie alors, en ce temps là », *Furetière*.V. 85, 164, 165, 301, 313, 362, 553, 715, 885, 1592, 1832Mander« Écrire à quelqu'un ou lui envoyer un message pour lui faire savoir quelque chose, pour le prier, le charger de faire quelque affaire », *Furetière*.V. 730, 1304, 1308, 1443, 1799Maraut« Terme injurieux qui se dit des gueux, des coquins, des fripons, des belitres, qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lachetés », *Furetière*.V. 485, 583Mérite« Assemblage de plusieurs vertus, ou de bonnes qualités en quelque personne, qui lui attire de l'estime, et de la consideration » *Furetiere*.V. 51, 195Mine« Physionomie, extérieur », *Furetière*.V. 1507« Air, disposition de corps, et sur tout du visage, qui fait juger en quelque façon de l'intérieur par l'extérieur. On juge à la *mine*, à la physionomie d'une personne, de ses bonnes, ou mauvaises qualités », *Furetière*.V. 42« On dit faire bonne mine en parlant de la contenance que l'on tient pour quelque dessein », *Furetière*.V. 1677Objet« Chose où l'on arrête sa pensée, son cœur, son but ou son dessein », Richelet.V. 38, 705, 706, 1525, 1540« Se dit poétiquement des belles personnes qui donnent de l'amour », Furetière. V. 297, 710, 746, 1187, 1190, 1575, 1804Obligé« Redevable », *Furetière*.V. 1365, 1386, 1491Obliger« Signifie plus généralement faire quelque faveur, quelque plaisir, rendre un bon office », *Furetière*.V. 714, 893, 1051, 1412, 1685, 1705, 1935OccasionLe mot doit être pris au sens étymologique de *ce qui arrive*. V. 56, 442, 455, 1093, 1228, 1327, 1539Office« Secours, ou devoir reciproque de la vie civile, service, plaisir », *Furetière*.V. 357, 1004, 1365, 1645, 1701PerdreSignifie parfois « détruire, ruiner, décrier », *Furetière*. V. 4, 11, 308, 358, 610, 639, 643, 1852, 1885Pour lors« Alors, en ce temps là », *Furetière*.V. 890, 974QuasiPresque.V. 282, 604Rapport« Le récit d'une chose qui s'est passée, … que l'on a vue », *Richelet*. V. 117, 334, 470, 478Rare« Qui arrive peu souvent, qui ne se trouve pas ordinairement. Excellent, précieux, singulier, extraordinaire », *Richelet*. V. 51, 511, 554, 564, 571, 717, 724, 746, 808, 832, 859, 1111, 1187, 1252, 1262, 1503, 1565, 1949Rebuter« Mépriser, rejetter quelque chose », *Furetière*. V. 40, 57, 149, 638, 1946« Dégoûter, empêcher de poursuivre quelque dessein », *Furetière*.V. 1632 Recouvrer« Retrouver », *Furetière*.V. 216, 1689Rencontrer« Signifie aussi réussir en affaires, en ses conjectures », *Furetière*. V. 822, 826Resver« Se dit de ceux qui en veillant font ou disent des extravagances », *Furetière*. V. 145, 965, 1782, 1913« Signifie aussi méditer, appliquer sérieusement son esprit a raisonner sur quelque chose, à trouver quelque moyen, quelque invention », *Furetière*.V. 886, 1678 Sage« Se dit aussi de plusieurs bonnes qualités par relation aux personnes. Si c'est un homme fait, *sage* signifie prudent, qui agit avec circonspection, qui donne de sages conseils », *Furetière*.V. 21, 289, 1213Service« Offices galands rendus à une Dame afin de lui plaire », *Richelet*. V. 1618, 1634, 1646Renvoie au service amoureux qu'un galand rend à une Dame et qui consiste à faire plaisir à sa Dame, la défendre et la soutenir.V. 512, 1003ServirSignifie, dans le vocabulaire amoureux, apporter ses soins, son attention à sa maîtresse.V. 717Signifie être au service d'un supérieur (souvent dans la bouche des valets). V. 265, 599, 1719Severe« À l'égard des femmes, signifie particulièrement cruelle, insensible, dont le cœur est inaccessible aux Amants », *Furetière*.V. 131, 243Soin« Diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à la perfectionner », *Furetière*.V. 208, 358Soucy ou SouciSens fort d'inquiétude. V. 378, 466, 705, 766, 1070, 1455, 1660, 1716, 1736, 1972Souffrir« Supporter », *Richelet*.V. 103, 125, 178, 772, 1293 « Ne pas s'opposer à une chose, y consentir tacitement, la tolérer. », *Furetière*. V. 185, 477, 505, 1803« Permettre », *Académie*.V. 55, 128 Sus et sus donc« Peut s'employer comme interjection, ou par exclamation… ; pour exciter quelqu'un à prendre courage. … Tout cela est du style populaire et par conséquent il ne peut plus avoir d'usage que dans le comique et le burlesque », *Furetière*.V. 25, 1677, 1897Tantost« En un moment, tout à l'heure », *Richelet*.V. 685, 868, 1148, 1153, 1220, 1236, 1410, 1442, 1687Tenir« Estimer », *Richelet*. V. 397, 446, 626, 676, 757, 900, 1531, 1744, 1754, 1863Tout de bon« Adv. sérieusement, en vérité, sans raillerie », *Richelet*.V. 905, 1400Trancher (de quelque chose)« Se dit … ironiquement des fanfarons, de ceux qui affectent de paraitre plus qu'ils ne sont », *Furetière*.V. 372, 439Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions », *Furetière*.V. 451, 708, 739Transporter« Se dit des violentes agitations de l'esprit », *Furetière*.V. 147, 912Vayn ou vain« En Morale signifie, glorieux, superbe, qui a une bonne opinion de lui-même », *Furetière*.V. 187, 371, 444, 939Vœu« Souhait, désir », *Furetière*.V. 1927, 1992« Hommage », *Furetière*.V. 88, 369, 1366
+# Lexique.Aborder« Approcher quelqu'un pour lui parler », *Furetière*.V. 145, 365, 724, 1362Abuser« Tromper », *Furetière*.V. 794, 803, 907, 982, 1228, 1394Astrologie« Science conjoncturale qui enseigne à juger des effets et des influences des astres et a prédire les événements par la situation des Planètes, et par leurs differents aspects. … Tout le monde convient enfin que l'astrologie est une science vaine et incertaine » *Furetière*.V. 567, 863, 1095, 1501, 1845, 1961Astrologue« Qui prédit les événements par le moyen des Astres, et d'un  horoscope, ou figure du ciel qu'il dresse. On appelle aussi Astrologue tous les faiseurs d'Almanacs, devins et charlatans qui se mêlent de prédire par les moyen des astres », *Furetière*. V. 490, 780,  1473, 1494, 1840, 1996Autant vaut« On dit … autant vaut pour dire qu'une chose est presque achevée », *Furetière*.V. 931, 1279Aymable ou aimable« Qui a des qualités qui attirent l'amour », *Furetière*.V. 246, 1065Brave« Excellent en sa profession, qui fait toutes choses de manière noble et honnête. Cette qualité ne doit etre attribue qu'à un home d'épée », *Furetière*.V. 46, 195, 249, 609, 1967Braver« Choquer, mépriser quelqu'un, le traiter de haut en bas, l'insulter, le gourmander », *Furetière*.V. 211, 344, 582  CavalierHomme de haute naissance. Acteurs, v. 41, 46, 62, 289, 609, 1012, 1087, 1360, 1686, 1694 CéansIci, dans ce lieu.V. 1201, 1257, 1429, 1704, 1875Celer« Tenir quelque chose cachée, et secrette ; dissimuler ; taire », *Furetière*.V. 79, 266, 310, 421, 579, 697, 702, 1415Change« Se dit aussi en Morale et signifie changement. Un Amant a recours au change quand il est maltraité », *Furetière*.V. 764, 1802Cœur« Signifie quelquefois vigueur, force, courage, intrépidité », *Furetière*. V. 1002, 1138, 1273« Fierté. Manière d'âme généreuse et incapable de faiblesse et de lâcheté. Caractère d'âme plein de bonté, de tendresse, de générosité et d'amitié », *Richelet*.V. 349, 1803Compliment« Civilité, ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions », *Furetière*.V. 152, 731, 1703 Courage« Cœur », *Richelet*.V. 68, 1543Decevoir« Tromper adroitement », *Furetière*.V. 802, 1109, 1335Désobliger« Faire quelque deplaisir a quelqu'un, quelque incivilité, lui rendre mauvais office », *Furetière*.V. 174, 759Discret« Qui est sage et retenu, dans ses paroles et dans ses actions ; avisé, prudent, judicieux, circonspect. L'honnête homme est discret. », *Furetière*. V. 42, 247, 289, 609, 1126, 1213 Ennui ou Ennuy« Chagrin, fâcherie, tristesse, déplaisir », *Furetière*. V. 662, 934, 942, 1062, 1078, 1090, 1790Estonner« Épouvanter, surprendre d'une manière qui touche », *Richelet*.V. 539, 606, 813, 853, 869, 1447, 1748, 1756, 1830Exciter« Provoquer, causer quelque effet », *Furetière*.V. 32, 1582Fait (bien ou mal)« Se dit de celui qui a bonne ou mauvaise mine, qui est de belle ou de vilaine taille », *Furetière*.V. 41, 246, 861, 1747 Fascher (se)« Choquer, offenser quelqu'un, lui donner un sujet de chagrin, ou de colère », *Furetière*.V. 35, 193, 491, 503, 773, 1351Fascheux« Qui donne de la fâcherie, qui cause de l'ennui, de la peine et de la difficulté » V. 1332, 1454, 1541Feu(x)« Se dit figurément de l'ardeur, et de la violence des passions, et des mouvements impétueux de l'âme », *Académie*.V. 204, 1192, 1525Flame« Amour, passion », *Richelet*. V. 28, 48, 92, 368, 617, 628, 948, 1525, 1806, 1945, 1990Fortune « Hazard », *Richelet*.V. 599, 1180« Bonheur », *Richelet*.V. 159, 1789Fourbe« Tromperie, déguisement de la vérité fait avec adresse », *Furetière*. V. 604, 846, 1250, 1418Foy« Assurance, promesse, serment, parole qu'on donne de faire quelque chose et de l'exécuter », *Furetière*. V. 70, 234, 602, 838, 1134, 1229, 1299, 1584, 1872« Serment, manière de jurement », *Richelet*.V. 261, 1668, 1847« Créance, assurance, témoignage », *Richelet*.V. 1031GalandSubstantif : « amant qui se donne tout entier au service d'une maîtresse », *Furetière*.V. 516, 1427Adjectif : « se dit aussi d'un homme qui a l'air de la Cour, les manières  agréables, qui tâche à plaire, et particulièrement au beau sexe », *Furetière*.V. 50, 246, 289  Heur« Bonheur, bonne fortune. Ce mot est bas et commence à être de peu d'usage », *Furetière*.V. 17, 879, 880, 892, 980, 1343, 1605, 1617, 1932, 1970 Humeur« L'humeur est une des qualités du tempérament. Certaine disposition d'esprit, fantaisie, naturel. », *Richelet*.V. 126, 130, 135, 244, 337, 437Hymen ou Hyménée« Mariage », *Furetière*.V. 1452, 1454, 1544, 1938Inclination« Se dit de l'amour », *Furetière*.V. 37, 1094Industrie« Dextérité, invention, adresse à faire réussir quelque chose, quelque dessein, quelque travail », *Furetière*.V. 955, 1023, 1534Infame« Qui est sans honneur, qui ne mérite aucune estime dans le monde », *Furetière*.V. 458, 583, 1881Interdire« Se dit aussi de ceux qui se troublent, qui sétonnent, qui ne sauraient parler raisonnablement », *Furetière*.V. 334, 1181, 1908Je vous baise les mains« On dit proverbialement, *je vous baise les mains*, pour dire, je me recommande à vous, ou je vous remercie », *Furetière*.V. 647, 1155, 1396, 1639, 1704LascheSubstantif : « un lasche est celui qui n'a pas de fermeté de cœur, de générosité, d'honnêteté », *Furetière*.V. 759, 1559Adjectif : « qui est bas et honteux ; qui est sans honneur, qui est infame », *Furetière*.V. 116, 349, 504, 1695Lors« Adv. de temps qui signifie alors, en ce temps là », *Furetière*.V. 85, 164, 165, 301, 313, 362, 553, 715, 885, 1592, 1832Mander« Écrire à quelqu'un ou lui envoyer un message pour lui faire savoir quelque chose, pour le prier, le charger de faire quelque affaire », *Furetière*.V. 730, 1304, 1308, 1443, 1799Maraut« Terme injurieux qui se dit des gueux, des coquins, des fripons, des belitres, qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lachetés », *Furetière*.V. 485, 583Mérite« Assemblage de plusieurs vertus, ou de bonnes qualités en quelque personne, qui lui attire de l'estime, et de la consideration » *Furetiere*.V. 51, 195Mine« Physionomie, extérieur », *Furetière*.V. 1507« Air, disposition de corps, et sur tout du visage, qui fait juger en quelque façon de l'intérieur par l'extérieur. On juge à la *mine*, à la physionomie d'une personne, de ses bonnes, ou mauvaises qualités », *Furetière*.V. 42« On dit faire bonne mine en parlant de la contenance que l'on tient pour quelque dessein », *Furetière*.V. 1677Objet« Chose où l'on arrête sa pensée, son cœur, son but ou son dessein », Richelet.V. 38, 705, 706, 1525, 1540« Se dit poétiquement des belles personnes qui donnent de l'amour », Furetière. V. 297, 710, 746, 1187, 1190, 1575, 1804Obligé« Redevable », *Furetière*.V. 1365, 1386, 1491Obliger« Signifie plus généralement faire quelque faveur, quelque plaisir, rendre un bon office », *Furetière*.V. 714, 893, 1051, 1412, 1685, 1705, 1935OccasionLe mot doit être pris au sens étymologique de *ce qui arrive*. V. 56, 442, 455, 1093, 1228, 1327, 1539Office« Secours, ou devoir reciproque de la vie civile, service, plaisir », *Furetière*.V. 357, 1004, 1365, 1645, 1701PerdreSignifie parfois « détruire, ruiner, décrier », *Furetière*. V. 4, 11, 308, 358, 610, 639, 643, 1852, 1885Pour lors« Alors, en ce temps là », *Furetière*.V. 890, 974QuasiPresque.V. 282, 604Rapport« Le récit d'une chose qui s'est passée, … que l'on a vue », *Richelet*. V. 117, 334, 470, 478Rare« Qui arrive peu souvent, qui ne se trouve pas ordinairement. Excellent, précieux, singulier, extraordinaire », *Richelet*. V. 51, 511, 554, 564, 571, 717, 724, 746, 808, 832, 859, 1111, 1187, 1252, 1262, 1503, 1565, 1949Rebuter« Mépriser, rejetter quelque chose », *Furetière*. V. 40, 57, 149, 638, 1946« Dégoûter, empêcher de poursuivre quelque dessein », *Furetière*.V. 1632 Recouvrer« Retrouver », *Furetière*.V. 216, 1689Rencontrer« Signifie aussi réussir en affaires, en ses conjectures », *Furetière*. V. 822, 826Resver« Se dit de ceux qui en veillant font ou disent des extravagances », *Furetière*. V. 145, 965, 1782, 1913« Signifie aussi méditer, appliquer sérieusement son esprit a raisonner sur quelque chose, à trouver quelque moyen, quelque invention », *Furetière*.V. 886, 1678 Sage« Se dit aussi de plusieurs bonnes qualités par relation aux personnes. Si c'est un homme fait, *sage* signifie prudent, qui agit avec circonspection, qui donne de sages conseils », *Furetière*.V. 21, 289, 1213Service« Offices galands rendus à une Dame afin de lui plaire », *Richelet*. V. 1618, 1634, 1646Renvoie au service amoureux qu'un galand rend à une Dame et qui consiste à faire plaisir à sa Dame, la défendre et la soutenir.V. 512, 1003ServirSignifie, dans le vocabulaire amoureux, apporter ses soins, son attention à sa maîtresse.V. 717Signifie être au service d'un supérieur (souvent dans la bouche des valets). V. 265, 599, 1719Severe« À l'égard des femmes, signifie particulièrement cruelle, insensible, dont le cœur est inaccessible aux Amants », *Furetière*.V. 131, 243Soin« Diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à la perfectionner », *Furetière*.V. 208, 358Soucy ou SouciSens fort d'inquiétude. V. 378, 466, 705, 766, 1070, 1455, 1660, 1716, 1736, 1972Souffrir« Supporter », *Richelet*.V. 103, 125, 178, 772, 1293 « Ne pas s'opposer à une chose, y consentir tacitement, la tolérer. », *Furetière*. V. 185, 477, 505, 1803« Permettre », *Académie*.V. 55, 128 Sus et sus donc« Peut s'employer comme interjection, ou par exclamation… ; pour exciter quelqu'un à prendre courage. … Tout cela est du style populaire et par conséquent il ne peut plus avoir d'usage que dans le comique et le burlesque », *Furetière*.V. 25, 1677, 1897Tantost« En un moment, tout à l'heure », *Richelet*.V. 685, 868, 1148, 1153, 1220, 1236, 1410, 1442, 1687Tenir« Estimer », *Richelet*. V. 397, 446, 626, 676, 757, 900, 1531, 1744, 1754, 1863Tout de bon« Adv. sérieusement, en vérité, sans raillerie », *Richelet*.V. 905, 1400Trancher (de quelque chose)« Se dit … ironiquement des fanfarons, de ceux qui affectent de paraitre plus qu'ils ne sont », *Furetière*.V. 372, 439Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions », *Furetière*.V. 451, 708, 739Transporter« Se dit des violentes agitations de l'esprit », *Furetière*.V. 147, 912Vayn ou vain« En Morale signifie, glorieux, superbe, qui a une bonne opinion de lui-même », *Furetière*.V. 187, 371, 444, 939Vœu« Souhait, désir », *Furetière*.V. 1927, 1992« Hommage », *Furetière*.V. 88, 369, 1366
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Textes de référence
+## Textes de référence.
     Le Feint Astrologue
 Le Médecin malgré lui
 The Fake Astrologer, a Critical Spanish Text and Translationet al.
 
 
 
-## Études sur d'Ouville et son œuvre
+## Études sur d'Ouville et son œuvre.
     Romances Notes
 XVII*e* siècle
 Scarron inconnu et les types des personnages du roman comique
@@ -4679,7 +4679,7 @@ Historiettes
 
 
 
-## Ouvrages généraux sur le XVII*e* siècle
+## Ouvrages généraux sur le XVII*e* siècle.
     Littérature française – L'Âge classique I, 1624-1660
 L'Histoire de la mise en scène dans le théâtre français de 1600 à 1657
 Le Théâtre du Marais
@@ -4693,7 +4693,7 @@ Histoire du théâtre français depuis son origine jusqu'à présent
 
 
 
-## Études générales sur la comédie en France au XVII*e* siècle
+## Études générales sur la comédie en France au XVII*e* siècle.
     Les Sources de Molière
 Lire la comédie
 La Comédie avant Molière
@@ -4701,7 +4701,7 @@ La Comédie classique en France. De Jodelle à Beaumarchais
 
 
 
-## Ouvrages sur le théâtre espagnol et son influence
+## Ouvrages sur le théâtre espagnol et son influence.
     Histoire du théâtre espagnol
 La Littérature espagnole
 Le Masque et le visage. Du baroque espagnol au classicisme français
@@ -4711,13 +4711,13 @@ Revue de Littérature comparée
 
 
 
-## Ouvrages sur le comédien Jodelet
+## Ouvrages sur le comédien Jodelet.
     *e*Revue d'histoire littéraire de la France
 Dictionnaire biographique des comédiens français du XVII*e* siècle
 
 
 
-## Dictionnaires et outils grammaticaux
+## Dictionnaires et outils grammaticaux.
     Dictionnairedel'AcadémieFrançoise
 Dictionnaire universel …
 Dictionnaire François …

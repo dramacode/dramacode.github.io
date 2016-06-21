@@ -17,14 +17,14 @@ A PARIS, Chez TOUSSAINCT QUINET, au Palais, sous la montée de la Cour des Aydes
       maîtrise sous la direction de Georges Forestier (2003-2004)
 
 
-# Introduction
+# Introduction.
 
 *L'Absent chez soy* est une comédie à l'espagnole écrite par d'Ouville, publiée en 1643 et imitée de la *comedia* de Lope de Vega, *El Ausente en el lugar*. Certes, beaucoup de comédies à l'espagnole ont été représentées et publiées au XVII*e* siècle, mais d'Ouville a le mérite d'être considéré comme l'initiateur de cette mode. Il adapte des comédies espagnoles à la scène française et renouvelle ainsi le théâtre français en y introduisant des intrigues et des caractères nouveaux.
 
 Un père qui surprend sa fille en compagnie d'un jeune homme qu'il prend pour son amant l'oblige à l'épouser sous le regard désespéré du véritable amant caché et impuissant. Voilà le point de départ d'une intrigue pleine de vitalité et de mouvement dont quelques scènes particulièrement piquantes et amusantes ont pu inspirer Molière.
 
 
-# Éléments de biographie
+# Éléments de biographie.
 
 Antoine Le Métel, sieur d'Ouville, serait né en 1587 à Rouen, selon James Wilson Coke [1]. Contrairement à certains historiens de la littérature qui affirment qu'il serait né en 1590 à Caen, James Wilson Coke pense que d'Ouville est né avant 1589. D'Ouville est le fils d'un procureur de la Cour des Aydes de Rouen et il est le frère de François Le Métel, abbé de Boisrobert. On ne connaît pas grand-chose de sa vie avant la création de sa première pièce, *Les Trahizons d'Arbiran*, en 1637. On sait qu'il a beaucoup d'intérêt pour les langues étrangères qu'il étudie depuis 1616, avec une préférence pour l'Espagnol. Boisrobert dit de lui qu'il était : « l'homme de toute la France qui parloit le mieux Espagnol. » [2]
 
@@ -48,7 +48,7 @@ D'Ouville est considéré comme l'introducteur de la comédie à l'espagnole en 
 Quant à l'éditeur de *L'Absent chez soy*, Toussainct Quinet, c'est un libraire du Palais à la réputation fameuse. Il publie beaucoup de nouveautés, à sa mort, en 1652, il possède plus de vingt mille pièces de théâtre dans ses magasins.
 
 
-# La représentation de L'Absent chez soy
+# La représentation de L'Absent chez soy.
 
 La question de la représentation de la pièce pose problème. Nous n'avons pas trouvé de traces certaines de sa représentation. Il est peu probable qu'elle n'ait pas été représentée. On sait que plusieurs œuvres de d'Ouville ont été jouées à l'Hôtel de Bourgogne. Plusieurs d'entre elles apparaissent dans *Le Mémoire de Mahelot : L'Esprit folet, Les Fausses Véritez, Les Trahizons d'Arbiran, La Dame suivante, Jodelet astologue, La Coiffeuse à la mode*. Il cite des pièces antérieures et postérieures à *L'Absent chez soy* mais ne mentionne pas cette comédie. De même, Sophie Wilma Deierkauf-Holsbœr, dans *Le Théâtre de l'Hôtel de Bourgogne*, ne parle pas de la représentation de *L'Absent chez soy* mais écrit cependant : « D'Ouville (…) dont les pièces ont été jouées par la troupe royale. » [8]
 
@@ -67,27 +67,27 @@ James Wilson Coke [10] signale, au contraire, l'insuccès de *L'Absent chez soy*
 Quant à la date de représentation de cette pièce, les auteurs qui l'évoquent s'accordent à dire qu'elle aurait eu lieu en 1642. Lancaster juge que la guerre des Flandres mentionnée par d'Ouville et qui s'étend 1639 à 1641, a probablement eu lieu peu avant la première représentation de la comédie [11]. Il situe donc la création de la pièce entre 1642 et 1643. Antoine de Leris, les frères Parfaict ainsi que le *Parfait Dictionnaire*, avancent la date de 1643. Cependant, la représentation et le lieu de la représentation de cette comédie restent incertains, les deux historiens de la littérature qui en font état ne donnent aucune grande précision ni certitude.
 
 
-# Résumé de l'action de la source espagnole
+# Résumé de l'action de la source espagnole.
 
 D'Ouville imite une *comedia* de Lope de Vega, *El Ausente en el lugar*, qui date de 1617. Avant d'étudier la manière dont d'Ouville adapte son modèle à la scène française et aux exigences du théâtre français, résumons l'intrigue de Lope de Vega.
 
 
-## Acte [12] I
+## Acte [12] I.
 
 Au lever du rideau, Elisa, en compagnie de sa suivante, Paula, et de son valet, Marquina, s'entretient avec Laurencia, elle aussi accompagnée de sa suivante, Sabina, et de son valet Maese Juan. Les deux jeunes femmes se sont rencontrées à l'église et se sont lié d'amitié, tout comme les deux servantes ainsi que les deux valets. Elisa, dont le père n'est pas très fortuné, est amoureuse d'un cavalier, Carlos. Sa servante Paula aime le valet de Carlos, Esteban. De son côté, Laurencia aime Feliciano, un jeune homme volage, sa suivante Sabina est amoureuse du valet de Feliciano, Fisberto. Maese Juan et Marquina se plaignent de leur condition de valet et, au cours de cette conversation, Marquina révèle qu'il est poète à ses heures. Laurencia promet à Elisa d'envoyer Feliciano chez elle afin qu'elle fasse sa connaissance. Feliciano, venu voir Laurencia, aperçoit Elisa et s'éprend de cette dernière. Passent alors Carlos et Esteban, Feliciano saisit l'occasion pour dire à Fisberto tout le mépris qu'il a pour Carlos qui a le défaut d'être pauvre. Puis, c'est Esteban qui dresse un portrait dépréciatif de Feliciano à Carlos en soulignant son infidélité en amour et sa vanité. Carlos et Esteban profitent de l'absence du père d'Elisa, Aurelio, et de son frère, Octavio, pour aller chez la jeune fille. En effet, Aurelio a décidé de s'éloigner de chez lui, de faire mine d'aller aux champs, pour s'entretenir avec son fils de l'amour d'Elisa. Aurelio n'approuve pas le choix de sa fille, il juge que Carlos n'est pas assez riche. Octavio avoue alors à son père qu'il est amoureux de Laurencia. Lorsque Feliciano, déguisé en valet, se rend chez Elisa, celle-ci demande à Carlos et Esteban de se cacher car elle juge indécent qu'on trouve un homme chez elle. Carlos et Esteban entendent donc toute la conversation : Feliciano déclare son amour à la jeune femme qui le repousse et lui demande de partir. À ce moment-là, arrivent Aurelio et Octavio qui surprennent Feliciano chez Elisa et l'obligent à épouser la jeune fille. Feliciano accepte, sur les conseils de son valet, davantage par couardise que par amour. Une fois tout le monde parti, Carlos sort de sa cachette furieux, quitte Elisa en déclarant qu'il part à la guerre, malgré les tentatives de sa maîtresse pour lui faire comprendre qu'elle n'a pas d'autre choix que d'obéir à son père. Esteban imite son maître et quitte Paula. Feliciano et Fisberto se rendent chez Laurencia pour lui apprendre la nouvelle. Laurencia croit à un complot contre elle et rejette Feliciano. Ce dernier s'en soucie bien peu, car il est désormais décidé à épouser Elisa, mais à condition que la dot soit augmentée.
 
 
-## Acte II
+## Acte II.
 
 Carlos et Esteban préparent leur départ lorsque le Paula et Marquina arrivent. Paula apporte une lettre d'Elisa à Carlos lui demandant d'accepter de la revoir avant qu'il ne parte. Celui-ci, fâché et persuadé qu'Elisa aime Feliciano, déchire la lettre et renvoie Paula et Marquina, tandis qu'Esteban confie à Paula que son maître et lui ne quitteront pas les lieux. Seul avec son valet, Carlos regrette de ne pas avoir répondu à la lettre d'Elisa et décide d'aller voir la jeune fille le jour même. De son côté, Laurencia se lamente d'avoir été abandonnée par Feliciano. Sabina lui conseille de se venger en épousant Carlos. Pour cela, Sabina suggère à sa maîtresse de faire venir Carlos en prétextant savoir qu'il prédit l'avenir. Ainsi, Laurencia lui demanderait de lui dire qui serait son mari, ce qui rapprocherait les deux jeunes gens délaissés et donnerait à Carlos l'idée de se venger d'Elisa en épousant Laurencia. Quant à Feliciano, il regrette d'avoir promis d'épouser Elisa car il pense que la dot est trop faible et qu'on le blâmera quand on saura qu'Aurelio l'a obligé à accepter ce mariage. C'est alors que Carlos va chez Elisa où se trouvent aussi Feliciano, Aurelio et Octavio. Il propose à Aurelio de lui confier son argent pour que celui-ci lui en fasse parvenir pendant son voyage. Il explique les raisons de son départ en prétextant la trahison d'un ami. Quand Elisa se retrouve seule avec Paula, elle décide de désobéir à son père et de faire son possible pour regagner l'amour de Carlos et l'empêcher de partir. Sa suivante lui conseille de le faire venir chez une amie. Elisa choisit d'aller chez Laurencia. Carlos s'y trouve à ce moment-là car Laurencia a suivi le plan de Sabina. Elle et Carlos sont décidés à se marier par vengeance. Esteban et Sabina ont fait de même. Lorsqu'Elisa arrive, Carlos et Esteban se cachent. Carlos, lorsqu'il entend la plainte d'Elisa, est convaincu de la fidélité de la jeune fille. Cependant, arrivent Octavio et Feliciano. Elisa et Paula vont se cacher et voient Carlos et Esteban. Octavio veut savoir si Laurencia l'aime et accepte de l'épouser. Laurencia repousse Octavio et Feliciano en leur disant qu'elle est promise à Carlos. Quand les deux jeunes gens s'en vont, Elisa s'enfuit avec Paula, toutes deux fort en colère contre leurs amants infidèles. Elisa promet à Carlos qu'elle épousera Feliciano sans plus attendre. Carlos et Esteban quittent Laurencia et Sabina pour suivre leurs maîtresses.
 
 
-## Acte III
+## Acte III.
 
 Feliciano annonce à Fisberto qu'il a demandé quatre mille ducats supplémentaires à Aurelio dans le but de faire annuler le mariage. Il réprimande son valet lorsque celui-ci lui dit qu'il agit mal et qu'il tente de lui faire entendre raison. Esteban, en compagnie de son maître, va au rendez-vous que lui a donné Paula, Carlos décide alors de parler à la place de son valet de même qu'Elisa prend la place de Paula. S'ensuit une conversation où chaque amant a reconnu la supercherie de l'autre et critique vivement son infidélité. Au cours de la dispute, les amants révèlent leur identité et Carlos, furieux, fait mine de déchirer les portraits et les lettres d'Elisa, qui ne sont autres que les cartes à jouer d'Esteban. Après le départ de Carlos et Esteban, Elisa demande à Paula et Marquina de ramasser les papiers de peur que son père ne les trouve. Ils s'aperçoivent alors de la duperie. C'est le matin, Octavio raconte à Elisa que Feliciano a demandé quatre mille ducats de plus. Elisa arrive à convaincre son père d'augmenter la dot, prétextant qu'elle serait déshonorée si ce mariage n'avait pas lieu : tout le monde croirait que Feliciano aurait quelque chose à lui reprocher. Octavio va donc chercher Feliciano pour lui annoncer que son père accepte sa proposition. Celui-ci se trouve chez Laurencia dont il a regagné l'amour, non sans difficulté, en lui faisant croire qu'il partirai lui aussi pour les Flandres si la jeune fille le repoussait, puis en acceptant de dire du mal d'Elisa. Il en est de même pour Fisberto et Sabina. Face à Octavio, Feliciano quitte Laurencia, son valet l'imite. C'est alors qu'arrivent Carlos et Esteban chez Laurencia, pensant que le mariage d'Elisa est annulé. Détrompé, Carlos décide d'épouser Laurencia. Ils veulent assister déguisés au mariage d'Elisa. Fisberto et Sabina prennent à leur tour le parti de se marier. Lorsque Carlos voit Elisa prête à se marier, il sent son amour renaître et demande à Esteban d'avertir Elisa de sa présence. Après que Feliciano a dit devant toute l'assistance qu'il aimait Elisa, la jeune femme le repousse en déclarant publiquement qu'il n'accepte de l'épouser que par intérêt. Elle annonce à son père qu'elle veut épouser Carlos qui lui déclare son amour. Feliciano se tourne de nouveau vers Laurencia qui lui répond qu'elle est engagée avec Octavio. Esteban épouse Paula et Fisberto Sabina. Feliciano se retrouve seul.
 
 
-# L'Absent chez soy et sa source
+# L'Absent chez soy et sa source.
 
 Il apparaît avant tout que l'intrigue de *El Ausente en el lugar* et celle de* L'Absent chez soy* sont identiques mises à part quelques différences portant sur des éléments secondaires. Ainsi, le prétexte dont se sert Laurencia pour faire venir Carlos chez elle et lui suggérer de l'épouser n'est pas repris par d'Ouville de même que le mariage final de Fisberto et Sabina. D'Ouville garde le rythme et le dynamisme de la *comedia*, il respecte l'enchaînement des scènes de son modèle. La durée de l'intrigue de la pièce française est semblable à celle de Lope de Vega. Elle commence, pour Lope, le matin à la sortie de l'église pour se terminer le lendemain matin. Chez d'Ouville, quand le rideau se lève, c'est le matin, Élize et Diane sortent du bal, et la pièce s'achève le lendemain matin. Quant au lieu, les personnages de d'Ouville suivent les déplacements des personnages espagnols. Les différents lieux de la pièce française sont présents chez Lope : la maison d'Élize avec sa chambre et une salle principale, la maison de Diane, celle de Clorimant et la rue. Le seul lieu qui diffère est, comme on l'a vu, la sortie de l'église qui devient la sortie du bal chez d'Ouville. Mais comme la didascalie qui précède la première scène dans *El Ausente en el lugar* indique « calle », on imagine que le décor est semblable chez d'Ouville, car Diane et Élize attendent leur carrosse dans la rue. Dans les deux pièces, les valets suivent les agissements de leurs maîtres, tombent amoureux, se fâchent, se raccommodent, au même rythme qu'eux. On peut donc considérer que d'Ouville ne s'est guère éloigné de son modèle.
 
@@ -258,12 +258,12 @@ Feliciano confie ses sentiments à son valet mais n'ose pas les exprimer à haut
 On remarque que d'Ouville développe certains éléments de la pièce espagnole. Ces éléments sont toujours étroitement liés à l'intrigue et alimentent le nœud de celle-ci ainsi que la tension dramatique de la pièce. D'Ouville choisit de franciser la pièce espagnole, de l'adapter aux exigences de la scène française tout en restant proche de son modèle. C'est ce qui lui a valu bien des critiques sur son manque d'originalité et sur la sécheresse de ses comédies. Mais, ce que ces critiques ne voient pas, c'est que la démarche de d'Ouville ne consiste pas à copier une pièce espagnole mais à s'approprier son modèle et à en dégager les situations dramatiques.
 
 
-# L'Absent chez soy et la comédie à l'espagnole
+# L'Absent chez soy et la comédie à l'espagnole.
 
 Nombre d'historiens considèrent que d'Ouville est l'initiateur de la mode de la comédie à l'espagnole en France. Le public apprécie cette nouvelle forme de comédie. Selon Antoine Adam [23], son succès s'étend jusqu'en 1656 environ : il explique qu'après la Fronde et la restauration de l'ordre hiérarchique, le public délaisse cette comédie où les valets parlent à leurs maîtres avec désinvolture. *L'Absent chez soy*, comme beaucoup de comédies à l'espagnole, est une comédie d'intrigue. L'auteur n'introduit pas les marques habituelles de la* comedia* comme les déguisements, les duels, les enlèvements, les reconnaissances, il préfère développer une intrigue romanesque avec des aventures galantes. L'intrigue est romanesque par ses thèmes et notamment par son thème principal, l'amour. Les jeunes gens sont passionnés, le père a une autorité absolue, la jalousie des amants cause diverses péripéties, des amants se donnent rendez-vous la nuit, ils sont désespérés car dès leur moindre soupçon ils se croient trahis. Voilà les thèmes romanesques de la *comedia* qu'on retrouve dans la pièce française. Telle est aussi l'origine de la méprise des personnages qui se laissent tromper par les apparences. Ces situations permettent de donner libre cours au dépit des amants et à la fureur du père ou du frère. Ces motifs de la comédie à l'espagnole apportent du mouvement à l'action. Dans *L'Absent chez soy*, les couples se font et se défont au rythme des querelles, des jalousies et des réconciliations. Les principaux thèmes qui y sont représentés sont l'amour, l'honneur et la jalousie, tels sont les *topoi* de la *comedia*.
 
 
-## L'amour
+## L'amour.
 
 Dans la* comedia*, comme dans *L'Absent chez soy*, les personnages se préoccupent essentiellement d'amour. Dès le début de la pièce, la conversation des suivantes en témoigne :
 
@@ -289,7 +289,7 @@ a compris d'avance le secret qui fait la supériorité de Molière : il a cherc
 Mais cet amour passionné est parfois difficile à concilier avec l'honneur.
 
 
-## L'honneur
+## L'honneur.
 
 Dans la comédie à l'espagnole, l'honneur occupe une place essentielle. Pères et frères sont les garants de l'honneur de leur fille ou de leur sœur. Dans *L'Absent chez soy*, dès la première apparition de Polémas et d'Octave, on comprend que leur principal souci est de préserver l'honneur d'Élize en même temps que celui de la famille :
 
@@ -319,7 +319,7 @@ Et pour t'avoir suivy j'ay trahy mon Amour. (IV, 2, v. 1271-1274).
 Le langage extrême employé par la jeune fille traduit la violence du conflit intérieur entre l'amour et l'honneur, comme si les personnages de la pièce étaient dirigés par des sentiments dominateurs qui les dépassent. C'est tantôt l'amour, tantôt l'honneur, tantôt la jalousie qui les pousse à agir, leur volonté semble s'effacer devant leurs passions.
 
 
-## La jalousie
+## La jalousie.
 
 Dans* L'Absent chez soy*, les couples se font et se défont au rythme des querelles dues à la jalousie et des réconciliations. Après avoir assisté, caché, à la scène où Polémas oblige Clitandre à épouser Élize, Clorimant ne songe même pas à croire à l'amour de sa maîtresse, la jalousie prend le dessus. Le schéma se répète lorsqu'Élize trouve Clorimant chez Diane. La confiance n'a pas sa place dans *L'Absent chez soy*, la jalousie éclate immédiatement et donne lieu au désespoir des amants qui se croient trahis, comme en témoigne la tirade de Clorimant au début de la scène 4 de l'acte II, puis celle d'Élize à la scène 4 de l'acte IV. Cette promptitude à la jalousie ne permet pas aux personnages de voir que ce sont des apparences trompeuses qui font naître ces passions. Au contraire, ils cherchent tout de suite la vengeance, c'est pourquoi Clorimant et Diane décident de se marier :
 
@@ -339,7 +339,7 @@ Les sentiments de l'amour, de l'honneur et de la jalousie sont représentés ave
 Contrairement aux comédies à l'italienne, c'est la jeune fille, hardie, qui mène une intrigue faite de méprises sur les apparences, sur les sentiments, et nouée par un *quiproquo*. D'Ouville accentue ce contraste entre la jeune fille déterminée et le jeune homme inerte en rendant Clorimant plus dépendant de la clairvoyance et du recul de son valet que Carlos. Lorsque Clorimant s'apprête à déchirer les portraits d'Élize, c'est son valet qui l'arrête et lui donne ses cartes. Dans la pièce espagnole, c'est Carlos qui se ravise lui-même et qui demande à son valet de lui donner des cartes à jouer. D'Ouville adapte donc un modèle espagnol avec le souci de rendre sa pièce conforme à certaines exigences du théâtre français. Il ne se contente donc pas de copier des pièces espagnoles. Il s'approprie son modèle.
 
 
-# Les personnages
+# Les personnages.
 
 Les personnages de *L'Absent chez soy* sont les personnages traditionnels de la *comedia*. On a cinq amoureux, deux valets, deux servantes, un père et un frère. Leurs relations relèvent du système de la chaîne amoureuse, inventé par le genre pastoral : Octave aime Diane qui aime Clitandre qui aime Diane et Élize qui aime Clorimant qui aime Élize. Antoine Adam, dans son *Histoire de la littérature au XVII*e* siècle*, définit les personnages de la comédie espagnole en ces termes :
 
@@ -540,12 +540,12 @@ Vous contraindre un moment. (III, 9, v. 1158-1160).
 Julie est un personnage peu présent. Elle apparaît comme le double de sa maîtresse. Elle est soumise aux humeurs changeantes d'Ormin et de Géraste qui ne peuvent manquer d'imiter leurs maîtres.
 
 
-# Le comique
+# Le comique.
 
 On ne peut pas parler de véritable force comique dans* L'Absent chez soy*, comme dans la comédie à l'espagnole. On l'a vu, l'intrigue est essentiellement romanesque. Il s'agit d'examiner la manière dont l'auteur intègre le comique à cette intrigue ainsi que les effets produits sur le spectateur.
 
 
-## Le comique de situation
+## Le comique de situation.
 
 L'intrigue donne lieu à quelques situations comiques. Diane fait un portrait élogieux d'Élize à son amant déjà séduit par la beauté de la jeune fille. Elle l'ignore, mais le spectateur l'a compris, le décalage entre ce que sait le public et ce que sait le personnage provoque le rire.
 
@@ -554,7 +554,7 @@ La situation de Clorimant aux scènes 2 et 3 de l'acte II est elle aussi comique
 La situation de Clitandre surpris par Polémas chez Élize est elle aussi comique car elle cause le désarroi du personnage face à une situation sans issue. Mais, dans ce cas, ce n'est pas la résolution heureuse qui conditionne le rire. Le rire varie selon les personnages sur lesquels il porte et diffère même si les situations et le comique qui en découle sont semblables, car les situations peuvent révéler les ridicules du protagoniste.
 
 
-## Le comique de caractère
+## Le comique de caractère.
 
 Le seul personnage ridicule de la pièce est Clitandre. Ce n'est cependant pas un personnage intrinsèquement ridicule qui serait porteur de l'essentiel du comique de la pièce. Il n'est comique que dans certaines scènes qui mettent en valeur ses défauts. C'est un jeune homme volage, il n'attire donc pas la sympathie du public, les situations qui le mettent en difficulté prêtent donc à rire. Le rire porte alors non seulement sur les situations mais sur le personnage lui-même. Lorsque Polémas et Octave surprennent Clitandre chez Élize, celui-ci est apeuré, comme l'indique cet aparté : « Je suis perdu, grands Dieux » (II, 3, v. 448).
 
@@ -585,7 +585,7 @@ Il se mocque de nous la chose est évidente. (IV, 10, v. 1610-1611)
 C'est bien le caractère indécis des personnages qui est porteur du comique de ces scènes, comme à la scène 3 de l'acte III où l'irrésolution de Clorimant donne lieu à un jeu de scène comique et se trouve ainsi figurée par les gestes de Géraste qui court, s'arrête, repart, pour revenir, au rythme des ordres contradictoires de son maître. À partir de là, toutes les menaces de Clorimant adressées à Élize, malgré leurs allures tragiques, perdent tout sérieux pour basculer dans le comique. Le public a mis au jour les sentiments de Clorimant et ne peut croire à ses feintes.
 
 
-## Le comique de mots
+## Le comique de mots.
 
 Les valets ne sont pas comiques en eux-mêmes, comme le sont les *graciosos*. Ce sont leurs répliques qui sont comiques.
 
@@ -616,15 +616,15 @@ Ses propos contrastent avec le sérieux et le ton de ceux de son maître. À la 
 On voit donc qu'il n'y a pas une ligne directrice du comique de *L'Absent chez soy*. Plusieurs sortes de comique sont présents dans la pièce. Certaines scènes relèvent plus du plaisant que du comique car le spectateur est amusé et les personnages lui sont sympathiques.
 
 
-# La dramaturgie
+# La dramaturgie.
 
 
-## Les unités
+## Les unités.
 
 D'Ouville a voulu adapter la pièce espagnole aux exigences classiques. Il s'agit ici de voir dans quelle mesure il respecte les règles classiques et en particulier la règle des unités.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 Le dramaturge respecte l'unité de temps. La pièce dure environ vingt-quatre heures, elle commence le matin, à la sortie du bal, et s'achève le lendemain matin. Au cours de la pièce, les répliques donnent fréquemment des indications temporelles. À la première scène de l'acte I, la didascalie précise : « Diane et Elize sortant du bal au matin. »
 
@@ -642,7 +642,7 @@ L'action continue pendant les entractes. Entre l'acte I et l'acte II, il s'est p
 On peut considérer que d'Ouville, comme son modèle espagnol, respecte la règle de l'unité de temps en donnant à sa comédie une durée d'environ vingt-quatre heures et en organisant sa pièce de sorte que l'intrigue évolue durant les entractes, satisfaisant ainsi le souci de vraisemblance quant à la durée de l'intrigue représentée.
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 L'intrigue se déroule à Paris, mais pas dans un lieu unique. La didascalie de la première scène de la pièce indique : « Diane & Elize masquées sortant du bal au matin »
 
@@ -663,7 +663,7 @@ Un autre problème est à résoudre. Certaines scènes se passent dans la rue, d
 Clitandre et Ormin sont dehors et entrent chez Élize. La façade de la maison est peinte sur une toile qu'on lève lorsque la scène se déroule à l'intérieur. Il en est de même pour les maisons de Diane et de Clorimant. Il faut également imaginer deux pièces chez Élize et chez Diane qui servent de cachette visible par le public. Cela peut être une pièce voisine ou un recoin. D'Ouville respecte l'unité de lieu au sens large, c'est-à-dire que l'intrigue se passe dans une seule ville, mais les personnages se déplacent dans cette ville.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 Dans *L'Absent chez soy*, plusieurs fils sont en présence. Tout d'abord, il y a deux groupes, les maîtres et les valets. Du côté des maîtres, il y a cinq jeunes gens : deux couples et un amoureux. Quant aux valets, ils forment deux couples également. Les couples de maîtres permutent comme ceux des valets, à l'exception de Pauline qui rejette Ormin. Il faut ajouter le personnage d'Octave, sans cesse repoussé jusqu'à la dernière scène. On peut se demander alors dans quelle mesure on peut parler d'unité d'action dans *L'Absent chez soy*.
 
@@ -691,10 +691,10 @@ Le troisième critère est lui aussi respecté. Pour le quatrième critère, Jac
 Ce sont bien les fils secondaires qui influencent le fil principal. Clitandre, à cause de l'intervention de Polémas, doit épouser Élize. Octave incite son père à imposer ce mariage. Il en est de même pour le fil des valets qui imitent les maîtres. Ormin perturbe le couple Géraste/Pauline. Quant à Diane et Julie, elles ne font que se lamenter jusqu'à la fin de la pièce et leur sort dépend du fil principal. On peut dire que cette pièce comporte une action « unifiée », pour reprendre la terminologie de Jacques Scherer. L'unité d'action est respectée.
 
 
-## La structure de la pièce
+## La structure de la pièce.
 
 
-### L'exposition
+### L'exposition.
 
 Dans *L'Absent chez soy*, l'exposition est terminée à la fin de l'acte I, dans la mesure où tous les personnages sont apparus sur la scène. Les deux principales scènes d'exposition, qui donnent le plus grand nombre d'informations sur les personnages et la situation au lever du rideau sont les scènes 2 et 6. D'Ouville rend cela naturel en informant le spectateur par la conversation des deux suivantes dont les maîtresses viennent de faire connaissance, il est donc normal qu'elles s'interrogent l'une l'autre (I, 2). Puis, à la scène 6, Octave annonce à son père qu'il veut se marier, ce qui donne lieu aux questions de Polémas à son fils sur celle qu'il aime, tout comme Octave interroge son père qui lui fait part de son inquiétude pour l'amour d'Élize.
 
@@ -729,7 +729,7 @@ Qu'il vienne en nostre absence afin de le surprendre, (I, 6, v. 227-232).
 D'Ouville représente une histoire qui débute sous les yeux du spectateur. À la fin du premier acte, l'action a déjà commencé et le public connaît les éléments nécessaires à la compréhension de l'intrigue.
 
 
-### Le nœud
+### Le nœud.
 
 L'action se noue au deuxième acte, à la scène 3, lorsque Polémas oblige Élize à épouser Clitandre. Deux types d'obstacles participent à ce nœud, un obstacle extérieur et un obstacle intérieur. L'obstacle extérieur est celui qui apparaît clairement dans la pièce, c'est la décision de Polémas qui force Élize à épouser Clitandre. Cependant, l'obstacle extérieur n'est pas dû à l'autorité d'un père qui refuse l'amour de sa fille, mais à un *quiproquo*. Polémas n'est pas un obstacle en lui-même, il n'avait d'ailleurs pas l'intention de contraindre Élize. L'obstacle paternel est dû à la méprise sur les apparences. Il est par la suite à l'origine de nombreuses méprises des personnages. En effet, chacun croit à un complot :
 
@@ -762,7 +762,7 @@ Cela illustre l'obstacle intérieur d'Élize, elle légitime la contrainte pater
 Mais, alors que l'obstacle majeur est levé, la pièce n'est pas terminée, une péripétie s'ajoute et retarde le dénouement. Élize trouve son amant chez Diane et le croit infidèle, elle le rejette à son tour. Ce sont alors les amants eux-mêmes qui font obstacle à leur amour. De même, lorsque Polémas, qui a reçu la lettre de Clitandre, est prêt à annuler le mariage, d'Ouville, par un coup de théâtre, retarde le dénouement car Élize supplie son père d'accepter d'augmenter la dot pour pouvoir épouser Clitandre. Les obstacles sont levés mais Élize n'est toujours pas parvenue à retrouver l'amour de Clorimant.
 
 
-### Le dénouement
+### Le dénouement.
 
 Le dénouement se fait donc attendre jusqu'à la toute dernière scène de la comédie. D'Ouville respecte les exigences du dénouement. Il n'ajoute pas de personnage dans la scène finale, si ce n'est la mention de la compagnie qui entre pour le mariage ou le fait qu'Octave promet à Julie qu'elle pourra épouser un de ses valets. La compagnie n'influence en rien le dénouement et le valet dont Octave parle n'intervient pas sur la scène, en outre, il ne permet pas de dénouer l'action principale de la pièce.
 
@@ -792,7 +792,7 @@ Terminé cette affaire. (V, 9, v. 2011-2012).
 Polémas apparaît alors comme l'organisateur de la pièce, autant intérieurement qu'extérieurement. Le mot « affaire » peut être interprété en deux sens différents, il peut référer au mariage d'Élize et Clorimant mais également à la pièce de théâtre elle-même, l'un et l'autre étant étroitement liés car la comédie s'achève lorsque les deux amants sont réunis pour se marier. Polémas est présenté comme le dramaturge qui règle le sort des personnages et donc qui orchestre la pièce. On peut noter l'ironie de l'auteur dans ces vers qui renvoient à la pièce, qui aurait pu ne pas exister.
 
 
-## La liaison des scènes
+## La liaison des scènes.
 
 Certaines scènes de la pièce ne sont pas liées à celles qui les précèdent. C'est le cas de la scène 5 de l'acte I, de la scène 7 de l'acte I, de la scène 4 de l'acte III, de la scène 7 de l'acte IV. Le motif de l'absence de liaison des scènes est le changement de lieu et le fait qu'on ne retrouve sur scène aucun personnage de la scène précédente.
 
@@ -803,7 +803,7 @@ La scène 5 de l'acte I n'est pas liée à la scène 4, contrairement à la scè
 Dans les deux autres cas, la scène 7 de l'acte I et la scène 4 de l'acte III, la liaison des scènes est omise dans la pièce espagnole. D'Ouville n'y remédie pas. À l'époque où il compose sa comédie, la liaison des scènes n'est pas encore considérée comme une nécessité absolue, comme l'explique Jacques Scherer [43]. Cette absence de liaison vient du fait que d'Ouville change le lieu au cours d'un même acte, ce qui crée une rupture dans la continuité des scènes de la pièce, même si ces lieux sont proches les uns des autres.
 
 
-## La mise en scène de la parole persuasive
+## La mise en scène de la parole persuasive.
 
 *L'Absent chez soy* est une pièce où la parole, mais aussi l'absence de parole, priment sur l'action. C'est la non-parole d'Élize qui laisse le *quiproquo* s'installer et qui cause la colère de Clorimant. Clorimant parle sans agir, son discours ne devient pas action. Les non-dits causent la méprise des personnages. Il est donc nécessaire de les convaincre par la parole persuasive. Le dramaturge emploie l'art de la rhétorique à plusieurs reprises dans la comédie. Dans de nombreuses scènes, l'enjeu principal est de convaincre, au sens actuel et au sens ancien d'accuser, l'interlocuteur qui n'est pas en mesure de juger avec l'objectivité du spectateur. Chaque personnage dans cette pièce cherche sans cesse à persuader son interlocuteur que ce soit de la vérité de ses sentiments, d'un dessein de partir, de la méprise des apparences. Il ne s'agit pas toujours d'un discours rhétorique organisé. Voici quelques exemples : Clorimant cherche à convaincre Géraste que rien ne l'empêchera de partir (III, 1), Pauline à convaincre Élize que Clorimant ne partira pas (II, 4), Clitandre à convaincre Diane qu'il n'a jamais aimé Élize.
 
@@ -854,7 +854,7 @@ Clitandre a su les convaincre de son amour. Le discours de type judiciaire est l
 D'Ouville met donc en scène une parole persuasive qui n'est pas toujours efficace. Pour qu'elle atteigne son but, cette parole doit s'adresser à l'émotion et non à la raison, tout en étant elle-même portée par le langage de l'émotion. L'émotion donne lieu à des discours de type judiciaire où les personnages accusent sans réfléchir. La pièce apparaît comme une suite de mises en accusation et de défenses, d'où l'importance que revêt la parole.
 
 
-# La postérité
+# La postérité.
 
 D'Ouville fait partie de ces nombreux dramaturges du XVII*e* siècle qui ont été oubliés, comme effacés par Corneille, Molière et Racine. Les critiques qui le mentionnent parlent souvent de lui en des termes peu élogieux et réduisent ses pièces à de pâles copies des dramaturges espagnols. Il est vrai qu'il était plus connu pour ses contes que pour ses pièces de théâtre mais celles-ci ont vraisemblablement eu du succès. Certains critiques parlent des qualités des pièces de d'Ouville et relèvent des ressemblances avec certaines pièces de Molière, notamment des similitudes concernant quelques scènes.
 
@@ -927,7 +927,7 @@ Ah ! Monsieur, je suis ravi que vous vous mettiez à la raison, et que les chos
 De même que c'est par lâcheté que Clitandre accepte d'épouser Élize à la scène 3 de l'acte II, de même Sganarelle accepte le mariage avec Dorimène à la scène 9 par lâcheté, craignant de devoir se battre. Le public rit de la couardise des personnages. On retrouve en effet quelques traits de *L'Absent chez soy* dans *Le Mariage forcé*, mais il serait audacieux de prétendre que Molière s'est inspiré de la pièce de d'Ouville, peut-être a-t-il conservé quelques motifs comme dans *Le Dépit amoureux*, mais on ne peut l'affirmer avec certitude.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 L'édition originale de *L'Absent chez soy* de d'Ouville est publiée en 1643 par Toussainct Quinet. Le volume que nous avons pris pour base se présente sous la forme suivante :
 
@@ -1023,89 +1023,89 @@ La Scene est à Paris.
 DIANE & ELIZE masquées sortant du bal au matin, où elles ont passé la nuict ; & PAULINE & JULIE les accompagnant.
 
 
-    DIANE
+    DIANE.
 JE beny cette nuict qui me donne le bien  
 De goûter les plaisirs d'un si doux entretien.  
 Puis que je vous cognoy je me tiens trop heureuse.  
 
-    ELIZE
+    ELIZE.
 Je me tiens de cét heur⁎ moy-mesme glorieuse [51],  
 Chery cette rencontre, & vous dy sans mentir,  
 Que ce lieu me plaist tant que je n'en puis sortir.  
 Le voisinage [52] joint à vos rares⁎ merites  
 Me fera vous prier d'agréer mes visites.  
 
-    DIANE
+    DIANE.
 Je joüiray du bien que vous me promettez,  
 Si vous daignez souffrir⁎ mes importunitez [53].  
 
-    ELIZE
+    ELIZE.
 Je sçay trop le respect où mon devoir m'engage,  
 Non, non, vous n'aurez point sur moy cét advantage,  
 Je vous previendray [54] bien ; cependant s'il vous plaist,  
 Je vous rendray chez vous, mon carrosse est tout prest.  
 
-    DIANE
+    DIANE.
 Le mien qu'un cavalier⁎ aura soin qu'on m'emmeine [55],  
 Sera bien-tost icy, n'en prenez pas la peine,  
 Voyez un peu Julie, il doit estre venu.  
 
-    JULIE
+    JULIE.
 Je ne sçay qui l'aura si long temps retenu,  
 Le lacquais que j'attens ne m'a point advertie.  
 
-    DIANE
+    DIANE.
 Je me repens bien donc d'estre si tost sortie.  
 Rentrons.  
 
-    ELIZE
+    ELIZE.
     Je le veux bien.  
 
-    DIANE
+    DIANE.
         Et toy demeure icy.  
 Attens-y mon carrosse.  
 
-    ELIZE
+    ELIZE.
         Et toy Pauline aussi.  
 
 
-### SCENE II
+### SCENE II.
 PAULINE, JULIE
 
 
-    PAULINE
+    PAULINE.
 JE me réjoüys fort de voir que nos maistresses  
 S'entr'ayment [56], & se font ainsi tant de caresses⁎,  
 Il nous faut contracter⁎ ensemble une amitié  
 Qui surpasse la leur encor de la moitié,  
 J'ay bien intention que nous rions [57] ensemble.  
 
-    JULIE
+    JULIE.
 Nous en aurons souvent le loisir ce me semble.  
 Est-ce depuis long-temps que tu sers là dedans ?  
 
-    PAULINE
+    PAULINE.
 J'ay servy la deffunte en mes plus jeunes ans,  
 Et j'ay depuis sa mort tousjours servy la fille.  
 Les biens n'y sont pas grands, mais c'est une famille  
 Des plus nobles qui soient, & personnes d'honneur.  
 
-    JULIE
+    JULIE.
 Élize est-elle douce & d'agréable humeur ?  
 
-    PAULINE
+    PAULINE.
 Julie asseure-toy que jamais la Nature,  
 N'a dans le monde encor formé de creature,  
 Qui la passe en merite & l'égale en bonté,  
 Et je n'aurois jamais si grande liberté  
 Chez mes propres parens comme je l'ay chez elle.  
 
-    JULIE
+    JULIE.
 Elle me semble douce ; & parfaitement belle ;  
 Mais ses yeux si charmants auraient-ils le pouvoir  
 De donner de l'amour à tous sans en avoir ?  
 
-    PAULINE
+    PAULINE.
 On ne la sçauroit voir en effet qu'on ne l'ayme,  
 Mais elle ayme un Amant cent fois plus qu'elle mesme,  
 Un brave⁎ Cavalier⁎ qui l'adore & je croy,  
@@ -1115,31 +1115,31 @@ Qu'ensemble ils seront joints sous les lois d'Hymenée⁎.
 Mais j'apprehende bien que selon leurs desirs  
 Ils ne puissent sitost accomplir leurs plaisirs.  
 
-    JULIE
+    JULIE.
 Pourquoy ?  
 
-    PAULINE
+    PAULINE.
         Parce qu'encor on n'en dit rien au pere.  
 
-    JULIE
+    JULIE.
 Elle a son pere encor ?  
 
-    PAULINE
+    PAULINE.
         Ouy, son pere & son frere,  
 Un jeune Cavalier⁎.  
 
-    JULIE
+    JULIE.
         Mais dy moy, son Amant,  
 Comment le nomme t'on ?  
 
-    PAULINE
+    PAULINE.
         Son nom est Clorimant.  
 
-    JULIE
+    JULIE.
 Aurois tu point conceu quelque amoureuse flame,  
 Pour quelqu'un de ses gens ?  
 
-    PAULINE
+    PAULINE.
         Tu lis dedans mon ame,  
 Les voyants [58] tous les jours si fort se mignarder,  
 Serions nous entre nous oysifs à regarder ?  
@@ -1151,7 +1151,7 @@ A present de tout point que tu cognois les miennes,
 Fay que je sçache aussi quelque chose des tiennes,  
 Ta maitresse sans doute aura plusieurs galands⁎.  
 
-    JULIE
+    JULIE.
 Quoy ? belle comme elle est, en l'age de vingt ans,  
 Avec beaucoup de biens, & sans pere, & sans mere,  
 N'en aurait elle point estant seule heritiere ?  
@@ -1159,72 +1159,72 @@ Mais elle est dans huit jours preste à se marier,
 Avec un galand⁎ homme, un brave⁎ Cavalier⁎,  
 Qu'elle ayme, & et dont elle est sans mentir adorée.  
 
-    PAULINE
+    PAULINE.
 Ton galand⁎ est à luy ?  
 
-    JULIE
+    JULIE.
         Si tu t'es déclarée,  
 N'aurois-je pas grand tort si je te celois rien ?  
 Il est vray que je l'ayme, & qu'il me veut du bien,  
 Le carosse est venu, j'advertis ma maitresse.  
 
-    PAULINE
+    PAULINE.
 Elles viennent ensemble.  
 
 
-### SCENE III
+### SCENE III.
 DIANE, JULIE, ELIZE, PAULINE
 
 
-    DIANE
+    DIANE.
         Et bien quelle paresse !  
 
-    JULIE
+    JULIE.
 Il est venu Madame.  
 
-    DIANE *à ELIZE*
+    DIANE *à ELIZE*.
         Adieu je vous promets  
 De l'envoyer chez vous.  
 
-    ELIZE
+    ELIZE.
         Croyez moy qu'à jamais,  
 Ce poinct m'obligera⁎ ; car je brusle d'envie  
 De voir ce qui vous a la liberté ravie,  
 Ce brave⁎ Cavalier⁎ que vous vantez si fort.  
 
-    DIANE
+    DIANE.
 Lors que vous l'aurez veu vous benirez mon sort,  
 Je vous le loüe encor bien moins qu'il ne merite.  
 
-    ELIZE
+    ELIZE.
 Vostre depart m'afflige & me laisse interditte⁎,  
 Faites-moy s'il vous plaist la faveur de m'aymer,  
 Vous me l'avez promis.  
 
-    DIANE
+    DIANE.
         Je doy trop estimer  
 L'honneur que je reçoy de vostre connoissance,  
 Pour ne vous pas servir de toute ma puissance.  
 
-    ELIZE
+    ELIZE.
 Pauline, allons.  
 
-    PAULINE
+    PAULINE.
         Julie au moins souvienne [59] toy  
 De ce que tu m'as dit.  
 
-    JULIE
+    JULIE.
         Repose-toy sur moy.  
 
 
-### SCENE IV
+### SCENE IV.
 DIANE, JULIE, CLITANDRE, ORMIN
 
 
-    DIANE
+    DIANE.
 Vous vous estes, Monsieur, fait bien long-temps attendre.  
 
-    CLITANDRE
+    CLITANDRE.
 Quand vous estes au bal vous ne vous sçauriez rendre,  
 Je pensois sans mentir estre encor arrivé  
 Plutost qu'il ne falloit, mais vous avez trouvé  
@@ -1232,16 +1232,16 @@ Pour vous entretenir une du voisinage,
 Quel est ce digne object ? quel est ce beau visage  
 Avec qui vous avez si long temps discouru ?  
 
-    DIANE
+    DIANE.
 C'est un sujet divin, je n'eusse jamais cru  
 Qu'on eust pû rencontrer une beauté pareille,  
 Un esprit adorable, une telle merveille,  
 Un œil si gratieux, un entretien si doux.  
 
-    CLITANDRE
+    CLITANDRE.
 Quels estoient vos discours ?  
 
-    DIANE
+    DIANE.
         Nous discourions de vous.  
 J'ay dit que vous estiez un Cavalier⁎ qui m'ayme,  
 Et que j'estime autant aussi comme [60] moy-mesme.  
@@ -1249,34 +1249,34 @@ J'ay peint vostre merite, & je vous ay vanté
 Si plain de courtoisie & de civilité [61],  
 Et l'esprit si bien fait qu'elle vous veut cognoistre.  
 
-    CLITANDRE
+    CLITANDRE.
 Apres tous ces discours je n'oserois paroistre,  
 Car si je la voyois à cette heure, je croy  
 Qu'elle se mocqueroit & de vous & de moy.  
 
-    DIANE
+    DIANE.
 Vous la verrez pourtant, elle s'appelle Elize.  
 Elle est extrémement courtoise⁎ & bien apprise⁎.  
 Vous irez de ma part, & verrez ce que c'est.  
 
-    CLITANDRE
+    CLITANDRE.
 Entrons, je le veux bien, j'iray puis qu'il vous plaist.  
 
 
-### SCENE V 
+### SCENE V. 
 CLORIMANT, GERASTE
 
 
-    CLORIMANT
+    CLORIMANT.
 Bien que t'a-t-elle dit ?  
 
-    GERASTE
+    GERASTE.
         Le Ciel vous est prospere,  
 N'apprehendez plus rien, car son pere & son frere  
 S'en vont tous deux aux champs, & sont prests à partir.  
 Elle m'a commandé de vous en advertir.  
 
-    CLORIMANT
+    CLORIMANT.
 Bannissons desormais de chez nous la tristesse,  
 Quoy ! te verray-je donc, ô ma chere maitresse ?  
 Quoy ! de tant de tourmens me verray-je allegé ?  
@@ -1287,98 +1287,98 @@ Adorable beauté qui causes mon tourment.
 Est-il dessous le Ciel un plus heureux Amant ?  
 Tu dis qu'elle m'attend ?  
 
-    GERASTE
+    GERASTE.
         Ouy, seule, & qui desire  
 Vous parler à loisir.  
 
-    CLORIMANT
+    CLORIMANT.
         C'est le but où j'aspire.  
 Et qui rend à ce coup tous mes désirs contens :  
 Mais allons de ce pas, ne perdons point de temps.  
 
-    GERASTE
+    GERASTE.
 Ils sortent, je les voy sur le pas de la porte,  
 Ils vous verront, Monsieur, cachez vous.  
 
-    CLORIMANT
+    CLORIMANT.
         Il n'importe.  
 N'estant point cognu d'eux, puis-je pas sans soupçons  
 Estre en la rue ?  
 
-    GERASTE
+    GERASTE.
         Octave est un mauvais garçon,  
 Que sçavons nous Monsieur, peut-estre qu'il nous guette.  
 
 
-### SCENE VI 
+### SCENE VI. 
 POLEMAS, OCTAVE, CLORIMANT, GERASTE
 
 
-    POLEMAS
+    POLEMAS.
 Elize ne vient point !  
 
-    OCTAVE
+    OCTAVE.
         Elle est toute deffaitte [62],  
 Avec certain chagrin⁎.  
 
-    POLEMAS
+    POLEMAS.
         Qui [63] cause ce soucy⁎ ?  
 
-    OCTAVE
+    OCTAVE.
 C'est d'avoir trop veillé.  
 
-    CLORIMANT *à GERASTE* 
+    CLORIMANT *à GERASTE*.
         Retirons-nous d'icy.  
 Nous pourrions en ce lieu causer des jalousies.  
 (Clorimant & Geraste s'en vont).
 
 
-    OCTAVE
+    OCTAVE.
 Mais qui [64] vous meine aux champs ?  
 
-    POLEMAS
+    POLEMAS.
         Certaines fantaisies⁎  
 Qui troublent mon repos.  
 
-    OCTAVE
+    OCTAVE.
         D'où vient cela Monsieur ?  
 
-    POLEMAS
+    POLEMAS.
 J'ay l'esprit agité pour [65] l'amour de ta sœur.  
 
-    OCTAVE
+    OCTAVE.
 Comment ! ma sœur estant & vertueuse & sage,  
 Quel subject avez vous d'en prendre de l'ombrage⁎ ?  
 
-    POLEMAS
+    POLEMAS.
 Pourtant elle me cause un estrange soucy⁎.  
 Je veux sur ce subject t'entretenir icy.  
 
-    OCTAVE
+    OCTAVE.
 Je ne m'estonne point qu'une fille comme elle,  
 Honneste, vertueuse, & parfaitement belle,  
 D'un esprit agreable en la fleur de ses ans,  
 Resveille les esprits à plusieurs pretendans,  
 Qu'elle soit poursuivie, & qu'elle soit priée.  
 
-    POLEMAS
+    POLEMAS.
 Je souhaitterois fort qu'elle fust mariée.  
 
-    OCTAVE
+    OCTAVE.
 Auroit-elle bien fait quelque legereté⁎  
 Qui peust faire une tache à sa pudicité⁎ ?  
 
-    POLEMAS
+    POLEMAS.
 Non, non tu me verrois parler d'une autre sorte,  
 Le fait ne va pas là, car ce fer que je porte,  
 Ayant fait [66] quelque chose indigne de son rang,  
 Auroit esté desjà trempé dedans son sang.  
 
-    OCTAVE
+    OCTAVE.
 Qui [67] vous oblige donc à tenir ce langage ?  
 Il fait bien en effet.  
 
-    POLEMAS
+    POLEMAS.
         Non, non, Elize est sage.  
 Mais je souhaitterois qu'il fust en mon pouvoir  
 Pour beaucoup de raisons de bien-tost la pourvoir⁎.  
@@ -1386,55 +1386,55 @@ Je ne crains pas pourtant, quoy qu'elle soit sans mere,
 Qu'elle face jamais chose qui degenere [68]  
 De la sage vertu de ses predecesseurs.  
 
-    OCTAVE
+    OCTAVE.
 Vous me mettez pourtant en l'esprit des frayeurs,  
 Qui me font soupçonner qu'il en est quelque chose.  
 
-    POLEMAS 
+    POLEMAS.
 Non, non, que ton esprit de tout poinct se repose.  
 Tu sçauras ce que c'est. On m'a dit seulement  
 Que son cœur respondoit aux desirs d'un Amant,  
 Un peu plus librement qu'elle ne devroit faire.  
 
-    OCTAVE
+    OCTAVE.
 C'est veritablement bien déguiser l'affaire,  
 Qu'appelez vous respondre en matiere d'Amour ?  
 
-    POLEMAS
+    POLEMAS.
 Respondre à quelque Amant qui pourroit quelque jour  
 Si je le trouvois bon l'avoir en mariage.  
 Laisseroit-elle donc pour cela d' [69]estre sage ?  
 
-    OCTAVE
+    OCTAVE.
 Vous venez à propos m'entretenir du sien,  
 Quand j'avois resolu de vous parler du mien.  
 
-    POLEMAS
+    POLEMAS.
 Te veux-tu marier ?  
 
-    OCTAVE
+    OCTAVE.
         Avec vostre licence.  
 Pourquoy ? n'est-il pas temps.  
 
-    POLEMAS
+    POLEMAS.
         Et quelle est l'alliance  
 Que tu nous veux donner ? je n'y [70] contredy pas  
 Si plutost que l'Amour, l'honneur guide tes pas.  
 
-    OCTAVE
+    OCTAVE.
 L'un & l'autre Monsieur, & de plus la richesse.  
 
-    POLEMAS
+    POLEMAS.
 C'est ce qui m'en plaist fort : mais quelle est ta Maistresse ?  
 La cognois-je ?  
 
-    OCTAVE
+    OCTAVE.
     Fort bien.  
 
-    POLEMAS
+    POLEMAS.
     Dy donc.  
 
-    OCTAVE
+    OCTAVE.
         Il est besoing  
 De prendre auparavant la chose de plus loing,  
 Vous vous souvenez bien, au moins il me le semble,  
@@ -1442,16 +1442,16 @@ Que nous fusmes tous deux un jour souper ensemble
 Au logis de Climante, où l'on me fit asseoir  
 Vis à vis d'un objet⁎ qu'alors vous peustes voir.  
 
-    POLEMAS
+    POLEMAS.
 Seroit-ce bien Diane ?  
 
-    OCTAVE
+    OCTAVE.
         Ouy Monsieur, c'est la mesme,  
 C'est ce divin object⁎, cette beauté que j'ayme,  
 Mais plutost que j'adore, & je jure, & promets  
 Si vous le trouvez bon de l'aymer à jamais.  
 
-    POLEMAS
+    POLEMAS.
 J'ayme ton choix, & loüe une telle entreprise,  
 Pleust au Ciel que celui qu'a fait ta sœur Elize  
 Fust aussi raisonnable, & que j'eusse cét heur⁎,  
@@ -1469,7 +1469,7 @@ Tu n'y feras que perdre & ton temps & tes peynes,
 Elle est riche & puissante, & voudra, que je croy [72],  
 Non un homme mieux fait, mais plus riche que toy.  
 
-    OCTAVE
+    OCTAVE.
 Elle ayme un Cavalier⁎ qu'on appelle Clitandre,  
 Mais je ne laisse pas pour cela d' [73]y [74] pretendre,  
 Car il est si leger, & si lasche⁎ en Amour  
@@ -1481,7 +1481,7 @@ Croyez que ce rival trouble peu mes esprits,
 Et bien qu'en ce dessein je trouve cét obstacle,  
 L'Amour peut, s'il le veut, faire un plus grand miracle.  
 
-    POLEMAS
+    POLEMAS.
 C'est l'entendre tres-mal ; car tout homme aujourd'huy  
 A tort d'aller ainsi sur les traces d'autruy,  
 Je n'en espere rien puis que la place est prise.  
@@ -1511,13 +1511,13 @@ Par mon consentement il luy donne son cœur.
 Et veux si ce ne sont que simples Amourettes  
 Bannir hors de chez moy ces pratiques secrettes.  
 
-    OCTAVE
+    OCTAVE.
 Vous ferez sagement, allons, si son Amour  
 Perd icy le respect, il en perdra le jour :  
 Quand ce galand⁎ seroit un Prince, je vous jure  
 Que ce fer vangeroit nostre commune injure.  
 
-    POLEMAS
+    POLEMAS.
 Il n'en faut pas encor venir jusqu'à ce point.  
 Octave taisez-vous, ne vous emportez point.  
 Je veux voir aujourd'huy par cette experience  
@@ -1526,25 +1526,25 @@ Ou si l'obeyssance est maistresse d'Amour ;
 Ne tardons point, allons icy pres faire un tour.  
 
 
-### SCENE VII
+### SCENE VII.
 CLORIMANT, ELIZE, GERASTE, PAULINE
 
 
-    CLORIMANT
+    CLORIMANT.
 Je bruslois de desir dedans l'impatience  
 Que j'avois de joüir de ta chere presence.  
 
-    ELIZE
+    ELIZE.
 T'imaginois-tu pas cher Clorimant aussi,  
 Que j'estois de ma part en semblable soucy⁎ ?  
 
-    CLORIMANT
+    CLORIMANT.
 Ouy, tu me fais si bien cognoistre à nud [77] ton ame,  
 Que je serois ingrat de douter de ta flame,  
 Et tu serois ingrate aussi de ton costé  
 Si tu pouvois douter de ma fidelité.  
 
-    ELIZE
+    ELIZE.
 Je crains qu'avec le temps, mon cœur tu ne mesprises,  
 Ainsi que plusieurs font, ces trop grandes franchises⁎ [78],  
 Tu pourras m'accuser de peu de jugement⁎  
@@ -1552,16 +1552,16 @@ De te laisser entrer ceans⁎ si librement.
 Mais ce seroit user d'une lâche vengeance,  
 Si tu voulois par là tromper mon innocence.  
 
-    CLORIMANT
+    CLORIMANT.
 Ne serois-je pas bien de mon bon-heur jaloux⁎ ?  
 N'y puis-je pas entrer en qualité⁎ d'espoux ?  
 
-    ELIZE
+    ELIZE.
 Je crains ton changement. Cela me met en peyne,  
 Le temps change souvent un grand amour en haine,  
 Et c'est ce qui me trouble, & me met hors de moy.  
 
-    CLORIMANT
+    CLORIMANT.
 Quoy ma belle, aurois-tu ces doutes de ma foy⁎ ?  
 Quel sujet en as-tu ? je prie, & je conjure  
 Le Temps, le Ciel, la Mort, & toute la Nature  
@@ -1573,7 +1573,7 @@ Ma funeste memoire [79] afin de me punir,
 Execrable à jamais aux races advenir [80].  
 Ah tu m'offences trop par cette deffiance.  
 
-    ELIZE
+    ELIZE.
 Je te veux demander pardon de cette offence,  
 J'ay tort si je croy rien [81] capable desormais  
 De faire desmentir les serments que tu fais.  
@@ -1588,10 +1588,10 @@ Mais quant à ceux du corps, je n'en puis disposer,
 Ils ne sont point à moy, mon pere en est le maistre,  
 Je les tiens tous de luy puis qu'il m'a donné l'estre.  
 
-    CLORIMANT
+    CLORIMANT.
 Ton pere te peut il deffendre de m'aymer ?  
 
-    ELIZE
+    ELIZE.
 Non, mais à son vouloir il me faut conformer :  
 Je te puis bien aymer cher Clorimant sans feindre.  
 Mon pere n'eut jamais pouvoir de me contraindre,  
@@ -1616,7 +1616,7 @@ Quand je devrois me mettre un poignard dans le sein.
 Ouy, ne m'en blasme point, Clorimant, je te prie.  
 Avec cette pudeur⁎ on m'a tousjours nourrie.  
 
-    CLORIMANT
+    CLORIMANT.
 Le Ciel ne voudra pas me rendre malheureux  
 Jusques à ruyner mes desseins Amoureux.  
 S'il ne tient qu'à cela je te promets mon ame,  
@@ -1628,84 +1628,84 @@ C'est pour avoir veillé, de peur d'estre [88] malade
 Va reposer une heure, & moy durant ce temps  
 J'iray faire une affaire.  
 
-    ELIZE
+    ELIZE.
         Il est vray, je me sens  
 L'esprit tout assoupi. Va, mais ne tarde guere.  
 
-    GERASTE *à Pauline* 
+    GERASTE *à Pauline*.
 Sommes-nous pas d'accord ?  
 
-    PAULINE
+    PAULINE.
         Parle donc à mon pere.  
 Je n'oserois jamais sans son consentement,  
 Quand je devrois mourir, recevoir un Amant.  
 
-    GERASTE
+    GERASTE.
 Ne tient-il qu'à cela ? Je le feray Pauline,  
 Mais quand je reviendray, ne me fay pas la mine [89],  
 Si tu ne veux soudain me mettre au desespoir.  
 
-    PAULINE
+    PAULINE.
 Va ne crains rien, & vien [90] promptement me revoir.  
 Fin du premier Acte 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE I
+### SCENE I.
 CLORIMANT, PAULINE, ELIZE, GERASTE
 
 
-    CLORIMANT
+    CLORIMANT.
 Je me trompe, ou je voy Pauline dans la ruë ?  
 Dy moy, que fais-tu là ?  
 
-    PAULINE
+    PAULINE.
         Je suis icy venuë  
 Expres pour vous attendre, elle est en grand soucy⁎  
 Pourquoy [91] vous tardez tant. Madame le voicy.  
 
-    ELIZE
+    ELIZE.
 Approche, Clorimant, tu te fais bien attendre.  
 
-    CLORIMANT
+    CLORIMANT.
 J'estois en compagnie, & n'ay peû me deffendre  
 De quelques miens amis qui m'ont entretenu.  
 Je serois toutefois encor plustost venu,  
 Si je n'eusse pensé [92] te trouver endormie.  
 
-    ELIZE
+    ELIZE.
 J'ay sans mentir esté plus d'une heure & demie  
 Sans pouvoir fermer l'œil, à ne resver qu'à toy,  
 Je n'ay plaisir aucun [93] que lors que je te voy.  
 
-    CLORIMANT
+    CLORIMANT.
 Ravy d'un tel bon-heur qui d'ayse⁎ me transporte⁎.  
 
-    PAULINE *entre*
+    PAULINE *entre*.
 Madame, un Cavalier⁎ vous demande à la porte  
 De la part de Diane.  
 
-    ELIZE
+    ELIZE.
         Ah je sçay bien que c'est [94].  
 Elle veut que je voye un Amant qui luy plaist,  
 Qu'elle m'a fort loué, cache toy la derriere,  
 De peur qu'il ne te voye, il ne tardera guere,  
 Il n'est pas à propos qu'il te rencontre icy.  
 
-    CLORIMANT
+    CLORIMANT.
 Je fais ce que tu veux.  
 
-    ELIZE
+    ELIZE.
         Et toy Geraste aussi.  
 
 
-### SCENE II 
+### SCENE II. 
 CLITANDRE, ELIZE, CLORIMANT, ORMIN, GERASTE, PAULINE
 
 
-    CLITANDRE
+    CLITANDRE.
 Pardonnez-moy, je viens de la part d'une Dame  
 Qui vous baise les mains⁎. Dieux je suis tout de flame,  
 Vit-on jamais au monde une telle beauté ?  
@@ -1714,7 +1714,7 @@ En contemplant les traits d'un si parfait visage,
 Que je ne sçaurois pas achever mon message  
 Je tremble devant vous, & me sens tout transy.  
 
-    ELIZE
+    ELIZE.
 Si Diane, Monsieur, vous fait venir icy  
 Pour me faire sçavoir combien elle est heureuse  
 De vous avoir acquis, & se dire Amoureuse  
@@ -1724,7 +1724,7 @@ Elle m'oblige⁎ fort, & je la tiens loüable [95].
 D'avoir sçeu faire en vous un choix si raisonnable,  
 Et pour cette faveur je luy baise les mains⁎.  
 
-    CLITANDRE
+    CLITANDRE.
 Je meurs, je n'en puis plus, ah destins inhumains  
 Que voulez vous de moy, que pretendez vous faire ?  
 Appelez-moy Madame, innocent [96], temeraire,  
@@ -1746,7 +1746,7 @@ Ouy, Madame, j'advouë en ce peril extresme,
 Qu'on ne vous peut trouver [99] sans se perdre soy mesme,  
 D'abord on est à vous, & l'on n'est plus à soy.  
 
-    ELIZE
+    ELIZE.
 Tout ce discours ne tend qu'à vous mocquer de moy,  
 Je souffre⁎ les effets de cette raillerie,  
 Puis qu'elle vient de vous. Mais, Monsieur, je vous prie  
@@ -1757,22 +1757,22 @@ Que je la veux payer en la mesme monnoye,
 En luy monstrant le choix que j'ay fait d'un espoux  
 Qui sans vous faire tort vaut bien autant que vous.  
 
-    CLITANDRE
+    CLITANDRE.
 Ah Madame, il vaut mieux mille fois que moy-mesme,  
 Puis qu'il a cét adveu de vostre ardeur⁎ extresme,  
 Mais horsmis vostre amour, qui l'esleve à ce point  
 Croyez-moy qu'en merite il ne m'égale point,  
 Et beaucoup moins encor en l'amour qu'il vous porte.  
 
-    CLORIMANT *dedans voulant sortir* 
+    CLORIMANT *dedans voulant sortir*.
 Geraste arreste toy, laisse il faut que je sorte,  
 Que je vange l'affront que ce traistre me fait.  
 
-    GERASTE *dedans* 
+    GERASTE *dedans*.
 Tout beau⁎ ! quoy voulez vous vous perdre tout à fait,  
 Ne songez point à vous, considerez Elize.  
 
-    ELIZE
+    ELIZE.
 Pardonnez si je parle avec cette franchise,  
 Vous me desobligez de discourir ainsi,  
 D'un homme que j'estime, & qui m'estime aussi.  
@@ -1781,195 +1781,195 @@ De ne tesmoigner pas ce que vostre cœur pense,
 Puis que pour ce sujet je vous ay desjà dit  
 L'estime que j'en fais [101].  
 
-    CLITANDRE
+    CLITANDRE.
         Je suis tout interdit⁎.  
 J'ay les sens tout confus, permettez moy, Madame,  
 Puis que vous possedez, & mon cœur, & mon Ame,  
 Que je baise la main qui me donne la mort.  
 
-    ELIZE
+    ELIZE.
 Vous vous mocquez de moy, Monsieur vous avez tort,  
 Ce n'est point mon dessein de vouloir estre aymée,  
 Si quelqu'un survenoit serois-je pas blasmée :  
 Car que penseroit-on de vous voir en ce lieu ?  
 Allez vous en de grace, & me dites Adieu.  
 
-    CLITANDRE
+    CLITANDRE.
 Mon ame est dans vos fers tellement enchaisnée,  
 Que s'il plaisoit au Ciel qu'un heureux Hymenée⁎  
 Nous peust joindre tous deux, quel seroit mon destin.  
 Madame excusez moy tout tend à bonne fin,  
 Si vous me rebutez mon esperance est morte.  
 
-    ORMIN *à Pauline* 
+    ORMIN *à Pauline*.
 Mesprisez vous aussi l'amour que je vous porte ?  
 N'aurez vous point pitié d'un miserable Amant  
 Que vos beaux yeux ont peû charmer en un moment ?  
 
-    PAULINE
+    PAULINE.
 J'ay bien d'autres pensers dedans la fantaisie⁎.  
 
-    ELIZE
+    ELIZE.
 Ces furieux⁎ transports⁎ dont vostre ame est saisie  
 Ces offres de service⁎, & ces feux vrais, ou feints,  
 Ne peuvent qu'à la fin rendre vos espoirs vains,  
 Laissez moy seule icy, retirez vous de grace.  
 
-    PAULINE
+    PAULINE.
 On appelle Madame.  
 
-    ELIZE
+    ELIZE.
         Ah grands Dieux qui sera-ce ?  
 
 
-### SCENE III 
+### SCENE III. 
 ELIZE, PAULINE, POLEMAS, CLITANDRE, OCTAVE, ORMIN
 
 
-    ELIZE
+    ELIZE.
 Qu'on ouvre promptement.  
 
-    POLEMAS
+    POLEMAS.
 il entre
 
         Vous mocquez-vous de moy ?  
 De me faire tarder [102]. Mais qu'est-ce que je voy ?  
 L'avois-je pas bien dit ?  
 
-    OCTAVE
+    OCTAVE.
         Souffrez⁎-vous cette injure ?  
 
-    CLITANDRE *bas* 
+    CLITANDRE *bas*.
 Je suis perdu, grands Dieux !  
 
-    OCTAVE
+    OCTAVE.
         Un homme icy ! je jure. [103]  
 
-    POLEMAS
+    POLEMAS.
 Octave arrestez-vous, laissez-moy ce soucy,  
 Sçachons ce qu'il demande, & ce qu'il fait icy.  
 Parlez à moy, Monsieur, dites-moy quelle affaire  
 Vous emmeine [104] en ce lieu ?  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
         Grands Dieux je desespere.  
 
-    CLITANDRE *se trouble*
+    CLITANDRE *se trouble*.
 J'estois venu Monsieur, de la part, arrivant ;  
 Mais moy, quand elle fut, je suis auparavant.  
 
-    OCTAVE
+    OCTAVE.
 Qu'attendez-vous Monsieur ?  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
         O fille mal-heureuse.  
 
-    POLEMAS
+    POLEMAS.
 En pareils accidents⁎ la force est dangereuse,  
 Que faites vous icy ? Non n'ayez point de peur,  
 Parlez sans vous troubler.  
 
-    CLITANDRE
+    CLITANDRE.
         Je vous jure Monsieur,  
 Croyez-moy s'il vous plaist, que jamais en ma vie,  
 Je ne vous offençai, ny n'en ay point d'envie.  
 
-    POLEMAS
+    POLEMAS.
 Laissons-là ce discours, c'est assez je vous crois,  
 Que faites-vous icy ?  
 
-    CLITANDRE
+    CLITANDRE.
         C'est la premiere fois,  
 Ou je puisse perir [105].  
 
-    POLEMAS
+    POLEMAS.
         Je sçay bien le contraire.  
 Ce n'est pas le moyen d'accommoder⁎ l'affaire,  
 Si vous me déguisez ainsi la verité.  
 
-    CLITANDRE
+    CLITANDRE.
 Je vous la dy Monsieur.  
 
-    OCTAVE
+    OCTAVE.
         Ah quelle fausseté !  
 
-    POLEMAS
+    POLEMAS.
 Croyez qu'on ne peut pas aysément me surprendre⁎ :  
 Mais quel est vostre nom ?  
 
-    CLITANDRE
+    CLITANDRE.
         On m'appelle Clitandre.  
 
-    POLEMAS
+    POLEMAS.
 Le nom de vostre pere ?  
 
-    CLITANDRE
+    CLITANDRE.
     Il est mort.  
 
-    POLEMAS
+    POLEMAS.
         Mais comment  
 Le nommoit-on ?  
 
-    CLITANDRE
+    CLITANDRE.
         Son nom estoit Theodomant.  
 
-    POLEMAS
+    POLEMAS.
 Je l'ay cognu, c'estoit un homme de merite  
 Et de condition⁎ ; mais vous qui vous incite  
 A venir voir ma fille ? estes-vous engagé  
 Sous les lois de l'Hymen ?  
 
-    CLITANDRE
+    CLITANDRE.
     Non.  
 
-    POLEMAS
+    POLEMAS.
         Je l'ay bien jugé.  
 
-    OCTAVE
+    OCTAVE.
 Pourquoy ces questions où la preuve est si claire ?  
 A quoy bon ce discours ?  
 
-    POLEMAS
+    POLEMAS.
         Tout beau⁎, laisse moy faire.  
 Venez çà [106], sçavez-vous que ce logis est mien ?  
 Et que je suis son pere ?  
 
-    CLITANDRE
+    CLITANDRE.
         Ouy je le sçay fort bien.  
 
-    POLEMAS
+    POLEMAS.
 Passez un peu deçà [107].  
 
-    CLITANDRE *bas* 
+    CLITANDRE *bas*.
         Dieux soyez à mon ayde,  
 Il faut perir icy, la chose est sans remede,  
 Ou souffrir⁎ un affront.  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
         J'ay le cœur tout transi⁎.  
 
-    POLEMAS *à ELIZE*
+    POLEMAS *à ELIZE*.
 Elize respons moy, quel est cét homme icy ?  
 
-    ELIZE
+    ELIZE.
 Celuy qu'il vous a dit.  
 
-    POLEMAS
+    POLEMAS.
         Mais dy moy qui l'engage  
 A te venir chercher ?  
 
-    ELIZE
+    ELIZE.
         Il m'apporte un message  
 De Diane qu'il sert.  
 
-    OCTAVE *à Polemas* 
+    OCTAVE *à Polemas*.
         Ah Monsieur en effet  
 C'est mon rival qui sert cét adorable objet⁎  
 Dont je vous ay parlé faictes que tout à l'heure⁎  
 Il espouse ma sœur ou souffrez⁎ que je meure ;  
 Je n'en puis autrement jamais venir à bout.  
 
-    POLEMAS *à ELIZE* 
+    POLEMAS *à ELIZE*.
 Laisse-moy ce soucy, j'accommoderay⁎ tout, [108]  
 Elize ne dy mot, il n'est point necessaire  
 D'alleguer tes raisons, mais appren [109] à te taire.  
@@ -1984,12 +1984,12 @@ J'ay trop d'opinion de [111] ta sage conduitte,
 A tout ce que je vay resoudre sur ce point,  
 Consens-y sans replique, & ne contredy [112] point.  
 
-    ELIZE
+    ELIZE.
 Il faut bien se resoudre à prendre patience⁎.  
 Monsieur vous cognoistrez un jour mon innocence,  
 Et que vous m'accusez en ceci sans raison.  
 
-    POLEMAS
+    POLEMAS.
 Cavalier⁎ je vous trouve icy dans ma maison,  
 Avec ma propre fille, & ne suis point en peine [113]  
 De m'informer de vous quel sujet vous y meine,  
@@ -2005,7 +2005,7 @@ Je vous l'offre, & vous donne un temps pour y penser :
 Songez-y, je n'ay point dessein de vous forcer,  
 Car il ne seroit pas juste ny raisonnable.  
 
-    CLITANDRE
+    CLITANDRE.
 Monsieur si mon Amour est saint & veritable  
 Cognoissez-le par là, je me tiens trop heureux  
 Si je puis acquerir le tiltre glorieux,  
@@ -2013,7 +2013,7 @@ Non seulement d'Espoux, mais d'esclave d'Élize.
 Et si cette faveur aujourd'huy m'est acquise,  
 Je n'ay plus rien au monde apres à souhaiter.  
 
-    POLEMAS
+    POLEMAS.
 Ce n'est pas mon dessein icy de profiter  
 De cette occasion par trop precipitée,  
 Avant que cette affaire entre nous soit traittée,  
@@ -2027,31 +2027,31 @@ Encor que la vertu d'Elize, & sa sagesse
 Peuvent bien suppléer au defaut de richesse  
 Qui passe de beaucoup ce que je puis donner.  
 
-    CLITANDRE
+    CLITANDRE.
 Je l'adore Monsieur, & pour vous tesmoigner  
 Que j'estime l'honneur d'une telle alliance  
 Autant que son merite, allons en diligence  
 En dresser les accords, & le contract passer.  
 
-    OCTAVE
+    OCTAVE.
 C'est parler comme il faut, je vous veux embrasser.  
 
-    POLEMAS
+    POLEMAS.
 Allons puis qu'il vous plaist, j'en ay l'ame ravie.  
 
-    ORMIN *à CLITANDRE* 
+    ORMIN *à CLITANDRE*.
 Vous vous mariez donc ? d'où vous naist cette envie ?  
 Pourrez-vous à Diane ainsi manquer de foy⁎ ?  
 
-    CLITANDRE
+    CLITANDRE.
 Elle aura patience⁎ aussi bien comme moy [114].  
 
 
-### SCENE IIII 
+### SCENE IIII. 
 CLORIMANT, GERASTE, ELIZE, PAULINE
 
 
-    CLORIMANT
+    CLORIMANT.
 Ingrate & fiere⁎ Elize a mon ame agitée [115]  
 Cent fois plus que la palme à ceux qui l'ont plantée,  
 Croy que si ce rival eust [116] tardé seulement  
@@ -2089,7 +2089,7 @@ Et faire revoquer ta parole donnée ?
 Peut-on te rendre ainsi le courage abatu ?  
 Pourquoy ne dis-tu mot, que ne me responds-tu ?  
 
-    ELIZE
+    ELIZE.
 Ah mon cher Clorimant ! Grands Dieux je suis troublée  
 Par le nombre des maux dont je suis accablée,  
 Je ne suis plus à moy, toutesfois je puis bien  
@@ -2116,7 +2116,7 @@ Dispose à ton plaisir de tout ce que je puis,
 Je te seray tousjours telle que je te suis.  
 Elize te le jure.  
 
-    CLORIMANT
+    CLORIMANT.
         Ah non ce n'est point elle,  
 Elize ne sçauroit jamais estre infidelle,  
 Ou celle maintenant qui se presente à moy  
@@ -2126,7 +2126,7 @@ Me garderoit la foy⁎ qu'elle m'avoit jurée,
 Puis qu'elle me renonce, & me traitte à tel point,  
 Si c'est elle en effet je ne la cognoy point.  
 
-    ELIZE
+    ELIZE.
 Tu me fais tort mon cœur, non, non je suis la mesme  
 Je suis comme je fus, cette Elize qui t'ayme,  
 Croy ce que je te dis, & que je te promets,  
@@ -2141,7 +2141,7 @@ Elle auroit peu d'esprit, & moins de jugement⁎
 De vouloir preferer un autre à Clorimant,  
 Je te l'ay dit cent fois, & te le dis encore.  
 
-    CLORIMANT
+    CLORIMANT.
 C'est ce qui te convainc [121], & qui te deshonore.  
 Ta voix me favorise, ingrate, mais ton cœur  
 Se livre absolument à ce nouveau vainqueur.  
@@ -2158,7 +2158,7 @@ En arrivant au camp, que la premiere bale
 Laissant mon pasle corps sans force, & sans vigueur,  
 Efface pour jamais ton portrait de mon cœur.  
 
-    ELIZE
+    ELIZE.
 Va si la guerre plaist à ton humeur mutine [124],  
 N'as-tu pas en toy-mesme une guerre intestine [125] ?  
 L'Amour ne fait-il pas chez toy de tous costez,  
@@ -2171,31 +2171,31 @@ Comment peux-tu jamais rien de bon entreprendre ?
 Si bien loin d'attaquer tu ne te peux deffendre ?  
 Ne t'en va point mon cœur, ne m'abandonne pas.  
 
-    CLORIMANT
+    CLORIMANT.
 Veux-tu m'accompagner, veux-tu suivre mes pas ?  
 
-    ELIZE
+    ELIZE.
 Dieux ! es-tu raisonnable ?  
 
-    CLORIMANT
+    CLORIMANT.
         Et pourquoy donc ingrate  
 Veux-tu qu'en te croyant encore je me flate ?  
 
-    ELIZE
+    ELIZE.
 Quel scandale grands Dieux ! que diroit-on de moy ?  
 Pense à ce que tu dis.  
 
-    CLORIMANT
+    CLORIMANT.
         Ame lasche⁎ & sans foy⁎.  
 Tu me dis que je pense & que je considere !  
 En matiere d'Amour, celle qui delibere  
 N'en a point, ou du moins s'il faut qu'elle en ait eu  
 En parlant de la sorte elle l'a tout perdu.  
 
-    ELIZE
+    ELIZE.
 Avant que de [127] partir escoute deux paroles.  
 
-    CLORIMANT
+    CLORIMANT.
 Ce ne seroit pour moy que des contes frivoles,  
 Je me mocque à present des discours que tu fais,  
 Si le vent les emporte, il me faut des effets.  
@@ -2203,10 +2203,10 @@ Non je n'escoute plus.
 (Il s'en va)
 
 
-    PAULINE
+    PAULINE.
         Geraste que t'en semble ?  
 
-    GERASTE
+    GERASTE.
 Que je m'enfuy de toy, que nous partons ensemble,  
 Desloyale parjure, ame ingrate, & sans foy⁎.  
 Va qu'une balle passe à mille pas de moy,  
@@ -2215,106 +2215,106 @@ Si tu me vois jamais infidelle Pauline.
 (Il s'en va)
 
 
-    ELIZE
+    ELIZE.
 Va promptement Pauline, appelle Clorimant.  
 
-    PAULINE
+    PAULINE.
 Il n'ira pas bien loing, car sçachez qu'un Amant  
 Qui fait le furieux en quittant ce qu'il ayme,  
 Fait en cette action violence à soy-mesme.  
 
-    ELIZE
+    ELIZE.
 Je suis morte r'entrons [130], peut-estre un mot d'escrit  
 Aura quelque pouvoir sur ce boüillant [131] esprit.  
 
 
-### SCENE V 
+### SCENE V. 
 DIANE, JULIE
 
 
-    DIANE
+    DIANE.
 Clitandre s'entretient long-temps avec Elize,  
 Crois-tu pas en effet qu'elle sera surprise,  
 Et peut-estre jalouse en voyant que j'ay l'heur⁎  
 De posseder ce brave⁎ & galand⁎ serviteur [132].  
 
-    JULIE
+    JULIE.
 Il est vray que Clitandre a beaucoup de merite,  
 Mais n'apprehendez rien d'une telle visite ;  
 Car je sçay de certain qu'Elize ayme, & je croy  
 Qu'elle a, si l'on dit vray, mesme engagé sa foy⁎.  
 
-    DIANE
+    DIANE.
 J'oy du bruit, voy qui c'est.  
 
-    JULIE
+    JULIE.
         C'est Clitandre, Madame.  
 
 
-### SCENE VI 
+### SCENE VI. 
 DIANE, CLITANDRE, JULIE, ORMIN
 
 
-    DIANE
+    DIANE.
 Qu'il est triste ? avez vous quelque trouble dans l'ame ?  
 Vous estes ce me semble interdit⁎ de tout point,  
 Que veut dire cela ? quoy vous ne parlez point.  
 
-    CLITANDRE *bas* 
+    CLITANDRE *bas*.
 De divers sentiments, je sens mon ame atteinte.  
 
-    DIANE
+    DIANE.
 Qui [133] vous rend interdit⁎ & muët ?  
 
-    CLITANDRE
+    CLITANDRE.
         Une crainte.  
 
-    DIANE
+    DIANE.
 Une crainte avec moy ? Dieux ! pour quel suject ?  
 Dites avez vous veu cét agreable object ?  
 
-    CLITANDRE *bas en souspirant* 
+    CLITANDRE *bas en souspirant*.
 Ouy, c'est pour cét object que je suis tout de flame.  
 
-    DIANE
+    DIANE.
 Comment vous souspirez.  
 
-    CLITANDRE
+    CLITANDRE.
         Je souspire, Madame.  
 
-    DIANE
+    DIANE.
 Ouy mon cœur, est-ce moy qui vous fait souspirer ?  
 
-    CLITANDRE* bas* 
+    CLITANDRE* bas*.
 Ouy c'est pour un subject que je veux adorer.  
 
-    JULIE *à Ormin* 
+    JULIE *à Ormin*.
 Ormin es-tu muët aussi bien que ton maistre ?  
 
-    ORMIN
+    ORMIN.
 En cette occasion⁎, helas peussay-je l'estre !  
 
-    DIANE
+    DIANE.
 Encor d'où venez-vous, qu'avez-vous ?  
 
-    CLITANDRE
+    CLITANDRE.
         Je ne sçay,  
 Madame, je ne puis vous dire ce que j'ay,  
 Je viens de veoir Elize.  
 
-    DIANE
+    DIANE.
         He bien quelle nouvelle ?  
 Parlez-moy franchement, comment se porte t'elle ?  
 
-    CLITANDRE
+    CLITANDRE.
 Elle se porte bien.  
 
-    DIANE
+    DIANE.
         Dites-moy donc mon Cœur,  
 D'où vous naist ce chagrin⁎, cette mauvaise humeur ?  
 Vous a-t-elle pas dit combien je vous estime ?  
 
-    CLITANDRE
+    CLITANDRE.
 Madame excusez moy, je commettrois un crime  
 Indigne de l'honneur de vostre affection,  
 Si je vous celois rien en cette occasion⁎.  
@@ -2333,37 +2333,37 @@ Ils m'ont forcé tous deux, mais de telle façon,
 Que quoy que j'aye dit, quoy que j'aye [134] pû faire,  
 Il m'a falu, grands Dieux, ce mot me desespere.  
 
-    DIANE
+    DIANE.
 Quoy donc ?  
 
-    CLITANDRE
+    CLITANDRE.
         Il m'a falu sur l'heure l'espouser.  
 
-    DIANE
+    DIANE.
 Que dites-vous grands Dieux ?  
 
-    CLITANDRE
+    CLITANDRE.
         Pouvois-je m'opposer  
 Avec si peu de force à tant de violence ?  
 On n'a jamais parlé d'une telle insolence,  
 Si j'eusse d'un seul mot resisté [135] seulement,  
 Tous deux ne m'auroient pas laissé vivre un moment.  
 
-    DIANE
+    DIANE.
 Vit-on jamais au monde une telle surprise ?  
 Mais à tout ce discours encor qu'a dit Elize ?  
 
-    CLITANDRE
+    CLITANDRE.
 Qu'auroit-elle pû dire ? en fin il a falu,  
 Puis qu'elle a veu son pere à ce poinct resolu,  
 Se resoudre elle mesme & prendre patience⁎.  
 
-    DIANE
+    DIANE.
 M'osez vous bien parler avec cette impudence ?  
 M'estimez vous si simple, & l'esprit si mal sain  
 Que je ne puisse pas penetrer ?  
 
-    CLITANDRE
+    CLITANDRE.
         C'est en vain.  
 Vous me blasmez à tort, ouy je jure Madame  
 Que vous n'avez point droict de soubçonner ma flame.  
@@ -2379,80 +2379,80 @@ Et qu'un sainct Hymenée⁎ apres ces maux soufferts
 Esteigne tous ses feux⁎ [136] & relasche ses fers.  
 Madame accomplissons ce double mariage.  
 
-    DIANE
+    DIANE.
 Perfide, osez-vous bien me tenir ce langage ?  
 Je vous entends tres-bien, vous estes je le voy,  
 Tous trois d'intelligence, & liguez contre moy.  
 Je voy bien ce que c'est Elize m'a trahie,  
 Adieu, perfide ingrat.  
 
-    CLITANDRE
+    CLITANDRE.
         Escoutez je vous prie.  
 
-    DIANE
+    DIANE.
 Que veux-tu que j'escoute, ame lasche⁎ & sans foy⁎ ?  
 Ta presence aujourd'huy me cause de l'effroy.  
 (Elle s'en va)
 
 Sors, & n'espere pas de [137] me voir de ta vie.  
 
-    ORMIN
+    ORMIN.
 Elle part en cholere.  
 
-    CLITANDRE
+    CLITANDRE.
         Arreste-la Julie.  
 
-    JULIE
+    JULIE.
 Je ne le puis. Ormin tu t'en repentiras.  
 (Elle s'en va)
 
 Pauline aura pour toy de plus charmants appas,  
 Imite cét ingrat, comme luy cours au change⁎.  
 
-    ORMIN
+    ORMIN.
 Que ferons-nous Monsieur ?  
 
-    CLITANDRE
+    CLITANDRE.
         Mon Elize est un Ange :  
 Sortons, n'arrestons [138] pas d'avantage en ce lieu.  
 Allons revoir Élize. Adieu Diane, Adieu.  
 Fin du second Acte 
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE I
+### SCENE I.
 CLORIMANT vestu en Soldat, botté & esperonné, avec un grand colet de Buffle [139], & force [140] plumes : & GERASTE vestu en Soldat ridiculement.
 
 
-    CLORIMANT
+    CLORIMANT.
 Tout mon fait [141] est-il prest ?  
 
-    GERASTE
+    GERASTE.
         Monsieur vostre valize,  
 Est en fort bon estat.  
 
-    CLORIMANT
+    CLORIMANT.
         Adieu perfide Elize,  
 Je m'en vay de ce pas, je veux t'abandonner,  
 Mes chevaux ?  
 
-    GERASTE
+    GERASTE.
         Tout à l'heure⁎ on les doit emmener [142],  
 Mais pourrez-vous quitter cét objet⁎ plain de charmes  
 Pour qui je vous ay veu respandre tant de larmes ?  
 
-    CLORIMANT
+    CLORIMANT.
 En doutes-tu Geraste ?  
 
-    GERASTE
+    GERASTE.
         Oüy j'ay lieu d'en douter,  
 Vous feignez de parler, & de vous absenter,  
 Afin de luy donner un peu de jalousie,  
 Vous n'irez pas bien loing.  
 
-    CLORIMANT
+    CLORIMANT.
         Dieux quelle frenaisie [143],  
 Escoute, & si je ments, me punissent les Dieux.  
 Un trait poussé de l'arc, un oyseau dans les Cieux,  
@@ -2461,13 +2461,13 @@ Ne descendit jamais plus viste de la nuë
 Que je fuy de ces lieux, je suis trop irrité  
 Pour souffrir⁎ les mespris d'une ingrate beauté.  
 
-    GERASTE
+    GERASTE.
 Quoy, Monsieur, seriez vous jusqu'à ce point farouche,  
 Qu'un escrit de sa main, un soupir de sa bouche,  
 Une larme d'un œil qui tellement vous plaist,  
 Ne puisse retracter ce rigoureux arrest⁎.  
 
-    CLORIMANT
+    CLORIMANT.
 D'un œil qui pour un autre a maintenant des charmes  
 Pourrois-je voir pour moy jamais couler des larmes ?  
 La main dont mon rival doit estre possesseur,  
@@ -2480,7 +2480,7 @@ Va tu m'offenceras si tu veux d'avantage
 T'opposer au dessein d'un si juste voyage.  
 Ne m'en parle donc plus.  
 
-    GERASTE
+    GERASTE.
         J'ateste⁎ tous les Dieux  
 Que le moindre soûpir, deux larmes de ses yeux,  
 Quatre mots de sa main escrits avec tendresse,  
@@ -2488,48 +2488,48 @@ Car je cognois assez quelle est vostre foiblesse,
 Au milieu de la nuë arresteroient l'esclair,  
 Le trait poussé de l'arc, & l'oyseau dedans l'air.  
 
-    CLORIMANT
+    CLORIMANT.
 J'entends quelqu'un frapper, ouvre-tost, c'est Pauline.  
 
-    GERASTE
+    GERASTE.
 Ils seront occupez, comme je m'imagine,  
 Tous aux nopces d'Elize, à recevoir l'Espoux,  
 Et vous pensez encor qu'elles songent à vous ?  
 Dieux quelle extravagance !  
 
-    CLORIMANT
+    CLORIMANT.
         Ouvre, c'est elle-mesme.  
 
-    GERASTE
+    GERASTE.
 Me doutois-je pas bien qu'en cette ardeur⁎ extresme,  
 Le moindre compliment⁎ pourroit vous ébranler,  
 Qu'est devenu ce trait, cét oyseau, cét esclair ?  
 Est-ce pour ce subjet que vous faisiez le brave ?  
 
-    CLORIMANT
+    CLORIMANT.
 Ouvre, te dis-je.  
 
-    GERASTE
+    GERASTE.
         Hé quoy ! vous faisiez tant du grave [144],  
 Des larmes de ses yeux, des lettres de ses mains,  
 Des souspirs de sa bouche ! à quoy bon ces dédains ?  
 
-    CLORIMANT
+    CLORIMANT.
 Veux-tu que tout de bon je me mette en colere !  
 
-    GERASTE
+    GERASTE.
 En colere ? pourquoy ! vous n'auriez guere à faire.  
 Elle entre icy, Monsieur.  
 
 
-### SCENE II
+### SCENE II.
 PAULINE, CLORIMANT, GERASTE
 
 
-    PAULINE
+    PAULINE.
         O le brave⁎ soldat !  
 
-    GERASTE
+    GERASTE.
 Quoy ? n'en vois-tu pas deux prests d'aller au combat ?  
 Lisant des Espagnols la sanglante défaite,  
 Tu verras plusieurs fois mon nom dans la Gazette [145],  
@@ -2538,26 +2538,26 @@ Tu verras plusieurs fois mon nom dans la Gazette [145],
 Nous ne partirons point sans doute de chez nous,  
 Et serons dans Paris bien éloignez des coups.  
 
-    PAULINE
+    PAULINE.
 O Dieux qu'il est gentil [146], & qu'il a bonne mine,  
 Où de grace allez-vous ?  
 
-    CLORIMANT
+    CLORIMANT.
         A la guerre, Pauline.  
 
-    PAULINE
+    PAULINE.
 Que je ry de vous voir, que j'y prens de plaisir,  
 De grace laissez-vous contempler à loisir.  
 
-    CLORIMANT
+    CLORIMANT.
 Satisfaits si tu veux à present ton envie,  
 Car tu ne me verras je jure de ta vie.  
 Mais Pauline que fais cette femme dy moy ?  
 
-    PAULINE
+    PAULINE.
 La nommez-vous ainsi ?  
 
-    CLORIMANT
+    CLORIMANT.
         Je fay ce que je doy.  
 Dy moy comment veux-tu qu'à present je la nomme,  
 Si l'on donne ce nom à qui possede un homme  
@@ -2577,27 +2577,27 @@ J'y consens de bon cœur, ouy je te le promets ;
 Mais je sors de ces lieux pour ne t'y voir jamais,  
 Tu t'en dois asseurer. Mais dy moy qui t'emmeine [148] ?  
 
-    PAULINE
+    PAULINE.
 Un papier que voicy.  
 
-    CLORIMANT
+    CLORIMANT.
         Quoy de cette inhumaine ?  
 Elle me contera sa nopce en cét escrit.  
 
-    PAULINE
+    PAULINE.
 Si vous sçaviez le trouble où se voit son esprit,  
 Pour conserver pour vous le tiltre de fidelle,  
 Je croy qu'asseurément vous auriez pitié d'elle  
 
-    CLORIMANT
+    CLORIMANT.
 Une lettre d'Elize est un venin pour moy.  
 Reporte-là de grace.  
 
-    PAULINE
+    PAULINE.
         Ah justes Dieux pourquoy ?  
 Voyez ce qu'elle escrit.  
 
-    CLORIMANT
+    CLORIMANT.
         Que me peut-elle dire ?  
 Bien pour l'amour de toy, Pauline, il la faut lire.  
 LETTRE
@@ -2618,7 +2618,7 @@ Mais avant donnez-moy le bon-heur de vous voir,
 Vostre Elize n'est pas tout à fait engagée,  
 Et peut tomber encor dessous vostre pouvoir.  
 
-    CLORIMANT
+    CLORIMANT.
 Ouy j'ay grand tort Elise, & vous avez raison,  
 Justes Dieux quelle noire & lasche⁎ trahison,  
 Quel procedé perfide est aujourd'huy le vostre ?  
@@ -2626,29 +2626,29 @@ Cette main que bien-tost doit posseder un autre
 Veut-elle derechef exciter mon courroux  
 Par ce style outrageux ?  
 
-    PAULINE
+    PAULINE.
         De quoy vous plaignez-vous ?  
 
-    CLORIMANT
+    CLORIMANT.
 Allegue-t'elle icy raison en sa deffence  
 Qui puisse d'un moment retarder mon absence ?  
 Que je parle dit-elle ?  
 
-    PAULINE
+    PAULINE.
         Ah vous avez grand tort.  
 D'où vous naist dites-moy ce furieux⁎ transport⁎ ?  
 Voyez-vous pas assez qu'Elize vous adore ?  
 
-    CLORIMANT
+    CLORIMANT.
 Que sous d'autre pouvoir elle n'est pas encore  
 Me dit-elle l'ingrate.  
 
-    PAULINE
+    PAULINE.
         Où [149] songez vous grands Dieux ?  
 Relisez cét escrit, considerez-le mieux,  
 Voyez qu'il est remply d'Amour & de tendresse.  
 
-    CLORIMANT
+    CLORIMANT.
 Il me trahit Pauline il dément sa promesse,  
 Cette lettre ne tend qu'à dégager⁎ sa foy⁎,  
 Elle tesmoigne avoir quelque pitié de moy,  
@@ -2658,29 +2658,29 @@ Escrit, tu ris de moy, mais tu le payeras.
 (Il le rompt)
 
 
-    PAULINE
+    PAULINE.
 Que faites-vous Monsieur ? ah ne le rompez pas.  
 
-    CLORIMANT
+    CLORIMANT.
 C'en est fait, c'est trop peu pour une ame offencée,  
 Que ne tiens-je aussi bien la main qui l'a tracée.  
 
-    PAULINE
+    PAULINE.
 Ne respondrez-vous point ?  
 
-    CLORIMANT
+    CLORIMANT.
         Tay toy, sors de ce lieu,  
 Ne me parle jamais de cette ingratte, Adieu.  
 
-    PAULINE
+    PAULINE.
 Je reviendray tantost, vous estes en colere.  
 
 
-### SCENE III
+### SCENE III.
 GERASTE, CLORIMANT
 
 
-    GERASTE
+    GERASTE.
 Vous avez tort, Monsieur, mais que pensez-vous faire ?  
 Songez qui vous attaque [151], & ne vous laissez point  
 En cette occasion⁎ emporter à tel point.  
@@ -2688,11 +2688,11 @@ Pourquoy vous prenez vous à la mesme innocence [152] ?
 Si Pauline obeït, Elize vous offence.  
 C'est elle seulement que vous devez blasmer.  
 
-    CLORIMANT
+    CLORIMANT.
 Quoy traistre en ma presence, oses-tu bien nommer  
 Encor cette perfide ?  
 
-    GERASTE
+    GERASTE.
         En cette ardeur⁎ extresme,  
 Si vous n'estes, Monsieur, du tout hors de vous-mesme  
 Vous parroissez avoir perdu le jugement⁎.  
@@ -2705,72 +2705,72 @@ Puis qu'elle le desire, & qu'elle vous en presse,
 Ce billet semble escrit avec tant de tendresse  
 Que vous ne devez pas la condamner ainsi.  
 
-    CLORIMANT
+    CLORIMANT.
 Appelle-la, Geraste.  
 
-    GERASTE
+    GERASTE.
         Elle est bien loin d'icy.  
 
-    CLORIMANT
+    CLORIMANT.
 Va promptement apres.  
 
-    GERASTE
+    GERASTE.
     J'y cours Monsieur.  
 
-    CLORIMANT
+    CLORIMANT.
         Arreste,  
 N'y va pas.  
 
-    GERASTE
+    GERASTE.
     Bien Monsieur.  
 
-    CLORIMANT
+    CLORIMANT.
         L'action que j'ay faite  
 Monstre que j'ay du cœur [154] en ayant resisté  
 Au desir d'aller voir cette ingrate beauté.  
 Mais pourray-je souffrir⁎ d'estre un moment sans elle.  
 Pauline n'est pas loing, cours apres & l'apelle.  
 
-    GERASTE
+    GERASTE.
 J'y vay Monsieur.  
 
-    CLORIMANT
+    CLORIMANT.
         Que dis-je, escoute n'en fais rien.  
 Vit-on jamais mal-heur qui fust esgal au mien ?  
 La chose est resoluë, oüy sans plus de remise⁎,  
 Il faut absolument que j'aille voir Elize.  
 La Cholere ne peut l'emporter sur l'Amour.  
 
-    GERASTE
+    GERASTE.
 Allons-y cette nuit.  
 
-    CLORIMANT
+    CLORIMANT.
         Non, non, j'yray de jour.  
 
-    GERASTE
+    GERASTE.
 De jour, comment cela ?  
 
-    CLORIMANT
+    CLORIMANT.
         Ne t'en mets pas en peine [155].  
 Grands Dieux changez Elize, ou mon Amour en haine.  
 
 
-### SCENE IV
+### SCENE IV.
 ORMIN, CLITANDRE
 
 
-    ORMIN
+    ORMIN.
 Vous estes tout pensif, qu'avez vous ?  
 
-    CLITANDRE
+    CLITANDRE.
         Je ne sçay.  
 L'alliance d'Elize où je me voy forcé  
 Me met, lors que j'y pense, en grande inquietude.  
 
-    ORMIN
+    ORMIN.
 Vous la trouviez si belle.  
 
-    CLITANDRE
+    CLITANDRE.
         Ouy, mais n'est-il pas rude  
 Qu'en fait de mariage & d'inclination⁎  
 On force un Cavalier⁎ de ma condition⁎ ?  
@@ -2785,13 +2785,13 @@ Seul avecque sa fille un pere m'ait bravé,
 Mais jusques à tel point, ah ce seul mot m'outrage,  
 De m'avoir malgré moy fait faire un mariage.  
 
-    ORMIN
+    ORMIN.
 Vous n'avez pas raison, car vous l'avez voulu.  
 
-    CLITANDRE
+    CLITANDRE.
 J'ay feint de le vouloir, car il l'a bien falu.  
 
-    ORMIN
+    ORMIN.
 Mais, Monsieur, entre nous, souffrez⁎ que je le die [156],  
 Vostre amoureuse ardeur⁎ s'est bien-tost refroidie,  
 Je vous voyois tantost bouïllant, & tout de feu,  
@@ -2799,17 +2799,17 @@ Et je voy qu'à present vous en avez fort peu.
 Mais je ne trouve point en vous ce fait estrange,  
 C'est vostre humeur, Monsieur, d'aller courir au change⁎.  
 
-     CLITANDRE
+    CLITANDRE.
 On me donne trop peu, dy ce que tu voudras.  
 Comment me contenter de six mille ducats [157]  
 Que le pere promet, moy qui les ay de rente [158].  
 
-    ORMIN
+    ORMIN.
 Vous deviez y songer, mais à l'heure presente,  
 Vous n'avez pas raison, car vous ne deviez point,  
 Pour vous en repentir leur accorder ce point.  
 
-    CLITANDRE
+    CLITANDRE.
 Pour attraper mon bien, croy moy qu'elle & son pere  
 Ont fort adroittement mesnagé cette affaire,  
 Ouy de me la livrer ils avoient fait complot,  
@@ -2817,19 +2817,19 @@ Mesme à ma premiere offre & de me prendre au mot.
 Pourray-je me sauver, & m'exempter de blasme ?  
 Que dira-t'on de moy ?  
 
-    ORMIN
+    ORMIN.
         Que vous avez pris femme  
 Parfaite, belle, & sage, & qui pourroit je croy,  
 Je dy sans la flatter l'estre mesme d'un Roy.  
 Si l'on vous a surpris [159], cette surprise est belle,  
 Mais que [160] tardez-vous plus, on vous attend chez elle.  
 
-    CLITANDRE
+    CLITANDRE.
 Il le faut bien Ormin, alons n'y pensons plus,  
 C'en est fait ces discours ne sont que superflus,  
 Voy s'ils sont au logis, nous sommes à la porte.  
 
-    ORMIN
+    ORMIN.
 Monsieur songez à vous, gouvernez vous [161] de sorte  
 Qu'on n'ait pas de sujet de vous rien reprocher,  
 La chose est sans remede, il n'en faut plus chercher.  
@@ -2840,11 +2840,11 @@ Tout est ouvert entrons.
 
 
 
-### SCENE V
+### SCENE V.
 POLEMAS, CLITANDRE, ORMIN, ELIZE, PAULINE, OCTAVE
 
 
-    [POLEMAS]
+    [POLEMAS].
         Toute la Cour, Monsieur,  
 Ayant sçeu que de vous je reçois tant d'honneur,  
 De desirer entrer dedans nostre famille,  
@@ -2852,104 +2852,104 @@ M'a fait des compliments⁎ : mais j'ay peur que ma fille
 N'ait trop peu de merite, & trop peu de beauté,  
 Pour posseder ce bien qu'elle a peu merité.  
 
-    CLITANDRE
+    CLITANDRE.
 C'est moy qui suis heureux d'asservir ma franchise⁎  
 Sous les divines loix de la parfaite Elize,  
 Qui voy dans ce bon-heur tous mes desirs contents.  
 
-    OCTAVE
+    OCTAVE.
 Je m'estonne Monsieur, comme en si peu de temps  
 On ait peû dans Paris sçavoir ce mariage.  
 
-    POLEMAS
+    POLEMAS.
 Pourquoy s'en estonner, Clitandre a l'advantage  
 D'estre connu de tous, & chery d'un chacun.  
 
-    OCTAVE
+    OCTAVE.
 Croyez que dans Paris ce bruit est tout commun,  
 Et qu'il s'est fait par tout bien promptement respandre.  
 
-    POLEMAS
+    POLEMAS.
 Je tiens quoy qu'il en soit, Clitandre pour mon gendre.  
 
-    CLITANDRE
+    CLITANDRE.
 J'y gagne seul, Monsieur.  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
         Et moy seule j'y perds.  
 
-    CLITANDRE
+    CLITANDRE.
 Vous me mettrez aux Cieux.  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
         Et moy dans les Enfers.  
 
-    POLEMAS
+    POLEMAS.
 Des sieges promptement.  
 
-    OCTAVE *bas* 
+    OCTAVE *bas*.
         Que j'ay l'ame ravie.  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
 Grands Dieux, c'est à ce coup qu'on attente⁎ à ma vie.  
 
 
-### SCENE VI
+### SCENE VI.
 PAULINE, POLEMAS, OCTAVE, CLORIMANT, ELIZE, CLITANDRE, ORMIN, GERASTE
 
 
-    PAULINE
+    PAULINE.
 Un Cavalier⁎ là bas vous demande, Monsieur.  
 
-    POLEMAS
+    POLEMAS.
 Qu'il entre. C'est quelqu'un qui me fait la faveur  
 De vouloir prendre part à l'excés de joye,  
 Que toute la Cour sçait que le Ciel nous envoye.  
 
-    OCTAVE
+    OCTAVE.
 Il n'en faut point douter.  
 
-    CLORIMANT *entre* 
+    CLORIMANT *entre*.
         Me trouvant fort pressé  
 De faire un grand voyage où je me voy forcé.  
 Ayant appris aussi qu'une importante affaire  
 Vous tient tous assemblez, il n'est point necessaire  
 De vous entretenir de discours superflus.  
 
-    ELIZE *bas*
+    ELIZE *bas*.
 Que voy-je justes Dieux ? que j'ay l'esprit confus.  
 
-    POLEMAS
+    POLEMAS.
 Seyez-vous [162] donc Monsieur, mettez vous à vostre ayse ;  
 Holà, que promptement on luy donne une chaise.  
 
-    CLORIMANT
+    CLORIMANT.
 Avant qu'agir [163] du fait qui m'emmeine [164] ceans⁎,  
 Je doy feliciter ces bien-heureux Amants,  
 Puis qu'aujourd'huy l'Hymen joint vos deux destinées,  
 Que ce soit s'il luy plaist pour un siecle d'années.  
 
-    ELIZE* bas à Pauline* 
+    ELIZE* bas à Pauline*.
 Dieux quelle effronterie !  
 
-    PAULINE *bas à Elize* 
+    PAULINE *bas à Elize*.
         Elle est au dernier point ;  
 Madame est-il troublé ?  
 
-    ELIZE *bas à Pauline* 
+    ELIZE *bas à Pauline*.
         Non non il ne l'est point.  
 
-    POLEMAS
+    POLEMAS.
 Mes enfants respondez.  
 
-    CLITANDRE
+    CLITANDRE.
         Pour cét honneur extresme  
 Je vous baise les mains⁎.  
 
-    ELIZE
+    ELIZE.
         Et moy j'en fais de mesme [165].  
 
-    CLORIMANT *à Polemas* 
+    CLORIMANT *à Polemas*.
 Pour ne vous tenir pas davantage en soucy,  
 Je vous diray, Monsieur, ce qui m'emmeine [166] icy.  
 Je vay tout de ce pas en poste à Barcelone ;  
@@ -2958,62 +2958,62 @@ Quelque argent à toucher, & me faire ce bien
 Avant que de [167] partir de recevoir le mien  
 Qui me peze par trop [168].  
 
-    ELIZE *bas à Pauline*
+    ELIZE *bas à Pauline*.
         Ah ! cét homme Pauline  
 Est venu pour me perdre ; hé Dieux il m'assassine.  
 
-    PAULINE *bas à Elize* 
+    PAULINE *bas à Elize*.
 Dissimulez un peu.  
 
-    ELIZE *bas à Pauline* 
+    ELIZE *bas à Pauline*.
         Pauline je ne puis.  
 
-    CLORIMANT
+    CLORIMANT.
 C'est de quoy j'ay besoing en l'estat où je suis.  
 J'ay sçeu que vous aviez de la correspondance  
 Sur tous les lieux qui sont aux frontieres de France,  
 Et vous ne voudrez pas, tant vous estes courtois⁎,  
 Me refuser ce bien.  
 
-    POLEMAS
+    POLEMAS.
         Il est vray qu'autre fois  
 Aysement j'eusse peû vous rendre ce service,  
 Mais j'ay depuis dix ans quitté cét exercice,  
 Et je suis fort marry [169] de n'avoir point cét heur⁎.  
 
-    CLORIMANT
+    CLORIMANT.
 Je suis trop mal-heureux.  
 
-    ELIZE
+    ELIZE.
         Si vous voulez, Monsieur,  
 Pour quelque peu de temps differer ce voyage  
 Vous en pourrez trouver mesme avec advantage.  
 
-    CLORIMANT
+    CLORIMANT.
 Je le souhaitterois, Madame, extresmement ;  
 Mais je ne sçaurois plus retarder un moment.  
 Ce depart m'est sans doute un rigoureux martire⁎,  
 Mais mon mal en restant seroit encor bien pire.  
 
-    ELIZE
+    ELIZE.
 Sçaurois-je point pourquoy vous fuyez de ces lieux ?  
 Nostre sexe, Monsieur, est prompt & curieux ;  
 Excusez si je suis en ce point mal apprise⁎.  
 
-    CLITANDRE *bas à Ormin* 
+    CLITANDRE *bas à Ormin*.
 Est-ce ce Cavalier⁎ qui recherchoit Elize ?  
 
-    ORMIN *bas à Clitandre* 
+    ORMIN *bas à Clitandre*.
 Ouy qui part de cholere.  
 
-    CLITANDRE* bas à Ormin*
+    CLITANDRE* bas à Ormin*.
         Ah ! qu'il l'ait j'y consens  
 Luy cédant de bon cœur le droit que j'y prétens.  
 
-    ELIZE *à Clorimant* 
+    ELIZE *à Clorimant*.
 Dites-m'en le sujet, Monsieur, je vous supplie.  
 
-    CLORIMANT
+    CLORIMANT.
 Cette cause provient d'une melancolie [170],  
 Je croy qu'en la sçachant je vous feray pitié ;  
 J'avois fait en ces lieux une estroitte amitié  
@@ -3042,7 +3042,7 @@ Bravans [173] ma passion, le meilleur ce me semble,
 Est de les quitter là. Que je puisse voler  
 Pour sortir de ces lieux viste comme un esclair.  
 
-    ELIZE
+    ELIZE.
 Si de vos differents [174] vous me jugez croyable,  
 Je ne vous trouve pas en ce poinct raisonnable ;  
 Vous vous trompez peut-estre. Ouy je ferois serment  
@@ -3060,108 +3060,108 @@ Les heures que sans fruit vous consommez en plaintes ;
 Et vous sçaurez voyant vos soupçons dissipez,  
 Si vostre amy vous trompe, ou si vous vous trompez.  
 
-    CLORIMANT
+    CLORIMANT.
 Le sort en est jetté je ne m'en puis desdire.  
 
-    CLITANDRE
+    CLITANDRE.
 Ouy, de tous les affrons, le mespris est le pire,  
 Je n'en ferois pas moins ; & vous avez raison  
 De vous vanger ainsi de cette trahison.  
 Croyez-moy, Clorimant, usez-en de la sorte.  
 
-    ORMIN *bas à Clitandre* 
+    ORMIN *bas à Clitandre*.
 La passion, Monsieur, en ce poinct vous emporte,  
 Vous vous delorez [176] trop.  
 
-    CLITANDRE* bas à Ormin* 
+    CLITANDRE* bas à Ormin*.
         Nous nous entendons bien.  
 
-    CLORIMANT
+    CLORIMANT.
 Je ne veux pas, Messieurs, troubler vostre entretien,  
 Je pren [177] congé de vous.  
 
-    ELIZE *bas à Pauline* 
+    ELIZE *bas à Pauline*.
         Ah Pauline je pasme [178] !  
 
-    PAULINE *bas à Elize* 
+    PAULINE *bas à Elize*.
 Vous vous delorez trop, moderez vous Madame.  
 
-    ELIZE *bas à Pauline* 
+    ELIZE *bas à Pauline*.
 Pauline je ne puis.  
 
-    [POLEMAS] *à Clorimant*
+    [POLEMAS] *à Clorimant*.
         Je suis au desespoir !  
 En cette occasion⁎ que je n'ay le pouvoir  
 De vous servir, Monsieur, comme je le souhaite.  
 
-    CLORIMANT
+    CLORIMANT.
 Pardonnez s'il vous plaist la faute que j'ay faite,  
 C'est abuser du temps qui vous doit estre cher.  
 
-    POLEMAS
+    POLEMAS.
 C'est ce qu'on ne sçauroit, Monsieur, vous reprocher.  
 
-    CLORIMANT
+    CLORIMANT.
 Adieu, je ne veux pas arrester davantage.  
 
-    OCTAVE
+    OCTAVE.
 Puissiez-vous revenir en santé du voyage.  
 (Clorimant sort)
 
 
 
-### SCENE VII 
+### SCENE VII. 
 POLEMAS, CLITANDRE, ORMIN, ELIZE, PAULINE, OCTAVE
 
 
-    POLEMAS
+    POLEMAS.
 Ce Cavalier⁎ icy sans doute me prenoit  
 Pour homme de trafic [179].  
 
-    CLITANDRE
+    CLITANDRE.
         C'est ce qui l'emmenoit [180].  
 
-    POLEMAS
+    POLEMAS.
 Clorimant, dites-vous ? Est-ce ainsi qu'on le nomme ?  
 
-    CLITANDRE
+    CLITANDRE.
 Ouy, Monsieur.  
 
-    POLEMAS
+    POLEMAS.
         Il paroist fort brave⁎ Gentil-homme⁎.  
 Pour quelque peu de temps pourrois-je vous quitter ?  
 
-    OCTAVE
+    OCTAVE.
 C'est ce qu'il doit, Monsieur, que je croy souhaitter  
 Pour pouvoir discourir avecque sa maistresse.  
 Donnons-luy le loisir.  
 
-    POLEMAS
+    POLEMAS.
         Bien Monsieur je vous laisse,  
 Il est juste, & mon fils a fort bonne raison.  
 Disposez comme estant enfant de la maison.  
 
-    CLITANDRE
+    CLITANDRE.
 Vous me rendez confus par cét honneur extresme.  
 (Polemas & Octave s'en vont)
 
 
 
-### SCENE VIII
+### SCENE VIII.
 ORMIN, PAULINE, CLITANDRE, ELIZE
 
 
-    ORMIN
+    ORMIN.
 Je ne sçaurois celer, Pauline, que je t'ayme.  
 Ta maistresse & mon maistre estans tous deux rangez  
 Dessous le joug d'Hymen nous sommes obligez  
 De faire entre nous deux un second mariage.  
 
-    PAULINE
+    PAULINE.
 Ne t'imagine pas que je sois si volage,  
 J'ayme, & je ne puis pas me desgager⁎ ainsi.  
 
-    ORMIN
+    ORMIN.
 Quoy ! ce nouveau soldat te met-il en soucy ?  
 Ce procedé me semble extremement estrange,  
 Car tu cognois assez que tu gagnes au change.  
@@ -3169,21 +3169,21 @@ Ce maraut [181] ose-t'il seulement t'aborder ?
 Et sans trembler de peur peut-il me regarder ?  
 S'il l'osoit je ferois.  
 
-    PAULINE
+    PAULINE.
     Quoy ?  
 
-    ORMIN
+    ORMIN.
         Dieux je desespere,  
 N'excite point de grace à ce point ma cholere,  
 S'il s'oppose jamais au bien que je pretends [182] !  
 
-    PAULINE
+    PAULINE.
 Ormin en ta cholere espargne les absens,  
 S'il estoit devant toy tu serois ce me semble  
 Un peu plus retenu, tel menace qui tremble,  
 Ce courage estant seul, est grandement suspect.  
 
-    ORMIN
+    ORMIN.
 (Durant ce temps Clitandre & Elize sont assis sans parler)
 
 Apres un tel discours puis-je avoir du respect ?  
@@ -3191,117 +3191,117 @@ Mais à ce que je voy mon maistre & ta maistresse
 Sont muets, si j'osois prendre la hardiesse  
 Je les resveillerois.  
 
-    PAULINE
+    PAULINE.
         Pourquoy ? tu le peux bien.  
 
-    ORMIN
+    ORMIN.
 Oserois-je Monsieur troubler vostre entretien ?  
 Aupres d'un tel object pouvez vous bien vous taire ?  
 
-    CLITANDRE
+    CLITANDRE.
 Ormin en luy parlant je crains de luy déplaire.  
 Madame ne dit mot, & je me tais aussi.  
 
-    ORMIN *bas à Clitandre* 
+    ORMIN *bas à Clitandre*.
 Vous paroissez, Monsieur, un amoureux transi [183].  
 
-    CLITANDRE *en se levant* 
+    CLITANDRE *en se levant*.
 Madame si j'osois je prendrois la licence  
 De demander congé pour chose d'importance,  
 Mais quoy j'offencerois en ce point mon devoir.  
 
-    ELIZE
+    ELIZE.
 Vous estes maistre icy, vous avez tout pouvoir.  
 
-    CLITANDRE
+    CLITANDRE.
 Je sors donc, & ce soir je vous verray, Madame.  
 
-    ELIZE
+    ELIZE.
 Faites ce qu'il vous plaist.  
 
 
-### SCENE IX
+### SCENE IX.
 ELIZE, PAULINE
 
 
-    ELIZE
+    ELIZE.
         Ah, Pauline, je pasme [184] !  
 En cette occasion⁎, qui me peut consoler ?  
 
-    PAULINE
+    PAULINE.
 Mais, Madame, il falloit icy dissimuler,  
 Et luy faire à l'abord un peu meilleure mine,  
 Vous contraindre un moment.  
 
-    ELIZE
+    ELIZE.
         Je ne sçaurois Pauline.  
 Que ferois-je grands Dieux ? puis-je agir autrement ?  
 Il faut bien que je meure en perdant Clorimant,  
 Il s'absente ; à ce mot Dieux je perds la parole,  
 Il s'en va de ces lieux, mais plutost il s'envole.  
 
-    PAULINE
+    PAULINE.
 Il faut trouver moyen de le faire arrester.  
 
-    ELIZE
+    ELIZE.
 L'honneur me le deffend, mais je le veux dompter.  
 Ouy pour toy j'ay tout fait, Honneur, je le proteste⁎,  
 Mais il faut que l'Amour joue icy de son reste [185].  
 
-    PAULINE
+    PAULINE.
 Madame voulez-vous vous resoudre à ce point,  
 Laissez-m'en le soucy, ne vous tourmentez point.  
 Faites choix d'une amie, à qui vous puissiez dire  
 Quelle est la passion qui cause ce martire⁎,  
 Qui puisse vous servir en ce pressant besoing.  
 
-    ELIZE
+    ELIZE.
 Croy que pour la trouver je n'irois pas bien loing.  
 Sans doute que Diane ayant perdu Clitandre  
 M'en donnera du blasme, il luy faut faire entendre  
 Que je n'ay point failly, qu'elle m'accuse à tort,  
 Et qu'elle s'en doit prendre à la rigueur du Sort.  
 
-    PAULINE
+    PAULINE.
 C'est bien pensé, pourveu qu'elle vous soit fidelle,  
 Il la faut supplier de le [186] mander chez elle,  
 Feignant adroittement qu'elle luy veut parler.  
 
-    ELIZE
+    ELIZE.
 Mais en fera-t'il compte, y voudra-t'il aller ?  
 
-    PAULINE
+    PAULINE.
 Il n'y manquera pas, vous avez tort de craindre,  
 Et là vous luy direz que l'on vous veut contraindre ;  
 Mais que nul envers vous n'en aura le pouvoir,  
 Et que l'Amour l'emporte au dessus du devoir.  
 
-    ELIZE
+    ELIZE.
 Mon pere, c'en est faict, pardonnez cette offence,  
 Mon Amour est plus fort que mon obeïssance.  
 Fin du troisiesme Acte 
 
 
-## ACTE IIII
+## ACTE IIII.
 
 
-### SCENE I
+### SCENE I.
 CLORIMANT, DIANE, GERASTE, JULIE
 
 
-    CLORIMANT
+    CLORIMANT.
 Est-il dessous le Ciel un plus heureux Amant ?  
 
-    DIANE
+    DIANE.
 Ce que je vous ay dit est tres-vray, Clorimant,  
 Je quitte cét ingrat voyant qu'il me mesprise.  
 
-    CLORIMANT
+    CLORIMANT.
 Ah Dieux ! par quel moyen je me vange d'Elize.  
 Va cheris ce Rival je n'en suis point jaloux,  
 En possedant Diane en qualité⁎ d'Espoux.  
 
-    DIANE
+    DIANE.
 C'est moy qui doit cherir une telle alliance,  
 Mais quoy que je m'y porte à present par vengeance,  
 Pour punir cét ingrat, croyez que quelque jour  
@@ -3310,67 +3310,67 @@ Mais consultons un peu ce que nous devons faire.
 (Ils parlent à l'oreille)
 
 
-    GERASTE *à Julie* 
+    GERASTE *à Julie*.
 Que t'en semble Julie, es-tu point en cholere  
 Aussi bien comme moy de perdre ton Espoux ?  
 
-    JULIE
+    JULIE.
 S'ils veulent se vanger, Geraste vangeons-nous ;  
 Si pour l'Amour de moy tu veux quitter Pauline,  
 Je quitte cét ingrat.  
 
-    GERASTE
+    GERASTE.
         Mais ne faits pas la fine,  
 Pour me quitter apres & te mocquer de moy ?  
 
-    JULIE
+    JULIE.
 Va sçache que je t'ayme, & que je suis à toy.  
 
-    CLORIMANT *à Diane* 
+    CLORIMANT *à Diane*.
 C'est tres-bien advisé⁎ d'en user de la sorte.  
 
-    DIANE
+    DIANE.
 J'entends quelqu'un là bas qui frappe à nostre porte.  
 Va voir qui c'est, Julie, & reviens promptement.  
 
-    JULIE *sort & rentre* 
+    JULIE *sort & rentre*.
 Madame, c'est Elize.  
 
-    CLORIMANT
+    CLORIMANT.
     Elize ?  
 
-    DIANE
+    DIANE.
         Ah ! Clorimant  
 Cachez-vous là dedans, il n'est pas raisonnable  
 Qu'elle vous trouve icy.  
 
-    CLORIMANT
+    CLORIMANT.
         Se connoissant coulpable,  
 Elle vient pour vous voir afin de s'excuser.  
 
-    DIANE
+    DIANE.
 Cachez-vous donc de grace.  
 
-    CLORIMANT
+    CLORIMANT.
         Il se faut exposer  
 Encor à cét affront ; car l'honneur m'y convie,  
 Quoy que pour me cacher j'ay hazardé ma vie.  
 Madame j'obeys, & je me cache icy.  
 
-    GERASTE
+    GERASTE.
 Que deviendray-je moy ?  
 
-    JULIE
+    JULIE.
         Va te cacher aussi.  
 (Ils se cachent)
 
 
 
-### SCENE II
+### SCENE II.
 ELIZE, DIANE, PAULINE, JULIE, CLORIMANT & GERASTE, cachez dans une chambre voisine.
 
 
-    ELIZE
+    ELIZE.
 Parce que vous avez juste subject de plainte,  
 Je n'ay point, chere amye, en cette rude atteinte  
 De mon cruel destin, dont je ressens les coups,  
@@ -3404,7 +3404,7 @@ Vous nous verrez rangez sous le joug d'Hymenée⁎,
 Malgré l'obeyssance, & malgré le respect  
 Qui peut rendre l'honneur d'une fille suspect.  
 
-    DIANE
+    DIANE.
 Vous vous estes, Madame, un peu tard advisée⁎,  
 Vous pouvez tout sur moy, la chose estoit aysée,  
 Clorimant est party, croyez que c'est en vain,  
@@ -3422,7 +3422,7 @@ J'ayme mieux que l'ennuy⁎ de l'absence me tuë.
 Et sans m'avoir donné le loisir de parler,  
 Il est party d'icy plus viste qu'un esclair.  
 
-    ELIZE
+    ELIZE.
 A ce triste discours Dieux que je suis surprise,  
 Clorimant est absent & tu peux vivre Elize ?  
 Ô rage ! ô desespoir ! ô rigueur de mon sort [188].  
@@ -3450,48 +3450,48 @@ Si je tiens des Dieux seuls ma franche⁎ volonté
 Peut on icy tenir ma liberté captive ?  
 Et Clorimant absent, croy-t'on qu'Elize vive ?  
 
-    PAULINE
+    PAULINE.
 Que faites vous Madame ? ah Dieux songez à vous !  
 
-    ELIZE
+    ELIZE.
 As-tu dessein icy d'exciter mon courroux ?  
 
-    PAULINE
+    PAULINE.
 Considerez un peu.  
 
-    ELIZE
+    ELIZE.
         Moy que je considere ?  
 Quoy ?  
 
-    PAULINE
+    PAULINE.
         Madame escoutez sans vous mettre en cholere,  
 Vostre honneur.  
 
-    ELIZE
+    ELIZE.
         Tes discours sont icy superflus.  
 
-    PAULINE
+    PAULINE.
 Le respect.  
 
-    ELIZE
+    ELIZE.
         Je le perds, & je n'escoute plus.  
 Non, non, je veux mourir, si je ne le puis suivre,  
 Car Clorimant absent Elize ne peut vivre.  
 
-    CLORIMANT *caché à Geraste bas* 
+    CLORIMANT *caché à Geraste bas*.
 Geraste laisse moy que je suive ses pas.  
 
-    GERASTE *à Clorimant bas* 
+    GERASTE *à Clorimant bas*.
 Retenez vous, Monsieur, grands Dieux ne sortez pas.  
 
-    CLORIMANT *bas à Geraste* 
+    CLORIMANT *bas à Geraste*.
 Vois-tu mon heur⁎ present, & qu'Elize m'adore,  
 Va laisse moy sortir.  
 
-    GERASTE
+    GERASTE.
         Il n'est pas temps encore.  
 
-    ELIZE
+    ELIZE.
 Je rentre maintenant en un gouffre d'ennuis,  
 Qui me peut consoler en l'estat où je suis ?  
 Non, non, il faut mourir, puis que le Ciel l'ordonne ;  
@@ -3501,40 +3501,40 @@ Que j'ay paru trop lente à te venir chercher.
 Puis que ma mort te plaist assouvy ton envie :  
 Car Elize sans toy ne peut aymer la vie.  
 
-    DIANE
+    DIANE.
 Madame je voudrois vous pouvoir consoler,  
 Mais dans mon sentiment je ne sçaurois parler.  
 
-    JULIE *entre* 
+    JULIE *entre*.
 Octave monte icy, Madame, avec Clitandre.  
 
-    ELIZE *surprise* 
+    ELIZE *surprise*.
 (Elle entre au mesme lieu où Clorimant & Geraste sont cachez)
 
 Dieux il me faut cacher je ne m'en puis deffendre.  
 Grands Dieux que faites vous ?  
 
 
-### SCENE III 
+### SCENE III. 
 OCTAVE, CLITANDRE, JULIE, DIANE, & CLORIMANT, GERASTE, ELIZE, & PAULINE, cachez dans la mesme chambre
 
 
-    OCTAVE* bas à Clitandre en entrant*
+    OCTAVE* bas à Clitandre en entrant*.
         En cette occasion⁎  
 Il vous faut puissamment marquer ma passion,  
 Dire que je l'adore, & que comme beau frere,  
 Vous venez terminer cette importante affaire.  
 
-    CLITANDRE* bas à Octave*
+    CLITANDRE* bas à Octave*.
 Laissez moy ce soucy, je n'y manquerois point.  
 
-    DIANE
+    DIANE.
 Je vous trouve insolent jusques au dernier point,  
 D'oser avec ce front, avec cette impudence,  
 Vous offrir à mes yeux m'ayant fait une offence,  
 Qui par aucun moyen ne se peut reparer.  
 
-    CLITANDRE
+    CLITANDRE.
 Ce violent courroux ne peut long temps durer,  
 Madame si je prends beaucoup de hardiesse,  
 Si j'ose entrer ceans⁎, c'est qu'Octave me presse,  
@@ -3547,7 +3547,7 @@ De vous rendre sensible à son affection ?
 Il veut de vostre voix recevoir la sentence,  
 Et mourir de douleur, ou vivre d'esperance.  
 
-    OCTAVE
+    OCTAVE.
 Dieux je serois, Madame, au comble de mes vœux,  
 Si vous pouviez souffrir⁎ cét homme ambitieux,  
 Qui brusle de desir de vous dire luy mesme,  
@@ -3555,74 +3555,74 @@ Combien il vous honnore, & combien il vous ayme.
 Vostre arrest⁎ quel qu'il soit terminera mon sort,  
 Et me donnant la vie, ou me causant la mort.  
 
-    DIANE
+    DIANE.
 De tant de soins, Monsieur, je me sens obligée⁎ ;  
 Mais j'ay tantost ailleurs ma parole engagée.  
 
-    OCTAVE
+    OCTAVE.
 Avec qui ? justes Dieux, je demeure transi⁎ !  
 
-    DIANE
+    DIANE.
 Avec un Cavalier⁎ qui n'est pas loing d'icy.  
 
-    CLITANDRE
+    CLITANDRE.
 Qu'on nomme ?  
 
-    DIANE
+    DIANE.
     Clorimant.  
 
-    CLITANDRE
+    CLITANDRE.
     Quel Clorimant ?  
 
-    OCTAVE *bas* 
+    OCTAVE *bas*.
         J'expire.  
 
-    DIANE
+    DIANE.
 Vous cognoissez fort bien celuy que je veux dire.  
 
-    CLITANDRE
+    CLITANDRE.
 Celuy que je cognois est absent de ces lieux.  
 
-    OCTAVE
+    OCTAVE.
 Madame, il a raison. Qu'entens-je justes Dieux ?  
 
-    CLITANDRE
+    CLITANDRE.
 Par ces inventions pretendez-vous, Madame,  
 Exciter maintenant quelque trouble en mon ame ?  
 Si vous avez dessein de me rendre jaloux  
 Vous travaillez en vain.  
 
-    DIANE
+    DIANE.
         Qu'ai je affaire de vous ?  
 N'esperez pas perfide, ame ingratte & volage,  
 Que je vous puisse voir & souffrir⁎ davantage.  
 J'abhore tout de vous, jusques à vostre nom,  
 Et demain vous verrez si je vous ments ou non.  
 
-    OCTAVE
+    OCTAVE.
 Clorimant est party, Madame, je le jure.  
 
-    CLITANDRE
+    CLITANDRE.
 Il n'est rien de plus vray.  
 
-    DIANE
+    DIANE.
         Dieux l'estrange imposture !  
 Sçachez que Clorimant n'est pas bien loing d'icy.  
 
-    OCTAVE
+    OCTAVE.
 Il m'est assez aysé de m'en voir esclaircy.  
 Je sçay bien son logis, allons y je vous prie.  
 
-    CLITANDRE
+    CLITANDRE.
 Allons je le veux bien, c'est une raillerie,  
 Cela ne sçauroit estre en aucune façon.  
 
-    OCTAVE
+    OCTAVE.
 De grace esclaircissons promptement ce soupçon.  
 Grands Dieux si ce discours estoit bien veritable  
 Seroit-il un Amant qui fust plus miserable ?  
 
-    CLITANDRE *bas* 
+    CLITANDRE *bas*.
 Si le Ciel me reserve à ce sensible ennuy⁎,  
 Je suis plus miserable & plus confus que luy.  
 S'il est vray qu'elle soit à cét autre engagée,  
@@ -3630,38 +3630,38 @@ Peut-elle estre de moy plus puissamment vengée ?
 (Ils s'en vont)
 
 
-    DIANE *à Julie* 
+    DIANE *à Julie*.
 Sçauroit on jamais voir deux Amans plus honteux ?  
 
-    JULIE
+    JULIE.
 Vous les avez tuez d'un mesme coup tous deux.  
 
 
-### SCENE IV
+### SCENE IV.
 ELIZE, CLORIMANT, GERASTE, PAULINE, DIANE, JULIE
 
 
-    [CLORIMANT *apres Elize & Pauline fuyant*
+    [CLORIMANT *apres Elize & Pauline fuyant*.
 Justes Dieux quels dédains vous me faites paroistre,  
 Qui vous oblige à fuyr ?  
 
-    ELIZE
+    ELIZE.
         Veux-tu me laisser traistre.  
 
-    CLORIMANT
+    CLORIMANT.
 Considerez, mon Cœur, que de tous les Amans  
 Je suis le plus fidelle.  
 
-    ELIZE
+    ELIZE.
         Ah perfide ! tu ments.  
 Oses-tu bien, ingrat, me tenir ce langage ?  
 
-    CLORIMANT
+    CLORIMANT.
 Qui vous peut obliger à ce cruel outrage ?  
 Vous me venez chercher, & quand vous me trouvez,  
 Vous fuyez ma rencontre, ou bien vous me bravez⁎.  
 
-    ELIZE
+    ELIZE.
 N'excite pas encor à ce poinct ma cholere,  
 Devrois-tu pas rougir, infidelle, & te taire,  
 Apres t'avoir fait voir que je n'ayme que toy,  
@@ -3683,25 +3683,25 @@ Que je n'auray jamais d'autre espoux que Clitandre.
 Avant qu'il soit une heure, il recevra ma foy⁎.  
 Adieu perfide ingrat.  
 
-    CLORIMANT
+    CLORIMANT.
         Madame escoutez moy.  
 
-    ELIZE
+    ELIZE.
 Que veux tu que j'escoute esprit lasche⁎ & volage ?  
 Oses-tu repartir⁎ ? est-ce là ce voyage  
 Que l'on ne pouvoit pas retarder d'un moment ?  
 
-    CLORIMANT
+    CLORIMANT.
 Madame ayez pitié d'un miserable Amant,  
 Qui veut mourir s'il perd vostre beauté divine.  
 
-    GERASTE
+    GERASTE.
 Vous perdez vostre temps. Toy que dis tu Pauline ?  
 (Elle s'en va)
 
 Feras-tu comme luy [190] ? Veux-tu m'abandonner ?  
 
-    PAULINE
+    PAULINE.
 Ne viens pas davantage icy m'importuner,  
 Julie aura pour toy la grace plus charmante.  
 Ay-je si peu de cœur que je ne me ressente [191]  
@@ -3710,75 +3710,75 @@ Puis que je t'ay trouvé caché dans sa maison.
 Je ne te veux ny voir ny parler de ma vie.  
 
 
-### SCENE V
+### SCENE V.
 CLORIMANT, DIANE, JULIE, GERASTE
 
 
-    CLORIMANT
+    CLORIMANT.
 Acheve-moy cruelle, assouvy ton envie.  
 (À Diane)
 
 Madame permettez que je suive ses pas.  
 
-    DIANE
+    DIANE.
 Escoutez Clorimant.  
 
-    CLORIMANT
+    CLORIMANT.
         Non je ne le puis pas.  
 Madame il faut mourir, ou fleschir ma cruelle.  
 
-    JULIE* à Geraste*
+    JULIE* à Geraste*.
 Geraste que dis-tu ? veux-tu m'estre infidelle ?  
 Veux-tu comme ton maistre estre ingrat.  
 
-    GERASTE
+    GERASTE.
         Laisse moy.  
 Je veux suivre Pauline & luy garder la foy⁎.  
 (Ils s'en vont)
 
 
 
-### SCENE VI
+### SCENE VI.
 DIANE, JULIE
 
 
-    DIANE
+    DIANE.
 Que dis-tu de cela ? vois-tu comme on nous traitte ?  
 
-    JULIE
+    JULIE.
 Vous n'estes pas je croy plus que moy satisfaicte.  
 Mais dites moy Madame, aymez vous Clorimant ?  
 
-    DIANE
+    DIANE.
 Clitandre est à mes yeux encore plus charmant.  
 J'auray pour son subject tousjours mesme tendresse,  
 Quoy qu'inconstant⁎ pourveu qu'Elize me le laisse.  
 
 
-### SCENE VII
+### SCENE VII.
 ORMIN, CLITANDRE de nuit
 
 
-    ORMIN
+    ORMIN.
 Pensez y mieux Monsieur, pourquoy desirez vous  
 De deux hommes d'honneur exciter le courroux ?  
 Ne leur avez vous pas la parole donnée  
 D'accomplir aujourdhuy cét heureux Hymenée⁎,  
 Le sort en est jetté vous reculez en vain.  
 
-    CLITANDRE
+    CLITANDRE.
 Je leur ay demandé terme jusqu'à demain.  
 Pour te dire le vray j'ay peine à m'y resoudre,  
 Et je veux si je puis tascher à le dissoudre.  
 
-    ORMIN
+    ORMIN.
 Comment le pourrez vous ?  
 
-    CLITANDRE
+    CLITANDRE.
         Je leur veux demander  
 Plus qu'ils ne m'ont promis.  
 
-    ORMIN
+    ORMIN.
         C'est mal y [192] proceder.  
 Cette action Monsieur n'est point d'un honneste homme,  
 Vous ne leur avez point demandé d'autre somme  
@@ -3786,7 +3786,7 @@ Avant que de [193] conclure, & maintenant pourquoy
 Sans raison voulez-vous desgager⁎ vostre foy⁎ ?  
 Que dira-t'on de vous ?  
 
-    CLITANDRE
+    CLITANDRE.
         Tout ce qu'on voudra dire,  
 J'ay fait presentement dessein de leur escrire  
 Que je suis resolu de ne l'espouser pas,  
@@ -3798,101 +3798,101 @@ Qu'ils disent encor pis il ne m'importe point.
 Ouy je souffriray⁎ tout bien plustost que le blasme  
 Que j'aurois d'avoir pris par contrainte une femme.  
 
-    ORMIN
+    ORMIN.
 Vous avez tort Monsieur, car vous l'avez voulu.  
 
-    CLITANDRE
+    CLITANDRE.
 Tay toy je suis, te dis-je, à ce point resolu.  
 
-    ORMIN
+    ORMIN.
 C'est d'Octave par trop irriter la colere.  
 
-    CLITANDRE
+    CLITANDRE.
 Octave, me dis-tu, que me sçauroit il faire ?  
 Ma Diane a pour moy de plus charmants appas,  
 Elle brusle pour moy, l'autre ne m'ayme pas.  
 Allons la voir, allons repaistre nostre veuë,  
 Des celestes appas dont le Ciel l'a pourveuë.  
 
-    ORMIN
+    ORMIN.
 (Clorimant & Geraste sortent) [194]
 
 Il est bien tard Monsieur, regardez qu'il est nuit.  
 
-    CLITANDRE
+    CLITANDRE.
 Allons soupper devant [195] retirons-nous sans bruit.  
 
-    ORMIN
+    ORMIN.
 C'est fort bien dit Monsieur, je vais à la cuisine.  
 
 
-### SCENE VIII
+### SCENE VIII.
 CLORIMANT, GERASTE de nuit
 
 
-    CLORIMANT
+    CLORIMANT.
 Geraste escoute un mot, dis-tu pas que Pauline  
 Te veut entretenir cette nuit ?  
 
-    GERASTE
+    GERASTE.
         Ouy Monsieur,  
 Mais j'y dois aller seul.  
 
-    CLORIMANT
+    CLORIMANT.
         Que t'importe, as-tu peur ?  
 
-    GERASTE
+    GERASTE.
 Ouy, car facilement on vous pourroit cognoistre,  
 Elle me doit tantost parler à la fenestre.  
 Retirez-vous, Monsieur, on ouvre que je croy.  
 
-    CLORIMANT
+    CLORIMANT.
 Non, je luy veux parler Geraste au lieu de toy.  
 
-    GERASTE
+    GERASTE.
 Mais ce que vous voulez ne sçaurois-je luy dire.  
 
-    CLORIMANT
+    CLORIMANT.
 Comme moy tu ne peux exprimer mon martire⁎.  
 
 
-### SCENE IX
+### SCENE IX.
 ELIZE & PAULINE à la fenestre de Clorimant, & Geraste à la ruë
 
 
-    ELIZE
+    ELIZE.
 Geraste doit-il pas te venir voir icy ?  
 
-    PAULINE
+    PAULINE.
 Madame je l'attens & croy que le voicy.  
 
-    ELIZE
+    ELIZE.
 Retire toy ; je veux luy parler en ta place [196].  
 
-    PAULINE
+    PAULINE.
 Luy diray-je pas bien ?  
 
-    ELIZE
+    ELIZE.
         Tu n'auras pas la grace  
 D'exprimer ce que j'ay dans l'ame, cache toy.  
 Est-ce pas toy Geraste ?  
 
-    CLORIMANT
+    CLORIMANT.
         Ouy Pauline, c'est moy :  
 (Bas)
 
 C'est Elize à la voix je l'ay bien recognuë.  
 
-    ELIZE
+    ELIZE.
 (Bas)
 
 C'est Clorimant sans doute, ou je suis bien deceuë⁎.  
 C'est luy mesme, voyez quel pouvoir a l'amour ? [197]  
 
-    CLORIMANT *bas* 
+    CLORIMANT *bas*.
 Je recognois Elize aussi bien qu'en plein jour.  
 
-    ELIZE
+    ELIZE.
 Dy que fait Clorimant, Geraste, mais peut-estre,  
 Que tu ne voudras pas parler contre ton maistre.  
 Je sçay que tu prens part dedans son interest,  
@@ -3903,101 +3903,101 @@ Sçavons nous pas que rien ne peut les desunir,
 Et tu viens cependant icy m'entretenir.  
 Mais peux-tu bien, Geraste, abandonner Julie ?  
 
-    CLORIMANT
+    CLORIMANT.
 Mon maistre aymer Diane ? ah Dieux quelle folie.  
 Tu te trompes Pauline, & crois qu'il n'en est rien.  
 
-    ELIZE
+    ELIZE.
 Pourquoy veux-tu nier ce que je sçay fort bien ?  
 L'avons nous pas trouvé n'agueres [198] avec elle ?  
 
-    CLORIMANT
+    CLORIMANT.
 Tu l'imites Pauline, en m'estant infidelle,  
 Je sçay que tu cheris cét Ormin mon rival,  
 A qui ce fer icy bien-tost sera fatal :  
 Mais tay toy je sçay bien à qui je m'en dois prendre.  
 
-    ELIZE
+    ELIZE.
 Tu veux dire en effet qu'Elize ayme Clitandre,  
 Mais peux tu bien, Geraste, excuser Clorimant  
 S'il dit qu'il n'ayme pas Diane, asseurement :  
 Tu sçais bien en ce point qu'il celle ce qu'il pense [199].  
 
-    CLORIMANT
+    CLORIMANT.
 Il mourroit de regret en cette longue absence,  
 Et l'on verroit ses sens de tous points interdits⁎  
 S'il la quittoit l'aymant ainsi comme tu dis.  
 
-    ELIZE
+    ELIZE.
 Il ne s'en ira point :  
 
-    CLORIMANT
+    CLORIMANT.
         Quoy Pauline es-tu folle  
 Il ne s'en ira point ? non, car croy moy qu'il volle.  
 Il est bien loing d'icy.  
 
-    ELIZE
+    ELIZE.
         Te mocques-tu de moy ?  
 
-    CLORIMANT
+    CLORIMANT.
 Mais te suis-je suspect, doutes-tu de ma foy⁎ ?  
 
-    ELIZE
+    ELIZE.
 Si tu dis vray, pourquoy t'a t'il laissé derriere ?  
 
-    CLORIMANT
+    CLORIMANT.
 Il me laisse en ce lieu pour un certain affaire [200]  
 Qu'il m'a recommandé.  
 
-    ELIZE *bas* 
+    ELIZE *bas*.
         Ah Dieux ! comme aysément  
 En cette occasion⁎ j'abuse⁎ Clorimant.  
 Et luy tout au rebours croit de [201] m'avoir trompée.  
 
-    CLORIMANT *bas* 
+    CLORIMANT *bas*.
 Elle me croit absent, elle est bien attrapée.  
 
-    ELIZE* bas* 
+    ELIZE* bas*.
 S'il pense me surprendre⁎ il l'entreprend en vain.  
 
-    CLORIMANT
+    CLORIMANT.
 Je m'en vay le trouver, je partiray demain,  
 Si ta maistresse veut luy mander quelque chose  
 Au moins sçache-le d'elle ? [202]  
 
-    ELIZE
+    ELIZE.
         Ah Geraste je n'ose,  
 Elle s'en veut deffaire & le laisser aller,  
 Elle ne veut jamais le voir n'y luy parler.  
 Quoy demain sans faillir elle espouse Clitandre.  
 La chose est resoluë.  
 
-    CLORIMANT
+    CLORIMANT.
         Ah que viens-je d'entendre ?  
 Elle espouse Clitandre ? est-il dessous les Cieux  
 Homme plus miserable ; oze-t'elle à mes yeux,  
 Commettre cette lasche⁎ & noire perfidie ?  
 Dy luy.  
 
-    ELIZE
+    ELIZE.
         Que veux-tu donc encor que je luy die [203] ?  
 
-    CLORIMANT
+    CLORIMANT.
 Qu'elle trahit, Pauline, un tres-fidelle Amant  
 Qu'elle est …  
 
-    ELIZE
+    ELIZE.
     Tout beau⁎ Geraste.  
 
-    CLORIMANT
+    CLORIMANT.
         Ah je suis Clorimant,  
 Que la perfide Elize à sa fureur immole.  
 
-    ELIZE
+    ELIZE.
 Qui Clorimant absent, qui Clorimant qui vole.  
 Qui s'enfuit de ces lieux plus viste que le vent.  
 
-    CLORIMANT
+    CLORIMANT.
 J'estois absent d'Elize, encore que present,  
 Car l'oubly se peut bien comparer à l'absence.  
 Elize m'oubliant, c'est une consequence  
@@ -4007,10 +4007,10 @@ Qui voit mon desespoir dis à cette infidelle
 Qu'il n'est rien plus volage & plus inconstant⁎ qu'elle,  
 Qu'elle est une perfide une …  
 
-    ELIZE
+    ELIZE.
         Tout beau⁎ c'est moy.  
 
-    CLORIMANT
+    CLORIMANT.
 Je te cognoissois bien, ame ingratte & sans foy⁎,  
 J'ay feint de m'en aller, perfide, je le jure  
 Que ce que j'en disois n'estoit qu'une imposture,  
@@ -4020,25 +4020,25 @@ Et pour ne garder rien d'un esprit si volage
 Tien [204] voilà tes escrits que j'immole à ma rage  
 Tes cheveux, ton pourtraict.  
 
-    GERASTE
+    GERASTE.
         Monsieur que faites vous ?  
 
-    CLORIMANT
+    CLORIMANT.
 Pourquoy me retiens tu ?  
 
-    GERASTE
+    GERASTE.
         Moderez ce courroux,  
 Et ne les rompez pas, apres cette cholere  
 Vous mourriez de regret.  
 
-    CLORIMANT
+    CLORIMANT.
         Quand je le considere  
 Tu dis vray, mais as-tu quelques papiers sur toy.  
 
-    GERASTE
+    GERASTE.
 J'ay des cartes, Monsieur.  
 
-    CLORIMANT
+    CLORIMANT.
         Bon, bon, donne les moy.  
 (Il luy donne des cartes. Il les rompt)
 
@@ -4055,16 +4055,16 @@ De bannir de mon cœur jusques à ta memoire [206].
 Adieu perfide, adieu, je sors de ton pouvoir,  
 Et n'imagine pas de jamais me revoir.  
 
-    ELIZE
+    ELIZE.
 Ne t'en va pas mon cœur, escoute une parole.  
 
-    CLORIMANT
+    CLORIMANT.
 Non je ne l'entends point d'une qui la viole.  
 
-    PAULINE* à Geraste* 
+    PAULINE* à Geraste*.
 Et toy Geraste aussi, veux-tu quitter ce lieu ?  
 
-    GERASTE
+    GERASTE.
 (Il s'en va)
 
 Ouy perfide, & te dire un eternel adieu.  
@@ -4075,23 +4075,23 @@ Et je vay dans le vin esteindre tous mes feux⁎.
 Tu t'en repentiras, je jure aussi bien qu'elle.  
 
 
-### SCENE X
+### SCENE X.
 PAULINE, ELIZE
 
 
-    ELIZE
+    ELIZE.
 Il est le seul coupable & me fait criminelle.  
 
-    PAULINE
+    PAULINE.
 Ils sont partis Madame.  
 
-    ELIZE
+    ELIZE.
         Ah si je ne sçavois  
 Que ce n'est pas, Pauline, icy la seule fois  
 Qu'il fait le furieux, qu'il part & qu'il demeure,  
 Je croy qu'assurément je mourrois tout à l'heure⁎.  
 
-    PAULINE
+    PAULINE.
 Il n'ira pas bien loing, ce n'est rien qu'un destour [208],  
 Pour faire rapprocher de plus pres son amour.  
 C'est comme un papillon qui fuit & bat de l'aile,  
@@ -4100,178 +4100,178 @@ Il a devant les yeux un trop obscur bandeau [209],
 C'est comme un ciel couvert qui nous menace d'eau  
 Dont pourtant on ne voit jamais tomber la pluye.  
 
-    ELIZE
+    ELIZE.
 Ah ! Pauline, je crains.  
 
-    PAULINE
+    PAULINE.
         Ne craignez pas qu'il fuye.  
 
-    ELIZE
+    ELIZE.
 Mais il vient à mes yeux de rompre mes escrits,  
 C'est ce qui me surprend, & trouble les esprits,  
 Je ne le celle point, cela me met en peine [210].  
 
-    PAULINE
+    PAULINE.
 Il ne s'en ira point la chose est tres-certaine,  
 Il est trop enchaisné de vos divins appas.  
 
-    ELIZE
+    ELIZE.
 De peur d'un accident⁎, va promptement là bas,  
 Ramasse ces escrits ; grands Dieux je desespere !  
 Ils pourroient aysément estre veus de mon pere.  
 
-    PAULINE
+    PAULINE.
 Bien Madame, j'y vay.  
 (Elle sort)
 
 
-    ELIZE
+    ELIZE.
         En l'estat où je suis,  
 Grands Dieux retirez moy de ce gouffre d'ennuis.  
 (Pauline à la ruë avec une chandelle, & Elize à la fenestre)
 
 
-    ELIZE
+    ELIZE.
 Est-il possible, ô Dieux ! qu'il m'ait fait cette injure,  
 Ramasse ces papiers.  
 
-    PAULINE
+    PAULINE.
         Des papiers je vous jure  
 Que je n'en voy pas un.  
 
-    ELIZE
+    ELIZE.
         Qu'est-ce que je voy là ?  
 
-    PAULINE
+    PAULINE.
 Une carte rompuë.  
 
-    ELIZE
+    ELIZE.
     Aporte.  
 
-    PAULINE
+    PAULINE.
         Là voilà.  
 
-    ELIZE
+    ELIZE.
 Que porte-t'elle ?  
 
-    PAULINE
+    PAULINE.
     Rien.  
 
-    ELIZE
+    ELIZE.
         Ah Pauline regarde.  
 
-    PAULINE
+    PAULINE.
 Je voy bien ce que c'est.  
 
-    ELIZE
+    ELIZE.
     Quoy ?  
 
-    PAULINE
+    PAULINE.
         C'est la hallebarde [211]  
 Du Valet de carreau.  
 
-    ELIZE
+    ELIZE.
     Que dis-tu ?  
 
-    PAULINE
+    PAULINE.
         Que voicy  
 Le bas du Roy de trefle.  
 
-    ELIZE
+    ELIZE.
     Et l'autre ?  
 
-    PAULINE
+    PAULINE.
         C'est icy  
 L'as de cœur.  
 
-    ELIZE
+    ELIZE.
         Vois-tu point quelque pourtrait, Pauline ?  
 
-    PAULINE
+    PAULINE.
 Ouy, je tiens une teste elle s'appelle Argine.  
 Madame c'est le haut de la Dame de cœur.  
 
-    ELIZE
+    ELIZE.
 Sans doute Clorimant est de jolie humeur,  
 Il se mocque de nous la chose est evidente.  
 
-    PAULINE
+    PAULINE.
 L'invention, Madame, est certes excellente.  
 
-    ELIZE
+    ELIZE.
 Monte, viens te coucher.  
 
-    PAULINE
+    PAULINE.
         Me coucher ! il est jour.  
 
-    [ELIZE]
+    [ELIZE].
 Clorimant tu ne peux desmentir ton amour.  
 Va je ne te crains plus, & croy, quoy que tu faces,  
 Qu'à present je me ry de toutes tes menaces.  
 Fin du quatriesme Acte 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE I
+### SCENE I.
 POLEMAS, OCTAVE
 
 
-    OCTAVE
+    OCTAVE.
 D'où vient que je vous voy, Monsieur si tost levé ?  
 
-    POLEMAS
+    POLEMAS.
 Comme je m'esveillois ce matin, j'ay trouvé  
 Ce billet que voicy, de la part de Clitandre,  
 Je croy que tu seras aussi surpris d'entendre  
 Ce qu'il m'escrit que moy, lors que tu l'auras leu.  
 
-    OCTAVE
+    OCTAVE.
 Encore que mande-t'il ?  
 
-    POLEMAS
+    POLEMAS.
         Je n'eusse jamais creu  
 Qu'un Cavalier⁎ d'honneur fust parjure ny lasche⁎,  
 Et procedast si mal, mais ce qui plus m'en fasche⁎,  
 Est que tout Paris sçait maintenant nostre accord.  
 
-    OCTAVE
+    OCTAVE.
 Sçauray-je point que c'est [212] ?  
 
-    POLEMAS
+    POLEMAS.
         Ah Clitandre a grand tort.  
 Allons trouver ta sœur, tu sçauras devant elle  
 Le sujet qui me trouble, & me met en cervelle [213],  
 Elle sera surprise aussi bien comme moy.  
 
-    OCTAVE
+    OCTAVE.
 Il est un peu matin, & ma sœur que je croy  
 Ne peut pas à cette heure estre encor esveillée.  
 Mais la voicy qui sort, mesme toute habillée.  
 
 
-### SCENE II
+### SCENE II.
 POLEMAS, ELIZE, PAULINE, OCTAVE
 
 
-    POLEMAS
+    POLEMAS.
 Ma fille quel sujet vous fait veiller ainsi ?  
 
-    ELIZE
+    ELIZE.
 Je ne sçaurois dormir.  
 
-    POLEMAS
+    POLEMAS.
         Si c'est pour le soucy⁎  
 Que vous cause l'amour de vostre Espoux Clitandre,  
 Ma fille je vous veux en trois mots faire entendre  
 Que vous n'y pensiez plus. Voyez ce qu'il m'escrit.  
 
-    ELIZE
+    ELIZE.
 N'importe cét amour trouble peu mon esprit.  
 Mais encor que dit-il ?  
 
-    POLEMAS
+    POLEMAS.
         Sçachez que cét infame⁎  
 Plus amoureux cent fois des biens que d'une femme  
 Vous veut bien espouser, mais à condition  
@@ -4280,31 +4280,31 @@ Et de quelle façon il vous cherit Elize)
 Qu'il veut avoir de plus, que la somme promise,  
 Quatre mille ducats.  
 
-    ELIZE
+    ELIZE.
         Grands Dieux que dites-vous ?  
 
-    POLEMAS
+    POLEMAS.
 C'est ce que par ce mot me mande vostre Espoux.  
 
-    OCTAVE
+    OCTAVE.
 Ah l'infame⁎ qu'il est de cét esprit volage,  
 Pouvez-vous esperer, Monsieur, un moindre outrage.  
 Il ne me surprend point, il use tous les jours  
 De mesme perfidie & d'aussi lasches⁎ tours.  
 On me l'avoit bien dit.  
 
-    POLEMAS
+    POLEMAS.
         Voilà comme il vous ayme.  
 
-    ELIZE
+    ELIZE.
 Je ne le celle point, la surprise [214] est extresme,  
 Mais que resolvez vous en cette extremité ?  
 
-    POLEMAS
+    POLEMAS.
 Que sçaurois-je respondre à cette lascheté⁎ ?  
 Il faut bien quitter-là ce traistre, ce parjure.  
 
-    ELIZE
+    ELIZE.
 Mais qui reparera nostre commune injure ?  
 L'affaire est d'un tel poids, qu'elle merite bien  
 D'y songer meurement, & de n'espargner rien.  
@@ -4322,45 +4322,45 @@ Si je pouvois souffrir⁎ qu'un traistre, un affronteur [216],
 Par discours médisants offençast mon honneur.  
 Monsieur, à deux genoux j'implore vostre grace.  
 
-    POLEMAS
+    POLEMAS.
 Mais, ma fille, dy moy que veux-tu que je face ?  
 
-    ELIZE
+    ELIZE.
 Accordez-luy, Monsieur, tout ce qu'il veut avoir.  
 
-    POLEMAS
+    POLEMAS.
 Elize, sçais-tu bien si j'en ay le pouvoir ?  
 
-    ELIZE
+    ELIZE.
 Vous ne pouvez, Monsieur, de ce point vous deffendre :  
 Vostre honneur vous y force.  
 
-    POLEMAS
+    POLEMAS.
         Il me faudroit donc vendre  
 Jusques à ma maison pour y pouvoir fournir.  
 Où me tiendrois-je [217] apres ?  
 
-    ELIZE
+    ELIZE.
         Vous vous pouvez tenir.  
 Aysément avec moy.  
 
-    POLEMAS
+    POLEMAS.
         Mais que dira ton frere ?  
 
-    OCTAVE
+    OCTAVE.
 Ne laissez pas, Monsieur, de terminer l'affaire,  
 Si Diane est à moy je me tiens trop heureux.  
 
-    POLEMAS
+    POLEMAS.
 Bien doncques [218] j'y consens, vous le voulez tous deux,  
 Mais où si promptement puis-je avoir cette somme ?  
 
-    OCTAVE
+    OCTAVE.
 Laissez-m'en le soucy, je cognois bien un homme,  
 Si vous vous obligez⁎, qui nous rendra contens ;  
 Cét homme a de l'argent.  
 
-    POLEMAS
+    POLEMAS.
         Va, ne perds point de temps.  
 Puis va-t'en aussi-tost au logis de Clitandre,  
 Dy luy que pour avoir l'heur⁎ de le voir mon gendre,  
@@ -4371,19 +4371,19 @@ Il sera ce matin joint à ta sœur Elize.
 Je m'en vay convier mes amis de ce pas,  
 Fay qu'il vienne avec toy.  
 
-    OCTAVE
+    OCTAVE.
         Je n'y manqueray pas.  
 
-    ELIZE *bas en s'en allant* 
+    ELIZE *bas en s'en allant*.
 Puis que ta lascheté⁎ se fait ainsi paroistre,  
 Amour fay qu'aujourd'huy je me vange du traistre.  
 
 
-### SCENE III
+### SCENE III.
 CLITANDRE, ORMIN
 
 
-    CLITANDRE
+    CLITANDRE.
 C'en est fait me voilà maintenant desgagé⁎,  
 J'ay d'Elize & du pere aujourd'huy pris congé,  
 Ma lettre que je croy leur aura fait entendre  
@@ -4391,30 +4391,30 @@ Qu'ils ne doivent plus rien esperer de Clitandre,
 Non, non, ce n'est plus vous, Elize, que je sers,  
 Je me vay renchaisner dedans mes premiers fers.  
 
-    ORMIN
+    ORMIN.
 Tout bien consideré, ce procedé m'estonne,  
 Songez à vous, Monsieur, je sçay bien que personne  
 N'approuvera jamais une telle action.  
 
-    CLITANDRE
+    CLITANDRE.
 Il n'importe, il suffit, je suy ma passion.  
 Que sert plus d'y penser puis que la chose est faite ?  
 
-    ORMIN
+    ORMIN.
 La conduisent les Dieux [220] ainsi que je souhaite.  
 
-    CLITANDRE
+    CLITANDRE.
 Entrons donc chez Diane.  
 
-    ORMIN
+    ORMIN.
         Elle sort je la voy.  
 
 
-### SCENE IV
+### SCENE IV.
 CLITANDRE, DIANE, ORMIN, JULIE
 
 
-    DIANE
+    DIANE.
 Que veut dire cela ? Clitandre entrer chez moy ?  
 Avez-vous bien encor assez de hardiesse ?  
 Apres avoir acquis Elize pour Maistresse,  
@@ -4422,7 +4422,7 @@ Apres m'avoir traittée avec tant de mespris,
 D'oser entrer ceans⁎ ? vous vous estes mespris.  
 Vous prenez ce logis pour la maison d'Elize ?  
 
-    CLITANDRE
+    CLITANDRE.
 Considerez, madame, avec quelle franchise  
 Je vous dy mes pensers, & vous ouvre mon cœur.  
 Je rentre sous les fers de mon premier vainqueur,  
@@ -4443,54 +4443,54 @@ Et ne luy reprochez jamais l'amour d'Elize,
 Puis qu'il proteste⁎ icy, madame, à deux genoux,  
 Qu'il meurt pour vos appas, & n'adore que vous.  
 
-    DIANE
+    DIANE.
 Comment pourrois-je croire, ame ingrate & volage,  
 Qu'on peut en un moment dissoudre un mariage ?  
 Un contract bien passé ? sans doute tu pretends  
 De nouveau m'abuser⁎, & surprendre⁎ mes sens.  
 
-    CLITANDRE
+    CLITANDRE.
 J'ateste⁎ les beautez qui vous rendent aymable⁎,  
 Que je ne vous dy rien qui ne soit veritable.  
 Et vous puis asseurer qu'il ne tiendra qu'à vous  
 Que je ne vous possede en qualité⁎ d'Espoux.  
 
-    DIANE
+    DIANE.
 Je ne me repais point de ces discours frivoles,  
 Comment ? je me fierois encor à tes paroles ?  
 Ne t'imagine pas que je puisse en effect  
 Te pardonner ainsi l'affront que tu m'as faict.  
 
-    CLITANDRE
+    CLITANDRE.
 Madame, au nom des Dieux calmez vostre colere,  
 Accordez-moy ce poinct.  
 
-    DIANE
+    DIANE.
         Non, je ne le puis faire.  
 Je suis trop irritée.  
 
-    CLITANDRE
+    CLITANDRE.
         Et bien posons le cas  
 Que j'aye [222] justement merité le trespas,  
 Demandant à genoux pardon de mon offence  
 Ne l'obtiendray-je point ?  
 
-    DIANE
+    DIANE.
         Clitandre quand j'y pense  
 Je ne sçaurois pour tout endurer ces mespris.  
 Mais si tu veux un peu remettre mes esprits,  
 Dy moy du mal d'Elize.  
 
-    CLITANDRE
+    CLITANDRE.
         Ah justes Dieux ! Madame,  
 Pourquoy desirez vous que j'endure le blasme  
 Que l'on me donnera de la traitter ainsi.  
 
-    DIANE
+    DIANE.
 Clitandre je le veux, & te l'ordonne aussi  
 Pour refaire ta paix, c'est l'unique remede.  
 
-    CLITANDRE
+    CLITANDRE.
 J'obey donc, Madame, Elize est sotte & laide,  
 Élize n'eut jamais de grace ny d'attraits.  
 Elle déplaist de loing, mais encor plus de prez.  
@@ -4499,19 +4499,19 @@ Nul homme ne sçauroit l'aymer, & la cognoistre,
 Et pour dire en un mot, Elize est à la Cour  
 Un objet de pitié, bien plustost que d'Amour.  
 
-    DIANE
+    DIANE.
 Je te pardonne tout.  
 (Ils devisent bas ensemble)
 
 
-    ORMIN *à JULIE* 
+    ORMIN *à JULIE*.
         Pour rentrer en ta grace,  
 Dy moy ? qu'est-il besoin à present que je face ?  
 
-    JULIE
+    JULIE.
 Dy du mal de Pauline, & puis je suis à toy.  
 
-    ORMIN
+    ORMIN.
 Pauline je le jure est un objet d'effroy,  
 Son visage basty d'une façon estrange,  
 Me semble long & large, ainsi qu'une lozange [223],  
@@ -4532,38 +4532,38 @@ On n'y trouveroit pas un seul morceau de chair.
 Et croy qu'en luy coupant le derriere & la pance,  
 On pourroit l'enterrer dans l'estuy d'une lance.  
 
-    JULIE
+    JULIE.
 Pourveu que tes discours, Ormin, ne soient pas feints,  
 Qu'elle soit à tes yeux comme tu la dépeins,  
 Je n'y puis resister, ta grace t'est acquise.  
 
-    DIANE *à CLITANDRE* 
+    DIANE *à CLITANDRE*.
 Je ne vous trouve pas trop bien deffait d'Elize,  
 Si l'on luy donne encor quatre mille ducats.  
 
-    CLITANDRE
+    CLITANDRE.
 Quand mesme il le voudroit, son pere ne peut pas.  
 
-    JULIE
+    JULIE.
 J'entens monter quelqu'un, Madame, c'est Octave.  
 
-    CLITANDRE
+    CLITANDRE.
 Il vient pour m'attaquer, il vient faire du brave.  
 
 
-### SCENE V 
+### SCENE V. 
 OCTAVE, DIANE, CLITANDRE, ORMIN, JULIE
 
 
-    OCTAVE* à Clitandre* 
+    OCTAVE* à Clitandre*.
 Comme je vous cherchois, quelqu'un m'a dit Monsieur,  
 Que vous estiez ceans⁎, pourrois-je avoir l'honneur  
 De luy dire deux mots, avec vostre licence.  
 
-    DIANE
+    DIANE.
 Ouy pourveu que ce soit, Octave, en ma presence.  
 
-    OCTAVE
+    OCTAVE.
 Madame je le veux, il ne m'importe pas.  
 Vous demandez encor quatre mille ducats,  
 Quoy que ce procedé me semble fort estrange  
@@ -4584,14 +4584,14 @@ Vous m'entendez assez, & vous sçavez pourquoy,
 Mais il vous faut venir promptement avec moy,  
 Car ma sœur vous souhaitte avec impatience.  
 
-    CLITANDRE *à Diane* 
+    CLITANDRE *à Diane*.
 Qu'en dites vous Madame ?  
 
-    DIANE
+    DIANE.
         Ah Dieux quelle impudence !  
 Osez vous sans rougir me tenir ce discours ?  
 
-    CLITANDRE
+    CLITANDRE.
 Si vous n'estes encor l'object de mes amours,  
 Que je puisse perir. Mais voulez vous, Madame,  
 Qu'en cette occasion⁎ je passe pour infame⁎ ?  
@@ -4599,10 +4599,10 @@ J'ay donné ma parole, & croyez s'il vous plaist,
 Que ce n'est point l'Amour, moins encor l'interest,  
 Quoy que vous en pensiez, qui m'oblige à ce faire [227].  
 
-    DIANE
+    DIANE.
 Impudent imposteur.  
 
-    CLITANDRE
+    CLITANDRE.
         Vous estes en colere ;  
 Je souffre⁎ tout de vous, mais Madame escoutez,  
 Car je ne diray mot si vous vous emportez.  
@@ -4611,12 +4611,12 @@ Les serments que j'ay faits, j'ay donné ma parole :
 Et cette lascheté⁎ seroit à reprocher,  
 Aux personnes d'honneur qui n'ont rien de plus cher.  
 
-    DIANE
+    DIANE.
 Vous brassiez [228] dés long temps une telle alliance,  
 Vous estiez contre moy tous trois d'intelligence :  
 Je vous entends fort bien : [229]  
 
-    OCTAVE
+    OCTAVE.
         Madame au nom des Dieux  
 Moderez ces transports⁎, & tournez ces beaux yeux  
 Vers moy qui vous adore, & qui brusle d'envie  
@@ -4626,37 +4626,37 @@ Si Clitandre à present en devient possesseur.
 Faites qu'à tant de bien aujourd'huy je succede [231],  
 En me cédant ses droicts qu'Octave vous possede.  
 
-    DIANE
+    DIANE.
 Si Clitandre Monsieur, n'en avoit point parlé,  
 Je vous escouterois, mais il s'en est meslé,  
 Et le sujet qui fait que je n'y [232] puis entendre [233],  
 Est que je ne veux pas m'allier de [234] Clitandre.  
 
-    OCTAVE
+    OCTAVE.
 Je ne perds pas l'espoir, Madame, quelque jour,  
 Vous recompenserez un si fidelle amour,  
 Ne l'importunons plus, sortons d'icy mon frere.  
 
-    CLITANDRE
+    CLITANDRE.
 J'en suis au desespoir, mais je n'y puis que faire [235].  
 
-    ORMIN
+    ORMIN.
 Julie en te quittant je fay ce que je doy  
 Tu n'aurois pas raison de te plaindre de moy,  
 Pourrois-je justement abandonner mon maistre ?  
 
-    JULIE
+    JULIE.
 Je n'attendois pas moins d'un perfide & d'un traistre.  
 
 
-### SCENE VI 
+### SCENE VI. 
 DIANE, JULIE
 
 
-    JULIE
+    JULIE.
 Encor que dites-vous de cette lascheté⁎ ?  
 
-    DIANE
+    DIANE.
 Pense-t'il me braver⁎ avec impunité !  
 Ah Dieux, vit-on jamais femme plus outragée ?  
 Le perfide se vange, apres m'estre vangée,  
@@ -4671,22 +4671,22 @@ Clorimant est parti, la chose est sans remede,
 C'est luy seul en ce cas qui pourroit me vanger,  
 Mais puis qu'il est absent, il n'y faut plus songer.  
 
-    JULIE
+    JULIE.
 Madame le voilà.  
 
-    DIANE
+    DIANE.
         Te mocques⁎ tu Julie ?  
 Ma joye est à present de tout point accomplie.  
 
 
-### SCENE VII
+### SCENE VII.
 CLORIMANT, DIANE, GERASTE, JULIE
 
 
-    JULIE
+    JULIE.
 Quoy vous estes icy Clorimant ? justes Dieux !  
 
-    CLORIMANT
+    CLORIMANT.
 Madame je feignois de partir de ces lieux,  
 Afin de me vanger d'une Dame infidelle.  
 Mais je suis appaisé, je ne me plaints plus d'elle.  
@@ -4700,7 +4700,7 @@ Puis que je voy renaistre un rayon d'esperance,
 De recueillir les fruits de ma perseverance.  
 Vous y participez, madame, que je croy.  
 
-    DIANE
+    DIANE.
 Justes Dieux ! Clorimant, vous mocquez vous de moy ?  
 Vous ignorez encor comme va cette affaire,  
 Vous estes bien trompé, car Clitandre & son frere  
@@ -4714,66 +4714,66 @@ Mais Elize a tant fait, que sur l'heure son pere,
 En dépit qu'il en eut a terminé l'affaire,  
 Et dans une heure au plus Clitandre …  
 
-    CLORIMANT
+    CLORIMANT.
         Ah taisez vous.  
 
-    DIANE
+    DIANE.
 Sera n'en doutez point son legitime espoux.  
 
-    CLORIMANT
+    CLORIMANT.
 A ce mot justes Dieux, je manque de parole,  
 Mais si facilement Elize s'en console.  
 Quoy que d'un feu cuisant je me sente brusler,  
 Je l'imite Madame, & me veux consoler.  
 
-    DIANE
+    DIANE.
 Si vous l'estes d'Elize, ah je vous fais entendre.  
 Que je le suis encor beaucoup mieux de Clitandre.  
 
-    CLORIMANT
+    CLORIMANT.
 Si je vous veux aymer, dites, m'aymerez vous ?  
 Et vous puis-je pretendre [236] en qualité⁎ d'Espoux ?  
 
-    DIANE
+    DIANE.
 Je vous l'ay dit tantost, & vous le dis encore.  
 
-    CLORIMANT
+    CLORIMANT.
 Je suis trop glorieux, ô beauté que j'adore,  
 De nouveau je me veux avec vous engager.  
 
-    DIANE
+    DIANE.
 C'est l'unique moyen de nous pouvoir vanger.  
 
-    CLORIMANT
+    CLORIMANT.
 Ouy Madame en un mot j'ay l'ame traversée⁎  
 De voir une amitié si mal recompensée.  
 Cette legereté⁎ m'offence & je suis las,  
 De me voir tous les jours dans un tel embarras,  
 Je vous donne la main, & demande la vostre.  
 
-    DIANE
+    DIANE.
 Monsieur je suis à vous ; & renonce à tout autre.  
 
-    CLORIMANT
+    CLORIMANT.
 Madame allons au temple [237] ; & faisons devant eux  
 Accomplir nostre hymen.  
 
-    DIANE
+    DIANE.
         Clorimant je le veux.  
 C'est ainsi que je veux me vanger de ce traistre.  
 
-    GERASTE
+    GERASTE.
 Julie où songes tu ? ferons nous pas parestre  
 Qu'aussi bien comme ils font nous nous pouvons vanger ?  
 
-    JULIE
+    JULIE.
 Ouy va je suis à toy, si tu veux m'obliger⁎  
 De m'aymer à jamais, & de m'estre fidelle.  
 
-    GERASTE
+    GERASTE.
 Ouy je te le promets.  
 
-    CLORIMANT *bas à Geraste* 
+    CLORIMANT *bas à Geraste*.
         Dis à cette cruelle  
 Que je suis à Paris & ne l'ay point quitté.  
 Qu'icy j'ay recognu son infidelité.  
@@ -4783,11 +4783,11 @@ Dessous les mesmes loix je m'en vay me ranger,
 Et me joindre à Diane afin de me vanger.  
 
 
-### SCENE VIII 
+### SCENE VIII. 
 POLEMAS, CLITANDRE, ELIZE, PAULINE, ORMIN, OCTAVE, & accompagnement
 
 
-    POLEMAS
+    POLEMAS.
 Des sieges promptement, sçachez mon cher Clitandre,  
 Que le desir que j'ay de vous avoir pour gendre,  
 Et le ressentiment [238] de tant d'affection  
@@ -4797,60 +4797,60 @@ Et puis que tout le monde en avoit cognoissance
 Je luy serois peut-estre un subjet de mespris  
 Si je n'achevois pas cét hymen entrepris.  
 
-    CLITANDRE
+    CLITANDRE.
 Jamais pour desirer des biens de la fortune  
 Je n'eusse fait Monsieur de demande importune,  
 Mais l'advis des parents qui sont interessez  
 Ont contre mon amour mes sentiments forcez.  
 
-    POLEMAS
+    POLEMAS.
 Laissons ces differents [239] & terminons l'affaire.  
 
-    PAULINE *bas à Geraste*
+    PAULINE *bas à Geraste*.
 (Geraste entre qui tire Pauline)
 
 Quoy Geraste à Paris, hé que pense tu [240] faire,  
 Qui t'emmene [241] en ces lieux ?  
 
-    GERASTE
+    GERASTE.
         Pauline escoute icy  
 Je te veux dire un mot.  
 (Il luy parle à l'oreille)
 
 
-    POLEMAS
+    POLEMAS.
 (La compagnie [242] entre)
 
         Courage les voicy.  
 Messieurs nous n'attendions pas vostre compagnie,  
 Afin d'authoriser cette ceremonie.  
 
-    PAULINE
+    PAULINE.
 Je vay trouver Elize, attend [243].  
 
-    POLEMAS
+    POLEMAS.
 (Pauline parle à l'oreille d'Elize, & vient dire à Geraste)
 
         Assayons [244] nous,  
 Il ne manque plus rien nous sommes icy tous.  
 
-    PAULINE *bas à Geraste* 
+    PAULINE *bas à Geraste*.
 Ma maistresse m'a dit que je te face attendre.  
 
-    POLEMAS
+    POLEMAS.
 Allons donc promptement, vous plaist-il pas Clitandre.  
 
-    CLITANDRE
+    CLITANDRE.
 J'en suis content.  
 
-    ELIZE *à Polemas* 
+    ELIZE *à Polemas*.
         Monsieur avant que de [245] jouir  
 De ce bien, faites moy la faveur de m'ouir.  
 
-    POLEMAS
+    POLEMAS.
 Parlez je vous entends.  
 
-    ELIZE
+    ELIZE.
         Monsieur j'ay lieu de craindre  
 Que Clitandre à la fin n'ait subject de se plaindre :  
 Car pour dire le vray vous n'aviez pas raison,  
@@ -4870,174 +4870,174 @@ Que vous ne voulez point forcer sa volonté,
 Que tout despend de luy, qu'il est en sa puissance  
 De rompre entierement ou noüer l'alliance.  
 
-    POLEMAS *à Clitandre* 
+    POLEMAS *à Clitandre*.
 Vostre demande est juste, & bien qu'en dites vous ?  
 
-    CLITANDRE
+    CLITANDRE.
 Ouy Monsieur je confesse en presence de tous  
 Que volontairement je soubmets ma franchise⁎  
 Dessous les douces loix de la parfaite Elize.  
 Que je suis satis-faict de ce qui s'est passé,  
 Et qu'à ce mariage on ne m'a point forcé.  
 
-    POLEMAS
+    POLEMAS.
 Vous ne pouvez, ma fille, esperer davantage.  
 
-    ELIZE
+    ELIZE.
 Monsieur je desirois avoir cét advantage,  
 Par la confession qu'il me fait aujourd'huy,  
 De monstrer que c'est moy qui ne veut point de luy,  
 Puis que je le cognois jusqu'à ce poinct infame⁎,  
 De faire plus de cas des biens que d'une femme.  
 
-    CLITANDRE
+    CLITANDRE.
 Ah, Madame, est-ce ainsi ?  
 
-    ELIZE
+    ELIZE.
         Lasche⁎ retirez-vous.  
 
-    POLEMAS
+    POLEMAS.
 Ma fille moderez ce violent courroux,  
 Vous faites trop de perte en rebutant Clitandre.  
 
-    ELIZE
+    ELIZE.
 Si je perds cét ingrat, je vous redonne un gendre  
 Qui sçait priser [246] Elize, & trouve plus d'appas  
 En la vertu que j'ay qu'en dix mille ducats.  
 En fin c'est Clorimant.  
 
-    POLEMAS
+    POLEMAS.
     Il est absent.  
 
-    ELIZE
+    ELIZE.
         Mon pere,  
 Il n'est pas loing d'icy. Cours & ne tarde guere.  
 Geraste appelle-le.  
 
-    GERASTE
+    GERASTE.
         Bien Madame j'y cours.  
 
-    CLITANDRE
+    CLITANDRE.
 Consentez-vous, Monsieur à de si lasches⁎ tours ?  
 Apres tant de devoirs & tant de complaisance⁎.  
 
-    POLEMAS
+    POLEMAS.
 Ce n'est pas mon dessein d'user de violence,  
 Je luy souffre⁎ en ce cas d'agir comme il luy plaist.  
 
-    ELIZE
+    ELIZE.
 Je cherche mon repos, & vous vostre interest.  
 
 
-### SCENE IX & derniere
+### SCENE IX & derniere.
 CLORIMANT, ELIZE, POLEMAS, DIANE, CLITANDRE, GERASTE, ORMIN, JULIE, PAULINE, OCTAVE, & accompagnement
 
 
-    CLORIMANT
+    CLORIMANT.
 Par vostre mandement [247] je suis venu, Madame,  
 Pour vous dire combien je sens d'ayse⁎ en mon ame  
 D'avoir sçeu qu'il vous plaist me faire [248] la faveur  
 De me rendre aujourd'huy bien-heureux possesseur  
 De vos rares⁎ beautez sous la loy d'hymenée⁎.  
 
-    DIANE
+    DIANE.
 Quoy donc pour ce subject m'avez vous emmenée ?  
 
-    CLORIMANT
+    CLORIMANT.
 Madame pardonnez si maintenant mon cœur  
 Se range sous les loix de son premier vainqueur.  
 
-    ELIZE *à Polemas* 
+    ELIZE *à Polemas*.
 Monsieur je mets en vous toute mon esperance.  
 
-    POLEMAS
+    POLEMAS.
 Si Monsieur veut entrer dedans vostre alliance,  
 Il nous honore trop, non non, je ne sçaurois  
 Jamais avec raison desapprouver ton choix.  
 Si Monsieur m'eust parlé plustost, j'eusse sur l'heure  
 Terminé cette affaire.  
 
-    CLITANDRE
+    CLITANDRE.
         Ah Clorimant ! je meure  
 Si je suis de vostre heur⁎ aucunement [249] jaloux.  
 Diane je veux estre aujourd'huy vostre Espoux,  
 Je rentre dans vos fers, & j'abandonne Elize.  
 
-    DIANE
+    DIANE.
 Je ne veux point de vous, Monsieur, je suis promise.  
 
-    CLITANDRE
+    CLITANDRE.
 À qui ?  
 
-    DIANE
+    DIANE.
         Ce Cavalier⁎ n'est pas bien loing d'icy.  
 
-    CLITANDRE
+    CLITANDRE.
 Madame resvez-vous ? me raillez vous ainsi ?  
 
-    DIANE
+    DIANE.
 Je ne vous raille point, Monsieur. Parlez Octave  
 M'estimez vous encor ?  
 
-    OCTAVE
+    OCTAVE.
         Dieux je suis vostre esclave.  
 
-    DIANE
+    DIANE.
 Monsieur je suis à vous, & vous donne la main.  
 
-    CLITANDRE
+    CLITANDRE.
 Vous mocquez⁎ vous Madame, à quoy bon ce desdain ?  
 
-    DIANE
+    DIANE.
 Clitandre j'ayme Octave, & je hay l'inconstance⁎.  
 
-    ORMIN
+    ORMIN.
 Elle a raison d'user d'une telle vangeance,  
 Les voulant toutes deux Monsieur, vous voyez bien  
 Qu'en voulant tout avoir vous ne possedez rien.  
 J'y perds beaucoup pourtant puisque je perds Julie :  
 Car ne croyez jamais qu'à d'autre je m'allie.  
 
-    JULIE
+    JULIE.
 Ormin tu m'as quittée & je te quitte aussy.  
 
-    OCTAVE
+    OCTAVE.
 Va je te veux pourvoir⁎ laisse m'en le soucy.  
 Un homme qui me sert est ton fait [250] ce me semble.  
 
-    GERASTE *à Clorimant*
+    GERASTE *à Clorimant*.
 Monsieur voulez vous pas nous marier ensemble,  
 Pauline & moy j'entends.  
 
-    CLORIMANT
+    CLORIMANT.
         Ouy Geraste je veux  
 Aussi bien que les miens esteindre tous tes feux⁎ [251].  
 
-    ELIZE
+    ELIZE.
 Amour vous m'octroyez tout ce que je souhaite.  
 
-    CLITANDRE
+    CLITANDRE.
 Que vois-je ? Justes Dieux ! est-ce ainsi qu'on me traite ?  
 
-    ORMIN
+    ORMIN.
 Certes nous meritons à ce que je cognoy,  
 Qu'on se mocque, Monsieur, & de vous & de moy.  
 FIN
 
 
-# LexiqueAbuser« Tromper », FuretièreV. 623, 1514, 1738.Accident« Malheur, ce qui peut arriver de fâcheux », RicheletV. 456, 712, 1594. Accommoder« Se dit des affaires qu'on termine à l'amiable et des personnes que l'on met d'accord », FuretièreV. 464, 490.Adviser« Prendre quelque résolution après quelque délibération et conseil », FuretièreV. 1207, 1251.Appris« On dit qu'un jeune homme est bien appris lorsqu'il sait bien toutes les règles de la civilité et de la bienséance, et qu'il les pratique », Furetière.C'est dans ce sens que le terme est employé au vers 112. Au vers 1047, il a le sens contraire car il est précédé de l'adverbe mal.Ardeur« Se dit figurément en morale, et signifie, passion »V. 408, 952« Vivacité, emportement, fougue », FuretièreV. 558, 808, 907.Arrest« Promesse, parole donnée. Chose résolue et arrêtée », RicheletV. 786, 1341.Attenter« Tenter, ou entreprendre quelque chose pour nuire à quelqu'un », FuretièreV. 241, 1000, 1287.Atester« Invoquer, appeler à témoin ; et se dit de Dieu et des hommes », FuretièreV. 797, 1739.Aymable« Qui a des qualités qui attirent l'amour », FuretièreV. 383, 1739.Ayse« Joie, contentement », FuretièreV. 355, 2000.Brave« Honnête, galant », RicheletV. 45, 70, 81, 682, 1116.« Bien vêtu », RicheletV. 817.Braver« Insulter, se moquer », RicheletV. 1382, 1858.Caresse« Démonstration d'amitié ou de bienveillance qu'on fait à quelqu'un par un accueil gracieux, par quelque cageolerie », FuretièreV. 24. CavalierHomme de haute naissanceV. 15, 53, 70, 81, 103, 211, 356, 506, 938, 1001, 1048, 1055, 1113, 1346, 1623, 2017. CéansIci, dans ce lieuV. 270, 498, 550, 1013, 1328, 1714, 1798.Chagrin« Mélancolie, ennuy, fâcheuse, mauvaise humeur », AcadémieV. 137, 706.ChangeFait de changer d'amant ou de maîtresse, souvent par inconstanceV. 763, 956, 1804. Complaisance« Déférence aux sentiments et aux volontés d'autrui », FuretièreV. 419, 1995.Compliment« Civilité, ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions », FuretièreV. 401, 809, 984.Condition« Il signifie la qualité que donne la naissance, et en ce sens on l'emploie d'ordinaire avec la particule *de* », AcadémieV. 938.« On dit absolument *de condition*, pour dire, de bonne naissance », AcadémieV. 472.ContracterSe dit « figurément en parlant d'acquisitions morales », FuretièreV. 25.Courtois« Qui a de la civilité, des manières honnêtes et agréables, qui fait un accueil doux et gracieux à tout le monde », FuretièreV. 112, 1033.Decevoir« Tromper adroitement », FuretièreV. 1480.DesgagerRetirer sa parole, se libérer d'un engagementV. 889, 1129, 1442, 1697.Ennuy « Tristesse, déplaisir », RicheletV. 1264, 1369.Fascher« Choquer, offenser quelqu'un », FuretièreV. 943, 1624.Fantaisie« Dessein », RicheletV. 140, 439.Feux« Se dit figurément de l'ardeur, et de la violence des passions, et des mouvements impétueux de l'âme », AcadémieV. 330, 750, 1574, 2034.Fier« Cruel », FuretièreV. 547, 632.Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter », FuretièreV. 46, 545, 573, 610, 612, 658, 669, 686, 757, 844, 889, 1401, 1442, 1510, 1542, 1662.« Fidélité », RicheletV. 278, 622, 1258, 1386, 1422.FrancLibreV. 1290.Franchise« Signifie chez les poètes et les amants, liberté », FuretièreV. 243, 268, 387, 624, 987, 1975.Furieux« Plein de furie, violent », RicheletV. 440, 882.GalandSubstantif « amant qui se donne tout entier au service d'une maîtresse », FuretièreV. 65, 72, 251.Adjectif « se dit aussi d'un homme qui a l'air de la Cour, les manières agréables, qui tâche à plaire, et particulièrement au beau sexe », FuretièreV. 70, 682. Gentil-homme« Homme noble d'extraction, qui ne doit point sa noblesse ni à sa charge, ni aux Lettres du Prince », FuretièreV. 227, 1116.Heur« Rencontre avantageuse », FuretièreV. 4« Ce mot signifie bonheur, mais il est bas, est peu usité », RicheletV. 197, 313, 681, 1037, 1303, 1688, 2013.Hymenée« Mariage », FuretièreV. 48, 432, 579, 603, 749, 840, 1248, 1432, 1663, 1967, 2003.Inclination« Se dit de l'amour », FuretièreV. 230, 937.InconstantQui change, qui n'est pas ferme dans ses sentiments, infidèleV. 610, 1428, 1448, 1540.Inconstance« Manque de fermeté, de durée, de résolution », FuretièreV. 1060, 2023.Infame« Qui est sans honneur, qui ne mérite aucune estime dans le monde », FuretièreV. 499, 1639, 1647, 1824, 1983.Interdire« Se dit aussi de ceux qui se troublent, qui s'étonnent, qui ne sauraient parler raisonnablement », FuretièreV. 84, 422, 689, 692, 1505.Jaloux« Se dit à l'égard de quelques autres passions que l'amour, et de ceux qui possèdent une chose qu'ils craignent de perdre », FuretièreV. 273, 493.Je vous baise les mains« On dit proverbialement, je vous baise les mains, pour dire, je me recommande à vous, ou je vous remercie », FuretièreV. 364, 377, 1020.Jugement« Puissance de l'âme qui connaît, qui discerne le bon d'avec le mauvais, le vrai d'avec le faux », FuretièreV. 269, 625, 909.« Sentiment, opinion. Pensée », RicheletV. 386, 1666.Lasche« Se dit figurément en Morale de plusieurs qualités, des vices, et des passions. Un *lasche* est celui qui n'a pas de fermeté de cœur, de générosité, d'honnêteté », FuretièreV. 213, 658, 757, 874, 944, 1062, 1224, 1403, 1449, 1527, 1623, 1650, 1985, 1994.Lascheté« Se dit figurément en Morale des actions lâches, poltronnes, infâmes », FuretièreV. 718, 841, 1289, 1393, 1654, 1695, 1833, 1857, 1894.Légèreté« Inconstance, imprudence », RicheletV. 153, 1913.Martire« Se dit poétiquement et fréquemment de la souffrance des amants », FuretièreV. 712, 1043, 1172, 1472.Moquer (se)« Ne dire pas, ne faire pas quelque chose sérieusement », AcadémieV. 1871, 2022.Objet« Ce qui est opposé à notre vue, ou qui frappe nos autres sens, ou qui se représente à notre imagination », FuretièreV. 1572.« Se dit poétiquement des belles personnes qui donnent de l'amour », FuretièreV. 190, 192, 214, 486, 771.Obligé« Qui a reçu un bon office, qui a obligation à une personne parce qu'il en a reçu quelque plaisir », RicheletV. 1073, 1343.Obliger« Faire quelque faveur, civilité, courtoisie », FuretièreV. 79, 375, 1070, 1257, 1922.À la forme pronominale, il a le sens de « s'engager par une sorte de devoir, ou de nécessité », RicheletV. 1685.OccasionLe mot doit être pris au sens étymologique de *ce qui arrive*, d'où le sens de *circonstance.*V. 700, 710, 902, 1106, 1157, 1317, 1514, 1824, 1863.« Signifie quelquefois sujet », FuretièreV. 1934.Ombrage« Défiance, soupçon », FuretièreV. 144, 1879.Patience« Vertu par laquelle on souffre les adversités, les douleurs, les injures, les incommodités, etc., avec modération, et sans murmurer »v. 546.« On dit *prendre patience*, pour dire, avoir de la modération, de la retenue dans les choses qui font de la peine », AcadémieV. 503, 735. Peine« Douleur, affliction, souffrance, sentiment de quelque mal, dans le corps, ou dans l'esprit », AcadémieV. 1881.Pourvoir« Se dit des établissements qui se font par charge, par mariage », FuretièreV. 162, 320, 533, 2030.Protester« Promettre quelque chose avec serment », RicheletV. 1167, 1733.Pudeur« Honte naturelle qu'on a de faire quelque chose de déshonnête, ou de mauvais », FuretièreV. 324.Pudicité« Chasteté, pureté », RicheletV. 154, 241.QualitéCondition socialeV. 238, 242.La locution *en qualité de* a le sens de *comme, au titre de*V. 274, 374, 833, 1194, 1742, 1906.Rare« Qui arrive peu souvent, qui ne se trouve pas ordinairement. Excellent, précieux, singulier, extraordinaire », RicheletV. 7, 2003.RemiseFait de différer une action dans le temps. L'expression *sans plus de remise* signifie *sans attendre davantage.*V. 927, 1691.Repartir« Répliquer », FuretièreV. 1086, 1404.Servage« Vieux mot qui signifiait autrefois esclavage, servitude, et qui s'est employé pour marquer la captivité, l'attachement d'un amant à une maîtresse », FuretièreV. 1727.ServiceIl s'agit du service amoureux d'un amant pour sa maîtresseV. 205, 441.ServirDans le vocabulaire amoureux, il signifie apporter ses soins, son attention à sa maîtresseV. 514. SoucySens fort d'inquiétudeV. 137, 145, 262, 345, 1634.Souffrir« Supporter »V. 10, 481, 782, 923, 1262, 1338, 1356, 1451, 1829.« Tolérer, n'empêcher pas, quoiqu'on le puisse »V. 399, 447, 576, 1669.« Permettre » Académie.V. 488, 951, 1997. Suborneur« Qui suborne, qui corrompt, qui débauche », FuretièreV. 494, 1393.Surprendre« Tromper quelqu'un »V. 467, 1517, 1738« Lui faire faire une chose trop à la hâte », FuretièreV. 1959.Tout à l'heure« Sur le champ », FuretièreV. 487, 770, 1580.Tout beau« Adverbe. Mot qui se dit lorsqu'on prie, ou qu'on commande de s'arrêter, de ne rien faire, de ne pas parler », RicheletV. 414, 476, 1530, 1541.Transi« Saisi de douleur », RicheletV. 481, 1345.Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions », FuretièreV. 440, 882, 1838.Transporter« Se dit des violentes agitations de l'esprit », FuretièreV. 355, 366.TraverserSe mettre en travers de, s'opposer àV. 317.Au figuré, « troubler. Apporter du désordre, causer du désordre », RicheletV. 1911.
+# Lexique.Abuser« Tromper », FuretièreV. 623, 1514, 1738.Accident« Malheur, ce qui peut arriver de fâcheux », RicheletV. 456, 712, 1594. Accommoder« Se dit des affaires qu'on termine à l'amiable et des personnes que l'on met d'accord », FuretièreV. 464, 490.Adviser« Prendre quelque résolution après quelque délibération et conseil », FuretièreV. 1207, 1251.Appris« On dit qu'un jeune homme est bien appris lorsqu'il sait bien toutes les règles de la civilité et de la bienséance, et qu'il les pratique », Furetière.C'est dans ce sens que le terme est employé au vers 112. Au vers 1047, il a le sens contraire car il est précédé de l'adverbe mal.Ardeur« Se dit figurément en morale, et signifie, passion »V. 408, 952« Vivacité, emportement, fougue », FuretièreV. 558, 808, 907.Arrest« Promesse, parole donnée. Chose résolue et arrêtée », RicheletV. 786, 1341.Attenter« Tenter, ou entreprendre quelque chose pour nuire à quelqu'un », FuretièreV. 241, 1000, 1287.Atester« Invoquer, appeler à témoin ; et se dit de Dieu et des hommes », FuretièreV. 797, 1739.Aymable« Qui a des qualités qui attirent l'amour », FuretièreV. 383, 1739.Ayse« Joie, contentement », FuretièreV. 355, 2000.Brave« Honnête, galant », RicheletV. 45, 70, 81, 682, 1116.« Bien vêtu », RicheletV. 817.Braver« Insulter, se moquer », RicheletV. 1382, 1858.Caresse« Démonstration d'amitié ou de bienveillance qu'on fait à quelqu'un par un accueil gracieux, par quelque cageolerie », FuretièreV. 24. CavalierHomme de haute naissanceV. 15, 53, 70, 81, 103, 211, 356, 506, 938, 1001, 1048, 1055, 1113, 1346, 1623, 2017. CéansIci, dans ce lieuV. 270, 498, 550, 1013, 1328, 1714, 1798.Chagrin« Mélancolie, ennuy, fâcheuse, mauvaise humeur », AcadémieV. 137, 706.ChangeFait de changer d'amant ou de maîtresse, souvent par inconstanceV. 763, 956, 1804. Complaisance« Déférence aux sentiments et aux volontés d'autrui », FuretièreV. 419, 1995.Compliment« Civilité, ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions », FuretièreV. 401, 809, 984.Condition« Il signifie la qualité que donne la naissance, et en ce sens on l'emploie d'ordinaire avec la particule *de* », AcadémieV. 938.« On dit absolument *de condition*, pour dire, de bonne naissance », AcadémieV. 472.ContracterSe dit « figurément en parlant d'acquisitions morales », FuretièreV. 25.Courtois« Qui a de la civilité, des manières honnêtes et agréables, qui fait un accueil doux et gracieux à tout le monde », FuretièreV. 112, 1033.Decevoir« Tromper adroitement », FuretièreV. 1480.DesgagerRetirer sa parole, se libérer d'un engagementV. 889, 1129, 1442, 1697.Ennuy « Tristesse, déplaisir », RicheletV. 1264, 1369.Fascher« Choquer, offenser quelqu'un », FuretièreV. 943, 1624.Fantaisie« Dessein », RicheletV. 140, 439.Feux« Se dit figurément de l'ardeur, et de la violence des passions, et des mouvements impétueux de l'âme », AcadémieV. 330, 750, 1574, 2034.Fier« Cruel », FuretièreV. 547, 632.Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter », FuretièreV. 46, 545, 573, 610, 612, 658, 669, 686, 757, 844, 889, 1401, 1442, 1510, 1542, 1662.« Fidélité », RicheletV. 278, 622, 1258, 1386, 1422.FrancLibreV. 1290.Franchise« Signifie chez les poètes et les amants, liberté », FuretièreV. 243, 268, 387, 624, 987, 1975.Furieux« Plein de furie, violent », RicheletV. 440, 882.GalandSubstantif « amant qui se donne tout entier au service d'une maîtresse », FuretièreV. 65, 72, 251.Adjectif « se dit aussi d'un homme qui a l'air de la Cour, les manières agréables, qui tâche à plaire, et particulièrement au beau sexe », FuretièreV. 70, 682. Gentil-homme« Homme noble d'extraction, qui ne doit point sa noblesse ni à sa charge, ni aux Lettres du Prince », FuretièreV. 227, 1116.Heur« Rencontre avantageuse », FuretièreV. 4« Ce mot signifie bonheur, mais il est bas, est peu usité », RicheletV. 197, 313, 681, 1037, 1303, 1688, 2013.Hymenée« Mariage », FuretièreV. 48, 432, 579, 603, 749, 840, 1248, 1432, 1663, 1967, 2003.Inclination« Se dit de l'amour », FuretièreV. 230, 937.InconstantQui change, qui n'est pas ferme dans ses sentiments, infidèleV. 610, 1428, 1448, 1540.Inconstance« Manque de fermeté, de durée, de résolution », FuretièreV. 1060, 2023.Infame« Qui est sans honneur, qui ne mérite aucune estime dans le monde », FuretièreV. 499, 1639, 1647, 1824, 1983.Interdire« Se dit aussi de ceux qui se troublent, qui s'étonnent, qui ne sauraient parler raisonnablement », FuretièreV. 84, 422, 689, 692, 1505.Jaloux« Se dit à l'égard de quelques autres passions que l'amour, et de ceux qui possèdent une chose qu'ils craignent de perdre », FuretièreV. 273, 493.Je vous baise les mains« On dit proverbialement, je vous baise les mains, pour dire, je me recommande à vous, ou je vous remercie », FuretièreV. 364, 377, 1020.Jugement« Puissance de l'âme qui connaît, qui discerne le bon d'avec le mauvais, le vrai d'avec le faux », FuretièreV. 269, 625, 909.« Sentiment, opinion. Pensée », RicheletV. 386, 1666.Lasche« Se dit figurément en Morale de plusieurs qualités, des vices, et des passions. Un *lasche* est celui qui n'a pas de fermeté de cœur, de générosité, d'honnêteté », FuretièreV. 213, 658, 757, 874, 944, 1062, 1224, 1403, 1449, 1527, 1623, 1650, 1985, 1994.Lascheté« Se dit figurément en Morale des actions lâches, poltronnes, infâmes », FuretièreV. 718, 841, 1289, 1393, 1654, 1695, 1833, 1857, 1894.Légèreté« Inconstance, imprudence », RicheletV. 153, 1913.Martire« Se dit poétiquement et fréquemment de la souffrance des amants », FuretièreV. 712, 1043, 1172, 1472.Moquer (se)« Ne dire pas, ne faire pas quelque chose sérieusement », AcadémieV. 1871, 2022.Objet« Ce qui est opposé à notre vue, ou qui frappe nos autres sens, ou qui se représente à notre imagination », FuretièreV. 1572.« Se dit poétiquement des belles personnes qui donnent de l'amour », FuretièreV. 190, 192, 214, 486, 771.Obligé« Qui a reçu un bon office, qui a obligation à une personne parce qu'il en a reçu quelque plaisir », RicheletV. 1073, 1343.Obliger« Faire quelque faveur, civilité, courtoisie », FuretièreV. 79, 375, 1070, 1257, 1922.À la forme pronominale, il a le sens de « s'engager par une sorte de devoir, ou de nécessité », RicheletV. 1685.OccasionLe mot doit être pris au sens étymologique de *ce qui arrive*, d'où le sens de *circonstance.*V. 700, 710, 902, 1106, 1157, 1317, 1514, 1824, 1863.« Signifie quelquefois sujet », FuretièreV. 1934.Ombrage« Défiance, soupçon », FuretièreV. 144, 1879.Patience« Vertu par laquelle on souffre les adversités, les douleurs, les injures, les incommodités, etc., avec modération, et sans murmurer »v. 546.« On dit *prendre patience*, pour dire, avoir de la modération, de la retenue dans les choses qui font de la peine », AcadémieV. 503, 735. Peine« Douleur, affliction, souffrance, sentiment de quelque mal, dans le corps, ou dans l'esprit », AcadémieV. 1881.Pourvoir« Se dit des établissements qui se font par charge, par mariage », FuretièreV. 162, 320, 533, 2030.Protester« Promettre quelque chose avec serment », RicheletV. 1167, 1733.Pudeur« Honte naturelle qu'on a de faire quelque chose de déshonnête, ou de mauvais », FuretièreV. 324.Pudicité« Chasteté, pureté », RicheletV. 154, 241.QualitéCondition socialeV. 238, 242.La locution *en qualité de* a le sens de *comme, au titre de*V. 274, 374, 833, 1194, 1742, 1906.Rare« Qui arrive peu souvent, qui ne se trouve pas ordinairement. Excellent, précieux, singulier, extraordinaire », RicheletV. 7, 2003.RemiseFait de différer une action dans le temps. L'expression *sans plus de remise* signifie *sans attendre davantage.*V. 927, 1691.Repartir« Répliquer », FuretièreV. 1086, 1404.Servage« Vieux mot qui signifiait autrefois esclavage, servitude, et qui s'est employé pour marquer la captivité, l'attachement d'un amant à une maîtresse », FuretièreV. 1727.ServiceIl s'agit du service amoureux d'un amant pour sa maîtresseV. 205, 441.ServirDans le vocabulaire amoureux, il signifie apporter ses soins, son attention à sa maîtresseV. 514. SoucySens fort d'inquiétudeV. 137, 145, 262, 345, 1634.Souffrir« Supporter »V. 10, 481, 782, 923, 1262, 1338, 1356, 1451, 1829.« Tolérer, n'empêcher pas, quoiqu'on le puisse »V. 399, 447, 576, 1669.« Permettre » Académie.V. 488, 951, 1997. Suborneur« Qui suborne, qui corrompt, qui débauche », FuretièreV. 494, 1393.Surprendre« Tromper quelqu'un »V. 467, 1517, 1738« Lui faire faire une chose trop à la hâte », FuretièreV. 1959.Tout à l'heure« Sur le champ », FuretièreV. 487, 770, 1580.Tout beau« Adverbe. Mot qui se dit lorsqu'on prie, ou qu'on commande de s'arrêter, de ne rien faire, de ne pas parler », RicheletV. 414, 476, 1530, 1541.Transi« Saisi de douleur », RicheletV. 481, 1345.Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions », FuretièreV. 440, 882, 1838.Transporter« Se dit des violentes agitations de l'esprit », FuretièreV. 355, 366.TraverserSe mettre en travers de, s'opposer àV. 317.Au figuré, « troubler. Apporter du désordre, causer du désordre », RicheletV. 1911.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de d'Ouville
+### Œuvres de d'Ouville.
 
 
-#### Pièces de théâtre
+#### Pièces de théâtre.
     Les Trahizons d'Arbiran
 L'Esprit folet ou la Dame invisible
 Les Fausses Veritez
@@ -5050,20 +5050,20 @@ Les Soupçons sur les apparences
 
 
 
-#### Contes
+#### Contes.
     L'eslite des contes du sieur d'Ouville
 Contes aux heures perdues du sieur d'Ouville, ou le Recueil de tous les bons mots, reparties, equivoques, brocards, simplicitez, naïfvetez, gasconnades, et autres Contes facétieux non encore imprimez
 
 
 
-### Théâtre du XVII*e* siècle
+### Théâtre du XVII*e* siècle.
     El Ausente en el lugar Biblioteca de autores españoles
 Le Dépit amoureux
 Le Mariage forcé
 
 
 
-### Autres sources
+### Autres sources.
     La Pratique du théâtre
 Opuscules critiques
 Dictionnaire portatif, historique et littéraire des Théâtres
@@ -5073,7 +5073,7 @@ Remarques sur la langue françoise, utiles à ceux qui veulent bien parler et bi
 
 
 
-## Instruments de travail
+## Instruments de travail.
     Répertoire chronologique des éditions de textes littéraires : L'ère baroque en France
 La ponctuation
 Bibliographie de la littérature française du dix-septième siècle
@@ -5087,10 +5087,10 @@ Grammaire de la langue française du XVII*e* siècle
 
 
 
-## Études
+## Études.
 
 
-### Contexte historique et littéraire
+### Contexte historique et littéraire.
     Littérature française, 6, L'Âge classique
 Histoire de la littérature française au XVII*e* siècle
 Dictionnaire du grand siècle
@@ -5102,10 +5102,10 @@ Comédie et société sous Louis XIII. Corneille, Rotrou et les autres
 
 
 
-### Livres sur le théâtre
+### Livres sur le théâtre.
 
 
-#### Livres
+#### Livres.
     Le Théâtre classique
 Les Sources de Molière, Répertoire critique des sources littéraires et dramatiques
 Scarron inconnu
@@ -5137,13 +5137,13 @@ La Comédie
 
 
 
-#### Articles
+#### Articles.
     Littératures classiques
 *e*Bulletin hispanique
 
 
 
-### Sur l'auteur
+### Sur l'auteur.
     Romance Notes
 Dissertation Abstracts
 

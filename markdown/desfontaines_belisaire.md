@@ -16,26 +16,26 @@ A PARIS, Chez AUGUSTIN COURBE' Imprimeur & Libraire ordinaire de Monseigneur Fre
 Édition critique établie par Claire Chaineaux dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (1997)
 
 
-# Belisaire de Desfontaines
+# Belisaire de Desfontaines.
 
 Dans la ville de Constantinople, sous le règne de Justinien, Bélisaire et Amalazonthe plaident pour la liberté de Vitigés, roi des Goths. Justinien accepte de lui donner se liberté et fait de Bélisaire son second, un acte qui excite la jalousie de Théodore, qui ordonne à Narsés de tuer le fameux soldat. Sophie, la nièce de l'empereur, s'offre en mariage à Narsés s'il sauve la vie de Bélisaire dont elle est amoureuse. Apprenant qu'Iskirion, un prince danois et amant de Théodore, sera envoyé par celle-ci pour tuer Bélisaire, Narsés et deux autres attaquent Iskirion, mais Bélisaire vient au secours de ce dernier et ne reconnaissant Narsés que trop tard, il le blesse fatalement. Iskirion donne un anneau à son bienfaiteur ; envoyé par Théodore, il va ensuite assassiner Bélisaire mais quand il lève le bras droit, il reconnaît l'anneau et comprend que cet homme est son sauveur et lui demande alors pardon. Non découragée, Théodore envoie Doristel pour tenter le meurtre mais il trouve Bélisaire endormi avec un document militaire à ses côtés dans lequel il donne à Doristel un poste important. Celui-ci se retire après avoir écrit un avertissement et laissé un poignard. Bélisaire se réveille et découvre encore qu'il a bien failli être tué. Alors il expédie une lettre à Sophie dont il a refusé l'amour à cause d'Amalazonthe, où il dit qu'il est prêt à mourir pour lui être désagréable. Cette lettre est utilisée par Théodore qui l'ayant interceptée prétend à l'empereur qu'elle lui était adressée. Comme Justinien a entendu que Bélisaire demandait à quitter son service, il en conclut que le général est amoureux de Théodore et le fait arrêter. Sophie lui rend visite en prison et propose qu'il s'échappe avec ses vêtements, mais Théodore rentre et tente de poignarder Bélisaire, qui est sauvé par Iskirion. De toute façon, Bélisaire refuse de profiter de cet aide et offre à Théodore de se laisser tuer, laissant supposer qu'il a toujours sacrifié son plaisir dans le but de sauver son honneur. Elle est tellement touchée qu'elle le libère et obtient l'accord de Justinien pour son mariage avec Sophie dont le dévouement a gagné Bélisaire. Amalazonthe, ainsi oubliée, se mariera avec Vitigés qu'elle a toujours aimé.
 
 Telle est en quelques lignes l'histoire que développe Desfontaines dans sa pièce *Bélisaire* selon les règles de la tragi-comédie, comme nous allons tenter de le montrer tout au long de cette étude. Mais pour commencer, voici un aperçu du contexte de création et de publication de l'œuvre.
 
 
-## L'auteur
+## L'auteur.
 
 Nous possédons peu d'informations sur la vie de Nicolas Marc Desfontaines tout comme sur la réception de ses pièces et sur ses qualités d'acteur et de dramaturge. Nous savons qu'il commença sa carrière d'auteur vers 1637 avec *Eurymédon*, suivi de quelques autres pièces dont *Les Galantes vertueuses*, imprimée en 1642. Nous pouvons penser que ses talents étaient reconnus par ses contemporains puisqu'il fréquenta la Troupe Royale qui joua *La Vraie suite du Cid* (1638), la troupe de Charles Dufresne, pour qui il créa *Bélisaire* (1641), puis celle de Molière lorsqu'il monta à Paris. D'autre part, pour l'ouverture de l'Illustre Théâtre, le 1er janvier 1644, c'est l'une de ses pièces *Alcidiane ou les quatre rivaux* que l'on représenta. Par la suite, Desfontaines reprit sa vie de comédien ambulant au cours de laquelle il écrivit encore quelques pièces dont *Perside ou la suite d'Ibrahim Bassa* (1644), *L'Illustre comédie ou le Martyre de saint Genest* (1645), *La véritable Semiramis* (1647). Il meurt à Anger en février 1652 [1].
 
 En fait, même si Desfontaines est un auteur oublié aujourd'hui, il était un comédien et dramaturge reconnu au XVIIème siècle. Il savait en effet conquérir son public grâce à son savoir faire en matière de spectaculaire et a ainsi tiré parti du goût de l'époque pour un théâtre du mouvement.
 
 
-## La réception de la pièce
+## La réception de la pièce.
 
 En ce qui concerne *Bélisaire*, mis à part le fait qu'il a été créé pour la troupe de Charles Dufresne, nous n'avons aucun indice sur sa réception par le public et la critique. Nous pouvons néanmoins faire une hypothèse : il se pourrait que le *Bélisaire* de Desfontaines ait été repris par la troupe de Molière vers 1643 et par concurrence, l'Hôtel de Bourgogne aurait commandé à Rotrou un autre *Bélisaire*. Un élément pourrait conforter cette hypothèse : les deux troupes sont chacune spécialisée dans un genre et la différence fondamentale entre les deux pièces est précisément le genre dramatique puisque le *Bélisaire* de Desfontaines est une tragi-comédie alors que celui de Rotrou est une tragédie.
 
 
-## Le contexte de création
+## Le contexte de création.
 
 Le XVIIème siècle est l'âge d'or du théâtre français. C'est surtout à partir de 1628-1630 que le raffermissement politique permet l'installation à Paris de deux troupes permanentes. Le nombre des dramaturges et la production annuelle des pièces s'élèvent. On voit apparaître un public cultivé, affiné par les salons. Les patronages aristocratiques protègent les comédiens, encore excommuniés, contre les attaques de l'Église. En 1630, la France s'inspirait encore étroitement de l'Espagne et de l'Italie. En 1680, son théâtre est répandu dans toute l'Europe. C'est dans ce climat très favorable au théâtre que la tragi-comédie va connaître une vogue inouïe, vers 1631-1642 [2].
 
@@ -44,10 +44,10 @@ La tragi-comédie est un genre neuf, issue de deux traditions qui lui apportent 
 Outre ces deux éléments capitaux que sont le mouvement et l'intrigue amoureuse, la tragi-comédie cherche à s'adapter au nouveau public composé d'« honnetes gens » et met donc en scène des héros aux valeurs nobles, telles que la générosité, le courage et l'honneur. La générosité est cette grandeur d'âme qui permet d'adoucir la colère, de pardonner et de reconnaître ses erreurs. Le courage, quant à lui, est mis à l'épreuve dans le duel, dont la tragi-comédie est friand. Il vérifie la conduite du gentilhomme : c'est à se battre que songe l'amoureux malheureux pour se valoriser auprès de sa maîtresse et de sa famille à qui il veut plaire et montrer sa vaillance. Le courage et l'honneur sont incontestablement des vertus nobles qui peuvent quelques fois faire pardonner certains défauts comme l'ambition et l'intérêt, ce dont se serviront les dramaturges pour construire leurs intrigues. Ce succès de la tragi-comédie s'explique donc par le fait que ce genre répond à l'attente du public.
 
 
-# Belisaire, une tragi-comedie
+# Belisaire, une tragi-comedie.
 
 
-## Les sources et leur utilisation
+## Les sources et leur utilisation.
 
 Comme la plupart de ses contemporains, Desfontaines va trouver sa source dans la comedia espagnole qui commence à prendre beaucoup d'ampleur en Europe. C'est la pièce *El ejemplo major de la desdicha o el capitan Belisario* (1627) de Mira de Mescua qui lui donne non seulement l'idée même du sujet mais aussi la plus grande partie des péripéties. L'auteur espagnol avait lui même puisé son sujet dans les *Anecdotes* de Procope de Césarée, secrétaire de Bélisaire. Ce célèbre Général des armées de Justinien au VIème siècle a renouvelé les exploits d'Alexandre le Grand et de César en portant les armes de Byzance en Orient et en Occident. Mais en littérature, il a été célébré moins par ses triomphes militaires que comme le symbole de l'inconstance de la fortune. Il connut en effet les plus grands honneurs : c'était un modèle de bravoure, de générosité et de dévouement. Il demeura le plus fidèle et le plus loyal sujet de Justinien. Mais il perdit, à plusieurs reprises, les bonnes grâces de l'empereur qui, jaloux de son succès, l'accusa de complot pour le faire passer du commandement suprême de l'armée aux misères de la prison. Mira de Mescua s'est basé sur cet ouvrage de Procope, y a pris les noms et caractères des personnages principaux, idéalisant Bélisaire et utilisant les mésententes entre Antonia, épouse de Bélisaire, et l'impératrice Théodore. Mais il a aussi utilisé la légende de Bélisaire aveugle. Dès le Xème siècle, il courait sur Bélisaire dans le monde byzantin des histoires qui contaient ses misères et comment le général, aveuglé par la cruauté de l'Empereur, avait été réduit à tendre la main comme un mendiant. C'est ainsi que le Bélisaire espagnol meurt sur scène le sang lui coulant par les yeux, innocent malheureux devant la colère de Justinien. Se fiant ainsi au récit de Procope, Mira de Mescua met en relief les infortunes du héros qu'il attribue à la haine de Théodore.
 
@@ -56,7 +56,7 @@ De son côté, dans la mesure où il a voulu faire de Bélisaire un héros tragi
 Nous allons maintenant comparer, de façon plus systématique, les deux pièces en partant d'*El ejemplo mayor de la desdicha* [3].
 
 
-### Première journée
+### Première journée.
 
 La première scène de l'œuvre espagnole dans laquelle Bélisaire échappe à l'attentat de Léonce déguisé en pèlerin est totalement supprimée. Desfontaines ouvre sa pièce directement sur la scène du trône que l'on trouve aussi chez Mira de Mescua à la scène 2 : Bélisaire rentre victorieux de sa campagne militaire et reçoit les félicitations de son empereur. On trouve en plus, dans la pièce française, la présentation des prisonniers (Amalazonthe et le traitre Vitigés) ainsi que la remise des insignes royaux à Bélisaire comme récompense. Par contre Desfontaines supprime le récit épique que Bélisaire fait sur ses exploits en Afrique. Dès le départ, on peut remarquer le souci de concentrer l'exposition afin de rentrer plus vite dans l'action et de répondre un peu plus aux règles dramaturgiques de l'unité de temps. Il suffit en effet d'une seule scène à Desfontaines pour présenter les différentes relations entre les personnages alors qu'il en faut trois à l'auteur espagnol (scènes 2-3 de l'acte I) : Bélisaire favori de Justinien mais cependant loyal et soumis, la relation amoureuse entre Amalazonthe et Vitigés, l'amour de Sophie pour Bélisaire et enfin la jalousie de Théodore envers le général d'armée. Notons en plus la nécessité pour Desfontaines de déplacer la scène 18 de l'acte II dans sa scène d'exposition afin de donner plus de force à son action, dès le départ.
 
@@ -69,7 +69,7 @@ Vient ensuite dans la pièce espagnole l'attentat de Narsés contre Bélisaire e
 Les scènes 14 et 15 sont inexistantes chez Desfontaines : l'idée d'un nouveau conflit et d'un départ précipité de Bélisaire est supprimée, non seulement par ce même souci de rapidité et de concentration, mais aussi à cause de son inutilité. En effet, l'intérêt de ces deux scènes pour Mira de Mescua est d'accentuer une fois de plus la menace d'une séparation qui pèse sur les deux amants avec un péril de mort supplémentaire pour Bélisaire qu'Antonia interprète comme une marque de non-amour.
 
 
-### Deuxième journée
+### Deuxième journée.
 
 Les scènes 1 et 8 dans lesquelles l'empereur réfléchit, seul puis avec Narsés, aux attentats portés contre son favori sont supprimées dans la pièce française : Justinien ignore totalement le danger que court Bélisaire. Desfontaines remplace la première scène par l'isolement de Bélisaire et son monologue en stances dans les bois (scènes 1 et 2) dans lequel il exprime sa rancune contre Vitigés qui est aimé d'Amalazonthe, ce qui renforce la dimension tragi-comique de la pièce par le lieu et la forme du discours.
 
@@ -84,7 +84,7 @@ La scène 16 qui correspond à l'attentat de Filipo sur Bélisaire trouve son pa
 Ensuite, dans la pièce espagnole, Bélisaire, qui soupçonne Théodore d'être la responsable des différents attentats portés contre lui, feint de parler en rêvant et tente ainsi d'en avertir l'empereur qui discute alors sur scène avec Narsés. Desfontaines supprime complètement cet épisode puisque Bélisaire n'envisage jamais l'implication de Théodore dans les attaques contre lui. Cependant, le dramaturge français conserve l'idée d'une tentative de meurtre par Théodore elle-même mais va la déplacer au dernier acte, uniquement quand toutes les autres personnes engagées auront échoué.
 
 
-### Troisième journée
+### Troisième journée.
 
 Les scènes 1 et 2 sont supprimées : il s'agit d'un dialogue entre Bélisaire et ses soldats sur la possibilité qu'il a eu de se faire roi en Italie, chose qu'il a refusée par loyauté et obéissance envers l'empereur. La scène 2 correspond à l'entrée de l'impératrice qui surprend la conversation et exprime, une fois de plus, la haine qu'elle éprouve devant la vertu de son ennemi et l'amour que les autres lui portent, ce que le dramaturge français a jugé inutile et redondant.
 
@@ -107,7 +107,7 @@ On trouve en effet, chez l'auteur espagnol, un enchaînement un peu étrange : 
 Telles sont les principaux remaniements relatifs à l'ordre des différents moments de l'action. Il reste un point important à noter concernant les ajouts de Desfontaines : il s'agit du rôle donné aux personnages engagés par l'impératrice. On peut noter en effet que, à l'exception de Doristel, chacun d'eux après avoir reçu l'ordre de l'attentat, s'interroge sur son dessein selon la problématique honneur-amour, dans un monologue. Contrairement à ce qui se passe dans l'oeuvre espagnole, le texte français fait appel à cette dualité traditionnelle très en vogue à l'époque et particulièrement en Espagne (le Cid n'est alors vieux que de quatre ans) et que l'on retrouve pratiquement dans toutes les tragi-comédies du moment. Desfontaines donne ainsi plus l'occasion à ses protagonistes de faire connaître leurs ressentiments et leur donne un véritable statut de personnages avec une profondeur psychologique qui ne sont alors plus de simples pantins dans les mains de l'impératrice, ce sur quoi nous reviendrons ultérieurement.
 
 
-## Action et structure
+## Action et structure.
 
 « La tragi-comédie, mettant en péril la vie ou le bonheur des protagonistes, est un genre sérieux, admettant le tragique et le pathétique, mais dont le dénouement est généralement satisfaisant pour les héros. » [4] Telle est la définition que nous donne R. Guichemerre et qui s'applique très bien à *Bélisaire* d'autant plus que le modèle est une tragédie et que la création de Desfontaines tient dans le dénouement heureux. Notons aussi que la part du comique est absente ; le sujet de l'innocence malheureuse et de Bélisaire est indéniablement tragique : l'empereur disgracie son favori et le menace d'une peine plus grande alors même qu'il est innocent de cet amour coupable dont l'accuse l'impératrice. Mais si le sujet est tragique, Desfontaines en a fait une tragi-comédie et c'est là toute la gageure de la transformation, d'autant plus que *Bélisaire* répond très bien à l'esthétique de ce genre du XVIIème siècle du point de vue de l'intrigue et de ses composantes, mais aussi de l'esthétique dite « romanesque ».
 
@@ -136,7 +136,7 @@ Mais on peut noter aussi que le noyau de la pièce est négatif : c'est le refu
 D'où l'importance du dénouement *in extremis* digne d'une pastorale et de la tragi-comédie puisqu'on assiste au changement d'attitude au dernier moment de l'impératrice qui se repent et à un amour soudain de Bélisaire pour Sophie (V, 10). Dès lors, l'empereur reconnaît l'innocence de son général d'armée et lui permet ainsi d'épouser sa nièce : l'obstacle qu'était Bélisaire entre Amalazonthe et Vitigés est ainsi levé et ils peuvent aussi s'unir selon le voeu de l'empereur. Quant à Iskirion, rival le plus inquiétant au départ pour Sophie et Bélisaire, il fait preuve de générosité et organise l'union des deux amants tout en acceptant de rester seul. Ce n'est pas pour autant que le dénouement reste inachevé : ce personnage choisit cette fin et se met ainsi à leur service.
 
 
-## Spectacle et mise en scène
+## Spectacle et mise en scène.
 
 Il existe au XVIIe siècle une véritable passion du spectacle : le public veut être étonné, émerveillé par ce qu'il voit. Pour satisfaire cette passion populaire, on écrit de nombreuses pièces dont le succès considérable est dû en partie « au superbe appareil de la scène ». Et même si l'évolution du théâtre va limiter la part de l'élément spectaculaire dans les pièces à partir de 1639-1640 pour tendre vers une action restreinte dans le temps et l'espace avec une concentration de l'intérêt sur la psychologie des personnages, Desfontaines déroge à la règle et donne une très belle place au spectacle.
 
@@ -156,7 +156,7 @@ Par ailleurs, comme le recommandait Aristote, il faut exciter la terreur et la p
 Enfin il faut noter l'importance des combats que se livrent les acteurs qui sont là pour matérialiser les conflits. La forme de combat la plus répandue est le duel mais elle est absente de *Bélisaire* ; elle est remplacée par le guet-apens (II, 2).
 
 
-## Esthétique romanesque
+## Esthétique romanesque.
 
 *Bélisaire* répond aux caractéristiques de l'esthétique baroque avec, en plus du spectacle, un élément nécessaire pour toucher le public : le romanesque. Il naît du caractère invraisemblable des thèmes et de leur multiplicité. Bélisaire manque de mourir pas moins de cinq fois et n'hésite pas à se mettre en péril pour sauver des étrangers. D'autre part le repentir de Théodore ainsi que la croyance aveugle de Justinien dans les dires de son épouse sur une trahison de Bélisaire paraissent un peu extrêmes et dignes du roman. Que dire encore du « duel de générosité » entre Amalazonthe et Vitigés (acte I, scène 1), et de celui entre Iskirion et Bélisaire (acte V, scène 11) où chacun accepte de perdre la vie pour sauver l'autre ? N'oublions pas non plus l'offre que fait Sophie à Bélisaire de prendre sa place en prison pour qu'il retrouve la liberté (acte V, scène 10). A ces lieux communs de la littérature romanesque, s'ajoute le déguisement. On ne trouve qu'un seul déguisement dans la pièce, le tapabort de Narsès à la scène 3 de l'acte II, mais qui est tout à fait motivé et nécessaire à l'action. En effet, Bélisaire ne doit pas voir pendant le combat le visage de son adversaire afin qu'il le frappe impunément et garde ainsi sa vertu malgré la blessure mortelle qu'il inflige à son meilleur ami (dont la mort est également nécessaire). Il y a également la référence au travestissement de Sophie et de Bélisaire pour que la première prenne la place en prison et que l'autre sorte sans éveiller les soupçons des gardes.
 
@@ -221,7 +221,7 @@ Seconde des desseins, allume ton flambeau, (v. 383-387)
 Tous ces éléments montrent bien le souci du dramaturge de toucher l'imagination des spectateurs aussi bien par la situation sur scène que par le discours font de *Bélisaire* une véritable tragi-comédie. Cependant, elle présente la caractéristique de ne pas comporter d'indices proprement comiques ce qui peut s'expliquer par le fait que la source est une tragédie et que les personnages sont presque tous de haute condition.
 
 
-## Les personnages
+## Les personnages.
 
 Bélisaire est, comme nous l'avons vu d'après sa présence sur scène et son temps de paroles, le personnage principal et présente le caractère du héros de tragi-comédie : il brille par son courage et par la noblesse de ses sentiments.
 
@@ -250,7 +250,7 @@ D'autre part, elle va reprendre la charge pathétique de la pièce, chose nouvel
 Les autres rôles sont au départ des rivaux pour Bélisaire dans la mesure où ils incarnent l'obstacle au bonheur de ce dernier. Ils sont avant tout des opposants, des moyens pour Théodore ; mais cela, contrairement à la tendance général, ne signifie pas qu'ils n'ont aucune profondeur psychologique (à l'exception de Doristel). Narsés et Iskirion ont une conscience, un honneur a défendre et un idéal à poursuivre. C'est ainsi qu'on les voit tous deux s'interroger dans un monologue dans les termes du dilemme honneur-amour. D'autre part, ces deux personnages ont une véritable fonction auprès de Bélisaire lors de leur revirement, surtout Iskirion. En effet, c'est lui qui va pousser Sophie à se rendre dans la prison pour le libérer.
 
 
-# Belisaire, l'innocent persécuté
+# Belisaire, l'innocent persécuté.
 
 Le personnage de Bélisaire s'inscrit dans la tradition du thème de l'innocent malheureux qui a pour modèle Hippolyte victime des machinations de Phèdre. En effet, au couple Phèdre et Hippolyte se substitue celui de Théodore et Bélisaire. Cependant il existe une différence notable entre les deux : Bélisaire n'est pas le fils de Justinien. Dès lors, si le sujet d'Hippolyte est celui du fils tué par son père, chez Desfontaines il s'agit, davantage du drame de la jalousie féminine, d'autant plus que Bélisaire est finalement sauvé.
 
@@ -272,10 +272,10 @@ En même temps, *Bélisaire* devient le drame de la jalousie féminine dans la p
 On perd ici une dimension de la légende de Phèdre et d'Hippolyte dans laquelle nulle place n'était faite à la lutte intérieure ni au remords. Non seulement Théodore s'interroge mais en plus elle éprouve du remords devant son action et retourne alors la situation : elle s'avoue coupable de la supercherie devant l'empereur et la cour et demande pardon, alors que encore chez Mira de Mescua, Théodore disparaît de scène avant la fin et préfère s'exiler plutôt que d'affronter l'innocent devenu malheureux par sa faute. Il faut ajouter que la transformation de Théodore et de son caractère plus inconstant est la condition même du renversement final et de la possibilité de faire de la tragédie espagnole une tragi-comédie.
 
 
-# Établissement du texte
+# Établissement du texte.
 
 
-## Édition
+## Édition.
 
 Nous ne possédons pas le manuscrit de *Bélisaire*. Il n'en existe qu'une édition :
 
@@ -314,7 +314,7 @@ Les éditions collectives sont :
  * – à la Bibliothèque du British Museum, Londres : 86.a.l.(5)
 
 
-## Principes retenus dans la présente édition
+## Principes retenus dans la présente édition.
 
 Nous avons préféré garder l'orthographe de l'original. Il ne faudra donc pas s'étonner des nombreuses formes d'un même mot : le XVIIème siècle n'avait pas encore une orthographe fixe. Nous avons néanmoins modernisé quelques graphies : décomposition des voyelles nasales surmontées du tilde en voyelle + consonne, les ### en ss, différenciation de i et u de j et v.
 
@@ -325,7 +325,7 @@ Les didascalies sont conformes à celles de l'original, ainsi que le découpage 
 Nous avons néanmoins ajouté le numéro des vers pour faciliter la lecture.
 
 
-## Corrections
+## Corrections.
 
 Nous avons corrigé quelques erreurs et coquilles qui semblaient être de l'éditeur. En voici la liste :
 
@@ -336,10 +336,10 @@ Nous avons également modifié certains signes de ponctuation dans le texte pour
 vers 173 commandement puissant / 427 fait quitte / 448 veu posseder / 843 a ravy sa presence, / 1228 mon sort. / 1273 sommeil je luy / 1328 Prince infortuné, / 1333 si belle main, / 1383 vos yeux, à présent / 1417 ton supplice, / 1440 le perdant. / 1483 desseins differents. / 1535 expresse defense. / 1699 les flots calmans / 1747 meritoient.
 
 
-# BELISAIRE TRAGI-COMEDIE DEDIE'E A MONSEIGNEUR LE COMTE DE BURY
+# BELISAIRE TRAGI-COMEDIE DEDIE'E A MONSEIGNEUR LE COMTE DE BURY.
 
 
-## A HAULT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE ROSTAING CHEVALIER COMTE DE BURY
+## A HAULT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE ROSTAING CHEVALIER COMTE DE BURY.
 
 MONSEIGNEUR,
 
@@ -354,7 +354,7 @@ de
         DES-FONTAINES.
 
 
-## AU MESME Sonnet
+## AU MESME Sonnet.
 
 Illustre & cher object qu'adore ma pensée,  
 Mes vers pour vous loüer ont trop peu d'ornemens.  
@@ -382,7 +382,7 @@ PAR grace & Privilege du Roy, il est permis à AUGUSTIN COURBE', Libraire, de fa
 Signé LEMOINE.< Achevé d’imprimer pour la premiere fois, le 6 Juillet mil six cens quarant-un. >
 
 
-## LES ACTEURS
+## LES ACTEURS.
  – JUSTINIANEmpereur de Constantinople.
  – VITIGEZRoy des Goths.
  – ISKIRIONPrince Danois.
@@ -398,27 +398,27 @@ La scene est à Constantinople.
  
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 JUSTINIAN, THEODORE, SOPHIE, AMALAZONTHE, BELISAIRE, NARSE'S, VITIGE'S, DIOPHANTE, & Deux Gardes.
 
 
-    JUSTINIAN [15]
+    JUSTINIAN [15].
 Levez-vous.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
         Ah ! Seigneur vous estes trop Auguste⁎,  
 Devant mon Empereur ce respect est bien juste,  
 J'ay perdu mes Estats, mon rang l'est avec eux,  
 Et cét abaissement sied bien aux malheureux.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Non, je n'écoute rien en l'estat où vous estes,  
 Levez-vous.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
         J'obeïs aux loix que vous me faites,  
 Et le commandement de vostre Majesté  
 Sert de juste pretexte à ma temerité.  
@@ -463,7 +463,7 @@ Ostez luy sa Maistresse, & laissez luy la vie,
 Conservez par ma mort un homme de son rang [19],  
 Et s'il faut sa rançon, payez vous de mon sang.  
 
-    JUSTINIAN 
+    JUSTINIAN. 
 Ne vous affligez pas belle & charmante Reine,  
 Cette rigueur pour vous seroit trop inhumaine,  
 je croirois faillir, si j'avois accepté  
@@ -477,7 +477,7 @@ Que pour mieux establir le repos sur la terre :
 Quand j'abaisse quelqu'un je le fais justement [20] ;  
 Et quand je puis punir, je pardonne aysément.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Gloire de l'Orient, & l'honneur des Monarques,  
 En qui l'on voit des Dieux tant d'immortelles marques,  
 Quelque ressentiment que je vous fasse voir,  
@@ -499,7 +499,7 @@ Les Dieux daignent encor se déguiser en hommes [21] ;
 Et qu'ayant quelques fois la foudre dans les mains  
 Ils ont compassion des larmes des humains.  
 
-    VITIGES
+    VITIGES.
 Ce propos genereux⁎ divine Amalazonthe,  
 Veut faire voir icy vôtre gloire & ma honte,  
 Mais je ne suis pas lâche au point que de souffrir⁎,  
@@ -525,24 +525,24 @@ Mon amour quoy que grand est fatal à vos charmes,
 Et c'est pour reparer un si sensible tort,  
 Que j'implore à genoux vostre grace & ma mort [25].  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Seigneur.  
 
-    VITIGES
+    VITIGES.
     Amalazonthe.  
 
-    THEODORE
+    THEODORE.
         Amour incomparable.  
 
-    SOPHIE
+    SOPHIE.
 Amant infortuné⁎.  
 
-    NARSES
+    NARSES.
         Mais amant adorable,  
 Car c'est heureusement [26] perdre sa liberté,  
 Que d'estre compagnon de ta captivité,  
 
-    BELISAIRE 
+    BELISAIRE. 
 Je plaindrois vostre sort illustre Amalazonthe,  
 Si vous ne voyez [27] pas celuy qui vous surmonte,  
 Et mes yeux ne verroient mon bras qu'avec horreur,  
@@ -552,7 +552,7 @@ Puis qu'elle n'oste rien au prix de vostre gloire,
 Vous donnant pour vainqueur un Prince genereux⁎,  
 Qui détruit les malheurs, & qui fait les heureux.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Ouy Princesse esperez, donnez tréve à vos plaintes,  
 Ma clemence aujourd'huy dissipera vos craintes,  
 Et vous témoignera par ma facilité⁎,  
@@ -563,7 +563,7 @@ Apprenez par l'effet que je vay faire voir,
 Qu'il est advantageux d'estre sous mon pouvoir.  
 Qu'on détache ses fers.  
 
-    VITIGES
+    VITIGES.
         Ah ! Seigneur mon offence  
 Les a trop meritez ; mais par cette clemence,  
 Vous voulez témoigner que vostre Majesté  
@@ -577,7 +577,7 @@ Estant mon Empereur, que vous estes mon maistre,
 Que je dois relever d'un si juste pouvoir,  
 Et par vostre vertu j'apprendray mon devoir.  
 
-    JUSTINIAN *à Belisaire*
+    JUSTINIAN *à Belisaire*.
 Rare honneur de ma Cour, appuy de mon Empire  
 Que j'honnore, qu'on craint ; mais que chacun admire,  
 Belisaire en un mot, tes belles actions,  
@@ -595,13 +595,13 @@ Qu'à tes commandemens on preste obeyssance,
 Et que tous les Guerriers qui combattent pour moy  
 Dans leurs plus beaux desseins n'agissent que par toy.  
 
-    THEODORE *à part*
+    THEODORE *à part*.
 Icare audacieux, cette orgueïlleuse pompe  
 Dont le funeste esclat me déplaist & te trompe,  
 Seront de faux ardens dont les traistres appas⁎  
 Attireront ta vie au chemin du trespas [32].  
 
-    BELISAIRE
+    BELISAIRE.
 Quelques nobles effects qu'ait produit ma victoire,  
 Seigneur, je treuve assez de salaire⁎ en ma gloire,  
 Sans que vous adjoutiez à ce rare bon-heur  
@@ -615,24 +615,24 @@ Souffrez⁎ que je vous montre & mon coeur⁎ & mon zele,
 Les effets⁎ en ce point vous feront accorder  
 Que je sçais obeïr bien mieux que commander.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Icy ma volonté s'accorde à ta demande,  
 Fay donc & l'un & l'autre, obeys & commande  
 Dans le premier effect sur les loix du devoir,  
 Et dedans le second celles de ton pouvoir.  
 
-    SOPHIE
+    SOPHIE.
 Heureux commandement, puissant démon des armes,  
 Acheve, ayde à l'amour, & seconde ses charmes,  
 Conserve Belissaire au point où je le voy,  
 Et fay que quelque jour [33] il soit digne de moy [34].  
 
 
-### SCENE II
+### SCENE II.
 THEODORE, SOPHIE, NARSES
 
 
-    THEODORE [35]
+    THEODORE [35].
 Hé bien chers confidens des secrets de mon ame,  
 Dans mes ressentimens merite-je du blasme ?  
 Et n'ay-je pas raison de hayr un ingrat,  
@@ -651,10 +651,10 @@ Et que du trosne auguste⁎ où l'ingrat veut monter,
 Je luy fasse un ecueil pour le precipiter  
 Qu'il meure [37].  
 
-    SOPHIE
+    SOPHIE.
     Justes Dieux  
 
-    THEODORE
+    THEODORE.
         Narsés veux-tu me plaire ?  
 Depeche de ce pas, va tuer Belissaire,  
 A ce coeur⁎ insolent que ton bras soit fatal,  
@@ -667,10 +667,10 @@ Si tu rends par sa mort ma vangeance assouvie,
 Je sçauray bien sauver ton honneur, & ta vie :  
 Va,  
 
-    NARSES
+    NARSES.
     Madame,  
 
-    THEODORE 
+    THEODORE. 
         Va, dis-je, & sans plus discourir,  
 Ou si tu ne le fais resous-toy de mourir.  
 Non, arreste, ma hayne a trop de violence  
@@ -690,11 +690,11 @@ L'un aura ma faveur, l'autre mon alliance [39],
 Et vous sçaurez tous deux aprés ce noble effet  
 Comme je sçais en fin m'acquiter d'un bien-fait.  
 
-    NARSES *bas*
+    NARSES *bas*.
 Il est vray, ce dessein le fait assez paroistre :  
 Mais je seray plutost ton ennemy que traistre.  
 
-    THEODORE 
+    THEODORE. 
 Ma niepce, c'est icy que vous me ferez voir  
 Si le sang m'a sur vous donné quelque pouvoir [40].  
 Comme à moy desormais cette affaire vous touche,  
@@ -720,7 +720,7 @@ Et vostre ambition se doit bien contenter ;
 Car par ce riche don que vous devez eslire,  
 Un Hymen⁎ si charmant vous asseure l'Empire.  
 
-    SOPHIE 
+    SOPHIE. 
 Quand le sang, & le soing que vous avez de moy  
 Ne m'obligeroient pas à ce que je vous doy,  
 Mon inclination seroit assez puissante  
@@ -748,7 +748,7 @@ N'agissant que pour vous, puisse vous faire outrage ;
 Puisqu'au lieu de ravir ce qui vous appartient  
 C'est luy qui vous defend, c'est luy qui vous maintient.  
 
-    THEODORE
+    THEODORE.
 Donc, à ce que je voy, vous prenez la defence  
 D'un suject orgueilleux dont l'audace m'offence ?  
 Et de ses faux appas⁎ l'esclat fallacieux  
@@ -762,7 +762,7 @@ Je le rendray bien-tost peu capable me plaire,
 Et le seul partizan de mon juste couroux  
 Sera dans peu de temps son maistre et vostre espoux.  
 
-    SOPHIE
+    SOPHIE.
 Si cet Isquirion dont vous vantez les charmes  
 Est comme je le crois si redoutable aux armes  
 Qu'il vienne en cette Cour ouverte à la vertu,  
@@ -776,7 +776,7 @@ Qu'il vienne faire icy ce qu'a fait Belissaire,
 Et non pas demander par une lascheté  
 Un party de mon rang & de ma qualité [45].  
 
-    THEODORE
+    THEODORE.
 Vous y pourrez songer, Narsés approche, escoute,  
 Sophie est un esprit qu'il faut que je redoute,  
 Ne l'abandonne pas, observe ses desseins,  
@@ -787,15 +787,15 @@ Je t'en laisse le soing.
 Elle sort.
 
 
-    NARSE’S
+    NARSE’S.
         Reposez-vous sur moy.  
 
 
-### SCENE III
+### SCENE III.
 SOPHIE, NARSES
 
 
-    SOPHIE [46]
+    SOPHIE [46].
 Hé bien, Narsés, enfin puis-je m'ouvrir à toy [47] ?  
 je te croirois faire un trop sensible outrage  
 Si je me deffiois de ton noble courage,  
@@ -814,7 +814,7 @@ De leur assassinat, & de leur violence,
 J'arracheray mon coeur, & mon sang respandu  
 Coulera sur celuy qu'un Prince aura perdu [50].  
 
-    NARSE’S
+    NARSE’S.
 Il n'est pas necessaire, adorable Sophie,  
 Qu'icy mon innocence en vain se justifie,  
 Puisque vous avez leu clairement dans mes yeux,  
@@ -828,7 +828,7 @@ Le fait en cette Cour passer pour temeraire,
 Mais tant de qualitez qui le font admirer  
 Luy doivent pour le moins permettre d'esperer.  
 
-    SOPHIE
+    SOPHIE.
 Je suis ce sentiment que la vertu te donne,  
 J'aime ses qualitez bien plus que sa personne,  
 Et voyant que tu tiens de ses perfections  
@@ -842,7 +842,7 @@ De qui luy portera le coeur de Belisaire,
 Et moy pour m'opposer à ce lasche courroux,  
 De son liberateur je feray mon espoux [51].  
 
-    NARSE’S
+    NARSE’S.
 L'espoir de posseder un si grand advantage  
 Doit aux moins genereux⁎ inspirer du courage,  
 Et si par ce moyen l'on vous peut acquerir,  
@@ -856,28 +856,28 @@ Sinon vous donnerez vos voeux à Belisaire [52],
 M'estimant trop heureux si par un prompt secours  
 Je puis contribuer au bien de vos amours.  
 
-    SOPHIE
+    SOPHIE.
 Va, suy ce mouvement⁎ que la gloire t'inspire  
 Sauve, brave Narsés Belisaire & l'Empire,  
 Fay par un noble coup qu'il te doive le jour,  
 L'Empire, son salut, & mon coeur son amour,  
 Je me promets de toy cét agreable office⁎.  
 
-    NARSES
+    NARSES.
 Madame asseurez-vous de mon humble service,  
 Et dans quelque danger qu'il me faille courir,  
 Vous m'y verrez bien-tost satisfaire, ou perir.  
 
-     SOPHIE
+    SOPHIE.
 Va Narsés, mais sur tout en ce pressant orage,  
 Que ta discretion assiste ton courage,  
 Et souffre⁎ si tu veux m'obliger tout à fait,  
 Que mesme Belisaire ignore ce bien fait [53].  
 
 
-### SCENE IV 
+### SCENE IV. 
 
-    NARSE’S [54]
+    NARSE’S [54].
 Confus, triste, pensif, je ne sçay que resoudre⁎  
 Ayant ouy gronder l'espouvantable foudre,  
 Qui menace aujourd'huy l'objet le plus parfait,  
@@ -912,14 +912,14 @@ Et sauver s'il se peut, mais genereusement,
 En Amy Belisaire, & Sophie en Amant.   
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE I
+### SCENE I.
 BELISAIRE, DIOPHANTE
 
 
-    BELISAIRE
+    BELISAIRE.
 Je ne sçaurois souffrir⁎ plus long-temps son absence,  
 Diophante mets fin à mon impatience,  
 Va, trouve moy Narsés, dy luy que je l'attends,  
@@ -932,9 +932,9 @@ Diophante entre dans le bois.
 
 
 
-### SCENE II 
+### SCENE II. 
 
-    BELISAIRE *seul*
+    BELISAIRE *seul*.
 
 Lieux charmans, solitude sombre,  
 Sejour du silence & de l'ombre,  
@@ -998,20 +998,20 @@ Cede aux coups d'une bande à sa perte animée,
 Il le faut secourir.  
 
 
-### SCENE III [61]
+### SCENE III [61].
 BELISAIRE, ISKIRION, NARSES, Et trois assassins [62]
 
 
-    ISKIRION
+    ISKIRION.
         Vous voulez mon trépas,  
 Bien, mais auparavant vous connoistrez mon bras,  
 Et cet illustre sang que vous voulez répendre,  
 Coulera lasches coeurs, mais je le sçauray vendre,  
 
-    NARSE’S
+    NARSE’S.
 Il n'importe.  
 
-    BELISAIRE 
+    BELISAIRE. 
         Donnons, à moy traistres, à moy,  
 Ici vostre fureur trouvera de l'employ,  
 Tournez contre mon sein vos armes criminelles,  
@@ -1021,12 +1021,12 @@ Les voleurs sont deffaits, mais ce n'est pas assez,
 Il faut que par mes mains l'artisan de ce crime,  
 Pour tous ses compagnons vous serve de victime.  
 
-    ISKIRION
+    ISKIRION.
 Ah ! Seigneur arrestez, cette punition,  
 Appartient à mon bras comme à ma passion [63],  
 L'outrage qu'il m'a fait m'oblige⁎ à cét office⁎.  
 
-    BELISAIRE
+    BELISAIRE.
 Trop d'honneur seroit joint à son juste supplice,  
 Il ne merite pas un si noble courroux,  
 Vous frapperiez un homme indigne de vos coups,  
@@ -1059,7 +1059,7 @@ J'ay souslevé les flots, appaisez la tempeste,
 Et si je tiens de l'homme en voulant vous vanger,  
 Faites comme les Dieux le sauvant du danger.  
 
-    ISKIRION
+    ISKIRION.
 Quand je ne voudrois pas la raison m'y convie,  
 Puis-je rien refuser à qui je dois la vie ?  
 Mon Seigneur vos desirs seront tousjours les miens,  
@@ -1069,7 +1069,7 @@ N'efface tout à fait le reste de sa gloire,
 Et ne le rende infame aux siecles à venir,  
 J'en veux perdre, Seigneur, jusques au souvenir.  
 
-    BELISAIRE
+    BELISAIRE.
 C'est aussi dans l'oubly des plus sanglants outrages  
 Que se voit la grandeur des illustres courages [69],  
 Et par ce noble effect une adroitte pitié  
@@ -1079,7 +1079,7 @@ Le pardon est souvent une haute vengeance,
 Et c'est un chastiment qui tousjours fait sentir  
 Les peines qu'aux grands coeurs donne du repentir [70].  
 
-    NARSE’S
+    NARSE’S.
 Il est vray que je souffre un remors bien sensible,  
 Et bien tost mon trépas vous le rendra visible :  
 Mais ce vif repentir que j'emporte en mourant  
@@ -1089,30 +1089,30 @@ J'appelle icy vertu ce que vous nommez crime,
 S'il estoit achevé je serois satisfait,  
 Et je meurs de regret de le voir imparfait [71].  
 
-    ISKIRION
+    ISKIRION.
 Il a perdu le sens.  
 
-    BELISAIRE
+    BELISAIRE.
         Narsés, quelle manie⁎  
 D'un esprit si solide a la raison bannie ?  
 D'où te vient cette erreur ? Et pourquoy penses-tu  
 Qu'un lasche assassinat soit un trait de vertu ?  
 Quel transport⁎ a causé cette fureur extreme ?  
 
-    NARSE’S
+    NARSE’S.
 La raison, la pitié, mon amour, & vous mesme.  
 
-    BELISAIRE
+    BELISAIRE.
 Moy, Narsés ? que dis-tu ?  
 
-    NARSE’S
+    NARSE’S.
         Je dis ce que je dois [72].  
 
-    BELISAIRE 
+    BELISAIRE. 
 Ah ! sans doute ton coeur dement icy ta voix,  
 Je n'eus jamais de part aux lâchetez d'un traistre.  
 
-    NARSE’S
+    NARSE’S.
 Non, mais si je le suis vous m'obligez à l'estre [73],  
 Et la seule pitié que j'ay de vostre sort  
 Est le coup qui me perd & qui cause ma mort.  
@@ -1121,10 +1121,10 @@ Mais un crime si beau meritoit recompense,
 Puis que sans vostre abord un facile combat  
 Eust sauvé vostre sang, ma Princesse, & l'Estat.  
 
-    ISKIRION
+    ISKIRION.
 Ce discours cache un sens que je ne puis comprendre.  
 
-    NARSE’S
+    NARSE’S.
 Dedans peu [74] les effects⁎ vous le pourrons apprendre,  
 Et mon malheur me rend bien-heureux en ce point,  
 Que me privant du jour je ne le verray point [75].  
@@ -1132,11 +1132,11 @@ Adieu, cruel amy, le Ciel te soit prospere,
 Et rende ton destin plus doux que je n'espere.  
 
 
-### SCENE IV 
+### SCENE IV. 
 NARSE'S, BELISAIRE, ISKIRION [76]
 
 
-    BELISAIRE
+    BELISAIRE.
 Il expire, Narsés, helas ! il ne vit plus,  
 O Dieux ! que cette mort rend mes esprits confus,  
 Narsés ouvre les yeux, ah ! mon attente est vaine,  
@@ -1156,7 +1156,7 @@ Je suis prest de souffrir⁎ toutes vos injustices,
 Et pour ne point souler vostre haine à demy,  
 Meslez icy mon sang au sang de mon amy.  
 
-    ISKIRION
+    ISKIRION.
 Ce sang ne fut jamais digne de ce meslange,  
 Ne le regretez point, vous gaignerez au change,  
 Et sa mort est un coup que le Ciel a permis  
@@ -1178,7 +1178,7 @@ Adjoutez cette grace à celle de ma vie,
 Favorisez les voeux d'un Prince infortuné [82],  
 Ou reprenez le jour que vous m'avez donné.  
 
-    BELISAIRE
+    BELISAIRE.
 Seigneur je viens de voir un trop clair témoignage  
 Et de vostre naissance, & de vostre courage,  
 Pour croire que jamais aucun mauvais dessein  
@@ -1192,7 +1192,7 @@ Il vous offre son zele & son obeïssance,
 Et bien que peu puissant, au moins il fera voir,  
 Qu'il sçait & bien aimer & faire son devoir.  
 
-    ISKIRION
+    ISKIRION.
 Ah ! cét abbaissement offense vos merites ;  
 Comme ils sont hors de prix ils n'ont point de limites,  
 Et l'admiration dont je me sens charmer  
@@ -1204,7 +1204,7 @@ il luy presente un diamant [83]
 Et que ce diamant aussi net que mon coeur  
 Vous fasse souvenir de vostre serviteur.  
 
-    BELISAIRE
+    BELISAIRE.
 Pour vous rendre tousjours ma memoire fidele,  
 Les dons sont superflus, il suffit de mon zele [84] ;  
 Mais puis que vos desirs m'imposent cette loy,  
@@ -1212,17 +1212,17 @@ Plein d'aise & de respect, Seigneur, je le reçoy,
 Et je proteste⁎ icy que les mains de la Parque [85]  
 Seules pourront m'oster cette adorable marque.  
 
-    ISKIRION
+    ISKIRION.
 Adieu, je me retire avecque cet espoir.  
 
-    BELISAIRE
+    BELISAIRE.
 J'auray dans peu de temps l'honneur de vous revoir,  
 Si vous faites en Cour tant soit peu de demeure.  
 
-    ISKIRION
+    ISKIRION.
 C'est où je vous attens.  
 
-    BELISAIRE
+    BELISAIRE.
         J'y seray dans une heure,  
 Cependant trouvez bon qu'un reste d'amitié  
 Exerce envers ce corps encor quelque pitié,  
@@ -1230,9 +1230,9 @@ Et puisque son trépas a vangé son injure,
 Que mon dernier present soit une sepulture.  
 
 
-### SCENE V 
+### SCENE V. 
 
-    BELISAIRE [86]
+    BELISAIRE [86].
 
 Dans ces sombres deserts où rien ne peut parler,  
 Je pensois soulager mon amoureux martyre,  
@@ -1280,44 +1280,44 @@ Contre toy-mesme icy par toy-mesme occupée,
 Soit ton juste supplice, & ta main ton bourreau.  
 
 
-### SCENE VI 
+### SCENE VI. 
 BELISAIRE, DIOPHANTE
 
 
-    DIOPHANTE *empeschant qu'il ne se jette sur son espée.*
+    DIOPHANTE *empeschant qu'il ne se jette sur son espée.*.
 Dieux, qu'est-ce que je vois ? ah, Seigneur !  
 
-    BELISAIRE
+    BELISAIRE.
         Diophante  
 Que fais-tu ? Laisse moy, souffre⁎ que je contente  
 Par un coup genereux⁎ la rigueur de mon sort,  
 Voy cét object sanglant, c'est Narsés.  
 
-    DIOPHANTE
+    DIOPHANTE.
         Il est mort.  
 
-    BELISAIRE
+    BELISAIRE.
 Ouy, Diophante, il l'est.  
 
-    DIOPHANTE
+    DIOPHANTE.
         Dieux ! le malheur extreme,  
 Qui l'a tué ?  
 
-    BELISAIRE 
+    BELISAIRE. 
     Moy.  
 
-    DIOPHANTE
+    DIOPHANTE.
     Vous  
 
-    BELISAIRE
+    BELISAIRE.
         Moy, mais plustost luy-mesme.  
 Car lors que j'ai commis cét innocent peché,  
 Un tapabort⁎ tenoit son visage caché.  
 
-    DIOPHANTE
+    DIOPHANTE.
 A quelle occasion ?  
 
-    BELISAIRE
+    BELISAIRE.
         Espargne ta memoire,  
 Tu ne sçauras que trop cette tragique histoire [92] ;  
 Et mesme si tu veux appaiser mes transports⁎,  
@@ -1325,14 +1325,14 @@ Oste à mes tristes yeux ce deplorable corps.
 Fin du secon Acte 
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE I
+### SCENE I.
 THEODORE, ISKIRION
 
 
-    THEODORE [93]
+    THEODORE [93].
 Allez ne craignez rien, achevez cette affaire,  
 Et songez seulement quel est vostre salaire⁎,  
 Avant que vous mander pour ce coup important,  
@@ -1350,7 +1350,7 @@ On doit tout hazarder pour avoir ce qu'on aime,
 Il faut tout entreprendre, & tenter jusqu'au bout,  
 Un esprit amoureux est capable de tout.  
 
-    ISKIRION 
+    ISKIRION. 
 Hé bien, Madame, il faut complaire à vostre envie,  
 Un sujet vous deplaist, vous demandez sa vie,  
 Vous avez sur mon coeur un pouvoir absolu,  
@@ -1372,7 +1372,7 @@ J'ay le bras d'un soldat, le courage d'un Prince.
 Et si vous le vouliez, vous verriez ma valeur  
 Imprimer sur son corps ma gloire & son malheur.  
 
-    THEODORE
+    THEODORE.
 La vaillance n'est pas un poinct qu'on vous dispute,  
 Ce que veut vostre coeur vostre bras l'execute,  
 Et je ne doute pas qu'un duel entre vous  
@@ -1396,14 +1396,14 @@ Donne à vostre poignard plus de facilité,
 Ce beau coup achevé, la recompense est preste,  
 Commencez seulement, & je feray le reste.  
 
-    ISKIRION
+    ISKIRION.
 Madame s'en est fait, il va perdre le jour,  
 Victime infortunée⁎ ! & de haine & d'amour.  
 
 
-### SCENE II
+### SCENE II.
 
-    ISKIRION [94]
+    ISKIRION [94].
 Importune raison, hé bien que dois-je faire ?  
 Te faut-il obeir, ou bien t'estre contraire ?  
 Sur une perfidie establir mon bon-heur ?  
@@ -1432,11 +1432,11 @@ Il faut, il faut franchir constamment la carriere [100],
 Et m'acquerir Sophie ou perdre la lumiere [101].  
 
 
-### SCENE III
+### SCENE III.
 BELISAIRE, AMALAZONTHE
 
 
-    BELISAIRE [102]
+    BELISAIRE [102].
 Quoy donc, Amalazonthe, apres un traittement,  
 Que des Princes captifs espreuvent rarement,  
 Vous voulez aujourd'huy paroistre inexorable,  
@@ -1449,7 +1449,7 @@ Perdez par vos mespris un vainqueur qui vous sert [104],
 Donnez luy vos faveurs, ce grand coeur les merite,  
 Et les luy disputer c'est ce qui vous irrite.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 N'en doutez nullement, bien qu'un sort rigoureux  
 Dans ses nobles projets l'ait rendu malheureux,  
 Le droict qu'il a sur moy n'est pas moins legitime,  
@@ -1465,10 +1465,10 @@ Moy seule je seray ses Estats, son Empire,
 Son espoir; sa grandeur, ses sujets, & sa Cour,  
 Son conseil mes desirs, & ses loix mon amour.  
 
-    BELISAIRE
+    BELISAIRE.
 Voila dedans les fers parler en souveraine.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Vous m'avez fait captive, & le Ciel m'a fait Reine,  
 Le sort qui me destruit ne m'a pas tout osté,  
 J'en conserve le coeur comme la qualité [105] :  
@@ -1481,7 +1481,7 @@ Tel qui fut au sommet se voit au precipice,
 Et pour un mouvement⁎ qui n'est jamais égal,  
 Le mal succede au bien, & le bon-heur au mal [107].  
 
-    BELISAIRE
+    BELISAIRE.
 Helas ! que je fais bien la triste experience,  
 Et des rigueurs du Sort, & de son inconstance,  
 Puis que la méme main qui bastit ma grandeur,  
@@ -1493,13 +1493,13 @@ Et par les traits⁎ ardents qu'elle a receu de vous,
 Ne luy refusez pas la pitié qu'elle implore,  
 Et recevez, cruelle, un coeur qui vous adore.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Ne m'importunez plus, & quittons ce discours,  
 J'ay l'esprit à mes maux plustost qu'à mes amours,  
 Ce Dieu qui ne se plaist que parmy les delices  
 Rougiroit qu'on le vist en ce lieu de supplice.  
 
-    BELISAIRE
+    BELISAIRE.
 Vous ne rougissez pas qu'une extreme rigueur  
 Parmy tant de tourmens le tiennent dans mon coeur,  
 Vous estimez ces lieux indignes de la flame,  
@@ -1509,10 +1509,10 @@ Amour n'est jamais mieux que dans une prison,
 Il hayt la liberté, fait mesme qu'on la craigne,  
 Et la chasse d'un coeur aussi tost qu'elle y regne.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Ses plumes nous font voir qu'il sçait bien en partir.  
 
-    BELISAIRE
+    BELISAIRE.
 Mais c'est pour y voler, & non pour en sortir,  
 Conservons luy pourtant l'usage de ses aisles,  
 Sortant d'une prison qu'il entre en de plus belles,  
@@ -1520,10 +1520,10 @@ Vostre coeur est tenu soubs un lâche pouvoir,
 Quittez le pour le mien qui vous veut recevoir,  
 Amour vous nuit icy, qu'Amour vous en retire [109].  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Je perdrois mon espoir, & non pas mon martyre.  
 
-    BELISAIRE 
+    BELISAIRE. 
 Cét espoir, ma Princesse, entretient vos malheurs,  
 Cette espine jamais ne produira de fleurs :  
 Vitigés qui nourrit cette vaine esperance,  
@@ -1534,15 +1534,15 @@ En sa rebellion il a trouvé sa perte,
 Vous reparez la vostre en mon amour offerte,  
 Ma premiere victoire est de vous acquerir.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Perdant tout, il me reste une belle à mourir [110].  
 Elle sort.
 
 
 
-### SCENE IV
+### SCENE IV.
 
-    BELISAIRE
+    BELISAIRE.
 Ah, mourir ! ah plustost si mon feu vous offense,  
 Mais l'ingrate à mes yeux a ravy sa presence.  
 Où m'avez vous reduit, espoir, ambition ?  
@@ -1554,14 +1554,14 @@ Que je treuve un supplice où j'esperois un prix.
 Mais allons recevoir ce guerrier qui s'advance.  
 
 
-### SCENE V
+### SCENE V.
 ISKIRION, BELISAIRE, DORISTEL [111]
 
 
-    DORISTEL *parlant à Iskirion*
+    DORISTEL *parlant à Iskirion*.
 Le voila.  
 
-    ISKIRION
+    ISKIRION.
         C'est assez, observez le silence [112],  
 Grand Prince, justes Dieux, que je suis interdit,  
 Luy prenant la main.Laissant tomber le poignard [113]
@@ -1576,10 +1576,10 @@ Vien, passe dans mon sein, & vange Belisaire [114],
 Tu feras par ce traict de generosité⁎  
 Une juste action pour une lâcheté [115].  
 
-    BELISAIRE
+    BELISAIRE.
 Qu'est-ce donc ? arrestez.  
 
-    ISKIRION
+    ISKIRION.
         Ah : souffrez⁎ que mon crime  
 Reçoive un châtiment & juste & legitime,  
 J'ay cherché vostre sang, j'ay voulu vostre mort,  
@@ -1588,7 +1588,7 @@ Et bien qu'il ne soit rien que ministre⁎ d'un autre,
 Mon sang à cet effect⁎ doit payer pour le vostre,  
 Permettez moy Seigneur.  
 
-    BELISAIRE
+    BELISAIRE.
         Non quittez ce dessein,  
 Ce fer est seulement destiné pour mon sein,  
 Et si vostre bon-heur dépend de mon naufrage,  
@@ -1596,7 +1596,7 @@ Ce poignard peut encor achever mon ouvrage,
 Bien loin d'en murmurer j'en beniray les coups,  
 Si mon coeur les reçoit & par vous & pour vous.  
 
-    ISKIRION
+    ISKIRION.
 Ah ! pour cette bonté qui paroist incroyable,  
 Que vous m'estes cruel estant si pitoyable [116],  
 Ce discours à mon coeur est un bourreau secret,  
@@ -1626,7 +1626,7 @@ Que ma faveur perisse avec mon esperance,
 Mon repos, mes plaisirs, & mesme mon amour,  
 Plûtost que de souffrir⁎ qu'il vous coustent le jour.  
 
-    BELISAIRE 
+    BELISAIRE. 
 Ah ! c'est trop, je connois ces redoutables Astres [118]  
 Dont le fatal éclat a causé mes desastres :  
 Ouy, je connois ces yeux, ces tyrans inhumains,  
@@ -1644,24 +1644,24 @@ Qu'il m'eust payé vos soins par une perfidie,
 Et que ce bel objet qui vous tient sous la loy,  
 N'a jamais eu dessein ny sur vous ny sur moy [119].  
 
-    ISKIRION
+    ISKIRION.
 Cét amour desormais m'est bien indifferente [120],  
 Souffrez⁎ que je vous aime, & mon ame est contente :  
 C'est là tout mon desir, c'est là tout mon espoir,  
 Et l'unique bon-heur que je veux recevoir.  
 Adieu, je me retire avec cette esperance.  
 
-    BELISAIRE 
+    BELISAIRE. 
 Ouy, mon Prince, vivez avec cette asseurance,  
 Et si cette amitié que je vous jure icy  
 Perit, faites grands Dieux que je perisse aussy [121].  
 
 
-### SCENE VI
+### SCENE VI.
 THEODORE, SOPHIE [122]
 
 
-    THEODORE [123]
+    THEODORE [123].
 Songez y bien, Sophie, Iskirion est Prince,  
 Songez que c'est pour vous qu'il quitte sa province,  
 Et qu'on ne doit jamais par d'injustes mépris  
@@ -1671,7 +1671,7 @@ Favorisez ses voeux, il en vaut bien la peine,
 Et croyez que l'honneur qu'il vous fait aujourd'huy  
 Vous oblige à paroistre accorte⁎ comme luy.  
 
-    SOPHIE
+    SOPHIE.
 En vain pour me toucher vous parlez de ses charmes,  
 Je méprise ses voeux, ses soûpirs & ses larmes,  
 Et j'estime si peu ses pas & son amour,  
@@ -1679,32 +1679,32 @@ Que si mon sujet seul l'arreste en cette Cour,
 Il peut s'en retourner & s'épargner la peine  
 Que donne aux importuns une recherche vaine.  
 
-    THEODORE
+    THEODORE.
 Si sa recherche est vaine auprés de vos appas⁎,  
 Sa vengeance a des traits qui ne le seront pas,  
 Evitez ce malheur.  
 
-    SOPHIE
+    SOPHIE.
         Je crains peu cét orage.  
 
-    THEODORE
+    THEODORE.
 Ma niepce il a du coeur.  
 
-    SOPHIE
+    SOPHIE.
         Et j'en ay d'avantage.  
 
-    THEODORE
+    THEODORE.
 J'en doute.  
 
-    SOPHIE
+    SOPHIE.
         Je me ris de son ressentiment.  
 
-    THEODORE 
+    THEODORE. 
 Il est pourtant à craindre en l'esprit d'un amant,  
 Et si ce coeur altier épargne un peu le vostre,  
 Craignez que son courroux n'éclate sur un autre [124].  
 
-    SOPHIE
+    SOPHIE.
 Bien, bien, que ce cruel acheve mon destin,  
 De Prince genereux⁎ qu'il se rende assassin,  
 Pour se vanger de moy qu'il fasse une injustice.  
@@ -1720,7 +1720,7 @@ Qu'il m'oste quant & quant⁎ une vie ennuyeuse,
 Asseuré que le coup qui me le ravira,  
 Est la seule action de luy qui me plaira.  
 
-    THEODORE
+    THEODORE.
 Ouy, ouy, puisqu'à nos voeux vous este si contraire,  
 Vous le verrez perir, ce beau, ce temeraire,  
 Et devant que la nuict vous dérobe le jour,  
@@ -1728,7 +1728,7 @@ Vous serez sans amant comme luy sans amour.
 Elle sort.
 
 
-    SOPHIE
+    SOPHIE.
 Allez, lâche, allez complaire à vostre envie,  
 Allez trancher le cours d'une si belle vie ;  
 Si mes justes douleurs ne previennent vos soins,  
@@ -1740,14 +1740,14 @@ Que ce qu'Amour a fait ne se peut separer [126].
 Fin du troisième Acte 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE I
+### SCENE I.
 VITIGEZ, AMALAZONTHE [127]
 
 
-    VITIGEZ
+    VITIGEZ.
 Ma Princesse, d'où vient cette melancolie  
 Où vostre ame paroist si fort ensevelie ?  
 Est-ce pour étoufer mon amoureuse ardeur  
@@ -1757,7 +1757,7 @@ Ordonnez de mon sort, je vay vous satisfaire
 Pourveu qu'en me privant & d'espoir & d'amour,  
 Vous permettiez aussi que je perde le jour.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Mon Prince, pardonnez à l'ennuy qui me presse,  
 Et comme mon Amour partagez ma tristresse,  
 Loin de me consoler en mes justes douleurs,  
@@ -1767,7 +1767,7 @@ Mais pour y resister j'ay beaucoup de courage,
 Et le sort vainement deployroit son courroux,  
 Si m'estant rigoureux il vous estoit plus doux.  
 
-    VITIGEZ
+    VITIGEZ.
 Ah ! Madame, en ce point sa rigueur m'est propice,  
 Et sa triste faveur feroit une injustice,  
 Si lors que son respect manque pour vos attraits,  
@@ -1780,16 +1780,16 @@ Mais, de grace, Madame, afin de m'y resoudre,
 Dites moy de quel bras doit partir cette foudre,  
 Quel est cét ennemy qui veut m'oster le jour ?  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Vous le voyez, Seigneur.  
 
-    VITIGEZ
+    VITIGEZ.
     Qui, bons Dieux ?  
 
-    AMALAZONTHE
+    AMALAZONTHE.
         Mon Amour.  
 
-    VITIGEZ 
+    VITIGEZ. 
 Madame, c'est assés, je voy mon infortune,  
 Et je sçay maintenant ce qui vous importune,  
 Cét amour que vos yeux ont fait naistre en mon coeur,  
@@ -1809,7 +1809,7 @@ Perdez le souvenir de ma tendre amitié,
 Et pour mettre en repos un object adorable,  
 N'espargnez point le sang d'un Prince miserable.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Ah ! que vous prenez mal le sens de mes discours,  
 Destruirois-je le bras d'où j'attens le secours [130] ?  
 Et croyez-vous qu'on puisse esteindre vostre vie,  
@@ -1819,21 +1819,21 @@ N'aura jamais chez moy ny froideur ny mépris,
 J'appreuve vos devoirs, vostre grace me charme,  
 Et je crains, mais pour vous.  
 
-    VITIGEZ
+    VITIGEZ.
         Qui vous met en allarme ?  
 Doutez vous de ma foy ? doutez vous de mon coeur ?  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Non.  
 
-    VITIGEZ
+    VITIGEZ.
     Que craignez-vous donc ?  
 
-    AMALAZONTHE
+    AMALAZONTHE.
         Un insolent vainqueur,  
 Belisair' [131].  
 
-    VITIGEZ
+    VITIGEZ.
         Ah ! Madame un rayon d'esperance  
 Flate encor mon amour d'une belle apparence :  
 Ce n'est pas que l'orgueil de ce victorieux  
@@ -1849,13 +1849,13 @@ Et vous avez, Madame, une inutile crainte :
 "Par tout où va ce Dieu, va ce fantosme sombre,  
 "Qui le suit de si prés qu'on le prend pour son ombre [132].  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Il est bien vray qu'alors qu'on possede un grand bien,  
 C'est l'estimer bien peu que de ne craindre rien,  
 Et par cette raison j'ay sujet de me plaindre,  
 Car si vous m'estimez vous trouveriez à craindre.  
 
-    VITIGEZ
+    VITIGEZ.
 Si vostre coeur estoit moins illustre qu'il n'est,  
 Je craindrois que mon sort ou bien vostre interest,  
 Voyant en quel estat mon ennemy me range,  
@@ -1869,7 +1869,7 @@ Ny l'honneur d'estre aimé, ny l'heur⁎ de vous servir.
 Mais encor quel sujet a fait naistre ces craintes ?  
 Et quelle occasion authorise vos plaintes ,  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Ne vous figurez pas que ma presomption  
 Soit le seul fondement de cette passion,  
 Mon esprit qui connoit ce Prince opiniâtre,  
@@ -1886,29 +1886,29 @@ Où je cours le danger d'un naufrage évident,
 Si le Ciel ne destourne un si triste accident ?  
 Mais le voicy qui vient, evitons sa presence.  
 
-    VITIGEZ
+    VITIGEZ.
 Il est avec Sophie. Amour si ta puissance  
 A gravé dans son coeur ma Reyne & ses attraits,  
 Permets que cét object en efface les traits⁎ [134].  
 
 
-### SCENE II 
+### SCENE II. 
 BELISAIRE, SOPHIE
 
 
-    SOPHIE [135]
+    SOPHIE [135].
 Voila ce que vous couste une amitié fidele,  
 Vous n'avez rien de sainct ni d'aimable⁎ auprés d'elle,  
 C'est ainsi qu'un perfide a payé vos travaux [136].  
 
-    BELISAIRE
+    BELISAIRE.
 Ah ! Madame espargnez sa candeur [137] & mes maux.  
 
-    SOPHIE
+    SOPHIE.
 Jusques où l'amitié dans vostre ame s'imprime,  
 Pour un ingrat, un traistre, & l'autheur de ce crime.  
 
-    BELISAIRE
+    BELISAIRE.
 Tous ces propos me sont plus mortels que les coups,  
 Qui m'estoient destinez puisque c'estoit pour vous.  
 Je croyois que son crime eust une autre origine,  
@@ -1924,7 +1924,7 @@ De s'oster un Rival qui se desesperoit,
 Elle embraze les Dieux, tout cede à son pouvoir,  
 Et pour ne pas aimer il ne faut pas vous voir.  
 
-     SOPHIE 
+    SOPHIE.
 Pourquoy donc, si vos yeux sont si remplis de charmes  
 Estes vous insensible au pouvoir de mes armes ?  
 Je souffre vostre abord, j'escoute vos discours,  
@@ -1932,7 +1932,7 @@ Vous pouvez me parler & me voir tous les jours,
 Vous resistez pourtant, & cette resistance  
 Fait voir ou vostre orgueil, ou mon peu de puissance [139].  
 
-    BELISAIRE
+    BELISAIRE.
 Dieux, qu'est-ce que j'entens ? interdict & confus,  
 En l'estat où je suis je ne me connois plus,  
 Avecque ce discours, adorable Princesse,  
@@ -1942,7 +1942,7 @@ Pour avoir de l'orgueil il a trop de respect,
 Et je vous feray voir qu'il sçait trop se connoistre,  
 Pour esperer jamais la niepce de son maistre [140].  
 
-    SOPHIE
+    SOPHIE.
 Ah ! que ce feint respect est fatal à mon coeur,  
 Mais quoy, ta modestie importe à ta rigueur,  
 Et par ce faux pretexte aussi faux que visible,  
@@ -1966,22 +1966,22 @@ Ce qui m'est desormais plus sensible & plus rude,
 C'est que tu crois encor mon dessein assez beau,  
 Si j'ay pour mon espoux un traistre & ton bourreau.  
 
-    BELISAIRE
+    BELISAIRE.
 Hé, de grace, Madame, épargnez l'innocence,  
 Ses regrets ont assez expié son offense,  
 Et quelque sentiment que votre Altesse ait eu,  
 Son crime mesme a fait éclater sa vertu.  
 
-    SOPHIE
+    SOPHIE.
 Apres ce qu'il a fait l'excusez vous encore ?  
 
-    BELISAIRE
+    BELISAIRE.
 Il vous aime.  
 
-    SOPHIE
+    SOPHIE.
     L'innocent.  
 
-    BELISAIRE
+    BELISAIRE.
         De plus il vous adore,  
 Et je croirois avoir trop de temerité,  
 De pretendre un honneur qu'il a mieux mérité,  
@@ -1993,23 +1993,23 @@ Qui nous trompe tous trois, ne contente personne,
 Il luy refuse un bien, vostre amour me le donne,  
 Moy, je n'en puis jouïr [143].  
 
-    SOPHIE
+    SOPHIE.
         Et luy l'espere en vain,  
 Helas de qui vous tuë adorez-vous la main ?  
 
-    BELISAIRE
+    BELISAIRE.
 Cét injuste reproche offense sa franchise,  
 Outre qu'ayant sur moy toute chose permise,  
 J'aimerois l'attentat quand il auroit commis,  
 Puis que la mort seroit un don de mes amis.  
 
-    SOPHIE
+    SOPHIE.
 Aveugle affection ! bien, aime le perfide,  
 Aime un lâche, un ingrat, un traistre, un homicide,  
 Cette belle amitié te coustera le jour,  
 Et ta mort, desloyal, vangera mon amour.  
 
-    BELISAIRE
+    BELISAIRE.
 Revocquez cét arrest, cruelle, inexorable,  
 Helas ! vous me tuez m'estant trop favorable,  
 Faveur injurieuse acheve icy tes coups,  
@@ -2020,37 +2020,37 @@ Quoy, mon coeur vous offense & ne peut languissant,
 Ou vivre en vostre grace, ou mourir innocent ?  
 O Dieux !  
 
-    SOPHIE
+    SOPHIE.
         Demande leur un enfer & des peines,  
 Ingrat.  
 
-    BELISAIRE
+    BELISAIRE.
     Escoutez moy.  
 
-    SOPHIE
+    SOPHIE.
         Les attentes sont vaines,  
 Un perfide jamais.  
 
-    BELISAIRE
+    BELISAIRE.
         ne fut pareil à moy,  
 Madame.  
 
-    SOPHIE
+    SOPHIE.
     adieu.  
 
-    BELISAIRE
+    BELISAIRE.
     cruelle.  
 
-    SOPHIE
+    SOPHIE.
         Importun laisse moy.  
 
-    BELISAIRE 
+    BELISAIRE. 
 Un mot, & puis mon coeur s'offre à vous satisfaire.  
 
-    SOPHIE
+    SOPHIE.
 Hé bien, que diras-tu ? Mais, Dieu, que veux tu faire ?  
 
-    BELISAIRE
+    BELISAIRE.
 Pour la derniere fois contre moy vous servir,  
 Et vous donner un coeur qu'un autre veut ravir,  
 Ma vertu vous déplaist, mon respect vous outrage,  
@@ -2060,14 +2060,14 @@ Vous demandez ma mort, j'obeïs, la voicy,
 Tenez, prenez ce fer, contentez vostre envie.  
 Frappez.  
 
-    SOPHIE
+    SOPHIE.
         Non je ferois trop d'honneur à ta vie,  
 Ce coup mal commencé demande un autre bras,  
 Qui mieux que ma rigueur punira des ingrats.  
 Elle sort
 
 
-    BELISAIRE
+    BELISAIRE.
 Hé bien, puis que je suis indigne de la vostre,  
 Cruelle, j'attendray cette office d'un autre,  
 Et quelque châtiment qui me soit ordonné,  
@@ -2082,17 +2082,17 @@ Et monstrer que mon coeur aime mieux en ce jour
 Perir des traits de Mars que de ceux de l'Amour.  
 
 
-### SCENE III
+### SCENE III.
 THEODORE, ISKIRION, DORISTEL
 
 
-    THEODORE [146]
+    THEODORE [146].
 Hé bien, perfide, ingrat,  
 
-    ISKIRION
+    ISKIRION.
     Ah ! Madame.  
 
-    THEODORE
+    THEODORE.
         Hé bien, traistre,  
 Apres m'avoir trahie oses-tu bien paraistre ?  
 Belisaire est vivant, il rit de mes fureurs,  
@@ -2114,7 +2114,7 @@ On ne m'appaise pas avecque des paroles,
 Il faut pour satisfaire à celles de mon rang,  
 Un Prince pour un Prince, & le sang pour le sang.  
 
-    ISKIRION
+    ISKIRION.
 Hé bien, assouvissez cette barbare envie,  
 J'ay trahy vos desseins, arrachez moy la vie,  
 Tenez, me voila prest, suivez vostre courroux  
@@ -2128,21 +2128,21 @@ La fortune de l'un se communique à l'autre,
 Et le Ciel fait en nous de si charmants accords,  
 Que vous frappez mon coeur si vous frappez mon corps.  
 
-    THEODORE
+    THEODORE.
 Vous faites vanité de m'avoir outragée,  
 Mais vous serez punis, & je seray vangée,  
 Allez, retirez-vous [148].  
 
-    ISKIRION
+    ISKIRION.
         Je beniray mon sort,  
 Si mon affection se preuve par ma mort.  
 
 
-### SCENE IV [149]
+### SCENE IV [149].
 THEODORE, DORISTEL [150]
 
 
-    THEODORE
+    THEODORE.
 Enfin de quel moyen faut-il que je me serve ?  
 Doristel, c'est à toy que ce coup se reserve,  
 Si ton coeur est hardy tu me le feras voir,  
@@ -2150,7 +2150,7 @@ Que ton bras aujourd'huy me rende ce devoir,
 Est-ce de mon esprit ce soin qui m'importune,  
 Et par ce noble effect establis ta fortune.  
 
-    DORISTEL
+    DORISTEL.
 Ouy, Madame, esperez de mon affection,  
 L'effect de vos desirs en cette occasion :  
 Je vous dois obeïr, & mon ame hardie  
@@ -2160,10 +2160,10 @@ Son bras ne fut jamais plus fort que cette main,
 Qui preste à vous servir, vous vanger, & vous plaire,  
 Va tenter ce qu'un Prince a refusé de faire.  
 
-    THEODORE
+    THEODORE.
 Va donc, ne laisse pas allentir cette ardeur.  
 
-    DORISTEL
+    DORISTEL.
 En vain cét insolent se fie à sa grandeur,  
 Qu'il soit tousjours armé, qu'il soit invulnerable,  
 Qu'il fasse voir en tout une force admirable,  
@@ -2176,16 +2176,16 @@ Qu'il ait pour compagnon & la Fortune et Mars,
 Rien ne se peut sauver de l'effect de mes armes,  
 Et son sang aujourd'huy vous payera de vos larmes.  
 
-    THEODORE
+    THEODORE.
 Va ne perds point de temps en discours superflus.  
 
-    DORISTEL
+    DORISTEL.
 Croyez dés à present que l'ingrat ne vit plus.  
 
 
-### SCENE V
+### SCENE V.
 
-    BELISAIRE  [152]
+    BELISAIRE [152].
 Pour vaincre les Persans & dompter leur audace,  
 Il leur faut exposer les escadrons de Trace,  
 Et nostre corps d'armée estant assez puissant,  
@@ -2204,11 +2204,11 @@ Mais insensiblement mon oeil trompe ma main,
 Et je cede au sommeil, je luy resiste en vain.  
 
 
-### SCENE VI
+### SCENE VI.
 DORISTEL, BELISAIRE endormy
 
 
-    DORISTEL [153]
+    DORISTEL [153].
 Dieux ! quel bonheur jamais fut au mien comparable,  
 Tout rit à mes desirs, et tout m'est favorable,  
 Le sort qui ne veut pas m'obliger à demy,  
@@ -2239,9 +2239,9 @@ Et de la mesme main qui desseignoit [155] sa mort,
 Redonnons luy le jour & mesme quand il dort.  
 
 
-### SCENE VII
+### SCENE VII.
 
-    BELISAIRE *s'eveillant*
+    BELISAIRE *s'eveillant*.
 Ennemis de nos soins [156], amoureux du silence,  
 Qui des soins plus puissans calmez la violence,  
 Doux-charmeur, n'es-tu pas, ô sommeil gracieux,  
@@ -2265,14 +2265,14 @@ Eviter mille morts par une seule mort.
 Fin du quatriéme Acte 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE I
+### SCENE I.
 BELISAIRE, DIOPHANTE
 
 
-    BELISAIRE
+    BELISAIRE.
 Va, que differes-tu ? va mon cher Diophante,  
 Va trouver de ma part cette superbe⁎ Infante,  
 Cette altiere Sophie en qui la cruauté,  
@@ -2296,25 +2296,25 @@ Je tiendray mon trespas & juste & glorieux,
 Et mon ombre là bas heureusement ravie,  
 N'aura point de regret d'avoir quitté la vie.  
 
-    DIOPHANTE
+    DIOPHANTE.
 Quel desespoir, Seigneur, vous reduit en ce poinct ?  
 
-    BELISAIRE
+    BELISAIRE.
 Sers moy, cher Diophante, & ne t'affliges point,  
 Imite mon respect, j'obeis, fais de mesme,  
 On sert aveuglément les personnes qu'on aime,  
 Ne differes donc point d'obeïr à mes voeux.  
 
-    DIOPHANTE
+    DIOPHANTE.
 Quel office d'amour ? [158]  
 
-    BELISAIRE
+    BELISAIRE.
         C'est le seul que je veux.  
 
-    DIOPHANTE
+    DIOPHANTE.
 Et bien, j'obeïray.  
 
-    BELISAIRE
+    BELISAIRE.
         Va. Belle Amalazonthe,  
 Dont la haute vertu me captive & me dompte,  
 Apprens par tous ces maux que je souffres pour toy,  
@@ -2323,9 +2323,9 @@ Puis que ny les tourments, ny le fer, ny la flame
 Ne sçauroient arracher ton portraict de mon ame.  
 
 
-### SCENE II
+### SCENE II.
 
-    THEODORE
+    THEODORE.
 Il vit, tout le malheur est tombé dessus nous,  
 J'ay fait un attentat, mais j'en reçois les coups,  
 Ma honte & mon honneur ont ma haine suivie,  
@@ -2347,21 +2347,21 @@ Que ma haine ici bas est autant que la mort.
 Mais que veut Diophante, & que tient là Sophie ?  
 
 
-### SCENE III
+### SCENE III.
 SOPHIE, DIOPHANTE, THEODORE
 
 
-    SOPHIE *tenant une lettre ouverte* [159]
+    SOPHIE *tenant une lettre ouverte* [159].
 Ah, quelle ingratitude & quelle perfidie !  
 
-    THEODORE
+    THEODORE.
 Ma niepce qu'avez-vous qui vous trouble si fort ?  
 
-    SOPHIE
+    SOPHIE.
 L'horreur d'une action que l'on m'impute à tort,  
 Oyez, voyez, lisez, & juger tout ensemble.  
 
-    THEODORE
+    THEODORE.
 Dieux ! mon coeur est en feux, & pourtant ma main tremble,  
 Dissimulez mes yeux, ne me trahissez pas,  
 Mais lisez en riant l'arrest de mon trespas.  
@@ -2389,47 +2389,47 @@ Puis que sans s'arrester à son extravagance,
 Elles peuvent souffrir⁎ ce traict⁎ qui les offense,  
 Allez, retirez-vous.  
 
-    DIOPHANTE 
+    DIOPHANTE. 
         Ah, Madame, en ce poinct.  
 
-    THEODORE
+    THEODORE.
 Fay ce que je commande, & ne replique point.  
 
-    DIOPHANTE
+    DIOPHANTE.
 J'obeis.  
 
 
-### SCENE IV
+### SCENE IV.
 THEODORE, SOPHIE
 
 
-    THEODORE
+    THEODORE.
         Vous, Sophie, apres un tel outrage,  
 Serez-vous sans raison ainsi que sans courage ?  
 Voila, voila le fruict & le prix de vos voeux,  
 O le parfaict amant !  
 
-    SOPHIE
+    SOPHIE.
         Mais qu'il est malheureux !  
 O Dieux, que dois-je faire apres ce coup de foudre ?  
 
-    THEODORE 
+    THEODORE. 
 Le quitter.  
 
-    SOPHIE
+    SOPHIE.
     O Destins !  
 
-    THEODORE
+    THEODORE.
         Il vous y faut resoudre,  
 Et pour y mieux songer retirez-vous d'icy.  
 
-    SOPHIE
+    SOPHIE.
 Finissez, Dieux cruels, ma vie & mon soucy.  
 
 
-### SCENE V
+### SCENE V.
 
-    THEODORE
+    THEODORE.
 Enfin c'est maintenant, superbe⁎ Belisaire,  
 Que tu ne sçaurois plus eviter ma colere,  
 Il faut, il faut mourir, l'arrest en est dressé,  
@@ -2445,79 +2445,79 @@ Mais que veut l'Empeureur, & quelle occasion
 Le fait venir icy, confus, triste, & sans suitte [162] ?  
 
 
-### SCENE VI
+### SCENE VI.
 THEODORE, JUSTINIAN, Un garde [163]
 
 
-    JUISTINIAN *parlant au garde à la porte*
+    JUISTINIAN *parlant au garde à la porte*.
 Qu'autre personne ici ne nous soit introduite.  
 
-    THEODORE *à part*
+    THEODORE *à part*.
 Je lis dedans ses yeux quelque dessein caché,  
 Je tremble & sens au coeur un poison attaché,  
 Ma veuë est égarée & ma voix est pesante,  
 Rassurons-nous pourtant ; Quel soucy vous tourmente,  
 Seigneur ? & quel sujet vous altere si fort ?  
 
-    JUSTINIAN 
+    JUSTINIAN. 
 Un malheur que je crains à l'égal de la mort.  
 
-    THEODORE
+    THEODORE.
 O Dieux ! & quel malheur ? je suis toute interdite.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Helas !  
 
-    THEODORE
+    THEODORE.
     Quoy donc, Seigneur ?  
 
-    JUSTINIAN
+    JUSTINIAN.
         Belisaire nous quitte,  
 Et toute la grandeur dont j'éclate aujourd'huy,  
 Par ce triste accident⁎ me quitte avecque luy.  
 
-    THEODORE
+    THEODORE.
 Ah, vous vous faites tort, cette grandeur supréme,  
 Qui maintient vos Estats subsiste par vous méme,  
 Le Ciel pour ses faveurs n'a que vous pour objet,  
 Et vous ne tenez point vostre éclat d'un sujet.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Non, mais en le perdant...  
 
-    THEODORE 
+    THEODORE. 
         Vous perdez peu de chose,  
 Et l'effect vous plaira quand vous sçaurez la cause,  
 Sçavez vous le sujet qui l'a fait retirer ? [164]  
 
-    JUSTINIAN
+    JUSTINIAN.
 C'est ce que je n'ay pû luy faire declarer,  
 Mais pour une raison importante et secrette,  
 Ce Prince m'a prié d'agreer sa retraite.  
 
-    THEODORE
+    THEODORE.
 Consentez y, Seigneur, & vous ferez beaucoup.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Pourquoy ?  
 
-    THEODORE
+    THEODORE.
         C'est trop se taire, enfin c'est à ce coup,  
 Qu'il vous faut détromper, & vous faire connoistre,  
 Que Belisaire,  
 
-    JUSTINIAN
+    JUSTINIAN.
     O Dieux !  
 
-    THEODORE
+    THEODORE.
         Ouy, Seigneur, vous est traistre,  
 Et c'est pour ce sujet qu'il veut quitter la Cour,  
 Tenez, voyez son crime en voyant son amour.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Je n'en sçaurois douter, voila son escriture.  
 
-    THEODORE
+    THEODORE.
 Et voicy qui sçaura témoigner son injure,  
 Ouy, pour vous témoigner combien j'y prens de part,  
 Je le vay saluer de vingt coups de poignard,  
@@ -2526,7 +2526,7 @@ Sçaura trouver son coeur au coeur de vostre armée ;
 Ma mort suivra de prés cette temerité,  
 Mais le perfide aura ce qu'il a merité.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Moderez ce transport, si l'ingrat est coupable,  
 Vous le feriez perir d'un coup trop honnorable,  
 Les traistres n'ont jamais des supplices si doux,  
@@ -2541,9 +2541,9 @@ Justinian sort
 
 
 
-### SCENE VII 
+### SCENE VII. 
 
-    THEODORE *seule*
+    THEODORE *seule*.
 Courage, tout va bien, il n'en peut échaper,  
 Et le traict de la mort est prest à le fraper :  
 Mais avant que la Parque [165] ait achevé sa peine,  
@@ -2585,11 +2585,11 @@ Et que me negliger ou que me contredire,
 Est pis que de choquer ny l'Estat ny l'Empire.  
 
 
-### SCENE VIII 
+### SCENE VIII. 
 SOPHIE, ISKIRION
 
 
-    ISKIRION
+    ISKIRION.
 Ouy, Madame, il importe au bien de vos amours,  
 De prester à ce Prince un utile secours,  
 Jusqu'icy le respect a regné dans son ame,  
@@ -2609,33 +2609,33 @@ Et la discretion est icy criminelle [171],
 Allons donc le trouver, allons le secourir,  
 Et mesme s'il se peut le sauver, ou mourir.  
 
-    SOPHIE 
+    SOPHIE. 
 Allons, puis que ce mal veut un remede extreme,  
 En cette occasion je me vaincray moy-méme,  
 Je suivray vos conseils, & par cette action,  
 J'exciteray l'amour, ou la compassion.  
 
 
-### SCENE IX
+### SCENE IX.
 SOPHIE, ISKIRION, PIRANDRE
 
 
-    SOPHIE
+    SOPHIE.
 Entrons  
 
-    PIRANDRE
+    PIRANDRE.
     Arrestez-la, que voulez-vous ?  
 
-    SOPHIE
+    SOPHIE.
         Pirandre,  
 Est-ce là le respect que vous me devez rendre ?  
 Ne vous informez point, je sçay vostre devoir,  
 Et vous ne devez pas ignorer mon pouvoir.  
 
-    PIRANDRE 
+    PIRANDRE. 
 Mais l'Empereur me fait une expresse defense...  
 
-    SOPHIE
+    SOPHIE.
 Va, mon authorité de ce soin te dispense,  
 Tu retardes icy par un fâcheux debat,  
 La salut de mon oncle & celuy de l'Estat.  
@@ -2643,15 +2643,15 @@ Ne sois pas en soucy de ce que je vay faire,
 Je te suis caution de toute cette affaire,  
 Et ma foy t'en promet d'agreables effects.  
 
-    PYRANDRE
+    PYRANDRE.
 Ah, Madame, en ce cas j'obeis & me tais.  
 
 
-### SCENE X 
+### SCENE X. 
 SOPHIE, ISKIRION, BELISAIRE dans la prison [172]
 
 
-    ISKIRION
+    ISKIRION.
 Amy, leve les yeux, contemple ce visage,  
 Et croy que son abord t'est un heureux presage,  
 Puis que le seul dessein qui nous amene icy,  
@@ -2661,7 +2661,7 @@ Sophie est tousjours belle & jamais inhumaine,
 C'est elle qui te doit retirer de ces fers,  
 Si tu te rens à ceux que ses yeux t'ont offerts.  
 
-    BELISAIRE
+    BELISAIRE.
 Il est vray, cher amy, que parmi mes desastres,  
 Je n'eusse jamais creu qu'on veit icy des Astres,  
 Aussi quand leur éclat a paru dans ces lieux,  
@@ -2671,7 +2671,7 @@ Qu'une autre illusion enchante mes oreilles,
 Et qu'un charme puissant que forment vos discours  
 Flatte mon desespoir d'un frivole secours.  
 
-    SOPHIE
+    SOPHIE.
 Non, non, sa voix n'a point vostre oreille abusée,  
 Ce que fit Ariadne autresfois pour Thesée [173],  
 Je le feray pour vous s'il se peut aujourd'huy [174],  
@@ -2681,7 +2681,7 @@ Et donner à vos yeux des objects moins funebres,
 Je veux rompre vos fers, vous redonner le jour,  
 Et me sacrifier au bien de vostre amour.  
 
-    BELISAIRE
+    BELISAIRE.
 Est-ce pour esprouver beaux yeux trop pitoyables,  
 Si quelque vanité trouble les miserables,  
 Ou bien si dans l'estat où m'a reduit le sort,  
@@ -2691,33 +2691,33 @@ J'attens de mon trespas le deplorable terme,
 Je ne crains pas la mort, car je meurs chaque jour,  
 Et j'espere en mourant d'y vanger vostre amour.  
 
-    SOPHIE
+    SOPHIE.
 Non, non, vivez plustost, je veux pour vostre gloire,  
 Changer vostre échafaut en un champ de victoire,  
 Mais nous perdons du temps, mon Prince il faut partir.  
 
-    BELISAIRE
+    BELISAIRE.
 Ah, ne me joüez pas, le moyen de sortir,  
 Ce chasteau n'a-t-il plus de gardes ny de portes ?  
 
-    SOPHIE
+    SOPHIE.
 Un charme tout nouveau t'ouvrira les plus fortes,  
 Et j'en prendray le soin de conduire tes pas,  
 Hors de ce labyrinthe où regne le trépas [176],  
 Escoute seulement ce qu'il faut que tu fasses,  
 Si tu veux que le Ciel finisse tes disgraces.  
 
-    BELISAIRE
+    BELISAIRE.
 Je suis prest d'obeir à vos commandemens.  
 
-    SOPHIE
+    SOPHIE.
 Il faut vous travestir soubs mes habillemens,  
 Et de peur de donner aux Gardes de l'ombrage,  
 D'un voile adroitement vous couvrir le visage,  
 Pour moy soubs un habit au vostre tout pareil  
 Je veux rester icy.  
 
-    BELISAIRE
+    BELISAIRE.
         C'est donc là le conseil,  
 Qui me doit aujourd'huy retirer du naufrage,  
 Ah, laissez Belisaire il a trop de courage,  
@@ -2726,7 +2726,7 @@ Une honteuse vie, ou bien sa liberté,
 Ce coupable dessein perdroit mon innocence,  
 Et ma fuite seroit un adveu⁎ de l'offense [177].  
 
-    SOPHIE
+    SOPHIE.
 Je vous donneray lieu de vous justifier,  
 Mais pour un peu de temps forcez ce coeur altier,  
 A vos justes desirs monstrez-vous moins rebelle,  
@@ -2738,21 +2738,21 @@ Là Sophie veut oster les fers à Belisaire
 
 
 
-### SCENE XI 
+### SCENE XI. 
 THEODORE, SOPHIE, ISKIRION, BELISAIRE
 
 
-    THEODORE [178]
+    THEODORE [178].
         Quelle est cette entreprise ?  
 Que faites-vous, Sophie ?  
 
-    ISKIRION
+    ISKIRION.
         O fatale surprise !  
 
-    SOPHIE
+    SOPHIE.
 Malheureuse.  
 
-    THEODORE
+    THEODORE.
         Je sçay ce qui vous mene icy,  
 Tirez-vous à l'écart je prendray ce soucy.  
 Pour vous demeurez-là vous m'estes necessaire,  
@@ -2764,42 +2764,42 @@ Vous verrez ce qu'il a deliberé pour vous.
 Orgueilleux, voy ton sort, regarde cette lame [180],  
 Et par ce coup apprens.  
 
-    ISKIRION *luy retenant le bras*
+    ISKIRION *luy retenant le bras*.
         Que faites-vous, Madame ?  
 
-    THEODORE
+    THEODORE.
 Insolent, oses-tu traverser mon dessein [181] ?  
 
-    ISKIRION
+    ISKIRION.
 Ah ! quittez ce poignard, ou m'en percez le sein.  
 
-    BELISAIRE
+    BELISAIRE.
 Mon coeur est son object, qu'il épargne le vostre.  
 
-    THEODORE
+    THEODORE.
 Il doit à mon courroux immoler l'un & l'autre.  
 
-    SOPHIE
+    SOPHIE.
 Helas !  
 
-    BELISAIRE
+    BELISAIRE.
         Prenez mon sang & épargnez le sien.  
 
-    ISKIRION 
+    ISKIRION. 
 Il est malaisé qu'il coule sans le mien,  
 Tenez, frappez, Madame.  
 
-    SOPHIE
+    SOPHIE.
         Honnorable dispute.  
 
-    BELISAIRE
+    BELISAIRE.
 Laisse agir sa fureur, c'est pour moy qu'elle bute,  
 Souffre, cruel amy, qu'elle acheve mon sort,  
 L'estat où tu me vois est bien pis que la mort,  
 Et je seray content qu'elle m'oste la vie,  
 Pour me recompenser de l'avoir bien servie [182].  
 
-    THEODORE
+    THEODORE.
 De m'avoir bien servie ? insolent, que dis-tu ?  
 Ouy, si l'ambition estoit une vertu,  
 Si l'orgueil, le mépris, & tous les autres vices,  
@@ -2813,7 +2813,7 @@ Parce que je suis celle où tu penses le moins ?
 Ouy, lors que tu te ris de mon ame asservie,  
 Tu crois encor, ingrat, m'avoir trop bien servie.  
 
-    BELISAIRE
+    BELISAIRE.
 A quoy bon ce reproche & tout ce vain discours,  
 Puis que vostre dessein est de finir mes jours ?  
 Achevez, Theodore, achevez vostre ouvrage,  
@@ -2821,11 +2821,11 @@ Ce coeur ne tremble point pour un si foible orage,
 Vous ne l'avez pû voir amoureux ny brûlant,  
 Il faut que desormais vous l'ayez tout sanglant.  
 
-    THEODORE
+    THEODORE.
 Ouy, mais auparavant que je t'oste la vie,  
 Je veux sçavoir, ingrat, en quoy tu m'as servie.  
 
-    BELISAIRE
+    BELISAIRE.
 Ah ! ne m'obligez pas de vous entretenir      
 D'un si triste, si lâche, & honteux souvenir,  
 D'un si fâcheux effect dispensez ma memoire,  
@@ -2849,17 +2849,17 @@ Je fus respectueux, vous estes inhumaine,
 J'ay souffert tout l'orage & vous ay mise au port,  
 Et c'est pour ce sujet que vous veulez ma mort.  
 
-    THEODORE
+    THEODORE.
 Ta mort ? ah ! la raison veut icy le contraire [184],  
 Vis heureux, j'y consens, triomphe Belisaire,  
 Triomphe, ta vertu qui te rend mon vainqueur,  
 M'oste le fer des mains & la haine du coeur.  
 Ostons luy les liens.  
 
-    SOPHIE
+    SOPHIE.
     Ah ! mon Prince.  
 
-    BELISAIRE
+    BELISAIRE.
         Ah ! Madame [185],  
 En delivrant mon corps, vous captivez⁎ mon ame,  
 Et la méme pitié [186] dont je voy les effects,  
@@ -2877,13 +2877,13 @@ L'ingrat a pû vous voir & vous estre rebelle,
 Pardonnez luy beaux yeux si charmans & si doux,  
 Je demande sa grace & l'attens à genoux.  
 
-    SOPHIE
+    SOPHIE.
 Quelle grace ?  
 
-    BELISAIRE
+    BELISAIRE.
     L'Amour  
 
-    SOPHIE
+    SOPHIE.
         A ce mot je soupire,  
 Ses voeux sont mes souhaits ; on me porte où j'aspire :  
 Mon Prince, levez vous parmy tant d'actions,  
@@ -2892,13 +2892,13 @@ Puis-je voir à mes pieds celuy qui me surmonte ?
 Faut-il que je rougisse & d'amour & de honte ?  
 Qu'un autre estat demande & reçoive mon coeur.  
 
-    BELISAIRE
+    BELISAIRE.
 C'est ainsi que je dois recevoir mon vainqueur.  
 
-    ISKIRION
+    ISKIRION.
 Que cét effect, Amour, éternise ta gloire.  
 
-    THEODORE
+    THEODORE.
 C'est trop se disputer l'honneur de la victoire,  
 Il nous faut de ce pas aller vers l'Empereur,  
 Appaiser son courroux & le tirer d'erreur,  
@@ -2906,41 +2906,41 @@ J'ay souslevé les flots, calmons en la tempeste,
 Suivez moy seulement, & je feray le reste.  
 
 
-### SCENE XII 
+### SCENE XII. 
 JUSTINIAN, VITIGEZ, AMALAONTHE
 
 
-    VITIGEZ
+    VITIGEZ.
 Avant que d'en venir à l'extreme rigueur,  
 Grand Prince ayez égard aux traits de sa valeur [187].  
 
-    JUSTINIAN
+    JUSTINIAN.
 Ah ! je ne puis souffrir⁎ l'impunité d'un crime,  
 Qui destruit mon honneur & tache mon estime,  
 Je l'avois fait trop grand, il s'est trop oublié.  
 
-    VITIGEZ
+    VITIGEZ.
 La prison & ses fers l'auront humilié,  
 Pardonnez luy, Seigneur.  
 
-    JUSTINIAN
+    JUSTINIAN.
         Ah ! l'ingrat, ah ! le traistre,  
 Oser insolemment se joüer à son maistre ?  
 Ah ! je ne puis souffrir⁎ cette temerité.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Hé, Seigneur, consultez un peu vostre bonté,  
 Elle parle pour luy.  
 
-    JUSTINIAN
+    JUSTINIAN.
         Je ne m'y puis resoudre.  
 
-    VITIGEZ
+    VITIGEZ.
 Que vostre Majesté retienne un peu le foudre,  
 Qui menace son chef d'un malheur infiny,  
 Perdant vostre faveur il est assez puny.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Ah ! je l'ay trop aimé ce jeune temeraire,  
 En cette occasion mon coeur que dois-je faire [188],  
 L'un émeut mon courroux, l'autre me fait pitié [189],  
@@ -2959,13 +2959,13 @@ Theodore, bons Dieux ! l'ameine devant moy.
 Ce procedé nouveau rend mon ame confuse.  
 
 
-### SCENE derniere
+### SCENE derniere.
 JUSTINIAN, VITIGEZ, AMALAZONTHE, THEODORE, ISKIRION, SOPHIE,
 
 BELISAIRE, PYRANDRE
 
 
-    THEODORE [191]
+    THEODORE [191].
 Il est temps de quitter l'erreur qui vous abuse,  
 Seigneur, j'ay découvert par un heureux effect⁎,  
 L'innocence & la foy de ce Prince parfait.  
@@ -2984,7 +2984,7 @@ Qu'elle avoit excité l'ardeur d'un si beau feu,
 Et que les qualitez d'un si brave courage,  
 Meritoient [192]...  
 
-    JUSTINIAN
+    JUSTINIAN.
         C'est assez, n'en dy pas d'avantage,  
 La vertu que je vois sur ce front genereux⁎,  
 Monstre son innocence en l'objet de ses voeux,  
@@ -2997,27 +2997,27 @@ Que cét espoir retient dedans cette province,
 Et qui m'a témoigné que pour le meriter  
 Il donneroit son sang.  
 
-    ISKIRION
+    ISKIRION.
         Il n'en faut pas douter,  
 Ouy, Seigneur, je l'attens, & je vous la demande,  
 
-    JUSTINIAN 
+    JUSTINIAN. 
 Vous l'aurez.  
 
-    THEODORE
+    THEODORE.
     Que dit-il ?  
 
-    SOPHIE
+    SOPHIE.
         O Dieux que j'apprehende !  
 
-    ISKIRION
+    ISKIRION.
 Grand Prince souffrez donc que cet object charmant,  
 Reçoive devant vous le coeur de son amant.  
 
-    JUSTINIAN
+    JUSTINIAN.
 J'y consens.  
 
-    ISKIRION
+    ISKIRION.
         Ma Princesse en ce bon-heur extreme,  
 Vous donnant ce Guerrier je me donne moy-méme [194],  
 Il possede mon coeur, ce qui luy plaist m'est doux,  
@@ -3028,26 +3028,26 @@ Ce qui fait son bon-heur fera le mien aussy,
 Et c'est le seul espoir qui me retient icy ;  
 Consentez, grand Monarque, à cette illustre envie.  
 
-    JUSTINIAN 
+    JUSTINIAN. 
 S'il vous plaist, je le veux.  
 
-    SOPHIE
+    SOPHIE.
         Cet espoir est ma vie.  
 
-    ISKIRION *à Belisaire*
+    ISKIRION *à Belisaire*.
 Et vous ?  
 
-    BELISAIRE
+    BELISAIRE.
         En ce bon-heur où je reste confus,  
 J'obeïray, Seigneur, ne pouvant faire plus,  
 Mais j'advoüeray tousjours tenir cét advantage  
 Des bontez de Sophie & de vostre courage.  
 
-    ISKIRION
+    ISKIRION.
 Vostre merite seul fait vos felicitez,  
 Seigneur.  
 
-    BELISAIRE
+    BELISAIRE.
         Tréve de grace à ces civilitez,  
 Je suis assez vacu par vostre bien-veillance,  
 Sans que vous m'attaquiez avec vostre eloquence,  
@@ -3055,42 +3055,42 @@ Vous voulez m'attaquer à force de bien-faicts :
 Mais pour recompenser tant de nobles effects⁎,  
 Mon cher Iskirion, enfin que dois-je faire ?  
 
-    ISKIRION 
+    ISKIRION. 
 Permettre que mon coeur soit tout à Belisaire,  
 Et par un zele ardent que je monstre en ce jour,  
 Qu'il est des amitiez plus fortes que l'amour.  
 
-    VITIGEZ
+    VITIGEZ.
 Illustres sentimens d'une ame genereuse⁎ !  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Par ce charmant accord qu'ils me rendent heureuse.  
 
-    JUSTINIAN
+    JUSTINIAN.
 Venez, approchez-vous ; Que les deux Souverains  
 Puissent joindre vos coeurs comme je joins vos mains.  
 
-    BELISAIRE
+    BELISAIRE.
 Puissent les immortels par cette grace insigne,  
 Et cét extreme honneur dont je me sens indigne,  
 Répandre tous les jours sur vostre Majesté  
 Mille torrents de gloire, & de prosperité.  
 
-    SOPHIE
+    SOPHIE.
 Puissent les Dieux puissans ainsi que je desire,  
 Aux deux bouts de la terre estendre vostre Empire,  
 Et puisse estre aux humains vostre regne aussi doux [195],  
 Que le servage⁎ heureux que je reçois de vous.  
 
-    BELISAIRE
+    BELISAIRE.
 Voyez, Amalazonthe, où le sort me destine.  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 A la possession d'une beauté divine,  
 Qui prenant sur vostre ame un plus juste pouvoir,  
 Vous oste un vain amour, & me rend mon espoir [196].  
 
-    JUSTINIAN
+    JUSTINIAN.
 Suivez donc cet espoir que vostre amour vous donne,  
 Vitigés a pour vous hazardé sa couronne,  
 Il a tout fait pour vous, vous faites tout pour luy,  
@@ -3100,13 +3100,13 @@ Que vostre peine soit une commune flame,
 Et qu'Amour & l'Hymen [197] ces aimables Tyrans,  
 Soient les executeurs de l'Arrest que je rens.  
 
-    VITIGEZ
+    VITIGEZ.
 Douce punition ! agreable sentence !  
 
-    AMALAZONTHE
+    AMALAZONTHE.
 Que j'adore les loix d'une telle ordonnance !  
 
-    JUSTINIAN 
+    JUSTINIAN. 
 Enfin cét heureux jour si long temps differé,  
 Est venu quand mon coeur l'avoit moins esperé,  
 Et lors que je prenois le bandeau de Justice,  
@@ -3120,12 +3120,12 @@ Loin de nous abismer nous a mis dans le port.
 FIN.
 
 
-# LexiqueDictionnaire universel
+# Lexique.Dictionnaire universel
 Dictionnaire de la langue française
 AccidentHasard, coup du sort (bon ou mauvais)V. 1435AccorderOutre les sens courants de consentir et consilier, il signifie ici avouerAccorteCelui qui est courtois, complaisantV. 933AdorableQui mérite le plus profond respectV. 69AdventureUne chose qui est arrivée ou qui va arriverV. 309, 1310AdveuPermission, consentement donnéV. 691, 1596, 1744AdvisDélibérationV. 395AimableDigne d'être aimé(e)V. 1079AppasSe dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque choseV. 31, 155, 275, 940, 1330AugusteMajestueux, vénérableV. 1, 145, 191Besoin (au)Dans le besoin (dans une situation dangereuse)V. 236CaptiverRetenir prisonnier et donc soumettreV. 1672CharmerExercer une action magique par le moyen du charmeV. 492ChoirTomberV. 420CœurSens particulier du XVIIième siècle de courage, force, vigueur outre le sens courantV. 166, 195ConfondreSe remplir de confusion, s'affoler ; prendre sur le faitV. 376ConfusionHonte ; embrouillementV. 490ConsiderableQui doit être estimé(e), remarqué(e)V. 26, 257ContentQui n'est point chagrin, qui ne désire plus rienDouaïreBiens que le mari assigne à sa femme en se mariant pour en jouïr par usufruit pendant sa viduitéEffetMise en pratique, exécution, réalisationV. 167, 398, 550, 730, 867, 1198, 1395, 1732, 1781EsprouverFaire l'expérience de quelque choseV. 1107EstonnerÉmouvoir, surprendre, inquiéter, causer de la crainte, effrayerV. 412, 908FacilitéIndulgence, complaisanceV. 119GénéreuxQui a l'âme grande et noble et qui préfère l'honneur à tout intérêt ; brave, vaillantV. 81, 115, 346, 349, 563, 669, 860, 929, 949, 1748, 1786HymenMariageV. 246HeurBonheurIndiscretQui agit par passion, sans considération de ce qu'il dit ou faitV. 301, 854InfortunéMalheureuxV. 106, 659, 738, 807, 1328Libéral(e)Qui donne avec raison et jugementV. 17ManiePassion excessive qu'on a pour quelqu'unV. 533MinistreQui sert Dieu, le public, les particuliersV.MouvementSe dit figurément en choses spirituelles et morales ; "toutes les passions excitent des mouvements en notre âme"V. 300, 357, 800, 1336ObligerOutre le sens actuel, il signifie faire quelque faveur, civilité, courtoisie pour faire plaisirV. 477OccurrenceÉvénement qui se présente fortuitementV. 719OfficeSecours réciproque de la vie civile ; se dit aussi figurément pour désigner la fonction, la faculté d'agir tant en choses morales que naturellesV. 361, 477, 1127PompeDésigne ici magnifiscence, faste, appareil solennelV. 18ProtesterPromettreV. 617Quant et quantEn même tempsV. 959, 971RésoudreSens particulier ici de conclure après avoir délibéréV. 369SalaireRécompenseV. 158, 341, 680ServageAncien terme pour désigner l'esclavageV. 1797SuccederRéussirV. 22SuperbeVain, orgueilleux, qui a une trop bonne opinion de lui-même ; se dit également de ce qui marque la magnifiscence, la somptuositéV. 15, 339, 416, 912, 1323, 1412SouffrirSignifie ici consentir tacitement, tolérer, permettreV. 83, 100, 166, 367, 389, 401, 419, 432, 454, 570, 668, 745, 862, 901, 914, 919, 955, 1366, 1401, 1703, 1709, 1805TapabortBonnet à l'anglaise qui sert le jour et la nuit et dont on rabat les bords pour se garantir du vent et du hâleV. 485, 674TraitFlèche qui se tire avec un arc ordinaire ; peut désigner plus spécifiquement les regards et blessures qu'ils font dans le coeur quand ils inspirent de l'amour (traits de Cupidon)V. 162, 383, 569, 809, 1077, 1401TransportSe dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passionsV. 537, 677, 1064VertuForceV. 144
 
 
-# Tableau 1 : tableau synoptique
+# Tableau 1 : tableau synoptique.
  | El ejemplo mayor de la desdicha |  | Bélisaire
 I, 1 | Léonce, déguisé en pélerin, tente de tuer Bélisaire mais il échoue devant la bonté de ce dernier. |  | 
 I, 2 | L'empereur félicite Bélisaire pour ses exploits guerriers dont celui-ci fait le récit | I, 2 | Bélisaire revient victorieux, avec deux prisonniers ; il reçoit les insignes royaux en récompense.
@@ -3182,7 +3182,7 @@ III, 18 | Bélisaire s'effondre, mort ; Antonia vient l'innocenter au nom de T
 
 
 
-# Tableau 2 : présence des personnages sur scènes et de leur temps de parole
+# Tableau 2 : présence des personnages sur scènes et de leur temps de parole.
  | Acte I | Acte II | Acte III
  | 1 | 2 | 3 | 4 | 1 | 2 | 3 | 4 | 5 | 6 | 1 | 2 | 3 | 4 | 5 | 6
 Justinien | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
@@ -3215,13 +3215,13 @@ Amala-zonthe | 37 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ouvrages généraux
+## Ouvrages généraux.
 
 
-### Sur l'histoire du théâtre, les genres et les formesL'esthétique de la tragi-comédie en France de 1628 à 1643
+### Sur l'histoire du théâtre, les genres et les formes.L'esthétique de la tragi-comédie en France de 1628 à 1643
 Essai sur l'histoire du théâtre
 Le théâtre de l'Hôtel de Bourgogne
 Histoire de la mise en scène dans le théâtre français de 1600 à 1673
@@ -3238,25 +3238,25 @@ La tragédie classique en France
 
 
 
-### Sur la périodeHistoire de la littérature française au XVIIe siècle
+### Sur la période.Histoire de la littérature française au XVIIe siècle
 Dictionnaire des comédiens français
 La littérature à l'âge baroque en France
 Comédie et société sous Louis XIII, Corneille, Rotrou et les autres
 
 
 
-### Sur l'esthétique et la rhétoriquePoétique
+### Sur l'esthétique et la rhétorique.Poétique
 
 
 
-### Sur la sémiotique théâtraleLire le théâtre
+### Sur la sémiotique théâtrale.Lire le théâtre
 
 
 
-## Ouvrages sur Bélisaire
+## Ouvrages sur Bélisaire.
 
 
-### SourcesEl ejemplo mayor de la desdicha in Teatro de Mira de Mescua
+### Sources.El ejemplo mayor de la desdicha in Teatro de Mira de Mescua
 Bélisaire
 L'innocent malheureux ou la mort de Crispe
 La mort du Chrispe in Recueil des meilleures pièces de théâtre des anciens auteurs
@@ -3268,7 +3268,7 @@ Bellerophon
 
 
 
-### Études du thèmeL'écrivain et ses travaux
+### Études du thème.L'écrivain et ses travaux
 Justinien et la civilisation byzantine au VIe siècle
 Histoire secrète de Justinien traduit de Procope
 

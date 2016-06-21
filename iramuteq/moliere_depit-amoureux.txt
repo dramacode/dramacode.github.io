@@ -99,7 +99,7 @@ Et l'on verra qui rit avec meilleure grâce.
 Voilà de tes discours.
 
 -*who_gros_rene
-Mais je la vois qui passe.
+      Mais je la vois qui passe.
 
 **** *book_ *id_I02 *act_I *date_1656 *creator_moliere
 
@@ -107,10 +107,10 @@ Mais je la vois qui passe.
 Ssst, Marinette.
 
 -*who_marinette
-Oh, oh. Que fais-tu là ?
+      Oh, oh. Que fais-tu là ?
 
 -*who_gros_rene
-Ma foi,
+      Ma foi,
 Demande, nous étions tout à l'heure sur toi.
 
 -*who_marinette
@@ -121,30 +121,30 @@ Vous m'avez fait trotter comme un Basque, je meure.
 Comment ?
 
 -*who_marinette
-Pour vous chercher j'ai fait dix mille pas,
+      Pour vous chercher j'ai fait dix mille pas,
 Et vous promets, ma foi…
 
 -*who_eraste
-Quoi ?
+      Quoi ?
 
 -*who_marinette
-Que vous n'êtes pas
+      Que vous n'êtes pas
 Au temple, au cours, chez vous, ni dans la grande place.
 
 -*who_gros_rene
 Il fallait en jurer.
 
 -*who_eraste
-Apprends-moi donc de grâce,
+      Apprends-moi donc de grâce,
 Qui te fait me chercher.
 
 -*who_marinette
-Quelqu'un, en vérité,
+      Quelqu'un, en vérité,
 Qui pour vous n'a pas trop mauvaise volonté.
 Ma maîtresse en un mot.
 
 -*who_eraste
-Ha ! chère Marinette,
+      Ha ! chère Marinette,
 Ton discours de ton cœur est-il bien l'interprète ?
 Ne me déguise point un mystère fatal,
 Je ne t'en voudrai pas pour cela plus de mal :
@@ -158,14 +158,14 @@ Quel garant est-ce encor que votre amour demande ?
 Que lui faut-il ?
 
 -*who_gros_rene
-À moins que Valère se pende,
+      À moins que Valère se pende,
 Bagatelle ; son cœur ne s'assurera point.
 
 -*who_marinette
 Comment ?
 
 -*who_gros_rene
-Il est jaloux jusques en un tel point.
+      Il est jaloux jusques en un tel point.
 
 -*who_marinette
 De Valère ? Ha ! vraiment la pensée est bien belle !
@@ -256,39 +256,39 @@ Les soins d'une si noble et si belle courrière.
 Tantôt encore ?
 
 -*who_eraste
-Hé bien ?
+      Hé bien ?
 
 -*who_marinette
-Tout proche du marché,
+      Tout proche du marché,
 Où vous savez.
 
 -*who_eraste
-Où donc ?
+      Où donc ?
 
 -*who_marinette
-Là, dans cette boutique
+      Là, dans cette boutique
 Où dès le mois passé votre cœur magnifique
 Me promit, de sa grâce, une bague.
 
 -*who_eraste
-Ha, j'entends.
+      Ha, j'entends.
 
 -*who_gros_rene
 La Matoise !
 
 -*who_eraste
-Il est vrai, j'ai tardé trop longtemps
+      Il est vrai, j'ai tardé trop longtemps
 À m'acquitter vers toi d'une telle promesse :
 Mais…
 
 -*who_marinette
-Ce que j'en ai dit, n'est pas que je vous presse.
+      Ce que j'en ai dit, n'est pas que je vous presse.
 
 -*who_gros_rene
 Ho ! que non !
 
 -*who_eraste
-Celle-ci peut-être aura de quoi
+      Celle-ci peut-être aura de quoi
 Te plaire. Accepte-la pour celle que je dois.
 
 -*who_marinette
@@ -311,7 +311,7 @@ Travaillez à vous rendre un père favorable.
 Mais, s'il me rebutait, dois-je…
 
 -*who_marinette
-Alors comme alors,
+      Alors comme alors,
 Pour vous on emploiera toutes sortes d'efforts,
 D'une façon ou d'autre il faut qu'elle soit vôtre ;
 Faites votre pouvoir, et nous ferons le nôtre.
@@ -324,24 +324,24 @@ Et nous, que dirons-nous aussi de notre amour ?
 Tu ne m'en parles point.
 
 -*who_gros_rene
-Un hymen qu'on souhaite
+      Un hymen qu'on souhaite
 Entre gens comme nous est chose bientôt faite.
 Je te veux. Me veux-tu de même ?
 
 -*who_marinette
-Avec plaisir.
+      Avec plaisir.
 
 -*who_gros_rene
 Touche ; il suffit.
 
 -*who_marinette
-Adieu, Gros-René mon désir.
+      Adieu, Gros-René mon désir.
 
 -*who_gros_rene
 Adieu, mon Astre.
 
 -*who_marinette
-Adieu, beau tison de ma flamme.
+      Adieu, beau tison de ma flamme.
 
 -*who_gros_rene
 Adieu, chère comète, arc-en-Ciel de mon âme.
@@ -352,41 +352,41 @@ Albert n'est pas un homme à vous refuser rien.
 Valère vient à nous.
 
 -*who_gros_rene
-Je plains le pauvre hère,
+      Je plains le pauvre hère,
 Sachant ce qui se passe.
 
 **** *book_ *id_I03 *act_I *date_1656 *creator_moliere
 
 -*who_eraste
-Hé bien ? Seigneur Valère.
+      Hé bien ? Seigneur Valère.
 
 -*who_valere
 Hé bien ? Seigneur Éraste.
 
 -*who_eraste
-En quel état l'amour ?
+      En quel état l'amour ?
 
 -*who_valere
 En quel état vos feux ?
 
 -*who_eraste
-Plus forts de jour en jour.
+      Plus forts de jour en jour.
 
 -*who_valere
 Et mon amour plus fort.
 
 -*who_eraste
-Pour Lucile ?
+      Pour Lucile ?
 
 -*who_valere
-Pour elle.
+      Pour elle.
 
 -*who_eraste
 Certes, je l'avouerai, vous êtes le modèle
 D'une rare constance.
 
 -*who_valere
-Et votre fermeté
+      Et votre fermeté
 Doit être un rare exemple à la postérité.
 
 -*who_eraste
@@ -405,18 +405,18 @@ N'aurait pas mes tributs, n'en étant point aimé.
 Lucile cependant…
 
 -*who_valere
-Lucile dans son âme
+      Lucile dans son âme
 Rend tout ce que je veux qu'elle rende à ma flamme.
 
 -*who_eraste
 Vous êtes donc facile à contenter…
 
 -*who_valere
-Pas tant
+      Pas tant
 Que vous pourriez penser.
 
 -*who_eraste
-Je puis croire pourtant,
+      Je puis croire pourtant,
 Sans trop de vanité, que je suis en sa grâce.
 
 -*who_valere
@@ -426,7 +426,7 @@ Moi, je sais que j'y tiens une assez bonne place.
 Ne vous abusez point ; croyez-moi.
 
 -*who_valere
-Croyez-moi,
+      Croyez-moi,
 Ne laissez point duper vos yeux à trop de Foi.
 
 -*who_eraste
@@ -443,22 +443,22 @@ Votre présomption veut que je l'humilie.
 Lisez.
 
 -*who_valere
-Ces mots sont doux.
+      Ces mots sont doux.
 
 -*who_eraste
-Vous connaissez la main ?
+      Vous connaissez la main ?
 
 -*who_valere
 Oui, de Lucile.
 
 -*who_eraste
-Hé bien ? cet espoir si certain…
+      Hé bien ? cet espoir si certain…
 
 -*who_valere
 Adieu, Seigneur Éraste.
 
 -*who_gros_rene
-Il est fou le bon Sire,
+      Il est fou le bon Sire,
 Où vient-il donc, pour lui, de voir le mot pour rire ?
 
 -*who_eraste
@@ -469,7 +469,7 @@ Quel diable de mystère est caché là-dessous.
 Son valet vient, je pense.
 
 -*who_eraste
-Oui, je le vois paraître.
+      Oui, je le vois paraître.
 Feignons, pour le jeter sur l'amour de son maître.
 
 **** *book_ *id_I04 *act_I *date_1656 *creator_moliere
@@ -482,10 +482,10 @@ Que d'avoir un patron jeune et fort amoureux.
 Bonjour.
 
 -*who_mascarille
-Bonjour.
+      Bonjour.
 
 -*who_gros_rene
-Où tend Mascarille à cette heure ?
+      Où tend Mascarille à cette heure ?
 Que fait-il ? revient-il ? va-t-il ? ou s'il demeure ?
 
 -*who_mascarille
@@ -495,11 +495,11 @@ Et ne demeure point ; car, tout de ce pas même,
 Je prétends m'en aller.
 
 -*who_eraste
-La rigueur est extrême :
+      La rigueur est extrême :
 Doucement, Mascarille.
 
 -*who_mascarille
-Ha ! monsieur, Serviteur.
+      Ha ! monsieur, Serviteur.
 
 -*who_eraste
 Vous nous fuyez bien vite ? Hé quoi ! vous fais-je peur ?
@@ -516,7 +516,7 @@ Laissent la place libre à vos heureux desseins.
 Plût à Dieu !
 
 -*who_eraste
-Gros-René sait qu'ailleurs je me jette.
+      Gros-René sait qu'ailleurs je me jette.
 
 -*who_gros_rene
 Sans doute : et je te cède aussi la Marinette.
@@ -551,7 +551,7 @@ Qui rend de nos amants la flamme satisfaite.
 Hé ! que dis-tu ?
 
 -*who_mascarille
-Je dis que je suis interdit :
+      Je dis que je suis interdit :
 Et ne sais pas, Monsieur, qui peut vous avoir dit,
 Que, sous ce faux semblant qui trompe tout le monde,
 En vous trompant aussi, leur ardeur sans seconde
@@ -561,62 +561,62 @@ D'un secret mariage a serré le lien.
 Vous en avez menti.
 
 -*who_mascarille
-Monsieur, je le veux bien.
+      Monsieur, je le veux bien.
 
 -*who_eraste
 Vous êtes un coquin.
 
 -*who_mascarille
-D'accord.
+      D'accord.
 
 -*who_eraste
-Et cette audace
+      Et cette audace
 Mériterait cent coups de bâton sur la place.
 
 -*who_mascarille
 Vous avez tout pouvoir.
 
 -*who_eraste
-Ha ! Gros-René.
+      Ha ! Gros-René.
 
 -*who_gros_rene
-Monsieur.
+      Monsieur.
 
 -*who_eraste
 Je démens un discours dont je n'ai que trop peur
 Tu penses fuir ?
 
 -*who_mascarille
-Nenni.
+      Nenni.
 
 -*who_eraste
-Quoi ! Lucile est la femme…
+      Quoi ! Lucile est la femme…
 
 -*who_mascarille
 Non, Monsieur, je raillais.
 
 -*who_eraste
-Ha ! vous raillez ! infâme.
+      Ha ! vous raillez ! infâme.
 
 -*who_mascarille
 Non, je ne raillais point.
 
 -*who_eraste
-Il est donc vrai ?
+      Il est donc vrai ?
 
 -*who_mascarille
-Non pas,
+      Non pas,
 Je ne dis pas cela.
 
 -*who_eraste
-Que dis-tu donc ?
+      Que dis-tu donc ?
 
 -*who_mascarille
-Hélas !
+      Hélas !
 Je ne dis rien, de peur de mal parler.
 
 -*who_eraste
-Assure,
+      Assure,
 Ou si c'est chose vraie, ou si c'est imposture.
 
 -*who_mascarille
@@ -624,7 +624,7 @@ C'est ce qu'il vous plaira : je ne suis pas ici
 Pour vous rien contester.
 
 -*who_eraste
-Veux-tu dire ? voici,
+      Veux-tu dire ? voici,
 Sans marchander, de quoi te délier la langue.
 
 -*who_mascarille
@@ -638,7 +638,7 @@ Tu mourras, ou je veux que la vérité pure
 S'exprime par ta bouche.
 
 -*who_mascarille
-Hélas ! je la dirai :
+      Hélas ! je la dirai :
 Mais, peut-être, Monsieur, que je vous fâcherai.
 
 -*who_eraste
@@ -655,7 +655,7 @@ En tout ce que j'ai dit ici la moindre chose.
 Ce mariage est vrai ?
 
 -*who_mascarille
-Ma langue, en cet endroit,
+      Ma langue, en cet endroit,
 A fait un pas de clerc dont elle s'aperçoit :
 Mais, enfin, cette affaire est comme vous la dites ;
 Et c'est après cinq jours de nocturnes visites,
@@ -676,14 +676,14 @@ Que nous avons dans l'ombre un libre accès chez elle.
 Ôte-toi de mes yeux, maraud.
 
 -*who_mascarille
-Et de grand cœur ;
+      Et de grand cœur ;
 C'est ce que je demande.
 
 -*who_eraste
-Hé bien !
+      Hé bien !
 
 -*who_gros_rene
-Hé bien ! Monsieur :
+      Hé bien ! Monsieur :
 Nous en tenons tous deux, si l'autre est véritable.
 
 -*who_eraste
@@ -750,7 +750,7 @@ Et que si je pouvais le cacher davantage,
 Vous ne le sauriez point.
 
 -*who_frosine
-Ha ! c'est me faire outrage !
+      Ha ! c'est me faire outrage !
 Feindre à s'ouvrir à moi ! dont vous avez connu
 Dans tous vos intérêts l'esprit si retenu.
 Moi nourrie avec vous ! et qui tiens sous silence
@@ -758,7 +758,7 @@ Des choses qui vous sont de si grande importance !
 Qui sais…
 
 -*who_ascagne
-Oui, vous savez la secrète raison
+      Oui, vous savez la secrète raison
 Qui cache aux yeux de tous mon sexe et ma maison :
 Vous savez que dans celle où passa mon bas âge
 Je suis, pour y pouvoir retenir l'héritage
@@ -813,10 +813,10 @@ Ont su trouver le cœur d'une fille peu forte :
 J'aime enfin.
 
 -*who_frosine
-Vous aimez ?
+      Vous aimez ?
 
 -*who_ascagne
-Frosine, doucement ;
+      Frosine, doucement ;
 N'entrez pas tout à fait dedans l'étonnement :
 Il n'est pas temps encore : et ce cœur qui soupire
 A bien pour vous surprendre autre chose à vous dire.
@@ -825,10 +825,10 @@ A bien pour vous surprendre autre chose à vous dire.
 Et quoi ?
 
 -*who_ascagne
-J'aime Valère.
+      J'aime Valère.
 
 -*who_frosine
-Ha ! vous aviez raison,
+      Ha ! vous aviez raison,
 L'objet de votre amour, lui dont à la maison
 Votre imposture enlève un puissant héritage,
 Et qui de votre sexe ayant le moindre ombrage,
@@ -840,23 +840,23 @@ J'ai de quoi toutefois surprendre plus votre âme :
 Je suis sa femme.
 
 -*who_frosine
-Ô ! Dieux ! sa femme !
+      Ô ! Dieux ! sa femme !
 
 -*who_ascagne
-Oui, sa femme.
+      Oui, sa femme.
 
 -*who_frosine
 Ha ! certes celui-là l'emporte, et vient à bout
 De toute ma raison.
 
 -*who_ascagne
-Ce n'est pas encor tout.
+      Ce n'est pas encor tout.
 
 -*who_frosine
 Encore !
 
 -*who_ascagne
-Je la suis, dis-je, sans qu'il le pense,
+      Je la suis, dis-je, sans qu'il le pense,
 Ni qu'il ait de mon sort la moindre connaissance.
 
 -*who_frosine
@@ -929,20 +929,20 @@ Où je vous fasse tort de mêler ma présence,
 Je me retirerai.
 
 -*who_ascagne
-Non, non ; vous pouvez bien,
+      Non, non ; vous pouvez bien,
 Puisque vous le faisiez, rompre notre entretien.
 
 -*who_valere
 Moi ?
 
 -*who_ascagne
-Vous-même.
+      Vous-même.
 
 -*who_valere
-Et comment ?
+      Et comment ?
 
 -*who_ascagne
-Je disais que Valère
+      Je disais que Valère
 Aurait, si j'étais fille, un peu trop su me plaire ;
 Et que, si je faisais tous les vœux de son cœur,
 Je ne tarderais guère à faire son bonheur.
@@ -978,12 +978,12 @@ Un si pénible effort pour moi m'est interdit.
 Mais cela n'étant pas ?
 
 -*who_ascagne
-Ce que je vous ai dit
+      Ce que je vous ai dit
 Je l'ai dit comme fille, et vous le devez prendre
 Tout de même.
 
 -*who_valere
-Ainsi donc il ne faut rien prétendre,
+      Ainsi donc il ne faut rien prétendre,
 Ascagne, à des bontés que vous auriez pour nous,
 À moins que le Ciel fasse un grand miracle en vous.
 Bref, si vous n'êtes fille, adieu votre tendresse ;
@@ -1009,10 +1009,10 @@ Et je vous fais ici tout l'aveu qu'il exige.
 Mais sans fard ?
 
 -*who_valere
-Oui, sans fard.
+      Oui, sans fard.
 
 -*who_ascagne
-S'il est vrai, désormais
+      S'il est vrai, désormais
 Vos intérêts seront les miens, je vous promets.
 
 -*who_valere
@@ -1046,18 +1046,18 @@ Il n'est pas encor temps ; mais c'est une personne
 Qui vous touche de près.
 
 -*who_valere
-Votre discours m'étonne ;
+      Votre discours m'étonne ;
 Plût à Dieu que ma sœur…
 
 -*who_ascagne
-Ce n'est pas la saison
+      Ce n'est pas la saison
 De m'expliquer, vous dis-je.
 
 -*who_valere
-Et pourquoi ?
+      Et pourquoi ?
 
 -*who_ascagne
-Pour raison.
+      Pour raison.
 Vous saurez mon secret, quand je saurai le vôtre.
 
 -*who_valere
@@ -1071,7 +1071,7 @@ Nous verrons qui tiendra mieux parole des deux.
 Adieu ; j'en suis content.
 
 -*who_ascagne
-Et moi content, Valère.
+      Et moi content, Valère.
 
 -*who_frosine
 Il croit trouver en vous l'assistance d'un frère.
@@ -1132,7 +1132,7 @@ Si vous lui dérobez l'amant qui peut lui plaire.
 Et des feux mutuels…
 
 -*who_lucile
-Mon frère, c'est assez ;
+      Mon frère, c'est assez ;
 Je ne sais point pour qui vous vous intéressez ;
 Mais, de grâce, cessons ce discours, je vous prie,
 Et me laissez un peu dans quelque rêverie.
@@ -1199,7 +1199,7 @@ Aurait ouvert l'oreille à la tentation ;
 Mais moi, nescio vos.
 
 -*who_lucile
-Que tu dis de folies !
+      Que tu dis de folies !
 Et choisis mal ton temps pour de telles saillies !
 Enfin je suis touchée au cœur sensiblement,
 Et, si jamais celui de ce perfide amant
@@ -1228,7 +1228,7 @@ S'il vient…
 **** *book_ *id_II05 *act_II *date_1656 *creator_moliere
 
 -*who_albert
-Rentrez, Lucile, et me faites venir
+      Rentrez, Lucile, et me faites venir
 Le précepteur, je veux un peu l'entretenir,
 Et m'informer de lui qui me gouverne Ascagne,
 S'il sait point quel ennui depuis peu l'accompagne.
@@ -1253,25 +1253,25 @@ Ha !
 **** *book_ *id_II06 *act_II *date_1656 *creator_moliere
 
 -*who_metaphraste
-Mandatum tuum curo diligenter.
+      Mandatum tuum curo diligenter.
 
 -*who_albert
 Maître, j'ai voulu…
 
 -*who_metaphraste
-Maître est dit a Magister,
+      Maître est dit a Magister,
 C'est comme qui dirait trois fois plus grand.
 
 -*who_albert
-Je meure,
+      Je meure,
 Si je savais cela. Mais, soit ; à la bonne heure.
 Maître, donc…
 
 -*who_metaphraste
-Poursuivez.
+      Poursuivez.
 
 -*who_albert
-Je veux poursuivre aussi ;
+      Je veux poursuivre aussi ;
 Mais ne poursuivez point, vous, d'interrompre ainsi.
 Donc, encore une fois, Maître c'est la troisième,
 Mon fils me rend chagrin ; vous savez que je l'aime,
@@ -1282,7 +1282,7 @@ Il est vrai : Filio non potest praeferri
 Nisi filius.
 
 -*who_albert
-Maître, en discourant ensemble,
+      Maître, en discourant ensemble,
 Ce jargon n'est pas fort nécessaire, me semble ;
 Je vous crois grand Latin, et grand Docteur juré ;
 Je m'en rapporte à ceux qui m'en ont assuré :
@@ -1301,7 +1301,7 @@ Et que votre langage à mon faible s'ajuste.
 Soit.
 
 -*who_albert
-À mon fils, l'hymen semble lui faire peur,
+      À mon fils, l'hymen semble lui faire peur,
 Et, sur quelque parti que je sonde son cœur,
 Pour un pareil lien il est froid, et recule.
 
@@ -1320,7 +1320,7 @@ Eux et mon fils n'ont rien ensemble à démêler.
 Hé bien, donc ? votre fils ?
 
 -*who_albert
-Je ne sais si dans l'âme,
+      Je ne sais si dans l'âme,
 Il ne sentirait point une secrète flamme.
 Quelque chose le trouble, ou je suis fort déçu,
 Et je l'aperçus hier, sans en être aperçu,
@@ -1358,16 +1358,16 @@ Homme, ou démon, veux-tu m'entendre sans conteste ?
 Quintilien en fait le précepte.
 
 -*who_albert
-La peste
+      La peste
 Soit du causeur !
 
 -*who_metaphraste
-Et dit là-dessus doctement
+      Et dit là-dessus doctement
 Un mot, que vous serez bien aise assurément
 D'entendre.
 
 -*who_albert
-Je serai le diable qui t'emporte,
+      Je serai le diable qui t'emporte,
 Chien d'homme. Ô ! que je suis tenté d'étrange sorte
 De faire sur ce mufle une application !
 
@@ -1376,30 +1376,30 @@ Mais qui cause, Seigneur, votre inflammation ?
 Que voulez-vous de moi ?
 
 -*who_albert
-Je veux que l'on m'écoute,
+      Je veux que l'on m'écoute,
 Vous ai-je dit vingt fois, quand je parle.
 
 -*who_metaphraste
-Ha ! sans doute,
+      Ha ! sans doute,
 Vous serez satisfait, s'il ne tient qu'à cela.
 Je me tais.
 
 -*who_albert
-Vous ferez sagement.
+      Vous ferez sagement.
 
 -*who_metaphraste
-Me voilà
+      Me voilà
 Tout prêt de vous ouïr.
 
 -*who_albert
-Tant mieux.
+      Tant mieux.
 
 -*who_metaphraste
-Que je trépasse,
+      Que je trépasse,
 Si je dis plus mot.
 
 -*who_albert
-Dieu vous en fasse la grâce.
+      Dieu vous en fasse la grâce.
 
 -*who_metaphraste
 Vous n'accuserez point mon caquet désormais.
@@ -1408,10 +1408,10 @@ Vous n'accuserez point mon caquet désormais.
 Ainsi soit-il.
 
 -*who_metaphraste
-Parlez quand vous voudrez.
+      Parlez quand vous voudrez.
 
 -*who_albert
-J'y vais.
+      J'y vais.
 
 -*who_metaphraste
 Et n'appréhendez plus l'interruption nôtre.
@@ -1420,22 +1420,22 @@ Et n'appréhendez plus l'interruption nôtre.
 C'est assez dit.
 
 -*who_metaphraste
-Je suis exact plus qu'aucun autre.
+      Je suis exact plus qu'aucun autre.
 
 -*who_albert
 Je le crois.
 
 -*who_metaphraste
-J'ai promis que je ne dirais rien.
+      J'ai promis que je ne dirais rien.
 
 -*who_albert
 Suffit.
 
 -*who_metaphraste
-Dès à présent je suis muet.
+      Dès à présent je suis muet.
 
 -*who_albert
-Fort bien.
+      Fort bien.
 
 -*who_metaphraste
 Parlez : courage ; au moins, je vous donne audience ;
@@ -1446,12 +1446,12 @@ Je ne desserre pas la bouche seulement.
 Le traître !
 
 -*who_metaphraste
-Mais, de grâce, achevez vitement ;
+      Mais, de grâce, achevez vitement ;
 Depuis longtemps j'écoute, il est bien raisonnable
 Que je parle à mon tour.
 
 -*who_albert
-Donc, bourreau détestable…
+      Donc, bourreau détestable…
 
 -*who_metaphraste
 Hé ! bon Dieu ! voulez-vous que j'écoute à jamais ?
@@ -1461,27 +1461,27 @@ Partageons le parler, au moins, ou je m'en vais.
 Ma patience est bien…
 
 -*who_metaphraste
-Quoi ! voulez-vous poursuivre ?
+      Quoi ! voulez-vous poursuivre ?
 Ce n'est pas encor fait ? per Jovem, je suis ivre.
 
 -*who_albert
 Je n'ai pas dit…
 
 -*who_metaphraste
-Encor ! bon Dieu ! que de discours !
+      Encor ! bon Dieu ! que de discours !
 Rien n'est-il suffisant d'en arrêter le cours ?
 
 -*who_albert
 J'enrage.
 
 -*who_metaphraste
-Derechef ? ô ! l'étrange torture !
+      Derechef ? ô ! l'étrange torture !
 Hé ! laissez-moi parler un peu, je vous conjure ;
 Un sot qui ne dit mot ne se distingue pas
 D'un savant qui se tait.
 
 -*who_albert
-Parbleu, tu te tairas !
+      Parbleu, tu te tairas !
 
 -*who_metaphraste
 D'où vient fort à propos cette Sentence expresse
@@ -1527,42 +1527,42 @@ Sans perdre un seul moment, je m'en vais trouver l'autre.
 Qui frappe ?
 
 -*who_mascarille
-Amis.
+      Amis.
 
 -*who_albert
-Ho ! ho ! qui te peut amener ?
+      Ho ! ho ! qui te peut amener ?
 Mascarille.
 
 -*who_mascarille
-Je viens, Monsieur, pour vous donner
+      Je viens, Monsieur, pour vous donner
 Le bonjour.
 
 -*who_albert
-Ha ! vraiment, tu prends beaucoup de peine !
+      Ha ! vraiment, tu prends beaucoup de peine !
 De tout mon cœur, bonjour.
 
 -*who_mascarille
-La réplique est soudaine.
+      La réplique est soudaine.
 Quel homme brusque !
 
 -*who_albert
-Encor ?
+      Encor ?
 
 -*who_mascarille
-Vous n'avez pas ouï,
+      Vous n'avez pas ouï,
 Monsieur.
 
 -*who_albert
-Ne m'as-tu pas donné le bonjour ?
+      Ne m'as-tu pas donné le bonjour ?
 
 -*who_mascarille
-Oui.
+      Oui.
 
 -*who_albert
 Eh bien, bonjour, te dis-je.
 
 -*who_mascarille
-Oui ; mais je viens encore
+      Oui ; mais je viens encore
 Vous saluer au nom du Seigneur Polydore.
 
 -*who_albert
@@ -1570,10 +1570,10 @@ Ha ! c'est un autre fait. Ton maître t'a chargé
 De me saluer ?
 
 -*who_mascarille
-Oui.
+      Oui.
 
 -*who_albert
-Je lui suis obligé ;
+      Je lui suis obligé ;
 Va, que je lui souhaite une joie infinie.
 
 -*who_mascarille
@@ -1594,7 +1594,7 @@ Hé ! quelle est-elle encor l'affaire qui l'oblige
 À me vouloir parler ?
 
 -*who_mascarille
-Un grand secret, vous dis-je,
+      Un grand secret, vous dis-je,
 Qu'il vient de découvrir en ce même moment,
 Et qui, sans doute, importe à tous deux grandement.
 Voilà mon Ambassade.
@@ -1602,7 +1602,7 @@ Voilà mon Ambassade.
 **** *book_ *id_III03 *act_III *date_1656 *creator_moliere
 
 -*who_albert
-Ô ! Juste Ciel, je tremble !
+      Ô ! Juste Ciel, je tremble !
 Car enfin nous avons peu de commerce ensemble.
 Quelque tempête va renverser mes desseins,
 Et ce secret sans doute est celui que je crains.
@@ -1631,25 +1631,25 @@ Et la grande richesse, et la juste colère.
 Mais je l'aperçois seul.
 
 -*who_albert
-Dieu ! Polydore vient !
+      Dieu ! Polydore vient !
 
 -*who_polydore
 Je tremble à l'aborder.
 
 -*who_albert
-La crainte me retient.
+      La crainte me retient.
 
 -*who_polydore
 Par où lui débuter !
 
 -*who_albert
-Quel sera mon langage ?
+      Quel sera mon langage ?
 
 -*who_polydore
 Son âme est toute émue.
 
 -*who_albert
-Il change de visage.
+      Il change de visage.
 
 -*who_polydore
 Je vois, seigneur Albert, au trouble de vos yeux
@@ -1659,7 +1659,7 @@ Que vous savez déjà qui m'amène en ces lieux.
 Hélas ! oui.
 
 -*who_polydore
-La nouvelle a droit de vous surprendre,
+      La nouvelle a droit de vous surprendre,
 Et je n'eusse pas cru ce que je viens d'apprendre.
 
 -*who_albert
@@ -1679,7 +1679,7 @@ C'est ce qui doit par vous être considéré.
 Il faut être Chrétien.
 
 -*who_polydore
-Il est très assuré.
+      Il est très assuré.
 
 -*who_albert
 Grâce, au nom de Dieu, grâce, ô Seigneur Polydore.
@@ -1709,7 +1709,7 @@ Vous me rendez confus de tant d'humilité.
 Pardon, encore un coup.
 
 -*who_polydore
-Hélas ! pardon, vous-même.
+      Hélas ! pardon, vous-même.
 
 -*who_albert
 J'ai de cette action une douleur extrême.
@@ -1727,7 +1727,7 @@ Hélas, Seigneur Albert, je ne veux autre chose.
 Conservons mon honneur.
 
 -*who_polydore
-Hé ! oui, je m'y dispose.
+      Hé ! oui, je m'y dispose.
 
 -*who_albert
 Quant au bien qu'il faudra, vous-même en résoudrez.
@@ -1750,7 +1750,7 @@ Que puissiez-vous avoir toutes choses prospères.
 Le bon Dieu vous maintienne.
 
 -*who_albert
-Embrassons-nous en frères.
+      Embrassons-nous en frères.
 
 -*who_polydore
 J'y consens de grand cœur, et me réjouis fort
@@ -1760,7 +1760,7 @@ Que tout soit terminé par un heureux accord.
 J'en rends grâces au Ciel.
 
 -*who_polydore
-Il ne vous faut rien feindre,
+      Il ne vous faut rien feindre,
 Votre ressentiment me donnait lieu de craindre ;
 Et Lucile tombée en faute avec mon fils,
 Comme on vous voit puissant, et de biens, et d'amis…
@@ -1793,7 +1793,7 @@ Et, si je dis un mot, j'ai peur de me confondre.
 À quoi pensez-vous là, Seigneur Albert ?
 
 -*who_albert
-À rien :
+      À rien :
 Remettons, je vous prie, à tantôt l'entretien :
 Un mal subit me prend, qui veut que je vous laisse.
 
@@ -1850,17 +1850,17 @@ Dans ce juste courroux.
 **** *book_ *id_III07 *act_III *date_1656 *creator_moliere
 
 -*who_valere
-Mascarille, mon père
+      Mascarille, mon père
 Que je viens de trouver sait toute notre affaire.
 
 -*who_mascarille
 Il la sait ?
 
 -*who_valere
-Oui.
+      Oui.
 
 -*who_mascarille
-D'où, diantre, a-t-il pu la savoir ?
+      D'où, diantre, a-t-il pu la savoir ?
 
 -*who_valere
 Je ne sais point sur qui ma conjoncture asseoir ;
@@ -1887,7 +1887,7 @@ Et qui vous ai produit ce favorable effet.
 Mais, là, sans te railler ?
 
 -*who_mascarille
-Que le diable m'emporte,
+      Que le diable m'emporte,
 Si je fais raillerie, et s'il n'est de la sorte.
 
 -*who_valere
@@ -1907,7 +1907,7 @@ Qui me perds tout à fait, il faut sans discourir
 Que tu meures.
 
 -*who_mascarille
-Tout beau ; mon âme, pour mourir,
+      Tout beau ; mon âme, pour mourir,
 N'est pas en bon état. Daignez, je vous conjure,
 Attendre le succès qu'aura cette aventure.
 J'ai de fortes raisons qui m'ont fait révéler
@@ -1931,7 +1931,7 @@ Vous me remercierez de ma rare conduite.
 Nous verrons. Mais, Lucile…
 
 -*who_mascarille
-Halte ; son père sort.
+      Halte ; son père sort.
 
 **** *book_ *id_III08 *act_III *date_1656 *creator_moliere
 
@@ -1977,7 +1977,7 @@ Quoi ! Lucile n'est pas sous des liens secrets
 À mon Maître ?
 
 -*who_albert
-Non, traître, et n'y sera jamais.
+      Non, traître, et n'y sera jamais.
 
 -*who_mascarille
 Tout doux : et s'il est vrai que ce soit chose faite,
@@ -1992,7 +1992,7 @@ Monsieur, il est aisé de vous faire paraître
 Qu'il dit vrai.
 
 -*who_albert
-Bon, voilà l'autre encor digne maître
+      Bon, voilà l'autre encor digne maître
 D'un semblable valet. Ô ! les menteurs hardis !
 
 -*who_mascarille
@@ -2022,16 +2022,16 @@ Et la foi qui l'engage, et l'ardeur qui la presse.
 Il faut voir cette affaire.
 
 -*who_mascarille
-Allez ; tout ira bien.
+      Allez ; tout ira bien.
 
 -*who_albert
 Holà, Lucile, un mot.
 
 -*who_valere
-Je crains…
+      Je crains…
 
 -*who_mascarille
-Ne craignez rien.
+      Ne craignez rien.
 
 **** *book_ *id_III09 *act_III *date_1656 *creator_moliere
 
@@ -2061,7 +2061,7 @@ Et j'ai vu malgré moi notre hymen révélé.
 Notre hymen ?
 
 -*who_valere
-On sait tout, adorable Lucile,
+      On sait tout, adorable Lucile,
 Et vouloir déguiser est un soin inutile.
 
 -*who_lucile
@@ -2078,7 +2078,7 @@ Et j'ai de mes transports forcé la violence,
 Mais…
 
 -*who_mascarille
-Hé bien, oui, c'est moi ; le grand mal que voilà !
+      Hé bien, oui, c'est moi ; le grand mal que voilà !
 
 -*who_lucile
 Est-il une imposture égale à celle-là ?
@@ -2137,7 +2137,7 @@ Que déjà vous devriez avoir tout confessé.
 Et quoi donc confesser ?
 
 -*who_mascarille
-Quoi ? Ce qui s'est passé
+      Quoi ? Ce qui s'est passé
 Entre mon maître et vous ; la belle raillerie !
 
 -*who_lucile
@@ -2228,7 +2228,7 @@ Et, pour signe, ton front nous le fait assez voir.
 Oh ! l'obstiné vieillard !
 
 -*who_albert
-Ô ! le fourbe damnable !
+      Ô ! le fourbe damnable !
 Va, rends grâce à mes ans qui me font incapables
 De punir sur-le-champ l'affront que tu me fais ;
 Tu n'en perds que l'attente, et je te le promets.
@@ -2249,7 +2249,7 @@ Je puis en rencontrer d'assez haut à mon gré.
 Adieu, Monsieur.
 
 -*who_valere
-Non, non ; ta fuite est superflue :
+      Non, non ; ta fuite est superflue :
 Si tu meurs, je prétends que ce soit à ma vue.
 
 -*who_mascarille
@@ -2270,7 +2270,7 @@ Te vois-tu condamné pour le péché d'autrui ?
 L'aventure est fâcheuse.
 
 -*who_ascagne
-Ah ! ma chère Frosine,
+      Ah ! ma chère Frosine,
 Le sort absolument a conclu la ruine :
 Cette affaire, venue au point où la voilà
 N'est pas assurément pour en demeurer là ;
@@ -2343,7 +2343,7 @@ Allons, retirons-nous.
 **** *book_ *id_IV02 *act_IV *date_1656 *creator_moliere
 
 -*who_eraste
-Encore rebuté ?
+      Encore rebuté ?
 
 -*who_gros_rene
 Jamais Ambassadeur ne fut moins écouté :
@@ -2458,12 +2458,12 @@ Quand… les femmes enfin ne valent pas le diable.
 C'est fort bien raisonner.
 
 -*who_gros_rene
-Assez bien, Dieu merci :
+      Assez bien, Dieu merci :
 Mais je les vois, Monsieur, qui passent par ici.
 Tenez-vous ferme au moins.
 
 -*who_eraste
-Ne te mets pas en peine.
+      Ne te mets pas en peine.
 
 -*who_gros_rene
 J'ai bien peur que ses yeux resserrent votre chaîne.
@@ -2480,7 +2480,7 @@ Ne me soupçonne pas d'être faible à ce point.
 Il vient à nous.
 
 -*who_eraste
-Non, non ; ne croyez pas, Madame,
+      Non, non ; ne croyez pas, Madame,
 Que je revienne encor vous parler de ma flamme ;
 C'en est fait ; je me veux guérir, et connais bien
 Ce que de votre cœur a possédé le mien.
@@ -2519,14 +2519,14 @@ Lorsque de vous parler je reprendrai l'envie.
 Tant mieux ; c'est m'obliger.
 
 -*who_eraste
-Non, non, n'ayez pas peur
+      Non, non, n'ayez pas peur
 Que je fausse parole ; eussé-je un faible cœur
 Jusques à n'en pouvoir effacer votre image,
 Croyez que vous n'aurez jamais cet avantage,
 De me voir revenir.
 
 -*who_lucile
-Ce serait bien en vain.
+      Ce serait bien en vain.
 
 -*who_eraste
 Moi-même, de cent coups je percerais mon sein,
@@ -2537,7 +2537,7 @@ De vous revoir, après ce traitement indigne.
 Soit ; n'en parlons donc plus.
 
 -*who_eraste
-Oui, oui ; n'en parlons plus :
+      Oui, oui ; n'en parlons plus :
 Et pour trancher ici tous propos superflus,
 Et vous donner, ingrate, une preuve certaine,
 Que je veux sans retour sortir de votre chaîne,
@@ -2552,14 +2552,14 @@ Et c'est un imposteur enfin que je vous rends.
 Bon.
 
 -*who_lucile
-Et moi, pour vous suivre au dessein de tout rendre,
+      Et moi, pour vous suivre au dessein de tout rendre,
 Voilà le diamant que vous m'aviez fait prendre.
 
 -*who_marinette
 Fort bien.
 
 -*who_eraste
-Il est à vous encor ce bracelet.
+      Il est à vous encor ce bracelet.
 
 -*who_lucile
 Et cette agate à vous qu'on fit mettre en cachet.
@@ -2590,25 +2590,25 @@ Et la main, et la lettre, ont menti toutes deux.
 Poussez.
 
 -*who_eraste
-Elle est de vous ? suffit : même fortune.
+      Elle est de vous ? suffit : même fortune.
 
 -*who_marinette
 Ferme.
 
 -*who_lucile
-J'aurais regret d'en épargner aucune.
+      J'aurais regret d'en épargner aucune.
 
 -*who_gros_rene
 N'ayez pas le dernier.
 
 -*who_marinette
-Tenez bon jusqu'au bout.
+      Tenez bon jusqu'au bout.
 
 -*who_lucile
 Enfin, voilà le reste.
 
 -*who_eraste
-Et, grâce au Ciel, c'est tout.
+      Et, grâce au Ciel, c'est tout.
 Que sois-je exterminé, si je ne tiens parole.
 
 -*who_lucile
@@ -2618,16 +2618,16 @@ Me confonde le Ciel, si la mienne est frivole.
 Adieu donc.
 
 -*who_lucile
-Adieu donc.
+      Adieu donc.
 
 -*who_marinette
-Voilà qui va des mieux.
+      Voilà qui va des mieux.
 
 -*who_gros_rene
 Vous triomphez.
 
 -*who_marinette
-Allons, ôtez-vous de ses yeux.
+      Allons, ôtez-vous de ses yeux.
 
 -*who_gros_rene
 Retirez-vous, après cet effort de courage.
@@ -2636,7 +2636,7 @@ Retirez-vous, après cet effort de courage.
 Qu'attendez-vous encor ?
 
 -*who_gros_rene
-Que faut-il davantage ?
+      Que faut-il davantage ?
 
 -*who_eraste
 Ha ! Lucile, Lucile, un cœur comme le mien
@@ -2688,14 +2688,14 @@ Je ne dis point quels sont mes pensers là-dessus.
 Pourquoi ?
 
 -*who_lucile
-Par la raison que nous rompons ensemble,
+      Par la raison que nous rompons ensemble,
 Et que cela n'est plus de saison ce me semble.
 
 -*who_eraste
 Nous rompons ?
 
 -*who_lucile
-Oui vraiment ? quoi ? n'en est-ce pas fait ?
+      Oui vraiment ? quoi ? n'en est-ce pas fait ?
 
 -*who_eraste
 Et vous voyez cela d'un esprit satisfait ?
@@ -2704,10 +2704,10 @@ Et vous voyez cela d'un esprit satisfait ?
 Comme vous.
 
 -*who_eraste
-Comme moi !
+      Comme moi !
 
 -*who_lucile
-Sans doute c'est faiblesse,
+      Sans doute c'est faiblesse,
 De faire voir aux gens que leur perte nous blesse.
 
 -*who_eraste
@@ -2739,7 +2739,7 @@ Je le demande enfin : me l'accorderez-vous,
 Ce pardon obligeant ?
 
 -*who_lucile
-Remenez-moi chez nous.
+      Remenez-moi chez nous.
 
 **** *book_ *id_IV04 *act_IV *date_1656 *creator_moliere
 
@@ -2747,13 +2747,13 @@ Remenez-moi chez nous.
 Ô ! La lâche personne !
 
 -*who_gros_rene
-Ha ! le faible courage !
+      Ha ! le faible courage !
 
 -*who_marinette
 J'en rougis de dépit.
 
 -*who_gros_rene
-J'en suis gonflé de rage :
+      J'en suis gonflé de rage :
 Ne t'imagine pas que je me rende ainsi.
 
 -*who_marinette
@@ -2771,7 +2771,7 @@ Moi, je te chercherais ! ma foi, l'on t'en fricasse
 Des filles comme nous.
 
 -*who_gros_rene
-Oui ? tu le prends par là ?
+      Oui ? tu le prends par là ?
 Tiens, tiens, sans y chercher tant de façon, voilà
 Ton beau galant de neige, avec ta nonpareille :
 Il n'aura plus l'honneur d'être sur mon oreille.
@@ -2817,7 +2817,7 @@ Romps ; voilà le moyen de ne s'en plus dédire :
 Romps ; tu ris, bonne bête !
 
 -*who_marinette
-Oui, car tu me fais rire.
+      Oui, car tu me fais rire.
 
 -*who_gros_rene
 La peste soit ton ris ; voilà tout mon courroux
@@ -2825,13 +2825,13 @@ Déjà dulcifié : Qu'en dis-tu ? romprons-nous ?
 Ou ne romprons-nous pas ?
 
 -*who_marinette
-Vois.
+      Vois.
 
 -*who_gros_rene
-Vois toi.
+      Vois toi.
 
 -*who_marinette
-Vois toi-même.
+      Vois toi-même.
 
 -*who_gros_rene
 Est-ce que tu consens que jamais je ne t'aime ?
@@ -2840,24 +2840,24 @@ Est-ce que tu consens que jamais je ne t'aime ?
 Moi ? ce que tu voudras.
 
 -*who_gros_rene
-Ce que tu voudras, toi.
+      Ce que tu voudras, toi.
 Dis…
 
 -*who_marinette
-Je ne dirai rien.
+      Je ne dirai rien.
 
 -*who_gros_rene
-Ni moi non plus.
+      Ni moi non plus.
 
 -*who_marinette
-Ni moi.
+      Ni moi.
 
 -*who_gros_rene
 Ma foi, nous ferons mieux de quitter la grimace ;
 Touche, je te pardonne.
 
 -*who_marinette
-Et moi je te fais grâce.
+      Et moi je te fais grâce.
 
 -*who_gros_rene
 Mon Dieu ! qu'à tes appas je suis acoquiné !
@@ -2938,21 +2938,21 @@ Et je veux l'adoucir, ou terminer mon sort.
 C'est un point résolu.
 
 -*who_mascarille
-J'approuve ce transport ;
+      J'approuve ce transport ;
 Mais le mal est, Monsieur, qu'il faudra s'introduire
 En cachette.
 
 -*who_valere
-Fort bien.
+      Fort bien.
 
 -*who_mascarille
-Et j'ai peur de vous nuire.
+      Et j'ai peur de vous nuire.
 
 -*who_valere
 Et comment ?
 
 -*who_mascarille
-Une toux me tourmente à mourir,
+      Une toux me tourmente à mourir,
 Dont le bruit importun vous fera découvrir :
 De moment en moment… Vous voyez le supplice.
 
@@ -3002,7 +3002,7 @@ Et sur qui vous pourrez prendre toute assurance.
 Acceptez-les, Monsieur.
 
 -*who_valere
-C'est trop de complaisance.
+      C'est trop de complaisance.
 
 -*who_la_rapiere
 Le petit Gille encore eût pu nous assister,
@@ -3018,7 +3018,7 @@ Doit être regretté, mais quant à votre escorte,
 Je vous rends grâce.
 
 -*who_la_rapiere
-Soit ; mais soyez averti
+      Soit ; mais soyez averti
 Qu'il vous cherche, et vous peut faire un mauvais parti.
 
 -*who_valere
@@ -3033,7 +3033,7 @@ Las ! vous voyez tous deux comme l'on vous menace,
 Combien de tous côtés…
 
 -*who_valere
-Que regardes-tu là ?
+      Que regardes-tu là ?
 
 -*who_mascarille
 C'est qu'il sent le bâton du côté que voilà.
@@ -3042,7 +3042,7 @@ Ne nous obstinons point à rester dans la rue :
 Allons nous renfermer.
 
 -*who_valere
-Nous renfermer ! faquin ;
+      Nous renfermer ! faquin ;
 Tu m'oses proposer un acte de coquin !
 Sus, sans plus de discours, résous-toi de me suivre.
 
@@ -3058,7 +3058,7 @@ Cependant avec moi viens prendre à la maison
 Pour nous frotter.
 
 -*who_mascarille
-Je n'ai nulle démangeaison.
+      Je n'ai nulle démangeaison.
 Que maudit soit l'amour, et les filles maudites,
 Qui veulent en tâter, puis font les chattemites.
 
@@ -3143,7 +3143,7 @@ Et d'œufs cassés, Monsieur, un tel songe m'abat.
 Chien de poltron !
 
 -*who_polydore
-Valère, il s'apprête un combat,
+      Valère, il s'apprête un combat,
 Où toute ta valeur te sera nécessaire.
 Tu vas avoir en tête un puissant adversaire.
 
@@ -3155,14 +3155,14 @@ Qu'un funeste accident de votre fils vous prive,
 Ne m'en accusez point.
 
 -*who_polydore
-Non, non ; en cet endroit
+      Non, non ; en cet endroit
 Je le pousse moi-même à faire ce qu'il doit.
 
 -*who_mascarille
 Père dénaturé !
 
 -*who_valere
-Ce sentiment, mon père,
+      Ce sentiment, mon père,
 Est d'un homme de cœur ; et je vous en révère.
 J'ai dû vous offenser, et je suis criminel
 D'avoir fait tout ceci sans l'aveu paternel ;
@@ -3178,7 +3178,7 @@ Et, sans le pouvoir fuir, d'un ennemi plus fort
 Tu vas être attaqué.
 
 -*who_mascarille
-Point de moyen d'accord ?
+      Point de moyen d'accord ?
 
 -*who_valere
 Moi ! le fuir ! Dieu m'en garde. Et qui donc pourrait-ce être ?
@@ -3187,10 +3187,10 @@ Moi ! le fuir ! Dieu m'en garde. Et qui donc pourrait-ce être ?
 Ascagne.
 
 -*who_valere
-Ascagne ?
+      Ascagne ?
 
 -*who_polydore
-Oui ; tu le vas voir paraître.
+      Oui ; tu le vas voir paraître.
 
 -*who_valere
 Lui, qui de me servir m'avait donné sa foi !
@@ -3258,7 +3258,7 @@ Et sans beaucoup d'effort.
 **** *book_ *id_V08 *act_V *date_1656 *creator_moliere
 
 -*who_valere
-Il ne le fera pas,
+      Il ne le fera pas,
 Quand il joindrait au sien encor vingt autres bras.
 Je le plains de défendre une sœur criminelle :
 Mais, puisque son erreur me veut faire querelle,
@@ -3274,17 +3274,17 @@ C'est bien fait : la prudence est toujours de saison :
 Mais…
 
 -*who_eraste
-Il saura pour tous vous mettre à la raison.
+      Il saura pour tous vous mettre à la raison.
 
 -*who_valere
 Lui ?
 
 -*who_polydore
-Ne t'y trompe pas : tu ne sais pas encore
+      Ne t'y trompe pas : tu ne sais pas encore
 Quel étrange garçon est Ascagne.
 
 -*who_albert
-Il l'ignore :
+      Il l'ignore :
 Mais il pourra dans peu le lui faire savoir.
 
 -*who_valere
@@ -3294,7 +3294,7 @@ Sus donc que maintenant il me le fasse voir.
 Aux yeux de tous ?
 
 -*who_gros_rene
-Cela ne serait pas honnête.
+      Cela ne serait pas honnête.
 
 -*who_valere
 Se moque-t-on de moi ? je casserai la tête
@@ -3320,7 +3320,7 @@ Non, quand toute la terre après sa perfidie,
 Et les traits effrontés…
 
 -*who_ascagne
-Ah ! souffrez que je die,
+      Ah ! souffrez que je die,
 Valère, que le cœur qui vous est engagé
 D'aucun crime envers vous ne peut être chargé :
 Sa flamme est toujours pure, et sa constance extrême ;
@@ -3362,7 +3362,7 @@ De merveille à la fois, d'amour, et de plaisir,
 Se peut-il que ces yeux ?…
 
 -*who_albert
-Cet habit, cher Valère,
+      Cet habit, cher Valère,
 Souffre mal les discours que vous lui pourriez faire.
 Allons lui faire en prendre un autre ; et cependant
 Vous saurez le détail de tout cet incident.
@@ -3409,7 +3409,7 @@ Bien entendu, je veux une femme sévère :
 Ou je ferai beau bruit.
 
 -*who_mascarille
-Eh ! mon Dieu, tu feras
+      Eh ! mon Dieu, tu feras
 Comme les autres font : et tu t'adouciras.
 Ces gens avant l'hymen si fâcheux et critiques
 Dégénèrent souvent en maris pacifiques.
@@ -3420,11 +3420,11 @@ Les douceurs ne feront que blanchir contre moi :
 Et je te dirai tout.
 
 -*who_mascarille
-Oh ! Las ! fine pratique !
+      Oh ! Las ! fine pratique !
 Un mari confident !…
 
 -*who_marinette
-Taisez-vous, as de pique.
+      Taisez-vous, as de pique.
 
 -*who_albert
 Pour la troisième fois, allons-nous-en chez nous

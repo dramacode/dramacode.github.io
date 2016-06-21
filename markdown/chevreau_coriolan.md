@@ -17,7 +17,7 @@ A PARIS, Chez *Augustin Courbe*, Libraire & Imprimeur de Monsieur frere du Roy, 
       master 1 sous la direction de Georges Forestier (2008-2009)
 
 
-# Vie et œuvres d'Urbain Chevreau
+# Vie et œuvres d'Urbain Chevreau.
 
 
 Ce n'est pas d'une vie comme la mienne, (…) qu'a traité Seneque,
@@ -30,10 +30,10 @@ celle que je meine, est une vie de Messager ou de Postillon.Œuvres Meslées
 Le regret perce dans cette formule quelque peu désabusée qu'Urbain Chevreau fait parvenir à son ami jésuite Roatin, en février 1664, alors qu'il avait déjà cinquante-et-un ans. Moins poète que « messager », moins artiste que « postillon », cet homme déjà âgé pour son siècle semble déçu de ne pas avoir pu réaliser tout ce qu'il avait souhaité. Pourtant, parmi les poètes *mediocres* qui peuplent le XVII*e* siècle, il n'est pas le moins connu. Encore aujourd'hui, on peut retrouver sa trace dans les anthologies poétiques récentes du Grand Siècle [1]. Son œuvre théâtrale demeure en revanche en grande partie dans l'ombre, éclipsée qu'elle a été par les phares de son époque, au premier titre desquels Corneille, qu'il connaissait et admirait. Pourtant, en 1638, année de parution de *Coriolan*, il a déjà tenté de se faire connaître en proposant plusieurs tentatives dramatiques en seulement deux ans. Reprendre la célèbre histoire de Coriolan, le général romain traître à sa patrie mais fléchi par l'amour de sa mère, connue du public, était sans doute un nouveau moyen pour lui de se distinguer dans les théâtres parisiens, l'impliquant au passage dans une rivalité frontale avec un autre dramaturge, François de Chapoton, qui propose au même moment sa propre version de cet épisode de l'Antiquité. Cependant, il semble que même ses contemporains et les hommes de lettres de la fin du XVII*e* siècle aient tout oublié de son œuvre dramatique. L'auteur anonyme qui signe l'« Abrégé de la vie de Mr Urbain Chevreau » en tête des *Œuvres meslées* publiées en 1717 n'en fait même pas mention. C'est pourtant par le théâtre, comme bon nombre de ses contemporains, qu'il est entré en littérature.
 
 
-## Un savant voyageur
+## Un savant voyageur.
 
 
-### De Loudun à Paris, l'entrée en littérature
+### De Loudun à Paris, l'entrée en littérature.
 
 Urbain Chevreau est né à Loudun, le 20 avril 1613. La date a été définitivement fixée par Gustave Boissière [2], qui a écarté toutes les incertitudes sur ce sujet. Il a grandi dans une famille modeste (son père était peintre-vitrier, comme l'indique l'acte de naissance [3]) et il fait ses études à Poitiers avant de s'installer rapidement à Paris avant même d'avoir obtenu sa licence de droit. Comme de nombreux auteurs de ce début du XVII*e* siècle, il est décidé à « se faire un nom » dans le monde des lettres, alors que Corneille reste sans écrire de 1637 à 1640. Parmi ses premières œuvres n'ont été conservées que quelques pièces de théâtre : ses premiers essais dramatiques, de même que certaines de ses *Lettres*, ont été perdus. Sans avoir « d'autres protecteurs qu'Apollon & les neuf Sœurs [4] », il parvient néanmoins à acquérir une certaine célébrité et à faire représenter en 1637 à l'Hôtel de Bourgogne la *Suite et le mariage du Cid*, à peine un an après le chef-d'œuvre. On peut comprendre que cette première tentative n'ait eu qu'un succès médiocre, sans doute perdu au milieu de la violente « Querelle du *Cid* » et du triomphe populaire de la pièce de Corneille. Cependant, Chevreau persiste dans l'écriture théâtrale et s'essaye à tous les genres. Après une première tragi-comédie, il fait publier et représenter la même année une comédie, *L'Avocat dupé*, et une tragédie, *La Lucresse romaine*. Il parvient à réaliser son objectif : se faire connaître du monde des lettres. Comme l'écrira son biographe anonyme :
 
@@ -45,7 +45,7 @@ En 1638, il publie sa quatrième pièce, *Coriolan* et dans les années qui suiv
 Après ces huit années de production théâtrale, Urbain Chevreau quitte Paris, à trente ans passés, pour revenir s'installer à Loudun (il est de retour au pays en 1647). Il continuera à écrire, et à écrire beaucoup, sans jamais être tenté par un retour au théâtre. S'est-il lassé d'un effet de « mode » ? Ou plutôt, aurait-il constaté que d'autres que lui avaient plus de succès auprès du public ?
 
 
-### Tour d'Europe
+### Tour d'Europe.
 
 Il passe alors sa licence de droit à Poitiers [7] et se fixe à Loudun où il refuse toutes les offres qui lui sont proposées (dont un canonicat) afin de préserver sa liberté, chère à ses yeux, à tel point que, toute sa vie, il refusera le mariage [8]. Au cours de l'année 1652, il quitte à nouveau sa ville natale pour entamer une série de voyages qui l'emmènent à Stockholm en 1653. Il devient un habitué de la cour de Christine de Suède qui en fit son « secrétaire des commandements [9] », poste qu'il occupa jusqu'en 1656 soit après l'abdication de la Reine pour Charles X. Mais il ne quitta pas la littérature pour autant. Vers 1654, il imagina un grand projet qui l'occupa pendant de longues années : celui de réaliser une *Histoire du Monde*, auquel il consacra la majorité du temps libre dont il disposait à la cour de la reine. Il produisit plusieurs textes, vers galants, ballets, joués et appréciés à la Cour. Cependant, ce long séjour en Suède ne le coupa pas des affaires littéraires de son pays. Il entretint une correspondance volumineuse, comme il le fit tout au long de sa vie, avec les grands hommes de lettres du temps et ses amis personnels comme Jean Chapelain, Georges de Scudéry ou encore Tristan l'Hermite. Il s'informa des événements en France : ainsi apprit-il en Suède la mort de Guez de Balzac (1654), et envoya quelques stances à Conrart en guise d'hommage :
 
@@ -77,7 +77,7 @@ Cette brillante réussite lui octroya une position privilégiée à la Cour de P
 Deux ans seulement après son retour à Paris début 1676, il fut nommé par le Roi précepteur de Louis-Auguste de Bourbon, duc du Maine, et enfant légitimé de Louis XIV et de Madame de Montespan. Gustave Boissière [15] indique que ce poste fut une réussite pour Chevreau : « Le prince avait d'heureuses dispositions, un esprit ouvert, de la docilité et un vif attachement à ses maîtres ». Il semble en effet qu'Urbain Chevreau ait retiré de son nouveau statut une grande fierté, « car ce choix seul fait mieux l'eloge du Mérite, de la Reputation & du Savoir de Mr. *Chevreau* que tout ce qu'on pouroit en dire ; & j'ose dire que ce Prince qui donnoit de si belles espérances, ausquelles il a si bien repondu, ne pouvoir tomber en de meilleures mains [16] ». En effet, il se trouvait que Madame de Maintenon avait beaucoup d'affection pour le fils de son mari, au point même d'avoir fait publier des *Œuvres diverses d'un auteur qui n'a pas encore sept ans*.
 
 
-### L'érudit de Loudun
+### L'érudit de Loudun.
 
 Resté aux côtés du duc du Maine près de six ans, il est nommé secrétaire de ses commandements en 1682. Une vingtaine d'années avant sa mort, Urbain Chevreau décide de quitter la capitale, et « pour vaquer plus en repos aux exercices de la vie Chrétienne, il s'étoit retiré dans une belle maison, qu'il avoit fait bâtir à Loudun [17] » : il s'y fixe en 1685. Désormais installé en France, Urbain Chevreau peut se consacrer pleinement à ses projets littéraires et érudits. Son *Histoire du monde*, projet qu'il porte depuis près de trente ans, est enfin terminée en 1686. Il s'agit de l'ouvrage qui lui a procuré le plus de renommée et qui a consacré sa réputation d'érudit :
 
@@ -104,12 +104,12 @@ Les biographes de Chevreau aiment à dépeindre une fin de vie paisible dans sa 
 Il avait beaucoup travaillé. Il avait réussi et longuement joui en ce monde de la paix promise aux hommes de bonne volonté. Il s'éteignit dans sa maison, parmi ses livres, ses oiseaux et ses fleurs renaissantes, le 15 février 1701. Il fut enterré le lendemain dans l'église Saint-Pierre-du-Marché.
 
 
-## Chevreau dramaturge
+## Chevreau dramaturge.
 
 Polygraphe dans toute la deuxième partie de sa vie, Urbain Chevreau semble avoir très vite délaissé le pan dramatique de son œuvre, comme le fera du reste la critique immédiate ou plus tardive. Bien qu'il parle beaucoup de son travail poétique dans ses lettres, reproduites dans les *Œuvres Meslées* ou dans quelques fragments de la *Chevræana*, il n'a fourni aucune espèce d'indication sur son travail d'élaboration technique. Ainsi devra-t-on se contenter d'hypothèses, de suppositions à partir du « simple » élément textuel. Les quelques informations disponibles dans les épîtres dédicatoires et les avertissements au Lecteur ne donnent que de rares indices sur le processus de création dramatique et le contexte de son travail d'écriture.
 
 
-### Le contexte théâtral en 1637-38 : du crépuscule tragi-comique à la renaissance tragique
+### Le contexte théâtral en 1637-38 : du crépuscule tragi-comique à la renaissance tragique.
 
 Depuis la fin des années 1620, la tragédie telle qu'elle était pratiquée depuis le siècle précédent connut une profonde désaffection au profit d'une forme nouvelle, émancipée des règles, la tragi-comédie, qui se caractérise par de nombreux coups de théâtres, des rebondissements, un affranchissement total vis-à-vis des contraintes de type unité de temps ou de lieu, un dénouement heureux et matrimonial. Jusqu'en 1634, la tragi-comédie irrégulière jouit d'une hégémonie quasi-totale sur la scène française, dans des proportions inverses à ce qu'il en était à peine quinze ans auparavant : cette année-là, à l'Hôtel de Bourgogne, seules deux tragédies furent représentées, face à soixante-neuf tragi-comédies. Cependant, la polémique recommençait avec l'apparition d'un « parti des règles », d'un groupe de doctes qui « s'en mêlaient et pesaient de toute leur autorité dans le sens de la régularité [23] ». Au fur et à mesure, la tragi-comédie tenta de s'adapter aux nouvelles exigences. Mais le retour des règles donna une nouvelle impulsion à la tragédie et c'est avec la *Sophonisbe* de Mairet que le genre reparut réellement sur la scène parisienne. En 1636, soit un an avant les débuts de Chevreau au théâtre, il fut joué autant de tragédies que de tragi-comédies. Chevreau écrit donc ses premières pièces dans une période d'entre-deux, annonciatrice de la domination de ce qu'on appellera la « tragédie classique », mais encore marquée par le ton plus romanesque de la tragi-comédie.
 
@@ -148,7 +148,7 @@ Chevreau reprend une nouvelle fois l'image de la « chute » de l'auteur sur l
 Seuls ces quelques indices nous permettent d'imaginer quel fut l'accueil du public parisien à ses œuvres théâtrales. Devant ces « succès médiocres [31] », on peut croire qu'il fût mitigé, même si la publication et la représentation de sept de ses œuvres en seulement quatre saisons laissent à penser qu'il ne déparait pas parmi les autres productions de l'époque.
 
 
-### … et de sévères jugements posthumes
+### … et de sévères jugements posthumes.
 
 La critique postérieure n'a pas été particulièrement aimable à son endroit et, cette fois-ci, de nombreux documents le prouvent.
 
@@ -161,10 +161,10 @@ Clément et Laporte, qui traitent très rapidement de la pièce de Chevreau, rap
 Cette sévérité à l'égard de Chevreau se retrouve jusque dans les jugements plus récents. G. Boissière [40] lui-même, qui consacre à l'auteur la somme la plus importante, le place dans « la moyenne des productions similaires d'alors », non sans se priver de pointer « des négligences, des fautes, du manque de logique ou de sens qu'explique son improvisation rapide, enfin … son style, parfois obscur, rude, lourd, monotone et … sa versification souvent embarrassée ». Autant de défauts, précise-t-il, « communs avec les autres dramaturges du XVIIe siècle ». Henri Rousseau, au milieu du XX*e* siècle, abonde dans son sens : ses œuvres ont eu un « succès médiocre » mais « on ne saurait s'en étonner quand on a lu ces pièces [41] ».
 
 
-## *Coriolan* : une création en concurrence
+## *Coriolan* : une création en concurrence.
 
 
-### L'affrontement des deux théâtres
+### L'affrontement des deux théâtres.
 
 Pendant ces années 1630, de nombreux auteurs puisent dans les sujets traités au début du siècle par Alexandre Hardy. Le dramaturge prolixe a inspiré beaucoup de ses successeurs notamment avec sa manière « classique », la plus aboutie et la plus estimable selon lui, face à ses pièces plus « populaires [42] ». Ainsi les auteurs des années 1630 reviennent-ils plus facilement à ses tragédies les mieux construites et profitent de la renaissance d'une tragédie moderne pour se faire une place sur les scènes parisienne. L'une des tragédies de Hardy les plus célèbres, *Coriolanus* (créée vers 1607), a fait l'objet de deux adaptations simultanées en 1638. Le sujet est déjà bien connu sur la scène française. Avant Hardy, Pierre-Thierry de Montjustin a donné un *Coriolanus* en 1601. Bien sûr, la pièce aujourd'hui la plus célèbre sur ce sujet, le *Coriolan* de Shakespeare, fut publiée en 1606 ; cependant, tout porte à croire que les dramaturges français, et Chevreau en particulier, ignoraient son existence. Ce sujet, tiré de Plutarque et de Tite-Live principalement, raconte la révolte, la vengeance et la mort d'un général romain contre Rome lors de l'une des premières guerres contre les Volsques.
 
@@ -190,7 +190,7 @@ Il n'y a malheureusement pas de documents précis qui permettent de définir leq
 Si l'on en croit ces deux commentateurs, la pièce de Chevreau a eu plus de mérite et de résonances que celle de Chapoton, malgré tous les soutiens que ce dernier a placés en exergue.
 
 
-### Représentation et réception de *Coriolan*
+### Représentation et réception de *Coriolan*.
 
 Faute de documents précis, nous en sommes réduits à émettre seulement des hypothèses quant aux conditions de représentations de *Coriolan*, outre que ce que nous apprennent les paratextes, ou le texte lui-même.
 
@@ -216,27 +216,27 @@ Aufidie sous-entend que, tandis qu'il parle, la scène de la supplique se poursu
 Nous ne disposons pas de document pouvant nous éclairer sur la réception du public au *Coriolan* de Chevreau. On peut seulement signaler que visiblement, au goût de la critique postérieure, c'est celui qui a été le plus digne d'intérêt comparé à celui de Chapoton (auquel Clément et Laporte [52] ne consacrent même pas un article). Cependant, si la pièce a été publiée, elle est vite tombée dans l'oubli, n'ayant pas véritablement marqué les esprits au cours de cette saison théâtrale. Comme l'indiquent les deux auteurs des *Anecdotes dramatiques*, la tragédie de Chevreau permet de « connoître (…) le style et le goût de ce tems-là ». Quelques articles plus loin, traitant du *Coriolan* d'un certain M. Maugier, représenté en 1748, ils signalent que « ce sujet traité tant de fois, n'a jamais pu réussir au Théâtre [53] ». À les en croire, la pièce de Chevreau ne s'est donc pas particulièrement distinguée par son succès auprès du public. Mais il faut garder à l'esprit que leur commentaire se veut dépréciatif, tant Clément et Laporte, de même que les frères Parfaict, jugeaient les pièces de théâtre au prisme de leur vision classique, héritée de la deuxième moitié du XVII*e* siècle.
 
 
-# Résumé de la pièce
+# Résumé de la pièce.
 
 Caius Marcius, surnommé Coriolan suite à la prise héroïque de la ville de Corioles, s'est vu bannir par les tribuns du peuple, menés par Sicinius qui, prenant prétexte de son comportement foncièrement hostile au peuple, l'accusèrent de tyrannie et de détournement de fonds lors du partage du butin d'une expédition en Sicile. Furieux et blessé dans son honneur, il rejoint les ennemis de Rome, les Volsques, menés par Aufidius et leur propose de les mener contre la capitale. Les Volsques avancent dès lors et enchaînent les victoires, jusqu'à assiéger Rome. Au désespoir, les Romains envoient des émissaires supplier Coriolan de renoncer à son projet, mais le général reste inflexible.
 
 
-## Acte I
+## Acte I.
 
 Deux sénateurs romains s'inquiètent de l'évolution de la situation aux portes de Rome (Scène 1) : Coriolan, banni par sa ville, l'assiège désormais à la tête des Volsques. Toutes les délégations que le Sénat a pu envoyer sont rentrées bredouille ; même les « Sacrificateurs » n'ont pu faire fléchir le général. Les Sénateurs accusent Sicinie, le tribun du peuple, d'être la cause de leur malheur : c'est lui qui a décidé d'exiler Coriolan, par haine personnelle. Il n'y a qu'une solution : que Sicinie aille lui-même demander pardon au général. Ce dernier est en train de parler avec son ami Sancine (Scène 2). Si Rome vit désormais dans la peur, elle ne peut s'en prendre qu'à elle-même, cette « lâche patrie » qui l'a banni pour de fausses raisons. Il est bien décidé à se venger, et Sancine l'approuve : Rome est seule responsable de son malheur. Sur ce constat, Sicinie entre pour supplier Coriolan de renoncer à son projet (Scène 3). Il l'accueille courroucé de le voir, après ce qu'il lui a infligé. Le tribun reconnaît ses fautes mais Coriolan ne veut rien savoir : il lui rappelle ses faits d'armes au service de Rome, avant de le chasser, sous-entendant une attaque prochaine. Aufidie, le chef des Volsques, entre alors en scène (Scène 4), pour savoir ce que voulait Sicinie. Il lui rappelle les cruautés que Rome a fait subir aux Volsques, et comme Coriolan reste inflexible, Aufidie lui demande de partir sur le champ. Il ne veut plus voir de Romains dans son camp.
 
 
-## Acte II
+## Acte II.
 
 De retour devant les Sénateurs, Sicinie rapporte la détermination de Coriolan (Scène 1). La panique les gagne, ils reportent toute leur peur sur le tribun, selon eux seul responsable du drame qui ébranle Rome. Il l'a exilé sous l'accusation de tyrannie, mais ce faisant, c'est lui qui est devenu tyran et qui a apporté le malheur sur Rome. S'il assume sa faute, Sicinie tente de se justifier : tous les Romains ont abondé dans son sens pendant le procès, et son chef d'accusation était recevable au vu du comportement de Coriolan. Son action était digne des anciens libérateurs de Rome comme Brute face aux Tarquins. Les Sénateurs le renvoient : il faut maintenant invoquer les Dieux, et Sicinie sera le premier à périr si le conflit se déclenche. Pendant ce temps, Verginie, la femme de Coriolan, enjoint sa belle-mère Velumnie à l'accompagner pour supplier son mari (Scène 2). Les arguments rationnel et divin n'ont pas feu d'effet : il faut donc tenter de faire fléchir Coriolan par la pitié, pour éviter à Rome un massacre de sa population. Velumnie est abattue par le comportement de son fils et son ingratitude vis-à-vis de sa propre patrie. Mais Verginie l'exhorte : elle ne peut croire que Coriolan ait renoncé à sa foi et puisse attaquer et sa femme et ses Dieux et leurs temples. Du côté des Volsques, Sancine met en garde son ami sur la duplicité d'Aufidie (Scène 3). Il est d'abord un traître, et sa haine des Romains pourrait un jour se retourner contre Coriolan s'il ne se méfie pas. Mais ce dernier est résolu à accomplir sa vengeance, et prendre des précautions dans un tel moment équivaudrait à une lâcheté. Aufidie intervient, pour s'assurer de la détermination de son nouveau général (Scène 4). Coriolan réaffirme sa volonté de se venger de Rome ; Aufidie, rassuré, l'embrasse.
 
 
-## Acte III
+## Acte III.
 
 Dans son camp, Coriolan tente de relever sa femme qui le supplie à genoux (Scène 1). Il lui renouvelle sa foi, le serment de son amour intact, et s'engage à accéder à toutes ses demandes, pourvu qu'elles ne concernent pas le salut de Rome. Mais c'est évidemment à ce sujet que Verginie est venue le supplier. Elle ne peut voir Rome, sa famille et ses enfants se faire massacrer sans réagir. Coriolan est touché et semble sur le point de verser lui aussi des larmes. Et alors que sa mère commence à se lamenter sur l'ironie du destin qui la fait supplier son propre fils de l'épargner, il l'interrompt : il n'est pas un Barbare, il l'a toujours prouvé, mais le traitement que lui a infligé Rome l'oblige à se venger. Cependant les deux femmes ne l'approuvent pas : sa vengeance consisterait donc à massacrer des femmes innocentes ? A force de discours, les femmes obtiennent de Coriolan un temps de répit, le temps que son esprit confus de ces reproches s'apaise. Ayant eu vent de cette entrevue avec les femmes, Aufidie confie ses craintes à Sancine (Scène 2) : et si Verginie et Volumnie parvenaient à faire changer d'avis Coriolan ? Sancine le rassure : Coriolan ne trahira pas. Cependant, ce dernier se morfond seul dans son camp (Scène 3), déchiré entre le devoir moral de se venger de cette patrie ingrate, et l'amour profond qu'il porte à sa mère, et son souhait de la préserver. Il appelle alors Sancine (Scène 4) et lui demande de l'aide. Sancine s'étonne de voir encore son ami si incertain, alors qu'ils sont au milieu d'une armée prête à les tuer au moindre indice de trahison. Coriolan se reprend : il s'en tiendra à ce qu'il a prévu, la destruction de Rome.
 
 
-## Acte IV
+## Acte IV.
 
 Aufidie interroge Coriolan sur ses intentions : est-il bien décidé à poursuivre sa vengeance ? (Scène 1) Ce dernier le rassure, tout en lui avouant que la visite des deux femmes un peu plus tôt l'a touché. Le chef des Volsques l'enjoint à ne plus retarder l'annonce de sa décision, afin qu'elles-mêmes ne souffrent pas trop. Aufidie le laisse seul et fait part de son optimisme à Sancine quant au succès de son projet (Scène 2). L'ami du général est confiant : il se donne garant de Coriolan. Cependant, il serait trop cruel de ne pas le laisser voir sa famille avant l'attaque sur Rome, et Aufidie affirme qu'il ne l'estime que davantage pour sa volonté d'aller voir sa mère et sa femme pour leur annoncer sa décision. Lui-même est sûr que les Volsques seront vengés de tous les supplices infligés par les Romains.
 
@@ -249,7 +249,7 @@ Coriolan détrompe alors Sancine et le public (Scène 6) : Aufidie s'est fourvo
 De retour devant les Sénateurs, Verginie leur annonce le pardon de Coriolan (Scène 7), et le départ des Volsques pour avant le lever du soleil. Le Sénateur la félicite et lui promet, pour elle et Velumnie, les honneurs de Rome.
 
 
-## Acte V
+## Acte V.
 
 Aufidie a appris la levée du siège et paraît furieux devant Coriolan (Scène 1). Lui et les Volsques ne pourront pas pardonner une telle trahison. Coriolan est prêt à tout entendre de sa part hormis des injures, alors qu'Aufidie a peine à maintenir son courroux : après une longue dispute, Aufidie le quitte sur un ton menaçant.
 
@@ -258,7 +258,7 @@ Une fois son devoir accompli au Sénat, Verginie souhaite, comme promis, rejoind
 Cependant, Aufidie prépare sa vengeance, et harangue ses lieutenants volsques (Scène 3) contre le traître. Les lieutenants sont décidés à le tuer même si Coriolan tente de s'expliquer comme le prévoie Aufidie. Sancine presse Coriolan de quitter les lieux (Scène 4) par crainte de la vengeance des Volsques, mais le général romain lui demande au contraire d'aller chercher Verginie ; il l'attendra avant de s'enfuir. Alors que son ami est parti, Coriolan reconnaît pour lui-même qu'il a eu tort de trahir ainsi ses alliés (Scène 5), mais il ne pouvait rien faire d'autre que d'accéder à la pitié pour sa propre famille. Les conjurés Volsques entrent alors et le voient seul ; ils passent à l'action et le tuent (Scène 6). Verginie, qui arrive sur les lieux, renvoie Camille qui la supplie une dernière fois de faire marche arrière (Scène 7). Elle s'élance alors pour retrouver son mari, mais découvre son corps sans vie. Se lamentant seule sur scène, elle se promet de le suivre dans la mort (Scène 8).
 
 
-# De la légende à la scène : la genèse du Coriolan
+# De la légende à la scène : la genèse du Coriolan.
 
 
 ## Quelles sources pour *Coriolan* ?
@@ -331,7 +331,7 @@ Et que n'ai-je point fait, & sur mer & sur terre ? (v. 229-236)
 Ces exemples nous montrent que Chevreau a suivi Plutarque dans les grandes lignes sans pour autant reprendre tous les détails. Ses hauts-faits antérieurs ne sont qu'évoqués par les discours des sénateurs ou par ses propres réflexions, mais sont néanmoins tous rappelés : de la bataille du lac Régille à la prise de Corioles, en passant par sa condamnation au bannissement.
 
 
-### … et Tite-Live
+### … et Tite-Live.
 
 La deuxième source principale de Chevreau est le deuxième volume de l'*Histoire romaine* de Tite-Live, qu'il connaissait parfaitement, comme il le montre dans sa grande *Histoire du Monde* (1686), qui en est directement inspirée, pour les premières parties concernant Rome : il reprend par exemple presque mot pour mot le discours de la mère, rapporté par Tite-Live :
 
@@ -360,7 +360,7 @@ Chevreau n'a pas suivi Tite-Live sur la mort du héros : celui-ci semble refuse
 Pour une large partie des événements qui font la vie de Coriolan, Plutarque et Tite-Live sont d'accord. Mais on voit que Chevreau a pu pratiquer des choix chez l'un ou chez l'autre. Ces choix vont tous dans la même direction : celle d'une plus grande dramatisation de l'action, ce que le dramaturge va accentuer en ajoutant lui-même des éléments novateurs. Ainsi Chevreau a-t-il choisi, parmi les différentes conclusions que les auteurs antiques apportent à l'histoire de Coriolan, celle qui en fait une fin tragique : la mort du général tué par les Volsques, qu'il a trahis par amour de sa mère [62]. Pour faire de sa pièce une tragédie digne des scènes parisiennes, Chevreau ne pouvait pas se contenter de la mort paisible du général ayant échappé au courroux volsque, que Tite-Live semble préférer. Il choisit, pour le cœur de l'intrigue comme pour sa conclusion, les éléments qui lui permettent d'atteindre l'économie tragique qu'il recherche. Et si Plutarque reste sa source première, il ne se prive pas de sélectionner dans les différents textes à sa disposition les éléments à même d'intéresser le public du Marais.
 
 
-### *Corionalus* d'Alexandre Hardy
+### *Corionalus* d'Alexandre Hardy.
 
 Parmi les sources dont s'est inspiré Chevreau pour son *Coriolan*, il ne faut pas oublier la pièce qu'Alexandre Hardy a donnée en 1607, présente encore dans les esprits pour qui voulait adapter ce sujet en 1638. C'est la manière « classique » de son théâtre qui est remis au goût du jour, et quand les dramaturges reprennent un sujet traité par Hardy, l'influence du dramaturge doit, le plus souvent, être prise en compte.
 
@@ -388,19 +388,19 @@ Perfides fausseront leur honneur et leur foy [68].
 Dans le traitement de Coriolan, on peut donc distinguer deux groupes de dramaturges : Montjustin et Chapoton vont s'attarder sur les événements politiques et sur l'ensemble de la vie de Coriolan, de son conflit avec le peuple jusqu'à sa mort, une vie gouvernée par l'idée de vengeance politique. Hardy et Chevreau, qui se situeraient plus sur une ligne « régulière », cherchent à concentrer leur action autour de l'intimité de l'homme Coriolan. Cela est particulièrement sensible dans la pièce qui nous occupe.
 
 
-### Le problème des noms
+### Le problème des noms.
 
 Des sources antiques au théâtre, les noms des personnages ont tous plus ou moins évolué (à part celui du héros éponyme). C'est notamment le cas pour les deux femmes qui, chez Plutarque, se nomment Vergilie et Volumnie pour la femme et la mère, et chez Tite-Live et Valère-Maxime, respectivement Volumnie et Véturia. On voit déjà que Chevreau est plus près de la version de Plutarque, puisque Velumnie est le nom de la mère. Les noms des personnages masculins sont eux simplement francisés : on passe d'Aufidius et de Sicinius à Aufidie et Sicinie.
 
 Chapoton, quant à lui, nomme la femme de Coriolan Virginie et la mère Volonnie. Comme Chevreau, c'est donc la filiation de Plutarque qui est respectée, et non celle de Tite-Live. Pour les noms du *Coriolan*, aucune indication quelconque n'éclaire ce choix, mais on peut penser que la concurrence des deux versions ait tendu à les uniformiser, malgré les légères variations de prononciation.
 
 
-## *Coriolan* : une « conciliation des contraintes [69] »
+## *Coriolan* : une « conciliation des contraintes [69] ».
 
 Chevreau n'a laissé aucun document pouvant nous renseigner sur son travail de rédaction. Cependant le résultat final que donne le *Coriolan* laisse deviner un travail appronfondi d'adaptation des sources antiques aux contraintes de la scène et aux envies du public.
 
 
-### Une incontournable contrainte matérielle : le personnel dramatique
+### Une incontournable contrainte matérielle : le personnel dramatique.
 
 La situation matérielle des théâtres, décors et personnel dramatique, est le premier problème auxquels sont confrontés tous les dramaturges français de cette époque, et Chevreau ne fait pas exception. La concurrence entre les deux théâtres est un facteur déterminant. Le *Coriolan* de Chevreau étant au cœur de cet affrontement, l'analyse rapide de la situation des deux troupes en 1638 est donc indispensable.
 
@@ -409,7 +409,7 @@ Sans se lancer dans une comparaison systématique entre les deux pièces, la mis
 Cet exemple des rôles féminins indique bien que le contexte concurrentiel de la création de *Coriolan* ne s'est pas limité à une querelle d'auteurs, mais est intervenu dans l'élaboration même de la pièce. L'auteur a dû composer avec ses souhaits et les contraintes matérielles, qu'il a sues, on le verra, réutiliser dans la mise en drame de son sujet.
 
 
-### La question politique
+### La question politique.
 
 Le contexte politique des années 1638 pesait fortement sur les auteurs et leurs œuvres, poids incarné par Richelieu, qui a pris une place considérable dans le monde des lettres dès avant la création sur son ordre, en 1635, de l'Académie Française, et sa participation active à la « Querelle du *Cid* ». Par ailleurs, la situation politique était extrêmement tendue, à cause de l'attentat manqué contre Richelieu en 1637 [74]. Mettre sur la scène une pièce racontant la vengeance d'un général romain contre son propre pays était donc relativement sensible, d'autant plus que le comte de Soissons étant alors exilé à Sedan, d'où il s'allia avec l'Espagne et reprit ses complots contre le cardinal. Chapoton et Chevreau vont tous les deux tenter de désamorcer d'éventuels ennuis par le paratexte : le premier adresse sa pièce au Cardinal lui-même, le deuxième fait figurer une ode à sa gloire en supplément au texte [75].
 
@@ -427,10 +427,10 @@ c'est encore à Sicinie qu'il s'adresse, Sicinie qui, aux yeux du public, semble
 Entre contraintes matérielles et politiques, « Chevreau sacrifie donc des points mineurs de la poétique pour concilier, à une échelle plus large, toutes les contraintes en présence, y compris des contraintes poétiques jugées plus importantes [81] ». Car entre toutes ces difficultés, Chevreau n'oublie pas les règles nouvelles de la tragédie.
 
 
-### Vraisemblance et théorie des règles
+### Vraisemblance et théorie des règles.
 
 
-#### Le choix du parti des règles
+#### Le choix du parti des règles.
 
 La fin des années 1630 voit un retour en force des règles sur le théâtre, mais le débat est encore bien présent, et il est intéressant de noter que, pour un sujet tel que celui de Coriolan, les deux dramaturges de 1638 ont chacun choisi un parti contraire.
 
@@ -520,20 +520,20 @@ A l'issue de cette brève discussion, Coriolan semble se décider à ne pas éco
 Ce retournement de la position de Coriolan était un vrai problème pour Chevreau qui voulait s'inscrire dans le camp des réguliers et donc respecter la trame historique. Ceci explique l'originalité de sa pièce, par rapport à son concurrent Chapoton par exemple, qui ne se pose pas cette question. Chevreau a fait le choix d'innover pour mieux pouvoir suivre Plutarque, en resserrant la trame de l'action, quitte à l'allonger en redoublant la scène de la supplique.
 
 
-## Personnages et actions : de l'historien au dramaturge
+## Personnages et actions : de l'historien au dramaturge.
 
 Si Chevreau proclame dans son « Avertissement » qu'il a suivi scrupuleusement Plutarque, il reste que sa pièce diffère grandement et du récit de l'historien grec et des pièces que le public a déjà pu voir sur la scène parisienne : « sous le voile complaisant des renvois respectueux aux sources, la chronologie, les circonstances et les personnages sont manipulés et retravaillés comme un matériau brut [89] ». Chevreau reprend nombre d'éléments à Plutarque et à Tite-Live. Cependant, son choix de commencer sa pièce à la toute fin de l'histoire de Coriolan suppose un travail nouveau sur les sources, des choix, et un projet dramatique précis que nous allons nous efforcer de découvrir.
 
 
-### Nouveaux personnages, nouveaux rôles
+### Nouveaux personnages, nouveaux rôles.
 
 Chevreau, qui devait d'une part composer avec le personnel dramatique restreint du théâtre du Marais, d'autre part avec le respect de la source historique a choisi d'opérer une concentration des personnages et une plus grande identification des rôles.
 
 
-#### Des caractères et des personnages secondaires mieux identifiés
+#### Des caractères et des personnages secondaires mieux identifiés.
 
 
-##### Sancine
+##### Sancine.
 
 La simplification de l'intrigue, ainsi que le nombre limité de personnages (neuf en regroupant les Sénateurs et les Volsques, contre dix-neuf pour Chapoton en procédant de la même manière), permettent à Chevreau de mieux individualiser les personnages et leurs caractères, autour de Coriolan.
 
@@ -559,7 +559,7 @@ Il regarde de prés nostre commun repos (v. 934-936)
 Chevreau réunit en un personnage qu'il avait besoin de créer pour assurer la cohérence de la progression, deux rôles : celui, classique, d'ami et de conseiller et celui de négociateur politique, sorte de lien entre Coriolan et les Volsques.
 
 
-##### Camille
+##### Camille.
 
 C'est le deuxième personnage créé par Chevreau, qui ne possède qu'un rôle mineur. Pendant de Sancine pour Verginie, puisqu'elle est sa « suivante », elle n'apparaît que dans l'acte V. Elle a comme Sancine une fonction de conseil, puisqu'elle intime la prudence à sa maîtresse, qu'elle craint de voir faire les frais de la trahison de Coriolan envers les Volsques :
 
@@ -576,7 +576,7 @@ Je vous attens, Madame, il faut vous obeïr :
 Mais songez apres tout à ne vous pas trahir. (v. 1459-1460)  
 
 
-##### Aufidie
+##### Aufidie.
 
 Aufidie est un personnage très particulier. Son rôle, pour une part similaire à celui de Sicinie, est de justifier en creux l'attitude de Coriolan à l'égard des bienséances. On ne peut pas affirmer qu'Aufidie soit en position d' « ennemi » de Coriolan : il est d'abord celui qui l'aide et le soutient dans sa vengeance.
 
@@ -610,7 +610,7 @@ Me font par fois soufrir de sensibles douleurs. (v. 1141-1144)
 Devant « choisir » entre trahir Rome et trahir son nouvel allié, Coriolan doit être coupable lorsque le rideau tombe.
 
 
-##### Les sénateurs
+##### Les sénateurs.
 
 Le groupe des sénateurs est impersonnel. Ils sont au moins trois à intervenir (la scène 1 de l'acte II mentionne « un sénateur », « un second sénateur » et « un autre sénateur » ). Lorsqu'ils apparaissent sur scène, ils sont toujours en groupe, renforçant ainsi leur absence de personnalité particulière. Ils représentent, avec Sicinie, la seule véritable instance « politique » de la pièce. Mais leur rôle dans les intrigues de couloir qui ont amené à l'exil de Coriolan (notamment durant le procès, ou dans les négociations avec le peuple) est occulté, de même que les tensions à l'intérieur même du Sénat que note Plutarque (les plus jeunes des sénateurs plutôt favorables à Coriolan, les plus anciens au peuple).
 
@@ -624,7 +624,7 @@ Vous verserez du sang si nous versons des pleurs. (v. 419-422)
 Les sénateurs s'incluent dans le « nous » collectif du peuple romain, prêt à poursuivre Sicinie, normalement le tribun délégataire de ce peuple, de sa colère, s'il ne parvient pas à redresser la situation dont il semble être le seul responsable.
 
 
-##### Sicinie
+##### Sicinie.
 
 Tribun du peuple, ennemi personnel de Coriolan, il représente la cible de la colère du général au contraire de Rome tout entière. Contrairement à l'image qu'en donnent Plutarque et Tite-Live, qui en font volontiers un démagogue haineux à l'égard de la personne du général [91], Chevreau montre au public un personnage repentant, conscient de ses fautes et livré à la rancœur de Coriolan. Mais il reste un homme politique, un opposant farouche à Coriolan, qui ne renie pas le sens de ses actions passées :
 
@@ -648,7 +648,7 @@ Esperons tout du Ciel, & du succez des armes. (v. 307-308)
 C'est un dernier échec pour lui, qui n'apparaît plus sur scène après le deuxième acte, mais aussi pour la politique, qui n'a plus vraiment sa place dans la tragédie de Coriolan : car c'est bien par les larmes que le salut viendra, mais par les larmes de la mère, et non des sphères du pouvoir – politique ou religieux – de Rome.
 
 
-##### Verginie
+##### Verginie.
 
 Elle est la femme aimante et fidèle à son mari et prend une importance nouvelle dans la version de Chevreau par rapport à Plutarque et à Tite-Live. Chez les auteurs antiques, la femme de Coriolan n'a qu'un rôle secondaire, renforçant le pathétique de la scène de la supplique, mais n'intervenant pas réellement, puisque c'est le discours de la mère qui est décisif. Ce n'est pas le cas chez Chevreau.
 
@@ -675,7 +675,7 @@ Il doit lever le siege, & sortir de ces lieux. (v. 1179-1184)
 Verginie combine donc plusieurs rôles dans la pièce de Chevreau et a une place d'autant plus importante que c'est elle qui la conclut. Comme on l'a vu, Chevreau a donné à Verginie une importance qu'elle n'avait pas dans les récits antiques : une manière pour lui de donner un rôle à la mesure de Mlle Béguin, mais aussi de se plier aux envies du public, qui était friand des développements amoureux venus de la tragi-comédie.
 
 
-##### Velumnie
+##### Velumnie.
 
 La mère de Coriolan est un personnage incontournable pour Chevreau dans le sens où elle est la clef de la scène la plus célèbre de l'histoire. Dans la pièce, comme dans les textes antiques, elle est cantonnée à ce rôle. Elle apparaît seulement dans trois scènes : la première où elle accepte la proposition de Verginie d'aller rendre visite à son fils (II, 2) puis les deux suppliques devant Coriolan (III, 1 et IV, 3). Elle n'a pas l'initiative dans ses deux premières apparitions, puisque que lors de la première rencontre avec Coriolan, c'est Verginie qui a le temps de parole le plus important (77, 5 vers contre 11). Pourtant, suite à cette scène, c'est bien l'attitude de la mère qui semble avoir le plus frappé :
 
@@ -692,22 +692,22 @@ Le danger qui guette la mère par le seul projet de son fils est donc le déclen
 Conformément à la tradition antique, Chevreau construit le rôle de Velumnie autour de la scène attendue par le public : Coriolan fléchi par sa mère. Du reste, après cette scène, Velumnie quitte la scène et seule Verginie refera une apparition. Pour ce personnage, Chevreau a donc suivi la tradition antique, en accordant à la mère une longue tirade, sur laquelle l'auteur a compté pour montrer ses talents de poète [94].
 
 
-#### Importance du temps de parole
+#### Importance du temps de parole.
 
 Comme attendu, ce sont Coriolan et Aufidie, les deux principaux personnages, qui ont droit au temps de parole le plus important [95] (37 % des vers à eux deux). C'est ensuite Verginie qui arrive en troisième position, avec un rôle bien plus volumineux que ce que lui accordait la tradition jusqu'ici. On a déjà évoqué la possibilité d'un rôle « sur mesure » pour Marguerite Béguin, la Chimène du *Cid*, mais au-delà, Chevreau donne une place particulière aux femmes par rapport au nombre total de vers. En effet, en excluant Camille qui ne prononce que 26, 5 vers, Verginie et Velumnie prononcent 356 vers sur les 1515 que compte la pièce (soit près de 23 %). À titre de comparaison, chez Chapoton, Virginie et Volonnie ont à elle deux 13 % du temps de parole total (247 vers sur 1826). On constate donc un « contraste entre *l'importance dramatique* de l'élément féminin, et la *réduction* du nombre de personnages féminins par rapport à toutes les autres versions de l'histoire de Coriolan [96] ».
 
 Cette importance de l'élément féminin, par rapport aux groupes politiques par exemple (le temps de parole des femmes équilibre celui des hommes de pouvoir comme les Sénateurs), traduit la volonté de Chevreau d'insister davantage sur la tragédie personnelle que sur la tragédie politique. Cela participe à la pesanteur et au rythme tragique qu'il essaye d'insuffler à son œuvre.
 
 
-### Concentration des actions et pesanteur tragique
+### Concentration des actions et pesanteur tragique.
 
 
-#### Lenteur de la pièce
+#### Lenteur de la pièce.
 
 Le récit de Plutarque peut être adapté de diverses manières : Chapoton, comme Shakespeare, a écrit une pièce vaste, au rythme très rapide. Chevreau fait le choix inverse. Sa pièce se situe dans l'exacte moyenne des tragédies classiques selon l'abbé d'Aubignac (environ 1 500 vers [97]). Pour Jacques Scherer, le « nombre des scènes définit … la rapidité de la pièce. Si les scènes sont nombreuses, c'est que les allées et venues des personnages sont fréquentes, et que les apparitions des personnages sont assez courtes, puisque la durée de la pièce est à peu près constante ; si au contraire le nombre de scènes est peu élevé, ces scènes seront longues et le mouvement des personnages sera lent [98]. » D'après les moyennes de Scherer, pour qui « l'immense majorité des pièces en cinq actes du XVII*e* siècle comporte entre 25 et 40 scènes », *Coriolan*, avec 27 scènes au total, fait partie des pièces lentes.
 
 
-#### L'action resserrée autour de Coriolan
+#### L'action resserrée autour de Coriolan.
 
 En se concentrant sur la dernière partie de la vie de Coriolan, Chevreau a déjà effectué une contraction du récit de Plutarque. Bien plus, il a construit son action en la resserrant autour du héros éponyme.
 
@@ -797,7 +797,7 @@ Ce quiproquo, assez mal amené, obligeant Chevreau à de périlleuses circonvolu
 Le dramaturge français a donc largement réutilisé les informations fournies par Plutarque, mais les a modifiées, en a ajouté de nouvelles, enlevé certaines, pour dramatiser l'histoire et chercher à atteindre une nouvelle rythmique tragique.
 
 
-#### Défauts de construction et de liaison des scènes
+#### Défauts de construction et de liaison des scènes.
 
 Ce resserrement de l'intrigue et cette conciliation entre de multiples contraintes ont pu obliger Chevreau à sacrifier une certaine cohérence dans les détails. On a vu la disparition inexpliquée en terme de diégèse du personnage de Sicinie, une fois son rôle dramaturgique accompli en reportant la faute de l'exil de Coriolan sur sa personne plutôt que sur Rome.
 
@@ -855,14 +855,14 @@ Tu me viens de réduire en un étrange point [104]…
 On peut difficilement affirmer que Chevreau a laissé une véritable « dette » à ses successeurs, et notamment à Corneille. Il reste que ce dernier a sans doute lu le *Coriolan*, d'un auteur qu'il connaissait bien et qui a rédigé la « suite » de son *Cid*, et ce, pour François Lasserre, afin de « s'approprier les armes des réguliers ». La pièce de Chevreau n'est pas exempte de défauts de construction et de logique, mais avec le travail approfondi qu'il semble avoir accompli sur ses sources, il accompagne de façon notable le mouvement du théâtre français vers une véritable rythmique tragique.
 
 
-# Coriolan, tragédie des passions héroïques
+# Coriolan, tragédie des passions héroïques.
 
 Composé alors que la tragi-comédie est en déclin, le *Coriolan* de Chevreau annonce déjà, à bien des égards, la structure et le rythme de la tragédie classique. Pourtant Chevreau, en 1638, n'a pas oublié les tragi-comédies qu'il a déjà données sur la scène française, comme l'impact fantastique du *Cid* sur les auteurs dramatiques de l'époque. *Coriolan* est ainsi marqué par nombre d'éléments tragi-comiques, notamment dans les thèmes abordés – amour et vengeance, comment ne pas penser au Corneille de ses débuts ? – et dans la manière de les traiter. *Coriolan* met en jeu, au cœur du conflit tragique, passions héroïques et grandeur d'âme, dans un écho, encore palpable mais déjà évanescent, de la tragi-comédie finissante.
 
 Il s'agira d'analyser la pièce à travers son mode de progression et les valeurs et les thèmes avec lesquels Chevreau a décidé de construire les rouages de l'action. *Coriolan*, respectant aussi bien sa propre tradition que la vogue du théâtre des années 1630, est d'abord une tragédie de la vengeance, du ressentiment, présent partout et dans tous les rapports interhumains. En arrière-plan de cette tragédie de la vengeance se dresse le « surmoi » du patriotisme : comment concilier les intérêts supérieurs de la patrie avec un souhait mortel de revanche ? Mais si la tragédie entre dans sa « catastrophe », c'est bien à cause des passions, de l'amour familial et matrimonial, qui vient – une nouveauté de Chevreau – perturber le jeu politique.
 
 
-## La vengeance comme moteur de l'action
+## La vengeance comme moteur de l'action.
 
 Coriolan, héros tragique de la vengeance. C'est l'image présente dans tous les esprits des spectateurs et des dramaturges qui reprennent le récit de Plutarque. L'historien grec résume cette seule caractérisation du général que l'Histoire retiendra :
 
@@ -872,7 +872,7 @@ L'inflexibilité intraitable qu'il opposa aux députations et supplications inno
 Conformément à la tradition, Chevreau fait de la thématique de la vengeance une partie cruciale de la logique interne de sa pièce, dans la source de l'action comme dans développements successifs.
 
 
-### « Violence au cœur des alliances »
+### « Violence au cœur des alliances ».
 
 Bien que, selon les auteurs du XVIII*e* comme Clément et Laporte, le sujet du Coriolan « n'a jamais pu réussir au théâtre [106] », il reste que cette histoire est un excellent choix de tragédie. Par ce sujet, Chevreau a déjà l'instinct de ce qui sera, pour Georges Forestier, « l'expression pure de la violence tragique », « ce qu'Aristote nomme la violence au cœur des alliances [107] ». Ces violences montrent en quoi la pièce de Chevreau peut véritablement se classer dans la catégorie des tragédies.
 
@@ -901,7 +901,7 @@ Et malgré son pouvoir sa mort est assurée. (v. 1341-1346)
 En développant ce motif de la « violence au cœur des alliances », et en en proposant trois variantes dans sa pièce, Chevreau fait de *Coriolan* une véritable tragédie. Il articule ces trois étapes sur les trois moments clefs de l'intrigue : l'opposition entre Coriolan et Rome constitue la situation initiale, entre Coriolan et sa famille le questionnement central, et entre Coriolan et les Volsques la catastrophe conclusive. Toutes ces violences s'entrelacent pour peindre une pièce et une intrigue dominées par de multiples vengeances. La tragédie de *Coriolan* peut ainsi renouer avec une tradition passionnelle remontant à ses origines antiques.
 
 
-### La loi du Talion
+### La loi du Talion.
 
 Après la vogue tragi-comique, la tragédie s'appuie sur ses sources antiques pour renaître. Comme l'indique Elliott Forsyth, « lorsque la tragédie revient sur scène, elle laisse donc une part plus importante à cet aspect. Les mœurs, les sentiments, les idéaux de cette société polie vont investir la scène. Les passions fondamentales de la tragédie antique réapparaissent : haine, amour, ambition, vengeance [108]. » Chevreau s'inscrit parfaitement dans cette logique : dans son *Coriolan*, la vengeance et la haine sont omniprésentes.
 
@@ -988,7 +988,7 @@ Soufre-la sans horreur, tu la dois treuver belle. (v. 1507-1510)
 La vengeance est un processus essentiellement déceptif dans la pièce de Chevreau : échecs relatifs ou totaux des projets des trois principaux acteurs ; seul Aufidie réussira à tuer Coriolan – manifestation éclatante de la non-réalisation de ses vœux. Tragédie de l'impasse, *Coriolan* pose alors la question de la légitimité de ces poursuites sanglantes.
 
 
-### Motivations des actions
+### Motivations des actions.
 
 La vengeance de Coriolan est terrible pour Rome, menacée de voir l'horreur déferler sur elle, comme le rappelle Verginie :
 
@@ -1000,7 +1000,7 @@ Y doivent-ils ainsi faire leurs funerailles ? (v. 637-640)
 Face à ce projet choquant et presque irréaliste tellement la dureté de la sanction est sévère, les différents protagonistes vont tenter de légitimer leurs actions au regard de l'impasse dans laquelle ils ont conduit Rome.
 
 
-#### La recherche des responsables
+#### La recherche des responsables.
 
 La caractéristique de tous les personnages est de ne pas assumer leurs propres fautes. Les deux premiers actes sont en effet dédiés à une recherche inlassable des responsables de la situation, aux raisons qui les ont poussés à commettre tel crime ou telle faute. Comme on l'a vu, la responsabilité de la situation n'échoit pas à Coriolan, mais aux tribuns et aux sénateurs, qui, entre eux, s'accusent mutuellement. Si Chevreau a sauvé Coriolan de la responsabilité de la situation, il sauve aussi les Sénateurs, comme le remarque Angela Wahner [109]. En effet, les Sénateurs accusent Sicinie d'être lâche et envieux, en somme d'être lui-même un tyran, ce qui était le chef d'accusation principal de la condamnation de Coriolan.
 
@@ -1044,7 +1044,7 @@ Avec cette évocation méta-textuelle de l'irrépressible mécanisme tragique, C
 Face à la menace de Coriolan, aucune solution politique ne se profile. Les deux premiers actes de la pièce montrent que les personnages sont plus préoccupés par la désignation du responsable que par la sortie de crise. On l'a vu, le personnage de Sicinie disparaît après l'acte II. Cette incohérence dramatique (rien ne justifie une sortie aussi brutale de l'intrigue d'un personnage aussi important que le tribun du peuple) suit en quelque sorte cette nette séparation thématique entre les deux premiers actes et les trois derniers. Chevreau plante le décor de la vengeance de Coriolan – celle qui initie l'ensemble de la chaîne actantielle – aux actes I et II. Le personnage central de cette disposition, Sicinie, est donc au cœur de ces premières scènes. Lorsque la pièce se concentrera sur le retournement de Coriolan et ses émotions affectives, le personnage du tribun n'a plus d'utilité. La pièce de Chevreau semble donc, sur ce plan thématique, perdre de son unité.
 
 
-#### L'exemplification historique
+#### L'exemplification historique.
 
 Si la pièce montre une tendance certaine à l'excès – à l'*hybris* grecque – de Coriolan, Sicinie n'y échappe pas. Il ressort, du point de vue du spectateur, que sa vengeance politique est au mieux un acharnement inutile (c'est l'accusation des sénateurs), au pire une action gratuite sans fondement. Alors, à la justification des actions, les personnages vont aussi chercher à joindre une légitimation historique. Chevreau fait alors référence à plusieurs épisodes, toujours les mêmes, à travers lesquels les différentes actions de revanche de la pièce doivent être lues.
 
@@ -1070,7 +1070,7 @@ Que j'eusse de Lucresse & la honte & la mort. (v. 703-710)
 La légende de Lucrèce, que Chevreau lui-même a traitée dans une de ses pièces de l'année 1637, comme celle de Brutus et de Tarquin le Superbe, est donc un repoussoir utilisé, avec raison ou non, pour disqualifier le projet de vengeance de Coriolan, car l'histoire a montré l'injustice de ce type d'action. Mais face à l'exemplification historique se dresse l'obstacle, impérieux et incompressible, de la question d'honneur.
 
 
-### Le statut de la vengeance : personnelle, publique, divine
+### Le statut de la vengeance : personnelle, publique, divine.
 
 Pourquoi a-t-on le sentiment que la vengeance de Coriolan est hyperbolique ? Parce que, dans la présentation que Chevreau fait de son histoire, le général romain ne répond pas à ses adversaires sur le même plan que ceux qui l'accusent. On peut distinguer trois niveaux de vengeances dans la pièce qui seraient, théoriquement, distincts, mais qui se mêlent et se répondent, constituant ainsi la clef de la violence qui sourd du conflit entre les volsques et les Romains. On l'a déjà vu, la vengeance de Sicinie est présentée par Chevreau comme étant personnelle : le tribun en veut à l'homme Coriolan, par crainte de voir son autorité diminuée. Or, face à cette inimitié, Coriolan répond par une vindicte publique, qui englobe toute la cité, les sénateurs, les femmes et les enfants. C'est cette hyperbole de la sanction qui, en réalité, campe un Coriolan déraisonnable, plus que sa seule volonté de destruction. La violence s'exerce donc ici sur un plan autre que le contexte de guerre. Comme l'indique Angela Wahner [110], Coriolan ne fait plus aucune différence entre les actions de guerre et la destruction de sa ville natale : les deux sont fondus dans cette volonté de vengeance dans la sphère publique. C'est une des raisons qui a conduit Chevreau à placer la plus grande partie de son action à l'extérieur de Rome : du point de vue du camp Volsque, c'est Rome tout entière qui se dessine à l'horizon. C'est ce que ne comprennent pas les femmes qui ne s'expliquent pas pourquoi Coriolan veut à tout prix détruire la ville :
 
@@ -1115,17 +1115,17 @@ Changeront pour mon bien ton humeur sanguinaire ? (v. 1016-1017)
 La volonté de Coriolan d'accorder la vengeance divine avec la sienne est donc largement contestée par les Romains eux-mêmes. Ce n'est pas le meilleur argument que le général romain puisse avancer, car, dans la pièce de Chevreau, la place de la religion est très minime. Bien plus développée est la thématique politique et plus particulièrement celle du patriotisme, qui est au cœur du conflit tragique, ce que Chevreau indique par la voix même de son héros. Il reconnaît qu' « en cette Tragedie, / Le premier personnage est celuy d'Aufidie » (v.986-987), le chef volsque qui concentre volonté de vengeance et problématique politique.
 
 
-## Le patriotisme au centre des conflits
+## Le patriotisme au centre des conflits.
 
 Le point commun de toutes les versions de Coriolan, avant et après Chevreau, est le rapport problématique à la patrie et au patriotisme. C'est d'ailleurs un des thèmes principaux que l'on retient de cette légende aujourd'hui, par exemple à travers la tragédie de Shakespeare. Chevreau traite en profondeur le rapport de Coriolan avec sa patrie d'origine, non sans impliquer d'autres personnages dans cette problématique et notamment – vision nouvelle – les femmes.
 
 
-### Un patriotisme glorieux et déceptif
+### Un patriotisme glorieux et déceptif.
 
 Coriolan a été un patriote, un membre de l'armée romaine qui s'est distingué très vite pour sa bravoure au combat. Sa vision du patriotisme est teintée d'honneur et d'intransigeance. Ainsi, sa décision de se venger est-elle aussi à analyser comme l'expression d'une déception, qui s'exprime à de nombreuses reprises.
 
 
-#### La haute conception de la patrie
+#### La haute conception de la patrie.
 
 On peut considérer que la violence de la réaction de Coriolan est à la hauteur de sa représentation du sentiment patriotique. Ses premières paroles expriment le regret de son dévouement aveugle envers Rome.
 
@@ -1197,7 +1197,7 @@ Madame, accordez moy, s'il vous plaist un moment. (v. 739-742)
 Coriolan, écartelé entre son devoir, son honneur et sa fidélité, se trouve face à un dilemme tragique dans lequel on peut voir l'écho de Corneille.
 
 
-### Le conflit personnel : l'ombre cornélienne
+### Le conflit personnel : l'ombre cornélienne.
 
 Dans les paroles de Coriolan, le désir de vengeance se couple d'une volonté de défendre son honneur, aspiration déçue par le constat d'un projet déshonorant. Pourtant, cela montre qu'il n'est pas seulement mû par le désir de se venger d'un homme, mais de laver son honneur sali en public par Sicinie. Pour Forsyth, « le héros envisage la vengeance de son honneur personnel comme une obligation impérieuse [115] », obligation telle que plus rien ne compte à ses yeux, même pas les autres valeurs auxquelles un gentilhomme devrait être attaché :
 
@@ -1278,7 +1278,7 @@ Les strophes, moment-clef de la pièce, permettent de découvrir un Coriolan en 
 ### Les femmes, nouveaux porte-étendards ?
 
 
-#### Les femmes et la défense de Rome
+#### Les femmes et la défense de Rome.
 
 Moment particulièrement marquant de l'histoire de Rome, le renoncement de Coriolan marque un des rares épisodes où les femmes ont pu s'illustrer dans la défense de leur cité. Il s'agit d'un événement réellement unique, considéré comme tel par les auteurs antiques comme Valère-Maxime qui lui consacre un de ses *Faits et dits mémorables* :
 
@@ -1312,7 +1312,7 @@ Puisque Rome vous doit ce qu'elle aura jamais. (v. 1179-1188)
 Chez Chevreau comme chez Plutarque ou Valère-Maxime, Rome honore ses femmes, qui l'ont sauvée de la ruine. Mais le dramaturge français va plus loin que ce que lui suggèrent les auteurs antiques, en faisant du personnage de la mère une véritable représentante du patriotisme romain.
 
 
-#### Velumnie : le patriotisme incarné
+#### Velumnie : le patriotisme incarné.
 
 Chevreau donne une dimension inédite au personnage de la mère de Coriolan, notamment grâce à son traitement original de la scène de la supplique – la plus importante pour ce rôle. Comme l'indique Elliott Forsyth [120], avec son premier refus et sa demi-décision après son monologue de l'acte III, Coriolan « s'efforce de défendre la notion d'honneur, après avoir entendu les supplications des Romaines, contre les assauts de plus en plus rudes du sentiment patriotique et des liens du sang ». Ce faisceau d'intérêts entre la famille et la Cité est incarné par Velumnie qui tisse longuement les rapports entre les deux dans sa longue tirade. D'un ton très dur et violent envers son fils, elle lui reproche tout d'abord l'inhumanité de sa décision – au sens presque propre, puisque Chevreau file la métaphore de la bestialité.
 
@@ -1356,13 +1356,13 @@ Excite leur vangeance, & rallume leurs feux. (v. 1049-1052)
 C'est bien au nom du peuple romain, autant que comme mère, que parle Velumnie ici. Le lien entre les relations filiales et la relation patriotique entre l'homme et la Cité est particulièrement marqué. Ainsi Chevreau peint-il un tableau particulièrement original de la supplique de la mère par rapport à ses prédécesseurs, car le rôle endossé ici par Velumnie ne se retrouve nulle part ailleurs. Chevreau seul en fait ce que la tradition baroque a appelé une « femme forte ». Par sa force de persuasion, par sa colère et ses sentiments élevés, Velumnie est celle qui peut se mesurer au jeune héros, chef militaire de surcroît. Le poids dramaturgique des femmes est donc d'une importance plus décisive au regard de leur présence en scène que dans toute autre adaptation de l'histoire de Coriolan, car elles investissent un espace qui ne leur est normalement pas destiné, celui de la politique, qui, on le voit, tisse des liens très étroits avec les relations personnelles. Car Chevreau n'oublie pas l'amour et les passions, dont le public habitué à la tragi-comédie était si friand.
 
 
-## Amour et pitié
+## Amour et pitié.
 
 
 ### L'amour : une faiblesse pour Coriolan ?
 
 
-#### Une contribution au basculement
+#### Une contribution au basculement.
 
 Dans le récit de Plutarque, l'amour que porte Coriolan à sa mère, s'il est bien évidemment la raison par laquelle le général en vient au pardon, est plutôt une dimension secondaire de la légende, rappelée au début du récit comme étant un trait constitutif de son caractère :
 
@@ -1424,7 +1424,7 @@ L'art de nous bien conduire, & celuy de regner. (v. 1043-1048)
 Le lien affectif, qu'il soit maternel ou matrimonial, est donc l'occasion pour Coriolan d'embrasser à nouveau les valeurs qu'il avait perdues. Grâce à cette scène, il retrouve son statut initialement perdu ; pour les codes romains, il redevient un « héros ». Pour les codes du public cependant, il reste un traître à la cause volsque et pour les Volsques, un traître à la foi jurée, comme nous l'avons analysé au chapitre 3. La présence de l‘intrigue passionnelle se justifie, mais il reste pour Chevreau un problème : comment exploiter le plus efficacement les deux rôles féminins que le récit de Plutarque l'oblige à considérer ?
 
 
-### Amour matrimonial, amour maternel
+### Amour matrimonial, amour maternel.
 
 
 #### Le surgissement de l'intime : impératif ou concession à la mode ?
@@ -1463,7 +1463,7 @@ Que les plus fortunez en deviendront jaloux. (v. 1115-1120)
 Cependant, Chevreau a bien ménagé une place notable à Verginie dans sa pièce. Elle n'est pas sur le devant de la scène, car elle est éclipsée par l'impressionnante tirade de Velumnie, mais son temps de parole reste plus important, et, surtout, c'est à elle que le dramaturge a réservé la conclusion.
 
 
-#### Le dénouement : la marque de Chevreau
+#### Le dénouement : la marque de Chevreau.
 
 Si l'on devait ne retenir qu'une des différences fondamentales entre Chevreau et les autres dramaturges qui ont traité de Coriolan, il faudrait se pencher sur la dernière scène, qui constitue une marque forte de l'identité de cette pièce. À la suite d'Alexandre Hardy, Chevreau ne laisse sur scène qu'une femme, Verginie (quand Hardy donnait les derniers mots à la mère), qui se lamente devant le corps sans vie de son mari et qui clôt la pièce sur la perspective d'un suicide. Une comparaison – brève – avec la pièce de Chapoton donne tout son sens au choix de Chevreau.
 
@@ -1501,7 +1501,7 @@ La pièce de Chevreau se ferme donc par la voix de la femme aimée, et non par c
 Si Chevreau en arrive à la même conclusion (ce n'est pas le Sénat qui est responsable, mais la haine d'un homme, Sicinie), cette dernière scène montre bien la ligne de partage claire qui distingue la pièce de l'Hôtel de Bourgogne et celle du Marais, entre une tragédie éminemment politique et spectaculaire, et une autre qui, sans oublier les interrogations politiques, laisse une large part à l'intime et à l'expression des passions héroïques.
 
 
-# Conclusion
+# Conclusion.
 
 Urbain Chevreau est aujourd'hui une « plume sans histoire [127] ». Totalement méconnu du grand public, il ne survit encore parmi nous que grâce à sa poésie, quelques vers élégants et raffinés qui ont pu percer le tapis des années, des critiques, et surtout des chefs-d'œuvre qui sont légion tout au long de ce Grand Siècle. Pas vraiment dramaturge, pas vraiment poète, Urbain Chevreau n'a pas su imposer son style, et encore moins son talent théâtral, qu'il a bien vite laissé dans l'oubli pour aller tenter sa chance ailleurs, dans un monde de lettres et d'érudition.
 
@@ -1514,10 +1514,10 @@ Cependant, en modifiant le plan de la légende de Coriolan pour l'adapter à son
 Faut-il croire que le théâtre de Chevreau ait pu inspirer un grand homme comme Corneille ? Sans doute pas. Mais il est sûr que le deuxième a lu le premier, preuve que le passage rapide de Chevreau par le théâtre a laissé quelques traces. Après *Coriolan*, il tentera à trois autres reprises une incursion sur les scènes parisiennes, avec *Les Deux amis* (1638), *Les véritables frères rivaux* (1641) et l'*Innocent exilé* (1640), deux tragi-comédies et une tragédie, signes de l'hésitation à choisir entre un genre nouveau et prometteur, et un ton déclinant qu'il n'aura jamais vraiment quitté. Succès relatifs, voire échecs étant donné l'absence d'échos de ces pièces, par lesquelles Chevreau dit adieu définitivement au théâtre, en tant que dramaturge. Car il continuera, tout au long de sa vie, à avoir des liens avec les auteurs majeurs du siècle, de Corneille à Chapelain, preuve que la « plume sans histoire » avait encore de quoi écrire.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Éditions utilisées
+## Éditions utilisées.
 
 La présente édition reproduit l'édition originale du *Coriolan* d'Urbain Chevreau, dont le privilège est daté du 4 juin 1638, et l'achevé d'imprimer du 12 juin 1638. Le volume fait suivre la pièce d'une série d' « Œuvres diverses », reproduites intégralement dans la première partie des annexes. L'édition suivie se trouve à la Bibliothèque Nationale de France, sous la cote Rés. Yf-517. Nous avons consulté d'autres exemplaires, présentant un texte identique, de la même édition :
  * – Un se trouve à la Bibliothèque Sainte-Geneviève, à Paris, sous la cote DELTA 51452 FA, recueil factice des pièces de Chevreau (volume 1).
@@ -1525,7 +1525,7 @@ La présente édition reproduit l'édition originale du *Coriolan* d'Urbain Chev
  * – Un se trouve à la Médiathèque François-Mitterrand de Poitiers, sous la cote CR 223.
 
 
-## Interventions sur le texte
+## Interventions sur le texte.
 
 Nous avons scrupuleusement respecté la graphie et l'orthographe de l'époque, sauf en cas d'erreur manifeste de l'imprimeur. De même, nous avons suivi au plus près la ponctuation, même quand la règle de l'époque contrevient à l'usage moderne, sauf, là encore, en cas d'erreur typographique manifeste.
 
@@ -1576,7 +1576,7 @@ remarquerez. (v.1287)
 frere. (v.1334)
 
 
-## Description de l'édition originale de 1638
+## Description de l'édition originale de 1638.
 
 *Coriolan, tragédie*, In-4°, 15 feuillets dont 1 non paginé, 124 pages XII-112p.. Privilège du 4 juin 1638 ; achevé d'imprimé le 12 juin 1638.
 
@@ -1603,7 +1603,7 @@ XII bandeau LES ACTEURS. / liste des acteurs.
 99-112 : Œuvres diverses.
 
 
-## Remerciements
+## Remerciements.
 
 Je tiens tout particulièrement à remercier ici :
 
@@ -1621,7 +1621,7 @@ Et, bien sûr, Monsieur Georges Forestier.
 # CORIOLAN TRAGEDIE.
 
 
-## **A MONSIEUR DE BAUTRU, BARON DE SERRANT** [128], **CONSEILLER ORDINAIRE DU ROY EN SES CONSEILS DESTAT ET PRIVE, &c.**
+## **A MONSIEUR DE BAUTRU, BARON DE SERRANT** [128], **CONSEILLER ORDINAIRE DU ROY EN SES CONSEILS DESTAT ET PRIVE, &c.**.
 
 MONSIEUR,
 
@@ -1955,14 +1955,14 @@ Que je suis leur plus grand, & leur pire ennemy ;
 Que je boiray leur sang ; que j'auray l'esprit libre  
 Si j'en puis voir un fleuve aussi grand que le Tybre.  
 
-    SICINIE
+    SICINIE.
 bas.
 
 Ruiner son païs, & tuer [190] ses parens⁎,  
 N'a rien de genereux⁎ ; c'est le fait des Tyrans.  
 
 
-### SCENE QUATRIESME 
+### SCENE QUATRIESME. 
 
     AUFIDIE.
 Que vouloit ce Romain ?  
@@ -2379,7 +2379,7 @@ Qui dans une heure ou deux la va reduire en poudre.
 
 ### SCENE PREMIERE.
 
-    CORIOLAN
+    CORIOLAN.
 dans son Camp [246] levant sa fame qui est à genoux.
 
 Madame en cét estat je ne puis vous parler.  
@@ -2638,7 +2638,7 @@ Il faut que son païs soit tout à fait détruit.
 
 ### SCENE TROISIESME. 
 
-    CORIOLAN
+    CORIOLAN.
 seul dans son Camp.
 
 
@@ -2802,7 +2802,7 @@ Vostre retardement les pourroit mettre en peine [283] ;
 Allez leur asseurer que Rome doit perir,  
 Et qu'en differant trop vous me faites mourir.  
 
-    CORIOLAN
+    CORIOLAN.
 en s'en allant.
 
 Allons, Coriolan, treuvons toutes nos forces,  
@@ -3077,7 +3077,7 @@ Outre que son humeur⁎ le porte à se vanger.
 
 ### SCENE CINQUIESME. 
 
-    CORIOLAN
+    CORIOLAN.
 à Aufidie.
 
 Elles rentrent dans Rome, & sans aucune envie  
@@ -3102,7 +3102,7 @@ Je m'en vais donner ordre à ce qu'il faut tenter.
 
 ### SCENE SIXIESME. 
 
-    CORIOLAN
+    CORIOLAN.
 avec Sancine.
 
 Il n'a pas bien compris ce que je viens de dire,  
@@ -3490,7 +3490,7 @@ Cependant qu'il [333] médite usons de l'avantage,
 Ne luy donnons pas lieu d'épreuver son courage.  
 Ah traistre ! tu mourras, c'est un arrest⁎ du sort⁎.  
 
-    CORIOLAN
+    CORIOLAN.
 en tombant.
 
 Ils se jettent sür Coriolan
@@ -3578,15 +3578,15 @@ Ou si tu peux treuver une mort plus cruelle
 Soufre⁎-la sans horreur, tu la dois treuver belle.  < FIN. >
 
 
-# Lexique
+# Lexique.
 
 Nous avons adopté les abréviations suivantes : (F) = Furetière, *Dictionnaire universel* ; (R) = Richelet, *Dictionnaire françois* ; (A) = *Dictionnaire de l'Académie* (1694).AllegeanceSouslagement d'un mal (F)V. 83AmitiéAffection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. Plaisir, bon office. (F)V. 617 ; 1181AmorceCharme, apas (R)V. 930 ; 1133ArrêterEmpescher quelque chose de se mouvoir, d'aller plus loinV. 735 ; 1121 ; 1268Cesser de faire quelque chose (R)ÉpitreConvenir des conditions. Conclurre aprés quelque deliberation, soit en soy-même, soit en compagnie. (F)V. 1076BalanceIncertitude, irrésolution (R)V. 67 ; 380 ; 787BalancerDemeurer en équilibre aprés avoir esté agité de part et d'autre. Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. (F)V. 882 ; 909BienEn termes de Jurisprudence, signifie, Toutes sortes de possessions et de richesses. (F)V. 189 ; 972 ; 1119Bonnes actions, bons offices, bienfaits, services. (F)V. 18 ; 82 ; 89 ; 146 ; 274 ; 293 ; 674 ; 857 ; 956 ; 1430Plaisir, bonheur (R)V. 448 ; 674 ; 571 ; 796 ; 1018Intérêt, utilité (R)V. 1038BontezEn Morale Chrêtienne, se dit de la vertu, et particulierement de la charité, de la douceur, des mœurs, de l'inclination à assister son prochain, de la patience à souffrir les afflictions, les injures (F).V. 283 ; 872 ; 902 ; 1029CependantPendant ce temps.V. 17 ; 237 ; 327 ; 561 ; 992 ; 1031 ; 1049 ; 1135 ; 1217 ; 1326 ; 1405 ; 1445CharmesPuissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature. Se dit figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration. (F)V. 591 ; 1106 ; 1285ChimereSe dit figurément des vaines imaginations qu'on se met dans l'esprit, des terreurs et des monstres qu'on se forge pour les combattre, des esperances malfondées que l'on conçoit, et generalement de tout ce qui n'est point reel et solide. (F)V. 897 ; 1162ConfondreTroubler profondément, en parlant des personnes, jusqu'à brouiller l'esprit ; bouleverser. (F)V. 739ConseilToute sorte d'advis qu'on prendV. 1499Résolution (F)V. 67 ; 337 ; 471 ; 1343ConsidérerS'attacher à regarder avec attention, à examiner quelque chose. Faire reflexion. Estimer une chose pour sa valeur, pour son merite. (F)V. 682.ConsommerAccomplir, achever, mettre dans sa derniere perfection. (R). Le terme se confond encore avec *consumer* « porter à son comble, amener à sa destruction en employant la chose à son usage ». La confusion est critiquée par Vaugelas.V. 7 ; 306 ; 385 ; 600 ; 1122DécevoirTromper (F)V. 261 ; 1079DélicesChose agreable qui donne du plaisir aux sens, ou à l'esprit. Se dit ordinairement au pluriel. (F)V. 539 ; 852DésertAbandonné (en parlant des personnes). Lieu qui n'est pas habité.V. 96 ; 439 ; 627 ; 862 ; 1414DueilDouleur qu'on sent dans le cœur pour quelque perte ou accident, ou la mort de quelque personne chere (Furetière)V. 43 ; 322 ; 441 ; 478 ; 637Ennui/EnnuyChagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long (F).V. 21 ; 693 ; 1020EntrepriseCe qu'on a résolu de faire. Ce qu'on s'est chargé d'éxécuter. (R)V. 371 ; 487 ; 769 ; 909 ; 1066 ; 1114 ; 1437 ; 1458EstonnerCauser à l'âme de l'émotion, une violente commotion, par surprise, admiration ou crainte (F)Épitre ; 120 ; 741EbatDivertissement. (F)V. 259 ; 1271EsprouverExperimenter, essayer. (F)V. 426EstrangeSurprenant, grand, extraordinaire, fâcheux. (R)V. 48 ; 135 ; 1433FantaisieL'imagination, la seconde des puissances qu'on attribuë à l'ame sensitive, ou raisonnable. determination de l'esprit à croire ou à vouloir les choses selon les impressions des sens. ce qui est opposé à la raison, et signifie Caprice, bizarrerie (F)V. 272 ; 519FeintesDissimulation, Deguisement, Artifice par lequel on cache une chose, sous une apparence contraire. (A)V. 656 ; 1391FidelleEn qui on peut avoir foi, en parlant des personnes.V. 1158 ; 1254 ; 1426 ; 1438En quoi on peut avoir foi, conforme à la vérité.V. 126Fidélité Sorte de vertu qui consiste à observer éxactement et sincérement ce qu'on a promis. Loiauté. (R)V. 1255InjureParole qu'on dit pour offenser quelqu'un, en luy reprochant quelque defaut, ou quelque vice vray ou faux ; se dit aussi des affronts, des torts et dommages qu'on fait à une personne par voyes de fait. (F)V. 48 ; 311 ; 408 ; 527 ; 568 ; 1077 ; 1222 ; 1338InfidélitéVice contraire à la fidélité Trahison. (R)V. 165InfidelleQui n'a point de fidélité, qui a manqué à sa foi.V. 768 ; 1238 ; 1270 ; 1449FoySerment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. (F) V. 565 ; 634 ; 931 ; 1269FortuneDéesse à qui les Païens donnoient la disposition de toutes les choses du mondeÉpitreHazardV. 264 ; 320 ; 455 ; 532 ; 680Bonheur. Agrandissement. (R)V. 1065 ; 1078 ; 1120 ; 1337Franc, franchiseQui ne desguise rien, qui parle avec sincerité, qui est veritable. Qui est en liberté. Exempt des charges et impositions publiques ou particulieres. (F)V. 372 ; 488 ; 1457FrivoleInutile, vain. (R)V. 752 ; 1493FunesteQui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable. (F)V. 27 ; 107 ; 239 ; 443 ; 812 ; 1485Qui concerne la mort, funèbre V. 223GénéreuxQui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest.V. 246 ; 1498Signifie aussi, Brave, vaillant, courageux. (F)V. 474 ; 563GloireHonneur aquis par de belles actions. Le mot de *gloire* signifiant *orgueil* se prend en bonne et mauvaise part. (R)Épitre ; 191 ; 318 ; 364 ; 467 ; 519 ; 572 ; 799 ; 838 ; 885 ; 896 ; 907 ; 1006 ; 1061 ; 1258 ; 1409HumeurCe terme renvoie, dans la théâtre du XVII*e* siècle, à la théorie des quatre humeurs, qui sont sensées « abreuver tous les corps des animaux », et influencer sur leur état psychique, selon l'humeur dominante (le flegme, l'humeur sanguine, la bile – ou humeur noire –, la mélancolie). Substance fluide dont les parties sont en mouvement. (F)V. 1018Se dit en Morale, des passions qui s'esmeuvent en nous suivant la disposition ou l'agitation de ces quatre *humeurs*. Presque en ce sens se dit de la resolution, de la disposition de l'esprit. (F)V. 527 ; 1148ImpitoyableCruel, barbare, qui n'a point de pitié des maux de son prochain (F).V. 296 ; 1426InfamieDéshonneur, ce qui donne du mépris.V. 15 ; 1214Paroles injurieuses, affronts qu'on fait à quelqu'un (F)V. 237InterestCe qu'on a affection de conserver ou d'acquerir, ce qui nous importe soit dans nostre personne, soit dans nos biens.Privilège ; 372 ; 543 ; 619 ; 622 ; 1176Signifie quelquefois en Morale, Passion. (F)V. 1116IrriterFascher, offenser, mettre en colere.V. 10 ; 85 ; 312 ; 376 ; 577 ; 1001 ; 1134 ; 1436Se dit figurément en choses morales, et signifie exciter, rendre plus vif et plus fort. (F)V. 5 ; 995MachinerConspirer contre quelqu'un, faire agir plusieurs ressorts secrets pour le perdre, pour luy nuire. (F)V. 117 ; 287MiserablePauvre, malheureux. Qui est dans un état fâcheux. (R)V. 92 ; 284 ; 396 ; 604 ; 697 : 1330MouvemensPensée, sentiment. Tout ce qui touche et meut le cœur. (R)V. 851 ; 897 ; 1087ObligerContraindre, engager par une sorte de devoir, ou de bien-séance.V. 377 ; 865 ; 884 ; 1195 ; 1395Forcer à faire, ou à ne pas faire. V. 25 ; 379 ; 492 ; 1237 ; 1319Faire plaisir, rendre un bon officeV. 1375 ; 1419 ; 1424ParensPersonne qui nous est unie par le sang. Race, famille. Proximité et alliance que le sang a établie entre de certaines personnes. (R)V. 245 ; 442 ; 623 ; 783 ; 800 ; 883 ; 955Pitié Passion de l'ame qui est esmeuë de tendresse, de compassion, en voyant la douleur, ou la misere d'autruy. (F)V. 65 ; 148 ; 172 ; 432 ; 437 ; 618 ; 761 ; 914 ; 919 ; 940 ; 1129 ; 1199 ; 1232 ; 1253 ; 1352 ; 1397 ; 1431PrévenirAnticiper. Aller au devant d'une chose et en détourner ce qu'il en pourroit arriver de fâcheux.  (R) V. 715PrévoyanceFaculté ou action de prevoir. (A)V. 547PrévoirJuger par avance qu'une chose doit arriver. (A)V. 1005ProcurerCauser quelque chose à quelqu'un. Faire en sorte qu'une personne ait quelque chose. Etre cause de quelque chose. (R)V. 34 ; 60 ; 144 ; 314 ; 1386 ; 1430Propice Favorable (F)V. 420 ; 1389 ; 1505ProspereHeureux, favorable. (F)V. 171 ; 779 ; 1229RemontrerFaire voir. Faire considérer. Représenter. (R)V. 41RespectDeference, honneur, soûmission qu'on fait à son superieur.V. 430 ; 446 ; 1182 ; 1352Signifie quelquefois, Consideration, égard. (F)V. 268 ; 270RessentimentQuelque reste de douleur qu'on a de tems en tems. Quelque nouvelle ataque de mal. Quelque sentiment de malV. 139Ressouvenir d'une injure qu'on nous a faite. (F)V. 525Sensible Ce mot se dit des choses et des personnes et veut dire *délicat*, qui sent les choses qui le touchent, ou qui le choquent, qui a de la sensibilité pour les gens qui l'obligent.V. 56 ; 310 ; 440 ; 628 ; 942 ; 982 ; 1058 ; 1144 ; 1234 ; 1261Qui a du ressentiment. (R)V. 667Qui frappe les sens. D'où « Insensible » : qui se connoist difficilement par les sens (A)V. 128SentimentBon vouloir, zèle, dévouementV. 678Avis, opinion, pensée.ÉpitreSoinInquiétude d'esprit, travail d'esprit venant de la forte aplication qu'on donne à quelque chose, aplication d'esprit, aplication de la personne qui prend garde à quelque chose. (R)Épitre ; 679 ; 743 ; 987 ; 1017 ; 1167 ; 1264SortHasard, ce qui arrive fortuitement, par une cause inconnuë, et qui n'est pas reglée ni certaine. Incertitude des evenements. (F)V. 69 ; 119 ; 153 ; 314 ; 395 ; 450 ; 548 ; 601 ; 709 ; 779 ; 824 ; 973 ; 1151 ; 1170 ; 1229 ; 1311 ; 1389 ; 1447 ; 1491 ; 1504SouffrirSupporter patiemment, sans révolte, tolérer.V. 703 ; 1510Permettre, laisser passer, consentir.V. 611 ; 1098Supporter, subir, endurerV. 101 ; 102 ; 113 ; 298 ; 427 ; 662 ; 837 ; 864 ; 975 ; 1034 ; 1144 ; 1151SubtilSe dit figurément en choses spirituelles et morales. Un esprit *subtil*, est celuy qui comprend aisément les choses. (F)Avertissement ; 949 ; 1049 ; 1356SurmonterSurpasser, se mettre au dessus de quelque chose. Se dit figurément en choses morales, et signifie, vaincre, avoir avantage sur quelqu'un. (F)V. 914 ; 1242 ; 1283 ; 1408TransportSe dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. (F)V. 847 ; 1001 ; 1118 ; 1159TristeSombre, lugubre, funeste, redoutableV. 42 ; 64 ; 199 ; 227 ; 443 ; 468 ; 515 ; 660 ; 711 ; 917 ; 1019 ; 1062 ; 1109 ; 1239TristesseAffliction, abbattement de cœur causé par quelque accident fascheux. (A)V. 612 ; 1245TroublerCauser du désordre, aporter de la confusion.V. 519 ; 526Fâcher. Epouvanter, inquiéter. (R)V. 369 ; 1076 ; 1221VertuPuissance d'agir qui est dans tous les corps naturels suivant leurs qualitez ou proprietez. Force, vigueur, tant du corps que de l'ame.V. 253 ; 398 ; 1068Se dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy et la raison. (F)Épitre ; 872 
 
 
-# Annexe nº 1 : Œuvres diverses
+# Annexe nº 1 : Œuvres diverses.
 
 
-## A MONSEIGNEUR L'EMINENTISSIME CARDINAL DUC DE RICHELIEU ⁎ ODE ⁎ 
+## A MONSEIGNEUR L'EMINENTISSIME CARDINAL DUC DE RICHELIEU ⁎ ODE ⁎. 
     
 
 Quand la France connoit vostre fidelité  
@@ -3707,7 +3707,7 @@ Ou si l'Estranger les veut lire,
 Il faut qu'il nous ouvre le cœur.  
 
 
-## A MADAME LA DUCHESSE DE LORRAINE. ⁎ STANCES ⁎ 
+## A MADAME LA DUCHESSE DE LORRAINE. ⁎ STANCES ⁎. 
     
 
 Adorable Princesse, objet de mille cœurs  
@@ -3753,7 +3753,7 @@ N'acquit point par son bras ny par son grand courage
 Les cœurs qu'elle acquiert par ses yeux.  
 
 
-## A MONSEIGNEUR L'ARCHEVESQUE DE BORDEAUX ⁎ STANCES ⁎
+## A MONSEIGNEUR L'ARCHEVESQUE DE BORDEAUX ⁎ STANCES ⁎.
     
 
 Digne & puissant autheur de ces rares merveilles  
@@ -3891,7 +3891,7 @@ Bref depuis peu pour plaire aux plus pressens
 Elle a tout à fait.  
 
 
-## POUR UN PORTRAIT. ⁎ SONNET ⁎ 
+## POUR UN PORTRAIT. ⁎ SONNET ⁎. 
     
 
 Ha ‘Peintre que ton huile entretient bien ma flamme !  
@@ -3913,7 +3913,7 @@ Il n'en faut plus douter ; car puis qu'il luy ressemble
 Comme l'original le portrait est sans cœur.  < FIN. >
 
 
-# Annexe nº 2 : Nombre de vers prononcés par personnage
+# Annexe nº 2 : Nombre de vers prononcés par personnage.
  | Coriolan | Sicinie | Sancine | Aufidie | Verginie | Velumnie | Camille | Sénat. | Volsques | TOT.
 Acte 1 |  |  |  |  |  |  |  |  |  | 
 Sc.1 |  | 16 |  |  |  |  |  | 54 |  | 70
@@ -3960,7 +3960,7 @@ RANG | 1 | 6 | 5 | 2 | 3 | 7 | 9 | 4 | 8 | 
 
 
 
-# Annexe nº 3 : Jugements sur Coriolan
+# Annexe nº 3 : Jugements sur Coriolan.
 
 
 
@@ -3988,14 +3988,14 @@ Qui croirait qu'on ait jamais pu s'aviser de représenter, dans Coriolan, un aut
 En introduisant l'amour dans la tragédie de *Coriolan* et en faisant du fier et rancuneux patricien un mari sentimental et romanesque, Chevreau cédait à l'empire de la mode. L'amour régnait alors sur le théâtre, et aucun personnage n'y était reçu, s'il ne soupirait galamment. Coriolan soupire donc, et soupire pour sa femme, sentiment plus édifiant que dramatique. C'est aussi à sa femme et non à sa mère qu'il accorde la grâce des romains, démenti singulier donné à l'histoire. Mais la mode ne s'inquiète guère des métamorphoses qu'elle fait subir aux héros de l'histoire : elle vise à plaire aux préjugés et aux goûts du moment. Dans Chevreau, Coriolan est un Céladon.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## CorpusCoriolan
+## Corpus.Coriolan
 
 
 
-## Sources imprimées antérieures à 1800Registres de l'état-civil de Loudun
+## Sources imprimées antérieures à 1800.Registres de l'état-civil de Loudun
 Mémoires concernant les vies et les ouvrages de plusieurs modernes célèbres dans la République des Lettres
 Le Véritable Coriolan
 Lettres nouvelles
@@ -4018,10 +4018,10 @@ Coriolan
 
 
 
-## Sources antiques
+## Sources antiques.
 
 
-### OuvragesLa Poétique
+### Ouvrages.La Poétique
 La Rhétorique
 Antiquités romainesEdition, traduction et commentaire du livre VII des Antiquités romaines de Denys d'Halicarnasse
 Vie de CoriolanVies Parallèles
@@ -4030,19 +4030,19 @@ Faits et dits mémorables
 
 
 
-### Sur les sources antiquesPlutarque et les femmes dans les Vies parallèles
+### Sur les sources antiques.Plutarque et les femmes dans les Vies parallèles
 
 
 
-## Documents de travail
+## Documents de travail.
 
 
-### BibliographiesBibliographie de la littérature française du XVIIe siècle
+### Bibliographies.Bibliographie de la littérature française du XVIIe siècle
 Bibliographie der französischen Literaturwissenschaft
 
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise.... avec les termes les plus connus des arts et des sciences
 Dictionnaire de la mythologie grecque et romaine
@@ -4052,14 +4052,14 @@ Dictionnaire encyclopédique d'histoire
 
 
 
-### Grammaire, ponctuationLe Français classique. Lexique de la langue du XVIIème siècle
+### Grammaire, ponctuation.Le Français classique. Lexique de la langue du XVIIème siècle
 Introduction à l'analyse des textes classiques
 Grammaire du français classique
 Syntaxe française du XVIIème siècle
 
 
 
-## Ouvrages historiques ou générauxHistoire de la littérature française au XVIIe siècle
+## Ouvrages historiques ou généraux.Histoire de la littérature française au XVIIe siècle
 Morales du Grand Siècle
 L'affirmation de l'État absolu, 1492-1652
 Histoire littéraire du Poitou
@@ -4071,7 +4071,7 @@ Lire le théâtre II, L'école du spectateur
 
 
 
-## Ouvrages et articles sur le théâtre du XVII*e* sièclePierre Corneille, Poetics and political drama under Louis XIII
+## Ouvrages et articles sur le théâtre du XVII*e* siècle.Pierre Corneille, Poetics and political drama under Louis XIII
 Seventeenth-Century French Studies
 Le Théâtre de l'Hôtel de Bourgogne
 Le Théâtre du Marais
@@ -4087,7 +4087,7 @@ La Dramaturgie classique en France
 
 
 
-## Ouvrages et articles sur Urbain ChevreauUrbain Chevreau, sa vie, ses œuvres : étude bibliographique et critique
+## Ouvrages et articles sur Urbain Chevreau.Urbain Chevreau, sa vie, ses œuvres : étude bibliographique et critique
 CoriolanPapers of French Seventeeth Literature
 Actualités Poitou-Charentes
 Bulletin de la Société des Antiquaires de l'Ouest et des Musées de Poitiers*ème*

@@ -17,40 +17,40 @@ A PARIS, Chez JEAN RIBOU, au Palais, vis-à-vis la porte de l'Eglise de la Saint
     maîtrise sous la direction de Georges Forestier (2003-2004).
 
 
-# Introduction
+# Introduction.
 
 Un gentilhomme, qui mène une vie plaisante et honorable en Beauce, avec vaches et dindons, se met en tête d'épouser sa cousine, une Parisienne entourée de galants. Le voilà donc à Paris, chez la jeune femme, décidé à conclure cette union tout à fait incongrue : la servante du logis, qui a son franc parler, ne fait-elle pas remarquer que ce vieil hobereau, jaloux et bourru, serait bien mieux assorti avec la mère de sa maîtresse ? Le Beauceron a affaire à forte partie car la belle et ses acolytes, amant et serviteurs, multiplient les fourberies pour tromper sa vigilance et ne sont guère embarrassés de se retrouver en rendez-vous amoureux. Aussi son séjour dans la capitale sera-t-il de courte durée puisque berné de la belle manière, il se résigne finalement à regagner son village, non sans avoir été soulagé, entre-temps, de vingt louis par un valet effronté et non sans exhaler aussi son indignation contre les mœurs parisiennes. Ruses, déguisements et renversements de situation, tels sont les ressorts de cette comédie que son auteur, sérieux concurrent de Molière, eut la satisfaction de voir jouée devant le roi. On retrouve les situations et les personnages conventionnels de la comédie d'intrigue mais dans la maison de la cousine, « ouverte à tous venans », défilent aussi quelques figures pittoresques du théâtre parisien : le noble campagnard, le provincial, l'étranger et le joueur invétéré. Paris et son fol engouement pour les loteries, ses ricanements sur la province, sa coquetterie, voilà ce que dramatise l'auteur. Jeu de rôle et jeu social ; acteurs et hypocrites : les personnages sont tour à tour masqués et démasqués. Il ne s'agit pas pour autant de juger les mœurs contemporaines car le dramaturge, loin de posséder la rigueur moralisatrice de son héros ridicule, préfère rire des travers de la société.
 
 
-# Le Gentilhomme de Beauce et son auteur
+# Le Gentilhomme de Beauce et son auteur.
 
 
-## Montfleury et le genre comique
+## Montfleury et le genre comique.
 
 
-### La carrière d'Antoine-Jacob Montfleury
+### La carrière d'Antoine-Jacob Montfleury.
 
 L'*Avertissement* de l'édition de 1739 fournit les principales indications sur la vie de Montfleury. Antoine-Jacob, fils du célèbre comédien de l'Hôtel de Bourgogne, Zacharie-Jacob, naquit à Paris en 1639 [1]. Après avoir fait ses humanités et son droit, il fut reçu avocat au Parlement en 1660. Pourtant, Victor Fournel signale que « les titres de ses premières pièces, où il se qualifie d'*avocat au parlement* » constituent « la seule trace qu'il ait laissée de son passage au barreau [2] ». En effet, à peine âgé de vingt ans, il manifesta un goût précoce pour le théâtre, en faisant jouer le *Mariage de rien*, et consacra dès lors ses travaux à la scène française. Grâce à son père, l'Hôtel de Bourgogne le considéra comme étant de la famille, et ces premiers liens furent resserrés lorsqu'il épousa, en 1665, Marie-Marguerite de Soulas, fille du comédien Floridor. Le père et le fils étaient souvent confondus bien que ce dernier ne fût jamais monté sur les planches : Adrian Braakman qui édita leurs œuvres en 1697 n'en fit qu'un seul personnage, à qui il attribua les productions de tous les deux. Il fallut attendre l'édition de 1739 pour que cette méprise fût rectifiée. La carrière créatrice de Montfleury coïncida presque exactement avec celle de Molière. La rivalité sur la scène théâtrale fut attisée par une hostilité personnelle due à la représentation en novembre 1663 de *L'Impromptu de Versailles*, pièce dans laquelle Molière parodie le jeu pompeux de Montfleury père. Le fils riposta en faisant jouer *L'Impromptu de l'Hôtel de Condé* qui raille notamment le jeu tragique de Molière. Dans ces conditions, aucune pièce de Montfleury ne fut représentée par la troupe de Molière. Après 1673, Montfleury s'adressa toutefois aux comédiens de son défunt rival pour jouer *L'Ambigu comique*. Après avoir produit une pièce par an à peu près de 1660 à 1678, il se tourna vers la finance. En 1678, Colbert lui confia la charge de faire le recouvrement des sommes que le parlement de Provence devait au roi, mission dont il s'acquitta en contentant à la fois la cour et le parlement. Le Ministère, bien disposé pour lui, le rappela à Paris en 1684 car il lui réservait un poste de fermier général, mais il tomba malade entre-temps et mourut à Aix en 1685.
 
 
-### La réception de son œuvre
+### La réception de son œuvre.
 
 La postérité a parfois jugé sévèrement les pièces de théâtre de Montfleury. N.-M. Bernardin constate que « ce qui a nui surtout dans l'esprit de la critique à Montfleury … c'est qu'il a eu le malheur d'être le contemporain de Molière et l'imprudence de prétendre être son rival [3] ». En effet, il choisit quelquefois des sujets analogues à ceux de Molière et l'imita dans ses titres à deux reprises, pour *L'École des jaloux* et pour *L'École des filles*. Pourtant, Edward Forman relativise cette influence, en suggérant que la fidélité de Montfleury au modèle du théâtre espagnol manifeste vraisemblablement son « indépendance … vis-à-vis de ses compatriotes, et son indifférence à la nouvelle direction que Molière fit prendre au théâtre comique français pendant les années 1660 [4] ». De plus, Jacques Truchet, en considérant le recours à la *lingua franca* [5] dans *Le Mary sans femme* comme « annonciateur du *Sicilien* et du *Bourgeois gentilhomme* [6] », montre que, dans certains domaines, Montfleury a devancé chronologiquement son illustre rival. C'est essentiellement sur le terrain de la comédie de caractères que la comparaison avec Molière lui est défavorable. Mais le reproche n'est pas légitime si l'on considère que son propos n'est pas de mettre en scène des caractères mais des types plaisants susceptibles d'amuser le spectateur. Quoi qu'il en soit, si la postérité a oublié son nom et réserve son admiration à Molière, l'engouement du public de l'époque est incontestable : *Le Mercure galant* souligna le succès « au delà de tout ce que l'on peut imaginer » de *La Fille capitaine* et assura que *La Femme juge et partie* « eut le bonheur d'être suivie et fort applaudie, pendant que tout Paris couroit à *Tartuffe* [7] ».
 
 Les commentateurs de Montfleury s'accordent généralement à dire que parmi les contemporains de Molière, il est le plus amusant par son esprit, sa gaieté et sa verve. Ils apprécient son dialogue vif, modelé sur la conversation et conviennent de sa bonne connaissance des règles dramatiques. Julien-Louis Geoffroy confirme que Montfleury « avait appris ce qu'on appelle le métier, … entendait le théâtre, conduisait sagement un sujet, arrangeait et liait des scènes avec quelque adresse [8] ». *Le Gentilhomme de Beauce* témoigne en effet de ce souci de cohérence. La hardiesse de ses pièces, que ce soit dans le choix des sujets ou dans la manière de les traiter, est ce qui a fait naître, au cours des siècles suivants, des jugements défavorables sur son théâtre. C'est sans conteste le terme « licence » qui revient le plus fréquemment sous la plume de ses détracteurs. Comme le fait remarquer Victor Fournel, « on n'attend pas de Montfleury la sévère dignité d'un moraliste ; mais on est en droit de lui reprocher des licences et des crudités de langage, un malheureux penchant aux plaisanteries inconvenantes et d'un goût équivoque, … une raillerie systématique des sentiments et des devoirs les plus respectables [9] ». Le thème de l'adultère irrigue ses comédies et l'institution du mariage y est traitée avec désinvolture. Dans *Le Mary sans femme*, le caractère sacré du lien conjugal est ainsi mis à mal, dans la mesure où Dom Brusquin, sous peine de bastonnade et des galères, doit consentir à l'union de Julie, qu'il vient d'épouser, et de Carlos, son amant, ce qui suppose l'annulation de son mariage. Son personnage de prédilection est le mari trompé. Il le place dans des situations souvent cocasses et insensées : ainsi Bernadille, dans *La Femme juge et partie*, est-il accablé de ne pas réussir à prouver qu'il est cocu. Dans *Le Gentilhomme de Beauce*, le dramaturge exploite le thème du cocuage et introduit également quelques allusions grivoises. Son comique cru est, malgré tout, reçu favorablement par le public de l'époque, comme l'atteste le succès de ses pièces. Le portrait de Montfleury, esquissé par Jules Lemaitre, « un pur Gaulois », « une tête naturellement joyeuse … ; qui n'a souci que de rire [10] », est emblématique de l'image caricaturale qu'a de lui la postérité, celle d'un poète léger et dénué de toute préoccupation morale.
 
 
-### Montfleury et le théâtre comique de son temps
+### Montfleury et le théâtre comique de son temps.
 
 Au début de sa carrière, Montfleury donna deux comédies en un acte, *Le Mariage de rien* et *Les Bêtes raisonnables*. Ces « petites comédies » étaient très en vogue. Sorte de fabliau mis en action, elles présentent souvent un canevas schématique et des types farcesques. Par la suite, il s'illustra essentiellement dans la comédie romanesque et d'intrigue en cinq actes. Celle-ci s'intéresse moins aux personnages, toujours identiques, qu'aux situations piquantes provoquées par leurs intrigues amoureuses. Elle met en scène les stratagèmes d'un galant qui cherche à séduire une jeune femme et repose sur les effets de surprise, les renversements de situation et les méprises. Montfleury a puisé quelques-uns de ses sujets chez les auteurs espagnols. Il parlait d'ailleurs parfaitement l'espagnol, comme l'attesta l'*Avertissement* de l'édition de 1739 qui rapporta que « la *feue* Reine … disoit que ceux même du païs ne le parloient pas si bien que lui [11] ». *La Femme juge et partie* et *La Fille capitaine* ont des sources espagnoles [12]. Dans *L'École des filles*, l'action se déroule en Espagne et dans *Le Mari sans femme*, la scène est à Alger mais Julie, Carlos, Dom Brusquin et leurs serviteurs sont originaires d'Espagne. De surcroît, l'enlèvement de Julie, la captivité des amants fugitifs chez le gouverneur d'Alger et les multiples rebondissements prouvent que cette comédie est dans le goût espagnol. Dans les années 1670, Montfleury recourut de façon moins systématique à l'exotisme espagnol, tout en restant fidèle à la comédie d'intrigue qui persistait après 1660 malgré le succès de Molière et de ses comédies de caractères. Le public aimait encore les imbroglios, les méprises et les déguisements. Roger Guichemerre montre que l'intrigue et les situations comiques avaient encore une importance considérable dans les œuvres contemporaines de Molière. Il cite les exemples des comédies de Montfleury : l'intrigue est dominante dans *Trigaudin* (1674), *La Dame médecin* (1678) et *La Dupe de soi-même* (1678) ; et *Crispin gentilhomme* (1677) « comporte encore une substitution et une reconnaissance [13] ». Néanmoins, Roger Guichemerre voit un renouvellement de la comédie dans la multiplication des pièces qui brocardaient quelques aspects des mœurs parisiennes [14]. Antoine Adam qualifie ces œuvres de « comédies d'observation [15] » ; elles constituaient les prémices de la comédie de mœurs qui n'apparut vraiment qu'après 1680. Le fait divers récent ou le détail pittoresque de la vie contemporaine reste un prétexte et ces comédies ne se conçoivent pas en dehors d'un cadre romanesque qui prévaut. Cette évolution se fit sentir chez Montfleury qui introduisit quelques types sociaux dans son théâtre, notamment un hobereau dans *Le Gentilhomme de Beauce* (1670) et des comédiens dans *Le Comédien poète* (1674).
 
 
-### *LeGentilhomme de Beauce* : une comédie d'intrigue
+### *LeGentilhomme de Beauce* : une comédie d'intrigue.
 
 Montfleury s'intéresse essentiellement aux situations comiques dans lesquelles se trouve son hobereau. Il exploite les scènes traditionnelles de la comédie d'intrigue, notamment lorsque le gentilhomme surprend les amants (I, 7) ou que, dissimulé, il écoute les propos offensants que son entourage tient à son sujet (IV, 5-10). Le recours au jeu de rôle et au déguisement est également caractéristique de la comédie d'intrigue : à deux reprises, le Beauceron est trompé par le Basque qui emprunte une fausse identité. On retrouve, d'autre part, les personnages codés de la comédie d'intrigue : la servante entreprenante, le valet fort en gueule, le noble de province, les jeunes amoureux et la mère autoritaire. Néanmoins, Montfleury s'efforce de nuancer leur portrait : ainsi le Beauceron, lorsqu'il fait preuve de lucidité et d'esprit, ou bien Léandre, quand il manifeste sa détermination (V, 10), surprennent-ils le spectateur. Si le souci d'observation de la société est patent, la satire des moeurs demeure superficielle et c'est l'utilisation du fait social dans le jeu de l'intrigue qui constitue l'intérêt principal. Si Montfleury distingue sa comédie de la farce, en atténuant non seulement le schématisme des personnages, mais aussi celui de l'intrigue, comme le montre le caractère inattendu de l'entretien parodique de l'acte V, il emprunte toutefois au genre quelques procédés comiques.
 
 
-## Les conditions de création et de représentation de la pièce
+## Les conditions de création et de représentation de la pièce.
 
 La première représentation du *Gentilhomme de Beauce* eut lieu sur la scène de l'Hôtel de Bourgogne, au début du mois d'août 1670 [16]. Du vivant de Molière, Montfleury resta fidèle à cette troupe dont son père, Zacharie, et son beau-père, Floridor, étaient les « sociétaires les plus distingués [17] », respectivement jusqu'en 1667 et 1671. La pièce ne fut jamais représentée à la Comédie Française. En revanche, elle « fut jouée à Versailles devant le Duc de Boukingham, sur un théâtre dressé dans le petit parc, par le sieur Vigarini [18] ». Le duc de Buckingham [19] avait été envoyé en France en juillet 1670 pour négocier le traité de Douvres [20] avec Louis XVI. Une première cérémonie fut organisée en son honneur, à Versailles, le 23 août, mais c'est deux semaines plus tard, lors de la seconde fête, que la comédie de Montfleury fut présentée. Abbas Ismaïl Abou-Ghazala s'attarde sur la description de cette soirée : « Après avoir pris la collation au milieu de l'eau, toute la cour reprit le chemin du petit parc, et se rendit dans le “petit Bois vert”, à gauche du château …. Dans ce bois, Vigarini avait fait construire un théâtre en plein air [21] ». C'est sur ce théâtre que la troupe royale offrit au roi, au duc de Buckingham et à la cour, la représentation du *Gentilhomme de Beauce*, « accompagnée dans les Entr'Actes, de plusieurs Pièces de Musique, et de Symphonie, de la composition du Sieur Lulli [22] ». Robinet y fit à son tour allusion dans une lettre en vers à Monsieur, datée du 13 septembre 1670, et se plut à décrire la magnificence du cadre de la représentation :
 
@@ -76,7 +76,7 @@ La distribution du *Gentilhomme de Beauce* n'est pas connue. Sophie Wilma Deierk
 Nous n'avons aucun détail sur le décor. L'action se déroulant dans une « Sale chez Climenne », la scène représentait sans doute la salle commune d'une maison parisienne bourgeoise. Les personnages font mention à plusieurs reprises de l'étage, où se trouvent les appartements de Climenne et de Martin. Ainsi Martin déclare-t-il : « Sortons de cette chambre & montons dans la nostre » (v. 1106). On peut imaginer que la scène figurait un escalier, menant de la salle commune aux chambres de Climenne et Martin, puisque le Beauceron fait allusion à un « autre escalier » (v. 140), qui permet d'éviter que le Gascon, après avoir déposé son argent à l'étage, ne passe de nouveau par la salle commune où se trouve Climenne. En outre, dans l'édition de 1735 des œuvres de Montfleury [34], la scène 10 de l'acte IV est illustrée par la reproduction d'une gravure en taille-douce qui représente Béatrix faisant tomber la lanterne du Basque et le Beauceron dissimulé derrière un lit à baldaquin. Un lit pouvait donc également faire partie du décor. En effet, lorsque le gentilhomme espionne son entourage, il est sans doute caché dans un recoin ou bien derrière un meuble. Enfin, la scène de confrontation entre Coutreville et Climenne nécessite deux fauteuils.
 
 
-## La réception de la pièce
+## La réception de la pièce.
 
 L'auteur évoque modestement, dans son épître dédicatoire, « l'indulgence qu'on a eüe » pour sa comédie à Paris. Lancaster signale en effet que* Le Gentilhomme de Beauce* fut bien accueilli par le public du XVII*e* siècle, mais que son succès ne dura pas longtemps puisque ni *Le Mémoire de Mahelot*, ni La Grange n'y font référence [35]. Walter Rohr affirme lui aussi, que les critiques de l'époque jugèrent très favorablement la pièce [36]. Il mentionne la lettre en vers du 16 août 1670 dans laquelle Robinet en fit l'éloge :
 
@@ -94,38 +94,38 @@ Que j'y trouve des mieux daubés [37]
 Selon Walter Rohr, à partir du moment où le héros de la comédie était un hobereau campagnard, figure théâtrale véritablement comique, la pièce ne pouvait être qu'un succès [38]. Il ajoute que la parodie de *Britannicus* dans la scène 5 de l'acte V contribua beaucoup à cette réussite car la confrontation entre Néron et Agrippine était encore dans les esprits lorsque *Le Gentilhomme de Beauce* fut créé sur les planches de l'Hôtel de Bourgogne. On pensait immédiatement à la tragédie de Racine en voyant le Beauceron et Climenne, assis face à face, s'adresser des reproches cinglants. Robinet, dans l'extrait ci-dessus, confirma d'ailleurs l'enthousiasme qu'avait pu susciter cette scène. Enfin, le fait que la pièce fut représentée devant le roi et qu'une édition pirate hollandaise parut dès 1670 confirme ce succès immédiat.
 
 
-# Intrigue et dramaturgie
+# Intrigue et dramaturgie.
 
 
-## Résumé de l'intrigue
+## Résumé de l'intrigue.
 
 
-### Acte I
+### Acte I.
 
 Béatrix s'indigne de l'union de sa maîtresse, Climenne, et de Monsieur de Coutreville, cousin de la jeune femme. Monsieur de Coutreville, gentilhomme beauceron, s'est rendu dans la capitale afin de conclure ce mariage. Il vit depuis quelques jours chez Climenne et espère obtenir l'assentiment de sa future belle-mère, qui considère avec bienveillance le riche hobereau. D'une jalousie féroce, il surveille Climenne de près. Celle-ci révèle à sa servante que la loterie qu'elle a organisée n'est qu'un prétexte pour permettre à son amant, Léandre, de l'approcher, sous le couvert de participer au jeu (sc. 1). Un joueur, le Gascon, souhaite acheter des billets et, tout en se renseignant sur la loterie, adresse quelques galanteries à Climenne (sc. 2). Le gentilhomme les épie un moment avant de se montrer. Le Gascon se réjouit alors de retrouver un habitant du village beauceron où il passa avec son régiment, mais son accueil enthousiaste se heurte à l'agressivité du campagnard (sc. 3). Une fois débarrassé du Gascon, le Beauceron reproche à Climenne sa coquetterie avant de se plaindre du désordre suscité par la loterie. Il a toutefois trouvé la solution pour chasser galants et joueurs : engager un Suisse. Béatrix riposte aussitôt, elle connaît un Suisse qui fera l'affaire : hargneux, il contrôlera avec zèle les allées et venues (sc. 4). La servante dévoile le subterfuge à sa maîtresse, alarmée par la résolution de son cousin : celui qu'elle envisage de présenter comme Suisse au Beauceron est son amant, le Basque, valet de Léandre (sc. 5). Léandre entre en déplorant son malheur. Rasséréné par le stratagème des jeunes femmes, il leur garantit son soutien (sc. 6). Survient le Beauceron qui observe à la dérobée Climenne et Léandre, bientôt avertis par Béatrix de la présence du rival (sc. 7). Après le départ de Léandre, le cousin sort de sa cachette. Clairvoyant sur l'amour réciproque des amants, il morigène de nouveau Climenne avant d'être interrompu par un bruit qui l'incite à la faire sortir (sc. 8). Champagne, un laquais, accoure affolé et annonce que la foule, impatiente de participer à la loterie, a forcé la porte. Le gentilhomme le somme de monter la garde devant l'appartement de Climenne et ordonne à Béatrix d'aller chercher le Suisse dont elle a parlé (sc. 9 et sc. dernière).
 
 
-### Acte II
+### Acte II.
 
 Béatrix paraît, accompagnée du Basque, en habit de Suisse. Il ne tarde pas à lui faire la cour mais celle-ci est préoccupée par la confrontation prochaine avec le gentilhomme (sc. 1). Ce dernier se montre d'abord réticent devant la corpulence du Basque, mais grâce à ses propos batailleurs, le prétendu *Suisse* gagne sa confiance (sc. 2). Une fois seul avec sa nouvelle recrue, le gentilhomme lui précise qu'il doit l'informer du moindre geste de sa cousine en faveur d'un galant (sc. 3). Il le présente ensuite à Climenne, avant de l'envoyer faire le guet à l'entrée (sc. 4). Las de l'agitation provoquée par les joueurs, le gentilhomme se mêle de l'organisation de la loterie afin qu'elle soit tirée au plus tôt et que le bénéfice soit conséquent (sc. 5). Béatrix se montre satisfaite de la performance du Basque, mais elle élude de nouveau ses propos amoureux, interrompus par l'arrivée de Léandre (sc. 6-7). Le jeune homme, qui s'attend à voir Climenne, est immédiatement détrompé par la servante qui lui annonce que, désormais, le Beauceron ne quitte plus sa cousine. Elle redonne cependant espoir à l'amant dépité en lui remettant un billet de Climenne, dans lequel celle-ci lui fait part du tour qu'elle a imaginé pour éloigner le gentilhomme du logis. Le Basque est de nouveau mis à contribution, aussi doit-il quitter un moment son rôle de Suisse pour interpréter un autre personnage (sc. dernière).
 
 
-### Acte III
+### Acte III.
 
 Le fâcheux hobereau enrage car l'irruption de la foule n'a pu être contenue par Champagne, qui supplée le* Suisse* (sc. 1-2). Le laquais annonce la visite d'un abbé (sc. 3-4). Le Basque, qui a revêtu le costume abbatial pour jouer un abbé beauceron, fait alors son entrée. Après moult cérémonies, l'*abbé la Roche* délivre au gentilhomme une boîte contenant les billets achetés à Oronte, organisateur d'une loterie concurrente. Le Beauceron, d'abord hostile à l'*abbé*, ne tarit pas d'éloges sur lui lorsqu'il découvre dans la boîte un billet gagnant d'une valeur de trois cent louis (sc. 5). Seul, l'heureux gagnant savoure sa joie et décide d'aller chercher son lot chez Oronte (sc. 6). Climenne apparaît apprêtée ; aussi subit-elle une nouvelle fois les semonces de son cousin. Néanmoins le gentilhomme abrège lui-même ce sévère discours de morale, tant il est impatient de posséder son lot (sc. 7). Il recommande au *Suisse*, qui a repris son poste, de dissimuler son absence et de ne laisser entrer personne, et non sans inquiétude, se résout à partir (sc. 8). Béatrix se réjouit avec Léandre et le Basque du succès de la ruse et de la liberté que leur procure l'absence du gentilhomme (sc. 9 et sc. dernière).
 
 
-### Acte IV
+### Acte IV.
 
 La porte étant ouverte, le Gascon a pu s'introduire chez Climenne. Il fulmine contre le *Suisse* qui lui a si souvent fermé la porte au nez et qui est à présent endormi sur son lit, ivre (sc. 1). Il s'enquiert de la loterie auprès de l'organisateur, Martin : il attend en effet avec impatience le tirage car il a gagé ses dettes sur les lots. Mal en prend à Martin de le mettre en garde contre une telle folie puisque le Gascon finit par le menacer si le résultat du tirage ne lui est pas favorable (sc. 2). Aussi Martin, apeuré, se réfugie-t-il dans sa chambre (sc. 3). Le Beauceron est de retour, furieux parce que la boîte remise par l'*abbé* est fausse. Sa rancune contre *la Roche* et les aigrefins de son acabit cède bientôt la place à l'inquiétude car il a trouvé la porte ouverte et le *Suisse* étendu sur le lit. Afin d'éclaircir ces mystères, il se cache de façon à observer son entourage (sc. 4). Béatrix est la première qu'il surprend. Le Beauceron ne tarde pas à être édifié sur le compte de la servante, de Léandre et de Climenne, qui se révèlent être les instigateurs du piège dont il a été victime. Il apprend en outre que Léandre est auprès de Climenne et que *la Roche* est le valet de son rival, un dénommé le Basque, qu'il ne connaît pas (sc. 5). Après le départ de Béatrix, le gentilhomme se répand en invectives contre la soubrette, qu'il accuse de pervertir Climenne (sc. 6). Toujours dissimulé, il assiste ensuite aux adieux de Climenne et de Léandre, qui réaffirment avec Béatrix leur hostilité contre lui (sc. 7). De nouveau seul, le gentilhomme, qui pense avoir entièrement décelé ce qui se trame contre lui, calomnie l'honneur de Climenne ; le *Suisse*, malgré son ivresse, est le seul qui trouve encore grâce à ses yeux (sc. 8). L'annonce de la venue du Basque l'incite à demeurer en retrait afin de percer à jour l'inconnu (sc. 9). Le Basque, en qui le Beauceron reconnaît immédiatement son portier, entre en titubant. Béatrix lui reproche la négligence dont il a fait preuve pendant qu'il était censé surveiller la porte puis, exaspérée par son discours d'ivrogne, elle s'en va (sc. 10). Demeuré seul, le Beauceron s'emporte contre les comploteurs, mais il remet sa vengeance au lendemain et se retire dans sa chambre (sc. dernière).
 
 
-### Acte V
+### Acte V.
 
 Le Basque refuse obstinément de croire Béatrix qui lui répète que le gentilhomme se trouve dans le jardin (sc. 1). À la vue de ce dernier, il est finalement contraint d'admettre qu'il l'a laissé pénétrer dans la maison. Le gentilhomme envoie Béatrix chercher sa maîtresse (sc. 2). Le Basque, qui continue à jouer le *Suisse* en présence du Beauceron, redouble de complaisance envers son maître qui, irrité par cette hypocrisie, a tout juste le temps de le souffleter avant l'arrivée de Climenne et Béatrix (sc. 3). Après avoir congédié les deux serviteurs, il adresse à Climenne des propos injurieux. La jeune femme riposte avec la même franchise. Le Beauceron finit par couper court aux récriminations de sa cousine et part dénoncer à la mère le choix de Climenne en faveur de Léandre (sc. 4-5). La jeune femme, apparemment résignée à obéir, exprime son désarroi et demande conseil à Béatrix (sc. 6-7). Eu égard au péril que court son amour pour Léandre, elle accepte un entretien avec lui (sc. 8-9). Elle lui rapporte les dernières dispositions du gentilhomme concernant le mariage. Comme sa soumission aux exigences de sa mère et de son cousin prouve, selon le jeune homme, la faiblesse de son amour, il lui fait ses adieux (sc. 10). Il est aussitôt rappelé par le Beauceron qui déclare que la mère, mise au fait des amours de sa fille, consent à l'union de Climenne et de Léandre et que lui-même renonce à sa cousine. Son aversion pour Paris et les Parisiens ayant été confortée par son séjour dans la capitale, Coutreville se montre désormais empressé à retrouver sa Beauce natale (sc. 11). Seuls, les amants se réjouissent et annoncent le tirage de la loterie ainsi que le mariage de Béatrix et du Basque (sc. dernière).
 
 
-## L'intrigue du *Gentilhomme de Beauce* et de *Monsieur de Pourceaugnac*
+## L'intrigue du *Gentilhomme de Beauce* et de *Monsieur de Pourceaugnac*.
 
 Louis Petit de Julleville, déplorant le pillage de l'œuvre de Molière par ses rivaux, souligne que  *Monsieur de Pourceaugnac* devient chez Montfleury *Le Gentilhomme de Beauce* [39] et Victor Fournel corrobore ce jugement lorsqu'il écrit que « toutes proportions gardées, le *Gentilhomme* est le *Pourceaugnac* de Montfleury [40] ». *Monsieur de Pourceaugnac* est créé sur le Théâtre du Palais-Royal, le 15 novembre 1669. Chez Molière, Julie aime Éraste mais son père, Oronte, la destine à Pourceaugnac, un avocat limousin. Pour empêcher ce mariage, les amants sont soutenus par deux fourbes expérimentés, Nérine et Sbrigani. La machination consiste à soumettre Pourceaugnac à une série d'épreuves : il est livré à deux médecins ; un marchand flamand fait savoir à Oronte que Pourceaugnac entend payer ses dettes avec la dot ; Sbrigani lui apprend que sa fiancée est une galante ; après quoi, une Languedocienne révèle que Pourceaugnac l'a épousée et abandonnée et une Picarde le revendique pour son mari. Menacé de pendaison, il se travestit et prend la fuite. Comme nous le verrons plus loin, des analogies sont manifestes dans le traitement du thème de la province égarée à Paris et dans le portrait du fâcheux, mais Montfleury s'inspire alors moins de Pourceaugnac que de la figure conventionnelle du provincial grotesque. En revanche, le parallèle que l'on peut établir au niveau de l'intrigue rapproche de façon plus probante les deux comédies.
 
@@ -136,17 +136,17 @@ Un des points communs entre les deux stratégies mises en œuvre pour abuser Cou
 L'influence de Molière sur Montfleury doit toutefois être relativisée car les deux pièces diffèrent sur des points essentiels de l'intrigue : on note par exemple que la critique des joueurs invétérés et des fripons qui organisent les loteries remplace la satire de la médecine, que les serviteurs s'improvisant mystificateurs se substituent aux rusés professionnels, ou que la mère est absente alors qu'Oronte subit aussi les mauvais tours joués à Pourceaugnac. La singularité du* Gentilhomme de Beauce* ne réside pas dans l'intrigue, conventionnelle, mais, entre autres, dans le jeu sur le masque, dans le traitement du thème de la loterie, ou dans la parodie de *Britannicus* au dernier acte.
 
 
-## Dramaturgie
+## Dramaturgie.
 
 
-### La structure de la pièce
+### La structure de la pièce.
 
 La composition de la comédie permet d'éviter tout risque de langueur car les deux premiers actes ainsi que le dernier ont entre 340 et 370 vers, tandis que les actes III et IV, plus courts, ont respectivement 302 et 290 vers. La pièce s'organise autour de la mystification du gentilhomme. Dans la première partie, constituée par les trois premiers actes et les trois premières scènes de l'acte IV, les personnages se coalisent contre le gentilhomme afin d'introduire Léandre auprès de Climenne. Puis, dans la deuxième partie, correspondant à l'acte IV, à partir de la scène 4, se produit la prise de conscience du Beauceron qui découvre les machinations ourdies par son entourage. Enfin, la dernière partie, autrement dit l'acte V, est consacrée à l'échange de reproches entre Climenne et son cousin, confrontation suivie d'une esquisse de rebondissement, lorsque le noble campagnard va se plaindre auprès de la mère de la jeune femme. La composition de la comédie permet de faire ressortir l'évolution du regard que le spectateur porte sur le héros ridicule. De fait, dans la seconde partie, le rôle d'observateur, commun au public et au gentilhomme, ainsi que la brutalité des révélations qui sont faites à ce dernier, créent une relation d'empathie entre le spectateur et le héros. Or, ce sentiment est complètement absent dans la première partie et considérablement amoindri dans l'acte V par la riposte efficace qu'oppose Climenne aux récriminations de Coutreville et par la lâcheté de celui-ci. D'autre part, le découpage distingue une première partie dominée par l'élaboration des stratagèmes et leur mise en œuvre ; une deuxième partie où, malgré le subterfuge du Beauceron, le jeu est moins présent puisque les intrigants ont cessé leurs mystifications ; et un dernier mouvement où le divertissement est complètement absent. Les répliques des personnages s'allongent, comme le montrent les monologues de l'acte IV et les tirades de l'acte V, ce qui confirme le fait que le discours des personnages s'impose au détriment de leurs actions ludiques à mesure que l'on progresse vers le dénouement. La pièce se dénoue d'ailleurs par le biais d'échanges, entre Climenne et Coutreville d'une part, et entre ce dernier et la mère de Climenne d'autre part.
 
 Les actes I, II, III et V présentent chacun une scène centrale. Dans l'acte I, il s'agit de la scène 4 qui met au jour les deux soucis qui obsèdent le gentilhomme tout au long de la pièce, autrement dit, la galanterie de Climenne, abordée au début de la scène (v. 141-164), et la loterie, évoquée dans un second temps (v. 165-218). Elle marque le début des jeux de rôle puisque c'est dans cette scène qu'est élaboré le premier stratagème. Dans l'acte II, la scène 5 est mise en valeur parce qu'elle emblématise le caractère irréductible de l'antagonisme entre Climenne et Coutreville. C'est la longue scène 5 qui est essentielle dans l'acte III car elle provoque l'éloignement temporaire du Beauceron, étape nécessaire à sa démystification. Enfin, c'est assurément autour de la scène d'affrontement entre Climenne et Coutreville que s'organise l'acte V, puisqu'elle accélère le dénouement, comme le montre le tempo rapide des sept scènes suivantes. Seul l'acte IV ne présente pas de scène susceptible de prévaloir sur les autres. Cela est dû à sa structure qui consiste à répéter une même séquence, constituée d'une scène de révélation suivie d'une scène de commentaire du gentilhomme : la prise de conscience ne se fait pas en une fois ; les révélations sont au contraire distillées pour faire durer le supplice du Beauceron et renforcer le comique de la situation.
 
 
-### La cohérence de l'intrigue
+### La cohérence de l'intrigue.
 
 L'exposition est complète dès la première scène de l'acte I : deux couples, celui des maîtres et celui des valets, mènent les stratagèmes, le gentilhomme de Beauce et la mère de Climenne sont dénoncés en tant qu'obstacles aux amours des maîtres et la loterie est désignée comme un ressort de la ruse. C'est l'altercation entre le Beauceron et le Gascon qui achève de convaincre le gentilhomme de la nécessité de recruter un Suisse ; la première supercherie est alors imaginée à la hâte par Béatrix. L'adhésion rapide du gentilhomme à l'offre de la soubrette est vraisemblable dans la mesure où la présence d'un portier est urgente. Après qu'il a épié Climenne en compagnie de Léandre et que la foule a forcé la porte, Coutreville accorde d'ailleurs un surcroît de valeur à la proposition de Béatrix, ce qui facilite l'engagement du Basque, dans l'acte II. Le tempo s'accélère dans les deux dernières scènes de l'acte, afin de rendre compte du remue-ménage suscité par la loterie et de l'irritation croissante du Beauceron. Pendant l'entracte, Béatrix avise le Basque du rôle qui lui est assigné et l'habille en Suisse ; le spectateur, de son côté, attend avec impatience l'arrivée du valet déguisé ainsi que sa confrontation avec le gentilhomme.
 
@@ -159,7 +159,7 @@ L'acte IV correspond à la démystification de Coutreville. Celui-ci n'est de re
 Au début de l'acte V, l'inquiétude de Béatrix, qui comprend que le gentilhomme est entré dans la maison à l'insu du *Suisse*, augmente la tension. Celle-ci est maximale à la fin de l'entretien entre le Beauceron et Climenne, puisqu'il s'achève sur les menaces du gentilhomme, résolu à tout raconter à la mère de la jeune femme. La situation paraît sans issue d'autant plus que Léandre, irrité par la résignation de son amante, fait ses adieux à Climenne. Ce sont les revirements, peu vraisemblables, de la mère et du Beauceron, tous deux à l'origine du malheur des amants, qui lui apportent un dénouement inespéré. La volte-face de la mère est toutefois préparée par Béatrix, qui atténue son intransigeance en affirmant que le gentilhomme « fait dans la maison le maistre bien plus qu'elle » (v. 16), et par le Beauceron, dont les révélations sur ses anciennes frasques laissent escompter une certaine indulgence de sa part concernant les amours de sa fille.
 
 
-### Le traitement des unités
+### Le traitement des unités.
 
 L'unité de lieu est respectée dans la mesure où tout au long de la pièce, l'action se déroule à Paris, dans une salle chez Climenne.
 
@@ -168,7 +168,7 @@ En revanche, Montfleury déroge en partie à la règle de l'unité de temps. Lor
 L'action principale consiste à introduire Léandre auprès de Climenne et non à conclure leur hymen : en effet, rien n'est tenté pour fléchir la mère, dont la « dispense » est pourtant indispensable au mariage de la jeune femme. Le dénouement, c'est-à-dire l'annonce de l'union entre Climenne et Léandre, dépasse donc les intentions des personnages car il ne résulte pas des ruses imaginées par les Parisiens mais des « soins de l'amour » (v. 44), autrement dit, du revirement de la mère de Climenne au sujet du mariage de sa fille et du renoncement du gentilhomme à sa cousine. Comme les stratagèmes visent à surmonter ponctuellement les obstacles empêchant les amants de se voir et à se jouer du gentilhomme, sans pour autant être motivés par la perspective d'un mariage, l'intrigue paraît lâche et le dénouement n'est pas préparé. De surcroît, certains épisodes ne se rattachent pas à l'action principale. C'est le cas notamment des scènes où apparaît le Gascon (I, 2 ; IV, 1 et 2), qui ne sont que des prétextes à la satire des amateurs de loteries.
 
 
-### La présence des personnages
+### La présence des personnages.
 
 Tantôt le Beauceron est au premier plan et dialogue avec les autres personnages, tantôt il est en retrait et se dissimule pour espionner les protagonistes en scène, mais c'est lui qui apparaît le plus fréquemment dans la pièce. Il figure dans trente-quatre scènes sur cinquante-quatre et dans les trois scènes les plus longues (II, 5 ; III, 5 ; V, 5). Son encombrante présence est emblématique de son comportement pesant et coercitif.
 
@@ -185,33 +185,33 @@ Le Gascon n'est présent que dans les scènes 2 et 3 de l'acte I et dans les sc�
 Martin n'apparaît que dans les scènes 2 et 3 de l'acte IV : il s'agit de confronter l'homme sensé et le Gascon, personnage le plus déraisonnable de la pièce.
 
 
-### Les liaisons des scènes
+### Les liaisons des scènes.
 
 L'enchaînement vif des scènes permet le maintien d'un tempo rapide, notamment après les pauses dans l'action que constituent les longues scènes centrales des actes I, II, III et V. Les nombreuses entrées de personnages dans l'acte I (arrivées du Gascon, de Léandre et de Champagne) mettent en évidence l'agitation qui règne chez Climenne. Elles sont généralement justifiées par les liaisons de vue. Toutefois, c'est le recours à la liaison par le bruit qui est la plus intéressante car elle accroît l'impression de confusion : « J'entens quelqu'un qui crie » (v. 59), déclare Béatrix, annonçant ainsi la venue du Gascon et, avant que Champagne n'accoure, apeuré, Coutreville ordonne à sa cousine : « Rentrez, j'entens du bruit » (v. 353). La spontanéité des entrées et des sorties est manifeste dans la première scène de l'acte II : Béatrix s'apprête à conduire le Basque « là haut » (v. 386) pour le présenter au gentilhomme, mais tous deux demeurent finalement sur scène car elle ajoute : « Il vient » (v. 387). L'arrivée inopinée du Beauceron, qui est dans l'impatience de voir le *Suisse*, montre que le dramaturge recherche la surprise et la variation dans l'enchaînement des scènes.
 
 
-# Les personnages
+# Les personnages.
 
 Les personnages du *Gentilhomme de Beauce* correspondent aux types de la comédie d'intrigue. On distingue les jeunes gens, Climenne et Léandre ; les serviteurs complices, Béatrix et le Basque ; les opposants, la mère de Climenne et le Beauceron qui, bien qu'il ait tous les traits du tuteur, vieux, bourru, avare et apôtre des bonnes mœurs, convoite sa pupille et tente de s'introduire dans le groupe des amants galants. La présence du Gascon et de Martin est déterminée par l'organisation de la loterie et non par l'intrigue, ils sont introduits essentiellement pour amuser le spectateur.
 
 
-## Les amoureux
+## Les amoureux.
 
 
-### Climenne
+### Climenne.
 
 Climenne correspond au type de la jeune femme hardie et entreprenante. Son amoureux paraît bien fade à côté d'elle, amante décidée et rusée. De fait, c'est Climenne qui a l'initiative d'organiser une loterie afin de rencontrer Léandre et qui élabore un artifice pour éloigner son cousin. Elle tente à plusieurs reprises de tenir tête à son censeur : elle lui répond avec une ironie audacieuse, lui coupe la parole ou encore conteste ses théories, mais c'est assurément au cours de la confrontation de l'acte V qu'elle le défie avec le plus d'aplomb. Elle n'a pas la naïveté qui caractérise certaines jeunes filles de comédie : en particulier, elle n'est dupe à aucun moment de l'orgueil de son cousin qui surestime sa fortune. Climenne est en effet reconnue comme une femme d'esprit (v. 574) et son entourage a « bonne opinion » (v. 534) d'elle. Elle fait confiance au sort, aussi manifeste-t-elle une assurance qui contraste avec l'inquiétude de son amant. Sa détermination se révèle en toute occasion, par conséquent, le fait qu'elle se résolve dans le dernier acte à obéir à sa mère et au gentilhomme est surprenant. Elle adopte alors le discours de Léandre et déplore son « malheur » (v. 1577) alors même que son amant affirme davantage sa volonté. La soumission de Climenne aux contraintes sociales rend cependant le personnage plus conforme à la réalité de l'époque.
 
 
-### Léandre
+### Léandre.
 
 Léandre est l'amant de Climenne. Sa description ne permet pas d'aller au-delà du type de l'amoureux. Qualifié d'« idole blondine » (v. 1566) par le Beauceron, il a l'allure du galant à la mode. Il exprime sa passion par un langage mêlant la plainte et les déclarations lyriques, et craint en permanence que ses souhaits sentimentaux ne soient pas réalisés. Excepté dans la scène 11 de l'acte V qui donne à voir un Beauceron apaisé, il n'affronte pas le gentilhomme. Il lui cède docilement la place dans la scène 7 de l'acte I, laissant Climenne seule face à son cousin, et dans la scène 7 de l'acte IV, s'il adopte la rhétorique vindicative de l'amant jaloux et intempestif, cela ne donne pas lieu à un duel sanglant contre son rival. Il est en retrait par rapport aux autres personnages et son intervention dans l'action est insignifiante. En effet, il désire voir Climenne mais ne prend pas part aux tours destinés à tromper la vigilance du gentilhomme. Dans la dernière scène de l'acte II, lorsqu'il déclare avec fermeté : « Beatrix, dis luy bien que je vay de ce pas ; / En suivant cet advis éloigner le fantasque » (v. 720-721), il semble prendre en charge la réalisation du piège imaginé par Climenne pour éloigner son cousin, mais la suite, « il me faut icy quelqu'un », laisse entendre qu'il n'a pas l'intention d'être l'acteur de cette nouvelle farce. Il se contente d'« instruire » (v. 729) le Basque « suivant l'advis » de Climenne (v. 721). Toutefois, dans le dernier acte, son sursaut d'indignation face à l'attitude résignée de son amante nuance la passivité du personnage, qui présente alors un regain d'intérêt.
 
 
-## Les serviteurs
+## Les serviteurs.
 
 
-### Béatrix
+### Béatrix.
 
 Servante et confidente de Climenne, Béatrix soutient sa maîtresse dans ses amours interdites. Climenne lui dévoile son amour, ses ruses pour voir Léandre et c'est à sa suivante qu'elle s'en remet lorsque la situation paraît désespérée (V, 7). Intermédiaire entre les amoureux, Béatrix recommande au gentilhomme un Suisse de son choix afin que les amants puissent se rencontrer (I, 4), règle leurs entrevues et donne espoir au soupirant transi en lui transmettant le billet de son amante (II, sc. dernière).
 
@@ -220,15 +220,15 @@ Conformément au type de la servante qui fait preuve d'esprit et de lucidité, e
 D'autre part, Béatrix possède le bon sens et le franc parler des soubrettes. L'écho entre la réplique du Beauceron, « De peur d'être berné je n'ose m'en vanter » (v. 1123) et celle de Béatrix, « Il est trop glorieux pour venir s'en vanter » (v. 1172), souligné par la reprise du terme « vanter », montre qu'elle perçoit avec acuité le tempérament du gentilhomme. Elle décèle son caractère tranché quand elle encourage sa maîtresse à dire son fait à Coutreville (v. 1590). Ce naturel franc et direct n'exclut pas une certaine coquetterie qu'elle manifeste en présence de son amant. Elle s'amuse à le faire languir, fait des « façons » (v. 383) et se montre parfois moqueuse : dans la scène 7 de l'acte II, elle feint d'entendre un bruit pour faire diversion et couper court aux lestes insinuations du Basque (v. 685). Le contraste entre ses reparties railleuses et le discours passionné de son amant participe du comique du personnage.
 
 
-### Le Basque
+### Le Basque.
 
 Valet de Léandre et amant de Béatrix, le Basque est la pierre angulaire de la stratégie élaborée contre le gentilhomme. Sa physionomie prête à rire, d'autant plus qu'il est affublé à deux reprises de costumes ridicules. Son allure frêle contraste de façon comique avec la corpulence des portiers suisses, « grands » et « gras » (v. 394). Il emprunte au type du valet à l'italienne le caractère ingénieux et menteur, comme l'atteste son habileté à jongler avec les différentes métamorphoses. D'autre part, il se rapproche à certains égards du *gracioso*. Malgré son audace lorsqu'il joue la comédie, il se montre parfois couard, comme l'atteste le ton servile qu'il adopte face au Beauceron dont il craint la colère (V, 3). Il est cupide : tout en affectant les dehors de l'abbé désintéressé, il parvient à soutirer vingt louis au Beauceron, don qu'il anticipe avec finesse, lorsqu'il joue le *Suisse*, en faisant allusion à « un grand pistole » (v. 427) offert par son précédent maître. Il est porté à l'ivrognerie et se montre volontiers entreprenant avec la servante de Climenne : en sa présence, la conversation du valet se transforme systématiquement en discours amoureux, ce qui est manifeste dans la scène 7 de l'acte IV où l'adversatif « mais » (v. 679) marque le brusque changement de ton du Basque. Sa mauvaise foi, patente lorsqu'il refuse d'admettre qu'il a laissé entrer le gentilhomme, contribue au comique du personnage (V, 1). Enfin, nous verrons que Montfleury complexifie la figure du joyeux drille, cantonné dans le comique farcesque, en lui prêtant à plusieurs reprises des propos ingénieux.
 
 
-## Les opposants
+## Les opposants.
 
 
-### M. de Coutreville
+### M. de Coutreville.
 
 C'est le personnage le plus comique de la pièce. Comme son autoportrait le laisse entendre, il n'a pas l'apparence galante de l'amoureux (III, 7). De plus, son allure pataude et son excentricité vestimentaire n'incitent pas Climenne à le compter parmi ses galants. Lui-même s'avoue « chagrin » (v. 954) et Béatrix accole d'emblée à son nom, l'adjectif « bouru » (v. 4, 700 et 1268), qui fonctionne comme une épithète de nature pour qualifier les personnages déplaisants des comédies de Montfleury [49]. Comme le type du vieillard décrit par La Mesnardière, c'est un « censeur rigoureux et injuste des plaisirs des jeunes gens [50] ». Le gentilhomme sermonne sans cesse sa fiancée. Il dénonce notamment l'indécence de sa tenue par des formules telles que « ce sein plus découvert » (v. 894) et « ce bras qu'un gant trop court laisse voir à demy » (v. 895). Son irritation est comparable à celle de l'abbé Boileau qui, en 1675, fulminait contre les « nudités de gorge [51] », siège du diable. Ainsi, Coutreville fait preuve de la même rigueur moralisatrice qu'un homme d'Église ; d'ailleurs, lorsqu'il accuse Béatrix d'encourager Climenne à la galanterie, il utilise la métaphore biblique du « serpent », symbole de la tentation (v. 1181). Quand ce n'est pas contre sa cousine, il jure contre le Gascon, Champagne ou le monde entier devenu « fou » (v. 169). La scène 7 de l'acte I s'ouvre et se clôt sur deux imprécations, « peste quelle novice » (v. 299) et « La peste quel compere » (v. 320), lancées respectivement contre Climenne et contre Léandre. L'effet de circularité induit par cette répétition illustre l'enfermement du gentilhomme dans une attitude de méfiance envers son entourage.
 
@@ -251,38 +251,38 @@ Dans ce passage, il se présente comme le sauveur d'une société allant à la d
 Enfin, son caractère lourdaud est mis en évidence par une franchise parfois déroutante, notamment dans son autoportrait (III, 7) où il avoue sans scrupule son égoïsme. Cette tirade révèle d'autre part sa conception triviale du mariage. Lorsqu'il confesse à Climenne « je vous ayme, / Trop & trop peu » (v. 945-946), la surprise créée par le rejet signale le caractère atypique de la déclaration d'amour, d'autant plus que le lexique relatif au négoce, « moitié » (v. 948 et 950), « achette » (v. 949) et « prette » (v. 950), domine dans les vers suivants. Il souhaite en effet pouvoir compter Climenne, au même titre que ses dindons, dans son patrimoine. En revanche, il réserve le terme « bon-heur » (v. 867) à la joie que lui procure le gain des trois cent louis alors que le mot, récurrent dans le discours de Léandre, appartient à la rhétorique de l'amant évoquant la femme aimée. Le Beauceron envisage le mariage comme une prise de possession, c'est ce que souligne la métaphore guerrière, filée dans les vers 128-130 à travers les termes « citadelle », « briser » et « garnison ». Sa volte-face, à l'acte V, suggère qu'il ne ressent pas pour Climenne la passion d'un amant. Il ne possède pas non plus son héroïsme. De fait, il n'affronte à aucun moment le peuple « mutin » (v. 369) mais préfère le calmer en envoyant Martin (v. 370) ; et, dans le dernier acte, il ne se venge des tromperies dont il a été victime que sur Climenne et lorsque, dans le dialogue de la scène 5, celle-ci prend l'avantage, il la menace lâchement d'informer sa mère au sujet de son amour pour Léandre.
 
 
-### La mère de Climenne
+### La mère de Climenne.
 
 La mère de Climenne n'apparaît pas mais c'est elle qui, contre toute attente, permet le mariage de sa fille et de Léandre. Elle incarne l'autorité et l'avarice parentales. « Absoluë » (v. 1617), elle impose à sa fille le gendre qui lui agrée, sacrifiant le bonheur de Climenne à des considérations d'intérêt (v. 10-11). Le personnage devient comique lorsque le Beauceron évoque ses mœurs légères, peu compatibles avec la morale rigoureuse et austère des mères de comédie.
 
 
-## Les acteurs de la loterie
+## Les acteurs de la loterie.
 
 
-### Le Gascon
+### Le Gascon.
 
 C'est un personnage qui est introduit avant tout pour faire rire le spectateur par sa folie et ses excès. Il incarne les deux ennemis du gentilhomme, le galant et le joueur. Son humeur gasconne le pousse à la vantardise. L'exubérance de son comportement est illustrée par son entrée bruyante dans la scène 2 de l'acte II, par son volume de parole, plus important que celui de ses interlocuteurs, sauf lorsqu'il est confronté au gentilhomme et par sa gestuelle démonstrative, dont témoigne la réitération de la didascalie « *l'embrassant* » dans la scène 3 de l'acte I. L'attitude galante qu'il adopte avec Climenne et qui est mise en évidence par les fleurettes qu'il lui adresse ressortit aussi à son caractère fanfaron. Son penchant pour les femmes, tout comme son goût du jeu, participent de sa frivolité.
 
 
-### Martin
+### Martin.
 
 Martin prend en charge l'organisation de la loterie (la vente des billets, l'attribution des boîtes aux participants et le tirage). Précepteur, il représente le type de l'érudit au langage savant. Il n'échappe pas au cliché de l'homme d'esprit couard : l'agitation populaire l'impressionne (v. 1055-1058), les menaces du Gascon l'effraient (v. 1101) et la crainte d'une confrontation avec un joueur du même acabit le porte à se réfugier dans sa chambre (II, 3). À l'instar de Climenne, il souhaite que l'on procède loyalement au tirage de la loterie ; aussi s'offense-t-il du doute émis par le Gascon à propos de l'honnêteté des organisateurs du jeu (v. 1083). Il est, d'autre part, scandalisé par l'inconscience du Gascon qui imagine payer ses dettes grâce aux lots. Après que le joueur lui a exposé son projet, la modalité interrogative domine dans ses répliques, ce qui montre à quel point sa raison est ébranlée par les élucubrations du Gascon (v. 1074-1078).
 
 
-# Le comique
+# Le comique.
 
 L'injonction de Climenne à Léandre, dès l'acte I, « loin de s'en fascher il faut que l'on en rie » (v. 311), relayée dans l'acte V par « Loin de s'en allarmer il faut s'en divertir » (v. 1220), a une valeur programmatique puisque l'intrigue consiste en effet à contrevenir de façon ludique aux mesures coercitives de Coutreville. Elle est aussitôt suivie par Béatrix et Climenne qui ne peuvent contenir leur rire devant le Basque déguisé en Suisse (v. 422 et didascalie : p. 29). Par le biais de ces personnages hilares, Montfleury désigne explicitement son propos : amuser le public.
 
 
-## Les ressorts du comique
+## Les ressorts du comique.
 
 
-### Le comique de situation
+### Le comique de situation.
 
 Montfleury emprunte les scènes comiques traditionnelles de la comédie d'intrigue. Il utilise, à deux reprises, le topos de l'amant caché qui observe son rival en train de courtiser celle qui lui est destinée. Dans l'acte I, le gentilhomme surprend en effet Climenne en compagnie du Gascon puis de Léandre. Ces deux scènes d'espionnage donnent sans doute lieu à une gestuelle comique du Beauceron, dont on imagine la posture inconfortable et la moue désapprobatrice. Un des ressorts essentiels de la comédie d'intrigue est la surprise ; l'auteur l'exploite par le renversement de situation. À la fin de l'acte III, le gentilhomme se laisse griser par la pensée de posséder son lot, et sûr de lui, s'adresse au *Suisse* et à Climenne sur un ton péremptoire ; mais son euphorie cède bientôt la place à la désillusion, lorsqu'il découvre qu'il a été berné. L'effet de surprise provoqué par la volte-face de la mère de Climenne, à la fin de l'acte V, participe aussi du comique de la pièce, puisque le Beauceron, assuré d'obtenir le soutien de cette dernière, est finalement contraint de se ranger à son avis et de favoriser les desseins amoureux de Léandre et de sa cousine. Ce comique est renforcé par son obstination à vouloir retourner la situation à son avantage ; ainsi affirme-t-il : « en voulant me nuire ils m'ont rendu service » (v. 1258). Les scènes représentant le Beauceron caché, à l'affût de la moindre révélation, sont également des topoï de la comédie d'intrigue (IV, sc. 5-10). Le fait qu'un personnage entende les propos désobligeants que son entourage tient sur lui produit un effet comique, d'autant plus que le gentilhomme ne s'attend pas à une découverte de cette ampleur. Enfin, la méprise sur l'identité d'un personnage est topique dans la comédie d'intrigue. Le Beauceron est deux fois de suite trompé par le Basque, qui se fait passer pour un Suisse puis pour un abbé. Son aveuglement est indéniable lorsqu'il déclare à *la Roche* : « Dans vostre cœur je sçay ce qui se passe » (v. 862).
 
 
-### Le comique farcesque
+### Le comique farcesque.
 
 Le thème du cocuage, très présent dans le discours du gentilhomme et emblématisé par le motif des cornes du mari trompé (v. 347-350 et 1311), est le sujet de prédilection de la farce. Montfleury n'hésite pas à évoquer le bas corporel dans le récit du *Suisse* qui reçoit un coup de pied dans le « cu » (v. 415), et à glisser dans ses vers quelques allusions grivoises. Le terme « fonds », récurrent dans la pièce, présente un sens obscène mis en évidence par le gentilhomme : il qualifie effectivement de « familier » (v. 82) le Gascon, lorsque celui-ci demande à Climenne : « Vostre fons est-il grand ? » (v. 82). Bien que ce soit dans ce vers que la signification licencieuse du mot semble la plus obvie, elle apparaît néanmoins dans chaque occurrence. Le *Suisse*, à son tour, se montre leste lorsqu'il fait allusion aux plaisirs de l'adultère, à travers l'expression « le ptit rechouissance » (v. 452).
 
@@ -298,17 +298,17 @@ Par un fort grand soufflet Monsieur que j'ai receu [56],
 Enfin, l'ivrogne fait partie du personnel farcesque. La démarche titubante du Basque aviné (didascalie : p. 75) ainsi que sa chute (didascalie : p. 78) ressortissent à la gestuelle bouffonne de la farce. D'autre part, Montfleury reprend les caractéristiques comiques du discours de l'ivrogne qui se délecte de son état : les répétitions, « J'ay bû neuf ou dix coups qui m'ont fait bien du bien » (v. 1272) et « Qui m'ont mort-bleu qui m'ont fait dormir » (v. 1278) ; l'éloge du vin, « admirable sirot » (v. 1275) qui fait « dormir à merveilles » (v. 1278) et l'évocation de la bouteille en termes amoureux.
 
 
-### La répétition
+### La répétition.
 
 Montfleury tire parti du comique associé à la répétition, que ce soit par la reprise d'une situation amusante, d'une gestuelle, d'une attitude ou d'un mot. À l'acte IV , la récurrence de la formule finale des monologues du gentilhomme, « Quelqu'un vient écoutons [57] », montre que l'auteur fait subir à son personnage plusieurs déconvenues successives, dont le caractère répétitif accroît le comique de la démystification. Montfleury joue sur la reprise du motif de l'embrassade. Dans la scène 3 de l'acte I, le gentilhomme, étouffé par l'accolade du Gascon, doit « prendre haleine » (v. 96). Or ce jeu est inversé dans la scène 5 de l'acte III où *la Roche* craint de se faire écraser les côtes en recevant l'embrassade du vigoureux Beauceron (v. 846). Coutreville est essentiellement comique parce qu'il tient un discours tissu d'idées fixes et qu'il répète inlassablement les mêmes attitudes, révélatrices de ses deux vices incurables, l'avarice et la jalousie. Il suspecte constamment une tromperie de la part de Climenne. Tout au long de l'acte I, il garde en effet une attitude soupçonneuse envers le Gascon, comme l'attestent les trois reparties suivantes : « C'est un galand qui cherche à faire connoissance » (v. 100), « Et par l'autre escalier qu'on le face descendre » (v. 140) et « Il cherche à s'introduire ou j'en ay mal jugé » (v. 233). L'obsession est tenace car lors du dénouement, Coutreville, toujours persuadé que Climenne trompera son amant, quel qu'il soit, met en garde Léandre, « bien fin » (v. 1639) s'il évite cet écueil. Cependant, il n'est pas le seul à tenir « un peu beaucoup à son opinion » (v. 952). Au début de l'acte V, l'entêtement comique du Basque qui nie avoir laissé entrer le gentilhomme, désamorce la tension créée par l'annonce de la vengeance de ce dernier. Sa mauvaise foi le conduit à répéter des propos absurdes, tels que « Tu l'as veu si tu veux ; mais il n'est pas ceans » (v. 1336) et l'anaphore de « que » (v. 1340-1346) montre qu'il se perd dans ses arguties.
 
 
-## Les langages ridicules
+## Les langages ridicules.
 
 Autant que par les traits psychologiques de ses personnages, Montfleury entend nous amuser par leur façon de parler. Excepté Climenne et Béatrix, dont les discours ne présentent pas de véritable spécificité, tous les protagonistes du *Gentilhomme de Beauce* sont moqués à travers leurs langages. Montfleury met en scène les parlures de ses personnages par le biais de leurs propres interventions mais aussi des parodies qu'en font leurs interlocuteurs.
 
 
-### Le parler suisse
+### Le parler suisse.
 
 Le personnage du *Suisse* permet de railler le parler rustique et parfois inintelligible que l'on attribuait aux Suisses. Béatrix affirme en effet qu'« On n'entend presque rien de tout ce qu'il veut dire » (v. 223). Le rapprochement à la rime de « dire » (v. 223) et de « rire » (v. 224) souligne la dimension comique des répliques du *Suisse*. Les sonorités sifflantes et chuintantes de son langage, ses déformations phonétiques, telles que « Piatille » (v. 403) pour « Béatrix », et ses incorrections syntaxiques, au même titre que son habillement et que ses manières, participent du comique du personnage. La lourdeur de l'expression du *Suisse* est rendue par les redondances, « ly maison dy lochis » (v. 410), la récurrence du démonstratif « sty [58] » et des formules de jurement, « mon foy » (v. 406 et 454) et « party [59] », ainsi que par sa manière gauche de rapporter le dialogue, avec les incises « dir luy » (v. 413), « tiche » (v. 417) et l'accumulation des pronoms personnels, « moy », « chil », « chy ». Le récit de son altercation avec le « grand petit Monser » (v. 412), qui dénote son intempérance verbale, est d'autant plus comique qu'il est qualifié par Béatrix de « Harangue » (v. 419), terme qui désigne un discours solennel et construit. Dans *La Satire des satires*, Boursault prête à la Uvaltoline, Suisse d'Émilie, un récit de lutte analogue :
 
@@ -332,7 +332,7 @@ Allons, dépêchons, camarade, ly faut allair tous deux à la Crève pour regart
 Cette déformation langagière est comparable à celle qui caractérise les répliques du *Suisse* chez Montfleury. Dans *Le Gentilhomme de Beauce*, la langue des provinciaux ne présente pas de telles altérations. En revanche, elle est associée à la familiarité : l'abondance des jurons et des interjections insultantes, caractérise les parlers du Beauceron, du Gascon et du Basque. Seul le* Suisse* malmène le français, mais les langages des autres personnages, quoique phonétiquement et grammaticalement corrects, ne sont pas exempts de tout sarcasme.
 
 
-### Le langage campagnard
+### Le langage campagnard.
 
 Ce qui est risible chez le gentilhomme ne réside ni dans la prononciation, ni dans l'utilisation d'un idiolecte beauceron, mais dans les références systématiques aux réalités triviales du monde rural. Il réprimande ainsi Climenne sur son attitude :
 
@@ -348,35 +348,35 @@ Voulez-vous m'insulter [63] ?
 La métaphore animale désignant la révérence est remotivée par le rapprochement entre le « pied de veau » et la jambe de l'*abbé*. Ces images relatives à la vie campagnarde tranchent avec le contexte de la vie parisienne. Elles sont d'autant plus comiques qu'elles se veulent spirituelles. Parfois, leur trivialité les rend licencieuses et outrageantes. Lorsque Coutreville déplore que sa cousine laisse « fourager le pré qu'il marchande » (v. 1250), il compare Climenne, recevant son amant, à un pré dont les pailles ont été consommées. Son langage est lardé de mots trahissant son origine contadine, tels que « cottes » (v. 645), dont Furetière atteste qu'« il ne se dit plus qu'à l'égard des paysannes [64] » ou « metairie » (v. 1117), qui concerne le monde agricole et n'a donc pas le moindre à-propos dans un discours sur les filous parisiens.
 
 
-### Le discours pédant
+### Le discours pédant.
 
 Montfleury tourne en ridicule le langage pédant à travers le gentilhomme, l'*abbé la Roche* et Martin. Afin de donner à ses interventions l'apparence d'un raisonnement construit, le Beauceron les ponctue d'articulations logiques et temporelles, parfois associées de façon redondante. Le semblant d'argumentation du Basque au début de l'acte V est d'ailleurs une imitation parodique du discours prétendument rationnel auquel le Beauceron recourt lorsqu'il fustige Climenne, les galants ou les joueurs. Dans la scène 5 de l'acte II, ce dernier expose les préceptes frauduleux de l'**avis aux Thresoriers des foux**  en employant des formules sentencieuses comme « Ah ! voilà bien d'un fait tirer la quintessence » (v. 603). Ces répliques grandiloquentes suggèrent qu'il fait de la loterie un art dont il se veut le théoricien. Dans cette même scène, il s'adresse à Climenne sur un ton professoral, comme en témoignent l'abondance des impératifs et le recours à la modalité déontique, et il cherche à donner de l'ampleur à ses propos par l'emploi récurrent des présentatifs « c'est », « voicy » et « voilà ». Son discours pompeux est d'autant plus comique que lui-même qualifie l'*abbé la Roche*, de « facheux pedant » (v. 809). Montfleury prête en effet à l'*abbé* un langage dont l'afféterie paraît à travers l'emploi de mots savants et de latinismes, tels que « syllogisme » (v. 808), « barbara » (v. 808), « *In capite libri* » (v. 816). Enfin, le langage de Martin se veut aussi savant : il évoque la loterie avec des termes abstraits tels que « uniformité » (v. 1051), « candeur » (v. 1052), « sagacité » (v. 1052), « exactitude » (v. 1053), « promptitude » (v. 1054), parle latin (« *Quid vis* » v. 1048) et recourt à l'autorité de théoriciens reconnus, spécificité du discours érudit raillée par le flou de la référence, « Un Auteur tres-sensé dit que » (v. 1053).
 
 
-### Le discours galant
+### Le discours galant.
 
 Le discours de l'amant transi tenu par Léandre est tourné en dérision. Le jeune homme déplore systématiquement sa mauvaise fortune : ses répliques sont saturées par les termes « mal-heur » (v. 257 et 1609), « desespoir » (v. 260), « maux » (v. 262), « peine » (v. 1206) et « mauvais destin » (v. 1212) et il fait même appel au lexique tragique : la fortune est « cruelle » (v. 710) ; l'adieu à Climenne, « funeste » (v. 1208) ; son déplaisir, « mortel » (v. 1209) et sa constance, « accablée » (v. 714). Son discours est redondant et emphatique : Léandre recourt volontiers aux intensifs « tant » (v. 262) et « si » (v. 713 et 1607), aux antithèses, « Je trouve en mon mal-heur quelque chose de doux » (v. 257) et aux hyperboles, « mille coups » (v. 1215). Son langage n'échappe pas aux clichés du discours amoureux, notamment à la métaphore de l'amour comme feu (v. 266, 1207 et 1609). Les répliques de Léandre sont comiques à cause de l'exagération propre à l'amant passionné. Ce comique est, en outre, renforcé par les sarcasmes du gentilhomme. Ce dernier raille le discours passionné de Léandre et sa dévotion pour Climenne, par la description emphatique de l'attitude du jeune homme face à son amante (v. 341-344) et par le recours au lexique religieux, « s'extasier » (v. 337) et « idole » (v. 344). De la même façon, le Basque singe le discours affecté de son maître en exprimant sa souffrance amoureuse avec ostentation et en parodiant le langage métaphorique de la galanterie, comme le suggèrent les expressions « je souffre nuit & jour » (v. 377) et « Tes yeux m'ont fait pour toy galerien d'amour » (v. 378). L'association des propos galants et du prosaïsme, attesté par la dévalorisation de la métaphore du galérien : « si je puis un jour ramer dans ta galere » (v. 380), renforce l'effet parodique. Par contraste avec le style contourné et ridicule de Léandre, le Basque résume avec simplicité et spontanéité sa conception de l'amour : « Puis que tu m'aimes donc, & que je t'aime aussi, / Pourquoy tant de façons ? » (v. 382-383).
 
 
-## Le style comique
+## Le style comique.
 
 
-### Le contraste
+### Le contraste.
 
 C'est la perception d'une dissonance qui produit dans ce cas un effet comique. Lors de son entretien avec *la Roche* (III, 5), le gentilhomme exprime, sans ambages, son hostilité à l'*abbé* avant de lui témoigner la plus grande bienveillance, une fois qu'il a récupéré la boîte contenant ses billets de loterie. Ce brusque changement de ton, signe de sa cupidité, est d'autant plus drôle qu'à une agressivité excessive et injustifiée succède une complaisance tout aussi exagérée. Le contraste entre les attitudes des interlocuteurs rend l'enchaînement des répliques comique : les réponses évasives et laconiques du gentilhomme, « L'on le croit » (v. 791), « Et bien la roche soit » (v. 792), tranchent avec les propos obséquieux de l'*abbé*. D'autre part, lors des mystifications, Montfleury souligne la discordance entre les paroles prononcées par le Basque et son véritable caractère. En effet, la pédanterie de l'*abbé la Roche* s'oppose à la simplicité du valet. De même, la brutalité belliqueuse et la docilité du *Suisse* contrastent respectivement avec le calme désinvolte du Basque, illustré par la reprise de la formule « qu'importe » (v. 694 et 1270), et avec son irrévérence envers Léandre. L'association, dans le discours du gentilhomme, des registres noble et campagnard produit également un contraste plaisant. De fait, dans la scène 7 de l'acte III, la déclaration galante du Beauceron, dont l'emphase est rendue par le rythme et les références mythologiques, est couronnée par l'image burlesque d'« Apollon » conduisant une « broüette » (v. 970) et par le rapprochement cocasse entre « Apollon » (v. 970) et « Adonis » (v. 968), jeunes dieux d'une grande beauté, et le vieux gentilhomme. Le Beauceron produit un contraste tout aussi déconcertant lorsqu'il décrit la parure coquette de Climenne en introduisant dans sa tirade un lexique relatif à la campagne : ainsi les « moucherons » (v. 897), petits ornements mais aussi insectes disgracieux et repoussants associés à la vie rustique, se substituent-ils aux élégantes mouches, atout majeur de la jeune mondaine.
 
 
-### L'esprit
+### L'esprit.
 
 Montfleury met dans la bouche de ses personnages des jeux de mots destinés à divertir de façon subtile le public, sans se soucier de la vérité psychologique des personnages puisque ce sont parfois les serviteurs qui manifestent le plus d'esprit. Lorsque Béatrix menace le gentilhomme en affirmant qu'« On lui garde des lots » (v. 1167) et qu'il « meriteroit d'avoir des cornes pour son lot » (v. 1168), eu égard au contexte de la loterie organisée par sa maîtresse, elle joue sur la superposition du sens figuré de « lot », « ce qu'on réserve à quelqu'un », et sur son sens concret, « gain d'une loterie ». Le jeu de mots est aussi savoureux lorsque le Beauceron se retrouve étouffé par l'embrassade du Gascon (v. 97) alors même qu'il vient de le menacer en jurant : « La peste vous estouffe avec vostre jargon » (v. 93). Le Basque montre à plusieurs reprises sa finesse d'esprit. Lorsqu'il joue le *Suisse*, son récit sur son « camarate » (v. 453), dépouillé et fait cocu par sa femme parisienne et le galant de celle-ci, a une valeur prémonitoire car c'est le sort que risque de subir le gentilhomme s'il s'obstine à vouloir épouser sa cousine (v. 453-458). De même lorsque, pour convaincre le gentilhomme de son zèle, le « Suisse Basque » (v. 670) jure qu'il ne laissera entrer « Rien point d'aut que son Maistre ou pien luy » (v. 1012), son serment ne sera pas démenti, même s'il laisse entrer Léandre, grâce au jeu sur l'ambiguïté de l'expression « mon Maistre » (v. 1012) qui désigne aussi bien le gentilhomme, maître du *Suisse*, que Léandre, maître du Basque. Climenne et Léandre jouent également sur l'équivoque lorsqu'ils utilisent un langage à double entente afin de tromper le gentilhomme qui les épie : les billets blancs renvoient à leurs malheurs amoureux (v. 307) et le « lot » que Léandre eût aimé partager avec Climenne est l'amour (v. 314). Le gentilhomme manie à plusieurs reprises l'ironie (v. 914-920) et fait de l'esprit. Il invente des termes, tels que « parqueter » (v. 898) et « decocqueter » (v. 1452), ou leur assigne un nouveau sens, comme en témoigne l'emploi de « chamarer », investi du sens de « cajoler » dans l'expression « chamarer les costes » (v. 160).
 
 
-### La verve
+### La verve.
 
 Le Beauceron fait preuve d'éloquence et d'inventivité quand il s'agit de réprouver la coquetterie de sa belle. Sa tirade sur la parure de Climenne (v. 893-906), kyrielle de remarques railleuses, est un des passages les plus comiques de la pièce. L'impitoyable critique laisse percer sa colère à travers les allitérations d'occlusives (v. 900-904), jeu sonore qui illustre aussi l'absence d'harmonie du vêtement. L'assonance en εr dans « Ce mouchoir bas & fait d'une dantelle claire, / Ce sein plus découvert qu'il n'est à l'ordinaire » (v. 893-894) ainsi que l'allitération en b et l'homéotéleute en e dans « Ces brocarts bigarez, & leur diversité » (v. 899) contribuent aussi à la dimension sonore de la tirade. Le gentilhomme semble se laisser emporter par la griserie des mots au point que la jeune femme, par le biais de la métaphore culinaire, filée à travers les expressions « tourne-broche d'or » (v. 900) et « lardez de poinçons » (v. 904), se métamorphose en un mets qui vient d'être apprêté. Béatrix cède aussi à l'ivresse verbale quand elle décrit les plaisirs de l'amour et qu'elle revit avec délectation son entretien avec le Basque : afin de prolonger l'évocation sensuelle du « teste à teste » (v. 1148) amoureux, elle se répète volontiers, comme le montrent les formules redondantes, « on cajole on badine » (v. 1141) et « on se fait, on se dit mille sortes de choses » (v. 1146), ainsi que la dérivation sur « plaisans » (v. 1140 et 1147), « plaire » (v. 1141) et « plaisir » (v. 1150).
 
 
-### La parodie
+### La parodie.
 
 La scène 5 de l'acte V parodie une scène d'*agôn* de la tragédie de Racine, *Britannicus* (IV, 2). Montfleury ne reprend que quelques vers mais ce jeu parodique ponctuel suffit à rendre le rapprochement entre les deux scènes évident. La surprise créée par la référence à* Britannicus* renforce le comique d'une scène, déconcertante et drôle du fait même de la franchise des deux interlocuteurs.
 
@@ -400,7 +400,7 @@ Voilà tous mes forfaits. En voici le salaire [66].
 Le dramaturge rapproche de façon burlesque Agrippine, monstre féminin et Coutreville, gentilhomme campagnard, bourru mais inoffensif. L'autoritarisme du Beauceron, qui veut tout régenter chez Climenne, et son orgueil renvoient sur un mode mineur à la *libido dominandi* d'Agrippine, qui pervertit l'ordre politique romain, ainsi qu'à son *hybris*. Montfleury joue essentiellement sur le décalage comique entre la question du pouvoir impérial romain, enjeu de l'affrontement entre Agrippine et Néron, et les difficultés que pose le mariage d'un villageois beauceron et d'une parisienne coquette. Les sacrifices que le gentilhomme se pique d'avoir fait paraissent dérisoires en comparaison des exactions qu'Agrippine commit afin que son fils accédât au trône (entre autres, la corruption du sénat et la dissimulation de la mort de l'empereur Claude) et la légère blessure d'orgueil qu'il subit n'a rien de commun avec l'humiliation endurée par Agrippine, écartée du pouvoir par son propre fils.
 
 
-# Innocence et masque
+# Innocence et masque.
 
 L'*innocence* paroist dans cet habillement ;  
 C'est celuy qu'ils devroient conserver cherement :  
@@ -410,12 +410,12 @@ Pour les mettre chez-luy les habillast en *masque* [67],
 Ces vers illustrent la dialectique à l'œuvre dans *Le Gentilhomme de Beauce*. Le gentilhomme, loin d'être lui-même aussi naïf qu'il le laisse paraître, loue le *Suisse* pour son ingénuité, dont témoigne, selon lui, son vêtement ; or si quelqu'un est habillé « en masque » et n'est pas « innocent », c'est bien son portier, valet déguisé en Suisse. Dans la comédie, le masque est aussi bien du côté de ceux qui, désignés explicitement comme mystificateurs, jouent des tours et recourent à des procédés théâtraux, que de ceux qui, hypocrites, adoptent des attitudes mensongères en société.
 
 
-## Le masque de théâtre
+## Le masque de théâtre.
 
 Les jeunes gens n'ont qu'un seul propos : tromper leur opposant. Béatrix crée un personnage, un Suisse haut en couleur qu'elle met en scène devant le Beauceron (II, 2), Climenne invente une saynète que Léandre se charge de mettre en œuvre (II, sc. dernière) et le Basque assume les fausses identités, celles du *Suisse* et de l'*abbé la Roche*. Le Beauceron, lui, suit le personnage déguisé sur le terrain choisi par celui-ci et le Gascon ne participe pas aux stratagèmes, ce qui semble les désigner d'emblée comme les laissés-pour-compte de la comédie. La dramaturgie de la moquerie, fondée sur le spectacle comique offert par la dupe, s'impose donc ; pourtant, le gentilhomme ne tarde pas à céder à son penchant pour la dissimulation et à inverser les rôles.
 
 
-### Les jeux de rôle
+### Les jeux de rôle.
 
 Montfleury exploite à deux reprises un procédé de nature théâtrale : le jeu de rôle. Dirigé par Climenne, Béatrix et Léandre, le Basque se déguise et joue. La dimension théâtrale des tours élaborés contre Coutreville est mise en évidence par les personnages eux-mêmes. Climenne qualifie les pièges de « pieces » (v. 1222) et les identités fallacieuses qu'emprunte le Basque sont désignées par les termes « roole [68] » et « personnage » (v. 726). Dans *Monsieur de Pourceaugnac*, on retrouve cette insistance sur la théâtralité des mystifications qu'imaginent les adjuvants des amants, comme en témoigne Éraste qui recommande à Julie de se souvenir de son « rôle » (I, 2).
 
@@ -424,24 +424,24 @@ Le fait de se déguiser, note Georges Forestier, est « la plus haute forme d'a
 Le jeu d'acteur est également essentiel pour mener à bien la mystification. L'action et le discours du valet doivent être en adéquation avec ceux d'un garde suisse et d'un abbé. Dans le premier cas, l'interprétation est facilitée par la conformité des conditions sociales de l'acteur et du rôle, tous deux domestiques, mais elle exige que le Basque prenne l'accent et la déformation verbale prêtés aux Suisses. En revanche, pour jouer l'*abbé la Roche*, il imite une condition supérieure et singe un langage pédant et affecté, ce qui est vraisemblable car le Basque a « un peu d'estude » (v. 280). Les expressions « nostre Suisse Basque » (v. 670) et « l'Abbé le Basque » (v. 1314) louent sa performance d'acteur, en suggérant que le valet et son rôle ne font qu'un. À une période d'aveuglement total du gentilhomme succède la découverte de l'identité du personnage déguisé : le valet est finalement percé à jour par le biais de l'espionnage du gentilhomme. Le jeu de rôle est donc un « succès partiel [71] », selon Georges Forestier. La ruse du Beauceron est rendue possible grâce à la négligence du *Suisse*, ivre : sa chute à la fin de l'acte IV symbolise l'échec de l'artifice. Le Basque, naturellement enclin à boire, imite volontiers l'ivrognerie notoire des gardes suisses. Le paradoxe est amusant : c'est parce qu'il s'assimile pleinement à son rôle de commande qu'il fait échouer le subterfuge. Climenne fait valoir, malgré tout, l'efficacité de l'art théâtral mis en oeuvre lors des jeux de rôle : les « mille coups » (v. 1215) dont Léandre veut percer son rival paraissent dérisoires en comparaison des « coups » dont le cousin « n'a pû se garentir » (v. 1219), terme qui, repris par Climenne, représente les mystifications.
 
 
-### Le gentilhomme mystificateur ou le trompé trompeur
+### Le gentilhomme mystificateur ou le trompé trompeur.
 
 À partir de la scène 5 de l'acte IV, il y a deux actions parallèles : Climenne, Léandre, Béatrix et le Basque évoluent au premier plan tandis que le Beauceron, dissimulé, les observe. Ce dispositif rappelle la séparation qui existe au théâtre entre l'espace scénique et le public. Pourtant, même si son regard est essentiel dans l'acte, le gentilhomme n'est pas assimilable à un spectateur qui prendrait les entretiens qu'il surprend pour une comédie. L'abondance des monologues dans l'acte IV est justifiée par le partage de la scène : les révélations faites sur le devant de la scène sont effectivement ponctuées par les commentaires du Beauceron, demeuré seul en retrait. Le gentilhomme est cette fois celui qui trompe puisqu'il tait sa présence, et la bipartition de l'espace scénique permet sa prise de conscience. L'expression « lever le masque » (v. 1266) donne l'enjeu de l'acte IV, qui consiste à ôter aux amoureux et aux serviteurs leur masque. Elle produit un effet comique car au moment où il la prononce, le gentilhomme croit qu'il est au bout de ses peines et qu'il est désormais le seul à porter un masque alors que le *Suisse* n'a pas encore retiré le sien. La démystification du gentilhomme est mise en évidence par la récurrence de l'adjectif « éclaircy [72] » dont le sens propre est ici actualisé puisque le gentilhomme fait progressivement la lumière sur les agissements de son entourage à mesure que l'on progresse vers le lever du jour.
 
 Le Beauceron oscille entre l'aveuglement et la lucidité. Le vocabulaire relatif à l'innocence et à la sincérité, « naïsveté » (v. 429), « naif » (v. 496), « sans artifice » (v. 431 et 496), « ingenu » (v. 1001) et « ingenuité » (v. 1262), associé au personnage du *Suisse* dans le discours du gentilhomme, met en évidence son erreur de jugement. Celle-ci est patente lorsqu'il interprète les exhalaisons avinées et les ronflements de son portier comme l'expression d'une culpabilité envers son maître alors qu'ils ne sont que les manifestations du plaisir de l'ivresse (v. 1193-1196). Néanmoins, le Beauceron fait parfois preuve d'une lucidité qui atténue la balourdise propre au noble provincial. Ainsi déclare-t-il à Climenne : « je voy ce que c'est la belle, vous aimez ; / Ces Messieurs à fracas » (v. 157-158), prouvant qu il voit clair dans son jeu ; lorsqu'il surprend Climenne et Léandre, il n'est pas dupe de leur langage à double entente (I, 7-8) et il pressent qu'« on fait icy des tours de passe passe » (v. 705). D'autre part, alors qu'il fait valoir sa franchise et sa simplicité, il recourt volontiers à la feinte. La première parole du gentilhomme est un aparté : en effet, au lieu de se joindre aux autres personnages dès son entrée en scène, il se cache pour espionner Climenne et le Gascon. De même, au début de la scène 7 de l'acte I, ses répliques sont prononcées « *à part* » car il épie l'entretien de Climenne et de Léandre et dans l'acte IV, il commente les révélations en aparté. Le recours à l'aparté est emblématique de sa défiance et de son goût de la dissimulation. À l'instar du *Suisse* qui, malgré une apparente ingénuité, se révèle le personnage le plus théâtral, Coutreville, tout en vantant sa sincérité, se plaît à tromper. En définitive, les mystificateurs et la dupe jouent l'innocence mais utilisent, à l'envi, détours et ruses.
 
 
-## Le masque de parade
+## Le masque de parade.
 
 C'est le gentilhomme qui se charge de ridiculiser coquets, galants et abbés tartufes, dont le comportement relève du faux et de l'artificiel. Le vêtement factice se substitue au déguisement et les grimaces du galant et de l'hypocrite remplacent le jeu de l'acteur.
 
 
-### Le vêtement comme masque
+### Le vêtement comme masque.
 
 Dans la scène 7 de l'acte III, le Beauceron exerce sa verve contre Climenne en montrant le caractère grotesque de son vêtement (v. 893-906). L'accumulation d'affiquets et le mélange des couleurs participent de l'assimilation de la toilette à un déguisement, rapprochement révélateur de l'artificialité consubstantielle à la coquetterie L'abondance d'ornements est exprimée par des termes relatifs à la lourdeur, « pend » (v. 900), « fatras » (v. 901), « chargez » (v. 901), « contre-poids » (v. 902), « pendus » (v. 902), « tas » (v. 903), par les pluriels ainsi que par la répétition de « trop » (v. 895 et 896). Cette parure surchargée donne paradoxalement une impression de précarité à cause des talons « mal affermy » (v. 896) et de la coiffure « en l'air » (v. 903), fragilité qui renvoie à une artificialité dérisoire. Le plus piquant est que cette tirade est malvenue, dans la mesure où le gentilhomme est maintes fois ridiculisé du fait de l'extravagance de son accoutrement. D'ailleurs, le fait qu'il revêt son « *habit de Campagne* » (didascalie : p. 96) pour quitter Paris suggère qu'il portait la tenue taillée exprès pour son séjour parisien comme un déguisement. Le vêtement traditionnel suisse est également assimilé à un costume de farce. L'analogie établie entre la toilette de Climenne d'une part, et celle du Beauceron et du *Suisse* d'autre part, achève de priver le vêtement de la jeune femme de tout naturel et de tout raffinement. À l'inverse, le Beauceron associe les valeurs de naïveté et de simplicité à la perpétuation du vêtement ancestral, comme Sbrigani, qui afin de gagner la bienveillance de Pourceaugnac, se félicite d'avoir su rester fidèle aux modes italiennes : « je suis originaire de Naples, à votre service, et j'ai voulu conserver un peu et la manière de s'habiller, et la sincérité de mon pays [73] ».
 
 
-### Galants et abbés : deux impostures
+### Galants et abbés : deux impostures.
 
 Le Beauceron raille la coquetterie et la galanterie de son entourage. Il les associe systématiquement à la facticité de la vie parisienne et la récurrence des termes « cocquet », « cocquette », « galand », « galante », « galanterie » prouve qu'il s'agit chez lui d'une idée fixe. Lorsqu'il fait le bilan de son séjour parisien, il blâme la frivolité des Parisiennes :
 
@@ -477,7 +477,7 @@ Ces diables d'Abbez la pluspart sont courus [84].
 La figure de l'abbé produit un effet comique par sa dimension caricaturale : *la Roche* réunit les principaux vices que la tradition populaire prête aux hommes d'Église, la pédanterie, la curiosité et la grivoiserie.
 
 
-## Le plaisir du masque
+## Le plaisir du masque.
 
 Montfleury met l'accent sur le plaisir que procurent le jeu de rôle et le jeu social. Les personnages prennent rapidement goût aux mystifications. Dans l'acte IV, Climenne et Béatrix sont tout à fait disposées à renouveler les ruses : il s'agit de railler le Beauceron mais aussi de se « divertir » (v. 1220 et 1230). Par deux fois, Béatrix utilise l'adverbe « plaisamment » (v. 671 et 1158) pour se référer à la performance du Basque, exprimant ainsi la satisfaction de l'observateur complice, proche de celle qu'éprouve le spectateur. Le Basque, de son côté, prend plaisir à jouer la comédie. En effet, lorsqu'il assume l'identité du *Suisse*, il se délecte à faire, avec l'accent suisse, un récit bien campé sur ses empoignades avec les visiteurs. (v. 406-418). Dans la scène 5 de l'acte III, quand il interprète l'*abbé la Roche*, il fait durer la conversation, en multipliant les formules de civilité et en accumulant les questions sans intérêt [85]. D'autre part, le jeu de rôle détermine le recours aux apartés, tels que « Il en tient » (v. 866), qui expriment l'autosatisfaction des jeunes gens. Ces commentaires sur l'action placent les personnages dans la position de l'observateur, ce qui crée entre eux et le public une complicité, emblématisée par l'emploi de l'adjectif possessif « nostre » : « nostre cousin donne dans le panneau » (v. 438). Aussi le plaisir des mystificateurs qui regardent avec amusement leurs mises en scène renvoie-t-il à celui du public. De même, dans l'acte IV, le gentilhomme, au supplice, prolonge malgré tout l'espionnage et savoure à son tour le plaisir de tromper. Le jeu social ne séduit pas moins : Climenne avoue sans détour son goût pour la mondanité et la coquetterie, masques nécessaires pour profiter de la « compagnie » (v. 1533), terme qui dans son discours rime de façon significative avec « vie » (v. 1534), et le Beauceron lui-même a « fait de la dépense » et s'est « fait leste » (v. 1458) pour fréquenter la société parisienne.
 
@@ -487,22 +487,22 @@ Montfleury met l'accent sur le plaisir que procurent le jeu de rôle et le jeu s
 Qu'il s'agisse des jeux de rôles, de la coquetterie ou de l'hypocrisie, c'est toujours la facticité qui est mise au jour ; néanmoins, le but de Montfleury n'est pas tant de dénoncer ces comportements trompeurs que d'exploiter des thèmes propres à l'expression de sa verve comique. Le dramaturge porte un regard indulgent et dédramatisé sur ceux qui s'adonnent à la galanterie et à la coquetterie, notamment sur Béatrix qui se délecte du badinage amoureux et de la galanterie avec simplicité (IV, 5). De surcroît, Climenne et ses galants ne sont pas plus ridicules que leur censeur qui, tout en critiquant leur attitude, cède au désir de plaire et se fait tailler un costume spécialement pour son séjour parisien (v. 24). Montfleury est plus sévère avec les abbés, mais son propos n'est pas d'en faire une satire acerbe. Lancaster suggère en effet qu'il se protège contre d'éventuelles condamnations de l'Église puisque l'*abbé la Roche* n'est qu'un rôle joué par le Basque devant le Beauceron et qu'il est d'emblée soupçonné par ce dernier d'être un faux abbé [86]. Il présume, d'autre part, que ce sont le récent succès de *Tartuffe* ainsi que l'allusion désobligeante aux abbés galants que Thomas Corneille insère dans *La Comtesse d'orgueil* qui ont donné à Montfleury assez d'audace pour amuser le public au détriment des abbés [87]. De plus, le jugement que le Beauceron porte sur ceux-ci perd de sa valeur car lui aussi, après avoir découvert qu'il a gagné un lot de trois cent louis, recourt à une gestuelle et à un discours emphatiques. C'est ce que suggèrent la didascalie « *l'embrassant* » (p. 53) ainsi que le nouveau titre qu'il confère à l'*abbé*, « Cousin du directeur general de ses vignes » (v. 826), fonction qui ne correspond à aucun avancement puisque *la Roche* est déjà le cousin du vigneron et que « directeur general de ses vignes » est une périphrase pour « vigneron » (v. 784). En outre, le caractère caricatural du portrait de l'auteur de l'**avis aux Thresoriers des foux** et les réserves de Climenne sur son « esprit » (v. 544), admiré seulement par le gentilhomme dont le jugement est discrédité depuis le début de la pièce, disqualifient sa pensée et désamorcent donc la portée polémique de la scène. En amoindrissant systématiquement le crédit accordé aux censeurs, Montfleury atténue la critique, destinée avant tout à faire rire le public.
 
 
-# Théâtre et société
+# Théâtre et société.
 
 Pour satisfaire le public qui « se plaît », selon Roger Guichemerre, « à retrouver sur la scène des tableaux de la vie parisienne [88] », Montfleury jongle avec les billets amoureux et les billets de loterie et confronte Parisiens et provinciaux.
 
 
-## Un fait de société au théâtre : la loterie
+## Un fait de société au théâtre : la loterie.
 
 La passion du jeu, caractéristique de l'époque, est le sujet de nombreuses comédies, centrées sur le personnage du joueur. Les loteries, en particulier, ont un grand succès à la cour, la mode s'en répand dans le public et les escrocs ne tardent pas à y voir un nouvel expédient susceptible de les enrichir facilement. *Le Gentilhomme de Beauce* rend compte de cette vogue mais le rôle du joueur demeure secondaire par rapport à celui des personnages traditionnels de la comédie d'intrigue. Dans la comédie de Montfleury, les deux loteries sont organisées par des particuliers. Dès la scène d'exposition, Béatrix aborde le sujet car, impatiente de découvrir ses billets, elle se renseigne sur le tirage de la loterie organisée par sa maîtresse (v. 32), ce qui suggère qu'il s'agit d'un thème essentiel de la pièce. L'auteur raille la folie des badauds qui se livrent à ce jeu mais dénonce aussi la corruption des organisateurs qui profitent de leur naïveté. La comédie de Montfleury entre en résonance avec* Les Intrigues de la loterie* de Donneau de Visé [89], qui est représentée vers la fin de l'année 1669 et qui témoigne aussi de cette mode parisienne : la maîtresse de maison, Céliane, a fait une loterie qui doit être tirée le soir même, ce qui attire beaucoup de gens. Valère et Cléronte, amants de Clarice et de Mélisse, la première, fille et l'autre, nièce de Céliane, profitent de cette occasion pour voir leurs maîtresses. Le succès de la pièce a pu porter Montfleury à s'intéresser à ce divertissement d'actualité. Le thème de la loterie renferme une grande potentialité comique car les excès induits par la passion du jeu ou par l'appât du gain se prêtent à une critique elle-même outrée. Toutefois, dans* Le Gentilhomme de Beauce*, la loterie ne sert pas seulement de prétexte à la satire amusée de la société dans la mesure où Montfleury s'applique à intégrer le fait social à l'action.
 
 
-### Une folle passion
+### Une folle passion.
 
 La colère du noble beauceron contre les joueurs, qui vont et viennent avec frénésie pour acheter des billets, constitue un leitmotiv de la comédie. Le choix du terme « embarras », qui est récurrent dans les répliques du Beauceron [90] et qui désigne la loterie, indique que le gentilhomme l'associe de façon systématique à la confusion. Dans* Les Intrigues de la loterie*, Florine, servante de Céliane qualifie aussi la loterie d'« embarras [91] ». Dès l'acte I, la passion du jeu est vivement critiquée par le gentilhomme (v. 168-183) : le paradigme de la folie, illustré par les termes « rage » (v. 168), « fou » (v. 169), « fureur » (v. 172), « folie » (v. 183), ainsi que les expressions superlatives telles que « jamais rage ne fut grande » (v. 168), « jusques au dernier sou » (v. 170), « tres-cours d'argent » (v. 171), « si fort » (v. 173), « telle folie » (v. 183), mettent au jour la démesure des joueurs. Le comportement déraisonnable du joueur effréné est d'ailleurs comparé à celui d'un voleur (v. 173-174). Donneau de Visé insiste, comme Montfleury, sur l'irrationalité des participants que M. Gervais, domestique de Céliane (I, 1) et Clarine, femme d'intrigue (I, 6) qualifient de « fous ». L'image de la porte forcée est emblématique de la fureur avec laquelle le peuple s'adonne à cette nouvelle distraction. Elle est présente dans la plainte que le Beauceron adresse à Climenne (v. 205-212) : son discours imagé, figurant un laquais désemparé et dépenaillé, une porte enfoncée et la foule allant et venant en tous sens, donne à voir une scène de chaos, comparable à un pillage. Martin déplore, à son tour, le désordre inhérent au jeu et l'agitation du public dans un discours hyperbolique, prononcé sur un rythme accéléré, qui rend sensible l'anarchie régnant dans le logis (v. 1055-1058). De même, Champagne réprouve la violence des joueurs qui « ont le diable au corps » (v. 357) : le discours alarmé de son maître sur la « rage » des participants invite à actualiser le sens propre de cette expression, suggérant que ces derniers sont animés par une fureur démoniaque. Chez Donneau de Visé, c'est un laquais, homologue de Champagne, qui peste contre l'agitation de la foule venue retirer les boîtes (I, 4). Montfleury met en évidence l'engouement pour la loterie à travers le Beauceron, gagné lui-même par cette foucade. En effet, immédiatement après son réquisitoire contre les joueurs, il est raillé par sa cousine, qui insinue qu'il est aussi fou qu'eux puisque lui aussi a acheté des billets (v. 184-185). De plus, à partir du moment où il croit avoir gagné à la loterie d'Oronte, il fait preuve d'une précipitation analogue à celle qu'il fustige chez les joueurs : la reprise du verbe « courir », qui caractérise le peuple empressé à acheter les billets (v. 210), dans l'injonction de l'heureux gagnant « courons en diligence » (v. 977) prouve que le campagnard cède, comme tout un chacun, à la fièvre du jeu. Dans* Les Intrigues de la loterie*, tout le monde s'enthousiasme pour le jeu. Comme Béatrix, la cuisinière de Céliane, Michelette, et le valet de Cléronte, Du Bois, investissent dans une loterie. Les bourgeois, à l'instar de Climenne, de Céliane et d'Ergaste, se prêtent également au jeu et s'improvisent comme organisateurs.
 
 
-### Une figure emblématique du joueur : le Gascon
+### Une figure emblématique du joueur : le Gascon.
 
 C'est essentiellement par le truchement du Gascon, joueur impénitent et malchanceux, que le dramaturge illustre les dérives dues à la passion du jeu. Il déplore sa mauvaise fortune dès sa première apparition (v. 68-73). Étant donné la quantité de billets qu'il a achetée, l'annonce « J'ay pris tous billets blancs » (v. 73) est inattendue et témoigne de sa malchance. La formule « il faut voir jusqu'au bout » (v. 73) est d'ailleurs emblématique de sa vaine persévérance. Le procédé de répétition qui structure sa plainte ainsi que la redondance des questions sur le capital de la loterie (v. 81 et 82) indiquent que la participation au jeu revêt, chez lui, un caractère obsessionnel. Ses allées et venues chez Climenne pour s'enquérir de l'état de la loterie sont une autre manifestation de sa folie. D'autre part, à travers la figure du joueur endetté, esquissée dès l'acte I dans le discours du Beauceron qui subodore que la loterie a perdu toute dimension ludique pour ceux qui semblent avoir « aux talons tous les Prevosts de France » (v. 212), Montfleury met au jour le dévoiement du jeu. De fait, le Gascon dévoile à Martin son intention de rembourser ses dettes grâce aux gains qu'il escompte gagner (v. 1071-1072), justifiant ainsi l'impatience avec laquelle il attend le résultat du tirage. Il n'a plus le sens de la réalité puisqu'il en vient à nier la dimension aléatoire inhérente à la loterie :
 
@@ -517,7 +517,7 @@ Cela ne se peut pas, que diable allez vous dire [92] ?
 Les réserves du précepteur en ce qui concerne le succès de la stratégie du Gascon conduisent ce dernier, d'une part, à soupçonner Martin de gérer malhonnêtement la loterie, comme le suggère la rime significative entre « lotterie » (v. 1081) et « friponnerie » (v. 1082), et d'autre part, à le menacer afin que le tirage lui soit favorable. Cela donne à entendre que les tricheries étaient monnaie courante, aussi bien de la part des organisateurs que des joueurs.
 
 
-### La dénonciation des fraudes
+### La dénonciation des fraudes.
 
 Montfleury ne fait qu'une brève allusion aux abus des joueurs dans la scène évoquée précédemment. En revanche, il insiste sur la malhonnêteté des organisateurs de loterie. Même si le dramaturge a souvent exagéré, ses données permettent de se faire une idée de la corruption qui caractérisait la gestion des loteries et qui nécessitait parfois l'intervention de la Justice. Climenne rappelle en effet que les fraudeurs étaient passibles d'une condamnation (v. 630). Dans la pièce, deux conceptions se heurtent : celle de Climenne et de Martin qui souhaitent organiser une loterie honnête et celle du gentilhomme cupide qui veut tirer profit du jeu. Cette opposition se cristallise dans la scène 5 de l'acte II, consacrée à l'exposé de préceptes frauduleux théorisés par un abbé. L'antagonisme entre Coutreville et Climenne est emblématisé par l'opposition entre les deux modes de tirage qu'ils préconisent : l'un, défendu par Climenne, réalisé « au hazard & sans choix » (v. 524) et « fidelement » (v. 528), l'autre, réclamé par le Beauceron, malhonnête, comme l'indiquent les termes « volant » (v. 517), « décacheter » (v. 529) et « supposer (v. 530). Cette dissension est en outre illustrée par les jugements antithétiques qu'ils portent sur l'abbé, qualifié par le gentilhomme d'« Abbé plein d'esprit » (v. 540) et par la jeune femme d'« esprit creux » (v. 544). Le gentilhomme fait effectivement l'éloge de l'ouvrage intitulé « **avis aux Thresoriers des foux** *» (v.* 542) tandis que Climenne soutient en vain ses principes d'honnêteté, incompatibles avec le discours de l'abbé, saturé par le lexique de la dissimulation, « à couvert » (v. 587), « de concert » (v. 588 et 593), « en secret » (v. 608), « doucement » (v. 609). L'abbé recommande expressément à l'organisateur de favoriser, suivant son intérêt, certains participants et de distribuer des lots à moindres frais, y compris son lit dont la valeur peut être triplée (v. 625-628). Les deux comédies mentionnent la variété des lots, souvent de médiocre valeur. Du Bois affirme :
 
@@ -529,15 +529,15 @@ D'Etoffes, de beaux Poincts, de Jambons, de Pâtez [93]
 Des exemples comparables figurent dans le discours du gentilhomme beauceron, lorsqu'il énumère les objets susceptibles de servir de lots : « meubles » (v. 620), « tableaux » (v. 620), « points » (v. 621), « bijoux » (v. 621), « vaisselle … d'argent d'Allemagne » (v. 641), « paté » (v. 644). Une des fraudes stigmatisées à la fois par Montfleury et par Donneau de Visé consiste à décacheter les boîtes : le gentilhomme envisage de recourir à ce procédé (v. 529) et Ergaste, pressentant un tel abus, veut ouvrir sa boîte devant un juge (II, 9). L'héroïne de Donneau de Visé est gagnée, comme le Beauceron, par l'immoralité de la société car elle pervertit le fonctionnement de la loterie en ne mettant en jeu que des billets blancs. À l'inverse, celle de Montfleury regimbe devant les friponneries qui discréditent son entreprise.
 
 
-### La loterie et l'intrigue
+### La loterie et l'intrigue.
 
 Montfleury rattache étroitement la loterie à l'intrigue tandis que chez Donneau de Visé, le jeu est surtout exploité en tant que phénomène social : celui-ci s'attarde plus longuement que Montfleury sur les abus, sur les histoires de gains ou de pertes considérables et sur les usages amusants auxquels se prêtent les joueurs et qui consistent par exemple à donner aux boîtes des noms aussi inattendus qu'« Amphitryon ». Chez les deux dramaturges, la loterie est un prétexte pour introduire un jeune homme auprès de la femme qu'il aime. Dès la première scène du *Gentilhomme de Beauce*, Béatrix et le spectateur apprennent que le jeu préparé par Climenne n'a d'autre destination que de réunir les amants : « Sous pretexte d'y mettre » (v. 42), Léandre peut venir voir son amante. Dans *Les Intrigues de la loterie*, les deux amants de Clarice et de Mélisse profitent pareillement de la loterie pour rendre visite à leurs maîtresses et Florine préconise à Clidamis de feindre de « venir mettre à la Lotterie [94] » pour se rendre auprès de Clarice. Cependant, dans la pièce de Montfleury, la loterie est investie d'une autre fonction : elle est le ressort du stratagème imaginé par Climenne pour éloigner le Beauceron du logis. De fait, au moyen d'une boîte contrefaite, l'*abbé la Roche* convainc le gentilhomme qu'il a gagné trois cent louis à la loterie d'Oronte et qu'il doit aller retirer son lot. Le terme « embarras » emblématise le lien entre le jeu et l'action car au sens propre d'« encombrement [95] », il désigne la loterie, mais son sens figuré, « ensemble de soucis inextricables, de tracas dont on a peine à sortir [96] », « chagrins [97] », renvoie aux obstacles destinés à empêcher l'union du gentilhomme et de Climenne et aux inquiétudes qui taraudent le Beauceron, deux composantes de l'intrigue. D'autre part, la loterie permet aux personnages d'exprimer leurs sentiments : le Gascon courtise Climenne en ayant recours au lexique du jeu (v. 88-89) et la loterie devient le support du langage amoureux des amants dans la scène 7 de l'acte I. Climenne et Léandre font un usage métaphorique des termes relatifs à la loterie pour parler de leurs sentiments en présence du gentilhomme (v. 307-319) et le Beauceron, qui assiste au dialogue, file la métaphore dans la scène suivante (v. 330 et 333-336). Pour les jeunes gens, la loterie est purement ludique ; elle ne sert que leurs desseins amoureux. Dès qu'elle cesse d'être nécessaire à l'intrigue, autrement dit, après le retour du campagnard, détrompé par sa visite à Oronte, Montfleury n'y fait plus allusion de façon significative : le dernier acte ne fait pas mention du résultat du tirage, évoqué *in extremis* par Climenne (v. 1662). À partir du moment où les Parisiens mettent fin à leurs ruses, le thème passe au second plan, ce qui montre qu'il est étroitement lié aux actions entreprises contre le Beauceron.
 
 
-## Deux types sociaux à la mode : le provincial et le hobereau
+## Deux types sociaux à la mode : le provincial et le hobereau.
 
 
-### La province à Paris
+### La province à Paris.
 
 *LeGentilhomme de Beauce* offre le spectacle des ridicules de la province et de l'étranger. Montfleury exploite cette veine comique après Raymond Poisson qui décrit des provinciaux grotesques dans *L'Après-soupé des auberges*, et Molière qui met en scène un avocat limousin dans *Monsieur de Pourceaugnac*. Le gentilhomme de Beauce est d'ailleurs « une espéce de Pourceaugnac [98] », les deux héros étant peu singularisés par rapport au type du provincial. La comédie de Montfleury comprend presque autant de provinciaux (le Beauceron, le Gascon et le Basque) que de Parisiens (Climenne, Léandre, Béatrix et Martin). De plus, le *Suisse* et l'*abbé la Roche*, bien qu'ils aient un statut particulier puisque ce sont les deux rôles interprétés par le Basque, peuvent être assimilés aux provinciaux : *la Roche* est beauceron et le *Suisse*, en tant qu'étranger, subit les mêmes railleries que les gens de province. Enfin, les noms des laquais, « Champagne » et « la Brie », renvoient à deux régions provinciales [99], comme si l'auteur avait voulu faire de son petit groupe de personnages un microcosme de la province française.
 
@@ -584,7 +584,7 @@ La critique de Paris va de pair avec l'éloge partial et outré de la région na
 Le Beauceron rencontre dans la capitale Parisiens et non-Parisiens et paradoxalement, il est aussi bien berné par les uns que par les autres. De fait, le Gascon fait la cour à Climenne [115] et le Basque le mystifie à deux reprises [116]. De surcroît, lorsqu'il est confronté à l'*abbé la Roche*, il est doublement victime de la province car il est trompé par un provincial (l'*abbé* est beauceron) interprété par un provincial (le Basque).
 
 
-### La noblesse campagnarde
+### La noblesse campagnarde.
 
 Montfleury choisit comme héros des mésaventures burlesques de sa comédie, un gentilhomme beauceron tourmenté par des Parisiens. Pierre de Vaissière note que c'est « à dater des premières années du XVII*e* siècle que le gentilhomme campagnard commence à servir de cible … à la verve des auteurs comiques [117] ». Ainsi se forme le type du noble de campagne, personnage propre à faire rire et souvent caricaturé avec outrance. Au XVII*e* siècle, les nobles de province ont perdu de leur prestige, aussi ne tardent-t-ils pas à devenir un objet de risée pour les citadins [118]. Le sarcasme est encore plus grand lorsque ces gentilshommes campagnards s'aventurent hors de leur province et, ignorants des bonnes manières, viennent étaler à la ville leur rusticité et leur vanité. Comme nous l'avons vu, ces traits sont aussi ceux du provincial ; c'est donc essentiellement la fierté du titre et des biens qui singularise le personnage conventionnel du hobereau par rapport à l'homme de province. Dans *Le Baron de la Crasse* [119], Poisson façonne, le premier, une figure du noble de province proche de la réalité et relance la mode du hobereau ridicule : deux nobles, un Marquis railleur et un Chevalier plus réservé, grands admirateurs de la Cour, se rendent au château du Baron pour se divertir de sa conversation. Ils ne tardent pas à obtenir le récit de sa mésaventure bouffonne à Fontainebleau. Si le Baron quitte le Languedoc dans l'espoir de voir le roi et non pour « chercher femme à la ville [120] » comme le gentilhomme beauceron, le type du noble campagnard dans la comédie de Poisson présente des analogies avec celui mis en scène par Montfleury.
 
@@ -595,7 +595,7 @@ Coutreville se rengorge également de posséder des terres et une rente substant
 Le comportement du hobereau constitue un divertissement pour son entourage. Les premières paroles de Béatrix désignent en effet le Beauceron comme la dupe dont on peut se gausser, du fait de son inadaptation foncière au monde parisien : il est « burlesque » (v. 19) et fait « rire » (v. 22). Les mœurs du Baron de la Crasse et le récit de son équipée malheureuse à la cour offrent également un spectacle plaisant au Marquis et au Chevalier. Le Marquis excite la curiosité de son compagnon en déclarant : « Crois que ce campagnard nous divertira fort. » (v. 4). Les personnages observateurs, de bon sens, font jaillir les ridicules des hobereaux. Ainsi, le *Suisse* fait ressortir le tempérament agressif du Beauceron, qui approuve avec insistance l'ardeur brutale du portier, tandis que l'*abbé la Roche*, lorsqu'il se présente au gentilhomme et qu'il lui donne la boîte, met en évidence sa méfiance et sa cupidité.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 L'édition originale du *Gentilhomme de Beauce* fut exécutée en 1670 par Jean Ribou. Il s'agit d'un format in 12°. En voici la description :
 
@@ -618,7 +618,7 @@ Une édition pirate du *Gentilhomme de Beauce* fut publiée en 1670 à Amsterdam
 Le texte de référence comporte de nombreuses coquilles et erreurs ; visiblement, Montfleury ne s'est pas soucié de revoir son texte, une fois imprimé. Le *ſ* a été modernisé en *s* et le *u* en *v* dans *yure* (v. 998) et dans *Uous* (v. 1433). Les accents diacritiques sur le *a* et le *ou* ont été restitués ou ôtés en fonction de la nature grammaticale du terme. La ponctuation a été respectée sauf lorsqu'elle gêne la compréhension du texte ou qu'elle résulte de coquilles manifestes. Les retraits ont été rétablis aux v. 51, 199, 320 et 345 et supprimés aux v. 529, 530, 535, 685, 693 et 866. L'alinéa du v. 1545 a été reproduit.
 
 
-## Les fautes d'impression et d'orthographe
+## Les fautes d'impression et d'orthographe.
 
 On constate beaucoup d'erreurs dans les cahiers I, L et P. Nous avons corrigé *à* en *a* aux v. 193, 207, 431, 448, 716, 888, 1078, 1136, 1196, 1536, 1544 et 1545 ; *a* en *à* aux v. 731, 1022, 1035 et 1101 ; *ou* en *où* aux v. 221, 355, 526, 592, 736, 811, 1047, 1209, 1227, 1239, 1351 et 1439. D'autre part, nous avons restitué la lettre *h* dans l'interjection *A* aux v. 770, 992, 1124 et 1312.
 
@@ -637,7 +637,7 @@ Acte IV : *ma* (1040), *coup de bastons* (1046), *ma* (1046), *CASCON* (nom du 
 Acte V : *ma* (1334), *las* (1336), *là* (1357), *s'en* (1368), *méchaufer* (1389), *Es* (1391), *voyrons* (1392), *fons* (1418), *toutes* (1424), *mébranler* (1430), *au* (1438), *donc* (1467), *ma* (1498), *de fous* (1510), *De terrer* (1516), *trosor* (1529), *en* (1544), *deux* (1544), *ose* (1551), *saille* (1590), *despoir* (1608), *ma* (1652), *la* (1656).
 
 
-## Les obstacles à la restitution du sens
+## Les obstacles à la restitution du sens.
 
 Les éditions ultérieures du *Gentilhomme de Beauce* permettent de rectifier certaines fautes qui font obstacle à la compréhension du texte.
 
@@ -654,7 +654,7 @@ Acte IV : *Le* (1054), *dans* (1225), *le* (1226).
 Acte V : *la* (1408), *Et* (1428), *nostre* (1447), *Et* (1601).
 
 
-## La ponctuation
+## La ponctuation.
 
 Nous avons corrigé la ponctuation suivante :
 
@@ -669,17 +669,17 @@ Acte IV : *candeurØ* (1052), *miens*, (1070), *presse;* (1070), *content.* (1
 Acte V : *gré.* (1384), *yeux ;* (1385), *vous je pense*, (1393), *confidence*, (1394), *rien ;* (1395), *race* : (1414), *surprit*, (1415), *lotterie.* (1470), *aposté.* (1479), *Paris ;* (1519), *chimere* : (1525), *personne ;* (1529), *vie* ; (1534), *soinsØ* (1549), *parler* ; (1552), *voirØ* (1554), *il faut ! helasØ* (1606), *fin.* (1639), *galantes ;* (1650), *consanguinité*, (1651).
 
 
-## La prosodie
+## La prosodie.
 
 Les v. 132, 365, 688, 732, 895, 1045, 1225, 1226, 1256 et 1372 ne comportent que onze syllabes. Par conséquent, nous avons ajouté le terme manquant comme le font les éditions tardives du texte : *de* (132), *ce* (365), *moy* (688), *je* (732), *gant* (895), *me* (1045), *de* (1226), *le* (1256), le préfixe* re*- (1372). Le v. 644 compte une syllabe de trop, c'est pourquoi le second *met* a été supprimé. Enfin, toujours pour respecter la prosodie, *une boëtte* (v. 822) a été remplacé par *ma boëtte*, la correction du verbe *Viviez* (v. 1032) a nécessité l'ajout de *Toy…*, et *tout autre* (v. 1225) a été remplacé par *tous autres*.
 
 
-## La distribution des répliques et la présentation des scènes
+## La distribution des répliques et la présentation des scènes.
 
 Nous avons corrigé les fautes dans la distribution des répliques et la numérotation des scènes ainsi que les erreurs figurant au début des scènes, dans la liste des personnages. Les v. 200-203 sont attribués à Climenne alors que le sens exige qu'ils soient dits par le Beauceron. Le v. 433 est isolé alors qu'il fait partie de la réplique prononcée par le Beauceron aux v. 428-432. La même erreur se produit aux v. 1015-1016, dans une réplique du Basque. À l'acte III, une *scène seconde* et une *scène II* se suivent, ce qui décale la numérotation : aussi l'acte comporte-t-il dix scènes au lieu de neuf. Dans la scène numérotée de façon erronée *scène II*, Champagne figure dans la liste des personnages présents alors qu'il n'arrive qu'à la scène suivante. En revanche, dans celle-ci, seul Champagne paraît dans la liste des personnages, bien que le gentilhomme n'ait pas quitté la scène. Enfin, dans la scène 8 de l'acte I, la liste des personnages présents fait défaut.
 
 
-# LE GENTIL-HOMME DE BEAUCE, *COMEDIE.*
+# LE GENTIL-HOMME DE BEAUCE, *COMEDIE.*.
 
 
 ## A LEURS ALTESSES SERENISSIMES MESSEIGNEURS LES PRINCES DE BRUNSWIK ET DE LUNEBOURG [124].
@@ -732,7 +732,7 @@ La Scene est à Paris dans une Sale chez Climenne.
 CLIMENNE, BEATRIX.
 
 
-    BEATRIX
+    BEATRIX.
 Quoy vous espouseriez ce cousin ? ce magot⁎  
 Supplanteroit Leandre & vous ne diriez mot ?  
 Ce pied-plat⁎ qui se plaint⁎ habits, souliers & chausse,  
@@ -743,13 +743,13 @@ Qu'à le suivre en Province une fille s'engage ?
 Ma foy c'est pour son nez [130] ; qu'il aille en son village,  
 Conter [131] ses poulets-d'inde⁎ & qu'il nous laisse en paix.  
 
-    CLIMENNE
+    CLIMENNE.
 Ma mere dans son bien a trouvé tant d'attraits,  
 Qu'elle veut de mon cœur forcer la repugnance,  
 Et luy pour m'épouzer n'attend qu'une dispense [132],  
 Estant logé chez-nous…  
 
-    BEATRIX
+    BEATRIX.
         Il est vray qu'il est bon [133],  
 Il est icy venu debarquer sans façon⁎,  
 Et depuis empaumant⁎ nostre mere eternelle [134],  
@@ -761,10 +761,10 @@ Sa monture, son train⁎, & tout son equipage⁎,
 Et l'air⁎ dont ce mâtin⁎ vous vint sauter au cou,  
 Je ne puis m'empescher d'en rire tout mon sou.  
 
-    CLIMENNE
+    CLIMENNE.
 Il s'est fait habiller.  
 
-    BEATRIX
+    BEATRIX.
         Ouy, mais ce lunatique  
 Avec son habit neuf sent⁎ sa medaille⁎ antique,  
 Son tailleur avec luy pensa perdre l'Esprit  
@@ -775,26 +775,26 @@ Il dit que ses ayeuls estoient ainsi vestus,
 Et qu'il veut imiter leur mode & leurs vertus,  
 A propos dites-moy, Madame je vous prie.  
 
-    CLIMENNE
+    CLIMENNE.
 Quoy ?  
 
-    BEATRIX
+    BEATRIX.
         Quand pretendez⁎-vous tirer la lotterie ?  
 Vous disiez…  
 
-    CLIMENNE
+    CLIMENNE.
     Pas si tost.  
 
-    BEATRIX
+    BEATRIX.
     Et pourquoy ?  
 
-    CLIMENNE
+    CLIMENNE.
         Pour raison.  
 
-    BEATRIX
+    BEATRIX.
 J'ay de voir mes billets grande demangeaison,  
 
-    CLIMENNE
+    CLIMENNE.
 Je le crois, mais apprens pour te voir satisfaite,  
 Pourquoy je la differe, & pourquoy je l'ay faite,  
 Depuis que pour mes maux [135] ce cousin est chez-nous,  
@@ -806,7 +806,7 @@ Sous pretexte d'y mettre [137] il peut me venir voir,
 Qu'il mette un jour pour luy, le landemain pour d'autres,  
 Et les soins⁎ de l'amour seconderont les nostres.  
 
-    BEATRIX
+    BEATRIX.
 Il est vray qu'à l'aspect [138] du cousin, vos amis,  
 Ont en fort peu de temps deserté le logis,  
 Car vous aviez toûjours fort bonne compagnie⁎,  
@@ -815,19 +815,19 @@ N'avez-vous rien appris du pauvre Chevalier ?
 D'Alchante ? de Damon ? car pour le Maltostier⁎,  
 Il est mort.  
 
-    CLIMENNE
+    CLIMENNE.
         Je souffrois⁎ ces gens par bien-seance,  
 Et de Leandre seul je regrette l'absence.  
 
-    BEATRIX
+    BEATRIX.
 Si vous la regrettez, j'y perd beaucoup aussi,  
 Le Basque son valet n'ose venir ici,  
 Je l'aimois, & je sçais qu'il m'ayme avec tendresse⁎.  
 
-    CLIMENNE
+    CLIMENNE.
 Dis luy si tu le vois qu'avec un peu d'adresse…  
 
-    BEATRIX
+    BEATRIX.
 J'y suis interessée [139] & diray ce qu'il faut.  
 
 
@@ -835,41 +835,41 @@ J'y suis interessée [139] & diray ce qu'il faut.
 CLIMENNE, BEATRIX, LE GASCON.
 
 
-    LE GASCON
+    LE GASCON.
 Hola, quelqu'un [140], lacquais faut il monter en haut ?  
 Personne ne respond.  
 
-    BEATRIX
+    BEATRIX.
         J'entens quelqu'un qui crie.  
 Que vous plaist-il, Monsieur ?  
 
-    LE GASCON
+    LE GASCON.
         Et dont la lotterie,  
 Je porte icy d'argent [141].  
 
-    BEATRIX
+    BEATRIX.
         Pour combien de billets.  
 
-    LE GASCON
+    LE GASCON.
 Pour douze, mais ou sont vos gens⁎ ou vos valets,  
 Qui donne ces billets ? seroit-ce quelque fame ?  
 
-    BEATRIX
+    BEATRIX.
 Non, c'est le Precepteur du frere de Madame.  
 
-    LE GASCON
+    LE GASCON.
 Il s'appelle ?  
 
-    BEATRIX
+    BEATRIX.
     Martin.  
 
-    LE GASCON
+    LE GASCON.
     Habille ?  
 
-    BEATRIX
+    BEATRIX.
         Pas tant sot.  
 
-    LE GASCON
+    LE GASCON.
 Je voudrois qu'il m'apprit à gagner un gros lot,  
 Je m'en suis desja fait pour cinquante pistoles⁎ [142],  
 Dieu me damne [143], & je dis ceci sans hiperboles,  
@@ -879,26 +879,26 @@ J'en avois douze, chez Madame la Fontaine,
 Chez Monsieur de la Vigne encor autre douzaine :  
 J'ay pris tous billets blancs [144] ; il faut voir jusqu'au bout [145].  
 
-    CLIMENNE
+    CLIMENNE.
 Vous estes mal-heureux en lotterie.  
 
-    LE GASCON
+    LE GASCON.
         En tout,  
 Si pour m'indamniser [146] j'estois heureux en belles,  
 Je m'en consolerois.  
 
-    CLIMENNE
+    CLIMENNE.
         Vous sont-elles cruelles ?  
 
-    LE GASCON
+    LE GASCON.
 Il ne tiendra qu'à vous de m'apprendre que non,  
 Vous riez. Vous voyez que je suis sans façon⁎,  
 Tous nous autres Gascons sommes francs.  
 
-    CLIMENNE
+    CLIMENNE.
         Je l'advouë.  
 
-    LE GASCON
+    LE GASCON.
 Loin de nous en blâmer, un chacun nous en louë,  
 Vos lots seront-ils gros ?  
 
@@ -907,81 +907,81 @@ Vos lots seront-ils gros ?
 LE GASCON, LE BEAUCERON, CLIMENNE, BEATRIX.
 
 
-    LE BEAUCERON*. à part*
+    LE BEAUCERON*. à part*.
         Quel est cet évelier⁎ ?  
 
-    LE GASCON
+    LE GASCON.
 Vostre fons⁎ est-il grand ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Le drôle⁎ est familier.  
 
-    BEATRIX
+    BEATRIX.
 Ouy, jusques [147] à present le fonds⁎ en est passable,  
 Beaucoup de gens ont mis, & la somme est notable :  
 Mais comme à la tirer on n'est pas encor prest,  
 Il peut avec le temps estre plus grand qu'il n'est,  
 Pour la fidelité [148]…  
 
-    LE GASCON
+    LE GASCON.
         Je connois bien Madame,  
 Je suis vostre voisin, & j'y mettrois mon ame,  
 Si son cœur me pouvoit venir pour un gros lot.  
 
-    LE BEAUCERON. *à part*
+    LE BEAUCERON. *à part*.
 Ils jaseront toûjours si je ne leur dis mot.  
 
-    BEATRIX. *à Climenne*
+    BEATRIX. *à Climenne*.
 Voicy vostre cousin & vous aurez aubade [149].  
 
-    LE GASCON. *l'embrassant*
+    LE GASCON. *l'embrassant*.
 Ah ! Monsieur.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et mort-bleu d'où vient donc l'embrassade [150] ?  
 La peste vous estouffe avec vostre jargon⁎.  
 
-    LE GASCON
+    LE GASCON.
 Monsieur de Coutreville…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Il est vray c'est mon nom.  
 
-    LE GASCON. *l'embrassant*
+    LE GASCON. *l'embrassant*.
 Vous ne connoissez⁎ plus vos amis.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et de grace.  
 Laissez-moy prendre haleine, & vous revoir en face,  
 Voulez-vous m'estouffer, enfin je vous connois ?  
 
-    LE GASCON
+    LE GASCON.
 Sans doute.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
     Et depuis quant ?  
 
-    LE GASCON
+    LE GASCON.
         Depuis plus de dix mois.  
 Vous estes Beauceron volontiers [151],  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Je le pense,  
 C'est un galand⁎ [152] qui cherche à faire connoissance [153].  
 
-    LE GASCON
+    LE GASCON.
 J'estois, & vous m'allez connoistre⁎ asseurement,  
 Capitaine, & Major, dans certain Regiment [154],  
 Qui passa l'an dernier dedans [155] vostre village.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Ah ! ouy, les grands fripons !  
 
-    LE GASCON
+    LE GASCON.
         On fit quelque ravage [156],  
 J'en demeure d'accord, mais je fus des premiers…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Vous estes donc Monsieur de ces avanturiers ?  
 De ces ames de feu ? de poudre ? & de salpestre ?  
 De ces gens avec qui chez soy l'on n'est point maistre ?  
@@ -994,33 +994,33 @@ Mettez effrontement un honneur⁎ aux abois ?
 N'employez tous vos soins⁎ qu'à gaster⁎ un ménage,  
 Et n'estes point content que le mary n'enrage ?  
 
-    LE GASCON
+    LE GASCON.
 Espargnez vos amis.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Apprenez que je suis,  
 Ennemy capital de semblables amis ;  
 Mais enfin dites-nous quel motif vous amenne ?  
 
-    LE GASCON
+    LE GASCON.
 Je viens pour des billets, & rencontrant Climenne,  
 J'ay pris occasion…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         C'est donc assez jaser,  
 Qui vient pour des billets ne vient pas pour causer,  
 
-    LE GASCON
+    LE GASCON.
 Mort-bleu j'ayme le sexe⁎, & ma joye est extrême,  
 Quand je trouve…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
     Tout doux.  
 
-    LE GASCON
+    LE GASCON.
     Sçachez…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Sçachez vous-mesme,  
 Si vous ne le sçavez, que vous voyez en nous [159],  
 Le cousin de Climenne, & son futur Epoux ;  
@@ -1033,25 +1033,25 @@ Mon logement doit estre exempt de gens de guerre,
 Et qu'enfin je pretens⁎ en cette qualité,  
 Que je puis faire nargue [162] à la majorité.  
 
-    LE GASCON
+    LE GASCON.
 Suffit je vous entens⁎.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         C'est ce que je demande,  
 Cherchez fortune [163] ailleurs.  
 
-    LE GASCON
+    LE GASCON.
         La faute n'est pas grande,  
 Je le veux [164], c'est assez m'en dire sur le point ;  
 Mais ce Monsieur Martin, il est là haut non point ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Je le crois.  
 
-    LE GASCON
+    LE GASCON.
         Prés de luy je m'en vais donc me rendre.  
 
-    LE BEAUCERON. *à Beatrix*
+    LE BEAUCERON. *à Beatrix*.
 Et par l'autre escalier qu'on le face descendre.  
 
 
@@ -1059,7 +1059,7 @@ Et par l'autre escalier qu'on le face descendre.
 LE BEAUCERON, CLIMENNE.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Enfin vous voulez donc en tous lieux & toûjours,  
 De vostre humeur⁎ galante⁎ entretenir le cours ?  
 Voir toûjours près de vous quelque face chocquante⁎,  
@@ -1071,13 +1071,13 @@ Sçache à brûle pour-point tirer une fleurette⁎ ?
 Qui vous serre les mains, & qui pour mes pechez [167],  
 Vous parle incessamment à quatre doits du nez ?  
 
-    CLIMENNE
+    CLIMENNE.
 Comme je suis chez-moy, je crois par bien-seance,  
 Ne pouvoir me parer de [168] quelque complaisance,  
 Et principalement, lors que je vois des gens,  
 De qui la mine⁎, & l'air⁎, exigent…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Je pretens⁎,  
 Qu'on peut payer⁎ ces gens malgré la bien-seance,  
 D'un adieu bien succint & d'une reverence.  
@@ -1089,18 +1089,18 @@ Et l'on est bien venu lors que l'on est paré,
 D'un point⁎ Venitien [170] ou manufacturé,  
 Moy qui ne suis pas fait sur de pareils modelles…  
 
-    CLIMENNE
+    CLIMENNE.
 Mais enfin…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Mais enfin je sçay de vos nouvelles [171].  
 
-    CLIMENNE
+    CLIMENNE.
 La lotterie attire icy beaucoup de gens,  
 Et la porte doit estre ouverte à tous venans,  
 Et vous voyez s'il est aisé qu'on s'en défende.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Il est vray que jamais rage ne fut plus grande,  
 Ouy, je croy qu'en effet le monde devient fou,  
 On se bat pour donner jusques au dernier sou ;  
@@ -1118,11 +1118,11 @@ Chez des gens plus fins qu'eux qu'ils croyent [172] assez sots,
 Pour les gratifier [173] bonnement des gros lots,  
 A-t-on jamais parlé d'une telle folie ?  
 
-    CLIMENNE
+    CLIMENNE.
 Vous avez cependant imité leur manie⁎ :  
 Et pris quatre billets chez Oronte.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         D'accord,  
 Mais celle-là n'a point aux autres de rapport ;  
 Et je m'en sçais bon gré [174], bien-loin que je m'en blâme,  
@@ -1130,41 +1130,41 @@ L'interest ne sçauroit toucher cette grande ame ;
 C'est pour un cœur si noble un sentiment trop bas,  
 Tout s'y fera dans l'ordre & je n'en doute pas.  
 
-    CLIMENNE
+    CLIMENNE.
 On peut ailleurs aussi…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Vostre erreur est extrême.  
 
-    CLIMENNE
+    CLIMENNE.
 C'est vostre sentiment⁎, pour mettre ailleurs de même ;  
 Le peuple a ses raisons.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Le peuple a ses raisons ?  
 Et mort-bleu que fait-on des petites maisons [175].  
 
-    CLIMENNE
+    CLIMENNE.
 C'est un lieu trop petit pour tous les foux de France.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Ah ! si sur le public⁎ j'avois quelque puissance,  
 Qui m'en fit ménager le bien, ou l'interest,  
 Le peuple deviendroit plus ménager⁎ qu'il n'est,  
 Ou du moins…  
 
-    CLIMENNE
+    CLIMENNE.
         Que feroit vostre humeur⁎ prevoyante,  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Moy ? je mettrois l'argent de tous ces fous en rente ;  
 Et je ferois donner au pere, ou bien au fils,  
 De vingt ans, en vingt ans, autant qu'ils auroient mis [176].  
 
-    CLIMENNE
+    CLIMENNE.
 Cela seroit fort beau⁎.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Mais dites-moy de grace.  
 Cet embarras⁎ est grand, n'en estes-vous point lasse ?  
 A chaque instant du jour un lacquais effaré,  
@@ -1176,32 +1176,32 @@ Et l'on diroit enfin à les voir courir tous,
 Et faire chaque jour pareille violence [177],  
 Qu'ils auroient aux talons tous les Prevosts de France.  
 
-    CLIMENNE
+    CLIMENNE.
 Mais j'y suis engagée, il faut voir jusqu'au bout,  
 Laisser passer la foule, & se resoudre à tout,  
 Pourrois-je l'empescher enfin, quoy que je fisse ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Le Beau⁎ doute.  
 
-    CLIMENNE
+    CLIMENNE.
     Et comment ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Il faut avoir un Suisse [178],  
 Mettre en teste [179] à ces gens un hardaut⁎ sans pitié,  
 Qui dessus leur argent soit le premier payé.  
 
-    CLIMENNE
+    CLIMENNE.
 C'est un autre embarras⁎, il seroit necessaire…  
 
-    BEATRIX
+    BEATRIX.
 Madame, j'en sçais un qui sera vostre affaire.  
 
-    CLIMENNE
+    CLIMENNE.
 Où le prendre ?  
 
-    BEATRIX
+    BEATRIX.
         Il demeure à vingt pas du logis,  
 Il est nouvellement venu de son païs ;  
 On n'entend⁎ presque rien de tout ce qu'il veut dire,  
@@ -1212,13 +1212,13 @@ Il frape comme un sourd, ne cherche qu'à se battre,
 Il est fort comme deux, & méchant⁎ comme quatre,  
 Avec sa mine⁎ froide il a le sang fort chaud.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Bon, voilà justement le Suisse qu'il nous faut.  
 
-    BEATRIX
+    BEATRIX.
 Je vous le feray voir.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Au plûtost, sa presence…  
 A propos le Gascon n'est pas sorty je pense.  
 Il cherche à s'introduire ou j'en ay mal jugé ;  
@@ -1229,34 +1229,34 @@ Je vais s'il ne l'est pas luy donner son congé.
 CLIMENNE, BEATRIX.
 
 
-    CLIMENNE
+    CLIMENNE.
 De quoy t'es tu meslée ? est-ce pour mon supplice,  
 Que tu veux t'ingerer de nous donner un Suisse ?  
 Je ne puis voir Leandre, & n'est ce pas assez ?…  
 
-    BEATRIX
+    BEATRIX.
 Je me sers, & vous sers plus que vous ne pensez,  
 
-    CLIMENNE
+    CLIMENNE.
 Comment ? s'il est ainsi, fais-le moy donc connoistre.  
 
-    BEATRIX
+    BEATRIX.
 Si j'en veux [182] au valet vous en voulez au Maistre,  
 N'est-il pas vray ?  
 
-    CLIMENNE
+    CLIMENNE.
     D'accort.  
 
-    BEATRIX
+    BEATRIX.
         Et le Basque est celuy,  
 Que je pretens⁎ pour Suisse introduire aujourd'huy.  
 
-    CLIMENNE
+    CLIMENNE.
 As-tu perdu l'esprit ? le grossier artifice⁎,  
 Crois-tu qu'il [183] puisse prendre un Basque pour un Suisse ?  
 En le faisant parler [184]…  
 
-    BEATRIX
+    BEATRIX.
         Il contre fait si bien  
 Le Suisse, que jamais on n'y connoistra⁎ rien,  
 Vous jugerez bien-tost de ce que j'en puis dire,  
@@ -1268,11 +1268,11 @@ Sans cela prés de vous eust eu peine à se rendre,
 Si le Cousin eust pris sans nous en advertir,  
 Un Suisse, il eust falu se resoudre à pâtir.  
 
-    CLIMENNE
+    CLIMENNE.
 Pour avoir le valet tasche à trouver le Maistre,  
 Tu luy diras.  
 
-    BEATRIX
+    BEATRIX.
         J'y cours, mais je le vois paroistre.  
 
 
@@ -1280,7 +1280,7 @@ Tu luy diras.
 LEANDRE, CLIMENNE, BEATRIX.
 
 
-    LEANDRE
+    LEANDRE.
 Je trouve en mon mal-heur quelque chose de doux,  
 Puis qu'il permet encor que j'approche de vous,  
 Ce moyen de vous voir que le hazard m'envoye,  
@@ -1292,61 +1292,61 @@ Madame, pourrez vous l'espouser & vous taire ?
 Et sans faire éclater⁎ luy donnant vostre foy⁎,  
 Quelque reste des feux que vous sentiez pour moy.  
 
-    CLIMENNE
+    CLIMENNE.
 On veut que je l'épouse, & cet ordre me tuë,  
 Mais la dispense [185] enfin n'est pas encor venuë ;  
 L'amour jusqu'à ce temps pourra faire pour nous…  
 
-    LEANDRE
+    LEANDRE.
 Mais s'il faut qu'elle vienne il sera vostre époux.  
 
-    CLIMENNE
+    CLIMENNE.
 Ne vous alarmez⁎ point, quoy que sa flame éclate⁎,  
 Et souffrez⁎ jusques là qu'un peu d'espoir nous flate⁎  
 
-    LEANDRE
+    LEANDRE.
 De quel espoir helas ! flater⁎ ma passion ?  
 
-    BEATRIX. *les separant*
+    BEATRIX. *les separant*.
 Que de discours, voicy dont [186] il est question,  
 Pour empescher qu'ici la foule ne se glisse,  
 Le cousin Beauceron, veut que l'on prenne un Suisse,  
 Vous sçavez que le Basque est un original,  
 Qui le contre-fait bien.  
 
-    LEANDRE
+    LEANDRE.
         Il ne le fait pas mal,  
 Mesme de ce jargon⁎ s'est fait une habitude,  
 Le drôle⁎ a de l'esprit, & mesme un peu d'estude,  
 Il est plaisant, pourveu qu'il ne s'enyvre point,  
 Tout iray bien.  
 
-    BEATRIX
+    BEATRIX.
         J'auray soin de luy sur ce point ;  
 Trouvez-luy quelque habit de Suisse, & pour l'instruire,  
 Qu'il me vienne trouver je le dois introduire.  
 
-    LEANDRE
+    LEANDRE.
 Mais…  
 
-    BEATRIX
+    BEATRIX.
         Ne demandez point ny comment, ny pourquoy,  
 Despechez, & de tout reposez-vous sur moy.  
 
-    LEANDRE
+    LEANDRE.
 Je t'entens⁎, & je voy combien il nous importe,  
 De rendre mon valet le maistre de la porte ;  
 Je vais y donner ordre, & cet espoir m'est doux :  
 Mais puis-je me flater⁎ en m'éloignant de vous ?  
 
-    CLIMENNE
+    CLIMENNE.
 Allez, & soyez seur que malgré l'advantage  
 Qu'on veut me faire voir dedans ce mariage [187],  
 Si l'amour, et le sort, secondent mes desirs,  
 De l'espoir d'estre à vous je fais tous mes plaisirs ;  
 Et que rien ne sçauroit esbranler ma constance.  
 
-    LEANDRE
+    LEANDRE.
 Que cet espoir m'est doux & que cette asseurance,  
 Malgré ce que je crains rend mes desirs contens.  
 
@@ -1355,28 +1355,28 @@ Malgré ce que je crains rend mes desirs contens.
 LE BEAUCERON, CLIMENNE, LEANDRE, BEATRIX.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Le Gascon est dehors, voicy l'autre dedans,  
 Ils parlent d'action [188], peste quelle novice [189] !  
 
-    CLIMENNE
+    CLIMENNE.
 Mon cœur vous en respond⁎.  
 
-    LE BEAUCERON. *les escoutant*
+    LE BEAUCERON. *les escoutant*.
         Ah nous aurons un Suisse,  
 Le deussay-je payer à mes dépens, je veux…  
 
-    LEANDRE
+    LEANDRE.
 Que ne vous dois-je point de souffrir⁎ que mes feux [190]…  
 
-    LE BEAUCERON. *à part*
+    LE BEAUCERON. *à part*.
 Puis qu'à remercier son ardeur est si prompte ;  
 On peut s'imaginer que le drôle⁎ a son compte [191].  
 
-    BEATRIX. *bas à Climenne*
+    BEATRIX. *bas à Climenne*.
 Voicy vostre cousin.  
 
-    CLIMENNE. *à Leandre*
+    CLIMENNE. *à Leandre*.
         Ne vous alarmez⁎ point.  
 Secondez seulement ma feinte sur ce point.  
 Tous nos billets sont blancs, vous le voyez Leandre ;  
@@ -1385,28 +1385,28 @@ Il faut que quelqu'un perde, & le sort, aux despens :
 De mille mal-heureux, fait si peu de contens ;  
 Que loin de s'en fascher il faut que l'on en rie.  
 
-    LE BEAUCERON [192]
+    LE BEAUCERON [192].
 Elle deviendra folle avec sa lotterie.  
 
-    BEATRIX
+    BEATRIX.
 Ils sont blancs comme nege.  
 
-    LEANDRE
+    LEANDRE.
         Il m'eust esté bien-doux,  
 De pouvoir partager un lot avecque⁎ vous,  
 Vous deviez avec vous associer [193] quelqu'autre,  
 Je crains que mon mal-heur n'ait fait naistre le vostre,  
 Jamais l'évenement⁎ ne respond à mes veux.  
 
-    CLIMENNE
+    CLIMENNE.
 Peut estre une autre fois nous serons plus heureux,  
 Je le souhaite au moins.  
 
-    LEANDRE
+    LEANDRE.
         Madame, je l'espere,  
 Et prens congé [194] de vous.  
 
-    LE BEAUCERON. *à part*
+    LE BEAUCERON. *à part*.
         La peste quel compere⁎.  
 
 
@@ -1414,31 +1414,31 @@ Et prens congé [194] de vous.
 LE BEAUCERON, CLIMENNE.
 
 
-    LE BEAUCERON. *s'approchant de Climenne*
+    LE BEAUCERON. *s'approchant de Climenne*.
 Et deux [195] cousine, & deux, parlons de bonne foy,  
 Il vous remercioit [196], peut-on sçavoir de quoy ?  
 
-    CLIMENNE
+    CLIMENNE.
 De rien.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Mais chacun sçait par son experience [197],  
 Que qui ne reçoit rien ne donne point quittance.  
 
-    CLIMENNE
+    CLIMENNE.
 Nous avions dix billets ensemble chez Damis,  
 Leandre s'y trouvant ce matin, les a pris,  
 Il m'apportoit ma boëtte, & nous l'avons ouverte  
 Et nous nous consolions tous deux de nostre perte ;  
 Quoy que dans mes billets il n'eust que peu de part.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Combien avoit-il mis ?  
 
-    CLIMENNE
+    CLIMENNE.
         Il n'estoit que d'un quart.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Le detour est adroit, ah ma chere cousine !  
 D'un fleau de mary vous avez bien la mine⁎,  
 Dites que ce galand⁎ avoit pour mon mal-heur ;  
@@ -1455,10 +1455,10 @@ Et que sa bouche enfin entre chaque parole,
 Du vent de ses soûpirs encensoit vostre idole.  
 Je l'ay veu…  
 
-    CLIMENNE
+    CLIMENNE.
         Quoy, toûjours quelque soupçon nouveau ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Ah ! cousine m'amie il faut changer de peau [200],  
 Peut estre esperez-vous si le Ciel ne m'exauce,  
 Sçachant que les forests sont rares dans la Beauce [201] ;  
@@ -1466,23 +1466,23 @@ Pourvoir à nos besoins pour une bonne fois,
 Et me faire à Paris provision [202] de bois [203] ;  
 Mais enfin…  
 
-    CLIMENNE
+    CLIMENNE.
         Ce courroux est assez legitime,  
 Si vous n'avez pour moy qu'une si foible estime.  
 
-    LE BEAUCERON. *entend du bruit*
+    LE BEAUCERON. *entend du bruit*.
 Qu'entens-je ?  
 
-    CLIMENNE
+    CLIMENNE.
     Vous devez…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Rentrez, j'entens du bruit.  
 
-    CLIMENNE
+    CLIMENNE.
 Je pretens⁎…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et mort-bleu faites ce qu'on vous dit.  
 
 
@@ -1490,21 +1490,21 @@ Je pretens⁎…
 CHAMPAGNE, LE BEAUCERON.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Où cours-tu ? que fais-tu ? quel couroux te transporte,  
 
-    CHAMPAGNE. *fermant la porte de la sale sur luy.*
+    CHAMPAGNE. *fermant la porte de la sale sur luy.*.
 Monsieur, on vient là bas de forcer nostre porte,  
 Avec leur lotterie ils ont le diable au corps.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Maudit soit l'embarras⁎.  
 
-    CHAMPAGNE
+    CHAMPAGNE.
         J'ay fait tous mes efforts,  
 Avecque⁎ le cocher & la presse⁎ est si grande…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Avant que jusqu'à nous cette foule s'estende,  
 Prens avec toy la *b*rie [204] & courez promptement,  
 Prés de Climenne, elle est dans son appartement⁎,  
@@ -1517,17 +1517,17 @@ O Beatrix !
 LE BEAUCERON, BEATRIX.
 
 
-    BEATRIX
+    BEATRIX.
     Monsieur.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Va chercher de ce pas,  
 Le Suisse que tu dis.  
 
-    BEATRIX
+    BEATRIX.
     J'y vais.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Quel embarras⁎ !  
 Le peuple, & les Galans⁎, tour à tour font ma peine,  
 Ah ! je ne pretens⁎ plus quitter d'un pas Climenne,  
@@ -1542,28 +1542,28 @@ Afin de l'appaiser envoyons luy martin [205].
 BEATRIX, LE BASQUE. vestu en Suisse.
 
 
-    LE BASQUE.* pendant que Beatrix regarde s'il n'y a personne*
+    LE BASQUE.* pendant que Beatrix regarde s'il n'y a personne*.
 Lestre dans sty lochis que sty Monser dimeure ?  
 Qu'il dir que je viendre moy ly servir tout à stheure⁎ [206] !  
 
-    BEATRIX. *ayant regardé par tout*
+    BEATRIX. *ayant regardé par tout*.
 Tréve de gravité personne ne nous voit.  
 
-    LE BASQUE
+    LE BASQUE.
 As-tu bien regardé ?  
 
-    BEATRIX
+    BEATRIX.
     Ouy, nous sommes seuls.  
 
-    LE BASQUE
+    LE BASQUE.
         Soit  
 Ma chere Beatrix !  
 
-    BEATRIX
+    BEATRIX.
         Ah laissons la sornette,  
 Suisse fait à la haste.  
 
-    LE BASQUE
+    LE BASQUE.
         Ah ! charmante Soubrette,  
 Si tu voulois ; pour toy je souffre nuit & jour,  
 Tes yeux m'ont fait pour toy galerien [207] d'amour,  
@@ -1571,14 +1571,14 @@ Je ne suis mesme icy Suisse que pour te plaire,
 Ah ! si je puis un jour ramer dans ta galere,  
 Ne m'aimerois tu plus [208] !  
 
-    BEATRIX
+    BEATRIX.
         Ne sçais-tu pas que si.  
 
-    LE BASQUE
+    LE BASQUE.
 Puis que tu m'aimes donc, & que je t'aime aussi,  
 Pourquoy tant de façons⁎ ?  
 
-    BEATRIX
+    BEATRIX.
         Il n'est pas temps de rire,   
 Tu vois ce qu'il faut faire & sçais ce qu'il faut dire,  
 Songe à jouër icy ton roolle [209] comme il faut,  
@@ -1590,49 +1590,49 @@ Il vient, prepare toy.
 LE BEAUCERON, LE BASQUE BEATRIX.
 
 
-    BEATRIX
+    BEATRIX.
         Monsieur, voilà le Suisse.  
 
-    LE BASQUE
+    LE BASQUE.
 Monser chil viendre icy ly rendre moy serfice,  
 Si vous ly prendre moy je ly servir fort bien,  
 Si vous nestry content moy ly dimandi rien [210].  
 
-    LE BEAUCERON. *aprés l'avoir regardé*
+    LE BEAUCERON. *aprés l'avoir regardé*.
 On ne peut mieux parler ; tu n'as rien fait qui vaille [211].  
 
-    BEATRIX
+    BEATRIX.
 Ce Suisse est vostre fait⁎.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         D'un Suisse a-t-il la taille ?  
 
-    BEATRIX
+    BEATRIX.
 Quoy celuy-cy, Monsieur, n'est pas à vostre gré ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Il en faloit prendre un gras, grand, joufflu, carré,  
 Barbu de deux bons pieds⁎, & qui fut fait de sorte,  
 Que de son ventre seul, il peut [212] boucher la porte.  
 C'est un méchant⁎ ménage, & pour un tel logis,  
 Il en faudroit un gros, ou du moins deux petits.  
 
-    BEATRIX
+    BEATRIX.
 Ces gros Suisses, Monsieur, avec leur barbe salle ;  
 Et leur ventre de son [213], sont des Suisses de *b*alle [214].  
 Estant plus maigre qu'eux il sera plus dispos,  
 Et je l'aymerois mieux comme il est, que plus gros.  
 Escoutez, & voyez.  
 
-    LE BASQUE
+    LE BASQUE.
         Matame Piatille  
 Mafre dit que Monser voudre aver un bon drille⁎,  
 Per garder sty maison che ly garder pien moy [215].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 En avez-vous gardé quelqu'autre-part ?  
 
-    LE BASQUE
+    LE BASQUE.
         Mon foy,  
 Lautry chour un Monser tonner un Cometie⁎,  
 Tans son champre⁎, il tient la dy fort bon companie⁎.  
@@ -1647,30 +1647,30 @@ Et dir qu'il donner moy bien de cou ditrifiere [217],
 Titrifiere, à moy tiche, avec stuy gros martiau,  
 Dil porte en ly fermant chil casser son musiau [218].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Fort-bien.  
 
-    BEATRIX
+    BEATRIX.
         Entendez⁎-vous toute cette Harangue ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Le beau⁎ doute, j'entens⁎ toute sorte de langue.  
 Je ris de son recit, le drôle⁎ n'est point sot.  
 
-    BEATRIX. *riant aussi*
+    BEATRIX. *riant aussi*.
 Et moy Monsieur, j'en ris sans entendre⁎ un seul mot.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Entra-t-il ?  
 
-    LE BASQUE
+    LE BASQUE.
         Lentry don si lentry par firnaitre ;  
 La Matame safre ça, & ly veut que mon maistre,  
 Chasser moy, mais party mon Maistre y jur son foy,  
 Que chestre pon quarson & qu'il chasser point moy.  
 Y pour mon riconpans my tonne un grand pistole⁎ [219].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Que ce Suisse pour nous estoit en bonne escole ?  
 Et qu'il me fait bien voir par sa naïfveté,  
 Qu'il a servy des gens tous pleins d'honesteté,  
@@ -1678,16 +1678,16 @@ Beatrix a raison, il est sans artifice⁎ ;
 Et ce n'est pas la taille enfin qui fait le Suisse.  
 Comment vous nommez-vous ?  
 
-    LE BASQUE
+    LE BASQUE.
     Torften.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         De quel Canton ?  
 
-    LE BASQUE
+    LE BASQUE.
 Dy *b*erne [220] il estre bon sty Canton.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ouy fort bon.  
 à part.
 
@@ -1698,7 +1698,7 @@ Faisons luy sa leçon,
 Que de descendre en bas elle prenne la peine,  
 Et qu'elle vienne voir nostre officier [221] nouveau.  
 
-    BEATRIX
+    BEATRIX.
 J'y vais, nostre cousin donne dans le panneau [222].  
 
 
@@ -1706,28 +1706,28 @@ J'y vais, nostre cousin donne dans le panneau [222].
 LE BEAUCERON, LE BASQUE.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Suisse.  
 
-    LE BASQUE
+    LE BASQUE.
     Plaist-il Monser.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Il faut servir de zele [223].  
 Estre exact, assidu, civil⁎, hardy, fidelle.  
 
-    LE BASQUE
+    LE BASQUE.
 Ouy, Monser.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Gardez⁎-vous d'estre l'introducteur,  
 De ces certains Messieurs, comme ce grand Monsieur,  
 Qu'on vouloit empescher de parler à Madame.  
 
-    LE BASQUE
+    LE BASQUE.
 Ouy, Monser, lafre fou dans sty maison son fame [224],  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Non pas, mais vous sçaurez pour ne point perdre temps,  
 Que je dois épouser la fille⁎ de ceans⁎ ;  
 Et que lors que je vois le galant⁎ qui l'approche,  
@@ -1735,15 +1735,15 @@ La coquette⁎ toûjours a sa défaite⁎ en poche,
 Je pretens⁎ l'empescher [225] & veux que sur ce point,  
 Vous soyez…  
 
-    LE BASQUE
+    LE BASQUE.
         Mais Monser tir fou ly craindre point,  
 Si lestre son mary…sty Matame dy France,  
 Ayme avec ly Monser le ptit rechouissance [226].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Nous y donnerons ordre.  
 
-    LE BASQUE
+    LE BASQUE.
         Un camarate à moy,  
 Qui lafre pris un fam dan sty Paris, mon foy,  
 Lestre riche, aure ly dans son pitit minache,  
@@ -1751,24 +1751,24 @@ Dy pon pip, dy pon vin, pon tabac pon formache
 Sty carogne⁎ dy fame y sty Monser Calan,  
 Fisant sty suis cournar manchy tout son larchan [227].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Si nostre jeune oyson prenant l'affirmative,  
 Pour quelque protestant⁎ fait quelque tentative,  
 Il faudra m'advertir.  
 
-    LE BASQUE
+    LE BASQUE.
         Moy lentendre⁎ point vous.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Si la belle d'icy dont je dois estre époux,  
 Pour voir quelqu'un de ceux que son bel œil attire ;  
 Vous parloit pour l'un deux, il faudra me redire,  
 Tout ce qu'elle aura dit, en quel temps, & comment.  
 
-    LE BASQUE
+    LE BASQUE.
 Ouy Monser, j'il tir fou moy tout caillardement [228],  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Bouche close ; il suffit, je voy venir Climenne.  
 
 
@@ -1776,19 +1776,19 @@ Bouche close ; il suffit, je voy venir Climenne.
 LE BEAUCERON, CLIMENNE LE BASQUE, BEATRIX.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Venez, que dites-vous du Suisse qu'on m'ameine ?  
 
-    CLIMENNE
+    CLIMENNE.
 Je le trouve fort bien s'il est à vostre gré.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Voyez.  
 
-    CLIMENNE. *riant*
+    CLIMENNE. *riant*.
         Comme il est fait ? ce Suisse est fort paré.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Vous riez, c'est ainsi que l'on voit dans les ruës,  
 Ceux qui de leur païs viennent pour des recreües [229],  
 L'innocence paroist dans cet habillement ;  
@@ -1800,24 +1800,24 @@ Les habits qu'on leur [230] voit sont-ce leurs vrais habis,
 Non, & j'appelle enfin ces ames mercenaires,  
 Des Suisses renegats des modes de leurs peres.  
 
-    CLIMENNE
+    CLIMENNE.
 Je veux croire avec vous qu'il est bien mieux ainsi,  
 Et puis qu'il vous agrée, il me plaist fort aussi,  
 A vostre jugement il faut que je me rende :  
 Mais servira-t-il bien ?  
 
-    LE BASQUE
+    LE BASQUE.
         Party li pel⁎ dimande.  
 Chil voudre moy garder si pien ly porte à vous,  
 Que mon Maistre estre pien content [231].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Il est à nous.  
 
-    CLIMENNE
+    CLIMENNE.
 Quand il [232] sera content je seray satisfaite.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Par-bleu voilà pour nous la premiere fleurette⁎,  
 Elle est prise, & voit-bien qu'il faut changer de ton :  
 Le Suisse opere, il faut commencer tout de bon⁎ [233].  
@@ -1825,7 +1825,7 @@ Suisse, allez de ce pas vous poster à la porte,
 Le peuple est fort mutin⁎ ; mais il faut faire en sorte,  
 Que sans confusion il donne son argent.  
 
-    LE BASQUE
+    LE BASQUE.
 O Monser, j'y n'y fair moy point dy manquement [234].  
 
 
@@ -1833,7 +1833,7 @@ O Monser, j'y n'y fair moy point dy manquement [234].
 LE BEAUCERON, CLIMENNE.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Cette acquisition est fort bonne, & ce Suisse  
 Est comme je le veux, naif sans artifice⁎,  
 Et nous allons avoir un peu plus de repos⁎ :  
@@ -1845,12 +1845,12 @@ Car enfin ainsi qu'eux, franchement, je suis las
 De tous les sots discours qu'on est forcé d'entendre  
 Quant la tirerez-vous ? ne sçauroit-on l'apprendre ?  
 
-    CLIMENNE
+    CLIMENNE.
 Je ne sçais ; mais enfin estant sans interest,  
 On peut rendre l'argent si cela vous déplaist ;  
 Mesme des à present on peut le faire dire.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Qu'on ne se presse point, je veux bien qu'on la tire ;  
 Cet espoir a pour moy quelque chose de dous,  
 Car enfin à parler franchement entre-nous ;  
@@ -1861,91 +1861,91 @@ Nous sçavons supputer⁎, & suivant mon calcul :
 Ce qu'on y peut gagner, doit payer le carosse,  
 Les chevaux, les habits, & les frais de la nosse.  
 
-    CLIMENNE
+    CLIMENNE.
 Quoy volant le public⁎ avoir le peuple à dos ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Quoy pretendre⁎ employer tout cet argent en los ?  
 
-    CLIMENNE
+    CLIMENNE.
 Comment donc ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Dites-moy quelle ceremonie,  
 Pensez-vous observer tirant la lotterie ?  
 
-    CLIMENNE
+    CLIMENNE.
 Je pretens⁎ pour ne point faire de mécontens,  
 Méler tous les billets.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Quoy les noirs & les blancs ?  
 
-    CLIMENNE
+    CLIMENNE.
 Sans doute, & que ce soit un lacquais qui les tire,  
 Au hazard, & sans choix.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ma foy je vous admire⁎.  
 
-    CLIMENNE
+    CLIMENNE.
 Puis faire cacheter d'un cachet peu commun,  
 Les boëttes où seront les billets d'un chacun :  
 Eviter si l'on peut le bruit & la cohuë,  
 Et que fidelement [237] quelqu'un les distribuë.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Sans les décacheter.  
 
-    CLIMENNE
+    CLIMENNE.
         Je le pretens⁎ ainsi.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Et sans en supposer⁎ ?  
 
-    CLIMENNE
+    CLIMENNE.
         Je le pretens⁎ aussi,  
 Si je sçay que quelqu'un ait une telle envie.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Fy vous ne sçavez pas faire une lotterie,  
 Et ne meritez pas, dans un employ si doux,  
 La bonne opinion [238] que le peuple a de vous.  
 
-    CLIMENNE
+    CLIMENNE.
 Je ne vous entens⁎ point.  
 
-    LE BEAUCERON. *tirant un livre de sa poche*
+    LE BEAUCERON. *tirant un livre de sa poche*.
         Voyez-vous bien ce livre ?  
 C'est luy qui vous devroit avoir appris à vivre,  
 Le voilà le Docteur⁎ qu'il faloit consulter,  
 Au Palais [239] tout exprés je le viens d'acheter,  
 Et vais vous en citer quelque petit chapitre.  
 
-    CLIMENNE
+    CLIMENNE.
 Qui l'a fait ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
     Un Abbé plein d'esprit.  
 
-    CLIMENNE
+    CLIMENNE.
         Sous quel titre.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Le titre en est divin.  
 
-    CLIMENNE
+    CLIMENNE.
     Montrez- le moy.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Tous doux,  
 Il l'intitule, *avis aux Thresoriers des foux* :  
 C'est comme on nomme ceux qui font des lotteries.  
 
-    CLIMENNE
+    CLIMENNE.
 Ce sont d'un esprit creux quelques plaisanteries.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 C'est un fort habille homme, & je vous en responds⁎,  
 Ecoutez vous verrez s'il en raisonne à fonds [240].  
 IL LIT
@@ -1957,11 +1957,11 @@ Que de son fonds⁎ du moins la troisiéme partie,
 Voilà le premier point qu'il faut qu'on établisse,  
 Le fondement la baze*…*  
 
-    CLIMENNE
+    CLIMENNE.
         Est-il quelque justice,  
 A piller le public⁎ ? & n'est-ce pas voler.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 C'est ce qu'il faut sçavoir ou ne s'en pas méler,  
 Voilà le premier point dont il faut qu'on se serve ;  
 Et voicy le second qu'il faut que l'on observe.  
@@ -1979,24 +1979,24 @@ Fermer l'oreille aux cris du peuple qui s'émeut,
 *Au denier⁎ quatre si l'on peut* [243] :  
 Voilà mort-bleu, voilà raffiner sur la chose.  
 
-    CLIMENNE
+    CLIMENNE.
 Quelques expediens [244] que cet *a*utheur propose,  
 C'est un dépost sacré que l'argent du Public⁎,  
 En feroit-on trafic.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Si l'on en fait trafic [245].  
 
-    CLIMENNE
+    CLIMENNE.
 C'est ce que j'ignorois & ne suis point capable…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Vous l'ignoriez ?  
 
-    CLIMENNE
+    CLIMENNE.
     Sans doute.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et mort-bleu dequoy diable,  
 Vous ingerez-vous donc si vous ne le sçavez ?  
 Dequoy vous sert l'esprit qu'on dit que vous avez ?  
@@ -2004,11 +2004,11 @@ Il faloit donc avant que la chose fust faite
 D'un livre tout pareil faire une bonne emplette,  
 Aprendre chaque article & n'en obmettre aucun.  
 
-    CLIMENNE
+    CLIMENNE.
 Mais j'en ferois scrupule & quand j'en aurois un [246] :  
 Je ne puis…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et cela ne fait peine à personne,  
 Escoutez sur ce point comme l*'a*uteur raisonne.  
 IL LIT
@@ -2018,10 +2018,10 @@ Et chacun doit sçavoir touchant⁎ les lotteries,
 Que comme il est des fous pour faire des folies :  
 Il n'est des gens sensez que pour en profiter.  
 
-    CLIMENNE
+    CLIMENNE.
 Je ne puis me servir de cette Politique.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Quand on la veut tirer voicy ce qu'on pratique :  
 IL LIT
 
@@ -2031,10 +2031,10 @@ Avec ses gens⁎ faut s'entendre ;
 *Et leur en faire échoir exprés* :  
 Le profit…  
 
-    CLIMENNE
+    CLIMENNE.
         Quel profit en pourroit-on attendre ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 C'est où je vous attens vous l'allez voir après.  
 IL LIT
 
@@ -2064,11 +2064,11 @@ Aussi⁎ bien le Proverbe dit,
 Que qui s'acquitte s'enrichit.  
 Que cet homme a d'esprit !  
 
-    CLIMENNE
+    CLIMENNE.
         Il n'est pas necessaire,  
 Pour moy qui ne dois rien.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ah ! voicy vostre affaire.  
 IL LIT
 
@@ -2085,23 +2085,23 @@ Jusqu'à son lit, sans conséquence ;
 *Et quoy qu'il soit de cinq ou six cens francs au plus*, **  
 Le faire effrontement valoir six cens écus⁎.  
 
-    CLIMENNE
+    CLIMENNE.
 D'accort mais sur ce point la semaine derniere,  
 Tels eurent un procés sur semblable matiere :  
 On vouloit le surplus le tour est délicat.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Il est vray sur ce point qu'un Flandrin⁎ d'Advocat,  
 De figure fort longue, & de courte éloquence,  
 Tira par ses cheveux Cujax à l'Audiance [255] ;  
 Et vouloit qu'à le [256] rendre ils fussent condamnez :  
 Mais qu'en arriva-t-il ? il n'eut qu'un pied de nez [257].  
 
-    CLIMENNE
+    CLIMENNE.
 Je craindrois du public⁎ le reproche ou la plainte ;  
 Et ne pourrois…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Chacun en use ainsi sans crainte,  
 L'artisan fait ses lots d'un plat de son métier [258],  
 Le bourgeois y met tout ce qu'il peut employer ;  
@@ -2116,17 +2116,17 @@ Fait chez-luy le gros lot d'un garde magazin⁎ ;
 Et mesme l'autre jour chez un Apoticaire,  
 Pour un des moindres lots on mettoit un clistaire.  
 
-    CLIMENNE
+    CLIMENNE.
 Mais le peuple s'en mocque [260] & l'on devroit tâcher…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Tant mieux c'est un plaisir qui luy coûte assez cher ;  
 On peut à ses dépens luy permettre d'en rire.  
 
-    CLIMENNE
+    CLIMENNE.
 Mais…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Contre cet Autheur vous n'avez rien à dire,  
 Quoy d'une lotterie on aura l'embarras⁎ ;  
 Et celuy qui la fait n'en profiteroit pas ?  
@@ -2143,13 +2143,13 @@ Allez de cet Autheur parcourir chaque page ;
 Et tandis qu'à loisir vous lirez ces advis,  
 Je vais auprés de vous écrire à mon païs.  
 
-    CLIMENNE. *à Beatrix à part* 
+    CLIMENNE. *à Beatrix à part*.
 Va porter mon billet.  
 
 
 ### SCENE VI.
 
-    BEATRIX
+    BEATRIX.
         Pendant que ce fantasque,  
 Ecrit, allons parler à nostre Suisse Basque ;  
 Il vient de debuter plaisamment, à ce fou [264],  
@@ -2162,86 +2162,86 @@ Si quelqu'un…
 LE BASQUE, BEATRIX.
 
 
-    LE BASQUE
+    LE BASQUE.
         Pon chour fou Matame Piatille,  
 
-    BEATRIX
+    BEATRIX.
 Laisse-là ton jargon⁎ nous sommes seuls.  
 
-    LE BASQUE
+    LE BASQUE.
         Ma foy  
 J'en suis ravy, tant mieux ; mais que dis-tu de moy ?  
 
-    BEATRIX
+    BEATRIX.
 Que je crois que l'on peut dire à ton avantage,  
 Que tu fais mieux le fou que tu ne fais le sage.  
 
-    LE BASQUE
+    LE BASQUE.
 J'en demeure d'accort, mais…  
 
-    BEATRIX
+    BEATRIX.
     Quoy mais…  
 
-    LE BASQUE
+    LE BASQUE.
         Je voudrois,  
 T'apprendre à faire un peu la folle⁎.  
 
-    BEATRIX
+    BEATRIX.
         Une autre fois.  
 
-    LE BASQUE
+    LE BASQUE.
 Ah ! si tu me voulois faire sans consequence,  
 Sur nostre Hymen futur quelque petite avance.  
 
-    BEATRIX
+    BEATRIX.
 Tu me prens pour une autre.  
 
-    LE BASQUE
+    LE BASQUE.
         Ah ! point du tout ma foy,  
 Si je te prens [265] jamais, je te prendray pour moy.  
 
-    BEATRIX
+    BEATRIX.
 J'entens quelqu'un.  
 
-    LE BASQUE. *allant brusquement à la porte*
+    LE BASQUE. *allant brusquement à la porte*.
         Party si toy l'est pien timeure,  
 Ty lafre biau cogner, chy loufre d'un cartheure  
 Si chil prent mon libarte ô party…quoy [266] ?  
 
-    BEATRIX. *se mocquant de luy*
+    BEATRIX. *se mocquant de luy*.
         Tais-toy,  
 Ce n'est rien.  
 
-    LE BASQUE
+    LE BASQUE.
         Comment donc te mocques-tu de moy ?  
 
-    BEATRIX
+    BEATRIX.
 On peut dans cette sale aisement nous surprendre.  
 
-    LE BASQUE
+    LE BASQUE.
 Viens dedans mon taudis.  
 
-    BEATRIX
+    BEATRIX.
         Non, mais je veux t'apprendre,  
 Que je voudrois parler à ton Maistre aujourd'huy.  
 
-    LE BASQUE
+    LE BASQUE.
 Quelqu'un heurte à la porte & je croy que c'est luy,  
 
-    BEATRIX
+    BEATRIX.
 Ouvre luy.  
 
-    LE BASQUE. *cherchant la clef*
+    LE BASQUE. *cherchant la clef*.
         Qu'ay-je fait de la clef de la porte ?  
 La voicy.  
 
-    BEATRIX
+    BEATRIX.
     Va donc viste il attend.  
 
-    LE BASQUE
+    LE BASQUE.
         Et qu'importe.  
 
-    BEATRIX
+    BEATRIX.
 Preparons le billet que ma Maistresse écrit [267],  
 A Leandre, Il verra que le tout est d'esprit ;  
 Mais je le voys.  
@@ -2251,17 +2251,17 @@ Mais je le voys.
 LEANDRE, BEATRIX, LE BASQUE.
 
 
-    LEANDRE
+    LEANDRE.
         Et bien ne puis-je voir Climenne ?  
 
-    BEATRIX
+    BEATRIX.
 Si vous vous en flattez⁎ vostre esperance est veine,  
 Et si vous m'en croyez, retournez sur vos pas,  
 
-    LEANDRE
+    LEANDRE.
 Pourquoy ?  
 
-    BEATRIX
+    BEATRIX.
         Nostre bouru ne l'abandonne pas,  
 Et depuis que tantost avec vous il l'a veuë,  
 A l'obseder⁎ ainsi son ame est resoluë,  
@@ -2273,53 +2273,53 @@ Qu'il pretend⁎ y mettre ordre, & qu'il veut empescher
 Que pas un soûpirant ne la puisse approcher ;  
 Il vient de s'enfermer dans sa chambre avec elle.  
 
-    LEANDRE
+    LEANDRE.
 Ah, que pour mon Amour la fortune⁎ est cruelle !  
 Quoy donc m'estant flatté⁎ du plaisir de la voir ;  
 Il faut perdre à la fois sa veuë & mon espoir ;  
 Voir qu'à de si beaux nœuds on face violence [268] ?  
 Ah ! Beatrix ce coup accable ma constance.  
 
-    BEATRIX. *luy donnant un billet*
+    BEATRIX. *luy donnant un billet*.
 Avecque⁎ ce billet prenez un peu d'espoir,  
 Et jugez si Climenne a dessein de vous voir,  
 Et si son cœur pour vous de tendresse⁎ est capable.  
 
-    LEANDRE. *après avoir leu*
+    LEANDRE. *après avoir leu*.
 Je n'en sçaurois douter, le tour est admirable :  
 Que ne te dois-je point, je n'y manqueray pas,  
 Beatrix, dis luy bien que je vais de ce pas ;  
 En suivant cet advis⁎ éloigner le fantasque ;  
 Mais il me faut icy quelqu'un.  
 
-    BEATRIX
+    BEATRIX.
         Prenez le Basque.  
 
-    LEANDRE
+    LEANDRE.
 Et s'il s'en apperçoit, & demande pourquoy  
 Il est dehors ?  
 
-    BEATRIX
+    BEATRIX.
         Allez je prens cela pour moy,  
 Je l'excuseray bien, c'est à quoy je m'engage.  
 
-    LEANDRE
+    LEANDRE.
 Il faut faire pour nous un autre personnage,  
 Basque.  
 
-    BEATRIX
+    BEATRIX.
         Et jouër encor un tour aussi subtil.  
 
-    LE BASQUE
+    LE BASQUE.
 Et bien me voilà prest, mais dequoy s'agit-il ?  
 
-    LEANDRE
+    LEANDRE.
 Je t'instruiray de tout, j'engage ma parole,  
 Qu'auprés du Beauceron il jouëra bien son roole,  
 Et qu'il luy va donner à courre [269] comme il faut :  
 Adieu je sors.  
 
-    BEATRIX
+    BEATRIX.
         Et moy je remonte là haut.  
 
 
@@ -2328,7 +2328,7 @@ Adieu je sors.
 
 ### SCENE PREMIERE.
 
-    LE BEAUCERON. *seul*
+    LE BEAUCERON. *seul*.
 Eh Suisse, Beatrix, eh Champagne la Brie,  
 La peste soit des lots & de la lotterie,  
 Quelle confusion [270] !  
@@ -2338,44 +2338,44 @@ Quelle confusion [270] !
 LE BEAUCERON, BEATRIX.
 
 
-    BEATRIX
+    BEATRIX.
         Monsieur, que voulez-vous ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 De grace dites-moy, d'où viennent tous ces fous,  
 Dont auprés de Martin, la chambre est toute pleine ?  
 
-    BEATRIX
+    BEATRIX.
 A donner leur argent ils ont assez de peine.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Quoy nostre nouveau Suisse au lieu de s'aguerir⁎,  
 Les laisse entrer ?  
 
-    BEATRIX
+    BEATRIX.
         Le Suisse est allé voir mourir,  
 Sa femme, qui dit-on est preste à rendre l'ame.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Elle prend bien son temps pour mourir cette femme,  
 Que Diable n'attend-elle au moins encor un jour,  
 Qui prend garde à la porte ?  
 
-    BEATRIX
+    BEATRIX.
         Attendant son retour,  
 Champagne…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ce maraut⁎ laisse entrer tout le monde ;  
 
-    BEATRIX
+    BEATRIX.
 Il est constant [271] Monsieur, il faut que je l'en gronde ;  
 Et j'y vais de ce pas.  
 
 
 ### SCENE III.
 
-    LE BEAUCERON
+    LE BEAUCERON.
         C'est fort bien fait à toy,  
 Quel sabat, quel fracas ! ah je suis hors de moy ;  
 Ce desordre est enfin tout ce que j'apprehende.  
@@ -2385,24 +2385,24 @@ Ce desordre est enfin tout ce que j'apprehende.
 LE BEAUCERON, CHAMPAGNE.
 
 
-    CHAMPAGNE
+    CHAMPAGNE.
 Avec empressement un homme vous demande.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Que veut-il ?  
 
-    CHAMPAGNE
+    CHAMPAGNE.
     Je ne sçay.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Mais comment est-il fait ?  
 
-    CHAMPAGNE
+    CHAMPAGNE.
 C'est un homme qui porte un fort petit colet⁎ [272],  
 Avec un habit noir, enfin c'est ce me semble,  
 Quelque façon d'Abbé, du moins il leur ressemble.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Qu'il entre, ce sera quelque Abbé de bibus [273],  
 Ah ! que ce nom d'Abbé, fait à Paris d'abus.  
 Mille Abbez du faux coin [274] en dérobent le titre,  
@@ -2427,130 +2427,130 @@ Que me veut-il ?
 LE BEAUCERON, LE BASQUE.*vestu en Abbé*
 
 
-    LE BASQUE.* vestu en Abbé*
+    LE BASQUE.* vestu en Abbé*.
         Joüons bien nostre roole icy [277],  
 Luy faisant de grandes reverences.
 
 Monsieur puis qu'un hazart me donne la licence,  
 De vous pouvoir icy faire la reverence…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Monsieur sans compliment [278] vostre civilité…  
 
-    LE BASQUE. *luy faisant la reverence*
+    LE BASQUE. *luy faisant la reverence*.
 Je sçais ce que je dois à vostre qualité…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Tréve de reverence il suffit d'une couple [279],  
 Monsieur en quatre mots j'ay le jaret peu souple,  
 Finissons  
 
-    LE BASQUE. *continuant*
+    LE BASQUE. *continuant*.
     Je dois trop…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Vous l'avez déja dit,  
 Si vous me les devez je vous en fais credit ;  
 Que voulez vous de moy ? que le Ciel vous confonde,  
 Si vous ne répondez.  
 
-    LE BASQUE
+    LE BASQUE.
         S'il faut que je réponde,  
 Je vous diray Monsieur que je suis Beauceron.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Que m'importe ?  
 
-    LE BASQUE
+    LE BASQUE.
         Et cousin de vostre vigneron.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Et que me fait cela.  
 
-    LE BASQUE
+    LE BASQUE.
         J'ay mesme l'avantage,  
 D'estre l'un des neveux du Curé du village ;  
 J'ay sceu depuis huit jours que vous estiez icy.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 D'accort.  
 
-    LE BASQUE
+    LE BASQUE.
     J'en suis fort aise⁎.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et moy fort aise⁎ aussi.  
 
-    LE BASQUE
+    LE BASQUE.
 Que vous vous portez bien !  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Qui vous dit le contraire ?  
 
-    LE BASQUE
+    LE BASQUE.
 Vous vous mariez [280] donc ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Cela se pourra faire.  
 
-    LE BASQUE
+    LE BASQUE.
 Et vostre épouse est jeune et belle.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         L'on le croit.  
 
-    LE BASQUE
+    LE BASQUE.
 Je m'appelle la roche.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et bien la roche soit.  
 
-    LE BASQUE
+    LE BASQUE.
 Pour goûter sous l'Hymen les plaisirs de la vie,  
 Vous irez au pays ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ouy, s'il m'en prend envie.  
 
-    LE BASQUE
+    LE BASQUE.
 Vous demeurez ceans⁎ ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Toûjours si je n'en sors.  
 
-    LE BASQUE
+    LE BASQUE.
 Vous manque [281]-t-on souvent ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Tant que je suis dehors.  
 
-    LE BASQUE
+    LE BASQUE.
 Pour vous rendre mes soins⁎ mon ardeur est si forte.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Eh mort-bleu voulez-vous finir de quelque sorte.  
 Beauceron trop poly, parce que vous sçavez  
 Faire vingt pieds de veau [282], de deux que vous avez,  
 Voulez-vous m'insulter ? & venir par bravades,  
 Me payer le respect qu'on me doit en gambades [283].  
 
-    LE BASQUE
+    LE BASQUE.
 Mais Monsieur…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Mais voilà la porte, & me voicy,  
 Choisissez de conclure, ou de sortir d'icy,  
 Toutes vos questions lassent ma patience [284].  
 
-    LE BASQUE
+    LE BASQUE.
 Et bien je vais Monsieur conclure en diligence ;  
 Et rendre mon discours plus clair dessus cela  
 Qu'un syllogisme n'est, fust-il en barbara [285].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 O le facheux⁎ pedant⁎ ! depeschez je vous prie,  
 
-    LE BASQUE
+    LE BASQUE.
 Chez Oronte on tira des hier [286] la lotterie ;  
 J'estois prés d'une table où l'on distribuoit  
 La boëtte & les billets, de qui les demandoit,  
@@ -2563,7 +2563,7 @@ Et des hier sans la nuit je vous l'aurois renduë :
 Trop content de pouvoir quand je le croy le moins,  
 Vous rendre ce service, & vous prouver mes soins⁎.  
 
-    LE BEAUCERON. *prenant sa boëte*
+    LE BEAUCERON. *prenant sa boëte*.
 Que ne vous dois-je point ? dedans cette mélée,  
 Sans vous ma boëtte estoit ou perduë ou volée :  
 Que je vous sçais bon gré de n'estre point larron ?  
@@ -2573,45 +2573,45 @@ Cousin du directeur general de mes vignes :
 Mais puis qu'enfin pour moy, vous avez pris ce soin,  
 De ce qu'il en sera vous serez le témoin.  
 
-    LE BASQUE
+    LE BASQUE.
 Monsieur il me suffit…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ah ! Monsieur de la roche,  
 Demeurez.  
 
-    LE BASQUE
+    LE BASQUE.
     J'obeys.  
 
-    LE BEAUCERON. *tirant des ciseaux & ouvrant la boëte & ses billets*
+    LE BEAUCERON. *tirant des ciseaux & ouvrant la boëte & ses billets*.
         J'ay des cizeaux en poche,  
 Voyons dans ce premier.  
 
-    LE BASQUE
+    LE BASQUE.
         S'il pouvoit estre noir.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Ah ! par-bleu, je commen…  
 
-    LE BASQUE
+    LE BASQUE.
     Et bien.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         A ne rien voir,  
 Deux & trois tous pareils alors qu'on se propose,  
 De gagner…Ah ! ma foy.  
 
-    LE BASQUE
+    LE BASQUE.
     Quoy ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Je voy quelque chose,  
 C'est du noir ; Ouy c'en est : *numero vingt-&-six.*  
 
-    LE BASQUE
+    LE BASQUE.
 Si c'estoit le gros lot ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Voyons, trois cent Louys⁎ [288].  
 Mort-bleu trois cent Louys⁎, n'ay-je point la berluë,  
 Lisons *trois cent Louys⁎* non j'ay fort bonne veuë,  
@@ -2623,22 +2623,22 @@ Civil⁎, officieux⁎, & des-interessé,
 Ah ! pourquoy des tantost⁎ ne vous ay-je embrassé ?  
 Mais je pretens⁎ enfin reparer cette faute.  
 
-    LE BASQUE*. se retirant*
+    LE BASQUE*. se retirant*.
 Ah ! vous m'enfoncerez, Monsieur plus d'une coste.  
 
-    LE BEAUCERON. *regardant son bon billet*
+    LE BEAUCERON. *regardant son bon billet*.
 Et vous témoin muet de tant de probité,  
 Digne certificat de son integrité.  
 
-    LE BASQUE
+    LE BASQUE.
 Si vous me soupçonniez cecy vous desabuse.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Ah ! Monsieur mille fois je vous demande excuse ;  
 Oublions le passé, je vous tiens à present,  
 Pour un homme d'honneur & sur tout bien-faisant.  
 
-    LE BASQUE
+    LE BASQUE.
 Comme je n'aspirois qu'à vous rendre service,  
 J'excuse le transport⁎ qui m'a fait injustice ;  
 Et vous honore trop pour en dire un seul mot,  
@@ -2646,44 +2646,44 @@ Si vous voulez tantost⁎ vous aurez vostre lot :
 On les doit délivrer, & mesme l'heure approche ;  
 Je prens congé [289] de vous.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ah ! Monsieur de la Roche [290].  
 Je suis reconnoissant, & vous me faites tort,  
 De me quitter ainsi, le present n'est pas fort ;  
 Mais daignez accepter ces vingt Louys⁎.  
 
-    LE BASQUE
+    LE BASQUE.
         De grace,  
 Croyez…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Dans vostre cœur je sçay ce qui se passe.  
 
-    LE BASQUE
+    LE BASQUE.
 L'interest…  
 
-    LE BEAUCERON. *luy donnant une bourse*
+    LE BEAUCERON. *luy donnant une bourse*.
         Je le sçais mais enfin je pretens [291].  
 
-    LE BASQUE. *la prenant*
+    LE BASQUE. *la prenant*.
 C'est pour vous obliger, Monsieur que je les prens.  
 
-    LE BEAUCERON. *l'embrassant*
+    LE BEAUCERON. *l'embrassant*.
 Adieu venez me voir quelquesfois.  
 
-    LE BASQUE
+    LE BASQUE.
         Je l'espere,  
 à part.
 
 Il en tient [292].  
 
-    LE BEAUCERON. *se retournant*
+    LE BEAUCERON. *se retournant*.
     Serviteur [293].  
 
 
 ### SCENE VI.
 
-    LE BEAUCERON. *seul*
+    LE BEAUCERON. *seul*.
         Non je ne puis m'en taire ;  
 Je ne sçaurois assez admirer⁎ mon bon-heur⁎,  
 Ce que c'est que d'avoir affaire aux gens d'honneur :  
@@ -2707,7 +2707,7 @@ Mais Climenne paroist que Diable cherche-t-elle.
 LE BEAUCERON, CLIMENNE.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Est-ce pour un galand⁎ que l'amour en argus [295],  
 Vous poste en sentinelle ou vous met à l'affus ?  
 Venez-vous voir quittant vostre chambre si viste,  
@@ -2733,7 +2733,7 @@ Dont les coins⁎ empoulez⁎ sont lardez⁎ de poinçons⁎,
 Et vos façons⁎ de plus en tout si peu communes,  
 Font voir que tout cela n'est pas mis pour des prunes [304].  
 
-    CLIMENNE
+    CLIMENNE.
 Ne voulez-vous songer qu'à me persecuter ?  
 Et n'estre ingenieux [305] que pour me tourmenter ?  
 La plus rare beauté veut que l'art la seconde,  
@@ -2742,7 +2742,7 @@ Outre que je ne voy dans mon ajustement⁎,
 Rien que de fort modeste⁎, à parler franchement,  
 Tout vous choque, & sur tout vous voulez me contraindre.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Il est vray j'ay grand tort cousine de me plaindre.  
 Je devois sans troubler tantost vostre entretien⁎  
 Avec ces deux Messieurs [306], passer sans dire rien  
@@ -2755,30 +2755,30 @@ Mais on en diroit trop si je pouvois m'en taire,
 Je suis sur ce sujet difficile à ferrer [308],  
 Et ne fais pas façon⁎ de vous le declarer.  
 
-    CLIMENNE
+    CLIMENNE.
 Des discours si picquans⁎ ont un peu trop de suite [309] ;  
 Mais surquoy pouvez-vous censurer ma conduite ?  
 Ay-je dans mes habits rien qu'on puisse blamer ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Non.  
 
-    CLIMENNE
+    CLIMENNE.
         Rien dans mes discours qui vous doive alarmer⁎ ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Non.  
 
-    CLIMENNE
+    CLIMENNE.
         Rien dans l'entretien⁎ contre la bien-seance ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Non.  
 
-    CLIMENNE
+    CLIMENNE.
         Surquoy fondez-vous donc tant de défiance [310] ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Voyez vous les habits, les discours, l'entretien⁎ ;  
 Cela c'est quelque chose, & si [311] cela n'est rien ;  
 C'est vostre cœur qui donne entrée à la fleurette⁎ ;  
@@ -2786,22 +2786,22 @@ C'est entre cuir & chair [312] que vous estes coquette⁎ ;
 Et je voudrois enfin pour voir mes feux contens,  
 Avec moins du dehors avoir plus du dedans.  
 
-    CLIMENNE
+    CLIMENNE.
 Je vous entens toûjours plaindre de quelque chose.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Je trouve auprés de vous toûjours quelqu'un qui cause.  
 
-    CLIMENNE
+    CLIMENNE.
 Puis-je estre auprés des gens & ne leur dire mot ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Et puis-je l'endurer sans passer pour un sot⁎ ?  
 
-    CLIMENNE
+    CLIMENNE.
 La civilité veut…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Afin que sans surprise,  
 L'amour de nostre Hymen face un Hymen de mise [313],  
 Qui n'ait pour compagnon jamais le repentir,  
@@ -2836,17 +2836,17 @@ En peu de mots voilà matiere à decider,
 Vous verrez si cela vous peut accommoder,  
 Et me direz tantost⁎ quelle est vostre pensée.  
 
-    CLIMENNE
+    CLIMENNE.
 Sans attendre…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et cela n'est pas chose pressée ;  
 Je n'ay pas le loisir [320].  
 
-    CLIMENNE
+    CLIMENNE.
     Mais…  
 
-    LE BEAUCERON. *la faisant rentrer* [321]
+    LE BEAUCERON. *la faisant rentrer* [321].
         Mais c'en est assez,  
 Vous me direz tantost⁎ ce que vous en pensez.  
 M'en voila délivré, courons en diligence,  
@@ -2859,46 +2859,46 @@ Le voicy.
 LE BEAUCERON, LE BASQUE.*Vestu en Suisse*
 
 
-    LE BASQUE. *dans l'entrée*
+    LE BASQUE. *dans l'entrée*.
         Chyl tir toy party qui lentry point,  
 Toy ly veut voir Montam chi lestre point un peste [322].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Qu'est-ce Canton de Berne [323].  
 
-    LE BASQUE
+    LE BASQUE.
         Il my rompre⁎ mon teste,  
 Un Gascon pour lentrer jil jeter son chapiau,  
 D'un cou de mon libarte au mitan⁎ di russiau⁎ [324].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Vous avez fort bien-fait…mais Suisse vostre fame,  
 A ce que l'on m'a dit est preste à rendre l'ame.  
 
-    LE BASQUE
+    LE BASQUE.
 O point chi ly reviendre, un Monser Medeçain   
 Tir moy qu'il estre rien, qu'il moury que timain [325].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Le repy n'est pas grand, son sens froit [326] me fait rire,  
 Ce n'est rien, un Monsieur Medecin vient de dire,  
 Que ce n'est que demain que sa femme moura,  
 Ah vous n'en estes pas plus emeu que cela ?  
 
-    LE BASQUE
+    LE BASQUE.
 O ly connestre pien Medicain [327].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Une affaire  
 M'oblige de sortir, il sera necessaire,  
 Si quelqu'un me demande, après m'avoir cherché,  
 De dire que je suis dans ma chambre empesché⁎,  
 Mesme à ceux du logis, à moins que de me suivre [328].  
 
-    LE BASQUE
+    LE BASQUE.
 Chil tir quil tormi vou pien fort & quil estre yvre [329].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 J'aymerois mieux encor que l'on me creust dehors,  
 Qu'yvre dans le logis, je crains bien si je sors,  
 Que ce Suisse ingenu ne gaste⁎ le mystere [330],  
@@ -2910,54 +2910,54 @@ Que l'on n'en reçoit plus, que demain on la tire,
 Et pour les empescher de vous persecuter,  
 Il faut ne point respondre & les laisser heurter.  
 
-    LE BASQUE
+    LE BASQUE.
 Ouy, Monser.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Et sur tout ne point ouvrir la porte,  
 Jusques à mon retour à personne, il m'importe,  
 Qu'on soit exact.  
 
-    LE BASQUE
+    LE BASQUE.
         Sur fou party quil lentrera,  
 Rien point d'aut que mon Maistre ou pien moy [332]…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Bon cela⁎,  
 C'est assez & je sors aprés cette asseurance.  
 il s'en va.
 
 
-    LE BASQUE. *à part*
+    LE BASQUE. *à part*.
 Il en tient [333].  
 
-    LE BEAUCERON. *se retournant*
+    LE BEAUCERON. *se retournant*.
         Mais sur tout cachez bien mon absence.  
 A tous ceux du logis.  
 
-    LE BASQUE
+    LE BASQUE.
         O fou me lafre dit [334].  
 à part.
 
 Qu'il est duppe.  
 
-    LE BEAUCERON. *se retournant*
+    LE BEAUCERON. *se retournant*.
     Si…  
 
-    LE BASQUE
+    LE BASQUE.
     Quoy Monser.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         J'entens du bruit.  
 Cela suffit je sors.  
 
-    LE BASQUE
+    LE BASQUE.
         Chil louvre fou sty porte [335].  
 
 
 ### SCENE IX.
 
-    BEATRIX. *seule*
+    BEATRIX. *seule*.
 Enfin il est dehors, que Belzebut l'emporte,  
 Sans oublier quiconque en aura du soucy⁎,  
 Je suis depuis une heure en sentinelle icy,  
@@ -2970,44 +2970,44 @@ Ne vois-je pas Leandre ?
 LEANDRE, BEATRIX, LE BASQUE.
 
 
-    BEATRIX
+    BEATRIX.
         Estiez- vous à l'affus ?  
 Pour estre icy si-tost.  
 
-    LEANDRE
+    LEANDRE.
         Depuis une heure & plus,  
 J'attendois sur le pas d'une porte voisine,  
 Qu'il sortit.  
 
-    LE BASQUE
+    LE BASQUE.
         L'on [336] n'a point éventé nostre mine [337].  
 
-    LEANDRE
+    LEANDRE.
 Mais quand reviendra-t-il, dis moy te l'a-t-il dit ?  
 
-    BEATRIX
+    BEATRIX.
 Quoy qu'il face, il ne peut revenir qu'à la nuit,  
 Oronte loge loin d'icy, quoy qu'il se presse…  
 
-    LEANDRE
+    LEANDRE.
 Tant mieux, je vais donc voir ta charmante Maistresse.  
 
-    BEATRIX
+    BEATRIX.
 Venez.  
 
-    LEANDRE. *à son valet*
+    LEANDRE. *à son valet*.
         Mais souviens toy qu'il faut bien achever [338].  
 
-    LE BASQUE
+    LE BASQUE.
 Vivez en repos.  
 à Beatrix.
 
     Toy…  
 
-    BEATRIX
+    BEATRIX.
         Je viens te retrouver.  
 
-    LE BASQUE
+    LE BASQUE.
 D'accort, & nous pourrons nous sentant de la Feste,  
 Regler nostre entretien⁎ dessus leur teste à teste.  
 
@@ -3017,7 +3017,7 @@ Regler nostre entretien⁎ dessus leur teste à teste.
 
 ### SCENE PREMIERE.
 
-    LE GASCON
+    LE GASCON.
 À la fin j'ay trouvé moyen d'entrer ceans⁎,  
 La porte est à present ouverte à tous venans :  
 Grace au Suisse qui dort & qui sans doute est yvre,  
@@ -3038,14 +3038,14 @@ Mais n'apperçois-je pas Monsieur Martin ?
 LE GASCON, MARTIN.
 
 
-    MARTIN
+    MARTIN.
         *Quid vis* [343].  
 
-    LE GASCON
+    LE GASCON.
 Que vous parliez François [344] dites franc je vous prie,  
 Quand pretend⁎-t-on ceans⁎ tirer la lotterie ?  
 
-    MARTIN
+    MARTIN.
 Cette affaire demande une uniformité,  
 De candeur, de loisir & de sagacité.  
 Un Auteur tres-sensé dit que l'exactitude,  
@@ -3057,7 +3057,7 @@ Des altercations mesme contentieuses [346],
 Je suscrits aujourd'huy les boëttes de ma main,  
 Et l'on pretend⁎ tirer les billets des demain.  
 
-    LE GASCON
+    LE GASCON.
 Dieu me damne j'en suis au comble de la joye,  
 Pour me mettre en repos⁎ je n'ay que cette voye,  
 Comment à chaque jour je creve dans ma peau [347],  
@@ -3065,10 +3065,10 @@ J'ay toûjours aux talons quelque fâcheux⁎ nouveau,
 Après moy sans quartier [348] sans cesse quelqu'un crie,  
 Et si l'on ne tiroit bien-tost la lotterie…  
 
-    MARTIN
+    MARTIN.
 Eh ! qu'importe à ces gens qu'on face cet effort ?  
 
-    LE GASCON
+    LE GASCON.
 Comment diable qu'importe, il importe tres-fort,  
 Les gens que je vous dis qui m'obsedent⁎ sans cesse,  
 Sont six creanciers miens [349] ; comme chacun d'eux presse,  
@@ -3076,7 +3076,7 @@ Je me suis à la fin resolu d'assigner,
 Leurs debtes [350] sur les lots que je m'en vais gagner,  
 Brûlant d'estre payez jugez s'il leur importe.  
 
-    MARTIN
+    MARTIN.
 Quoy vous croyez payer vos debtes de la sorte ?  
 Et vos creanciers foux au supresme degré,  
 Prennent pour hypotecque un lot mal assuré ?  
@@ -3085,50 +3085,50 @@ Pour payer des debets⁎ a-t-elle cours en France ?
 Si vous avez dessein de payer ces Messieurs,  
 Croyez-moy cherchez leur un autre fons⁎ ailleurs.  
 
-    LE GASCON
+    LE GASCON.
 Vous m'embarassez fort, à vostre lotterie,  
 Feroit-on dites-moy quelque friponnerie ?  
 
-    MARTIN
+    MARTIN.
 Vous avez tort, Monsieur, d'avoir un tel soupçon.  
 
-    LE GASCON
+    LE GASCON.
 Veut-on favoriser quelqu'un des gros lots ?  
 
-    MARTIN
+    MARTIN.
         Non.  
 
-    LE GASCON
+    LE GASCON.
 Comment donc tous ces lots que ceans⁎ on doit faire,  
 N'est-ce pas de l'argent content [351] ?  
 
-    MARTIN
+    MARTIN.
         La chose est claire,  
 Mais il faut pour avoir les gros lots de ceans⁎,  
 Les gagner.  
 
-    LE GASCON
+    LE GASCON.
         Cadedy⁎ c'est comme je l'entens,  
 Je pretens⁎ du gros lot acquitter quatre debtes,  
 Et le gagner s'entend [352] ; quelle mine⁎ vous faites.  
 
-    MARTIN
+    MARTIN.
 Je voy gagnant des lots que tout ira fort bien,  
 Mais qui les payera si vous ne gagnez rien ?  
 
-    LE GASCON
+    LE GASCON.
 Cela ne se peut pas, que diable allez vous dire ?  
 
-    MARTIN
+    MARTIN.
 Je croy que vous n'aurez pas grand sujet d'en rire.  
 
-    LE GASCON
+    LE GASCON.
 Comment vous le croyez ?  
 
-    MARTIN
+    MARTIN.
         Ouy je vous en repons⁎.  
 
-    LE GASCON
+    LE GASCON.
 Je ne gagneray rien ? & bien nous le verrons :  
 Je vous ay franchement dit toute mon affaire,  
 Il me faut quatre lots tout au moins pour la faire,  
@@ -3138,7 +3138,7 @@ Ne m'en prendre qu'à vous & vous m'en respondrez [353].
 
 ### SCENE III.
 
-    MARTIN. *seul*
+    MARTIN. *seul*.
 À moy Monsieur à moy cet homme n'est pas sage,  
 A-t-on jamais tenu de semblable langage ;  
 S'il n'a pas quatre lots il s'en va prendre à moy,  
@@ -3149,7 +3149,7 @@ Sortons de cette chambre & montons dans la nostre.
 
 ### SCENE IV.
 
-    LE BEAUCERON. *seul*
+    LE BEAUCERON. *seul*.
 Ouy je suis pris pour duppe & voy la fausseté  
 La boëtte est supposée⁎ & le cuistre⁎ aposté⁎ ;  
 C'est un tour qu'on m'a fait j'ay receu chez Oronte ;  
@@ -3183,17 +3183,17 @@ Quelqu'un vient écoutons.
 BEATRIX, LE BEAUCERON.
 
 
-    BEATRIX
+    BEATRIX.
         Il est nuit l'heure presse,  
 Et je croy qu'il est temps d'avertir ma maistresse ;  
 Et nostre Beauceron pourroit bien revenir,  
 Climenne avec Leandre a pû s'entretenir,  
 Depuis qu'il est dehors ils n'ont bougé d'ensemble.  
 
-    LE BEAUCERON. *à part*
+    LE BEAUCERON. *à part*.
 Quoy Leandre est ceans⁎ ?  
 
-    BEATRIX
+    BEATRIX.
         Quand un hazart assemble,  
 Deux Amans⁎ que l'amour unit en mesme temps,  
 Il se passe ma foy des momens bien plaisans :  
@@ -3206,10 +3206,10 @@ On se fait, on se dit mille sortes de choses :
 De mille plaisans mots on larde⁎ l'entretien⁎ ;  
 Et sans le teste à teste enfin l'amour n'est rien.  
 
-    LE BEAUCERON. *à part*
+    LE BEAUCERON. *à part*.
 La peste qu'elle en sçait.  
 
-    BEATRIX
+    BEATRIX.
         Je juge par moy-mesme,  
 Du plaisir que l'on a d'estre avec ce qu'on aime ;  
 Le Basque & moy voyïons tantost nos feux contens,  
@@ -3224,10 +3224,10 @@ Et pour faire sortir d'icy le Beauceron,
 Qu'il a bien contrefait son visage & son ton :  
 Les vingt Louïs⁎ en sont une assez bonne marque.  
 
-    LE BEAUCERON. *bas*
+    LE BEAUCERON. *bas*.
 Ah ! masque⁎ c'est donc vous qui conduisez la barque [364].  
 
-    BEATRIX
+    BEATRIX.
 D'abort qu'il a trouvé numero vingt-&-six  
 Il a crû bonnement que les trois cent Loüis⁎,  
 L'attendoient tous contez [365], il est sorty sur l'heure,  
@@ -3235,10 +3235,10 @@ Comme nous l'esperions, il est bon ou je meure [366] ;
 On luy garde des lots [367] par ma foy ce magot⁎,  
 Meriteroit d'avoir des cornes [368] pour son lot.  
 
-    LE BEAUCERON. *à part*
+    LE BEAUCERON. *à part*.
 Advis au Lecteur [369].  
 
-    BEATRIX
+    BEATRIX.
         Mais il doit sçavoir je pense,  
 Que l'on l'a pris pour duppe & j'en ris par avance,  
 Ce n'est qu'entre ses dents qu'on le verra pester,  
@@ -3251,7 +3251,7 @@ Ils passeront la nuit si l'on ne leur dit rien.
 
 ### SCENE VI.
 
-    LE BEAUCERON. *seul*
+    LE BEAUCERON. *seul*.
 Ah ! ah ! chacun icy cajole⁎ à tour de roole,  
 Leandre est seul auprés de Climene & le drôle⁎,  
 Avec ceux du logis estoit donc du complot,  
@@ -3282,15 +3282,15 @@ Quelqu'un vient écoutons sans qu'on nous puisse voir.
 LEANDRE, CLIMENNE, BEATRIX.
 
 
-    LEANDRE
+    LEANDRE.
 Faut-il nous separer ? que cet ordre est severe.  
 
-    BEATRIX
+    BEATRIX.
 J'en demeure d'acort cela ne vous plaist guerre,  
 Pour quitter ce qu'on ayme il n'est jamais trop tart,  
 Cependant il est temps de faire bande à part.  
 
-    LEANDRE
+    LEANDRE.
 Je vois bien qu'il me faut esloigner de Climenne,  
 Mais souffre⁎ en la quittant que je flate⁎ ma peine,  
 Laisse agir mon respect & ma flame en ce lieu,  
@@ -3304,10 +3304,10 @@ Qu'un brutal [376] dont l'ardeur s'éforce à vous contraindre,
 Et que je percerois plûtost de mille coups,  
 Que de souffrir⁎ jamais qu'il devient [377] vostre espoux.  
 
-    LE BEAUCERON. *bas*
+    LE BEAUCERON. *bas*.
 Ah ! le facheux⁎ rival.  
 
-    CLIMENNE
+    CLIMENNE.
         Cette plainte m'offence,  
 Et mon amour vous doit tenir lieu d'asseurance ;  
 Ce cousin de nos coups n'a pû se garentir,  
@@ -3319,56 +3319,56 @@ Qui duppe au dernier point se croit spirituel⁎.
 De tous autres enfin son humeur⁎ le discerne,  
 Et de pareils lourdeaux meritent qu'on les berne.  
 
-    LE BEAUCERON. *bas*
+    LE BEAUCERON. *bas*.
 C'est encor trop d'honneur, où m'estois-je fouré ?  
 
-    BEATRIX
+    BEATRIX.
 Si j'y puis quelque chose il doit estre asseuré ;  
 Que nous le bernerons de la bonne maniere,  
 Et qu'à m'en divertir je seray la premiere.  
 
-    LE BEAUCERON. *bas*
+    LE BEAUCERON. *bas*.
 Je me le tiens pour dit :  
 
-    LEANDRE
+    LEANDRE.
         Et le Basque je croy,  
 Ne negligera pas ses soins⁎ non plus que moy,  
 De ce que nous ferons vous serez advertie.  
 
-    LE BEAUCERON. *bas*
+    LE BEAUCERON. *bas*.
 Vous faites pour le coup fort mal vostre partie⁎.  
 
-    CLIMENNE
+    CLIMENNE.
 Je connois vostre amour vous connoissez le mien,  
 Il faut que nostre adieu borne nostre entretien⁎ :  
 C'est perdre en vains discours les momens qui se passent,  
 Separons nous, la nuit & mon devoir vous chassent  
 
-    LEANDRE
+    LEANDRE.
 Quand nous reverrons-nous ?  
 
-    CLIMENNE
+    CLIMENNE.
     Demain.  
 
-    LEANDRE
+    LEANDRE.
     Où ?  
 
-    CLIMENNE
+    CLIMENNE.
         Dans ce lieu.  
 
-    BEATRIX
+    BEATRIX.
 Vous le sçaurez du Basque.  
 
-    LEANDRE
+    LEANDRE.
     Adieu Madame.  
 
-    CLIMENNE
+    CLIMENNE.
         Adieu.  
 
 
 ### SCENE VIII.
 
-    LE BEAUCERON. *seul*
+    LE BEAUCERON. *seul*.
 J'en tiens [379], ils ont assez agité la matiere,  
 Je suis pris pour un sot⁎ de plus d'une maniere [380],  
 Je suis suffisamment esclaircy de leurs feux,  
@@ -3399,10 +3399,10 @@ Mais quelqu'un vient encor écoutons jusqu'au bout.
 BEATRIX, LE BEAUCERON.*caché*
 
 
-    BEATRIX
+    BEATRIX.
 Basque.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         C'est Beatrix elle appelle le Basque,  
 Examinons-le avant que de lever le masque [386].  
 
@@ -3411,82 +3411,82 @@ Examinons-le avant que de lever le masque [386].
 LE BEAUCERON, BEATRIX, LE BASQUE.
 
 
-    LE BASQUE. *faisant des faux pas comme un homme qui a bû & tenant une lanterne*
+    LE BASQUE. *faisant des faux pas comme un homme qui a bû & tenant une lanterne*.
 Que veux-tu.  
 
-    BEATRIX
+    BEATRIX.
         Pour dormir prens tu pas bien ton temps ?  
 Nostre bouru dans peu [387] doit se rendre ceans⁎,  
 Il est dans ce moment prest à rentrer peut-estre.  
 
-    LE BASQUE
+    LE BASQUE.
 Qu'importe.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         C'est le Suisse, ouy luy-mesme ! ah le traistre [388].  
 
-    LE BASQUE
+    LE BASQUE.
 Par ma foy finissant tantost nostre entretien⁎,  
 J'ay bû neuf ou dix coups qui m'ont fait bien du bien.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Il parle bon François, ah ! ah Canton de Berne,  
 Vous estes du complot aussi quand on me berne [389].  
 
-    LE BASQUE
+    LE BASQUE.
 Qu'on vend dans ce quartier d'admirable sirot,  
 
-    BEATRIX. *jettant sa lanterne à bas*
+    BEATRIX. *jettant sa lanterne à bas*.
 Mais veux-tu me brider le nez [390] de ton falot.  
 
-    LE BASQUE
+    LE BASQUE.
 A trais frequens & longs j'ay vuidé trois bouteilles,  
 Qui m'ont mort-bleu qui m'ont fait dormir à merveilles.  
 
-    BEATRIX
+    BEATRIX.
 Et si pendant ce temps le cousin fust venu,  
 Ou qu'il fut mesme entré sans que tu l'eusses veu.  
 C'est une occasion [391] qui pourroit s'estre offerte,  
 Et quelqu'un auroit pû laisser la porte ouverte.  
 
-    LE BASQUE
+    LE BASQUE.
 Ouy-da⁎ comme tu dis cela se pouvoit bien.  
 Ta raison est fort bonne & mesme… Il n'en est rien.  
 Laissons-là le passé dis moy donc.  
 
-    BEATRIX
+    BEATRIX.
     Qu'est-ce ?  
 
-    LE BASQUE
+    LE BASQUE.
         Escoute.  
 
-    BEATRIX
+    BEATRIX.
 Te voilà beau⁎ garçon [392].  
 
-    LE BASQUE
+    LE BASQUE.
     N'est-il pas vray.  
 
-    BEATRIX
+    BEATRIX.
         Sans doute.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Que le cocquin est fou.  
 
-    LE BASQUE
+    LE BASQUE.
         Faut-il encor long-temps,  
 Faire soir & matin sentinelle ceans⁎.  
 
-    BEATRIX
+    BEATRIX.
 Cela pourra cesser si le Ciel nous exauce.  
 
-    LE BASQUE
+    LE BASQUE.
 Ah ! le vilain Monsieur, que ce Monsieur de Beauce.  
 Je me tromperois fort s'il n'estoit pas cornart.  
 
-    LE BEAUCERON. *bas*
+    LE BEAUCERON. *bas*.
 Vous en aurez menty Suisse de Vaugirart [393].  
 
-    BEATRIX
+    BEATRIX.
 C'est assez raisonner ne bois de la soirée,  
 Et tasche à ratraper ta raison égarée.  
 Si le Beauceron vient ne luy dis que deux mots,  
@@ -3494,31 +3494,31 @@ Il vaut mieux en moins dire & parler à propos ;
 Jusques à son retour prens bien garde à la porte.  
 Adieu.  
 
-    LE BASQUE
+    LE BASQUE.
         Quoy tu voudrois me quitter de la sorte ?  
 
-    BEATRIX
+    BEATRIX.
 Tes discours à present n'auront jamais de fin.  
 
-    LE BASQUE
+    LE BASQUE.
 Encor un petit mot :  
 
-    BEATRIX
+    BEATRIX.
         Ah ! que tu sens le vin.  
 
-    LE BASQUE
+    LE BASQUE.
 Que j'ayme à t'embrasser.  
 
-    BEATRIX
+    BEATRIX.
         Que je hais un yvrongne [394].  
 
-    LE BASQUE. *la voulant embrasser*
+    LE BASQUE. *la voulant embrasser*.
 Beatrix.  
 
-    BEATRIX. *se retirant, rentre* [395]
+    BEATRIX. *se retirant, rentre* [395].
     Laisse-moy.  
 
-    LE BASQUE. *tombe*
+    LE BASQUE. *tombe*.
         Peste de la carogne⁎.  
 A l'entendre on croirait ma foy que je suis sou,  
 Je l'aimerois encor je serois un grand fou ;  
@@ -3529,7 +3529,7 @@ Mais en nous retirant gardons de⁎ nous heurter.
 
 ### SCENE DERNIERE.
 
-    LE BEAUCERON. *seul*
+    LE BEAUCERON. *seul*.
 Tous sont d'inteligence⁎ & je n'en puis douter,  
 A traficquer d'amour chacun icy s'exerce,  
 Par de differens soins⁎ on fait mesme commerce⁎ :  
@@ -3556,44 +3556,44 @@ Je vais me retirer dans ma chambre sans bruit.
 BEATRIX, LE BASQUE.
 
 
-    BEATRIX
+    BEATRIX.
 Quoy, tu voudrois encor soûtenir le contraire ?  
 L'effronterie est grande & je ne puis m'en taire.  
 
-    LE BASQUE
+    LE BASQUE.
 Ouy, je te le soûtiens, il a couché dehors,  
 Il n'est point revenu, j'en respons corps pour corps [400].  
 
-    BEATRIX
+    BEATRIX.
 Quoy nostre Beauceron est dehors ?  
 
-    LE BASQUE
+    LE BASQUE.
         Ouy, luy-mesme.  
 
-    BEATRIX
+    BEATRIX.
 Il n'est point rentré?  
 
-    LE BASQUE
+    LE BASQUE.
     Non.  
 
-    BEATRIX
+    BEATRIX.
         L'impudence est extréme.  
 
-    LE BASQUE
+    LE BASQUE.
 Je gage contre toy que depuis hier [401] au soir…  
 
-    BEATRIX
+    BEATRIX.
 L'obstiné ! je te dis que je le viens de voir :  
 Qu'il est dans le jardin tout seul qui se promene,  
 Et qu'il m'a demandé ce que faisoit Climenne.  
 
-    LE BASQUE
+    LE BASQUE.
 Aujourd'huy ?  
 
-    BEATRIX
+    BEATRIX.
         Ouy, depuis un cart-d'heure de temps.  
 
-    LE BASQUE
+    LE BASQUE.
 Tu l'as veu si tu veux ; mais il n'est pas ceans⁎,  
 Car icy depuis hier il n'est entré personne,  
 Quoy que cette raison peut seule estre fort bonne :  
@@ -3607,7 +3607,7 @@ Que tu m'en fais icy des plaintes inutiles,
 Et que s'il est entré c'est par dessus les tuilles,  
 Tu peux dire à present tout ce que tu voudras.  
 
-    BEATRIX. *le menant par le bras vers le jardin*
+    BEATRIX. *le menant par le bras vers le jardin*.
 Toûjours mesme chanson ? ma foy tu le verras,  
 Ce n'est que par tes yeux que je veux te confondre :  
 Le voicy qu'en dis tu.  
@@ -3617,12 +3617,12 @@ Le voicy qu'en dis tu.
 LE BEAUCERON, BEATRIX LE BASQUE.
 
 
-    LE BASQUE. *le voyant*
+    LE BASQUE. *le voyant*.
         Je n'ay rien à respondre ;  
 Je voy qu'il est entré, mais je ne sçay par où,  
 Sans doute ce sera pendant que j'estois sou.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Allez voir si Climenne à present est visible,  
 Et luy dites en cas qu'elle soit accessible [402] :  
 Que je veux luy parler, & voudrois bien sçavoir,  
@@ -3636,54 +3636,54 @@ Je parle à Beatrix laissez-la faire Suisse.
 LE BEAUCERON, LE BASQUE.
 
 
-    LE BASQUE
+    LE BASQUE.
 Chi ly veut moy tout jour rendre à vou bon service [403].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Eh je m'en doute bien, ah ! l'effronté cocquin [404] !  
 
-    LE BASQUE
+    LE BASQUE.
 Chil tir quen tiri point sty lotry que timain.  
 Tout que vous ly tir moy je lafre fait tout comme [405] ;  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Vous estes je le sçais un fort joly jeune-homme [406].  
 
-    LE BASQUE
+    LE BASQUE.
 Lentry point dy Monser mon foy dans sty maison,  
 Chil servir pien mon Maistre [407].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Ouy, vous avez raison [408],  
 Fort bien, fut-il jamais une telle insolence !  
 
-    LE BASQUE
+    LE BASQUE.
 Chil servir tout jour vou di mesme [409].  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Je le pense,  
 Il n'est pas mal-aisé je vous croy sans prier.  
 
-    LE BASQUE
+    LE BASQUE.
 Chy li fair moy…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Mort-bleu c'en est trop endurer,  
 S'il ne se taist [410]…  
 
-    LE BASQUE
+    LE BASQUE.
         Chil feut fair moy vou souvenance [411].  
 
-    LE BEAUCERON. *luy donnant un soufflet*
+    LE BEAUCERON. *luy donnant un soufflet*.
 Tiens de tant de babil voilà la recompense ?  
 à part.
 
 C'est sur mes vingt Louys⁎ toûjours en rabatant [412].  
 
-    LE BASQUE
+    LE BASQUE.
 O Monser.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Qu'on se taise ou j'en redonne autant,  
 Mais je vois avancer Beatrix & Climenne.  
 
@@ -3692,7 +3692,7 @@ Mais je vois avancer Beatrix & Climenne.
 LE BEAUCERON, CLIMENNE, LE BASQUE, BEATRIX.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Je ne pretendois pas vous donner tant de peine⁎ :  
 Mais puis que vous voilà, donnez nous deux fauteüils,  
 au Suisse.
@@ -3707,15 +3707,15 @@ Montrez-nous les talons [413].
 LE BEAUCERON, CLIMENNE LE BEAUCERON.
 
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Approchez-vous Climenne, & prenez vostre place,  
 Je pretens⁎ vous parler, & vous voir face à face,  
 De ce que je diray tâchez à profiter.  
 
-    CLIMENNE
+    CLIMENNE.
 Parlez, vous me voyez preste à vous écouter.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Je ne sçay si mon air⁎ mon humeur⁎ ou ma mine⁎,  
 Vous forcent à vouloir n'estre que ma cousine ;  
 Ou si nature enfin ne m'a pas honoré,  
@@ -3724,10 +3724,10 @@ Si trop laid à vos yeux, ou trop vieux quoy que riche,
 De tendresse⁎ pour nous vostre cœur est né chiche,  
 Ny mesme si j'en dois estre bien-aise⁎ ou non.  
 
-    CLIMENNE
+    CLIMENNE.
 Vous sçavez…  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Taupe à tout [414], mais vous trouverez bon,  
 Sans m'échaufer le sang, que plus franc que les autres,  
 Après mes veritez je vous dise les vostres ;  
@@ -3833,7 +3833,7 @@ A-t-on jamais parlé de trahisons si noires !
 Parlez & dites-moy si j'ay de bons memoires [438],  
 Et si je puis de vous m'estre informé sans fruit [439].  
 
-    CLIMENNE
+    CLIMENNE.
 Je ne sçais qui vous peut avoir si bien instruit :  
 Mais vous deviez enfin donner moins de creance⁎,  
 Aux bruits que contre moy seme la médisance ;  
@@ -3872,14 +3872,14 @@ Que pour vous faire honneur vostre esprit vous rend chere :
 Car comme sur ce point mille gens nous ont dit :  
 Enquoy consistent-ils ? parlez ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         En fonds⁎ d'esprit,  
 Le voilà le tresor portatif que personne  
 Ne vous sçauroit oster, que le Ciel seul nous donne :  
 Qu'on doit plus que ses biens priser⁎ avec raison ;  
 Et qu'on peut…  
 
-    CLIMENNE
+    CLIMENNE.
         En ce cas vostre conte [441] est fort bon ;  
 Vous vous plaigniez dequoy j'ay souffert compagnie⁎ :  
 Sans la societé dequoy nous sert la vie ?  
@@ -3914,16 +3914,16 @@ Pour un homme du temps, vous pour une anticaille,
 S'il n'a pas tant de bien ce n'est pas un défaut ;  
 Qui détruise…  
 
-    LE BEAUCERON. *se levant*
+    LE BEAUCERON. *se levant*.
         En voilà tout autant qu'il en faut,  
 Treve de paralelle, ainsi nostre cousine  
 Vous aymeriez donc mieux vostre idole⁎ blondine ?  
 
-    CLIMENNE
+    CLIMENNE.
 Il est vray je l'écoute, & j'approuve son feu,  
 Je l'ayme, & je veux bien vous en faire l'aveu.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Je vais puis qu'à ce point sa flame vous est chere,  
 En dire sur le champ deux mots à vostre mere,  
 Luy conter vos amours, luy vanter vostre choix,  
@@ -3933,7 +3933,7 @@ Qu'il en sera parlé, donnez vous patience [447].
 
 ### SCENE VI.
 
-    CLIMENNE. *seule*
+    CLIMENNE. *seule*.
 On va tout exiger de mon obeyssance,  
 Et l'on va me forcer…Ah Beatrix sçais-tu ?….  
 
@@ -3942,27 +3942,27 @@ Et l'on va me forcer…Ah Beatrix sçais-tu ?….
 BEATRIX, CLIMENNE.
 
 
-    BEATRIX
+    BEATRIX.
 Je sçay tout comme vous car j'ay tout entendu.  
 
-    CLIMENNE
+    CLIMENNE.
 Enfin mon mal-heur veut que je perde Leandre,  
 Au nom de mon époux il ne peut plus pretendre :  
 Ma mere, & ce cousin, qui me veut malgré moy,  
 Par de nouveaux sermens vont engager ma foy⁎,  
 Il y court, & tu viens d'entendre sa menace.  
 
-    BEATRIX
+    BEATRIX.
 Je me mocquerois bien d'eux deux en vostre place :  
 Ouy, je me lasserois d'avoir les bras liez,  
 Une fois [448] c'est pour vous que vous vous mariez [449],  
 Vostre mere le veut, on me la baille belle [450],  
 S'il est tant à son gré que ne l'espouse-t-elle.  
 
-    CLIMENNE
+    CLIMENNE.
 Mais pour t'en dispenser qu'est-ce que tu ferois.  
 
-    BEATRIX
+    BEATRIX.
 En quatre mots voilà ce que je luy dirois,  
 Qu'on me laisse en repos⁎, je n'ayme que Leandre,  
 Je hais le Beauceron, qu'il s'aille faire pendre.  
@@ -3972,17 +3972,17 @@ Je hais le Beauceron, qu'il s'aille faire pendre.
 CLIMENNE, BEATRIX LE BASQUE.
 
 
-    LE BASQUE
+    LE BASQUE.
 Mon Maistre…  
 
-    CLIMENNE
+    CLIMENNE.
     Que veut-il ?  
 
-    LE BASQUE
+    LE BASQUE.
         Me fait vous demander,  
 S'il peut vous venir voir.  
 
-    CLIMENNE
+    CLIMENNE.
         Dis luy qu'il peut entrer.  
 
 
@@ -3990,7 +3990,7 @@ S'il peut vous venir voir.
 CLIMENNE, BEATRIX.
 
 
-    CLIMENNE
+    CLIMENNE.
 En vain j'empescherois son amour de parestre,  
 C'est la derniere fois qu'il me verra peut estre ;  
 Le plus severe honneur⁎ peut permettre en ce jour,  
@@ -4001,7 +4001,7 @@ De donner ce dernier moment à nostre amour.
 LEANDRE, CLIMENNE, LE BASQUE BEATRIX.
 
 
-    CLIMENNE
+    CLIMENNE.
 Rien ne peut plus flater⁎ ma flame ny la vostre,  
 Leandre, pour espoux on m'en destine un autre :  
 Ce cousin pretent⁎ l'estre ; il sçait tout aujourd'huy,  
@@ -4013,32 +4013,32 @@ Il est rentré disant que devant⁎ qu'il soit peu,
 Il en sera parlé, qu'il alloit voir ma mere,  
 Vous sçavez ce qu'il faut helas ! que j'en espere.  
 
-    LEANDRE
+    LEANDRE.
 Quel revers si soudain que je n'ay pu prevoir,  
 Peut en si peu de temps destruire tant d'espoir ?  
 Mon mal-heur à mes feux incessamment s'oppose.  
 
-    LE BASQUE
+    LE BASQUE.
 J'ay bien veu des tantost⁎ qu'il sçavoit quelque chose.  
 Et j'en aurois jurez.  
 
-    LEANDRE
+    LEANDRE.
         Par qui l'as tu donc sceu ?  
 
-    LE BASQUE
+    LE BASQUE.
 Par un fort grand soufflet Monsieur que j'ay receu,  
 J'ay bien veu qu'il cherchoit à me faire querelle.  
 
-    LEANDRE
+    LEANDRE.
 Si pour vous à ce point vostre mere est cruelle,  
 Et s'obstine à vouloir vous donner cet espoux,  
 Que ferez-vous Madame, helas vous tairez-vous ?  
 
-    CLIMENNE
+    CLIMENNE.
 Vous sçavez à quel point ma mere est absoluë⁎,  
 Il faudra l'espouser si la chose est concluë.  
 
-    LEANDRE
+    LEANDRE.
 Quoy jusqu'à cet effort vostre cœur peut aller ?  
 On ose vous contraindre & vous n'osez parler ?  
 Madame, & tout l'espoir qui flatoit⁎ ma constance,  
@@ -4055,7 +4055,7 @@ Obeyssez Madame, & faites vostre choix.
 LE BEAUCERON, LEANDRE LE BASQUE, BEATRIX CLIMENNE.
 
 
-    LE BEAUCERON*. en habit de Campagne* [451]
+    LE BEAUCERON*. en habit de Campagne* [451].
 Leandre, revenez, parlons de vostre flame,  
 à Climenne.
 
@@ -4071,18 +4071,18 @@ Pour Monsieur qui pretent⁎ toûjours estre à la mode [452],
 Il peut tenter fortune [453], & je le tiens bien fin,  
 S'il s'en sauve.  
 
-    LEANDRE
+    LEANDRE.
     Je crains peu ce danger,  
 
-    LE BEAUCERON
+    LE BEAUCERON.
         Enfin,  
 Quoy que vous en disiez elle en est la Maistresse.  
 
-    LEANDRE
+    LEANDRE.
 Quel bon-heur⁎ aujourd'huy vous rend à ma tendresse⁎ ?  
 Mais enfin quel motif vous fait changer d'habits.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 C'est Monsieur que je vais partir pour mon pays ;  
 J'ay conceu pour Paris une haine mortelle,  
 Et mon front vient icy de l'eschapper trop belle [454],  
@@ -4095,18 +4095,18 @@ Je vais dire au pays comme l'on m'a traité ;
 Et je me trompe fort quoy qu'il sente de flame [455],  
 Si jamais Beauceron vient icy prendre femme.  
 
-    CHAMPAGNE
+    CHAMPAGNE.
 Vostre cheval Monsieur, & vostre postillon,  
 Sont là bas.  
 
-    LE BEAUCERON
+    LE BEAUCERON.
     Serviteur [456].  
 
-    LEANDRE
+    LEANDRE.
         Comment c'est tout de bon⁎ ?  
 Quoy vous ne verriez pas ce qu'amour nous destine ?  
 
-    LE BEAUCERON
+    LE BEAUCERON.
 Non je vous en repons⁎ ; jusqu'au revoir [457] cousine.  
 
 
@@ -4114,27 +4114,27 @@ Non je vous en repons⁎ ; jusqu'au revoir [457] cousine.
 LEANDRE, CLIMENNE, LE BASQUE BEATRIX.
 
 
-    LEANDRE. *aprés avoir ry*
+    LEANDRE. *aprés avoir ry*.
 Allons voir vostre mere.  
 
-    CLIMENNE
+    CLIMENNE.
         Et le reste du jour,  
 Puis qu'elle veut enfin approuver nostre amour,  
 Nous pourrons, empeschant que le peuple ne crie,  
 Par divertissement tirer la Lotterie.  
 
-    LEANDRE
+    LEANDRE.
 Et quand de nostre amour l'Hymen sera le prix,  
 Il faudra marier [458] le Basque & Beatrix.  
 
 
-# GlossaireAbsolu« Sans condition, sans réserve » (F.).V. 1617Admirer« Regarder avec estonnement quelque chose de surprenant  ou dont on ignore les causes » (F.).V. 524, 867Littré précise qu'il peut s'employer « par critique ou par ironie en parlant de ce qui paraît excessif, étrange ». V. 524Aguerir (s')« Se rendre habile en sa profession » (F.).V. 739AirMine, physionomie, traits du visage.V. 154, 342, 964, 1381« Maniere d'agir, de parler, de vivre, soit en bonne, ou en mauvaise part » (F.).V. 21, 154, 964, 1381Aise (être bien)Se réjouir.V. 788, 1387Ajustement« Ornement, parure » (F.).V. 911AlarmerSe dit tant au propre qu'au figuré au sens de « donner ou prendre l'alarme » (F.). L'« alarme » désigne « toutes sortes d'appréhensions bien ou mal fondées » (F.).V. 261, 271, 305, 1220Amant« Celui ou celle qui aime avec passion une personne d'un autre sexe » (A, 1762).Nom des acteurs, v. 1139Aposter« Attitrer quelqu'un, le mettre en avant pour espier, tromper et surprendre quelqu'un » (F.).V. 1108, 1479Appartement« Portion d'un grand logis où une personne loge ou peut loger separément d'avec une autre » (F.).V. 362Apprivoiser (s')« Se rendre familier avec quelqu'un. On dit par reproche à un homme qui prend quelques libertés, surtout avec les femmes, Vous vous *apprivoisez* bientost » (F.).V. 113ArtificeRuse, déguisement, mauvaise finesse.V. 243, 431, 496, 1190, 1317, 1473, 1553Aussi bienD'ailleurs, dans le fait, au reste.V. 613AvecqueDoublet poétique de *avec*. Cette forme est « bonne » selon Vaugelas (*Remarques sur la Langue française*, 1647), « commode aux poètes », et même aux prosateurs qui ont « quelque soin de satisfaire l'oreille ». Elle s'emploie jusqu'à la fin du siècle.V. 314, 359, 715, 889Aveu« Protection, ordre ou consentement donné » (F.).DédicaceAvis« Conseil » (L.).V. 27, 721« En termes de Palais, se dit de certains arrestés ou deliberations de ceux qui sont commis par des superieurs pour examiner une affaire, ou des faits dont ils ne peuvent être esclaircis autrement » (F.).V. 770Aviser (s')« S'imaginer quelque chose, …, s'appliquer à trouver, à inventer quelque chose pour quelque fin » (A, 1884).V. 251BalancerHésiter.V. 1487BassinGrand plat creux. « Bassin » s'applique aussi aux « grands plats à mettre sur la table pour y servir des viandes, ou des fruits en pyramide, et plusieurs assiettes de divers mets » (F.).V. 622Batteur de pavéFilou, fainéant.V. 1117Beau« Se dit souvent par ironie et familièrement, dans un sens fort contraire à sa signification propre » (A, 1884).V. 203, 216, 420, 484, 1286Blondin« On appelle blondins les jeunes galants qui font les beaux, parce qu'ils portent d'ordinaire les perruques blondes » (A, 94).V. 340Bon celaFormule d'approbation.V. 1012Bon-heur« Hasard » (F.).Dédicace, v. 867, 1642« Événement heureux, chance favorable » (A, 1932).Bruit« Querelle, confusion » (F.).V. 1405But à butD'une manière égale, à égalité.V. 1463Cadedy« Jurement qu'on met habituellement dans la bouche des Gascons » (L.). Le terme est formé à partir de *cap*, tête, et de *dis*, Dieu. V. 1088CajolerEmployer des paroles caressantes pour plaire à quelqu'un. Furetière précise qu'il se dit en particulier « à l'égard des femmes et des filles, auxquelles on fait l'amour (c'est-à-dire, que l'on courtise), et dont on tâche de surprendre les faveurs à force de leur dire des douceurs et des flatteries ».V. 1141, 1177Campagnart« Celuy qui vit noblement à la campagne, qui n'a point hanté la Cour, ni le beau monde des villes » (F.).Dédicace, v. 112, 1624CarogneTerme injurieux signifiant « femme hargneuse, méchante femme » (L.). Il est souvent utilisé dans les comédies par les hommes, en particulier les maris.V. 457, 1302Céans« Terme démonstratif du lieu où on est » (F.).V. 248, 446, 795, 878, 1003, 1035, 1050, 1085, 1087, 1138, 1268, 1288, 1336Chagrin« Qui, sans cause précise, est d'une humeur ordinairement fâcheuse » (A, 1932).V. 954Chambre« Membre du logis, partie d'un appartement. C'est ordinairement le lieu où on couche, et où on reçoit compagnie » (F.).V. 408Chocquant« Qui offence » (F.).V. 143, 1559CivilHonnête et raisonnable.V. 440, 843Cocquet, ette« Qui est galant, qui se picque de se faire aimer » (F.), qui cherche à plaire.V. 147, 934, 964Cocquette« Dame qui tâche de gagner l'amour des hommes …. Les *coquettes* tâchent d'engager les hommes, et ne veulent point s'engager » (F.).V. 448, 1246, 1647Coins« Ce sont des cheveux postiches, que les hommes mettent pour faire paroistre leurs cheveux plus longs ; et que les femmes portoient autrefois pour retrousser et enfler leurs coeffures » (F.).V. 904Colet« Partie de l'habillement, qui joint le cou, qui se met autour du cou » (F.).V. 752, 1119Comédie« Se prend généralement pour toutes sortes de pièces de théâtre » (A, 94).V. 407CommerceToute fréquentation, toute liaison, tout rapport social. Le mot peut être pris en mauvaise part au sens de liaison illégitime.V. 1310Compagnie« Petit nombre d'amis assemblez dans un lieu pour s'entretenir, pour se divertir, pour se visiter » (F.).V. 39, 47, 408, 1533Compere« Ne tarde pas à désigner, par déviation péjorative, un homme galant, et qui aime à s'amuser » (C.).V. 320ConcertPréparation collective d'un projet, d'une entreprise, d'un complot. « De concert » signifie « d'intelligence, en accord ».V. 588, 593, 1470, 1483, 1553ConnoistreReconnaître.V. 95, 101, 246, 873Contraste« Contestation, contrariété de sentiments » (F.).V. 1057Cotte« Partie du vestement des femmes, qui s'attache à leur ceinture, et qui descend jusqu'en bas » (F.).V. 645Couvert, adv.« Caché, à l'abri, en seureté. Il a mis à *couvert* tout son bien » (F.).V. 587CreanceCroyance.V. 1493Cuistre« Valet de Pedants, ou de Prestres, ou de gens de Collège, qui leur sert à faire cuire leur viande » (F.). Par extension, « pédant encrassé » (L.).V. 762, 771, 1108, 1479Da« Particule qui se joint à l'adverbe *oui* … et donne plus de force à l'affirmation » (L.). Richelet spécifie qu'elle n'est utilisée que « dans le stile le plus-simple, ou dans la conversation familiere ».V. 1283Debat« Contestation, altercation » (A, 1932).V. 1056DebetSynonyme de « débit ».V. 1078Défaite« Excuse, eschapatoire. Ce valet est un rusé menteur, qui a toûjours une *deffaite* en poche » (F.).V. 448Défrayer« Payer la despense faite par quelqu'un au lieu de luy » (F.).V. 596Denier« Intérêt d'une somme principale » (A, 1884).V. 566Despens« Terme de procédure, frais que la partie qui perd doit payer à la partie qui gagne » (L.).Privilège, v. 662DevantAvant. « Devant qu'il soit peu » équivaut à « avant peu de temps ».V. 1043, 1572, 1604Docteur« Qui a passé par l'examen et par tous les degrez d'une Faculté, et qui a le pouvoir d'enseigner une science et de la pratiquer » (F.)V. 537DoubleTrès petite monnaie.V. 565Drille« Fantassin, soldat à pied. Il ne se disait guère que par raillerie ». « Un bon drille » est « un bon compagnon » (L.).V. 404Drôle« Bon compagnon, homme de débauche prest à tout faire, plaisant et gaillard » (F.).V. 82, 280, 304, 421, 1178Éblouir« Tromper, surprendre l'esprit et les sens par de fausses raisons, de fausses lumieres » (F.).V. 1417, 1509Éclater« Se dit figurément de ce qui se manifeste tout à coup, après avoir été quelque temps caché » (A, 1884), « se decouvrir » (F.).V. 265, 271Écouter« Se laisser persuader, se rendre à quelque raison. Cette femme commence à e*scouter* les cageolleries, les offres de ses amants, elle sera bientost perduë » (F.).V. 1403ÉcuPièce de monnaie valant trois francs.V. 628Embarras« Encombrement, ensemble d'obstacles inextricables » (C.).V. 204, 219, 358, 366, 501, 655Emblême« Espece d'énigme en tableau, qui en représentant quelque histoire connuë avec quelques paroles au bas, nous apprend quelque moralité, ou nous donne quelque autre connoissance » (F.). Le terme désigne, par extension, une formule énigmatique, sibylline.V. 946Émouvoir« Esbransler pour mettre en mouvement » (F.).V. 1322EmpaumerTerme de jeu de paume, « recevoir la balle … dans la paume de la main ou en pleine raquette » (L.), « serrer avec la main » (F.). Il réalise l'idée figurée, « se rendre maistre de l'esprit de quelqu'un » (F.).V. 15, 1247EmpeschéEmbarrassé, occupé.V. 996EmpouléEnflé.V. 904EntendreComprendre.V. 135, 223, 226, 287, 419, 420, 422, 461, 535EntretienConversation.V. 663, 915, 929, 963, 1034, 1147, 1175, 1271Épais« Lourd, pesant, grossier » (L.).V. 1223Équipage« Manière dont une personne est vêtue » (L.), habit.V. 20ÉvelierVariante graphique de « éveillé », « qui a de la vivacité dans le ton et de la liberté dans les manières » (L.). « On dit, qu'*Une femme est fort éveillée*, pour dire, qu'Elle est un peu coquette. … Il se prend aussi quelquefois subst. *C'est un éveillé* » (A, 1718).V. 81Évenement« Issuë, succès bon ou mauvais de quelque chose » (F.).V. 317Facheux, euse« Qui donne du déplaisir, de la peine » (A, 1932).V. 809, 1038, 1057, 1217Fâcheux« Un importun, un homme odieux et qui déplaît » (F.).V. 1064Façon« Difficultés qu'une personne fait de se déterminer à quelque chose » (A, 1932).V. 383« Maniere d'agir » (F.), « se dit également, au pluriel, des manières propres à une personne, de ses actions, de ses procédés » (A, 1932).V. 905« Manière cérémonieuse et gênante de témoigner ses égards, sa politesse, sa circonspection, sa retenue » (A, 1932).V. 14, 78, 924Fait« Se dit de ce qui est propre, convenable. Voilà vostre vray *fait*, ce qu'il vous faut » (F.).V. 392FatSot, impertinent.V. 659Figure« Forme extérieure d'un corps, d'un être » (A, 1932).V. 1518Fille« Se dit par opposition à femme mariée » (L.).V. 446, 1186, 1650Flandrin« Homme grand et fluet » (L.).V. 632Flater« Adoucir le sentiment d'une peine par des pensées consolantes » (A, 1884), donner de l'espoir, « causer une vive satisfaction » (L.).V. 272, 273, 290, 698, 711, 1206, 1221, 1452, 1597, 1621Fleurette« Ne se dit qu'au figuré de certains petits ornements du langage, et des termes doucereux dont on se sert ordinairement pour cajeoller les femmes » (F.).V. 148, 488, 933Folle« Nom qu'on donnait autrefois aux femmes de mauvaise vie, aux courtisanes » (L.).V. 680FondsLe sol d'un champ, d'une terre, d'un domaine.V. 1523Somme d'argent plus ou moins considérable destinée à quelque usage.V. 82, 83, 549, 557, 1080, 1118Ressources d'ordre intellectuel ou moral.V. 1528FortuneDestin, sort.V. 710Fourager« Ravager, désoler, piller, ruiner un pays, y mettre tout en désordre » (F.).V. 1250Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer » (F.).V. 265, 1508, 1547, 1580, 1624Fracas« Bruit qu'on fait dans le monde » (L).V. 158Friquet« Jeune galant fort mince qui n'a que du caquet et de l'affeterie, et rien de solide » (F.).V. 760FureurSe dit « de toutes les passions qui nous font agir avec de grands emportements » (F.).V. 172Galand, ante (adj.)« Vif, plein de grâce alerte, de souplesse de corps et d'esprit ; distingué, élégant, de belles manières » (C.).Dédicace, v. 1427« Empressé à s'amuser, avec nuance défavorable, en parlant spécialement des plaisirs de l'amour ; ami des bonnes fortunes, des intrigues amoureuses » (C.).V. 142, 144, 1650GalandPrétendant, amoureux, « amant qui se donne tout entier au service d'une maistresse » (F.). Vaugelas (1647) dit que « galant » peut désigner « un amant favorisé ». V. 100, 333, 367, 447, 883, 967, 1318, 1402, 1438, 1465« Homme qui a l'air de la Cour, les manières agreables, qui tâche à plaire, et particulierement au beau sexe » (F.).V. 158, 367Homme « habile, adroit, dangereux » (F.).V. 100Galanterie« Commerce amoureux » (L.).V. 1469Garde magazin« Marchandises qui se vendent difficilement » (L.).V. 648Garder dePrendre garde de, éviter de.V. 441, 1307Gaster« Ruiner, destruire » (F.). Par atténuation, il prend le sens de « compromettre, gêner ».V. 115, 1001Generosité« Grandeur d'âme, de courage, magnanimité, bravoure, libéralité » (F.).DédicaceGens« Domestiques d'un même maistre » (F.).V. 62, 589, 602, 1047Giste« En termes de Chasse, … lieu où le lievre retourne toûjours. Il faut attendre le lievre au *giste* » (F.).V. 886Hardaut« Garçon » (Huguet).V. 217Heur« Bonne fortune, chance heureuse » (L.). V. 921HeureuxChanceux.V. 840Honneste« Ce qui merite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. Il ne faut hanter que d'*honnestes* gens » (F.).V. 1449, 1540Honneur« Considération, estime dont on jouit », « bien moral, sentiment qu'on a de sa dignité ». Dans le *Dictionnaire historique de la langue française*, Alain Rey fait le départ entre l'« honneur » d'un homme, qui est « la réputation liée au comportement de sa femme » (v. 114, 130, 1312) et l'« honneur » d'une femme, qui désigne « la réputation attachée au caractère irréprochable de ses mœurs » (v. 114, 1182, 1186, 1252, 1595).V. 114, 130, 1182, 1186, 1252, 1255, 1312, 1595HumeurCaractère, au point de vue moral, « naturel » (R.). « Etre d'humeur » à signifie « être d'un tempérament à ».V. 142, 199, 955, 1225, 1251, 1381, 1453Idole« Personne qui n'a point d'esprit, qui n'a point de paroles, d'action, … qui paroist insensible comme une statuë » (F.).V. 1566IndustrieHabileté, expédient.V. 1118Infirmité« Foiblesse » (F.).V. 944Inquieter« Chagriner l'esprit, luy donner de la peine » (F.), ôter le repos.V. 1124Intelligence (être d')« S'entendre avec, avoir concert avec » (L.).V. 608, 1308Intrigue« Commerce secret de galanterie » (L.).V. 1445, 1466JargonTerme familier, « langage vicieux et corrompu du peuple, de paysans qu'on a de la peine à entendre » (F.).V. 93« Se dit aussi par extension en parlant des Langues mortes ou estrangères que nous n'entendons pas » (F.).V. 225, 279, 675LarderAu sens propre, « mettre des lardons dans la viande ». Les exemples, mentionnés par Littré, « larder quelqu'un de coups d'épée, larder ses écrits de citations », mettent en évidence l'acception figurée du verbe.V. 904, 1147LesteÉlégant.V. 1458LouysPièce d'or qui vaut douze livres ou francs.V. 836, 837, 861, 1111, 1161, 1164, 1371, 1447, 1484MagotAu propre, « gros singe ». Au figuré, il se dit « des hommes difformes, laids comme sont les singes, des hommes mal bastis (F.). Il peut également désigner un homme « sot, ridicule ». V. 1, 1167Maltostier« Celuy qui exige des droits qui ne sont point deus, ou qui sont imposez sans autorité legitime » (F.).V. 50Manie« Emportement et desreglement de l'esprit » (F.).V. 184Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez » (F.), injure très fréquente dans les comédies. V. 745, 1038, 1316Masque« Terme familier d'injure dont on se sert quelquefois pour qualifier une jeune fille, une femme » (L.).V. 1162Materiel « Massif, grossier. On dit aussi d'un homme sans esprit, ou qui est  fort attaché à ses sens, qu'il est fort *materiel* » (F.).V. 1223MâtinAu propre, « gros chien de cuisine, ou de basse-cour ». Au figuré, il « se dit aussi des hommes grossiers, mal bastis de corps, ou d'esprit (F.)V. 21Méchant« Mauvais, qui est despourveu de bonnes qualitez » (F.).V. 228, 955« Qui est contre la raison, les loix, les bonnes mœurs » (F.).V. 397« Fanfaron, dangereux » (F.).V. 228Medaille« Se dit … des personnes vieilles et laides, et des figures ou bustes qui les représentent » (F.). Par extension, le terme signifie « tête, visage ».V. 24MénagerÉconome.V. 198Mine« Physionomie, disposition de corps et sur tout du visage, qui fait juger en quelque façon l'Intérieur par l'extérieur » (F.).V. 154, 229, 332, 1090, 1381Mitan« Vieux mot qui signifie le milieu d'une chose » (F.).V. 984Mittonner« Caresser, choyer une personne, la traiter favorablement, pour gagner ou pour conserver ses bonnes graces » (F.).V. 1465ModesteEn parlant des choses, qui est conforme à la pudeur, à la bienséance.V. 912Mouchoir (de col)« Linge garni ordinairement de dentelles exquises, dont les Dames se servent pour cacher et pour parer leur gorge » (F.).V. 893Mutin« Qui se revolte contre l'autorité légitime » (F.), opiniâtre, querelleur.V. 225, 369, 492Nompareille« Se dit en plusieurs arts pour exprimer ce qui y est de plus petit …. Chez les Marchands, c'est le ruban le moins large » (F.).V. 901Obseder« Se dit originairement des Demons qui sans entrer dans le corps d'une personne, la tourmentent et l'assiegent au dehors » (F.). Par métaphore, il signifie « se rendre maistre de l'esprit ou de la maison d'une personne, empescher les autres d'en approcher. » (F.)V. 39, 702« Importuner quelqu'un par son assiduité, par ses demandes ». (F.).V. 1069Officieux« Prompt à rendre service, office, courtoisie » (F.).V. 843Ombrageux« On le dit ordinairement au figuré … des hommes qui ont des soupçons, des deffiances, des ombrages malfondez » (F.).V. 955Partie« Somme d'argent qui est due » (A, 94).V. 612« Se dit aussi en mauvaise part, d'un complot qu'on fait pour assassiner, pour perdre quelqu'un, pour le ruiner » (F.).V. 1234Passion« Tout désir violent ou inclination qui nous donne de l'affection pour quelque chose. » (F.).V. 109« Chaleur avec laquelle on fait quelque chose » (F.).DédicacePayer« Récompenser, reconnaître » (A, 1884).V. 155Pedant« Celuy qui fait un mauvais usage des sciences, qui les corrompt et altere, qui les tourne mal, qui fait de méchantes critiques et observations » (F.).V. 809Peine« Obstacle, difficulté » (F.).V. 175, 1021, 1374PicquantQui choque l'esprit.V. 925Picquer (se)Se vanter, avoir des prétentions.V. 953, 1637PiedMesure de longueur qui vaut douze pouces (0,324 m).V. 395Pied-platRustre, paysan qui a des souliers tout unis (et non des talons hauts comme en portent l'aristocratie et les gens de Cour), homme qui ne mérite aucune considération.V. 3PistoleMonnaie d'or qui vaut dix livres.V. 67, 427Plaindre« Employer, donner avec répugnance, à regret, d'une manière insuffisante. *Se plaindre une chose*, s'en passer par avarice » (A, 1884).V. 3Poinçon« Joyau dont les femmes se servent pour parer leur teste et pour arranger leurs cheveux en se coiffant » (F.).V. 904Point« Certains ouvrages de broderie ou de tapisserie à l'aiguille, distingués les uns des autres par le déterminatif qui accompagne le mot point. … Point d'Angleterre» (L.). Le « point Venitien » est une « dentelle à l'aiguille, probablement originaire de Venise, caractérisée par des dessins à rinceaux en fort relief » (TLF).V. 162, 621Poulet-d'indeJeune dindon.V. 9Presse« Foule de peuple qui veut entrer en un lieu qui ne le peut pas contenir commodément » (F.).V. 359PretendreVouloir, « avoir intention, avoir dessein » (A, 1884).V. 32, 242, 368, 449, 518, 521, 529, 530, 707, 845, 961, 1050, 1060, 1089, 1099, 1199, 1321, 1378, 1550, 1599« Soutenir affirmativement, être persuadé » (A, 1884).V. 133, 154, 354, 1638PriserEstimer.V. 1531PropreConvenable dans la tenue, bien ajusté, élégant.V. 1427Protestant« Amant qui fait à une Dame des offres de service et d'amour et qui luy promet fidelité » (F.). Terme passablement démodé au sens de « prétendant ».V. 460Public« Le général des citoyens, ou des hommes » ( F.).V. 196, 517, 553, 569, 637Remettre (se)Se rappeler.V. 19Repos« Quiétude d'esprit, calme de l'âme » (L.).V. 497, 1062, 1543, 1589RespondreGarantir. « Je vous en réponds » se dit pour « affirmer davantage une chose » (L.).V. 300, 545, 1095, 1658RompreHarceler, tarabuster. « Un Juge a la tête bien *rompuë* de sollicitations, il en est bien importuné » (F.).V. 982Ruisseau« Eau qui coule au milieu ou sur les deux côtés de la chaussée d'une rue » (L.).V. 984SçavantBien informé, bien instruit de quelque chose. « Cette jeune fille est trop savante, est bien savante, elle sait des choses qu'elle devrait ignorer » (L.).V. 1649Sentiment« Avis, opinion » (R.).V. 192Sentir« Avoir les qualités, l'air, l'apparence, indiquer, dénoter » (L.).V. 24, 1560Serrer« Enfermer, arranger, mettre à couvert, en lieu seur » (F).V. 174, 817Sexe« Absolument parlant, se dit des femmes. C'est un homme qui aime le *sexe*, c'est à dire, les femmes » (F.).V. 123SoinsAu pluriel, « services qu'on rend à quelqu'un, attentions qu'on a pour lui » (L.).V. 44, 115, 797, 820, 965, 1232, 1257, 1310, 1461, 1549, 1555SotS'employait souvent comme substitut de cocu.V. 940, 1242SoucyChagrin, inquiétude d'esprit.V. 1019, 1635SouffrirPermettre, tolérer.V. 51, 272, 302, 475, 949, 1206, 1216SpirituelIngénieux.V. 1224Sujet « Cause, occasion, fondement » (F.).DédicaceSupposer« Mettre une chose à la place d'une autre par fraude et tromperie » (F.).V. 530, 1108Supputer« Calculer, examiner par les règles d'Arithmetique, en adjoustant, soustrayant, multipliant, ou divisant » (F.).V. 514Sur ce piedÀ ces conditions, les choses étant ainsi.V. 513, 921SurprendreTromper.V. 1415Suscription« Signature au bas d'une lettre, d'un acte » (F.).V. 815TantostIl y a quelques instants.V. 844, 1610Bientôt, tout à l'heure.V. 856, 973, 976Tendresse« Sensibilité du cœur et de l'âme … ce mot signifie le plus souvent *amour* » (F.).V. 55, 717, 1386, 1642Touchant« Concernant, sur le sujet de » (A, 1884).V. 26, 582Tout à l'heureAussitôt, tout de suite, sur le champ.V. 372Tout de bon« Sérieusement, sans jeu ni fiction » (L.).V. 490, 1656TrainSe dit de « l'équipage ou de la suite d'un chef de famille, d'un Seigneur » (F.).V. 20TransportTrouble ou agitation de l'âme par la violence des passions.V. 854Veuë« Rencontre » (F.).V. 1321Visage« Se prend quelquefois pour la personne entière » (F.), spécialement au sens de « sot, fat, misérable », quand on le dit en colère.V. 19
+# Glossaire.Absolu« Sans condition, sans réserve » (F.).V. 1617Admirer« Regarder avec estonnement quelque chose de surprenant  ou dont on ignore les causes » (F.).V. 524, 867Littré précise qu'il peut s'employer « par critique ou par ironie en parlant de ce qui paraît excessif, étrange ». V. 524Aguerir (s')« Se rendre habile en sa profession » (F.).V. 739AirMine, physionomie, traits du visage.V. 154, 342, 964, 1381« Maniere d'agir, de parler, de vivre, soit en bonne, ou en mauvaise part » (F.).V. 21, 154, 964, 1381Aise (être bien)Se réjouir.V. 788, 1387Ajustement« Ornement, parure » (F.).V. 911AlarmerSe dit tant au propre qu'au figuré au sens de « donner ou prendre l'alarme » (F.). L'« alarme » désigne « toutes sortes d'appréhensions bien ou mal fondées » (F.).V. 261, 271, 305, 1220Amant« Celui ou celle qui aime avec passion une personne d'un autre sexe » (A, 1762).Nom des acteurs, v. 1139Aposter« Attitrer quelqu'un, le mettre en avant pour espier, tromper et surprendre quelqu'un » (F.).V. 1108, 1479Appartement« Portion d'un grand logis où une personne loge ou peut loger separément d'avec une autre » (F.).V. 362Apprivoiser (s')« Se rendre familier avec quelqu'un. On dit par reproche à un homme qui prend quelques libertés, surtout avec les femmes, Vous vous *apprivoisez* bientost » (F.).V. 113ArtificeRuse, déguisement, mauvaise finesse.V. 243, 431, 496, 1190, 1317, 1473, 1553Aussi bienD'ailleurs, dans le fait, au reste.V. 613AvecqueDoublet poétique de *avec*. Cette forme est « bonne » selon Vaugelas (*Remarques sur la Langue française*, 1647), « commode aux poètes », et même aux prosateurs qui ont « quelque soin de satisfaire l'oreille ». Elle s'emploie jusqu'à la fin du siècle.V. 314, 359, 715, 889Aveu« Protection, ordre ou consentement donné » (F.).DédicaceAvis« Conseil » (L.).V. 27, 721« En termes de Palais, se dit de certains arrestés ou deliberations de ceux qui sont commis par des superieurs pour examiner une affaire, ou des faits dont ils ne peuvent être esclaircis autrement » (F.).V. 770Aviser (s')« S'imaginer quelque chose, …, s'appliquer à trouver, à inventer quelque chose pour quelque fin » (A, 1884).V. 251BalancerHésiter.V. 1487BassinGrand plat creux. « Bassin » s'applique aussi aux « grands plats à mettre sur la table pour y servir des viandes, ou des fruits en pyramide, et plusieurs assiettes de divers mets » (F.).V. 622Batteur de pavéFilou, fainéant.V. 1117Beau« Se dit souvent par ironie et familièrement, dans un sens fort contraire à sa signification propre » (A, 1884).V. 203, 216, 420, 484, 1286Blondin« On appelle blondins les jeunes galants qui font les beaux, parce qu'ils portent d'ordinaire les perruques blondes » (A, 94).V. 340Bon celaFormule d'approbation.V. 1012Bon-heur« Hasard » (F.).Dédicace, v. 867, 1642« Événement heureux, chance favorable » (A, 1932).Bruit« Querelle, confusion » (F.).V. 1405But à butD'une manière égale, à égalité.V. 1463Cadedy« Jurement qu'on met habituellement dans la bouche des Gascons » (L.). Le terme est formé à partir de *cap*, tête, et de *dis*, Dieu. V. 1088CajolerEmployer des paroles caressantes pour plaire à quelqu'un. Furetière précise qu'il se dit en particulier « à l'égard des femmes et des filles, auxquelles on fait l'amour (c'est-à-dire, que l'on courtise), et dont on tâche de surprendre les faveurs à force de leur dire des douceurs et des flatteries ».V. 1141, 1177Campagnart« Celuy qui vit noblement à la campagne, qui n'a point hanté la Cour, ni le beau monde des villes » (F.).Dédicace, v. 112, 1624CarogneTerme injurieux signifiant « femme hargneuse, méchante femme » (L.). Il est souvent utilisé dans les comédies par les hommes, en particulier les maris.V. 457, 1302Céans« Terme démonstratif du lieu où on est » (F.).V. 248, 446, 795, 878, 1003, 1035, 1050, 1085, 1087, 1138, 1268, 1288, 1336Chagrin« Qui, sans cause précise, est d'une humeur ordinairement fâcheuse » (A, 1932).V. 954Chambre« Membre du logis, partie d'un appartement. C'est ordinairement le lieu où on couche, et où on reçoit compagnie » (F.).V. 408Chocquant« Qui offence » (F.).V. 143, 1559CivilHonnête et raisonnable.V. 440, 843Cocquet, ette« Qui est galant, qui se picque de se faire aimer » (F.), qui cherche à plaire.V. 147, 934, 964Cocquette« Dame qui tâche de gagner l'amour des hommes …. Les *coquettes* tâchent d'engager les hommes, et ne veulent point s'engager » (F.).V. 448, 1246, 1647Coins« Ce sont des cheveux postiches, que les hommes mettent pour faire paroistre leurs cheveux plus longs ; et que les femmes portoient autrefois pour retrousser et enfler leurs coeffures » (F.).V. 904Colet« Partie de l'habillement, qui joint le cou, qui se met autour du cou » (F.).V. 752, 1119Comédie« Se prend généralement pour toutes sortes de pièces de théâtre » (A, 94).V. 407CommerceToute fréquentation, toute liaison, tout rapport social. Le mot peut être pris en mauvaise part au sens de liaison illégitime.V. 1310Compagnie« Petit nombre d'amis assemblez dans un lieu pour s'entretenir, pour se divertir, pour se visiter » (F.).V. 39, 47, 408, 1533Compere« Ne tarde pas à désigner, par déviation péjorative, un homme galant, et qui aime à s'amuser » (C.).V. 320ConcertPréparation collective d'un projet, d'une entreprise, d'un complot. « De concert » signifie « d'intelligence, en accord ».V. 588, 593, 1470, 1483, 1553ConnoistreReconnaître.V. 95, 101, 246, 873Contraste« Contestation, contrariété de sentiments » (F.).V. 1057Cotte« Partie du vestement des femmes, qui s'attache à leur ceinture, et qui descend jusqu'en bas » (F.).V. 645Couvert, adv.« Caché, à l'abri, en seureté. Il a mis à *couvert* tout son bien » (F.).V. 587CreanceCroyance.V. 1493Cuistre« Valet de Pedants, ou de Prestres, ou de gens de Collège, qui leur sert à faire cuire leur viande » (F.). Par extension, « pédant encrassé » (L.).V. 762, 771, 1108, 1479Da« Particule qui se joint à l'adverbe *oui* … et donne plus de force à l'affirmation » (L.). Richelet spécifie qu'elle n'est utilisée que « dans le stile le plus-simple, ou dans la conversation familiere ».V. 1283Debat« Contestation, altercation » (A, 1932).V. 1056DebetSynonyme de « débit ».V. 1078Défaite« Excuse, eschapatoire. Ce valet est un rusé menteur, qui a toûjours une *deffaite* en poche » (F.).V. 448Défrayer« Payer la despense faite par quelqu'un au lieu de luy » (F.).V. 596Denier« Intérêt d'une somme principale » (A, 1884).V. 566Despens« Terme de procédure, frais que la partie qui perd doit payer à la partie qui gagne » (L.).Privilège, v. 662DevantAvant. « Devant qu'il soit peu » équivaut à « avant peu de temps ».V. 1043, 1572, 1604Docteur« Qui a passé par l'examen et par tous les degrez d'une Faculté, et qui a le pouvoir d'enseigner une science et de la pratiquer » (F.)V. 537DoubleTrès petite monnaie.V. 565Drille« Fantassin, soldat à pied. Il ne se disait guère que par raillerie ». « Un bon drille » est « un bon compagnon » (L.).V. 404Drôle« Bon compagnon, homme de débauche prest à tout faire, plaisant et gaillard » (F.).V. 82, 280, 304, 421, 1178Éblouir« Tromper, surprendre l'esprit et les sens par de fausses raisons, de fausses lumieres » (F.).V. 1417, 1509Éclater« Se dit figurément de ce qui se manifeste tout à coup, après avoir été quelque temps caché » (A, 1884), « se decouvrir » (F.).V. 265, 271Écouter« Se laisser persuader, se rendre à quelque raison. Cette femme commence à e*scouter* les cageolleries, les offres de ses amants, elle sera bientost perduë » (F.).V. 1403ÉcuPièce de monnaie valant trois francs.V. 628Embarras« Encombrement, ensemble d'obstacles inextricables » (C.).V. 204, 219, 358, 366, 501, 655Emblême« Espece d'énigme en tableau, qui en représentant quelque histoire connuë avec quelques paroles au bas, nous apprend quelque moralité, ou nous donne quelque autre connoissance » (F.). Le terme désigne, par extension, une formule énigmatique, sibylline.V. 946Émouvoir« Esbransler pour mettre en mouvement » (F.).V. 1322EmpaumerTerme de jeu de paume, « recevoir la balle … dans la paume de la main ou en pleine raquette » (L.), « serrer avec la main » (F.). Il réalise l'idée figurée, « se rendre maistre de l'esprit de quelqu'un » (F.).V. 15, 1247EmpeschéEmbarrassé, occupé.V. 996EmpouléEnflé.V. 904EntendreComprendre.V. 135, 223, 226, 287, 419, 420, 422, 461, 535EntretienConversation.V. 663, 915, 929, 963, 1034, 1147, 1175, 1271Épais« Lourd, pesant, grossier » (L.).V. 1223Équipage« Manière dont une personne est vêtue » (L.), habit.V. 20ÉvelierVariante graphique de « éveillé », « qui a de la vivacité dans le ton et de la liberté dans les manières » (L.). « On dit, qu'*Une femme est fort éveillée*, pour dire, qu'Elle est un peu coquette. … Il se prend aussi quelquefois subst. *C'est un éveillé* » (A, 1718).V. 81Évenement« Issuë, succès bon ou mauvais de quelque chose » (F.).V. 317Facheux, euse« Qui donne du déplaisir, de la peine » (A, 1932).V. 809, 1038, 1057, 1217Fâcheux« Un importun, un homme odieux et qui déplaît » (F.).V. 1064Façon« Difficultés qu'une personne fait de se déterminer à quelque chose » (A, 1932).V. 383« Maniere d'agir » (F.), « se dit également, au pluriel, des manières propres à une personne, de ses actions, de ses procédés » (A, 1932).V. 905« Manière cérémonieuse et gênante de témoigner ses égards, sa politesse, sa circonspection, sa retenue » (A, 1932).V. 14, 78, 924Fait« Se dit de ce qui est propre, convenable. Voilà vostre vray *fait*, ce qu'il vous faut » (F.).V. 392FatSot, impertinent.V. 659Figure« Forme extérieure d'un corps, d'un être » (A, 1932).V. 1518Fille« Se dit par opposition à femme mariée » (L.).V. 446, 1186, 1650Flandrin« Homme grand et fluet » (L.).V. 632Flater« Adoucir le sentiment d'une peine par des pensées consolantes » (A, 1884), donner de l'espoir, « causer une vive satisfaction » (L.).V. 272, 273, 290, 698, 711, 1206, 1221, 1452, 1597, 1621Fleurette« Ne se dit qu'au figuré de certains petits ornements du langage, et des termes doucereux dont on se sert ordinairement pour cajeoller les femmes » (F.).V. 148, 488, 933Folle« Nom qu'on donnait autrefois aux femmes de mauvaise vie, aux courtisanes » (L.).V. 680FondsLe sol d'un champ, d'une terre, d'un domaine.V. 1523Somme d'argent plus ou moins considérable destinée à quelque usage.V. 82, 83, 549, 557, 1080, 1118Ressources d'ordre intellectuel ou moral.V. 1528FortuneDestin, sort.V. 710Fourager« Ravager, désoler, piller, ruiner un pays, y mettre tout en désordre » (F.).V. 1250Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer » (F.).V. 265, 1508, 1547, 1580, 1624Fracas« Bruit qu'on fait dans le monde » (L).V. 158Friquet« Jeune galant fort mince qui n'a que du caquet et de l'affeterie, et rien de solide » (F.).V. 760FureurSe dit « de toutes les passions qui nous font agir avec de grands emportements » (F.).V. 172Galand, ante (adj.)« Vif, plein de grâce alerte, de souplesse de corps et d'esprit ; distingué, élégant, de belles manières » (C.).Dédicace, v. 1427« Empressé à s'amuser, avec nuance défavorable, en parlant spécialement des plaisirs de l'amour ; ami des bonnes fortunes, des intrigues amoureuses » (C.).V. 142, 144, 1650GalandPrétendant, amoureux, « amant qui se donne tout entier au service d'une maistresse » (F.). Vaugelas (1647) dit que « galant » peut désigner « un amant favorisé ». V. 100, 333, 367, 447, 883, 967, 1318, 1402, 1438, 1465« Homme qui a l'air de la Cour, les manières agreables, qui tâche à plaire, et particulierement au beau sexe » (F.).V. 158, 367Homme « habile, adroit, dangereux » (F.).V. 100Galanterie« Commerce amoureux » (L.).V. 1469Garde magazin« Marchandises qui se vendent difficilement » (L.).V. 648Garder dePrendre garde de, éviter de.V. 441, 1307Gaster« Ruiner, destruire » (F.). Par atténuation, il prend le sens de « compromettre, gêner ».V. 115, 1001Generosité« Grandeur d'âme, de courage, magnanimité, bravoure, libéralité » (F.).DédicaceGens« Domestiques d'un même maistre » (F.).V. 62, 589, 602, 1047Giste« En termes de Chasse, … lieu où le lievre retourne toûjours. Il faut attendre le lievre au *giste* » (F.).V. 886Hardaut« Garçon » (Huguet).V. 217Heur« Bonne fortune, chance heureuse » (L.). V. 921HeureuxChanceux.V. 840Honneste« Ce qui merite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. Il ne faut hanter que d'*honnestes* gens » (F.).V. 1449, 1540Honneur« Considération, estime dont on jouit », « bien moral, sentiment qu'on a de sa dignité ». Dans le *Dictionnaire historique de la langue française*, Alain Rey fait le départ entre l'« honneur » d'un homme, qui est « la réputation liée au comportement de sa femme » (v. 114, 130, 1312) et l'« honneur » d'une femme, qui désigne « la réputation attachée au caractère irréprochable de ses mœurs » (v. 114, 1182, 1186, 1252, 1595).V. 114, 130, 1182, 1186, 1252, 1255, 1312, 1595HumeurCaractère, au point de vue moral, « naturel » (R.). « Etre d'humeur » à signifie « être d'un tempérament à ».V. 142, 199, 955, 1225, 1251, 1381, 1453Idole« Personne qui n'a point d'esprit, qui n'a point de paroles, d'action, … qui paroist insensible comme une statuë » (F.).V. 1566IndustrieHabileté, expédient.V. 1118Infirmité« Foiblesse » (F.).V. 944Inquieter« Chagriner l'esprit, luy donner de la peine » (F.), ôter le repos.V. 1124Intelligence (être d')« S'entendre avec, avoir concert avec » (L.).V. 608, 1308Intrigue« Commerce secret de galanterie » (L.).V. 1445, 1466JargonTerme familier, « langage vicieux et corrompu du peuple, de paysans qu'on a de la peine à entendre » (F.).V. 93« Se dit aussi par extension en parlant des Langues mortes ou estrangères que nous n'entendons pas » (F.).V. 225, 279, 675LarderAu sens propre, « mettre des lardons dans la viande ». Les exemples, mentionnés par Littré, « larder quelqu'un de coups d'épée, larder ses écrits de citations », mettent en évidence l'acception figurée du verbe.V. 904, 1147LesteÉlégant.V. 1458LouysPièce d'or qui vaut douze livres ou francs.V. 836, 837, 861, 1111, 1161, 1164, 1371, 1447, 1484MagotAu propre, « gros singe ». Au figuré, il se dit « des hommes difformes, laids comme sont les singes, des hommes mal bastis (F.). Il peut également désigner un homme « sot, ridicule ». V. 1, 1167Maltostier« Celuy qui exige des droits qui ne sont point deus, ou qui sont imposez sans autorité legitime » (F.).V. 50Manie« Emportement et desreglement de l'esprit » (F.).V. 184Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez » (F.), injure très fréquente dans les comédies. V. 745, 1038, 1316Masque« Terme familier d'injure dont on se sert quelquefois pour qualifier une jeune fille, une femme » (L.).V. 1162Materiel « Massif, grossier. On dit aussi d'un homme sans esprit, ou qui est  fort attaché à ses sens, qu'il est fort *materiel* » (F.).V. 1223MâtinAu propre, « gros chien de cuisine, ou de basse-cour ». Au figuré, il « se dit aussi des hommes grossiers, mal bastis de corps, ou d'esprit (F.)V. 21Méchant« Mauvais, qui est despourveu de bonnes qualitez » (F.).V. 228, 955« Qui est contre la raison, les loix, les bonnes mœurs » (F.).V. 397« Fanfaron, dangereux » (F.).V. 228Medaille« Se dit … des personnes vieilles et laides, et des figures ou bustes qui les représentent » (F.). Par extension, le terme signifie « tête, visage ».V. 24MénagerÉconome.V. 198Mine« Physionomie, disposition de corps et sur tout du visage, qui fait juger en quelque façon l'Intérieur par l'extérieur » (F.).V. 154, 229, 332, 1090, 1381Mitan« Vieux mot qui signifie le milieu d'une chose » (F.).V. 984Mittonner« Caresser, choyer une personne, la traiter favorablement, pour gagner ou pour conserver ses bonnes graces » (F.).V. 1465ModesteEn parlant des choses, qui est conforme à la pudeur, à la bienséance.V. 912Mouchoir (de col)« Linge garni ordinairement de dentelles exquises, dont les Dames se servent pour cacher et pour parer leur gorge » (F.).V. 893Mutin« Qui se revolte contre l'autorité légitime » (F.), opiniâtre, querelleur.V. 225, 369, 492Nompareille« Se dit en plusieurs arts pour exprimer ce qui y est de plus petit …. Chez les Marchands, c'est le ruban le moins large » (F.).V. 901Obseder« Se dit originairement des Demons qui sans entrer dans le corps d'une personne, la tourmentent et l'assiegent au dehors » (F.). Par métaphore, il signifie « se rendre maistre de l'esprit ou de la maison d'une personne, empescher les autres d'en approcher. » (F.)V. 39, 702« Importuner quelqu'un par son assiduité, par ses demandes ». (F.).V. 1069Officieux« Prompt à rendre service, office, courtoisie » (F.).V. 843Ombrageux« On le dit ordinairement au figuré … des hommes qui ont des soupçons, des deffiances, des ombrages malfondez » (F.).V. 955Partie« Somme d'argent qui est due » (A, 94).V. 612« Se dit aussi en mauvaise part, d'un complot qu'on fait pour assassiner, pour perdre quelqu'un, pour le ruiner » (F.).V. 1234Passion« Tout désir violent ou inclination qui nous donne de l'affection pour quelque chose. » (F.).V. 109« Chaleur avec laquelle on fait quelque chose » (F.).DédicacePayer« Récompenser, reconnaître » (A, 1884).V. 155Pedant« Celuy qui fait un mauvais usage des sciences, qui les corrompt et altere, qui les tourne mal, qui fait de méchantes critiques et observations » (F.).V. 809Peine« Obstacle, difficulté » (F.).V. 175, 1021, 1374PicquantQui choque l'esprit.V. 925Picquer (se)Se vanter, avoir des prétentions.V. 953, 1637PiedMesure de longueur qui vaut douze pouces (0,324 m).V. 395Pied-platRustre, paysan qui a des souliers tout unis (et non des talons hauts comme en portent l'aristocratie et les gens de Cour), homme qui ne mérite aucune considération.V. 3PistoleMonnaie d'or qui vaut dix livres.V. 67, 427Plaindre« Employer, donner avec répugnance, à regret, d'une manière insuffisante. *Se plaindre une chose*, s'en passer par avarice » (A, 1884).V. 3Poinçon« Joyau dont les femmes se servent pour parer leur teste et pour arranger leurs cheveux en se coiffant » (F.).V. 904Point« Certains ouvrages de broderie ou de tapisserie à l'aiguille, distingués les uns des autres par le déterminatif qui accompagne le mot point. … Point d'Angleterre» (L.). Le « point Venitien » est une « dentelle à l'aiguille, probablement originaire de Venise, caractérisée par des dessins à rinceaux en fort relief » (TLF).V. 162, 621Poulet-d'indeJeune dindon.V. 9Presse« Foule de peuple qui veut entrer en un lieu qui ne le peut pas contenir commodément » (F.).V. 359PretendreVouloir, « avoir intention, avoir dessein » (A, 1884).V. 32, 242, 368, 449, 518, 521, 529, 530, 707, 845, 961, 1050, 1060, 1089, 1099, 1199, 1321, 1378, 1550, 1599« Soutenir affirmativement, être persuadé » (A, 1884).V. 133, 154, 354, 1638PriserEstimer.V. 1531PropreConvenable dans la tenue, bien ajusté, élégant.V. 1427Protestant« Amant qui fait à une Dame des offres de service et d'amour et qui luy promet fidelité » (F.). Terme passablement démodé au sens de « prétendant ».V. 460Public« Le général des citoyens, ou des hommes » ( F.).V. 196, 517, 553, 569, 637Remettre (se)Se rappeler.V. 19Repos« Quiétude d'esprit, calme de l'âme » (L.).V. 497, 1062, 1543, 1589RespondreGarantir. « Je vous en réponds » se dit pour « affirmer davantage une chose » (L.).V. 300, 545, 1095, 1658RompreHarceler, tarabuster. « Un Juge a la tête bien *rompuë* de sollicitations, il en est bien importuné » (F.).V. 982Ruisseau« Eau qui coule au milieu ou sur les deux côtés de la chaussée d'une rue » (L.).V. 984SçavantBien informé, bien instruit de quelque chose. « Cette jeune fille est trop savante, est bien savante, elle sait des choses qu'elle devrait ignorer » (L.).V. 1649Sentiment« Avis, opinion » (R.).V. 192Sentir« Avoir les qualités, l'air, l'apparence, indiquer, dénoter » (L.).V. 24, 1560Serrer« Enfermer, arranger, mettre à couvert, en lieu seur » (F).V. 174, 817Sexe« Absolument parlant, se dit des femmes. C'est un homme qui aime le *sexe*, c'est à dire, les femmes » (F.).V. 123SoinsAu pluriel, « services qu'on rend à quelqu'un, attentions qu'on a pour lui » (L.).V. 44, 115, 797, 820, 965, 1232, 1257, 1310, 1461, 1549, 1555SotS'employait souvent comme substitut de cocu.V. 940, 1242SoucyChagrin, inquiétude d'esprit.V. 1019, 1635SouffrirPermettre, tolérer.V. 51, 272, 302, 475, 949, 1206, 1216SpirituelIngénieux.V. 1224Sujet « Cause, occasion, fondement » (F.).DédicaceSupposer« Mettre une chose à la place d'une autre par fraude et tromperie » (F.).V. 530, 1108Supputer« Calculer, examiner par les règles d'Arithmetique, en adjoustant, soustrayant, multipliant, ou divisant » (F.).V. 514Sur ce piedÀ ces conditions, les choses étant ainsi.V. 513, 921SurprendreTromper.V. 1415Suscription« Signature au bas d'une lettre, d'un acte » (F.).V. 815TantostIl y a quelques instants.V. 844, 1610Bientôt, tout à l'heure.V. 856, 973, 976Tendresse« Sensibilité du cœur et de l'âme … ce mot signifie le plus souvent *amour* » (F.).V. 55, 717, 1386, 1642Touchant« Concernant, sur le sujet de » (A, 1884).V. 26, 582Tout à l'heureAussitôt, tout de suite, sur le champ.V. 372Tout de bon« Sérieusement, sans jeu ni fiction » (L.).V. 490, 1656TrainSe dit de « l'équipage ou de la suite d'un chef de famille, d'un Seigneur » (F.).V. 20TransportTrouble ou agitation de l'âme par la violence des passions.V. 854Veuë« Rencontre » (F.).V. 1321Visage« Se prend quelquefois pour la personne entière » (F.), spécialement au sens de « sot, fat, misérable », quand on le dit en colère.V. 19
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions du texteLe Gentilhomme de Beauce
+## Éditions du texte.Le Gentilhomme de Beauce
 Le Gentilhomme de Beauce
 Les Œuvres de Montfleury
 Les Œuvres de Montfleury
@@ -4144,15 +4144,15 @@ Théâtre de messieurs de Montfleury, père et fils
 
 
 
-## Outils de travail
+## Outils de travail.
 
 
-### Dictionnaires de langue de l'époque*Furetiere*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+### Dictionnaires de langue de l'époque.*Furetiere*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Richelet*Dictionnaire françois contenant les mots et les choses
 
 
 
-### Autres dictionnaires*Académie Française*Dictionnaire
+### Autres dictionnaires.*Académie Française*Dictionnaire
 *Académie Française*Dictionnaire
 *Académie Française*Dictionnaire*ème*
 *Académie Française*Dictionnaire*e*
@@ -4164,24 +4164,24 @@ Trésor de la Langue Française
 
 
 
-### Ouvrages de syntaxe*Fournier*Grammaire du français classique
+### Ouvrages de syntaxe.*Fournier*Grammaire du français classique
 *Haase*Syntaxe française du XVII*e* siècle*e*
 *Sancier**Château*Introduction à la langue du XVII*e* siècle
 
 
 
-### Ouvrages encyclopédiques*Grimal*Dictionnaire de la mythologie grecque et romaine
+### Ouvrages encyclopédiques.*Grimal*Dictionnaire de la mythologie grecque et romaine
 *Moreri*Le Grand Dictionnaire historique
 *Mourre*Dictionnaire encyclopédique d'Histoire
 
 
 
-### Ouvrages bibliographiques*Cioranescu*Bibliographie de la Littérature française du dix-septième siècle
+### Ouvrages bibliographiques.*Cioranescu*Bibliographie de la Littérature française du dix-septième siècle
 *Klapp*Bibliographie der französischen Literatur-Wissenschaft
 
 
 
-## Comédies du XVII*e* siècle*Boursault*La Satire des satires
+## Comédies du XVII*e* siècle.*Boursault*La Satire des satires
 *Claveret*L'Écuyer ou Les faux nobles mis au billon
 *Corneille*La Comtesse d'orgueil
 *Donneau De Visé*Les Intrigues de la loterie
@@ -4190,10 +4190,10 @@ Théâtre du XVII*e* siècle
 
 
 
-## Textes critiques
+## Textes critiques.
 
 
-### Ouvrages généraux sur la période*Adam*Histoire de la littérature française du XVII*e* siècle
+### Ouvrages généraux sur la période.*Adam*Histoire de la littérature française du XVII*e* siècle
 *Babeau*La Vie militaire sous l'ancien régime Les soldats
 *Bluche*Dictionnaire du Grand Siècle
 *Gaiffe*L'Envers du grand siècle
@@ -4202,7 +4202,7 @@ Théâtre du XVII*e* siècle
 
 
 
-### Textes antérieurs à 1900 sur le théâtre et la comédie*Chappuzeau*Le Théâtre François
+### Textes antérieurs à 1900 sur le théâtre et la comédie.*Chappuzeau*Le Théâtre François
 *Clement**La Porte*Anecdotes dramatiques
 *Fournel*Le Théâtre au XVII*e* siècle. La Comédie*ie*
 *Fournel*Les Contemporains de Molière
@@ -4219,7 +4219,7 @@ Le théâtre et l'opéra vus par les gazetiers Robinet et Laurent : 1670-1678
 
 
 
-### Ouvrages contemporains sur le théâtre et la comédie*Abou**Ghazala*Spectacles et divertissements à la Cour de France 1661-1680
+### Ouvrages contemporains sur le théâtre et la comédie.*Abou**Ghazala*Spectacles et divertissements à la Cour de France 1661-1680
 *Corvin*Lire la comédie
 *Deierkauf**Holsbœr*L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
 *Deierkauf**Holsbœr*Le Théâtre de l'Hôtel de BourgogneLe Théâtre de la troupe royale
@@ -4235,7 +4235,7 @@ Le théâtre et l'opéra vus par les gazetiers Robinet et Laurent : 1670-1678
 
 
 
-### Textes sur Montfleury*Bernardin*Revue des Cours et Conférences
+### Textes sur Montfleury.*Bernardin*Revue des Cours et Conférences
 *Forman*Édition critique ded'Antoine Jacob Montfleury
 *Gazier*Revue des Cours et Conférences
 *Montfleury* Chef-d'œuvres de Montfleury

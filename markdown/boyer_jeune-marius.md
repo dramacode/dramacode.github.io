@@ -18,7 +18,7 @@ A PARIS, Chez GABRIEL QUINET, au Palais, dans la Gallerie des Prisonniers, à l'
 Édition critique établie par Isabelle Gérard sous la direction de Georges Forestier (1997)
 
 
-# Avant-propos
+# Avant-propos.
 
 La perspective de permettre au *Jeune Marius* de sortir de l'oubli dans lequel cette tragédie est restée depuis 1669 nous a donné l'envie d'en étudier de plus près le fonctionnement. Claude Boyer, dramaturge reconnu dans son temps est académicien depuis trois ans quand fin janvier 1669 le *Jeune Marius* est représenté sur la scène du théâtre de l'Hôtel de Bourgogne. C'est un homme d'âge mûr, expérimenté par 23 ans de carrière.
 
@@ -27,7 +27,7 @@ Subtilement construite, cette tragédie tirée d'un moment de l'Histoire romaine
 Nous espérons permettre la découverte de ce texte riche par son style et par ses thématiques.
 
 
-# Biographie de Claude Boyer
+# Biographie de Claude Boyer.
 
 Du Claude Boyer privé nous ne savons que bien peu de choses. Né à Albi en 1618, ce gascon monte à Paris en 1645. Entre temps, il acquiert par des études chez les Jésuites un solide bagage culturel : historiens et poètes de l'Antiquité, connaissance de la rhétorique et de l'art de l'éloquence surtout. Accompagné de son compatriote Michel Leclerc, il part chercher la gloire que seul Paris peut lui apporter. Son diplôme de bachelier en théologie en poche, ce prêtre de vingt-sept ans « n'a pas été assez heureux pour faire dormir personne en ses sermons, car il n'a pas trouvé de lieu pour précher » (Furetière, *Second Factum contre l'Académie* [1]) . Il n'a comme beaucoup d'autres sûrement jamais prêché.
 
@@ -138,7 +138,7 @@ Puis profitant des fêtes, Boyer décide de faire paraître sa pièce en librair
 Claude Boyer mourut le 22 juillet 1698 à Paris, il fut remplacé à l'Académie française par l'Abbé Genest. Sa longue carrière dramatique, les critiques qui l'ont atteint n'ont pas réussi à entamer son « aimable vivacité » , laquelle selon d'Olivet « ne s'est pas démentie en lui jusques à l'âge de 80 ans » (*L'Histoire de l'Académie française*, t. II, p. 345) .
 
 
-# Réception de la tragédie du Jeune Marius
+# Réception de la tragédie du Jeune Marius.
 
 S. W. Deierkauf-Holsboer [8] commente :
 
@@ -184,17 +184,17 @@ Jamais on n'entend parler si fréquemment de la grandeur et de la vertu Romaine,
 Leurs remarques sont parfois justes mais restent trop réductrices. Négatifs quelle que soit la pièce de Boyer qu'ils commentent, ils demeurent peu fiables.
 
 
-# Sources et construction
+# Sources et construction.
 
 
-## Les sources
+## Les sources.
 
 Le *Jeune Marius* de Claude Boyer met en scène les rivalités entre Sylla, Marius le Jeune et Pompée. Marius, fils du grand Marius, fut consul peu après la mort de son père et pour peu de temps jusqu'à sa mort à Préneste. Moins célèbre que son père, les principaux éléments de sa courte carrière sont relatés par Plutarque dans *Les Vies des hommes illustres*, par Appien d'Alexandrie dans *Les Guerres civiles à Rome*, par Tite Live dans les *Abrégés* des livres de *Ab Urbe condita*, par Orose dans les *Histoires* et par Velleius Paterculus dans son *Histoire romaine*. Tous racontent plus ou moins longuement la prise de Préneste par l'armée de Sylla, le siège et le suicide de Marius le jeune en 82 avant J.-C. Marius garda l'espoir tant que les Samnites (peuple conquis du sud de l'Italie dirigé par Télésinus) et son collègue au consulat, Carbon, pouvaient l'aider. Après leur défaite, il se suicida. Tite Live par exemple indique : « Marius tentait de s'échapper par un souterrain cerné par l'armée, il se donna la mort » (*Abrégé* du livre 87) . Ce siège n'est qu'un épisode de la guerre civile qui opposait marianistes et syllaniens depuis six ans.
 
 Nous retrouvons dans le *Jeune Marius* le siège (vers 3) et le suicide, c'est-à-dire les tenants et aboutissants, la situation initiale et le dénouement. Une seule phrase suffit : Marius fils assiégé dans Préneste, par les armées de Sylla, se suicide après la défaite de ses alliés. De cette matrice tragique, Boyer composa cinq actes et plus de 1700 vers.
 
 
-## De l'Histoire à la tragédie
+## De l'Histoire à la tragédie.
 
 Il pourrait sembler effectivement difficile de composer une intrigue à partir de ces quelques éléments. Or la lecture du *Jeune Marius* nous introduit dans une action menant au suicide certes, mais un suicide motivé par le désespoir et l'amour et non par la défaite inéluctable. L'Histoire romaine donnait à Claude Boyer les circonstances dans lesquels les personnages évoluent et des raisons du suicide. Historiquement, Sylla laisse la direction du siège à un lieutenant pour aller combattre à Rome, Pompée quant à lui combat contre Carbon, Marius est isolé. Or le théâtre étant exclusivement composé de dialogues, donc de confrontation, il fallait les réunir, ce qui supposait soit que Marius sorte de Préneste, soit que les deux autres y entrent. Pour les besoins de l'intrigue, Boyer ne pouvait respecter toutes les données historiques. Et la présence dans les murs des trois personnages obligeait pour la cohérence de l'action à lier les principaux événements entre eux. Ainsi pour développer la matrice et assurer la cohérence, il fallait amener autrement le suicide, c'est-à-dire le dénouement. Afin de mieux comprendre cela, il nous suffira de suivre la structure telle qu'elle est présentée aux lecteurs : la structure linéaire.
 
@@ -206,7 +206,7 @@ Sans retracer ici un long résumé de la tragédie, nous en dégagerons les poin
 Dans cette intrigue, le suicide de Marius a une cause principale : son amour pour Cécilie qui l'incite à tout faire au risque de sa vie, à combattre par deux fois le père de Cécilie. Mais de cet amour pour une jeune fille, fille de l'ennemi héréditaire du héros, nous n'avons aucune trace dans les historiens. Nous savons par contre qu'une tragédie classique ne fonctionne qu'à partir d'un enjeu amoureux lié étroitement à la politique. Sur cette base, une donnée historique utilisée comme dénouement, mais modifiée dans les causes mêmes de ce dénouement et un enjeu indispensable, nous pouvons dégager les principes de la construction de cette tragédie, non plus telle qu'elle est donnée aux lecteurs mais à travers le travail du dramaturge.
 
 
-## Principes de construction
+## Principes de construction.
 
 Au vu de la structure linéaire que nous venons de retracer, hormis la matrice tragique et quelques éléments historiques de plus ou moins grande importance (la menace Télésinus, la dictature...) qui donnent à la pièce une épaisseur historique, le reste, en particulier l'amour entre les personnages, est de l'invention de l'auteur. Nous nous sommes autorisés à suivre la méthode génétique proposée par G. Forestier [11]. Il fallait à partir du dénouement construire à rebours une intrigue, c'est-à-dire inventer un enchaînement de causes et d'effets susceptibles de créer une intrigue étoffée et cohérente qui se lise en partant du début. Remontons du dénouement (point de départ pour Claude Boyer) à l'exposition par laquelle le lecteur entre dans l'intrigue.
 
@@ -254,7 +254,7 @@ Enfin le lien entre deux événements historiques, le siège dans la guerre civi
 L'enjeu amoureux, un épisode et le péril d'État, un « embellissement » (c'est-à-dire un renforcement de l'action principale permettant de raviver l'antagonisme politique qui aurait existé sans cela) s'ajoutant à la matrice tragique s'imbriquent dans l'action principale.
 
 
-## Épisode et « embellissement »
+## Épisode et « embellissement ».
 
 Corneille dans son *Discours du poème dramatique* [12] a défini les épisodes :
 
@@ -328,31 +328,31 @@ Or, « il faut que l'enjeu amoureux soit doublé par un enjeu autrement plus im
 Enjeu amoureux et enjeu de péril sont imbriqués au point de ne constituer qu'une seule intrigue cohérente et vraisemblable. Une seule intrigue mais non dépourvue de bouleversements. En effet le spectateur est laissé dans l'indécision jusqu'à la scène 6 de l'acte V. Sylla cédait presque aux souhaits de Cécilie quand il apprend que Marius marche avec des soldats sur le palais. Et ce n'est pas le premier retournement : important aussi est celui de l'acte III qui avec l'arrivée et la victoire de Pompée permet à Sylla de changer sa politique. Dans les deux cas on assiste à une remise en cause de l'alliance matrimoniale. Marius dans les deux premiers actes et de nouveau à la fin de la scène 5 de l'acte V a la possibilité d'obtenir la satisfaction de ses souhaits, l'action pourrait s'y arrêter mais la tragédie suppose le passage du bonheur au malheur. Ainsi, l'action reprend par un coup de force : une victoire alliée ou un acte désespéré du héros lui-même. Et conduit le héros vers la mort.
 
 
-# L'action
+# L'action.
 
 Nous nous proposons dans ces pages de considérer la structure interne du *Jeune Marius* : exposition, dénouement, unités et études des personnages.
 
 
-## L'exposition
+## L'exposition.
 
 Regroupés dans les trois scènes de l'acte I, les éléments d'exposition permettent la présentation de la situation de départ, de l'action principale, de l'épisode et des personnages.
  * – Nous sont donnés le lieu, les circonstances (un siège) et tous les éléments permettant de connaître l'action principale, les épisodes et leur lien (arrivée de Télésinus, haines et passions, présence de Pompée à Rome, annonce du combat de l'entre actes I et II) .
  * – Lorsque l'acte se clôt, tous les personnages ont été présentés, soit directement sur scène soit dans les propos tenus comme c'est le cas de Pompée et de Sylla qui n'interviennent qu'à l'acte III. Cécilie à la scène 3 trace devant ses confidentes un portrait de ses deux prétendants.
 
 
-## Le dénouement
+## Le dénouement.
 
 Conséquence d'un bouleversement (Acte V, scène 6) , il conclut la tragédie par la mort du héros éponyme. 5 scènes dans lesquelles se joue la dernière action. Il est tout entier dû à un récit, Pison : Marius attaque ; Marcelle : il est abandonné de ses soldats, et enfin un long récit de Pompée retraçant les derniers moments de Marius et de Préneste. Le passage du dialogue au récit, outre le respect des bienséances qui interdisent la violence sur scène, marque la fin de la confrontation orale et de la tragédie. Constatons aussi l'ouverture autant sur le futur hymen de Cécilie et de Pompée que sur les crimes de Sylla.
 
 
-## Les unités
+## Les unités.
  * – L'action se déroule en 24 heures, sans vraiment de référence marquée au temps et malgré trois batailles. Il est précisé que la distance entre Préneste et Rome est limitée (38 kilomètres) , ce qui explique que Pompée puisse la parcourir dans la journée.
  * – La didascalie placée après la liste des acteurs indique que « la scène est à Preneste, dans le palais de Marius » . L'espace intérieur, le palais, est constitué d'une salle, jamais décrite, lieu de confrontation orale où se mêlent des discussions politiques ou galantes. De nombreuses scènes se concluent par « il vient » . Mais le reste du palais d'où viennent les personnages n'est évoqué que lorsqu'au vers 387, Cécilie demande à Marcelle d'aller voir « du haut de la tour » le premier combat et quand au vers 1069, Marcelle précise que Cécilie « vient de chez son pere » indiquant que Sylla bénéficie d'un lieu propre.
 
 Il existe aussi deux espaces extérieurs différents, connus grâce à des récits. Les deux combats entre Marius et Sylla se déroulent hors des murs du palais ; le premier aux limites du camp (entre assiégeant et assiégé) , le second dans le camp (vers 1685-1690) . Et la victoire de Pompée a lieu à Rome. Ce sont des lieux de confrontation violente.
 
 
-## Étude des personnages
+## Étude des personnages.
 
 Il y a quatre personnages principaux dont trois sont connus des spectateurs grâce à l'Histoire romaine. Les combats qui opposèrent Sylla aux Marius père et fils constituèrent une période trouble du premier siècle avant J.-C. Pompée est de plus connu comme héros éponyme de Corneille, présent dans *Sertorius*, héros aussi de Chaulmer [16] et d'autres. Sylla est aussi nommé dans *Sertorius*. Il est parfois fait référence aux Marius. Quant à Cécilie, seule personnage féminin, étrangère à l'action principale, c'est un personnage épisodique que Boyer a ajouté en partant de Plutarque (voir introduction p. 23-24) .
 
@@ -429,10 +429,10 @@ Je sçay.. mais elle passe, et vient de chez son pere
 Elle commence une phrase qui semble un dévoilement mais elle s'interrompt, et les points de suspension le marquent bien. Elle connaît parfaitement les sentiments de Cécilie pour Pompée (elle en eut l'aveu à la scène 3 de l'acte I) mais elle ne peut les exprimer, la confidente est témoin et auditrice de sentiments mais elle ne peut pas en informer les héros.
 
 
-# Le traitement du sentiment amoureux
+# Le traitement du sentiment amoureux.
 
 
-## Historique
+## Historique.
 
 Le sentiment amoureux est entré dans la dramaturgie française. Combiné à l'action principale, son statut a évolué, il entre en concurrence et parfois en conflit avec les sentiments de devoir, d'honneurs, avec des passions telles que l'ambition ou la haine... Les tragédies antiques laissaient peu de place à la passion amoureuse et nous l'avons constaté, c'est là que réside la principale invention de Boyer dans le cadre de son sujet. Depuis, le Moyen Âge et le XVI*e* siècle ont permis l'émergence de deux traditions. Dans les romans médiévaux, le héros accomplit exploits sur exploits pour obtenir sa dame et vient ensuite déposer ses conquêtes à ses pieds : il met ainsi son courage et sa valeur au service de son amour sans jamais se laisser dominer par celui-ci. Au côté de cette tradition chevaleresque, les « chaînes amoureuses » pastorales instaurent un traitement plus tendre, plus « galant » de l'amour. L'influence de l'*Astrée* d'Honoré d'Urfé, qui connut un fort succès, n'est pas négligeable ; les malheurs et les amours des bergers, leur sens de l'honneur et de la vertu préfigurent les actions de certains héros de la tragédie. À cela s'ajoute la mode de la tragédie galante autour de Quinault, Boyer, Du Ryer.
 
@@ -448,7 +448,7 @@ Les jeux les plus galans, la pompe des spectacles (vers 312-315) .
 Voilà des qualifications plus proches de la cour louis-quatorzienne que d'un camp romain du premier siècle avant J.-C. en pleine guerre civile. Le goût du public s'est modifié, faisant un triomphe à *L'Astrate* de Quinault ou aux pièces de Thomas Corneille. Dans ce contexte, les dramaturges se souviennent de ces traditions mais aussi du théâtre de Corneille et du mélange de ses intrigues politiques et galantes. Racine quant à lui se laisse aussi tenter par la poésie galante, il suffit de lire *Andromaque*, parue deux avant le *Jeune Marius*. Nous retrouvons cette poésie amoureuse, cette rhétorique du tendre dans le *Jeune Marius*.
 
 
-## Une terminologie galante
+## Une terminologie galante.
 
 Le vocabulaire de la passion amoureuse avec lequel amants et amantes décrivent l'être aimé(e) utilise toute une série de moyens rhétoriques. Examinons quelques vers qui nous semblent plus particulièrement de style « galant » . Parmi les figures rhétoriques, l'oxymore souligne une contradiction intérieure au héros : « aimable inhumaine » employé par Pompée s'adressant à Cécilie est traditionnel (vers 1082) . Il joue sur le sens d'inhumaine : insensible à l'amour. Celle qui est insensible à l'amour est digne d'être aimée (sens fort d'aimable) mais elle fait souffrir le héros en ne répondant pas à cet amour. Elle garde l'initiative au dépend d'un héros qui est prêt à lui obéir. La même contradiction peut s'exprimer par des antithèses. Écoutons Marius définir l'influence de Cécilie sur lui, à la scène 1 de l'acte I :
 
@@ -531,7 +531,7 @@ Que j'aime en Marius et qu'il nomme foiblesse (vers 335-336) .
 Puisque pour eux « le plaisir de la gloire est le plus grand de tous » (vers 354) , il leur est naturel de sacrifier l'amour au nom de la gloire. Puisque pour Marius, l'amour est premier, il est logique qu'il recherche le bien de celle qu'il aime. Et tous trois renoncent à leur amour, mais avec des motivations différentes.
 
 
-## Le renoncement à la personne aimée
+## Le renoncement à la personne aimée.
 
 Le renoncement à la personne aimée est un thème récurrent dans la dramaturgie classique. À en croire Guichemerre [18] :
 
@@ -567,7 +567,7 @@ Ah, plus je le combats, plus je sens qu'il redouble.
 Dans tous les cas, les héros et l'héroïne sacrifient leur amour pour des valeurs supérieures, gloire et honneur en particulier. Avec la mort de celui qui figure le plus la galanterie et avec l'affirmation des valeurs héroïques, nous assistons à une victoire de la générosité, du devoir sur la passion. Cela nous confirme que cette tragédie est héroïque et sanglante mais admet la description de comportements galants appréciés par le public.
 
 
-# De la République à la Dictature
+# De la République à la Dictature.
 
 
 Lorsqu'on met sur la scène un simple intrigue d'amour entre des rois et qu'ils ne courent aucun péril ni de leur vie ni de leur État, je ne crois pas que bien que les personnes soient illustres, l'action le soit assez pour s'élever jusqu'à la tragédie. Sa dignité demande quelque grand intérêt d'État ... (Corneille, *Discours de l'utilité et des parties du poëme dramatique)* [20].
@@ -575,12 +575,12 @@ Lorsqu'on met sur la scène un simple intrigue d'amour entre des rois et qu'ils 
 Quoiqu'il n'y ait aucun roi, le problème du détenteur du pouvoir est posé, le consul Marius est en danger et avec lui les institutions de la République. Nous avons compris dans notre chapitre sur la construction de la tragédie que l'action principale est constituée par la mort de Marius après le siège de Préneste. L'antagonisme politique déjà important est encore renforcé par la prise du pouvoir dictatorial par Sylla. Cet « embellissement » étroitement lié à l'action principale y intègre l'enjeu de péril d'État, c'est-à-dire le risque de perte de l'État : la ruine des institutions de la République et la mort de leur garant et représentant. Ce péril d'État constitue le « grand intérêt d'État » que nous nous proposons d'étudier ici.
 
 
-## Rappel historique
+## Rappel historique.
 
 Rappelons rapidement la situation de l'État. Rome en 82 avant J.-C. est en République, dirigée par deux consuls : Marius et Carbon. Depuis 88 environ, la République est secouée par une guerre civile qui opposa Sylla à Marius le Grand, puis à sa mort en 86, à son fils qui devient consul en 82, année pendant laquelle Sylla vainc ses armées à Sacriport. Marius se réfugie dans Préneste. La pièce s'ouvre donc en plein milieu d'une guerre civile avec un héros enfermé par les troupes d'un autre personnage. La pièce s'ouvre en République avec un pouvoir légitimement détenu et se ferme en dictature avec un pouvoir illégitime. Avant d'étudier les modalités de ce changement de régime, deux définitions : le consulat est une magistrature suprême permanente dans laquelle deux nouveaux consuls élus chaque année sont chargés des affaires publiques et des armées. La dictature est une magistrature exceptionnelle, délégation de pleins pouvoirs en cas de vacance du pouvoir consulaire, sur décision du Sénat et pendant un temps limité.
 
 
-## Le refus du consulat
+## Le refus du consulat.
 
 La volonté de Sylla de prendre le pouvoir s'accompagne d'un refus du pouvoir consulaire. Il refuse un pouvoir réparti entre deux hommes :
 
@@ -599,7 +599,7 @@ De peur de le laisser à celui qui les suit (*Cinna*, Acte II, scène 1, vers 51
 Supprimer le principe du double pouvoir, constitutif de la République revient à détruire le régime lui-même. Mais cela n'est possible que si le régime est en difficulté. Or, depuis six ans que dure la guerre civile à laquelle les luttes permanentes contre les voisins italiens s'ajoutent, la République se dissout apportant ainsi par sa faiblesse la possibilité de sa destruction.
 
 
-## Les faiblesses du régime
+## Les faiblesses du régime.
 
 Deux menaces pèsent sur la République : la menace extérieure des Samnites et la menace intérieure, la guerre civile.
 
@@ -695,7 +695,7 @@ Qu'autant qu'à ma grandeur il sera necessaire
 et il n'accepte ni que Marius s'élève au-dessus de lui par son geste généreux ni que Pompée par sa victoire ait acquis une force et une aura militaires importantes. Ainsi le pouvoir est pris par la force des ordres et des tromperies. La dictature une fois établie, il lui faut en garantir la longévité et la stabilité et s'y maintenir.
 
 
-## ... Et s'y maintenir
+## ... Et s'y maintenir.
 
 Il y a deux moyens de garder le pouvoir : par un acte de clémence comme Auguste dans *Cinna*, ou par la contagion des crimes dans la tyrannie comme Néron dans *Britannicus*. La prise de pouvoir de Sylla rejoint la seconde méthode, et pour se maintenir à ce pouvoir, il n'hésite pas à poursuivre dans sa cruauté. Car comme le constatait Sénèque dans le *De Clementia* (III, 11, 2) :
 
@@ -723,7 +723,7 @@ Il vous faudra, Seigneur, courir de crime en crime.
 Le coup d'État de Sylla lui permet de partir pour Rome à la dernière scène avec le titre et le pouvoir de dictateur. Il s'est imposé par la violence des sentiments et de ses ordres. Quoique ce pouvoir soit un fait extérieur à la conclusion du siège de Préneste, la mort du consul est ici liée à la soif de pouvoir de Sylla. Cela en fait une tragédie politique.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il n'existe qu'une seule édition du *Jeune Marius*, éxécutée en 1670 par Gabriel QUINET. B.N. Y.f. 6545 , format in 12º.
 
@@ -743,7 +743,7 @@ Pour l'établissement du texte, nous avons suivi la leçon de cette unique édit
 Cette tragédie est entièrement en alexandrins. Cependant les vers 955, 1558 et 1600 ne possèdent que onze syllabes, nous avons corrigé afin de rétablir le rythme métrique, nous renvoyons à leurs notes respectives.
 
 
-## Liste des rectifications
+## Liste des rectifications.
 
 VERS 49 *la* / 80 *fier* / 263 *Preneste* : / 350 *un* / 441 *denoit* / 509 *jout* / 571 *cœut* / 593 *OÜy* / 728 *demande* / 730 *t'a* / 887 *qu'à* / 892 *Rome.* / 957 *vient* / 1040 *exploits ;* / 1043 *main ;* / 1108 *donnne* / 1161 *denoit* / 1190 *zelé* / 1226 *au choix* / 1227 *screet* / 1239 *devez /* 1272 *ma* / 1281 *sans* / 1297 *moy* / 1304 *innnocemment* / 1320 *secourit* / 1468 *pouvez* / 1497 *veur* / 1535 *une* / 1556 *contenr* / entre 1557-1558 *SABINE* / 1557 *Marcelle* / 1564 *Seigneur.* / 1618 *que* / 1725 *Qu'est-ce.* / 1728 *comme*, /
 
@@ -1108,7 +1108,7 @@ Il faut vous arracher à vostre pere mesme,
 Et le fer à la main forcer sa dureté  
 A me rendre l'espoir que vous m'avez osté.  
 
-    CECILIE *l'arrestant.*
+    CECILIE *l'arrestant.*.
 Où courrez-vous, Seigneur ? Helas qu'allez-vous faire ?  
 
     MARIUS.
@@ -1370,7 +1370,7 @@ Jugez mieux aujourd'huy du defenseur de Rome :
 C'est contre l'étranger qu'il vous sert maintenant  
 Dans ses murs où Sylla l'a fait son Lieutenant [78].  
 
-    CECILIE. *bas.*
+    CECILIE. *bas.*.
 Quoy Pompée est dans Rome ! Ah la joye est extréme,  
 Sabine, de pouvoir excuser ce qu'on aime.  
 
@@ -1530,7 +1530,7 @@ Il me fait partager sa *⁎*fortune avec luy,
 Que comme sa grandeur ma gloire est sans seconde,  
 Et qu'il jouysse en paix de l'Empire du monde.  
 
-    CECILIE. *bas.*
+    CECILIE. *bas.*.
 Quoy jusques-là mon pere abbaisse sa fierté,  
 Sabine ?  
 
@@ -1809,7 +1809,7 @@ Sous vos ordres, Seigneur, je vay tout preparer.
 SYLLA. CECILIE. PISON.
 
 
-    SYLLA. *bas.*
+    SYLLA. *bas.*.
 Comprens-tu bien l'effort que je viens de me faire,  
 *⁎*Fortune, en contraignant ma haine et ma colere :  
 Je ne puis oublier ce que tu fis pour moy,  
@@ -2071,7 +2071,7 @@ Il vient.
 SYLLA. POMPEE. PISON. SUITE.
 
 
-    SYLLA *continuë.*
+    SYLLA *continuë.*.
         Peut on jamais, Seigneur, d'assez de gloire,  
 D'un triomphe assez beau payer vostre victoire ?  
 Digne Heros issu du plus beau sang Romain ?  
@@ -2113,7 +2113,7 @@ Et sçachant ce que souffre un cœur à se contraindre,
 Le mien pouvoit du vostre attendre justement  
 Plus de compassion que de ressentiment.  
 
-    POMPEE
+    POMPEE.
 Comme je ne voy rien qui vous puisse contraindre,  
 Je ne voy rien aussi qui m'oblige à vous plaindre.  
 Rome estoit en peril, je l'advoüeray, Seigneur,  
@@ -2480,7 +2480,7 @@ Quand la raison d'Estat les condamne tous deux [106].
 Répondez à l'honneur de cette confidence,  
 Et songez qu'il y va de toute ma puissance.  
 
-    CECILIE. *en s'en allant.*
+    CECILIE. *en s'en allant.*.
 O ! Dieux qui d'un tel sang avez formé le mien,  
 Que ne me donnez-vous un cœur comme le sien   
 
@@ -2649,7 +2649,7 @@ Adieu.
 
 ### SCENE VI.
 
-    SYLLA *seul à PISON.*
+    SYLLA *seul à PISON.*.
         Voy maintenant le secret de ma haine.  
 Pour perdre Marius et sans honte et sans peine,  
 Le choix de Cecilie est un moyen certain :  
@@ -3099,7 +3099,7 @@ SYLLA. POMPEE. CECILIE. PISON. MARCELLE.
     PISON.
 Seigneur....  
 
-     SYLLA.
+    SYLLA.
     Qu'est-ce Pison ?  
 
     PISON.
@@ -3284,12 +3284,12 @@ A. SOUBRON, Syndic.
 Achevé d'imprimer pour la premiere fois le 28.Mars 1669.
 
 
-# Lexique
+# Lexique.
 
 Les citations sont issues du Dictionnaire de FURETIÈRE. Nous avons seulement relevé ici les sens spécifiques au XVII*e* siècle. Les références aux vers sont notées entre parenthèses.AmantQui aime d'une passion violente, sans connotation sexuelle.Apas : (appas)Appâts : ce qui attire, engage à faire quelque chose, piège.V. 361, 1534.Appas : charmes de quelqu'un.V. 197, 345, 577, 653, 1127, 1499, 1568, 1591.Bonheur/heurHeur venu de l'ancien français est encore fréquent.« Honneurs. »V. 63, 906.Hasard positif, chance.V. 1, 279, 393, 459, 870.Courroux« Mouvement impétueux de colère » , le sens de ce terme est plus fort que maintenant.Cruelle« Les amants disent que leur maîtresse est cruelle quand elle ne satisfait pas à tous leurs désirs ».V. 249, 258, 598.EstonnérÉpouvanter, effrayer.FierCruel, barbare, tyran.V. 515, 1727, 1752.FeuArdeur amoureuse.Flâme: (flamme)Ardeur amoureuse.Fortune« Providence divine qui agit par des voies inconnues » (divinité antique).V. 776.Par extension, ce qui arrive par hasard, chance, succès.Dédicace 1, v. 89, 562, 767, 877, 960.Destinée, vie.V. 897, 944, 1548.« Gens puissants et en crédit ».Dédicace 2.FurieFureur.GénéreuxPour une personne, qui a l'âme noble ou magnanime.V. 522, 688, 837, 932, 1087, 1492.HasardsPérils, dangers.HasterPresser (sens transitif).MaisonFamille (noble).Maistresse« Jeune fille qu'on recherche en mariage » (pas plus de connotation sexuelle que pour « amant » ).ParentsTous les membres qui sont de la même famille.Parti« Troupe de gens de guerre qu'on commande pour quelque expédition » .V. 64.Résolution prise après délibérations.V. 1682.
 
 
-# Appendice
+# Appendice.
 
 Lettre à Madame du 2 février 1669 (vers 54-109)
 
@@ -3353,13 +3353,13 @@ Ils ayent ce que le plus je prise :
 Le doux plaisir de la Surprise.  
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Œuvres de référence antérieures à 1800
+## Œuvres de référence antérieures à 1800.
 
 
-### ŒuvresOropaste ou le faux Tonaxare
+### Œuvres.Oropaste ou le faux Tonaxare
 Le Comte d'Essex
 Artaxerce*º.*
 La mort de Pompée
@@ -3379,7 +3379,7 @@ L'Astrée
 
 
 
-### Ouvrages de poétiqueLa Poétique
+### Ouvrages de poétique.La Poétique
 La pratique du théâtre
 Discours du poème dramatique
 Dictionnaire universel
@@ -3387,7 +3387,7 @@ Réflexions sur la poétique de ce temps et sur les ouvrages des poètes anciens
 
 
 
-### Le contexte littéraireListe de quelques gens de lettres français vivants en 1662Opuscules critiques
+### Le contexte littéraire.Liste de quelques gens de lettres français vivants en 1662Opuscules critiques
 Histoire de l'Académie françoise (1652-1700)
 Factums pour Messire Antoine Furetière, abbé de Chalivoy, contre quelques-uns des Messieurs de l'Académie FrançoiseRecueil des Factums d'Antoine Furetière
 Les Couches de l'Académie, poeme allegorique et burlesque par Furetièreop. cit.
@@ -3398,7 +3398,7 @@ Le dictionnaire des Précieuses, historique, poétique, géographique, cosmograp
 
 
 
-## SourcesLes Guerres civiles à Rome
+## Sources.Les Guerres civiles à Rome
 Sylla
 Histoires
 Les Vies des hommes illustres
@@ -3408,10 +3408,10 @@ Histoire romaine
 
 
 
-## Études sur le théâtre et le contexte littéraire du XVII*e* siècle
+## Études sur le théâtre et le contexte littéraire du XVII*e* siècle.
 
 
-### OuvragesThe Works of Claude Boyer
+### Ouvrages.The Works of Claude Boyer
 Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 La Tragédie de l'âge classique (1553-1770)
 Introduction à l'analyse des textes classiques
@@ -3427,7 +3427,7 @@ La Tragédie classique
 
 
 
-### ArticlesCahiers Raciniens
+### Articles.Cahiers Raciniens
 AstréeRevue d'histoire littéraire de la France
 Littératures classiques
 Littératures classiques

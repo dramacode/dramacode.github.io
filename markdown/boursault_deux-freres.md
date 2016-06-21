@@ -16,17 +16,17 @@ A PARIS, Chez THOMAS JOLLY, au Palais, dans la petite Salle des Merciers, à la 
 Édition critique établie par Vanessa Viola sous la direction de Georges Forestier (2003-2004)
 
 
-# Introduction
+# Introduction.
 
 Edme Boursault occupe une place importante au sein de la période classique. À la fois dramaturge, romancier, épistolier, journaliste ou encore poète, il permet une vue d'ensemble sur le XVII*e* siècle. Adversaire de Molière, de Boileau et de Racine, Boursault prend part dans les querelles littéraires importantes de son époque. Sa vie, comme nous le verrons, est sinueuse car chaque sourire de la fortune est suivi d'un revers.
 
 La pièce qui nous intéresse clôt la première période des œuvres comiques de la vie du dramaturge. *Les Deux frères gémeaux ou les menteurs qui ne mentent point* s'inspirent du théâtre antique de Plaute et exploitent la ressemblance entre deux frères jumeaux et les confusions que cette situation entraîne. La comédie s'articule autour d'un jeu d'hésitation sur l'identité des différents personnages. Initialement conçue en cinq actes, Boursault réduit la pièce à trois actes en effectuant quelques modifications, elle s'intitule désormais *Les Nicandres ou les menteurs qui ne mentent point*. Un véritable mystère entoure les circonstances du remaniement de cette pièce, on ne connaît pas la date précise de ces changements et les conditions de la représentation restent obscures.
 
 
-# Esquisse bio-bibliographique
+# Esquisse bio-bibliographique.
 
 
-## Sa vie
+## Sa vie.
 
 Edme Boursault naît au début du mois d'octobre 1638 à Mussy-l'Evêque, dans une des premières familles de la région de Champagne. Son père, un ancien militaire [1], néglige son instruction ; enfant, Boursault n'étudie pas le latin, ni le grec, ni même le français. Envoyé à Paris en 1651 par Sébastien Zamet, l'Evêque de Langres, il est désormais protégé par Pellisson et apprend rapidement la langue française, la poétique et la versification en devenant le disciple de Des Barreaux :
 
@@ -50,10 +50,10 @@ Il y a deux époques bien marquées dans sa vie. La première nous le montre tr�
 Deux ans plus tard, il met en action des fables antiques dans sa nouvelle comédie, *Esope à la ville*, qui remporte un grand succès auprès du public parisien et qui sera traduite dans plusieurs langues étrangères. Ce triomphe l'incite à écrire la suite des aventures d'Esope, *Esope à la Cour* qui sera représenté après sa mort. On retrouve dans ses œuvres une progression à la fois poétique et morale car Boursault a débuté par un style d'écolier naïf pour aboutir aux leçons de sagesse qu'il délivre dans ses deux *Esope.* À la fin de sa vie, il reconnaît la grandeur de Molière en lui rendant hommage dans une épigramme posthume. Il meurt à Paris le 15 septembre 1701 d'une maladie subite et est enterré au cimetière des Théatins, ordre auquel son fils aîné, Chrysostome, appartenait.
 
 
-## Ses œuvres
+## Ses œuvres.
 
 
-### Boursault dramaturge
+### Boursault dramaturge.
 
 Les œuvres théâtrales de Boursault ne sont pas particulièrement nombreuses par rapport aux dramaturges contemporains, seulement seize pièces, des farces, des comédies pastorales, héroïques, d'intrigues ou de mœurs mais aussi des tragédies. La grande diversité de son œuvre constitue un témoignage particulièrement intéressant sur les mœurs du XVII*e* siècle. Les premières pièces de Boursault sont des comédies souvent oubliées par la postérité et considérées comme des essais. Ainsi, *Le Médecin volant* (1661), *Le Mort vivant* (1662) et *Les Cadenas ou Le Jaloux prisonnier* (1663) sont « des études de style, du style comique du temps. L'invention est confuse, la langue est un peu vulgaire ; çà et là cependant l'entrain, la bonne humeur, une certaine franchise de dialogue, annoncent des qualités aimables et un esprit bien doué [10] ». *Le Portrait du peintre ou la contre-critique de l'Ecole des femmes* a été rédigé en réponse à Molière, cette satire met en scène des personnages qui discutent sur la représentation de *L'Ecole des femmes*. Boursault reproche principalement à Molière le réalisme de certaines scènes et le mélange du tragique et du bouffon. Cette pièce sera un véritable échec. En 1665, *Les Deux frères gémeaux ou les menteurs qui ne mentent point* représentent la dernière pièce de ses œuvres de jeunesse, nous en parlerons plus longuement par la suite.
 
@@ -75,17 +75,17 @@ Faut-il aussi faire cesser la Comédie qui sert aux hommes d'un honnête diverti
 Cette préface a été beaucoup critiquée car elle remet en question la position de l'Église à cette période qui condamnait vigoureusement cette forme de divertissement.
 
 
-### Boursault journaliste et romancier
+### Boursault journaliste et romancier.
 
 Ses gazettes étaient très appréciées au XVII*e* siècle mais à ce jour elles ne sont toujours pas publiées. Boursault touche à l'ensemble de l'actualité, fait exceptionnel pour l'époque. Dans les années 1665-1667, il tente de succéder à Loret et rédige quelques vers burlesques sans grand succès. Ce n'est qu'après son loyal service envers la Duchesse d'Angoulême et après sa courte nomination en tant que gazetier de la Cour qu'il tente d'écrire, en 1691, *La Muse enjouée*. Ses chroniques sont à la fois politiques et littéraires, elles relatent les évènements des salons, de la vie royale et du quotidien de Paris. On peut alors considérer Boursault comme un des premiers journalistes, ses gazettes étant antérieures au *Mercure Galant*. Elles sont complétées par ses lettres qui retracent également les nouvelles de Paris et de Versailles. Rédigées entièrement en prose ou mêlées de vers, elles constituent un véritable témoignage de son époque. Louis-Marie-Armand de Simiane de Gordes, Duc-Evêque de Langres, avait chargé Boursault de lui adresser les anecdotes parisiennes afin d'égayer son diocèse. À la même époque, Boursault entretenait un commerce épistolaire avec Anne de Bavière, le Maréchal de Noailles ou encore le Prince de Condé. Rassemblées en trois volumes, elles ont été réimprimées plusieurs fois.
 
 En 1666, le dramaturge s'exerce à l'art du roman épistolaire avec les *Treize lettres d'une dame à un cavalier* et, en 1669, les *Lettres à Babet* reçoivent un très bon accueil de la part de ses contemporains. Elles sont encore appréciées de nos jours. Puis, durant les années 1667 et 1672, Boursault se tourne vers la poésie avec *L'Ode au Roy, A la Reyne* et le sonnet *Aux Hollandois* mais préfère privilégier les romans. Ainsi, *La Véritable étude des souverains, dédiée à Msg le Dauphin* est un essai sur l'éducation d'un futur Roi selon les modèles gréco-romains et moyenâgeux. Il rédige par la suite deux romans passionnés sur un fond de décor historique : *Artémise et Poliante* (1670) et *Le Marquis de Chavigny*. La préface du premier est un compte-rendu critique de la première représentation de *Britannicus*, il lui apporte un nouvel adversaire, Racine, qui ne donne pas suite à ces attaques. En 1675, son roman *Le Prince de Condé* lui procure une renommée européenne. En deux tomes et teinté de notes espagnoles, *Ne pas croire ce qu'on voit* est le dernier roman de Boursault que l'on a souvent attribué à tord à Scarron.
 
 
-# La pièce
+# La pièce.
 
 
-## Création et représentation
+## Création et représentation.
 
 Souvent dénigrée, cette pièce constitue une réelle prouesse pour quelqu'un qui n'avait pas suivi d'études classiques durant sa jeunesse. Le lexique est très recherché et l'auteur tente de créer son propre style. La pièce est construite sur le principe du dédoublement de l'identité des personnages. S'inspirant de Plaute, Boursault articule son intrigue autour du thème de la ressemblance. Sa version est totalement différente des *Ménechmes*, mais le point de départ reste le même. Deux frères jumeaux séparés depuis longtemps se retrouvent dans la même ville et sont successivement pris l'un pour l'autre. On ne peut pas considérer la pièce de Plaute comme la véritable source des *Menteurs qui ne mentent point* car les ressemblances entre les deux pièces sont infimes.
 
@@ -104,10 +104,10 @@ Maupoint place approximativement la représentation de la pièce dans le cours d
 Les éditions en cinq actes ne peuvent être postérieures à la version en trois actes mais obligatoirement antérieures. Lancaster commet la même erreur dans *A History of French Dramatic Literature in the Seventeenth Century* [18], en pensant que Boursault aurait augmenté la pièce pour qu'elle soit en cinq actes alors qu'elle a été réduite. On note sept représentations supplémentaires des *Nicandres* au théâtre du Palais-Royal entre le mois de septembre et le mois de décembre 1683. Elle est jouée deux fois l'année suivante dont une à Chambord où elle accompagne *Iphigénie*, et les deux dernières représentations qu'on peut relever se déroulent en 1685.
 
 
-## Résumé de l'action
+## Résumé de l'action.
 
 
-### Acte I
+### Acte I.
 
 La pièce s'ouvre sur les hésitations d'une jeune fille, Hipolite qui n'ose pas avouer son amour à celui qu'elle aime. Troublée, alors qu'elle tente de révéler timidement ses sentiments à Nicandre, sa suivante Jacinte, plus courageuse, le fait à sa place. En retour Nicandre lui déclare sa flamme, mais il a un frère jumeau et ne peut se marier sans l'accord de celui-ci. Il part donc immédiatement à sa recherche. Une jeune femme déguisée en homme arrive alors sur scène et explique sa colère à Hipolite et à Jacinte ; elle aussi aime Nicandre, il a promis de l'épouser deux mois auparavant à Lyon. Hipolite, influencée par Jacinte, commence à douter de celui qu'elle aime sans se rendre compte que l'homme dont parle Ismène est en réalité le frère jumeau de Nicandre et porte le même prénom.
 
@@ -116,7 +116,7 @@ Le second Nicandre, amant d'Ismène, vient d'arriver à Paris et est à la reche
 L'acte se clôt sur une dernière confusion : le second Nicandre rencontre Ragotin, le valet de son frère qui le prend pour son maître. La première erreur a ainsi entraîné une série d'erreurs secondes et c'est la ressemblance entre les deux frères jumeaux qui permet cette suite de quiproquos comiques.
 
 
-### Acte II
+### Acte II.
 
 Ismène calomnie le premier Nicandre qui ne la reconnaît évidemment pas, furieuse, elle lui remémore les moments passés mais il lui affirme ne l'avoir jamais aimée. Il rencontre alors Jacinte et réussit à la convaincre d'organiser une entrevue avec Hipolite afin de lui redire qu'il l'aime, ils se donnent rendez-vous dans une heure. Mais ce sera le second Nicandre qui viendra avec son valet Robin. Les quatre personnages se disputent car chacun d'entre eux parle d'un passé différent :
  * – Jacinte pense que Nicandre est un menteur car il prétend aimer Ismène ;
@@ -127,14 +127,14 @@ Ismène calomnie le premier Nicandre qui ne la reconnaît évidemment pas, furie
 Jacinte achève la discussion en donnant un soufflet à Robin, et les personnages se séparent sur ce malentendu. Isidore, encouragé par sa fille Hipolite, décide de venger l'affront que Nicandre a commis.
 
 
-### Acte III
+### Acte III.
 
 Ismène veut emprisonner Nicandre pour se venger de l'inconstance et de la fourberie qu'il a eues envers elle. Pour cela, elle a demandé à Ragotin, qui est devenu son valet, de porter à Nicandre une lettre le provoquant en duel dans un endroit où des archers l'attendraient. Ragotin va donner la lettre au premier Nicandre au lieu du second qui attend patiemment Jacinte et Hipolite, ne sachant pas que l'entretien a déjà eu lieu.
 
 Le père d'Ismène, Eutrope surgit tout à coup et, aidé d'Isidore, ils se saisissent tous les deux du premier Nicandre qui réussit à s'enfuir et se réfugie chez Hipolite. Sans le vouloir, Robin fait tomber les deux hommes et, le second Nicandre apercevant de loin la scène, va se cacher lui aussi chez Hipolite. Finalement seul Robin est emprisonné en tant que complice de Nicandre.
 
 
-### Acte IV
+### Acte IV.
 
 Le premier Nicandre rassure Hipolite en lui certifiant son amour, puis se rend au rendez-vous fixé par la lettre d'Ismène. En chemin, il rencontre Robin qui s'est échappé de prison et lui affirme que tout est arrangé.
 
@@ -143,12 +143,12 @@ Pendant que Robin tente de séduire Jacinte, le second Nicandre ressort de la ma
 L'acte s'achève sur la rivalité des deux jeunes femmes, Hipolite et Ismène, qui ont fait emprisonner les deux Nicandres. Cette rivalité fait écho à celle de leurs pères qui veulent chacun un mariage pour rétablir l'honneur de leurs filles.
 
 
-### Acte V
+### Acte V.
 
 Les confusions entre les deux jumeaux se poursuivent en prison où chacune des fiancées vient voir celui qu'elle aime et tombe sur son frère. La dernière scène fait apparaître les deux Nicandres face à face et résout tous les quiproquos, le premier Nicandre épousera Hipolite, le second, Ismène ; et Robin et Jacinte se marieront également.
 
 
-## L'intrigue
+## L'intrigue.
 
 La pièce qui nous intéresse est régulière dans son ensemble, elle suit le principe préétabli des comédies classiques, à savoir le schéma union, désunion et réunion des amants. Cette comédie est structurée par rapport à son dénouement qui se présente sous la forme de mariages. Elle débute sur le ton de la narration avec les confidences d'Hipolite, ce procédé qui nous donne l'impression de surprendre une conversation est fréquent à l'époque classique. Il permet d'exposer facilement les premiers éléments de l'intrigue et de mobiliser l'attention des spectateurs particulièrement turbulents à cette période. Conformément aux règles du XVII*e* siècle, l'exposition est claire et ordonnée, elle s'étend sur le premier acte et contient toutes les informations nécessaires à la compréhension de la pièce.
 
@@ -161,7 +161,7 @@ Dans les deux cas les confusions deviennent comiques et constituent le véritabl
 Le dénouement est rapide, en une scène les deux frères paraissent l'un à côté de l'autre et résolvent ainsi tous les quiproquos précédents. On peut se demander si lors de la représentation ce n'était pas un seul acteur qui jouait successivement les deux rôles tandis qu'au dénouement un figurant habillé et coiffé de la même façon venait déclamer les dernières répliques. Nous n'avons trouvé aucune information relatant les procédés précis de la représentation. La dernière scène s'inscrit comme le résultat logique de toutes les méprises dues au hasard. Cet achèvement est traditionnel car tous les personnages importants sont réunis sur scène et de plus, à l'instar de la majorité des comédies, la pièce se termine dans le bonheur avec un triple mariage.
 
 
-## Unités et conventions classiques
+## Unités et conventions classiques.
 
 Au niveau de la règle des trois unités, Boursault respecte l'unité de temps, on peut supposer que la pièce se déroule en moins de vingt-quatre heures car il n'est jamais question du lever ni du coucher du soleil et les rendez-vous que se fixent les personnages ne sont jamais espacés de plus d'une heure. En une seule journée les actions ne peuvent pas se multiplier mais on relève pourtant près d'une vingtaine de méprises. Boursault respecte l'exigence de vraisemblance requise à l'époque si l'on suit le système d'unification de l'action expliqué par Jacques Scherer dans son ouvrage [20]. Par contre il rompt avec ce même principe de vraisemblance en violant l'unité de lieu car les quatre premiers actes se déroulent sur une place parisienne, devant la maison d'Hipolite et le dernier se passe dans la cour d'une prison. Le public du XVII*e* siècle aime reconnaître sur scène des endroits qu'il a l'habitude de voir tous les jours, ainsi l'action a lieu dans les rues de Paris. Le Cartel envoie Nicandre au Cours la Reine, promenade à la mode au XVII*e* siècle, Ismène habite rue aux Ours, où il y a une enseigne représentant un dauphin, et Ragotin va chercher un nouveau maître devant les marches du Palais de Justice. Nous pouvons d'ailleurs relever une incohérence lorsque le dramaturge précise au bas de la liste des personnages que « la scène est en prison » alors que les quatre premiers actes ont lieu sur une place publique. Dans *Le Mémoire des décorateurs de l'Hôtel de Bourgogne*, une note précise qu'il faut « une prison où il y ait une fenestre ; un billet, une boitte, des jettons, des lestres, un trousseau de clefs [21] » pour le dernier acte mais ne parle pas du carrefour où se rencontrent les personnages. Nous pouvons imaginer qu'il n'y avait qu'un seul décor tout au long de la pièce.
 
@@ -193,17 +193,17 @@ Peut-etre est-elle grosse, et je sçay le moyen [24]…
 Les aspects farcesques de la pièce peuvent également choquer le lecteur-spectateur du XVII*e* siècle car les domestiques n'hésitent pas à rendre un mot équivoque en jouant sur son double sens et à faire ainsi des allusions obscènes.
 
 
-## Les personnages
+## Les personnages.
 
 Nous étudierons les personnages suivant l'ordre dans lequel ils sont présentés dans la liste des acteurs, cet ordre reflète la société du XVII*e* siècle. Dans la majorité des pièces de théâtre de l'époque, la classification des personnages est rigoureuse et est établie selon une pyramide sociale hiérarchisée : l'autorité en premier, puis les héros et leurs valets, et enfin les autres acteurs moins importants. Boursault respecte cette tradition et crée des personnages très différents les uns des autres. La diversité est réalisée à la fois dans la psychologie mais également dans la parlure de chacun d'entre eux. Il s'agit de « faire parler chacun (des) personnages non seulement en fonction d'une situation donnée, mais encore en fonction de sa condition, de sa classe sociale et de son caractère [25] ». Il serait intéressant d'analyser ces personnages selon les mots qu'ils emploient et selon la façon dont ils les utilisent. Trois types distincts peuvent être remarqués dans la pièce, à savoir les vieillards instruits et réfléchis, les personnages nobles qui sont caractérisés par leur élégance et enfin les domestiques qu'on reconnaît immédiatement grâce aux tournures populaires qu'ils utilisent. Chacun de ces groupes possède un vocabulaire précis qui lui correspond, Boursault a mis en scène des couples qui représentent des types de personnes bien précis, on parlera de sociolecte car chaque groupe d'individus a des spécificités langagières qui lui sont propres.
 
 
-### Isidore et Eutrope
+### Isidore et Eutrope.
 
 Placés en tête de la liste des acteurs, les deux vieillards représentent l'autorité, mais une autorité tolérante qui ne cherche pas à empêcher les choix de leurs filles. Bien au contraire, ils les soutiennent et veulent rétablir l'honneur qu'elles ont perdu. Isidore est présenté dans la liste des personnages comme un homme savant, il se caractérise principalement par son idiolecte. Lui seul utilise la langue de cette façon et devient rapidement un ornement littéraire qui a pour seul but de faire rire. Stéréotype issu du théâtre antique de Plaute et des comédies érudites italiennes du XVI*e* siècle, il représente un type figé de personnage, celui du pédant comique. Il se présente lui-même comme un philosophe, usant de procédés rhétoriques, interpellant les « Dieux des Savants » et apostrophant les personnages de la mythologie romaine. De plus, son discours est ponctué de nombreux archaïsmes (v. 785 : vitupère, v. 897 : se mucer, v. 1239 : mes-huy…), et il n'hésite pas à utiliser le latin (v. 892 : *in manibus vestris*, v. 900 : *in domum* et v. 1580 : *Ex abundantia cordis os loquitur*). Il y a un grand écart entre Isidore et les autres acteurs de la pièce et c'est ce décalage qui crée des effets comiques et rend le pédant ridicule. Présent sur scène comme le père d'Hipolite, ses réflexions philosophiques sur les malheurs de sa fille s'opposent à la platitude d'Eutrope, le père d'Ismène. Le vocabulaire de ce dernier n'a rien d'exceptionnel mais reste tout de même plus recherché que celui des autres personnages de la pièce, il nous donne l'impression d'être présent en partie par opposition à Isidore dans le but de donner davantage de force à ce personnage.
 
 
-### Hipolite
+### Hipolite.
 
 Hipolite et sa suivante occupent une place importante dans l'intrigue, ce sont elles qui débutent la pièce. On découvre rapidement qu'Hipolite est timide. Elle est troublée face à celui qu'elle aime et elle n'arrive même pas à lui avouer ses sentiments. Ce sera Jacinte, sa suivante, qui le fera à sa place et la sortira de l'embarras. Le caractère effacé d'Hipolite est destiné à donner plus d'importance à Jacinte qui obtient ainsi le premier rôle. De plus, Hipolite s'oppose à sa rivale Ismène par sa passivité, elle n'a qu'une seule peur, celle d'être outragée par celui qu'elle aime. L'aveu qu'elle a fait au premier Nicandre au début de la pièce lui a demandé beaucoup d'effort :
 
@@ -225,12 +225,12 @@ Il m'échape à regret, mais il est véritable [28].
 Elle ne comprend pas pourquoi il l'expose « à ce honteux mépris [29] » et, vexée, elle répète plusieurs fois qu'on la croit « abusée » au début de l'acte IV. Hipolite est blessée dans son amour-propre mais s'efforce de garder du courage durant toute la pièce.
 
 
-### Ismène
+### Ismène.
 
 Plus fougueuse que sa rivale, elle n'a pas de suivante et parvient à se débrouiller seule. Loin de chez elle, déguisée en homme, elle réussit à retrouver Nicandre. On peut imaginer qu'elle représente l'image future d'Hipolite si Nicandre l'abandonne. Abusée, elle tente de connaître par tous les moyens les raisons de l'attitude de son amant et cherche à se venger pour rétablir son honneur. Ce personnage acquiert une valeur guerrière en triomphant des obstacles et grâce à la reconquête finale de son amant. Son courage est récompensé au dénouement.
 
 
-### Les deux frères jumeaux
+### Les deux frères jumeaux.
 
 Jeunes premiers de bonne naissance, ils portent le même nom et se ressemblent en tous points. Sincères, ils respectent le code de l'honneur et de l'amitié. Cette obéissance est compréhensible au XVII*e* siècle car ces valeurs occupent une place importante dans la société. Les Nicandres ne cherchent pas à tromper quelqu'un mais sont pris malgré eux dans de fausses situations. Il s'agit de « dire le vrai en disant le vrai qui paraît faux [30] ». Cette situation fait naître le désarroi dans le cœur des deux personnages qui mènent désormais un combat intérieur :
 
@@ -241,12 +241,12 @@ A mon cruel serment tous mes sens occupez [31]…
 Les héros sont placés devant un dilemme et luttent pour rester fidèles à leur parole. Il est très difficile de différencier les Nicandres l'un de l'autre, ils sont tous les deux amoureux et aveuglés par le serment qu'ils se sont fait. Mais le premier Nicandre s'inquiète de ne pas pouvoir épouser Hipolite et son frère se préoccupe davantage de la justice car il a peur d'être emprisonné à cause d'Ismène. Il se cache et cherche un refuge chez son ami Clidimace chaque fois qu'il n'est pas sur scène.
 
 
-### Jacinte
+### Jacinte.
 
 Suivante d'Hipolite, sa première fonction est d'exposer le sujet, elle guide sa maîtresse et l'induit en erreur dès le début de la pièce. C'est elle qui avoue les sentiments d'Hipolite à sa place – « A quoy tant de façons ? Ma maitresse vous ayme [32] » –, lui évitant ainsi d'enfreindre le principe de bienséance. Elle ne laisse pas le premier Nicandre se justifier auprès d'Hipolite sur son passé et sa promesse. Suspicieuse à l'égard de ce que ressent ce dernier, elle parvient à faire douter Hipolite. Son audace et sa hardiesse trompent le second Nicandre qui ne sait plus laquelle des deux jeunes femmes est au service de l'autre : « Dites-moy qui des deux est suivante ou maistresse [33] ? » Ainsi, Jacinte est à la fois conseillère, intermédiaire et dame de compagnie, mais peut être aussi railleuse et effrontée. On lui découvre un penchant vers la grossièreté au fil du texte.
 
 
-### Robin
+### Robin.
 
 Boursault a choisi de le placer avant Ragotin dans la liste des personnages alors que dans l'ordre logique il aurait dû être placé après. Ce choix ne peut être anodin. Robin est le valet du second Nicandre mais est davantage présent sur scène que le valet de son frère (181 répliques contre seulement 64 pour Ragotin). Il acquiert une importance croissante au fil des actes et finit par se marier avec Jacinte. Boursault accentue la différence entre les domestiques et les maîtres par le biais du lexique qu'il utilise. L'élégance dans les scènes entre les maîtres s'oppose à la familiarité et aux insultes des valets et de Jacinte. Cet écart apporte une véritable note comique au sein de la pièce. Robin emploie les mots « bigotte », « gaillarde », « donzelle », « peste de cagne », « cauteleuse pucelle », « tendron », « pauvre fille », « peste de Chienne », « friponne », « femelle insecourable », « sale beste », « fille mauvaise », ou encore « ma petite » pour parler des femmes et en particulier de Jacinte. Sur un ton burlesque, il n'hésite pas à proférer des imprécations envers celle qui lui plaît et à rompre plusieurs fois avec l'exigence de bienséance requise à l'époque. Ainsi il est « prest de (…) depuceler » Jacinte au dernier acte et conseille aux amoureux d'« aller dans une Chambre y conter (leur) vie ». Au début de la pièce, il parodie le discours amoureux de son maître et le discrédite totalement. Sa vision du mariage est particulièrement comique et s'oppose à celle de Nicandre :
 
@@ -257,15 +257,15 @@ Pour un soufflet receu je t'en donneray trois [34].
 Son caractère malicieux lui permet de s'échapper de prison. Sa fidélité demeure le trait de caractère qui le différencie le plus de Ragotin.
 
 
-### Ragotin
+### Ragotin.
 
 Type de personnage issu du *Roman Comique* de Scarron, il est récurrent dans les pièces classiques et a souvent des rôles de valet burlesque comme dans cette pièce. Son nom est le diminutif de « ragot » qui vient de « ragotter », synonyme de « quereller » à l'époque. Il garde cet aspect turbulent dans son caractère, à la fois effronté et familier avec son maître. D'ailleurs Ragotin n'hésite pas à trahir le premier Nicandre en devenant le valet d'Ismène. Il adopte une attitude plus sévère et plus fourbe que Robin, il décide immédiatement de se venger en changeant de maître : « Allons chercher fortune aux degrez du Palais [35] ». Sa première réplique annonce le ton qu'il adoptera au cours de la pièce ; bas et populaire, son vocabulaire le place d'emblée dans la catégorie des domestiques. On découvre des effets de symétrie au fil du texte, la scène 10 du premier acte fait écho à la scène 6 du second. Dans les deux cas, des confusions sur l'identité de Nicandre ont lieu, les valets croient parler à leurs maîtres alors qu'ils s'adressent aux frères de ces derniers. Les deux scènes finissent de façon parallèle par l'exaspération des deux Nicandres et par les imprécations de leurs valets.
 
 
-## Les thèmes
+## Les thèmes.
 
 
-### L'honneur et le mensonge
+### L'honneur et le mensonge.
 
 La pièce s'articule paradoxalement autour de ces deux notions antithétiques. Elle est construite sur une série de faux mensonges, tous les personnages pensent que les Nicandres trompent les autres alors qu'ils restent fidèles à leurs principes. Les quiproquos sont tous involontaires et chaque personnage est mystifié à son tour. Il y a d'un côté les notions de respect, d'honneur et d'amitié, et de l'autre celles de tromperie, de mensonge et d'artifice. L'honneur est en effet une valeur importante dans la société du XVII*e* siècle. Dans la pièce, aucun des deux Nicandres ne pense à rompre le serment fait avec son frère. Or, dans *Les Ménechmes* de Plaute, les jumeaux n'hésitent pas à profiter de la situation en s'amusant à corrompre l'honneur des femmes. Boursault s'écarte de cette conception antique et construit ses personnages autour de la sincérité pour se rapprocher de l'esthétique de son siècle.
 
@@ -278,7 +278,7 @@ Dans le Cours de la Reyne il sera le premier [36].
 Elle parvient à piéger Nicandre grâce à son sens de l'honneur et à son courage, mais pourtant elle pense qu'il lui ment. Cette situation est paradoxale car Ismène se venge du déshonneur qu'elle a subi en utilisant l'honneur de son amant ; elle sait donc que Nicandre correspond à l'idéal de l'honnête homme du XVII*e* siècle et retourne cette qualité contre lui-même. L'isotopie de la fourbe est filée tout au long du texte par les adjectifs « artificieux, embaleur, forfaicteur, fourbe, inconstant, infidelle, insolent, lasche, matois, perfide, suborneur, traistre, volage » et les substantifs ainsi que les verbes qui incluent l'acception de mensonge et de tromperie dans leur sens. De plus, la thématique du refus s'étend à l'ensemble de la pièce.
 
 
-### Déguisements et fausses apparences
+### Déguisements et fausses apparences.
 
 L'art de se déguiser est courant dans les pièces classiques, le XVII*e* siècle marque l'apogée de ce phénomène. Boursault fait appel à deux formes distinctes de déguisements, l'une consciente et l'autre inconsciente. Le travestissement d'Ismène est parfaitement voulu et est donc conscient. Son but est de reconquérir l'homme qu'elle aime et qui l'a trahi. Ce changement de sexe est très fréquent au XVII*e* siècle et s'accompagne d'une modification de l'apparence physique du personnage (voix et maintien). La transformation d'une femme en homme par amour et pour récupérer un amant volage ne produit pas d'effets comiques mais demeure le déguisement le plus utilisé dans les comédies de cette période. De plus, il est nécessaire qu'Ismène soit déguisée en homme car elle a traversé la France à cheval, elle arrive de Lyon, et il serait invraisemblable qu'une femme voyage seule pour effectuer un aussi long trajet. C'est donc pour des raisons de sécurité que son travestissement devient évident. Elle se présente tout au long de la pièce sous une apparence masculine pour des raisons pratiques, elle peut ainsi se promener à sa guise dans Paris et même avoir un valet à son service, mais pourtant elle se dévoile dès le départ devant Hipolite et sa suivante :
 
@@ -299,7 +299,7 @@ Dans ce passage Ismène justifie son déguisement et avoue ainsi son désespoir 
 Boursault a choisi de conserver une partie du titre de sa pièce quand il l'a réduite, on peut penser qu'il était ainsi plus facile de la reconnaître pour les lecteurs contemporains. Mais il n'est pas anodin que le dramaturge ait maintenu le titre oxymorique des *Menteurs qui ne mentent point*. Ce choix d'un titre paradoxal est courant au XVII*e* siècle et sert à exciter la curiosité du public. Dans ces pièces, la leçon est toujours la même, les apparences sont trompeuses et il ne faut jamais croire ce qui paraît être vrai. Le jugement des personnages est obligatoirement faux et les héros mentent en apparence mais disent la vérité en réalité. Une dialectique sur le réel et l'illusion est filée tout au long des scènes pour aboutir au dénouement qui est la clé des contradictions.
 
 
-## Le rythme
+## Le rythme.
 
 La pièce comprend davantage de scènes que la moyenne à l'époque classique, cinquante-sept au total. Un même personnage ne reste pas très longtemps sur scène, il laisse rapidement la place à un autre pour donner plus de vivacité. La pièce gagne en rapidité et en mouvements. De plus, les équivoques ponctuent le discours des personnages mais elles le rendent plus complexe, le lecteur-spectateur est rapidement perdu dans cet enchaînement de confusions. Boursault respecte consciencieusement les règles classiques en soignant les liaisons, l'enchaînement des scènes et les intervalles entre les actes.
 
@@ -325,7 +325,7 @@ Pour apprendre à chanter on l'a mis dans la cage [39].
 Cet extrait révèle la rivalité entre les deux femmes, Boursault accentue l'effet comique en exagérant le souci de symétrie entre chaque réplique grâce aux interventions respectives de Ragotin et de Jacinte.
 
 
-## Le lexique
+## Le lexique.
 
 Cette pièce se révèle être particulièrement intéressante au point de vue de l'analyse lexicale. Les domestiques se distinguent aisément de leurs maîtres par leur vocabulaire, ils utilisent un niveau de langue peu élevé et emploient fréquemment les jurons. Le pédant Isidore peut être mis à l'écart par rapport aux autres personnages de la pièce car, comme nous l'avons vu dans l'analyse des acteurs, il utilise un langage élaboré. Trop savante pour les autres personnages, la langue qu'Isidore emploie est mêlée de mots techniques, de latinismes et parfois même de termes archaïques. Le public de l'époque, et en particulier le parterre, devait avoir des difficultés de compréhension et Robin illustre bien ce problème à la scène 10 de l'acte IV :
 
@@ -352,12 +352,12 @@ Et si tu n'agis pas d'une ingrate façon
 De me voir estre braise, & que tu sois glaçon [41].  
 
 
-## Le comique de situation
+## Le comique de situation.
 
 Les jeux de scènes participent au comique de la pièce et la rapprochent de la farce. Les personnages utilisent leurs corps pour faire rire le public, ainsi l'arrestation de Ragotin par les deux vieillards qu'il fait tomber constitue un motif d'hilarité [42]. De même, les deux soufflets que Robin reçoit sont amusants par leur effet de surprise [43]. Les didascalies renforcent cet effet comique, elles ajoutent des informations sur les comportements des personnages, par exemple Robin chante et montre sa joue à Nicandre aux vers 498 et 533 pour lui rappeler le soufflet qu'il a reçu. Mais elles apportent également des précisions sur les différents quiproquos qui se succèdent dans le texte, elles sont le seul moyen de différencier les deux Nicandres. Placée en tête d'une réplique, la didascalie nous précise s'il s'agit du premier ou du second Nicandre qui va parler, et permet ainsi de clarifier le texte. Le comique de situation s'associe au comique verbal, les jeux de mots sont fréquents et les domestiques emploient souvent les répétitions, ils interrompent les autres personnages et parodient leurs maîtres. En prison, Robin demande quelques louis à Ismène qui en profite pour le questionner sur les sentiments de Nicandre, mais Robin, intéressé par les pièces qui ne parviennent pas à tomber dans sa boîte, n'écoute pas les questions d'Ismène et pense qu'elle aussi parle des deux louis [44]. La confusion s'étend sur environ vingt vers et quand Robin réagit enfin, il ne pense pas à répondre aux interrogations de la jeune femme mais appelle immédiatement Nicandre pour qu'il s'explique lui-même. Ces différents procédés utilisés par les valets sont directement issus de la farce. Boursault s'est inspiré une fois de plus de l'esthétique déjà présente chez Paul Scarron, dramaturge qui fait pénétrer la farce dans la comédie et qui joue sur le contraste des tons et des styles au sein d'une même œuvre. Les jeux sur les différentes significations possibles d'une même expression rendent une scène comique et la dédramatise. Boursault joue sur le double sens des mots lors de l'arrestation de Robin [45], le substantif « membre » employé au départ par le Sergent est mélioratif, il désigne la fonction honorable d'appartenir à la Justice mais Robin emploie ce même mot au sens propre et le rend alors péjoratif. Ce jeu de mot est repris à plusieurs reprises par le valet, une gradation est visible dans les différentes désignations et l'acte s'achève par le discours comique de Robin qui dénigre la fonction du Sergent, l'appelant « gigot de Justice » (v. 911).
 
 
-# D'une pièce à l'autre
+# D'une pièce à l'autre.
 
 Boursault a simplifié la pièce très rapidement, les deux achevés d'imprimer sont identiques et aucun document ne prouve de date précise. De nombreux changements ont été effectués mais l'intrigue reste la même, la pièce s'intitule désormais *Les Nicandres ou les menteurs qui ne mentent point*. Dans l'unique réédition faite par ses enfants en 1725, son fils aîné, Chrysostome, précise :
 
@@ -369,7 +369,7 @@ Nous n'avons trouvé aucune trace de la représentation en cinq actes ; seule l
 Boursault fait précéder le texte d'un « argument nécessaire » qui explique davantage l'enfance et la vie des deux frères jumeaux, l'exposition est par conséquence développée. L'auteur se justifie sur plusieurs points différents, il insiste tout d'abord sur « la qualité des personnes dont (il) parle », distinguant ainsi sa pièce de la farce. En effet, Boursault a choisi de supprimer de nombreuses allusions farcesques dans la seconde version. Il explique davantage les actions des personnages tout en soulignant les notions d'honneur et de bienséance. Enfin, il prévient le lecteur des futures confusions possibles entre les deux frères jumeaux et demande de l'indulgence face à cette nouvelle pièce ; on peut penser qu'il a toujours en tête les critiques des comédiens sur sa première version.
 
 
-## Tableau comparatif de l'action des deux pièces
+## Tableau comparatif de l'action des deux pièces.
  | Les Deux frères gémeaux | Les Nicandres
 Acte I
 Sc. 1 | Hipolite se confie à Jacinte sur les sentiments qu'elle éprouve envers Nicandre. | Même scène
@@ -437,7 +437,7 @@ Sc. 12 | Entrée du 1*er* Nicandre, tous les problèmes sont résolus. Retrouva
 
 
 
-## Les modifications
+## Les modifications.
 
 La pièce débute exactement de la même façon que la précédente mais on s'aperçoit rapidement des changements de vocabulaire, les expressions recherchées comme « faire la sainte sucrée », « tenir son bon bout », « ficher la colle » ou encore « enfiler la venelle » sont simplifiées, voire le plus souvent effacées. La suppression du personnage d'Isidore confirme cette volonté d'épuration de la langue dramatique. Son rôle ne fait pas avancer l'action et se révèle par conséquent inutile, il entraîne la suppression de son double, Eutrope.
 
@@ -466,10 +466,10 @@ Selon Crispin, l'action se déroule alors en l'espace de deux jours.
 De nombreuses informations sont ajoutées au fil du texte, Boursault a voulu éclairer son lecteur sur les points restés obscurs de la première version. Mais paradoxalement il ne s'est pas préoccupé du travail de l'imprimeur qui a glissé dans le texte des coquilles pourtant évidentes. Certaines répliques sont collées à gauche alors qu'elles devraient respecter la tradition de prosodie des alexandrins (voir aux vers 2, 234, 429 et 594) et s'aligner avec un décalage pour montrer qu'il s'agit bien du même vers. Nous avons relevé les autres coquilles dans la liste des rectifications du texte.
 
 
-# Édition des Deux frères gémeaux ou les menteurs qui ne mentent point
+# Édition des Deux frères gémeaux ou les menteurs qui ne mentent point.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons suivi le texte de l'édition originale, disponible à la Bibliothèque nationale de France sous la cote Yf 3758, appartenant à un recueil factice.
 
@@ -480,7 +480,7 @@ Nicolas Pépingué, Thomas Jolly, Guillaume de Luynes et Gabriel Quinet se sont 
  * – le dernier exemplaire est conservé en Suisse, au Château d'Oron, (LFB 87 - éd. Thomas Jolly) mais nous ne l'avons pas consulté.
 
 
-## Description du volume
+## Description du volume.
 
 Le volume que nous avons pris pour base se présente sous la forme suivante :
 
@@ -501,7 +501,7 @@ VI        Verso blanc
 1-120        Texte de la pièce
 
 
-## Principes d'annotations communs aux deux versions
+## Principes d'annotations communs aux deux versions.
 
 En raison de l'intérêt historique de la graphie, nous avons conservé celle de l'imprimeur de 1665, mais une modernisation nous est parue nécessaire dans le cas du ƒ qui a été remplacé par –s. Dans le but de faciliter la lecture, v et u, ainsi que i et j, initialement confondus, ont été distingués. Dans cette même optique, le tilde (~) a été remplacé par la consonne correspondante, -n ou –m selon les cas. Les majuscules ont été rétablies quand cela était nécessaire.
 
@@ -512,7 +512,7 @@ Chaque définition est suivie des initiales entre parenthèses du dictionnaire o
 Nous avons uniformisé les points de suspensions conformément à la graphie traditionnelle du XXI*e* siècle et ajouté une virgule aux vers 84 et 1386 dans le but de faciliter la lecture du texte. Nous avons toutefois conservé la ligature -&- et gardé la graphie ainsi que la ponctuation originales.
 
 
-## Rectifications
+## Rectifications.
 
 Nous avons rétabli l'accent diacritique pour distinguer « à » et « a », l'accent a été rajouté aux vers 1322 (a sa flâme) et supprimé au vers 1592 (on vous à cru). Nous avons également distingué « où » conjonction de subordination et « ou » adverbe, l'accent est ajouté au vers 448, et supprimé aux vers 482, 483 et 1230.
 
@@ -634,10 +634,10 @@ Il me suit.
     HIPOLITE.
     Ah, Jacinte !  
 
-    JACINTE 
+    JACINTE. 
     Et quoy donc…  
 
-    HIPOLITE
+    HIPOLITE.
         Je me plains,  
 Ce que je souhaitois, à present je le crains :  
 D'une fille en aymant le mal-heur est extrême  
@@ -647,27 +647,27 @@ A donné de l'amour sans en prendre pour luy.
 Je m'estois resoluë à parler de ma flâme,  
 Mais Jacinte au moment…  
 
-    JACINTE
+    JACINTE.
         Au moment, quoy Madame ?  
 A qui cherche à vous plaire expliquez vostre mais ;  
 Mais ?  
 
-    HIPOLITE
+    HIPOLITE.
         Mais je ne croy pas que j'en parle jamais.  
 
-    JACINTE
+    JACINTE.
 Courage ; quand la chose est si bien preparée,  
 Faire la scrupuleuse, & la sainte sucrée [52] ?  
 Et que luy direz-vous, car il vient sur mes pas ?  
 
-    HIPOLITE
+    HIPOLITE.
 En ne luy disant rien, que ne diray-je pas ?  
 Quand on void ce qui plaist quoy qu'une ame projette  
 Les yeux ont une voix si la langue est muëtte,  
 Et pour bien decouvrir son aymable tourment  
 Affecter le silence est parler clairement.  
 
-    JACINTE
+    JACINTE.
 Et de cette façon vous croyez faire entendre…  
 Je vous le disois bien j'apperçois ce Nicandre,  
 Il avance.  
@@ -705,7 +705,7 @@ C'est peut-estre…
     HIPOLITE. 
         Nicandre, éloignez ce valet.  
 
-    LE PREMIER NICANDRE, *à Ragotin.*
+    LE PREMIER NICANDRE, *à Ragotin.*.
 Dans une heure au plus tard tu viendras me reprendre.  
 
     RAGOTIN.
@@ -740,7 +740,7 @@ Qu'il est aspre⁎ !
     LE PREMIER NICANDRE.
         Encor [53] une fois ?  
 
-    RAGOTIN *s'en allant.*
+    RAGOTIN *s'en allant.*.
 Adieu l'honneur.   
 
 
@@ -748,7 +748,7 @@ Adieu l'honneur.
 HIPOLITE, Le premier NICANDRE, JACINTE.
 
 
-    HIPOLITE
+    HIPOLITE.
         Nicandre, & mes yeux, & ma voix…  
 Je me sens interdite⁎, & le charme qui brille…  
 Quand on est inquiette, & qu'on est une fille…  
@@ -882,7 +882,7 @@ Que pour voir tous les deux il ne faut en voir qu'un.
     JACINTE.
 Quoy…  
 
-    HIPOLITE *à Jacinte.*
+    HIPOLITE *à Jacinte.*.
         Ne l'interromps plus qu'au plus viste il acheve.  
 D'avoir dit mon secret je deteste.  
 
@@ -972,7 +972,7 @@ Si je le crois ? Vrayment ; ce matois⁎, ce Nicandre…
 ISMENE vestuë en homme, HIPOLITE, JACINTE.
 
 
-    ISMENE *vestuë en homme.*
+    ISMENE *vestuë en homme.*.
 Nicandre ! Le seroit-ce ? Essayons de l'apprendre.  
 Ce Nicandre, Madame, à mon cœur est bien cher,  
 Je le cherche.  
@@ -996,11 +996,11 @@ Il vous ayme ?
     HIPOLITE.
     Peut-estre.  
 
-    ISMENE, *bas.*
+    ISMENE, *bas.*.
         Il l'adore, le traistre.  
 Vous, l'aymez-vous, Madame, à vostre tour ?  
 
-    HIPOLITE.    [12]
+    HIPOLITE.    [12].
         Peut-estre.  
 
     ISMENE À JACINTE.
@@ -1064,7 +1064,7 @@ Cependant du depuis [68] j'ay compté huit semaines,
 Et tel est de mon sort le cruel traitement  
 Que je trouve Nicandre, & je perds mon amant.  
 
-    JACINTE *à Hipolite.*
+    JACINTE *à Hipolite.*.
 D'où naissoit le refus qui si fort vous afflige ?  
 Voyez-vous ?  
 
@@ -1077,7 +1077,7 @@ Voyez-vous ?
     HIPOLITE.
     Mon courroux…  
 
-    JACINTE.    [14]
+    JACINTE.    [14].
         Pay⁎, vous dis-je,  
 Et ne luy dites rien qui nourrisse ses feux.  
 
@@ -1110,7 +1110,7 @@ Avecque [69] son valet qui n'a point mauvais air
 Mon honneur eut pû faire un méchant pas de Cler [70].  
 Haïssez desormais, aussi bien cette fille…  
 
-    HIPOLITE.    [15]
+    HIPOLITE.    [15].
 Elle est belle, bien faite, & paroist de famille,  
 Elle cherche Nicandre, & j'en ay du soucy⁎ ;  
 Mais l'amour est aveugle, & je la suis aussi.  
@@ -1126,7 +1126,7 @@ Et peut-estre…
 Le second NICANDRE, HIPOLITE, JACINTE, ROBIN.
 
 
-    HIPOLITE *en raillant⁎.*
+    HIPOLITE *en raillant⁎.*.
 A la fin vostre frere est trouvé.  
 
     LE SECOND NICANDRE.
@@ -1208,7 +1208,7 @@ Il demande huit jours, & demeure deux mois.
     LE SECOND NICANDRE.
 Mon Ismene, bons Dieux ! Ô parole cruelle !  
 
-    ROBIN *appelle son Maistre au coin du Theatre.*
+    ROBIN *appelle son Maistre au coin du Theatre.*.
 St, st, une autrefois battez moins la semelle [76]  
 Monsieur.  
 
@@ -1267,7 +1267,7 @@ Pensez-y bien.
 Le second NICANDRE, JACINTE, ROBIN.
 
 
-    LE SECOND NICANDRE *arreste Jacinte, & luy dit.*
+    LE SECOND NICANDRE *arreste Jacinte, & luy dit.*.
         De grace, ayés plus de tendresse,  
 Dites-moy qui des deux est Suivante ou Maistresse ;  
 Je vous trouve bien faite, est-ce vous qu'elle sert ?  
@@ -1394,7 +1394,7 @@ Je t'attends en ce lieu.
     LE SECOND NICANDRE.
         Haste-toy.  
 
-    ROBIN *revient sur ses pas.*
+    ROBIN *revient sur ses pas.*.
 Daignez donc pour le moins me répondre de moy,  
 Car enfin…  
 
@@ -1492,7 +1492,7 @@ Maraut⁎…
     RAGOTIN. 
         Payez-moy donc, & sortons quitte à quitte.  
 
-    LE SECOND NICANDRE
+    LE SECOND NICANDRE.
 Je te dois quelque chose ! Insolent, je voy bien…  
 
     RAGOTIN.
@@ -1532,7 +1532,7 @@ Suy-moy donc si tu veux, viens, tu n'as rien à craindre.
 
 ## SCENE XI.
 
-    RAGOTIN *seul.*
+    RAGOTIN *seul.*.
 Il ne faut que cela pour m'achever de peindre [84].  
 Peu courtois Courtisan en chassant ton valet  
 Que la peste t'étouffe, & te saute au colet⁎.  
@@ -1547,7 +1547,7 @@ Allons chercher fortune aux degrez⁎ du Palais [86].  < Fin du premier Acte. >
 
 ## SCENE PREMIERE.
 
-    LE PREMIER NICANDRE *seul.*
+    LE PREMIER NICANDRE *seul.*.
 La charmante Hipolite a pour moy de l'estime,  
 Et je n'ose répondre au beau feu qui l'anime !  
 A mon cruel serment tous mes sens occupez…  
@@ -1557,7 +1557,7 @@ A mon cruel serment tous mes sens occupez…
 ISMENE, le premier NICANDRE.
 
 
-    ISMENE *en habit d'homme.*
+    ISMENE *en habit d'homme.*.
 Ou je vois l'infidelle ou mes yeux sont trompez.  
 C'est luy-mesme, le traistre. A quoy réve Nicandre ?  
 
@@ -1678,7 +1678,7 @@ Prens-y garde.
 
 ## SCENE III.
 
-    LE PREMIER NICANDRE *seul.*
+    LE PREMIER NICANDRE *seul.*.
         J'ignore à quoy tend sa querelle  
 A l'entendre, autrefois je soupiray pour elle :  
 Moy bon Dieux ! Moy pour elle avoir pû soupirer !  
@@ -1729,7 +1729,7 @@ Je vous entends Jacinte, Hipolite sçait bien…
 Que gens faits comme vous ne vaudront jamais rien,  
 Adieu, passe-volant [90].  
 
-    LE PREMIER NICANDRE *l'arrestant.*
+    LE PREMIER NICANDRE *l'arrestant.*.
         Demeurez, & pour cause,  
 Au mal-heureux Nicandre apprenez une chose,  
 J'allois voir Hipolite…  
@@ -1832,7 +1832,7 @@ C'est assez, & de plus…
 
 ## SCENE V.
 
-    LE PREMIER NICANDRE *seul.*
+    LE PREMIER NICANDRE *seul.*.
 Temeraire serment sors de cette memoire,  
 Ne fais pas un obstacle à l'excés de ma gloire,  
 Depuis plus de six ans je me suis deffendu…   
@@ -1947,7 +1947,7 @@ Mon valet…
 A tout autre que vous je dirois fou toy-mesme,  
 Et je pense…  
 
-    LE PREMIER NICANDRE, *en s'en allant.*
+    LE PREMIER NICANDRE, *en s'en allant.*.
         Maraut⁎, tu veux estre battu,  
 Et si je n'avois haste insolent… Où vas-tu ?  
 
@@ -1963,7 +1963,7 @@ Il t'en faut une preuve impudent⁎, la voila.
 
 ## SCENE VII.
 
-    ROBIN *seul.*
+    ROBIN *seul.*.
 Il a parbleu raison, il le prouve par là.  
 Le secret est joly pour se bien faire croire !  
 De sa chienne de patte enfoncer ma machoire  
@@ -1985,7 +1985,7 @@ Le bon traistre !
 Le second NICANDRE, ROBIN.
 
 
-    [LE SECOND NICANDRE]
+    [LE SECOND NICANDRE].
         Qu'heureuse est pour moy la journée !  
 Ah Robin ! Un amy genereux, bien faisant,  
 Et non pas un amy comme ceux d'à present,  
@@ -2048,7 +2048,7 @@ C'est gageure⁎.
     LE SECOND NICANDRE.
     Gageure⁎ ?  
 
-    ROBIN *monstrant sa jouë.*
+    ROBIN *monstrant sa jouë.*.
         On m'en donne des erres [103]  
 (Il chante de rage.)
  
@@ -2059,7 +2059,7 @@ Voyez-vous ? Mon cadet… Là, là, là, là, là, là.
 JACINTE, HIPOLITE, le second NICANDRE, ROBIN.
 
 
-    JACINTE, *sortant avec Hipolite.*
+    JACINTE, *sortant avec Hipolite.*.
 Il vous attend Madame, & c'est luy que voila,  
 Avancez.  
 (à Nicandre.)
@@ -2075,7 +2075,7 @@ Loin d'avoir de l'amour vous auriez de la haine…
 De la hayne pour elle, ah ! Je brûle d'amour,  
 Non, non…  
 
-    HIPOLITE *à Nicandre.*
+    HIPOLITE *à Nicandre.*.
         De vos mépris vous voila de retour,  
 Je l'ay sçeu de Jacinte, Ismene est pourtant belle.  
 
@@ -2110,7 +2110,7 @@ Le mechant homme !
     LE SECOND NICANDRE.
     Quoy…  
 
-    [JACINTE.]
+    [JACINTE.].
         Quoy, vous-mesme hypocrite  
 Quand vous estes venu pour luy rendre visite…  
 
@@ -2127,7 +2127,7 @@ Mais tu sçais…
         Je ne sçay si je sçais quelque chose,  
 Mais je me tais.  
 
-    HIPOLITE *à Jacinte.* 
+    HIPOLITE *à Jacinte.*. 
         Tu vois où ton zele m'expose  
 A ton rapport sans doute il n'a pas consenty.  
 
@@ -2171,7 +2171,7 @@ En presence…
     LE SECOND NICANDRE.
 Mais perfide Robin le desssein où tu buttes…  
 
-    ROBIN *monstrant sa jouë.* 
+    ROBIN *monstrant sa jouë.*. 
 Il ressouvient⁎ tousjours à Robin de ses flutes [105].  
 
     LE SECOND NICANDRE.
@@ -2181,7 +2181,7 @@ Ils s'entendent, Madame, un indice trop grand…        535
 Si je luy dechargeois un bon moule de gand [106],  
 Madame, laissez-moy luy bailler⁎ sur la creste⁎.  
 
-    ROBIN *à Jacinte.*
+    ROBIN *à Jacinte.*.
 Ne prends point de conseil que celuy de ta teste ;  
 J'en suis de moitié rosse [107].  
 
@@ -2226,7 +2226,7 @@ Oses-tu ?... Voyez-vous, il fait signe des yeux…
     ROBIN.
 Vous mentez comme un Diable impudente⁎.  
 
-    JACINTE *luy donne un soufflet.*
+    JACINTE *luy donne un soufflet.*.
     Moy ?  
 
     ROBIN.
@@ -2246,7 +2246,7 @@ D'avoir pû vous choquer j'ay beaucoup de douleur,
 Et de peur qu'il n'arrive un semblable mal-heur  
 Je sors.  
 
-    ROBIN *à Jacinte.*
+    ROBIN *à Jacinte.*.
         Je sors aussi, mais avant que je sorte  
 A ton peste de bras qui n'a pas la main morte  
 Je souhaite la galle, & qui mine ton corps ;  
@@ -2304,7 +2304,7 @@ Deduits ta malencontre⁎ en maniere succinte.
     HIPOLITE.
 Il est venu… Monsieur, demandez à Jacinte.  
 
-    ISIDORE *à Jacinte.*
+    ISIDORE *à Jacinte.*.
 Oculaire témoin du mal-heur qu'elle tait,  
 Toy, qui peut à son pere inculquer son secret,  
 De le développer j'interpelle [113] ton ame.  
@@ -2463,7 +2463,7 @@ Vous ne l'ignorez pas les honnestes Chrestiens…
 Tu conçois à rebours le discours que je tiens,  
 J'ay querelle.  
 
-    RAGOTIN.    [53]
+    RAGOTIN.    [53].
     Querelle ! Est-il vray ?  
 
     ISMENE.
@@ -2520,7 +2520,7 @@ Adieu.
 
 ## SCENE III.
 
-    RAGOTIN *seul.*
+    RAGOTIN *seul.*.
         Je vais porter un Cartel⁎ à Nicandre !  
 A luy qui me veut battre, et qui fait le mâdré [121],  
 Ah Nicandre, ma foy tu seras Nicandré [122] !  
@@ -2538,7 +2538,7 @@ Jacinte asseurément m'aura trop astendu ;
 Il m'a trop retenu cét Amy, j'en deteste [123].  
 Où pourray-je à present la trouver ? Ah, ah.  
 
-    RAGOTIN *luy allongeant une botte⁎.*
+    RAGOTIN *luy allongeant une botte⁎.*.
         Zeste⁎.  
 
     LE PREMIER NICANDRE.
@@ -2552,7 +2552,7 @@ Je veux penser.
         Coquin, je puis t'estre funeste,  
 Et si tu fais le fou tu ne doutes pas…  
 
-    RAGOTIN *allongeant encore une autre botte⁎.*
+    RAGOTIN *allongeant encore une autre botte⁎.*.
         Zeste⁎.  
 
     LE PREMIER NICANDRE.
@@ -2581,7 +2581,7 @@ Vous m'avez querellé, vous avez fait le fat⁎,
 Vous en mourrez, beau Sire, & mourrez *intestat* [124],  
 Lisez.  
 
-    LE PREMIER NICANDRE *lit.*
+    LE PREMIER NICANDRE *lit.*.
         *Sans que je me nomme*,  
 Nicandre vous sçaurez que je suis Gentil-homme,  
 *Qui l'espée à la main ay dessein de vous voir*,  
@@ -2626,7 +2626,7 @@ C'est assez, si j'y viens que le Diable m'emporte.
 
 ## SCENE V.
 
-    LE PREMIER NICANDRE *seul.*
+    LE PREMIER NICANDRE *seul.*.
 Ciel vous m'estes propice, & l'on ouvre la porte ;  
 Le bon-heur de vous voir va donc m'estre accordé  
 Hipolite, Jacinte, ay-je point trop tardé ?  
@@ -2690,7 +2690,7 @@ Ouy, le voulez-vous voir ?
     JACINTE.
 Attendez.  
 
-    LE PREMIER NICANDRE *à Jacinte.*
+    LE PREMIER NICANDRE *à Jacinte.*.
         Vous pouvez par le mesme moyen…  
 A tout ce procedé, je ne puis rien comprendre,  
 Jacinte…  
@@ -2701,7 +2701,7 @@ Je le vois, c'est luy mesme. A la fin je te tiens,
 C'est en vain que tes bras sont plus forts que les miens.  
 Qu'as-tu fait de ma fille ?  
 
-    JACINTE *appelle à une fenestre.*
+    JACINTE *appelle à une fenestre.*.
         Isidore ! Allons viste.  
 (A Eutrope.)
  
@@ -2721,7 +2721,7 @@ Son filou⁎ de cacquet m'a sceu rendre ébloüye.
 ISIDORE, JACINTE, EUTROPE, Le premier NICANDRE.
 
 
-    ISIDORE *à la fenestre.*
+    ISIDORE *à la fenestre.*.
 Une voix transcendante [128] a percé mon oüye.  
 Apprettez-vous [129]…  
 
@@ -2738,7 +2738,7 @@ Ou qu'il créve.
         De rage, il m'en void tout en feu  
 Le déloyal, le traistre !  
 
-    LE PREMIER NICANDRE.    [F, 61]
+    LE PREMIER NICANDRE.    [F, 61].
         Est-ce conte ? Est-ce jeu ?  
 Quoy Jacinte elle mesme aura donc de la joye…  
 
@@ -2752,7 +2752,7 @@ C'est Nicandre.
     LE PREMIER NICANDRE.
         Il est vray, mais confus…  
 
-    ISIDORE *en bas.*
+    ISIDORE *en bas.*.
 Rendons-en grace, & los à Jupin de la sus [131].  
 O malin Tereus [132] de qui l'ame trop noire  
 D'une Philomella [133] contamines la gloire ;  
@@ -2770,7 +2770,7 @@ Je m'en vais au plus viste amener le Coffreur [137].
 (Elle sort)
 
 
-    LE PREMIER NICANDRE *tenu par les deux bras.*
+    LE PREMIER NICANDRE *tenu par les deux bras.*.
 Quoy, de l'un & de l'autre éprouver la fureur !  
 D'un couroux si bizarre apprenez-moy la cause ;  
 Soit à vous, soit à vous, ay-je fait quelque chose ?  
@@ -2816,7 +2816,7 @@ Une fille abusée…
     EUTROPE.
     Ah !  
 
-    ISIDORE.  
+    ISIDORE. 
     Ah !  
 
     EUTROPE.
@@ -2838,7 +2838,7 @@ Elle est seule chez elle, allons-y de ce pas.
 Le second NICANDRE, ROBIN, EUTROPE, ISIDORE.
 
 
-    ROBIN *chargé d'une Valise.*
+    ROBIN *chargé d'une Valise.*.
 Ah ! Que démenager est un rude tracas !  
 Peste soit la valise, elle est diablement lourde,  
 Haye ! Au meurtre ! Ah l'échine [143] !  
@@ -2970,13 +2970,13 @@ Vostre fille à ce compte a perdu son honneur ?
     EUTROPE.
 Ouy perfide.  
 
-    ROBIN *à Isidore.*
+    ROBIN *à Isidore.*.
         La vostre a le mesme mal-heur ?  
 
     ISIDORE.
 Ouy, pecore⁎.  
 
-    ROBIN *à Jacinte.*
+    ROBIN *à Jacinte.*.
     Et le tien ?  
 
     JACINTE.
@@ -3028,7 +3028,7 @@ Accipez [153].
     JACINTE.
     Prenez.  
 
-    LE SERGENT *saisissant Robin.*
+    LE SERGENT *saisissant Robin.*.
         De par le Roy…  
 
     ROBIN.
@@ -3055,7 +3055,7 @@ Et j'en voudrois avoir pour donner à vos filles.
 Si pour prendre le mien dans ce lieu l'on m'a pris  
 Messieurs…  
 
-    ISIDORE *au Sergent.*
+    ISIDORE *au Sergent.*.
         Vous le tenez *in manibus vestris* [158],  
 *Suffecit* [159] ; *Domine* [160] vous sçaurez m'en respondre,  
 Dans un sombre manoir⁎ vous devez le profondre [161],  
@@ -3081,7 +3081,7 @@ Mais au traistre Robin daignez joindre Nicandre.
 ROBIN, LE SERGENT, JACINTE, Les Archers.
 
 
-    ROBIN *au Sergent.*
+    ROBIN *au Sergent.*.
 Membre, nous sommes seuls, on ne peut nous entendre,  
 Dites-moy, puis-je pas un moment vous parler ?  
 
@@ -3176,7 +3176,7 @@ Adieu.
     LE PREMIER NICANDRE.
         Donc à ma flâme il n'est rien de contraire…  
 
-    HIPOLITE *retourne sur ses pas.*
+    HIPOLITE *retourne sur ses pas.*.
 Si je fais mon pouvoir je pourray beaucoup faire,  
 J'oubliois de le dire, Adieu,  
 
@@ -3194,7 +3194,7 @@ Il est vray qu'assez foible est le bras qui seconde…
 ROBIN, le premier NICANDRE.
 
 
-    ROBIN *avec une Bouteille à la main.*
+    ROBIN *avec une Bouteille à la main.*.
 Ah mon bon Dieu ! Pourtant je ne vois point de monde.  
 Ces maudits Houspilleurs [167] comme ils m'ont fait driller⁎.  
 (appercevant Nicandre.)
@@ -3224,7 +3224,7 @@ Il m'importe.
         Il t'importe ! As-tu quelque sujet  
 Maraut⁎…  
 
-    ROBIN.    [75]
+    ROBIN.    [75].
         Faudra-t-il point que je vous rende grace  
 De ce qu'au lieu de vous en prison on m'enchasse [171] ?  
 
@@ -3304,7 +3304,7 @@ Desormais de Sergens ne crains nulle surprise.
 
 ## SCENE III.
 
-    ROBIN *seul.*
+    ROBIN *seul.*.
 Il n'a pas dit le mot concernant sa valise,  
 Elle est pourtant restée, & puissay-je mourir  
 Si jamais j'ay dessein de l'aller requerir.  
@@ -3365,12 +3365,12 @@ Et si tu sens de l'estre une demangeaison…
 Le second NICANDRE, JACINTE, ROBIN.
 
 
-    LE SECOND NICANDRE *sortant de la maison d'Isidore.* 
+    LE SECOND NICANDRE *sortant de la maison d'Isidore.*.
 A la fin je te quitte, ô propice maison.  
 Eutrope en me voyant m'auroit fait de la peine,  
 Mais enfin…  
 
-    JACINTE* appercevant tout à coup Nicandre.* 
+    JACINTE* appercevant tout à coup Nicandre.*.
         Je vous cherche, ô l'esclave d'Ismene.  
 
     LE SECOND NICANDRE.
@@ -3380,7 +3380,7 @@ Dieux ! Jacinte me cherche ! Auroit-on prevenu…
 Que du Cours de la Reyne il est tost revenu !  
 Diable !  
 
-    LE SECOND NICANDRE *à Jacinte.*
+    LE SECOND NICANDRE *à Jacinte.*.
     Que voulez-vous, la belle ?  
 
     ROBIN.
@@ -3391,7 +3391,7 @@ Vous luy feriez tort.
     LE SECOND NICANDRE.
         Traistre… Enfin dites-moy donc…  
 
-    JACINTE *arrestant Nicandre par le bras.* 
+    JACINTE *arrestant Nicandre par le bras.*.
 Vous me paîrez ma peine, & paîrez tout du long ;  
 Celle qui vous aymoit est si fort en colere  
 Que de vous faire prendre elle a prié son pere.  
@@ -3407,7 +3407,7 @@ Et si tantost son pere avoit eu la puissance…
 J'ay pris soin, il est vray, d'éviter sa presence ;  
 Mais il n'estoit pas seul, & je n'ay pas osé…  
 
-    ROBIN *à Nicandre.* 
+    ROBIN *à Nicandre.*.
 La Maitresse est contente, & le pere appaisé.  
 Ah ! Le menteur.  
 
@@ -3465,7 +3465,7 @@ Et de peur que mon pere entendit vos discours
 Je suis venuë en haste embrasser son secours.  
 Qui l'outrage m'outrage, & mon ame & la sienne…  
 
-    ROBIN *à Jacinte.* 
+    ROBIN *à Jacinte.*. 
 Je veux t'aymer aussi bonne peste de Chienne.  
 
     JACINTE.
@@ -3512,7 +3512,7 @@ Que feray-je ? Pour faire une chose qui plaise…
 Et que fait-on ? Pour faire une fille bien aise,  
 Idiot ?  
 
-    LE SECOND NICANDRE *à Hipolite.*
+    LE SECOND NICANDRE *à Hipolite.*.
         Vous servir m'est un bien precieux,  
 Mais daignez vous resoudre à vous expliquer mieux ;  
 Je vous veux obéïr, j'y mets toute ma gloire,  
@@ -3523,11 +3523,11 @@ Mais…
 N'attendez plus pourtant de si libres propos,  
 J'ay trop…  
 
-    ROBIN *à Nicandre.* 
+    ROBIN *à Nicandre.*.
         Concevez-vous ce que disent ces mots :  
 Pauvre fille !  
 
-    JACINTE *à Hipolite.* 
+    JACINTE *à Hipolite.*.
         Expliquez aussi vostre pensée.  
 
     ROBIN.
@@ -3545,7 +3545,7 @@ Car il ne tient qu'à vous de comprendre.
     LE SECOND NICANDRE.
         Elle veut…  
 
-    ROBIN *à Hipolite.* 
+    ROBIN *à Hipolite.*.
 Madame, comprenons, si comprendre se peut…  
 
     LE SECOND NICANDRE. 
@@ -3582,7 +3582,7 @@ Une cour derobée où j'estois retiré…
     HIPOLITE.
 L'imposteur !  
 
-    ROBIN *à Nicandre.* 
+    ROBIN *à Nicandre.*.
         *Cum licence* [187], ostez-moy d'une peine  
 Monsieur, en quelle ruë est le Cours de la Reyne ?  
 
@@ -3657,7 +3657,7 @@ Mais que vois-je ?
 ISMENE, HIPOLITE.
 
 
-    ISMENE *revenant du Cours, où elle a fait saisir le premier Nicandre.* 
+    ISMENE *revenant du Cours, où elle a fait saisir le premier Nicandre.*.
         A vos vœux tout semble estre propice,  
 Il vous aime Nicandre, & me fait un affront  
 L'ingrat.  
@@ -3714,16 +3714,16 @@ Mais tremblez de frayeur.
 ISMENE, HIPOLITE, RAGOTIN, JACINTE.
 
 
-    ISMENE *avec beaucoup de fierté.* 
+    ISMENE *avec beaucoup de fierté.*.
 Hé bien cher Ragotin ?  
 
-    HIPOLITE *avec beaucoup de fierté.* 
+    HIPOLITE *avec beaucoup de fierté.*.
         Hé bien chere Jacinte ?  
 
-    RAGOTIN *à Ismene parlant du premier Nicandre.*
+    RAGOTIN *à Ismene parlant du premier Nicandre.*.
 Il est ensevely dans le grand Chastelet.  
 
-    JACINTE *à Hipolite parlant du second Nicandre.*
+    JACINTE *à Hipolite parlant du second Nicandre.*.
 En ma propre presence on l'a pris au colet⁎.  
 
     RAGOTIN.
@@ -3744,10 +3744,10 @@ Il vous nomme perfide.
     JACINTE.
         Il vous nomme cruelle.  
 
-    ISMENE *à Hipolite.* 
+    ISMENE *à Hipolite.*. 
 Escoutez.  
 
-    HIPOLITE *à Ismene.*
+    HIPOLITE *à Ismene.*.
     Escoutez.  
 
     ISMENE.
@@ -3845,7 +3845,7 @@ Qui voyez-vous ?
     ISMENE.
         Ce l'est, c'est mon pere luy-mesme.  
 
-    ISIDORE *à Jacinte.*
+    ISIDORE *à Jacinte.*.
 Definis-moy la cause, & dis-moy la raison…  
 
     JACINTE.
@@ -3861,7 +3861,7 @@ Je suis demy Monsieur ; mais entiere Madame,
 Ce vieillard est mon pere, & c'est tout mon bon heur,  
 J'ose…  
 
-    RAGOTIN *à Ismene.*
+    RAGOTIN *à Ismene.*.
         Vous estes donc une fille, Monsieur ?  
 
     EUTROPE.
@@ -3873,19 +3873,19 @@ Quoy ! Ma fille…
     EUTROPE.
         As-tu pû me connaistre.  
 
-    RAGOTIN *à Ismene.*
+    RAGOTIN *à Ismene.*.
 Je couchois d'ordinaire aux costés de mon Maistre,  
 Il estoit si peureux que j'estois son appuy ;  
 N'estes-vous point peureuse aussi bien comme luy ?  
 
-    ISMENE *à Eutrope.*
+    ISMENE *à Eutrope.*.
 Je partis de Lyon sans vous en rien apprendre,  
 Pour venger mon injure, & pour perdre Nicandre ;  
 J'ay trouvé que Madame en a fait son Amant ;  
 Mais sa lasche inconstance aura son chastiment,  
 Il est pris.  
 
-    HIPOLITE *à Isidore.*
+    HIPOLITE *à Isidore.*.
         Vous sçavez ce que m'a fait Nicandre.  
 
     ISIDORE.
@@ -3920,7 +3920,7 @@ Mon esprit se gendarme allencontre de [195] luy,
 (Isidore s'en va d'un costé, & Eutrope de l'autre.)
 
 
-    HIPOLITE *à Ismène.*
+    HIPOLITE *à Ismène.*.
         Consolez-vous, vous pouvez tout pretendre,  
 Demain dans la prison vous reverrez Nicandre.  
 
@@ -3928,7 +3928,7 @@ Demain dans la prison vous reverrez Nicandre.
 Vous dites vray, Madame, & ce qui m'est bien doux,  
 Vous le verrez aussi sans qu'il puisse estre à vous.  
 
-    JACINTE *à Ismene.*
+    JACINTE *à Ismene.*.
 Adieu donc voyageuse.  
 
     ISMENE. 
@@ -3938,7 +3938,7 @@ Intrigueuse.
     JACINTE.
         Adieu donc fille garçonnisée⁎.  
 
-    RAGOTIN *à Jacinte.*
+    RAGOTIN *à Jacinte.*.
 Elle garçonnisée⁎, instruits-moy de son sens ?  
 
     JACINTE.
@@ -4047,7 +4047,7 @@ Ou du moins si tu veux tu pourras m'appeller.
 
 ## SCENE II.
 
-    ROBIN *seul.*
+    ROBIN *seul.*.
 Il a le Diable au corps de vouloir s'en aller.  
 Du Fidele Robin le bon-heur l'importune,  
 Il mourroit de regret si je faisois fortune,  
@@ -4118,14 +4118,14 @@ N'a-t-il point de regret de ce qu'il m'a perdue ?
 Ne veut-il pas me rendre une foy qui m'est duë ?  
 Agy. Par ton moyen si l'ingrat se resoud…  
 
-    ROBIN *parlant des Louys qu'il ne peut avoir.*
+    ROBIN *parlant des Louys qu'il ne peut avoir.*.
 Je suis trop mal-heureux pour en venir à bout.  
 
     ISMENE. 
 Toy qui sers cét ingrat, ne peux-tu faire en sorte,  
 Robin…  
 
-    ROBIN *parlant des Louys.*
+    ROBIN *parlant des Louys.*.
         Si je le puis, que le Diable m'emporte.  
 
     ISMENE.
@@ -4136,7 +4136,7 @@ J'ay mis tous mes plaisirs à respondre à sa flâme ;
 J'ay mis tous mes plaisirs au bon-heur d'estre unis ;  
 J'ay mis…  
 
-    ROBIN *parlant de Louys.*
+    ROBIN *parlant de Louys.*.
         Où Diable aussi les avez-vous là mis ?  
 
     ISMENE.
@@ -4145,12 +4145,12 @@ A son volage cœur je croyois estre chere ;
 J'avois en sa faveur des sentiments si doux,  
 Robin…  
 
-    ROBIN *songeant à ce qu'Ismene dit.*
+    ROBIN *songeant à ce qu'Ismene dit.*.
         Plais-il ? Quoy ? Qu'est-ce ? & que me dites-vous ?  
 Vous voulez voir mon Maistre, ayez soin de m'attendre.  
 Non, ne m'attendez pas, je l'appelle. Nicandre !  
 
-    LE PREMIER NICANDRE, *à une fenestre grillée.*
+    LE PREMIER NICANDRE, *à une fenestre grillée.*.
 Qui m'appelle ?  
 
     ROBIN.
@@ -4165,7 +4165,7 @@ Qui m'appelle ?
     LE PREMIER NICANDRE.
     Quy toy ?  
 
-    ROBIN
+    ROBIN.
         Moy.  
 
     LE PREMIER NICANDRE.
@@ -4186,7 +4186,7 @@ C'est elle.
     ROBIN.
         C'est elle.  
 
-    LE PREMIER NICANDRE
+    LE PREMIER NICANDRE.
 Qui que ce soit n'importe, il suffit qu'on m'appelle.  
 Je descends.  
 
@@ -4221,7 +4221,7 @@ Je t'ay fait mettre icy, tu le sçais ?
 Et sans perdre un moment en propos superflus,  
 Scachez…  
 
-    ROBIN *à Nicandre.*
+    ROBIN *à Nicandre.*.
         Depuis quand donc ne l'adorez-vous plus  
 Nostre cher ?  
 
@@ -4347,7 +4347,7 @@ Jusqu'au revoir.
 
 ## SCENE VI.
 
-    ROBIN *seul.*
+    ROBIN *seul.*.
         Et toy, le Bourreau te décole [206]  
 Fou des plus achevez, dont les sens abestis  
 Pensent… Mais des verroux j'entends le cliquetis,  
@@ -4358,7 +4358,7 @@ Quelqu'un entre.
 ROBIN, JACINTE.
 
 
-    ROBIN *appercevant Jacinte.*
+    ROBIN *appercevant Jacinte.*.
     Bon jour.  
 
     JACINTE.
@@ -4493,7 +4493,7 @@ Qu'il a changé de notte [212] au moment qu'il a veuë
     LE SECOND NICANDRE.
 Madame, à vostre aspect je me sens l'ame émeuë…  
 
-    ROBIN *à Jacinte.*
+    ROBIN *à Jacinte.*.
 L'ame émeuë ! Entends-tu ? Sans amour l'auroit-on ?  
 Que t'en semble ?  
 
@@ -4586,7 +4586,7 @@ Mon sort est déplorable, & mon sort seroit doux
 Si c'estoit mon Ismene aussi bien que c'est vous  
 Méchante.  
 
-    JACINTE *à Robin.*
+    JACINTE *à Robin.*.
         Qu'il est traistre ! & qu'il a de malice !  
 
     ROBIN.
@@ -4649,7 +4649,7 @@ Volage, il n'est plus temps de rien dissimuler.
     ROBIN. 
 S'il s'en peut demesler il n'est pas mal-habile.  
 
-    LE SECOND NICANDRE *à Eutrope.*
+    LE SECOND NICANDRE *à Eutrope.*.
 Monsieur…  
 
     ISMENE.
@@ -4673,7 +4673,7 @@ Lasche.
     ROBIN.
         C'est un fin Merle [217], il sçait bien d'autres tours.  
 
-    HIPOLITE *à Isidore.*
+    HIPOLITE *à Isidore.*.
 Parlez ; souffrirez-vous qu'il luy parle toujours ?  
 
     ISIDORE.
@@ -4796,7 +4796,7 @@ Qui des deux…
         C'est-moy-mesme, ô ma chere Hipolite,  
 C'est moi qui dans l'espoir de me voir vôtre Epoux…  
 
-    LE SECOND NICANDRE *à Ismene.*
+    LE SECOND NICANDRE *à Ismene.*.
 Hé bien, suis-je Madame infidelle pour vous ?  
 Rendez-moy vôtre amour, reprenez vostre haine.  
 
@@ -4878,7 +4878,7 @@ Tocque-là [227].
     JACINTE.
     Tien.  
 
-    ROBIN *aux deux Nicandres.*
+    ROBIN *aux deux Nicandres.*.
         Et vous avant vostre sortie  
 Allez dans une Chambre y conter vostre vie,  
 Et faites qu'en tous lieux on vous louë en ce point  
@@ -4898,16 +4898,16 @@ Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour. Signé E.
 *Les Exemplaires ont esté fournis.*
 
 
-# LexiqueAppas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. » (F)V. 43, 68, 203, 335, 573, 931, 1169, 1174, 1176, 1339, 1472.Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution. » (F)V. 199, 1173 et 1363.Aspre« Se dit figurément de certaines choses, pour en marquer la violence, la force, la rudesse. » (A)V. 39, 86 et 775.Bailler« Dire à quelqu'un des mensonges pour des vérités. » (A) « *En bailler d'une à quelqu'un.* Lui jouer un tour, le tromper. » (H).Aux vers 537 et 1034, le verbe est synonyme de gifler et est donc employé au sens figuré.Balotter« Agiter en gros une question, discuter une affaire, avant que d'opiner définitivement, ou de la juger. » (F)V. 182.Baragouiner« Parler une langue étrangère et inconnue, ou parler si mal, qu'on ne peut se faire entendre à ceux d'un pays. » (F)V. 838.Belistre« Gros gueux qui mendie par fainéantise, et qui pourrait bien gagner sa vie. Il se dit quelques fois par extension, des coquins qui n'ont ni bien ni honneur. » (F)Il est employé au sens large aux vers 414, 559.Biaiser« Se dit figurément de ceux qui cherchent des biais, des détours, de mauvaises finesses, des échappatoires pour sortir d'une méchante affaire ou pour surprendre quelqu'un. » (F)V. 109.Bigot« Hypocrite. » (F)V. 181, 188.Besoin (au)« Dans une circonstance critique, une situation difficile, une occasion grave ; dans le péril. » (C)V. 519.Botte (allonger une)« En terme d'escrime, (…) coup qu'on porte avec un fleuret. » (F)Didascalie III, 4.Bricoler« On dit (…) au figuré de ceux qui ne vont point droit dans les affaires, qu'ils ne font que fuir et *bricoler*, c'est-à-dire, amuser et tromper. » Le substantif signifie « une tromperie qu'on fait à quelqu'un. » (F)V. 109 et 677.Cartel« Ecrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé. » (F)V. 640, 675, 681, 690, 695.Céans« Ici, dedans, où je suis (…) il est assez fréquent au XVII*e* siècle. » A. Haase, *Syntaxe française*, p. 234.V. 1009, 1263.Celer« Tenir quelque chose cachée, secrète ; dissimuler. » (F)V. 1299.Chartre« En termes du Palais, est un vieux mot qui signifiait autrefois une prison. » (F)V. 854.Colet« Haut d'un pourpoint qui entoure le cou (…) se prend quelques fois improprement pour le cou même. » (F)V. 312.« On dit proverbialement *prendre, saisir quelqu'un au collet*, pour dire, l'arrêter et le faire prisonnier. » (A)V. 416 et 1184.Colloquer« Placer. » (F)V. 820.Concert (de)« Signifie figurément, l'accord de plusieurs personnes en l'exécution de quelque dessein. Agir *de concert*. »V. 220, 999.Creste« Mot burlesque pour dire tête. » (R)V. 537.Degré« Escalier, montée d'un bâtiment (…) marche. » (A)V. 316, 643.Diablezot« On dit … ironiquement à des hâbleurs, pour montrer qu'on ne croit rien de ce qu'ils disent, Au *Diable* zot. Il y a apparence que cela vient d'une imprécation tronquée, et qu'on a voulu dire, Allez au *Diable*, au *Diable*, on a retranché le dernier et le premier mot, et on a mis un z pour éviter la cacophonie, car le mot de *zot* n'est point de la langue, de sorte qu'il faut que ce soit une orthographe corrompue. » (F)V. 27.Donzelle« Terme burlesque qui se dit pour *Demoiselle*, mais il est odieux, et se prend ordinairement en mauvaise part. » (F)V. 261.Driller« Courir vite. C'est un terme bas et populaire, qui se dit des laquais, des soldats, des gueux qui s'enfuient, ou qu'on fait courir. » (F)V. 971.Emballeur« Se dit figurément des hâbleurs, qui disent plusieurs choses contre la vérité, qui inventent plusieurs histoires à plaisir, et qu'ils débitent aux crédules. » (F)V. 739.Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long. » (F)V. 7, 291, 688.Fat« Sot, sans esprit, qui ne dit que des fadaises. » (F)V. 711.FilouC'était le nom d'un jeu auquel il était facile de gagner. « Se dit par extension de tous ceux qui se servent de mauvaises voies pour s'emparer du bien d'autrui : comme de ceux qui sous prétexte de belles espérances trompent les gens imprudents et de bonne foi, en les engageant dans des affaires dont ils tirent tout le profit par devers eux. » (F)V. 757, 1263.Gageure« L'argent ou les gages qu'on a parié sur quelque contestation » (F)V. 497, 498.Gaillarde« Gai, joyeux. (…) Il se prend quelques fois en mauvaise part pour dire, un peu fou. » (A)V. 221.Gambade« Il signifie au figuré moquerie, raillerie. » (A)V. 292.Garçonnisé« Participe présent du verbe garçonniser, forgé à partir de *garçon*. » BaalbakiV. 1246, 1247.Gauberger« Se moquer de. » (H)V. 554.Gausseur« Moqueur, rieur. » (R)V. 423.Gémeaux« Qui est né avec un autre d'une même ventrée. On prononce maintenant *Jumeau*. » (F)Liste des personnages.Geole« Prison. » (F)V. 1445.Gibet« Lieu destiné pour exécuter les criminels. » (F)V. 244.Grison« Celui dont les cheveux commencent à blanchir. » (F) Il désigne Eutrope ou Isidore.V. 988 et 993.Guoguenarder« Qui est plaisant, qui a coutume de dire des mots pour rire. » (F)V. 301, 302.Heur« Chance, hasard favorable. » (D)V. 846.Sur l'Heure, toute à l'Heure« Tout de suite, dès à présent. » (R)V. 2, 421, 481.Holocauste« Sacrifice où on consomme entièrement l'hostie par le feu. (…) Se dit figurément pour victime. » (F)V. 856.Hymen« Mariage. » (F)V. 96.Impudent« Qui est insolent, effronté et sans honte. » (F)V. 451, 556 et 1210.Interdit, ite« Ceux qui se troublent, qui s'étonnent et qui ne sauraient parler raisonnablement. » (F)V. 41, 64, 339, 1484.Ladre« Signifie figurément en morale, avare, vilain et malpropre. » (F)V. 1201.Licou« Une têtière montée d'une longe de cuir pour attacher les chevaux, mulets, ou autres bêtes de râtelier, quand on les a débridées. » (F)V. 579.Lorgner« Regarder quelqu'un de travers et du coin de l'œil ; ce qui se fait quelques fois par mépris, par haine, par orgueil. » (F)V. 973.Maculé« *Terme d'imprimeur* (…) il signifie être trop noir. Barbouiller ». (R)Isidore l'emploi au v. 1226 au sens figuré.Malencontre« Ce qui arrive fortuitement, soit en bien, soit en mal. Un cas avantageux s'appelle bonne *encontre* ; un désavantageux *malencontre*. » (F)V. 593.Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. » (F)V. 294, 447, 981, 1139.Marouffle« Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. » (F)V. 703.Matois« Rusé, difficile à être trompé, adroit à tromper les autres. » (F)V. 113.Niaiser« Faire l'innocent. » (F)V. 59.Nenny« Adverbe négatif (…) il est bas. » (F)V. 293, 985, 1272, 1529.Noise« Querelle qui s'émeut entre gens du peuple, ou dans les familles. » (F)V. 793.Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)V. 7 ; sens moderne : v. 303.Pay« Silence. » (F)V. 150, 431, 1402.Peautre« On dit proverbialement à des importuns qu'on veut chasser loin de soi. Aller au *peautre*. » (F)V. 734.Pecore« Bête, stupide qui a du mal à concevoir quelque chose. » (F)V. 861.Penaud« Qui est confus, honteux, étonné pour quelque accident qui lui est arrivé, qui lui porte du désavantage. » (F)V. 1478.Picquer« Choses (…) qui nous choquent » (F)V. 379, 380, 489.Produire« Exposer à la vue, à la connaissance, à l'examen. » (A)V. 664.Poussecus« Terme odieux dont on qualifie les Records⁎ des Sergents, et autres qui servent à mettre et à pousser les gens en prison. » (F)V. 235 et 996.Railler« Faire des reproches plaisants et agréables à quelqu'un sans avoir dessein de l'offenser. » (F)V. 107, 302, 822, 1045, 1435, didascalie I, 7.Recepte« Action par laquelle on reçoit ce qui est dû (…) charge du Receveur⁎. » (F)V. 491, 1300.Receveur« Qui reçoit pour autrui. » (F)V. 1299.Record« Aide de Sergent, celui qui l'assiste, lorsqu'il va faire quelque exploit, ou exécution, qui lui sert de témoin, et qui lui prête main forte. » (F)V. 413.Réminiscence« Ressouvenir⁎. Renouvellement d'une idée presque effacée. » (A)V. 821.RenégatCelui « qui a renoncé à la foi de JESUS-CHRIST pour embrasser une autre Religion » (F), un traître.V. 1364.Ressouvenir« Ce qui demeure en la mémoire. » (F)V. 534 et 947.Saison (de)« Temps convenable pour faire quelque chose. » (F)V. 603 et 872.Selon« Quand on est questionné sur l'avenir, il faut répondre, C'est *selon*, pour dire, *selon* qu'il plaira à Dieu. » (F)Jacinte utilise cette expression pour éviter de donner une réponse claire à Ismène, la rivale de sa maîtresse aux vers 123-124 et Ismène l'emploie au vers 677. La préposition est employée au sens moderne au vers 647.Sépulcre« Tombeau, monument, lieu destiné à enterrer les corps des défunts. » (F)V. 1533.Sevrer« Priver, frustrer quelqu'un de quelque chose » (A)V. 1456.Soucy« Chagrin, inquiétude d'esprit. » (F)V. 167, 1147.Suborner« Corrompre, porter quelqu'un au mal. » (F)V. 740, 943, 985.Succez« Réussite, issue d'une affaire. Il se dit en bonne et mauvaise part. » (F)V. 940.Superficie« Ce qui se présente à nos yeux » (F), l'apparence.V. 130.Surprendre« Attraper (…) obtenir frauduleusement par artifice⁎. » (A)V. 37, 112, 1476 ; il est utilisé au sens moderne aux vers 161, 231, 425, 1025, 1158, 1205, 1379.Tendron« Mot burlesque pour dire *une jeune fille*. Fille jeune et jolie. » (R)V. 1401.Zeste« On dit populairement, quand on veut rejeter ce qu'un homme dit, qu'on s'en veut moquer *Zest*. » (A)V. 698, 702.
+# Lexique.Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. » (F)V. 43, 68, 203, 335, 573, 931, 1169, 1174, 1176, 1339, 1472.Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution. » (F)V. 199, 1173 et 1363.Aspre« Se dit figurément de certaines choses, pour en marquer la violence, la force, la rudesse. » (A)V. 39, 86 et 775.Bailler« Dire à quelqu'un des mensonges pour des vérités. » (A) « *En bailler d'une à quelqu'un.* Lui jouer un tour, le tromper. » (H).Aux vers 537 et 1034, le verbe est synonyme de gifler et est donc employé au sens figuré.Balotter« Agiter en gros une question, discuter une affaire, avant que d'opiner définitivement, ou de la juger. » (F)V. 182.Baragouiner« Parler une langue étrangère et inconnue, ou parler si mal, qu'on ne peut se faire entendre à ceux d'un pays. » (F)V. 838.Belistre« Gros gueux qui mendie par fainéantise, et qui pourrait bien gagner sa vie. Il se dit quelques fois par extension, des coquins qui n'ont ni bien ni honneur. » (F)Il est employé au sens large aux vers 414, 559.Biaiser« Se dit figurément de ceux qui cherchent des biais, des détours, de mauvaises finesses, des échappatoires pour sortir d'une méchante affaire ou pour surprendre quelqu'un. » (F)V. 109.Bigot« Hypocrite. » (F)V. 181, 188.Besoin (au)« Dans une circonstance critique, une situation difficile, une occasion grave ; dans le péril. » (C)V. 519.Botte (allonger une)« En terme d'escrime, (…) coup qu'on porte avec un fleuret. » (F)Didascalie III, 4.Bricoler« On dit (…) au figuré de ceux qui ne vont point droit dans les affaires, qu'ils ne font que fuir et *bricoler*, c'est-à-dire, amuser et tromper. » Le substantif signifie « une tromperie qu'on fait à quelqu'un. » (F)V. 109 et 677.Cartel« Ecrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé. » (F)V. 640, 675, 681, 690, 695.Céans« Ici, dedans, où je suis (…) il est assez fréquent au XVII*e* siècle. » A. Haase, *Syntaxe française*, p. 234.V. 1009, 1263.Celer« Tenir quelque chose cachée, secrète ; dissimuler. » (F)V. 1299.Chartre« En termes du Palais, est un vieux mot qui signifiait autrefois une prison. » (F)V. 854.Colet« Haut d'un pourpoint qui entoure le cou (…) se prend quelques fois improprement pour le cou même. » (F)V. 312.« On dit proverbialement *prendre, saisir quelqu'un au collet*, pour dire, l'arrêter et le faire prisonnier. » (A)V. 416 et 1184.Colloquer« Placer. » (F)V. 820.Concert (de)« Signifie figurément, l'accord de plusieurs personnes en l'exécution de quelque dessein. Agir *de concert*. »V. 220, 999.Creste« Mot burlesque pour dire tête. » (R)V. 537.Degré« Escalier, montée d'un bâtiment (…) marche. » (A)V. 316, 643.Diablezot« On dit … ironiquement à des hâbleurs, pour montrer qu'on ne croit rien de ce qu'ils disent, Au *Diable* zot. Il y a apparence que cela vient d'une imprécation tronquée, et qu'on a voulu dire, Allez au *Diable*, au *Diable*, on a retranché le dernier et le premier mot, et on a mis un z pour éviter la cacophonie, car le mot de *zot* n'est point de la langue, de sorte qu'il faut que ce soit une orthographe corrompue. » (F)V. 27.Donzelle« Terme burlesque qui se dit pour *Demoiselle*, mais il est odieux, et se prend ordinairement en mauvaise part. » (F)V. 261.Driller« Courir vite. C'est un terme bas et populaire, qui se dit des laquais, des soldats, des gueux qui s'enfuient, ou qu'on fait courir. » (F)V. 971.Emballeur« Se dit figurément des hâbleurs, qui disent plusieurs choses contre la vérité, qui inventent plusieurs histoires à plaisir, et qu'ils débitent aux crédules. » (F)V. 739.Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long. » (F)V. 7, 291, 688.Fat« Sot, sans esprit, qui ne dit que des fadaises. » (F)V. 711.FilouC'était le nom d'un jeu auquel il était facile de gagner. « Se dit par extension de tous ceux qui se servent de mauvaises voies pour s'emparer du bien d'autrui : comme de ceux qui sous prétexte de belles espérances trompent les gens imprudents et de bonne foi, en les engageant dans des affaires dont ils tirent tout le profit par devers eux. » (F)V. 757, 1263.Gageure« L'argent ou les gages qu'on a parié sur quelque contestation » (F)V. 497, 498.Gaillarde« Gai, joyeux. (…) Il se prend quelques fois en mauvaise part pour dire, un peu fou. » (A)V. 221.Gambade« Il signifie au figuré moquerie, raillerie. » (A)V. 292.Garçonnisé« Participe présent du verbe garçonniser, forgé à partir de *garçon*. » BaalbakiV. 1246, 1247.Gauberger« Se moquer de. » (H)V. 554.Gausseur« Moqueur, rieur. » (R)V. 423.Gémeaux« Qui est né avec un autre d'une même ventrée. On prononce maintenant *Jumeau*. » (F)Liste des personnages.Geole« Prison. » (F)V. 1445.Gibet« Lieu destiné pour exécuter les criminels. » (F)V. 244.Grison« Celui dont les cheveux commencent à blanchir. » (F) Il désigne Eutrope ou Isidore.V. 988 et 993.Guoguenarder« Qui est plaisant, qui a coutume de dire des mots pour rire. » (F)V. 301, 302.Heur« Chance, hasard favorable. » (D)V. 846.Sur l'Heure, toute à l'Heure« Tout de suite, dès à présent. » (R)V. 2, 421, 481.Holocauste« Sacrifice où on consomme entièrement l'hostie par le feu. (…) Se dit figurément pour victime. » (F)V. 856.Hymen« Mariage. » (F)V. 96.Impudent« Qui est insolent, effronté et sans honte. » (F)V. 451, 556 et 1210.Interdit, ite« Ceux qui se troublent, qui s'étonnent et qui ne sauraient parler raisonnablement. » (F)V. 41, 64, 339, 1484.Ladre« Signifie figurément en morale, avare, vilain et malpropre. » (F)V. 1201.Licou« Une têtière montée d'une longe de cuir pour attacher les chevaux, mulets, ou autres bêtes de râtelier, quand on les a débridées. » (F)V. 579.Lorgner« Regarder quelqu'un de travers et du coin de l'œil ; ce qui se fait quelques fois par mépris, par haine, par orgueil. » (F)V. 973.Maculé« *Terme d'imprimeur* (…) il signifie être trop noir. Barbouiller ». (R)Isidore l'emploi au v. 1226 au sens figuré.Malencontre« Ce qui arrive fortuitement, soit en bien, soit en mal. Un cas avantageux s'appelle bonne *encontre* ; un désavantageux *malencontre*. » (F)V. 593.Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. » (F)V. 294, 447, 981, 1139.Marouffle« Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. » (F)V. 703.Matois« Rusé, difficile à être trompé, adroit à tromper les autres. » (F)V. 113.Niaiser« Faire l'innocent. » (F)V. 59.Nenny« Adverbe négatif (…) il est bas. » (F)V. 293, 985, 1272, 1529.Noise« Querelle qui s'émeut entre gens du peuple, ou dans les familles. » (F)V. 793.Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)V. 7 ; sens moderne : v. 303.Pay« Silence. » (F)V. 150, 431, 1402.Peautre« On dit proverbialement à des importuns qu'on veut chasser loin de soi. Aller au *peautre*. » (F)V. 734.Pecore« Bête, stupide qui a du mal à concevoir quelque chose. » (F)V. 861.Penaud« Qui est confus, honteux, étonné pour quelque accident qui lui est arrivé, qui lui porte du désavantage. » (F)V. 1478.Picquer« Choses (…) qui nous choquent » (F)V. 379, 380, 489.Produire« Exposer à la vue, à la connaissance, à l'examen. » (A)V. 664.Poussecus« Terme odieux dont on qualifie les Records⁎ des Sergents, et autres qui servent à mettre et à pousser les gens en prison. » (F)V. 235 et 996.Railler« Faire des reproches plaisants et agréables à quelqu'un sans avoir dessein de l'offenser. » (F)V. 107, 302, 822, 1045, 1435, didascalie I, 7.Recepte« Action par laquelle on reçoit ce qui est dû (…) charge du Receveur⁎. » (F)V. 491, 1300.Receveur« Qui reçoit pour autrui. » (F)V. 1299.Record« Aide de Sergent, celui qui l'assiste, lorsqu'il va faire quelque exploit, ou exécution, qui lui sert de témoin, et qui lui prête main forte. » (F)V. 413.Réminiscence« Ressouvenir⁎. Renouvellement d'une idée presque effacée. » (A)V. 821.RenégatCelui « qui a renoncé à la foi de JESUS-CHRIST pour embrasser une autre Religion » (F), un traître.V. 1364.Ressouvenir« Ce qui demeure en la mémoire. » (F)V. 534 et 947.Saison (de)« Temps convenable pour faire quelque chose. » (F)V. 603 et 872.Selon« Quand on est questionné sur l'avenir, il faut répondre, C'est *selon*, pour dire, *selon* qu'il plaira à Dieu. » (F)Jacinte utilise cette expression pour éviter de donner une réponse claire à Ismène, la rivale de sa maîtresse aux vers 123-124 et Ismène l'emploie au vers 677. La préposition est employée au sens moderne au vers 647.Sépulcre« Tombeau, monument, lieu destiné à enterrer les corps des défunts. » (F)V. 1533.Sevrer« Priver, frustrer quelqu'un de quelque chose » (A)V. 1456.Soucy« Chagrin, inquiétude d'esprit. » (F)V. 167, 1147.Suborner« Corrompre, porter quelqu'un au mal. » (F)V. 740, 943, 985.Succez« Réussite, issue d'une affaire. Il se dit en bonne et mauvaise part. » (F)V. 940.Superficie« Ce qui se présente à nos yeux » (F), l'apparence.V. 130.Surprendre« Attraper (…) obtenir frauduleusement par artifice⁎. » (A)V. 37, 112, 1476 ; il est utilisé au sens moderne aux vers 161, 231, 425, 1025, 1158, 1205, 1379.Tendron« Mot burlesque pour dire *une jeune fille*. Fille jeune et jolie. » (R)V. 1401.Zeste« On dit populairement, quand on veut rejeter ce qu'un homme dit, qu'on s'en veut moquer *Zest*. » (A)V. 698, 702.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Les sources
+## Les sources.
 
 
-### Œuvres de l'auteurLes Cadenas ou le Jaloux endormi
+### Œuvres de l'auteur.Les Cadenas ou le Jaloux endormi
 Le Mort vivant
 Le Portrait du peintre
 Le Médecin volant
@@ -4916,7 +4916,7 @@ Pièces de théâtre de M. Boursault
 
 
 
-### Œuvres antérieures et contemporaines à BoursaultŒuvres complètes
+### Œuvres antérieures et contemporaines à Boursault.Œuvres complètes
 Avertissement du Théâtre, nouvelle édition
 Biblioteque des theatres
 Comédies, Les Ménechmes
@@ -4926,13 +4926,13 @@ Les Ménechmes
 
 
 
-## Instruments de travail et études critiques
+## Instruments de travail et études critiques.
 
 
-### Instruments de travail
+### Instruments de travail.
 
 
-#### DictionnairesDictionnaire
+#### Dictionnaires.Dictionnaire
 Le Français classique, Lexique de la langue du dix-septième siècle
 Dictionnaire encyclopédique du théâtre
 Dictionnaire du français classique, Le XVII*e* siècle
@@ -4950,7 +4950,7 @@ Dictionnaire françois contenant les mots et les choses plusieurs nouvelles rema
 
 
 
-#### GrammairesHistoire de la langue française des origines à nos joursLa langue classique 1660-1715
+#### Grammaires.Histoire de la langue française des origines à nos joursLa langue classique 1660-1715
 Grammaire du français classique
 Syntaxe française du XVII*e* siècle
 L'Art de bien prononcer et de bien parler la langue françoise (1687
@@ -4960,15 +4960,15 @@ Remarque sur la langue française (1647)
 
 
 
-#### BibliographiesBibliographie de la littérature française du dix-septième siècle
+#### Bibliographies.Bibliographie de la littérature française du dix-septième siècle
 Bibliographie d'histoire littéraire française
 
 
 
-### Études
+### Études.
 
 
-#### Histoire littéraireHistoire de la littérature au XVII*e* siècle
+#### Histoire littéraire.Histoire de la littérature au XVII*e* siècle
 Le Genre burlesque en France au XVII*e* siècle
 Esthétique théâtrale
 Le Théâtre françois
@@ -4980,7 +4980,7 @@ La Vie quotidienne des parisiens au temps du Roi-Soleil 1660-1715
 
 
 
-#### À propos de la comédieLa Comédie de l'âge classique (1630-1710)
+#### À propos de la comédie.La Comédie de l'âge classique (1630-1710)
 Lire la comédie
 L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
 Le Théâtre de l'Hôtel de Bourgogne 1548-1680
@@ -5003,7 +5003,7 @@ Lire le théâtre II, L'Ecole du spectateur
 
 
 
-#### À propos de l'auteurRecherches sur le lexique d'Edme Boursault
+#### À propos de l'auteur.Recherches sur le lexique d'Edme Boursault
 La Dramaturgie d'Edme Boursault
 Un journaliste, Edme Boursault, dans Autour du dix-septième siècle
 Théâtre choisi

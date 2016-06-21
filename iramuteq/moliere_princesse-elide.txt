@@ -338,10 +338,10 @@ Est le temps que Moron pour déclarer mon feu,
 A pris…
 
 -*who_arbate
-Moron, Seigneur.
+      Moron, Seigneur.
 
 -*who_euryale
-Ce choix t'étonne un peu ;
+      Ce choix t'étonne un peu ;
 Par son titre de fou tu crois le bien connaître,
 Mais sache qu'il l'est moins qu'il ne le veut paraître,
 Et que malgré l'emploi qu'il exerce aujourd'hui
@@ -367,7 +367,7 @@ Au secours ! sauvez-moi de la bête cruelle !
 Je pense ouïr sa voix ?
 
 -*who_moron
-À moi, de grâce, à moi !
+      À moi, de grâce, à moi !
 
 -*who_euryale
 C'est lui-même, où court-il avec un tel effroi ?
@@ -380,10 +380,10 @@ Quatre livres d'encens, et deux veaux des plus gras.
 Ha ! je suis mort !
 
 -*who_euryale
-Qu'as-tu ?
+      Qu'as-tu ?
 
 -*who_moron
-Je vous croyais la bête
+      Je vous croyais la bête
 Dont à me diffamer j'ai vu la gueule prête,
 Seigneur, et je ne puis revenir de ma peur.
 
@@ -391,7 +391,7 @@ Seigneur, et je ne puis revenir de ma peur.
 Qu'est-ce ?
 
 -*who_moron
-Ô ! que la Princesse est d'une étrange humeur !
+      Ô ! que la Princesse est d'une étrange humeur !
 Et qu'à suivre la Chasse et ses extravagances
 Il nous faut essuyer de sottes complaisances !
 Quel Diable de plaisir trouvent tous les Chasseurs
@@ -409,7 +409,7 @@ C'est un sot passe-temps que je ne puis souffrir.
 Dis-nous donc ce que c'est ?
 
 -*who_moron
-Le pénible exercice
+      Le pénible exercice
 Où de notre Princesse a volé le caprice !…
 J'en aurais bien juré qu'elle aurait fait le tour,
 Et la Course des Chars se faisant en ce jour,
@@ -420,7 +420,7 @@ Et reprenons le fil de ce que j'avais dit.
 Qu'ai-je dit ?
 
 -*who_euryale
-Tu parlais d'exercice pénible.
+      Tu parlais d'exercice pénible.
 
 -*who_moron
 Ah ! oui, succombant donc à ce travail horrible ;
@@ -436,10 +436,10 @@ Vu sortir un Sanglier d'une énorme grandeur
 Pour…
 
 -*who_euryale
-Qu'est-ce ?
+      Qu'est-ce ?
 
 -*who_moron
-Ce n'est rien, n'ayez point de frayeur !
+      Ce n'est rien, n'ayez point de frayeur !
 Mais laissez-moi passer entre vous deux pour cause,
 Je serai mieux en main pour vous conter la chose :
 J'ai donc vu ce Sanglier, qui par nos gens chassé
@@ -456,7 +456,7 @@ Est venu droit à moi, qui ne lui disais mot.
 Et tu l'as de pied ferme attendu ?
 
 -*who_moron
-Quelque sot,
+      Quelque sot,
 J'ai jeté tout par terre, et couru comme quatre.
 
 -*who_arbate
@@ -464,7 +464,7 @@ Fuir devant un Sanglier ayant de quoi l'abattre,
 Ce trait, Moron, n'est pas généreux…
 
 -*who_moron
-J'y consens,
+      J'y consens,
 Il n'est pas généreux, mais il est de bon sens.
 
 -*who_arbate
@@ -483,7 +483,7 @@ Par un coup de ses dents vit terminer son sort.
 Fort bien…
 
 -*who_moron
-Oui, j'aime mieux, n'en déplaise à la gloire,
+      Oui, j'aime mieux, n'en déplaise à la gloire,
 Vivre au monde deux jours que mille ans dans l'histoire.
 
 -*who_euryale
@@ -574,7 +574,7 @@ J'en ai mis bas, sans vous, de plus méchants que lui.
 Mais, Madame…
 
 -*who_princesse_elide
-Hé bien, soit, je vois que votre envie
+      Hé bien, soit, je vois que votre envie
 Est de persuader que je vous dois la vie ;
 J'y consens ; oui sans vous c'était fait de mes jours,
 Je rends de tout mon cœur grâce à ce grand secours,
@@ -600,7 +600,7 @@ Il faut qu'avant la course elle apprenne vos feux
 Et je…
 
 -*who_euryale
-Non, ce n'est plus, Moron, ce que je veux ;
+      Non, ce n'est plus, Moron, ce que je veux ;
 Garde-toi de rien dire, et me laisse un peu faire,
 J'ai résolu de prendre un chemin tout contraire ;
 Je vois trop que son cœur s'obstine à dédaigner
@@ -1665,6 +1665,7 @@ Seigneur, la Déesse Vénus vient d'annoncer partout le changement du cœur de l
 **** *book_ *id_Vb *date_1664 *creator_moliere
 
 Sixième Intermède
+
 Usez mieux, ô ! beautés fières !
 Du pouvoir de tout charmer ;
 Aimez, aimables Bergères,
@@ -1673,6 +1674,7 @@ Quelque fort qu'on s'en défende,
 Il y faut venir un jour :
 Il n'est rien qui ne se rende
 Aux doux charmes de l'Amour.
+
 Songez de bonne heure à suivre
 Le plaisir de s'enflammer,
 Un cœur ne commence à vivre

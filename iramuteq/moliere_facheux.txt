@@ -142,7 +142,7 @@ En revanche, lui fait un rien de tous vos crimes.
 Mais, tout de bon, crois‑tu que je sois d'elle aimé ?
 
 -*who_montagne
-Quoi ? vous doutez encor d'un amour confirmé...
+Quoi ? vous doutez encor d'un amour confirmé…
 
 -*who_eraste
 Ah c'est malaisément qu'en pareille matière,
@@ -158,29 +158,29 @@ Monsieur, votre rabat par devant se sépare.
 N'importe.
 
 -*who_montagne
-Laissez‑moi l'ajuster, s'il vous plaît.
+      Laissez‑moi l'ajuster, s'il vous plaît.
 
 -*who_eraste
 Ouf, tu m'étrangles, fat, laisse-le, comme il est.
 
 -*who_montagne
-Souffrez qu'on peigne un peu...
+Souffrez qu'on peigne un peu…
 
 -*who_eraste
       Sottise sans pareille !
 Tu m'as, d'un coup de dent, presque emporté l'oreille.
 
 -*who_montagne
-Vos canons...
+Vos canons…
 
 -*who_eraste
-Laisse-les ; tu prends trop de souci.
+      Laisse-les ; tu prends trop de souci.
 
 -*who_montagne
 Ils sont tout chiffonnés.
 
 -*who_eraste
-Je veux qu'ils soient ainsi.
+      Je veux qu'ils soient ainsi.
 
 -*who_montagne
 Accordez‑moi du moins, pour grâce singulière,
@@ -196,19 +196,19 @@ Le voulez-vous porter fait comme le voilà ?
 Mon Dieu dépêche-toi.
 
 -*who_montagne
-Ce serait conscience.
+      Ce serait conscience.
 
 -*who_eraste
 C'est assez.
 
 -*who_montagne
-Donnez-vous un peu de patience.
+      Donnez-vous un peu de patience.
 
 -*who_eraste
 Il me tue.
 
 -*who_montagne
-En quel lieu vous êtes‑vous fourré ?
+      En quel lieu vous êtes‑vous fourré ?
 
 -*who_eraste
 T'es-tu de ce chapeau pour toujours emparé ?
@@ -217,20 +217,20 @@ T'es-tu de ce chapeau pour toujours emparé ?
 C'est fait.
 
 -*who_eraste
-Donne-moi donc.
+      Donne-moi donc.
 
 -*who_montagne
-Hay !
+      Hay !
 
 -*who_eraste
-Le voilà par terre :
+      Le voilà par terre :
 Je suis fort avancé : que la fièvre te serre.
 
 -*who_montagne
 Permettez qu'en deux coups j'ôte…
 
 -*who_eraste
-Il ne me plaît pas.
+      Il ne me plaît pas.
 Au diantre tout valet qui vous est sur les bras ;
 Qui fatigue son Maître, et ne fait que déplaire
 À force de vouloir trancher du nécessaire.
@@ -255,7 +255,7 @@ Que dois-je présumer ? parle, qu'en penses‑tu ?
 Dis-moi ton sentiment.
 
 -*who_montagne
-Monsieur, je veux me taire,
+      Monsieur, je veux me taire,
 Et ne désire point trancher du nécessaire.
 
 -*who_eraste
@@ -266,10 +266,10 @@ Vois ce qu'ils deviendront, et ne les quitte pas.
 Il faut suivre de loin ?
 
 -*who_eraste
-Oui.
+      Oui.
 
 -*who_montagne
-Sans que l'on me voie,
+      Sans que l'on me voie,
 Ou faire aucun semblant qu'après eux on m'envoie.
 
 -*who_eraste
@@ -280,7 +280,7 @@ Que par mon ordre exprès ils sont de toi suivis.
 Vous trouverai-je ici ?
 
 -*who_eraste
-Que le Ciel te confonde,
+      Que le Ciel te confonde,
 Homme, à mon sentiment, le plus fâcheux du monde.
 Ah ! que je sens de trouble, et qu'il m'eût été doux,
 Qu'on me l'eût fait manquer, ce fatal rendez-vous.
@@ -304,14 +304,14 @@ La, la, hem, hem : écoute avec soin, je te prie.
 N'est-elle pas belle ?
 
 -*who_eraste
-Ah !
+      Ah !
 
 -*who_lysandre
-Cette fin est jolie.
+      Cette fin est jolie.
 Comment la trouves-tu ?
 
 -*who_eraste
-Fort belle assurément.
+      Fort belle assurément.
 
 -*who_lysandre
 Les pas que j'en ai faits n'ont pas moins d'agrément,
@@ -324,7 +324,7 @@ Dos à dos : face à face, en se pressant sur elle.
 Que t'en semble Marquis ?
 
 -*who_eraste
-Tous ces pas-là sont fins.
+      Tous ces pas-là sont fins.
 
 -*who_lysandre
 Je me moque, pour moi, des maîtres Baladins.
@@ -333,10 +333,10 @@ Je me moque, pour moi, des maîtres Baladins.
 On le voit.
 
 -*who_lysandre
-Les pas donc…
+      Les pas donc…
 
 -*who_eraste
-N'ont rien qui ne surprenne.
+      N'ont rien qui ne surprenne.
 
 -*who_lysandre
 Veux-tu, par amitié, que je te les apprenne ?
@@ -353,7 +353,7 @@ Nous les lirions ensemble, et verrions les plus belles.
 Une autre fois.
 
 -*who_lysandre
-Adieu, Baptiste le très cher
+      Adieu, Baptiste le très cher
 N'a point vu ma courante, et je le vais chercher.
 Nous avons, pour les airs, de grandes sympathies,
 Et je veux le prier d'y faire des parties.
@@ -401,7 +401,7 @@ Celui dont l'entretien vous a fait, à ma vue,
 Passer…
 
 -*who_orphise
-C'est de cela, que votre âme est émue ?
+      C'est de cela, que votre âme est émue ?
 
 -*who_eraste
 Insultez inhumaine, encore à mon malheur.
@@ -450,7 +450,7 @@ Je saurai de ma part…
 **** *book_ *id_I06 *act_I *date_1661 *creator_moliere
 
 -*who_alcandre
-Marquis, un mot. Madame,
+      Marquis, un mot. Madame,
 De grâce pardonnez, si je suis indiscret,
 En osant, devant vous, lui parler en secret.
 Avec peine, Marquis, je te fais la prière ;
@@ -484,7 +484,7 @@ Où donc s'est retiré cet objet de mes vœux ?
 Je ne sais.
 
 -*who_eraste
-Pour savoir où la belle est allée,
+      Pour savoir où la belle est allée,
 Va-t-en chercher partout, j'attends dans cette allée.
 
 **** *book_ *id_II01 *act_II *date_1661 *creator_moliere
@@ -507,7 +507,7 @@ Que mon Valet encor ne soit point retourné.
 Bonjour.
 
 -*who_eraste
-Eh quoi toujours ma flamme divertie !
+      Eh quoi toujours ma flamme divertie !
 
 -*who_alcipe
 Console-moi, Marquis, d'une étrange partie,
@@ -551,7 +551,7 @@ Tiens, c'est ici mon port, comme je te l'ai dit ;
 Et voici…
 
 -*who_eraste
-J'ai compris le tout, par ton récit,
+      J'ai compris le tout, par ton récit,
 Et vois de la justice au transport qui t'agite ;
 Mais, pour certaine affaire, il faut que je te quitte :
 Adieu console-toi, pourtant, de ton malheur.
@@ -563,7 +563,7 @@ Je le veux faire, moi, voir à toute la terre.
 Un six de cœur ! deux points !
 
 -*who_eraste
-En quel lieu sommes-nous !
+      En quel lieu sommes-nous !
 De quelque part qu'on tourne, on ne voit que des fous.
 Ah ! que tu fais languir ma juste impatience.
 
@@ -584,13 +584,13 @@ Et quoi ? déjà mon cœur après ce mot soupire,
 Parle.
 
 -*who_montagne
-Souhaitez-vous de savoir ce que c'est ?
+      Souhaitez-vous de savoir ce que c'est ?
 
 -*who_eraste
 Oui, dis vite.
 
 -*who_montagne
-Monsieur, attendez, s'il vous plaît.
+      Monsieur, attendez, s'il vous plaît.
 Je me suis, à courir, presque mis hors d'haleine.
 
 -*who_eraste
@@ -599,40 +599,40 @@ Prends-tu quelque plaisir à me tenir en peine ?
 -*who_montagne
 Puisque vous désirez de savoir promptement
 L'ordre que j'ai reçu de cet objet charmant,
-Je vous dirai... Ma foi, sans vous vanter mon zèle,
+Je vous dirai… Ma foi, sans vous vanter mon zèle,
 J'ai bien fait du chemin, pour trouver cette belle,
 Et si…
 
 -*who_eraste
-Peste soit fait de tes digressions.
+      Peste soit fait de tes digressions.
 
 -*who_montagne
 Ah ! il faut modérer un peu ses passions,
 Et Sénèque…
 
 -*who_eraste
-Sénèque est un sot dans ta bouche,
+      Sénèque est un sot dans ta bouche,
 Puisqu'il ne me dit rien de tout ce qui me touche.
 Dis-moi ton ordre, tôt.
 
 -*who_montagne
-Pour contenter vos vœux,
+      Pour contenter vos vœux,
 Votre Orphise… Une bête est là dans vos cheveux.
 
 -*who_eraste
 Laisse.
 
 -*who_montagne
-Cette beauté de sa part vous fait dire…
+      Cette beauté de sa part vous fait dire…
 
 -*who_eraste
 Quoi !
 
 -*who_montagne
-Devinez.
+      Devinez.
 
 -*who_eraste
-Sais-tu que je ne veux pas rire ?
+      Sais-tu que je ne veux pas rire ?
 
 -*who_montagne
 Son ordre est qu'en ce lieu vous devez vous tenir,
@@ -681,7 +681,7 @@ Nous savons que chacun vous donne à juste titre…
 Hé de grâce…
 
 -*who_orante
-En un mot vous serez notre arbitre,
+      En un mot vous serez notre arbitre,
 Et ce sont deux moments qu'il vous faut nous donner.
 
 -*who_climene
@@ -793,7 +793,7 @@ Le jaloux aime plus, et l'autre aime bien mieux.
 L'arrêt est plein d'esprit ; mais…
 
 -*who_eraste
-Suffit, j'en suis quitte.
+      Suffit, j'en suis quitte.
 Après ce que j'ai dit, souffrez que je vous quitte.
 
 **** *book_ *id_II05 *act_II *date_1661 *creator_moliere
@@ -812,7 +812,7 @@ Et me reprochez-vous ce qu'on me fait souffrir ?
 Ha ! de grâce attendez…
 
 -*who_orphise
-Laissez-moi, je vous prie,
+      Laissez-moi, je vous prie,
 Et courez vous rejoindre à votre compagnie.
 
 -*who_eraste
@@ -827,7 +827,7 @@ Et faisons à ses yeux briller notre innocence.
 Ha Marquis que l'on voit de Fâcheux tous les jours,
 Venir de nos plaisirs interrompre le cours !
 Tu me vois enragé d'une assez belle chasse,
-Qu'un fat... C'est un récit qu'il faut que je te fasse.
+Qu'un fat… C'est un récit qu'il faut que je te fasse.
 
 -*who_eraste
 Je cherche ici quelqu'un, et ne puis m'arrêter.
@@ -870,7 +870,7 @@ La vieille meute ; et moi, je prends en diligence
 Mon Cheval Alezan. Tu l'as vu ?
 
 -*who_eraste
-Non je pense.
+      Non je pense.
 
 -*who_dorante
 Comment ? C'est un Cheval aussi bon qu'il est beau,
@@ -946,12 +946,12 @@ C'est ainsi des Fâcheux, qu'il faut qu'on se sépare ;
 Adieu.
 
 -*who_dorante
-Quand tu voudras, nous irons quelque part,
+      Quand tu voudras, nous irons quelque part,
 Où nous ne craindrons point de chasseur Campagnard.
 
 -*who_eraste
 Fort bien. Je crois qu'enfin je perdrai patience.
-Cherchons à m'excuser avecque diligence.
+Cherchons à m'excuser avec diligence.
 
 **** *book_ *id_III01 *act_III *date_1661 *creator_moliere
 
@@ -979,21 +979,21 @@ Puis, je veux m'y trouver plutôt avant qu'après.
 Suivrai-je vos pas ?
 
 -*who_eraste
-Non, je craindrais que peut-être
+      Non, je craindrais que peut-être
 À quelques yeux suspects, tu me fisses connaître.
 
 -*who_montagne
 Mais…
 
 -*who_eraste
-Je ne le veux pas.
+      Je ne le veux pas.
 
 -*who_montagne
-Je dois suivre vos lois :
+      Je dois suivre vos lois :
 Mais au moins si de loin…
 
 -*who_eraste
-Te tairas-tu, vingt fois ?
+      Te tairas-tu, vingt fois ?
 Et ne veux-tu jamais quitter cette méthode,
 De te rendre, à toute heure, un valet incommode !
 
@@ -1014,22 +1014,22 @@ Monsieur, souhaitez-vous quelque chose de moi ?
 
 -*who_caritides
 Je m'acquitte, Monsieur, de ce que je vous dois ;
-Et vous viens... Excusez l'audace, qui m'inspire,
+Et vous viens… Excusez l'audace, qui m'inspire,
 Si…
 
 -*who_eraste
-Sans tant de façons, qu'avez-vous à me dire ?
+      Sans tant de façons, qu'avez-vous à me dire ?
 
 -*who_caritides
 Comme le rang, l'esprit, la générosité,
 Que chacun vante en vous…
 
 -*who_eraste
-Oui je suis fort vanté,
+      Oui je suis fort vanté,
 Passons, Monsieur.
 
 -*who_caritides
-Monsieur, c'est une peine extrême,
+      Monsieur, c'est une peine extrême,
 Lorsqu'il faut à quelqu'un se produire soi-même,
 Et toujours, près des Grands, on doit être introduit,
 Par des gens, qui de nous fassent un peu de bruit ;
@@ -1088,12 +1088,12 @@ Eh bien donnez-moi donc, je le présenterai.
 Le voici ; mais au moins oyez-en la lecture.
 
 -*who_eraste
-Non...
+Non…
 
 -*who_caritides
-C'est pour être instruit : Monsieur, je vous conjure.
+      C'est pour être instruit : Monsieur, je vous conjure.
 
-Sire,
+SIRE,
 
 Votre très humble, très obéissant, très fidèle, et très savant sujet et serviteur Caritidès, Français de nation, Grec de profession ; Ayant considéré les grands et notables abus, qui se commettent aux inscriptions des enseignes des Maisons, Boutiques, Cabarets, Jeux de Boule, et autres lieux de votre bonne Ville de Paris ; en ce que certains ignorants compositeurs desdites inscriptions, renversent, par une barbare, pernicieuse et détestable orthographe toute sorte de sens et raison, sans aucun égard d'Étymologie, Analogie, Énergie, ni Allégorie quelconque ; au grand scandale de la République des Lettres, et de la nation Française, qui se décrie et déshonore par lesdits abus et fautes grossières, envers les Étrangers, et notamment envers les Allemands, curieux lecteurs, et inspectateurs desdites inscriptions.
 
@@ -1107,10 +1107,10 @@ Ah ! Monsieur pas un mot ne s'en peut retrancher.
 Achevez promptement.
 
 -*who_caritides
-Supplie humblement Votre Majesté de créer, pour le bien de son État, et la gloire de son Empire, une Charge de Contrôleur, Intendant, Correcteur, Réviseur, et Restaurateur général desdites inscriptions ; et d'icelle honorer le suppliant, tant en considération de son rare et éminent savoir, que des grands et signalés services qu'il a rendus à l'État, et à Votre Majesté, en faisant l'Anagramme de votre dite Majesté en Français, Latin, Grec, Hébreu, Syriaque, Chaldéen, Arabe...
+Supplie humblement Votre Majesté de créer, pour le bien de son État, et la gloire de son Empire, une Charge de Contrôleur, Intendant, Correcteur, Réviseur, et Restaurateur général desdites inscriptions ; et d'icelle honorer le suppliant, tant en considération de son rare et éminent savoir, que des grands et signalés services qu'il a rendus à l'État, et à Votre Majesté, en faisant l'Anagramme de votre dite Majesté en Français, Latin, Grec, Hébreu, Syriaque, Chaldéen, Arabe…
 
 -*who_eraste
-Fort bien : donnez-le vite, et faites la retraite :
+      Fort bien : donnez-le vite, et faites la retraite :
 Il sera vu du Roi ; c'est une affaire faite.
 
 -*who_caritides
@@ -1192,7 +1192,7 @@ Cet avis merveilleux, dont je suis l'inventeur,
 Est que…
 
 -*who_eraste
-D'un peu plus loin, et pour cause, Monsieur.
+      D'un peu plus loin, et pour cause, Monsieur.
 
 -*who_ormin
 Vous voyez le grand gain, sans qu'il faille le dire,
@@ -1204,23 +1204,23 @@ Ce serait pour monter à des sommes très hautes,
 Et si…
 
 -*who_eraste
-L'avis est bon, et plaira fort au Roi.
+      L'avis est bon, et plaira fort au Roi.
 Adieu, nous nous verrons.
 
 -*who_ormin
-Au moins appuyez-moi,
+      Au moins appuyez-moi,
 Pour en avoir ouvert les premières paroles.
 
 -*who_eraste
 Oui, oui.
 
 -*who_ormin
-Si vous vouliez me prêter deux pistoles,
+      Si vous vouliez me prêter deux pistoles,
 Que vous reprendriez sur le droit de l'avis,
 Monsieur…
 
 -*who_eraste
-Oui, volontiers. Plût à Dieu qu'à ce prix,
+      Oui, volontiers. Plût à Dieu qu'à ce prix,
 De tous les Importuns je pusse me voir quitte !
 Voyez quel contretemps prend ici leur visite !
 Je pense qu'à la fin je pourrai bien sortir.
@@ -1235,13 +1235,13 @@ Marquis, je viens d'apprendre une étrange nouvelle.
 Quoi ?
 
 -*who_filinte
-Qu'un homme, tantôt, t'a fait une querelle.
+      Qu'un homme, tantôt, t'a fait une querelle.
 
 -*who_eraste
 À moi ?
 
 -*who_filinte
-Que te sert-il de le dissimuler ?
+      Que te sert-il de le dissimuler ?
 Je sais de bonne part qu'on t'a fait appeler ;
 Et comme ton ami, quoi qu'il en réussisse,
 Je te viens, contre tous, faire offre de service.
@@ -1258,7 +1258,7 @@ Tu n'iras nulle part que je ne t'accompagne.
 Ah j'enrage.
 
 -*who_filinte
-À quoi bon de te cacher de moi ?
+      À quoi bon de te cacher de moi ?
 
 -*who_eraste
 Je te jure, Marquis, qu'on s'est moqué de toi.
@@ -1267,37 +1267,37 @@ Je te jure, Marquis, qu'on s'est moqué de toi.
 En vain tu t'en défends.
 
 -*who_eraste
-Que le Ciel me foudroie.
+      Que le Ciel me foudroie.
 Si d'aucun démêlé…
 
 -*who_filinte
-Tu penses qu'on te croie ?
+      Tu penses qu'on te croie ?
 
 -*who_eraste
 Eh mon Dieu ! je te dis, et ne déguise point,
 Que…
 
 -*who_filinte
-Ne me crois pas dupe, et crédule à ce point.
+      Ne me crois pas dupe, et crédule à ce point.
 
 -*who_eraste
 Veux-tu m'obliger ?
 
 -*who_filinte
-Non.
+      Non.
 
 -*who_eraste
-Laisse-moi, je te prie.
+      Laisse-moi, je te prie.
 
 -*who_filinte
 Point d'affaire, Marquis.
 
 -*who_eraste
-Une galanterie,
+      Une galanterie,
 En certain lieu, ce soir…
 
 -*who_filinte
-Je ne te quitte pas :
+      Je ne te quitte pas :
 En quel lieu que ce soit, je veux suivre tes pas.
 
 -*who_eraste
@@ -1354,7 +1354,7 @@ De secourir ici l'oncle de ma Maîtresse.
 Je suis à vous, Monsieur.
 
 -*who_damis
-Ô Ciel, par quel secours,
+      Ô Ciel, par quel secours,
 D'un trépas assuré vois-je sauver mes jours !
 À qui suis-je obligé d'un si rare service ?
 
@@ -1366,7 +1366,7 @@ Ciel ! puis-je à mon oreille ajouter quelque foi ?
 Est-ce la main d'Éraste…
 
 -*who_eraste
-Oui, oui, Monsieur, c'est moi.
+      Oui, oui, Monsieur, c'est moi.
 Trop heureux, que ma main vous ait tiré de peine,
 Trop malheureux d'avoir mérité votre haine.
 
@@ -1410,7 +1410,7 @@ Et que nos violons viennent nous réjouir.
 Qui frappe là si fort.
 
 -*who_epine
-Monsieur ce sont des Masques,
+      Monsieur ce sont des Masques,
 Qui portent des crin-crins, et des tambours de Basques.
 
 -*who_eraste

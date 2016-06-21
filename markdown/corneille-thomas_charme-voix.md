@@ -16,7 +16,7 @@ Imprimé à ROUEN, Et se vend A PARIS, Chez AUGUSTIN COURBE, au Palais, en la Ga
 Édition critique établie par Coline Piot sous la direction de Georges Forestier (2009-2010)
 
 
-# Introduction générale
+# Introduction générale.
 
 Deux amants qui ne souhaitent qu'une chose : épouser la femme qu'ils aiment. Deux femmes qui n'ont qu'une seule ambition : être aimée pour elles-mêmes. Voilà en quelques mots le motif dramatique du *Charme de la voix*. Quatre personnages principaux qui n'auront de cesse d'obtenir la satisfaction de leur désir amoureux, et qui pour ce faire devront jouer le jeu de l'amour galant. Si les hommes doivent respecter les codes de conduite du parfait amant pour conquérir leur dame, les femmes doivent avant tout sonder cet amour afin de pouvoir s'y livrer en toute confiance. Rien apparemment de très original dans cette intrigue d'amour qui fait écho à toute une tradition dramatique. Mais l'originalité est loin d'être ce qui pousse un auteur à produire au XVII*e* siècle, car ce qui compte, ce n'est certainement pas de produire de l'inédit, mais de savoir exploiter une matière commune, à l'aide de procédés dramatiques habituels, et de proposer une vision renouvelée d'un matériau déjà connu. Alexandre Cioranescu l'a expliqué en ces termes :
 
@@ -28,7 +28,7 @@ L'œuvre a laquelle Thomas Corneille a pris sa matière, c'est la pièce de l'au
 Héritière de deux traditions littéraires centrales du XVII*e* siècle, *Le Charme de la voix* s'inscrit de façon significative dans le corpus de textes de la littérature classique. Malgré cela, la pièce fut un échec : après deux représentations, le public la bouda, et elle tomba dans l'oubli. Pourtant d'autres pièces de Thomas Corneille, comme *Le Geôlier de soy-mesme* qui sont dans leur forme assez proche de notre pièce ont connu la faveur du public. Mystère de l'histoire littéraire, victime peut-être d'un jugement immédiat du public contemporain hâtif ou excessif, il nous semble aujourd'hui que *Le Charme de la voix* mérite d'être exhumée et d'être reconsidérée à sa juste valeur. Il ne s'agira pas dans cette étude de nier les faiblesses de la pièce, qui sont parfois manifestes, mais de réaffirmer, par l'analyse précise de ses composantes et des procédés dramatiques qu'elle met en œuvre, la nécessité de réintégrer cette pièce dans le corpus des textes méritant d'être revisité par le chercheur et par le lecteur du XXI*e* siècle.
 
 
-# Le Charme de la voix : présentation et mise en perspective
+# Le Charme de la voix : présentation et mise en perspective.
 
 
 ## Thomas Corneille, un auteur galant ?
@@ -49,10 +49,10 @@ Ce qui consacre Thomas Corneille comme auteur galant c'est bien entendu sa colla
 Il était important, avant d'en venir à l'étude du *Charme de la voix* en particulier, de replacer Thomas Corneille dans son temps, et de comprendre comment s'est construite cette très importante production : on compte en effet une quarantaine de pièce de théâtre, deux dictionnaires, vingt ans de rédaction au *Mercure Galant*, deux traductions, etc. Thomas Corneille demeure de toute évidence l'un des plus importants *minores* du XVII*e* siècle.
 
 
-## Présentation de la pièce
+## Présentation de la pièce.
 
 
-### La création du *Charme de la voix*
+### La création du *Charme de la voix*.
 
 La date de la première représentation de la pièce est source de polémiques parmi les critiques : beaucoup ont estimé qu'elle fut jouée en 1653, et que par conséquent, Thomas Corneille avait dû avoir accès au manuscrit de la pièce de Moreto, parue seulement en 1654. La circulation des manuscrits est fréquente à l'époque, et l'on sait par exemple que Thomas Corneille a écrit l'*Amour à la mode*, en s'inspirant de la version manuscrite de *El Amor al uso* de Solis. Une autre argumentation, défendue par Lancaster et prouvée par Christopher Gossip nous a semblé plus convaincante, qui situe la date de la première représentation de la pièce en 1657. L'intuition de Lancaster est confirmée par une lettre retrouvée par Christopher Gossip adressée à Monsieur Lucas à Paris, qui n'est pas signée et qui ne comporte ni lieu ni date mais dans laquelle il est fait mention de notre pièce. Le scripteur, peut-être Pierre de Marcassus ou Coqueteau de la Clairière, prévoit le succès à venir du *Charme de la voix*, compte tenu du récent succès de *Timocrate*, ce qui prouve que notre comédie fut jouée « dans les deux ou trois premiers mois de 1657 » [8]. En effet on peut lire dans la lettre cette information : « Je suis extremement ravi du succés qu'a eu le Timocrate de Monsieur de Corneille, je crois que son Charme de la voix n'aura pas de moindres aplaudissements ». Cela prouve que le *Charme de la Voix* a été joué *après**Timocrate*, puisque le scripteur de la lettre prévoit la réception du *Charme* à partir du récent succès de la tragi-comédie. Nous nous rangerons donc à l'avis de Lancaster et de Christopher Gossip. La date de la première édition est en revanche sans conteste : la pièce fut publiée en 1658, et l'achevé d'imprimer date précisément du 4 janvier.
 
@@ -63,7 +63,7 @@ Il est intéressant de s'arrêter un instant sur l'épître qui accompagne la pr
 Ainsi donc, Thomas Corneille estime, avec quelque mauvaise foi peut-être, que cet échec ne lui revient qu'indirectement. Il précise pourtant plus loin que la pièce de Moreto fut un succès en Espagne. Il considère que la différence de réception de l'œuvre tient aux goûts distincts des deux nations. Nous pouvons pour notre part considérer que la faute lui revient de n'avoir pas su adapter le texte espagnol au goût français, comme nous le verrons plus en détails en étudiant les sources. Enfin, il use d'un dernier argument pour se dédommager de cette erreur de parcours : lui-même avait dès l'abord refusé de travailler à la réécriture de la pièce de Moreto, percevant déjà que la pièce ne plairait pas au public ; c'est finalement sous la douce pression d'un ami anonyme, et à cause des encouragements de son dédicataire, qu'il s'y est résolu.
 
 
-### L'histoire du *Charme de la voix*
+### L'histoire du *Charme de la voix*.
 
 Le titre espagnol, *Lo que puede la aprenhension* (Moreto, 1654) , est assez difficile à traduire et s'apparente à un dicton populaire. On pourrait le traduire ainsi : « ce que peut l'inclination », ou « le pouvoir de l'impression anticipée ». Quoiqu'il en soit, Thomas Corneille a pris le parti délibéré de changer complètement le titre au lieu de le traduire. Alexandre Cioranescu s'étonne de cette habitude des imitateurs français :
 
@@ -84,27 +84,27 @@ Ce serait davantage l'écart existant entre les attentes du public et l'esprit d
 Entrons à présent dans l'histoire du *Charme de la voix.* La pièce suit la structure traditionnelle de la comédie française : elle comporte cinq actes, le premier est entièrement consacré à l'exposition, le troisième, avec l'arrestation de Carlos constitue l'acmé de la pièce, et le dernier acte est consacré à un dénouement progressif, qui s'accélère d'un seul coup dans la dernière scène lors de la révélation des identités. Mais voici dans un résumé acte par acte, l'argument précis de la pièce :
 
 
-#### Acte I
+#### Acte I.
 
 Pour des raisons politiques, un Traité de mariage devant réunir le Duc de Milan et la Duchesse de Parme fut scellé bien longtemps avant le début de la pièce. Fédéric, tuteur du Duc, est chargé de veiller à la bonne application de ce traité. Dans ce but, il a éloigné sa fille Fénise de la Cour dès le plus jeune âge afin d'éviter que ses appas naturels ne séduisent le Duc. Durant son exil, Fénise se console en apprenant l'art du chant et la de la musique, en compagnie de sa fidèle servante Laure. De retour à la Cour pour célébrer ledit mariage entre le Duc et la Duchesse, elle aperçoit le Duc dans le jardin alors qu'elle est en train de chanter : le Duc s'éprend alors de la voix de Fénise, qui exerce sur lui un charme ensorcelant et Fénise n'est pas insensible à la beauté du Duc. Sans s'être vus, ils tombent amoureux l'un de l'autre, et le Duc promet à Fénise une foi éternelle (sc 1) . C'est pourquoi il demande qu'on arrête la Duchesse sur sa route pour différer le mariage, le temps d'obtenir de Fénise un aveu favorable (sc 2) . Fédéric chapitre son jeune protégé et lui rappelle les devoirs qu'il doit à son rang car il craint, à juste titre, que la Duchesse ne finisse par se sentir outragée du manque d'empressement de la part du Duc (sc 3) . Si le Duc a bon espoir de voir son amour concrétisé au début de la pièce, Fénise, elle est d'ores et déjà au désespoir : s'étant rendue en secret à un bal où se trouvait le Duc, elle a pu constater qu'en dépit des nombreux hommages qu'elle a reçus, le Duc est resté insensible à sa beauté ; elle en prend ombrage car elle veut être aimée tant pour sa beauté que pour sa voix. Tandis que Fabrice, valet du Duc, promet de mettre toute son ingéniosité au service du Duc (sc 4) , Carlos frère de Fénise et envoyé du Duc auprès de la Duchesse, revient plein d'enthousiasme pour féliciter le Duc de ce bel amour (sc 5) . Surpris d'être interrompu par le Duc qui sort de scène, Carlos interroge Fabrice qui lui fait la même réponse (sc 6) . C'est alors que seul avec son valet Camille, Carlos révèle son amour pour la Duchesse, et craint d'avoir manqué de tact en montrant tant de zèle à décrire les appas de celle-ci (sc 7) .
 
 
-#### Acte II
+#### Acte II.
 
 Grâce aux bons services de Fabrice, le Duc parvient à pénétrer dans les appartements de Fénise (sc 1) . Cette première rencontre se fait sous le signe du *quiproquo* puisque Fénise prend le déguisement de Célie, suivante fictive de Fénise, afin d'éprouver l'amour du Duc sous une autre identité que la sienne (sc 2) . Le Duc rend hommage à la voix de Fénise, mais semble mépriser sa beauté : Fénise y voit un obstacle majeur à leur amour et s'en désespère (sc 3) . Carlos qui reçoit l'ordre de raccompagner la Duchesse dans ses Etats prépare son départ avec son valet Camille (sc 4) , et comprend que le Duc cherche à annuler son mariage. Il est alors au comble du bonheur car il ne manquerait plus de respect au Duc en prétendant obtenir une main qu'il a lui-même délaissée. C'est pourquoi il se confie à Fénise qui, défendant autant sa passion secrète que les amoures de son frère, l'encourage à dévoiler son amour au Duc et à se déclarer auprès de la Duchesse (sc 5) . Fédéric surprend ses deux enfants en venant annoncer l'arrivée *incognito* de la Duchesse : lasse de voir sans cesse différer le mariage, elle a décidé de venir voir d'elle-même les raisons des atermoiements de son prétendant légitime (sc 6 et 7) .
 
 
-#### Acte III
+#### Acte III.
 
 La Duchesse et Fénise débattent des questions d'amour, chacune exprimant ses doutes sur la capacité de l'amant à se montrer à la hauteur de la tâche. Fénise sert les intérêts de son frère en vantant ses qualités de parfait amant. Ce faisant, elle s'assure que la Duchesse ne se laissera pas séduire par le Duc qui l'a outragée, car elle craint plus que tout que leur entretien ne mette fin à la flamme du Duc (sc 1) . Les deux femmes mettent en place un nouveau stratagème : la Duchesse sera présentée au Duc sous le nom de Fénise, tandis que celle-ci restera Célie. Le Duc qui ne cesse de vanter les mérites de la voix de Fénise à la Duchesse-Fénise et en présence de Fénise-Célie, blesse chacune d'entre elle : l'orgueil de la Duchesse est fortement malmené car le Duc méprise ouvertement la Duchesse pour vanter la seule Fénise et l'assurer de sa foi, et Fénise voyant le Duc si empressé auprès de la Duchesse en conclut qu'il est plus séduit par cette beauté que par la sienne (sc 2) . Une fois que la Duchesse se retire, le Duc s'en prend à Célie, pensant que c'est à elle qu'il doit cette froideur ; fière, Célie lui oppose une fin-de-non-recevoir, qui attise le désir du Duc, séduit par cette beauté piquante (sc 2 et 4) . Cependant le Duc vient trouver Fédéric et lui annonce sa ferme décision d'épouser Fénise, ou plutôt celle qui prend pour Fénise la chanteuse (sc 5) . Furieux, Féderic quitte la scène en laissant supposer au Duc que la Duchesse n'est peut-être pas très loin : Fabrice révèle alors à son maître qu'on raconte que Carlos n'est jamais parti à Pavie (sc 6) . Carlos entre et transmet le message de la Duchesse qui souhaite mettre fin au traité qui la lie au Duc, ce à quoi le Duc est favorable. Mais lorsque Carlos lui demande si son espoir de prétendre obtenir la Duchesse peut naître, le Duc s'emporte, accuse Carlos de s'être conduit en mauvais sujet et le fait arrêter (sc 7) .
 
 
-#### Acte IV
+#### Acte IV.
 
 Fédéric est mis au fait de la supercherie et s'en réjouit car elle n'entre pas en contradiction avec le Traité ; il reste intraitable malgré les tentatives de sa fille pour assouplir son intransigeance (sc 1) . Fénise prend conscience de la violence de ses sentiments lorsqu'elle ressent pour la première fois la jalousie et le désespoir de voir la Duchesse préférée par le Duc (sc 2) . Laure ne cesse pourtant de lui répéter que cette préférence est due au seul fait de dissimuler au Duc l'identité de la chanteuse : c'est par la voix de Fénise que le Duc est épris, et cacher son identité c'est empêcher le Duc d'exprimer son feu. Lorsque Laure cherche à sonder Fabrice sur les sentiments de son maître, le bouffon, croyant bien faire, vante la beauté de la Duchesse au lieu de préciser que le Duc se consume d'abord et avant tout pour la voix entendue (sc 3) . Fénise y voit la preuve concluante que ce n'est pas d'elle que le Duc est épris. La Duchesse quant à elle, maniant avec brio l'art de l'équivoque, obtient du Duc les promesses qu'elle attend : il fera libéré Carlos et le laissera libre d'épouser la Duchesse (sc 4, 5, 6 et 7) . Mais lorsqu'elle annonce à son amant que le Duc, dupé par son déguisement a permis leur union, Carlos marque des réticences : il a déjà donné des preuves d'infidélité envers le Duc et ne peut profiter de son aveuglement. Vexée par la frilosité de Carlos, la Duchesse quitte la scène (sc 8) en laissant un amant désemparé (sc 9) .
 
 
-#### Acte V
+#### Acte V.
 
 Grâce au vif plaidoyer de Fénise en faveur de son frère, Carlos trouve vite le pardon dans le cœur de la Duchesse (sc 1) . Le Duc annonce que Fédéric ne met plus d'obstacle à son mariage avec Fénise ; en effet, le Tuteur, mis au fait de la supercherie, y voit le moyen de faire respecter le traité car en épousant celle qu'il prend pour Fénise, le Duc épouserait en réalité la Duchesse (sc 2) . Sous les mauvais conseils de Fabrice, le Duc vante à nouveau les charmes de la Duchesse devant Fénise, et minimise sa puissante attirance pour une voix. Fénise sort, convaincue que la beauté de la Duchesse a surpassé la sienne dans le cœur du Duc. N'y pouvant tenir, Fénise se met à chanter dans la pièce à côté : ravi, le Duc est incapable de mener sa cour auprès de la Duchesse qui est profondément humiliée de voir qu'après toutes ses promesses le Duc manque à sa parole (sc 3) . Le Duc cherche à se désengager auprès de la Duchesse-Fénise : si ce n'est pas elle qui chante elle n'a plus d'attraits pour lui, et si, comme il le croit, la chanteuse est Célie, d'un rang trop inférieur au sien, il doit renoncer à épouser la magnifique voix (sc 4 et 5) ). Bien tardivement, il envisage d'épouser la Duchesse et de respecter finalement le traité auquel il est soumis (sc 6) . Savourant sa vengeance la Duchesse en cruelle repousse le Duc. Orgueilleuse, Fénise méprise à son tour l'amour du Duc. Camille entre alors annoncer l'arrivée de la Duchesse (sc 7) , mais lorsque celle-ci entre en scène, le Duc est forcé de reconnaître en elle celle qu'il a pris pour Fénise (sc 8) : comprenant à quel point il s'est montré discourtois, il se confond en excuses et accepte qu'elle épouse Carlos. Enfin, Fénise révèle à son tour son identité, et lorsque la voix aimée rejoint la femme aimée, il n'est plus d'obstacles au bonheur des amants. Fabrice conclut la pièce en soulignant cette fin heureuse et annonce un triple mariage ; il brise l'illusion théâtrale par une apostrophe du public dans laquelle il affirme que tout ceci n'est, somme toute, qu'une comédie (sc 9) .
 
@@ -115,12 +115,12 @@ Ce qui permet à la pièce de tenir malgré tout, c'est peut-être la présence 
 Mais tous les personnages ne sont pas « plus capricieux que raisonables », et c'est peut-être ce qui sauve la pièce. En effet, la présence d'un deuxième schéma actanciel dont les protagonistes principaux sont la Duchesse et Carlos, est à noter. Ce qui anime ces personnages semble plus profond et plus noble. La Duchesse est constamment humiliée par les outrages du Duc, et elle doit sauver son honneur, c'est la première passion qui la fait agir. Mais elle aime Carlos, et dans la seconde partie de la pièce, elle n'agit plus que pour assurer leur bonheur, en obtenant sous son identité usurpée, des promesses du Duc. Carlos est partagé entre le respect qu'il doit au Duc et son amour véritable pour la Duchesse. Ils ont eu l'occasion de se comprendre en silence et de développer un amour réciproque, ils ont, pour parler comme les personnages de la pièce, atteint l'amour de connaissance quand Fénise et le Duc semblent ne ressentir que de l'inclination. Acteurs principaux d'un modèle actanciel secondaire, la Duchesse et Carlos sont plus vraisemblables comme personnages, et nous verrons plus loin que cela se traduit dans leur langage même : les plus beaux vers leur sont réservés, et leur grandeur les élève parfois presque à la hauteur des héros tragiques, sommet que le Duc et Fénise, dans leurs excès, ne peuvent atteindre.
 
 
-### Réflexions sur la structure de la pièce
+### Réflexions sur la structure de la pièce.
 
 La longueur des scènes qui composent cette pièce est extrêmement variable car on trouve des scènes très courtes, d'une dizaine de vers à peine, et d'autres au contraire qui s'étirent sur plus de cent vers. Quatre scènes sont très longues, la scène d'exposition, la scène 2 de l'Acte II, la scène 5 de l'Acte II, et la scène 2 de l'Acte III. La scène d'exposition est très longue, car elle comporte de façon développée tous les éléments nécessaires à l'exposition : le rappel du passé, soit du Traité de mariage à l'issu d'une longue guerre, du bannissement de Fénise hors de la cour, et du goût qu'elle prit pour la musique. Elle présente aussi un passé proche, qui s'est produit juste avant le début de la pièce : le coup de foudre auditif du Duc pour la voix de Fénise, et la déception amoureuse de Fénise lors de la scène du bal. Elle contient enfin tous les éléments qui seront développés dans la suite de la pièce. La scène 2 de l'Acte II correspond à un moment très attendu puisqu'il s'agit de la rencontre entre le Duc et Fénise : si la première partie de la scène est assez statique et convenue puisqu'elle ne fait que présenter les réactions des maîtres qui se confient en aparté aux valets, la deuxième partie introduit un rebondissement dramatique car Fénise, dissimulant son identité sous le nom de Célie, amorce le jeu de *quiproquo*, qui alimente le reste de la pièce. La scène 5 de l'Acte II met en jeu plusieurs temporalités puisque Carlos raconte comment il s'est épris dans le passé des charmes de la Duchesse et quels espoirs il conçoit pour l'avenir. Ce qui est intéressant, c'est que la scène pourrait être l'exposition du deuxième modèle actanciel car on y retrouve toutes les composantes de l'exposition, le rappel du passé, la présentation d'un problème et des éléments de réponse à ce problème. Ce sont les réactions de Fénise qui raccroche la scène à l'intrigue principale, puisqu'on la voit d'abord prête de révéler son amour, avant de changer de jeu avec habileté et de profiter de l'amour de son frère pour servir ses propres intérêts. Enfin, la scène 2 de l'Acte III est celle de la rencontre du Duc et de la Duchesse, où pour la seconde fois la dissimulation de l'identité, la Duchesse passant pour Fénise, complique les relations entre les personnages. On pourrait imaginer que le dialogue s'enliserait, faisant stagner l'action, dans ces très longues scènes ; au contraire, force est de constater qu'elles ne sont jamais statiques, mais qu'elles contiennent toutes une véritable évolution et relèvent d'une grande importance dramatique.
 
 
-## Sources et influences du *Charme de la voix*
+## Sources et influences du *Charme de la voix*.
 
 On ne saurait trop rappeler à quel point la notion de plagiat, de propriété et de paternité littéraires est différente au XVII*e* siècle de ce que nous connaissons aujourd'hui. Héritière de la conception « renaissante » de l'imitation créatrice, la littérature du XVII*e* siècle ne peut se lire que dans ce contexte général d'intertextualité. Or le lieu d'élection de ces jeux d'influence littéraires n'est autre que le théâtre, et encore plus particulièrement la comédie. Le cas de notre pièce est exemplaire, puisqu'on peut même parler d'une chaîne de réécritures, qui aurait comme texte source la comédie *Desdicha de la voz* de Calderon – et encore, comment savoir si lui-même ne s'est pas inspiré d'une autre source ? Vient ensuite la pièce d'Augustin Moreto, spécialiste de la réécriture, intitulée *lo que puede la aprehension.* Enfin, le texte de Moreto donne naissance à deux créations françaises, l'une romanesque, la nouvelle « Timante et Parthénie » extraite du *Grand Cyrus* de Madeleine de Scudéry, que nous étudierons plus loin dans sa relation à notre pièce, l'autre dramatique, *Le Charme de la Voix*, de Thomas Corneille. Pour mieux comprendre notre pièce, il convient de la resituer dans son contexte de réécriture et de repérer quelles influences elle subit.
 
@@ -130,7 +130,7 @@ On ne saurait trop rappeler à quel point la notion de plagiat, de propriété e
 Thomas Corneille semble avoir recyclé sans presque toute la pièce de Moreto, comme il s'en vante dans son épître à « Monsieur ». Ses efforts pour adapter la pièce espagnole au goût français, travail propre à toute réécriture, seront observés plus loin. Pour l'heure, un tableau synthétique qui met en regard les deux pièces permet de voir à quel point les deux structures de la pièce se ressemblent, et de mieux souligner les suppressions et les modifications apportées par l'auteur. Pour une meilleure lecture de ce tableau, nous avons utilisé les italiques chaque fois que Thomas Corneille a opéré des modifications ; nous avons repris mot pour mot le descriptif des scènes chaque fois que deux scènes étaient identiques ; nous avons enfin utilisé des caractères gras lorsque nous avons jugé nécessaire de faire un commentaire particulier. L'analyse des nuances et des tendances plus globales succède au tableau. Enfin, nous avons sélectionné des passages précis s'apparentant à de la pure traduction, qui sont consultables en annexe.
 
 
-### Tableau synthétique de la structure de l'œuvre
+### Tableau synthétique de la structure de l'œuvre.
  | Lo que puede la aprehension, Moreto. |  | Le Charme de la Voix, Thomas Corneille.
 Primera Jornada : Escena I : | - Très longue scène d'exposition (381 octosyllabes) , sur le mode de la conversation entre Fenisa et sa servante Laura. - Fenisa raconte comment et pourquoi elle fut bannie de la Cour par son père Federico. - Fenisa raconte comment elle est tombée amoureuse du Duque en l'apercevant à travers la fenêtre, et comment el Duque, d'après un amour conçu pour sa voix, promet de manquer à son devoir politique d'épouser la Duquesa de Parma, pour mieux servir son amour. - Fenisa raconte la scène de bal à laquelle elle a assisté sous une identité dissimulée : elle a pu constater que sa beauté n'a pas surpris el Duque. - Souci de ne pas risquer son amour si elle n'est pas certaine de celui de el Duque. - De là un très long excursus psychologique sur l'amour ; Fenisa entreprend de définir la différence entre el apetito, la inclinacion, el amor. | Acte I : Scène première. | -Très longue scène d'exposition (381 octosyllabes) , sur le mode de la conversation entre Fénise et sa servante Laure - Fénise raconte comment et pourquoi elle fut bannie de la Cour par son père Federic. - Fénise raconte comment elle est tombée amoureuse du Duc en l'apercevant à travers la fenêtre, et comment le Duc, d'après un amour conçu pour sa voix, promet de manquer à son devoir politique d'épouser la Duchesse de Parme, pour mieux servir son amour. - Fénise raconte la scène de bal à laquelle elle a assisté sous une identité dissimulée : elle a pu constater que sa beauté n'a pas surpris le Duc. - Souci de ne pas risquer son amour si elle n'est pas certaine de celui du Duc. - Suppression de la réflexion psychologique détaillée sur l'amour.
 Escena II : | - Scène brève. Arrivée de Federico qui demande à Fenisa de se retirer car el Duque va paraitre. - Federico explique pourquoi il veut maintenir Fenisa cachée. - Fenisa se montre obéissante et sort en confiant à Laura son intention de chanter. | Scène II : | -Scène brève. Arrivée de Federic qui demande à Fénise de se retirer car el Duque va paraitre. - Federic explique pourquoi il veut maintenir Fénise cachée. - Fénise se montre obéissante et sort en confiant à Laura son intention de chanter.
@@ -201,7 +201,7 @@ Thomas Corneille ne s'est pourtant pas contenté de supprimer des scènes, il en
 Ces observations ont permis de dégager les principales tendances de cette réécriture, et de souligner à la fois la fidélité et la distance du dramaturge par rapport à son modèle, dans la structure générale de la pièce. Il convient maintenant d'analyser plus en détails les modifications opérées par Thomas Corneille, qui justifient que malgré l'extrême proximité des deux textes, nous puissions parler de réécriture, et non seulement pas de plagiat ou de traduction.
 
 
-### Des choix qui font du Charme de la Voix une véritable réécriture
+### Des choix qui font du Charme de la Voix une véritable réécriture.
 
 Une comparaison trop rapide du texte de Thomas Corneille à sa source pourrait laisser croire que l'auteur français n'a fait que traduire le texte de l'espagnol. Cette partie se propose cependant de souligner le travail d'adaptation effectué par l'auteur. Les adaptations sont de deux ordres : elles peuvent être conditionnées par l'environnement théâtral, ou bien être des partis pris délibérés de la part de l'auteur.
 
@@ -230,7 +230,7 @@ Peut-on dire que les inflexions différentes que Thomas Corneille a donné à se
 Thomas Corneille excuse cet échec en reportant les torts sur les caractéristiques de la pièce espagnole. Si l'on se souvient des succès que Thomas Corneille sut tirer de ses modèles espagnols, et si l'on garde à l'esprit que *lo que puede la aprehension* de Moreto fut fort bien reçu dans son pays, il semble plus juste de considérer que *Le Charme de la voix* souffre d'un manque d'investissement, peut-être de travail, de la part de son auteur. Cette hypothèse semble corroborée par l'épître, puisque Corneille insiste sur le fait qu'il a opposé des réticences à la rédaction de cette pièce, qu'il en prévoyait l'échec, et que c'est contre son gré et par fidélité à son dédicataire qu'il a effectué cette réécriture. On peut voir là de la mauvaise foi, mais les succès antérieurs de Thomas Corneille qui s'inspiraient de pièces espagnoles comme *Le Geôlier de Soi mesme*, prouve qu'il était capable de faire des réécritures parfaitement achevées et dignes d'un grand dramaturge – cette pièce en question fut même préférée à la version donnée par Scarron, *Le Gardien de soi mesme*. Mais les faiblesses de la réécriture ne doivent pas masquer les mérites de la pièce : c'est pourquoi plus que d'une réécriture réussie, on peut parler après cette étude comparative, d'une bonne adaptation au goût du public français de la pièce espagnole.
 
 
-### Une autre influence notoire : l'histoire de Timante et Parthénie
+### Une autre influence notoire : l'histoire de Timante et Parthénie.
 
 La pièce d'Augustin Moreto a donné lieu à une autre création française : Madeleine de Scudéry, dans son roman *Artamène ou le grand Cyrus*, paru en 1653 s'en est inspirée pour sa nouvelle *Timante et Parthénie* au livre I de la partie VI. Comme la pièce de Moreto n'a été publiée qu'en 1654, Madeleine de Scudéry a dû avoir accès au manuscrit de la pièce. Cet emprunt est de deux ordres ; il est d'abord d'ordre diégétique car les deux histoires reprennent un même motif : dans les deux cas, un homme tombe amoureux d'une voix, et se jure d'épouser cette personne, même sans jamais l'avoir vue. Au-delà de cet emprunt thématique, on peut noter une même « *sensibilité tendre »* dans la représentation de l'amour. Parthénie est réputée pour son incroyable beauté mais après un mariage malheureux pendant lequel elle a pu constater qu'un amour attaché à la seule beauté est de courte de durée, elle est devenue méfiante envers les hommes. C'est pourquoi elle exige du soupirant Timante d'être aimée sans être vue. Celui-ci a en effet conçu de l'amour pour elle en l'entendant chanter sans la voir. On retrouve le même motif que dans le *Charme de la Voix.* Voici comment est contée cette première rencontre vocale :
 
@@ -259,13 +259,13 @@ Il faut noter pourtant une différence d'importance : Thomas Corneille suit fid
 il me semble en effet que l'échec de la pièce tient moins, en réalité, à la différence invoquée des goûts des nations qu'à la différence de nature générique : par sa minceur, par la fragilité et la subtilité de ses ressorts, un tel sujet ne pouvait donner sa pleine mesure qu'au sein d'un roman. » [25].
 
 
-# La peinture de l'amour dans Le Charme de la voix
+# La peinture de l'amour dans Le Charme de la voix.
 
 
-## *Le Charme de la Voix* et l'*Eros Galant*
+## *Le Charme de la Voix* et l'*Eros Galant*.
 
 
-### Le « pacte scripturaire galant » [26]
+### Le « pacte scripturaire galant » [26].
 
 Avant de décrire la représentation de l'amour dans *Le Charme de la voix*, il convient de s'arrêter sur le cadre d'énonciation de cette représentation de l'amour. En effet la nature du texte conditionne en quelque sorte sa réception, et pour mieux appréhender cette comédie de Thomas Corneille, peut-être faut-il la percevoir à travers le prisme de la galanterie. Bien des éléments permettent de souligner avec quelle acuité Thomas Corneille a su prendre en compte la particularité de son public : le choix du sujet, la place des femmes au sein de l'intrigue, la parole d'amour parlée, tout porte à croire que l'auteur avait conscience de s'adresser à un public mondain, et qu'il a tout fait pour le séduire. C'est bien de séduction que parle Delphine Denis pour définir le « pacte scripturaire galant », puisqu'elle montre comment la thématique amoureuse entraîne d'elle-même une conception particulière de la communication littéraire :
 
@@ -289,7 +289,7 @@ Enfin, on retrouve dans cette pièce un ensemble de questions d'amour à la mode
 en proposant comme destinataire idéal un lecteur féminin, le texte galant fondait la lectrice en paradigme non seulement de la juste réception, ni même en archétype socioculturel du lectorat mondain, à former et à conquérir, mais encore engageait une approche spécifique de l'échange littéraire, conçu comme véritable stratégie de séduction. [29]
 
 
-### Les codes de l'amour galant
+### Les codes de l'amour galant.
 
 Le sujet principal de la pièce, et le moteur qui fait agir presque tous les personnages est donc l'amour. Mais encore faut-il définir de quel type d'amour nous parlons. Il nous semble en effet que le texte de Thomas Corneille illustre une représentation bien particulière de la passion amoureuse, et qui est alors la chose du monde la mieux partagée dans les salons mondains que vise notre auteur. Il s'agit largement d'une représentation « tendre » de l'amour : les personnages durant toute la pièce, ne cessent de jouer le jeu de l'amour tendre, et se réfèrent constamment aux lois et aux codes qu'il implique. On retrouve disséminés dans le texte, toutes les grandes notions de l'amour tendre : la Beauté, la Douceur, que les deux femmes partagent, mais aussi la Fierté, la Rigueur, le Mépris dont vont se plaindre tour à tour le Duc et Carlos, leurs amants. Fénise souffre constamment de Jalousie et de Soupçon. Fénise et la Duchesse partagent la même volonté d'humilier les hommes pour se venger d'avoir été outragées. Il est intéressant de constater que par rapport à la pièce espagnole, Thomas Corneille a souhaité souligner la beauté de Fénise : à deux reprises, le Duc, prenant Fénise pour une autre, vante ses attraits. Dans la scène 2 de l'Acte II, scène de première rencontre, l'admiration du Duc pour la beauté de Fénise est sensible :
 
@@ -346,17 +346,17 @@ Rien d'anormal à ce que le Duc se montre léger. L'amour du Duc pour une voix c
 Paradoxalement, ce sont les valets qui ont la lecture la plus juste de l'amour du Duc. Leur bon sens leur permet de comprendre ce que les hauts personnages ne voient pas. Fabrice, dans sa folie, semble énoncer des vérités sur l'amour bien supérieures à ce que l'on pourrait attendre d'un bouffon : « Car la plus belle enfin, quelques traits qu'elle assemble, / n'est as celle qui l'est, mais celle qui le semble » (v. 380-381) : il met ici en place la distinction conceptuelle entre l'*être* et le *paraître*, que nous retrouverons plus loin. La beauté n'est pas une valeur objective, au contraire, la beauté d'une dame est perçue de manière subjective, en fonction de l'effet, de l'impression qu'elle cause. A partir de cette impression, l'amoureux crée ou ne crée pas un sentiment d'amour. Il y a donc une part, à demi consciente, de décision, de choix spirituel dans l'amour, et la beauté, partie matérielle de l'amour, n'est choisi par l'amoureux qu'à partir du moment où il a d'abord aimé une partie immatérielle de la femme. C'est la même idée que défend Laure (v. 558-566) . L'idée est subtile : son amour attaché à de l'immatériel ne découvrira la beauté matérielle de Fénise que lorsque la voix qui l'enchante aura regagné son visage, puisque c'est l'amour qui crée la beauté. L'amoureux investit l'être aimée pour une quelconque raison d'une beauté matérielle qui vient comme un après-coup du sentiment d'amour.
 
 
-## La parole amoureuse
+## La parole amoureuse.
 
 Nous avons vu que les personnages du *Charme de la Voix* ont tous en partage une même vision de l'amour, que l'on pourrait qualifier d'amour-tendre. Il convient maintenant de s'intéresser à la parole d'amour échangée dans cette comédie : il existe bien une sorte d'attraction du thème sur le langage dans le sens où l'on utilise une parole d'amour conforme à la représentation que l'on s'en fait ; dans cette pièce, les personnages jouent l'amour-tendre et parlent amour-tendre. Le vocabulaire qu'ils utilisent est parfois difficile à comprendre pour un lecteur contemporain non spécialiste du XVII*e* siècle, dans le sens où le lexique employé est largement conditionné par le système de valeurs auquel se raccrochent les personnages.
 
 
-### Lexique et valeurs
+### Lexique et valeurs.
 
 La parole amoureuse n'est jamais exactement la même selon les époques et selon les milieux sociaux, et de même que l'amour a une histoire, la parole amoureuse n'est pas exempte d'une certaine historicité. Voilà pourquoi il convient de rappeler les valeurs auxquelles elle se réfère, le sens des mots qu'elle emploie et les évolutions qu'ils ont pu connaître. L'ensemble de cette étude s'appuie très largement sur l'analyse du vocabulaire établie par Anne Sancier-Château dans son *Introduction à la langue du XVII*e* siècle* ; des exemples précis tirés du *Charme de la Voix* viendront illustrer ces définitions.
 
 
-#### Les valeurs défendues par les personnages de la pièce
+#### Les valeurs défendues par les personnages de la pièce.
 
 Avant de s'intéresser particulièrement au langage amoureux, il convient de contextualiser l'énonciation de cette parole : nous devons prêter attention à ces questions : Qui parle ? Á qui ? Quelles valeurs implique une appartenance à un temps et à un milieu social donnés ? Dans quelle mesure la parole d'amour est-elle conditionnée par un système de valeurs ? Les personnages du *Le Charme de la voix* sont de très haut rang, ils appartiennent à la grande noblesse ; il est important de rappeler qu'en Italie, les Ducs et les Duchesses sont pratiquement des rois et des reines. Cette appartenance sociale implique qu'ils aient en partage un certain nombre de valeurs que l'on peut regrouper sous les termes de valeurs héroïques et chevaleresques. C'est Pierre Corneille qui illustra avec le plus de talent cet idéal aristocratique dans l'ensemble de son œuvre, mais ces valeurs imprégnaient toute la société, réglaient les comportements sociaux et le langage. Nous avons sélectionné dans les valeurs définies par Anne Sancier-Château, celles qui reviennent le plus souvent dans notre pièce, et qui caractérisent les personnages.
  * – Foi : ce terme « rend compte fondamentalement des exigences qui régissent dans l'ordre chevaleresque, les rapports entre les hommes. Il désigne d'abord la confiance que l'on accorde à un être et qui engendre un engagement, une parole. (…) L'évolution du sens privilégie métonymiquement l'expression de l'effet qui résulte de cet engagement, et le mot désigne alors la fidélité à la parole. ». Ce mot devient aisément propre à la parole amoureuse, puisque l'amoureux ou la maîtresse peuvent donner leur foi ; c'est le sens de la foi jurée. Le Duc, par son origine social, et parce qu'il est honnête homme, devrait être homme de foi, homme de parole. Il pense l'être, mais durant toute la pièce, il manque à ses promesses. D'abord, il ne respecte pas une promesse politique, puisqu'il rejette la foi qui l'attache à la Duchesse. Mais même en amour il commet des impairs : il jure sa foi à Fénise, sans la voir, puis à la Duchesse qu'il prend pour Fénise, puis à Célie, et enfin à Fénise lorsque la voix et le visage sont justement rassemblés. Une foi ne peut se donner sans honte qu'une seule fois, à une seule maîtresse. Abusé par son erreur, le Duc semble faire bon marché d'une promesse. C'est ce que lui reproche Fénise ; la Duchesse quant à elle, l'invite à prendre plus de temps avant de promettre une chose aussi importante que la foi (v. 900-901) .
@@ -367,7 +367,7 @@ Avant de s'intéresser particulièrement au langage amoureux, il convient de con
 Justification ou qualités de l'amour, toutes ses valeurs sont revendiquées par les personnages du *Charme de la voix*. C'est en comprenant d'abord ce qu'ils sont et à quel système de valeurs ils appartiennent que l'on peut appréhender leur langage, et la manière dont ils échangent une parole amoureuse particulière.
 
 
-#### Les notions de l'amour
+#### Les notions de l'amour.
 
 Il faut en premier lieu nous arrêter sur le mot *charme* puisqu'il donne son titre à la pièce, et puisqu'il caractérise le lien particulier qui unie Fenise et le Duc. *Charmer* signifie « qui exerce une puissance fascinante, ensorcelante ». Nous pouvons revenir au sens étymologique latin de *carmen*, désignant la formule d'incantation magique. *Charme* renvoie à la puissance occulte et mystérieuse qu'exercent certains êtres sur les autres. Dans le champ notionnel de l'amour, il évoque l'attrait irrésistible, analogue à quelque pouvoir magique.
 
@@ -376,7 +376,7 @@ L'étonnement est aussi un phénomène souvent présent et exprimé dans la piè
 Le *trouble* décrit par Fénise, engendre l'*inquiétude* terme dont la récurrence, sous cette forme ou dans les formes dérivées, est frappante dans notre texte. C'est l'impossibilité pour l'être de prendre du repos ; elle se manifeste par une agitation qui peut ou non s'extérioriser. Si le terme peut s'employer pour plusieurs types d'agitation, l'amour est néanmoins l' « un des agents les plus puissants de l'inquiétude, et celle-ci est bien une manifestation du sentiment amoureux. »
 
 
-### Les limites de la parole amoureuse
+### Les limites de la parole amoureuse.
 
 Le langage amoureux, qui se veut « tendre » dans la bouche des personnages, souffre peut-être de certains excès. Il est parfois si obscur que la communication est difficile. Fénise est le personnage qui s'exprime le plus souvent dans une langue qu'on pourrait qualifier alors de « précieuse », revers dévalorisant d'une galanterie outrée. La citation qui suit se situe à la troisième scène de l'Acte I, Fénise a dévoilé à Laure que le Duc s'est épris de sa voix, et qu'elle veut continuer à le charmer sans se laisser voir. Quand Laure lui demande ce qu'elle peut espérer obtenir par là, Fénise répond :
 
@@ -398,24 +398,24 @@ Nous pouvons peut-être penser que dans les années 1660, le langage traditionne
 Cette codification excessive du langage tend à creuser l'écart entre le signifiant et le signifié car le signifiant apparaît comme une coquille vide, en tout cas vide de sens. Le fait que le Duc use des mêmes compliments galants pour Fénise et la Duchesse en est la preuve. Le caractère convenu de cette parole amoureuse est renforcé par une certaine limite de la création langagière : nous avons remarqué à la lecture de la pièce que les mêmes termes reviennent à des intermédiaires fréquents et semblent parfois tourner à vide. Certains substantifs par exemple, semblent nécessairement accolés à des adjectifs en particulier, quelque soit l'énonciateur du groupe nominal, il en est ainsi de « frivole espoir » ou « impatiente ardeur ». Les seules trouvailles langagières sont de l'ordre du néologisme burlesque, que nous observerons plus loin. La meilleure preuve du caractère convenu de ce lexique réside peut-être dans l'utilisation des maximes d'amour, omniprésentes dans la bouche de tous les personnages.
 
 
-## La représentation de la passion amoureuse et les ressorts dramatiques qu'elle permet
+## La représentation de la passion amoureuse et les ressorts dramatiques qu'elle permet.
 
 La représentation de l'amour tendre a connu maintes adaptations romanesques, de l'*Astrée* de d'Urfé au *Grand Cyrus* de Scudéry. Le sujet trouve en effet dans le genre romanesque de grandes potentialités d'exploitation : les scènes de première rencontre, la circulation de l'information amoureuse ou les stratagèmes pour expérimenter le sentiment sont autant de matières propres à l'exploitation romanesque du thème de l'amour. Pourtant depuis l'Antiquité avec Plaute et Térence, l'amour est aussi fréquemment un thème de la comédie. Ce qu'il convient d'observer dans *Le Charme de la voix*, c'est comment la représentation de l'amour-tendre met en jeu des ressorts dramatiques bien particuliers, que Thomas Corneille a su exploiter.
 
 
-### La mise en place d'un déguisement d'amour
+### La mise en place d'un déguisement d'amour.
 
 Nous l'avons vu, l'intégralité de la pièce est fondée sur la souveraineté de la volonté féminine. Ce sont les femmes qui mènent le bal de l'intrigue, à commencer par Fénise. C'est elle qui met l'amour du Duc à l'épreuve, en lui faisant suivre un véritable parcours initiatique de l'amour. Pour ce faire, elle met en place très vite un déguisement, que nous allons définir grâce à la typologie réalisée par Georges Forestier dans son *Esthétique de l'identité.* Ce déguisement est *conscient* puisqu'il participe d'une stratégie d'approche et d'épreuve destinée au Duc. Le but, comme nous l'avons déjà signalé, est d'obtenir la certitude que le Duc n'est pas simplement épris par caprice de la voix de Fénise, mais qu'il l'aime toute entière, tant pour les charmes de sa voix que pour ceux de sa beauté. Voilà pourquoi dans le déguisement élu par Fénise, il n'y a pas de dissimulation du visage, sans quoi la preuve de l'attirance du Duc pour sa beauté ne pourrait se faire. Le déguisement se fait sous le mode de l'*assertion d'identité* : lors de leur première rencontre, Fénise va jusqu'à contredire le Duc, le corrige pour affirmer une fausse identité (v. 423-427) . Le pouvoir du verbe est tel que c'est une convention au théâtre de croire à ce qu'affirme le personnage déguisé. Grâce à la présence de Laure, l'expression de la motivation du déguisement vient tout de suite après ; en effet, nous ne sommes pas là dans le cadre d'un déguisement préparé et convenu à l'avance entre les membres d'un complot. Les personnages présents comme le public sont mis devant le fait accompli de l'assertion d'une identité feinte. Laure prouve à la fois sa loyauté et sa finesse en entrant très vite dans le jeu instaurée par sa maîtresse. Elle permet aussi, en posant la question en aparté, de donner l'opportunité à Fénise d'expliquer au public son procédé : la raison invoquée prouve qu'il s'agit d'une mise à l'épreuve de l'amour du Duc à l'insu de celui-ci : « Pour voir si mon visage a pour luy quelque appas, /Et ne rien hazarder si je ne luy plais pas. ». L'action de se déguiser n'est donc pas rétroactive, elle n'est pas la conséquence d'une maladresse de la part du Duc, mais bien un préalable à son amour, puisque c'est Fénise qui en a seule l'initiative : nous sommes bien dans une comédie de ruse féminine. D'ailleurs, la pratique du déguisement de la part de Fénise n'est pas inédite, puisqu'elle a raconté dans la scène d'exposition comment, avant même que l'action commence, elle s'était rendue au bal sous un nom d'emprunt pour voir si le Duc était sensible à sa beauté. Le but est donc exactement le même, et malgré l'échec de ce premier déguisement, elle renouvelle l'expérience. Il faut noter enfin qu'il s'agit d'un déguisement *inférieur* puisque Fénise invente le personnage de Célie, suivante de Fénise. Ce changement de condition sociale ne semble valoir ici que par souci de vraisemblance : le Duc connaît le personnel du palais, et se trouve dans les appartements de la fille du gouverneur, fermés à tout autre individu que les femmes de sa suite. C'est d'ailleurs le Duc qui suggère en premier lieu cette identité : « Vous êtes de l a suite de Fénise à ce que je puis croire ? ». Une fois qu'elle a nié son identité, Fénise ne commente pas davantage son déguisement, c'est le Duc qui le lui fournit, et Laure, complice loyale, s'empresse de rentrer dans son jeu : « Mais Celie est d'un rang plus eslevé que moy, / Comme Dame d'honneur, il faut que je lui cede. ». Nous pouvons constater que presqu'instinctivement, Laure restaure la hiérarchisation sociale entre sa maîtresse et elle-même.
 
 Le déguisement met en place une oscillation constante entre l'être et le paraître et pose la question d'une part de la valeur naturelle, et d'autre part de la force du sentiment. Tout d'abord, la condition de Fénise transparait dans son être : il n'y a pas de métamorphose achevée, et son verbe reste celui d'une Dame. Mais ces « manifestations de l'être sous le paraître » [41] ne sont pas qu'internes au personnage de Fénise : les personnages dupes du stratagème les ressentent aussi de manière plus ou moins consciente, ce qui nous amène à la question de l'amour. La fascination qu'exerce Fénise, même sous l'identité d'une suivante, sur le Duc prouve que le sentiment amoureux véritable lève les masques. A plusieurs reprises le Duc exprime le trouble que Célie provoque en lui (v. 1781-1783) . Par delà le voile de l'identité feinte, le sentiment amoureux agit comme un radar de l'être aimé. L'erreur du Duc est de ne savoir pas lire ces indices, comme nous le verrons. Le seul personnage qui n'est pas assez fin pour sentir que l'être de Fénise dépasse son paraître est Fabrice, qui se montre même particulièrement discourtois et méprisant envers elle. Cela crée des effets comiques que nous analyserons plus loin.
 
 
-### La division du personnel dramatique autour de l'axe du savoir
+### La division du personnel dramatique autour de l'axe du savoir.
 
 L'effet principal de ce déguisement est de partager le personnel dramatique de la pièce en deux groupes distincts : ceux qui sont dans le secret et les autres. La supériorité féminine semble une fois de plus se manifester ici : Fénise est à l'origine d'abord de la dissimulation de son identité, puis de l'emprunt de son identité par la Duchesse. Nous l'avons vu, Laure est tout de suite complice. En revanche, Fédéric n'est mis que tardivement au fait de la supercherie : nous n'assistons pas à la scène où il accède à la révélation – son personnage ayant moins d'intérêt, dans tous les sens du terme que ceux du Duc et de Carlos – mais cette information est donnée dans les premiers mots du quatrième acte (v. 1119-1122) . Fédéric est le premier personnage masculin à connaître le jeu d'échange d'identité. Carlos et Le Duc, ainsi que leurs valets respectifs, restent dans l'ignorance. Les deux amants sont tous les deux victimes de ce stratagème, mais de façon distincte. Nous prenons en pitié Carlos qui n'étant pas au courant de l'emprunt de l'identité de Fénise par la Duchesse, ne sait comment réagir à la scène 7 de l'Acte IV. Mais le spectateur ne peut que blâmer la cécité du Duc qui reste dupe jusqu'à la dernière scène, incapable d'interpréter au-delà du déguisement les effets que provoque en lui la vue de Fénise. Les femmes s'amusent de l'aveuglement du Duc en mettant en place une distinction constante entre *paraître* et *être*, mais surtout entre *voir* et *connaître*. Le Duc ne cesse de voir « sans connaître », c'est-à-dire sans savoir l'identité de son interlocutrice ce qui donne lieu à des propos inaudibles pour le Duc.
 
 
-### Des indices à la révélation
+### Des indices à la révélation.
 
 Le procédé du déguisement constitue donc en grande partie les ressorts dramatiques de la pièce. Il est de plus dédoublé à partir du début du troisième acte puisqu'à son tour la Duchesse voulant pénétrer les raisons du Duc de vouloir différer le mariage dissimule son identité, se faisant passer pour Fénise. S'instaure alors un jeu de *quiproquo* dont la principale victime est le Duc. Une série d'indices révélateurs des véritables identités sont présents dans le texte, mais le Duc échoue constamment dans l'interprétation de ces signes et ne cesse de commettre des impairs. Pour un œil averti comme l'est celui du spectateur ces signes sont clairs en revanche et, jouissant de sa supériorité de connaissance, il les repère aisément. Ces signes peuvent être de l'ordre des manifestations physiques. Le texte comporte très peu de didascalies, mais il est probable que le jeu des acteurs exprimait des réactions visibles : le trouble de Fénise lorsqu'elle est en présence du Duc et ses inquiétudes lorsqu'elle croit à l'amour du Duc pour la Duchesse devaient être jouée par l'actrice interprétant le rôle de Fénise. De plus de nombreux apartés, dans la première scène de l'Acte V souligne l'agitation de Fénise. Les discours ambivalents de la Duchesse ne sont compréhensibles que pour le spectateur et participent d'un discours ironique que nous analyserons dans la troisième partie. Il est possible d'opposer encore une fois le Duc et Carlos : lorsqu'il rapporte à Fénise ses entretiens avec la Duchesse, Carlos montre comment malgré l'absence de communication explicite entre les amoureux, les deux cœurs se sont compris : « Et nos cœurs interdits ne se pouvoir défendre / De pousser des souspirs que nous n'osions entendre » [42] ou encore « La Duchesse a pour moy quelques bontez secrettes/ Dont ses yeux aujourd'huy m'ont servy d'interpretes » [43] ; les manifestations physiques, regards ou soupirs, relaient l'impossibilité d'échanger une parole amoureuse. Ce type de communication prouve que leur amour mutuel se passe de déclaration explicite, et qu'ils ont tous deux atteints cet état de surcompréhension de l'autre, et cette capacité de lecture des signes, caractéristiques de l'échange amoureux. À l'opposé, le Duc ne sera jamais apte à saisir ces messages implicites, et demeure pendant toute la pièce dupe du déguisement. Le fait qu'il ne reconnaisse pas Fénise à sa voix lorsqu'elle parle est problématique, puisque cela réduit encore le champ d'attraction de Fénise sur le Duc: il n'est attiré que par la voix chantée de celle-ci. Mais nous pouvons nuancer cette faiblesse du Duc en invoquant la convention théâtrale : Georges Forestier précise en effet qu'il est conventionnel que la dupe du déguisement ne reconnaisse pas la voix. De plus la cécité du Duc vient du consensus selon lequel lorsqu'un personnage affirme une identité il doit être cru : « la convention est si forte qu'il suffit même que le personnage déguisé déclare « je suis ce que je prétends paraître » pour que la victime soit aveuglée » [44]. Mais si l'on se place du point de vue de l'histoire et de la mise en place du parcours initiatique de l'amour instauré par Fénise, force est de constater l'échec du Duc. Jusqu'à la dernière scène, il est incapable de mettre le bon visage sur la voix qui l'attire tant. Fénise lui reproche ce manque de discernement en évoquant de façon implicite le postulat suivant : quand un sentiment d'amour est véritable, nul déguisement ne peut empêcher l'amoureux de reconnaître la femme qu'il aime car il est doué d'une sorte de super-acuité et d'une clairvoyance qui doivent lui permettre de déchiffrer les signes de l'amour. C'est bien le sens de ce dernier reproche de Fénise au Duc :
 
@@ -430,15 +430,15 @@ Nous pouvons cependant remarquer que par rapport à la pièce espagnole dans laq
 Le déguisement couvre donc presque la totalité de la pièce : il est mis en place dès le début du second acte – il y a même une trace d'un ancien déguisement hors texte dans le récit du bal de Fénise à Laure dans l'Acte I. Et ce n'est qu'à la dernière scène que le masque est levé. Cela correspond à un coup de théâtre précipitant le dénouement de la pièce. Aristote, au chapitre 11 de la *Poétique* définit en ces termes la reconnaissance : « fait de passer de l'ignorance à la connaissance, révélant alliance ou hostilités entre ceux qui sont déguisés pour le bonheur ou le malheur ». Dans cette pièce le dévoilement de l'identité de Fénise laisse présager une fin heureuse, qui n'a pas le temps d'être mise en place car Fabrice prend alors la parole pour annoncer de façon ironique la fin de la comédie. Une fois les identités restaurées, l'intrigue se termine en effet par un triple mariage : le Duc et Fénise, la Duchesse et Carlos, et peut-être, Laure et Fabrice. Il est intéressant de remarquer que deux de ces mariages sont des mésalliances, ce qui est plutôt singulier : normalement la révélation finale de l'identité permet de restaurer un ordre social en assurant un mariage entre deux parties de même origine sociale. Certes, Fénise n'est plus la suivante Célie, mais elle devient tout de même Duchesse, et Carlos se hisse à la hauteur de son maître en épousant la Duchesse de Parme.
 
 
-# Une comédie à plusieurs niveaux
+# Une comédie à plusieurs niveaux.
 
 
-## Une comédie de déguisement
+## Une comédie de déguisement.
 
 Nous avons vu dans la partie précédente comment le déguisement était un ressort dramatique mis au service de l'intrigue d'identité amoureuse. L'analyse de ce procédé récurrent dans les comédies classiques serait incomplète si nous ne nous arrêtions pas un instant sur les potentialités comiques qu'un tel procédé offre. Utiliser un déguisement provoque en effet de fausses situations propices au comique.
 
 
-### Le déguisement générateur de situations comiques
+### Le déguisement générateur de situations comiques.
 
 Le déguisement est constitutif de l'action et de sa progression : il a une grande influence sur son rythme notamment ; car la progression de l'action ralentit à cause des complications provoquées par le déguisement. Il engendre en effet des *quiproquo* : l'identité du personnage déguisé étant dissimulée, les personnages qui n'ont pas accès au secret peuvent par exemple s'étonner de certaines situations. Des détails viennent parfois souligner la situation de *quiproquo*, détails qui peuvent être d'ordre matériel ou langagier. Lorsque la Duchesse se fait passer pour Fénise, à la scène 2 de l'Acte III, celle-ci lui remet son Lut dans les mains. L'instrument de musique doit servir d'attribut ostensible du déguisement. Mais cet objet est détourné en objet de comique, car la Duchesse ne sait pas jouer : les deux observateurs, Fabrice et le Duc, attendent pourtant qu'elle se mette à jouer et à chanter. Le spectateur s'amuse de cette situation qui peut facilement conduire à des jeux de scènes plaisants si la Duchesse s'évertue à faire sortir des accords disharmonieux. Il faut toujours garder à l'esprit que le théâtre est fait pour être joué : dans la représentation, nous pouvons très bien imaginer un étirement du temps, durant lequel les comédiens s'abstiennent de parler pour faire durer ce moment de gêne comique durant lequel la Duchesse est affublée d'un instrument dont elle ne sait pas jouer. Nous pouvons imaginer que l'actrice prenait un malin plaisir à toucher les cordes, en produisant des sons disgracieux pour amuser le parterre. Le texte justifie cette interprétation car Fabrice souligne sans le savoir le comique de la situation : « Son instrument est d'un fâcheux accord ». La Duchesse, habile, parvient pourtant à se tirer de ce mauvais pas en feignant de s'apercevoir de la présence des observateurs.
 
@@ -461,7 +461,7 @@ De plus, il suggère au Duc de la marier avec un serviteur pour la punir de son 
 Le déguisement produit donc des effets imprévus par les personnages déguisés, qui pâtissent de leurs propres stratagèmes. C'est le principe de l'arroseur arrosé en somme. Si le public s'en amuse, les personnages concernés sont au désespoir. C'est le cas de Fénise qui croit devoir blâmer un déguisement qu'elle a elle-même conçu et qui semble confirmer l'amour du Duc pour la Duchesse. À plusieurs reprises, Laure condamne ce procédé et prêche pour le recouvrement de l'identité. Au vers 1178 elle chapitre sa maîtresse : « Voilà ce qu'ont produit tous vos déguisements » : légèrement en retrait car elle prend les événements moins à cœur que sa maîtresse, elle est la première à constater les effets contre-productifs du déguisement.
 
 
-### Le déguisement générateur de discours comiques
+### Le déguisement générateur de discours comiques.
 
 Nous distinguerons ici les personnages dans le secret et ceux qui n'ont pas accès au secret car cela conditionne l'énonciation de leur discours. Les personnages déguisés consciemment jouent avec finesse du double sens des mots ; les personnages dupes du déguisement peuvent produire des discours ironiques de façon involontaire. L'ironie tient donc à la double réception que l'on peut faire d'un même énoncé. En termes linguistiques, ce qu'il se passe dans ces discours ambivalents, c'est que pour un même signifiant, deux signifiés sont exprimés. Le personnage conscient de l'ironie de son discours énonce, dans un seul et même signifiant, un signifié patent, qui semble obscur à l'interlocuteur, et un signifié latent, que seul le public peut entendre. C'est d'ailleurs la définition que donne Georges Forestier de cette pratique du discours à double sens :
 
@@ -508,12 +508,12 @@ Et qu'enfin je luy suis comme une autre elle-mesme.
 Si le Duc ne voit dans ce discours qu'un témoignage de la fidélité de Célie envers sa prétendue maîtresse Fénise, le spectateur apprécie l'habileté de l'expression. Connaissant la véritable identité de l'énonciatrice, il traduit ce que le Duc peut prendre pour une marque de loyauté « *seur qu'il n'est rien* » en énoncé d'évidence : en effet, personne mieux que Fénise elle-même ne peut entendre ce que le Duc est entrain de lui confier, et la valeur assertive de l'expression prend alors tout son sens. De plus, le spectateur peut être sensible à la beauté du dernier vers qui dans sa condensation exprime toute la complexité de la situation : le jeu sur les pronoms qui s'entremêlent autour d'une conjonction de comparaison artificielle est source de plaisir pour le spectateur apte à saisir la finesse de ces propos.
 
 
-## Le personnage de valet comme support du comique
+## Le personnage de valet comme support du comique.
 
 Traditionnellement le valet est le personnage qui garantit le mieux le potentiel comique d'une pièce. Nous l'avons vu, dans la liste des acteurs, rien ne permet de savoir s'il s'agit d'une tragi-comédie ou d'une comédie, le personnel dramatique de cette pièce appartenant à la haute aristocratie. Un seul personnage pourtant réaffirme avec force l'appartenance du *Charme de la voix* au genre de la comédie : Fabrice est présenté comme *bouffon* du Duc. L'un des changements majeurs opérés par Thomas Corneille par rapport à la pièce espagnole *Lo que puede la aprehension* fut de réduire la part de bouffonnerie. Malgré tout, force est de constater que les valets sont dans cette comédie bien plus que de simples utilités dramatiques : Fabrice est presque omniprésent, et si l'on additionne le temps de parole de l'ensemble des personnages de basse condition sociale, on s'aperçoit qu'ils occupent une place équivalente à celle des personnages principaux. Ce que Thomas Corneille a réalisé dans sa réécriture, ce n'est donc pas tant une réduction de la bouffonnerie espagnole qu'une adaptation du potentiel comique du valet espagnol au goût français. Est-ce à dire que les valets de cette pièce n'ont plus rien à voir avec le type du *gracioso* espagnol ? Au contraire, on retrouve tant chez Fabrice que chez Camille, bien des traits caractéristiques du valet espagnol. Nous nous intéresserons surtout à ces deux personnages, Laure, bien que servante, étant dotée d'une subtilité supérieure. En effet lorsque celle-ci sert le comique, c'est avec grâce et finesse, maîtrisant l'art de la parole ironique.
 
 
-### Fabrice et Camille : incarnations du *gracioso*
+### Fabrice et Camille : incarnations du *gracioso*.
 
 Camille et Fabrice rassemblent à eux deux la plupart des qualités traditionnellement dévolues au valet de comédie : ils sont joviaux, dégourdis, commentent de façon ironique les pratiques de leurs maîtres, leur pragmatisme défiant l'idéalisme nobiliaire, et prêchent volontiers pour une morale du corps, l'appétence charnelle devant supplanter l'attirance spirituelle. Essayons de retrouver à présent dans le texte les indices qui permettent de classer ces deux personnages dans la tradition du *gracioso*. Leur jovialité peut-être supposée dans le jeu des acteurs, mais s'affirme encore plus nettement dans leur parole, que nous analyserons plus loin. Un détail permet cependant de souligner leur joie de vivre : à deux reprises, Laure remarque l'enjouement de ses condisciples, que ce soit pour Camille au vers 577 « Tu me le dis avec beaucoup de joye », ou pour Fabrice, au vers 1261 « D'où vient ta belle humeur ? ». La franche gaité semble caractériser nos deux bouffons.
 
@@ -550,7 +550,7 @@ Parfois, le commentaire du valet devient contrepoint critique du maître, ce qui
 Les valets dénoncent parfois les excès de leur maître, en soulignant leurs ridicules. Fabrice notamment, semble regarder avec un œil ironique, la blessure d'amour de son maître. Alors que celui-ci s'apprête à rencontrer pour la première fois celle qu'il aime, il montre une fébrilité peu virile qui amène le valet à moquer le comportement de son maître, en le plaçant dans une certaine position de supériorité. Le Duc est en proie à des inquiétudes injustifiées, et lorsqu'il dit à Fabrice « Je crains… » au vers 380, Fabrice interrompt le Duc pour souligner de façon ironique son extravagance : « Quoy ? les regards qu'elle va vous lancer ? / Pour les tendres de cœur la blessure est mal saine. » Non seulement la question ironique, décomposée en deux interrogations doit faire entendre raison au Duc, mais encore le commentaire qui suit est porteur d'une vérité générale qui confère au valet une certaine grandeur : contrairement au maître agité et ridicule, Fabrice est capable d'une analyse fine qui met en relief les excès comportementaux du Duc. Fabrice est dupe du déguisement, mais il a plus de distance que le Duc, et semble condamner discrètement le comportement du Duc, incapable d'aimer correctement. En effet le valet voit son maître commettre des impairs et tomber dans tous les pièges. C'est pourquoi à la fin de la scène 6 du dernier acte, il lui conseille de « De n'aimer que lui seul, et narguer les cruelles » car de toute évidence, l'amour ne réussit pas au Duc : voulant jouer le jeu de l'amour il ne cesse de se tourner en ridicule. Á la fin de la scène 9 de l'Acte V, lors que le Duc est en proie à une sombre colère, croyant que Carlos défiera son autorité pour épouser la Duchesse, Fabrice donne avec malice ce conseil : « Faites-vous promptement chanter un air de Cour, / Contre tous accidents c'est un puissant remede » : il s'adresse au Duc comme à un enfant capricieux que l'on peut dominer en chantant une berceuse; derrière ce commentaire comique, peut-être peut-on lire en creux une critique de l'effet déraisonnable que provoque la voix de Fénise sur le Duc, et une critique de l'excès d'idéalisme du Duc.
 
 
-### Les valets créateurs de comique de situation
+### Les valets créateurs de comique de situation.
 
 Fidèle et loyal envers le Duc, Fabrice l'est de toute évidence, et nous avons vu comment son zèle pouvait parfois servir son maître. Toutefois, sa balourdise et ses erreurs de jugement l'amènent le plus souvent à commettre des impairs, et tout en se revendiquant l'adjuvant du Duc, il ne cesse d'éloigner celui-ci du but. A plusieurs reprises le comique repose en effet sur les gaffes de Fabrice. Parole maladroite ou erreur tactique, la gaffe est un procédé comique qui nécessite une réception active du spectateur : ayant connaissance des déguisements des personnages, il s'amuse des gaffes de Fabrice car il est capable par anticipation de prévoir les effets contre-productifs des stratagèmes que Fabrice met en place en pensant aider le Duc. Il dessert en effet le Duc en intervenant de son propre chef à la scène 2 de l'Acte III : la Duchesse est présentée au Duc sous l'identité de Fénise, et le Duc est en train de dénigrer devant elle les beautés supposées de la Duchesse elle-même. Nous avons vu comment le Duc lui-même, sans y être invité, se met à mépriser les charmes d'une beauté inconnue devant l'intéressée. Mais ce qui accentue encore le comique de cette scène, c'est l'intervention, tout à fait inopinée de Fabrice (v. 935-936) . Sans qu'on l'ait invité à participer à la conversation, Fabrice intervient pour renchérir sur les propos désobligeants tenus par le Duc à la Duchesse. Le spectateur, qui s'est déjà amusé de la maladresse inconsciente du Duc voit avec plaisir le même phénomène se reproduire sur un mode encore un peu plus prononcé. Tandis que le Duc s'exprime par des généralités, comme l'expression « mornes appas » Fabrice est très concret dans sa description dépréciative, accusant une maigreur contraire aux canons esthétiques de l'époque :
 
@@ -567,24 +567,24 @@ Un dernier exemple de gaffe pose problème car il dépend du crédit que l'on ac
 Ces scènes de comique de situation s'intègrent dans l'intrigue et y participent en favorisant la situation de *quiproquo*. Nous pouvons en de pareils cas parler de comique *utile*. Mais il est un autre genre de comique, que nous pouvons qualifier de superfétatoire : il s'agit de scènes de comique gratuit, sans incidence sur l'avancée dramatique de l'action, et qui semblent n'avoir pour fin que le seul divertissement du spectateur.
 
 
-### Dérision et burlesque
+### Dérision et burlesque.
 
 Le burlesque caractérisait la pièce espagnole de Moreto, dans laquelle les valets commentaient systématiquement le comportement de leurs maîtres en employant un vocabulaire trivial. Cette dimension caractérise moins l'œuvre de Thomas Corneille, car nous avons vu qu'il n'en fait pas l'apanage du comique, comme c'est le cas dans la plupart des pièces de Scarron par exemple. Elle n'en n'est pourtant pas absente, et le comique gratuit se manifeste dans la pièce française par l'omniprésence dans la bouche des valets d'une fantaisie verbale, qui joue sans cesse sur le comique de mots. Fabrice est toujours accompagné du Duc, si bien que son langage contraste avec celui du maître, en créant des ruptures de ton comiques. Fabrice ne cesse par exemple d'inventer des mots, ce qui provoque un effet de jouissance du verbe : le spectateur s'amuse de voir comment le valet prend ses distances avec la norme linguistique, en créant des néologismes comiques. Fabrice crée par exemple des adverbes incongrus : « Ducalement » au vers 217, « simpatiquement » au vers 400, ou encore « très-authentiquement » au vers 1300. La difficulté face à ce type de langage est de trancher sur l'intention du personnage – ou plutôt, du dramaturge qui le fait parler : comment savoir si le valet est conscient d'inventer des mots, auquel cas il faudrait saluer d'un sourire complice son ingéniosité, ou s'il est simplement un balourd qui ne maîtrise pas sa propre langue, auquel cas il est ridiculisé ? Rien ne permet de savoir si dans son langage le valet fait preuve de comique volontaire ou involontaire, pour reprendre la distinction fondamentale opérée par Montesinos [52]. A plusieurs reprises cependant, l'expression de Fabrice est maladroite et il semble plutôt être l'objet du comique. Cela est encore plus visible par l'effet de contraste avec le langage du Duc.
 
 Le comique de mots sert donc le burlesque de façon diffuse dans l'ensemble de la pièce, le comique jaillissant de l'alliance de deux niveaux de langue, celui du maître et celui du valet. Mais le burlesque devient clairement dérision lorsque le valet se retrouve sans maître et que sa parole triviale est donnée à entendre non plus comme simple reflet dévalué de celle du maître, mais comme matière première du comique théâtral. La scène de séduction entre Laure et Fabrice est en ce sens exemplaire de ce comique gratuit, qui ne vaut que pour le divertissement qu'il procure au spectateur. C'est un ajout significatif de la part de l'auteur français. En effet il est intéressant de constater que la scène 4 de l'Acte IV, entièrement rédigée sur le mode de la dérision, est une pure invention de la part de l'auteur. Comme l'auteur a pris peu de distance avec le texte espagnol l'ajout intégral d'une scène est remarquable, et l'on s'aperçoit que cette scène sert un comique totalement gratuit. Fénise quitte la scène et laisse seuls Fabrice et Laure ; dans la scène 2, Laure avait annoncé son intention de sonder Fabrice sur les sentiments du Duc. Il y avait donc au préalable une visée pragmatique de cet entretien de valets. Pourtant, la scène se déroule sans que Fabrice ne révèle quoi que ce soit, et au moment où Laure pose enfin la question, au vers 1291 « Donc en toute franchise/ Dy moy quels sentimens le Duc a pour Fenise. / N'est-ce plus pour sa voix… », les deux valets sont interrompus par l'arrivée du Duc. Cette scène qui s'étend pourtant sur une trentaine de vers, ne contient aucune avancée décisive sur le plan dramatique. En réalité, c'est une vaste parodie burlesque d'une scène de séduction, les valets transposant la relation maître-dame en déplaçant l'idéal du maître vers du trivial assumé comme tel par Fabrice. Il rejoue dans cette scène sur le mode burlesque la comédie de l'amour tendre. Lieux communs, lois de l'amour et métaphores traditionnelles, sont réutilisés par Fabrice sur le mode de l'inversion. Dans sa folie, il pense exceller en matière d'amour, et n'avait pas hésité à répondre au Duc qui lui demande au vers 383 « qui t'a fait si sçavant en matière d'amour ? » avec une pointe d'ironie: « On est en bonne école alors qu'on suit la Cour », intimement convaincu de maîtriser règles et langage de l'amour. Pourtant, la scène de séduction entre Laure et Fabrice va confirmer son incompétence dans le domaine galant : cette cour balourde, transpose sur le mode burlesque les règles de l'amour galant. Fabrice complimente d'abord Laure sur ses yeux, qui ont le pouvoir dit-il, de « pétarder » son cœur : ce terme qui n'appartient pas au discours amoureux crée un effet d'écart de langage. L'expression du sentiment amoureux est maladroite, et la syntaxe totalement bouleversée produit un effet désastreux, « Jusqu'au moindre recoin tes yeux vont ravager. » .On peut ici peut-être faire un parallèle avec ce que fera Monsieur Jourdain dans *Le Bourgeois Gentilhomme*, au moment d'écrire un billet doux : les deux personnages s'efforcent de jouer le jeu de l'amour galant, mais leur gaucherie les perd. Fabrice reprend une à une toutes les métaphores de l'amour mais en les détournant : ainsi en est-il de la rage d'amour, qui devient dans la bouche de Fabrice un argument pour conclure plus vite à un amour charnel : « Mais le plaisir d'amour c'est d'enrager ensemble/ Ainsi si tu voulois enrager tant soit peu… ». Fabrice sait aussi qu'il faut soupirer pour sa Dame mais sa déclaration est maladroite : « J'ai déjà depuis hier, pour preuve de ma foy/ Tâché plus de six fois à soûpirer pour toy », le décompte des soupirs et le modalisateur « tâché », que Laure relève tout de suite, provoquent un effet contraire à celui recherché. Plus loin, Fabrice continue de dénombrer les soupirs nécessaires, « combien de temps faut-il que pour toi l'on soûpire ? », et utilise les vocables « traitable », « quittance », « compte » : l'alliance d'un lexique commercial et d'un lexique amoureux est équivoque, et Fabrice n'est pas loin de laisser penser à un commerce de l'amour. Si parfois Fabrice parvient à s'exprimer galamment, peut-être en plagiant le Duc, « Va, j'en connois le fin, le délicat, le tendre. » (v. 1276) avec ces substantivations de l'adjectif, il se montre le plus souvent très prosaïque : « es-tu traitable ? », « je crains en sôupirant quelque indigestion » et la diérèse insiste en plus sur le terme le plus prosaïque. Amour et comédie sont donc lié dans la parole burlesque de Fabrice, qui détourne et parodie ainsi la représentation tendre et galante de l'Amour.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation du texte de l'édition établie
+## Présentation du texte de l'édition établie.
 
 L'exemplaire qui a servi de base à la réalisation de cette édition est conservé à la Bibliothèque Nationale de France (site Richelieu) au département des Arts du spectacle sous la cote RF-2679. Il s'agit de l'édition originale datée de 1658 et imprimée pour la première fois à Rouen par L. MAURRY, comme bon nombre des œuvres des frères Corneille, et l'achevé d'imprimé porte la date suivante : « quatriesme Janvier 1658 ». Le Privilège du Roy est daté du 28 décembre 1657. L'exemplaire s'est vendu tant chez Augustin Courbé que chez Guillaume de Luyne, en vertu d'un accord passé entre les deux Marchand Libraires le « vingt-cinquieme Decembre 1657 ». Il fut registré sur le Livre de la Communauté des Marchands Libraires de Paris, le « vingt-huitiesme Decembre mil six cens cinquante sept. ». Cet exemplaire est le seul que nous ayons trouvé jusqu'à présent car toutes les autres émissions ou éditions que nous possédons ont été achevées d'imprimer à des dates ultérieures.
 
 Il est important de noter que le privilège du Roy vaut ici pour cette pièce mais aussi pour la tragédie de *Timocrate.* Compte tenu du succès rencontré par cette pièce, il n'est pas surprenant que les libraires aient cherché à passer un accord afin de partager les coûts et les bénéfices, importants du fait de la demande massive. *Le charme de la voix* au contraire, qui fut un échec, a plutôt profité de ce privilège.
 
 
-## Description matérielle de notre exemplaire
+## Description matérielle de notre exemplaire.
 
 Il s'agit d'un in 12 de 97 pages chiffrées se présentant ainsi  [53]:
  * – I page de titre : LE/ CHARME/ DE LA VOIX/ *COMEDIE*. / fleuron du libraire représentant une corbeille de fruits et de fleurs / *imprimé à* ROUEN/, *Et se vend*/A PARIS, /chez/ AUGUSTIN COVRBE, au Palais, en la/ Gallerie des Merciers, à la Palme/ Et/ GUILLAUME DE LVYNE, Libraire Juré, / dans la mesme Gallerie, / à la Iustice./ M. DC. LVIII./ AVEC PRIVILEGE DU ROY.
@@ -595,12 +595,12 @@ Il s'agit d'un in 12 de 97 pages chiffrées se présentant ainsi  [53]:
  * – 98-99 : « PRIVILEGE DU ROY » et « ACHEVE D'IMPRIMER »
 
 
-## Liste des éditions ultérieures publiées du vivant de l'auteur
+## Liste des éditions ultérieures publiées du vivant de l'auteur.
 
 Comme la pièce fut un échec, on ne trouve aucune édition séparée de la pièce, postérieure à celle de 1658. En revanche, la pièce est très souvent présente dans les recueils collectifs factices de Thomas Corneille, comme pour « écouler » les exemplaires en vendant la pièce reliée à d'autres pièces qui connurent, elles, un grand succès. On remarque que ces recueils regroupent presque toujours les mêmes pièces : il s'agit des premières comédies de Thomas Corneille, toutes « à l'espagnole ».
 
 
-## Éditions collectives des œuvres de Thomas Corneille dans lesquelles figure *Le Charme de la Voix*
+## Éditions collectives des œuvres de Thomas Corneille dans lesquelles figure *Le Charme de la Voix*.
 
 Nous avons trouvé un recueil collectif des œuvres de Thomas Corneille, à la Bibliothèque de Versailles sous la cote 488. Cette édition en in 12 ° appartient à la collection Jean et Henriette Lebaudy, collectionneurs de livres anciens particulièrement friands de récits de voyage, qui firent don de l'intégralité de leurs collections dans les années 1970 à la Bibliothèque de Versailles. Ce recueil est paru sous le titre suivant *Poëmes dramatiques de T. Corneille, I. Partie* et semble en réalité être une émission nouvelle d'une édition parue en 1660 dont nous n'avons pas retrouvé la trace. En effet, un premier achevé d'imprimer date du 15 décembre 1660, à Rouen, par L. MAURRY. Suit ensuite ce court paragraphe : « Et du depuis ledit Sieur Courbé a cedé les droits qu'il avoit au susdit Privilege aux Sieurs Thomas Jolly & Louis Billaine, suivant l'accord fait entr'eux. » qui donne lieu à un nouvel achevé d'imprimer de l'édition, datant de Décembre 1664, à Rouen, toujours par L. MAURRY. Le recueil présente six comédies de Thomas Corneille, qui sont ici citées dans l'ordre de présentation des pièces, *les Engagements du Hazard, Le Feint Astrologue, Don Bertrand de Cigaral, L'Amour à la mode, Le Berger extravagant, et Le Charme de la Voix.* L'exemplaire est très beau, riche en illustrations et avec des reliures dorées. A gauche de la scène 1 de l'Acte I, on trouve un frontispice représentant deux hommes en grande conversation, l'un richement vêtu, l'autre en habits de valet, Le Duc et Fabrice ; Le Duc interrompt de la main le babillage de son valet et lève la tête à l'écoute d'une voix qu'il entend au dessus de lui. On peut voir en effet en haut à droite de la gravure une femme qui tient un instrument de musique, un lut probablement, et qui souriant derrière une jalousie qui la cache des regards extérieurs, baisse les yeux vers le Duc. Ce frontispice est signé en bas à droite « Math. Fe. ». Il ne correspond à aucune scène identifiable de la pièce. Il faut plus y voir une représentation symbolique de l'argument de la pièce, la saisie d'un moment imaginaire qui dit le mieux l'intégralité de la pièce.
 
@@ -615,10 +615,10 @@ Nous avons trouvé à la Bibliothèque Nationale de France (site Tolbiac) , un 
 Nous avons trouvé à la Bibliothèque Nationale de France (site Tolbiac) , dans la salle Y des livres rares, un recueil factice contenant *Le Charme de la Voix*, enregistré sous la cote RES-YF-3085 (3) . Trois comédies y sont regroupées, *l'Amour à la mode, Le Berger extravagant, Le Charme de la Voix.* Le recueil est en in 12°. L'exemplaire du *Charme de la Voix* ici présenté ressemble en tout point aux deux exemplaires mentionnés au dessus : on retrouve la marque à la sphère sur la première page, suivie de la mention « suivant la copie imprimée à Paris, M. DC. LXXXXI », la graphie et les règles de typographies sont identiques.
 
 
-## Établissement du texte : liste des corrections opérées
+## Établissement du texte : liste des corrections opérées.
 
 
-### Sur la graphie
+### Sur la graphie.
 
 Nous avons scrupuleusement respecté la graphie de l'exemplaire de l'édition originale, y compris la présence ou l'absence d'accents effectifs ou diacritiques. Nous avons systématiquement rétabli la distinction entre *u* et *v* ainsi qu'entre *j* et *i*. Nous avons aussi systématiquement développé les *&* en *et*.
 
@@ -633,7 +633,7 @@ Nous avons aussi restitué l'espace manquant au vers 259 entre « moy/ témoin�
 Enfin, nous avons systématiquement restitué les accents diacritiques en remplaçant *a* par *à* aux vers 55 et 1840.
 
 
-### Sur la ponctuation
+### Sur la ponctuation.
 
 Même lorsque celle-ci nous a surpris, nous avons respecté la ponctuation du texte d'origine. Nous avons cependant fait des corrections lorsqu'il s'agissait d'une coquille évidente :
 
@@ -651,7 +651,7 @@ Les lettres entre crochets, à droite du texte, correspondent aux changements de
 # LE CHARME DE LA VOIX, COMÉDIE.
 
 
-## Monsieur,
+## Monsieur,.
 
 Je n'appelleray point du jugement du Public sur cette Comédie, pour tâcher à vous faire estimer davantage le présent que je vous en fais. Il peut se laisser surprendre dans les approbations qu'il donne, et ces tumultueux applaudissements qu'une première émotion luy fait quelquefois accorder d'abord à ce qu'il n'a pas bien examiné, ne sont pas toûjours d'infaillibles garands de la veritable beauté de nos Poëmes ; mais il arrive rarement qu'il condamne ce qui merite d'être approuvé, et puis qu'il s'est déclaré contre celui-cy, je dois être persuadé qu'il a eu raison de le faire. On m'accusera sans doute d'une franchise peu judicieuse d'en demeurer d'accord avec vous, lors que je prens la liberté de vous l'offrir, et j'aurois lieu d'appréhender que vous n'entrassiez dans ce sentiment, si je n'étois asseuré que vous ne m'imputerez pas ce qu'il a de plus defecteux, et que séparant ce que vous y cognoistrez de moy d'avec ce qui n'en n'est pas, vous serez assez équitable, pour trouver de l'injustice à me vouloir faire répondre des fautes d'autruy. J'ay rendu si religieusement jusqu'icy ce que j'ay creu devoir aux Auteurs Espagnols qui m'ont servy de guides dans les sujets Comiques qui ont paru de moy sur la Scene avec quelque succez, qu'on ne doit pas trouver estrange, si leur en ayant fait partager la gloire, je refuse de me charger de touste la honte qui a suivy le malheur de ce dernier, puisqu'en effet j'eusse peut-être moins failly, si je ne me fusse pas attaché si étroitement à la conduite de D. Augustin Moreto, qui l'a traité dans sa langue, sous le titre de *Lo que puede la apprehension.* Si vous voulez vous souvenir de la lecture que nous fismes ensemble de cet Original, avant que j'en commençasse la Copie, vous vous souviendrez en même temps que j'en combattis opiniastrement tous les caractères, et soustins que quelque soin que l'on apportast à les justifier pour le faire paroistre avec quelque grace sur nôtre Theatre, il seroit impossible d'en venir à bout, sans faire voir tousjours ceux qui sont intéressez dans cette intrigue plus capricieux que raisonables ; néantmoins cet excellent Ami qui me portoit à ce dessein, appuya si fortement devant vous le conseil qu'il m'avoit déjà donné d'y travailler, que vous vous en laissâtes vous-même persuader, et creustes que puisque la bizarrerie des motifs, qui font agir tous les personnages de cette Comédie, avoit été reçeuë en Espagne avec acclamation, il y avoit lieu d'esperer, que pour peu que j'employasse d'adresse à les rendre plus justes, ils ne déplairoient pas en France. Il n'en falut point davantage pour me forcer à me rendre, je ne voulus plus opposer que le goût des deux Nations est fort différent, que ces entretiens de Valet de Bouffons avec des Princesses et des Souverains, que l'une souffre tousjours avec plaisir dans les actions les plus sérieuses, ne sont jamais supportables à l'autre, dans les moins importantes, et que les plus ingénieuses nouveautez deviennent rarement capables de nous divertir quand elles semblent en quelque sorte opposées à la raison. L'évenement a fait voir que je n'en avois pas mal jugé, je ne sçaurois toutefois me repentir entierement de m'estre exposé à cette petite disgrace contre mes sentimens, puis qu'elle vous doit convaincre de la déférence que j'ai pour les vostres, et de la passion avec laquelle je suis,
 
@@ -919,7 +919,7 @@ Jusqu'icy mon respect vous a trop fait cognoistre… [79]
     FEDERIC.
 Hastez-vous de rentrer, le Duc s'en va paroistre [80].  
 
-    FENISE *à Laure.*
+    FENISE *à Laure.*.
 C'est ma voix qui l'attire.  
 
     LAURE.
@@ -942,7 +942,7 @@ Qu'il souffrira pour moi si je souffre pour luy.
 LE DUC, FEDERIC , FABRICE .
 
 
-    LE DUC *à Fabrice.*
+    LE DUC *à Fabrice.*.
 Si tu peux à mon mal trouver quelque remede⁎…  
 Mais verray-je en tous lieux que Federic m'obsede⁎,  
 Et faut-il, pour surcroist de gesne⁎ et de chagrin  
@@ -1065,7 +1065,7 @@ On entend quelques accords de Tuorbe [99].
         Fenise va chanter,  
 C'est le signal, approche, il la faut escouter.  
 
-    FENISE. *Chante derriere le Theatre .*
+    FENISE. *Chante derriere le Theatre .*.
 
 Si dans l'ennuy⁎ dont mon ame est atteinte  
 Mes soûpirs chaque jour vous adressent ma plainte,  
@@ -1108,10 +1108,10 @@ Si ce bruit n'est point faux, que ne se montre-t'elle ?
 Peut-estre…mais je crois ouyr encor sa voix,  
 Escoute.  
 
-    FABRICE, *à Fenise.* 
+    FABRICE, *à Fenise.*.
         Un peu plus haut que la premiere fois.  
 
-    FENISE *continuë à chanter.* 
+    FENISE *continuë à chanter.*.
 
 Je cognoy bien qu'au mal qui me possede⁎  
 Je n'applique par là qu'un impuissant remede⁎,  
@@ -1120,7 +1120,7 @@ Mais en vain en fuyant vostre onde s'en offence.
 Quand on perd l'esperance,  
 On peut bien perdre des soûpirs.  
 
-    LE DUC. *à Fenise.* 
+    LE DUC. *à Fenise.*.
 Ah, si d'un cœur soûmis vous estimez l'hommage,  
 Perdrez-vous des soûpirs que mon amour partage,  
 Et lors que par l'espoir le sort se peut braver,  
@@ -1216,7 +1216,7 @@ Vous la fait accourcir par un grand, c'est assez,
 Et sourcilleusement, nous laissant seuls ensemble,  
 Sans plus longue replique il tourne où bon luy semble.  
 
-    CARLOS. 
+    CARLOS.
 Mais enfin le sujet, quel est-il ?  
 
     CAMILLE.
@@ -1302,7 +1302,7 @@ Que dira Federic ?
 Si j'obtiens de sa fille un favorable adveu⁎.  
 Enfin je la verray, cette aimable⁎ incognuë.  
 
-    FABRICE
+    FABRICE.
 Ce poste [115] bien gardé vous asseure sa veuë.  
 
     LE DUC.
@@ -1383,7 +1383,7 @@ Pour les tendres de cœur la blessure est mal saine.
 LE DUC, FENISE, LAURE, FABRICE.
 
 
-    FENISE, *à Laure.*
+    FENISE, *à Laure.*.
 As-tu remis ce Lut ?  
 
     LAURE.
@@ -1403,17 +1403,17 @@ Mais as-tu veu jamais beauté plus surprenante ?
 Ma foy, je n'en sçay rien, j'œillade la suivante,  
 Comme elle est plus mon fait, elle est plus à mon gré.  
 
-    FENISE. *A Laure*
+    FENISE. *A Laure*.
 Dieux, comment jusqu'icy le Duc est-il entré ?  
 Feignons grande surprise.  
 
-    LE DUC. *A Fenise.*
+    LE DUC. *A Fenise.*.
         Enfin, je puis, Madame…  
 
-    FENISE 
+    FENISE. 
 Ah Laure, où sommes-nous ?  
 
-    FABRICE. *Au Duc*
+    FABRICE. *Au Duc*.
         Couchez [127] viste de flame.  
 
     LE DUC.
@@ -1445,14 +1445,14 @@ Quoy, vous ne l'estes point ?
     FENISE.
     Non, Seigneur.  
 
-    LE DUC. *A Fabrice*
+    LE DUC. *A Fabrice*.
         Qu'est-ce-cy ?  
 Que tousjours le malheur me persecute ainsi !  
 
-    FABRICE. *Au Duc.*
+    FABRICE. *Au Duc.*.
 Ma foy, nous allions mal adresser nos [128] fleurettes⁎.  
 
-    LAURE *à Fenise*
+    LAURE *à Fenise*.
 Mais de grace, à quoy bon luy cacher qui vous estes ?  
 
     FENISE. 
@@ -1470,7 +1470,7 @@ Ce soin de l'une et l'autre est le plus cher employ,
 Mais Celie est d'un rang plus eslevé que moy,  
 Comme Dame d'honneur, il faut que je lui cede⁎.  
 
-    LE DUC, *A Fenise*
+    LE DUC, *A Fenise*.
 Vous estes donc la Dame ?  
 
     LAURE.
@@ -1497,7 +1497,7 @@ Quand de cette visite ayant sçeu la nouvelle,
 Par cét autre escalier nous quittant promptement,  
 Elle a couru le joindre en son appartement.  
 
-    LE DUC. *A Fabrice*
+    LE DUC. *A Fabrice*.
 O succez [131] impreveu d'une heureuse entreprise !  
 Que je trouve Celie où je dois voir Fenise !  
 
@@ -1511,7 +1511,7 @@ Ah, non Fabrice, non, mon mal est sans remede⁎,
 J'ay beau voir dans Celie esclater⁎ mille appas⁎,  
 C'est en manquer pour moy que de ne chanter pas.  
 
-    FENISE *a Laure*
+    FENISE *a Laure*.
 Eh bien ? quoy qu'à ma voix il semble rendre hommage,  
 Veux-tu d'un plein mépris un plus clair témoignage,  
 Et crois-tu que mes yeux, pour en faire un captif,  
@@ -1521,7 +1521,7 @@ A peine il me regarde [132].
     LAURE.
         Et c'est là ma surprise.  
 
-    LE DUC. *A Fenise*
+    LE DUC. *A Fenise*.
 Voudriez-vous pour moy dire un mot à Fenise ?  
 
     FENISE.
@@ -1590,7 +1590,7 @@ Non, tout ce que [133] jamais j'ay veu de plus charmant
 N'a pû faire à mon cœur de surprise un moment,  
 Ce sont fades beautez indignes qu'on leur cede.  
 
-    FENISE. *Bas à Laure.*
+    FENISE. *Bas à Laure.*.
 Qu'ose-t-il dire, Laure, il me trouve donc laide ?  
 
     LE DUC.
@@ -1601,7 +1601,7 @@ C'est par elle qu'au mien Fenise est adorable,
 Et que j'estime autant cét objet⁎ incognu  
 Que je sens de mépris pour tout ce que j'ay veu.  
 
-    FENISE,*A Laure*
+    FENISE,*A Laure*.
 Helas ! Que de mon sort le caprice⁎ est extréme,  
 Si l'on me desoblige⁎ à me dire qu'on m'ayme !  
 Il faut pourtant pousser la chose encor plus loin.  
@@ -1642,7 +1642,7 @@ Je vous le dirois bien, mais je ne sçaurois croire
 Que vous eussiez si-tost pû manquer de mémoire,  
 Apres ce que desja vous avez sçeu de moy…  
 
-    FABRICE *au Duc*
+    FABRICE *au Duc*.
 Oyez-vous la friponne ? Elle parle pour soy [136].  
 
     LE DUC.
@@ -1682,7 +1682,7 @@ Le Duc et Fabrice s'en vont.
 Ah, Laure ! à sa froideur voy quel mépris est joint !  
 Que mon malheur est grand !  
 
-    FABRICE.*revenant*
+    FABRICE.*revenant*.
         Ne vous affligez point.  
 Si par hazard vostre ame estoit embarrassée  
 De quelque trait d'amour dont elle fust pressée,  
@@ -1764,7 +1764,7 @@ Quoy, d'un pareil employ ne craint-il point la honte ?
 A le voir on diroit qu'il y trouve son conte [140] .  
 Pour le moins il prétend⁎…mais il vous dira tout.  
 
-    LAURE *à Fenise.*
+    LAURE *à Fenise.*.
 Voyez-vous que le Duc pousse l'affaire à bout ?  
 
     FENISE.
@@ -1791,7 +1791,7 @@ CARLOS, FENISE, LAURE, CAMILLE.
 Et sur nous desormais sa faveur se déploye,  
 Voyez dans ce billet la cause de ma joye.  
 
-    FENISE. *Lit*
+    FENISE. *Lit*.
 
 Carlos, sans trop abatre⁎ ou flater⁎ son espoir,  
 Jusques dans ses Estats ramenez la Duchesse,  
@@ -1838,7 +1838,7 @@ Mes soûpirs malgré moy vous ont entretenuë,
 C'est que contraint ailleurs à les trop resserrer,  
 Ce cœur aupres de vous cherchoit à respirer [143].  
 
-    FENISE. *A Laure*
+    FENISE. *A Laure*.
 Où m'alloit engager mon imprudence extrême,  
 Sans sçavoir mon secret il parle pour luy mesme,  
 Pour nous entendre mal j'ay pensé me trahir.  
@@ -2165,7 +2165,7 @@ Ce talent est aimable⁎.
 Pendant ma solitude il flattoit⁎ mon soucy⁎.  
 Donne.  
 
-    LAURE *Rentrant.*
+    LAURE *Rentrant.*.
     Le Duc, Madame…  
 
     LA DUCHESSE.
@@ -2190,7 +2190,7 @@ Sous ce nom emprunté j'ay passé [150] pour suivante.
     LA DUCHESSE.
 Ce jeu de vostre esprit ne se peut trop priser.  
 
-    FENISE, *luy donnant son lut.*
+    FENISE, *luy donnant son lut.*.
 Servez-vous de ce Lut pour le mieux abuser⁎.  
 
 
@@ -2238,7 +2238,7 @@ Tay-toy.
     FABRICE.
         Son instrument est d'un fâcheux accord.  
 
-    FENISE *à la Duchesse.*
+    FENISE *à la Duchesse.*.
 Il ne s'avance point.  
 
     LA DUCHESSE.
@@ -2250,7 +2250,7 @@ Cherchez, Laure, mais Dieux ! qui nous observe ainsi ?
     FENISE.
 Madame, c'est le Duc.  
 
-    LE DUC, *à la Duchesse.*
+    LE DUC, *à la Duchesse.*.
         Enfin, belle Fenise,  
 Le Ciel par son adveu⁎ soustient mon entreprise,  
 Puisque malgré vos soins à vous cacher de moy  
@@ -2280,7 +2280,7 @@ Mais comment les borner quand on vous peut cognoistre,
 Et qu'on admire en vous ces merveilleux accords  
 Des charmes de la voix et des beautez du corps ?  
 
-    FENISE *à Laure.*
+    FENISE *à Laure.*.
 Que luy parois-je donc s'il la trouve charmante⁎ ?  
 
     LAURE.
@@ -2307,13 +2307,13 @@ Mon cœur vous soit donné par les mains de l'amour.
 Que dis-je ? il est à vous, et la gloire où j'aspire  
 N'est que d'estre avoüé⁎ quand j'ose vous le dire.  
 
-    LA DUCHESSE, *à Fenise*
+    LA DUCHESSE, *à Fenise*.
 Voyez qu'à ma vangeance il se livre à propos⁎.  
 
-    FENISE *à la Duchesse*
+    FENISE *à la Duchesse*.
 Mais n'oublierez-vous point le malheureux Carlos ?  
 
-    LA DUCHESSE *au Duc.* 
+    LA DUCHESSE *au Duc.*. 
 Si c'est-là de la Cour le langage ordinaire⁎,  
 Il faudra que j'apprenne à n'estre plus sincere. [156]  
 
@@ -2338,7 +2338,7 @@ Carlos jusques à Parme est allé la conduire ?
 J'en hay jusques au nom, et trouverois plus doux  
 De vivre sans Estats que de vivre sans vous.  
 
-    FENISE, *à Laure.*
+    FENISE, *à Laure.*.
 Quelle asseurance, Laure, et qu'il la trouve aymable⁎ !  
 
     LA DUCHESSE.
@@ -2351,7 +2351,7 @@ Et je m'exposerois…
         Pensez-en mieux de grace,  
 Est-il quelque beauté que la vostre n'efface ?  
 
-    LA DUCHESSE, *à Fenise.*
+    LA DUCHESSE, *à Fenise.*.
 J'obtiens sous vostre nom un accueil assez doux,  
 Voyez ce que je puis luy promettre pour vous,  
 Respondray-je en cruelle [158], ou seray-je propice⁎ ?  
@@ -2404,7 +2404,7 @@ Quelque esclat de beauté qu'estale la Duchesse,
 Eust-elle mille attraits capables de charmer,  
 N'ayant point vostre voix, je ne la puis aymer.  
 
-    LAURE *à Fenise.*
+    LAURE *à Fenise.*.
 Cela va bien pour vous.  
 
     LE DUC.
@@ -2447,7 +2447,7 @@ Adieu.
     LE DUC.
         Quoy ? me quitter ! Madame, encor deux mots.  
 
-    LA DUCHESSE, *à Fenise.*
+    LA DUCHESSE, *à Fenise.*.
 Allons, il faut donner mes ordres à Carlos.  
 
 
@@ -2508,7 +2508,7 @@ Mais me dites-vous vray ?
         Je vous parle sans fard⁎.  
 Est-ce avec vous, Seigneur, qu'il est permis de feindre ?  
 
-    LE DUC, *à Fabrice.*
+    LE DUC, *à Fabrice.*.
 Qu'elle est folle ! entens-tu ?  
 
     FABRICE.
@@ -2523,7 +2523,7 @@ Tu vois.
         Pour la payer de tous ses badinages,  
 Mariez-là, Seigneur, à quelqu'un de vos pages.  
 
-    FENISE, *au Duc.* 
+    FENISE, *au Duc.*. 
 Enfin sur cet amour il faut vous declarer.  
 
     LE DUC.
@@ -3063,7 +3063,7 @@ Son feu tâchois par là de s'asseurer du sien.
     FABRICE.
 Donc après cette espreuve il en peut tout attendre ?  
 
-    FENISE
+    FENISE.
 Ouy, s'il l'aime en effet.  
 
     FABRICE.
@@ -3232,7 +3232,7 @@ Et quand il vous fait voir jusqu'au fonds de mon ame,
 Une injuste rigueur est le prix de ma flame.  
 Helas !  
 
-    FABRICE, *au Duc.*
+    FABRICE, *au Duc.*.
         Si vous voulez reüssir cette fois,  
 Parlez de la beauté plustost que de la voix,  
 J'ay bien menty pour vous.  
@@ -3324,7 +3324,7 @@ Le voicy qui paroist.
 LE DUC, LA DUCHESSE, CARLOS, FABRICE, CAMILLE.
 
 
-    CARLOS, *à Camille.*
+    CARLOS, *à Camille.*.
         Que voy-je ? la Duchesse ?  
 Ah, le Duc la cognoit, et tout espoir me laisse.  
 
@@ -3335,7 +3335,7 @@ Puisque l'amour le veut, ne parlons plus de crime,
 Sans rien craindre de moy, rentrez dans mon estime,  
 Je vous la rends entiere avec la liberté.  
 
-    CAMILLE, *à Carlos.*
+    CAMILLE, *à Carlos.*.
 Le vent pour estre Duc soufle du bon costé.  
 
     CARLOS.
@@ -3384,7 +3384,7 @@ Ce haut rang de Duchesse à qui ce cœur apporte…
     LA DUCHESSE.
 Il n'est pas temps, Carlos, de parler de la sorte.  
 
-    LE DUC, *à la Duchesse.*
+    LE DUC, *à la Duchesse.*.
 Quoy, de vostre rigueur l'excez est-il si grand  
 Que vous desadvoüiez l'hommage qu'il vous rend ?  
 Et lors que seur d'un feu qui s'augmente sans cesse,  
@@ -3710,7 +3710,7 @@ Et qu'en voyant l'effort, vous puissiez tesmoigner
 Quels nobles sentimens me le font desdaigner.  
 Je l'apperçois qui vient.  
 
-    FENISE, *à Laure.*
+    FENISE, *à Laure.*.
         Qu'une épreuve si rude  
 A mon cœur alarmé cause d'inquietude⁎ !  
 Ah, Laure.  
@@ -3725,7 +3725,7 @@ Forcez vous un moment à garder le silence.
 LE DUC, LA DUCHESSE, FENISE, LAURE, FABRICE.
 
 
-    LE DUC, *à la Duchesse.*
+    LE DUC, *à la Duchesse.*.
 Madame, le succez passe mon esperance,  
 Mes vœux par Federic jusqu'icy condamnez  
 D'aucun crime d'Estat ne sont plus soupçonnez,  
@@ -3733,7 +3733,7 @@ Et c'est par son adveu⁎ que mon ame charmée
 Vient vous rendre ma foy⁎ pleinement confirmée,  
 Recevez-en pour gage et mon cœur et ma main.  
 
-    FENISE, *à Laure.*
+    FENISE, *à Laure.*.
 Dieux, quelle offre !  
 
     LAURE.
@@ -3762,7 +3762,7 @@ Par ces yeux vifs et doux, le charme de mon ame,
 Par cette belle voix, la source de ma flâme,  
 Cette voix que me fit connoistre le hazard.  
 
-    FABRICE, *au Duc.*
+    FABRICE, *au Duc.*.
 Pour ne vous point broüiller laissez la voix à part,  
 Oubliez-vous ainsi ?  
 
@@ -3780,7 +3780,7 @@ A trouvé ma raison avec mes sens d'accord,
 Et cedant à vos yeux une pleine victoire,  
 Mon cœur par sa défaite a signalé leur gloire.  
 
-    FENISE, *à Laure.*
+    FENISE, *à Laure.*.
 C'en est fait, sa beauté l'emporte sur ma voix.  
 Qu'a-t'elle plus que moy qui merite son choix ?  
 Ah, je perds patience.  
@@ -3790,7 +3790,7 @@ Ah, je perds patience.
 C'est vostre seule voix, vous dis-je, qu'il adore,  
 Quoy qu'il proteste⁎ icy, l'espreuve en fera foy.  
 
-    LE DUC 
+    LE DUC. 
 Oserois-je expliquer ce silence pour moy ?  
 
     LA DUCHESSE.
@@ -3811,7 +3811,7 @@ Qu'en effet vostre amour en recognoit l'empire,
 Mais de grace, sans fard⁎ esclaircissons un point,  
 Me pouriez-vous aimer si je ne chantois point ?  
 
-    LE DUC *à Fabrice.*
+    LE DUC *à Fabrice.*.
 Elle veut m'éprouver. Que dites-vous, Madame ?  
 
     LA DUCHESSE.
@@ -3829,7 +3829,7 @@ Songer à la revolte⁎ après vous avoir veuë,
 C'est une trahison dont le crime honteux  
 Ne soüillera jamais la gloire de mes feux.  
 
-    FENISE *à Laure.*
+    FENISE *à Laure.*.
 Je n'en puis plus souffrir⁎, le dépit⁎ me surmonte,  
 Tu vas voir ma vangeance, ou ma dernière honte.  
 Elle sort
@@ -3856,7 +3856,7 @@ Car enfin nostre [188] empire est un peu tyrannique,
 Et comme nostre orgueil soustient ce qu'il résout,  
 Une femme est à craindre alors qu'elle peut tout.  
 
-    LE DUC
+    LE DUC.
 On entend quelques accords de Lut.
 
 Ce pouvoir…mais, ô Dieux ?  
@@ -3867,7 +3867,7 @@ Ce pouvoir…mais, ô Dieux ?
     LE DUC.
 J'entens toucher⁎ un Lut.  
 
-    LA DUCHESSE *bas se destournant.*
+    LA DUCHESSE *bas se destournant.*.
         Je ne voy plus Fenise.  
 Haut
 
@@ -3877,17 +3877,17 @@ Mes filles quelquefois voulant me divertir…
 Leur dessein⁎ est trop juste, et j'y dois consentir,  
 Il faut les escouter. Dieux !  
 
-    FABRICE *au Duc.*
+    FABRICE *au Duc.*.
         Vostre amour s'alarme ?  
 
     LE DUC.
 C'est le mesme signal [189] de la voix qui me charme.  
 
-    LA DUCHESSE, *bas.*
+    LA DUCHESSE, *bas.*.
 O Ciel ! se pourroit-il, m'ayant tant protesté⁎,  
 Qu'une voix dans son cœur effaçast ma beauté ?  
 
-    FENISE, *chante derriere le Theatre.*
+    FENISE, *chante derriere le Theatre.*.
 
 En vain de mes souspirs laissez sans esperance  
 Vous croiriez reparer l'offence  
@@ -3900,7 +3900,7 @@ Dieux ! eust-il rien d'esgal au trouble de mon ame ?
 C'est cette mesme voix qui fit naistre ma flame.  
 Mais non, la ressemblance a pû me decevoir⁎.  
 
-    LA DUCHESSE, *bas.*
+    LA DUCHESSE, *bas.*.
 Qu'il ose de mes yeux balancer le pouvoir,  
 Et d'un lâche caprice⁎ appuyant l'imposture  
 Joindre au premier outrage une seconde injure !  
@@ -3919,7 +3919,7 @@ Mais sur moy la Musique eut tousjours ce pouvoir [192].
     LA DUCHESSE.
 De grace, seyez-vous, que je puisse me seoir.  
 
-    LE DUC, *bas.* 
+    LE DUC, *bas.*. 
 Qui croiroit que mon cœur, malgré sa foy⁎ promise,  
 Dans Fenise desja ne trouvast plus Fenise ?  
 M'auroit-on pû tromper ?  
@@ -3934,7 +3934,7 @@ Dont soudain son adveu⁎ m'a fourny les clartez,    
 Et qui dans un instant par un pouvoir extréme  
 Vous rendent à mes yeux different de vous-mesme.  
 
-    LE DUC, *bas*
+    LE DUC, *bas*.
 A quel fâcheux tourment me va-t'elle exposer,  
 S'il faut qu'elle s'obstine à me favoriser ?  
 
@@ -3948,10 +3948,10 @@ On entend encor le lut
 
 Et que [193]…mais malgré moy je me sens emporter [194].  
 
-    LA DUCHESSE, *bas*
+    LA DUCHESSE, *bas*.
 C'en est trop, pour ma gloire il est temps d'éclater⁎.  
 
-    FENISE, *chante.*
+    FENISE, *chante.*.
 
 En vain vous me diriez que vostre ame charmée  
 D'un feu si pur est consumée,  
@@ -4136,7 +4136,7 @@ La Duchesse…
     CAMILLE.
         Est arrivée icy.  
 
-    LE DUC. 
+    LE DUC. .
 Que dis-tu ? la Duchesse ?  
 
     CAMILLE.
@@ -4146,7 +4146,7 @@ Que dis-tu ? la Duchesse ?
 Tout le sexe [197] aujourd'huy d'assez prés vous talonne.  
 Voilà pour bien encor exercer vos esprits.  
 
-    LE DUC, *à Camille.*
+    LE DUC, *à Camille.*.
 Fay venir Federic, le conseil en est pris.  
 
     FABRICE.
@@ -4204,7 +4204,7 @@ D'asseurer à Carlos le bon-heur qu'il espere.
     LE DUC.
 Je l'empescheray bien, ce temeraire amour.  
 
-    FABRICE, *au Duc*
+    FABRICE, *au Duc*.
 Faites-vous promptement chanter un air de Cour [199],  
 Contre tous accidents c'est un puissant remede⁎.  
 
@@ -4270,7 +4270,7 @@ O Dieux !
     FABRICE.
         Il va crier, ô Dieux ! jusqu'à demain.  
 
-    LE DUC, *à la Duchesse.*
+    LE DUC, *à la Duchesse.*.
 Pardonnez mon silence à ma juste surprise,  
 Mais si l'on m'a dit vray, qui peut estre Fenise ?  
 
@@ -4281,13 +4281,13 @@ Si vous sçaviez aimer, le demanderiez-vous ?
     LE DUC.
 Quoy, c'est donc vous, Madame ? ô bonheur, ô miracle !  
 
-    LA DUCHESSE, *au Duc*
+    LA DUCHESSE, *au Duc*.
 A l'amour de Carlos voudrez-vous mettre obstacle ?  
 
-    LE DUC, *à la Duchesse.*
+    LE DUC, *à la Duchesse.*.
 Puis-je assez m'excuser, Madame…  
 
-    FABRICE, *montrant l'assemblée*
+    FABRICE, *montrant l'assemblée*.
         Arrestez-là,  
 Laissez ce monde en paix puisque vous y voila,  
 L'éclaircir plus avant seroit pure sottise.  
@@ -4313,10 +4313,10 @@ Achevé d'imprimer pour la premiere fois le quatrieme Janvier 1658. A ROUEN, par
 Les Exemplaires ont esté fournis.
 
 
-# Glossaire
+# Glossaire.
 
 
-## Dictionnaires cités et abréviations utilisées
+## Dictionnaires cités et abréviations utilisées.
 
 *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue française: ses expressions propres, figurées & burlesques, la prononciation des Mots les plus difficiles, le Genre des Noms, le Régime des Verbes*, par Richelet, paru en 1680, ou (R) .
 
@@ -4325,12 +4325,12 @@ Les Exemplaires ont esté fournis.
 *Le Dictionnaire de l'Académie française*, paru en 1694, ou (DA).
 
 
-## Glossaire général
+## Glossaire général.
 
 Cette liste rassemble dans l'ordre alphabétique tous les mots suivis d'un astérisque dans le texte de la pièce. Nous avons à chaque fois précisé entre parenthèses toutes les occurrences du terme en notant les numéros de vers. Lorsque le terme connait plusieurs significations, nous les avons précisées. Nous avons à chaque fois précisé, à l'aide d'abréviation, la source de la définitionA proposDans l'ocasion, le moment et le tems favorable. (R)V. 187, 885.AbatreSe dit figurément en Morale, des troubles et des afflictions de l'ame et du corps, (F)V. 595.AbuserTromper, seduire (F)V. 71, 422, 830, 1202, 1354, 1714, 1740.Le terme présente son sens courant actuel de « faire un usage excessif » au vers 1653.AdveuConsentement, (R)V. 230, 308, 368, 670, 767, 852, 884, 900, 945, 1101, 1386, 1388, 1587, 1623, 1695.Le terme présente son sens courant actuel de « confidence » aux vers 81, 986, et de « confession » aux vers 1112, 1819.AimableDigne d'être aimé, (R)V. 18, 294, 369, 394, 820, 899.AlarmesTrouble (R)V. 489.Partout ailleurs, le terme présente son sens plus courant de « crainte » « inquiétude ».AltererChanger. (R)Ici sans la connotation négative de nuisance.V. 330.Amant et son féminin AmanteCelui qui aime, (R)V. 517, 1032, 1077, 1444, 1474 et 1534.AmorceCharme, apas (R)V. 118, 638, 1136.Le terme présente son sens courant actuel de « commencement » au vers 638.ApasCharmes puissans, grans atrais, beauté, agrément, plaisir, (R) . Le grammairien Ménage fait observer en 1672 que les appas désignent les seules grâces physiques, à la différence des charmes.V. 175, 257, 287, 379, 431, 455, 485, 561, 724, 801, 912, 933, 1417, 1625, 1679.AplaudirAprouver par quelques marques extérieures, (R)V. 307.Appuy*Au sens figuré* : raison, ce qui justifie, (F)V. 155, 662.ArdeurAmour, passion, action vive et pleine de feu, (R)V. 101, 283, 310, 480, 532, 615, 651, 773, 970, 1321, 1825.Le terme présente son sens courant actuel de « énergie volontaire » au vers 686.Arresté: participe-passé de arresterConvenir des conditions, (R)V. 48, 661 ; au sens de : décider au vers 1715.Au besoinEn cas de nécessitéV. 357.BienPlaisir, bonheur, (R)V. 184, 211, 290, 762, 854, 1362, 1367, 1715, 1771.Dans toutes les autres occurrences de « bien », le terme a son sens courant actuel de « intérêt, utilité », en particulier lorsque qu'il est substantif du complément de nom « de l'Etat », ou alors il présente son sens adverbial.BizarreFantasque, extravagant, capricieux (DA)V. 785. CapriceDéreglement d'esprit. On le dit, quand au lieu de se conduire par la raison, on se laisse emporter à l'humeur dominante où on se trouve, (F) . Il faut noter le degré d'intensité supérieur à ce que nous entendons nous aujourd'hui par « caprice ».V. 301, 505, 751, 783, 908, 1135, 1215, 1540, 1676, « capricieux » au V. 873.CaractereCe qui resulte de plusieurs marques particulieres, qui distingue tellement une chose d'une autre, qu'on la puisse reconnoistre aisément, (F)V. 776.CaterreTerme de Medecine. Fluxion et distillation d'humeurs sur le visage, sur la gorge, ou sur autre partie du corps. Les *caterres* proviennent ordinairement de chaleur ou de froideur excessives, ou de la repletion du cerveau, et de la debilité de la partie recevante. Quand ces fluxions tombent sur la gorge ou sur la poitrine, on les appelle *rhume*, (F)V. 1008.CederDonner l'avantage, (R)V. 437.Partout ailleurs, le terme présente ses divers sens courants actuels.Confondre (quelqu'un)Troubler, mettre en desordre, étonner, surprendre tout à fait, jetter dans le trouble (R)V. 69, 313, 1701.Couler (se)Se glisser doucement et sans bruit (R)V. 353.D'abordTout de suiteV. 90, 296.DecevoirTromper adroitement, (F), c'est le sens courant actuel du verbe anglais *to deceive*V. 1674.DeguiserDissimuler, couvrirV. 750, 1353.Dans les autres occurrences, le terme présente son sens actuel de « se travestir », « passer pour quelqu'un d'autre. »DépitFascherie, chagrin meslé de colere (DA)V. 1647.DesabuserDétromper (R)V. 749.DescouvrirRéveler, divulguer (R)V. 216.DesobligeFaire quelque desplaisir à quelqu'un, quelque incivilité, luy rendre de mauvais officesV. 506.DesseinResolution de faire quelque choses, (DA)V. 712, 1035 et 1590.Mais *dessein* veut aussi dire « Volonté, désir de faire, ou de dire » (R)V. 589, 1069, 1143 et 1662.Enfin, *dessein* peut être un synonyme de « Plan, projet, élévation et profil d'un ouvrage qu'on veut faire. », (R)V. 227, 707, 1052, 1082 et 1398.DisgraceFaire quelque desplaisir à quelqu'un, quelque incivilité, luy rendre de mauvais officesV. 554.DissimulerDéguiser, cacher, couvrir, feindre, ne pas découvrir, (R)V. 713.Partout ailleurs, le terme présente son sens courant de « cacher », et il est suivi d'un complement d'objet direct.Divisé du verbe diviser : sens figuré.Desunir, mettre en discorde, (DA)V. 319.Eclater« Briller, reluire » (R)V. 455.« Faire paroitre, decouvrir avec éclat » (R)V. 338, 1061, 1703.EmbarrasTrouble, desordre qui paroit sur le visage, (R)V. 1097, 1198.Lorsque l'on trouve le verbe *embarrasser*, il a son sens courant actuel.EmployerDonner de l'occupation à soy ou à autruy, (F)V. 66.EnnuyChagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, (F) , Il faut en tous cas noter que le degré d'intensité de ce terme est sensiblement plus élevé que ce que nous entendons aujourd'hui par « ennui »V. 175, 245, 291, 657, 777, 1507, 1515 et « ennuyé » au vers 643.EntendreComprendre, penetrer dans le sens de celuy qui parle (F)V. 1720.EpandreRépandreV. 1389.EspererPretendre à un bien qu'on prevoit pouvoir obtenir, vivre dans cette attente, (F)V. 79, 140, 209, 670, 982, 1102, 1109, 1598.EssayAction par laquelle on taste, on examine une chose, pour en connoistre la qualité. (F)V. 137.Estomaquer : qui ne se dit qu'avec le pronom personnel.Se scandaliser, s'offenser de ce que quelqu'un dit contre nous, (F)V. 1493.EstonnéSe dit proverbialement en ces phrases. On dit qu'un homme est estonné comme s'il tomboit des nuës (F) etsonner : causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte.(F) . Il faut en tous cas noter que le degré d'intensité est nettement supérieur à ce que l'on entend de nos jours par « étonné », et l'approcher plutôt du sens étymologique latin *adtonare* qui signifie « frapper par le tonnerre »V. 81, 556, 1024, 1435, 1636, 1684.EstrangeCe qui est surprenant, rare, extraordinaire, (F)V. 696.ExperienceEssay, espreuve réïterée de quelque effet qui sert à nostre raisonnement pour venir à la connaissance de la cause, (F)V. 49.Expres : adj.Qui est precis, en termes formels pour une cause ou un dessein particulier (F)V. 87, 311, 365, 579.FarderEmployer de l'artifice pour faire paroistre une chose plus belle qu'elle n'est, (F), dans le sens de déguiser, mentir, et lorsque l'on parle « sans fard », il faut comprendre « franchement », « sans ambages »V. 813, 974, 1633.FlatterDesguiser une vérité qui seroit desagreable à celuy qui y est interessé, lui donner meilleure opinion d'une chose qu'il n'en doit avoir (F)V. 119, 877, 1206, 1713.Signifie aussi « encourager, confirmer »V. 172, 595, 908. « Cajoler » (R)V. 821, 1253.« Se flater », présente son sens courant actuel de « prétendre »V. 880.FleurettesCajoleries amoureuses. Galanteries qu'on dit à une Dame. (R)V. 429.FoyParole qu'on donne d'acomplir une chose. Promesse de faire et d'acomplir quelque chose (R) et plus particulièrement dans ce texte, parole d'amour, promesse d'aimer.V. 901, 949, 989, 1091, 1106, 1273, 1330, 1530, 1573, 1588, 1594, 1595, 1633, 1688, 1799.« Fidélité » (R)V. 204, 781, 1357, 1450, 1467, 1475, 1487, 1833, 1846.« Serment, maniere de jurement. » (R)V. 36, 111, 654, 753, 1091, 1494.FranchiseLiberté, (R)V. 474, 1742.GalerieLieu d'une maison, qui est couvert, et qui est propre à se promener. » (R)V. 373.GesnerTourmenter le corps ou l'esprit (F)V. 8.GesneQuestion, torture. Se dit aussi de toute peine ou affliction de corps ou d'espritV. 179, 309, 1323.GousterApprouver, trouver bon, (F)V. 287.HazarderSe dit aussi en parlant de ceux qui font des imprudences, (F)V. 158, 159.Le terme présente son sens courant actuel de « entreprendre avec un risque » au vers 432.Indiscretement« Adv. D'une manière indiscrete »V. 93.Indiscret« Adj. Celuy qui agit par passion, sans considerer ce qu'il dit ni ce qu'il fait » (F)V. 339.InquietudeChagrin, ennuy, trouble et affliction d'esprit (F)V. 10, 100, 804, 1580.Inquiet aux vers 5, 797, 1831, s'inquieter au vers 1425.IntelligenceAmitié, union, paix, liaison, concorde, (R)V. 1112 et 1354.InterditTrès surprisV. 1077.IrriterSe dit figurément en choses morales, et signifie exciter, rendre plus vif et plus fort (F)V. 202.Partout ailleurs le terme a son sens courant actuel de « mettre en colère ».ManquerFaire défaut, n'être pas utileV. 70, 566.MerveilleChose merveilleuse. Chose qui mérite l'admiration.V. 812.MotifFin, dessein, but. Raison, cause. (R)V. 338.NargueMot dont on se sert lorsqu'on veut marquer du mepris pour une personne, ou pour quelque autre chose (R)V. 958.ObjetSe dit poétiquement pour parler des belles personnes qui donnent de l'amour, (F) . Anne Sancier-Château précise qu'il est plus fréquemment employé pour les femmes, bien qu'il puisse aussi désigner un homme.V. 253, 333, 388, 503, 1013, 1172, 1301, 1503, 1821.Au vers 1045, le terme présente son sens actuel.ObsederEtre assidûment autour d'une personne avec dessein de l'épïer, ou d'en obtenir quelque chose (R)V. 178.Offrir des vœuxCe mot se dit en parlant d'amour, et signifie hommage ». (R)V. 131.OmbrageuxCe mot se dit de certains chevaux, et veut dire *qui se cabre*, qui *s'épouvante.* Ce mot au figuré se dit des *personnes* et signifie *qui prend de l'ombrage.* (R)V. 377.PasserSe dit à l'égard de la quantité, longueur, largeur, hauteur, etc. pour marquer l'excés de l'une à l'égard de l'autre, (F) , autrement dit, dépasserV. 1362.PeineTravail, tourment, soin. Inquiétude, ennui, chagrin, fâcherie (R) ; Douleur, tourment. Obstacle, difficulté (F)V. 61.PompeApareil superbe et magnifique qui se fait par ostentation, ou pour quelque autre dessein (R)V. 293. On trouve aussi « pompeux » aux vers 2 et 733.PonctuelExact (R)V. 469.PossederTourmenter et agiter quelqu'unV. 69, 267, 1830.PrétendreEsperer d'avoir (R)V. 173, 583, 1312.ProtesterPromettre quelque chose avec serment » (R)V. 806, 1621, et 1665.PublierRendre public. Dire, clairement, hautement et publiquement. Divulguer (R)V. 812.RareExcélent, prétieux, singulier, extrordinaire. (R)V. 109, 253, 255, 481, 491, 1013, 1694.RaviCharmé. Enlevé et transporté par une douce violence. » (R)V. 767 et ravir aux vers 360, 1783.ReduireFaire tomber dans la misere. Etre cause qu'il arrive quelque chose de fâcheux à une personne. Pousser à l'extrémité, acabler ; Reduit, reduite, adj. Subjugué, vaincu, domté, obligé, contraint, mis, consumé, diminüé (R)V. 89, 1117, 1123.RemedeRessource, espérance, expédiens pour réüssir en quelque chose, pour venir à bout de quelque chose (R) .V. 177, 1503« Soulagement et tout ce qui apaise, qui adoucit les maux, les disgrâces, les malheurs » (R)V. 70, 268, 454, 1829.ResverAppliquer serieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque invention, (F)V. 12, 163, 1681.RevolteLes dictionnaires contemporains donnent uniquement le sens courant actuel de ce terme, mais dans cette pièce il est employé dans le sens d'un *détour*, d'un *changement d'avis*.V. 1644 et 1750.S'aplaudirSe savoir bon gré de quelque chose (R)V. 1433.S'eclaircirRendre plus intelligible, (F) , ici « révéler »V. 153.S'interesser dansDésigne le fait de s'engager sans réserve pour défendre quelqu'un ou quelque chose. Le verbe n'exprime par lui-même aucune valeur favorable ou défavorable, mais il marque le fait de s'engager totalement, de se passionner pour quelque chose ou quelqu'un » (voir A. Sancier-château, *Introduction à la langue du XVII*e**, dans la section vocabulaire, 128, p. 68) .V. 663, 1785.Se contraindreSe forcer, se violenter, faire avec une repugnance qui ne soit pas visible. Etre dans un état contraire à sa pente naturelle. Etre d'une maniere qui n'ait rien de libre, mais qui soit forcée, génée et peu naturelle. (R)V. 185, 643, 976, 1709.Se couler dans l'expression « l'amour se coule »Se glisser doucement et sans bruit. (R)V. 145.Se remettreSe ressouvenir, rapeller dans son esprit les idées de quelque chose, se représenter, reconnoître (R)V. 529.Se retirerSortir d'un lieu, s'en éloigner, le quiter et l'abandonner et ne s'y plus faire voir parce qu'on n'y est pas bien venu. (R)V. 160.SecretteDans le sens d'une notification spatiale, cela veut dire qui ne communique pas, que l'on ne voit pas.V. 85SoucyInquiétude, soin fâcheux. Souci cuisant, dévorant, fâcheux, grand, crüel (R)V. 15, 303, 361, 697, 821, 1791.SouffrirNe se pas opposer à une chose, y consentir tacitement (F)V. 159« Supporter »V. 1519 et 1647Dans toutes les autres occurrences, ce terme a son sens courant actuel de « éprouver de la souffrance ».StileManiere d'agir, conduite, procédé d'une ou de plusieurs personnes. (R)V. 1376.SympathieConvenance ou conformité de qualités naturelles, d'humeurs, ou de temperament, qui font que deux choses s'aiment, se cherchent, et demeurent en repos ensemble. (F)V. 398.TasterDécouvrir ce qu'une personne a dans le cœur, et dans l'esprit (F)V. 412.ToucherDans le sens de « identifier »V. 20.« Émouvoir ».V. 98.« Ce mot se dit en parlant de certains instrumens et veut dire joüer de cét instrument » (R)V. 1660Zele« Affection ardente pour quelque chose. Il se dit principalement à l'égard des choses saintes et sacrées » (DA)V. 339.Le terme présente son sens courant actuel de « ardeur dévouée » dans toutes les autres occurrences.
 
 
-# Annexe 1 : parallèles entre Le Charme de la voix, et la pièce espagnole qui sert de source Lo que puede la aprehension, d'Augustin Moreto
+# Annexe 1 : parallèles entre Le Charme de la voix, et la pièce espagnole qui sert de source Lo que puede la aprehension, d'Augustin Moreto.
 
 Ce relevé ne prétend nullement à l'exhaustivité. Il a simplement pour but de montrer, à l'aide d'exemples précis d'une part comment Thomas Corneille s'est emparé du texte de Moreto pour en faire parfois une simple traduction, et d'autre part comment il a su, en maîtrisant les règles de la réécriture et la norme linguistique de sa propre langue, adapter les mots espagnols à la langue et au goût français. Ce relevé a un dernier intérêt : il permet d'éclairer des passages un peu obscurs de la pièce, qui souffrent bien souvent simplement d'une traduction de l'espagnol trop allusive.
 Lo que puede la aprehension, Moreto. | Le Charme de la voix, Thomas Corneille.
@@ -4350,7 +4350,7 @@ Jornada III, escena 11 : DUQUESA : Y aunque era el bien aparente, y no cierto,
 
 
 
-# Annexe 2 : liste des œuvres de Thomas Corneille dans l'ordre chronologique
+# Annexe 2 : liste des œuvres de Thomas Corneille dans l'ordre chronologique.
  * – 1647 *Les Engagements du hazard*, comédie.
  * – 1648 *Le Feint astrologue*, comédie.
  * – 1651 *Dom Bertrand de Cigarral*, comédie.
@@ -4407,28 +4407,28 @@ Jornada III, escena 11 : DUQUESA : Y aunque era el bien aparente, y no cierto,
 *Le Charme de la voix* est la neuvième pièce de Thomas Corneille, et la huitième comédie. Elle appartient aux œuvres de jeunesse de Thomas Corneille, bien que le dramaturge à cette époque ait déjà un public fidèle et élargi. Elle appartient à la mode des comédies dites « à l'espagnole ». Elle fait partie des échecs les plus retentissants du dramaturge mais il faut néanmoins nuancer cet échec puisqu'elle fut tout de même publiée : d'autres pièces ne le furent jamais, comme l'*Usurier* par exemple.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Les sources
+## Les sources.
 
 
-### Ouvrages de l'auteurL'Amour à la mode
+### Ouvrages de l'auteur.L'Amour à la mode
 Le Baron d'Albikrak
 Le Charme de la voix
 Le Feint Astrologue
 
 
 
-### Ouvrages antérieurs à 1800
+### Ouvrages antérieurs à 1800.
 
 
-#### Ouvrages de l'AntiquitéLa Poétique
+#### Ouvrages de l'Antiquité.La Poétique
 Les Métamorphoses
 
 
 
-#### Ouvrages des XVII*e* et XVIII*e* siècleLa Suite du menteurŒuvres complètes
+#### Ouvrages des XVII*e* et XVIII*e* siècle.La Suite du menteurŒuvres complètes
 Le menteurŒuvres complètes
 Questions d'amourConversations galantes dédiées aux belles
 Le Mémoire de Mahelot
@@ -4440,23 +4440,23 @@ Chefs d'œuvre de Thomas Corneille
 
 
 
-## Ouvrages critiques
+## Ouvrages critiques.
 
 
-### Ouvrages sur Thomas Corneille et son théâtreThomas Corneille, protean dramatist
+### Ouvrages sur Thomas Corneille et son théâtre.Thomas Corneille, protean dramatist
 Stratégie des regards. Voir et être vu dans le théâtre de Thomas Corneille
 Thomas Corneille. Sa vie et son théâtre
 
 
 
-### Ouvrages généraux sur le théâtreLe Langage dramatique
+### Ouvrages généraux sur le théâtre.Le Langage dramatique
 La Dramaturgie classique en France
 Lire le théâtre II
 Lire le théâtre
 
 
 
-### Ouvrages généraux sur la périodeMorales du Grand Siècle
+### Ouvrages généraux sur la période.Morales du Grand Siècle
 Esthétique de l'identité dans le théâtre français (1550-1680) . Le déguisement et ses avatars
 Introduction à l'analyse des textes classiques. Eléments de rhétoriques et de poétique du XVII*e* siècle
 A History of French Dramatic Literature in the Seventeenth Century
@@ -4466,10 +4466,10 @@ La comédie au XVII*e* et XVIII*e* siècles
 
 
 
-## Études thématiques
+## Études thématiques.
 
 
-### Ouvrages thématiques sur la galanterie et sur l'amour au XVII*e* siècleLe Parnasse Galant
+### Ouvrages thématiques sur la galanterie et sur l'amour au XVII*e* siècle.Le Parnasse Galant
 Amour précieux, Amour galant.
 L'Amour en Occident
 Leurs yeux se rencontrèrent : la scène de première vue dans le roman
@@ -4477,30 +4477,30 @@ La France galante : essai historique sur une catégorie culturelle, de ses orig
 
 
 
-### Ouvrages sur le théâtre espagnol et ses adaptations françaisesLe Masque et le visage. Du baroque espagnol au classicisme français
+### Ouvrages sur le théâtre espagnol et ses adaptations françaises.Le Masque et le visage. Du baroque espagnol au classicisme français
 Du Gracioso au Valet de comédie : contribution à la comparaison de deux dramaturgies, 1610-1660
 Bibliographie critique de la littérature espagnole en France au XVIIe siècle
 La comedia espagnole en France de Hardy à Racine
 
 
 
-### Articles, conférences et éditions critiquesHistoire de la France littéraire
+### Articles, conférences et éditions critiques.Histoire de la France littéraire
 Vers une chronologie des pièces de Thomas Corneille
 Charme de la voix »
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages généraux sur la langue du XVII*e* siècleLa Ponctuation
+### Ouvrages généraux sur la langue du XVII*e* siècle.La Ponctuation
 Grammaire du français classique
 Syntaxe française du XVIIe siècle
 Introduction à la langue française du XVII*e*siècle
 
 
 
-### Dictionnaires du XVII*e* siècleDictionnaire
+### Dictionnaires du XVII*e* siècle.Dictionnaire
 A french dictionary.
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise.... avec les termes les plus connus des arts et des sciences

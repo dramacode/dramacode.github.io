@@ -18,7 +18,7 @@ PAR M. DE MONTFLEURY.
 
 
 
-# Avant-propos
+# Avant-propos.
 
 Notre recherche a pour sujet *Le Mary sans femme* d'Antoine Jacob de Montfleury. A priori, nous sommes en présence d'une pièce oubliée, d'un auteur qui l'est tout autant... En effet, le nom de Montfleury a disparu des anthologies littéraires modernes et il faut chercher dans les ouvrages spécialisés sur le théâtre du XVII*e* siècle pour voir apparaître son nom…
 
@@ -27,10 +27,10 @@ On se rend alors compte qu'Antoine Jacob de Montfleury fut un illustre dramaturg
 Il est donc intéressant de s'attacher à la pièce : retracer son histoire, de la scène à l'édition ; étudier ses sources, mais aussi ses originalités, à l'aune des critères de l'époque ; pour essayer enfin de comprendre ce qui entraîna son succès, et son oubli aujourd'hui...
 
 
-# Antoine Jacob Montfleury (1639-1685)
+# Antoine Jacob Montfleury (1639-1685).
 
 
-## Un dramaturge oublié
+## Un dramaturge oublié.
 
 Antoine Jacob de Montfleury fut un grand dramaturge de la seconde moitié du XVII*e* siècle. Bien que la postérité n'ait retenu que le nom de Molière, les deux écrivains furent contemporains et les dates de leurs productions se superposent : de 1660 à 1678, Antoine Jacob de Montfleury écrivit à peu près une pièce par an [1], alors que la production théâtrale de Molière se concentra autour des années 1655 et 1673. La carrière de deux auteurs présente de curieuses ressemblances [2], allant de pair avec de fortes rivalités.
 
@@ -44,7 +44,7 @@ Au regard de la postérité, Molière sort vainqueur de cette concurrence. Lanca
 Mais, c'est peut-être trop comparer le travail des deux dramaturges, quand l'un [4] excelle dans la comédie de mœurs et de « caractère », l'autre [5] est davantage tourné vers la comédie d'intrigue. L'œuvre d'Antoine Jacob de Montfleury ne doit donc pas être sous-estimée, et fit d'ailleurs l'objet de nombreuses études [6].
 
 
-## Éléments biographiques
+## Éléments biographiques.
 
 L'avertissement aux lecteurs de l'édition collective de 1739 [7] rassemble des informations sur Montfleury, père et fils. L'éditeur a fondé ses propos sur des témoignages de la fille [8] et de la petite-nièce [9] d'Antoine Jacob de Montfleury [10].
 
@@ -55,7 +55,7 @@ Auguste Jal rapporte aussi qu'Antoine Jacob « demeurait rue des Deux-Portes et
 En 1674, l'échec de *Trigaudin ou Martin Braillart* annonça la fin de sa carrière dramaturgique. Il n'écrivit plus que deux pièces, en 1677 et 1678, *Crispin Gentilhomme* et *La Dame médecin* préférant se tourner vers une autre activité, la finance. En 1678, Colbert le chargea d'une mission diplomatique : recouvrir certains revenus que le Parlement de Provence devait au roi ; tâche dont il s'acquitta fort bien et qui lui aurait valu de recevoir une place dans les Fermes Générales si l'hydropisie ne l'avait pas emporté le 11 octobre 1685 à Aix.
 
 
-## Un auteur comique décrié
+## Un auteur comique décrié.
 
 Le théâtre d'Antoine Jacob de Montfleury est connu au XVII*e* siècle et plusieurs de ses pièces rencontrèrent un vif succès. En 1669, *La Femme juge et partie* serait même venue contrebalancer le succès de *Tartuffe*, dont la troisième version venait enfin d'être autorisée [17].
 
@@ -66,38 +66,38 @@ La pièce que nous étudions, *Le Mary sans femme*, n'échappe pas à ces critiq
 Pour juger par nous-mêmes de l'intérêt de la pièce, rappelons d'abord l'intrigue.
 
 
-# Argument du Mary sans femme
+# Argument du Mary sans femme.
 
 
-## Acte I
+## Acte I.
 
 La scène se passe à Alger. Zaïre, la servante de Célime, demande à des esclaves de venir divertir sa maîtresse (Scène 1). Les esclaves en question, Julie et Carlos, se lamentent, ainsi que leurs valets respectifs, Marine et Tomire, chacun trouvant un responsable à l'issue tragique de leur fuite d'Espagne. Finalement, Marine apprend à tous la possibilité d'être sauvés par Dom Brusquin, le mari trompé de Julie, grâce à une lettre qu'elle lui a adressée (Scène 2). Zaïre reparaît pour annoncer la venue imminente de Célime et les met en garde contre l'humeur maussade de sa maîtresse (Scène 3). Restée seule, Zaïre souhaite le mariage de Célime et Fatiman, le gouverneur d'Alger, union qui lui rendrait la liberté (Scène 4). Avant de voir les esclaves, Célime interroge sa servante sur le comportement des deux amants, Julie et Carlos (Scène 5). Julie et Carlos concertent sur la manière d'aimer des européens. Célime demande à Carlos de rester et lui apprend qu'elle l'aime et entend partager cet amour (Scène 6). Carlos est fort embarrassé (Scène 7). Tomire informe son maître que Dom Brusquin vient de débarquer au port d'Alger avec l'intention de récupérer sa femme. Carlos est désespéré et entraîne Tomire pour s'assurer des dires de son valet (Scène 8).
 
 
-## Acte II
+## Acte II.
 
 Dom Brusquin, maussade, lit la lettre de Marine. Son valet, Gusman, lui demande d'expliquer son humeur : Dom Brusquin fait alors part de ses peurs de cocuage, mais avoue aussi sa passion pour Julie qu'il veut récupérer contre rançon. Il souhaite tout de même s'assurer de la fidélité de sa femme auprès de Marine (Scène 1). Tomire amène Marine (Scène 2). Cette dernière éclate de joie devant Dom Brusquin qui lui promet une récompense. Il veut d'abord une explication de l'enlèvement et une assurance de la fidélité de Julie. Fatiman arrive et Marine se retire (Scène 3). Fatiman, accompagné de Stamorat, réclame 5000 ducats pour rendre Julie. Marchandage infructueux de Dom Brusquin. Fatiman sort voir Célime, avec des souhaits de mariage (Scène 4). Célime déclare à Fatiman qu'elle souhaite se marier : les chants de Carlos l'ont rendu amoureuse et pour remercier l'esclave elle demande à Fatiman de lui rendre la liberté. Zaïre est chargée d'annoncer la bonne nouvelle à Carlos (Scène 5). Restée seule avec Fatiman, Zaïre avoue la trahison de Célime : cette dernière aime Carlos bien que l'esclave soit insensible à ses avances. Zaïre doit dorénavant surveiller Célime et voit sa liberté d'autant mieux assurée (Scène 6). Julie cherche Carlos pour le prévenir de l'arrivée de Dom Brusquin et lui demander d'intercéder auprès de Célime. Carlos annonce à Julie qu'ils sont perdus puisque Célime est amoureuse de lui (Scène 7). L'arrivée de Dom Brusquin fait partir Carlos (Scène 8). Julie part aussi (Scène 9). Dom Brusquin se repent de son amour (Scène 10).
 
 
-## Acte III
+## Acte III.
 
 Stamorat prévient Fatiman que Dom Brusquin, en possession de la rançon, désire le voir pour récupérer sa femme. Fatiman diffère la rencontre et avertit Zaïre qu'il souhaite démarier Julie en faveur de Carlos et punir Célime par des chants qui la blessent (Scène 1). Célime, impatiente, vient à la rencontre de sa servante et apprend que Carlos a montré stupeur et tristesse à l'annonce de sa libération et qu'il semble bien amoureux de Julie. Elle demande à Zaïre d'aller chercher Tomire, qui est en vue, pour s'éclaircir sur cet amour (Scène 2). Alors qu'il allait annoncer la venue de Dom Brusquin à Fatiman, Tomire est interrogé sur son maître. Célime lui donne une bague et se dit au fait des aventures de Carlos que Tomire développe alors longuement : la qualité de noble de Carlos en Espagne, héritier d'un riche oncle avare et à la santé solide ; son amour pour Julie et l'enlèvement raté qu'il entreprit pour la sauver des bras de son nouveau mari... En contradiction avec le précédent discours de Zaïre, Tomire conte la joie récente de Carlos, due à la promesse de sa libération. Tomire veut informer son maître du contentement de Célime, mais elle s'y oppose, assurant qu'elle s'en chargera elle-même (Scène 3). Célime se fâche, soupçonnant Zaïre de la tromper (Scène 4). Stamorat se présente et offre un coffret de pierreries à Célime de la part de son maître. Cette dernière reçoit le cadeau froidement mais s'enchante à l'annonce d'un prochain concert des amants (Scène 5). Stamorat rapporte à son maître les réactions de Célime et Fatiman fait venir Dom Brusquin (Scène 6). Dom Brusquin demande sa femme contre son argent mais Fatiman lui annonce que leur marché a changé : Julie est libre et va prendre un nouvel époux ; la rançon de Dom Brusquin servira pour la noce. Jérémiades de Dom Brusquin qui finit par s'en aller. Stamorat est chargé par Fatiman de le surveiller (Scène 7). Célime arrive et s'inquiète de ne rien voir installé pour le concert promis. Fatiman l'informe de la venue des chanteurs (Scène 8). Le concert déplaît fortement à Célime qui veut s'en venger. Fatiman feint de s'inquièter de la réaction de Célime et promet de châtier les personnes qui l'offensent : ce sont Julie et Carlos, qu'elle veut voir séparés et punis (Scène 9). Julie implore la grâce de Fatiman. Celui-ci propose la mise en place d'un stratagème mais Zaïre doit continuer à duper sa maîtresse (Scène 10).
 
 
-## Acte IV
+## Acte IV.
 
 Zaïre assure à sa maîtresse son entière fidélité et demande des éclaircissements sur ses agissements : Célime souhaite mettre Carlos dans une situation si inconfortable, qu'en désespoir de cause, il cèdera à son amour ; suffisamment dupe, Fatiman rompra ensuite ses fers (Scène 1). Fatiman se félicite, en présence de Célime, de voir enfin leur mariage se conclure mais cette dernière veut d'abord savoir si sa vengeance a été exécutée : Fatiman lui apprend l'emprisonnement de Carlos et avoue qu'il n'a pas eu la même rigueur pour Julie, voyant en elle un double de Célime. Cette dernière feint alors la jalousie et accuse Fatiman d'aimer l'esclave. Pour prouver son innocence, Fatiman devra chasser Julie en la rendant à son époux et bannir Carlos d'Alger en lui faisant prendre la mer. Avant toute exécution, Célime demande un entretien particulier avec l'esclave. Sceptique, Fatiman se cache pour comprendre les manigances de Célime. Restée avec Zaïre, elle l'avise qu'un navire anglais est prêt à leur faire quitter le port d'Alger le soir même et que, dans la situation à venir, Carlos finira bien par répondre à son amour (Scène 2). Carlos est amené à Célime : celle-ci lui démontre sa toute-puissance, lui fait un présent et lui demande, avant de partir, de suivre dorénavant les ordres de Zaïre s'il veut être sauvé (Scène 3). Seul avec Zaïre, Carlos s'inquiète de l'aide que celle-ci offre à Célime. C'est alors que Fatiman sort de sa cachette et promet de se venger. De plus, il voit que Célime a offert à Carlos le coffret de pierreries... Sa fureur augmente et le cadeau lui inspire un stratagème... Pour le moment, Zaïre doit donner toute espérance à Célime quant à l'amour de Carlos (Scène 4). Tomire arrive pour raconter les malheurs de Dom Brusquin qui s'est fait battre par la suite de Turcs et avertit de sa venue. Fatiman prévient Carlos qu'il doit rester caché (Scène 5). Dom Brusquin, amené par Stamorat à Fatiman. ne cesse de se plaindre. Il refuse toujours d'être présent au mariage de sa femme. Fatiman envisage son absence à condition qu'il signe un contrat de divorce dont il serait l'instigateur. Dom Brusquin refuse. Fatiman lui laisse alors une heure pour se résoudre, au-delà de ce délai, il sera condamné à l'esclavage et aux galères (Scène 6). Dom Brusquin se plaint toujours, en présence de Stamorat (Scène 7).
 
 
-## Acte V
+## Acte V.
 
 Retrouvailles de Marine et Tomire qui, pour mener à bien le plan de Fatiman, attendent Célime. Tomire a appris à Marine que l'oncle de Carlos est mort et que le frère de ce dernier vient payer leur rançon. Tomire profite aussi de l'attente pour conter fleurette. Marine le rabroue, arguant qu'elle n'a plus reçu de marques de tendresse depuis leur esclavage. Carlos explique son insensibilité par ses rudes conditions de vie mais ses sentiments n'ont jamais changé et Julie a même consenti au mariage des deux valets... Célime apparaît, conversant avec Zaïre (Scène 1). Célime s'inquiète des préparatifs du départ auprès de Zaïre qui la rassure. Elle voit Marine et Tomire qui feignent de se disputer au sujet de l'avenir de leurs maîtres : Carlos se verrait libre alors que Julie serait à nouveau livrée à Dom Brusquin. Célime jubile et s'emporte à la demande de Marine de la voir intervenir en faveur de sa maîtresse (Scène 2). Fatiman arrête Carlos devant Célime, dans son appartement (Scène 3). Fatiman menace Carlos de mort et Célime en demande la raison : l'esclave a été retrouvé en possession du coffret de pierreries, présent du gouverneur à Célime. La Dame prend sa servante à témoin pour expliquer qu'elle avait confié les diamants à Carlos afin qu'il les remette à un lapidaire pour les mettre en œuvre. Elle voulait ainsi faire une surprise à Fatiman en ne passant pas par son intermédiaire. Fatiman gracie donc l'esclave et Célime court le délivrer (Scène 4). Fatiman est au comble de l'agacement. Il entend venir Dom Brusquin (Scène 5). Dom Brusquin accepte de signer mais Stamorat lui apprend que sa résolution vient trop tard car l'heure est passée. Dom Brusquin parlemente et Stamorat se résout à aller voir son maître (Scène 6). Dom Brusquin se repent de sa conduite (Scène 7). En présence de Fatiman, Dom Brusquin s'engage à signer ce qu'on lui demande, à régler les frais du mariage, à être présent à la noce et à offrir, de sa main, sa femme à son futur époux (Scène 8). Fatiman engage Julie à présenter ses remerciements à Dom Brusquin et s'apprête à présenter le futur mari de Julie (Scène 9). Célime amène Carlos et invite Fatiman à rendre son époux à Julie avant qu'ils ne partent. Fatiman offre alors la main de Julie à Carlos. Fatiman accuse Célime de traîtrise et la condamne à paraître devant le Divan (Scène 10). Dom Brusquin s'étonne du mari que l'on donne à Julie mais Fatiman rappelle leur amour fidèle. Concert final et dernières jérémiades de Dom Brusquin (Scène dernière).
 
 
-# Représentation de la pièce
+# Représentation de la pièce.
 
 
-## Première représentation
+## Première représentation.
 
 Nous n'avons pas plus d'informations sur la première représentation de la pièce que nous n'en avons sur la première édition [22]... Encore une fois, l'avertissement au lecteur de l'édition de 1739 [23] est la principale source d'informations : selon l'ordre chronologique proposé, *Le Mary sans femme* aurait été représentée la première fois sur la scène du théâtre de l'hôtel de Bourgogne, après *Les Bestes raisonnables* mais avant *Trasibule*, ce qui fixerait la date de la première représentation entre les années 1661 et 1663.
 
@@ -108,17 +108,17 @@ Ce qui témoigne de la bonne réception de la pièce, c'est que, trente ans apr�
 La date de la première représentation du *Mary sans femme* sera donc plus ou moins éloignée de l'année 1663, date de sa première édition, en fonction du succès que nous lui attribuons [29]. Cependant, il est peu probable que la pièce éditée en 1663, fut représentée en 1661 [30], et nous réduirons les dates possibles de sa première représentation aux années 1662 et 1663.
 
 
-## Propositions scénographiques
+## Propositions scénographiques.
 
 
-### Le Mémoire de Mahelot
+### Le Mémoire de Mahelot.
 
 Nous n'avons pas de traces de la première représentation mais nous pouvons faire des hypothèses sur la scénographie de la pièce grâce au *Mémoire de Mahelot*. [31]. Ce document rapportait les pièces jouées par la Troupe Royale en précisant « dans une notice les décors et les accessoires nécessaires à leur représentation et en conservant un croquis du dispositif scénographique dans lequel elles pouvaient être données. » [32] Il donnait aussi aux peintres, chargés de brosser les décors, les indications nécessaires pour réaliser les toiles. Pour résumer, le *Mémoire de Mahelot* était une « pièce d'archives à l'usage du décorateur, du comédien et du peintre, il servait à consigner et à conserver tous les éléments techniques nécessaires à la représentation des œuvres figurant au répertoire de la troupe lors de leur création ou de leur reprise. » [33] Il faut ajouter que ce document doit être envisagé comme un aide-mémoire à usage interne à la troupe, et non comme une archive fournissant des indications scrupuleusement respectées...
 
 *Le Mary sans femme* n'est pas mentionnée dans le *Mémoire*. Cette absence peut s'expliquer par les périodes théâtrales traitées par l'ouvrage. Lancaster et Deierkauf-Holsboer [34] ne donnent pas les mêmes dates pour les diverses parties du *Mémoire de Mahelot*. Cependant, comme le met en avant Pierre Pasquier, il paraît plus intéressant de délimiter les périodes où la Troupe Royale avait pour répertoire la liste des pièces que de connaître les dates de rédaction du *Mémoire* : la première liste correspondrait à la fin de la saison 1633-1634 ou à une partie de la saison 1634-1635 ; la deuxième liste restituerait les pièces jouées par la troupe de 1673 à 1685. Quel que soit le degré d'incertitude accordée à ces dates, les premières représentations du *Mary sans femme* seraient suffisamment éloignées des deux périodes pour ne point y figurer.
 
 
-### Le choix du décor
+### Le choix du décor.
 
 Le *Mémoire de Mahelot* présente deux scénographies bien distinctes, celle des années 1630 et celle de l'époque classique, et nous pouvons nous demander laquelle fut adoptée pour *Le Mary sans femme*.
 
@@ -143,7 +143,7 @@ Nous pouvons imaginer un décor assez simple pour *Le Mary sans femme* : une «
 L'indication, « La scène est dans Alger », n'est pas gage d'un décor oriental. Le décor unique du théâtre classique avait tendance à gommer toute couleur locale [50]. De plus, le texte du *Mary sans femme* ne fait jamais mention de quelque exotisme du lieu [51].
 
 
-### Les objets
+### Les objets.
 
 La présence d'objets scéniques n'est pas davantage précisée dans les didascalies du* Mary sans femme* [52]. Pourtant, la représentation de la pièce en nécessite un certain nombre [53] : le billet envoyé par Marine et lu par Dom Brusquin à la scène 1 de l'acte II ; le coffret de pierreries offert dans un premier temps par Fatiman à Célime à la scène 5 de l'acte III, puis par Célime à Carlos à la scène 3 de l'acte IV, et qui réapparaît finalement à la scène 4 de l'acte V pour confondre Célime ; le blanc-signé [54] (blanc-seing) que donne Dom Brusquin à Fatiman pour recouvrer sa liberté.
 
@@ -152,20 +152,20 @@ Ces objets scéniques sont porteurs d'une fonction dramatique et ont une inciden
 Il est fait allusion à des objets extra-scéniques dans la pièce : les fers [60], le casaquin [61], le gourdin [62]. L'éviction de ces objets de la scène peut être expliquée par les règles de bienséance en rigueur dans la deuxième moitié du XVII*e* siècle : la simple référence aux fers est suffisante pour faire surgir dans l'imaginaire collectif la figure des esclaves enchaînés ; l'évocation du gourdin, quant à elle, rappelle déjà trop le registre de la farce pour permettre sa présence sur scène.
 
 
-### Les costumes
+### Les costumes.
 
 La pièce demanderait aussi une certaine recherche vestimentaire... Mais, d'une part, Montfleury ne donne aucune indication quant aux costumes dans son texte, et, d'autre part, ses exigences n'auraient sûrement pas été respectées à une époque où les produits manufacturés étaient fort chers et entraînaient de grosses dépenses, parfois impossibles pour les comédiens. Les acteurs étaient donc souvent habillés à la mode de l'époque et la richesse, ou la pauvreté, de leur costume dépendait avant tout de leur bourse... Un turban sur la tête et une robe à la turque pouvaient démarquer les turcs des autres personnages. L'acteur jouant le rôle de Dom Brusquin devait être vêtu de manière plus outrancière pour expliquer la description de Tomire à la scène 8 de l'acte I [63].
 
 Nous avons déjà noté dans la scénographie du *Mary sans femme* des particularités qui marquent l'influence espagnole de la pièce. Une partie des personnages vient d'Espagne et la pièce se déroule sur le rivage de la Méditerranée opposé, à Alger. Quels autres éléments tendent à classer *Le Mary sans femme* dans les comédies à l'espagnole ?
 
 
-# Des influences multiples
+# Des influences multiples.
 
 
-## Une influence espagnole
+## Une influence espagnole.
 
 
-### Absence d'une source identifiée
+### Absence d'une source identifiée.
 
 Dans l'avis au lecteur de *L'Ambigu comique* [64], Montfleury avoue avoir étudié des pièces espagnoles et avoir assisté à leurs représentations. L'avertissement aux lecteurs de 1739 ajoute qu'« il savoit & parloit si parfaitement l'Espagnol, que la feue Reine, dont il avoit l'honneur d'être connu, disoit que ceux mêmes du pays ne le parloient pas si bien que lui ; aussi a-t'il pris dans leurs auteurs quelques-uns des sujets qu'il a traités. »
 
@@ -174,7 +174,7 @@ En effet, dans les années 1640-1650, les œuvres de l'éclatant Siècle d'Or es
 Il est probable qu'Antoine Jacob de Montfleury se soit inspiré d'une pièce espagnole pour construire son intrigue mais ni Puibusque, ni Rohr n'ont pu identifier clairement cette pièce [65]. L'*École des jaloux*, où l'on retrouve le même personnage de mari jaloux, sous les traits de Santilanne, serait inspirée de l'*Argel fingido* de Lope de Vega. Victor Fournel ajoute que plusieurs autres pièces de Montfleury, dont *Le Mary sans femme*, « sont également tirées de l'espagnol, mais avec beaucoup de liberté, car Montfleury, esprit vif et souple, mettait le sceau de sa propre originalité sur ses imitations. » [66] Nous n'avons pas fait davantage de recherches quant à l'hypothétique pièce espagnole qui aurait inspiré *Le Mary sans femme*. De plus, la production des *comedias* espagnoles a été particulièrement riche et toutes ces pièces ne sont pas arrivées jusqu'à nous. Enfin, il paraît plus pertinent de déterminer quelles sont les conventions d'écriture espagnoles présentes dans la pièce de Montfleury.
 
 
-### Présence des conventions d'écriture de la *comedia*
+### Présence des conventions d'écriture de la *comedia*.
 
 Nous reconnaissons dans *Le Mary sans femme* les principaux ressorts de la comédie espagnole [67] : une intrigue romanesque, relativement simple comparée à la comédie italienne [68], lie des personnages passionnés, pour qui l'amour et l'honneur sont des valeurs fondamentales. Le comique est lié au personnage du valet, le « gracioso » espagnol, ou bien à un personnage de rustre, que ses habits, et ses discours désignés d'emblée comme un ridicule.
 
@@ -191,7 +191,7 @@ Dans la comédie à l'espagnole, le spectateur est « moins appelé à rire qu'
 Mais le rire est bien présent dans *Le Mary sans femme* et certaines *comedias* pouvaient en effet être tournées vers le burlesque. Pourtant, à l'exemple de Molière, Montfleury semble s'être beaucoup inspiré des modes de son temps...
 
 
-## Thèmes en vogue dans la société galante de l'époque
+## Thèmes en vogue dans la société galante de l'époque.
 
 Nous ne pouvons nier à Montfleury la place de choix qu'il tient dans le retour de la « grande comédie » au XVII*e* siècle. *Le Mary sans femme* est la première pièce en cinq actes du dramaturge, régulière et matière à représentation... En effet, depuis les années 1630, s'est amorcée une véritable réflexion sur le théâtre et des règles sont apparues dans un souci de vraisemblance et de pratique. L'anarchie qui régnait sur la scène française au début des années 1630 impose, par réaction, de fixer des limites spatiales, temporelles et dramaturgiques à des spectacles qui en étaient jusque-là dépourvus. D'où l'émergence de la règle des trois unités...
 
@@ -210,13 +210,13 @@ Enfin, Montfleury suit de près Molière dans l'art des jeux de mots et des paro
 Mais la pièce présente d'autres originalités, telle la place accordée à la Turquie, à la musique, et à la morale...
 
 
-# Originalités de la pièce
+# Originalités de la pièce.
 
 
-## Turqueries et *Lingua Franca*
+## Turqueries et *Lingua Franca*.
 
 
-### Goût littéraire pour l'Orient au XVII*e* siècle
+### Goût littéraire pour l'Orient au XVII*e* siècle.
 
 L'intrigue de notre pièce se déroule, dans son intégralité, à Alger, qui fait partie de l'empire Ottoman au XVII*e* siècle.
 
@@ -227,7 +227,7 @@ Toujours est-il qu'en 1660, les spectateurs avaient reçu l'éducation théâtra
 Pourtant, l'exotisme de la pièce, qui affleure à travers les noms et quelques « mots turquesques » [110], est stéréotypé et limité [111] : si Montfleury s'inspire d'une réalité de l'époque, les Corsaires qui sillonnaient la Méditerranée et faisaient esclavages des voyageurs ou commerçants européens [112], les turcs ne sont pas le sujet central de la pièce [113]. Ce ne sont donc pas les turcs qui font rire mais les situations de décalage où les européens sont empêtrés...
 
 
-### Les situations de décalage
+### Les situations de décalage.
 
 En effet, une vision négative de la Turquie, teintée d'un certain moralisme religieux, transparaît dans les discours des personnages : Marine parle de « Renegat » vers 100 ; Tomire s'emporte contre « ces chiens de Turcs » vers 114, la polygamie est souvent évoquée à travers le « Serail » [114] et l'allusion à des comportements grossiers [115]. Le statut du mariage est au cœur de la pièce de Montfleury [116], et Pierre Martino nous aide à retrouver l'idée que les français avaient de cette union en Orient : « La contrée était vraiment bénie : on y mariait les enfants à neuf ou dix ans, quelquefois à cinq ou six ! les parents étaient les premiers à chercher une concubine à leur fils, dès que celui-ci avait atteint sa seizième année ! Les hommes ne connaissaient pas avant la nuit du mariage la femme qu'ils épousaient ; mais la polygamie, loi religieuse, était là pour les consoler des désillusions possibles ; ils pouvaient recommencer plusieurs fois et renouveler, selon leurs désirs changeants, la recherche de leur idéal amoureux ; d'ailleurs les danseuses et les bayadères s'offraient pour les distraire de leurs amertumes matrimoniales. Si ces tristesses devenaient trop âpres, il leur était facile d'y mettre fin : le mariage n'avait rien de sérieux, n'étant « autre chose qu'un contrat civil que les parties peuvent rompre  » Aussi que de divorces ! mais la loi avait prévu les repentirs, et il était parfaitement admis qu'on renvoyât et qu'on reprit sa femme sous le contrôle bienveillant du cadi, jusqu'à trois fois ; alors seulement le mariage devenait indissoluble. Les Français, au temps de la Régence, durent estimer que les hommes d'Orient jouissaient d'un bonheur bien enviable. Mais le principal de leurs imaginations exotiques alla vers les harems privés et les sérails royaux, dont on leur avait permis de gâter l'intimité par de hardis regards. » [117]
 
@@ -236,7 +236,7 @@ Dans *Le Mary sans femme*, le personnage de Dom Brusquin semble bien avoir envis
 Si Dom Brusquin est celui qui exprime le plus violemment les stéréotypes orientaux, il est aussi, dans la pièce, le représentant du conservatisme social européen. Fort de son argent et de sa puissance en Espagne, Dom Brusquin est persuadé de pouvoir récupérer sa femme. Or, en se confrontant aux mœurs turques, il ne rachète pas sa femme, pire encore, celle-ci est démariée pour en épouser un autre ! Les normes sociales de l'Europe d'alors sont donc bafouées au profit d'une utopie barbaresque ! Paradoxalement, les amants peuvent réaliser leur amour grâce à l'esclavage, retournement de situation où l'on peut déceler l'empreinte baroque, mais aussi une orientation satirique qui sera très en vogue au XVIII*e* siècle. C'est l'amour barbare qui est déçu dans la pièce : Célime est condamnée car elle ne respecte pas les règles de bienséance imposées par sa condition de femme turque...
 
 
-### La Lingua Franca
+### La Lingua Franca.
 
 La *lingua franca* intervient à deux moments dans la pièce : à la scène 2 de l'acte II, quand Tomire fait part de sa situation actuelle, et lors du concert final, à la scène dernière de l'acte V. Dans sa première apparition, l'usage de la *lingua franca* révèle une situation de décalage : Tomire, valet épanoui en Espagne, se trouve dépourvu de ses facultés quand il est confronté à la langue étrangère. Une fois encore, la confrontation avec l'étranger entraîne une perte de repères qui anéantit le pouvoir du personnage.
 
@@ -245,10 +245,10 @@ L'utilisation du turc de fantaisie est réapparue dans la dramaturgie comique fr
 Il est un autre domaine où Montfleury fait figure de pionnier par rapport à Molière : la place qu'il accorde à l'élément musical.
 
 
-## Place de la musique
+## Place de la musique.
 
 
-### La musique jouée au théâtre au XVII*e* siècle [123]
+### La musique jouée au théâtre au XVII*e* siècle [123].
 
 L'usage d'épisodes musicaux n'est pas une originalité au XVII*e* siècle, mais il adopte une place marginale. Tradition théâtrale héritée de l'Antiquité [124], les théoriciens de l'époque avancent le même constat : « la suppression des chœurs a eu pour conséquence la disparition de la musique au théâtre, ou plus exactement sa relégation dans les seuls intervalles d'actes » [125]. La musique, bien qu'enchâssée dans la pièce, avait alors une action dramatique autonome [126]. Ainsi, « les danses et chansons que l'on trouve dans maintes *comedias*, comiques ou tragiques, sont comme des pauses ou des parenthèses, et peuvent ne présenter aucun rapport de contenu avec l'action principale. » [127] Cette « marginalisation » du *medium* musical est revendiquée par Corneille dans l'argument d'*Andromède* : « chaque Acte aussi bien que le Prologue a sa décoration particulière, et du moins une machine volante avec un concert de Musique, que je n'ai employée qu'à satisfaire les oreilles des spectateurs, tandis que leurs yeux sont arrêtés à voir descendre ou remonter une machine, ou s'attachent à quelque chose qui leur empêche de prêter attention à ce que pourraient dire les Acteurs, comme fait le combat de Persée contre le Monstre : mais je me suis gardé de faire rien chanter qui fût nécessaire à l'intelligence de la Pièce, parce que communément les paroles qui se chantent étant mal entendues des auditeurs, pour la confusion qu'y apporte la diversité des voix qui les prononcent ensemble, elles auraient fait une grande obscurité dans le corps de l'ouvrage, si elles avaient eu à instruire l'Auditeur de quelque chose d'important. » [128]
 
@@ -257,7 +257,7 @@ Si la musique a toujours fait partie de la représentation, avec des comédiens 
 L'originalité de Montfleury ne tient donc pas à l'utilisation d'ornements musicaux mais à la fonction accordée à ces épisodes. Nous envisagerons *Le Mary sans femme* dans une perspective musicologique avant d'étudier l'insertion des morceaux à l'intrigue. Nous rapprocherons cette dernière particularité à la technique dramatique du « théâtre dans le théâtre » [131], procédé dramatique omniprésent à l'âge baroque [132].
 
 
-### Perspective musicologique
+### Perspective musicologique.
 
 Edward Forman [133] et John S. Powell [134] ont privilégié la perspective musicologique dans l'étude des éléments musicaux du *Mary sans femme*.
 
@@ -271,7 +271,7 @@ The first song (‘O Giornata Fortunata') appears notated in F4 bass clef and, j
 Cependant, au-delà de cette exploration musicologique, il est intéressant d'étudier comment les éléments musicaux sont intégrés à l'intrigue.
 
 
-### Une forme du théâtre dans le théâtre
+### Une forme du théâtre dans le théâtre.
 
 La pièce du *Mary sans femme* est jalonnée de trois concerts [140], joués par Julie et Carlos, esclaves des turcs, dans le palais du gouverneur d'Alger [141].
 
@@ -282,7 +282,7 @@ Outre leur structure d'intervention dans la pièce [142], les épisodes musicaux
 Au delà de la survivance du procédé du théâtre dans le théâtre, on peut donc voir dans l'utilisation de la musique une manière de plaire au public [149] dans un souci décoratif autorisé par les règles classiques. Cette attirance pour le spectaculaire révèle le goût particulier du XVII*e* pour ces comédies à insertions musicales, qui rivalisent souvent avec les comédies-ballets...
 
 
-## Influence du travail de Montfleury
+## Influence du travail de Montfleury.
 
 Dans son introduction à l'édition critique du *Mary sans femme*, Edward Forman met en avant le rôle important de Montfleury dans l'apparition de la comédie-ballet, lui accordant une place de précurseur dans le domaine. Bénédicte Louvat-Molozay partage la même opinion : « Il n'est pas impossible que Molière se soit inspiré de ce divertissement final pour écrire la turquerie du *Bourgeois gentilhomme* : le sabir est déjà présent dans le premier air et la pièce de Montfleury associe le chant à l'exotisme. De la même manière, c'est peut-être chez Montfleury que Molière trouve le modèle de l'opéra impromptu qu'interprètent les deux jeunes amants dans *Le Malade imaginaire*, et qu'Argan, à l'instar de Célime, interrompt lorsqu'il a compris le sens des paroles chantées. » [150] John S. Powell révèle cette même influence de Montfleury chez Molière dans *Le Sicilien, ou l'Amour peintre* [151] et *Le Mariage forcé* [152].
 
@@ -293,7 +293,7 @@ Outre ces originalités, l'auteur sut s'attacher aux idées de son époque avec 
 Au regard de l'influence de Montfleury sur le théâtre du XVII*e* siècle, et surtout chez Molière, considéré comme le plus grand dramaturge comique de son temps, nous pouvons nous étonner du peu de place que la postérité a laissée à l'auteur... Les critiques formulées à son égard tournent souvent autour de la moralité. Aussi, nous paraît-il important de revenir sur ce point.
 
 
-## Discrédit de la pièce lié à la morale
+## Discrédit de la pièce lié à la morale.
 
 Si *Le Mary sans femme* ne peut être assimilée à une farce, la moralité de la pièce reste cependant douteuse puisque c'est un amour extraconjugal qui triomphe... Rappelons la condamnation des frères Parfaict pour qui le sujet du *Mary sans femme* « pêche du côté des bonnes mœurs ». On comprend alors que Montfleury ait été assez mal considéré par les critiques, et ce dès le XVII*e* siècle [154]. Plus qu'un discrédit individuel, l'auteur a pâti de la réputation de la farce dont il était censé s'inspirer, et plus largement du discrédit de la comédie, genre dans lequel il excellait.
 
@@ -302,10 +302,10 @@ En effet, « dès le XVII*e* siècle, une comédie est une œuvre mineure. ... 
 Pourtant, toutes ces condamnations sont liées à un regard normatif hérité du classicisme : la comédie est jugée à l'aune de sa vraisemblance et non de sa fonction première, divertir. Or, à l'épreuve de la scène, *Le Mary sans femme* rencontra un véritable succès de 1695 à 1761. Il paraît donc important de mettre en lumière le manuscrit qui servit de support aux comédiens de cette époque.
 
 
-# Le manuscrit
+# Le manuscrit.
 
 
-## Les variantes au niveau de l'intrigue
+## Les variantes au niveau de l'intrigue.
 
 Comme nous le verrons dans la « Note sur la présente édition », les textes du manuscrit découvert dans la collection Soleinne, et celui de l'édition collective de 1705, présentent des différences : l'orthographe et la ponctuation ne sont pas les mêmes, mais surtout, certains éléments de l'intrigue sont changés. Afin que ces modifications apparaissent plus clairement à la lecture du manuscrit, nous les avons soulignées, puis mises en évidence dans un tableau comparatif entre les deux textes [157].
 
@@ -314,7 +314,7 @@ Une première remarque s'impose : alors que le texte de l'édition de 1705 pré
 Le remaniement de la pièce est important. Si le manuscrit date de la fin du XVII*e* siècle [165], comme nous l'avons avancé dans la « Note sur la présente édition », et le texte de l'édition de 1705 est bien celui de l'auteur [166], la comparaison de deux versions pourrait mettre en lumière une évolution de la dramaturgie entre 1663 et 1695.
 
 
-## Témoin de l'évolution des codes dramaturgiques
+## Témoin de l'évolution des codes dramaturgiques.
 
 Tout d'abord, nous tenons à rappeler que le texte de théâtre n'est pas stable : « il évolue en permanence au gré d'actualisations scéniques successives, au contact des exigences dictées par les conditions de production et de réception du spectacle. Forme contingente stabilisant parfois arbitrairement un certain état de la représentation, historiquement daté, la pièce imprimée est certes une mémoire du spectacle, mais une mémoire tronquée, biaisée, sélective, qui tend à apostasier, sous la bannière unique de l'intention de l'auteur, la multiplicité d'influences qui concourent à l'établissement d'un texte dramatique composite et collectif. » [167] Ainsi, dans un article sur « Les Manuscrits de théâtre » [168], Jean-Marie Thomasseau distingue treize états des écrits de théâtre. Le manuscrit que nous avons retranscrit serait à identifier comme « texte « jouet » *sic* et rejoué » [169], ou « texte tiers » d'après la terminologie de Martial Poirson [170]. Un tel document nous permet d'évaluer les modifications apportées au texte à l'épreuve de la représentation, en fonction des exigences et des possibilités de la scène, du travail des interprètes, de la réaction du public, de la censure…
 
@@ -331,7 +331,7 @@ De manière générale [175], on remarque une recrudescence d'indications scéni
 Plus qu'une nouvelle écriture, ce manuscrit est une ré-écriture, une re-création, qui permet d'éclairer différemment l'œuvre initiale du *Mary sans femme* en apportant des modifications issues de la scène et du parti pris de certains comédiens [181].
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il nous a été impossible de retrouver un exemplaire de l'édition originale du *Mary sans femme*. Edward Forman, qui a déjà publié une édition critique de la pièce [182], a rencontré la même difficulté. Pourtant, la pièce aurait été représentée et imprimée entre 1660 et 1664. En effet, l'avertissement tiré de l'édition de 1739 du *Théâtre de Messieurs de Montfleury* [183] propose une liste chronologique des pièces d'Antoine Jacob Montfleury : *Le Mary sans femme* serait la première comédie en cinq actes en vers de l'auteur, et aurait été imprimée à la suite des *Bestes raisonnables* [184] mais avant *Thrasibule* [185]. Il paraît donc vraisemblable que *Le Mary sans femme* fut publiée en 1663 comme le rapporte de nombreux ouvrages, et non pas en 1666 chez Pépingué, comme le note Lancaster [186]. La date de 1663 apparaît aussi dans le *Répertoire du Théâtre de l'Hôtel de Bourgogne, depuis 1620 jusqu'à sa fermeture en 1680* [187] figurant dans la Bibliothèque Dramatique de Monsieur Soleinne. Enfin, Sophie Wilma Deierkauf-Holsboer [188] situe la représentation du *Mary sans femme* durant l'année 1664, mentionnant quarante-neuf reprises à la Comédie Française [189].
 
@@ -537,7 +537,7 @@ Préparez-vous, dans peu je seray de retour.
 JULIE, CARLOS, MARINE, TOMIRE.
 
 
-    JULIE
+    JULIE.
 Ah Carlos !  
 
     CARLOS.
@@ -782,7 +782,7 @@ Mais à propos, entrez, elle pourroit attendre.
 
 ### SCENE IV.
 
-    ZAIRE*seule.*
+    ZAIRE*seule.*.
 Fasse le juste Ciel qu'elle se puisse rendre  
 Aux feux⁎ de Fatiman ; si l'Hymen⁎ concerté⁎  
 Se conclut⁎, il me doit donner la liberté.  
@@ -818,7 +818,7 @@ Laissez-moy faire.
         Non, avant qu'on les appelle,  
 Je veux t'entretenir⁎, Zaire.  
 
-    ZAIRE *à part.*
+    ZAIRE *à part.*.
         Que veut-elle ?  
 
     CELIME.
@@ -914,7 +914,7 @@ Aussi tendre⁎ [255] que l'Amour même
 L'Espagnol sçait seul comme on aime  
 Et merite seul d'être heureux.  
 
-    CELIME *aprés qu'on a chanté.*
+    CELIME *aprés qu'on a chanté.*.
 Cette diversité de passions⁎ m'enchante⁎,  
 Je suis de ce concert extrêmement contente.  
 Vous m'avez plû : rentrez dans vôtre Appartement,  
@@ -1726,7 +1726,7 @@ L'agréable douceur d'aimer & d'être aimée,
 Que mon cœur⁎ se dévouë à l'Amour desormais,  
 Et d'un heureux Hymen⁎ je fais tous mes souhaits.  
 
-    FATIMAN
+    FATIMAN.
 Que ne luy dois-je point ? que ma surprise est grande.  
 O Ciel !  
 
@@ -2197,7 +2197,7 @@ Pour s'être ouvert à vous ainsi, j'en suis surpris,
     CELIME.
 J'estime fort Carlos.  
 
-    TOMIRE
+    TOMIRE.
         Et vous a-t'il appris  
 Que ce vieux Singe, à qui l'on maria Julie,  
 Est pour la rachetter dés hier en Barbarie⁎,  
@@ -2567,7 +2567,7 @@ Les présens, les faveurs⁎ [327]
 N'arrêtent pas toûjours les cœurs ;  
 Mais je crois que l'Amour…  
 
-    CELIME *aprés qu'on a chanté.*
+    CELIME *aprés qu'on a chanté.*.
 Taisez-vous, Dom Carlos, vôtre chant m'étourdit ;  
 Mais que fais-je, où m'emporte un trop juste dépit ;  
 Ils s'aiment, je ne puis l'ignorer. O vengeance,  
@@ -3376,7 +3376,7 @@ Je pleure de dépit que j'ay de le voir rire.
 Ces contrarietez que vous me faites voir,  
 Ont d'autres fondemens ; & je les veux sçavoir⁎.  
 
-    TOMIRE
+    TOMIRE.
 Madame, à dire vray pour moy, c'est que mon Maître,  
 Joyeux, charmé, ravy, tout ce qu'on sçauroit l'être,  
 M'a dit que nous étions tous deux en liberté,  
@@ -3436,7 +3436,7 @@ CELIME, FATIMAN, ZAIRE, TOMIRE, MARINE.
     CELIME.
 Dans mon Appartement ? devant moy ?  
 
-    ZAIRE. 
+    ZAIRE.
         Quels revers ?  
 
 
@@ -3703,7 +3703,7 @@ A moins que ton aveu⁎ ne seconde sa flâme⁎,
 Il faudra le prier d'avoir soin⁎ de ta Femme ;  
 Et de la recevoir de ta main, autrement…  
 
-    D  BRUSQUIN.
+    D BRUSQUIN.
 Ah ! faites-moy credit d'un si sot compliment,  
 De quel air⁎ voulez vous que pour le satisfaire...  
 
@@ -3888,7 +3888,7 @@ Plus de la moitié des Maris
 Qui sont aujourd'huy dans Paris,  
 Feroient dés demain le voyage.  
 
-    D. BRUSQUIN, *aprés qu'on a dansé.*
+    D. BRUSQUIN, *aprés qu'on a dansé.*.
 Helas, tous mes Amis se moquant de ma flâme⁎,  
 Ne m'appelleront plus que le Mary sans Femme ;  
 Mais que ferois-je, enfin, il faut s'en consoler ;  
@@ -3897,7 +3897,7 @@ On reprend icy le même divertissement.
 FIN.
 
 
-# GlossaireAbord (d')« Du commencement, de la premiere veüe. » (Fur.)V. 263, 437, 503, 1323, 1506Adorer« Signifie aussi hyperboliquement, Avoir beaucoup d'amour ou d'admiration pour quelqu'un. » (Fur.)V. 20 Agrément« Signifie aussi, Ratification, consentement. » (Fur.)V. 670 Air« Signifie encore, Maniere d'agir, de parler, de vivre, soit en bonne, ou en mauvaise part. » (Fur.)V. 172, 538, 691, 844, 1556Amant, ante« Qui aime et est aimé. » (Rich.)V. 15, 277, 701, 968, 1102, 1152, 1165, 1360 Ame« Forme substantielle qui rend les corps vivants. » (Fur.)V. 248, 387, 563, 591, 600, 615, 719, 731, 836, 955, 1029, 1037, 1164, 1168, 1201, 1208, 1237, 1392, 1429, 1433, 1444, 1568 Ardeur« Se dit figurément en Morale, & signifie, Passion, vivacité, emportement, fougue. » (Fur.)V. 211, 249, 298, 708, 734, 796, 803, 845, 871, 1308, 1406, 1580Art« Tout ce qui se fait par l'adresse & par l'industrie de l'homme. » (Fur.)V. 223Assujettir« Vaincre, mettre sous le joug, sous la sujettion. » (Fur.)V. 75 Assurance« se dit aussi des verités qu'on donne pour certaines & infaillibles. » (Fur.)V. 90 Attache« Se dit figurément en Morale de l'engagement qu'on a à quelque chose. » (Fur.)V. 1120 Avance« Se dit figurément en Morale, pour dire, Estre le premier à faire des propositions, des recherches d'amitié, des civilités. » (Fur.)V. 258 Avantage« Ce qui fait preferer quelque chose à une autre, ce qui la met au dessus. » (Fur.)V. 281 Aveu« Signifie aussi, Protection, approbation ; ordre, ou consentement donné. » (Fur.)V. 145, 251, 640, 1552 Babillard« Qui parle continuellement, & qui ne dit que des choses de néant. » (Fur.)V. 786 Balancer« Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, & qui le font incliner de part & d'autre. » (Fur.)V. 1166 Barbare« Estranger qui est  d'un pays fort éloigné, sauvage, mal poli, cruel, & qui a des mœurs forts differentes des nostres. » (Fur.)V. 285, 667 Barbarie« Signifie aussi, Ignorance, grossiereté. La Grece où regnoient autrefois la science & la politesse, est presentement plongée dans une affreuse *barbarie*. La France a été long temps un païs de *barbarie*. Et en ce sens il se dit tant des mœurs que du langage. » (Fur.)V. 329, 820, 1296, 1613 Beaute« On appelle aussi absolument *Beauté*, la personne qui est belle. » (Fur.)V. 74, 255 Bien« En termes de Jurisprudence, signifie, Toutes sortes de possessions & de richesses. » (Fur.)V. 95, 731, 1112, 1156 Blanc signé« Un papier, ou un parchemin, que l'on donne à quelqu'un pour le remplir à sa volonté. » (Acad.)V. 1539, 1540 Bourru, ue« Bizarre, qui ne veut point voir le monde, qui a des maximes extravagantes. » (Fur.)V. 130, 376, 700 Brave« Excellent en sa profession. On dit, un *brave* homme. » (Fur.)V. 311, 692, 751, 1224 Braver« Choquer, mépriser quelqu'un, le traitter de haut en bas. » (Fur.)V. 189, 682 But (de ... en blanc)« Adv. fig./burl. Inconsidérément, à l'étourdi. » (Rich.)V. 788 Butte« On dit figurément, Estre en *butte* à l'envie, à la médisance, pour dire, Estre exposé aux traits de l'envie, de la médisance. » (Fur.)V. 132 Ça« Çà est quelquefois une interjection pour exciter & encourager à faire quelque chose. *Çà, travaillons.* » (Acad.)V. 38, 879 Cabinet« Le lieu le plus retiré dans le plus bel appartement des Palais, des grandes maisons. Un appartement royal consiste en sale, antichambre, chambre, & *cabinet* avec une galerie à costé. » (Fur.)V. 242, 638, 1147 Casaque« Manteau qu'on met par dessus son habit, & qui a des manches où on fourre les bras. » (Fur.)V. 1198 Cavalier« Se dit aussi d'un galant qui courtise, qui mene une Dame. » (Fur.)V. 266, 272, 275 Certificat« Témoignage qu'on donne par écrit, pour faire connoistre en Justice la verité de quelque chose. » (Fur.)V. 1267 Cesse« Qui se dit toûjours avec la negative, & signifie alors, Continuation. » (Fur.)V. 50, 1230 Chagrin« Melancolie, ennuy ; fascheuse, mauvaise humeur » (Acad.)V. 2, 6, 23, 128, 132, 143, 149, 159, 167, 372, 1171, 1541 Charmant, ante« Qui plaist extraordinairement, qui ravit en admiration. » (Fur.)V. 251 Charme« Se dit figurément de ce qui plaist extraordinairement, qui nous ravit en admiration. » (Fur.)V. 248, 392, 735 Charmer« Signifie aussi, Dire ou faire quelque chose de merveilleux, de surprenant, plaire extraordinairement. » (Fur.)V. 742, 979, 1123, 1593Chien« Se dit aussi par injure, & pour reprocher à quelqu'un ses defauts. » (Fur.)V. 50, 54, 114, 594, 1265, 1503 Cœur« Se dit figurément en choses spirituelles & morales, & signifie l'ame, & ses principales fonctions, parce que quelques Medecins, & entre autres Fernel, ont crû que les principales parties de nôtre esprit residoient au *cœur*, comme l'entendement, la volonté, la memoire. ... se dit aussi des passions de l'ame. » (Fur.)V. 31, 96, 160, 190, 244, 263, 270, 272, 418, 450, 451, 617, 674, 738, 773, 816, 858, 971, 977, 984, 1052, 1067, 1073, 1074, 1125, 1138, 1244, 1302, 1331, 1345, 1357, 1361, 1367, 1379, 1566, 1577 Commettre« Signifie aussi, Confier quelque chose à la prudence, à la fidelité de quelcun. » (Fur.)V. 648 Concerter« Se dit figurément en choses morales, en parlant des assemblées de gens qui font dans un même interest, pour adviser aux moyens de faire reüssir quelque affaire. » (Fur.)V. 155, 1278 Conclurre« Signifie encore, Arrester une chose, la resoudre, promettre de l'accomplir. Ce mariage a été *conclu*, mais il ne sera executé que dans un an. » (Fur.)V. 156, 334, 427, 439, 446, 515, 595, 690, 879, 1325 Concordat« Convention qui se fait en matiere beneficiale sur quelque resignation ou permutation, & generalementsur toutes les matieres Ecclesiastiques, contentieuses ou obligatoires. » (Fur.)V. 1266 Conduitte« Commandement, direction ; action de celui qui conduit. ... Il s'employe principalement dans un sens moral. » (Fur.)V. 648, 723 Convenir« Advouër, être du même sentiment. » (Fur.)V. 43, 1268, 1366 Conscience« Témoignage, ou jugement secret de l'ame raisonnable, qui donne l'approbation aux actions qu'elle fait qui sont naturellement bonnes, & qui luy fait un reproche ou qui luy donne un repentir des mauvaises. » (Fur.)V. 114 Consommer« signifie aussi, Venir au dernier but du mariage. Un mariage n'est point parfait, jusqu'à ce qu'il soit *consommé*. » (Fur.)V. 47, 814 Contester« Quereller, plaider, disputer. » (Fur.)V. 140 Controller« Signifie aussi, Examiner les actions d'autruy, les critiquer, y trouver à redire. » (Fur.)V. 542 Coquin, ine« Terme injurieux qu'on dit à toutes sortes de petites gens qui menent une vie libertine, frippone, faineante, qui n'ont aucun sentiment d'honnesteté. » (Fur.)V. 80 Cour« se dit aussi à l'égard des Grands Seigneurs ou Superieurs, à qui on rend des visites frequentes, des respects, des assiduitez. » (Fur.)V. 3, 1342 Courroux« Mouvement impetueux de colere. » (Fur.)V. 135, 850, 999, 1025, 1142, 1428, 1453 Courtier, iere« On disoit autrefois *couratier*, qui s'entremet pour faire des ventes, des prests d'argent. » (Fur.)V. 57 Crever« Se prend aussi quelquefois pour Mourir de quelque mort violente, ou simplement pour mourir. » (Acad.)V. 6, 765, 1195, 1315, 1547 Dedans« Adv. & preposition de lieu & de temps, qui signifie la même chose que *dans*. » (Fur.)V. 40, 466, 477, 480, 1337 Deffiance« Crainte d'estre trompé, ou de ne pouvoir pas reüssir dans ses desseins. » (Fur.)V. 195 Dehors« Adverbe de lieu relatif, opposé à *dedans*. » (Fur.)V. 40, 477 Demon« Les Anciens ont appelé ainsi certains Esprits ou Genies qui apparoissent aux hommes, tantost pour leur servir, tantost pour leur nuire. » (Fur.)V. 105, 370 Destin ou Destinee« Disposition ou enchaisnement de causes secondes ordonné par la Providence, qui emporte une necessité de l'évenement. » (Fur.)V. 75, 189, 307, 629, 1133, 1175, 1313, 1594Destiner« Projetter de faire quelque chose, en disposer dans sa pensée. » (Fur.)V. 317 Diantre« Terme populaire dont se servent ceux qui font scrupule de nommer le Diable. » (Fur.)V. 108 Differer« Gagner du temps, remettre à une autrefois. » (Fur.)V. 158, 935 Discours« Expression faite de vive voix de ses pensées sur quelques points, sur quelques matieres qu'on veut faire entendre à plusieurs personnes. » (Fur.)V. 172, 173, 535, 547, 625, 652, 724, 945, 1368, 1485, 1544 Discretion« On dit que *Les sol*d*ats vivent à discretion*, pour dire, qu'Ils vivent chez leurs Hostes sans discipline & sans autre regle que leur volonté. » (Acad.)V. 377 Distance« Esloignement d'une chose à l'égard d'une autre, soit pour le temps, soit pour le lieu ou la qualité. » (Fur.)V. 257 Divan« Terme de Relations. Lieu où on rend la justice, où on tient le Conseil dans les pays Orientaux. » (Fur.)V. 1054 Divertir« Destourner, distraire. » (Acad.)V. 3, 73, 76, 163, 166, 865, 873 Domter« Subjuguer, se rendre maistre. » (Fur.)V. 191 Éclaircir (s')« S'informer, s'instruire » (Hug.)V. 196, 325, 332 Egrillard« Vif, éveillé, gaillard. ... On l'emploie aussi substantivement. *C'est un égrillard.* Il est du style familier. » (Acad.)V. 537 Emphytéose« Bail d'heritages à longues années. » (Fur.)V. 1497 Empressement« Témoignage d'ardeur, d'affection, de diligence qu'on a pour quelque chose, pour achever quelque besogne. » (Fur.)V. 147, 664, 750, 1383 Encan« Vente publique de meubles qui se fait par autorité de Justice, & par un Sergent qui les adjuge au plus offrant & dernier encherisseur. » (Fur.)V. 418 Enchanter« Se dit figurément en Morale, de ceux qui se servent de paroles douces ou artificieuses pour plaire à quelqu'un, ou pour en tirer quelque avantage, ou pour se faire admirer. » (Fur.)V. 233 Enjouement« Belle humeur, gayeté qui paroist sur le visage ou dans les actions d'une personne, qui réjouït une compagnie. » (Fur.)V. 133 Engager« Avec le pronom personnel, signifie aussi, S'endetter, ou s'obliger à faire quelque chose, ou cautionner quelcun ; s'embarrasser. » (Fur.)V. 115, 1540 Énoncer« Parler pour faire entendre sa pensée. » (Fur.)V. 262 Ennui« Il signifie aussi generalement, Fascherie, chagrin, deplaisir, souci. » (Acad.)V. 6, 8, 179, 314, 351, 722, 823, 829, 1038 Ennuyer« Ouir, ou faire, ou souffrir quelque chose avec chagrin, avec desplaisir, causer de l'ennuy. » (Fur.)V. 237, 613, 864, 880, 1368, 1639Enrager« Se dit figurément en choses morales, des passions violentes qui vont presque jusqu'à la fureur. » (Fur.)V. 40, 769, 927 Entretenir« signifie aussi, Discourir avec une ou plusieurs personnes. » (Fur.)V. 170, 1336,  Entretien« Se dit aussi de la conversation. » (Fur.)V. 184, 585 Envie« Signifie aussi la passion, le desir qu'on a d'avoir ou de faire quelque chose. » (Fur.)V. 106 Envisager« Regarder quelqu'un au visage. » (Fur.)V. 280 Environner« Enfermer tout autour, estre aux environs. » (Fur.)V. 324 Esperance« Est aussi une pretention mondaine qui nous fait attendre un bien que nous desirons. » (Fur.)V. 89 Estat« Signifie aussi la qualité, la nature & la constitution presente de quelque chose. » (Fur.)V. 24, 68, 99, 183, 277, 719, 1132, 1455 Estonner« Il signifie fig. Esbranler, faire trembler par quelque grande, par quelque violente commotion. » (Acad.)V. 1147 Examiner« Faire une exacte perquisition ou recherche de quelque chose. » (Fur.)V. 38, 323, 343, 375, 853 Expliquer« Signifie aussi, Esclaircir, declarer nettement sa volonté. » (Fur.)V. 174, 261, 282, 506, 911, 996, 999, 1464 Exposer« Signifie aussi, Courir le danger. » (Fur.)V. 9, 296 Extravagance« Chose dite ou faite mal à propos, follement. » (Fur.)V. 293 Façon« Se dit aussi de ces ceremonies, compliments & grimaces incommodes qu'on fait avec des gens qui ne nous sont point familiers. » (Fur.)V. 82, 111, 545 Fait« Signifie encore, Ce qui est propre & convenable à quelqu'un. *Cette maison-là, cette Charge-là seroit bien le fait d'un tel. ce n'est pas mon fait. c'est justement votre fait. j'ay trouvé son fait*. » (Acad.)V. 1250 Fantasque« Capricieux, bouru, qui a des manieres ou des humeurs extra-ordinaires. » (Fur.)V. 312 Faveur« Signifie aussi la bienveillance d'un puissant, d'un superieur, le credit qu'on a sur son esprit. » (Fur.)V. 284, 976, 983, 1044, 1579, 1582 Feu« se dit figurément en choses spirituelles & morales de la vivacité de l'esprit, de l'ardeur des passions. » (Fur.)V. 141, 155, 276, 311, 530, 603, 609, 639, 975, 980, 1125 Flamme« Il se dit communément de l'amour prophane, Cet amant brusle d'une *flamme* innocente pour cette fille. » (Fur.)V. 780, 856, 916, 939, 952, 1165, 1532, 1552, 1577, 1649 Flatter« Signifie encore, Deguiser une verité qui seroit desagreable à celuy qui y est interessé, luy donner meilleure opinion d'une chose qu'il n'en doit avoir. » (Fur.)V. 97, 327, 553 « Attribuer à une personne de bonnes qualitez qu'elle n'a pas, l'en loüer, l'en feliciter. » (Fur.)V. 139, 433, 1164 Foy« Signifie encore, Serment, parole qu'on donne de faire quelque chose, & qu'on promet d'executer. » (Fur.)V. 949, 1559 Forçat« Galerien, homme condamné aux galeres, qui tire sa rame par force. » (Fur.)V. 1292, 1295 Fortune« Se prend aussi pour Tout ce qui peut arriver de bien ou de mal à un homme. » (Fur.)V. 483 Froid« Se dit figurément de ce qui a peu de mouvement, qui est pesant, posé, serieux. » (Fur.)V. 141 Front« Le haut du visage, la partie qui est au dessus des yeux. ... Ce mot vient du Latin *frons*, du Grec *phronein, sentire*, de *phren, mens, esprit, pensée*. Martinius pour expliquer cette étymologie, dit que l'on voit sur le *front* des personnes ce qu'elles sont capables de faire, qu'on y découvre ce qu'elles sont, & quoy elles pensent. Du Laurens le derive de *ferre*, parce qu'il porte des marques de ce que nous avons dans l'ame. » (Fur.)V. 281, 368, 418, 522, 526, 689, 892, 1299, 1584 Funeste« Qui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable. » (Fur.)V. 27, 277 Fureur« Se dit aussi de toutes les passions qui nous font agir avec de grands emportements. » (Fur.)V. 278, 1012, 1152 Gambade« Saut ou posture qui se fait dans l'ardeur de la jeunesse par gayeté & emportement. » (Fur.)V. 360 Garder de (se)« S'empêcher de » (Hug.)V. 152 Geler« Se dit figurément d'un froid accueil. » (Fur.)V. 141 Gener« Signifie plus communément, Tourmenter le corps ou l'esprit. » (Fur.)V. 1076, 1275 Gentilhomme« Homme noble d'extraction, qui ne doit point sa Noblesse ni à sa charge, ni aux lettres du Princes. » (Fur.)Gesticuler« Faire des gestes indecens, mal à propos, & en trop grand nombre. » (Fur.)V. 177 Gourdin« Gros baston & court. » (Fur.)V. 82, 1199 Gouverneur« Officier du Roi qui commande dans une Province, dans une place. Un *Gouverneur* autrefois étoit obligé de soutenir trois assauts avant que de se rendre. Un *Gouverneur* represente le Roi dans une place, & commande non seulement à la garnison, mais aussi aux bourgeois, & à toutes les trouppes qui entrent dans sa place. » (Fur.)`V. 116, 349, 498, 500 Guignon« Malheur, accident dont on ne peut sçavoir la cause, ni à qui s'en prendre. » (Fur.)V. 50 Grace« Signifie aussi, Remerciement, & se dit plus souvent au pluriel. » (Fur.)V. 129, 1519 « Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée. » (Fur.)V. 166, 247, 1464, 1492 Horreur« Se dit aussi de la forte haine ou aversion qu'on a pour certaines choses. » (Fur.)V. 32, 297 Horrible« Se dit aussi d'une chose excessive soit en bien, soit en mal. » (Fur.)V. 2 Huitiéme« On appelle *Droit de huitiesme*, un certain droit d'Ayde qui se prend sur celuy qui vend du vin au détail. » (Acad.) cf. v. 502V. 540 Hymen« Signifie aussi poëtiquement, le mariage. » (Fur.)V. 22, 32, 47, 155, 518, 597, 603, 618, 628, 814, 857, 1051, 1245, 1251, 1255, 1410, 1549 Indolent, ente« Qui n'est point touché des afflictions ordinaires. » (Fur.)V. 125 Industrie« Dextérité, invention ; adresse à faire reüssir quelque chose, quelque dessein, quelque travail. » (Fur.)Industrieuse« Qui a de l'industrie, ou qui est fait avec industrie. » (Fur.)V. 237Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. » (Fur.)V. 1180 Insipide« Qui n'a rien de picquant, ou d'acide qui chatouille le goust, qui fasse quelque impression sur luy. ... se dit aussi de la personne, & de la partie où se fait l'impression de ce sentiment. » (Fur.)V. 728 Intelligence« Il signifie aussi, Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre. » (Acad.)V. 852, 1184 Interdire« Se dit aussi de ceux qui se troublent, qui s'estonnent, & qui ne sçauroient parler raisonnablement. » (Fur.)V. 646, 727 Interesse, ee« On appelle un homme *Interessé*, celuy qui est avare, qui ne relâche aucune chose de ses Interests, qu'on peut gagner, corrompre aisement par argent. » (Fur.)V. 57 Intrigant, ante« Qui a des connoissances, qui se fourre par tout, & qui avec son adresse fait les affaires d'autruy, & les sciennes. » (Fur.)V. 57 Intrigue« Se dit aussi de cette cabale de gens qui par leurs advis, leurs connoissances, leurs adresses ; sçavent ombrouiller ou debarasser les affaires, & en tirer du profit. » (Fur.)V. 59, 61 Importer« Estre de consideration. » (Fur.)V. 239 Laidir« Enlaidir » (Hug.)V. 167 Laisser (ne pas)« Signifie aussi, Estre, demeurer malgré quelque obstacle. » (Fur.)V. 1277 Langoureux« Infirme, valetudinaire, qui languit, qui a de la peine de guerir d'une maladie. » (Fur.)V. 127 Lapidaire« Ouvrier qui taille les pierres précieuses, Marchand qui les debite, ou celuy qui est expert à les connoistre. » (Fur.)V. 1467 Lie« La partie la plus crasse, la plus grossiere du vin, de l'huile, & des autres liqueurs. » (Fur.)V. 228 Main« Se dit aussi de la part, du costé d'où vient quelque chose. » (Fur.)V. 286 En bonne main« On dit encore, qu'une affaire est en *bonne main*, pour dire, qu'elle est sous la conduite d'un homme qui la sçaura faire reüssir. » (Fur.)V. 1377 Magot« Se dit figurément des hommes difformes, laids, comme sont les singes, des gens mal bastis. » (Fur.)V. 878 Malepeste« Imprecation qu'on fait contre quelque chose, & quelque fois avec admiration. » (Fur.)V. 362 Marabout« Terme de Relations, est un Prestre Mahometan qui dessert une Mosquée, particulierement en Afrique. » (Fur.)V. 929 Maraud« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (Fur.)V. 423 Matois« Rusé, difficile à estre trompé, adroit à tromper les autres. » (Fur.)V. 841 Mesnager« Signifie encore fig. Conduire, manier avec addresse. » (Acad.)V. 213, 781 Moyen« Se dit aussi des adresses, des inventions, ou facilitez dont on se sert pour parvenir à ses fines. » (Fur.)V. 44, 103 Muid« Grande mesure de choses liquides. Le *muid* de vin de Paris contient deux cent quatrevingt pintes, selon le Reglement de Louis XIII. & suivant les Ordonnances de Henri IV. de trois cents pintes. » (Fur.)V. 227 Mutin, ine« Qui se revolte contre l'autorité legitime. » (Fur.)V. 339, 1201 Mystere« Se dit aussi de ce qu'on tient caché, qu'on ne veut pas descouvrir. » (Fur.)V. 58, 222, 776, 801, 993 Necessaire« On s'en sert aussi au substantif... On dit aussi d'un domestique, qu'il fait le *necessaire*, qu'il s'est rendu *necessaire*, quand il s'est mis en tel estat, qu'on a de la peine à se passer de luy. » (Fur.)V. 137 Negative« Action de nier, négation » (Hug.)V. 380 Negoce« Trafic, ou commerce, soit en argent, soit en marchandises. » (Fur.)V. 923 Nœud gordien«  Est un proverbe Grec, qui se dit d'un *nœud* qu'on ne sçauroit desnoüer : & figurément, d'une difficulté qu'on ne peut resoudre. Il vient d'un *nœud* de courroyes indissoluble, que Gordius Roy de Phrygie mit dans un temple d'Apollon, en memoire de ce qu'il avoit esté salué Roy, parce qu'il estoit entré le premier dans ce temple, quoy qu'il fust d'ailleurs de race roturiere. Alexandre le couppa avec son espée, parcequ'il ne le pût desnoüer, & que l'Oracle avoit predit que celuy qui le desnoüeroit seroit le vainqueur de l'Asie. » (Fur.)V. 512 Objet« Ce qui est opposé à nostre veuë, ou qui frappe nos autres sens, ou qui se represente à nostre imagination » (Fur.)V. 30, 276, 1007, 1134, 1617 Œuillade« Regard, action de veuë. » (Fur.)V. 309 Passer (se)« Signifie aussi, Se contenter. » (Acad.)V. 534 Passion« En Morale, se dit des différentes agitations de l'ame selon les divers objets qui se presentent à ses sens. ... se dit par excellence de l'amour. » (Fur.)V. 14, 145, 233, 267, 644Pécher« Ce mot au figuré veut dire manquer. » (Rich.) L'expression « Pécher en mine » n'est pas attestée dans les dictionnaires, mais « Il signifie aussi, Faillir contre quelqu'autre regle que ce soit. » (Acad.)V. 376 Peste« Se dit quelquefois par admiration, ou par imprecation, ou serment. » (Fur.)V. 537, 567 Pester« S'emporter contre quelque chose, invectiver contre quelqu'un. » (Fur.)V. 40 Positif, ive« Qui est certain & effectif, qu'on met en fait comme une chose constante & assûrée. » (Fur.)V. 1501 Pourvoir« Donner ordre à quelque chose. *Voylà bien du desordre, il faut y pourvoir. on y a pourveu. pourvoyez à cette affaire. si les hommes n'y pourvoyent, Dieu y pourvoyra. il a pourveu à tous nos besoins*. » (Acad.)V. 1182 Pretendre« Aspirer à quelque chose, avoir esperance de l'obtenir. » (Fur.)V. 241, 544, 699, 886, 926 Presser« Signifie aussi, Poursuivre vivement, tant au combat, qu'à la dispute. » (Fur.)V. 35, 733, 1046 Premice« Se dit aussi par extension en Morale, du commencement des choses. » (*Fur.*)V. 28 Prochain, aine« Qui n'est pas loin. » (Fur.)V. 122, 242, 264, 638, 1110, 1147 Rapport« Se dit aussi de la relation de ce qu'a veu, ouy, ou connu celuy qu'on a commis pour s'informer de quelque chose. » (Fur.)V. 319, 527 Ravage« Grand desordre qui se fait par violence. » (Fur.)V. 475 Ravir« Emporter quelque chose violemment. ... se dit aussi en choses spirituelles et morales. » (Fur.)V. 577, 1037, 1429 Rebus« Jeu d'esprits mediocres ou populaires qui font des equivoques sur des mots couppez, ou joints ensemble, ou sur quelques peintures qui les representent. » (Fur.)V. 1338Remettre (se)« On dit encore, *Se remettre quelque chose*, pour dire, En rappeller l'idée, le souvenir. » (Acad.)V. 369 Renegat« Qui a renoncé à la Foy de *Jesus*-*Christ* pour embrasser une autre Religion. On le dit proprement de ceux qui se rendent Mahometans. » (Fur.)V. 100 Repos« Se dit aussi d'une quietude d'esprit & de corps qui les met hors de trouble, de crainte & de soins. » (Fur.)V. 69, 239, 291, 401, 658, 878, 918, 1031, 1549, 1587 Ressentiment« Il signifie aussi, le souvenir qu'on garde des bienfaits, ou des injures. » (Acad.)V. 13, 1023 Retour« On dit, *Estre sur le retour*, pour dire, Commencer à deschoir, à viellir, à decliner, à perdre de sa vigueur, de son esclat. » (Acad.)V. 1154 Rosser« Terme populaire. Bastonner rudement quelqu'un, le traitter en rosse ; & se dit par extension de toutes sortes de mauvais traittements. » (Fur.)V. 1319, 1347 Sauf-conduit« Assûrance qu'on donne par écrit à quelqu'un de la seureté de sa personne pour aller & venir en liberté. » (Fur.)V. 404 Sçavoir« Connoistre, avoir connoissances de. » (Acad.)V. 1, 159, 197, 271, 427, 458, 516, 647, 714, 745, 854, 881, 953, 1399 Sensible« Se dit figurément en choses morales, & en parlant de l'émotion de l'ame & des passions. » (Fur.)V. 15, 823, 867, 1125, 1406, 1435 Serrail« On le dit par excellence du Palais où habite le Grand Seigneur à Constantinople, où il tient la cour, où logent ses Concubines. » (Fur.)V. 505 Singulier« Qui est seul ; unique ; hors de comparaison ; rare ; excellent. » (Fur.)V. 761 Soin« Diligence qu'on apporte à faire reüssir une chose, à la garder & à la conserver, à la perfectionner. » …V. 118, 187, 196, 361, 421, 441, 601, 623, 648, 725, 847, 962, 1042, 1137, 1262, 1553 « Se dit des soucis, des inquietudes qui émeuvent, qui troublent l'ame. » (Fur.)V. 1154Soucy« Signifie aussi, Chagrin, inquietude d'esprit, peut-être à cause qu'il fait devenir jaune. » (Fur.)V. 107, 1607 Stupide« Qui n'a point d'esprit, dont l'ame paroit immobile & sans sentiment. » (Fur.)V. 727Suborneur« Qui suborne, qui corrompt, qui desbauche. » (Fur.)V. 1190Tant« Adv. qui se dit des nombres, soit precis, soit indefinis. » (Fur.)Tendre« Signifie aussi fig. Sensible à l'amitié, à la compassion, & plus particulièrement à l'amour. » (Acad.)V. 193, 230, 395, 608, 968, 974, 1361, 1580 Tendresse« Sensibilité du cœur & de l'ame. » (Fur.)V. 289, 1117, 1139, 1425 Tenir« Signifie encore, Faire executer quelque chose. » (Fur.)V. 103 Teste a teste« L'un devant l'autre. » (Fur.)V. 557 Toucher« Se dit figurément en Morale, en parlant des passions. Cet homme est fort amoureux, il est bien *touché*, cette beauté a *touché* son cœur. » (Fur.)V. 844 Tourment« Douleur violente que souffre le corps, soit par une cause intestine, soit estrangere. » (Fur.)V. 1034, 1163, 1438 Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (Fur.)V. 259, 630, 717, 836, 858 Travail« Il a *travaux* au pluriel. Occupation, application à quelque exercice penible, fatigant, ou qui demande de la dexterité. » (Fur.)V. 1608 Traverse« Se dit figurément en Morale, & signifie un obstacle à la reüssite des affaires qu'on entreprend. » (Fur.)V. 806 Trouble« Se dit figurément en Morale des desordres de l'ame causés par les passions. » (Fur.)V. 160 Truchement« On dit aussi de celui qui parle, qui negotie par l'organe d'autrui, que c'est un tel qui est son *trucheman*. Il se dit aussi au figuré, Ses regards, *truchemens* de l'ardeur qui la touche. *La Fon.* » (Fur.)V. 263 Violons (payer les)« Se dit proverbialement en ces phrases. Il paye les *violons*, & les autres dansent, pour dire, Il fait les frais, il a toute la peine d'une chose, & les autres le plaisir. » (Fur.)V. 942 Vivat« Exclamation, cry de joie par où l'on témoigne que l'on souhaite à quelqu'un une longue vie, ou de la gloire. » (Fur.)V. 526 Vœu« Signifie aussi, Souhait, priere, serment, suffrage. » (Fur.)V. 275, 287, 561, 1409, 1574 
+# Glossaire.Abord (d')« Du commencement, de la premiere veüe. » (Fur.)V. 263, 437, 503, 1323, 1506Adorer« Signifie aussi hyperboliquement, Avoir beaucoup d'amour ou d'admiration pour quelqu'un. » (Fur.)V. 20 Agrément« Signifie aussi, Ratification, consentement. » (Fur.)V. 670 Air« Signifie encore, Maniere d'agir, de parler, de vivre, soit en bonne, ou en mauvaise part. » (Fur.)V. 172, 538, 691, 844, 1556Amant, ante« Qui aime et est aimé. » (Rich.)V. 15, 277, 701, 968, 1102, 1152, 1165, 1360 Ame« Forme substantielle qui rend les corps vivants. » (Fur.)V. 248, 387, 563, 591, 600, 615, 719, 731, 836, 955, 1029, 1037, 1164, 1168, 1201, 1208, 1237, 1392, 1429, 1433, 1444, 1568 Ardeur« Se dit figurément en Morale, & signifie, Passion, vivacité, emportement, fougue. » (Fur.)V. 211, 249, 298, 708, 734, 796, 803, 845, 871, 1308, 1406, 1580Art« Tout ce qui se fait par l'adresse & par l'industrie de l'homme. » (Fur.)V. 223Assujettir« Vaincre, mettre sous le joug, sous la sujettion. » (Fur.)V. 75 Assurance« se dit aussi des verités qu'on donne pour certaines & infaillibles. » (Fur.)V. 90 Attache« Se dit figurément en Morale de l'engagement qu'on a à quelque chose. » (Fur.)V. 1120 Avance« Se dit figurément en Morale, pour dire, Estre le premier à faire des propositions, des recherches d'amitié, des civilités. » (Fur.)V. 258 Avantage« Ce qui fait preferer quelque chose à une autre, ce qui la met au dessus. » (Fur.)V. 281 Aveu« Signifie aussi, Protection, approbation ; ordre, ou consentement donné. » (Fur.)V. 145, 251, 640, 1552 Babillard« Qui parle continuellement, & qui ne dit que des choses de néant. » (Fur.)V. 786 Balancer« Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, & qui le font incliner de part & d'autre. » (Fur.)V. 1166 Barbare« Estranger qui est  d'un pays fort éloigné, sauvage, mal poli, cruel, & qui a des mœurs forts differentes des nostres. » (Fur.)V. 285, 667 Barbarie« Signifie aussi, Ignorance, grossiereté. La Grece où regnoient autrefois la science & la politesse, est presentement plongée dans une affreuse *barbarie*. La France a été long temps un païs de *barbarie*. Et en ce sens il se dit tant des mœurs que du langage. » (Fur.)V. 329, 820, 1296, 1613 Beaute« On appelle aussi absolument *Beauté*, la personne qui est belle. » (Fur.)V. 74, 255 Bien« En termes de Jurisprudence, signifie, Toutes sortes de possessions & de richesses. » (Fur.)V. 95, 731, 1112, 1156 Blanc signé« Un papier, ou un parchemin, que l'on donne à quelqu'un pour le remplir à sa volonté. » (Acad.)V. 1539, 1540 Bourru, ue« Bizarre, qui ne veut point voir le monde, qui a des maximes extravagantes. » (Fur.)V. 130, 376, 700 Brave« Excellent en sa profession. On dit, un *brave* homme. » (Fur.)V. 311, 692, 751, 1224 Braver« Choquer, mépriser quelqu'un, le traitter de haut en bas. » (Fur.)V. 189, 682 But (de ... en blanc)« Adv. fig./burl. Inconsidérément, à l'étourdi. » (Rich.)V. 788 Butte« On dit figurément, Estre en *butte* à l'envie, à la médisance, pour dire, Estre exposé aux traits de l'envie, de la médisance. » (Fur.)V. 132 Ça« Çà est quelquefois une interjection pour exciter & encourager à faire quelque chose. *Çà, travaillons.* » (Acad.)V. 38, 879 Cabinet« Le lieu le plus retiré dans le plus bel appartement des Palais, des grandes maisons. Un appartement royal consiste en sale, antichambre, chambre, & *cabinet* avec une galerie à costé. » (Fur.)V. 242, 638, 1147 Casaque« Manteau qu'on met par dessus son habit, & qui a des manches où on fourre les bras. » (Fur.)V. 1198 Cavalier« Se dit aussi d'un galant qui courtise, qui mene une Dame. » (Fur.)V. 266, 272, 275 Certificat« Témoignage qu'on donne par écrit, pour faire connoistre en Justice la verité de quelque chose. » (Fur.)V. 1267 Cesse« Qui se dit toûjours avec la negative, & signifie alors, Continuation. » (Fur.)V. 50, 1230 Chagrin« Melancolie, ennuy ; fascheuse, mauvaise humeur » (Acad.)V. 2, 6, 23, 128, 132, 143, 149, 159, 167, 372, 1171, 1541 Charmant, ante« Qui plaist extraordinairement, qui ravit en admiration. » (Fur.)V. 251 Charme« Se dit figurément de ce qui plaist extraordinairement, qui nous ravit en admiration. » (Fur.)V. 248, 392, 735 Charmer« Signifie aussi, Dire ou faire quelque chose de merveilleux, de surprenant, plaire extraordinairement. » (Fur.)V. 742, 979, 1123, 1593Chien« Se dit aussi par injure, & pour reprocher à quelqu'un ses defauts. » (Fur.)V. 50, 54, 114, 594, 1265, 1503 Cœur« Se dit figurément en choses spirituelles & morales, & signifie l'ame, & ses principales fonctions, parce que quelques Medecins, & entre autres Fernel, ont crû que les principales parties de nôtre esprit residoient au *cœur*, comme l'entendement, la volonté, la memoire. ... se dit aussi des passions de l'ame. » (Fur.)V. 31, 96, 160, 190, 244, 263, 270, 272, 418, 450, 451, 617, 674, 738, 773, 816, 858, 971, 977, 984, 1052, 1067, 1073, 1074, 1125, 1138, 1244, 1302, 1331, 1345, 1357, 1361, 1367, 1379, 1566, 1577 Commettre« Signifie aussi, Confier quelque chose à la prudence, à la fidelité de quelcun. » (Fur.)V. 648 Concerter« Se dit figurément en choses morales, en parlant des assemblées de gens qui font dans un même interest, pour adviser aux moyens de faire reüssir quelque affaire. » (Fur.)V. 155, 1278 Conclurre« Signifie encore, Arrester une chose, la resoudre, promettre de l'accomplir. Ce mariage a été *conclu*, mais il ne sera executé que dans un an. » (Fur.)V. 156, 334, 427, 439, 446, 515, 595, 690, 879, 1325 Concordat« Convention qui se fait en matiere beneficiale sur quelque resignation ou permutation, & generalementsur toutes les matieres Ecclesiastiques, contentieuses ou obligatoires. » (Fur.)V. 1266 Conduitte« Commandement, direction ; action de celui qui conduit. ... Il s'employe principalement dans un sens moral. » (Fur.)V. 648, 723 Convenir« Advouër, être du même sentiment. » (Fur.)V. 43, 1268, 1366 Conscience« Témoignage, ou jugement secret de l'ame raisonnable, qui donne l'approbation aux actions qu'elle fait qui sont naturellement bonnes, & qui luy fait un reproche ou qui luy donne un repentir des mauvaises. » (Fur.)V. 114 Consommer« signifie aussi, Venir au dernier but du mariage. Un mariage n'est point parfait, jusqu'à ce qu'il soit *consommé*. » (Fur.)V. 47, 814 Contester« Quereller, plaider, disputer. » (Fur.)V. 140 Controller« Signifie aussi, Examiner les actions d'autruy, les critiquer, y trouver à redire. » (Fur.)V. 542 Coquin, ine« Terme injurieux qu'on dit à toutes sortes de petites gens qui menent une vie libertine, frippone, faineante, qui n'ont aucun sentiment d'honnesteté. » (Fur.)V. 80 Cour« se dit aussi à l'égard des Grands Seigneurs ou Superieurs, à qui on rend des visites frequentes, des respects, des assiduitez. » (Fur.)V. 3, 1342 Courroux« Mouvement impetueux de colere. » (Fur.)V. 135, 850, 999, 1025, 1142, 1428, 1453 Courtier, iere« On disoit autrefois *couratier*, qui s'entremet pour faire des ventes, des prests d'argent. » (Fur.)V. 57 Crever« Se prend aussi quelquefois pour Mourir de quelque mort violente, ou simplement pour mourir. » (Acad.)V. 6, 765, 1195, 1315, 1547 Dedans« Adv. & preposition de lieu & de temps, qui signifie la même chose que *dans*. » (Fur.)V. 40, 466, 477, 480, 1337 Deffiance« Crainte d'estre trompé, ou de ne pouvoir pas reüssir dans ses desseins. » (Fur.)V. 195 Dehors« Adverbe de lieu relatif, opposé à *dedans*. » (Fur.)V. 40, 477 Demon« Les Anciens ont appelé ainsi certains Esprits ou Genies qui apparoissent aux hommes, tantost pour leur servir, tantost pour leur nuire. » (Fur.)V. 105, 370 Destin ou Destinee« Disposition ou enchaisnement de causes secondes ordonné par la Providence, qui emporte une necessité de l'évenement. » (Fur.)V. 75, 189, 307, 629, 1133, 1175, 1313, 1594Destiner« Projetter de faire quelque chose, en disposer dans sa pensée. » (Fur.)V. 317 Diantre« Terme populaire dont se servent ceux qui font scrupule de nommer le Diable. » (Fur.)V. 108 Differer« Gagner du temps, remettre à une autrefois. » (Fur.)V. 158, 935 Discours« Expression faite de vive voix de ses pensées sur quelques points, sur quelques matieres qu'on veut faire entendre à plusieurs personnes. » (Fur.)V. 172, 173, 535, 547, 625, 652, 724, 945, 1368, 1485, 1544 Discretion« On dit que *Les sol*d*ats vivent à discretion*, pour dire, qu'Ils vivent chez leurs Hostes sans discipline & sans autre regle que leur volonté. » (Acad.)V. 377 Distance« Esloignement d'une chose à l'égard d'une autre, soit pour le temps, soit pour le lieu ou la qualité. » (Fur.)V. 257 Divan« Terme de Relations. Lieu où on rend la justice, où on tient le Conseil dans les pays Orientaux. » (Fur.)V. 1054 Divertir« Destourner, distraire. » (Acad.)V. 3, 73, 76, 163, 166, 865, 873 Domter« Subjuguer, se rendre maistre. » (Fur.)V. 191 Éclaircir (s')« S'informer, s'instruire » (Hug.)V. 196, 325, 332 Egrillard« Vif, éveillé, gaillard. ... On l'emploie aussi substantivement. *C'est un égrillard.* Il est du style familier. » (Acad.)V. 537 Emphytéose« Bail d'heritages à longues années. » (Fur.)V. 1497 Empressement« Témoignage d'ardeur, d'affection, de diligence qu'on a pour quelque chose, pour achever quelque besogne. » (Fur.)V. 147, 664, 750, 1383 Encan« Vente publique de meubles qui se fait par autorité de Justice, & par un Sergent qui les adjuge au plus offrant & dernier encherisseur. » (Fur.)V. 418 Enchanter« Se dit figurément en Morale, de ceux qui se servent de paroles douces ou artificieuses pour plaire à quelqu'un, ou pour en tirer quelque avantage, ou pour se faire admirer. » (Fur.)V. 233 Enjouement« Belle humeur, gayeté qui paroist sur le visage ou dans les actions d'une personne, qui réjouït une compagnie. » (Fur.)V. 133 Engager« Avec le pronom personnel, signifie aussi, S'endetter, ou s'obliger à faire quelque chose, ou cautionner quelcun ; s'embarrasser. » (Fur.)V. 115, 1540 Énoncer« Parler pour faire entendre sa pensée. » (Fur.)V. 262 Ennui« Il signifie aussi generalement, Fascherie, chagrin, deplaisir, souci. » (Acad.)V. 6, 8, 179, 314, 351, 722, 823, 829, 1038 Ennuyer« Ouir, ou faire, ou souffrir quelque chose avec chagrin, avec desplaisir, causer de l'ennuy. » (Fur.)V. 237, 613, 864, 880, 1368, 1639Enrager« Se dit figurément en choses morales, des passions violentes qui vont presque jusqu'à la fureur. » (Fur.)V. 40, 769, 927 Entretenir« signifie aussi, Discourir avec une ou plusieurs personnes. » (Fur.)V. 170, 1336,  Entretien« Se dit aussi de la conversation. » (Fur.)V. 184, 585 Envie« Signifie aussi la passion, le desir qu'on a d'avoir ou de faire quelque chose. » (Fur.)V. 106 Envisager« Regarder quelqu'un au visage. » (Fur.)V. 280 Environner« Enfermer tout autour, estre aux environs. » (Fur.)V. 324 Esperance« Est aussi une pretention mondaine qui nous fait attendre un bien que nous desirons. » (Fur.)V. 89 Estat« Signifie aussi la qualité, la nature & la constitution presente de quelque chose. » (Fur.)V. 24, 68, 99, 183, 277, 719, 1132, 1455 Estonner« Il signifie fig. Esbranler, faire trembler par quelque grande, par quelque violente commotion. » (Acad.)V. 1147 Examiner« Faire une exacte perquisition ou recherche de quelque chose. » (Fur.)V. 38, 323, 343, 375, 853 Expliquer« Signifie aussi, Esclaircir, declarer nettement sa volonté. » (Fur.)V. 174, 261, 282, 506, 911, 996, 999, 1464 Exposer« Signifie aussi, Courir le danger. » (Fur.)V. 9, 296 Extravagance« Chose dite ou faite mal à propos, follement. » (Fur.)V. 293 Façon« Se dit aussi de ces ceremonies, compliments & grimaces incommodes qu'on fait avec des gens qui ne nous sont point familiers. » (Fur.)V. 82, 111, 545 Fait« Signifie encore, Ce qui est propre & convenable à quelqu'un. *Cette maison-là, cette Charge-là seroit bien le fait d'un tel. ce n'est pas mon fait. c'est justement votre fait. j'ay trouvé son fait*. » (Acad.)V. 1250 Fantasque« Capricieux, bouru, qui a des manieres ou des humeurs extra-ordinaires. » (Fur.)V. 312 Faveur« Signifie aussi la bienveillance d'un puissant, d'un superieur, le credit qu'on a sur son esprit. » (Fur.)V. 284, 976, 983, 1044, 1579, 1582 Feu« se dit figurément en choses spirituelles & morales de la vivacité de l'esprit, de l'ardeur des passions. » (Fur.)V. 141, 155, 276, 311, 530, 603, 609, 639, 975, 980, 1125 Flamme« Il se dit communément de l'amour prophane, Cet amant brusle d'une *flamme* innocente pour cette fille. » (Fur.)V. 780, 856, 916, 939, 952, 1165, 1532, 1552, 1577, 1649 Flatter« Signifie encore, Deguiser une verité qui seroit desagreable à celuy qui y est interessé, luy donner meilleure opinion d'une chose qu'il n'en doit avoir. » (Fur.)V. 97, 327, 553 « Attribuer à une personne de bonnes qualitez qu'elle n'a pas, l'en loüer, l'en feliciter. » (Fur.)V. 139, 433, 1164 Foy« Signifie encore, Serment, parole qu'on donne de faire quelque chose, & qu'on promet d'executer. » (Fur.)V. 949, 1559 Forçat« Galerien, homme condamné aux galeres, qui tire sa rame par force. » (Fur.)V. 1292, 1295 Fortune« Se prend aussi pour Tout ce qui peut arriver de bien ou de mal à un homme. » (Fur.)V. 483 Froid« Se dit figurément de ce qui a peu de mouvement, qui est pesant, posé, serieux. » (Fur.)V. 141 Front« Le haut du visage, la partie qui est au dessus des yeux. ... Ce mot vient du Latin *frons*, du Grec *phronein, sentire*, de *phren, mens, esprit, pensée*. Martinius pour expliquer cette étymologie, dit que l'on voit sur le *front* des personnes ce qu'elles sont capables de faire, qu'on y découvre ce qu'elles sont, & quoy elles pensent. Du Laurens le derive de *ferre*, parce qu'il porte des marques de ce que nous avons dans l'ame. » (Fur.)V. 281, 368, 418, 522, 526, 689, 892, 1299, 1584 Funeste« Qui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable. » (Fur.)V. 27, 277 Fureur« Se dit aussi de toutes les passions qui nous font agir avec de grands emportements. » (Fur.)V. 278, 1012, 1152 Gambade« Saut ou posture qui se fait dans l'ardeur de la jeunesse par gayeté & emportement. » (Fur.)V. 360 Garder de (se)« S'empêcher de » (Hug.)V. 152 Geler« Se dit figurément d'un froid accueil. » (Fur.)V. 141 Gener« Signifie plus communément, Tourmenter le corps ou l'esprit. » (Fur.)V. 1076, 1275 Gentilhomme« Homme noble d'extraction, qui ne doit point sa Noblesse ni à sa charge, ni aux lettres du Princes. » (Fur.)Gesticuler« Faire des gestes indecens, mal à propos, & en trop grand nombre. » (Fur.)V. 177 Gourdin« Gros baston & court. » (Fur.)V. 82, 1199 Gouverneur« Officier du Roi qui commande dans une Province, dans une place. Un *Gouverneur* autrefois étoit obligé de soutenir trois assauts avant que de se rendre. Un *Gouverneur* represente le Roi dans une place, & commande non seulement à la garnison, mais aussi aux bourgeois, & à toutes les trouppes qui entrent dans sa place. » (Fur.)`V. 116, 349, 498, 500 Guignon« Malheur, accident dont on ne peut sçavoir la cause, ni à qui s'en prendre. » (Fur.)V. 50 Grace« Signifie aussi, Remerciement, & se dit plus souvent au pluriel. » (Fur.)V. 129, 1519 « Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée. » (Fur.)V. 166, 247, 1464, 1492 Horreur« Se dit aussi de la forte haine ou aversion qu'on a pour certaines choses. » (Fur.)V. 32, 297 Horrible« Se dit aussi d'une chose excessive soit en bien, soit en mal. » (Fur.)V. 2 Huitiéme« On appelle *Droit de huitiesme*, un certain droit d'Ayde qui se prend sur celuy qui vend du vin au détail. » (Acad.) cf. v. 502V. 540 Hymen« Signifie aussi poëtiquement, le mariage. » (Fur.)V. 22, 32, 47, 155, 518, 597, 603, 618, 628, 814, 857, 1051, 1245, 1251, 1255, 1410, 1549 Indolent, ente« Qui n'est point touché des afflictions ordinaires. » (Fur.)V. 125 Industrie« Dextérité, invention ; adresse à faire reüssir quelque chose, quelque dessein, quelque travail. » (Fur.)Industrieuse« Qui a de l'industrie, ou qui est fait avec industrie. » (Fur.)V. 237Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. » (Fur.)V. 1180 Insipide« Qui n'a rien de picquant, ou d'acide qui chatouille le goust, qui fasse quelque impression sur luy. ... se dit aussi de la personne, & de la partie où se fait l'impression de ce sentiment. » (Fur.)V. 728 Intelligence« Il signifie aussi, Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre. » (Acad.)V. 852, 1184 Interdire« Se dit aussi de ceux qui se troublent, qui s'estonnent, & qui ne sçauroient parler raisonnablement. » (Fur.)V. 646, 727 Interesse, ee« On appelle un homme *Interessé*, celuy qui est avare, qui ne relâche aucune chose de ses Interests, qu'on peut gagner, corrompre aisement par argent. » (Fur.)V. 57 Intrigant, ante« Qui a des connoissances, qui se fourre par tout, & qui avec son adresse fait les affaires d'autruy, & les sciennes. » (Fur.)V. 57 Intrigue« Se dit aussi de cette cabale de gens qui par leurs advis, leurs connoissances, leurs adresses ; sçavent ombrouiller ou debarasser les affaires, & en tirer du profit. » (Fur.)V. 59, 61 Importer« Estre de consideration. » (Fur.)V. 239 Laidir« Enlaidir » (Hug.)V. 167 Laisser (ne pas)« Signifie aussi, Estre, demeurer malgré quelque obstacle. » (Fur.)V. 1277 Langoureux« Infirme, valetudinaire, qui languit, qui a de la peine de guerir d'une maladie. » (Fur.)V. 127 Lapidaire« Ouvrier qui taille les pierres précieuses, Marchand qui les debite, ou celuy qui est expert à les connoistre. » (Fur.)V. 1467 Lie« La partie la plus crasse, la plus grossiere du vin, de l'huile, & des autres liqueurs. » (Fur.)V. 228 Main« Se dit aussi de la part, du costé d'où vient quelque chose. » (Fur.)V. 286 En bonne main« On dit encore, qu'une affaire est en *bonne main*, pour dire, qu'elle est sous la conduite d'un homme qui la sçaura faire reüssir. » (Fur.)V. 1377 Magot« Se dit figurément des hommes difformes, laids, comme sont les singes, des gens mal bastis. » (Fur.)V. 878 Malepeste« Imprecation qu'on fait contre quelque chose, & quelque fois avec admiration. » (Fur.)V. 362 Marabout« Terme de Relations, est un Prestre Mahometan qui dessert une Mosquée, particulierement en Afrique. » (Fur.)V. 929 Maraud« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (Fur.)V. 423 Matois« Rusé, difficile à estre trompé, adroit à tromper les autres. » (Fur.)V. 841 Mesnager« Signifie encore fig. Conduire, manier avec addresse. » (Acad.)V. 213, 781 Moyen« Se dit aussi des adresses, des inventions, ou facilitez dont on se sert pour parvenir à ses fines. » (Fur.)V. 44, 103 Muid« Grande mesure de choses liquides. Le *muid* de vin de Paris contient deux cent quatrevingt pintes, selon le Reglement de Louis XIII. & suivant les Ordonnances de Henri IV. de trois cents pintes. » (Fur.)V. 227 Mutin, ine« Qui se revolte contre l'autorité legitime. » (Fur.)V. 339, 1201 Mystere« Se dit aussi de ce qu'on tient caché, qu'on ne veut pas descouvrir. » (Fur.)V. 58, 222, 776, 801, 993 Necessaire« On s'en sert aussi au substantif... On dit aussi d'un domestique, qu'il fait le *necessaire*, qu'il s'est rendu *necessaire*, quand il s'est mis en tel estat, qu'on a de la peine à se passer de luy. » (Fur.)V. 137 Negative« Action de nier, négation » (Hug.)V. 380 Negoce« Trafic, ou commerce, soit en argent, soit en marchandises. » (Fur.)V. 923 Nœud gordien«  Est un proverbe Grec, qui se dit d'un *nœud* qu'on ne sçauroit desnoüer : & figurément, d'une difficulté qu'on ne peut resoudre. Il vient d'un *nœud* de courroyes indissoluble, que Gordius Roy de Phrygie mit dans un temple d'Apollon, en memoire de ce qu'il avoit esté salué Roy, parce qu'il estoit entré le premier dans ce temple, quoy qu'il fust d'ailleurs de race roturiere. Alexandre le couppa avec son espée, parcequ'il ne le pût desnoüer, & que l'Oracle avoit predit que celuy qui le desnoüeroit seroit le vainqueur de l'Asie. » (Fur.)V. 512 Objet« Ce qui est opposé à nostre veuë, ou qui frappe nos autres sens, ou qui se represente à nostre imagination » (Fur.)V. 30, 276, 1007, 1134, 1617 Œuillade« Regard, action de veuë. » (Fur.)V. 309 Passer (se)« Signifie aussi, Se contenter. » (Acad.)V. 534 Passion« En Morale, se dit des différentes agitations de l'ame selon les divers objets qui se presentent à ses sens. ... se dit par excellence de l'amour. » (Fur.)V. 14, 145, 233, 267, 644Pécher« Ce mot au figuré veut dire manquer. » (Rich.) L'expression « Pécher en mine » n'est pas attestée dans les dictionnaires, mais « Il signifie aussi, Faillir contre quelqu'autre regle que ce soit. » (Acad.)V. 376 Peste« Se dit quelquefois par admiration, ou par imprecation, ou serment. » (Fur.)V. 537, 567 Pester« S'emporter contre quelque chose, invectiver contre quelqu'un. » (Fur.)V. 40 Positif, ive« Qui est certain & effectif, qu'on met en fait comme une chose constante & assûrée. » (Fur.)V. 1501 Pourvoir« Donner ordre à quelque chose. *Voylà bien du desordre, il faut y pourvoir. on y a pourveu. pourvoyez à cette affaire. si les hommes n'y pourvoyent, Dieu y pourvoyra. il a pourveu à tous nos besoins*. » (Acad.)V. 1182 Pretendre« Aspirer à quelque chose, avoir esperance de l'obtenir. » (Fur.)V. 241, 544, 699, 886, 926 Presser« Signifie aussi, Poursuivre vivement, tant au combat, qu'à la dispute. » (Fur.)V. 35, 733, 1046 Premice« Se dit aussi par extension en Morale, du commencement des choses. » (*Fur.*)V. 28 Prochain, aine« Qui n'est pas loin. » (Fur.)V. 122, 242, 264, 638, 1110, 1147 Rapport« Se dit aussi de la relation de ce qu'a veu, ouy, ou connu celuy qu'on a commis pour s'informer de quelque chose. » (Fur.)V. 319, 527 Ravage« Grand desordre qui se fait par violence. » (Fur.)V. 475 Ravir« Emporter quelque chose violemment. ... se dit aussi en choses spirituelles et morales. » (Fur.)V. 577, 1037, 1429 Rebus« Jeu d'esprits mediocres ou populaires qui font des equivoques sur des mots couppez, ou joints ensemble, ou sur quelques peintures qui les representent. » (Fur.)V. 1338Remettre (se)« On dit encore, *Se remettre quelque chose*, pour dire, En rappeller l'idée, le souvenir. » (Acad.)V. 369 Renegat« Qui a renoncé à la Foy de *Jesus*-*Christ* pour embrasser une autre Religion. On le dit proprement de ceux qui se rendent Mahometans. » (Fur.)V. 100 Repos« Se dit aussi d'une quietude d'esprit & de corps qui les met hors de trouble, de crainte & de soins. » (Fur.)V. 69, 239, 291, 401, 658, 878, 918, 1031, 1549, 1587 Ressentiment« Il signifie aussi, le souvenir qu'on garde des bienfaits, ou des injures. » (Acad.)V. 13, 1023 Retour« On dit, *Estre sur le retour*, pour dire, Commencer à deschoir, à viellir, à decliner, à perdre de sa vigueur, de son esclat. » (Acad.)V. 1154 Rosser« Terme populaire. Bastonner rudement quelqu'un, le traitter en rosse ; & se dit par extension de toutes sortes de mauvais traittements. » (Fur.)V. 1319, 1347 Sauf-conduit« Assûrance qu'on donne par écrit à quelqu'un de la seureté de sa personne pour aller & venir en liberté. » (Fur.)V. 404 Sçavoir« Connoistre, avoir connoissances de. » (Acad.)V. 1, 159, 197, 271, 427, 458, 516, 647, 714, 745, 854, 881, 953, 1399 Sensible« Se dit figurément en choses morales, & en parlant de l'émotion de l'ame & des passions. » (Fur.)V. 15, 823, 867, 1125, 1406, 1435 Serrail« On le dit par excellence du Palais où habite le Grand Seigneur à Constantinople, où il tient la cour, où logent ses Concubines. » (Fur.)V. 505 Singulier« Qui est seul ; unique ; hors de comparaison ; rare ; excellent. » (Fur.)V. 761 Soin« Diligence qu'on apporte à faire reüssir une chose, à la garder & à la conserver, à la perfectionner. » …V. 118, 187, 196, 361, 421, 441, 601, 623, 648, 725, 847, 962, 1042, 1137, 1262, 1553 « Se dit des soucis, des inquietudes qui émeuvent, qui troublent l'ame. » (Fur.)V. 1154Soucy« Signifie aussi, Chagrin, inquietude d'esprit, peut-être à cause qu'il fait devenir jaune. » (Fur.)V. 107, 1607 Stupide« Qui n'a point d'esprit, dont l'ame paroit immobile & sans sentiment. » (Fur.)V. 727Suborneur« Qui suborne, qui corrompt, qui desbauche. » (Fur.)V. 1190Tant« Adv. qui se dit des nombres, soit precis, soit indefinis. » (Fur.)Tendre« Signifie aussi fig. Sensible à l'amitié, à la compassion, & plus particulièrement à l'amour. » (Acad.)V. 193, 230, 395, 608, 968, 974, 1361, 1580 Tendresse« Sensibilité du cœur & de l'ame. » (Fur.)V. 289, 1117, 1139, 1425 Tenir« Signifie encore, Faire executer quelque chose. » (Fur.)V. 103 Teste a teste« L'un devant l'autre. » (Fur.)V. 557 Toucher« Se dit figurément en Morale, en parlant des passions. Cet homme est fort amoureux, il est bien *touché*, cette beauté a *touché* son cœur. » (Fur.)V. 844 Tourment« Douleur violente que souffre le corps, soit par une cause intestine, soit estrangere. » (Fur.)V. 1034, 1163, 1438 Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (Fur.)V. 259, 630, 717, 836, 858 Travail« Il a *travaux* au pluriel. Occupation, application à quelque exercice penible, fatigant, ou qui demande de la dexterité. » (Fur.)V. 1608 Traverse« Se dit figurément en Morale, & signifie un obstacle à la reüssite des affaires qu'on entreprend. » (Fur.)V. 806 Trouble« Se dit figurément en Morale des desordres de l'ame causés par les passions. » (Fur.)V. 160 Truchement« On dit aussi de celui qui parle, qui negotie par l'organe d'autrui, que c'est un tel qui est son *trucheman*. Il se dit aussi au figuré, Ses regards, *truchemens* de l'ardeur qui la touche. *La Fon.* » (Fur.)V. 263 Violons (payer les)« Se dit proverbialement en ces phrases. Il paye les *violons*, & les autres dansent, pour dire, Il fait les frais, il a toute la peine d'une chose, & les autres le plaisir. » (Fur.)V. 942 Vivat« Exclamation, cry de joie par où l'on témoigne que l'on souhaite à quelqu'un une longue vie, ou de la gloire. » (Fur.)V. 526 Vœu« Signifie aussi, Souhait, priere, serment, suffrage. » (Fur.)V. 275, 287, 561, 1409, 1574 
 
 
 # Ordre chronologique des pièces de théâtre de M. de Montfleury.
@@ -3945,56 +3945,56 @@ Acte V | Scène 1 : Retrouvailles de Marine et Tomire qui, pour mener à bien 
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de l'auteurLes Oeuvres de Monsieur Montfleury, contenant ses pieces de theatre, Représentées par la Troupe des Comediens du Roy à Paris
+### Œuvres de l'auteur.Les Oeuvres de Monsieur Montfleury, contenant ses pieces de theatre, Représentées par la Troupe des Comediens du Roy à Paris
 Théâtre de Messieurs de Montfleury Père et fils, nouvelle éd. augmentée de trois Comédies, avec des Mémoires sur la vie et les Ouvrages de ces deux Auteurs
 Le Mary sans femme
 
 
 
-### Œuvres dramatiques
+### Œuvres dramatiques.
 
 
-#### Œuvres antérieures à 1660*Bounin G.*La Soltane
+#### Œuvres antérieures à 1660.*Bounin G.*La Soltane
 *Corneille, P.*Andromède
 *Mairet, J.*Théâtre complet
 *Scudéry (de), G.*Ibrahim ou l'Illustre Bassa
 
 
 
-#### Œuvres postérieures à 1660*Molière*Sganarelle ou Le Cocu imaginaire, L'École des Maris, L'École des femmes, L'Étourdi ou Les Contretemps, Le Bourgeois gentilhomme, Œuvres complètes
+#### Œuvres postérieures à 1660.*Molière*Sganarelle ou Le Cocu imaginaire, L'École des Maris, L'École des femmes, L'Étourdi ou Les Contretemps, Le Bourgeois gentilhomme, Œuvres complètes
 
 
 
-### Œuvres romanesques*Scarron*Le Roman comique
+### Œuvres romanesques.*Scarron*Le Roman comique
 
 
 
-### Poétique et théorie*Aubignac**Abbé d'*La Pratique du Théâtre*Baby*
+### Poétique et théorie.*Aubignac**Abbé d'*La Pratique du Théâtre*Baby*
 *Boileau*Œuvres complètes
 
 
 
-## Études
+## Études.
 
 
-### Ouvrages bibliographiques*Cioranescu*Bibliographie de la littérature française du XVII*e* siècle
+### Ouvrages bibliographiques.*Cioranescu*Bibliographie de la littérature française du XVII*e* siècle
 *Jacob, P. L.*Bibliothèque Dramatique de Monsieur de Soleinne
 
 
 
-### Études générales sur le théâtre*Forestier, G.*Introduction à l'analyse des textes classiques
+### Études générales sur le théâtre.*Forestier, G.*Introduction à l'analyse des textes classiques
 *Ubersfeld, A.*Lire le théâtre
 *Ubersfeld, A.*Lire le théâtre II
 
 
 
-### Ouvrages sur le théâtre du XVII*e* siècle*Chambers, R.*La Comédie au Château : contribution à la poétique du théâtre
+### Ouvrages sur le théâtre du XVII*e* siècle.*Chambers, R.*La Comédie au Château : contribution à la poétique du théâtre
 *Couderc*Le Théâtre espagnol du Siècle d'Or (1580-1680)
 *Forestier*Le Théâtre dans le théâtre sur la scène française du XVII*e* siècle
 *Lancaster*A History of French dramatic Literature in the Seventeenth Century
@@ -4003,10 +4003,10 @@ Le Mary sans femme
 
 
 
-### Études sur l'histoire matérielle des théâtres
+### Études sur l'histoire matérielle des théâtres.
 
 
-#### Ouvrages*Chaouche, S.*L'Art du comédien, Déclamation et jeu scénique en France à l'âge classique (1629-1680)
+#### Ouvrages.*Chaouche, S.*L'Art du comédien, Déclamation et jeu scénique en France à l'âge classique (1629-1680)
 *Dacier, E.*La Mise en scène à Paris au XVII*e* siècle, Mémoire de Laurent Mahelot et Michel Laurent, Extrait des Mémoires de la Société de l'Histoire de Paris et de l'Ile-de-France
 *Deierkauf-Holsboer*L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
 *Deierkauf-Holsboer*Le Théâtre de l'Hôtel de Bourgogne
@@ -4019,15 +4019,15 @@ Le Mary sans femme
 
 
 
-#### Articles*Poirson, M.**e**e*Revue d'histoire du théâtre
+#### Articles.*Poirson, M.**e**e*Revue d'histoire du théâtre
 *Thomasseau, J.-M.*Littérature
 
 
 
-### Études sur la comédie
+### Études sur la comédie.
 
 
-#### Ouvrages généraux sur le genre*Conesa, G.*La Comédie de l'Âge Classique (1630-1715)
+#### Ouvrages généraux sur le genre.*Conesa, G.*La Comédie de l'Âge Classique (1630-1715)
 *Corvin, M.*Lire la Comédie
 *Garapon, R.*La Fantaisie verbale et le comique dans le théâtre français du Moyen Age à la fin du XVIII*e* siècle
 *Gilot M.**Serroy J.*La Comédie à l'âge classique
@@ -4038,45 +4038,45 @@ Le Mary sans femme
 
 
 
-#### Ouvrages sur la comédie espagnole*Dumas*Du gracioso au valet comique, Contribution à la comparaison de deux dramaturgies (1610-1660)
+#### Ouvrages sur la comédie espagnole.*Dumas*Du gracioso au valet comique, Contribution à la comparaison de deux dramaturgies (1610-1660)
 *Martinenche*La Comedia espagnole en France de Hardy à Racine
 
 
 
-#### Articles*Mazouer, C.**e*Littératures classiques
+#### Articles.*Mazouer, C.**e*Littératures classiques
 *Sternberg, V.*Littératures classiques
 
 
 
-### Études sur les « turqueries »
+### Études sur les « turqueries ».
 
 
-#### Ouvrages*Martino*L'Orient dans la littérature française au XVII*e* et au XVIII*e* siècle
+#### Ouvrages.*Martino*L'Orient dans la littérature française au XVII*e* et au XVIII*e* siècle
 *Requemora S. et Linon-Chipon S. (*Les Tyrans de la mer, Pirates, corsaires et flibustiers
 *Rouillard, C. D.*The Turk in french history thought, and literature (1520-1660)
 
 
 
-#### Articles*Requemora, S.*Littératures classiques
+#### Articles.*Requemora, S.*Littératures classiques
 
 
 
-### Études sur le théâtre et la musique au XVII*e* siècle
+### Études sur le théâtre et la musique au XVII*e* siècle.
 
 
-#### Ouvrages*Louvat-Molozay, B.*Théâtre et musique, Dramaturgie de l'insertion musicale dans le théâtre français (1550-1680)
+#### Ouvrages.*Louvat-Molozay, B.*Théâtre et musique, Dramaturgie de l'insertion musicale dans le théâtre français (1550-1680)
 *Powell*Music and Theatre in France 1600-1680
 
 
 
-#### Articles*Forman, E.*Littératures classiques
+#### Articles.*Forman, E.*Littératures classiques
 *Louvat**e*Littératures classiques
 *Mazouer, C., «**e*Littératures classiques
 *Siguret, F.*Littératures classiques
 
 
 
-### Ouvrages relatifs à Montfleury*Fournel, V.*Les Contemporains de Molière, Recueil de comédies, rares ou peu connues, jouées de 1650 à 1680, avec l'histoire de chaque théâtre, des notes et notices biographiques, bibliographiques et critiques
+### Ouvrages relatifs à Montfleury.*Fournel, V.*Les Contemporains de Molière, Recueil de comédies, rares ou peu connues, jouées de 1650 à 1680, avec l'histoire de chaque théâtre, des notes et notices biographiques, bibliographiques et critiques
 *Jal*Dictionnaire critique de biographie et d'histoire
 *Joannides*La Comédie-Française de 1680 à 1900, Dictionnaire général des pièces et des auteurs
 *Parfaict, C.*Histoire du théâtre françois depuis son origine jusqu'à présent
@@ -4084,15 +4084,15 @@ Le Mary sans femme
 
 
 
-### Ouvrages sur la période*Benichou, P.*Morales du Grand Siècle
+### Ouvrages sur la période.*Benichou, P.*Morales du Grand Siècle
 *Rousset*La Littérature de l'âge baroque en France
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires*Academie Française*Dictionnaire
+### Dictionnaires.*Academie Française*Dictionnaire
 *Cayrou*Le Français classique. Lexique de la langue du XVII*e* siècle
 *Furetiere, A.*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Moreri*Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
@@ -4100,7 +4100,7 @@ Le Mary sans femme
 
 
 
-### Grammaire et ponctuation*Catach*La Ponctuation
+### Grammaire et ponctuation.*Catach*La Ponctuation
 *Fournier*Grammaire du français classique
 *Gougenheim*Grammaire de la langue française du seizième siècle
 *Haase*Syntaxe française du XVII*e* siècle

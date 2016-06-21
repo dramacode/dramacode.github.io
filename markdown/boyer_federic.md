@@ -16,7 +16,7 @@ A PARIS, Chez AUGUSTIN COURBE ; au Palais, dans la petite Salle, à la Palme. M
 Édition critique établie par Catherine Neveu sous la direction de Georges Forestier (2000)
 
 
-# Introduction
+# Introduction.
 
 « Daignez soûtenir la gloire de notre Siècle, qui avec toute la politesse et toutes les lumières d'un grand nombre d'habiles Gens, va estre deshonoré par la barbarie de l'Ignorance, ou par la malignité de l'Envie. V.A.S. a le Rang et le Sçavoir, qui peuvent s'opposer à la licence scandaleuse de quelques Esprits presomptueux qui montent sur le Tribunal, et s'y rendent tyranniquement les Arbitres Souverains de la bonne et de la mauvaise fortune des ouvrages de l'Esprit. » Voici en quels termes s'adresse en 1670 Claude Boyer au Grand Condé, dédicataire de sa comédie héroïque *Policrate*. Il convient en effet d'utiliser le terme de « mauvaise fortune » en ce qui concerne les œuvres de Boyer, si l'on considère l'oubli total que la postérité leur a réservé. La rivalité avec Racine, ainsi que Boileau et Furetière, explique l'éclipse connue par cet auteur jusqu'à nos jours.
 
@@ -42,7 +42,7 @@ de l'incarnation royale, qui ménage à *Oropaste* la possibilité de prolongeme
 Si certains s'intéressèrent auparavant à Boyer au XX*e* siècle – en 1915 l'Allemand Göhlert publie l'*Abbé Claude Boyer, ein Rivale Racines*, H.C. Lancaster le mentionne à de nombreuses reprises dans sa magistrale *History of French Dramatic Literature in the Seventeenth Century* et en 1947 Clara C. Brody publie *The Works of Boyer –* et le sauvent de l'oubli, ils ne manquent pas pourtant de l'égratigner. Nous souhaitons présenter cette édition de *Fédéric* dans un esprit ouvert et constructif et en montrer l'intérêt.
 
 
-# Présentation de l'auteur
+# Présentation de l'auteur.
 
 Claude Boyer naît à Albi en 1618. Seule certitude : il bénéficie de l'enseignement des Jésuites, ce qui signifie qu'il est nourri de rhétorique, de latin, qu'il pratique le théâtre scolaire et qu'il connaît l'histoire religieuse. En 1645, il est à Paris où sa tragédie *La Porcie romaine* connaît le succès. Il fréquente alors les salons et en particulier le plus prestigieux d'entre eux : l'hôtel de Rambouillet que fréquentent aussi Chapelain et Balzac. Dans son ouvrage intitulé *La Naissance de l'écrivain*, Alain Viala nous donne une juste idée de ce qu'est un salon au XVII*e* siècle :
 
@@ -71,7 +71,7 @@ Mais un froid écrivain ne sait rien qu'ennuyer [7].
 C'est la mort des deux adversaires (1698 pour Boyer et 1699 pour Racine) qui mit fin à une rivalité qui avait duré près d'un quart de siècle. De son vivant, Boyer fut donc un dramaturge reconnu, bien ancré dans ce qui comptait dans le monde littéraire, estimé par le grand Corneille. Il pouvait penser à juste titre au soir de sa vie que le jeune Albigeois venu à Paris cinquante ans plus tôt pour y réussir une carrière de dramaturge avait tenu son pari. Pressentait-il que la rivalité qui l'avait si longtemps opposé à Racine serait sans nul doute la principale raison pour laquelle il tomberait dans l'oubli ? Certainement pas si on prend garde à une phrase extraite d'*Artaxerce*, une tragédie qu'il publie en 1683 : il est « assez fâcheux de s'exposer à ces Censeurs impertinens, et d'atendre que la Postérité nous en fasse justice apres nostre mort. » Boyer eut raison d'en appeler à la postérité qui commence de lui rendre justice après quelques trois siècles de purgatoire.
 
 
-# L'auteur en 1659
+# L'auteur en 1659.
 
 En 1659, Boyer a quarante et un ans. Après ses débuts de dramaturge en 1645, il a écrit cinq autres pièces jusqu'en 1649. Puis, pendant une bonne dizaine d'années, le silence, peut-être explicable par ma crise du mécénat qui suivit la Fronde. Corneille, dont Boyer est le « meilleur émule » [8], ne donne plus rien au théâtre depuis *Pertharite* (1651). C'est le surintendant Fouquet qui, indirectement, provoque le retour au théâtre de Boyer. Le mécène protège Corneille qui revient au théâtre avec une tragédie, *Œdipe*, représentée à l'Hôtel de Bourgogne en janvier 1659. C'est le succès. Stimulé, Boyer écrit également une tragédie, *Clotilde* qui, elle, fut loin d'avoir le même sort qu'*Œdipe*. Les frères Parfaict précisent :
 
@@ -102,10 +102,10 @@ Dressons un bref panorama de la production théâtrale de Boyer :
  * – autres genres : *Les Amours de Jupiter et de Sémélé*, tragédie à machines, 1666 ; *La Feste de Venus*, comédie (« pastorale héroïque ») ; *Lisimène ou la Jeune bergère*, pastorale, 1672.
 
 
-# Présentation de la pièce
+# Présentation de la pièce.
 
 
-## La fortune de la pièce
+## La fortune de la pièce.
 
 *Fédéric* fut représenté à l'Hôtel de Bourgogne le vendredi 14 novembre 1659 [12] et imprimé chez Augustin Courbé en mars 1660 (*Privilège* du 15 février 1660 et *achevé d'imprimer* du 17 mars). Dans la *Muze historique* de Loret datée du 15 novembre 1659 on peut lire :
 
@@ -143,7 +143,7 @@ Vostre Altesse, par le seul privilege de son heureux ascendant.
 En ce qui concerne l'interprétation de la pièce, nous ne pouvons nous livrer qu'à des hypothèses : en 1659, l'Hôtel de Bourgogne est dirigé depuis douze ans par le célèbre acteur Floridor. Or, celui-ci était né vers 1608. Il avait donc une cinquantaine d'années au moment de la représentation de *Fédéric*. Il n'est donc pas exclu qu'il ait joué le rôle de l'amiral de Sicile, hypothèse d'autant plus probable que le rôle de Fédéric est le rôle principal, ce qui convenait à un acteur de la réputation de Floridor dont le talent pouvait être mis en vedette par les monologues prévus pour le rôle. En ce qui concerne le reste de la distribution, nous ne pouvons guère apporter d'informations mais nous contenter de donner la liste des acteurs dont la présence à l'Hôtel de Bourgogne est attestée en 1659 : Baron père, Montfleury, Mlle Baron, Raymond Poisson et Mlle Poisson [15].
 
 
-## Les sources de *Fédéric*
+## Les sources de *Fédéric*.
 
 Nous avons évoqué, au début de cette introduction, la rivalité qui opposa, jusqu'à la mort du premier adversaire, Boyer à Racine. L'histoire littéraire est souvent brouillée par des rivalités passionnées et ce n'est que bien longtemps après la disparition des combattants que l'aveuglement engendré par la haine fait place à l'objectivité. En effet, que constatons-nous ? Que la Querelle des Anciens et des Modernes, qui fut l'une des manifestations de la rivalité du camp cornélien et du camp racinien, n'a pas eu sur l'œuvre de Boyer une importance proportionnelle à l'intensité de cette Querelle. Boyer a puisé très largement son inspiration dans l'Antiquité grecque et romaine et les sujets d'une autre inspiration ne constituent que la minorité de son œuvre. Autrement dit, Boyer est moins « moderne » et plus « ancien » que le caractère polémique de cette Querelle ne pouvait le faire croire *a priori*.
 
@@ -152,10 +152,10 @@ Nous avons évoqué, au début de cette introduction, la rivalité qui opposa, j
 Mais comment expliquer que Boyer se soit cru autorisé à métamorphoser le fils naturel d'un empereur d'Allemagne en travesti féminin ? La première raison est l'éloignement dans le temps et l'espace des faits ayant servi de point de départ à *Fédéric* ; la seconde semble être l'illégitimité, seul point commun entre Manfred, fils légitimé, et non pas d'emblée légitime, et Yoland, fille légitime certes, mais fille *déguisée* en fils, par conséquent fils illégitime, tout comme Manfred. D'autre part, nous savons que Boyer fera représenter en 1662 sa tragédie *Oropaste ou le faux Tonaxare*, qui porte aussi sur l'usurpation de pouvoir. La création littéraire étant le fruit d'un long processus de maturation, nous formons l'hypothèse que Boyer avait déjà conçu le projet, au moment où il produit *Fédéric*, de l'écriture d'une grande tragédie sur l'usurpation de pouvoir, considérant peut-être que son *Tyridate* datant de 1648 ne constituait pas un aboutissement de ses qualités de dramaturge qu'il estimait – à juste titre pensons-nous – posséder, ainsi que tendrait à le prouver la réécriture de *Tyridate* en 1672 sous le nom du *Fils supposé*. Le curieux croisement d'un travesti féminin et d'un enjeu politique, exception qui confirme la règle du travestissement féminin en grande majorité pour la reconquête d'un infidèle et qui donne à la pièce une gravité que ne possède pas *Le Dépit amoureux* de Molière par exemple, bien qu'il repose aussi sur l'existence d'un travestissement féminin de naissance, serait, si nous adoptons cette hypothèse, l'aboutissement de la maturation en cours d'une tragédie sur l'usurpation de pouvoir et d'une question de circonstances. Il est possible que Boyer recherche à cette époque un sujet pour son projet et que, l'Hôtel de Bourgogne lui demandant une pièce, il ait préféré faire du sujet qu'il avait en tête à ce moment là une tragi-comédie, ce qui expliquerait la liberté prise au sujet du travestissement et son mélange original avec un sujet politique.
 
 
-# Structure de la pièce
+# Structure de la pièce.
 
 
-## Analyse de l'action
+## Analyse de l'action.
 
 *Fédéric* comporte 1766 vers. Selon Jacques Scherer [17], le nombre de vers des pièces se situe entre 1650 vers et 1900 vers et, dans la quasi-totalité des cas, entre 1500 et 2000 vers. La pièce de Corneille la plus courte est *La Place royale* (1529 vers) et la plus longue *Œdipe* (2010 vers). *Fédéric* se situe donc dans la moyenne.
 
@@ -189,7 +189,7 @@ ACTE V : Marcellin apprend à Camille que c'est Fédéric qui « règne en ces
 Pour le dénouement de la pièce, Boyer choisit avant tout de mettre en valeur celui qui est le véritable héros de la pièce. Fédéric (avec un total de 450 vers, il prononce à lui seul près de 25,50 %du total des vers de la pièce contre à peine 20 % pour le personnage de Yoland). En effet, Fédéric fait le récit de son combat et de sa victoire sur Roger, ce qui a bien entendu pour effet d'auréoler le personnage de Fédéric de gloire, gloire dont il se montre soucieux à la dernière scène, lorsqu'il décide, dans un élan de générosité, de renoncer à Yoland, en faveur de son fils. C'est lui encore qui a le mot de la fin, en annonçant le double mariage traditionnel des tragi-comédies. Là encore, Boyer démontre qu'il est un disciple de Corneille, puisqu'il manisfeste qu'il a avant tout cherché à mettre en scène le type du père glorieux et généreux, fréquent, certes dans bon nombre de tragi-comédies mais qui ne sont guère éloignés des valeurs morales développées par Corneille.
 
 
-# Situation de la pièce dans le genre tragi-comique
+# Situation de la pièce dans le genre tragi-comique.
 
 A l'affiche de l'Hôtel de Bourgogne en cette année 1659, figurent quatre tragédies (*Œdipe* de Corneille, *Clotilde* de Boyer, *Ostorius* de l'abbé de Pure et *Darius* de Thomas Corneille) et trois tragi-comédies : *Le Festin de pierre ou le fils criminel* par de Villiers qui s'est inspiré de l'italien, *Bellissaire* de La Calprenède et enfin *Fédéric* de Boyer. L'année 1660, ne fut représentée, en revanche, qu'une seule tragi-comédie, *Stratonice* de Quinault, le reste de la saison étant occupé par les représentations de trois comédies, une « pastorale allégorique » et trois tragédies (*Stilicon* de Corneille et *La Mort de Démétrius ou le Rétablissement d'Alexandre, Roy d'Epire* de Boyer ainsi que *Tigrane* du même Boyer, retirée et non imprimée).
 
@@ -235,17 +235,17 @@ Rivaux, Valère et Fabrice le sont dans leur compétition pour la conquête de C
 Au moment où Boyer écrit *Fédéric*, la tragi-comédie est sur son déclin. Ceci ne fait que prouver le goût de Boyer pour ce genre. Il récidivera d'ailleurs en écrivant *Policrite* en 1662 en s'inspirant cette fois-ci du *Grand Cyrus* et en 1670 avec *Policrate* en s'inspirant d'Hérodote pour mettre en scène le célèbre tyran. Mais la tragi-comédie s'appellera désormais « comédie héroïque », terme inventé par Corneille pour *Don Sanche d'Aragon*. Notons tout de même que *Le Fils supposé* (1672), remaniement de sa tragédie *Tyridate* (1649) comporte des thèmes présents dans nombre de tragi-comédies et a un dénouement heureux.
 
 
-# Le traitement du travestissement dans Fédéric
+# Le traitement du travestissement dans Fédéric.
 
 
-## Le travesti de naissance
+## Le travesti de naissance.
 
 Le thème de la jeune fille travestie à la naissance est moins fréquent que le travestissement délibéré des jeunes filles abandonnées. Il a été abordé dès l'Antiquité par Ovide dans l'histoire de *Iphis et Ianthe* et par Antonius Liberalis (XVII) qui raconte d'après Nicandre une histoire assez semblable dont le héros s'appelle Leucippe. Il ne s'agit donc pas d'un motif proprement théâtral et dans ses *Métamorphoses*, titre particulièrement bien adapté à ce thème, puisque dans ce récit, Iphis finit par se métamorphoser physiquement en homme, ce qui est exactement le processus inverse du faux roi dans *Fédéric*. C'est l'usage du travestissement qui permet la transcription du récit de cette inversion en langage théâtral.
 
 Le thème n'est pas nouveau au XVII*e* siècle : les dramaturges s'inspirent du théâtre italien qui a lui-même exploité ce thème au siècle précédent. En 1645, d'Ouville écrit une comédie, *Aimer sans sçavoir qui*, en s'inspirant de Piccolomini et Molière une autre comédie *Le Dépit amoureux* (1656) rappelant l'*Interesse* de Secchi (1585). A mentionner également *La Belle invisible ou la Constance esprouvée* de Boisrobert (1656), la reprise théâtrale du récit d'Ovide par Bensserade (*Iphis et Ianthe*, 1637) et, enfin, *La Feste de Vénus*, comédie à machines de Boyer (1669). Rappelons également que si ce thème a été exploité au théâtre, il s'agit plutôt d'un thème romanesque que l'on trouve dans l'*Astrée* d'Honoré d'Urfé (Première partie, livre V).
 
 
-## Travestissement et vraisemblance
+## Travestissement et vraisemblance.
 
 Mettre en scène dans une pièce une princesse travestie en roi depuis sa naissance sans que jamais nul ne soupçonne rien sur sa véritable identité, voilà qui peut paraître invraisemblable. En 1670, c'est-à-dire plus de dix ans après la représentation de *Fédéric*, Charles Sorel dénonce dans son livre intitulé *De la Connaissance des bons livres*, ce que les grands romans héroïques contiennent d'invraisemblances :
 
@@ -417,7 +417,7 @@ vue, et que l'on ne peut détruire par des changements si légers [29].
 Il est donc peu vraisemblable que les autres personnages de la pièce et le public ne reconnaissent pas le visage, la taille, la démarche et la voix qui sont, en fait, ceux d'une femme. Il est peu vraisemblable qu'un déguisement physique suffise à dissimuler une identité féminine mais la vraisemblance du travestissement n'est pas remise en cause.
 
 
-## Le travestissement sur scène : marques physiques, voix et maintien
+## Le travestissement sur scène : marques physiques, voix et maintien.
 
 Après avoir vu que la poétique contemporaine de Boyer ne remettait pas en cause le travestissement, il convient de se demander quels étaient les signes physiques qui constituaient le travestissement et quelle était la règle qui régissait ces signes physiques.
 
@@ -587,7 +587,7 @@ se mettant ainsi à l'abri des jugements de vraisemblance.
 *Fédéric* datant de 1659 et étant une tragi-comédie, tout comme *Tite*, il est difficile de ne pas lui appliquer ce commentaire.
 
 
-## Être et paraître : adéquation et distorsion
+## Être et paraître : adéquation et distorsion.
 
 Lorsqu'une princesse se travestit en roi depuis sa naissance, le personnage de la princesse disparaît-il entièrement derrière le personnage de roi ou transperce-t-il le déguisement ? Les notions d'adéquation et de distorsion permettent de comprendre les relations possibles entre personnage fictif et personnage véritable. Rappelons les définitions de ces deux notions données par Georges Forestier :
 
@@ -771,7 +771,7 @@ Le pathétique présent dans le discours de Yoland travestie au cours des passag
 Cependant, malgré ces scènes de distorsion, l'aveuglement des victimes reste total et le pathétique du discours de Yoland travestie n'est perçu par les personnages victimes du déguisement que comme un discours opaque qui ne suscite en eux qu'incompréhension et n'est jamais le point de départ du doute. Ainsi, l'angoisse présente dans les passages de distorsion n'est jamais perçue par les autres personnages comme un indice de sa véritable identité. Boyer choisit de respecter le principe d'aveuglement général de la tragi-comédie, ce qui lui permet de multiplier les scènes de distorsion et de donner une épaisseur psychologique au personnage de Yoland renforcée encore par l'immobilisme auquel est contraint le « roi », puisque c'est Fédéric qui agit pour Yoland. Seul le public reçoit les marques de la véritable identité du « roi » que sont les passages de distorsion et de paroles à *double entente* puisqu'il se trouve dans une situation d'ironie depuis la première scène de la pièce où le « roi » avoue le secret de son travestissement à son confident. Seule la convention de l'aveuglement systématique explique qu'une pièce entière soit construite sur un travestissement de naissance et permet d'accepter que nul ne reconnaisse l'identité féminine sous le travestissement en roi.
 
 
-## Rhétorique du déguisement
+## Rhétorique du déguisement.
 
 Lorsque nous avons examiné la distorsion et l'adéquation de l'identité fictive et de l'identité réelle du personnage de la princesse Yoland travestie en roi, nous avons constaté que le personnage de princesse transparaissait parfois sous le déguisement de roi. Lorsqu'un même personnage est ainsi dédoublé en deux identités, l'une véritable, l'autre fictive, comment fonctionne le discours prêté par l'auteur à son personnage ?
 
@@ -898,7 +898,7 @@ Devenez-vous si-tost à vous-méme contraire ? (III, 8, v. 1053).
 Yoland reste sans arrêt présente derrière le personnage de roi et c'est ce que veut nous faire comprendre Boyer en mettant en place un « déguisement rhétorique » [55].
 
 
-## Le travestissement, le spectateur, le lecteur
+## Le travestissement, le spectateur, le lecteur.
 
 Après avoir envisagé le fonctionnement du travestissement de Yoland sous l'angle des relations entre les personnages, il faut l'envisager sous l'angle des relations entre l'auteur, l'œuvre et le public, c'est-à-dire examiner la notion de « désignation » [56] dans *Fédéric.*
 
@@ -918,7 +918,7 @@ des spectateurs – ce qui est la règle générale pour les ignorances d'identi
 Le spectateur est informé du travestissement de Yoland dès la scène d'exposition au cours d'un dialogue avec son confident. Si Yoland explique à Marcellin la cause du déguisement et même si elle précise que Fédéric sur déguiser son « Sexe avec tant de secret » qu'elle « avoit conceu l'espoir de la grandeur suprême », la façon d'amener l'information du travestissement apparaît artificielle. Molière, dans *Le Dépit amoureux*, dont il est probable que Boyer se soit inspiré, s'est montré plus habile : l'information sur le travestissement apparaît à la première scène du deuxième acte au cours d'un dialogue entre Ascagne (Dorothée déguisée en homme) et sa confidente Frosine. Mais Frosine, contrairement à Marcellin, est déjà au courant du travestissement et l'aveu d'Ascagne ne porte successivement que sur ses sentiments pour Valère, sur son mariage avec celui-ci et sur le fait que Valère ignore la véritable identité de sa femme. Molière a donc su ménager un triple effet de surprise pour Frosine et le public en évitant l'invraisemblance puisque Frosine est au courant du travestissement [59].
 
 
-## Fonctions dramaturgiques du travestissement
+## Fonctions dramaturgiques du travestissement.
 
 Quelques années après *Fédéric*, Boyer reprend le thème de l'usurpation de pouvoir dans *Oropaste ou le faux Tonaxare*. Mais, pour cette pièce, il n'utilise pas le procédé du travestissement féminin. Pour quelles raisons Boyer a-t-il choisi avec *Fédéric* le travestissement féminin pour traiter ce thème ? Pour le comprendre, il faut distinguer entre sujet de la pièce et thème de la pièce :
 
@@ -946,7 +946,7 @@ Dans *Fédéric*, l'effet d'équivoque sexuelle n'est jamais présent. Même lor
 Boyer met donc en scène un travesti féminin dont la fonction dramatique est d'être l'instrument de l'usurpation de pouvoir, association dont il convient de souligner l'originalité, et dont les fonctions dramaturgiques consistent essentiellement dans l'effet de pathétique suscité par le travestissement et où l'équivoque sexuelle n'est jamais présente, la princesse travestie n'étant dotée d'aucun charme qui émanerait de sa féminité toujours présente sous son travestissement, contrairement par exemple au personnage de travesti féminin que Boyer met en scène dans sa pastorale *Lisimène ou la jeune bergère*. C'est donc à dessein que Boyer n'exploite pas cet effet, pensant peut-être que l'introduction de l'équivoque sexuelle heurterait des bienséances dans une tragi-comédie où le personnage est travesti pour une raison aussi sérieuse que la conservation du pouvoir politique et non la poursuite d'un volage. La fonction dramatique du travestissement qui est de servir de point de départ à toute la pièce apparaît donc peu importante, comparée à ses fonctions dramaturgiques dont la moindre n'est pas de satisfaire le goût du public pour le spectacle.
 
 
-## Mise en œuvre du « principe de l'action empêchée [63] »
+## Mise en œuvre du « principe de l'action empêchée [63] ».
 
 En construisant une pièce où le travestissement, instauré avant le début de la pièce pour éviter que la dynastie de Sicile soit chassée par la maison d'Aragon, et où le travestissement devient un obstacle au début de la pièce puisqu'il interdit l'amour entre Yoland et Valère, Boyer écrit une œuvre obéissant au « principe de l'action empêchée » [64]. Georges Forestier définit ce principe de la façon suivante :
 
@@ -1055,7 +1055,7 @@ Vous regnez cependant sur le cœur de Valere. (III, 8, v. 1031-1042).
 Le travestissement, s'il isole le personnage qui en est porteur, isole aussi les autres personnages dans l'erreur que constituent les quiproquos qu'il suscite. A la scène 4 de l'acte III, Valère montre à Fédéric un billet du « roi » dans lequel il encourage Valère à espérer l'amour d'une reine. Fédéric comprend que la reine en question n'est autre que Yoland elle-même, mais s'aperçoit que Valère se trompe en pensant que le « roi » l'encourage à espérer obtenir la main de Camille. Bien loin de mettre fin à ce quiproquo, Fédéric conforte Valère dans son erreur. A la scène suivante, nouveau quiproquo, puisque le « roi » pense que Valère a appris de Fédéric toute la vérité et est sur le point de se dévoiler lorsqu' « il » comprend de quelle manière Valère a interprété le billet. Le travestissement de la princesse, qui est lui-même mensonge et apparence, engendre à son tour erreur et illusion, erreur du mensonge pris pour la vérité et illusion de l'apparence prise pour la réalité. Le principe de l'action empêchée permet ce jeu sur le vrai et le faux.
 
 
-# Thème de la mésalliance
+# Thème de la mésalliance.
 
 Même si Boyer choisit de construire sa pièce sur le thème du travesti de naissance, le thème de la mésalliance est tout de même présent dans *Fédéric*, comme il est présent sur le théâtre français depuis une trentaine d'années, même s'il n'est pas utilisé pour fonder le principe de l'action empêchée dans la pièce. Dans *Fédéric*, deux reines amoureuses d'un sujet (même si l'une n'est reine que potentiellement) sont mises en scène par Boyer : Camille éprise de Fabrice et Yoland de Valère. Or, nous constatons qu'elles tiennent des propos similaires.
 
@@ -1130,7 +1130,7 @@ O Miracle d'amour, que l'Amour n'ose croire! (II, 6, v. 611).
 Il n'existe donc pas dans *Fédéric* comme c'est le cas dans *Don Sanche*, de transformation de la question de la bienséance du caractère d'une reine en enjeu dramatique. Dans *Fédéric*, si l'inégalité de rang est évoquée, la mésalliance n'est pas « perçue comme un véritable danger [69] ». Camille et Yoland, en tant que reine ou princesse, pratiquent « la retenue amoureuse [70] », elles n'en sont pas moins des héroïnes de tragi-comédie qui finissent par transgresser l'interdit pesant sur l'inégalité de rang qui, d'ailleurs, est relativisée par le fait que Fédéric est devenu roi.
 
 
-# Le traitement de l'enjeu politique
+# Le traitement de l'enjeu politique.
 
 Boyer ne place pas *Fédéric* en Sicile par hasard, mais parce que « les Femmes ne sçauraient régner dans la Sicile » (v. 34). La pièce se situe donc dans un contexte politique précis, équivalent au contexte politique français où prévaut la loi salique [71].
 
@@ -1237,7 +1237,7 @@ Vous regnerez par luy, comme il règne par vous. (V, scène dernière, v. 1762-1
 Le genre tragi-comique, dans lequel se situe cet enjeu politique, explique ce dénouement qui eût sans doute été différent dans le genre tragique.
 
 
-# Les conséquences sentimentales de l'enjeu politique
+# Les conséquences sentimentales de l'enjeu politique.
 
 L'enjeu politique dans lequel se situe la pièce comporte pour le personnage de la princesse travestie des conséquences sentimentales. Tandis que se déroule l'action qui doit porter Yoland au pouvoir et dont Fédéric est l'instigateur, la princesse est contrainte de dissimuler son identité sous son travestissement, alors même que Valère, qu'elle aime en secret, a l'ambition d'épouser une reine présente en son palais. Dès la scène d'exposition, Yoland confie à Marcellin la torture psychologique dans laquelle la plonge cette difficile situation :
 
@@ -1354,12 +1354,12 @@ Le fruit de tant de maux, et de tant de soûpirs ? (IV, 5, v. 1031-1042).
 On le voit, l'enjeu politique n'est pas incompatible avec l'existence et l'expression de conséquences sentimentales qui, dans le genre tragi-comique, reflètent des nuances aussi diverses que la passion amoureuse, la jalousie véhémente ou la simple galanterie. Nous ne doutons pas que leur représentation sur la scène de l'Hôtel de Bourgogne a su contribuer au succès de *Fédéric*.
 
 
-# Conclusion
+# Conclusion.
 
 Dix ans après les représentations de *Fédéric* à l'Hôtel de Bourgogne, le fils de l'acteur Montfleury, qui faisait partie de la troupe, écrira une tragi-comédie intitulée *La Femme juge et partie* [73], où il met en scène une jeune fille prénommée Julie, travestie en homme sous le nom de Fédéric. Nous ne pouvons croire à une pure coïncidence et la reprise de ces éléments présents dans *Fédéric* est un indice à la fois de l'admiration portée à Boyer à cette époque et du succès qu'a dû remporter la pièce en son temps. De *Fédéric*, nous pouvons retenir qu'il s'agit de la seule pièce dont le travestissement féminin est mis en place pour un enjeu dynastique, même si cette association peut être discutable [74]. Cette tragi-comédie devait aussi avoir pour rôle d'effacer l'insuccès de *Clotilde*, tragédie qui marquait le retour au théâtre de Boyer, mais qui n'eut pas la même fortune que l'*Œdipe* de Corneille, en donnant à voir au public de l'Hôtel de Bourgogne le spectacle d'un travesti féminin dont il était amateur. Reflet des goûts du public de théâtre de la seconde moitié du XVII*e* siècle, reflet des formes théâtrales utilisées par un dramaturge à la veille de donner son chef-d'œuvre (*Oropaste ou le faux Tonaxare*) et en pleine ascension puisque Boyer sera académicien quelques années plus tard, *Fédéric* mérite sans nul doute à ces divers titres l'attention de quiconque s'intéresse à la redécouverte du théâtre du XVII*e* siècle.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il n'existe qu'une seule édition de *Fédéric*, exécutée en 1660 par le libraire Augustin Courbé B.N. Yf4856. En voici la description :
 
@@ -1385,7 +1385,7 @@ Nous avons respecté la ponctuation primitive, sauf lorsqu'elle paraissait fauti
 Un astérisque⁎ à la fin d'un mot renvoie le lecteur au glossaire pour une définition de ce mot en usage au XVII*e* siècle dont l'acception actuelle différerait.
 
 
-# FÉDÉRIC. TRAGI-COMÉDIE
+# FÉDÉRIC. TRAGI-COMÉDIE.
 
 
 ## A MONSEIGNEUR LE DUC DE GUYSE [75].
@@ -1403,7 +1403,7 @@ Le très-humble, et très obeissant
 Serviteur, **BOYER.**
 
 
-## ACTEURS
+## ACTEURS.
  – YOLAND,Princesse de Sicile, déguisée en Roy, sous le nom de Manfrede.
  – FEDERIC,Admiral de Sicile, amoureux d'Yoland.
  – CAMILLE,Reyne de Naples, réfugiée en Sicile.
@@ -1417,26 +1417,26 @@ La Scene est à Messine dans le Palais Royal [76].
 
 
 
-## ACTE I 
+## ACTE I. 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 MARCELLIN, LE ROY
 
 
-    MARCELLIN
+    MARCELLIN.
 Si pres de cet Hymen qui vous donnant Camille,  
 Joint le Sceptre de Naple [77] à celuy de Sicile,  
 Et de son Protecteur va faire son Epoux ;  
 Quels sont vos déplaisirs⁎ dequoy vous plaignez-vous ?  
 
-    LE  ROY
+    LE ROY.
 J'ay bien d'autres soucis que ceux de l'Hymenée,  
 Quand mille maux secrets troublent ma destinée,  
 Et d'un grand Roy, qu'on croit doublement couronné,  
 Font de tous les mortels le plus infortuné.  
 
-    MARCELLIN
+    MARCELLIN.
 Quoy que dans vostre mal tout mon cœur s'interesse,  
 Je l'ignore, et n'en prens qu'une aveugle tendresse [78].  
 Il est bien vray, Seigneur, qu'il me souvient encor  
@@ -1451,7 +1451,7 @@ Sa bouche [81] par des mots confus, embarrassez,
 Me fit craindre pour vous, mais n'en dit pas assez,  
 Pour pouvoir m'éclaircir cet important mystere.  
 
-    LE ROY
+    LE ROY.
 Ta Femme, Marcellin , fut ma seconde Mere ;  
 Et si sa prompte mort t'a ravy ce secret,  
 Ma bouche maintenant te l'apprend sans regret :  
@@ -1461,16 +1461,16 @@ Mais helas! Marcellin, pourras-tu bien chérir
 Un Roy, qui ne l'est plus, s'il s'ose découvrir,  
 Un lâche usurpateur, un imposteur, un traistre [82] ?  
 
-    MARCELLIN
+    MARCELLIN.
 Ah! Seigneur.  
 
-    LE ROY
+    LE ROY.
         Je suis tel, si je me fais connaistre.  
 
-    MARCELLIN
+    MARCELLIN.
 Expliquez vous, Seigneur, parlez plus clairement.  
 
-    LE  ROY
+    LE ROY.
 Tu vas voir tout entier cet affreux changement.  
 Tu sçais que par les Loix de ce Peuple indocile,  
 Les Femmes ne sçauroient regner dans la Sicile ;  
@@ -1479,10 +1479,10 @@ Et ce Peuple jaloux d'obeïr sous un Roy,
 Croiroit se démentir, et passer pour infame,  
 S'il souffroit un moment le regne d'une Femme.  
 
-    MARCELLIN
+    MARCELLIN.
 Seigneur, qu'a cette Loy de commun avec vous ?  
 
-    LE ROY
+    LE ROY.
 Escoute, Marcellin. Apres qu'aux yeux de tous  
 Tous mes Freres mourans eurent laissé mon Pere  
 Sans autre Successeur d'un Trône hereditaire,  
@@ -1497,10 +1497,10 @@ Mais helas! Marcellin, je suis toujours la méme,
 Tousjours Femme malgré ces premiers sentimens,  
 Tousjours Femme malgré tous ces déguisemens.  
 
-    MARCELLIN
+    MARCELLIN.
 Ciel! que me dites-vous ?  
 
-    LE ROY
+    LE ROY.
         L'horreur d'une injustice  
 Força le Roy mon Pere à ce grand artifice,  
 Craignant qu'apres sa mort le Prince d'Arragon,  
@@ -1530,12 +1530,12 @@ Me fit bien pres de luy sentir que j'estois Femme ;
 Et la raison qui vint m'éclaircir à son tour,  
 Me treuva pleinement instruite par l'amour.  
 
-    MARCELLIN
+    MARCELLIN.
 Quoy, vingt ans tous [88] entiers [89]auroient sans nul [90] indice  
 Caché jusques icy cet étrange⁎ artifice ?  
 Quel charme⁎ a si longtemps trompé toute la Cour ?  
 
-    LE  ROY
+    LE ROY.
 Ce charme⁎ dureroit encor sans mon amour.  
 Oüy j'aime, je l'avouë, (à cet aveu⁎ si lâche  
 Ma rougeur t'apprend bien le Sexe que je cache.)  
@@ -1562,10 +1562,10 @@ Aimons, ne forçons plus une flame secrette :
 Qu'on choisisse un Monarque, et qu'on oste à mon sang  
 Par le defaut du Sexe, un legitime rang.  
 
-    MARCELLIN
+    MARCELLIN.
 Quoy! cesser de regner. Que faites-vous, Madame ?  
 
-    LE  ROY
+    LE ROY.
 Laisse agir, Marcellin, les transports de ma flame,  
 Donne toy tout entier à servir mon ardeur,  
 Et laisse à l'Admiral le soin⁎ de ma grandeur ;  
@@ -1573,16 +1573,16 @@ C'est luy qui doit bien-tost mettre fin à ma peine.
 Mais Camille paroist.  
 
 
-### SCENE II
+### SCENE II.
 LE ROY, CAMILLE, MARCELLIN, FLORISE
 
 
-    LE  ROY  *continuë.*
+    LE ROY *continuë.*.
         Pardonnez, grande Reyne,  
 Si je m'acquite mal de ce que je vous doy ;  
 Imputez ces delais aux soins⁎ d'un nouveau Roy.  
 
-    CAMILLE
+    CAMILLE.
 Seigneur, de ces delais le pretexte est plausible ;  
 Mais un Prince amoureux doit estre plus sensible.  
 Depuis trois mois entiers je sollicite en vain  
@@ -1612,7 +1612,7 @@ Et servez en Monarque une Reyne opprimée.
 Il m'est indiferent de tenir cet espoir  
 Des soins⁎ de vostre amour,ou de vostre devoir.  
 
-    LE  ROY
+    LE ROY.
 Je ne me defens point d'une si juste plainte :  
 Mais si vous connoissiez avec quelle contrainte  
 Je difere un secours que je vous ay promis,  
@@ -1622,7 +1622,7 @@ Soûpire pour un mal bien plus grand que le vostre ;
 Vous passeriez bien-tost d'un si juste courroux  
 A la pitié d'un Roy plus à plaindre que vous.  
 
-    CAMILLE
+    CAMILLE.
 Dequoy vous plaignez vous dans l'estat où vous estes ;  
 Dans un Trône si haut au dessus des tempestes ;  
 Je ne puis deviner ces nouvelles douleurs  
@@ -1630,7 +1630,7 @@ Qui vous font negliger la fin de mes malheurs.
 Est-ce d'un Pere mort la récente memoire,  
 Qui peut troubler encor tant d'heur⁎, et tant de gloire ?  
 
-    LE  ROY
+    LE ROY.
 Non, non ; et si j'osois ouvrir mon sentiment,  
 Vous sçauriez que ce coup me toucha foiblement,  
 Quand d'un Roy trop prudent la vieillesse importune  
@@ -1654,7 +1654,7 @@ Quand vous n'entendez rien de l'excés de ma peine,
 Et qu'un [96] respect⁎ plus fort que l'espoir d'en guerir,  
 Me defend de parler, et de me secourir ?  
 
-    CAMILLE
+    CAMILLE.
 Seigneur, dans ce discours je ne puis rien comprendre ;  
 Mais il est temps enfin qu'un Roy se fasse entendre,  
 Et qu'alors qu'une Reyne implore son pouvoir,  
@@ -1669,35 +1669,35 @@ Nos mutins devenus plus hardis, et plus forts,
 Viendront jusqu'en ces lieux prévenir⁎ vos efforts,  
 Et vous feront rougir de tant de negligence.  
 
-    LE  ROY
+    LE ROY.
 Nous sçaurons prévenir⁎une telle insolence ;  
 Et vous sçaurez peut-estre avant la fin du jour,  
 Que j'aurois moins d'ennuis⁎, si j'avois moins d'amour.  
 
-    CAMILLE
+    CAMILLE.
 D'une si foible amour [97], Seigneur, je vous dispense,  
 Acquitez vous au moins des soins⁎de ma vengeance ;  
 Federic vient, adieu ; sçachez, Seigneur, de luy  
 Ce que me doit un Roy qui se fait mon appuy.   
 
 
-### SCENE III
+### SCENE III.
 FEDERIC, LE ROY, MARCELLIN [98]
 
 
-    LE  ROY
+    LE ROY.
 Hé bien, cher Federic, qu'avez-vous à me dire ?  
 Vous dois-je mon repos, ma gloire, et mon empire ?  
 
-    FEDERIC
+    FEDERIC.
 Tout rit à vos souhaits ; et cette vieille Loy  
 Qui ne souffre en ces lieux que le regne d'un Roy [99],  
 S'en va tomber par terre aux yeux de tout le monde.  
 
-    LE  ROY
+    LE ROY.
 Apprenez moy sur quoy ce grand espoir se fonde.  
 
-    FEDERIC
+    FEDERIC.
 C'est sur ce grand secours qui fait regner les Roys,  
 Qui fait la Loy par tout, et se moque des Loix,  
 Sur la force, Madame. Oüy cette Loy severe  
@@ -1725,7 +1725,7 @@ Du voisin défiant contiendra le caprice,
 Qui dans un autre temps surpris, épouvanté,  
 S'ebranleroit sans doute à cette nouveauté.  
 
-    LE  ROY
+    LE ROY.
 Donc je ne puis garder la supréme puissance  
 Que par la seule force [100],ou par la violence.  
 Federic, pardonnez à ma timidité⁎;  
@@ -1734,7 +1734,7 @@ Si je ne puis regner sans jetter sur ma vie
 L'horreur de l'imposture,ou de la tyrannie,  
 Sortons, sortons du Trône au moins avec honneur.  
 
-    FEDERIC
+    FEDERIC.
 D'où vous naist tout d'un coup ce remors suborneur ?  
 Est-ce au Roy d'Arragon que vous cedez la place ?  
 La crainte sur le Trône est de mauvaise grace ;  
@@ -1745,10 +1745,10 @@ Quand on s'est revestu de ce pouvoir auguste,
 Quand le Ciel l'a souffert, quand le Sort l'a voulu,  
 C'est assez pour garder le pouvoir absolu [101].  
 
-    LE  ROY
+    LE ROY.
 Mais icy vostre Sexe a seul droict à l'Empire.  
 
-    FEDERIC
+    FEDERIC.
 Mais vous en estes digne, et cela doit suffire.  
 Oüy ce Sceptre est à vous, et tout l'effort humain  
 Ne sçauroit l'arracher d'une si digne main.  
@@ -1765,14 +1765,14 @@ Elles font de nos cœurs leur Trône et leur conqueste,
 Et l'effort amoureux de ces charmes⁎puissans  
 Est un regne visible étably sur nos sens.  
 
-    LE  ROY
+    LE ROY.
 Ton zele, Federic, emporte la victoire ;  
 Couronne promptement et mon Sexe, et ma gloire,  
 Je brûle, je languis sous ce déguisement.  
 Ah!que ne connois-tu l'excès de mon tourment!  
 Allons, allons forcer toute ma destinée.  
 
-    FEDERIC
+    FEDERIC.
 Attendez, attendez cette grande journée,  
 Où tout bien preparé pour un succés certain,  
 Nous puissions sans péril tenter ce grand dessein.  
@@ -1781,27 +1781,27 @@ Sur son retour de Naple on prendra ses mesures ;
 De l'estat des mutins instruits par son rapport,  
 De Camille, et de vous, nous reglerons le sort.  
 
-    LE  ROY
+    LE ROY.
 Haste donc ce beau jour, et sçache …  
 
-    FEDERIC
+    FEDERIC.
         Quoy, Madame.  
 Quel trouble …  
 
-    LE  ROY. 
+    LE ROY. 
     Ignore encor le secret de mon ame.  
 
-    FEDERIC
+    FEDERIC.
         Quel secret!  
 
-    LE  ROY *bas*.
+    LE ROY *bas*.
 Ah!Valere.Adieu ; mais souviens-toy,  
 Si je regne en ces lieux, que je me dois un Roy.  
 
 
-### SCENE IV
+### SCENE IV.
 
-    FEDERIC *seul.*
+    FEDERIC *seul.*.
 Tu t'émeus à ces mots, ardeur ambitieuse,  
 Et de ce prompt espoir la flame impetueuse,  
 Malgré le froid de l'âge, et le poids de mes ans,  
@@ -1828,14 +1828,14 @@ Mais puis que sur le Trône elle se doit un Roy,
 Souffre un choix de sa part qui s'explique pour moy [106].  
 
 
-### SCENE V
+### SCENE V.
 FEDERIC, VALERE, FABRICE
 
 
-    FEDERIC
+    FEDERIC.
 Approchez, mes enfans.  
 
-    VALERE
+    VALERE.
         Ah! Seigneur, que de gloire  
 Vous appreste l'espoir d'une grande victoire,  
 Quand vous vous disposez d'un effort glorieux  
@@ -1859,7 +1859,7 @@ Déchargez vous sur nous de ces nobles desirs,
 Et faites de vos Fils au combat qui s'appreste  
 Les premiers bras du corps dont vous serez la teste.  
 
-    FEDERIC
+    FEDERIC.
 Ah! Valere, ah! Fabrice, une si belle ardeur  
 Est digne de mon sang, et digne d'un grand cœur.  
 Vous aurez part tous deux à ce grand avantage ;  
@@ -1875,17 +1875,17 @@ Il faut que l'un de vous s'en fasse une Maistresse⁎,
 Et que luy redonnant le pouvoir souverain,  
 Elle mette en vos mains le don de vostre main.  
 
-    FABRICE
+    FABRICE.
 Nous jusques à Camille élever nostre veuë!  
 
-    VALERE
+    VALERE.
 Quelque puissant respect⁎ qui la rende abbatuë,  
 J'ose tout par vostre ordre, et n'apprehende rien.  
 
-    FABRICE
+    FABRICE.
 Pour aspirer si haut, je me connois trop bien.  
 
-    FEDERIC *à Fabrice.*
+    FEDERIC *à Fabrice.*.
 Si d'un si haut party la majesté t'étonne⁎,  
 Songe que tout mon sang est né pour la Couronne ;  
 Prens d'un si digne adveu⁎ l'orgueil de ton aisné ;  
@@ -1897,7 +1897,7 @@ D'un scrupule si vain reposez vous sur moy.
 Cet Hymen pretendu n'est qu'un adroit mystere  
 Qu'un interest d'Estat a rendu necessaire.  
 
-    FABRICE
+    FABRICE.
 Donc, Seigneur, je n'ay plus à craindre un tel Rival.  
 Puis que vous me sauvez d'un respect⁎ si fatal,  
 Il est temps, il est temps de vous faire connaistre  
@@ -1907,14 +1907,14 @@ Vous fasse un plein aveu⁎ de sa temerité.
 J'aime, j'aime Camille, et sans l'aveu⁎ d'un Pere,  
 Ce cœur qu'on croit discret [107] estoit un temeraire.  
 
-    FEDERIC
+    FEDERIC.
 Que j'aime en toy, mon Fils, un feu si glorieux!  
 Car enfin c'est sur toy que j'ay jetté les yeux,  
 Pour relever le sort d'une Reyne opprimée.  
 Je voy que de ce choix vostre ame est alarmée⁎,  
 Valere.  
 
-    VALERE
+    VALERE.
         Quoy, Seigneur, par quel sort aujourd'huy  
 L'honneur de cet employ tombera-t'il sur luy ?  
 Luy seul merite-t'il toute vostre tendresse ?  
@@ -1922,7 +1922,7 @@ Ou bien ce foible amour dont on flate⁎ l'aisnesse
 Voudroit-il dérober le Favory d'un Roy  
 Aux glorieux périls d'un si fameux employ ?  
 
-    FEDERIC
+    FEDERIC.
 Mon Fils, pour te montrer toute l'amour [108] d'un Pere,  
 Je te destine un Sceptre, aussi bien qu'à ton Frere.  
 Tu regneras un jour ; mais sans t'inquieter,  
@@ -1936,9 +1936,9 @@ Toy va-t'en à Camille annoncer cette gloire,
 Et luy faire avoüer l'audace de ton feu.  
 
 
-### SCENE VI
+### SCENE VI.
 
-    VALERE *seul.*
+    VALERE *seul.*.
 Allons le prévenir⁎ pour cet illustre aveu⁎.  
 Se flate⁎ qui voudra d'un Trône imaginaire,  
 La faveur d'un grand Roy, les tendresses d'un Pere,  
@@ -1946,14 +1946,14 @@ Ne sont rien où je vois un Empire à gagner ;
 Et je préfere à tout le hazard⁎ de regner.  < Fin du premier Acte. > 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 FEDERIC, OCTAVE
 
 
-    FEDERIC
+    FEDERIC.
 Que je ressens de joye, Octave, à ton retour!  
 Que j'en augure bien dans cet illustre jour!  
 Tu vois de toutes parts se former l'assemblée  
@@ -1968,7 +1968,7 @@ Et que l'ingrat Roger, pour attenter sans blâme,
 Décrioit hautement le regne d'une Femme.  
 Dis moy ce qu'a suivy cet indigne attentat ?  
 
-    OCTAVE
+    OCTAVE.
 Roger s'éleve au Trône, arme avec grand éclat ;  
 Mais tousjours menacé de ce Peuple indocile,  
 Au dehors allarmé⁎ des forces de Sicile,  
@@ -1987,7 +1987,7 @@ Je m'y montre, j'agis, j'y treuve tout facile.
 Tout le Peuple ébranlé n'attend qu'un grand éclat,  
 Et tout enfin dépend du succés du combat.  
 
-    FEDERIC
+    FEDERIC.
 Le succés est à nous, sois seur de la victoire ;  
 Et pour t'apprendre enfin le comble de ma gloire,  
 C'est peu d'un [111] Trône, Octave, et l'orgueil de mes voeux  
@@ -1995,10 +1995,10 @@ Entre mes Fils et moy s'ose en promettre deux :
 Je destine mon sang au Sceptre de Camille ;  
 Et moy j'ose aspirer à celuy de Sicile.  
 
-    OCTAVE
+    OCTAVE.
 Vous voulez détrôner son legitime Roy ?  
 
-    FEDERIC
+    FEDERIC.
 Oses-tu concevoir ce soupçon contre moy ?  
 Il est temps de t'ouvrir cet important mystere ;  
 Et si pres d'éclater, je ne te doy rien taire.  
@@ -2007,10 +2007,10 @@ Icy regne le sang d'un Pere ambitieux,
 Qui renversant nos Loix couronne sa famille,  
 Et pour tout dire enfin, fait un Roy de sa Fille.  
 
-    OCTAVE
+    OCTAVE.
 Ciel! que m'apprenez-vous ?  
 
-    FEDERIC
+    FEDERIC.
         Un secret étonnant⁎;  
 Mais voy combien mon sort est rare et surprenant.  
 La Princesse voulant changer son avanture,  
@@ -2018,16 +2018,16 @@ Comme j'avois aidé moy-mesme à l'imposture,
 Je m'appreste à forcer le Peuple à faire un choix,  
 Pour un Trône sans Roy, du seul sang de nos Roys.  
 
-    OCTAVE
+    OCTAVE.
 Ce dessein est hardy.  
 
-    FEDERIC
+    FEDERIC.
         C'est l'Amour qui m'en presse.  
 
-    OCTAVE
+    OCTAVE.
 L'Amour!  
 
-    FEDERIC
+    FEDERIC.
         Ce sentiment sied mal à ma vieillesse :  
 Mais aussi que sçait-on si cette passion,  
 Qui me semble l'Amour, n'est point l'ambition.  
@@ -2057,45 +2057,45 @@ Qu'il luy sera plus doux de regner apres moy …
 Mais Camille paroist.  
 
 
-### SCENE II
+### SCENE II.
 CAMILLE, FEDERIC, FLORISE
 
 
-    CAMILLE
+    CAMILLE.
         Hé bien, enfin le Roy  
 Va-t'il presser pour moy cette grande victoire ?  
 
-    FEDERIC
+    FEDERIC.
 Par son aveu⁎ Fabrice aspire à cette gloire.  
 
-    CAMILLE
+    CAMILLE.
 Et la valeur d'un Roy se repose sur luy.  
 
-    FEDERIC
+    FEDERIC.
 Le Roy, d'un tel Sujet veut faire vostre appuy.  
 
-    CAMILLE
+    CAMILLE.
 Il peut mesme ceder, sans en craindre du blâme,  
 A de pareils Sujets et mon Trône, et ma flame.  
 
-    FEDERIC
+    FEDERIC.
 Fabrice se connoist, et pour ce grand espoir …  
 
-    CAMILLE
+    CAMILLE.
 Qu'il me mette en estat d'user de mon pouvoir.  
 
-    FEDERIC
+    FEDERIC.
 Vous l'aurez tout entier, n'en soyez plus en peine ;  
 Le Roy neglige trop l'interest d'une Reyne ;  
 Et vous sçaurez bien-tost, vous reposant sur moy,  
 Que ma parole icy vaut bien celle d'un Roy.   
 
 
-### SCENE III
+### SCENE III.
 CAMILLE, FLORISE
 
 
-    CAMILLE
+    CAMILLE.
 Tu vois qu'à mon party, dans un sort si contraire,  
 J'engage adroitement les Enfans, et le Pere.  
 J'apprens de Federic que Fabrice est pour moy,  
@@ -2103,10 +2103,10 @@ Valere vient aussi de m'engager sa foy ;
 Et cette ombre d'espoir que ma bonté luy donne,  
 Inspire à son orgueil l'espoir d'une Couronne.  
 
-    FLORISE
+    FLORISE.
 Ainsi l'amour du Roy vous est indiferent.  
 
-    CAMILLE
+    CAMILLE.
 Non, je doy l'avoüer, sa froideur me surprend ;  
 La pitié qu'il me doit, par l'Amour enflamée,  
 Eut vengé doublement une Reyne opprimée :  
@@ -2128,12 +2128,12 @@ Non de perdre l'amour d'un grand Roy qui me quitte
 Mais de peur qu'on l'impute à mon peu de merite.  
 Voila dequoy mon cœur se plaint secretement.  
 
-    FLORISE
+    FLORISE.
 Il est fâcheux de perdre un si parfait Amant⁎;  
 Et déja dans la Cour on vous croit destinée  
 A l'éclatant honneur d'un si grand Hymenée.  
 
-    CAMILLE
+    CAMILLE.
 Fut-il maistre du Monde, et dans un rang plus haut,  
 S'il ne m'aime, il n'est rien avec un tel defaut.  
 Suffit que deux grands cœurs, et de tout leur courage  
@@ -2141,28 +2141,28 @@ Et de tout leur credit, daignent me faire hommage.
 Si l'un est sans amour, il m'offre son appuy ;  
 Pour Fabrice, il m'adore, et j'attens tout de luy.  
 
-    FLORISE
+    FLORISE.
 Quoy, Fabrice vous aime ?  
 
-    CAMILLE
+    CAMILLE.
     Oüy, sa flame est extréme.  
 
-    FLORISE
+    FLORISE.
         Qui vous l'a dit ?  
 
-    CAMILLE
+    CAMILLE.
 Ses yeux m'ont dit cent fois qu'il m'aime.  
 
-    FLORISE
+    FLORISE.
 Vous fiez-vous si fort au langage des yeux ?  
 
-    CAMILLE
+    CAMILLE.
 C'est le plus seur langage, et rien ne parle mieux.  
 
-    FLORISE
+    FLORISE.
 Mais, Madame, aimez-vous ou Fabrice, ou Valere ?  
 
-    CAMILLE
+    CAMILLE.
 Fabrice dans mon cœur l'emporte sur son Frere ;  
 Mais comme je dédaigne un Roy qui n'aime pas,  
 Un Amant⁎ sans Couronne a de foibles appas.  
@@ -2183,11 +2183,11 @@ Une innocente audace à leurs timides flames ;
 Et sans trahir l'orgueil du rang où je me voy,  
 Aider à leurs soûpirs à venir jusqu'à moy.  
 
-    FLORISE
+    FLORISE.
 Mais pouvez-vous flater⁎ ou Valere,ou Fabrice,  
 Sans qu'enfin vostre cœur s'oublie, ou se trahisse [112].  
 
-    CAMILLE
+    CAMILLE.
 Je puis aimer l'un d'eux, sans trop baisser mes yeux ;  
 Je voy dans l'un et l'autre un destin glorieux.  
 Déja par mes bontez l'ambitieux Valere  
@@ -2196,11 +2196,11 @@ Tu vas voir si je sçay d'un air assez adroit
 Faire parler un cœur, quand il aime en secret.  
 
 
-### SCENE IV
+### SCENE IV.
 FABRICE, CAMILLE, FLORISE
 
 
-    FABRICE
+    FABRICE.
 Le temps vient, grande Reyne, où le Ciel plus propice  
 Par un puissant secours vous va faire justice ;  
 Par l'aveu⁎ de mon Pere, et par l'aveu⁎du Roy,  
@@ -2210,7 +2210,7 @@ L'aveu⁎ de cet honneur avec plus de merite ;
 Et sa vertu⁎ peut-estre emporte dessus moy  
 Tout ce que j'obtenois et d'un Pere, et d'un Roy.  
 
-    CAMILLE
+    CAMILLE.
 Je n'ay pû refuser mon suffrage à Valere ;  
 Mais vous avez pour vous celuy d'un Roy, d'un Pere,  
 Et s'il m'estoit permis de faire quelque choix,  
@@ -2220,7 +2220,7 @@ Et d'un plus doux succés ma disgrace est suivie,
 Lors que pour remonter au pouvoir souverain  
 Un Héros comme vous me doit prester sa main.  
 
-    FABRICE
+    FABRICE.
 Ah! qu'un si digne aveu⁎ me va combler de gloire!  
 J'en sens presque déja l'espoir de la victoire :  
 Mais dans ce beau succés puis-je vous declarer  
@@ -2234,7 +2234,7 @@ Quand un Trône rendu nous ravira vos charmes⁎,
 Que deviendra Fabrice ? et dans ces tristes lieux  
 Quel charme⁎ loin de vous consolera mes yeux ?  
 
-    CAMILLE
+    CAMILLE.
 Vous suis-je en cet estat sans trop de complaisance,  
 Assez chere à vos yeux pour craindre mon absence ?  
 Flater⁎d'un air si doux celle qu'on veut venger,  
@@ -2266,7 +2266,7 @@ Madame, il aime mieux et mourir, et se taire,
 Qu'adorer sans espoir toute la majesté  
 Que jettent à la fois le Trône et la Beauté.  
 
-    CAMILLE
+    CAMILLE.
 Quoy, cette majesté desespere Fabrice!  
 Le Trône et la Beauté n'ont rien qui m'ébloüisse ;  
 Il est trop pres du Trône, et la Cour de ces lieux  
@@ -2277,60 +2277,60 @@ Que l'amour de Fabrice est heureux en ce poinct,
 Qu'une Reyne le sçait, et n'en murmure point.   
 
 
-### SCENE V
+### SCENE V.
 
-    FABRICE *seul.*
+    FABRICE *seul.*.
 O Miracle d'amour, que l'Amour n'ose croire!  
 Belle temerité, qu'a suivy tant de gloire!  
 Mais mon Frere paroist.  
 
 
-### SCENE VI
+### SCENE VI.
 VALERE, FABRICE
 
 
-    VALERE
+    VALERE.
         A ce beau mouvement  
 Je reconnois l'espoir d'un bienheureux Amant⁎.  
 D'où vient ce beau transport qui dans vos yeux éclate ?  
 
-    FABRICE
+    FABRICE.
 D'un peu d'espoir, mon Frere,un malheureux se flate⁎.  
 
-    VALERE
+    VALERE.
 Vous vous flatez⁎ sans doute, apres ce qu'on m'a dit ;  
 A ces douces erreurs donnez moins de credit.  
 
-    FABRICE
+    FABRICE.
 Je sçay que vous avez l'honneur de son suffrage.  
 
-    VALERE
+    VALERE.
 Vous pretendez sans doute un plus grand avantage [114].  
 
-    FABRICE
+    FABRICE.
 Moy, je ne prétens rien.  
 
     VALERE. 
         Vous faites le discret ;  
 Et sous cet air modeste on triomphe en secret.  
 
-    FABRICE
+    FABRICE.
 Vous voulez me surprendre, et tenter ma foiblesse.  
 
-    VALERE
+    VALERE.
 Camille l'a pû faire, elle a beaucoup d'adresse.  
 
-    FABRICE
+    FABRICE.
 Je croy quand il luy plaist qu'elle n'en manque point,  
 Mais nous serons bientost éclaircis sur ce poinct.  
 
-    VALERE
+    VALERE.
 Il faut que cet espoir abuse l'un ou l'autre.  
 
-    FABRICE
+    FABRICE.
 Avec mon peu d'espoir je vous laisse le vostre.  
 
-    VALERE
+    VALERE.
 Quel que soit cet espoir que vous m'osez vanter,  
 C'est en dire un peu trop à qui peut vous l'oster.  
 Gardez plus de respect⁎ à ce double avantage  
@@ -2346,7 +2346,7 @@ Mon Pere m'offre un Trône, et ce sera le vostre.
 J'attache mes desirs à celuy que je voy,  
 Et ne hazarde⁎ point la gloire d'estre Roy.  
 
-    FABRICE
+    FABRICE.
 Ah! cruel, ce n'est pas l'éclat d'un Diadéme  
 Qui charme⁎ mes desirs, c'est Camille que j'aime ;  
 Je ne veux que son cœur, et l'espoir de regner,  
@@ -2354,7 +2354,7 @@ Au prix de sa conqueste, est trop à dédaigner.
 Ah! si vous connoissiez la grandeur de ma flame,  
 Et les belles ardeurs qui regnent dans mon ame …  
 
-    VALERE
+    VALERE.
 Ah! si vous connoissiez quelle est la passion  
 D'un cœur qui fait regner la noble ambition,  
 Quelle est l'avidité d'une grande victoire,  
@@ -2362,23 +2362,23 @@ Quel [115] est l'amour du Trône, et celuy de la gloire ;
 Vous ne m'enviriez pas l'ambitieux employ  
 Qui m'offre une victoire, et le titre de Roy.  
 
-    FABRICE
+    FABRICE.
 Ces desirs ont-ils rien de si grand que ma flame ?  
 
-    VALERE
+    VALERE.
 Rien n'égale l'ardeur qui consume mon ame.  
 
-    FABRICE
+    FABRICE.
 La Terre a plus d'un Trône où vous pouvez regner ;  
 Mais elle n'a qu'un cœur que je veüille gagner.  
 
-    VALERE
+    VALERE.
 Naples est le seul Trône où j'ay lieu de pretendre.  
 
-    FABRICE
+    FABRICE.
 On vous en promet un que vous pouvez attendre.  
 
-    VALERE
+    VALERE.
 Gardez, gardez pour vous ces belles visions⁎;  
 Cedez tout vostre espoir à ces illusions ;  
 Mais c'est trop contester ; si vous m'estes contraire,  
@@ -2386,7 +2386,7 @@ Sçachez que je perdray toute l'amour [116] d'un Frere ;
 Et cette ambition dont vous estes jaloux,  
 Commencera sa gloire à triompher de vous.  
 
-    FABRICE
+    FABRICE.
 Je sçay quel est le rang qu'un Monarque vous donne ;  
 Mais quel qu'il soit enfin, il n'a rien qui m'étonne⁎.  
 Sçachez que j'ay du cœur autant que j'ay d'amour,  
@@ -2396,33 +2396,33 @@ Ignore ce que c'est que crainte et que foiblesse ;
 Et le vostre sçauroit, s'il aimoit comme moy,  
 Qu'un grand amour peut tout, quand il agit pour soy.  
 
-    VALERE
+    VALERE.
 Nous verrons si le Roy vous souffre tant d'audace.  
 
-    FABRICE
+    FABRICE.
 J'ay de vostre crédit prévenu la menace :  
 Ouy, mon Frere, et sçachez que j'ay l'aveu⁎ du Roy ;  
 Je ne m'en vantois point, Camille estant pour moy.  
 Son aveu⁎ me suffit pour n'avoir rien à craindre.  
 
-    VALERE
+    VALERE.
 Nous verrons qui de nous [117] aura lieu de se plaindre.  
 Il vient.  
 
 
-### SCENE VII
+### SCENE VII.
 LE ROY, VALERE, FABRICE, MARCELLIN
 
 
-    LE  ROY
+    LE ROY.
         Quels differens s'agitent entre vous ?  
 
-    VALERE
+    VALERE.
 Fabrice transporté d'un aveugle courroux,  
 Est devenu si fier par la faveur d'un Pere,  
 Qu'il m'ose disputer tout le bien que j'espere.  
 
-    LE  ROY
+    LE ROY.
 Fabrice, sçavez-vous jusqu'où va la fureur,  
 Qui s'en prend à l'objet de toute ma faveur ?  
 C'est s'en prendre à moy-méme; et si le nom de Frere  
@@ -2430,7 +2430,7 @@ Vous permet de manquer de respect à Valere,
 Considerez son rang, sa gloire, et son appuy.  
 Mais quel ressentiment vous aigrit contre luy ?  
 
-    FABRICE 
+    FABRICE. 
 Seigneur, je reconnois le bonheur de Valere.  
 Mais quand j'ay vostre aveu⁎, quand j'ay celuy d'un Pere,  
 Est-ce avec ce secours manquer à mon devoir,  
@@ -2448,7 +2448,7 @@ A toutes vos bontez devient injurieuse ;
 Et cherchant sur le Trône un peu plus de grandeur,  
 Il se veut dérober à toute sa faveur.  
 
-    LE  ROY
+    LE ROY.
 Est-ce par ce motif que Valere s'emporte ?  
 Cherche-t'il à regner, et d'une ardeur si forte,  
 Qu'il expose aux périls d'un combat incertain  
@@ -2458,7 +2458,7 @@ Et daigne m'épargner de mortelles alarmes⁎.
 Regne avec moy, Valere, et calme ce transport  
 Qui met tout ce que j'aime entre les mains du Sort.  
 
-    VALERE
+    VALERE.
 Quoy, vous aussi, Seigneur, d'accord avec mon Pere,  
 Vous estes aujourd'huy contre moy pour mon Frere ?  
 Je vous verray former le glorieux projet  
@@ -2469,7 +2469,7 @@ Je verray tant de gloire ; et vous voudriez [120], Seigneur,
 Laisser à mon esprit échaper tant d'honneur ?  
 Seigneur, est-ce m'aimer ?  
 
-    LE  ROY
+    LE ROY.
         Ah! Valere , je t'aime,  
 J'en atteste le Ciel beaucoup plus que moy-méme.  
 Veux-tu quitter un Roy qui t'a mis dans son cœur ?  
@@ -2478,10 +2478,10 @@ Et t'a presque accablé de sa magnificence ?
 Quelle amitié⁎ jamais eust plus de violence ?  
 Que faut-il faire encor pour te la témoigner ?  
 
-    VALERE
+    VALERE.
 Aimer moins mon Rival, et me laisser regner.  
 
-    LE  ROY
+    LE ROY.
 Je le voy bien ingrat, vous adorez Camille ;  
 Les beautez, les grandeurs de la Cour de Sicile,  
 Ne sçauroient arrester ce cœur ambitieux ;  
@@ -2498,7 +2498,7 @@ Je te feray regner, puis que c'est ton envie ;
 Je te feray regner sans hazarder⁎ ⁎ta vie,  
 Donne-moy seulement le temps d'agir pour toy.  
 
-    VALERE
+    VALERE.
 Et cependant [121] mon Frere ira se faire Roy.  
 Pardonnez ces transports dont la chaleur vous blesse,  
 Aux vœux⁎ impétueux d'une ardente jeunesse.  
@@ -2507,39 +2507,39 @@ Mais quand vostre faveur m'oste un si grand employ,
 Puis-je estimer l'honneur d'une si haute place,  
 Et croire que l'on m'aime apres cette disgrace ?  
 
-    LE  ROY
+    LE ROY.
 Hé bien, ambitieux, abandonnez ma Cour ;  
 Fuyez vostre bonheur, mes yeux, et mon amour.  
 Soûpirez pour le Sceptre, et le cœur de Camille,  
 Mais ne vous flatez⁎ pas d'un espoir inutile :  
 Fabrice, c'est à vous que je rens cet espoir.  
 
-    FABRICE
+    FABRICE.
 Ah! Seigneur.  
 
-    LE  ROY
+    LE ROY.
         C'est assez. Vous cessez de me voir,  
 Je ne veux plus rougir de vostre ingratitude.  
 
 
-### SCENE VIII
+### SCENE VIII.
 LE ROY, MARCELLIN
 
 
-    LE ROY
+    LE ROY.
 Il fuit, et m'abandonne à mon inquietude.  
 
-    MARCELLIN
+    MARCELLIN.
 Et vous l'allez reduire au dernier desespoir.  
 
-    LE  ROY
+    LE ROY.
 Que ne se resout-il à faire son devoir ?  
 
-    MARCELLIN
+    MARCELLIN.
 Madame, est-ce y manquer, quand son grand cœur l'entraine  
 Au glorieux espoir d'acquerir une Reyne ?  
 
-    LE  ROY. 
+    LE ROY. 
 Je souffre à ce grand cœur le desir de regner ;  
 Mais ce cœur à l'Amour se peut laisser gagner ;  
 Il peut aimer Camille, et souffrir dans son ame,  
@@ -2549,107 +2549,107 @@ Dis luy tout mon amour, et tout ce que je suis ;
 Va pour finir son trouble, aussi bien que ma peine,  
 Opposer une Reyne à l'espoir d'une Reyne.  
 
-    MARCELLIN
+    MARCELLIN.
 Moy, que j'aille à ses yeux trahir vostre secret ?  
 Hazardez⁎ vostre rang.  
 
-    LE  ROY 
+    LE ROY.
         Non, Valere est discret.  
 
-    MARCELLIN
+    MARCELLIN.
 Mais enfin ce secret peut sortir de son ame.  
 
-    LE  ROY
+    LE ROY.
 Il peut aimer Camille en ignorant ma flame.  
 Hazarde⁎ ma fortune, et mets ma flame au jour ;  
 On peut vivre sans Trône, et non pas sans amour.  
 
-    MARCELLIN
+    MARCELLIN.
 Mais sans Trône avez-vous dequoy charmer⁎ Valere ?  
 
-    LE  ROY
+    LE ROY.
 Helas! pour mon amour enfin que faut-il faire ?  
 
-    MARCELLIN
+    MARCELLIN.
 Consultez Federic, Madame, c'est à luy  
 D'estre de vostre sort et l'arbitre et l'appuy.  
 
-    LE  ROY
+    LE ROY.
 Va donc à Federic ouvrir toute mon ame.  
 Qu'on ne ménage rien pour secourir ma flame ;  
 Moy je vay de Valere appaiser la douleur,  
 Empescher son depart, luy rendre ma faveur.  
 
-    MARCELLIN
+    MARCELLIN.
 Federic fait pour vous une brigue puissante ;  
 Craignez le contretemps d'une ardeur trop pressante.  
 
-    LE  ROY
+    LE ROY.
 Pour les périls du rang cesse de m'alarmer⁎;  
 S'il est doux de regner, il est plus doux d'aimer.  < Fin du second Acte. > 
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 FEDERIC, MARCELLIN
 
 
-    FEDERIC
+    FEDERIC.
 Que me dis-tu ?  
 
-    MARCELLIN
+    MARCELLIN.
         Seigneur, c'est Valere qu'elle aime.  
 
-    FEDERIC
+    FEDERIC.
 Son extréme couroux marque une amour [122] extréme.  
 Mais que ne peut oser cet amoureux transport,  
 Puis qu'elle t'a fié le secret de son sort ?  
 
-    MARCELLIN
+    MARCELLIN.
 Elle a pû sans péril m'en faire confidence ;  
 Et j'ay trop d'interest à garder le silence.  
 
-    FEDERIC
+    FEDERIC.
 Elle a pû tout fier à ta fidelité ;  
 Mais il faut plus de force, et plus de fermeté,  
 Quand par le seul secret on garde un Diadéme.  
 
-    MARCELLIN
+    MARCELLIN.
 On peut mal-aisément se taire, quand on aime.  
 
-    FEDERIC
+    FEDERIC.
 Que ne préfere-t'elle un Trône à son amour ?  
 
-    MARCELLIN
+    MARCELLIN.
 Mais puis que ce secret s'en va paroistre au jour …  
 
     FEDERIC. 
 Il n'est pas encor temps ; et l'ingrate Princesse  
 Me devoit consulter plustost que sa tendresse.  
 
-    MARCELLIN
+    MARCELLIN.
 Mais si nostre Princesse a trahy son secret.  
 
-    FEDERIC
+    FEDERIC.
 Va prévenir⁎ l'effet d'un amour indiscret.  
 Dis luy que j'auray soin d'en instruire Valere,  
 Mais d'un air qui pourra l'obliger à se taire.  
 
-    MARCELLIN
+    MARCELLIN.
 Mais Seigneur …  
 
-    FEDERIC
+    FEDERIC.
         C'est assez ; dis luy que cet amour  
 Bien-tost aux yeux de tous pourra paroistre au jour ;  
 Et qu'elle oppose enfin à tant d'impatience  
 Le péril où sa flame expose sa puissance.  
 
 
-### SCENE II
+### SCENE II.
 
-    FEDERIC *seul.*
+    FEDERIC *seul.*.
 Qu'est-ce cy, Federic ? ce n'est donc pas pour toy,  
 Ce n'est que pour ton Fils qu'on veut choisir un Roy.  
 Pour un autre que moy la Princesse soûpire ?  
@@ -2676,27 +2676,27 @@ Tu sçais, sans y penser, trop [124] aimable Valere,
 Te bien venger du choix que j'ay fait pour ton Frere.  
 
 
-### SCENE III
+### SCENE III.
 FEDERIC, OCTAVE
 
 
-    FEDERIC
+    FEDERIC.
 Octave, sçais tu bien …  
 
-    OCTAVE
+    OCTAVE.
     Quoy, Seigneur  
 
-    FEDERIC
+    FEDERIC.
         Qu'un moment  
 Renverse mon espoir.  
 
-    OCTAVE
+    OCTAVE.
         D'où vient ce changement ?  
 
-    FEDERIC
+    FEDERIC.
 La Princesse a conceu de l'amour pour Valere.  
 
-    OCTAVE
+    OCTAVE.
 Voila ce que m'apprend l'éclat qu'il vient de faire.  
 Octave, m'a-t'il dit, j'ay tout ce que je veux,  
 Ma fortune est changée, et je suis trop heureux.  
@@ -2706,45 +2706,45 @@ Quand pour vous obeïr j'ay pressé son devoir [125] ;
 Je l'avois veu reduit au dernier desespoir,  
 Murmurant contre vous, contre un Roy, contre un Frere.  
 
-    FEDERIC
+    FEDERIC.
 L'amour de la Princesse, un Trône qu'il espere,  
 Ont calmé ses ennuis⁎, et font voir dans ses yeux  
 Les superbes⁎ transports d'un espoir glorieux.  
 
-    OCTAVE
+    OCTAVE.
 Nous pouvons nous tromper ; mais sur cette apparence  
 Que pouroit vostre Fils contre vostre puissance ?  
 
-    FEDERIC
+    FEDERIC.
 Veux-tu que contre un Fils, pour garder mon espoir,  
 Je me serve en Tyran d'un absolu pouvoir,  
 Et que j'aille forcer le cœur de ma Princesse ?  
 
-    OCTAVE
+    OCTAVE.
 Hé bien, Seigneur, regnez ; obligez sa tendresse  
 De s'attacher au choix d'un Amant⁎ couronné.  
 
-    FEDERIC
+    FEDERIC.
 L'Amant⁎ qu'on aime ainsi, le crois-tu fortuné ?  
 
-    OCTAVE
+    OCTAVE.
 Hé bien, regnez sans elle, et devenez son Maistre.  
 
-    FEDERIC
+    FEDERIC.
 Ah! je hay trop les noms de parjure et de traistre,  
 Le feu Roy m'engagea d'un serment solemnel  
 De conserver sa Fille au Trône paternel ;  
 Et sans jetter sur moy l'horreur d'un infidelle,  
 Je ne puis sur son Trône oser regner sans elle.  
 
-    OCTAVE
+    OCTAVE.
 Je ne vois donc, Seigneur, qu'un moyen à tenter :  
 Découvrez vostre amour, il est temps d'éclater,  
 Appliquez tous vos soins⁎ à gagner la Princesse :  
 Peut-estre que Valere ignore sa tendresse ;  
 Elle a le cœur trop bon, pour ne la cacher pas.  
 
-    FEDERIC
+    FEDERIC.
 Qu'un Amant⁎ de mon âge a de foibles appas,  
 Et qu'un Fils est puissant contre l'amour d'un Pere!  
 Il faut en cet estat n'aimer plus, ou se taire.  
@@ -2757,10 +2757,10 @@ Ou de tant de grandeur soûtenir mon aveu⁎,
 Que tout ce qu'a d'appas la plus belle jeunesse,  
 Cede au solide éclat d'une illustre vieillesse.  
 
-    OCTAVE
+    OCTAVE.
 Faites vous promptement un sort si glorieux.  
 
-    FEDERIC
+    FEDERIC.
 Levons auparavant l'obstacle de mes vœux ;  
 Et rendant à Valere un espoir plus facile,  
 Ostons-le à la Princesse, en luy donnant Camille [126].  
@@ -2770,11 +2770,11 @@ Voicy Valere : ô Ciel! que sa joye est extréme!
 Ah! je voy bien qu'il sçait que la Princesse l'aime.  
 
 
-### SCENE IV
+### SCENE IV.
 FEDERIC, VALERE, OCTAVE
 
 
-    FEDERIC
+    FEDERIC.
 Hé bien, mon Fils, le Ciel a changé vostre sort.  
 
     VALERE. 
@@ -2786,20 +2786,20 @@ Mais il est imparfait, s'il ne me vient de vous.
 Au moment que [127] j'ay crû ma disgrace certaine,  
 On me rend tout d'un coup tout l'espoir d'une Reyne.  
 
-    FEDERIC
+    FEDERIC.
 D'une Reyne! mon Fils, *bas.* Elle a tout révelé,  
 Octave, et qui pis est, son amour a parlé.  
 
-    VALERE
+    VALERE.
 Voyez par ce billet si j'ay lieu d'y pretendre.  
 
-    FEDERIC *bas.*
+    FEDERIC *bas.*.
 De mon transport jaloux je ne me puis defendre.  
 
-    VALERE
+    VALERE.
 J'espere vostre aveu⁎, quand j'ay celuy du Roy.  
 
-    FEDERIC
+    FEDERIC.
 Du Roy, mon Fils ? tu peux tout esperer de moy.  
 
     FEDERIC *lit le billet* [128].
@@ -2810,13 +2810,13 @@ Garde mesme credit, mesme rang dans ma Cour ;
 Mais fais que Federic avant la fin du jour  
 Mette fin à ma crainte aussi bien qu'à ta peine.  
 
-    FEDERIC *continuë.*
+    FEDERIC *continuë.*.
 A Oct.
 
 La Princesse à mon Fils se promet elle-méme,  
 C'est le sens du billet ; voy son amour extréme.  
 
-    VALERE 
+    VALERE.
 Le Roy me rend Camille, achevez mon bonheur.  
 
     FEDERIC. 
@@ -2839,9 +2839,9 @@ Aime, adore une Reyne ; et contre son malheur,
 Par les soins⁎ de l'Amour, excite ta valeur.  
 
 
-### SCENE V
+### SCENE V.
 
-    VALERE *seul.*
+    VALERE *seul.*.
 Que j'adore une Reyne! à ce seul mot mon ame  
 Se sent toute embraser d'une si belle flame :  
 Un cœur ambitieux peut-il aimer ailleurs ?  
@@ -2856,17 +2856,17 @@ Mais le Roy vient. Allons embrasser ses genoux,
 Et réverer la main qui m'offre un bien si doux.   
 
 
-### SCENE VI
+### SCENE VI.
 VALERE, LE ROY, MARCELLIN
 
 
-    MARCELLIN *en entrant avec le Roy.*
+    MARCELLIN *en entrant avec le Roy.*.
 Federic m'a promis d'en éclaircir Valere.  
 
-    VALERE
+    VALERE.
 Ah! Seigneur, se peut-il …  
 
-    LE  ROY
+    LE ROY.
         Excuse ma colere,  
 J'ay crû que satisfait de toute ma faveur,  
 Tu devois renoncer à tout autre bonheur :  
@@ -2880,7 +2880,7 @@ L'orgueil d'un honeste homme, et sur tout dans la Cour
 Peut compatir [129], Valere, avec un peu d'amour :  
 L'Amour se vengera de cette indiference.  
 
-    VALERE
+    VALERE.
 J'ignore encor, Seigneur, jusqu'où va sa puissance ;  
 Et peut-estre l'orgueil dont on m'ose blâmer,  
 Peut luy seul me defendre, et m'empescher d'aimer.  
@@ -2897,64 +2897,64 @@ Je ne sçay quelle peur m'en oste l'asseurance ;
 Et quand j'ose pousser d'ambitieux soûpirs,  
 Je sens qu'elle rabat le vol de mes desirs.  
 
-    LE  ROY
+    LE ROY.
 Vous n'aviez pas tantost ces scrupules dans l'ame ;  
 Vous avez crû pouvoir justement, et sans blâme,  
 Contre mes sentimens demander un employ  
 Qui promet une Reyne, et le titre de Roy.  
 
-    VALERE
+    VALERE.
 Maintenant, si tantost j'estois trop temeraire,  
 Je voy mieux la grandeur du bonheur que j'espere ;  
 Soûtenu par mon Pere, et par vous, mon espoir  
 Frappé d'un si haut rang, n'ose se faire voir.  
 
-    LE  ROY
+    LE ROY.
 Valere a donc appris le secret de son Pere ;  
 Parlez enfin, parlez ; expliquez-vous, Valere.  
 
-    VALERE
+    VALERE.
 Mais, Seigneur …  
 
-    LE  ROY
+    LE ROY.
         Ah! c'est trop se contraindre tous deux,  
 Vous sçavez qui je suis, et je connois vos vœux.  
 
-    VALERE
+    VALERE.
 Mais ne sçavez-vous pas que mon audace extréme …  
 
-    LE  ROY
+    LE ROY.
 Esperez tout de moy, d'un Pere, et de vous-méme.  
 
-    VALERE
+    VALERE.
 Appuyé de l'aveu⁎ de vostre Majesté,  
 Dois-je croire mon Pere, et ma temerité ?  
 N'est-ce point me flater⁎ d'un espoir inutile,  
 De pretendre au bonheur d'estre aimé de Camille ?  
 
-    LE  ROY. 
+    LE ROY. 
 Quoy, vous aimez Camille ?  
 
-    VALERE
+    VALERE.
         Oüy, je l'aime, Seigneur.  
 
-    LE  ROY
+    LE ROY.
 O d'un espoir trompé trop sensible douleur!  
 
-    VALERE
+    VALERE.
 Seigneur.  
 
-    LE  ROY
+    LE ROY.
         Allez, ingrat, indigne de ma grace.  
 Ambitieux, Amant⁎, vous avez mesme audace.  
 
-    VALERE
+    VALERE.
 Quoy, cet ordre si doux écrit de vostre main ?  
 A-t'il dû me laisser un espoir incertain ?  
 Aspire hardiment à l'amour d'une Reyne,  
 Ces mots m'ont-ils flaté⁎ d'une esperance vaine ?  
 
-    LE  ROY
+    LE ROY.
 Oüy, lors que vous rendez tout mon espoir confus,  
 Si ce billet fut vray, sçachez qu'il ne l'est plus [131].  
 Vous perdez tout, ingrat, en adorant Camille :  
@@ -2962,57 +2962,57 @@ Tous les biens que le Ciel vous gardoit en Sicile,
 Tout ce que vous avez de grandeur dans ma Cour,  
 Tout a péry pour vous par cet indigne amour.  
 
-    VALERE
+    VALERE.
 Quoy, mon amour est-il digne de tant de haine ?  
 Ne m'ordonniez-vous pas d'esperer une Reyne ?  
 
-    LE  ROY
+    LE ROY.
 Non, je vous le deffens ; et mon juste transport  
 Hait vostre ingratitude à l'égal de la mort.  
 
-    VALERE
+    VALERE.
 Pour vous plaire, Seigneur, que faut-il que je fasse ?  
 
-    LE  ROY
+    LE ROY.
 Renoncer à Camille, et meriter ma grace.  
 
     VALERE. 
 Aimez-vous la Beauté dont mes yeux sont charmez⁎?  
 
-    LE  ROY
+    LE ROY.
 Je la hay, je vous hays autant que vous l'aimez [132].  
 
-    VALERE
+    VALERE.
 Quel est donc ce transport que je ne puis comprendre ?  
 
-    LE  ROY
+    LE ROY.
 Cruel, c'est ton amour qui ne veut pas l'entendre :  
 Mais pour confondre enfin ton ingrate froideur,  
 Il faut t'ouvrir moy-méme et mon sort et mon cœur.  
 Sçache donc que je suis …  
 
-    MARCELLIN
+    MARCELLIN.
         Helas! qu'allez-vous faire ?  
 
-    LE  ROY *à Valere.*
+    LE ROY *à Valere.*.
 Tu ne le sçais que trop ; sors, et fuis ma colere.  
 
-    VALERE
+    VALERE.
 Seigneur, écoutez moy.  
 
-    LE  ROY
+    LE ROY.
         Non, je n'écoute rien.  
 Laissez-moy.  
 
-    VALERE
+    VALERE.
         Ciel! quel sort est comparable au mien ?  
 
 
-### SCENE VII
+### SCENE VII.
 LE ROY, MARCELLIN
 
 
-    LE ROY
+    LE ROY.
 Voy quel est de mon sort l'injurieux caprice ;  
 Ce billet que j'ay crû me rendre un bon office,  
 Authorise Valere à trahir mon espoir.  
@@ -3021,19 +3021,19 @@ Authorise Valere à trahir mon espoir.
 Pour l'entendre sçait-il tout ce qu'il faut sçavoir ?  
 Peut-estre Federic cache encor ce mystere.  
 
-    LE  ROY
+    LE ROY.
 Tu m'as dit qu'il devoit l'expliquer à Valere.  
 Sans doute qu'il le sçait, et feint de l'ignorer,  
 Pour adorer Camille, et me la préferer.  
 Afin de le convaincre, allons faire paroistre  
 Un destin que l'ingrat feint de ne pas connoistre.  
 
-    MARCELLIN
+    MARCELLIN.
 Gardez-vous bien encor de l'aller mettre au jour,  
 C'est avec vostre rang exposer vostre amour :  
 Vostre Trône en péril, vous hazardez⁎ Valere.  
 
-    LE  ROY
+    LE ROY.
 Quoy, tousjours se cacher, soûpirer, et se taire ?  
 C'estoit peu que mon rang contraignit mes soûpirs,  
 L'Amour mesme s'oppose à ses propres desirs.  
@@ -3041,11 +3041,11 @@ Esclave d'une gloire à mon amour fatale …
 Ne voy-je pas passer ma superbe⁎ Rivale ?  
 
 
-### SCENE VIII
+### SCENE VIII.
 LE ROY, CAMILLE, MARCELLIN, FLORISE
 
 
-    LE  ROY
+    LE ROY.
 Venez, venez vanter le pouvoir de vos yeux,  
 Valere a ressenty leurs traits victorieux.  
 Vous me l'ostez, Madame, et quand ma main s'apreste  
@@ -3059,31 +3059,31 @@ Si vous perdez un Sceptre, il vous sera rendu ;
 Et pour vous consoler d'un destin si contraire,  
 Vous regnez cependant sur le cœur de Valere.  
 
-    MARCELLIN
+    MARCELLIN.
 Vous parlez en Amante⁎ au lieu d'agir en Roy.  
 
-    LE  ROY
+    LE ROY.
 Les transports de mon Sexe échapent malgré moy :  
 Mais forçons la fureur dont mon ame est saisie.  
 
-    CAMILLE *à Florise.*
+    CAMILLE *à Florise.*.
 Le Roy m'aimeroit-il ? tu vois sa jalousie.  
 Feignant d'aimer Valere, irritons son amour.  
 
-    LE  ROY
+    LE ROY.
 Madame, triomphez au milieu de ma Cour :  
 Joüissez de ma peine, et de vostre victoire ;  
 Mais au moins gardez-vous d'oublier vostre gloire ;  
 Escouter un Sujet, c'est descendre trop bas ;  
 Et c'est mal ménager l'honneur de tant d'appas.  
 
-    CAMILLE
+    CAMILLE.
 Devenez-vous si-tost à vous-méme contraire ?  
 Vous vantiez ma conqueste, et l'amour de Valere  
 Vous sembloit racheter la gloire de regner.  
 Vous paroist-il si-tost un choix à dédaigner ?  
 
-    LE  ROY
+    LE ROY.
 J'ay d'abord oublié l'orgueil du Diadéme,  
 Ce que je dois au Trône, à ma gloire, à vous-méme :  
 Mais pour me rendre enfin tout ce que je me doy,  
@@ -3111,41 +3111,41 @@ Faire un Roy d'un Sujet, ne fut jamais un crime ;
 Et j'aime mieux un choix, à qui l'on sert d'appuy,  
 Que s'il falloit monter pour aller jusqu'à luy.  
 
-    LE  ROY
+    LE ROY.
 Si vous vantez si fort cette belle victoire,  
 Vous vous ferez sans doute envier tant de gloire.  
 
-    CAMILLE
+    CAMILLE.
 On peut me l'envier, mais non pas me l'oster.  
 
-    LE  ROY
+    LE ROY.
 Une Reyne s'appreste à vous la disputer.  
 
-    CAMILLE
+    CAMILLE.
 Cette Rivale encore ne nous est pas connuë.  
 
-    LE  ROY
+    LE ROY.
 Vous la verrez bien-tost forcer sa retenuë,  
 Et contre vos appas essayer son pouvoir.  
 
-    CAMILLE
+    CAMILLE.
 Mais il est temps enfin qu'elle se fasse voir.  
 
-    LE  ROY
+    LE ROY.
 Elle se [134] fera voir trop tost pour vostre gloire.  
 
     CAMILLE. 
 Si vous la secondez à m'oster ma victoire,  
 J'ay du moins la douceur de rendre un Roy jaloux.  
 
-    LE  ROY
+    LE ROY.
 Je le suis, il est vray, mais ce n'est pas de vous.  
 Je suis jaloux d'un Homme à l'Estat necessaire ;  
 Je veux garder pour moy tout le cœur de Valere,  
 L'attacher à mon Trône, et l'interest d'autruy  
 Ne doit pas m'arracher ce glorieux appuy.  
 
-    CAMILLE
+    CAMILLE.
 Hé bien, pour le garder avecque moins de peine,  
 Sauvez-le promptement des charmes⁎ d'une Reyne ;  
 Eloignez moy d'icy pour ne hazarder⁎ rien,  
@@ -3160,11 +3160,11 @@ Vous menacent au moins, tandis qu'on me retient,
 D'oster à vostre Trône un bras qui le soustient.  
 
 
-### SCENE IX
+### SCENE IX.
 MARCELLIN, LE ROY
 
 
-    MARCELLIN
+    MARCELLIN.
 Vous voyez qu'elle agit en Amante⁎ en colere :  
 Vous, feignez de l'aimer en Rival de Valere ;  
 D'une Reyne en couroux l'ambitieux desir,  
@@ -3175,7 +3175,7 @@ Lors que vous la verrez pour vous se declarer,
 A Valere irrité vous pourrez vous montrer :  
 Pour gagner son amour ce moyen est facile.  
 
-    LE  ROY
+    LE ROY.
 Soyons donc la Rivale, et l'Amant⁎ de Camille,  
 Servons un feu caché par de fausses amours.  
 Amour, fais reüssir ce bizarre secours ;  
@@ -3183,21 +3183,21 @@ Si ma feinte à Valere oste une grande Reyne,
 Ne punis pas au moins ma flame de sa haine.  < Fin du troisième Acte. > 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 FEDERIC, OCTAVE
 
 
-    FEDERIC
+    FEDERIC.
 La Princesse s'obstine à conserver un choix  
 Que Camille a surpris, et retient sous ses loix.  
 
-    OCTAVE
+    OCTAVE.
 Laissez à vostre Fils la gloire de luy plaire.  
 
-    FEDERIC
+    FEDERIC.
 J'aime encore mon amour un peu plus que Valere.  
 Quelques soins⁎ que le sang m'inspire pour un Fils,  
 Que peut-il sur un cœur que l'Amour a surpris ?  
@@ -3208,10 +3208,10 @@ Couvrons sous ma grandeur l'horreur de mes vieux ans ;
 Et voyons si ces traits, qu'impriment les années,  
 Déplaisent sur le front des Testes couronnées.  
 
-    OCTAVE
+    OCTAVE.
 La jeunesse, Seigneur, plaist à de jeunes yeux.  
 
-    FEDERIC
+    FEDERIC.
 Un vieux Roy peut toucher des cœurs ambitieux.  
 Allons par ma presence achever l'assemblée ;  
 La Princesse en doit estre et surprise et troublée ;  
@@ -3222,11 +3222,11 @@ Qu'estant Roy, j'auray plus de part à la victoire ;
 Que ce delay pourrait trahir tout mon dessein,  
 Et que tout est facile avec un Sceptre en main.  
 
-    OCTAVE
+    OCTAVE.
 Mais regnant, au feu Roy vous estes infidelle,  
 Il faut que la Princesse …  
 
-    FEDERIC
+    FEDERIC.
         Et c'est aussi pour elle  
 Que je songe à regner, et conserver la foy  
 Du serment solemnel qu'il exigea de moy.  
@@ -3238,18 +3238,18 @@ Ces titres éclatans n'ont rien qui m'ébloüisse⁎.
 Apprens que Federic … Mais que me veut Fabrice ?  
 
 
-### SCENE II
+### SCENE II.
 FABRICE, FEDERIC, OCTAVE
 
 
-    FABRICE
+    FABRICE.
 Ah! Seigneur, est-ce ainsi qu'on traitte mon amour ?  
 C'estoit peu que Valere esperât à son tour ;  
 Ce Roy qui me flatoit⁎, et trompoit ma tendresse,  
 Rallume ses soûpirs aupres de la Princesse.  
 Contre l'amour d'un Roy que peut faire le mien ?  
 
-    FEDERIC
+    FEDERIC.
 Je te le dis encor, Fabrice ne crains rien.  
 Enfin pour ton repos je n'ay qu'un mot à dire ;  
 Je suis Pere, je t'aime, et cela doit suffire :  
@@ -3261,9 +3261,9 @@ Avant la fin du jour tu pourras tout sçavoir :
 Le temps me presse, adieu ; Va, songe à ton devoir.  
 
 
-### SCENE III
+### SCENE III.
 
-    FABRICE *seul.*
+    FABRICE *seul.*.
 Va, songe à ton devoir. Helas! ay-je dans l'ame  
 Un soucy si [137] pressant que celuy de ma flame ?  
 Quel devoir m'est plus cher que ce tendre devoir ?  
@@ -3280,11 +3280,11 @@ Et vous, dont la bonté trop sensible à ma peine …
 Mais je la voy venir.   
 
 
-### SCENE IV
+### SCENE IV.
 FABRICE, CAMILLE, FLORISE
 
 
-    FABRICE
+    FABRICE.
         Vous voyez, grande Reyne,  
 Un malheureux Amant⁎ tout d'un coup renversé  
 De ce Trône de gloire où vous l'aviez placé.  
@@ -3301,7 +3301,7 @@ Dans ce prompt changement étonne⁎ ma foiblesse ;
 Et surpris d'un retour qui vous est glorieux,  
 J'admire en soûpirant le pouvoir de vos yeux.  
 
-    CAMILLE
+    CAMILLE.
 J'ay bien crû que Fabrice en prendroit quelque allarme⁎;  
 Mais pensez-vous qu'un Roy, d'un soûpir, d'une larme,  
 Que laissent échapper d'inconstantes ardeurs,  
@@ -3329,7 +3329,7 @@ Daignez jetter les yeux sur ce cœur miserable ;
 Et sans que vostre amour puisse rougir du sien,  
 Souffrez luy des soûpirs qui n'aspirent à rien.  
 
-    CAMILLE
+    CAMILLE.
 Florise, sa douleur a pour moy tant de charmes⁎,  
 Que mon orgueil est foible à retenir mes larmes.  
 Ah! Fabrice, c'est trop, cachez moy des douleurs  
@@ -3337,7 +3337,7 @@ Plus fortes sur mes sens que mes propres malheurs.
 C'est vous en dire assez ; et le sort qui m'outrage  
 M'oste la liberté d'en dire davantage.  
 
-    FABRICE
+    FABRICE.
 Graces à mes malheurs, j'en suis trop glorieux,  
 Puis qu'ils ont fait sortir des pleurs de ces beaux yeux ;  
 Puis qu'à mes déplaisirs⁎ ma Reyne s'interesse,  
@@ -3358,21 +3358,21 @@ Ces beaux yeux qui déja pleurent mon triste sort,
 Donneront une larme au recit de ma mort.  
 Adieu, Madame.  
 
-    CAMILLE
+    CAMILLE.
         Adieu. Si le Ciel, cher Fabrice,  
 Exauce tous mes vœux, il vous fera justice.  
 
 
-### SCENE V
+### SCENE V.
 CAMILLE, FLORISE
 
 
-    FLORISE
+    FLORISE.
 Quoy, ce cœur qui tantost sembloit si genereux,  
 Va quitter pour Fabrice un Monarque amoureux,  
 Et dement tout d'un coup l'orgueil d'une Princesse ?  
 
-    CAMILLE
+    CAMILLE.
 Je doy te l'avoüer ; Fabrice a ma tendresse,  
 Et sans ce fier orgueil qui contraint mes desirs,  
 Le genereux Fabrice auroit tous mes soûpirs :  
@@ -3387,13 +3387,13 @@ Que n'as-tu mis Fabrice à la place du Roy ?
 Ou puis qu'enfin un Roy m'en doit faire justice,  
 Que ne luy donnes-tu tout l'amour de Fabrice ?  
 
-    FLORISE
+    FLORISE.
 Le Roy vient de montrer une si belle ardeur.  
 
-    CAMILLE
+    CAMILLE.
 Tu vas voir à ses feux succeder sa froideur.  
 
-    FLORISE
+    FLORISE.
 Non, non ; mais vous verrez si pres d'une victoire,  
 Qui vous va rendre un Sceptre, et toute vostre gloire,  
 Son amour menacé de vostre éloignement,  
@@ -3402,11 +3402,11 @@ Et voulant s'épargner le déplaisir⁎ extréme …
 Mais le voicy qui vient vous l'expliquer luy-méme.  
 
 
-### SCENE VI
+### SCENE VI.
 LE ROY, CAMILLE, FLORISE [141]
 
 
-    LE  ROY
+    LE ROY.
 Madame, je reviens ou toucher vostre cœur,  
 Ou mourir à vos pieds d'amour et de douleur.  
 Quand contre vos mutins pressant vostre vengeance,  
@@ -3422,10 +3422,10 @@ Le Dieu de mon amour est-il impitoyable ?
 Et fera-t'il périr l'espoir de mes desirs,  
 Le fruit de tant de maux, et de tant de soûpirs ?  
 
-    CAMILLE
+    CAMILLE.
 Florise, j'aurois tort de douter de sa flame.  
 
-    LE  ROY
+    LE ROY.
 Ah! si vous connoissiez les tourmens de mon ame,  
 Vous ne laisseriez pas, malgré tout mon pouvoir,  
 Au bienheureux Valere un glorieux espoir.  
@@ -3435,13 +3435,13 @@ Si vous aviez pour luy cette extréme rigueur,
 Vous seriez moins aimée, et je serois sans peur.  
 Vous ne me dites rien ?  
 
-    CAMILLE
+    CAMILLE.
         Que pourray-je vous dire ?  
 Quand je vois un grand Roy qui brûle et qui soûpire,  
 Il n'est pas malaisé d'expliquer mes desirs,  
 Si j'ose en ma faveur expliquer vos soûpirs.  
 
-    LE  ROY
+    LE ROY.
 En vain d'un doux espoir vous me flatez⁎, Madame,  
 Si Valere ose encor pretendre à vostre flame ;  
 Je doy vous l'avoüer, Valere a des appas,  
@@ -3452,7 +3452,7 @@ Je ne veux point icy surprendre vostre cœur ;
 J'implore pour ce choix toute vostre faveur ;  
 Et tout Roy que je suis, ce grand Rival m'étonne⁎.  
 
-    CAMILLE
+    CAMILLE.
 Qu'est-ce qui vous fait craindre un Rival sans Couronne ?  
 Parce que vous l'aimez, présumez vous, Seigneur,  
 Que nous avons pour luy mémes yeux, méme cœur ?  
@@ -3461,14 +3461,14 @@ Et vous connoissez mal la fierté d'une Reyne.
 Je vay par tant d'orgueil rabatre ses soûpirs,  
 Qu'il pourra vous venger de tous vos déplaisirs⁎.  
 
-    LE  ROY
+    LE ROY.
 Allez, Madame, allez ; et moy plein d'esperance,  
 Je vay d'un prompt effort haster vostre vengeance.  
 
 
-### SCENE VII
+### SCENE VII.
 
-    LE ROY *seul.*
+    LE ROY *seul.*.
 Pardonne, cher Valere, à ce déguisement [143] ;  
 Je t'arrache une Reyne, ambitieux Amant⁎:  
 Mais je te rens aussi Couronne pour Couronne.  
@@ -3479,39 +3479,39 @@ Elle songe à regner, et je songe à te plaire ;
 Elle aime ton pouvoir, je n'aime que Valere.  
 
 
-### SCENE VIII
+### SCENE VIII.
 LE ROY, MARCELLIN
 
 
-    LE  ROY
+    LE ROY.
 Marcellin, c'en est fait ; et Camille est pour moy ;  
 Valere est dans son cœur trop foible contre un Roy ;  
 Je n'ay plus rien à craindre, il est temps de paroistre.  
 
-    MARCELLIN
+    MARCELLIN.
 En vain vous cacheriez ce qu'on vient de connoistre :  
 Madame, en plein Conseil l'Admiral a tout dit.  
 Mais vous sçavez quel est son zele, et son credit ;  
 Federic est pour vous ; cessez d'estre surprise.  
 
-    LE  ROY
+    LE ROY.
 Quoy, sans m'en advertir, presser cette entreprise ?  
 J'ay crû qu'on s'assembloit pour le prochain combat.  
 
-    MARCELLIN
+    MARCELLIN.
 Il a trouvé le temps propre à ce grand éclat.  
 
-    LE  ROY
+    LE ROY.
 Son zele m'est connu ; cessons, cessons de craindre ;  
 Regnons sans imposture, aimons sans nous contraindre ;  
 Allons sans plus tarder mettre ma flame au jour.  
 Et couronner enfin Valere, et mon amour.  
 Mais quel trouble s'oppose aux ardeurs de ma flame ?  
 
-    MARCELLIN
+    MARCELLIN.
 Qu'est-ce qui vous retient ? que [144] tardez-vous, Madame ?  
 
-    LE  ROY
+    LE ROY.
 Je sens je suis Reyne en ce fatal instant ;  
 Et me voyant enfin sur ce Trône éclatant,  
 Veux-tu que j'aille dire à mon Sujet que j'aime ?  
@@ -3533,26 +3533,26 @@ Il me vient maintenant de mâles sentimens ;
 Et quand mon foible Sexe est forcé de parestre,  
 Je me sens devenir ce que je cesse d'estre.  
 
-    MARCELLIN
+    MARCELLIN.
 Mais vaincrez-vous un feu si long-temps combatu ?  
 
-    LE  ROY
+    LE ROY.
 Je ne te répons pas de ma foible vertu⁎;  
 J'en auray pour le moins pour garder le silence.  
 
-    MARCELLIN
+    MARCELLIN.
 A Valere déja j'en ay fait confidence ;  
 J'ay crû vous obliger par ce zele indiscret.  
 
-    LE  ROY
+    LE ROY.
 Qu'as-tu fait ? A Valere ouvrir ce grand secret ?  
 
-    MARCELLIN
+    MARCELLIN.
 Tout estant découvert, j'ay crû le pouvoir faire ;  
 Mais si je l'ay flaté⁎ d'un bien imaginaire,  
 Je vay le détromper.  
 
-    LE  ROY
+    LE ROY.
         Arreste, Marcellin,  
 Je voy bien qu'il faudra se rendre à mon destin [145],  
 Et que j'oppose en vain mon orgueil à ma flame.  
@@ -3565,7 +3565,7 @@ Et qu'enfin ton aveu⁎ soulage ma pudeur
 De l'indigne soucy d'expliquer mon ardeur.   
 
 
-### SCENE IX
+### SCENE IX.
 VALERE, LE ROY, MARCELLIN
 
 
@@ -3575,10 +3575,10 @@ Le Ciel venge ma gloire, et punit une ingrate ;
 Et mon ambition, par un change⁎ bien doux,  
 Va retrouver ailleurs plus qu'il ne perd en vous.  
 
-    LE  ROY
+    LE ROY.
 Ah! tout mon cœur s'émeut à l'aspect⁎ de Valere.  
 
-    VALERE
+    VALERE.
 Dois-je croire au rapport que l'on vient de me faire ?  
 Madame, se peut-il que mes yeux et mon cœur  
 Se soient laisser charmer⁎ d'une si longue erreur ?  
@@ -3587,17 +3587,17 @@ Rend mes sens incertains, et ma foy chancelante.
 Mais puis-je encor douter, voyant briller en vous  
 Tout ce que le beau Sexe a de charmes⁎ pour nous ?  
 
-    LE  ROY
+    LE ROY.
 Il n'en faut plus douter, ma bouche vous l'assure.  
 
-    VALERE
+    VALERE.
 J'admire vostre sort ; mais dans cette avanture  
 Un prodige plus grand fait mon étonnement⁎:  
 Quand je découvre en vous un objet si charmant⁎,  
 Un merveilleux⁎ transport suit cette connoissance ;  
 J'en prens … mais mon respect⁎ me condamne au silence.  
 
-    LE  ROY
+    LE ROY.
 Parlez, parlez, Valere, et me faites sçavoir  
 Si Camille tousjours est vostre unique espoir.  
 
@@ -3616,7 +3616,7 @@ Mais las [147]! vous vous troublez, Madame, pardonnez
 Des transports qu'en secret j'ay déja condamnez.  
 Ah! cruel Marcellin, est-ce ainsi qu'on me joue ?  
 
-    LE  ROY
+    LE ROY.
 Non, Valere; et bien loin que je le desavouë,  
 Il m'épargne un aveu⁎ qui m'auroit trop cousté ;  
 Je ne vous cache rien sous ce Sexe emprunté ;  
@@ -3631,7 +3631,7 @@ Mon orgueil me doit bien pardonner cet aveu⁎:
 Six ans entiers d'ennuis⁎, de crainte, et de silence,  
 Ont sans doute à ma flame acquis cette licence.  
 
-    VALERE
+    VALERE.
 J'accepte avec transport ce surprenant [148] espoir.  
 Donc, Madame, six ans n'ont pû me faire voir  
 Ce Trône glorieux que j'avois dans vostre ame ;  
@@ -3645,52 +3645,52 @@ Et qu'une telle erreur m'a volé de plaisirs!
 Ah! si depuis le temps que vous n'osez paroistre …  
 
 
-### SCENE X
+### SCENE X.
 LE ROY, OCTAVE, VALERE, MARCELLIN
 
 
-    LE ROY
+    LE ROY.
 Quel est ce trouble, Octave ?  
 
-    OCTAVE
+    OCTAVE.
         On vient de vous connoistre.  
 
-    VALERE
+    VALERE.
 Ce mal est-il si grand ?  
 
-    OCTAVE
+    OCTAVE.
     Ah! Seigneur.  
 
-    LE  ROY
+    LE ROY.
         Qu'est-ce enfin ?  
 
-    OCTAVE
+    OCTAVE.
 Vous cessez de regner en changeant de destin.  
 
-    LE  ROY
+    LE ROY.
 O Ciel!  
 
-    VALERE
+    VALERE.
     Qu'entens-je ?  
 
-    OCTAVE
+    OCTAVE.
         En vain par faveur, par adresse,  
 Federic veut gagner le Peuple, et la Noblesse ;  
 En vain il a vanté le seul sang de nos Rois ;  
 Tout le monde s'attache à la rigueur des Loix.  
 
-    VALERE
+    VALERE.
 Hé! qu'a fait Federic contre un Peuple rebelle ?  
 
-    OCTAVE
+    OCTAVE.
 Il a perdu ses soins⁎, son credit, et son zele.  
 
-    LE  ROY
+    LE ROY.
 Le Sort qui vous flatoit⁎, s'obstine à vous trahir ;  
 Valere, et vostre espoir, vient de s'évanoüir.  
 Vous aimiez une Reyne, et je cesse de l'estre.  
 
-    VALERE
+    VALERE.
 Non, non, vous regnerez, et vous serez sans Maistre :  
 Madame, cette Loy n'est pas faite pour vous ;  
 Et si de ces abus nos Peres trop jaloux  
@@ -3710,7 +3710,7 @@ L'adresse, non la force, évite la tempeste,
 Et le bras sur le Trône agit moins que la teste [151].  
 Mais qui destine-t'on au Trône de nos Rois ?  
 
-    OCTAVE
+    OCTAVE.
 J'ay laissé le Conseil opinant sur ce choix ;  
 Et comme j'en sortois, la nouvelle est venuë  
 Que déja l'ennemy s'offroit à nostre veuë,  
@@ -3718,7 +3718,7 @@ Que Roger approchoit, et menaçoit nos bords⁎,
 Et qu'il falloit enfin prévenir⁎ ses efforts,  
 Avant que de songer à se choisir un Maistre.  
 
-    VALERE
+    VALERE.
 Meure quiconque aura l'ambition de l'estre :  
 Que l'Estat ébranlé par ses grands mouvemens  
 Se renverse aujourd'huy jusqu'à ses fondemens,  
@@ -3729,65 +3729,65 @@ Allons contre Roger tenter ce grand combat ;
 Et de ce bras vengeur du Trône de Camille,  
 Je reviens vous placer dans celuy de Sicile.  
 
-    LE  ROY
+    LE ROY.
 Je prise peu ce rang, si Valere est pour moy ;  
 Mais Valere perd tout, à moins que d'estre Roy.  
 
-    VALERE
+    VALERE.
 C'est pour vous seulement que j'en cherche la gloire.  
 
-    LE  ROY
+    LE ROY.
 Camille pour regner n'attend qu'une victoire.  
 
-    VALERE  
+    VALERE.
 Camille en me quittant est trop à dédaigner ;  
 Et je vay la servir, pour vous faire regner.  
 
-    LE  ROY
+    LE ROY.
 Mais ayez soin⁎des jours plus chers que mon Empire.  
 
-    VALERE
+    VALERE.
 Mes jours me sont moins chers que le bien où j'aspire.  
 
-    LE  ROY
+    LE ROY.
 De vos seuls interests tout mon cœur est jaloux.  
 
-    VALERE
+    VALERE.
 Je ne veux vivre, vaincre, et mourir que pour vous.  < Fin du quatrième Acte. > 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 MARCELLIN, CAMILLE, FLORISE
 
 
-    MARCELLIN
+    MARCELLIN.
 C'est à quoy l'obligeoit la Puissance supréme ;  
 Yoland [152] est son nom, et bien-tost elle-méme  
 Viendra vous excuser un tel déguisement.  
 
-    CAMILLE
+    CAMILLE.
 Pour son seul interest je m'en plains seulement,  
 Puis qu'enfin Federic en a tout l'avantage.  
 
-    MARCELLIN
+    MARCELLIN.
 Il regne dans ces lieux par le commun suffrage ;  
 Mais lors que le Conseil précipite ce choix,  
 Pour appaiser le Peuple, on obeït aux Loix.  
 Si pres d'un grand combat ayant besoin d'un Maistre …  
 
-    CAMILLE
+    CAMILLE.
 Il en usera bien, estant digne de l'estre.  
 Va, dis luy de ma part que je plains son malheur.   
 
 
-### SCENE II
+### SCENE II.
 CAMILLE, FLORISE
 
 
-    CAMILLE
+    CAMILLE.
 Helas! je sens le mien avec plus de douleur.  
 Que de trouble, Florise! Un Roy cesse de l'estre ;  
 On donne une Bataille, on change icy de Maistre ;  
@@ -3802,7 +3802,7 @@ Ce Roy s'évanouït, je tremble pour ma gloire ;
 Et reglant mon espoir sur un tel changement,  
 D'un combat hazardeux⁎ je crains l'évenement.  
 
-    FLORISE
+    FLORISE.
 Par là le Sort vous fait une foible menace ;  
 D'un Roy qui vous vengeoit, Federic prend la place ;  
 Pour le bras d'une Fille, il vous offre le sien ;  
@@ -3811,7 +3811,7 @@ Ses deux illustres Fils aident vostre victoire ;
 L'un le doit pour sa flame, et l'autre pour sa gloire :  
 Vous sçavez que Fabrice a tant d'ardeur pour vous …  
 
-    CAMILLE
+    CAMILLE.
 Je le sçais, et j'en sens un transport assez doux ;  
 Je sens que c'est un bien que mon malheur me laisse,  
 De pouvoir me livrer à toute ma tendresse.  
@@ -3823,11 +3823,11 @@ Déja ce grand amour est si fort sur mon cœur,
 Que je crains … mais il vient, et peut-estre en vainqueur.  
 
 
-### SCENE III
+### SCENE III.
 FABRICE, CAMILLE, FLORISE
 
 
-    FABRICE
+    FABRICE.
 Madame, c'en est fait, vous avez la victoire ;  
 Au bras d'un nouveau Roy vous [153] devez cette gloire ;  
 Nous l'avons veu combattre avec tant de chaleur,  
@@ -3847,7 +3847,7 @@ Qui couronne mon Pere, et m'oste un grand Rival ;
 Parmy tant de douceurs que le Ciel nous envoye,  
 C'est vostre seul bonheur qui fait toute ma joye.  
 
-    CAMILLE
+    CAMILLE.
 Prince, vostre bonheur me touche également ;  
 Et pour ne rien cacher d'un si doux sentiment,  
 Je dois vous avoüer, qu'icy toute ma gloire,  
@@ -3863,15 +3863,15 @@ D'un Roy vostre Rival il fait une Princesse ;
 Il fait de vostre Pere un Monarque, un vainqueur,  
 Et par ces beaux degrez il vous met dans mon cœur.  
 
-    FABRICE
+    FABRICE.
 Ah! Madame, est-il vray ce que je viens d'entendre ?  
 Jusqu'à cette bonté ma Reyne a pû descendre ?  
 
-    CAMILLE 
+    CAMILLE.
 Mais puis-je vous donner mon Trône avec mon cœur ?  
 Et puis-je pleinement m'asseurer ce bonheur ?  
 
-    FABRICE
+    FABRICE.
 Roger estant défait, tout vous devient facile.  
 Des Deputez de Naple ont abordé cette Isle,  
 Qui regardant de loin le succés du combat,  
@@ -3882,17 +3882,17 @@ Mais il paroist, Madame, et vous allez sçavoir
 Tout ce qu'ont fait pour vous son zele et son devoir.   
 
 
-### SCENE IV
+### SCENE IV.
 CAMILLE, FEDERIC, FABRICE, FLORISE
 
 
-    CAMILLE
+    CAMILLE.
 Par quels remercimens faut-il que je m'acquitte ?  
 Seigneur, ce que le Ciel donne à vostre merite,  
 Ce Trône dont il a prévenu vos exploits,  
 Suffit-il pour payer celuy que je vous dois ?  
 
-    FEDERIC 
+    FEDERIC.
 La Fortune m'accable; et peut-estre, Princesse,  
 Répondra-t'elle mal au desir qui me presse ?  
 Au moment qu' elle rend tous mes desirs contens [154],  
@@ -3934,20 +3934,20 @@ A ce Monstre mourant je m'arrache avec peine ;
 Luy qui craint d'estre pris, s'élance dedans l'eau,  
 Et son orgueil périt dans ce vaste tombeau.  
 
-    CAMILLE
+    CAMILLE.
 C'est par ce dernier coup que vous vengez ma gloire.  
 
-    FEDERIC
+    FEDERIC.
 Mais voyez ce qui suit cette grande victoire.  
 Au nom de vos Subjets ils députent vers moy ;  
 Et me voyant vainqueur, ils me veulent pour Roy.  
 Quoy! vous vous alarmez⁎, ce discours vous étonne⁎.  
 
-    CAMILLE
+    CAMILLE.
 Non, non, vostre valeur a conquis ma Couronne ;  
 Le droict d'en disposer, Seigneur, n'est plus à moy.  
 
-    FEDERIC
+    FEDERIC.
 Mais est-ce à vos Subjets à se choisir un Roy ?  
 Est-ce à moy de joüir d'une telle injustice ?  
 C'est de leur politique un grossier artifice,  
@@ -3964,23 +3964,23 @@ Ne le refusez pas pour un autre vous-méme,
 Mon Estat et mon cœur me demandant ce choix ;  
 Et c'est dans vostre sang qu'il faut choisir des Rois.  
 
-    FEDERIC
+    FEDERIC.
 Ah! qu'un si digne aveu⁎… Mais j'aperçoy Valere.  
 
 
-### SCENE V
+### SCENE V.
 FEDERIC, VALERE, CAMILLE, FABRICE, FLORISE
 
 
-    FEDERIC
+    FEDERIC.
 Viens, approche mon Fils, et d'une main si chere  
 De ton illustre amour vient recevoir le prix.  
 Quoy, je vous voy tous trois également surpris ?  
 
-    CAMILLE
+    CAMILLE.
 Ah! Seigneur, permettez …  
 
-    VALERE
+    VALERE.
         Ne craignez rien, Madame.  
 Vous sçavez quel estoit le motif de ma flame ;  
 Apres vos traittemens, dont je suis trop confus,  
@@ -3990,52 +3990,52 @@ Seigneur, et son amour me préfere Fabrice :
 Mais j'ay dans ce moment, si vous y consentez,  
 Dequoy me consoler de toutes ses fiertez.  
 
-    FABRICE  *bas.*
+    FABRICE *bas.*.
 Que j'aime son couroux!  
 
-    FEDERIC
+    FEDERIC.
         Ah! mon Fils. Ah! Madame.  
 Quel est donc mon espoir ?  
 
-    CAMILLE
+    CAMILLE.
         Quel soin⁎ trouble vostre ame ?  
 Fabrice comme luy n'est-il pas vostre sang ?  
 Seigneur, en sa faveur disposez de mon rang ;  
 Je vois avec plaisir l'ambitieux Valere  
 Ceder une Couronne en faveur de son Frere.  
 
-    VALERE
+    VALERE.
 Je vois avec plaisir que mon Frere a dequoy  
 Consoler vostre orgueil de la perte d'un Roy.  
 
-    CAMILLE
+    CAMILLE.
 Il suffit que Fabrice a merité de l'estre ;  
 J'aime mieux faire un Roy, qu'avoir un Roy pour Maistre.  
 
-    VALERE
+    VALERE.
 Dans le choix que j'ay fait je trouve tant d'appas …  
 
-    CAMILLE
+    CAMILLE.
 Mais avoüez au moins qu'un Trône n'en est pas.  
 
-    VALERE
+    VALERE.
 A tant d'appas le Roy sera juste et fidele ;  
 Il doit tout à ma Reyne, et n'est Roy que pour elle.  
 
-    FEDERIC
+    FEDERIC.
 Je luy doy tout, mon Fils, *bas* et c'est là ton malheur :  
 Mais il est temps enfin de le tirer d'erreur.  
 Mon Fils … Mais j'aperçoy le sujet de ma flame.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 YOLAND, CAMILLE, FEDERIC, VALERE, FABRICE, MARCELLIN, FLORISE
 
 
-    YOLAND *à Camille.*
+    YOLAND *à Camille.*.
 Me pardonnerez-vous …  
 
-    CAMILLE
+    CAMILLE.
         Oublions tout, Madame.  
 
     YOLAND. 
@@ -4043,10 +4043,10 @@ Vous me voyez encor sous ce déguisement ;
 Honteuse de souffrir un triste changement,  
 Je me cache à moy-méme …  
 
-    FEDERIC
+    FEDERIC.
         Excusez, grande Reyne …  
 
-    YOLAND
+    YOLAND.
 Me rendez-vous déja le nom de Souveraine ?  
 Monté dans ce haut rang par vostre propre choix,  
 Plustost que par le droict que vous donnent les Loix ;  
@@ -4055,19 +4055,19 @@ Parlez, quel jugement enfin en dois-je faire ?
 Dois-je honorer en vous cette grande action,  
 Et donner un beau nom à vostre ambition ?  
 
-    FEDERIC
+    FEDERIC.
 Vous le pouvez, Madame, et mon obeïssance  
 S'est conservée entière avec tant de puissance.  
 Par mes profonds respects⁎, Madame, connoissez …  
 
-    YOLAND
+    YOLAND.
 Je vous connois enfin, Federic, c'est assez.  
 Que ne vous dois-je point ?  
 
-    VALERE
+    VALERE.
         Tu triomphes, ma flame.  
 
-    FEDERIC
+    FEDERIC.
 Vous ne me devez rien, connoissez mieux mon ame.  
 Je devrois en cedant le souverain pouvoir,  
 Le rendre tout entier à mon juste devoir ;  
@@ -4076,10 +4076,10 @@ Et peut-estre ce cœur (il est temps de le dire)
 Oüy peut-estre ce cœur qui cede un bien si doux,  
 Ne le rend qu'à l'espoir de regner avec vous.  
 
-    VALERE
+    VALERE.
 O Ciel!  
 
-    YOLAND
+    YOLAND.
     Quoy ? Federic.  
 
     FEDERIC. 
@@ -4108,7 +4108,7 @@ Et qu'à vous l'expliquer j'aurois mauvaise grace,
 Si le premier soûpir qui vous montre ma foy,  
 Ne sortoit de mon cœur par la bouche d'un Roy.  
 
-    YOLAND
+    YOLAND.
 C'est là le beau pretexte, et le noble artifice  
 De vostre ambition, et de vostre injustice.  
 Ces éclats de vertu⁎ que vous m'avez fait voir,  
@@ -4122,7 +4122,7 @@ Aime moy sans Couronne, et fais rougir ton Pere ;
 Je beniray du Sort l'aimable trahison,  
 Si du Trône mon cœur te peut faire raison.  
 
-    VALERE
+    VALERE.
 Madame, j'ay pour vous un respect trop sincere,  
 Pour vous cacher icy qu'un Trône a pu me plaire ;  
 Et qu'un autre qu'un Pere apprendroit aujourd'huy  
@@ -4137,22 +4137,22 @@ Madame, triomphez du Sort qui nous outrage ;
 Vous Fabrice, regnez, quand j'en perds l'avantage.  
 Je borne mes desirs à ce choix glorieux.  
 
-    FABRICE
+    FABRICE.
 Ce choix peut contenter les plus ambitieux.  
 
-    FEDERIC
+    FEDERIC.
 Ciel! qu'est-ce que je vois ? nostre grande Princesse  
 Prefere à sa fortune une indigne tendresse ?  
 Elle fait d'un Empire un genereux mépris,  
 Et mon Trône vaut moins que l'amour de mon Fils.  
 
-    YOLAND
+    YOLAND.
 A cent Trônes mon cœur préfereroit Valere.  
 Ne soyez point jaloux d'un Fils qu'on vous préfere ;  
 Il est glorieux d'avoir donné le jour  
 A qui sçait mieux qu'un Roy meriter mon amour.  
 
-    FEDERIC
+    FEDERIC.
 Mon Fils, et vostre amour, n'auront pas la victoire ;  
 Ce cœur qui fut tousjours amoureux de la gloire,  
 Qui du Trône et de vous ne se sent enflamé  
@@ -4174,22 +4174,22 @@ Recevez de mon Fils la qualité de Reyne ;
 Et puis que le beau Sexe est sujet parmy nous,  
 Vous regnerez par luy, comme il regne par vous.  
 
-    YOLAND
+    YOLAND.
 Ah! d'un si digne Fils illustre et digne Pere.  
 
-    VALERE
+    VALERE.
 Ah! Roy trop genereux. Ah! trop heureux Valere.  
 
-    FABRICE
+    FABRICE.
 Ah! Seigneur.  
 
-    CAMILLE
+    CAMILLE.
         Vous comblez nos souhaits les plus doux.  
 
-    YOLAND
+    YOLAND.
 N'estoit-ce pas assez de regner apres vous ?  
 
-    FEDERIC
+    FEDERIC.
 Non, non, je puis regner en un autre moy-mesme ;  
 Puis que mon Fils vous aime autant que je vous aime,  
 Souffrez que mes transports s'expliquent par les siens,  
@@ -4223,12 +4223,12 @@ Errata
 P. 48 v.2 veu. *Lis* crû. P. 52 v.15 grandeu. *lis.* Grandeurs. P. 53 flatez, *lis.* Flatiez. P. 41 v.18 dessein, *lis.* Destin.
 
 
-# Glossaire
+# Glossaire.
 
 Un certain nombre de mots de la langue du XVII*e* siècle avaient, en plus du sens actuel, un sens différent de celui qu'ils ont aujourd'hui. On trouvera ci-dessous ceux utilisés dans la pièce.AlarmeVive inquiétude, appréhension (« …toutes sortes d'appréhensions bien ou mal fondées. » Furetière)V. 712, 1197, 1209.Alerte militaireV. 222.De même pour le verbe *alarmer* : alerter dans le domaine militaire (v. 404) et donner une vive inquiétude, une appréhension (v. 87, 366, 789, 1166, 1586, 1621).Amant(e)Qui aime et est aimé(e)V. 141, 348, 506, 522, 614, 857, 986, 1114, 1118, 1183.Mais on trouve aussi le sens de « celui (ou celle) qui aime »V. 858, 870.AmitiéAffectionV. 100, 728, 749, 942.Amour (« On le dit en matière d'amour. » Furetière)V. 1211, 1418.AppareilÉquipageV. 221, 310.AspectVueV. 1381.AveuAction d'avouer (en particulier un sentiment amoureux)V. 85, 360, 496, 582, 584, 878, 1375, 1411, 1420.Approbation, autorisationV. 347, 361, 384, 468, 549, 552, 677, 679, 692, 697, 901, 979, 1185, 1637.AvisNouvelles que l'on reçoit.V. 190.Bord« En termes de Marine, signifie un navire ». Furetière.V. 1467.ChampEndroit où se livre une bataille, lieu d'un combat singulierV. 311.ChangeInconstance en matière d'amour.V. 1379.CharmesPouvoirs magiques, sortilègeV. 83, 84.Attraits envoûtants en matière d'amourV. 574, 1210, 1708.De même pour le verbe *charmer* : envoûter en matière d'amour (v. 88, 644, 734, 737, 779, 873, 1003, 1703) et envoûter par un pouvoir magique (v. 1384) et pour l'adjectif *charmant* : doté d'attraits envoûtants en matière d'amour (v. 1392).Déplaisir(s)Chagrin, tristesse, désespoirV. 4, 188, 738, 1229, 1269, 1312.ÉblouirAveuglerV. 1153, 1309.EnnuisTourment, souffrance, chagrinV. 196, 769, 849, 1421.ÉtonnerFrapper de stupéfaction (frapper du « tonnerre »), effrayerV. 345, 1194, 1305, 1586, 1621.De même pour l'adjectif *étonnant*, stupéfiant (v. 433, 1193, 1385) et pour le substantif *étonnement*, surprise, stupéfaction (v. 1391). ÉtrangeRare, surprenant, extraordinaireV. 82.FlatterTromper, abuser, se bercer d'illusionsV. 275, 385, 528, 531, 539, 577, 616.FavoriserV. 370, 376, 1443.ApaiserV. 577.De même le verbe *se flatter*, s'illusionner (v. 617, 1595).FranchiseLiberté. « En ce sens, il n'a guère d'usage qu'en poésie et en parlant d'amour. » FuretièreV. 1106.HasarderRisquer, courir le risque de.V. 130, 642, 744, 774, 777, 1025, 1099.De même le substantif *hasard*, risque (v. 388, 1452) et l'adjectif *hasardeux*, risqué, incertain (v. 1512).HeurBonheurV. 158.InégalitéInconstance (dans le comportement)V. 1203.ManderFaire savoir, annoncerV. 396.MaîtresseCelle qui est aiméeV. 338, 945.MerveilleChose rare, extraordinaire, surprenanteV. 1385.De même l'adjectif *merveilleux*, qui surprend, étonnant, rareV. 1393.PrévenirEmpêcher, prendre les devantsV. 192, 384, 806, 1468, 1644.RespectConsidération pour une chose jugée bonne avec le souci de ne pas y apporter atteinteV. 1175, 1394.Considération, motifV. 179, 342, 356.Au pluriel : égardsV. 589, 1679.SoinAttentionsV. 72, 144, 452, 924, 955, 1431.Souci (sens très fréquent au XVII*e* siècle).V. 112, 116, 523, 1065, 1127, 1254, 1442, 1650.SuperbeOrgueilleux, fier V. 850, 1030, 1716.TimiditéFaculté à éprouver de la crainte, pusillanimitéV. 235.VertuForce morale, grandeur d'âmeV. 553, 1073, 1360, 1453, 1456, 1540, 1629, 1715, 1776.VisionIdée chimériqueV. 661.VœuxAppel amoureux, désir d'être aiméV. 530, 580.
 
 
-# Bibliographie sommaireIphis et Ianthe
+# Bibliographie sommaire.Iphis et Ianthe
 La Sœur généreuse
 Ulysse dans l'isle de Circé ou Euriloche foudroyé
 Tyridate

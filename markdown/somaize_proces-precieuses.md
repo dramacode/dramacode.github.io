@@ -32,7 +32,7 @@ MADAME,
 Je te donne icy un Procez, dont le sujet est si nouveau, que malgré toute l'antiquité de la chicane, on n'en avoit point encore veu de semblable au Palais : il s'y est fouré comme en son païs natal, & bien qu'il soit né dans un lieu fort tranquille, il n' pas laissé de passer dans celuy du trouble & de l'embaras. En vain j'ay tasché ar raison de le retenir, la demangeaison d'avoir ton jugement m'a forcé de l'exposer à recevoir de toy un Arrest moins favorable que celuy que mes amis en ont porté. Je n'en appelleray point, & ne croiray pas mesme que tu me fasses d'injustice en le condamnant : mais comme tu peux luy estre contraire par plusieurs raison, il me semble assez juste de te dire ce que la liberté du Poëme Burlesque y a rendu raisonnable ; qui est premierement l'expression qui dans ces sortes de Comedies, fait une partie du plaisant, & reçoit toutes sortes de façons de parler. Le sujet en suitte qui dépend entierment de l'imagination, & qui n'a besoin pour estre receu que du passe-port de la vraye-semblance. Il seroit besoin icy de faire un long discours pour expliquer ce que c'est que vraye-semblance ; mais pour te le dire en deux mots, c'est tout ce qui, bien qu'extraordinaire par sa nouveauté, tombe neantmoins assez dessous les sens pour persuader à l'esprit que cela peut arriver sans renverser l'ordre estably dans le cours des Choses. Ce qui despend souvent bien plus de l'arengement des actions, que des actions mesme. Peut-estre m'accuseras-tu d'y avoir manqué precipitant en un jour un procez, qui selon la coustume des Modernes dure pour l'ordinaire des six mois : mais le Theatre peut bien donner cette licence, puisque la raison & l'utilité voudroient qu'ils ne fussent pas plus longs, outre que cecy estant plutost un Arbitrage en forme, qu'un Jugement reglé. Il ne faut pas s'estonner qu'il aille si viste, aussi n'est-ce pas là dequoy je veux le plus me deffendre, & les Scenes deliées qui sont presentement tout à fait condamnées dans les pieces regulieres, & que j'ay laissé passer dans cette Comedie, me fourniroient une ample matiere, d'apporter quantité d'excuses, ce que je ne feray pourtant pas, croyant qu'elles ne sont pas tout à fait condamnables dans une Piece burlesque, qui est proprement un ouvrage ou tout est permis, pourveu qu'il fasse rire. Comme je te l'ay donné pour te divertir, je te pris si tu ne le trouves pas assez plaisant de te donner quelque jour de patience, j'en exposeray un autre à ta censure qui pourra reparer les defaut de celluy cy ? ce sera la Pompe funebre d'une Pretieuse, avec toutes les ceremonies de ce fameux Convoy ; que ces termes de lugubres et funestes ne t'espouvantent point, car je puis t'asseurer que cét Enterrement n'aura rien de triste que son nom.
 
 
-# ACTEURS
+# ACTEURS.
  – RIBERCOUR,Gentihomme Manceau & député de ce Païs.
  – ROGUESPINE,Son Valet.
  – THEOCRITE,Professeur és langues Espagnole, Italienne & Françoise.
@@ -49,17 +49,17 @@ La Scene est à Paris.
 
 
 
-# LE PROCEZ DES PRETIEUSES *Comédie en vers Burlesques.* [i]
+# LE PROCEZ DES PRETIEUSES *Comédie en vers Burlesques.* [i].
 
 
-## Acte I
+## Acte I.
 
 
 ### SCENE PREMIERE.
 PATRICE, EPICARIE.
 
 
-    EPICARIE, *(en appellant Patrice.)*
+    EPICARIE, *(en appellant Patrice.)*.
 Hem, ou courez-vous de ce pas ?  
 
     PATRICE.
@@ -558,7 +558,7 @@ Quelque langage pretieux,
 Vous n'auriez bien-tost, que je pense,  
 Qu'à rengaigner vostre science.  
 
-    ROGUESPINE *(à part.)*
+    ROGUESPINE *(à part.)*.
 Je croy que mon maistre aujourd'huy  
 A rencontré plus fou que luy.  
 
@@ -615,7 +615,7 @@ Entrons donc pour l'entretenir.
 
 ### SCENE IV.
 
-    ROGUESPINE *seul.*
+    ROGUESPINE *seul.*.
 Ah ! puisque je sçay la demeure  
 Il me prend envie : ou je meure,  
 De venir sans en dire mot  
@@ -657,7 +657,7 @@ La forme avant, dans la matiere ;
 Ah ! mon cher que vous este dur,  
 Et qu'il fait dans vostre ame obscur.  
 
-    ROGUESPINE *(à part.)*
+    ROGUESPINE *(à part.)*.
 Qu'est-ce que celle-là veut dire ?  
 Je ne sçay pas si j'en dois rire,  
 Car n'entendant point ce jargon  
@@ -732,7 +732,7 @@ THEOCRITE, ROGUESPINE,
 RODOGINE.
 
 
-    RIBERCOUR 
+    RIBERCOUR.
 (en sortant de chez Theocrite.)
 
 Je vous suis obligé Monsieur,  
@@ -756,7 +756,7 @@ Il n'est point d'obligation,
 Qui pour des gens d'un tel merite,  
 Ne soit de nature petite.  
 
-    THEOCRITE 
+    THEOCRITE.
 (pendant que Rodogine parle bas à Roguespine.)
 
 Enfin nostre homme est attrappé,  
@@ -846,7 +846,7 @@ Doit estre bien-tost hors d'usage,
 Il est raisonnable qu'enfin  
 Vous me rendiez mon saint-crespin.  
 
-    THEOCRITE *(sans l'escouter.)*
+    THEOCRITE *(sans l'escouter.)*.
 Certes la langue Pretieuse  
 Est une chose merveileuse ;  
 Car enfin l'on parle de ceux  
@@ -879,7 +879,7 @@ Qu'on prendra parlant Pretieux.
 
 ### SCENE VIII.
 
-    THEOCRITE *seul.*
+    THEOCRITE *seul.*.
 Ce divertissement est drolle,  
 Et je jouë assez bien mon roolle.  
 Ils sont pris pour duppes ma foy.  
@@ -907,7 +907,7 @@ Vous prier que de vostre mieux
 Vous tourniez en vers Pretieux,  
 Ce Madrigal là tout à l'heure.  
 
-    THEOCRITE. 
+    THEOCRITE.
 (à part ouvrant le Madrigal.)
 
 Que l'on voit de fous, où je meure,  
@@ -1146,7 +1146,7 @@ Adieu jusqu'au revoir Monsieur.
 
 ### SCENE X.
 
-    THEOCRITE *seul.*
+    THEOCRITE *seul.*.
 Bon Dieu ! sans le Dictionnaire  
 Qu'on a fait & que l'on doit faire,  
 J'estois ma foy pris comme un sot ?  
@@ -1248,13 +1248,13 @@ Ah ! coquin je t'estropieray.
 Nouferay Monsieur, nouferay,  
 Vous ne sçauriez jamais pis faire.  
 
-    RIBERCOUR. *(le battant.)*
+    RIBERCOUR. *(le battant.)*.
 Je veux pour t'apprendre à te taire……  
 
     ROGUESPINE.
 Pourquoy diable tant s'emporter.  
 
-    PANCRACE *(Retenant Ribercour.)*
+    PANCRACE *(Retenant Ribercour.)*.
 Arrestez il va tout conter.  
 
     ROGUESPINE.
@@ -1603,7 +1603,7 @@ Voir ce qu'ordonnera le sort.
 
 ### SCENE XIII.
 
-    ROGUESPINE. *seul.*
+    ROGUESPINE. *seul.*.
 Dieux ! qu'ils ont le jugement mince ;  
 J'ay sçeu dedans nostre Province  
 La moitié de ce que je dis ;  
@@ -1912,12 +1912,12 @@ Soit des deux costez sans ruelles
 Et qu'il soit mesmement placé  
 Sans estre du tout exaucé.  
 
-    ROGUESPINE *(à part.)*
+    ROGUESPINE *(à part.)*.
 Peste il a retenu sans peine  
 Tout ce qu'un Advocat du Maine,  
 Luy dit, avant que de partir.  
 
-    PATRICE *(à Epicarie.)*
+    PATRICE *(à Epicarie.)*.
 Avez-vous de quoy repartir ?  
 
     EPICARIE.
@@ -1965,10 +1965,10 @@ S'estend sur les troubles passez
 Dont il nous croit fort menacez,  
 Par la confusion des langues.  
 
-    ROGUESPINE *(à part.)*
+    ROGUESPINE *(à part.)*.
 Elle fait fort bien des harangues.  
 
-    EPICARIE *(poursuit.)*
+    EPICARIE *(poursuit.)*.
 Comme si Paris maintenant  
 Craignoit quelque mal surprenant,  
 Parce qu'a present l'on y parle  
@@ -1982,12 +1982,12 @@ Persan, Turc, Hebreux, Allemand,
 Picart, Chaldeen ; pour le reste  
 J'en dis & cetera.  
 
-    ROGUESPINE *(à part.)*
+    ROGUESPINE *(à part.)*.
         La peste,  
 Elle en a bien dit à la fois,  
 Quoy qu'elle ait oublié l'Anglois.  
 
-    EPICARIE *(continuë.)*
+    EPICARIE *(continuë.)*.
 Je croy Messieurs, par cét exemple  
 Aussi puissant comme il est ample,  
 Avoir prouvé suffisamment  
@@ -2002,12 +2002,12 @@ Or si nous pretendons le voir
 Il faut auparavant sçavoir,  
 De quels gens il a pris naissance.  
 
-    RIBERCOUR *(à part.)*
+    RIBERCOUR *(à part.)*.
 Juste Dieux qu'enten-je, je pense  
 Qu'icy je ne gaigneray rien  
 Tant cette femme jase bien.  
 
-    EPICARIE *(continuë.)*
+    EPICARIE *(continuë.)*.
 Il nacquit l'an six cens cinquante,  
 Et de chacun trompa l'attente ;  
 Car j'ay de notables tesmoins  
@@ -2028,10 +2028,10 @@ Des plus galands portes soutanes,
 Des Courtisans, des Courtisanes,  
 Des gens d'espée, & du bareau.  
 
-    ROGUESPINE *(à part.)*
+    ROGUESPINE *(à part.)*.
 Elle n'a rien dit du Boureau.  
 
-    EPICARIE *(continuë.)*
+    EPICARIE *(continuë.)*.
 Des Messieurs de l'Academie,  
 De qui la gloire est infinie,  
 Et dont vous estes aujourd'huy  
@@ -2080,7 +2080,7 @@ Pour obvier à la despence
 Grossoyer ensemble à loisir  
 Nos pieces, peste quel plaisir.  
 
-    PATRICE *(prononce.)*
+    PATRICE *(prononce.)*.
 Oüy le differend des Parties,  
 Leurs differences & reparties  
 Nous ordonnons selon vos vœux  
@@ -2127,7 +2127,7 @@ En despit de Monsieur Patrice,
 Qui sans trop bien sçavoir pourquoy  
 Vient de prononcer contre moy.  
 
-    RIBERCOUR. 
+    RIBERCOUR.
 (Prend la lettre & lit.)
  
 *Cher amy*,
@@ -2143,7 +2143,7 @@ Par la mort, je m'en vengeray.
     ROGUESPINE.
 Et moy, par ma foy, j'en riré.  
 
-    RIBERCOUR. 
+    RIBERCOUR.
 Mais celuy qui cecy m'avance  
 N'est-il point de l'intelligence.  
 
@@ -2153,7 +2153,7 @@ Que vous n'estes pas le plus fin,
 Que ce n'est que vous qu'on balotte  
 Et qu'on fait servir de marotte.  
 
-    RIBERCOUR. 
+    RIBERCOUR.
 Cependant à des gens d'honneur  
 Cét affront doit tenir à cœur ;  
 Mais je sçauray je vous le jure,  

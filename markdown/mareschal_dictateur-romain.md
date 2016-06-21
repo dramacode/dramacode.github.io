@@ -15,7 +15,7 @@ A PARIS, Chez TOUSSAINCT QUINET, au Palais, souz la montée de la Cour des Aydes
       maîtrise sous la direction de Georges Forestier (2002-2003)
 
 
-# Introduction
+# Introduction.
 
 
 Je ne saurais me repentir d'un péché que je trouve raisonnable et n'ai pas voulu me restreindre à ces étroites bornes ni du lieu, ni du temps, ni de l'action qui sont les trois points principaux que regardent les règles des Anciens. … Si l'on ne trouve que ces fautes dans mes deux Poèmes [1], je n'en rougirai point puisque ce sont des vices agréables quand ils sont dans un bon ordre et qu'ils ne jettent point un sujet dedans la confusion. … Que donc l'on n'espère pas que je soutienne autrement une Pièce que j'avoue irrégulière qu'en publiant que c'est une faute ingénieuse et préméditée que j'ai voulu faire, par d'autres règles plus sensibles et plus fortes qui m'obligent davantage, qui sont celles du devoir et de l'amitié. Il me fallait être mauvais Ami, pour paraître bon Poète, et quitter la Philosophie des honnêtes gens, qui est la plus solide et la plus juste, pour suivre celle qui n'a point de corps, et qui n'est qu'en l'imagination. … Je traite dans ces Vers une Histoire aussi véritable qu'elle est belle et glorieuse, et n'ai pas voulu laisser à la conscience seule des témoins qui vivent encore et la savent, la plus agréable partie des effets que la sévérité des règles m'eût obligé de couper. … Si je puis me réconcilier avec les Anciens, et trouver lieu d'accommodement et de paix auprès de cette rigoureuse Antiquité de qui la vieillesse est capricieuse, et se donne autorité sous le droit d'aînesse, avec des scrupules si sévères au Théâtre, qu'elle y faisait passer pour crime toutes nouveautés aussi bien qu'à l'état ; je n'aurai qu'un léger combat à rendre contre les Esprits du temps, et tiens déjà plus de moitié la partie avancée. Que s'il s'en trouve de ceux-ci qui blâment mon sujet et la licence que j'ai prise de le mettre hors des règles des Anciens ; je n'ai qu'à dire que c'est une Histoire de ce siècle, qui ne relève point du leur, que nous avons un Peuple, des Esprits et des façons contraires …. La fin de cette sorte de Poème dramatique est donc tout à fait d'agir, et celle de l'action est de plaire, encore qu'Aristote et son Art poétique nous en donne deux contraires, qui sont la compassion et la crainte. … Les Italiens ont inventé un nouveau Poème, ajoutant aux premiers la Tragi-Comédie que l'Antiquité n'avait jamais connue et qui est la perfection des autres [2] à mon sentiment. … En effet y a-t-il rien de si importun que ces rapports et ces longues narrations qui feraient mourir d'ennui la plus ferme patience, qui nous surchargent la mémoire sans effets, nous ravissant par un tissu de longs discours tout le plaisir qu'on recevait des actions ? … Nous autres prenons du lieu du temps et de l'action, ce qu'il nous en faut pour le faire curieusement [3], et pour le dénouer avec grâce, en surprenant les esprits par des accidents, qui sont hors d'attente et non point hors d'apparence : eux ne le démêlent point, ils le coupent.La Généreuse AllemandeTemps de préfaces
@@ -24,7 +24,7 @@ Je ne saurais me repentir d'un péché que je trouve raisonnable et n'ai pas vou
 Ce texte est peut-être, avant ses œuvres (que ce soit *La Chrysolite* ou son théâtre), le plus connu de cet auteur méconnu qu'est Mareschal. Cela n'est certes pas dû au hasard : ce que l'on a retenu des auteurs du XVII*e* siècle qui ne s'appelaient ni Corneille, ni Molière ni Racine, c'est avant tout leurs préfaces et leurs textes théoriques. Pourquoi ? Parce qu'ils ont une importance capitale pour notre compréhension de la construction du théâtre classique et qu'ils s'inscrivent dans un contexte de fortes discussions et remises en question des règles, à une époque où c'est la tragi-comédie qui triomphe sur tous les théâtres français. Pourtant, rien n'est plus éloigné des convictions affirmées dans ce texte que *Le Dictateur Romain*, dernière pièce de ce même Mareschal. En prélude à l'étude d'une tragédie à bien des égards régulière, il nous semblait intéressant d'évoquer le texte dans lequel l'auteur a affirmé ses premières convictions de dramaturge, et ce afin de prendre la réelle mesure de l'évolution de son théâtre entre les années 30 et 1645. Garder ce texte en mémoire pour l'étude du *Dictateur Romain*, c'est se souvenir que les choix dramaturgiques effectués dans cette dernière pièce sont, encore moins pour Mareschal qu'ils ne le furent pour d'autres, le fruit d'une réflexion profonde sur le théâtre, visible dans ses œuvres, et non la soumission passive à des principes que l'on dit aujourd'hui « classiques » et qui peut-être n'ont pu être acceptés et mis en œuvre que parce qu'ils avaient d'abord été violemment rejetés.
 
 
-# Mareschal, un auteur méconnu [4]
+# Mareschal, un auteur méconnu [4].
 
 Auteur que l'on peut qualifier d'homme en accord avec son temps, Mareschal a été de toutes les expérimentations du XVII*e* siècle : il s'est essayé à la poésie, a tenté de renouveler le roman réaliste et a fait une carrière dramatique allant du refus des règles, dans ses tragi-comédies et comédies, aux tragédies les plus régulières dont la dernière sera *Le Dictateur romain.* L'évolution générale de cet homme a été étudiée par Lionel-Charles Durel dans sa thèse, nous nous bornerons donc à rappeler les points de sa carrière qui sont importants pour une meilleure compréhension de son œuvre.
 
@@ -36,10 +36,10 @@ Parallèlement à ses études de droit (il devient avocat avant le 2 juillet 163
 Mareschal termine sa carrière par deux œuvres réalistes et psychologiques, *le Jugement équitable* et *le Dictateur romain*. Cette transformation du romanesque au réalisme s'accompagne d'une concentration qui saute aux yeux. … Il y a une évolution claire et sûre vers le classicisme dans l'œuvre dramatique de Mareschal. … L'amour remplit s es pièces …, ce n'est qu'à la fin de sa carrière qu'il offre des luttes entre l'amour et le devoir dans le cœur de ses principaux personnages.… Le grand but de Mareschal est de plaire. Ce n'est que sous l'influence de Corneille qu'il essaie dans ses deux dernières pièces d'émouvoir par la pitié. [6]
 
 
-# Une œuvre diversifiée [7]
+# Une œuvre diversifiée [7].
 
 
-## Œuvre poétique
+## Œuvre poétique.
 
 Les Feux de Ioye De la France, sur l'heureuse Alliance d'Angleterre Et la Descente des Dieux en France, pour honorer la Feste de cette Alliance (1625).
 
@@ -54,14 +54,14 @@ Le Portrait de la ieune Alcidiane (1641)
 Mareschal a de plus écrit deux pièces liminaires, l'une pour Du Bail (le *Roman d'Albanie et de Sycile*, 1626) et l'autre pour Chapoton (le *Véritable Coriolan*, 1638).
 
 
-## Œuvre romanesque
+## Œuvre romanesque.
 
 La Chrysolite ou Le Secret des Romans (1627).
 
 Mareschal a voulu véritablement donner le *modèle* des romans & M. Abel Lefranc [9] dit que « le roman psychologique naît avec la *Chrysolite* de Mareschal ». Dans sa préface, l'auteur insiste sur le fait que son œuvre « n'est pas un roman … mais le secret des autres, ou celuy qu'ils deroient avoir. » Mareschal se veut réaliste car pour lui le roman doit corriger les hommes en leur montrant ce qu'ils sont réellement.
 
 
-## Œuvre théâtrale
+## Œuvre théâtrale.
 
 *La Généreuse Allemande ou Le Triomphe d'Amour, Tragi-comédie Mise en deux Iournées Par le Sieur Mareschal où sous noms empruntez & parmi d'agréables & diverses feintes est représentée l'Histoire de feu Monsieur & Madame de Cirey* (1631).
 
@@ -108,22 +108,22 @@ Cette pièce annonce déjà certaines caractéristiques de la suivante : entiè
 L'édition de 1648 porte le titre *Papyre ou le Dictateur romain.*
 
 
-# Le contexte de la création de la pièce
+# Le contexte de la création de la pièce.
 
 
-## Le *Dictateur romain* dans l'œuvre de Mareschal
+## Le *Dictateur romain* dans l'œuvre de Mareschal.
 
 Cette tragédie est la dernière œuvre connue de Mareschal, elle apparaît après 20 ans de création littéraire constante et peut être considérée comme l'aboutissement d'une réflexion dramaturgique menée au travers de 9 pièces, depuis *La Généreuse Allemande* en 1631. Cette pièce se situe dans la continuité des précédentes dans la mesure où elle manifeste un « assagissement » de son auteur par rapport aux règles d'écriture théâtrale qui s'imposent peu à peu dans ces années-là sur la scène française. En effet, avant Papyre, il y a eu en 1642 *Le Mauzolée*, tragi-comédie, certes, mais que le dramaturge avoue avoir écrite « dans les règles », puis, jouée par L'Illustre Théâtre, sa première tragédie, *Le Jugement équitable de Charles le Hardy*. Une originalité, cependant, est à noter dans cette pièce : Mareschal, s'il semble enfin accepter d'écrire pour le genre considéré comme le plus noble, conserve son inventivité en choisissant de mettre le premier sur la scène un sujet tiré de l'Histoire moderne, celle des rois de France. *Le Dictateur romain* est donc un pas supplémentaire vers la conformité avec la création théâtrale de ses contemporains puisque c'est une tragédie dans les règles et, qui plus est, qui traite d'un sujet emprunté à l'Antiquité, qui renvoie donc à un schéma plus classique de la tragédie telle qu'on la concevait au XVII*e* siècle. Cependant, ne nous trompons pas sur les intentions de Mareschal : ce n'est nullement pour faire « comme les autres » ou pour se conformer à une doctrine classique de plus en plus dominante qu'il a aboutit à l'écriture de cette dernière pièce. Le but premier de ce dramaturge a toujours été de plaire, et il n'a écrit ses tragédies que parce que le public à qui elles étaient adressées avait évolué et les appréciait alors vraiment.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 Le consul Camille, affaibli par une maladie, nomme Papyre dictateur pour mener à sa place une guerre contre les Samnites, peuple latin ennemi des Romains. Mais les auspices sont incertains et le dictateur, avant d'engager le combat, préfère retourner les prendre à Rome. Il laisse la responsabilité du camp à son lieutenant général Fabie, lui donnant tout pouvoir de décision mais lui interdisant de combattre en son absence. La nouvelle de l'immobilité forcée des Romains se répand chez les ennemis qui les provoquent et se « laissent aller » sans craindre d'attaque. Fabie, en colère, passe outre l'interdiction, profite de la désorganisation des Samnites pour livrer bataille et remporte la victoire.
 
 Cela, c'est le commencement de l'histoire, qui nous est racontée par un récit de Comine. Les problèmes viennent après, et c'est là que débute la pièce : Fabie, héros de la patrie, est cependant coupable de désobéissance envers son chef qui, offensé personnellement et voyant son autorité bafouée, demande la mort de son lieutenant. Arrivé à Rome, Fabie demande la protection de Camille ; Lucille et Papyrie, femme et fille du dictateur, prennent sa défense, le considérant comme un membre de la famille puisqu'il était promis en mariage à Papyrie. On en appelle au jugement du Sénat, qui refuse d'absoudre ou de condamner Fabie et le renvoie au peuple, bien que Fabie ne se soit point défendu contre le père de celle qu'il aime. Papyre, plaçant les lois au-dessus de tout, reste inflexible et continue de poursuivre son lieutenant, mais, touché, lui ordonne de se défendre face à l'assemblée. Le peuple, indécis, remet la décision entre les mains de Papyre. L'armée puis le peuple se révoltent en faveur du vainqueur, Fabie Père offre la vie de son fils pour préserver Rome du crime de désobéissance mais Papyre ne veut pas de ce don et, finalement, c'est Rome suppliante par la voix du tribun du peuple Martian qui obtient la clémence du dictateur et lui fait accepter son lieutenant comme gendre.
 
 
-## Les conditions de la première représentation
+## Les conditions de la première représentation.
 
 Nous n'avons pas la date à laquelle la pièce fut créée, nous livrons ici les hypothèses les plus probables parmi celles avancées par la critique. La dédicace de la pièce au duc d'épernon nous propose une première piste :
 
@@ -140,36 +140,36 @@ dans le malheur, la plupart de ses associés lui sont restés fidèles. Sauf Bey
 Voulant éviter de retourner en prison, Molière part le premier de Paris, peut-être dès la fin août. Il n'a alors plus rien et ses comédiens se dispersent dans différentes troupes. Seuls les Béjart restent à Paris et Duchêne nous apprend que Madeleine y est encore en décembre 45. Mongrédien affirme qu'elle rejoint Molière avant le 21 janvier 1646 [14]. Peut-on en déduire que la pièce de Mareschal fut créée entre janvier et le 19 février, date de la dédicace ? D'autres sources indiquent que Molière quitte Paris avec les Béjart en octobre… Les déplacements de Molière, de Madeleine Béjart comme de la troupe de Dufresne avant que ceux-ci ne la rejoignent ne sont pas connus avec certitude : peut-être Madeleine fait-elle différents voyages entre Paris et la nouvelle troupe, partagée entre son métier et la volonté de retourner à Paris sauver de la faillite ce qui peut encore l'être ? Il convient, dans le doute, de garder l'espace de six mois entre fin août et début février comme moment probable de la création de la pièce. Quant à l'endroit où cette première a eu lieu, il n'est guère plus précis : la capitale du gouvernement de Guyenne du duc était Bordeaux, il est probable que la troupe y joua souvent, de même que dans le château de Cadillac, tout proche, où il résidait la plupart du temps. Mais accompagnant le duc dans ses déplacements, la troupe joua à la toute fin de 1645 à Agen où le duc donna de grandes fêtes en l'honneur de sa maîtresse. Pour ce qui est de début 1646, le duc passe par Paris avant de revenir en Guyenne en août [15]. Entre les déplacements possibles du duc et ceux des comédiens, qui jouaient aussi hors de sa présence, pour le public ou d'autres grands seigneurs, cela fait beaucoup de lieux susceptibles d'avoir pu accueillir la première représentation de notre pièce ! Cependant, une « première » était un événement d'importance, même loin de Paris, et je formulerais l'hypothèse de Bordeaux (ou Cadillac, si la représentation est privée) en présence du duc protecteur de la troupe, ou bien encore Agen : pourquoi ne pas penser que la représentation d'une nouvelle pièce par une troupe récemment « enrichie » d'acteurs prestigieux ait pu être un moment fort de ces fêtes ?
 
 
-# La mise en intrigue du Dictateur romain
+# La mise en intrigue du Dictateur romain.
 
 
-## Choix du sujet
+## Choix du sujet.
 
 
-### Le sujet-type
+### Le sujet-type.
 
 Quel est le sujet de cette pièce ? Après le *Jugement équitable*, il semblerait que Mareschal ait voulu construire une intrigue fondée sur les mêmes enjeux et les mêmes effets que ceux de cette pièce, proposant une variante sur le sujet de l'homme de pouvoir, qui est aussi père, condamnant son fils à la mort et le faisant exécuter. Pourtant il nous semble que l'enjeu principal de la pièce, dans le *Dictateur romain*, n'est pas là : à bien y réfléchir, la condamnation de Papyre est moins anti-naturelle que celle de Charles le Hardy et l'accent n'est pas mis sur le lien, moins fort que le lien filial, qui existe entre le dictateur et Fabie. Après tout, la condamnation est justifiée par l'offense, et les arguments en faveur de Fabie sont majoritairement ceux qui mettent en avant son côté héroïque plutôt que les liens entre les deux familles, même si ceux-ci rendent la décision plus délicate à prendre. En fait, le véritable sujet de cette pièce est *la clémence* de Papyre, et s'il faut trouver un modèle à Mareschal, il est plutôt à chercher du côté de la pièce de Corneille *Cinna* (1643), dont le sous-titre est « la Clémence d'Auguste ». En effet, la clémence justifie toute la construction de la tragédie et c'est vers elle que convergent les différentes étapes de l'intrigue : toute la pièce ne vise qu'à montrer comment Papyre, après l'avoir rejetée, adopte cette solution comme moyen de résoudre la crise qui secoue Rome depuis la bataille non permise contre les Samnites. Quant au fil amoureux, il a surtout été rajouté dans l'objectif de plaire au public de l'époque qui y voyait un élément incontournable des tragédies qu'on leur proposait.
 
 
-### L'histoire qui le met en scène
+### L'histoire qui le met en scène.
 
 Après une tragédie « moderne », Mareschal a choisi un épisode de l'histoire antique pour illustrer le sujet qu'il avait décidé de transposer au théâtre. Outre le fait que cela s'inscrit dans « l'air du temps », ce choix peut sembler judicieux pour mettre en scène un acte de clémence. En effet, la distance qui existe avec l'époque romaine permet, plus facilement que les épisodes de l'Histoire contemporaine, de généraliser et de superposer à la figure du dictateur celle du roi régnant à qui l'on attribue par là même cette « plus haute vertu des rois ». L'épisode, historique, est emprunté à Tite-Live. En 314 av. J.-C., sous la République, un dictateur condamne à mort son premier lieutenant, victorieux, pour avoir combattu sans son ordre. Mais face aux protestations émanant de diverses instances, il se ravise et lui accorde la clémence. L'intérêt est de voir que le conflit qui oppose les deux hommes finit par concerner toute la Ville : le choix de cet événement met donc en perspective la clémence avec les circonstances dans lesquelles elle est accordée pour montrer les relations entre les différents « pouvoirs » au sein d'une communauté. Même si un dictateur a théoriquement tout pouvoir pendant sa dictature, il doit aussi évaluer les conséquences de ses actes et ne peut aller à l'encontre de tout un peuple sans créer de graves tensions, et menacer l'ordre social. Cette histoire particulière laisse donc à Mareschal la possibilité de traiter du thème de la clémence dans un autre contexte que celui de la pièce de Corneille : même si le geste est identique, il est loin de signifier la même chose dans les deux cas et c'est ce qui fait du *Dictateur romain* une tragédie originale, intéressante à étudier en elle-même et non pas uniquement à cause des échos qu'elle peut évoquer pour nous.
 
 
-## Exploitation et modification des sources
+## Exploitation et modification des sources.
 
 
-### La source antique
+### La source antique.
 
 La guerre contre les Samnites [16] et l'opposition de Papyre et Fabie est longuement développée dans Tite-Live, et Mareschal, bien qu'il ne précise pas d'où lui vient l'idée de ce sujet, a de toute évidence beaucoup puisé dans cette source au point que certains de ses vers paraissent parfois n'être qu'une traduction des propos du Latin. On trouve la narration de cet épisode au livre VIII de *L'Histoire romaine*, aux paragraphes XXX à XXXVI, 12 [17]. Nous livrons ici les éléments que Mareschal a principalement repris à Tite-Live, avant d'étudier comment ils ont été modifiés ou enrichis par le dramaturge.
 
 
-#### Les noms des personnages historiques
+#### Les noms des personnages historiques.
 
 Fabie Père, déjà présent chez Tite-Live (il est appelé le vieux Fabie, « Fabis senis »), invoque les mêmes exemples pour fléchir le dictateur dans le texte latin et celui du XVII*e* siècle : Cincinnate, évoqué v.733, et Tuelle (v. 1273). Manlie et Brutus, selon un procédé identique, sont les cautions de Papyre aussi bien dans *L'Histoire romaine* que dans *Le Dictateur romain*. Même les personnages de Comine, chef de la cavalerie romaine, et de Valère (Marcus Valerius) sont nommés dans le récit de Tite-Live, le dernier y étant présenté à la fin, comme un légat qui, en charge de l'armée en l'absence du dictateur et face à des mouvements ennemis, n'osait prendre aucune initiative, effrayé par les ordres inflexibles du dictateur et l'exemple de ce qui était arrivé à Fabie (cf. v. 159). A partir de là, il est aisé d'imaginer, comme l'a fait Mareschal, une rivalité, si ce n'est amoureuse du moins militaire, entre ce serviteur zélé mais sans grandeur et le personnage héroïque de Fabie.
 
 
-#### Les détails de l'événement
+#### Les détails de l'événement.
 
 Mareschal commence, dans le premier récit de Comine, par reprendre, de façon très précise, la situation initiale telle que l'a décrite Tite-Live et dont nous citons la traduction proposée par l'édition Belles Lettres :
 
@@ -179,22 +179,22 @@ Le départ pour le Samnium se fit sous des auspices incertains …. L e dictateu
 Il est également à noter que Mareschal a tenu à rester extrêmement proche de sa source, préférant y puiser de nombreux détails plutôt que d'en inventer de nouveaux, ce qui a l'avantage du poids de la « vérité historique » ; cela concourt donc à la vraisemblance générale du récit. On relève ainsi la maladie de Camille, qui amène la dictature, l'évocation des trophées pris sur l'ennemi et brûlés pour empêcher le dictateur « d'y inscrire son nom et de faire porter ces dépouilles dans son triomphe » (v. 1105/1106) ou les reproches de Papyre à Fabie, auquel il dit dans le texte de Tite-Live : « ne t'ai-je pas interdit de rien entreprendre en mon absence ? » et dont on trouve des échos aux vers 1100-1104. De même, la menace de révolte de l'armée, la fuite nocturne de Fabie, la convocation du Sénat dès l'arrivée à Rome, la plaidoirie de Fabie Père pour son fils et l'appel au peuple sont autant d'étapes de l'intrigue de Mareschal qui sont déjà celles du récit antique. Même pour la fin, Mareschal a suivi son modèle : la décision finale revient à Papyre et, après son geste de clémence, il repart seul vers le camp, ordonnant à son lieutenant de rester l'attendre à Rome, prononçant une morale qui sera aussi sous-entendue dans le dénouement théâtral : « que cette journée te serve suffisamment de leçon pour pouvoir supporter en guerre comme en paix les ordres légitimes [18]. » Enfin, Mareschal a même pris des noms de lieux, comme Ortone ou les Champs Pycéniens, dans d'autres livres de ce même ouvrage (III, 30 ; XXII, 9).
 
 
-### Influence des œuvres de l'époque
+### Influence des œuvres de l'époque.
 
 
-#### La prédominance des sujets romains
+#### La prédominance des sujets romains.
 
 Après la domination de la tragi-comédie sur la scène française, particulièrement entre 1628 et 1634, la véritable « renaissance » de la tragédie se fait avec une pièce à sujet romain : *La Sophonisbe* de Mairet (1635). L'année suivante, une autre pièce « romaine », *La Mort de César* [19] de Scudéry, obtient un succès qui confirme le renouveau du genre et présente l'Antiquité comme la source par excellence des sujets de tragédie. Cette tendance sera ensuite définitivement confirmée par l'adhésion de Corneille lui-même à ce type de sujet par le biais de sa pièce *Horace*. En effet, comme la tragi-comédie avait privilégié les sujets inventés, la tragédie a préféré traiter des sujets « historiques » connus (romains ou mythologiques), afin de se démarquer du genre qui, en rejetant ce type de sujets, l'avait provisoirement fait disparaître. De plus, selon les auteurs, ce genre de sujet avait aussi l'avantage de produire de meilleurs effets parce qu'il rentrait aisément dans les bornes des 24 heures et donnait de ce fait plus de plaisir au spectateur [20]. Enfin, l'époque romaine, vue comme un ailleurs idéal, autorise la mise en place de réflexions sous-jacentes sur le XVII*e* siècle, en particulier sur le pouvoir et l'action royale : la comparaison entre les grandes figures antiques mises sur scène et le roi était alors évidente pour tout le monde. On peut donc penser que, pour Mareschal, après sa tragédie « moderne » *Le Jugement équitable*, écrire une tragédie romaine était une manière de plus de s'intégrer dans la production la plus prisée de son époque et de prouver le talent dont il était capable, le fait de choisir ce sujet le mettant automatiquement en concurrence avec les plus grands.
 
 
-#### Les pièces de Corneille
+#### Les pièces de Corneille.
 
 En 1641 paraît *Horace*, première tragédie romaine de Corneille, décriée par les « doctes » à cause de sa « duplicité d'action » qui faisait d'Horace un héros sauveur de Rome puis un fratricide. Elle se termine par le procès du héros après la mort de Camille, et Tulle, malgré la faute d'Horace, lui accorde la vie en expliquant que les héros qui assurent la puissance des rois sont « au-dessus des lois ». Comment ne pas y voir l'argumentation de Fabie Père, à bien des égards inspiré par le personnage du Vieil Horace, auquel il reprend également le quiproquo sur la lâcheté de son fils [21] ?
 
 De plus, le succès de la pièce de Corneille mettant en scène la fameuse « Clémence d'Auguste », *Cinna*, publié en 1643, a peut-être incité Mareschal à mettre à son tour sur le théâtre ce geste royal et à proposer dans son œuvre une réflexion sur ce qu'est l'exercice du pouvoir. En tous cas, ce succès légitime d'un coup la possibilité d'un dénouement de tragédie qui ne soit pas funeste, ce dont va profiter Mareschal pour sa propre pièce, puisqu'il peut alors proposer une issue au conflit qui ne rappelle pas celle de son œuvre précédente, *Le Jugement équitable*.
 
 
-#### Autres œuvres
+#### Autres œuvres.
 
 Gillet de la Tessonerie a écrit deux pièces qui, chacune à leur niveau, ont pu influencer Mareschal dans l'écriture du *Dictateur romain. Le Triomphe des 5 Passions*, publié en 1642, propose différents tableaux de l'effet néfaste des passions sur l'homme en montrant 5 exemples célèbres, tirés de l'Antiquité, ayant conduit les héros victimes de ces passions à leur perte. Le premier acte est intitulé « l'honneur », c'est-à-dire le désir effréné d'acquérir des louanges. Le 2*e* est un tableau de l'ambition. Le 3*e* met en scène l'amour, le 4*e* la jalousie et le dernier la haine. Certes la construction est très différente d'une tragédie classique, mais ce n'est pas la pièce dans son entier qu'il faut considérer mais seulement le premier acte. En effet, l'épisode raconté est celui de Manlie qui pour
 
@@ -214,12 +214,12 @@ Une autre pièce de Gillet de la Tessonerie, construite sur le même modèle et 
 Enfin, il ne faut pas oublier le rôle de la propre pièce de Mareschal, *Le Jugement équitable de Charles le Hardy*, dans son inspiration pour un sujet ayant des points communs avec celui de cette pièce, puisque dans les deux cas il y a condamnation d'un proche (fils ou gendre) par celui qui est en charge du pouvoir (roi ou dictateur) et qui ne veut pas faire d'exception à la loi pour un cas qui le touche en particulier.
 
 
-### Particularités de l'intrigue de Mareschal
+### Particularités de l'intrigue de Mareschal.
 
 Mareschal a choisi de resserrer la crise sur la fin, une fois que « le mal est fait » : il aurait pu obtenir de forts effets théâtraux en mettant en scène l'interdiction de Papyre, les éventuels scrupules à combattre de Fabie (par exemple sous forme de stances : désobéir pour servir son pays mais pas son chef ou obéir au chef et laisser passer l'occasion et de briller et de préserver son pays ? C'est le combat entre le sens du devoir envers la patrie et celui de l'obéissance envers un chef). De même, il aurait pu « remplir » sa pièce de batailles, très prisées par le public, puis de l'enchaînement des conséquences que cela entraîne, en particulier la mutinerie de l'armée. Malgré un récit de Tite-Live assez précis, il ne l'a pas fait, et s'il en fallait, ce choix d'écriture est une preuve de plus que Mareschal, dans cette pièce, est passé du côté de l'écriture classique et régulière dans laquelle les batailles sont rapportées et le suspens réduit à l'incertitude de la mise à exécution d'une décision. Il faut noter que le point de vue de Fabie sur son action, alors qu'il aurait pu apporter une certaine tension tragique (hésitations, dilemme voire regrets), est ici occulté en faveur d'une concentration sur la réaction que doit avoir Papyre, tiraillé entre son rôle de gardien de l'ordre et son affection pour Fabie, dont l'action est reconnue comme bénéfique par le peuple. Son alternative est simple : appliquer la loi dans toute sa rigueur ou faire une exception pour un héros qui a de quoi compenser sa faute, ce qui évoque le procès d'Horace, où c'est la deuxième solution qui triomphera. Le problème de Papyre est qu'il pense que l'exception va saper son autorité et montrer qu'il n'est pas digne de se proclamer le garant des lois, et que cela pourrait donc jeter une éventuelle suspicion du peuple sur sa légitimité, déjà acquise en des circonstances exceptionnelles, celles de l'instauration d'une dictature. Contrairement à Tite-Live – qui certes souligne la clémence mais insiste également sur le caractère fort du jeune lieutenant – Mareschal choisit donc clairement Papyre comme héros : ce sont ses conflits intérieurs, son « cas », et non celui de Fabie qu'il veut développer dans sa tragédie, et c'est là la principale différence entre le dramaturge et sa source : une modification de point de vue sur l'action afin de mieux répondre aux exigences dues au passage à la scène.
 
 
-## La construction de la pièce
+## La construction de la pièce.
 
 À partir de tous ces éléments, il a fallu faire une pièce. On peut dire que la composition dramatique de cette tragédie tient à la fois des principes de réduction et de déduction. En effet, Mareschal évoque tous les éléments présents dans le récit de Tite-Live, mais il ne les développe pas tous sur la scène et « réduit » la majeure partie de ceux-ci à figurer dans des récits, comme c'est le cas par exemple pour la révolte de l'armée. Le véritable point de départ de Mareschal, pour la construction de son intrigue, est en fait le dénouement, c'est-à-dire la clémence de Papyre, dont le corollaire est la condamnation initiale. Mareschal va donc étendre l'action qui se passe entre ces deux moments pour remplir sa pièce, choisissant un sujet « complexe » qui repose sur un coup de théâtre qui inverse le dénouement attendu [23], qui était la mise à exécution de la condamnation, c'est-à-dire la mort.
 
@@ -232,30 +232,30 @@ De plus, l'épisode de la guerre contre les Samnites et du conflit entre Papyre 
 Ainsi, Mareschal a choisi de mettre en scène un passage de l'Histoire antique mais il ne s'est pas asservi à ses étapes, préférant insister sur les éléments susceptibles de provoquer un fort intérêt dramatique plutôt que sur l'exhaustivité des faits rapportés par Tite-Live. Il réduit donc le nombre d'événements exposés au public pour se concentrer sur la crise qui s'instaure avec la condamnation, et réussit à provoquer une tension importante en subordonnant toute l'évolution de son intrigue à son dénouement. Mais il n'en oublie pas pour autant le goût du public, auquel il propose une pièce qui sait aussi faire place à l'expression des sentiments. Si en définitive *Le Dictateur romain* paraît se dérouler de façon si logique et naturelle, c'est parce que Mareschal a su totalement refondre ses sources et ses apports personnels pour écrire une tragédie dont l'écriture est *d'abord* motivée par un désir d'efficacité dans son propre déroulement. Chaque élément de l'action est nécessaire et rigoureusement choisi pour être une pierre de plus dans la construction d'une œuvre aussi harmonieuse et complète que possible.
 
 
-# La structuration de la pièce
+# La structuration de la pièce.
 
 
-## Actes et scènes : la structuration technique
+## Actes et scènes : la structuration technique.
 
 
-### Équilibre de la répartition
+### Équilibre de la répartition.
 
 *Le Dictateur romain*, publié en 1646 et donc probablement écrit au plus tôt dans les années 40, est une pièce qui ne cherche pas, comme ça a pu être le cas au début du siècle, à renouveler la structure habituelle de la tragédie (il y a eu des essais de pièces en trois actes, par exemple, ou en deux journées, comme pour *La Généreuse Allemande*). Elle suit la tendance générale de l'époque en ce qui concerne la forme et se présente en 5 actes, assez équilibrés au niveau des scènes puisque chacun, hormis le premier qui en comporte 5, compte 4 scènes. Cet équilibre est renforcé par une répartition du nombre de vers entre les actes qui aboutit à des volumes semblables sans particulièrement favoriser ou léser une partie de la pièce. En effet, le plus petit acte comporte 290 vers et le plus long 384, pour un total de 1628, soit un écart peu important par rapport à la répartition idéale (qui serait de 325 à 326 vers par acte).
 
 De plus, les scènes les plus longues d'une pièce sont habituellement celles qui contiennent des récits ou qui développent des moments forts de l'action. Cette logique se vérifie chez Mareschal où l'on relève parmi les scènes les plus longues celle du dénouement (V, 1 ; 178 vers), les deux scènes contribuant à l'exposition (I, 1 & 3 ; 165 et 140 vers), où l'on trouve notamment le récit de la bataille par Comine, puis deux scènes d'importantes confrontations, celle de Papyre et Fabie (IV, 3 ; 137 vers) et la première intervention de Fabie Père contre Papyre (III, 4 ; 112 vers). Ainsi, il n'y a pas de scène qui serait longue mais sans intérêt fort pour l'évolution de l'action, et ceci combiné à un nombre relativement petit de scènes dans la pièce démontre une volonté de concentration, et donc d'efficacité, dans le traitement de l'intrigue du *Dictateur romain*.
 
 
-### Les problèmes de liaisons
+### Les problèmes de liaisons.
 
 
-#### Ruptures des règles de liaison des scènes
+#### Ruptures des règles de liaison des scènes.
 
 Toutes les scènes sont liées par une liaison de présence où au moins un des personnages présents sur scène y reste pour la scène suivante, liaison la plus simple mais aussi la plus logique car elle souligne l'enchaînement des événements. Seule la liaison entre les scènes 2 et 3 de l'acte IV échappe à cette forme puisqu'il y a ici une « liaison de vue » (ou de fuite), c'est-à-dire que la sortie de Lucille et Papyrie est motivée par l'arrivée de Papyre et Fabie qu'elles voient mais ne veulent pas rencontrer (v.1062 : « Mais les voicy tous deux : évitons leur presence »). Rappelons cependant que la liaison de fuite était admise par les classiques et qu'elle ne viole donc pas les règles d'enchaînement des scènes.
 
 Cependant, une autre règle du théâtre classique voulait que les actes ne soient pas liés, c'est-à-dire que ce ne soit pas le même personnage qui ferme un acte et ouvre le suivant. En effet, comme du temps est censé s'écouler pendant l'entracte [24], on ne peut pas retrouver après l'interruption le même personnage comme s'il n'avait pas bougé, et reprendre l'action là où elle avait été laissée. De plus, ce temps étant souvent utilisé pour les déplacements importants, il est logique qu'une fois l'intermède commencé le personnage alors en scène en profite pour partir et agir de son côté. D'ailleurs, les débuts d'actes montrent fréquemment la fin d'une action commencée hors de la vue des spectateurs et qui se termine sur scène, le résumé de ce que nous n'avons pas vu étant très souvent introduit par un personnage à l'aide des mots « quoi », « oui » ou « non » (cas de Papyre au vers 1299). Pourtant, dans la pièce de Mareschal, on retrouve deux fois le même personnage de part et d'autre d'un entracte. Le premier est Papyrie, à la fin de l'acte I et au début du deuxième. L'autre est Papyre, en IV, 4 et V, 1. En fait, dans les deux cas, du temps s'est bien écoulé pendant l'entracte et, à l'ouverture de l'acte suivant, on se focalise sur les réactions des personnages à ce qui s'y est passé. De plus, au début de l'acte II, on ne peut pas faire autrement : les hommes sont au Sénat, dont les débats ne peuvent être montrés, et Papyre n'est pas encore à Rome. Papyrie et Lucille occupent donc la scène et réagissent à ce qu'elles ont appris en retrouvant Fabie pendant l'entracte : la condamnation par Papyre. À la fin de la pièce, la situation est semblable pour le dictateur : tous se rendent « au Peuple » pendant l'entracte, et pendant que les autres personnages vont porter la nouvelle de l'indécision du peuple et recueillir les réactions (celle de l'armée, annoncée par Comine à la scène 2, et celle du peuple rapportée par les femmes scène 3), l'attention est, dès le début de l'acte V, dirigée sur Papyre puisque c'est lui qui doit trancher désormais : l'importance du fait justifie amplement le retour du personnage sur scène. Cela permet, de plus, d'installer aussitôt les spectateurs dans l'urgence et d'accélérer le rythme de l'action dès l'ouverture de la dernière partie, afin d'impulser un *crescendo* dramatique jusqu'au dénouement.
 
 
-#### Enchaînement des scènes et rythme de la pièce
+#### Enchaînement des scènes et rythme de la pièce.
 
 Selon Scherer [25], une pièce est rapide si elle comporte de nombreuses scènes et lente si elle en comporte peu, car dans ce cas il y a moins de déplacements et les scènes sont plus longues. On peut considérer que *Le Dictateur romain* est une pièce relativement lente dans la mesure où il y a peu de scènes courtes servant de transition (par exemple comme en I, 2) et annonçant simplement des entrées ou des sorties. Cette pièce contient également peu de personnages vraiment secondaires du type des gardes, soldats ou messagers. Ici, les allées et venues sont peu fréquentes et une fois sur scène les personnages y restent et ont des raisons valables pour cela : les différentes interventions font progresser l'action car ce que disent et font les personnages n'est jamais arbitraire ou inutile, comme cela peut l'être parfois dans une tragi-comédie : des personnages qui arrivent sur scène par hasard, la redondance de certaines scènes (reconnaissance, explications, etc.) devant plusieurs personnages différents, par exemple, peuvent nuire à l'efficacité de l'intrigue. Ici, rien de tel, les rencontres et les informations échangées par les personnages étant motivées par un but précis, qui est de sauver ou condamner Fabie. De plus, les scènes paraissent d'autant plus longues (et donc lentes) qu'elles sont fréquemment « liées » par 2 ou 3 constituant en fait la continuation d'un même propos ou l'évocation d'un même sujet avec ceux qui arrivent au fur et à mesure, comme par exemple dans le cinquième acte où Papyre résout de tuer Fabie dans la première scène en disant :
 
@@ -268,12 +268,12 @@ Ils demandent Fabie, envoyons leur sa téte (v. 1382),
 puis le soulèvement du peuple (sc. 3) a pour effet d'augmenter sa colère et le pousse à affronter les rebelles [26] plutôt que de renoncer à sa décision concernant Fabie. Là encore, la structure de la pièce révèle la volonté de Mareschal de proposer une intrigue développée sans ruptures et dans ses détails, la relative lenteur de la pièce contribuant certainement au sentiment de crainte du spectateur qui voit se dérouler sous ses yeux l'histoire d'une mort annoncée et dont l'exécution est sans cesse retardée, mais pour autant jamais annulée avec certitude.
 
 
-## La nécessité de la vraisemblance : la structuration logique
+## La nécessité de la vraisemblance : la structuration logique.
 
 Le respect des fameuses « unités » est devenu, après la querelle du *Cid*, un des éléments essentiels de la vraisemblance d'une pièce de théâtre et les auteurs qui veulent faire une tragédie prise au sérieux par la critique doivent de plus en plus prendre en compte ces éléments dans l'élaboration de leurs œuvres, c'est pourquoi il nous semble indispensable de les étudier dans *Le Dictateur romain*, bien que Mareschal ait fait peu d'entorses aux règles.
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 Le lieu de l'action est précisé au début : « la scène est au palais du Consul Camille, dans une gallerie qui donne sur le jardin. ». Il est rapidement évoqué lors de la première scène par des vers qui confirment la vue sur le jardin :
 
@@ -283,22 +283,22 @@ Ce parterre de fleurs, ce jardin spacieux (v. 15).
 Cette « gallerie » sera bien l'unique lieu de la pièce, la présence de Papyre ici plutôt que chez lui s'expliquant par un vœu fait sous le coup de la colère qui stipule « Qu'il ne reverra point les Dieux de sa Maison / Que d'un Vainqueur coûpable il n'ait tiré raison » (v.563 & 564). Les scènes indispensables dans d'autres lieux (le Sénat, l'assemblée du Peuple, le Temple, le Camp) sont rejetées dans les entractes et les nouvelles de l'extérieur arrivent sur scène par le biais de récits. L'unité de lieu est ainsi respectée tout au long de la pièce grâce à un lieu indéterminé (une sorte de corridor), lieu de passage représentatif du « palais à volonté » qui va ensuite devenir le décor unique de la tragédie. Une remarque cependant : ce respect de la règle est atteint, comme souvent à l'époque, au prix de quelques entorses qui pourraient bien paraître, elles, invraisemblables… En effet, s'il donne sur le jardin, ce lieu doit bien posséder des ouvertures, et sans « vitres » pour garantir le secret des propos… ! En plus d'admettre que les personnages s'y succèdent et choisissent ce lieu peu discret pour leurs confidences, il faut supposer que personne ne surprend les conversations depuis le jardin, et que c'est un lieu adéquat pour recevoir (v. 169) ! D'ailleurs ce lieu reste assez imprécis car il n'est plus fait mention du jardin après la première évocation (destinée à « planter le décor » ?) et Papyre reste abstrait quand il qualifie le palais de Camille de… « lieu » ! : cette unité respectée au nom de la vraisemblance apparaît ici comme bien conventionnelle…
 
 
-### L'unification de l'action
+### L'unification de l'action.
 
 L'action de la pièce est unifiée par la constance du « péril » que Papyre fait peser sur Fabie : malgré une victoire très bénéfique à Rome, ce lieutenant risque la mort pour avoir désobéi à son chef. On assiste donc à des récits racontant les circonstances de l'interdiction de combattre puis de la désobéissance et ensuite aux différentes tentatives des protagonistes pour empêcher l'exécution de la sanction et faire changer d'avis le dictateur (en montrant les conséquences fâcheuses que pourrait avoir cette mort). Le fil amoureux dépend complètement de cette situation initiale car il ne présente ni sérieuse menace de rival ni problème de mésalliance, par exemple : le malheur des amants provient uniquement de la promesse de mariage rompue par Papyre et du péril encouru par le jeune homme. Ce que Mareschal concède au goût de l'époque, c'est une certaine rupture de ton dans quelques scènes réunissant Fabie et Papyrie, la volonté de mourir plutôt que de devoir renoncer à son (sa) bien-aimé(e) relevant d'un ton plus galant que véritablement tragique. Du point de vue de Papyre, l'action paraît également unique puisqu'il se trouve dans une « situation bloquée » génératrice de dilemmes : pour se faire respecter comme dictateur, il se doit de réclamer la mort de Fabie mais en même temps il est conscient de la valeur de celui-ci, qu'il aime comme un fils ; mais cependant, qu'il agisse en dictateur ou en protecteur, reste l'affront… Il faut donc en envisager toutes les conséquences, ce qui est l'objet des réflexions et des discours de Papyre tout au long de la pièce.
 
 
-### Le traitement du temps
+### Le traitement du temps.
 
 Les impératifs imposés par l'unité de temps ( borner l'action dans l'espace maximum de 24 heures) influent fortement sur l'organisation de l'intrigue dans le sens où les déplacements nécessaires à l'évolution diégétique doivent non seulement être évoqués mais aussi avoir le temps de se produire, fût-ce hors scène, de façon réaliste. Les entractes sont notamment utilisés à cette fin puisque l'on admet qu'il peut s'y écouler un temps assez important (4 ou 5 heures), ce qui permet aux déplacements les plus longs de s'y dérouler sans que cela ne choque la vraisemblance.
 
 Dans *Le Dictateur romain*, Mareschal semble avoir prêté attention à cette règle puisque tous les déplacements effectués pendant les scènes jouées sont probables et que les entractes servent beaucoup, le dramaturge y plaçant notamment les scènes qu'il ne peut montrer de peur de nuire à l'unité de lieu. Au premier entracte, le Sénat a reçu Fabie et l'a pris sous sa protection. Entre le deuxième et le troisième acte Papyre arrive au palais, son voyage ayant été entamé plus tôt puisqu'il est déjà à Rome en II, 3. À l'entracte suivant le Sénat a délibéré et renvoyé l'affaire au peuple ; et entre les deux derniers actes le peuple s'est assemblé, mais n'a pas osé absoudre Fabie. Logiquement, tout peut se passer en 24 voire 12 heures puisque les assemblées (même s'il y en a trois) se font à Rome et que ceux qui y participent sont sur place et ne doivent théoriquement pas prendre trop de temps pour se réunir. Les seuls déplacements prenant du temps sont les allées et venues entre le Camp et Rome. Les premières arrivées de Comine et Fabie puis de Papyre sont probables puisque les voyages sont commencés avant même le début de la pièce pour les deux premiers et que Papyre, qui repart pour le Camp dès la scène 1 [27], en apprenant la désobéissance de son lieutenant, a le temps d'y arriver et de repartir aussitôt pour Rome en ne l'y trouvant pas avant son entrée à l'acte III. Les autres déplacements de Comine sont un peu plus difficiles à comprendre puisque après quelques interventions, notamment avec Fabie (Acte III), il reparaît ensuite à la dernière scène de l'acte IV mais n'y prononce pas un mot puis revient à la scène 2 de l'acte suivant, avec la nouvelle de la révolte de l'armée. Cela fait, malgré l'entracte, un temps assez court pour faire le voyage, et l'on peut penser qu'il a appris la nouvelle d'un messager quelconque avant de revenir trouver Papyre, puisqu'il était nécessaire que ce soit lui qui lui apprenne cette révolte pour que ce dernier puisse le punir en même temps que Fabie (« Vous leur yrez porter & mon ordre, & sa téte » v. 1390). Contrairement à ce que l'on pourrait donc penser, le vers 1369 « Une triste nouvelle à vos yeux me r'ameine » ne signifie probablement pas que Comine est lui-même parti puis revenu du Camp pendant l'entracte.
 
 
-## Présence et rôles des personnages : la structuration diégétique
+## Présence et rôles des personnages : la structuration diégétique.
 
 
-### Occupation scénique
+### Occupation scénique.
 
 Selon les actes, les personnages présents en scène diffèrent, certains dominant même plusieurs parties de la pièce aux dépens des autres. Il est intéressant de noter comment les divers protagonistes de l'histoire se répartissent l'occupation du plateau au fur et à mesure de l'évolution de l'action et avec qui, ou face à qui, ils se trouvent le plus souvent sur scène car cela aide à dégager des affinités ou des rapports de forces entre eux. D'autre part, les scènes de « duos » (ou éventuellement « duels »…) sont à analyser avec attention car elles mettent plus particulièrement en relief des personnages dont la parole est alors privilégiée. Tout cela révèle une structure de l'intrigue sous-jacente mais capitale pour comprendre les choix du dramaturge (quel est l'intérêt pour l'intrigue de retarder une entrée, de présenter des personnages toujours ensembles, etc.).
 
@@ -317,7 +317,7 @@ Le schéma des entrées successives ne correspond ici pas du tout à celui que n
 Il résulte de cette organisation plusieurs conséquences importantes pour comprendre le déroulement de l'action et en particulier pourquoi elle est si « lente » : d'abord, le constat, du fait de leurs arrivées tardives, d'un manque d'échanges entre Papyre, Fabie, et les autres personnages : les faits sont « rapportés », et même s'ils donnent ensuite leurs points de vue, on a parfois l'impression que les personnages principaux se retrouvent dans un conflit qui les dépasse, dans lequel d'autres se sont engagés presque avant eux, et qui peut-être aurait pu être résolu d'une autre manière s'ils avaient pu le traiter en privé : d'ailleurs Fabie est gêné qu'autant de monde prenne sa défense et il ne cesse de réaffirmer à son chef que ce n'est pas lui qui a suscité ce soutien et qu'au contraire il acceptera sans discuter sa sentence [29] ; ainsi cette obéissance, certes tardive, aurait peut-être pu inciter Papyre à opter pour une ligne de conduire moins dure, à faire d'éventuelles concessions. De plus, comme toute l'action, et donc toute la pièce, repose sur le dictateur, la part belle est faite à ses hésitations mais rien n'est mis en place pour le « brusquer » réellement, accélérer le processus, les menaces restant peu efficaces et aucun véritable ultimatum ne lui étant lancé, avec par exemple la possibilité d'un retrait de son autorité par le Sénat, ou bien, de la part de l'armée ou du peuple, une durée au-delà de laquelle la « guerre civile » pourrait éclater : sans craindre de réels reproches, Papyre prend donc son temps et, en conséquence, il faut sans cesse occuper la scène par d'autres interventions, qui sont souvent des supputations, pour lui laisser le temps de la réflexion. Certes, cela augmente la tension tragique, mais nuit au rythme général de l'action. Enfin, l'organisation de l'intrigue choisie par Mareschal met en avant la complexité des différentes oppositions à Papyre par le développement simultané de revendications pour le héros de Rome qui ne se situent pas sur le même plan : en fait, tous ne soutiennent pas Fabie pour la même cause, et même s'ils sont indissociables, il y a bien deux fils dans cette histoire: d'un côté il y a les femmes, qui veulent, notamment par le chantage, sauver un mariage qui, quoi qu'ait fait le jeune homme, reste légitime car promis ; de l'autre il y a Papyre prenant, en tant que chef, une décision par rapport à un acte militaire et ne prenant *que* ce critère en considération, occultant « Fabie le gendre » et « Fabie le sauveur de Rome » pour se cristalliser sur « Fabie le lieutenant désobéissant ». Mais comment juger justement quelqu'un sans prendre en compte tous ses aspects ? C'est le problème que soulèvent les scènes qui se succèdent sans pouvoir faire la synthèse de ce qu'*est* Fabie, Papyre naviguant par conséquent entre différentes images d'un même homme qui le poussent vers des décisions contradictoires qui bloquent l'évolution dramatique. D'ailleurs à l'acte IV, malgré la médiation de Flavie, la rupture est consommée : les femmes font des vœux pour *l'amant* avant que *le soldat* victorieux ne s'oppose à celui qui ne voit toujours que sa désobéissance. L'occupation scénique révèle ainsi tout un processus de construction complexe visant essentiellement à étirer l'action dans la limite de 5 actes sans que tout y paraisse déjà décidé, « joué » d'avance par le pouvoir absolu de décision que détient Papyre. Cette méthode employée par Mareschal sera étudiée de manière plus approfondie dans l'analyse de l'action proprement dite, un peu plus loin.
 
 
-### Répartition de la parole et poids de chacun des personnages dans l'action
+### Répartition de la parole et poids de chacun des personnages dans l'action.
 
 Parce qu'ils n'ont pas tous le même rôle à jouer dans la tragédie, les personnages du *Dictateur romain* ont chacun à dire des répliques qui sont selon les cas plus ou moins importantes, tant en quantité qu'en qualité des informations données. On notera qu'il y a parfois des décalages entre, par exemple, la forte présence sur scène d'un personnage et ses interventions qui ne seront pas capitales, ou, au contraire, on pourra trouver une parole importante condensée en quelques répliques. Cette étude permet de déceler quels sont les personnages réellement indispensables, de par le poids de leurs mots, à l'évolution de l'action et nous verrons que la hiérarchie entre eux est loin d'être aussi évidente que l'on pourrait le croire.
 
@@ -347,15 +347,15 @@ Les personnages du *Dictateur romain* sont donc plus ou moins présents et actif
 L'action est ainsi structurée par la présence ou l'absence de personnages ou groupes de personnages qui se caractérisent essentiellement par ce qu'ils disent et à qui, ce qui induit une succession de scènes aux tonalités parfois très différentes, ceci ayant pour but d'équilibrer et rythmer la pièce et de maintenir l'attention du spectateur, au même titre que le découpage en actes (et l'attente qui provient généralement à la fin de ceux-ci) ou la concentration spatiale et temporelle.
 
 
-# Étude des personnages du Dictateur romain
+# Étude des personnages du Dictateur romain.
 
 
-## Modification des caractères des personnages de Tite-Live par Mareschal
+## Modification des caractères des personnages de Tite-Live par Mareschal.
 
 Mareschal fait d'un récit une pièce de théâtre et est donc amené à transformer les éléments qui lui sont fournis par Tite-Live pour les adapter à l'écriture dramatique. Il apporte notamment à l'histoire son côté tragique en modifiant les caractères des personnages, auxquels il donne de nouvelles dimensions.
 
 
-### Une certaine humanité
+### Une certaine humanité.
 
 Chez Mareschal, Papyre aime sa femme et sa fille, mais aussi Fabie, qu'il considère comme son fils. Il en résulte des luttes intérieures intéressantes puisque le dictateur doit faire son devoir malgré l'amitié que l'homme porte à Fabie et malgré sa femme & sa fille, qui menacent de se tuer si Fabie est exécuté. Fabie lui aussi aime : il s'agit de Papyrie, fille de son rival, qu'il ne peut donc offenser de peur de perdre sa bien-aimée, alors que chez Tite-Live l'offense est revendiquée puisque Fabie affirme clairement dans une lettre adressée au Sénat qu'il ne voulait pas partager la victoire avec son chef. Son père aussi est différent chez Mareschal et chez Tite-Live : de simple adversaire il devient celui qui veut garantir à tout prix le salut de Rome, fût-ce en lui immolant son fils.
 
@@ -365,46 +365,46 @@ Mareschal a créé des luttes intérieures dans les trois personnages principaux
 Surtout motivés par leur propre sort et leurs intérêts chez le Latin, les personnages, chez Mareschal, prennent en compte les avis voire l'opposition de leurs proches, et même s'il ne souhaitent pas s'y soumettre, l'opinion des autres pèse sur leur conscience et contribue à la peinture de personnages déchirés, plus tragiques que les héros de *L'Histoire romaine*.
 
 
-### Une unité éthique
+### Une unité éthique.
 
 Les ambitions personnelles des personnages latins sont, au XVII*e* siècle, effacées devant un intérêt commun qui est celui de Rome. Chez Mareschal, c'est en son nom que les personnages agissent d'abord, pour le bien de la Ville et du peuple. La cause personnelle passe après ; il y a ainsi une valeur qui transcende les personnages et motive puissamment leurs actions, ce qui renforce le côté tragique de la pièce par la conscience de la présence d'une force qui dépasse les individus ; cela donne également plus de noblesse aux actions entreprises et aux décisions prises pour régler la crise qui menace l'équilibre social en place. L'exemple parfait en est Fabie Père qui défend son fils contre Papyre mais est prêt à le sacrifier pour éviter la révolte et assurer la puissance des lois à Rome.
 
 
-### Une unification de l'action
+### Une unification de l'action.
 
 Celle-ci est assurée par la dépendance totale qui existe entre le dénouement et la décision de Papyre, malgré les apparences de partage de la décision avec le peuple et le Sénat – qui d'ailleurs refusent de prendre une décision si importante, rejetant par là même la responsabilité des éventuelles conséquences qui pourraient y être liées – et les tentatives d'influence de autres personnages (Camille, Lucille & Papyrie, Fabie Père). La prise de position de l'armée pour son chef puis la révolte du peuple, quant à elles, ne sont que des moyens de retarder la décision et le coup de théâtre de la clémence mais elles ne remettent en aucun cas en question le fait que la décision ne dépend que de Papyre, malgré le poids que ces deux instances veulent jouer pour la faire pencher en leur faveur.
 
 
-## Les différents caractères présents dans la pièce
+## Les différents caractères présents dans la pièce.
 
 
-### Les personnages secondaires
+### Les personnages secondaires.
 
 
-#### Comine
+#### Comine.
 
 Ami de Fabie, il est le lien entre l'armée et le palais et sa présence est un élément d'unification du lieu et du temps puisqu'elle nous évite de longs voyages au camp pour apprendre ce qu'il s'y passe. Il ne se définit que par rapport à Fabie, dont il est le faire-valoir puisque c'est lui qui raconte, et donc peut-être enjolive aussi, sa victoire sur les Samnites. Sa première erreur, en faveur de Valère, et son repentir en ont fait le type même de l'ami fidèle prêt à suivre celui auquel il attache son sort jusque dans la mort [32] : ne dit-il pas à Fabie : « Je ne vous quitte point » (v. 917) ? Pourtant ce dernier ne semble pas avoir spécialement besoin de réconfort et n'a pas de mot de remerciement ou de reconnaissance envers Comine, ce qui prouve le peu de consistance de ce personnage en tant qu'ami. En fait, Comine joue le rôle du messager, il ne tente pas de modifier le cours des événements, c'est un personnage passif sans poids sur l'action et sans caractère approfondi.
 
 
-#### Martian
+#### Martian.
 
 Tribun du peuple, il n'a pas d'épaisseur comme personnage, car il est uniquement un « rôle » : il représente la parole populaire puisque « techniquement » on ne peut faire entrer une foule sur scène, encore moins donner la parole à un nombre assez grand de personnes pour que l'opinion exprimée soit représentative d'une tendance générale. Martian est donc le porte-parole des Romains, qui sont ainsi tout de même consultés sur la question qui préoccupe leur chef, ce qui a son importance dans un système où le pouvoir de décider est censé être aux mains du peuple. D'ailleurs Martian rappelle en IV, 4 qu'il faut tenir compte de lui, même s'il paraît n'avoir aucune autorité en soi ; comme il représente un groupe, il devient un personnage à ne pas négliger car il y a beaucoup de gens derrière lui, prêts à agir, ce qu'il exprime en disant « Le Peuple en fin peut tout ». De plus il faut savoir que lors d'une dictature les tribuns du peuple étaient les seuls à conserver une autorité face au chef ; le rôle de Martian, outre le fait qu'il participe à l'exactitude historique du contexte, n'a pas besoin d'autre justification que cette parole qui reste permise face à Papyre, même dans ces circonstances politiques particulières, parole que le dictateur ne peut refuser d'écouter. C'est finalement lui qui, au nom de Rome, suppliant une fois de plus le dictateur d'épargner Fabie, réussira à le fléchir et à lui faire choisir la clémence ; malgré sa faible présence, il est celui qui provoque le dénouement et son rôle s'en trouve ainsi renforcé.
 
 
-#### Valère
+#### Valère.
 
 C'est un personnage qui n'apparaît pas sur la scène. Il est simplement évoqué par les autres mais on lui prête un rôle néfaste dans la bataille contre les Samnites, rôle qu'il n'a d'ailleurs pas tenu dans la réalité puisque Tite-Live le fait intervenir, dans son récit, après la clémence. En fait il n'est qu'un moyen de plus de dresser, en négatif, un portrait flatteur de Fabie : il endosse le rôle du rival jaloux du rang militaire et des succès amoureux du vainqueur et qui est prêt à tout pour perdre son concurrent auprès du dictateur. Il tente de s'attribuer la responsabilité de la victoire pour garder les bonnes grâces de Camille, mais il avoue ses projets de trahison à Comine qui les répètera dans son récit de la bataille afin de rétablir la vérité de l'événement. La bassesse de cette action justifie *a posteriori* le choix de Papyre (Fabie plutôt que Valère comme Lieutenant Général) et renforce la noblesse de l'action de Fabie, qui en engageant la bataille n'a à l'esprit que la gloire de Rome.
 
 
-### Les femmes
+### Les femmes.
 
 
-#### Lucille
+#### Lucille.
 
 Elle tient un rôle de mère plus qu'un rôle d'épouse ou de « reine » (même si Papyre n'est pas vraiment un roi, il en occupe temporairement les fonctions) car elle n'est pas du tout associée au pouvoir ni consultée par son mari. C'est pourquoi elle se situe d'emblée du côté de sa fille, sa première préoccupation étant son bonheur, donc son mariage. Elle tente tant qu'elle peut de rassurer Papyrie, partageant en cela l'optimisme de son frère Camille quant à une possibilité de résolution heureuse du conflit ; d'ailleurs elle veut y contribuer [33], même si ses intentions ne seront pas suivies d'effets puisqu'elle argumentera très peu face à son mari. En fait, elle cherche à fléchir son époux par les supplications (« Je l'implore pour luy ; donnez le à mes prières », v. 737) ou carrément la menace, affirmant qu'elle mourra comme sa fille s'il met à exécution sa condamnation envers Fabie. Cependant, elle s'impose comme personnage avec lequel il faut compter par sa prise d'initiative du début où, sans prévenir Papyre, elle révèle à sa fille les fiançailles qui devaient rester secrètes [34] jusqu'au retour des hommes. Ainsi elle espère contribuer au bonheur du jeune couple même si les conséquences ne seront pas celles qu'elle attendait puisque à l'espoir succèdera la cruelle désillusion due au refus de Papyre de tenir sa promesse. Lucille a un rôle de déploration, qui est la contrepartie de son espoir, qui la fait attendre que la situation évolue d'elle-même sans plus s'y impliquer après sa révélation initiale. Par conséquent, cela nuance l'importance qu'elle a réellement dans l'intrigue : elle n'a pas envers Papyre la violence d'autres femmes romaines, par exemple celle que manifeste Camille à l'encontre d'Horace, et malgré son désir de résolution heureuse, elle reste à sa place de femme, et l'on ne peut pas dire que son personnage choque la vraisemblance du caractère d'une mère de tragédie.
 
 
-#### Papyrie
+#### Papyrie.
 
 Cette jeune femme est à la fois fille et amante, elle se sent autant concernée par ce que peut ressentir son père que par le point de vue de Fabie sur le conflit, ce qui en fait un personnage déchiré : « Mon Pere & mon Amant combattent dans mon cœur » dit-elle (v. 439). Partagée entre les deux hommes jusqu'à avoir un prénom qui semble combiner les leurs, elle ne se borne pourtant pas à déplorer la situation, laissant fréquemment éclater sa colère. Ses réactions sont d'autant plus violentes qu'elle ne se fait pas d'illusion sur l'issue du conflit et n'a foi ni dans le peuple, qu'elle juge « inconstant », ni dans les Dieux dont elle « n'espère rien ». Ayant un fort sens de l'honneur elle est à la fois touchée de voir que son père ait pu être offensé et que Fabie ne revendique pas assez sa gloire face à Papyre, et, en vraie Romaine, elle n'hésite pas à envisager la mort comme solution à ses souffrances. En effet, elle assure à Fabie que s'il meurt, « s a genereuse mort les poura reünir » (v. 652), et elle n'a pas peur de provoquer son père en disant : « Pour achever ce coup genereux & barbare, / Si vous versez son sang, que le mien le repare » (v. 1534). Pourtant, en parfaite amante, elle tente d'étouffer le sentiment filial qui la relie à Papyre pour prendre le parti de celui qui devrait être son époux et qu'elle considère comme tel, quelqu'en soit le prix à payer. En effet, Fabie est le héros qu'elle attendait, le parfait époux, égal à un « Dieu », celui qui lui inspire une telle profession de foi :
 
@@ -421,15 +421,15 @@ Et pour la bien tenir, compagne de son sort,
 Puis qu'il s'en va mourir, je n'attens que la mort. (Acte IV, sc. 1, v. 1009-1012)  
 
 
-#### Flavie
+#### Flavie.
 
 Elle remplit son rôle de suivante et confidente fidèle selon ce qu'on en attend sur une scène de tragédie : elle « espionne », elle informe et s'assure de la sécurité des amants (elle les empêche de se suicider), mais elle est aussi là pour écouter. Elle n'outrepasse pas sa fonction, par exemple en contredisant sa maîtresse, et rentre parfaitement dans le « caractère » classique qui la définit.
 
 
-### Les opposants à Papyre
+### Les opposants à Papyre.
 
 
-#### Camille
+#### Camille.
 
 « Consul de Rome », comme le précise la liste des personnages, Camille est pourtant dès le début défini comme ce qu'il n'est plus, son image est d'emblée forgée, en négatif, à partir de celle de Papyre : « s on mal l'a rendu seul Maître de l'Empire » (v. 25), et s'il reste consul, il n'a plus le pouvoir, ce qui le place d'office dans une position de « hors-jeu », dont il a conscience et qu'il regrette, qui se confirmera tout au long de la pièce. Ce personnage semble avoir un sentiment d'inutilité, et d'infériorité par rapport à Papyre, avec l'impression de n'avoir pas été digne du pouvoir. En effet, malgré ses qualités, il n'a plus l'autorité nécessaire pour imposer ses idées destinées à la résolution de la crise qui secoue Rome, en particulier par la voie de la clémence, qu'il propose dès la « sentence » prononcée par Papyre. Il a le premier l'intuition de l'opposition qui va dresser Papyre et Fabie l'un contre l'autre par amour de la « gloire », et sa réaction au récit de Comine est claire :
 
@@ -442,7 +442,7 @@ Vous avez le pouvoir : luy, l'amour des Romains. (v. 1340)
 Personnage intuitif et sage, Camille souffre tout au long de la pièce d'un manque de reconnaissance dû à la perte de son autorité légitime, et il ne trouve pas le ton qu'il faut pour convaincre de la justesse de ses propos ; il sera en cela opposé à Fabie Père, détenteur d'une rhétorique, sinon efficace, du moins percutante, qu'il met avec brio au service de la cause qu'il défend.
 
 
-#### Fabie Père
+#### Fabie Père.
 
 Ce personnage intervient dans l'action mu par différentes motivations, qui se complètent et justifient d'autant plus sa présence sur scène, même si celle-ci est rare. En effet, et sa façon d'être nommé le prouve amplement, il est d'abord le père du lieutenant de Papyre, et réagit en tant que tel face au dictateur, auquel il demande la grâce pour Fabie, comme face à son fils, auquel il ne cesse de rappeler son appartenance à une illustre famille. Cette *gens* prestigieuse lui a transmis un code de l'honneur qu'il est fier de respecter et qui fait aussi de lui le modèle du « Romain » tel que l'imaginent les spectateurs du XVII*e* siècle, ayant notamment une haute opinion de sa gloire et une loyauté sans faille à Rome, dont il cherche à assurer la pérennité malgré les événements qui peuvent l'ébranler. Mais Fabie est aussi un sénateur, ancien consul, et, qui plus est, ex-dictateur, qui a l'expérience du pouvoir et qui se présente comme un opposant à la politique de Papyre, qu'il ne s'interdit d'ailleurs pas de critiquer, n'étant pas impressionné par les menaces de celui-ci envers lui : Fabie Père ne censure en aucun cas sa parole, affirmant que « la crainte est aux méchants » et que lui « en diffère bien » (v. 968). Epris d'absolu, il ne pardonne ni les faiblesses qu'il croit déceler chez son fils ni l'inflexibilité du dictateur et est prompt à s'emporter pour faire valoir ses positions : il qualifie ainsi Fabie d'« infâme » ou Papyre de « cruel », comptant sur sa verve pour faire réagir ses interlocuteurs. Fabie Père est incontestablement un orateur qui a conscience du poids que les mots peuvent avoir, prêt à aller jusqu'au bout pour défendre ses convictions [36], ce qui s'exprime dans la pièce par des tirades en forme de discours judiciaires visant à prendre la défense de Fabie ou à accuser Papyre. Enfin, doté de la sagesse qui caractérise habituellement les consuls, Fabie Père se veut être la voix de la raison, c'est-à-dire celle de la modération et de l'adaptation de la peine à la faute, affirmant que, dans ce cas particulier,
 
@@ -457,10 +457,10 @@ Que le voir glorieux, en la voyant Rebelle (v. 1459-1461),
 il agit en vrai Romain et force l'admiration : par son fort charisme, Fabie Père est peut-être le personnage qui marque et « existe » le plus face à l'autorité absolue que représente Papyre.
 
 
-### Les personnages principaux
+### Les personnages principaux.
 
 
-#### Fabie
+#### Fabie.
 
 Fabie est au premier chef concerné par l'action, pourtant il n'a que très peu de prise sur elle : en position d'accusé, il n'a aucun pouvoir de décider de son sort, il ne peut que tenter de convaincre Papyre de sa bonne foi [37] mais le dictateur ne veut rien entendre. Pourtant, il n'a pas pour ambition de prendre la place de Papyre par un coup d'éclat à la guerre, par exemple, puisqu'il accepte l'autorité et la supériorité du dictateur, comme il l'explique lui-même à Papyre :
 
@@ -472,7 +472,7 @@ Dedans vostre Maison en Vainqueur, en Amant (v. 851-852 & 855-856)
 D'ailleurs, même s'il a un rang de responsabilité dans l'armée, il reste soldat et doit donc obéissance au chef : Fabie, en ce sens agit conformément au caractère que l'on attribue à un militaire, mais si la bienséance est respectée, la ressemblance semble mise à mal puisque cette attitude va à l'encontre de l'image du héros guerrier qui défie l'autorité, héros que Fabie est aussi censé être... Cette image est également malmenée par le fait que Fabie n'exprime pas l'orgueil qui devrait résulter de sa victoire, mais au contraire accepte la mort sans se rebeller contre la sévérité de la sanction qui lui impose « une honteuse mort pour un fait vertueux » (v. 507). Ainsi, le héros de la guerre « ne s e déffend pas » mais réclame tout de même de tomber en héros ou de mourir dignement par sa propre main, rejetant le supplice qu'on lui prépare : ne dit-il pas « En vainqueur j'ay failly, qu'en vainqueur je perisse » (v.1138) ? Ce personnage est complexe car il ne correspond pas vraiment à un « type » : héros sans *hybris*, il est sensible à l'amour mais n'est pas uniquement galant puisque s'il affirme « je craints peu de mourir, si je vy dans son cœur » (v. 548), il dira aussi « j'ay vécu pour l'honneur ; je veux mourir de mesme (v. 929). » Enfin, il sait s'oublier pour le bien de sa patrie puisque c'est son intérêt qui l'a poussé au combat et qui l'incite à la fin à proposer son propre sacrifice pour racheter toute la ville mutinée. En fait, la première initiative [38] – malheureuse – de Fabie semble l'avoir poussé à adopter la position opposée, qui est de ne plus agir pour modifier le cours des choses mais simplement de déplorer la façon dont elles évoluent et rappeler qu'il saura si nécessaire recourir au geste le plus radical qui soit : le suicide. (« Je sçauray prevenir cet infame trépas », v. 1491). Cette dernière facette du jeune homme est admirable, mais comme Fabie s'est refusé à rentrer dans le jeu argumentatif, il transparaît comme un manque de conviction, d'implication, dans ses propos qui nous empêche de le placer sur un pied d'égalité avec Papyre, et qui en fait un personnage un peu terne à côté des excès dont est capable le dictateur.
 
 
-#### Papyre
+#### Papyre.
 
 Personnage au sommet de la hiérarchie romaine, Papyre semble se situer, dans tous les domaines qu'il aborde, dans une sorte de différence, de démesure, due à sa position de supériorité par rapport aux autres. En effet, il a un pouvoir qu'il entend faire respecter par tous et jusqu'au bout et il n'y souffre pas d'exception, quelques soient les circonstances : il refuse les conseils de ceux qui ne sont pas au pouvoir car il pense être le seul à même de prendre les bonnes décisions, ayant une sorte de vision globale sur les chose, point de vue qu'il dénie aux autres. C'est pourquoi il est prêt à s'opposer à tout un peuple s'il juge que celui-ci est dans l'erreur puisqu'il pense qu'il faut faire son bien malgré lui ; aussi affirme-t-il : « Et rendons Rome heureuse en dépit d'elle-méme » (v. 1354). Ayant de fortes convictions concernant les manières d'agir justement, il ne tolère pas l'irrévérence envers les Dieux et place au-dessus de tout autre intérêt celui de Rome et le respect des lois, pour lesquelles il est prêt à tout sacrifier. Papyre prend très à cœur son rôle et se fait un devoir de ne pas manquer à ses obligations de dictateur, et pour remplir correctement sa charge il est capable de faire taire ses sentiments et d'aller à l'encontre des choix que l'homme qu'il est aurait peut-être faits (par exemple pardonner à Fabie). Il y a en fait deux facettes dans ce personnage, la seconde ne nous étant dévoilée qu'au fur et à mesure de la pièce : il y a tout d'abord le dictateur, qui doit obéir à un caractère bien défini (qui lui confère l'autorité, l'obligation de maintenir le droit et l'ordre ainsi que de rendre la justice sans prendre parti pour l'accusé, etc.) et qui montre Papyre comme quelqu'un de froid et déterminé [39]. Mais Papyre est aussi un homme qui sait apprécier la valeur, et qui a noué des liens avec la famille de son lieutenant ; par conséquent il connaît les nombreuses qualités de celui qu'il poursuit. De ce fait, ce personnage apparaît déchiré parce qu'il a conscience que Fabie est réellement un héros pour Rome et qu'il peut être un soutient important au pouvoir, mais la désobéissance au chef et la gloire qui lui a été indûment ravie sont des faits trop graves pour être passés sous silence par un dictateur, qui doit les punir au nom de la survie de l'état. D'ailleurs Papyre ne cache pas à Fabie son sentiment sur la position difficile qu'il occupe puisqu'il lui dit :
 
@@ -484,14 +484,14 @@ Mais Rome & moy perdrions bien plus en vous gardant (v. 1177-1180).
 Enfin Papyre trouve sa vraie dimension à la fin de la pièce puisque ses attitudes face à la crise se trouvent éclairées différemment par son geste de clémence qui met d'accord le dictateur et l'homme en résolvant les contradictions intérieures du personnage, par une décision manifestant à la fois sa finesse politique et sa grandeur d'âme.
 
 
-## La question de l'héroïsme
+## La question de l'héroïsme.
 
 Il faut pour finir l'étude des personnages du *Dictateur romain*, analyser les rapports de ceux-ci à la question de l'héroïsme : censée rentrer dans la définition des caractères, cette valeur est-elle perçue de la même façon par tous ceux qui devraient se sentir concernés par elle ? Elle peut nous permettre de mieux appréhender, et différencier, les personnages principaux car c'est une notion qu'ils ont en commun même si cela se manifeste de diverses façons dans leurs attitudes.
 
 On peut donner plusieurs sens au terme de « héros ». Outre l'emploi littéraire (le héros de l'histoire), ce mot désigne d'abord celui qui s'est illustré par des faits d'armes. En ce sens, le héros, dans notre pièce, est Fabie, même si les autres personnages ont pu l'être aussi par le passé, Papyre notamment, qui est reconnu pour son « adresse à la guerre ». Mais l'héroïsme est aussi lié à des valeurs morales exceptionnelles (comme le courage et la force de caractère devant le danger ou la douleur, physique ou morale, la fermeté d'âme, etc.) qui font qu'un homme se distingue par ses actes et mérite d'être *proposé en exemple*. Face à cet impératif de grandeur, Papyre et les deux Fabie ne sont pas « héros » de la même façon, et l'action mémorable ne se situe pas forcément entre les mains de celui que l'on attendrait, ce qui contribue au suspens général de la pièce.
 
 
-### Fabie ou le refus de l'héroïsme
+### Fabie ou le refus de l'héroïsme.
 
 Pour son honneur, Fabie ne veut pas mourir par la main d'un bourreau armée par Papyre et préfère le suicide ou la mort au combat, mais c'est un personnage qui, pour autant, ne revendique pas la gloire de sa victoire et qui ne s'oppose ni à l'autorité ni aux lois, ne s'estimant pas supérieur à elles. En fait, il a désobéi à son chef dans un but désintéressé qui était la victoire de Rome, sans penser que cette bataille pouvait aussi être l'occasion de s'illustrer personnellement et de prouver sa valeur, comme le montrent les vers 501 et 502 :
 
@@ -513,12 +513,12 @@ Quoy ? perdre Papyrie, & perdre mon amour ?
 L'attitude héroïque consisterait à revendiquer sans relâche une gloire due aux exploits accomplis, à démontrer la légitimité de sa désobéissance, à refuser d'être traité en criminel et exiger les honneurs dont il est digne après ces combats, sans se soucier des conséquences que cela peut avoir, pourvu qu'il ne se renie pas. Pour assumer jusqu'au bout son action, Fabie devrait rappeler que les intérêts de Rome sont prioritaires par rapport à ceux d'un chef et qu'il est parfois nécessaire, pour le bien de tout un peuple que les lois « se taisent » face à de tels résultats. Or, une fois de plus, ce n'est pas lui qui tiendra ce discours.
 
 
-### Fabie Père ou l'héroïsme revendiqué
+### Fabie Père ou l'héroïsme revendiqué.
 
 Sur cette question, il s'oppose à son fils : en effet, il semble considérer comme normal que cette qualité fasse partie des caractéristiques de sa famille, les plus jeunes devant se montrer dignes de leurs illustres aïeux. Quand il croit voir son fils implorer le dictateur, il lui reproche de ne pas se comporter en vrai Romain, c'est-à-dire de ne pas assumer ses actes, même si cela le met dans une position difficile. C'est pourquoi il le trouve « lâche » et juge que « ce qu'il fait détruit ce qu'il fit » (v. 872). Fabie Père revendique l'attitude héroïque qui semble faire défaut à son fils en assurant qu'il n'hésitera pas, pour sauver l'honneur de la famille, à sacrifier son fils plutôt que de le voir dans une posture indigne d'un Fabie : « Je t'ay donné le jour, je puis te l'arracher » (v. 899), rappelle-t-il en effet à Fabie lors de sa première apparition : chef de famille, il veut par cette phrase à la fois affirmer son autorité face à son fils et rappeler que l'honneur est ce qui doit d'abord motiver tous ses actes, car ce n'est qu'à ce titre que l'on mérite de rester dans les mémoires. De la même façon, Fabie Père affronte sans relâche un dictateur qui semble avoir convaincu son lieutenant mais à l'avis duquel il ne peut se résigner à se ranger sans combattre, et sans dénoncer l'offense que cela représente : comme l'exprime ce vers accusateur destiné à Papyre : « Tu n'en veux qu'à son nom, tu n'en veux qu'à sa gloire » (v. 941), Fabie Père insiste pour que le prestige de sa famille soit reconnu dans tous ses membres et que celui-ci ne soit pas injustement remis en question. Enfin l'ancien consul est d'autant plus virulent qu'il n'agit pas pour lui-même mais pour inciter son fils à se placer comme héros et convaincre les autres de la légitimité de ce statut. Son propre héroïsme consiste à ne pas trembler au moment de passer à l'acte, en soi extraordinaire, puisqu'un « Père tuë son Fils » et « le vouë » à Rome pour expier son crime et celui de Fabie, même si finalement il n'aura pas à accomplir ce geste. Ce personnage ne peut cependant être qualifié d'« héroïque » car les événements ne le touchent que par ricochet et il se borne à exposer l'attitude idéale à adopter dans ce genre de conflit sans avoir à la vivre vraiment.
 
 
-### Papyre ou l'héroïsme de la clémence
+### Papyre ou l'héroïsme de la clémence.
 
 Papyre ne se situe pas sur le même plan que Fabie fils car *a priori* on n'attend pas de lui une attitude héroïque face à cette crise puisque c'est le jeune homme qui doit supporter la remise en cause de sa valeur et l'éventualité de la mort, c'est lui qui, malgré les épreuves, doit démontrer qu'il peut les endurer et qu'il ne renie ni ce qu'il est ni ce qu'il a fait. Ce que l'on demande à Papyre, c'est d'être juste dans sa façon de traiter l'événement, pas de se signaler par une décision exceptionnelle. Pourtant, il semble bien y avoir un déplacement de l'héroïsme attendu du personnage de Fabie vers celui du dictateur : Fabie est certes un héros militaire, mais sa force de caractère semble étouffée sous la résignation, et peut-être la jeunesse, qui n'ose pas se montrer ambitieuse et accepte la possibilité de s'être trompée. Fabie n'est pas encore un être exceptionnel, il n'est pas sujet à des conflits internes, alors qu'au contraire, Papyre doit constamment lutter contre les faiblesses de son cœur pour se montrer à la hauteur de sa fonction, il doit sans cesse faire les preuves de ses qualités de chef et de juge. Homme partagé entre son cœur et sa raison, c'est de son côté que se situe le conflit moral et ce n'est que de ce genre de conflit que peut émerger l'héroïsme, attitude encore grandie par le choix dont elle a finalement été l'objet, parce que céder à la facilité était tout à fait possible. Papyre, dans cette affaire, est doublement touché : Fabie a offensé ce qu'il est (le représentant de l'État, l'autorité) mais aussi ce qu'il était (un grand chef militaire), il a porté atteinte à son honneur en le privant d'une victoire qu'il aurait dû lui-même remporter. Pourtant la décision de punir, logique dans ce cas, n'est pas facile à prendre pour Papyre et sera même remise en doute plusieurs fois, bien que cela ne fasse finalement que renforcer sa nécessité et sa légitimité. Mais parce qu'il a choisi de faire passer son devoir avant tout, de tous les personnages de la pièce, Papyre est le seul qui est susceptible d'être montré en exemple et donc d'accéder à l'éternité, ceci grâce au geste que lui propose Camille et qui le distingue radicalement des autres hommes : la clémence. En effet, on peut attribuer au dictateur romain certaines des qualités qu'Oyie Ndzie accorde à Auguste dans son article « Auguste et l'héroïsme cornélien » [42]. Selon lui, Auguste n'est pas seulement la figure royale de la pièce *Cinna*, il en est aussi le héros parce qu'il est « au centre de l'action et qu'il la domine en étant capable d'en déterminer la forme et les évolutions », ce qui peut également s'appliquer à Papyre qui a tous les possibles entre les mains et aux choix duquel est subordonnée l'évolution de l'intrigue. De plus, la clémence se présente alors comme une solution qui dépasse le cas particulier de Fabie pour devenir la marque d'un acte politique général exceptionnel : « en tant qu'instrument d'ordonnancement du bonheur de l'État, sa grandeur d'âme ne peut que relever du souci général théorique et fonctionnel de garantir le renom et le bon fonctionnement de son gouvernement » [43], d'agir d'abord en fonction de l'« enjeu unique de satisfaire la paix, l'unité et la prospérité de Rome » [44]. Oyie Ndzie a raison de dire que la « véritable clémence est … dépassement de soi par soi » car Papyre, par ce geste, à la fois transcende le dictateur qu'il est, avec ses convictions bien arrêtées, et sublime la personnalité d'un homme, qui est accessible aux sentiments tels que la reconnaissance ou l'amitié. Il ne faut pas se tromper sur cet acte : il « ne ressemble ni à la promptitude à pardonner, ni à la lenteur à punir » [45], ce n'est ni faiblesse devant l'ennemi ni facilité pour rétablir un ordre social et politique chancelant, la clémence consiste plutôt, comme le dit Sénèque [46], « à se maîtriser lorsque l'on a le pouvoir de punir ». Papyre le rappelle d'ailleurs à la fin quand il analyse son geste en disant : « Un important exemple eust fait voir ma puissance ; / Un exemple plus doux montrera ma clemence (v. 1585-1586). »
 
@@ -537,10 +537,10 @@ Ainsi, il est clair que le héros véritable de cette histoire est, comme le sug
 On peut dire que Mareschal a donné une vraie dimension théâtrale à tous ses personnages en affinant leurs caractères initiaux pour en accentuer les qualités morales et psychologiques, qui donnent ainsi de l'intensité aux échanges de la pièce. C'est pourquoi si des notions comme l'héroïsme ou la gloire sont des éléments importants dans la définition de nos personnages, c'est parce que Mareschal prend soin de modifier les personnalités historiques pour qu'elles correspondent au mieux à son ensemble dramatique, qu'il veut construire de la façon la plus homogène possible.
 
 
-# Le thème du pouvoir
+# Le thème du pouvoir.
 
 
-## Le contexte de l'exercice du pouvoir
+## Le contexte de l'exercice du pouvoir.
 
 
 ### Qu'est-ce qu'un dictateur à Rome ?
@@ -561,7 +561,7 @@ De plus, Nous soulignons le fait que « l'autorité » des tribuns du peuple, 
 ### Le partage du pouvoir : mythe ou réalité ?
 
 
-#### L'image d'un pouvoir collectif
+#### L'image d'un pouvoir collectif.
 
 La dictature est un mode de gouvernement exceptionnel, mais celui-ci ne remet pas en cause la République et ses valeurs. C'est pourquoi il est très important que le nouveau chef ne *paraisse* pas absolu, il faut donner l'impression d'une continuité avec le système consulaire, considéré comme normal : respect des lois, appel aux instances dirigeantes… même si le pouvoir de décision est concentré dans les mains d'un seul. D'ailleurs, comme le dictateur est nommé par les consuls, il ne peut être que juste, à moins de remettre en doute la clairvoyance de ceux-ci ; il est donc logique que même chef suprême, il ait la sagesse de gouverner en accord avec les instances du pays que sont le Sénat et les tribuns. Ainsi, dans notre pièce, l'instauration d'une dictature donne tous les pouvoirs à Papyre mais cependant il doit agir de manière juste. D'ailleurs, le Sénat est vu comme un contre-pouvoir et Fabie fait appel à lui dès son retour pour avoir sa protection. De même, Camille, consul, même après son abandon du pouvoir, garde une certaine autorité naturelle et le jeune homme attend son avis sur la question comme une décision. Dans le conflit qui oppose Papyre à Fabie, l'offense est avant tout personnelle : Fabie est non seulement coupable de désobéissance mais en plus il a ravi une gloire qui revenait à son chef, et si elle a tant d'effet sur le dictateur, c'est parce qu'il a un sens de l'honneur très important. Pourtant Papyre en fait une question de survie de l'État et réagit donc en tant que dictateur qui se doit de maintenir l'ordre à n'importe quel prix. C'est pourquoi il reste inflexible, mais l'absence de réaction de Fabie lui pose problème et c'est d'abord pour garder la légitimité d'un affrontement qui doit rester dans le domaine public, politique, que Papyre ordonne à Fabie de se défendre : il ne veut pas être accusé d'abus de pouvoir en punissant son lieutenant sans autre forme de procès, juste parce qu'il en a les moyens : le droit et les apparences d'un procès juste doivent perdurer pour que la punition soit acceptée et ne paraisse pas résulter de la décision arbitraire d'un chef jaloux de la gloire d'un autre.
 
@@ -571,26 +571,26 @@ La dictature est un mode de gouvernement exceptionnel, mais celui-ci ne remet pa
 Dans notre pièce, il est clair que même si le Sénat garde un certain prestige, il n'a pas d'indépendance puisqu'il n'ose pas s'opposer à son chef. L'appel au peuple, également utilisé pour renvoyer une image « démocratique », est ressenti comme inutile car celui-ci n'a pas de réel pouvoir. Ce qui compte dans cette dictature, c'est de sauver les apparences pour paraître agir justement et dans le respect des lois, qui va de pair avec celui de la tradition. Les appels sont donc accordés, un avocat (le père de l'accusé) est accepté pour la défense… cela afin qu'il n'y ait ni révolte, ni soupçon d'injustice ou de partialité de la part du dictateur. Mais Papyre, très imbu de son pouvoir, prétend tout décider seul sans même écouter l'avis de ses conseillers : il voit son pouvoir comme absolu pendant son mandat. D'ailleurs ce personnage reste, dans l'affaire, juge et partie, et cela n'a pas l'air de déranger grand-monde… Tout le monde sait où se situe le réel pouvoir puisque personne n'ose prendre parti ni ne contestera la décision de Papyre, sauf Fabie Père, mais c'est son rôle d'avocat qui veut cela, et il le joue jusqu'au bout même si l'on peut se demander si lui-même y croit vraiment… Ayant exercé le pouvoir, il n'est en effet sûrement pas dupe des rapports de force qui existent entre les protagonistes de l'affaire, ni de la comédie du pouvoir à laquelle il participe… Car ce procès est véritablement une pièce de théâtre où chacun joue un rôle précis dans l'accusation ou la défense mais où tout est faux, ou du moins faussé par la donne de départ : Papyre se réserve seul le droit d'écrire et de faire interpréter la fin à sa façon…
 
 
-## L'« absolutisme » de Papyre, entre réalité et contraintes
+## L'« absolutisme » de Papyre, entre réalité et contraintes.
 
 
-### Le « caractère » d'un dictateur
+### Le « caractère » d'un dictateur.
 
 
-#### Éléments obligés
+#### Éléments obligés.
 
 Il ne faut pas confondre, comme on pourrait le faire aujourd'hui, un « dictateur » et un « tyran » : ces deux personnages romains n'ont pas les mêmes caractéristiques sur une scène de tragédie classique. Le tyran est celui qui a acquis le pouvoir de façon illégitime et par la force, et qui l'exerce de manière brutale (emploi de la terreur, élimination des opposants…). Un dictateur est légitime car nommé par le Sénat, et même s'il occupe le pouvoir dans des circonstances exceptionnelle, souvent une guerre, il n'a aucune raison de se montrer violent. Mais une certaine ambiguïté est maintenue dans notre texte dans le sens où Papyre *revendique* l'absolutisme du pouvoir qui lui est confié et entend agir uniquement selon son point de vue ; d'ailleurs il se compare au roi Tuelle en disant « Tenez un Dictateur souverain comme luy. » (v. 1279). Papyre se comporte en effet en souverain absolu et affirme qu'il n'hésitera pas à user de la force, et ce contre le peuple même, pour conserver, selon ses propres mots, « tout l'ordre, & les loix, *& Papyre* » (v. 1446, nous soulignons.). En fait, le dictateur de notre pièce est affecté d'un caractère de « roi », ce qui le rend plus proche de la réalité vécue par les spectateurs du XVII*e* siècle, même si pour respecter la vérité historique on ne peut montrer sur scène un personnage qui serait à la fois roi et romain. Papyre apparaît donc comme quelqu'un d'autoritaire, très puissant [51] et qui se présente lui-même comme « Maître & Juge ». Sûr de son pouvoir et de la justesse de ses choix, il ne laisse personne les contester. Également chef veillant à la spiritualité de Rome, chef militaire et juge suprême dans tout procès, Papyre concentre véritablement tous les pouvoirs. Enfin, le dernier élément caractérisant ce dictateur est qu'étant au service de l'État, il fait passer sa fonction avant tout et se fixe comme impératif absolu de l'exercer au mieux, ce qui explique son obstination à maintenir l'ordre et le droit pendant sa dictature, et ce afin que Rome puisse continuer à étendre sa domination extérieure sans avoir de grave problème interne à résoudre parallèlement. Papyre est en effet soucieux de s'inscrire dans une lignée de dirigeants qui sont reconnus pour avoir contribué à la puissance de la Cité, il veut que son nom reste gravé dans l'Histoire de la Ville aux côtés d'autres prestigieux personnages romains.
 
 
-#### Nuances dans la construction du personnage
+#### Nuances dans la construction du personnage.
 
 Malgré tout, le personnage de Papyre semble ne pas être uniquement caractérisé par son statut de dictateur, mais posséder aussi d'autres traits liés à son rôle complexe dans l'évolution de l'action. Tout d'abord, même s'il affirme ne pas en tenir compte, il écoute le point de vue des autres, que ce soit Fabie, Camille ou même Martian : l'opposition peut donc s'exprimer, bien que cela paraisse un peu vain. De plus, il tempère lui-même son pouvoir par le désir profond d'agir dans le cadre de la loi, et c'est ce qui lui fait accepter de porter l'affaire devant le Sénat ou de s'en remettre au jugement populaire. En effet, pour être cohérent avec ce trait de caractère, Papyre doit se montrer préoccupé par ce qu'il prétend défendre, c'est-à-dire le sort de Rome : il se doit donc de l'écouter, et son image d'homme au service des autres doit être soutenue par un certain altruisme, qui dément l'idée d'un homme qui chercherait à jouir du pouvoir pour le pouvoir. Enfin il y a chez ce personnage une profonde réflexion sur le pouvoir qu'il détient, et cela contribue à en faire un dictateur « éclairé » qui ne se montre inflexible que par nécessité : ayant à cœur de bien « jouer son rôle » au service de l'État, il prononce parfois ses répliques à contre-cœur et est capable de s'éloigner d'un rôle trop écrit pour nuancer l'image qu'il renvoie du pouvoir. Ainsi, il se dira à la fin « Dictateur mal-heureux, / Qu'empèche la Vertu d'oüir ces genereux » que sont les membres de sa famille quand il réaffirme malgré lui la sentence envers Fabie (v. 1543-1544 *sqq*).
 
 
-### Les contre-pouvoirs
+### Les contre-pouvoirs.
 
 
-#### La tradition et les apparences
+#### La tradition et les apparences.
 
 Camille et Fabie Père n'ont pas de pouvoir effectif mais défendent leurs prises de positions politiques au nom d'intérêts qui les dépassent (Rome, la tradition) et que Papyre se doit de ménager pour ne pas passer pour un tyran. Il doit faire entrer son désir de « vengeance personnelle » dans un cadre général et soutenu par la loi, car s'il déroge à ce principe, il risque de provoquer des oppositions à ses décisions, qui seraient vues comme arbitraires car ne respectant aucune règle de la Cité. Le pouvoir de ses contradicteurs, ce sont les événements du passé, qui ont fait des anciens chefs des exemples à suivre pour le peuple : il jouent sur la renommée qu'aura Papyre après son acte et rappellent ce qu'est agir en Romain, notion importante pour le dictateur. Ainsi, on peut faire des exceptions et avoir une attitude qui reste « romaine », c'est ce que prouve l'Histoire au travers d'exemples comme ceux de Tuelle (« l'un de nos Roys ; c'est Tuelle, je le nomme ; / Devant tout le Senat, à la face de Rome, / Ceda bien à l'Appel », v. 1273-1275) ou de Camille Père, que son fils rapporte dans l'espoir d'inciter Papyre à l'imiter :
 
@@ -604,24 +604,24 @@ En une faute heureuse imitez sa Clemence (v. 725-730).
 Papyre, malgré ce qu'il dit, n'est donc pas en mesure d'occulter le passé ou de modifier les étapes habituelles d'un procès pour traiter le conflit qui l'oppose à Fabie de manière complètement personnelle, puisque cela concerne toute Rome et qu'elle considère que son dictateur n'a pas plus de droit qu'un autre de transgresser les règles qui ont permis son organisation, sous peine de désaveu, voire de rébellion, de sa part.
 
 
-#### La menace « de la rue »
+#### La menace « de la rue ».
 
 Un autre frein indéniable au pouvoir de Papyre est bien sûr la masse incontrôlable et très inconstante du peuple, à laquelle on peut ajouter l'armée, elle aussi capable de s'enflammer rapidement pour une cause et ayant les moyens de faire efficacement pression sur ses dirigeants. D'ailleurs ces ressorts ne sont pas que des hypothèses puisqu'ils sont bel et bien mis en œuvre dans *Le Dictateur romain*, créant une situation d'urgence où la menace de révolte et de chaos social est une des raisons poussant Fabie Père à proposer le sacrifice de son fils dans la dernière scène. Éléments de dramatisation, ces deux groupes sont de réels dangers pour le chef, qui ne peut les ignorer, ce sont des éléments imprévus face auxquels il doit prouver ses capacités d'adaptation et de décision rapide. Là encore sa première réaction sera excessive puisqu'il préfèrera s'opposer seul au peuple et apporter une solution radicale au soulèvement de l'armée (la tête de Fabie), quitte à engendrer carnages et guerres intestines, plutôt que de céder à leurs revendications. Ce seront les autres personnages qui évalueront la réelle mesure des troubles et mettront en garde le dictateur contre les conséquences des rebellions pour qu'il renonce à ses premiers projets et envisage une solution plus raisonnable au conflit.
 
 
-#### Le rôle des autres personnages
+#### Le rôle des autres personnages.
 
 Chacun des protagonistes de la pièce tente, à sa façon, de peser dans le conflit et sur les décisions pour ne pas laisser le dictateur être seul le maître du sort de Fabie. Les femmes n'ont pas de poids politique mais leur pouvoir d'influence sur l'action réside dans le chantage au suicide et la pression sur l'affectif de Papyre, puisqu'elles n'ont pas les arguments nécessaires pour convaincre le politicien qu'il est. L'argument, sous-jacent, de Fabie, c'est qu'il peut être utile à la Patrie, et qu'il ne veut ni obtenir le pouvoir, ni offenser Papyre, au contraire, il montre du respect envers lui et manifeste sa volonté d'intégrer sa famille. C'est parce qu'il a le « pouvoir » de sauver le pays qu'il posera un cas de conscience à Papyre par rapport à son éventuelle mort, ce qui retardera sa prise de décision définitive. Les tribuns comme le consul se font les porte-parole des groupes qu'ils représentent en essayant de faire prendre conscience à Papyre de la réalité des menaces de personnes qui ne sont pas plus virtuelles pour être « invisibles » ou collectives. Camille voit l'intérêt de Rome à « conserver » Fabie et tente de faire accepter son point de vue à Papyre ; il se place, comme Fabie Père, sur le plan que le dictateur met au premier rang de ses priorités : l'intérêt général. Aussi ces deux personnages connaisseurs des lois développent-ils une argumentation crédible qui empêche Papyre de donner une interprétation trop personnelle de la loi et de la façon dont elle doit être appliquée.
 
 En fait, l'important ce n'est pas le pouvoir réel : Papyre menace de s'en servir mais ne peut réellement agir qu'avec le consentement général, d'où son problème des non-décisions du Sénat et du peuple, leur choix lui aurait évité d'en faire un et d'en prendre la responsabilité, même si c'est ce qu'il se doit de revendiquer. Ce qui règle les rapports de force, c'est le pouvoir d'influence : le poids officieux de chacun des protagonistes joue dans l'attitude de Papyre et les différents personnages se relayent pour trouver un point « faible » dans ce personnage qui paraît être un roc. Aussi mettent-ils en place une « stratégie » tacite de harcèlement qui est dirigée sur l'homme, puisque l'on ne peut rien contre le dictateur, et qui, dans une certaine mesure, agira (il donne quand même l'ordre de se défendre à Fabie). Tous cherchent à montrer à Papyre les conséquences d'une décision qui n'est pas encore prise, c'est-à-dire tout ce qu'il y perd personnellement, par opposition à ce qu'il croit y gagner, pour lui et pour Rome, pour éviter qu'il choisissent la « mauvaise » solution, c'est-à-dire celle qui verra la mise à mort du jeune lieutenant.
 
 
-## La politique comme enjeu dramatique
+## La politique comme enjeu dramatique.
 
 Le thème du pouvoir prend d'autant plus de place dans la tragédie qu'il devient un des moteurs de l'action et ne se borne pas à être un simple cadre « réaliste » à celle-ci. En effet, le contexte politique contribue à la mise en place de « périls » particulièrement tragiques pour les héros et nous oblige à envisager l'intrigue sous un certain angle sans pouvoir mettre à l'écart les implications publiques et collectives de son évolution. Enfin, l'arrière-plan politique permet, en ce qui concerne l'écriture dramatique, des choix stylistiques qui renforcent et soulignent les enjeux de l'histoire par la façon dont elle nous est présentée.
 
 
-### Un « péril » particulier
+### Un « péril » particulier.
 
 Dans *Le Dictateur romain*, les intérêts d'État sont mêlés aux intérêts personnels et il y a de plus un « péril de mort » : c'est selon Corneille [52] la combinaison la meilleure pour faire une bonne tragédie, sans oublier que le péril de la perte d'une maîtresse, péril en soi insuffisant s'il est à lui seul la clef de voûte de la pièce, vient ici s'ajouter aux premiers dangers qui menacent les personnages. Dans cette pièce, nous sommes aussi dans une situation de « surgissement des violences au sein des alliances » [53] : tous les éléments sont donc réunis pour un conflit paroxystique, et ce notamment parce qu'il met en scène des oppositions entre « grands » ayant, à différents niveaux, des répercussions publiques. De plus, le cas particulier, parce qu'il a des implications politiques, peut devenir général (désobéissance de toute l'armée par la mutinerie, puis soulèvement du peuple) : ce qui est alors en péril, c'est la survie de la Cité, et donc de sa toute-puissance et du système même, ce qui est un problème profondément politique. Ainsi, la possibilité d'évolutions dramaturgiques que contient en puissance un sujet ayant, comme le nôtre, des liens avec la vie politique donne une nouvelle dimension au conflit de personnes : l'action peut à tout moment prendre une autre ampleur, par l'intervention de nouveaux acteurs de la vie politique, ce que soulignent des vers comme ceux-ci, tirés du *Dictateur romain* :
 
@@ -631,25 +631,25 @@ Fabie en est au Peuple, & l'Appel est donné (v. 1031-1032).
 Ceci a évidemment une influence sur l'attente et les émotions des spectateurs, sans oublier que l'importance des enjeux accentue bien souvent le tragique de la situation.
 
 
-### Un « fil d'Ariane » incassable
+### Un « fil d'Ariane » incassable.
 
 Le fait que le conflit initial ait des répercussions politiques oblige à en envisager toutes les conséquences et à y trouver une solution : même si l'homme décidait de pardonner, le dictateur devrait tout de même donner et justifier une réponse publique à un acte anormal et qui doit être traité comme tel, quelques soient les circonstances dans lesquelles il a eu lieu. Il y a en effet en jeu le respect des lois et le maintien de l'ordre, qui dépassent les liens éventuels (et fortuits) qu'il peut y avoir entre les deux hommes. Ainsi, même si elle a plusieurs aspects, placer cette affaire d'abord sur le plan politique, c'est lui assurer une forte unité dramaturgique : tout le monde est intéressé dans cette affaire et l'on ne pourra pas abandonner au cours de l'intrigue l'examen des implications politiques qu'elle aura. De plus, les lois, tout comme le système de gouvernement, ne risquent *a priori* pas de changer au cours de la pièce, tout tournera donc autour d'une situation plus ou moins bloquée résultant de l'interprétation plus ou moins large qu'on fait de ces lois, et qui va conditionner l'évolution de l'action. Ainsi, tout va dépendre de prises de positions *politiques*, et ce même si la politique peut sembler n'être qu'un prétexte à un conflit de personnes : une fois invoquée, on ne peut plus décider qu'elle n'a plus de rôle à jouer ou plus d'importance dans les causes du conflit initial. Ce qui fait l'unité, c'est que l'on est toujours forcé, à un moment ou à un autre, d'en revenir aux enjeux politiques qui justifient le début de la pièce (la condamnation de Papyre se fait en effet au nom de Rome, offensée à travers son chef). D'ailleurs, quand la discussion avec Papyre semble impossible ou inutile, les protagonistes de la tragédie ont recours aux institutions politiques pour résoudre la crise ; ainsi Camille espère que « Le Senat, toute Rome obligee à sa gloire / Maintiendra le Vainqueur, admirant la victoire » (v. 1017-1018).
 
 
-### Les choix d'écriture
+### Les choix d'écriture.
 
 Cette tragédie est écrite comme un procès avec une accusation (Papyre), la défense (Fabie Père, Camille, les femmes), le témoin (Comine), le jury (le Sénat, le peuple), le juge (Papyre) et bien sûr l'accusé, Fabie. On note ainsi l'emploi par tous les protagonistes d'une rhétorique judiciaire, avec les images qui s'y rattachent, ou de discours en forme de réquisitoire ou de plaidoyers dans de longues tirades. C'est ainsi que la politique, dans ce système, devient argument : les exemples du passé ou la situation actuelle justifient les positions des protagonistes dans le cas particulier du procès en cours. De même, les uns détruisent les positions des autres et renforcent les leurs en montrant les conséquences politiques, donc en dépassant le cas particulier, des différents verdicts proposés (condamnations ou acquittements). On a donc une unité de sujet, de ton, et des rôles bien définis, ce qui donne à la pièce une certaine universalité, et un certain suspens, lié à ce type d'écriture : en effet, dans un procès, la parole est aux uns puis aux autres, avec bien sûr des contradictions entre eux, on prend le temps d'évoquer toutes les conséquences et toutes les possibilités de réponse à l'offense présumée avant le choix final de la sanction (ou pas). Cette mécanique de procès met donc tous les enjeux de la pièce dans le discours et donne ainsi la parole aux représentants de tous les niveaux de la société. De plus cela laisse la possibilité, si le procès est juste, d'une solution autre que la première avancée, qui relève de l'arbitraire d'un homme en colère, Papyre. Cela donne aux personnages comme au public l'espoir d'une décision juste et justifiée, en particulier devant la loi ; indubitablement la forme choisie pour développer ce sujet fait la part belle au thème du pouvoir et aux réflexions politiques. Enfin il ne faut pas oublier que le sujet choisi, la clémence, parce qu'il ne concerne qu'un souverain ou un chef, ne pouvait que provoquer ce lien étroit entre intrigue et politique que nous constatons dans notre pièce. Cette particularité du *Dictateur romain* sera plus amplement étudiée dans la partie réservée à l'analyse de l'action mais l'on voit déjà comment ce qui ne pourrait être qu'un thème privilégié peut jouer un rôle important dans l'écriture dramatique.
 
 
-# L'évolution de l'action
+# L'évolution de l'action.
 
 Le déroulement de l'action du *Dictateur romain* est particulier, et ce à plusieurs niveaux. Tout d'abord, il dépend d'une situation initiale que rien ne semble modifier ou faire évoluer au cours de la pièce, ce qui nous donne une situation *bloquée* qui induit des étapes de l'intrigue différentes de celles que l'on pourrait attendre dans une tragédie. De plus, il est très difficile dans cette pièce de maintenir le suspens sur le dénouement dans la mesure où celui-ci est annoncé dès le début de l'acte III. Enfin, en présentant cette œuvre comme une sorte de grand procès, Mareschal choisit de privilégier le discours aux actions proprement dites, et cela implique la nécessité de donner aux mots la possibilité de modifier l'intrigue, ce qui passe par une écriture efficace, ici soutenue par la rhétorique judiciaire attribuée aux différents protagonistes de l'affaire.
 
 
-## Une situation bloquée
+## Une situation bloquée.
 
 
-### Une sanction impossible à prononcer
+### Une sanction impossible à prononcer.
 
 Tout d'abord, le premier « blocage » de la situation provient des faits qui sont à son origine, et qui se présentent comme inconciliables avec les conséquences qu'ils provoquent, d'où des problèmes à juger s'ils sont positifs ou négatifs puisqu'ils sont un peu les deux en même temps. Cette situation est d'ailleurs clairement exprimée par les personnages qui emploient des expressions proches de la forme oxymorique pour les décrire, par exemple « un grand combat heureux & non permis » (v. 239) ou encore, en parlant de la victoire, « un digne effect d'une indigne licence » (v. 454). Ainsi, ce ne sera que plus difficile pour Papyre de prononcer un verdict qui prenne en compte ces informations divergentes (en effet, contre toute attente, c'est la victoire qui a succédé à la désobéissance) et qui soit considéré comme juste pour les différents partis qui s'opposent dans ce conflit.
 
@@ -669,12 +669,12 @@ Perdre un Gendre, un Heros, un Demon de vaillance ?
 Quel sang ! quel crime aussi ma Justice balance ! (v. 1188-1190) ?  
 
 
-### Une attente difficile à supporter
+### Une attente difficile à supporter.
 
 Si l'on se place alors du point de vue de Fabie et des opposants à Papyre (présents plus rapidement que le dictateur sur scène) pour tenter de trouver un « fil conducteur » plus net qui prouverait que l'action avance malgré tout, on s'aperçoit que, si elle est clairement structurée par Mareschal, l'action n'évolue pas plus de ce côté, bien au contraire. En effet, l'organisation par l'auteur des éléments induisant les espoirs et désespoirs successifs de ces personnages quant au sort du jeune homme joue habilement sur les émotions du public mais contribue à laisser le cours de l'intrigue suspendu. Car vue depuis les intérêts de ce groupe, la question structurant l'action devient : Fabie va-t-il mourir ou non ? Les réponses qui y sont apportées au fur et à mesure sont cependant tout aussi incertaines que l'est la décision de Papyre, à laquelle elles sont bien sûr subordonnées. D'ailleurs la notion d'attente occupe un place primordiale puisque les éléments pouvant laisser espérer un événement heureux ou néfaste allant dans le sens d'un dénouement du conflit ne sont le plus souvent que des suppositions, la plupart du temps infirmées par la rumeur suivante, affublée du « signe » opposé, si l'on peut excuser ici cet emploi du langage mathématique… Sans oublier que le flou est également entretenu par l'insertion de scènes dont les conséquences sont différées, et qui retardent la résolution en étant des éléments supplémentaires d'indécision. C'est par exemple le rôle que joue le Sénat, auquel on fait appel au cours de plusieurs scènes (notamment en II, 3 puis III, 3 et 4) sans que l'on sache la position qu'il a prise avant la scène 2 du quatrième acte, qui nous révèle précisément sa non-décision, ce qui va par conséquent transmettre ce même rôle au peuple… Pour ce qui est de l'alternance espoirs-désespoirs, il y a pléthore d'exemples. Ainsi, si l'on prend le début de l'acte III, on note d'abord l'arrivée de Papyre, pleine de la certitude de la mort du lieutenant. Puis Camille nous fait espérer un sort moins rigoureux en proposant la clémence, mais Papyre la refuse. Cependant le début de la scène suivante nous laisse de nouveau imaginer une solution heureuse par la révélation, devant Papyre, du lien qui l'unit au jeune homme et par la prise de position des femmes pour son adversaire, qui est aussi son gendre, dans l'espoir de fléchir le dictateur. Mais là encore, la déception survient : pour Papyre, la dictature vaut tous les sacrifices, même si c'est sa propre famille qui doit en faire les frais… On pourrait continuer longtemps cette démonstration, mais l'exemple est assez clair : on voit bien que ces successions d'attente et de non-événements sont destinées à masquer la réelle évolution de l'intrigue, qui ne peut faire son lent cheminement que dans la pensée de Papyre, pensée à laquelle nous n'avons pas directement accès puisque Mareschal n'a pas jugé bon de mettre en scène les hésitations du dictateur dans un monologue qui aurait pu débattre des intérêts respectifs de la sanction et de la clémence.
 
 
-### Les raisons de la clémence
+### Les raisons de la clémence.
 
 C'est à nous, en effet, de chercher au fil du texte les motivations plus ou moins explicites du choix final. Car si l'action ne semble pas réellement évoluer jusqu'au coup de théâtre du dénouement (mais en est-ce vraiment un ?), celui-ci n'en est pas moins justifié et préparé dans les scènes précédentes. En effet, ce qui provoque la fin, ce n'est pas vraiment, comme on pourrait le croire, un changement dans les arguments employés par les partisans de Fabie, arguments qui deviendraient de plus en plus dissuasifs, ou encore le charisme d'un des leurs qui aurait plus d'influence que les autres sur Papyre. Certes, certaines interventions, comme celles de Fabie Père, sont plus marquantes que d'autres, mais l'on constate que même après celles-ci le dictateur garde sa première idée en tête, il n'y a pas de modification notable dans son attitude envers Fabie. En fait, la cause immédiate de la clémence (l'intervention de Martian qui rappelle que Rome « prie, & jamais ne doit prier en vain », v. 1576) est annoncée par de petits changements préalables dans les répliques de Papyre. Celui-ci, toujours partagé entre sévérité et réticences, est de plus en plus emporté par ses hésitations et, malgré lui, accorde au fur et à mesure de la pièce plus de vers à leur expression, même si souvent, in extremis, il se replace du côté de la sanction pour ne pas manquer à ses obligations.
 
@@ -689,12 +689,12 @@ Elle attire mon cœur ; *mais Rome enfin l'emporte* (v.1242-1246) [55]
 Peut-on alors parler d'un « coup de théâtre », provoqué par la seule insistance du tribun Martian face à son chef ? Car l'on voit bien que ce n'est pas uniquement sa dernière réplique qui inverse la décision de Papyre, même si assurément elle provoque la surprise tant on n'osait plus l'espérer ! Il serait plus juste de considérer ce dernier argument du tribun simplement comme celui qui achève de convaincre un chef qui s'était déjà en grande partie convaincu lui-même de la nécessité de conserver en vie ce précieux soutien au pouvoir qu'est Fabie.
 
 
-## La question du suspens
+## La question du suspens.
 
 Le problème majeur de Mareschal, dans la construction de sa pièce, apparaît donc clairement quand on analyse le dénouement et la situation « bloquée » qu'il implique : il s'agit de conserver l'intérêt des spectateurs pendant 5 actes sans ajouter de péripétie susceptible de provoquer un renversement du cours de l'action entre la première scène de l'acte III et la fin. Comment dès lors « remplir » l'espace et l'intrigue pour que tout ne semble pas déjà joué à l'énoncé de la sentence dictatoriale ? Et comment éviter au dénouement de prendre des allures tragi-comiques par le fait que l'obstacle, parce qu'il ne dépend que de la volonté d'un des personnages, est levé *in extremis* pour donner une fin heureuse à l'histoire ? Pour faire passer ce temps, qui doit nécessairement exister pour donner cinq actes à la tragédie mais que l'on ne peut saturer d'actions sans rapport avec la vraisemblance du sujet, le dramaturge a utilisé plusieurs artifices qui sont destinés à masquer l'évolution extrêmement lente d'une intrigue dont les tenants et les aboutissants sont presque exclusivement contenus dans les argumentations successives des personnages. Parmi ces moyens, on relève un emploi intelligent de la structure théâtrale qui permet d'introduire le suspens à la fin des actes, mais aussi des alternances de tons, qui donnent du rythme à la pièce, sans oublier le « coup de théâtre » final de la clémence, qui surprend mais dont l'attente est subtilement créée pour conserver l'intérêt du public pour les enjeux qui sont débattus sur scène.
 
 
-### Les fins de scènes
+### Les fins de scènes.
 
 Il existe différentes façons de clôturer une scène et Mareschal use de cette variété pour, régulièrement dans le cours de l'action, interrompre ou suspendre l'intrigue et donc raviver l'intérêt des spectateurs avant d'éventuels changements ou pauses, comme les entractes. En général, les fins d'actes sont fortement marquées par l'expression de sentiments que les personnages retirent de l'action et projettent sur la suite de l'intrigue. De plus, ces moments voient toujours un retour de l'attention sur la destinée du héros. C'est une façon de conditionner les spectateurs, en les marquant de façon plus personnelle et moins intellectuelle, avant l'interruption momentanée de la représentation. Enfin le suspens laissé par la fin des actes III et IV, qui annoncent les appels, laisse tout attendre, provoquant dans le public une curiosité propre à retenir l'attention.
 
@@ -703,7 +703,7 @@ Mais la fin des autres scènes est tout aussi soignée car ces moments de transi
 Finalement, l'attention particulière accordée au traitement des fins de scènes, et surtout d'actes, permet de conserver un suspens, pourtant mince sur le plan général, en le transformant en une série de petites attentes angoissées ou pleines d'espoir par rapport à la suite immédiate de l'action. Ce sont autant de jalons qui structurent la pièce en lui évitant la monotonie que pourrait provoquer un étirement du temps trop visible et sans aucune incertitude quant à sa conclusion.
 
 
-### La diversité de ton
+### La diversité de ton.
 
 Une autre façon qu'a le dramaturge de conserver l'intérêt de son public pour sa pièce, malgré le peu d'action qui s'y passe, est de veiller à alterner des scènes aux rythmes et aux tonalités différents afin de ne pas lasser le spectateur mais au contraire de le divertir en lui proposant des changements propres à tenir sa curiosité en éveil. Aussi les passages galants entre Fabie et Papyrie sont-ils plus important qu'on ne le pourrait croire car ils apportent un peu de tendresse dans un univers dirigé par l'honneur, le sens du devoir et la menace de la mort. Des vers comme ceux de Fabie
 
@@ -728,7 +728,7 @@ que de manier habilement la rhétorique pour nous impressionner par le biais de 
 Ces variations de ton permettent donc à Mareschal de nuancer ses personnages et d'augmenter la palette de sentiments exprimés sur scène, pour intéresser le plus de monde possible à ce qui s'y passe. C'est aussi un moyen de créer une alternance de moments « forts » et d'autres plus « faibles », ce qui permet de souligner les scènes-clefs qui, sinon, auraient moins de relief, présentées dans la masse d'un texte où toutes les interventions, sur le même ton, auraient la même valeur dramatique.
 
 
-### Le dénouement
+### Le dénouement.
 
 La fin du *Dictateur romain*, et la façon dont la pièce se dénoue, participe également du suspens général de la pièce dans la mesure où elle est non seulement inattendue mais aussi originale. En effet, rien, à l'ouverture de la dernière scène, ne laisse présager la clémence. Suite logique de la scène 3, elle en continue les discours à propos du « crime » de Rome (la révolte générale annoncée). L'intérêt se concentre de nouveau sur la personne de Fabie lorsque Papyre accepte sa mort au nom de tous, mais cela nous replace dans la situation de conflit initiale, puisque les deux Fabie refusent toujours le supplice pour y préférer le suicide ou le sacrifice. Cependant, les femmes et Martian tentent toujours de sauver le jeune homme, presque malgré lui à présent, auprès de Papyre, ce qui rend la scène de plus en plus confuse. À ce point, les spectateurs sont plus que jamais remplis de doutes, non parce que l'on attend un geste ou une décision mais justement parce que l'on ne voit pas sur quoi peuvent déboucher ces discussions, que Papyre a du mal à canaliser de son autorité habituelle. Le fait que tous les personnages soient en scène annonce l'imminence du dénouement, et pourtant il est loin d'être, même à ce moment, prévisible. La surprise est d'autant mieux gardée qu'avant d'accepter Papyre rejette une première fois les prières de Martian.
 
@@ -737,7 +737,7 @@ La force de ce dénouement réside en fait dans sa préparation : si la pièce 
 Ainsi, dans cette pièce, le suspens est tout de même bien conservé, notamment grâce à un jeu subtil entre les hésitations des personnages et les incertitudes des spectateurs, qui semblent se faire écho. Finalement, le public doit accepter de laisser de côté ses propres réflexions et hypothèses pour se laisser uniquement mener par ce qui se passe sur la scène, dont il dépend alors totalement. La première décision de Papyre apparaît donc non plus comme la révélation prématurée de la conclusion de la pièce mais simplement comme une étape forte de l'intrigue, et dont la force même est justement propre à amener par la suite des réactions de la même intensité.
 
 
-## Action et discours
+## Action et discours.
 
 C'en est fait ; il le faut : **prononcez donc l'arrest** ;  
 Et vous verrez bien tôt comme mon bras est prest (v. 1527-1528. Nous soulignons).  
@@ -745,7 +745,7 @@ Et vous verrez bien tôt comme mon bras est prest (v. 1527-1528. Nous soulignon
 Cette demande de Fabie Père à la fin de la pièce, c'est-à-dire l'attente d'un ordre pour exécuter la mission qu'il s'est imposée (le sacrifice de son fils), est capitale pour comprendre le rôle de la parole dans l'action. Ces vers représentent à eux seuls ce qu'est fondamentalement une tragédie classique : une action qui ne prend place et vie que par et dans les mots, ceux de l'écriture dramaturgique, qui deviendront ensuite manifestations des pensées et des actes des personnages qui les énoncent. Au théâtre, comme le rappelle Jacques Scherer [56], à la suite de d'Aubignac [57], « parler c'est agir » : « la pièce classique est un plaidoyer perpétuel », ce qui est encore plus net ici dans le sens où *le procès* a été choisi comme forme dans laquelle toute l'action est insérée. En effet, le tribunal, lieu de l'éloquence par excellence, est, sous différentes formes, présent partout dans le *Dictateur romain*. Cela implique qu'il faut accorder aux mots un poids encore plus important qu'ils n'ont déjà dans toute œuvre dramatique, et cela se manifeste dans cette dernière pièce de Mareschal par le déploiement de diverses rhétoriques qui donnent de la vivacité aux tirades. La violence et les affrontements qui transparaissent dans le discours nous font constater que ce sont bien les mots qui mènent l'intrigue puisque rien d'autre dans le *Dictateur romain* n'a la force de modifier l'action, qu'ils créent et font bien plus que les décors, les déplacements et toute la gestuelle théâtrale attribuée aux protagonistes de cette tragédie.
 
 
-### L'écriture judiciaire
+### L'écriture judiciaire.
 
 Dans le procès de Fabie, chacun des personnages a un rôle à jouer [58] et rend compte des faits selon l'orientation qu'il veut donner à son discours, favorable ou non à l'accusé qu'est le jeune lieutenant. Ainsi, dès le début, éblouies par la victoire de Fabie, Lucille et Papyrie voient l'affaire du point de vue de ses conséquences positives et sont persuadées que « Papyre est trop couvert de lauriers et de gloire, / Pour vouloir luy ravir sa première victoire. » (v. 153-154), alors que Camille, lui, mesure plutôt l'importance de la désobéissance, comme le montrent ces vers :
 
@@ -772,12 +772,12 @@ C'est toute la faveur qu'on a faite à son Pere (v. 1031-1033).
 Ces rebondissements, qui auraient pu n'être que des artifices destinés à relancer l'intérêt, passent en fait pour être des éléments de vraisemblance qui parlent aux spectateurs contemporains de la création. *Le Dictateur romain* est donc bien écrit en fonction d'un univers et d'un langage particuliers, qui sont ceux de la Justice, et qui permettent une plus grande unité et concentration autour de l'action majeure de la pièce : le jugement d'un soldat victorieux.
 
 
-### L'affrontement par les mots
+### L'affrontement par les mots.
 
 Dans un procès, tous les enjeux sont concentrés dans les discours, et celui du *Dictateur romain* n'y fait pas exception : les personnages rivalisent d'ingéniosité pour trouver les meilleures armes stylistiques pour déconsidérer l'adversaire et tenter de modifier le cours de l'action en provoquant des décisions par la seule force de leurs arguments.
 
 
-#### La rhétorique d'intimidation
+#### La rhétorique d'intimidation.
 
 Un premier moyen pour agir sur l'adversaire est d'essayer de l'intimider par des menaces, des pressions de tous ordres, notamment en rappelant que cette histoire risque de rester gravée dans l'Histoire, à laquelle il faut donc penser avant d'agir. Ainsi, Papyre choisit de jouer sur ce qu'aujourd'hui on appellerait le « principe de précaution » pour éveiller la crainte (car tel est bien le but) chez ses interlocuteurs. Au lieu de les menacer directement de quelconques représailles s'ils ne le suivaient pas, il fait de *Fabie* une menace pour l'avenir de la Cité et se pose alors en « sauveur » garant de la sécurité et de l'ordre. C'est d'ailleurs l'un de ses premiers arguments à son apparition sur scène, quand il rétorque à Camille qui excuse la désobéissance par la victoire :
 
@@ -797,7 +797,7 @@ De la même façon, l'intimidation intervient aussi dans l'argumentation des aut
 Enfin cette rhétorique d'intimidation s'exprime aussi par un vocabulaire choisi, qui fait en particulier référence au futur, c'est-à-dire aux conséquences des actes et des décisions qu'il va falloir prendre. Les uns mettent ainsi en avant le résultat positif de ce qu'ils proposent (Camille dit « C'est un don en effect, qu'elle tiendra de vous » v. 1331, et Papyre « Je vous entends, ô loix ; vous serez les Maîtresses. », v. 1550) pour montrer leur détermination en feignant de poser leur proposition comme sûre, donc acceptée. Les autres cherchent plutôt à montrer l'absurdité de la conclusion à laquelle on arrive si l'on suit leur adversaire, et donnent à ces futurs des nuances d'indignation et de rejet, qui visent à signifier l'impossibilité absolue qu'il y a à faire ces choix si l'on veut agir dans le cadre de la raison. Leur ton est alors aussi défi à l'autre : va-t-il être capable de telles monstruosités ? C'est par exemple le cas de Fabie Père lorsqu'il dit à Papyre : « Tygre, va le répendre, & Tygre, va le boire : / Mais revere son nom, punissant sa victoire » (v. 961-962), ou de Comine qui assure au dictateur : « Je feray mon devoir ; j'y vay : faites le vôtre. » (v. 1398) à propos du « cadeau » que celui-ci veut faire à son armée : la tête de leur chef vainqueur.
 
 
-#### La vivacité des tirades
+#### La vivacité des tirades.
 
 Si les mots doivent pouvoir modifier l'action, il est logique enfin que les personnages se comportent en orateurs et usent de toutes les ficelles de la rhétorique pour tenter d'imposer leur point de vue. C'est pourquoi certains n'hésitent pas à employer un style sentencieux dans le but de marquer les esprits : par exemple, toute la désapprobation de Papyre envers l'acte de son lieutenant s'exprime dans le vers 708 qui dit « Qui veut bien commander doit sçavoir obeïr ». De même Martian rétorque un sentencieux « Le Peuple enfin peut tout » (v. 1251) à Fabie qui doute du réel pouvoir que celui-ci peut avoir. Fabie Père, lui, appuie ses arguments sur des formules qu'il rend fortes grâce aux figures qui les soutiennent. Ainsi, on note une certaine prédilection pour des antithèses telles que :
 
@@ -823,7 +823,7 @@ Similitudes, d'abord. Nous nous sommes abstenue, au cours de cette étude, de co
 Divergences, ensuite, et, serions-nous donc tentée de dire, surtout. Dans *Cinna ou la Clémence d'Auguste*, on retrouve dans le titre deux personnages, deux héros qui, là encore, ont fort embarrassé la critique, qui a cherché à savoir lequel des deux était le « vrai » héros de la pièce. En germe dans ce titre, par le biais de ces deux noms, il y a déjà l'opposition, le sujet et le souverain, le criminel et le magnanime. Dans notre cas, le titre imité de Corneille ne nous propose qu'un personnage. Ce serait donc plus simple : c'est lui le héros de la pièce. Certes, mais après ? Qu'en dire de plus ? Où est l'affrontement ? le procès ? Est-ce à dire qu'ils ne sont qu'accessoires dans cette pièce ? Bien sûr que non, et nous espérons l'avoir assez prouvé au cours de cette étude. C'est là que nous voyons que nous ne pouvons ni réduire la tragédie à son titre imaginaire qui voudrait à tout prix la rapprocher de *Cinna*, ni la résumer en disant que son seul intérêt se trouve dans « la clémence de Papyre ». Car ce qui est riche et original chez Mareschal, c'est bien ce qui se passe avant celle-ci : l'incertitude sur l'héroïsme des personnages, les hésitations de l'intrigue dans leurs oppositions, organisées afin de créer un *crescendo* dramatique, le cadre judiciaire si propice à exacerber les passions et inspirer les orateurs… Une pièce peut, bien sûr, se forger une réputation sur un acte exceptionnel, « extra-ordinaire », comme *Cinna* grâce à la clémence ou *Horace* avec le meurtre de Camille, mais serait-elle vraiment reconnue sans la présence de tous ces autres éléments qui font sa substance de façon sous-jacente ? Si l'on peut faire ces raccourcis pour les pièces de Corneille, c'est que tout le monde connaît le génie qui innerve ces tragédies. Pour un auteur méconnu comme Mareschal, le raccourci aurait plutôt tendance à être très vite réducteur… Certes *Le Dictateur romain* met en scène « la clémence de Papyre », mais il nous propose aussi infiniment plus que cela. Puisque l'on ne pourra sûrement jamais parler de la clémence de Papyre de la manière dont on évoque celle d'Auguste, espérons tout de même que la pièce, au-delà de la comparaison, sera étudiée (voire reconnue) pour ce qu'elle est, car Mareschal mérite une vraie place d'*auteur* (titre si chichement accordé à l'époque…) parmi les hommes de théâtre du XVII*e* siècle qui ont contribué à l'élaboration des bases sur lesquelles, encore aujourd'hui, repose en partie notre culture.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Le texte a subi plusieurs impressions en 1646, 1647 et 1648, toutes à Paris chez Toussainct Quinet. Une dizaine d'exemplaires de la pièce sont actuellement accessibles dans Paris.
 
@@ -844,42 +844,42 @@ L'orthographe du texte d'origine a été respectée, mises à part les correctio
 Les corrections opérées sur le texte sont pour beaucoup proposées par les différentes éditions de la pièce. Les autres, probables coquilles, sont de notre fait. Des problèmes d'impression ou de reproduction avaient rendu certains mots illisibles (notamment aux vers 1, 479 et 480), certaines ponctuations incertaines ou avaient engendré des hésitations sur les accents. Après vérification par comparaison des éditions, ceux-ci ont été correctement réécrits sur notre texte sans note particulière.
 
 
-## Corrections sur le texte
+## Corrections sur le texte.
 
 
-### Corrections présentes dans l'édition in-12 de 1646
+### Corrections présentes dans l'édition in-12 de 1646.
 
 **épître** : p.IV : genereux (l.12) ; soûtenez (l.17) ; soûtient (l.17).
 
 **Texte** : r'ameine (v.62) ; grand (121) ; à (173) ; vole (186) ; cachè (276) ; Voicy (288) ; bon-heur (373) ; malheur (387 ; 480 ; 481) ; Aversaire (401) ; faut (418) ; dètruit (504) ; Papire (700) ; didascalie Papire (704 ; 713 ; 733 ; 965 ; 974 ; 1237 ; 1295 ; 1341 ; 1381 ; 1557 ; 1593 ; 1618) ; liste des personnages présents Papire (III, 2) ; didascalie Papyre (770) ; encore (998) ; r'entrer (1091) ; dècharge (1291) ; pous (1410) ; Comme (1619).
 
 
-### Corrections présentes dans l'édition in-12 de 1647
+### Corrections présentes dans l'édition in-12 de 1647.
 
 **Texte** : pluis (58) ; Papire (447) ; réprendre [61] (958) ; a (1611).
 
 
-### Corrections faites par nous
+### Corrections faites par nous.
 
 **épître** :p.IV cét (l.11) ; p.VI : que suis (l.68)
 
 **Texte** : evenément (52) ; liste des personnages présents Flavie, Camille, Lucille, Papyrie. (I, 4) ; qn' (354) ; on a (375) ; didascalie Papyrie (779) ; par fois (707 ; 1276) ; attendray-là (976) ; esperois (1495).
 
 
-## Corrections de ponctuation
+## Corrections de ponctuation.
 
 
-### Corrections présentes dans l'édition in-12 de 1647
+### Corrections présentes dans l'édition in-12 de 1647.
 
 **Texte** : glorieux. (195) ; aussi… (352).
 
 
-### Corrections faites par nous
+### Corrections faites par nous.
 
 **Texte** : prescrites (1166) ; devant ; (1619).
 
 
-# LE DICTATEUR ROMAIN TRAGEDIE. DEDIEE A MONSEIGNEUR *le Duc d'Espernon.*
+# LE DICTATEUR ROMAIN TRAGEDIE. DEDIEE A MONSEIGNEUR *le Duc d'Espernon.*.
 
 
 ## A HAUT ET PUISSANT PRINCE BERNARD DE FOIX DE LA VALLETTE, DUC D'ESPERNON, DE LAVALLETTE, & de Cancale ; Pair & Colonnel General de France ; Chevallier des Ordres du Roy, & de la Jarretiere ; Prince & Captal de Buch, Comte de Foix, d'Astarac, &c. Sire de l'Esparre, &c. Gouverneur & Lieutenant general pour le Roy en Guyenne.
@@ -913,10 +913,10 @@ LA SCENE est au Palais du Consul Camille, dans une gallerie [67] qui donne sur l
 
 
 
-## ACTE I
+## ACTE I.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CAMILLE, LUCILLE, PAPYRIE.
 
 
@@ -1125,7 +1125,7 @@ Avec elle il percea tout ce qui deffendoit,
 Et par un stratagéme à jamais memorable….  
 
 
-### SCENE II
+### SCENE II.
 GARDE, CAMILLE, LUCILLE, PAPYRIE.
 
 
@@ -1167,7 +1167,7 @@ Mais voicy qui pourra vous la dépeindre mieux ;
 Et je sçay que vostre ame en doit estre charmée.  
 
 
-### SCENE III
+### SCENE III.
 COMINE, LUCILLE, PAPYRIE, CAMILLE.
 
 
@@ -1377,7 +1377,7 @@ Quelque trait de Valere, ou peut-estre l'amour.
 C'est toute une autre cause, & qui va vous surprendre…  
 
 
-### SCENE IV
+### SCENE IV.
 FLAVIE, CAMILLE, LUCILLE, PAPYRIE, COMINE.
 
 
@@ -1390,14 +1390,14 @@ Le Senat ? où, Flavie ?
     FLAVIE.
         En ce mesme Palais.  
 
-    PAPYRIE. *bas.*
+    PAPYRIE. *bas.*.
 Ma crainte eust [113] tout appris : Dieux que tu me déplais⁎ !  
 
     FLAVIE.
 Fabie au milieu d'eux, ensemble avec son Pere  
 Est entré dans la sale.  
 
-    PAPYRIE. *bas.*
+    PAPYRIE. *bas.*.
         Ah ! ne crains plus, espere.  
 
     LUCILLE.
@@ -1407,7 +1407,7 @@ Avanceons nous ; je meurs du desir de les voir.
 Comine, allez devant ; je les vay recevoir.  
 
 
-### SCENE V
+### SCENE V.
 PAPYRIE, FLAVIE.
 
 
@@ -1486,7 +1486,7 @@ Allons donc recevoir triomphant, couronné
 Cet Espoux que mon Pere & les Dieux m'ont donné.  
 
 
-## ACTE II
+## ACTE II.
 
 
 ### SCENE PREMIERE.
@@ -1597,11 +1597,11 @@ Je ne le puis fuir, & je ne l'ose attendre :
 Que feray-je ? ô fureur⁎ ! que voy-je ? ô doux transport !  
 
 
-### SCENE II
+### SCENE II.
 FABIE, CAMILLE, LUCILLE, PAPYRIE.
 
 
-    FABIE. *entrant avec Camille.*
+    FABIE. *entrant avec Camille.*.
 Cette Maison fera mon naufrage ou mon port :  
 J'ay quitté le Senat qui m'a pris en sa garde [127] ;  
 Pour Juge, ou pour appuy, c'est vous que je regarde ;  
@@ -2035,7 +2035,7 @@ Quelle indiscretion [148] ? où va cette imprudence⁎ ?
 Madame, & l'on trahit ainsi ma confidence ?  
 Vous estes femme enfin, & vous avez parlé.  
 
-    LUCILLE
+    LUCILLE.
 Je suis Mere de plus, & j'ay tout revelé :  
 Mais quand bien [149] j'aurois tû ce qu'il falloit apprendre,  
 La parole vous lie, est-il moins vostre Gendre ?  
@@ -2089,7 +2089,7 @@ Elle [153], ou luy, doit perir.
         Quel exemple barbare !  
 Répondons luy de cœur ; s'il faut mourir, mourons.  
 
-    LUCILLE. *S'en allant avec sa fille.*
+    LUCILLE. *S'en allant avec sa fille.*.
 Cruel, va l'immoler ; dans peu nous le suivrons.  
 
     CAMILLE.
@@ -2104,7 +2104,7 @@ J'en demeure interdit⁎.
 FLAVIE, CAMILLE, FABIE, PAPYRE, COMINE.
 
 
-    FLAVIE
+    FLAVIE.
         Seigneur, n'avancez pas [154]:  
 C'est courir à la mort ; elle est dessus vos pas ;  
 Ayez plus de respect, ou de soin pour la vie.  
@@ -2227,7 +2227,7 @@ PAPYRE, FABIE PERE, CAMILLE, FABIE FILS, COMINE.
     PAPYRE.
 Dieux ! que sents-je ? est-ce moy [168] ?  
 
-    FABIE. PERE, *Voyant son fils à genoux.*
+    FABIE. PERE, *Voyant son fils à genoux.*.
         Dieux ! que voy-je ? est-ce luy ?  
 Quel spectacle ? ô mes yeux ! ô mon cœur ! quel ennuy⁎ ?  
 
@@ -2686,7 +2686,7 @@ De vous encourager encor contre moy-mesme.
 Puis que vous l'ordonnez ; & bien donc, sauvons nous.  
 
 
-### SCENE IV
+### SCENE IV.
 FABIE PERE, PAPYRE, COMINE, MARTIAN, FABIE.
 
 
@@ -3274,7 +3274,7 @@ Voicy mon Fils, Fabie [244] ; & voila vostre Fille.
     FABIE. FILS.
 Quel charme⁎ à mes esprits ! ô doux ravissement !  
 
-    LUCILLE. *luy presentant sa Fille.*
+    LUCILLE. *luy presentant sa Fille.*.
 Vous deviez l'acquerir un peu plus seureument.  
 
     FABIE FILS.
@@ -3314,7 +3314,7 @@ L'un couronné de myrthe, & l'autre de lauriers [248].
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Sauf indications spécifiques, les définitions de ce glossaire sont extraites du *Dictionnaire universel* d'Antoine Furetière (1690)
 
@@ -3329,7 +3329,7 @@ R. = *Dictionnaire français de Richelet*, 1680
 D. = *Dictionnaire du français classique* de Dubois, Lagane &Lerond, 1988ÀEst le plus souvent adverbe (temps, lieu) & se joint à presque tous les mots de la langue et aux infinitifs des verbes pour faire des phrases adverbiales qui tiennent de leurs significations & de leurs manières. *Ex.: un maître à écrire, on fait à savoir*V. 105AccablerFaire tomber une chose pesante sur une autre, qui l'oblige à succomber sous son poids excessif.V. 994 ; 1408Affligé (être)Souffrir quelque peine, chagrin ou douleur.V. 1574AllarmesAppréhensions bien ou mal fondées.V. 386AllégementIl signifie la même chose qu'*allégeance* mais son usage est plus ordinaire & plus étendu. Allégeance : soulagement d'un mal.V. 1291AnimerExciter à la colère, à la vengeance, au combat, à des entreprises.V. 447 ; 631 ; 1347ArrêterConvenir des conditions, conclure après quelque délibération, soit en soi-même, soit en compagnie.V. 960AssietteEtat, disposition de l'esprit. (L.)Préface p. VAtteinteAction, parole par laquelle on atteint, on frappe & on blesse ; au figuré, blessure morale.V. 1406AttentatOutrage ou violence faite à quelqu'un. En termes de Palais, ce qui est fait contre l'autorité des supérieurs & de leur juridiction.V. 501 ; 1288AvantageSe dit de la victoire & de ce qui sert à l'obtenir.V. 1123 ; 1261 ; 1506BalancerSe dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens & qui le font incliner de part & d'autre (*Furetière*). Rendre incertain, faire hésiter (C.).V. 795 ; 1190 ; 1193BarbareCruel, impitoyable.V. 670CarrièreFigurément, cours de la vie, fonction où on la passe.V. 717CelerTenir quelque chose cachée et secrète, dissimuler, taire.V. 1364ChargeDignité, office qui donne à quelqu'un pouvoir & autorité sur quelqu'un d'autre.V. 974CharmesAgréments, ce qui nous plaît extraordinairement, nous ravit en admiration.V. 602 ; 1607ChaudSe dit en morale des prompts & violents mouvements que causent les passions de l'esprit ou le cœur des hommes.V. 1312CombattreConsulter en soi-même le meilleur parti à prendre. « Avoir l'esprit combattu » : agité de diverses pensées.V. 1243ComplimentCivilité ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions.V. 192ConfondreSe dit de ceux qu'on surprend en quelque action honteuse qui les fait rougir (*Furetiere*), de ce qui humilie quelqu'un, le couvre de honte, le convainc d'erreur, le met dans l'impossibilité de répondre (C.)V. 917 ; 1337ConnaîtreSavoir, pénétrer jusqu'au fond des choses.V. 1250Découvrir, faire voir qui on est. Reconnaître.V. 30 ; 32 ; 38 ; 40 ; 1286Pouvoir de jugerV. 1293ConserverAvoir soin d'une chose pour empêcher qu'elle ne se perde (*Furetiere*)V. 519 ; 1424Continuer d'être tel ou tel (L.).V. 9DeAu XVII*e* siècle, cette préposition tend à remplacer toutes les autres  & s'emploie notamment au sens de *à*, en particulier devant infinitif complément (C.). *Ex :Il commenceoit de craindre*V. 297Débander (se)Se dit des soldats & signifie quitter le gros de la troupe, se séparer.V. 1375DécevoirTromper adroitementV. 1006.DécevantPropre à tromper.V. 619DéduireRaconter quelque fait particulier ou histoire par le menu.V. 170 ; 267DéfendreParer, garantir.V. 1298DémentirManquer de persévérance (*Furetiere*). Contredire par ses actes présents ses actes passés (C.)V. 812 ; 1568DémettreDestituer, ôter d'une charge.V. 1427DéplaireDonner du chagrin, irriter. (L.)V. 318 ; 332DéposerSignifie aussi destituer quelqu'un d'une dignité, charge, d'un emploi.V. 1430DésordreConfusion (*Furetiere*). Trouble, embarras, égarement d'esprit (Ac.).V. 396 ; 1412DétenuEtre attaché, retenu quelque part.V. 39DignitéMagistrature, prélature, emploi ou office considérablePréface p. IVDisputerContester, entrer en concurrence, se battre pour acquérir ou maintenir quelque chose.V. 582 ; 804EffetCe qui est produit, ce qui résulte de l'opération des causes agissantes.V. 219EnflammerEn termes de morale, exciter, échauffer. Emouvoir les passions & surtout l'amour & la colère.V. 462EnnuiDouleur odieuse, tourment insupportable, violent désespoir. (C.)V. 644 ; 868 ; 1263 EntreprendreEn bonne part, se charger d'une chose, la prendre en main en vue de la faire réussirV. 414Faire quelque ouvrage qui appartient à quelque autre métier que le sien (*Furetiere*), empiéter sur le travail, le pouvoir de quelqu'un d'autre.V. 741EnvieChagrin de voir les bonnes qualités ou la prospérité de quelqu'un.V. 214ÉpouvantableTerrible, qui surprend, qui fait peur, qui donne de l'admiration.V. 715ÉtonnerCauser à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte.V. 1329ÉtonnantQui surprend, donne de l'admiration par sa rareté, nouveauté ou incompréhensibilité. (*Furetiere*) terrifiant, épouvantable (C.)V. 387ÉtrangeCe qui est surprenant, rare, extraordinaire.V. 653ExcèsGrande quantité d'une chose, violence extraordinaire d'un sentiment (C.)V. 375FâcherChoquer, offenser quelqu'un, lui donner un sujet de chagrin ou de colère.V. 808FacilitéÀ le sens de faiblesse, simplicité, mollesse (*Furetiere*) mais aussi indulgence (C.). « Se dit en mauvaise part d'une personne qui n'est pas ferme aux choses où il faut être mais qui se laisse aller trop aisément. » (Ac.)V. 1315FactionParti qu'on forme dans un Etat pour troubler le repos public.V. 1487FameuxQui est en vogue, en réputation, bonne ou mauvaise.V. 241 ; 1350FaveurGrâce qu'on fait à quelqu'un, bienfait. Equité, adoucissement des lois (opposé à « rigueur »), surtout dans le domaine de la Justice. Bienveillance d'un puissant, crédit qu'on a sur son esprit.V. 455Approbation, affection, estime.FeindreCacherV. 99 ; 319Tromper par l'apparence, faire semblant.V. 1364FilleCelle qui n'a point été mariée.V. 1535FlatterCaresser les sens ou l'esprit, charmer, séduire. Se dit par extension de tout ce qui agrée à une personne, lui fait plaisir, lui donne de l'espoir l'encourage. Se dit en particulier de tout ce qui adoucit une peine, apaise un chagrin.V. 397 FoiSerment, parole donnée de faire quelque chose & qu'on promet d'exécuter.V. 771 ; 1006FondreSe jeter avec impétuosité sur quelque chose.V. 342FoudreAu masculin : au sens figuré, colère de Dieu ou des Rois.V. 508 ; 1081Au féminin : « une foudre » a le sens habituel de « la foudre », l'élément physique.V. 1497FunesteMalheureux, sinistre, qui porte la calamité & la désolation avec soi.V. 605 FureurDémence, emportement violent causé par un dérèglement de l'esprit & de la raison. Se dit aussi de toutes les passions qui nous font agir avec de violents emportements, des transports de l'âme, des enthousiasmes qui la mettent hors de son assiette ordinaire.V. 471 ; 790 ; 988FuriePassion violente de l'âme qui la transporte, qui outre sa colère. Se dit aussi de tout ce qui se fait avec ardeur, promptitude, courage, impétuosité.V. 253GénéreuxQui a l'âme grande & noble et préfère l'honneur à tout intérêt.V. 635 ; 671 ; 835 ; 1001Brave, vaillant, courageux.V. 803.HautSe dit de tout ce qui a quelque degré de grandeur, d'excellence.V. 505HazarderRisquer, faire des imprudences (*Furetière*). Exposer au hasard, courir le risque (C.).V. 7 ; 702 ; 1413HeureuxChanceux, à qui le hasard est favorable. Se dit de ce qu'on croit être cause de quelque bonheur, de quelque avantage.V. 730 ; 1538 ; 1616IllustrerRendre une chose illustre, c'est-à-dire élevée au-dessus des autres par son mérite, sa vertu, sa noblesse, son excellence.V. 949ImprudenceManque de précaution, de délibération, de prévision des conséquences de quelque chose.V. 753IndulgentBon, facile, qui use d'indulgence, pardonne aisément.V. 1357InfracteurCelui qui enfreint, qui rompt un traité, une loi.V. 1111InjurieuxCe qui fait affront, injure à quelqu'un.Préface p. VI, v. 400InsolentQui parle, agit, avec imprudence, effronterie, manque de respectV. 675InterdireSe dit de ceux qui se troublent, s'étonnent & ne sauraient parler raisonnablement. Ex : rester interdit devant le juge.V. 791LangueurTristesses, afflictions ou passions violentes qui nous privent de joie ou de santé.V. 2 ;  367LégerEn choses morales, ce qui n'est pas solide, considérable, sans poids ni autorité.V. 738LibéralQui donne avec raison & jugement, en sorte qu'il ne soit ni prodigue ni avare.Préface p. IIILicenceCongé, permission d'un supérieur. Se dit aussi de l'abus de ces permissions, de la hardiesse ou de la liberté qu'on prend soi-mêmeV. 454 ; 1342Signifie aussi désordre, dérèglement des actions, des mœurs, libertinage.V. 710LierBrider, obliger quelqu'un à certaines conditions en sorte qu'on s'en puisse défendre.V. 760LieuEspace dans lequel un corps est placé. Se dit aussi des places & rang d'honneur qui sont établis dans la République ou l'opinion des hommes.V. 103MaintenirEn choses morales, donner secours & protection.V. 631MaliceInclination qu'on a à faire le mal & des actions nuisibles à quelqu'unPréface l. 53Qualité mauvaise qui se trouve en quelque chose morale.V. 937MalinEnclin à faire du mal. Se dit des choses inanimées nuisibles, des passions & mouvements du cœur.V. 609MiliceTerme collectif qui se dit des gens de guerre, de ceux qui font profession des armes. Se dit quelque fois de l'art militaire, de la discipline des troupes.V. 50MinistèrePossession, charge ou emploi où l'on rend service à Dieu, au public ou à quelque particulier. Se dit aussi du gouvernement de l'Etat sous l'autorité souveraine.V. 1317MonumentEn poésie, signifie le tombeau.V. 1444MouvementSe dit des différentes impulsions, passions, ou affections de l'âme. (*Ac.*)V. 251 ; 1004NaufrageSe dit figurément d'un débris de fortune, d'un renversement d'affaires.V. 1616NœudSe dit figurément en choses morales en parlant des liaisons qui attachent ensemble les personnes.V. 1174ObligerLier, enchaîner par un serment, un service… Indique une pression morale mais exercée par persuasion, promesse, aussi bien que par force ou menace. (C.)V. 521 ; 1017 ; 1325OfficeSecours ou devoir réciproque de la vie civile (*Furetiere*). Service qu'on fait, qu'on rend à quelqu'un (Ac.).V. 1517OrgueilEn bonne part, sentiment noble, élevé, qui inspire une juste confiance en son propre mérite.V. 356PartiPuissance opposée à une autre.V. 811PartieEn termes de Palais, se dit de tous les plaideurs (demandeurs & défenseurs).V. 531 PassageChangement d'état.V. 395Passer jusqu'àEn arriver à, aller jusqu'à (idée d'une limite franchie). (C.)V. 729PerdreDétruire, ruiner quelqu'un.V. 1038PlaindreAvoir de la compassion, de la douleur de la misère d'autrui.V. 1PointeEn termes de guerre, se dit des corps les plus avancés, soir en la marche, soit en l'attaque. Se dit aussi d'un dessein qu'on a fait, d'une résolution constante.V. 269PompeuseQui se fait avec pompe & magnificence ; peut se dire figurément en morale. (*Furetiere*) Sans aucune nuance péjorative, triomphale, grandiose, majestueuse, glorieuse, éclatante. (C.)V. 366PoursuivreCourir après quelqu'un pour l'attaquer & lui nuire. Faire des procédures en Justice.V. 641PresserPoursuivre vivement (*Furetiere*). Serrer de près, exercer une pression physique ou morale (C.).V. 237 ; 1408PrétendreAspirer à quelque chose, avoir espérance de l'obtenir (*Furetiere*). Demander une chose à laquelle on croit avoir droit, réclamer, revendiquer. Se dit avec un complément de personne en parlant d'une femme qu'on recherche en mariage (C.).V. 646PrévenirEtre le premier à faire quelque chose, gagner les devants. Se saisir le premier d'une affaire. Remédier aux maux qu'on a prévus, les empêcher, s'en garantir.V. 558 ; 921 ; 1015 ; 1491PrononcerDécider avec autorité.V. 1527PublierRendre une chose publique. *Publier un secret* : le révéler.V. 211 ; 759QuitterRelâcher, changer de dessein. Abandonner quelque chose.V. 648RaceLignée, génération continuée de père en fils.V. 776RappelerAppeler une seconde fois, faire revenir celui qui s'en va.V. 689RebelleQui se révolte contre son souverain, résiste à ses supérieurs, ne veut pas obéir aux lois.V. 1409 ; 1422RecommendableQui mérite d'être estimé & considéré pour ses bonnes qualités.Préface p. IVRejetonNouveau bois que jette un arbre, ce qu'une plante pousse de nouveau de sa racine. Se dit figurément en choses morales.V. 95RelâcherSe modérer, devenir moins violent. S'affaiblir, céder, se laisser aller, rabattre de sa sévérité, de sa rigueur.V. 1445RemettreReposer, tranquilliser, apaiser, calmer (C.)V. 338RemordsNe se dit que du reproche que la conscience fait à un criminel, qui l'oblige à se repentir de son crime, qui lui en fait appréhender la punition.V. 835RenommerRendre célèbre, mettre en réputation, bonne ou mauvaise.V. 953RenouvellerRenaître, paraître de nouveau.V. 137RépondreSatisfaire, payer de retour (D.)V. 712Ressortir, reconnaître une justice supérieure *(les rois ne répondent de leurs actes qu'à Dieu seul).* Etre caution, avoir en sa garde *(sa tête en répond)*V. 1338RésignerS'abandonner à la volonté ou à la direction d'autruy.V. 370RésoudreConclure après avoir délibéré.V. 1193RireSe dit figurément des choses inanimées et en morale, en parlant de ce qui plaît, est agréable.V. 1308SéditieuxQui émeut le peuple contre l'autorité légitime, perturbateur du repos public.V. 1367SouciChagrin, inquiétude d'espritV. 123 ; 1512SouffrirSupporter patiemment, sans révolte, tolérer. Supporter, subir, endurer. (C.)V. 802 SublimeQui est au premier rang, qui est élevé par-dessus les autres.V. 130SuccéderRéussir (*Furetiere*). Arriver, advenir, aboutir, en parlant de succès, bons ou mauvais (C.).V. 1056SuccèsIssue d'une affaire, se dit en bonne & mauvaise part.V. 45 ; 1118SuperbeVain, orgueilleux, qui a de la présomption, une trop bonne opinion de soi-même.V. 400 ; 1378Se dit aussi de ce qui marque la magnificence, la somptuositéV. 29 ; 37SupportCe qui soutient quelque chose, ce sur quoi elle pèse. Ce qui donne de l'appui, du secours, de la protection.V. 996SurmonterEn choses morales, vaincre, avoir l'avantage, surpasser.V. 449TémoignerS'ouvrir, faire connaître son sentiment.V. 298 ; 1000TendreSe dit de ce qui est délicat, faible, qui a peu de résistance, qui est sensible.V. 1013TenirOn le dit des pensées, opinions. *Ex. : je tiens cela pour fait.*V. 436 ; 462Posséder une chose, en disposer par la grâce et le bienfait d'autrui.V. 1600TenterEprouver la fidélité de quelqu'un ; *ex : Dieu tenta Abraham*. Exciter, induire quelqu'un à faire du mal. On dit figurément « il ne faut pas tenter Dieu » pour signifier ne pas lui demander de faire à tous moments des choses miraculeuses.V. 690Tirer raisonObtenir avantage sur quelqu'un (ou par la justice, ou par la force).V. 564TourmentDouleur violente que souffre le corps, et figurément, peines & chagrins qu'on se donne à soi-même, ou les uns les autres.V. 1325TraitFlèche, arme qu'on lance.Préface p. V ; v. 234TransportTrouble ou agitation de l'âme par la violence des passions.V. 371TravauxSe dit au pluriel des actions, de la vie d'une personne & particulièrement des gens héroïques. *(Les travaux d'Hercule)*.V. 198TristeAffligé par quelque perte ou accident qui lui est arrivé, ou qui est d'un tempérament sombre & mélancolique.V. 339VaillanceGrandeur de courage, valeur, hardiesse.V. 1154VainGlorieux, superbe, qui a bonne opinion de soi-même. (*Furetiere*)V. 449*Sens courant depuis le XIV*e* siècle* : Qui est dépourvu d'efficacité, reste sans effet : inefficace, infructueux, inutile (*Robert*)V. 227VigueurForce du corps ou de l'âme.V. 879VisiterRendre visite, faire une visite.V. 1210
 
 
-# Annexe : Tableau de la présence scénique des personnages
+# Annexe : Tableau de la présence scénique des personnages.
 
 Les nombres qui figurent dans les cases correspondent à la quantité de vers prononcés par les personnages. Quand ils sont présents mais muets, la case est occupée par une croix. La ligne intitulée « rang » indique le classement des personnages par ordre décroissant de volume de parole prononcé.
  | Papyre | Fabie | Papyrie | Lucille | Camille | Flavie | Fabie Père | Comine | Martian | Garde
@@ -3360,12 +3360,12 @@ rang | 1 | 3 | 2 | 6 | 4 | 8 | 5 | 7 | 9 | 10
 
 
 
-# Bibliographie
+# Bibliographie.
 
 Nota : quand le lieu d'édition est Paris, il n'est pas précisé. Certains autres ouvrages, consultés ponctuellement, ne figurent pas dans cette bibliographie et sont mentionnés en note au cours de l'étude.
 
 
-## Textes des XVII*e* et XVIII*e* siècles
+## Textes des XVII*e* et XVIII*e* siècles.
     *Chappuzeau*Le Théâtre français
 *Gillet de la Tessonerie*L'Art de régner
 *Gillet de la Tessonerie*Le Triomphe des 5 Passions
@@ -3375,10 +3375,10 @@ Nota : quand le lieu d'édition est Paris, il n'est pas précisé. Certains aut
 
 
 
-## Outils de travail
+## Outils de travail.
 
 
-### Dictionnaires
+### Dictionnaires.
     Dictionnaire de l'Antiquité*M. C. Howatson**re*
 *Académie Française*Dictionnaire
 *Cayrou*Dictionnaire du français classique, la langue du XVII*e* siècle*re*
@@ -3391,24 +3391,24 @@ Nota : quand le lieu d'édition est Paris, il n'est pas précisé. Certains aut
 
 
 
-### Ouvrages de syntaxe
+### Ouvrages de syntaxe.
     *Haase*Syntaxe française du XVII*e* siècle*e**re*
 *Sancier-Château*Introduction à la langue du XVII*e* siècle
 *Spillebout*Grammaire de la langue française du XVII*e* siècle
 
 
 
-## Textes critiques
+## Textes critiques.
 
 
-### Bibliographies
+### Bibliographies.
     *Cioranescu*Bibliographie de la Littérature française du dix-septième siècle
 *Klapp**Klapp**Lehrmann*Bibliographie der Französischen Literatur-Wissenschaft
 *Lachèvre*Bibliographie des recueils collectifs de poésies publiés dans les dernières années du XVI*e* et pendant le XVII*e* siècle
 
 
 
-### Ouvrages généraux sur le théâtre et la tragédie
+### Ouvrages généraux sur le théâtre et la tragédie.
     *Bénichou*Morales du grand siècle*re*
 *Delmas*La Tragédie de l'âge classique
 *Forestier*Essai de génétique théâtrale, Corneille à l'œuvre
@@ -3422,7 +3422,7 @@ Nota : quand le lieu d'édition est Paris, il n'est pas précisé. Certains aut
 
 
 
-### Ouvrages apportant des éléments plus précis pour l'étude de Mareschal, son époque et son œuvre
+### Ouvrages apportant des éléments plus précis pour l'étude de Mareschal, son époque et son œuvre.
     *Adam*Histoire de la littérature française au XVII*e* siècle
 *Chardon*Nouveaux documents sur la vie de Molière, Monsieur de Modène, ses deux femmes et Madeleine Béjart
 *Deierkauf-Holsboer*Histoire de la mise en scène dans le théâtre français à Paris, de 1600 à 1673

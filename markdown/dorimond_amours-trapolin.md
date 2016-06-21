@@ -15,10 +15,10 @@ A PARIS, Chez JEAN RIBOU, sur le Quai des Augustins, à L'Image Saint Louïs. M.
           master 2 sous la direction de Georges Forestier (2013-2014)
 
 
-# Éléments biographiques
+# Éléments biographiques.
 
 
-## La vie et les représentations de Dorimond
+## La vie et les représentations de Dorimond.
 
 Dorimond, de son vrai nom Nicolas Drouin, est un de ces comédiens de campagne qui erraient dans des troupes de province. Il a laissé peu de traces de son passage dans le paysage théâtral français, étouffé par les grands dramaturges du XVII*e* siècle. Nous allons tenter de réunir les informations recueillies au fil des années pour présenter l'homme, ses œuvres, et une en particulier: La Comédie de la comédie suivie des Amours de Trapolin, publiée en 1661.
 
@@ -107,7 +107,7 @@ Peu après, la Troupe se dissoudra. Les uns entrant dans une autre compagnie, et
 En 1674, Samuel Chappuzeau, dans son *Théâtre François*, placera Dorimond parmi les comédiens/auteurs morts. Il n'aura appartenu à aucune autre troupe que celle de Mademoiselle, où il réussissait dans le tragique et le comique.
 
 
-## Les déplacements de la Troupe de Mademoiselle
+## Les déplacements de la Troupe de Mademoiselle.
 
 Les nombreux déplacements en France et en Europe de la Troupe de Mademoiselle constituent une de ses caractéristiques importantes.
 
@@ -132,7 +132,7 @@ On trouvera des témoignages de la venue de la Troupe à La Haye, Anvers, puis �
 Il est difficile de dresser un inventaire des villes dans lesquelles la Troupe s'est arrêtée pour jouer mais avec toutes les informations que nous avons rassemblées, il est possible d'imaginer que les acteurs ont fait de nombreux tours de France et d'Europe.
 
 
-## Réception des œuvres
+## Réception des œuvres.
 
 Le pouvoir royal était très investi dans la production et la diffusion des œuvres théâtrales en France. De ce fait, il contrôlait ce qui se disait et en profitait pour se divertir. Au XVII*e* siècle, il était fréquent que les puissants protègent les troupes théâtrales. Il en fut ainsi pour Molière par les faveurs du duc d'Orléans, et Philippe de France fut le mécène du Petit Bourbon.
 
@@ -189,10 +189,10 @@ Dès 1635, Louis XIII subventionnait les troupes de l'Hôtel de Bourgogne et du 
 En 1637, Richelieu charge Lemercier de faire construire le Palais Cardinal qui sera le plus beau théâtre de Paris. En plus de l'aide apportée par les grands seigneurs, le théâtre classique bénéficiera d'un mécénat de l'État.
 
 
-# Étude de la pièce
+# Étude de la pièce.
 
 
-## La Comédie de la comédie
+## La Comédie de la comédie.
 
 Scène première : Rencontre de deux bourgeois dans la rue allant à la comédie. On assiste à la lecture d'une affiche qui présente la pièce qui va se jouer à la comédie : *Les Amours de Trapolin*. Les deux hommes vantent les bienfaits de la comédie française aux dépens de la comédie italienne.
 
@@ -205,7 +205,7 @@ Scène quatrième : Le Galant et l'Epinay viennent aborder la comédienne dans 
 Scène cinquième : Devant la porte, deux filous tentent d'entrer dans le théâtre sans payer. Le portier résiste, défend ses portes et finit par fermer la porte, ce qui amène au changement de scène et au début de la pièce enchassée.
 
 
-## Les Amours de Trapolin
+## Les Amours de Trapolin.
 
 Scène première : Dialogue entre Trapolin et Ignorance, amante de Trapolin. Déclaration de leurs sentiments amoureux.
 
@@ -222,7 +222,7 @@ Scène sixième : Trapolin vante les attraits de Galanterie. Cette dernière va
 Scène septième: le docteur propose de marier Trapolin à celle qu'il a choisi mais il réalise que ce dernier a choisi Ignorance. Les filles promettent de se venger de Trapolin. Il s'enfuit avec Ignorance qui lui promet le bonheur dans l'ignorance et loin de la raison.
 
 
-# Les Personnages
+# Les Personnages.
 
 Les acteurs sont le reflet de la pièce qu'ils jouent, ils se doivent d'avoir des qualités physiques en accord avec le personnage qu'ils incarnent (vieillard pour le docteur par exemple), ses qualités intellectuelles et morales, et une capacité à s'adapter à leur personnage.
 
@@ -231,10 +231,10 @@ L'acteur doit avoir une belle présence car il est ce que voit le spectateur, il
 Même d'Aubignac [20], le théoricien de l'esthétique théâtrale de la période, admet l'importance de l'interprète, vantant Montdory comme étant le meilleur acteur du temps.
 
 
-## Les personnages dans *La Comédie de la comédie*
+## Les personnages dans *La Comédie de la comédie*.
 
 
-### Les deux bourgeois et les deux dames
+### Les deux bourgeois et les deux dames.
 
 Ces quatre premiers personnages servent à introduire la pièce, ils discutent de la comédie qui va se jouer dans un théâtre. Ces personnages sont représentatifs d'un type d'individus que Dorimond veut attirer pour assister à ses comédies. Très peu d'informations personnelles sont données sur ces personnages qui n'ont pas des rôles importants. Ils se rapprochent de la figuration, ils semblent relativement classiques, éduqués et intéressés par « le bon sens et la science ». Les deux hommes paraissent être habitués à voir des représentations théâtrales car ils comparent la scène française à la scène italienne avec la commedia dell'arte. La liste des acteurs les introduit comme « deux bourgeois », cela montre que les hommes de rang plus élevés vont aussi au théâtre. Dorimond peint à travers ces quatre personnages les spectateurs ciblés par la comédie. Il engage une polémique en mettant un discours positif dirigé vers le théâtre de la part de personnages stéréotypés qui semblent aisés.
 
@@ -260,14 +260,14 @@ Des individus de rang élevé sont présents et surélèvent la pièce qui va se
 Ces personnages se trouvent dans la pièce-cadre de la comédie. Ils sont donc censés représenter le spectateur réel. En revanche, leurs propos ne peuvent être considérés comme vrais car trop lointains de la réalité ainsi que des remarques classiques des spectateurs de la comédie ou des bourgeois, car contraires au discours habituel. Dorimond pourrait représenter des personnages qui fassent échos à la réalité. Mais il choisit de les trahir pour faire réfléchir et réagir le spectateur réel.
 
 
-### Le Portier
+### Le Portier.
 
 Il est celui qui contrôle les entrées dans le théâtre et qui empêche ceux qui ne payent pas d'accéder à l'intérieur. Il contrôle l'accès à la salle, interdit l'accès à ceux qui n'ont pas de billets, et maintient l'ordre. Il a aussi le rôle de trésorier de la compagnie : après chaque représentation, il doit diviser l'argent qu'il a reçu entre les acteurs selon leur grade [21]. Il a, dans cette pièce-cadre, une vraie conscience, et il a un rôle de protecteur vis-a-vis des acteurs. Il admet qu'il pourrait « mettre pour le moins deux escus a l'escart » mais que ses maîtres sont des « gens d'honneurs et sans fard », alors il ne les vole pas. Dorimond présente un portier honnête et qui connaît suffisamment les comédiens pour ne pas les escroquer. Le portier est celui qui est le plus proche des acteurs et il affirme qu'ils sont des gens respectables. De plus, ce portier est responsable et fait des choix raisonnés car il sait que le travail de comédien est payé pour de bonnes raisons : « enfin la comédie est une marchandise, que l'on doit acheter et payer sans remise » (v. 90).
 
 Par le portier, Dorimond justifie l'argent que les spectateurs dépensent pour assister à une représentation, le portier explique lui-même sa situation et le spectateur qui ne prêtait pas attention à ce personnage, réalise qu'il est là et qu'il fait les choses de manière justifiée.
 
 
-### La comédienne
+### La comédienne.
 
 Elle se trouve dans sa loge avant la représentation et se fait importuner par deux galants qui veulent la séduire car elle est une femme sollicitée. La comédienne fait une leçon de théâtre aux deux soupirants, étalant ainsi sa culture :
 
@@ -291,28 +291,28 @@ Cette comédienne s'appelle Isabelle. A travers ce prénom, Dorimond fait réfé
 En revanche, ce personnage exagère son rôle et en devient désagréable pour le spectateur.
 
 
-### Les deux galants
+### Les deux galants.
 
 Ces deux hommes importunent la comédienne et viennent la séduire dans sa loge. Ils sont présents pour montrer que cette dernière n'est pas facilement influençable, qu'elle n'est pas intéressée par l'or et les bijoux. Dorimond s'en sert pour montrer l'inutilité des actes des séducteurs sur les actrices parce qu'elles ne sont pas des femmes aux mœurs légères. Ils paraissent ridicules dans leurs propos car ils renchérissent tous deux sur les présents qu'ils veulent offrir à l'actrice sans prêter attention aux protestations de cette dernière.
 
 Mettre dans une même scène la comédienne et les deux galants sert à montrer le contraste qu'il y a entre les individus. Les galants sont ceux qui sont ignorants, ils étalent leurs richesses et, au contraire, la comédienne se comporte comme la femme vertueuse.
 
 
-### Les deux filous
+### Les deux filous.
 
 Ils permettent de clore cette pièce-prologue et surtout de montrer les qualités du portier qui défend son théâtre. Ils sont les provocateurs mais aussi le symbole de cette société qui revendique tous les passe-droits.
 
 Tous les personnages précédemment cités sont des instruments pour vendre la comédie et présenter les acteurs d'un théâtre. Tout le monde se bouscule pour entrer à la comédie, la pièce qui va se jouer a un grand succès. C'est pour faire changer les mœurs et pour montrer que la comédie n'est pas un lieu de débauche où ne sont présentées que des scènes amorales ou violentes que Dorimond utilise cette mise en scène.
 
 
-## Les personnages dans *Les Amours de Trapolin*
+## Les personnages dans *Les Amours de Trapolin*.
 
 Les personnages dans *Les Amours de Trapolin* sont simplifiés mais on peut y voir une certaine vérité à travers leurs traits grossiers. Ils représentent des types de spectateurs que l'auteur dénonce.
 
 Ignorance et Trapolin constituent les amoureux à la première scène de l'œuvre. Pour Mic, la littérature des amoureux était, en son temps, prise au sérieux et admirée comme l'expression d'un « extrême raffinement de pensée et de langage » et « aux yeux des contemporains, l'emploi des amoureux était grave ». Les amoureux sont toujours décrits de manière un peu caricaturale, ils sont sans cesse dans une bulle loin des autres personnages.
 
 
-### Trapolin
+### Trapolin.
 
 Les descriptions nous donnent très peu d'informations sur ce personnage en dehors de son image d'homme riche qui attire les cupides et que tous les personnages cherchent à séduire. Trapolin est le personnage principal de la pièce enchâssée, il apparait dans toutes les scènes lorsqu'il y a un dialogue. La pièce enchâssée porte d'ailleurs le nom de ce personnage créé de toutes pièces par Dorimond. Il est en vain courtisé par les femmes de la pièce, les jeunes filles (Ignorance, Poésie, Philosophie, Galanterie), et les hommes en quête d'argent (le docteur). Il joue ainsi dans la pièce le rôle de l'unique jeune homme en âge de se marier. Les femmes ne semblent pas avoir le choix quant au jeune homme à séduire. Cette pièce met en valeur le caractère de rareté du jeune homme riche. C'est en direction de Trapolin que convergent toutes les intrigues, il a le rôle principal dans la pièce.
 
@@ -391,7 +391,7 @@ Trapolin, celui à qui tout le monde reproche son ignorance, est bel et bien ign
 Il rappelle Arlequin chez Goldoni ou Marivaux et dans la commedia dell'arte, en raison de sa dimension comique et de son caractère. Il est très gentil et on essaie de se jouer de lui comme en témoigne le manque de réaction aux insultes faites par le clan du docteur à la dernière scène. Il fait rire l'auditoire par ce qu'il fait passer pour de l'incompréhension et il est facile de l'imaginer faire des gestes exagérés sur scène, même si nous n'avons que très peu de didascalies.
 
 
-### Le Docteur
+### Le Docteur.
 
 Dans l'œuvre de Dorimond, il est un des personnages principaux. Il apparait dès la seconde scène et c'est lui qui décide de présenter ses filles à Trapolin. Ce personnage fait largement référence à la commedia dell'arte et au théâtre de Molière, il a ainsi déjà ses traits distinctifs [24].
 
@@ -440,7 +440,7 @@ Avecque vos tresors achetez de l‘esprit !
 Le docteur en plus d'être l'homme de vertu et de savoir de la pièce, est le père, celui qui a l'autorité. Il a donc cette volonté d'étendre son savoir et, que tous les personnages soient aussi vertueux ou cultivés que lui.
 
 
-### Les prétendantes de Trapolin
+### Les prétendantes de Trapolin.
 
 Toutes les femmes de la comédie enchâssée de Dorimond sont des prétendantes. L'auteur ménage rarement les femmes dans ses comédies et, d'après l'influence gauloise, il les compare à des furies, des « échevelées », des barbares [26]. On pense à Poésie et Philosophie qui supplient Trapolin de choisir l'une d'elles.
 
@@ -518,10 +518,10 @@ Elle fait le repos et l'honneur des maris
 Cette pièce contient de nombreux personnages qui sont très différents les uns des autres. On retrouve le clan des ignorants représenté par Ignorance tandis que celui du savoir et de la connaissance rassemble le docteur et ses deux filles, Philosophie et Poésie. Il y a un troisième clan qui pourrait constituer un juste milieu, mais il est également extrême dans ses caractéristiques : le clan de la galanterie qui ne comporte que Galanterie. Trapolin doit choisir parmi ces types et il rejette les caractères les plus « complets » pour se tourner vers l'ignorance.
 
 
-# L'œuvre
+# L'œuvre.
 
 
-## En général
+## En général.
 
 Dans la préface du *Glorieux*, Destouches affirmait qu'un ouvrage comique se doit de « tomber sur le ridicule, de décrier le vice et de mettre la vertu dans un si beau jour qu'elle s'attire l'estime de la vénération publique ». Ainsi, en 1778, il montre l'utilité de la comédie et insinue qu'il faut faire rire de la vertu.
 
@@ -682,10 +682,10 @@ Contrairement à la majorité des pièces de théâtre du XVII*e* qui respectent
 Ainsi, même si rien de précis et aucun détail n'est donné sur les rapports sexuels, ils sont fréquemment sous-entendus.
 
 
-# Le genre et ses influences
+# Le genre et ses influences.
 
 
-## La farce
+## La farce.
 
 Au début du XVII*e* siècle, la farce connait un grand succès avec l'époque troublée. C'est une pièce cruelle, avec un humour indécent et irrespectueux. Elle amuse et divertit à travers une certaine fantaisie. C'est un passe-temps populaire que Richelieu réprimera. Après un épisode sombre de son histoire, la farce connait un nouveau jour avec une amélioration des salles, on réhabilite le métier même de comédien et, peu après, les honnêtes gens voudront en faire un divertissement de bon ton, qu'on aime voir pour se divertir.
 
@@ -698,7 +698,7 @@ Les comédies en 1620 ont, pour beaucoup d'entre elles, des situations de dépar
 Vers 1660, ces petites pièces se complexifient et les situations sont de plus en plus rythmées [35].
 
 
-## La Commedia dell'arte
+## La Commedia dell'arte.
 
 Une des influences majeures des auteurs de pièces de théâtre au XVII*e* siècle en France est celle du théâtre italien, la Commedia dell'arte. C'est un genre plus divertissant et plus ouvert que le style classique auquel est habitué le public français.
 
@@ -730,7 +730,7 @@ Dans cette comédie de Dorimond, le spectacle met en scène de grosses caricatur
 Un autre signe de la présence de la commedia dell'arte dans le théâtre de Dorimond est le nom de l'actrice dans la pièce prologue : Isabelle. Isabelle Andreini était une actrice célèbre italienne de la Commedia dell'arte. Elle est « l'ornement le plus brillant de la scène et du théâtre, autant recommandable par sa vertu que par sa beauté, elle est aussi membre de l'académie des Intenti (attentifs) » [39].
 
 
-## Le Théâtre élisabéthain
+## Le Théâtre élisabéthain.
 
 C'est une théâtralisation générale de la vie et de l'art, tout est sujet à la représentation. On prend les hommes comme objet pour faire une réflexion sur eux. Cela se rapproche du *self-conscious theatre*. C'est la notion de miroir : on suscite l'ambiguïté entre la réalité et l'image. C'est se dédoubler pour se contempler à travers son propre reflet et dénoncer ainsi sa propre ostentation.
 
@@ -739,7 +739,7 @@ Ce qu'on aime en France dans la seconde moitié du XVII*e* siècle, ce sont les 
 On parle également, dans ce théâtre élisabéthain, du *Theatrum Mundi.* C'est le macrocosme de la vie reflété dans le microcosme du théâtre, pour marquer le passage du Moyen Âge à la Renaissance, époque qui annonce l'ère moderne dans laquelle l'homme devient la mesure de toute chose. Le *Theatrum mundi* est une idée philosophique d'origine grecque et faite par les Pères de l'Eglise. On voit le théâtre comme métaphore de la vie dans laquelle l'homme est en même temps acteur et spectateur. La phrase de Petronio en est l'emblème : « *totus mundus agit Historionem* ».
 
 
-## Molière
+## Molière.
 
 Dix années après le Privilège du Roi sur l'œuvre *La Comédie de la Comédie* de Dorimond, Molière obtient le Privilège le 31 décembre 1670 pour *Les Femmes savantes*, une comédie sur le pédantisme et les mœurs de l'époque. Cette pièce met en scène deux sœurs que tout oppose. Armande critique le mariage et ses lois qui font perdre le temps et qui empêche de s'adonner à la pensée et la philosophie. Et en face d'elle on trouve sa sœur, Henriette, qui cherche à se marier avec son amant et qui ne s'intéresse point à l'exercice de l'esprit. Chrysale, leur père, accepte cette union mais leur mère a prévu un autre homme qui correspond davantage à ses critères de respect des belles-lettres et de pédanterie. À la suite de plusieurs péripéties, les mensonges et la lâcheté de ce prétendant lettré se révèlent. On voit dans cette œuvre, une démonstration des méfaits du pédantisme [40], Molière montre qu'Henriette préfère être sotte (v.1057-1060)
 
@@ -781,7 +781,7 @@ De Molière à nouveau, dans le même registre, nous avons *L'Ecole des femmes*.
 On retrouve donc ce sujet de l'éducation et du savoir chez les femmes plusieurs fois chez Molière, mais aussi chez d'autres auteurs du XVII*e* tel que René Bary dans *La Fine philosophie accommodée des dames* (1660).
 
 
-## Le théâtre espagnol
+## Le théâtre espagnol.
 
 La *Comedia* espagnole est foisonnante, riche de prestige, multiforme, et montre des inspirations originales [42]. Le théâtre français du XVII*e* siècle a contracté des emprunts au théâtre espagnol, mais cela a rarement été l'opposé. En effet, en France, on témoigne dans le domaine culturel d'une curiosité et d'une ouverture qui revêt les aspects d'un emprunt. De plus, dans la bourgeoisie cultivée, on connait assez bien l'espagnol ; cela comptait dans les composantes essentielles de la culture de « l'honnête homme ».
 
@@ -808,10 +808,10 @@ Les auteurs espagnols voulaient plaire au *Vulgo*, c'est le public qui aime les 
 De plus, les espagnols aiment faire des satires morales mais cela échappe à leur théâtre et de cela résulte quelque chose de trop frivole qui peut amuser ou émouvoir. Dorimond a souhaité donner l'impression d'une morale. Il appliquera finalement une morale détournée, qualifiée de « frivole et inhabituelle » par Morel Fatio dans *la comedia espagnole du XVII*e* siècle* [44].
 
 
-# Les Thèmes
+# Les Thèmes.
 
 
-## Le théâtre dans le théâtre [45]
+## Le théâtre dans le théâtre [45].
 
 Ce thème a toujours existé dans le monde artistique, car c'est le moment à partir duquel le spectateur intervient dans l'action en jouant son rôle de public, en intervenant dans la pièce ou seulement en regardant la pièce.
 
@@ -852,7 +852,7 @@ La fonction du public de la comédie est diverse, il sert à renvoyer au vrai pu
 De plus, au XVII*e* siècle, le public était agité et il était difficile de l'amener à se concentrer sur une pièce de théâtre. Les faux spectateurs servent aussi à les faire taire, ils montrent l'exemple aux vrais spectateurs qui doivent s'identifier. En s'identifiant aux faux spectateurs, ils admettent aussi ce qu'ils ont exprimé avant le début de la comédie.
 
 
-## Le comique
+## Le comique.
 
 Dans une comédie du XVII*e*, on s'attend naturellement à rire et à s'amuser des situations grotesques des personnages et leurs réactions, du côté ridicule des incompréhensions ou même des caricatures de scènes connues.
 
@@ -949,7 +949,7 @@ Tout au long du siècle, le comique résulte d'un jeu d'occupation de l'espace, 
 Les personnages ne sont plus seulement un type, ils deviennent des caractères. Le public devient plus sage et on veut donner une réalité au théâtre (avec les règles de bienséances et le concept de vraisemblance).
 
 
-## La moralité
+## La moralité.
 
 Les sentiments de l'âme sont analysés abstraitement au XIII*e*, cela devient un catalogue souvent pédant des sentiments [51]
 
@@ -981,7 +981,7 @@ Trapolin, en choisissant de partir avec Ignorance a choisi la facilité. Il reto
 Dorimond propose aux spectateurs plusieurs choix. C'est ceux qui sont proposés à Trapolin. Mais à travers ces choix, il y a un côté démesuré à chaque fois et aucune des propositions n'est finalement raisonnable. Le spectateur se demande alors quel choix ferait-il entre les prétendantes de Trapolin et pour quelles raisons il ferait ce choix. Faut-il mieux choisir l'ignorance ou alors le savoir ou alors la galanterie ? En prenant en compte le fait que ces femmes ne présentent que ces qualités et ne sont pourvues d'aucune autre caractéristique.
 
 
-## La figure du pédant [54]
+## La figure du pédant [54].
 
 De nombreux textes sur le pédantisme [55] apparaissent au XIV*e* et XV*e* siècle, ils ridiculisent les pédagogues et se moquent largement d'eux.
 
@@ -1007,7 +1007,7 @@ Et puisque me voila sur le tendre et le doux,
 Dans le discours du Docteur, de Poésie et de Philosophie, à de nombreuses reprises il y a une accumulation d'auteurs ou de personnages illustres. Cela sert à étaler sa culture et sa connaissance. C'est imposer son savoir aux yeux de son entourage. Ils n'hésitent pas à faire des références aux autorités et cela amène parfois à des comparaisons.
 
 
-## Les femmes
+## Les femmes.
 
 Lorsqu'on parle de Femmes au XVII*e* siècle, très rapidement on en arrive au thème de l'amour. Or, dans la comédie en général, il n'y a pas tellement d'amour. Il y a des histoires de mariage ou d'union, mais très rarement d'amour sincère.
 
@@ -1084,7 +1084,7 @@ Le savoir est présenté face à l'ignorance, il est son opposé. Dans notre com
 Dans le cas de *La comédie de la comédie*, le latin est parlé des filles du Docteur lorsqu'on les découvre pour la première fois tout comme Trapolin. Les trois personnages communiquent en Latin et de ce fait, le jeune homme ne peut comprendre ce qui se dit et cela augmente l'aspect comique de cet épisode.
 
 
-## L'Allégorie
+## L'Allégorie.
 
 Les femmes dans *Les Amours de Trapolin* sont des personnages ouvertement allégoriques et ils fonctionnent en rapport direct avec cet être allégorique.
 
@@ -1104,7 +1104,7 @@ Le « Docteur » appartient au monde réel, c'est lui qui donne le prologue, q
 Chey le type la marque du sens est pareillement réduite à une simple esquisse qui noe une tendance mais qui n'en fixe pas le detail. On a pu remarquer dans les personnifications de Tout-Homme que deux ou trois vers suffisent le plus souvent à épuiser la description du sentiment ou de l'attitude mentale suggérée : de là le caractère embryonnaire de ces Types que nimbe le non-dit [59]
 
 
-## La dimension sociale [60]
+## La dimension sociale [60].
 
 Dans les premières années du ministère de Richelieu, le cardinal encourage et protège les artistes, ainsi, de nombreux auteurs s'engagent dans une carrière dramatique. Les bienséances permettent aux dames, aux personnes graves ou délicates d'assister aux représentations et elles deviendront un divertissement de la noblesse et de la cour. La fin de la fronde impliquera un nouvel épanouissement de la littérature dramatique. Des années 1660 aux années 1630, le théâtre sera très désordonné et possèdera de grandes libertés et une vie ardente. Ensuite, jusqu'aux années 1650, l'époque préclassique implique une unification de l'action et des péripéties. (cf. Les comédiens dans le théâtre).
 
@@ -1155,7 +1155,7 @@ Le caractère et le comportement des personnages de la pièce cadre sont décrit
 La pièce cadre se veut une pièce qui convint, qui rend légitime et qui présente la comédie future. On parle de la vie des acteurs pour mieux montrer qu'ils sont respectables et pour encourager à aller à la comédie, c'est leur donner un caractère humain.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 La présente édition reproduit l'édition originale de *La Comédie de la Comédie* suivie des *Amours de Trapolin* de Dorimond, dont le privilège a été accordé aux libraires Jean Ribou et Gabriel Quinet est achevée d'imprimer pour la première fois le 22 janvier 1662.
 
@@ -1207,7 +1207,7 @@ XVII Bandeau / LES / AMOURS / DE / TRAPOLIN. (Tampon de la bibliothèque Royale)
 (17-40 : texte de la pièce : les amours de Trapolin)
 
 
-## Description de l'édition de 1662 de Gabriel Quinet, dans la bibliothèque de l'Arsenal, Ref : GD - 7751
+## Description de l'édition de 1662 de Gabriel Quinet, dans la bibliothèque de l'Arsenal, Ref : GD - 7751.
 
 I LA/COMEDIE/DE LA COMEDIE, /ET/LES AMOURS/ DE TRAPOLIN./ *COMEDIE*/Dorimond (nom de l'auteur rajouté sur le frontispice) /(fleuron du libraire) (tampon de la bibliothèque de la ville de Nîmes) /A PARIS/ Chez GABRIEL QUINET, au Palais, dans/ la Galerie des Prisonniers, à l'Ange Gabriel./ (filet) / M. DC. LXII./ AVEC PRIVILEGE DU ROY.
 
@@ -1240,7 +1240,7 @@ Dans *Les petites comédies rares et curieuses du XVIe siècle* :
 LA COMEDIE DE LA COMEDIE avec notes et notices par V. FOURNEL. Tome 1, Paris, A. Quantin, 1884, p.25-39.
 
 
-## Intervention sur le texte
+## Intervention sur le texte.
 
 Par convention, nous avons distingué les lettres i/j et u/v. Nous avons systématiquement délié la ligature. Nous sommes également intervenus sur les « f » et les « ff » que nous avons remplacé par le « s » et le double « ss ». Nous avons également uniformisé l'emploi des majuscules et adapté la ponctuation à l'usage moderne.
 
@@ -1257,12 +1257,12 @@ fõt (v.39), mõ (v.109), citrõs (v.115), seriõs (v.177), sõt (v.334), cõtre
 Voici la liste des erreurs que nous avons corrigées qui sont très probablement des erreurs d'impression. Des lettres ont parfois été ajoutées ou supprimées.
 
 
-### Liste des coquilles
+### Liste des coquilles.
 
 fait » faits (v.107), Jonër » Jouër (v.140), s'est » c'est (v.147), qu'elle » quelle (v.148), d'espit » despit (v.166), mauvaise » mauvais (v.212), s'y » sy (v.222), qu'elle » quelle (v.288), coups » coup (v.289), la lambicq » l'alambicq (v.329), la tonne » Latonne (v.332), se » ce (v.334), cendres » cendre (v.376), ses » ces (v.879), emportez » emporté (v.414), Dequoy » De quoy (v.77), delles » d'elles (v.455), comes » contes (v.461) , eloqueuce » eloquence (v.468), sacheta » sachets (v.521), poëtisiray » poëtiseray (v.535), die » dise (v.544), se » ce (v.607), l'un » l'une (v.610), Une » Un (v.668), repoudu » repondu (v.678), satyrique » satyriques (v.776), rand » rang (v.777)
 
 
-### Modification de la ponctuation 
+### Modification de la ponctuation .
 
 Ajout du point d'exclamation : v.67, v.102, v.103, v.104, v.112, v.131, v.132, v.147, v.155, v.161, v.213, v.214, v.215, v.216, v.217, v.218, v.324, v.227, v.229, v.256, v.257, v.339, v.341, v.342, v.379, v.421, v.425, v.428, v.429, v.452, v.462, v.463, v.467, v.477, v.479, v.538, v.539, v.591, v.651, v.726, v.743, v.751, v.755, v.786, v.795, v.796, v.797.
 
@@ -1313,7 +1313,7 @@ Achevé d'imprimer pour la première fois,< le 22. Janvier 1662. >
 LEANDRE, LUCIDOR,
 
 
-    LEANDRE
+    LEANDRE.
 Puis que je vous rencontre, il faut faire partie:  
 Allons nous divertir à voir la comedie [65];  
 Ce passe-temps est propre à charmer les ennuis⁎:  
@@ -1378,7 +1378,7 @@ Et qui bien souvent ont l'esprit [66] comme un boeuf.
 LES DAMES.
 
 
-    UNE DAME
+    UNE DAME.
 Pour moy, je vous le dis, jamais la comedie,  
 N'eust tant d'attraits charmans, et tant de modestie;  
 Le theatre n'a rien que d'honneste [67] et de beau,  
@@ -1465,7 +1465,7 @@ Sa generosité m'en a fait un present
 Et je le faits briller sur la scene à present.  
 Ma cravate est deffaite, et mon beau colier d'ambre...  
 
-    LE GALLAND
+    LE GALLAND.
 Que je vous tienne icy lieu de valet de chambre :  
 Vostre Cravate...  
 
@@ -1480,13 +1480,13 @@ Et moy des citrons doux, et de la pourcelaine.
     L’ESPINAY.
 Et moy des gans d'Espagne.  
 
-    LE GALLAND
+    LE GALLAND.
         Et moy de beaux rubans.  
 
     L’ESPINAY.
 Et moy de la pomade.  
 
-    LE GALLAND
+    LE GALLAND.
         Et moy de beaux pendants.  
 
     L’ESPINAY.
@@ -1495,14 +1495,14 @@ Et moy des espagneuls qui viennent de Boulogne.
     LE GALLAND.
 Et moy ce que j'ay de pris de rare en Cathalogne.  
 
-    LA COMEDIENE,
+    LA COMEDIENE,.
 Et de grace, Messieurs, ne vous échauffez pas :  
 Pour prendre vos presens, j'ay trop peu de deux bras.  
 
-    L’ESPINAY
+    L’ESPINAY.
 Elle a le teint fort beau.  
 
-    LE GALLAND
+    LE GALLAND.
         Et la taille gentille.  
 
     L’ESPINAY.
@@ -1720,10 +1720,10 @@ Que l'hymen à l'amour livre un petit assaut;
 Rien n'est égal à moy sur la terre et sur l'onde  
 Et mes beaux yeux mourans, font mourir tout le monde.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Beauté, beaux yeux, mon cœur, belle bouche, beau teint.  
 
-    IGNORANCE
+    IGNORANCE.
 Aujourd'huy j'en ay peu, mais j'en auray demain  
 Si je n'ay pas le teint, j'auray la marjolaine.  
 
@@ -1769,16 +1769,16 @@ Si je demeurois plus avec toy, mon coquet.
     TRAPOLIN.
 Adieu, lampe d'amour.  
 
-    IGNORANCE
+    IGNORANCE.
         Adieu falot de flâme.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Je soûpire  
 
-    IGNORANCE
+    IGNORANCE.
     Je meurs  
 
-    TRAPOLIN
+    TRAPOLIN.
     Je succombe.  
 
     IGNORANCE.
@@ -1791,7 +1791,7 @@ Je soûpire à tout coup, et de tous les costez.
 
 ### SCENE II.
 
-    LE DOCTEUR [74]
+    LE DOCTEUR [74].
 J'ay des filles chez moy, doctes, spirituelles;  
 La matiere, et l'esprit sont excellens en elles,  
 Leurs esprits et leurs corps sont forts beaux et sont bons,  
@@ -1820,19 +1820,19 @@ LE DOCTEUR, TRAPOLIN
 Docteurs, musiciens, poëtes; à mon lever [76],  
 Je suis riche et coquet, le sort veut m'élever.  
 
-    LE DOCTEUR
+    LE DOCTEUR.
 Je ne m'estonne point de ce que la fortune  
 A chargé de ses biens ta figure commune;  
 Pour les pouvoir porter, il falloit un cheval :  
 L'homme est pour ce sujet un trop foible animal.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Les Peintres, les Docteurs, avec tous les poëtes  
 Sont dessus ce sujet aussi fols que vous estes :  
 La fortune est aveugle à leur gré, mais ma foy,  
 Je tiens qu'elle voit clair, puis qu'elle vient à moy.  
 
-    LE DOCTEUR
+    LE DOCTEUR.
 Éh bien, mettez le pied hors du commun vulgaire,  
 Dévelopez-un peu l'esprit de la matiere;  
 Un riche, un grand Seigneur de grandeurs revestu,  
@@ -1841,20 +1841,20 @@ Qu'un soleil offusqué par un espais nuage
 Et qu'un oyseau huppé qui n'a point de ramage.  
 Avecque vos tresors achetez de l‘esprit !  
 
-    TRAPOLIN
+    TRAPOLIN.
 De l'esprit, en quel lieu ? qui m'en fera debit ?  
 
-    LE DOCTEUR
+    LE DOCTEUR.
 Les Muses, Apollon, un docte Philosophe,  
 Des autheurs en un mot, des gens de mon étoffe [77].  
 
-    TRAPOLIN
+    TRAPOLIN.
 Pour vous rendre agreable à la Cour, au public  
 J'en veux faire passer douze par l'alambicq  
 Pour en tirer l'esprit, et puis par fantaisie  
 J'en prendray les matins comme de l'eau de vie.  
 
-    LE DOCTEUR
+    LE DOCTEUR.
 Le beau fils de Latonne à luy-mesme épuré  
 Les esprits merveilleux au sublime degré :  
 Ce sont individus tout remplis de science  
@@ -1907,7 +1907,7 @@ Et d'autres le solide et la cajolerie.
 Enfin, pour faire un nombre entre les vrais galands,  
 Il faut avoir du cœur, de l'esprit, et du sens.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Les femmes ne sont pas difficiles à prendre :  
 Un coquet comme moy met tost leurs cœurs en cendre,  
 Les femmes à mon gré...  
@@ -1937,7 +1937,7 @@ Où la nature verse et donne avec largesse :
 Elle verse en son corps ce qu'elle a d'excellent  
 Et dedans son esprit ce qu'elle a de brillant.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Les femmes.....  
 
     LE DOCTEVR.
@@ -1959,7 +1959,7 @@ Combatre et vaincre ceux qui sont contre les dames.
     TRAPOLIN.
 Les femmes....  
 
-    LE DOCTEUR
+    LE DOCTEUR.
         Taisez-vous mille fois, taisez-vous !  
 Les femmes l'ont toujours emporté dessus nous.  
 
@@ -2031,7 +2031,7 @@ Leur fait conserver leur confiance.
     TRAPOLIN.
 L'amour....  
 
-    LE DOCTEUR
+    LE DOCTEUR.
         L'amour, l'amour perd un sot comme toy !  
 Des femmes sans cesser nous recevrons la loy :  
 Alexandre, Cesar, Sanson, Antoine, d'elles,  
@@ -2041,7 +2041,7 @@ Par leur charmans attraits le pouvoir de l'amour ?
 Un honneste homme enfin, seroit-il honneste homme  
 S'il n'avoit pas aimé ? mais pour te monstrer comme...  
 
-     TRAPOLIN.
+    TRAPOLIN.
 Helas ! ne contes plus, veux-tu parler tousjours ?  
 Veux-tu parler un an ? tréve à tant de discours !  
 Ne parlez plus Docteur, quittez cette coustume !  
@@ -2081,7 +2081,7 @@ Peut-on passer une heure en conversation,
 Mais il faut pour cela vostre permission,  
 Avec vos beautez, avec vos belles filles ?  
 
-    LE DOCTEUR
+    LE DOCTEUR.
 Mes filles ne sont pas pour ouïr des vetilles⁎;  
 Et cent petits mortels qui s'en disent amans  
 N'arriveront jamais jusqu'a leur firmamens.  
@@ -2104,7 +2104,7 @@ Mais vos grands biens, Monsieurs, les vont mettre en credit,
 À deux portes d'icy loge Dame Ignorance :  
 Tout y va, tout y court avec grande abondance.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Pour moy je suis tousjours la mode et son torrent :  
 Et j'ayme des long-temps, et son merite est grand;  
 J'y pourois bien aller avec tous les autres.  
@@ -2197,7 +2197,7 @@ Et si quand par mal-heur je vous ferois cocu,
 Je ne vous rendrois pas pacifique cornu.  
 Enfin je suis....  
 
-    TRAPOLIN
+    TRAPOLIN.
         Ho, ho, Madame Philosophie,  
 Vous en sçavez beaucoup pour mon petit genie  
 Vous l'avez trop grand, l'esprit⁎,  
@@ -2208,7 +2208,7 @@ Ma sœur Philosophie, à de trop grands secrets;
 Je suis bien plus connuë , et j'ay bien plus d'atraits :  
 On me penetre mieux, et je suis plus galante.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Ouy vous estes de vray connuë et consonnante;  
 Vostre esprit Poësie estoit doux et benin,  
 Vous sçavez assez bien placer le masculin,  
@@ -2274,11 +2274,11 @@ C'est ce qui fait causer dans la belle ruelle;
 Et puisque me voila sur le tendre et le doux,  
 Profitez de ce temps, faites-vous mon espoux.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Vous allez Poësie admirablement viste,  
 Mais vos pieds en sont cause; alte, ou bien je vous quite.  
 
-    POESIE
+    POESIE.
 Tant mieux, je ne veux point de froid temperament :  
 Il me faut plus de feux que de raisonnement,  
 Il faut estre pour moy d'une ame vigoureuse,  
@@ -2468,7 +2468,7 @@ IGNORANCE, POESIE,
 GALANTERIE, TRAPOLIN.
 
 
-    LE DOCTEUR
+    LE DOCTEUR.
 ET bien captivez-vous ce Phoenix des amans ?  
 Et le marirons-nous ?  
 
@@ -2515,7 +2515,7 @@ De satyriques vers, et quelque écrit infame.
 Et moy je vais monter dessus mes grands chevaux  
 Et te mettre vilain, dans le rang des brutaux.  
 
-    GALANTERIE
+    GALANTERIE.
 Et moy qui sçay punir tous les sots de ta sorte,  
 Aux Bals je te feray tousjours fermer la porte;  
 Les laquais par mon ordre iront te nazarder.  
@@ -2533,14 +2533,14 @@ Et science au contraire, embroüille leurs esprits
 Et leur fait bien souvent leur sotise connoistre,  
 Qu'il vaudroit mieux pour eux ne voir jamais paroistre.  
 
-    TRAPOLIN
+    TRAPOLIN.
 Tu seras donc mon faict, puis qu'il faut ignorer.  
 
     IGNORANCE.
 Par moy de mille maux tu te pouras parer;  
 Allons mon gros poupon !  
 
-    TRAPOLIN
+    TRAPOLIN.
         Allons mon Ignorance !  
 Beuvons, joüons, dansons, et laissons la science !  
 Allons nous en dormir et manger à foison.  
@@ -2548,15 +2548,15 @@ Le plus grand ennemy de l'homme est la raison.
 FIN.
 
 
-# Lexique
+# Lexique.
 
 (Trésors de la Langue Française)GéniePersonne donc l'influence est déterminanteV. 22RépugnerÊtre contraire aux goûts de quelqu'un V. 31Plus de licenceLiberté, possibilité de faire quelque choseV. 37IneptiesPropos dénué d'intelligenceV. 41FacetiesCaractère comique d'une chose.V. 42Tondroient sur un œuf Être pingre.V. 43TestonMonnaie d'argent frappée à l'effigie d'un monarque.V. 65, 67, 695PiastreMonnaie de divers pays.V. 65EscusBouclier d'or ou monnaie d'or créée sous le règne de Saint Louis.V. 72ChopineMesure de capacité d'une demi-pinte ou le contenu d'une bouteille d'un demi-litre. V. 74EscrotsPasse-volants, filous, homme malhonnête qui trompe ou vole V. 79, 88PourveansFaux soldat que les officiers présentaient frauduleusement comme faisant partie des effectifs pour s'approprier sa solde. V. 88Tirer la bretteLongue épée d'origine bretonne utilisée dans les duels. V. 90Faire les patineursCelui qui patine manie indiscrètement, « attouche » avec trop de liberté.V. 98Point de gesneDentelle à aiguille, tourment au figuré ou supplice au propre. V. 109TendronChose tendre ou très jeunes filles qui séduisent les hommes par leur âge, elles sont des proies faciles. Giron LourdaudMaladroit, manque de grâce ou de finesse. V. 278MarjoletHomme qui fait le galant ou mot pour désigner de manière péjorative une vierge. V. 359GuenuchePetite femme très laide ou de mauvaises mœurs. Cela se rapproche de « greluche ».V. 343, 447VetilleÉvènement de peu d'importance.V. 452GalimatiasDiscours confus qui semble dire quelque chose mais qui ne signifie rien. V. 497CarmeReligieux qui appartient aux Carmes, c'est aussi un mot pour désigner l'argent ou la monnaie, c'est aussi une composition en vers, ou un vocabulaire des dés. V. 502TisonPartie non encore consumée d'un morceau de bois ou foyer de la cheminée. C'est aussi un mètre irrégulier. V. 520DéssillerSéparer les paupières jointes. V. 521AxiomeVérité générale qui s'impose à l'esprit par son évidence même. V. 557PegaseSymbole de la créativité littéraire et de l'inspiration poétique. C'est faire des vers, un langage poëtique. V. 679Cheoir à l'enversÊtre entrainé par son poids à l'envers.V. 681FriquettePetit moineau vivace.V. 694Noüer l'éguilletteFermer la braguette.V. 730
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Oeuvres de Dorimond
+## Oeuvres de Dorimond.
 
 Dorimond aurait écrit sept pièces en vers, qui en dehors du festin de pierre, auraient été composées en une seule année (1661). Sa carrière dramatique fut donc courte, il n'aura écrit que pour le théâtre de Mademoiselle.Le festin de Pierre ou le fils criminel, tragi-comédie en cinq actes, en vers, dédiée au duc de Roquelaure
 La femme industrieuse, comédie en un acte, en vers, dédiée à M. D'Anglure.
@@ -2568,7 +2568,7 @@ L'inconstance punie, comédie en un acte, en vers, dédiée au marquis de Vauvan
 
 
 
-## Oeuvres du XVII*e*Comédie des comédiens
+## Oeuvres du XVII*e*.Comédie des comédiens
 Comédie des comédiens
 Le théâtre de Monsieur Quinault
 Oeuvres
@@ -2581,7 +2581,7 @@ Artamène ou le grand Cyrus
 
 
 
-## Oeuvres étrangèresTrapolyn, kluchtspel uit het Fransch gevolgd door E. V. Hoeven
+## Oeuvres étrangères.Trapolyn, kluchtspel uit het Fransch gevolgd door E. V. Hoeven
 A History of French Dramatic Literature in the Seventeenth Century
 La commedia dell'arte
 La commedia dell'arte, storia, e testi
@@ -2591,7 +2591,7 @@ Histoire de l'ancien théâtre Italien en France depuis son origine jusqu'à sa 
 
 
 
-## Texte sur le théâtre françaisLa pratique du théâtre
+## Texte sur le théâtre français.La pratique du théâtre
 L'esprit de la Commedia dell'Arte dans le théâtre français
 La commedia dell'arte
 Le Théâtre dans le théâtre sur la scène française du XVIIe siècle
@@ -2615,20 +2615,20 @@ La Dramaturgie classique en France
 
 
 
-## Textes sur les comédiensLes comédiens français du XVII*e* siècle
+## Textes sur les comédiens.Les comédiens français du XVII*e* siècle
 La vie quotidienne des comédiens au temps de Molière
 La troupe du roman comique dévoilée et les comédiens de Campagne au XVII*e* siècle
 Nouveaux documents sur les comédiens de campagne et la vie de Molière
 
 
 
-## Ouvrages sur Molièreœuvres complètes de Molière
+## Ouvrages sur Molière.œuvres complètes de Molière
 L'Humanité de Molière
 La comédie avant Molière
 
 
 
-## Ouvrages sur les influences étrangèresL'âge d'or de l'influence espagnole*e*
+## Ouvrages sur les influences étrangères.L'âge d'or de l'influence espagnole*e*
 Théâtre espagnol du XVII*e*
 La France et les français dans la littérature espagnole
 La « comedia » espagnole du XVII*e* siècle*e**re*
@@ -2637,7 +2637,7 @@ Le Miroir de l'Esprit dans le Théâtre Élisabéthain
 
 
 
-## Ouvrages sur le contexteLittérature et société en France au XVIIème siècle
+## Ouvrages sur le contexte.Littérature et société en France au XVIIème siècle
 Dictionnaire du Grand Siècle
 Mémoire de Mademoiselle de Montpensier, fille de Gaston d'Orléans, frère de Louis XIII, Roi de France
 La magnifique histoire du Jeu de Paume
@@ -2645,10 +2645,10 @@ Reading Everyman
 
 
 
-## Outils critiques
+## Outils critiques.
 
 
-### DictionnairesDictionnaire biographique : les comédiens français du XVII*e* siècle.
+### Dictionnaires.Dictionnaire biographique : les comédiens français du XVII*e* siècle.
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire de la langue française du XVI*e* siècle
 Dictionnaire historique de la langue française
@@ -2657,7 +2657,7 @@ Dictionnaire universel françois et latin, vulgairement appelé Dictionnaire de 
 
 
 
-### ArticlesRevue internationale d'étude de la réception critique des œuvres littéraires de la langue française
+### Articles.Revue internationale d'étude de la réception critique des œuvres littéraires de la langue française
 Le correspondant
 Revue d'art dramatique
 

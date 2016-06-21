@@ -16,7 +16,7 @@ Isaac de Benserade
 
 
 
-# Biographie d'Isaac de Benserade
+# Biographie d'Isaac de Benserade.
 
 Les origines de Benserade sont mal connues. Selon ses biographes [1], il serait né en 1613 à Lyons-la-Forêt [2] en Normandie. Issu d'une famille de petite noblesse, son père est maître des eaux et forêts, il est destiné à une carrière ecclésiastique. Mais son caractère d'amuseur et de courtisan ajouté à sa volonté de réussir vont peu à peu le détourner de cette voie toute tracée.
 
@@ -29,7 +29,7 @@ Puis en 1674, consécration ultime : Benserade fut élu à l'Académie françai
 Il reste dans les mémoires comme le bel esprit préféré de la cour de Louis XIV et laisse une œuvre poétique importante. Benserade a été pendant plus de cinquante ans un homme d'esprit, jouant des modes de son époque, toujours prêt à satisfaire les goûts et les caprices littéraires de la Cour. « Benserade n'a été qu'un précieux, il a toujours été un précieux ; mais il l'a été avec autant d'esprit et de ressources ingénieuses dans l'esprit qu'on a jamais pu en avoir [12]. »
 
 
-# Carrière dramatique de l'auteur
+# Carrière dramatique de l'auteur.
 
 Sa carrière de dramaturge commence alors qu'il n'a que 22 ans, en 1635. Avec la tragédie de *Cléopâtre*, Benserade signe son premier texte. Le théâtre connaît à ce moment-là un essor considérable qui marque le début d'une ère nouvelle. À partir de 1629, des transformations profondes réorganisent de façon décisive l'activité théâtrale : modes de production, statut des auteurs et des comédiens, localisation des troupes, composition du public. Une centralisation s'opère et deux compagnies de comédiens s'installent définitivement à Paris en 1629, celle de l'Hôtel de Bourgogne appelée la « Troupe royale » et celle de Montdory, qui se fixe au théâtre qui prendra le nom du Marais en 1634. Richelieu, nommé ministre d'État par Louis XIII en 1629, contribue à ce renouveau : il constate que le théâtre peut s'avérer un enjeu politique non négligeable s'il est mis au service de l'autorité royale. Passionné de théâtre, le cardinal s'entoure d'une équipe de poètes parmi lesquels Boisrobert et Desmarets de Saint-Sorlin, qu'il poussera à écrire des pièces de théâtre. Ainsi la reconnaissance du théâtre comme art officiel va de pair avec l'éclosion d'une des périodes les plus brillantes de la dramaturgie française.
 
@@ -40,7 +40,7 @@ En 1635, Benserade écrit sa première tragédie *Cléopâtre.* Sa pièce, joué
 Le succès appréciable que lui valent ses deux premières pièces lui donne une certaine assurance. Benserade est sûr de lui et de son talent mais il ne sait pas encore dans quel domaine : pendant qu'il s'essaye au théâtre, il se mêle à des groupes très différents, s'intéresse aux beaux-arts sans jamais perdre de vue ses intérêts. Le théâtre n'a donc pas été à proprement parler une vocation pour lui : la brièveté de son expérience le montre bien. Il s'en est servi pour séduire les esprits les plus influents qui fréquentent assidûment les théâtres à cette époque. Sa carrière dramatique n'aura duré que six ans et n'aura été qu'une étape parmi tant d'autres dans sa vie, une expérience enrichissante et fructueuse. Elle dévoile les qualités du futur galant homme et marque le début d'une carrière galante consacrée essentiellement à la poésie de cour.
 
 
-# Le contexte littéraire et les sources de la pièce
+# Le contexte littéraire et les sources de la pièce.
 
 À l'époque où Benserade écrit *La Mort d'Achille et la dispute de ses armes*, c'est-à-dire dans la première moitié du XVII*e* siècle, la place de la culture antique est encore fondamentale dans la société mais aussi dans l'enseignement. Les études grecques restent marginales malgré le maintien d'une certaine activité en sa faveur, au sein de cercles tels que les mercuriales de Ménage, le parloir de Saint-Germain-des-Prés qui accueille des hommes comme Bossuet, Fénelon ou Boileau, mais aussi au sein même de l'Académie française. Les textes grecs ne sont connus que dans leur traduction latine, l'accès à la langue grecque étant réservé à une petite élite. Cependant ce poids de la culture antique exerce peu à peu une véritable tutelle intellectuelle pour certains auteurs qui y voient désormais une marque de pédantisme. Un « goût plus fin » et un « discernement plus exquis » tentent de se substituer à la « profonde érudition » qui passe alors pour avoir gâté le siècle précédent. La confrontation de ces deux principes se concrétise dans la querelle des Anciens et des Modernes qui suscitera de nombreux débats dans la seconde moitié du siècle. Cependant le théâtre préclassique est imprégné des œuvres de Sénèque dont les adaptions sont en vogue depuis le milieu du XVI*e* siècle.
 
@@ -82,7 +82,7 @@ Benserade accorde donc une importance particulière aux caractères de ses perso
 En ce milieu des années 1630, la tragédie revient en force, prête à détrôner la tragi-comédie et la pastorale qui régnaient sur la scène française depuis une dizaine d'années et qui ont inspiré un grand nombre d'auteurs. En 1636, Benserade se doit donc d'écrire une tragédie pour plaire à son public. *La Mort d'Achille et la dispute de ses armes* s'inscrit dans ce contexte encore confus où diverses influences littéraires et culturelles se mêlent et se combinent et où les règles dites « classiques » font leur apparition. Ce foisonnement qui enrichit le théâtre de l'époque, transparaît dans l'abondance et la richesse des références mythologiques utilisées par Benserade qui fait appel à la culture antique de son public lettré. Comme le montre la diversité des textes, récits ou tragédies, évoqués par notre auteur, *La Mort d'Achille* témoigne d'un vaste héritage culturel qui s'étend des récits homériques au genre tragi-comique en passant par les outrances du baroque. La pièce n'en reste pas moins une tragédie de son temps, conforme aux tendances du théâtre préclassique.
 
 
-# Une tragédie préclassique
+# Une tragédie préclassique.
 
 Dès les années 1630, la notion de tragédie « régulière » est encore vague mais des théoriciens tels que Chapelain ou d'Aubignac mettent en place certaines de ses caractéristiques. Le théâtre reste aussi profondément marqué par ses expériences passées. C'est pourquoi *La Mort d'Achille* de Benserade rend compte de ces deux tendances, classiques et non classiques.
 
@@ -118,7 +118,7 @@ Briséis met en garde Achille contre Polyxène : c'est le propre de la femme ja
 L'étude des personnages de la pièce montre que Benserade leur a accordé une place prépondérante. Notre auteur a pris soin de mettre en scène des êtres qui vont jusqu'au bout de leurs sentiments.
 
 
-# Entre éloquence et poésie
+# Entre éloquence et poésie.
 
 Influencée par les tendances nouvelles qui se font jour à cette époque dans le monde du théâtre, la pièce de Benserade se distingue nettement par la forme de celle de Hardy. Outre sa connaissance de l'évolution du théâtre au moment où il écrit, notre auteur s'appuie sur le solide enseignement rhétorique qu'il a dû recevoir au collège, comme bon nombre de ses contemporains. Benserade attache donc une attention très particulière à la dimension rhétorique de sa pièce, à tel point qu'elle relève plus du discours oratoire que du discours tragique.
 
@@ -144,7 +144,7 @@ Les discours délibératifs qui ponctuent la pièce permettent de mettre en reli
 *La Mort d'Achille et la dispute de ses armes* est une pièce de son époque, qui témoigne du poids considérable qu'a exercé la tragi-comédie sur le théâtre français dans les premières trente années du siècle. C'est pourquoi le personnage d'Achille est peut-être le plus convaincant, Benserade lui ayant accordé beaucoup d'attention. Les faiblesses de cette pièce, quelque peu déséquilibrée à cause des diverses influences théâtrales qui s'y mêlent, ont contribué à sa mauvaise réputation, du temps où elle a été représentée. Mais cette tragédie n'en reste pas moins très instructive quant à l'utilisation qu'un auteur peut faire de ses sources et de tous les éléments qu'il a en sa possession pour écrire sa pièce.
 
 
-# Les éditions de La Mort d'Achille
+# Les éditions de La Mort d'Achille.
 
 1636-I : In 4º, 95 p.
 
@@ -157,7 +157,7 @@ Paris, Bibliothèque nationale : microfiche Yf 580.
 Paris, BNF : microfilm M 1575.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour la présente édition, nous avons restitué le texte de l'édition de 1636 de *La Mort d'Achille* de Benserade en opérant quelques modifications :
  * – les i et u voyelles ont été distingués des j et v consonnes
@@ -167,7 +167,7 @@ Pour la présente édition, nous avons restitué le texte de l'édition de 1636 
 Nous avons conservé l'orthographe et la ponctuation de l'édition de 1636.
 
 
-## Rectifications
+## Rectifications.
 
 Nous présentons ci-dessous la liste des erreurs et coquilles relevées dans les différentes éditions consultées et corrigées dans le texte que nous proposons :
 
@@ -188,16 +188,16 @@ v. 1166 d'écouvrir/ v. 1274 Sçachez/ v. 1447 fusse/ v. 1540 na/ v. 1578 ce qui
 v. 1637 non pus/
 
 
-# LA MORT D'ACHILLE
+# LA MORT D'ACHILLE.
 
 
 # TRAGEDIE.
 
 
-## Epistre
+## Epistre.
 
 
-## Au roy
+## Au roy.
 
 Sire,
 
@@ -212,12 +212,12 @@ Le tres-humble, tres-obeïssant, & tres-fidelle serviteur & subjet,
 DE BENSSERADDE [64]
 
 
-## AU LECTEUR
+## AU LECTEUR.
 
 Le sujet de cette Tragedie est assez fameux pour n'estre pas ignoré de ceux qui la liront, puis que les plus beaux gestes de celuy qui en est le Herôs sont escrits d'un style si merveilleux par le divin Homere ; quelques Autheurs comme Dares Phrygius, & Dictys Cretensis [65], en parlent historiquement, & avec plus de vray-semblance, j'ay pris des uns & des autres ce que j'en ay jugé necessaire pour l'embellissement de la chose sans en alterer la verité. [66] Je m'asseure que l'on m'accusera d'avoir icy chocqué les loix fondamentales du Poëme Dramatique [67] en ce que j'ajouste à la mort d'Achille, qui est mon objet, la dispute de ses armes, & la mort d'Ajax, qui semble estre une piece detachée, mais je m'imagine que mon action n'en est pas moins une, & que cette dispute & cette mort qui pourroit ailleurs tenir lieu d'une principale action ne doit estre icy considerée qu'en qualité d'Episode & d'incident [68], veu qu'elle regarde principalement Achille, & qu'elle n'est pas le veritable but de ma Tragedie, bien que ce soit par où elle finit, s'il falloit tousjours finir par la mort du premier Acteur, le Theatre se verroit souvent despoüillé de ses plus beaux ornemens, la mort de Cesar [69] ne seroit pas suivie du pitoyable spectacle de sa chemise sanglante qui fait un si merveilleux effect ; & qui pousse si avant dans les coeurs la compassion, le regret, & le desir de vengeance, quand Ajax se tuë du desespoir d'estre frustré des armes d'Achille, il ne donne pas tant une marque de sa generosité qu'il laisse un tesmoignage du merite de ce qu'il recherchoit, & par consequent cét acte ne tend qu'à l'honneur de mon Herôs. En tout cas si j'ay failly pardonne moy, & puis qu'il ne m'est pas permis d'esperer une juste loüange de la meilleure de mes productions, souffre que je tire un peu de gloire de la plus belle de mes fautes.
 
 
-## PERSONNAGES
+## PERSONNAGES.
  – ACHILLE.
  – BRISEIDESa Captive.
  – ALCIMEDE.Escuyer d'Achille.
@@ -405,7 +405,7 @@ Que tousjours le bon-heur n'est pas sous la couronne.
 PRIAM. HECUBE. POLIXENE. ACHILLE. BRISEIDE. ALCIMEDE.
 
 
-    ACHILLE *allant recevoir Priam.*
+    ACHILLE *allant recevoir Priam.*.
 Certes mes ennemis sont trop officieux [80],  
 Vous me faictes rougir de venir en ces lieux,  
 Je respecte dans vous, & l'âge, & le merite,  
@@ -538,7 +538,7 @@ N'est plus vostre ennemy, mais c'est tousjours mon fils :
 Estre vindicatif mesme apres la victoire,  
 C'est vostre deshonneur plutost que vostre gloire.  
 
-    ACHILLE *tout bas.*
+    ACHILLE *tout bas.*.
 Rien sur ma volonté ne peut estre absolu :  
 Ils ne l'auront jamais, j'y suis trop resolu.  
 
@@ -558,7 +558,7 @@ Rien de ce corps n'agit que le chef ne l'ordonne.
 Et la valeur d'Achille auroit pire destin ?  
 A genoux devant luy (ma chere Polixene.)  
 
-    POLIXENE. [87]
+    POLIXENE. [87].
 La mere n'y peut rien, la soeur perdra sa peine.  
 
     HECUBE.
@@ -637,7 +637,7 @@ J'ay pitié de vous voir en ce fascheux estat,
 Et je ne marche plus qu'à regret au combat.  
 Vos affaires vont mal.  
 
-    PRIAM
+    PRIAM.
         En l'estat où nous sommes,  
 Nous n'avons du secours ny des Dieux, ny des hommes.  
 Nous avons sous les maux mille fois succombé :  
@@ -744,7 +744,7 @@ Ne s'accordent point mal à ce que j'en espere.
 
 ## SCENE DEUXIESME.
 
-    PRIAM *(luy allant à la rencontre.)*
+    PRIAM *(luy allant à la rencontre.)*.
 Nous venons de pleurer sur les cendres d'Hector,  
 Et de ses os bruslez le bucher fume encor,  
 Depuis que nous menons cette vie affligée,  
@@ -1225,7 +1225,7 @@ L'une pourtant assiege, & l'autre est assiegee.
     ACHILLE.
 Troye a bien de la force, & son pouvoir est grand.  
 
-    ULISSE, *un peu bas.*
+    ULISSE, *un peu bas.*.
 Elle est forte, il est vray, puis qu'Achille s'y rend,  
 
     ACHILLE.
@@ -1265,7 +1265,7 @@ Il verroit tout en feu qu'il plaindroit un peu d'eau [126] ;
 Allons où la valeur esclate, & se renomme,  
 Et ne perdons pas tout pour gaigner un seul homme.  
 
-    ULISSE *en r'entrant.*
+    ULISSE *en r'entrant.*.
 “ Achille, un ennemy ne se doit frequenter,  
 “ C'est gloire de le perdre, & non de le hanter.  
 
@@ -1339,7 +1339,7 @@ Non, non, mais seulement cognoissez ma rivalle,
 Songez que de vos faicts elle a souvent gemy,  
 “ Et qu'il est dangereux d'aymer son ennemy.  
 
-    ACHILLE *en la baisant.*
+    ACHILLE *en la baisant.*.
 Ne croy point, mon soucy, que je change de flame,  
 Et qu'un objet nouveau te chasse de mon ame.  
 
@@ -1589,7 +1589,7 @@ Nous allons à nos voeux rendre le Ciel propice.
 ACHILLE, ALCIMEDE.
 
 
-    ACHILLE, *Il sort armé l'espée à la main.*
+    ACHILLE, *Il sort armé l'espée à la main.*.
 Ha c'est trop, Alcimede, à ma gloire estre lent,  
 Il faut que je responde à ce jeune insolent,  
 Que je me satisface, & que je le contente,  
@@ -1609,7 +1609,7 @@ Mais Polixene ?
     ACHILLE.
         Je l'adore [139].  
 
-    ALCIMEDE
+    ALCIMEDE.
 N'allez point au combat, si vous l'aymez encore,  
 Obeïssez aux Loix que l'Amour vous enjoint,  
 Ou ne la voyez plus, ou ne combattez point.  
@@ -1691,7 +1691,7 @@ Bien loin de l'excuser, je voudrois que ma main
 Luy mit pour nous vanger un poignard dans le sein,  
 Je me ressentiray de cette offence extrême [144].  
 
-    DEIPHOBE
+    DEIPHOBE.
 Je suis bien resolu d'en faire aussi de mesme,  
 Quand nous aurons passé le jour de nostre dueil,  
 Et que mon frere aura sa pompe, & son cercueil ;  
@@ -1976,10 +1976,10 @@ Perissons, j'y consens, & je n'en parle plus.
 PARIS, DEIPHOBE cachez. ACHILLE, ALCIMEDE [157].
 
 
-    ACHILLE *continüe son discours.*
+    ACHILLE *continüe son discours.*.
 Crains-tu quelque ennemy quand ton oeil me contemple ?  
 
-    PARIS *à Deiphobe.*
+    PARIS *à Deiphobe.*.
 Nos gens ne sont pas loin ?  
 
     DEIPHOBE.
@@ -1991,7 +1991,7 @@ Mars n'oseroit tonner sur moy, ny sur les miens.
     ALCIMEDE.
 Mais vous estes mortel.  
 
-    PARIS *l'apercevant.*
+    PARIS *l'apercevant.*.
         Le voicy, je te tiens.  
 
     ALCIMEDE.
@@ -2010,7 +2010,7 @@ Loin des coups, dans un Temple.
     ALCIMEDE.
         Et c'est pourquoy je crains.  
 
-    PARIS *prest à porter son coup.*
+    PARIS *prest à porter son coup.*.
 Je sçay l'endroit fatal où je dois faire breche,  
 Juste Ciel, vange Troye, & conduis cette fleche [158].  
 
@@ -2018,10 +2018,10 @@ Juste Ciel, vange Troye, & conduis cette fleche [158].
 Qui se prendroit à moy ? qui seroit l'insensé  
 Qui viendroit m'attaquer ? mais Dieux ! je suis blessé.  
 
-    PARIS *parest, & les Troyens accourent.*
+    PARIS *parest, & les Troyens accourent.*.
 A nous, Troyens, à nous.  
 
-    ALCIMEDE *l'espée à la main.*
+    ALCIMEDE *l'espée à la main.*.
         Assassins execrables !  
 
     ACHILLE *se voulant deffendre* [159].
@@ -2045,17 +2045,17 @@ C'est comme nous traittons nos mauvais alliez.
 Je souffre ce trespas, dy moy qui me l'envoye,  
 Et qui l'a conspiré ?  
 
-    PARIS *s'en allant.*
+    PARIS *s'en allant.*.
         Moy, Polixene, & Troye.  
 
-    ALCIMEDE *mourant.*
+    ALCIMEDE *mourant.*.
 Pour vous faire éviter ce funeste accident,  
 Alcimede vivoit, il meurt vous deffendant.  
 
 
 ## SCENE CINQUIESME.
 
-    ACHILLE *Seul accoudé sur l'Autel.*
+    ACHILLE *Seul accoudé sur l'Autel.*.
 Sçachez, vous qui tremblez aux actions hardies,  
 Qu'il est des chastimens, s'il est des perfidies,  
 Les Dieux me vangeront, non pas ces foibles Dieux,  
@@ -2105,7 +2105,7 @@ Mais quoy que mon amour ait offencé la Grece,
 Faites-les ressentir du tort que j'en reçoy,  
 Et ne vous vangez pas de moy, mais vangez moy [161].  
 
-    AJAX *en l'embrassant.*
+    AJAX *en l'embrassant.*.
 Ouy, j'useray contre eux de ta valeur extréme,  
 Et je m'efforceray d'heriter de toy-mesme.  
 
@@ -2142,7 +2142,7 @@ Mais que veut ce Gregeois ?
 
 ## SCENE SEPTIESME.
 
-    SOLDAT *voyant Achille mort.*
+    SOLDAT *voyant Achille mort.*.
         Funestes aventures !  
 Je voy ce qu'ont predit tant de tristes augures,  
 Le camp sans les sçavoir commence à s'attrister,  
@@ -2532,7 +2532,7 @@ Vous l'avez repoussé, vous l'avez combatu,
 Enfin vous meritez agissant de la sorte,  
 Au dessus de ce prix, mais Ulisse l'emporte.  
 
-    ULISSE *prend les armes.*
+    ULISSE *prend les armes.*.
 Pour ces armes mon coeur a fait des voeux ardens,  
 Assurez-vous (Gregeois) que je mourray dedans.  
 
@@ -2548,7 +2548,7 @@ Si tu crois que par là ta gloire s'accomplisse,
 Accepte-les, j'eus tort de te les disputer,  
 Et personne que toy ne les sçauroit porter.  
 
-    AJAX *monstrant l'espée d'Achille au costé d'Ulisse.*
+    AJAX *monstrant l'espée d'Achille au costé d'Ulisse.*.
 Vous avez pour ce fer des mains assez robustes,  
 Ajax est moins qu'Ulisse, & mes juges sont justes.  
 
@@ -2586,7 +2586,7 @@ On me prefere Ulisse [183] !
     AGAMEMNON.
         Ha ! sa fureur l'emporte.  
 
-    AJAX, *Il tire son espée.*
+    AJAX, *Il tire son espée.*.
 Mais sçachez que ma cause est tousjours la plus forte,  
 Ce fer au lieu de vous me recompensera,  
 Et d'Ajax seulement Ajax triomphera,  
@@ -2599,7 +2599,7 @@ Ulisse, elle est à moy, vous n'y pretendez rien ?
 Estouffez, brave Ajax, cette fureur extresme,  
 Vous aurez tout vaincu vous surmontant vous-mesme.  
 
-    AJAX *le regardant de travers.*
+    AJAX *le regardant de travers.*.
 Qu'on ne m'aproche pas, ou je me vangeray  
 Dy moy, mon desespoir, quel chemin je suivray,  
 Que feray-je vaincu ?  
@@ -2626,10 +2626,10 @@ Que je doive appliquer au mal qui me possede.
 Il se donne un coup [185]
 
 
-    AGAMEMNON *& les autres.*
+    AGAMEMNON *& les autres.*.
 Hé, de grace !  
 
-    AJAX, *il s'en donne encore un.*
+    AJAX, *il s'en donne encore un.*.
         Mourons, ha qu'aujourd'huy ma mort  
 Affoiblit, & r'enforce, est utille, & fait tort !  
 Mais dans mon sang ma vie, & ma honte se noye,  
@@ -2667,16 +2667,16 @@ Par grace et Privilege du Roy donné à Roye, en datte du dernier Septembre, 163
 Achevé d'imprimer le 30. Octobre 1636.
 
 
-# LexiqueAreneSable en bord de mer ou de rivière.V. 640.AmorceAppât.V. 1015.ArmetCasque.V. 574.BrasserTr. faire une conspiration.Intr. trahir.V. 1167.ConseilDécision, résolution.V. 637.DebileFaible.V. 1298 ; 1328.Departir (se)Abandonner une demande.V. 1369.Devant queAvant que.V. 417 ; 468.DiadesmeCouronne.V. 88.EndurerEmployé ici absolument : supporter avec patience.V. 390.EnnuyDouleur, souffrance.V. 135 ; 176 ; 815.EstonnementFrayeur.V. 306.GesnePeine (*donner la gesne* : tourmenter).V. 547.HymenMariage.V. 435.ImpetrerObtenir (une faveur, une grâce).V. 423.InsigneRemarquable.V. 191 ; 419.MisereMalheur.V. 177.PompeMagnificence.V. 344.RenommerRendre célèbre.V. 39.SouffrirPermettre, tolérer.V. 389.TimiditéManque d'énergie ; prudence.V. 53.TravailFatigue, peine.V. 80.
+# Lexique.AreneSable en bord de mer ou de rivière.V. 640.AmorceAppât.V. 1015.ArmetCasque.V. 574.BrasserTr. faire une conspiration.Intr. trahir.V. 1167.ConseilDécision, résolution.V. 637.DebileFaible.V. 1298 ; 1328.Departir (se)Abandonner une demande.V. 1369.Devant queAvant que.V. 417 ; 468.DiadesmeCouronne.V. 88.EndurerEmployé ici absolument : supporter avec patience.V. 390.EnnuyDouleur, souffrance.V. 135 ; 176 ; 815.EstonnementFrayeur.V. 306.GesnePeine (*donner la gesne* : tourmenter).V. 547.HymenMariage.V. 435.ImpetrerObtenir (une faveur, une grâce).V. 423.InsigneRemarquable.V. 191 ; 419.MisereMalheur.V. 177.PompeMagnificence.V. 344.RenommerRendre célèbre.V. 39.SouffrirPermettre, tolérer.V. 389.TimiditéManque d'énergie ; prudence.V. 53.TravailFatigue, peine.V. 80.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions
+## Éditions.
 
 
-### Oeuvres consultéesHistoire de la guerre de Troie attribuée à Darès de Phrygie
+### Oeuvres consultées.Histoire de la guerre de Troie attribuée à Darès de Phrygie
 Histoire de la guerre de Troie attribuée à Dictys de Crète
 La Mort d'Achille
 Hécube
@@ -2687,13 +2687,13 @@ Ajax
 
 
 
-## Études
+## Études.
 
 
-### Études générales sur la littérature et le théâtre du XVII*e* siècle (et de l'Antiquité)
+### Études générales sur la littérature et le théâtre du XVII*e* siècle (et de l'Antiquité).
 
 
-#### OeuvresLe Classicisme
+#### Oeuvres.Le Classicisme
 La Tragédie de l'âge classique (1553-1770)
 L'Histoire de la mise en scène dans le théâtre français de 1600 à 1657
 Dictionnaire de l'Antiquité
@@ -2712,14 +2712,14 @@ Le Classicisme (1660-1680)
 
 
 
-#### ArticlesHistoire des spectacles
+#### Articles.Histoire des spectacles
 
 
 
-### Études critiques
+### Études critiques.
 
 
-#### OeuvresLes Unités d'Aristote avant le Cid de Corneille
+#### Oeuvres.Les Unités d'Aristote avant le Cid de Corneille
 Introduction à l'analyse des textes classiques. Eléments de poétique et de rhétorique du XVII*e* siècle
 La Tragédie française de Jodelle à Corneille (1553-1650)
 Les Passions et les Caractères dans la littérature du XVII*e* siècle
@@ -2727,19 +2727,19 @@ Rhétorique et littérature. Études de structures classiques
 
 
 
-#### ArticleLe Préclassicisme français
+#### Article.Le Préclassicisme français
 
 
 
-### Études biographiques
+### Études biographiques.
 
 
-#### OeuvresLibertins et amoureuses
+#### Oeuvres.Libertins et amoureuses
 Historiettes
 
 
 
-#### ArticlesSalon littéraire
+#### Articles.Salon littéraire
 Marges
 
 

@@ -14,12 +14,12 @@ A PARIS. Chez TOUSSAINCT QUINET, au Palais, sous la montée de la Cour des Aydes
 Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)
 
 
-# Introduction
+# Introduction.
 
 Auteur tombé assez rapidement dans l'oubli et redécouvert depuis peu [1], Brosse est surtout connu pour avoir écrit *Les Songes des hommes esveillez*. Ce dramaturge n'est cependant pas l'auteur d'une seule pièce : il compte à son actif deux autres comédies, une tragi-comédie et une tragédie, qui ont été plus délaissées par la critique.
 
 
-# Biographie
+# Biographie.
 
 La liste des pièces composées par Brosse est donc la suivante :
  * – *La Stratonice ou le malade d'amour*, tragi-comédie jouée en 1642 et publiée en 1644.
@@ -31,12 +31,12 @@ La liste des pièces composées par Brosse est donc la suivante :
 En revanche, *Les Anagrammes à la Reine* (1660), qui ont longtemps figurées parmi les œuvres de Brosse, ont en réalité été écrites par son homonyme le Révérent Bénédictin Brosse, comme l'a démontré Georges Forestier [2]. Il en va de même pour *Le Curieux impertinent ou Le Jaloux* (1645), que certains dictionnaires de théâtre du XVIII*e* siècle [3] lui attribuaient, et qui a en fait été composé, à l'âge de treize ans, par son jeune frère (parfois appelé Brosse le jeune). L'existence de ce frère cadet, mort prématurément, est d'ailleurs le seul élément biographique réellement avéré que nous possédions au sujet de cet auteur : c'est Brosse lui même qui nous l'apprend dans la préface du *Curieux Impertinent* rédigée par ses soins. L'épître de *La Stratonice ou le malade d'amour*, dans laquelle il espère que les auxerrois réserveront un bon accueil à sa pièce, laisse supposer que Brosse serait originaire d'Auxerre. D'ailleurs, les autres informations que l'on pensait détenir à propos de ce dramaturge provenaient principalement du témoignage de l'abbé Lebeuf, auteur des *Mémoires concernant l'histoire de la ville d'Auxerre*. Celui-ci nous apprenait qu'un fils de chapelier nommé N… Brosse, décédé en 1651, avait écrit une tragédie et diverses œuvres à caractère religieux. Ces maigres renseignements se sont malheureusement révélés sujets à caution [4]. Le nom même de notre auteur n'est pas établi avec certitude puisqu'il signe ses écrits tantôt Brosse, tantôt La Brosse [5]. On peut donc constater que le dramaturge n'a pas usurpé sa réputation d'« auteur énigmatique » [6]. Le mystère est d'autant plus grand qu'aucun de ses contemporains ne semble avoir parlé de lui, mis à part une brève allusion que l'abbé d'Aubignac fait dans sa *Pratique du théâtre* [7] à l'« auteur de la Stratonice » à qui il aurait conseillé de ne pas composer une pièce de théâtre à partir de ce sujet. En revanche, comme le remarque Pierre Pasquier [8], Boisrobert, dont la comédie *Les Apparences trompeuses* est une adaptation de la *comedia* de Calderón *Peor está que estaba* qui avait déjà été reprise par Brosse, une dizaine d'années plus tôt, sous le titre *Les Innocents coupables*, ne mentionne nulle part, semble-t-il, le nom de notre auteur. De même, Quinault, qui reprendra le sujet de *La Stratonice* dans sa pièce du même nom en 1660, ne fait aucune allusion à Brosse. Mais on ne peut évidemment pas affirmer qu'ils aient eu connaissance de ces pièces, dont on ignore d'ailleurs l'accueil que leur réserva le public.
 
 
-# Représentation de la pièce
+# Représentation de la pièce.
 
 Une seule pièce de Brosse semble ne pas être totalement tombée dans l'oubli : il s'agit de *L'Aveugle clair-voyant*. En effet, Lancaster [9] nous apprend que cette comédie a été traduite en allemand en 1663 et en 1669, avant d'être reprise par Marc-Antoine Legrand au XVIII*e* siècle. Cet auteur-comédien va réduire la pièce en un acte et la faire représenter par sa troupe en 1716. On peut donc supposer que le public n'a pas réservé un trop mauvais accueil à la dernière pièce de Brosse.
 
 
-## La date de la représentation
+## La date de la représentation.
 
 La page de titre de *L'Aveugle clair-voyant* nous fournit également quelques précisions sur les premières représentations de la comédie. On y apprend en effet qu'elle a été « représentée sur le théâtre Royal devant leurs majestez ». Le « théâtre Royal » désignant le théâtre de l'Hôtel de Bourgogne dans la première moitié du XVII*e* siècle, nous savons désormais où la pièce a été créée. Cette indication nous permettrait-elle, également, de lever les doutes concernant l'année de la première représentation de *L'Aveugle clair-voyant* ? On ignore en effet si cette pièce fut jouée en 1648 ou en 1649. Dans son livre intitulé *Le Théâtre de l'Hôtel de Bourgogne*, Sophie Wilma Deïerkauf-Holsboer affirme, en se basant sur cette information, que la comédie a été représentée pour la première fois en 1648 :
 
@@ -46,24 +46,24 @@ Ce renseignement nous permet de déterminer la date probable de la création de 
 Cependant, cet argument peut être retourné. On peut en effet voir une stratégie politique dans le fait d'assister à une représentation théâtrale pendant une période où l'autorité royale est remise en cause. Ce serait un moyen de montrer au peuple et aux opposants du régime que la famille royale n'est pas inquiétée par les affrontements [11] qui troublent Paris. L'hésitation concernant l'année de création de la pièce subsiste donc.
 
 
-## Les acteurs
+## Les acteurs.
 
 Quoi qu'il en soit, en 1648 comme en 1649, la composition de la troupe de l'Hôtel de Bourgogne reste la même. Elle comprend onze membres : Zacharie Jacob, dit Montfleury et sa femme Jehanne de la Chappe, Claude Deschamps, sieur de Villiers et sa femme Marguerite Béguin, Josias de Soulas dit Floridor, François Chastelet dit Beauchasteau et sa femme Magdeleine du Pouget, André Boiron dit Baron et sa femme Jehanne Anzoult, Nicole Gassot, et Pierre Hazard [12]. On ne sait malheureusement rien de la distribution des rôles de *L'Aveugle clair-voyant*. On peut cependant se laisser aller à quelques suppositions. L'acteur de Villiers, connu pour son talent comique, jouait habituellement les rôles de valet (il est le créateur du célèbre rôle de Philippin). On peut donc penser qu'il aurait pu jouer le rôle de Sylvestre, valet rusé et plein de verve. En outre, la scène 5 de l'acte V, dans laquelle Lidamas et Cléanthe parlent pendant une dizaine de vers de *La Suite du Menteur* de Corneille, gagnerait en intérêt si l'un des deux rôles était tenu par Floridor. Ce dernier jouait en effet le rôle principal, celui du « menteur », dans la pièce de Corneille à sa création pendant la saison 1644-1645. Le comique de la scène serait ainsi renforcé puisque les spectateurs verraient l'acteur commenter l'un de ses rôles précédents, s'il incarne le personnage de Lidamas, ou feindre l'ignorance quant au succès de la pièce dont il était le protagoniste, si Floridor joue le rôle de Cléanthe. Il est aussi fort probable que l'actrice qui jouait le rôle de Lucille, la servante de Mélice, incarnait en même temps un autre personnage (peut-être était-elle aussi Nérine, l'autre suivante de la pièce ? ). En effet, son rôle est peu fourni : elle n'est présente que dans six scènes et ne prononce que cinquante-huit vers dans toute la pièce. Mais surtout, c'est le seul personnage de la comédie qui ne revient pas au dénouement. Dans le théâtre du XVII*e* siècle, comme le dit Jacques Scherer, « la plus importante des traditions du dénouement consiste à rassembler le plus grand nombre de personnages possible pour la fin de la pièce. Il semble que la troupe veuille se montrer au grand complet » [13]. Il est vrai que les auteurs négligeaient parfois de faire reparaître sur scène les personnages qui n'avaient pas eu une grande importance dans l'intrigue. Mais peut-être était-ce aussi parce qu'il jouait en même temps un autre rôle, plus conséquent, dans la même pièce.
 
 
-## Le décor
+## Le décor.
 
 Le décor dans lequel les acteurs évoluent pose problème lui aussi. *L'Aveugle clair-voyant* se situe à une période charnière, entre l'époque pré-classique et le classicisme, où il n'« existe pas de système déterminé de décor » : le décor multiple du début du siècle, réduit à un petit nombre de compartiments, subsiste toujours, tandis que le décor unique commence à s'imposer [14]. La mise en scène de la pièce nécessite sans aucun doute un décor intérieur mais une hésitation porte sur le nombre de chambres exposées à la vue du spectateur. Lancaster [15] pense que deux pièces sont représentées. Cette affirmation supposerait la mise en place d'un décor à compartiments à moins que le décor ne change pendant un entracte, ce qui d'après Jacques Scherer était peu fréquent [16]. Cependant, nous pensons que l'action de la pièce se déroulait dans un décor unique. En effet, l'intrigue de la comédie n'impose absolument pas la présence d'un compartiment supplémentaire. En outre, si l'on observe les entrées et les sorties des personnages tout au long de la pièce, on s'aperçoit que Brosse respecte la règle classique de la liaison des scènes : la scène n'est jamais vide, les personnages qui y entrent s'ajoutent à ceux qui étaient déjà en place, il est donc certain que les acteurs restent dans la même salle d'un bout à l'autre de chaque acte. Nous pouvons néanmoins noter que, dans les deux cas évoqués ci-dessus, *L'Aveugle clair-voyant* respecte l'unité de lieu. Celle-ci était en effet, dans cette première moitié du XVII*e* siècle, entendue « au sens large » : « l'histoire de l'unité de lieu entrera dans une deuxième époque lorsque cette unité sera considérée comme excluant la représentation de lieux trop éloignés les uns des autres, mais comme comprenant celle de lieux assez voisins pour qu'on puisse passer rapidement et sans faire un véritable voyage, de l'un à l'autre » [17]. Cependant, Brosse ne se montre pas toujours aussi respectueux de toutes les règles de la dramaturgie classique.
 
 
-# Une comédie originale
+# Une comédie originale.
 
 Les rares écrits [18] consacrés à *L'Aveugle clair-voyant* n'ont pu que constater l'originalité de cette comédie [19]. En effet, la pièce n'est pas l'adaptation d'une œuvre antérieure même si, comme nous le verrons plus tard, Brosse a été influencé par deux comédies de Corneille. Ce fait est suffisamment rare dans les années 1630-1660 pour être souligné. Pendant cette période où la comédie à l'espagnole triomphe en France, la plupart des pièces étaient des adaptations, quand ce n'était pas de simples traductions, des *comedias* de Lope de Vega, Calderón et autres auteurs espagnols de la fin du XVI*e* et du début du XVII*e* siècle.
 
 Cependant l'originalité de la pièce de Brosse ne tient pas seulement au fait qu'elle ne soit pas tirée d'une autre œuvre : elle s'écarte également du schéma traditionnel de la comédie par certains côtés.
 
 
-## Le non respect de l'unité d'action
+## Le non respect de l'unité d'action.
 
 Ainsi, si les unités de temps et de lieu sont respectées, *L'Aveugle clair-voyant* fait une entorse à l'unité d'action. D'après Jacques Scherer « on dit, à partir de 1640 environ, que l'action d'une pièce de théâtre est unifiée » lorsque, notamment, « on ne peut supprimer aucune des intrigues accessoires sans rendre partiellement inexplicable l'intrigue principale » [20]. Or, dans la dernière comédie de Brosse, deux intrigues, l'une concernant le couple Lidamas-Olimpe et l'autre le couple Mélice-Thélame, progressent parallèlement sans jamais interférer l'une avec l'autre. L'adaptation de Legrand prouve d'ailleurs l'indépendance de ces deux actions l'une par rapport à l'autre puisque, pour réduire sa pièce en un acte, il va simplement supprimer l'intrigue dont Mélice et Thélame sont les protagonistes, sans rendre « inexplicable » aucun point de l'action concernant Lidamas et Olimpe. Le seul point commun entre ces deux intrigues est que, dans chacune d'elle, les jeunes gens se heurtent au même personnage-obstacle : Cléanthe. Cléanthe et son valet Sylvestre sont d'ailleurs les seuls protagonistes communs aux deux actions, puisque les personnages de l'une, suivantes comprises, ne rencontrent jamais ceux de l'autre, excepté à la dernière scène de l'acte V, où la tradition veut que tous les acteurs de la pièce soient présents sur scène. Les personnages ne parlent même pas les uns des autres, mis à part deux brèves allusions : l'une faite par Olimpe sur la complicité possible de la sœur de Lidamas [21], l'autre faite par Mélice sur le fait que Lidamas a acheté le silence de Sylvestre [22].
 
@@ -79,7 +79,7 @@ De la même manière, le dénouement de chacune des deux intrigues n'intervient 
 Il apparaît, dans ces diverses remarques, que l'intrigue concernant Mélice et Thélame est moins développée que celle ayant pour héros Lidamas et Olimpe. Cependant elle a une importance non négligeable : en faisant ressortir les défauts de Cléanthe, dont le principal est l'avarice, elle permet d'empêcher que ce personnage ne devienne une victime. Grâce à elle, Cléanthe n'attire pas exclusivement toute la sympathie du public. Sans elle, Cléanthe, pauvre père trahi par son fils, aurait pu susciter la pitié du spectateur, émotion contraire au rire. En outre, le dénouement de la pièce aurait pu paraître injuste, voire immoral, puisqu'il aurait récompensé la trahison d'un fils envers un père exemplaire.
 
 
-## Les personnages
+## Les personnages.
 
 La peinture que Brosse fait du personnage de Cléanthe constitue d'ailleurs un nouvel écart par rapport à la comédie traditionnelle. Le lecteur est d'emblée frappé par le caractère inhabituel de ce dernier. Cléanthe est veuf, rival de son fils en amour et avare [29] : au vertueux et noble Thélame, il préfère comme gendre, dans un premier temps, le riche « Rustique l'aisnay », personnage dont la simple évocation du nom laisse pressentir la basse extraction et le ridicule. Comme le faisait d'ailleurs remarquer Georges Forestier, Cléanthe est « un père pourvu de tous les éléments négatifs d'un barbon – les mêmes exactement que ceux d'Harpagon –  » mais qui est pourtant « rendu plus sympathique que ses enfants et qui s'incline de bonne grâce devant la victoire de la jeunesse » [30]. C'est que, s'il présente tous les traits caractéristiques du vieillard ridicule, Cléanthe est aussi pourvu de qualités qui font habituellement défaut au type du barbon : la ruse ainsi que le plaisir du jeu et la capacité à bien jouer son rôle [31]. Sa finesse d'esprit va d'ailleurs lui permettre de tromper la jeunesse pendant la majeure partie de la pièce, si bien que les personnages aveugles, ceux qui ne perçoivent pas les tours qu'on leur joue, vont être les jeunes gens, et non les vieillards comme à l'accoutumée.
 
@@ -126,7 +126,7 @@ On peut noter un dernier écart par rapport à la tradition sur les personnages 
 Au contraire, les personnages de condition de *L'Aveugle clair-voyant* sont actifs, comme nous l'avons vu, et prennent leur destin en main : ils sont eux-mêmes les instigateurs des différentes fourberies et, la plupart du temps, ils inventent les ruses sans l'aide de leurs domestiques [50]. On peut voir dans ce dernier point l'influence du *Menteur* et de *La Suite du Menteur* [51] de Pierre Corneille.
 
 
-# Influence de Corneille et de la dramaturgie espagnole
+# Influence de Corneille et de la dramaturgie espagnole.
 
 Dans l'avant-dernière comédie de Corneille, c'est Dorante, le personnage de condition qui multiplie les mensonges devant son valet, Cliton, qui ironise sur le vice de son maître et se montre parfois moins immoral que lui sur ce sujet [52]. C'est d'ailleurs ce qui fera dire à Corneille dans son Examen de *La Suite du Menteur* que l'insuccès de cette pièce est peut-être dû au fait « que ce n'est que le valet qui fait rire, au lieu qu'en l'autre les principaux agréments sont dans la bouche du maître » [53].
 
@@ -147,7 +147,7 @@ Du *Menteur* de Corneille, *L'Aveugle clair-voyant* emprunte également le déno
 Quant à *La Suite du Menteur*, son influence est indubitable, puisque cette pièce est mentionnée au sein même de la dernière comédie de Brosse : Cléanthe est surpris par Lidamas en train de lire la pièce et ce dernier fait ensuite à son père l'éloge de cette « poësie » [60]. On trouve, de plus, quelques points communs entre ces pièces. Outre le fait qu'elles se déroulent toutes les deux en province, le personnage de Mélice, la fille de Cléanthe dans *L'Aveugle Clair-voyant* apparaît également dans *La Suite du Menteur*. Dans l'une et l'autre pièce, la jeune fille, rusée et peu soucieuse de son honneur, adopte le comportement typique des femmes des *comedias* espagnoles [61].
 
 
-## Le déguisement
+## Le déguisement.
 
 D'autres éléments, présents à la fois dans les deux pièces de Corneille et dans celle de Brosse, se rattachent plus largement à la dramaturgie des *comedias* espagnoles. Il en va ainsi pour le déguisement, et plus particulièrement pour le déguisement verbal qui repose uniquement sur le discours du personnage. Ainsi, dans sa thèse intitulée *L'Esthétique de l'identité dans le théâtre français (1550-1680) : le déguisement et ses avatars*, Georges Forestier déclare :
 
@@ -166,7 +166,7 @@ Plusieurs caractéristiques rapprochent les déguisements que nous venons de men
 L'originalité – et l'intérêt – de la scène, dont l'ambiguïté devait être beaucoup plus nette à la représentation, est déjà largement sensible à la lecture : deux personnages « normaux » cherchent à se persuader mutuellement qu'ils ne le sont plus, que l'intégrité de leur personne a été entamée ; rencontre de deux apparences mensongères qui, c'est là que réside le tour de force de Brosse, ne sont précisément pas apparentes. Face à face, *deux déguisements sans déguisement* [65].
 
 
-## Le jeu de rôle
+## Le jeu de rôle.
 
 Nous avons vu que tout le monde, ou presque, se déguise dans *L'Aveugle clair-voyant* au moins à un moment ou à un autre, si ce n'est tout au long de la pièce. Or, le processus de déguisement provoque un autre phénomène : le dédoublement de la personne. Chaque personnage déguisé est en effet amené à jouer un rôle. Cependant, le principe du jeu de rôle dépasse le concept de déguisement pur et simple et peut également s'appliquer aux dissimulations de pensée. En effet, Mélice, aux actes III et IV, joue le rôle de la fille obéissante [66]. De la même manière, Lidamas imite l'attitude du fils vertueux pendant toute la pièce. Sylvestre, quant à lui, affectera, pendant les quatre premiers actes, d'être un valet corrompu devant les enfants de son maître, puis jouera le rôle du valet fidèle devant Cléanthe dans le dernier acte. Diverses remarques confèrent d'ailleurs aux personnages le statut de comédiens. Par exemple, avant « d'entrer en scène », de commencer à tromper Mélice et Thélame, Cléanthe demande discrètement à Sylvestre de bien s'« acquitter du *róle* qu' il jouë » et son valet lui répond : « Si j'y manque d'un mot, couvrez-moy les deux jouës » [67]. Le dédoublement du personnage s'accompagne, en outre, d'un dédoublement du spectateur. Georges Forestier déclare ainsi :
 
@@ -188,7 +188,7 @@ Mon esprit occupé dans un dessein si beau
 On se plaît, en outre, à mettre en évidence la part de jeu dans l'expression de tel ou tel sentiment. Par exemple, Lidamas rapporte à Olimpe ce qu'il a raconté à son père à propos de l'« accident » de la jeune veuve, en soulignant son jeu d'acteur : « Doncques *d'une voix triste*, Olimpe, mon cher pere, / N'est plus, luy dis-je lors, en estat de vous plaire » [73]. Le même procédé se retrouve dans une tirade de Cléanthe, quand il commente l'accueil que lui ont réservé ses enfants à son retour : « On accourt m'accueillir *en se moüillant* les yeux » [74] ; ou encore dans une réplique de Sylvestre lorsqu'il raconte à Cléanthe la fausse confidence qu'il a faite à Nérine au sujet de l'infidélité de Lidamas : « J'ay feint que j'en faisois un important secret » [75].
 
 
-## Le plaisir du jeu
+## Le plaisir du jeu.
 
 On ne se lasse donc pas de répéter que tout ceci n'est qu'un jeu, mais on montre également que l'on prend du plaisir à jouer. En effet, même si Cléanthe utilise aussi son déguisement pour se venger et donner une leçon aux jeunes gens [76], c'est d'abord pour vérifier l'exactitude des rapports que ses amis lui ont fait sur les agissements de Mélice et de Lidamas [77] qu'il contrefait l'aveugle. Cependant, dès l'acte I, le peu de vertu de ses enfants lui est révélé : à la scène 3, Mélice finit par avouer qu'elle reçoit avec bonheur les visites de Thélame et, à la scène 4, quand Sylvestre lui rapporte ce que Lidamas lui « a tant dit à l'oreille », Cléanthe ne doute plus de la rivalité amoureuse qui l'oppose à son fils [78]. L'unique but de la feinte du vieillard devient donc de poursuivre son stratagème pour savoir jusqu'où ses enfants et leurs amants peuvent aller [79]. Cela donne au déguisement de Cléanthe l'une des finalités dégagées par Georges Forestier : la tromperie [80]. Voici la définition qu'il en donne :
 
@@ -211,7 +211,7 @@ N'estoient que des essays d'user de patience [84] .
 Deux motivations sont exprimées ici par Sylvestre : le plaisir dans un premier temps, puis la volonté de faire passer les méfaits de Lidamas et d'Olimpe pour des « galanteries ». Aucune de ces deux finalités ne semblent avoir une plus grande importance que l'autre, la notion de plaisir étant même énoncée avant l'autre motif. Sylvestre semble vouloir joindre l'utile à l'agréable. Lidamas, Olimpe et Sylvestre vont ainsi jouer une série de petites saynètes visant à persuader Cléanthe qu'ils étaient au courant de sa ruse depuis le début. La notion de plaisir est encore réaffirmée à la dernière scène de la pièce où Cléanthe enjoint les autres personnages à « laisser la feinte à part » et « à tirer de vrais plaisirs, de véritables causes » [85].
 
 
-## Le jeu sur le réel et l'illusion
+## Le jeu sur le réel et l'illusion.
 
 Cléanthe, dans les vers que nous venons de citer, oppose les feintes et les plaisirs illusoires qu'elles engendrent à la réalité et ses « *vrais* plaisirs ». Il met ainsi en évidence le jeu sur le réel et l'illusion, l'être et le paraître qui était présent pendant toute la pièce, notamment à travers les mensonges et les déguisements.
 
@@ -263,7 +263,7 @@ Les divers procédés que nous venons d'étudier, ont encore une autre incidence
 Ces divers éléments renforçant le jeu entre le réel et l'illusion participent de la « dramaturgie de l'ambiguïté » que l'on retrouve dans tout le théâtre comique de Brosse, comme le montre d'emblée les titres paradoxaux qu'il donne à ses comédies.
 
 
-### « La Dramaturgie de l'oxymore »
+### « La Dramaturgie de l'oxymore ».
 
 Dans les années 1640-1650, l'engouement pour la comédie à l'espagnole va favoriser une autre mode : celle des pièces à titres paradoxaux car, comme le remarque Georges Forestier, « même si les titres des pièces espagnoles de l'époque ne sont pas particulièrement paradoxaux, les paradoxes figurent au premier rang des jeux de " conceptisme " dont sont remplies les *comedias* » [90]. Ce phénomène est très important puisqu'il se retrouve dans les trois comédies de Brosse, qui privilégient d'ailleurs une utilisation particulière du paradoxe : l'oxymore [91], c'est-à-dire une « contradiction dont les deux membres s'excluent l'un l'autre de manière absolue » [92].On ne peut pas en effet être à la fois aveugle et clairvoyant. Pour Georges Forestier toute la comédie est « une simple dramatisation de l'oxymore » :
 
@@ -273,7 +273,7 @@ Dans *L'Aveugle clairvoyant*, l'oxymore constitue au contraire la donnée fondam
 Dans *L'Aveugle clair-voyant*, Cléanthe est le maître du jeu, et c'est lui qui crée intentionnellement l'illusion dont ses enfants et leurs amants seront les victimes. On retrouve donc l'opposition entre l'être et le paraître que nous avons déjà évoquée : si Cléanthe peut-être à la fois aveugle et clairvoyant, c'est que l'une de ces caractéristiques n'est qu'une apparence, tandis que l'autre renvoie à la réalité. On peut noter que Cléanthe exprime verbalement l'oxymore lorsqu'il dit : « Je suis Aveugle enfin, & ne vy jamais mieux » [94].
 
 
-### L'Ironie
+### L'Ironie.
 
 Cependant, c'est par une autre figure de rhétorique que Brosse rappelle constamment au spectateur l'écart entre le réel et l'illusion : l'ironie. Il convient tout d'abord de distinguer « ironie dramatique » et « ironie verbale », toutes deux présentes dans *L'Aveugle clair-voyant* :
 
@@ -316,12 +316,12 @@ Quand il luy plaist d'Aveugle il vous rend clair-voyant. [103]
 Le double sens des paroles d'Olimpe est parfaitement perceptible pour son interlocuteur puisque Cléanthe qualifie le discours de la jeune veuve de « suspect ».
 
 
-### Le comique
+### Le comique.
 
 Liée à la « dramaturgie de l'ambiguïté », l'ironie contribue également au comique dans *L'Aveugle clair-voyant*. En effet, comme le souligne Roger Guichemmerre, « la disconvenance (…) entre ce que le personnage croit dire et ce qu'il dit réellement » ou encore le contraste entre ce qu'il dit et ce qu'il pense, provoque chez le spectateur « le plaisir tout intellectuel de mieux comprendre la situation que les protagonistes » [104]. Clin d'œil adressé au spectateur, l'ironie crée une complicité avec la salle et contribue donc à créer une « esthétique du plaisant » [105] dans cette pièce exempte de personnage ridicule.
 
 
-## « L'esthétique du plaisant »
+## « L'esthétique du plaisant ».
 
 Ce dernier point est assez rare dans une pièce mettant en scène un vieillard amoureux pour être mentionné. L'absence de personnage ridicule ressort particulièrement si l'on compare notre comédie à celle de Marc-Antoine Legrand. En effet, l'auteur du XVIII*e* siècle, dont la pièce se rapproche plus de la farce, a, comme nous l'avons déjà dit, adapté la comédie de Brosse en un acte en faisant disparaître Mélice et Thélame et en les remplaçant par deux personnages intrinsèquement ridicules : une vieille coquette et un médecin prétentieux nommé Lempesé. Dans la pièce de Legrand, Olimpe est rebaptisée Léonor et porte le même nom que la vieille coquette qui est, par ailleurs sa tante. Lidamas, appelé Léandre, n'est plus le fils mais le neveu de Cléanthe, nommé Damon dans la comédie du XVIII*e* siècle. Instruit de l'inconduite de sa jeune fiancée qui se laisse courtiser par Lempesé et qui témoigne une vive affection pour Léandre, lui-même censé être en Flandre, Damon décide de feindre l'aveuglement pour percer à jour les manigances des uns et des autres et surtout pour se divertir [106]. Cependant, avant son départ, Damon avait exigé que Léonor signe un dédit. Celle-ci, souhaitant désormais épouser le neveu sans avoir à payer le dédit, demande à Marin, le valet de « l'aveugle » qu'elle croit avoir réussi à corrompre, de dire à Cléanthe qu'elle a été défigurée [107]. Lisette, suivante de la jeune Léonor, a ensuite une autre idée et conseille à sa maîtresse de trouver quelqu'un qui, contrefaisant sa voix, se fasse passer pour elle et épouse Damon à sa place. Mais, seule la tante de Léonor, amoureuse de Cléanthe qui lui a jadis préféré sa nièce, se propose et insiste pour se substituer à la jeune fille de trente ans sa cadette [108]. Elle va bien entendu échouer dans son imitation de Léonor, certes parce que Damon simule la cécité, mais aussi parce qu'elle jouera très mal son rôle [109]. La ruse elle-même sera d'ailleurs présentée comme absurde : Damon s'en moquera [110]. Lempesé ne connaîtra lui aussi que des échecs. Par contre, Damon manœuvrera si bien qu'il punira les deux ridicules en les mariant l'un à l'autre, mariage que les principaux intéressés ne découvriront qu'au dénouement.
 
@@ -358,7 +358,7 @@ On peut également souligner la gratuité de certaines scènes qui ne font en au
 Enfin, le spectateur de *L'Aveugle clair-voyant* s'amuse aussi des tours qui sont joués aux personnages. Il éprouve un plaisir indéniable à voir les autres se faire duper, plaisir encore accru dans la comédie de Brosse puisque les trompeurs y sont toujours trompés. Ainsi, Lidamas, dont le plan est exposé dès la scène 2 de l'acte I, avant que le spectateur n'ait eu connaissance de la feinte de Cléanthe, apparaît comme celui qui va berner son père. Dès la scène 4 de l'acte I, nous apprenons qu'il n'en est rien et qu'au contraire il va être la dupe. De même, à l'acte V, Cléanthe, qui maîtrisait pourtant totalement la situation pendant les quatre premiers actes, est finalement trompé par Olimpe et Lidamas.
 
 
-## Le personnage de Sylvestre
+## Le personnage de Sylvestre.
 
 Le comique repose aussi sur le personnage de Sylvestre. En effet, si l'ironie des maîtres est source de comique, la verve de Sylvestre est tout aussi efficace. Sylvestre, sur ce point, ne diffère pas du type traditionnel du valet : il utilise un langage pour le moins imagé. Les tours proverbiaux prolifèrent. On peut citer, par exemple, « Vous ressemblez les chiens de chez Jean de Nivelle » (v. 534), « En se pensant brancher le bel oyseau s'engluë » (v. 934) ou encore l'expression « friser la corde » (v. 478). Le discours de Sylvestre regorge en outre de jeux de mots et de métaphores. Il n'y a qu'à voir la manière dont le valet joue avec la métaphore usée « se passer la corde au cou » :
 
@@ -388,7 +388,7 @@ Mon Maistre me deusse-t -il….. il vient à petits pas. [116]
 Il faut en outre imaginer la gestuelle qui accompagne cette tirade (il est probable qu'à la représentation, Sylvestre mimait sa façon d'« estocader » les passants) et l'on conviendra que l'acrobatie verbale accompagne l'acrobatie physique.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il n'existe qu'une seule édition de *L'Aveugle clair-voyant*, publiée en 1650 par Toussainct Quinet. En voici la description :
 
@@ -431,7 +431,7 @@ La comédie est entièrement écrite en alexandrins, à l'exception de deux pass
 # L'AVEUGLE CLAIR-VOYANT, COMEDIE. Representée sur le Theatre Royal devant leurs Majestez.
 
 
-## A MONSEIGNEUR
+## A MONSEIGNEUR.
 
 MONSEIGNEUR
 
@@ -454,7 +454,7 @@ Vostre tres-humble, tres-obeissant
 & tres-obligé⁎serviteur⁎, BROSSE.
 
 
-## **LES ACTEURS.**
+## **LES ACTEURS.**.
  – CLEANTHEPere de Lidamas & de Melice, Amoureux d'Olimpe.
  – OLIMPEJeune veufve, Amoureuse de Lidamas.
  – LIDAMASAmoureux d'Olimpe.
@@ -467,21 +467,21 @@ La Scene est à Blois dans la maison de Cleanthe.
 
 
 
-## Acte I
+## Acte I.
 
 
 ## L'AVEUGLE CLAIR-VOYANT. COMEDIE.
 
 
-### Scène première
+### Scène première.
 Olimpe, Nérine.
 
 
-    NERINE
+    NERINE.
 Quoy ma discretion vous est-elle suspecte ?  
 Ignorez-vous encor combien je vous respecte ?  
 
-    OLIMPE
+    OLIMPE.
 Non, apprends d'un recit veritable & succinct  
 La nature du mal dont mon cœur est atteint,  
 Tu sçais que le Soleil depuis que je fus véve [123]  
@@ -495,20 +495,20 @@ Il me galantisa⁎ sur mon peu de beauté.
 Et puis comme [125] achevant ce compliment frivole  
 Un soupir preparé lui coupa la parole.  
 
-    NERINE
+    NERINE.
 Vous pristes du plaisir à l'entendre, à le voir,  
 Vostre esprit & vos sens vindrent [126] à s'esmouvoir,  
 Vous l'aimates enfin !  
 
-    OLIMPE
+    OLIMPE.
         Oüy, d'un aveu⁎ tacite  
 J'acceptay sa recherche ainsi que sa visite.  
 
-    NERINE
+    NERINE.
 On fit courir le bruit qu'hymen⁎ dans peu de jours  
 Devoit de vos ardeurs authoriser le cours.  
 
-    OLIMPE
+    OLIMPE.
 Cleanthe m'en pria, mais ma pudeur blessee  
 Rejetta sa priere & blasma sa pensee.  
 Les manes [127] d'un mary gisant dans le tombeau  
@@ -542,20 +542,20 @@ Sans rien perdre pourtant de leur beauté premiere,
 On diroit à les voir qu'ils lancent des rayons  
 Qui des objets encor luy tracent les crayons⁎.  
 
-    NERINE
+    NERINE.
 Ce malheur arrivé depuis une ou deux Lunes  
 Peut-il causer encor vos plaintes importunes ?  
 
-    OLIMPE
+    OLIMPE.
 Non, ce trait⁎ qui du sort marque la cruauté  
 Ne m'arracha des pleurs que dans sa nouveauté,  
 Mais en ayant depuis interrompu la course  
 Si tu m'en vois verser ils ont une autre source.  
 
-    NERINE
+    NERINE.
 Ce poinct est un secret qui ne m'est pas conu.  
 
-    OLIMPE
+    OLIMPE.
 Je vay t'en informer d'un discours ingenu [135].  
 Aussi-tost que je sceu l'Accident de Cleanthe  
 Mon amoureuse ardeur devint un peu plus lente,  
@@ -574,10 +574,10 @@ Il fit un beau recit d'un sujet lamentable⁎,
 Enfin en Lidamas toute chose me plut,  
 Et se rendit chez moy ce que son pere y fut.  
 
-    NERINE
+    NERINE.
 Cônut-il vôtre amour ?  
 
-    OLIMPE
+    OLIMPE.
         Malgré ma retenuë  
 Dés sa conception elle [136] luy fut cônuë,  
 Ce cavalier⁎ adroit, prudent, ingenieux,  
@@ -607,10 +607,10 @@ J'y vins & descendis au logis de Cleanthe,
 Où donnant à ma flame une honneste couleur  
 Je feignis d'arriver pour visiter sa sœur.  
 
-    NERINE
+    NERINE.
 Jusqu'icy quel sujet avez-vous d'estre triste ?  
 
-    OLIMPE
+    OLIMPE.
 Apprends de ce qui suit en quoy mon mal consiste.  
 On attend le retour de Cleanthe aujourd'huy  
 J'ay peur qu'il croye encor que je brûle pour luy  
@@ -621,22 +621,22 @@ Quand le pere & le fils se rencontrent Rivaux. [139]
 Voila le seul sujet ma fidelle Nerine,  
 Du trouble qui me rend inquiette & chagrine⁎.  
 
-    NERINE
+    NERINE.
 Je ne puis presumer qu'en son aveuglement  
 Cleanthe veüille encor passer pour vôtre Amant,  
 Son fils au pis aller par de promptes adresses⁎  
 Vous delivrera bien de ses froides caresses.  
 
-    OLIMPE
+    OLIMPE.
 Nerine, tu dis vray, l'esprit de Lidamas…  
 Mais c'est luy que je voy qui s'avance à grand pas.  
 
 
-### Scène II
+### Scène II.
 Lidamas, Olimpe, Nerine.
 
 
-    LIDAMAS
+    LIDAMAS.
 Mon pere est arrivé Madame, & sa paupiere  
 Ne void plus les beautez qu'enfante la lumiere,  
 Ce n'est pas que ses yeux ne paraissent fort beaux,  
@@ -646,11 +646,11 @@ Leur action est morte, ou du moins empeschee,
 Dedans ce triste estat je ne puis concevoir  
 Qu'il donne de l'amour ny puisse en recevoir.  
 
-    OLIMPE
+    OLIMPE.
 Mais ne peut-il pas bien ayant perdu la veuë  
 Conserver une amour [140] auparavant receuë.  
 
-    LIDAMAS
+    LIDAMAS.
 En vain auprez de vous je veux dissimuler,  
 Mon pere brusle encor, & veut encor brusler,  
 On l'avoit du carosse à peine mis à terre  
@@ -660,13 +660,13 @@ Les Astres envers elle ont-ils esté plus doux ?
 N'a-t'elle point du sort senty la perfidie,  
 Ou les aspres accez de quelque maladie ?  
 
-    OLIMPE
+    OLIMPE.
 Il n'en faut plus douter, il est encor atteint,  
 Le feu que j'allumay n'est pas prest d'estre esteint,  
 Ce peu que j'ay d'attraits sensiblement le touche,  
 On n'est pas loin du cœur quand on est dans la bouche.  
 
-    LIDAMAS
+    LIDAMAS.
 A l'instant que ses soins⁎ se declarent pour vous  
 Je juge qu'il n'est pas bien guéry de vos coups⁎,  
 Doncques d'une voix triste, Olimpe, mon cher pere,  
@@ -682,7 +682,7 @@ Au gré de mon desir je forme une Aventure,
 Et tâche ainsi d'esteindre en vous defigurant  
 Un feu qui me perdroit s'il devenoit plus grand.  
 
-    OLIMPE
+    OLIMPE.
 L'artifice⁎ est subtil, mais il n'est pas croyable  
 Qu'il soit à nos desseins bien long-temps favorable,  
 Vous verrez dedans peu Cleanthe detrompé  
@@ -704,7 +704,7 @@ Il apprendra d'un fils le peu de reverence,
 Il fera nos desseins tout d'un coup eschoüer,  
 Et peut-estre joüera⁎ qui le croira joüer⁎.  
 
-    LIDAMAS
+    LIDAMAS.
 Cette crainte est, Madame, une pure chimere,  
 Je dispose à mon gré du valet de mon pere,  
 Cet Argus est gagné, ses yeux sont ébloüys,  
@@ -720,22 +720,22 @@ Que vous n'estiez icy que d'un jour ou de deux,
 Encor dans le dessein de rendre une visite  
 Dont la coustume veut que vous demeuriez quitte.  
 
-    OLIMPE
+    OLIMPE.
 Mais encor dites-moy, si Cleanthe abusé  
 M'oblige à raconter mon malheur supposé⁎,  
 Comment ne sçachant pas cet accident frivole⁎  
 Pourray-je avec la vostre accorder ma parole ?  
 
-    LIDAMAS
+    LIDAMAS.
 Je l'apperçois, passons dans cet appartement,  
 Je vous en apprendray l'histoire en un moment.  
 
 
-### Scène III
+### Scène III.
 Cleanthe, Melice, Sylvestre.
 
 
-    CLEANTHE
+    CLEANTHE.
 Quoy contre mon vouloir & contre ma defense  
 Admettre en ma maison, Thelame en mon absence ?  
 Fomenter [145] si long-temps une inclination  
@@ -745,7 +745,7 @@ Entretenir l'espoir & souffrir la visite ?
 Ha Melice, est-ce là le respect qui m'est deu ?  
 Et vostre jugement ne s'est-il pas perdu ?  
 
-    MELICE
+    MELICE.
 Ceux qui de ce rapport⁎ m'ont vers vous desservie,  
 Sont portez contre moy de depit ou d'envie,  
 Depuis que pour Dunkerque on vous vid quitter Blois.  
@@ -753,12 +753,12 @@ Thelame n'est ceans [146] venu pas une fois,
 Qui peut s'emanciper⁎ de dire le contraire  
 Fait à la verité…  
 
-    CLEANTHE
+    CLEANTHE.
         Respectez vostre pere ;  
 Ceux qui m'ont rapporté vos traits⁎ licentieux  
 Cherissent vostre honneur, loin d'en estre envieux.  
 
-    MELICE
+    MELICE.
 Et bien pour ne vous pas en [147] ce poinct contredire,  
 Apres l'avoir souffert, croyez que j'en soupire,  
 Non pas du repentir d'avoir receu ses vœux,  
@@ -768,7 +768,7 @@ Sa maison en honneur cede-t'elle à la nostre ?
 Que s'il hérite peu de ses Ancestres morts,  
 N'a-t'il pas des vertus qui sont les vrais tresors ?  
 
-    CLEANTHE
+    CLEANTHE.
 Taisez-vous indiscrette⁎, insolente, effrontee,  
 Ma bonté cede enfin, vous l'avez surmontee⁎,  
 Allez, retirez-vous, & ne me parlez plus  
@@ -779,49 +779,49 @@ Il est tres-riche en biens de l'esprit & du corps,
 Mais on fait maigre chere [148] avecque ces tresors .  
 
 
-### Scène IV
+### Scène IV.
 Cleanthe, Sylvestre.
 
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre, si pour moy ton devoir ne sommeille  
 Dy-moy ce que mon fils t'a tant dit à l'oreille,  
 Sans qu'il m'ait soupçonné d'un feint aveuglement  
 J'ay veu qu'il te parloit avec empressement.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Quand je vous obeïs, je suis dedans mon centre [149],  
 Si je ments d'un seul mot battez-moy dos & ventre,  
 Quoy que pauvre garçon, je suis homme de bien,  
 Et pour vous le montrer, il m'a dit, ne dy rien.  
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre continuë, & parle sans reserve.  
 
-    SYLVESTRE
+    SYLVESTRE.
 S'il a rien dit de plus, jamais je ne vous serve.  
 Toutefois…  
 
-    CLEANTHE
+    CLEANTHE.
         Cher Sylvestre acheve jusqu'au bout.  
 
-    SYLVESTRE
+    SYLVESTRE.
 M'ayant dit, ne dy rien ; il ajouste, & voy tout,  
 Et sa langue n'a pas prononcé ces paroles  
 Qu'il me fait dans la main couler quelques pistoles [150].  
 
-    CLEANTHE
+    CLEANTHE.
 Lidamas t'aura dit quelqu'autre chose encor  
 Que tu me veux celer⁎ en faveur de son Or.  
 Mais poursuis.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Si ma dague estoit bien émouluë [151]  
 J'ouvrirois à vos yeux ma poitrine veluë.  
 C'est tout, ou jamais Vin n'entre dedans mon corps,  
 Et cela c'est vouloir passer au rang des morts.  
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre je te croy. Fils insolent & lâche  
 Ton crime se produit quand tu veux qu'on le cache :  
 Ne dy rien. Ces trois mots m'apprennent clairement  
@@ -833,7 +833,7 @@ Bannit de toy la fourbe⁎ & l'infidelité,
 Garde de declarer à ce fils temeraire  
 Que je me plains d'un mal qui n'est qu'imaginaire.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Je veux encor un coup, si je ne suis secret  
 Ne boire à l'avenir, ny vin blanc ny clairet.  
 O l'horrible serment ! j'en ay l'ame opilee [153].  
@@ -841,16 +841,16 @@ Me garde d'un tel mal la gresle & la gelee,
 Apres avoir lâché ce moult [154] grand jurement⁎  
 Me refuserez-vous un éclaircissement ?  
 
-    CLEANTHE
+    CLEANTHE.
 Touchant ?  
 
-    SYLVESTRE
+    SYLVESTRE.
         Chose qui n'est d'autre que de vous sçeuë,  
 D'où vient que vous feignez d'avoir perdu la veuë ?  
 Pourquoy depuis six mois faire croire en ces lieux  
 Que l'huile & le cotton ont manqué dans vos yeux ?  
 
-    CLEANTHE
+    CLEANTHE.
 Asseuré de ta foy⁎ comme de ton silence  
 Je te veux honorer de cette confidence.  
 A peine le Soleil avoit produit vingt jours  
@@ -892,39 +892,39 @@ Par qui la vaine ardeur de ma fille Amoureuse,
 Et les brutaux desseins d'un fils lasche & pervers⁎  
 Bien-tost & sans travail⁎ me seront découverts.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Ma foy si dans le monde on trouve un plus fin homme,  
 Je partiray demain pour l'aller dire à Rome [157].  
 Au Diable en ce mestier [158] vous feriez des deffis.  
 
-    CLEANTHE
+    CLEANTHE.
 Silence, Olimpe vient avecque ce bon fils.  
 
 
-### Scène V
+### Scène V.
 Lidamas, Olimpe, Cleanthe, Sylvestre.
 
 
-    LIDAMAS
+    LIDAMAS.
 La part que prend Olimpe en vostre sort funeste  
 L'ameine ici, Monsieur.  
 
-    CLEANTHE
+    CLEANTHE.
         Bonté rare & Celeste.  
 
-    OLIMPE
+    OLIMPE.
 Quiconque sçait vos maux, & ne s'en peut fâcher⁎,  
 Ne porte au lieu d'un cœur dans le sein qu'un rocher.  
 
-    CLEANTHE
+    CLEANTHE.
 Et qui void sans douleur vostre triste avanture  
 Tout de roche en effect, n'est homme qu'en figure.  
 
-    OLIMPE
+    OLIMPE.
 Mais qui ne la void pas, n'a nulle occasion  
 D'estre atteint de douleur & de compassion.  
 
-    CLEANTHE
+    CLEANTHE.
 Un semblable discours s'addresse à moy, Madame,  
 Mais sçachez que le corps n'agit point sur mon ame,  
 Et que si la clarté s'est esteinte en mes yeux  
@@ -936,17 +936,17 @@ Ils contemplent des biens meilleurs & plus constans,
 Ils voyent les vertus dont vous estes pourveuë,  
 Et ma felicité consiste en cette veuë.  
 
-    OLIMPE
+    OLIMPE.
 Vous sçavez donc, Monsieur, par quelle aversité  
 Mes attraits ont fait place à la difformité ?  
 
-    CLEANTHE
+    CLEANTHE.
 Mon fils m'a raconté ce succez⁎ lamentable⁎,  
 Mais faites m'en vous-mesme un recit veritable,  
 Peignez cet accident de ses vives couleurs.  
 Et que l'ayant oüy, je sente vos douleurs.  
 
-    OLIMPE
+    OLIMPE.
 J'estois à Bourges lors que par des feux de joye  
 L'on celébroit les coups⁎ d'un bras qui tout foudroye,  
 D'un Prince glorieux [159] dont les fameux exploits  
@@ -968,7 +968,7 @@ D'où son orgueil tombant arrache les estoiles.
 Ah ! Ciel que ce qui suit est dur à raconter,  
 C'est r'appeller mon mal que de le reciter.  
 
-    CLEANTHE
+    CLEANTHE.
 De ce fascheux recit soyez donc dispensee,  
 Ne rendez point presente une peine passee,  
 J'ay sceu de Lidamas en arrivant ici  
@@ -978,10 +978,10 @@ Fit dans vostre carosse entrer une fusee,
 Dont la chaude vapeur aydant à son dessein  
 Vous brusla le visage, & vous noircit le sein.  
 
-    LIDAMAS *bas à Olimpe.*
+    LIDAMAS *bas à Olimpe.*.
 Avoüez.  
 
-    OLIMPE
+    OLIMPE.
         C'est ainsi qu'arriva ma disgrace,  
 Mais, ô Dieu ! quand je croy que ma douleur se passe  
 C'est alors que du sort le courroux renaissant  
@@ -989,7 +989,7 @@ Me fait sentir un mal plus aspre & plus pressant,
 Monsieur, je ne sçaurois plus long-temps me contraindre,  
 Souffrez que j'aille ailleurs souspirer & me plaindre.  
 
-    CLEANTHE
+    CLEANTHE.
 Allez, Madame, allez, en vous seule je vis  
 Et je vous vois encor de l'œil dont je vous veis [161].  
 O d'une honneste femme indigne effronterie !  
@@ -998,14 +998,14 @@ Allons, Sylvestre, allons & donnons plaisamment
 Une fin qui réponde à ce commencement.  < Fin du premier Acte > 
 
 
-## Acte II
+## Acte II.
 
 
-### Scène première
+### Scène première.
 Thelame, Melice.
 
 
-    THELAME
+    THELAME.
 Mon espoir me trahit, & ma raison s'égare  
 D'esperer de flechir [162] ce naturel avare,  
 Jamais de mon amour le respect sans égal  
@@ -1022,37 +1022,37 @@ Cessez de vous flater⁎, l'avarice d'un Pere
 Ne s'abstiendra jamais de nous estre contraire.  
 Adieu, de vostre aveu⁎ felicitez [163] mes pas.  
 
-    MELICE
+    MELICE.
 Quoy me quitter ainsi ?  
 
-    THELAME
+    THELAME.
         Quoy ne vous quitter pas ?  
 
-    MELICE
+    MELICE.
 S'absenter de ces lieux ?  
 
-    THELAME
+    THELAME.
         On y hait ma presence.  
 
-    MELICE
+    MELICE.
 Mourir desesperé ?  
 
-    THELAME
+    THELAME.
         Vivre sans esperance.  
 
-    MELICE
+    MELICE.
 Ne pas perseverer ?  
 
-    THELAME
+    THELAME.
         Perseverer en vain.  
 
-    MELICE
+    MELICE.
 Ah Thelame !  
 
-    THELAME
+    THELAME.
     Ah Melice !  
 
-    MELICE
+    MELICE.
         Ha charmant⁎ inhumain.  
 Si vous bruslez pour moy d'un veritable zéle,  
 Si vous estes constant, genereux⁎ & fidelle,  
@@ -1065,7 +1065,7 @@ Qu'un autre ait par la force un cœur où vous regnez,
 Thelame songez-y, songez-y bien mon Ame,  
 En un mot demeurez, ou je meurs cher Thelame.  
 
-    THELAME
+    THELAME.
 Puissamment esbranlé de vos ardents soupirs,  
 Mais mieux persuadé de mes bruslans desirs,  
 Madame, j'y consens, racourcissez mes chaisnes,  
@@ -1074,52 +1074,52 @@ Deusse-je respirer sous des Astres plus durs
 Blois encor quelque temps me tiendra dans ses murs.  
 
 
-### Scène II
+### Scène II.
 Cleanthe, Sylvestre, Melice, Thelame.
 
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre acquitte-toy du róle que tu jouës⁎.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Si j'y manque d'un mot, couvrez⁎-moy les deux jouës.  
 
-    THELAME
+    THELAME.
 Cleanthe arrive ici, Madame il m'a surpris,  
 Son valet luy dira.  
 
-    MELICE
+    MELICE.
         R'assurez-vos esprits,  
 Vous n'avez seulement qu'à garder le silence,  
 Ce valet a sa part dans nostre confidence,  
 Mon frére l'a si bien pratiqué sur ce poinct  
 Que s'il void quelque chose, il ne parlera point.  
 
-    CLEANTHE
+    CLEANTHE.
 Estes-vous seule ici Melice ?  
 
-    MELICE
+    MELICE.
         J'y suis seule.  
 Amy… [164]  
 
-    SYLVESTRE
+    SYLVESTRE.
         Ne craignez rien, j'auray fort bonne gueule [165].  
 
-    CLEANTHE
+    CLEANTHE.
 La rencontre s'accorde avecques [166] mon souhait,  
 Je viens pour vous parler d'un serviteur⁎ parfait  
 Qui tient emprisonné beaucoup d'or dans ses coffres,  
 Et qui rempli d'Amour vous addresse ses offres,  
 C'est Rustique [167] l'Aisnay fils du vieux Parmenon.  
 
-    MELICE
+    MELICE.
 Quoy ce noble d'un jour, grossier jusqu'à son nom ?  
 Ah ! de grace, Monsieur, aymez plus vostre fille,  
 Sçachez mieux maintenir vostre illustre famille,  
 Ce seroit en tirer l'éclat dans le tombeau [168],  
 Un peu de vilain sang tache & gaste le beau.  
 
-    CLEANTHE
+    CLEANTHE.
 Allez, fille indiscrette⁎ & desobeissante,  
 Le soin de vostre honneur n'est pas ce qui vous tente,  
 Un Demon moins splendide est vostre possesseur,  
@@ -1128,16 +1128,16 @@ Mais si vous ne sortez de ce desert Empire
 Mon courroux deviendra quelque chose de pire,  
 Je vous en advertis.  
 
-    THELAME *bas*
+    THELAME *bas*.
         Amant infortuné !  
 
-    MELICE
+    MELICE.
 Je ne sçaurois reprendre un cœur que j'ay donné.  
 
-    CLEANTHE
+    CLEANTHE.
 Ah ! c'est trop…  
 
-    SYLVESTRE
+    SYLVESTRE.
         Hé, Monsieur, ô vous son pere unique,  
 Car la defuncte estoit, à ce qu'on croit, pudique,  
 Vous son vray geniteur, avez-vous entrepris  
@@ -1149,33 +1149,33 @@ Il a l'esprit fort bon, & le corps vigoureux,
 Sa bonne mine enfin & sa naissance libre  
 Mettent avec vos biens Thelame en equilibre.  
 
-    CLEANTHE, *Il prend Thelame.* 
+    CLEANTHE, *Il prend Thelame.*.
 Impertinent valet, qui t'oses ingerer  
 De me donner conseil & de me censurer,  
 Tu seras satisfait de ta belle harangue,  
 Je vais ou t'estrangler, ou t'arracher la langue,  
 Temeraire, indiscret⁎.  
 
-    MELICE *bas*
+    MELICE *bas*.
         Sylvestre, justes Cieux  
 Songe à tirer mon cœur⁎ des mains d'un furieux⁎.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Ha ah ! je n'en puis plus.  
 
-    CLEANTHE
+    CLEANTHE.
         Insolent pédagogue !  
 
-    SYLVESTRE
+    SYLVESTRE.
 Vous m'avez fait les yeux plus gros que ceux d'un dogue.  
 
-    THELAME, *à l'escart.*
+    THELAME, *à l'escart.*.
 Je ne sçaurois souffrir⁎ ce honteux traitement.  
 
-    MELICE
+    MELICE.
 Contraignez-vous pour moy, cher & fidelle Amant.  
 
-    CLEANTHE
+    CLEANTHE.
 Apprends à l'avenir, valet maussade & traitre,  
 A ne te plus mesler de censurer ton maitre.  
 Et vous fille rebelle à tout ce que je veux  
@@ -1183,17 +1183,17 @@ Pour un nouvel Amant ayez de nouveaux feux,
 Esteignez pour jamais [170] vostre ancienne flame,  
 Et recevez des loix d'un autre que Thelame.  
 
-    MELICE
+    MELICE.
 Pour me faire subir vostre injuste rigueur,  
 Faites, pere cruel, que j'aye un autre cœur.  
 
-    CLEANTHE
+    CLEANTHE.
 C'en est trop endurer, ma patience eschape.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Allez, sortez, fuyez, drillez [171] qu'il ne vous frape. [172]  
 
-    CLEANTHE
+    CLEANTHE.
 Je ne sçay si je doy nommer sa passion  
 Ou du nom de constance, ou d'obstination,  
 Mais soit-elle constante, ou soit-elle obstinee,  
@@ -1202,12 +1202,12 @@ Au reste tu m'as pleu dans ta naïveté⁎,
 Tu t'és de ton devoir dignement acquitté,  
 Si tu poursuis tousjours j'augmenteray tes gages.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Je sçay friser la corde [173] en de tels personnages.  
 Assurez-vous de moy, je paye à temps prefix [174],  
 Et dans l'art de fourber⁎ Sylvestre est un phœnix [175].  
 
-    CLEANTHE
+    CLEANTHE.
 Conduis moi vers Olimpe, & m'y fay reconnaitre  
 Qu'aux experts en cet Art tu servirois de maitre.  
 Tu sçauras en allant de mes ordres exprés [176]  
@@ -1216,15 +1216,15 @@ Je t'instruiray du temps où ta naïve⁎ adresse⁎
 Pourra si tu le veux répondre à ta promesse.   
 
 
-### Scène III
+### Scène III.
 Olimpe, Lidamas, Nerine.
 
 
-    LIDAMAS
+    LIDAMAS.
 Laissons l' [178]aller, Madame, & nous entretenons  
 De l'intrigue [179] Amoureux que nous entreprenons.  
 
-    OLIMPE
+    OLIMPE.
 L'espoir est mal fondé que soustient une ruse,  
 Plus je pense à la vostre, & plus je suis confuse,  
 Elle est bien inventee & satisfait d'abord,  
@@ -1232,7 +1232,7 @@ Mais j'en prevoy la fin que j'apprehende fort,
 Je crains que ce broüillas [180] ne fonde sur nos testes,  
 Et que semant du vent nous cueillions des tempestes.  
 
-    LIDAMAS
+    LIDAMAS.
 Delivrez vostre esprit de ces fâcheux Accez,  
 Un bon commencement attire un bon succez⁎.  
 L'ingenieuse erreur où j'entretiens mon pere  
@@ -1260,12 +1260,12 @@ Que tout autre que moy vous nuit par sa presence,
 Deffaites-vous bien-tost d'un incivil Amant  
 Qui vous entretiendra sans vous voir seulement.  
 
-    OLIMPE
+    OLIMPE.
 Mais si cet importun, quoy que je puisse dire,  
 S'obstine à me compter [181] son amoureux martire,  
 Quel sera le moyen de m'en débarasser ?  
 
-    LIDAMAS
+    LIDAMAS.
 N'en prenez pas le soin, c'est à moy d'y penser.  
 Nerine dont la voix imite tant la vostre,  
 Qu'à vous ouïr parler on prend l'une pour l'autre,  
@@ -1273,26 +1273,26 @@ Me fournit un moyen facile & non commun
 Pour esloigner de vous cet Amant importun.  
 
 
-### Scène IV
+### Scène IV.
 Cleanthe, Sylvestre, Olimpe, Lidamas, Nerine.
 
 
-    SYLVESTRE
+    SYLVESTRE.
 On trouve en bien cherchant, la chose est bien certaine  
 Ne fust-ce qu'un ciron [182] égaré dans la plaine,  
 Si celle dont l'absence accroist vostre souci⁎  
 N'est pas dedans sa chambre, on la rencontre ici.  
 
-    CLEANTHE
+    CLEANTHE.
 Madame…  
 
-    SYLVESTRE
+    SYLVESTRE.
         Attendez donc que vous soyez vers elle,  
 Vous ressemblez [183] les chiens de chez Jean de Nivelle [184],  
 Vous abbayez de loing. Avancez, Alte-là.  
 Tournez-vous autrement, parlez, vous y voila.  
 
-    CLEANTHE
+    CLEANTHE.
 Quelque torrent d'ennuis⁎ qui roule dans mon ame  
 J'entends tousjours parler mon devoir & ma flame,  
 L'un & l'autre m'ont dict que je vinsse en ce lieu,  
@@ -1306,26 +1306,26 @@ Vous faisoit voir combien ma passion est forte,
 Et si les traits⁎ ardents qui partent de sa main  
 En vous frapant au cœur, vous enflammoient le sein.  
 
-    OLIMPE
+    OLIMPE.
 Monsieur, si l'amour propre, ou si la vaine gloire⁎  
 Me rendoit orgueilleuse & facile à tout croire,  
 Je pourrois recevoir un pareil compliment  
 Pour le sincere aveu d'un veritable⁎ Amant.  
 Mais …  
 
-    CLEANTHE
+    CLEANTHE.
         Toubeau⁎, ce mais me tiendroit lieu d'injure,  
 Je hay la flatterie, & je fuy l'imposture⁎,  
 Vous ne devez jamais concevoir le soupçon  
 Que ma bouche & mon cœur parlent d'autre façon.  
 
-    LIDAMAS, *à l'escart.*
+    LIDAMAS, *à l'escart.*.
 Desja cet entretien me déplaist & me lasse.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Tandis qu'ils jaseront, causons nous deux de grace. [185]  
 
-    OLIMPE
+    OLIMPE.
 Quoy, vous arresteriez vos Amoureux projets  
 Au plus deffiguré d'entre tous les objets⁎ ?  
 Quoy vous pourriez encor adorer un visage  
@@ -1345,7 +1345,7 @@ Qu'on brusle encor pour moy d'une flame amoureuse,
 Tout homme m'en feroit des sermens superflus,  
 L'on sort bien-tost d'un temple où les Dieux ne sont plus.  
 
-    CLEANTHE
+    CLEANTHE.
 Vous vous figurez donc qu'une vaine peinture ,   
 Qu'un foible & simple trait du pinceau de nature ,   
 Qu'un amas concerté d'agreables couleurs,  
@@ -1363,16 +1363,16 @@ Mon inclination fonde ses esperances,
 Je pese les vertus, & ces sacrez tresors  
 Me plaisent plus cent fois que les charmes⁎ du corps.  
 
-    LIDAMAS *bas*
+    LIDAMAS *bas*.
 Ce compliment trop long use ma patience.  
 (Il fait lever Olimpe & seoir Nerine en sa place.)
 
 
-    NERINE
+    NERINE.
 Vous me faites rougir par trop de complaisance,  
 Fist le Ciel que vos yeux aussi bons qu'autrefois …  
 
-    CLEANTHE
+    CLEANTHE.
 Madame, c'est assez, croyez que je vous vois,  
 Ma memoire entretient & revére l'image  
 Et de vostre merite & de vostre visage,  
@@ -1385,17 +1385,17 @@ Je vous en veux donner pour preuve des presens,
 C'est à quoy je m'oblige, & dont je seray quite  
 Si vous me permettez encor une visite.  
 
-    LIDAMAS *à Olimpe*
+    LIDAMAS *à Olimpe*.
 Il croit parler à vous [186], le pauvre aveugle en tient⁎.  
 
-    NERINE
+    NERINE.
 Monsieur vous m'honorez plus qu'il ne m'appartient,  
 Reservez vos presens pour de plus belles Dames,  
 Je ne merite pas ny vos dons ny vos flames,  
 Et je puis assurer que si vous me voyez  
 Vous plaindriez [187] vos presens s'ils m'estoient envoyez.  
 
-    CLEANTHE
+    CLEANTHE.
 Madame, ce discours est un refus honneste,  
 Mais encor une fois je vous fais ma requeste,  
 Agreez que tantost je vous revienne voir,  
@@ -1405,35 +1405,35 @@ En daignant accepter de ma main une montre,
 Que de ce bien encor je vous sois obligé⁎,  
 Promettez-le, Madame, & puis je prends congé.  
 
-    LIDAMAS *bas*
+    LIDAMAS *bas*.
 Nerine promets-luy d'accepter pour luy plaire.  
 
-    NERINE
+    NERINE.
 Monsieur tout mon desir tend à vous satisfaire,  
 S'il vous plaist de m'offrir un present aujourd'huy,  
 Ayant un cœur pour vous, j'auray des mains pour luy.  
 
-    CLEANTHE
+    CLEANTHE.
 Que mon bon-heur est grand ! ce discours me confirme  
 Qu'Olimpe considere encor Cleanthe infirme.  
 Adieu, Madame, adieu, vous m'avez satisfait,  
 Sylvestre allons.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Oüy, maistre, en un pas c'en est fait.  
 Vous son unique fils, mon zele vous exhorte  
 De venir avec moy, parce qu'il vous importe.  
 
-    OLIMPE
+    OLIMPE.
 Suivez-le, Lidamas, quelquefois ses pareils  
 A de plus sages qu'eux donnent de bons conseils.   
 
 
-### Scène V
+### Scène V.
 Olimpe, Nerine
 
 
-    NERINE
+    NERINE.
 Maintenant que je puis m'exprimer sans contrainte,  
 Permetez que mon cœur⁎ se montre à vous sans crainte,  
 Madame, voulez-vous acquerir un renom  
@@ -1451,7 +1451,7 @@ Heureuse,  infortunee, agreable ou difforme,
 Reconaissez, Madame, un zele⁎ si parfait,  
 Et dans vos premiers feux persistez comme il fait.  
 
-    OLIMPE
+    OLIMPE.
 Nerine, ce discours est de mauvaise grace,  
 Tu me prescris à tort ce qu'il faut que je fasse,  
 Je conais mon devoir, je sçay m'en acquitter,  
@@ -1462,14 +1462,14 @@ Certes si je pouvois l'estimer aujourd'huy
 Je me declarerois plus aveugle que luy.  < Fin du second Acte > 
 
 
-## Acte III
+## Acte III.
 
 
-### Scène première
+### Scène première.
 Melice, Lucille.
 
 
-    LUCILLE
+    LUCILLE.
 Ouy je l'ay rencontré cet Amant deplorable⁎  
 Maudissant les rigueurs d'un pere inexorable,  
 Se plaignant du destin, de soy-mesme & de vous,  
@@ -1493,16 +1493,16 @@ Avertis-en Melice, & luy fay mes adieux.
 Ces tristes mots finis, le cœur plein de tristesse,  
 Et l'œil noyé de pleurs, il s'enfuit & me laisse.  
 
-    MELICE
+    MELICE.
 Lucille à ce surcroist de malheurs sans esgaux,  
 Laisse-moy chercher seule un remede à mes maux,  
 Souffre que sans secours je combatte ma peine.  
 Cependant attends-moy dans la chambre prochaine⁎.   
 
 
-### Scène II
+### Scène II.
 
-    MELICE *seule.*
+    MELICE *seule.*.
 L'Esprit envelopé d'un nuage d'ennuis⁎  
 Je m'égare en moy-mesme, & ne sçais où je suis,  
 Mon destin rigoureux m'a mis dans une route  
@@ -1543,19 +1543,19 @@ Qu'importe que tous deux dressent vers moy leurs pas,
 Puisque l'un ne peut lire, & l'autre ne void pas.  
 
 
-### Scène III
+### Scène III.
 Cleanthe, Melice, Sylvestre.
 
 
-    SYLVESTRE *bas.*
+    SYLVESTRE *bas.*.
 Elle est seule, Monsieur, le temps vous est propice.  
 
-    CLEANTHE
+    CLEANTHE.
 Trouveray-je à present ma fille dans Melice ?  
 Ne ferme-t'elle plus l'oreille à son devoir ?  
 Reconaist-t'elle enfin mon absolu pouvoir ?  
 
-    MELICE *bas.*
+    MELICE *bas.*.
 En cette occasion recourons à la feinte.  
 Ah ! Monsieur, ajoustez la vengeance à la plainte,  
 Usez des droicts d'un pere, & me faites sentir  
@@ -1569,7 +1569,7 @@ D'avoir de Thelame [190] souffert la tyrannie,
 Cette indigne souffrance est une lâcheté  
 Qui ne se doit toucher que d'un bras irrité.  
 
-    CLEANTHE
+    CLEANTHE.
 Ma fille un repentir si grand & si visible  
 Aux transports⁎ de courroux me rend inaccessible,  
 Je ne vous demandois que ce juste dédain  
@@ -1595,13 +1595,13 @@ Et doivent adoucir les cœurs les plus barbares⁎ ;
 Le vostre pourroit-il encor deliberer  
 De s'y laisser fléchir, & de les adorer ?  
 
-    MELICE
+    MELICE.
 Sans regarder les biens, le rang ny la personne,  
 Je reçois un époux que mon pere me donne,  
 S'il l'estime il me plaist, & d'un esprit soumis  
 Je l'ayme dés cette heure autant qu'il est permis [194].  
 
-    CLEANTHE
+    CLEANTHE.
 C'est ainsi que répond une fille bien née,  
 Allez, je vous prédis un heureux hymenée⁎,  
 Acceptant un espoux de ma main seulement,  
@@ -1615,32 +1615,32 @@ Qui l'assure d'un bien qu'il n'osoit se promettre,
 Prenez viste la plume, & couchez par escrit  
 Une suite de mots qui me vient dans l'esprit [195].  
 
-    MELICE *bas.*
+    MELICE *bas.*.
 Servons-nous de ce temps, afin d'achever celle  
 Que je veux envoyer à mon Amant fidelle.  
 
-    CLEANTHE
+    CLEANTHE.
 Mettez, Monsieur sçachez que ma fille veut bien …  
 
-    MELICE
+    MELICE.
 Attendez, s'il vous plaist, ma plume ne vaut rien.  
 Elle ne marque pas, je n'escris rien qui vaille,  
 Si je m'en veux servir il faut que je la taille.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Attendant qu'elle soit plus commode à sa main,  
 Confabulons [196] nous deux touchant un mien dessein.  
 
-    CLEANTHE
+    CLEANTHE.
 Quel secret important as-tu donc à m'apprendre ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Que depuis ce matin j'enrage de me pendre.  
 
-    CLEANTHE
+    CLEANTHE.
 De te perdre meschant, n'és-tu pas yvre ou fou ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 J'en ay jetté la pierre & lancé le caillou,  
 Sur ce poinct desormais ma volonté s'obstine,  
 Je veux estre pendu, mais au cou de Nerine,  
@@ -1648,39 +1648,39 @@ Ce gibet me plaist tant, je le dis sans peché,
 Que je seray ravy⁎ de m'y voir attaché.  
 Me contredirez-vous en ce que je propose ? [197]  
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre de ma part espere toute chose.  
 Mais sçachons si Melice a mis sa plume au poinct  
 De peindre⁎ ma pensee, & de ne broüiller⁎ point.  
 
-    MELICE
+    MELICE.
 Mon canif tranche mal, & jusqu'icy ma peine  
 A la rendre meilleure est inutile & vaine.  
 Je m'en vais essayer pour la derniere fois  
 A la mettre en estat d'obeïr à mes doigts.  
 
-    CLEANTHE
+    CLEANTHE.
 Tellement que Nerine a ravi ta franchise [198] ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Oüy, ses regards filoux d'aujourd'huy me l'ont prise,  
 Mais si vostre credit se joint à mes efforts  
 J'auray bien-tost sur elle une prise de corps.  
 
-    MELICE *bas.*
+    MELICE *bas.*.
 Ces lignes suffiront, finissons la presente  
 Par vostre tres-acquise & tres-fidelle Amante.  
 
-    CLEANTHE
+    CLEANTHE.
 N'est-ce pas fait Melice ? ah Ciel quelle longueur.  
 
-    MELICE
+    MELICE.
 Oüy, Monsieur, mon pinceau⁎ se trouve un peu meilleur,  
 J'espere d'en former quelque bon caractere⁎  
 Qui maintiendra l'honneur de la fille & du pere.  
 Dictez.  
 
-    CLEANTHE *dicte.* [199]  < Lettre. >
+    CLEANTHE *dicte.* [199]. < Lettre. >
         Monsieur, sçachez que ma fille veut bien  
 Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,  
 Qu'il vienne promptement, & n'apprehende rien,  
@@ -1694,10 +1694,10 @@ Le duvet le plus mol n'a rien de doux au prix [201],
 Le bien est le repos des corps & des esprits,  
 Mais cachetez le mot que vous venez d'escrire.  
 
-    MELICE
+    MELICE.
 Monsieur je ne sçaurois, n'ayant ny feu ny cire.  
 
-    CLEANTHE
+    CLEANTHE.
 Va querir un flambeau, mon fidelle valet.  
 Vous prenez cette clef, ouvrez mon cabinet,  
 Sans qu'il soit de besoin que je vous accompagne,  
@@ -1719,7 +1719,7 @@ Que vostre fils n'est pas un party pour ma fille,
 Tout mon sang se revolte, & ne peut consentir  
 Qu'une goute du vostre entre dans ma famille.  
 
-    CLEANTHE
+    CLEANTHE.
 (Apres avoir leu.)
 
 La perfide ! ô Ciel qu'auroit-ce esté  
@@ -1736,39 +1736,39 @@ Comme sans vous je ne puis vivre
 J'y souscrit volontairement.  
 Melice, vostre acquise & tres-fidelle Amante.  
 
-    CLEANTHE *ayant leu.*
+    CLEANTHE *ayant leu.*.
 Je rendray sans effect cette envie insolente.  
 Mais la voicy qui vient, remettons ces escrits  
 A l'endroit qu'ils estoient lors que je les ay pris,  
 Et comme auparavant contrefaisant l'infirme  
 Que sa fourbe⁎ à nos yeux jusqu'au bout se confirme.  
 
-    MELICE
+    MELICE.
 J'apporte de la cire.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Et Sylvestre un flambeau.  
 
-    CLEANTHE
+    CLEANTHE.
 Donnez à cette lettre un ply juste & nouveau,  
 Et puis de mon cachet imprimant la figure  
 Contre les curieux armez cette escriture.  
 Que je doy rendre au Ciel de graces & de vœux  
 De vous trouver si soupple à tout ce que je veux !  
 
-    MELICE
+    MELICE.
 La pieté m'oblige, & le Ciel me convie  
 D'obeïr à celuy duquel je tiens la vie,  
 Tousjours de vos desirs je hasteray l'effect  
 Avec tout le plaisir & le soing que j'ay fait,  
 Recevez vostre lettre.  
 
-    CLEANTHE
+    CLEANTHE.
         O fille obeissante,  
 Qu'un semblable propos me plaist & me contente,  
 Allez, je n'ay pour l'heure aucun besoin de vous.  
 
-    MELICE *à l'escart.*
+    MELICE *à l'escart.*.
 Forçons nostre destin à devenir plus doux,  
 Lucille m'a promis son silence & sa peine,  
 Allons la retrouver dans la chambre prochaine⁎,  
@@ -1776,30 +1776,30 @@ Et d'un pas aussi prompt que mon commandement,
 Envoyons-la porter ce mot à mon Amant.   
 
 
-### Scène IV
+### Scène IV.
 Cleanthe, Sylvestre.
 
 
-    SYLVESTRE
+    SYLVESTRE.
 Et puis fiez-vous-y, parbieu [203] ce sexe est drôle,  
 Il a la ruse en main ainsi que la parole,  
 Monsieur songez à vous, Melice a du dessein [204].  
 
-    CLEANTHE
+    CLEANTHE.
 Il m'est conu, Sylvestre, & je le rendray vain.  
 Parlons de Lidamas, esperes-tu qu'il vienne ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 S'il ne vient pas, il faut que le Diable le tienne,  
 Mais il ne le tient pas, je l'apperçoy qui vient,  
 Comportons-nous tous deux, ainsi qu'il appartient.   
 
 
-### Scène V
+### Scène V.
 Lidamas, Cleanthe, Sylvestre.
 
 
-    CLEANTHE *assis vers la table.*
+    CLEANTHE *assis vers la table.*.
 Préparons le présent que j'ay promis de faire  
 Au Soleil animé qui m'échauffe & m'éclaire,  
 Et qui malgré la nuit de mon aveuglement  
@@ -1813,36 +1813,36 @@ Sans y contribuer il marque nos desastres,
 Et si comme ce corps il ne fait pas le Temps  
 Il en marque du moins l'espace & les instans.  
 
-    SYLVESTRE *à Lidamas.*
+    SYLVESTRE *à Lidamas.*.
 Ne soyez pas craintif dedans cette rencontre⁎,  
 L'occasion vous rit, escamottez la montre.  
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre, approche, escoute, est-il l'heure d'aller  
 Vers les yeux que j'adore & paraitre & brusler.  
 
-    LIDAMAS *bas.*
+    LIDAMAS *bas.*.
 Usons en ce moment de l'avis⁎ de Sylvestre.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Monsieur vostre raison est sans doute en sequestre,  
 A quoy bon dites-moy de faire des présens  
 A des attraits passez, à des masques présens ?  
 
-    CLEANTHE *frappant Lidamas.* 
+    CLEANTHE *frappant Lidamas.*.
 Reçoy, mauvais censeur, homme plein d'insolence  
 D'un plus grand chastiment un soufflet par avance.  
 Olimpe pour ta veuë est un objet⁎ trop haut,  
 Ce qu'elle a d'accomply te paroist un defaut.  
 
-    LIDAMAS
+    LIDAMAS.
 Je n'ose dire mot, cher Sylvestre de grace  
 Tesmoigne du despit, & te plains en ma place.  
 
-    CLEANTHE
+    CLEANTHE.
 Si jamais…  
 
-    SYLVESTRE
+    SYLVESTRE.
         Si jamais je suis vostre valet  
 Que l'on m'estrille en asne, en cheval, en mulet [206],  
 Que le plus froid des Vents sans cesse au nez me souffle,  
@@ -1854,45 +1854,45 @@ Vostre main met ainsi les visages à l'ombre,
 Sans trancher du sçavant, ny sans passer pour fol  
 Je puis d'oresnavant la nommer parasol⁎.  
 
-    CLEANTHE
+    CLEANTHE.
 Ces façons de parler bouffonnes & fantasques  
 T'attireront encor…  
 
-    SYLVESTRE
+    SYLVESTRE.
         Quoy ? d'autres demy marques [208].  
 
-    LIDAMAS
+    LIDAMAS.
 Pendant leur different qui flatte mon desir  
 Pour la seconde fois tâchons à [209] reüssir.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Adieu, je ne veux plus conduire qui m'outrage,  
 Il vous faut un valet qui n'ait point de visage.  
 
-    CLEANTHE
+    CLEANTHE.
 Sylvestre qu'est-cecy [210], veux-tu m'abandonner ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Oüy, je ne fus jamais enclin à pardonner.  
 
-    CLEANTHE
+    CLEANTHE.
 Voy ma condition, & regarde la tienne.  
 
-    LIDAMAS
+    LIDAMAS.
 Enfin j'ay pris sa montre, & supposé⁎ la mienne,  
 Allons trouver Olimpe, & faisons aujourd'huy  
 Un commerce⁎ amoureux des richesses d'autruy.   
 
 
-### Scène VI
+### Scène VI.
 Cleanthe, Sylvestre.
 
 
-    SYLVESTRE
+    SYLVESTRE.
 Monsieur il est sorty, la feinte est superfluë,  
 En se pensant brancher ce bel oyseau s'engluë.  
 
-    CLEANTHE
+    CLEANTHE.
 Parmy [211] les mouvemens⁎ dont je me sens toucher  
 Je ne sçay si je dois ou rire ou me fascher,  
 Qu'en ce siecle de fer où le vice prospere  
@@ -1903,59 +1903,59 @@ Sylvestre poursuivons l'intrigue de la montre,
 Prouve encor ton esprit dedans cette rencontre⁎,  
 Ne te relâche point.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Par Nerine & ses yeux  
 Je me comporteray tousjours de bien en mieux.  < Fin du troisiesme Acte > 
 
 
-## Acte IV
+## Acte IV.
 
 
-### Scène première
+### Scène première.
 Lidamas, Olimpe.
 
 
-    LIDAMAS
+    LIDAMAS.
 Mon cœur⁎ refuse-t'il ce que ma main luy donne ?  
 Qui neglige mes dons, dédaigne ma personne,  
 Rejetter un present, c'est le visible effet  
 Du degoust que l'on a de celuy qui le fait.  
 
-    OLIMPE
+    OLIMPE.
 Pour guerir vostre esprit d'une telle croyance,  
 Je peche expressement contre la bienseance,  
 Le refus des présents est de nostre devoir,  
 Mais qui donne son cœur peut bien tout recevoir.  
 
-    LIDAMAS
+    LIDAMAS.
 Cette montre est, Madame, une montre commune,  
 Je ne croy pas pourtant que mon pere en ait une…  
 
-    OLIMPE
+    OLIMPE.
 Il vient, n'achevez pas.  
 
-    LIDAMAS
+    LIDAMAS.
         O Ciel qu'il me déplaist,  
 Jamais homme ne fut plus importun qu'il l'est.  
 
 
-### Scène II
+### Scène II.
 Cleanthe, Sylvestre, Olimpe, Lidamas, Nerine.
 
 
-    CLEANTHE
+    CLEANTHE.
 Apres que j'ay promis ma memoire me presse  
 De faire succeder l'effet à ma promesse,  
 C'est le premier motif qui me conduit icy,  
 L'autre est d'y soupirer mon amoureux soucy⁎.  
 
-    OLIMPE
+    OLIMPE.
 Monsieur épargnez-moy, quoy mes beautez péries  
 Meriteroient vos dons, feroient vos resveries ?  
 Tant de présomption ne me possede pas,  
 L'on ne peut beaucoup plaire avec si peu d'appas⁎.  
 
-    CLEANTHE
+    CLEANTHE.
 Ah que vous vous donnez & me causez de peine,  
 Sur moy plus que jamais vous estes souveraine,  
 Ce que jamais vos yeux eurent de ravissant,  
@@ -1965,20 +1965,20 @@ Au moment que je parle est peint dans ma memoire,
 Je vous en apprendrois & l'empire & les coups⁎  
 Si mes discours n'estoient écoutez que de vous.  
 
-    OLIMPE
+    OLIMPE.
 Personne n'est icy que Sylvestre & Nerine.  
 
-    CLEANTHE
+    CLEANTHE.
 Qu'ils s'en aillent tous deux dans la chambre prochaine⁎.  
 Madame faites-en un prompt commandement.  
 
-    OLIMPE
+    OLIMPE.
 Sortez.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Que je te vay cajoler diablement.  
 
-    CLEANTHE
+    CLEANTHE.
 Madame, je disois que tous les avantages  
 Que vous eustes jamais sur les plus beaux visages,  
 Que ces charmes⁎ divins dont je fus asservy  
@@ -1992,11 +1992,11 @@ Si mes soupirs ardents vous ont un peu touchée,
 Et si vous desirez de m'en rendre certain  
 Que ce soit en prenant ce present de ma main.  
 
-    OLIMPE
+    OLIMPE.
 Qu'est-il dedans l'honneur que pour vous je ne fasse [213],  
 Je le reçoy, Monsieur, & je vous en rends grace.  
 
-    CLEANTHE
+    CLEANTHE.
 Ainsi vous m'obligez⁎ beaucoup plus mille fois  
 Que si vous soumettiez tout le monde à mes lois.  
 Je tiens cete faveur & glorieuse & chere,  
@@ -2004,26 +2004,26 @@ Que je baise la main qui me la vient de faire.
 (Lidamas luy presente la main.)
 
 
-    OLIMPE
+    OLIMPE.
 Hé ! Monsieur.  
 
-    CLEANTHE
+    CLEANTHE.
         Quels transports⁎ ? ô Ciel je n'en puis plus.  
 Encor un peu de temps, & j'expire dessus.  
 Chaste albastre animé, belle main que je touche,  
 Tu peux prendre mon cœur, il est dedans ma bouche.  
 
-    OLIMPE
+    OLIMPE.
 Monsieur encor un coup.  
 
-    CLEANTHE
+    CLEANTHE.
         Ah Madame, laissez,  
 Je reçoy du plaisir plus que vous ne pensez.  
 
-    OLIMPE
+    OLIMPE.
 Si quelqu'un nous voyoit que ne pourroit-on croire ?  
 
-    CLEANTHE
+    CLEANTHE.
 Rien qui ne peust beaucoup augmenter vostre gloire,  
 Rien qui ne témoignast vostre inclination,  
 Vostre rare merite & vostre affection.  
@@ -2033,46 +2033,46 @@ Remply de vos faveurs, je prends congé de vous,
 Adieu de mes pensers, objet⁎ cruel & doux.  
 Sylvestre.  
 
-    SYLVESTRE *à Nerine*
+    SYLVESTRE *à Nerine*.
         A te quitter faut-il donc me resoudre,  
 Joly moulin à vent où j'ay dessein de moudre.  
 Que vouléz-vous de moy ?  
 
-    CLEANTHE
+    CLEANTHE.
         Rien qu'en estre conduit.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Allons, je suis le jour & vous estes la nuit,  
 Suivez vostre falot.⁎  
 
-    LIDAMAS
+    LIDAMAS.
         Il en tient⁎ le bon-homme [214],  
 Il va benir tout seul le feu qui le consomme [215],  
 Il croit avoir baisé cette adorable main.  
 
-    NERINE
+    NERINE.
 Deux Dames dans la sale attendent à dessein  
 De vous faire aujourd'huy compliment & visite.  
 
-    OLIMPE
+    OLIMPE.
 Je les vay recevoir.  
 
-    LIDAMAS
+    LIDAMAS.
         Adieu donc je vous quitte.  
 
 
-### Scène III
+### Scène III.
 Olimpe, Nerine.
 
 
-    NERINE *retenant Olimpe.*
+    NERINE *retenant Olimpe.*.
 Madame, s'il vous plaist revenez sur vos pas,  
 Ce n'est qu'un faux semblant, on ne vous attend pas.  
 
-    OLIMPE
+    OLIMPE.
 Explique-donc pourquoy tu m'as dit le contraire ?  
 
-    NERINE
+    NERINE.
 Pour tromper Lidamas, & pour vous en défaire,  
 Pour vous prier encor de garder vostre foy⁎  
 A qui vit plus en vous qu'il n'est vivant en soy,  
@@ -2083,7 +2083,7 @@ Ce n'est à bien parler qu'un oyseau passager,
 Qui ne peut demeurer long-temps en une place  
 Que le Printemps ameine, & qu'un jour d'hyver chasse [216].  
 
-    OLIMPE
+    OLIMPE.
 Cruelle à quel dessein me tiens-tu ce propos ?  
 Pourquoy traverses⁎-tu ma flame & mon repos ?  
 Quelle haine couverte⁎, & quelle noire envie  
@@ -2091,7 +2091,7 @@ Te fait en mon amour attenter sur [217] ma vie ?
 D'où te naissent ces soins⁎ que je n'approuve pas  
 Et qui [218] te porte enfin à blâmer Lidamas ?  
 
-    NERINE
+    NERINE.
 Mon zele seulement & la peur raisonnable  
 Qu'un faux & feint amour en trompe un veritable.  
 Celuy que vostre cœur cherit si constamment  
@@ -2109,26 +2109,26 @@ Mais à son bienfaicteur elle l'a redonnee,
 Afin de ruiner le vertueux dessein  
 Que Cleanthe pour vous entretient dans son sein.  
 
-    OLIMPE
+    OLIMPE.
 Qu'entens-je, juste Ciel, & que dis-tu Nerine ?  
 
-    NERINE
+    NERINE.
 Ce que m'a dit Sylvestre en la chambre voisine.  
 Ce que mal-aisément on peut s'imaginer,  
 Mais Sylvestre n'est pas garçon pour en donner [219].  
 
-    OLIMPE
+    OLIMPE.
 Apprends-moy plus au long cette facheuse histoire.  
 
-    NERINE
+    NERINE.
 Telle qu'il me l'a dite elle est dans ma memoire,  
 Mais j'apperçoy quelqu'un qui pourroit écouter,  
 Venez ailleurs qu'icy l'entendre raconter.   
 
 
-### Scène IV
+### Scène IV.
 
-    LUCILLE *tenant une lettre.*
+    LUCILLE *tenant une lettre.*.
 Je ne vay qu'en tremblant retrouver ma maitresse,  
 Elle a juste sujet de punir ma paresse,  
 Sans causer nulle part je devois revenir,  
@@ -2155,15 +2155,15 @@ Glissons en esquivant [222] ce papier dans ma poche.
 
 
 
-### Scène V
+### Scène V.
 Cleanthe, Sylvestre.
 
 
-    SYLVESTRE
+    SYLVESTRE.
 Aspre à vous satisfaire autant & plus qu'aux pots [223],  
 N'ay-je pas inventé ce mensonge à propos ?  
 
-    CLEANTHE
+    CLEANTHE.
 Va, tu merites trop, cette adraite imposture⁎  
 Me remet vers Olimpe en meilleure posture ;  
 Elle est à Lidamas un coup⁎ triste & fatal  
@@ -2177,7 +2177,7 @@ Qu'à cette heure à l'escart Olimpe ne l'escoute,
 Et que voyant ses feux si laschement trahis  
 Elle ne foule aux pieds le présent de mon fils.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Si Nerine m'a creu ! Ce mot de si, me picque⁎,  
 Elle tient mes discours reglez comme Musique,  
 Plus qu'à pas un mortel elle se fie en [225] moy,  
@@ -2197,7 +2197,7 @@ Eust esté le repas des corbeaux & des loups,
 Et que bravant la mort d'une façon hautaine  
 Il eust dansé dans l'air jusqu'à perte d'haleine.  
 
-    CLEANTHE
+    CLEANTHE.
 Il est vray que sans moy, ce pauvre malheureux  
 Auroit suby la loy d'un Arrest rigoureux,  
 Il s'estoit declaré deserteur de Milice,  
@@ -2207,13 +2207,13 @@ La memoire d'un acte où tant d'opprobre est joint
 Suffit que par mes soins je sauvay ce coupable.  
 Revenons à Nerine, elle te plaist ?  
 
-    SYLVESTRE
+    SYLVESTRE.
         Sans fable.  
 
-    CLEANTHE
+    CLEANTHE.
 Elle sçait donc de toy mon feint aveuglement ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Je suis trop vieux Renard pour cet aveuglement,  
 Quand le Ciel m'auroit mis dedans le corps cent Ames  
 Je n'en découvrirois pas une seule aux femmes,  
@@ -2222,7 +2222,7 @@ Se taire fut tousjours le pire de leurs maux,
 Et s'il faut clairement exprimer ma pensee,  
 Pour garder un secret la femme est trop percee.    1130  
 
-    CLEANTHE
+    CLEANTHE.
 Ce discours est encor un trait de ton esprit.  
 Mais qui dans cette sale a laissé cet escrit ?  
 Donne-le-moy, Sylvestre, il faut voir ce qu'il porte,  
@@ -2243,7 +2243,7 @@ A vos yeux je perdray la vie
 Ou vous suivrez vostre devoir.  
 Thelame.  
 
-    CLEANTHE *Apres avoir leu.*
+    CLEANTHE *Apres avoir leu.*.
         Transporté de tristesse & de joye  
 Comme entre deux chemins mon esprit se fourvoye,  
 Deux divers mouvemens⁎ me tirent devers [229]eux,  
@@ -2268,11 +2268,11 @@ La voici cette fille, indigne de ma grace
 Rejettons ce papier, & luy cedons la place.   
 
 
-### Scène VI
+### Scène VI.
 Melice, Lucille.
 
 
-    LUCILLE *amassant⁎ la lettre.*
+    LUCILLE *amassant⁎ la lettre.*.
 Madame la voici, ne vous tourmentez plus,  
 Vostre pere & Sylvestre avoient les pieds dessus.  
 Mais l'un estant aveugle, & de bonne aventure⁎  
@@ -2280,7 +2280,7 @@ L'autre n'ayant jamais rien sceu dans [234] la lecture,
 Je ne m'estonne point s'ils n'ont pas amassé⁎  
 Cet escrit que Thelame a lui mesme tracé.  
 
-    MELICE
+    MELICE.
 Donne-le-moy, Lucille, & permets qu'à mon aise  
 J'en admire les traits, je les lise & les baise.  
 (Elle lit tout bas, & apres avoir leu.)
@@ -2300,7 +2300,7 @@ Me doit bien-tost ici faire voir sa personne,
 Va l'attendre en la ruë, & l'ameine sans bruit,  
 Juger du triste estat où mon cœur est reduit.  
 
-    LUCILLE
+    LUCILLE.
 Si vous le commandez je ne m'en puis defendre,  
 Mais je croirois meilleur de ne le point attendre,  
 Il a, vous le sçavez, une clef du jardin,  
@@ -2311,11 +2311,11 @@ Comme je l'ay preveu l'affaire a reüssi,
 Mes yeux se sont trompez, ou c'est lui que voici.   
 
 
-### Scène VII
+### Scène VII.
 Thelame, Melice, Lucille.
 
 
-    THELAME *tenant la lettre de Melice.*
+    THELAME *tenant la lettre de Melice.*.
 Non jamais vostre main n'écrivit cette lettre,  
 Vostre rare vertu ne l'auroit pû permettre,  
 Je crois absolument qu'un folastre demon  
@@ -2325,7 +2325,7 @@ Vous ne blâmerez pas ce que je viens de dire,
 Et prendrez mes discours pour d'assurez tesmoins  
 Qu'on flatte⁎ davantage alors qu'on aime moins.  
 
-    MELICE
+    MELICE.
 Vostre vertu, Thelame, a réveillé la mienne,  
 Vous ne m'avez rien dit dont je ne me souvienne,  
 J'ay receu des clartez de vous avoir oüy,  
@@ -2339,25 +2339,25 @@ Pour qui me chérit tant ne songeons plus qu'à vivre.
 Et tâchons de reduire un pere sans pitié  
 A céder aux ardeurs de sa chaste amitié⁎.  
 
-    THELAME
+    THELAME.
 L'Amitié⁎ ne peut rien sur cet homme barbare⁎  
 Ce beau feu n'agist pas dessus un cœur avare  
 Donc au lieu de nourrir un espoir superflu  
 Permettez mon départ que le Ciel a conclu  
 Adieu.  
 
-    MELICE
+    MELICE.
         Je ne sçaurois vous dire adieu Thelame  
 On manque de parolle au poinct de perdre l'Ame  
 Recevez un soupir au defaut de la voix.  
 Mais qui [236] conduit icy, ce valet que je vois.   
 
 
-### Scène VIII
+### Scène VIII.
 Sylvestre, Thelame, Melice, Lucille.
 
 
-    SYLVESTRE
+    SYLVESTRE.
 Madame concluez de ce que je vay dire  
 Si vous avez sujet de pleurer ou de rire,  
 Si vous devez bénir ou maudire le sort,  
@@ -2371,25 +2371,25 @@ Bref il void clair d'un œil, & cét œil est le gauche,
 Il m'a dit qu'il viendroit dans peu de temps icy,  
 Il tient ce qu'il promet Madame le voicy.  
 
-    THELAME
+    THELAME.
 Si j'en suis apperceu, je pressens ses outrages.  
 
-    MELICE
+    MELICE.
 Vous pouvez aisement éviter ces orages  
 Hastez-vous de courir vous cacher dans ce coin,  
 Du reste n'ayez peur, j'en veux prendre le soin.  
 
 
-### Scène IX
+### Scène IX.
 Cleanthe, Melice, Thelame, Sylvestre, Lucille.
 
 
-    CLEANTHE
+    CLEANTHE.
 Ma fille prenez part à la soudaine joye  
 Dans qui mon cœur se plonge & mon ame se noye,  
 J'ay pour l'heure un bon œil.  
 
-    MELICE
+    MELICE.
         Sylvestre me l'a dit  
 Le Ciel quand il luy plaist agit sans contredit.  
 Puisqu'il a commencé de vous rendre la veuë  
@@ -2401,11 +2401,11 @@ Et si tous leurs rapports ne sont pas des mensonges
 L'on vous verra bientost dans mon pressentiment  
 Tout à fait garanty de vostre aveuglement.  
 
-    CLEANTHE
+    CLEANTHE.
 Quel prophetique instinct, ou quel heureux augure  
 Entretient vostre esprit dans cette conjecture ?  
 
-    MELICE
+    MELICE.
 Quand Sylvestre est venu m'apprendre que le Ciel  
 Ne versoit plus sur vous tant d'absinthe [241] & de fiel  
 Et qu'avec l'un des yeux sa colere assouvie  
@@ -2423,10 +2423,10 @@ Tâchons pareillement d'en voir les veritez.
 Il n'est pas mal-aisé d'en venir à l'épreuve  
 S'il plaist de vous servir d'un moyen que je treuve [242].  
 
-    CLEANTHE
+    CLEANTHE.
 Volontiers.  
 
-    MELICE
+    MELICE.
         Laissant donc les discours superflus  
 Vostre œil gauche est le bon, mettez la main dessus  
 Ainsi vous jugerez avec plus d'assurance  
@@ -2434,41 +2434,41 @@ Si des objets présens le droict a connoissance
 Et si de mon sommeil, les bijares [243] tableaux  
 Estoient remplis de traits veritables ou faux.  
 
-    CLEANTHE
+    CLEANTHE.
 Subtile invention, industrie⁎ agreable !  
 
-    MELICE, *à Thelame.*
+    MELICE, *à Thelame.*.
 Sortez.  
 
-    CLEANTHE *arrestant Thelame.* 
+    CLEANTHE *arrestant Thelame.*.
         Vous avez fait un songe veritable  
 Melice je vous voy, je voy Thelame aussi  
 O Ciel ! qu'heureusement ce songe a reussy.  
 
-    MELICE
+    MELICE.
 Que je suis estonnée⁎.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Il faut crier miracle.  
 
-    THELAME
+    THELAME.
 Monsieur ne croyez pas qu'en dépit de l'obstacle  
 Qu'oppose à mes ardeurs vostre avare courroux  
 Je vienne revolter vostre sang [244] contre vous  
 Ce coupable dessein, n'entre pas dans mon ame  
 J'en jure.  
 
-    CLEANTHE
+    CLEANTHE.
         Brisez là [245]. Je le sçay bien Thelame  
 Les traits de vostre main, m'ont fait voir vostre cœur⁎  
 Et passant jusqu'au mien ont tüé ma rigueur ,   
 Plus touché de respect que cette ingratte fille  
 Vous avez conservé l'honneur de ma famille.  
 
-    THELAME
+    THELAME.
 Moy Monsieur ! espargnez.  
 
-    CLEANTHE
+    CLEANTHE.
         Vostre discretion  
 Vous fait desavoüer cette bonne action.  
 Mais je suis esclaircy de toute cette histoire  
@@ -2484,10 +2484,10 @@ Scachez que vos vertus font que je vous honore,
 Et qu'avecque plaisir je permets que demain  
 Elle vous donne au Temple & le cœur & la main.  
 
-    THELAME
+    THELAME.
 Je ne puis recevoir plus d'honneur en ma vie.  
 
-    CLEANTHE
+    CLEANTHE.
 Je conduiray l'affaire au gré de vostre envie,  
 A la charge [246] pourtant, que vous ne direz point  
 Qu'à mon Aveuglement tant d'artifice⁎ est joinct,  
@@ -2498,24 +2498,24 @@ Et comment ils pourront enfin s'en démeller,
 Je commets⁎ ce secret à vostre confidence  
 Songez à le tenir sous la clef du silence.  
 
-    THELAME
+    THELAME.
 Que puissions-nous mourir, si nous le declarons.  
 
-    CLEANTHE
+    CLEANTHE.
 En jurez vous tous deux.  
 
-    THELAME & MELICE *ensemble.*
+    THELAME & MELICE *ensemble.*.
         Ouy nous vous en jurons.  < Fin du quatriesme Acte. > 
 
 
-## Acte V
+## Acte V.
 
 
-### Scène première
+### Scène première.
 Lidamas, Olimpe, Nerine.
 
 
-    LIDAMAS
+    LIDAMAS.
 J'aurois fait cette injure⁎ à l'objet⁎ que j'adore ?  
 Aprés tant de sermens, le croyez-vous encore ?  
 Faut-il incessamment vous les reïterer ?  
@@ -2548,26 +2548,26 @@ Respond, il te sied mal de craindre & de te taire
 Ta crainte & ton silence augmentent ma colere.   
 
 
-### Scène II
+### Scène II.
 Sylvestre, Lidamas, Olimpe, Nerine.
 
 
-    SYLVESTRE
+    SYLVESTRE.
 Monsieur promettez moy que vos mains en courroux,  
 Ne me chargeront pas d'une gresle de coups,  
 Et j'ose m'engager aprés cette promesse  
 De vous remettre bien avec vostre Maitresse⁎.  
 
-    LIDAMAS
+    LIDAMAS.
 Parle donc viste, & sois sans apprehension.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Madame auparavant soyez sa caution.  
 
-    OLIMPE
+    OLIMPE.
 Ne crains rien, je responds qu'il te tiendra parolle.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Le discours que j'ay fait n'est qu'une pure colle [248].  
 Qu'une poudre à soufler dans les débiles⁎ yeux,  
 Qu'un mensonge de ceux qu'on nomme officieux⁎  
@@ -2580,7 +2580,7 @@ Rende en le supplantant ses esperances vaines,
 D'un plein commandement m'a fait vous desservir  
 Vers [249] le plus digne objet⁎ qui vous pouvoit ravir⁎.  
 
-    LIDAMAS
+    LIDAMAS.
 Quoy le mauvais party [250] que tu m'as voulu faire  
 Est un trait⁎ envoyé de la part de mon pere ?  
 Il sçait que j'ayme Olimpe ? & que cette beauté  
@@ -2588,55 +2588,55 @@ Ne m'a point jusqu'icy fait voir de cruauté ?
 Quel ennemy couvert⁎ ? quelle bouche indiscrette ?  
 A pû luy découvrir une amour [251] si secrette ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Luy seul l'a descouverte, & luy seul desormais  
 S'il en a le dessein vous jouëra de bons traits⁎.  
 
-    LIDAMAS
+    LIDAMAS.
 Parle plus clairement, explique tes paroles.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Parce qu'on me fait taire à force de pistolles [252].  
 Vostre raisonnement vous fait-il soupçonner  
 Que je ne parle pas, lors qu'on m'en veut donner ?  
 
-    LIDAMAS
+    LIDAMAS.
 Sylvestre je t'entends⁎, prends cecy par avance.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Qui donne de l'argent, preste bien du silence,  
 Escoutez-moy parler ; je voy clair ?  
 
-    LIDAMAS
+    LIDAMAS.
         Je le croy.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Vostre pére, Monsieur, voit aussi clair que moy.  
 
-    LIDAMAS
+    LIDAMAS.
 Tu me veux abuser d'une autre menterie⁎.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Si je ments, jettez-vous dessus ma fripperie [253].  
 
-    OLIMPE
+    OLIMPE.
 Cleante verroit clair ! depuis quand justes Cieux ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Depuis que dans le monde il apporta des yeux,  
 Et que debarassé du ventre de sa mére,  
 Il vint avecque l'Air respirer la lumiere.  
 
-    OLIMPE
+    OLIMPE.
 Il n'est donc pas aveugle ?  
 
-    SYLVESTRE
+    SYLVESTRE.
         Et jamais ne le fut.  
 
-    LIDAMAS
+    LIDAMAS.
 Apprens nous de sa feinte & la cause & le but.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Un semblable recit est de trop longue haleine,  
 Vous l'entendrez pourtant n'en soyez pas en peine,  
 Je vous diray tantost d'un langage naif⁎  
@@ -2652,7 +2652,7 @@ Que vous n'ignoriez pas son feint aveuglement,
 Et que les libertez prises en sa presence  
 N'estoient que des essays d'user de patience .  
 
-    LIDAMAS
+    LIDAMAS.
 Blois ny le monde entier n'eut jamais ton pareil,  
 Charmé⁎ de ton esprit, j'approuve ton conseil,  
 Desja pour reüssir dedans cette entreprise  
@@ -2660,26 +2660,26 @@ Je n'ay besoin de rien que de ton entremise.
 J'imagine un moyen facile à pratiquer  
 Par qui sera moqué, qui pretend nous moquer.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Assurez-vous de moy, je vous donne parole  
 D'apporter tous mes soins à bien joüer⁎ mon rôle.  
 
-    LIDAMAS
+    LIDAMAS.
 Il suffit, en ce lieu sans plus nous arrester  
 Dans la chambre prochaine⁎ allons nous concerter.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Allez & trouvez bon qu'icy seul je demeure  
 Nostre piéce [256] en sera plus secrette & meilleure.  
 
-    LIDAMAS
+    LIDAMAS.
 Adieu, nous te laissons la chose estant ainsi.  
 Ton salaire est tout prest, mais sers nous bien aussi.  
 
 
-### Scène III
+### Scène III.
 
-    SYLVESTRE *seul*
+    SYLVESTRE *seul*.
 Par quel autre moyen détourner la tempeste  
 Qui menaçoit mon dos aussi bien que ma teste ?  
 Lidamas irrité m'eust accablé de coups,  
@@ -2705,35 +2705,35 @@ Estocader [260] du bras les passans dans la ruë , 
 Mon Maistre me deusse-t -il… il vient à petits pas.   
 
 
-### Scène IV
+### Scène IV.
 Cleanthe, Sylvestre.
 
 
-    CLEANTHE
+    CLEANTHE.
 N'ay-je pas entendu la voix de Lidamas.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Cela se peut, il sort.  
 
-    CLEANTHE
+    CLEANTHE.
         Avec celle que j'ayme ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Justement.  
 
-    CLEANTHE
+    CLEANTHE.
         Aucun d'eux ne sçait mon stratageme ?  
 
-    SYLVESTRE
+    SYLVESTRE.
 Je demeure confus à cét interrogat⁎  
 Il me frappe à l'honneur je vous le dis tout plat [261].  
 Il semble à vous ouyr, que je sois la gazette,  
 Mais pour vos interests j'ay la gueule [262] muette.  
 
-    CLEANTHE
+    CLEANTHE.
 Miroir des bons valets, & des vrays confidents.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Au reste Lidamas en tient droict la dedans.  
 Mais du fer asseré d'une si rude fléche  
 Que sa raison ne peut en reparer la bresche,  
@@ -2744,7 +2744,7 @@ A promis d'exercer ce criminel outrage,
 Monsieur avisez-vous [264], prevenez ce malheur  
 Et donnez quelque chose à sa jeune chaleur⁎.  
 
-    CLEANTHE
+    CLEANTHE.
 Ton conseil en cecy ne m'est pas necessaire,  
 J'ay desja resolu ce qu'il est bon de faire,  
 Mais sans me défier de ta discretion,  
@@ -2753,33 +2753,33 @@ Donc sans qu'à la sçavoir tu te rompes la teste,
 Va t'en tenir mon lict & ma toilette preste,  
 Ce livre cependant sera mon entretien.  
 
-    SYLVESTRE
+    SYLVESTRE.
 Je l'estimeray bon, si vous le goustez bien.  
 
-    CLEANTHE *assis vers une table.*
+    CLEANTHE *assis vers une table.*.
 La suitte du Menteur [265]. Lisons du premier acte.  
 Et faisons de ces vers une censure exacte.  
 (Il lit quelque vers de la suitte du menteur, Comedie de Monsieur Corneille.)
 
 
 
-### Scène V
+### Scène V.
 Lidamas, Cleanthe.
 
 
-    LIDAMAS
+    LIDAMAS.
 Quoy le livre à la main ?  
 
-    CLEANTHE
+    CLEANTHE.
         Ouy mon fils & j'avoüe  
 Que le Ciel en ses soings merite qu'on le louë,  
 Sylvestre de ma part vous est allé chercher  
 Et sa longueur passoit au poinct de me fascher.  
 
-    LIDAMAS
+    LIDAMAS.
 Que desirez vous donc de mon obeissance.  
 
-    CLEANTHE
+    CLEANTHE.
 Rien sinon que vous faire escrire ma despense.  
 Et dresser un memoire en qui soit contenu  
 L'Argent à mon valet donné par le menu,  
@@ -2788,15 +2788,15 @@ Tenez, cherchez du blanc dans ce livre de compte,
 Puis d'une main habille & d'un trait assuré,  
 Peignez⁎ y nettement ce que je dicteray.  
 
-    LIDAMAS
+    LIDAMAS.
 La rencontre⁎ est plaisante, il faut que je le die [266],  
 Vostre livre de compte est une Comedie !  
 
-    CLEANTHE
+    CLEANTHE.
 Vous me joüez⁎ mon fils, mais finissez ce jeu,  
 Qui vous sied assez mal, & me déplaist un peu.  
 
-    LIDAMAS *bas.*
+    LIDAMAS *bas.*.
 Qu'il dissimule bien, & qu'il abonde en ruses.  
 Monsieur si j'avois tort , j'en ferois mes excuses.  
 Mais que puisse le Ciel, ou l'Enfer en courroux,  
@@ -2810,19 +2810,19 @@ Et contre les censeurs defendu ce poëme.
 Il est intitulé la suitte du Menteur  
 Et sort du cabinet d'un excellent Autheur.  
 
-    CLEANTHE
+    CLEANTHE.
 Seroit-il bien possible ?  
 
-    LIDAMAS
+    LIDAMAS.
         Il est tres véritable.  
 
-    CLEANTHE
+    CLEANTHE.
 Qu'avec un tel valet, un Maistre est miserable⁎,  
 Ce coquin de Sylvestre à tous coups⁎ s'estourdit [270],  
 Et ne fait jamais bien les choses qu'on luy dit  
 Je veux compter à luy, puis le mettre à la porte.  
 
-    LIDAMAS
+    LIDAMAS.
 Moy l'accabler de coups auparavant qu'il sorte  
 Je suis icy venu pensant l'y rencontrer,  
 Mais le Ciel à mes yeux ne le veut pas montrer ,   
@@ -2831,24 +2831,24 @@ Je sçauray le reduire au terme de se plaindre,
 Il n'obtiendra de moy ny trêve ny cartier [271]  
 Et ne luy restera pas un seul os entier.  
 
-    CLEANTHE
+    CLEANTHE.
 Qu'a t'il fait qui merite une telle menace ?  
 
-    LIDAMAS
+    LIDAMAS.
 Une action, un trait⁎ d'insuportable audace,  
 Un rapport⁎ si perfide, un mensonge si noir  
 Et si bien coloré [272] que l'on n'y peut rien voir.  
 
-    CLEANTHE *à l'Escart.*
+    CLEANTHE *à l'Escart.*.
 Cét intrigue [273] incognu conduit par mon organe [274],  
 Resulte de la montre & de la Courtisane,  
 J'ay mieux esté servy que je ne l'esperois ;  
 Mais ne feignons pas moins que si je l'ignorois.  
 
-    LIDAMAS
+    LIDAMAS.
 Monsieur que dittes vous ? vous parlez ce me semble.  
 
-    CLEANTHE
+    CLEANTHE.
 J'accuse & je defends mon valet tout ensemble,  
 Tantost jusques à luy ma colere descend,  
 Puis je me ressouviens que c'est un innocent⁎  
@@ -2857,40 +2857,40 @@ Et qui croit obliger⁎ alors qu'il fait injure⁎.
 Ainsi vostre courroux se pourroit assouvir  
 Du Sang d'un Animal qui pensoit vous servir.  
 
-    LIDAMAS
+    LIDAMAS.
 C'est donc un Animal, bien cruel & bien traitre,  
 Qui poursuit & qui mort les enfans de son Maistre.  
 Certes si je le puis rencontrer où je vais,  
 Je l'empescheray bien de les mordre jamais.  
 
 
-### Scène VI
+### Scène VI.
 Olimpe, Cleanthe.
 
 
-    OLIMPE
+    OLIMPE.
 Hô Dieux ! je vay tomber, accourrez je vous prie.  
 Mon pied s'est enlassé dans la tapisserie .  
 
-    CLEANTHE
+    CLEANTHE.
 Je suis à vous Madame, & vous craignez en vain,  
 Qui donne bien le Cœur, peut bien prester la main.  
 
-    OLIMPE
+    OLIMPE.
 Monsieur, j'estois sans vous de secours despourveuë,  
 Donc les Cieux adoucis vous ont rendu la veüe ?  
 
-    CLEANTHE
+    CLEANTHE.
 N'en faites pas, Madame, un si bon jugement,  
 Je suis plus que jamais dedans l'Aveuglement.  
 
-    OLIMPE
+    OLIMPE.
 Comment doncques d'un pas aussi ferme qu'habille,  
 M'avez-vous fait trouver vostre presence utile ?  
 Certes nul ne pouvoit s'offrir plus à propos,  
 Et je croy qu'il faut voir pour estre si dispos⁎.  
 
-    CLEANTHE
+    CLEANTHE.
 Ah ! Madame, quittez cette vaine croyance,  
 Et pour le vray tout pur, laissez la vray-semblance.  
 Si j'ay paru si prompt à vous rendre un devoir,  
@@ -2900,60 +2900,60 @@ Un naturel instinct me conduit où vous estes.
 De ce sincére âveu concluez que vos yeux,  
 Sont encore des miens les Astres & les Dieux.  
 
-    OLIMPE
+    OLIMPE.
 Je puis apres le trait⁎ que vous venez de faire  
 Conclure encor qu'Amour vous guide & vous esclaire.  
 Et qu'en tous vos besoins, sensible & pourvoyant,  
 Quand il luy plaist d'Aveugle il vous rend clair-voyant.  
 
-    CLEANTHE *bas.*
+    CLEANTHE *bas.*.
 Ce discours m'est suspect. Je confesse Madame,  
 Que ce Dieu se declare en faveur de ma flame,  
 Aussi reconaist-on quel que soit son excez ,   
 Que mon cœur n'en ressent que d'honnestes accez.  
 
-    OLIMPE
+    OLIMPE.
 Doncques puis qu'envers moy vostre Amour [275] est si pure,  
 Tout interest à part, vangez moy d'une injure⁎ :  
 Un insolent m'a fait un affront signalé⁎.  
 
-    CLEANTHE
+    CLEANTHE.
 Quel qu'il soit autant vaut [276] qu'il vous soit immolé,  
 Son Nom ?  
 
-    OLIMPE
+    OLIMPE.
     C'est Lidamas.  
 
-    CLEANTHE
+    CLEANTHE.
     Lidamas !  
 
-    OLIMPE
+    OLIMPE.
         Ouy luy-mesme.  
 
-    CLEANTHE
+    CLEANTHE.
 Vous a fait un affront, charmant⁎ objet⁎ que j'ayme,  
 Oser se prendre à vous c'est s'attaquer à moy,  
 Mais apprenez m'en l'heure, & comment, & pourquoy ?  
 
-    OLIMPE
+    OLIMPE.
 Il m'a fait par priére accepter une montre…  
 Juste Ciel à mes yeux permets-tu qu'il se montre,  
 Il s'avance, le lasche, & marque son mespris  
 En mal traitant celuy par qui j'ay tout appris.   
 
 
-### Scène VII
+### Scène VII.
 Lidamas, tenant Sylvestre, Sylvestre, Cleanthe, Olimpe.
 
 
-    LIDAMAS
+    LIDAMAS.
 Fay bien l'espouventé.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Vous ne cessez de dire ,   
 Je réüssiray mieux que vous qui sçavez lire.  
 
-    LIDAMAS
+    LIDAMAS.
 Ah ! Madame au plus fort de mon cuisant soucy⁎,  
 Je me répute⁎ heureux de vous trouver icy,  
 Voyez cét imposteur⁎. Je veux que dessus l'heure  
@@ -2963,17 +2963,17 @@ Que je n'ay jamais eu que des respects [277] pour vous.
 Et s'il veut tout à fait appaiser ma colére,  
 Qu'il die [278] alors qu'il ment, quel esprit le suggére.  
 
-    CLEANTHE *bas*
+    CLEANTHE *bas*.
 Prends garde sur ta vie à ne me pas nommer.  
 
-    LIDAMAS
+    LIDAMAS.
 Veux tu par ton silence encor me diffamer,  
 Parle donc malheureux⁎, ou ma pitié lassée…  
 
-    OLIMPE
+    OLIMPE.
 Voulez-vous le contraindre à trahir sa pensée.  
 
-    LIDAMAS
+    LIDAMAS.
 Le perfide qu'il est par un motif couvert⁎,  
 Craint de desavoüer un rapport⁎ qui me perd.  
 Mais puisque par l'effet d'un respect qui le touche,  
@@ -2983,15 +2983,15 @@ Je m'en la vay chercher jusque dedans son sein.
 (Il feind de luy vouloir donner un coup de poignard. Cleanthe luy retient le bras.)
 
 
-    CLEANTHE
+    CLEANTHE.
 Arrestez, Lidamas, hé ! que pensez-vous faire ?  
 
-    LIDAMAS
+    LIDAMAS.
 Depuis quand dittes moy, voyez vous clair mon pére ?  
 Qu'en cette nouveauté, je me sens resjouy,          
 Et que je voy mon deüil⁎ bientost esvanoüy.  
 
-    CLEANTHE
+    CLEANTHE.
 Tout beau⁎, tout beau⁎ mon fils, moderez vostre joye,  
 C'est un abus⁎ à vous de croire que je voye,  
 Je n'ay quand j'ay retint [279] vostre bras & ce fer,  
@@ -3007,7 +3007,7 @@ Que vostre cœur aymoit Olimpe au dernier poinct,
 Que vous brusliez pour elle, & qu'elle mesme encore,  
 Avoit quelque pitié du feu qui vous devore.  
 
-    LIDAMAS
+    LIDAMAS.
 Sylvestre en ce rapport a dit la Verité,  
 Je ne le cele⁎ point Olimpe m'a dompté,  
 Et bien que cét aveu vous choque⁎ & vous irrite,  
@@ -3023,7 +3023,7 @@ Nostre geste a tasché d'en mettre au jour les flames,
 Vous le sçavez, Monsieur, tout s'est fait devant vous,  
 Et vos yeux s'ils parloient, le diroient mieux que nous.  
 
-    CLEANTHE
+    CLEANTHE.
 Vous me venez de faire un discours bien estrange [282] !  
 Olimpe qui m'ayma me néglige & me change [283],  
 Un fils que je croyois en vertu sans esgal,  
@@ -3037,7 +3037,7 @@ A la brutalité joindre la Raillerie ?
 Et d'un discours picquant, impie [284] & concerté,  
 Vous rire insolamment de mon infirmité ?  
 
-    LIDAMAS
+    LIDAMAS.
 A d'Autres desormais tenez un tel langage ;  
 Vous mettez hors de temps les feintes en usage,  
 Ne dissimulez plus, vostre Artifice⁎ est sçeu,      
@@ -3047,16 +3047,16 @@ Prouvent que nous estions instruits de vos finesses.
 Et si vous desiriez [287] que je m'explique mieux,  
 Olimpe est sans attraits, ainsi que vous sans yeux.  
 
-    CLEANTHE *à Sylvestre.*
+    CLEANTHE *à Sylvestre.*.
 Lasche, tu m'as trahy.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Pardonnez-moy, mon Maistre.  
 
-    LIDAMAS
+    LIDAMAS.
 La verité de soy se fait assez connaistre.  
 
-    CLEANTHE
+    CLEANTHE.
 Cependant je vous puis justement accuser  
 De promettre beaucoup, & de tout refuser.  
 Je devois posseder vostre corps & vostre Ame,  
@@ -3064,7 +3064,7 @@ Lidamas toutesfois en joüira, Madame.
 Mais dittes pour excuse en Proverbe commun [288],  
 Que le pere & le fils, ne sont reputez qu'un.  
 
-    OLIMPE
+    OLIMPE.
 Je diray bien plustost dedans la bienseance,  
 Que mon jugement seul a fait mon inconstance,  
 Sçachant que vous feigniez d'estre aveugle vers moy,  
@@ -3074,7 +3074,7 @@ Qu'afin de m'advertir d'éviter vostre veuë.
 Donc si mon procedé vous a mal satisfait,  
 Blasmez-vous seul d'un mal que vous vous estes fait.  
 
-    CLEANTHE
+    CLEANTHE.
 La response est adroitte & l'excuse plausible,  
 Pour ce nouvel amant tesmoignez-vous sensible.  
 Je me repute⁎ heureux qu'ayant à me quitter,  
@@ -3082,19 +3082,19 @@ Vos yeux dessus mon fils ayent daigné s'arrester,
 Apres ce sentiment de mon Amour esteinte [289],  
 Apprenez-moy de qui vous avez sçeu ma feinte ?  
 
-    SYLVESTRE *bas.*
+    SYLVESTRE *bas.*.
 Ils me vont declarer, je tremble de frayeur.   
 
 
-### Scène dernière
+### Scène dernière.
 Thelame, Melice, Nerine, Cleanthe, Olimpe, Lidamas, Sylvestre.
 
 
-    MELICE
+    MELICE.
 Le fils de Parménon est arrivé, Monsieur,  
 Et le voicy qui vient vous offrir son service.  
 
-    CLEANTHE
+    CLEANTHE.
 Ma fille il n'est plus temps, on sçait mon artifice⁎,  
 Mon faux aveuglement a perdu son credit  
 Et s'explique autrement que je ne l'eusse dit,  
@@ -3103,40 +3103,40 @@ Tirons de vrais plaisirs, de veritables causes,
 Disposez-vous tous quatre à vous donner demain,  
 Devant les saincts Autels le cœur avec la main.  
 
-    OLIMPE
+    OLIMPE.
 Quoy donc l'Aversion conceuë envers Thelame ? …  
 
-    CLEANTHE
+    CLEANTHE.
 Ainsi que vostre amour est dehors de mon Ame.  
 
-    OLIMPE
+    OLIMPE.
 Dittes-nous quel remede a pû vous en guerir.  
 
-    CLEANTHE
+    CLEANTHE.
 Son insigne vertu qu'on ne peut trop cherir,  
 Mais vous, dittes comment ma feinte est reconnuë.  
 
-    LIDAMAS
+    LIDAMAS.
 Nous en ferons ailleurs l'histoire toute nuë,  
 Qui vous obligera d'avouer en l'oyant,  
 Que nous avons joüé⁎ [290], l'Aveugle Clair-voyant.  
 
-    CLEANTHE
+    CLEANTHE.
 Entrons.  
 
-    SYLVESTRE
+    SYLVESTRE.
         Toubeau⁎ Monsieur, où courrez-vous si viste  
 Vous arriverez bien, où vous irez au giste,  
 Avez-vous oublié mon Amour copieux ?  
 
-    CLEANTHE *à Olimpe.*
+    CLEANTHE *à Olimpe.*.
 Vostre suivante a pris mon valet par les yeux,  
 Madame consentez à ce beau mariage.  
 
-    OLIMPE
+    OLIMPE.
 J'y consens.  
 
-    SYLVESTRE *à Nerine.*
+    SYLVESTRE *à Nerine.*.
         J'auray soing de la paix du Mesnage,  
 Et sans que je t'oblige à payer ma façon [291],  
 J'essairay dés demain à [292] te faire un garçon.  < Fin >
@@ -3151,7 +3151,7 @@ Achevé d'imprimer pour la premiere fois le 2. Mars 1650.
 Les exemplaires ont esté fournis.
 
 
-# Lexique
+# Lexique.
 
 Pour définir le sens des mots, nous avons utilisé les trois dictionnaires de la fin du XVII*e* siècle, désignés par les lettres suivantes :
  * – A : Dictionnaire de l'Académie française, 1*ère* édition, 1694.
@@ -3163,13 +3163,13 @@ Nous nous sommes également aidés du *Lexique de la langue du XVII*e* siècle* 
 Nous indiquons en gras les occurrences portant un astérisque dans le texte.Abord« Aproche, arrivée (…) éviter l'abord des galans. *Mol. Bour.* (…)  » (R)V. 184, 580, 713, 1078, 1650.Abus« Signifie aussi, Erreur, tromperie. » (F)V. 499, 1592.Adresse, addresse« Se dit figurément de la subtilité de l'esprit. Il faut beaucoup d'*adresse* pour conduire une piece de theatre » (F)V. 710.« Artifice, ruse, finesse. *L'avis de Laonice est sans doute une adresse* (Corn.) » (Gaston Cayrou)V. 117, 305, 485, 1197, 1635.« Se dit aussi de la suscription des lettres ordinaires, qui marque le lieu, ou la personne, où on les veut faire tenir. » (F)V. 1135.Allarmes« Se dit figurément de toutes sortes d'appréhensions bien ou mal fondées » (F)V. 1325, 1595.Amasser« Signifie aussi, Lever de terre ce qui étoit tombé. *Amassez* vostre mouchoir. … On se sert aussi en ce sens du mot de *Ramasser.* » (F)Didascalie avant le v. 1171, v. 1175.Amitié« Se dit quelquefois pour amour. » (A)V. 637, 1220, 1221.Amorce« Se dit figurément en Morale des appâts qui attirent, & persuadent l'esprit. » (F)V. 501.Appas(Appast) : « Il se prend figurement pour tout ce qui attire, qui engage à faire quelque chose. » (A)V. 1048.« Au pluriel, se dit particulièrement en Poësie … en parlant des attraits & de la beauté des femmes. » (A)V. 152, 964, 1104.Artifice« Se prend plus ordinairement pour Ruse, deguisement, fraude. » (A)V. 157, 302, 1308, 1633, 1664.Aspect« Veuë, presence de quelqu'un, de quelque chose. » (A)V. 562, 1614.Aventure, avanture« Accident, ou chose qui est arrivée » (F)V. 317.« Se dit aussi de ces accidens surprenants & extraordinaires qui arrivent quelquefois dans le monde, & qui sont souvent de pures imaginations. Il y a des gens qui sont sujets à trouver des *adventures*. » (F)V. 154, 317.« Signifie aussi, Ce qui est au pouvoir du hasard, de la fortune. Cet homme attend pour se marier quelque bonne *adventure*, qu'il trouve par hazard quelque bon parti. » (F)V. 1173.Aveu« Reconnoissance, confession. Il a été condamné de son propre *adveu*. » (F)V. 552, 1607, 1626.« Signifie aussi, Protection, ordre ou consentement donné. Il n'a rien fait que par *l'adveu* du Roy, & par son ordre. ce fils ne fait aucune action sans l'*adveu* de son père. » (F)V. 17, 391.Avis« Opinion, Sentiment. *Ce n'est pas mon advis. à mon advis. je suivray vostre advis. dire son advis.* » (A)V. 1395.« Il se prend aussi pour Conseil. *Prendre advis de quelqu'un, je trouve par advis que &c. ne rien faire que par bon advis. advis de parents.* » (A)V. 901.Barbare« Signifie aussi seulement, Cruel, impitoyable, qui n'écoute point la pitié ni la raison. Un pere est *barbare*, quand il n'a point de tendresse pour ses enfants. » (F)V. 758, 1221.Broüiller« Signifie encore, Gaster du papier en faisant des écritures inutiles, ou de meschants livres. » (F)V. 796.Caractere / Charactere« Se dit aussi de la manière d'écrire. … ce scribe a un fort bon *caractere*, fort lisible. Je connois son *caractere*, son escriture. » (F)V. 809.« Se dit encore des qualités invisibles qu'on respecte en ceux qui ont receu des ordres, des charges & des dignités. Quelque pauvre que soit un Prestre, il faut honorer son *caractere*, c'est un *caractere* indelebile. » (F)V. 1421.Cavalier« Signifie aussi, un Gentilhomme qui porte l'espée, & qui est habillé en homme de guerre. C'est un brave Cavalier, un honneste cavalier. » (F)Liste des acteurs, v. 79.Celebre« Solennel. Fête célébre. » (R)V. 812.Celer« Tenir quelque chose cachée, secrette, dissimuler. Cet accusé a *celé* la vérité dans son interrogatoire. » (F)V. 170, 244, 1606.Chagrine« Mélancolique, triste, de fascheuse, de mauvaise humeur » (A)V. 114. Chaleur« Est aussi la propre substance du feu, en tant qu'il y en a plusieurs atomes ou parties ensemble qui se répandent aux environs pour causer le sentiment de *chaleur*. … On a crû que les grandes *chaleurs* de la Zone Torride la rendoient inhabitable. » (F)V. 580.« Se dit aussi des passions passageres qui viennent par un prompt mouvement, ou qui sont attribuées à l'âge, ou au temperamment. … c'est la *chaleur* de la jeunesse qui luy a fait commettre cette faute. ce vieillard n'est pas dangereux, toutes ses *chaleurs* sont passées. » (F)V. 1456. Charmant« Qui plaist extraordinairement, qui ravit en admiration » (F). (Cet adjectif a un sens beaucoup plus fort au XVII*e* siècle que dans la langue actuelle, voir le mot *charme*).V. 147, 396, 600, 1267, 1560.Charme« Se dit figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration. La Poësie a des *charmes* qui transportent les esprits. Cette beauté a des *charmes*, des attraits qui asservissent tous les cœurs. » (F)*N.B. : Charme* a un sens beaucoup plus fort au XVII*e* siècle qu'en français moderne puisque, comme le précise Gaston Cayrou, il indique encore au sens figuré « l'idée d'un effet ensorceleur, d'une fascination » qui lui vient de son sens étymologique : « Puissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature » (F). Gaston Cayrou ajoute également qu'« au sens d'attraits physiques, les " charmes " se distinguent des " appas " en ce qu'ils désignent toujours, selon Ménage (*Observ. s. l. Lang. fr.*, 1672), des " beautés qui agissent par une vertu occulte et magique " ».V. 85, 592, 979, 1326.CharmerCe mot a déjà le sens de « plaire extremement, ravir » (A), mais comme l'indique Gaston Cayrou, « toujours avec l'idée d'un agrément fascinateur », idée qui lui vient de son sens propre où il signifie « Faire quelque effet merveilleux par la puissance des charmes ou du Demon. » (F)V. 93, 1404. Choquer« Aller à l'encontre de »V. 731, 1166.« Signifie figurément, Quereller, offencer. Ce soldat est un querelleur qui choque tout le monde » (F)V. 1607. Cœur« Signifie quelquefois, Vigueur, force, courage, intrepidité. Cet homme a un *cœur* de lion, n'a rien de bas dans le *cœur*, a le *cœur* haut, noble. … la naissance hausse le *cœur* » (F)V. 39, 288, 671, 1155, 1186.« Se dit figurément en choses spirituelles & morales, & signifie l'ame, & ses principales fonctions, parce que quelques Medecins, & entre autres Fernel, ont crû que les principales parties de nôtre esprit residoient au *cœur*, comme l'entendement, la volonté, la memoire. » (F), « signifie aussi Pensée. *Il me vint au cœur que cela arriveroit. Dieu sonde les cœurs.… vous lisez dans mon cœur.* » (A)V. 563, 634, 704, 1291, 1422.« Se dit aussi des passions de l'ame. … la penitence demande un *cœur* contrit …. l'endurcissement du *cœur* est une grande marque de reprobation. » (F)V. 1222, 1434.« Se dit particulierement de l'affection, de l'amitié, de l'amour, de la tendresse. … Les amants s'appellent mon *cœur*, mon amour, mon petit *cœur* gauche. » (F)V. 4, 63, 84, 93, 110, 142, 316, 380, 404, 440, 456, 468, 516, 541, 548, 556, 568, 584, 624, 666, 677, 758, 945, 952, 998, 1039, 1192, 1246, 1304, 1328, 1530, 1554, 1602, 1670.Commerce« Se dit aussi de la correspondance, de l'intelligence qui est entre les particuliers, soit pour affaires, soit pour des estudes, ou simplement pour entrenir l'amitié. … ces amis ont un *commerce* d'esprit, d'amitié ensemble. » (F)V. 932.Commettre« Signifie aussi, Confier quelque chose à la prudence, à la fidélité de quelqu'un. » (F)V. 1313.Confondre« Troubler, mettre en desordre, étonner, surprendre tout à fait, jetter dans le trouble. Toute notre joie est perduë, & notre raison confonduë. *Voi. Poe.* Voila qui me confond. *Mol.*  » (R)V. 581.Coup« Signifie aussi, Outrage, offense qui se fait à quelqu'un en le frappant. Les *coups* de baston sont des affronts qui ne se pardonnent point. … On chastie les valets à *coups* d'estrivieres, par des coups de pied au cul. » (F)V. 660, 1348, 1419, 1500, didascalie après le v. 1586.« Se dit aussi des actions heroïques, hardies & extraordinaires, soit en bien, soit en mal. Il se fit de beaux *coups* de lance en cette bataille, en ce tournoy. La prise de la Rochelle fut un *coup* d'Estat. » (F)V. 338.« Se dit figurément de ces afflictions imprevuës qui sont comme des traits qui nous percent le cœur. La nouvelle de la mort de sa femme fut un *coup* mortel pour luy. Un amant dit aussi, qu'il a receu un *coup* mortel des yeux de sa maistresse. » (F). « *Coups*. Blessure amoureuse que font de beaux yeux, blessure que fait la langue en médisant. … Atteintes des passions. Mortels déplaisirs je ne crains point vos coups. *Voi poës*. Vos regards sont mortels, leurs coups sont redoutables. *La Suze. Poës*. L'amour me fait sentir ses plus funestes coups. *Rac*. » (R)V. 144, 971, 1087.« Fois.  (…) Baiser encore un coup. *Abl.*(…)  » (R)V. 259, 999.« Tout d'un coup. adverbial. Tout à coup *i.e.* « Soudainement, tout en un moment. » , tout en une fois. *Ce mal m'a pris tout d'un coup. il gagne mille escus tout d'un coup*. » (A)V. 175.« A tous coups. adverb. A tout propos, souvent. Il vient à tous coups me quereller. il tomboit à tous coups. » (A)V. 1497.Coutre« Grosse plaque de fer tranchante attachée à un des costés de la charruë pour fendre & verser la terre. Il differe du soc, qui est une autre grosse piece de fer pointu qui commence l'ouverture de la terre. Les Poëtes Bucoliques se servent souvent de cette épithete, Les *coutres* trenchants. » (F)V. 754.Couvert(e) / Couvrir« Il se dit aussi pour signifier grande quantité de quelque chose qu'on met sur une autre. *Couvrir un habit d'or & d'argent, … couvrir une table de pistoles.* » (A)V. 750.« On dit vulgairement, *Couvrir le visage, la joüe de quelqu'un*, pour dire, Luy donner un soufflet. » (A)V. 414.« On dit que *Le ciel*, que *le temps se couvre*, pour dire, qu'il se broüille, s'obscurcit par des nuages. » (A)V. 48.« *Couvert*, sign. aussi, Dissimulé, caché. *Un homme couvert. haine couverte. ennemi couvert.* » (A)V. 1033, 1369, 1581.Crayon« Signifie aussi les portraits & desseins qu'on fait avec le crayon. Les *crayons* de du Montier, de Nanteuil sont fort estimez. » (F)V. 52.« Signifie aussi une ébauche, un portrait imparfait de quelque chose. … On dit figurément, que l'homme est un foible *crayon* de la Divinité, pour dire, qu'on en voit en luy quelques traits. » (F)V. 570.Débiles« Qui n'a pas la force qu'il doit avoir naturellement & ordinairement. » (F)V. 1355.Demeure« Retard, délai » (Lexique de Gaston Cayrou)V. 43, 773.DeplorableFuretière donne exclusivement le sens de « Qui merite d'être pleuré, qui attriste »V. 69, 657.Deüil / Duëil« Douleur qu'on sent dans le cœur pour quelque perte ou accident, ou la mort de quelque personne chere. » (F)V. 27, 1590.Dispos« Qui est agile, leger, qui se porte bien. … Les danseurs de corde, les sauteurs et les voltigeurs doivent estre fort dispos de leur corps. » (F)V. 1538.Ennuis« ENNUY. … Fascherie, chagrin, deplaisir, souci. » (A)V. 537, 683, 1144.Emanciper (s')« Signifie aussi, Prendre un peu trop de liberté en quelque chose que ce soit. Il ne faut pas *s'émanciper* à juger d'une affaire, qu'on en connoisse le fonds. Vous vous *émancipez* beaucoup, de sortir aprés avoir été si malade. » (F)V. 209.Entendre« Ouïr, escouter. » (F)Epître p. 2, v. 15, 285, 538, 667, 1053, 1060, 1390, 1440, 1491.« Se dit figurément en choses spirituelles, & signifie, Comprendre, penetrer dans le sens de celuy qui parle ou qui escrit. Cet homme *entend* l'Algebre, *entend* l'Hebreu. »V. 1377.Estonnement« Epouvante, sorte de surprise étonnante » (R), « Il signifie quelquefois, Admiration. » (A)V. 34.Estonner« Causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. On s'*estonne* de tous les accidents extraordinaires qui arrivent dans le monde. Un Philosophe Chrestien doit s'*estonner* à tout moment des merveilles de la grace & de la nature. Un criminel s'*estonne* à la veuë des Juges, des supplices, de la mort. » (F)V. 1285, 1337.« Se dit aussi des choses qui sont assez ordinaires & peu considerables. Je m'*estonne* de ce qu'on a laissé ce crime impuni. Je m'*estonne* de ce qu'il est si longtemps sans me venir voir, sans m'escrire. » (F)V. 1175.Falot« Lanterne au bout d'un bâton, ou d'un grand manche de bois. » (R)V. 1013.Fascher, fâcher« Offenser, mettre en colere, deplaire. » (A)V. 936, 1470.« Causer du deplaisir. Sa mort m'a extremement fasché. » (A)Épître p. 3, v. 315, 985.Flatter, flater« Signifie aussi, Excuser par complaisance les defauts qui sont en quelqu'un. Les vices croissent, parce qu'on les *flatte*. » (F)V. 1208.« Signifie encore Deguiser une verité qui seroit desagreable à celuy qui y est interessé, luy donner meilleure opinion d'une chose qu'il n'en doit avoir. … on *flatte* ce jeune homme de l'esperance de luy faire épouser cette fille, mais il n'y reüssira pas. » (F)V. 389.« Se dit figurément en choses spirituelles. … *Flatter* son imagination, c'est la repaistre de chimeres agreables. Je ne trouve rien qui *flatte* mon esprit en ce gros livre. » (F)V. 923.Fortune« Ce qui arrive par hasard, qui est fortuit & impreveu. Il faut estre égal dans la bonne & dans la mauvaise *fortune*. … plusieurs *Favoris* ont esté le jouët de la *fortune*. » (F)Épître p. 2, v. 46, 714.« Signifie aussi, l'establissement, le credit, les biens qu'on a acquis par son merite, ou par hasard. Cet homme fera *fortune*, poussera bien loin sa *fortune* …. heureux celuy qui ne change point de *fortune*. sa richesse est une *fortune* du jeu. » (F)Épître p. 3, v. 226.Fourbe« Tromperie, desguisement de la vérité avec adresse. Les honnestes gens sont ennemis de la *fourbe*. » (F).V. 256, 829, 858, 1311.Fourber« Tromper adroitement, finement. Ceux qui agissent avec sincérité, sont ceux qu'on *fourbe* le plus aisément. » (F)V. 480.Foy« C'est une vertu Téologale. Consentement aux véritez révélées. Religion. » (R)V. 1100.« Fidélité. Garder sa foi. Il y a peu de foi dans le monde. » (R)V. 269, 1023.Frivole« Vain, & léger, Qui n'a nulle solidité. » (A)V. 13,193, 587.FurieuxCe mot s'emploie aussi bien comme adjectif que comme substantif au XVII*e* siècle. En tant que nom commun il signifie « Celuy qui est en furie. » (A)V. 456, 660.Galantiser« Courtiser les Dames. » (F)V. 12.Genereux« Qui a l'ame grande & noble, & qui prefere l'honneur à tout autre interest. Auguste fit une action *genereuse* en pardonnant à ses ennemis. » (F)V. 398, 1160.Gloire« Honneur, loüange, estime, reputation qui procede du merite d'une personne, de l'excellence de ses actions ou de ses ouvrages. » (A)V. 1002.« Se prend souvent en mauvaise part, & signifie, Orgueil, sotte vanité. … *Vaine gloire*, Se prend particulierement pour le sentiment trop avantageux de soy-mesme que la vanité inspire. » (A)V. 549.« Signifie aussi, La beatitude dont on joüit dans le Paradis » (A)V. 98.Hymen ou Hymenée« Mariage. Il n'a d'usage qu'en Poësie » (A)V. 19, 24, 474, 766, 772, 812, 983.Imbecillité« Foiblesse, se dit du corps & de l'esprit. L'*imbecillité* de l'âge & du sexe attire la compassion des plus fiers tyrans. la bonté de Dieu a égard à *l'imbecillité* de nostre nature. » (F)V. 1067.Imposer« Signifie aussi, Charger, assujettir à quelque peine, fatigue, ou despense. Il est fascheux de nous voir *imposer* un joug que n'ont point porté nos peres. c'est au vainqueur à *imposer* des loix, des conditions. la nature nous a *imposé* la necessité de mourir. » (F)V. 32, 90, 730.« Signifie encore, Tromper, dire une fausseté. Cet Advocat *impose* souvent, & desguise la verité. » (F)V. 1487.Imposteur« Trompeur, affronteur, calomniateur. » (F)V. 1571.Impostur« Tromperie, mensonge, calomnie. Ce tiltre fait voir clairement l'*imposture* de la partie adverse, & que son Advocat n'a dit que des *impostures*. » (F)V. 153, 554, 833, 1085, 1270, 1333.Indiscret, ette« Celuy qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait. … un *indiscret* se fait souvent de grandes affaires par quelque parole qu'il a laschée mal à propos. » (F)V. 221, 433, 455, 1107, 1310.« Se dit plus particulièrement de celuy qui ne sçait pas garder un secret. » (F)V. 1369.Industrie« Adresse de faire reüssir quelque chose, quelque dessein » (F)V. 1281, 1397.Injure« Parole qu'on dit pour offenser quelqu'un, en luy reprochant quelque defaut, ou quelque vice vray ou faux. » (F)V. 553.« Se dit aussi des affronts, des torts & dommages qu'on fait à une personne par voyes de fait. On fait *injure* à un Officier, quand on ne le fait pas monter à la place vacante d'un superieur. » (F)V. 1317, 1520, 1556.Innocent« Se dit aussi relativement à quelque crime dont on est accusé. On a descouvert la calomnie, il s'est trouvé *innocent*. » (F)V. 1572.« Se dit aussi de celuy qui est simple, qui a peu de raison, & qui est aussi idiot qu'un jeune enfant. » (F)V. 1518, 1601.Interrogat« Question, demande dont on attend response. » (F)V. 1443.Jouer« On dit qu'un homme a *joué* piece à un autre, qu'il lui a *joué* quelque tour, pour dire, qu'il luy a fait quelque affront, quelque niche, quelque supercherie. … On dit aussi qu'on *jouë* quelqu'un, lorsqu'on le fait aller & venir, qu'on le trompe, qu'on l'amuse de belles paroles & promesses » (F)V. 176, 714, 1309, 1372, 1481, 1678.« Au théâtre, on dit qu'on *jouë* un Poëme Dramatique, pour dire qu'on represente une Tragedie, une Comedie, une Pastoralle. » (F)V. 1678.« Et on dit qu'un homme *jouë* la Comedie, pour dire, qu'il est Comedien de profession. On dit en ce sens, qu'il *jouë* bien son rolle, pour dire qu'il fait bien l'amant, le pere ou autre chose » (F)V. 413, 1410.Jurement« Affirmation qu'on fait d'une chose dont on prend Dieu à tesmoin. » (F)V. 263.LamentableFuretière donne exclusivement le sens de « Qui merite d'estre plaint, ou pleuré, qui excite à la compassion. »V. 74, 333.Maitresse, maistresse« Celle qui a des domestiques. » (R)V. 1061, 1075.« Se dit des filles & des femmes qui sont recherchées en mariage, ou simplement aimées de quelqu'un. » (A)V. 1198, 1350.Malheureux« Se dit aussi des miserables qui sont sur la terre, qui souffrent toutes les incommoditez, les necessitez de la vie » (F)V. 1115« Signifie aussi, Meschant, scelerat » (F)V. 1339, 1579.Malin« Se dit aussi des choses inanimées qui sont nuisibles. Cette peste, cette sterilité vient de quelque maligne influence. Saturne et Mars sont des astres malins. » (F)V. 125.« Enclin à faire le mal. … se dit aussi des passions & des mouvements du cœur. Corneille a fait dire à Sabine dans les Horaces : “Et si j'ay ressenti dans ses destins contraires / Quelque *maligne* joye en faveur de mes freres.” » (F)V. 64.Menterie« Allegation de quelque chose fausse que l'on veut faire passer pour vraye. La *menterie* est le vice des valets & du bas peuple. » (F)V. 1381.Miserable« Qui est dans la douleur, … dans l'affliction …. Il est *miserable* d'avoir perdu sa femme. Un *miserable* amant qui languit dans ses fers. » (F)V. 1496.Mouvement« Pensée, sentiment. Tout ce qui touche & meut le cœur. (…) Il n'a aucun mouvement sur cela. Il ne souhaite pas sa mort par aucun mouvement de haine. *Pas. l.7.* » (R)V. 935, 1151.Naissance« Sign. aussi, Extraction. » (A)Épître p. 3, v. 449.« Mis absolument signifie quelquefois, Noblesse. On doit cela à sa naissance. il a de la naissance par dessus vous. il a de la naissance. c'est un honneste homme, mais il n'a point de naissance. c'est un homme sans naissance. » (A)V. 1331.Naif / Naïve« Vray, sincere, ressemblant » (F), « Naturel » (R)V. 485, 1391.Naïveté« Il se prend aussi pour Cette grace & cette simplicité naturelle avec laquelle une chose est exprimée, ou représentée selon la verité & la vray-semblance. » (A)V. 475.Objet« Signifie aussi ce qu'on regarde, ou ce qu'on se représente » (F)V. 52, 1278.« Se dit quelquefois seulement de la fin. … C'est l'*objet* ou le but où tendent tous mes désirs. » (F)V. 383.« Se dit aussi poëtiquement des belles personnes qui donnent de l'amour. C'est un bel *objet*, un *objet* charmant. » (F)V. 147, 500, 560, 667, 907, 1008, 1092, 1181, 1317, 1364, 1560.Obliger« Contraindre, engager par une sorte de devoir, ou de bien-séance. Forcer à faire, ou à ne pas faire. » (R)V. 84, 192, 865, 1105, 1138, 1677, 1685.« Faire plaisir, rendre un bon ofice. (…) Il faut essaïer d'obliger les personnes de qualité. *Memoires de M. le Duc de la Roche-Foucaut*. (R)V. 991, 1520.« *S'obliger*. S'engager par une sorte de devoir, ou de nécessité. Je m'oblige à faire tout ce qu'il vous plaira. Il s'est obligé à païer pour son ami. » (R)V. 605.«  *Obligé, obligée, adj.* Qui a reçu un bon ofice qui a obligation à une personne parce qu'il en a reçu quelque plaisir. Voilà un beau commencement, les juges vous seront bien obligez. *Pasc. l.8*. (…) L'Abesse lui fait réponce qu'elle & ses filles se sentent infinîment obligées de ses bontez. *Patru 5. plaidoié* » (R)Épître p. 3, v. 619.Offense, offence« Faute, péché. Mes ofenses passées me tiennent dans une agitation continuelle, *Port-Roial, Pseaumes*. Expier ses ofenses, *Pascal, livre *x**. Mon Dieu, pardonnez-nous nos ofenses, *Port-Roial*. Mon Dieu, purifiez-moi de mes ofenses, *Port-Roial* » (R)V. 1045.« Injure, tort, sorte d'afront. Prendre vengence d'une ofense qu'on a reçuë, *Le Comte de Bussi*. » (R)V. 669.Officieux« Prompt à rendre service » (F)V. 1356.Parasol« Toile cirée, coupée en rond, & soutenuë sur de petits morceaux d'osier & sur une baguette tournée au bout de laquelle il y a un petit baton tourné pour alonger le parasol dont l'usage est de se défendre du Soleil & de la pluïe en le portant au-dessus de la tête. Il n'y a que les femmes qui portent des parasols, & même elles n'en portent qu'au printemps, l'été & en automne. » (R)V. 920.Peindre« Mesler & employer les couleurs avec un tel art, qu'elles representent un objet quel qu'il soit. » (F)V. 335, 969, 970, 1298, 1299.« Signifie aussi simplement, Escrire avec la plume. » (F)V. 796, 1478.Pervers« Meschant, corrompu. » (F)V. 307.Picquer, piquer« Ofencer, irriter par quelque action, ou quelques paroles. Son procedé me pique. » (R)V. 673, 1097.Picquant« Ofençant, choquant. » (R)V. 1629.PinceauPeut avoir, au XVII*e* siècle, le sens de « plume pour escrire » (voir « peindre » )V. 808.Prochaine« Qui n'est pas loin. Il se dit du temps et du lieu. Maison *prochaine* » (F)V. 682, 874, 974, 1412.Pudique« Chaste & modeste dans les mœurs, dans les actions & dans les discours » (A), « Chaste, pur, innocent & honnête. » (R)V. 442,751.Rapport, raport« Signifie aussi, Recit, tesmoignage. *Fidelle rapport. faux rapport*. » (A)V. 643, 1254, 1605.« Se prend quelquefois en mauvaise part, & signifie Discours malin fait à dessein de nuire à quelqu'un. On ne sçauroit vivre dans cette maison, ce ne sont que rapports, le Maistre, la Maistresse se plaisent trop aux rapports de certains flatteurs qui y sont. » (A)V. 205, 1329, 1509, 1582.« Veut dire aussi Convenance, ressemblance, conformité. *La langue Italienne a un grand rapport à la langue latine*. » (A)V. 891.Ravir« Emporter quelque chose violemment » (F)V. 801.« Se dit aussi des passions violentes qui troublent agreablement l'esprit & suspendent les fonctions des sens, particulierement de la joye, de l'estonnement et de l'admiration. … La beauté *ravit* les cœurs et la liberté. On est *ravi* de joye quand on possede ce qu'on aime. » (F)V. 792, 980, 1364.Remarquer« Observer & considérer ce qui a quelque chose de singulier, d'extraordinaire, de notable. Le Soleil & la Lune se font *remarquer* dans le ciel, les Rois sur la terre, les Sçavants dans les Escoles. On dit encore en ce sens, qu'un brave s'est fait *remarquer* en une telle occasion, pour dire, qu'il s'est fait distinguer des autres par une bravoure extraordinaire. » (F)V. 34.« Signifie aussi, Appercevoir, reconnoistre de petites choses » (F)V. 1343.« Signifie aussi, Noter & faire réflexion sur quelque chose qui nous pourra servir dans la suite » (F)V. 1336.Rencontre« Hazard, avanture, par laquelle on trouve fortuitement une personne, ou une chose. » (A)V. 423, 1337.« On l'employe quelquefois figur. Pour dire, Une pointe d'esprit, un bon mot. *Plaisante rencontre. … il n'est pas fort subtil en ses rencontres.* » (A)V. 1479.« Signifie quelquefois, Occasion. Je vous serviray dans la rencontre, en toute rencontre. » (A)V. 897, 942.Reputer, réputer« Avoir une certaine estime ou pensée de quelque chose. Les Espagnols et les Italiens sont *reputez* sages & graves ; ils *reputent* les français pour estourdis. Cette maison est *reputee* noble. » (F)V. 1646.« Signifie aussi, Croire, presumer. Les enfants nez pendant le mariage sont reputez estre du mary. » (F)V. 1570, 1657.Serviteur« On appelle parmi le peuple *serviteur*, un garçon qui recherche une fille en mariage ; & se dit même de plusieurs qui ont la même pretention. » (F)V. 424, 645.« On se sert aussi de cette formule pour clorre toutes les lettres, ou pour faire des compliments & des adieux. Je suis vôtre tres-humble, tres-affectionné, & tres-obeïssant *serviteur*. » (F)Épître p. 3.Signaler« Rendre remarquable. Il a signalé son courage, sa valeur dans cette occasion. » (A)V. 39.Signalé« Il est aussi adj. & sign. Remarquable. … *un crime, un vol signalé*. » (A)V. 1557.Soin, soings« Diligence qu'on apporte à faire reüssir une chose, à la garder & à la conserver, à la perfectionner. » (F)V. 287, 434, 524, 543, 868, 1121, 1244, 1410, 1684.« Se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l'ame. Le mauvais état de sa fortune luy donne bien des *soins* et du chagrin. Vous luy parlez de s'aller divertir, il a des *soins* plus importans qui l'agitent. » (F)V. 143, 652, 1035.« Est aussi l'attache particulière qu'on a auprés d'un maistre, ou d'une maistresse, pour les servir, ou leur plaire. Ce valet a eu grand *soin* de son maistre pendant sa maladie ; son Medecin luy a rendu beaucoup de *soins*, d'assiduitez. Soupirs, devoirs, petits *soins* en amour, tout est langage. » (F)V. 10, 603, 1468.Soucy, souci« Chagrin, inquietude d'esprit, peut-être à cause qu'il fait devenir jaune » (F)V. 184, 531, 960, 1569.Souffrir« Se dit … en parlant de ce qui desplaist, de ce qui fait quelque peine aux sens , ou à l'esprit. … En ce sens on dit par civilité, *Souffrez* que je vous advertisse, pour dire, Ayez agreable, permettez que je fasse telle chose. Je ne puis vous *souffrir* descouvert. Il n'y a pas de plaisir de *souffrir* une rebuffade. » (F)V. 459, 370, 681.« Se dit aussi en Morale, des afflictions de l'esprit, des émotions de l'ame par les passions. On *souffre* beaucoup quand on perd ce qu'on aime tendrement. » (F)V. 1609.« Signifie aussi, Ne se pas opposer à une chose, y consentir tacitement. … Il faut bien *souffrir* ce qu'on ne peut pas empescher. » (F)V. 202, 214, 564, 573, 698, 734.Succez« Issuë d'une affaire. Il se dit en bonne et en mauvaise part. Alexandre, dans toutes ses entreprises eut d'heureux *succés*. Pompée en la bataille de Pharsale eut un *succés* malheureux. … Il faut voir quel sera le *succés* de cette affaire, de cette négociation. » (F)V. 333, 496, 745, 1359.Supposer« Signifie aussi, Mettre une chose à la place d'une autre par fraude & tromperie. … J'avois fait prix avec ce Marchand d'une telle estoffe, dés que j'ay tourné les yeux, il m'en a *supposé* une autre. » (F)V. 930.« Signifie aussi, Faire une fausse allegation ou accusation » (F)V. 192.Surmonter« Son plus grand usage est au figuré ; & alors il signifie, Vaincre, dompter. Surmonter ses ennemis. se surmonter soy-mesme. surmonter sa colere, sa haine, son amour. » (A)V. 222, 642.Tenir (en)« Être pris, être dupé, être atrapé » (R)V. 607, 1013.Timide« Foible, peureux, qui craint tout. … On dit qu'un homme est *timide*, quand il est lasche & poltron ou honteux » (F)V. 1337.Toubeau (également orthographié tout beau au v. 1591)« Tout beau, tout beau, c'est à dire, Arrestez-vous, taisez vous. Tout beau, Monsieur, demeurons en là. » (F)V. 553, 1591, 1679.Traits« Fleche, dard, qui se tire avec un arc ou une arbaleste. … On dit, *Les traits de l'Amour*, Parce que les Poëtes & les peintres ont accoustumé de representer l'Amour avec un arc et des fleches. Dans ce sens on dit fig. d'Un homme qui est devenu amoureux, que *L'amour l'a percé de ses traits*. Et on dit fig. Des yeux d'une belle personne, que *Ses yeux lancent mille traits*. » (A)V. 326, 547.« Signifie aussi, Une ligne que l'on trace avec une plume, avec un pinceau, avec un craïon. … *cet Escrivain fait de beaux traits. … le Peintre a fini ce tableau, il y a mis les derniers traits*. » (A)Épître p. 3 (l. 15), v.  82, 578, 704, 832, 1178, 1188, 1280, 1291, 1477.« Se dit aussi, Des beaux endroits d'un discours, de ce qu'il y a de vif, & de brillant dans une pensée, dans une expression. *Il y a de beaux traits d'éloquence dans ce discours. un beau trait d'esprit, un trait de raillerie*. » (A)V. 1131,1547.« Se dit aussi des lineaments du visage. Ce fils a tous les traits de son pere. elle a de beaux traits » (A)V. 147, 571, 587.« Se dit aussi, d'Un bon ou mauvais office qu'on rend à quelqu'un. *On luy a joüé, on luy a fait un meschant trait, un vilain trait ce n'est pas là un trait d'ami*. Il se dit aussi en general, Des actions qui ont quelque chose de singulier. *Voilà un trait d'habile homme. voilà un trait de perfidie. voilà de vos traits. ce sont de ses traits*. » (A)Épître p. 3 (l. 4), v. 55, 211, 1366, 1372, 1508, 1635.Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. Un *transport* de joye a causé quelquefois la mort. Un *transport* de colere cause souvent de grands malheurs. Les amoureux ont de doux, de violents, d'agreables *transports*. » (F)V. 738, 995.Transporter« Porter une chose d'un lieu à un autre. » (F)V. 691.« Se dit aussi des violentes agitations de l'esprit. Un homme *transporté* de colere, de joye, d'amour, &c. Ceux qui rendoient des oracles étoient *transportez* de fureur. » (F)V. 1149, 1585.Travail« Labeur, peine, fatigue, soit du corps, soit de l'esprit, qu'on prend pour faire quelque chose. » (A)V. 308.« *Travaux*, signifie aussi, Les peines qu'on a prises, qu'on s'est données, à quelque entreprise glorieuse, dans l'execution de quelque chose de difficile. » (A)V. 6.Traverser« Troubler. Aporter du désordre, causer du désordre. Traverser le repos d'une personne. *La Suze, Poësies*. Il est venu traverser notre joie. *Ablancourt*. » (R)V. 1032.Veritable« Ce mot se dit des choses & des personnes, lorsqu'il se dit des choses, il signifie *vrai*. Et lorsqu'il se dit des personnes, il signifie, *qui dit la vérité, qui dit vrai*. » (R)V. 3, 334, 397, 552, 1025, 1038, 1159, 1280, 1282, 1495, 1668.Vertu« Signifie encore, Force, vigueur, tant du corps que de l'ame. … Ce Magistrat a témoigné sa *vertu*, son courage, sa fermeté en cette occasion. » (F)Épître p. 2, épître p. 3 (l. 16).« Se dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy & la raison. » (F)Épître p. 3 (l. 6), v. 67, 220, 224, 229, 591, 1161, 1202, 1209, 1302, 1621.« En vertu, se dit adverbialement pour dire, Au nom ou en consequence » (F)Privilège.Zéle« Les Poëtes se servent quelquefois de *zele* pour signifier l'*amour*. Il luy a témoigné son *zele* en toutes occasions. En ce sens il vieillit. » (F)V. 647.« Il se dit aussi, De ce qui regarde les obligations de la vie civile. … *avoir beaucoup de zele pour son Prince, pour le service de son Prince.* … Il ne se dit point du superieur à ses inferieurs. » (A)V. 629, 1037.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de BrosseLa Stratonice ou le malade d'amour
+### Œuvres de Brosse.La Stratonice ou le malade d'amour
 Les Innocents coupables
 Les Songes des hommes esveillez*e*
 Le Turne de Virgile
@@ -3179,7 +3179,7 @@ L'Aveugle clair-voyant
 Toutes les œuvres de Brosse sont accessibles sur le site : http://gallica.bnf.fr
 
 
-### Œuvres du XVII*e* siècleLa Pratique du théâtre
+### Œuvres du XVII*e* siècle.La Pratique du théâtre
 Le Curieux impertinent ou Le Jaloux
 Le Menteur et La Suite du Menteur
 Œuvres complètes
@@ -3187,22 +3187,22 @@ Gazette
 
 
 
-### Autres sourcesL'Aveugle clairvoyant, Répertoire du théâtre françois
+### Autres sources.L'Aveugle clairvoyant, Répertoire du théâtre françois
 
 
 
-## Instruments de travail et outils critiques
+## Instruments de travail et outils critiques.
 
 
-### Instruments de travail
+### Instruments de travail.
 
 
-#### BibliographiesBibliographie d'histoire littéraire française
+#### Bibliographies.Bibliographie d'histoire littéraire française
 Bibliographie de la littérature française du XVII*e* siècle
 
 
 
-#### DictionnairesDictionnaire
+#### Dictionnaires.Dictionnaire
 
 
 Accessible sur le site : http://www.lib.uchicago.edu/efts/ARTFL/projects/dicos/Le Français classique. Lexique de la langue du XVIIe siècle
@@ -3214,33 +3214,33 @@ Dictionnaire universel françois et latin, vulgairement appelé Dictionnaire de 
 
 
 
-#### GrammairesPetite grammaire de l'ancien français
+#### Grammaires.Petite grammaire de l'ancien français
 Remarques sur la Langue Françoise
 Syntaxe française du XVIIe siècle
 Grammaire de la langue française du XVIIe siècle, Paris
 
 
 
-### Études
+### Études.
 
 
-#### Ouvrages générauxLire la comédie
+#### Ouvrages généraux.Lire la comédie
 Dictionnaire de la Mythologie grecque et romaine*e*
 Lire le théâtre
 La Comédie
 
 
 
-#### Sur le contexte historiqueDictionnaire du Grand Siècle
+#### Sur le contexte historique.Dictionnaire du Grand Siècle
 
 
 
-#### Sur la littérature du XVIIe siècleIntroduction à l'analyse des textes classiques
+#### Sur la littérature du XVIIe siècle.Introduction à l'analyse des textes classiques
 La Littérature de l'âge baroque en France
 
 
 
-#### Sur le théâtre du XVII*e* siècleEsthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+#### Sur le théâtre du XVII*e* siècle.Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
 Le Théâtre dans le théâtre sur la scène française du XVII*e* siècle
 Papers on French Seventeenth Century Literature
 A History of French Dramatic Literature in the Seventeenth Century
@@ -3249,7 +3249,7 @@ La Dramaturgie classique en France
 
 
 
-#### Sur la comédie du XVII*e* siècleLittératures classiques
+#### Sur la comédie du XVII*e* siècle.Littératures classiques
 Les Valets et les servantes dans le théâtre comique en France de 1610 à 1700
 *e*Cahiers de littérature du XVII*e* siècle
 La Comédie avant Molière 1640-1660
@@ -3257,14 +3257,14 @@ Le MenteurL'Art du théâtre
 
 
 
-#### Sur la représentation et le décorLe Théâtre de l'Hôtel de Bourgogne 1548-1680
+#### Sur la représentation et le décor.Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 Le Théâtre du Marais
 Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
 Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-#### Sur les comédiensDictionnaire biographique des comédiens français du XVII*e* siècle
+#### Sur les comédiens.Dictionnaire biographique des comédiens français du XVII*e* siècle
 Revue mondiale
 
 

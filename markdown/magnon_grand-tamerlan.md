@@ -17,7 +17,7 @@ A PARIS, Chez TOUSSAINCT QUINET, au Palais, sous la montée de la Cour des Aydes
           maîtrise sous la direction de Georges Forestier (2003-2004)
 
 
-# Introduction
+# Introduction.
 
 *Le grand Tamerlan et Bajazet*, en mettant en scène l'affrontement du conquérant tartare et du sultan turc, nous offre la possibilité d'une étude approfondie sur la pièce elle-même, bien plus que sur ses conditions de création, qui demeurent très floues.
 
@@ -26,7 +26,7 @@ Il est vraisemblable que notre tragédie a été représentée en 1646 ou 1647, 
 Un même mystère entoure sa réception par le public, quoiqu'il soit probable, compte tenu du peu de succès à la vente lors de la première impression (pas de réédition ultérieure), que l'œuvre n'ait pas marqué les esprits de l'époque de manière significative. Cette tragédie, quoiqu'elle n'ait pas donné naissance à d'autre œuvres remarquables, ne doit cependant pas être sous-estimée, et c'est le but de notre travail que de révéler sa valeur, aussi minime soit-elle.
 
 
-# Aperçu biographique de Jean Magnon (sa vie, ses œuvres)
+# Aperçu biographique de Jean Magnon (sa vie, ses œuvres).
 
 On ne lit guère plus Rampale et Ménardière  
 Que Magnon, du Souhait, Corbin et la Morlière.  
@@ -83,10 +83,10 @@ La mort inattendue de Jean Magnon défraya la chronique pendant les semaines qui
 Gabriel Jeanton fait remarquer à juste titre que « par une singulière ironie du sort, Magnon avait, quelques années avant sa fin dramatique, retracé dans une de ses tragédies l'histoire de sa propre vie. Jeanne I*re*, reine de Naples, avait également fait assassiner son premier mari, André de Hongrie, par son amant, Louis de Tarente, qu'elle épousa peu après. Sans jouir de son crime, elle perdit bientôt ce dernier, pour se marier en troisièmes noces à Jacques III de Majorque. L'époque où Magnon écrivit cette tragédie (1650), était justement celle de son mariage, époque à laquelle il devait contracter l'union que la fatalité lui avait réservée. »
 
 
-# Les sources
+# Les sources.
 
 
-## Postérité et influences
+## Postérité et influences.
 
 On ne peut pas prétendre que la tragédie de Magnon est directement liée à la création de pièces postérieures traitant d'un sujet similaire. Il faut tout d'abord éviter l'écueil consistant à rapprocher notre pièce du *Bajazet* qu'écrira Racine en 1672. En effet, le Bajazet dont traite Racine n'a rien à voir avec celui de Magnon : Racine abandonna pour la première fois les sujets antiques, pour mettre en scène un fait contemporain, survenu en 1637, et que le comte de Cézy, ambassadeur à Constantinople, lui avait raconté à son retour en France. « Quelques lecteurs pourront s'étonner qu'on ait osé mettre sur la scène une histoire si récente (…) l'éloignement des pays répare en quelque sorte la proximité des temps », dira Racine dans sa seconde préface. Son *Bajazet*, qui se déroule au sein du sérail du sultan Amurat, et qui traite de l'amour de Bajazet et d'Atalide, ruiné par la brutalité de la passion amoureuse de Roxane, ne doit donc en aucun cas être comparé à la pièce de Magnon.
 
@@ -96,7 +96,7 @@ Malgré tout, il est probable que l'œuvre de Magnon inspira –même dans une f
 Quoique ce sujet eut été présenté au théâtre par M. Magnon, sous le titre du *Grand Tamerlan, ou la mort de Bajazet* [7], on peut néanmoins le regarder comme neuf, par la manière dont M. Pradon l'a traité. Tamerlan victorieux, & prêt d'épouser Araxide, héritière de la Couronne de Trebizonde, devient épris des charmes d'Astérie, fille de Bajazet. La violence de sa passion lui fait étouffer tout ressentiment, il offre à ce Prince, son Captif, la liberté, & son amitié, s'il veut consentir à son Hymen avec sa fille, & charge Andronic, Prince Grec, réfugié à la Cour, de lui faire cette proposition, tandis qu'il se réserve le plaisir de l'annoncer à la Princesse qu'il aime, & pour empêcher Araxide de se plaindre, Tamerlan lui destine pour époux ce même Andronic qu'il vient de nommer Empereur de Grece. En formant ces projets, Tamerlan s'est flatté de pouvoir vaincre la haine de Bajazet, & il ignore la passion mutuelle d'Astérie, & du Prince de Grece, qui forme le nœud de la Tragédie. Bajazet, toujours inflexible, refuse fièrement l'alliance de son ennemi & fait un effort pour recouvrer la liberté, ou périr. Le sort le trahit & le rejette dans les fers. Heureusement, l'espérance de toucher le cœur d'Astérie, retient la colere de Tamerlan. Il ne fait usage que de la clémence. Bajazet en ressent les effets jusqu'au moment qu'il prend la terrible résolution de terminer par le poison une vie importune. Au reste Tamerlan est si doux, qu'après qu'il a reconnu l'intelligence d'Andronic & d'Astérie, il se laisse braver, & s'en tient à de foibles menaces ; mais comme il est en train de pardonner, il leur fait grace, & déclare à Andronic que ne prétendant plus à la main d'Astérie, il va recevoir celle de la Princesse de Trebizonde.
 
 
-## La source historique
+## La source historique.
 
 La source la plus certaine à la lecture du *Grand Tamerlan et Bajazet* est de toute évidence la source historique. Nul doute que Magnon ait exploité la vie de deux personnages qui ont réellement existé, à peine deux siècles et demi avant lui. Rappelons-nous qui furent ces deux grandes figures des conquêtes orientales.
 
@@ -120,7 +120,7 @@ Bien que la source historique soit évidente concernant notre pièce, nous devon
 l'histoire était toute politique et morale : elle étudiait les intrigues des cours, les ambitions des conquérants, les troubles des Etats ; et toujours avec l'intention d'en tirer des conclusions de portée générale et actuelle.
 
 
-## Les sources littéraires
+## Les sources littéraires.
 
 Depuis la Renaissance, l'intérêt pour l'histoire perse et le côté exotique qu'elle suggère va croissant. Les sujets empruntés à l'histoire des sultans sont de tradition, et les exemples ne manquent pas : en 1561, Gabriel Bounyn avait montré, dans *La Soltane*, Mustapha étranglé sur l'ordre de son père, et Mairet créa *Le Grand et Dernier Solyman* en 1639, six ou sept ans avant la représentation de l'*Osman* de Tristan. On pourrait également citer la *Roxelane* de Desmares en 1643, ou l'*Ibrahim* de Scudéry la même année.
 
@@ -160,7 +160,7 @@ Que du bon traitement que luy fait Alexandre. [16]
 Malgré ces quelques points communs, le problème de savoir quelle est la pièce qui a pu influencer l'autre demeure, quant à moi, irrésolu. En effet, si l'achevé d'imprimer du *Porus* est du 28 février et celui du *Grand Tamerlan et Bajazet* du 28 mars, nous ne pouvons absolument pas conclure que le *Porus* fut joué avant le *Grand Tamerlan*, n'ayant pas la date de représentation de notre pièce. Le mystère reste entier.
 
 
-# Résumé
+# Résumé.
 
 Orcazie, épouse de Bajazet, et Roxalie, fille de ce dernier, sont prisonnières de Tamerlan. Roxalie et Thémir, fils de Tamerlan, se vouent une mutuelle passion, tandis que Tamerlan refuse de se séparer d'Orcazie qu'il aime.
 
@@ -171,12 +171,12 @@ Thémir en éprouve un tel chagrin qu'il se suicide. Tamerlan décide alors de c
 Quand Tamerlan survient, Bajazet se meurt, et le conquérant tartare s'apprête à l'imiter.
 
 
-## Synopsis de la pièce
+## Synopsis de la pièce.
 
 La pièce commence *in medias res*. L'action débute alors que des combats entre Tamerlan, conquérant tartare et Bajazet, sultan turc, ont déjà eu lieu. La didascalie initiale précise que « la scene est dans la Galatie [17] en la tente de Tamerlan ».
 
 
-### Acte I
+### Acte I.
 
 - *Scène 1* : Roxalie raconte à sa confidente Dorize la naissance de son indomptable passion pour Thémir, le fils de l'ennemi de son père. Dorize s'inquiète des conséquences de cet imprudent amour.
 
@@ -187,7 +187,7 @@ La pièce commence *in medias res*. L'action débute alors que des combats entre
 - *Scène 4* : Tamerlan survient, inquiet de ces discussions. Indarthize, appuyée par Thémir, implore Tamerlan de rendre la liberté aux captives. Tamerlan s'indigne de leur alliance contre lui. Préparation du combat.
 
 
-### Acte II
+### Acte II.
 
 - *Scène 1* : Accompagné de Selim, Bajazet, déguisé, se fait passer pour son propre ambassadeur. Il confie à son Vizir son désespoir de voir Tamerlan conquérir toutes ses provinces et sa jalousie face à l'intérêt que le Tartare porte à sa femme.
 
@@ -202,7 +202,7 @@ La pièce commence *in medias res*. L'action débute alors que des combats entre
 - *Scène 6* : Zilim intime à Bajazet l'ordre de s'arrêter. Il a été reconnu par son armée, mais Tamerlan lui laisse la liberté.
 
 
-### Acte III
+### Acte III.
 
 - *Scène 1* : Mansor rapporte à Tamerlan le combat de son armée contre celle de Bajazet. Son fils Thémir a été fait prisonnier.
 
@@ -219,7 +219,7 @@ La pièce commence *in medias res*. L'action débute alors que des combats entre
 - *Scène 7* : De son côté, Thémir a conçu le même projet que Roxalie : casqué, il vient demander à Tamerlan la liberté des deux femmes prisonnières, mais Tamerlan n'accorde que la fille. Préparation du combat.
 
 
-### Acte IV
+### Acte IV.
 
 - *Scène 1* : Indarthize promet à Orcazie de l'aider à s'enfuir.
 
@@ -238,7 +238,7 @@ La pièce commence *in medias res*. L'action débute alors que des combats entre
 - *Scène 8* : Tamerlan veut humilier Bajazet en l'exposant à la honte de son armée. Il décide de prolonger ses peines en lui laissant la vie. Le conquérant tartare veut récompenser Selim et lui donne, selon son désir, Roxalie, à la fureur de Thémir.
 
 
-### Acte V
+### Acte V.
 
 - *Scène 1* : Bajazet déplore son triste sort et n'attend que la mort pour abréger ses souffrances.
 
@@ -253,7 +253,7 @@ La pièce commence *in medias res*. L'action débute alors que des combats entre
 - *Scène 6* : Bajazet se tue devant Tamerlan, qui se prépare également à mourir.
 
 
-## Étude des personnages
+## Étude des personnages.
 
 Avant d'étudier les personnages principaux de notre pièce, ayons soin de garder à l'esprit ces quelques mots d'Anne Ubersfeld, dans *Lire le théâtre* (I) :
 
@@ -321,10 +321,10 @@ Les deux épouses ont un rôle limité. Si **Orcazie** est, au début de la piè
 # Une tragédie classique ?
 
 
-## Facture de l'œuvre
+## Facture de l'œuvre.
 
 
-### Construction de la tragédie
+### Construction de la tragédie.
 
 La tragédie parfaite, écrit Corneille dans son *Discours de la tragédie* en 1660, doit susciter pitié et crainte en faisant intervenir la « proximité du sang et les liaisons d'amour ou d'amitié entre le persécutant et le persécuté, le poursuivant et le poursuivi, celui qui fait souffrir et celui qui souffre. »
 
@@ -335,24 +335,24 @@ L'action est construite de telle sorte que tout repose sur « une situation rec
 Tout est construit à partir d'un dénouement « programmé ». Le triste empire sur lequel est condamné à régner Tamerlan n'est plus que celui des morts qu'il a provoquées : cruelle ironie pour ce despote mal éclairé.
 
 
-### L'exposition
+### L'exposition.
 
 Selon l'auteur du manuscrit 559 des *Nouvelles Acquisitions du Fonds Français de la Bibliothèque Nationale*, une exposition complète « doit instruire le spectateur du sujet et de ses principales circonstances, du lieu de la scène et même de l'heure où commence l'action, du nom, de l'état, du caractère et des intérêts de tous les principaux personnages ». Où s'arrête donc l'exposition dans notre pièce ? Jacques Scherer mentionne à juste titre que la plupart du temps, « il est délicat de définir les limites exactes de l'exposition ». Comme dans beaucoup de pièces classiques, l'exposition du *Grand Tamerlan et Bajazet* est presque entièrement condensée dans la première scène de l'acte I. Cette scène entre Roxalie et sa confidente Dorize (ce type d'entrevue constitue un topos dans la littérature théâtrale classique), permet à la jeune héroïne d'exposer assez précisément l'intrigue, en dévoilant les liens qui unissent les personnages. Les soixante-six vers de cette scène suffisent en effet à camper le point de départ de l'action : Roxalie et Thémir s'aiment, tandis que leurs pères sont ennemis et que Roxalie est détenue prisonnière. Quelques informations majeures sont néanmoins distillées dans le reste de la pièce, et peuvent nous laisser suggérer que l'exposition se prolonge au-delà de la première scène : c'est à la scène 3 de l'acte I que l'on apprend que la mère de Roxalie, Orcazie, est elle aussi prisonnière, et qu'elle est aimée de son ravisseur. Enfin, c'est seulement à la scène 5 de l'acte IV qu'on découvre l'amour que Selim porte depuis toujours à Roxalie. Cette information ne doit pas, selon nous, être considérée seulement comme une révélation qui permet à l'action de rebondir (l'amour de Selim justifiant le meurtre de la femme qu'il aime et qu'il ne peut se résoudre à laisser à un autre), mais plutôt comme une information à part entière, expliquant la globalité de ses actes, et devant normalement, à ce titre, figurer dans l'exposition.
 
 
-### Le nœud : obstacles et péripéties
+### Le nœud : obstacles et péripéties.
 
 L'obstacle à l'amour des deux jeunes gens est annoncé dès le début : leurs familles sont ennemies, et cette haine constitue un obstacle extérieur évident. L'amour seul ne suffit pas à constituer un drame : le conflit devient vraiment dramatique dès lors que Thémir doit faire face à deux exigences inconciliables : l'honneur et l'amour. Doit-il satisfaire Roxalie en combattant contre son propre père, ou doit-il suivre ce que lui dicte son devoir ? À ce conflit dramatique s'ajoute celui de Tamerlan, moindre. Pour libérer son fils prisonnier après le combat, il doit rendre Orcazie. Le tyran ne balance pas longtemps : « par ce prix infiny ta personne Thémir est trop chere [28] ».
 
 Différents stratagèmes vont être élaborés pour dénouer ces situations bloquées : Bajazet se déguise pour tenter d'obtenir la libération de sa femme, Thémir et Roxalie cherchent à de s'affranchir l'un l'autre par le même moyen… La trahison de Selim est l'élément qui va déclencher une brusque avancée dans l'action : Bajazet étant livré, Tamerlan tient toute sa famille sous sa coupe, et c'est le premier meurtre qui va entraîner tous les autres, permettant le dénouement final : Roxalie morte, Thémir se tue de désespoir. Bajazet et son épouse, ayant perdu leur fille, leur liberté et leurs terres, choisissent enfin de perdre la vie. Selim est condamné et Tamerlan, devant un tel massacre, ne peut que se résoudre à la mort.
 
 
-### Le dénouement
+### Le dénouement.
 
 Si l'annonce de la victoire de Tamerlan se fait à la scène 4 de l'acte IV, le sort des personnages n'est fixé définitivement qu'à la fin de l'acte V. À la scène 2 on apprend la mort de Roxalie par Selim, et les deux dernières scènes de l'acte V relatent les morts ou les mettent en scène : récit de la mort de Roxalie et de celle de Thémir (V, 5), mort d'Orcazie (V, 5), suivie de la mort particulièrement violente de Bajazet (V, 6) : c'est sur la scène elle-même que le personnage se donne la mort, tout comme son épouse auparavant. La mort de Tamerlan est annoncée par le dernier vers de la tragédie : « qu'on les porte au cercueil, & qu'on m'y meine aussi ». Seul le sort du traître Selim reste en suspens : bien que sa condamnation soit évidente, l'auteur a négligé d'en donner la substance, ce qui peut laisser un lecteur pointilleux quelque peu frustré.
 
 
-## Les thèmes
+## Les thèmes.
 
 Notre pièce exploite plusieurs thèmes classiques, que l'on retrouve dans nombre de tragédies de la période. La tragédie a toujours eu pour but de présenter le tableau des méfaits et des revers auxquels expose la condition des Grands, mais sous le règne personnel de Louis XIV, elle ne souligne pas seulement les risques de démesure que comporte l'exercice de la royauté : elle révèle aussi que le pouvoir est souvent dominé par le désir de puissance, et qu'il peut devenir une véritable passion.
 
@@ -415,7 +415,7 @@ les personnages ne parviendront pas, durant les délais très courts qui leur so
 C'est bien le cas ici : les personnages n'agissent, en définitive, que pour leur perte.
 
 
-## La rhétorique
+## La rhétorique.
 
 Pour bien représenter tous ces thèmes dans notre tragédie, Magnon use d'une rhétorique classique très conventionnelle. On retrouve en effet dans notre œuvre les trois genres de discours distingués traditionnellement par cette rhétorique : le démonstratif, le délibératif et le judiciaire. Le passage d'une forme à l'autre est d'autant plus aisé que le dramaturge a conféré à ce récit du passé une coloration subjective, et donc une finalité proprement dramatique. L'étude du style nous amènerait à des circonvolutions complexes. Nous nous contenterons donc de donner quelques exemples de ces types de causes, sans approfondir outre mesure.
 
@@ -487,29 +487,29 @@ La dignité de la tragédie demande quelque grand intérêt d'Etat, ou quelque p
 # Une tragédie irrégulière ?
 
 
-## Les unités dans notre tragédie
+## Les unités dans notre tragédie.
 
 Dans l'univers tragique, la vie est conçue comme un rapport de forces permanent et les règles dramatiques, qui concentrent l'action en une journée dans l'espace symbolique de la puissance tyrannique (la tente de Tamerlan), accentuent l'atmosphère de violence de la pièce. 
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 L'unité de lieu est parfaitement respectée, bien que la concentration de l'action en un seul lieu n'ait commencé à s'imposer que vers 1640. Magnon s'est adapté à cette contrainte en faisant que l'action, comme nous l'apprend la didascalie initiale, se déroule dans un lieu unique : « dans la Galatie, en la tente de Tamerlan ». Cette étroitesse de l'espace scénique contribue largement à un renforcement du drame. De fait, la promiscuité favorise le combat en tête à tête, l'affrontement par stichomythies, et permet un face à face propre au combat verbal entre les personnages. Bien sûr, nombreuses sont les actions qui ont lieu en dehors de la tente, mais celle-ci nous sont relatées par un narrateur (Mansor, Roxalie…), ce qui permet à l'action de se cantonner dans un seul espace : qu'il s'agisse des rencontres entre personnages, des aveux d'amour ou des suicides, tout a lieu dans le même univers de rencontres, celui de la tente de Tamerlan, où l'on commente les faits et où on les voit en action.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 L'unité de temps est profondément liée à l'unité d'action dans notre pièce. La règle des vingt-quatre heures imposée par les classiques nous est rappelée par Orcazie au vers 1458 : « Et combien d'accidents se suivent en un jour ! ». Si l'on étudie les évènements tels qu'ils se succèdent dans l'œuvre, on ne peut manquer de constater leur invraisemblable abondance : exposition, entrevue Roxalie/Thémir, Indarthize/Thémir, rencontre Bajazet déguisé/Tamerlan, puis Bajazet/Orcazie, bataille, récit du combat par Mansor, captivité de Thémir, chassé-croisé Roxalie/Thémir pour tenter leur libération, préparation d'un nouveau combat, récit de la victoire de Tamerlan et de la mort des jeunes amants, trahison de Selim avant sa propre capture, suicide précipité d'Orcazie, de Bajazet et de Tamerlan. Les conversations s'enchaînent à un rythme soutenu, mais malgré tout il est évident que la réalité ne pourrait supporter tant d'évènements en une durée aussi courte que vingt-quatre heures.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 Si l'on définit l'unité d'action, comme le faisaient les penseurs du XVII*e* siècle, par l'unité de péril, on est loin de réunir les caractéristiques nécessaires à cette unité.
 
 À l'intrigue principale d'ordre politique et amoureux, Magnon en ajoute une autre où il est question de l'amour impossible entre Roxalie et Thémir. Mais ces deux intrigues sont indissociables et complémentaires. Elles ne pourraient exister pleinement l'une sans l'autre. En effet, d'un côté, l'amour des deux jeunes gens est rendu impossible par la rivalité de leur père, de l'autre, la lutte de pouvoir n'a d'intérêt réel que dans la mesure où deux des prisonniers de guerre sont des amants. (Sinon, il ne s'agirait que de simples combats militaires sans enjeu dramatique autre que celui de savoir ce qu'il adviendrait du vaincu). C'est pour cette raison qu'il est délicat de parler de deux intrigues. On pourrait suggérer que l'action est unique (rivalité de deux hommes dont les enfants s'aiment), mais complexe (le ravisseur aime une des captives qui le repousse…). En effet, unité d'action ne signifie pas simplicité de l'action : les différents fils peuvent s'entremêler autour d'un nœud central, et nous suggérons que c'est le cas ici, même si l'action très mouvementée peut contribuer à nous induire en erreur.
 
 
-## Un rythme mouvementé
+## Un rythme mouvementé.
 
 Nous avons vu ci-dessus que les évènements s'enchaînaient les uns après les autres, sans qu'on puisse pour autant – et ce malgré les dires des personnages -, déceler les véritables mouvements de cause à effet. La nécessité n'apparaît pas de façon évidente. En effet, le résumé nous montre bien que les personnages n'agissent pas tous selon la constance que supposerait la typologie de leur caractère. Tamerlan, par exemple, choisit d'abréger les souffrances de Bajazet, contre toute attente. En tant que tyran, on aurait plutôt imaginé qu'il prolongerait les douleurs de son ennemi. De son côté, Selim affiche une volonté de vengeance que rien ne laissait prévoir. Même chose pour Indarthize : qu'est-ce qui la motive réellement à agir ? Nous restons perplexe face à ses motivations.
 
@@ -518,7 +518,7 @@ Quoi qu'il en soit, le rythme se ressent de l'action mouvementée, et fait que n
 Mais ce sont principalement les déguisements et les travestissements qui ponctuent le rythme de l'action, ainsi que nous le verrons dans ce qui suit.
 
 
-## Déguisements et travestissements
+## Déguisements et travestissements.
 
 Georges Forestier, dans son ouvrage sur l'*Esthétique de l'identité dans le théâtre français*, met l'accent sur le fait que l'usage des déguisements à finalité judiciaire est en quasi-totalité « antérieur (…) à 1650, et la majorité à 1640, c'est-à-dire à la naissance de la tragédie romanesque ». Il ajoute que « trois pièces seulement appartiennent au genre comique et deux au genre tragique » : *Le Grand Tamerlan et Bajazet* de Magnon, et *La Mort de Manlie* de Noguères (1656). «  Il s'agit d'une finalité fondamentalement tragi-comique » conclut-il à juste titre.
 
@@ -587,7 +587,7 @@ Enfin, Magnon ne prend pas la peine de fixer le sort de tous ses personnages. Se
 Ces quelques hypothèses peuvent peut-être expliquer en partie l'échec de notre tragédie, sans pour autant justifier pleinement le silence qui suivit la première impression de l'œuvre.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 La présente édition a été établie à partir de l'édition originale de 1648, conservée à la Bibliothèque Interuniversitaire de la Sorbonne, en salle de réserve, sous la côte RRA 8 = 461. Elle apparaît comme suit :
 
@@ -624,12 +624,12 @@ Chacun de ces exemplaires [43] comporte les mêmes coquilles : rien ne change e
 Le fait qu'il n'y ait pas eu de réédition du *Grand Tamerlan et Bajazet* après 1648 nous laisse fortement penser qu'il n'eut qu'un succès mitigé à la vente lors de sa première impression.
 
 
-## Remarques sur l'établissement du texte
+## Remarques sur l'établissement du texte.
 
 L'esprit de cette édition nous a conduite à conserver l'orthographe originelle du texte, avec toutes ses spécificités propres au XVII*e* siècle. Néanmoins, nous avons effectué quelques modifications qui nous ont paru nécessaires.
 
 
-### Transformation d'usage
+### Transformation d'usage.
 
 Nous avons systématiquement transformé le signe  « *∫* »  par le « s » qui lui correspond et nous avons changé le signe « *β* » par son correspondant « ss » dans les mots suivants :
 
@@ -676,7 +676,7 @@ De même, nous avons remplacé le tilde (~) par la nasalisation correspondante d
 Nous avons également remplacé le « i » par le « j » dans des mots tels que « je », « bajazet », « desja » etc.
 
 
-### Corrections
+### Corrections.
 
 Nous avons corrigé les coquilles suivantes :
 
@@ -757,7 +757,7 @@ mentionnée, confirme notre hypothèse. Nous ajoutons donc, après ORCAZIE et BA
 - v. 1507 : **Elle** vint
 
 
-## Mots à deux orthographes
+## Mots à deux orthographes.
 
 - amans : v. 30, 56, 102, 170, 1002. / amant : v. 578, 612, 686, 797, 986 (amante).
 
@@ -1081,7 +1081,7 @@ Qu'il faille que mon cœur envers vous animé,
 Sente quelque regret de vous avoir aymé.  
 Adieu.  
 
-    THEMIR, *seul.*
+    THEMIR, *seul.*.
         Cruel Adieu, mon ame l'a suivie,  
 Elle emporte avec soy [64] la moitié de ma vie.  
 Allons perdre le reste.  
@@ -1536,7 +1536,7 @@ Exposez vostre charge⁎.
     BAJAZET.
         En voila la teneur.  
 
-    TAMERLAN, *à Zilim.*
+    TAMERLAN, *à Zilim.*.
 Lisez.  
 
     ZILIM.
@@ -1648,7 +1648,7 @@ Insolent ! dy-moy donc le sujet qui t'ameine.
     BAJAZET.
 Je voy qu'apparemment mon ambassade⁎ est vaine.  
 
-    TAMERLAN, *à Zilim.*
+    TAMERLAN, *à Zilim.*.
 Achevez cette lettre, & sçachons ce qu'il dit.  
 
     ZILIM.
@@ -1738,11 +1738,11 @@ J'ignore en ma prison le sort de mon époux.
 Vous pouvez remarquer le soin⁎ qu'il a de vous ;  
 Voilà ses Deputez.  
 
-    ORCAZIE, *bas.*
+    ORCAZIE, *bas.*.
         C'est Bajazet luy-mesme,  
 C'est Selim, qu'est cecy ?  
 
-    BAJAZET, *bas.*
+    BAJAZET, *bas.*.
         N'en doutons plus, il l'ayme.  
 
     TAMERLAN.
@@ -2054,7 +2054,7 @@ Qu'on m'ameine Orcazie, & bien secretement.
 
 ### SCENE II.
 
-    TAMERLAN, *seul.*
+    TAMERLAN, *seul.*.
 Et bien qui doit regner, ou le pere, ou l'Amant⁎ ?  
 J'entend par tout des voix, à qui doy-je respondre ?  
 Où faut-il incliner ? mon ame où vas-tu fondre⁎ ?  
@@ -2493,7 +2493,7 @@ Au moins dans mes souhaits j'auray part à sa gloire.
     TAMERLAN. 
 Sors, sors, voicy la fin de ta captivité.  
 
-    THEMIR, *en sortant.*
+    THEMIR, *en sortant.*.
 Je fais mesme des vœux⁎ contre ma liberté.  
 
     TAMERLAN.
@@ -3538,7 +3538,7 @@ Qu'on les porte au cercueil, & qu'on m'y meine aussi.
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Les lettres entre parenthèses situées après les définitions des mots renvoient aux ouvrages suivants : (voir références complètes dans la bibliographie)
 
@@ -3560,7 +3560,7 @@ Que le mécanisme de la peur soit inhérent au plaisir théâtral, tout le monde
 
 
 
-# Annexe 2 : Quelques jugements sur Magnon et son œuvre
+# Annexe 2 : Quelques jugements sur Magnon et son œuvre.
 
 
 ## La critique est facile, mais l'art est difficile…
@@ -3664,7 +3664,7 @@ J'ai l'honneur d'être, &c.
 Fr. Ph. *Magnon*, Avocat.
 
 
-# Annexe 4 : liste des œuvres de Magnon
+# Annexe 4 : liste des œuvres de Magnon.
     Artaxerce
 Josaphat
 Sejanus
@@ -3681,10 +3681,10 @@ La Science Universelle
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ouvrages généraux sur le genre et la période
+## Ouvrages généraux sur le genre et la période.
     *Adam*Histoire de la littérature française du XVII*e* siècle
 *Delmas*La Tragédie de l'âge classique (1553-1770)
 *Forestier*Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
@@ -3698,7 +3698,7 @@ La Science Universelle
 
 
 
-## Sources
+## Sources.
     *Lachèvre*Biographie des recueils collectifs de poésies publiés de 1597 à 1700
 *Loret*La Muze historique ou Recueil des lettres en vers contenant les nouvelles du temps écrites à son altesse Mademoiselle de Longueville, depuis duchesse de Nemours
 *Papillon*Bibliothèque des autheurs de Bourgogne
@@ -3707,19 +3707,19 @@ La Science Universelle
 
 
 
-## Travaux sur Magnon et/ou son œuvre
+## Travaux sur Magnon et/ou son œuvre.
     *Boulmier*Un excentrique du XVII*e* siècle. Jean Magnon de Tournus
 *Jeanton*Annales de l'Académie de MâconBulletin de la Société des amis des arts de Tournus
 
 
 
-## Ouvrages sur Tamerlan (et Bajazet)
+## Ouvrages sur Tamerlan (et Bajazet).
     *Guer*Mœurs et usages des Turcs, leur religion, leur gouvernement civil, militaire et politique, Avec un abrégé de l'Histoire Ottomane
 *Roux*Tamerlan
 
 
 
-## Instruments de travail
+## Instruments de travail.
     *AcadémieFrançaise*Dictionnaire
 *Catach*La Ponctuation
 *Furetière*Dictionnaire universel, Contenant tous generalement tous les Mots François tant vieux que modernes, & les Termes de toutes les Sciences et des Arts.

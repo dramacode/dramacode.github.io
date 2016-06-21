@@ -15,7 +15,7 @@ A Paris, Chez la vefve NICOLAS DE SERCY, au Palais, en la Sale Dauphine, à la B
       master 1 sous la direction de Georges Forestier (2007-2008)
 
 
-# Introduction
+# Introduction.
 
 La pièce que nous nous proposons d'étudier ici, *Le Turne de Virgile*, fait partie de ce répertoire largement oublié des auteurs dits mineurs du XVII*e* siècle. Oublié parce que, il faut le reconnaître, il est de qualité moindre que les chefs-d'œuvre de Corneille, Molière, Racine et autres Rotrou, mais aussi parce que les critiques du XVII*e* siècle et d'aujourd'hui l'ont dévalorisé, parfois injustement. Qu'on nous permette de citer ici deux critiques portant sur *Le Turne de Virgile*, qui n'ont pas vraiment contribué à sortir cette pièce de l'oubli :
 
@@ -27,7 +27,7 @@ Sa tragi-comédie, pas plus que sa tragédie, adaptée des livres VII et XII de 
 On le voit, les commentaires sur cette pièce sont autant sommaires que négatifs. C'est pourquoi nous essaierons dans cette édition critique d'évaluer de manière approfondie ses qualités et ses défauts, afin d'établir le rôle qu'elle a pu jouer dans l'histoire du théâtre du XVII*e* siècle en France.
 
 
-# L'auteur : biographie et carrière littéraire
+# L'auteur : biographie et carrière littéraire.
 
 Nous ignorons tout de l'auteur du *Turne de Virgile*, aucune donnée biographique n'étant parvenue jusqu'à nous [2]. Son nom fait à lui seul problème : en effet, sur les cinq pièces que ce dramaturge a écrites entre 1642 et 1648, quatre sont signées Brosse, et une seule (le *Turne*) La Brosse. Est-ce le même auteur ? On peut se poser la question, dans la mesure où il y avait effectivement deux frères Brosse, comme nous l'apprenons dans la préface du *Curieux impertinent ou le jaloux* (comédie de 1645) : c'est notre auteur qui signe cette préface, du nom de Brosse, mais la pièce est de la main de son frère, mort prématurément : « C'est trop pour te faire estimer ce Poëme, que tu sçaches qu'il n'est le travail que de quinze jours, et c'est assez pour que tu l'admires, de t'asseurer que son Autheur l'a composé à l'âge de treize ans … Car outre que mon Genie n'a pas plus de force en sa jeunesse, que celuy de l'Autheur en avoit en son enfance, c'est que depuis sa mort il ne m'a pas esté possible de lire d'un œil sec deux pages de son manuscrit : Je l'ay donné à l'Imprimeur tel que je le receu de la main de celuy à qui tu le dois, duquel si tu desires d'apprendre le nom ; sçache qu'il estoit mon frere, et que je me nomme BROSSE. » (Au lecteur).
 
@@ -42,10 +42,10 @@ Voilà qui nous amène à la carrière littéraire de Brosse. Il est l'auteur, e
 Dès lors, comment expliquer la si rapide disparition, déjà au XVII*e* siècle, d'un auteur visiblement dynamique et original ? Nous avons déjà souligné le fait que l'absence d'éléments biographiques a dû accélérer les choses. Mais il faut aussi mentionner que Brosse utilise des procédés théâtraux assez archaïques (en particulier le décor à compartiments sur lequel nous reviendrons), qui ne correspondaient déjà plus de son temps aux attentes des spectateurs. Et surtout, les critiques des siècles suivants ont toujours déprécié son œuvre. Voici ce que disent les frères Parfaict à propos du *Turne de Virgile* : « Nous croyons qu'il est superflu d'entrer dans le détail d'un poème dont le sujet est connu, et qui ne contient rien d'assez curieux pour amuser le lecteur. La versification est faible, et les endroits traduits de l'Enéide servilement et sans grâce » [10]. Par ailleurs, Brosse a souvent été considéré, tant par les frères Parfaict que par la critique contemporaine, comme un suiveur, tantôt de Calderón pour *Les Innocens coupables* [11], tantôt de Corneille pour *Le Turne de Virgile* [12], sans originalité, réputation qui l'a fortement handicapé face à des rivaux comme Corneille, Rotrou… Mais, comme cela a déjà été montré pour ses comédies [13], et comme nous tenterons de le faire pour sa tragédie, l'œuvre de Brosse présente un intérêt non négligeable dans l'histoire du théâtre français du XVII*e* siècle.
 
 
-# La pièce : résumé, représentation et mise en scène
+# La pièce : résumé, représentation et mise en scène.
 
 
-## Résumé
+## Résumé.
 
 **Présupposés** : Enée et ses compagnons ont été vaincus à Troie par les Grecs et se sont donc enfuis. Mais un oracle leur a prédit qu'ils fondraient une nouvelle Troie et qu'ils deviendraient très puissants, mais pour cela ils doivent traverser de nombreuses épreuves. Juste avant la pièce, Enée arrive en Italie, où il apprend que c'est sur le site de Lavinium qu'il doit construire sa ville et qu'il doit épouser la fille du roi. Mais il se heurte bien sûr aux habitants autochtones…
 
@@ -60,7 +60,7 @@ Dès lors, comment expliquer la si rapide disparition, déjà au XVII*e* siècle
 **Acte V** : Sidon vient raconter le duel à Lavinie et Amata : Turne est mortellement blessé et le roi a donné Lavinie à Enée. Les deux femmes refusent cette décision. Enée arrive et déclare sa flamme à Lavinie qui reste sourde à ses propos, ce qui agace Latinus. Mais Turne, agonisant, désire parler à Lavinie : il lui demande d'accepter Enée pour époux et de l'aimer, ce qui suscite l'admiration d'Enée. Lavinie jure qu'elle le fera ; Turne meurt en héros ; mais Lavinie persiste à refuser Enée, malgré sa promesse. Le roi console alors Enée en lui conseillant de faire confiance au temps.
 
 
-## Représentation et mise en scène
+## Représentation et mise en scène.
 
 La pièce a vraisemblablement été représentée en 1645, mais nous ne connaissons ni le jour précis, ni le lieu de sa représentation. Brosse fait allusion dans l'Avis au lecteur qui accompagne *les Innocens coupables*, pièce jouée en 1643 et publiée en 1645, à la comédie qu'il donnera prochainement, *les Songes des hommes esveillez*, et à sa première et unique tragédie, *Le Turne de Virgile*. Bien qu'on ne sache pas quand ait été rédigé cet Avis, il faut qu'il l'ait été avant la représentation des *Songes*, donc avant ou pendant l'année 1644, ce qui signifie qu'en 1644, la tragédie de Brosse est déjà suffisamment avancée pour qu'il puisse écrire : « je te promets dans peu une Comédie que j'appelle les Songes des Veillans que j'espère qui te satisfera, et une Tragédie intitulée Le Turne où tu verras si j'ai manqué de force pour surmonter Virgile que j'ai eu au moins assez d'assurance pour l'envisager » [15]. Elle n'est pourtant représentée qu'en 1645, nécessairement entre novembre et mars, période réservée à la création des tragédies ; le lieu de création, en revanche, pose problème, car nous n'avons aucune information à ce sujet. Il existe en 1645 trois théâtres principaux à Paris : l'Hôtel de Bourgogne, le Marais (ancien jeu de paume), et le Palais-Cardinal. Ce dernier a été inauguré en 1641, le théâtre du Marais rouvre en octobre 1644, après avoir été détruit par un incendie au début de la même année ; quant à l'Hôtel de Bourgogne, c'est le plus ancien, puisqu'il existe depuis le XVI*e* siècle (1548). Tous trois étaient donc en activité en 1645 et susceptibles d'accueillir la création du *Turne de Virgile*. Toutefois, dans la mesure où trois autres pièces de Brosse, *Les Innocens coupables, les Songes des hommes esveillez* et *l'Aveugle clair-voyant*, ont été créées à l'Hôtel de Bourgogne, on peut penser qu'il en fut de même pour la tragédie.
 
@@ -69,10 +69,10 @@ D'autant que l'Hôtel de Bourgogne était connu pour ses représentations à dé
 Sous des dehors d'archaïsme, Brosse se situe donc à une période charnière de la mise en scène de son temps.
 
 
-# Brosse et le théâtre de son temps
+# Brosse et le théâtre de son temps.
 
 
-## Brosse et les règles
+## Brosse et les règles.
 
 *Le Turne de Virgile* est la seule tragédie de Brosse, et elle nous donne l'occasion de voir comment un jeune auteur adapte le « genre théâtral » par excellence qu'est la tragédie aux règles nouvellement établies pour contrer le genre « libre » de la tragi-comédie, qui connaît un flamboyant succès durant la décennie 1630-1640, et pour créer une illusion encore plus parfaite : désormais, les règles sont garantes de l'illusion, tout en permettant de régler le dérèglement des passions et de conserver au spectateur la conscience de l'artificialité de l'action présentée pour que la catharsis puisse agir [17].
 
@@ -85,7 +85,7 @@ Celle-ci commence à s'imposer dans les années 1630 : elle est une attaque dir
 Mais la veine épique a dû poser un problème à Brosse au niveau des bienséances. En effet, cette notion prend une importance croissante dans les années 1640 : il importe de ne pas choquer le public, et donc de conformer les caractères des personnages, leur langage, et le traitement des faits, au code éthique des contemporains. Ainsi, la violence est totalement bannie de la scène, alors même qu'au début du XVII*e* siècle, elle était au contraire une caractéristique très prisée du théâtre baroque, qui se plaisait à montrer sur scène meurtres, suicides, viols, enlèvements, morts… Désormais toutes ces actions ont lieu en coulisses. Il est donc impossible en 1645 de montrer sur scène de sanglantes batailles. Et la remarque de Brosse dans l'Avis au lecteur nous rappelle que la question était encore sensible en ce milieu de XVII*e* siècle : « on doit abaisser une toile, derriere laquelle ils se battent avec quelque bruit d'armes. Cette observation devoit estre mise en marge, sur la fin du troisieme Acte ; mais l'imprimeur l'ayant obmise, j'ai bien voulu la placer icy, afin de prevenir ta censure qui m'auroit pû reprendre d'ensanglanter la Scéne … ». Brosse n'ose pas montrer la bataille aux spectateurs, mais pense qu'ils auront plaisir à en entendre le bruit : « singulier compromis » [19], qui nous révèle son souci des bienséances.
 
 
-## La tragédie française de 1634 à 1645
+## La tragédie française de 1634 à 1645.
 
 Entre 1630 et 1649, la production tragique ne cesse d'augmenter (passant de 38 tragédies pour la décennie 1630-1639 à 69 entre 1640 et 1649 [20]), quoique concurrencée par la tragi-comédie. De 1635 à 1640, l'histoire antique, la mythologie et la reprise de tragédies antiques (comme Médée) sont la principale source de sujets dramatiques. Les auteurs se plaisent à y introduire le merveilleux (c'est ce qui est aujourd'hui qualifié d'esthétique baroque), et on constate également des doublons : il y a alors deux troupes de théâtre à Paris, et souvent, les auteurs attitrés rivalisent sur un même sujet. On a ainsi deux Lucrèce, l'une de Chevreau et l'autre de du Ryer. A partir des années 1640, les tragédies racontant l'histoire de martyrs chrétiens se développent, mais les sujets antiques restent prépondérants, d'autant que Corneille connaît un succès conséquent avec ses trois tragédies romaines : successivement *Horace* (1640), *Cinna* (1642) et *Polyeucte* (1642). Il n'est pas impossible que ce succès ait influencé Brosse dans le choix de son sujet. Mais pourquoi choisir Virgile comme source principale ?
 
@@ -96,10 +96,10 @@ L'œuvre de Virgile a donc inévitablement donné lieu à des adaptations dramat
 La pièce de Prévost, intitulée *Turne*, est très proche du canevas épique de son modèle virgilien : les dieux sont présents et influent sur l'action, le mariage entre Enée et Lavinie est purement politique, Enée est présenté comme un chef idéal, doué d'une force morale, politique et religieuse sans faille, qui ne connaît que son devoir, le personnage de Lavinie est quasiment absent, et toute l'action est subordonnée à l'idée du duel. Cependant, Prévost a fait de Turne un personnage innocent et coupable, attachant et humain, qui avoue son amour pour Lavinie, mais qui est aussi impétueux et violent. C'est donc un personnage plus complexe et plus central que celui de Virgile que nous présente Prévost : il transforme l'épopée d'Enée en tragédie de Turne, héros qui mérite et ne mérite pas son sort, définition exacte du héros par Aristote [21]. Ce développement psychologique du personnage s'affine au cours des années, et se retrouve chez Brosse, où la tragédie de Turne est mise en valeur par l'amour qu'il porte à Lavinie.
 
 
-# Les sources
+# Les sources.
 
 
-## L'Enéide
+## L'Enéide.
 
 Toutefois, l'influence de Prévost semble limitée. Lorsque Brosse reprend le même sujet en 1645, il n'est pas certain qu'il ait connu le texte de Prévost. Il n'y fait jamais allusion, et sa tragédie, est très éloignée de celle de Prévost. En revanche, on retrouve tout à fait le schéma de l'épopée virgilienne (voir extraits mis en annexe) : Enée arrive dans le Latium pour « establir en ces lieux une nouvelle Troye » (v. 50), s'ensuit une guerre entre Troyens et Latins ; Enée et Turne conviennent d'un duel « pour terminer cette guerre mortelle » (v. 61), pour gagner Lavinie et le trône ; les deux partis prêtent serment (*Enéide*, XII, 195 sq. / acte III) ; Amata refuse de laisser sa fille à Enée ; Juturne disparaît en tentant de sauver son frère ; Turne est tué lors du duel. Brosse a donc bien suivi la progression de l'intrigue, et son respect de l'œuvre virgilienne se retrouve jusque dans son texte. En effet, il fait allusion à plusieurs reprises à des événements qui ont eu lieu précédemment dans l'épopée : ainsi, le vers 15 renvoie au livre VII, le vers 20 au livre IX, le vers 620 au livre VI, toutes références précises qui étaient claires pour les spectateurs de l'époque. Par ailleurs, il cite en marge de son texte des extraits en latin de l'*Enéide*, qui peuvent lui servir de didascalies (v. 806), ou qui soulignent au lecteur combien il reste proche du texte original : ainsi, la scène 4 de l'acte III reprend presque mot pour mot le serment échangé entre Latinus et Enée dans l'*Enéide*. Comparons par exemple le texte d'Enée : chez Virgile on trouve [22] « que le soleil en cet instant soit mon témoin, et témoin aussi cette terre que j'invoque et pour laquelle j'ai pu supporter de si rudes travaux (…). Brosse ne dit pas autre chose :
 
@@ -121,7 +121,7 @@ Mais Brosse a remplacé cet épisode par une péripétie, probablement inspirée
 Tout en restant fidèle au canevas virgilien (un duel doit avoir lieu pour déterminer qui d'Enée ou de Turne épousera Lavinie et succèdera à Latinus), Brosse a donc adapté les personnages et la situation de l'épopée à la tragédie renaissante du XVII*e* siècle.
 
 
-## L'influence de Corneille
+## L'influence de Corneille.
 
 En 1645, Corneille est LE grand auteur : Molière et Racine n'ont pas encore produit leurs chefs-d'œuvre, et Corneille a connu un succès retentissant avec *Le Cid*, et la Querelle qu'il a déclenchée. Si le schéma de la tragédie de Brosse était déjà présent chez Virgile, le choix de ce sujet a certainement été influencé par le succès encore récent de la tragi-comédie de Corneille.
 
@@ -182,10 +182,10 @@ Dans les deux cas, le personnage devient véritablement un héros, puisqu'il cè
 Dire comme Françoise Kantor dans sa préface au *Turne* de Prévost que « apparemment le plus grand modèle pour La Brosse est Corneille et non Virgile » et que « pour lui du moins les Modernes l'emportent sur les Anciens, surtout si le moderne a découvert la recette du succès », est certainement excessif et injustifié : excessif parce que, certes Brosse s'est inspiré de Corneille, mais la principale source de sa pièce est bien l'épopée virgilienne ; injustifié parce que, si l'influence de Corneille est indéniable, une nette différence distingue *Le Cid* du *Turne de Virgile* : alors que Chimène aime celui qu'elle refuse d'épouser, Lavinie n'aime pas celui que son père veut lui donner pour époux, et cela crée une différence de genre que l'on ne peut occulter : chez Corneille, l'amour, bien qu'invraisemblable, triomphe, ce qui fait du *Cid* une tragi-comédie ; chez Brosse, l'amour, bien que partagé (entre Turne et Lavinie), est contrarié, ce qui fait du *Turne de Virgile* une tragédie.
 
 
-# De l'épopée à la tragédie
+# De l'épopée à la tragédie.
 
 
-## Le passage d'un genre à l'autre
+## Le passage d'un genre à l'autre.
 
 *Le Turne de Virgile*, une tragédie : le genre de la pièce est évident à la lecture, mais il pose problème dans la mesure où il est issu d'une épopée, et où le passage de l'épique au tragique impose un certain nombre d'adaptations.
 
@@ -213,7 +213,7 @@ Mais cette structure dramaturgique trouve peut-être son explication dans le fai
 La tragédie de Brosse est donc une mauvaise adaptation d'une épopée, ou bien une adaptation inachevée.
 
 
-# Les personnages
+# Les personnages.
 
 Le héros de la pièce, *Turne*, est un parfait héros de tragédie d'après les critères que donne J. Scherer [32]. Il est jeune, impétueux (c'est lui qui propose le duel), noble (il est fils du roi Daunus), valeureux et malheureux. Il est en proie à un conflit intérieur entre son *ethos* et son *pathos* [33], autrement dit entre son devoir et sa passion. Son devoir lui impose de se battre contre Enée. En effet, fils de roi et guerrier reconnu, il a déjà un statut de héros : or « il suffit qu'un héros refuse de se battre en duel pour cesser d'être un héros » [34]. Si Turne refuse de se battre, il ne sera donc plus digne de Lavinie. Comme pour Rodrigue, l'amour est un moteur pour Turne. Mais c'est aussi un obstacle, car en se battant, il risque de mourir et de perdre la femme qu'il aime, et c'est pourquoi Lavinie tente de l'empêcher de combattre. Comme chez Corneille, l'amour entre en conflit avec lui-même [35] : l'amour pousse Turne à combattre et lui enjoint de renoncer. Turne est donc partagé pendant une grande partie de la pièce entre obéir à son roi ou se soumettre à l'amour de sa belle. Il cède à l'amour (I, 4), mais c'est la seule fois de la pièce. Après, il n'écoute plus que son devoir, encore plus quand il s'agit de venger sa sœur. Cependant, ce qui fait la force du personnage, c'est que c'est un héros que l'on empêche de montrer son héroïsme [36] : durant toute la pièce, Turne est en effet l'objet de reproches, que ce soit de la part de Latinus (I, 1), d'Amata (IV, 2) ou de Lavinie (IV, 3), et le duel tant attendu est sans cesse repoussé, d'abord par Turne lui-même qui cède à Lavinie (I, 4), puis par les Troyens qui refusent de laisser Enée combattre (II, 2), et enfin par Juturne (III, 5). Sa défaite face à Enée devrait l'anéantir, mais c'est précisément là qu'il devient véritablement un héros : il renonce, par respect pour les règles du duel, à ce pour quoi il s'est battu pendant toute la pièce. Turne est un héros parce qu'il sait renoncer à sa passion amoureuse pour honorer son devoir et sauver son honneur. Et le public ne peut avoir que de la sympathie pour lui, car sa situation est injuste, et d'autre part c'est un héros faillible, capable de céder à l'amour, mais aussi d'y renoncer par devoir. Et le tragique de sa situation est accentué par le fait qu'il est l'auteur de sa propre fin : c'est lui qui a proposé le duel, parce qu'il devait se montrer conforme à son statut de héros et digne de Lavinie. Turne devient un héros parce qu'il se souvient de ce qu'il se doit même lorsqu'il est vaincu et même face à l'amour. Quel plus bel exemple d'héroïsme tragique !
 
@@ -236,7 +236,7 @@ Le héros virgilien, *Enée*, a toute la sympathie du lecteur : il a perdu son 
 Reste le personnage de *Juturne*, sœur du héros. Bien que personnage secondaire dans l'intrigue, elle joue un rôle capital : d'abord parce qu'elle a une fonction annonciatrice. Elle est souvent en retrait dans les scènes, mais lorsqu'elle prend la parole, c'est pour annoncer un malheur qui généralement se produit à la scène suivante (II, 3), elle symbolise la méfiance du spectateur, et relance le suspense. Mais son rôle a une grande importance surtout parce qu'il permet à Brosse de dénouer la situation [44]. En effet, alors que depuis le premier acte le duel est sans cesse empêché et que Turne ne cesse d'hésiter entre aller au combat ou non, l'annonce de la mort de Juturne (IV, 5) met Turne dans un tel état de fureur qu'il se rend au duel, non plus pour gagner Lavinie, mais pour venger sa sœur. Et le personnage de Juturne ajoute au tragique du dénouement, parce qu'elle s'était travestie pour empêcher le duel d'avoir lieu, et sa mort précipite le duel. Elle n'atteint donc pas le but qu'elle s'était fixé, mais en se sacrifiant pour empêcher la mort de son frère, elle devient une véritable héroïne, et permet à Turne de devenir à son tour un héros en vengeant sa mort. Elle est donc un personnage clé de la tragédie.
 
 
-# Une thématique baroque : le déguisement
+# Une thématique baroque : le déguisement.
 
 Toutes les pièces de Brosse quelque soit leur genre, comportent un déguisement : la décennie 1640-1649 est de fait la grande époque du déguisement dramatique. Sur 70 tragédies, 14 comportent une dissimulation d'identité. Dans *Le Turne de Virgile*, c'est le personnage de Juturne qui se déguise en cavalier à la fin du troisième acte. Conformément à la terminologie de Georges Forestier [45], nous avons affaire à un « déguisement secondaire », c'est-à-dire qui ne porte que sur une partie de l'action, mais qui n'en est pas moins déterminant pour la suite de l'action : le déguisement a une signification dramatique. Juturne se déguise de manière consciente pour transformer le duel entre Turne et Enée en bataille générale, de sorte que les deux combattants ne peuvent pas se retrouver face à face. Il y a deux niveaux à son déguisement. D'abord un niveau verbal : elle prétend être un envoyé des dieux (« l'Organe du Destin et des Dieux irritez », v. 833) et les autres personnages la prennent pour le dieu Mars (« Mars ne parut jamais avecque plus de pompe / Il faut que ce soit luy. », v.830-831). Mais elle ne peut se contenter de prétendre être autre, sous peine d'être immédiatement reconnue par son frère. D'où le deuxième niveau de déguisement, physique celui-là, et ce déguisement d'apparence en cavalier entraîne pour Juturne un changement de sexe, mais le spectateur [46] ne l'apprend, avec Turne, qu'à l'acte IV par un billet de Juturne elle-même. Le mystère est donc maintenu pendant près d'un acte, ce qui est très long : généralement, les déguisements conscients n'occupent guère plus de quelques scènes [47]. C'est d'ailleurs la seule pièce de tout le répertoire où le déguisement a lieu si tôt, ce qui permet de créer un coup de théâtre pour les spectateurs.
 
@@ -250,24 +250,24 @@ Méprisons les mal-heurs, *tâchons de paroistre hommes* [49] (v. 321-322)
 Juturne la prend au mot un acte plus tard, après avoir confié un « secret » à Sidon (fin de l'acte II), de quoi nourrir le suspense pour les spectateurs. Juturne se déguise également dans l'*Enéide*, mais Turne la reconnaît très vite et le lui fait savoir. Ici Turne ne pouvait pas reconnaître sa sœur, car il fallait à Brosse un prétexte valable pour que Turne, furieux, combatte enfin Enée : s'il l'avait aussitôt reconnue, le duel aurait bien eu lieu à l'acte III. C'est pourquoi l'apparition de Juturne casquée a lieu si tôt dans la pièce [50] : Turne devait ensuite apprendre qui était ce mystérieux cavalier, et le dénouement ne devait pas être la reconnaissance d'identité (la pièce ne se fonde pas sur la dissimulation d'identité de Juturne), comme c'est souvent le cas, mais la mort de Turne. Dès lors le déguisement de Juturne est-il une réussite ? On peut dire que oui, dans la mesure où elle n'est reconnue par personne (ce qui lui permet de développer un large *discours du personnage déguisé* [51], puisque Brosse lui a évité d'être menacée par l'intervention d'un autre personnage) et où elle réussit, même temporairement à empêcher le duel entre Turne et Enée. Néanmoins, puisque Turne finit par mourir au combat, ce qui est précisément ce que voulait empêcher Juturne, son déguisement se révèle un échec. De fait, les causes d'échec d'un déguisement, recensées par G. Forestier [52], sont les suivantes : transparence du déguisement ; apparition du personnage dont le personnage déguisé a pris la place ; trahison du secret par un tiers ; reconnaissance du personnage déguisé par un intervenant extérieur ; et circonstance imprévisible qui force le personnage déguisé à se dévoiler. C'est précisément ce que nous avons ici : c'est la mort qui est la circonstance imprévisible, et qui oblige Juturne à se dévoiler. Brosse ne pouvait pas la faire mourir sans se dévoiler, sinon son déguisement aurait été inutile : le duel entre Turne et Enée aurait eu lieu sans que Turne soit au courant de la mort de sa sœur, donc sans vengeance, donc sans dimension tragique. Le dévoilement du déguisement de Juturne était nécessaire pour permettre à Turne de surmonter sa passion amoureuse, et de mourir en héros : en apprenant le déguisement et la mort de sa sœur, Turne n'écoute plus que la voix du devoir, qui lui impose de venger Juturne, et meurt en héros parce qu'il a suivi son devoir malgré son amour pour Lavinie. Le déguisement de Juturne ouvre donc à Turne les portes de la gloire, et en cela on peut dire qu'il est une réussite, même s'il atteint un autre but que celui qu'il s'était fixé. Mais si, une fois le déguisement mis en place, son dévoilement était dramaturgiquement nécessaire, le principe du déguisement l'était-il aussi ? N'est-il pas pour Brosse un moyen de plus de repousser le duel, en cédant à une mode thématique… ? L'absence de justification du déguisement, soit par un monologue d'explication, soit par le traditionnel récit à un confident (Juturne ne mentionne à Sidon qu'un « secret » ), joue en faveur de cette hypothèse. Car, comme l'écrit G. Forestier, « le principe de la motivation du déguisement est, pour tout bon dramaturge, obligatoire. Forcer le spectateur à prendre les déguisements tels qu'ils sont sans se poser de questions est assurément le meilleur moyen de l'amener à se poser des questions sur leur légitimité. » [53]. En fait, si le déguisement de Juturne se justifie par le fait qu'elle doive pénétrer dans le camp troyen (donc se déguiser en soldat et en homme), il se réduit à sa fonction dramatique [54], qui est de parler à Turne et Enée pour empêcher leur duel, avant de partir mourir au combat. Mais, comme nous l'avons déjà dit, il fallait à Brosse un motif suffisamment fort pour que Turne combatte enfin Enée : en cela, le déguisement de Juturne est juste un moyen dramatique pour arriver à ce que Brosse voulait : la mort de Turne sur scène pour en faire un héros.
 
 
-# Le style
+# Le style.
 
 Si la structure de la tragédie de Brosse est relativement faible, comme nous l'avons montré plus haut, cette faiblesse se trouve compensée par un style très travaillé, et que nous nous proposons d'étudier ici.
 
 
-## La variété métrique
+## La variété métrique.
 
 La pièce de Brosse est écrite en alexandrins parfaitement réguliers (mis à part un vers faux, v. 1417). Mais à deux reprises, on relève des écarts métriques significatifs : le vers 782 n'est constitué que d'un hémistiche. Est-ce un oubli de l'auteur, du compositeur ? Il est plus probable que Brosse a voulu donner au serment adressé par Enée aux dieux une forme de solennité. On retrouve le même style aux vers 1261-1264 : le vers 1262 n'est constitué que d'un hémistiche. Cela s'explique par le fait que Turne reprend ici les mots de la lettre de sa sœur (écrite en vers mêlés comme nous l'expliquons ci-après), et que la scène est particulièrement importante : Turne décide de venger sa sœur, et il en mourra. La solennité est donc de mise.
 
 Nous trouvons également un écart métrique à la scène 5 de l'acte IV, mais qui se justifie aisément, car il est beaucoup plus courant. Il s'agit en effet de la lettre de Juturne à son frère. Comme l'explique J. Scherer [55], « il est admis que la lettre ou le billet ne doivent pas être écrits comme le dialogue parlé ordinaire, qui s'exprime par des alexandrins à rimes plates ». Il faut en effet que le spectateur remarque qu'il s'agit d'une lettre, et que ce ne sont pas des paroles du personnage qui lit la lettre. Brosse mêle pour cette lettre les octosyllabes et les alexandrins, illustrant par là la tension respiratoire de celle qui va bientôt mourir, mais qui trouve tout de même la force de reprendre le vers solennel pour demander vengeance.
 
 
-## Les sentences
+## Les sentences.
 
 Une particularité de la tragédie de Brosse est l'emploi affiché de sentences. La forme de la sentence a toujours été goûtée par les auteurs dramatiques : elle aurait en effet une valeur morale, propre à enseigner la vertu, par où elle rejoint le côté instructif du théâtre. Elle a donc toujours été présente, mais a connu une évolution formelle : les auteurs et les imprimeurs du XVI*e* siècle, pour attirer l'attention de leurs lecteurs, faisaient précéder les sentences de guillemets ouvrants [56]. Le dernier à le faire au XVII*e*, selon J. Schérer, est Mairet, dans sa *Silvanire* en 1631. Et pourtant, Brosse fait de même. Pourquoi remet-il cet usage au goût du jour ? Craignait-il que le lecteur ne remarque pas la présence de ces petites phrases à valeur de proverbes ? En effet, cet usage est destiné uniquement au lecteur, car sur scène, seul le contenu général et abstrait de la sentence peut la faire sentir comme telle au public. Mais il n'empêche qu'en 1645, l'usage de guillemets était passé de mode, et que cela ajoute à l'archaïsme de la pièce, déjà sensible avec le décor à compartiments. Dans *Le Turne de Virgile*, ces sentences expriment une vérité commune qui peut s'appliquer à la situation de la pièce, et elles concernent essentiellement le domaine politique. Elles servent à illustrer et à justifier un propos, et elles s'intègrent donc dans un discours construit. La forme de la sentence obéit à des principes stricts : elle doit tenir en une seule phrase, les phrases qui l'entourent peuvent l'expliquer, mais ne doivent pas lui être indispensables ; elle ne doit comporter aucun adverbe, aucune conjonction pouvant la rattacher au contexte ; elle ne doit faire référence à aucun personnage de la pièce ; elle doit être au présent, ayant valeur universelle et intemporelle. Ainsi, aux vers 69-72, la véritable sentence est le vers 71 : « Souvent les plus adroits meurent en combattant », les autres vers ne servent qu'à l'expliquer. Latinus fait appel à cette maxime générale pour essayer de convaincre Turne de renoncer au combat. Elle a donc valeur d'avertissement. En revanche, l'emploi des guillemets se justifie malaisément pour les vers 159-160 et 1589-1592. Dans le premier cas, le possessif « son » fait inévitablement référence à Turne dont vient de parler Amata, et la valeur générale de la sentence est automatiquement annulée. Enfin, pour les vers 1589-1592, il est impossible d'en isoler un qui porterait l'idée principale, ils sont liés entre eux. Ils ont certes une valeur morale, mais ne constituent pas une sentence. Doit-on y voir un usage abusif des guillemets ? Dans la mesure où d'autres vers de la pièce peuvent être considérés comme des sentences malgré l'absence de guillemets (par exemple le vers 276 : « Amour a des guerriers, aussi bien comme Mars), on parlera plutôt d'un usage inapproprié.
 
 
-## Les formes de l'écriture théâtrale
+## Les formes de l'écriture théâtrale.
 
 Deux données formelles caractérisent la pièce de Brosse. Tout d'abord la faible récurrence du monologue : on en comptabilise deux dans toute la pièce, l'un pour Turne (I, 2), et l'autre pour Enée (III, 2). Les deux adversaires ont chacun un morceau de bravoure, à défaut d'en avoir un sur le champ de bataille. Dans son monologue, Turne cherche à se galvaniser pour le combat, d'où les nombreuses apostrophes et les multiples impératifs : « Heroiques transports, genereux mouvemens », « noble instrument », « Et vous puissans attraits des yeux de Lavinie », « Ouy Latins », « Apprenez », « ne sois pas », « Arrache », « Inspirez moy » … Cela renforce le sentiment que Turne est en-dehors de l'action tout au long de la pièce : il trouve hors de lui les ressources pour le combat, et cela parce que c'est plus l'amour qui le porte à affronter Enée que son honneur personnel. Et le contraste avec les scènes suivantes est d'autant plus saisissant : Turne trouvait seul les ressources pour aller combattre, mais il faut que trois personnages s'unissent pour qu'il cède à l'amour : son devoir avait pris le pas sur sa passion. Son monologue n'a de valeur que par rapport à ces scènes, qui détruisent tout ce qu'il a pu mettre en œuvre pour justifier ce duel.
 
@@ -276,7 +276,7 @@ La fonction du monologue d'Enée est totalement différente : il a une visée i
 Mais ce qui frappe à la lecture de la pièce, c'est surtout le nombre de récits : il y en a six. Deux raisons à cela : le texte de Virgile est une épopée où les combats et leur description occupe une certaine place, et ces combats ne pouvant être montrés sur scène pour des raisons de bienséance, il faut les raconter. Ce sont les personnages masculins, présents sur le champ de bataille, qui s'en chargent (Sidon, II, 2 et V, 1 ; Enée, III, 2 ; Turne, IV, 1 et IV, 3 ; Latinus, IV, 4). Ces nombreuses narrations suspendent l'action, mais sont en même temps nécessitées par l'abondance des événements qui se déroulent en coulisses, et changements de décision. Le problème est que ces récits épiques n'apportent pas toujours quelque chose à la progression dramatique de l'action : les personnages n'ont pas le temps de réagir au récit qu'un événement vient déjà le contredire, ou qu'un personnage commence un autre récit. Ainsi à l'acte IV, trois récits s'enchaînent en l'espace de trois scènes ! Néanmoins, si ces récits n'ont pas de qualités dramaturgiques, leur qualité littéraire est indéniable. Brosse réussit à chaque fois à rendre vivante l'action dépeinte. Prenons par exemple le récit du duel entre Turne et Enée fait par Sidon (V, 1) : il est habilement découpé en cinq parties (la plus conséquente relatant spécifiquement le duel), ce qui ménage un certain suspense pour le public, et accroît la tension pour les deux personnages. Il commence par présenter les deux combattants, sans les nommer, de manière tout à fait égale : « tous deux » est répété sept fois soulignant l'évident parallélisme entre les deux hommes. Puis, les figures des deux combattants se distinguent, Turne étant à terre, et Enée en position de force. Turne apparaît courageux (« son cœur affermy », « ce noble courage » ), et Enée plein de fureur (« le presse », « oublia la pitié », « jusques à la furie », « oyant son courroux » ). Rien ne peut les départager sauf l'écharpe de Pallante : c'est l'élément décisif du duel, et c'est pourquoi il en est question au quinzième vers (milieu exact) de la tirade qui en compte trente. C'est à partir de là qu'Enée entre en furie. Sans cette écharpe, Enée était prêt à accorder la grâce à Turne (v. 1306-1313). Et ce récit est rendu d'autant plus vivant que Sidon utilise le discours direct (v. 1306-1308) et qu'il parle au présent, actualisant ainsi son discours. Le dernier vers de la tirade (« Il le fait relever, et le perce de coups » ) la clôt de manière assez abrupte, laissant aux personnages et aux spectateurs le soin d'imaginer si Turne est vivant ou mort, jusqu'à ce que Lavinie pose la question. Brosse atteint donc par cette force descriptive à une tension et à un pathétique certains, et cela dans tous les récits de la pièce.
 
 
-## Les figures au service de l'expression amoureuse
+## Les figures au service de l'expression amoureuse.
 
 L'amour est dans la tragédie de Brosse le principal moteur de la pièce. Il va donc de soi que son expression passe par des figures, et une rhétorique de la passion, destinées à émouvoir les spectateurs. Nous n'avons pas d'effusion passionnelle, comme on peut en trouver dans les tragi-comédies, mais au contraire une condensation des sentiments en oxymores, parallélismes, répétitions, apostrophes, qui illustrent parfaitement la tension dramatique et charment facilement l'oreille de l'auditeur.
 
@@ -304,7 +304,7 @@ On voit que si le talent dramaturgique de Brosse, du moins dans le genre tragiqu
 La pièce de Brosse est la dernière adaptation de la lutte entre Enée et Turne de la littérature française. Seul un opéra du XVIII*e* siècle, intitulé *Lavinie*, traite de cet épisode. A partir du milieu du XVII*e*, la tendance est plutôt à la désacralisation de Virgile et de son œuvre : comme l'explique Christian Biet dans son article « *Enéide* triomphante, *Enéide* travestie » [58], « le texte latin devient la cible privilégiée des auteurs burlesques durant la période troublée de la Fronde : Furetière en 1648, Scarron de 1649 à 1652, Dufresnoy (1649), Perrault, (1653), Brébeuf (1650), d'Assoucy (1648) … Toutefois, il n'est pas question de railler Virgile, mais de tourner en ridicule la manière sacrée et universitaire dont on le consacre à l'époque ». La pièce de Brosse est donc non seulement le reflet du passage d'un genre à l'autre (de l'épopée à la tragédie), mais aussi un témoignage des derniers feux dramatiques du poète latin, car si Racine rend hommage à Virgile dans sa préface de *Bérénice*, l'épopée du grand poète latin ne sera plus l'objet d'aucune adaptation théâtrale.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il n'existe qu'une seule édition du *Turne de Virgile*, exécutée en 1647 par la veuve du libraire Nicolas de Sercy. En voici la description :
 
@@ -395,7 +395,7 @@ Nous avons conservé la ponctuation originale, sauf quand un changement s'imposa
 # LE TURNE DE VIRGILE. TRAGEDIE.
 
 
-## EPISTRE [61] A TRES-HAUT ET TRES-PUISSANT SEIGNEUR *MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d'Avalon, Vezelay, etc.*
+## EPISTRE [61] A TRES-HAUT ET TRES-PUISSANT SEIGNEUR *MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d'Avalon, Vezelay, etc.*.
 
 MONSEIGNEUR,
 
@@ -536,7 +536,7 @@ A qui l'illustre sang a donné des sujects [99],
 Faites choix du plus beau, destinez lui vostre ame⁎,  
 Et les premiers devoirs d'une nouvelle flame⁎.  
 
-    TURNE
+    TURNE.
 Que Turne ait de l'amour pour une autre beauté !  
 O propos outrageux, et plein de cruauté,  
 Ha ne m'obligez point à cette faute extreme,  
@@ -548,7 +548,7 @@ J'affronteray la mort pour gagner Lavinie,
 Mon Rival est trop vain⁎, d'aspirer à son rang,  
 Avant qu'avoir [100] esteint mes feux⁎ dedans [101] mon sang.  
 
-    LATINUS
+    LATINUS.
 Puisque je voy [102] vostre ame⁎ à ce point obstinée,  
 Je l'abandonne au cours de vostre destinée⁎ ;  
 Turne tenez-vous prest, je consens que le sort⁎  
@@ -600,11 +600,11 @@ Leurs visages ternis, et leurs yeux esplorez
 Sont de leurs déplaisirs les tesmoins assurez.  
 
 
-### SCENE III
+### SCENE III.
 AMATA, JUTURNE, TURNE.
 
 
-    AMATA
+    AMATA.
 Saisie esgalement de crainte et de colere  
 Turne je viens blasmer vostre vertu⁎ severe,  
 Et loing de vous flatter d'un titre glorieux,  
@@ -630,7 +630,7 @@ En s'engageant tout seul dans un mortel orage,
 « C'est crime de souffrir qu'un homme de son rang  
 « Perde pour des sujets une goutte de sang. [109]  
 
-    TURNE
+    TURNE.
 Tout ce discours n'est rien qu'une subtile adresse [110]  
 Pour connoistre à quel point je chéry la Princesse,  
 Vous voulez esprouver⁎ ma resolution,  
@@ -640,13 +640,13 @@ Ne sçauroient m'empescher d'entrer dedans la lice [111],
 Et de faire paraistre en bravant⁎ les hazars⁎,  
 Qu'amour dans un grand cœur⁎ est assisté de Mars.  
 
-    AMATA
+    AMATA.
 Prince si la raison est si mal escoutée,  
 Qu'au moins celle [112] des pleurs ne soit pas rejettée,  
 Nous vous en conjurons par l'Auguste [113] douceur  
 Du sacré nom de Reine, et de celuy de sœur.  
 
-    JUTURNE
+    JUTURNE.
 Ouy si quelque respect et quelque amour vous reste,  
 Estouffez un dessein qui vous seroit funeste⁎,  
 Gardez vous de tenter le hazar⁎ d'un düel,  
@@ -656,55 +656,55 @@ Les ruisseaux de mon sang avec ceux de mes larmes,
 Prevenez⁎ en cedant⁎ à mon juste transport⁎,  
 Le regret que j'aurois de voir mon frere mort.  
 
-    TURNE
+    TURNE.
 Que ce sexe⁎ est puissant, que sa foiblesse est forte,  
 Je ne me vy jamais assailly de la sorte,  
 Jamais rien n'a si fort esbranslé ma vertu⁎,  
 Et je ne fus jamais si pres d'estre abatu.  
 
-    AMATA
+    AMATA.
 Juturne poursuivez, le voila qui chancelle,  
 Redoublez vos soupirs, et pressez⁎ ce rebelle.  
 
-    JUTURNE
+    JUTURNE.
 Madame il est vaincu, le secours que voicy  
 Nous fera triompher de ce cœur⁎ endurcy.  
 
-    TURNE
+    TURNE.
 Dieux comment resister, contre tant d'adversaires,  
 Quels efforts, quels conseils me seront salutaires,  
 Ha Turne dans l'estat où ton malheur t'a mis,  
 Fuy sans deliberer devant tes ennemis.  
 
 
-### SCENE IV
+### SCENE IV.
 LAVINIE, TURNE, AMATA, JUTURNE.
 
 
-    LAVINIE
+    LAVINIE.
 Arrestez.  
 
-    TURNE, *bas.*
+    TURNE, *bas.*.
         Si j'arreste, il faut que je me rende.  
 Poursuivons.  
 
-    LAVINIE
+    LAVINIE.
         Arrestez, c'est moy qui le commande.  
 
-    TURNE
+    TURNE.
 Je demeure immobile à ce commandement,  
 Qu'un homme a peu de force alors qu'il est Amant.  
 
-    LAVINIE
+    LAVINIE.
 Escoutez moy parler.  
 
-    TURNE
+    TURNE.
         Parlez, je vous écoute,  
 Vostre bouche et vos yeux n'ont rien que je redoute,  
 De quelque sentiment que je sois combatu,  
 Vous pouvez vaincre Turne, et non pas sa vertu⁎.  
 
-    LAVINIE
+    LAVINIE.
 Inhumain contentez vostre cruelle envie,  
 Sans me faire languir, arrachez moy la vie,  
 Prevenez⁎ en plongeant vostre espée en mon sein,  
@@ -714,7 +714,7 @@ Par le dernier malheur de vostre destinée⁎,
 Me fera sur nos murs mourir avec éclat,  
 Avant que vous soyez dans le lieu du combat.  
 
-    TURNE
+    TURNE.
 Donc suivant vos discours, mon Rival doit m'abattre,  
 Vous me jugez vaincu, puisque je vay combattre,  
 Vous croyez que je sois [115] un homme sans valeur⁎,  
@@ -724,36 +724,36 @@ Mars rendra mon bon-heur esgal à mon courage⁎,
 Et comme il prend plaisir d'honorer les guerriers,  
 Il m'aydera luy-mesme à cueillir des lauriers.  
 
-    AMATA
+    AMATA.
 Quoy Prince, sa douleur n'aura rien qui vous touche,  
 Elle ne vaincra point vostre vertu⁎ farouche,  
 Quoy vous serez rebelle aux loix de son amour  
 Jusques [117] à luy ravir le repos et le jour ?  
 
-    LAVINIE
+    LAVINIE.
 D'amour je n'en ay plus, je n'ay que de la hayne,  
 Puis qu'il est inhumain, je veux estre inhumaine,  
 Quoy qu'il fasse d'illustre en ce choc dangereux,  
 Je ne le verray plus que d'un œil rigoureux⁎.  
 
-    TURNE
+    TURNE.
 Quoy vous me hayerez !  
 
-    LAVINIE
+    LAVINIE.
         Je feray pis encore,  
 Je cederay⁎ mon cœur⁎ au Troyen qui m'adore.  
 
-    TURNE
+    TURNE.
 O trop sanglant arrest contre moy fulminé,  
 Coup d'autant plus mortel, qu'il est inopiné,  
 Vous aymerez un homme à qui tout fait la guerre,  
 Que la mer irritee a vomy sur la terre,  
 Ha changez de discours.  
 
-    LAVINIE
+    LAVINIE.
         Vous, changez de dessein.  
 
-    TURNE
+    TURNE.
 Mais le Roy veut qu'Ænée expire de ma main [118],  
 Il attend aujourd'huy cette preuve heroïque  
 Du zele qui m'engage à la cause publique,  
@@ -770,7 +770,7 @@ Le refus du combat, detruit ma passion⁎,
 Tesmoigner⁎ de la crainte, ou peu de hardiesse  
 C'est trahir mon honneur, et perdre ma maistresse.  
 
-    AMATA
+    AMATA.
 Que cette vaine peur, ne vous travaille pas,  
 Vous pouvez sans danger, mettre les armes bas,  
 Le rang que vous tenez, fera taire l'Envie⁎,  
@@ -790,19 +790,19 @@ Pour prix de leur Amour, ils n'auroient que du blâme,
 J'en donne ma parolle, en presence des Dieux  
 Pourveu que vous fuyez un combat ôdieux.  
 
-    LAVINIE
+    LAVINIE.
 Sur le mesme sujet, je dy la mesme chose,  
 Quelqu'illustre party que le Roy me propose  
 Mon cœur⁎ n'aura pour luy que d'extremes froideurs  
 Sy vous âlentissez [121], vos guerrieres ardeurs.  
 
-    TURNE
+    TURNE.
 Mais le Roy peut beaucoup, ce penser m'espouvante,  
 
-    LAVINIE
+    LAVINIE.
 Il peut tout sur sa fille, et rien sur vôtre Amante.  
 
-    TURNE
+    TURNE.
 C'est assez, je me rends, et pour vous tesmoigner⁎  
 Que tout cede⁎ à l'Amour alors qu'il veut regner,  
 Je mets sans repliquer à vos pieds mon espée,  
@@ -811,7 +811,7 @@ On peut estre vaillant, sans tenter les hazars⁎,
 Amour a des guerriers, aussi bien comme [123] Mars.  
 
 
-### SCENE V
+### SCENE V.
 LATINUS, TURNE, AMATA,
 
 LAVINIE, JUTURNE.
@@ -821,7 +821,7 @@ LAVINIE, JUTURNE.
 Turne que faites-vous ? quelle indigne foiblesse  
 Vous fait icy commettre un acte qui me blesse ?  
 
-    TURNE *bas*,
+    TURNE *bas*,.
 Que je suis interdit⁎.  
 
     LATINUS.
@@ -846,20 +846,20 @@ Qu'à tenter le peril, où la gloire m'attire,
 J'attens de ce combat, un laurier immortel,  
 Et je vay de ce pas, en dresser le Cartel⁎.  
 
-    LATINUS
+    LATINUS.
 Songez bien…  
 
-    TURNE
+    TURNE.
         Si je doy perir dedans l'orage,  
 Je heurteray du moins, l'ecueil de mon naufrage.  
 
-    JUTURNE
+    JUTURNE.
 O l'insensible frere,  
 
-    LAVINIE
+    LAVINIE.
         O l'infidelle Amant,  
 
-    AMATA
+    AMATA.
 Ne l'abandonnons pas dans son aveuglement,  
 Suivons le toutes trois, et combatons ensemble  
 Deux esprits differents, que la fureur assemble,  
@@ -867,10 +867,10 @@ Faisons agir nos yeux, pour la derniere fois,
 Et s'ils n'obtiennent rien, armons nous toutes trois.  
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LAVINIE, JUTURNE.
 
 
@@ -898,7 +898,7 @@ Sentons le coup du foudre [130] avant que d'en fremir [131] :
 Et qu'on doute en voyant nôtre constance Austere  
 Si Turne est mon Amant, et s'il est votre frere.  
 
-    JUTURNE
+    JUTURNE.
 Madame je ne puis contraindre mes douleurs  
 Jusqu'à leur refuser, des soûpirs et des pleurs,  
 Montrer de la constance, estant si mal-heureuse,  
@@ -914,7 +914,7 @@ Ma plainte et ma douleur doivent estre de mesme,
 Et de quelque raison, que vous me combattiez,  
 Je suis sœur, discourez comme si vous l'estiez.  
 
-    LAVINIE
+    LAVINIE.
 Il est vray que le Ciel, alors qu'il nous fait naistre,  
 Nous depart [133] un instinc, qu'on ne peut méconnoistre,  
 Par qui nous redoutons, et ressentons les coups  
@@ -938,17 +938,17 @@ Que je meure avec Turne, ou triomphe avec luy.
 Mais qu'apporte Sidon ?  
 
 
-### SCENE II
+### SCENE II.
 SIDON, LAVINIE, JUTURNE
 
 
-    SIDON
+    SIDON.
         Une belle nouvelle.  
 
-    LAVINIE
+    LAVINIE.
 Comment donc ?  
 
-    SIDON
+    SIDON.
         Les Troyens, soit par crainte ou par zele  
 S'opposent au dessein, de leur chef genereux⁎  
 Qui veut combatre seul, pour la gloire et pour eux,  
@@ -1028,11 +1028,11 @@ Ses yeux où l'on peut voir les plaisirs de son cœur⁎
 Semblent tacitement condamner vostre peur.  
 
 
-### SCENE III
+### SCENE III.
 AMATA, LAVINIE, JUTURNE, SIDON
 
 
-    AMATA
+    AMATA.
 Mes filles, je vous viens confirmer dans la joye  
 Une insigne faveur que le Ciel nous octroye,  
 La colere du sort⁎ à la fin s'adoucit.  
@@ -1040,7 +1040,7 @@ La colere du sort⁎ à la fin s'adoucit.
     LAVINIE.
 Par vostre ordre, Sidon, en a fait le recit.  
 
-    AMATA
+    AMATA.
 Donc, ne redoutons plus la rigueur⁎ importune  
 Qu'a jusqu'icy sur nous exercé la fortune⁎,  
 Nostre heur [144] pour commencer n'est pas moins affermy,  
@@ -1085,7 +1085,7 @@ Et tenez pour certain que dedans peu de jours
 Turne possedera l'Objet de ses Amours.  
 
 
-### SCENE IV
+### SCENE IV.
 TURNE, AMATA, LAVINIE, JUTURNE, SIDON.
 
 
@@ -1172,7 +1172,7 @@ Adieu Madame, adieu, je vous laisse mon cœur⁎,
 C'est assez de mon bras, pour revenir vainqueur.  
 
 
-### SCENE V
+### SCENE V.
 AMATA, LAVINIE, JUTURNE, SIDON.
 
 
@@ -1207,7 +1207,7 @@ Et vous, venez oster à ce frere inhumain
 Et la rage du cœur⁎ et le fer de la main.  
 
 
-### SCENE VI
+### SCENE VI.
 LATINUS, AMATA, LAVINIE, JUTURNE, SIDON.
 
 
@@ -1248,7 +1248,7 @@ Arbitres immortels, du destin⁎ des humains,
 Je ne fay plus de vœux, je mets tout en vos mains,  
 
 
-### SCENE VII
+### SCENE VII.
 JUTURNE, SIDON.
 
 
@@ -1267,10 +1267,10 @@ Je m'en ressouviendray, Sidon viens avec moy,
 Je t'instruiray de tout dans le jardin du Roy.  
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ÆNEE, ACATE.
 
 
@@ -1305,7 +1305,7 @@ Allez donc.
 Et si Turne paraist, venez m'en avertir.  
 
 
-### SCENE II
+### SCENE II.
 
     ÆNEE.
 APres mille travaux⁎, dont la seule memoire  
@@ -1358,7 +1358,7 @@ Acate de retour, avec de mes Soldats
 Me vient dire que Turne arrive sur ses pas.  
 
 
-### SCENE III
+### SCENE III.
 ACATE, ÆNEE.
 
 Troupe des Troyens.
@@ -1461,7 +1461,7 @@ Il vient d'un pas superbe⁎ accompagné des siens,
 Il intimideroit d'autres que des Troyens.  
 
 
-### SCENE IV
+### SCENE IV.
 LATINUS, TURNE, ÆNEE, ACATE.
 
 Troupe des Troyens. Troupe des Latins.
@@ -1574,7 +1574,7 @@ Je n'implore que vous.
         Je n'implore que toy.  
 
 
-### SCENE V
+### SCENE V.
 JUTURNE, TURNE, ÆNEE.
 
 LATINUS, ACATE.
@@ -1582,7 +1582,7 @@ LATINUS, ACATE.
 Troupe des Troyens, Troupe des Latins.
 
 
-    JUTURNE
+    JUTURNE.
 En habit de Cavalier.
 
 Barbares genereux⁎, courages⁎ sanguinaires,  
@@ -1663,10 +1663,10 @@ Je vay donc sur leur chef porter le premier coup,
 Donnons, nous les vaincrons sans nous péner beaucoup.  
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 AMATA, TURNE.
 
 
@@ -1813,7 +1813,7 @@ Mais que dy-je peut estre, hé Dieux la chose est vraye !
 Tyréne que voicy vient agrandir ma playe.  
 
 
-### SCENE II
+### SCENE II.
 TYRENE, AMATA, TURNE.
 
 
@@ -1862,7 +1862,7 @@ J'y voy du changement, et de l'émotion
 Ou pour mieux dire encor de l'indignation.  
 
 
-### SCENE III
+### SCENE III.
 LAVINIE, AMATA, TURNE, TYRENE.
 
 
@@ -1993,7 +1993,7 @@ Adieu donc, je m'en vay combattre vaillamment
 Vous aurez vostre Pere ou n'aurez plus d'Amant.  
 
 
-### SCENE IV
+### SCENE IV.
 LATINUS, SIDON, TURNE,
 
 AMATA, LAVINIE, TYRENE.
@@ -2083,7 +2083,7 @@ Il pourra rassurer vos esprits estonnez⁎,
 Voyez ce qu'il contient, adieu, Sidon venez.  
 
 
-### SCENE V
+### SCENE V.
 TURNE, AMATA, LAVINIE, TYRENE.
 
 
@@ -2151,10 +2151,10 @@ Dieux glacez son courage⁎ et retenez son bras.
 Dieux faites qu'il combate et qu'il ne meure pas.  
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 AMATA, LAVINIE, SIDON.
 
 
@@ -2275,7 +2275,7 @@ Retire toy Sidon, de genereux⁎ esprits
 Ne sçauroient qu'en secret soûpirer sans mépris.  
 
 
-### SCENE II
+### SCENE II.
 AMATA, LAVINIE.
 
 
@@ -2314,7 +2314,7 @@ Devoir qui m'inquiete, et qui me desespere,
 Irriteray-je un Roy, mépriseray je un Pere ?  
 
 
-### SCENE III
+### SCENE III.
 LATINUS, AMATA, LAVINIE.
 
 
@@ -2463,7 +2463,7 @@ Dieux, tesmoins des douleurs, dont mon Ame⁎ est atteinte,
 Esclairez ma raison dedans ce labyrinte.  
 
 
-### SCENE IV
+### SCENE IV.
 ÆNEE, LATINUS, AMATA, LAVINIE.
 
 
@@ -2520,7 +2520,7 @@ Vivant dans les douleurs depuis que je vous ayme
 Je suis tygre en effet, mais c'est envers moy-mesm.  
 
 
-### SCENE V
+### SCENE V.
 SIDON, LATINUS, AMATA, LAVINIE, ÆNEE.
 
 
@@ -2556,7 +2556,7 @@ Si la chose est ainsi, je consens qu'on l'ameine.
 Il est dessus un lict dans la sale prochaine⁎.  
 
 
-### SCENE VI
+### SCENE VI.
 LATINUS, AMATA. ÆNEE, LAVINIE.
 
 
@@ -2586,7 +2586,7 @@ Le spectacle sanglant qu'on nous vient faire voir,
 Vous deffend de nourrir ce temeraire espoir.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 TURNE, LATINUS, AMATA.
 
 LAVINIE, ÆNEE, SIDON, TYRENE.
@@ -2721,7 +2721,7 @@ Fautes survenuës à l'impression.
 Act. 2. Sc. I. vers 14. belles, lisez nobles. Sc. 2. vers I. belle, lisez bonne. Vers 21, en, lisez est. Sc. 3. vers 36. sa. lisez la. Sc 4. vers 44. son sang, lisez le Ciel. Acte 3. Sc. 2. vers 43. respects, lisez motifs. Sc. 3. vers. 30. mon lisez le. Sc. 4. vers 33. ardeur lisez d'abord. Acte IV. Sc. 1. ce lisez le.
 
 
-# LexiqueAccident« Hasard, coup de fortune » (Furetière).V. 1077 Alarme« Se dit figurément de toutes sortes d'appréhensions bien ou mal fondées » (Furetière).V. 9, 154, 754, 946Ame« Se prend souvent pour la vie, le cœur »V. 81, 538, 590, 709, 822, 845, 953, 1030, 1033, 1146, 1232, 1239, 1348, 1363, 1435, 1463, 1467, 1508, 1523« Partie spirituelle de l'homme quand elle est séparée de son corps »V. 93, 353« Signifie encore une personne particulière »V. 345, 513, 758, 1419« La personne qu'on affectionne extrêmement »Atteinte« Légère attaque, soit de maladie, soit de paroles »V. 353. « Action par laquelle on atteint, on touche » (Furetière).V. 1287 AvouerReconnaîtreV. 692« Déclarer qu'on approuve quelqu'un en tout ce qu'il fait ou fera » (Ac.).ÉpîtreBraver« Choquer, mépriser quelqu'un, le traiter de haut en bas » (Furetière).V. 167, 820, 905, 967, 1009, 1117, 1166, 1349 « Figurément, signifie affronter les dangers, affronter la mort, s'y exposer sans crainte » (Ac.).V. 624 Caresser« Faire montre d'amitié ou de bienveillance envers quelqu'un par un accueil gracieux, par quelque cajolerie » (Furetière).V. 441, 1333 Cartel« Écrit qu'on envoie à quelqu'un pour le défier à un combat singulier » (Furetière).V. 296, 685 Ceder« Laisser ou abandonner quelque chose pour un temps ou par civilité »V. 11, 226, 960. « Obéir, déférer à quelque puissance supérieure, relâcher » (Furetière).V. 179, 272, 756, 926, 1242, 1261, 1445, 1545 CependantPendant ce tempsV. 101, 397. Chaleur« Mouvement de colère prompt et passager »« Grande affection, zèle véhément, ardeur » (Ac.)V. 702, 896, 1143, 1285 Chocquer« Heurter avec violence ».« Quereller, offenser »V. 120, 261, 370, 456, 669, 1024, 1258. « Blesser légèrement » (Furetière).Cœur« Vigueur, force, courage, intrépidité »V. 29, 204, 507, 603, 691, 716, 885, 1130, 1298. « Âme »V. 168, 226, 415, 444, 555, 638, 675, 1035, 1196, 1264, 1354, 1409.Sens moderne : siège des sentiments, particulièrement amoureux, et des émotionsV. 188, 267, 305, 412, 431, 495, 531, 536, 560, 587, 711, 998, 1350, 1578, 1597.Consulter« Prendre avis, conseil ou instruction de quelqu'un » (Ac.).V. 607, 837Courage« Ardeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls »V. 38, 157, 214, 235, 530, 825, 865, 873, 984, 1081, 1217, 1265, 1280. « Vertu qui élève l'âme et qui la porte à mépriser les périls, quand il y a des occasions d'exercer la vaillance, ou à souffrir des douleurs, quand il y a lieu de montrer sa constance et sa fermeté » (Furetière).V. 65, 125, 331, 454, 585, 1301,  1559, 1567, 1594 DebatContestation en matière civileV. 96, 1204. Décevoir« Tromper » (Ac.).V. 1385Deffier« Provoquer quelqu'un au combat, l'appeler en duel ».« Mettre quelqu'un à pis faire, lui déclarer qu'on ne le craint pas ». « N'avoir pas confiance en quelque chose » (Ac.)V. 948Destinée/destin« Disposition ou enchaînement (irrévocable) de causes secondes ordonné par la Providence, qui emporte une nécessité de l'événement » (Furetière).V. 2, 99, 359, 615, 649, 681, 746, 766, 832, 911, 1357 Destin particulier d'un êtreV. 94, 206, 568, 961, 1054, 1588. Vie, existenceV. 583, 948, 1276, 1304, 1328, 1535. Devant« Préposition d'ordre, il est opposé à *après* »  (Ac.).V. 692Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein » (Furetière).V. 487, 683, 1073, 1215 Ennui« Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long » (Furetière)V. 318, 411Envie« Chagrin qu'on a de voir les bonnes qualités ou la prospérité de quelqu'un »V. 644, 922. « Passion, désir qu'on a d'avoir ou de faire quelque chose » (Furetière).V. 73, 142, 201, 249, 281, 370, 482, 638, 813, 922, 985, 1122, 1213, 1299, 1484, 1591 Esprouver« Faire expérience, connaître par expérience » (Ac)V. 163, 819Estime« Le cas, l'état qu'on fait d'une personne, ou de son mérite, de sa vertu » (Ac.)V. 390Estonnement« Action ou effet qui cause de la surprise, de l'admiration »V. 736. « Surprise causée par quelque chose d'extraordinaire, d'inattendu » (Furetière).V. 1238, 1421Estonner« Ébranler, faire trembler par quelque grande, par quelque violente commotion » (Ac.).V. 1223Estrange« Qui n'est pas dans l'ordre et dans l'usage commun » (Ac.)V. 1241 Faix« Fardeau, chose pesante que l'on porte » (Ac.)V. 352 Fatal« Qui porte avec soi une destinée inévitable » (Ac.).V. 727Feux« Se dit figurément, en choses spirituelles, morales, de la vivacité de l'esprit, de l'ardeur des passions » (Furetière)V. 92, 116, 143. Flamme« Désigne figurément l'amour profane » (Furetière).V. 82, 261, 346, 653, 810, 1034, 1436, 1524, 1532Fort« Se prend aussi figurément pour courageux, magnanime » (Ac.)V. 7 Fortune« Ce qui arrive par hasard, qui est fortuit et imprévu » (Furetière)V. 45, 438, 1441 « Tout ce qui peut arriver de bien ou de mal à un homme » (Ac.)V. 665, 725Foy« Serment, parole qu'on donne de faire quelque chose et qu'on promet d'exécuter » (Furetière). S'emploie surtout pour la « foy conjugale ». V. 88, 468, 711, 909Funeste« Qui cause la mort, ou qui en menace, ou quelque autre accident fâcheux, quelque perte considérable »V. 174, 773, 783, 1206, 1295, 1414. « Tragique, violent ». « Qui porte avec soi le malheur et la désolation » (Furetière).V. 1309Furie« Passion violente de l'âme, qui outre sa colère »V. 1026, 1320. « Ce qui se fait avec ardeur, promptitude, courage, impétuosité » (Furetière)V. 149. Furieux« Qui est transporté de colère, de fureur, de furie ; qui a de la violence, de l'impétuosité, de l'excès »V. 140, 491, 919, 1244, 1249. « Qui cause l'admiration » (Furetière).Genereux« Qui a l'âme grande et noble, et qui préfère l'honneur à tout autre intérêt »V. 330, 461, 603, 709, 861, 1034, 1109, 1153, 1198, 1215, 1305, 1341, 1366, 1419, 1441, 1567.« Brave, vaillant, courageux »Épître, v. 44, 103, 363, 395, 477, 606, 655, 688, 825, 907, 923, 951, 1109, 1215. « Libéral » (Furetière).V. 1305Gêner« Tenir en contrainte, mettre quelqu'un dans un état violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empêchant de faire ce qu'il veut » (Ac.).V. 1037Gêne« Peine d'esprit, contrainte fâcheuse, état violent où l'on se trouve réduit » (Ac.).V. 1464 Hasard« Cas fortuit, ce qui arrive sans cause apparente ou nécessaire »V. 1472. « Péril, danger, risque » (Furetière).Épître, v.167, 175, 275, 1159, 1216, 1230Hasarder« Risquer, mettre au hasard » (Furetière).V. 74, 458, 552, 593, 1472 Interdit« Estonné, troublé, qui ne sçait ce qu'il fait, ce qu'il dit » (Ac.)V. 279 Interet« Tout ce qui regarde le bien, la gloire, le repos tant de l'Etat que des particuliers »V. 150, 582, 1070. « Se dit aussi de la part qu'on prend en quelque chose, de la défense qu'on entreprend, de la protection qu'on lui donne » (Furetière).V. 39Merite« Assemblage de plusieurs vertus ou de bonnes qualités en quelque personne, qui lui donne de l'estime et de la considération » (Furetière).Épître, v. 291, 526 Mouvemens« Guerres intestines, troubles, séditions, au sens moral et spirituel » (Furetière).V. 305 « Élan, impulsion »V. 103, 288, 535, 675, 1522.Occasion« Hasard, fortune, qui fait trouver un temps, un lieu favorable pour faire quelque chose »V. 28, 651. « Rencontre particulière, circonstance » (Furetière).Épître, v. 847Passion« En morale, se dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens » (Furetière).V. 320« Se dit par excellence de l'amour » (Furetière).V. 244, 345 « Chaleur avec laquelle on fait quelque chose » (Furetière)« Désir violent ou inclination qui nous donne de l'affection pour quelque chose » (Furetière) Épître, 813Point (sur le)Au moment oùV. 960, 1159Prévenir« Détourner, empêcher par des précautions que quelque chose n'arrive » (Ac.)V. 179« Anticiper » (Ac.)V. 203 Presser« Poursuivre vivement, tant au combat qu'à la dispute » (Furetière)V. 186, 535, 1027, 1300.Prochaine« Qui est proche » (Ac.)V. 14, 401, 1520 Rigoureux« Qui est dur, sévère, douloureux » (Furetière).V. 224, 656, 1105, 1599 Rigueur« Dureté, sévérité » (Furetière)V. 308, 437, 1357, 1381, 1544.Sang« Se dit aussi de la parenté, de la race » (Furetière)V. 260, 333, 632, 1434.Sexe« Absolument parlant, se dit des femmes » (Furetière).V. 181, 1139, 1451Soin« Diligence qu'on apporte à faire réussir une chose, à la garder, à la conserver, à la perfectionner »V. 76, 488, 633, 948.« Attache particulière qu'on a auprès d'un maître ou d'une maîtresse pour les servir ou leur plaire » (Furetière).V. 450, 606Sort« Hasard, ce qui arrive fortuitement »V. 69, 95, 375, 435, 505, 753, 915, 1068, 1364« Incertitude des événements »« Se dit poétiquement de la vie et de la fortune des hommes » (Furetière)V. 642, 741, 922Souci« Chagrin, inquiétude » (Furetière).V. 1457Souffrir« Sentir de la douleur, du mal, ou quelque incommodité considérable »« Se dit aussi en morale des afflictions de l'esprit, des émotions de l'âme » (Furetière)V. 308, 1038 « Permettre » (Ac.)V. 62, 460, 574, 689, 1549« Tolérer, ne pas empêcher » (Ac.)V. 718, 863, 970, 1433, 1434 Succez« Événement » (Ac.).V. 1407 Superbe« Vain, orgueilleux, qui a de la présomption, une trop bonne opinion de lui-même » ; en nom commun, il désigne l'orgueilV. 638, 739, 819, 858.« Qui marque la magnificence, la somptuosité » (Furetière).V. 904Surmonter« Vaincre, avoir avantage sur quelqu'un » (Furetière). V. 1, 73, 682, 761, 1123Tesmoigner« S'ouvrir, faire connaître son sentiment » « Servir de témoin, montrer » (Furetière)V. 65, 245, 271, 443, 569, 1590Timide« Craintif, peureux »  (Ac.)V. 453, 976, 984Transport« Se dit figurément, en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions » (Furetière).V. 103, 179, 1123, 1261, 1589Traittement« Bon ou mauvais accueil fait à quelqu'un » (Furetière)V. 17, 1169Travaux« Peines qu'on a prises, qu'on s'est données, à quelque entreprise glorieuse, dans l'exécution de quelque chose de difficile » (Ac.)V. 48, 613, 622, 682, 1476Vain« Qui est sans fondement »V. 247.« Qui est dépourvu d'efficacité »V. 564. « Glorieux, superbe, orgueilleux » (Furetière).V. 91, 483, 1363Valeur« Grandeur de courage, ardeur belliqueuse »V. 18, 27, 391, 745, 843, 895, 942, 1208« Se dit aussi de toute autre estimation que celle de l'argent »V. 211Vertu« Force, vigueur, tant du corps que de l'âme »V. 24, 72, 129, 138, 183, 200, 218, 355, 394, 508, 524, 601, 632, 1417, 1433. « Se dit figurément en morale de la disposition de l'âme, ou habitude à faire le bien, à suivre ce qu'enseignent la loi et la raison » (Furetière).V. 448, 710, 1354
+# Lexique.Accident« Hasard, coup de fortune » (Furetière).V. 1077 Alarme« Se dit figurément de toutes sortes d'appréhensions bien ou mal fondées » (Furetière).V. 9, 154, 754, 946Ame« Se prend souvent pour la vie, le cœur »V. 81, 538, 590, 709, 822, 845, 953, 1030, 1033, 1146, 1232, 1239, 1348, 1363, 1435, 1463, 1467, 1508, 1523« Partie spirituelle de l'homme quand elle est séparée de son corps »V. 93, 353« Signifie encore une personne particulière »V. 345, 513, 758, 1419« La personne qu'on affectionne extrêmement »Atteinte« Légère attaque, soit de maladie, soit de paroles »V. 353. « Action par laquelle on atteint, on touche » (Furetière).V. 1287 AvouerReconnaîtreV. 692« Déclarer qu'on approuve quelqu'un en tout ce qu'il fait ou fera » (Ac.).ÉpîtreBraver« Choquer, mépriser quelqu'un, le traiter de haut en bas » (Furetière).V. 167, 820, 905, 967, 1009, 1117, 1166, 1349 « Figurément, signifie affronter les dangers, affronter la mort, s'y exposer sans crainte » (Ac.).V. 624 Caresser« Faire montre d'amitié ou de bienveillance envers quelqu'un par un accueil gracieux, par quelque cajolerie » (Furetière).V. 441, 1333 Cartel« Écrit qu'on envoie à quelqu'un pour le défier à un combat singulier » (Furetière).V. 296, 685 Ceder« Laisser ou abandonner quelque chose pour un temps ou par civilité »V. 11, 226, 960. « Obéir, déférer à quelque puissance supérieure, relâcher » (Furetière).V. 179, 272, 756, 926, 1242, 1261, 1445, 1545 CependantPendant ce tempsV. 101, 397. Chaleur« Mouvement de colère prompt et passager »« Grande affection, zèle véhément, ardeur » (Ac.)V. 702, 896, 1143, 1285 Chocquer« Heurter avec violence ».« Quereller, offenser »V. 120, 261, 370, 456, 669, 1024, 1258. « Blesser légèrement » (Furetière).Cœur« Vigueur, force, courage, intrépidité »V. 29, 204, 507, 603, 691, 716, 885, 1130, 1298. « Âme »V. 168, 226, 415, 444, 555, 638, 675, 1035, 1196, 1264, 1354, 1409.Sens moderne : siège des sentiments, particulièrement amoureux, et des émotionsV. 188, 267, 305, 412, 431, 495, 531, 536, 560, 587, 711, 998, 1350, 1578, 1597.Consulter« Prendre avis, conseil ou instruction de quelqu'un » (Ac.).V. 607, 837Courage« Ardeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls »V. 38, 157, 214, 235, 530, 825, 865, 873, 984, 1081, 1217, 1265, 1280. « Vertu qui élève l'âme et qui la porte à mépriser les périls, quand il y a des occasions d'exercer la vaillance, ou à souffrir des douleurs, quand il y a lieu de montrer sa constance et sa fermeté » (Furetière).V. 65, 125, 331, 454, 585, 1301,  1559, 1567, 1594 DebatContestation en matière civileV. 96, 1204. Décevoir« Tromper » (Ac.).V. 1385Deffier« Provoquer quelqu'un au combat, l'appeler en duel ».« Mettre quelqu'un à pis faire, lui déclarer qu'on ne le craint pas ». « N'avoir pas confiance en quelque chose » (Ac.)V. 948Destinée/destin« Disposition ou enchaînement (irrévocable) de causes secondes ordonné par la Providence, qui emporte une nécessité de l'événement » (Furetière).V. 2, 99, 359, 615, 649, 681, 746, 766, 832, 911, 1357 Destin particulier d'un êtreV. 94, 206, 568, 961, 1054, 1588. Vie, existenceV. 583, 948, 1276, 1304, 1328, 1535. Devant« Préposition d'ordre, il est opposé à *après* »  (Ac.).V. 692Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein » (Furetière).V. 487, 683, 1073, 1215 Ennui« Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long » (Furetière)V. 318, 411Envie« Chagrin qu'on a de voir les bonnes qualités ou la prospérité de quelqu'un »V. 644, 922. « Passion, désir qu'on a d'avoir ou de faire quelque chose » (Furetière).V. 73, 142, 201, 249, 281, 370, 482, 638, 813, 922, 985, 1122, 1213, 1299, 1484, 1591 Esprouver« Faire expérience, connaître par expérience » (Ac)V. 163, 819Estime« Le cas, l'état qu'on fait d'une personne, ou de son mérite, de sa vertu » (Ac.)V. 390Estonnement« Action ou effet qui cause de la surprise, de l'admiration »V. 736. « Surprise causée par quelque chose d'extraordinaire, d'inattendu » (Furetière).V. 1238, 1421Estonner« Ébranler, faire trembler par quelque grande, par quelque violente commotion » (Ac.).V. 1223Estrange« Qui n'est pas dans l'ordre et dans l'usage commun » (Ac.)V. 1241 Faix« Fardeau, chose pesante que l'on porte » (Ac.)V. 352 Fatal« Qui porte avec soi une destinée inévitable » (Ac.).V. 727Feux« Se dit figurément, en choses spirituelles, morales, de la vivacité de l'esprit, de l'ardeur des passions » (Furetière)V. 92, 116, 143. Flamme« Désigne figurément l'amour profane » (Furetière).V. 82, 261, 346, 653, 810, 1034, 1436, 1524, 1532Fort« Se prend aussi figurément pour courageux, magnanime » (Ac.)V. 7 Fortune« Ce qui arrive par hasard, qui est fortuit et imprévu » (Furetière)V. 45, 438, 1441 « Tout ce qui peut arriver de bien ou de mal à un homme » (Ac.)V. 665, 725Foy« Serment, parole qu'on donne de faire quelque chose et qu'on promet d'exécuter » (Furetière). S'emploie surtout pour la « foy conjugale ». V. 88, 468, 711, 909Funeste« Qui cause la mort, ou qui en menace, ou quelque autre accident fâcheux, quelque perte considérable »V. 174, 773, 783, 1206, 1295, 1414. « Tragique, violent ». « Qui porte avec soi le malheur et la désolation » (Furetière).V. 1309Furie« Passion violente de l'âme, qui outre sa colère »V. 1026, 1320. « Ce qui se fait avec ardeur, promptitude, courage, impétuosité » (Furetière)V. 149. Furieux« Qui est transporté de colère, de fureur, de furie ; qui a de la violence, de l'impétuosité, de l'excès »V. 140, 491, 919, 1244, 1249. « Qui cause l'admiration » (Furetière).Genereux« Qui a l'âme grande et noble, et qui préfère l'honneur à tout autre intérêt »V. 330, 461, 603, 709, 861, 1034, 1109, 1153, 1198, 1215, 1305, 1341, 1366, 1419, 1441, 1567.« Brave, vaillant, courageux »Épître, v. 44, 103, 363, 395, 477, 606, 655, 688, 825, 907, 923, 951, 1109, 1215. « Libéral » (Furetière).V. 1305Gêner« Tenir en contrainte, mettre quelqu'un dans un état violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empêchant de faire ce qu'il veut » (Ac.).V. 1037Gêne« Peine d'esprit, contrainte fâcheuse, état violent où l'on se trouve réduit » (Ac.).V. 1464 Hasard« Cas fortuit, ce qui arrive sans cause apparente ou nécessaire »V. 1472. « Péril, danger, risque » (Furetière).Épître, v.167, 175, 275, 1159, 1216, 1230Hasarder« Risquer, mettre au hasard » (Furetière).V. 74, 458, 552, 593, 1472 Interdit« Estonné, troublé, qui ne sçait ce qu'il fait, ce qu'il dit » (Ac.)V. 279 Interet« Tout ce qui regarde le bien, la gloire, le repos tant de l'Etat que des particuliers »V. 150, 582, 1070. « Se dit aussi de la part qu'on prend en quelque chose, de la défense qu'on entreprend, de la protection qu'on lui donne » (Furetière).V. 39Merite« Assemblage de plusieurs vertus ou de bonnes qualités en quelque personne, qui lui donne de l'estime et de la considération » (Furetière).Épître, v. 291, 526 Mouvemens« Guerres intestines, troubles, séditions, au sens moral et spirituel » (Furetière).V. 305 « Élan, impulsion »V. 103, 288, 535, 675, 1522.Occasion« Hasard, fortune, qui fait trouver un temps, un lieu favorable pour faire quelque chose »V. 28, 651. « Rencontre particulière, circonstance » (Furetière).Épître, v. 847Passion« En morale, se dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens » (Furetière).V. 320« Se dit par excellence de l'amour » (Furetière).V. 244, 345 « Chaleur avec laquelle on fait quelque chose » (Furetière)« Désir violent ou inclination qui nous donne de l'affection pour quelque chose » (Furetière) Épître, 813Point (sur le)Au moment oùV. 960, 1159Prévenir« Détourner, empêcher par des précautions que quelque chose n'arrive » (Ac.)V. 179« Anticiper » (Ac.)V. 203 Presser« Poursuivre vivement, tant au combat qu'à la dispute » (Furetière)V. 186, 535, 1027, 1300.Prochaine« Qui est proche » (Ac.)V. 14, 401, 1520 Rigoureux« Qui est dur, sévère, douloureux » (Furetière).V. 224, 656, 1105, 1599 Rigueur« Dureté, sévérité » (Furetière)V. 308, 437, 1357, 1381, 1544.Sang« Se dit aussi de la parenté, de la race » (Furetière)V. 260, 333, 632, 1434.Sexe« Absolument parlant, se dit des femmes » (Furetière).V. 181, 1139, 1451Soin« Diligence qu'on apporte à faire réussir une chose, à la garder, à la conserver, à la perfectionner »V. 76, 488, 633, 948.« Attache particulière qu'on a auprès d'un maître ou d'une maîtresse pour les servir ou leur plaire » (Furetière).V. 450, 606Sort« Hasard, ce qui arrive fortuitement »V. 69, 95, 375, 435, 505, 753, 915, 1068, 1364« Incertitude des événements »« Se dit poétiquement de la vie et de la fortune des hommes » (Furetière)V. 642, 741, 922Souci« Chagrin, inquiétude » (Furetière).V. 1457Souffrir« Sentir de la douleur, du mal, ou quelque incommodité considérable »« Se dit aussi en morale des afflictions de l'esprit, des émotions de l'âme » (Furetière)V. 308, 1038 « Permettre » (Ac.)V. 62, 460, 574, 689, 1549« Tolérer, ne pas empêcher » (Ac.)V. 718, 863, 970, 1433, 1434 Succez« Événement » (Ac.).V. 1407 Superbe« Vain, orgueilleux, qui a de la présomption, une trop bonne opinion de lui-même » ; en nom commun, il désigne l'orgueilV. 638, 739, 819, 858.« Qui marque la magnificence, la somptuosité » (Furetière).V. 904Surmonter« Vaincre, avoir avantage sur quelqu'un » (Furetière). V. 1, 73, 682, 761, 1123Tesmoigner« S'ouvrir, faire connaître son sentiment » « Servir de témoin, montrer » (Furetière)V. 65, 245, 271, 443, 569, 1590Timide« Craintif, peureux »  (Ac.)V. 453, 976, 984Transport« Se dit figurément, en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions » (Furetière).V. 103, 179, 1123, 1261, 1589Traittement« Bon ou mauvais accueil fait à quelqu'un » (Furetière)V. 17, 1169Travaux« Peines qu'on a prises, qu'on s'est données, à quelque entreprise glorieuse, dans l'exécution de quelque chose de difficile » (Ac.)V. 48, 613, 622, 682, 1476Vain« Qui est sans fondement »V. 247.« Qui est dépourvu d'efficacité »V. 564. « Glorieux, superbe, orgueilleux » (Furetière).V. 91, 483, 1363Valeur« Grandeur de courage, ardeur belliqueuse »V. 18, 27, 391, 745, 843, 895, 942, 1208« Se dit aussi de toute autre estimation que celle de l'argent »V. 211Vertu« Force, vigueur, tant du corps que de l'âme »V. 24, 72, 129, 138, 183, 200, 218, 355, 394, 508, 524, 601, 632, 1417, 1433. « Se dit figurément en morale de la disposition de l'âme, ou habitude à faire le bien, à suivre ce qu'enseignent la loi et la raison » (Furetière).V. 448, 710, 1354
 
 
 # Extraits de l'Enéide (traduction par Jacques Perret, 1987, Les Belles Lettres).
@@ -2780,13 +2780,13 @@ Enée ne relâche pas son effort, il fait tournoyer sa pique gigantesque et qui 
 Il hésite ; Enée fait touroyer le trait fatal, ayant saisi des yeux l'occasion ; de loin, de tout son effort, il s'élance. Jamais pierres jetées par machine de siège ne grondent avec cette puissance, jamais foudre ne fait tressaillir tels fracas. La pique vole à la manière d'un tourbillon noir, portant avec soi le sinistre trépas, elle fait éclater les bords de la cuirasse et l'orbe du septuple bouclier, elle traverse le milieu de la cuisse avec un bruit strident. Turnus, le jarret ployé, tombe à terre, énorme. Les Rutules se dressent avec un cri de douleur, la montagen à l'entour mugit et de partout, au loin, les bois profonds rendent les voix. Lui, abattu, dans l'attitude d'un suppliant, levant les yeux, la main pour une demande : « Cette fois, j'en ai fini et je ne demande pas de grâce, dit-il ; use de ta chance. Mais si la pensée d'un malheureux père peut te toucher (ce fut aussi l'état d'Anchise ton père), je t'en prie, aie pitié de la vieillesse de Daunus et veuille me rendre aux miens ou, si tu aimes mieux, mon corps spolié de la lumière. Tu as été vainqueur, les hommes d'Ausonie ont vu le vaincu tendre les mains, Lavinia est ton épouse ; dépose désormais ta haine. » Enée frémissant sous ses armes, s'arrêta, les yeux incertains et il retint son bras. A mesure qu'il tardait davantage, les paroles de Turnus avaient commencé à l'émouvoir quand, par malheur, apparut au sommet de l'épaule le baudrier puis, sur le harnois, les clous étincelants, bien connus, de Pallas, le jeune Pallas que Turnus victorieux avait terrassé sous ses coups et dont il portait sur ses épaules le trophée ennemi. Après qu'il eut empli ses yeux de la vue de ces parures (elles ravivent en lui une douleur cruelle), enflammé par les Furies, terrible en sa colère : « Toi qui te revêts de la dépouille des miens, quoi, tu pourrais maintenant te sauver de mes mains ? Dans ce coup, c'est Pallas qui t'immole, Pallas qui se paie de ton sang scélérat. » A ces mots, il lui enfonce son épée droit dans la poitrine, bouillant de rage ; le corps se glace et se dénoue, la vie dans un gémissement s'enfuit indignée dans les ombres. (*Enéide*, XII, 697-765 et 887-952)
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de BrosseLa Stratonice ou le malade d'amour
+### Œuvres de Brosse.La Stratonice ou le malade d'amour
 Les Innocens coupables
 Les Songes des hommes esveillez*e*
 Le Turne de Virgile
@@ -2796,7 +2796,7 @@ L'Aveugle clair-voyant
 Toutes les œuvres de Brosse sont disponibles sur le site Gallica de la BNF.
 
 
-### Autres œuvres*Aristote*Poétique
+### Autres œuvres.*Aristote*Poétique
 *Aubignac*La Pratique du théâtre
 *Brosse*Le Curieux impertinent ou le jaloux
 *Corneille*Œuvres complètes
@@ -2810,27 +2810,27 @@ Toutes les œuvres de Brosse sont disponibles sur le site Gallica de la BNF.
 
 
 
-## Études et instruments de travail
+## Études et instruments de travail.
 
 
-### Instruments de travail
+### Instruments de travail.
 
 
-#### Dictionnaires*Academie francaise*Dictionnaire
+#### Dictionnaires.*Academie francaise*Dictionnaire
 *Furetiere*Dictionnaire universel contenant généralement tous les mots tant françois que modernes et les termes de toutes les sciences et les arts
 
 
 
-### Syntaxes, grammaires, ponctuation*Forestier*Introduction à l'analyse des textes classiques
+### Syntaxes, grammaires, ponctuation.*Forestier*Introduction à l'analyse des textes classiques
 *Fournier*Grammaire du français classique
 *Sancier-Chateau*Introduction à la langue du XVIIe siècle
 
 
 
-### Études
+### Études.
 
 
-#### Histoires*Benichou*Morales du Grand Siècle
+#### Histoires.*Benichou*Morales du Grand Siècle
 *Genette*Figures I
 *Kibedi Varga*Rhétorique et littérature : études de structures classiques
 *Lancaster*A History of French Dramatic Literature in the Seventeenth Century
@@ -2841,10 +2841,10 @@ Toutes les œuvres de Brosse sont disponibles sur le site Gallica de la BNF.
 
 
 
-#### Histoires du théâtre du XVII*e* siècle
+#### Histoires du théâtre du XVII*e* siècle.
 
 
-##### Ouvrages*Deierkauf-Holsboer*L'Histoire de la mise en scène dans le théâtre français à Paris (1550-1715)
+##### Ouvrages.*Deierkauf-Holsboer*L'Histoire de la mise en scène dans le théâtre français à Paris (1550-1715)
 *Delmas*La Tragédie de l'âge classique 1553-1770
 *Dotoli*Temps de préfaces : le débat théâtral en France de Hardy à la querelle du Cid
 *Forestier*Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
@@ -2858,7 +2858,7 @@ Toutes les œuvres de Brosse sont disponibles sur le site Gallica de la BNF.
 
 
 
-##### Articles*Biet*EnéideEnéideEurope revue littéraire mensuelle
+##### Articles.*Biet*EnéideEnéideEurope revue littéraire mensuelle
 *Jobez*L'Ecole des Lettres. Revue périodique du second cycle
 
 

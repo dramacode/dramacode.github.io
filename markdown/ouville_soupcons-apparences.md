@@ -15,7 +15,7 @@ PARIS, Chez TOUSSAINCT QUINET ; au Palais, sous la montée de la Cour des Aydes
       maîtrise sous la direction de Georges Forestier (2005-2006)
 
 
-# Introduction
+# Introduction.
 
 Les *Soupçons sur les apparences*, héroïco-comédie en cinq actes et en vers, publiée en 1650, est la dernière pièce connue d'Antoine Le Metel, sieur d'Ouville, qui a commencé sa carrière d'auteur dramatique douze ans plus tôt, en 1638, avec une tragi-comédie intitulée les *Trahizons d'Arbiran.* Les *Soupçons sur les apparences* occupent une place particulière dans l'oeuvre de d'Ouville, réputé pour avoir adapté sur la scène française des pièces espagnoles et italiennes, et pour n'avoir pas su produire des œuvres originales. Or, la première et la dernière pièce de d'Ouville n'ont pas de sources italiennes ou espagnoles connues, et présentent en outre une parenté d'inspiration. Avec sa dernière pièce, d'Ouville semble abandonner la comédie à l'espagnole qui a pourtant fait sa réputation théâtrale, pour revenir aux thèmes abordés dans sa première pièce : la trahison, la jalousie, et le désir de vengeance, sans pour autant renoncer à certains effets de la *comedia*, notamment le jeu sur les apparences.
 
@@ -36,7 +36,7 @@ Lorsqu'on a lu une Piece de Douville, on connoit presque tous les sujets de ses 
 On retrouve tous ces « sujets » dans les Soupçons. Mais il faut remarquer que si d'Ouville en a beaucoup usé dans ses comédies, ils ne lui sont pas propres. Ils relèvent de l'esthétique, de l'idéologie, et des ressorts comiques en vogue dans le théâtre de la première moitié du XVII*e* siècle.
 
 
-# Vie et œuvre de D'Ouville
+# Vie et œuvre de D'Ouville.
 
 La vie d'Antoine Le Metel, sieur d'Ouville, est peu connue.
 
@@ -89,12 +89,12 @@ D'Ouville se serait retiré au Mans en 1654 « gueux de tous les côtés » [3
 De son vivant et après sa mort, d'Ouville a pâti de la réputation littéraire et de l'influence à la Cour de son frère Boisrobert, au point que les *Nouvelles héroïques et amoureuses*, qui parurent après sa mort en 1657, furent attribuées à Boisrobert. Selon les historiens, ces traductions devraient être attribuées à d'Ouville.
 
 
-# Les Soupçons sur les apparences dans l'histoire du théâtre français
+# Les Soupçons sur les apparences dans l'histoire du théâtre français.
 
 *Les Soupçons sur les Apparences* sont publiés en 1650 : une date emblématique pour l'histoire de la comédie en France, non pour ce qu'elle représente en elle-même mais pour sa place historique comme exact milieu du XVII*e* siècle, et un titre emblématique.
 
 
-## La comédie en France en 1650
+## La comédie en France en 1650.
 
 En 1650, la comédie moderne française a presque un siècle : Jodelle a fait représenter en 1552 ou 1553, l'*Eugène*, première comédie qui renoue avec la tradition de la comédie antique en cinq actes, même si l'intrigue tourne toujours autour du trio mari cocu, femme infidèle et amant de la farce médiévale. Il s'agit cependant d'une révolution dans le cadre du théâtre français. À partir de cette date, les auteurs français vont puiser leur inspiration chez les Italiens qui imitent depuis déjà un siècle le grec Ménandre, inventeur de la comédie d'intrigue, et les latins Plaute et Térence. Cette comédie à l'italienne se caractérise par son dénouement nuptial, et ce sont les obstacles au mariage des jeunes gens amoureux qui constituent le corps de la comédie. Celle-ci tarde pourtant à s'imposer sur la scène française : du début du XVII*e* siècle aux alentours de 1630, la comédie moderne est presque absente du paysage dramatique. En lieu et place, on trouve d'un côté la farce, qui reste le genre comique prédominant, et de l'autre des genres véritablement modernes, car non hérités des Anciens, la pastorale dramatique et la tragi-comédie, tous deux d'inspiration romanesque.
 
@@ -123,7 +123,7 @@ Dans les comédies de ce premier volume, j'ai presque toujours établi deux aman
 On a la trame de l'intrigue des *Soupçons*, le schéma cornélien qui unit, désunit et réunit les amants, qui brouille et éclaircit. Il fait peu de doute que d'Ouville ait vu représenter ou lu les pièces de Corneille. On trouve dans les *Soupçons* quelques réminiscences, conscientes ou inconscientes, de vers cornéliens, tous genres confondus. Nous les signalons en notes. L'ingénieur hydrographe et géographe n'a donc pas seulement admiré les œuvres d'outremonts, il connaissait et certainement admirait les comédies et tragédies de son compatriote rouennais. La comparaison s'arrête là : le style de d'Ouville n'est pas celui de Corneille.
 
 
-## Une problématique baroque
+## Une problématique baroque.
 
 Le titre même de la pièce, on l'a dit, est emblématique de l'époque qui s'achève. *Les Soupçons sur les Apparences* n'est pas un titre original. D'Ouville a le goût de ces titres qui invitent à soupçonner les apparences : la *Dame suivante*, les *Fausses veritez*, et il est loin d'être le seul. Il serait trop long d'énumérer toutes les variations autour de ce thème, citons *Jodelet ou le maistre valet* de Scarron, les *Apparences trompeuses* de Boisrobert (1655), la *Fausse apparence* ou encore les *Songes des hommes esveillez* de Brosse (1646). Ces titres reflètent l'idéologie dominante de l'époque, appelée postérieurement baroque (par analogie avec l'architecture), et que Montaigne exprimait déjà :
 
@@ -149,25 +149,25 @@ Le monde transparent, lisible et heureux de la Renaissance devient alors un univ
 Dans une pièce, où les apparences sont sans cesse démenties et où l'énigme, pour les protagonistes comme pour les spectateurs, reste l'identité de la mystérieuse femme aimée de Filemon, laquelle nous est dévoilée *in extremis* au dénouement, peut-être le choix du nom Astrée n'est-il pas anodin.
 
 
-## Synopsis
+## Synopsis.
 
 
-### Acte I
+### Acte I.
 
 L'action se passe la nuit, tard dans la soirée. Alors que son mari, Léandre, est absent, Astrée est tirée à sa fenêtre par des violons commandés par un ami de son mari, Alcipe (sc.1 & 2). Lasse de la cour assidue de ce dernier, elle refuse de le recevoir et lui dit son mépris (sc.3). Mais on vient lui annoncer que sa cousine, Orphise, est malade et qu'elle doit aller la voir de toute urgence (sc.4). Alors qu'elle est sortie, Léandre, qui est rentré à Paris, arrive devant chez lui avec Filemon, qu'il a rencontré à Lyon. Surpris qu'on ne lui ouvre pas la porte, il soupçonne sa femme de le tromper quand un voisin, que les coups répétés à la porte ont alerté, lui apprend qu'elle s'est rendue au chevet de sa cousine malade. Après avoir demandé à Filemon de l'attendre, Leandre se dirige vers la maison d'Orphise (sc.5) au moment même où Astrée revient, par un autre chemin. Alcipe, qui croit être seul, tente de l'enlever, mais est blessé à la main, désarmé et contraint à la fuite avec son valet Sylvain par Filemon qui est venu au secours d'Astrée. Cette dernière remercie le valeureux jeune homme, et quand elle apprend que c'est l'ami de Lyon de son mari, elle le prie de taire cette affaire à Léandre et ordonne à sa servante, Hyppolite, de cacher l'épée d'Alcipe, avant de rentrer (sc.6). À ce moment Leandre, qui n'a évidemment pas trouvé sa femme chez sa cousine, revient. Filemon lui apprend qu'elle vient de rentrer, et accepte enfin l'hospitalité de son ami (sc.7).
 
 
-### Acte II
+### Acte II.
 
 Alcipe, qui ignore le retour de Léandre, revient frapper à la porte d'Astrée, décidé à la surprendre avec celui qu'il croit être son amant, Filemon (sc.1). Quand il se retrouve face à face avec Leandre et Filemon, il simule la folie sur le conseil de Sylvain, qui prétend que son maître a été blessé par des brigands qui lui ont pris son épée. Alcipe demande à Leandre de le venger puisque lui ne le peut plus. Filemon sans dire un mot sort (sc.2), bientôt suivi par Leandre, laissant seul Alcipe et Sylvain avec Astrée que le bruit a attiré (sc.3). De nouveau rejeté avec mépris, Alcipe décide de changer de tactique et déclare à la jeune femme que son amour est devenu pur. Astrée l'approuve mais exprime le souhait qu'il la laisse en paix, avant de se retirer (sc.4 & 5). Filemon revient avec l'épée et apprend à Leandre devant Alcipe que ce dernier n'a pas été attaqué par des voleurs, mais par un seul homme. Ce dernier aurait secouru la femme d'un des amis d'Alcipe que celui-ci voulait enlever, profitant de l'absence du mari. Leandre soupçonne Alcipe de malhonnêteté à son égard, mais ce dernier dissipe ses soupçons. Leandre et Filemon rentrent (sc.6), et Alcipe, resté seul avec Sylvain, affirme de nouveau son obstination à obtenir Astrée par la force, s'il ne le peut autrement (sc.7).
 
 
-### Acte III
+### Acte III.
 
 Le lendemain, Orphise, qui a recouvré dans la nuit la santé, se rend chez Astrée pour la remercier. Mais après de nombreuses dénégations, elle finit par avouer qu'elle est tombée amoureuse de Filemon en le voyant à l'église le matin même, et qu'elle a appris qu'il logeait chez sa cousine (sc.1). Valentin, le valet de Filemon, vient alors interrompre les deux femmes. Il leur révèle qu'il est chargé par son maître d'aller au Courrier voir s'il n'a pas reçu une lettre de sa maîtresse de Lyon. Astrée envoie discrètement Hyppolite chercher la lettre (sc.2). Filemon surprend Valentin en train de traîner, et l'envoie s'acquitter de sa commission. Questionné par les jeunes femmes, il leur apprend qu'il a fui Lyon après avoir blessé ou tué le mari de Florinde, qui fut son amante, à la suite d'un malentendu. Il attend d'elle une lettre qui lui commande ce qu'il doit faire. Il leur révèle cependant à la fin que depuis qu'il est à Paris il est tombé amoureux d'une femme dont il doit taire le nom car elle touche « de trop près à l'un de ses amis », ce qui laissent les deux cousines songeuses [44] (sc.3). Valentin revient bredouille du Courrier et Filemon les quitte pour écrire à Florinde de lui adresser ses lettres sous un faux nom (sc.4). Quand elles sont de nouveau seules, Astrée charge Hyppolite d'intercepter au Courrier les lettres qui sont adressées à Filemon, et celles qu'il veut envoyer, car Astrée et Orphise ont peur qu'il ne veuille retourner à Lyon protéger son amie de la jalousie de son mari (sc.5, 6 & 8). Cependant, Leandre surprend sa femme en train de cacher la lettre que lui a remise Hyppolite et la soupçonne de dissimuler, d'autant qu'il trouve que sa femme plaide la cause de Filemon avec trop de véhémence. Celle-ci, pour se justifier, prétend que Filemon est en danger de mort et qu'il ne lui faut pas quitter la maison (sc.7). Après avoir loué l'esprit des femmes (sc.9), Hyppolite intercepte la lettre de Filemon que Valentin doit porter au Courrier en faignant de s'inquiéter du danger mortel qui le guette si jamais il s'y rend (sc.10).
 
 
-### Acte IV
+### Acte IV.
 
 Leandre surprend à nouveau sa femme en train de cacher une lettre, mais il fait semblant de rien et lui annonce qu'en dépit de ses injonctions Filemon est sorti ou s'apprête à sortir (sc.1 & 2). Resté seul, il essaie de se persuader que sa femme n'estime son ami que parce que lui-même l'estime (sc.3). Il est interrompu par Sylvain qui cherche Filemon pour lui remettre un billet de son maître. Pensant qu'Alcipe veut défier son ami, Leandre lit le billet dans lequel Alcipe déclare en fait son amitié à Filemon. Les soupçons de Leandre à l'égard d'Alcipe s'envolent (sc.4), et quand ce dernier vient à sa rencontre pour lui demander la permission de courtiser Orphise, de laquelle il est tombé amoureux, Leandre lui ouvre sa maison. Mais en se retirant Alcipe laisse tomber un billet anonyme (sc.5) dans lequel il apprend à Leandre qu'Astrée et Filemon sont amants. Fou de rage, Leandre fait le serment de se venger (sc.6) et il poignarderait Astrée si Filemon n'intervenait pas, prévenu par Hyppolite qui a entendu les menaces de Leandre (sc. 7, 8, 9 & 10). Prit sur le fait, Leandre leur fait croire que ses propos ont été mal interprétés et les époux semblent se réconcilier (sc.11). Leandre sorti, Astrée exprime sa gratitude à celui qui l'a sauvée, et Filemon, par une formule ambiguë :
 
@@ -177,15 +177,15 @@ Pour vous servir, Madame, et vous Madame aussi. [45]
 laisse les deux cousines en proie au doute (sc.12). Astrée réaffirme sa fidélité envers son mari (sc.13).
 
 
-### Acte V
+### Acte V.
 
 Le dernier acte s'ouvre sur Leandre, seul en scène. Il tient à la main la lettre qu'il a trouvée dans le cabinet de sa femme, dans laquelle Filemon prévient Florinde que leur correspondance est surveillée. Il croit qu'elle est adressée à Astrée et décide de tuer les deux amants (sc.1). Il enjoint Alcipe à se détacher d'Orphise, car elle est aussi fausse que sa cousine. Alcipe essaie de persuader Leandre de ne pas tuer Astrée, mais de la répudier et l'abandonner. Quand à Filemon, il n'a qu'à l'attendre dans la rue (sc.2). Seul avec Sylvain, Alcipe se réjouit de bientôt arriver à ses fins (sc.3). Quand Filemon arrive, il lui annonce que Leandre se bat en duel dans la rue, et que suite à sa blessure, il ne peut venir le seconder. Filemon se précipite dehors (sc.4), tandis qu'Alcipe, tente une deuxième fois d'enlever Astrée avant de prendre la fuite devant l'arrivée d'Hyppolite (sc.5). Pendant ce temps, Leandre provoque Filemon en duel, ce dernier refuse de se battre et dévoile à Leandre toutes les fourberies d'Alcipe. À moitié convaincu, Leandre accepte de rentrer avec Filemon (sc.6), à temps pour surprendre Alcipe, revenu tenter d'enlever Astrée par la force, en dépit de la présence d'Hyppolite et Orphise, en flagrant délit. Alcipe prend la fuite (sc.7 & 8). Sylvain, retenu, vient confirmer les dires de Filemon. Leandre refuse de revoir Alcipe et se réconcilie avec sa femme, tandis que Filemon demande la main d'Orphise et que les valets badinent (sc.9).
 
 
-# La représentation des Soupçons sur les apparences
+# La représentation des Soupçons sur les apparences.
 
 
-## Contexte historique
+## Contexte historique.
 
 *Les Soupçons sur les Apparences* ont vraisemblablement été créés à l'Hôtel de Bourgogne [46] par les Comédiens du Roi à la fin de l'année 1649 ou au premier semestre 1650. [47]
 
@@ -194,10 +194,10 @@ Le *Mémoire* de Mahelot, décorateur de l'Hôtel de Bourgogne, précieuse sourc
 Enfin, créée pendant la période troublée de la Fronde [49], aucun document de valeur se rapportant à l'histoire de l'Hôtel de Bourgogne pour les années 1648-1653, n'a été exhumé des archives. [50] Nous savons cependant qu'après avoir quitté Paris pour des tournées en province et à l'étranger pendant la Fronde parlementaire, la troupe royale reprend ses représentations à l'Hôtel de Bourgogne dès son retour à Paris, fin 1649, au début de la Fronde des princes. Cette période fut marquée par des combats de rue et le dressement de barricades dans la capitale. Les *Mazarinades* nous apprennent que l'Hôtel de Bourgogne, comme le Théâtre du Marais, durent fermer à plusieurs reprises, mais nous ignorons les dates exactes. Les comédiens ont pu rencontrer quelques difficultés financières, et donc se trouver dans l'impossibilité matérielle d'acquérir de nouveaux décors, tandis que les auteurs ne parvenaient que difficilement à faire imprimer de nouvelles pièces, et à les vendre. Il est cependant attesté que les comédiens de l'Hôtel de Bourgogne ont payé la location de la salle aux Confrères de la Passion pendant la Fronde, ce qui implique qu'ils ont fait des recettes, et que l'Hôtel de Bourgogne a connu une grande activité théâtrale pendant cette période. En effet, si la production des tragédies et tragi-comédies diminua, car les parisiens, d'après le mot d'Antoine Adam [51], préféraient se procurer de la farine plutôt que d'aller voir des « farinés », et n'avaient sans doute pas le cœur à aller voir des tragédies, comme au temps des guerres de religion où Catherine de Médicis avait interdit les représentations de tragédies, causes, d'après elle, du malheur qui s'était abattu sur la France, les troubles politiques, en revanche, n'affectèrent pas la comédie . On ne constate pas de chute du nombre de comédies annuellement produites, et en raison du déclin des autres genres, c'est la comédie, et notamment la comédie à l'espagnole, romanesque et divertissante, qui domine le paysage théâtral pendant la Fronde [52]. Même si la tonalité générale des *Soupçons*, comme l'ont souligné Lancaster et Guichemerre [53], est sombre par rapport aux précédentes comédies de d'Ouville, on ne trouve aucune allusion à ce contexte historique troublé dans la pièce.
 
 
-## *Les Soupçons sur les Apparences* sur la scène
+## *Les Soupçons sur les Apparences* sur la scène.
 
 
-### Les indications scéniques
+### Les indications scéniques.
 
 La notion moderne de mise en scène n'existe pas au XVII*e* siècle. Le texte de théâtre est conçu comme un tout devant contenir en lui-même des indications pour le jeu de l'acteur. À propos des écrivains de théâtre, Jules de la Mesnardière écrit : « l'appareil de la scène … est une partie de leur art ; … il n'est pas moins nécessaire aux écrivains de théâtre d'en savoir la disposition qu'aux acteurs. » [54] L'abbé d'Aubignac écrira même dans sa *Pratique* que :
 
@@ -275,7 +275,7 @@ Et fait quelqu'autre effort plus grand ; mais aussi vain. [59]
 C'est une indication a posteriori de mise en scène. L'action, qui n'était que suggérée dans les vers précédents, est ici explicitée.
 
 
-### Le décor
+### Le décor.
 
 Nous ne donnons qu'une hypothèse de ce qu'aurait pu être le décor des *Soupçons*, d'après le texte de la pièce et les conventions de l'époque. Toutefois, les *Soupçons* furent créés pendant la Fronde, et les moyens des comédiens royaux devaient être limités. On ignore donc si la pièce fut créée avec les mêmes moyens qu'elle l'aurait été dans une période plus prospère. Cette question se pose notamment à propos de l'éclairage. On sait que l'éclairage était très cher au XVII*e* siècle. Pour éclairer la scène on utilisait des chandelles de suif qu'il fallait moucher toutes les demi-heures, pendant les entractes, pour éviter que la fumée n'envahisse la salle. Or, en plus de cet éclairage obligatoire à la chandelle de suif, les deux premiers actes des *Soupçons* sont nocturnes. Dans ses indications scéniques, d'Ouville note la présence de flambeaux et de lanternes. Ces accessoires étaient très prisés du public, en raison de leur caractère spectaculaire, mais aussi en raison de leur luxe.
 
@@ -291,15 +291,15 @@ Il semblerait que ce soit ce type de décor qui ait été utilisé pour la derni
 Les personnages portent des costumes de cour. Les trois personnages masculins, Alcipe, Filemon, et Leandre ont chacun une épée au côté. Il faut ajouter à la liste des accessoires la correspondance de Filemon et Florinde, le faux billet d'Alcipe, ainsi que des violons (et des violonistes).
 
 
-# Analyse dramaturgique des Soupçons sur les apparences
+# Analyse dramaturgique des Soupçons sur les apparences.
 
 
-## L'action
+## L'action.
 
 La dramaturgie de la comédie moderne se caractérise par un dénouement heureux, c'est-à-dire nuptial. Toute comédie se termine au moins par un ou deux mariages. Le dénouement nuptial de la comédie faisant office de règle, l'intrigue de la comédie est fondée sur les obstacles au mariage des jeunes gens amoureux, le plus souvent les parents ou plus largement l'autorité familiale, et sur la manière dont ces obstacles sont surmontés. Les *Soupçons sur les Apparences* d'Ouville appartiennent à un type de comédie où les parents ont pas ou peu de place dans l'intrigue. C'est le cas des premières comédies de Corneille qui font s'affronter des jeunes gens d'une même classe d'âge et d'un même milieu social. Dans la pièce de d'Ouville, l'action est construite autour de cinq jeunes gens, trois jeunes gens et deux jeunes filles, comme dans les premières comédies de Corneille dans lesquelles les jeunes gens étaient issus des quatre amants et du cavalier isolé de la pastorale. Au dénouement, face aux deux couples formés par Léandre et Astrée d'une part, et d'autre part Filemon et Astrée, Alcipe est isolé, et son isolement est symbolisé par son exclusion de la scène finale, du dénouement proprement dit. Enfin, l'action principale des *Soupçons* est du même type que celle des premières comédies de Corneille, c'est, en général, l'histoire de « deux amants en bonne intelligence, … brouillés ensemble par quelque fourbe, et … réunis par l'éclaircissement de cette même fourbe qui les séparait ». Les amants dont le couple est mis en péril sont Léandre et Astrée, mariés quand commence la pièce, tandis qu'Alcipe est le fourbe, prêt à tout pour détruire cette union. À cette première intrigue, à ce premier « fil » s'en superpose un autre, celui qui conduit au mariage d'Orphise et Filemon. Ces deux « fils », qui tissent les *Soupçons*, ont tous deux leur but et leurs obstacles spécifiques, mais sont en réalité étroitement intriqués.
 
 
-### L'action principale ou le premier fil
+### L'action principale ou le premier fil.
 
 Le « fil » central de l'action pourrait être résumé comme suit : Leandre et Astrée sont mariés et forment un couple uni, la vertu d'Astrée est louée par son mari, mais aussi par Sylvain qui tente de persuader son maître que son amour n'est pas raisonnable. Alcipe, qu'Astrée traite avec mépris, persuade Leandre que sa femme lui est infidèle et le trompe avec Filemon. Au dénouement la perfidie d'Alcipe est découverte, Leandre reconnaît son erreur et les époux se réconcilient. L'intrigue est en réalité plus complexe : le véritable « fourbe » qui brouille les époux ne sont autres que les apparences, trompeuses, causes des soupçons de Leandre sur la fidélité de sa femme. Alcipe ne serait pas un obstacle à l'union des époux si les apparences ne jouaient pas en sa faveur. L'obstacle est donc double et fait de l'union d'un obstacle plein constitué par Alcipe, qui veut désunir les amants, et d'un obstacle vide, imaginaire, qui naît des apparences et aide le projet d'Alcipe.
 
@@ -326,7 +326,7 @@ Cette lettre, Leandre l'a trouvée tout seul dans le cabinet d'Astrée, ce n'est
 Il faudrait ajouter un troisième obstacle à la réunion des époux, qui vient s'ajouter aux trahisons d'Alcipe et à tout l'engrenage des apparences qui, du premier acte au début du dernier, accusent Astrée. Cet obstacle réside dans le refus de Filemon de dévoiler qui, d'Orphise ou d'Astrée, il aime. En effet, si Filemon révélait dès l'acte III l'identité de la femme aimée, Leandre ne pourrait plus soupçonner sa femme de le tromper avec Filemon. Cette interrogation sur les sentiments du jeune homme laisse la place à d'autres soupçons sur les apparences, et nous amène à examiner l'autre « fil » de l'action, au cœur duquel est Filemon.
 
 
-### L'action accessoire ou le second fil
+### L'action accessoire ou le second fil.
 
 Parallèlement à l'action principale de la pièce, qui obéit au schéma union-désunion-réunion, et qui aboutit à la réconciliation d'Astrée et de Leandre, se développe une autre intrigue qui mène au mariage de Filemon et d'Orphise. Il s'agit de l'intrigue menée, à partir du début du troisième acte, par Astrée pour que Filemon demande Orphise en mariage. Or ce projet initial est contrecarré par un obstacle : une rivale, Florinde. Cette femme, l'ancienne maîtresse de Filemon, est géographiquement éloignée du lieu de l'action, puisqu'elle est à Lyon, mais elle reste présente dans les propos de Filemon, et par la correspondance épistolière entre eux. En effet, si Filemon, à la scène 3 du troisième acte, révèle être tombé amoureux d'une femme depuis qu'il est arrivé à Paris, c'est-à-dire depuis la veille, et que cette femme ne peut être par déduction qu'une des deux cousines, son tempérament chevaleresque le tient à la disposition de son ancienne dame, et il peut à tout moment retourner à Lyon pour la protéger de la violence de son mari jaloux, si elle le lui demande. C'est pour parer à cette éventualité qu'Astrée imagine d'intercepter les lettres arrivant de Lyon au Courrier, et d'empêcher que celles de Filemon partent. On pourrait ajouter un second obstacle et qui consiste en réalité en une énigme, qui permet de faire se croiser les deux fils de l'action des *Soupçons* : à qui sont ces « deux beaux yeux » [67] qui ont séduit Filemon à son arrivée à Paris, ou plus précisément, à laquelle des deux cousines ? Le dénouement de cette seconde intrigue ne consiste d'ailleurs pas en la réussite de l'entreprise d'Astrée pour séparer Filemon de Florinde. Filemon le dit aux vers 1595-1596 :
 
@@ -336,7 +336,7 @@ J'ay bien dedans le sein une autre ardeur aussi.
 Son dénouement consiste bien en la révélation de l'unique inconnue de toute la pièce, l'identité de la femme aimée. Il s'agit d'une révélation et pour les personnages, et pour les spectateurs, quoi que les bienséances s'opposaient à ce qu'un homme « généreux », un « cavalier », allât déclarer son amour à l'épouse de son ami et hôte. Filemon n'est pas Alcipe. Pour ce qui concerne les autres soupçons sur les apparences, les spectateurs sont complices d'Astrée : ils l'ont vue aller chez sa cousine, ils savent pourquoi des lettres de Filemon se trouvent dans son cabinet.
 
 
-### L'unité d'action ou le croisement des deux « fils »
+### L'unité d'action ou le croisement des deux « fils ».
 
 Interrogations sur les sentiments réels de Filemon, lettres lues par les jeunes femmes en secret des hommes, de Filemon, mais aussi de Leandre qui est son ami, le second « fil » des Soupçons est nécessaire au développement du premier. L'intrigue d'Astrée pour aider sa cousine à conquérir le cœur de Filemon en le détournant de Florinde, permet le jeu des lettres lues en secret et cachées, et alimente donc les soupçons de Leandre sur les relations qu'entretient Astrée avec son ami de Lyon [68]. Or ce sont précisément les soupçons sur la nature de ces relations qui sont au cœur de la pièce et deviennent le principal obstacle à la réunion du couple initial, d'Astrée et de Leandre.
 
@@ -345,14 +345,14 @@ En liant aussi étroitement les deux « fils » de l'action, d'Ouville se conf
 Cependant, si l'action accessoire, l'intrigue menée par les femmes, est nécessaire à l'action principale, elle n'apparaît que tardivement dans la pièce. L'action principale commence *in medias res* : Alcipe courtise Astrée depuis des mois, Astrée est lasse des assiduités d'Alcipe [71] ; soit juste avant la péripétie, le retournement de situation, que constitue, à la scène 5 du premier acte, le retour du mari, Leandre, qui ruine momentanément les desseins d'Alcipe. Le retour de Leandre permet en outre l'introduction d'un nouveau personnage indispensable pour la suite de l'action : Filemon. La pièce semble ainsi se diviser en deux moments distincts autour du troisième acte : d'un côté les deux premiers actes nocturnes tournent autour des tentatives d'Alcipe pour séduire Astrée, et ces actes sont d'ailleurs dominés par la présence d'Alcipe ; de l'autre, les deux derniers actes sont centrés sur la jalousie grandissante de Leandre et de nouvelles tentatives d'Alcipe pour enlever Astrée. Au centre, le troisième acte est plus serein, dominée par les femmes. Une nouvelle intrigue, galante celle-ci, vient se superposer à la première, l'intérêt du spectateur ne se porte plus sur les perfidies d'Alcipe, qui n'apparaît pas une seule fois dans cet acte, qui s'achève cependant sur les premiers soupçons de Leandre concernant l'honnêteté de sa femme. Les deux « fils » se sont rejoints.
 
 
-### Astrée et Filemon à l'intersection des deux fils
+### Astrée et Filemon à l'intersection des deux fils.
 
 Ainsi, l'action des *Soupçons* est composée de deux « fils » étroitement entremêlés. Or, quels sont les deux personnages ayant un rôle dans ses deux intrigues ? Astrée et Filemon, personnages autour desquels tournent les soupçons des trois autres personnages, et du spectateur, du moins en ce qui concerne les sentiments de Filemon. On pourrait dire qu'Astrée et Filemon forment presque un troisième couple, fantasmé celui-ci, mais qui s'il était réel mettrait en péril les deux couples tels qu'ils apparaissent au dénouement. Leandre considère Filemon comme un obstacle qui le sépare d'Astrée, tandis que cette dernière, bien plus que Florinde, fait peut-être de l'ombre à Orphise. Astrée et Filemon apparaissent bien alors comme les héros de la pièce. Astrée est le personnage central de la pièce, celui qui est présent dans le plus grand nombre de scènes, même si elle parle beaucoup moins que Leandre et Filemon. Elle est convoitée par Leandre et Alcipe, et ne laisse pas indifférent Filemon. On a enfin montré que beaucoup des soupçons des personnages tournaient autour de ses agissements. Qu'Astrée apparaisse comme le personnage central de la pièce n'a rien d'étonnant.
 
 En revanche, il est plus intéressant de constater que le personnage masculin qui lui fait pendant est non pas Leandre, le mari, mais Filemon, l'ami du mari. Des trois personnages masculins le moins présent sur scène [72], il est celui qui prononce le plus grand nombre de vers, et à qui sont attribuées les deux récits qui constituent les deux plus longues tirades de la pièce. Si c'est à la maîtrise de la parole qu'on mesure l'importance d'un rôle dans une pièce de théâtre, Filemon est le personnage central. Peu présent sur scène, il est néanmoins présent dans la scène maîtresse, la plus longue, de chaque acte : arrivée de Leandre et Filemon (I,5) ; récit de Filemon à Leandre devant Alcipe, mettant en abyme la tentative d'enlèvement de ce dernier (II,6) ; récit de Filemon à Astrée et Orphise de ses aventures avec Florinde et des raisons pour lesquelles il a fui Lyon (III,3) ; explication mensongère de Leandre après avoir été pris en flagrant délit de vouloir assassiner Astrée par Filemon alerté par Hyppolite (IV,11) ; explication finale entre Leandre et Filemon (V,6) [73]. À ces scènes maîtresses, il faudrait ajouter la première scène du troisième acte, une des plus longue de la pièce, où Filemon, absent, est cependant l'objet des confidences d'Astrée et d'Orphise.
 
 
-## Le lieu
+## Le lieu.
 
 En plaçant son action à Paris, d'Ouville inscrit sa pièce dans la ligne des comédies contemporaines où est mise en scène la bonne société parisienne. Les hauts lieux de la mondanité parisienne sont évoqués : la Place Royale, le Théâtre, le bal. Le lieu de l'action est cependant beaucoup plus restreint que ne le laisse entendre l'indication liminaire : l'action est circonscrite dans un périmètre comprenant le carrefour devant la maison d'Astrée et une pièce de l'intérieur de la maison de cette dernière. L'unité de lieu, au sens large, est respectée dans les *Soupçons*. Même la demeure d'Orphise, bien que hors scène, se situe à proximité, et cette proximité est importante car elle justifie aux spectateurs le fait qu'Astrée puisse partir de chez elle pour se rendre chez sa cousine à la scène 4 du premier acte, et en revenir deux scènes plus loin, et de même que Leandre s'y rende à la fin de la scène 5 et soit de retour à la scène 7. Les allées et venues des personnages d'un lieu à l'autre dans un temps restreint peuvent ainsi se faire sans invraisemblance. C'est également sans invraisemblance que les époux ne se croisent pas lors de leurs allées et venues, d'Ouville prend le soin de faire dire à Leandre qu'Astrée est venue : « Par ce chemin, sans doute, et moi par cette ruë. [74] »
 
@@ -361,19 +361,19 @@ De même, au cinquième acte, la rue dans laquelle Leandre attend Filemon pour l
 Si le premier lieu, le carrefour comique, ne pose pas de problèmes quand à la vraisemblance, il n'en est pas de même de la chambre représentant l'intérieur de la maison d'Astrée. D'Ouville ne nous donne pas d'éléments sur celle-ci, mais nous devons vraisemblablement penser que la chambre représente la même pièce dans les trois derniers actes. On pourrait dire qu'il s'agit d'une pièce « à volonté », pour reprendre le mot des décorateurs de l'Hôtel de Bourgogne à propos des palais de la tragédie. En effet, cette pièce que nous pourrions considérer au début du troisième acte comme étant l'appartement d'Astrée, car celle-ci et sa cousine s'y livrent à des confidences intimes, est aussi un lieu de passage pour aller au Courrier. De plus Astrée et Orphise se retirent pour poursuivre ailleurs leur entretien, et Filemon, Leandre, et Alcipe y entrent sans cérémonie. Leandre vient y faire ses monologues, parle de la lettre qu'il a trouvée dans le « cabinet » d'Astrée. Il faut en conclure que la pièce dans laquelle se déroule l'action des trois derniers actes n'a pas d'identité propre, est une pièce neutre.
 
 
-## Le temps
+## Le temps.
 
 La règle des 24 heures est strictement respectée [76]. L'action commence à la nuit tombée et s'achève le lendemain, vraisemblablement dans l'après midi. La proximité des lieux que nous avons évoquée précédemment contribue à cette concentration du temps. Le temps des trois derniers actes par rapport aux deux premiers est rapporté à l'arrivée de Filemon qui a eu lieu la veille. Astrée à la scène 1 du troisième acte fait allusion à la messe du matin à laquelle a assisté Orphise. Cette indication constitue le seul élément qui permette de scander la journée. Les deux premiers actes, nocturnes, semblent se succéder assez près dans le temps. Pas d'événement majeur n'a lieu dans l'entracte [77] qui sépare le premier acte du second. La même atmosphère nocturne règne dans les deux actes. La seule réelle rupture temporelle a lieu entre le deuxième et le troisième acte : la nuit a passé, Orphise s'est remise. Nous avons vu que cette rupture temporelle s'accompagnait d'une rupture spatiale [78], et surtout d'une rupture d'intérêt : les entreprises d'Alcipe pour obtenir les faveurs d'Astrée sont momentanément laissées de côté, Astrée et Orphise sont au cœur de l'action. Les trois derniers actes s'enchaînent comme les deux premiers, sans que la division actancielle soit pleinement justifiée : aucune action significative n'a lieu dans les entractes. Entre le troisième et le quatrième acte, Hyppolite a remis la lettre, qu'elle a prise à Valentin à la fin du troisième acte, à sa maîtresse ; entre le quatrième et le cinquième acte, Leandre a découvert dans le cabinet d'Astrée cette même lettre qui achève de convaincre Leandre de la culpabilité de sa femme.
 
 La concentration de l'action dans le temps montre que l'action des *Soupçons* commence *in medias res*, au moment du retour de Leandre à Paris avec Filemon. Alcipe harcèle Astrée depuis déjà six mois.
 
 
-## La correspondance par lettres
+## La correspondance par lettres.
 
 Lancaster, dans sa notice sur les *Soupçons*, écrit que la seule peinture de mœurs dans la dernière pièce de d'Ouville, serait à chercher, éventuellement, dans la manière qu'ont les personnages d'ouvrir et lire les lettres qui ne leur sont pas destinées. La correspondance par lettres tient un rôle important dans la pièce et participe de l'esthétique de la dissimulation. On compte cinq lettres dans les *Soupçons*. Ecrites en prose, elles rompent le rythme des alexandrins, et introduisent une autre dimension dans la pièce. Toutes ces lettres ont pour caractéristique soit de ne pas être lues par leur véritable destinataire, soit d'être mensongères. Astrée, à la scène 6 du troisième acte, lit la lettre de Florinde à Filemon qu'Hyppolite a été chercher au Courrier, et à la scène 1 du quatrième acte, celle que Filemon envoie à Florinde pour lui demander de se méfier car leur correspondance est surveillée. À la scène 1 du cinquième acte, Leandre a trouvé cette même lettre dans le cabinet d'Astrée et imagine qu'elle en est la destinataire, à la scène 4 du quatrième acte, Leandre lit la lettre qu'Alcipe adresse à Filemon avant son ami pour voir ce qu'elle contient. La lettre apparaît ainsi comme un instrument privilégié de la feinte. En substituant au Courrier les lettres de Filemon et de Florinde, Astrée espère détourner Filemon de son ancienne maîtresse. Elle se justifie au dénouement en arguant de la fausseté, ou au moins de l'exagération, des sentiments dans les lettres [79]. Une lettre n'est finalement qu'un bout de papier avec des mots écrits dessus, sincères ou mensongers, auxquels on peut faire dire tout ce que l'on veut. La lettre fait figure de témoin pour Leandre de l'infidélité de sa femme : à deux reprises, il la surprend en train de cacher une lettre, et quand il trouve celle que Filemon adressait à Florinde dans le cabinet de sa femme, il la prend pour ultime preuve. Instrument de la feinte, la lettre l'est surtout pour Alcipe, dont la première lettre adressée à Filemon n'est qu'un mensonge pour obtenir à nouveau les faveurs de Leandre et le persuader de ses bonnes intentions, tandis que le billet qu'il adresse à Leandre calomnie sa femme et l'ami qu'il reçoit. Filemon réfute d'ailleurs facilement les deux lettres qui l'accusent lors de son face à face avec Leandre.
 
 
-# Les caractères
+# Les caractères.
 
 Les onze personnages, ou « acteurs », des *Soupçons sur les Apparences* peuvent se diviser en deux catégories : d'une part les cinq jeunes gens autour desquels tourne l'action, d'autre part les comparses, composés des valets des jeunes gens et de personnages plus ponctuels, comme Picard [80], les Violons [81], et le Voisin [82], ce dernier n'apparaissant même pas dans la liste initiale des « Acteurs » [83].
 
@@ -384,7 +384,7 @@ Tous les personnages des *Soupçons* sont ce que Roger Guichemerre appelle des �
 Nous allons maintenant étudier ces différents caractères dans l'ordre dans lequel ils sont mentionnés dans la liste des « Acteurs ».
 
 
-## Les jeunes gens
+## Les jeunes gens.
 
 **Leandre**, le mari d'Astrée, conjugue les fonctions de mari et de jeune homme. Avant tout mari, Leandre en a la caractéristique comique fondamentale : la hantise d'être fait cocu. Il y est fait référence explicitement à deux reprises dans la pièce [85] : la tradition veut que des cornes poussent sur le front du mari trompé, et la rougeur du front irrité par la poussée des cornes en est le premier signe. Parallèlement, en tant que mari, il représente la figure de l'autorité. Il a le pouvoir sur sa femme et peut la répudier, comme le lui suggère d'ailleurs Alcipe. L'autorité familiale, traditionnellement dédiée au père est ici conférée au mari. Sous l'Ancien Régime, la femme passe de l'autorité du père à celle de l'époux, et ne devient libre qu'une fois veuve (sauf en Espagne, où elle retourne sous l'emprise familiale, comme le personnage d'Angélique, veuve cloîtrée chez elle par son frère dans les *Fausses veritez* !). Orphise, sa parente, est également sous sa tutelle. Alcipe, puis Filemon, doivent passer par lui pour obtenir sa main. Leandre a cependant aussi les caractéristiques d'un jeune homme au sens de l'honneur très poussé : devoir d'hospitalité (I, 5), importance du « point d'honneur » [86], maniement de l'épée (il suit Filemon parti à la poursuite des prétendus « filoux » qui ont blessé Alcipe). Leandre a pourtant un comportement contradictoire : du jeune homme il a la fougue et la passion, et si l'honneur lui interdit de tuer Filemon à l'intérieur de sa maison, dans sa fureur il est prêt à poignarder sa femme. Il ne peut d'ailleurs pas reconnaître cette action honteuse devant témoins, et prétend à Hyppolite, qui a surpris ses menaces, de les avoir mal interprétées. Leandre est le personnage qui évolue le plus au cours de la pièce. Aveuglément persuadé de la vertu de sa femme, tellement que Filemon s'en moque, au début de la pièce, il est tout aussi convaincu de sa trahison à la fin de la pièce. Leandre est le seul personnage à avoir des monologues, si on exclut celui d'Hyppolite qui a une valeur plus morale. À cinq reprises seul en scène, à partir de la fin de l'acte III, Leandre passe du soupçon à la certitude et le spectateur est témoin du mouvement de sa pensée. Leandre, plus qu'Alcipe, donne sa tonalité sombre, tendue, à la pièce. Son caractère de jaloux ne lui attire pas la sympathie du spectateur, d'autant plus qu'il est mis en parallèle avec le mari jaloux de Florinde.
 
@@ -472,7 +472,7 @@ Non pas, mais je l'ay veu. [108]
 Elle trouve présomptueux de convoiter le cœur de Filemon qui est certainement pris [109], et devant l'attitude étrange de Filemon est en proie aux mêmes doutes que sa cousine, avance tous les arguments tendant à prouver que Filemon aime Astrée, craint de ne pas être aimée, et quand Filemon révèle enfin à tous son amour, en jeune fille faussement obéissante, elle se soumet au choix de son tuteur, Leandre.
 
 
-## Les comparses
+## Les comparses.
 
 Les valets, dans les *Soupçons*, sont cantonnés au rôle d'adjuvants de leurs maîtres. Ils ne correspondent ni au *zanni* de la *commedia dell'arte*, caractérisé par son habileté, sa ruse et son absence de scrupule, ni au *gracioso* de la *comedia*, aimant boire et manger, souvent peureux, bouffon, source de comique.
 
@@ -511,17 +511,17 @@ Tu le peu faire encore ; car je ne t'aime pas. [115]
 Après la conclusion de la comédie par le traditionnel double mariage, même s'il s'agit dans les Soupçons de la consolidation d'un mariage déjà accompli et d'un vrai mariage [116], les valets, toujours selon la tradition, semblent former un troisième couple. Hyppolite et Valentin reprennent leur badinage là où ils l'avaient laissé à la scène 10 du troisième acte, et, originalité dans la comédie du XVII*e* siècle, se renvoient mutuellement. C'est l'occasion pour d'Ouville de finir sa pièce légèrement et de provoquer le sourire du spectateur. C'est l'occasion aussi, toujours selon la tradition de la comédie latine, de le faire réfléchir. Cette pirouette finale peut donner lieu à de multiples interprétations. S'agit-il seulement d'un badinage amoureux inoffensif, ou s'agit-il aussi de la mise en abyme de sentiments plus profonds qui se jouent entre leurs maîtres, et plus généralement peut-être du sentiment amoureux même ? Les derniers mots, « je ne t'aime pas », closent une pièce dans laquelle le couple formé par Leandre et Astrée a été fortement compromis, et dans laquelle l'amour de Filemon pour Orphise n'a pas été une évidence. De quoi se demander à la fin, avec Filemon, « si tout ce bon-heur n'est pas illusion ». Quelle que soit la réponse, la question des apparences est une dernière fois posée. Ce doute final ouvre un éventail d'interprétations au metteur en scène.
 
 
-# Une héroïco-comédie
+# Une héroïco-comédie.
 
 
-## Un hapax dans les sous-genres dramatiques du XVII*e* siècle
+## Un hapax dans les sous-genres dramatiques du XVII*e* siècle.
 
 Les *Soupçons sur les apparences* sont l'unique héroïco-comédie de la production dramatique du XVII*e* siècle [117]. Il apparaît donc que le terme « héroïco-comédie » a été non seulement forgé par d'Ouville en 1650 pour définir sa nouvelle et dernière pièce, mais représente en plus un hapax parmi toutes les dénominations qui ont été données aux pièces de théâtre au XVII*e* siècle. Cette étrangeté a d'ailleurs contribué à nourrir de nombreuses confusions. Ainsi, Maupoint, Beauchamps et les Frères Parfaict parlent d'« héroï-comédie », mais étant donné que ce terme est lui-même un hapax, il ne représente pas un contresens. Plus grave apparaît la confusion opérée par Leiris, Clément et Laporte, qui parlent de « comédie héroïque ». Ce terme, inventé en 1650 par Pierre Corneille pour qualifier sa pièce* Dom Sanche d'Aragon*, recouvre une réalité toute autre. Corneille, dans l'épître qui précède sa pièce, explique et justifie la nécessité d'un nom spécifique pour un nouveau type de pièce dont l'action ne présente pas de grand péril [118] pour les personnages, mais dont le personnel est illustre. L'action de *Dom Sanche*, en dépit du caractère illustre de ses personnages, reste une action de comédie, et ce n'est que le statut de ses personnages qui justifie l'épithète « héroïque » qu'il lui accole, pour la distinguer de la simple comédie. Nous voyons que l'héroïco-comédie de d'Ouville n'est en aucun cas une comédie héroïque : les personnages mis en scènes ne sont pas des rois ou des héros mi-homme, mi-dieu, mais des jeunes gens de la bonne société parisienne, et lyonnaise, contemporains, comme on en trouve de nombreux exemples dans la comédie du milieu du XVII*e* siècle.
 
 La confusion, ou du moins l'analogie, avec la comédie héroïque, et plus largement la tragi-comédie persiste au XX*e* siècle. Jacques Scherer considère que l'héroïco-comédie, et donc la pièce de d'Ouville puisqu'il n'y en a pas d'autre, est à ranger parmi la production tragi-comique du XVII*e* siècle, il en est de même pour Hélène Baby qui fait rapidement allusion à l'héroïco-comédie en début de son chapitre intitulé « La tragi-comédie, et le désaveu cornélien : la comédie héroïque » [119]. Il faut noter cependant que ces classifications sont opérées à partir du sous-titre des œuvres dramatiques, et non de ce qu'elles sont réellement. Les auteurs dramatiques du XVII*e* siècle se sont caractérisés par leur recherche incessante de nouvelles dénominations, et d'Ouville s'inscrit dans cette lignée. Mais de ces regroupements nous pouvons conclure que dans l'histoire de la production dramatique du XVII*e* siècle, l'héroïco-comédie d'Ouville est jugée comme un sous-genre de la tragi-comédie. Lancaster définit les *Soupçons* comme « a sort of tragi-comedy of treachery and jealousy [120], though he d'Ouville classified it as an ‘heroïco-comedie'. » [121] Pour arguments, il cite l'atmosphère sombre des deux premiers actes, le fait qu'un homme soit blessé dans un combat sur la scène, les nombreuses menaces de mort, la tonalité peu comique de l'ensemble, et les personnages du type de ceux mis en scène par Shakespeare dans *Othello*, Tragédie : la femme vertueuse (Astrée / Desdémone), le mari jaloux (Leandre / Othello), le jaloux perfide (Alcipe / Iago). Ces arguments sont repris par Roger Guichemerre, qui parle lui de « drame ». Au sujet d'Alcipe, James Wilson Coke parle lui aussi d'un « Iago-like character » particulièrement bien peint, et considère les *Soupçons* comme une comédie morale.
 
 
-## D'Ouville et la tragi-comédie
+## D'Ouville et la tragi-comédie.
 
 L'âge d'or de la tragi-comédie en France se situe autour des années 1630-1640. Genre caractérisé par son irrégularité, son absence de règles, par rapport à la comédie et à la tragédie, elle décline à partir du moment où les règles et le respect des unités de la dramaturgie classique s'imposent sur la scène d'une part, et d'autre part quand la tragédie, à partir de *Cinna*, peut avoir un dénouement heureux. La tragi-comédie n'étant plus à la mode en 1650, d'Ouville aurait pu donner le nom d'« héroïco-comédie » à sa dernière pièce pour ne pas lui donner celui de « tragi-comédie », passé de mode. Ce n'est pas le cas. D'Ouville a écrit et fait représenter deux tragi-comédies quand il publie les *Soupçons*. La dernière, les *Morts Vivants*, 1646, n'a pas eu beaucoup de succès. Elle mettait en scène un épisode tiré du roman pastoral d'Achille Tatius, *Clitophon et Leucipe*, de nombreuses fois adapté à la scène [122]. Nous nous intéresserons davantage à sa première tragi-comédie, les *Trahizons d'Arbiran*, parce qu'elle présente une parenté de sujet avec notre comédie, mais aussi parce qu'elle permet de voir en quoi les *Soupçons* ne relèvent pas de l'esthétique de la tragi-comédie.
 
@@ -542,14 +542,14 @@ Bref, j'abhorre la Cour cent fois plus que la mort. [124]
 On ne trouve pas de satire de la sorte dans les *Soupçons*, dont la leçon est plus abstraite, morale : les apparences sont trompeuses. La confrontation de ces deux pièces montre en quoi les Soupçons ne sont pas qu'une réécriture des Trahizons, comme l'écrit injustement Lancaster. Si le fondement de l'intrigue dans les deux pièces consiste dans les fourberies d'un rival perfide pour obtenir la femme d'un ami, Arbiran est beaucoup plus habile qu'Alcipe qui ne profite finalement que des circonstances, et l'intérêt du spectateur se porte principalement, non pas sur les fourbes d'Alcipe, mais bien sur les soupçons sur les apparences. Le titre des deux œuvres est en cela révélateur.
 
 
-## *Les Soupçons sur les Apparences*, pièce héroïco-comique
+## *Les Soupçons sur les Apparences*, pièce héroïco-comique.
 
 Pourquoi d'Ouville sous-titre-t-il sa dernière pièce « héroïco-comédie », lui qui jusqu'ici n'a écrit, à l'exception de deux tragi-comédies, que des comédies ?
 
 Si les *Soupçons* sont la seule héroïco-comédie, ou encore héroï-comédie [125], comme elle est indiquée dans la plupart des catalogues, l'adjectif « héroï-comique » est attesté dès 1640 [126]. Cet adjectif, issu de l'haplologie de l'adjectif héroïco-comique (de héroïco-, issu du latin heroicus « relatif au héros », c'est-à-dire aux demi dieux de la mythologie, « relatif à la poésie qui célèbre les héros », et de comique), se dit dès le milieu du XVII*e* siècle d'un genre littéraire qui tient de l'héroïque et du comique, et s'apparente au burlesque (genre littéraire parodique qui traite en style bas un sujet noble).
 
 
-### L'honneur, l'amitié, la générosité : valeurs héroïques
+### L'honneur, l'amitié, la générosité : valeurs héroïques.
 
 L'honneur et l'amitié, valeurs essentielles au XVII*e* siècle, le sont aussi dans les *Soupçons*. Les fourbes d'Alcipe mettent tout autant en péril l'amitié qui unit Leandre et Filemon, que l'amour ou le mariage de Leandre et Astrée. Leandre doit se venger
 
@@ -564,7 +564,7 @@ L'amitié est un lien très fort entre deux personnes qui se mettent l'une à la
 La pièce peut également être qualifiée d'héroïque par les sentiments exaltés des personnages. Comme dans la *comedia* espagnole les sentiments sont grands, la conscience de l'honneur est poussée à son extrême.
 
 
-### Le comique
+### Le comique.
 
 Comédie et comique, c'est-à-dire comédie et rire ne vont pas nécessairement de pair au XVII*e* siècle. La comédie se définit d'abord par rapport à la tragédie : ses personnages sont de condition moyenne, son action ne présente pas de « grand péril », comme nous l'avons vu précédemment. Il faut ajouter à cela que la grande comédie qui renaît dans ces années là veut se démarquer de la farce. Au rire grossier de la farce, les auteurs de comédies, depuis Corneille, préfèrent le sourire, l'« enjouement ». Corneille écrira en 1660 :
 
@@ -616,20 +616,20 @@ S'ensuit toute une scène où Alcipe et Filemon se parlent par troisième person
 Les *Soupçons* ne sont donc pas si sombres qu'il y paraît, et de nombreuses situations relèvent bien de la comédie. Le terme d'héroïco-comédie convient donc particulièrement bien à cette pièce, où alternent moments de forte tension dramatique, et confrontation de personnages faisant ressortir le ridicule des uns et la noblesse des autres.
 
 
-### Style de la pièce
+### Style de la pièce.
 
 La dernière pièce de d'Ouville se caractérise par l'importance des tirades et monologues dans l'économie de la pièce. Véritables récits de plus d'une centaine de vers chacun, les deux tirades de Filemon contribuent à donner de la profondeur au personnage. Si le premier [141] montre la virtuosité et l'esprit du Cavalier, le second [142] constitue un moment lyrique, et pose Filemon comme le jeune homme mélancolique de la pièce. À l'inverse, les monologues de Leandre sont plus sombres et tendus dramatiquement. Il ne s'agit plus de raconter, mais de déplorer, délibérer, et se poser en homme abandonné par le sort et se retrouvant face à un dilemme.
 
 La vivacité de certains échanges est un autre trait de la pièce à noter, et résulte de la tension dramatique amenée par la mise en jeu de sentiments très forts comme la jalousie et la violence. De nombreux vers sont distribués entre plusieurs personnages, la suspension est très souvent utilisée. Les tirades et monologues peuvent être considérées comme des pauses à l'intérieur d'une action très rapide, marquée par des rebondissements et le retour rapide de mêmes événements : il en est ainsi pour les deux tentatives d'enlèvement d'Astrée tentées par Alcipe au cinquième acte.
 
 
-# Une mise en soupçon systématique des apparences
+# Une mise en soupçon systématique des apparences.
 
 
-## Une pièce en forme de démonstration
+## Une pièce en forme de démonstration.
 
 
-### Le dénouement comme résolution de toutes les énigmes
+### Le dénouement comme résolution de toutes les énigmes.
 
 Le dénouement est par définition le lieu de la pièce où le nœud de l'intrigue se défait. Le dénouement des *Soupçons* consiste essentiellement en la résolution de toutes les énigmes soulevées dans la pièce, et causes des soupçons des différends personnages. Ainsi, tout rentre dans l'ordre. La scène 6 du cinquième acte se terminait sur ces mots de Filemon :
 
@@ -647,7 +647,7 @@ Les derniers mots de Leandre condamnent une dernière fois les apparences qui l'
 L'éclaircissement doit également être compris au sens propre. Le thème de la lumière associée à la raison, et de l'obscurité associée aux apparences traverse toute la pièce. La pièce présente en effet un cheminement vers la lumière. La pièce commence de nuit, et s'achève de jour, mais de l'obscurité de la nuit, et donc sensible des deux premiers actes, on passe à une obscurité figurée, liée à l'incompréhension de Leandre. À la fin de la pièce il s'agit de lever le voile de l'obscurité, de l'obscurantisme dans lequel plongent les apparences.
 
 
-### Une démonstration
+### Une démonstration.
 
 L'analyse dramaturgique a montré que les soupçons sur les apparences constituaient l'obstacle principal au développement des deux intrigues de la pièce, et on peut en effet lire la pièce comme un essai de démonstration de l'aphorisme suivant : les apparences sont trompeuses, il ne faut pas s'y fier. Le titre de la pièce est en cela programmatique de son contenu qui constitue un véritable exercice de variation sur les apparences et les illusions. Les deux termes clefs du titre sont repris régulièrement et non seulement les personnages sont victimes des apparences, mais ils en sont conscients et tirent fréquemment la morale de leur erreur, rappelant par là même au spectateur le titre de la pièce. En superposition des deux fils qui composent l'action proprement dramaturgique, on peut lire la pièce comme une succession d'exemples au sens rhétorique du terme qui développeraient et prouveraient la thèse présentée initialement dans le titre. Ces exemples sont construits sur le même schéma. Dans un premier temps, l'apparence va conduire un ou des personnages à concevoir des soupçons, qui vont s'avérer dans un deuxième temps avoir été non fondés. Dans un troisième et dernier temps, les victimes de l'apparence tirent la morale de leur erreur et se promettent de ne jamais s'y laisser reprendre. Ces trois moments peuvent se dérouler dans un temps très court. À la scène 4 du premier acte, Alcipe, en voyant Picard frapper à la porte d'Astrée de nuit, croit d'abord qu'il s'agit d'un entremetteur, avant d'entendre qu'il est juste venu la conduire chez sa cousine malade, devant quoi Sylvain conclue :
 
@@ -718,7 +718,7 @@ Soupçon injurieux, et mal conjecturez ! [149]
 Leandre tient ici le même discours que lorsque lui-même se fait prendre par les apparences. Or, cette fois-ci les apparences n'étaient pas trompeuses, et le spectateur, qui assiste depuis le début de la pièce à la progression des soupçons de Leandre, sait que la menace de mort contre Astrée était bien à prendre au sens propre, et non au figuré comme il le prétend. Ce contre-exemple nous invite à nous interroger sur ce que nous voyons, sur ce qu'est une apparence.
 
 
-### La feinte, la dissimulation, et le jeu au cœur des Soupçons
+### La feinte, la dissimulation, et le jeu au cœur des Soupçons.
 
 Comme dans beaucoup de comédies préclassiques, la feinte est au cœur de la pièce. Alcipe est un hypocrite, un fourbe, qui vient insinuer le doute dans les certitudes de Leandre. La dichotomie entre son cœur et sa langue est plusieurs fois soulignée [150]. Face à face avec Leandre à l'acte II, alors qu'il espérait trouver Astrée, il feint la folie ; à la scène 4 du même acte, il feint d'aimer Astrée purement et de ne rien prétendre ; au quatrième acte, il feint de se réconcilier avec Filemon, d'aimer Orphise et de sauver l'honneur de Leandre en lui dévoilant l'infamie à laquelle se livre Astrée et Filemon. Alcipe n'est cependant pas le seul personnage de la pièce à recourir à la feinte et à dissimuler ses sentiments. Astrée et Orphise recourent à la feinte quand elles empêchent Florinde et Filemon de communiquer en dérobant au Courrier leurs lettres. Quant à Filemon, il dissimule ses véritables sentiments jusqu'à la fin.
 
@@ -757,7 +757,7 @@ L'ami qu'il trahissoit n'en sçaura jamais rien. [155]
 L'emploi du « je » est double : première personne du récit rapporté pour Leandre, véritable première personne qui se rapporte à l'énonciateur, Filemon, pour Alcipe, et le spectateur.
 
 
-### La remise en cause de toutes les certitudes
+### La remise en cause de toutes les certitudes.
 
 La confiance de Leandre en sa femme reposait sur la certitude de sa vertu. À partir du moment où il remet la vertu de sa femme en cause, c'est du même coup l'ordre du cosmos qui est bouleversé. La vertu d'Astrée était aussi sûre que le géocentrisme. Si elle est remise en cause, alors on peut croire les élucubrations de Copernic et de Galilée qui présentent le soleil et la Terre comme un astre et une planète parmi d'autres, et qui remettent du même coup en cause la place centrale de l'homme dans l'univers :
 
@@ -779,7 +779,7 @@ De celle qui sur vous s'est acquis de l'empire :
 D'Orphise, d'Hyppolite, enfin de tous les miens. [157]  
 
 
-## Une pièce sur l'interprétation qui invite à se poser la question de son interprétation
+## Une pièce sur l'interprétation qui invite à se poser la question de son interprétation.
 
 C'est pourquoi je prendrai garde soigneusement de ne point recevoir en ma croyance aucune fausseté …. Mais ce dessein est pénible et laborieux, et une certaine paresse m'entraîne insensiblement dans le train de ma vie ordinaire. Et tout de même qu'un esclave qui jouissait dans le sommeil d'une liberté imaginaire, lorsqu'il commence à soupçonner que sa liberté n'est qu'un songe, craint d'être réveillé, et conspire avec ses illusions agréables pour en être plus longuement abusé, ainsi je retombe insensiblement de moi-même en mes anciennes opinions, et j'appréhende de me réveiller de cet assoupissement, de peur que les veilles laborieuses qui succèderaient à la tranquillité de ce repos, au lieu de m'apporter quelque jour et quelque lumière dans la connaissance de la vérité, ne fussent pas suffisantes pour éclaircir toutes les ténèbres des difficultés qui viennent d'êtres agitées. [158]
 
@@ -804,7 +804,7 @@ Le dénouement reste pourtant heureux : Orphise épouse celui qu'elle aime, Lea
 La force de la dernière pièce de d'Ouville est, selon nous, de donner lieu à de multiples lectures, et de là à de multiples interprétations. Puisque les apparences doivent être soupçonnées, puisqu'elles peuvent, mais pas toujours, induire en erreur, le sens de la pièce diffère selon l'interprétation que l'on fait de l'apparence. C'est en cela qu'on peut considérer les *Soupçons sur les apparences* comme une pièce baroque. Si l'aspect démonstratif que lui donne d'Ouville peut lui donner l'apparence d'une comédie morale, dont le dénouement serait l'apothéose avec la résolution des tous les soupçons et des énigmes qui demeurent pour les personnages, le phénomène constant de mise en miroir en fait une pièce éminemment baroque, dont le sens doit être interrogé, et n'est en tout cas pas évident, au sens cartésien, c'est-à-dire clair et distinct.
 
 
-# Jugements critiques
+# Jugements critiques.
 
 Nous reproduisons quelques critiques des *Soupçons sur les Apparences.* Nous n'avons pas trouvé de critiques antérieures au XVIII*e* siècle, et donc contemporaines de la pièce. Si nous ignorons quelle fut la réception de la pièce à sa création, celle-ci a connu deux impressions, ce qui témoigne un certain succès.
 
@@ -844,7 +844,7 @@ Le jugement des lecteurs du XX*e* siècle contraste avec les précédents. James
 Quant à tous les reproches que les Frères Parfaict adressent aux personnages des *Soupçons*, et qu'un lecteur moderne peut effectivement considérer comme fondés : imprudence d'Astrée et interrogations sur ses motivations, ils ne contribuent qu'à enrichir la pièce en soulevant des interrogations chez le lecteur, puis le spectateur. Au lieu de les prendre comme des faiblesses de la pièce, mieux vaut désormais les considérer comme points de départ de multiples interprétations.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 On ne connaît à ce jour qu'une seule édition des *Soupçons sur les Apparences* de d'Ouville, exécutée en 1650 à Paris par le libraire Toussainct Quinet.
 
@@ -855,10 +855,10 @@ Les coquilles de l'impression de 1650 ne sont pas corrigées dans celle de 1651.
 Nous avons suivi l'exemplaire de 1650 de la Réserve des Livres Rares de la Bibliothèque nationale de France (RES-YF-237), qui a été microfiché (P89/1561) [173]. Sur la page de titre on trouve la mention manuscrite *Attribuée à Douville.*
 
 
-## Autres exemplaires consultés
+## Autres exemplaires consultés.
 
 
-### Impression de 1650
+### Impression de 1650.
 
 Bibliothèque de l'Arsenal : 4-BL-3486 (4). Reliure XVIII*e* siècle. *Théatre de Douville Tom. III* sur le dos. Exemplaire comprenant dans l'ordre : *Aymer sans scavoir qui, Jodelet Astrologue, La Coifeuse à la mode, Les Soupçons sur les Apparences.*
 
@@ -867,7 +867,7 @@ Bibliothèque Mazarine : 4° 10918-20. Reliure XVII*e* siècle. *Recueil de div
 Bibliothèque interuniversitaire de la Sorbonne : RRA 8 = 478-2. Ex-libris d'Am. Berton sur le contre-plat supérieur. *Theatre de D'Ouville T. 2.* sur le dos. Le volume comprend dans l'ordre : *Jodelet Astrologue, Les Morts Vivants, La Coifeuse à la mode, Aymer sans savoir qui, Les Soupçons sur les Apparences.* Les *Soupçons* sont la seule pièce du volume à n'avoir pas été remontée.
 
 
-### Impressions de 1651
+### Impressions de 1651.
 
 Réserve des Livres Rares de la Bibliothèque nationale de France : RES-YF-1519. Reliure parchemin du XVII*e* siècle. Ex-libris de Jacques Aubert, du Mans, et du collège de Saint Eloi des Barnabites à Paris. Cet exemplaire présente des annotations manuscrites à l'encre marron : v.407 : un *c* est superposé au *t* dans le mot *presente* ; v.541 : *retirer* est barré de deux traits, et remplacé au dessus par *reciter ;* v.606 : le *e* final de *encore* est raturé (le vers faisait en effet treize syllabes) ; v.1051 : *ce* est rajouté dans l'interligne entre *seroit* et *par* (le vers faisait sinon onze syllabes) ; v.1229 : le *ez* de *soiez* est raturé (vers sans cela de treize syllabes. Il s'agit en outre d'une coquille qui ne figure pas dans les impressions de 1650 que nous avons consultées, où on trouve *sois*) ; v.1640 : le *e* final de *encore* est raturé (vers de treize syllabes).
 
@@ -880,7 +880,7 @@ Autres exemplaires repérés dans le Catalogue collectif de France et le Karlsru
 – 1651 : British Library : 86.i.6.(10.)
 
 
-## Description de la collation
+## Description de la collation.
 
 II-141142p. -in 4°, signé A-S
 
@@ -895,12 +895,12 @@ II Acteurs
 142 Extrait du Privilège du Roi.
 
 
-## Description de la page de titre
+## Description de la page de titre.
 
 LES / SOVPÇONS / SVR LES / APPARENCES / HEROICO-COMEDIE. / fleuron du libraire : une corbeille de fruit / PARIS, / Chez TOVSSAINCT QVINET ; au Palais, / sous la montée de la Cour des Aydes. / filet / M. DC. L. /* AVEC PRIVILEGE DV ROY.*
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons conservé la ponctuation et l'orthographe originales du texte.
 
@@ -1050,7 +1050,7 @@ Retirez vous, Sylvain songe à les reconnoistre [189].
 ASTRÉE, ALCIPE, SYLVAIN.
 
 
-    ASTRÉE *à sa fenestre.*
+    ASTRÉE *à sa fenestre.*.
 N'est-ce pas vous Alcipe ?  
 
     ALCIPE.
@@ -1114,7 +1114,7 @@ Tirons nous à l'écart, et gardons le silence.
 PICARD, ALCIPE, SYLVAIN, ASTRÉE.HYPPOLITE.
 
 
-    PICARD *tenant un flambeau.*
+    PICARD *tenant un flambeau.*.
 Malgré l'ombre et l'horreur de cet air obscurcy,  
 Je ne me trompe pas : heurtons⁎ fort, c'est icy.  
 
@@ -1132,7 +1132,7 @@ Qui vendent la jeunesse et la beauté des femmes ;
 L'infidelle à dessein m'a traitté rudement ;  
 Pour s'aller divertir avec un autre amant.  
 
-    ASTRÉE *à la fenestre.*
+    ASTRÉE *à la fenestre.*.
 Insolent c'en est trop, vostre impudence est telle,  
 Qu'un propos de mépris, n'est pas assez pour elle :  
 Je ne sçay qui me tient, qu'en mon juste⁎ courroux  
@@ -1141,7 +1141,7 @@ Heurter⁎ violemment, et de nuit à ma porte !
 Traitte-t'on de cét air les femmes de ma sorte ?  
 Retirez-vous, ou bien.  
 
-    PICARD *bas.*
+    PICARD *bas.*.
         Cette male-façon  
 Fay naistre en mon esprit je ne sçay quel soupçon ;  
 Mais desabusons-la.  
@@ -1170,7 +1170,7 @@ Je ne vous le puis dire, il ne m'est pas connu.
     ASTRÉE.
 Attends moy, je m'en vay.  
 
-    SYLVAIN* à ALCIPE.*
+    SYLVAIN* à ALCIPE.*.
         Vostre esprit quand j'y pense,  
 Establit un soupçon dessus⁎ peu d'apparence.  
 
@@ -1188,7 +1188,7 @@ L'absence de Leandre en croist la conjecture,
 Toutesfois, tels soupçons souvent sont mal conceus,  
 Et d'ailleurs je n'ay rien à gloser là dessus.  
 
-    ALCIPE *bas.*
+    ALCIPE *bas.*.
 Voyez l'opinion de ce dernier des hommes.  
 
     ASTRÉE.
@@ -1199,7 +1199,7 @@ Allons, ce n'est pas loing : en trois pas nous y sommes.
     ALCIPE.
 L'occasion est belle, agissons sans parler.  
 
-    SYLVAIN *le retenant.*
+    SYLVAIN *le retenant.*.
 Monsieur, que pensez-vous ? où voulez vous aller ? [204]  
 
     ALCIPE.
@@ -1310,7 +1310,7 @@ Et Paris n'en a pas encor une pareille ;
 Cependant, entre nous, je diray, s'il vous plaist  
 Qu'on tarde à demander qui heurte⁎, et ce que c'est.  
 
-     LEANDRE.
+    LEANDRE.
 Je m'en vay redoubler, mais d'une main si forte,  
 Que s'ils ne sont tous morts, ils viendront à la porte.  
 
@@ -1349,15 +1349,15 @@ Et je l'apperçoy trop dans cette nuit obscure.
     FILEMON.
 Heurtez⁎ encor un coup.  
 
-    LEANDRE. 
+    LEANDRE.
         Je le feray sans fruit.  
 (Il heurte.)
 
 
-    UN VOISIN *à la fenestre.*
+    UN VOISIN *à la fenestre.*.
 Qui sont ceux qui là bas font si long-temps du bruit ?  
 
-    LEANDRE. 
+    LEANDRE.
 Mon amy, c'est Leandre, ou le mari d'Astrée.  
 
     LE VOISIN.
@@ -1594,7 +1594,7 @@ Alcipe, connoissez [231] vos anciens amis.
     ALCIPE.
 Infames, mes amis n'ont rien qui vous ressemble.  
 
-    FILEMON *bas.*
+    FILEMON *bas.*.
 C'est luy que j'ay tantost⁎ desarmé, ce me semble.  
 
     LEANDRE.
@@ -1651,7 +1651,7 @@ C'est qu'un de ces filoux emporte son espée ;
 Et qu'il est affligé plus que tous les humains,  
 De sçavoir qu'elle passe en de si viles mains.  
 
-    [LEANDRE.] [234]
+    [LEANDRE.] [234].
 Le sujet est petit, pour de si grandes plaintes.  
 
     ALCIPE.
@@ -1994,7 +1994,7 @@ Ce discours me regarde autant qu'il me confond.
     ALCIPE.
 Me soupçonneriez-vous d'une telle insolence ?  
 
-    LEANDRE
+    LEANDRE.
 Oüy, si j'estois d'humeur à croire l'apparence.  
 Quel autre en peut avoir de plus justes⁎ soupçons ?  
 
@@ -2221,7 +2221,7 @@ De Lyon ?
     VALENTIN.
     De Lyon.  
 
-    ASTRÉE. 
+    ASTRÉE.
     Pour ton Maistre ?  
 
     VALENTIN.
@@ -2252,7 +2252,7 @@ Et seul aujourd'huy fait ses liens et ses peines.
 Il est ainsi, Madame, et permissent les Cieux  
 Qu'il portast autre part sa pensée et ses yeux !  
 
-    ASTRÉE *bas à Hyppolyte.*
+    ASTRÉE *bas à Hyppolyte.*.
 Va viste, et fay si bien que tu me les apporte [262].  
 
     ORPHISE.
@@ -2536,7 +2536,7 @@ MONSIEUR.
 Le Ciel a voulu pour ma joye et pour vostre repos, que mon mary ait presque esté aussi-tost guary que blessé ; si une demarche [280] qu'il fit, ne le garentit pas tout à fait du coup que vous lui portâtes, il le rendit leger. Le pied luy manqua, non la force, ni la resolution. Il se porte aussi bien qu'auparavant ; mais j'en suis plus mal-traittée que jamais : Ses Soupçons le travaillent sans tréve, et luy me persecute sans relasche. S'il continuë, je vous le manderay⁎ ; mais partez aussi-tost, et si vous estes genereux⁎, venez delivrer de peine l'innocente autant qu'affligée
 FLORINDE.
 
-    ASTRÉE *apres avoir leu.*
+    ASTRÉE *apres avoir leu.*.
 Nous mettrons tant la ruse, et l'intrigue en usage,  
 Que nous l'empécherons de faire ce voyage.  
 
@@ -2651,7 +2651,7 @@ Mes ordres sont donnez, retirons nous Orphise.
 HYPPOLITE.
 
 
-    [HYPPOLITE.]
+    [HYPPOLITE.].
 Que l'esprit d'une femme a de ressors divers !  
 Qu'il sçait de faux sentiers et de chemins couverts,  
 Qui croit nous voir dedans, ne nous void qu'en l'écorce,  
@@ -2754,7 +2754,7 @@ FILEMON.
 LEANDRE, ASTRÉE, ORPHISE.
 
 
-    ORPHISE *à ASTRÉE.*
+    ORPHISE *à ASTRÉE.*.
 Cachez…  
 
     LEANDRE.
@@ -2782,7 +2782,7 @@ Nous avons tout à craindre, et rien à negliger.
 LEANDRE seul.
 
 
-    [LEANDRE.]
+    [LEANDRE.].
 A mille autres ces soins donneroient de l'ombrage⁎ ;  
 Mais le Ciel n'est pas dur, ou bien [294] Astrée est sage.  
 Ses plus secrets desirs se conforment aux miens.  
@@ -2856,7 +2856,7 @@ Ce qu'un trompeur soupçon m'a fait dire de luy.
 ALCIPE, LEANDRE, SYLVAIN.
 
 
-    ALCIPE *portant le bras droit en écharpe.*
+    ALCIPE *portant le bras droit en écharpe.*.
 Mon secret est pressant, et ne m'a pû permettre  
 D'attendre pour venir, response de ma lettre.  
 Au surplus cher amy ! voyez moy d'un bon œil.  
@@ -2934,7 +2934,7 @@ Mon esperance croist, et ma peur se dissipe.
 LEANDRE seul.
 
 
-    [LEANDRE.]
+    [LEANDRE.].
 Ce papier est tombé de la poche d'Alcipe,  
 Seroit-ce à son insceu, seroit ce par dessein ?  
 Je n'en sçaurois former un jugement certain.  
@@ -3008,7 +3008,7 @@ Je te plainds toutesfois, et je me plainds beaucoup ;
 Mais mon honneur le veut, sois y donc preparée ;  
 Je tiendray ma parole, et tu mourras Astrée !  
 
-    HYPOLITE *à l'écart.*
+    HYPOLITE *à l'écart.*.
 Qu'a-t'il dit, qu'ay-je oüy⁎, Ciel quelle est sa fureur !  
 Allons par nos avis empécher ce mal-heur.  
 
@@ -3017,7 +3017,7 @@ Allons par nos avis empécher ce mal-heur.
 LEANDRE seul.
 
 
-    [LEANDRE.]
+    [LEANDRE.].
 Amy qui mieux que moy decouvres l'artifice⁎,  
 Que ne te dois-je pas pour un si bon office⁎ ?  
 Tous deux m'assassinoient par un si lâche tour ;  
@@ -3046,13 +3046,13 @@ Quel crime ay-je commis, m'en croyez vous capable ?
 Expliquez-vous, Leandre, ou mes justes⁎ douleurs  
 Previendront en ce lieu, l'effet de vos fureurs.  
 
-    LEANDRE *bas.*
+    LEANDRE *bas.*.
 L'innocente personne ! il est juste, Madame,  
 Que je vous ouvre icy jusqu'au fond de mon ame ;  
 Mais qu'Hyppolite sorte, un homme est peu discret⁎,  
 Qui declare à plusieurs un semblable secret.  
 
-    HYPPOLITE *bas en s'en allant.*
+    HYPPOLITE *bas en s'en allant.*.
 Je le comprends assez sans que l'on me le die [313],  
 Il la veut poignarder, Cieux quelle perfidie !  
 A quel aveuglement s'est-il abandonné ?  
@@ -3280,7 +3280,7 @@ D'Orphise il aura tout, d'Astrée il n'aura rien.
 LEANDRE.
 
 
-    LEANDRE *seul tenant une lettre.*
+    LEANDRE *seul tenant une lettre.*.
 Sacré respect d'Hymen⁎, sentimens de tendresse,  
 Silence, abandonnez une espouse traistresse,  
 Je croy, je sçay, je voy son infidelité [322],  
@@ -3347,7 +3347,7 @@ De celle qui sur vous s'est acquis de l'empire :
 D'Orphise, d'Hyppolite, enfin de tous les miens ;  
 Voyez ce qu'en depose un écrit que je tiens.  
 
-    ALCIPE *apres avoir leu.*
+    ALCIPE *apres avoir leu.*.
 Apres ce témoignage on ne peut que respondre.  
 Quelque excuse qu'on cherche, il la sçaura confondre,  
 Orphise toutesfois n'est point nommée ici.  
@@ -3879,7 +3879,7 @@ Une lettre entretient l'Amante avec l'Amant :
 Que c'est où leur amour à bien feindre s'exerce,  
 Et j'ay fait mon pouvoir d'en rompre le commerce.  
 
-    [VALENTIN] [348] *bas.*
+    [VALENTIN] [348] *bas.*.
 Je suis perdu, Madame.  
 
     FILEMON.
@@ -3996,15 +3996,15 @@ Achevé d'imprimer pour la premiere fois le 28. Juillet 1650.
 *Les exemplaires ont esté fournis.*
 
 
-# Lexique
+# Lexique.
 
 Les lettres A., F. et R. entre parenthèses renvoient respectivement aux *Dictionnaires* de l'Académie française, de Furetière et de Richelet. Quand cela a été nécessaire, nous avons eu recours au *Dictionnaire de la Langue française du XVI*e* siècle* de Huguet, nous le signalons par la lettre H. entre parenthèses. Nous avons modernisé l'orthographe. Pour l'établissement de ce lexique, nous avons souvent suivi les définitions proposées par Gaston Cayrou [352]. Nous avons également consulté le *Dictionnaire historique de la langue française* de Rey. Les numéros renvoient aux vers correspondants.AbordArrivée.V. 749 ; 814.Abord (d')Aussitôt, immédiatement.V. 337 ; 624 ; 668 ; 750.AdresseArtifice, ruse, finesse.V. 921 ; 951 ; 1214.AimableDigne d'être aimé (Rey).V. 554 ; 646 ; 727 ; 757.AirFaçon, manière de se comporter (Rey).V. 163 ; 166.AppasAttraits physiques, en poésie.V. 40 ; 555 ; 619 ; 823.Artifice« Ruse, déguisement, fraude » (A.).V. 595 ; 1109 ; 1441 ; 1507.AveuAutorisation, permission.V. 178 ; 1046.BureauAgence, magasin.V. 94.CelerCacher.V. 598 ; 899 ; 999.Charme« Puissance magique par laquelle, avec l'aide des démons, les sorciers font des choses merveilleuses, au-dessus des forces ou contre l'ordre de la nature …V. 369Sign. fig. Attrait, appât, qui plait extrêmement, qui touche sensiblement » ( A.).V. 38 ; 369 ; 477 ; 667 ; 744 ; 810.Charmant : v. 43 ; 624 ; 734.Charmer : v. 882.CœurPeut signifier « Courage ».V. 959.ComedieThéâtre (la Comédie est le lieu où l'on joue des comédies, pièces de théâtre sans distinction de genres).V. 178.Compliment« Civilité ou honnêteté qu'on fait à autrui, soit en paroles, soit en actions » (F.)V. 153 ; 271 ; 623.ConsentirReconnaître, approuver.V. 2.CouragePeut signifier « Coeur », c'est-à-dire la force d'âme, l'énergie, la volonté, la force vitale.V. 273 ; 315 ; 365 ; 514 ; 527 ; 563 ; 585 ; 804 ; 1140 ; 1250 ; 1333 ; 1527.Couvert de (à)Sous l'abri, la protection de.V. 1354.CreditConsidération.V. 1015 ; 1022.DecevoirTromper.V. 591 ; 993 ; 995 ; 1320.DeguiserDéfigurer, déformer, dénaturer.V. 533.DemeureDélai, retard.V. 1205.DepitIrritation violente, causée par une marque de mépris, par un affront.V. 294 ; 311.DeplaisirDésespoir.V. 310 ; 991.DessousSous.V. 190.DessusSur.V. 104 ; 118 ; 225 ; 592 ; 786.DiscretPeut signifier Raisonnable, prudent.V. 1131 ; 1579.DivertirSignifie aussi Détourner.V. 933.EffortAction énergique, violente. Désigne toute activité d'un être conscient qui utilise ses forces pour vaincre ou résister à une résistance (Rey).V. 66 ; 136 ; 138 ; 240 ; 384 ; 548 ; 1178 ; 1304 ; 1524.Effet puissant, violent.V. 47. EmpirePouvoir souverain, supériorité.V. 1289.Ennuy« Fâcherie, chagrin, déplaisir, souci » (A.).V. 1356.EnnuyeuxDétestable.V. 469.EntreprendreQuereller.V. 282 ; 536.Envy (à l')« Adv. A qui mieux mieux. » (F.).V. 279.Estonner« Ebranler, faire trembler par quelque grande, … violente commotion »  (A.).V. 442 ; 547.Exorable« Qui se laisse vaincre et persuader par les raisons, les prières et la compassion » (F.).V. 1034.FranchiseLiberté, en poésie et en parlant d'amour.V. 161 ; 813 ; 1610.Franc : 400.FurieuxFou, insensé, égaré par une passion.V. 324 ; 779.GenereuxDe noble race, noble. « Qui a l'âme grande et noble, et qui préfère l'honneur à tout autre interêt. … Sign. aussi, Brave, vaillant, courageux. » (F.).V. 365 ; 447 ; 560 ; lettre (III) ; 984 ; lettre (IV) ; 1245 ; 1303 ; 1339 ; 1520 ; 1528 ; 1579.Genereusement : 536.Heurter« Sign. aussi, Frapper à la porte pour se faire ouvrir » (F. ), plus précisément frapper le marteau de la porte.V. 92 ; 105 ; 112 ; 159 ; 184 ; 211 ; entre-vers 294-295 ; 357.Honneste« Qui mérite de l'estime, de la louange » (F.).V. 573 ; 1350.HostellerieDemeure.V. 154.HumeursL'ensemble des fluides circulant dans le corps et conditionnant notre caractère.V. 174.HymenLien du mariage.V. 208 ; 740 ; 839 ; 849 ; 1265 ; 1290 ; 1557.Hyménée : 651 ; 1581.Impourveu (à l')« Avec surprise ». (F.)V. 309 ; 1081.Indiscret« Qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait » (F.), inopportun.V. 86 ; 1545.IngenuNaturel, loyal, sans déguisement dans ses propos.V. 621.Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables » (F.).V. 1633.Intelligence« Sign. aussi Union, amitié de deux ou plusieurs personnes qui s'entendent bien ensemble » (F.).V. 286.Irriter« Exciter, rendre plus vif et plus fort » (F.).V. 516.Irrité : 295 ; 787.Juste« Se dit aussi de … choses qui ont la mesure et la proportion requise, qui est tout à fait convenable » (A.)V. 103 ; 155 ; 327 ; 571 ; 711 ; 1127.Injuste : 13.Mander Communiquer une nouvelle par lettre ou par messager.Lettre (III) ; v. 1489.Nier« Sign. aussi, Refuser » ( F.).V. 1452 ; 1607.Objet« Se dit aussi poëtiquement des belles personnes qui donnent de l'amour » (F.)V. 32 ; 43 ; 334 ; 553 ; 688 ; 691 ; 727 ; 751 ; 811 ; 842 ; 906 ; 1045.OfficeService.V. 1110.OfficierTitulaire d'une charge, d'un office. « Celui qui est pourvu de quelque office, grand ou petit, dans la robe, dans l'épée ou dans quelque autre condition de la vie » (R.).V. 94.Ombrage« Sign. fig. Défiance, soupçon » ( F.).V. 258 ; 761 ; 783 ; 889 ; 969 ; 1249.Ombrageux : 777. OuïrEntendre.V. 434 ; 456 ; 551 ; 1107.PiquerAffliger.V. 164.Irriter, passionner, émouvoir vivement.V. 514.PossiblePeut-être.V. 123 ; 404 ; 681 ; 904 ; 965.PostureMaintien, port.V. 93.Preignant« Pressant, décisif » (H.).V. 48.Pretendre« Aspirer à quelque chose, avoir espérance de l'obtenir … Signifie encore Avoir intention, avoir dessein » (F.)V. 69 ; 589.PudeurConfusion, embarras, « Honnête honte » (A.).V. 1619.QuereleCause. « Se dit aussi de l'intérêt d'autrui quand on en prend la défense » (F.).V. 282.RencontreCirconstance, occasion.V. 18.RencontrerPeut signifier Trouver.V. 1510.Resver« Signifie aussi, Appliquer sérieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque invention » ( F.)V. 1214.Sale« Se dit figurément en choses morales, de choses qui sont criminelles, deshonnêtes ou obscènes » (F.).V. 1089 ; 1094.SensibleSignifie aussi Qui frappe les sens.V. 1034.Soin« Se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (F.).V. 410. Soucy« Inquiétude, soin fâcheux » (R.).V. 707 ; 1148.TantostÀ l'instant.V. 322 ; 1036 ; 1180 ; 1215.Tout à l'heure« Sur l'heure, présentement » (R.).V. 113 ; 317.TransportViolente agitation de l'esprit, vive émotion.V. 135 ; 324 ; 332 ; 397.VertuQualité. «  Sign. encore, Force, vigueur, tant du corps que de l'âme » (F.).V. 880.VulgaireQui est relatif à la foule.V. 1541.ZeleVive ardeur à servir une personne, une cause.V. 1221 ; 1399 ; 1519.Zélé : 1530.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ressources numériques
+## Ressources numériques.
 
 Catalogue collectif de France : http://www.ccfr.bnf.fr (juillet 2005)
 
@@ -4015,7 +4015,7 @@ César : Calendrier électronique des spectacles sous l'Ancien régime et sous 
 Centre de recherche sur l'histoire du théâtre (Paris IV-Sorbonne) : *http://*www.crht.org
 
 
-## Pour le lexiqueDictionnaire
+## Pour le lexique.Dictionnaire
 *Gaston* Le Français classique. Lexique de la langue du XVII*e* siècle
 *Antoine*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Frédéric*Dictionnaire de l'ancienne langue française, et de tous ses dialectes du IX*e* au XV*e* siècle
@@ -4025,20 +4025,20 @@ Dictionnaire de la langue française du XVI*e* siècle
 
 
 
-## Pour la grammaire*Nathalie* Grammaire du français classique
+## Pour la grammaire.*Nathalie* Grammaire du français classique
 Syntaxe française du XVII*e* siècle
 *Gabriel*Grammaire de la langue française du XVII*e* siècle
 
 
 
-## Ainsi que pour les notes*Pierre*Dictionnaire de la Mythologie grecque et romaine
+## Ainsi que pour les notes.*Pierre*Dictionnaire de la Mythologie grecque et romaine
 *Jacques*Dictionnaire historique des rues de Paris
 *Georges*Racine, Œuvres complètes
 *Noëlle*Précis de phonétique historique
 
 
 
-## Textes de référenceLes Songes des hommes esveillez
+## Textes de référence.Les Songes des hommes esveillez
 *Pierre*Mélite ; Clitandre ; La veuve ; La galerie du palais ; La suivante ; La place royale ; L'illusion comique ; Le menteur ; La suite du menteur ; Don Sanche d'Aragon ; Discours de l'utilité et des parties du poème dramatique ; Discours des trois unités d'action, de jour, et de lieuŒuvres complètes
 *René, « P*Méditations métaphysiques
 Essais
@@ -4047,7 +4047,7 @@ Essais
 
 
 
-## Éditions critiques consultées
+## Éditions critiques consultées.
 
 Voir http://www.cellf.paris-sorbonne.fr/
     Les Fausses veritez*uñón, sous la direction de Georges Forestier, 2000.*
@@ -4056,7 +4056,7 @@ La Coifeuse à la mode
 
 
 
-## Sources imprimées*Pierre-François*Recherches sur les théatres de France
+## Sources imprimées.*Pierre-François*Recherches sur les théatres de France
 Dictionnaire portatif historique et littéraire
 Bibliotèque des theatres
 *François**Claude*Dictionnaire des théâtres de Paris
@@ -4064,7 +4064,7 @@ Bibliotèque des theatres
 
 
 
-## Ouvrages sur l'histoire matérielle des théâtres*Sophie Wilma*L'Histoire de la mise en scène dans le théâtre français de 1600 à 1657
+## Ouvrages sur l'histoire matérielle des théâtres.*Sophie Wilma*L'Histoire de la mise en scène dans le théâtre français de 1600 à 1657
 *Sophie Wilma* Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 *Alan*Le Théâtre professionnel à Paris. 1600-1649
 Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
@@ -4072,7 +4072,7 @@ Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-## Sur d'Ouville*ARMAS Frederick*Romance Notes
+## Sur d'Ouville.*ARMAS Frederick*Romance Notes
 *CHARDON Henri*Scarron inconnu et les types des personnages du roman comique
 *Georges*Dictionnaire des lettres françaisesLe Dix-septième siècle, Paris
 *Anastasia*
@@ -4080,14 +4080,14 @@ Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-## Ouvrages sur la période*Antoine*Histoire de la littérature française du XVII*e* siècle
+## Ouvrages sur la période.*Antoine*Histoire de la littérature française du XVII*e* siècle
 *Tony*Astrée », Etudes Epistémè
 *Jacques* Histoire de la littérature française – De Montaigne à Corneille
 *Jean*La Littérature de l'âge baroque en France
 
 
 
-## Ouvrages sur le théâtre en France au XVII*e* siècle*Hélène*La Tragi-comédie de Corneille à Quinault
+## Ouvrages sur le théâtre en France au XVII*e* siècle.*Hélène*La Tragi-comédie de Corneille à Quinault
 *Gabriel*Pierre Corneille et la naissance du genre comique
 *Michel*Lire la comédie
 *Jean*Les Valets et les servantes dans le théâtre comique en France de 1610 à 1700

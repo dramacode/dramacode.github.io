@@ -18,7 +18,7 @@ PAR J. B. P. DE MOLIÈRE
 
 
 
-# ACTEURS
+# ACTEURS.
  – Adraste, Gentilhomme Français, Amant d'Isidore.
  – Don Pèdre, Sicilien, Amant d'Isidore.
  – Isidore, Grecque, Esclave de Dom Pèdre.
@@ -31,90 +31,90 @@ PAR J. B. P. DE MOLIÈRE
  – Deux laquais.
 
 
-# Le Sicilien ou l'Amour Peintre Comédie
+# Le Sicilien ou l'Amour Peintre Comédie.
 
 
-## Scène I
+## Scène I.
 Hali, Musiciens
 
 
-    HALI, *aux Musiciens.*
+    HALI, *aux Musiciens.*.
 Chut… N'avancez pas davantage, et demeurez dans cet endroit, jusqu'à ce que je vous appelle. Il fait noir comme dans un Four ; Le Ciel s'est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez. Sotte condition que celle d'un Esclave ! de ne vivre jamais pour soi, et d'être, toujours, tout entier aux passions d'un Maître ! de n'être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu'il peut prendre ! Le mien me fait, ici, épouser ses inquiétudes ; et parce qu'il est Amoureux, il faut que nuit, et jour, je n'aie aucun repos. Mais voici des Flambeaux, et, sans doute, c'est lui.
 
 
-## Scène II
+## Scène II.
 Adraste *et deux laquais, *Hali
 
 
-    ADRASTE
+    ADRASTE.
 Est-ce toi, Hali ?
 
-    HALI
+    HALI.
 Et qui pourrait-ce être que moi ? À ces heures de nuit, hors vous, et moi, Monsieur, je ne crois pas que Personne s'avise de courir, maintenant, les Rues.
 
-    ADRASTE
+    ADRASTE.
 Aussi ne crois-je pas qu'on puisse voir Personne qui sente, dans son cœur, la peine que je sens : car, enfin, ce n'est rien d'avoir à combattre l'indifférence, ou les rigueurs d'une Beauté qu'on aime ; on a, toujours, au moins, le plaisir de la Plainte, et la liberté des Soupirs. Mais ne pouvoir trouver aucune occasion de parler à ce qu'on adore ; ne pouvoir savoir d'une Belle, si l'amour qu'inspirent ses yeux, est pour lui plaire, ou lui déplaire ; c'est la plus fâcheuse, à mon gré, de toutes les inquiétudes ; et c'est où me réduit l'incommode Jaloux, qui veille, avec tant de souci, sur ma charmante Grecque, et ne fait pas un pas sans la traîner à ses côtés.
 
-    HALI
+    HALI.
 Mais il est, en Amour, plusieurs façons de se parler ; et il me semble, à moi, que vos yeux, et les siens, depuis près de deux mois, se sont dit bien des choses.
 
-    ADRASTE
+    ADRASTE.
 Il est vrai qu'elle, et moi, souvent, nous nous sommes parlé des yeux : Mais comment reconnaître que chacun, de notre côté, nous ayons, comme il faut, expliqué ce langage ? Et que sais-je, après tout, si elle entend bien tout ce que mes regards lui disent ? Et si les siens me disent ce que je crois, parfois, entendre ?
 
-    HALI
+    HALI.
 Il faut chercher quelque moyen de se parler d'autre manière.
 
-    ADRASTE
+    ADRASTE.
 As-tu là tes Musiciens ?
 
-    HALI
+    HALI.
 Oui.
 
-    ADRASTE
+    ADRASTE.
 Fais-les approcher. Je veux, jusques au jour, les faire, ici, chanter ; et voir si leur Musique n'obligera point cette Belle à paraître à quelque Fenêtre.
 
-    HALI
+    HALI.
 Les voici. Que chanteront-ils ?
 
-    ADRASTE
+    ADRASTE.
 Ce qu'ils jugeront de meilleur.
 
-    HALI
+    HALI.
 Il faut qu'ils chantent un Trio qu'ils me chantèrent l'autre jour.
 
-    ADRASTE
+    ADRASTE.
 Non, ce n'est pas ce qu'il me faut.
 
-    HALI
+    HALI.
 Ah ! Monsieur, c'est du beau Bécarre.
 
-    ADRASTE
+    ADRASTE.
 Que diantre veux-tu dire avec ton beau Bécarre ?
 
-    HALI
+    HALI.
 Monsieur, je tiens pour le Bécarre : Vous savez que je m'y connais. Le Bécarre me charme : Hors du Bécarre, point de salut en Harmonie. Écoutez un peu ce Trio.
 
-    ADRASTE
+    ADRASTE.
 Non, je veux quelque chose de tendre et de passionné ; quelque chose qui m'entretienne dans une douce rêverie.
 
-    HALI
+    HALI.
 Je vois bien que vous êtes pour le Bémol : mais il y a moyen de nous contenter l'un l'autre. Il faut qu'ils vous chantent une certaine Scène d'une petite Comédie que je leur ai vu essayer. Ce sont deux Bergers amoureux, tous remplis de langueur, qui sur Bémol, viennent, séparément, faire leurs Plaintes dans un Bois ; puis se découvrent l'un à l'autre, la cruauté de leurs Maîtresses ; et, là-dessus, vient un Berger joyeux, avec un Bécarre admirable, qui se moque de leur faiblesse.
 
-    ADRASTE
+    ADRASTE.
 J'y consens. Voyons ce que c'est.
 
-    HALI
+    HALI.
 Voici, tout juste, un Lieu propre à servir de Scène ; et voilà deux Flambeaux pour éclairer la Comédie.
 
-    ADRASTE
+    ADRASTE.
 Place-toi contre ce Logis, afin qu'au moindre bruit que l'on fera dedans, je fasse cacher les lumières.
 
 
-## Scène III
+## Scène III.
 Chantée par trois Musiciens
 
 
-    PREMIER MUSICIEN
+    PREMIER MUSICIEN.
 
 Si du triste récit de mon inquiétude,  
 Je trouble le repos de votre Solitude,  
@@ -123,7 +123,7 @@ Quand vous saurez l'excès de mes peines secrètes,
 Tout rochers que vous êtes,  
 Vous en serez touchés.  
 
-    DEUXIÈME MUSICIEN
+    DEUXIÈME MUSICIEN.
 
 Les Oiseaux réjouis, dès que le jour s'avance,  
 Recommencent leurs chants dans ces vastes Forêts ;  
@@ -131,28 +131,28 @@ Et moi j'y recommence
 Mes soupirs languissants, et mes tristes regrets.  
 Ah ! mon cher Philène.  
 
-    PREMIER MUSICIEN
+    PREMIER MUSICIEN.
 Ah ! mon cher Tirsis.  
 
-    DEUXIÈME MUSICIEN
+    DEUXIÈME MUSICIEN.
 Que je sens de peine !  
 
-    PREMIER MUSICIEN
+    PREMIER MUSICIEN.
 Que j'ai de soucis !  
 
-    DEUXIÈME MUSICIEN
+    DEUXIÈME MUSICIEN.
 Toujours sourde à mes vœux est l'ingrate Climène.  
 
-    PREMIER MUSICIEN
+    PREMIER MUSICIEN.
 Cloris n'a point, pour moi, de regards adoucis.  
 
-    TOUS DEUX
+    TOUS DEUX.
 
 Ô Loi trop inhumaine !  
 Amour, si tu ne peux les contraindre d'aimer,  
 Pourquoi leur laisses-tu le pouvoir de charmer ?  
 
-    TROISIÈME MUSICIEN
+    TROISIÈME MUSICIEN.
 
 Pauvres amants, quelle erreur  
 D'adorer des inhumaines ?  
@@ -168,234 +168,234 @@ Je mets mon plus doux souci ;
 Mais, lorsque l'on est Tigresse,  
 Ma foi, je suis Tigre aussi.  
 
-    PREMIER ET DEUXIÈME MUSICIEN
+    PREMIER ET DEUXIÈME MUSICIEN.
 Heureux, hélas ! qui peut aimer ainsi.  
 
-    HALI
+    HALI.
 Monsieur, je viens d'ouïr quelque bruit au-dedans.
 
-    ADRASTE
+    ADRASTE.
 Qu'on se retire vite, et qu'on éteigne les Flambeaux.
 
 
-## Scène IV
+## Scène IV.
 Don Pèdre, Adraste, Hali
 
 
-    DON PÈDRE, *sortant en Bonnet de nuit, et Robe de Chambre, avec une Épée sous son bras.*
+    DON PÈDRE, *sortant en Bonnet de nuit, et Robe de Chambre, avec une Épée sous son bras.*.
 Il y a quelque temps que j'entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien. Il faut que, dans l'obscurité, je tâche à découvrir quelles Gens ce peuvent être.
 
-    ADRASTE
+    ADRASTE.
 Hali ?
 
-    HALI
+    HALI.
 Quoi ?
 
-    ADRASTE
+    ADRASTE.
 N'entends-tu plus rien ?
 
-    HALI
+    HALI.
 Non.
 Don Pèdre est derrière eux, qui les écoute.
 
 
-    ADRASTE
+    ADRASTE.
 Quoi ! tous nos efforts ne pourront obtenir que je parle un moment à cette aimable Grecque ? Et ce jaloux maudit, ce traître de Sicilien, me fermera, toujours, tout accès auprès d'elle ?
 
-    HALI
+    HALI.
 Je voudrais, de bon cœur, que le diable l'eût emporté, pour la fatigue qu'il nous donne ; le Fâcheux, le Bourreau qu'il est. Ah ! si nous le tenions ici, que je prendrais de joie à venger sur son dos, tous les pas inutiles que sa jalousie nous fait faire !
 
-    ADRASTE
+    ADRASTE.
 Si faut-il bien, pourtant, trouver quelque moyen, quelque invention, quelque ruse, pour attraper notre Brutal ; j'y suis trop engagé, pour en avoir le démenti ; et quand j'y devrais employer...
 
-    HALI
+    HALI.
 Monsieur, je ne sais pas ce que cela veut dire. Mais la Porte est ouverte ; et, si vous le voulez, j'entrerai doucement, pour découvrir d'où cela vient.
 Don Pèdre se retire sur sa Porte.
 
 
-    ADRASTE
+    ADRASTE.
 Oui, fais, mais sans faire de bruit ; je ne m'éloigne pas de toi. Plût au Ciel, que ce fût la charmante Isidore !
 
-    DON PÈDRE, *lui donnant sur la joue.*
+    DON PÈDRE, *lui donnant sur la joue.*.
 Qui va là ?
 
-    HALI, *lui en faisant de même.*
+    HALI, *lui en faisant de même.*.
 Ami.
 
-    DON PÈDRE
+    DON PÈDRE.
 Holà, Francisque, Dominique, Simon, Martin, Pierre, Thomas, Georges, Charles, Barthélemy ; allons, promptement, mon Épée, ma Rondache, ma Hallebarde, mes Pistolets, mes Mousquetons, mes Fusils ; vite, dépêchez ; allons, tue, point de quartier.
 
 
-## Scène V
+## Scène V.
 Adraste, Hali
 
 
-    ADRASTE
+    ADRASTE.
 Je n'entends remuer Personne. Hali ? Hali ?
 
-    HALI, *caché dans un coin.*
+    HALI, *caché dans un coin.*.
 Monsieur.
 
-    ADRASTE
+    ADRASTE.
 Où, donc, te caches-tu ?
 
-    HALI
+    HALI.
 Ces Gens sont-ils sortis ?
 
-    ADRASTE
+    ADRASTE.
 Non, Personne ne bouge.
 
-    HALI, *en sortant d'où il était caché.*
+    HALI, *en sortant d'où il était caché.*.
 S'ils viennent, ils seront frottés.
 
-    ADRASTE
+    ADRASTE.
 Quoi ! tous nos soins seront, donc, inutiles ? et, toujours, ce fâcheux Jaloux se moquera de nos desseins ?
 
-    HALI
+    HALI.
 Non, le courroux du Point d'Honneur me prend ; Il ne sera pas dit qu'on triomphe de mon adresse ; ma qualité de Fourbe s'indigne de tous ces obstacles ; et je prétends faire éclater les talents que j'ai eus du Ciel.
 
-    ADRASTE
+    ADRASTE.
 Je voudrais, seulement, que par quelque moyen, par un Billet, par quelque Bouche, elle fût avertie des sentiments qu'on a pour elle, et savoir les siens là-dessus. Après on peut trouver facilement, les moyens...
 
-    HALI
+    HALI.
 Laissez-moi faire seulement ; j'en essayerai tant de toutes les manières, que quelque chose, enfin, nous pourra réussir. Allons, le jour paraît ; je vais chercher mes Gens, et venir attendre, en ce Lieu, que notre Jaloux sorte.
 
 
-## Scène VI
+## Scène VI.
 Don Pèdre, Isidore
 
 
-    ISIDORE
+    ISIDORE.
 Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s'ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd'hui ; et ce n'est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.
 
-    DON PÈDRE
+    DON PÈDRE.
 J'ai une Affaire qui m'oblige à sortir à l'heure qu'il est.
 
-    ISIDORE
+    ISIDORE.
 Mais l'Affaire que vous avez, eût bien pu se passer, je crois, de ma présence ; et vous pouviez, sans vous incommoder, me laisser goûter les douceurs du Sommeil du matin.
 
-    DON PÈDRE
+    DON PÈDRE.
 Oui ; mais je suis bien aise de vous voir, toujours, avec moi. Il n'est pas mal de s'assurer, un peu, contre les soins des Surveillants ; et cette nuit, encore, on est venu chanter sous nos fenêtres.
 
-    ISIDORE
+    ISIDORE.
 Il est vrai, la Musique en était admirable.
 
-    DON PÈDRE
+    DON PÈDRE.
 C'était pour vous que cela se faisait ?
 
-    ISIDORE
+    ISIDORE.
 Je le veux croire ainsi, puisque vous me le dites.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous savez qui était celui qui donnait cette Sérénade ?
 
-    ISIDORE
+    ISIDORE.
 Non pas ; mais, qui que ce puisse être, je lui suis obligée.
 
-    DON PÈDRE
+    DON PÈDRE.
 Obligée !
 
-    ISIDORE
+    ISIDORE.
 Sans doute, puisqu'il cherche à me divertir.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous trouvez, donc, bon qu'on vous aime ?
 
-    ISIDORE
+    ISIDORE.
 Fort bon ; cela n'est jamais qu'obligeant.
 
-    DON PÈDRE
+    DON PÈDRE.
 Et vous voulez du bien à tous ceux qui prennent ce soin ?
 
-    ISIDORE
+    ISIDORE.
 Assurément.
 
-    DON PÈDRE
+    DON PÈDRE.
 C'est dire fort net ses pensées.
 
-    ISIDORE
+    ISIDORE.
 À quoi bon de dissimuler ? Quelque mine qu'on fasse, on est, toujours, bien aise d'être aimée : ces hommages à nos appas, ne sont, jamais, pour nous déplaire. Quoi qu'on en puisse dire, la grande ambition des Femmes est, croyez-moi, d'inspirer de l'amour. Tous les soins qu'elles prennent, ne sont que pour cela ; et l'on n'en voit point de si fière, qui ne s'applaudisse, en son cœur des Conquêtes que font ses yeux.
 
-    DON PÈDRE
+    DON PÈDRE.
 Mais si vous prenez, vous, du plaisir, à vous voir aimée ; savez-vous bien, moi qui vous aime, que je n'y en prends nullement ?
 
-    ISIDORE
+    ISIDORE.
 Je ne sais pas pourquoi cela ; et si j'aimais quelqu'un, je n'aurais point de plus grand plaisir, que de le voir aimé de tout le Monde. Y a-t-il rien qui marque, davantage, la beauté du choix que l'on fait ? et n'est-ce pas pour s'applaudir, que ce que nous aimons, soit trouvé fort aimable ?
 
-    DON PÈDRE
+    DON PÈDRE.
 Chacun aime à sa guise, et ce n'est pas là ma méthode. Je serai fort ravi qu'on ne vous trouve point si belle ; et vous m'obligerez, de n'affecter point tant de la paraître à d'autres yeux.
 
-    ISIDORE
+    ISIDORE.
 Quoi ! jaloux de ces choses-là ?
 
-    DON PÈDRE
+    DON PÈDRE.
 Oui, jaloux de ces choses-là ; mais jaloux comme un Tigre, et, si vous voulez, comme un Diable. Mon amour vous veut toute à moi ; sa délicatesse s'offense d'un sourire, d'un regard qu'on vous peut arracher ; et tous les soins qu'on me voit prendre, ne sont que pour fermer tout accès aux Galants, et m'assurer la possession d'un cœur dont je ne puis souffrir qu'on me vole la moindre chose.
 
-    ISIDORE
+    ISIDORE.
 Certes, voulez-vous que je dise ? Vous prenez un mauvais parti ; et la possession d'un cœur est fort mal assurée, lorsqu'on prétend le retenir par force. Pour moi, je vous l'avoue, si j'étais Galant d'une femme qui fût au pouvoir de quelqu'un, je mettrais toute mon étude à rendre ce quelqu'un jaloux, et l'obliger à veiller, nuit, et jour, celle que je voudrais gagner. C'est un admirable moyen d'avancer ses affaires : et l'on ne tarde guères, à profiter du chagrin, et de la colère que donne à l'esprit d'une Femme, la contrainte, et la servitude.
 
-    DON PÈDRE
+    DON PÈDRE.
 Si bien, donc, que si quelqu'un vous en contait, il vous trouverait disposée à recevoir ses vœux ?
 
-    ISIDORE
+    ISIDORE.
 Je ne vous dis rien là-dessus. Mais les Femmes, enfin, n'aiment pas qu'on les gêne ; et c'est beaucoup risquer, que de leur montrer des soupçons, et de les tenir renfermées.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous reconnaissez peu ce que vous me devez : et il me semble qu'une Esclave que l'on a affranchie, et dont on veut faire sa Femme...
 
-    ISIDORE
+    ISIDORE.
 Quelle obligation vous ai-je, si vous changez mon Esclavage en un autre beaucoup plus rude ? Si vous ne me laissez jouir d'aucune liberté, et me fatiguez, comme on voit, d'une garde continuelle ?
 
-    DON PÈDRE
+    DON PÈDRE.
 Mais tout cela ne part que d'un excès d'amour.
 
-    ISIDORE
+    ISIDORE.
 Si c'est votre façon d'aimer, je vous prie de me haïr.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous êtes, aujourd'hui, dans une humeur désobligeante ; et je pardonne ces paroles au chagrin où vous pouvez être, de vous être levée matin.
 
 
-## Scène VII
+## Scène VII.
 Don Pèdre, Hali, Isidore
 
 Hali, faisant plusieurs révérences à Don Pèdre.
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Trêve aux cérémonies, que voulez-vous ?
 
-    HALI
+    HALI.
 Il se retourne devers Isidore, à chaque parole qu'il dit à Don Pèdre : et lui fait des signes pour lui faire connaître le dessein de son Maître.
 
 Signor (avec la permission de la Signore), je vous dirai (avec la permission de la Signore) que je viens vous trouver (avec la permission de la Signore) pour vous prier (avec la permission de la Signore) de vouloir bien (avec la permission de la Signore)...
 
-    DON PÈDRE
+    DON PÈDRE.
 Avec la permission de la Signore, passez un peu de ce côté.
 
-    HALI
+    HALI.
 Signor, je suis un Virtuose.
 
-    DON PÈDRE
+    DON PÈDRE.
 Je n'ai rien à donner.
 
-    HALI
+    HALI.
 Ce n'est pas ce que je demande. Mais comme je me mêle un peu de Musique, et de Danse, j'ai instruit quelques Esclaves qui voudraient bien trouver un Maître qui se plût à ces choses ; et comme je sais que vous êtes une Personne considérable, je voudrais vous prier de les voir, et de les entendre, pour les acheter, s'ils vous plaisent, ou pour leur enseigner quelqu'un de vos Amis qui voulût s'en accommoder.
 
-    ISIDORE
+    ISIDORE.
 C'est une chose à voir, et cela nous divertira. Faites-les-nous venir.
 
-    HALI
+    HALI.
 *Chala bala*... Voici une Chanson nouvelle, qui est du temps. Écoutez bien. *Chala bala.*
 
 
-## Scène VIII
+## Scène VIII.
 Hali chante dans cette Scène : et les Esclaves dansent dans les intervalles de son chant.
 
 Hali *et* quatre Esclaves, Isidore, Don Pèdre
 
 
-    HALI *chante.*
+    HALI *chante.*.
 
 D'un Cœur ardent en tous lieux,  
 Un Amant suit une Belle ;  
@@ -437,7 +437,7 @@ Far boler caldara,
 Parlara, parlara,  
 Ti voler comprara.  
 
-    DON PÈDRE
+    DON PÈDRE.
 
 Savez-vous, mes Drôles,  
 Que cette Chanson  
@@ -454,275 +454,275 @@ Oh ! oh ! quels Égrillards ! Allons, rentrons ici, j'ai changé de pensée, 
 
 Ah ! Fourbe, que je vous y trouve.
 
-    HALI
+    HALI.
 Hé bien oui, mon Maître l'adore ; il n'a point de plus grand désir que de lui montrer son amour ; et si elle y consent, il la prendra pour Femme.
 
-    DON PÈDRE
+    DON PÈDRE.
 Oui, oui, je la lui garde.
 
-    HALI
+    HALI.
 Nous l'aurons, malgré vous.
 
-    DON PÈDRE
+    DON PÈDRE.
 Comment, Coquin...
 
-    HALI
+    HALI.
 Nous l'aurons, dis-je, en dépit de vos dents.
 
-    DON PÈDRE
+    DON PÈDRE.
 Si je prends...
 
-    HALI
+    HALI.
 Vous avez beau faire la garde, j'en ai juré, elle sera à nous.
 
-    DON PÈDRE
+    DON PÈDRE.
 Laisse-moi faire, je t'attraperai sans courir.
 
-    HALI
+    HALI.
 C'est nous qui vous attraperons ; elle sera notre Femme, la chose est résolue ; il faut que j'y périsse, ou que j'en vienne à bout.
 
 
-## Scène IX
+## Scène IX.
 Adraste, Hali
 
 
-    HALI
+    HALI.
 Monsieur, j'ai, déjà, fait quelque petite tentative, mais je...
 
-    ADRASTE
+    ADRASTE.
 Ne te mets point en peine, j'ai trouvé, par hasard, tout ce que je voulais : et je vais jouir du bonheur de voir, chez elle, cette Belle. Je me suis rencontré chez le Peintre Damon, qui m'a dit, qu'aujourd'hui, il venait faire le Portrait de cette adorable Personne : et comme il est, depuis longtemps, de mes plus intimes Amis, il a voulu servir mes feux, et m'envoie à sa place, avec un petit mot de Lettre, pour me faire accepter. Tu sais que, de tout temps, je me suis plu à la Peinture, et que, parfois, je manie le Pinceau, contre la coutume de France, qui ne veut pas qu'un Gentilhomme sache rien faire : ainsi, j'aurai la liberté de voir cette Belle à mon aise. Mais je ne doute pas que mon Jaloux fâcheux ne soit, toujours, présent, et n'empêche tous les propos que nous pourrions avoir ensemble : et, pour te dire vrai, j'ai, par le moyen d'une jeune Esclave, un Stratagème, pour tirer cette belle Grecque des mains de son Jaloux, si je puis obtenir d'elle, qu'elle y consente.
 
-    HALI
+    HALI.
 Laissez-moi faire, je veux vous faire un peu de jour à la pouvoir entretenir. Il ne sera pas dit que je ne serve de rien dans cette Affaire-là. Quand allez-vous ?
 
-    ADRASTE
+    ADRASTE.
 Tout de ce pas, et j'ai, déjà, préparé toutes choses.
 
-    HALI
+    HALI.
 Je vais, de mon côté, me préparer aussi.
 
-    ADRASTE
+    ADRASTE.
 Je ne veux point perdre de temps. Holà. Il me tarde que je ne goûte le plaisir de la voir.
 
 
-## Scène X
+## Scène X.
 Don Pèdre, Adraste
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Que cherchez-vous, Cavalier, dans cette maison ?
 
-    ADRASTE
+    ADRASTE.
 J'y cherche le seigneur Don Pèdre.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous l'avez devant vous.
 
-    ADRASTE
+    ADRASTE.
 Il prendra, s'il lui plaît, la peine de lire cette Lettre.
 
-    DON PÈDRE *lit.*
+    DON PÈDRE *lit.*.
 Je vous envoie, au lieu de moi, pour le Portrait que vous savez, ce Gentilhomme Français, qui, comme curieux d'obliger les honnêtes Gens, a bien voulu prendre ce soin, sur la proposition que je lui en ai faite. Il est, sans contredit, le premier Homme du Monde pour ces sortes d'Ouvrages ; et j'ai cru que je ne pouvais rendre un service plus agréable, que de vous l'envoyer, dans le dessein que vous avez d'avoir un Portrait achevé, de la Personne que vous aimez. Gardez-vous bien, surtout, de lui parler d'aucune récompense : car c'est un Homme qui s'en offenserait, et qui ne fait les choses que pour la gloire, et pour la réputation.
 
-    DON PÈDRE, *parlant au Français.*
+    DON PÈDRE, *parlant au Français.*.
 Seigneur Français, c'est une grande grâce que vous me voulez faire ; et je vous suis fort obligé.
 
-    ADRASTE
+    ADRASTE.
 Toute mon ambition est de rendre service aux Gens de nom, et de mérite.
 
-    DON PÈDRE
+    DON PÈDRE.
 Je vais faire venir la Personne dont il s'agit.
 
 
-## Scène XI
+## Scène XI.
 Isidore, Don Pèdre, Adraste, *et* deux Laquais.
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Voici un Gentilhomme que Damon nous envoie, qui se veut bien donner la peine de vous peindre.
 Adraste baise Isidore, en la saluant : et *Don Pèdre* lui dit.
 
 Holà, Seigneur Français, cette façon de saluer n'est point d'usage en ce Pays.
 
-    ADRASTE
+    ADRASTE.
 C'est la manière de France.
 
-    DON PÈDRE
+    DON PÈDRE.
 La manière de France est bonne pour vos Femmes ; mais pour les nôtres, elle est, un peu, trop familière.
 
-    ISIDORE
+    ISIDORE.
 Je reçois cet honneur avec beaucoup de joie ; l'aventure me surprend fort ; et, pour dire le vrai, je ne m'attendais pas d'avoir un Peintre si illustre.
 
-    ADRASTE
+    ADRASTE.
 Il n'y a Personne, sans doute, qui ne tînt à beaucoup de gloire, de toucher à un tel Ouvrage. Je n'ai pas grande habileté ; mais le Sujet, ici, ne fournit que trop de lui-même, et il y a moyen de faire quelque chose de beau sur un Original fait comme celui-là.
 
-    ISIDORE
+    ISIDORE.
 L'Original est peu de chose, mais l'adresse du Peintre en saura couvrir les défauts.
 
-    ADRASTE
+    ADRASTE.
 Le Peintre n'y en voit aucun ; et tout ce qu'il souhaite, est d'en pouvoir représenter les grâces aux yeux de tout le Monde, aussi grandes qu'il les peut voir.
 
-    ISIDORE
+    ISIDORE.
 Si votre Pinceau flatte autant que votre Langue, vous allez me faire un Portrait qui ne me ressemblera pas.
 
-    ADRASTE
+    ADRASTE.
 Le Ciel, qui fit l'Original, nous ôte le moyen d'en faire un Portrait qui puisse flatter.
 
-    ISIDORE
+    ISIDORE.
 Le Ciel, quoi que vous en disiez, ne...
 
-    DON PÈDRE
+    DON PÈDRE.
 Finissons cela, de grâce, laissons les compliments, et songeons au Portrait.
 
-    ADRASTE
+    ADRASTE.
 Allons, apportez tout.
 On apporte tout ce qu'il faut, pour peindre Isidore.
 
 
-    ISIDORE
+    ISIDORE.
 Où voulez-vous que je me place ?
 
-    ADRASTE
+    ADRASTE.
 Ici. Voici le Lieu le plus avantageux, et qui reçoit le mieux les vues favorables de la Lumière que nous cherchons.
 
-    ISIDORE
+    ISIDORE.
 Suis-je bien ainsi ?
 
-    ADRASTE
+    ADRASTE.
 Oui. Levez-vous un peu, s'il vous plaît ; un peu plus de ce côté-là ; le Corps tourné ainsi ; la tête un peu levée, afin que la beauté du cou paraisse. Ceci un peu plus découvert.
 Il parle de sa gorge.
 
 Bon. Là, un peu davantage ; encore tant soit peu.
 
-    DON PÈDRE
+    DON PÈDRE.
 Il y a bien de la peine à vous mettre ; ne sauriez-vous vous tenir comme il faut ?
 
-    ISIDORE
+    ISIDORE.
 Ce sont, ici, des choses toutes neuves pour moi ; et c'est à Monsieur à me mettre de la façon qu'il veut.
 
-    ADRASTE
+    ADRASTE.
 Voilà qui va le mieux du Monde, et vous vous tenez à merveilles.
 La faisant tourner un peu devers lui.
 
 Comme cela, s'il vous plaît. Le tout dépend des attitudes qu'on donne aux Personnes qu'on peint.
 
-    DON PÈDRE
+    DON PÈDRE.
 Fort bien.
 
-    ADRASTE
+    ADRASTE.
 Un peu plus de ce côté ; vos yeux, toujours, tournés vers moi, je vous en prie ; vos regards attachés aux miens.
 
-    ISIDORE
+    ISIDORE.
 Je ne suis pas comme ces Femmes qui veulent, en se faisant peindre, des Portraits qui ne sont point elles, et ne sont point satisfaites du peintre, s'il ne les fait, toujours, plus belles que le jour. Il faudrait, pour les contenter, ne faire qu'un Portrait pour toutes ; car, toutes, demandent les mêmes choses ; un teint tout de Lis et de Roses, un nez bien fait, une petite bouche, et de grands yeux vifs, bien fendus ; et, surtout, le visage pas plus gros que le poing, l'eussent-elles d'un pied de large. Pour moi, je vous demande un Portrait qui soit moi, et qui n'oblige point à demander qui c'est.
 
-    ADRASTE
+    ADRASTE.
 Il serait malaisé qu'on demandât cela du vôtre ; et vous avez des traits à qui fort peu d'autres ressemblent. Qu'ils ont de douceurs, et de charmes ! et qu'on court de risque à les peindre !
 
-    DON PÈDRE
+    DON PÈDRE.
 Le nez me semble, un peu trop gros.
 
-    ADRASTE
+    ADRASTE.
 J'ai lu, je ne sais où, qu'Apelle peignit, autrefois, une Maîtresse d'Alexandre ; et qu'il en devint, la peignant, si éperdument amoureux, qu'il fut près d'en perdre la vie : de sorte qu'Alexandre, par générosité, lui céda l'Objet de ses vœux.
 Il parle à Dom Pèdre.
 
 Je pourrais faire, ici, ce qu'Apelle fit autrefois ; mais vous ne feriez pas, peut-être, ce que fit Alexandre.
 
-    ISIDORE
+    ISIDORE.
 Tout cela sent la Nation ; et, toujours, Messieurs les Français ont un fonds de Galanterie qui se répand partout.
 
-    ADRASTE
+    ADRASTE.
 On ne se trompe guère à ces sortes de choses ; et vous avez l'Esprit trop éclairé, pour ne pas voir de quelle source partent les choses qu'on vous dit. Oui, quand Alexandre serait ici, et que ce serait votre Amant, je ne pourrais m'empêcher de vous dire, que je n'ai rien vu de si beau que ce que je vois maintenant, et que...
 
-    DON PÈDRE
+    DON PÈDRE.
 Seigneur Français, vous ne devriez pas, ce me semble, parler ; cela vous détourne de votre Ouvrage.
 
-    ADRASTE
+    ADRASTE.
 Ah ! point du tout, j'ai, toujours, de coutume de parler quand je peins ; et il est besoin, dans ces choses, d'un peu de conversation, pour réveiller l'Esprit, et tenir les Visages dans la gaieté nécessaire aux Personnes que l'on veut peindre.
 
 
-## Scène XII
+## Scène XII.
 Hali, *vêtu en Espagnol,* Don Pèdre, Adraste, Isidore
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Que veut cet Homme-là ? Et qui laisse monter les Gens, sans nous en venir avertir ?
 
-    HALI
+    HALI.
 J'entre, ici, librement ; mais, entre Cavaliers, telle liberté est permise. Seigneur, suis-je connu de vous ?
 
-    DON PÈDRE
+    DON PÈDRE.
 Non, Seigneur.
 
-    HALI
+    HALI.
 Je suis Don Gilles d'Avalos ; et l'histoire d'Espagne vous doit avoir instruit de mon mérite.
 
-    DON PÈDRE
+    DON PÈDRE.
 Souhaitez-vous quelque chose de moi ?
 
-    HALI
+    HALI.
 Oui, un conseil sur un Fait d'honneur : Je sais qu'en ces matières il est malaisé de trouver un Cavalier plus consommé que vous ; mais je vous demande pour grâce, que nous nous tirions à l'écart.
 
-    DON PÈDRE
+    DON PÈDRE.
 Nous voilà assez loin.
 
-    ADRASTE, *regardant Isidore.*
+    ADRASTE, *regardant Isidore.*.
 Elle a les yeux bleus.
 
-    HALI
+    HALI.
 Seigneur, j'ai reçu un Soufflet : Vous savez ce qu'est un soufflet, lorsqu'il se donne, à main ouverte, sur le beau milieu de la joue. J'ai ce Soufflet fort sur le cœur ; et je suis dans l'incertitude, si pour me venger de l'affront, je dois me battre avec mon Homme ; ou bien, le faire assassiner.
 
-    DON PÈDRE
+    DON PÈDRE.
 Assassiner, c'est le plus court chemin. Quel est votre ennemi ?
 
-    HALI
+    HALI.
 Parlons bas, s'il vous plaît.
 
-    ADRASTE *aux genoux d'Isidore, pendant que Don Pèdre parle à Hali.*
+    ADRASTE *aux genoux d'Isidore, pendant que Don Pèdre parle à Hali.*.
 Oui, charmante Isidore, mes regards vous le disent depuis plus de deux mois, et vous les avez entendus : Je vous aime plus que tout ce que l'on peut aimer, et je n'ai point d'autre pensée, d'autre but, d'autre passion, que d'être à vous toute ma vie.
 
-    ISIDORE
+    ISIDORE.
 Je ne sais si vous dites vrai, mais vous persuadez.
 
-    ADRASTE
+    ADRASTE.
 Mais vous persuadé-je, jusqu'à vous inspirer quelque peu de bonté pour moi ?
 
-    ISIDORE
+    ISIDORE.
 Je ne crains que d'en trop avoir.
 
-    ADRASTE
+    ADRASTE.
 En aurez-vous assez pour consentir, belle Isidore, au dessein que je vous ai dit ?
 
-    ISIDORE
+    ISIDORE.
 Je ne puis, encore, vous le dire.
 
-    ADRASTE
+    ADRASTE.
 Qu'attendez-vous pour cela ?
 
-    ISIDORE
+    ISIDORE.
 À me résoudre.
 
-    ADRASTE
+    ADRASTE.
 Ah ! quand on aime bien, on se résout bientôt.
 
-    ISIDORE
+    ISIDORE.
 Hé bien, allez, oui, j'y consens.
 
-    ADRASTE
+    ADRASTE.
 Mais, consentez-vous, dites-moi, que ce soit dès ce moment même ?
 
-    ISIDORE
+    ISIDORE.
 Lorsqu'on est, une fois, résolu sur la chose, s'arrête-t-on sur le temps ?
 
-    DON PÈDRE*, à Hali.*
+    DON PÈDRE*, à Hali.*.
 Voilà mon sentiment, et je vous baise les mains.
 
-    HALI
+    HALI.
 Seigneur, quand vous aurez reçu quelque Soufflet, je suis Homme aussi de conseil, et je pourrai vous rendre la pareille.
 
-    DON PÈDRE
+    DON PÈDRE.
 Je vous laisse aller, sans vous reconduire : mais entre Cavaliers, cette liberté est permise.
 
-    ADRASTE
+    ADRASTE.
 Non, il n'est rien qui puisse effacer de mon cœur les tendres témoignages...
 Don Pèdre, apercevant Adraste, qui parle de près à Isidore.
 
@@ -734,27 +734,27 @@ Non, ne regardez rien encore ; faites serrer cela, je vous prie.
 
 Et vous, je vous conjure de ne vous relâcher point : et de garder un Esprit gai, pour le dessein que j'ai d'achever notre Ouvrage.
 
-    ISIDORE
+    ISIDORE.
 Je conserverai, pour cela, toute la gaieté qu'il faut.
 
 
-## Scène XIII
+## Scène XIII.
 Don Pèdre, Isidore
 
 
-    ISIDORE
+    ISIDORE.
 Qu'en dites-vous ? Ce Gentilhomme me paraît le plus civil du Monde ; et l'on doit demeurer d'accord, que les Français ont quelque chose, en eux, de poli, de galant, que n'ont point les autres Nations.
 
-    DON PÈDRE
+    DON PÈDRE.
 Oui ; mais ils ont cela de mauvais, qu'ils s'émancipent un peu trop, et s'attachent, en étourdis, à conter des fleurettes à tout ce qu'ils rencontrent.
 
-    ISIDORE
+    ISIDORE.
 C'est qu'ils savent qu'on plaît aux Dames par ces choses.
 
-    DON PÈDRE
+    DON PÈDRE.
 Oui, mais, s'ils plaisent aux Dames, ils déplaisent fort aux Messieurs ; et l'on n'est point bien aise de voir sur sa moustache, cajoler, hardiment, sa Femme, ou sa Maîtresse.
 
-    ISIDORE
+    ISIDORE.
 Ce qu'ils en font, n'est que par jeu.
 
 
@@ -762,146 +762,146 @@ Ce qu'ils en font, n'est que par jeu.
 Climène, Don Pèdre, Isidore
 
 
-    CLIMÈNE, *voilée.*
+    CLIMÈNE, *voilée.*.
 Ah ! Seigneur Cavalier, sauvez-moi, s'il vous plaît, des mains d'un Mari furieux dont je suis poursuivie. Sa jalousie est incroyable, et passe dans ses mouvements tout ce qu'on peut imaginer. Il va jusques à vouloir que je sois, toujours, voilée ; et pour m'avoir trouvée le visage un peu découvert, il a mis l'épée à la main, et m'a réduite à me jeter chez vous, pour vous demander votre appui contre son injustice. Mais je le vois paraître. De grâce, Seigneur Cavalier, sauvez-moi de sa fureur.
 
-    DON PÈDRE
+    DON PÈDRE.
 Entrez là-dedans, avec elle, et n'appréhendez rien.
 
 
-## Scène XV
+## Scène XV.
 Adraste, Don Pèdre
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Hé quoi ! Seigneur, c'est vous ? Tant de jalousie pour un Français ! Je pensais qu'il n'y eût que nous qui en fussions capables.
 
-    ADRASTE
+    ADRASTE.
 Les Français excellent toujours, dans toutes les choses qu'ils font ; et quand nous nous mêlons d'être jaloux, nous le sommes vingt fois plus qu'un Sicilien. L'Infâme, croit avoir trouvé, chez vous, un assuré refuge : mais vous êtes trop raisonnable, pour blâmer mon ressentiment. Laissez-moi, je vous prie, la traiter comme elle mérite.
 
-    DON PÈDRE
+    DON PÈDRE.
 Ah ! de grâce, arrêtez ; l'offense est trop petite, pour un courroux si grand.
 
-    ADRASTE
+    ADRASTE.
 La grandeur d'une telle offense, n'est pas dans l'importance des choses que l'on fait. Elle est à transgresser les ordres qu'on nous donne ; et sur de pareilles matières, ce qui n'est qu'une bagatelle, devient fort criminel, lorsqu'il est défendu.
 
-    DON PÈDRE
+    DON PÈDRE.
 De la façon qu'elle a parlé, tout ce qu'elle en a fait a été sans dessein ; et je vous prie, enfin, de vous remettre bien ensemble.
 
-    ADRASTE
+    ADRASTE.
 Hé quoi ! vous prenez son parti, vous qui êtes si délicat sur ces sortes de choses !
 
-    DON PÈDRE
+    DON PÈDRE.
 Oui, je prends son parti ; et si vous voulez m'obliger, vous oublierez votre colère, et vous vous réconcilierez tous deux. C'est une grâce que je vous demande : et je la recevrai comme un essai de l'amitié que je veux qui soit entre nous.
 
-    ADRASTE
+    ADRASTE.
 Il ne m'est pas permis, à ces conditions, de vous rien refuser ; je ferai ce que vous voudrez.
 
 
-## Scène XVI
+## Scène XVI.
 Climène, Adraste, Don Pèdre
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Holà, venez ; Vous n'avez qu'à me suivre, et j'ai fait votre paix. Vous ne pouviez, jamais, mieux tomber que chez moi.
 
-    CLIMÈNE
+    CLIMÈNE.
 Je vous suis obligée plus qu'on ne saurait croire : mais je m'en vais prendre mon Voile ; je n'ai garde, sans lui, de paraître à ses yeux.
 
-    DON PÈDRE
+    DON PÈDRE.
 La voici qui s'en va venir ; et son âme, je vous assure, a paru toute réjouie, lorsque je lui ai dit que j'avais raccommodé tout.
 
 
-## Scène XVII
+## Scène XVII.
 Isidore, *sous le voile de Climène,* Adraste, Don Pèdre
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Puisque vous m'avez bien voulu donner votre ressentiment, trouvez bon qu'en ce lieu je vous fasse toucher dans la main l'un de l'autre, et que tous deux je vous conjure de vivre, pour l'amour de moi, dans une parfaite union.
 
-    ADRASTE
+    ADRASTE.
 Oui, je vous le promets, que, pour l'amour de vous, je m'en vais, avec elle, vivre le mieux du monde.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous m'obligez sensiblement, et j'en garderai la mémoire.
 
-    ADRASTE
+    ADRASTE.
 Je vous donne ma parole, Seigneur Don Pèdre, qu'à votre considération je m'en vais la traiter du mieux qu'il me sera possible.
 
-    DON PÈDRE
+    DON PÈDRE.
 C'est trop de grâce que vous me faites : Il est bon de pacifier et d'adoucir, toujours, les choses. Holà, Isidore, venez.
 
 
-## Scène XVIII
+## Scène XVIII.
 Climène, Don Pèdre
 
 
-    DON PÈDRE
+    DON PÈDRE.
 Comment ! que veut dire cela ?
 
-    CLIMÈNE, *sans Voile.*
+    CLIMÈNE, *sans Voile.*.
 Ce que cela veut dire ? Qu'un Jaloux est un Monstre haï de tout le Monde ; et qu'il n'y a Personne qui ne soit ravi de lui nuire, n'y eût-il point d'autre intérêt : Que toutes les Serrures et les Verrous du Monde, ne retiennent point les Personnes ; et que c'est le cœur qu'il faut arrêter par la douceur et par la complaisance : Qu'Isidore est entre les mains du Cavalier qu'elle aime, et que vous êtes pris pour Dupe.
 
-    DON PÈDRE
+    DON PÈDRE.
 Don Pèdre souffrira cette injure mortelle ! Non, non, j'ai trop de cœur, et je vais demander l'appui de la justice, pour pousser le Perfide à bout. C'est ici le Logis d'un Sénateur. Holà ?
 
 
-## Scène XIX
+## Scène XIX.
 Le Sénateur, Don Pèdre
 
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Serviteur, Seigneur Don Pèdre. Que vous venez à propos !
 
-    DON PÈDRE
+    DON PÈDRE.
 Je viens me plaindre à vous d'un affront qu'on m'a fait.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 J'ai fait une Mascarade la plus belle du Monde.
 
-    DON PÈDRE
+    DON PÈDRE.
 Un traître de Français m'a joué une Pièce.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Vous n'avez, dans votre vie, jamais rien vu de si beau.
 
-    DON PÈDRE
+    DON PÈDRE.
 Il m'a enlevé une Fille que j'avais affranchie.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Ce sont Gens vêtus en Maures, qui dansent admirablement.
 
-    DON PÈDRE
+    DON PÈDRE.
 Vous voyez si c'est une injure qui se doive souffrir.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Des Habits merveilleux, et qui sont faits exprès.
 
-    DON PÈDRE
+    DON PÈDRE.
 Je vous demande l'appui de la Justice contre cette action.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Je veux que vous voyiez cela ; on la va répéter pour en donner le divertissement au Peuple.
 
-    DON PÈDRE
+    DON PÈDRE.
 Comment ! de quoi parlez-vous là ?
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Je parle de ma Mascarade.
 
-    DON PÈDRE
+    DON PÈDRE.
 Je vous parle de mon Affaire.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Je ne veux point, aujourd'hui, d'autres affaires que de plaisir. Allons, Messieurs, venez ; voyons si cela ira bien.
 
-    DON PÈDRE
+    DON PÈDRE.
 La peste soit du Fou, avec sa Mascarade.
 
-    LE SÉNATEUR
+    LE SÉNATEUR.
 Diantre soit le Fâcheux, avec son Affaire.
 
 
-## Scène Dernière
+## Scène Dernière.
 Plusieurs Maures font une Danse entre eux, par où finit la Comédie.
 < FIN >

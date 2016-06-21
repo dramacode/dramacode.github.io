@@ -16,7 +16,7 @@ A Paris, Chez G.DE LUYNE, Libraire juré au Palais, dans la salle des Merciers, 
 Édition critique établie par Olivia Leroux dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000-2001)
 
 
-# Theodat : un personnage réhabilité
+# Theodat : un personnage réhabilité.
 
 La postérité de Thomas Corneille est paradoxale, il est à la fois l'auteur du plus grand succès théâtral du XVII*e* siècle, *Timocrate*, mais dans les esprits il reste comme le petit frère d'un génie, le second, le médiocre, l'ombre de Pierre Corneille. C'est un sort bien injuste pour un auteur tel que lui, qui fut en son temps, l'un des plus joués et des plus aimés de France. C'est pourquoi Voltaire disait de lui qu'il « aurait eu un grand destin, s'il n'avait pas eu de frère ». Même s'il ne possédait pas le génie de son aîné, il avait un talent certain qui nous permet aujourd'hui encore de nous intéresser à son œuvre. Nous l'abordons ici, par une des tragédies de la fin de sa carrière de dramaturge : *Theodat.* Bien que considérée comme mineure dans le corpus des pièces de son auteur, elle possède du charme.
 
@@ -31,7 +31,7 @@ Avant la nôtre, il existe encore une version de l'histoire de ce couple, celle 
 De cet auteur, Thomas Corneille s'est inspiré pour écrire son *Theodat.* Cette troisième version offre une nouvelle optique non encore explorée, celle où la culpabilité aurait changé de camp, où Amalasonte serait coupable, et Theodat, un amoureux tendre et attendrissant. Il offre de ce fait le premier rôle à l'amour, l'élément qui a lui seul bouleverse toute l'intrigue, celui qui se décline en jalousie, renoncement, sacrifice, révolte…il multiplie ses visages, mais il n'est question que de lui tout au long de la pièce. Un rêve pour les dames qui décidaient des succès ou infortunes des œuvres théâtrales. Malheureusement, il devait malgré tout manquer quelque chose, si ce n'est pas le pathétique tendre, c'est sans doute la frayeur sans laquelle il ne peut y avoir de grande tragédie.
 
 
-# Histoire des Ostrogoths : le vrai Theodat
+# Histoire des Ostrogoths : le vrai Theodat.
 
 Le prince Theodat que nous présente Thomas Corneille, est loin de ressembler à celui de la réalité historique. Il peint un homme tout dévoué à ses sentiments, un prince tel que le rêvaient les amateurs de romans et de littérature galante. Un homme capable de renoncer au pouvoir pour s'abandonner à l'amour, dont la plus grande erreur est d'avoir failli à une parole donnée du bout des lèvres. Une faute, sans doute pardonnable aux yeux d'un public amateur de grands sentiments et qui tenait l'amour comme souverain bien. Corneille le jeune avait compris combien le public féminin était important dans le succès d'une pièce, de plus il savait ce qu'elles attendaient. Il a donc crée un Theodat à l'image de leurs désirs. Mais le vrai était loin d'être aussi glorieux et attachant. Il était un prince Goth, mort à Ravenne en 536, neveu de Théodoric I*er* le grand, le père d'Amalasonte, le plus romanisé des chefs barbares, qui en 488 devint maître d'un espace qui incluait la Dalmatie, la Pannonie, le Norique, le Rhétie et l'Italie, dont l'ambition était de ressusciter l'empire romain d'Occident. Il installa sa capitale à Ravenne, dont il fit un brillant foyer de culture. Dans son résumé de l'*Histoire des Goths* de Cassiodore, l'historien Jordanes affirme que Théodoric régna « en qualité de roi des Goths et des Romains ». Il eut des vues politiques très larges, à l'échelle de l'Occident, son but était de défendre son Etat et de lui assurer la suprématie sur les autres royaumes germaniques. Pour parvenir à cela il développa une politique d'unions matrimoniales entre sa famille et les souverains d'Occident. Il épousa une sœur de Clovis en 492. Il maria leur fille, Amalasonte à un roi Wisigoth, Eutharic. Dans notre pièce, Eutharic est devenu Euthar, et tient un tout autre rôle. Il n'est pas le défunt mari de la reine, il est le confident de Theodat. Thomas Corneille dans son Avis Au Lecteur ne se cache pas d'avoir joué avec l'histoire, jugeant la réalité inadaptée à son siècle.
 
@@ -60,7 +60,7 @@ Ce caractère d'ingratitude m'a paru avoir quelque chose de trop odieux pour pou
 Dans notre *Theodat*, il y a une recherche historique assez poussée, et volontairement contournée. Mais ce n'est pas pour autant que cette pièce s'adresse à un public particulièrement au fait de l'histoire du Bas-Empire romain. Nous avons tout un cortège de princes et de rois, Euthar, Honoric, Trasimond, Theudis, chacun ayant vécu dans l'entourage du couple, mais sans être intervenus dans leur histoire. Dans la pièce chacun se retrouvant dans un rôle différent. Le choix délibéré de ces noms indique la connaissance des sources historiques, mais n'apporte aucun éclairage particulier dans la compréhension de la pièce. Quinault, lui aussi, s'est permis quelque liberté avec les noms des protagonistes. Amalfrède, dans son *Amalasonte* est l'amoureuse de Theodat, alors que dans la vérité historique, elle est sa mère. Nous pouvons aussi noter que l'un comme l'autre n'ont pas fait mention du lien de parenté qui unit les deux personnages. Ils sont cousins germains, et envisager un mariage entre des parents si proches devait sans doute ne pouvoir entrer dans les canons de la bienséance. Ils se sont donc bien gardés de mentionner ce détail historique.
 
 
-# Biographie de Thomas Corneille, sieur de l'Isle
+# Biographie de Thomas Corneille, sieur de l'Isle.
 
 Thomas Corneille est né à Rouen le 20 août 1625, dix-neuf ans après Pierre, son illustre frère. Mais il ne s'est pas contenté d'être le cadet d'un grand génie, il s'est risqué lui-même, avec un certain bonheur, sur le terrain théâtral. On lui doit une quarantaine de pièces, ainsi que d'autres ouvrages de types très différents, écrits sur la fin de sa vie, notamment des travaux scientifiques. Sans oublier son travail de journaliste, avec son associé – Donneau de Visé –, directeur du *Mercure Galant*, une des gazettes les plus célèbres du siècle. Il est mort aux Andelys le 9 décembre 1709.
 
@@ -73,7 +73,7 @@ Par ailleurs, il fréquentait les salons « du bel esprit ». Il tient ses fr�
 Avant de se lancer dans l'écriture de tragédies, il donne en 1655, une comédie, en concurrence avec Scarron [9], *Le Geôlier de soi-même.* C'est encore une fois une imitation de Calderon. Cette pièce fut jouée par Jodelet et garda pour la postérité le nom de son interprète, on la connaît maintenant surtout sous le titre de *Jodelet Prince.* Elle fut, elle aussi jouée par Molière pendant plusieurs années.
 
 
-## Ses tragédies
+## Ses tragédies.
 
 En 1653, après la chute de *Pertharite*, le grand Corneille se croyant passé de mode cessa d'écrire pour le théâtre. Thomas qui n'a jamais voulu se mettre en concurrence directe avec son illustre aîné, n'avait encore jamais exploré le domaine de la tragédie, il considérait que c'était le terrain de prédilection de son frère. Il profita de cette « préretraite » fraternelle pour s'y essayer. En 1656, il écrivit *Timocrate*, dédié au duc de Guise, cette pièce est le type même de la tragédie précieuse. Il obtint un énorme succès, on dit même le plus grand succès du siècle. Sa tragédie colle parfaitement au goût du jour. Le sujet est extraordinaire, l'intrigue est compliquée et les sentiments raffinés. L'histoire s'inspire d'un roman de La Calprenède, *Cléopâtre.* On y voit une première approche de ce qui sera pour la postérité sa « spécialité », le fait de construire des pièces de théâtre à partir de romans. C'est ainsi que Philippe Quinault et lui sont devenus les principaux représentant du courant des tragédies romanesques. On y trouve, entre autres, un prince déguisé, héritage de la tragi-comédie, et une fin heureuse. Le triomphe fit déplacer le jeune roi en personne pour applaudir la pièce. Le théâtre du Marais où elle était jouée, était comble tous les soirs, on parle de plus de quatre-vingts représentations. Sa tragédie suivante est *Bérénice* [10], dont le succès fut moindre, le héros est l'archétype de l'amoureux tendre, entièrement dévoué aux sentiments de la dame de son cœur. L'intrigue est tirée du roman de Madeleine de Scudéry, *Le Grand Cyrus.* En 1658, il renoue avec un grand succès au travers d'une tragédie historique, *La Mort de Commode.* Le roi se déplace de nouveau pour venir l'applaudir, il la fait jouer au Louvre. Cette même année, il rencontre Molière et sa troupe qui sont de passage à Rouen. Entre les années 1658 et 1662, Molière jouera les comédies de Thomas, après cette période il ne montera plus que ses propres pièces. En 1659, à l'instigation de Fouquet, Pierre revint au théâtre avec *Œdipe.* Un an plus tard Thomas publia *Stilicon*, qu'il dédia à Mazarin, et en 1661, une autre tragédie, *Camma*. Vint en 1662, une de ses pièces les plus faibles, qui est tombée très rapidement, *Persée et Demetrius*, c'est sans doute pour cette raison qu'il choisit de faire un retour sur le terrain de la comédie, avec *Le Baron d'Albikrac*, dont le succès dura deux ans. Il écrivit une nouvelle tragédie et connut un autre succès, la même année, *Laodice.* On peut considérer que c'est l'œuvre dont le style est le plus proche de celui de son frère ; c'est sa pièce la plus « cornélienne ». Elle fut considérée comme un chef d'œuvre. Il reproduisit l'expérience de ce style, mais sans succès, avec *La Mort d'Annibal.* Il comprit à la suite de cet échec qu'il était temps de changer de procédés, que la mode avait changée, et qu'il devait se mettre au goût du jour s'il voulait continuer à jouir de sa renommée. Il choisit d'imiter le style de Racine, qui venait de donner, avec succès, sa *Bérénice*, une tragédie reposant entièrement sur les sentiments, où les actions sont réduites à leur strict minimum. Thomas voulu s'inscrire dans cette mouvance, il voulait lui aussi « faire quelque chose de rien », comme l'écrit Racine dans la préface de sa tragédie. Il écrivit *Ariane*, qui fut considérée comme l'œuvre la plus durable de sa production. Cette Ariane abandonnée par Thésée, fut incarnée par La Champmeslé, l'actrice la plus fameuse de son temps. Elle donna toute sa sensibilité au rôle, et sut très bien faire pleurer un public qui n'attendait que ça. Le choix de cette comédienne n'est pas innocent, elle qui prêta sa voix à toutes les héroïnes de Racine, était la mieux à même de donner à Ariane la dimension « racinienne » que Thomas Corneille recherchait, il était tombé juste encore une fois. C'est cette même année 1672, en novembre, qu'il fit représenter *Theodat*, qui ne rencontra pas de succès. En ce qui concerne sa vie et l'évolution de sa carrière, l'année 1673, présente un tournant pour lui, et pour toute l'histoire du théâtre, Molière est mort. Les deux hommes avaient toujours gardé des relations amicales, c'est à Thomas que la veuve demandera d'être l'auteur attitré de la troupe. Elle lui demandera, en outre de mettre en vers *Le Festin de pierre* en 1677. C'est cette version versifiée et édulcorée de la pièce qui s'intitule aujourd'hui *Dom Juan*, qui fut jouée jusqu'au XIX*e* siècle. La troupe orpheline, quitta la salle du Palais Royal, et fusionna avec la troupe du Marais dissoute, ils fondèrent le théâtre Guénégaud. Les premières représentations de ce nouveau théâtre datent de juillet 1673.
 
@@ -84,7 +84,7 @@ Vint ensuite, sa période de librettiste d'opéra. En collaboration avec Lulli, 
 Son dernier succès théâtral, est une pièce écrite avec Donneau de Visé, son collaborateur du Mercure galant. Il s'agit de *La Devineresse*, en 1679, une pièce à machine exploitant une histoire dans l'air du temps, le scandale de La Voisin [11]. Ils firent à la fois un succès public et un succès de librairie.
 
 
-## Les dernières années
+## Les dernières années.
 
 Les années suivantes ne sont plus celles du théâtre, il se tourne vers d'autres activités, notamment le journalisme et la lexicographie. Il rejoint Donneau de Visé, au *Mercure galant* [12]. C'est une gazette fondée en 1672, où sous forme de lettres sont données des nouvelles de la ville et de la cour. À partir de ce moment là, on le qualifia de « courriériste mondain ». Le journal avait des ennemis, notamment La Bruyère, qui, dans *Les Caractères*, désignait le Mercure en ces termes: 
 
@@ -106,7 +106,7 @@ Même si l'histoire ne retient que le nom de Pierre Corneille, on ne peut pas n�
 C'était un homme d'un très grand mérite, et d'une vaste littérature ; et si vous exceptez Racine, auquel il ne faut comparer personne, il était le seul de son temps qui fût digne d'être le premier au-dessous de son frère [15].
 
 
-# Conditions de représentation
+# Conditions de représentation.
 
 La pièce fut jouée pour la première fois le 18 novembre 1672, à l'Hôtel de Bourgogne [16]. Malheureusement elle n'a pas tenu ses promesses, elle est tombée très vite. Plusieurs raisons à cet échec sont possibles, nous tenterons de les mettre en lumière, sans pour autant remettre en cause sa qualité. Il semble que cette pièce joua de malchance.
 
@@ -125,15 +125,15 @@ Cette malheureuse tragédie ne connut pas là sa seule déconvenue, il y eut aus
 En ce qui concerne les publications du texte, la première date du 23 janvier 1673, chez De Luyne, avec un privilège du roi datant du 31 décembre 1672. Pour ce qui est des éditions postérieures, la première réimpression date de 1692, dans un recueil de pièces, en deux parties et un volume, toujours chez De Luyne, *Poèmes dramatiques de Thomas Corneille.* Nous trouvons notre *Theodat* entouré de *Antiochus, Laodice, Le Baron d'Albikrac, La Mort d'Annibal, La Comtesse d'orgueil.* L'édition suivante est hollandaise, elle date de 1689, en in-12. Une nouvelle édition parisienne date de 1706, *Poèmes dramatiques de Thomas Corneille, nouvelle édition revue, corrigée et augmentée*, en cinq parties, *Theodat* apparaît dans le volume IV. Nous y trouvons en plus des pièces présentes dans l'édition de 1692, *Le Festin de pierre* et *Ariane.* La suivante vient de Vienne, toujours en in-12, datée de 1763. Mais lors de la réédition du théâtre de Thomas Corneille, en 1881, à Paris chez l'éditeur Thierry, on ne trouve plus *Theodat.* Cette édition a supprimé les pièces qui ont eu le moins de succès, *Le Berger extravagant, Darius, Pyrrhus, La Mort d'Achille, La Pierre philosophale, Les Dames vengées*, et les livrets d'opéra.
 
 
-# Structure de la pièce
+# Structure de la pièce.
 
 
-## Acte par acte
+## Acte par acte.
 
 Nous pouvons considérer la structure de la pièce comme se découpant en deux blocs distincts, les trois premiers actes se distinguent des deux derniers dans le sens où la véritable action débute avec eux. Nous résumerons ici, les différentes étapes des événements.
 
 
-### Acte I
+### Acte I.
 
 Dans la première scène, Theodat livre le fond de son cœur à son confident Euthar, il lui dit qu'il connaît l'amour que la reine lui porte, qu'elle veut faire de lui un roi, et qu'il suffirait qu'il se résolve à l'accepter pour épouse. Mais il s'inquiète du sort de la princesse Ildegonde. Il dit ne plus l'aimer, mais son intérêt pour elle prouve le contraire. Il la sait engagée auprès d'Honoric et il souffre de savoir que ce lien s'est noué après qu'elle l'ait repoussé. Il comprend que ce n'est pas pour un autre qu'elle a refusé son amour, mais par orgueil. Par vengeance contre cette ingrate il choisit de céder à la reine, mais l'amour est absent de sa décision.
 
@@ -142,7 +142,7 @@ Dans la première scène, Theodat livre le fond de son cœur à son confident Eu
 Dans la troisième scène, seule avec Gepilde, elle lui dit qu'elle a compris le jeu joué par Theodat envers elle, il l'épouse pour se venger d'Ildegonde. Gepilde ne croit pas à cette vision de la situation, pour lui Theodat est sincère et que son consentement à l'union d'Honoric et Ildegonde en est la preuve.
 
 
-### Acte II
+### Acte II.
 
 C'est au tour d'Ildegonde d'exposer ses sentiments à sa confidente, Valmire. Elle sait que la reine veut faire de Theodat un roi. Valmire croit qu'elle n'éprouve pour lui que de la haine, et que sa peine vient du fait qu'elle juge le trône trop beau pour un homme tel que lui. Mais Ildegonde se trompe, elle avoue qu'en réalité elle l'aime et que cette union lui est odieuse. Et que c'est uniquement par orgueil qu'elle a renoncé à lui.
 
@@ -160,7 +160,7 @@ Theodat et Ildegonde s'exposent mutuellement leurs desseins. Il lui dit que s'il
 Euthar, le confident de Theodat le met en garde contre Ildegonde, il croit que son amour est feint, et qu'elle ne cherche qu'à lui faire perdre le trône. Le prince ne veut rien entendre et décide de prévenir la reine de sa décision de rester avec celle qu'il aime.
 
 
-### Acte III
+### Acte III.
 
 Honoric qui se croit aimé d'Ildegonde va voir la reine pour lui demander de hâter leur union, il craint que Theodat ne s'y oppose. Amalasonte le rassure en lui disant que Theodat lui-même a consenti à cette union.
 
@@ -175,7 +175,7 @@ Elle reproche à Theodat son amour pour Ildegonde et la scène qu'il vient de fa
 Folle de rage, Amalasonte ordonne de faire arrêter Theodat.
 
 
-### Acte IV
+### Acte IV.
 
 Gepilde met Amalasonte en garde contre son peuple, elle lui dit qu'il ne supportera pas de voir Theodat arrêté. Pour contrer une éventuelle révolte elle a envoyé Honoric pour calmer le peuple. La reine sent que sa suprématie vacille, que le peuple est contre elle, qu'il préfère Theodat et qu'en le perdant, elle perd aussi son rang. Elle est prête à tout pour sauver son trône. Le peuple réclame Theodat pour souverain. Elle comprend qu'il est trop dangereux que Theodat vive, qu'il pourrait lui ravir sa place. Elle décide de le voir mort.
 
@@ -188,7 +188,7 @@ Quand ils se retrouvent seuls, Ildegonde explique à Theodat qu'en refusant sa m
 Euthar vient leur annoncer que la vie d'Honoric est menacée par les factieux, Theodat part défendre son rival. Ildegonde le met en garde, elle a compris qu'il s'agit d'un piège.
 
 
-### Acte V
+### Acte V.
 
 Ildegonde fait un rêve prémonitoire, où elle voit son amant mort.
 
@@ -201,7 +201,7 @@ Ildegonde explique à Theodat qu'elle a avoué à la reine son amour pour lui. T
 Euthar revient et annonce à Theodat qu'il est le nouveau roi, que la reine n'est plus. Il raconte comment elle s'est précipitée elle-même vers la mort. Theodat devient roi par la volonté du peuple, et Ildegonde sa reine.
 
 
-## Structure interne
+## Structure interne.
 
 Le premier acte rempli son rôle d'exposition, chaque personnage tour à tour vient livrer au public le fond de son cœur. Le confident fait office de récepteur intermédiaire dont la présence est indispensable à la dramaturgie. Theodat livre ses sentiments, puis vient le tour de la reine, et enfin Ildegonde. Les liens du trio d'amoureux nous sont présentés comme les pièces d'un puzzle qui se mettent en place, avec l'amour comme seul lien.
 
@@ -220,7 +220,7 @@ En ce qui concerne la règle des trois unités, pour que la règle des vingt-qua
 Pour ce qui est du lieu, toute l'action se concentre dans le palais, ou à l'extérieur de celui-ci, à sa porte. Nous considérons l'appartement de Theodat comme faisant partie du palais.
 
 
-## Les personnages
+## Les personnages.
 
 La liste des personnages comporte huit noms, dont quatre principaux et quatre subordonnés. Les centraux sont le couple Theodat, Ildegonde qui représentent par leur amour le cœur de l'intrigue. Autour d'eux se greffent, les rivaux, Amalasonte et Honoric, les confidents, et le capitaine des gardes.
 
@@ -271,7 +271,7 @@ Quant à Honoric, il est un outil de la fatalité, il est celui qui n'existe que
 Il reste deux personnages qui n'apparaissent pas dans la liste liminaire, Theudis et Trasimond, les actions, telles que la révolte ou le meurtre d'Honoric ou encore celui d'Amalasonte, dépendent d'eux. Ils sont des personnages invisibles dont l'importance est malgré tout primordiale. Ils sont présentés comme des fils de rois ennemis dont Amalasonte aurait fait couler le sang, deux princes tout acquis à la cause de Theodat. C'est contre l'épée de Theudis qu'elle laissera sa vie. La mort d'Honoric est due à des mains anonymes, le destin pour s'accomplir n'a pas besoin de nom.
 
 
-# Le héros galant
+# Le héros galant.
 
 La galanterie est une vision de l'amour propre aux années « précieuses » du XVII*e* siècle, dont les femmes sont à la genèse. Elles rêvaient de princes valeureux, tout dévoué à leur gloire. L'amour, selon elles, était devenu un acte social, une ambition, une perfection à atteindre, un Dieu auquel elles offrirent un pays. *La Carte du Tendre* de Madeleine de Scudéry montrant les chemins tortueux que les sentiments devaient suivre.
 
@@ -305,7 +305,7 @@ L'important n'est pas de vivre cet amour, mais de savoir aimer, et connaître le
 Le héros galant n'est pas un combattant, il ne défend pas son honneur, ni celui de sa belle, il défend un concept, une idée, un sentiment abstrait devenu le maître du monde. Nous sommes dans une forme de religiosité de l'amour.
 
 
-# La tentation du romanesque : Theodat, un archétype de la tragédie galante
+# La tentation du romanesque : Theodat, un archétype de la tragédie galante.
 
 Il semble que nous ne puissions pas faire mention de la tragédie galante sans que deux noms nous viennent en tête, ceux de Philippe Quinault et Thomas Corneille. Bien qu'ils ne soient pas les seuls représentants de cette mode datant des années d'après la Fronde, ils en sont les représentants les plus notoires.
 
@@ -344,7 +344,7 @@ La particularité de *Theodat*, c'est d'en contenir deux. La première à la pre
 Le poème tragique, vous serre le cœur dès son commencement, … vous mène par les larmes, par les sanglots, par son horreur jusqu'à la catastrophe. Ce n'est donc pas un tissu de jolis sentiments, de déclarations tendres, d'entretiens galants…, suivi, à la vérité, d'une dernière scène où les mutins n'entendent aucune raison, et où, pour la bienséance, il y a enfin du sang répandu, et quelque malheureux à qui il en coûte la vie [39].
 
 
-# Theodat, une tragédie romanesque ? Critique de la classification de Gustave Reynier
+# Theodat, une tragédie romanesque ? Critique de la classification de Gustave Reynier.
 
 Il est de coutume de considérer *Theodat* comme une tragédie romanesque et galante, tant il est vrai qu'elle répond à tous les critères de la galanterie, les personnages sont des modèles de tendresse, l'amour tient lieu de cœur de l'intrigue, la Fortune règne en maîtresse sur les destinées…
 
@@ -377,7 +377,7 @@ Ce vers pourrait être prononcé par Ildegonde, il reflète le sentiment d'amour
 Il semble difficile à la lumière de ce constat, de considérer la classification proposée comme la seule vision de l'œuvre de Thomas Corneille, les critères s'entremêlent nous trouvons du « racinien » dans le « cornélien », et surtout du « romanesque » auquel aucune de ses pièces ne semble échapper. Sans doute cette influence vient-elle de l'air du temps auquel notre auteur était particulièrement sensible.
 
 
-# Style
+# Style.
 
 La langue et le style de *Theodat* sont typiques de la fin du XVII*e* siècle, nous le qualifierons de précieux, tant le raffinement est poussé à un point tel que le texte en perd parfois de sa clarté. Le style est caractéristique des tragédies galantes, l'action est lente, les discours sont longs et répétitifs. C'est sans doute une explication quant à l'oubli dans lequel est tombé cette pièce, un discours trop obscur et redondant, comme dans des vers tels que ceux-ci :
 
@@ -406,7 +406,7 @@ Elle est plus que jamais dans une vision intellectualisée de ses sentiments, el
 Cependant tout n'est pas obscurité, disséminé dans un texte tel que celui-ci, nous trouvons des vers d'une lecture aisée que nous identifions comme des sentences.
 
 
-# Theodat une tragédie sentencieuse
+# Theodat une tragédie sentencieuse.
 
 Considérer *Theodat* comme une tragédie sentencieuse revient à dire, qu'elle comporte des vers à portée moralisante. Selon la définition que nous en donne Jacques Scherer [47], ce sont des vers impersonnels, et qui de ce fait peuvent tenir lieu de vérité générale. Il marque le public, dans le sens où ils ont un impact plus fort en semblant ne pas s'adresser seulement aux personnages de la pièce, mais aussi aux spectateurs. L'utilisation de ce procédé était plus fréquente du temps de l'aîné des frères Corneille, mais bien que l'on ait coutume de lire qu'il existe moins de sentences après 1660, on ne peut nier leur forte présence dans cette pièce qui pourtant date de 1672, et est une tragédie galante avec l'amour comme sujet central. Dans l'élan de la passion, qu'un personnage prenne le temps de faire des discours à visée réflexive semblerait être une entorse à la vraisemblance, comme nous le fait remarquer Jacques Scherer. Mais notre pièce est d'une construction particulière, elle est pauvre en action, et très riche en longues discussions et hésitations amoureuses. Les trois premiers actes progressent à de problèmes moraux insolubles dans lesquels les personnages se débattent. Leur réflexion prend le pas sur leur action, en cherchant des réponses pour eux-mêmes, ils donnent des clés aux spectateurs qui se traduisent par des vers tels que :
 
@@ -422,17 +422,17 @@ Pour en sentir l'effet, il faut que l'autre vive [49].
 Nous sommes face à une illustration du thème de la vengeance, nous ne pouvons pas considérer cela comme une réponse morale au sens chrétien du terme. Il est question de la mort de deux personnes et qui plus est deux personnes qui s'aiment. Nous sommes face à un double meurtre, celui d'être humains et celui de l'amour. Nous nous trouvons alors face à une réponse qui soulève d'autres interrogations. Mais n'est-ce pas le propre de la littérature, dramatique ou non, de donner à penser ? Plaire et instruire, ne sont-ils pas des verbes clés de la réception des tragédies ? Ces vers sont prononcés par Amalasonte, la femme bafouée et cruelle, celle qui ne vit plus que par son désir de vengeance. Bien qu'elle semble nous donner une leçon, la véritable réponse à la question implicite, est dans l'action : c'est elle qui perd la vie. Elle périt en lieu et place de celui qu'elle voulait voir mort. L'action contredit la parole ou plus exactement, l'action donne son sens à la parole. L'un ne peut aller sans l'autre dans une œuvre théâtrale. Une sentence n'est pas seulement une vérité plaquée, c'est aussi un rouage de l'intrigue. Voilà pourquoi il est si difficile de chercher à en tirer une leçon durable et universelle. Elles répondent aux questions des cercles galants et à l'action. Mais les vers de notre pièce, bien qu'identifiable comme des sentences, sont d'une psychologie et d'une portée trop faible pour tenir lieu de leçon pour le spectateur ou le lecteur. Nous avancerons, alors l'hypothèse suivante, nous ne serions pas face à des sentences, telles que les pratiquait Pierre Corneille, mais face à des vers mis sous forme sentencieuse pour attirer l'attention sur eux, pour répondre aux questions posées par les cercles galants. Ils seraient des messages disséminés dans le texte, dont la portée ne serait pas universelle, mais destinée à alimenter les réflexions des cercles galants auxquels Thomas Corneille appartenait.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Description de la première page de l'édition établie
+## Description de la première page de l'édition établie.
 
 Nous avons utilisé pour la réalisation de cette édition l'exemplaire de notre tragédie conservé à la bibliothèque de l'Arsenal sous la cote Rf 2.734. Cet exemplaire est la première édition. L'achevé d'imprimé date du 23 janvier 1673.
 
 Il existe, toujours à l'Arsenal, un exemplaire de *Theodat*, datant de 1692, dans un recueil de pièces en V volumes, intitulé *Œuvres dramatique de Thomas Corneille*. Il est conservé sous la cote Rf 2.655. Notre pièce apparaît dans le volume IV. C'est une copie de l'édition de 1673. En 1706, *Theodat* apparaît dans le quatrième volume de la réédition des œuvres de Thomas Corneille, *Poèmes dramatiques de Thomas Corneille, nouvelle édition revue, corrigée et augmentée.* Cet exemplaire est conservé à la Bibliothèque Nationale de France sous la cote Yf 2.586.
 
 
-## Notre exemplaire
+## Notre exemplaire.
 
 I : THEODAT, / TRAGEDIE / Par T. CORNEILLE./ Fleuron  / A PARIS, / Chez G. DE LUYNE, Libraire Juré au / Palais, dans la Salle des Merciers, / à la Justice. / M. DC. LXXIII. / *AVEC PRIVILEGE DU ROY.*
 
@@ -449,27 +449,27 @@ VI : *ACTEURS.*
 (1 – 77 texte de la pièce)
 
 
-## Liste des corrections apportées au texte
+## Liste des corrections apportées au texte.
 
 Nous avons remplacé le tilde qui indiquait la nasalisation d'une voyelle, et l'avons remplacée par une voyelle + une consonne exprimant la nasalisation.
 
 
-### Séparation de mots
+### Séparation de mots.
 
 v. 32 : dequoy > de quoy ; v. 61 : rêdquelques > rend quelques ; v. 273 : devoirspour > devoirs pour ; v. 342 : surquoy > sur quoy ; v. 383 : s'ilse > s'il se ; v. 455 : du moinsqu'il > du moins qu'il ; n'aimastpoint > n'aimast point ; v. 523 : dequoy > de quoy ; v. 614 : sansvoix > sans voix ; v. 854 :e st > est ; v. 944 : magloire > ma gloire ; v : 1118 :tetuë > te tuë ; v. 1173 : Etsçavoir > Et sçavoir ; v. 1377 : qu'auxv oeux > qu'aux vœux ; v. 1470 : pourvous > pour vous ; v. 1504 : dequoy > de quoy ; v. 1655 : quoyque > quoy que ; v. 1732 : devangeance > de vangeance ; v. 1766 : Ill e > Il le.
 
 
-### Corrections orthographiques
+### Corrections orthographiques.
 
 v. 107 : I'avois > J'avois ; v. 265 : résoluant > révolvant ; v.426 : esprir > esprit ; v. 514 : d'ordonuer > d'ordonner ; v. 826 : I'Assumois > J'assumois ; v. 1017 : Ie > Je ; v. 1163 : inportune > importune ; v. 1252 : Ie > Je.
 
 
-### Les accents
+### Les accents.
 
 v. 297 : qu'én > qu'en ; v. 900 : des démain > dés demain ; v. 1181 : L interest > L'interest ; v. 1454 : vertù > vertu.
 
 
-# Théodat TRAGEDIE
+# Théodat TRAGEDIE.
 
 
 ## AU LECTEUR.
@@ -501,10 +501,10 @@ Le 23 Janvier 1673.
  – Euthar,Confident de Theodat. 
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 THEODAT, EUTHAR.
 
 
@@ -704,7 +704,7 @@ Quoy que peut-estre icy je fusse peu suspect,
 La Reyne qui paroist m'oblige à ce respect⁎.  
 
 
-### SCENE II 
+### SCENE II. 
 AMALASONTE, THEODAT, GEPILDE
 
 
@@ -875,7 +875,7 @@ D'embarrasser ma gloire⁎, & n'en profiter pas.
 Laissez-moy seule.  
 
 
-### SCENE III 
+### SCENE III. 
 AMALASONTE, GEPILDE.
 
 
@@ -977,10 +977,10 @@ Revoyons Theodat, & dés ce mesme jour
 Sçachons s'il faut éteindre, ou croire mon amour.  < Fin du Premier Acte. > 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ILDEGONDE, VALMIRE.
 
 
@@ -1247,7 +1247,7 @@ J'ose…
     HONORIC.
 Ah, puis que vostre flame est propice à la mienne…  
 
-    ILDEGONDE. 
+    ILDEGONDE.
 Prévenez⁎ Theodat, de peur qu'il vous prévienne⁎.  
 Allez, si mon hymen est un bonheur si doux,  
 Le temps doit estre cher à qui craint comme vous [104].  
@@ -1374,7 +1374,7 @@ Vostre ingrate rigueur…
 N'estes-vous pas content⁎ qu'elle vous ait fait naistre  
 La noble ambition …  
 
-    THEODAT. 
+    THEODAT.
         Non, je ne le puis estre,  
 Et ce Trône où m'appelle un hymen glorieux,  
 Il me couste trop cher pour m'estre prétieux.  
@@ -1777,7 +1777,7 @@ Madame, & j'avoüeray que ses vœux écoutez
 Doivent estre reçeus, si vous y consentez.  
 Je ne m'en dédis point, j'en ay donné parole.  
 
-    HONORIC *à Amalasonte .*
+    HONORIC *à Amalasonte .*.
 N'auriez-vous eu pour moy qu'une bonté frivole [129],  
 Madame, & voudrez-vous soufrir que Theodat  
 Immole⁎ la Princesse à ses raisons d'Estat ?  
@@ -1835,7 +1835,7 @@ Un cœur qui s'alarmant d'un scrupule de gloire⁎…
     ILDEGONDE.
 D'où vient que Theodat …  
 
-    AMALASONTE *à Ildegonde.*
+    AMALASONTE *à Ildegonde.*.
         Je ne sçay plus qu'en croire.  
 De l'air dont il répond du secret de ce cœur,  
 Vous n'auriez eu pour luy qu'une fausse rigueur.  
@@ -2131,7 +2131,7 @@ Il doit craindre mon bras jusque sur l'Autel mesme.
 Qu'il y pense, Madame.  
 
 
-### SCENE VI
+### SCENE VI.
 AMALASONTE, GEPILDE.
 
 
@@ -2320,7 +2320,7 @@ C'estoit lors [158] que l'honneur t'obligeoit à trembler.
 Mais de ton cœur séduit⁎ les mouvemens rebelles …  
 
 
-### SCENE IV 
+### SCENE IV. 
 AMALASONTE, HONORIC, GEPILDE.
 
 
@@ -2513,7 +2513,7 @@ Theodat connoist trop l'interest de sa gloire⁎,
 Pour écouter un feu qu'en vain il voudroit croire ;  
 Un choix plus relevé doit flater son espoir.  
 
-    AMALASONTE *à Theodat.*
+    AMALASONTE *à Theodat.*.
 Le temps sur ce mépris aura quelque pouvoir,  
 Tâchez de la fléchir, je vous laisse avec elle.  
 Montrez-luy les honneurs où vostre amour l'appelle,  
@@ -2905,7 +2905,7 @@ AMALASONTE, ILDEGONDE, THEODAT, GEPILDE, VALMIRE.
 Mes reproches, Madame, ont esté trop avant,  
 N'en redoutez plus rien, Theodat est vivant.  
 
-    THEODAT *à Amalasonte.*
+    THEODAT *à Amalasonte.*.
 Pour me justifier, j'ay besoin de ma gloire⁎,  
 Elle est mon seul recours, mais l'en voudrez vous croire,  
 Madame ? tout m'accuse, & pour noircir ma foy⁎,  
@@ -3087,33 +3087,33 @@ Et par tout ce qui peut luy répondre de vous,
 L'assurer sous vos loix du Regne le plus doux.  < FIN. >
 
 
-# GlossaireDictionnaire de l'Académie française
+# Glossaire.Dictionnaire de l'Académie française
 Dictionnaire universel
 Admirer« Considérer avec surprise, regarder avec étonnement quelque chose de surprenant dont on ignore la cause » *(F.).*V. 210, 828, 883Alarmes« Émotions causées par des ennemis » *(A., 94).*V. 149, 411, 1124, 1477AmorceSéduction, « se dit des appâts qui attirent et persuadent l'esprit » *(F.).*V. 1260, 1380Art« Est principalement un amas de préceptes, de règles, d'inventions et d'expériences, qui étant observées font réussir aux choses qu'on entreprend » *(F.).*V. 1308, 1310, 1386AvantageSupériorité d'ordre honorifique, prérogative d'honneur.V. 41, 86, 209, 370, 542, 1328Aveu« Consentement donné » *(F.).*V. 536, 696, 808, 823, 859, 873, 983, 1035, 1298, 1377Bontez« Faveurs que l'on fait à un être aimé. Bienveillance, affection, tendresse » *(F.).*V. 49, 57, 191, 208, 235, 270, 315, 540, 783, 934, 1040, 1311, 1323, 1378Celer« Tenir quelque chose cachée et secrète, taire la vérité » *(F.).*V. 103Charmes« Puissances magique » *(F.)*V. 285, 613, 1050, 1476, 1736Charmer« Plaire extrêmement, ravir » *(A., 94).*V. 155, 377, 641, 812, 1002, 1073, 1096, 1371Conseil« Avertissement, avis qu'on donne ou qu'on reçoit, réflexion » *(F.).*V. 407, 827, 1414, 1660Responsabilité.V. 215Content« Qui ne désire rien » *(F.).*V. 16, 356, 621, 1474, 1695DécevoirTromper.V. 291Éclat« Se dit de la manifestation retentissante d'un sentiment, peut aussi désigner un scandale, ou encore une situation brillante, lustre » *(A., 94).*V. 2, 15, 179, 211, 222, 388, 524, 602, 695, 715, 773, 859, 924, 964, 1070, 1076, 1102, 1166, 1343, 1357, 1610, 1774EmpireAscendance morale d'une personne sur une autre.V. 145, 345, 401, 1228, 1480Entreprise« Dessein formé » *(A., 94).*V. 1487, 1544Ennuy« Chagrin, déplaisir, souci » *(A., 94).* Mais aussi « tendre douleur de l'amour » *(F.).*V. 287, 399, 504, 627, 660, 935, 957, 1074, 1582, 1594, 1624, 1692, 1694Etonner (s')« Causer à l'âme une émotion soit par surprise, soit par admiration, soit par crainte » *(F.) ;* « faire trembler par quelque violente commotion » *(A., 94).*V. 232, 651, 996, 1108, 1138, 1444, 1521FierOrgueilleux, présomptueux, dédaigneux, implacable.V. 99, 114, 242, 426, 507, 705, 714, 771, 1225, 1596, 1756Fierté« Sagesse, vertu sévère, insensibilité, pour une femme c'est une marque de grandeur d'âme » *(F.).*V. 397, 421, 451, 495, 675, 1069, 1283, 1351, 1577« Pour un homme, orgueil, vanité, présomption, passion pour la gloire » *(F.).*V. 103, 256, 264, 583FoyFidélité, assurance, promesse, serment, « parole qu'on donne de faire quelque chose » *(F.).*V. 71, 84, 178, 235, 268, 353, 363, 485, 543, 663, 691, 752, 767, 874, 881, 904, 1066, 1170, 1334, 1362, 1414, 1530, 1598, 1614, 1650, 1695, 1722, 1733GesnerContraindre, mortifier, torturer.V. 37, 385, 470, 730Gloire« Bonne opinion qu'on a de soi-même, orgueil, présomption, honneur mondain » *(F.).*V. 2, 17, 50, 56, 92, 109, 197, 214, 220, 234, 249, 259, 280, 285, 334, 336, 368, 410, 422, 448, 478, 494, 501, 513, 553, 572, 575, 596, 605, 694, 720, 732, 757, 774, 862, 893, 925, 953, 1028, 1032, 1160, 1188, 1200, 1226, 1248, 1312, 1327, 1336, 1364, 1401, 1425, 1427, 1433, 1448, 1525, 1592, 1648, 1718, 1784Immoler« Assouvir une passion, s'exposer à la peine, au danger » *(F.).*V. 300, 422, 479, 508, 595, 868, 1209, 1247, 1429, 1437, 1564Indiscret« Celui qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait » *(F.).*V. 310, 1020, 1313Inquiet« Qui est troublé de craintes, de soucis, (…) se dit aussi d'un homme inconstant » *(F.).*V. 9, 19, 137, 972, 1140, 1488InterditeTroublé, déconcerté, immobile.V. 358, 750Pompeux« Qui est fait avec pompe, magnificence, faste » *(F.).*V. 191, 1357Prévenir« Être le premier à faire ce qu'un autre voulait faire » *(A., 94).* Devancer, « être le premier à faire quelque chose » *(F.).*V. 318, 366, 467, 546, 1131, 1208, 1760RespectSoumission, considération, égard.V. 75, 115, 148, 232, 233, 240, 300, 301, 820, 956, 1038, 1087Séduire« Tromper, abuser, faire tomber dans l'erreur » *(A., 94).*V. 1049, 1232, 1380, 1456, 1482Sensible« Qui se fait sentir » *(A., 94) ;* « lorsque ce mot désigne une chose, il signifie, touchant, douloureux » *(R.).*V. 129, 342, 458, 463, 505, 672, 742, 988, 1088, 1370Soûpirer« Aspirer, prétendre à quelque chose, la désirer avec ardeur » *(F.).*V. 330, 381, 600, 614, 739, 746, 822, 1016, 1586TimideCraintif, peureux.V. 233, 1189, 1732Transports« Se dit au figuré du trouble ou de l'agitation de l'âme » *(F.).*V. 528, 956, 969, 1094, 1313, 1500, 1720TroubleConfusion, désordre, altération des émotions, « désordre de l'âme causé par les passions » *(F.).*V. 1,  137, 219, 288, 312, 357, 567, 1108, 1145, 1225, 1457, 1478, 1489, 1522, 1526Vertu« Se dit de la grandeur d'âme d'une personne, de sa valeur morale, de son mérite » *(F.).*V. 84, 444, 576, 735, 1325, 1340, 1429, 1435, 1504, 1678, 1717Zele« Affection ardente pour quelque chose » *(F.).*V. 162, 192, 193, 289, 366, 813, 886, 1052, 1128
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Publications annuelles*Klapp O. Klapp-Lerhmann*Bibliographie der französischen Literaturwissenschast
+## Publications annuelles.*Klapp O. Klapp-Lerhmann*Bibliographie der französischen Literaturwissenschast
 
 
 
-## Textes sources*La Mesnardiere J.*La Poétique
+## Textes sources.*La Mesnardiere J.*La Poétique
 *Mahelot L.*Le Memoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie Française au XVII*e* siècle
 *Parfaict F.*Dictionnaire des théâtres de Paris
 *Parfaict F. et C.*Histoire du Théâtre françois depuis son origine jusqu'à présent
 
 
 
-## Ouvrages générauxDictionnaire de l'Académie française
+## Ouvrages généraux.Dictionnaire de l'Académie française
 *Furetière A.*Dictionnaire universel*re*
 *Sancier-Château A.*Introduction à la langue du XVII*e* siècle
 *Haase*Syntaxe française du XVII*e* siècle
 
 
 
-## Ouvrages sur le XVII*e* siècle*Benichou P.*Morales du Grand Siècle
+## Ouvrages sur le XVII*e* siècle.*Benichou P.*Morales du Grand Siècle
 *Cioranescu*Le Masque et le visage. Du baroque espagnol au classicisme français
 *Deierkauf-Holsboer*L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
 *Deierkauf-Holsboer*Le Théâtre de l'Hôtel de Bourgogne
@@ -3134,7 +3134,7 @@ Admirer« Considérer avec surprise, regarder avec étonnement quelque chose de
 
 
 
-## Ouvrages, articles, éditions, concernant Thomas Corneille*Gossip*Studi francesi
+## Ouvrages, articles, éditions, concernant Thomas Corneille.*Gossip*Studi francesi
 *Gossip*Revue d'histoire littéraire de la France
 *Reynier*Thomas Corneille, sa vie et son théâtre
 Théâtre du XVII siècle

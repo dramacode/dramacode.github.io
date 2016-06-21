@@ -14,15 +14,15 @@ Mêlé de Comédie, de Musique, et d'Entrée de Ballet.
 
 
 
-# LE DIVERTISSEMENT ROYAL
+# LE DIVERTISSEMENT ROYAL.
 
 
-## AVANT-PROPOS
+## AVANT-PROPOS.
 
 Le ROI qui ne veut que des choses extraordinaires dans tout ce qu'il entreprend, s'est proposé de donner à sa Cour un Divertissement qui fût composé de tous ceux que le Théâtre peut fournir ; et pour embrasser cette vaste Idée, et enchaîner ensemble tant de choses diverses, SA MAJESTÉ a choisi pour sujet deux Princes Rivaux, qui dans le champêtre séjour de la Vallée de Tempé, où l'on doit célébrer la Fête des Jeux Pythiens, régalent à l'envi une jeune Princesse et sa Mère, de toutes les galanteries dont ils se peuvent aviser.
 
 
-## PREMIER INTERMÈDE
+## PREMIER INTERMÈDE.
 Le Théâtre s'ouvre à l'agréable bruit de quantité d'Instruments, et d'abord il offre aux yeux une vaste Mer, bordée de chaque côté de quatre grands Rochers, dont le sommet porte chacun un Fleuve, accoudé sur les marques de ces sortes de Déités. Au pied de ces Rochers sont douze Tritons de chaque côté, et dans le milieu de la Mer quatre Amours montés sur des Dauphins, et derrière eux le Dieu Éole élevé au dessus des Ondes sur un petit nuage. Éole commande aux Vents de se retirer, et tandis que les Amours, les Tritons, et les Fleuves lui répondent, la Mer se calme, et du milieu des Ondes on voit s'élever une Île. Huit Pêcheurs sortent du fond de la Mer avec des nacres de Perles, et des branches de Corail, et après une Danse agréable vont se placer chacun sur un Rocher au dessous d'un Fleuve. Le Chœur de la Musique annonce la venue de Neptune, et tandis que ce Dieu danse avec sa suite, les Pêcheurs, les Tritons, et les Fleuves accompagnent ses pas de gestes différents, et de bruits de conques de Perles. Tout ce Spectacle est une Magnifique Galanterie, dont l'un des Princes régale sur la Mer la promenade des Princesses.
 
  – NEPTUNE.LE ROI.
@@ -33,41 +33,41 @@ Le Théâtre s'ouvre à l'agréable bruit de quantité d'Instruments, et d'abord
  – Éole.M. Estival.
  – Huit Pêcheurs.MM. Jouan, Chicanneau, Pezan l'aîné, Magny, Joubert, Mayeux, la Montagne, et Lestang.
 
-    RÉCIT D'ÉOLE
+    RÉCIT D'ÉOLE.
 Vents, qui troublez les plus beaux jours,  
 Rentrez dans vos grottes profondes ;  
 Et laissez régner sur les ondes  
 Les Zéphires et les Amours.  
 
-    UN TRITON
+    UN TRITON.
 Quels beaux yeux ont percé nos demeures humides ?  
 Venez venez Tritons, cachez-vous Néréides.  
 
-    TOUS LES TRITONS
+    TOUS LES TRITONS.
 Allons tous au devant de ces Divinités,  
 Et rendons par nos chants hommage à leurs beautés.  
 
-    UN AMOUR
+    UN AMOUR.
 Ah que ces Princesses sont belles !  
 
-    UN AUTRE AMOUR
+    UN AUTRE AMOUR.
 Quels sont les cœurs qui ne s'y rendraient pas ?  
 
-    UN AUTRE AMOUR
+    UN AUTRE AMOUR.
 La plus belle des immortelles,  
 Notre Mère, a bien moins d'appas.  
 
-    CHŒUR
+    CHŒUR.
 Allons tous au-devant de ces Divinités,  
 Et rendons par nos chants hommage à leurs beautés.  
 
-    UN TRITON
+    UN TRITON.
 Quel noble spectacle s'avance !  
 Neptune le grand Dieu, Neptune avec sa Cour  
 Vient honorer ce beau jour  
 De son Auguste présence.  
 
-    CHŒUR
+    CHŒUR.
 Redoublons nos Concerts,  
 Et faisons retentir dans le vague des Airs  
 Notre réjouissance.  
@@ -111,26 +111,26 @@ Voguez sur cette Mer d'un zèle inébranlable,
 C'est le moyen d'avoir Neptune favorable.  
 
 
-## LE PREMIER ACTE de la Comédie
+## LE PREMIER ACTE de la Comédie.
 Qui se passe dans l'agréable solitude de la Vallée de Tempé.
 
 
 
-## SECOND INTERMÈDE
+## SECOND INTERMÈDE.
 La confidente de la jeune Princesse lui produit trois Danseurs, sous le nom de Pantomimes ; c'est-à-dire qui expriment par leurs gestes toutes sortes de choses. La Princesse les voit danser, et les reçoit à son service.
 
  – Trois Pantomimes.MM. Beauchamp, Saint-André, et Favier.
 
 
-## LE SECOND ACTE de la Comédie
+## LE SECOND ACTE de la Comédie.
 
 
-## TROISIÈME INTERMÈDE
+## TROISIÈME INTERMÈDE.
 Le Théâtre est une Forêt, où la Princesse est invitée d'aller, une Nymphe lui en fait les honneurs en chantant, et pour la divertir on lui joue une petite Comédie en Musique, dont voici le sujet : Un Berger se plaint à deux Bergers ses amis des froideurs de celle qu'il aime, les deux amis le consolent ; et comme la Bergère aimée arrive, tous trois se retirent pour l'observer, après quelque plainte amoureuse elle se repose sur un gazon, et s'abandonne aux douceurs du sommeil ; l'Amant fait approcher ses amis pour contempler les grâces de sa Bergère, et invite toutes choses à contribuer à son repos ; La Bergère en s'éveillant, voit son Berger à ses pieds, se plaint de sa poursuite : Mais considérant sa constance elle lui accorde sa demande, et content d'en être aimée en présence des deux Bergers amis : Deux Satyres arrivant se plaignent de son changement, et étant touchés de cette disgrâce, cherchent leur consolation dans le vin.
 
 
 
-### LES PERSONNAGES DE LA PASTORALE
+### LES PERSONNAGES DE LA PASTORALE.
  – La Nymphe de la Vallée de Tempé.Mlle Des-Fronteaux.
  – Tircis.M. Gaye.
  – Lycaste.M. Langez.
@@ -140,9 +140,9 @@ Le Théâtre est une Forêt, où la Princesse est invitée d'aller, une Nymphe l
  – 
 
 
-### PROLOGUE
+### PROLOGUE.
 
-    LA NYMPHE DE TEMPÉ
+    LA NYMPHE DE TEMPÉ.
 Venez grande Princesse avec tous vos appas,  
 Venez prêter vos yeux aux innocents ébats  
 Que notre désert vous présente ;  
@@ -151,9 +151,9 @@ On ne sent ici que l'amour,
 Ce n'est que d'amour qu'on y chante.  
 
 
-### SCÈNE PREMIÈRE
+### SCÈNE PREMIÈRE.
 
-    TIRCIS
+    TIRCIS.
 Vous chantez sous ces feuillages,  
 Doux rossignols pleins d'amour,  
 Et de vos tendres ramages  
@@ -163,83 +163,83 @@ Hélas ! petits oiseaux, hélas !
 Si vous aviez mes maux vous ne chanteriez pas.  
 
 
-### SCÈNE DEUXIÈME
+### SCÈNE DEUXIÈME.
 LICASTE, MÉNANDRE, TIRCIS.
 
 
-    LICASTE
+    LICASTE.
 Hé quoi toujours languissant, sombre, et triste ?  
 
-    MÉNANDRE
+    MÉNANDRE.
 Hé quoi toujours aux pleurs abandonné ?  
 
-    TIRCIS
+    TIRCIS.
 Toujours adorant Caliste,  
 Et toujours infortuné.  
 
-    LICASTE
+    LICASTE.
 Dompte, dompte, Berger, l'ennui qui te possède.  
 
-    TIRCIS
+    TIRCIS.
 Eh le moyen, hélas !  
 
-    MÉNANDRE
+    MÉNANDRE.
         Fais, fais-toi quelque effort.  
 
-    TIRCIS
+    TIRCIS.
 Eh, le moyen, hélas ! quand le mal est trop fort ?  
 
-    LICASTE
+    LICASTE.
 Ce mal trouvera son remède.  
 
-    TIRCIS
+    TIRCIS.
 Je ne guérirai qu'à ma mort.  
 
-    LICASTE, ET MÉNANDRE
+    LICASTE, ET MÉNANDRE.
 Ah Tircis !  
 
-    TIRCIS
+    TIRCIS.
     Ah Berger !  
 
-    LICASTE, ET MÉNANDRE
+    LICASTE, ET MÉNANDRE.
         Prends sur toi plus d'empire.  
 
-    TIRCIS
+    TIRCIS.
 Rien ne me peut plus secourir.  
 
-    LICASTE, ET MÉNANDRE
+    LICASTE, ET MÉNANDRE.
 C'est trop, c'est trop céder.  
 
-    TIRCIS
+    TIRCIS.
         C'est trop, c'est trop souffrir.  
 
-    LICASTE, ET MÉNANDRE
+    LICASTE, ET MÉNANDRE.
 Quelle faiblesse !  
 
-    TIRCIS
+    TIRCIS.
 Quel martyre !  
 
-    LICASTE, ET MÉNANDRE
+    LICASTE, ET MÉNANDRE.
 Il faut prendre courage.  
 
-    TIRCIS
+    TIRCIS.
         Il faut plutôt mourir.  
 
-    LICASTE
+    LICASTE.
 Il n'est point de Bergère  
 Si froide, et si sévère,  
 Dont la pressante ardeur  
 D'un cœur qui persévère  
 Ne vainque la froideur.  
 
-    MÉNANDRE
+    MÉNANDRE.
 Il est dans les affaires  
 Des amoureux mystères,  
 Certains petits moments  
 Qui changent les plus fières,  
 Et font d'heureux Amants.  
 
-    TIRCIS
+    TIRCIS.
 Je la vois, la cruelle,  
 Qui porte ici ses pas,  
 Gardon d'être vu d'elle,  
@@ -247,9 +247,9 @@ L'Ingrate, hélas !
 N'y viendrait pas.  
 
 
-### SCENE TROISIÈME
+### SCENE TROISIÈME.
 
-    CALISTE
+    CALISTE.
 
 Ah que sur notre cœur  
 La sévère Loi de l'honneur  
@@ -285,55 +285,55 @@ Nous n'avons point de Loi sévère
 Qui défende à nos sens d'en goûter la douceur.  
 
 
-### SCÈNE QUATRIÈME
+### SCÈNE QUATRIÈME.
 TIRCIS, LICASTE, MÉNANDRE.
 
 
-    TIRCIS
+    TIRCIS.
 Vers ma belle ennemie  
 Portons sans bruit nos pas,  
 Et ne réveillons pas  
 Sa rigueur endormie.  
 
-    TOUS TROIS
+    TOUS TROIS.
 Dormez, dormez beaux yeux, adorables vainqueurs  
 Et goûtez le repos que vous ôtez aux cœurs,  
 Dormez, dormez beaux yeux.  
 
-    TIRCIS
+    TIRCIS.
 Silence petits oiseaux,  
 Vents n'agitez nulle chose,  
 Coulez doucement ruisseaux,  
 C'est Caliste qui repose.  
 
-    TOUS TROIS
+    TOUS TROIS.
 Dormez, dormez beaux yeux, adorables vainqueurs,  
 Et goûtez le repos que vous ôtez aux cœurs.  
 Dormez, dormez beaux yeux.  
 
-    CALISTE
+    CALISTE.
 Ah quelle peine extrême !  
 Suivre partout mes pas.  
 
-    TIRCIS
+    TIRCIS.
 Que voulez-vous qu'on suive, hélas !  
 Que ce qu'on aime.  
 
-    CALISTE
+    CALISTE.
 Berger que voulez-vous ?  
 
-    TIRCIS
+    TIRCIS.
 Mourir belle Bergère,  
 Mourir à vos genoux,  
 Et finir ma misère.  
 Puisqu'en vain à vos pieds on me voit soupirer,  
 Il y faut expirer.  
 
-    CALISTE
+    CALISTE.
 Ah Tircis, ôtez-vous, j'ai peur que dans ce jour  
 La pitié dans mon cœur n'introduise l'amour.  
 
-    LICASTE, *et* MÉNANDRE, *l'un après l'autre.*
+    LICASTE, *et* MÉNANDRE, *l'un après l'autre.*.
 Soit par amour, soit pitié ;  
 Il sied bien d'être tendre ;  
 C'est par trop vous défendre  
@@ -342,55 +342,55 @@ Bergère, il faut se rendre
 Soit amour, soit pitié,  
 Il sied bien d'être tendre.  
 
-    CALISTE
+    CALISTE.
 C'est trop, c'est trop de rigueur,  
 J'ai maltraité votre ardeur  
 Chérissant votre personne,  
 Vengez-vous de mon cœur  
 Tircis, je vous le donne.  
 
-    TIRCIS
+    TIRCIS.
 Ô Ciel ! Berger ! Caliste ! ah je suis hors de moi !  
 Si l'on meurt de plaisir je dois perdre la vie.  
 
-    LICASTE
+    LICASTE.
 Digne prix de ta foi.  
 
-    MÉNANDRE
+    MÉNANDRE.
 Ô sort digne d'envie !  
 
 
-### SCÈNE CINQUIÈME
+### SCÈNE CINQUIÈME.
 DEUX SATYRES, TIRCIS, LICASTE, CALISTE.
 
 
-    PREMIER SATYRE
+    PREMIER SATYRE.
 Quoi tu me fuis ingrate, et je te vois ici  
 De ce Berger à moi faire une préférence ?  
 
-    DEUXIÈME SATYRE
+    DEUXIÈME SATYRE.
 Quoi mes soins n'ont rien pu sur ton indifférence,  
 Et pour ce Langoureux ton cœur s'est adouci ?  
 
-    CALISTE
+    CALISTE.
 Le destin le veut ainsi,  
 Prenez, tous deux patience.  
 
-    I*er*. SATYRE
+    I*er*. SATYRE.
 Aux aimants qu'on pousse à bout  
 L'amour fait verser des larmes :  
 Mais ce n'est pas notre goût,  
 Et la bouteille a des charmes  
 Qui nous consolent de tout.  
 
-    II*e*. SATYRE
+    II*e*. SATYRE.
 Notre amour n'a pas toujours  
 Tout le bonheur qu'il désire :  
 Mais nous avons un secours,  
 Et le bon vin nous fait rire  
 Quand on rit de nos amours.  
 
-    TOUS
+    TOUS.
 Champêtres Divinités,  
 Faunes, Dryades, sortez  
 De vos paisibles retraites ;  
@@ -401,59 +401,59 @@ En même temps six Dryades et six Faunes sortent de leurs demeures, et font ense
 
 
 
-### *DÉPIT AMOUREUX*
+### *DÉPIT AMOUREUX*.
 CLIMÈNE, PHILINTE.
 
 
-    PHILINTE
+    PHILINTE.
 Quand je plaisais à tes yeux  
 J'étais content de ma vie,  
 Et ne voyais Roi ni Dieux  
 Dont le sort me fit envie.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Lorsque tout autre personne  
 Me préférait ton ardeur,  
 J'aurais quitté la Couronne  
 Pour régner dessus ton cœur.  
 
-    PHILINTE
+    PHILINTE.
 Un autre a guéri mon âme  
 Des deux que j'avais pour toi.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Un autre a vengé ma flamme  
 Des faiblesses de ta foi.  
 
-    PHILINTE
+    PHILINTE.
 Cloris qu'on vante si fort,  
 Même d'une ardeur fidèle,  
 Si ses yeux voulaient ma mort  
 Je mourrais content pour elle.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Mirtil si digne d'envie,  
 Me chérit plus que le jour,  
 Et moi je perdrais la vie  
 Pour lui montrer mon amour.  
 
-    PHILINTE
+    PHILINTE.
 Mais si d'une douce ardeur  
 Quelque renaissante trace  
 Chassait Cloris de mon cœur  
 Pour te remettre en sa place.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Bien qu'avec pleine tendresse  
 Mirtil me puisse chérir,  
 Avec toi, je le confesse.  
 Je voudrais vivre et mourir.  
 
-    TOUS DEUX ENSEMBLE
+    TOUS DEUX ENSEMBLE.
 Ah plus que jamais aimons nous,  
 Et vivons et mourons en des liens si doux.  
 
-    TOUS LES ACTEURS
+    TOUS LES ACTEURS.
 de la Comédie chantent.
 
 
@@ -470,7 +470,7 @@ Sont aimables et belles, etc.
 Les Faunes et les Dryades recommencent leur danse, que les Bergères et Bergers Musiciens entremêlent de leurs Chansons, tandis que trois petites Dryades, et trois petits Faunes, font paraître dans l'enfoncement du Théâtre tout ce qui se passe sur le devant.
 
 
-    LES BERGERS, ET BERGÈRES
+    LES BERGERS, ET BERGÈRES.
 
 Jouissons, jouissons des plaisirs innocents  
 Dont les feux de l'Amour, savent charmer nos sens,  
@@ -494,28 +494,28 @@ Dont les feux de l'Amour, savent charmer nos sens,
  – Trois petits Faunes.Les Sieurs la Montagne, Daluseau, et Foignard.
 
 
-## LE TROISIÈME ACTE de la Comédie
+## LE TROISIÈME ACTE de la Comédie.
 
 
-## QUATRIÈME INTERMÈDE
+## QUATRIÈME INTERMÈDE.
 Le Théâtre représente une Grotte où les Princesses vont se promener, et dans le temps qu'elles y entrent huit Statues portant chacune un flambeau à la main, font une danse variée de plusieurs belles attitudes, où elles demeurent par intervalles.
 
  – Huit Statues.MM. Dolivet, le Chantre, Saint-André, Magny, Lestang, Foignard l'aîné, Dolivet fils, et Foignard le cadet.
 
 
-## LE QUATRIÈME ACTE de la Comédie
+## LE QUATRIÈME ACTE de la Comédie.
 
 
-## CINQUIÈME INTERMÈDE
+## CINQUIÈME INTERMÈDE.
 Quatre Pantomimes pour épreuve de leur adresse, ajustent leurs gestes et leurs pas aux inquiétudes de la jeune Princesse.
 
  – Quatre Pantomimes.MM. Dolivet, le Chantre, Saint-André, et Magny.
 
 
-## LE CINQUIÈME ACTE de la Comédie
+## LE CINQUIÈME ACTE de la Comédie.
 
 
-## SIXIÈME INTERMÈDE,
+## SIXIÈME INTERMÈDE,.
 Qui est la solennité des Jeux Pythiens.
 
 Le Théâtre est une grande Salle en manière d'Amphithéâtre ouverte d'une grande Arcade, dans le fond au dessus de laquelle est une Tribune fermée d'une rideau, et dans l'éloignement paraît un Autel pour le Sacrifice. Six hommes presque nus portant chacun une hache sur l'épaule, comme Ministres du Sacrifice, entrent par le Portique au son des Violons, et sont suivis de deux Sacrificateurs Musiciens, et d'une Prêtresse Musicienne.
@@ -523,26 +523,26 @@ Le Théâtre est une grande Salle en manière d'Amphithéâtre ouverte d'une gra
  – La Prêtresse.Mlle Hilaire.
  – Deux Sacrificateurs.MM. Gaye, et Langez.
 
-    LA PRÊTRESSE
+    LA PRÊTRESSE.
 Chantez, peuples, chantez en mille et mille lieux  
 Du Dieu que nous servons les brillantes merveilles,  
 Parcourez la Terre et les Cieux,  
 Vous ne sauriez chanter rien de plus précieux,  
 Rien de plus doux pour les oreilles.  
 
-    UNE GRECQUE
+    UNE GRECQUE.
 À ce Dieu plein de force, à ce Dieu plein d'appas,  
 Il n'est rien qui résiste.  
 
-    AUTRE GRECQUE
+    AUTRE GRECQUE.
 Il n'est rien ici bas  
 Qui par ses bienfaits ne subsiste.  
 
-    AUTRE GRECQUE
+    AUTRE GRECQUE.
 Toute la Terre est triste  
 Quand on ne la voit pas.  
 
-    LE CHŒUR
+    LE CHŒUR.
 Poussons à sa Mémoire  
 Des concerts si touchants,  
 Que du haut de sa gloire  
@@ -563,7 +563,7 @@ La Tribune s'ouvre, un Héros, six Trompettes et un Timbalier se mêlant à tous
  – Six Trompettes.Les Sieurs la Plaine, Lorange, du Clos, Beaupré, Carbonnet, et Ferrier.
  – Un Timbalier.Le Sieur Daicre.
 
-    LE CHŒUR
+    LE CHŒUR.
 
 Ouvrons sous nos yeux  
 À l'éclat suprême  
@@ -579,7 +579,7 @@ Apollon au bruit des Trompettes et des Violons entre par le Portique, précédé
  – Six jeunes Gens,M. le Grand, Le Marquis de Villeroy, Le Marquis de Rassent, MM. Beauchamp, Raynal, et Favier.
  – Chœur de Musique.MM. le Gros, Hedouin, Estival, Don, Beaumont, Bony, Gingan l'aîné, Fernon l'aîné, Fernon le cadet, Rebel, Gingan le cadet, Deschamps, Morel, Aurat, David, Devellois, Serignan, et quatre Pages de la Musique de la Chapelle, et deux de la Chambre.
 
-    [SOLEIL]
+    [SOLEIL].
 POUR LE ROI, Représentant le SOLEIL.
 
 

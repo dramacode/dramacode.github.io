@@ -26,7 +26,7 @@ En parallèle se met en place une intrigue amoureuse entre le fils du Sultan et 
 Mais un retournement de situation inespéré et une reconnaissance insoupçonnée vient bouleverser le sort tragique de Mustapha et de Persine.
 
 
-# Charles Vion d'Alibray : un auteur oublié
+# Charles Vion d'Alibray : un auteur oublié.
 
 Les informations biographiques sur la vie de Charles Vion d'Alibray (aussi reconnu et graphié sous le nom Vion Dalibray) sont peu nombreuses et la chronologie de sa vie assez floue. Même si l'auteur dans ses vers se peint avec fidélité et nous permet de connaître le milieu dans lequel il évolue, nous ne disposons pas de témoignages précis sur sa vie.
 
@@ -48,7 +48,7 @@ Mais si j'aymay tes vers, j'aymay mieux ta franchise. [10]
 Bien que totalement méconnu à notre époque, d'Alibray semble pourtant posséder une place non négligeable parmi les poètes et les dramaturges du xvii*e* siècle. Nous allons tenter de montrer son intérêt et sa place dans l'histoire de la littérature française.
 
 
-## Un poète de cabaret
+## Un poète de cabaret.
 
 Malgré son titre d'écuyer, Charles Vion d'Alibray fit le choix de vivre modestement. Passionné d'art, il appartenait au monde libertin et fréquentait les cabarets. Il logea d'abord dans une chambre bruyante à *L'auberge du faubourg* près de la Foire Saint Germain qu'il quitta ensuite pour se rendre au *Bel Air* mais aussi au *Riche Laboureur* [11]. Il y côtoya de grands auteurs comme Faret et Saint Amant ce que confirme Vaugelas lorsqu'il rappelle que « les trois hommes se retrouvaient souvent au cabaret dont ont dit qu'ils y cherchaient une inspiration joyeuse ».
 
@@ -84,7 +84,7 @@ D'Alibray appréciait aussi l'esthétique de l'épigramme et écrivit à la suit
 Notre auteur mena donc une vie légère, pleine de plaisir. D'ailleurs, selon les critiques, on trouve dans ses *Œuvres poétiques* des vers amoraux dans des pages profanes qui n'ont pas été massicotées. Il écrivit aussi des poèmes mis en musique [31] mais nous pouvons être surprise par les « vers moraux et chrestiens » qui clôturent son recueil. D'Alibray qui est mort l'année de la publication de cette dernière œuvre semble donc, durant les années de sa vie, avoir changé d'opinions et de mode de vie.
 
 
-## Un dramaturge de talent
+## Un dramaturge de talent.
 
 Mais d'Alibray ne s'est pas contenté du genre poétique, il s'est aussi passionné pour le théâtre. L'ensemble de son œuvre théâtrale compte surtout de multiples traductions et adaptations de textes italien [32]. Ses réflexions sur la difficulté d'une bonne traduction et sur le peu de reconnaissance du traducteur ainsi que ses développements théoriques, critiques et stylistiques, que l'on peut trouver dans l'avis Au Lecteur de *L'Aminte* et du *Torrismon* [33] ont grandement intéressé ses contemporains. Nous pouvons ajouter à ces textes l'avis Au Lecteur du *Soliman* [34] qui vient particulièrement compléter celui du *Torrismon*. L'auteur qui préférait la clarté de la pensée au travail des vers y critique le style enflé et les pointes [35]. Il revient aussi sur le statut de traducteur [36] ainsi que sur la place du théâtre dans la littérature. Sur ce dernier point qui nous intéresse plus particulièrement, il faut noter l'importance que donne d'Alibray à la lecture du texte théâtral.
 
@@ -130,7 +130,7 @@ Si je meurs (et cecy doi-je bien plustot croire)
 Je me consoleray de mourir avec toy. [41]  
 
 
-# Circonstances de création et de publication : la querelle avec Mairet
+# Circonstances de création et de publication : la querelle avec Mairet.
 
 *Le Soliman* de Bonarelli (1619) a été traduit par deux auteurs français. D'Alibray, en 1637, est le premier à publier anonymement, cette tragédie italienne à succès. Deux ans plus tard, Mairet « habille à son tour à la française » une tragédie intitulée *Le Grand et dernier Solyman ou la mort de Mustapha*. Il précise dans son avis Au Lecteur que « *le Solyman* qu'on a mit en lumière il y a deux ans n'est point de lui » et annonce ironiquement que l'auteur du premier *Soliman* est « plus honnête homme et avancé dans le Parnasse » que lui.
 
@@ -185,10 +185,10 @@ Le *Solyman* de Mairet n'a cependant connu qu'une seule édition ce qui prouve s
 À l'inverse, il reste encore aujourd'hui à la Bibliothèque nationale de France, un certain nombre d'exemplaires de la pièce de d'Alibray qui a été rééditée en 1642 [62]. Dès lors, même si l'on ignore quel accueil le public a réservé au *Soliman* de notre auteur, les lecteurs semblent l'avoir apprécié; les admirateurs de d'Alibray savaient probablement que l'auteur préférait la lecture de ses pièces à leur représentation [63].
 
 
-# Les sources
+# Les sources.
 
 
-## Les sources historiques
+## Les sources historiques.
 
 À partir des années 1620 et jusqu'au xviii*e* siècle, la culture occidentale et plus spécifiquement en ce qui nous concerne, le théâtre, se tournent vers l'Orient. C'est alors que de Venise se déploie une imagerie du despote oriental et de l'Empire ottoman qui s'appuie sur la prise de Constantinople par les Turcs en 1453. Cette imagerie se nourrit aussi des nombreuses campagnes guerrières du peuple turc et particulièrement des affrontements avec l'Occident chrétien.
 
@@ -214,7 +214,7 @@ De surcroît, les pièces à sujets turcs permettent aux dramaturges de nourrir 
 Nous pouvons donc dire à la suite de Michèle Longino que « figurativement et littéralement, l'Orient est un espace de théâtre » [76], probablement en raison de la démesure et de la violence qui y règnent. Il s'agit donc d'un lieu qui peut être représenté dans une visée morale et cathartique.
 
 
-## *Le Soliman* de Bonarelli
+## *Le Soliman* de Bonarelli.
 
 *Il Solimano* de Bonarelli représente sur scène les complots machiavéliques de Rustan et de Roxelane qui s'appuient sur la *libido dominandi* du sultan afin de faire périr Mustapha. C'est en effet cette passion du pouvoir et la peur d'être détrôné qui conduit le sultan à condamner injustement son fils. Lancaster considère que les deux pièces adaptées du *Soliman* italien s'inspirent historiquement de la mort de Mustapha exécuté par Soliman II en 1533. Autour de cet événement les dramaturges ont brodé deux motifs romantiques, l'amour entre Persine et Mustapha et l'échange d'enfants entre Roxelane et Circasse [77].
 
@@ -275,14 +275,14 @@ Dans son second *Discours*, Bonarelli précise qu'Alep est une ville fort éloig
 Quoiqu'il en soit, le pari de Bonarelli est réussi puisqu'il semble que sa pièce ait connu un fort succès. C'est avec l'art d'un vrai Poète qu'il a fait de son Soliman une tragédie complexe à reconnaissance. Les ressorts de la catharsis y sont mis en place afin que le spectateur tremble pour Mustapha et ait pitié de Soliman. Par la perte de son fils et le suicide de sa femme, qui découvre trop tardivement que le jeune prince est bien son fils et non celui de Circasse, le sultan connait un véritable changement de fortune et doit être considéré comme le vrai héros de la pièce. Son destin horrible est d'ailleurs le sujet de la morale d'Acmat à la fin de l'acte v.
 
 
-## *LeSoliman* « habillé à la française »
+## *LeSoliman* « habillé à la française ».
 
 Puisque Mairet et d'Alibray ont tous les deux traduit la pièce de Bonarellie et l'ont adapté adapté aux règles dramaturgiques françaises, il nous a paru intéressant de mettre leur pièce en parallèle.
 
 Nous avons numéroté les scènes de chacune des deux pièces en indiquant, selon les conventions le numéro de l'acte en chiffre romain (I, II, III, IV, V) suivi de celui de la scène. Les actes et scènes correspondant à la pièce de d'Alibray sont indiqués en gras et ceux de la pièce de Mairet en italique. Afin que le parallèle entre les deux pièces soit mis en évidence, nous avons pris soin d'indiquer après chaque résumé de scène la concordance avec la pièce concurrente (par exemple : // **I, 5** ou *II, 3*…).
 
 
-## Résumés des deux pièces
+## Résumés des deux pièces.
 D'ALIBRAY | MAIRET
 **I, 1** Soliman, roi des Turcs est arrivé à Alep et poursuit avec succès la guerre contre les Perses. Il attend son fils Mustapha qui revient d'Amasie où il a combattu l'ennemi. Acmat apparaît comme un fervent admirateur de Soliman et le gendre du sultan, Rustan, propose son aide pour vaincre une fois pour toutes les Perses. Dés cette première scène la tension entre Acmat et Rustan est palpable. « Le propre d'un guerrier c'est d'agir et de se taire ». Cet embryon de querelle est interrompu par Soliman. Rustan, en aparté confère une menace de mort contre Mustapha et s'en va retrouver la Reine. //I, 3 | I, 1 Roxelane se confie à Hermine. Après un bref rappel de son passé d'esclave au sérail de Soliman, la Reine avoue à Hermine qu'elle avait échangé son premier né avec un enfant mort, puisque Circasse, une autre femme de Soliman, avait accouché un jour avant elle. Craignant, que sa rivale ne fasse tuer son enfant elle préféra le faire passer pour mort. Mustapha est donc présenté comme le fils de Circasse et Soliman. Son courage et sa fureur guerrière annonce qu'il sera probablement le successeur de son père. Roxelane craint donc pour son fils cadet Selim. (En Turquie, pour éviter les combats et les conflits pour le trône, le fils qui arrive au pouvoir avait pour habitude d'opérer un fratricide. Ce principe a été entériné par un décret de Mehmed II). // Révélation Reine V, 3
 **I, 2** Osman vient annoncer à Soliman l'arrivée de Mustapha et loue ses mérites. Les vertus du fils sont rattachées par Acmat à celles du père. Il suggère à Soliman d'aller accueillir son fils et ses soldats au camp. Sur les ordres du sultan, Osman part avertir Rustan du retour de Mustapha. La scène se clôture par une réplique d'Osman qui fait écho à la didascalie du début de la scène « Osman estoit du parti de Rustan, et loue Mustapha pour le rendre suspect à Soliman » / « (…) un vieux Roy, de son fils, hait la trop grande estime. ». Une machination menée par Rustan semble donc se tramer autour de la personne de Mustapha. | I, 2 Alvante incite Despine, déguisée en espion de Perse, à quitter le pays. Celle-ci refuse et avoue son amour pour Mustapha qui dure depuis deux ans. Pour Alvante cet amour est une trahison, mais face à la constance de Despine il consent à rester même si pour lui ces liensamoureux sont présages de malheur. // I, 3
@@ -325,7 +325,7 @@ D'ALIBRAY | MAIRET
 
 
 
-## Comparaison formelle des pièces
+## Comparaison formelle des pièces.
 
 La comparaison formelle des pièces permet de mettre en évidence les différences entre *Le Soliman* italien et les deux pièces « habillées à la française » par Mairet et d'Alibray. Si les deux auteurs ont transposé *Il Solimano* en alexandrins ils se sont aussi engagés par des partis pris esthétiques et dramaturgiques.
 
@@ -351,7 +351,7 @@ D'Alibray est celui qui semble rester le plus fidèle à la traduction de Bonare
 Le goût de l'action chez Mairet est marqué par les multiples entrées et sorties des personnages et par la division des scènes. Sa pièce constituée de 35 scènes, use de nombreuses ruptures de scènes laissant alors l'espace scénique vide [105]. Cependant Mairet ne va que rarement à l'encontre des règles classiques puisque « l'absence de liaison en dehors des fins d'actes, est en rapport si étroit avec le changement de lieu que, pour un classique, l'un implique l'autre » [106] et d'ailleurs Chapelain en 1635 énonce que « Quelques uns ont désiré que les scènes de chaque acte fussent liées les unes avec les autres, et il est vrai que cela fait beauté et que par ce moyen la scène n'est jamais vide, mais cela n'est point nécessaire » [107].
 
 
-## Comparaison des choix de composition dramaturgique
+## Comparaison des choix de composition dramaturgique.
 
 D'Alibray a transformé la tragédie de Bonarelli en tragi-comédie. Il faut souligner que pour lui la simple modification d'un dénouement funeste par un dénouement heureux, permet de modifier la catégorie dramaturgique de la pièce. Notre auteur rapproche donc lui même sa pièce d'une tragédie à fin heureuse dans son avis Au Lecteur : « C'est à dire qu'au lieu d'une Tragédie pure, nous en faisons une meslée, que nous nommons Tragi-Comédie, (car les anciens n'y mettoient point de différence) ainsi je l'ay pratiqué en ramenant par une heureuse reconnoissance, Mustapha, presque de la mort à la vie. ». Il avait d'ailleurs déjà fait ce choix esthétique dans *Le Torrismon* et se justifiait ainsi :
 
@@ -379,13 +379,13 @@ Comme Lucrèce qui parlait de la poésie comme d'un miel qui permet l'absorption
 Mairet modifie quelque peu le dénouement de la pièce italienne en se servant, lui aussi, de cette imagerie. Il met l'accent sur la violence et l'ironie (qui deviendra une ironie tragique) du despote oriental en multipliant les faux espoirs envers les deux amants, ce qui est d'ailleurs un des ressorts de la tragi-comédie. Le dénouement de Bonarelli, lui, sacrifiait davantage à « l'esprit horrifique qui traverse la tragédie à la charnière du xvi*e* et du xvii*e* siècle » [120] puisque à la fin de l'acte v, la tête coupée de Despina continue à s'exprimer de manière macabre.
 
 
-# Étude dramaturgique du Soliman de d'Alibray
+# Étude dramaturgique du Soliman de d'Alibray.
 
 
-## Une pièce classique et régulière
+## Une pièce classique et régulière.
 
 
-### La structure interne de la pièce
+### La structure interne de la pièce.
 
 Dans les années 1630, la tragi-comédie, connue pour sa modernité et son irrégularité semble se plier de plus en plus aux normes classiques. C'est ce que nous pouvons déjà constater dans le *Clitandre* de Corneille (1632) puis dans *Le Cid* (1637). Pour Lancaster notre pièce prend en considération les règles classiques et se conforme aux trois unités imposées par Richelieu en 1630 [121]. À première vue déjà, nous remarquons que d'Alibray a transposé la pièce italienne, selon les convenances françaises, en alexandrins, vers noble par excellence et que notre auteur refuse l'hétérométrie.
 
@@ -435,7 +435,7 @@ j'ay changé la reconnoissance de Mustapha doublement, et en sa cause et en son 
 Le dénouement de la pièce est inattendu puisqu'il est le résultat d'une péripétie (aussi appelé coup de théâtre) qui provoque la surprise du spectateur et « produit la merveille » [136] D'Alibray transforme donc *Le Soliman* de Bonarelli en une « tragédie » complexe à reconnaissance et c'est ce qui constitue selon Heinsius « la seule Fable qui soit absolument parfaite » [137]. Nous constatons cependant que notre auteur s'éloigne d'Aristote en procédant à une reconnaissance par signe [138]. En effet la Reine reconnaît Mustapha comme son fils uniquement quand Ormène lui assure avoir vu sur son corps une cicatrice en « forme de Croissant » à la scène 3 de l'acte v (vers 1414-1417). Toutefois, ce signe n'est pas montré sur le théâtre ce qui contribue à redonner un peu de dignité à la scène puisqu'Aristote préfère les reconnaissances qui « naissent d'une péripétie » aux « reconnaissances obtenues à titre de preuve » [139] qui apportent à la pièce une dimension encore plus spectaculaire.
 
 
-### La figure du héros
+### La figure du héros.
 
 Nous pouvons nous demander quel personnage incarne au mieux dans cette pièce la figure du héros. Selon Jacques Scherer « Le héros classique est jeune ; …. D'autres prestiges s'ajoutent à ceux- là : … le héros de théâtre doit briller par son courage et sa noblesse » [140]. Si Mustapha comme son père semblent posséder ces deux dernières qualités, le fils du sultan est favorisé par la vigueur de l'âge  :
 
@@ -464,12 +464,12 @@ Mustapha illustre avec brio le courage et la noblesse de cœur associés à la n
 Soliman est le personnage qui occupe le plus l'espace scénique tandis que Mustapha est davantage un personnage absent dont on parle. Si l'abbé d'Aubignac considère que « les principaux personnages doivent apparaître le plus souvent et demeurer le plus longtemps qu'il est possible sur le théâtre » [144], Jacques Scherer rappelle qu'en ce qui concerne le héros on trouve deux situations : « la première consiste à le montrer tout le temps, ou du moins le plus souvent possible, à prodiguer sa présence, la seconde, plus subtile, consiste à ménager les apparitions du héros, à ne le faire paraître que rarement, en utilisant le reste du temps à parler de lui ou de ses desseins, pour mieux préparer les scènes où il figure » [145]. Même si le titre de la pièce suggère que Soliman est le héros, nous pouvons facilement considérer que cette pièce en comporte deux, dans le sens où le fils assume les qualités royales que le Père ne peut avoir et inversement. Les deux personnages illustrent chacun des conflits intérieurs et des passions différentes, qui sont par ailleurs les vrais obstacles de la pièce [146].
 
 
-## La question du genre
+## La question du genre.
 
 Le respect des trois unités de la dramaturgie classique nous invite à nous interroger sur le genre même de notre pièce. La tragi-comédie est un genre théâtral qui pose certains problèmes de définition. Nous pouvons donc la considérer comme un genre souple et irrégulier. Certains considèrent qu'il faut y mêler les plus beaux éléments de la tragédie et de la comédie, pour Ogier, la tragi-comédie met en scènes « tantôt des affaires sérieuses, importantes et tragiques et incontinent après des choses communes, vaines et comiques » mais pour d'autres critiques ou dramaturges, tel que notre auteur, la tragi-comédie n'est rien d'autre qu'une tragédie à fin heureuse. Nous allons donc essayer de voir dans quelles mesures notre pièce doit se rattacher à l'une ou l'autre de ces définitions.
 
 
-### Les différentes formes de tragique dans la tragi-comédie
+### Les différentes formes de tragique dans la tragi-comédie.
 
 Si d'Alibray parle de sa pièce comme une tragédie à fin heureuse c'est qu'il a bien conscience d'utiliser une trame dramaturgique à tonalité tragique.
 
@@ -542,7 +542,7 @@ Elle semble avoir des remords de ne pas avoir cru son amant fidèle. Puisque sa 
 Toutefois, même si la constitution du *Soliman* de d'Alibray apparaît comme régulière et que notre auteur a su laisser dans sa pièce une large place aux différentes formes de tragiques, il a souvent recours aux procédés tragi-comiques afin de divertir ses spectateurs et plaire à son public.
 
 
-### Les ressorts de la tragi-comédie
+### Les ressorts de la tragi-comédie.
 
 D'Alibray reprend à son compte un certain nombre de topos tragi-comiques de manière plus ou moins visibles dans sa pièce.
 
@@ -661,12 +661,12 @@ Enfin, force est de constater que la définition du drame romantique selon Victo
 On le voit ; le drame tient de la tragédie par la peinture des passions, et de la comédie par la peinture des caractères. Le drame est la troisième grande forme de l'art, comprenant, enserrant et fécondant les deux premières. … De cette façon les deux électricités opposées de la comédie et de la tragédie se rencontrent et l'étincelle qui en jaillit, c'est le drame.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Le texte a été établi à partir de la première édition du *Solyman* de Charles Vion d'Alibray, achevé d'imprimer en 1637 chez Toussainct Quinet à Paris et plus spécifiquement à partir de l'exemplaire de la salle de réserve de la Bibliothèque de la Sorbonne : RRA8 = 422
 
 
-## Description
+## Description.
 
 I LE/SOLIMAN/TRAGI-COMEDIE / vignette : armoiries de France / À PARIS, / Chez TOUSSAINCT QUINET, Au Palais, dans la/ petite salle, sous la montee de la Cour des Aydes./ M.DC.XXXVII/ AVEC LE PRIVILEGE DU ROY.
 
@@ -679,7 +679,7 @@ XXX : Les acteurs
 pages 1 à 112 : Texte de la pièce, précédé à partir de la page 2, à chaque double page du titre suivant « Le Soliman, Tragi-Comédie. ». La première partie du titre se trouve sur les pages paires et la seconde sur les pages impaires.
 
 
-## Autres exemplaires consultés
+## Autres exemplaires consultés.
  * – **4Ê10918-1/1** (Bibliothèque Mazarine) : Le texte du *Soliman* est inclus dans un recueil collectif factice ayant appartenu à Nicolas Joseph Foucault. Cette indication est donnée par les armoiries présentes à la première page du recueil, mentionnant « Ex Bibliotheca Nicolai Joseph Foucault comitis consistoriani ». Nicolas Joseph Foucault (1643-1715) laissa des mémoires qui éclairent sur le rôle de l'intendant, statut qu'il avait acquis sous le règne de Louis xiv. L'ouvrage semble, d'après l'*ex libris*, « A mon ami le duc de Penthièvre », avoir été offert ou dédié à Louis-Jean-Marie de Bourbon (1725-1793) ou à son père Louis Alexandre de Bourbon (1678-1737), fils de Louis XIV et de Madame de Montespan. Même si les dates peuvent laisser croire qu'il aurait d'avantage appartenu à Louis-Alexandre, les conservateurs de la bibliothèque reconnaissent sur la reliure du recueil les armes de Louis-Jean-Marie de Bourbon.
 
 Le texte possède un *ex libris* indiquant « par Bonarelli traduite et imitée par D'Alibray ». L'avis « Au Lecteur » et la liste des personnages sont postposés au texte.
@@ -719,7 +719,7 @@ La seconde édition date de 1642.
 Notre texte a été imprimé par Denis Houssaye [181].
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Le texte a été établi à partir de l'édition mentionnée. Cependant des modifications d'usage ont été établies afin d'en faciliter la compréhension :
  * – Conformément aux codes typographiques actuels nous avons transposé le texte de notre pièce, écrit en italique, en caractères romains. Les vers 815 à 818 dans lesquels Soliman lit la lettre que vient de lui apporter Mustapha sont eux, à l'inverse, en italique dans notre édition.
@@ -732,7 +732,7 @@ Le texte a été établi à partir de l'édition mentionnée. Cependant des modi
 Une astérisque ⁎ est utilisée pour signaler les mots expliqués dans le glossaire.
 
 
-## Les graphèmes étymologiques
+## Les graphèmes étymologiques.
 
 Il ne se prononcent pas. Leur rôle est de rappeler l'étymon savant du mot. La liste suivante contient les occurrences les plus remarquables du texte :
 
@@ -771,7 +771,7 @@ pretieux< pretiosus
 On trouve aussi un cas de fausse étymologie avec : *sçavoir*, qui a été associé à *scire*. Cependant les historiens de la langue ont prouvé que savoir provenait du latin *sapere*. Cette erreur est courante.
 
 
-## Orthographe, graphie et prononciation
+## Orthographe, graphie et prononciation.
  * – Le e fermé est signalé de différentes façons :
  * – par un /s/ diacritique dans la syllabe initiale. Le /s/ est la plupart du temps aussi étymologique. (*estoit<esse)*
  * – par un/z/: ancienne notation de l'affriquée /ts/ réduite à /s/ au XIII*e* siècle : il s'agit donc d'une graphie historique *(enflammez, entrecoupez…)*
@@ -799,7 +799,7 @@ Lors de la fixation des règles d'orthographe, le français moderne a remis en p
  * – Le doublet Reyne/ Reine peut éventuellement s'expliquer par l'importance des lettres ornementales de la calligraphie au xvii*e* siècle. On abuse en effet souvent du /y/ à la place du /i/. Le /y/ est de plus souvent considéré comme une lettre provenant de la langue savante puisqu'il était courant dans les mots grecs.
 
 
-## La ponctuation
+## La ponctuation.
 
 Dans les éditions théâtrales du xvii*e* siècle, on remarque une certaine dichotomie entre la ponctuation syntaxique et la ponctuation comme indice de déclamation pour le comédien.
 
@@ -814,7 +814,7 @@ Après avoir expliqué ceci, il semble que cela n'empêche pas la bonne compréh
 v. 109 : *A suivy jusqu'icy vos desseins genereux.--> A suivy jusqu'icy vos desseins genereux*,
 
 
-## Coquilles
+## Coquilles.
 
 La version corrigée se trouve dans notre texte
 
@@ -828,7 +828,7 @@ Coquille récurrente à signaler dans les autres exemplaires : Liste des Acteur
 # LE SOLIMAN TRAGI-COMEDIE.
 
 
-## AU LECTEUR
+## AU LECTEUR.
 
 Je n'ay pas voulu (LECTEUR) faire deux presens d'une mesme chose, ny redonner à un particulier ce que j'avois desja donné au public: Les Anciens n'ont point affecté de dédier leurs Comédies à personne, et c'est soubs l'authorité des Grands la liberté de nos sentimens, qui naturellement ne reconnoissent point d'autre juridiction que celle de la Raison ; Joint que cela me semble d'autant plus à éviter, qu'il peut estre mal interpreté, et qu'encore que d'ordinaire on n'ait dessein que de payer ce que l'on doibt au merite et à la vertu ; neanmoins par je ne sçay quel malheur qui fait que l'on pense bassement des personnes moindres, on se figure tousjours [182] que celuy qui donne à un plus grand que soy, a plus d'envie de demander que de rendre : Delà vient qu'en de pareilles rencontres, on ne feint point de comparer quelques Poëtes à cét Erisicthon [183] dont il est parlé dans leurs Fables, qui vendoit et revendoit sa fille pour subvenir à sa necessité ; Et quoy que j'aye trop bonne opinion de ceux du métier pour en croire cette lascheté, et que je n'ignore pas que Pegase est peint aislé, afin de nous apprendre qu'ils mesprisent la terre, et qu'avec cela c'est un animal noble et fougueux qui ne souffre personne sur son dos ; j'ay pourtant trouvé plus à propos de ne prendre pour protecteur de cet ouvrage, que le mesme peuple que j'avois choisi pour en estre le Juge ; Et certes avec raison, puisque comme il a les deux qualitez necessaires pour bien juger, qui sont de ne se servir point du jugement d'un seul, ny de n'estre pas prevenu d'aucune affection ou connoissance en particulier, qui fasse qu'aymant comme sien ce qu'il void, il se l'approche de trop près, et ne luy laisse pas la distance requise pour le discerner exactement ; aussi a-t'il d'autant plus de force en sa deffense qu'elle n'est appuyé que sur sa justice et sur l'équité mesme. Mais tout ainsi qu'il ne suffit pas d'avoir ouy simplement un fait, pour prononcer [184] dessus, et qu'il faut encore estre instruit de toutes ses circonstances : De mesme je ne pense pas qu'on doive rien determiner absolument touchant de cette Tragi-Comedie sans avoir esté auparavant pleinement informé des raisons de chaque chose ; C'est à quoy j'ay dessein de travailler icy, tant pour fortifier l'advis de ceux qui l'ont approuvée, qu'afin de resoudre les doutes de ceux qui y auroient trouvé à redire. Que ces derniers seulement ne se rebutent pas de sa lecture, car outre que les fautes qui se comprennent simplement par nostre entendement, comme alors qu'on lit, ne nous offensent pas tant à beaucoup prés, que celles qui tombent soubs nos yeux, ainsi qu'il arrive dans une representation ; la veuë du corps estant en cela semblable à ces vapeurs espaisses qui font que les objets⁎ apparoissent plus grossiers, j'espere encore les satisfaire si bien, qu'ils reviendront de mon costé, et qu'ils avoüeront qu'en ce qui regarde les jugemens particuliers, la fortune⁎ regne quelquefois autant sur le succez des pieces de Theatre, que dans les evenemens mesmes qui nous y font representez. Toutesfois devant⁎ que commencer, je priray ceux que sont generalement ennemis des Prefaces, qui les croyent toutes inutiles, et tousjours la mesme chose, et seulement propres à rencherir les livres, de ne point passer plus outre en la lecture de celle-cy, car je ne doute point qu'elle ne leur fust ennuyeuse ; et quant aux autres, je les suppliray de m'accorder la patience qu'il faut pour m'ouyr rendre raison de mon travail, et examiner tant ce qui a esté inventé que ce qui a esté changé dans l'histoire par nostre Autheur et par moy, et je leur promets de le faire le plus briesvement qu'il me sera possible.
 
@@ -887,7 +887,7 @@ Achevé d'imprimer le 30. Juin 1637
 Et ledit sieur Dalibray a cedé et transporté le present Privilège à Toussainct Quinet Marchand Libraire, pour jouyr du contenu porté par iceluy, ainsi qu'il a esté accordé entre-eux
 
 
-## LES ACTEURS
+## LES ACTEURS.
  – SOLIMAN.Roy de Thrace.
  – RUSTAN.Gendre de Soliman.
  – ACMAT.Conseiller.
@@ -908,7 +908,7 @@ La Scene est en Alep, ville de Syrie
  
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
 ### SCENE PREMIERE.
@@ -962,7 +962,7 @@ Je connois le merite et la valeur de tous.
 Mais allons, que du camp la place soit choisie,  
 Attendant que mon fils arrive d'Amasie [262].  
 
-    RUSTAN *tout bas.* [263]
+    RUSTAN *tout bas.* [263].
 Que puisse-t'il plustot estre privé du jour,  
 Seigneur, la Reyne attend que je sois de retour,  
 Je la vay retreuver⁎ si j'en obtiens licence [264].  
@@ -1048,7 +1048,7 @@ Qu'un vieux Roy, de son fils, hait la trop grande estime. [274]
 PERSINE, ALVANTE.
 
 
-    PERSINE
+    PERSINE.
 D'où l'as-tu donc appris ?  
 
     ALVANTE.
@@ -1205,7 +1205,7 @@ On vient. Fuyons ; le Ciel releve ta vertu [290] !
 Helas de trop d'ennuys⁎ mon cœur est abbatu.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 LA REINE. SELINE.
 
 
@@ -1271,7 +1271,7 @@ De destourner ce mal, et de vous et de luy.
 Donc pour y parvenir, usez d'art⁎ et de ruse,  
 Pour vivre, et pour regner, tout se fait, tout s'excuse.  
 
-    LA REINE
+    LA REINE.
 Je te croiray, Seline, et veux dés aujourd'huy,  
 Commencer à le perdre, et me tirer d'ennuy⁎.  
 Fin du premier Acte. 
@@ -1338,7 +1338,7 @@ Je vais exprés au Temple en conjurer les Cieux.
 Aille apres⁎ qui voudra : demeure, Osman, demeure.  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 RUSTAN, OSMAN.
 
 
@@ -1474,7 +1474,7 @@ C'est le meilleur moyen que nous puissions tenir.
 Allons donc le treuver⁎ : mais le voicy venir.  
 
 
-### SCENE QUATRIESME. [306]
+### SCENE QUATRIESME. [306].
 LA REINE, SOLDATS, SELINE, SOLIMAN, RUSTAN.
 
 
@@ -1674,7 +1674,7 @@ Qu'on ne sçauroit trop tost prevoir à [315] son dommage.
     SOLIMAN.
 C'est assez dit, Allons.  
 
-    RUSTAN *tout bas à la Reyne.*
+    RUSTAN *tout bas à la Reyne.*.
         Prenons, prenons courage.  
 
 
@@ -1686,7 +1686,7 @@ PERSINE. ALVANTE.
 Alvante est donc enfin émeu par mes discours  
 Et prend compassion de mes tristes amours.  
 
-    ALVANTE *tout bas ces deux vers seulement*
+    ALVANTE *tout bas ces deux vers seulement*.
 Pour guerir un amant⁎ de sa melancolie,  
 Il faut faire semblant d'approuver sa folie.  
 Ouy, je me sens vaincu ; Qui pourroit resister  
@@ -1762,7 +1762,7 @@ Or entends⁎ maintenant comme elle prit croissance :
 Et puis tu jugeras par quel heureux chemin  
 Elle doit desormais parvenir à sa fin.  
 
-    ALVANTE 
+    ALVANTE. 
 Qu'une amour née en guerre et parmy les alarmes,  
 N'attende que la mort, et des subjets de larmes.  
 
@@ -1857,11 +1857,11 @@ Je m'en vay, daigne Amour conduire cette affaire.
 ALVANTE, OSMAN.
 
 
-    ALVANTE
+    ALVANTE.
 Doncques est-il possible ! ô Dieu quelle fureur !  
 Puis-je estre encore en vie à cét objet⁎ d'horreur !  
 
-    OSMAN *sans estre apperceu.*
+    OSMAN *sans estre apperceu.*.
 Comme tousjours le sort destruit ce que je tente !  
 Mais quel nouveau visage à mes yeux se presente !  
 
@@ -2031,7 +2031,7 @@ Va donc pour donner ordre à nostre partement [332],
     ALVANTE.
 J'y cours, ô d'un tel tour l'heureux evenement⁎ !  
 
-    PERSINE. [333]
+    PERSINE. [333].
 Mais quel est mon dessein, et quelle est ma pensée !  
 Moy-mesme plus qu'aucun je me suis offensée.  
 Donc pour punir celuy qui m'a fait plus de tort,  
@@ -2166,7 +2166,7 @@ Mais tout vostre salut ne depend que de vous.
 Sire, hâtez-vous donc ainsi que veut l'affaire,  
 En ces occasions, il se perd qui differe.  
 
-    SOLIMAN *lit.* 
+    SOLIMAN *lit.*. 
 Je n'attens pour partir que vostre mandement.  
 Cette puissante armée est deja toute preste.  
 Commencez seulement d'attaquer cette teste,  
@@ -2177,7 +2177,7 @@ Qu'ay-je leu ! mais allons adviser au remede :
 O bien-heureux Rustan, que la fortune⁎ t'aide.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 MUSTAPHA. ORMENE.
 
 
@@ -2303,7 +2303,7 @@ J'y vais, et que le Ciel m'aide si j'en suis digne.
 Seigneur, ne bouge, et voy qu'Adraste t'en fait signe.  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 ADRASTE. MUSTAPHA. ORMENE.
 
 
@@ -2654,7 +2654,7 @@ Mais ne declare pas le nom de qui l'a fait ;
     SOLIMAN.
 Comment ?  
 
-    RUSTAN. [351]
+    RUSTAN. [351].
     Je suis perdu.  
 
     SOLIMAN.
@@ -2709,7 +2709,7 @@ Fascheux retardement.
 PERSINE. SOLDATS. SOLIMAN. ACMAT. RUSTAN.
 
 
-    PERSINE. [352]
+    PERSINE. [352].
         Heureux subject de joye,  
 Puis que je puis aussi mourir par cette voye.  
 
@@ -2743,7 +2743,7 @@ Et sans nous resister il fut conduit icy.
 Jeune homme, avoüez-vous ce que dit celuy-cy ?  
 
 
-### SCENE QUATRIESME 
+### SCENE QUATRIESME. 
 ALVANTE. SOLIMAN. RUSTAN. PERSINE. ACMAT. SOLDATS.
 
 
@@ -2881,7 +2881,7 @@ O Persine.
         O tourmens d'une main douce offers !  
 
 
-### SCENE CINQUIESME 
+### SCENE CINQUIESME. 
 SOLDATS. PERSINE.
 
 
@@ -3026,7 +3026,7 @@ Mais va, resjoüis-toy, la mort m'est preparée,
 J'ay voulu la chercher toute desespérée,  
 Afin de me punir de t'avoir trop aymé.  
 
-    MUSTAPHA
+    MUSTAPHA.
 Ah tais-toy, de douleur je suis presque pasmé :  
 Je perds à tes discours et l'esprit et la vie :  
 Quelle [362] est cruel destin aujourd'huy ton envie ?  
@@ -3076,7 +3076,7 @@ Fin du quatriesme Acte.
 MUSTAPHA, et PERSINE, conduits au supplice.
 
 
-    MUSTAPHA
+    MUSTAPHA.
 Faut-il donc que ce fer, trop aimable Persine,  
 Se monstre si cruel à ta beauté divine,  
 Et que nos cœurs unis par l'Amour et le Sort,  
@@ -3156,7 +3156,7 @@ Du juste Soliman, la haine et le courroux.
     LA REINE.
 N'importe.  
 
-    SELINE
+    SELINE.
         Parlez bas, car nous serions perdues,  
 Si celuy-cy qui vient nous avoit entenduës⁎.  
 
@@ -3260,7 +3260,7 @@ Et si l'ayant trouvé je le pers aujourd'huy,
 Moy-mesme je mourray de regret et d'ennuy⁎.  
 
 
-### SCENE QUATRIESME 
+### SCENE QUATRIESME. 
 SOLIMAN. ACMAT.
 
 
@@ -3302,7 +3302,7 @@ J'apperçoy Soliman.
     LA REINE.
 Seigneur, c'est à moy seule  
 
-    RUSTAN *s'enfuit.*
+    RUSTAN *s'enfuit.*.
         O Ciel, je suis perdu !  
 
     LA REINE. 
@@ -3358,7 +3358,7 @@ Et que j'aille embrasser⁎ celuy que j'ay fait naistre.
 Allez, Madame, allez, et l'amenez icy.  
 
 
-### SCENE SIXIESME 
+### SCENE SIXIESME. 
 SOLIMAN. ACMAT.
 
 
@@ -3420,7 +3420,7 @@ Le voilà qui t'attend pour ouyr ta deffence.
 LA REINE, MUSTAPHA, PERSINE, ALVANTE, SOLIMAN, ACMAT, OSMAN
 
 
-    OSMAN *survient.*
+    OSMAN *survient.*.
 O triste desespoir ! ô divine vangeance !  
 Seigneur, Rustan est mort !  
 
@@ -3640,7 +3640,7 @@ Persine valoit bien toute seule une guerre.
 FIN.
 
 
-# Lexique
+# Lexique.
 
 Ouvrages consultés :
  * – ATILF, *Dictionnaire du Moyen français* : www.atilf.fr/dmf
@@ -3672,7 +3672,7 @@ Alicola | Vielle esclave estrangere qui fait la reconoissance de Mustapha
 La scène est en Alep ville de Syrie, la piece est dans toutes les reigles de la Tragedie.
 
 
-# Liste des Acteurs du Solimano de Bonarelli
+# Liste des Acteurs du Solimano de Bonarelli.
 Solimano | Rè de Traci
 Rusteno | Genero del Ré
 Acmat | Consigliere del Rè
@@ -3724,7 +3724,7 @@ Soldats | De la garde royale
 La scène se déroule à Alep; ville de Syrie [375]
 
 
-# Liaisons et ruptures de scènes
+# Liaisons et ruptures de scènes.
 
 
 ## Tableau des liaisons et ruptures de scènes du *Soliman* de Charles Vion d'Alibray.
@@ -3737,21 +3737,21 @@ Acte I | Acte II | Acte III | Acte IV | Acte V
 À noter, la liaison de vue entre les scènes 3 et 4 de l'acte I puisque toutes les autres sont des liaisons de présence.
 
 
-## Tableau des liaisons et ruptures de scènes du *Grand et dernier Solyman ou la mort de Mustapha* de Jean Mairet
+## Tableau des liaisons et ruptures de scènes du *Grand et dernier Solyman ou la mort de Mustapha* de Jean Mairet.
 Acte I | Acte II | Acte III | Acte IV | Acte V
 1 / 2 / 3-4 / 5-6 | 1-2 / 3-4 / 5 / 6-7 | 1-2 / 3 / 4 / 5 / 6-7-8-9-10-11 | 1-2-3-4 | 1-2-3-4 / 5-6 / 7-8 / 9
 
 
 
 
-## Tableau des liaisons et ruptures de scènes du *Solimano* de Prospero Bonarelli
+## Tableau des liaisons et ruptures de scènes du *Solimano* de Prospero Bonarelli.
 Acte I | Acte II | Acte III | Acte IV | Acte V
 1-2 / 3-4 | 1-2-3-4 / 5-6 | 1 / 2-3 / 4 / 5-6-7 | 1-2-3-4-5-6-7-8 / 9-10-11 | 1 / 2-3-4-5
 
 
 
 
-# Tableau de présence du Soliman de Charles Vion d'Alibray
+# Tableau de présence du Soliman de Charles Vion d'Alibray.
  | I, 1 | I, 2 | I, 3 | I, 4 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | III, 6 | IV, 1 | IV, 2 | IV, 3 | IV, 4 | IV, 5 | IV, 6 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5 | V, 6 | V, 7 | V, 8 | V, 9
 Solyman | X | X |  |  | X |  |  | X |  |  |  | X | X |  |  |  | X | X | X | X |  |  |  |  |  | X | X | X | O | X | X
 Rustan | X |  |  |  | X | X | X | X |  |  |  |  | X |  |  |  | X | X | X | X |  |  |  |  |  |  | X |  |  |  | 
@@ -3777,7 +3777,7 @@ X : personnages présents sur scène
 O : personnages présents sur scène mais qui ne parlent pas
 
 
-# Tableau de présence du Solimano de Bonarelli
+# Tableau de présence du Solimano de Bonarelli.
  | I, 1 | I, 2 | I, 3 | I, 4 | I, 5 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | III, 6 | III, 7 | IV, 1 | IV, 2 | IV, 3 | IV, 4 | IV, 5 | IV, 6 | IV, 7 | IV, 8 | IV, 9 | IV, 10 | IV, 11 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5
 Solimano | O | O |  |  |  | O |  |  | O |  |  |  | O | O |  |  |  |  |  | O | O | O | O |  |  |  |  |  |  |  | X | X | X | 
 Rusteno | O |  |  |  |  | O | O | O | O |  |  |  |  | O |  |  |  |  | X | O | O | O | O |  |  |  |  |  |  |  |  |  |  | 
@@ -3807,7 +3807,7 @@ O : personnages communs à la pièce d'Alibray
 X : personnages supplémentaires
 
 
-# Tableau de présence du Grand et dernier Solyman ou la mort de Mustapha de Jean Mairet
+# Tableau de présence du Grand et dernier Solyman ou la mort de Mustapha de Jean Mairet.
 
 Ce tableau de présence du *Grand et dernier Solyman ou la mort de Mustapha* de Mairet diffère de celui que l'on peut trouver dans l'édition Champion 2005 (*op. cit.*) puisqu'il nous a semblé y découvrir certaines erreurs.
  | I, 1 | I, 2 | I, 3 | I, 4 | I, 5 | I, 6 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | II, 7 | III, 1 | III, 2 | III, 3 | III, 4 | III, 5 | III, 6 | III, 7 | III, 8 | III, 9 | III, 10 | III, 11 | IV, 1 | IV, 2 | IV, 3 | IV, 4 | V, 1 | V, 2 | V, 3 | V, 4 | V, 5 | V, 6 | V, 7 | V, 8 | V, 9
@@ -3839,22 +3839,22 @@ O : personnages communs à la pièce d'Alibray
 X : personnages supplémentaires
 
 
-# Bibliographie sommaire
+# Bibliographie sommaire.
 
 
-## Texte de référenceLe Soliman
+## Texte de référence.Le Soliman
 
 
 
-## Sources
+## Sources.
 
 
-### Sources principalesIl SolimanoDue lettere del signor compte Prospero Bonarelli al signor Antonio Bruni
+### Sources principales.Il SolimanoDue lettere del signor compte Prospero Bonarelli al signor Antonio Bruni
 Le Grand et Dernier Solyman ou la mort de Mustapha
 
 
 
-### Ouvrages de l'Antiquité
+### Ouvrages de l'Antiquité.
 
 http ://hodoi.fltr.ucl.ac.be : hodoi elektronikai : bibliothèque des textes grecs
 
@@ -3873,7 +3873,7 @@ Fragments
 
 
 
-### Ouvrages publiés avant 1800Pratique du théâtre
+### Ouvrages publiés avant 1800.Pratique du théâtre
 Pratique du théâtre
 Œuvre de Bacon
 Le Temps des Préfaces, Le débat théâtral en France de Hardy à la Querelle du « Cid »
@@ -3889,7 +3889,7 @@ Histoire du théâtre françois, depuis son origine jusqu'à présent
 
 
 
-### Ouvrages consultés pour la biographie de l'auteurNouveau recueil des Épigrammatistes François Anciens et Modernes
+### Ouvrages consultés pour la biographie de l'auteur.Nouveau recueil des Épigrammatistes François Anciens et Modernes
 Un Académicien du xvii*e* siècle : Saint Amant, son temps, sa vie, ses poésies : 1594-1661
 Anecdotes dramatiques
 Historiettes
@@ -3898,17 +3898,17 @@ Les œuvres de Monsieur de Voiture
 
 
 
-### Autres ouvrages de notre auteurL'Aminte du Tasse
+### Autres ouvrages de notre auteur.L'Aminte du Tasse
 La Pompe funèbre
 Le Torrismon
 Œuvres poétiques du Sr Dalibray. Divisées en vers bachiques, satyriques, heroïques, amoureux, moraux, et chrestiens
 
 
 
-## Études historiques et critiques
+## Études historiques et critiques.
 
 
-### Sur le théâtre du XVII*e* siècle, le contexte littéraire et le contexte historiqueLa tragi-comédie de Corneille à Quinault
+### Sur le théâtre du XVII*e* siècle, le contexte littéraire et le contexte historique.La tragi-comédie de Corneille à Quinault
 Des tavernes aux bistrots : histoire des cafés
 La Querelle du Cid
 L'arte dell'interpretare
@@ -3938,7 +3938,7 @@ Les Institutions littéraires en France au dix-septième siècle
 
 
 
-### Sur le genre : la tragi-comédie et les « turqueries »Représentation de l'Islam dans la France du xvii*e* siècle. La ville des tentations
+### Sur le genre : la tragi-comédie et les « turqueries ».Représentation de l'Islam dans la France du xvii*e* siècle. La ville des tentations
 Représentation de la tyrannie dans les tragédies à sujet turc du Grand siècle français
 The Turk in French History, Thought and Litterature
 xvii*e*CidLittérature et exotisme
@@ -3948,18 +3948,18 @@ L'orientalisme. L'Orient créé par l'Occident
 
 
 
-### Sur le drame romantiquePréface de Cromwell
+### Sur le drame romantique.Préface de Cromwell
 Le Drame de Diderot à Ionesco
 Le roi et le bouffon : étude sur le théâtre de Hugo de 1830 à 1839
 
 
 
-### Études sur la mythologieL'ange et la bête, Michel-Ange et Cavalieri
+### Études sur la mythologie.L'ange et la bête, Michel-Ange et Cavalieri
 La Mythologie : Ses dieux, ses héros, ses légendes
 
 
 
-### Éditions critiques des œuvres du XVI*e*, du XVII*e* et du XIX*e* siècleLe Cid
+### Éditions critiques des œuvres du XVI*e*, du XVII*e* et du XIX*e* siècle.Le Cid
 Le Cid
 Cinna
 Polyeucte
@@ -3975,17 +3975,17 @@ Venceslas
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Langue, Rhétorique, grammaire et ponctuation au XVII*e* siècleSyntaxe française du XVII*e* siècle
+### Langue, Rhétorique, grammaire et ponctuation au XVII*e* siècle.Syntaxe française du XVII*e* siècle
 Précis de phonétique historique
 Études historiques, littéraires et morales sur les proverbes français et le langage proverbial
 La Ponctuation du théâtre imprimé au xvii*e* siècle
 
 
 
-### Dictionnaires et documents historiquesDictionnaire du Moyen Françaiswww.atilf.fr/dmf
+### Dictionnaires et documents historiques.Dictionnaire du Moyen Françaiswww.atilf.fr/dmf
 *e*
 Dictionnaire des Arts et des Sciences
 Dictionnaire universel

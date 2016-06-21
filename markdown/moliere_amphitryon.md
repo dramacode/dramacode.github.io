@@ -16,7 +16,7 @@ PAR J. B. P. DE MOLIÈRE
 
 
 
-# À SON ALTESSE SÉRÉNISSIME MONSEIGNEUR LE PRINCE
+# À SON ALTESSE SÉRÉNISSIME MONSEIGNEUR LE PRINCE.
 
 Monseigneur,
 
@@ -31,7 +31,7 @@ De *Votre Altesse Sérénissime*,
 Le très humble, très obéissant, et très obligé Serviteur, *Molière*.
 
 
-# ACTEURS
+# ACTEURS.
  – Mercure.
  – La Nuit.
  – Jupiter, sous le forme d'Amphitryon.
@@ -47,42 +47,42 @@ La Scène est à Thèbes, devant la Maison d'Amphitryon.
 
 
 
-# Prologue
+# Prologue.
 Mercure, *sur un nuage,* la Nuit, *dans un char traîné par deux Chevaux*.
 
 
-    MERCURE
+    MERCURE.
 Tout beau, charmante Nuit ; daignez vous arrêter.  
 Il est certain secours, que de vous on désire :  
 Et j'ai deux mots à vous dire,  
 De la part de Jupiter.  
 
-    LA NUIT
+    LA NUIT.
 Ah, ah, c'est vous, Seigneur Mercure !  
 Qui vous eût deviné là, dans cette posture ?  
 
-    MERCURE
+    MERCURE.
 Ma foi, me trouvant las, pour ne pouvoir fournir  
 Aux différents Emplois où Jupiter m'engage,  
 Je me suis doucement assis sur ce Nuage,  
 Pour vous attendre venir.  
 
-    LA NUIT
+    LA NUIT.
 Vous vous moquez, Mercure, et vous n'y songez pas.  
 Sied-il bien à des Dieux de dire qu'ils sont las ?  
 
-    MERCURE
+    MERCURE.
 Les Dieux sont-ils de Fer ?  
 
-    LA NUIT
-Non ; mais il faut sans cesse  
+    LA NUIT.
+        Non ; mais il faut sans cesse  
 Garder le *decorum* de la Divinité.  
 Il est de certains mots, dont l'usage rabaisse  
 Cette sublime qualité ;  
 Et que, pour leur indignité,  
 Il est bon qu'aux Hommes on laisse.  
 
-    MERCURE
+    MERCURE.
 À votre aise vous en parlez ;  
 Et vous avez, la Belle, une Chaise roulante,  
 Où par deux bons Chevaux, en Dame nonchalante,  
@@ -104,7 +104,7 @@ Par tous les Emplois qu'il me donne,
 Aurais besoin, plus que Personne,  
 D'avoir de quoi me voiturer.  
 
-    LA NUIT
+    LA NUIT.
 Que voulez-vous faire à cela ?  
 Les poètes font à leur guise.  
 Ce n'est pas la seule sottise,  
@@ -112,15 +112,15 @@ Qu'on voit faire à ces Messieurs-là.
 Mais contre eux toutefois votre Âme à tort s'irrite,  
 Et vos ailes aux pieds sont un don de leurs soins.  
 
-    MERCURE
+    MERCURE.
 Oui ; mais, pour aller plus vite,  
 Est-ce qu'on s'en lasse moins ?  
 
-    LA NUIT
+    LA NUIT.
 Laissons cela, Seigneur Mercure ;  
 Et sachons ce dont il s'agit.  
 
-    MERCURE
+    MERCURE.
 C'est Jupiter, comme je vous l'ai dit,  
 Qui de votre Manteau veut la faveur obscure,  
 Pour certaine douce aventure,  
@@ -149,11 +149,11 @@ Pareil déguisement serait pour ne rien faire ;
 Et ce n'est pas partout un bon moyen de plaire,  
 Que la Figure d'un Mari.  
 
-    LA NUIT
+    LA NUIT.
 J'admire Jupiter ; et je ne comprends pas,  
 Tous les déguisements, qui lui viennent en tête.  
 
-    MERCURE
+    MERCURE.
 Il veut goûter par là toutes sortes d'États ;  
 Et c'est agir en Dieu qui n'est pas Bête.  
 Dans quelque rang qu'il soit des Mortels regardé,  
@@ -170,7 +170,7 @@ Et pour entrer dans tout ce qu'il lui plaît,
 Il sort tout à fait de lui-même,  
 Et ce n'est plus alors Jupiter qui paraît.  
 
-    LA NUIT
+    LA NUIT.
 Passe encor de le voir de ce sublime Étage,  
 Dans celui des Hommes venir ;  
 Prendre tous les transports que leur Cœur peut fournir,  
@@ -182,7 +182,7 @@ Serpent, Cygne, ou quelque autre chose ;
 Je ne trouve point cela beau,  
 Et ne m'étonne pas, si parfois on en cause.  
 
-    MERCURE
+    MERCURE.
 Laissons dire tous les Censeurs.  
 Tels changements ont leurs douceurs,  
 Qui passent leur intelligence.  
@@ -190,12 +190,12 @@ Ce Dieu sait ce qu'il a fait aussi bien là qu'ailleurs ;
 Et dans les mouvements de leurs tendres ardeurs,  
 Les Bêtes ne sont pas si Bêtes, que l'on pense.  
 
-    LA NUIT
+    LA NUIT.
 Revenons à l'Objet, dont il a les faveurs.  
 Si par son stratagème, il voit sa flamme heureuse,  
 Que peut-il souhaiter ? et qu'est-ce que je puis ?  
 
-    MERCURE
+    MERCURE.
 Que vos Chevaux par vous au petit pas réduits,  
 Pour satisfaire aux vœux de son Âme amoureuse,  
 D'une Nuit si délicieuse,  
@@ -205,13 +205,13 @@ Et retardiez la naissance du Jour,
 Qui doit avancer le retour  
 De celui, dont il tient la place.  
 
-    LA NUIT
+    LA NUIT.
 Voilà sans doute un bel Emploi,  
 Que le Grand Jupiter m'apprête :  
 Et l'on donne un nom fort honnête  
 Au service qu'il veut de moi.  
 
-    MERCURE
+    MERCURE.
 Pour une jeune Déesse,  
 Vous êtes bien du bon temps !  
 Un tel Emploi n'est bassesse,  
@@ -221,13 +221,13 @@ Tout ce qu'on fait est toujours bel, et bon ;
 Et suivant ce qu'on peut être,  
 Les choses changent de nom.  
 
-    LA NUIT
+    LA NUIT.
 Sur de pareilles matières,  
 Vous en savez plus que moi :  
 Et pour accepter l'Emploi,  
 J'en veux croire vos lumières.  
 
-    MERCURE
+    MERCURE.
 Hé, là, là, Madame la Nuit,  
 Un peu doucement je vous prie.  
 Vous avez dans le Monde un bruit,  
@@ -237,37 +237,37 @@ De beaucoup de bonnes Affaires ;
 Et je crois, à parler à sentiments ouverts,  
 Que nous ne nous en devons guères.  
 
-    LA NUIT
+    LA NUIT.
 Laissons ces contrariétés,  
 Et demeurons ce que nous sommes.  
 N'apprêtons point à rire aux Hommes,  
 En nous disant nos vérités.  
 
-    MERCURE
+    MERCURE.
 Adieu, je vais là-bas, dans ma Commission,  
 Dépouiller promptement la forme de Mercure,  
 Pour y vêtir la Figure  
 Du Valet d'Amphitryon.  
 
-    LA NUIT
+    LA NUIT.
 Moi, dans cet Hémisphère, avec ma Suite obscure,  
 Je vais faire une Station.  
 
-    MERCURE
+    MERCURE.
 Bon jour, la Nuit.  
 
-    LA NUIT
-Adieu, Mercure.  
+    LA NUIT.
+        Adieu, Mercure.  
 Mercure descend de son Nuage en terre, et la Nuit passe dans son Char.
 
 
 
-# Acte I
+# Acte I.
 
 
-## Scène Première
+## Scène Première.
 
-    SOSIE
+    SOSIE.
 Qui va là ? Heu ? Ma peur, à chaque pas s'accroît.  
 Messieurs, Ami de tout le Monde.  
 Ah ! quelle audace sans seconde,  
@@ -382,34 +382,34 @@ On fait un peu de bruit.
 
 
 
-## Scène II
+## Scène II.
 Mercure, Sosie.
 
 
-    MERCURE, *sous la forme de Sosie*
+    MERCURE, *sous la forme de Sosie*.
 Sous ce minois, qui lui ressemble,  
 Chassons de ces Lieux ce Causeur ;  
 Dont l'abord importun troublerait la douceur,  
 Que nos Amants goûtent ensemble.  
 
-    SOSIE
+    SOSIE.
 Mon Cœur tant soit peu se rassure ;  
 Et je pense que ce n'est rien.  
 Crainte pourtant de sinistre aventure,  
 Allons chez nous achever l'Entretien.  
 
-    MERCURE
+    MERCURE.
 Tu seras plus fort que Mercure,  
 Ou je t'en empêcherai bien.  
 
-    SOSIE
+    SOSIE.
 Cette Nuit, en longueur, me semble sans pareille :  
 Il faut depuis le temps que je suis en chemin,  
 Ou que mon Maître ait pris le soir pour le matin,  
 Ou que trop tard au Lit le blond Phébus sommeille,  
 Pour avoir trop pris de son Vin.  
 
-    MERCURE
+    MERCURE.
 Comme avec irrévérence  
 Parle des Dieux ce Maraud !  
 Mon Bras saura bien tantôt  
@@ -417,7 +417,7 @@ Châtier cette insolence ;
 Et je vais m'égayer avec lui comme il faut,  
 En lui volant son Nom, avec sa Ressemblance.  
 
-    SOSIE
+    SOSIE.
 Ah ! par ma foi, j'avais raison !  
 C'est fait de moi, chétive Créature.  
 Je vois devant notre Maison,  
@@ -428,22 +428,22 @@ Je veux chanter un peu d'ici.
 Il chante ; et lorsque Mercure parle, sa voix s'affaiblit peu à peu.
 
 
-    MERCURE
+    MERCURE.
 Qui donc est ce Coquin, qui prend tant de licence,  
 Que de chanter, et m'étourdir ainsi ?  
 Veut-il qu'à l'étriller, ma Main un peu s'applique ?  
 
-    SOSIE
+    SOSIE.
 Cet Homme, assurément, n'aime pas la Musique.  
 
-    MERCURE
+    MERCURE.
 Depuis plus d'une Semaine,  
 Je n'ai trouvé personne à qui rompre les os.  
 La vertu de mon Bras se perd dans le repos ;  
 Et je cherche quelque Dos,  
 Pour me remettre en haleine.  
 
-    SOSIE
+    SOSIE.
 Quel diable d'Homme est-ce ci ?  
 De mortelles frayeurs je sens mon Âme atteinte.  
 Mais pourquoi trembler tant aussi ?  
@@ -456,185 +456,185 @@ Faisons-nous du Cœur, par raison.
 Il est seul comme moi, je suis fort, j'ai bon Maître,  
 Et voilà notre Maison.  
 
-    MERCURE
+    MERCURE.
 Qui va là ?  
 
-    SOSIE
-Moi.  
+    SOSIE.
+    Moi.  
 
-    MERCURE
-Qui, moi ?  
+    MERCURE.
+    Qui, moi ?  
 
-    SOSIE
-Moi. Courage, Sosie !  
+    SOSIE.
+        Moi. Courage, Sosie !  
 
-    MERCURE
+    MERCURE.
 Quel est ton sort, dis-moi ?  
 
-    SOSIE
-D'être Homme, et de parler.  
+    SOSIE.
+        D'être Homme, et de parler.  
 
-    MERCURE
+    MERCURE.
 Es-tu Maître, ou Valet ?  
 
-    SOSIE
-Comme il me prend envie.  
+    SOSIE.
+        Comme il me prend envie.  
 
-    MERCURE
+    MERCURE.
 Où s'adressent tes pas ?  
 
-    SOSIE
-Où j'ai dessein d'aller.  
+    SOSIE.
+        Où j'ai dessein d'aller.  
 
-    MERCURE
+    MERCURE.
 Ah ! ceci me déplaît.  
 
-    SOSIE
-J'en ai l'Âme ravie.  
+    SOSIE.
+        J'en ai l'Âme ravie.  
 
-    MERCURE
+    MERCURE.
 Résolument, par force, ou par amour,  
 Je veux savoir de toi, Traître,  
 Ce que tu fais ; d'où tu viens avant jour ;  
 Où tu vas ; à qui tu peux être.  
 
-    SOSIE
+    SOSIE.
 Je fais le bien, et le mal, tour à tour :  
 Je viens de là ; vais là ; j'appartiens à mon Maître.  
 
-    MERCURE
+    MERCURE.
 Tu montres de l'Esprit ; et je te vois en train  
 De trancher avec moi de l'Homme d'importance.  
 Il me prend un désir, pour faire connaissance,  
 De te donner un Soufflet de ma Main.  
 
-    SOSIE
+    SOSIE.
 À moi-même ?  
 
-    MERCURE
-À toi-même, et t'en voilà certain.  
+    MERCURE.
+        À toi-même, et t'en voilà certain.  
 Il lui donne un Soufflet.
 
 
-    SOSIE
+    SOSIE.
 Ah, ah, c'est tout de bon !  
 
-    MERCURE
-Non, ce n'est que pour rire,  
+    MERCURE.
+        Non, ce n'est que pour rire,  
 Et répondre à tes Quolibets.  
 
-    SOSIE
+    SOSIE.
 Tudieu, l'Ami, sans vous rien dire,  
 Comme vous baillez des Soufflets !  
 
-    MERCURE
+    MERCURE.
 Ce sont là de mes moindres coups ;  
 De petits Soufflets ordinaires.  
 
-    SOSIE
+    SOSIE.
 Si j'étais aussi prompt que vous,  
 Nous ferions de belles affaires.  
 
-    MERCURE
+    MERCURE.
 Tout cela n'est encor rien,  
 Pour y faire quelque pause :  
 Nous verrons bien autre chose ;  
 Poursuivons notre Entretien.  
 
-    SOSIE
+    SOSIE.
 Il veut s'en aller.
 
 Je quitte la Partie.  
 
-    MERCURE
-Où vas-tu ?  
+    MERCURE.
+    Où vas-tu ?  
 
-    SOSIE
-Que t'importe ?  
+    SOSIE.
+        Que t'importe ?  
 
-    MERCURE
+    MERCURE.
 Je veux savoir où tu vas.  
 
-    SOSIE
+    SOSIE.
 Me faire ouvrir cette Porte :  
 Pourquoi retiens-tu mes pas ?  
 
-    MERCURE
+    MERCURE.
 Si jusqu'à l'approcher tu pousses ton audace,  
 Je fais sur toi pleuvoir un Orage de coups.  
 
-    SOSIE
+    SOSIE.
 Quoi ! tu veux, par ta menace,  
 M'empêcher d'entrer chez nous ?  
 
-    MERCURE
+    MERCURE.
 Comment, chez nous !  
 
-    SOSIE
-Oui, chez nous.  
+    SOSIE.
+    Oui, chez nous.  
 
-    MERCURE
-Ô le Traître !  
+    MERCURE.
+        Ô le Traître !  
 Tu te dis de cette Maison ?  
 
-    SOSIE
+    SOSIE.
 Fort bien. Amphitryon n'en est-il pas le Maître ?  
 
-    MERCURE
+    MERCURE.
 Hé bien ! que fait cette raison ?  
 
-    SOSIE
-Je suis son valet.  
+    SOSIE.
+Je suis son Valet.  
 
-    MERCURE
-Toi ?  
+    MERCURE.
+    Toi ?  
 
-    SOSIE
-Moi.  
+    SOSIE.
+    Moi.  
 
-    MERCURE
-Son valet ?  
+    MERCURE.
+    Son valet ?  
 
-    SOSIE
-Sans doute.  
+    SOSIE.
+        Sans doute.  
 
-    MERCURE
+    MERCURE.
 Valet d'Amphitryon ?  
 
-    SOSIE
-D'Amphitryon ; de lui.  
+    SOSIE.
+        D'Amphitryon ; de lui.  
 
-    MERCURE
+    MERCURE.
 Ton Nom est ?  
 
-    SOSIE
-Sosie.  
+    SOSIE.
+    Sosie.  
 
-    MERCURE
-Heu ? Comment ?  
+    MERCURE.
+    Heu ? Comment ?  
 
-    SOSIE
-Sosie.  
+    SOSIE.
+    Sosie.  
 
-    MERCURE
-Écoute.  
+    MERCURE.
+        Écoute.  
 Sais-tu que de ma Main je t'assomme aujourd'hui ?  
 
-    SOSIE
+    SOSIE.
 Pourquoi ? De quelle rage est ton Âme saisie ?  
 
-    MERCURE
+    MERCURE.
 Qui te donne, dis-moi, cette témérité,  
 De prendre le Nom de Sosie ?  
 
-    SOSIE
+    SOSIE.
 Moi, je ne le prends point, je l'ai toujours porté.  
 
-    MERCURE
+    MERCURE.
 Ô le mensonge horrible ! et l'impudence extrême !  
 Tu m'oses soutenir, que Sosie est ton Nom ?  
 
-    SOSIE
+    SOSIE.
 Fort bien, je le soutiens ; par la grande raison,  
 Qu'ainsi l'a fait des Dieux la Puissance suprême :  
 Et qu'il n'est pas en moi de pouvoir dire non,  
@@ -642,25 +642,25 @@ Et d'être un autre, que moi-même.
 Mercure le bat.
 
 
-    MERCURE
+    MERCURE.
 Mille coups de bâton doivent être le prix  
 D'une pareille effronterie.  
 
-    SOSIE
+    SOSIE.
 Justice, Citoyens ! au secours, je vous prie !  
 
-    MERCURE
+    MERCURE.
 Comment, Bourreau, tu fais des cris ?  
 
-    SOSIE
+    SOSIE.
 De mille coups tu me meurtris,  
 Et tu ne veux pas que je crie ?  
 
-    MERCURE
+    MERCURE.
 C'est ainsi que mon Bras…  
 
-    SOSIE
-L'action ne vaut rien.  
+    SOSIE.
+        L'action ne vaut rien.  
 Tu triomphes de l'avantage,  
 Que te donne sur moi mon manque de courage,  
 Et ce n'est pas en user bien.  
@@ -671,113 +671,113 @@ Battre un Homme à jeu sûr, n'est pas d'une belle Âme ;
 Et le Cœur est digne de blâme,  
 Contre les Gens qui n'en ont pas.  
 
-    MERCURE
+    MERCURE.
 Hé bien, es-tu Sosie à présent ? qu'en dis-tu ?  
 
-    SOSIE
+    SOSIE.
 Tes coups n'ont point en moi fait de métamorphose.  
 Et tout le changement que je trouve à la chose,  
 C'est d'être Sosie battu.  
 
-    MERCURE
+    MERCURE.
 Encor ? Cent autres coups pour cette autre impudence.  
 
-    SOSIE
+    SOSIE.
 De grâce, fais trêve à tes coups.  
 
-    MERCURE
+    MERCURE.
 Fais donc trêve à ton insolence.  
 
-    SOSIE
+    SOSIE.
 Tout ce qu'il te plaira ; je garde le silence :  
 La dispute est par trop inégale entre nous.  
 
-    MERCURE
+    MERCURE.
 Es-tu Sosie encor ? dis, Traître !  
 
-    SOSIE
+    SOSIE.
 Hélas ! je suis ce que tu veux.  
 Dispose de mon sort, tout au gré de tes vœux ;  
 Ton Bras t'en a fait le Maître.  
 
-    MERCURE
+    MERCURE.
 Ton Nom était Sosie, à ce que tu disais.  
 
-    SOSIE
+    SOSIE.
 Il est vrai, jusqu'ici j'ai cru la chose claire :  
 Mais ton Bâton, sur cette affaire,  
 M'a fait voir que je m'abusais.  
 
-    MERCURE
+    MERCURE.
 C'est moi qui suis Sosie ; et tout Thèbes l'avoue.  
 Amphitryon jamais n'en eut d'autre que moi.  
 
-    SOSIE
+    SOSIE.
 Toi Sosie ?  
 
-    MERCURE
-Oui, Sosie ; et si quelqu'un s'y joue,  
+    MERCURE.
+        Oui, Sosie ; et si quelqu'un s'y joue,  
 Il peut bien prendre garde à soi.  
 
-    SOSIE
+    SOSIE.
 Ciel ! me faut-il ainsi renoncer à moi-même ;  
 Et par un Imposteur me voir voler mon Nom ?  
 Que son bonheur est extrême,  
 De ce que je suis Poltron !  
 Sans cela, par la mort…  
 
-    MERCURE
-Entre tes dents, je pense,  
+    MERCURE.
+        Entre tes dents, je pense,  
 Tu murmures je ne sais quoi ?  
 
-    SOSIE
+    SOSIE.
 Non ; mais, au nom des Dieux, donne-moi la licence  
 De parler un moment à toi.  
 
-    MERCURE
+    MERCURE.
 Parle.  
 
-    SOSIE
-Mais promets-moi, de grâce,  
+    SOSIE.
+        Mais promets-moi, de grâce,  
 Que les coups n'en seront point.  
 Signons une Trêve.  
 
-    MERCURE
-Passe ;  
+    MERCURE.
+        Passe ;  
 Va, je t'accorde ce point.  
 
-    SOSIE
+    SOSIE.
 Qui te jette, dis-moi, dans cette fantaisie ?  
 Que te reviendra-t-il, de m'enlever mon Nom ?  
 Et peux-tu faire enfin, quand tu serais Démon,  
 Que je ne sois pas Moi ? que je ne sois Sosie ?  
 
-    MERCURE
+    MERCURE.
 Comment, tu peux…  
 
-    SOSIE
-Ah ! tout doux :  
+    SOSIE.
+        Ah ! tout doux :  
 Nous avons fait trêve aux coups.  
 
-    MERCURE
+    MERCURE.
 Quoi ! Pendard, Imposteur, Coquin…  
 
-    SOSIE
-Pour des injures,  
+    SOSIE.
+        Pour des injures,  
 Dis-m'en tant que tu voudras :  
 Ce sont légères blessures ;  
 Et je ne m'en fâche pas.  
 
-    MERCURE
+    MERCURE.
 Tu te dis Sosie !  
 
-    SOSIE
-Oui, quelque conte frivole…  
+    SOSIE.
+        Oui, quelque conte frivole…  
 
-    MERCURE
+    MERCURE.
 Sus, je romps notre trêve, et reprends ma parole.  
 
-    SOSIE
+    SOSIE.
 N'importe, je ne puis m'anéantir pour toi ;  
 Et souffrir un discours, si loin de l'apparence.  
 Être ce que je suis, est-il en ta puissance ?  
@@ -805,7 +805,7 @@ Et, plût au Ciel, le fût-il moins !
 Cesse donc d'insulter au sort d'un Misérable ;  
 Et laisse à mon devoir s'acquitter de ses soins.  
 
-    MERCURE
+    MERCURE.
 Arrête : ou sur ton Dos le moindre pas attire  
 Un assommant éclat de mon juste courroux.  
 Tout ce que tu viens de dire,  
@@ -825,7 +825,7 @@ Sans en avoir jamais dit rien.
 Et jadis en Public, fus marqué par derrière,  
 Pour être trop Homme de bien.  
 
-    SOSIE
+    SOSIE.
 Il a raison. À moins d'être Sosie,  
 On ne peut pas savoir tout ce qu'il dit.  
 Et dans l'étonnement, dont mon Âme est saisie,  
@@ -837,23 +837,23 @@ Afin d'éclaircir ce mystère.
 Parmi tout le Butin fait sur nos ennemis,  
 Qu'est-ce qu'Amphitryon obtient pour son partage ?  
 
-    MERCURE
+    MERCURE.
 Cinq fort gros Diamants, en nœud proprement mis ;  
 Dont leur Chef se parait, comme d'un rare Ouvrage.  
 
-    SOSIE
+    SOSIE.
 À qui destine-t-il un si riche Présent ?  
 
-    MERCURE
+    MERCURE.
 À sa Femme ; et sur elle il le veut voir paraître.  
 
-    SOSIE
+    SOSIE.
 Mais où, pour l'apporter, est-il mis à présent ?  
 
-    MERCURE
+    MERCURE.
 Dans un Coffret, scellé des Armes de mon Maître.  
 
-    SOSIE
+    SOSIE.
 Il ne ment pas d'un mot, à chaque repartie,  
 Et de moi je commence à douter tout de bon.  
 Près de moi, par la force, il est déjà Sosie :  
@@ -869,14 +869,14 @@ C'est de quoi le confondre, et nous allons le voir.
 Lorsqu'on était aux mains, que fis-tu dans nos Tentes  
 Où tu courus seul te fourrer ?  
 
-    MERCURE
+    MERCURE.
 D'un Jambon…  
 
-    SOSIE
-L'y voilà !  
+    SOSIE.
+    L'y voilà !  
 
-    MERCURE
-Que j'allai déterrer,  
+    MERCURE.
+        Que j'allai déterrer,  
 Je coupai bravement deux Tranches succulentes,  
 Dont je sus fort bien me bourrer.  
 Et joignant à cela d'un Vin que l'on ménage,  
@@ -884,7 +884,7 @@ Et dont avant le goût, les yeux se contentaient,
 Je pris un peu de courage,  
 Pour nos Gens qui se battaient.  
 
-    SOSIE
+    SOSIE.
 Cette preuve sans pareille,  
 En sa faveur conclut bien ;  
 Et l'on n'y peut dire rien,  
@@ -894,39 +894,39 @@ Que tu ne sois Sosie ; et j'y donne ma voix.
 Mais si tu l'es, dis-moi qui tu veux que je sois ;  
 Car encor faut-il bien que je sois quelque chose.  
 
-    MERCURE
+    MERCURE.
 Quand je ne serai plus Sosie,  
 Sois-le, j'en demeure d'accord.  
 Mais tant que je le suis, je te garantis mort,  
 Si tu prends cette fantaisie.  
 
-    SOSIE
+    SOSIE.
 Tout cet embarras met mon esprit sur les dents ;  
 Et la Raison, à ce qu'on voit s'oppose.  
 Mais il faut terminer enfin par quelque chose,  
 Et le plus court pour moi, c'est d'entrer là-dedans.  
 
-    MERCURE
+    MERCURE.
 Ah ! tu prends donc, Pendard, goût à la Bastonnade ?  
 
-    SOSIE
+    SOSIE.
 Ah ! qu'est-ce ci, grands Dieux ! il frappe un ton plus fort ;  
 Et mon Dos, pour un mois, en doit être malade.  
 Laissons ce diable d'Homme ; et retournons au Port.  
 Ô juste Ciel ! j'ai fait une belle Ambassade !  
 
-    MERCURE
+    MERCURE.
 Enfin, je l'ai fait fuir ; et sous ce traitement,  
 De beaucoup d'actions, il a reçu la peine.  
 Mais je vois Jupiter, que fort civilement  
 Reconduit l'amoureuse Alcmène.  
 
 
-## Scène III
+## Scène III.
 Jupiter, Alcmène, Cléanthis, Mercure.
 
 
-    JUPITER
+    JUPITER.
 Défendez, chère Alcmène, aux Flambeaux d'approcher ;  
 Ils m'offrent des plaisirs, en m'offrant votre vue :  
 Mais ils pourraient ici découvrir ma venue,  
@@ -940,7 +940,7 @@ Pourrait être blâmé dans la bouche publique ;
 Et j'en veux, pour témoin unique,  
 Celle qui peut m'en savoir gré.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Je prends, Amphitryon, grande part à la gloire,  
 Que répandent sur vous vos illustres Exploits ;  
 Et l'éclat de votre Victoire  
@@ -965,7 +965,7 @@ Quelque part que l'on ait à cet honneur suprême ;
 Vaut-il ce qu'il en coûte aux tendresses d'un Cœur,  
 Qui peut, à tout moment, trembler pour ce qu'il aime ?  
 
-    JUPITER
+    JUPITER.
 Je ne vois rien en vous, dont mon feu ne s'augmente.  
 Tout y marque à mes yeux un Cœur bien enflammé.  
 Et c'est, je vous l'avoue, une chose charmante,  
@@ -979,13 +979,13 @@ Je dusse les faveurs que je reçois de vous ;
 Et que la qualité que j'ai de votre Époux,  
 Ne fût point ce qui me les donne.  
 
-    ALCMÈNE
+    ALCMÈNE.
 C'est de ce Nom pourtant, que l'ardeur qui me brûle,  
 Tient le droit de paraître au jour :  
 Et je ne comprends rien à ce nouveau scrupule,  
 Dont s'embarrasse votre amour.  
 
-    JUPITER
+    JUPITER.
 Ah ! ce que j'ai pour vous d'ardeur, et de tendresse,  
 Passe aussi celle d'un Époux ;  
 Et vous ne savez pas, dans des moments si doux,  
@@ -1014,13 +1014,13 @@ Que le Mari ne soit que pour votre vertu ;
 Et que de votre Cœur, de bonté revêtu,  
 L'Amant ait tout l'amour, et toute la tendresse.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Amphitryon, en vérité,  
 Vous vous moquez, de tenir ce langage :  
 Et j'aurais peur qu'on ne vous crût pas sage,  
 Si de quelqu'un vous étiez écouté.  
 
-    JUPITER
+    JUPITER.
 Ce discours est plus raisonnable,  
 Alcmène, que vous ne pensez :  
 Mais un plus long séjour me rendrait trop coupable,  
@@ -1030,60 +1030,60 @@ Pour un temps, m'arrache de vous.
 Mais, belle Alcmène, au moins, quand vous verrez l'Époux,  
 Songez à l'Amant, je vous prie.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Je ne sépare point ce qu'unissent les Dieux ;  
 Et l'Époux, et l'Amant, me sont fort précieux.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Ô Ciel ! que d'aimables caresses  
 D'un Époux ardemment chéri !  
 Et que mon traître de Mari  
 Est loin de toutes ces tendresses !  
 
-    MERCURE
+    MERCURE.
 La Nuit, qu'il me faut avertir,  
 N'a plus qu'à plier tous ses voiles ;  
 Et pour effacer les Étoiles,  
 Le Soleil, de son Lit, peut maintenant sortir.  
 
 
-## Scène IV
+## Scène IV.
 Cléanthis, Mercure. *Mercure veut s'en aller.*
 
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Quoi ! c'est ainsi que l'on me quitte ?  
 
-    MERCURE
+    MERCURE.
 Et comment donc ? Ne veux-tu pas,  
 Que de mon devoir je m'acquitte ?  
 Et que d'Amphitryon j'aille suivre les pas ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Mais avec cette brusquerie,  
 Traître, de moi te séparer !  
 
-    MERCURE
+    MERCURE.
 Le beau sujet de fâcherie !  
 Nous avons tant de temps ensemble à demeurer.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Mais quoi ! partir ainsi d'une façon brutale,  
 Sans me dire un seul mot de douceur pour régale ?  
 
-    MERCURE
+    MERCURE.
 Diantre, où veux-tu que mon Esprit  
 T'aille chercher des fariboles ?  
 Quinze ans de Mariage épuisent les paroles ;  
 Et depuis un long temps, nous nous sommes tout dit.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Regarde, Traître, Amphitryon,  
 Vois combien, pour Alcmène, il étale de flamme,  
 Et rougis là-dessus, du peu de passion,  
 Que tu témoignes pour ta Femme.  
 
-    MERCURE
+    MERCURE.
 Hé, mon Dieu, Cléanthis, ils sont encore Amants.  
 Il est certain âge où tout passe :  
 Et ce qui leur sied bien dans ces commencements,  
@@ -1091,50 +1091,50 @@ En nous, vieux Mariés, aurait mauvaise grâce.
 Il nous ferait beau voir attachés, face à face,  
 À pousser les beaux Sentiments !  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Quoi ! suis-je hors d'état, Perfide, d'espérer  
 Qu'un Cœur auprès de moi soupire ?  
 
-    MERCURE
+    MERCURE.
 Non, je n'ai garde de le dire :  
 Mais je suis trop Barbon, pour oser soupirer,  
 Et je ferais crever de rire.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Mérites-tu, Pendard, cet insigne bonheur,  
 De te voir, pour Épouse, une Femme d'honneur ?  
 
-    MERCURE
+    MERCURE.
 Mon Dieu, tu n'es que trop honnête :  
 Ce grand honneur ne me vaut rien.  
 Ne sois point si Femme de bien ;  
 Et me romps un peu moins la tête.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Comment ! de trop bien vivre, on te voit me blâmer ?  
 
-    MERCURE
+    MERCURE.
 La douceur d'une Femme est tout ce qui me charme ;  
 Et ta vertu fait un vacarme,  
 Qui ne cesse de m'assommer.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Il te faudrait des Cœurs pleins de fausses tendresses ;  
 De ces Femmes aux beaux et louables talents,  
 Qui savent accabler leurs Maris de caresses,  
 Pour leur faire avaler l'usage des Galants.  
 
-    MERCURE
+    MERCURE.
 Ma foi, veux-tu que je te dise ?  
 Un mal d'opinion, ne touche que les Sots.  
 Et je prendrais pour ma Devise,  
 Moins d'honneur, et plus de repos.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Comment ! tu souffrirais, sans nulle répugnance,  
 Que j'aimasse un Galant avec toute licence ?  
 
-    MERCURE
+    MERCURE.
 Oui, si je n'étais plus de tes cris rebattu ;  
 Et qu'on te vît changer d'humeur et de méthode.  
 J'aime mieux un Vice commode,  
@@ -1144,40 +1144,40 @@ Il me faut suivre Amphitryon.
 Il s'en va.
 
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Pourquoi, pour punir cet Infâme,  
 Mon Cœur n'a-t-il assez de résolution ?  
 Ah ! que dans cette occasion,  
 J'enrage d'être honnête Femme !  < Fin du Premier Acte >
 
 
-# Acte II
+# Acte II.
 
 
-## Scène Première
+## Scène Première.
 Amphitryon, Sosie.
 
 
-    AMPHITRYON
+    AMPHITRYON.
 Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,  
 Qu'à te faire assommer, ton discours peut suffire ?  
 Et que pour te traiter comme je le désire,  
 Mon courroux n'attend qu'un Bâton ?  
 
-    SOSIE
+    SOSIE.
 Si vous le prenez sur ce ton,  
 Monsieur, je n'ai plus rien à dire ;  
 Et vous aurez toujours raison.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Quoi ! tu veux me donner pour des vérités, Traître,  
 Des contes que je vois d'extravagance outrés ?  
 
-    SOSIE
+    SOSIE.
 Non, je suis le Valet, et vous êtes le Maître ;  
 Il n'en sera, Monsieur, que ce que vous voudrez.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Çà, je veux étouffer le courroux qui m'enflamme,  
 Et, tout du long, t'ouïr sur ta Commission.  
 Il faut, avant que voir ma Femme,  
@@ -1185,7 +1185,7 @@ Que je débrouille ici cette confusion.
 Rappelle tous tes sens ; rentre bien dans ton Âme ;  
 Et réponds, mot pour mot, à chaque Question.  
 
-    SOSIE
+    SOSIE.
 Mais, de peur d'incongruité,  
 Dites-moi, de grâce, à l'avance,  
 De quel air il vous plaît que ceci soit traité.  
@@ -1194,87 +1194,87 @@ Ou comme auprès des Grands on le voit usité ?
 Faut-il dire la vérité ;  
 Ou bien user de complaisance ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Non, je ne te veux obliger,  
 Qu'à me rendre de tout un compte fort sincère.  
 
-    SOSIE
+    SOSIE.
 Bon, c'est assez ; laissez-moi faire :  
 Vous n'avez qu'à m'interroger.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Sur l'ordre que tantôt je t'avais su prescrire ?  
 
-    SOSIE
+    SOSIE.
 Je suis parti ; les Cieux, d'un noir crêpe voilés,  
 Pestant fort contre vous dans ce fâcheux martyre,  
 Et maudissant vingt fois l'ordre dont vous parlez.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Comment, Coquin ?  
 
-    SOSIE
-Monsieur, vous n'avez rien qu'à dire.  
+    SOSIE.
+        Monsieur, vous n'avez rien qu'à dire.  
 Je mentirai, si vous voulez.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Voilà comme un Valet montre pour nous du zèle.  
 Passons. Sur les chemins, que t'est-il arrivé ?  
 
-    SOSIE
+    SOSIE.
 D'avoir une frayeur mortelle,  
 Au moindre Objet que j'ai trouvé.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Poltron !  
 
-    SOSIE
-En nous formant, Nature a ses caprices.  
+    SOSIE.
+        En nous formant, Nature a ses caprices.  
 Divers penchants en nous elle fait observer.  
 Les uns à s'exposer, trouvent mille délices :  
 Moi, j'en trouve à me conserver.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Arrivant au logis ?  
 
-    SOSIE
-J'ai devant notre Porte,  
+    SOSIE.
+        J'ai devant notre Porte,  
 En moi-même voulu répéter un petit,  
 Sur quel ton, et de quelle sorte,  
 Je ferais du Combat le glorieux Récit.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ensuite ?  
 
-    SOSIE
-On m'est venu troubler, et mettre en peine.  
+    SOSIE.
+        On m'est venu troubler, et mettre en peine.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Et qui ?  
 
-    SOSIE
-Sosie, un Moi, de vos ordres jaloux,  
+    SOSIE.
+        Sosie, un Moi, de vos ordres jaloux,  
 Que vous avez du Port envoyé vers Alcmène,  
 Et qui de nos secrets a connaissance pleine,  
 Comme le Moi qui parle à Vous.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Quels contes !  
 
-    SOSIE
-Non, Monsieur, c'est la vérité pure.  
+    SOSIE.
+        Non, Monsieur, c'est la vérité pure.  
 Ce Moi, plutôt que Moi, s'est au Logis trouvé :  
 Et j'étais venu, je vous jure,  
 Avant que je fusse arrivé.  
 
-    AMPHITRYON
+    AMPHITRYON.
 D'où peut procéder, je te prie,  
 Ce galimatias maudit ?  
 Est-ce songe ? est-ce ivrognerie ?  
 Aliénation d'Esprit ?  
 Ou méchante plaisanterie ?  
 
-    SOSIE
+    SOSIE.
 Non, c'est la chose comme elle est,  
 Et point du tout conte frivole.  
 Je suis Homme d'honneur, j'en donne ma parole,  
@@ -1288,23 +1288,23 @@ A trouvé l'autre Moi, frais, gaillard et dispos,
 Et n'ayant d'autre inquiétude,  
 Que de battre, et casser des os.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Il faut être, je le confesse,  
 D'un Esprit bien posé, bien tranquille, bien doux,  
 Pour souffrir qu'un Valet, de Chansons me repaisse.  
 
-    SOSIE
+    SOSIE.
 Si vous vous mettez en courroux,  
 Plus de conférence entre nous ;  
 Vous savez que d'abord tout cesse.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Non, sans emportement, je te veux écouter.  
 Je l'ai promis. Mais dis, en bonne conscience,  
 Au mystère nouveau que tu me viens conter,  
 Est-il quelque ombre d'apparence ?  
 
-    SOSIE
+    SOSIE.
 Non ; vous avez raison ; et la chose à chacun,  
 Hors de créance doit paraître.  
 C'est un fait à n'y rien connaître ;  
@@ -1312,10 +1312,10 @@ Un conte extravagant, ridicule, importun ;
 Cela choque le sens commun :  
 Mais cela ne laisse pas d'être.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Le moyen d'en rien croire, à moins qu'être insensé ?  
 
-    SOSIE
+    SOSIE.
 Je ne l'ai pas cru Moi, sans une peine extrême.  
 Je me suis, d'être deux, senti l'Esprit blessé ;  
 Et longtemps, d'Imposteur, j'ai traité ce Moi-même.  
@@ -1328,45 +1328,45 @@ Ne sont pas plus ressemblantes ;
 Et n'était que ses mains sont un peu trop pesantes,  
 J'en serais fort satisfait.  
 
-    AMPHITRYON
+    AMPHITRYON.
 À quelle patience il faut que je m'exhorte !  
 Mais enfin, n'es-tu pas entré dans la Maison ?  
 
-    SOSIE
+    SOSIE.
 Bon, entré ! Hé de quelle sorte ?  
 Ai-je voulu jamais entendre de raison ?  
 Et ne me suis-je pas interdit notre Porte ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Comment donc ?  
 
-    SOSIE
-Avec un Bâton ;  
+    SOSIE.
+        Avec un Bâton ;  
 Dont mon Dos sent encore une douleur très forte.  
 
-    AMPHITRYON
+    AMPHITRYON.
 On t'a battu ?  
 
-    SOSIE
-Vraiment !  
+    SOSIE.
+    Vraiment !  
 
-    AMPHITRYON
-Et qui ?  
+    AMPHITRYON.
+    Et qui ?  
 
-    SOSIE
-Moi.  
+    SOSIE.
+    Moi.  
 
-    AMPHITRYON
-Toi, te battre ?  
+    AMPHITRYON.
+        Toi, te battre ?  
 
-    SOSIE
+    SOSIE.
 Oui, Moi ; non pas le Moi d'ici,  
 Mais le Moi du Logis, qui frappe comme quatre.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Te confonde le Ciel, de me parler ainsi !  
 
-    SOSIE
+    SOSIE.
 Ce ne sont point des Badinages.  
 Le Moi que j'ai trouvé tantôt,  
 Sur le Moi qui vous parle, a de grands avantages :  
@@ -1375,22 +1375,22 @@ J'en ai reçu des témoignages :
 Et ce diable de Moi m'a rossé comme il faut,  
 C'est un Drôle qui fait des rages.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Achevons. As-tu vu ma Femme ?  
 
-    SOSIE
-Non.  
+    SOSIE.
+    Non.  
 
-    AMPHITRYON
-Pourquoi ?  
+    AMPHITRYON.
+        Pourquoi ?  
 
-    SOSIE
+    SOSIE.
 Par une raison assez forte.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Qui t'a fait y manquer, Maraud ; explique-toi ?  
 
-    SOSIE
+    SOSIE.
 Faut-il le répéter vingt fois de même sorte ?  
 Moi, vous dis-je ; ce Moi plus robuste que Moi ;  
 Ce Moi, qui s'est de force emparé de la Porte.  
@@ -1403,21 +1403,21 @@ Enfin ce Moi qui suis chez nous :
 Ce Moi, qui s'est montré mon Maître ;  
 Ce Moi qui m'a roué de coups.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Il faut que ce matin, à force de trop boire,  
 Il se soit troublé le Cerveau.  
 
-    SOSIE
+    SOSIE.
 Je veux être pendu, si j'ai bu que de l'eau :  
 À mon serment, on m'en peut croire.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Il faut donc qu'au sommeil, tes sens se soient portés ?  
 Et qu'un Songe fâcheux, dans ses confus mystères,  
 T'ait fait voir toutes les chimères,  
 Dont tu me fais des vérités.  
 
-    SOSIE
+    SOSIE.
 Tout aussi peu. Je n'ai point sommeillé ;  
 Et n'en ai même aucune envie.  
 Je vous parle bien éveillé,  
@@ -1425,49 +1425,49 @@ J'étais bien éveillé ce matin, sur ma vie.
 Et bien éveillé même était l'autre Sosie,  
 Quand il m'a si bien étrillé.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Suis-moi, je t'impose silence,  
 C'est trop me fatiguer l'Esprit.  
 Et je suis un vrai Fou, d'avoir la patience,  
 D'écouter d'un Valet, les sottises qu'il dit.  
 
-    SOSIE
+    SOSIE.
 Tous les discours sont des sottises,  
 Partant d'un Homme sans éclat.  
 Ce serait paroles exquises,  
 Si c'était un Grand qui parlât.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Entrons, sans davantage attendre.  
 Mais Alcmène paraît avec tous ses appas :  
 En ce moment, sans doute, elle ne m'attend pas,  
 Et mon abord la va surprendre.  
 
 
-## Scène II
+## Scène II.
 Alcmène, Cléanthis, Amphitryon, Sosie.
 
 
-    ALCMÈNE
+    ALCMÈNE.
 Allons pour mon Époux, Cléanthis, vers les Dieux,  
 Nous acquitter de nos hommages ;  
 Et les remercier des succès glorieux,  
 Dont Thèbes, par son Bras, goûte les avantages.  
 Ô Dieux !  
 
-    AMPHITRYON
-Fasse le Ciel, qu'Amphitryon vainqueur,  
+    AMPHITRYON.
+        Fasse le Ciel, qu'Amphitryon vainqueur,  
 Avec plaisir soit revu de sa Femme ;  
 Et que ce jour favorable à ma flamme,  
 Vous redonne à mes yeux, avec le même cœur :  
 Que j'y retrouve autant d'ardeur,  
 Que vous en rapporte mon Âme.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Quoi ! de retour si tôt ?  
 
-    AMPHITRYON
-Certes, c'est en ce jour,  
+    AMPHITRYON.
+        Certes, c'est en ce jour,  
 Me donner de vos feux, un mauvais témoignage ;  
 Et ce *Quoi si tôt de retour*,  
 En ces occasions, n'est guère le langage  
@@ -1479,11 +1479,11 @@ Donne à tous les instants une longueur extrême ;
 Et l'absence de ce qu'on aime,  
 Quelque peu qu'elle dure, a toujours trop duré.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Je ne vois…  
 
-    AMPHITRYON
-Non, Alcmène, à son impatience,  
+    AMPHITRYON.
+        Non, Alcmène, à son impatience,  
 On mesure le temps en de pareils états ;  
 Et vous comptez les moments de l'absence,  
 En Personne qui n'aime pas.  
@@ -1496,7 +1496,7 @@ Se plaint ici mon amoureuse ardeur ;
 Et j'attendais de votre Cœur,  
 D'autres transports de joie, et de tendresse.  
 
-    ALCMÈNE
+    ALCMÈNE.
 J'ai peine à comprendre sur quoi  
 Vous fondez les discours que je vous entends faire ;  
 Et si vous vous plaignez de moi,  
@@ -1507,26 +1507,26 @@ On me vit témoigner une joie assez tendre ;
 Et rendre aux soins de votre amour,  
 Tout ce que de mon Cœur, vous aviez lieu d'attendre.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Comment ?  
 
-    ALCMÈNE
-Ne fis-je pas éclater à vos yeux,  
+    ALCMÈNE.
+        Ne fis-je pas éclater à vos yeux,  
 Les soudains mouvements d'une entière allégresse ?  
 Et le transport d'un Cœur peut-il s'expliquer mieux,  
 Au retour d'un Époux, qu'on aime avec tendresse ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Que me dites-vous là ?  
 
-    ALCMÈNE
-Que même votre amour  
+    ALCMÈNE.
+        Que même votre amour  
 Montra, de mon accueil, une joie incroyable :  
 Et que m'ayant quittée à la pointe du jour,  
 Je ne vois pas qu'à ce soudain retour,  
 Ma surprise soit si coupable.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Est-ce que du retour, que j'ai précipité,  
 Un Songe, cette nuit, Alcmène, dans votre Âme,  
 A prévenu la vérité ?  
@@ -1534,7 +1534,7 @@ Et que m'ayant, peut-être, en dormant, bien traité,
 Votre Cœur se croit, vers ma flamme,  
 Assez amplement acquitté ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Est-ce qu'une vapeur, par sa malignité,  
 Amphitryon, a dans votre Âme,  
 Du retour d'hier au soir, brouillé la vérité ?  
@@ -1542,83 +1542,83 @@ Et que du doux accueil duquel je m'acquittai,
 Votre Cœur prétend à ma flamme,  
 Ravir toute l'honnêteté ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Cette vapeur, dont vous me régalez,  
 Est un peu, ce me semble, étrange.  
 
-    ALCMÈNE
+    ALCMÈNE.
 C'est ce qu'on peut donner pour change,  
 Au Songe dont vous me parlez.  
 
-    AMPHITRYON
+    AMPHITRYON.
 À moins d'un Songe, on ne peut pas, sans doute,  
 Excuser ce qu'ici, votre bouche me dit.  
 
-    ALCMÈNE
+    ALCMÈNE.
 À moins d'une vapeur, qui vous trouble l'Esprit,  
 On ne peut pas sauver, ce que de vous j'écoute.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Laissons un peu cette vapeur, Alcmène.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Laissons un peu ce Songe, Amphitryon.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Sur le sujet dont il est question,  
 Il n'est guère de jeu, que trop loin on ne mène.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Sans doute ; et pour marque certaine,  
 Je commence à sentir un peu d'émotion.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Est-ce donc que par là, vous voulez essayer,  
 À réparer l'accueil dont je vous ai fait plainte ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Est-ce donc que par cette feinte,  
 Vous désirez vous égayer ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! de grâce, cessons, Alcmène, je vous prie ;  
 Et parlons sérieusement.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Amphitryon, c'est trop pousser l'amusement ;  
 Finissons cette raillerie.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Quoi ! vous osez me soutenir en face,  
 Que plus tôt qu'à cette heure, on m'ait ici pu voir ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Quoi ! vous voulez nier avec audace,  
 Que dès hier, en ces Lieux, vous vîntes sur le soir ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Moi, je vins hier ?  
 
-    ALCMÈNE
-Sans doute. Et dès devant l'Aurore,  
+    ALCMÈNE.
+        Sans doute. Et dès devant l'Aurore,  
 Vous vous en êtes retourné.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ciel ! un pareil débat s'est-il pu voir encore !  
 Et qui, de tout ceci, ne serait étonné ?  
 Sosie ?  
 
-    SOSIE
-Elle a besoin de six grains d'Ellébore,  
+    SOSIE.
+        Elle a besoin de six grains d'Ellébore,  
 Monsieur, son Esprit est tourné !  
 
-    AMPHITRYON
+    AMPHITRYON.
 Alcmène, au nom de tous les Dieux,  
 Ce discours a d'étranges suites,  
 Reprenez vos sens un peu mieux ;  
 Et pensez à ce que vous dites.  
 
-    ALCMÈNE
+    ALCMÈNE.
 J'y pense mûrement aussi,  
 Et tous ceux du Logis ont vu votre arrivée.  
 J'ignore quel motif vous fait agir ainsi :  
@@ -1631,108 +1631,108 @@ Qu'a fait, dans la Nuit éternelle,
 Tomber l'effort de votre bras ?  
 En pourrait-on vouloir un plus sûr témoignage ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Quoi ! je vous ai déjà donné  
 Le Nœud de Diamants que j'eus pour mon partage,  
 Et que je vous ai destiné ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Assurément. Il n'est pas difficile  
 De vous en bien convaincre.  
 
-    AMPHITRYON
-Et comment ?  
+    AMPHITRYON.
+    Et comment ?  
 
-    ALCMÈNE
-Le voici.  
+    ALCMÈNE.
+        Le voici.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Sosie !  
 
-    SOSIE
-Elle se moque, et je le tiens ici ;  
+    SOSIE.
+        Elle se moque, et je le tiens ici ;  
 Monsieur, la feinte est inutile.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Le Cachet est entier.  
 
-    ALCMÈNE
-Est-ce une Vision ?  
+    ALCMÈNE.
+        Est-ce une Vision ?  
 Tenez. Trouverez-vous cette preuve assez forte ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah Ciel ! ô juste Ciel !  
 
-    ALCMÈNE
-Allez, Amphitryon,  
+    ALCMÈNE.
+        Allez, Amphitryon,  
 Vous vous moquez, d'en user de la sorte ;  
 Et vous en devriez avoir confusion.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Romps vite ce cachet.  
 
-    SOSIE, *ayant ouvert le coffret*
-Ma foi, la place est vide.  
+    SOSIE, *ayant ouvert le coffret*.
+        Ma foi, la place est vide.  
 Il faut que par Magie on ait su le tirer :  
 Ou bien que de lui-même, il soit venu sans guide,  
 Vers celle qu'il a su qu'on en voulait parer.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ô Dieux, dont le pouvoir sur les choses préside,  
 Quelle est cette aventure ! et qu'en puis-je augurer,  
 Dont mon amour ne s'intimide !  
 
-    SOSIE
+    SOSIE.
 Si sa bouche dit vrai, nous avons même sort ;  
 Et de même que moi, Monsieur, vous êtes double.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Tais-toi.  
 
-    ALCMÈNE
-Sur quoi vous étonner si fort ?  
+    ALCMÈNE.
+        Sur quoi vous étonner si fort ?  
 Et d'où peut naître ce grand trouble !  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ô Ciel ! quel étrange embarras !  
 Je vois des incidents qui passent la Nature ;  
 Et mon honneur redoute une aventure,  
 Que mon Esprit ne comprend pas !  
 
-    ALCMÈNE
+    ALCMÈNE.
 Songez-vous, en tenant cette preuve sensible,  
 À me nier encor votre retour pressé ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Non ; mais à ce retour, daignez, s'il est possible,  
 Me conter ce qui s'est passé.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Puisque vous demandez un récit de la chose,  
 Vous voulez dire donc que ce n'était pas vous ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Pardonnez-moi ; mais j'ai certaine cause,  
 Qui me fait demander ce récit entre nous.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Les soucis importants, qui vous peuvent saisir,  
 Vous ont-ils fait si vite en perdre la mémoire ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Peut-être ; mais enfin, vous me ferez plaisir  
 De m'en dire toute l'Histoire.  
 
-    ALCMÈNE
+    ALCMÈNE.
 L'Histoire n'est pas longue. À vous je m'avançai,  
 Pleine d'une aimable surprise :  
 Tendrement je vous embrassai ;  
 Et témoignai ma joie, à plus d'une reprise.  
 
-    AMPHITRYON *en soi-même*
+    AMPHITRYON *en soi-même*.
 Ah ! d'un si doux accueil je me serais passé.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Vous me fîtes d'abord ce Présent d'importance,  
 Que du Butin conquis vous m'aviez destiné.  
 Votre Cœur, avec véhémence,  
@@ -1744,68 +1744,68 @@ Pour le retour, s'était donné.
 Et jamais votre amour, en pareille occurrence,  
 Ne me parut si tendre, et si passionné.  
 
-    AMPHITRYON *en soi-même*
+    AMPHITRYON *en soi-même*.
 Peut-on plus vivement se voir assassiné !  
 
-    ALCMÈNE
+    ALCMÈNE.
 Tous ces transports, toute cette tendresse,  
 Comme vous croyez bien, ne me déplaisaient pas :  
 Et s'il faut que je le confesse,  
 Mon Cœur, Amphitryon, y trouvait mille appas.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ensuite, s'il vous plaît.  
 
-    ALCMÈNE
-Nous nous entrecoupâmes  
+    ALCMÈNE.
+        Nous nous entrecoupâmes  
 De mille Questions, qui pouvaient nous toucher.  
 On servit. Tête-à-tête, ensemble nous soupâmes ;  
 Et le Souper fini, nous nous fûmes coucher.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ensemble ?  
 
-    ALCMÈNE
-Assurément. Quelle est cette demande ?  
+    ALCMÈNE.
+        Assurément. Quelle est cette demande ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! c'est ici le coup le plus cruel de tous !  
 Et dont à s'assurer, tremblait mon feu jaloux !  
 
-    ALCMÈNE
+    ALCMÈNE.
 D'où vous vient, à ce mot, une rougeur si grande ?  
 Ai-je fait quelque mal, de coucher avec vous ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Non, ce n'était pas moi, pour ma douleur sensible.  
 Et qui dit qu'hier ici mes pas se sont portés,  
 Dit, de toutes les faussetés,  
 La fausseté la plus horrible.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Amphitryon !  
 
-    AMPHITRYON
-Perfide !  
+    AMPHITRYON.
+    Perfide !  
 
-    ALCMÈNE
-Ah ! quel emportement !  
+    ALCMÈNE.
+        Ah ! quel emportement !  
 
-    AMPHITRYON
+    AMPHITRYON.
 Non, non, plus de douceur, et plus de déférence.  
 Ce revers vient à bout de toute ma constance,  
 Et mon Cœur ne respire, en ce fatal moment,  
 Et que fureur, et que vengeance.  
 
-    ALCMÈNE
+    ALCMÈNE.
 De qui donc vous venger ? et quel manque de foi,  
 Vous fait ici me traiter de coupable ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Je ne sais pas : mais ce n'était pas moi ;  
 Et c'est un désespoir, qui de tout rend capable.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Allez, indigne Époux, le fait parle de soi ;  
 Et l'imposture est effroyable.  
 C'est trop me pousser là-dessus ;  
@@ -1817,7 +1817,7 @@ Tous ces détours sont superflus :
 Et me voilà déterminée,  
 À souffrir qu'en ce jour, nos liens soient rompus.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Après l'indigne affront que l'on me fait connaître,  
 C'est bien à quoi, sans doute, il faut vous préparer.  
 C'est le moins qu'on doit voir ; et les choses, peut-être,  
@@ -1835,41 +1835,41 @@ Jusques à présent inouï ;
 Et dans les mouvements d'une juste colère,  
 Malheur à qui m'aura trahi.  
 
-    SOSIE
+    SOSIE.
 Monsieur…  
 
-    AMPHITRYON
-Ne m'accompagne pas ;  
+    AMPHITRYON.
+        Ne m'accompagne pas ;  
 Et demeure ici, pour m'attendre.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Faut-il…  
 
-    ALCMÈNE
-Je ne puis rien entendre :  
+    ALCMÈNE.
+        Je ne puis rien entendre :  
 Laisse-moi seule, et ne suis point mes pas.  
 
 
-## Scène III
+## Scène III.
 Cléanthis, Sosie.
 
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Il faut que quelque chose ait brouillé sa cervelle :  
 Mais le Frère, sur-le-champ,  
 Finira cette querelle.  
 
-    SOSIE
+    SOSIE.
 C'est ici, pour mon Maître, un coup assez touchant ;  
 Et son aventure est cruelle.  
 Je crains fort, pour mon fait, quelque chose approchant,  
 Et je m'en veux, tout doux, éclaircir avec elle.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Voyez s'il me viendra seulement aborder ?  
 Mais je veux m'empêcher de rien faire paraître.  
 
-    SOSIE
+    SOSIE.
 La chose quelquefois est fâcheuse à connaître,  
 Et je tremble à la demander.  
 Ne vaudrait-il point mieux, pour ne rien hasarder,  
@@ -1881,68 +1881,68 @@ Des curiosités d'apprendre
 Ce qu'on ne voudrait pas savoir.  
 Dieu te gard', Cléanthis.  
 
-    CLÉANTHIS
-Ah, ah, tu t'en avises,  
+    CLÉANTHIS.
+        Ah, ah, tu t'en avises,  
 Traître, de t'approcher de nous !  
 
-    SOSIE
+    SOSIE.
 Mon Dieu, qu'as-tu ? toujours on te voit en courroux ;  
 Et sur rien, tu te formalises.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Qu'appelles-tu sur rien ? dis ?  
 
-    SOSIE
-J'appelle sur rien,  
+    SOSIE.
+        J'appelle sur rien,  
 Ce qui sur rien s'appelle en Vers, ainsi qu'en Prose ;  
 Et rien, comme tu le sais bien,  
 Veut dire rien, ou peu de chose.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Je ne sais qui me tient, Infâme,  
 Que je ne t'arrache les yeux ;  
 Et ne t'apprenne où va le courroux d'une Femme.  
 
-    SOSIE
+    SOSIE.
 Holà. D'où te vient donc ce transport furieux ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Tu n'appelles donc rien le procédé, peut-être,  
 Qu'avec moi ton Cœur a tenu ?  
 
-    SOSIE
+    SOSIE.
 Et quel ?  
 
-    CLÉANTHIS
-Quoi ! tu fais l'ingénu !  
+    CLÉANTHIS.
+        Quoi ! tu fais l'ingénu !  
 Est-ce qu'à l'exemple du Maître,  
 Tu veux dire qu'ici tu n'es pas revenu ?  
 
-    SOSIE
+    SOSIE.
 Non, je sais fort bien le contraire.  
 Mais je ne t'en fais pas le fin ;  
 Nous avions bu de je ne sais quel Vin,  
 Qui m'a fait oublier tout ce que j'ai pu faire.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Tu crois, peut-être, excuser par ce trait…  
 
-    SOSIE
+    SOSIE.
 Non, tout de bon ; tu m'en peux croire.  
 J'étais dans un état, où je puis avoir fait  
 Des choses, dont j'aurais regret,  
 Et dont je n'ai nulle mémoire.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Tu ne te souviens point du tout de la manière,  
 Dont tu m'as su traiter, étant venu du Port ?  
 
-    SOSIE
+    SOSIE.
 Non plus que rien. Tu peux m'en faire le rapport.  
 Je suis équitable, et sincère ;  
 Et me condamnerai moi-même, si j'ai tort.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Comment ! Amphitryon m'ayant su disposer,  
 Jusqu'à ce que tu vins, j'avais poussé ma veille :  
 Mais je ne vis jamais une froideur pareille :  
@@ -1950,90 +1950,90 @@ De ta Femme, il fallut moi-même t'aviser ;
 Et lorsque je fus te baiser,  
 Tu détournas le nez, et me donnas l'oreille !  
 
-    SOSIE
+    SOSIE.
 Bon !  
 
-    CLÉANTHIS
-Comment, bon ?  
+    CLÉANTHIS.
+    Comment, bon ?  
 
-    SOSIE
-Mon Dieu, tu ne sais pas pourquoi,  
+    SOSIE.
+        Mon Dieu, tu ne sais pas pourquoi,  
 Cléanthis, je tiens ce langage.  
 J'avais mangé de l'Ail, et fis en Homme sage,  
 De détourner un peu mon haleine de toi.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Je te sus exprimer des tendresses de Cœur :  
 Mais à tous mes discours tu fus comme une Souche.  
 Et jamais un mot de douceur,  
 Ne te put sortir de la bouche.  
 
-    SOSIE
+    SOSIE.
 Courage.  
 
-    CLÉANTHIS
-Enfin ma flamme eut beau s'émanciper,  
+    CLÉANTHIS.
+        Enfin ma flamme eut beau s'émanciper,  
 Sa chaste ardeur en toi ne trouva rien que glace ;  
 Et dans un tel retour je te vis la tromper,  
 Jusqu'à faire refus de prendre au Lit la place,  
 Que les Lois de l'Hymen t'obligent d'occuper.  
 
-    SOSIE
+    SOSIE.
 Quoi ! je ne couchai point…  
 
-    CLÉANTHIS
-Non, lâche.  
+    CLÉANTHIS.
+    Non, lâche.  
 
-    SOSIE
-Est-il possible !  
+    SOSIE.
+        Est-il possible !  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Traître, il n'est que trop assuré.  
 C'est de tous les affronts, l'affront le plus sensible.  
 Et loin que ce matin, ton Cœur l'ait réparé ;  
 Tu t'es d'avec moi séparé,  
 Par des discours chargés d'un mépris tout visible.  
 
-    SOSIE
+    SOSIE.
 *Vivat*, Sosie !  
 
-    CLÉANTHIS
-Hé quoi ? ma plainte a cet effet ?  
+    CLÉANTHIS.
+        Hé quoi ? ma plainte a cet effet ?  
 Tu ris après ce bel Ouvrage ?  
 
-    SOSIE
+    SOSIE.
 Que je suis de moi satisfait !  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Exprime-t-on ainsi le regret d'un outrage ?  
 
-    SOSIE
+    SOSIE.
 Je n'aurais jamais cru que j'eusse été si sage.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Loin de te condamner d'un si perfide trait,  
 Tu m'en fais éclater la joie en ton visage.  
 
-    SOSIE
+    SOSIE.
 Mon Dieu, tout doucement ! Si je parais joyeux,  
 Crois que j'en ai dans l'Âme une raison très forte :  
 Et que sans y penser, je ne fis jamais mieux,  
 Que d'en user tantôt avec toi de la sorte.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Traître, te moques-tu de moi ?  
 
-    SOSIE
+    SOSIE.
 Non, je te parle avec franchise.  
 En l'état où j'étais, j'avais certain effroi,  
 Dont, avec ton discours, mon Âme s'est remise.  
 Je m'appréhendais fort, et craignais qu'avec toi  
 Je n'eusse fait quelque sottise.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Quelle est cette frayeur ? et sachons donc pourquoi ?  
 
-    SOSIE
+    SOSIE.
 Les Médecins disent, quand on est ivre,  
 Que de sa Femme on se doit abstenir ;  
 Et que dans cet état, il ne peut provenir,  
@@ -2041,7 +2041,7 @@ Que des Enfants pesants, et qui ne sauraient vivre.
 Vois, si mon Cœur n'eût su de froideur se munir,  
 Quels inconvénients auraient pu s'en ensuivre ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Je me moque des Médecins,  
 Avec leurs raisonnements fades.  
 Qu'ils règlent ceux qui sont malades,  
@@ -2052,21 +2052,21 @@ Et sur les Jours Caniculaires,
 Ils nous donnent encore, avec leurs Lois sévères,  
 De cent sots contes par le nez.  
 
-    SOSIE
+    SOSIE.
 Tout doux.  
 
-    CLÉANTHIS
-Non : je soutiens que, cela conclut mal,  
+    CLÉANTHIS.
+        Non : je soutiens que, cela conclut mal,  
 Ces raisons sont raisons d'extravagantes Têtes.  
 Il n'est ni Vin, ni temps, qui puisse être fatal,  
 À remplir le devoir de l'Amour conjugal ;  
 Et les Médecins sont des Bêtes.  
 
-    SOSIE
+    SOSIE.
 Contre eux, je t'en supplie, apaise ton courroux.  
 Ce sont d'honnêtes Gens, quoi que le Monde en dise.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Tu n'es pas où tu crois. En vain tu files doux.  
 Ton excuse n'est point une excuse de mise :  
 Et je me veux venger, tôt ou tard, entre nous,  
@@ -2075,128 +2075,128 @@ Des discours de tantôt, je garde tous les coups,
 Et tâcherai d'user, lâche et perfide Époux,  
 De cette liberté que ton Cœur m'a permise.  
 
-    SOSIE
+    SOSIE.
 Quoi ?  
 
-    CLÉANTHIS
-Tu m'as dit tantôt, que tu consentais fort,  
+    CLÉANTHIS.
+        Tu m'as dit tantôt, que tu consentais fort,  
 Lâche, que j'en aimasse un autre.  
 
-    SOSIE
+    SOSIE.
 Ah ! pour cet Article, j'ai tort.  
 Je m'en dédis, il y va trop du nôtre.  
 Garde-toi bien de suivre ce transport.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Si je puis une fois pourtant,  
 Sur mon Esprit gagner la chose…  
 
-    SOSIE
+    SOSIE.
 Fais à ce discours quelque pause :  
 Amphitryon revient, qui me paraît content.  
 
 
-## Scène IV
+## Scène IV.
 Jupiter, Cléanthis, Sosie.
 
 
-    JUPITER
+    JUPITER.
 Je viens prendre le temps de rapaiser Alcmène ;  
 De bannir les chagrins, que son Cœur veut garder ;  
 Et donner à mes feux, dans ce soin qui m'amène,  
 Le doux plaisir de se raccommoder.  
 Alcmène est là-haut, n'est-ce pas ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Oui, pleine d'une inquiétude,  
 Qui cherche de la solitude ;  
 Et qui m'a défendu d'accompagner ses pas.  
 
-    JUPITER
+    JUPITER.
 Quelque défense qu'elle ait faite,  
 Elle ne sera pas pour moi.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Son chagrin, à ce que je vois,  
 A fait une prompte retraite.  
 
 
-## Scène V
+## Scène V.
 Cléanthis, Sosie.
 
 
-    SOSIE
+    SOSIE.
 Que dis-tu, Cléanthis, de ce joyeux maintien,  
 Après son fracas effroyable ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Que si toutes nous faisions bien,  
 Nous donnerions tous les Hommes au Diable ;  
 Et que le meilleur n'en vaut rien.  
 
-    SOSIE
+    SOSIE.
 Cela se dit dans le courroux :  
 Mais aux Hommes, par trop, vous êtes accrochées ;  
 Et vous seriez, ma foi, toutes bien empêchées,  
 Si le Diable les prenait tous.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Vraiment…  
 
-    SOSIE
-Les voici. Taisons-nous.  
+    SOSIE.
+        Les voici. Taisons-nous.  
 
 
-## Scène VI
+## Scène VI.
 Jupiter, Alcmène, Cléanthis, Sosie.
 
 
-    JUPITER
+    JUPITER.
 Voulez-vous me désespérer ?  
 Hélas ! arrêtez, belle Alcmène.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Non, avec l'Auteur de ma peine,  
 Je ne puis du tout demeurer.  
 
-    JUPITER
+    JUPITER.
 De grâce…  
 
-    ALCMÈNE
-Laissez-moi.  
+    ALCMÈNE.
+    Laissez-moi.  
 
-    JUPITER
-Quoi…  
+    JUPITER.
+    Quoi…  
 
-    ALCMÈNE
-Laissez-moi, vous dis-je.  
+    ALCMÈNE.
+        Laissez-moi, vous dis-je.  
 
-    JUPITER
+    JUPITER.
 Ses pleurs touchent mon Âme, et sa douleur m'afflige.  
 Souffrez que mon Cœur…  
 
-    ALCMÈNE
-Non, ne suivez point mes pas.  
+    ALCMÈNE.
+        Non, ne suivez point mes pas.  
 
-    JUPITER
+    JUPITER.
 Où voulez-vous aller ?  
 
-    ALCMÈNE
-Où vous ne serez pas.  
+    ALCMÈNE.
+        Où vous ne serez pas.  
 
-    JUPITER
+    JUPITER.
 Ce vous est une attente vaine.  
 Je tiens à vos Beautés, par un nœud trop serré,  
 Pour pouvoir un moment en être séparé ;  
 Je vous suivrai partout, Alcmène.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Et moi, partout je vous fuirai.  
 
-    JUPITER
+    JUPITER.
 Je suis donc bien épouvantable ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Plus qu'on ne peut dire, à mes yeux.  
 Oui, je vous vois, comme un Monstre effroyable ;  
 Un Monstre cruel, furieux,  
@@ -2208,34 +2208,34 @@ Et je ne vois rien, sous les Cieux,
 D'affreux, d'horrible, d'odieux,  
 Qui ne me fût, plus que vous, supportable.  
 
-    JUPITER
+    JUPITER.
 En voilà bien, hélas ! que votre bouche dit !  
 
-    ALCMÈNE
+    ALCMÈNE.
 J'en ai dans le Cœur davantage.  
 Et pour s'exprimer tout, ce Cœur a du dépit,  
 De ne point trouver de langage.  
 
-    JUPITER
+    JUPITER.
 Hé ! que vous a donc fait ma flamme,  
 Pour me pouvoir, Alcmène, en Monstre regarder ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Ah ! juste Ciel ! cela peut-il se demander ?  
 Et n'est-ce pas pour mettre à bout une Âme ?  
 
-    JUPITER
+    JUPITER.
 Ah ! d'un Esprit plus adouci…  
 
-    ALCMÈNE
+    ALCMÈNE.
 Non, je ne veux, du tout, vous voir, ni vous entendre.  
 
-    JUPITER
+    JUPITER.
 Avez-vous bien le cœur de me traiter ainsi ?  
 Est-ce là cet amour si tendre,  
 Qui devait tant durer, quand je vins hier ici ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Non, non, ce ne l'est pas ; et vos lâches injures  
 En ont autrement ordonné.  
 Il n'est plus, cet amour tendre, et passionné ;  
@@ -2248,13 +2248,13 @@ Qui prétend vous haïr, pour cet affront sensible,
 Autant qu'il est d'accord de vous avoir aimé :  
 Et c'est haïr, autant qu'il est possible.  
 
-    JUPITER
+    JUPITER.
 Hélas ! que votre amour n'avait guère de force,  
 Si de si peu de chose on le peut voir mourir !  
 Ce qui n'était que jeu, doit-il faire un divorce,  
 Et d'une raillerie, a-t-on lieu de s'aigrir ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Ah ! c'est cela dont je suis offensée ;  
 Et que ne peut pardonner mon courroux.  
 Des véritables traits d'un mouvement jaloux,  
@@ -2281,7 +2281,7 @@ D'un Cœur, qui chèrement nous aime ?
 Ah ! c'est un coup trop cruel en lui-même ;  
 Et que jamais n'oubliera ma douleur.  
 
-    JUPITER
+    JUPITER.
 Oui, vous avez raison, Alcmène, il se faut rendre.  
 Cette action, sans doute, est un crime odieux.  
 Je ne prétends plus le défendre :  
@@ -2313,7 +2313,7 @@ Démêlez-le un peu du coupable ;
 Et pour être enfin équitable,  
 Ne le punissez point, de ce qu'il n'a pas fait.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Ah ! toutes ces subtilités  
 N'ont que des excuses frivoles ;  
 Et pour les Esprits irrités,  
@@ -2329,7 +2329,7 @@ Tous deux ils sont peints à mes yeux.
 Tous deux sont criminels ; tous deux m'ont offensée ;  
 Et tous deux me sont odieux.  
 
-    JUPITER
+    JUPITER.
 Hé bien, puisque vous le voulez,  
 Il faut donc me charger du crime.  
 Oui, vous avez raison, lorsque vous m'immolez  
@@ -2381,48 +2381,48 @@ Aucune impression de haine,
 Au souvenir de mon amour.  
 C'est tout ce que j'attends, pour faveur souveraine.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Ah ! trop cruel Époux !  
 
-    JUPITER
-Dites, parlez, Alcmène.  
+    JUPITER.
+        Dites, parlez, Alcmène.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Faut-il encor pour vous, conserver des bontés ;  
 Et vous voir m'outrager, par tant d'indignités ?  
 
-    JUPITER
+    JUPITER.
 Quelque ressentiment, qu'un outrage nous cause,  
 Tient-il contre un remords d'un Cœur bien enflammé ?  
 
-    ALCMÈNE
+    ALCMÈNE.
 Un Cœur bien plein de flamme, à mille morts s'expose,  
 Plutôt que de vouloir fâcher l'Objet aimé.  
 
-    JUPITER
+    JUPITER.
 Plus on aime quelqu'un, moins on trouve de peine…  
 
-    ALCMÈNE
+    ALCMÈNE.
 Non, ne m'en parlez point, vous méritez ma haine.  
 
-    JUPITER
+    JUPITER.
 Vous me haïssez donc ?  
 
-    ALCMÈNE
-J'y fais tout mon effort ;  
+    ALCMÈNE.
+        J'y fais tout mon effort ;  
 Et j'ai dépit de voir, que toute votre offense  
 Ne puisse de mon Cœur, jusqu'à cette vengeance,  
 Faire encore aller le transport.  
 
-    JUPITER
+    JUPITER.
 Mais pourquoi cette violence,  
 Puisque pour vous venger, je vous offre ma mort ?  
 Prononcez-en l'Arrêt, et j'obéis sur l'heure.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Qui ne saurait haïr, peut-il vouloir qu'on meure ?  
 
-    JUPITER
+    JUPITER.
 Et moi, je ne puis vivre, à moins que vous quittiez  
 Cette colère qui m'accable ;  
 Et que vous m'accordiez le pardon favorable,  
@@ -2430,7 +2430,7 @@ Que je vous demande à vos pieds.
 Résolvez ici l'un des deux,  
 Ou de punir, ou bien d'absoudre.  
 
-    ALCMÈNE
+    ALCMÈNE.
 Hélas ! ce que je puis résoudre,  
 Paraît bien plus, que je ne veux !  
 Pour vouloir soutenir le courroux qu'on me donne,  
@@ -2438,13 +2438,13 @@ Mon Cœur a trop su me trahir.
 Dire qu'on ne saurait haïr,  
 N'est-ce pas dire qu'on pardonne ?  
 
-    JUPITER
+    JUPITER.
 Ah ! belle Alcmène, il faut que comblé d'allégresse…  
 
-    ALCMÈNE
+    ALCMÈNE.
 Laissez. Je me veux mal de mon trop de faiblesse.  
 
-    JUPITER
+    JUPITER.
 Va, Sosie, et dépêche-toi,  
 Voir, dans les doux transports dont mon Âme est charmée,  
 Ce que tu trouveras d'Officiers de l'Armée,  
@@ -2453,47 +2453,47 @@ Tandis que d'ici je le chasse,
 Mercure y remplira sa place.  
 
 
-## Scène VII
+## Scène VII.
 Cléanthis, Sosie.
 
 
-    SOSIE
+    SOSIE.
 Hé bien ! tu vois, Cléanthis, ce ménage.  
 Veux-tu, qu'à leur exemple ici,  
 Nous fassions entre nous un peu de paix aussi ?  
 Quelque petit rapatriage ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 C'est pour ton nez, vraiment. Cela se fait ainsi.  
 
-    SOSIE
+    SOSIE.
 Quoi ! tu ne veux pas ?  
 
-    CLÉANTHIS
-Non.  
+    CLÉANTHIS.
+    Non.  
 
-    SOSIE
-Il ne m'importe guère,  
+    SOSIE.
+        Il ne m'importe guère,  
 Tant pis pour toi.  
 
-    CLÉANTHIS
-Là, là, reviens.  
+    CLÉANTHIS.
+        Là, là, reviens.  
 
-    SOSIE
+    SOSIE.
 Non, morbleu, je n'en ferai rien ;  
 Et je veux être, à mon tour, en colère.  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Va, va, Traître, laisse-moi faire ;  
 On se lasse, parfois, d'être Femme de bien.  < Fin du Second Acte. >
 
 
-# Acte III
+# Acte III.
 
 
-## Scène Première
+## Scène Première.
 
-    AMPHITRYON
+    AMPHITRYON.
 Oui, sans doute, le Sort tout exprès me le cache ;  
 Et des tours que je fais, à la fin, je suis las.  
 Il n'est point de Destin plus cruel, que je sache.  
@@ -2547,11 +2547,11 @@ Que ce penser soit véritable ;
 Et que, pour mon bonheur, elle ait perdu l'Esprit !  
 
 
-## Scène II
+## Scène II.
 Mercure, Amphitryon.
 
 
-    MERCURE
+    MERCURE.
 Comme l'Amour ici ne m'offre aucun plaisir,  
 Je m'en veux faire, au moins, qui soient d'autre nature :  
 Et je vais égayer mon sérieux loisir,  
@@ -2561,146 +2561,146 @@ Mais aussi n'est-ce pas ce dont je m'inquiète ;
 Et je me sens, par ma Planète,  
 À la malice un peu porté.  
 
-    AMPHITRYON
+    AMPHITRYON.
 D'où vient donc qu'à cette heure on ferme cette Porte ?  
 
-    MERCURE
+    MERCURE.
 Holà, tout doucement. Qui frappe ?  
 
-    AMPHITRYON
-Moi.  
+    AMPHITRYON.
+    Moi.  
 
-    MERCURE
-Qui, moi ?  
+    MERCURE.
+        Qui, moi ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! ouvre.  
 
-    MERCURE
-Comment, ouvre ? Et qui donc es-tu, toi ;  
+    MERCURE.
+        Comment, ouvre ? Et qui donc es-tu, toi ;  
 Qui fais tant de vacarme, et parles de la sorte ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Quoi ! tu ne me connais pas ?  
 
-    MERCURE
-Non :  
+    MERCURE.
+        Non :  
 Et n'en ai pas la moindre envie.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Tout le Monde perd-il aujourd'hui la raison ?  
 Est-ce un mal répandu ? Sosie, holà, Sosie.  
 
-    MERCURE
+    MERCURE.
 Hé bien, Sosie : oui, c'est mon nom.  
 As-tu peur que je ne l'oublie ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Me vois-tu bien ?  
 
-    MERCURE
-Fort bien. Qui peut pousser ton Bras,  
+    MERCURE.
+        Fort bien. Qui peut pousser ton Bras,  
 À faire une rumeur si grande ?  
 Et que demandes-tu là-bas ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Moi, Pendard, ce que je demande ?  
 
-    MERCURE
+    MERCURE.
 Que ne demandes-tu donc pas ?  
 Parle, si tu veux qu'on t'entende.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Attends, Traître, avec un Bâton  
 Je vais là-haut me faire entendre ;  
 Et de bonne façon t'apprendre  
 À m'oser parler sur ce ton.  
 
-    MERCURE
+    MERCURE.
 Tout beau. Si pour heurter, tu fais la moindre instance,  
 Je t'enverrai d'ici des Messagers fâcheux.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ô Ciel ! vit-on jamais une telle insolence !  
 La peut-on concevoir d'un Serviteur ; d'un Gueux ?  
 
-    MERCURE
+    MERCURE.
 Hé bien ! qu'est-ce ? m'as-tu tout parcouru par ordre ?  
 M'as-tu de tes gros yeux assez considéré ?  
 Comme il les écarquille, et paraît effaré !  
 Si des regards on pouvait mordre,  
 Il m'aurait déjà déchiré.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Moi-même je frémis de ce que tu t'apprêtes,  
 Avec ces impudents propos.  
 Que tu grossis pour toi d'effroyables tempêtes !  
 Quels orages de coups vont fondre sur ton Dos !  
 
-    MERCURE
+    MERCURE.
 L'Ami, si de ces Lieux tu ne veux disparaître,  
 Tu pourras y gagner quelque contusion.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! tu sauras Maraud, à ta confusion,  
 Ce que c'est qu'un Valet, qui s'attaque à son Maître.  
 
-    MERCURE
+    MERCURE.
 Toi, mon Maître ?  
 
-    AMPHITRYON
-Oui, Coquin. M'oses-tu méconnaître ?  
+    AMPHITRYON.
+        Oui, Coquin. M'oses-tu méconnaître ?  
 
-    MERCURE
+    MERCURE.
 Je n'en reconnais point d'autre, qu'Amphitryon.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Et cet Amphitryon, qui, hors moi, le peut être ?  
 
-    MERCURE
+    MERCURE.
 Amphitryon ?  
 
-    AMPHITRYON
-Sans doute.  
+    AMPHITRYON.
+    Sans doute.  
 
-    MERCURE
-Ah ! quelle vision !  
+    MERCURE.
+        Ah ! quelle vision !  
 Dis-nous un peu. Quel est le Cabaret honnête,  
 Où tu t'es coiffé le cerveau ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Comment ! encor !  
 
-    MERCURE
-Était-ce un Vin à faire fête ?  
+    MERCURE.
+        Était-ce un Vin à faire fête ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ciel !  
 
-    MERCURE
-Était-il vieux, ou nouveau ?  
+    MERCURE.
+        Était-il vieux, ou nouveau ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Que de coups !  
 
-    MERCURE
-Le nouveau donne fort dans la tête,  
+    MERCURE.
+        Le nouveau donne fort dans la tête,  
 Quand on le veut boire sans eau.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! je t'arracherai cette Langue, sans doute.  
 
-    MERCURE
+    MERCURE.
 Passe, mon cher Ami, crois-moi ;  
 Que quelqu'un ici ne t'écoute.  
 Je respecte le Vin : va-t'en, retire-toi ;  
 Et laisse Amphitryon dans les plaisirs qu'il goûte.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Comment ! Amphitryon est là-dedans ?  
 
-    MERCURE
-Fort bien :  
+    MERCURE.
+        Fort bien :  
 Qui couvert des Lauriers d'une Victoire pleine,  
 Est auprès de la belle Alcmène,  
 À jouir des douceurs d'un aimable entretien.  
@@ -2711,9 +2711,9 @@ Si tu ne veux qu'il ne punisse
 L'excès de tes témérités.  
 
 
-## Scène III
+## Scène III.
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! quel étrange coup m'a-t-il porté dans l'Âme ?  
 En quel trouble cruel jette-t-il mon Esprit ?  
 Et si les choses sont, comme le Traître dit,  
@@ -2728,120 +2728,120 @@ Et toute mon inquiétude
 Ne doit aller qu'à me venger.  
 
 
-## Scène IV
+## Scène IV.
 Sosie, Naucratès, Polidas, Amphitryon.
 
 
-    SOSIE
+    SOSIE.
 Monsieur, avec mes soins, tout ce que j'ai pu faire,  
 C'est de vous amener ces Messieurs que voici.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! vous voilà ?  
 
-    SOSIE
-Monsieur.  
+    SOSIE.
+    Monsieur.  
 
-    AMPHITRYON
-Insolent, téméraire.  
+    AMPHITRYON.
+        Insolent, téméraire.  
 
-    SOSIE
+    SOSIE.
 Quoi ?  
 
-    AMPHITRYON
-Je vous apprendrai de me traiter ainsi.  
+    AMPHITRYON.
+        Je vous apprendrai de me traiter ainsi.  
 
-    SOSIE
+    SOSIE.
 Qu'est-ce donc ? qu'avez-vous ?  
 
-    AMPHITRYON
-Ce que j'ai, Misérable ?  
+    AMPHITRYON.
+        Ce que j'ai, Misérable ?  
 
-    SOSIE
+    SOSIE.
 Holà, Messieurs, venez donc tôt.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Ah ! de grâce, arrêtez.  
 
-    SOSIE
-De quoi suis-je coupable ?  
+    SOSIE.
+        De quoi suis-je coupable ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Tu me le demandes, Maraud ?  
 Laissez-moi satisfaire un courroux légitime.  
 
-    SOSIE
+    SOSIE.
 Lorsque l'on pend quelqu'un, on lui dit pourquoi c'est.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Daignez nous dire, au moins, quel peut être son crime.  
 
-    SOSIE
+    SOSIE.
 Messieurs, tenez bon, s'il vous plaît ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Comment ! il vient d'avoir l'audace,  
 De me fermer ma Porte au nez !  
 Et de joindre encor la menace,  
 À mille propos effrénés !  
 Ah ! Coquin.  
 
-    SOSIE
-Je suis mort.  
+    SOSIE.
+    Je suis mort.  
 
-    NAUCRATÈS
-Calmez cette colère.  
+    NAUCRATÈS.
+        Calmez cette colère.  
 
-    SOSIE
+    SOSIE.
 Messieurs.  
 
-    POLIDAS
-Qu'est-ce ?  
+    POLIDAS.
+    Qu'est-ce ?  
 
-    SOSIE
-M'a-t-il frappé ?  
+    SOSIE.
+        M'a-t-il frappé ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Non, il faut qu'il ait le salaire  
 Des mots, où tout à l'heure, il s'est émancipé.  
 
-    SOSIE
+    SOSIE.
 Comment cela se peut-il faire,  
 Si j'étais par votre ordre autre part occupé ?  
 Ces messieurs sont ici, pour rendre témoignage,  
 Qu'à dîner avec vous, je les viens d'inviter.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Il est vrai qu'il nous vient de faire ce message ;  
 Et n'a point voulu nous quitter.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Qui t'a donné cet Ordre ?  
 
-    SOSIE
-Vous.  
+    SOSIE.
+        Vous.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Et quand ?  
 
-    SOSIE
-Après votre paix faite,  
+    SOSIE.
+        Après votre paix faite,  
 Au milieu des transports d'une Âme satisfaite,  
 D'avoir d'Alcmène apaisé le courroux.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ô Ciel ! chaque instant, chaque pas,  
 Ajoute quelque chose à mon cruel martyre !  
 Et dans ce fatal embarras,  
 Je ne sais plus que croire, ni que dire.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Tout ce que de chez vous, il vient de nous conter,  
 Surpasse si fort la Nature,  
 Qu'avant que de rien faire, et de vous emporter,  
 Vous devez éclaircir toute cette aventure.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Allons, vous y pourrez seconder mon effort ;  
 Et le Ciel à propos, ici vous a fait rendre.  
 Voyons quelle fortune en ce jour peut m'attendre.  
@@ -2850,87 +2850,87 @@ Hélas ! je brûle de l'apprendre ;
 Et je le crains plus que la Mort !  
 
 
-## Scène V
+## Scène V.
 Jupiter, Amphitryon, Naucratès, Polidas, Sosie.
 
 
-    JUPITER
+    JUPITER.
 Quel bruit à descendre m'oblige ?  
 Et qui frappe en Maître où je suis ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Que vois-je, justes Dieux !  
 
-    NAUCRATÈS
-Ciel ! quel est ce prodige !  
+    NAUCRATÈS.
+        Ciel ! quel est ce prodige !  
 Quoi ! deux Amphitryons ici nous sont produits !  
 
-    AMPHITRYON
+    AMPHITRYON.
 Mon Âme demeure transie.  
 Hélas ! Je n'en puis plus ; l'aventure est à bout :  
 Ma destinée est éclaircie ;  
 Et ce que je vois, me dit tout.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Plus mes regards sur eux s'attachent fortement,  
 Plus je trouve qu'en tout, l'un à l'autre est semblable.  
 
-    SOSIE
+    SOSIE.
 Messieurs, voici le véritable ;  
 L'autre est un Imposteur, digne de châtiment.  
 
-    POLIDAS
+    POLIDAS.
 Certes, ce rapport admirable  
 Suspend ici mon jugement.  
 
-    AMPHITRYON
+    AMPHITRYON.
 C'est trop être éludés par un Fourbe exécrable,  
 Il faut, avec ce Fer, rompre l'enchantement.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Arrêtez.  
 
-    AMPHITRYON
-Laissez-moi.  
+    AMPHITRYON.
+    Laissez-moi.  
 
-    NAUCRATÈS
-Dieux ! que voulez-vous faire ?  
+    NAUCRATÈS.
+        Dieux ! que voulez-vous faire ?  
 
-    AMPHITRYON
+    AMPHITRYON.
 Punir, d'un Imposteur, les lâches trahisons.  
 
-    JUPITER
+    JUPITER.
 Tout beau, l'emportement est fort peu nécessaire ;  
 Et lorsque de la sorte on se met en colère,  
 On fait croire qu'on a de mauvaises raisons.  
 
-    SOSIE
+    SOSIE.
 Oui, c'est un Enchanteur, qui porte un Caractère,  
 Pour ressembler aux Maîtres des Maisons.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Je te ferai, pour ton partage,  
 Sentir, par mille coups, ces propos outrageants.  
 
-    SOSIE
+    SOSIE.
 Mon Maître est Homme de courage ;  
 Et ne souffrira point, que l'on batte ses Gens.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Laissez-moi m'assouvir dans mon courroux extrême,  
 Et laver mon affront au sang d'un Scélérat.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Nous ne souffrirons point cet étrange combat,  
 D'Amphitryon, contre lui-même.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Quoi ! mon honneur, de vous, reçoit ce traitement ?  
 Et mes Amis, d'un Fourbe, embrassent la défense ?  
 Loin d'être les premiers à prendre ma vengeance,  
 Eux-mêmes font obstacle à mon ressentiment ?  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Que voulez-vous qu'à cette vue  
 Fassent nos résolutions ;  
 Lorsque par deux Amphitryons,  
@@ -2951,7 +2951,7 @@ De quel côté peut être l'imposture ;
 Et dès que nous aurons démêlé l'aventure,  
 Il ne nous faudra point dire notre devoir.  
 
-    JUPITER
+    JUPITER.
 Oui, vous avez raison : et cette ressemblance,  
 À douter de tous deux, vous peut autoriser.  
 Je ne m'offense point de vous voir en balance :  
@@ -2985,20 +2985,20 @@ Ayez, je vous prie, agréable
 De venir honorer la Table,  
 Où vous a Sosie invités.  
 
-    SOSIE
+    SOSIE.
 Je ne me trompais pas. Messieurs, ce mot termine  
 Toute l'irrésolution :  
 Le véritable Amphitryon,  
 Est l'Amphitryon, où l'on dîne.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ô Ciel ! puis-je plus bas me voir humilié !  
 Quoi ? faut-il que j'entende ici, pour mon martyre,  
 Tout ce que l'Imposteur, à mes yeux, vient de dire ;  
 Et que dans la fureur, que ce discours m'inspire,  
 On me tienne le Bras lié !  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Vous vous plaignez à tort. Permettez-nous d'attendre  
 L'éclaircissement, qui doit rendre  
 Les ressentiments de saison.  
@@ -3006,49 +3006,49 @@ Je ne sais pas s'il impose :
 Mais il parle sur la chose  
 Comme s'il avait raison.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Allez, faibles Amis, et flattez l'imposture.  
 Thèbes en a pour moi de tout autres que vous :  
 Et je vais en trouver, qui partageant l'injure,  
 Sauront prêter la main à mon juste courroux.  
 
-    JUPITER
+    JUPITER.
 Hé bien, je les attends ; et saurai décider  
 Le différend en leur présence.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Fourbe, tu crois par là, peut-être, t'évader :  
 Mais rien ne te saurait sauver de ma vengeance.  
 
-    JUPITER
+    JUPITER.
 À ces injurieux propos  
 Je ne daigne à présent répondre ;  
 Et tantôt je saurai confondre  
 Cette Fureur, avec deux mots.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Le Ciel même, le Ciel, ne t'y saurait soustraire :  
 Et jusques aux Enfers, j'irai suivre tes pas.  
 
-    JUPITER
+    JUPITER.
 Il ne sera pas nécessaire ;  
 Et l'on verra tantôt, que je ne fuirai pas.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Allons, courons, avant que d'avec eux il sorte,  
 Assembler des Amis, qui suivent mon courroux ;  
 Et chez moi venons à main forte,  
 Pour le percer de mille coups.  
 
-    JUPITER
+    JUPITER.
 Point de façons, je vous conjure :  
 Entrons vite dans la Maison.  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Certes, toute cette aventure  
 Confond le sens, et la raison.  
 
-    SOSIE
+    SOSIE.
 Faites trêve, Messieurs, à toutes vos surprises ;  
 Et pleins de joie, allez tabler jusqu'à demain.  
 Que je vais m'en donner ! et me mettre en beau train,  
@@ -3057,34 +3057,34 @@ Je brûle d'en venir aux prises ;
 Et jamais je n'eus tant de faim.  
 
 
-## Scène VI
+## Scène VI.
 Mercure, Sosie.
 
 
-    MERCURE
+    MERCURE.
 Arrête. Quoi ! tu viens ici mettre ton nez,  
 Impudent Fleureur de Cuisine ?  
 
-    SOSIE
+    SOSIE.
 Ah ! de grâce, tout doux !  
 
-    MERCURE
-Ah ! vous y retournez !  
+    MERCURE.
+        Ah ! vous y retournez !  
 Je vous ajusterai l'échine.  
 
-    SOSIE
+    SOSIE.
 Hélas ! brave, et généreux Moi,  
 Modère-toi, je t'en supplie.  
 Sosie, épargne un peu Sosie ;  
 Et ne te plais point tant à frapper dessus toi.  
 
-    MERCURE
+    MERCURE.
 Qui de t'appeler de ce nom,  
 A pu te donner la licence ?  
 Ne t'en ai-je pas fait une expresse défense,  
 Sous peine d'essuyer mille coups de Bâton ?  
 
-    SOSIE
+    SOSIE.
 C'est un Nom, que tous deux nous pouvons à la fois  
 Posséder sous un même Maître.  
 Pour Sosie, en tous Lieux, on sait me reconnaître :  
@@ -3095,84 +3095,84 @@ Faire éclater des jalousies ;
 Et parmi leurs contentions,  
 Faisons en bonne paix, vivre les deux Sosies.  
 
-    MERCURE
+    MERCURE.
 Non, c'est assez d'un seul ; et je suis obstiné,  
 À ne point souffrir de partage.  
 
-    SOSIE
+    SOSIE.
 Du pas devant, sur moi, tu prendras l'avantage.  
 Je serai le Cadet, et tu seras l'Aîné.  
 
-    MERCURE
+    MERCURE.
 Non, un Frère incommode, et n'est pas de mon goût ;  
 Et je veux être Fils unique.  
 
-    SOSIE
+    SOSIE.
 Ô Cœur barbare et tyrannique !  
 Souffre qu'au moins je sois ton Ombre.  
 
-    MERCURE
-Point du tout.  
+    MERCURE.
+        Point du tout.  
 
-    SOSIE
+    SOSIE.
 Que d'un peu de pitié ton âme s'humanise.  
 En cette qualité souffre-moi près de toi.  
 Je te serai partout une Ombre si soumise,  
 Que tu seras content de moi.  
 
-    MERCURE
+    MERCURE.
 Point de quartier : immuable est la Loi.  
 Si d'entrer là-dedans, tu prends encor l'audace,  
 Mille coups en seront le fruit.  
 
-    SOSIE
+    SOSIE.
 Las ! à quelle étrange disgrâce,  
 Pauvre Sosie, es-tu réduit ?  
 
-    MERCURE
+    MERCURE.
 Quoi ! ta bouche se licencie,  
 À te donner encore un Nom, que je défends ?  
 
-    SOSIE
+    SOSIE.
 Non, ce n'est pas moi que j'entends ;  
 Et je parle d'un vieux Sosie,  
 Qui fut jadis de mes Parents ;  
 Qu'avec très grande barbarie,  
 À l'heure du Dîner, l'on chassa de céans.  
 
-    MERCURE
+    MERCURE.
 Prends garde de tomber dans cette frénésie ;  
 Si tu veux demeurer au nombre des vivants.  
 
-    SOSIE
+    SOSIE.
 Que je te rosserais, si j'avais du courage,  
 Double Fils-de-Putain, de trop d'orgueil enflé !  
 
-    MERCURE
+    MERCURE.
 Que dis-tu ?  
 
-    SOSIE
-Rien.  
+    SOSIE.
+    Rien.  
 
-    MERCURE
-Tu tiens, je crois, quelque langage.  
+    MERCURE.
+        Tu tiens, je crois, quelque langage.  
 
-    SOSIE
+    SOSIE.
 Demandez, je n'ai pas soufflé.  
 
-    MERCURE
+    MERCURE.
 Certain mot de Fils-de-Putain,  
 A pourtant frappé mon oreille :  
 Il n'est rien de plus certain.  
 
-    SOSIE
+    SOSIE.
 C'est donc un Perroquet, que le beau temps réveille.  
 
-    MERCURE
+    MERCURE.
 Adieu. Lorsque le Dos pourra te démanger,  
 Voilà l'Endroit, où je demeure.  
 
-    SOSIE
+    SOSIE.
 Ô Ciel ! que l'heure de manger,  
 Pour être mis dehors, est une maudite heure !  
 Allons, cédons au Sort dans notre affliction.  
@@ -3183,28 +3183,28 @@ Au malheureux Amphitryon.
 Je l'aperçois venir en bonne compagnie.  
 
 
-## Scène VII
+## Scène VII.
 Amphitryon, Argatiphontidas, Posiclès, Sosie.
 
 
-    AMPHITRYON
+    AMPHITRYON.
 Arrêtez là, Messieurs. Suivez-nous d'un peu loin ;  
 Et n'avancez tous, je vous prie,  
 Que quand il en sera besoin.  
 
-    POSICLÈS
+    POSICLÈS.
 Je comprends que ce coup doit fort toucher votre Âme.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! de tous les côtés, mortelle est ma douleur !  
 Et je souffre pour ma flamme,  
 Autant que pour mon honneur.  
 
-    POSICLÈS
+    POSICLÈS.
 Si cette Ressemblance est telle que l'on dit,  
 Alcmène, sans être coupable…  
 
-    AMPHITRYON
+    AMPHITRYON.
 Ah ! sur le fait dont il s'agit,  
 L'erreur simple devient un crime véritable,  
 Et sans consentement, l'Innocence y périt.  
@@ -3213,7 +3213,7 @@ Touchent des endroits délicats :
 Et la Raison bien souvent les pardonne ;  
 Que l'Honneur, et l'Amour, ne les pardonnent pas.  
 
-    ARGATIPHONTIDAS
+    ARGATIPHONTIDAS.
 Je n'embarrasse point là-dedans ma pensée :  
 Mais je hais vos Messieurs, de leurs honteux délais ;  
 Et c'est un procédé, dont j'ai l'Âme blessée ;  
@@ -3234,22 +3234,22 @@ Et de vous il faut que j'obtienne,
 Que le Pendard ne meure point,  
 D'une autre main, que de la mienne.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Allons.  
 
-    SOSIE
-Je viens, Monsieur, subir à vos genoux,  
+    SOSIE.
+        Je viens, Monsieur, subir à vos genoux,  
 Le juste châtiment d'une audace maudite.  
 Frappez, battez, chargez, accablez-moi de coups ;  
 Tuez-moi dans votre courroux :  
 Vous ferez bien, je le mérite ;  
 Et je n'en dirai pas un seul mot contre vous.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Lève-toi. Que fait-on ?  
 
-    SOSIE
-L'on m'a chassé tout net :  
+    SOSIE.
+        L'on m'a chassé tout net :  
 Et croyant, à manger, m'aller comme eux, ébattre ;  
 Je ne songeais pas qu'en effet,  
 Je m'attendais là, pour me battre.  
@@ -3260,39 +3260,39 @@ Monsieur, aujourd'hui, nous talonne ;
 Et l'on me Dés-Sosie enfin,  
 Comme on vous Dés-Amphitryonne.  
 
-    AMPHITRYON
+    AMPHITRYON.
 Suis-moi.  
 
-    SOSIE
-N'est-il pas mieux, de voir s'il vient Personne.  
+    SOSIE.
+        N'est-il pas mieux, de voir s'il vient Personne.  
 
 
-## Scène VIII
+## Scène VIII.
 Cléanthis, Naucratès, Polidas, Sosie, Amphitryon, Argatiphontidas, Posiclès.
 
 
-    CLÉANTHIS
-Ô Ciel !
+    CLÉANTHIS.
+Ô Ciel !  
 
-    AMPHITRYON
-Qui t'épouvante ainsi ?  
+    AMPHITRYON.
+        Qui t'épouvante ainsi ?  
 Quelle est la peur, que je t'inspire ?  
 
-    CLÉANTHIS
+    CLÉANTHIS.
 Las ! vous êtes là-haut, et je vous vois ici !  
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Ne vous pressez point, le voici,  
 Pour donner devant tous, les clartés, qu'on désire ;  
 Et qui, si l'on peut croire à ce qu'il vient de dire,  
 Sauront vous affranchir de trouble, et de souci.  
 
 
-## Scène IX
+## Scène IX.
 Mercure, Cléanthis, Naucratès, Polidas, Sosie, Amphitryon, Argatiphontidas, Posiclès.
 
 
-    MERCURE
+    MERCURE.
 Oui, vous l'allez voir tous : et sachez, par avance,  
 Que c'est le Grand Maître des Dieux ;  
 Que sous les traits chéris de cette Ressemblance,  
@@ -3304,11 +3304,11 @@ Mais de s'en consoler, il a maintenant lieu ;
 Et les coups de Bâton d'un Dieu,  
 Font honneur à qui les endure.  
 
-    SOSIE
+    SOSIE.
 Ma foi ! Monsieur le Dieu, je suis votre Valet.  
 Je me serais passé de votre courtoisie.  
 
-    MERCURE
+    MERCURE.
 Je lui donne à présent congé d'être Sosie.  
 Je suis las de porter un Visage si laid ;  
 Et je m'en vais au Ciel, avec de l'Ambrosie,  
@@ -3316,18 +3316,18 @@ M'en débarbouiller tout à fait.
 Il vole dans le Ciel.
 
 
-    SOSIE
+    SOSIE.
 Le Ciel, de m'approcher, t'ôte à jamais l'envie.  
 Ta fureur s'est par trop acharnée après moi :  
 Et je ne vis de ma vie,  
 Un Dieu plus Diable, que toi.  
 
 
-## Scène X
+## Scène X.
 Jupiter, Cléanthis, Naucratès, Polidas, Sosie, Amphitryon, Argatiphontidas, Posiclès.
 
 
-    JUPITER *dans une Nue*
+    JUPITER *dans une Nue*.
 Regarde, Amphitryon, quel est ton Imposteur ;  
 Et sous tes propres traits, vois Jupiter paraître.  
 À ces marques, tu peux aisément le connaître ;  
@@ -3352,10 +3352,10 @@ Par lui-même, n'a pu triompher de sa foi ;
 Et que ce qu'il a reçu d'elle,  
 N'a, par son Cœur ardent, été donné qu'à toi.  
 
-    SOSIE
+    SOSIE.
 Le Seigneur Jupiter sait dorer la Pilule.  
 
-    JUPITER
+    JUPITER.
 Sors donc des noirs chagrins, que ton Cœur a soufferts ;  
 Et rends le calme entier à l'ardeur, qui te brûle.  
 Chez toi, doit naître un Fils, qui sous le nom d'Hercule,  
@@ -3372,10 +3372,10 @@ Sont des Arrêts des Destinées.
 Il se perd dans les Nues.
 
 
-    NAUCRATÈS
+    NAUCRATÈS.
 Certes, je suis ravi de ces marques brillantes…  
 
-    SOSIE
+    SOSIE.
 Messieurs, voulez-vous bien suivre mon sentiment ?  
 Ne vous embarquez nullement,  
 Dans ces douceurs congratulantes.  

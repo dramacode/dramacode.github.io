@@ -16,12 +16,12 @@ A PARIS, Chez : L'AUTEUR, rue et Place du Théâtre François CAILLEAU, Imprime
 Édition critique établie par Céline Grihard dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2013-2014)
 
 
-# Introduction
+# Introduction.
 
 Au milieu du XVII*e* siècle, dans le quartier du Marais, rue des Tournelles, la courtisane Ninon de l'Enclos tenait un salon fréquenté par les honnêtes gens de Paris, qui s'y adonnaient aux plaisirs suivant les lois de la galanterie. Dans sa pièce épisodique *Molière chez Ninon ou le siècle des Grands Hommes*, Olympe de Gouges met en scène cette courtisane, qu'elle admire, parmi ses amis le temps d'une journée, durant laquelle elle rassemble les événements de sa vie qu'elle juge les plus importants. Elle l'entoure notamment de Molière, de Scarron ou du Grand-Condé. Elle célèbre ces grands hommes et présente Ninon de l'Enclos comme un modèle pour les femmes. Olympe de Gouges écrit *Molière chez Ninon* à la fin de l'année 1787 et obtient une lecture à la Comédie-Française en février 1788. La pièce n'étant pas reçue, elle la publie en 1788 et l'intègre en même temps au troisième volume de ses *Œuvres*. [1]
 
 
-# Olympe de Gouges et son œuvre
+# Olympe de Gouges et son œuvre.
 
 Olympe de Gouges naquit Marie Gouze le 7 mai 1748 à Montauban. Sur les registres de baptême son père était Pierre Gouze, un boucher, et sa mère Anne-Olympe Mouisset : « Marie Gouze, fille légitime de Pierre Gouze, boucher, et de Anne-Olympe Mouisset, mariés, de cette paroisse, née le septième may mil-sept-cent-quarante-huit, fut baptisée le lendemain ». Anne-Olympe Mouisset et Pierre Gouze se marièrent le 31 décembre 1737 à Montauban. Cependant d'après Olympe de Gouges elle-même, elle serait en fait la fille de l'auteur Jean-Jacques Lefranc de Pompignan (1709-1784), dont Anne-Olympe Mouisset était à la fois la filleule et la maîtresse. Dans son *Mémoire de Madame de Valmont contre l'ingratitude et la cruauté de la famille de Flaucourt*, Olympe de Gouges semble parler de sa propre histoire et écrire son propre mémoire en remplaçant les vrais noms par des personnages fictifs. Elle devient ainsi Madame de Valmont et nomme Lefranc de Pompignan « marquis de Flaucourt ». C'est dans cet ouvrage, composé surtout de correspondances et publié après la mort de Lefranc de Pompignan, qu'elle annonce qu'elle est en fait sa fille. Selon Olivier Blanc il est probable qu'elle soit bien la fille de l'auteur de *Didon*, notamment parce que cela était de notoriété publique. Olympe de Gouges avait un frère, Jean, et une sœur, Jeanne. Son parrain était un ouvrier nommé Jean Portié et sa marraine, Marie Grimal, serait une nièce de Lefranc de Pompignan d'après elle. Le 28 décembre 1756 Jeanne, sa sœur aînée, avait quinze ans et épousa un « professeur en comptes » Pierre Reynard. Le couple s'installa à Paris avec leur première fille, Jeanne-Olympe. Ils eurent ensuite deux autres enfants. Marie Gouze, quant à elle, fut mariée le 24 octobre 1765, alors qu'elle avait seize ans, à Louis-Yves Aubry, qui appartenait probablement à une famille de restaurateur, selon Olivier Blanc. Ils eurent un fils, Pierre, qui naquit le 29 août 1766. En novembre de la même année, Louis-Yves Aubry mourut, et Marie Aubry décida de ne pas se remarier. Elle partit rejoindre sa sœur à Paris. Elle se fit alors appelée « Olympe de Gouges », ne souhaitant pas garder le nom de son mari, qu'elle n'aimait pas, et parce qu'Olympe était le nom de sa mère et qu'elle le trouvait « céleste » selon Olivier Blanc. « Gouges » est sans doute une forme de son nom de famille qui pouvait s'écrire « Gousse », « Gouges » ou « Gouge ». À Paris, Olympe de Gouges eut une relation avec Jacques Biétrix de Rozières qui l'aidait financièrement et dont elle aurait eu une fille, Julie, morte avant la Révolution selon Olivier Blanc. Elle devint une femme galante fréquentant de nombreux salons, faisant notamment la connaissance de la famille d'Orléans et de la marquise de Montesson, qui l'aurait par la suite introduite auprès des comédiens français. Selon les auteurs du *Petit Dictionnaire des Grands Hommes*, elle aurait été connue en tant que courtisane, étant considérée comme l'une des plus belles femmes de Paris.
 
@@ -36,7 +36,7 @@ Cette connaissance naturelle lui permettrait d'avoir un autre point de vue que l
 Heureux temps de Molière, où les mœurs étaient plus épurées, ou du moins de l'extérieur mieux observé ! On se permettait sur la scène ce qu'on ne se permettrait pas de nos jours, et moi ignorante, j'ose fronder cet absurde préjugé ; mais je suis l'élève de la nature ; je l'ai dit, je le répète, je ne dois rien aux connaissances des hommes. [4]
 
 
-## Les débuts en tant qu'auteur
+## Les débuts en tant qu'auteur.
 
 Vers l'âge de trente ans, selon Olivier Blanc, Olympe de Gouges délaissa la vie galante et commença à fréquenter des intellectuels (philosophes, auteurs dramatiques, journalistes) tels que Louis-Sébastien Mercier, qui devint l'un de ses amis les plus proches, mais aussi La Harpe, Rivarol, Marmontel, Sautereau, Caihava et Aubert, qu'elle consultait pour juger ses ouvrages selon Restif de la Bretonne. Elle fréquentait alors les salles de théâtre et d'opéra et commençait elle-même à écrire des pièces. En 1784 elle avait déjà écrit le *Mémoire de Madame de Valmont* et, d'après elle, une trentaine de pièces dont dix avaient « le sens commun » [5]. Le 28 juin 1785, grâce au soutien de Madame de Montesson et du comédien Molé, elle présenta en lecture à la Comédie-Française une pièce intitulée *Zamore et Mirza ou l'Heureux naufrage* qui fut reçue à corrections. Mais les comédiens retardant toujours la représentation de sa pièce Olympe de Gouges s'impatienta jusqu'à déclencher une querelle que nous développerons par la suite. Néanmoins, trois représentations ont eu lieu du 28 décembre 1789 à janvier 1790. Cette pièce fut publiée d'abord dans le troisième volume des *Œuvres* d'Olympe de Gouges de 1788, puis en 1792 sous le titre *L'Esclavage des Noirs, ou l'Heureux naufrage*. Dans cette pièce, l'auteur défend l'abolition de l'esclavage. Elle faisait d'ailleurs partie de la Société des Amis des Noirs, un mouvement abolitionniste de 1789. Elle écrivit en 1784 une pièce inspirée du *Mariage de Figaro* de Beaumarchais, qu'elle intitula *Le Mariage inattendu de Chérubin*. Elle la fit parvenir à Beaumarchais mais celui-ci la jugea « insoutenable, dénuée de talent dramatique, sans ordre, sans plan » et affirma que le but moral n'avait pas été respecté. Olympe de Gouges se préparait pourtant à la faire jouer à la Comédie Italienne, mais Beaumarchais et la Comédie-Française en interdirent la représentation. Olympe de Gouges publia donc sa pièce en 1786 sous le titre *Les Amours de Chérubin*, puis en 1788, dans ses *Œuvres* sous le titre *Le Mariage inattendu de Chérubin*. Elle écrivit une brochure intitulée *Réminiscences* où elle attaquait Beaumarchais, et qui fut lue dans de nombreux salons parisiens et également publiée dans les *Œuvres*. Elle publia aussi *L'Homme généreux* en 1786, puis, jusqu'en 1788, trois autres pièces qui parurent également dans les *Œuvres : Bienfaisance ou la bonne mère, Le philosophe corrigé, ou le Cocu supposé* et *Molière chez Ninon, ou le siècle des Grands hommes*. Elle publia aussi un roman intitulé *Le Prince philosophe* en 1792. Avant la Révolution, son théâtre était surtout moral.
 
@@ -45,7 +45,7 @@ En avril 1786, Olympe de Gouges avait le projet de partir en province pour faire
 Au printemps 1788, elle envisageait de partir en Angleterre pour faire représenter ses pièces, notamment *Zamore et Mirza*, mais la Révolution la détourna de ce projet.
 
 
-## Olympe de Gouges et la Révolution
+## Olympe de Gouges et la Révolution.
 
 Olympe de Gouges était très engagée dans la Révolution. Dès 1788 elle fut en effet indignée par ses constats sur la société de l'époque, notamment par les inégalités qui aboutissaient à l'oppression des femmes, des Noirs, mais aussi du peuple. En 1790, dans *Les Comédiens démasqués*, elle écrivait, revenant sur son passé : « Laissant-là comités, tripoteries, rôles, pièces, acteurs et actrices, je ne vois plus que plans de bonheur public ! » [6] Prévoyant son départ en Angleterre, elle écrivit des *Adieux aux français* où elle faisait part de ses espérances pour la France :
 
@@ -79,7 +79,7 @@ Le 1*er* octobre 1791, la République étant proclamée suite à la victoire de 
 Olympe de Gouges accusait les Jacobins, notamment Robespierre et Marat de vouloir la dictature. Dans *Les Trois* Urnes, en 1793, elle écrivait : « Vois ces hommes perfides altérés de sang nous vendre aux puissances ennemies, ne jurant que par la République et n'attendant que le comble du désordre pour proclamer un roi. » Elle publiait de nombreuses affiches dans Paris contre Robespierre : *Pronostic sur Maximilien Robespierre, par un animal amphibie* le 5 novembre 1792, signée « Polyme », l'anagramme d'Olympe, et *Réponse à la justification de Maximilien Robespierre* par exemple. Olympe de Gouges se disait républicaine, mais elle restait modérée dans ses opinions politiques et soutenait la Gironde comme la plus grande partie de la bourgeoisie dont certains de ses amis, comme Condorcet, faisait partie. Le procès de Louis XVI débuta le 10 décembre 1792 et le 15, Olympe de Gouges se porta volontaire pour le défendre dans une lettre à l'Assemblée qui resta sans réponse. Elle tenta d'empêcher sa mort, comme Mercier, dans l'*Arrêt de mort que présente Olympe de Gouges contre Louis Capet*, mais Louis XVI fut guillotiné le 21 janvier 1793. Olympe de Gouges craignait de nouveaux massacres et une nouvelle insurrection du peuple.
 
 
-## Mort d'Olympe de Gouges
+## Mort d'Olympe de Gouges.
 
 Le 20 juillet 1793, alors que l'afficheur Meunier devait placarder son affiche *Les Trois Urnes ou le salut de la patrie par un voyageur aérien* dans Paris, Olympe de Gouges apprit qu'il ne voulait plus le faire. Elle trouva avec son éditeur, Jean-Pierre Costard, un jeune colporteur qui accepta d'afficher ses tracts, mais ils se firent arrêter par les gardes nationaux, dénoncés par Meunier et sa fille. Le colporteur, Trottier, fut vite libéré, Costard fut relâché après quelques explications. Olympe de Gouges quant à elle subit un interrogatoire durant lequel elle reconnut être l'auteur de l'affiche *Les Trois Urnes*, puis elle fut enfermée, selon Olivier Blanc, dans la cellule 10 du second étage de la Mairie, sous la garde d'un gendarme. Elle se plaignit de ses conditions de détention dans une affiche, qu'elle parvint à diffuser à l'extérieur grâce à un visiteur de sa partenaire de cellule. Dans cette affiche, intitulée *Olympe de Gouges au Tribunal révolutionnaire*, elle attaquait Robespierre et faisait remarquer que son arrestation était contraire à l'article 7 de la Constitution sur la liberté d'opinion. Elle publia une autre affiche, intitulée *Une patriote persécutée*, pour rappeler ses actions en faveur de la Révolution et son patriotisme. Le 6 août, elle fut interrogée à huis-clos par Fouquier-Tinville, qui lui reprochait de « vouloir semer la discorde », d'après Olivier Blanc, parce qu'elle enfreignait la loi interdisant de proposer un nouveau gouvernement ou de soutenir la royauté, alors que la République était adoptée. En effet, dans *Les Trois Urnes*, elle proposait que les députés choisissent par un vote un des trois types de régimes :
 
@@ -89,10 +89,10 @@ Trois urnes seront placées sur la table du président de l'assemblée, portant 
 De cette manière elle remettait en cause le gouvernement Républicain. Elle choisit Tronson-Ducoudray, qui avait défendu Charlotte Corday, pour la défendre. Lors de la loi des suspects, de nombreux prisonniers furent guillotinés, mais des amis d'Olympe de Gouges obtinrent qu'elle fût transférée dans une maison de santé. En octobre, le procès de Marie-Antoinette débuta la longue série des grands procès politiques de novembre et de décembre. C'était alors le début de la Terreur, avec la condamnation à mort de vingt-et-un Girondins, et la répression des possibles trahisons par l'application de la loi sur les propos et les écrits contre-révolutionnaires. Olympe de Gouges fut jugée le 2 novembre au Tribunal Révolutionnaire pour avoir « composé et fait imprimer des ouvrages qui ne peuvent être considérés que comme attentat à la souveraineté du peuple puisqu'ils tendent à mettre en question ce sur quoi il a formellement exprimé son vœu. ». Elle n'avait pas d'avocat, Tronson-Ducoudray ayant refusé de la défendre, et, devant son étonnement, Herman lui aurait dit : « Vous avez suffisamment d'esprit pour vous défendre seule ». Olympe de Gouges se défendit donc seule et Olivier Blanc raconte que, selon un témoin, elle cherchait le soutien du public par des gestes montrant que les accusations étaient sans fondements et elle les justifiait avec éloquence, démontrant son patriotisme. Ainsi lorsqu'on la poussa à accuser son fils de complicité, elle répondit en s'adressant au public : « Je suis femme, je crains la mort, je redoute votre supplice mais je n'ai point d'aveux à faire, et c'est dans mon amour pour mon fils que je puiserai mon courage. Mourir pour accomplir son devoir, c'est prolonger sa maternité au-delà du tombeau ! » Elle aurait aussi déclarée avant la sentence : « Mes ennemis n'auront pas la gloire de voir couler mon sang : je suis enceinte et donnerai à la République un citoyen ou une citoyenne ! » Elle pouvait avoir été mise enceinte lors de son séjour à la maison de santé car une certaine liberté était laissée aux pensionnaires. Toutefois, de nombreuses femmes prétendaient être enceintes pour tenter d'éviter la condamnation à mort. Malgré cette déclaration, Olympe de Gouges fut condamnée à la peine capitale. Elle fut néanmoins auscultée par deux médecins et une sage-femme, mais ils dirent ne pas pouvoir se déclarer étant donné le moment où sa grossesse aurait, selon elle, débutée. Fouquier-Tinville ordonna que l'exécution se déroulât dans les vingt-quatre heures, affirmant qu'elle n'avait été enfermée qu'avec des femmes. Elle fit ses adieux à son fils dans une lettre qu'elle écrivit dans la nuit du 2 au 3 novembre. Olympe de Gouges fut exécutée le 3 novembre, vers cinq heures du soir selon un spectateur, comme le rapporte Olivier Blanc. D'après Des Essarts, ses dernières paroles auraient été : « Enfants de la Patrie, vous vengerez ma mort ! ».
 
 
-# Origine de Molière chez Ninon
+# Origine de Molière chez Ninon.
 
 
-## Contexte artistique
+## Contexte artistique.
 
 Au XVIII*e* siècle, les « Lumières » cherchèrent à transformer le théâtre de l'époque classique. De nouveaux thèmes et un nouveau personnel dramatique furent créés. Les philosophes et les dramaturges du XVIII*ème*, notamment Denis Diderot et Louis-Sébastien Mercier, ami proche d'Olympe de Gouges, se fondèrent sur le modèle grec pour définir un nouveau théâtre qui devait avoir un rôle institutionnel et un but moral. Il devait être réaliste, représenter la société et être compris par tous. Les philosophes des Lumières utilisèrent ainsi le théâtre pour diffuser leurs idées. En effet selon Mercier le poète dramatique « tient en main le gouvernail de l'opinion publique » [12] grâce aux effets que sa pièce doit produire sur le spectateur pour le faire participer au spectacle. Le dramaturge doit mettre en scène des tableaux réalistes afin d'émouvoir le spectateur. Ainsi Diderot définissait le tableau au théâtre comme un moyen de plaire au spectateur : « Un incident imprévu qui se passe en action, et qui change subitement l'état des personnages, est un coup de théâtre. Une disposition de ces personnages sur la scène, si naturelle et si vraie, que, rendue fidèlement par un peintre, elle me plairait sur la toile, est un tableau » [13]. Le début du *Nouvel essai sur l'art dramatique* de Mercier pourrait synthétiser cette nouvelle vision du théâtre :
 
@@ -102,12 +102,12 @@ Le Spectacle est un mensonge ; il s'agit de le rapprocher de la plus grande vé
 Dans son théâtre moral écrit avant la Révolution, et donc dans *Molière chez Ninon*, Olympe de Gouges, qui était proche de Mercier, a probablement appliqué cette réflexion théorique sur un théâtre moral, réaliste, qui devait émouvoir le public. D'ailleurs, dans la préface de la pièce, elle écrivait : « avoir dépouillé l'Histoire des faits les plus intéressants, et les avoir mis en action, sans oublier la plus petite circonstance ; et n'ayant pas perdu de vue le but moral, je me crus, je l'avoue, un talent distingué ». Elle a cherché à être réaliste en s'inspirant des *Mémoires sur la* v*ie de Mademoiselle de Lenclos* d'Antoine Bret, pour mettre en scène chaque anecdote de la vie de Ninon de l'Enclos, telle qu'elle était connue à l'époque.
 
 
-## La querelle avec les comédiens français
+## La querelle avec les comédiens français.
 
 La querelle entre Olympe de Gouges et la Comédie-Française est à l'origine de sa pièce *Molière chez Ninon*. Le 28 juin 1785, Olympe de Gouges, recommandée à la Comédie-Française par son amie madame de Montesson, y présenta une de ses premières pièces, intitulée *Zamore et Mirza, ou l'Heureux naufrage*. Le comédien Molé, qui soutenait l'auteur, en fit si bien la lecture que la pièce fut reçue à corrections, avec, selon Olivier Blanc, quatre acceptations, neuf corrections et aucun refus. Après les corrections, le drame fut reçu à l'unanimité le 8 juillet 1785. Cependant les comédiens ne la jouèrent pas immédiatement et Olympe de Gouges s'impatienta. Elle leur envoya des cadeaux, puis elle écrivit une pièce en un acte, *Lucinde et Cardénio, ou le Fou par amour*, qu'elle présenta à la Comédie-Italienne. La pièce fut reçue mais les comédiens italiens demandèrent à l'auteur de la réécrire en trois actes. Molé en fut informé et persuada Olympe de Gouges de présenter sa pièce en un acte à la Comédie-Française. Cependant les comédiens la refusèrent parce que, selon Olympe de Gouges, elle « avait oublié de rendre une visite préalable aux dieux des coulisses, et de se prosterner aux pieds des déesses » [15]. Olympe de Gouges se plaignit à ses amis des « sarcasmes » des comédiens français, et l'un d'eux, le chevalier de Cubières selon elle, leur répèta ses paroles. Le lendemain elle rencontra Florence, le semainier perpétuel de la Comédie-Française, qui, comme elle le raconte dans *Les Comédiens démasqués*, lui aurait dit : « La comédie française est instruite des propos que vous avez l'audace de tenir sur son compte : elle a décidé de ne plus recevoir à l'avenir aucune de vos pièces, et de ne jamais jouer celles qu'elle a reçues. » S'en suivit une série de lettres entre les comédiens français et Olympe de Gouges, qu'elle retranscrit en partie dans *Les Comédiens démasqués* et dans la préface de *Molière chez Ninon*. Dans la lettre qu'elle écrivit à la suite de la rencontre avec Florence, elle explique qu'il lui avait annoncé que la Comédie ne jouerait plus ses pièces et elle cite un « bon mot connu », qui déclencha définitivement la querelle : « un mauvais cheval peut broncher, mais non pas toute une écurie. » La Comédie supprima alors *Zamore et Mirza* de son répertoire et retira à Olympe de Gouges ses entrées. Les comédiens tentèrent également de la faire emprisonner mais n'y parvinrent pas. Ses amis, madame de Montesson, le chevalier de Cubières et Molé la réconcilièrent avec les comédiens, mais après deux ans, ils n'avaient toujours pas joué sa pièce. L'auteur leur écrivit donc une nouvelle lettre en 1787 pour leur demander la permission de la faire imprimer afin de « pressentir le goût du public » et de « l'offrir à la censure des journalistes ». La Comédie accepta mais elle ne publia *Zamore et Mirza* qu'en 1788 sous le titre *Zamore et Mirza, ou l'Heureux naufrage*. En effet, alors qu'elle s'apprêtait à l'imprimer, la Comédie lui fit savoir qu'elle avait changé d'avis et qu'elle lui donnait un tour dans sa programmation, parce que « la demoiselle Contat et d'autres premiers emplois partaient pour la province » [16]. Sa pièce allait bientôt être représentée mais l'actrice Mademoiselle Olivier, qui jouait probablement Mirza, mourut. La représentation fut annulée et la pièce oubliée. Olympe de Gouges écrivit alors une lettre à Mademoiselle Contat, où elle se plaignait que la Comédie « a détruit ses règlements, en faisant passer *La Maison de Molière* avant elle, quoiqu'elle ait été reçue un an après son drame ». En effet, lorsque la Comédie-Française recevait de nouvelles pièces, elle les ajoutait à son répertoire et les mettait normalement en scène dans l'ordre de réception. *La Maison de Molière* est une pièce de Louis-Sébastien Mercier représentée le 20 octobre 1787. Mademoiselle Contat répondit à Olympe de Gouges au nom de la Comédie-Française : « ses règlements ne sont point arbitraires, et vous pouvez les consulter et réclamer si vos droits sont certains. Elle a pu croire que le nom de Molière en tiendrait lieu, et n'a pu deviner que cette justice de son respect excitât un murmure. » Olympe de Gouges se défendit dans une autre lettre : « Personne ne me soupçonnera capable de dégrader le nom de Molière, excepté des gens ridicules et sans caractère. » Elle fit une nouvelle tentative auprès de Madame Bellecourt pour faire représenter son drame. Elle reproduit dans *Les Comédiens démasqués* la lettre qu'elle lui a écrite et la réponse de l'actrice, qui lui reprochait aussi d'attaquer Molière : « Quant à la Maison de Molière, fût-elle aussi mauvaise qu'elle nous le paraît, elle porte un nom sacré pour tous les Français, je dirais plus, pour l'Europe entière ; et je vous assure, Madame, que, depuis les plus savants littérateurs, jusqu'aux plus ignorants barbouilleurs de papier, aucun hors vous n'a trouvé extraordinaire l'hommage que nous avons rendu à cet homme immortel ». Dans la préface de *Molière chez Ninon*, écrite avant *Les Comédiens démasqués*, Olympe de Gouges retranscrit également cet extrait de la réponse de Madame Bellecourt, à quelques différences près. Elle y parle de sa correspondance avec ces deux actrices : « d'après les principes de Mademoiselle Contat, de Madame Bellecourt, et les prétendus règlements inébranlables de la Comédie-Française ; je cherchai dans mon esprit quel moyen je pourrais trouver pour me la rendre favorable ». C'est cette querelle qui lui inspira le sujet de *Molière chez Ninon*.
 
 
-## Sujet de Molière chez Ninon
+## Sujet de Molière chez Ninon.
 
 Suite à cette querelle avec Mademoiselle Contat et Madame Bellecourt et à leurs accusations, Olympe de Gouges eut l'idée du sujet de *Molière chez Ninon*. Dans la préface, elle explique :
 
@@ -134,10 +134,10 @@ Il est probable que ce soit la même lettre retranscrite différemment par Olymp
 Ainsi le sujet de la pièce serait, comme l'indique le titre, Molière chez Ninon, c'est-à-dire une partie de la vie de Molière, lorsqu'il rend visite à Ninon de l'Enclos. En effet dans le titre, Molière est placé en position de sujet et donc de personnage principal, alors que Ninon est en position de complément. Cependant le personnage principal est plutôt Ninon parce qu'elle prononce la plus grande partie des répliques, et que c'est autour d'elle que l'action est centrée. Le sujet de la pièce est en fait la société de Ninon. Olympe de Gouges célèbre Ninon de l'Enclos dans sa pièce, elle cherche ainsi à montrer ses qualités grâce aux différents épisodes, aux différents tableaux qu'elle met en scène. Vraisemblablement Olympe de Gouges admirait déjà Ninon de l'Enclos et savait que Molière faisait partie de ses amis. Comme elle voulait écrire une pièce sur Molière pour s'attirer les faveurs de la Comédie, elle a probablement eu l'idée de le mettre en scène parmi la société de Ninon. Il fallait aussi qu'il apparaisse dans le titre. Elle écrit ainsi sa première pièce représentant des personnages historiques.
 
 
-# Réception de Molière chez Ninon
+# Réception de Molière chez Ninon.
 
 
-## Le jugement des comédiens français     lors de la lecture de la pièce
+## Le jugement des comédiens français     lors de la lecture de la pièce.
 
 Malgré les efforts d'Olympe de Gouges pour plaire aux Comédiens, ceux-ci n'ont pas reçu sa pièce. Dans sa postface, elle fait le récit de la lecture selon son point de vue. Elle décrit les réactions des comédiens, qui profitaient du « ferraillement » d'une porte pour se distraire et ne plus écouter la lecture, puis elle retranscrit leurs bulletins. Elle évoque leur hypocrisie :
 
@@ -165,7 +165,7 @@ Dans sa postface, Olympe de Gouges dit ne pas s'être « portée à quelque exc
 Malgré ces critiques, Fleury trouve aussi des qualités à Olympe de Gouges : elle était « spirituelle et amusante, quand la femme ne se souvenait pas de l'écrivain ». Il la compare à Louis-Sébastien Mercier : « comme Mercier, elle avait de l'originalité et des idées de l'autre monde, qu'elle pouvait faire adopter aux gens de celui-ci. Comme Mercier elle était généreuse, bonne, compatissante, humaine, et une fois elle fut sublime. » Fleury fait ici référence au moment où Olympe de Gouges s'est portée volontaire pour défendre Louis XVI lors de son procès.
 
 
-## Le jugement des journalistes
+## Le jugement des journalistes.
 
 Sa pièce n'étant pas reçue à la Comédie-Française, il semble qu'Olympe de Gouges ne l'ait jamais fait représenter ailleurs. Elle l'a publiée en 1788, mais étant donné le peu de documents évoquant cette pièce que nous avons retrouvés, *Molière chez Ninon* n'a pas dû avoir beaucoup de succès. Néanmoins, un article de journal qu'Olympe de Gouges retranscrit en entier dans *Les Comédiens démasqués* [20] donne un avis positif sur sa pièce C'est un extrait du *Journal Encyclopédique* d'août 1788 [21]. Ce journal était prestigieux et reconnu dans le domaine de la littérature. Il y est par exemple écrit :
 
@@ -182,18 +182,18 @@ Dans une Préface et dans une Postface, l'auteur se plaint du comité de la Com�
 Ils confirment également à Olympe de Gouges qu'elle a atteint son but de peindre la vérité : « Cette pièce se rapproche de la plus grande vérité, et nulle part ne sent l'art ; c'est le produit d'un talent naturel, qui peint avec franchise. »
 
 
-# Écriture de la pièce
+# Écriture de la pièce.
 
 
-## Sources
+## Sources.
 
 
-### Une source pseudo-historique : les Mémoires sur la vie     de Mademoiselle de Lenclos
+### Une source pseudo-historique : les Mémoires sur la vie     de Mademoiselle de Lenclos.
 
 Dans la préface de *Molière chez Ninon*, Olympe de Gouges dit « avoir dépouillé l'Histoire des faits les plus intéressants, et les avoir mis en action, sans oublier la plus petite circonstance ». Elle explique aussi s'être « instruite pour la première fois ». En fait, il semble qu'elle a surtout lu les *Mémoires sur la vie de Mademoiselle de Lenclos* d'Antoine Bret pour écrire sa pièce. Olympe de Gouges admirait Ninon de l'Enclos et elle a ainsi eu l'idée de composer sa pièce sur Molière en représentant la société de Ninon de l'Enclos, et en célébrant cette dernière en même temps que l'auteur. Pour mettre en scène le temps d'une pièce les événements de la vie de Ninon de l'Enclos, elle a suivi le récit de Bret. Elle cite même des passages entiers que nous avons signalés en note.
 
 
-### Épisode du Grand-Prieur
+### Épisode du Grand-Prieur.
 
 Olympe de Gouges met en scène au premier acte ce que Bret raconte à propos du Grand-Prieur de Vendôme, notamment en faisant intervenir les domestiques de Ninon, Mademoiselle le Roi et Francisque. Bret écrit : « Le Grand-Prieur de V⁎⁎⁎⁎⁎⁎, épris depuis quelque temps des charmes de Ninon, ne cessait de la persécuter. » [22] Olympe de Gouges met cette phrase en scène par l'impatience de Ninon. Ainsi Mademoiselle le Roi dit à la scène 2 : « C'est Monsieur le Grand-Prieur ! que nous veut ce triste personnage ? il va trouver Mademoiselle dans une disposition propre à le congédier. Car elle ne possède pas la vertu de s'ennuyer patiemment. » Et Ninon s'impatiente à la scène 6 : « Quel homme insupportable ! il faut donc, une bonne fois, m'expliquer avec lui. »
 
@@ -222,7 +222,7 @@ Pourquoi n'en empruntais-tu pas ? [25]
 Olympe de Gouges reprend exactement ces quatrains dans sa pièce. Elle représente la manière plaisante dont Ninon réagit à l'épigramme : « Il croit m'offenser et humilier mon amour-propre, il m'inspire au contraire la plus grande pitié ; je suis assez bonne pour lui faire grâce, et même pour le plaindre. … Je ne me suis pas trompée : l'épigramme est méchante, mais elle ne me pique pas. Voyons comment je vais y répondre. » [26]
 
 
-### Épisode des vers de Scarron
+### Épisode des vers de Scarron.
 
 Bret raconte également l'amitié entre Ninon de l'Enclos et Scarron :
 
@@ -232,7 +232,7 @@ L'état affreux où fut réduit Scarron, fut pour elle un nouveau chagrin. Amie 
 Olympe de Gouges représente la façon dont Scarron supporte ses souffrances à travers les éloges faits par les autres personnages, tels que celui du Président d'Effiat au troisième acte, scène 5 : « Toujours gai au milieu des tourments. ». Elle intègre à sa mise en scène l'extrait du poème de Scarron, « Adieu au Marais, et à la place Royale », qui concerne Ninon, et que Bret retranscrit dans les *Mémoires sur la vie de Mademoiselle de Lenclos*. Elle représente ainsi Scarron écrivant spontanément ces vers en l'honneur de Ninon, puis leur lecture publique par Molière au troisième acte, scène 6.
 
 
-### Épisode de Des Yveteaux
+### Épisode de Des Yveteaux.
 
 Bret raconte aussi l'amitié entre Ninon de l'Enclos et Des Yveteaux : « Elle ne voyait plus depuis quelques temps un Philosophe, un Sectateur de la volupté, Des Yveteaux enfin. Elle savait que quelques affaires domestiques avaient menacé sa fortune de quelque dérangement, et la situation où l'avait pu mettre l'événement qu'elle ignorait, augmentait ses alarmes. » Dans *Molière chez Ninon*, à la scène 12 du premier acte le spectateur découvre que Ninon a envoyé Chapelle à la recherche de Des Yveteaux. Quand elle apprend qu'il est retrouvé elle veut se précipiter chez lui. Bret raconte ensuite dans quel état était Des Yveteaux lorsque Ninon l'a retrouvé. Olympe de Gouges met en scène cette anecdote au deuxième acte, qui consiste en une petite comédie pastorale. Le spectateur est informé de la situation lorsque les personnages de Blaise et Lucas, les valets de Des Yveteaux, expliquent au paysan Mathurin pourquoi leur maître veut qu'ils se déguisent et jouent un rôle. Olympe de Gouges leur fait reprendre l'anecdote que Bret raconte dans les *Mémoires* : un soir Des Yveteaux trouve une jeune fille évanouie à sa porte, il la fait entrer chez lui, elle le remercie en jouant de la harpe et en chantant. Dans la pièce son instrument devient la guitare. Des Yveteaux tombe amoureux d'elle et l'emmène avec lui au faubourg Saint-Germain, où il imite les comédies pastorales en se transformant en berger amoureux :
 
@@ -247,7 +247,7 @@ Quelle fut la surprise de Ninon, lorsqu'elle trouva le *bon homme* sous le dégu
 Olympe de Gouges respecte ce portrait de Des Yveteaux lorsqu'elle le décrit à la scène 3 du deuxième acte : « *Des Yveteaux habillé en Berger, la houlette à la main, la panetière au côté, et le chapeau garni de rubans, parmi lesquels on distingue une fontange jaune, que lui avait donnée Ninon.* » Au troisième acte, scène 6 elle le décrit, à travers la voix de Ninon cette fois, en reprenant les mêmes termes. Olympe de Gouges tire également de Bret la réaction et la décision de Ninon face à la folie de Des Yveteaux : Bret raconte que « Des Yveteaux, qui lui avait paru ridicule au premier coup d'œil, ne lui parut plus que heureux. » Ainsi, en voyant son ami, Ninon pleure d'abord, puis elle dit : « J'ai versé d'abord des larmes sur son sort ; mais voyant qu'il est heureux dans ses idées chimériques, je suis moins affligée. » [29]
 
 
-### Épisode de la querelle entre le Maréchal d'Estrées et le Président d'Effiat
+### Épisode de la querelle entre le Maréchal d'Estrées et le Président d'Effiat.
 
 Bret raconte la dispute qui survint entre deux amants de Ninon de l'Eclos :
 
@@ -257,12 +257,12 @@ Ninon, enfin, d'amante allait devenir mère : et soit que la dispute, qui survi
 Olympe de Gouges met en scène cette querelle au troisième acte scène 4, mais elle ajoute à l'épisode le personnage de Scarron en lui donnant le rôle d'arbitre. Elle le fait commenter la victoire du Maréchal : « je suis flatté que le sort ait tourné en faveur du Maréchal, et que cet enfant lui appartienne, il en fera un brave Soldat, plus utile à la patrie qu'un être oisif. ». Elle semble ainsi faire référence « au bonheur » de l'enfant qu'évoque Bret. D'ailleurs celui-ci précise que l'enfant deviendra le Chevalier de la Boissière, capitaine de vaisseau dans la Marine, et il raconte son histoire, mais Olympe de Gouges ne développe pas l'anecdote plus loin que le jeu de dés et la victoire du Maréchal.
 
 
-### Épisode de l'exempt
+### Épisode de l'exempt.
 
 Bret évoque l'hostilité que les prudes avaient envers Ninon et explique que leurs plaintes « parvinrent jusqu'à la reine Régente, qui crut devoir mettre ordre à des excès qu'on lui peignait chaque jour sous les couleurs les plus noires. » [31] Il raconte ensuite l'épisode qu'Olympe de Gouges met en scène : un exempt vient chercher Ninon chez elle, lui annonçant que la Reine lui donne l'ordre de se retirer dans le couvent de son choix. Cependant elle transforme la fin de l'anecdote. Bret explique que c'est le capitaine des Gardes, Monsieur de Guitaut, qui la défend devant la Reine Régente, Anne d'Autriche, soutenu ensuite par « les Seigneurs qui la connaissaient ». Dans la mise en scène d'Olympe de Gouges, ce sont tous les amis de Ninon qui se déplacent pour la défendre devant la reine, et pas seulement les Seigneurs. Elle représente ainsi la société de Ninon de l'Enclos comme « fidèle » pour montrer que, grâce à ses qualités, Ninon est aimée par tous.
 
 
-### Anecdote sur Madame de Villarceaux
+### Anecdote sur Madame de Villarceaux.
 
 Bret raconte aussi la jalousie de Madame de Villarceaux envers Ninon, du fait de la relation qu'elle aurait eue avec son mari :
 
@@ -277,7 +277,7 @@ Elle avait l'autre jour grande société chez elle : elle voulut faire voir à 
 En faisant raconter cette anecdote par son personnage de Ninon, Olympe de Gouges illustre le récit de Bret qui précise : « Le bruit s'en répandit dans toute la Ville, et parvint bientôt à Ninon, qui en rit longtemps avec ses amis ». Bret reprend aussi l'hypothèse selon laquelle Molière se serait inspiré de cette anecdote pour écrire sa pièce *La Comtesse d'Escarbagnas* : « On ne peut guère douter que comme elle Ninon aima toujours à conter jusqu'aux moindres particularités de sa vie, elle n'ait amusé Molière de cette histoire ridicule, et que ce grand homme qui mettait ingénieusement tout à profit, ne se la soit rappelée, lorsqu'il fit la *Comtesse d'Escarbagnas*. »
 
 
-### Épisode de Gourville et sa cassette
+### Épisode de Gourville et sa cassette.
 
 Cette anecdote raconte que, avant de partir pour la guerre, Gourville a confié la moitié de sa fortune à « un Grand-Pénitencier, qui s'était rendu fameux par la régularité de ses mœurs » [33] et l'autre moitié à Ninon afin de lui prouver son estime, d'après Bret. Comme pour l'anecdote sur Madame de Villarceaux, Olympe de Gouges reprend le même plan et les mêmes termes ou les mêmes expressions que Bret, dans le récit que Gourville fait à Ninon et à ses amis à propos de son aventure au premier acte, scène 16. Bret raconte :
 
@@ -299,19 +299,19 @@ Au premier acte, scène 15, Olympe de Gouges retranscrit les répliques que Bret
 De plus Bret pose la question à la fin de son récit : « Retenir un dépôt, est une chose affreuse ; mais peut-on dire qu'il soit honorable de le restituer ? Est-ce à de pareils devoirs qu'on doit reconnaître la vertu ? Ninon dut trouver étonnant, et même injurieux, qu'on la louât d'une semblable action. » Olympe de Gouges met cette question en scène par l'étonnement de Ninon devant l'admiration de Gourville pour sa probité : « Mais je ne vois rien là de méritoire ; y a-t-il rien de plus juste que de restituer un dépôt et de rendre un bien qu'on nous a confié ? »
 
 
-### Épisode de la visite de la Reine Christine
+### Épisode de la visite de la Reine Christine.
 
 Bret évoque la visite que la Reine Christine à faite à Ninon lors de son séjour à Paris : « Elle la Reine vint à Paris en 1656, et Ninon fut presque la seule femme qu'elle honorât de sa visite. Le Maréchal d'Albret, et quelques gens de Lettres, qui faisaient leur cour à cette Reine, lui firent un portrait si avantageux de Ninon, qu'elle ne trouva point au-dessous d'elle de faire cette démarche. » [37]
 
 Dans *Molière chez Ninon*, c'est le Maréchal d'Estrées et non le Maréchal d'Albret qui fait l'éloge de Ninon à la Reine Christine. Olympe de Gouges imagine et met en scène la conversation que Ninon et la Reine Christine pourraient avoir eu lors de cet entretien. Cet épisode lui permet d'intégrer à sa pièce un ballet dans le contexte de la fête organisée par Ninon en l'honneur de la Reine.
 
 
-### Épisode du billet de La Châtre
+### Épisode du billet de La Châtre.
 
 Bret raconte comment le marquis de la Châtre a fait signer un billet à Ninon pour s'assurer de sa fidélité lorsqu'il serait parti pour la guerre. Au premier acte, scène 19, Olympe de Gouges met en scène cette anecdote en s'inspirant de son récit, ou même en reproduisant, dans les répliques de ses personnages, les discours que Bret attribue aux personnages historiques. Ainsi lorsqu'elle fait dire à la Châtre : « je suis Français, et l'amour ne l'emportera pas sur la gloire », elle semble s'inspirer de Bret qui écrit : « un Français ne sait point balancer entre la gloire et ce qu'il aime ». Deux répliques entières de la Châtre sont des reproductions du texte de Bret. Nous les avons indiquées en note [38]. Olympe de Gouges les signale par des guillemets. Elle développe le récit de Bret dans sa mise en scène en imaginant le contenu du billet.
 
 
-### Épisode du Comte de Fiesque
+### Épisode du Comte de Fiesque.
 
 Après l'anecdote du billet, Bret raconte comment Ninon trahit son serment :
 
@@ -323,7 +323,7 @@ Olympe de Gouges met en scène « les premières résistances » de Ninon : �
 Bret ne précise pas s'il s'agit du Comte de Fiesque bien qu'il mentionne que l'homme en question est un comte. Olympe de Gouges a donc peut-être imaginé quel amant de Ninon ce comte pouvait être dans sa pièce.
 
 
-## Le mélange des genres à travers les différentes sources littéraires
+## Le mélange des genres à travers les différentes sources littéraires.
 
 Olympe de Gouges s'inspire aussi de la littérature galante des XVII*e* et XVIII*e* siècles. En effet le sujet de la pièce étant la société de Ninon, elle met en scène la galanterie des personnages en utilisant les procédés de la littérature galante. Selon Alain Viala dans *La France Galante*, la galanterie est « une manière de se comporter en société et une manière littéraire. » [40] Le thème de la galanterie est présent dans de nombreux ouvrages de différents sujets et de différents genres : l'épistolaire, l'entretien, le roman, la poésie et le théâtre. Selon Alain Viala, une des sources de cette littérature galante serait la thématique amoureuse qui se trouve dans la poésie courtoise médiévale, et dans les pastorales, en particulier dans *L'Astrée* (1607 à 1627) d'Honoré d'Urfé, qui raconte les amours de bergers et bergères oisifs. Au deuxième acte de sa pièce, Olympe de Gouges s'inspire des pastorales pour mettre en scène la comédie que Des Yveteaux s'est imaginé pour vivre son amour. L'auteur s'inspire peut-être essentiellement du *Berger extravagant* (1627) de Charles Sorel, dans lequel sont racontées les aventures d'un jeune bourgeois qui se déguise en berger afin de séduire une jeune fille. Il s'inspire de ses lectures pastorales pour se créer une nouvelle vie de berger et se fait appeler Lysis. De même le personnage de Des Yveteaux s'est inspiré de ses lectures pour vivre son amour à travers une pastorale : « notre Maître a perdu son bon sens, avec ses belles lectures. » [41] Dans *Le Berger extravagant* le personnage est également présenté comme atteint de folie : « Anselme oyant toutes ces choses si peu communes, eut un étonnement non pareil, et connut qu'il avait trouvé un homme malade de la plus étrange folie du monde. » [42] Olympe de Gouges pourrait aussi s'être inspirée de la comédie de Thomas Corneilles tirée du *Berger extravagant* [43]. Elle semble ainsi inscrire sa pièce dans le courant de la littérature galante grâce à la petite comédie pastorale qu'elle y introduit au deuxième acte. Lorsque son personnage du Grand-Condé arrive et voit la scène construite par Des Yveteaux et ses compagnons, il s'exclame : « On vous reconnaît toujours par votre aimable galanterie. » [44] Puis, à la scène 12, il dit : « Jamais fou n'a eu de goût plus agréable. » Olympe de Gouges imagine donc Des Yveteaux s'inspirant des pastorales pour en vivre une, et par là, elle s'en inspire aussi. Ainsi, au deuxième acte, elle représente Des Yveteaux imitant avec la Dupuis les pastorales qu'il a lues en jouant les « bergers et bergères oisifs, qui passent le plus clair de leur temps à discourir des choses de l'amour dans une contrée mythique » [45]. Elle décrit cette « contrée mythique » dans la didascalie au début de l'acte qui pose le décor champêtre et idyllique de l'action :
 
@@ -337,28 +337,28 @@ Olympe de Gouges s'inspire aussi de la comédie, notamment lorsqu'elle invente l
 Les différents épisodes de sa pièce amènent donc Olympe de Gouges à puiser dans plusieurs sources d'inspiration, mélangeant ainsi les genres.
 
 
-# Dramaturgie de Molière chez Ninon
+# Dramaturgie de Molière chez Ninon.
 
 
-## Le cadre de la pièce
+## Le cadre de la pièce.
 
 
-### Le cadre temporel
+### Le cadre temporel.
 
 Olympe de Gouges rassemble en une journée tous les épisodes qu'elle tire des *Mémoires sur la vie de Mademoiselle de Lenclos*, pour qu'ils tiennent dans le temps dramatique. L'action de la pièce débute très tôt le matin et s'achève le lendemain, dans la matinée. Dans *La Dramaturgie classique en France*, Jacques Scherer explique que la règle classique de l'unité de temps peut correspondre à un temps dramatique de vingt-quatre heures, qui représentent la journée entière, de douze heures, qui représentent la durée du jour, de trois heures pour correspondre exactement au temps de la représentation. Mais il précise aussi que le temps dramatique peut durer trente heures, si l'on suit exactement la règle qu'Aristote énonce dans sa *Poétique* pour la tragédie, et qui est ensuite étendue à la comédie : la tragédie « s'efforce de s'enfermer, autant que possible, dans le temps d'une seule révolution, ou de ne le dépasser que de peu ». Ainsi Jacques Scherer explique que, dans son troisième *Discours*, Corneille prévoyait de faire une pièce d'un temps dramatique de trente heures : « je me servirais même de la licence que donne ce philosophe de les excéder un peu, et les pousserais sans scrupule jusqu'à trente ». Dans ce cas, dans *Molière chez Ninon*, Olympe de Gouges respecte la règle classique de l'unité de temps nécessaire à la vraisemblance puisqu'elle ne dépasse pas trente heures. En effet la pièce débute très tôt un matin avec le réveil du valet de Ninon, Francisque, qui expose la cadre temporel de la pièce dès la première scène et informe ainsi le spectateur : « Il n'est pas tard, tout le monde repose encore : allons, essayons de refaire un petit somme. » Puis, à la scène 2, il demande à Mademoiselle le Roi : « qui peut vous avoir éveillée si matin ? ». Ensuite au troisième acte, scène 9, le personnage du Grand-Condé informe Ninon, et en même temps les spectateurs, que la Reine Christine lui rendra visite le soir-même : «  je vous préviens que le Maréchal d'Estrées et moi, nous vous la présentons ce soir. » Le quatrième acte se termine donc en fin de soirée, après la fête en l'honneur de la Reine Christine. Le cinquième acte ouvre sur le lendemain matin comme l'indique Mademoiselle le Roi à la première scène, lorsqu'elle informe Francisque et le spectateur de la résolution que Ninon a pris en hors-scène de se retirer dans un couvent : « à peine était-il six heures, ce matin ». D'autres indices avertissent les spectateurs qu'une deuxième journée débute : à la troisième scène, Ninon se met à sa toilette, puis à la scène 7, elle précise l'heure qu'il est dans le temps de la pièce : « (*Regardant sa montre*.) Il est neuf heures ». La pièce se termine donc plus tard dans la matinée à la fin du cinquième acte puisque les ellipses temporelles n'ont lieu qu'entre les actes. Ainsi entre le premier et le deuxième acte l'ellipse permet à Ninon de se rendre chez Des Yveteaux, puis celle entre les deuxième et troisième actes lui permet de retourner chez elle. L'ellipse entre le troisième et le quatrième acte fait avancer l'action jusqu'à la soirée pour l'arrivée de la reine Christine. La nuit entre les deux jours de l'action a lieu entre le quatrième et le cinquième acte, et marque une rupture du cinquième acte avec le reste de pièce. En effet Ninon n'est plus parmi ses amis dans un contexte galant, mais le cinquième acte consiste à résoudre le problème d'Olympe en convainquant son père de la laisser épouser le chevalier de Belfort. Ces ellipses entre les actes participent de la vraisemblance, selon la tradition classique. Dans *La Dramaturgie classique en France*, Jacques Scherer explique qu'un personnage qui « ferme » un acte ne peut pas « ouvrir » le suivant. Olympe de Gouges respecte cette règle. Les valets de Ninon débutent le premier et le cinquième actes, alors que le quatrième acte se termine par la fête de Ninon en l'honneur de la Reine Christine et de ses amis. Le deuxième acte est ouvert par les valets de Des Yveteaux et le premier acte s'était terminé avec une scène entre La Châtre, Ninon et Madame Scarron. Ninon, Molière, Le Grand-Condé et Des Yveteaux ferment le deuxième acte et le troisième est ouvert par Mademoiselle le Roi puis Scarron. La seule exception est le passage du troisième au quatrième acte : le troisième est fermé par Ninon, Chapelle et Saint-Evremond alors que le quatrième débute par une scène entre Ninon et Olympe.
 
 
-### L'espace dramatique
+### L'espace dramatique.
 
 Si la règle de l'unité de temps semble être suivie dans *Molière chez Ninon*, en revanche celle de l'unité de lieu n'est pas respectée puisque, si la plus grande partie de la pièce se déroule chez Ninon, au deuxième acte, l'action se situe au faubourg Saint-Germain, chez Des Yveteaux.
 
 
-## Une pièce épisodique sans intrigue principale
+## Une pièce épisodique sans intrigue principale.
 
 *Molière chez Ninon* est une pièce épisodique comme l'indique la page de titre, c'est-à-dire que la pièce est construite à partir des épisodes racontés par Bret, dans les *Mémoires sur la vie de Mademoiselle de Lenclos*, et qui ont été des événements de la vie de Ninon, selon les connaissances du XVIII*e* siècle. Olympe de Gouges les rassemble en une journée pour qu'ils tiennent le temps de sa pièce. Ces épisodes constituent alors des événements de la journée de Ninon. La pièce n'a donc pas de structure actancielle forte, et pas d'intrigue à proprement parler. Dans l'un des bulletins un comédien reproche d'ailleurs à Olympe de Gouges qu'il « ne trouve pas de fond, pas d'intrigue » à sa pièce. Elle n'est pas construite selon le schéma : exposition, nœud, péripéties, dénouement. Il n'y a pas de nœud ou d'intrigue principale. Cependant la pièce est bien composée selon le critère de cohérence proposé par Aristote dans sa *Poétique*. Elle a bien « un commencement, un milieu, une fin ». Le « commencement » correspond au début du premier acte, qui représente la matinée habituelle de Ninon de l'Enclos. Le « milieu » est constitué par les problèmes que Ninon doit régler dans sa journée et dont certains la déterminent à aller au couvent, notamment les retrouvailles avec son fils ou ses amours qui lui font prendre conscience de son âge. La « fin » correspond à cette décision de se retirer au couvent, qui permet à Olympe de Gouges de conclure la pièce en dissolvant la société de Ninon. En effet, les problèmes auxquels elle doit se confronter sont tous résolus à la fin de la pièce. Il semble donc que plusieurs petites intrigues la constituent. Outre le sujet de la pièce, on peut néanmoins distinguer plusieurs fils conducteurs qui la structurent qui sont posés au premier acte : le caractère galant de Ninon, qui constitue le thème principal de la pièce, les amours de Ninon, la disparition de Des Yveteaux et l'épisode d'Olympe. Ces deux derniers fils conducteurs ont la forme de deux petites pièces au sein de la comédie.
 
 
-### Les amours de Ninon : un fil conducteur
+### Les amours de Ninon : un fil conducteur.
 
 Il est question des amours de Ninon à tous les actes. Au premier, Francisque et Mademoiselle le Roi exposent la situation quant aux amours de Ninon : ils citent ses amants précédents et évoquent le départ de La Châtre. Puis le fil conducteur des amours se poursuit avec l'apparition d'un nouvel amant, le Comte de Fiesque, suggéré comme tel à la scène 20 du premier acte, lorsque la Châtre s'inquiète de l'infidélité de Ninon et lui demande de ne pas recevoir le comte quand il se présente chez elle. Il vient de lui faire jurer sa fidélité dans un billet et voit le Comte de Fiesque comme la plus grande menace :
 
@@ -368,12 +368,12 @@ Il est question des amours de Ninon à tous les actes. Au premier, Francisque et
 Les amours de Ninon se poursuivent au deuxième acte, lorsque le Comte de Fiesque apparaît à la scène 13 avec le Prince de Condé qui le réconcilie avec Ninon, alors qu'il se croyait rejeté de sa société. Celle-ci remarque sa ressemblance avec La Châtre, ce qui peut suggérer au spectateur que le Comte pourrait être son prochain amant : « Cet homme a une ressemblance à s'y méprendre avec la Châtre, si je le connaissais moins. » [47]. Au troisième acte, scène 8, a lieu la scène de séduction entre Ninon et le Comte de Fiesque. Le Comte de Fiesque déclare son amour à Ninon et cherche à la séduire. Ninon tente de lui résister mais est touchée par son éloquence et sa galanterie. À la scène 9, croyant avoir échoué, le Comte de Fiesque s'enfuit de chez elle. Puis au quatrième acte, à la scène 4, Ninon se confie à Molière, et le Comte réapparaît pour tenter de se faire pardonner. À la scène 9, Molière le prévient que cela est inutile (« Ma foi, je crains bien pour vous que vous ne soyez arrivé trop tard. On a réfléchi. » [48]), mais aux scènes 10 et 13, il tente quand même de s'expliquer avec elle, ce qui donne lieu à une réflexion sur l'amour par Ninon, dont nous présenterons la philosophie sur ce thème par la suite. Ils sont interrompus par l'arrivée de la Reine Christine. Olympe de Gouges met ensuite en scène la jalousie du Comte de Fiesque à la scène 18 : « Je suis jaloux jusqu'au baiser qu'elle donne à la simple amitié. Voyez si l'amour peut quelque chose sur cette grande âme. Elle n'a pas encore jeté les yeux une seule fois sur moi. » [49]. Au cinquième acte, il fait parvenir une lettre à Ninon pour tenter de nouveau de se faire pardonner, et elle lui envoie en retour une mèche de ses cheveux. Face à cette réponse, il accoure chez elle, et Francisque, qui pense que c'est à cause du comte que Ninon veut se retirer dans un couvent, lui demande de l'en empêcher. À la scène 18, le Comte de Fiesque n'y parvient pas mais se réconcilie avec Ninon et ils conviennent de rester simplement amis : « Vous me connaissez, Monsieur le Comte, soyez mon ami, et ne parlons plus d'amour. » [50]. L'intrigue concernant les amours de Ninon s'étend donc dans toute la pièce constituant ainsi l'un de ses fils conducteurs.
 
 
-### Les petites comédies qui se développent au fil de la pièce
+### Les petites comédies qui se développent au fil de la pièce.
 
 Les épisodes de Des Yveteaux et d'Olympe peuvent être aussi considérés comme des fils conducteurs parce que chacun d'eux remplit un acte entier, ou presque, à lui seul et se développe encore dans un autre acte. Ainsi l'histoire d'Olympe commence au premier acte, se poursuit brièvement au quatrième acte avant de se dénouer au cinquième. L'épisode de Des Yveteaux est introduit au premier acte, se développe dans tout le deuxième acte, et se poursuit au quatrième, où Des Yveteaux, La Dupuis, le paysan Mathurin et les valets se présentent chez Ninon lors de la fête en l'honneur de la reine Christine. Ces deux épisodes sont ceux qui prennent le plus de place dans la pièce et participe donc de son organisation. L'épisode de Des Yveteaux introduit une comédie pastorale dans la pièce, et l'histoire d'Olympe peut être comparée à une petite comédie.
 
 
-#### L'épisode de Des Yveteaux
+#### L'épisode de Des Yveteaux.
 
 Dans la postface, Olympe de Gouges raconte que Pieyres lui « a assuré que sa Pièce en quatre actes aurait beaucoup de succès, et que l'Acte de Dégypto pouvait être ôté sans déranger la Pièce ». Il lui a aussi suggéré de d' « en faire un petit Ouvrage détaché ». En effet le deuxième acte est différent des autres, d'abord parce que c'est le seul acte dans lequel l'action ne se déroule pas chez Ninon, mais chez Des Yveteaux ; ensuite parce qu'il est construit à partir d'un seul épisode, celui de la folie de Des Yveteaux, qui en constitue le sujet, enfin parce qu'une comédie pastorale y est intégrée.
 
@@ -386,22 +386,22 @@ Une autre intrigue centrée sur Ninon et qui est celle de la « petite pièce 
 *Le théâtre dans le théâtre* : Olympe de Gouges met en scène la petite comédie pastorale que Des Yveteaux se serait créé. Elle construit une intrigue de comédie pastorale avec des personnages que Bret ne mentionne pas. Des Yveteaux et la Dupuis sont des bergers amoureux et veulent se marier mais ils rencontrent des obstacles. Olympe de Gouges imagine le personnage de Mathurin, un paysan que Des Yveteaux emploie pour jouer le rôle du père de la Dupuis, qui doit faire obstacle à leur mariage. Elle représente Mathurin jouant ce rôle pour se « divertir ». La situation de la comédie s'arrange de manière artificielle, puisque c'est parce que Mathurin a peur que Des Yveteaux ne meurt vraiment de chagrin, si le père qu'il joue continue de lui interdire de voir sa « fille », qu'il décide de faire accepter le mariage par son personnage. Olympe de Gouges s'inspire d'un des modèles de comédie pastorale où l'amour est partagé mais où les personnages rencontrent des obstacles. Elle intègre également des chansons comme dans les pastorales, sur des airs connus au XVIII*e* siècle comme « on compterait les diamants ». Les personnages qui jouent cette comédie font apparaître ses mécanismes. Ainsi l'isotopie de l'illusion est présente dans les répliques de Blaise à la scène 2, à travers les termes « paraître », « vraisemblance » : « Pour donner plus de vraisemblance à sa folie » et « Garde-toi bien de faire paraître ce que tu sais » ; mais aussi à travers les expressions « on dirait » et « faire la … » : « comme elle fait l'innocente … On dirait que c'est une simple bergère qui n'a jamais soupiré que pour le berger Coridon. » [51]. Molière fait aussi référence à l'illusion créée par ces personnages lorsqu'il répond à l'étonnement de Gourville : « ne voyez-vous pas que tout est factice ici, et que ce paysan n'est pas aussi au fait que les autres. » [52]. À la scène 3, Mathurin réfléchit sur son jeu de comédien : « Ah ! voyons : essayons pour nous divartir, d'arriver à propos, comme le père de Lise. Tatiguenne, que ça va donc être drôle, voyons, s'il s'en ira aussi vite que le jeune Gars. » De même, à la scène 3, la Dupuis souligne l'idée de jeu lorsqu'elle dit en parlant de Mathurin : « Il joue fort bien son rôle. ». Le comique de cette comédie pastorale est évoqué par Mathurin qui se « divertit » en jouant dans cette « fantaisie » de Des Yveteaux, et qui répète six fois dans l'acte l'adjectif « drôle ».
 
 
-#### L'épisode d'Olympe : une petite comédie dans la pièce
+#### L'épisode d'Olympe : une petite comédie dans la pièce.
 
 Aux scènes 9, 10, 11 et 12 du premier acte, une autre exposition que celle de la pièce paraît introduire une petite comédie dans la comédie qui constitue un autre fil conducteur. Olympe de Gouges semble avoir inventé une autre anecdote de la vie de Ninon, qui ne se trouve pas dans les *Mémoires sur la vie de Mademoiselle de Lenclos* de Bret. L'intrigue qu'elle crée s'apparente à celle d'une comédie : de jeunes amoureux doivent faire face à un obstacle pour se marier. Une jeune fille, Olympe, rend visite à Molière chez Ninon, afin qu'il la prenne dans sa troupe, parce qu'elle est passionnée par le théâtre et qu'elle pourra ainsi épouser le jeune homme qu'elle aime. En effet ce dernier est un fils naturel qui a grandi avec elle, mais le père d'Olympe, qui a le rôle d'opposant, refuse qu'elle l'épouse parce qu'il ne connaît pas ses parents. Cette petite comédie se dénoue au cinquième acte, grâce à la clarification de la situation et à la réconciliation avec le père qui accepte le mariage. Seuls quelques personnages de la pièce, dont les principaux, sont les adjuvants d'Olympe : Ninon, Molière, Chapelle et Saint-Evremond. Cette « petite pièce » suit donc le schéma d'une comédie, mais seuls l'exposition de la situation, déjà nouée, et le dénouement sont mis en scène, dans les premier et dernier actes, encadrant ainsi la pièce. Olympe de Gouges ne crée pas de véritable péripétie dans cette petite comédie. Toutefois cet épisode, imaginé par Olympe de Gouges, diffère des autres anecdotes de la pièce parce que le personnage principal ne semble plus être Ninon, reléguée au rang d'adjuvant, mais Olympe. Le nom de ce personnage est explicite : Olympe de Gouges paraît se mettre en scène en tant qu'héroïne au côté de Ninon et de Molière, se plaçant ainsi sous leur protection, et suivant leur enseignement. Cependant au cinquième acte, le personnage principal est bien Ninon. En effet, cet acte introduit aussi le pathétique dans le dénouement de cette petite comédie par la scène de reconnaissance entre Ninon et son fils, le chevalier de Belfort, ce qui la replace en position de personnage principal par rapport à Olympe, d'autant plus que c'est Ninon qui parle et qui arrange la situation, tandis qu'Olympe est peu présente sur scène. De plus, lui donner le rôle d'adjuvant dans la petite comédie est un autre moyen pour Olympe de Gouges de louer ses qualités : c'est parce que c'est elle la mère du chevalier de Belfort et parce qu'elle a touché le marquis de Châteauroux par son émotion sincère qu'il accepte que sa fille épouse le chevalier. C'est également Ninon qui contrôle la situation en décidant du moment où elle révèlera que le chevalier de Belfort est son fils, bien que Molière aide Ninon en utilisant l'argumentation pour convaincre le marquis de laisser sa fille épouser le chevalier.
 
 Donc les amours de Ninon, la petite comédie sur Olympe et l'épisode de Des Yveteaux sont des fils conducteurs qui semblent structurer la pièce.
 
 
-## La structure interne de la pièce
+## La structure interne de la pièce.
 
 Malgré l'absence d'intrigue principale, la cohérence de la pièce est assurée par les liens entre les épisodes et sa structure selon le modèle d'Aristote : « un commencement, un milieu, une fin ».
 
 
-### L'exposition
+### L'exposition.
 
 
-#### La scène d'exposition
+#### La scène d'exposition.
 
 Olympe de Gouges se sert des valets pour ses scènes d'exposition. Les valets de Ninon ouvrent la pièce et exposent la situation au début du premier acte. Ils ouvrent également le cinquième acte en présentant la situation du deuxième jour. Les valets de Des Yveteaux débutent le second acte et présentent la situation dans le second espace dramatique de la pièce.
 
@@ -410,7 +410,7 @@ Dans la scène d'exposition, c'est-à-dire la deuxième scène du premier acte, 
 Donc la scène 2 du premier acte est la principale scène d'exposition puisqu'elle présente la plupart des personnages et informe le spectateur sur la situation. Elle permet de poser certains fils conducteurs de la pièce : le caractère galant de Ninon, ses amours et la disparition de Des Yveteaux.
 
 
-#### Acte d'exposition
+#### Acte d'exposition.
 
 Certains personnages sont présentés plus tard dans le premier acte. Scarron est annoncé brièvement à la scène 6, lorsque Ninon cite les noms de ses amis au Grand-Prieur. Le Comte de Fiesque est présenté scène 20, lorsque La Châtre demande à Ninon de ne pas le recevoir de peur qu'il ne le remplace en tant qu'amant, ce qui peut suggérer au spectateur la suite des amours de Ninon. La Reine Christine est rapidement présentée à la scène 8 par Molière avec la périphrase « cette Reine du Nord ». Le Chevalier de Belfort et le marquis de Châteauroux sont annoncés à travers l'histoire d'Olympe, une jeune fille qui vient demander l'aide de Molière et de Ninon pour épouser son amant alors que son père désapprouve cette union. Olympe est introduite à la scène 9 par Mademoiselle le Roi.
 
@@ -419,12 +419,12 @@ Cependant tous les personnages de la pièce ne sont pas présentés au premier a
 Donc Olympe de Gouges débute bien sa pièce par une exposition qui présente le sujet de la pièce, c'est-à-dire la société de Ninon. Ce sujet implique plusieurs petites intrigues, chacune liée à un ami de Ninon.
 
 
-### Les épisodes : des petites pièces qui composent la pièce
+### Les épisodes : des petites pièces qui composent la pièce.
 
 Les épisodes de la vie de Ninon sont mis en scène par Olympe de Gouges comme des événements de sa journée, constituant ainsi le « milieu » de la pièce. Comme toute pièce de théâtre, *Molière chez Ninon* est divisée en actes puis en scènes, mais une nouvelle division pourrait être ajoutée à celles-ci : celle des épisodes. En effet la plupart d'entre eux consistent en des scènes, des tableaux, se développant sur plusieurs scènes, celles-ci correspondant alors uniquement à l'entrée et à la sortie des personnages et donc des acteurs, selon la tradition classique. Dans *La Dramaturgie classique en France*, Jacques Scherer explique que l'Abbé d'Aubignac distingue, dans son ouvrage, *Pratique du Théâtre*, les scènes centrales, des scènes de transition qui s'organisent autour d'elles. Dans *Molière chez Ninon*, cette distinction peut s'appliquer aux épisodes, aux tableaux. Ainsi, certains épisodes sont plus importants que les autres et semblent constituer l'action principale des actes, tandis que d'autres sont mis en scène à la manière de petits intermèdes. C'est de cette façon qu'Olympe de Gouges structure sa pièce à partir des épisodes racontés par Bret. Par la manière dont elle les met en scène, elle rend certains épisodes plus importants, ils peuvent alors être comparés à de petites pièces.
 
 
-#### Les scènes centrales : de « petites pièces » dans la pièce
+#### Les scènes centrales : de « petites pièces » dans la pièce.
 
 Outre le premier acte qui est l'acte d'exposition, chaque acte semble être centré sur une de ces « petites pièces ». Le deuxième acte est entièrement rempli par l'épisode de Des Yveteaux qui continue aussi au quatrième acte. L'épisode de l'exempt et de la reine Christine prennent respectivement une partie des troisième et quatrième actes. L'histoire d'Olympe est développée dans la majorité du cinquième acte. Ces épisodes peuvent fonctionner de manière autonome. Ils sont construits de la même manière : ils débutent par une situation initiale où Ninon vit une journée normale avec ses amis lorsque survient un problème, suivi d'un moment de réflexion sur la manière de le résoudre. Des épisodes extérieurs à l'action de l'événement principal remplissent le temps précédant la résolution du problème qui achève l'épisode.
 
@@ -437,14 +437,14 @@ Au quatrième acte, Ninon se prépare à recevoir la Reine Christine. Cet épiso
 Le cinquième acte développe la fin de l'épisode d'Olympe, commencé au premier acte, lorsque la jeune fille est arrivée chez Ninon, alors que celle-ci était avec Molière et Chapelle, pour leur demander de l'aider à résoudre son problème. Au cinquième acte, Ninon et Molière réussissent à convaincre son père de la laisser épouser le chevalier de Belfort parce qu'il s'est révélé être le fils de Ninon. Cet épisode peut être comparé à une petite comédie, comme nous l'avons expliqué.
 
 
-#### Les scènes de transition : un moyen de créer la vraisemblance
+#### Les scènes de transition : un moyen de créer la vraisemblance.
 
 Les autres épisodes qu'Olympe de Gouges a choisis de mettre en scène à partir du récit de Bret ou de ses propres inventions s'organisent autour de ces « petites pièces » et participent de la vraisemblance, notamment en comblant les vides laissés par les hors-scènes. Par exemple à la fin du deuxième acte, Ninon part de chez Des Yveteaux pour rentrer chez elle. Au début du troisième acte Scarron l'attend, et Olympe de Gouges rend vraisemblable le temps que Ninon met à rentrer chez elle en introduisant à ce moment-là l'épisode des dés, où Scarron arbitre la querelle entre le Président d'Effiat et le Maréchal d'Estrées, à la scène 4, pour savoir qui est le père de l'enfant porté par Ninon. Elle imagine auparavant une petite scène comique avec les porteurs de Scarron qui présente le caractère du personnage : souffrant mais enjoué. Dans cette petite scène, les porteurs de Scarron lui demandent de quoi se payer à boire, il leur répond : « Coquins ! j'ai beau vous donner pour boire, je ne m'en porte pas mieux, et je ne veux pas m'exposer à me faire casser le col. C'est bien assez que j'aye le corps brisé. Je veux conserver ma tête pour mes amis. » [53]. De même, au quatrième acte, scène 6, la visite de Mignard et de la Marquise de la Sablière permet de combler une partie du temps d'attente avant l'arrivée de la reine Christine et la fête en son honneur, qui auront lieu en deuxième partie de l'acte, à partir de la scène 14. Pendant ce temps Molière prépare la fête en hors-scène. La visite du Comte de Fiesque aux scènes 9, 10 et 13 permet aussi de remplir l'attente de cette fête. En effet les amours de Ninon structurent aussi la pièce par des scènes de transition. Au cinquième acte, Olympe de Gouges met ainsi en scène une autre visite du Comte de Fiesque à Ninon, qui comble l'attente avant l'arrivée du marquis de Châteauroux. Au troisième acte, scène 8, la scène de séduction entre le Comte de Fiesque et Ninon remplit le moment d'attente du retour des amis de Ninon, partis plaider sa cause devant la Reine. Cette scène fait la transition entre le moment où ils décident de partir, à la scène 7, et celui où ils reviennent pour lui annoncer l'annulation de sa peine, scène 9.
 
 Donc certains épisodes de la vie de Ninon de l'Enclos sont mis en scène dans le temps de la pièce par Olympe de Gouges. Elle crée avec certains d'entre eux de petites pièces autonomes qui se répartissent chacune principalement dans un acte, et qui semblent ainsi constituer les actions principales de ces actes. Cependant une grande partie des actes, notamment les temps d'attente quand l'action se joue en hors-scène, est occupée par d'autres épisodes de la vie de Ninon, ou par des anecdotes inventées par Olympe de Gouges, qui semblent être des intermèdes. Parmi les « scènes centrales », les épisodes de Des Yveteaux et d'Olympe sont plus longs et se répartissent dans toute la pièce. Ils sont ainsi comparables à de petites comédies.
 
 
-### Des épisodes et des actes structurés en une pièce
+### Des épisodes et des actes structurés en une pièce.
 
 Malgré l'autonomie des actes et de ces petites pièces, Olympe de Gouges met en scène les épisodes qu'elle a choisis de la vie de Ninon de façon à créer une structure logique. La plupart sont introduits dans la pièce selon le principe de la visite d'amis, ce qui ne suppose pas d'ordre privilégié. Toutefois elle prépare chaque épisode et chaque acte dans le précédent. Le premier acte expose la situation et présente le caractère de Ninon. Il prépare le second acte, qui met en scène la comédie pastorale de Des Yveteaux, avec l'allusion à ce personnage à la scène 13, quand Ninon doute de l'efficacité de Chapelle lorsqu'il se propose d'aller chercher Saint-Evremond, pour qu'il aide la jeune Olympe à convaincre son père de la laisser épouser le chevalier de Belfort : « Si vous n'en donnez pas de plus promptes que celles de Des Yveteaux, Mademoiselle les attendra longtemps, vous m'aviez cependant bien promis de le déterrer. » Elle fait ainsi référence à la disparition de Des Yveteaux, qui est ensuite retrouvé comme l'annonce Francisque à la scène 17. Cette scène prépare le deuxième acte, où le spectateur découvre ce qu'est devenu Des Yveteaux et où Ninon lui rend visite. En effet, celle-ci décide d'aller le voir « sur le champ », de manière précipitée, malgré la présence de son amant, La Châtre, qui s'apprête à partir pour la guerre. Le troisième acte pourrait être nommé « acte galant » parce qu'il met en scène Ninon au sein de sa société de grands hommes qui se livrent à la galanterie par des conversations, par des éloges et l'admiration des qualités de chacun. Cet acte est relié au deuxième par la mise en scène du temps que Ninon met pour rentrer chez elle à travers l'attente de Scarron. Ce dernier se renseigne d'ailleurs auprès de Mademoiselle le Roi pour savoir ce qu'est devenu Des Yveteaux : « Et sait-on où le bonhomme s'était caché pendant six mois ? » [54]. L'auteur présente ainsi le caractère galant de l'acte en mettant en scène Scarron en train d'écrire un poème en l'honneur de Ninon et arbitrant la querelle entre le Maréchal d'Estrées et le Président d'Effiat par un jeu de dés. Ensuite Olympe de Gouges relie les troisième et quatrième actes par les principaux épisodes qui les constituent. Au troisième acte, lors de l'épisode de l'exempt, où les amis de Ninon se rendent devant la Reine régente pour plaider sa cause, le Maréchal d'Estrées et le Grand-Condé rencontrent en hors-scène la Reine Christine, comme ils le racontent à Ninon à la scène 11, où ils lui annoncent sa visite qui aura lieu au quatrième acte. Le cinquième acte est attendu depuis le premier puisqu'il raconte la suite et la fin de l'histoire d'Olympe, mais il est préparé au quatrième acte, à la première scène, lorsque Ninon prévient Olympe qu'elle verra son père le lendemain.
 
@@ -453,7 +453,7 @@ Les actes et les « petites pièces » qui les constituent et qui semblent les
 Le sujet, c'est-à-dire la société de Ninon, et les fils conducteurs permettent également de donner une unité à la pièce. Les épisodes sont structurés de manière à montrer le caractère galant de Ninon et sa philosophie, afin de la célébrer. En effet, en écrivant cette pièce, Olympe de Gouges s'est proposé de célébrer Ninon de l'Enclos et Molière principalement, mais aussi tous les grands hommes de la société de Ninon, comme l'indique le titre : *Molière chez Ninon ou le siècle des grands hommes*. Pour cela elle cherche à montrer leurs qualités, en particulier celles de Ninon, par les événements qu'elle met en scène. Les fils conducteurs donnent aussi une unité à la pièce : certains d'entre eux sont des épisodes répartis sur plusieurs actes, c'est le cas pour les épisodes de Des Yveteaux et d'Olympe, comme nous l'avons démontré, d'autres constituent des scènes de transition, comme par exemple les amours de Ninon.
 
 
-### La fin de la pièce
+### La fin de la pièce.
 
 Comme la pièce n'a pas d'intrigue principale ni de nœud, mais plutôt plusieurs petites intrigues liées à des problèmes à résoudre, elle n'a pas non plus de dénouement. La pièce se termine par la résolution de Ninon de se retirer dans un couvent, qui semble être le résultat des événements de sa journée. En effet au cinquième acte, scène 1, Mademoiselle le Roi suppose que c'est le départ de La Châtre qui a déterminé Ninon à se retirer dans un couvent, tandis que Francisque pense que ce serait plutôt à cause du Comte de Fiesque. Toutefois Olympe de Gouges semble imaginer de multiples raisons à cette décision puisque qu'elle fait dire à Mademoiselle le Roi, qui rapporte le discours de Ninon : « Plusieurs considérations me déterminent à quitter le monde et ma société, qui est ce que je regrette le plus ». Néanmoins Olympe de Gouges ne les explique pas clairement dans sa pièce. Ce pourrait être effectivement ses amours avec le Comte de Fiesque qui en seraient la cause, comme Olympe de Gouges le suggère à travers le personnage de Francisque. En effet Ninon semble dire qu'elle est trop âgée pour continuer à avoir des amants, lorsqu'elle se confie à Molière au quatrième acte, scène 4 : « Tout ce qu'il vous plaira ; mais il n'est pas moins vrai que j'ai passé de quelques années la quarantaine : ainsi vous êtes trop sage pour ne pas me conseiller de renoncer à plaire et à me laisser séduire. » De même au cinquième acte, scène 18, lorsque le Comte de Fiesque vient pour la dernière fois s'expliquer avec elle, elle lui dit : « Si l'on pouvait rajeunir et si je revenais à l'âge de quinze ans, je ne changerais en rien le plan de vie que j'ai suivi ; mais j'approche de ma cinquantaine… cela vous étonne, et surtout que j'aie la force de l'avouer. » Il est donc probable que, considérant son âge et voyant qu'elle ne devrait plus avoir d'amant selon elle, Ninon ait décidé de se retirer dans un couvent. L'âge et le vieillissement sont en effet un des thèmes de la pièce, comme nous le démontrerons par la suite. À travers le personnage de Mademoiselle le Roi, Olympe de Gouges suggère aussi à la première scène du cinquième acte que Ninon aurait fait des « sottises » : « Les personnes d'esprit, Monsieur Francisque, font souvent de grandes sottises, et les réparent quelquefois trop tard ». La peur de devenir folle comme Des Yveteaux à force de gloire pourrait aussi lui avoir suggéré cette résolution. En effet au troisième acte, scène 14, elle dit à Chapelle et à Saint-Evremond :
 
@@ -469,7 +469,7 @@ Le cinquième acte marque aussi une rupture par rapport au reste de la pièce. I
 Donc Olympe de Gouges crée une histoire à partir d'éléments tirés des *Mémoires sur la vie de Mademoiselle de Lenclos*. Elle utilise des fils conducteurs qui permettent de relier les actes entre eux en étendant les épisodes les plus longs sur plusieurs actes, elle complète les anecdotes des *Mémoires* par ces propres inventions et ajoute ses créations sur la vie de Ninon aux côtés des faits supposés réels, comme sa petite comédie. Ainsi elle crée une logique dans la succession des épisodes. Elle renverse la chronologie des faits racontés par Antoine Bret pour en créer une propre à sa pièce.
 
 
-## Indications de mise en scène
+## Indications de mise en scène.
 
 Même si sa pièce n'est pas reçue à la Comédie-Française, Olympe de Gouges donne des indications pour une possible représentation, notamment sur les rôles pouvant être joués par un même acteur dans les petites troupes :
 
@@ -482,10 +482,10 @@ Elle donne des indications aux troupes qui voudraient mettre sa pièce en scène
 Si la Comédie Italienne est curieuse de jouer ma Pièce, je la lui offre par la voie publique. On pourra ôter deux Scènes Episodiques ; celle de Mignard, et du Maréchal d'Estrées, et l'on sera en état de jouer la Pièce avec douze Acteurs. Mais comme ce sont des faits intéressants dans l'Histoire, j'ai dû les faire imprimer, et dans une grande Troupe on fera bien de les laisser exister. On doit observer l'ancien costume dans toute sa rigueur ; on doit aussi faire attention qu'une femme de vingt-ans, comme une de quarante, peut jouer le rôle de Ninon, quand elle a des grâces et de la fraîcheur ; que le fils de Ninon peut être remplacé par une femme travestie ; que la Pièce tient tout le Spectacle, comme Figaro, et les Amours de Bayard ; et que, sans être trop prévenue en faveur de mon ouvrage, le spectateur peut rentrer content chez soi, après la Représentation de cette Pièce.
 
 
-# Les personnages et les thèmes de Molière chez Ninon
+# Les personnages et les thèmes de Molière chez Ninon.
 
 
-## Des caractères inspirés de personnages historiques et destinés à les célébrer
+## Des caractères inspirés de personnages historiques et destinés à les célébrer.
 
 La conception du théâtre du XVIII*e* siècle comme devant avoir un but moral entraîne l'apparition de nouveaux thèmes et de nouveaux héros exemplaires et donc utiles à la société. L'héroïsme national et les grands hommes sont célébrés sur les scènes de théâtre. En effet, au XVIII*e* siècle le genre de l'éloge était en vogue, en partie parce qu'il permettait aux écrivains de se faire connaître rapidement. Il devient un sujet des prix d'éloquence des concours académiques à partir de 1758. Il s'agissait de célébrer le monarque et les hommes illustres qui l'entouraient, ou les grands hommes français, tels que le maréchal de Saxe, Catinat, Fontenelle, Colbert, Michel de l'Hospital, ou encore Molière. Ces grands hommes ont aussi souvent été célébrés dans des pièces de théâtre qui permettaient, grâce aux tableaux et à la mise en scène, de montrer leur mérite de manière plus frappante que la rhétorique académique.
 
@@ -494,7 +494,7 @@ Dans *Molière chez Ninon*, Olympe de Gouges s'inscrit dans la vogue de son siè
 Ces personnages historiques, en particulier Ninon de l'Enclos et Molière, sont les principaux qu'Olympe de Gouges célèbre dans sa pièce.
 
 
-### Ninon
+### Ninon.
 
 D'après le titre, Molière semble être le personnage principal de *Molière chez Ninon*. Cependant les épisodes sont ceux de la journée de Ninon et la pièce est centrée autour de ce personnage, qui prononce la majorité des répliques : 306 sur 1062. Olympe de Gouges admirait Ninon de l'Enclos, comme l'indique Nicolas Toussaint Lemoyne Des Essarts dans son ouvrage *Procès fameux jugés avant et après la Révolution* (1803) : «  Sa grande prétention à cette époque, était d'offrir en elle à son siècle un modèle de la célèbre Ninon, et on peut dire, que par sa beauté, si les passions les plus ardentes et les plus impétueuses ne l'avaient pas flétrie de bonne-heure, elle eût pu justement aspirer à la célébrité de celle qu'elle voulait imiter ». Le personnage de Ninon apparaît d'ailleurs aussi dans *Mirabeau aux champs Elysées*, une autre pièce d'Olympe de Gouges. Toutefois dans *Molière chez Ninon*, c'est surtout la philosophie de Ninon qu'Olympe de Gouges met en valeur, et non pas sa « beauté ». Olympe de Gouges célèbre donc Ninon pour ses qualités décrites notamment par Bret dans *Mémoires sur la vie de Mademoiselle de Lenclos* : « La vérité d'un caractère doux, facile et toujours égal, une probité aussi éclairée que naturelle, une âme ferme, un cœur tendre et fidèle à l'amitié, lui donnèrent, jusqu'à sa mort, des amis idolâtres de son mérite, autant que ses Amants l'étaient de sa beauté. » Bret décrit aussi les qualités galantes de Ninon :
 
@@ -506,12 +506,12 @@ De même, dans son *Grand Dictionnaire historique*, Moreri présente Ninon de l'
 Olympe de Gouges semble constituer le caractère de son personnage de Ninon à partir de ce portrait. Ainsi dès la première scène du premier acte, Francique la décrit comme « agréable et sensible », et plusieurs fois dans la pièce les personnages font référence à ses « principes d'honneur et de probité » (par exemple Francisque au premier acte, scène 3, la Châtre scène 19, le Grand-Condé au troisième acte scène 7). Au premier acte scène 8, Molière fait référence au goût de Ninon lorsqu'il lui dit qu'il faut mieux que ce soit elle qui relise sa pièce plutôt que sa servante, même si celle-ci a un « esprit naturel » : « Il me faut plus qu'un esprit naturel… Un génie éclairé, dont le goût délicat saisisse les traits du caractère que je vais mettre sur la scène. ». L'auteur met également en scène l'attachement des amis de Ninon au troisième acte, scène 7, lorsqu'ils décident d'aller plaider sa cause auprès de la Reine pour lui éviter la punition.
 
 
-### Molière
+### Molière.
 
 Même s'il n'est pas le personnage central de la pièce, Molière est le deuxième personnage le plus important. D'une part il est mentionné dans le titre aux côtés de Ninon, d'autre part il prononce le plus grand nombre de répliques, après elle : 153 sur 1062. Olympe de Gouges s'intègre dans la vogue du XVIII*e* en faisant de Molière un des personnages de sa pièce pour louer ses talents dramatiques. Depuis sa mort, il a en effet été célébré au théâtre soit par des dramaturges tentant de l'imiter ou réécrivant ses pièces, soit par des auteurs qui en faisaient un personnage, mettant ainsi en scène une partie de sa vie à partir des éléments présents dans ses biographies, comme celles de Grimarest ou de Bret. Dans sa *Vie de M. de Molière*, Grimarest explique que « sans ce Génie supérieur le Théâtre comique serait peut-être encore dans cet affreux chaos, d'où il l'a tiré par la force de son imagination ; aidée d'une profonde lecture, et de ses réflexions, qu'il a toujours heureusement mises en œuvre. » De même, Olympe de Gouges le célèbre dans sa pièce pour son talent. Elle le met en scène alors qu'il fait usage de son imagination, comme nous le verrons par la suite. Dans la pièce, son personnage de Molière est sans cesse impliqué dans un processus de création, s'inspirant de ce qu'il voit pour avoir de nouvelles idées. Ainsi, à la fin du troisième acte, Ninon le considère comme le seul capable d'imaginer rapidement une fête en l'honneur de la Reine Christine, qui veut lui rendre visite le soir même : « Il a tant de facilité qu'il n'y a que lui qui puisse nous tirer d'embarras. »
 
 
-### Le Prince de Condé
+### Le Prince de Condé.
 
 Dans *Histoire de Louis de Bourbon* [59], Desormeaux, présente le Grand-Condé comme « un des Héros les plus célèbres qui aient paru en Europe », il le compare à Alexandre le Grand : « né avec le génie, le courage indomptable, la fierté, la grandeur d'âme et la rapide activité du conquérant Macédonien », « il avait cultivé les sciences et les arts avec le même éclat que ses talents militaires ; ses connaissances dans tous les genres, étaient également profondes ; son éloquence égalait sa valeur ». De même, dans l'édition de 1759 du *Grand Dictionnaire historique* de Moreri, son courage est mis en avant : « Louis de Bourbon II du nom, prince de Condé, si illustre par son courage et par ses victoires ». Louis II de Bourbon (1621-1686) a en effet remporté une grande victoire à Rocroi contre les Espagnols le 19 mai 1643, alors qu'il n'était encore que duc d'Enghien. Il a également gagné la bataille de Fribourg en 1644 contre les Allemands et celle de Nördlingen en 1645, lors de la guerre de Trente Ans, puis en 1648 il a remporté la victoire à Lens. Le Duc d'Enghien est devenu Prince de Condé en 1646, à la mort de son père et a été surnommé le Grand-Condé pour ses victoires. Lors de la Fronde parlementaire, de 1648 à 1649, il a défendu la royauté en bloquant Paris. Mais de 1650 à 1653, il a dirigé la Fronde des princes, en se révoltant surtout contre le premier ministre, Mazarin. Au troisième acte, scène 12, Olympe de Gouges fait référence à la Fronde parlementaire, lorsque le Prince de Condé a protégé le roi des frondeurs : « Le jeune Monarque dans son Berceau a vu son Trône chancelant, raffermi par votre bras invincible. » Elle crée son personnage du Grand-Condé en mettant l'accent sur sa noblesse, son courage : « Allons, Bergère ; allons au-devant du plus grand des Mortels, de notre Seigneur, de notre Maître. » [60]. Elle représente aussi le Grand-Condé faisant usage de son esprit lorsqu'au troisième acte, scène 12, il rapporte lui-même la vision que le roi a de lui : « “Vous me faites plaisir, me dit-il, de me montrer que vous joignez à l'art de la guerre l'art de connaître et d'apprécier les talents. Je vous en fais mon compliment, car ordinairement les plus grands Guerriers sont sauvages, et ne connaissent d'autre mérite que le courage de se battre, et ils semblent n'être nés que pour cet état.” » Dans sa postface, Olympe de Gouges précise qu'elle l'a confondu parmi les autres amis de Ninon :
 
@@ -521,7 +521,7 @@ il se rappellera avec plaisir des Personnages que je lui présente, surtout le G
 D'autres personnages de la pièce sont liés au Prince de Condé : Saint-Evremond était officier dans son armée et le Comte de Fiesque faisait partie de sa clientèle.
 
 
-### Scarron
+### Scarron.
 
 Dans le dictionnaire de Moreri, il est dit de Scarron que « pour soulager ses maux, et donner carrière à son esprit, qu'il avait naturellement agréable, il s'attacha au genre d'écrire que nous appelons *burlesque*, où il a excellé aussi bien en prose qu'en vers. » De même, Tallemant de Reaux le décrit ainsi :
 
@@ -531,7 +531,7 @@ Il est … dans une chaise couverte par le dessus, et il n'a le mouvement libre 
 Olympe de Gouges crée le personnage de Scarron à partir de cette image d'un homme souffrant mais enjoué. Au troisième acte, scène 3 Mademoiselle le Roi le plaint : « Quelle heureuse philosophie ! C'est, en vérité, grand dommage, quand des hommes de cet esprit et de cette gaité sont exposés aux souffrances et à perdre la vie. » Dès son apparition sur scène au troisième acte, scène 2, il est accompagné de porteurs : « *scarron**porté par quatre hommes qui l'asseyent sur le canapé* ».
 
 
-### La Reine Christine
+### La Reine Christine.
 
 Dans *Histoire de la vie de la Reine Christine de Suède* (1777), Christine de Suède est décrite comme ayant « une merveilleuse disposition pour la connaissance de toutes les belles choses, beaucoup de générosité et une légèreté incroyable ». Elle est présentée comme possédant un bel esprit :
 
@@ -555,12 +555,12 @@ Olympe de Gouges semble montrer qu'en abdiquant, la Reine de Suède a su faire p
 Donc Olympe de Gouges crée les caractères de ses principaux personnages de manière à pouvoir les célébrer et selon l'image qui était donnée d'eux, dans leurs biographies par exemple.
 
 
-## La Galanterie, thème principal de la pièce : une société d'honnêtes hommes
+## La Galanterie, thème principal de la pièce : une société d'honnêtes hommes.
 
 Le thème de la galanterie est supposé par le sujet de la pièce, c'est-à-dire la société de Ninon de l'Enclos. Olympe de Gouges met en scène son salon avec tous les grands hommes qui le fréquentaient et elle imagine leurs conversations. Nous l'avons vu, l'auteur semble s'inscrire dans le courant de la littérature galante par ce sujet, qui implique la mise en scène de ces conversations galantes entre les grands hommes de cette société. D'après Alain Viala, dans *La France galante*, le chevalier de Méré définit le galant homme ainsi : « Un galant homme n'est autre chose qu'un honnête homme un peu plus brillant qu'à l'ordinaire et qui sait faire en sorte que tout lui sied bien. ». Selon Alain Viala, la galanterie suppose donc la vie mondaine, mais un galant homme est un honnête homme. Aux XVII*e* et XVIII*e* siècles, l'honnêteté était en effet considérée comme une qualité essentielle dans les milieux mondains. L'honnête homme était celui qui possédait les qualités nécessaires pour être admis dans les salons des dames. Dans le *Dictionnaire de l'Académie française* de 1694, « galant » est défini ainsi : « honnête, qui a de la probité, civil, sociable, de bonne compagnie, de conversation agréable ». Ainsi l'honnête homme est civil, sociable, vertueux, enjoué, brillant, habile, poli, agréable notamment dans sa conversation, dont il doit maîtriser l'art. La juste mesure, l'altruisme, la modestie faisaient aussi partie de la galanterie. Ces qualités galantes étaient à la fois naturelles, liées notamment à la noble naissance, mais elles devaient aussi être affinées par l'éducation. Ainsi dans *Molière chez Ninon*, au cinquième acte, scène 14, Mademoiselle de Châteauroux affirme que ce ne sont pas les titres de noblesse qui font la vertu d'un homme : « Le premier homme dans la société est l'homme estimable qui n'a d'autres principes que ceux des âmes bien nées, et que le sentiment et l'éducation ont élevé au-dessus du vulgaire. » Comme l'indique le titre : *Molière chez Ninon, ou le siècle des Grands hommes*, Olympe de Gouges se propose de rendre hommage par sa pièce à Ninon de l'Enclos et à Molière mais aussi aux grands hommes qui les entouraient. Elle les célèbre en les mettant en scène en train de faire usage de leurs qualités galantes ou de se louer entre eux pour leurs vertus ou leur talent. En effet l'éloquence et l'art de la conversation font partie des qualités galantes, par conséquent « l'éloge aux Dames et aux Grands », selon Alain Viala, était souvent utilisé dans la littérature galante.
 
 
-### Ninon
+### Ninon.
 
 Nous l'avons vu Olympe de Gouges a peut-être construit le caractère de Ninon à partir du portrait qu'en avait fait Bret et des vertus qu'elle admire chez elle. Ainsi le personnage de Ninon possède toutes les qualités de la galanterie. Elle a des « principes d'honneur et de probité », ce qui est notamment démontré par l'épisode de Monsieur Gourville et de la cassette qu'il lui a demandé de garder durant son absence, et qu'elle lui rend, alors que l'homme d'Église lui a volé la partie de sa fortune qu'il lui avait confiée. Gourville est alors honteux de l'avoir soupçonnée : « Êtes-vous encore jaloux de la lâcheté que j'ai eu de soupçonner un cœur aussi noble » [62]. Ninon est habile, elle a de l'esprit et du goût comme Olympe de Gouges le démontre avec les vers qu'elle lui fait écrire en réponse à l'épigramme du Grand-Prieur. Molière qualifie ces vers de « délicieux » [63], il dit également à Ninon qu'elle est un « génie éclairé » qui possède un « goût délicat ». Olympe de Gouges met en scène son altruisme et sa compassion dans la scène d'Olympe, qu'elle ne connaît pas mais qu'elle veut aider : « Je vous avoue, mon cher Molière, que cette jeune personne m'intéresse infiniment. » [64]. Elle représente aussi les qualités de Ninon dans l'épisode de Des Yveteaux, où, lorsqu'elle voit qu'il est heureux dans sa folie, elle choisit de l'y laisser. Au troisième acte, scène 5, le Maréchal d'Estrées commente les souffrances de Scarron en disant que Ninon s'occupe de lui : « Aussi l'aimable Ninon lui consacre tous ses moments. » Molière à la scène 6 affirme que « son bonheur n'existe que dans celui de ses amis. »
 
@@ -572,17 +572,17 @@ Olympe de Gouges fait l'éloge de Ninon de l'Enclos à travers la voix des autre
 Il loue ainsi Ninon pour ses qualités exceptionnelles, conformes à la galanterie (la « délicatesse », « la grandeur d'âme », l' « esprit », la « modestie »), et la présente comme « modèle à suivre » par les autres femmes, qui devraient imiter son caractère galant.
 
 
-### Molière
+### Molière.
 
 Olympe de Gouges met aussi en valeur les qualités galantes de Molière, et surtout son habileté, son talent créateur et son imagination. Gourville le loue au premier acte, scène 16 : « C'est un honnête homme, je n'en suis pas étonné. Le génie chez lui ne corrompt point les mœurs. Il ne fait que les épurer. » L'invention et l'imagination sont en effet des qualités galantes, mises en avant dans les salons à travers l'écriture de vers, les jeux et les impromptus. Elle met aussi en valeur sa modestie malgré son talent. Au troisième acte, scène 6, le Grand-Condé admire sa modestie ainsi que celle de Scarron : « Tant de modestie est rare. » Olympe de Gouges lui oppose les comédiens français dans sa postface : « À la Scène de Mademoiselle Olympe, Molière les révolta, et surtout sa modestie ; vertu ... et qui accompagne toujours le vrai mérite. » On peut supposer que le passage censuré attaquait les comédiens sur leur manque de modestie. Comme Ninon, le personnage de Molière a « des principes d'honneur et de probité » : « Vous connaissez, Monsieur, les principes de probité de Monsieur Molière » [69].
 
 
-### Scarron
+### Scarron.
 
 Scarron est aussi représenté par Olympe de Gouges pratiquant une des qualités galantes : l'enjouement. Nous l'avons vu, l'auteur imagine le caractère de son personnage selon l'image d'un auteur talentueux et enjoué malgré ses souffrances. Ainsi Olympe de Gouges célèbre Scarron pour son enjouement en le mettant en scène en train d'en faire usage, par exemple lorsqu'il écrit un poème en l'honneur de Ninon au troisième acte, ou en intégrant dans sa pièce des éloges de Scarron à travers la voix des autres personnages. Molière l'admire au troisième acte, scène 6 : « Quelle facilité ! quelle heureuse gaité ! Que je suis loin d'approcher de cette sublime Philosophie ». Au troisième acte, scène 5, le Président d'Effiat dit de Scarron qu'il est « toujours gai au milieu des tourments ».
 
 
-### Le Grand-Condé
+### Le Grand-Condé.
 
 Le Prince de Condé est principalement célébré pour son courage et ses victoires. Mathurin lui fait un « éloge pompeux » [70] au deuxième acte, scène 11, pour lui montrer qu'il admire son courage :
 
@@ -597,7 +597,7 @@ Toutefois, le Prince de Condé est aussi célébré pour ses qualités galantes.
 Le Prince, Madame, fait bien ce qu'il fait. Rien n'échappe à sa pénétration ; et ce qu'il y a de plus admirable, c'est que ce héros, à qui rien ne résiste, est simple et modeste avec ses amis. Ce ne sont pas ses égaux qu'il honore le plus de son amitié. Il ne l'accorde qu'au vrai mérite et aux grands talents, quand ils sont accompagnés des sentiments qui distinguent l'homme et qui montrent son véritable caractère.
 
 
-### La Reine Christine
+### La Reine Christine.
 
 Dans *Molière chez Ninon*, la Reine Christine possède les mêmes qualités que Ninon et celle-ci la voit comme une femme supérieure à elle-même et à toutes les autres.
 
@@ -611,10 +611,10 @@ Le personnage de Ninon admire aussi la reine Christine pour ses autres vertus, q
 Donc Olympe de Gouges crée le caractère de ses personnages en mettant en valeur les qualités des personnages historiques qu'ils représentent. Elle peut ainsi les célébrer pour ces vertus, qui sont liées aux valeurs galantes, en les mettant en scène en train d'en faire usage par leurs conversations dans le salon de Ninon. Puisque le sujet de la pièce est la société de Ninon de l'Enclos, la galanterie en est le thème central.
 
 
-## Les thèmes de la pièce
+## Les thèmes de la pièce.
 
 
-### L'amour
+### L'amour.
 
 Toutes ces qualités galantes visent à plaire. Ainsi la galanterie est liée à l'hédonisme et à l'épicurisme en particulier dans la société de Ninon de l'Enclos. En effet dans l'*Encyclopédie*, à l'article « épicurisme », il est écrit : « La plus ancienne et la première de ces écoles où l'on ait pratiqué & professé la morale d'*Epicure*, était rue des Tournelles, dans la maison de Ninon Lenclos, c'est là que cette femme extraordinaire rassemblait tout ce que la cour & la ville avaient d'hommes polis, éclairés & voluptueux » L'épicurisme consiste à considérer que les êtres vivants sont constitués d'atomes, qu'il n'y a pas de dieu créateur et donc que l'homme, tant qu'il est vivant, doit rechercher les plaisirs et éviter les douleurs. Or, dans les salons où se pratiquait la galanterie, le mariage était considéré comme un moyen d'oppression contre les femmes. Ninon de l'Enclos ne s'est jamais mariée et considérait que l'amour était éphémère. Olympe de Gouges reprend le récit de Bret dans la réplique où Ninon explique à la reine Christine sa philosophie quant à l'amour : « en le considérant tel qu'il est, l'amour ne m'a paru qu'un goût fondé sur les sens, un sentiment aveugle qui ne suppose aucun mérite dans l'objet qui le fait naître, et ne l'engage à aucune reconnaissance ; en un mot, un caprice dont la durée ne dépend pas de nous, et que suivent le dégoût et le repentir. » Dans *Mémoires sur la vie de Mademoiselle de Lenclos*, Bret cite lui-même l'Abbé de Châteauneuf [72] en attribuant ces paroles à Ninon de l'Enclos. Olympe de Gouges la célèbre pour cette philosophie. En effet elle a été forcée d'épouser un homme qu'elle n'aimait pas alors qu'elle n'avait que seize ans puis, après la mort de son mari, elle ne s'est jamais remariée.
 
@@ -623,15 +623,15 @@ Olympe de Gouges admire donc Ninon de l'Enclos non seulement pour ses vertus, ma
 Cependant, Olympe de Gouges donne une autre vision de l'amour dans sa pièce. Dans la petite comédie sur Olympe, elle représente, à travers les personnages d'Olympe et du chevalier de Belfort, l'amour comme unique, durable et débouchant sur un mariage. Ninon admire la façon dont ils s'aiment : « Que cette enfant m'intéresse ! Que son amour est pur ! Que n'ai-je aimé de même ! » [76]
 
 
-### La nature
+### La nature.
 
 La nature est aussi un des thèmes de la pièce qui est lié à la galanterie puisque le caractère de l'honnête homme est avant tout naturel, puis perfectionné par l'éducation. Les qualités naturelles sont essentielles pour Olympe de Gouges, nous l'avons vu, et elle célèbre le caractère « naturel » des vertus de ses personnages, c'est-à-dire le fait qu'elles soient sans artifices ‘telles que la nature les a faites » [77] Au quatrième acte, scène 15, la Reine Christine dit à Ninon que leurs qualités leur viennent « de la Nature », au cinquième acte, scène 18, Ninon affirme que son caractère est issu des « dons précieux qu'elle a reçus de la nature ». De même à la scène 23, Molière fait l'éloge de Ninon au marquis de Châteauroux : « Douée de tous les avantages de la Nature, et d'une riche éducation, plus attaquée qu'une autre, et sans doute plus sensible, elle a aimé, elle fut adorée, vous ne l'ignorez point ». Il montre ainsi que Ninon est une femme galante puisqu'elle a affiné par l'éducation ses qualités naturelles.
 
 
-### L'imagination
+### L'imagination.
 
 
-#### L'imagination et le talent
+#### L'imagination et le talent.
 
 L'imagination est aussi une qualité galante. Olympe de Gouges met en valeur dans sa pièce les personnages qui ont un talent, une capacité de création grâce à leur imagination, comme Ninon, nous l'avons vu, dans la scène où elle répond à l'épigramme du Grand-Prieur. Scarron est également célébré pour son talent. En effet, Olympe de Gouges le met en scène en train de le mettre en œuvre par l'écriture d'un poème, au troisième acte, scène 3, alors qu'il vient d'apparaître à la scène 2 : « Mais écoute, ma poule ; profitons du temps, donne-moi du papier et une écritoire, que je fasse mes adieux à ce charmant Marais, à la Reine des cœurs, à qui jamais aucun ne sera rebelle. ». À la scène 5, il est question de « l'imagination » de Scarron qui a « travaillé » pour écrire ce poème en l'honneur de Ninon. Scarron prétend vouloir punir Molière en lui demandant de le lire, ce que ce dernier qualifie d'« agréable pénitence », puis le Prince de Condé parle de « jolie production » à propos de ces vers.
 
@@ -653,12 +653,12 @@ Cependant, Olympe de Gouges pose une limite au théâtre par les regrets de son 
 Olympe de Gouges semble donc à la fois évoquer sa passion pour le théâtre et son admiration pour le talent de Molière, et en même temps les difficultés qu'elle rencontre pour vivre sa passion.
 
 
-#### L'imagination et le merveilleux
+#### L'imagination et le merveilleux.
 
 Le thème de l'imagination liée à la galanterie apparaît aussi au deuxième acte, à travers l'idée de songe et de merveilleux, qui sont des thèmes privilégiés dans la littérature du XVIII*e* siècle. Le merveilleux se définit par la reconnaissance d'un événement mystérieux comme surnaturel. Il est évoqué par la sorcellerie dans cet acte. Par exemple, Mathurin compare la façon dont le Grand-Condé convainc les hommes de le suivre à la guerre à une sorte de puissance d'attraction : « On dirait que c'est comme un sort. » [92]. Le merveilleux apparaît également dans l'analyse que fait Ninon de la mise en scène de Des Yveteaux : « Mon Prince, j'en suis comme vous émerveillée, et dans les siècles à venir, on regardera l'histoire de Des Yveteaux comme un fait fabuleux, et qui cependant se passe sous vos yeux. » [93]. Molière considère l'univers créé par Des Yveteaux comme issu d'un enchantement : « C'est tout comme à l'Opéra. Il y a de l'enchantement ici. » [94] Cependant, comme le suggère la référence à l'Opéra, cette impression de sort ou d'enchantement n'est qu'une illusion. Cela est aussi supposé par l'expression « on dirait » employée par Lucas : « Il y a des choses dans le monde si surprenantes, qu'on dirait qu'il y a du sortilège. » [95]. Dès lors c'est le fantastique qui prédomine puisque la distinction entre réel et rêve devient floue. Les personnages ont l'impression de se retrouver dans un univers merveilleux parce que Des Yveteaux s'est inspiré de contes pour le créer. Ainsi, lorsque Blaise demande à Mathurin s'il « n'a donc jamais lu des contes de Fées ? » [96], celui-ci lui répond : « Dieu m'en préserve ; c'est avec ça qu'on vous ensorcelle ; et je voyons ben que notre Maître a perdu son bon sens, avec ses belles lectures. » [97]. Selon Mathurin la folie de Des Yveteaux serait due à une confusion entre rêve et réalité. Il qualifie d'ailleurs plusieurs fois les fantaisies de Des Yveteaux de « conte » ou utilise l'expression « en conter ». L'imagination crée ainsi le songe comme moyen de réaliser ses désirs. La folie de Des Yveteaux est d'ailleurs nommée plusieurs fois « rêverie », et est associée à l'idée de bonheur : « en lui ôtant ses douces rêveries ; ce serait peut-être lui ôter son bonheur. » [98], « Adieu, mon vieil ami ; que le Ciel vous tienne dans cette heureuse rêverie. » [99], « mais voyant qu'il est heureux dans ses idées chimériques, je suis moins affligée. » [100]. Le songe appartient plus au domaine du fantastique qu'à celui du merveilleux, puisqu'il brouille les limites entre ce qui relève du merveilleux et de l'étrange. L'étrange est dû à un fait mystérieux mais réel parce qu'il a une explication rationnelle. Ainsi les personnages savent qu'ils sont dans le réel mais ce qu'ils voient leur semble tellement irrationnel qu'ils ont l'impression d'être dans un songe. Par exemple, Mathurin dit : « ça nous paraît toujours comme un songe. » [101] et « mais tout ceci nous paraît si extraordinaire, que je ne croyons pas même ce que je voyons. » [102]. De même Molière a du mal à croire ce qu'il voit : « Est-il possible ! je ne l'aurais jamais cru. » [103]. Le Grand-Condé se croit également dans l'univers merveilleux du rêve : « Sommes-nous transportés dans un lieu de féérie ? Tout ce que je vois me paraît un songe. » [104]. Donc par son désir de vivre un conte, Des Yveteaux crée artificiellement un univers féérique dans le réel, qui brouille les frontières entre le réel et le merveilleux du conte pour les personnages-spectateurs, qui se croient alors dans un songe, ne trouvant pas d'explication rationnelle à ce qu'ils voient. Mais Blaise rétablit la vérité : « il n'est pas moins vrai que tout ce qui te paraît s'écarter de la vraisemblance, sont des choses très-certaines. » [105]
 
 
-### Le vieillissement
+### Le vieillissement.
 
 Le vieillissement est un thème récurrent dans la pièce. Ninon fait plusieurs fois référence à son âge, souvent en lien avec la féminité ou l'amour. Comme nous l'avons vu, à la fin de la pièce, sa décision de se retirer dans un couvent est peut-être en partie liée au fait qu'elle se trouve trop âgée pour continuer à pratiquer le libertinage. Ainsi le vieillissement est associé à un changement. D'une part, celui-ci a lieu dans la façon d'aimer : « Il y a un temps pour tout, et je commence à croire qu'à mon âge, l'amour est plus solide. » [106]. L'avancée en âge impliquerait donc la fidélité et un changement dans la philosophie sur l'amour comme éphémère qu'avait Ninon. Au quatrième acte, scène 4, elle se confie à Molière à propos de ses amours avec le Comte de Fiesque et s'inquiète de la possible incompatibilité de son âge avec la séduction : « Tout ce qu'il vous plaira ; mais il n'est pas moins vrai que j'ai passé de quelques années la quarantaine : ainsi vous êtes trop sage pour ne pas me conseiller de renoncer à plaire et à me laisser séduire. » Ninon semble suggérer qu'il est temps pour elle de commencer à vivre de façon plus « ordonnée » et conforme aux mœurs. De même au cinquième acte, scène 18, Ninon dit au Comte de Fiesque qu'elle est trop vieille pour qu'il soit son amant : « Si l'on pouvait rajeunir et si je revenais à l'âge de quinze ans, je ne changerais en rien le plan de vie que j'ai suivi ; mais j'approche de ma cinquantaine ». Elle lui explique le changement qu'implique son âge et qui la pousse à se retirer dans un couvent : « je me vois aujourd'hui bien différente de ce que j'étais hier … je vous l'ai déjà dit, Monsieur le Comte, la bonne Philosophie existe à se mortifier quelquefois avec plaisir. Dans la première jeunesse, le feu des passions fait taire cette Philosophie. Dans un âge plus avancé, elle prend le dessus ». Il semble donc que l'âge atteint par Ninon, « la cinquantaine », soit associé à une certaine forme de sagesse, qui consisterait à adopter une vie conforme aux mœurs, notamment pour protéger ses enfants.
 
@@ -669,7 +669,7 @@ Enfin il est question de l'âge et même de la vieillesse à travers le personna
 Olympe de Gouges a presque le même âge que son personnage de Ninon au moment où elle écrit la pièce. En effet en 1787-1788, elle approche de ses quarante ans et son personnage de Ninon est un peu plus âgée : elle dit avoir « passé de quelques années la quarantaine » [108]. Olympe de Gouges semble donc mettre en scène ses préoccupations à travers son personnage de Ninon. Elle paraît à la fois admirer Ninon de l'Enclos et s'identifier à elle.
 
 
-### Les femmes
+### Les femmes.
 
 Olympe de Gouges choisit la société de Ninon de l'Enclos comme sujet pour écrire une pièce qui célèbre Molière. Mais, nous l'avons vu, c'est surtout Ninon qu'elle célèbre en en faisant le personnage principal de sa pièce. Elle admire cette femme et met en scène ses qualités dans sa pièce de façon à pousser les autres femmes à chercher à l'imiter. Elle présente ainsi Ninon comme un modèle à suivre. Olympe de Gouges est surtout connue pour sa défense des femmes, notamment à travers sa *Déclaration des droits de la femme et de la citoyenne*, mais aussi dans ses brochures politiques pendant la Révolution ou ses pièces de théâtre. Cependant dans *Molière chez Ninon*, elle ne célèbre pas toutes les femmes à travers le personnage de Ninon, elle en ridiculise même certaines, notamment les prudes et celles qui considèrent que Ninon n'est pas respectable. Ainsi au premier acte, scène 8 Madame de Villarceaux est ridiculisée dans l'anecdote racontée par Ninon à Molière et Chapelle. Elle est présentée comme excessive, inculte et jalouse, et donc avec des traits contraires à la galanterie. Elle ne comprend pas la leçon de latin de son fils et l'interprète mal, croyant que le précepteur parle à son fils des amours de son mari avec Ninon, et lorsqu'on tente de lui expliquer, elle refuse d'écouter : « Tout le cercle eut beau lui protester que *Ninum* ne voulait pas dire Ninon ; elle n'en fut que plus furieuse, et elle finit par dire qu'il était affreux que tout le monde applaudit à mes sottises. » Le terme « furieuse », qui fait écho à l'expression précédente « cette femme jalouse entra dans une fureur », connote l'excès, voire la folie, par son étymologie. Les prudes sont aussi présentées comme excessives et hypocrites notamment par l'exempt au troisième acte, scène 7 : « Les dévotes surtout, ont répandu toute leur animosité, pour noircir la femme la plus aimable de son siècle : on a supposé même des choses d'une nature à n'être pas répétées ici. Enfin, tout ce que la calomnie a de plus affreux, on l'a prêté à Mademoiselle Ninon. » Leur fausseté, opposée à la probité de Ninon, est également dénoncée au quatrième acte, scène 6, par les personnages de Madame de la Sablière, qui les nomme « ces prétendues femmes de bien », et de Molière : « Il n'y a que des hypocrites, des femmes sans principes d'honneur et de probité qui cherchent à ternir votre réputation » [109]. Ainsi ces femmes qui se présentent comme vertueuses sont décrites comme opposées au caractère de Ninon et à sa galanterie. C'est Ninon qui possède la vraie vertu par son honnêteté, comme nous l'avons vu. La Reine Christine est un autre exemple de femme qui possède ces qualités. Ces deux femmes sont présentées comme « supérieures à leur sexe » pour leurs vertus et leur philosophie. Elles sont ainsi présentées comme des modèles à suivre.
 
@@ -685,10 +685,10 @@ Olympe de Gouges semble ainsi présenter Ninon de l'Enclos comme un modèle à s
 Olympe de Gouges s'identifie à Ninon pour sa philosophie sur l'amour et pour son âge dans la pièce. Elle l'admire aussi pour sa philosophie, son esprit et ses vertus, qui la différencient des autres femmes. Elle écrit à propos d'elle dans la postface de la pièce : « qu'il serait à souhaiter dans ce siècle de posséder une femme d'un aussi grand mérite ! » Elle semble ainsi se donner pour but d'être cette femme au XVIII*e* siècle en prenant Ninon de L'Enclos pour exemple. D'ailleurs, au dénouement de la petite comédie d'Olympe, elle paraît se présenter comme son héritière à travers le personnage d'Olympe, puisque le spectateur apprend que le jeune homme qu'elle aime est en fait le fils de Ninon, ce qui permet de dénouer la situation : le père, Monsieur de Châteauroux, accepte le mariage, Olympe devient ainsi la belle-fille de Ninon. Elle évoque aussi à travers le personnage d'Olympe sa passion pour le théâtre, incarné par Molière dans la pièce.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation de l'édition
+## Présentation de l'édition.
 
 Il existe une édition de *Molière chez Ninon ou le siècle des Grands Hommes* publiée du vivant d'Olympe de Gouges, en 1788. Nous avons retrouvé deux exemplaires de cette édition. Le premier est conservé à la Bibliothèque Historique de la Ville de Paris sous la cote 710 (n°3). Le second se trouve à la bibliothèque de l'Arsenal, référencé à GD-14264. Ces deux exemplaires sont identiques, excepté la présence de papillons, de passages biffés et de notes manuscrites, dont nous ne connaissons pas l'origine, et l'absence de la Préface et de la Postface dans l'exemplaire de la Bibliothèque de l'Arsenal. *Molière chez Ninon* se trouve également dans le troisième volume des *Œuvres complètes* d'Olympe de Gouges, publié en 1788 et dédié au Prince de Condé. Ce volume, qui existe en quinze exemplaires en France et à l'étranger, est un ouvrage factice qui regroupe les exemplaires déjà imprimés de certaines pièces d'Olympe de Gouges (*Zamor et Mirza, Molière chez Ninon, Bienfaisance ou la Bonne mère, La Bienfaisance récompensée*). L'exemplaire de la pièce dans les *Œuvres complètes* est donc identique aux deux autres. Nous avons établi notre texte à partir de l'exemplaire conservé à la Bibliothèque historique. Il s'agit d'un ouvrage in-8° de (2) -(211) pages qui se présente comme suit :
 
@@ -707,12 +707,12 @@ VI : (193) à (211) : Postface.
 Dans cet exemplaire, la préface, numérotée de (1) à (15), se situe entre la page 2, où les personnages sont présentés, et la page 3, où le texte de la pièce commence. Dans les *Œuvres complètes*, l'ordre des pages est rétabli et la liste des personnages se trouve après la préface et avant le début de la pièce.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons établi le texte à partir de l'exemplaire conservé à la Bibliothèque historique de la Ville de Paris à l'identique, à quelques modifications près, lorsqu'elles étaient nécessaires pour la compréhension du texte : nous avons notamment corrigé les coquilles évidentes. Nous avons aussi modernisé le « ſ » en « s » et nous avons remplacé l'esperluette « & » par « et », de même, nous avons rétabli les « &c. » en « etc ». Nous avons aussi restitué les trois points de suspension lorsqu'il y en avait plus. En revanche, nous avons conservé les différentes graphies d'un même mot, y compris pour les noms propres, car l'orthographe n'était pas encore fixée au XVIII*e* siècle. Voici la liste des corrections que nous avons apportées.
 
 
-### Dans la Préface
+### Dans la Préface.
 
 Page (4) : APRRES : APRES
 
@@ -735,7 +735,7 @@ Page (13) : des maux que j'ai éprouvé du peu : des maux que j'ai éprouvés,
 Page (14) : un autre : une autre
 
 
-### Dans le texte
+### Dans le texte.
 
 Page 11 : sûr : sûre
 
@@ -852,7 +852,7 @@ Page 192 : ju'squ'au : jusqu'au
 Page 193 : SAINT-EVEMONT : SAINT-EVREMONT
 
 
-### Dans la postface
+### Dans la postface.
 
 Page (194) : mertra : mettra
 
@@ -1007,7 +1007,7 @@ Le Théâtre représente un Sallon à l'antique, richement meublé, plusieurs po
 
 ### SCENE PREMIERE.
 
-    FRANCISQUE, *enveloppé dans un manteau, dormant sur un canapé, s'éveillant et bâillant.*
+    FRANCISQUE, *enveloppé dans un manteau, dormant sur un canapé, s'éveillant et bâillant.*.
 **J***e* suis tout moulu. Les Maîtres regardent un canapé comme un meuble fort commode ; et moi, je trouve qu'on n'y dort pas à son aise. Il faut convenir que l'état de Valet est un métier bien pénible. On ne nous laisse, ni le tems de prendre nos repas, ni celui de reposer. Cependant, mon sort est moins à plaindre que celui de ceux de mon état. Etre au service de l'aimable et de la sensible Ninon, n'est-ce pas servir toutes les Divinités ensemble ?
 (Il se frotte les yeux).
 
@@ -1141,7 +1141,7 @@ Il faut rendre justice à la confidente de Ninon et convenir que personne n'est 
 Tout ce que je puis faire, Monsieur, pour votre générosité et votre discrétion, c'est de vous annoncer à ma maitresse et j'y cours.
 
 
-### SCENE V
+### SCENE V.
 
     M. LE GRAND-PRIEUR, *regardant M*lle* le Roi s'en aller*.
 **J***e* commence à m'appercevoir que le mépris que ces gens-là font de mes dons est plutôt l'effet du dédain que leur maitresse a pour mes sentimens, que celui de leur désintéressement. C'est ce dont je viens me convaincre pour la dernière fois. Ah ! cruelle Ninon, favorable à tant de personnages qui ne me valent pas, s'il faut que j'échoue auprès de toi, une bonne épigramme [137] me vengera de tes rigueurs [138]. Tenons-la toute prête : voilà justement tout ce qu'il faut pour écrire…
@@ -1602,7 +1602,7 @@ Cela s'entend. Mademoiselle me paroît trop instruite pour ne pas le sentir.
     OLIMPE.
 Je me rends, Monsieur Molière, à vos observations, et je conçois à présent tout le danger de ma démarche ; mais enfin, je ne dois rien vous cacher.
 
-    CHAPELLE, *à part.*
+    CHAPELLE, *à part.*.
 Tout est fait : elle peut entrer actuellement à la Comédie.
 
     MOLIERE.
@@ -1710,7 +1710,7 @@ Nous nous verrons ce soir.
 (*il sort.*) 
 
 
-### SCENE XIV
+### SCENE XIV.
 NINON, MOLIERE.
 
 
@@ -1920,7 +1920,7 @@ Ah ! Ninon, qu'il est heureux⁎ de vous plaire, mais qu'il est cruel de perdre
     NINON *avec attendrissement*.
 La Châtre, que ne puis-je vous suivre. Je ne sais si je fais une folie en écrivant ce billet, mais je soulage mon cœur en faisant ce que vous désirez. 
 
-    LA CHATRE *dictant.*
+    LA CHATRE *dictant.*.
 Oui, je promets par l'honneur, par la probité…
 
     NINON *répétant*.
@@ -2312,8 +2312,7 @@ Il joue fort bien son rôle.
 DESYVETEAUX, MATHURIN.
 
 
-    DESYVETEAUX, *regardant s'en aller sa Bergère, et   
-tirant un mouchoir de sa poche*.
+    DESYVETEAUX, *regardant s'en aller sa Bergère, et tirant un mouchoir de sa poche*.
 **E***lle* s'éloigne de moi, un cruel devoir me prive de sa présence.
 (Tombant aux genoux de Mathurin.)
 
@@ -2356,8 +2355,7 @@ O délices de mon cœur ! quel charme succède à ma douleur ? J'ai peine à c
     LA DUPUIS.
 Venez, berger ; venez vous rafraîchir à cette onde pure, symbole de notre amour.
 
-    DESYVETEAUX, *prenant la main de la Dupuis,   
-et sortant de sa poche une tasse de berger*.
+    DESYVETEAUX, *prenant la main de la Dupuis, et sortant de sa poche une tasse de berger*.
 Nous allons boire ensemble, dans la même tasse, de cette eau argentine, plus agréable aux bergers que le nectar des Dieux [184].
 (Il va pour se baisser, et tombe dans la fontaine).
 
@@ -2420,7 +2418,7 @@ Mademoiselle, c'est avec peine que je vous refuse : mais tels sont les ordres d
     MOLIERE, *derrière le Théâtre*.
 Si ton Maître étoit instruit que c'est Mademoiselle de l'Enclos, il ne lui refuseroit pas sa porte.
 
-    LUCAS, *derrière le Théâtre.*
+    LUCAS, *derrière le Théâtre.*.
 Ah ! Monsieur, si vous saviez dans quel état il est !
 
     NINON, *derrière le Théâtre*.
@@ -5284,12 +5282,12 @@ Quant au Siècle des Grands-Hommes, tous les Gens de Lettres, ainsi que les pers
 FIN
 
 
-# Glossaire
+# Glossaire.
 
 Pour établir ce glossaire, nous avons utilisé l'édition de 1727 du *Dictionnaire universel* de Furetière, les éditions de 1762 et de 1798 du *Dictionnaire de L'Académie Française*, le *Dictionnaire critique de la langue française* de Jean-François Féraud (1788-1789) et le *Trésor de la Langue Française*.AdvertanceAttention.P. 65AscendantAu figuré, ce nom masculin désigne « la supériorité qu'une personne a sur l'esprit, sur la volonté d'une autre », « un certain génie dominant, qui fait qu'une personne a toujours avantage sur une autre » (*Dictionnaire de L'Académie Française*, 1762).P. 70, 101, 182BadinerS'amuser, plaisanter, « mettre de la galanterie et de l'agrément dans sa conversation ou sa manière d'écrire. » (*Dictionnaire de L'Académie Française*, 1762).P. 40, 109BégueuleInjure pour désigner avec mépris une femme ridicule, ou une prude.P. 29, 99, 108BonhommieSimplicité d'esprit, niaiserie, naïveté.P. 17BraverDéfier, mépriser.P. 12, 95, 111, 124, 175Conter (en)« En conter » signifie « donner pour vraies des choses fausses, et incroyables », raconter « des bagatelles, des choses ridicules » (*Dictionnaire universel* de Furetière, 1727).P. 61, 62, 155Cotillon« Cotte ou jupe de dessous » (Jean-François Féraud, *Dictionnaire critique de la langue française*, 1788-89).P. 91Courage« Ardeur », « vivacité », « hardiesse »P. 66« Fierté », « orgueil », confiance »P. 15, 209 (Dictionnaire universel de Furetière, 1727)« Dureté de cœur »P. 136 (Dictionnaire de L'Académie française, 1762).DégoiserAu sens propre, ce verbe désigne le chant des oiseaux. Au figuré, il est familier et signifie « parler plus qu'il ne faut, dire ce qu'il ne faut pas dire » (*Dictionnaire de L'Académie française*, 1762).P. 55, 62 DisputerDébattre.P. 14Dissimuler« Cacher ses sentiments, ses desseins » (*Dictionnaire de L'Académie française*, 1762).P. 5 Étonnant(e)Se dit d'une personne extraordinaire, en bien, comme dans les occurrences de la pièce, mais aussi en malP. 22, 36, 120.Étonné(e)Troublé par une vive émotionP. 167, 177.FâcherAffligerPréface, p. 6, 47, 63, 81 (deux occurrences), 90, 112, 191, 207, 210.Fils naturelQui n'est pas né d'un mariage, qui n'est pas légitime.Personnages, p. 170, 184 (deux occurrences), 186 FureurEn général, sorte de folie. Ce nom féminin se dit en particulier « d'un violent transport de colère »P. 18.Il signifie aussi « la violente agitation »P. 41Il peut également désigner la « passion démesurée »P. 163, 183 (Dictionnaire de L'Académie Française, 1762).GalantÀ propos d'une personne : « Honnête, civil, sociable, de bonne compagnie, de conversation agréable. »P. 100, 155 (Dictionnaire de L'Académie Française, 1762)À propos d'une femme : coquetteP. 197À propos d'une chose : agréableP. 148.GrâceFaveur, don gratuitLettre à M. Florence, Lettre à M. Fleuri (deux occurrences), p. 13, 61 (deux occurrences), 112, 129, 188, 190, 208.Au sens juridique « grâce » désigne une remise de peineP. 108, 110, 182.« De bonne grâce » signifie « de bonne volonté »P. 209.Remerciement : « rendre grâce » signifie « remercier »P. 78, 138Charme, agrément, attraitsP. 16, 111, 128, 177, 205.Par métonymie « la grâce » désigne les moyens par lesquels on cherche à plaire : « faire des grâces »P. 142.Heureux(se)Chanceux(se) (*Dictionnaire de L'Académie Française*, 1762)Lettre à M. Fleuri, p. 9 (deux occurrences), 26, 96, 106, 115, 195« Celui que la fortune favorise »P. 24, 32, 45, 124, 128 (Dictionnaire de L'Académie Française, 1762)« Bon, excellent, rare en son genre. »P. 82 (pour les deux premières occurrences et la dernière), 86, 94, 132Favorable, avantageux, « qui promet de la bonne fortune »Préface, p. 116, 134, 140, 143, 196 .Imposer (en)« En imposer » signifie « tromper, abuser » (*Dictionnaire de L'Académie française*, 1762).P. 77, 203, 206JarnigoiJuron qui résulte de l'altération de « jarnidieu », qui est un euphémisme de « je renie Dieu ».P. 52, 59, 77, 78, 84, 154Malheureux(se)Infortuné(e)P. 48, 106, 184, 192MéprisableP. 175.Pénétration« Se dit figurément de la sagacité de l'esprit, de la subtilité de l'intelligence » (Dictionnaire de L'Académie Française, 1762).P. 139, 190PénétréeTouchée, émue.P. 121PercerAu figuré ce verbe peut signifier « s'avancer dans le monde » (*Dictionnaire de L'Académie Française*, 1798).P. 27PétulanceQualité de celui qui est vif impétueux et brusque (*Dictionnaire universel* de Furetière, 1727).Lettre à la comédie, p. 174 (deux occurrences)PiquerAu figuré : fâcher, irriter, offenser.P. 13, 15Prévention« Préoccupation d'esprit »Lettre à la comédie« Entêtement »P. 208 Dictionnaire universel de Furetière).Prévenu« Préoccuper l'esprit, lui donner les premières impressions » (*Dictionnaire universel* de Furetière, 1727).P. 113, 205ReprésentationPeut désigner « une sorte d'objection ou de remontrance qu'on fait à quelqu'un avec égards, avec mesure. » (*Dictionnaire de L'Académie Française*, 1798).P. 104, 163Représenter« Remontrer, tâcher à persuader, faire voir » (*Dictionnaire universel* de Furetière 1727).P. 163, 182Robin (un)Terme familier de mépris, employé pour les gens de robe.P. 89SanguenneJuron dérivé de « par la sangbleu » qui signifiait « par le sang de Dieu » et qui permettait d'éviter le blasphème.P. 55, 61SentimentSensibilitéP. 8, 69« Connoissance que nous avons de ce qui se passe dans notre âme sans aucun secours des sens »P. 187 (Dictionnaire de L'Académie Française, 1762)« Faculté de sentir, de comprendre ou d'apprécier un certain ordre de choses, de valeurs »P. 140, 144, 169, 185, 210 (deux occurrences) (Trésor de la Langue Française)Opinion, pensée, jugementPréface, p. 173SoinSouciP. 39 première occurrence, 48.Tarare« Espèce d'interjection familière, dont on se sert, pour marquer qu'on se moque de ce qu'on entend dire, ou qu'on ne le croit pas. » (*Dictionnaire de L'Académie Française*, 1762). Cette expression était utilisée par Molière.P. 27TatiguenneAutre forme pour le juron « tatigué », altération de « tête de Dieu » qui évitait le blasphème.P. 51, 63, 65, 72, 77 (deux occurrences))VanterLouer.P. 210VentrebleuAncien juron, issu de l'altération de « ventre de Dieu » pour éviter le blasphème.P. 102VertuQualité, valeur, force morale, probité (« mot générique qui comprend toutes les qualités louables en général » *Dictionnaire universel* de Furetière)P. 7, 25, 143, 145, 182, 194, 206 (deux occurrences)ChastetéP. 29 (deux occurrences).VertueuseQui possède des qualités, une force morale.P. 199, 211
 
 
-# Extrait du Journal Encyclopédique ou Universel, Août 1788MOLIÈRE CHEZ NINON, ou LE SIÈCLE DES GRANDS HOMMES, pièce épisodique, en prose et en cinq actes
+# Extrait du Journal Encyclopédique ou Universel, Août 1788.MOLIÈRE CHEZ NINON, ou LE SIÈCLE DES GRANDS HOMMES, pièce épisodique, en prose et en cinq actes
 
 
 
@@ -5316,14 +5314,14 @@ Le dénouement est d'un grand intérêt : c'est Ninon qui reconnaît son fils 
 Dans une préface et dans une postface, l'auteur se plaint du comité de la Comédie-Française, qui a refusé sa pièce avec des bulletins peu réfléchis, et même peu décents. Le comité a eu tort et n'entend pas ses intérêts : une comédie où figurent les personnages qui servent d'aliments perpétuels à nos conversations, aurait satisfait tous les esprits, et n'aurait pas nui à la recette.
 
 
-# BibliographieMolière chez Ninon ou le siècle des Grands Hommes
+# Bibliographie.Molière chez Ninon ou le siècle des Grands Hommes
 
 
 
-## Sources
+## Sources.
 
 
-### Ouvrages antérieurs à 1800Mémoires sur la vie de Mademoiselle de Lenclos
+### Ouvrages antérieurs à 1800.Mémoires sur la vie de Mademoiselle de Lenclos
 Dialogue sur la musique des anciens
 Histoire de Louis de Bourbon, Second du Nom, Prince de Condé, premier Prince du Sang, surnommé Le Grand ; ornée de Plan de Sièges et de Batailles
 Entretiens sur le fils naturel
@@ -5334,14 +5332,14 @@ Du Théâtre, ou nouvel essai sur l'art dramatique
 
 
 
-### Ouvrages du XIX*e* siècleLes Siècles littéraires de la Francesqq
+### Ouvrages du XIX*e* siècle.Les Siècles littéraires de la Francesqq
 Procès fameux jugés avant et depuis la Révolution
 Les Œuvres poétiques de Nicolas Vauquelin Des-Yveteaux réunies pour la première fois
 Mémoire de Fleury, de la Comédie française : 1757 à1820sqq
 
 
 
-### Autres ouvrages d'Olympe de GougeŒuvres
+### Autres ouvrages d'Olympe de Gouge.Œuvres
 Le Mariage inattendu de Chérubin
 L'Homme Généreux
 Le Philosophe corrigé, ou le cocu supposé
@@ -5353,20 +5351,20 @@ Déclaration des droits de la femme et de la citoyenne
 
 
 
-### Édition récente des *Œuvres* d'Olympe de GougesAinsi soit Olympe de Gouges : la Déclaration des droits de la femme et autres textes politiques
+### Édition récente des *Œuvres* d'Olympe de Gouges.Ainsi soit Olympe de Gouges : la Déclaration des droits de la femme et autres textes politiques
 Œuvres complètes : Théâtre
 Théâtre politique
 
 
 
-### Édition récente des *Œuvres* de MolièreŒuvres complètes
+### Édition récente des *Œuvres* de Molière.Œuvres complètes
 
 
 
-## Instrument de travail
+## Instrument de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiersDictionnaire critique de la langue française
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
@@ -5375,50 +5373,50 @@ Dictionnaire universel françois et latin, vulgairement appelé dictionnaire de 
 
 
 
-### Grammaire, ponctuationTraité de la ponctuation
+### Grammaire, ponctuation.Traité de la ponctuation
 Grammaire du Français classique
 
 
 
-### Histoire du livreRépertoire du théâtre français imprimé
+### Histoire du livre.Répertoire du théâtre français imprimé
 
 
 
-### BibliographieBibliographie der französischen Literaturwissenschaft
+### Bibliographie.Bibliographie der französischen Literaturwissenschaft
 
 
 
-## Études
+## Études.
 
 
-### Sur Olympe de GougesOlympe de Gouges
+### Sur Olympe de Gouges.Olympe de Gouges
 Marie-Olympe de Gouges : une humaniste à la fin du XVIII*e* siècle
 Femmes et pouvoir : réflexion autour d'Olympe de Gouges
 Olympe de Gouges
 
 
 
-### BiographiesLes Princes de Condé : rebelles, courtisans et mécènes dans la France du grand siècle
+### Biographies.Les Princes de Condé : rebelles, courtisans et mécènes dans la France du grand siècle
 La Reine Christine
 Ninon de Lenclos et ses amis
 HistoriettesHistoriettes
 
 
 
-### Ouvrages sur MolièreMolière
+### Ouvrages sur Molière.Molière
 Vie de M. de Molière
 Histoire de la vie et des ouvrages de Molière
 
 
 
-### Ouvrages sur le théâtre, les genres, les formes et les théories dramatiquesLa comédie de l'âge classique : 1630-1715
+### Ouvrages sur le théâtre, les genres, les formes et les théories dramatiques.La comédie de l'âge classique : 1630-1715
 Introduction à l'analyse des textes classiques
 La Dramaturgie classique en France
 Lire le théâtre
 
 
 
-### Ouvrage sur la période historique et littéraireLes Chansons de la Révolution Française du fonds Chamisso
+### Ouvrage sur la période historique et littéraire.Les Chansons de la Révolution Française du fonds Chamisso
 Naissance du Panthéon : essai sur le culte des grands hommes
 Histoire de la France : L'Affirmation de l'État absolu 1492-1652
 La Comédie-Française : Trois Siècles de Gloire
@@ -5428,7 +5426,7 @@ La France galante : essai historique sur une catégorie culturelle, de ses orig
 
 
 
-## Sites web
+## Sites web.
 
 Théâtre classique : http://www.theatre-classique.fr
 

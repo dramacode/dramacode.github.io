@@ -37,7 +37,7 @@ Je vous suis caution qu'il est très honnête homme.
 Hélas !
 
 -*who_gorgibus
-Eh bien hélas ! que veut dire ceci,
+      Eh bien hélas ! que veut dire ceci,
 Voyez le bel hélas ! qu'elle nous donne ici.
 Hé ! que si la colère une fois me transporte,
 Je vous ferai chanter hélas ! de belle sorte.
@@ -148,7 +148,7 @@ Et que vous avez lieu de l'aimer tendrement.
 Et cependant il faut… ah ! soutiens-moi.
 
 -*who_suivante
-Madame,
+      Madame,
 D'où vous pourrait venir… ah ! bons Dieux elle pâme.
 Hé ! vite, holà, quelqu'un.
 
@@ -157,19 +157,19 @@ Hé ! vite, holà, quelqu'un.
 Cette Scène est fort courte, et Sganarelle, comme un des plus proches voisins de Célie, accourt aux cris de cette Suivante qui lui donne sa Maîtresse à soutenir ; cependant qu'elle va chercher encore du secours d'un autre côté, comme vous pouvez voir par ce qui suit.
 
 -*who_sganarelle
-Qu'est-ce donc ? me voilà.
+      Qu'est-ce donc ? me voilà.
 
 -*who_suivante
 Ma maîtresse se meurt.
 
 -*who_sganarelle
-Quoi ce n'est que cela,
+      Quoi ce n'est que cela,
 Je croyais tout perdu de crier de la sorte ;
 Mais approchons pourtant. Madame êtes-vous morte ?
 Hays, elle ne dit mot.
 
 -*who_suivante
-Je vais faire venir
+      Je vais faire venir
 Quelqu'un pour l'emporter, veuillez la soutenir.
 
 **** *book_ *id_I04 *act_I *date_1660 *creator_moliere
@@ -184,7 +184,7 @@ Ma foi je ne sais pas ; mais j'y trouve encor moi
 Quelque signe de vie.
 
 -*who_femme_sganarelle
-Ah ! qu'est-ce que je vois ?
+      Ah ! qu'est-ce que je vois ?
 Mon mari dans ses bras… mais je m'en vais descendre,
 Il me trahit sans doute, et je veux le surprendre.
 
@@ -232,12 +232,12 @@ Sa femme étant lasse d'ouïr ses reproches lui arrache portrait qu'il lui avait
 Vous auriez sujet de me quereller, si je ne vous envoyais pas les Vers d'une Scène qui fait le fondement de cette Pièce : c'est pourquoi je satisfais à votre curiosité.
 
 -*who_sganarelle
-On la croyait morte et ce n'était rien,
+      On la croyait morte et ce n'était rien,
 Il n'en faut plus qu'autant, elle se porte bien.
 Mais j'aperçois ma femme.
 
 -*who_femme_sganarelle
-Ô Ciel ! c'est miniature,    
+      Ô Ciel ! c'est miniature,    
 Et voilà d'un bel homme une vive peinture.
 
 -*who_sganarelle
@@ -251,11 +251,11 @@ Le travail plus que l'or s'en doit encor priser.
 Hon que cela sent bon.
 
 -*who_sganarelle
-Quoi peste le baiser?
+      Quoi peste le baiser?
 Ah ! j'en tiens.
 
 -*who_femme_sganarelle
-Avouons qu'on doit être ravie
+      Avouons qu'on doit être ravie
 Quand d'un homme ainsi fait on se peut voir servie,
 Et que s'il en contait avec attention,
 Le penchant serait grand à la tentation.
@@ -263,7 +263,7 @@ Ah ! que n'ai-je un mari d'une aussi bonne mine,
 Au lieu de mon pelé, de mon rustre…
 
 -*who_sganarelle
-Ah ! mâtine,
+      Ah ! mâtine,
 Nous vous y surprenons en faute contre nous,
 Et diffamant l'honneur de votre cher époux :
 Donc à votre calcul, ô ma trop digne femme !
@@ -284,7 +284,7 @@ J'entends à demi-mot où va la raillerie,
 Tu crois par ce moyen…
 
 -*who_sganarelle
-À d'autres je vous prie,
+      À d'autres je vous prie,
 La chose est avérée, et je tiens dans mes mains
 Un bon certificat du mal dont je me plains.
 
@@ -295,15 +295,15 @@ Sans le charger encor d'une nouvelle offense ;
 Et songe un peu…
 
 -*who_sganarelle
-Je songe à te rompre le cou.
+      Je songe à te rompre le cou.
 Que ne puis-je, aussi bien que je tiens la copie,
 Tenir l'original.
 
 -*who_femme_sganarelle
-Pourquoi ?
+      Pourquoi ?
 
 -*who_sganarelle
-Pour rien mamie,
+      Pour rien mamie,
 Doux objet de mes vœux j'ai grand tort de crier,
 Et mon front de vos dons vous doit remercier.
 Le voilà le beau-fils, le mignon de couchette,
@@ -311,7 +311,7 @@ Le malheureux tison de ta flamme secrète,
 Le drôle avec lequel…
 
 -*who_femme_sganarelle
-Avec lequel, poursuis ?
+      Avec lequel, poursuis ?
 
 -*who_sganarelle
 Avec lequel, te dis-je… et j'en crève d'ennuis.
@@ -375,7 +375,7 @@ Je voudrais vous prier de me dire une chose.
 Hé bien, parle.
 
 -*who_grosrene
-Avez-vous le diable dans le corps
+      Avez-vous le diable dans le corps
 Pour ne pas succomber à de pareils efforts ?
 Depuis huit jours entiers avec vos longues traites
 Nous sommes à piquer de chiennes de mazettes,
@@ -410,14 +410,14 @@ De vingt verres de vin entourez votre cœur.
 Je ne saurais manger.
 
 -*who_grosrene
-Si ferai bien, je meure.
+      Si ferai bien, je meure.
 Votre dîner pourtant serait prêt tout à l'heure.
 
 -*who_lelie
 Tais-toi, je te l'ordonne.
 
 -*who_grosrene
-Ah ! quel ordre inhumain.
+      Ah ! quel ordre inhumain.
 
 -*who_lelie
 J'ai de l'inquiétude et non pas de la faim.
@@ -459,7 +459,7 @@ Du malheureux pendard qui cause ma vergogne.
 Il ne m'est point connu.
 
 -*who_lelie
-Dieux ! qu'aperçois-je ici ?
+      Dieux ! qu'aperçois-je ici ?
 Et si c'est mon portrait, que dois-je croire aussi ?
 
 -*who_sganarelle
@@ -468,7 +468,7 @@ Ta réputation est-elle condamnée,
 Faut…
 
 -*who_lelie
-Ce gage ne peut sans alarmer ma foi,
+      Ce gage ne peut sans alarmer ma foi,
 Être sorti des mains qui le tenaient de moi.
 
 -*who_sganarelle
@@ -481,7 +481,7 @@ Qu'une femme mal née imprime sur ton front ?
 Me trompai-je ?
 
 -*who_sganarelle
-Ah ! truande, as-tu bien le courage
+      Ah ! truande, as-tu bien le courage
 De m'avoir fait cocu dans la fleur de mon âge ?
 Et femme d'un mari qui peut passer pour beau,
 Faut-il qu'un Marmouset, un maudit Étourneau…
@@ -493,17 +493,17 @@ Je ne m'abuse point, c'est mon portrait lui-même.
 Cet homme est curieux.
 
 -*who_lelie
-Ma surprise est extrême.
+      Ma surprise est extrême.
 
 -*who_sganarelle
 À qui donc en a-t-il.
 
 -*who_lelie
-Je le veux accoster.
+      Je le veux accoster.
 Puis-je… hé ! de grâce un mot.
 
 -*who_sganarelle
-Que me veut-il conter ?
+      Que me veut-il conter ?
 
 -*who_lelie
 Puis-je obtenir de vous, de savoir l'aventure,
@@ -537,7 +537,7 @@ Quoi, celle, dites-vous dont vous tenez ce gage…
 Est ma femme, et je suis son mari.
 
 -*who_lelie
-Son mari ?
+      Son mari ?
 
 -*who_sganarelle
 Oui, son mari, vous dis-je, et mari très marri,
@@ -555,7 +555,7 @@ Pour ce qui regarde les seconds, quoiqu'ils paraissent le reprendre avec plus de
 Voilà quelle est ma pensée là-dessus, et pour vous montrer que les raisons que j'ai apportées sont vraies, vous n'avez qu'à lire ces vers.
 
 -*who_lelie
-Ah ! que viens-je d'entendre ?
+      Ah ! que viens-je d'entendre ?
 L'on me l'avait bien dit, et que c'était de tous
 L'homme le plus mal fait qu'elle avait pour époux.
 Ah ! quand mille serments de ta bouche infidèle
@@ -634,7 +634,7 @@ Tâchons donc par nos soins…
 Je ne vous dis rien de cette Scène, et je vous laisse juger par ces vers de la surprise de Sganarelle.
 
 -*who_sganarelle
-Ah ! que vois-je, je meure,
+      Ah ! que vois-je, je meure,
 Il n'est plus question de portrait à cette heure,
 Voici ma foi la chose en propre original.
 
@@ -703,7 +703,7 @@ Hélas ! ce n'est pas moi qui le connais Madame,
 C'est ma femme.
 
 -*who_celie
-Quel trouble agite ainsi votre âme ?
+      Quel trouble agite ainsi votre âme ?
 
 -*who_sganarelle
 Ne me condamnez point d'un deuil hors de saison,
@@ -725,7 +725,7 @@ L'on me dérobe encor la réputation.
 Comment ?
 
 -*who_sganarelle
-Ce Damoiseau, parlant par révérence
+      Ce Damoiseau, parlant par révérence
 Me fait cocu Madame, avec toute licence ;
 Et j'ai su par mes yeux avérer aujourd'hui
 Le commerce secret de ma femme et de lui.
@@ -734,7 +734,7 @@ Le commerce secret de ma femme et de lui.
 Celui qui maintenant…
 
 -*who_sganarelle
-Oui, oui, me déshonore,
+      Oui, oui, me déshonore,
 Il adore ma femme, et ma femme l'adore.
 
 -*who_celie
@@ -757,7 +757,7 @@ Après t'être souillé de cette perfidie ?
 Ô Ciel ! est-il possible ?
 
 -*who_sganarelle
-Il est trop vrai pour moi.
+      Il est trop vrai pour moi.
 
 -*who_celie
 Ah ! traître, scélérat, âme double et sans foi.
@@ -766,28 +766,28 @@ Ah ! traître, scélérat, âme double et sans foi.
 La bonne âme.
 
 -*who_celie
-Non, non, l'Enfer n'a point de gêne
+      Non, non, l'Enfer n'a point de gêne
 Qui ne soit pour ton crime une trop douce peine.
 
 -*who_sganarelle
 Que voilà bien parler !
 
 -*who_celie
-Avoir ainsi traité
+      Avoir ainsi traité
 Et la même innocence, et la même bonté.
 
 -*who_sganarelle
 Hay.
 
 -*who_celie
-Un cœur, qui jamais n'a fait la moindre chose
+      Un cœur, qui jamais n'a fait la moindre chose
 A mérité l'affront où ton mépris l'expose ?
 
 -*who_sganarelle
 Il est vrai.
 
 -*who_celie
-Qui bien loin… Mais c'est trop, et ce cœur
+      Qui bien loin… Mais c'est trop, et ce cœur
 Ne saurait y songer sans mourir de douleur.
 
 -*who_sganarelle
@@ -911,19 +911,19 @@ Vous pourrez dans les cinq Vers qui suivent, apprendre tout le sujet de cette Sc
 Ce changement m'étonne.
 
 -*who_celie
-Et lorsque tu sauras
+      Et lorsque tu sauras
 Par quel motif j'agis tu m'en estimeras.
 
 -*who_suivante
 Cela pourrait bien être.
 
 -*who_celie
-Apprends donc que Lélie,
+      Apprends donc que Lélie,
 A pu blesser mon cœur par une perfidie,
 Qu'il était en ces lieux sans…
 
 -*who_suivante
-Mais il vient à nous.
+      Mais il vient à nous.
 
 **** *book_ *id_I20 *act_I *date_1660 *creator_moliere
 
@@ -971,7 +971,7 @@ Tourne, tourne les yeux sans me faire répondre.
 Ah ! je vois…
 
 -*who_celie
-Cet objet suffit pour te confondre.
+      Cet objet suffit pour te confondre.
 
 -*who_lelie
 Mais pour vous obliger bien plutôt à rougir.
@@ -988,27 +988,27 @@ Au beau milieu du cœur il faut que je lui donne…
 À qui donc en veut-on ?
 
 -*who_sganarelle
-Je n'en veux à personne.
+      Je n'en veux à personne.
 
 -*who_lelie
 Pourquoi ces armes-là ?
 
 -*who_sganarelle
-C'est un habillement
+      C'est un habillement
 Que j'ai pris pour la pluie.
-Ah ! quel contentement
+      Ah ! quel contentement
 J'aurais à le tuer, prenons-en le courage.
 
 -*who_lelie
 Hay ?
 
 -*who_sganarelle
-Je ne parle pas.
-Ah ! poltron dont j'enrage,
+      Je ne parle pas.
+      Ah ! poltron dont j'enrage,
 Lâche, vrai cœur de poule.
 
 -*who_celie
-Il t'en doit dire assez
+      Il t'en doit dire assez
 Cet objet, dont tes yeux nous paraissent blessés.
 
 -*who_lelie
@@ -1020,7 +1020,7 @@ Qui jamais d'un amant puisse outrager la foi.
 Que n'ai-je un peu de cœur.
 
 -*who_celie
-Ah ! cesse devant moi,
+      Ah ! cesse devant moi,
 Traître, de ce discours l'insolence cruelle.
 
 -*who_sganarelle
@@ -1108,7 +1108,7 @@ Tu vois si c'est mensonge, et j'en suis fort ravie.
 Que me veut‑on conter ?
 
 -*who_suivante
-Ma foi je ne sais pas.
+      Ma foi je ne sais pas.
 Quand on verra finir ce galimatias,
 Déjà depuis longtemps je tâche à le comprendre,
 Et si plus je l'écoute, et moins je puis l'entendre ;
@@ -1127,36 +1127,36 @@ Mon abord en ces lieux la trouve mariée.
 Mariée, à qui donc ?
 
 -*who_lelie
-À lui.
+      À lui.
 
 -*who_suivante
-Comment à lui ?
+      Comment à lui ?
 
 -*who_lelie
 Oui-dà.
 
 -*who_suivante
-Qui vous l'a dit ?
+      Qui vous l'a dit ?
 
 -*who_lelie
-C'est lui-même aujourd'hui.
+      C'est lui-même aujourd'hui.
 
 -*who_suivante
 Est-il vrai ?
 
 -*who_sganarelle
-Moi, j'ai dit que c'était à ma femme
+      Moi, j'ai dit que c'était à ma femme
 Que j'étais marié.
 
 -*who_lelie
-Dans un grand trouble d'âme,
+      Dans un grand trouble d'âme,
 Tantôt de mon portrait je vous ai vu saisi.
 
 -*who_sganarelle
 Il est vrai, le voilà.
 
 -*who_lelie
-Vous m'avez dit aussi,
+      Vous m'avez dit aussi,
 Que celle aux mains de qui vous aviez pris ce gage,
 Était liée à vous des nœuds du mariage.
 
@@ -1207,7 +1207,7 @@ J'ai promis à mon père, et ce qui me désole…
 Mais je le vois venir.
 
 -*who_lelie
-Il me tiendra parole.
+      Il me tiendra parole.
 
 **** *book_ *id_I23 *act_I *date_1660 *creator_moliere
 
@@ -1235,7 +1235,7 @@ Oui, Monsieur, c'est ainsi que je fais mon devoir,
 Ma fille en suit les lois.
 
 -*who_celie
-Mon devoir m'intéresse,
+      Mon devoir m'intéresse,
 Mon père, à dégager vers lui votre promesse.
 
 -*who_gorgibus
@@ -1263,7 +1263,7 @@ M'ôtent tout le pouvoir d'en casser l'alliance,
 Je vous viens…
 
 -*who_gorgibus
-Brisons là, si sans votre congé,
+      Brisons là, si sans votre congé,
 Valère votre fils ailleurs s'est engagé,
 Je ne vous puis celer que ma fille Célie,
 Dès longtemps par moi-même est promise à Lélie,
@@ -1274,7 +1274,7 @@ M'empêche d'agréer un autre Époux que lui.
 Un tel choix me plaît fort.
 
 -*who_lelie
-Et cette juste envie,
+      Et cette juste envie,
 D'un bonheur éternel va couronner ma vie.
 
 -*who_gorgibus

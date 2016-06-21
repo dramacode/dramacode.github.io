@@ -16,7 +16,7 @@ On la vend A PARIS, A l'Entrée de la Porte de l'Académie Royale de Musique, au
 Édition critique établie par Luke Arnason dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2005)
 
 
-# Introduction
+# Introduction.
 
 
 Les conteurs ont mis une ville pour signifier le monde, où ils ont placé un roi et une reine, comme Dieu et la matière. Ils leur attribuent trois filles, c'est-à-dire la Chair, la Volonté, que nous appelons le Libre Arbitre, et l'Âme. Psyché en effet signifie l'âme en grec ; et ils ont voulu qu'elle soit la plus jeune, parce qu'ils voulaient dire que l'âme ne pénètre dans le corps que lorsque celui-ci a déjà été formé ; et ils l'ont fait plus belle pour la raison que l'âme est supérieure à la liberté et plus noble que la chair. Vénus lui est hostile, en tant que représentant la Concupiscence ; et pour la perdre, elle lui envoie le Désir ; mais comme il y a un désir du Mal, il y en a un du Bien : la Concupiscence chérit l'Âme et s'unit à elle ; elle tente de lui persuader de ne pas chercher à voir son visage, c'est-à-dire de ne pas apprendre à connaître les délices de la concupiscence – c'est pour cela qu'Adam, bien qu'il soit tout nu, ne se voit pas tel aussi longtemps qu'il n'a pas mangé le fruit de l'arbre de la concupiscence – et aussi de ne pas céder à ses soeurs, c'est-à-dire à la Chair et à la Liberté, qui lui enseignent la curiosité et le désir de voir. Mais Psyché, entraînée par leur contrainte, sort la lampe de sous le boisseau, c'est-à-dire révèle la flamme qui brûle dans sa poitrine et, quand elle l'a vue, la trouve douce et la chérit. On dit qu'elle a brûlé Concupiscence de l'huile de sa lampe parce que toute concupiscence, plus elle est aimée, plus elle est ardente et inflige à la chair la marque du péché. Donc, une fois la concupiscence révélée, elle perd sa grande fortune, court des dangers et est chassée de la demeure royale [1].
@@ -45,22 +45,22 @@ On s'étonne de découvrir que Corneille n'écrivit pas d'autre livret d'opéra 
 Après le retour de Quinault, Corneille retourna à sa collaboration avec de Visé au théâtre de Guénégaud. En 1685 il succéda à son frère à l'Académie Française. À partir de ce moment il se détourna de plus en plus du théâtre. Il composa que cinq pièces entre son entrée à l'Académie en 1684 et sa mort en 1709 (y compris l'opéra *Médée*). Au lieu d'écrire de la littérature dramatique, il s'occupa de plus en plus d'écriture journalistique et académique. Dès 1681 il collabora avec de Visé au *Mercure Galant*. Il établit une édition critique des *Remarques* de Vaugelas et collabora au *Dictionnaire* de l'Académie de 1692. En 1694 il commença son propre *Dictionnaire universel géographique et historique* en trois volumes. Il acheva ce dictionnaire en 1706 ; il avait entre temps perdu la vue. À la date de publication de son dictionnaire, plusieurs membres de sa famille, y compris son frère, son gendre, sa femme et un de ses fils étaient décédés. Il mourût lui-même trois ans plus tard dans sa maison des Andelys.
 
 
-# La création de Psyché : une réception ambiguë
+# La création de Psyché : une réception ambiguë.
 
 *Psyché* fut représentée pour la première fois le 19 avril 1678 au Palais Royal. Il est difficile d'évaluer son succès. Le peu de témoignages existant ne s'accordent que sur la rapidité de la composition. Mais leur manque d'unanimité sur l'accueil de l'opéra est aussi flagrant que leur manque d'impartialité. Ainsi, *Le Mercure Galant* nous rapporte que le travail de Corneille sur le livret « luy attira beaucoup de louange [15] » et que « les vers n'ont rien qui donne lieu de s'apercevoir de cette précipitation de travail et la beauté de la symphonie et les airs qui entrent dans cet ouvrage fait connoître plus que jamais que M. de Lully ne peut rien produire que de parfait [16]. » Cependant, quand on songe au rôle que jouait Thomas Corneille dans la publication du *Mercure Galant*, on a du mal à prendre ces louanges au mot. Les Frères Parfaict, de leur côté, énoncent que « l es beautez de la Musique ne purent empêcher qu'on souhaitat un autre opera [17]. » Ils ajoutent qu'« o n ne doit pas s'en étonner du peu de succès de *Psyché* , (cet opera est froid et ne peut guère être meilleur) le fond n'en est pas heureux et Vénus qui fait la diablesse achève de gâter le peu de galanterie qui règne dans ce Poême [18]. » Là encore, il faut modérer leur mépris en se souvenant que les critiques littéraires du XVIII*e* siècle avaient peu d'estime pour les poètes du XVII*e* siècle (à l'exception de quelques œuvres choisies de Molière, de Pierre Corneille et de Racine). La critique moderne n'est pas plus unanime. D'un côté, Robert Fajon accuse Thomas Corneille, en tant que librettiste de *Psyché*, d'être « responsable du seul échec que Lully ait connu auprès du public [19] » : quant à *Psyché*, elle n'est qu'une « parenthèse imposée par le changement de librettiste et les suites de l'affaire d'*Isis* [20]. » D'un autre côté, Jérôme de la Gorce dit que *Psyché* « reçut du public un accueil chaleureux [21]. » Mais la chaleur de son accueil n'empêche pas que même de la Gorce préfère parler rapidement de *Psyché* et passer à autre chose.
 
 La popularité de *Psyché* auprès du public du XVII*e* siècle, paraît-il, n'était pas plus durable. Au début, on « courut en foule à ce spectacle. Mais cet empressement se rallentit beaucoup dans la suite [22]. » Puisque le public parisien n'avait pas vu un nouvel opéra depuis la création d'*Isis* l'année précédente, *Psyché* attira beaucoup de spectateurs par sa nouveauté. Les recettes et les dates précises des représentations ne nous sont pas parvenues [23], mais nous savons, grâce à l'*Histoire du théâtre de l'Opéra* de Noinville que *Psyché* ne bénéficia que de deux reprises ; une en 1703 et une autre en 1713. Après cette date, elle ne fut pas reprise jusqu'en 1987 au festival d'Aix en Provence. *Thésée*, par contre, bénéficia de dix reprises, dont la dernière (avant la publication de l'ouvrage de Noinville pendant les années 1750) était en 1744. Même *Isis*, qui fit tellement scandale, eut 5 reprises et resta dans le répertoire de l'Académie Royale de Musique jusqu'en 1732. De plus, *Psyché* ne bénéficia pas d'une création à la cour, même si ce désavantage doit plus à l'humeur du roi qu'aux défauts de l'opéra. Ce qu'on peut dire de notre opéra c'est que de tous les succès opératiques de Lully, (car, contrairement à ce que dit Fajon, tous les opéras de Lully étaient des succès) *Psyché* fut le moins retentissant.
 
 
-# Synopsis
+# Synopsis.
 
 
-## Prologue
+## Prologue.
 
 Flore, Vertumne, Palemon et les divinités de la terre et des eaux chantent pour célébrer les plaisirs de la paix et demandent à Vénus de descendre sur terre. Mais celle-ci est en colère contre Psyché qui a détourné les mortels de ses autels. Au lieu de couronner les fêtes, Vénus charge l'Amour, son fils, de la venger.
 
 
-## Acte 1
+## Acte 1.
 
 1. Les sœurs de Psyché, Aglaure et Cidippe, anticipent l'heure du sacrifice où Psyché fera des offrandes à Vénus pour apaiser sa colère et mettre fin aux assauts du serpent qui ravage le royaume.
 
@@ -71,7 +71,7 @@ Flore, Vertumne, Palemon et les divinités de la terre et des eaux chantent pour
 4. Le Roi annonce que Psyché doit être la victime du sacrifice. Psyché se précipite sans hésitation sur l'autel, malgré les protestations de son père. Elle est enlevée par les zéphyrs.
 
 
-## Acte 2
+## Acte 2.
 
 1. Vulcain presse sa bande de Cyclopes d'achever le palais que l'Amour fait construire pour Psyché.
 
@@ -86,7 +86,7 @@ Flore, Vertumne, Palemon et les divinités de la terre et des eaux chantent pour
 6. L'Amour se montre à Psyché sous une forme mortelle. Ils se déclarent leur amour, et l'Amour annonce avec regret que le voir c'est le perdre. Suit un divertissement où les nymphes chantent les appas de l'amour et de la jeunesse.
 
 
-## Acte 3
+## Acte 3.
 
 1. Vénus admire avec jalousie le palais de Psyché et jure de se venger.
 
@@ -103,7 +103,7 @@ Flore, Vertumne, Palemon et les divinités de la terre et des eaux chantent pour
 7. Le dieu du fleuve l'empêche de se noyer, la console, et la conduit aux enfers.
 
 
-## Acte 4
+## Acte 4.
 
 1. Tout affreux que soient les enfers, Psyché n'y trouve aucun malheur égal à ses tourments, et donc poursuit en quête de la boîte de Proserpine.
 
@@ -112,7 +112,7 @@ Flore, Vertumne, Palemon et les divinités de la terre et des eaux chantent pour
 3. Les deux Nymphes de l'Acheron confient à Psyché la boîte de Proserpine.
 
 
-## Acte 5
+## Acte 5.
 
 1. Psyché commence à reprendre espoir, mais craint que ses malheurs aient diminué ses attraits. Elle ouvre, donc, la boîte de Proserpine, et s'évanouit à cause des vapeurs qui en sortent.
 
@@ -123,7 +123,7 @@ Flore, Vertumne, Palemon et les divinités de la terre et des eaux chantent pour
 4. Vénus proteste qu'il serait folie de promettre une mortelle à un dieu, alors Jupiter descend sur terre et rend Psyché immortelle. Le courroux de Vénus est fléchi et Psyché et l'Amour sont réunis au ciel. Pour célébrer cette fin, Apollon, Bacchus, Mars et Mome font un grand divertissement pour honorer la puissance de l'Amour
 
 
-# Les sources : la Métamorphose de Psyché en genre théâtral
+# Les sources : la Métamorphose de Psyché en genre théâtral.
 
 En considérant l'intrigue, on voit que *Psyché* est une adaptation très libre de la fable originale, et même de la pièce de Molière dont elle est inspirée. La divergence entre la fable et l'opéra s'explique en partie par les exigences du genre, puisque Corneille à la suite de Molière a converti un conte écrit en genre théâtral. Mais il y a également des modifications de l'ordre de l'intrigue, dues à la bienséance. Il ne faut pas lire beaucoup de la source antique, *L'Ane d'or* d'Apulée, pour voir pourquoi les poètes classiques ont dû modifier l'intrigue. Le conte de *Psyché* est inséré dans la vaste histoire de Lucius, qui, par accident, se trouve transformé en âne par la servante de son hôte, qu'il a séduite. Cette servante cherche à plaire à son amant en l'initiant aux mystères de la magie que pratique sa maîtresse, mais elle fait une erreur et transforme son amant en âne. On voit déjà que le ton de ce récit erre entre l'absurde et le paillard. Quant à l'histoire de *Psyché* elle-même, quoique enchâssée dans une autre histoire, assez sanglante, de l'enlèvement d'une jeune fille noble par des bandits (la cuisinière des bandits raconte l'histoire de *Psyché* à la jeune fille pour la calmer), elle est bien plus restreinte que les autres contes de *L'Ane d'or*. Mais elle est quand même loin de respecter les bienséances de l'époque classique.
 
@@ -189,7 +189,7 @@ Dès ce moment, on oublie la puissance de l'Amour, et les dieux qui viennent de 
 Mais ce divertissement en particulier n'occupe qu'un niveau de la scène. Il est encadré, en quelque sorte, par l'intrigue principale de l'opéra et plus particulièrement par le mariage de Psyché et l'Amour. Depuis le début du divertissement, ce couple est monté sur la gloire⁎ avec Vénus et Jupiter. Le plaisir, donc, est divertissant, mais l'amour spirituel (représenté par l'âme, c'est-à-dire Psyché, et l'Amour mariés) est littéralement et allégoriquement, au dessus de tout cela.
 
 
-# Comment lire un livret d'opéra
+# Comment lire un livret d'opéra.
 
 L'idée de considérer un livret d'opéra comme une œuvre littéraire n'est venue à l'idée des critiques littéraires qu'assez récemment. La critique littéraire a souvent eu tendance à ignorer les livrets d'opéras des poètes célèbres du XVII*e* siècle. La raison précise de ce désintérêt n'est pas certaine. Il est possible que, intimidée par les divers composants de l'opéra, la peinture, la danse et surtout la musique, la critique littéraire se soit sentie incapable d'analyser le fonctionnement de ce genre. Cependant, le théâtre déclamé est, lui aussi, un genre mixte qui ne peut être entièrement dissocié des conditions matérielles de sa représentation. Plus probable est l'idée que la critique littéraire, dans sa volonté de systématiser le théâtre classique, proscrit l'opéra parce qu'il ne s'accorde pas avec le système qu'elle a dressé. Cette hypothèse expliquerait le mépris avec lequel on a tendance à considérer la poésie de l'opéra. On lui reproche de manquer de subtilité et d'être remplie de clichés. Mais l'opéra n'appartient pas au même système poétique que le théâtre. Le théâtre est un art rhétorique tandis que l'opéra, qui n'a pas le temps de mettre de si longs et complexes discours en musique, dépend d'un système poétique plus sensuel et évocateur. C'est pourquoi Rousseau dit : « Donnez donc au Musicien beaucoup d'images ou de sentiments & peu de simples idées à rendre : car il n'y a que les passions qui chantent ; l'entendement ne fait que parler [42]. » Si l'opéra ne fonctionne pas selon les règles du théâtre classique, il ne faut pas croire qu'il n'obéit à aucun système. Au contraire, l'opéra classique est inspiré par la dramaturgie classique. S'il adhère à un ensemble différent d'unités et à une autre conception de la vraisemblance (car l'opéra à l'époque classique traite, par définition, des sujets merveilleux), il partage avec le théâtre classique le dessein de convaincre le spectateur de la vérité de ce qu'il voit. Dans les termes de Catherine Kintzler, l'opéra classique représente « une familière étrangeté » par rapport au théâtre classique [43].
 
@@ -303,10 +303,10 @@ Ce qui rend *Psyché* vraiment unique parmi les opéras de Lully est que son fon
 La représentation allégorique n'est pas le domaine réservé des personnages non plus. L'espace, les décors et même les objets contribuent à cette représentation. Nous avons vu comment l'espace est souvent utilisé de manière symbolique. Le palais représente donc la sécurité qu'on ressent en aimant, et sa disparition le doute et la crainte (voir p. 28). Nous avons également vu comment les objets peuvent remplacer la signification allégorique de ceux qui les donnent (voir l'analyse de la lampe de Vénus et la scène d'« illumination », p. 19-20). Ainsi, tout dans *Psyché* a une signification symbolique. *Psyché* est donc remarquable parmi les opéras de Lully pour ses nombreux niveaux d'action. L'action est perpétuellement partagée entre le niveau dramatique et allégorique, et cette action allégorique est, à son tour, à la fois politique et métaphysique. Ce procédé est unique dans l'opéra classique. Malheureusement, cette richesse symbolique est inscrite dans une thématique inhabituelle pour l'opéra de sorte que la critique a proscrit *Psyché* comme une parenthèse maladroite dans l'évolution d'un genre héroïque. Nous espérons que la critique future saura mieux reconnaître la complexité symbolique et les qualités singulières cachées sous l'intrigue inégale de cet étrange mais fascinant opéra.
 
 
-# Note sur l'édition
+# Note sur l'édition.
 
 
-## L'établissement du texte
+## L'établissement du texte.
 
 Le texte de base de cette édition est tiré d'un recueil factice in 4° gardé à la Bibliothèque nationale sous la cote YF-744 (LLC6-1 dans le *Catalogue Raisonné* de Schmidt). Le recueil est composé de plusieurs livrets d'opéra dont *Psyché* est le deuxième, suivant l'*Isis* de Quinault.
 
@@ -359,7 +359,7 @@ Et la première partition imprimée de l'opéra, PSYCHÉ / TRAGEDIE / MISE EN MU
 Cette partition est très soigneusement préparée par rapport à Vignol. Elle confirme la structure de YF-744 et énumère l'ordre et le genre des entrées et des danses avec une précision qui manque des didascalies du livret. Cependant, l'orthographe et la ponctuation, pour toute leur précision, sont modifiées pour convenir aux usages du XVIII*e* siècle. Par conséquent, cette partition est une autorité pour la structure, mais non pas pour le texte.
 
 
-## Principes de l'édition
+## Principes de l'édition.
 
 Le principe de cette édition est de présenter le texte en sa graphie originale, tout en le rendre le plus lisible que possible pour les lecteurs modernes. Dans ce but, nous avons conservé la ponctuation et l'orthographe du XVII*e* siècle avec tout leur manque de régularité (voir surtout III, 3, avec le vers répété, « Si le plaisir d'aimer est un plaisir extrème / extrême / extréme » ). Cependant, les véritables fautes d'orthographe, grammaire et les coquilles ont été soigneusement corrigées (voir la liste de corrections ci-dessous).
 
@@ -376,7 +376,7 @@ La question de la répétition des vers (surtout dans les rondeaux) peut être d
 Le texte de Corneille indique clairement où se trouvent les duos, trios et chœurs. Par contre, la division entre les airs et les récitatifs n'est pas du tout claire. Il aurait été très encombrant d'indiquer en note chaque changement entre air et récitatif. Au lieu d'indiquer tous les airs en note, donc, nous avons inclus une table des airs (voir les annexes). Malheureusement, nous n'avons pas pu créer une table semblable pour les ritournelles, danses, etc. Mais puisque aucun enregistrement ni partition n'est actuellement disponible, nous considérons qu'il est important de signaler les endroits où la musique peut influencer l'interprétation du texte. Nous convenons que ce système n'est pas idéal. Enfin, nous avons indiqué les effectifs vocaux (dessus, basse, haute-contre etc.) entre crochets dans les listes de personnages du prologue et de la tragédie.
 
 
-## Corrections
+## Corrections.
  * – v. 76 « ma » devient « m'a »
  * – Indication de personnage pour v. 233, « PSICHE' « devient « PSYCHE' »
  * – v. 390 « Que par ces mots vous me charmez ? » devient « Que par ces mots vous me charmez ! »
@@ -438,7 +438,7 @@ Que leur bruit menaçant fait retentir les airs,
 Paris ne les entend que dans nos seuls Concerts.  
 
 
-## ACTEURS DU PROLOGUE
+## ACTEURS DU PROLOGUE.
  – VENUS.dessus
  – L'AMOUR.muet
  – FLORE.dessus
@@ -448,7 +448,7 @@ Paris ne les entend que dans nos seuls Concerts.
  – CHOEUR des Divinitez de la Terre & des Eaux.
 
 
-## PROLOGUE
+## PROLOGUE.
 Le Theatre represente une Cour magnifique au bord de la Mer.
 
 Flore [73] paroist au milieu du Theatre suivie de ses Nymphes [74], & accompagnée de Vertumne [75] Dieu des Arbres & des Fruits, & de Palemon [76] Dieu des Eaux ; Chacun de ces Dieux conduit une Troupe de Divinitez. L'un meine à sa Suite des Drïades & des Silvains [77], & l'autre des Dieux des Fleuves & des Naïdes. Flore chante ce recit pour inviter Venus à descendre en terre.
@@ -457,7 +457,7 @@ Flore [73] paroist au milieu du Theatre suivie de ses Nymphes [74], & accompagn�
 
 ### RECIT DE FLORE.
 
-    
+    .
 Ce n'est plus le temps de la Guerre ;  
 Le plus puissant des Rois  
 Interrompt ses Exploits  
@@ -519,9 +519,9 @@ Flore respond au Dialogue de Vertumne & de Palemon, par un Menüet⁎ qu'elle ch
 
 
 
-### MENUET DE FLORE [80]
+### MENUET DE FLORE [80].
 
-    
+    .
 
 Est-on sage  
 Dans le bel âge,  
@@ -568,7 +568,7 @@ Laissez-moy sans témoins resoudre ma vangeance.
 Flore, & les autres Dieux se retirent : & on entend une Symphonie pendant laquelle l'Amour descend dans un petit nüage [82].
 
 
-    VENUS *à l'Amour.*
+    VENUS *à l'Amour.*.
 Mon Fils, si tu plains mes mal-heurs  
 Fais moy voir que tu m'és fidelle.  
 Tu sçais combien Psyché me dérobe d'honneurs,  
@@ -584,7 +584,7 @@ L'Amour s'envole, & la grande Machine enleve Venus sur le ceintre, pendant que l
 
 
 
-## ACTEURS DE LA TRAGEDIE
+## ACTEURS DE LA TRAGEDIE.
  – JUPITER,basse
  – VENUS.dessus
  – L'AMOUR.dessus / haute-contre [84]
@@ -693,7 +693,7 @@ Ignorez-vous encor le destin de Psyché ?
     CIDIPPE.
 Qu'avons-nous à craindre pour elle ?  
 
-    LYCHAS
+    LYCHAS.
 La disgrace⁎ la plus cruelle  
 Dont vous puissiez jamais avoir le cœur touché.  
 Tandis que chacun en soûpire  
@@ -743,7 +743,7 @@ Quand on ose l'irriter.
 Voyez comme chacun regrettant la Princesse  
 Abandonne son cœur à l'ennuy⁎ qui le presse.  
 
-    TOUS TROIS
+    TOUS TROIS.
 Pleurons, pleurons ; en de si grands mal-heurs  
 On ne peut trop verser de pleurs.  
 On voit arriver une Troupe de Personnes désolées qui viennent vers la Montagne déplorer la disgrace⁎ de Psyché. Leurs plaintes sont exprimées de cette sorte par une Femme désolée & deux Hommes affligez. Ils sont suivis de six Personnes joüant de la Flûte, & de huit autres qui portent des Flambeaux à la maniere de ceux dont les Anciens se servoient aux Pompes Funebres. [89]
@@ -820,7 +820,7 @@ Che condanni à morir tanta beltà
 Cieli, stelle, ahi crudeltà.  
 
 
-### SCENE III 
+### SCENE III. 
 LE ROY, PSYCHE' [94], AGLAURE, CIDIPPE.
 
 
@@ -831,7 +831,7 @@ Psyché vient. A la voir je tremble.
         Quel supplice !  
 Le moyen de luy dire adieu ?  
 
-    PSYCHE’ *à ses sœurs.*
+    PSYCHE’ *à ses sœurs.*.
 Ainsi pour vous rendre en ce lieu  
 Vous avez prévenu⁎ l'heure du Sacrifice ?  
 
@@ -944,13 +944,13 @@ Ne pleurez point ma mort, la cause en est trop belle.
 Tu vas sur le Rocher, cruelle,  
 Arreste, que fais tu ?  
 
-    PSYCHE’ *montant sur le Rocher*
+    PSYCHE’ *montant sur le Rocher*.
         Je fais ce que je doy.  
 
     LE ROY.
 Au Monstre sans trembler tu te livres toy-mesme ?  
 
-    PSYCHE’ *sur le Rocher.*
+    PSYCHE’ *sur le Rocher.*.
 Ma fermeté quand vous vous alarmez  
 Doit vous plaire si vous m'aimez.  
 
@@ -1026,7 +1026,7 @@ Cyclopes, excitez vos bras à travailler.
 Les huit Cyclopes commencent leur Entrée, & continüent à embellir le Palais sur les ordres de Vulcain, qui leur parle pendant qu'ils travaillent [100].
 
 
-    VULCAIN *AUX CYCLOPES.*
+    VULCAIN *AUX CYCLOPES.*.
 
 Depeschez, preparez ces lieux  
 Pour le plus aimable des Dieux.  
@@ -1108,7 +1108,7 @@ Il sçaura que je suis sa Mere.
 Venus rentre dans son Char & s'envole.
 
 
-    VULCAIN *aux Cyclopes.*
+    VULCAIN *aux Cyclopes.*.
 L'Amour icy nous a mandez exprés,  
 Achevons, achevons ce qui nous reste à faire.  
 Un peu avant que Psyché se monstre, la Forge & toutes les choses dont on s'est servy pour achever le Palais, disparoissent [104]. On le voit alors dans son entiere perfection, il est orné de Vases d'or, avec de petits Amours sur des Piedestaux. Il y a dans le fonds un magnifique Portail, au travers duquel on découvre une Cour Ovale percée en plusieurs endroits sur un Jardin delicieux.
@@ -1141,7 +1141,7 @@ L'AMOUR [106], NYMPHES, & ZEPHIRS cachez.
     PSYCHE’.
 Quels agreables sons ont frappé mes oreilles ?  
 
-    NYMPHE *cachée.*
+    NYMPHE *cachée.*.
 Attens encor, Psyché, de plus grandes merveilles.  
 Tout est dans ces beaux lieux soûmis à tes appas.  
 Pour rendre ton bon-heur durable  
@@ -1154,7 +1154,7 @@ Est-ce qu'aimer est necessaire ?
     ZEPHIR *caché*.
 D'un jeune cœur c'est la plus douce affaire.  
 
-    DEUX ZEPHIRS *cachez ensemble.*
+    DEUX ZEPHIRS *cachez ensemble.*.
 Aimez, il n'est de beaux ans  
 Que dans l'amoureux Empire.  
 Qui laisse échaper le temps  
@@ -1165,7 +1165,7 @@ Que dans l'amoureux Empire.
     PSYCHE’.
 Et qui veut-on me faire aimer ?  
 
-    ZEPHIR *caché.*
+    ZEPHIR *caché.*.
 Un Dieu qui se prepare à t'assurer luy-mesme  
 De son amour extrême.  
 
@@ -1178,7 +1178,7 @@ C'est moy, Psyché, c'est moy qui me rends à vos charmes.
     PSYCHE’.
 S'il est ainsi, paroissez en ce lieu.  
 
-    L’AMOUR *caché.*
+    L’AMOUR *caché.*.
 Le Destin vous deffend de me voir comme Dieu,  
 Où ma perte aussi-tost vous coûtera des larmes.  
 
@@ -1395,7 +1395,7 @@ Elle brûle de voir cét Amant qui se cache,
 Il faut contenter ses desirs.  
 
 
-### SCENE II
+### SCENE II.
 VENUS, PSYCHE'.
 
 
@@ -1409,7 +1409,7 @@ Ah ! Qu'une absence d'un moment,
 Quand la tendresse est extrême,  
 Est un rigoureux tourment !  
 
-    PSYCHE’ *apercevant Venus.*
+    PSYCHE’ *apercevant Venus.*.
 Par quel art dans ce lieu vous rendez-vous visible ?  
 On m'y parle souvent sans qu'on se laisse voir.  
 
@@ -1638,7 +1638,7 @@ Le Theatre represente une Salle du Palais de Proserpine, au travers de laquelle 
 
 ### SCENE PREMIERE.
 
-    PSYCHE’. [117]
+    PSYCHE’. [117].
 
 Par quels noirs & fâcheux passages  
 M'a t'on fait descendre aux Enfers ?  
@@ -1757,7 +1757,7 @@ Vient d'en instruire Proserpine.
 Elle sçait quel present Venus attend de vous,  
 Et pour vous l'aporter elle se sert de nous.  
 
-    PSYCHE’ *apres avoir pris la Boëte des mains de la Nymphe.*
+    PSYCHE’ *apres avoir pris la Boëte des mains de la Nymphe.*.
 Ah, que mes peines sont charmantes  
 Puis que l'Amour cherche à les soulager !  
 Dés qu'il veut rendre un mal leger  
@@ -1771,7 +1771,7 @@ Il doit estre bien doux d'aimer comme vous faites.
     PSYCHE’.
 Et n'aime-t'on pas où vous estes ?  
 
-    LES DEUX NYMPHES
+    LES DEUX NYMPHES.
 L'amour anime l'Univers,  
 Tout cede aux ardeurs qu'il inspire,  
 Et jusques dans les Enfers,  
@@ -1843,7 +1843,7 @@ Voy ce que mon couroux te laisse encor à craindre.
 Si tes mal-heurs si tost finissoient par la mort,  
 Ton sort ne seroit pas à plaindre.  
 
-    PSYCHE’ *couchée sur le Gazon.*
+    PSYCHE’ *couchée sur le Gazon.*.
 Pourquoy me rappeller au jour,  
 S'il ne m'est pas permis de vivre pour l'Amour ?  
 
@@ -1854,7 +1854,7 @@ Et l'obstacle fatal que j'ay mis à tes feux
 Ne t'a point affranchie encor de son Empire ?  
 Cét amour de ton cœur ne peut estre arraché ?  
 
-    PSYCHE’ *sur le Gazon.*
+    PSYCHE’ *sur le Gazon.*.
 Viens, cher Amant, viens revoir ta Psyché.  
 
     VENUS.
@@ -1902,7 +1902,7 @@ Elle vange un trop juste ennuy⁎.
 L'Amour à l'Univers est-il si necessaire  
 Qu'on ne puisse estre heureux sans luy ?  
 
-    MERCURE
+    MERCURE.
 S'il est quelque bon-heur c'est l'Amour qui l'asseure,  
 Tout flate en aimant, tout nous rit.  
 Ostez l'Amour de la Nature,  
@@ -1951,7 +1951,7 @@ On te permet enfin de vivre pour l'Amour.
     PSYCHE’ *se levant*.
 Vous y consentez ? quelle gloire !  
 
-    JUPITER *A PSYCHE'.*
+    JUPITER *A PSYCHE'.*.
 Viens prendre place auprés de ton Amant.  
 
     PSYCHE’ *à l'Amour*.
@@ -1971,7 +1971,7 @@ Apollon conduit les Muses, & les Arts ; Bacchus est accompagné de Silene [126]
 Apollon Dieu de l'Harmonie commence le premier à chanter, pour inviter les Dieux à se réjoüir.
 
 
-    *RECIT D'*APOLLON [129]
+    *RECIT D'*APOLLON [129].
 Unissons-nous, Troupe immortelle ;  
 Le Dieu d'Amour devient heureux Amant.  
 Et Venus a repris sa douceur naturelle  
@@ -2023,7 +2023,7 @@ D'avoir pû triompher de moy.
 Tous les Dieux du Ciel unissent leurs voix, & engagent les Tymbales & les Trompettes à répondre à leurs Chants, & à se méler avec leurs plus doux Concerts.
 
 
-    *CHŒUR DES* DIEUX, *où se mélent les Trompettes & les Tymbales.*
+    *CHŒUR DES* DIEUX, *où se mélent les Trompettes & les Tymbales.*.
 Chantons les plaisirs charmants  
 Des heureux Amants.  
 Respondez-nous Trompettes,  
@@ -2178,7 +2178,7 @@ Avec le doux chant des Amours.  < FIN. >
 LOUIS par la grace de Dieu Roy de France & de Navarre : A nos amez & féaux Conseillers, les Gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, & du Palais, Baillifs, Seneschaux, leurs Prevosts, & leurs Lieutenans, & tous autres nos Justiciers & Officiers qu'il appartiendra, SALUT. Nostre bien amé Jean Baptiste Lully Sur-Intendant de la Musique de nostre Chambre, Nous a fait remonstrer que les Airs de Musique qu'il a cy-devant composez, ceux qu'il compose journellement par nos ordres, & ceux qu'il sera obligé de composer à l'avenir pour les Pieces qui seront representées par l'Academie Royale de Musique, laquelle Nous luy avons permis d'établir en nostre bonne Ville de Paris, & autres lieux de nostre Royaume où bon luy semblera, estant purement de son invention, & de telle qualité que le moindre changement ou obmission leur fait perdre leur grace naturelle ; de sorte que comme son esprit seul les produit pour les appliquer aux sujets qu'il y trouve proportionnez, nul autre ne peut si bien que luy rendre lesdits Ouvrages publics dans leur perfection, & avec l'exactitude qui leur est deue. Et d'ailleurs, il est juste que si leur impression doit aporter quelque avantage, il revienne plûtost à l'Autheur pour le recompenser de son travail, & de partie des frais qu'il avance pour l'execution des Desseins qu'il doit faire representer par ladite Academie, qu'à de simples Copistes qui les imprimeroient, sous pretextes de Permissions generales ou particulieres qu'ils peuvent avoir obtenuës par surprises ou autrement ; ce qui l'oblige d'avoir recours à nos Lettres sur ce necessaires. A CES CAUSES ; Voulans favorablement traitter l'Exposant, Nous luy avons permis et accordé, permettons & accordons par ces Presentes, de faire imprimer par tel Libraire ou Imprimeur, en tel volume, marge, caractere, & autant de fois qu'il voudra, avec Planches et Figures, tous & chacuns les Airs de Musique qui seront par luy faits ; comm'aussi les Vers, Paroles, Sujets, Desseins & Ouvrages sur lesquels lesdits Airs de Musique auront esté composez, sans en rien ex- cepter, & cependant le temps de trente années, consecutives, à commencer du jour que chacun desdits Ouvrages seront achevez d'imprimer, iceux vendre & debiter dans tout nostre Royaume, par luy ou par autre ainsi que bon luy semblera, sans qu'aucun trouble ny empéchement quelconque luy puisse estre aporté, mesme par ceux qui pretendent avoir de Nous Privilege pour l'impression des Airs de Musique & Ballets, lesquels pour ce regard en tant que besoin est ou seroit, Nous avons revoqué & revoquons par cesdites presentes ; Faisant tres-expresses inhibitions & défenses à tous Libraires, Imprimeurs, Colporteurs, & autres personnes de quelque qualité qu'elles soient, d'imprimer, faire imprimer, vendre & distribuer lesdites Pieces de Musique, Vers, Paroles, Desseins, Sujets, & generalement tout ce qui a esté & sera composé par ledit Lully, sous quelque pretexte que ce soit, mesme d'impression étrangere & autrement, sans son consentement, ou de ses ayans cause, sur peine de confiscation des Exemplaires contrefaits, dix mil livres d'amende, tant contre ceux qui les auront imprimez & vendus, que contre ceux qui s'en trouveront saisis & de tous dépens, dommages & interests ; à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, un en nostre Cabinet des livres de nostre Château du Louvre, & un en celle de nostre tres cher & féal Chevalier, Garde des Sceaux de France, le S*r* d'Aligre, à peine de nullité des presentes. Du contenu desquelles, vous mandons & enjoignons faire joüir l'Exposant & ses ayans cause plainement & paisiblement, cessant & faisant cesser tous troubles & empeschemens au contraire ; Voulons qu'en mettant au commencement ou à la fin desdits Livres l'Extrait des Presentes, elles soient tenuës deuëment signifiées, & qu'aux copies collationnées par l'un de nos amez & feaux Conseillers & Secretaires, foy soit ajôutée comme à l'Original. Mandons au premier nostre Huissier ou Sergent, faire pour l'execution des presentes, toutes signifiations, défenses, saisies, & autres actes requis & necessaires, sans pour ce demander autre permission, nonobstant oppositions ou appellations quelconques, dont si aucunes interviennent, Nous nous en reservons & à notre Conseil la connoissance, & icelle interdisons & défendons à tous autres Juges : CAR tel est notre plaisir. DONNE' à Versailles le vingtiéme jour de Septembre, l'an de grace mil six cens soixante-douze, & de nostre Regne le trentiéme. Signé, LOUIS. Et plus bas : Par le Roy, COLBERT. Et scellé du grand Sceau de cire jaune.
 
 
-# Lexique
+# Lexique.
 
 (A) : *Dictionnaire* de l'Académie Française.
 
@@ -2187,7 +2187,7 @@ LOUIS par la grace de Dieu Roy de France & de Navarre : A nos amez & féaux Con
 (F) : *Dictionnaire* de FuretièreAdorerSe dit « par exageration, pour dire, Aimer avec une passion excessive, » mais au sens propre, il veut dire « rendre culte à un Estre que l'on reconnoist pour Dieu » (A).V. 320, 389d'Ailleurs.« Sert quelquefois de conjonction ou de transition, quand on veut alleguer une nouvelle raison » (F). Par ailleurs.DédicaceBoëte.Une boite. Malgré le tréma, il n'y a pas de diphtongue, et donc le mot se prononce en un syllabe au v. 618 (grâce à la liaison avec « où » ) et en deux syllabes au v. 741.V. 618, 741Chaconne.« Danse de théâtre à trois temps, au tempo modéré et soutenu. Le thême musical est développé dans un enchaînement de variations qui offrent au danseur un large éventail d'interprétation à l'intérieur de la danse » (B). Ajoutons que cet enchaînement de variations s'élabore sur une basse obstinée, c'est à dire sur quatre mesures qui se répètent.Note didascalie v. 342Complaisance.« Deference aux sentimens, & aux volontez d'autrui. La complaisance est d'ordinaire accompagnée de flatterie » (F).V. 486Concupiscence.Ce mot ne s'employe ordinairement que dans des matieres de pieté. Il signifie l'appetit dereglé qui est demeuré dans l'homme depuis & par le peché : convoitise, passion dereglée de posseder quelque chose » (F). Découvrir.Furetière donne de nombreux sens au mot découvrir. Au sens propre, il veut dire « Oter le couvercle, la couverture, le rideau ou autre chose qui empêchoit de voir quelque chose » (F), mais signifie aussi « Montrer une chose qu'on doit cacher » et « Trouver quelque chose de nouveau, de secret qui nous étoit auparavant inconnu ». Venus joue avec le double sens entre une conception figurée du premier sens du mot (i.e. exposer sa désobéissance à l'Amour) et le troisième sens (i.e. découvrir sa vraie identité). V. 541, didascalie v. 551Disgrâce.Au sens propre, ce mot veut dire une « diminution, perte de faveur » (F). Mais il peut signifier tout simplement un malheur ou un accident. V. 114, didascalie v. 147Ennui.Chagrin.V. 145, 739, 780, 789Etonner.« Surprendre, épouvanter ; causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte » (F)V. 844Garantir.« Exemter, deffendre, preserver de quelque mal, ou accident. ... Il n'y a point de remede qui puisse *garentir* de la mort » (F). V. 719Gloire.« On appelle en termes des Peinture, & d'opera *gloire*, un ciel ouvert & lumineux, ou une representation imparfaite de la *gloire* celeste » (F). Didascalie v. 797, didascalie v. 819Incontinent.« s ur l'heure, dans un moment. ... J'irai là *incontinent* après dîné » (F). Didascalie v. 662Inquiétude.« Chagrin, souci, ennui, trouble, affliction d'esprit. Rien ne peut calmer mon inquietude. Il est dans des inquietudes mortelles sur ce qu'on lui a dit du danger où est son frere. Tirez moi de la sombre inquietude où je suis » (F).V. 583Intéresser pour (s').« Entrer dans les interêts de quelcun. ... De bon coeur je m'intéresse dans tous vos maux et tous vos biens » (F). Prendre un intérêt pour quelqu'un.V. 276, 287Matassins.Les Matassins sont ceux qui dansent une danse du même nom et que Furetière décrit comme une « e spece de danse folâtre. »Didascalie v. 819, didascalie v. 918Menuet.« Danse de cour et de théâtre à 3 temps, vive et légère. ... La danse est composée de figures obligées : la principale est le S. ... Le menuet doit ... être exécuté dans un style net et précis, qui en fait l'archétype de la Belle Danse i. e. de cour . A la scène, les chorégraphies sont plus savantes, les pas de danse théâtrale venant s'ajouter aux pas de menuet » (B). Moitié.« Se dit figurément de gens mariez, & sur tout de la femme. Il a perdu sa chere *moitié* » (F). V. 268Objet.« Se dit poëtiquement des belles personnes qui donnent de l'amour. C'est un bel *objet*, un *objet* charmant » (F). V. 17Partage.« Une possession ou portion, qui nous vient par droit hereditaire. Cette Seigneurie est mon *partage* » (F).V. 60Polichinel.« Sorte de Boufon qui jouë les rôles Comiques dans les farces Italiennes » (F). En écrivant « polichinelles » au lieu de « polichinels », peut-on supposer que Quinault les désigne comme femmes ? La danse de l'époque nécessite qu'un homme et une femme dansent ensemble. On voit, par conséquent, des troupes d'hommes et troupes de femmes apparaître ensemble sur scène ; les nymphes et sylvains du prologue, les Ménades (femmes) et Aegipans (hommes) de Bacchus, etc. On peut supposer, donc, que les Polichinelles et Matassins forment une de ses paires.Didascalie v. 819, didascalie v. 918Pompeux.« Qui se fait avec pompe & avec magnificence ; qui est magnifique, splendide, fastueux. Cette entrée, ce carrousel, étoient fort *pompeux*. La Cour de France est toûjours *pompeuse*, & fort leste » (F). Ce mot n'a aucune des connotations négatives d'aujourd'hui.V. 244Prévenir.Ce mot signifie normalement être le premier à faire quelque chose. Il peut également signifier empêcher, mais dans le contexte du v. 185, il veut dire devancer. Au passif il signifie, comme aujourd'hui, être averti de quelque chose, comme au v. 82.V. 185Réduire.Terme chimique, mais qui a plusieurs sens figurés, dont, « Dompter, vaincre, subjuguer. Le Roi a reduit sous son obeïssance plusieurs places fortes & des Provinces entieres, » et « Obliger, forcer, contraindre, pousser. Ne me reduisez point à cela, je vous prie » (F).V. 310Soin.Souci.V. 461, 695Travail.« Application à quelque exercice pénible » (F).V. 461
 
 
-# Lexique mythologique
+# Lexique mythologique.
 
 Pour les explications des références mythologiques dans *Psyché*, il nous semblait fructueux d'illustrer autant que possible la conception de chaque divinité au XVII*e* siècle, et la résonance allégorique ou morale que sa présence sur la scène pouvait avoir. Par conséquent, les entrées dans ce lexique sont citées, autant que possible, d'après l'édition du *grand Dictionnaire historique* de Louis Moreri la plus proche possible de la date de création de *Psyché* (de 1681). Là où aucune entrée n'existait dans le dictionnaire de Moreri, nous avons cité d'après le *Dictionnaire de la mythologie grecque et romaine* de Pierre Grimal. Les entrées citées de Moreri sont suivies d'un (M), les entrées citées de Grimal d'un (G).
 
@@ -2242,7 +2242,7 @@ VULCAIN. « Divinité romaine ... qui ne possède en propre aucune légende, a 
 Héphaïstos, physiquement disgrâcié, passait pour avoir eu cependant des femmes d'une grande beauté. Déjà l'Iliade lui attribue Charis, la Grâce par excellence. Hésiode lui donne comme femme Aglaé, la plus jeune des Charites. Mais surtout, l'on connaît ses aventures avec Aphrodite Vénus , qui sont rapportées dans l'Odyssée. Zeus l'avait uni en effet à la déesse, mais celle-ci ne tarda pas à devenir la maîtresse d'Arès Mars . Si bien que le Soleil, Hélios, qui voit tout, aperçut un jour les deux amants étendus côte à côte, et alla tout conter au mari. Celui-ci ne dit rien, mais prépara un filet invisible, qu'il disposa autour du lit de sa femme. Quand elle y vint retrouver son amant, le filet se referma, immobilisant les deux coupables, et leur interdisant tout mouvement. Alors, Héphaïstos convoqua tous les dieux au spectacle. Aphrodite, de honte, s'enfuit, dès qu'elle fut délivrée, et tous les dieux furent saisis d'un rire inextinguible. » (G)
 
 
-# Traduction de la Plainte Italienne
+# Traduction de la Plainte Italienne.
 
 Ces vers constituent les pages 7 et 9 de l'édition originale (voir note 90, p. 63). Cette traduction est identique à celle qui se trouve dans le texte de la *Psyché* de 1671, compte tenu des changements de structure entre les deux versions [138]. Les vers en italien sont de Lully. L'auteur de la traduction n'est pas connu, mais il n'est pas Thomas Corneille puisque ce poète n'avait aucun rôle dans la composition de la *Psyché* de 1671. Elle est probablement de Quinault, car en tant que poète des intermèdes il avait un contact constant avec Lully [139].
 
@@ -2297,7 +2297,7 @@ Il faut que l'effort humain cede.
 O Dieux quelle douleur &c.  
 
 
-# Airs à chanter
+# Airs à chanter.
 
 Comme nous l'avons signalé dans la note sur l'édition, il serait peu pratique de signaler en note chaque changement entre récitatif et air. Dans le but, donc, de ne pas encombrer le texte, nous avons copié cette table d'airs de la première partition imprimée de *Psyché* (Ballard, 1720). Dans Ballard, la colonne à droite indique la page. Nous avons remplacé les indications de page par des indications de vers. Tous les vers qui ne correspondent pas à un des airs de cette table font partie d'un récitatif ou d'un chœur, à l'exception des quatre récitatifs cités dans la table (inclus par Ballard, sans doute, parce qu'ils constituent les grandes tirades de l'opéra).
 
@@ -2410,25 +2410,25 @@ U.    Unissons-nous, Troupe immortelle.                  �
 FIN DE LA TABLE.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ouvrages antérieurs à 1800
+## Ouvrages antérieurs à 1800.
 
 
-### Sources
+### Sources.
 
 
-#### Antique*Apulée*L'Ane d'or ou Les Métamorphoses
+#### Antique.*Apulée*L'Ane d'or ou Les Métamorphoses
 
 
 
-#### Autres versions de Psyché du XVII*e* siècle*Corneille*PsychéOeuvres Complètes
+#### Autres versions de Psyché du XVII*e* siècle.*Corneille*PsychéOeuvres Complètes
 *La Fontaine*Les Amours de Psyché et de CupidonOeuvres Complètes
 
 
 
-#### Autres opéras et pièces de théâtre du XVII*e* siècle*Corneille*Médée
+#### Autres opéras et pièces de théâtre du XVII*e* siècle.*Corneille*Médée
 *Fontenelle*Oeuvres complètes
 *Lully*Persée
 *Molière*Psyché, Tragi-comédie et Ballet dansé devant Sa Majesté au mois de janvier 1671Oeuvres Complètes
@@ -2437,50 +2437,50 @@ FIN DE LA TABLE.
 
 
 
-### Instruments de Travail
+### Instruments de Travail.
 
 
-#### Dictionnaires*Académie Française*Dictionnaire
+#### Dictionnaires.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Moreri*Le grand dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
 
 
 
-#### Gazetiers, témoignages, traités*Noinville*Histoire du théâtre de l'Opéra de France depuis l'établissement de l'Académie de musique jusqu'à présent
+#### Gazetiers, témoignages, traités.*Noinville*Histoire du théâtre de l'Opéra de France depuis l'établissement de l'Académie de musique jusqu'à présent
 *Parfaict*Histoire de l'académie royale de musique depuis ses origines*e*
 *Viéville*Comparaison de la musique italienne et la musique française
 *Visé**Corneille*Le Mercure Galant
 
 
 
-## Ouvrages modernes
+## Ouvrages modernes.
 
 
-### Instruments de Travail
+### Instruments de Travail.
 
 
-#### Catalogues*Klapp*Bibliographie der französischen Literaturwissenschast
+#### Catalogues.*Klapp*Bibliographie der französischen Literaturwissenschast
 *Schmidt*The Livrets of Jean-Baptiste Lully's Tragédies Lyriques : A Catalogue Raisonné
 *Schneider*Chronologish-thematisches Verzeichnis sämtlicher Werke von Jean-Baptiste Lully
 
 
 
-#### Dictionnaires*Benoit*Dictionnaire de la musique en France au XVII*e* et XVIII*e* siècles
+#### Dictionnaires.*Benoit*Dictionnaire de la musique en France au XVII*e* et XVIII*e* siècles
 *Grimal*Dictionnaire de la mythologie grecque et romaine
 *Rey*Le Nouveau Petit Robert
 
 
 
-#### Ouvrages sur la grammaire et ponctuation*Drillon*Traité de la ponctuation
+#### Ouvrages sur la grammaire et ponctuation.*Drillon*Traité de la ponctuation
 *Forestier*Oeuvres complètes
 *Fournier*Grammaire du français classique
 
 
 
-### Études
+### Études.
 
 
-#### Autour de Thomas Corneille*Adam*Histoire de la littérature française du xviie siècle
+#### Autour de Thomas Corneille.*Adam*Histoire de la littérature française du xviie siècle
 *Carlez*Pierre et Thomas Corneille librettistes
 *Clarke*Circé
 *Reynier*Thomas Corneille : sa vie et son théâtre
@@ -2488,7 +2488,7 @@ FIN DE LA TABLE.
 
 
 
-#### Ouvrages sur l'histoire de l'opéra, du théâtre et du XVII*e* siècle*Apostolidès*Le Roi-machine : Spectacle et politique au temps de Louis XIV
+#### Ouvrages sur l'histoire de l'opéra, du théâtre et du XVII*e* siècle.*Apostolidès*Le Roi-machine : Spectacle et politique au temps de Louis XIV
 *Bluche*Louis XIV
 *De la Gorce*L'Opéra de Paris au temps de Louis XIV
 *De la Gorce*Jean-Baptiste Lully
@@ -2496,7 +2496,7 @@ FIN DE LA TABLE.
 
 
 
-#### Théorie et esthétique de l'opéra classique*Delmas*Mythologie et mythe dans le théâtre français (1650-1676)
+#### Théorie et esthétique de l'opéra classique.*Delmas*Mythologie et mythe dans le théâtre français (1650-1676)
 *Fajon*L'Opéra à Paris du Roi Soleil à Louis le Bien-Aimé
 *Girdlestone*La Tragédie en musique considérée comme genre littéraire
 *Naudeix*Dramaturgie de la tragédie en musique (1673-1764)
@@ -2508,7 +2508,7 @@ FIN DE LA TABLE.
 
 
 
-### Discographie
+### Discographie.
 
 Il n'existe à présent aucun enregistrement de *Psyché*. Cependant, le prélude de trompettes pour Mars et le dernier choeur, « Chantons les plaisirs charmants » sont enregistrés sur :*Lully*Les Divertissements de Versailles : Grandes scènes lyriques
 
@@ -2517,7 +2517,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 
 
-### Divers*Canova-Green*PsychéNottingham French Studies
+### Divers.*Canova-Green*PsychéNottingham French Studies
 *Dandrey*&Littératures Classiques
 
 

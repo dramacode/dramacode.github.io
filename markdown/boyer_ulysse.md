@@ -16,7 +16,7 @@ A PARIS ; Chez TOUSSAINCT QUINET, au Palais, dans la petite Salle, sous la mont
 Édition critique établie par Pauline Debienne sous la direction de Georges Forestier (2007)
 
 
-# Introduction
+# Introduction.
 
 Au début de l'épître d'*Ulysse dans l'isle de Circé, ou Euriloche foudroyé* qu'il dédicace au Prince de Conti, Claude Boyer déclare :
 
@@ -28,7 +28,7 @@ C'est mettre en avant l'originalité de sa pièce qui propose une interprétatio
 Ce précepte vaut d'autant plus pour les pièces à machines et, c'est en l'ayant toujours à l'esprit que nous allons tenter d'étudier au mieux *Ulysse* dont la « simple » lecture permet néanmoins de révéler la richesse d'une pièce qui n'a pas pour seule finalité le spectacle.
 
 
-# Biographie de Claude Boyer
+# Biographie de Claude Boyer.
 
 Claude Boyer est né à Albi en 1618. Il est élevé dans le collège jésuite de la ville où il se perfectionna en rhétorique. On dispose de peu d'informations sur ses études mais on le sait bachelier en théologie, voie qu'il n'a pas poursuivie pour se consacrer à la dramaturgie. C'est ce qui donne l'occasion à Furetière, l'un de ses nombreux détracteurs, de le railler :
 
@@ -100,13 +100,13 @@ Boyer est à Pinchêne égal pour le lecteur. [8]
 Ces vers ont longtemps entaché le renom de Boyer. En témoignent les différents propos des Frères Parfaict qui jugent que « Sa poésie est dure, chevillée, pleine d'expressions froides ou basses ». Ils s'inspirent sans doute des propos de Saint-Marc, l'éditeur de Boileau, qui avait employé certains de ces adjectifs à l'égard du style de Boyer mais qui reconnaissait tout de même qu'il « avait beaucoup d'esprit » et que « ses différents ouvrages sont animés d'un feu qui ne fut point affaibli par l'âge ». Le génie que lui reconnaissent Pellisson et d'Olivet dans l'*Histoire de l'Académie française*, tout comme l'abbé de Pure qui le classait parmi les gens de lettres qui « ont droit aux plus justes louanges qu'on ait jamais données » n'a malheureusement pas empêché son œuvre, pourtant révélatrice des tendances et goûts de l'époque, de sombrer longtemps dans l'oubli.
 
 
-# Ulysse dans l'isle de Circé, résumé et contexte de création
+# Ulysse dans l'isle de Circé, résumé et contexte de création.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Acte I
+### Acte I.
 
 Scène 1 : Eole réprimande ses vents qui ont détruit sous les ordres de Neptune le vaisseau de Périmède, un messager chargé par Pénélope de retrouver Ulysse.
 
@@ -127,7 +127,7 @@ Scène 8 : Ulysse et Circé avec leur suite respective écoutent la chanson des
 Scène 9 : Euriloche expose à Périmède ses desseins : il veut parvenir à se faire aimer de Phaëtuse et ainsi monter sur le trône comme roi en éliminant tout rival par l'éloignement ou par la mort. Pour cela il est prêt à sacrifier devoir et honneur.
 
 
-### Acte II
+### Acte II.
 
 Scène 1 : Dans un jardin, Elpenor et Phaëtuse parlent avec félicité de leurs amours. Phaëtuse troublée par un pressentiment vague défend à Elpenor de chercher à lui rendre le pouvoir. Certaine de sa perte s'il cherche à vaincre Circé Phaëtuse, qui n'a aucune ambition politique, lui assure que seul son amour suffit à son bonheur.
 
@@ -144,7 +144,7 @@ Scène 6 : Dans l'antre du sommeil, Circé seule prononce une plainte amoureuse
 Scène 7 : Circé fait sa requête au dieu du sommeil : il doit en rêve montrer à Ulysse sa femme infidèle afin que son amour pour elle se transforme en haine. Circé compte ainsi pouvoir le garder auprès d'elle et obtenir son amour.
 
 
-### Acte III
+### Acte III.
 
 Scène 1 : Dans le palais de Circé, Ulysse lui réclame son pardon pour la querelle qui a opposé Euriloche et Elpenor. Circé pour éviter un duel et rétablir la paix leur inflige un sort qui les met hors de danger : Elpenor verra en Euriloche Phaëtuse et Euriloche ne pourra tenter quoique ce soit contre son rival. Circé reproche à Ulysse d'être le seul à résister à son pouvoir, auquel il se dit prêt à céder si elle réalise un dernier vœu. Circé accepte en échange de son amour et Ulysse lui demande de le faire descendre dans les Enfers. Circé y consent mais pose une condition : Ulysse ne partira pas plus d'un jour et reviendra lui offrir son amour.
 
@@ -159,7 +159,7 @@ Scène 5 : Les deux sœurs en pleine discussion rencontrent Elpenor qui s'adres
 Scène 6 : Les deux sœurs s'étonnent des propos d'Elpenor et Phaëtuse qui craint pour sa vie reproche à Circé un sort inutile. Leucosie croit que Phaëtuse est en fait éprise d‘Euriloche et a peur qu'Elpenor attente à sa vie, de cette erreur s'ensuit une violente dispute. Phaëtuse tente de détromper sa sœur et de l'éclairer sur la vraie nature d'Euriloche mais Leucosie déterminée prend le parti de son amant. La dispute se clôt sur une alternative : Phaëtuse déclare qu'elle ne laisse pas d'autres choix à Euriloche que de quitter l'île ou périr et Leucosie qui croit à la conspiration contre son amant formule la même alternative : Elpenor doit quitter l'île ou périr.
 
 
-### Acte IV
+### Acte IV.
 
 Scène 1 : Dans les Enfers Sisiphe en plein effort se plaint à Jupiter du supplice qu'il lui inflige.
 
@@ -184,7 +184,7 @@ Scène 10 : Leucosie les rejoint pour prévenir Circé qu'Ulysse est rentré. C
 Scène 11 : Leucosie informe Euriloche qu'Ulysse est décidé à partir avec Elpenor et que les vaisseaux sont prêts puis cherche à apprendre le bonheur que lui a promis Circé. Euriloche trop occupé à songer à sa victoire ne lui répond pas et lui commande d'occuper sa sœur pendant qu'il tente de faire embarquer son rival sur le vaisseau.
 
 
-### Acte V
+### Acte V.
 
 Scène 1 : Mélante, un serviteur de Circé, lui apprend qu'Ulysse manque à sa promesse et attend dans une forteresse son châtiment. Circé dont l'orgueil autant que l'amour est blessé laisse éclater sa haine et se refuse de laisser Ulysse triompher d'elle et faire sa honte à Ithaque. Munie d'un poignard elle ordonne à Mélante de faire venir l'ingrat.
 
@@ -211,12 +211,12 @@ Scène 11 : Circé et Leucosie s'extasient devant le foudroiement du vaisseau a
 Scène 12 : Les trois sœurs réunies, Phaëtuse explique que seule l'intervention des dieux pouvaient la sauver et après un bref récit elle rejoint ses sœurs dans le char. Toutes avant de regagner l'île s'accordent pour vivre sans passions et « Reynes d'elles -mesmes ».
 
 
-# Contexte de représentation et réception de la pièce
+# Contexte de représentation et réception de la pièce.
 
 Dans l'épître dédiée au Prince de Conti, Claude Boyer émet quelques réserves sur la « bonne fortune » de l'édition *d'Ulysse* tandis qu'il rappelle combien le théâtre « luy est si fort avantageux », laissant alors penser que la pièce a pu rencontrer quelque succès. Cependant, si nous savons qu'*Ulysse dans l'isle de Circé, ou Euriloche foudroyé* a été créée le 27 décembre 1648 par la troupe du Marais, nous ne pouvons faire que des conjectures sur sa réception, liées au contexte dans lequel elle a été représentée.
 
 
-## Contexte de création
+## Contexte de création.
 
 C'est en 1647 que le Théâtre du Marais, installé dans l'ancien Jeu de Paume, rue Vieille du Temple, décide de se spécialiser dans la représentation de pièces dites à machines afin de répondre aux exigences d'un public toujours plus fervent de spectacle. La nouvelle configuration du théâtre, ravagé par un incendie en janvier 1644, offrait avec ses deux scènes relativement larges [9] un espace assez grand et pratique pour le jeu des acteurs et l'intervention de la machinerie. Au début des années 1640 les pièces à machines se faisaient rares dans les théâtres de ville et restaient des divertissements de Cour. En 1647, alors que Mazarin fait jouer au Palais-Royal l'*Orfeo* de Rossi, le théâtre du Marais qui connaît une crise [10] voit dans les pièces à machines le moyen de surmonter ses difficultés et de récupérer une clientèle perdue qu'il espère même pouvoir élargir. Les pièces à machines connaissent leurs heures de gloire entre 1650 et 1668, mais leur production, quoique timide, était déjà stimulée depuis le début des années 1640. L'année 1648 s'avère assez importante dans l'histoire du genre et du théâtre du Marais. C'est en effet à cette date, et avec la création de notre pièce le 27 décembre 1648, que le théâtre du Marais reçoit pour la première fois la dénomination de « théâtre des machines » qui apparaît sur la page de titre d'*Ulysse dans l'isle de Circé*. Certes la troupe du Marais avait déjà joué trois pièces à machines avant *Ulysse* : au début de l'année 1647, *Circé*, que S. W. Deierkauf-Holboër attribue avec réserve à Balthasar Beaujoyeulx [11], à la fin de cette même année, *Andromède et Persée, la délivrance* dont l'auteur reste inconnu, puis, en février 1648, *Le Mariage d'Orphée et Eurydice* de Chapoton, mais il a fallu attendre la pièce de Boyer pour que l'ancien Jeu de Paume devienne véritablement le « théâtre des machines » de Paris. En outre, *Ulysse*, bien qu'elle reçoive le statut de « tragi-comédie », a aussi été déterminante dans l'histoire du genre et sur ce point J. Scherer, à la suite de Clara Brody, et H.C. Lancaster, salue Claude Boyer comme le « créateur du genre [12] » : non seulement Claude Boyer a permis au théâtre du Marais une réelle spécialisation qui la sauve du désastre mais aussi il jette les bases d'un genre qui sera ensuite défini plus précisément par Corneille avec *Andromède*, créée en 1650 [13] sur le même théâtre. Claude Boyer est en effet le promoteur du genre dans le sens où auparavant le recours aux machines était souvent limité au prologue et au dénouement, ou encore à quelques intermèdes, et où la machinerie avait souvent un unique rôle ornemental et ne prenait aucunement part à l'action. Avec *Ulysse*, on assiste à une pièce où les machines (l'on entend aussi par là tout ce qui touche au décor) envahissent l'espace théâtral et sont intégrées à l'action où elles ont une place déjà essentielle (nous développerons cet aspect dans la partie qui concerne la dramaturgie). Bien qu'*Ulysse* reste « la tentative d'un genre encore à définir » selon Hélène Visentin, il n'en demeure pas moins qu'elle pose les jalons de ce genre et offre une nouvelle conception du recours aux machines.
 
@@ -225,7 +225,7 @@ Il n'existe pas de document qui permette de savoir comment s'est déroulée la r
 La prestation des comédiens qui devaient tenir compte des machines était elle aussi importante pour garantir un certain succès à la représentation. Boyer en est conscient quand il déclare dans l'épître que « l'addresse des Acteurs » et « la magnificence du spectacle » peuvent cacher les défauts de sa pièce. Malgré nos recherches, il nous est impossible de savoir de façon exhaustive quels acteurs de la troupe ont joué *Ulysse*. On sait d'après les *Archives nationales* [14] qu'après le départ de Floridor en 1647, la direction de la troupe a été donné à Philbert Robin dit le Gaulcher et que Jean Mathée, dit Philandre le remplace provisoirement en tant que comédien. En avril 1647 Nicolas Biet dit Beauchamps et sa femme Françoise Petit s'associent au reste de la troupe alors composée de : Laurent Conseil, Renaud PetitJean, les frères Bedeau et Melle Beaupré. Aucun autre document ne nous permet de savoir si en décembre 1648 la troupe est toujours la même ou si elle a intégré d'autres comédiens. Notons que si le nombre d'hommes est suffisant pour représenter *Ulysse*, il manque une comédienne pour interpréter l'une des trois sœurs. On peut donc imaginer que d'autres comédiens ont rejoint la troupe ou que son directeur a fait appel à une comédienne « extérieure » pour jouer le rôle manquant. En outre, *Ulysse* est une pièce « ornée de machines, chants et musiques » où chantent les Sirènes et Circé, toutes les comédiennes ne devaient pas être en mesure de chanter (d'autant plus que l'interprétation devait « ravir » les sens pour plaire au public) et l'on peut penser que la troupe a eu recours à des chanteuses professionnelles, qui ne sont intervenues sur scène que pour la chanson des Sirènes. Quant au chant de Circé, selon une procédure courante dans ce type de pièce, l'une des chanteuses était probablement restée en coulisse pour l'interpréter tandis que la comédienne qui jouait Circé était sur scène.
 
 
-## Réception de la pièce
+## Réception de la pièce.
 
 L'unique document que nous possédons et qui évoque la création de la pièce est le *Dessein*, cependant incomplet, paru peu de temps avant la représentation. Celui-ci couvre d'éloges *Ulysse* qu'il présente comme un chef-d'œuvre. Par manque de documents, il nous est impossible de savoir si le *Dessein* est parvenu à son but, c'est-à-dire inciter assez de personnes à se rendre à la représentation et surtout, si les spectateurs qui ont vu la pièce s'accordent avec le *Dessein* pour dire qu'elle est un chef-d'œuvre, du moins qu'elle est une réussite. Il faut néanmoins relativiser le jugement émis dans le *Dessein*, puisque le but d'un dessein est de faire une publicité efficace de la pièce quelle que soit sa qualité et que, d'après les Frères Parfaict, il aurait été rédigé par son auteur lui-même. Aucun document n'atteste cette idée, Boyer comme Denis Buffequin, qui a écrit le dessein des *Amours de Jupiter et de Sémélé*, ou même tout autre personne aurait pu l'écrire. Toujours selon les auteurs de *l'Histoire du théâtre*, Ulysse serait parue avec « quelque éclat, malgré son peu de mérite », déclaration qui laisse penser qu'elle aurait eu du succès. De fait la pièce de Boyer correspond parfaitement aux attentes d'un public qui goûte les intrigues galantes, la tragi-comédie avec ces multiples rebondissements et recherche de plus en plus le spectacle au théâtre. Ces éléments laissent penser qu'en effet la pièce a pu connaître quelque succès au moment de sa représentation bien qu'elle semble vite être tombée dans l'oubli, peut-être perdue dans la floraison de pièces à machines qui va s'étendre jusqu'aux années 1660 et qui consacre surtout en 1650 *Andromède* comme la pièce à machines type.
 
@@ -242,10 +242,10 @@ Euriloche trahit Ulysse parce qu'il est amoureux de Leucosie, nymphe de Circé, 
 Seule la partie de l'action qui concerne Circé et Ulysse est bien résumée, et si l'on s'en tient uniquement à ce résumé l'on comprend mieux pourquoi les Frères Parfaict jugent la pièce « mal construite ». Il faudra attendre le XX*e* siècle pour que différents chercheurs rendent compte de certaines qualités de la pièce et du caractère novateur qu'elle a eu à l'époque.
 
 
-# Le traitement des sources
+# Le traitement des sources.
 
 
-## Les personnages et leurs sources
+## Les personnages et leurs sources.
 
 L'analyse des personnages dans *Ulysse* est particulièrement intéressante en regard de leur évolution par rapport aux sources. Boyer conserve dans sa pièce des personnages présents dans l'œuvre de référence mais il ne garde que leur nom et quelques traits de leur caractère pour construire des personnages nouveaux dont l'histoire est différente de celle qui est donnée dans l'*Odyssée.* Aussi, nous avons pris le parti d'orienter l'examen des personnages selon les transformations qu'ils subissent depuis l'*Odyssée* et nous reviendrons au cours de l'introduction sur leur étude quand elle est bienvenue pour éclairer certains aspects de la pièce, nous gardant ainsi de toute répétition.
 
@@ -271,10 +271,10 @@ Dans l'*Odyssée*, Ulysse est aussi celui qui pleure la perte de ses compagnons 
 Elpenor pour sa part est sujet à plusieurs métamorphoses vis-à-vis de son original Homérique : dans l'*Odyssée* il est désigné par Ulysse comme « le plus jeune d'entre eux, … le moins brave au combat, le moins sage au conseil » [20], défauts qu'il ne cumule pas dans la pièce de Boyer. Bien au contraire, on découvre un Elpenor qui se dit prêt à affronter Circé, la terrible déesse, dont Ulysse lui-même craint la colère, afin de rendre à celle qu'il aime la couronne qui lui revient de droit. Elpenor chez Boyer se veut donc courageux et s'il n'entreprend rien contre Circé ou ne se venge pas de l'offense d'Euriloche, si bien que sa bravoure ne peut être vérifiée, c'est parce Boyer fait d'Elpenor un homme« sage au conseil » de sa maîtresse Phaëtuse à laquelle il est totalement dévoué. De mauvais guerrier, il devient chez Boyer un modèle d'amant (voir la partie sur l'amour et la galanterie) . L'unique point commun entre Homère et Boyer est la mort d'Elpenor mais elle se produit dans des circonstances assez différentes. Dans l'*Odyssée* la mort d'Elpenor est contée par Ulysse à la fin du chant X et ce récit correspond à sa première apparition dans l'histoire. Rappelons brièvement la cause de sa mort : trop enivré de vin après un banquet, Elpenor était allé s'assoupir au frais sur le toit de la demeure de Circé. Réveillé subitement et n'ayant plus souvenir d'être sur un toit, il fait une chute mortelle. Cette mort n'a rien de glorieux si bien qu'au chant suivant quand Ulysse le rencontre aux Enfers, Elpenor en exagère quelque peu l'héroïsme avant de supplier Ulysse de lui rendre les honneurs funèbres dus aux héros. Aussi, la « réhabilitation » du personnage chez Boyer ne se fait pas que du point de vue du caractère, Elpenor dans *Ulysse* meurt sous les traîtres coups d'Euriloche et supplie Leucosie de secourir Phaëtuse plutôt que de tenter de le sauver. À partir de la résolution de faire périr les deux compagnons, conformément à l'*Odyssée* et en accord avec une intrigue amoureuse, Boyer a construit ses personnages de façon à ce qu'ils soient rivaux et surtout que leur caractère s'oppose afin que l'un puisse éliminer l'autre. Ces caractères étaient tout trouvés dans les types du traître sans scrupules et du galant.
 
 
-## Le traitement dramatique des sources
+## Le traitement dramatique des sources.
 
 
-### La source antique : l'*Odyssée* d'Homère
+### La source antique : l'*Odyssée* d'Homère.
 
 La redistribution des personnages de *l'Odyssée* et leur évolution ne va pas sans une reconstruction de l'épopée homérique, elle y trouve même sa cause. Dans l'épître Boyer souligne que sa pièce n'a pas conservé « toutes les beautez de son original », bien plus qu'une omission de certains épisodes de l'*Odyssée*, Boyer les a ordonnés différemment afin de créer une intrigue nouvelle. Cette nouvelle distribution est d'ores et déjà perceptible dans le titre qui rapproche deux épisodes appartenant à deux chants différents de l'*Odyssée*. Le séjour d'Ulysse chez Circé est l'un des épisodes les plus connus de l'épopée et il a lieu au chant X : Ulysse, après sa visite aux Enfers, retourne un bref instant chez Circé avant de la quitter définitivement accompagné d'Euriloche. Son foudroiement n'a donc pas lieu dans le même épisode chez Homère et c'est au chant XII qu'il se produit. La première originalité de Boyer est donc de rassembler ces deux épisodes sur un même plan, le foudroiement d'Euriloche devenant une réinterprétation de la première partie du titre et devenant lui-même un épisode du séjour chez Circé et non plus du périple d'Ulysse. Il ne s'agit donc pas de transposer dramatiquement les chants X à XII de *l'Odyssée* tels quels, le titre ne dit pas que l'action se produit durant le laps de temps qui couvre ces deux chants mais que l'action réintègre des épisodes de *l'Odyssée* différemment. De sorte que les épisodes du chant des Sirènes, de la descente aux Enfers, de la mort d'Elpenor (nous l'avons vu précédemment) et du foudroiement d'Euriloche par Jupiter n'ont plus les mêmes motivations ni la même nature et, qu'ils n'apparaissent pas selon la même chronologie dans les deux œuvres. Etudions les plus précisément.
 
@@ -337,7 +337,7 @@ Si le Soleil de Boyer est moins catégorique par la menace d'une éclipse tempor
 Boyer concentre donc l'intrigue de sa pièce sur un épisode précis de l'*Odyssée*, le séjour d'Ulysse chez Circé, qu'il transforme en une intrigue amoureuse à laquelle il soumet les trois autres épisodes qui ont des fonctions différentes dans le déroulement de l'action. Chaque épisode du poème homérique est reconsidéré de façon à former une intrigue cohérente mais aussi personnelle et originale. Boyer donne ainsi une nouvelle image du séjour d'Ulysse chez Circé et l'on peut mieux comprendre pourquoi, dans une œuvre aussi importante que l'*Odyssée*, Boyer a choisi de se concentrer sur l'épisode du chant X. En effet, Circé est connue dans toute la mythologie pour ses nombreuses amours, dont ceux avec Ulysse, qui ont souvent eu une issue funeste. Ainsi Circé, comme il est rappelé dans la pièce, a empoisonné son époux infidèle mais, par dépit, elle a aussi transformé Scylla, que Glaucus lui préférait, en monstre marin afin d'écarter sa rivale. L'histoire de Circé et de ses amours rend donc possible et vraisemblable le personnage de Boyer mais surtout, elle était à même d'inspirer une intrigue amoureuse. Aussi, le séjour d'Ulysse chez Circé avait déjà gagné en galanterie dans la transposition dramatique qu'avait fait Durval de l'*Odyssée*.
 
 
-### Une source moderne : *Les Travaux d'Ulysse* de Durval
+### Une source moderne : *Les Travaux d'Ulysse* de Durval.
 
 L'autre source d'inspiration incontestable à quelques égards est la « tragé-comédie tirée d'Homère » [25] intitulée *Les Travaux d'Ulysse* de Durval qui a été créée en avril 1630 devant le roi à Fontainebleau et a ensuite été rejouée plusieurs fois à l'Hôtel de Bourgogne. Créée dix-huit ans plus tôt que la pièce de Boyer, celle de Durval n'est pourtant pas tombée dans l'oubli en 1648 puisqu'elle est citée dans le *Dessein* de notre pièce :
 
@@ -368,12 +368,12 @@ une série de tableaux reliés par la personnalité d'un seul homme [32].
 Durval opère donc une pure transposition dramatique de *L'Odyssée*, et c'est sur ce point qu'il faut souligner et apprécier la différence entre les deux pièces. Pour Boyer il ne s'agit pas de transposer le plus fidèlement possible le poème homérique mais de se réapproprier le mythe et certains de ses épisodes. L'on note un souci d'exhaustivité chez Durval que l'on ne retrouve pas dans *Ulysse* et pour cause, la pièce n'est pas construite de la même façon : alors que dans *Les Travaux d'Ulysse* le séjour chez Circé n'est qu'un épisode parmi d'autres comme dans l'*Odyssée*, il est le cadre même de l'action chez Boyer et il s'agit de créer à partir de ce cadre une action cohérente. Les trois autres épisodes de l'*Odyssée*, le concert des Sirènes, la descente aux Enfers et le foudroiement d'Euriloche sont convoqués dans la mesure où ils servent chacun différemment l'enjeu et l'action de la pièce.
 
 
-# Dramaturgie d'une pièce à machines
+# Dramaturgie d'une pièce à machines.
 
 *Ulysse dans l'isle de Circé* n'est pas seulement une tragi-comédie, elle est aussi une pièce à machines. En cela elle relève d'une poétique et d'une dramaturgie particulières à son genre, bien différentes de la dramaturgie classique qui s'imposait au moment de sa création. Il en était déjà ainsi pour la tragi-comédie jugée irrégulière, alors qu'elle se veut plutôt a-régulière, face à la tragédie régulière mais, avec l'introduction des machines c'est bien plus que le souci des règles qui est touché, c'est la façon même de concevoir le théâtre dans l'articulation du texte et de sa représentation. Dans les années 1630 et auparavant, les machines étaient uniquement utilisées dans les marges de la pièce, c'est-à-dire dans les prologues, dénouements et intermèdes. Or avec *Ulysse* la machine envahit l'espace théâtral et se voit intégrée à l'action, si bien que ses fonctions ne sont plus seulement esthétiques mais aussi dramatiques. Se fonde alors une esthétique du voir et la scène devient un lieu de spectacle où se définit une nouvelle dramaturgie qu'il s'agira d'étudier dans cette partie.
 
 
-## Machines et action
+## Machines et action.
 
 Le choix du sujet est déterminant lorsque l'on veut écrire une pièce à machines : il doit en effet posséder d'importantes potentialités spectaculaires et ainsi légitimer le recours à la machinerie. Aussi, parce que mythologie rime aussi avec magie, métamorphoses, merveilleux et apparitions divines, les sujets mythologiques sont tout désignés pour remplir ce rôle. Le recours à la machinerie n'a plus rien d'arbitraire, il est appelé par les exigences du sujet et il est même attendu par les spectateurs qui se rendent au théâtre pour contempler les aventures des fameux héros mythologiques. La promotion de la mythologie et des machines vont donc de pair et, tandis qu'elles avaient auparavant une fonction de divertissement, constituant alors une pause dans l'action, elles ont à présent une place de choix dans l'*inventio* du sujet. Si bien que le dramaturge en écrivant son texte, cherche comment insérer les machines dans l'action, sachant qu'il doit aussi parfois imaginer les ressorts de son intrigue selon les machines disponibles dans le magasin des décors. En effet, si la machinerie se développe à cette époque, les machines restent onéreuses et les théâtres n'ont pas toujours les moyens de se doter des machines demandées par l'auteur. Boyer, comme beaucoup d'autres dramaturges, a pu écrire *Ulysse* sous cette contrainte et l'on voit combien le recours à la machine peut largement influer sur la composition de l'action. La présence des machines dans le texte est d'abord visible dans les didascalies. Ces indications scéniques, aussi bien données au metteur en scène qu'au machiniste, mais aussi, leur présence au sein de l'action est soulignée dans les vers eux-mêmes, preuve que texte et représentation sont devenus indissociables et que la machine fait corps avec l'action. Hélène Visentin appelle ces vers des didascalies « implicites » [33]. *Ulysse* en fournit quelques exemples, dès la scène 2 de l'acte I quand Périmède demande à Eole :
 
@@ -411,7 +411,7 @@ Les machines ne sont pas dans cette Tragédie comme des agréments détachés, e
 Il est en effet difficile de soustraire à l'action d'*Ulysse* l'une des machines, d'autant plus qu'elles sont indissociables du texte dramatique, sans quoi sa cohérence serait mise à mal. Seul le concert des Sirènes pourrait éventuellement disparaître sans occasionner d'importants bouleversements dans l'intrigue, mais, on l'a vu, il n'est pas gratuit et possède entre autres une fonction symbolique. Cependant, la nécessité étant un critère contestable pour le théâtre à machines, l'ordonnance de l'intrigue montre surtout que dans *Ulysse* les machines sont utilisées avec justesse, leur distribution est tout à fait cohérente dans la dynamique de l'action, si bien que la question de retrancher ou non certaines machines ne se pose plus. Les machines dans *Ulysse* paraissent d'autant plus justes qu'elles mettent en scène des épisodes de l'*Odyssée* (selon l'idée que le sujet mythologique enlève tout caractère arbitraire à la machine) même s'ils sont réorganisés et ont une portée différente. Sur cette question de la justesse, le dénouement d'*Ulysse* a parfois été critiqué en ce qu'il semblait être avant tout une apothéose des machines. Certes, c'est à ce moment de la pièce que la machinerie se déploie le plus, mais malgré tout, chaque machine peut se justifier dans le sens où l'intervention de Jupiter avait déjà été préparée par le discours de Sisyphe et que, sans son intervention la justice n'aurait pu être accomplie. En outre, il fallait que Phaëtuse soit sauvée de la mort pour que cette justice soit réellement juste et ne laisse pas mourir une innocente, si bien que le dauphin restait l'un des recours les plus crédibles, et le seul qui permette de ramener Phaëtuse à ses sœurs sans que ces dernières ne courent elles-mêmes un danger en allant la secourir malgré la tempête. Là encore la machine sert l'action et malgré tout son déploiement conserve une certaine justesse. Les machines participent donc à la dynamique de l'action dans chacune de ses étapes et, pour reprendre les mots d'Hélène Visentin, « la disposition des machines ne doit rien au hasard. Celles-ci ponctuent l'action, assurent les rebondissements, suscitent le « suspense [36] » .
 
 
-## La magicienne Circé ou Circé figure du metteur en scène et machiniste
+## La magicienne Circé ou Circé figure du metteur en scène et machiniste.
 
 Si le sujet mythologique justifie la présence des machines dans l'action, c'est notamment parce qu'il entraîne la présence de dieux, demi-dieux ou magiciens dont les pouvoirs à agir sur le monde sont incontestés. Aussi, si dans la mythologie les dieux interviennent dans la vie des hommes ou sur leur monde pour les bouleverser, il en est de même dans les pièces à machines où ils semblent détenir les ficelles de l'intrigue, si bien qu'ils apparaissent souvent tels des metteurs en scène voire comme une figure du poète qui ordonne son intrigue. Les dieux sont donc une figure importante dans les pièces à machines et l'on observe ces caractéristiques dans *Ulysse*. Nous avons déjà vu qu'il est donné à Eole d'introduire l'action en guidant Périmède et qu'il est donné à Jupiter de résoudre une situation qui paraissait bloquée et qui réclamait son intervention. Toutefois, comme nous allons étudier ces deux moments un peu plus loin, nous allons dans cette partie nous concentrer sur Circé qui est le personnage divin qui agit le plus sur le déroulement de l'intrigue. De fait, c'est la présence même de Circé dans la pièce, annoncée d'entrée de jeu dans le titre, qui garantit le spectacle à une époque où magie et magie des machines sont encore fortement liées [37]. C'est dans cette optique que Boyer fait de Circé une magicienne toute puissante, qui ne maîtrise pas seulement les potions mais aussi l'univers et son fonctionnement. Thaumaturge [38], elle fait à deux reprises état de ce glorieux pouvoir, capable de bouleverser l'harmonie de l'univers : d'abord dans la scène 6 de l'acte II, elle évoque sa capacité à maîtriser les éléments puis, dans la scène 1 de l'acte III (v. 901-921), elle s'affirme capable de renverser l'ordre du monde. De même, quand il est question de se venger d'Ulysse, elle mentionne qu'elle pourrait déchaîner les éléments afin de le perdre (v. 1671-1674) . Toutefois, il ne s'agit pas de faire régner le chaos sur scène mais d'avoir recours à une magie qui informe l'intrigue, c'est pourquoi, les capacités de Circé à agir sur le monde restent dans la pièce des images mentales suggérées par une hypotypose efficace (voir notre étude sur la fonction de l'hypotypose) . Les seuls renversements qu'opèrent Circé concernent les sentiments d'Elpenor qui, sous l'emprise d'un charme, voit Phaëtuse en Euriloche et passe du bonheur d'être aimé au dépit amoureux, mais aussi de la haine à « l'amour » envers son rival, tandis que ce dernier se voit dans l'incapacité de tuer Elpenor. Bien plus tôt dans la pièce, Circé avait transformé le chant mortel des Sirènes en un chant amoureux et la magie de Circé a deux portées différentes dans l'action : elle se propose d'abord d'offrir un divertissement à ses hôtes et au public sans autre but que leur plaisir, mais elle fournit aussi à l'intrigue quelques rebondissements grâce au charme qu'elle fait subir aux deux rivaux. Circé est assez puissante pour agir aussi bien sur les êtres merveilleux que sur les êtres humains, mais c'est surtout en influençant les décisions des personnages par le biais de différents artifices, qui sont autant de machinations qu'elle complique le nœud et déclenche certains ressorts de l'intrigue. Aussi la voit-on recourir à son pouvoir (II, 6 et 7) pour servir ses intérêts et créer un obstacle au retour d'Ulysse, obstacle illusoire mais qui a l'effet escompté, contribuant à entraver l'action quelque temps, jusqu'à ce que Ulysse apprenne qu'il a été trompé. Pour cela, il descend aux Enfers et l'on voit combien l'artifice influence durablement l'action puisque sans lui Ulysse n'aurait eu besoin d'aller aux Enfers. La magie de Circé et l'emploi qu'elle en fait constituent donc l'un des moteurs de l'action. De la même façon, l'on peut voir dans le sort qu'elle jette à Elpenor et Euriloche une façon pour l'auteur de retarder le meurtre final et donc le dénouement mais aussi, de laisser croire un instant le public que tout s'est arrangé pour mieux le surprendre. Circé, figure du metteur en scène, conduit donc une partie de l'intrigue par ses machinations et le recours aux machines est justifié par sa puissance et même, appelé par ses actes. C'est donc elle qui donne véritablement tout leur crédit aux machines et elle se fait machiniste en les commandant : c'est parce qu'elle appelle le dieu du Sommeil que celui-ci apparaît et que l'antre s'ouvre, c'est aussi par sa chanson qu'elle fait revenir Ulysse des Enfers mais c'est surtout par sa requête au Soleil qu'interviennent les machines du dénouement et l'affirmation qu'elle fait à Leucosie au vers 1824 – « Je te suis, tu vas voir un trait de ma puissance » – annonce les prodiges de magie et de machines qui vont succéder. Circé s'apparente aussi au machiniste par son pouvoir à agir sur l'espace et à le transformer : c'est en effet elle qui transporte ses hôtes et le public au concert des Sirènes, c'est avec elle que les spectateurs descendent dans l'antre du Sommeil, puis dans les Enfers pour revenir dans un parc beaucoup plus rassurant. La magicienne-machiniste peut donc faire et défaire les décors à son aise, et ces changements sont toujours vus par le spectateur comme des tours de sa puissante magie. C'est cette magie qui rend possible et donc vraisemblable l'utilisation des machines si bien que le public ne se pose plus la question de leur légitimité, leur recours étant justifié dans les propos de la toute puissante Circé. Si puissante qu'elle est la seule, avec Eole et Jupiter, à pouvoir opérer les changements de décor tel un machiniste. Ce fait est souligné par Tirésias lorsque Ulysse lui demande de le ramener sur terre afin qu'il puisse rejoindre les siens. Si Tirésias a pu détromper Ulysse sur les images fausses qu'avait suscité en lui le pouvoir de Circé il reconnaît qu'il ne peut le faire sortir des Enfers car
 
@@ -420,12 +420,12 @@ Le charme de Circé rend sa main impuissante.
 Tirésias consacre donc le pouvoir supérieur de Circé et met en avant le rôle central de la magicienne dans la pièce. Central car elle justifie le recours au machines et ordonne en partie l'intrigue mais aussi car c'est par sa magie que s'opère la magie du spectacle.
 
 
-## Dramaturgie et spectacle
+## Dramaturgie et spectacle.
 
 Boyer avec *Ulysse* met à l'œuvre une nouvelle dramaturgie où les machines s'intègrent avec justesse dans l'action et où elles ne sont plus seulement confinées à un rôle ornemental. Pour autant, même s'il cherche à donner une fonction dramatique aux machines, il n'en reste pas moins qu'il les emploie avant tout pour ravir son public. La notion de plaisir est en effet importante dans le théâtre à machines si bien que les règles classiques y sont souvent malmenées à la faveur du plaisir que peut susciter la beauté du spectacle. Il s'agira dans cette partie d'interroger les exigences spectaculaires du théâtre à machines, vis-à-vis des règles classiques pour voir comment Boyer les traite dans *Ulysse*.
 
 
-### Décor et unité de lieu
+### Décor et unité de lieu.
 
 L'une des principales sources d'émerveillement dans les pièces à machines repose sur les changements de décors, très attendus par les spectateurs qui, comme le dit Rayssiguier, « veulent que l'on contente leurs yeux par la diversité & changement de la face du théâtre » [39]. Boyer le savait bien et dans *Ulysse* « La Scene est differente, selon les divers сhangemens des Machines », le décor a donc bien plus qu'un rôle ornemental, il est le principal élément spectaculaire de la pièce. Il est ainsi intéressant de voir comment ces changements sont opérés au fil de l'action. Le plus souvent, pour des questions pratiques, ils ont lieu entre chaque acte, les machinistes prennent ainsi le temps dont ils ont besoin pour mouvoir les différents décors et le bruit occasionné sera de cette manière en partie couvert par l'agitation du public ou par de la musique. Aussi, la plupart des pièces comportent-elles rarement plus de cinq décors différents, sans quoi il faut que le machiniste et ses aides soient assez doués pour les changer en un clin d'œil et dans une parfaite orchestration afin que l'illusion ne soit pas rompue ou gâchée. *Ulysse* sur ce point est donc une pièce assez ambitieuse puisqu'elle comporte huit changements de décor: le public aperçoit d'abord l'île de Circé où apparaissent Eole et les Sirènes à l'acte I, puis un jardin et l'antre du Sommeil à l'acte II, le palais de Circé à l'acte III, à l'acte IV les Enfers et un parc, et enfin à l'acte V, une forteresse, le vaisseau du traître Euriloche, Jupiter et le Soleil sur des nuages et Circé et Leucosie sur un char volant [40]. Trois changements avaient lieu au cours de trois actes différents et ils s'accomplissaient à l'aide de châssis coulissants qui respectaient la perspective et offraient au public, qui voyait les lieux se métamorphoser sous ses yeux, un spectacle saisissant. Dans *Ulysse*, il l'est d'autant plus que se succèdent dans le même acte des lieux à l'aspect totalement opposés : dans l'acte II surgit après un jardin l'antre sombre du Sommeil, à l'acte IV l'on passe des Enfers ténébreux à la clarté d'un parc et dans l'acte V d'une forteresse au vaisseau d'Euriloche. L'antre et les Enfers sont des lieux très prisés à cette époque et suscitent toujours une vive impression parce qu'ils désignent des lieux autrement impossible à voir, qui restent liés aux forces infernales. Ainsi, bien plus qu'un simple changement de point de vue, Boyer donne à voir des mondes inaccessibles au commun des vivants (seul Ulysse peut descendre vivant aux Enfers), et pour s'assurer du plaisir et de l'émerveillement de son public, il a eu l'habileté de lier à la multiplicité des lieux la juxtaposition de décors à l'aspect opposé : au décor plaisant se succède un décor effrayant et inversement. L'impression que procurent ces changements chez le spectateur est d'autant plus vive que, lors de la représentation, le machiniste soulignait le caractère effrayant des lieux infernaux par des variations de luminosité. L'éclairage était en effet un élément clé dans la décoration et les évocations infernales avaient toujours lieu dans le noir, Circé révèle ce jeu de clair-obscur propre aux pièces à machines quand elle déclare au Sommeil :
 
@@ -440,7 +440,7 @@ ce qui ne doit point changer, c'est le sol de la scène ; mais le fond et les c
 Il en ressort que seul le changement de lieu est invraisemblable et peu convenable mais que toute métamorphose d'un même lieu, qui est seulement un changement d'aspect de ce lieu, est acceptable. Dans *Ulysse*, ce précepte n'est pas respecté puisque le « sol de la scène » change selon que les personnages se trouvent dans un jardin ou dans le palais, bien plus encore quand ils descendent dans l'antre du Sommeil ou dans les Enfers. Ainsi, la règle de l'unité de lieu est la plus ignorée dans *Ulysse*, mais encore une fois l'on peut constater que la multiplicité des lieux « conduit les rebondissements de l'intrigue » [42].
 
 
-### Machines et états d'âme des personnages
+### Machines et états d'âme des personnages.
 
 Les changements de décor ont une fonction principalement spectaculaire, parfois dramatique, auxquelles il faut ajouter une fonction métaphorique. La machine en effet a aussi comme fonction de rendre visible ce qui, sans elle, resterait invisible et pour reprendre les mots de C. Delmas, elle extériorise « les états-d'âmes en paysages » [43]. La machine actualise ainsi sur scènes les différentes métaphores et la représentation tout comme le texte acquiert plus de force.
 
@@ -467,14 +467,14 @@ Si mes soupçons ont mis un enfer dans mon cœur.
 La métaphore est pleinement actualisée à l'acte suivant et change de statut puisqu'elle devient visuelle et permet au spectateur de mieux envisager les tourments du héros. Bien plus qu'une figure poétique, la métaphore acquiert un nouveau statut dans la pièce à machines et participe à une expression plus forte et plus surprenante des sentiments des personnages. La machine est au service de l'extériorisation des passions et il s'agit grâce à elle de rendre visible ce qui restait jusqu'alors invisible et impalpable. Comme le suggère Hélène Visentin, le texte devient « non seulement performatif mais aussi démonstratif » et c'est aux Enfers, à la scène 2 de l'acte IV, qu'Ulysse laisse éclater sa douleur alors qu'il avait jusque là fait preuve d'une certaine maîtrise de ses passions. Le « gouffre d'horreur » qu'il évoque peut à la fois symboliser les Enfers où il est descendu (comme pour Circé le mouvement est dirigé vers le bas, tandis qu'à l'acte V Circé dans son char rejoint les hauteurs) mais aussi le gouffre de l'amour malheureux. De même, quand Sisyphe lui annonce que le crime de son épouse est si grave qu'elle se trouve dans le pire des appartements des Enfers, l'on voit encore que le lieu extériorise les états d'âme des personnages. La métaphore n'a donc plus seulement un rôle poétique, elle crée une analogie entre des référents distincts pour donner à voir le spectacle des passions et les états d'âme des personnages.
 
 
-### *Decorum* et magie du spectacle
+### *Decorum* et magie du spectacle.
 
 Un autre élément qui suscite l'émerveillement du public est le *decorum* qui complète la richesse des décors. Ce terme désigne non pas seulement les costumes qui pouvaient être richement ornés, mais tout ce qui accompagne les manifestations magiques ou surnaturelles. Ce *decorum* parce qu'il est présent dans la plupart des pièces à machines s'est peu à peu codifié notamment en ce qui concerne l'apparition des divinités. Les machines, en effet, n'avaient pas pour seule fonction d'opérer des changements de décor mais, étaient aussi le moyen privilégié pour transporter les dieux. Elles n'apparaissent alors plus comme les seules auxiliaires de l'action et introduisent aussi le merveilleux. Il faut noter que dans cet usage elles répondent à un souci de bienséance. Il était en effet inconcevable à cette époque de faire apparaître un dieu sur scène de la même façon qu'un humain. Il fallait marquer la différence de sorte qu'il était courant de faire apparaître les dieux sur un char ou sur une nuée. C'est le cas pour Jupiter qui est « assis sur une grosse nuée » puis sur « son aigle », pour le Soleil qui est « dans une nuë » tandis que les humains se déplacent à pied ou en vaisseau. Dans le même acte, Circé apparaît elle aussi sur une machine, un « char volant », qui est l'un des moyens de transports privilégiés dans les pièces à machines. Sur ce point, Pierre Francastel [44] rappelle l'importance du char qui reste un symbole de puissance et de victoire. Le char actualise visuellement la puissance triomphante de Circé qui a retrouvé sa gloire, tandis que durant toute la pièce, jusqu'à la scène 9 de l'acte V, elle s'était toujours déplacée à pied, son statut ambigu de femme-déesse le permettant. Eole, quant à lui, entre en scène avec moins d'apparat puisque Périmède le voit descendre du ciel et qu'une didascalie indique ensuite qu'il « s'envole, et emmeine les vents avec luy. », il reste cependant impressionnant de voir le premier personnage entrer sur scène par la voie des airs et la simplicité de son apparat s'explique par sa qualité : en tant que dieu du Vent, il peut s'envoler de lui-même sans l'aide d'un char qui eût été bien superflu. Malgré tout, il existe une hiérarchie divine qui détermine le *decorum* qui accompagne les dieux. Celui-ci varie selon leur puissance c'est pourquoi, l'apparat de Jupiter est bien plus impressionnant que celui de Circé, d'Eole ou du Soleil. Il reste que le déplacement magique des dieux est à chaque fois impressionnant aux yeux du public car il est révélateur de leur pouvoir et de leur emprise sur un espace qu'ils contrôlent.
 
 Mais, les dieux ont aussi d'autres attributs tout aussi surprenants que leur mode d'apparition. Dans *Ulysse*, Jupiter détient les plus remarquables et fait que la scène se couvre d'un ciel orageux d'où surgissent des éclairs et le tonnerre, la scène est spectaculaire à la fois pour les yeux et pour les oreilles comme le souligne Leucosie aux vers 2025 et 2026. Non seulement ces vers constituent des didascalies internes mais aussi, par le fait même qu'ils soient prononcés, ils contribuent à augmenter l'émerveillement du spectateur encouragé par l'émerveillement des personnages eux-mêmes. La machine actualise donc la dimension spectaculaire du texte mais le texte est aussi au service du spectaculaire. Le texte, en même temps qu'il donne des indices de représentation la double, et le discours prend lui-même en quelque sorte une fonction décorative à des fins expressives. Le texte théâtral contribue à augmenter la dimension spectaculaire, notamment lorsque la portée de la magie est invisible aux yeux du public, c'est le cas pour le charme que jette Circé à Euriloche et Elpenor. Celle-ci ne dispose que de sa baguette magique pour signaler qu'elle jette ou finit un sort et son tour de magie est alors effectif grâce au texte théâtral puisque seul Elpenor voit en Euriloche sa maîtresse, Euriloche sur scène n'ayant pas changé d'apparence. Si bien que c'est par le seul biais des propos d'Elpenor que le public peut mesurer le pouvoir de Circé et que son charme merveilleux peut avoir de l'effet sur les spectateurs. Le merveilleux est présent de différentes façons sur scène et varie selon les dieux mais, lorsque la représentation peut faire défaut le texte vient à son secours.
 
 
-### Spectacle et texte
+### Spectacle et texte.
 
 Lors de la représentation d'une pièce à machines, le public reste davantage fasciné par ce qu'il voit, les machines retiennent toute leur attention et les dramaturges en ont bien conscience. C'est pourquoi on leur a souvent reproché de négliger le texte au profit des seuls effets visuels. À ce propos, Corneille dans l'« Argument » d'*Andromède* déclarait :
 
@@ -484,7 +484,7 @@ Souffrez que la beauté de la représentation supplée au manque de beaux vers �
 Si Boyer a le même dessein, l'on constate qu'il vise aussi à toucher le public par la force des vers et du « raisonnement » si bien que s'opère dans *Ulysse* ce qu'Hélène Visentin appelle un « spectacle du discours » [45], parfois actualisé sur scène, nous l'avons vu, d'autres fois non. Le spectacle se veut total dans *Ulysse* si bien qu'il convoque tous les sens.
 
 
-#### Magie du chant
+#### Magie du chant.
 
 À la scène 2 de l'acte I, Eole apprend à Périmède que
 
@@ -501,7 +501,7 @@ Les paroles qui se chantent étant mal entendues des auditeurs, pour la confusio
 La chanson de Circé vise peut-être principalement à détourner l'attention du public du brouhaha des machines, mais il reste que Boyer lui a donné un rôle important puisqu'elle annonce le retour d'Ulysse, dû à la magie de Circé. Ainsi elle n'a pas une unique fonction décorative, contribuant même à l'expression d'une tonalité pathétique que l'on trouve aussi dans la chanson des Sirènes.
 
 
-#### L'hypotypose ou la « machine rhétorique [49] »
+#### L'hypotypose ou la « machine rhétorique [49] ».
 
 D'un point de vue stylistique, la figure la plus répandue dans les pièces à machines est l'hypotypose, figure de spectacularisation par excellence puisque grâce à elle, « L'affaire semble se dérouler et la chose se passer sous nos yeux » [50]. Souvent le texte est actualisé dans la représentation par la machine et cet effet de « double » ne vise qu'à rendre la scène plus spectaculaire. Dans *Ulysse*, l'hypotypose a un traitement spécial dans le sens où elle n'est pas toujours doublée par la scénographie et qu'elle demeure alors un « spectacle du discours », selon les termes d'Hélène Visentin, et entraîne, selon ceux de C.Kintzler dans *La Poétique de l'opéra français*, un « merveilleux de suggestion » [51]. Tel est le cas de la plupart des hypotyposes d'*Ulysse* et leur non actualisation s'explique par plusieurs raisons : comme nous l'avons évoqué plus haut il est impossible sinon très difficile, aussi doué que soit le machiniste, de représenter sur scène le bouleversement du monde dont Circé fait mention à deux reprises : d'abord à la scène 6 de l'acte II puis à la scène 1 de l'acte III. C'est pourquoi ces évocations de ne sont jamais au présent (de l'action) et ces visions chaotiques sont rapportées d'abord dans un récit au passé où les images spectaculaires se succèdent à un rythme soutenu, secondé par l'anaphore « J'ay fait » et les autres verbes au passé composé. Le passé permet d'éviter l'actualisation des propos tout en donnant à voir mentalement le spectacle du monde bouleversé par la puissance de Circé. Un seul de ces charmes a cependant été éprouvé par le public : c'est celui qui a permis le concert des Sirènes mais l'évocation fonctionne à rebours, elle n'est qu'un rappel et non une préfiguration bien qu'elle recherche le même effet : impressionner un public qui doit croire à l'effectivité des propos de Circé. Il en est de même pour la seconde démonstration de thaumaturgie où Circé clame à Ulysse qu'elle peut engendrer le désordre des éléments. Le rythme est toujours aussi soutenu, afin de rendre l'effet plus important, mais cette fois l'on est dans le possible et le futur, si Ulysse répond par l'affirmative à ses demandes, Circé fera une démonstration de sa puissance, dont la seule évocation peut susciter la frayeur en même temps que l'admiration des spectateurs. La démonstration n'aura pas lieu puisque Ulysse lui demande de le faire descendre dans les Enfers. L'hypotypose se veut aussi saisissante dans toute la pièce où elle apparaît toujours liée à de vives émotions et plus l'émotion ─ qu'elle soit amour, haine ou dépit ─ est intense plus l'hypotypose sera saisissante et touchera le public, de pitié ou d'effroi. Ainsi, à la scène 3 de l'acte IV, le spectateur découvre en même temps qu'Ulysse le portrait que fait Sisyphe de Pénélope morte. Hyperbolique et dominé par le champ lexical de l'horreur et de l'effroi, ce portrait présente un contraste antithétique avec celui de la Pénélope vivante et, comme le dit lui-même Sisyphe, il ne peut que « nous combler d'horreur » . Sisyphe, par le biais de l'hypotypose, donne à voir à Ulysse et au public « tout ce qu'a l'Enfer et d'horrible et de noir » et le spectacle de la mort est saisissant (cette hypotypose sera étudiée plus en détail dans la partie sur l'esthétique baroque) . Nous retrouvons la même violence dans les images suscitées par Circé au début de la scène 2 de l'acte V, quand elle évoque rapidement les différentes manières dont elle aurait pu faire périr Ulysse. Elles sont aussi violentes que l'est la douleur de Circé et permettent de faire voir concrètement au spectateur l'ampleur de sa souffrance. Le texte conserve donc un rôle important pour susciter les émotions du public, il n'est pas sacrifié au spectacle.
 
@@ -524,10 +524,10 @@ Les deux dimensions – texte et représentation – s'articulent dramatiqueme
 et inversement, de sorte que, par cette tension entre le verbe et le spectacle, entre le donner à entendre et le donner à voir, qu'illustre bien la figure de l'hypotypose, se produit un effet d'amplification et que le spectacle devient total, sans pour autant laisser de côté les possibilités dramaturgiques.
 
 
-## La machine et ses enjeux
+## La machine et ses enjeux.
 
 
-### Machines et *captatio benevolentiae*
+### Machines et *captatio benevolentiae*.
 
 Avant que la machinerie n'intervienne dans toute l'action, le recours aux machines était surtout fréquent dans les prologues et dans le dénouement, les dramaturges, conscients des potentialités de la machine à ces moments « stratégiques » de l'action, conservent souvent ce schéma. *Ulysse* s'ouvre donc avec un début machiné qui garantit d'entrée de jeu le spectaculaire par la mer agitée et la présence d'Eole et de ses vents, tous probablement dotés d'ailes pour signifier aussitôt qui ils sont. Boyer par un bel effet de mise en scène cherche dès les premiers vers à séduire son public et par là à attirer son attention. Rappelons qu'à cette époque, le public était distrait et bruyant et qu'il fallait que la scène d'exposition soit assez efficace pour parvenir à obtenir son attention, les machines remplissent donc la fonction du *captatio benevolentiae*. Boyer ne compte pas sur la seule mise en scène pour obtenir l'attention du public et il l'invite même, par le biais des propos d'Eole, à faire le calme afin de pouvoir assister au spectacle:
 
@@ -542,7 +542,7 @@ la voix est une des manifestations les plus sensibles de l'art de la magicienne 
 Telle Circé qui, par ce concert, veut séduire ses hôtes, Boyer cherche, non seulement par les charmes la mise en scène mais aussi par les charmes de belles voix à séduire son public. Si bien qu'il est possible de voir dans les deux premières scènes les réminiscences du prologue qui fait office de *captatio benevolentiae*, Eole donne en effet peu de renseignements sur l'intrigue, il s'en tient au nécessaire et à l'éloge d'Ulysse, laissant ce soin aux personnages qui interviennent dès la scène 3 et fournissent jusqu'à la fin de l'acte I tous les éléments nécessaires à la compréhension de l'intrigue. Malgré tout, Eole donne des informations importantes et le recours à la machinerie n'a pas pour unique but de retenir l'attention du public par la beauté de la représentation. Eole apprend ainsi au public qui est Périmède et les raisons de sa présence sur scène, informations capitales qui permettent au public de ne pas être perdu dans ce début *in medias res*. Mais surtout l'intervention d'Eole donne un certain dynamisme à la scène et empêche que l'exposition, du moins les premières scènes, soit trop artificielle. En effet, ce face à face du dieu et de Primède permet d'éviter dans un premier temps le schéma où l'un des personnages raconte à un autre des évènements passés que ce dernier sait déjà, uniquement dans le but d'informer le spectateur, comme le dit J. Scherer [56], ce type d'exposition est peu « vraisemblable » et révèle aussitôt son artificialité. Tout l'intérêt de Périmède réside donc en partie dans le fait qu'il est dans la même situation que le spectateur [57], tout juste naufragé sur une île, il ne sait pas, jusqu'à ce que Eole le lui dise, qu'il est dans l'île de Circé où séjourne depuis un an celui qu'il recherche. Périmède l'apprend donc en même temps que le spectateur ce qui enlève à la scène toute artificialité et même toute invraisemblance, les dieux intervenant couramment dans les oeuvres homériques pour informer les humains. L'intervention d'Eole dès la première scène permet une ouverture dynamique, accentuée par le mouvement des flots agités, on le voit courroucer ses vents puis dialoguer avec Périmède qu'il engage à agir sous peu. Ulysse arrive provoquant le départ du dieu et l'action à proprement parler peut débuter. Boyer utilise donc tous les ressorts de la machine afin de former le début d'une exposition particulièrement efficace à captiver le public.
 
 
-### Dénouement par *deux ex machina* et portée morale
+### Dénouement par *deux ex machina* et portée morale.
 
 Le dénouement d'*Ulysse* a souvent retenu les esprits parce qu'il est une apothéose d'effets spectaculaires. Avant d'évoquer le recours au *deus ex machina*, il faut noter que le dénouement de la pièce s'opère en deux temps : il concerne d'abord Ulysse qui parvient par son adresse rhétorique à convaincre Circé de le laisser partir. Ce dénouement reste assez classique et diffère bien de celui qui est engagé dès la scène 4 quand Leucosie annonce la mort d'Elpenor et l'enlèvement de Phaëtuse par Euriloche. Ulysse apparaît sur scène pour la dernière fois à la scène 5 et les sept autres scènes sont centrées sur Euriloche et les filles du Soleil dont il faut aussi fixer le sort pour que la pièce finisse. C'est alors qu'intervient dans les toutes dernières scènes la machine afin de débloquer l'action. Le dénouement par *deus ex machina* était vivement condamné par les théoriciens. En effet, pour eux il ne relevait pas de la nécessité mais du hasard et ne découlait pas de la bonne ordonnance de l'action. Le *deus ex machina* serait donc la preuve d'une faiblesse du dramaturge ce qui n'est pas le cas de celui d'*Ulysse*. Il faut en effet rappeler que, quelles que soient les modifications apportées par Boyer, ce dénouement est appelé et donc justifié par la source elle-même où Euriloche mourait déjà foudroyé par Jupiter. En outre, l'intervention du dieu a été en quelque sorte préparé au cours de la pièce par les propos de Sisyphe qui apostrophait à la scène 1 de l'acte IV Jupiter comme l'exécuteur de la justice et des châtiments, de telle sorte qu'il apparaît peu surprenant voire légitime qu'il intervienne pour rendre justice à Phaëtuse et punir Euriloche alors que les hommes ne le pouvaient plus. De la même façon, la manière dont périt Euriloche avait elle aussi été évoquée un peu plus tôt par Circé, quand elle déclarait que
 
@@ -571,12 +571,12 @@ C'est comme il faut agir, si tu veux m'imiter.
 Le projet d'édification morale est bien énoncé et il s'agit de donner un modèle de justice que chacun se doit d'exercer avec la même grandeur que Jupiter. La présence des dieux permet de déployer un discours moral (notons que déjà à la scène 2 de l'acte I, Eole se montrait quelque peu moralisateur face à Périmède aux vers 27-30) et de fait ce dénouement montre que la machine ne privilégie pas toujours le *placere* au *docere* et va même parfois dans le sens de l'*utile dulci*. Elle se dote d'une valeur symbolique forte et grâce à elle, le dramaturge peut espérer, en magnifiant son spectacle, toucher davantage les émotions du public et par là même son esprit.
 
 
-# Une tragi-comédie des passions
+# Une tragi-comédie des passions.
 
 Nous avons tenté de montrer que les machines ont une place majeure dans l'action d'*Ulysse* néanmoins, le véritable moteur de l'action demeure la passion et les machines lui restent subordonnées. Ainsi, s'il est question de magie dans *Ulysse*, magie de Circé et magie du spectacle, l'intrigue s'ordonne autour de cette passion puissante qu'est le charme amoureux. L'histoire homérique est métamorphosée en intrigue amoureuse et Boyer a inséré les personnages de l'*Odyssée* selon le schéma bien connu de la chaîne amoureuse. Dans *Ulysse**,* cette chaîne est dédoublée : d'une part nous avons la chaîne formée autour du héros : Circé aime Ulysse qui aime Pénélope et en est toujours aimé, pour lui l'unique enjeu est de parvenir à la retrouver tandis que Circé tente par tous les moyens de se faire aimer d'Ulysse et d'empêcher son départ. D'autre part nous découvrons une chaîne typique, formée par les quatre autres personnages principaux : Leucosie aime Euriloche qui aime Phaëtuse qui aime Elpenor et en est aimée. Ainsi, non pas une chaîne mais deux, dont les aléas de chacune influent sur le devenir de l'autre si bien que l'action reste dans une certaine mesure unifiée puisque les deux intrigues sont étroitement liées. Elles le sont notamment par l'intervention d'Euriloche, qui a un rôle déterminant dans la mise en place du nœud, en tant que confident d'Ulysse, il apprend son désir de rentrer à Ithaque, désir périlleux mais qui n'empêche pas Euriloche de le trahir auprès de Leucosie. Circé, informée en coulisse par sa sœur qu'Ulysse veut rejoindre Pénélope, est alors en proie au désespoir et à la mélancolie et c'est sa passion insatisfaite qui détermine une partie des péripéties de la pièce. De la même façon, Euriloche a un rôle clé dans sa chaîne puisqu'il utilise Leucosie afin de séparer Phaëtuse de son rival. Aimé d'elle il feint un amour réciproque (I, 6) pour mieux la manipuler quand il se rend compte qu'il s'est perdu auprès de Phaëtuse (II, 3) . C'est ainsi grâce à la passion aveugle de Leucosie qu'Euriloche parvient à ses fins. À l'origine de tous ces nœuds est la décision d'Ulysse, elle-même motivée par l'amour conjugal et la douleur de la séparation puisque c'est la réception d'une lettre de Pénélope qui ravive son amour et le décide à partir. L'amour est donc le moteur de l'action, les passions motivent l'action ou l'entravent (la passion de Circé retarde le retour d'Ulysse) et celle-ci est organisée par les différentes chaînes d'amoureux qui le plus souvent suivent leurs passions. Leurs passions et non leur passion car de fait, l'amour n'est pas la seule passion représentée dans *Ulysse*. À l'amour viennent s'ajouter l'ambition, l'orgueil, la haine et la jalousie qui entraînent la vengeance. Les personnages sont différemment soumis à ces passions selon leur caractère mais aussi selon leur position dans la chaîne. L'on constate toutefois que tous se réclame de leur gloire qu'il se refuse à laisser être offensée. Boyer illustre dans *Ulysse* différentes façons de se laisser aller à la passion et il s'agit à présent d'étudier la manière dont Boyer exploite le traitement des passions et des caractères afin d'illustrer comment la passion peut transformer l'*ethos* d'un personnage.
 
 
-## Amour et galanterie
+## Amour et galanterie.
 
 Comme de nombreux dramaturges, Boyer n'échappe pas à l'influence d'une conception galante de l'amour, issue des discussions qui avaient lieu dans les salons. La grandeur du héros et même son héroïsme se mesurent à présent à sa faculté de servir et d'aimer selon des lois sa maîtresse, érigée en déesse. Le ton galant est donné dès le début de la pièce avec la lettre de Pénélope où apparaît l'expression d'une nouvelle conception de la gloire :
 
@@ -617,7 +617,7 @@ Tout l'honneur d'un amant est dans l'obeissance,
 et si ce vers est prononcé par Euriloche il pourrait constituer une maxime galante qu'Elpenor satisfait quand, pour éviter un affrontement trop violent entre les deux rivaux, Phaëtuse lui demande de quitter la scène, ce qu'il exécute sans trop de résistance. Ainsi, parce qu'il est fidèle à la volonté de sa maîtresse, Elpenor n'agit pas et n'influence pas la progression de l'action : c'est Phaëtuse qui se chargera de venger l'affront qui lui est fait et il n'aura plus à reconquérir le pouvoir pour sa bien-aimée puisque Circé le lui rend d'elle-même (Phaëtuse refuse ce don par reconnaissance et car éprise d'un amour absolu elle n'est soumise à aucune sorte d'ambition) . De même quand Elpenor voudra tuer celui qu'il croit son rival il ne le pourra pas puisque sous l'emprise du charme de Circé Euriloche apparaît à lui sous les traits de Phaëtuse. Elpenor est donc toujours soumis à des forces qui l'empêchent d'agir mais la principale reste l'amour et la dévotion à sa maîtresse. À l'inverse Phaëtuse, qui est loin de l'image de la jeune fille réservée, se révèle des plus passionnées (l'on retrouve notamment la description du coup de foudre aux vers 413-416, très courant dans les tragi-comédies où il est la plupart du temps soudain et irrésistible) . À deux reprises dans la pièce, elle exprime avec fierté le pouvoir qu'elle a de venger les offenses faites à son amant : d'abord à la scène 3 de l'acte II quand elle ne veut pas risquer de le perdre, puis à la scène 6 de l'acte V quand Elpenor est mort par les coups d'Euriloche (v. 1926-1928) . Elpenor tout au long de la pièce apparaît comme le parfait amant galant, qui jusqu'au dernier souffle ne pense qu'à sauver Phaëtuse, au point que « nul ne peut dignement / Apres un tel heros se dire son amant » (v. 2065-2066) .
 
 
-## Passion et tyrannie
+## Passion et tyrannie.
 
 Si Elpenor est un personnage qui n'agit pas, au contraire Euriloche, son rival est l'un des moteurs de l'action. Pourtant, ils ont la même résolution de rendre le pouvoir à Phaëtuse, et l'écart entre les deux s'explique par le fait qu'ils ne sont pas soumis aux passions de la même façon ni surtout aux mêmes passions. Euriloche se montre à la fois épris d'amour pour Phaëtuse et pour le pouvoir qu'il compte atteindre par le mariage avec l'héritière légitime :
 
@@ -660,7 +660,7 @@ Vivons sans passions, et Reynes de nous-mesmes.
 Circé que l'on pouvait rapprocher d'Euriloche par ses artifices s'en éloigne donc tout à fait, notamment parce que leur *ethos* n'a pas la même grandeur, chacun correspondant à un type bien défini, tandis que Circé était seulement « égarée » Euriloche reste par essence le traître et rival perfide.
 
 
-## L'amour et le tragique
+## L'amour et le tragique.
 
 Circé est le personnage qui a les trois plus longs monologues de la pièce (II, 6 ; IV, 6 et V, 2), placés non pas à la fin des actes ils donnent matière à l'action, du moins renseignent sur les intentions de Circé et par là contribuent à accroître la tension dramatique. Ainsi dans le premier elle explique comment elle compte reconquérir Ulysse puis elle s'affirme prête à le tuer s'il ne tient pas sa promesse, le spectateur sachant qu'Ulysse au courant de l'artifice est déterminé à partir ne peut que trembler face aux propos de Circé qui, en outre croissent en violence dans le dernier monologue qui conclut par « Il faut mourir » . Comme ceux d'Euriloche, les monologues de Circé révèlent ses doutes et ses tergiversations sur les actes qu'elle s'apprête à faire et qui la font déchoir du haut rang qu'est le sien. Circé sait que ses artifices sont infamants et qu'ils nuisent à sa gloire : « A quoy me reduis-tu / Amour qui vas trahir ma gloire et ma vertu ? », mais elle décide finalement à chaque fois de suivre ses passions. C'est de cette division intérieure constamment révélée par les monologues (où elle est souvent exprimée par les nombreuses apostrophes que Circé fait à elle-même et à sa passion personnifiée ou quand au plus fort de son désespoir elle invoque les dieux) que naît peu à peu le tragique jusqu'au moment où ayant conscience de la honte qu'elle inflige à son rang elle demande un bref instant la mort à son père (v. 1425-1434) . En outre, ces doutes sont importants dans le sens où c'est par l'idée même de gloire et des valeurs de hiérarchie sociale qu'Ulysse parvient finalement à la convaincre de renoncer à son amour :
 
@@ -679,7 +679,7 @@ Je descens aux souspirs, je descens jusqu'aux larmes.
 La rime charmes/larmes, permise par la métaphore filée de l'amour-charme magique, devient une rime clé de la pièce et s'applique à Circé mais aussi aux autres personnages qui ressentent le désespoir amoureux. La magie a ses limites si bien que le sentiment d'échec est constant dans toute la pièce et même quand Circé pense avoir reconquis Ulysse le doute s'installe malgré elle (v. 1460-1464) laissant à nouveau place au désespoir. Le tragique de la pièce est celui de l'échec de la toute puissance et il se nourrit de ce sentiment paradoxal d'impuissance qui accroît le pathétique à mesure que se confirme l'échec de Circé. Aussi à l'acte IV tout le pathétique éclate quand Circé qui n'a malgré tout pas perdu le sentiment de sa gloire (v. 1445-1452) la rejette, persuadée qu'elle va enfin connaître le bonheur d'être aimée (v. 1419-1424), alors que celui-ci apparaît définitivement vain. La tonalité tragique de la pièce naît donc en partie de la confrontation entre charme magique et charme amoureux dont le premier ne parvient à triompher du second et les monologues de Circé permettent ce passage du merveilleux au tragique.
 
 
-# L'esthétique baroque dans Ulysse
+# L'esthétique baroque dans Ulysse.
 
 Cette démesure des passions qui dévorent les personnages est l'une des marques de l'esthétique baroque et A. Cioranescu constate que « dans l'ensemble le théâtre baroque mise sur le jeu symétrique des sentiments contrariés », observé dans *Ulysse* grâce au principe de la chaîne amoureuse. Généralement le genre tragi-comique et les pièces à machines sont associés au mouvement baroque à l'opposé de la tragédie plutôt liée au classicisme. S'il ne faut pas établir des catégories trop étroites, il faut néanmoins reconnaître que ces deux genres se prêtent le mieux à exprimer les grandes thématiques du baroque qui, comme ces deux genres, « se complaît dans l'irrégulier » [58]. D'un côté les machines sont les plus aptes à suggérer le mouvement et la multiplicité des apparences qui ne peuvent être perçus que par les sens, de même que l'importance du décor dans les pièces à machines s'accorde avec l'importance donnée par les auteurs baroques à l'architecture et au passage du statique au dynamique. D'un autre côté la tragi-comédie par les multiples rebondissements qu'elle admet permet de mieux représenter les changements de fortune que peuvent subir les personnages et proposer ainsi un dénouement bien différent de la situation initiale. Mais le baroque est aussi un art des images où l'on tente de tout traduire en éléments visuels si bien que la distinction entre l'extérieur et l'intérieur tend à s'amenuiser et à se confondre, nous avons tenté de le montrer plus tôt avec le traitement de l'hypotypose et la valeur symbolique des changements de décor qui participent de cette esthétique. L'esthétique baroque qui donne une place importance aux sens s'accorde alors parfaitement avec la dramaturgie des pièces à machines qui privilégie le visuel et de manière plus large le spectacle. Aussi ces pièces proposent souvent un monde de métamorphoses commandé par Circé ou ses représentants, comme l'a précisé Jean Rousset dans *La littérature de l'âge baroque en France* où le premier chapitre de son livre est consacré à la magicienne qu'il caractérise ainsi :
 
@@ -705,7 +705,7 @@ Fasse aux siècles futurs adorer sa vertu.
 Mais il reste que la pièce peut aussi illustrer l'image du héros négatif et menteur. Cette double image d'Ulysse s'intègre parfaitement dans la perspective d'une esthétique baroque, où rien n'est jamais fixé et où l'illusion et la métamorphose de la réalité ne sont plus seulement produites par la magie de Circé mais aussi par l'art oratoire d'Ulysse.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il existe une seule édition d'*Ulysse dans l'isle de Circé, ou Euriloche foudroyé* achevée le premier décembre 1649 à Paris par Toussainct Quinet [65] avec la date de 1650 sur la page de titre. Nous ne connaissons que six exemplaires de cette édition qui présentent quelques différences du point de vue de la pagination et de la ponctuation. Trois exemplaires se trouvent à la bibliothèque de l'Arsenal :
  * – un premier dans le fonds Douay : cet exemplaire in-4°, référencé GD-45481, comporte une erreur de reliure et la pagination erronée s'effectue dans l'ordre suivant : pp 56-57-62-63-60-61-58-59-64 ;
@@ -741,7 +741,7 @@ Le texte de la pièce est précédé d'un rappel partiel de titre placé entre d
 À la page 38 dans le titre courant “Ulisse” n'apparaît pas suivi de la virgule jusque-là présente, à la page 39 le 3 est mal imprimé et est inversé vers la droite.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons reproduit le texte de l'exemplaire original choisi en apportant quelques modifications d'usage quand elles s'avéraient nécessaires pour la bonne compréhension de l'œuvre ou quand elles choquaient trop la grammaire et l'orthographe actuelles :
  * – nous avons décomposé les voyelles nasales surmontées d'un tilde par l'ajout d'une consonne appropriée après la voyelle anciennement nasalisée ;
@@ -768,20 +768,20 @@ Un astérisque ⁎ à la fin d'un mot renvoie au glossaire situé à la fin de l
 La page 131 de l'édition comporte après la fin de la pièce une liste des *Fautes importantes de l'impression*, nous avons directement fait les corrections des fautes relevées dans le texte de notre édition.
 
 
-## Liste des rectifications et des coquilles
+## Liste des rectifications et des coquilles.
 
 Nous donnons ici la liste des coquilles qui ont fait l'objet de correction. Nous mentionnons d'abord le terme du texte original puis la correction apportée.
 
 
-### Dans l'épître
+### Dans l'épître.
 
 Cet Uylsse : Cet Ulysse (page III)
 
 
-### Dans le texte
+### Dans le texte.
 
 
-#### Acte I
+#### Acte I.
 
 v. 30 : Eut : Eût
 
@@ -810,7 +810,7 @@ v. 371 : ou : où
 v. 378 : D'unir ce, : D'unir ce
 
 
-#### Acte II
+#### Acte II.
 
 v. 475 : a : à
 
@@ -857,7 +857,7 @@ v. 835 : cét : cet
 v. 847 : Fais-là : Fais-la
 
 
-#### Acte III
+#### Acte III.
 
 v. 855 : liste des personnages : EURILOCHE, : EURILOCHE.
 
@@ -906,7 +906,7 @@ v. 1162 : traite ; : traite,
 v. 1170 : cét : cet
 
 
-#### Acte IV
+#### Acte IV.
 
 v. 1229 : de : des
 
@@ -943,7 +943,7 @@ v. 1593 : amitié. : amitié
 v. 1640 : issuë : issuë.
 
 
-#### Acte V
+#### Acte V.
 
 v. 1652 : D'y : dis
 
@@ -1047,12 +1047,12 @@ La Scene est differente, selon les divers changemens des Machines.
 ## ACTE I.
 
 
-## ULISSE [71] DANS L'ISLE DE CIRCÉ
+## ULISSE [71] DANS L'ISLE DE CIRCÉ.
 
 
 ### SCENE PREMIERE.
 
-    ÆOLE *parlant aux vents dans une mer agitée où paroist le debris d'un vaisseau.*
+    ÆOLE *parlant aux vents dans une mer agitée où paroist le debris d'un vaisseau.*.
 Enfans tumultueux des vapeurs de la terre,  
 Qui balancez les airs d'une immortelle guerre ;  
 Qui trainant apres vous le desordre et l'horreur,  
@@ -1112,7 +1112,7 @@ Tâche de l'aborder.
     PERIMEDE.
         Dieux ! par quel sacrifice…  
 
-    ÆOLE *l'interrompant.*
+    ÆOLE *l'interrompant.*.
 Aeole doit ces soins⁎ à la gloire d'Ulisse ;  
 A Penelope… il vient. Acheve ton employ.  
 Zephir demeure icy. Vous autres suivez moy.  
@@ -1124,7 +1124,7 @@ Aeole s'envole, et emmeine les vents avec luy.
 ULISSE, EURILOCHE. Suite. PERIMEDE.
 
 
-    ULISSE *parlant à un suivant de Circé.*
+    ULISSE *parlant à un suivant de Circé.*.
 Vostre Reyne aujourd'huy se fait beaucoup attendre ;  
 J'ay crû qu'elle seroit la premiere à s'y rendre,  
 Pour jouïr [81] d'un concert si remply de douceur,  
@@ -1139,7 +1139,7 @@ Prestent un air tranquille au doux chant des Syrenes.
 
 ### SCENE IV.
 
-    ULISSE *continuë.*
+    ULISSE *continuë.*.
 Hé bien, cher compagnon de tant de maux⁎ soufferts  
 Echapé aux perils courus sur tant de mers  
 Que ces beaux jours sont doux, qui suivent tant d'orages !  
@@ -1201,7 +1201,7 @@ Ressent ce que tous deux souffrent pour sa moitié ; [89]
 Mais sa forte douleur se fera mieux cognestre      
 Par les traits⁎ qu'elle-mesme a peints dans cette lettre. [90]  
 
-    ULISSE *prenant la lettre.*
+    ULISSE *prenant la lettre.*.
 Quel estrange surprise, et quel trouble soudain  
 De l'esprit et du cœur passent jusqu'à ma main !  
 Que vous allez jetter de soucis⁎ dans mon ame,  
@@ -1320,7 +1320,7 @@ PHAETUSE, LEUCOSIE, Suite de Circé,
 Suite d'Ulisse.
 
 
-    CIRCÉ *à Ulisse.*
+    CIRCÉ *à Ulisse.*.
 Je l'advouë aujourd'huy, vous m'avez attenduë,  
 Mais tousjours cette ardeur⁎ ne m'a pas prevenuë⁎ :  
 Je la préviens⁎ souvent, et peut-estre mon cœur  
@@ -1359,7 +1359,7 @@ EURILOCHE, LEUCOSIE, PERIMEDE.
     EURILOCHE.
         Ils sont partis ; approche Perimede.  
 
-    LEUCOSIE *revenant sur ses pas à Euriloche.* 
+    LEUCOSIE *revenant sur ses pas à Euriloche.*. 
 Quoy vous ne suivez pas ? quel ennuy⁎ vous possede ?  
 Qu'est-ce ?  
 
@@ -1647,7 +1647,7 @@ Je rejette, et je fuis celle de mon devoir.  < Fin du premier Acte. >
 ELPENOR, PHAETUSE.
 
 
-     ELPENOR.
+    ELPENOR.
 La Scene est dans un jardin.
 
 Quand flatté⁎ d'un bonheur qui passe⁎ mon attente,  
@@ -1822,7 +1822,7 @@ Que l'orgueil que j'en prends devient trop legitime.
 EURILOCHE, ELPENOR, PHAETUSE.
 
 
-    EURILOCHE *à Phaëtuse.*
+    EURILOCHE *à Phaëtuse.*.
 Pardonnez si je romps un entretien si doux,  
 Le hazard en révant m'a mené jusqu'à vous.  
 
@@ -1830,7 +1830,7 @@ Le hazard en révant m'a mené jusqu'à vous.
 Puisque c'est le hazard qui nous est si contraire,  
 Vous pouvez par dessein nous quitter et luy plaire.  
 
-    EURILOCHE *à Phaëtuse.*
+    EURILOCHE *à Phaëtuse.*.
 Je treuve qu'il en use un peu bien librement.  
 Vous suis-je…  
 
@@ -1886,7 +1886,7 @@ Laisse si volontiers entre les mains d'une autre
 Le sceptre de ces lieux, que les Dieux ont fait vostre.  
 J'admire sa vertu⁎.  
 
-    ELPENOR *à Phaëtuse.*
+    ELPENOR *à Phaëtuse.*.
         Voyez à quels tourmens⁎  
 M'expose la rigueur de vos commandemens.  
 Que puis-je repliquer à cette raillerie ?  
@@ -1968,7 +1968,7 @@ Doit trembler au courroux de celles de ma race.
 
 ### SCENE IV.
 
-    EURILOCHE *seul.*
+    EURILOCHE *seul.*.
 Qu'ay-je fait imprudent ! [136] où me suis-je emporté ?  
 Est-ce là ce dessein que j'avois concerté ?  
 Mais Quel Amant⁎ eust pû supporter cette veuë ?  
@@ -2001,7 +2001,7 @@ Son amour abusée⁎ pourra me seconder.
 EURILOCHE, LEUCOSIE.
 
 
-     LEUCOSIE.
+    LEUCOSIE.
 Prince par cet abord par ce front plein de joye  
 Explique le bonheur que le Ciel nous enuoye. [138]  
 
@@ -2210,7 +2210,7 @@ Et vous faites pour moy plus que vous ne pensez.
 
 ### SCENE VI.
 
-    CIRCÉ *dans l'antre du sommeil.*
+    CIRCÉ *dans l'antre du sommeil.*.
 Foible et dernier secours, que mon amour lassée⁎  
 Oppose au desespoir dont elle est menacée ;  
 Quel succés à mes maux⁎ ay-je lieu d'esperer ?  
@@ -2700,7 +2700,7 @@ LEUCOSIE, PHAETUSE, ELPENOR.
     LEUCOSIE.
 Vostre Conseil ma sœur m'oblige [171] infiniment.  
 
-    ELPENOR *à Phaëtuse.* 
+    ELPENOR *à Phaëtuse.*. 
 Ah ! c'est trop consulter vostre ressentiment⁎.  
 Je cede au mien Princesse, et seur de ma disgrace  
 Je suis mon desespoir, sans que vostre menace  
@@ -2712,7 +2712,7 @@ D'immoler son rival⁎ Euriloche, à vos yeux.
 LEUCOSIE, PHAETUSE.
 
 
-     LEUCOSIE.
+    LEUCOSIE.
 Son rival⁎ ? Euriloche !  
 
     PHAETUSE.
@@ -2833,7 +2833,7 @@ Je consens d'en venir à toute extrémité.
 La Scene est dans l'Enfer.
 
 
-    SIZIPHE *seul.*
+    SIZIPHE *seul.*.
 Des [176] plus profonds cachots du centre de la terre  
 Je roule incessamment cette masse de pierre [177] ;  
 Mais je succombe enfin sous ce pesant fardeau ;  
@@ -2867,7 +2867,7 @@ Triomphe Jupiter, triomphe de ma peine⁎.
 
 ### SCENE II.
 
-    ULISSE *seul.*
+    ULISSE *seul.*.
 Dans quel gouffre d'horreur ta puissance m'entraine ?  
 Amour est-ce en ces lieux que je la doy chercher ?  
 Penelope est-ce icy que tu voudrois cacher  
@@ -3100,7 +3100,7 @@ Tu luy doy mille exploits, et ta fidelle amour
 Par elle doit encor triompher à son tour.      
 Adieu. [193]  
 
-    ULISSE *seul*. [194]
+    ULISSE *seul*. [194].
         Quels soins⁎ ? helas ! pourront sauver ma flame⁎  
 Des pieges, des fureurs⁎, des charmes⁎ d'une femme ?  
 Amour, par qui Circé dans ses lasches transports⁎  
@@ -3113,7 +3113,7 @@ Pour des vœux innocens faits de pareils miracles.
 La Scene est dans le parc.
 
 
-    CIRCÉ *seule chante.*
+    CIRCÉ *seule chante.*.
 Rare presant des Cieux merveilleuse puissance  
 Qui m'as fait consentir une si dure absence  
 Redonne Ulisse à mon amour.  
@@ -3214,7 +3214,7 @@ Ce que vous allez voir changera vostre cœur.
 
 ### SCENE VIII.
 
-    EURILOCHE *seul.*
+    EURILOCHE *seul.*.
 Je me pers, Perimede, ah ! non c'est trop d'audace.  
 Quand [198] Ulisse, Elpenor me quitteroient la place,  
 Quand je me promettrois de pouvoir quelque jour  
@@ -3282,7 +3282,7 @@ Perdez ce criminel ; justes Dieux vangez moy !
 Que [199] si ce changement vient de son inconstance  
 Quelque injuste qu'il soit laissez-le sans vengeance.  
 
-    PHAETUSE *à Circé.*
+    PHAETUSE *à Circé.*.
 Je ne puis me resoudre à le voir plus souffrir,  
 Madame.  
 
@@ -3325,10 +3325,10 @@ Plus son ingrate⁎ sœur me paroist inhumaine.
 Voyant que sa rigueur s'obstine à voir perir  
 Celuy que d'un seul mot elle peut secourir.  
 
-    PHAETUSE *à Circé.*
+    PHAETUSE *à Circé.*.
 Ah ! ma sœur.  
 
-    CIRCÉ *à Euriloche.*
+    CIRCÉ *à Euriloche.*.
         Il est temps que ce charme⁎ finisse.  
 Vous sçavez ce qu'on doit aux prieres d'Ulisse,  
 Embrassez⁎ Elpenor, certain que cette paix  
@@ -3357,7 +3357,7 @@ Elpenor vous voyez que l'on vous tend les bras.
     ELPENOR.
 A moy, Madame.  
 
-    EURILOCHE.  
+    EURILOCHE. 
     A vous.  
 (Circé frappe Elpenor de sa verge.)
 
@@ -3369,7 +3369,7 @@ A moy, Madame.
 Ah ! Princesse. Grands Dieux ! surprise espouventable !  
 Est-ce mon ennemy que je viens d'embrasser⁎ ?  
 
-    CIRCÉ *à Phaëtuse.*
+    CIRCÉ *à Phaëtuse.*.
 Vous excusez un coup dont il peut s'offenser.  
 
     ELPENOR.
@@ -3455,12 +3455,12 @@ Comment ?
 LEUCOSIE, EURILOCHE.
 
 
-    EURILOCHE *bas.* [203]
+    EURILOCHE *bas.* [203].
 Tout me perd, et je suis pour comble de douleur  
 Forcé de caresser et rire à mon malheur.  
 Ulisse est de retour, l'avez-vous veu Princesse ?  
 
-     LEUCOSIE.
+    LEUCOSIE.
 Je l'ay veu resolu de retourner en Grece ;  
 Emmener s'il se peut Elpenor avec luy,  
 Echapper à la Reyne.  
@@ -3549,7 +3549,7 @@ Fais le venir.
 
 ### SCENE II.
 
-    CIRCÉ *seule.*
+    CIRCÉ *seule.*.
 Mes charmes⁎ auroient pû faire perir Ulisse ;  
 Ouvrir dessous ses pas un gouffre, un precipice ;  
 Par la rage des vents deschirer son vaisseau ;  
@@ -3665,7 +3665,7 @@ Que de mourir vers vous suspect d'ingratitude⁎,
 Je ne suis pas fasché qu'abandonnant mes jours  
 Ma voix à mon honneur ait presté ce secours.  
 
-     CIRCÉ.
+    CIRCÉ.
 Ah ! c'en est trop. Soleil seconde ma foiblesse,  
 Heros digne en effet des vœux d'une deesse,  
 Plus digne encor des miens, daigne excuser en moy  
@@ -3939,7 +3939,7 @@ Favorise un vaisseau qui semble nous poursuivre.
 A quelques traits⁎ amy que mon amour me livre,  
 Je ne puis me resoudre à perdre un bien si cher.  
 
-    PHAETUSE *s'en allant.*
+    PHAETUSE *s'en allant.*.
 O ! Dieux.  
 
     PERIMEDE. 
@@ -4068,7 +4068,7 @@ Quel trouble ! quel esclat ! quel desordre ! quel bruit !
 
 ### SCENE X.
 
-    JUPITER *sortant du Ciel assis sur son aigle & lançant la foudre sur le vaisseau d'Euriloche s'adressant à Circé & à Leucosie.*
+    JUPITER *sortant du Ciel assis sur son aigle & lançant la foudre sur le vaisseau d'Euriloche s'adressant à Circé & à Leucosie.*.
 Nimphes voicy le coup qui vous fera justice  
 S'en retournant.
 
@@ -4132,7 +4132,7 @@ Et me sauve du feu, des flots et de l'orage.
 Allons de tant de soins rendre graces aux Dieux,  
 Toy prens place en mon char, et sortons de ces lieux.  
 
-    PHAETUSE *au Dauphin.*
+    PHAETUSE *au Dauphin.*.
 Va, mon liberateur, ainsi puisse ta vie  
 Des monstres de la mer eviter la furie⁎.  
 
@@ -4171,10 +4171,10 @@ Malgré nos recherches dans les différentes bibliothèques parisiennes, nous n'
 Le Théâtre François, depuis quelques années, est devenu si fameux par l'excellence des Ouvrages qui s'y représentent, et par la magnificence des Spectacles, qu'il semble que toute l'invention de l'esprit humain ne saurait porter la Comédie dans un plus haut point : de sorte que pour guérir de cette opinion tous ceux qui visitent ordinairement le Théâtre, il est très important de donner au Public une peinture des merveilles qui paroîtront le 27. Décembre 1648. dans la représentation d'*Ulysse dans l'isle de Circé, ou Euriloche foudroyé*, par la Troupe des Comédiens du Marais ; outre que pour la réputation de cette Piéce, il étoit nécessaire de détromper tous ceux qui confondent *Ulysse dans l'isle de Circé*, avec une vieille pièce intitulée, *Les Travaux d'Ulysse* …… La beauté de l'intrigue, l'excellence des vers, la réputation du Machiniste, et le nom de l'Auteur, qui s'est signalé par tous ses Ouvrages, et surtout par son dernier, LE GRAND TYRIDATE, etc.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## ŒuvresLe jeune Marius
+## Œuvres.Le jeune Marius
 Oropaste ou le faux Tonaxare
 Le Comte d'Essex
 Les Amours de Jupiter et de Sémélé, tragédieRecueil de tragédies à machines sous Louis XIV
@@ -4188,19 +4188,19 @@ Historiettes
 
 
 
-## Ouvrages sur Claude BoyerThe works of Claude Boyer
+## Ouvrages sur Claude Boyer.The works of Claude Boyer
 Histoire littéraire de la ville d'Albi
 
 
 
-## Ouvrages de poétiqueLa Poétique
+## Ouvrages de poétique.La Poétique
 La Pratique du théâtre
 Art poétique
 La poétique
 
 
 
-## Ouvrages sur l'histoire et sur l'esthétique du théâtreActes de la 2*e* session des Journées internationales d'Études sur le Baroque (1966)
+## Ouvrages sur l'histoire et sur l'esthétique du théâtre.Actes de la 2*e* session des Journées internationales d'Études sur le Baroque (1966)
 Histoire de la littérature française au XVIIe siècle
 La Tragi-comédie de Corneille à Quinault
 Morales du Grand Siècle
@@ -4245,7 +4245,7 @@ Le Théâtre à machines en France à l'âge classique
 
 
 
-## Ouvrages sur le théâtre et la mise en scèneEssai sur l'histoire du théâtre, la mise en scène, le décor, le costume, l'architecture, l'éclairage, l'hygiène
+## Ouvrages sur le théâtre et la mise en scène.Essai sur l'histoire du théâtre, la mise en scène, le décor, le costume, l'architecture, l'éclairage, l'hygiène
 Le théâtre du Marais
 Histoire de la mise en scène
 L'histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1657
@@ -4254,7 +4254,7 @@ Pratique pour fabriquer scènes et machines de théâtre
 
 
 
-## DictionnairesDictionnaire
+## Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Le grand dictionnaire historique ou le mélange curieux de l'histoire sacrée et profane.
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
@@ -4262,7 +4262,7 @@ Le Gaffiot de poche Dictionnaire Latin-Français
 
 
 
-## Ouvrages de grammaire, syntaxe et stylistiqueSyntaxe française du XVII*e* siècle
+## Ouvrages de grammaire, syntaxe et stylistique.Syntaxe française du XVII*e* siècle
 Dictionnaire de rhétorique
 Introduction à la langue française du XVII*e* siècle
 Grammaire de la langue française du XVII*e* siècle

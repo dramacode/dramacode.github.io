@@ -16,17 +16,17 @@ Edme Boursault
 Édition critique établie par Florence Maine sous la direction de Georges Forestier (2001)
 
 
-# Introduction
+# Introduction.
 
 La plupart des historiens et critiques du théâtre classique s'accordent à dire que, si Boursault est resté dans les mémoires, c'est plutôt à titre de témoin des grands événements littéraires de son temps, qu'à celui de véritable acteur. Ainsi, personne ne s'étonne de constater que des dramaturges fameux, tels que Racine et Corneille, ou d'autres presque autant admirés au XVII*e* siècle, tels que Boyer, Quinault et Thomas Corneille, l'aient largement dépassé en notoriété. Si Boursault intéresse encore aujourd'hui, c'est le plus souvent pour son œuvre comique. Ses deux seules tragédies n'ayant pas connu de retentissement extraordinaire, elles sont vite tombées dans l'oubli. Nombreux sont ceux qui ont critiqué leur intrigue, leurs caractères, ou bien leur versification.
 
 En ce qui concerne *Germanicus*, c'est surtout ses conditions de création, bien plus que la pièce elle-même, qui offrent la possibilité d'une étude approfondie, mais aussi le fait qu'elle semble assez représentative de l'esthétique classique dans son ensemble. Tirant son sujet de l'Antiquité romaine, elle ne comporte rien de particulièrement original. On y retrouve un style, des thèmes et des influences déjà maintes fois observés ailleurs. Néanmoins, malgré quelques éléments médiocres, elle ne méritait certainement pas d'être oubliée comme elle l'a été, et il faut lui reconnaître des qualités, comme le soin de la langue (car Boursault avait à cœur de perfectionner son style), la précision du vocabulaire, ou encore le souci du respect des règles classiques de vraisemblance et de bienséance. Ceci fait qu'au final, cette pièce est tout simplement agréable à lire.
 
 
-# L'auteur
+# L'auteur.
 
 
-## Sa vie
+## Sa vie.
 
 On situe la date de naissance d'Edme Boursault au début du mois d'octobre 1638 (entre le 1*er* et le 4). Il nait à Mussy-l'Evêque, en Champagne, dans une grande famille bourgeoise. Son père, Nicolas Boursault, est tour à tour militaire (même si aucun document ne le prouve), greffier de l'élection, notaire apostolique, échevin, administrateur de l'hôpital... Il trouve peu d'intérêt à donner une éducation de base à son fils, préférant dépenser son argent à ses propres plaisirs. Ainsi, il ne prend pas la peine de lui faire faire des études, de lui apprendre le latin, et néglige le reste de son apprentissage. Quant à sa mère, elle ne quittera pas sa ville et mourra probablement très tôt.
 
@@ -82,12 +82,12 @@ Qu'avec tant de savoir vous aviez tous ensemble [9].
 Boursault est reconnu pour ses grandes qualités de cœur et d'esprit. Beaucoup de gens admettent que les démêlés avec ses rivaux proviennent le plus souvent de malentendus, qu'il s'agit de représailles plus que d'attaques, et que la plupart d'entre eux se réconcilient rapidement avec lui. Appartenant au cercle des modernes, il s'est souvent laissé entraîner par ses amis contre des écrivains, pour lesquels il n'avait au départ aucune animosité.
 
 
-## Son œuvre
+## Son œuvre.
 
 L'œuvre de Boursault peut être divisée en deux parties : ses écrits légers (gazettes, farces, romans), et ceux plus matures de la fin de sa vie, à partir de son installation à Montluçon (comédies plus élaborées). Elle se distingue surtout en ce qu'elle regroupe des genres extrêmement variés.
 
 
-### Théâtre
+### Théâtre.
 
 Boursault n'a écrit que seize pièces de théâtre, ce qui est peu par rapport aux autres dramaturges de son temps (Racine mis à part). Il commence par quelques courtes comédies tirées de pièces espagnoles et italiennes, qui ne sont que de vagues imitations des grands auteurs admirés par Boursault. On peut citer comme oeuvres de jeunesse : *Le Médecin volant* représenté en 1661, publié en 1665, *Le Mort vivant, Les Cadenas ou le jaloux endormi* publiés en 1662, et *Les Nicandres ou les menteurs qui ne mentent point* en 1664.
 
@@ -100,37 +100,37 @@ Boursault s'essaie aussi à la tragédie. Avec *Germanicus* (en 1673), il a le s
 *Les Fables d'Esope*, rebaptisée ensuite *Esope à la ville*, instaure un nouveau genre : la transcription sur scène de fables en comédies héroïques. C'est un succès phénoménal : elle est jouée plus de quatre-vingt fois de suite en 1690 et est traduite en Angleterre, en Allemagne, en Italie, etc. Le seul précédent est le *Timocrate* de Thomas Corneille. Le second volet, *Esope à la cour*, n'est représenté qu'après la mort de son créateur, le 16 décembre 1701. Ces trois dernières pièces sont restées longtemps au répertoire du théâtre de l'époque et comptent parmi ses plus grands chefs d'œuvre.
 
 
-### Romans
+### Romans.
 
 Il s'agit plus exactement de nouvelles historiques, *Le Marquis de Chavigny* et *Artémise et Poliante* en 1670, et *Le Prince de Condé* en 1675. Elles sont écrites pour le beau monde, dont Boursault est « l'amuseur et le confident [10] ». Faites pour plaire, elles se rapprochent du mélodrame, avec encore une incertitude quant à leur vérité historique. Dans un style différent, *Ne pas croire ce qu'on voit*, souvent attribué à Scarron, est publié en 1670.
 
 
-### Essais
+### Essais.
 
 On n'en recense qu'un seul : *La Véritable Etude des souverains* en 1671, qui est dédié au tout jeune dauphin, et qui se veut comme une démonstration de l'utilité d'une bonne éducation morale. Boursault va chercher ses exemples loin dans l'histoire, sans vouloir flatter à tout prix le monarque actuel, qui trouve d'ailleurs cet ouvrage très plaisant.
 
 
-### œuvres en vers
+### œuvres en vers.
 
 Elles ne sont pas nombreuses : une *Ode au Roi, Les Litanies de la Sainte Vierge* imprimée pour la seconde fois en 1667, parmi quelques autres vers de dévotion.
 
 
-### Correspondances et romans épistolaires
+### Correspondances et romans épistolaires.
 
 Cela représente la majorité de son œuvre, et selon certains, sa correspondance personnelle constituerait un témoignage précieux de l'époque classique. « Ecrivain mondain », il réalise de véritables « bulletins politiques [11] », tenant ses amis au courant de l'actualité de la cour : la disgrâce de Fouquet, la naissance du duc de Bourgogne, l'avènement au trône du Roi de Pologne, etc. De plus, ses lettres sont garnies de vers, de fables, de contes, d'épigrammes, ainsi que de réflexions en tout genre. Beaucoup d'entre elles sont des correspondances échangées avec l'Evêque de Langres. S'y trouvent encore une lettre adressée à Pélisson dans laquelle il assure sa fidélité à Fouquet lors de sa disgrâce, une autre à la mort de la femme du duc de Montausier, qui se montrera particulièrement touchée par son attention, et bien d'autres. Elles sont rassemblées pour leur publication sous le titre *Lettres nouvelles de Monsieur Boursault* (1697).
 
 Les romans épistolaires ont été publiés dès 1666 : *Lettres de respect, d'obligation et d'amour* connues aussi sous le nom de *Lettres de Babet* (1666), et les *Treize Lettres amoureuses d'une dame à un cavalier*. Toutes ont été éditées en 1738 dans un recueil de lettres.
 
 
-### Gazettes
+### Gazettes.
 
 Toujours manuscrites par leur auteur, elles n'ont jamais été publiées.
 
 
-# Genèse de la pièce
+# Genèse de la pièce.
 
 
-## Réception de la pièce
+## Réception de la pièce.
 
 *Germanicus* a été représentée dès le 25 mai 1673 au théâtre du Marais. Elle est jouée deux fois, avant la fermeture de cette salle en juin 1673 (ce sera d'ailleurs la seule tragédie à y être donnée cette année-là), car une ordonnance est signée, interdisant à la troupe du Marais de continuer à y travailler. Cette dernière fusionne alors avec la troupe de feu Molière, et la nouvelle compagnie s'installe au théâtre Guénégaud. Elles décident de poursuivre ensemble les reprises de notre pièce, afin de pouvoir payer les 1300 livres déjà engagées. Onze représentations y ont lieu, échelonnées entre le 13 octobre 1673 et le 28 juin 1676 [12]. Elles marquent les débuts de La Guyot dans un second rôle, Livie, alors que La Dupin, déjà célèbre, tient le rôle féminin principal d'Agripine. La pièce est plutôt bien accueillie, selon les biographes de Boursault ; ce n'était pas le cas avec la première version. Boursault ne retrouvera pas non plus un tel succès avec *Marie Stuart*, son autre tragédie.
 
@@ -166,7 +166,7 @@ Ses tragédies de Boursault sont les décalques de celles de son ami Corneille e
 Son côté léger le rend d'ailleurs incapable pour la tragédie, puisque celle-ci exige une pénétration dans les émotions et une haute conception des sentiments et des conflits, dans lesquelles l'âme humaine peut se retrouver. (...) Dans le contenu, *Germanicus* présente une imitation de tragédie classique, une imitation qui ne peut pas s'élever à la prétention de remplacer l'œuvre de Corneille ou de Racine [23]. (Hoffmann)
 
 
-## Sources
+## Sources.
 
 Pour sa première tragédie, appelée à l'origine *Les Amours de Germanicus*, Boursault a choisi un personnage de l'Antiquité, qui se prête parfaitement à cet exercice, et qui n'a jamais été l'objet d'une pièce auparavant. Pour un tel sujet, il est allé puiser des éléments chez les historiens latins, en particulier chez Tacite. Une partie de son fameux ouvrage *Les Annales* traite aussi de cette période. L'ennui, c'est qu'il ne s'agit que des faits politiques et des guerres, alors que dans notre tragédie, tout cela est laissé de côté au profit des intrigues amoureuses. Il n'en est évidemment pas question dans l'œuvre de Tacite. Néanmoins, certains détails peuvent correspondre dans la pièce, comme dans le récit historique. C'est à ce moment-là que se pose le problème de la vérité historique de *Germanicus*.
 
@@ -189,7 +189,7 @@ Victor Fournel est persuadé qu'en écrivant à la marquise de B., Boursault s'e
 Ludwig Grawe, auteur d'une étude sur Boursault, énonce une autre possibilité, approuvée plus tard par Hoffmann. Les deux critiques affirment que le manuscrit du roman de madame de Lafayette déjà terminé, aurait circulé dans les salons et les cercles littéraires, bien avant sa publication, ce qui se faisait couramment à l'époque. D'ailleurs, une lettre de Madame de Sévigné du 16 mars 1672 démontre que ce fut le cas : « Je suis au désespoir que vous avez eu *Bajazet* par d'autres que par moi : c'est ce chien de Barbin, qui me hait, parce que je ne fais pas des *Princesse de Clèves* et *de Montpensier* [29] ». Le roman était connu avant sa publication. Boursault, qui fréquentait ces milieux, en aurait donc pris connaissance et s'en serait inspiré pour sa tragédie. Si les dissemblances entre les deux sont frappantes, on se rend vite compte que le thème fondamental de *Germanicus*, la lutte d'une femme prise entre l'amour et le devoir, absent dans *La Princesse de Montpensier*, est au fondement de *La Princesse de Clèves*. En conséquence, *La Princesse de Clèves* a donc bien servi de trame pour la première ébauche de la tragédie de Boursault, qui, à la suite d'un refus en 1672 [30] au plus tard, a été remaniée selon les goûts du public de l'époque dans un style « antiquisant ». Sous sa nouvelle forme, *Germanicus* a connu un succès incomparable. Comme l'auteur le dit lui-même en conclusion dans la lettre à la marquise de B. : « Quoique la Seine soit plus abondante, et roule une plus belle eau que le Tibre, elle n'a pas tant de grâce dans la Poësie ; et vous m'avouerez qu'Amiens, Abbéville, Rouen (...) n'ont rien de si héroïque que Rome, Albe, Cartage, Numance, Athènes et Corinthe [31]. » La thèse de Grawe apparaît finalement comme la solution la plus vraisemblable.
 
 
-## Autres adaptations du même sujet
+## Autres adaptations du même sujet.
 
 Lorsque Boursault écrit son *Germanicus*, personne d'autre n'en a fait un auparavant. Aussi est-il étrange d'en trouver un double à la même époque. On trouve effectivement un *Germanicus* de Crosnier, publié à Leyde chez Félix Lopez à la toute fin du dix-septième siècle. Il y a inséré une dédicace au secrétaire de la ville d'Amsterdam, Monsieur de Maasseveen, le présente comme « le fruit de ses veilles », et parle « des applaudissements qu'il a reçus » [32]. Mais, après analyse du texte, on s'aperçoit qu'il ne s'agit ni plus ni moins d'un plagiat. Crosnier, ayant vu le succès de la pièce de Boursault, a voulu s'en attribuer le mérite. Ce n'est, paraît-il, pas la seule fois qu'il envia les œuvres d'autrui, et qu'il en tira les avantages.
 
@@ -211,10 +211,10 @@ Lancaster mentionne également l'existence d'une pièce de Griguette, *La mort d
 Comme on peut donc le constater, les autres tragédies traitant de la vie de Germanicus ne s'intéressent qu'à l'aspect politique de sa vie, et plus particulièrement à son assassinat, en raison de son statut de successeur au trône et de sa grande popularité auprès du peuple. En cela, elles diffèrent complètement de la pièce de Boursault, qu'on pourrait qualifier de tragédie galante, puisqu'elle ne s'attache presque exclusivement qu'à la conduite de ses amours. Le premier titre, *Les Amours de Germanicus*, était d'ailleurs beaucoup plus parlant. On ne peut donc établir aucun lien de filiation ou source d'inspiration entre la pièce de 1673 et les suivantes.
 
 
-# Analyse de la pièce
+# Analyse de la pièce.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 Acte I : La tragédie commence juste avant le retour de Germanicus à Rome. La scène d'exposition nous apprend que deux couples d'amoureux, Germanicus-Agripine et Drusus-Livie, vont être séparés à cause d'un ordre de l'empereur Tibère. En effet, celui-ci exige que son fils Drusus épouse la promise de Germanicus. Agripine, qui accepte de se plier à son commandement, demande à son futur mari de reporter la cérémonie d'un mois, le temps qu'elle se fasse à cette idée. Peu après, Pison, ami et intermédiaire du jeune couple, arrive avec des nouvelles fraîches de Germanie. Il ose lui avouer l'amour secret qu'il ressent pour elle. Agripine, furieuse, lui pardonnera son élan seulement en raison de la fidélité dont il a fait preuve jusqu'alors, et le renverra avec la promesse de ne plus en entendre parler.
 
@@ -227,7 +227,7 @@ Acte IV : Par la suite, elle découvre que Tibère a proposé à Pison de tendr
 Acte V : Au dernier acte, on retrouve Agripine en proie à l'inquiétude, après une nuit de cauchemars. Elle attend des nouvelles de Germanicus par l'intermédiaire de Pison. Elle craint qu'il ne soit mort, tué peut-être par Pison, jaloux. Flavie a rencontré Albin, qui arrive pour l'informer. Pendant un cours instant, un quiproquo laisse penser que Germanicus a été assassiné par Pison. En réalité, c'est l'inverse qui s'est produit. Pison est allé prévenir Germanicus des menaces qui pesaient sur lui, et en sortant, il a été tué à sa place dans le noir par son propre frère. Agonisant, il persiste à croire qu'il a été puni pour son plus grand crime : dire son amour à Agripine. Drusus, quant à lui, ne doute pas de l'identité du commanditaire de l'assassinat, mais il demande à Agripine d'être magnanime. Tibère, sous la pression du peuple révolté, a effectivement décidé de réunir les amoureux. Le mariage de Germanicus et d'Agripine va donc être finalement célébré.
 
 
-## Les personnages
+## Les personnages.
 
 Tout d'abord, on constate que Boursault adhère aux conventions de la tragédie classique, genre auquel il s'essaie pour la première fois, rappelons-le, par le fait qu'il a choisi de représenter des personnages appartenant à l'histoire, éloignés de son époque par le temps (le Haut-Empire) et par le lieu (Rome), et tous issus d'un haut rang social, ou ayant de hautes fonctions. Mais, à certains égards, ceux-ci se distinguent des rôles typiquement tragiques : pas de « désespoir forcené », de « folie », de « monstres inaccessibles aux remords [34] »... rend="footnote_reference"Autrement dit, il n'y a pas de rôle spectaculaire. Ceci provient sans doute d'une volonté de l'auteur de rester au plus près possible des personnages historiques. Ainsi, comme chez Tacite, Germanicus est le héros romain, juste, bon, fidèle, courageux, etc. Tibère, qui n'apparaît pas, est le despote rusé et cruel dans toute sa splendeur, tel qu'il est décrit par Suétone. Pratiquement aucun trait de leurs caractères n'a été modifié au profit de l'intrigue. Seuls les faits, en eux-même, ont subi quelques changements. Certains types de rôles tragiques ont été rajoutés, comme ceux des confidents, mais dans l'ensemble, il n'y a rien que de très vrai dans ces caractères. Néanmoins, un certain manichéisme est perceptible dans les personnages de *Germanicus*. Ils ont tous une personnalité affirmée, c'est-à-dire que les faibles s'opposent aux méchants : pas d'entre deux, pas de monstre à la fois victime, ou de faible-coupable, exception faite de Pison, qui a une fonction plus complexe.
 
@@ -252,7 +252,7 @@ D'autre part, comme pour les autres personnages, Boursault a conservé les trait
 Mais il est, par ailleurs, le père adoptif de son rival, et il se comporte en tant que tel. En empêchant le mariage de Germanicus avec celle qu'il aime, et en manigançant un autre pour son fils naturel, il met un obstacle aux amours de ses deux fils, ce qui est l'emploi le plus répandu du père dans le théâtre classique, et plus particulièrement dans la comédie. Il est de son devoir de trouver le bon parti pour son enfant, même si momentanément, cela fait le malheur de ce dernier. Finalement, Tibère trouve tous les avantages à favoriser l'union de Drusus et d'Agripine, au détriment de Germanicus, puisqu'il se montre à la fois un bon père, tout en nuisant aux intérêts de son rival. Toujours est-il que, pour ses abus de pouvoir, son sadisme envers les jeunes héros, le meurtre qu'il a commandité, il n'est puni en rien, ni ne se repentit. Le sort l'a épargné, puisque suite au soulèvement du peuple, il a dû renoncer à s'opposer au mariage de Germanicus, qui finalement lui a laissé la vie sauve.
 
 
-## Thèmes
+## Thèmes.
 
 
 ### Une intrigue politique ou une intrigue sentimentale ?
@@ -262,28 +262,28 @@ La majorité des théoriciens restent persuadés « qu'une tragédie demande un
 On peut aussi s'interroger sur les buts poursuivis par l'auteur. En fait, Boursault était un fervent adepte du « Plaire et instruire ». Il a déjà eu l'occasion de le prouver, puisqu'un certain nombre de ses œuvres, ses comédies en particulier, était riche en allusions, en critiques et en caricatures. Ce style virulent était même devenu son empreinte personnelle. Grâce à J. Truchet, on sait que les Français de l'Ancien Régime se préoccupaient beaucoup de ces questions de pouvoir, de succession, de légitimité. On peut donc légitimement se demander s'il a cherché à faire passer un message politique quelconque à travers sa pièce. En l'occurrence, Boursault n'aurait-il pas utilisé le despotique Tibère pour dénoncer, par le truchement de sa pièce, une certaine forme de gouvernement ? Rien n'est moins sûr, et le travail de décryptage peut s'avérer long et dangereux. Ici, la pièce joue surtout sur l'ambigüité du statut de Tibère. Toute la différence entre le roi et le tyran réside dans le fait que le monarque, s'il jouit d'un pouvoir absolu sur ses sujets, ne peut l'exercer qu'en toute légalité et en toute moralité. Le tyran, lui, a usurpé le pouvoir et en abuse au service de ses désirs personnels. Et dans *Germanicus*, Tibère n'agit que sous la pression de la passion qui l'anime, la vengeance résultant de sa jalousie pour son neveu ; et c'est le peuple qui rétablit l'ordre en se soulevant.
 
 
-### Le devoir contre l'amour
+### Le devoir contre l'amour.
 
 Au XVII*e* siècle, l'amour fait toujours partie des tragédies, même s'il n'apparaît qu'au second plan. Les théoriciens se sont efforcés de distinguer deux grands types d'amour sur scène : l'amour « raisonnable » et l'amour « tyrannique [44] ». Ils correspondent, en résumé, à l'amour conjugal et à l'amour adultère, non partagé, voire illégal. Dans *Germanicus*, seul l'amour raisonnable est évoqué, avec une nuance : les deux couples ne sont pas encore mariés. Fidèle à la tradition, Boursault a mis en scène des jeunes amants parfaits, prêts à se marier, mais persécutés injustement par une puissance extérieure. En l'occurrence, Tibère presse Agripine de quitter son amant, pour une raison valable qui suffit à la persuader, sans la menacer : le devoir. Si Germanicus cherche à se révolter, Agripine, elle, semble presque consentante. En réalité, le choix entre l'amour ou le devoir, elle l'a fait rapidement. Il n'y a plus vraiment dilemme ; cependant les réflexions, les lamentations et les pleurs demeurent, car c'est de cette confrontation de deux envies également légitimes que naît sa souffrance. Les obstacles à son bonheur sont extérieurs (le commandement de l'empereur) et intérieurs (le devoir). C'est là que réside le sujet de la pièce : le fait que dans les couples, de chaque côté, l'un des amants désespère et tente à tout prix de trouver un moyen pour changer la situation, l'autre désespère de la même façon, mais qui préfère se condamner au devoir. Finalement, Agripine a opté pour le devoir, tandis que Germanicus choisit l'amour. Ce désaccord donne au couple encore moins d'espoir pour s'en sortir.
 
 Mais, il y a un autre amour qui se confronte au devoir dans la pièce : c'est celui de Pison. En effet, Pison tombe amoureux d'Agripine, qu'il aide par ailleurs pour contacter Germanicus. Ami et intermédiaire du couple, il faillit à son devoir en avouant ses sentiments cachés à la jeune femme. D'une part, il trompe la confiance de Germanicus et de Drusus, puisqu'il leur a rendu service à l'un et l'autre, dans leur tentative de séduction ; d'autre part, il ne peut, en tant que subordonné et confident, aimer une femme d'un rang si supérieur au sien. Le fait de se confesser auprès d'elle ne fait qu'aggraver les choses. C'est à ce moment-là que son amour interdit devient un amour coupable. Pour aller lui expliquer le piège tendu par Tibère contre Germanicus, il a été obligé de mentir sur les sentiments qu'il éprouve à son égard, et faillit même se trahir un instant. Le dilemme pour lui ne pèsera pas trop lourd, parce que personne, en dehors d'Agripine, ne connaîtra son secret, et que son amour étant à sens unique, son devoir s'imposera à lui comme la solution restante.
 
 
-### Le poids de la fatalité
+### Le poids de la fatalité.
 
 La fatalité est un motif récurrent dans la tragédie classique. Elle est ici particulièrement présente. Si le suspense dans le déroulement de l'action ne nous semble pas intense, la progression inéluctable vers le mariage ordonné par Tibère donne l'impression que rien ne pourra changer le destin de ces deux couples. Seule, au dernier moment, une péripétie (et exploitée à fond, elle prend ici tout son sens), la mort de Pison provoquant une sédition, peut apparaître comme un présage plus que positif. En effet, si les meurtriers sont convaincus d'avoir tué la bonne personne, ils ne devraient plus s'escrimer à poursuivre à nouveau Germanicus. Mais, rien ne pouvait présager jusqu'alors de ce qui allait arriver : aucune indication, aucun signe, aucun pressentiment, si ce n'est les cauchemars d'Agripine la nuit précédant l'assassinat, qui prévoyaient une catastrophe comme celle du meurtre. Les personnages eux-mêmes se laissent gagner par le désespoir amoureux. Livie, Drusus, et Agripine le sont dès le début. Germanicus ne renonce pas tout-à-fait, et c'est pour cela qu'il décide de ne pas quitter Rome. Mais, la plupart du temps, il se contente d'échapper à Drusus et à Tibère, sans continuer à se battre, non qu'il s'abandonne à son destin, mais par bonté d'âme.
 
 Le sentiment d'être prisonnier de son destin s'amplifie encore, quand une passion imprévue, coupable, et parfois interdite, surgit dans le cœur des personnages. C'est dans ce contexte que pointe la notion d'esclavage de l'amour. Le champ lexical est particulièrement diversifié : on passe des « liens », aux « fers », pour aller jusqu'au « joug ». Les mouvements de l'âme qui accompagnent cet amour sont ceux d'une maladie (« la mélancolie érotique », comme certains théoriciens l'appellent). L'impuissance face à ses propres sentiments effraient également les personnes atteintes. Le cas le plus flagrant est celui de Pison, qui ne devait pas tomber amoureux d'Agripine, la situation étant déjà assez complexe. Il a beau lutter, cacher ses sentiments, tenter de transformer cet amour en amitié, il sait bien que seule la mort est capable de modifier son destin. Cette mort apparaît par ailleurs comme salvatrice pour les deux couples séparés, car le peuple croyant que Germanicus a été tué, il va faire pression sur l'empereur pour rétablir l'ordre, faire accepter leurs mariages, et veiller à ce qu'il n'arrive plus rien au héros populaire.
 
 
-### Un heureux dénouement
+### Un heureux dénouement.
 
 La Mesnardière insistait cinquante ans plus tôt pour qu'une tragédie finisse de manière funeste. En réalité, ce type de dénouement est surtout l'effet d'une longue habitude. De plus, les critères pour une fin malheureuse sont souvent incertains ou discutables. Certes, ce n'est pas le nombre de morts qui la détermine. Cela dépend du protagoniste : le dénouement est heureux, si le personnage principal a réussi ce qu'il voulait. L'ennui avec notre pièce, c'est qu'elle s'achève sur la mort de Pison qui, malgré son amour interdit pour Agripine, a l'air d'être plutôt sympathique. Jusqu'aux dernières scènes de l'acte V, l'avancée de l'action nous laisse présumer que la tragédie finira sur le mariage de Drusus et d'Agripine, au cours duquel Germanicus doit être tué. Or, un ultime et inattendu rebondissement se produit peu après le meurtre de Pison. Le peuple se révolte, et Tibère est contraint d'abandonner son projet de tuer Germanicus, et du même coup, de le laisser épouser celle qu'il aime. C'est une péripétie dans les règles, quoique banale, qui conduit directement à la fin heureuse. Comme souvent, quand le pouvoir est mal géré, c'est le peuple qui a la vision la plus objective, et il n'est pas rare que la sédition marque la fin des tragédies à fin heureuse. Objectivement, tout est bien qui finit bien, mais la mort de Pison, qui plane sur cet heureux événement, assombrit nettement ce retournement de situation. Les dernières phrases de la tragédie prononcées par Germanicus, nous laissent à penser que ce dénouement heureux est très relatif. D'habitude, le seul sang versé dans ce type de dénouement est celui du tyran, et non celui d'une victime. Tibère étant un monarque légitime, et malgré les volontés tyranniques et meurtrières que certains personnages lui prêtent, Boursault ne pouvait raisonnablement pas finir sa pièce sur un régicide.
 
 La question du genre, qui sera vite écartée, s'impose ensuite logiquement. Si *Germanicus* finit de cette manière, est-ce que cela suffit pour la comparer à une tragi-comédie ? Hoffmann ne se prive pas de la désigner ainsi. D'après lui, Boursault n'a pas osé la solution tragique, trop risquée à son goût, et opté pour le double mariage final. Il faut bien reconnaître qu'après une pareille pression, ce dénouement semble un peu trop facile. Néanmoins, on ne peut percevoir les autres caractéristiques de la tragi-comédie dans notre pièce : pas de recours à une machine ou un artifice quelconque, pas de complication de l'intrigue, pas de changement de lieu, pas de diversité dans le ton, mais plutôt une certaine uniformité, des personnages appartenant aux rangs les plus élevés, un sujet historique, etc. Enfin, le dénouement sans mort et avec un ou plusieurs mariages s'est, à l'époque de Boursault, répandu de plus en plus. Et s'il est indéniable que Boursault soit un admirateur de Corneille et un défenseur du modernisme, il est resté plutôt classique pour sa première œuvre tragique, même s'il a trouvé qu'un dénouement heureux à sa tragédie serait plus prudent par rapport à son talent d'écriture.
 
 
-### Une tragédie romanesque
+### Une tragédie romanesque.
 
 Nous avons démontré d'ores et déjà que *Germanicus* était tiré d'une autre pièce de Boursault, représentée peu avant, elle-même inspirée d'un roman de Madame de La Fayette, *La Princesse de Clèves*. Il semble donc normal que notre pièce contienne certains aspects propres au roman. C'est Fournel qui, le premier, a utilisé ce terme de « romanesque » [45] pour nommer cette tragédie. Il se justifie par le fait que l'auteur a tout simplement transposé le roman sur une scène, sans procéder à une réelle adaptation. C'est pourquoi Agripine agirait, selon lui, comme une héroïne de roman, parfois même un peu précieuse. Sans aucun doute, une tonalité tragique lui fait défaut. Il apparaîtrait judicieux d'effectuer maintenant une comparaison entre le roman de Madame de Lafayette et le résultat final de son adaptation, *Germanicus*, puisque « l'étape intermédiaire » (*La Princesse de Clèves*) a été perdue.
 
@@ -296,49 +296,49 @@ Mais, on décèle de la même façon une forte imprégnation de Racine dans son 
 Finalement, en analysant rétrospectivement l'œuvre très disparate de Boursault (qui rassemble, ne serait-ce qu'au théâtre, des farces, des comédies héroïques, des tragédies lyriques, etc.), on se rend compte que la tragédie n'est pas sa spécialité, puisque dès son premier jet, les genres s'y confondent. Comme le chapitre suivant le démontrera, on trouve dans *Germanicus* un style au moins autant poétique, que romanesque.
 
 
-# Écriture et dramaturgie
+# Écriture et dramaturgie.
 
 
-## Structure de la pièce
+## Structure de la pièce.
 
 
-### Équilibre des séquences
+### Équilibre des séquences.
 
 Anne Ubersfeld a déterminé dans ses études, qu'il existait plusieurs types de séquences. Elles correspondent généralement au découpage de la pièce en actes et en scènes. Normalement, cela ne mériterait pas de faire l'objet d'un paragraphe, mais à quelques reprises dans *Germanicus*, des scènes étonnantes, de ce point de vue, surprennent et doivent être mises en avant. Il y a par exemple deux scènes contiguës qui comportent exactement les mêmes personnes, alors qu'elles sont normalement renouvelées à chaque entrée d'un nouveau personnage. Il s'agit des scènes 4 et 5 de l'acte II. En réalité, Flavie est sortie au vers 650, et le changement de scène marque son retour. On peut essayer d'expliquer cela à partir d'un autre critère : le changement de scène vient peut-être du fait qu'un nouveau ressort de l'intrigue a été mis en place. La scène 5 n'est apparemment là que pour annoncer la venue imminente de Drusus. Est-il indispensable de changer de scène pour cela ? D'autant plus que Boursault n'a pas l'air de tenir absolument à l'égalité du nombre de ces scènes dans un acte. On s'en rend compte avec l'acte IV, qui lui, ne comporte que deux scènes. Scherer a son opinion à ce sujet : bien que la plupart des auteurs classiques aient tenté d'équilibrer autant que possible leurs actes, scènes ou parties, ceux-ci ont une certaine autonomie, et on ne peut les déterminer arbitrairement. Néanmoins, il cite d'Aubignac, qui recommande de ne pas descendre au-dessous de trois scènes par acte, pour faciliter l'attention du spectateur. Cela permet, selon lui, de consacrer plus de temps à un récit, une explication, une délibération (sans l'interruption des autres personnages), et en l'occurrence, à l'argumentation d'Agripine pour convaincre Germanicus que Tibère lui destine un piège, le jour du mariage de Drusus avec sa maîtresse. En ce qui concerne notre pièce, c'est le rythme que Boursault voulait sans doute préserver, en ne rajoutant pas d'autres scènes dans le quatrième acte, aux deux premières déjà si longues.
 
 
-### Présence des personnages
+### Présence des personnages.
 
 De même que la distribution des séquences, cela ne semble pas important au premier abord, mais celle de Boursault n'est pas faite au hasard. Si on réalise un tableau de la présence des personnages scène par scène, on s'aperçoit que Germanicus apparaît seulement à l'acte II, puis à l'acte IV et V, en totalité que quatre fois, ce qui est excessivement peu pour le héros de la pièce. Il n'est présent ni à l'exposition de la pièce, ni au milieu, quand le nœud se resserre. À l'inverse, Agripine n'est absente que pendant trois scènes à l'acte III. Cela remet en question la notion de protagoniste et de héros dans la tragédie. Soit l'auteur a voulu rendre son héros plus discret, voire mystérieux (n'oublions pas qu'il est à Rome en secret), soit on peut avancer qu'Agripine est le personnage central d'une pièce qui ne porte pas son nom. Les deux alternatives peuvent être envisagées. La première participe d'une tactique de l'auteur, qui vise le retardement de l'entrée en scène du héros, et qui, du même coup, mythifie quelque peu ce personnage. La seconde n'est pas négligeable, non plus. Dès la scène d'exposition, les intérêts se recentrent autour d'Agripine, comme le nœud même de l'action, se prolongeant vers chaque élément.
 
 
-### Distribution de l'action
+### Distribution de l'action.
 
 Comparer ce qui se passe sur scène et ce qui a lieu en coulisse, a une certaine incidence sur la manière dont on perçoit l'intrigue. Pour *Germanicus*, elle se situe au niveau de l'extra-scénique. En effet, le tableau nous indique que toute l'action, mais aussi toutes les délibérations, les propositions, les réclamations sont faites hors de la scène (ce qui est régulier pour une tragédie du XVII*e* siècle avec les contre-coups sentimentaux des décisions politiques). Ainsi, le spectateur assiste aux déclarations d'amour de Pison, de Germanicus, et de Drusus à Agripine, de Drusus à Livie, aux tentatives de persuasion, aux scènes de lamentations, aux annonces et aux récits d'événements ; mais il ne voit pas le retour de Germanicus à Rome, les différentes intercessions de Drusus et d'Agripine auprès de Tibère pour avancer ou repousser la cérémonie du mariage, la construction du plan de Tibère contre Germanicus, le meurtre de Pison, la sédition populaire... Certes, de nombreuses choses ne peuvent être montrées sur scène, à cause de la censure, ou faute de possibilités matérielles. Mais l'action scénique est aussi très limitée du fait de l'absence de Tibère ou d'une incarnation de son autorité.
 
 
-## Dramaturgie
+## Dramaturgie.
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 Elles sont toutes bien respectées de l'auteur. La totalité de l'intrigue se déroule à Rome, dans les jardins de Lucullus, qui est un endroit idéal pour les rencontres secrètes entre les couples, puisque c'est un lieu neutre et semi-public, mais discret. Par conséquent, il est facile pour Boursault d'y amener tous les personnages, aussi différents soient-ils. Les femmes, leurs amants, aussi bien que leurs confidents, peuvent aller et venir, sans que cela soit mal interprété. Contrairement à une chambre ou à un appartement, chacun peut y circuler librement. Cela préserve la bienséance, à laquelle Boursault semble beaucoup tenir, car dans un tel lieu ne peut en aucun cas recevoir les amours interdites des jeunes couples. Et les hommes et les femmes, accompagnés de leurs confidents, ne peuvent rien faire qui soit soupçonné d'adultère.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 En ce qui concerne l'unité de temps, aucun problème ne se pose. La pièce commence probablement au milieu d'une journée, et s'achève le lendemain matin sur le récit de la nuit et du meurtre de Pison. La règle des vingt-quatre heures est suivie précisément. Entre les actes et les scènes, peu de temps s'écoule, sauf à la fin de l'acte IV, qui se termine juste avant la nuit, alors que l'acte suivant débute le lendemain (on a cette précision grâce à Agripine qui dit avoir fait un cauchemar dans la nuit). Mais, cet écart était nécessaire, puisque c'est dans ce laps de temps que se produit l'assassinat de Pison, sacrifié à la place de Germanicus. Boursault ne pouvait pas reporter celui-ci en plein jour, étant donné que c'est l'obscurité de la nuit qui provoque cette erreur.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 Enfin, l'unité d'action est elle aussi parfaitement suivie, à tel point que l'intrigue a parfois l'air trop simpliste. Tout se concentre autour du mariage forcé d'Agripine et de Drusus : la déclaration d'amour de Pison, le complot contre Germanicus, la jalousie de Livie... Le fait de désunir deux couples en même temps par cette union, facilite les ajouts extérieurs au nœud principal de l'action. De plus, comme nous l'avons vu précédemment, les motifs amoureux et les motifs politiques se rejoignent en une seule intrigue, où se mélangent au final les enjeux de chacun.
 
 
-## Style
+## Style.
 
 
-### Figures stylistiques
+### Figures stylistiques.
 
 On a reproché un certain maniérisme à cette tragédie de Boursault, cela est sans doute dû à son adaptation du roman de Madame de La Fayette, ainsi qu'à ses efforts pour styliser sa langue. Il est néanmoins intéressant de repérer les figures de style les plus fréquemment utilisées.
 
@@ -349,7 +349,7 @@ Les figures de répétition sont également récurrentes dans notre pièce, et t
 L'auteur utilise aussi des figures plus courantes, telles que : la paronomase (« rapprochement de mots qui ont une parenté phonique », comme « arrache » et « attache », aux vers 171-172), l'hyperbole (des termes volontairement hyperboliques reviennent souvent, comme « suspect » pour dire « étrange »), l'hypallage (« déplacement de la qualité exprimée par mot sur un autre mot », comme « l'amour violent » au vers 1304), la syllepse (« utilisation d'un terme à la fois en son sens propre et en son sens tropique », mais la plupart du temps, l'ambigüité subsiste dans notre pièce : voir « cœur » au vers 715), mais encore l'oxymore, l'antithèse, le chiasme, l'allitération, l'allégorie, la métonymie, la litote... que nous n'aurons pas le loisir d'énumérer tant elles sont nombreuses [46].
 
 
-### Modalités d'écriture
+### Modalités d'écriture.
 
 Le style d'une tragédie se devant d'être régulier et sans débordement, les auteurs tragiques créent souvent des endroits, à l'intérieur même de leur texte, pour laisser libre cours à leur imagination et à leur talent de poète, de rhétoricien, ou de conteur. Evidemment, Boursault ne faillit pas à cette tradition : c'est un passage obligé de la tragédie classique. Son action siégeant en majorité en dehors de la scène, cela lui donne quelques occasions pour faire raconter à ses personnages les événements qui se sont produits auparavant. On trouve entre autres, dans *Germanicus*, le récit de l'assassinat de Pison. Situé à la fin de notre pièce, il amorce le dénouement en douceur. Selon Scherer, le récit doit être assez long, construit, vraisemblable, éventuellement émouvant, augmenté d'une annonce préliminaire de l'objet de cette narration, nécessaire uniquement si son objet ne peut être représenté devant le public. Boursault y colle tout-à-fait.
 
@@ -358,10 +358,10 @@ Le monologue est tout aussi récurrent dans les tragédies classiques. En plus d
 La lettre de Germanicus (à partir du vers 207) et les billets d'amour offerts à Livie par Drusus (à partir du vers 1023) se révèlent également comme les manifestations du lyrisme par excellence. Là, Boursault peut varier ses vers selon son bon plaisir. Ainsi, les alexandrins deviennent parfois des octosyllabes ; la versification, composée de rimes plates jusqu'alors, alterne les rimes embrassées (vers 213 à 216) et les rimes croisées (vers 207 à 210) ; et les distiques font place à un bouleversement dans l'organisation des strophes. Comme les autres « types » d'écriture, ces vers ont un rôle bien précis, ce qui ne les empêche pas d'être modulables à l'infini.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation du texte
+## Présentation du texte.
 
 Nous connaissons deux éditions de *Germanicus* du vivant de l'auteur, toutes deux de la même année, 1694. La seconde a été réalisée pour un ouvrage regroupant ses œuvres théâtrales, *Pièces de théâtre de Monsieur Boursault*. Or, il apparaît qu'elle a été imprimée sur le même privilège que la première, qu'elle contient les mêmes coquilles et la même mise en page. C'est probablement un fac-similé. Nous agirons donc comme s'il n'y avait eu qu'une seule impression. L'édition originale se présente comme suivant :
 
@@ -388,7 +388,7 @@ XVII-XVII : Avis.
 XIX : Extrait du privilège du Roy.
 
 
-## Liste des corrections
+## Liste des corrections.
  * – v. 43, « la »
  * – v. 59, « haine, »
  * – v. 83, « Princ »
@@ -406,10 +406,10 @@ XIX : Extrait du privilège du Roy.
 # GERMANICUS.
 
 
-# *TRAGEDIE.*
+# *TRAGEDIE.*.
 
 
-## **EPITRE A SON EMINENCE MONSEIGNEUR LE CARDINAL DE BONZI, ACHEVESQUE DE NARBONNE**, Commandeur des Ordres du Roy, Grand Aumônier de la Reine, President Né des Estats de Languedoc, etc;
+## **EPITRE A SON EMINENCE MONSEIGNEUR LE CARDINAL DE BONZI, ACHEVESQUE DE NARBONNE**, Commandeur des Ordres du Roy, Grand Aumônier de la Reine, President Né des Estats de Languedoc, etc;.
 
 *Monseigneur, Le Grand Cardinal de Richelieu, dont la Memoire ne durera pas moins que le Monde ; Ce Minstre infatigable dont Vous avez le Coeur & l'Esprit, la Generosité & les Lumieres, aprés avoir donné ses soins à regler les Affaires de l'Europe, accordoit souvent le reste de ses momens à la conversation des Muses ; & quand par respect elles n'osoient s'élever jusques à luy, sa bonté le faisoit descendre jusques à Elles. VÔTRE EMINENCE qui marche sur les pas de ce grand Homme, & qui rempliroit les mêmes Emplois avec une égale Capacité, ne l'imiteroit pas entierement si Elle ne reparoit la perte que firent ces Filles du Ciel, en leur accordant un semblable Protecteur. Elles ne voyent que Vous, MONSEIGNEUR, qui puisse leur tenir lieu de ce qu'elles ont perdu : & sur quelque Merite qu'elles jettent leurs regards le Vôtre est le Seul qui ressemble parfaitement à celuy dont le souvenir est si cher. Zelé pour Vôtre Roy comme il l'estoit pour le sien, Vous faites Vôtre plus sensible plaisir de ce qui peut contribuer à sa Gloire ; & Vous ne trouvez vos soins utilement employez que lorsqu'il sont fructueux à son Estat. Vous avez esté de si bonne heure capable de si grandes choses que les Negociations les plus importantes, qui ordinairement sont le partage de la Vieillesse, Vous ont esté confiées dans l'âge le plus florissant : Et Vous Vous en estes si glorieusement acquité que dès vos premiers pas la Pourpre fut le prix de Vôtre Merite. Une Puissance Etrangere, pour reconnoistre les Obligations qu'elle Vous avoit, déroba, si j'ose me servir de ce terme, au Roy que Vous aviez l'honneur de representer le plaisir de Vous élever Luy-même à l'éminente Place ou Vous estes ; Et comme une si haute Dignité ne se donne qu'une fois, la Pologne prévoyant qu'elle Vous estoit infaillible, eut peur d'estre prévenuë si elle ne se hastoit d'executer ce que la France méditoit de faire. S'il est vray, MONSEIGNEUR, comme l'a soûtenu un Ancien, qu'un honneste homme aux prises avec la Fortune soit un Spectacle digne de l'attention des Dieux, c'en est un incomparablement plus beau que deux Rois en concurrence à qui rendra le plus de Justice à la Vertu : Et je ne conçois rien de plus grand que d'estre l'Object de la Reconnaissance de deux Monarques. La France & la Pologne sont également d'accord que leurs Souverains ne pouvoient honorer de leur Estime un Homme à qui elle fût mieux duë ; & que par quelque endroit qu'on regarde VÔTRE EMINENCE il n'y en a point qui ne luy soit glorieux. Si Elle avoit besoin d'emprunter de l'éclat de sa Naissance, la Toscane seule luy fourniroit des Titres de plus de six cents Ans de Noblesse confirmée ; & peut-estre aurait-on de la peine à trouver dans tout le reste de l'Italie une Maison qui tire son origine de si loin. Mais, MONSEIGNEUR, quelque Illustre qu'ait esté & que soit encore vôtre Race, Vôtre Nom n'a besoin que de vous seul pour atteindre les Siécles les plus reculez : Et quoi-que Vos Ayeux ayent fait de considerable leur plus solide Gloire est de vous avoir donné le Jour. Ils sont la Source d'où l'on peut dire qu'est sorty un Fleuve dont les Eaux, semblables à celles du Nil, inondent les Campagnes pour les rendre plus fertiles, & s'attirent les Benedictions de tous les Climats qu'elles ont l'indulgence d'arroser. Voilà, MONSEIGNEUR, ce que fait tous les jours VÔTRE EMINENCE  : Elle ne passe en aucun lieu où Elle ne laisse des marques de son passage ; & par tout où Elle se rencontre les Pauvres, qui sont representez par la Terre Aride, trouvent du soulagement à leur Misere, & Vous comblent de Benedictions. Je prens la Verité à témoin qu'il ne m'échape icy aucun mot qu'elle n'ait soin de me dicter elle-même : Germanicus, dont Tacite fait un Portrait si beau, sort d'un sang trop Auguste pour descendre à la flâterie ; & si j'ose Vous le Dedier c'est, MONSEIGNEUR, que j'ay crû ne devoir Offrir l'un des plus grands Heros de l'ancienne Rome qu'à l'un des plus grands Hommes de la nouvelle. L'Accueil qu'on luy a fait hors de son Païs luy a esté assez avantageux pour avoir lieu de croire que sa Patrie ne luy sera pas moins favorable ; & que VÔTRE EMINENCE accordera sa Protection à un Prince qui eut l'honneur de naître dans la Pourpre dans la même Ville où Vous avez esté revêtu. Ayez la bonté, MONSEIGNEUR, de ne pas luy refuser cette Grace ; ny à moy celle d'estre avec un profond Respect*,
 
@@ -422,12 +422,12 @@ Le tres humble, & tres obeïssant serviteur,
 BOURSAULT.
 
 
-## **AVIS**
+## **AVIS**.
 
 Cette Tragedie mit mal ensemble les deux premiers Hommes de nôtre Temps pour la Poësie : je parle du celebre Monsieur de Corneille & de l'illustre Monsieur Racine, qui disputoient tout-deux de Merite ; & qui ne trouvent personne qui en dispute avec eux. Mr. de Corneille parla si avantageusement de cet Ouvrage à l'Académie qu'il luy échapa de dire qu'il ne luy manquoit que le Nom de Mr. Racine pour estre achevé, dont Mr. Racine s'étant offensé ils en vinrent à des paroles piquantes ; & depuis ce moment-là ils ont toûjours vécu, non pas sans estime l'un pour l'autre, cela estoit impossible, mais sans amitié. Je cite cet endroit avec plaisir, parce qu'il m'est extrémement glorieux. Trouver Germanicus digne d'un aussi grand Nom que celuy de Mr. Racine, c'est en peu de mots en dire beaucoup de bien : Et que ce témoignage ait esté rendu par un Homme aussi fameux que Mr. de Corneille, c'est le plus grand honneur que je pûsse recevoir. Le Lecteur jugera, s'il luy plaist, qui des deux eut le plus de raison ; l'un de dire ce qu'il dit, ou l'autre de s'en offenser.
 
 
-## PERSONNAGES
+## PERSONNAGES.
  – GERMANICUS,Neveu de Tibere.
  – DRUSUS,Fils de Tibere.
  – AGRIPINE,Fille de M.Agripa, & petite Fille d'Augste.
@@ -546,7 +546,7 @@ Pour le voir, le braver, & n'en redouter rien.
 AGRIPINE, DRUSUS, FLAVIE.
 
 
-    FLAVIE *à Agripine.*
+    FLAVIE *à Agripine.*.
 Le prince vient.  
 
     AGRIPINE.
@@ -757,7 +757,7 @@ Et puisque j'ay servy sa haine,
 Je puis bien servir mon Amour.  
         GERMANICUS [76].  
 
-    AGRIPINE *continuë.*
+    AGRIPINE *continuë.*.
 Il vient, Pison !  
 
     PISON.
@@ -805,7 +805,7 @@ Et si vous m'estimiez, vous de qui je dispose,
 D'un départ si soudain vous me diriez la cause.  
 Avez-vous des raisons pour quitter ce sejour⁎ ?  
 
-    PISON
+    PISON.
 Manque-t-on de raisons quand on a de l'amour ?  
 Une illustre Beauté m'a sçeu rendre sensible  
 
@@ -1119,7 +1119,7 @@ Au nom d'un peu d'amour, s'il vous en reste encore ;
 Et de peur de sa mort qui suivroit vos refus,  
 Au nom de la pitié, si vous ne l'aimez plus.  
 
-    AGRIPINE *à Flavie.*
+    AGRIPINE *à Flavie.*.
 Le verray-je ?  
 
     FLAVIE.
@@ -1146,7 +1146,7 @@ Allarmeroit⁎ Tibere, à qui je dois respect.
 
 ## SCENE II.
 
-    AGRIPINE *seule.*
+    AGRIPINE *seule.*.
 D'où me vient ce desordre, & pourquoy suis-je émeuë ?  
 Pourquoy ? Fuis pour jamais cette fatale veuë :  
 D'un Amant qu'on doit perdre écouter les soupirs,  
@@ -1556,7 +1556,7 @@ C'est sur vous seul, enfin, que je jette les yeux.
     PISON.
 Sur moy ! Madame ?  
 
-    AGRIPINE *à Germanicus.*
+    AGRIPINE *à Germanicus.*.
         Et vous, dans ce moment funeste,  
 Seigneur, si du passé le souvenir vous reste,  
 Par bonté, par justice, ou du moins par pitié,  
@@ -2927,7 +2927,7 @@ S'est resolu sans peine à ce grand changement :
 Et ce qu'a fait Drusus en faveur de mon frere,  
 A reparé sa faute, & calmé ma colere.  
 
-    GERMANICUS *à Agripine.*
+    GERMANICUS *à Agripine.*.
 Je n'ay plus, ma Princesse, à combattre que vous.  
 Cesar s'est declaré ; j'ay vaincu son couroux⁎ :  
 Vous seule à mon bonheur pouvez estre contraire⁎ ;  
@@ -2967,7 +2967,7 @@ Et ledit sieur Boursault a cedé au sieur J.Guignard le droit qu'il a au present
 Achevé d'imprimer le 14 Novembre 1693.
 
 
-# LexiqueDictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+# Lexique.Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise...
 Introduction à la langue française du XVIIème siècle
 AbuserTromper, seduire (F).V. 258AcheterMarque les peines, les difficultez qui coutent à obtenir quelque chose (F).V. 897AchevéParfait, acompli (F).V. 46, 1450(s') AggrandirRendre plus grand en honneurs, en dignitez, en credit, en fortune ; élever dans le monde à un état plus considérable (F).V. 1398AigreurAmertume, et déplaisir (R).V. 1305AigrirIrriter ; rendre chagrin, fâcheux ; augmenter (F).V. 125AlarmeToutes sortes de frayeur, ou d'apprehensions bien, ou mal fondées (F).V. 468, 560, 688, 1107, 1463, 1734AlarmerInquieter, effrayer (F).V. 89, 502, 705, 839, 840, 912, 1259AmortirAffoiblir ; rendre moins vif, et moins ardent (F).V. 715AnimerRendre plus vif, échaufer, donner de la force, du feu, de la vigueur/encourager (R).V. 1095, 1747AppasSe dit particulièrement de la beauté, et des attraits des femmes (F).V. 77, 273, 301, 310, 331, 541, 747, 768, 857, 877, 952, 1005, 1205, 1522, 1623, 1728AppuyProtecteur, soutien, deffenseur (F).V. 70, 837, 1081, 1333, 1704ArdeurPassion (...) chaleur, emportement, fougue (...) attachement, passion amoureuse (F).V. 39, 283, 329, 344, 850, 1095, 1112, 1202, 1207, 1674ArdentViolent, vif, passionné, vehement (F).V. 183, 1631(s') ArracherTirer avec violence ; faire sortir ; detacher de l'esprit ou du coeur ; deraciner ; chasser (F).V. 658ArrestResolution, que nous avons prise touchant une chose (F).V. 733ArtMethode, regle,ou science de bien faire les choses (F).V. 918, 1275, 1438, 1587ArtificeFraude, deguisement, ruse, mauvaise finesse (F).V. 1421, 1472, 1746AspectVuë, presence, regard (F).V. 1744AstreSe dit figurément en Morale, d'une personne extraordinaire en merite, ou en beauté (F).V. 330AttraitsSe dit poëtiquement de la beauté, des appas, et des charmes des femmes (F).V. 298, 749, 860, 961AudienceAttention qu'on prête à quelque discours (F).V. 1192AzileSe dit de tous les lieux de retraite, où l'on est en sûreté (F).V. 1459, 1472, 1695BannirChasser, éloigner ; se deffaire (F).V. 363, 366, 1617BienSignifie aussi, bonheur ; hazard (F).
@@ -2977,13 +2977,13 @@ V. 487, 996, 1250BontésFaveurs (F).V. 197, 945, 958, 1052, 1227, 1276, 1362, 14
 V. 1488CourrouxMouvement impétueux de colère (F).V. 125, 304, 869, 925, 937, 1001, 1039, 1061, 1125, 1229, 1293, 1309, 1361CréanceConfiance (F).V. 1716CréditPuissance ; pouvoir ; creance (F).V. 113DébrisRestes ; ruines. Se dit figurément (F).V. 458(se) DécouvrirUn homme se découvre trop, lorsqu'il se declare trop ; qu'il ne cache pas assez ses affaires, ses sentiments (F).V. 911(se) DédireRetracter sa parole et en manquer (F).V. 1835, 1863DéfaireMettre en deroute des gens de guerre ; les obliger à fuir ; les tailler en pieces (F).V. 1374DéfianceMouvement de l'ame qui apprehende un mal ; soupçon ; crainte d'être trompé ; doute de soi-même, ou des autres (F).V. 1548DéfiantCraintif ; soupçonneux ; qui n'ose se fier à la fidélité de personne (F).V. 649(se) DéfierN'être pas assuré (F).V. 80DégagerS'affranchir ; rompre les liens ; se remettre en liberté ; se deffaire d'une passion (F).V. 545DegréTerme de genealogie, il se dit de la distance de la tige commune entre parens, pour marquer la proximité, ou l'éloignement des parentez ou alliances (F).V. 14DépitFâcherie mêlée de colere ; chagrin ; deplaisir court, et passager (F).V. 685DépostCe qu'on a mis et confié entre les mains de quelcun/se dit figurément des pensées et des secrets (F).V. 582DesseinResolution ; vüe ; projet ; entreprise ; intention (F).V. 206, 1733, 1741, 1820DétourAdresse ; subtilité ; pretexte ; finesse ; biais ; procedé peu sincere (F).V. 1588DifférentContraire en quelque point (F).V. 662DisgrâceMalheur ; accident ; revers ; infortune (F).V. 419Disputer àEntrer en concurrence pour emporter, ou conserver quelque chose (F).V. 218DescendreÊtre né, ou issu d'un père commun par une suite de generations, tirer son origine (F).V. 60DouteuxIncertain, sur quoi on ne doit point s'assurer (R).V. 371, 1457EclaterFaire paroître avec du bruit et de l'éclat ; découvrir, apprendre, faire connoître au public (F).V. 21, 557, 1371EclatPompe ; splendeur ; gloire ; lustre ; brillant (F).V. 756, 968, 1194, 1385EclairerInstruire, illuminer, rendre plus clairvoyant (F).V. 1748, 1759EclaircirDebrouiller ; rendre plus clair et plus intelligible ; s'instruire (F).V. 649, 793, 1577, 1820(s') EgarerDevenir un peu fou (R).V. 602EleverAggrandir ; mettre dans une place élevée ; accroître la fortune (F).V. 45EmbûcheEmbuscade ; entreprise secrette ; piege qu'on rend à quelqu'un ; conspiration qu'on fait contre lui (F).V. 1416EmpireCommandement ; domination ; pouvoir qu'on a sur quelque chose ; l'autorité qu'on exerce sur soi-même, ou sur les autres (F).V. 64, 533, 860, 1031, 1032, 1225EmployLe travail, l'occupation qu'on donne à quelqu'un, ou qu'on prend soi-même ; commission ; charge ; dignité (F).V. 172, 1715EmployerS'occuper soi-même, ou occuper les autres (F).V. 203EmportementTransport ; fougue ; mouvement violent, déréglé de l'ame qui la fait sortir hors des bornes de la raison. On se sert souvent de ce mot pour exprimer un amour aveugle et outré... (F).V. 867EmpresséQui est ardent, remuant, actif, diligent (F).V. 725, 1112EnchaisnerCaptiver ; lier ; joindre ; attacher (F).V. 539(s') EngagerOn dit engager son coeur, pour, dire, donner son amour, aimer (F).V. 1621EnnuyChagrin, tristesse, souci, déplaisir. En amour ennuy signifie tendre (F).V. 589EnnuyerFatiguer l'esprit. Faire, ou souffrir quelque chose avec chagrin, ou déplaisir (F).V. 146(s') EnquérirS'informer, demander une chose qu'on ne sçait pas, faire une recherche (F).V. 590(s') EntretenirFaire durer, faire continuer, faire subsister dans un certain état (F).V. 87, 1201EnvieDéplaisir qu'on a de voir ses égaux jouir de quelques avantages considérables (R).V. 47, 883, 1428, 1754EvénementIssuë, succès bon ou mauvais de quelque chose (F).V. 1848ExciterInciter, allumer, encourager, animer (F).V. 1213ExhalerSoulager (F).V. 29ExilerBannir, envoyer en retraite (F).V. 476ExorableQui se laisse vaincre et persuader par les raisons, les prières, et de la compassion (F).V. 761Exprès(adjectif) Précis, en termes si formels qu'il ne laisse aucun lieu de doute.V. 105(adverbe) Expressément ; à dessein (F).V. 194, 1749FeindreSe servir d'une fausse apparence, pour tromper, contrefaire, faire semblant, dissimuler.V. 1389, 1437, 1654Imaginer, inventer des choses fausses, controuver (F).V. 1843FeintDeguisé, contrefait, apparent, dissimulé (F).V. 1737FersToute sorte d'esclavage, et se dit particulièrement en matière d'amour (F).V. 77, 447, 538, 763, 861, 898, 947, 955, 1098FeuxSe dit figurément de la vivacité de l'esprit, de l'ardeur des passions (F).V. 218, 255, 280, 506, 720, 988, 1086, 1471, 1457, 1801FlâmeOn dit figurément la flamme de l'amour (F).V. 139, 181, 271, 287, 331, 351, 325, 476, 519, 525, 544, 555, 596, 640, 715, 824, 847, 1069, 1256, 1359, 1448, 1495, 1638, 1804, 1810FlaterDeguiser une verité qui seroit desagréable (...). Flater sa douleur, c'est-à-dire l'adoucir par quelques reflexions consolantes. Flater son amour, c'est-à-dire, se repaître d'esperances (F).V. 144, 1279, 1372, 1491FlateurCelui, ou celle qui flate (...). Se dit des écrits, des compliments, des manieres... (F).V. 87, 144FlétrirDeshonorer, diffamer (F).V. 1660FlottantIncertain, vacillant (F).V. 1865ForfaitSe dit des crimes en general (F).V. 942, 1252, 1260, 1660, 1685, 1748, 1832FortuneLe bonheur ou le malheur, ce qui arrive par hasard ; qui est fortuit et imprévu ; qui n'a point de cause certaine et connue (F).V. 1351, 1451, 1862FoyFidélité, assurance, promesse, serment... (F).V. 208, 222, 281, 641, 745, 973, 1034, 1045, 1139, 1476, 1493, 1856Confiance.V. 1434GenereuxBrave, vaillant, courageux (F).V. 944, 1475GesnerTourmenter le corps ou l'esprit (F).V. 71, 1011, 1067, 1123GracePlaisir, faveur (R).V. 725HautementClairement, manifestement, autentiquement (F).V. 1696HeurBonheur ; bonne fortune ; rencontre avantageuse (F).V. 91, 151, 393, 721, 960HistoiresC'est une narration continuée de choses vraies, grandes et publiques (...) pour l'instruction des particuliers et des Princes, pour le bien de la société civile (R).V. 175HommageSoumission, respect, obeissance, civilitez (F).V. 372, 459, 1203, 1339Hymen, hymenéeSignifie poëtiquement le mariage (F).V. 3, 8, 9, 123, 140, 428, 456, 540, 679, 807, 1068, 1073, 1075, 1124, 1131, 1136, 1176, 1278, 1313, 1608ImmolerSacrifier, hazarder, livrer, abandonner, assouvir une passion (F).V. 238, 395, 459, 630, 736, 756, 824, 1139, 1188, 1258, 1677ImpostureCalomnie, tromperie, mensonge, hypocrisie (F).V. 1547ImprimerSe dit des sentiments, des images qui font impression dans l'esprit, dans le coeur, dans la memoire (F).V. 971, 1745InconstanceLegereté, instabilité ; manque de fermeté, de durée, de resolution (F).V. 935InfortuneMalheur, desastre, perte causée par quelque accident fortuit ; disgrace, misere (F).V. 423, 809InsigneSignalé, remarquable, qui se fait distinguer de ses semblables (F).V. 759InterdireTroubler, étonner, embarasser, deconcerter, en sorte qu'on ne sçache ce qu'on dit, ni ce qu'on fait (F).V. 1154, 1308, 1541, 1644InterditTroublé, déconcerté, embarrassé (F).V. 491InterestCe qui concerne une personne.V. 1065JougSe dit figurément des choses qui assujettissent, qui contraignent ou qui imposent une espèce de servitude (F).V. 1373JourSe dit figurément de la vie (F).V. 105, 129, 629, 809, 953, 1195, 1334, 1356, 1442, 1461, 1512, 1526, 1534, 1812LiensSe dit figurément des engagemens, des attachemens, des liaisons. Le lien conjugal, c'est le mariage (F).V. 382, 482, 545, 1393LoisirUn certain espace de temps suffisant pour faire quelque chose (F).V. 135, 324LoisSe dit aussi en parlant des devoirs, des obligations, d'une soumission volontaire. Un amant vit sous les lois de sa maîtresse (F).V. 73, 434, 493, 568, 885, 996, 1145, 1159LustreÉclat, brillant, splendeur, relief (F).V. 519ManderConvoquer, enjoindre de venir à soi (F).Mander quelqu'un, c'est lui donner avis ou ordre qu'il ait à venir, le charger de faire quelque affaire (F).V. 78, 171, 1757MauxTroubles, agitations, que l'amour cause (F).V. 693, 726, 941, 1060, 1097, 1349, 1437, 1526, 1620MemoireSouvenir actuel (F).V. 735, 928MeriteAssemblage de plusieurs vertus ou bonnes qualitez en quelque personne (F).V. 21, 117, 323, 336, 560, 595, 1082, 1455, 1667MurmurerGronder, se plaindre (F).V. 733, 1207NaguèreIl y a peu, il n'y a pas long-temps, depuis peu (F).V. 1678ObscurQui n'est point connu ; qui n'a point d'éclat ; qui n'a point de reputation (F).V. 895ObséderAssieger, importuner quelqu'un par son assiduité, ses demandes (F).V. 719OndeCe mot est plus de la poësie, que de la prose. Il signifie eau (R).V. 1376OpprobreHonte qui est attachée à une vilaine action ; injure ; affront ; ignominie (F).V. 1706(s') OublierS'égarer, se laisser transporter (F).V. 1, 477, 1037, 1206 OutrageInjure atroce ; offense ; affront sensible et cruel (F).V. 320, 752, 757, 943, 1204, 1328OutragerOffenser cruellement, faire outrage (F).V. 320, 757PancherIncliner ; se porter (F).V. 453, 456PenteInclination (F).V. 127PompeSomptuosité ; appareil ; depense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solennelle, & plus éclatante (F).V. 3, 1744PrescrireOrdonner precisément à quelqu'un ce qu'il doit faire (F).V. 707, 1399PresserContraindre, obliger, solliciter, pousser, exciter avec chaleur (R).V. 507, 1035, 1159PrévaloirTirer avantage, se servir d'une chose à son avantage (R).V. 15PrévenuÊtre prévenu, c'est avoir de la prévention, ou de la préoccupation (R).V. 345, 1417PrixRecompense à disputer, & à juger à celui qui aura l'avantage à quelque exercice, à quelque dispute (F).V. 856, 1143, 1401, 1816PromptPrêt à faire quelque chose sans tarder, qui l'execute sur le champ (F).V. 575(se) PromettreCroire, espérer (R).V. 220, 359, 564, 570(se) ProposerAvoir dessein, former le dessein de faire quelque chose (F).V. 159RaceLignée, lignage, extraction ; tous ceux qui viennent d'une même famille ; generation continuée de pere en fils (...) Se dit aussi des anciennes familles illustres (F).V. 1247RareSe dit de ce qui est précieux, et excellent ou des personnes extraordinaires en sçavoir, en vertu, en merite (F).V. 197, 288, 595, 945, 1119RebutRebuffade, action de mépris, et de dédain (F).V. 740RendreCeder, acquiescer ; se livrer, se laisser vaincre (F).V. 1007RenommerNommer avec éloge, rendre celebre, mettre en reputation, bonne ou mauvaise (F).V. 523ReposQuiétude et tranquilité d'esprit, état paisible ; sans trouble, sans crainte et sans soin (F).V. 548, 804RésoudreFaire prendre résolution à quelqu'un (R).V. 1576, 1792RespectDeference, honneur, soumission ; consideration, égard (F).V. 1, 478, 518, 1829RevererHonorer ; respecter, venerer quelque personne ou quelque chose (F).V. 1235RévoquerSe dedire, changer de sentiment (F).V. 511RigueursOn dit les rigueurs d'une maîtresse ; pour dire, sa severité, sa vertu ; le refus qu'elle fait de son coeur, de ses faveurs (F).V. 1226, 1360RuineMétaphoriquement, destruction de la faveur, de l'honneur, et de toute la personne (S).V. 1794SangSe dit aussi de la parenté, de l'extraction ; de la race ; de la communion du sang par la naissance (F).V. 33, 318, 445, 523, 660, 663, 969, 1204, 1454, 1791SçavantQui est bien instruit, bien informé de quelque chose, ou de quelque affaire (F).V. 827SeconderAider, favoriser, servir quelqu'un dans un travail, dans une affaire (F).V. 1674SecoursAide, charité qu'on fait à quelqu'un ; protection, assistance qu'on lui donne dans ses besoins (F).V. 220, 672, 697, 1090, 1525, 1598SeduireCorrompre ; abuser quelqu'un ; le tromper ; lui persuader de faire le mal, ou lui mettre dans l'esprit quelque mauvaise doctrine (F).V. 315, 472, 1010SejourLieu considéré par rapport à l'habitation, à la demeure qu'on peut y faire (F).V. 249, 425SoinsAttachement particulier qu'on a pour une maîtresse ; des services qu'on lui rend pour lui plaire (F).V. 101, 321, 682, 684, 761, 796, 853, 997, 1053, 1141, 1261, 1325, 1481, 1554, 1565 1580, 1816SolliciterInciter, exciter, induire à faire quelque chose, travailler avec empressement à faire reüssir une affaire ; demander avec instance (F).V. 1034SoutienAppui, defense, protection (F).V. 1672SouffrirNe se pas opposer à une chose, y consentir tacitement, la tolerer (F).V. 106, 202, 233, 493, 606, 683, 982, 1020, 1117, 1144, 1347, 1488, 1496, 1611, 1794, 1833SuiteGens qui accompagnent un Prince (R).V. 69SujetCause, occasion, matière, lieu ; raison, motif, fondement (F).V. 182, 548, 633, 892, 1390, 1763TantôtIl y a un instant (S).V. 515, 863, 1067, 1305, 1327TransportsSe dit figurément des passions pour en marquer l'excès, la violence, la vivacité (F).V. 245, 265, 703, 1113, 1293TrépasMort ; passage d'une vie à l'autre (F).V. 933, 1001, 1457, 1671, 1708, 1803, 1823TriompherEntrer en triomphe solennellement, ou en vainqueur dans quelque ville (F).V. 167UserMettre à profit, menager, employer, se servir (F).V. 1058, 1440, 1841ValeurHardiesse ; bravoure ; courage ; ardeur belliqueuse ; qualité guerriere (F).V. 44, 441, 624, 1406VoeuxHommage, soins amoureux (F).V. 56, 171, 421, 564, 655, 725, 764, 1030, 1217, 1339, 1565, 1808VoyeMoyen, manière dont on se sert pour arriver à quelque fin.V. 584, 628
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Les sources
+## Les sources.
 
 
-### CorpusGermanicus
+### Corpus.Germanicus
 Pièces de théâtre de Monsieur Boursault
 Pièces de théâtre de Monsieur Boursault
 Germanicus
@@ -2993,7 +2993,7 @@ E. Boursault : Théâtre choisi
 
 
 
-### Autres œuvresGermanicus
+### Autres œuvres.Germanicus
 Germanicus
 Satires et épîtres
 Maximes et réflexions sur la comédie
@@ -3009,10 +3009,10 @@ La Germanie
 
 
 
-## Ouvrages historiques et critiques
+## Ouvrages historiques et critiques.
 
 
-### Instruments de travailDictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les artset al.
+### Instruments de travail.Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les artset al.
 Le Grand dictionnaire historique ou mythologique...
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise... avec les termes les plus connus des arts et des sciences
 Introduction à la langue française du XVIIème siècle
@@ -3023,7 +3023,7 @@ Bibliographie
 
 
 
-### Approches générales du théâtre et de la littérature du XVII*e* siècleHistoire de la littérature française du XVIIème siècle
+### Approches générales du théâtre et de la littérature du XVII*e* siècle.Histoire de la littérature française du XVIIème siècle
 La Poétique
 Morales du grand siècle
 La Tragédie de l'âge classique
@@ -3036,7 +3036,7 @@ Lire le théâtre II
 
 
 
-### Études sur Boursault, et sur GermanicusRecherches sur le lexique d'Edme Boursault
+### Études sur Boursault, et sur Germanicus.Recherches sur le lexique d'Edme Boursault
 Défense de la langue française
 Autour du XVIIème siècle : les libertins
 Recueil des publications de la société havraise

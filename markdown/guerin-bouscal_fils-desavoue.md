@@ -17,7 +17,7 @@ A PARIS ; Chez ANTOINE DE SOMMAVILLE, au Palais, en la gallerie des Merciers, �
       master 1 sous la direction de Georges Forestier (2011-2012)
 
 
-# Introduction
+# Introduction.
 
 
 J'ay fait un peu de violence à la vérité pour donner plus d'éclat à mon ouvrage, et comme je me suis proposé la satisfaction de ceux qui ayment le Théâtre plustot que l'instruction de ceux qui ignorent l'Histoire, j'ay esté bien aisé d'estre moins exact en celle-cy, afin de l'estre davantage en celle-la. [1]
@@ -29,10 +29,10 @@ Au début des années 1640, la tragi-comédie connaît un léger déclin par rap
 Si les deux rééditions de la pièce suggèrent un certain succès de celle-ci, il dut sans doute être limité ; du moins fut-il vite oublié, à l'image de son auteur, Guyon Guérin de Bouscal. Proche de la Cour, le dramaturge ne choisit pas au hasard la ville de Rome, modèle de réflexion politique et artistique dans l'imaginaire collectif. Le roi Théodoric, caractérisé par son discernement et son courage, permet sans doute un éloge indirect de Richelieu, et par extension, de la suprématie française.
 
 
-# Vie et œuvre de Guyon Guérin de Bouscal
+# Vie et œuvre de Guyon Guérin de Bouscal.
 
 
-## Famille et études
+## Famille et études.
 
 La vie du dramaturge est fort mal connue. Guyon Guérin de Bouscal serait né en 1617 à Réalmont, bourgade située entre Albi et Castres. On ne sait rien sur son enfance ; en 1628, la prise de Réalmont, haut-lieu du protestantisme, par les troupes de Condé, entraîna la destruction des archives. Guyon est probablement le fils de Jean Guérin, notaire huguenot. Son nom de « Bouscal » provient d'un lopin de terre dans le consulat du Laux, mais il fut le seul à porter ce nom, dans la mesure où ses deux frères, Pierre et Nathanaël, ne convoitèrent jamais ce titre. Guyon étudia le droit, et devint avocat au Conseil du roi après s'être muni d'une charge de conseiller, tandis que ses frères prirent la succession de leur père et devinrent notaires. Issu d'une famille protestante, il ne put certainement pas s'inscrire à l'Université de Toulouse, réservée aux catholiques. Il est peu probable qu'il abjura avant de suivre ses études de droit : il suivit plus vraisemblablement ses études à l'Université de Cahors comme de nombreux huguenots du Languedoc. Aucun registre ne vient pour autant confirmer cette hypothèse. Guérin de Bouscal se convertit au catholicisme à l'âge adulte, mais on ne peut déterminer la date de sa conversion. Il adressa la dédicace de sa* Doranise* (1634) à l'héritière des Rohan, et fit l'éloge du duc, ancien chef militaire des religionnaires ; on pourrait en déduire qu'il adjura après 1634.
 
@@ -42,7 +42,7 @@ Eric Caldicott, dans son édition critique du *Gouvernement de Sanche Pansa* (16
 François daniel de Guerin, Lieutenant de Réalmont, aagé d'environ soixantes ans, Lequel moureust Le dernier jour du mois de decembre mille six cens soixante quinze. [4]
 
 
-## Vie parisienne et littéraire
+## Vie parisienne et littéraire.
 
 La vocation de Guérin de Bouscal est expliquée de façon extrêmement romanesque par Tibulle Desbarreaux-Bernard, un historien du XIX*e* siècle :
 
@@ -92,7 +92,7 @@ En pleine querelle du *Cid*, dans son *Prologue à la Renommée* qui précède *
 Je fais garder la bienséance à toutes les personnes que j'introduis dans mon ouvrage, avec autant de régularité que j'en ay pu acquérir par une assez longue étude, par le séjour de dix ans à la Cour, par le commerce des plus honnêtes gens de l'Europe [7].
 
 
-## Retour dans le Languedoc et carrière politique
+## Retour dans le Languedoc et carrière politique.
 
 Guérin de Bouscal retourna dans le Languedoc vers 1647, les bouleversements politiques provoqués par la Régence l'ayant sans doute encouragé à partir. Son départ mit un terme à sa carrière de dramaturge. Il épousa Madeleine-Victoire de Rondelet, mais nous ne connaissons pas la date de son mariage. Héritière d'une grande famille bourgeoise du Languedoc, elle descendait probablement du célèbre médecin de Montpellier, Guillaume Rondelet dit « Rondibilis ».
 
@@ -105,13 +105,13 @@ Il ne publia plus rien, mais ses pièces continuèrent à être jouées. *Le Reg
 Guérin de Bouscal est mort le 31 décembre 1675, et fut enterré au cimetière de Notre Dame du Taur, le 1*er* janvier 1676.
 
 
-# Le Fils désavoué, argument et scénographie
+# Le Fils désavoué, argument et scénographie.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Acte I
+### Acte I.
 
 Scène 1 : Un monologue de Julie, dame romaine, joue le rôle de scène d'exposition. Julie était l'épouse d'un sénateur romain, Lépide: quand elle fut enceinte, il l'accusa injustement d'infidélité et fit abandonner l'enfant, au moment même de sa naissance. Julie, vingt ans plus tard, est veuve et cherche à apaiser sa douleur de mère par les charmes de l'amour avec Maxime, chevalier romain.
 
@@ -124,7 +124,7 @@ Scène 4 : Boèce, à la demande du Sénat, harangue le nouveau roi d'Italie, e
 Scène 5 : Sindéric, favori du roi Théodoric, confie à un ami ce qu'il vient d'apprendre : il est d'un sang illustre, et sa vertu guerrière s'explique dès lors par sa haute naissance.
 
 
-### Acte II
+### Acte II.
 
 Scène 1 : Sindéric révèle au roi qu'il est le fils de Lépide et de Julie. Théodoric lui conseille de se rendre chez Julie.
 
@@ -139,7 +139,7 @@ Scène 5 : On annonce à Julie l'arrivée de Sindéric.
 Scène 6 : Sindéric ne dévoile pas immédiatement le but de sa venue : il joue la comédie, prétend faire le résumé d'une pièce intitulée *Le Fils désavoué* et en profite pour évoquer sa propre aventure, ce qui trouble profondément Julie et entraine la scène de reconnaissance.
 
 
-### Acte III
+### Acte III.
 
 Scène 1 : Maxime a surpris Sindéric dans les bras de Julie et soupçonne donc le favori du roi d'être l'amant de Julie. Un ami, Horace, tente de le raisonner.
 
@@ -156,7 +156,7 @@ Scène 6 : Sindéric ne comprend pas ce brutal changement de situation, et hés
 Scène 7 : Maxime et Sindéric se rencontrent chez Julie. Sindéric provoque Maxime en duel sur un malentendu : Sindéric ignore l'identité de Maxime tandis que le chevalier prend le terme de « mère » pour un synonyme d'« amante ».
 
 
-### Acte IV
+### Acte IV.
 
 Scène 1 : Livie apprend à Julie qu'un combat a opposé les deux hommes, mais que l'issue n'est pas connue. Julie, terrifiée, prie pour le salut de son fils.
 
@@ -171,7 +171,7 @@ Scène 5 : On apporte une lettre de Maxime à Julie, dans laquelle il supplie J
 Scène 6 : Sindéric s'introduit de nuit chez Julie, espérant qu'une explication sur le malentendu entre Maxime et lui suffirait à ramener sa mère à la raison. Mais il n'en est rien : Julie réaffirme sa position et nie être la mère de Sindéric. Ce dernier, devant le refus répété de sa mère de le reconnaître, décide de demander justice au roi.
 
 
-### Acte V
+### Acte V.
 
 Scène 1 : Maxime ne peut croire que Julie manque de vertu ; il veut lui rendre visite.
 
@@ -188,7 +188,7 @@ Scène 6 : Théodoric joue alors la comédie : il déclare à Julie croire que
 Scène 7 : Julie reconnaît publiquement son fils. Sinderic triomphant obtient du roi de lui accorder Maxime pour beau-père, ce dernier ayant pardonné Julie. Tous les personnages rendent hommage à Théodoric.
 
 
-## Contexte de représentation et réception de la pièce
+## Contexte de représentation et réception de la pièce.
 
 Nous ne possédons aucune information sur la représentation théâtrale du *Fils désavoué*. Le spectacle fut probablement crée au cours de la saison 1640-1641, mais cela reste une simple hypothèse. Le lieu de la représentation demeure également inconnu : la pièce put aussi bien être jouée au théâtre de l'Hôtel de Bourgogne qu'à l'Hôtel du Marais. S.Wilma Deierkauf- Holsboer [9] indique que la troupe royale, qui comptait encore neuf acteurs au début de l'année 1640, est composée de cinq membres seulement dans la seconde moitié de 1641, ce qui fragilise considérablement la compagnie, et empêche de poursuivre de façon régulière les représentations à l'Hôtel de Bourgogne [10]. On peut penser que *Le Fils désavoué* fut joué avant le départ des comédiens ; rien n'exclut sa création par cette troupe. Il n'existe malheureusement aucun répertoire de la troupe royale pour la période allant de 1638 à 1641. La situation de la compagnie de la rue Vieille-du-Temple est tout à fait opposée à celle de la troupe royale : elle comptait treize membres en 1640. Le répertoire de la troupe s'enrichit de deux pièces de Pierre Corneille, *Horace* fin février ou début mars 1640, et *Cinna* quelques mois plus tard [11].
 
@@ -200,7 +200,7 @@ Il reste … toujours plus de cinquante pièces dramatiques datant de 1638 à 16
 Il paraît cependant impensable que *Le Fils désavoué* ne fût jamais représenté. En effet, la publication d'un ouvrage concrétise le succès de la création dramatique et la reconnaissance du public. Seule une pièce jouée et approuvée par le public bénéficie d'une publication dans la première moitié du XVII*e* siècle. Or, les éditions successives du *Fils désavoué* (1641, 1643, 1654) [15] prouvent que la pièce rencontra un certain succès. Toutefois, le silence des contemporains sur le spectacle et sur Guérin de Bouscal laissent penser qu'il dut être assez modeste.
 
 
-## Reconstitution scénographique
+## Reconstitution scénographique.
 
 *Le Mémoire de Mahelot* suggère que la disposition scénique d'une tragi-comédie, dans les années 1630 et au début des années 1640, est similaire à l'Hôtel de Bourgogne et au Théâtre du Marais. En l'absence de documents originaux concernant notre tragi-comédie, recréer la scénographie de la pièce relève uniquement de la conjecture ; cependant, il reste dans une certaine mesure possible de reconstituer la mise en scène de l'époque à partir du* Mémoire*, qui nous livre de précieuses indications sur les décors et en particulier sur les dispositions techniques privilégiées par la Troupe Royale. Les notices destinées aux décorateurs et aux comédiens sont parfois accompagnées de croquis qui nous permettent d'avoir un aperçu de la scénographie adoptée au XVII*e* siècle.
 
@@ -253,10 +253,10 @@ Dans l'acte V, la scène 1 a lieu dans la maison de Maxime. La remarque « Son 
 À partir de cette étude détaillée, on peut tenter d'élaborer une reconstitution scénographique, même s'il faut répéter qu'il s'agit d'une simple hypothèse. En arrière-plan, nous avons placé dans la chambre centrale le palais de Théodoric, en représentant la salle du trône à partir du croquis de la page 238. Le premier plan côté jardin, du point de vue de la salle, représente une tour symbolisant l'entrée de la ville de Rome (cf. croquis de la page 274) ; le deuxième plan figure la maison de Maxime à partir du croquis de la page 254. Du côté cour, nous avons imaginé le palais de Julie : au premier plan, une chambre ouvrante (inspirée par le croquis de la page 302) ; au deuxième plan, une chambre fermée, où l'on représenterait la porte d'entrée du palais (cf. croquis de la page 236).
 
 
-# Génétique théâtrale
+# Génétique théâtrale.
 
 
-## *La Cour Sainte*, Nicolas Caussin
+## *La Cour Sainte*, Nicolas Caussin.
 
 Lancaster, dans son* History of French Dramatic Literature in the Seventeenth Century* [26], nous livre la source d'inspiration de Guérin de Bouscal pour notre tragi-comédie : il s'agit de *La Cour Sainte*, du jésuite Nicolas Caussin (1583-1651). L'énorme ouvrage du Père Caussin, composé de neuf volumes rédigés en français, fut réédité une dizaine de fois du vivant de Guérin de Bouscal. Cet essai, destiné à l'éducation des nobles, et en particulier des gens de Cour de Louis XIII, se présentait comme un discours chrétien sur les vertus et les vices des princes. Il mêlait exemples historiques et textes fictifs pour apporter des modèles précis aux lecteurs ; il apparaissait comme un guide voué à améliorer les comportements des hommes par l'imitation des actions pieuses ou illustres, notamment des souverains en tant que représentants de Dieu sur Terre [27]. *La Cour Sainte* fut publiée pour la première fois en 1624 à Paris, en cinq volumes. Mais la partie intitulée *L'homme d'Estat* dont s'inspira notre dramaturge n'apparut qu'en 1627, dans la mesure où il s'agit d'un des quatre apologues [28] ajoutés dans le deuxième volume lors d'une nouvelle édition.
 
@@ -287,12 +287,12 @@ Caussin se place en véritable metteur en scène et imagine même les répliques
 Le dramaturge put également s'inspirer de l*'Excerpta Valesiana* [34], texte historique anonyme datant du VI*e* siècle et publié pour la première fois en 1636 par Henri de Valois. L'anecdote du jugement du roi se retrouve dans « Chronica theodericiana ». Cependant, l'ouvrage était sans doute moins accessible et moins connu que *La Cour Sainte*, et ne faisait aucun lien entre les personnages de Théodoric et de Boèce.
 
 
-## Travail de dramatisation
+## Travail de dramatisation.
 
 Nous avons émis l'hypothèse que le dramaturge est parti du dénouement pour créer son œuvre. Il est dès lors intéressant d'examiner les choix et les procédés adoptés par l'auteur pour étoffer sa pièce, pour embarrasser l'action principale de divers épisodes fictifs et de divers personnages [35]. Ainsi, tous les éléments ajoutés à la trame de départ concourent à préparer la scène finale du jugement de Théodoric. Guérin de Bouscal a dû effectuer de nombreuses modifications par rapport au texte de Caussin pour adapter le récit au théâtre, à la grammaire et aux exigences de la tragi-comédie.
 
 
-### Les épisodes fictifs
+### Les épisodes fictifs.
 
 Tout d'abord, l'auteur a transformé le personnage de Sindéric pour le rendre plus vraisemblable. Chez Caussin, le fils est élevé dans la servitude, et se rend à Rome pour voir sa mère, mais surtout pour devenir un homme libre :
 
@@ -346,7 +346,7 @@ Mon cœur s'est attendry sans mon consentement [42].
 La justification de la mère est donc rendue vraisemblable dans *Le Fils désavoué*. L'émotion suscitée par la saynète aurait été provoquée par l'excellent jeu du comédien, et Julie aurait incarné de façon spontanée le rôle de la mère.
 
 
-### Les personnages et l'onomastique
+### Les personnages et l'onomastique.
 
 Guérin de Bouscal entretient un rapport souple à l'Histoire, qui apparaît comme une simple toile de fond permettant de rendre sa pièce plus vraisemblable. Seuls Théodoric et ses exploits passés offrent un arrière-plan historique. Toutefois, il est déjà rare qu'une tragi-comédie emprunte son sujet à l'histoire romaine et il faut souligner la précision et l'exactitude des faits historiques évoqués par notre auteur dans *Le Fils désavoué*. Le dramaturge s'est en grande partie appuyé sur *La Cour Sainte* de Caussin, et a sans doute consulté, comme le suggère Lancaster [43], la bien célèbre *Histoire des Goths* de Jordanès pour approfondir ses connaissances sur Théodoric. Nous ne proposerons pas ici une biographie détaillée de Théodoric, dans la mesure où ce n'est pas sa vie en soi qui nous intéresse, mais ce qu'en retient Guérin de Bouscal. Nous nous concentrons ainsi sur les seuls éléments choisis par notre dramaturge et offrons donc une biographie sommaire et orientée par notre pièce. Notre auteur insère dans les propos de Théodoric (vers 63-64) une référence à son enfance à la cour de Byzance, et à son retour tardif mais glorieux dans l'Empire Romain. En effet, Théodoric le Grand (455-526), roi ostrogoth, fils de Théodémir et d'Erelieva, fut otage pendant neuf ans à la suite d'un traité conclu par son père avec l'Empire Byzantin et fut donc élevé à Constantinople. Devenu roi en 473, il conduit son peuple en Macédoine avant d'occuper la péninsule en 489. *Le Fils désavoué* se déroule en l'an 500, puisque Guérin de Bouscal met en scène l'entrée solennelle de Théodoric dans la ville de Rome et la nomination de Boèce à la fonction de ministre d'État. L'auteur introduit le personnage historique de Boèce, sans nul doute parce que le jugement de Théodoric appartient, chez Caussin, à un apologue consacré à cet homme illustre [44]. Le roi évoque lui-même sa victoire sur Odoacre et la prise de Ravenne :
 
@@ -380,7 +380,7 @@ Notre dramaturge utilise à la fois des noms de personnages historiques, de pers
 La diversité des sources n'empêche pas l'auteur de créer un cadre historique uni et vraisemblable ; le plaisir du lecteur semble plus important que la véracité des faits évoqués.
 
 
-# Analyse dramaturgique
+# Analyse dramaturgique.
 
 
 ## Tragi-comédie ou tragédie à fin heureuse ?
@@ -422,7 +422,7 @@ Julie est partagée entre son fils et son amant : elle est en quête de deux si
 Enfin, notre pièce s'inspire d'une source historique, mais traite avec souplesse les faits attestés par l'Histoire. Contrairement aux tragédies qui décrivent les desseins des princes et des rois, ou qui rendent compte du contexte politique de l'époque, notre tragi-comédie se concentre sur des problèmes privés. Dans sa *Poétique*, Aristote déclare qu'un sujet historique est supérieur à un sujet inventé puisque l'Histoire rend plus acceptable la fiction aux yeux des spectateurs. Il ne condamne donc pas la matière fictionnelle. Ainsi, *Le Fils désavoué* peut être assimilé à une tragédie à fin heureuse, ou encore à une tragédie « irrégulière ».
 
 
-## « Dramaturgie de la gratuité »
+## « Dramaturgie de la gratuité ».
 
 Notre tragi-comédie repose sur un faux problème de départ, et se caractérise donc par sa contingence, par une sorte de « dramaturgie de la gratuité » [62]. En effet, Julie pouvait reconnaître son fils sans être déshonorée : son problème relève de l'intime, de la sphère privée, et non de la sphère publique. Elle s'auto-persuade de l'impossibilité de reconnaître son fils, procédé original qui rendra d'autant plus facile l'annulation de ce faux obstacle. Aucune loi, aucune maxime ne l'empêchait de reconnaître publiquement son fils, dans la mesure où son cruel époux avait enlevé son enfant à la naissance, et qu'elle était veuve depuis longtemps. Il s'agit plutôt d'une opposition de principe, d'une aubaine dramatique. Jacques Scherer souligne la particularité du personnage de la veuve, qui se définit ordinairement par son indépendance:
 
@@ -439,7 +439,7 @@ Il existe un véritable crescendo dans les obstacles : une affaire privée, non
 Cependant, l'inceste reste en arrière-plan et n'apparaît pas comme un danger réel. Il prend une forme particulière dans notre pièce puisqu'il ne s'agit pas d'une question d'amour, mais d'un désaveu. Le risque de l'inceste est nul, dans la mesure où tous les personnages, à l'exception de Maxime, sont certains de l'identité de Sindéric ; le faux obstacle disparaît rapidement et permet de respecter la loi morale. De même, le spectateur sait que Julie a reconnu son fils ; en ce sens, l'obstacle arrive a posteriori et ne présente pas un véritable danger à ses yeux. L'impératif moral ne fonctionne pas sur le plan référentiel, mais dramaturgique : il correspond à l'interdit suprême qu'il faut fuir, et entraîne le dénouement. La transgression incestueuse se trouve donc uniquement actualisée sur le plan interne à l'action. Le roi Théodoric savait que la mère était contrainte de refuser l'inceste. Pourtant, l'inceste peut être vu comme clé de voûte de la pièce parce qu'il est lié à la confirmation de l'identité du héros [66]. La chute du masque fait disparaître la transgression et entraîne le retour à la norme sociale. La mère perd subitement son statut d'opposant : l'effacement de l'obstacle apparaît tout aussi contingent que son apparition.
 
 
-## L'illusion représentée : des acteurs-dramaturges
+## L'illusion représentée : des acteurs-dramaturges.
 
 Théodoric est sollicité par son favori pour lui rendre justice. Si le personnage du roi est récurrent dans les tragi-comédies [67], il est plus original que cet acteur-type occupe une fonction sociale en exerçant un rôle de juge. Incarnation du *deus ex machina*, il est le seul à discerner la vérité derrière le masque du mensonge et engendre le dénouement heureux :
 
@@ -480,10 +480,10 @@ Ainsi les passions s'esmouvent beaucoup mieux [71].
 L'illusion théâtrale apparaît comme une voie d'accès à la vérité ; elle offre, par un moyen détourné, la possibilité de se dévoiler ou de mettre à nu une vérité. La tragi-comédie se met en scène, devient son propre reflet, et amorce une réflexion sur la représentation théâtrale.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Éditions du texte
+## Éditions du texte.
 
 Il existe quatre éditions du *Fils désavoué*, ou *Le Jugement de Théodoric, roy d'Italie*, imprimé pour la première fois en 1641, et réédité en 1642, 1643 et 1654. Dès le 3 mai 1641, le « Privilège du Roy » accorde le droit d'imprimer le texte pour cinq ans au libraire Antoine de Sommaville, et l'« achevé d'imprimer » précise que l'impression a été effectuée le 17 octobre de la même année. Il ne reste qu'un exemplaire de l'édition originale à la Bibliothèque Nationale de France, site Tolbiac, sous la cote YF-576, également consultable sous forme de microfiche (MFICHE YF-576).
 
@@ -560,7 +560,7 @@ Liste des abréviations utilisées dans les notes de bas de pages et dans le lex
 – RICHELET, Pierre, *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*, Genève, J.-H. Widerhold, 1680 (2 vol.) : (R.).
 
 
-## Graphie
+## Graphie.
 
 Nous avons conservé la graphie de 1641, en apportant quelques modifications d'usage quand elles s'avéraient nécessaires à la bonne compréhension du texte. Dans la première moitié du XVII*e* siècle, l'orthographe est fort éloignée des normes orthographiques actuelles ; elle est encore instable, sans règle fixe, d'où une importante liberté graphique et de nombreuses variantes au cours du texte. Un même mot peut présenter diverses graphies au sein de la pièce. On trouve par exemple trois graphies différentes pour le verbe « désavouer » : « desadvouer », « desadvoüer » ou « desavouer ». Ces fortes disparités s'expliquent notamment par la répartition des cahiers entre les ouvriers de l'imprimerie. Cependant, dans notre pièce, les différentes graphies sont extrêmement fréquentes au sein d'un même cahier. Nous pouvons en ce sens faire référence aux deux exemples les plus marquants de notre texte : au vers 22, nous trouvons dans le même vers « souspirs » et « soupirs » ; de même, nous pouvons lire au vers 108 « apprend » et au vers 109, « aprend ». L'auteur assiste rarement à l'impression de son œuvre : lorsqu'un auteur cède son ouvrage au libraire, il n'a plus aucun droit sur l'œuvre pendant la période fixée par le privilège. Le libraire a le choix de l'atelier d'imprimerie ; l'auteur ne peut dès lors ni aider les imprimeurs, ni contrôler leur travail, ni relire son texte sous presse.
 
@@ -759,7 +759,7 @@ la > l'a ( vers 1714)
 Cet e > cette (vers 1746)
 
 
-## Ponctuation
+## Ponctuation.
 
 Nous avons essayé de conserver la ponctuation de 1641, révélatrice des pratiques contemporaines. Nous avons donc réduit le plus possible la modernisation de la ponctuation pour éviter de trahir les intentions de l'auteur. La ponctuation possède au XVII*e* siècle une fonction d'abord orale ; elle a une valeur rythmique et non syntaxique. Nous pouvons préciser les différences de degré entre les signes de ponctuation [75] :
 
@@ -790,7 +790,7 @@ Nous avons transformé les deux-points en point dans le vers 102 ; en point d'i
 Nous avons transformé le point-virgule en virgule dans les vers 696, 1090 ; en point dans le vers 181 ; en point d'interrogation dans les vers 816, 1065, 1572.
 
 
-# Le Fils désavoué ou Le Jugement de Théodoric, roi d'Italie. Tragicomédie
+# Le Fils désavoué ou Le Jugement de Théodoric, roi d'Italie. Tragicomédie.
 
 
 ## ACTEURS [76].
@@ -813,7 +813,7 @@ La Scene est dans Rome.
 
 ### SCENE PREMIERE.
 
-    JULIE *seule.*
+    JULIE *seule.*.
 Souvenir importun qui trouble mes plaisirs,  
 Tyran de mon repos, cause⁎ de mes soupirs⁎,  
 Image de mon fils qui me poursuis [78] sans cesse,  
@@ -879,7 +879,7 @@ Madame, le Roy vient par la porte prochaine,
 Du balcon de la sale, on le [95] peut voir sans peine,  
 Le spectacle en est beau, tout le monde le suit.  
 
-    [JULIE.] [96]
+    [JULIE.] [96].
 Allons voir.  
 
     LIVIE.
@@ -1043,7 +1043,7 @@ Blessé mortellement aux dernieres alarmes⁎,
 L'a fait vers l'Aventin [123] reculer de cents pas,  
 Voulant l'entretenir au point [124] de son trepas.  
 
-    THEODORIC. 
+    THEODORIC.
 Allez voir ce que c'est ! Que je plains ces Portiques,  
 Dont les restes brisez sont encor magnifiques !  
 Que ces arcs⁎ triomphaux qui s'offrent à mes yeux,  
@@ -1080,7 +1080,7 @@ Vostre appuy, vos tresors, vos charges, votre employ,
 Quoy que vous en disiez j'ay de la peine à croire,  
 Que le Ciel vous reserve une plus haute gloire⁎.  
 
-    SINDERIC.  
+    SINDERIC. 
 Emile, il est certain que l'amitié⁎ du Roy  
 Sembloit avoir versé tous ses bienfaicts sur moy.  
 Avant que ce grand Prince eust attaqué Ravenne,  
@@ -1116,7 +1116,7 @@ Qui me doit couronner d'une gloire⁎ immortelle ?
 Et tu peux endurer qu'il te soit reproché  
 De paroistre insensible où [132] je suis si touché ?  
 
-    EMILE. 
+    EMILE.
 Croyez-vous que la joye ait moins de violence [133]  
 Lors qu'elle nous contraint⁎ de [134] garder le silence ?  
 Comme trop de lumiere empesche⁎ de bien voir,  
@@ -1209,11 +1209,11 @@ M'ayant peu descouvrir⁎ ce secret important.
 Mais vous ayant nommé ceux qui vous ont faict naistre,  
 Qu'est-ce qu'il adjousta pour vous faire cognoistre ?  
 
-    SINDERIC. 
+    SINDERIC.
 Il ne me dit plus rien, la mort trancha ses jours  
 Sur le point [145] qu'il vouloit poursuivre son discours.  
 
-    THEODORIC. 
+    THEODORIC.
 Ce deffaut⁎ pourroit nuire à quelque ame commune,  
 Sans vertu⁎, sans amis, sans valeur, sans fortune⁎,  
 Qui voudroit s'enrichir des biens de sa maison,  
@@ -1226,7 +1226,7 @@ Pourtant si l'interest⁎ ou de raisons secretes [147],
 L'obligent⁎ [148] à choquer⁎ le dessein⁎ que vous faictes,  
 Je luy feray sçavoir qu'elle s'en prend à moy.  
 
-    SINDERIC. 
+    SINDERIC.
 C'est trop pour un subject.  
 
     THEODORIC.
@@ -1252,7 +1252,7 @@ Que Lepide n'eust point des enfans de Julie ?
     EMILE.
 Il est bien assuré⁎, n'en doutez nullement.  
 
-    SINDERIC. 
+    SINDERIC.
 Estouffe tes desseins⁎ dans leur commencement,  
 Mal-heureux Sinderic, il vaut mieux pour ta gloire⁎ ;  
 Mais quoy puis-je souffrir⁎ qu'on trouve dans l'histoire,  
@@ -1288,7 +1288,7 @@ Et qu'elle veuille enfin recompenser ma foy⁎ ?
 Vous m'aymez ! Ah bon-heur à qui tout autre cede [150] !  
 Est-il vray qu'aujourd'huy Maxime vous possede ?  
 
-    JULIE.  
+    JULIE. 
 Est-il vray qu'il en doute ? et qu'il ne cognoist [151] pas  
 Que son manque de foy⁎ me donne le trepas ?  
 Quoy n'est-ce pas assez vous découvrir⁎ mon ame,  
@@ -1320,7 +1320,7 @@ Que la religion consacre aux immortels,
 Je ne changeroy point vostre pouvoir supreme,  
 Avec ces quatre mots, Maxime je vous ayme.  
 
-    JULIE. 
+    JULIE.
 Quelqu'un entre !  
 
 
@@ -1364,7 +1364,7 @@ Ce discours me surprend.
         Croy moy, chere Livie,  
 Je crains avec raison un changement de vie.  
 
-    LIVIE. 
+    LIVIE.
 Pourquoy le craignez vous ?  
 
     JULIE.
@@ -1395,7 +1395,7 @@ Qu'un injuste soubçon avoit rendu coupable,
 Qui ne me fut donné que pour m'estre ravy,  
 Je le perdis helas ! d'abord⁎ que je le vy.  
 
-    LIVIE.  
+    LIVIE. 
 Rome n'a jamais sçeu cette estrange⁎ advanture⁎,  
 Mais enfin que fit-on ?  
 
@@ -1443,11 +1443,11 @@ CORNELIE, JULIE, LIVIE.
 Madame, Sinderic est là bas à la porte,  
 Qui demande à vous voir.  
 
-    JULIE. 
+    JULIE.
         Attendez que je sorte,  
 Je doy bien cét honneur au favory⁎ du Roy.  
 
-    [LIVIE.] [163]
+    [LIVIE.] [163].
 Que je plains son mal-heur ! dieux à ce que je voy,  
 Ce n'est pas sans raison qu'elle craint sa fortune⁎ !  
 
@@ -1478,7 +1478,7 @@ Avez-vous faict dessein⁎ de me desadvoüer⁎ [164]?
 Puis-je ne pas rougir, et voir que l'on me loüe ?  
 Finissez ce discours, ou je vous desadvoüe⁎.  
 
-    SINDERIC.  
+    SINDERIC. 
 Quand vous me menacez de me desadvoüer⁎,  
 Vous me representez ce que j'ay veu joüer,  
 C'est un subject nouveau fort extraordinaire,  
@@ -1529,10 +1529,10 @@ Font moderer enfin un arrest⁎ si severe,
 Ce miserable⁎ fils est pourtant bien puny,  
 Il n'est pas plutost né que le voila banny.  
 
-    JULIE. 
+    JULIE.
 O dieux ! qu'ay-je entendu ? Mais sçauray-je le reste ?  
 
-    SINDERIC.  
+    SINDERIC. 
 Ah! Ce n'est pas encor l'endroit le plus funeste⁎!  
 
     JULIE.
@@ -1557,7 +1557,7 @@ Le plus grand des mortels estime sa vaillance,
     JULIE.
 Où fit-il ces progrès?  
 
-    SINDERIC. 
+    SINDERIC.
         Au Royaume de France,  
 Soubs Clovis [178] les premiers [179], apres soubs Alaric [180],  
 Et depuis soubs Zenon, et soubs Theodoric.  
@@ -1612,7 +1612,7 @@ Monsieur, en cét endroit pardonnez ma foiblesse⁎,
 Vous faictes ce discours avecques tant d'adresse,  
 Qu'il faut que par des pleurs j'exprime ma douleur.  
 
-    SINDERIC. 
+    SINDERIC.
 Vous allez voir icy sa gloire⁎, ou son malheur,  
 Il se resout enfin d'aller trouver sa mere ;  
 Mais que luy dira-t'il, et qu'est-ce qu'il peut faire ?  
@@ -1838,7 +1838,7 @@ Monsieur que dites vous ?
         Madame sauvez-moy.  
 J'ay tué par mal-heur le favory⁎ du Roy.  
 
-    JULIE. 
+    JULIE.
 Le favory⁎ du Roy !  
 
     MAXIME. 
@@ -1921,7 +1921,7 @@ Et quoy n'ay-je pas vu ? mais dieux le puis-je dire !
 Et voir qu'en mesme temps, je parle, je respire ?  
 Ah ! lasche⁎ que je suis !  
 
-    JULIE. 
+    JULIE.
         Que dittes vous bons dieux !  
 
     MAXIME.
@@ -1951,7 +1951,7 @@ Des vœux dont vostre amour pourroit être offencée,
 Je vous le dis encor, l'amour que j'ay pour luy  
 Vous doit contre luy-mesme assurer aujourd'huy.  
 
-    MAXIME.  
+    MAXIME. 
 Mon esprit ne prend [200] point le sens de ce mystere.  
 
     JULIE.
@@ -1977,7 +1977,7 @@ Votre amour diminuë avecques vostre estime,
 Et que je sois privé de ce plaisir Charmant,  
 Qu'une extréme amitié⁎ peut donner seulement.  
 
-    JULIE.  
+    JULIE. 
 Vous vous cognoissez trop pour avoir cette crainte,  
 Chassez donc les soubçons dont vostre ame est atteinte,  
 Et croyez que Julie ayme comme elle doit,  
@@ -2037,7 +2037,7 @@ Esvitons sa rencontre.
     SINDERIC.
         Où fuyez vous ma mere ?  
 
-    [JULIE] [202]
+    [JULIE] [202].
 Je ne veux point ce nom, et je ne l'eus jamais,  
 Honorez en quelqu'autre, et me laissez en paix [203].  
 Julie se retire.
@@ -2114,7 +2114,7 @@ Elle a bien des appas⁎ dans l'esprit de Julie.
     SINDERIC.
 Mais pour quelle raison m'en parlez-vous ainsi ?  
 
-    MAXIME.  
+    MAXIME. 
 C'est par-ce seulement que je vous trouve icy.  
 Mais quoy ! vous laisser seul dans cette salle basse,  
 Cette incivilité n'est pas de bonne grace,  
@@ -2141,7 +2141,7 @@ Vous avez vostre but, et j'ay le mien aussi.
 Suffit que j'ay raison en ce que je projette,  
 Et que Julie a tort lors qu'elle me rejette,  
 
-    MAXIME.  
+    MAXIME. 
 Ainsi souvent les grands dedans leur passion  
 Se laissent aveugler à la presomption ;  
 Ils pensent que l'amour, les soins⁎ et les caresses,  
@@ -2165,7 +2165,7 @@ Vous vous plaignez d'un cœur dont vous estes le maistre,
 Et feignez que Julie a des rigueurs pour vous  
 Lors que vous esprouvez ses traictements plus doux.  
 
-    SINDERIC.  
+    SINDERIC. 
 Que Julie à mes vœux soit propice ou contraire,  
 J'iray jusques au bout, rien ne m'en peut distraire [211].  
 
@@ -2192,7 +2192,7 @@ A m'accorder bien-tost ce qu'elle me desnie [212].
     MAXIME.
 Ceste entreprise⁎ est grande.  
 
-    SINDERIC.  
+    SINDERIC. 
         Elle est de mon devoir.  
 
     MAXIME.
@@ -2217,7 +2217,7 @@ Nous vivons dedans Rome où regne l'equité⁎.
 Mais vostre nation n'en sçait pas l'exercice,  
 Et l'on voit rarement qu'un Goth rende justice [213].  
 
-    SINDERIC.  
+    SINDERIC. 
 Ce que Theodoric pratique tous les jours,  
 Montre la fausseté de ce lasche⁎ discours.  
 Ah ! Maxime c'est trop, ce reproche m'outrage,  
@@ -2307,7 +2307,7 @@ Qui pourroit s'appaiser dans un sort si contraire [217],
 Dont les événemens⁎ esgalement fascheux,  
 S'opposeront toujours à l'effect de mes vœux ?  
 
-    LIVIE. 
+    LIVIE.
 Si Maxime pourtant emporte la victoire,  
 La mort de Sinderic asseure vostre gloire⁎,  
 Et l'honneur ce tresor qui fut tousjours sans pris,  
@@ -2397,7 +2397,7 @@ Mais le succez⁎ ?
     JULIE.
         Ah ! dieux suis-je trompée !  
 
-    HORACE.  
+    HORACE. 
 En est sorty blessé de deux grands coups⁎ d'espée.  
 
     JULIE.
@@ -2442,7 +2442,7 @@ Qu'on me laisse en repos dans la chambre prochaine.
 Elle se retire.
 
 
-    HORACE. [221]
+    HORACE. [221].
 Avec quels sentimens ceste ingrate⁎ beauté  
 Voit elle les transports⁎ dont je suis agité ?  
 Avec quelle froideur, et quelle indifference  
@@ -2897,10 +2897,10 @@ Tous ces noms affectez sont icy superflus.
     SINDERIC.
 Quoy n'obtiendray-je rien ?  
 
-    JULIE. 
+    JULIE.
         Je ne vous entens⁎ plus.  
 
-    SINDERIC.  
+    SINDERIC. 
 Un moment d'audiance [242], et puis je me retire.  
 
     JULIE.
@@ -2961,7 +2961,7 @@ Ah mourons ! mais Horace, admire⁎ ma foiblesse⁎,
 J'ayme encore Julie avec tant de tendresse,  
 Que je veux la revoir auparavant ma mort.  
 
-    HORACE. 
+    HORACE.
 Son logis n'est pas loin.  
 
     MAXIME. 
@@ -3061,7 +3061,7 @@ Que Julie est trompée ; et que j'ay de mal-heur !
     MAXIME.
 Où vas-tu ?  
 
-    LIVIE. 
+    LIVIE.
     Laissez-moy.  
 
 
@@ -3158,7 +3158,7 @@ Je vous feray justice.
         C'est assez,  
 Mais ne vous troublez point, Sinderic commencez.  
 
-    SINDERIC. 
+    SINDERIC.
 Les Cieux me sont tesmoins avec quelle contrainte  
 Je porte devant vous ma legitime plainte ;  
 Et si je n'ay pas faict tout ce que je devois  
@@ -3322,7 +3322,7 @@ Pardonne à Sinderic.
 Passez dedans la sale, et laissez nous icy.  
 
 
-### SCENE V. [263] 
+### SCENE V. [263]. 
 THEODORIC, BOECE, suitte deTheodoric.
 
 
@@ -3376,7 +3376,7 @@ De ses pretentions pour sa recognoissance.
     JULIE.
 Que je vous doy Seigneur apres ce jugement !  
 
-    THEODORIC.  
+    THEODORIC. 
 En effect sa poursuite estoit sans fondement,  
 Et je recognoy⁎ bien plus je vous considere,  
 Que Sinderic eust tort de vous choisir pour mere.  
@@ -3403,7 +3403,7 @@ Que vous avez aymé,
     THEODORIC.
 Je ne vous entens⁎ point.  
 
-    JULIE.  
+    JULIE. 
         Je disois à mon Roy,  
 Que tousjours ses desirs me tiendront lieu de loy.  
 
@@ -3483,7 +3483,7 @@ C'est à moy d'ordonner ; c'est à vous d'obeyr.
 Ah ! je reclame icy vostre justice extréme !  
 J'en appelle seigneur de vous mesme à vous mesme !  
 
-    THEODORIC.  
+    THEODORIC. 
 Ne me repliquez plus, vous devez aujourd'huy  
 Recevoir Sinderic, et vous donner à luy.  
 
@@ -3614,11 +3614,11 @@ Que vous estes divin!
     MAXIME.
         Que nous sommes heureux⁎!  
 
-    SINDERIC.  
+    SINDERIC. 
 Grands dieux que puis-je rendre à qui me rend ma mere,  
 Qui ne soit au dessoubs de ce que je doy faire !  
 
-    MAXIME
+    MAXIME.
 Quel hommage nouveau puis-je faire à mon Roy,  
 Qui me donne une femme et couronne ma foy⁎ ?  
 
@@ -3636,7 +3636,7 @@ Ce merveilleux decret est un œuvre [276] de DIEU
 Fin du cinquiesme et dernier Acte.
 
 
-## Extraict du Privilege du Roy
+## Extraict du Privilege du Roy.
 
 Par grace et Privilege du Roy, donné à Paris le troisieme jour de May mil six cens quarante-un, signé, Par le Roy en son Conseil, LE BRUN, il est permis à ANTOINE DE SOMMAVILLE, Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre et distribuer une piece de Theatre intitulée, *le Fils desadvoüé, Tragi-comedie*, et ce durant le temps de cinq ans, à compter du jour que ladite Piece sera achevée d'imprimer, et defenses sont faites à tous Imprimeurs et Libraires, et autres de quelque condition qu'ils soient, d'en imprimer, vendre ou distribuer d'autre impression que de celle qu'aura fait ou fait faire ledit DE SOMMAVILLE ou ses ayant cause, sur peine aux contrevenans de mil livres d'amende, et de tous ses despens, dommages et interests ; ainsi qu'il est plus amplement porté par lesdites Lettres, qui sont en vertu du present extraict tenuës pour deüement signifiées.
 
@@ -3645,10 +3645,10 @@ Par grace et Privilege du Roy, donné à Paris le troisieme jour de May mil six 
 Les Exemplaires ont esté fournis.
 
 
-# Lexique
+# Lexique.
 
 
-## Liste des abréviations :
+## Liste des abréviations :.
  * ACADÉMIE FRANÇAISE, *Dictionnaire*, Paris, J.-B. Coignard, 1694 (2 vol.) : (Ac.).
  * FURETIÈRE, Antoine, *Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts*, La Haye et Rotterdam, Arnout et Reinier Leers ; rééd. SNL-Le Robert, 1978 (3 vol.) : (F.).
  * RICHELET, Pierre, *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*, Genève, J.-H. Widerhold, 1680 (2 vol.) : (R.).AbordAussitôt, la première fois, et avant toutes choses ; premièrement. (R.)V. 251, 416, 424, 607, 639, 707, 1482AbysmeSe dit figurément en morale des choses où la connaissance humaine se perd quand elle raisonne. (F.)V. 646, 938AccidentÉvénement fortuit ; hasard, coup de fortune ; malheur imprévu. (F.)V. 518, 606, 1042AdmirerRegarder avec étonnement quelque chose de surprenant, ou dont on ignore les causes. (F.)V. 171, 454, 954, 1215, 1359, 1499 AdorerSignifie hyperboliquement avoir beaucoup d'amour ou d'admiration pour quelqu'un. (F.)V. 104, 254, 367, 1642, 1781AdvisAvertissement, instruction qu'on donne à quelqu'un de quelque chose qu'il ignore, ou à quoi il ne prend pas garde ; sentiment, opinion, se prend presque en ce sens pour réflexion, conseil, reproche, réprimande. (F.)V. 194, 198, 622, 1126AdvouerReconnaître la vérité ; reconnaître pour sien, protéger. (F.)V. 434, 567, 660, 774, 980, 981, 1260, 1305, 1397, 1418, 1495, 1533, 1590, 1733AffectionPassion de l'âme qui nous fait vouloir du bien à quelqu'un, ou nous plaire à quelque chose. On le dit de l'amour et de l'amitié.  (F.)V. 213, 733AlarmeSe dit figurément de toutes sortes d'appréhensions bien ou mal fondées. (F.)V. 160, 176, 498AlentirC'est diminuer la force de quelque chose qui est mû ; affaiblir ce qui a trop de feu et de violence. (R.)V. 1096AmantCelui, celle qui aime avec passion une personne d'un autre sexe.  (Ac.) V. 29, 47, 50, 476, 653, 658, 732, 780, 905, 913, 920, 924, 928, 980, 982, 992, 1015, 1031, 1088, 1098, 1107, 1148, 1171, 1406, 1644AmitiéAffection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un  côté, soit qu'elle soit réciproque. V. 205, 682, 1351, 1643Se dit aussi en matière d'amour, et signifie amant, et maîtresse. (F.)V. 721, 756, 951, 1320, 1477Apparence La surface extérieure des choses, ce qui d'abord frappe les yeux.V. 1074, 1615Se dit aussi de ce qui est opposé à la réalité, qui n'est que faux, feint et simulé. (F.)V. 689AppasCharmes puissants, grands attraits. (R.) V. 70, 838, 1132, 1376, 1450, 1673ArcSe dit aussi dans les bâtiments, des voûtes et trompes courbées en rond. (F.)V. 181ArdeurSe dit figurément en morale, et signifie passion, vivacité, emportement, fougue. (F.)V. 32, 82, 879, 1036, 1269ArrestJugement ferme et stable d'une puissance souveraine.V. 1688, 1701, 1721, 1756Se dit au figuré des jugements et des décisions que l'on prononce sur les diverses choses qui se présentent. (F.) V. 39, 486ArtificeFraude, déguisement, mauvaise finesse. (F.)V. 131, 1301AssuréSûr, certain. (R.)V. 327AuteurQui a crée ou produit quelque chose. Se dit en particulier de ceux qui sont les premiers inventeurs de quelque chose ;  se dit de ceux qui sont cause de quelque chose. (F.)V. 99, 338, 471, 1101, 1784AventureÉvénement, accident ; chose qui arrive inopinément ;  se dit de ces accidents surprenants et extraordinaires. (F.) V. 417, 477, 537, 650, 978, 1475, 1559BarbareCruel, impitoyable, qui n'écoute point la pitié, ni la raison. (F.)V. 1110BizarreBourru, fantasque. (R.)V. 1051BontéSe dit de la vertu, et particulièrement de la charité, de la douceur, des mœurs, de l'inclination à assister son prochain, de la patience à souffrir les afflictions, les injures ; dans les princes, se dit particulièrement de leur clémence. (F.)V. 107, 703, 1326, 1687, 1773BruitSe dit des discours du temps, des nouvelles dont on s'entretient dans le monde ;  se dit aussi des affaires qui font de l'éclat, où plusieurs personnes prennent intérêt, ou qui sont de conséquence. (F.)V. 911, 1444Sans bruitSecrètement. (F.)V. 900, 1075BruslerFigurément signifie, être agité d'une violente passion d'amour, d'ambition, de désir, d'impatience. (F.)V. 482, 1084CapriceDérèglement d'esprit. On le dit, quand au lieu de se conduire par la raison, on se laisse emporter à l'humeur dominante où on se trouve. (F.)V. 1345CauseCe qui produit un effet ; le motif, le fondement d'un acte ; raison, moyen qui sert à défendre, louer ou blâmer quelque chose. (F.)V. 2, 96, 220CéansTerme démonstratif du lieu où on est.  (F.)V. 844ChaosConfusion, mélange de tous les éléments, que les poètes ont feint avoir été de tout temps, avant que toutes les choses fussent rangées dans l'ordre où elles sont ; se dit figurément de ce qui est confus et brouillé. (F.)V. 1488ChargerSe dit des querelles particulières ; signifie aussi accuser quelqu'un en justice, ou déposer contre lui. (F.)V. 141CharmePuissance magique par laquelle avec l'aide du démon les sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature ; se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en admiration. (F.)V. 19ChevalierLe premier degré d'honneur de l'ancienne milice, qu'on donnait avec certaines cérémonies à ceux qui avaient fait quelque exploit signalé qui les distinguait des autres gens de guerre. Le chevalier romain était le second degré de noblesse parmi les Romains, qui suivait celui des sénateurs. (F.)V. 520, 1041ChoquerSignifie figurément, quereller, offenser.  (F.) V. 314, 522, 648, 1049, 1058, 1059, 1264, 1514, 1669, 1695CœurPartie noble de l'animal, qui est le principal organe de la faculté vitale.V. 21, 30, 109, 245, 361, 376, 563, 600, 1067, 1103, 1159, 1180, 1270, 1312, 1320, 1371, 1410, 1474, 1506, 1521, 1530, 1750, 1772Signifie quelquefois, vigueur, force, courage, intrépidité.V. 888, 1681Se dit aussi des passions de l'âme ; se dit particulièrement de l'affection, de l'amitié, de l'amour, de la tendresse. (F.)V. 17, 548, 724, 863, 1336, 1678CondamnerDonner un jugement contre quelqu'un qui porte quelque peine, perte ou dommage.V. 182Signifie aussi, blâmer, désapprouver. (F.)V. 1091, 1649ConfondreTroubler, mettre en désordre. (R.)V. 1430, 1490, 1619ContraindreViolenter, obliger par force à dire ou à souffrir quelque chose ; gêner, presser, incommoder. (F.)V. 240, 889, 1393, 1716, 1730CoupsOutrage, offense qui se fait à quelqu'un en le frappant.V. 1002, 1003, 1004, 1023, 1065Se dit aussi des accidents extraordinaires qui sont des effets de la Providence, de quelque cause inconnue, de la fortune, du hasard. (F.)V. 1220CourageArdeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls ;  est aussi une vertu qui élève l'âme, et qui la porte à mépriser les périls, quand il y a des occasions d'exercer sa vaillance, ou à souffrir les douleurs,  quand il y a lieu de montrer sa  constance et sa fermeté. (F.)V. 47, 196, 597, 1183CréditCroyance, estime qu'on s'acquiert dans le public par sa vertu, sa probité, sa bonne foi, et son mérite.  (F.)V. 739, 1237CrimeAction faite contre la loi, soit naturelle, soit civile ; se dit d'une faute que l'on commet ou dans la conduite, ou contre le devoir, ou contre l'amitié. (F.)V. 23, 148, 586, 590, 682, 727, 820, 1037, 1074, 1093, 1197, 1377, 1456, 1511, 1730, 1744CruelQui est barbare, inhumain, qui aime à tuer, massacrer, tourmenter les autres hommes ; se dit encore des choses douloureuses ou fâcheuses. (F.)V. 420, 526, 677, 753, 1086, 1109, 1161, 1370, 1491, 1508DéfautAbsence, manque, privation de quelque personne, de quelque chose. (Ac.)V. 246, 305, 676, 752, 1665DéffianceCrainte d'être trompé, ou de ne pouvoir pas réussir dans ses desseins. (F.)V. 690DésaveuDénégation. (F.)V. 969, 1588DésavouerNe demeurer pas d'accord d'avoir dit ou fait quelque chose ; signifie encore ne reconnaître pas pour sien. (F.)V. 404, 456, 458, 459, 592, 660, 971, 983, 1181, 1745DescouvrirTrouver quelque chose de nouveau, de secret qui nous était auparavant inconnu (F.) ; faire connaitre ce qui était caché. (Ac.) V. 132, 300, 340, 357, 395, 476, 540, 544, 647, 752, 798, 1490, 1584DésespoirPassion de l'âme qui la trouble, qui lui fait perdre l'espérance. (F.)V. 609, 1172DesseinProjet, entreprise, intention. À dessein : exprès, et à certaine intention. (F.)V. 33, 44, 52, 77,81, 149, 195, 314, 328, 343, 447, 456, 539, 620, 855, 879, 885, 1040, 1043, 1050, 1070, 1106, 1183, 1236, 1303, 1364, 1497, 1649DisgrâceMalheur, accident. (F.)V. 1357DivertissementRéjouissance, plaisir, récréation. (F.)V. 130Doute (sans)Façon de parler adverbiale qui signifie, hors de doute, certainement. (F.)V. 697EffortEmploi de toutes ses forces ; se dit de tout ce qu'on fait avec violence, et figurément en choses spirituelles. (F.)V. 321, 575, 1216, 1347, 1373, 1517, 1563, 1602, 1736EmpêcherS'opposer à quelque chose, y former des difficultés, des obstacles ; signifie aussi, embarrasser, occuper. (F.)V. 241EnnuyChagrin, déplaisir, souci. (Ac.)V. 380, 1120, 1199EntendreSe dit figurément en choses spirituelles, et signifie,  comprendre, pénétrer dans le sens de celui qui parle, ou qui écrit. (F.)V. 1211, 1332, 1653EntrepriseRésolution hardie de faire quelque chose. (F.)V. 887, 1078EnviePassion, désir qu'on a d'avoir ou de faire quelque chose.V. 426, 1058Chagrin qu'on a de voir les bonnes qualités ou la prospérité de quelqu'un. (F.)V. 15, 144, 224, 267, 280, 1453ÉquitéJustice mitigée et adoucie par la considération des circonstances particulières. (F.)V. 117, 892ÉtonnéSurpris, épouvanté. (F.)V. 603ÉtonnerSurprendre par quelque chose d'extraordinaire, d'inattendu. (Ac.)V. 152, 184, 1173ÉtrangeCe qui est surprenant, rare, extraordinaire. (F.)V. 417, 437, 518, 570, 634, 1230, 1238, 1431ÉvénementIssue, succès bon ou mauvais de quelque chose ; se dit des choses grandes, surprenantes et singulières qui arrivent dans le monde. (F.)V. 150, 563, 671, 927, 943, 1051, 1505ExciterProvoquer, causer quelque effet ; se dit figurément en morale, et signifie, animer. (F.) V. 1317FableSe dit aussi de la fiction qui sert de sujet aux poèmes épiques et dramatiques, et aux romans ; signifie aussi absolument, fausseté. (F.)V. 509FaiblesseManque de forces, qualité de ce qui est faible ; inconstance, imbécilité, facilité de se laisser aller, de croire.  (F.)V. 386, 529, 1359, 1732, 1764FatalSignifie malheureux. V. 440, 1694Signifie encore, la fin, la mort. (F.) V. 987, 1023FavorableQui fait faveur, qui est propice, qui nous fournit des avantages. (F.)V. 212, 360, 1105FavoriQui a les bonnes grâces d'un Prince, d'une personne puissance, d'une maîtresse, et généralement d'un supérieur à qui plusieurs s'efforcent de plaire, et qui ne plaisent pas également. (F.)V. 443, 623, 668, 669, 1389FeindreTromper par l'apparence, faire semblant ; se dit aussi des imaginations d'esprit qui sont fausses, et qu'on donne pour véritables. (F.)V. 100, 979, 1304FlammeAmour, passion. (R.)V. 44, 358, 574, 694, 749, 933, 974, 982, 1050, 1131, 1182, 1411, 1528, 1624, 1672, 1692FlatterCaresser par des louanges.V. 121, 155Tromper en déguisant la vérité ou par faiblesse, ou par une mauvaise crainte de déplaire. (Ac.) V. 795, 867, 1145, 1303FortuneC'était autrefois une divinité païenne qu'on croyait être la cause de tous les événements extraordinaires : au lieu c'est en effet la Providence divine qui agit par des voies inconnues et au-dessus de la prudence des hommes. Maintenant on appelle fortune, ce qui arrive par hasard, qui est fortuit et imprévu. V. 222, 280, 445, 526, 634, 1109, 1218, 1755Signifie aussi l'établissement, le crédit, les biens qu'on a acquis par son mérite, ou par hasard.  (F.)V. 306, 674, 1226, 1246FoyAssurance donnée de garder sa parole, sa promesse ; témoignage, assurance. (Ac.)V. 352, 356, 679, 711, 1035, 1378, 1407, 1690, 1697, 1710, 1778FunesteQui cause la mort, ou qui en menace, quelque accident fâcheux, quelque perte considérable. (F.)V. 5, 450, 490, 911, 931, 961, 1102, 1288FureurEmportement violent causé par un dérèglement d'esprit et de la raison ; se dit en morale de la colère, lorsqu'elle est violente et démesurée, et qu'elle jette les hommes dans quelques excès.V. 38, 599, 609, 1114, 1152Se dit aussi de toutes les passions qui nous font agir avec de grands emportements. (F.) V. 766, 1096GageSureté que l'on donne pour quelque prêt, ou pour quelque dette ; se dit aussi des témoignages ou assurances d'amitié. (F.)V. 6GénéreuxQui a l'âme grande et noble, et qui préfère l'honneur à tout autre intérêt. (F.)V. 29, 1051, 1369, 1773GénérositéGrandeur d'âme, de courage, magnanimité, bravoure, libéralité, et toute autre qualité qui fait le généreux.  (F.)V. 93GentilhommeHomme noble d'extraction, qui ne doit point sa noblesse ni à sa charge, ni aux lettres du prince. Ce mot de  gentilhomme vient de gentilis homo, qui se disait chez les Romains d'une race de gens nobles de même nom, nés de parents libres, et dont les ancêtres n'avaient point été esclaves, ni repris de justice. (F.)V. 231, 256GloireSe dit de l'honneur qu'on rend à Dieu, des louanges qui lui sont dues ; se dit par emprunt et par participation, de l'honneur mondain, de la louange qu'on donne au mérite, au savoir et à la vertu des hommes. (F.)V. 27, 155, 191, 197, 204, 228, 236, 260, 329, 532, 580, 653, 812, 828, 918, 946, 1005, 1017, 1054, 1100, 1536, 1556, 1752HazarderRisquer, exposer à la fortune, exposer au péril. (Ac.)V. 567, 1167, 1726HeurBonne fortune. (Ac.)V. 277, 1008HeureuxQui jouit de toutes les félicités de la vie, à qui il ne manque rien, qui est content ; chanceux, à qui le hasard est favorable ; se dit encore de ce qu'on croit être cause de quelque bonheur, de quelque avantage. (F.)V. 81, 125, 227, 1137, 1774IdoleCréature ou ouvrage fait de main d'homme, qu'on adore comme une Divinité, à qui on rend des honneurs divins, à qui on brûle de l'encens, on fait des sacrifices, on érige des autels et des temples. (F.)V. 100ImpostureTromperie, mensonge, calomnie. (F.)V. 1157, 1245, 1294, 1464, 1560, 1584IngratCelui qui n'a point de reconnaissance des bienfaits qu'il a reçus, des bons offices qu'on lui a rendus. (F.)V. 47, 156, 605, 1027, 1035, 1349, 1366InsigneRemarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. (F.) V. 1193InterditÉtonné, troublé, qui ne peut répondre. (Ac.)V. 999IntêretCe qu'on a affection de conserver ou d'acquérir ; part qu'on prend en quelque chose, de la défense qu'on entreprend, de la protection qu'on lui donne. (F.)V. 313, 799, 808, 809, 826, 1080, 1523, 1595IntéresserEngager quelqu'un par son intérêt à soutenir, à faire quelque affaire. (F.)V. 812, 1050LâcheQui manque de courage, se dit des actions indignes d'un homme d'honneur. (Ac.)V. 597, 719, 811, 896, 1282, 1353, 1523LustreTerme de cinq ans. C'est une supputation qu'on fait plus communément en poésie.V. 28Se dit aussi figurément en choses morales. Dans les grandes charges, la valeur, la vertu paraissent dans tout leur lustre, dans tout leur éclat. (F.) V. 126, 261MarqueSigne, caractère particulier qui vient de naissance, ou de nature, qui fait reconnaître une chose, et la distinguer d'une autre semblable. (F.)V. 286, 956, 957MinistreUn ministre d'Etat est celui sur qui un Prince se repose de l'administration de son État, à qui il commet le soin de ses principales affaires. Ex : Boèce est  proposé pour modèle aux ministres d'État. (F.)V. 134MisérableQui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. (F.)V. 33, 398, 413, 429, 487, 546, 1206, 1416, 1668MurmurerFaire du bruit en se plaignant sourdement, sans éclater ; il se dit du bruit sourd qui court de quelque affaire, de quelque nouvelle. (Ac.) V. 225, 704ObligerContraindre à faire quelque chose par nécessité ; se dit aussi de ce qu'on est contraint de faire par les lois, par le devoir.  (F.)V. 314, 395, 1047, 1385, 1565ObjetSe dit poétiquement des belles personnes qui donnent de l'amour. (F.)V. 560, 1099Se dit seulement quelquefois de la fin ; chose où l'on arrête sa pensée, son cœur, son but ou son dessein. (R.)V. 5, 43, 128, 219, 568, 601, 931, 1102, 1108, 1295, 1313OrnementCe qui pare quelque chose, ce qui la rend plus belle, plus agréable. (F.)V. 129PotentatMonarque, roi ; qui a une puissance souveraine. (Ac.)V. 133, 160PrévenirArriver devant, venir le premier. Il signifie aussi être le premier à faire ce qu'un autre voulait faire. (Ac.)V. 1401RaretésSignifie singularité ; il se dit choses qui se trouvent peu ; se dit aussi des pièces rares et curieuses. (Ac.) V. 171, 453ReconnoistreTrouver qu'une personne ou une chose est la même que celle que nous avons vue autrefois, ou qui nous a été désignée.V. 950, 956Avouer.V. 337, 1780Découvrir, éclaircir la vérité de quelque chose.V. 1639Avoir de la gratitude ; payer à discrétion, récompenser un service rendu. (F.)V. 721RessentimentSentiment d'un mal qu'on a eu ; souvenir qu'on garde des bienfaits, ou des injures. (Ac.) V. 244, 919, 1016, 1087, 1108, 1779SoinsDiligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, la perfectionner ; attache particulière qu'on a auprès d'un maître ou d'une maîtresse, pour les servir, ou leur plaire. (F.)V. 141, 188, 640, 861, 1166SoucySollicitude, soin accompagné d'inquiétude. (Ac.)V. 987, 1111SouffrirSe dit en sens moins étendu, en parlant de ce qui déplait, de ce qui fait quelque peine aux sens, ou à l'esprit (F.) ; endurer, avoir de la peine, supporter. (R.)V. 330, 598, 810, 823, 1019, 1079, 1083, 1097, 1133, 1159, 1191, 1224, 1344, 1349, 1371, 1412, 1492, 1617Permettre ; admettre, recevoir. (Ac.)V. 73SoupirTémoignage extérieur de tristesse, d'affliction, de douleur.  (F.)V. 2, 22, 358, 422, 1315SuccèsIssue d'une affaire. Il se dit en bonne et en mauvaise part. (F.)V. 324, 510, 1001TransportsTrouble ou agitation de l'âme par la violence des passions. (F.)V. 276, 664, 1028TravaillerS'appliquer à faire quelque chose, prendre peine à faire une chose, s'attacher à faire quelque chose. (F.)V. 880TravauxLes peines qu'on a prises, qu'on s'est données, à quelque entreprise glorieuse, dans l'exécution de quelque chose de difficile. (Ac.)V. 65, 189VertuSe dit de la grandeur d'âme d'une personne, de sa valeur morale, de son mérite. (F.)V. 67, 70, 136, 158, 183, 254, 256, 263, 271, 286, 306, 722, 731, 752, 803, 810, 1207, 1208, 1227, 1257, 1341, 1355, 1378, 1418, 1421, 1429, 1454, 1651
@@ -3667,20 +3667,20 @@ Les trente jours expirez, l'amant retourne, et voyant cet hoste tout nouveau dan
 Le Roy qui sondoit toutes les avenues pour entrer en l'esprit de la Dame, luy demanda si elle n'avoit pas delibéré de se marier en secondes noces. Elle respondit que *s'il se rencontroit un party favorable, elle feroit ce que Dieu luy inspireroit*. Le Roy réplique, *Le voilà rencontré, puis que vous avez logé cet hoste trente jours en vostre maison, et que vous l'avez reconnu de si bonne grace, à quoy tient-il que vous ne l'espousiez* ? La Dame respond, *Qu'il n'avoit aucunes commoditez, dont on a tousjours besoin en mesnage : Et à quoy peut bien monter vostre bien* ? (dit le Roy). La Dame repart, *qu'elle avoit bien vaillant mille escus, qui estoit une grande richesse en ce temps-là. Et bien*, dit Théodoric, *j'en donneray autant à ce jeune homme pour son mariage, à telle condition que vous l'espouserez*. Elle bien estonnée, commence à paslir, rougir, trembler, et montrer toutes les contenances d'une femme perdue, qui taschoit à s'excuser et se coupoit en ses paroles : le Roy pour l'intimider encore davantage, jure son grand serment qu'elle l'espouseroit dès à présent, ou qu'elle diroit les causes legitimes de son empeschement. La pauvre femme condamnée par la voix de la Nature qui crioit en son cœur, et ayant horreur du crime qu'on luy proposoit, se jetta aux pieds du Roy, avec une grande profusion de larmes, confessant ses amours, son mensonge et son malheur. Alors ce grand Prince prenant la parole luy dit, *N'estes-vous pas une miserable femme de renoncer vostre sang pour ce vilain qui vous a trompée ? Allez en vostre maison, quittez vos amourettes, et vivez dans la condition d'une honneste veuve, prenant de vostre fils le support qu'il vous doit rendre par nature.*
 
 
-# Annexe 2 : *Excerpta Valesiana* [278]
+# Annexe 2 : *Excerpta Valesiana* [278].
 
 Quidam defunctus est et reliquit uxorem et parvulum filium nescientem matrem. Ab aliquo sublatus est filius eius parvulus et ductus in aliam provinciam et educatus. Factus iuvenis quoquo modo revertitur ad matrem; mater enim iam spoponderat virum. Cum vidisset mater, amplectit filium, benedicens deum se filium revidisse; et fecit cum ea dies triginta. Et ecce veniens sponsus matris, videns iuvenem, interrogavit quis esset. Quae respondit esse suum filium. At ubi comperit esse filium eius, coepti repetere arras et dicere « aut nega filium tuum esse aut vero abscedo hinc ». Mulier compellitur ab sponso, et coepit negare filium, quem ipsa ante confessa est, et dicere: « Vade, iuvenis, de domo mea, quia peregrinum te suscepi ». Ille enim dicebat regressum se ad matrem in domum patris sui. Quid multa? Dum haec aguntur, filius rogavit regem adversus matrem, quam rex iussit in conspectu suo sisti. Cui et dixit: « Mulier, filius tuus adversus te rogat; quid dicis? Est filius tuus an non? ». Quae dixit: « Non est meus filius sed peregrinum eum suscepi. » Et dum per ordinem omnia filius mulieris intimasset in auribus regis, dicit mulieri denuo: « Est filius tuus an non? ». Quae dixit: « Non est filius meus». Dicit ei rex: « Et quae est facultas tua, mulier? ». Quae respondit: « Usque ad mille solidos». Et dum maritum se rex non esse facturum sub iusiurando pollicitus est nisi ipsum, alium non acciperet maritum, tunc confusa est mulier et confessa est suum esse filium.< Proposition de traduction >
 
 Un homme mourut et laissa une femme et un enfant, qui n'avait pas connu sa mère. Quelqu'un prit l'enfant, l'emmena dans une autre province et l'éleva. Devenu un jeune homme, il arrive par quelque moyen à retrouver sa mère ; mais la mère s'était déjà promise à un homme. Lorsqu'elle le vit, elle embrassa son fils, bénissant Dieu de l'avoir retrouvé ; il passa avec elle trente jours. Mais voilà qu'arriva le fiancé de la mère, qui vit le jeune homme et qui demanda qui c'était. Elle répondit que c'était son fils. Or lorsqu'il apprit que c'était son fils, il se mit à demander les gages du contrat de mariage et à dire : « Soit tu renies ton fils, soit je quitte ce lieu ». La femme est contrainte par son fiancé, et se mit à renier son fils, qu'elle avait reconnu elle-même auparavant, et à dire : « Va-t-en de chez moi, jeune homme, car je t'ai accueilli parce que tu étais étranger ». Lui disait qu'il était revenu chez sa mère dans la maison de son père. Que dire de plus ? À force, le fils fit appel au roi contre sa mère, à qui le roi ordonna de se présenter devant lui. Il lui dit : « Femme, ton fils t'attaque en justice : que dis-tu ? Est-il ton fils ou non ? ». Elle dit : « Ce n'est pas mon fils, je l'ai accueilli en étranger ». Comme le fils récitait dans l'ordre devant le roi toutes les actions faites à son égard par cette femme, le roi dit de nouveau à la femme : « Est-il ton fils ou non ? ». Elle répondit : « Ce n'est pas mon fils ». Le roi lui dit : « Quelle est ta fortune, femme ? ». Elle répondit : « À peu près mille pièces d'or». Alors le roi déclara sous serment qu'il ne lui donnerait pas de mari si elle n'acceptait pas comme mari celui-là même, et là, la femme se troubla et avoua que c'était son fils.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de Guérin de Bouscal par ordre chronologiqueLa Mort de Brute et de Porcie, ou la Vengeance de la mort de César
+### Œuvres de Guérin de Bouscal par ordre chronologique.La Mort de Brute et de Porcie, ou la Vengeance de la mort de César
 La Mort de Cléomènes, roy de Sparte
 Dom Quixote de la Manche
 Le Fils désavoué, ou le Jugement de Théodoric, roy d'Italie
@@ -3688,7 +3688,7 @@ Le Gouvernement de Sanche Pansa
 
 
 
-### Textes des XVI*e* et XVII*e* sièclesLa Cour Sainte*e*
+### Textes des XVI*e* et XVII*e* siècles.La Cour Sainte*e*
 Œuvres complètes
 Cinna
 Horace
@@ -3699,7 +3699,7 @@ Le Grand Dictionnaire historiqueLe Mélange curieux de l'histoire sacrée et pro
 
 
 
-### Sources antiquesExcerpta valesiana
+### Sources antiques.Excerpta valesiana
 Poétique
 Panegirico del clementissimo re Teodorico
 Histoire des Goths
@@ -3707,21 +3707,21 @@ Histoire romaine
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
 
 
 
-### BibliographiesBibliographie de la littérature française du XVII*e* siècle
+### Bibliographies.Bibliographie de la littérature française du XVII*e* siècle
 Bibliographie der französischen Literaturwissenschaft
 
 
 
-### Grammaire, syntaxe, ponctuationLa Ponctuation
+### Grammaire, syntaxe, ponctuation.La Ponctuation
 Traité de la ponctuation
 Grammaire du français classique
 Syntaxe française du XVII*e* siècle
@@ -3729,10 +3729,10 @@ Grammaire de la langue française du XVII*e* siècle
 
 
 
-## Travaux critiques
+## Travaux critiques.
 
 
-### Ouvrages généraux sur la littérature et le théâtreHistoire de la littérature française du XVII*e* siècle
+### Ouvrages généraux sur la littérature et le théâtre.Histoire de la littérature française du XVII*e* siècle
 Le Masque et le Visage. Du baroque espagnol au classicisme français
 Introduction à l'analyse des textes classiques
 Le Langage dramatique : sa nature, ses procédés
@@ -3742,7 +3742,7 @@ Naissance de l'écrivain
 
 
 
-### Travaux sur le théâtre du XVII*e* siècleLe Mémoire de Mahelot : mémoire pour la décoration des pièces qui se représentent par les Comédiens du Roi
+### Travaux sur le théâtre du XVII*e* siècle.Le Mémoire de Mahelot : mémoire pour la décoration des pièces qui se représentent par les Comédiens du Roi
 La Tragi-comédie de Corneille à Quinault
 Le Théâtre du Marais
 L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
@@ -3762,7 +3762,7 @@ La Littérature de l'âge baroque en France
 
 
 
-### Travaux sur la figure de ThéodoricTeodorico e i Goti tra Oriente e Occidente
+### Travaux sur la figure de Théodoric.Teodorico e i Goti tra Oriente e Occidente
 Teodorico il grande e i Goti d'Italia
 
 

@@ -16,7 +16,7 @@ On la vend A PARIS, A l'Entrée de la porte de l'Académie Royale de Musique, au
 Édition critique établie par Sévag Tachdjian dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2002-2003)
 
 
-# Introduction
+# Introduction.
 
 
 La mort de la tragédie, au contraire, produisit une impression universelle et profonde de vide monstrueux. Comme au temps de Tibère des navigateurs grecs égarés dans une île solitaire entendirent un jour cette terrifiante clameur : « Le grand Pan est mort ! » – ainsi retentit alors, à travers le monde hellène, comme un cri de douleur : « La tragédie est morte ! Perdue, avec elle la poésie ! Silence ! Taisez-vous, épigones étioles et pâles ! Aux Enfers ! afin que vous puissiez là-bas vous gaver des miettes des vieux maîtres ! ». Et lorsque apparut enfin une nouvelle forme d'art, qui saluait dans la tragédie son ancêtre et sa suzeraine, on dut constater avec effroi que cette forme reproduisait bien les traits de sa mère, mais justement ceux que celle-ci avait montrés au cours de sa longue agonie.
@@ -28,10 +28,10 @@ Il est de bon ton, depuis que la Renaissance a relégué plus d'un millénaire d
 L'édition critique de pièces ignorées depuis le XVII*e* siècle s'inscrit dans cette volonté de démêler les véritables influences et enjeux de la production littéraire de cette époque en les appliquant et les confrontant à un ouvrage précis. Le *Bellérophon* de Thomas Corneille occupe dans ce contexte une place de choix : succès sans précédent dans l'histoire encore récente de la tragédie en musique, l'œuvre reflète à la fois les questions esthétiques, les enjeux politiques, et la dimension sociale des arts et des spectacles au temps de Louis XIV. Il s'agit donc pour nous, au-delà de la simple analyse de la pièce, d'observer comment et dans quelle mesure une œuvre dramatique s'inscrit dans un système plus vaste que la seule sphère littéraire et nous renseigne autant sur les mœurs politiques, idéologiques et sociales de son époque. Il convient donc de rester particulièrement critique face aux idées reçues en tachant de proposer toujours des outils de jugement et des critères adaptés à la notion étudiée et d'éviter tout anachronisme dans les jugements esthétiques et éthiques : gardons-nous bien d'appliquer à une œuvre écrite au XVII*e* siècle pour un public du XVII*e* siècle des critères d'analyse issus de la critique moderne. Lorsque Gustave Reynier, l'un des premiers à avoir étudié de manière approfondie et rigoureuse le théâtre de Thomas Corneille, écrit par exemple « quand on songe que ces fantoches les archétypes du théâtre cornélien aux traits immuables paraissaient toujours dans le même cadre, on ne peut s'empêcher d'admirer la patience des spectateurs et l'on se demande ce que ces honnêtes gens venaient chercher au théâtre » [1], force est de constater que l'auteur se place dans l'optique d'un lecteur ou d'un spectateur qui envisage la création littéraire comme une innovation permanente et le théâtre comme le lieu d'un renouvellement constant, alors que le spectateur du XVII*e* siècle allait avant tout au théâtre pour voir le Monde et y être vu, pour se divertir et s'amuser. On ne peut donc se faire une idée précise du rôle et de la fonction du théâtre à cette époque qu'en le comparant à une institution équivalente de notre époque [2], comparaison qui seule permettrait de restituer les exacts enjeux et fonctions (tant littéraires que sociaux) du théâtre au XVII*e* siècle. Le fait que *Bellérophon* se situe à une époque où la tragédie dramatique se remet en question face à l'émergence et au succès de la tragédie lyrique ne fait que rendre plus évidente et plus nécessaire une telle démarche : voilà bien l'exemple d'un genre qui se constitue et se définit non pas seulement par des critères purement esthétiques mais aussi en fonction d'une situation sociale, culturelle et surtout politique précise et déterminée. En définitive, « quoi qu'on fasse, on reconstruit toujours le monument à sa manière. Mais c'est déjà beaucoup de n'employer que des pierres authentiques… » [3]
 
 
-# Thomas Corneille
+# Thomas Corneille.
 
 
-## Une existence marquée par l'illustre frère
+## Une existence marquée par l'illustre frère.
 
 C'est dans la rue de la Pie, à Rouen, là où son frère Pierre était né dix-neuf ans plus tôt, que Thomas Corneille, le futur M. de l'Isle, vit le jour le 20 août 1625. Son père était maître particulier des eaux et des forêts en la vicomté de Rouen et avait déjà cinq enfants. Thomas Corneille fut baptisé le 24 août et son enfance s'écoula sans doute tantôt à Rouen tantôt dans la propriété de Petit-Couronne que ses parents avaient achetée en 1608. Ses études, il les fit comme Pierre au collège des Jésuites de Rouen, et c'est à cette époque que remonte son goût pour le théâtre puisqu'on le voit s'essayer, dans la lignée de son frère, à la tragédie scolaire que les Jésuites cultivèrent toujours avec une certaine prédilection.
 
@@ -62,7 +62,7 @@ C'est de cette époque que date la parenthèse de la tragédie lyrique dans la c
 Cette *Devineresse* marque en fait la fin des grands succès dramatiques de Thomas Corneille : avec les échecs successifs de *La Pierre philosophale* en 1681, de *L'Usurier* en 1685, du *Baron des Fondières* en 1686 et de *Bradamante* en 1695, on peut en effet dire que la carrière dramatique de M. de l'Isle est négligeable à partir de 1680. Loin de prendre sa retraite, l'auteur entame un tournant décisif dans sa carrière et commence à explorer tous les domaines du savoir humain. Il sera tour à tour journaliste, grammairien, historien, géographe, homme de science, ajoutant à sa carrière de poète dramatique une vie laborieuse de savant. Le premier grand travail qui détourna Thomas Corneille du théâtre fut sa collaboration au *Mercure*. De Visé, qui avait entrepris depuis 1672 la rédaction d'une gazette sous le nom de *Mercure Galant* où il racontait sous forme de lettres les principales nouvelles de la ville et de la Cour, s'assura le soutient et l'aide de l'ancien dramaturge qui y collabora régulièrement au moins jusqu'en 1700. Cela lui permit, faute d'accroître sa renommée d'auteur, d'asseoir davantage sa situation mondaine et de s'assurer une confortable situation financière. En outre, à la mort de son illustre frère en 1684, il était tout naturellement désigné pour lui succéder à l'Académie, ce qu'il fit, élu à l'unanimité. Thomas Corneille fut reçu le 2 janvier 1685 et fut selon bon nombre de témoignages un académicien modèle, participant notamment à la révision du *Dictionnaire* paru en 1692 et entreprenant une édition critique des *Remarques* de Vaugelas. Les toutes dernières années du poète ne virent que la parution d'ouvrages secondaires, sa grande occupation étant l'achèvement du *Dictionnaire universel géographique et historique* commencé en 1694 : ouvrage pour le moins impressionnant (trois volumineux in-folio) quand on sait qu'il est le fruit du travail d'un seul homme, dont la vue était d'ailleurs de plus en plus faible… S'il est vrai que les dernières années de l'existence de Thomas Corneille furent ponctuées de deuils de plus en plus éprouvants, voyant disparaître successivement tout ceux qu'il aime, gendre, belle-sœur, neveu, fils et surtout épouse, il n'est cependant guère probable que l'imagerie que le romantisme naissant du XVIII*e* siècle s'est plu à forger d'un vieillard mourrant dans la gêne et la solitude soit authentique et véridique. Contentons-nous donc de signaler simplement que s'éteignant « entre les bras de sa nièce Marie-Madeleine » [4] le 8 décembre 1709, il sera enseveli le lendemain dans l'Eglise Notre-Dame des Andelys.
 
 
-## Un théâtre personnel et méconnu
+## Un théâtre personnel et méconnu.
 
 Le jugement généralement répandu sur la facilité (au sens de superficialité) et le mimétisme (au sens de copiage) de l'écriture de Thomas Corneille remonte au vivant du dramaturge : l'*Eloge de M. Corneille*, si prodigue pourtant en compliments, ne souligne-t-il pas que
 
@@ -103,12 +103,12 @@ L'écriture de Thomas Corneille, nous l'avons souligné, est principalement moti
 Thomas Corneille est de toute évidence le plus fidèle reflet et témoin du goût de son époque pour une frivolité toute spirituelle, d'un spectaculaire empreint de merveilleux. Il est le prisme qui concentre les différents courants de l'époque pour en faire une création originale et personnelle qui certes heurte par ses défauts criants (tant stylistiques que littéraires) mais qui ne peut cependant laisser indifférent, ainsi que le souligne ce jugement de Voltaire qui avoue volontiers que « cette négligence de style, ou plutôt cette platitude, n'est presque pas remarquée au théâtre. Elle est sauvée par la rapidité de la déclamation et du spectacle » [18], confirmant que Thomas Corneille est avant tout un homme de théâtre et non un poète, et expliquant ainsi l'incompréhension actuelle envers cet auteur dont on lit une œuvre théâtrale qui ne se réalise entièrement qu'une fois sur scène : le spectacle – et le spectaculaire – sont ici une composante essentielle qui viennent palier les réelles faiblesses de son écriture. Dans l'optique de la Querelle des Anciens et des Modernes, Thomas Corneille est un esprit assurément « moderne » par rapport à la rigidité de la doxa classique.
 
 
-# Bellérophon
+# Bellérophon.
 
 Thomas Corneille « librettiste » n'est qu'une des nombreuses métamorphoses de cet auteur protéiforme, mais c'est celui qui nous intéresse tout particulièrement dans le cas de *Bellérophon*. L'expérience de la *Psyché* de Molière que Lully lui avait demandé de réduire aux dimensions d'un livret de tragédie en musique, lui permis d'évaluer les exigences et d'apprendre les impératifs de l'écriture de la tragédie lyrique par rapport à la tragédie dramatique, même s'il rencontra quelques difficultés lors de la rédaction de *Bellérophon* et dans une moindre mesure lorsqu'il rédigea en 1693 une *Médée* pour Marc-Antoine Charpentier : c'est que l'écriture d'un livret est bien différente de celle d'une tragédie. Thomas Corneille a néanmoins su exploiter et évaluer au maximum les possibilités que lui permettaient les libertés formelles de la tragédie lyrique : que se soit pour *Psyché*, simple reprise de l'œuvre de Molière, pour *Bellérophon*, inspirée à la fois de Nolfi et de Quinault, ou encore *Médée*, qui fut la première grande tragédie de son frère, Thomas Corneille ne s'est jamais contenté de faire une adaptation qui aurait consisté en une réduction des dialogues et l'introduction de divertissements, il a modifié son langage pour le rendre le plus apte à servir de support à la musique. Son travail de librettiste s'accompagne donc d'une réelle réflexion sur le genre pour lequel il écrit. L'action est resserrée et simplifiée : nous sommes loin des intrigues complexes qui firent le succès de ses premières tragédies. *Bellérophon* occupe dans la carrière de Thomas Corneille une place particulière : c'est probablement la pièce la plus étrangère à l'œuvre du dramaturge, la plus difficile à intégrer dans l'évolution et le développement de sa carrière théâtrale. Il est vrai que rien ne le disposait à être le librettiste de Lully : le Florentin explorait depuis *Cadmus et Hermione* en 1673 les possibilités de la tragédie en musique avec l'aide du fidèle et compétent Quinault. Or Lully se vit contraint à interrompre sa collaboration avec son librettiste à la suite de la cabale d'*Isis* [19] : quel auteur était susceptible de pouvoir, sinon assurer la relève, du moins de remplacer Quinault pendant sa disgrâce ? « Racine ? Impossible après l'affaire de *Phaéton*. La Fontaine ? Après *Daphné* et les couplets vengeurs du fabuliste, il ne pouvait en être question [20]. Le cauteleux De Visé, Boyer peut-être, tentèrent leur chance. … Segrais proposa *L'Amour guéri par le Temps*, dont le titre fait sentir la faiblesse et la mièvrerie : c'était tomber au niveau des *Peines et des Plaisirs de l'Amour*. Lully choisit Thomas Corneille » [21], d'abord pour *Psyché* en 1678, puis pour *Bellérophon* en 1679.
 
 
-## Une genèse laborieuse et énigmatique
+## Une genèse laborieuse et énigmatique.
 
 Or, quoique commandé en hâte, *Bellérophon* n'en a pas moins une genèse des plus fournies et des plus problématiques parmi les œuvres de notre auteur. La rédaction du livret est en effet à l'origine d'une querelle qui n'a toujours pas été absolument éclaircie et qui, comme le souligne G. Reynier, « n'a plus en elle-même beaucoup d'intérêt » et n'aurait pas retenu notre attention « si d'aussi grands noms ne s'y étaient pas trouvés mêlés » [22].
 
@@ -137,7 +137,7 @@ tous ces témoignages contradictoires se détruisent les uns les autres … . S
 Mais au-delà de la paternité évidemment cornélienne de *Bellérophon* (la preuve la plus probante étant que presque tous les comptes-rendus et éditions ne mentionnent que le nom de Thomas Corneille, de même que le *Mercure Galant* lui attribue également la pièce dans la notice nécrologique qui lui est consacrée en 1710), il convient de faire la part des choses et d'évaluer précisément le rôle de chacun dans la rédaction et l'élaboration de cette tragédie en musique. En ce qui concerne Quinault, son rôle a été aussi discret que précieux, puisqu'il s'est « contenté » d'aider Thomas Corneille à construire et structurer le livret de la tragédie lyrique, genre pour lequel il avait acquit une pratique qui fut très profitable à notre auteur. Le cas du Sieur Despréaux est déjà plus délicat : nous ferons confiance à Fontenelle qui, bien qu'il n'enlève à Boileau que pour mieux s'attribuer le travail effectué, réduit le rôle de celui-ci au « Prologue, au morceau fameux qui ouvre le quatrième Acte : *Quel spectacle charmant pour mon cœur amoureux*, et à ce qu'on appelle dans les Opéra *Canevas* [30] » de même qu'il lui attribue le « nom du Magicien Amisodar, qui est heureux et sonore » [31]. Quant à Fontenelle lui-même, sa participation reste des plus ambiguës : d'abord parce que personne n'a réfuté la *Lettre* dans laquelle il s'attribue la paternité quasi intégrale de la pièce, et surtout parce que nombreuses sont les éditions qui portent son nom à côté de celui de Thomas Corneille [32]. Là encore, il nous faut nous tourner vers Noirville que nous avons toutes les raisons de croire totalement objectif dans la mesure où il n'avait aucun intérêt dans la querelle en question. Celui-ci nous apprend que, bien loin d'être l'auteur principal de la pièce, Fontenelle ne s'est vu confié que le « rôle d'Amisodar, l'un des plus brillants de la tragédie » [33]. Il est vrai que le rôle, n'apparaissant que lors de deux grandes scènes, permet un traitement isolé, et l'on peut imaginer que Thomas Corneille ait confié ces deux passages à son neveu. Surtout que du point de vue de la versification, le rôle d'Amisodar est le seul qui, dans l'anarchie à peu près totale du système des rimes de l'œuvre, présente une certaine cohérence en recourant dans la scène infernale (II, 6-7) à des rimes exclusivement plates. Il nous apparaît donc plus vraisemblable (même si le vrai, on le sait, n'est pas toujours vraisemblable…) que ce jeune auteur de vingt et un ans ne se soit finalement vu confier qu'un seul rôle bien spécifique dans la tragédie de *Bellérophon*.
 
 
-## Une création triomphale
+## Une création triomphale.
 
 Les nombreux comptes-rendus, gazettes et chroniques consacrés chaque mois aux spectacles présentés à l'Académie Royale de Musique nous permettent d'imaginer l'engouement et de la popularité du théâtre lyrique à cette époque. En ce qui concerne notre tragédie, les comptes-rendus qui nous sont parvenus peuvent nous renseigner là encore de manière précise sur les circonstances de sa création : d'abord annoncée dans le *Mercure Galant* de décembre 1678 sous le titre de *Les Triomphes de Bellérophon*, elle sera finalement représentée sous le titre que nous lui connaissons le 31 janvier 1679 à l'Académie Royale de Musique [34]. Ce retard, causé par la maladie du compositeur, n'a fait qu'aiguiser la curiosité des spectateurs, aidé par les articles de Donneau De Visé qui note que
 
@@ -159,7 +159,7 @@ tout Paris était-il demeuré d'accord qu'on y rencontroit ce qui est rare et tr
 L'œuvre fut en effet régulièrement reprise par la suite, d'abord devant le roi à Saint-Germain les 3 et 15 janvier 1680 qui « a trouvé des endroits si beaux, qu'il les fit répéter deux fois dans chaque représentation » [41], puis à Lyon en 1688, où on venait d'établir une Académie d'Opéra, et enfin à nouveau à Paris en 1705, 1718 et 1728. Vigarani fut cette fois-là chargé des décors qui furent, de l'avis de tous, aussi réussis et luxueux que coûteux [42].
 
 
-## Une scénographie riche et fasteuse
+## Une scénographie riche et fasteuse.
 
 Il est d'ailleurs possible de se faire une idée de ce que furent les décors de la création grâce aux planches qui nous sont parvenus des décors que Torelli élabora pour *Il Bellero Fonte* de Nolfi à Venise en 1642. Il est fort probable que Vigarani s'en soit largement inspiré, d'autant que la scénographie en France suivait à cette époque de très près les modèles italiens qui s'étaient perfectionnés à Venise, Rome, Florence et Parme [43], et l'adaptation de la légende de Bellérophon pour la scène de l'Académie Royale de Musique donna l'un des spectacles les plus brillants où décors et machines furent maniés avec beaucoup de goût et de richesse. La scénographie visait à l'époque à un maximum de vraisemblance : le décor en perspective permettant la représentation d'un espace vaste et profond, renforcé par les peintures en trompe-l'œil, le tout disposé symétriquement selon l'axe central du roi. Le merveilleux et le spectaculaire n'en étaient pas pour autant occultés puisqu'on recourait le plus possible aux « changements à vue » que permettaient des machines de plus en plus élaborées. Et il faut bien reconnaître que le mythe de Bellérophon était le plus favorable à une telle transposition et le plus apte à déployer toutes les ressources techniques des nouvelles machineries théâtrales.
 
@@ -172,7 +172,7 @@ En ce qui concerne les changements et les machineries, force est de constater le
 Le succès de *Bellérophon*, à n'en pas douter, tient principalement à sa filiation directe – par l'intermédiaire d'*Andromède* dont il reprend, comme nous le verrons plus loin, de nombreuses caractéristiques – avec les pièces à machines : le texte de Thomas Corneille, allié à la musique de Lully parfaitement adaptée aux différentes atmosphères du drame, aux divertissements que l'on peut imaginer extrêmement fastueux et aux machineries particulièrement grandioses, devait évidemment acquérir sur scène une force et une grandeur que la seule lecture ne peut restituer. Spectacle non pour être lu, mais pour être vu, voilà assurément le secret d'une pièce dont le succès et la notoriété n'ont d'égal que le mépris dans lequel il est généralement tenu de nos jours.
 
 
-## Un mythe fondateur de la culture occidentale
+## Un mythe fondateur de la culture occidentale.
 
 Étrange destinée que celle de Bellérophon, qui compte parmi les mythes les plus répandus et les plus populaires de l'Antiquité (et par là même de notre culture jusqu'au XVIII*e* siècle), et qui est totalement occulté de nos jours – la dernière adaptation datant de 1773, lorsque Berton et Grenier décident de mettre en musique le livret d'un certain… Thomas Corneille. Il est vrai que le revirement de destinée et la déchéance que vit le héros (particulièrement rare dans le schéma du conte populaire selon Propp) ne permettent pas à la légende d'accéder à l'universalité de mythes davantage axés vers une signification et une allégorie unique et claire tels ceux de Œdipe, Antigone, Electre ou bien Orphée…
 
@@ -195,10 +195,10 @@ Si le mythe ne va pas subir de modifications notables par la suite, sa portée e
 Il semble néanmoins que le mythe ait connu un nouvel élan aux XVII*e* et XVIII*e* siècles, parallèlement à celui de Persée et Andromède : le renouveau des genres, la mode du spectaculaire et le courant galant de cette période ne pouvaient manquer de remettre au goût du jour de telles légendes. C'est donc davantage dans les pièces de Philippe Quinault et Vincenzo Nolfi – pour *Bellérophon* – et de Pierre Corneille – pour *Andromède* – qu'il faut chercher les modèles directs de Thomas Corneille, au-delà des sources antiques : nous verrons ainsi comment notre auteur propose avec son *Bellérophon* une sorte de synthèse de ces différentes œuvres et de ces différents genres.
 
 
-# Analyse de la pièce
+# Analyse de la pièce.
 
 
-## Une intrigue simple et concise
+## Une intrigue simple et concise.
 
 Si Thomas Corneille suit dans ses grandes lignes le mythe antique, l'agencement des épisodes, la succession des actions et la courbe générale de l'œuvre prouvent assez bien que l'auteur s'est néanmoins plié aux exigences de la dramaturgie classique pour construire son intrigue.
 
@@ -215,7 +215,7 @@ Pendant ce temps, face à un paysage dévasté, Amisodar savoure les malheurs qu
 Dans l'avant-cour du Palais, les Lyciens attendent, désormais rassurés, le retour de Bellérophon : *Un Oracle confus faisait notre infortune*, rappelle le Roi avant d'ajouter que *cet Oracle est éclairci*. Reste à éclaircir la haine inflexible de Stenobée qui vient, mourante, avouer son secret *Au plus ardent amour j'eus pour lui l'âme atteinte*, et confesser son crime *Le monstre n'a versé que pour moi le sang de vos sujets*. – *Quoi, le Ciel souffre encore que vous voyiez le jour* ? s'indigne le Roi. Mais Stenobée s'est déjà rendue justice et expire sous l'effet d'un poison, dans l'indifférence presque générale… C'est qu'apparaît sur le char de Pallas, Bellérophon victorieux, vainqueur de la Chimère. Retrouvailles touchantes avec Philonoé *Enfin je vous revois, Princesse incomparable* et bénédiction du souverain *Vivez heureux, vivez toujours amants*, qui annonce le divertissement final en l'honneur du plus grand des héros où se mêlent chants et danses du peuple qui recherchent *les Ris, les Jeux et les Plaisirs*.
 
 
-## Structure de l'œuvre : les règles classiques réinventées
+## Structure de l'œuvre : les règles classiques réinventées.
 
 Mais pour peu que l'on s'intéresse, au-delà de ces simples faits dramatiques, à la structure générale de l'ouvrage, la filiation de Thomas Corneille avec les règles de la dramaturgie classique apparaît de manière évidente et nous permet de mieux goûter la véritable spécificité du travail dramaturgique de l'auteur. Il s'agit donc d'analyser l'agencement même des épisodes, leur succession et leur disposition, afin de mettre en évidence la composition de la pièce qui seule permettra d'observer cette « synthèse » qu'effectue Thomas Corneille entre les impératifs du théâtre classique et les exigences de la tragédie lyrique.
 
@@ -289,7 +289,7 @@ Et l'on ne ait qu'un Inconstant [55].
 Enfin, il est particulièrement intéressant d'observer comment le poète s'accommode des impératifs de la vraisemblance et de la bienséance. La réflexion esthétique concernant ces deux notions se trouve au cœur des questionnements qui ont accompagnés la naissance du drame lyrique : comment envisager en effet un spectacle total tel que la tragédie en musique se propose de créer sans intervention du chant, de la musique et de la danse ? … La poétique de la tragédie lyrique va donc se fonder essentiellement sur la notion de « vraisemblance merveilleuse » : ainsi le genre s'inscrit-il (une fois de plus) dans la continuité de la tragédie dramatique tout en acceptant l'intervention du merveilleux. Mais là encore, on a longtemps vu dans cette concession une esquive trop facile et un prétexte à toutes les dérives : or ce qu'affirme la tragédie lyrique, c'est une simple différence de degré, toutes les règles classiques étant néanmoins absolument respectées. La tragédie dramatique usait de l'alexandrin pour s'exprimer ? La tragédie lyrique opte pour le chant, tout aussi conventionnel que l'alexandrin. La tragédie dramatique se limitait à un « merveilleux suggéré » [56] ? La tragédie lyrique se fonde sur un merveilleux représenté… La vraisemblance traduit alors la volonté de représenter un ordre idéal, de reconstituer la Nature selon une certaine optique – et cela avec l'aide de la *mimèsis* et des outils rhétoriques. Finalement, on ne fait qu'élever l'artificialité à un niveau supérieur, là où le rapport avec le monde réel n'est plus possible tout en étant sans cesse visé : « la vraisemblance est absolument observée, mais elle est d'une nature différente, elle est pensée comme une vraisemblance extraordinaire » [57]. C. Guyon-Lecoq nous propose ainsi un exemple particulièrement représentatif de cette tendance propre à la tragédie lyrique en observant les changements de décor qui ponctuent tout le quatrième acte de l'ouvrage pour conclure à l'impossible représentation d'un tel épisode, qui feint l'extrême réalisme mais ne se révèle réalisable qu'à l'intérieur de l'illusion et de la convention théâtrale que l'opéra s'est érigé : « … ce que suggère cet exemple limite, c'est que la norme en matière de décor d'opéra est en fait son éclatement » [58]. Si la différence d'artificialité paraît négligeable entre théâtre classique et théâtre lyrique, c'est pourtant là que se produit cet éclatement de l'univers clos de la tragédie, qui s'ouvre alors à une dimension cosmique, que seul l'opéra permet par l'emploi qu'il fait du merveilleux. Ce merveilleux s'impose donc comme un élément fondamental dans la compréhension du genre : il a à la fois ses impératifs et ses avantages. La vraisemblance, même merveilleuse, n'est acceptée que si elle ne choque pas l'entendement, que si elle est « crédible » : le jardin ne peut se changer au deuxième acte en désert affreux que parce que Amisodar est un mage et use de ses pouvoirs, Bellérophon ne peut combattre la Chimère dans les airs que parce qu'il chevauche le légendaire Pégase… Les moindres changements de décors ou actions spectaculaires sont subordonnés à une logique interne à laquelle Thomas Corneille se garde bien de déroger sous peine d'être sévèrement critiqué ; la scène déjà citée des Nappées au troisième acte cristallise ainsi tous les reproches des contemporains : le fait que nombreux spectateurs aient regretté cette longue plainte inutile et injustifiée au sein d'un acte particulièrement tragique montre bien l'intérêt porté à la vraisemblance – comment admettre une parenthèse que rien ne motive ni ne justifie dans une intrigue de bout en bout parfaitement menée ? Le merveilleux est donc une convention que l'on admet comme un élément constitutif tant du genre que de l'intrigue et que l'on respecte tout au long de l'ouvrage. Ainsi, l'opéra français, en s'inspirant des préceptes classiques, met en place ses propres règles, mais selon un « principe d'inversion » [59] : la tragédie lyrique montre ce que la tragédie dramatique ne montre pas, et elle le montre par d'autres moyens et pour d'autres effets ; mais à l'intérieur de ce système, les lois générales du théâtre sont toujours appliquées, adaptées aux nouvelles exigences.
 
 
-## Des personnages fortement caractérisés
+## Des personnages fortement caractérisés.
 
 Le théâtre classique étant placé sous le signe de la *mimèsis*, d'une imitation de la nature qui ne cherche pas tant à inventer qu'à tenter d'approcher le plus possible des modèles antiques, les dramaturges se voient contraints à traiter constamment des sujets semblables et des schémas identiques. On comprend donc qu'au-delà de l'intrigue, c'est par le traitement même des personnages que l'auteur va personnaliser son œuvre et lui conférer une spécificité et une originalité que l'écriture et la versification vont compléter. Mais là encore, les règles restent précises : une typologie rigoureuse s'accompagne d'une règle de convenance qui limitent la liberté du poète. Mais on peut néanmoins déceler, au détour d'un propos, d'une action ou d'une exclamation, une individualité qui laisse deviner une psychologie chez les protagonistes du drame, si sommaire qu'elle soit.
 
@@ -344,7 +344,7 @@ Amisodar, le prince lycien, vient compléter le trio en l'enrichissant à la foi
 Enfin, la tragédie lyrique, en recourant au chœur, voit le retour d'une entité quelque peu oubliée depuis le début du siècle : il s'agit du peuple, sorte de personnage collectif qui fait sentir sa présence tout au long du drame par ses nombreuses interventions. Si Thomas Corneille avait déjà amorcé cette tendance dans ses tragédies dramatiques [68], le peuple prend dans *Bellérophon* une part sans précédent à l'action : l'intrigue n'est plus une simple spéculation sur la destiné de quelques grands hommes réduits à errer dans une antichambre de palais, elle prend en considération les nécessités et les exigences sociales (si édulcorées et idéalisées qu'elles soient) pour bâtir une histoire qui réintroduit le peuple dans ses paramètres.
 
 
-## *Bellérophon* au confluent des genres
+## *Bellérophon* au confluent des genres.
 
 Lorsqu'il s'empare du mythe grec, Thomas Corneille a évidemment à l'esprit toutes les possibilités interprétatives que lui offre une telle légende. Comme le souligne Paul Bénichou, son *Bellérophon*, bien qu'original et individuel, « ne s'en rattache pas moins à la lignée d'œuvres antérieures hors de laquelle elle n'est pas imaginable » [69] : c'est donc bien dans cette optique qu'il faut comprendre le choix de l'auteur de ne traiter que l'épisode argien du mythe. Dans un théâtre où le héros est toujours l'emblème scénique qui renvoie au vrai monarque une de ses images, Thomas Corneille s'est bien gardé de mettre en scène la chute de Bellérophon : le jeu allégorique étant incontournable à l'âge classique, il ne fallait montrer du héros qu'une image digne de la propagande royale à laquelle la tragédie lyrique participe ouvertement.
 
@@ -480,7 +480,7 @@ l'opéra était la chose du roi. C'était, de toutes les affaires de la cour, ce
 La tragédie lyrique, création absolument française, devint rapidement un outil de propagande tant artistique (revendication d'un art exclusivement français face à l'invasion italienne à travers toute l'Europe) que politique (glorification du Souverain par son assimilation aux grands héros antiques). Le choix du mythe de Bellérophon répond évidemment à cette tendance : la mise en scène d'un héros parfait, épique, garant de l'idéal chevaleresque et se sacrifiant pour la collectivité ne pouvait que se doter aux yeux du public d'un sens politique manifeste… La tragédie en musique est alors conçue comme une grande célébration du roi, symbolisé sur scène non pas tant par le roi Iobate que par le héros Bellérophon dont « le destin est simultanément réalisé dans la fiction et montré comme une allégorie à la gloire de Louis XIV » [93]. La dimension épique dans *Bellérophon* accentuant le projet martial et suscitant, par l'intermédiaire du héros, l'admiration du Monarque, l'œuvre va devenir « le spectacle de l'univers que le héros doit pacifier … afin de restaurer l'entente entre le ciel et la terre » [94].
 
 
-## Quelques particularités de l'écriture cornélienne
+## Quelques particularités de l'écriture cornélienne.
 
 La difficulté principale lorsqu'on observe les particularités stylistiques de *Bellérophon* consiste à pouvoir distinguer la spécificité de l'écriture cornélienne et les faits résultants des exigences du genre, pour pouvoir ensuite attribuer à juste titre à l'auteur tant les limites que les originalités d'ordre stylistique.
 
@@ -521,7 +521,7 @@ C'est luy que je choisis (v. 179-184).
 À cela s'ajoute d'autre part une pauvreté du vocabulaire que M. Oddon avait déjà parfaitement mis en valeur au sujet des tragédies [95] et qui se traduit ici par l'abondance de termes volontiers abstraits : le langage se fait imprécis, général et ne traduit pas la spécificité des sentiments humains mais plutôt les caractéristiques générales de l'amour, de la haine, de la vengeance ou du désespoir… Combien de « feux », « chaînes », « flâme », « tendresse » et « ardeur » ponctuent les dialogues ! Combien d'articles définis en emploi non référentiel maintiennent le discours dans un contexte abstrait et empêchent aux mots et aux idées de s'incarner ! Là encore, le livret d'opéra accuse ses limites ; il n'est pas une entité indépendante et n'existe que dans son rapport avec une musique destinée à mettre en valeur les mots et à incarner les idées : il ne tient par exemple qu'à la force expressive de la musique de Lully de distinguer et de caractériser « l'amour vous asservit mon ame » dont parle Amisodar (v. 326) par rapport à « l'ardeur si fidelle » dont se vante Bellérophon (v. 596) et qui, dans le texte de Thomas Corneille, auraient tendance à se confondre, du moins à se ressembler. Le paradoxe de la poétique de la tragédie en musique apparaît dans son absolue complexité : le livet doit être à la fois un drame susceptible d'être lu tel une véritable œuvre dramatique, et un texte apte à être mis en musique ; il doit être une œuvre cohérente et achevée tout en ne se réalisant qu'une fois chantée sur scène. Le librettiste, face à de telles exigences, doit accepter certains compromis : construire une intrigue solide et efficace tout en édulcorant la force évocatrice du verbe afin de laisse au chant et à la musique un champ d'action où ils puissent se réaliser et s'épanouir totalement.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 À l'instar de la genèse obscure de *Bellérophon*, la première édition de la pièce présente également une énigme que nous n'avons pu totalement résoudre. Il existe en effet deux éditions « originales » de notre tragédie, ou du moins, deux éditions datant de 1679, bénéficiant du *Privilège de Sa Majesté*, et prétendant être vendues à *l'Entrée de la Porte de l'Académie Royale de Musique* : l'une est de Christophe Ballard, *seul Imprimeur du Roy pour la Musique*, la seconde de Mille de Beaujeu. Une telle concurrence est tout à fait inhabituelle et ne manque pas d'étonner : si l'édition de Christophe Ballard est à l'évidence l'édition officielle, il n'est cependant pas possible de considérer celle de Mille de Beaujeu comme pirate ni même comme une contrefaçon. Un premier élément de réponse nous est donné par J. de La Caille dans son *Histoire de l'Imprimerie* : celui-ci nous apprend que Mille de Beaujeu, gendre de Claude Calleville, fût reçu libraire le 17 février 1656 auprès du Syndicat de Robert Ballard, père de Christophe [96]. De plus, Ph. Renouard précise dans son *Répertoire des Imprimeurs parisiens* que le libraire-imprimeur Mille de Beaujeu, qui avait une imprimerie rue de Reims, mourût précisément en 1679 [97]… C'est là tout ce que nous savons sur Mille de Beaujeu, ce qui est bien peu pour pouvoir aboutir à des conclusions probantes sur la double édition originale de *Bellérophon*. Le fait que les deux éditeurs appartenaient au même syndicat nous encourage à penser qu'un accord devant notaire ait pu être conclu afin de confier l'édition de *Bellérophon* à Mille de Beaujeu, sa mort en plein triomphe de l'ouvrage sur la scène du Palais-Royal ayant permis à Christophe Ballard de récupérer ses droits sur la publication des œuvres musicales du roi. Mais tout cela reste pour le moins hypothétique, en l'absence de document nous confortant dans nos conjectures…
 
@@ -591,7 +591,7 @@ De même que nous avons ajouté, pour plus de clarté, la mention CHŒUR de Peup
 # BELLEROPHON TRAGEDIE. REPRESENTÉE PAR L'ACADEMIE ROYALE DE MUSIQUE. 
 
 
-## Argument
+## Argument.
 
 Le Roy ayant donné la Paix à l'Europe, l'Académie Royale de Musique a creu devoir marquer la part qu'elle prend à la joye publique par un Spectacle, où elle pust faire entrer les témoignages de son zele pour la gloire de cet Auguste Monarque. Elle s'y est creuë d'autant plus obligée que la protection qu'il donne aux beaux Arts les a toûjours fait joüir, pendant le cours méme de la Guerre, de l'heureuse tranquillité qui leur est si nécessaire. C'est ce qui a donné occasion à cette Tragedie en Musique. Le Theatre represente d'abord le Parnasse François. Apollon y vient avec les Muses celebrer le retour d'une paix si glorieuse à la France. Pan & Bacchus y arrivent en méme temps, & signalent leur joye par des Danses & par des Chants d'allegresse. Mais Apollon pour mieux divertir le plus Grand Prince de la Terre, imagine sur le champ un Spectacle, où luy-méme avec les Muses veut représenter l'Histoire de Bellerophon. Chacun sçait que ce Heros combatit autrefois la Chimere⁎, monté sur Pegase⁎, & que ce fut d'un coup de / pied de ce Cheval que nâquit ensuite la fameuse Fontaine qui inspire les Vers, & qui a fait naître la Poësie [98]. On ne sçait pas trop bien qui estoit le Pere de Bellerophon. Les uns tiennent que c'estoit Glaucus, les autres le font Fils de Neptune ; & c'est sur cette diversité d'opinions qu'on a formé l'intrigue de cette Piece, & l'Oracle qui en fut le nœud. Amisodar est un Personnage Episodique, fondé sur ce que quelques Mythologistes raportent sur cette Fable, qu'il y a eu une Femme nommée Chimere⁎, qui épousa un Roy de Lycie⁎, appellé Amisodar.
 
@@ -627,11 +627,11 @@ LA SCENE EST A PATARE [100] CAPTALE du Royaume de Lycie⁎.
  
 
 
-## Prologue
+## Prologue.
 Le Theatre représente une agreable Vallée, en forme de Costeaux delicieux, au fond desquels paroist le Mont Parnasse⁎ à double sommet, & entre les deux, la Source de la Fontaine d'Helicon [101]. Apollon⁎ est assis au haut de cette Montagne, accompagné des Neuf Muses, qui sont aussi assises des deux costez.
 
 
-    APOLLON
+    APOLLON.
 Muses, preparons nos Concerts.  
 Le plus grand Roy de l'Univers  
 Vient d'asseurer le repos de la Terre ;  
@@ -639,11 +639,11 @@ Sur cet heureux Vallon il répand ses bien-faits.
 Apres avoir chanté les fureurs⁎ de la Guerre,  
 Chantons les douceurs de la Paix.  
 
-    CHŒUR DE MUSES
+    CHŒUR DE MUSES.
 Apres avoir chanté les fureurs de la Guerre,  
 Chantons les douceurs de la Paix.  
 
-    APOLLON
+    APOLLON.
 Par cet Auguste Roy la discorde est bannie.  
 Pour tous les Dieux sa gloire a tant d'appas⁎,  
 Que Pan luy mesme oubliant nos debats  
@@ -653,47 +653,47 @@ Pour rendre nos accords plus charmants & plus doux.
 Bacchus entre icy [104] d'un costé, accompagné d' Ægipans [105] & de Ménades [106], & Pan entre de l'autre, suivy de Bergers & de Bergeres.
 
 
-    BACCHUS
+    BACCHUS.
 Du fameux bord de l'Inde [107], où toûjours la Victoire  
 Rangea les Peuples sous ma Loy,  
 Je viens prendre part à la gloire⁎  
 D'un Vainqueur aussi grand que moy.  
 
-    PAN
+    PAN.
 J'ay quitté les Forests où je tiens mon Empire  
 Pour venir comme vous admirer ce Heros⁎.  
 Nos Plaines & nos Bois luy doivent leur repos,  
 C'est par luy seul qu'en [108] nos Champs on respire.  
 
-    TOUS ENSEMBLE
+    TOUS ENSEMBLE.
 Chantons le plus grand des Mortels,  
 Chantons un Roy digne de nos Autels.  
 
-    CHŒUR D’APOLLON ET DES MUSES
+    CHŒUR D’APOLLON ET DES MUSES.
 Par luy tous nos champs refleurissent.  
 
-    CHŒUR DE BACCHUS & DE PAN 
+    CHŒUR DE BACCHUS & DE PAN. 
 Les tranquilles plaisirs par [109] luy sont de retour.  
 
-    CHŒUR D’APOLLON & DES MUSES
+    CHŒUR D’APOLLON & DES MUSES.
 De son nom seul les Echos retentissent.  
 
-    CHŒUR DE BACCHUS & DE PAN
+    CHŒUR DE BACCHUS & DE PAN.
 Si l'on soûpire encor, ce n'est plus que d'amour.  
 
-    CHŒUR D’APOLLON & DES MUSES
+    CHŒUR D’APOLLON & DES MUSES.
 Tout rit dans nos douces retraites.  
 
-    CHŒUR DE BACCHUS & DE PAN
+    CHŒUR DE BACCHUS & DE PAN.
 Rien ne vient plus troubler le son de nos Musetes [110].  
 
-    TOUS ENSEMBLE
+    TOUS ENSEMBLE.
 Chantons le plus grand des Mortels,  
 Chantons un Roy digne des Autels.  
 Les Bergers & les Bergeres commencent icy une Entrée⁎, apres laquelle un Berger chante les deux couplets suivants, qui sont entremeslez de Dances.
 
 
-    *CHANSON du* BERGER
+    *CHANSON du* BERGER.
 Pourquoy n'avoir pas le cœur tendre ?  
 Rien n'est si doux que d'aimer.  
 Peut-on aisément s'en défendre ?  
@@ -705,27 +705,27 @@ Non, non, non, rien n'échappe à l'Amour.
 Apres cette Chanson, les Ægipans & les Ménades font une Entrée⁎, laquelle estant finie, les Bergers & les Bergeres se meslent avec eux ; & ils dansent tous ensemble. Cette dernière Danse est suivie de ce Dialogue de Bacchus & de Pan.
 
 
-    PAN
+    PAN.
 Tout est paisible sur la Terre,  
 Voicy l'heureux temps des Amours.  
 
-    BACCHUS
+    BACCHUS.
 Ils n'ont plus à craindre la Guerre,  
 Qui des Amants troubloit les plus beaux jours.  
 
-    PAN
+    PAN.
 Aimez, Bergers, aimez, Bergeres,  
 Suivez vos plus tendres desirs.  
 
-    BACCHUS
+    BACCHUS.
 Si l'Amour a des maux, il a mille plaisirs  
 Qui rendent ses peines legeres.  
 
-    BACCHUS & PAN
+    BACCHUS & PAN.
 Si l'Amour a des maux, il a mille plaisirs  
 Qui rendent ses peines legeres.  
 
-    APOLLON 
+    APOLLON. 
 Quittez de si vaines Chansons.  
 Il faut par de plus nobles sons  
 Honorer en ce jour le Heros⁎ de la France.  
@@ -736,22 +736,22 @@ Qui jadis au Parnasse⁎ a donné la naissance.
 Allons, pour ce grand Roy redoublez vos efforts⁎,  
 Preparez vos plus doux accords.  
 
-    TOUS ENSEMBLE
+    TOUS ENSEMBLE.
 Pour ce Grand Roy redoublons nos efforts,  
 Preparons nos plus doux accords.  
 FIN DU PROLOGUE< Bellérophon, >< TRAGEDIE >
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 Le Theatre represente une avant-cour du Palais du Roy, au fond de laquelle paroist un grand Arc de Triomphe, & au delà, on découvre la Ville de Patare, Capitale du Royaume de Lycie⁎.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 STENOBEE, ARGIE
 
 
-    STENOBEE
+    STENOBEE.
 Non, les soûlevements d'une Ville rebelle  
 Ne m'ont point fait quitter Argos [112].  
 C'est l'Amour seul fatal à mon repos,  
@@ -762,11 +762,11 @@ Je puis donner un Diadème,
 Et viens en cette Cour faire un dernier effort⁎  
 Sur le cœur d'un Ingrat⁎ que j'aime.  
 
-    ARGIE
+    ARGIE.
 Quoy, de Bellerophon l'outrageante froideur  
 Ne peut de cet amour dégager [113] vostre cœur ?  
 
-    STENOBEE
+    STENOBEE.
 Malgré tous mes mal-heurs je serois trop heureuse,  
 Si les mépris pouvoient guerir l'amour.  
 Ma fierté dés [114] long-temps par un juste retour⁎,  
@@ -775,13 +775,13 @@ Mais helas ! ma tendresse⁎ augmente chaque jour.
 Malgré tous mes mal-heurs je serois trop heureuse,  
 Si les mépris pouvoient guerir l'amour.  
 
-    ARGIE
+    ARGIE.
 Contre Bellerophon vostre aveugle colere [115]  
 Aux plus sanglants effets⁎ devoit s'authoriser ;  
 L'amour vous le fait voir toûjours digne de plaire,  
 C'est assez pour vous apaiser.  
 
-    STENOBEE
+    STENOBEE.
 Helas ! à quel excez je portay ma vangeance !  
 Je l'accusay malgré son innocence  
 De vouloir m'inspirer une coupable ardeur⁎.  
@@ -794,14 +794,14 @@ On prend dans ses mal-heurs plus de part que luy-mesme.
 Helas ! quand il se faut vanger [116] de ce qu'on aime,  
 Qu'il en coûte pour se vanger !  
 
-    ARGIE
+    ARGIE.
 Ne redoutez plus rien ; ce Heros⁎ invincible  
 Aux plus affreux perils tant de fois exposé,  
 A sa valeur⁎ a trouvé tout possible.  
 Quel triomphe⁎ pour vous s'il vous estoit aisé [117]  
 De rendre enfin son cœur sensible⁎ !  
 
-    STENOBEE
+    STENOBEE.
 Du moins Bellerophon n'a jamais rien aimé,  
 C'est à la gloire⁎ qu'il se donne,  
 Et son cœur peut estre charmé⁎  
@@ -817,11 +817,11 @@ Espoir, qui séduisez les Amans mal-heureux,
 Pourquoy suspendre ma vangeance ?  
 
 
-### SCENE II 
+### SCENE II. 
 STENOBEE, PHILONOE, ARGIE
 
 
-    PHILONOE
+    PHILONOE.
 Reyne, vous sçavez qu'en ce jour  
 Je reçois un Espoux de la main de mon Pere.  
 J'attends le choix qu'il doit faire  
@@ -835,16 +835,16 @@ Le seul Objet qui pouvait l'enflamer,
 Qu'il est doux de trouver dans un Amant qu'on aime  
 Un Espoux que l'on doit aimer.  
 
-    STENOBEE
+    STENOBEE.
 Quoy, Princesse, à l'amour vous auriez pû vous rendre ?  
 
-    PHILONOE
+    PHILONOE.
 En vain j'ay voulu m'en défendre.  
 
-    STENOBEE
+    STENOBEE.
 Et qui donc aimez-vous ?  
 
-    PHILONOE 
+    PHILONOE. 
 Un Heros⁎ que les Dieux  
 Ont fait des Conquerans l'exemple glorieux.  
 Estimé dans la paix, redouté dans la guerre,  
@@ -854,10 +854,10 @@ A ses premiers efforts⁎ ses Ennemis se rendent,
 Et s'il aime, il n'est point de cœur qui se défend  
 De ses premiers regards.  
 
-    STENOBEE
+    STENOBEE.
 Ah ! C'est Bellerophon.  
 
-    PHILONOE
+    PHILONOE.
         C'est luy, je le confesse,  
 Ne condamnez point ma tendresse⁎.  
 Quand mille exploits fameux parlent pour un Amant,  
@@ -870,21 +870,21 @@ Il possède mon cœur, je puis tout sur son ame.
 Reyne, favorisez une si belle flâme⁎.  
 
 
-### SCENE III 
+### SCENE III. 
 STENOBEE, ARGIE
 
 
-    STENOBEE
+    STENOBEE.
 Et je croyois qu'aucune ardeur⁎  
 N'eût jamais enflamé [122] son cœur ?  
 
-    ARGIE
+    ARGIE.
 Un cœur qui paroist invincible  
 Peut estre un temps sans se laisser charmer ;  
 Mais on a beau se défendre d'aimer,  
 Le moment vient d'estre sensible⁎.  
 
-    STENOBEE
+    STENOBEE.
 C'en est fait, l'outrage est trop grand.  
 Si ses cruels refus faisoient tort à ma gloire,  
 Au moins il m'estoit doux de croire  
@@ -903,15 +903,15 @@ Il en [123] peut évoquer [124] quelque Monstre effroyable
 Qui porte le ravage & la flâme en ces lieux,  
 Il m'aime, & si sur luy je veux jeter les yeux…  
 
-    ARGIE
+    ARGIE.
 Le Roy vient, contraignez l'ennuy⁎ qui vous accable.  
 
 
-### SCENE IV
+### SCENE IV.
 LE ROY, STENOBEE, ARGIE, SUITE
 
 
-    LE ROY
+    LE ROY.
 Contre Bellerophon, j'ay fait jusqu'à ce jour  
 Ce que Pretus pouvoit attendre  
 De l'aveugle zele⁎ d'un Gendre.  
@@ -927,40 +927,40 @@ Ma Fille est l'objet de sa flâme,
 Aujourd'huy de ma main elle attend un Espoux,  
 C'est luy que je choisis.  
 
-    STENOBEE
+    STENOBEE.
         Ciel, que me dites-vous ?  
 Choisir Bellerophon ! & qui l'auroit pû croire ?  
 
-    LE ROY
+    LE ROY.
 Ses Exploits l'ont rendu digne de cette gloire.  
 
-    STENOBEE
+    STENOBEE.
 Songez-vous que Pretus vous demanda sa mort ?  
 
-    LE ROY
+    LE ROY.
 Les Dieux ne m'ont point fait arbitre de son sort.  
 
-    STENOBEE
+    STENOBEE.
 Quoy, vous soûtenez un Coupable ?  
 
-    LE ROY
+    LE ROY.
 Quoy, vôtre haine est implacable ?  
 
-    TOUS DEUX
+    TOUS DEUX.
 Ah, cessez de vous obstiner.  
 
-    LE ROY
+    LE ROY.
 Malgré vôtre jalouse envie,  
 
-    STENOBEE
+    STENOBEE.
 Malgré vos soins pour luy sauver la vie,  
 
-    TOUS DEUX
+    TOUS DEUX.
 Il merite le prix que je luy veux donner. la mort  
 On entend icy des Timbales & des Trompetes.
 
 
-    STENOBEE
+    STENOBEE.
 A ce bruit éclatant je connois⁎ qu'il s'avance.  
 Je ne vous dis plus rien, mais vous devez songer  
 Que si vous negligez le soin de ma vangeance,  
@@ -969,21 +969,21 @@ Apres que Stenobée est sortie, on voit entrer une Troupe d'Amazones [128], & de
 
 
 
-### SCENE V
+### SCENE V.
 LE ROY, BELLEROPHON, Troupe
 
 d'Amazones et de Solymes
 
 
-    LE ROY
+    LE ROY.
 Venez, venez, goûter les doux fruits de la gloire,  
 Qui dans tout l'Univers vous fait tant de jaloux.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Seigneur, quand on combat pour vous  
 N'est-on pas seur de la victoire ?   
 
-    LE ROY
+    LE ROY.
 Apres avoir rangé deux Peuples sous mes Loix,  
 Prince, vôtre rare vaillance  
 Demeureroit sans recompense  
@@ -991,17 +991,17 @@ Si ma Fille n'estoit le prix de vos exploits.
 Vous l'aimez, elle vous aime,  
 Soyez heureux, j'y consens.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Ah Seigneur ! puis je encor me connoistre⁎ moy-mesme ?  
 
-    LE ROY
+    LE ROY.
 La valeur⁎ obtient tout des cœurs reconnaissans.  
 Un Heros⁎ que la gloire éleve  
 N'est qu'à demy récompensé,  
 Et c'est peu si l'amour n'acheve  
 Ce que la Gloire a commencé.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Surpris de tant d'honneurs je ne puis que me taire.  
 Quel service assez grand pouvoit les meriter ?  
 J'eusse esté trop temeraire  
@@ -1009,33 +1009,33 @@ Si j'eusse osé me flatter,
 Moy qu'un Frere a chassé d'Ephyre [130],  
 Où mon Pere Glaucus avait donné la Loy.  
 
-    LE ROY
+    LE ROY.
 Estre l'appuiy de mon Empire,  
 C'est meriter assez d'y regner apres moy.  
 Qu'aucun ne garde icy des sujets de tristesse.  
 A vos Captifs je rends la liberté.  
 
-    BELLEROPHON, *aux Amazones & aux Solymes*
+    BELLEROPHON, *aux Amazones & aux Solymes*.
 Faites tous voir vôtre allegresse  
 En sortant de captivité.  
 Le Roy & Bellerophon estant sortis, ceux qui ont conduit les Amazones & les Solymes, leur ostent les fers, & rendent l'espée aux unes, & la lance aux autres.
 
 
-    AMAZONES
+    AMAZONES.
 Quand un Vainqueur est tout brillant de gloire,  
 Qu'il est doux de porter ses fers⁎ !  
 
-    SOLYMES
+    SOLYMES.
 Celuy qui nous soûmit commande à la Victoire,  
 Il soûmettra tout l'Univers.  
 
-    CHŒUR DES AMAZONES & DES SOLYMES
+    CHŒUR DES AMAZONES & DES SOLYMES.
 Disons cent fois ce qu'on ne peut trop dire,  
 Heureux qui vît sous son empire !  
 Les Amazones & les Solymes commencent icy leurs Danses, & chantent ensuite les paroles suivantes, dont chaque couplet se chante apres une Entrée⁎.
 
 
-    AMAZONES & SOLYMES
+    AMAZONES & SOLYMES.
 Faisons cesser nos alarmes⁎,  
 Goûtons les biens que rend la liberté.  
 Celuy dont chacun craint les armes  
@@ -1051,16 +1051,16 @@ Met nôtre gloire enfin en seureté.
 FIN DU PREMIER ACTE.
 
 
-## Acte II 
+## Acte II. 
 Le Theatre represente un Jardin delicieux, au milieu duquel paroist un Berceau [132] en forme de Dôme, soûtenu à l'entour de plusieurs Termes. Au travers de ce Berceau on découvre trois Allées, dont celle du milieu est terminée par un superbe Palais en éloignement. Les deux autres finissent à perte de veuë.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 PHILONOE, DEUX AMAZONES
 
 
-    PHILONOE
+    PHILONOE.
 Amour, mes vœux sont satisfaits,  
 Il m'est doux de porter tes chaînes⁎,  
 Et j'oublie aujourd'huy les peines  
@@ -1070,89 +1070,89 @@ Soûpirs languissans,
 Si j'ay souffert vos tourments les plus rudes,  
 Je n'ay pas trop payé les douceurs que je sens.  
 
-    I. AMAZONE 
+    I. AMAZONE. 
 Les douceurs que l'amour fait trouver dans ses chaînes,  
 Aux plus heureux Amans ont coûté des soûpirs.  
 
-    II. AMAZONE
+    II. AMAZONE.
 Les plaisirs qui n'ont point commencé par les peines,  
 Ne font jamais de vrais plaisirs.  
 
-    PHILONOE
+    PHILONOE.
 Chantez, chantez la valeur⁎ éclatante  
 Du plus grand des Heros⁎ ;  
 Si la Lycie⁎ est triomphante,  
 C'est à luy qu'elle doit sa gloire & son repos.  
 
-    I. AMAZONE
+    I. AMAZONE.
 Que de Lauriers sur une seule teste !  
 Avec luy la Victoire a peine à respirer [133].  
 
-    II. AMAZONE
+    II. AMAZONE.
 De l'Univers entier il eut fait la conqueste,  
 Si son grand cœur n'eût sçeu se moderer.  
 
-    TOUTES DEUX
+    TOUTES DEUX.
 Chantons, chantons la valeur éclatante  
 Du plus grand des Heros⁎ ;  
 Si la Lycie⁎ est triomphante,  
 C'est à luy qu'elle doit sa gloire & son repos.  
 
 
-### SCENE II
+### SCENE II.
 BELLEROPHON, PHILONOE, AMAZONES
 
 
-    BELLEROPHON
+    BELLEROPHON.
 Princesse, tout conspire [134] à couronner ma flâme⁎,  
 Tout s'apreste pour mon bon-heur.  
 Sentez-vous les plaisirs qui regnent dans mon ame,  
 Et les mesmes transports⁎ charment-ils vôtre cœur ?  
 
-    PHILONOE
+    PHILONOE.
 L'amour qui unit par de si douces chaînes⁎  
 A dés long-temps uny tous nos desirs ;  
 A vos soûpirs cent fois j'ay meslé mes soûpirs,  
 Et si j'ay partagé vos peines,  
 Je dois partager vos plaisirs.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Qu'un si doux aveu doit [135] me plaire !  
 Qu'il rend mon destin glorieux !  
 
-    PHILONOE
+    PHILONOE.
 Quand [136] ma bouche pourroit se taire,  
 L'amour feroit parler mes yeux.  
 
-    TOUS DEUX
+    TOUS DEUX.
 Que tout parle à l'envy⁎ de nôtre amour extrême,  
 A ses transports⁎ abandonnons nos cœurs,  
 Et pour goûter toujours de nouvelles douceurs,  
 Disons-nous cent fois : je vous aime.  
 
-    PHILONOE *voyant Stenobée*,
+    PHILONOE *voyant Stenobée*,.
 Prince, Adieu ; mon devoir m'appelle auprés du Roy,  
 Je vous laisse le soin d'entretenir [137] la Reyne.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Quel cruel supplice pour moy !  
 
 
-### SCENE III
+### SCENE III.
 STENOBEE, BELLEROPHON, ARGIE
 
 
-    STENOBEE
+    STENOBEE.
 Ma présence icy te fait peine.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Il est vrai, je frêmis lors que je vous revoy.  
 Quel destin ennemy vous améne en Lycie⁎ ?  
 Y venez vous chercher à troubler mon repos ?  
 Vous m'avez fait bannir d'Argos,  
 Ne verray-je jamais vôtre haine adoucie ?  
 
-    STENOBEE
+    STENOBEE.
 S'il te souvient des maux que je t'ay faits,  
 Qu'il te souvienne aussi de ma tendresse⁎ extrême ;  
 Ne me reproche point, ingrat, que je te hais,  
@@ -1163,7 +1163,7 @@ Mais plus à mon amour j'ay fait de violence,
 Plus sur mon cœur il a pris de pouvoir,  
 Et je ne t'ay jamais haï qu'en apparence.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Vous m'avez sans relâche accablé de mal-heurs,  
 Je n'ay point reconnû l'amour dans vos fureurs⁎.  
 Si l'amour quelque fois s'abandonne à la rage,  
@@ -1174,11 +1174,11 @@ Et je ne dois rien écouter
 De ma plus mortelle Ennemie.  
 
 
-### SCENE IV 
+### SCENE IV. 
 STENOBEE, ARGIE
 
 
-    STENOBEE
+    STENOBEE.
 Tu me quittes, cruel⁎ ! arreste. Il fuit, helas !  
 Mon amour voit sa honte, & n'en profite pas.  
 Vous ne sçauriez guerir le mal qui me tourmente,  
@@ -1188,26 +1188,26 @@ Elle devroit s'éteindre, & devient plus ardente.
 L'amour trop heureux s'affoiblit,  
 Mais l'amour mal-heureux s'augmente [138].  
 
-    ARGIE
+    ARGIE.
 Quoy, vous pourrez toûjours souffrir  
 Qu'on vous brave, qu'on vous dédaigne ?  
 
-    STENOBEE
+    STENOBEE.
 Non, il faut dans son sang que mon amour s'éteigne.  
 Perdons⁎ tout , faisons tout perir.  
 
 
-### SCENE V 
+### SCENE V. 
 STENOBEE, AMISODAR, ARGIE
 
 
-    STENOBEE
+    STENOBEE.
 Vous me jurez sans cesse une amour [139] eternelle.  
 Croiray-je, Amisodar, croiray-je vos serments ?  
 Me serez vous assez fidelle  
 Pour ne refuser rien à mes ressentiments ?  
 
-    AMISODAR
+    AMISODAR.
 Lorsque l'amour vous asservit mon ame,  
 Votre insensible cœur devroit se contenter  
 De ne pas respondre à ma flâme⁎ ;  
@@ -1218,7 +1218,7 @@ Je meurs pour vos divins appas⁎,
 Et viens vous demander pour toute recompense  
 Que vous n'en doutiez pas.  
 
-    STENOBEE
+    STENOBEE.
 Bellerophon m'a fait une mortelle injure,  
 Le Roy la connoist & l'endure,  
 Il le choisit pour Gendre au lieu de le punir.  
@@ -1227,7 +1227,7 @@ Par une vangeance barbare⁎
 Dont le seul souvenir  
 Fasse trembler tout l'avenir.  
 
-    AMISODAR
+    AMISODAR.
 Je puis de la nuit infernale,  
 Faire sortir un Monstre furieux :  
 Mais vous mesme tremblez d'exercer en ces lieux  
@@ -1239,7 +1239,7 @@ Nos campagnes fumantes
 Et nos champs ne seront semez  
 Que de restes affreux de Victimes sanglantes.  
 
-    STENOBEE
+    STENOBEE.
 Que ce Spectacle sera doux  
 A la fureur⁎ qui me transporte !  
 Hastez-vous, hastez-vous  
@@ -1248,16 +1248,16 @@ Faites ouvrir la terre, & que le Monstre en sorte,
 Hastez-vous, hastez-vous  
 De servir mon couroux.  
 
-    AMISODAR
+    AMISODAR.
 Jusqu'au fond des Enfers je vay me faire entendre,  
 Fuyez, Reyne, fuyez ;  
 Vos yeux seroient trop effrayez  
 De l'horreur qu'en ces lieux mes Charmes⁎ vont répandre.  
 
 
-### SCENE VI 
+### SCENE VI. 
 
-    AMISODAR *seul.*
+    AMISODAR *seul.*.
 Que ce jardin se change en Desert affreux.  
 Le Jardin disparoist, & l'on voit en sa place une espece de prison horrible taillée dans les Rochers, & percée à perte de veuë, avec plusieurs Chaînes, Cordages, & Grilles de fer qui la remplissent de toutes parts.
 
@@ -1270,14 +1270,14 @@ Quatre Magiciens & quatre Magiciennes paroissent, & témoignent en dançant l'ar
 
 
 
-### SCENE VII 
+### SCENE VII. 
 AMISODAR, MAGICIENS
 
 
-    MAGICIENS
+    MAGICIENS.
 Parle, nous voilà prests, tout nous sera possible.  
 
-    AMISODAR
+    AMISODAR.
 Faisons sortir un Monstre horrible.  
 Pour l'évoquer employez l'Acheron,  
 Le Cocyte, le Phlegeton [141] ;  
@@ -1286,7 +1286,7 @@ C'est moy qui vous l'ordonne.
 Les Magiciens se jettent icy contre terre pour l'évocation.
 
 
-    MAGICIENS
+    MAGICIENS.
 Par ce pressant commandement,  
 Promptement, promptement.,  
 Que la Tenare [142] s'ouvre,  
@@ -1294,7 +1294,7 @@ Que l'Enfer se découvre ;
 Cocyte, Phlegeton, il nous faut du secours,  
 Pour nous entendre arrestez vôtre cours.  
 
-    AMISODAR
+    AMISODAR.
 Poursuivez. Que pour moy vôtre pouvoir éclate ;  
 Par Cerbere [143] & la triple Hecate [144] ;  
 Parlez, pressez, appellez à grand bruit,  
@@ -1302,13 +1302,13 @@ Et la Mort & la Nuit.
 Les Magiciens se jettent de nouveau contre terre.
 
 
-    MAGICIENS
+    MAGICIENS.
 Nuit, Mort, Cerbere, Hecate, Erebe [145], Averne [146],  
 Noires Filles du Stix [147] que la fureur⁎ gouverne,  
 Entendez nos cris, servez-vous,  
 Nous travaillons pour vous.  
 
-    AMISODAR
+    AMISODAR.
 Le Charme est fait, les Monstres vont paroistre,  
 La Terre s'ouvre, & me fait connoistre.  
 Rendons aux sombres Deïtez  
@@ -1316,7 +1316,7 @@ Les honneurs que de nous elles ont méritez.
 La Terre s'ouvre, & on en voit sortir trois Monstres qui s'élevent au dessus de trois Bûchers ardens, l'un en forme de Dragon, l'autre de Lyon, & le dernier de Bouc. Trois des Magiciens montent dessus; Apres quoi, les quatre qui ont désja dancé font une nouvelle Entrée⁎ avec les quatre Magiciennes, pour marquer leur joye de ce que le Charme a reüssi. Leur Dance estant finie, les trois Magiciens qui sont sur les Monstres chantent alternativement les paroles suivantes avec les autres Magiciens.
 
 
-    MAGICIENS 
+    MAGICIENS. 
 La Terre nous ouvre  
 Ses Gouffres profonds,  
 L'Enfer se découvre.  
@@ -1332,7 +1332,7 @@ Nous avons la gloire
 De tout surmonter.  
 Non, non, rien ne peut nous resister.  
 
-    AMISODAR
+    AMISODAR.
 Un Monstre seul causeroit peu d'effroy,  
 Il faut unir ces trois Monstres ensemble.  
 Par un charme plus fort & plus digne de moy,  
@@ -1343,16 +1343,16 @@ Tout s'abysme [148], & la Terre se referme.
 FIN DU SECOND ACTE. 
 
 
-## ACTE III
+## ACTE III.
 Le Theatre represente le Vestibule du Temple fameux, où Apollon rendoit ses Oracles dans la Ville de Patare. Ce Temple paroist d'abord fermé dans le fond, & ne s'ouvre que lors que la Ceremonie commence à paroistre .
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 STENOBEE, ARGIE
 
 
-    ARGIE
+    ARGIE.
 Que vous faites couler & de sang & de larmes  
 Dans ces tristes climats.  
 Tout tremble, tout en est en allarmes.  
@@ -1360,7 +1360,7 @@ On voit regner partout l'image du trespas,
 Et le Monstre animé par la force des Charmes⁎  
 Marque de mille morts la trace de ses pas.  
 
-    STENOBEE 
+    STENOBEE. 
 Lieux désolez, & remplis de carnage,  
 Campagnes où le Monstre a semé tant d'horreur,  
 Ne me reprochez point ma jalouse fureur⁎,  
@@ -1368,11 +1368,11 @@ Dont votre embrasement est le fatal ouvrage ;
 L'amour desesperé qui regne dans mon cœur  
 Vous vange assez de ce ravage.  
 
-    ARGIE
+    ARGIE.
 Quoi, vous ne goûtez point la secrette douceur  
 D'avoir troublé l'Hymen⁎ qui vous a outragé ?  
 
-    STENOBEE
+    STENOBEE.
 Impuissante vangeance ! inutile secours !  
 Dequoy peux-tu servir quand on aime toûjours ?  
 Les plus cruels transports⁎ que la fureur⁎ inspire  
@@ -1383,11 +1383,11 @@ Impuissante vangeance ! inutile secours !
 Dequoy [149] peux-tu servir quand on aime toûjours ?  
 
 
-### SCENE II 
+### SCENE II. 
 LE ROY, STENOBEE, ARGIE
 
 
-    LE ROY
+    LE ROY.
 Que de mal-heurs accablent la Lycie⁎ ?  
 Si le Ciel luy gardoit de si funestes coups,  
 Avant qu'il fist sur elle éclater son courroux,  
@@ -1397,7 +1397,7 @@ Que des Objets qui m'épouvantent,
 Et je partage comme Roy  
 Les maux que mes Sujets ressentent.  
 
-    STENOBEE
+    STENOBEE.
 Quand vous voyez vos Peuples abbatus,  
 Reconnaissez du Ciel la justice suprême.  
 Vous n'avez pas vangé l'injure de Pretus,  
@@ -1411,19 +1411,19 @@ Que sa valeur⁎ en delivre ces lieux,
 Puisque son crime vous attire.  
 
 
-### SCENE III 
+### SCENE III. 
 LE ROY, BELLEROPHON
 
 
-    BELLEROPHON
+    BELLEROPHON.
 Vous venez consulter l'Oracle d'Apollon⁎ ?  
 
-    LE ROY
+    LE ROY.
 Je viens luy demander ce qu'il faut que j'espere ;  
 De mes Estats c'est le Dieu tutelaire.  
 Il écoute ma voix, quand j'implore son nom.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Ce Dieu qui cherit la Lycie⁎  
 Dans ses mal-heurs voudra la secourir,  
 Et l'encens qu'en ces lieux vous luy venez offrir  
@@ -1433,62 +1433,62 @@ Tout le sang qu'il trouve à répandre,
 Verray-je sans rien entreprendre  
 Que par luy dans ces lieux tout soit remply d'horreur ?  
 
-    LE ROY
+    LE ROY.
 Ah, Prince, songez-vous que trois Monstres ensemble  
 Sont unis dans ce Monstre affreux ?  
 A son aspect il n'est rien qui ne tremble,  
 De sa brûlante haleine il pousse mille feux.  
 
-    BELLEROPHON 
+    BELLEROPHON. 
 Ces trois Monstres unis n'ont rien qui m'épouvante ;  
 Plus le Combat coûte au Vainqueur,  
 Plus la Victoire est éclatante,  
 Et c'est ce qui flatte un grand Cœur.  
 
 
-### SCENE IV
+### SCENE IV.
 LE ROY, PHILONOE, BELLEROPHON
 
 
-    PHILONOE
+    PHILONOE.
 Seigneur, à vôtre voix je viens joindre la mienne,  
 Aux vœux que vous offrez je viens méler mes pleurs,  
 Et demander au Ciel que la Lycie⁎ obtienne  
 La fin de ses mal-heurs.  
 
-    LE ROY
+    LE ROY.
 Contre le Monstre qui les cause  
 Bellerophon veut employer son bras.  
 Consentirez-vous qu'il s'expose ?  
 
-    PHILONOE
+    PHILONOE.
 Ah, vous-mesme Seigneur, vous n'y consentez pas ;  
 Souffrirez-vous qu'il coure où la mort est certaine ?  
 
-    BELLEROPHON
+    BELLEROPHON.
 On court à la Victoire en s'exposant pour vous,  
 Croyez-en l'ardeur⁎ qui m'entraîne.  
 Helas ! sans les frayeurs dont la Lycie⁎ est pleine,  
 Je serois desja vostre Espoux.  
 
-    PHILONOE
+    PHILONOE.
 Esperons tout des Dieux ; un violent orage  
 Améne quelquefois le calme le plus doux.  
 
-    LE ROY
+    LE ROY.
 Le Temple s'ouvre ; entrons, & par un juste hommage  
 Meritons que le Ciel appaise son couroux.  
 Le Sacrificateur paroist avec ses Ministres, & un grand nombre de Peuple qui entre dans le Temple en dançant. Apres la premiere Dance, le Chœur du Peuple chante les paroles qui suivent.
 
 
 
-### SCENE V
+### SCENE V.
 LE ROY, BELLEROPHON, PHILONOE, SACRIFICATEUR,
 
 MINISTRES du Temple, CHŒUR de Peuple.
 
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 Le mal-heur qui nous accable  
 Demande un Dieu favorable.  
 Entens nous, grand Apollon⁎ :  
@@ -1508,15 +1508,15 @@ Qui suivit ta Victoire,
 Viens nous secourir.  
 Hâte-toy, sauve nous, ou bien nous allons périr.  
 
-    SACRIFICATEUR
+    SACRIFICATEUR.
 Reçois, grand Apollon⁎, reçois ce Sacrifice,  
 Fais que le Ciel nous soit propice.  
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 D'un Cœur soûmis nous t'adressons nos vœux,  
 Ecoute un Peuple mal-heureux.  
 
-    SACRIFICATEUR, *versant du vin* [152] *sur la teste de la victime*
+    SACRIFICATEUR, *versant du vin* [152] *sur la teste de la victime*.
 Par ce vin répandu fais cesser nos allarmes,  
 Arreste le cours de nos larmes.  
 Tu vois quel triste sort nous accable aujourd'huy ;  
@@ -1526,17 +1526,17 @@ Avancez, il est temps d'immoler la Victime.
 Les Ministres du Temple s'avancent auprès du Sacrificateur, & immolent la victime.
 
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 Dieux, qui connoissez nos mal-heurs,  
 Laissez-vous toucher de nos pleurs.  
 
-    SACRIFICATEUR, *monstrant le cœur de la Victime*
+    SACRIFICATEUR, *monstrant le cœur de la Victime*.
 Esperons, je ne voy que Signes [153] favorables.  
 Nos vœux au Ciel doivent estre agreables.  
 Il jette le cœur & les entrailles dans le feu.
 
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 Aprés un augure⁎ si doux,  
 Tâchons de meriter que les Dieux soient pour [154] nous.  
 Le peuple dance icy à l'entour du feu, & chante ensuite ce premier couplet.
@@ -1558,13 +1558,13 @@ Bannissons les soûpirs de ces lieux ;
 Ne craignons plus rien de contraire,  
 Nos maux ont touché les Dieux.  
 
-    SACRIFICATEUR
+    SACRIFICATEUR.
 Tout m'apprend qu'Apollon⁎ dans nos vœux s'interesse,  
 Redoublez à l'envy⁎ vos marques d'allegresse.  
 Le Peuple commence une nouvelle Dance à l'entour du Feu, & chante les paroles qui suivent.
 
 
-    [CHŒUR DE PEUPLE]
+    [CHŒUR DE PEUPLE].
 Assez de pleurs  
 Ont suivy nos malheurs ;  
 De nostre zele⁎  
@@ -1590,13 +1590,13 @@ L'Amour languit troublé de nos alarmes ;
 Rapelle icy tous ses charmes,  
 Toy que ses traits⁎ ont tant de fois soûmis.  
 
-    SACRIFICATEUR
+    SACRIFICATEUR.
 Digne Fils de Latone [156] & du plus grand des Dieux,  
 Parle, & daigne regler le destin de ces lieux.  
 L'Autel qui a parû s'enfonce, & la Pythie [157] sort de son antre les cheveux épars. En mesme temps on entend de grands éclats de Tonnerre. Le Temple tremble, & on le voit tout brillant d'éclairs.
 
 
-    LA PYTHIE
+    LA PYTHIE.
 Gardez tous un silence extrême,  
 Apollon⁎ vous entend & va parler luy-mesme.  
 Son approche désja fait briller les éclairs,  
@@ -1608,7 +1608,7 @@ A son aspect fremissez comme moy.
 La Pythie se panche vers la Terre, tandis qu'Apollon paroist en Statuë d'or, & prononce l'Oracle qui suit.
 
 
-    APOLLON
+    APOLLON.
 Que vostre crainte cesse.  
 Un des fils de Neptune appaisera pour vous  
 Le celeste courroux.  
@@ -1617,56 +1617,56 @@ Le prenne pour Espoux.
 La Pythie s'enfonce dans l'Antre d'où elle est sortie. Apollon disparoist, & le peuple se retire.
 
 
-    LE ROY *à Bellérophon et à Philonoé*
+    LE ROY *à Bellérophon et à Philonoé*.
 Vous l'avez entendu, je n'ay rien à vous dire,  
 Je plains vos déplaisirs, comme vous j'en soûpire,  
 Mais rien n'est preferable au repos de ces lieux ;  
 Soûmettons-nous aux Dieux.  
 
 
-### SCENE VI
+### SCENE VI.
 BELLEROPHON, PHILONOE
 
 
-    BELLEROPHON
+    BELLEROPHON.
 Dans quel accablement cet Oracle me laisse !  
 
-    PHILONOE
+    PHILONOE.
 Ah, cruelle surprise [158] !  
 
-    BELLEROPHON 
+    BELLEROPHON. 
 O funeste revers !  
 Quoy ? je vous pers, belle Princesse ?  
 
-    PHILONOE
+    PHILONOE.
 Quoy ? Bellerophon, je vous pers ?  
 
-    TOUS DEUX
+    TOUS DEUX.
 Helas ! n'avons nous eû le destin favorable,  
 Que pour mieux ressentir le coup qui nous accable ?  
 
-    BELLEROPHON
+    BELLEROPHON.
 Mes vœux allaient estre contents  
 
-    PHILONOE
+    PHILONOE.
 Jamais sort n'eust esté plus heureux que le nostre.  
 
-    TOUS DEUX
+    TOUS DEUX.
 Qui croiroit que deux cœurs si tendres, si constants,  
 Ne fussent pas destinez l'un pour l'autre ?  
 
-    BELLEROPHON
+    BELLEROPHON.
 Vous ne serez donc point à moy ?  
 Quel prix d'une ardeur⁎ si fidelle !  
 
-    PHILONOE
+    PHILONOE.
 N'y pensons plus.  
 
-    BELLEROPHON
+    BELLEROPHON.
         Quoy ? vous pourrez [159], cruelle,  
 Engager ailleurs votre foy ?  
 
-    PHILONOE 
+    PHILONOE. 
 Brisez, brisez une fatale chaîne.  
 Quand j'ay receu l'hommage de vos vœux,  
 Je croyois que le Ciel consentiroit sans peine  
@@ -1674,7 +1674,7 @@ Que l'Hymen⁎ nous rendist heureux,
 Et je n'attendois pas l'Oracle rigoureux  
 Qui nous sacrifie à la haine.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Non, non, quoy qu'il ait ordonné,  
 On ne verra jamais que mon amour s'éteigne [160],  
 Je n'examine⁎ point ce qu'il faut que je craigne  
@@ -1684,27 +1684,27 @@ Me porte encor des coups plus rigoureux ;
 Au moins je puis etre fidelle,  
 Si je ne sçaurois estre heureux.  
 
-    PHILONOE
+    PHILONOE.
 Se peut-il que le Ciel contre un amour si tendre  
 Exerce toutes ses rigueurs ?  
 
-    BELLEROPHON
+    BELLEROPHON.
 De ses ordres cruels l'Amour doit-il dépendre ?  
 
-    TOUS DEUX
+    TOUS DEUX.
 Aimons nous malgré nos mal-heurs,  
 Ce n'est pas au Destin à separer les cœurs.  
 FIN DU TROISIEME ACTE.
 
 
-## ACTE IV 
+## ACTE IV. 
 Des Rochers forts hauts & forts escarpez, couverts de Sapins & d'autres Arbres solitaires font la Decoration de cét Acte. Au fond du Theatre paroist un Rocher de la méme hauteur, & garny des mémes Arbres. Il est percé par trois Grotes, au travers desquelles on découvre un Païsage à perte de veuë.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
-    AMISODAR
+    AMISODAR.
 Quel Spectacle charmant pour mon cœur amoureux !  
 Ces Morts de tous costez étendus dans les plaines  
 Me sont de seurs garands de la fin de mes peines ;  
@@ -1722,11 +1722,11 @@ Quand on obtient ce qu'on aime,
 Qu'importe à quel prix ?  
 
 
-### SCENE II
+### SCENE II.
 ARGIE, AMISODAR [161]
 
 
-    ARGIE
+    ARGIE.
 Il faut, pour contenter la Reyne,  
 Rendre le Monstre à l'eternelle nuit ;  
 Bellerophon au desespoir reduit  
@@ -1739,110 +1739,110 @@ Laissez vivre l'Ingrat⁎ dans ses jaloux transports⁎ ;
 Voir aux mains d'un Rival l'Objet de sa tendresse⁎,  
 C'est tous les jours endurer mille morts.  
 
-    AMISODAR 
+    AMISODAR. 
 Le laisser vivre ! O Dieux ! que faut-il que je pense ?  
 Je voy pour luy la Reyne s'alarmer  
 Lors que sa mort est preste à remplir sa vangeance.  
 Est-ce le haïr ou l'aimer ?  
 
-    ARGIE
+    ARGIE.
 Montrez que vostre cœur ne cherche qu'à luy plaire.  
 Pourquoy penetrer dans le sien ?  
 Quand l'objet aimé parle, un Amant doit tout faire,  
 Et n'examiner⁎ rien.  
 
-    AMISODAR
+    AMISODAR.
 Non, non, que mon Rival perisse,  
 Est-ce à moy d'empécher qu'il ne perde⁎ le jour ?  
 
-    ARGIE
+    ARGIE.
 Il faut faire à la Reine encor ce Sacrifice,  
 Ou renoncer à vostre amour.  
 
-    VOIX *derriere le Theatre.*
+    VOIX *derriere le Theatre.*.
 Tout est perdu, le Monstre avance,  
 Sauvons-nous, sauvons-nous.  
 
-    AMISODAR
+    AMISODAR.
 Le Monstre approche, éloignez-vous.  
 
-    ARGIE
+    ARGIE.
 Ciel, contre sa fureur⁎ embrasse ma défense.  
 
 
-### SCENE III
+### SCENE III.
 UNE NAPEE, UNE DRYADE
 
 
-    ENSEMBLE
+    ENSEMBLE.
 Plaignons, plaignons [162] les maux qui desolent ces lieux  
 Les pleurs qu'ils font couler devroient toucher les Dieux.  
 
-    DRYADE  [163]
+    DRYADE [163].
 Il n'est plus d'herbes dans les plaines.  
 
-    NAPEE  [164]
+    NAPEE [164].
 Il n'est plus d'eaux dans les fontaines.  
 
-    DRYADE
+    DRYADE.
 Tout perit.  
 
-    NAPEE
+    NAPEE.
 Tout tarit.  
 
-    DRYADE
+    DRYADE.
 Quel excés d'ennuis⁎ !  
 
-    NAPEE
+    NAPEE.
         Quelles peines !  
 
-    ENSEMBLE
+    ENSEMBLE.
 Plaignons, plaignons les maux qui désolent ces lieux  
 Les pleurs qu'ils font couler devroient toucher les Dieux.  
 
 
-### SCENE IV 
+### SCENE IV. 
 DIEUX des Bois, NAPEE, DRYADE
 
 
-    DIEUX DES BOIS
+    DIEUX DES BOIS.
 Les Forests sont en feu, le ravage s'augmente,  
 Ce n'est partout qu'épouvante & horreur.  
 
-    NAPEE & DRYADE
+    NAPEE & DRYADE.
 Du Monstre comme vous nous sentons la fureur⁎,  
 Voyez cette Plaine brûlante.  
 
-    DIEUX DES BOIS
+    DIEUX DES BOIS.
 Helas ! que sont-ils devenus  
 Ces Bois dont nous faisions nos retraites tranquilles ?  
 
-    NAPEE & DRYADE
+    NAPEE & DRYADE.
 Ces Eaux qui serpentoient dans ces Plaines fertiles,  
 Ces Eaux, helas, ne coulent plus.  
 
-    DIEUX DES BOIS
+    DIEUX DES BOIS.
 Que de tristess !  
 
-    NAPEE & DRYADE
+    NAPEE & DRYADE.
 Que de sujets de larmes !  
 
-    TOUS ENSEMBLE
+    TOUS ENSEMBLE.
 Pour adoucir le Ciel qui voit tant de malheurs,  
 Joignons nos soûpirs & nos pleurs.  
 
 
-### SCENE V 
+### SCENE V. 
 LE ROY, BELLEROPHON
 
 
-    LE ROY
+    LE ROY.
 Ah Prince ! où vous emporte une ardeur⁎ trop guerriere ?  
 En vain à cent perils on vous a veu courir,  
 En vain vostre grand nom remplit la Terre entière,  
 Vous cherchez un Combat où vous allez perir.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Je ne vay point combattre un Monstre redoutable  
 Pour remplir de mon nom l'Univers étonné [165],  
 Je vais, Amant infortuné,  
@@ -1852,14 +1852,14 @@ J'ai hazardé ma vie en cherchant la victoire.
 Ce que j'ay fait animé par la gloire⁎,  
 Ne le pourrai-je faire animé par l'amour ?  
 
-    LE ROY
+    LE ROY.
 Suivre un amour trop temeraire,  
 C'est vous livrer vous-mesme au plus funeste sort.  
 
-    BELLEROPHON
+    BELLEROPHON.
 Accablé de mal-heurs, puis-je craindre la mort ?  
 
-    LE ROY 
+    LE ROY. 
 Ménagez vostre vie, elle m'est toujours chere.  
 Par ces aimables nœuds⁎  
 Que je vous destinois avec mon Diadéme,  
@@ -1869,13 +1869,13 @@ Je vais faire à Neptune offrir un Sacrifice.
 Allons sçavoir [166] ses volontez,  
 Peut-estre il nous sera propice ?  
 
-    BELLEROPHON
+    BELLEROPHON.
 En vain, Seigneur, vous me flattez.  
 Puis qu'à son Fils vous devez la Princesse,  
 Au moins en combattant laissez-moi faire voir  
 Que mon amour meritoit sa tendresse⁎.  
 
-    LE ROY
+    LE ROY.
 Ah, que je crains pour vous ce fatal desespoir !  
 Adieu, quand le peril ne vous peut émouvoir,  
 Je dois vous cacher ma foiblesse [167].  
@@ -1883,11 +1883,11 @@ On commence à voir icy tout le Païsage de l'enfoncement du Theatre, remply de 
 
 
 
-### SCENE VI 
+### SCENE VI. 
 BELLEROPHON, seul
 
 
-    BELLEROPHON
+    BELLEROPHON.
 Heureuse mort, tu vas me secourir  
 Dans mon mal-heur extrême.  
 Je cours m'offrir au Monstre asseuré de perir,  
@@ -1898,52 +1898,52 @@ On voit icy Pallas dans un Char de Nüages du costé droit, & en mesme temps par
 
 
 
-### SCENE VII
+### SCENE VII.
 PALLAS dans son Char, BELLEROPHON
 
 
-    PALLAS
+    PALLAS.
 Espere en ta valeur⁎, Bellerophon, espere,  
 Pallas descend du Ciel pour t'ofrir son secours.  
 
-    BELLEROPHON 
+    BELLEROPHON. 
 Déesse, en vain tu prens soin de mes jours,  
 Quand la mort seule peut me plaire.  
 
-    PALLAS
+    PALLAS.
 Ton sort est marqué dans les Cieux,  
 Viens, monte dans ce Char, & t'abandonne [168] aux Dieux.  
 Bellerophon monte dans le Char, & est enlevé sur le Ceintre, avec Pallas. Cependant on entend le Peuple qui exprime sa desolation par ces Vers.
 
 
-    CHŒUR DE PEUPLE *derrière le Theatre*
+    CHŒUR DE PEUPLE *derrière le Theatre*.
 Quelle horreur ! quel triste ravage !  
 Le Monstre redouble sa rage.  
 Pendant qu'on entend les cris des Peuples épouvantez, la Chimere⁎ paroist au font du Theatre & en mesme temps Bellerophon monté sur Pegase⁎ fond du haut de l'air, & apres un premier Combat avec la Chimere, il se sauve dans les airs, & traverse tout le Theatre.
 
 
-    CHŒUR DE PEUPLE *derrière le Theatre, pendant le combat de Bellerophon*
+    CHŒUR DE PEUPLE *derrière le Theatre, pendant le combat de Bellerophon*.
 Un Heros⁎ s'expose pour nous,  
 Dieux, soûtenez son bras, et conduisez ses coups.   
 Bellerophon fond une seconde fois sur la Chimere, au milieu du Theatre, & apres qu'il a disparu un moment en s'élevant sur le Ceintre, il paroist pour la troisiéme fois, descend sur le devant du Theatre, attaque de nouveau la Chimere, la blesse à mort, & se sauve en l'air, faisant son vol en rond, & apres trois tours, on le voit se perdre dans les nuës. Cependant la Chimere tombe morte entre les Rochers ; ce qui donne lieu à la joye que marque le Peuple par les Vers suivants.
 
 
-    CHŒUR DE PEUPLE *derrière le Theatre*
+    CHŒUR DE PEUPLE *derrière le Theatre*.
 Le Monstre est défait [169]. Quelle gloire⁎ !  
 Bellerophon remporte la victoire.  
 FIN DU QUATRIEME ACTE.
 
 
-## ACTE V 
+## ACTE V. 
 Le Theatre represente une grande avant-cour d'un Palais qui paroist élevé dans la Gloire. On y monte par deux grands degrez qui forment les deux costez de cette Decoration en ovale, & qui sont enfermez par deux grands Bâtiments d'Architecture, d'une hauteur extraordinaire. Les deux Degrez & les Galleries qui les environnent sont remplis des Peuples de la Lycie⁎ assemblez en ce lieu pour y recevoir Bellerophon que Pallas doit ramener apres la défaite de la Chimere.
 
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LE ROY, PHILONOE, CHŒUR de Peuple
 
 
-    LE ROY
+    LE ROY.
 Preparez vos chants d'allegresse,  
 Peuples, c'est en ce lieu que pour nostre bon-heur  
 Pallas doit ramener un illustre Vainqueur,  
@@ -1961,56 +1961,56 @@ Et quand Bellerophon receût de luy le jour,
 Il voulut que Glaucus feignist d'estre son pere ;  
 Il revient Triomphant, celebrez son retour.  
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 Viens, digne Sang des Dieux, joüir de ta victoire,  
 Chacun est charmé⁎ de ta gloire,  
 Et pour chanter tes grands exploits,  
 Nous allons tous joindre nos voix.  
 
-    LE ROY
+    LE ROY.
 Et toy, ma Fille, abandonne ton ame  
 Aux transports⁎ de sa flâme⁎.  
 Bellerophon t'est donné pour Espoux.  
 
-    PHILONOE
+    PHILONOE.
 Apres tant de rudes alarmes⁎,  
 Pouvons nous trop goûter les charmes  
 D'un changement si doux ?  
 
-    LE ROY
+    LE ROY.
 Qu'il est grand ce Heros⁎, qui ne voit point d'obstacles !  
 Que le Sort contre luy ne forme vainement !  
 
-    PHILONOE 
+    PHILONOE. 
 Pour tout vaincre, il suffit qu'un Heros⁎ soit Amant,  
 La valeur⁎ & l'amour font toûjours des miracles.  
 
-    TOUS DEUX
+    TOUS DEUX.
 La valeur & l'amour font toûjours des miracles.  
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 O jour pour la Lycie⁎ à jamais glorieux,  
 Où le Sang de nos Rois s'unit au Sang des Dieux !  
 
 
-### SCENE II
+### SCENE II.
 LE ROY, STENOBEE, PHILONOE, ARGIE,
 
 CHŒUR de Peuple
 
 
-    LE ROY
+    LE ROY.
 Venez vous partager l'allegresse publique ?  
 Enfin pour nous le Ciel s'explique,  
 Neptune a reconnu Bellerophon pour Fils.  
 
-    STENOBEE
+    STENOBEE.
 Je sais tout. Dieux cruels, vous l'avez donc permis ?  
 
-    LE ROY
+    LE ROY.
 Bellerophon cause-t-il cette plainte ?  
 
-    STENOBEE
+    STENOBEE.
 C'est luy seul, il est vray, qui fait mon desespoir.  
 Du plus ardent amour, j'eûs pour luy l'ame atteinte,  
 Et pour toucher son cœur j'ay manqué de pouvoir.  
@@ -2021,18 +2021,18 @@ Amisodar m'aimoit, j'ay fait agir ses Charmes⁎,
 Et le Monstre par luy remplissant tout d'alarmes⁎,  
 N'a versé que pour moy le sang de vos Sujets.  
 
-    LE ROY
+    LE ROY.
 Le Traistre ! qu'on l'arreste.  
 
-    STENOBEE
+    STENOBEE.
         Il s'est mis par la fuite  
 A couvert de vostre poursuite ;  
 Mais il traisne avec luy son crime & son amour.  
 
-    LE ROY
+    LE ROY.
 Quoy, le Ciel souffre encor que vous voyiez le jour ?  
 
-    STENOBEE
+    STENOBEE.
 J'ay prevenu tout ce que peut sa haine.  
 La justice que je me rends  
 M'a fait par le poison mettre fin à ma peine.  
@@ -2051,10 +2051,10 @@ Qu'en renonçant au jour ;
 Voy mes derniers soûpirs, impitoyable Amour,  
 J'expire.  
 
-    PHILONOE
+    PHILONOE.
 Quel excés de fureur⁎ ?  
 
-    LE ROY
+    LE ROY.
         Sa mort en est le prix,  
 Mais oublions & son crime & sa peine,  
 Voicy Bellerophon que Pallas nous ramène,  
@@ -2063,13 +2063,13 @@ On voit Pallas dans un Char, & Bellerophon avec elle. Tandis qu'elle descend, le
 
 
 
-### SCENE III
+### SCENE III.
 PALLAS, LE ROY, BELLEROPHON, PHILONOE,
 
 CHŒUR de Peuple
 
 
-    PALLAS
+    PALLAS.
 Connoissez⁎ le Fils de Neptune  
 Dans ce jeune Heros⁎.  
 A sa seule valeur⁎ vous devez le repos  
@@ -2081,17 +2081,17 @@ Et rendez grace aux Dieux.
 Bellerophon descend du Char, & Pallas est enlevée sur le Ceintre.
 
 
-    BELLEROPHON *à Philonoé*
+    BELLEROPHON *à Philonoé*.
 Enfin je vous revoy, Princesse incomparable.  
 
-    PHILONOE
+    PHILONOE.
 O changement à mes vœux favorables !  
 
-    TOUS DEUX
+    TOUS DEUX.
 Quel plaisir de voir en ce jour  
 Le Destin ceder à l'Amour !  
 
-    LE ROY
+    LE ROY.
 Joüissez des douceurs que l'Hymen⁎ vous prepare,  
 Vivez heureux, vivez toûjours Amants.  
 Que tous vos moments  
@@ -2101,7 +2101,7 @@ Ce qu'un sort rigoureux vous causa de tourments.
 On entend icy les Timbales & les Trompetes, & tous les autres Instruments, dont le son se mesle aux acclamations du Peuple qui chante les Vers suivants.
 
 
-    CHŒUR DE PEUPLE 
+    CHŒUR DE PEUPLE. 
 Le plus grand des Heros⁎ rend le calme à la Terre,  
 Il fait cesser les horreur de la Guerre.  
 Joüissons à jamais  
@@ -2109,7 +2109,7 @@ Des douceurs de la Paix.
 Neuf Lyciens se détachent, & font ici une Entrée⁎, après laquelle le Peuple chante les deux couplets qui suivent, au mesme son des Timbales, des Trompetes, & de tous les autres Instruments.
 
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 Les plaisirs nous preparent leurs charmes,  
 Ne songeons plus qu'à passer de beaux jours.  
 Si le Ciel nous fit verser des larmes,  
@@ -2125,7 +2125,7 @@ Cherchons les Ris, les Jeux, & les plaisirs [171].
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Les termes signalés par une astérisque dans la pièce sont brièvement définis dans ce glossaire : seuls les termes dont le sens a évolué ou dont une acception n'est plus employée de nos jours ont été retenus. Les références mythologiques sont développées lorsqu'elles apparaissent à plusieurs reprises au cours de l'ouvrage. Les définitions ou les références ponctuelles sont explicitées par des notes de bas de page. Les ouvrages consultés pour ce glossaire sont les suivants :Dictionnaire universel
 Dictionnaire de l'Académie française
@@ -2139,12 +2139,12 @@ Dictionnaire de la mythologie grecque et romaine
 AlarmesEffroi, appréhension bien ou mal fondée.V. 232, 417, 550, 752, 774, 827Apollon MusagèteDivinité tutélaire des arts, symbole du soleil et de la lumière civilisatrice qui reflète le génie artistique grec, l'idéal de la jeunesse, de la beauté et du progrès. En tant qu'inspirateur des musiciens et des poètes, il est lié aux neuf Muses (filles de Zeus et de Mnémosyne – la Mémoire) avec lesquelles il se promenait en chœur, couronné de laurier, et séjournait sur les monts Olympe, Parnasse, Piéros et Hélicon.Prologue, 495, 503, 509, 539, 568Apollon OraculaireDieu oraculaire par excellence, qui rendait ses présages à Delphes par la bouche même de la Pythie, il est pour les Grecs le chef des prophéties et des divinations, représenté vêtu d'une longue robe, habit caractéristique des prêtres qui rendaient les oracles.V. 456AppasSignifie, au pluriel, attrait, agrément, charme extérieur.V. 10, 333ArdeurDésigne la passion amoureuse, la vivacité, la fougue avec laquelle on se porte à quelque chose.V. 86, 146, 486, 681AugureDésigne au sens large, toute sorte de présage, de jugement qu'on fait de l'avenir.V. 523BacchusFils de Zeus et Sémélé, c'est le dieu consacré de la végétation, et en particulier de la Vigne et du Vin. Se déplaçant en cortège composé de bacchantes, silènes, satyres, égipans, bergers, qui célébrait les orgies et les bacchanales, sa présence est très marquée dans l'Antiquité dans tout ce qui à trait aux fêtes et aux commémorations. C'est d'ailleurs lui qui établit la première école de musique, et c'est en son honneur que furent données les premières représentations théâtrales.V. 13BarbareCruel, inhumain, qui n'écoute ni la pitié ni la raison.V. 340, 793ChainesSe dit, au pluriel, de la vive affection qui unit deux personnes.V. 245, 272CharmerSens fort directement dérivé du latin « d'exercer une puissance fascinante, ensorcelante ».V. 102, 746CharmesSens étymologique issu du latin *carmen* (« la formule d'incantation magique ») qui désigne les puissances magiques par lesquelles les sorciers font apparaître, avec l'aide du Démon, des choses merveilleuses contre l'ordre de la nature.V. 363, 419, 773ChimereAnimal fabuleux – représenté par Homère avec une tête de lion, un corps de chèvre et une queue de serpent, et par Hésiode avec trois têtes de lion, chèvre et serpent – habitant en Lycie ou en Carie et vomissant des flammes. Elle est le produit de l'union d'Echidna et de Typhon. Bellérophon la tua sur l'ordre d'Iobates avec l'aide de Pégase.Argument, didascalie v. 710, didascalie v. 724ConnoistreEmploie au sens premier de « savoir » ou « découvrir » là où le français moderne préférerait plus volontiers la forme renforcée « reconnaître ».V. 194, 208, 801CruelSe dit de quelqu'un qui ne répond pas aux sentiments qu'on lui témoigne.V. 311EffetsPratiques ou exécutions.V. 81EffortsSens fort d'une action ou de tout ce qui se fait avec violence.V. 58, 69, 133EnnuySens fort de douleur odieuse, tourment insupportable provoqué par un sentiment violent.V. 169, 530, 666EntreesScènes que font les danseurs dans un ballet. Le terme vient de l'espagnol *entrada* et est défini par Rousseau dans son *Dictionnaire de la musique* (1767) comme une pièce instrumentale précédant un ballet ou une forme de marche servant à introduire un personnage important ou un groupe de danseurs.Didascalie des vers 32, 40, 231, 369, 393, 500, 822Envy (à l')« À qui mieux mieux » (Furetière, Académie)V. 281, 540ExaminerObserver avec attention, avec réflexion une question pour en rechercher les qualités et les erreurs.V. 607, 651FersDésigne, au pluriel, les chaînes, carcans et menottes qui servent à retenir les prisonniers et les esclaves. En ce sens, il signifie figurément l'esclavage, la servitude.V. 227FlâmeMétaphore issue de la tradition pétrarquiste, constante au XVII*e* siècle pour désigner l'amour. Métaphore tellement courante qu'elle se lexicalise et son emploi s'élargit : ainsi le substantif « feux » (v.107) signifie-t-il la passion amoureuse.V. 76, 145, 268, 315, 329, 609, 750FureursFolie, rage, passion qui fait agir avec frénésie, avec délire.V. 5, 304, 354, 387, 423, 431, 464, 659, 671, 797GloireHonneur, réputation qui procède du mérite d'une personne; elle est d'abord une exigence intérieure sans idée durée d'action héroïque qui témoigne durant tout le XVII*e* siècle de la permanence de l'idéal aristocratique.V. 17, 101, 308, 497, 691, 727HerosDésigne un illustre personnage qui, quoique de nature mortelle, passait pour immortel et était élevé au rang de dieu après sa mort : il n'est ni dieu ni homme, mais les deux ensemble.V. 20, 53, 95, 128, 210, 257, 265, 725, 740, 755, 757, 802, 819, 827, 833HymenDésigne poétiquement le mariage.V. 339, 428, 602, 813IndifferentCelui qui n'est pas touché, qui n'a pas d'intérêt pour les choses ayant trait à l'amour.V. 155IngratPersonne qui ne veut point répondre à l'amour de quelqu'un.V. 70, 161, 315LyciePéninsule au sud de la Turquie composée d'un vaste massif au relief contrasté situé à la frontière de l'Empire byzantin.Intro, didascalie acte 1, 88, 258, 266, 290, 437, 460, 478, 487, didascalie acte 5, 760NœudsDésigne, d'un point de vue moral, les liaisons qui attachent figurément les personnes.V. 697PanD'origine obscure (fils de Zeus et la nymphe Calisto ou de l'Air et d'une Néréide ou encore du Ciel et de la Terre), ce dieu tient probablement son nom de ** (tout). Ces origines diverses semblent donc confirmer ses attributions multiples et son nom semble indiquer l'étendue de sa puissance même s'il reste surtout associé aux divinités champêtres.Argument, v. 11ParnasseChaîne de montagnes aux environs de Delphes qui passait pour être le séjour des Muses, d'Apollon et de Dionysos; le lieu privilégié où musiciens et poètes venaient chercher l'inspiration. C'est de l'un des antres de la montagne que jaillissait la fontaine Castalie.Prologue, v. 57PegaseCheval ailé qui apparaît également dans la légende de Persée. Son nom vient de ** (la source) car la légende veut qu'il soit né « aux sources de l'océan », c'est-à-dire en Extrême Orient, lors du meurtre de la Gorgone par Persée. Offert à Bellérophon par les dieux, c'est grâce à lui que le héros put vaincre la Chimère et les Amazones. Il remonta auprès des dieux à la mort de celui-ci.Argument, didascalie v. 724PerdreSe débarrasser volontairement, faire périr, tuer.V. 298, 322, 653RetourRetournement, renouvellement d'une situation.V. 75, 314SensibleSe dit d'un être touché par la passion, accessible à l'amour.V. 99TendresseSensibilité du cœur et de l'âme désignant plus spécialement le sentiment amoureux.V. 77, 137, 295, 642, 707, 770TraitsMétaphore dérivée de la flèche et qui désigne poétiquement les regards et les blessures qu'inspire l'amour.V. 552, 564, 786TransportsViolente émotion, agréable ou non, qui trouble et agite l'âme.V. 271, 282, 299, 431, 641, 750TriompheCérémonie pratiquée à Rome pour faire honneur à un victorieux, en lui faisant une entrée magnifique.Didascalie v. 197, v. 800Désigne également par un phénomène d'affadissement la simple victoireV. 98, 625ValeurDésigne à la fois les qualités générales d'une personneV. 209, 256, 717, 758Et plus particulièrement sa grandeur de courage, son ardeur belliqueuseV. 97, 454, 803ZeleSens fort de vive ardeur, de passion que l'on a pour quelque chose.V. 172, 517, 543
 
 
-# Epître, Permission, Privilège
+# Epître, Permission, Privilège.
 
 Nous reproduisons ici les Epître, Permission et Privilège parfois imprimés dans d'autres exemplaires de notre tragédie. Si la Permission et le Privilège se retrouvent régulièrement dans les éditions de Christophe Ballard, l'Epître de Lully n'est publiée qu'en dédicace à la partition déjà signalée ayant servie aux représentations de Saint-Germain.
 
 
-## EPITRE Au Roy,
+## EPITRE Au Roy,.
 
 Sire,
 
@@ -2177,14 +2177,14 @@ Registrées, oüy le Procureur General du Roy, pour estre executées, & joüir p
 Signé LOUIS : Et plus bas, Par le Roy, COLBERT. Et scellé du grand Sceau de cire jaune.
 
 
-# La Scénographie de Bellérophon
+# La Scénographie de Bellérophon.
 
 Après la mort de Richelieu survenue en 1641, Mazarin fit venir d'Italie des spécialistes du théâtre qui dotèrent la scène française de toutes les techniques accomplies là-bas en matière de décors. La *Pratica per fabricar scene e machine ne theatri*, publiée en 1637 par Sabattini, dresse un compte-rendu précis de cette technique italienne (changement de décors à vue, apparition de personnages, représentation de « monstres » et de divinités). La variété des procédés détaillés par Sabattini était d'un usage courant en Italie au XVII*e* siècle. A Rome, Florence, Venise, ou Parme, les Ballets, Opéras, Tragédies et Pastorales étaient représentés avec une grande perfection technique. Les Français qui avaient séjournés en Italie avaient été éblouis par la somptuosité des spectacles toscans. Mais c'est surtout à Venise, carrefour de toutes les audaces, que l'Opéra atteignit son apogée, avec notamment le maître décorateur Giacomo Torelli qui enchanta le public par l'éclat fabuleux de ses décors et l'agencement de sa machinerie au Teatro Novissimo.
 
 D'abord acclamé, lorsqu'il donna *La Finta Pazza* au Petit Bourbon devant Louis XIV, celui-ci se vit ensuite critiqué pour les fastes trop italiens de son *Orfeo*, et ses décors servirent à l'*Andromède* de Corneille, marquant ainsi la transition entre la rigueur classique française et la luxuriance des spectacles à machines auxquels les Parisiens devenaient tellement avides. Pendant son séjour à Paris, le « Grand Sorcier » n'en a pas moins porté le décor à un degré de perfection jusqu'alors inconnu, avant de laisser la place à Vigarani qui développa un goût pour l'Opéra et les spectacles à machines qui conduira à la création d'une Académie de Musique et de Poésie. Lorsque Lully s'installa au Palais-Royal, c'est le fidèle Vigarani qui réalisa successivement les décors d'*Alceste*, de *Thésée* et d'*Atys*. Les décors de la reprise de *Bellérophon* peuvent à juste titre être considérés comme ses réalisations les plus perfectionnées puisqu'ils lui valurent un *Brevet d'Inventeur des Machines* mais marquèrent du même coup la fin de sa collaboration avec Lully qui s'adressera ensuite à Berain pour ses tragédies suivantes [172].
 
 
-# Tableau comparatif des pièces de P.Corneille, Th.Corneille et Ph.Quinault
+# Tableau comparatif des pièces de P.Corneille, Th.Corneille et Ph.Quinault.
 
 Ce tableau permet une synthèse des deux principales influences de Thomas Corneille dans sa rédaction de Bellérophon : similitude de décors et de machineries pour les pièces des frères Corneille, similitude de l'action pour les deux Bellérophon.
  | Pierre Corneille *Andromède* | Thomas Corneille *Bellérophon* | Philippe Quinault *Bellérophon*
@@ -2198,7 +2198,7 @@ Acte V | Temple magnifique composé de deux rangs de colonnes et surmonté d'un
 
 
 
-# Œuvres du Sieur Thomas Corneille de l'Isle
+# Œuvres du Sieur Thomas Corneille de l'Isle.
 
 **1651**     *Le Feint Astrologue*, comédie
 
@@ -2283,10 +2283,10 @@ Acte V | Temple magnifique composé de deux rangs de colonnes et surmonté d'un
 **1708**     *Dictionnaire universel géographique et historique*
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Corpus œuvres étudiées*Corneille*Andromède
+## Corpus œuvres étudiées.*Corneille*Andromède
 *Corneille*Œuvres
 *Fontenelle*BellérophonŒuvres complètes
 *Quinault*Bellérophon
@@ -2294,13 +2294,13 @@ Acte V | Temple magnifique composé de deux rangs de colonnes et surmonté d'un
 
 
 
-## Ouvrages généraux*Forestier*Introduction à l'analyse des textes classiques
+## Ouvrages généraux.*Forestier*Introduction à l'analyse des textes classiques
 *Larthomas*Le Langage dramatique
 *Ubersfeld*Lire le théâtre
 
 
 
-## Ouvrages sur le théâtre du XVII*e* siècle*Abou-Ghazala*Spectacles et divertissements à la Cour de France 1661-1680
+## Ouvrages sur le théâtre du XVII*e* siècle.*Abou-Ghazala*Spectacles et divertissements à la Cour de France 1661-1680
 *Bénichou*L' Écrivain et ses Travaux
 *Brereton*French Tragic Drama in the XVI*th* and XVII*th* century
 *Delmas*La Tragédie de l'âge classique
@@ -2312,7 +2312,7 @@ Acte V | Temple magnifique composé de deux rangs de colonnes et surmonté d'un
 
 
 
-## Ouvrages et articles sur la tragédie lyrique et la musique du XVII*e* siècle*Beaussant*Lully ou le Musicien du Soleil
+## Ouvrages et articles sur la tragédie lyrique et la musique du XVII*e* siècle.*Beaussant*Lully ou le Musicien du Soleil
 *Cannone*Musique et Littérature au XVIII*e* siècle
 *De la Gorce*L'Opéra de Paris au temps de Louis XIV
 *De La Gorce*Jean-Baptiste Lully
@@ -2329,7 +2329,7 @@ Acte V | Temple magnifique composé de deux rangs de colonnes et surmonté d'un
 
 
 
-## Ouvrages et articles sur Thomas Corneille et son œuvre*Collins*Thomas Corneille, a protean dramatist
+## Ouvrages et articles sur Thomas Corneille et son œuvre.*Collins*Thomas Corneille, a protean dramatist
 *Gossip*Revue de l'Histoire littéraire de la France*os*
 *Herz-Fischler*La Dramaturgie de Thomas Corneille
 *Oddon*Revue de l'Histoire du théâtre
@@ -2337,7 +2337,7 @@ Acte V | Temple magnifique composé de deux rangs de colonnes et surmonté d'un
 
 
 
-## Instruments de travail*Académie Française*Dictionnaire
+## Instruments de travail.*Académie Française*Dictionnaire
 *Cayrou*Le Français classique
 *Furetière*Dictionnaire universel
 *Richelet*Dictionnaire français

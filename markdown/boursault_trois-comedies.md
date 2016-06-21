@@ -8,18 +8,18 @@ title: Trois petites comédies
 
 
 
-# Introduction
+# Introduction.
 
 Boursault… Un nom qui sonne dans le vide dans nos esprits du XXI*e* siècle. Un nom qui n'a pas été retenu par les lumières de l'Histoire littéraire pour lesquelles il est passé inaperçu comme beaucoup d'autres. Faut-il cependant en déduire qu'ils ne méritent pas d'être lus et que notre regard ne doit pas s'y porter dessus. Loin du talent de Molière, loin des fastes de la cour du Roi Soleil, Boursault a tout de même fait son petit chemin. Homme que rien ne prédestinait à l'écriture mais pourtant à l'origine de nombreux écrits, homme prenant part à de nombreuses querelles littéraires de son temps mais en admiration pour tous ceux qui furent ces adversaires, toute la vie d'Edme Boursault est marquée par des oppositions et des paradoxes qui suivront les caprices de la fortune. Nous n'avons pas fait le choix de nous intéresser à ses œuvres les plus remarquables, celles qui ont été le plus appréciées par ses contemporains mais plutôt à ses œuvres de jeunesse, aussi maladroites soient-elles. *Le Médecin volant, Le Mort vivant* et *Le Jaloux endormy*, ses œuvres de jeunesse sont trois petites comédies burlesques caractéristiques de la tradition comique du XVII*e*. Il y en a pour tous les goûts : déguisements plus osés les uns que les autres, barbons acariâtres, jaloux extravagants… Prenons donc le temps de nous replonger quelques instants dans le brouhaha des théâtres du XVII*e* siècle à la lumière des bougies afin de découvrir cet auteur oublié.
 
 
-# Edme Boursault illustre inconnu du théâtre français
+# Edme Boursault illustre inconnu du théâtre français.
 
 
 Un écrivain fort médiocre, mais intéressant à consulter parce qu'il a recueilli la tradition des auteurs comiques immédiatement postérieurs à Molière … si l'on suit de près l'histoire de la scène française dans cette période, on y rencontre un écrivain, très inégal sans doute, mais qui a ses heures d'inspiration, et qui, entre deux écoles dont nous venons de parler les contemporains de Molière qui lui ont survécu et une nouvelle génération de poètes qui apparaît, eut le bonheur d'attirer l'attention et de mériter l'estime de l'Europe [1].
 
 
-## Une vie chaotique
+## Une vie chaotique.
 
 
 Il y a deux époques bien marquées dans sa vie. La première nous le montre très-affairé, très-répandu, fort occupé de fêtes, de voyages, de petits vers et d'aventures galantes … Dans la seconde époque, fixé à Montluçon, venant toujours plus rarement à Paris, plus recueilli, plus sédentaire, attentif à sa maison, préoccupé par l'avenir de ses enfants, plus que jamais attaché à la religion, tout son talent s'épure et ce qu'il écrit respire une sorte de gravité pieuse, qui va parfois jusqu'à la tristesse. Même il devient sermonneur, sans gronder pourtant, ni affecter des airs pédantesques, mais en homme convaincu, dont la sagesse est expansive et s'insinue doucement dans l'âme du voisin [2]. 
@@ -67,13 +67,13 @@ Boursault connut encore quelques succès avec, entre autres, ses deux plus fameu
 Il tomba malade à 63 ans. Après avoir survécu une semaine à une opération il mourut le 15 septembre 1701 à Paris, probablement d'une colique. Il fut inhumé au cimetière des Théatins ; ordre auquel appartenait son fils Chrysostome.
 
 
-## Une œuvre tumultueuse
+## Une œuvre tumultueuse.
 
 
 Dans la littérature dramatique, il est allé de la farce burlesque à la comédie héroïque, de la pastorale précieuse et galante à la tragédie- Il a écrit des lettres en prose qui font parfois songer à Voiture avec plus de bonhomie ; d'autres mêlés de petits vers, qui rappellent le souvenir de Chapelle et de Bachaumont ou qui forment des véritables anas, des trésors de bons mots, des mines d'historiettes, de quatrains et de facéties-Il a été journaliste ; il a composé des nouvelles et des romans historiques ; des fables et des épigrammes ; il s'est posé en moraliste et a même affiché la prétention d'instruire les souverains ; il a fait des vers satiriques, burlesques et religieux [23].
 
 
-### L'homme de théâtre
+### L'homme de théâtre.
 
 Boursault a écrit seize pièces. Celles auxquelles nous allons nous intéresser sont des petites comédies en un acte, inspirées de sujets italiens et espagnols, souvent désignées comme des « œuvres de jeunesse » de l'auteur ; *Le Médecin volant* représenté en 1661 puis publié en 1664, *Le Mort Vivant* et *Le Jaloux endormy* publiés en 1662. Les trois pièces sont mises en relation et décrites ainsi par Taillandier : « des études de style, du style comique du temps. L'invention est confuse, la langue est un peu vulgaire ; çà et là cependant l'entrain, la bonne humeur, une certaine franchise de dialogue, annoncent des qualités aimables et un esprit bien doué [24] ». Hiacinthe Boursault quant à elle y voit « les premieres saillies d'un esprit vif et enjoüé, et comme les coups-d'essai d'un génie heureux et facile, qui sans avoir eu dans son enfance aucune teinture de lettres produisoit de son propre fonds, et sembloit n'ignorer de rien, quoiqu'il n'eût jamais rien appris [25] ». *Le Portrait du peintre ou la contre-critique de l'École des femmes*, rédigé lors de son implication dans la querelle de *L'École des femmes* en 1663 reproche à Molière son réalisme et son habitude au mélange des genres. La pièce se retournera contre son auteur en déclenchant l'écriture de *L'impromptu de Versailles* par Molière. Il écrivit sa première pièce en cinq actes en 1664 : *Les Nicandres ou les menteurs qui ne mentent point* [26]. Il la réécrivit finalement en une pièce en trois actes, « ôtant tout ce qui lui parut de moins intéressant et de superflu [27] ».
 
@@ -86,7 +86,7 @@ La même année, une dame lui demanda d'écrire en secret les paroles d'un opér
 En 1691, *Phaëton*, une autre comédie héroïque en vers libres n'eut pas le succès espéré : Boursault en attendait un succès plus important que celui remporté par *Les Fables d'Ésope*, mais la promotion faite par les comédiens, le succès qu'ils en espéraient (ils auraient refusé de jouer toute autre pièce que celle-ci) a développé, selon Hiacinthe Boursault, une cabale d'auteur qui ont détruit la pièce aux yeux du public qui en fut déçu, y compris ceux qui ne l'avaient pas vu représentée. Fort heureusement, *Les Mots à la mode*, une petite pièce qui comme son titre l'indique porte sur les tournures et les expressions à la mode au XVII*e* siècle, furent plutôt bien reçus en 1694, « avec beaucoup d'applaudissement et de plaisir [29]. ».
 
 
-### Boursault, écrivain en tout genre
+### Boursault, écrivain en tout genre.
 
 Boursault écrivit des nouvelles historiques : *Le Marquis de Chavigny, Artémise et Poliante* en 1670 et *Le Prince de Condé* en 1675. *Ne pas croire ce qu'on voit* publié en 1670 « sans nom d'auteur » à en croire Hiacinthe Boursault. Il s'agit d'un roman à l'espagnole « si divertissant et d'un stile si enjoüé, qu'on l'a souvent attribué à Scarron : c'est en faire un grand éloge [30]. » qui s'inspire de Calderón.
 
@@ -101,10 +101,10 @@ Il réalisa aussi des romans épistolaires publiés à partir de 1666 : *Lettre
 Cependant, ses gazettes n'ont jamais été éditées.
 
 
-# Lieux et conditions de représentation des pièces
+# Lieux et conditions de représentation des pièces.
 
 
-## Le théâtre du Marais
+## Le théâtre du Marais.
 
 *Le Jaloux endormy* a été représenté au théâtre du Marais. Il se situe dans la rue Vieille-du-temple et est aménagé en théâtre par la troupe de Montdory et Le Noir en 1634. Ils occupent la salle jusqu'en 1673, date à laquelle le roi les oblige à fusionner avec la troupe de Molière. Par opposition aux comédiens de la troupe du Roi de l'Hôtel de Bourgogne, ils sont appelés les Petits Comédiens. Le Marais restera souvent dans l'ombre de l'Hôtel de Bourgogne qui tente à plusieurs reprises de le déstabiliser.
 
@@ -113,7 +113,7 @@ Il nous est possible de connaître l'état de la salle après l'incendie du 15 j
 La salle du Marais est considérée comme exemplaire, elle servira de modèle pour la restauration de l'Hôtel de Bourgogne en 1647.
 
 
-## L'Hôtel de Bourgogne
+## L'Hôtel de Bourgogne.
 
 *Le Mort vivant* et *Le Médecin volant* ont été représentés à l'Hôtel de Bourgogne. Ce théâtre a été construit en 1548 par la Confrérie de la Passion, société caritative composée de bourgeois et d'artisans de Paris qui a le monopole des représentations théâtrale depuis 1402. À partir de 1578, le lieu est loué pendant des périodes variables, puis de manière permanente à la troupe du Roi à partir de 1629. Ceux qu'on appelle les Grands Comédiens vont y jouer jusqu'en 1680. Ils sont alors remplacés par les comédiens italiens qui y restent jusqu'à ce que le Roi les chasse, en 1697, alors qu'il décide de fermer la salle.
 
@@ -122,7 +122,7 @@ Il est important de noter que jusqu'en 1634, le théâtre des Confrères de la P
 Grâce au *Devis et marché des divers travaux à exécuter au théâtre de l'Hôtel de Bourgogne* établi le 17 avril 1647, nous connaissons l'état de la salle à l'époque où *Le Mort vivant* et *Le Médecin volant* ont été joués. Les dimensions et les équipements du lieu sont semblables à ceux du Théâtre du Marais qui a servi de modèle pour la restauration. *Le Médecin volant* nécessite l'emploi d'une machine pour faire « voler » Crispin. En outre, la salle de l'Hôtel de Bourgogne peut accueillir entre 1000 et 1100 personnes.
 
 
-## Les conditions de représentation
+## Les conditions de représentation.
 
 Au XVII*e* siècle, les conditions de représentations sont loin de celles que nous connaissons aujourd'hui. Les comédiens jouent dans des conditions plus que défavorables. L'éclairage est assuré par de simples chandelles situées à l'avant de la scène au niveau de la rampe ; ce qui contraint les comédiens à jouer sur le devant de la scène. En outre, les scènes sont plutôt petites, comme nous avons pu le constater avec les dimensions des théâtres du Marais et de l'Hôtel de Bourgogne et ne servent pas seulement à la représentation puisque le public le plus aisé peut assister à la représentation directement sur scène. Ces spectateurs sur scène perturbent les conditions de la représentation : l'illusion théâtrale ne peut être totale. À ce propos l'abbé de Pure rapporte une anecdote qui nous apporte différentes informations :
 
@@ -134,10 +134,10 @@ Ceci nous éclaire sur le réalisme des costumes ou plutôt la réalité qu'ils 
 Quant au décor, les techniques évoluent de manière considérable au cours du XVII*e* siècle. Tout comme pour les costumes, le spectateur du XVII*e* siècle retrouve au théâtre les bâtiments qui lui sont familiers et ce, qu'importe le sujet de la pièce. Il s'agit d'un moyen de plaire au public en lui représentant sur scène des lieux qu'il connaît bien et qu'il aime revoir sur scène. Dans la seconde moitié du siècle, les décors multiples sont peu à peu abandonnés et laissent place à un décor unique, plus respectueux de l'unité de temps. Les trois pièces que nous étudions impliquent un décor unique sauf dans le cas particulier du *Mort vivant*. Il s'agit d'une pièce en trois actes ce qui autorise donc l'auteur à un changement de décors entre les différents actes. Nous pouvons supposer que les deux premiers actes nécessitent un décor avec un jardin à l'abri des regards et un lieu de passage comme une place par exemple. Pour le troisième acte, aucun doute possible dans la mesure où la scène de reconnaissance a lieu dans une auberge qui n'apparaissait pas précédemment. En outre, nous n'avons aucune indication précise qui nous permettrait de nous représenter précisément le décor des trois pièces.
 
 
-# Dramaturgie générale des trois pièces
+# Dramaturgie générale des trois pièces.
 
 
-## Particularité des personnages de comédie
+## Particularité des personnages de comédie.
 
 
 Les personnages comiques nous apparaissent souvent comme des fous ou des extravagants qu'on ne saurait inclure dans l'humanité [33].
@@ -156,7 +156,7 @@ Bon jour. (v. 120-127)
 Cette attitude ne fait que renforcer l'éloignement entre le spectateur et le personnage. Ce phénomène d'amplification conduit à la construction de caractères voire d'emplois à partir d'un trait de caractère amplifié. Cette absence de caractère et de personnalité propre permet le réemploi d'un personnage d'une pièce à une autre, mais aussi d'une langue à une autre ou d'une civilisation à une autre sans effectuer de changement. *Le Médecin volant* en est un bon exemple, il est le fruit d'une longue et prolixe tradition littéraire. En outre, la rupture qui existe entre le personnage de comédie et le spectateur est renforcée par la supériorité de ce dernier sur le personnage de théâtre. Dans les trois pièces ce phénomène est plus qu'évident : le spectateur est le complice de tous les trompeurs, il en sait autant qu'eux et ne peut voir que d'un œil ironique les agissements des personnages dupés.
 
 
-## Obéir aux règles de son temps
+## Obéir aux règles de son temps.
 
 Nous avons pu le voir précédemment, *Le Médecin volant, Le Jaloux endormy* et *Le Mort vivant* respectent l'unité de lieu. Intéressons-nous donc désormais à l'unité de lieu qui lui est intimement liée. En effet, l'unité de lieu apparaît tout d'abord comme une simple dépendance de l'unité de temps : si l'auteur veut respecter l'unité de temps il faut donc nécessairement que sa pièce ait lieu en une seule et même place ou tout au plus dans des endroits où les personnages peuvent se rendre en vingt-quatre heures. À première vue, nous pouvons supposer que l'unité de temps est respectée dans les trois pièces. Dans *Le Médecin volant* et *Le Jaloux endormy* il n'y a pas d'indices temporels particuliers qui marquent une avancée dans le temps. En ce qui concerne *Le Mort vivant*, le dernier acte se déroule de nuit comme peuvent en témoigner les allusions faites à la « nuict » (v. 696) ou encore à l'aurore qui n'est pas prête de revenir :
 
@@ -177,7 +177,7 @@ Relevons par exemple les principales invraisemblances de nos petites comédies q
 Une contrainte externe peut être relevée. Prenant en compte les conditions déplorables dans lesquelles nous avons vu que les comédiens jouaient, il est évident que l'entrée en scène et la tentative de capter l'attention des spectateurs n'est pas des plus aisées. Cette contrainte explique les longueurs que nous pouvons reprocher à nos trois expositions qui semblent nous placer dans une narration plutôt que dans un texte de théâtre.
 
 
-## L'héritage de la *commedia dell'arte*
+## L'héritage de la *commedia dell'arte*.
 
 Les trois pièces que nous étudions sont des pièces courtes ; *Le Médecin volant* et *Le Jaloux endormy* sont des comédies en un acte et *Le Mort vivant* une comédie en trois actes. Elles relèvent donc de la tradition des petites comédies.
 
@@ -198,7 +198,7 @@ Tout comme dans la tradition de la *commedia dell'arte*, les personnages n'évol
 L'amour des différents jeunes gens est un sentiment ressenti dès le début de la pièce, nous n'assistons pas à la naissance de celui-ci. Il est essentiel à la définition de leur personnage et ne changera pas comme le montre la réaction de Lazarille à la scène 7 de l'acte III lorsqu'il apprend que Stéphanie est sa sœur et qu'il ne peut donc pas l'épouser « Ô disgrace ! » (v. 919). Sans cet amour il n'a plus de raison d'exister, fort heureusement la pièce se termine.
 
 
-## Le style comique
+## Le style comique.
 
 Le style comique s'appuie sur la rhétorique. Nous pouvons relever par exemple sa tendance à élargir une situation particulière à une tendance générale. Ceci se manifeste par l'emploi de l'article indéfini à la place d'un article possessif qui « gomme les aspects spécifiques de la scène pour en souligner la dimension archétypale [39] ». Ainsi dans *Le Jaloux endomy*, dans la première scène Spadarille évoque « les femmes » (v. 19) avant de passer à « ma femme » (v. 24).
 
@@ -209,7 +209,7 @@ La comédie se fait donc le porte-parole d'une culture et d'un temps comme en t�
 Depuis Corneille, le parler familier et les images du quotidien sont introduits dans le style de la comédie. Boursault ne se prive pas de cette nouveauté. Nous pouvons trouver dans ses pièces des allusions au jeu de cartes, dans *Le Médecin volant* « taupe à tout » (v. 426) dans *Le Jaloux endormy* l'allusion à la « prime » (v. 92 et 94) ou encore à la chasse au v. 171 de la même pièce « droit de chasse ». En outre, le grand dramaturge insuffle une autre caractéristique au langage comique, il introduit l'émotivité. Les personnages comiques ont ainsi accès à des sentiments qui leur donne un minimum de relief. Ceci peut apparaître dans le vocabulaire mais aussi dans les « diverses exclamations et appuis du discours, qui permettent aux comédiens de précieux effets d'intonation et d'inflexion [41] ». Les trois pièces sont riches en ce genre d'expression, nous ne relèverons donc pas les nombreuses occurrences de « Ah » ou « Oh » qui les ponctuent.
 
 
-## Un dénouement caractéristique : le mariage
+## Un dénouement caractéristique : le mariage.
 
 Les trois pièces de notre corpus sont construites sur le même principe : union, obstacle puis réunion. Toute l'intrigue tend vers le dénouement qui est le mariage. Il constitue l'unité d'action des trois pièces malgré les ruptures qu'entraînent les différentes scènes de reconnaissances qui donnent à l'action une orientation nouvelle, comme c'est le cas par exemple dans *Le Médecin volant* lorsque Crispin est reconnu par Fernand en habit de valet, ce qui l'oblige à inventer un nouveau stratagème pour ne pas être reconnu comme le valet de son maître. Plus exactement la base de l'élaboration des comédies est le mariage, le reste de l'intrigue se construit autour de cela comme l'explique Georges Forestier dans un de ces articles :
 
@@ -223,7 +223,7 @@ Dans *Le Mort vivant*, Lazarille et Fabrice veulent tous les deux épouser Stép
 Dans *Le Jaloux endormy*, la seule femme qui apparaît sur scène est déjà mariée au début de la pièce : Olimpie est aux mains de Spadarille gouverneur de Toulon et jaloux qui la tient enfermée. L'intrigue consiste en la délivrance de la jeune femme par le premier prétendant de celle-ci, Cléandre à qui le père avait préféré Spadarille en raison de son rang social. Le père conscient de son erreur est le commanditaire des actions du jeune homme qui, s'il réussit, obtiendra la main d'Olimpie. Cependant, même si Cléandre et Olimpie parviennent à s'enfuir ensemble, l'annonce de leur mariage n'est pas directement formulée sur scène. La pièce se clôt sur les protestations de Spadarille qui s'est retrouvé pris à son propre piège et se retrouve sans femme.
 
 
-# L'écriture de Boursault
+# L'écriture de Boursault.
 
 
 Boursault est avant tout un auteur comique. Sa morale, il a réussi à la transmettre, non pas directement à travers les proverbes mais indirectement en ayant recours aux pointes, parfois féroces, des expressions proverbiales qui caractérisent un personnage et la situation dans laquelle il se trouve, et qui rendent son langage beaucoup plus vrai et naturel [43].
@@ -245,7 +245,7 @@ Faites naistre un amour qui succede au respect. (v. 573-576)
 Boursault continue de jouer sur l'impact d'un tel vocabulaire à la scène suivante. Cette allusion à la sexualité est contraire aux bienséances mais participe à rendre le personnage de l'Ambassadeur ridicule. Lazarille informe Fabrice qu'il veut tuer l'Ambassadeur à cause du manque de respect exprimé par ses paroles « Quoy donc cét homme à qui rien n'est égal, / A si peu de vertus et paroist si brutal ? » (v. 583-584). Ce que les critiques lui reprochent d'avoir inséré dans ses textes comme la faisant verser dans le vulgaire, l'écrivain s'en sert pour faire naître le comique. Cette stratégie n'est certes pas digne d'un auteur de comédie et participe à mélanger la farce grossière et populaire des siècles précédents à la comédie du XVII*e* siècle qui se réinvente avec Molière.
 
 
-# Le déguisement ou l'illusion portée à son paroxysme
+# Le déguisement ou l'illusion portée à son paroxysme.
 
 L'illusion est une caractéristique fondamentale du théâtre. Les pièces ont pour objectif d'instaurer une reconstruction du « réel » sur scène pour bâtir ce que nous nommons communément l'illusion théâtrale. Au XVII*e* siècle, la question de la rupture de l'illusion se pose peu, il s'agit plutôt de s'interroger sur les ressorts mis en œuvre pour que les spectateurs croient en l'illusion ou participent de l'illusion comme nous le verrons avec l'usage du déguisement dans les pièces qui nous intéressent. Il s'agit effectivement d'une création qui n'est pas toujours aisée dans les salles du XVI*e* siècle. L'illusion doit être construite dans un lieu où règne un certain brouhaha constant, où des spectateurs sont assis sur le lieu même de l'illusion, la scène. Ceci explique notamment les grands moyens employés par les dramaturges pour construire l'illusion et le goût pour le déguisement spectaculaire. Avant d'aller vers de plus amples considérations, intéressons nous au sens que revêt le mot *illusion* pour les hommes du XVII*e* siècle. Richelet parle d'une « Tromperie des sens. Fausse représentation. », Furetière, quant à lui, le définit plus précisément en ces termes « Fausse apparence, artifice pour faire paroistre ce qui n'est pas, ou autrement qu'il n'est en effet. » et relève des utilisations particulières dans les domaines judiciaires, moraux et religieux puisque les *illusions* représentent les interventions du « Démon » pour tenter l'homme. Les deux dictionnaires mettent l'accent sur la notion d'erreur de jugement qu'impliquent nos sens, seuls outils de notre perception ; thème courant dans la pensée du XVII*e* siècle et qui n'est pas sans nous rappeler la première des *Méditations métaphysiques* de Descartes. Ceci est l'objectif de l'illusion au théâtre : tout est fait pour donner à voir au spectateur des éléments qui lui sont familiers pour faire fonctionner la machine théâtrale.
 
@@ -296,10 +296,10 @@ En effet, dans *Le Médecin volant*, le déguisement de Crispin fonctionne parti
 Dans *le Jaloux endormy*, le déguisement est impliqué par une méprise de Cléandre qui se présente devant le soupçonneux et jaloux Spadarille avec au doigt une bague que lui a confié Olympie en guise de son amour. Afin d'expliquer à qui appartient ce bijou, Cléandre invente l'existence d'une maîtresse qui serait le sosie d'Olympie, pour qui il n'a plus aucun sentiment, sa passion ayant été effacée par les charmes de sa « copie ». Olympie vient donc sur scène sous le nom d'Aspasie, maîtresse de Cléandre. Ce déguisement permet à Cléandre et Olympie de pouvoir partir à Marseille et de se défaire de l'emprise de Spadarille qu'Alcidor enferme dans la chambre où il avait lui-même enfermé Olympie. Le déguisement de celle-ci consiste uniquement en un changement d'identité, d'Olympie elle devient Aspasie. Aucune didascalie n'implique un changement d'apparence ou de condition. Ceci est confirmé par la confusion dans laquelle se trouve Spadarille à sa vue « ALCIDOR Il amene Olimpie. SPADARILLE En effet, je le croy. » (v. 310) et « SPADARILLE Si vous ne l'estes pas pour le moins sa jumelle, » (v. 327). Dans cette pièce le but du déguisement est totalement différent des autres ; Olympie aspire à fuir avec Cléandre en feignant d'être Aspasie, ce qu'elle réussit à faire. Nous pouvons donc affirmer que le déguisement d'Olimpie est un déguisement réussi car il permet d'apporter à la pièce une issue différente de la situation initiale : grâce au déguisement Olimpie s'est faite chasser de sa maison par son époux Spadarille, retrouvant ainsi sa liberté et s'est enfuie avec Cléandre qui devrait l'épouser par la suite.
 
 
-# Le Jaloux endormy
+# Le Jaloux endormy.
 
 
-## Création et représentation
+## Création et représentation.
 
 Le privilège pour *le Jaloux endormy* a été obtenu le même jour que celui du *Mort vivant*, le 11 mai 1662 ; pour Lancaster, il est donc difficile de savoir laquelle des deux pièces a été jouée la première, « Mais nous pouvons supposer que, comme Montfleury, Poisson et Chappuzeau, il commença par représenter la pièce la plus courte qui est donc *Le Jaloux endormy* [57] ». À partir de ces informations, Lancaster suppose que la pièce a été jouée pour la première fois en 1660 au « Theatre Royal du Marais » comme cela est précisé sur la première page de notre édition contrairement aux dires de Fournel dans *Les contemporains de Molière* qui voit la première représentation le 18 décembre 1663. Par la suite, la pièce fait partie du répertoire de la troupe de Villeroy à Dijon en 1668. C'est probablement à cette époque-là qu'elle est appelée *Les Cadenats* ou *Six cadenas* comme le note Lancaster ; cependant le texte reste le même et l'on appellera désormais la pièce indifféremment par son titre original et par son titre de province. *Le Jaloux endormy* est réédité en 1725 puis en 1746 dans les recueils des pièces de l'auteur.
 
@@ -311,85 +311,85 @@ Comme Spadarille apparaît dans un rôle assez similaire dans *Les Cadenats* de 
 En outre, Spadarille peut être comparé avec le Sganarelle de *L'École des maris* et l'Arnolphe de *L'École des femmes* de Molière. Le sujet de la pièce et son intérêt sont justement relevés par Lancaster : « Alors que le comique est plutôt bas, le dialogue est souvent amusant, comme on peut en juger par la scène de la défaite finale de Spadarille (scène 15) [59] ».
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Scène 1 : Spadarille, Olimpie
+### Scène 1 : Spadarille, Olimpie.
 
 Discussion des deux époux au sujet de la fidélité d'Olympie. Spadarille juge bon d'enfermer la jeune femme sans quoi elle ne serait pas fidèle, cédant à sa nature féminine. Pour renforcer les six cadenas déjà en place il a l'intention d'aller chercher des verrous. Il aperçoit un homme qui approche et enferme sa femme pour la tenir loin des regards.
 
 
-### Scène 2 : Cléandre, Spadarille, Cascaret
+### Scène 2 : Cléandre, Spadarille, Cascaret.
 
 Arrivée de Cléandre qui rappelle à Spadarille qu'il lui a ravi son amour grâce à son mérite supérieur. Spadarille met fin à la conversation avant d'avoir laissé le temps au jeune homme d'expliquer le motif de sa venue. Il part chercher des verrous.
 
 
-### Scène 3 : Cléandre, Cascaret
+### Scène 3 : Cléandre, Cascaret.
 
 Cléandre fait part à son valet de ses intentions d'enlever Olimpie et de l'amener à Marseille avec lui. Cascaret s'inquiète que le vieillard ne découvre le trou que les amants ont fait entre leur chambre respective pour pouvoir se voir à l'abri des regards. Cléandre montre à Cascaret l'anneau qu'Olimpie lui a confié pour marquer leur attachement secret.
 
 
-### Scène 4 : Spadarille, Cléandre, Cascaret
+### Scène 4 : Spadarille, Cléandre, Cascaret.
 
 Spadarille revient avec ses verrous et explique à Cléandre l'usage qu'il compte en faire. Il soupçonne le jeune homme de vouloir séduire Olimpie comme tous les hommes qui voudraient s'approcher d'elle mais celui-ci lui assure qu'il aime sa copie. Le vieillard voit l'anneau d'Olimpie au doigt de Cléandre et est persuadé que les deux jeunes gens sont amants. Pour lever ses craintes, il exige de voir la copie aimée par Cléandre sans quoi il ne lui donnera pas la Patente nécessaire pour qu'il puisse quitter la ville pour Marseille.
 
 
-### Scène 5 : Spadarille
+### Scène 5 : Spadarille.
 
 Il s'agit d'un court monologue. Le vieillard est persuadé de tenir des griefs contre son épouse, justifiant ainsi l'enfermement qu'il lui inflige.
 
 
-### Scène 6 : Spadarille, Olimpie
+### Scène 6 : Spadarille, Olimpie.
 
 Spadarille fait sortir sa femme pour l'informer de la présence de Cléandre dans la ville et lui exposer ses soupçons. Il lui demande d'ôter son gant pour lui montrer son anneau qui se trouve être à sa place, au doigt de la jeune femme. Un vieillard approche ; Spadarille enferme donc Olimpie.
 
 
-### Scène 7 : Alcidor, Spadarille
+### Scène 7 : Alcidor, Spadarille.
 
 Alcidor vient prendre des nouvelles de sa fille et apprend son mauvais comportement à l'égard de son nouvel époux et le traitement que celui-ci lui inflige. Spadarille lui fait part de ses soupçons au sujet de Cléandre. Les deux hommes croient voir Olimpie et Cléandre arriver vers eux.
 
 
-### Scène 8 : Spadarille, Cléandre, Olimpie sous le nom d'Aspasie
+### Scène 8 : Spadarille, Cléandre, Olimpie sous le nom d'Aspasie.
 
 Spadarille appelle sa femme à travers la porte fermée pour qu'elle se manifeste mais son entreprise est sans succès. Il explique alors sa confusion aux deux amants : il demande à Aspasie de bien vouloir aller parler à Olimpie. Pour ne pas compromettre son déguisement, Aspasie propose à Spadarille de commencer par faire part à sa femme de leur conversation afin de ne pas la choquer, pendant ce temps-là, Aspasie ira faire des adieux en ville. Aspasie part accompagnée de Cascaret.
 
 
-### Scène 9 : Spadarille, Cléandre, Alcidor
+### Scène 9 : Spadarille, Cléandre, Alcidor.
 
 Alcidor, pour gagner du temps et permettre à sa fille de retourner dans sa chambre, feint de soupçonner Cléandre de tomber de nouveau amoureux d'Olimpie à sa vue. Le jeune homme nie cela en vantant la puissance de son amour pour Aspasie.
 
 
-### Scène 10 : Alcidor, Cléandre
+### Scène 10 : Alcidor, Cléandre.
 
 Alcidor promet sa fille à Cléandre s'il respecte son honneur et parvient à la délivrer de son mari jaloux.
 
 
-### Scène 11 : Spadarille, Olimpie, Cléandre, Alcidor
+### Scène 11 : Spadarille, Olimpie, Cléandre, Alcidor.
 
 Lorsque son époux ouvre la porte, Olimpie feint de se réveiller pour justifier son silence à ses appels. Cléandre, en voyant Olimpie, imite l'attitude du vieillard jaloux. Spadarille s'en amuse mais Olimpie, outragée, demande à être de nouveau enfermée et refuse de voir Cléandre et Olimpie.
 
 
-### Scène 12 : Spadarille, Cléandre, Alcidor
+### Scène 12 : Spadarille, Cléandre, Alcidor.
 
 Spadarille fait remarquer à Cléandre qu'Olimpie ne l'aime plus mais le jeune homme n'est pas blessé puisqu'il est aimé d'Aspasie.
 
 
-### Scène 13 : Olimpie sous le nom d'Aspasie, Spadarille, Cléandre, Alcidor, Cascaret
+### Scène 13 : Olimpie sous le nom d'Aspasie, Spadarille, Cléandre, Alcidor, Cascaret.
 
 Aspasie est de retour, Spadarille lui fait part du refus d'Olimpie et congédie les deux amants en leur donnant la Patente permettant leur départ.
 
 
-### Scène 14 : Spadarille, Alcidor
+### Scène 14 : Spadarille, Alcidor.
 
 Spadarille se réjouit de la situation et veut annoncer le départ de Cléandre à Olimpie pour voir son bonheur. Celle-ci ne répond pas à ses appels. Spadarille, la croyant rendormie, ouvre la porte et demande à Alcidor de rentrer avant lui. Par respect pour son Gouverneur, celui-ci refuse. Spadarille entre et Alcidor l'enferme et lui explique qu'Olimpie est partie avec Cléandre. Il abandonne alors le gouverneur à ses malédictions.
 
 
-### Scène 15 : Spadarille
+### Scène 15 : Spadarille.
 
 Spadarille se morfond sur son sort et termine son discours par une mise en garde contre les femmes desquelles il vaut mieux se passer.
 
 
-## Analyse de la pièce
+## Analyse de la pièce.
 
 *Le Jaloux endormy* est une pièce en 15 scènes. Contrairement aux deux autres pièces qui nous intéressent elle semble incomplète. Après comparaison avec l'édition de 1721, nous avons constaté l'ajout d'une première scène et de quelques vers à la scène suivante [60]. Dans l'édition originale, l'exposition n'est pas donnée dans son ensemble ; le spectateur ne sait pas qu'Alcidor et Cléandre ont décidé de s'allier pour délivrer Olimpie de la jalousie de Spadarille. Nous nous retrouvons devant le fait accompli lorsque les deux hommes se retrouvent seuls à la scène 10 et semblent avoir établi un stratagème en hors scène. Cette annonce retardée de la relation entre les deux hommes empêche le spectateur de comprendre qu'Alcidor sait qu'il a sa fille en face de lui à la scène 8 et qu'il infléchit Spadarille pour qu'il pense qu'il s'agit d'une autre femme et qu'il cherche à gagner du temps pour laisser sa fille revenir dans sa chambre à la scène 9. En bref, le spectateur ne sait pas qu'il est le complice de Cléandre en plus d'être son commanditaire comme nous pouvons le lire à la scène III des vers 151 à 154. Jusqu'à la scène 10, le spectateur est dans la même situation que Spadarille quant aux réelles intentions d'Alcidor, il est lui aussi dupé ce qui est inhabituel au théâtre. L'ajout de l'édition de 1721 palie ce manque.
 
@@ -408,10 +408,10 @@ Bien que la vicomtesse d'Auchy ne fût pas belle et qu'elle eût à la cour moin
 *Le Jaloux endormy* s'inscrit dans un héritage littéraire mais peut aussi être lu comme un témoignage de la réalité du XVII*e* siècle.
 
 
-## Des personnages proches du caractère
+## Des personnages proches du caractère.
 
 
-### Spadarille, jaloux obsessionnel et hyperbolique
+### Spadarille, jaloux obsessionnel et hyperbolique.
 
 Spadarille est présenté dans la liste des personnages comme le gouverneur de Toulon mais il n'est cependant pas vu dans ses fonctions au cours de la pièce. Seuls quelques détails rappellent sa fonction : il a réussi à avoir la main d'Olimpie grâce à cela et Cléandre a besoin de sa Patente pour pouvoir quitter la ville et partir pour Marseille. Nous avons remarqué qu'avant toute autre chose, le personnage de Spadarille correspond à l'image du personnage jaloux par excellence, caractéristique qui n'apparaît pourtant qu'à la fin de la description qui est faite de lui dans la liste des personnages. Il s'agit d'un personnage caricatural. Il est méchant et insultant avec Olimpie (v. 30 à 33) et ne veut pas être cocu (v. 41 à 46). Spadarille est un homme tellement jaloux qu'il est incapable de se faire aimer de celle qu'il a épousée. La jeune femme ne l'aime pas et ne lui cache pas ses sentiments, elle lui préfère son premier prétendant Cléandre comme nous pouvons le relever des vers 79 à 84. La jalousie de Spadarille n'est justifiée par aucune action de la jeune femme mais elle est pourtant cruelle. Elle crée un obstacle entre les deux époux sans aucune justification. Le discours qu'il tient à son épouse lors de la première scène rappelle celui d'Arnolphe à Chrysalde à la première scène de l'acte I de *L'école des femmes*. Il a tellement observé le monde qui l'entoure et les vices des femmes qu'il devient un jaloux extravagant. Jalousie qui l'empêche de voir autre chose que l'infidélité chez les femmes. Elle le fait même l'acteur de la duperie qui se fomente contre lui : il s'évertue à enfermer Olimpie mais il ne va pas vérifier qu'il n'y ait pas une issue qui ait été créée dans la chambre de la jeune femme. Il s'agit donc d'un personnage qui surestime ses capacités, qui a une opinion faussée de lui-même. Tout ceci participe à le rendre ridicule et hilarant. Face à un tel personnage le seul désir du spectateur est sa perte et sa chute ; fort heureusement, le caractère du jaloux ne peut faire partie des personnages heureux à la fin de la comédie sans compromettre le bonheur des autres parties.
 
@@ -423,7 +423,7 @@ Mais ce souci de l'humanité des personnages de comédie est constamment présen
 Spadarille se trouve confronté à l'action d'Alcidor qui est un père très actif contrairement à ce que nous avons l'habitude de voir dans les comédies du XVII*e* siècle. Le père a en effet pris conscience de son erreur et cherche à la réparer en faisant appel à Cléandre pour délivrer sa fille, tout l'enjeu de la pièce est là. Nous pouvons retrouver cet affrontement dans l'organisation de la liste des personnages : Spadarille qui représente une autorité ouvre la liste tandis qu'Alcidor – et son valet Cascaret – qui est une autre autorité la referme, les deux amants héros de l'intrigue se retrouvant enlacés entre eux.
 
 
-### Cléandre et Olimpie, amoureux de comédie
+### Cléandre et Olimpie, amoureux de comédie.
 
 Dans *Le Jaloux endormy*, le personnage principal n'est pas le valet contrairement aux deux autres pièces auxquelles nous nous intéressons. Le valet de Cléandre, Cascaret, ne prononce que sept répliques dans toute la pièce soit 20 vers sur les 554 que compte la pièce. Il n'est qu'un personnage accessoire qui évite un monologue de Cléandre à la scène 3 pour décrire le caractère de Spadarille et exposer le stratagème mis en place par les deux amants pour pouvoir se voir. Les héros de la comédie sont les deux amoureux qui parviennent à faire évader Olimpie de chez Spadarille. Sur ce point là, les deux jeunes gens se rapprochent des amoureux de la *commedia dell'arte*. Ils prennent eux-mêmes leur destin en main en organisant le déguisement d'Olimpie en Aspasie. Le dénouement de l'histoire ne peut avoir lieu que grâce à leur seule intervention ; leur union est possible au moment où Spadarille leur demande de quitter la ville. Olimpie semble être un personnage fort lorsqu'elle tient tête à son époux dans la scène 1 mais elle est apeurée à l'idée qu'il puisse la reconnaître sous son déguisement à la scène 8. Cléandre est celui qui est le plus actif et le plus déterminé des deux jeunes gens, à aucun moment il ne renonce au projet qu'il a décidé même si son valet tente de l'en dissuader à la scène 3. Il est prêt à tout pour retrouver la jeune femme qu'il aime.
 
@@ -445,17 +445,17 @@ Sachez que de tout temps j'appréhende le blasme, Qu'au gré de mon désir je go
 
 
 
-## Un enjeu contemporain : l'éducation ou le rejet de l'enfermement des femmes
+## Un enjeu contemporain : l'éducation ou le rejet de l'enfermement des femmes.
 
 La pièce peut se lire au delà d'une simple adaptation de la tradition du mari jaloux en comédie comme la représentation d'une réalité délicate du XVII*e* siècle. Boursault s'attaque dans *Le Jaloux endormy* à un sujet brûlant qui court dans tous les salons mais aussi dans de nombreux romans : le problème de l'enfermement des femmes et la nécessité de leur éducation. Depuis la publication de l' « Histoire de Sapho » dans *Le Grand Cyrus* de Scudéry en 1653, les milieux mondains s'intéressent effectivement à la question du mariage et à l'émancipation féminine face au pouvoir des hommes, qu'il s'agisse du père ou de l'époux. Ceci s'oppose à la conception patriarcale de la femme encore très courante au XVII*e* qui s'appuie sur les écrits de Saint Paul [66]. Dans la littérature le premier à parler de l'inutilité de l'enfermement des femmes est Ovide dans ses *Amours* [67]. Au XVII*e* siècle, Molière en est le grand héritier, le thème se retrouve dans un grand nombre de ses comédies.
 
 Boursault exploite le modèle de la querelle conjugale qu'il détourne de manière comique pour ridiculiser le mari jaloux et brutal. Il rejoint ainsi le modèle traditionnel de la satire des cocus. Cependant, il ne pousse pas le thème jusqu'à son paroxysme. Contrairement à Molière, qui met en scène une Agnès sotte et enfermée dans *L'École des femmes*, Olimpie est loin de manquer d'imagination et son enfermement serait dû à ses charmes auprès des hommes. Ainsi, l'enfermement de la jeune femme est uniquement condamné dans le sens où il s'avère inutile puisqu'il n'empêche pas la tromperie d'avoir lieu. Spadarille enferme Olimpie pour éviter qu'elle ne soit tentée de le tromper, seulement quoi de mieux qu'essayer de prévenir un fait et de l'interdire pour que justement il se produise.
 
 
-# Le Mort vivant
+# Le Mort vivant.
 
 
-## Création et représentation
+## Création et représentation.
 
 *Le Mort vivant* a été joué pour la première fois, selon Lancaster, en 1661à l'Hôtel de Bourgogne. En cela, il s'oppose à Fournel qui, dans *Les contemporains de Molière*, place la première représentation en avril 1662 à l'Hôtel de Bourgogne.
 
@@ -472,124 +472,124 @@ Le changement dans la première scène entre le valet du héros et la servante d
 Dans *L'Ambassadeur d'Affrique*, le dénouement n'est pas le même que celui de la pièce de Boursault. Ceci s'explique aisément par le fait que Du Perche a modifié l'action et n'a pas introduit de père adoptif. La pièce se termine par l'annonce de la mort du père par son valet l'allemand : la jeune femme est donc libérée de l'engagement que celui-ci avait pris auprès du Docteur et peut épouser son amoureux. Tout comme dans la pièce de Boursault, le déguisement du valet n'aura pas directement permis le mariage.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Acte I
+### Acte I.
 
 
-#### Scène 1 : Fabrice, Gusman
+#### Scène 1 : Fabrice, Gusman.
 
 Gusman annonce à son maître Fabrice que Lazarille aime Stéphanie. Le jeune homme ne croit pas son valet ; son ami ne lui a rien confessé. Gusman donne rendez-vous à Fabrice dans le jardin où les amoureux doivent se retrouver pour lui permettre de vérifier la véracité de ses propos.
 
 
-#### Scène 2 : Ferdinand, Stéphanie
+#### Scène 2 : Ferdinand, Stéphanie.
 
 Ferdinand appelle Stéphanie et lui demande de le rejoindre pour pouvoir lui parler. Il lui annonce qu'il n'est pas son père et qu'il a l'intention de l'épouser. Stéphanie ne sait quoi lui répondre ; elle se laisse tomber à ses genoux, signe que Ferdinand interprète comme un élan d'émotion. Entendant quelqu'un arriver il renvoie Stéphanie à l'intérieur de la maison.
 
 
-#### Scène 3 : Lazarille, Ferdinand
+#### Scène 3 : Lazarille, Ferdinand.
 
 Lazarille vient auprès de Ferdinand pour lui demander la main de sa fille. Le vieil homme lui annonce qu'il a lui-même l'intention de l'épouser. Pour calmer l'indignation de Lazarille, Ferdinand lui raconte l'histoire de Stéphanie : elle est la fille d'une femme venue accoucher chez Ferdinand. La mère lui a confié l'enfant et des bijoux pour subvenir à ses besoins. Ferdinand a reçu pour devoir de ne rendre la jeune fille qu'à celui qui viendrait rapporter la seconde moitié de l'anneau que la mère de Stéphanie lui a confié.
 
 
-#### Scène 4 : Lazarille
+#### Scène 4 : Lazarille.
 
 Il s'agit d'un court monologue. Lazarille exprime sa souffrance de savoir son amour déçu. Il voit Stéphanie arriver au loin.
 
 
-#### Scène 5 : Stéphanie, Lazarille, (Fabrice et Gusman cachés)
+#### Scène 5 : Stéphanie, Lazarille, (Fabrice et Gusman cachés).
 
 Lazarille annonce à Stéphanie que Ferdinand lui a tout expliqué. Fabrice et Gusman commentent l'échange des deux jeune gens. Stéphanie demande à Lazarille de ne pas dévoiler son amour à son père qui ne l'est plus et devient son futur mari. Le jeune homme ayant déjà révélé ses sentiments auprès de Ferdinand, Stéphanie lui conseille d'éviter sa présence pour ne pas éveiller la jalousie du vieil homme. Lazarille quitte donc la scène.
 
 
-#### Scène 6 : Fabrice, Stéphanie, Gusman
+#### Scène 6 : Fabrice, Stéphanie, Gusman.
 
 Fabrice profite du départ de son ami pour venir dévoiler à Stéphanie l'amour qu'il éprouve pour elle. Mais celle-ci refuse de répondre à ses avances étant déjà engagée auprès de Lazarille.
 
 
-#### Scène 7 : Fabrice, Gusman
+#### Scène 7 : Fabrice, Gusman.
 
 Fabrice indigné décide de tuer Lazarille pour gagner le cœur de Stéphanie et demande à son valet de l'assister dans cette tâche. Celui-ci refuse. Fabrice entre dans des réflexions tragiques, il hésite à se tuer s'il ne peut avoir l'amour de Stéphanie. Pour remédier au désespoir de son maître sans nécessairement tuer Lazarille, Gusman propose de faire usage de ses talents de faussaire pour que Lazarille parte de Séville. Fabrice a une autre idée : il propose à Gusman de se déguiser en Ambassadeur d'Afrique et de faire croire qu'il est amoureux de Stéphanie et qu'il est spécialement venu pour l'épouser.
 
 
-### Acte II
+### Acte II.
 
 
-#### Scène 1 : Lazarille, Fabrice
+#### Scène 1 : Lazarille, Fabrice.
 
 Lazarille vient montrer à son ami une lettre qu'il vient de recevoir de son oncle lui annonçant la mort de son père. Fabrice lui conseille de vérifier s'il ne s'agit pas d'un faux mais le jeune homme est formel, il s'agit bien de l'écriture de son oncle ; qu'il va devoir quitter Séville pour Tolède alors qu'il vient de trouver l'amour. Fabrice lui propose d'aller auprès de la belle pour lui vanter les mérites de son ami s'il veut bien lui dire de qui il s'agit. Lazarille dévoile le nom de Stéphanie et son compère lui annonce qu'il a l'Ambassadeur d'Afrique pour rival.
 
 
-#### Scène 2 : Gusman, Fabrice, Lazarille, Suite
+#### Scène 2 : Gusman, Fabrice, Lazarille, Suite.
 
 Gusman en Ambassadeur arrive et déclare son amour pour Stéphanie à Lazarille. Le jeune homme aimerait se soumettre à l'Ambassadeur ; celui-ci lui demande d'aller faire la cour pour lui auprès de Stéphanie.
 
 
-#### Scène 3 : Ferdinand, Gusman, Lazarille, Stéphanie, Fabrice, Suite
+#### Scène 3 : Ferdinand, Gusman, Lazarille, Stéphanie, Fabrice, Suite.
 
 Ferdinand tente de parler à Gusman-Ambassadeur de son amour pour Stéphanie mais celui-ci refuse de l'entendre et lui demande de se taire. Gusman-Ambassadeur demande à Lazarille de faire la cour à Stéphanie devant lui. Insatisfait des manières du jeune homme, il décide de s'en charger lui-même. Il s'adresse à Stéphanie de manière très grossière, choquant tous les autres personnages et provoquant le départ de la jeune femme.
 
 
-#### Scène 4 : Lazarille, Fabrice
+#### Scène 4 : Lazarille, Fabrice.
 
 Lazarille est outré qu'un homme ayant tant de pouvoir soit aussi grossier et que Fabrice accepte d'être le serviteur d'un tel personnage, lui qui aime tant la justice. Fabrice le met en garde contre sa crédulité ; l'Ambassadeur agit ainsi sous la pulsion de l'amour il n'en est pas de même lorsqu'il s'agit de la « chose publique ».
 
 
-#### Scène 5 : Gusman, Lazarille, Fabrice
+#### Scène 5 : Gusman, Lazarille, Fabrice.
 
 Gusman en habit de valet rejoint les deux amis. Lazarille fait part à Fabrice de son désir de tuer l'Ambassadeur. Gusman prend peur et s'allarme que Lazarille puisse le reconnaître. Fabrice tente de raisonner en vain son ami qui part résigné en lui conseillant de plutôt faire changer d'avis l'Ambassadeur.
 
 
-#### Scène 6 : Fabrice, Gusman
+#### Scène 6 : Fabrice, Gusman.
 
 Gusman ne veut plus jouer l'Ambassadeur. Fabrice décide donc de trouver un autre stratagème mais Gusman refuse d'être de nouveau impliqué. Le maître décide de se servir de la servante de Lazarille pour le faire partir pour Tolède. Il propose à Gusman de venir boire du bon vin avec lui.
 
 
-### Acte III
+### Acte III.
 
 
-#### Scène 1 : Henriquez, la servante
+#### Scène 1 : Henriquez, la servante.
 
 Henriquez de Gallas arrive dans un hôtel où il ne reste plus qu'un lit de libre ; il partage la chambre d'un autre homme endormi. Il envoie la servante chez Ferdinand.
 
 
-#### Scène 2 : Henriquez
+#### Scène 2 : Henriquez.
 
 Il s'agit d'un court monologue. Henriquez va se coucher en faisant attention de ne pas réveiller l'homme qui dort près de lui.
 
 
-#### Scène 3 : Lazarille, Henriquez, Gusman
+#### Scène 3 : Lazarille, Henriquez, Gusman.
 
 Gusman « fait l'esprit » pour tenter de faire partir Lazarille pour Tolède ; feignant d'être l'esprit de son père mort il lui explique qu'il faut que Lazarille parte pour rembourser 1000 écus volés avant sa mort pour que son âme puisse reposer en paix. Lazarille confus pense rêver et se rendort. Gusman se lamente alors sur la difficulté de son entreprise et reprend son discours auprès de Lazarille. Leur discussion réveille Henriquez qui reconnaît son fils. Gusman cherche à s'enfuir tout en jouant l'esprit. Henriquez croit que son fils a été gagné par la démence.
 
 
-#### Scène 4 : L'hoste, Lazarille, Henriquez, Gusman
+#### Scène 4 : L'hoste, Lazarille, Henriquez, Gusman.
 
 L'hoste arrive et prend peur à la vue de l'esprit, il en laisse tomber sa chandelle. Il appelle d'autres hommes pour qu'ils viennent avec des chandelles.
 
 
-#### Scène 5 : des garçons, l'hoste, Henriquez, Lazarille, Gusman
+#### Scène 5 : des garçons, l'hoste, Henriquez, Lazarille, Gusman.
 
 Lazarille est confus et ne sait pas qui est son père, entre le fantôme joué par Gusman et Henriquez. Les deux hommes tentent de le convaincre que l'autre est un avatar. Lazarille a conscience que l'un des deux est un imposteur. Gusman fait appel à son maître.
 
 
-#### Scène 6 : Fabrice, Gusman, Lazarille, Henriquez, l'hoste, ses garçons
+#### Scène 6 : Fabrice, Gusman, Lazarille, Henriquez, l'hoste, ses garçons.
 
 Fabrice arrive et dévoile le déguisement de Gusman et son amour pour Stéphanie. Lazarille déçu de l'attitude de son ami veut faire un serment que son père interrompt. Henriquez assure à Fabrice qu'il peut garder espoir quant à la satisfaction de son amour pour Stéphanie. Lazarille est désespéré : il est délaissé par son ami et par son père.
 
 
-#### Scène 7 : Ferdinand, Stéphanie, Lazarille, Henriquez, Gusman, Fabrice
+#### Scène 7 : Ferdinand, Stéphanie, Lazarille, Henriquez, Gusman, Fabrice.
 
 Ferdinand arrive et croit reconnaître Henriquez qui lui montre la moitié d'anneau. Henriquez se dévoile comme père de Stéphanie. La scène devient une scène de reconnaissance ; Lazarille trouve un sœur en celle qui était sa maîtresse et Fabrice peut prétendre épouser Stéphanie. Ferdinand est mécontent puisqu'il espérer pouvoir épouser Stéphanie en remerciement de ses services. Il n'y aura donc pas de mariage pour lui.
 
 
-## Analyse de la pièce
+## Analyse de la pièce.
 
 *Le Mort vivant* est une pièce en trois actes. Victor Fournel la qualifie de « pièce amusante et gaie, mais qui tombe souvent dans le burlesque le plus bas et dans la grossièreté même ; quant à la vraisemblance, c'est le moindre des soucis de l'auteur [69] ».
 
 
-### Gusman et Fabrice, duo atypique de maître/valet
+### Gusman et Fabrice, duo atypique de maître/valet.
 
 Fabrice et son valet entretiennent une relation particulière, qui dépasse celle que nous avons l'habitude de rencontrer dans une comédie. La pièce s'ouvre sur un dialogue entre les deux hommes dans un jardin à l'abri des regards. Là, ils font état de l'action et construisent l'exposition de la pièce. Cette situation n'est pas sans rappeler le début de nombreuses tragédies et notamment toutes celles de Racine entre *Andromaque* et *Phèdre*. Au-delà d'être un simple valet, Gusman endosse aussi le rôle de confident du jeune homme d'autant plus qu'il est de précieux conseil pour son maître et son projet amoureux. En outre, un rapport de force existe entre les deux personnages [70] : celui qui domine, Gusman, n'est pas celui qui a le rang social le plus élevé, celui qui habituellement est subordonné à son maître. La parole de Gusman lui permet d'acquérir une importance en dehors de la parole de son maître. Il est le confident de Fabrice et se permet même de le railler et de répondre à ses injures : au « Maraut insuportable » (v. 255) lancé par Fabrice il répond par « Et vous teste étourdie » (v. 255).
 
@@ -598,7 +598,7 @@ Le valet est le plus entreprenant des deux hommes ; il occupe le devant de la s
 Fabrice, quant à lui, ne se définit que par l'obstacle qui se dresse entre lui et son amour : d'une part son ami Lazarille aime la même femme que lui mais celle-ci ne semble pas être prête à offrir son amour à un autre. Il aime donc sans être aimé ; ce ressort dramatique est le plus courant dans le théâtre classique.
 
 
-### Gusman, ambassadeur d'Afrique
+### Gusman, ambassadeur d'Afrique.
 
 L'idée de déguiser un personnage en homme de pouvoir étranger pour pouvoir se jouer d'un père de famille et ainsi obtenir le mariage est commune à quelques pièces du XVII*e* siècle. Dans la pièce de Boursault, Gusman est déguisé en ambassadeur d'Afrique. Cette idée est de Fabrice ; il la propose à Gusman au vers 315. Cependant, contrairement à la fausse lettre de Gusman ce stratagème ne fonctionnera pas au mieux. Lazarille est en effet outré de découvrir l'attitude grossière du pseudo-ambassadeur qui n'est rien d'autre qu'une distorsion du rôle premier de Gusman ; sa condition de valet et son vocabulaire ne sont pas adaptés pour faire la cour à une demoiselle. Ces écarts entraînent le désir de Lazarille de le tuer pour venger l'outrage verbal qu'il a porté à Stéphanie. Concernant la ruse imaginée par Gusman, Lazarille considère la lettre comme étant vraiment de la main de son oncle malgré les tentatives hypocrites de Fabrice de le faire douter de la véracité de l'information qu'il a reçue v. 361-362.
 
@@ -607,7 +607,7 @@ Nous pouvons comparer le déguisement de Gusman dans *Le Mort vivant* à celui d
 Le déguisement de Gusman en ambassadeur d'Afrique nous montre une imitation de l'Afrique telle qu'elle est perçue au XVII*e* siècle. D'après les informations qui nous sont données dans le texte nous pouvons dire que l'Africain inspire de la crainte mais aussi du respect (v. 395 à 401). Gusman prétend être un haut dignitaire et pourtant son franc parler de valet ressort, cela crée un décalage comique au sujet duquel Russell Goulbourne fait cette supposition : « il se peut aussi que Gusman fasse vivre l'image stéréotypique d'Africains féroces et cruels, d'où l'aparté de Lazarille : “Quel brutal !” (II, 3) [71] ». À propos de la représentation physique d'un ambassadeur africain nous avons peu d'éléments : Gusman fait allusion dans une tournure familière et peu flatteuse à sa couleur de peau au vers 524 et à sa « roupille » au vers 614 : le reste du déguisement est laissé à la créativité de chaque troupe.
 
 
-### Le monologue de Gusman : parodie comique des stances du *Cid*
+### Le monologue de Gusman : parodie comique des stances du *Cid*.
 
 Les vers 557 et 558 « Je vous ayme, vous dis-je, et mon ame abatuë, / Cede au cruel effort de l'amour qui me tuë » prononcés par Gusman déguisé en ambassadeur à la scène 3 de l'acte II sont une reprise comique des paroles de Rodrigue à la scène 6 de l'acte I du *Cid* vers 295 et 296 : « Je demeure immobile et mon ame abatuë / Cède au coup qui me tue ». Ces vers font partie de ce qu'on appelle les stances du *Cid*. Le public du XVII*e* siècle remarque cette reprise que la bouche de Gusman rend comique. Nous pouvons définir ainsi ce procédé rhétorique :
 
@@ -617,7 +617,7 @@ Les stances correspondent au moment où le discours, au lieu d'être destiné à
 Dans *Le Mort vivant* l'objectif des stances est détourné. Contrairement à Rodrigue qui est seul sur scène lorsqu'il réfléchi sur son amour, Gusman prononce les mêmes vers en présence d'Olympie pour la faire changer d'avis. Il n'est plus donc question d'une quelconque introspection. La visée d'un tel discours n'est plus la souffrance et l'inquiétude du personnage mais participe plutôt à le rendre ridicule et comique. En outre, les stances expriment dans le *Cid*, la douleur du personnage mais aussi son incapacité à agir ; ce n'est pas le cas de Gusman qui est très entreprenant avec Olimpie comme en témoignent les vers de la scène 3 de l'acte II. Mettre de tels vers dans la bouche d'un valet déguisé en ambassadeur amoureux permet à Boursault d'amplifier le caractère ridicule de son personnage mais aussi de faire un clin d'œil à son public familier du théâtre de son temps.
 
 
-### Lazarille, jeune premier désespéré
+### Lazarille, jeune premier désespéré.
 
 À première vue, le suffixe « ille » qu'on retrouve dans de nombreux noms de personnages du XVII*e* siècle [73], rappelle les noms de personnages hispaniques et implique donc une référence au personnage du *gracioso*. Cependant, le personnage de Boursault n'est pas un valet, c'est un jeune premier. Il n'est donc pas question ici d'une allusion au personnage du *gracioso* et à son héritage. Nous pouvons supposer que l'auteur à utilisé ce suffixe simplement pour donner une touche hispanique à son personnage comme il l'a probablement fait aussi en nommant Gusman, même si ce nom est largement donné aux valets du XVII*e* siècle français. Dans sa thèse Francesca Borello affirme que
 
@@ -627,15 +627,15 @@ Fabrice et Lazarille (*Le Mort vivant*) sont si semblables, ont un caractère si
 Nous pensons effectivement que les deux jeunes hommes ont la même importance du point de vue de l'intrigue seulement la manière qu'ils ont d'agir dans la pièce est différente. Fabrice, comme nous l'avons vu, n'agit vraiment que par l'intermédiaire de son valet ; Lazarille quant à lui n'a même pas de valet. Il est seul dans toutes ses entreprises. Après avoir appris la mort de son père il est désemparé, tout comme Fabrice lorsqu'il apprend que son ami est amoureux de la même femme que lui et qu'elle s'est promise à lui ; cependant, Lazarille fait le choix d'aller se confier à son ami et lui demande de l'aider plutôt que de passer par un autre intermédiaire. En outre, contrairement à Fabrice qui obtient ce qu'il désirait à la fin de la pièce, nous ne pouvons pas affirmer que le bonheur de Lazarille soit total après le dénouement : certes, Stéphanie se révèle être sa sœur ce qui l'autorise à lui porter un amour mais ceci signifie aussi qu'elle ne peut pas honorer sa promesse de mariage et que Lazarille se retrouve à la fin de la pièce sans promise alors qu'il était le seul a en avoir une à l'issue du premier acte. Il est le seul personnage à aller de mal en pis d'une scène à l'autre : on lui annonce la mort de son père, mais il apprend que ceci n'est qu'un coup monté pour l'éloigner de la bouche même de son ami qui n'est autre que l'instigateur et finalement son père se révèle être aussi le père de celle qui s'était promise à lui. Nous ne pouvons pas dire que le sort profite à ce personnage de comédie.
 
 
-### Ferdinand et Henriquez de Galas, pères de Stéphanie
+### Ferdinand et Henriquez de Galas, pères de Stéphanie.
 
 Ferdinand est le père de Stéphanie lorsque la pièce commence. À la scène 2, il s'entretient avec Stéphanie pour lui annoncer qu'il n'est que son père adoptif et qu'il compte donc l'épouser. De plus amples explications sur cette mystérieuse naissance sont données à Lazarille venu demander en vain la main de la jeune femme à la scène 3. Nous sommes là dans le schéma classique de la comédie selon lequel un barbon élève une jeune fille comme si c'était la sienne dans l'optique de pouvoir l'épouser le moment venu pour la plus grande déception d'un jeune prétendant. Ceci correspond au conflit qui motive toute comédie : l'opposition intergénérationnelle. Cette situation est la même que dans *L'École des femmes* de Molière : le barbon Arnolphe a élevé Agnès dans le but de l'épouser et refuse donc qu'Horace puisse l'épouser jusqu'à l'arrivée du vrai père de la jeune fille, Enrique à la scène 7 de l'acte V. Ce nom rappelle curieusement celui d'Henriquez de Galas ; cette ressemblance entre deux œuvres de la même année peut s'expliquer par le vivier représenté par le théâtre espagnol à cette période. Henriquez de Galas arrive au début du troisième acte comme un *deus ex machina* pour sauver son fils du stratagème inventé par Fabrice et pour amener un dénouement heureux. C'est lui qui a le mot de la fin en refusant la main de sa fille au vieux barbon qui se l'était attribuée. Il est un homme respectable et de bonne naissance ; dans la liste des personnages il est le seul dont le nom de famille soit précisé, même son fils est simplement désigné sous le nom de « Lazarille », cela lui donne donc un certain pouvoir sur les autres personnages, de la supériorité. Nous pouvons le comparer à un honnête homme : il sait bien parler comme en témoigne son monologue poétique à la scène 2 de l'acte III et permet d'amener le dénouement le plus juste qu'il soit. Seulement, un détail manque à son sujet : nous ne savons pas pourquoi il a mis tout ce temps pour venir récupérer sa fille et révéler son identité au grand jour. Ferdinand et Henriquez de Galas sont deux hommes que tout oppose : le premier est un vieux barbon aigri intéressé par le mariage avec une jeune femme magnifique et le second un honnête homme qui vient rétablir l'ordre.
 
 
-# Le Médecin volant
+# Le Médecin volant.
 
 
-## Création et représentation
+## Création et représentation.
 
 Le privilège du *Médecin volant* date du 31 octobre 1664. Le texte est republié à Lyon en 1665 chez Charles Mathevet. Lancaster établit donc la première représentation la même année rejetant l'idée des frères Parfaict dans leur *Dictionnaire des théâtres de* Paris, idée selon laquelle la première représentation aurait eu lieu en 1661 à l'Hôtel de Bourgogne, information qu'on retrouve aussi chez Fournel dans *Les Contemporains de Molière* qui affirme que *Le Médecin volant* aurait été joué pour la première fois en novembre 1661 :
 
@@ -657,145 +657,145 @@ Dans les faits, les nombreux points communs que présente son *Médecin volant* 
 Autre lien obscur avec la pièce de Molière soulevé par Lancaster ; le fait que ce soit la pièce de Boursault et non celle de Molière qui ait été jouée quinze fois à la Comédie Française entre le 13 mai 1685 et 1687 à l'Hôtel Guénégaud et que ce soit aussi cette même pièce qui ait été traduite en néerlandais en 1666. Après vérification, c'est bien la pièce de Boursault qui a été représentée à la Comédie Française dans la mesure où la pièce de Molière entre au répertoire de la Comédie en 1833. Il en va de même pour la traduction en néerlandais : Claude Bourqui démontre dans *Les Sources de Molière* que le texte de base de la traduction est celui de Boursault publié en 1665, ce qu'il nous est possible de vérifier en allant consulter la traduction néerlandaise.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Scène 1 : Lise, Cléon
+### Scène 1 : Lise, Cléon.
 
 Lucresse, amoureuse de Cléon, feint d'être malade ayant peur de la réaction de son père quant à son amour. Sa servante Lise rencontre Cléon et l'incite à user d'une ruse pour voir celle qu'il aime.
 
 
-### Scène 2 : Cléon
+### Scène 2 : Cléon.
 
 Il s'agit d'un court monologue. Le jeune homme s'interroge sur les moyens qu'il peut mettre en œuvre pour pouvoir voir Lucresse. Cette réflexion est interrompue par l'arrivée de son valet Crispin.
 
 
-### Scène 3 : Crispin, Cléon
+### Scène 3 : Crispin, Cléon.
 
 Le valet arrive pour annoncer une nouvelle que Cléon avait du lui demander d'aller chercher mais le jeune homme l'interrompt pour lui parler de sa belle. Nous ne saurons pas ce que Crispin avait été envoyé faire. Cléon exprime ses sentiments pour Lucresse qui est enfermée dans sa chambre. Il dévoile à Crispin ses intentions d'abuser le père de Lucresse. Pour cela il souhaite que Crispin se déguise en médecin ; le valet tente de raisonner son maître sur l'impossibilité de la feinte, il ne sait rien de ce que sait un médecin. L'arrivée de Fernand au loin interrompt la conversation des deux hommes qui se donnent rendez-vous chez le maître.
 
 
-### Scène 4 : Cléon, Fernand, Philipin, Cléon
+### Scène 4 : Cléon, Fernand, Philipin, Cléon.
 
 Cléon discute avec Fernand et lui montre son affection pour Lucresse et sa douleur de la savoir malade. Il affirme qu'il veut le bonheur de la jeune femme et qu'il est heureux si d'autres hommes que lui plaisent à Lucresse. Ceci est naturellement une feinte pour mieux préparer l'intervention de Crispin.
 
 
-### Scène 5 : Fernand, Philipin
+### Scène 5 : Fernand, Philipin.
 
 Fernand se lamente auprès de son valet Philipin que sa fille Lucresse soit mourante. Pour Philipin la cause de la maladie qui l'afflige et la fait mourir à petit feux est évidente : la jeune femme est vierge depuis trop longtemps, sa virginité la ronge. Le père inquiet envoie son valet chercher un Médecin qui mette fin à ses inquiétudes.
 
 
-### Scène 6 : Fernand
+### Scène 6 : Fernand.
 
 Il s'agit d'un court monologue. Le vieil homme se lamente sur sa condition. Il se dit incapable de supporter tant de peine d'autant qu'il est âgé.
 
 
-### Scène 7 : Crispin, Fernand
+### Scène 7 : Crispin, Fernand.
 
 Fernand rencontre Crispin déguisé en médecin débitant un pseudo-discours médical ; ceci impressionne le vieillard qui l'invite à venir soigner sa fille. Le valet lui pose alors toute une série de questions plus extravagantes les unes que les autres.
 
 
-### Scène 8 : Lise, Fernand, Crispin
+### Scène 8 : Lise, Fernand, Crispin.
 
 Lise vient annoncer à Fernand l'aggravement de l'état de santé de Lucresse. Elle confond Crispin avec un gueux ce que Fernand lui reproche ardemment. Le valet désire établir un premier diagnostic et demande à avoir de l'urine de la malade.
 
 
-### Scène 9 : Crispin, Fernand, Lise
+### Scène 9 : Crispin, Fernand, Lise.
 
 Lise revient avec l'urine de la malade. Crispin analyse son aspect puis, contre toute attente, il boit l'urine et en fait quérir d'autre pour pouvoir réaliser son diagnostic.
 
 
-### Scène 10 : Lise, Crispin, Fernand
+### Scène 10 : Lise, Crispin, Fernand.
 
 Lise revient avec un peu d'urine que Crispin boit immédiatement mais il demande à nouveau et la renvoie auprès de la malade. Lise revient sans rien mais assure que sa maîtresse vient de boire de l'eau pour pouvoir répondre à sa demande. Lise annonce que pour ne pas rester seule à se morfondre sur son triste sort, Lucresse a décidé de venir rejoindre son père et le médecin.
 
 
-### Scène 11 : Lucresse, Fernand, Crispin, Lise
+### Scène 11 : Lucresse, Fernand, Crispin, Lise.
 
 Lucresse arrive sur scène. Crispin trouve qu'elle a fort mauvaise mine. Afin de continuer sa visite médicale il décide de prendre le poul de la jeune femme en lui tâtant le bras. Un jeu comique s'instaure puisqu'il ne tâte pas le bras de Lucresse mais celui de son père et annonce que sa patiente souffre d'un grand mal. Fernand panique se croyant lui aussi malade ; Crispin lui explique alors que les liens qui unissent père et fille sont tels que la maladie de l'un peut se lire dans le corps de l'autre. Pour illustrer ses dires, Crispin prend alors le bras de Lucresse et établit le même diagnostic que précédemment. Pour guérir la jeune femme, il donne alors une ordonnance préparée à l'avance permettant de soigner tous les maux et donc celui de Lucresse se trouve nécessairement parmi eux.
 
 
-### Scène 12 : Philipin, Fernand, Cantéas, Crispin
+### Scène 12 : Philipin, Fernand, Cantéas, Crispin.
 
 Philipin revient avec Cantéas, un savant médecin. Cantéas s'excuse de son retard auprès de Fernand et expose sa science aux yeux de tous cherchant à éprouver celle de son homologue. Crispin mal à l'aise ne sait que répondre à ce savant homme et se trouve désemparé devant lui.
 
 
-### Scène 13 : Fernand, Crispin
+### Scène 13 : Fernand, Crispin.
 
 Fernand est surpris que Crispin n'ait pas parlé pendant leur échange avec Cantéas. Crispin lui répond que Cantéas est mauvais et qu'il ne l'a pas laissé parler. Il se définit comme faisant partie des médecins qui guérissent par la parole. Fernand veut payer Crispin qui refuse l'argent et qui promet à Fernand de toujours être son « serviteur ». Le faux médecin s'en va annonçant qu'il reviendra le soir même pour voir Lucresse.
 
 
-### Scène 14 : Fernand
+### Scène 14 : Fernand.
 
 Il s'agit d'un court monologue. Fernand vante les qualités de Crispin ; il s'agit d'un grand médecin qui ne détrousse pas ses patients contrairement à d'autres qui ne recherchent que le gain.
 
 
-### Scène 15 : Fernand, Crispin
+### Scène 15 : Fernand, Crispin.
 
 Crispin en habit de valet est à la recherche de Cléon mais il rencontre Fernand qui le reconnaît. Pour expliquer son habit il prétend être le frère du médecin. Celui-ci l'a chassé à cause d'une mauvaise manipulation. Fernand décide alors d'être le médiateur entre les deux frères pour les réunir et les réconcilier. Il part donc en quête du médecin.
 
 
-### Scène 16 : Fernand
+### Scène 16 : Fernand.
 
 Il s'agit d'un court monologue. Fernand pense au malheur de Crispin qu'il vient de croiser mais il ne sait pas où loge le médecin. Il décide d'attendre qu'il vienne le soir pour voir Lucresse.
 
 
-### Scène 17 : Crispin, Fernand
+### Scène 17 : Crispin, Fernand.
 
 Crispin médecin revient chez Fernand. Celui-ci lui demande une grâce : il veut qu'il fasse la paix avec son frère. Crispin ayant donné sa parole à Fernand lors de leur dernière entrevue, accepte de voir son frère et s'en va prétendant avoir un malade à voir.
 
 
-### Scène 18 : Fernand
+### Scène 18 : Fernand.
 
 Il s'agit d'un court monologue. Fernand décide de faire accorder le pardon au frère du médecin devant ses yeux.
 
 
-### Scène 19 : Crispin, Fernand
+### Scène 19 : Crispin, Fernand.
 
 Crispin en valet se lamente et Fernand lui annonce que son frère accepte de faire la paix avec lui et de lui pardonner. Le valet est étonné de ce choix sachant que son frère était furieux contre lui mais Fernand lui assure qu'il ne craint rien qu'il a décidé d'être présent lors des retrouvailles. Paniqué, Crispin lui assure que la parole de son frère est sûre que la présence de Fernand lors de leur réconciliation n'est pas nécessaire. Mais celui-ci insiste et fait entrer Crispin chez lui, fermant à clef derrière lui.
 
 
-### Scène 20 : Fernand
+### Scène 20 : Fernand.
 
 Il s'agit d'un court monologue. Fernand cherche à retrouver le médecin.
 
 
-### Scène 21 : Crispin
+### Scène 21 : Crispin.
 
 Il s'agit d'un court monologue. Crispin se demande comment faire pour sortir de la maison et décide de sauter par la fenêtre.
 
 
-### Scène 22 : Philipin
+### Scène 22 : Philipin.
 
 Il s'agit d'un court monologue. Philipin voit Crispin sauter de la fenêtre sans n'avoir rien volé et décide de l'épier.
 
 
-### Scène 23 : Crispin, Fernand, Philipin
+### Scène 23 : Crispin, Fernand, Philipin.
 
 Crispin médecin est de retour. Il dit à Fernand qu'il prend trop de soins pour son frère. Fernand l'envoie à l'étage le retrouver. Crispin lui demande de le suivre pour voir l'échange entre son frère et lui puis se ravise et lui demande de les écouter en dessous de la fenêtre. Fernand sort et referme la porte à clef derrière lui.
 
 
-### Scène 24 : Philipin, Fernand, Crispin
+### Scène 24 : Philipin, Fernand, Crispin.
 
 Philipin dehors avec Fernand lui révèle que Crispin est un traître mais son maître refuse de le croire et se moque de lui. Crispin feint une conversation avec son frère. Philipin demande à Fernand de demander à Crispin que son frère réponde. Crispin déguise alors sa voix pour faire croire à la présence d'un autre homme. Fernand soutenant à Philipin qu'ils sont deux, celui-ci demande à ce que Crispin embrasse son frère devant la fenêtre. Crispin met alors son chapeau sur son coude et l'embrasse. Fernand croit à la feinte mais Philipin estime qu'il n'a rien vu. Fernand fait sortir Crispin médecin qui après avoir abandonné sa soutane remonte par la fenêtre et sort habillé en valet. Seulement, Philipin trouve la soutane et vient le dévoiler à son maître. Crispin est démasqué et fait appel à Cléon qui arrive pour expliquer la situation.
 
 
-### Scène 25 : Fernand, Cléon, Lucresse, Crispin, Philipin, Lise
+### Scène 25 : Fernand, Cléon, Lucresse, Crispin, Philipin, Lise.
 
 Fernand reconnaît Cléon et Lucresse qui arrivent ensemble et jure que Cléon devra épouser la jeune femme puisqu'il l'a séduite. Par la même occasion, Crispin va épouser Lise.
 
 
-## Analyse de la pièce
+## Analyse de la pièce.
 
 *Le Médecin volant* est une pièce en un acte qui se divise en vingt-deux scènes. Ce nombre est particulièrement important si nous le comparons avec celui du *Médecin volant* de Molière qui n'en compte que treize.
 
 Cette différence qui n'est pas négligeable s'explique par le grand nombre de petites scènes que contient la pièce de Boursault. Nous pouvons en dénombrer huit : la scène 2, la scène 6, la scène 14, la scène 16, la scène 18 et les scènes 20 à 22. Ces scènes se révèlent finalement être de courts monologues qui ne font pas évoluer l'action et qui représentent des « pauses » dans l'intrigue : le personnage en scène se plonge par exemple dans ses pensées, réalise le bilan de la scène passée ou annonce la scène qui suit. Seulement, si elles ne jouent pas un rôle dans l'avancée de l'intrigue, l'existence de ces scènes peut s'expliquer si nous nous intéressons à la structure externe de la pièce. La nécessité de lier les différentes scènes entre elles peut justifier la présence de ces scènes courtes. Elles servent de lien entre les autres scènes. À partir de la scène 13, nous pouvons remarquer que Boursault alterne une scène de longueur moyenne et une scène courte ; plus précisément une scène réunissant Fernand et Crispin et une autre impliquant Fernand uniquement. Les scènes courtes permettent de mettre en scène la réussite du déguisement sur le personnage de Fernand. Les différents commentaires qu'il fait montrent que l'illusion créée par Crispin fonctionne et rend le personnage d'autant plus ridicule aux yeux du spectateur qui est lui aussi complice de la supercherie. Ceci est renforcé par le fait que le personnage se retrouve seul en scène ; il devient le sujet de tous les regards.
 
 
-### Les personnages
+### Les personnages.
 
 
-#### Crispin et Fernand : dupeur et dupé
+#### Crispin et Fernand : dupeur et dupé.
 
 Ces deux personnages sont les personnages principaux de la pièce : ils se partagent la parole. Sur les 507 vers que compte la pièce, Crispin en prononce plus de 200, monopolisant ainsi la parole et Fernand en prononce deux fois moins que lui mais dépasse largement le nombre moyen de vers prononcés par les autres personnages qui représente une quarantaine de vers pour chacun. Crispin incarne le valet dévoué à son maître et devient le véritable héros du *Médecin volant*, même si au début de la pièce il a été séduit par l'appas du gain plutôt que par son obéissance envers Cléon. Tout comme le valet de la *commedia dell'arte* il est rusé et inventif comme en témoigne le jeu du frère jumeau qu'il s'invente alors qu'il rencontre Fernand à visage découvert, en habit de valet à la scène 15. Il s'avère donc plus à l'aise qu'il ne l'avait pensé dans ce rôle de menteur.
 
@@ -804,7 +804,7 @@ Fernand est un simple barbon de comédie. Il se laisse berner par le discours de
 Le valet de Fernand, Philipin n'a qu'un rôle d'adjuvant auprès de son maître jusqu' à la scène 22 où il voit Crispin sauter par la fenêtre. À la scène 24, il fait part à son maître de ses doutes concernant la véritable identité de Crispin. Philipin est alors un personnage essentiel. C'est grâce au fait que Philipin découvre la soutane abandonné par le faux médecin à la fin de la scène 24 que Crispin peut être confondu et Fernand désabusé.
 
 
-#### Cléon et Lucresse ou les principaux intéressés absents
+#### Cléon et Lucresse ou les principaux intéressés absents.
 
 Les deux jeunes gens apparaissent peu sur scène : Cléon est présent dans les quatre premières scènes pour mettre en place le stratagème du déguisement avant de disparaître totalement et de revenir pour la scène finale, la scène 25, Lucresse quant à elle fait une apparition à la scène 11 et ne réapparaît qu'à la dernière scène. La comédie tend vers la réalisation du projet du couple mais ils ne sont pas acteurs de la réussite de leur entreprise. Le spectateur est amené à s'intéresser pour leur avenir sans toutefois les voir sur scène et agir. Ceci est laissé à la charge du valet rusé qui prend le dessus sur son maître en devenant plus important que lui. En cela, ils rappellent le couple d'amoureux de la *commedia dell'arte* :
 
@@ -812,7 +812,7 @@ Les deux jeunes gens apparaissent peu sur scène : Cléon est présent dans les
 Dans la comédie italienne le désir du héros étant relayé par les ruses de son valet destinées à permettre la réalisation de ce désir, ce sont les tentatives du valet qui constituent le moteur permanent de l'action [78].
 
 
-### *Le Médecin volant*, une pièce héritière de la commedia dell'arte
+### *Le Médecin volant*, une pièce héritière de la commedia dell'arte.
 
 Le sujet du *Médecin volant* est un sujet caractéristique du théâtre du XVII*e* siècle. Cette tradition a été apportée en France par les italiens chez qui nous pouvons trouver des pièces ayant pour sujet un *Medico volante* à partir du XVI*e* siècle. Ce phénomène peut s'expliquer par la présence des comédiens italiens qui sont très tôt sur les routes de France et qui s'implantent à Paris à partir de la seconde moitié du XVII*e* siècle ; ils partagent notamment le Palais du Petit Bourbon puis le Palais Royal avec Molière. Le public parisien est très friand de leurs petites pièces et admirent les prouesses de leur chef de file, Scaramouche.
 
@@ -826,7 +826,7 @@ Il un spectacle de *commedia* fournit de la matière à rire et à s'émouvoir. 
 Grâce aux Italiens le public français est un habitué des représentations impliquant un *Medico volante*. Au milieu des années 1640, Scaramouche joue un *Medico volante* repris de nombreuses fois comme le montre la réaction de Somaize qui accuse Molière en 1660 de l'avoir copié. Seulement, le grand dramaturge a adapté le sujet italien pour créer un *Medecin volant* français au comique renforcé. Ce nouveau scénario original est remarqué par ses contemporains et d'autres auteurs tentent à leur tour d'écrire un *Médecin volant*.
 
 
-### Sur les traces d'un plagiat non avoué
+### Sur les traces d'un plagiat non avoué.
 
 Dans son *Avis au lecteur*, Boursault assume ne pas être le véritable auteur de sa pièce puisqu'il s'inscrit dans une tradition littéraire « ce n'est pas moy qui en suis l'Auteur ». Cependant, il déclare aussi que le sujet de sa pièce est traité de manière originale, « je crois qu'il est plus beau de ma façon que d'aucune autre, à cause qu'outre la Traduction qui en est fidele, il a encore la grace de la Poësie ». Il mentionne l'existence d'un autre *Médecin volant* au théâtre du Marais sans toutefois faire une quelconque allusion au *Médecin volant* de Molière avec lequel son texte présente de nombreuses ressemblances ce qui paraît assez étrange. À sa décharge, il existe une différence formelle entre les deux textes : *Le Médecin volant* de Molière est rédigé en prose alors que celui de Boursault est en vers.
 
@@ -835,7 +835,7 @@ Nous allons ici nous intéresser aux comparaisons qu'il est possible d'établir 
 Pour plus de lisibilité et une compréhension plus aisée, nous présenterons notre analyse sous la forme de tableaux comparatifs.
 
 
-#### Comparaison entre Le Médecin volant de Molière et celui de Boursault
+#### Comparaison entre Le Médecin volant de Molière et celui de Boursault.
 
 Les deux pièces sont des pièces en un acte qui mettent en scène sept personnages. Chez Boursault, le médecin Cantéas remplace l'avocat de Molière. Georges Forestier remarque dans sa *Notice* du *Médecin volant* qu'il s'agit là d'une méprise de Boursault qui pensait sans doute offrir à son public un personnage plus vraisemblable que celui de Molière et qui témoigne de son manque de connaissance au sujet de la tradition esthétique de son temps :
 
@@ -876,14 +876,14 @@ Je le tiens sous mon bras, voilà le Coquin qui faisait le Médecin, et qui vous
 
 
 
-#### Comparaison avec d'autres pièces de Molière
+#### Comparaison avec d'autres pièces de Molière.
 
 Boursault s'appuie aussi sur une intertextualité présente dans les œuvres de Molière. Ainsi, certains passages du *Médecin volant* rappellent un certain nombre des œuvres de Molière qui se font elles-mêmes écho et devenant un thème récurrent de l'œuvre de ce grand dramaturge. Ces éléments participent donc de la découverte de la source de Boursault malgré toutes les indications fournies par celui-ci dans son *Avis au lecteur*.
 
 Sachant l'intertextualité qui existe dans l'œuvre même de Molière, nous avons fait le choix de faire en priorité la comparaison avec des pièces ayant pour sujet la médecine telles que *L'Amour médecin*, pièce ayant un rapport étroit avec *Le Médecin volant* de Molière. Pour les autres pièces, nos procèderons par ordre chronologique en prenant pour base la première œuvre écrite par Molière et en renvoyant aux références dans les autres œuvres en notes de bas de pages.
 
 
-##### *L'Amour médecin* (1665)
+##### *L'Amour médecin* (1665).
 L'Amour médecin, Molière | Le Médecin volant, Boursault
 Importance de mourir dans les « formes » ; ces passages peuvent être mis en relation avec ceux que nous avons vu dans les deux Médecin volant qui vantent la présence nécessaire d'un médecin pour pouvoir mourir.
 Vous aurez la consolation qu'elle sera morte dans les formes. - Il vaut mieux mourir selon les règles, que de réchapper contre les règles. [91]  (Acte II, scène 5) | Quand un homme se trouve en estat de perir Tousjours un Medecin doit l'ayder à mourir, Et c'est faire éclater des malices enormes Que vouloir refuser de mourir dans les formes. (scène 7, v. 143-146)
@@ -899,7 +899,7 @@ Nous ne sommes pas les seuls, comme vous savez, qui tâchons à nous prévaloir 
 
 
 
-##### *Sganarelle ou le Cocu imaginaire* (1660)
+##### *Sganarelle ou le Cocu imaginaire* (1660).
 
 À la scène 1 de la pièce, Molière fait allusion aux quatrains de Pibrac pour condamner les mauvaises lectures qu'il faut éviter d'avoir :
 
@@ -918,7 +918,7 @@ Voir quel temps il fera dans un vieil Almanac,
 Reciter tout par cœur les Quatrains de Pybrac, (scène 13, v. 315-319)  
 
 
-##### *Monsieur de Pourceaugnac* (1669)
+##### *Monsieur de Pourceaugnac* (1669).
 
 Boursault reprend l'idée de l'ignorance du mal par le malade lui-même, ce qui est un très mauvais signe.
 Médecin volant, Boursault | Monsieur de Pourceaugnac, Molière
@@ -927,7 +927,7 @@ CRISPIN Avez-vous de la fievre ? LUCRESSE Je ne say. CRISPIN Non ? LUCRESSE No
 
 
 
-##### *Le Malade imaginaire* (1673)
+##### *Le Malade imaginaire* (1673).
 
 Dans le troisième intermède de la comédie-ballet qui consiste en une « Cérémonie burlesque [94] » qui parodie l'entrée en médecine d'un docteur, le président de l'assemblée d'intronisation prononce ces paroles en confiant son bonnet au nouveau venu :
 
@@ -942,7 +942,7 @@ L'expression « tuer impunément », ici formulée en latin, apparaît de mani
 Je vous proteste que si l'on m'appelloit à la Police j'y donnerois si bon ordre, qu'il ne seroit plus possible d'assassiner impunément un homme ; et ces Messieurs qui ne sont Medecins que par la Soûtane, seroient obligez durant quelques années que je limiterois, de faire l'espreuve de leur Science sur les Animaux qui ne sont plus propres au travail.
 
 
-# Établissement des textes
+# Établissement des textes.
 
 Nous avons apporté quelques modifications d'usage. Conformément à l'usage moderne, nous avons distingué les *j* et les *v* consonnes qui s'utilisaient au XVII*e* siècle comme des *i* et des *u*. Nous avons rétabli les *s* lorsqu'ils étaient notés ƒ et *ss* lorsqu'ils étaient notés *β* (par exemple, « une forte paβion » dans l'épître dédicatoire au Comte de Saux du *Jaloux endormy*). Nous avons supprimé le tilde marquant la nasalisation d'une voyelle en rétablissant le groupe voyelle et consonne qu'il représente. Nous n'avons pas conservé l'esperluette (&) que nous avons systématiquement remplacé par *et*. En revanche, l'orthographe classique a été conservée : il peut donc exister des différences orthographiques d'une occurrence à l'autre, l'orthographe n'étant pas encore fixée au XVII*e* siècle. En ce qui concerne l'accentuation, nous avons respecté celle du texte original sauf dans les cas où elle amenait à une compréhension fautive de l'occurrence ; nous avons donc rétabli l'accent diacritique permettant la distinction entre la conjonction de coordination *ou* et l'adverbe ou le pronom relatif *où*.
 
@@ -953,7 +953,7 @@ Nous avons corrigé les coquilles orthographiques et grammaticales qui suivent. 
 Pour chacun des textes, nous avons reporté la pagination originale entre crochets à droite, ainsi que les signatures indiquant le début de chaque cahier. Nous n'en avons cependant pas fait de même pour la réclame : les imprimeurs avaient en effet pour habitude de reproduire à la fin de la page de chaque cahier, le premier mot du cahier qui devait suivre.
 
 
-## Dans *Le Jaloux endormy*
+## Dans *Le Jaloux endormy*.
 
 Amande (VI)
 
@@ -978,7 +978,7 @@ Plaine (v. 463)
 Nous avons rétabli l'alinéa qu'il manquait au vers 127. Nous avons uniformisé l'orthographe du prénom « Aspasie » ; en effet à partir du carnet C, « Aspasie » devenait « Aspazie ». Nous avons remplacé l'abréviation « vo*9* » au vers 455 par « vous ». Nous avons ajouté la rubrique de personnage « SPADARILLE » au vers 476.
 
 
-## Dans *Le Mort vivant*
+## Dans *Le Mort vivant*.
 
 Ou (III) nous avons rétabli l'accent à demi effacé.
 
@@ -1017,7 +1017,7 @@ Amande (LII)
 Nous avons relevé des différences entre les deux exemplaires que nous avons consultés ; dans l'exemplaire conservé à la Bibliothèque Nationale de France (site François Mitterrand) sous la cote YF-7482 la dernière phrase de la page 42 est à demi coupée ce qui n'est pas le cas pour l'exemplaire conservé à la Bibliothèque de Besançon sous la cote 282429. De même, dans le volume conservé à la Bibliothèque nationale de France, l'« extraict du privilege du Roy » n'est pas complet contrairement à celui du volume conservé à la Bibliothèque de Besançon.
 
 
-## Dans* Le Médecin volant*
+## Dans* Le Médecin volant*.
 
 Sa voir (v. 16)
 
@@ -1046,10 +1046,10 @@ Vôtre bonté (v. 408)
 ? …. (v. 424)
 
 
-# Description des volumes
+# Description des volumes.
 
 
-## Le Jaloux endormy
+## Le Jaloux endormy.
 
 *Le Jaloux endormy*. Par M. Edme Boursault, *Comédie*, in-12 de X-35 pages. Volume conservé à la Bibliothèque nationale de France (site de l'Arsenal), sous la cote GD-23433.
 
@@ -1066,12 +1066,12 @@ VIII-IX extrait du privilège
 X liste des personnages
 
 
-### Présentation de la page de titre
+### Présentation de la page de titre.
 
 LE JALOUX / ENDORMY / COMEDIE / Representée sur le Theatre Royal / du Marais. / *Par le Sieur BOURSAULT, Secretaire de / Madame la Duchesse d'Angoulesme.*/ fleuron de l'éditeur / A PARIS, / Chez ESTIENNE LOYSON, au Palais / à l'entrée de la Gallerie des Prisonniers, / au Nom de Jesus. / filet / M. DC. LXII. / *Avec Privilege du Roy.*
 
 
-### Exemplaires
+### Exemplaires.
 
 Bibliothèque nationale de France site de l'Arsenal : GD-23433 Loyson
 
@@ -1080,7 +1080,7 @@ Versailles : F.A. in-12 E 511d Pépingué
 Dublin : OLS B-6-478 (1) Pépingué
 
 
-## Le Mort vivant
+## Le Mort vivant.
 
 *Le Mort vivant*. Par M. Edme Boursault, *Comédie*, in-12 de VIII-51-LII pages. Nous avons utilisé le volume conservé à la Bibliothèque nationale de France (site François Mitterrand) sous la cote YF-7482 ainsi que celui conservé à la Bibliothèque municipale de Besançon sous la cote 282429.
 
@@ -1097,12 +1097,12 @@ VIII liste des personnages
 LII extrait du privilège
 
 
-### Présentation de la page de titre
+### Présentation de la page de titre.
 
 LE MORT / VIVANT, / COMEDIE. / DEDIEE A MONSEIGNEUR / LE DUC DE GUISE. / Representée par les Comediens / du Roy ; / *Et composée par le Sieur BOURSAULT.* / fleuron du libraire / A PARIS, / Chez NICOLAS PEPINGUE', en la / grande Salle du Palais, vis à vis les / Consultations, au Soleil d'or. / filet / M. DC. LXII. / A*vec privilege du Roy.*
 
 
-### Exemplaires
+### Exemplaires.
 
 BNF, Site de l'Arsenal : GD-14643 Pépingué
 
@@ -1119,7 +1119,7 @@ Reims : Rés. Diancourt PP78 Guignard
 Versailles : Bibliothèque de la Reine 932 Pépingué
 
 
-## Le Médecin volant
+## Le Médecin volant.
 
 *Le Medecin volant*. Par M. Edme Boursault, *Comédie*, in-12 de X-45 pages. Nous avons utilisé le volume conservé à la Bibliothèque nationale de France (site de l'Arsenal), sous la cote GD-13904 ainsi que celui conservé à la Bibliothèque municipale de Besançon sous la cote 282429.
 
@@ -1140,12 +1140,12 @@ X liste des personnages
 1-45 texte de la pièce
 
 
-### Présentation de la page de titre
+### Présentation de la page de titre.
 
 LE / MEDECIN / VOLANT, / COMEDIE. / *Par Mr BOURSAULT.* / fleuron du libraire / A PARIS, / Chez N. PEPINGUE, à l'entrée de la ruë de la / Huchette. Et en la Boutique au premier Pilier / de la grande Salle du Palais, vis à vis les / Consultations, au Soleil d'or. / filet / M. DC. LXV. / *AVEC PRIVILEGE DU ROY*
 
 
-### Exemplaires
+### Exemplaires.
 
 BNF, site de l'Arsenal : GD-13904
 
@@ -1158,7 +1158,7 @@ Bibliothèque municipale de Besançon : 282429
 Modène, Université : E 049 A 004 003
 
 
-# Boursault, *Trois petites comédies*
+# Boursault, *Trois petites comédies*.
 Le Jaloux endormy
 
 Comédie
@@ -1201,7 +1201,7 @@ le treize Juin 1662.
 Les exemplaires ont esté fournis.
 
 
-## PERSONNAGES 
+## PERSONNAGES. 
  – SPADARILLE,Gouverneur⁎ de Toulon, mari d'Olimpie, qui en est si jaloux qu'il l'enferme à six cadenats.
  – CLEANDRE,Amoureux⁎ d'Olimpie, à qui Alcidor l'osta pour la donner en mariage à Sparadille.
  – OLIMPIE,femme de Spadarille, et fille d'Alcidor, autrefois promise à Cléandre.
@@ -1211,11 +1211,11 @@ La scène est à Toulon.
 
 
 
-## SCENE PREMIERE
+## SCENE PREMIERE.
 SPADARILLE, OLIMPIE
 
 
-    SPADARILLE
+    SPADARILLE.
 Je vous l'avois bien dit pour calmer vostre effroy,  
 Que vous seriez tousjours à vostre aise avec moy.  
 Et qu'assez de tresors vous auriez en partage,  
@@ -1227,7 +1227,7 @@ Si l'on vous eut laissée au pouvoir de Cleandre,
 Et si, par un destin à vos vœux pas trop doux,  
 J'eusse jeté les yeux sur une autre que vous ?  
 
-    OLIMPIE
+    OLIMPIE.
 Quand je songe au mal-heur où je suis condamnée,  
 J'ay regret d'estre à vous par les nœuds d'Hymenée,  
 Et j'éprouve du sort les plus sensibles coups,  
@@ -1235,7 +1235,7 @@ Puis qu'il m'a fait tomber dans les mains d'un jaloux,
 Qu'est-ce que de ma part vostre cœur apprehende ?  
 Mon honneur m'est trop cher pour vouloir…  
 
-    SPADARILLE
+    SPADARILLE.
         Ah friande [100] !  
 Que si je m'empeschois de vous estre cruel [101],  
 L'honneur dont vous parlez deviendroit casuel [102];  
@@ -1252,7 +1252,7 @@ C'est qu'il croit votre honneur n'estre pas assez ferme,
 Et que ne pas souffrir⁎ qu'on vous puisse approcher,  
 C'est oster à vos sens les moyens de pecher.  
 
-    OLIMPIE
+    OLIMPIE.
 Vous, Monsieur, apprenez qu'un discours incommode,  
 D'un crime qu'on ignore enseigne la méthode,  
 Et que pour confirmer vos injustes soupçons,  
@@ -1263,7 +1263,7 @@ Car de la liberté si j'usois plainement,
 Qui doute de ma foy douteroit justement.  
 Voyez-vous qu'en effet d'autres fassent paraitre…  
 
-    SPADARILLE
+    SPADARILLE.
 Les autres sont des sots et je ne veux pas l'estre ;  
 Nous savons mieux que vous ce que ces autres font,  
 Et ne pretendons pas devenir ce qu'ils sont.  
@@ -1292,16 +1292,16 @@ Si ma regle par eux estoit bien observée !
 Et que de quantité le destin seroit doux,  
 Si leur plus grand mal-heur estoit d'estre Jaloux !  
 
-    OLIMPIE
+    OLIMPIE.
 Et de tous les mal-heurs en est-il un plus rude  
 Monsieur !  
 
-    SPADARILLE
+    SPADARILLE.
         Il me le semble, ô Madame la prude !  
 Et qui de la sagesse a le moindre rayon,  
 Prefere un sort d'Argus [116] au destin d'Acteon [117].  
 
-    OLIMPIE
+    OLIMPIE.
 Quiconque peut avoir un rayon de sagesse,  
 Dans les maux d'une femme à jamais s'interesse,  
 Et loin qu'à l'outrager il puisse estre contraint,  
@@ -1311,34 +1311,34 @@ Devoit m'abandonner à l'amour de Cleandre,
 Et par l'éclat d'un bien dont je ne puis jouïr [118],  
 N'abuser pas mon Pere, et ne pas l'éblouïr.  
 
-    SPADARILLE
+    SPADARILLE.
 Il vous plaisoit beaucoup ce Cleandre ?  
 
-    OLIMPIE
+    OLIMPIE.
         Sans doute⁎.  
 
-    SPADARILLE
+    SPADARILLE.
 Il avoit vostre estime ?  
 
-    OLIMPIE
+    OLIMPIE.
         Encor mesme, il l'a toute.  
 
-    SPADARILLE
+    SPADARILLE.
 Vous voudriez, que je crois, estre à luy [119] ?  
 
-    OLIMPIE
+    OLIMPIE.
         Pleust aux Dieux,  
 Mon sort…  
 
-    SPADARILLE
+    SPADARILLE.
         On dit bien vray que l'amour n'a point d'yeux [120] !  
 Vous aurez donc regret de vous voir ma conqueste  
 Madame la Mignonne⁎ ?  
 
-    OLIMPIE
+    OLIMPIE.
     En effet,  
 
-    SPADARILLE
+    SPADARILLE.
         Bonne beste [121] !  
 De vos mauvais desseins c'est assez m'avertir,  
 Vous voudriez estre gueuse, et vous bien divertir.  
@@ -1366,67 +1366,67 @@ Rentrez ; car aussi bien je vois un Gentillastre [124],
 De vos yeux bien fendus [125] il seroit idolastre,  
 Rentrez donc.  
 
-    OLIMPIE
+    OLIMPIE.
     Mais…  
 
-    SPADARILLE
+    SPADARILLE.
         Rentrez, sans vous embarrasser.  
 Diable ! que j'ay bien fait de la cadenasser.  
 
 
-## SCENE II
+## SCENE II.
 CLEANDRE, SPADARILLE, CASCARET
 
 
-    CLEANDRE
+    CLEANDRE.
 Monsieur, vous savez bien qu'on me nomme Cleandre ?  
 
-    SPADARILLE
+    SPADARILLE.
 Oüy.  
 
-    CLEANDRE
+    CLEANDRE.
         Vous ne savez pas ce que j'ose pretendre ?  
 
-    SPADARILLE
+    SPADARILLE.
 Non.  
 
-    CLEANDRE
+    CLEANDRE.
         Mais il vous souvient que je fus Amoureux⁎ ?  
 
-    SPADARILLE
+    SPADARILLE.
 Oüy.  
 
-    CLEANDRE
+    CLEANDRE.
         Que je ne fus pas un Amant⁎ fort heureux ?  
 
-    SPADARILLE
+    SPADARILLE.
 Non.  
 
-    CLEANDRE
+    CLEANDRE.
         Que votre merite emporta la balance ?  
 
-    SPADARILLE
+    SPADARILLE.
 Oüy.  
 
-    CLEANDRE
+    CLEANDRE.
         Qu'enfin mon ardeur n'eut point de recompense ?  
 
-    SPADARILLE
+    SPADARILLE.
 Non.  
 
-    CLEANDRE
+    CLEANDRE.
         Ainsi donc, Monsieur, ne trouvez pas mauvais  
 Si je viens…  
 
-    SPADARILLE
+    SPADARILLE.
         Vous, Monsieur, trouvez bon si je vais…  
 Un si grand preambule est suspect à mon Ame,  
 Parlez bref.  
 
-    CLEANDRE
+    CLEANDRE.
     Mais Monsieur…  
 
-    SPADARILLE
+    SPADARILLE.
         Mais Monsieur, mais Madame,  
 J'ai des soins à donner autre part que vers vous,  
 Avec mes cadenats j'ay besoin de verroux,  
@@ -1437,11 +1437,11 @@ Si je ne trouve rien, je ne reviendray pas.
 Bon jour [126].  
 
 
-## SCENE III
+## SCENE III.
 CLEANDRE, CASCARET
 
 
-    CLEANDRE
+    CLEANDRE.
         De ce qu'il fait j'aurois tort de me plaindre,  
 Avec moins de foiblesse il seroit plus à craindre,  
 Si de quelque lumiere il estoit éclairé,  
@@ -1451,7 +1451,7 @@ Mais je sais que son ame est sans cesse assoupie,
 Et quand secretement j'ose agir contre luy,  
 De sa brutalité je me fais un appuy.  
 
-    CASCARET
+    CASCARET.
 Mais comme Spadarille est sujet à l'ombrage [127]  
 Quoy que des cadenats il observe l'usage,  
 Si pour vostre mal-heur il avient que ce fou,  
@@ -1462,7 +1462,7 @@ Et que de son pouvoir se servant à propos,
 De coups drus comme gresle il nous brise les os ?  
 Plaist-il ? [128]  
 
-    CLEANDRE
+    CLEANDRE.
         Non, Spadarille a la teste trop seiche [129],  
 Je n'apprehende pas qu'il découvre ma bresche,  
 Si pour voir Olimpie en un coin fort obscur,  
@@ -1477,14 +1477,14 @@ Et que pour accomplir d'équitables desseins,
 Par l'avis de son Pere elle a mis dans mes mains.  
 Ainsi de mon Rival le deffaut effroyable…  
 
-    CASCARET
+    CASCARET.
 Je say que Spadarille est puant comme un Diable,  
 Et que de son halaine il infecte tous ceux  
 Qui de parler à luy sont assez mal-heureux ;  
 Mais il est Gouverneur⁎, et c'est dont je frissonne [131],  
 Car son train…  
 
-    CLEANDRE
+    CLEANDRE.
         A sa suite il n'a nulle personne,  
 De peur que de sa femme on pût voir les attraits,  
 Ce Jaloux hypocondre a chassé ses valets :  
@@ -1495,18 +1495,18 @@ Sous l'habit d'une fille un garçon déguisé.
 Si bien…mais il écoute, évitons ses reproches…  
 
 
-## SCENE IV
+## SCENE IV.
 SPADARILLE, CLEANDRE, CASCARET
 
 
-    SPADARILLE *avec trois verroux en chaque main*
+    SPADARILLE *avec trois verroux en chaque main*.
 Voicy pour des Polis [133] empescher les approches ;  
 Qu'ils s'y viennent frotter, ces Mignons⁎, ces Poudrez [134].  
 
-    CLEANDRE
+    CLEANDRE.
 Quoy l'on ose ?  
 
-    SPADARILLE
+    SPADARILLE.
         Oüy l'on ose, et ce sont des Madrez [135],  
 Qui voudroient sur ma terre usurper droit de chasse [136],  
 Vous qui d'un Chien couchant [137] affectez la grimace [138],  
@@ -1514,68 +1514,68 @@ Estes-vous point aussi quelque Amant⁎ aux yeux doux,
 Qui pour plaire à l'Espouse entretienne l'Espoux ?  
 Et lors…  
 
-    CLEANDRE
+    CLEANDRE.
         Ne craignez rien de la part d'Olimpie,  
 Tous mes voeux sont bornez à chérir sa copie.  
 
-    SPADARILLE
+    SPADARILLE.
 Sa copie ?  
 
-    CLEANDRE
+    CLEANDRE.
     Oüy, Monsieur.  
 
-    SPADARILLE
+    SPADARILLE.
         Bon, il semble à ce fat [139],  
 Qu'on copie une femme aussi bien qu'un contrat.  
 Et vous vous en allez ?  
 
-    CLEANDRE
+    CLEANDRE.
         Avec une Patente⁎  
 Je suis prest…  
 
-    SPADARILLE
+    SPADARILLE.
         Je vous puis rendre l'ame contente.  
 Mais dans ce petit doigt vous avez un anneau  
 Qui vous sied assez bien, et me semble fort beau ;  
 Que je voye.  
 
-    CLEANDRE *bas*
+    CLEANDRE *bas*.
     O mal-heur ! c'est…  
 
-    SPADARILLE
+    SPADARILLE.
         Vous estes estrange,  
 Pour le voir un moment croyez-vous qu'on le mange ?  
 
-    CLEANDRE
+    CLEANDRE.
 Non, Monsieur, mais…  
 
-    SPADARILLE
+    SPADARILLE.
         Quoy mais ? A-t-il peur de mes yeux ?  
 Appercevant que c'est l'Anneau d'Olimpie.
 
 Où Diable avez-vous pris ce bijou précieux [140] ?  
 
-    CASCARET *bas à Cleandre*
+    CASCARET *bas à Cleandre*.
 Respondez hardiment, et mentez comme un Diable [141].  
 
-    CLEANDRE
+    CLEANDRE.
 Je l'ay pris…  
 
-    SPADARILLE
+    SPADARILLE.
         Parlez viste, ô l'Amant⁎ trop aimable,  
 Où donc l'avez-vous pris ?  
 
-    CLEANDRE
+    CLEANDRE.
         Où prend-on les bijoux ?  
 
-    SPADARILLE
+    SPADARILLE.
 Et j'ay tort, mon Cadet, de paraistre Jaloux,  
 Est-ce pas ?  
 
-    CLEANDRE
+    CLEANDRE.
         Je ne say s'il se peut qu'Olimpie…  
 
-    SPADARILLE
+    SPADARILLE.
 Et moy je say fort bien qu'Olimpie est impie,  
 Et sans les cadenats à sa porte attachez,  
 Qu'elle feroit souvent d'agreables pechez.  
@@ -1589,26 +1589,26 @@ Et d'un Original que je dois soupçonner,
 Donnez-moy la Copie à collationner [142],  
 Sinon…  
 
-    CLEANDRE
+    CLEANDRE.
     Quoy vous voulez…  
 
-    SPADARILLE
+    SPADARILLE.
         Oüy, je le veux, vous dis-je.  
 
-    CASCARET *bas à Cleandre*
+    CASCARET *bas à Cleandre*.
 Par ce commandement ce Jaloux vous oblige⁎,  
 Avant qu'il ait ouvert cinq ou six cadenats,  
 L'anneau…  
 
-    CLEANDRE
+    CLEANDRE.
         C'est ma pensée, et j'y vais de ce pas.  
 Puis qu'il vous plaist, Monsieur, d'admirer ma Maistresse⁎,  
 J'obéïs.  
 
 
-## SCENE V
+## SCENE V.
 
-    SPADARILLE *seul, ouvrant la porte de la chambre d'Olimpie*
+    SPADARILLE *seul, ouvrant la porte de la chambre d'Olimpie*.
         Je vous tiens, ô la double Traistresse,  
 Qui dans l'aspre dessein d'acquerir du renom,  
 Avez l'air d'une Sainte, et l'esprit d'un Démon.  
@@ -1619,143 +1619,143 @@ Les aiz [143] de vostre porte en seront resserrez.
 Voyons un peu sa mine.  
 
 
-## SCENE VI
+## SCENE VI.
 SPADARILLE, OLIMPIE
 
 
-    SPADARILLE
+    SPADARILLE.
         Approchez, la Matoise [144],  
 Dont la vertu s'altere, et l'honneur s'apprivoise,  
 Approchez.  
 
-    OLIMPIE
+    OLIMPIE.
     De ma part, désirez-vous…  
 
-    SPADARILLE
+    SPADARILLE.
         Moy ? Rien ;  
 Je viens voir seulement si vous vous portez bien.  
 
-    OLIMPIE
+    OLIMPIE.
 Quoy, se peut-il, Monsieur, que mon mal-heur vous touche ?  
 
-    SPADARILLE
+    SPADARILLE.
 Vous n'en savez donc rien, ô la sainte Nitouche [145] !  
 
-    OLIMPIE
+    OLIMPIE.
 Non, daignez m'expliquer vos bizarres desseins.  
 
-    SPADARILLE
+    SPADARILLE.
 Je viens de voir Cleandre, il vous baise les mains.  
 
-    OLIMPIE
+    OLIMPIE.
 Quoy Cléandre est icy ?  
 
-    SPADARILLE
+    SPADARILLE.
         Point du tout, je me moque,  
 Je l'ay pris pour un autre, et c'est une equivoque.  
 
-    OLIMPIE
+    OLIMPIE.
 Pourquoy donc voulez-vous…  
 
-    SPADARILLE
+    SPADARILLE.
         Belzebut incarné,  
 Demon acariastre à me nuire obstiné,  
 C'est à tort à présent que ton [146] ame biaise [147] ;  
 Je say pour me trahir que tu fais la niaise,  
 Et que de ton honneur prevoyant l'abandon…  
 
-    OLIMPIE
+    OLIMPIE.
 Cet outrage…  
 
-    SPADARILLE
+    SPADARILLE.
         A vos yeux je demande pardon !  
 Quel que soit le forfait dont mon cœur vous soupçonne,  
 C'est vous faire une injure, équitable friponne ;  
 Et parmy vostre sexe outrageux à chacun,  
 Faire un mary Cocu c'est le vice commun.  
 
-    OLIMPIE
+    OLIMPIE.
 Enfin, expliquez-vous, qu'avez-vous à m'apprendre ?  
 
-    SPADARILLE
+    SPADARILLE.
 Rien ; sinon que j'ay veu l'un des doigts de Cleandre.  
 
-    OLIMPIE, *faisant la surprise*
+    OLIMPIE, *faisant la surprise*.
 Un des doigts de Cleandre ?  
 
-    SPADARILLE
+    SPADARILLE.
     Un des doigts.  
 
-    OLIMPIE
+    OLIMPIE.
         Un des doigts !  
 Si vous m'en assurez, aisément je le crois,  
 Mais qu'en concluez-vous ?  
 
-    SPADARILLE
+    SPADARILLE.
         Et qu'en peut-on conclure ?  
 Fin contre fin n'est pas bon à faire doublure [148]  
 La belle, et dans mon aage, il vous sied assez mal  
 De vouloir me charger d'un brevet d'animal [149].  
 
-    OLIMPIE
+    OLIMPIE.
 Ce langage confus…  
 
-    SPADARILLE
+    SPADARILLE.
         Vous rend l'ame éperduë [150],  
 Et je suis confondu de vous voir confonduë [151].  
 
-    OLIMPIE
+    OLIMPIE.
 Je ne puis rien comprendre à tout vostre discours.  
 
-    SPADARILLE *luy montrant les verroux*
+    SPADARILLE *luy montrant les verroux*.
 Voicy pour mettre obstacle à tous vos petits tours,  
 Les anneaux desormais n'iront plus en campagne,  
 Et vous estes sevrée [152], amoureuse Compagne.  
 
-    OLIMPIE
+    OLIMPIE.
 Finissez ces discours, ils sont extravagants.  
 
-    SPADARILLE
+    SPADARILLE.
 Je suis donc fou ?  
 
-    OLIMPIE
+    OLIMPIE.
     Du moins on le croit.  
 
-    SPADARILLE
+    SPADARILLE.
         Bas les gands.  
 
-    OLIMPIE
+    OLIMPIE.
 Quoy, Monsieur…  
 
-    SPADARILLE
+    SPADARILLE.
     Bas les gands.  
 
-    OLIMPIE
+    OLIMPIE.
     Mais au moins…  
 
-    SPADARILLE
+    SPADARILLE.
         Bas, vous dis-je.  
 
-    OLIMPIE
+    OLIMPIE.
 Si…  
 
-    SPADARILLE
+    SPADARILLE.
     Bas, vous dis-je.  
 
-    OLIMPIE
+    OLIMPIE.
         Encor, quel dessein vous oblige…  
 
-    SPADARILLE
+    SPADARILLE.
 Bas, vous dis-je, et tantost votre esprit esclaircy…  
 appercevant le mesme anneau qu'avait Cleandre
 
 Mais vertu-bieu [153] que vois-je ? Et que Diable est-ce cy ?  
 Que cét anneau ressemble à celuy de Cleandre !  
 
-    OLIMPIE
+    OLIMPIE.
 Ils sont bas.  
 
-    SPADARILLE
+    SPADARILLE.
         Sur ma foy je n'y puis rien comprendre,  
 Et ces anneaux tous deux ont un rapport si grand,  
 Que plus on les regarde, et plus on s'y méprend.  
@@ -1763,97 +1763,97 @@ Vous pouvez cependant, rechausser la mitaine [154],
 Puis apres de rentrer il faut prendre la peine,  
 Aussi bien un vieillard adresse icy ses pas.  
 
-    OLIMPIE
+    OLIMPIE.
 Amour…  
 
-    SPADARILLE
+    SPADARILLE.
         Entrez, entrez, et ne raisonnez pas.  
 
 
-## SCENE VII
+## SCENE VII.
 ALCIDOR, SPADARILLE
 
 
-    ALCIDOR
+    ALCIDOR.
 Monsieur le Gouverneur⁎ dont je suis le beau-pere,  
 Je viens…  
 
-    SPADARILLE *enfermant sa femme*
+    SPADARILLE *enfermant sa femme*.
         Beau-pere, ou non, laissez nous [155] un peu faire,  
 Quand nostre huys [156] une fois sera clos à plaisir [157],  
 De vous voir pleinement nous aurons le loisir ;  
 Taisez-vous donc.  
 
-    ALCIDOR
+    ALCIDOR.
     Monsieur, mais…  
 
-    SPADARILLE
+    SPADARILLE.
         Mais Monsieur vous mesme,  
 Dont le morne visage est passablement blesme.  
 
-    ALCIDOR
+    ALCIDOR.
 Je pretendois de vous qu'en faveur de mes soins…  
 
-    SPADARILLE
+    SPADARILLE.
 Un peu trop pretendant, pretendez un peu moins,  
 Et souffrez⁎, s'il vous plaist, qu'à mon tour je prétende…  
 
-    ALCIDOR
+    ALCIDOR.
 Mais Monsieur…  
 
-    SPADARILLE, *ayant achevé de fermer ses cadenats*
+    SPADARILLE, *ayant achevé de fermer ses cadenats*.
         Hé bien donc, ô Diseur de Legende [158],  
 Dont je suis obligé d'enfermer le present [159],  
 Si le cœur vous en dit, raisonnez à present.  
 
-    ALCIDOR
+    ALCIDOR.
 L'heur⁎ dont vostre alliance a comblé ma famille,  
 Fait que je viens icy m'informer de ma fille,  
 Dites-moy donc comment elle se porte.  
 
-    SPADARILLE
+    SPADARILLE.
         Bien.  
 
-    ALCIDOR
+    ALCIDOR.
 Et de ses mœurs, Monsieur, ne m'apprendrez-vous rien ?  
 Dites-moy, si par fois son humeur vous contente,  
 Si par fois cette humeur est pour vous complaisante ;  
 Tirez-moy de soucy, comment vit-elle ?  
 
-    SPADARILLE
+    SPADARILLE.
         Mal.  
 
-    ALCIDOR
+    ALCIDOR.
 Mal, bons Dieux ! ce mal-heur est pour moy sans égal.  
 Où peut-elle avoir pris de mauvaise teinture [160],  
 Elle, que de ses dons a comblé la nature [161] ?  
 Pour me faire un outrage elle a donc le sang…  
 
-    SPADARILLE
+    SPADARILLE.
         Chaud [162].  
 
-    ALCIDOR
+    ALCIDOR.
 C'est l'amour chaud [163] sans doute⁎, et plus chaud qu'il ne faut :  
 Mais n'est-ce point à tort qu'envers vous je la blâme ?  
 Ne luy faites vous rien qui chagrine son ame ?  
 Lors que vous la voyez, quel est son accueil ?  
 
-    SPADARILLE
+    SPADARILLE.
         Froid.  
 
-    ALCIDOR
+    ALCIDOR.
 D'en user de la sorte elle a bien peu de droit.  
 
-    SPADARILLE
+    SPADARILLE.
 D'accord ; mais de vous deux, moy l'Epoux et le Gendre,  
 Qui pour faire l'Amant⁎ pris le droit de Cleandre,  
 Sachez que j'aurois lieu de paraistre marry,  
 Si par droit reciproque il faisoit le mary.  
 
-    ALCIDOR
+    ALCIDOR.
 Cleandre, oseroit-il suborner [164]…  
 
-    SPADARILLE
+    SPADARILLE.
         D'Olimpie,  
 Il ayme, à ce qu'il dit, seulement la copie ;  
 Cependant d'un anneau je le trouve pourveu ;  
@@ -1870,117 +1870,117 @@ De Cleandre pourtant je crains peu la finesse⁎,
 Il doit en ce lieu mesme amener sa Maistresse⁎,  
 Je l'attends, nous verrons ; mais tenez je les voy.  
 
-    ALCIDOR
+    ALCIDOR.
 Il amene Olimpie.  
 
-    SPADARILLE
+    SPADARILLE.
         En effet, je le croy.  
 La seroit-ce ?  
 
-    ALCIDOR
+    ALCIDOR.
         Ce l'est ; quelle erreur vous domine ?  
 
-    SPADARILLE
+    SPADARILLE.
 Ma foy, si ce ne l'est, elle en a bien la mine.  
 
 
-## SCENE VIII
+## SCENE VIII.
 SPADARILLE, CLEANDRE, OLIMPIE, sous le nom d'Aspasie, ALCIDOR, CASCARET
 
 
-    SPADARILLE *appelle sa femme à travers de la porte*
+    SPADARILLE *appelle sa femme à travers de la porte*.
 Olimpie !  
 
-    OLIMPIE *bas à Cleandre*
+    OLIMPIE *bas à Cleandre*.
     Ah Cleandre !  
 
-    CLEANDRE
+    CLEANDRE.
         Ah daignez tenir bon,  
 Madame.  
 
-    CASCARET
+    CASCARET.
         Ou je me trompe, ou j'auray du baston.  
 
-    SPADARILLE *continuë*
+    SPADARILLE *continuë*.
 Olimpie ! ah j'enrage.  
 
-    ALCIDOR
+    ALCIDOR.
         Il s'eschauffe la bile.  
 
-    CASCARET
+    CASCARET.
 Vous me parliez tantost de m'envoyer en Ville  
 Monsieur.  
 
-    CLEANDRE
+    CLEANDRE.
     Poltron fieffé [165].  
 
-    SPADARILLE *continuë*
+    SPADARILLE *continuë*.
         Tout cecy me confond [166].  
 Olimpie ! écoutez comme elle me répond !  
 De ce tracas, Beau-pere, en un mot que vous semble.  
 
-    ALCIDOR
+    ALCIDOR.
 J'ay peur que ce ne soit Olimpie.  
 
-    SPADARILLE
+    SPADARILLE.
         Et j'en tremble :  
 Mais on pourroit sortir aussi-tost [167] de l'Enfer,  
 Sa cheminée est close, et de grilles de fer,  
 J'ay de mesme matiere estoffé sa fenestre,  
 Beau-pere !  
 
-    ALCIDOR
+    ALCIDOR.
         S'il est vray, ce ne peut donc pas l'estre.  
 
-    SPADARILLE
+    SPADARILLE.
 Assez adroitement je la vais pressentir [168] ;  
 Je vous crois Olimpie, et ne crois pas mentir,  
 Si vous ne l'estes pas pour le moins sa jumelle [169],  
 Daignez quelque moment discourir avec elle ;  
 Entrez jusqu'en sa chambre, et trouvez à propos…  
 
-    OLIMPIE
+    OLIMPIE.
 Monsieur…  
 
-    SPADARILLE
+    SPADARILLE.
         Vous luy direz seulement quatre mots,  
 Je vous en prie.  
 
-    OLIMPIE
+    OLIMPIE.
     Il faut…  
 
-    SPADARILLE
+    SPADARILLE.
         Il ne faut autre chose.  
 
-    CLEANDRE
+    CLEANDRE.
 Des plaintes d'Olimpie elle ignore la case,  
 Ainsi…  
 
-    SPADARILLE
+    SPADARILLE.
         Mon Dieu, Monsieur, parlez à vostre écot [170].  
 
-    ALCIDOR
+    ALCIDOR.
 Ce n'est pas…  
 
-    SPADARILLE
+    SPADARILLE.
         Vous aussi, taisez-vous, idiot.  
 
-    OLIMPIE
+    OLIMPIE.
 Pour moy, Monsieur, le Ciel me deviendroit propice,  
 S'il m'offroit un moyen de vous rendre service ;  
 Mais enfin sur le point de partir…  
 
-    SPADARILLE
+    SPADARILLE.
         Par ma foy  
 Vous entrerez, Madame, ou vous direz pourquoy.  
 
-    OLIMPIE
+    OLIMPIE.
 Je puis…  
 
-    SPADARILLE
+    SPADARILLE.
         Entrez, vous dis-je, ou bien point de Patente⁎.  
 
-    OLIMPIE
+    OLIMPIE.
 Vous pouvoir obliger⁎ c'est me rendre contente ;  
 Mais envers Olimpie agréez mon respect,  
 Un visage inconnu luy peut estre suspect,  
@@ -1988,50 +1988,50 @@ Durant donc un adieu qu'à l'instant je vais faire,
 Sachez si ma visite aura droit de luy plaire,  
 Et tandis que Cleandre attendra mon retour…  
 
-    SPADARILLE
+    SPADARILLE.
 C'est fort bien dit, allez.  
 
-    OLIMPIE *à Cleandre en s'en allant*
+    OLIMPIE *à Cleandre en s'en allant*.
         Je prépare un detour,  
 Et quoy que de ma part ce perfide pretende…  
 
-    SPADARILLE
+    SPADARILLE.
 Que luy dites-vous là ?  
 
-    OLIMPIE
+    OLIMPIE.
         Je luy dis qu'il m'attende.  
 
-    SPADARILLE
+    SPADARILLE.
 Bon cela [171].  
 
-    CLEANDRE
+    CLEANDRE.
         J'obéïs, et n'y contredis pas.  
 Cascaret, d'Aspasie accompagne les pas.  
 
 
-## SCENE IX
+## SCENE IX.
 SPADARILLE, CLEANDRE, ALCIDOR
 
 
-    SPADARILLE
+    SPADARILLE.
 Or ça, notre Beau-pere, et vous Sire Cleandre,  
 Qui jadis malgré luy vouliez estre son gendre,  
 Je vais vous faire voir Olimpie à l'instant.  
 
-    ALCIDOR *qui craint qu'Olimpie ne soit pas encores rentrée*
+    ALCIDOR *qui craint qu'Olimpie ne soit pas encores rentrée*.
 Si j'en suis crû, Monsieur, ne vous hastez pas tant.  
 
-    SPADARILLE
+    SPADARILLE.
 Et pourquoy ?  
 
-    ALCIDOR
+    ALCIDOR.
         Tout l'amour que Cleandre eut pour elle  
 Pourra se rallumer à l'aspect…  
 
-    SPADARILLE
+    SPADARILLE.
         Bagatelle [172].  
 
-    CLEANDRE
+    CLEANDRE.
 En effect la beauté que je vous ay fait voir,  
 De tout autre visage affoiblit le pouvoir :  
 Et s'il faut que mon ame à vos yeux se découvre,  
@@ -2041,24 +2041,24 @@ Pour paraistre Olimpie il ne faut que le nom.
 C'est pour ce seul object qu'en secret je soupire,  
 Pour sa seule pensée je languis.  
 
-    SPADARILLE
+    SPADARILLE.
         C'est tout dire,  
 Et pour l'amour de vous je m'en vais de ce pas  
 Réveiller les ressorts [173] de mes six Cadenats.  
 
 
-## SCENE X
+## SCENE X.
 ALCIDOR, CLEANDRE, et Spadarille au bout du Theatre [174] qui ouvre ses Cadenats
 
 
-    ALCIDOR
+    ALCIDOR.
 Parlons bas. Enfin brave Cleandre  
 Ma fille en peu de temps en vos bras se va rendre :  
 Si d'avec ce brutal son hymen se détruit,  
 De vos soins genereux vous aurez tout le fruit.  
 Mais surtout que l'honneur.  
 
-    CLEANDRE
+    CLEANDRE.
         Je vois peu d'apparence  
 A pouvoir affranchir d'une injuste puissance ;  
 Mais enfin quelque effet qui succede à mes yeux,  
@@ -2070,90 +2070,90 @@ La vertu mal-heureuse ait le droict d'exiger.
 Ainsi…  
 
 
-## SCENE XI
+## SCENE XI.
 SPADARILLE, OLIMPIE, CLEANDRE, ALCIDOR
 
 
-    SPADARILLE
+    SPADARILLE.
         Mes cadenats sont ouverts. Hola [175] la Belle,  
 Venez-ça. Pourquoy donc se frotter la prunelle ?  
 Qu'avez-vous ?  
 
-    OLIMPIE *faisant exprés l'endormie*
+    OLIMPIE *faisant exprés l'endormie*.
         Du sommeil, les pavots [176] gracieux  
 Assoupissent mon ame, et me sillent les yeux [177] ;  
 Depuis une heure ou deux, leur douceur pour confondre [178]…  
 
-    SPADARILLE
+    SPADARILLE.
 Elle avoit bien raison de ne pas me répondre  
 Vraiment ! ça la dormeuse au sommeil un peu dur,  
 Qui n'avez pû m'entendre à travers de ce mur,  
 Ouvrez les yeux.  
 
-    OLIMPIE *faisant l'estonnée*
+    OLIMPIE *faisant l'estonnée*.
         Mon Pere ! ô destin quelle grace !  
 
-    ALCIDOR
+    ALCIDOR.
 Ma fille !  
 
-    SPADARILLE *lui montrant Cléandre*
+    SPADARILLE *lui montrant Cléandre*.
         Et celuy-cy, Bel enfant, qui sera-ce ?  
 
-    OLIMPIE
+    OLIMPIE.
 O Dieux !  
 
-    CLEANDRE *à Sparadille*
+    CLEANDRE *à Sparadille*.
         Souffrez⁎ qu'icy je me regle sur vous,  
 Et que de cét Objet je devienne jaloux ;  
 Je crois voir Aspasie, et mon Ame confuse  
 Voudroit…  
 
-    SPADARILLE
+    SPADARILLE.
         Le tour est bon ; Peste soit de la Buze [179].  
 
-    CLEANDRE
+    CLEANDRE.
 C'est un peu vainement que vous estes surpris,  
 C'est elle.  
 
-    SPADARILLE
+    SPADARILLE.
         Il veut sans doute⁎ égayer nos esprits,  
 Pauvre Butor [180] !  
 
-    OLIMPIE
+    OLIMPIE.
         Et quoy, de la part de Cleandre,  
 Est-ce là tout l'accueil que j'ay droit de pretendre ?  
 
-    CLEANDRE
+    CLEANDRE.
 Aspasie est-ce vous dont les yeux éclatants…  
 
-    SPADARILLE
+    SPADARILLE.
 Quand les gens sont si sots, ils le sont pour longtemps,  
 Je le trouve bouffon avec sa jalousie.  
 
-    CLEANDRE
+    CLEANDRE.
 Daignez donc me répondre, est-ce vous Aspasie ?  
 Dissipez le chagrin qui me rend assoupy,  
 Et pour le moins.  
 
-    SPADARILLE
+    SPADARILLE.
         Beau-pere, *et pecora campi* [181].  
 Quoy, vous n'en riez point ?  
 
-    CLEANDRE *à Spadarille*
+    CLEANDRE *à Spadarille*.
         Esclaircissez mon ame,  
 Monsieur, ne l'est-ce pas ?  
 
-    SPADARILLE *en riant*
+    SPADARILLE *en riant*.
         Non ma foy, c'est ma femme.  
 
-    CLEANDRE *à Olimpie*
+    CLEANDRE *à Olimpie*.
 Veuillez donc m'excuser si pour m'estre mépris…  
 
-    OLIMPIE
+    OLIMPIE.
 A vostre indifference ajouster le mépris,  
 Cleandre, et feindre icy de ne pas me connaistre ?  
 
-    CLEANDRE
+    CLEANDRE.
 J'ay toûjours tout l'amour que vos yeux firent naistre ;  
 Mais si mon cœur soupire, apprenez qu'il m'est doux  
 De le voir soupirer pour une autre que vous :  
@@ -2162,32 +2162,32 @@ Mais cette autre que vous est une autre vous-mesme ;
 Et mon amour éteint seroit tout consumé,  
 Si vos mesmes appas [182] ne l'avoient rallumé.  
 
-    SPADARILLE *à Alcidor*
+    SPADARILLE *à Alcidor*.
 Quel niais compliment ce badin luy va faire !  
 
-    ALCIDOR
+    ALCIDOR.
 Il est fou.  
 
-    OLIMPIE *à Cleandre*
+    OLIMPIE *à Cleandre*.
         Quelque Objet a donc l'heur⁎ de vous plaire ?  
 
-    CLEANDRE
+    CLEANDRE.
 Ouy, Madame, et de plus cét Objet plein d'appas  
 En merite, en vertu ne vous cederoit [183] pas :  
 Quelque chose de plus est dans celle que j'ayme,  
 Et…  
 
-    SPADARILLE
+    SPADARILLE.
         Ne disons point plus ; mais disons tout de mesme.  
 
-    OLIMPIE
+    OLIMPIE.
 Et quoy, pour vous vanger du refus qu'on vous fist,  
 Vous osez…  
 
-    CLEANDRE
+    CLEANDRE.
     J'ay raison d'oser dire…  
 
-    OLIMPIE *dans une feinte colere*
+    OLIMPIE *dans une feinte colere*.
         Il suffit,  
 Je connois vos desseins, et vous estes un lasche,  
 Dont l'indigne mépris, et me choque, et me fasche :  
@@ -2195,10 +2195,10 @@ Ne croyez pas pourtant que l'outrage soit grand,
 Vostre amour, vostre choix, tout m'est indifferend :  
 Et ne presumez [184] pas…  
 
-    CLEANDRE
+    CLEANDRE.
     Quoy, Madame…  
 
-    OLIMPIE
+    OLIMPIE.
         Quoy, Traistre,  
 Vous avez pu m'aymer, et m'osez méconnaistre ?  
 Et pretendez me faire un outrage odieux,  
@@ -2206,47 +2206,47 @@ Qu'estaller par mépris vostre choix à mes yeux ?
 Je dédaigne à mon tour vos indignes approches,  
 Allez.  
 
-    SPADARILLE
+    SPADARILLE.
         Il est penaut comme un fondeur de cloches [185].  
 C'est qu'il ayme…  
 
-    OLIMPIE
+    OLIMPIE.
     Et qu'importe ?  
 
-    SPADARILLE
+    SPADARILLE.
         Il importe fort peu ;  
 Mais je veux vous monstrer à l'Objet de son feu :  
 Bien-tost dans cet endroit nous aurons sa presence.  
 
-    OLIMPIE
+    OLIMPIE.
 Moy, Monsieur, me resoudre à cette complaisance ?  
 Que je puisse…  
 
-    SPADARILLE
+    SPADARILLE.
         Mon Dieu, forcez-vous de la voir,  
 Et taschez…  
 
-    OLIMPIE
+    OLIMPIE.
         Sur mes sens j'ay trop peu de pouvoir,  
 A m'expliquer ainsi son dédain m'authorise,  
 J'ay peu de complaisance envers qui me méprise ;  
 Et quoy que mon Espoux, c'est avoir le cœur bas  
 Qu'exiger de mon ame un respect qu'il n'a pas.  
 
-    SPADARILLE
+    SPADARILLE.
 Mais enfin Aspasie…  
 
-    OLIMPIE
+    OLIMPIE.
         Aspasie ou Cleandre,  
 Je ne veux ny les voir, ny jamais les entendre,  
 Et prefere aux dédains de ce couple outrageux  
 L'inflexible rigueur d'un Espoux soupçonneux.  
 Renfermez-moy.  
 
-    ALCIDOR
+    ALCIDOR.
     Ma fille, est-il juste…  
 
-    OLIMPIE
+    OLIMPIE.
         Mon Pere,  
 Je ne fais rien icy qui ne soit nécessaire.  
 De Cleandre en un mot je connois le desir,  
@@ -2262,18 +2262,18 @@ Je ne veux ny les voir, ny jamais les entendre,
 Souscrivez [187] sans murmure [188] aux plus doux de mes vœux,  
 Adieu.  
 
-    SPADARILLE
+    SPADARILLE.
         Pauvre Galand te voilà bien chanceux !  
 
 
-## SCENE XII
+## SCENE XII.
 SPADARILLE, CLEANDRE, ALCIDOR
 
 
-    SPADARILLE
+    SPADARILLE.
 Vous voyez.  
 
-    CLEANDRE
+    CLEANDRE.
         Oüy, Monsieur, je voy ce qui se passe :  
 Si je m'en repentois j'aurois l'ame trop basse.  
 J'apperçois qu'Olimpie a pour moy de l'horreur :  
@@ -2285,90 +2285,90 @@ Quand des preuves de haine ont des marques d'amour.
 Mais je vois Aspasie.  
 
 
-## SCENE XIII
+## SCENE XIII.
 OLIMPIE sous le nom d'Aspasie, SPADARILLE, CLEANDRE,
 
 ALCIDOR, CASCARET
 
 
-    OLIMPIE *sous le nom d'Aspasie*
+    OLIMPIE *sous le nom d'Aspasie*.
         A Present pour vous plaire  
 Sur ce que j'ay promis je vous viens satisfaire.  
 Je puis voir Olimpie, et je suis sur le point  
 De luy rendre…  
 
-    SPADARILLE
+    SPADARILLE.
         A present, vous ne la verrez point,  
 Vous voila ce me semble assez bien attrapée⁎.  
 
-    OLIMPIE *sous le nom d'Apasie*
+    OLIMPIE *sous le nom d'Apasie*.
 Vous rendez en effect mon attente trompée,  
 Me manquer de parole, et depuis un instant…  
 
-    SPADARILLE
+    SPADARILLE.
 Olimpie en un mot, ne vous ayme pas tant,  
 Si vous ne m'en croyez pas, demandez à Cleandre.  
 
-    OLIMPIE *sous le nom d'Aspasie*
+    OLIMPIE *sous le nom d'Aspasie*.
 Quel sujet auroit-elle…  
 
-    [SPADARILLE]
+    [SPADARILLE].
         Il pourra vous l'apprendre.  
 
-    CLEANDRE
+    CLEANDRE.
 Lors…  
 
-    SPADARILLE
+    SPADARILLE.
         De vous écouter je n'ay pas le loisir,  
 Partez, ou demeurez, vous n'avez qu'à choisir.  
 
-    OLIMPIE *sous le nom d'Aspasie*
+    OLIMPIE *sous le nom d'Aspasie*.
 Et quoy…  
 
-    SPADARILLE
+    SPADARILLE.
         Tant de discours me font mal à la teste,  
 Voulez-vous partir ?  
 
-    CLEANDRE
+    CLEANDRE.
     Mais…  
 
-    SPADARILLE
+    SPADARILLE.
         Mais la Patente⁎ est preste,  
 Et qui plus est pour vous je la donne gratis,  
 Tenez.  
 
-    CLEANDRE
+    CLEANDRE.
         Puisqu'il vous plaist, nous voila donc partis,  
 Mais si pour m'acquitter de l'excez de vos graces  
 Je puis…  
 
-    SPADARILLE
+    SPADARILLE.
         N'affectons point d'importunes grimaces [189],  
 Si vous voulez partir, partez.  
 
-    CLEANDRE
+    CLEANDRE.
         Adieu Messieurs.  
 
-    SPADARILLE
+    SPADARILLE.
 Nostre Beau-pere et moy sommes vos serviteurs,  
 Adieu  
 
-    CLEANDRE, *bas à Olimpie*
+    CLEANDRE, *bas à Olimpie*.
         L'occasion ne peut estre plus belle,  
 Allons.  
 
-    CASCARET
+    CASCARET.
         Le pauvre Diable [190] ! il n'a plus de femelle [191],  
 Je le donne en dix coups [192] à qui fourbera mieux.  
 
-    ALCIDOR *bas*
+    ALCIDOR *bas*.
 Hastez-vous.  
 
-    OLIMPIE *à Cleandre*
+    OLIMPIE *à Cleandre*.
         Mais mon Pere, il fait signe des yeux,  
 S'il n'est hors de ses mains, mon soucy n'est pas moindre.  
 
-    CLEANDRE
+    CLEANDRE.
 N'en soyez point en peine, il saura nous rejoindre,  
 Nous avons rendez-vous, et j'en suis avoüé [193],  
 Allons.  
@@ -2376,11 +2376,11 @@ Ils s'en vont.
 
 
 
-## SCENE XIV
+## SCENE XIV.
 SPADARILLE, ALCIDOR
 
 
-    SPADARILLE *fort joyeux*
+    SPADARILLE *fort joyeux*.
         De tout cecy le bon Dieu soit loüé !  
 J'ay hors du pied, Beau-pere, une vilaine épine ;  
 De me tromper Cleandre avoit toute la mine,  
@@ -2391,11 +2391,11 @@ Ses transports d'allegresse auront lieu de pareistre !
 Du depart de Cleandre allons la resjoüyr,  
 Allons.  
 
-    ALCIDOR *bas*
+    ALCIDOR *bas*.
         De son erreur je le laisse joüyr,  
 Mais…  
 
-    SPADARILLE *à haute voix*
+    SPADARILLE *à haute voix*.
         Il n'est plus icy ce Cleandre, Mamie,  
 Venez, venez.  
 Voyant qu'elle ne répond pas
@@ -2406,112 +2406,112 @@ Mais entrons l'un et l'autre, et l'allons réveiller,
 Loin d'en estre marrie, elle aura de la joye,  
 Entrons.  
 
-    ALCIDOR *bas*
+    ALCIDOR *bas*.
         De me vanger je découvre une voye ;  
 Je tiens.  
 
-    SPADARILLE
+    SPADARILLE.
     Sus [195], Beau-pere, entrez donc.  
 
-    ALCIDOR
+    ALCIDOR.
         Ah ! Monsieur,  
 Je say trop…  
 
-    SPADARILLE
+    SPADARILLE.
         Je say trop qu'on me doit de l'honneur,  
 Mais entrez.  
 
-    ALCIDOR
+    ALCIDOR.
         Moy commettre une faute si grande !  
 
-    SPADARILLE
+    SPADARILLE.
 Entrez, vous dis-je.  
 
-    ALCIDOR
+    ALCIDOR.
     Mais…  
 
-    SPADARILLE
+    SPADARILLE.
         Mais je vous le commande.  
 
-    ALCIDOR
+    ALCIDOR.
 De grace…  
 
-    SPADARILLE
+    SPADARILLE.
         Obéissez, Courtisan mal éclos [196].  
 
-    ALCIDOR
+    ALCIDOR.
 Monsieur…  
 
-    SPADARILLE
+    SPADARILLE.
         S'il en fait rien qu'on me brise les os.  
 
-    ALCIDOR
+    ALCIDOR.
 Ce que je suis, Monsieur, me permet de vous rendre.  
 
-    SPADARILLE
+    SPADARILLE.
 Vous estes mon Beau-pere, et je suis vostre Gendre,  
 Avec vos pieds de veau [197], passez donc.  
 
-    ALCIDOR
+    ALCIDOR.
         Si jamais…  
 
-    SPADARILLE
+    SPADARILLE.
 Sans tant dire de si, ny de car, ny de mais,  
 Courtois souple-jaret [198] qui semblez par bravade  
 Pour me faire enrager vouloir faire gambade [199],  
 Entrez.  
 
-    ALCIDOR
+    ALCIDOR.
         Mais quand je songe aux respects que je doy…  
 
-    SPADARILLE
+    SPADARILLE.
 Respectueux Beau-pere, entrez donc apres moy,  
 Puis qu'en vos sentiments vous demeurez si ferme.  
 
-    ALCIDOR
+    ALCIDOR.
 Un cadenat sans clef aisément se refferme,  
 Il est pris.  
 
-    SPADARILLE *dedans la chambre*
+    SPADARILLE *dedans la chambre*.
     Suivez donc.  
 
-    ALCIDOR
+    ALCIDOR.
         Je n'ay pas le loisir.  
 
-    SPADARILLE
+    SPADARILLE.
 Vous m'enfermez !  
 
-    ALCIDOR
+    ALCIDOR.
     D'accord.  
 
-    SPADARILLE
+    SPADARILLE.
     Pourquoy ?  
 
-    ALCIDOR
+    ALCIDOR.
         Pour mon plaisir.  
 
-    SPADARILLE
+    SPADARILLE.
 Ah trigaut [200] malfaisant, si je sors je te jure…  
 
-    ALCIDOR
+    ALCIDOR.
 Tu [201] ne sortiras pas, c'est moy qui t'en assure ;  
 Mais sans tenir icy d'inutiles propos,  
 Tu peux par ta fenestre écouter quatre mots.  
 
-    SPADARILLE *à sa fenestre*
+    SPADARILLE *à sa fenestre*.
 Execrable Barbon [202] que ne puis-je descendre,  
 Tu verrois.  
 
-    ALCIDOR
+    ALCIDOR.
         Olimpie est aux mains de Cleandre,  
 Mais de quelques desirs dont il soit combattu,  
 Il est trop genereux pour soüiller sa vertu.  
 
-    SPADARILLE
+    SPADARILLE.
 Gueux par moy revestu [203], que Dieu puisse confondre [204],  
 En ses mains !  
 
-    ALCIDOR
+    ALCIDOR.
         En ses mains, et je puis t'en répondre [205],  
 Mais [206] l'horrible deffaut que chacun connoit bien,  
 Pour rompre un mariage est un trop seur moyen.  
@@ -2522,14 +2522,14 @@ Est de voir qu'un Barbare ait le titre d'Epoux.
 En entrant le premier tu m'as mis hors de peine,  
 Adieu.  
 
-    SPADARILLE
+    SPADARILLE.
         Tu t'en vas donc, Marchand de Chair humaine,  
 Au voleur, au voleur.  
 
 
-## SCENE XV, ET DERNIERE
+## SCENE XV, ET DERNIERE.
 
-    SPADARILLE *à sa fenestre*
+    SPADARILLE *à sa fenestre*.
         Le traistre est échapé,  
 Il court comme un beau Diable, et je suis attrapé⁎.  
 Jamais fusté Renard dans sa propre tasniere,  
@@ -2543,7 +2543,7 @@ Songez que qui s'en passe est bien-aymé de Dieu.
 FIN
 
 
-## Lexique du Jaloux endormiAmant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 50, v. 114, v. 173, v. 188, v. 292Amoureux « Qui a de la passion pour quelque chose, ou quelque personne. » (Furetière).Acteurs, v. 113Attraper « Se dit aussi de toutes les choses où on est trompé innocemment. » (Furetière).V. 471Prendre au piège.V. 546Finesse « Ruse, astuce. » (Dictionnaire de l'Académie française, 1694).V. 307, v. 549Gouverneur« Officier du Roy qui commande dans une Province, dans une place. … Un *Gouverneur* represente le Roy dans une place, et commande non seulement à la garnison, mais aussi aux bourgeois, et à toutes les trouppes qui entrent dans sa place. » (Furetière).Acteurs, v. 159, v. 263Heur Bonne fortune.V. 275, v. 416Quand « Encore que » (Furetière).DédicaceMaistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).V. 207, v. 308Mignon « Favory, soit en matiere d'amitié, soit d'amour. La plupart des Princes ont des *mignons*, des favoris qui les gouvernent. Beaucoup des Dames ont des *mignons*, de couchette. » (Furetière).V. 84, v. 169Murmurer « Se plaindre tout bas et avec timidité » (Furetière).V. 25, v. 57Obliger « Faire plaisir, rendre de bons offices à quelqu'un. » (Dictionnaire de l'Académie française, 1694).V. 204, v. 340, v. 452Patente Les patentes ou lettres patentes « sont des Lettres du Roy scellées du grand sceau, qui servent de titre pour la concession de quelque octroy, grace, privilege, de quelque établissement. Elles doivent estre signées en commandement d'un Secretaire d'Estat, et verifiées dans les Parlements. Ce que sont les Edits pour le public, les *Patentes* le sont à l'égard des particuliers. » (Furetière).Ce mot est une allusion au métier de Gouverneur de Spadarille.V. 179, v. 199, v. 339, v. 480Prime « Signifie aux cartes une espece de jeu qui a eu grande vogue. Joüez à *prime* à grande *prime*, à petite *prime*. » (Furetière).V. 92, v. 94Sans doute Assurément.V. 79, v. 286, v. 394Souffrir Permettre.V. 29, v. 44, v. 271, v. 389
+## Lexique du Jaloux endormi.Amant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 50, v. 114, v. 173, v. 188, v. 292Amoureux « Qui a de la passion pour quelque chose, ou quelque personne. » (Furetière).Acteurs, v. 113Attraper « Se dit aussi de toutes les choses où on est trompé innocemment. » (Furetière).V. 471Prendre au piège.V. 546Finesse « Ruse, astuce. » (Dictionnaire de l'Académie française, 1694).V. 307, v. 549Gouverneur« Officier du Roy qui commande dans une Province, dans une place. … Un *Gouverneur* represente le Roy dans une place, et commande non seulement à la garnison, mais aussi aux bourgeois, et à toutes les trouppes qui entrent dans sa place. » (Furetière).Acteurs, v. 159, v. 263Heur Bonne fortune.V. 275, v. 416Quand « Encore que » (Furetière).DédicaceMaistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).V. 207, v. 308Mignon « Favory, soit en matiere d'amitié, soit d'amour. La plupart des Princes ont des *mignons*, des favoris qui les gouvernent. Beaucoup des Dames ont des *mignons*, de couchette. » (Furetière).V. 84, v. 169Murmurer « Se plaindre tout bas et avec timidité » (Furetière).V. 25, v. 57Obliger « Faire plaisir, rendre de bons offices à quelqu'un. » (Dictionnaire de l'Académie française, 1694).V. 204, v. 340, v. 452Patente Les patentes ou lettres patentes « sont des Lettres du Roy scellées du grand sceau, qui servent de titre pour la concession de quelque octroy, grace, privilege, de quelque établissement. Elles doivent estre signées en commandement d'un Secretaire d'Estat, et verifiées dans les Parlements. Ce que sont les Edits pour le public, les *Patentes* le sont à l'égard des particuliers. » (Furetière).Ce mot est une allusion au métier de Gouverneur de Spadarille.V. 179, v. 199, v. 339, v. 480Prime « Signifie aux cartes une espece de jeu qui a eu grande vogue. Joüez à *prime* à grande *prime*, à petite *prime*. » (Furetière).V. 92, v. 94Sans doute Assurément.V. 79, v. 286, v. 394Souffrir Permettre.V. 29, v. 44, v. 271, v. 389
 LE MORT VIVANT
 
 COMÉDIE
@@ -2558,7 +2558,7 @@ A PARIS, Chez N. PEPINGUE', en la grande Salle du Palais, vis à vis les Consult
 Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2014-2015)
 
 
-## A MONSEIGNEUR LE DUC DE GUISE [210] 
+## A MONSEIGNEUR LE DUC DE GUISE [210]. 
 
 MONSEIGNEUR,
 
@@ -2575,7 +2575,7 @@ Et tres-passionné Serviteur [211],
 BOURSAULT
 
 
-## PERSONNAGES 
+## PERSONNAGES. 
  – FERDINAND,creu Pere de Stephanie [212]
  – STEPHANIE,Fille d'Henriquez
  – LAZARILLE,Frere de Stephanie, et Amoureux d'elle
@@ -2588,37 +2588,37 @@ La Scene est à Seville
 
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 FABRICE, GUSMAN
 
 
-    GUSMAN
+    GUSMAN.
 OUY, la peste m'estouffe, il luy fait les doux yeux.  
 
-    FABRICE
+    FABRICE.
 Railleur.  
 
-    GUSMAN
+    GUSMAN.
     Je raille donc ?  
 
-    FABRICE
+    FABRICE.
     Je le croy.  
 
-    GUSMAN
+    GUSMAN.
         Pleut aux Dieux !  
 Mais de la verité c'est la voix que j'emprunte,  
 Quand je dis que pour vous la Donzelle est deffunte [214],  
 Et que par un destin plus funeste que doux,  
 Elle vit pour un autre, en trépassant pour vous.  
 
-    FABRICE
+    FABRICE.
 Quoy, Gusman, Lazarille aimeroit Stephanie ?  
 Tu feins.  
 
-    GUSMAN
+    GUSMAN.
         De mon discours toute feinte est bannie,  
 Dés hyer, les écoutant, sans qu'aucun m'apperçeut,  
 L'un s'offrit pour Espoux, et l'autre le reçeut :  
@@ -2627,13 +2627,13 @@ De l'objet qui vous charme, il faut faire diète [216] ;
 Et sans de vostre part qu'on entende du bruit,  
 Souffrir⁎ que de vos feux Lazarille ait le fruit.  
 
-    FABRICE
+    FABRICE.
 Point, Lazarille m'aime, il me l'a fait paraistre,  
 Il n'a point de secret qui pour moy le doive estre ;  
 Si quelque amour pour elle il avoit ressenty,  
 Gusman, il est sincere.  
 
-    GUSMAN
+    GUSMAN.
         Et mes yeux ont menty ?  
 Mais si je puis surprendre et Monsieur et Madame,  
 Et que tous deux ensemble ils parlent de leur flâme :  
@@ -2641,59 +2641,59 @@ Si je puis vous monstrer qu'ils s'entraiment tous deux,
 Qu'elle est de luy charmée, et luy d'elle Amoureux,  
 Que direz-vous alors ?  
 
-    FABRICE
+    FABRICE.
         Je loüeray ta conduite.  
 
-    GUSMAN
+    GUSMAN.
 Allons nous en disner, et revenons en suite :  
 Dans une heure au plus tard dans ce mesme jardin,  
 Nous verrons qui des deux doit passer pour Badin [217] :  
 Mais de l'objet aymé⁎ le Pere icy se monstre.  
 
-    FABRICE
+    FABRICE.
 De ce fascheux Vieillard évitons la rencontre.  
 
 
-### SCENE II
+### SCENE II.
 FERDINAND, STEPHANIE
 
 
-    FERDINAND
+    FERDINAND.
 Es-tu là Stephanie ? Ostes-moy de soucy :  
 Répons. Ah ! te voila.  
 
     STEPHANIE *à une fenestre*.
     Sans doute [218].  
 
-    FERDINAND
+    FERDINAND.
         Et me voicy ;  
 Mais de là jusqu'icy l'espace estant si grande [219],  
 Il faut que dans ce lieu ta personne descende,  
 Pour d'une Ame tranquile écouter mon discours.  
 Descends-donc.  
 
-    STEPHANIE
+    STEPHANIE.
     J'obeïs.  
 
-    FERDINAND
+    FERDINAND.
     Mais haste-toy.  
 
-    STEPHANIE
+    STEPHANIE.
         Je cours.  
 
-    FERDINAND
+    FERDINAND.
 En t'appellant, sçais-tu quel succèz j'en espere ?  
 
-    STEPHANIE
+    STEPHANIE.
 Non, Monsieur.  
 
-    FERDINAND
+    FERDINAND.
         Tu sçais bien qu'on me nomme ton Pere ?  
 
-    STEPHANIE
+    STEPHANIE.
 Oüy, Monsieur.  
 
-    FERDINAND
+    FERDINAND.
         Sçache encor qu'il n'est rien de cela,  
 Que ce n'est que de nom que je fus ton Papa,  
 Et malgré ta vertu dont tousjours l'éclat brille,  
@@ -2718,11 +2718,11 @@ Sers-toy donc à present du pouvoir de tes yeux,
 Qui dans trois ou quatre ans deviendront chassieux [221] :  
 Que veux-tu me répondre à ce que je propose ?  
 
-    STEPHANIE
+    STEPHANIE.
 Que pour vous obeïr je feray toute chose,  
 Je suis preste, ordonnez.  
 
-    FERDINAND
+    FERDINAND.
         Ta haute humilité,  
 Ne me charme pas moins que feroit ta beauté :  
 Mais au bon-heur offert devenir si sensible,  
@@ -2730,10 +2730,10 @@ De ton pressentiment c'est l'effect infaillible,
 Et je ne doute pas que tu vois aisément  
 Que qui n'est plus ton Pere, est enfin ton Amant⁎.  
 
-    STEPHANIE
+    STEPHANIE.
 Vous Monsieur, mon Amant⁎ ?  
 
-    FERDINAND
+    FERDINAND.
         Oüy, moy-mesme à toy-mesme,  
 Je découvre mon Ame, et te dis que je t'ayme⁎,  
 Et qu'il est necessaire à l'ardeur de mes feux,  
@@ -2743,43 +2743,43 @@ Et si dans ce moment tu fourmilles de charmes,
 Nostre premier enfant, estant fille ou garçon,  
 Sera plus beau qu'un Ange, ou plus fort qu'un Sanson [223].  
 
-    STEPHANIE
+    STEPHANIE.
 Quoy, Monsieur …  
 
-    FERDINAND
+    FERDINAND.
         A ton tour tu veux m'ouvrir ton Ame,  
 Et répondre au plaisir que te cause ma flâme,  
 Mais pour toy ma bonté qui te sert de secours,  
 Veut à ta modestie épargner ce discours.  
 
-    STEPHANIE
+    STEPHANIE.
 Ah daignez m'écouter : et souffrez⁎ que j'embrasse…  
 
-    FERDINAND
+    FERDINAND.
 Quoy, te mettre à genoux pour mieux me rendre grace ?  
 Crains-tu que je t'eschappe ? Ah ! Ne t'allarme pas,  
 Quoy qu'il puisse arriver apprends que tu m'auras :  
 Mais rentre promptement, car je vois Lazarille,  
 Il s'avance.  
 
-    STEPHANIE
+    STEPHANIE.
         Oh mal-heur ! Que ne suis-je sa fille.  
 
 
-### SCENE III
+### SCENE III.
 LAZARILLE, FERDINAND
 
 
-    LAZARILLE
+    LAZARILLE.
 De tous vos serviteurs estant le plus soûmis,  
 Un libre accez chez vous me fust toûjours permis,  
 Monsieur, et vous m'avez à toutes mes visites  
 Fait des civilitez par delà mes merites.  
 
-    FERDINAND
+    FERDINAND.
 Couvrez-vous.  
 
-    LAZARILLE
+    LAZARILLE.
         Mais enfin, apres tant de bontez,  
 Mes yeux de Stephanie ayant vu les beautez,  
 D'adorer ses attraits je ne pûs me deffendre ;  
@@ -2787,54 +2787,54 @@ Si bien que dans l'espoir de me voir vostre gendre,
 Je viens d'un zele ardent embrasser vos genoux,  
 Afin que vous souffriez⁎ [224] que je sois son Espoux.  
 
-    FERDINAND
+    FERDINAND.
 Fort bien.  
 
-    LAZARILLE
+    LAZARILLE.
         Je ne dis rien d'une ardeur infinie,  
 Suffit que chaque jour vous voyiez Stephanie,  
 Peut-on ne pas l'aymer⁎ sans manquer de raison ?  
 
-    FERDINAND
+    FERDINAND.
 Vous ne pouviez venir en meilleure saison.  
 
-    LAZARILLE
+    LAZARILLE.
 Donc à ma passion [225] vous estes favorable ?  
 Donc je puis esperer cét objet adorable ?  
 De vostre affection je suis trop éclaircy ;  
 Quoy vous me preparez…  
 
-    FERDINAND
+    FERDINAND.
         Un refus, Dieu-mercy.  
 
-    LAZARILLE
+    LAZARILLE.
 Un refus ?  
 
-    FERDINAND
+    FERDINAND.
     Un refus.  
 
-    LAZARILLE
+    LAZARILLE.
         Ah ! Du moins que je sçache  
 Si parmy mon ardeur vous trouvez quelque tache.  
 
-    FERDINAND
+    FERDINAND.
 Nenny [226], mais par un sort qui pour vous est fatal,  
 Vous avez le mal-heur de m'avoir pour Rival.  
 
-    LAZARILLE
+    LAZARILLE.
 Vous aymez⁎ vostre fille ? Ah ! Si par quelque ruse…  
 
-    FERDINAND
+    FERDINAND.
 Tout chacun m'en croit Pere et tout chacun s'abuse,  
 Je vous crûs de tout temps un Amy si discret,  
 Que je puis à vos yeux exposer un secret :  
 Mais il faut toutesfois m'asseurer de se taire.  
 
-    LAZARILLE
+    LAZARILLE.
 De ce triste secret quel que soit le mystere,  
 Parlez, de vos Amis je suis l'un des plus grands.  
 
-    FERDINAND
+    FERDINAND.
 Il y peut bien avoir prés de cinq fois quatre ans,  
 Qu'une Dame à cheval, qu'avoit un homme en croupe,  
 Passa par cette ville, allant à Gadaloupe,  
@@ -2877,17 +2877,17 @@ Fit chercher au plus viste, et Parain et Maraine.
 Car dans sa maladie on craignoit qu'il mourut ;  
 Et *Dôna Stephanie* est le nom qu'il reçeut.  
 
-    LAZARILLE
+    LAZARILLE.
 O Ciel ! Après ce coup que faut-il que j'espere ?  
 Helas !  
 
-    [FERDINAND]
+    [FERDINAND].
         Vous voyez bien si j'en fus jamais Pere.  
 
-    LAZARILLE
+    LAZARILLE.
 Je ne le vois que trop.  
 
-    FERDINAND
+    FERDINAND.
         Pour vous donc abreger,  
 Stephanie en huict jours ne fut plus en danger,  
 Et la mere pour lors pleinement satisfaite,  
@@ -2917,9 +2917,9 @@ Qu'elle borne sa gloire au bon-heur de m'avoir.
 Adieu [237].  
 
 
-### SCENE IV
+### SCENE IV.
 
-    LAZARILLE *seul*
+    LAZARILLE *seul*.
         Peut-on souffrir⁎ une douleur plus dure !  
 Voir de mes propres yeux son indigne posture,  
 Et lors que par son ordre on peut tout esperer,  
@@ -2927,172 +2927,172 @@ Embrasser les genoux, de qui doit l'adorer !
 L'ingratte ! Elle paroist.  
 
 
-### SCENE V
+### SCENE V.
 STEPHANIE, LAZARILLE
 
 Fabrice et Gusman sont au même jardin
 
 
-    STEPHANIE
+    STEPHANIE.
         Quelque espoir qui vous flatte,  
 Empeschez que pour moy votre flamme n'éclatte,  
 Et quoy que vostre amour ait pour vous des appas,  
 Faites que pour me plaire il ne paroisse pas.  
 Car enfin …  
 
-    LAZARILLE
+    LAZARILLE.
         C'est assez, de la loy qu'on m'impose,  
 Mon esprit tout confus vient d'apprendre la cause,  
 Ferdinand…  
 
-    STEPHANIE
+    STEPHANIE.
         Ferdinand vous a donc tout appris ?  
 
-    LAZARILLE
+    LAZARILLE.
 N'en doutez pas.  
 
-    GUSMAN *à Fabrice*
+    GUSMAN *à Fabrice*.
         Hé bien, les avez-vous surpris ?  
 S'ayment⁎-ils ?  
 
-    FABRICE
+    FABRICE.
         Stephanie estre avec Lazarille !  
 Ecoutons.  
 
-    LAZARILLE
+    LAZARILLE.
         Du vieillard, vous n'estes plus la fille.  
 
-    FABRICE
+    FABRICE.
 O Dieux !  
 
-    STEPHANIE
+    STEPHANIE.
         C'est ce qui doit vous causer du tourment  
 Cessant d'estre mon Pere il devient mon Amant⁎.  
 
-    FABRICE
+    FABRICE.
 Ferdinand l'ayme⁎ aussi, Gusman !  
 
-    GUSMAN
+    GUSMAN.
         Belle demande ;  
 Manque-t-on d'appetit prés de si belle viande [238] ?  
 
-    LAZARILLE
+    LAZARILLE.
 Ferdinand doit donc faire un obstacle à mes vœux ?  
 
-    STEPHANIE
+    STEPHANIE.
 Pouvez-vous en douter, et connaistre ses feux ?  
 
-    FABRICE
+    FABRICE.
 Elle ne l'ayme⁎ pas.  
 
-    GUSMAN
+    GUSMAN.
         Mon Dieu, quoy qu'elle die,  
 Elle a l'esprit mâdré [239], croyez-moy, fou s'y fie [240].  
 
-    LAZARILLE
+    LAZARILLE.
 Lors qu'il a declaré l'amour qu'il a pour vous,  
 Pour y répondre mieux vous estiez à genoux ;  
 Ainsi…  
 
-    STEPHANIE
+    STEPHANIE.
         Cette posture où j'ay sçeu me contraindre,  
 Monstre ce que de luy vous avez lieu de craindre.  
 
-    FABRICE
+    FABRICE.
 Entends-tu ?  
 
-    GUSMAN
+    GUSMAN.
         Qui pis est, suivant ce que je vois,  
 Mon esprit indupable est dupé par sa voix.  
 
-    LAZARILLE
+    LAZARILLE.
 Cependant, animé⁎ d'une ardeur assez grande,  
 De vous à mon Rival j'ai tenté la demande ;  
 Et suivant les conseils que de vous j'ay receus,  
 Je me suis attiré la rigueur d'un refus.  
 
-    FABRICE
+    FABRICE.
 J'en suis ravy, Gusman.  
 
-    GUSMAN
+    GUSMAN.
         Vous voyez, l'ayme⁎-t-elle ?  
 
-    FABRICE
+    FABRICE.
 Je n'en puis que juger.  
 
-    STEPHANIE
+    STEPHANIE.
         O fortune cruelle [241] !  
 Vous m'avez demandée ?  
 
-    LAZARILLE
+    LAZARILLE.
         Et suivy vos avis⁎.  
 
-    STEPHANIE
+    STEPHANIE.
 Trop tost à mon mal-heur vous les avez suivis :  
 Quand je crûs vous donner un conseil necessaire,  
 Ferdinand de ma part estoit veu comme Pere ;  
 Mais n'estant pas sa fille, et sçachant son amour,  
 Je n'apprends qu'à regret que le vostre est au jour.  
 
-    FABRICE
+    FABRICE.
 L'ayme⁎-t-elle ? Tu vois.  
 
-    GUSMAN
+    GUSMAN.
         Comment Diable la croire ?  
 Ses discours sont pour moy des feüillets du Grimoire [242].  
 
-    STEPHANIE
+    STEPHANIE.
 J'entends du bruit, fuyez, et de peur que de vous  
 Le Rival qui vous nuit ne devienne jaloux,  
 Le plus que vous pourrez évitez ma presence.  
 
-    LAZARILLE
+    LAZARILLE.
 Adieu, je laisse au Ciel à punir cette offence.  
 
-    STEPHANIE
+    STEPHANIE.
 Moy, je suy vostre exemple, et j'invoque les Dieux,  
 Pour me voir delivrer d'un Amant⁎ odieux.  
 Lazarille sort
 
 
 
-### SCENE VI
+### SCENE VI.
 FABRICE, STEPHANIE, GUSMAN
 
 
-    GUSMAN
+    GUSMAN.
 Tout va bien.  
 
-    FABRICE
+    FABRICE.
         Profitons ; il sort tout en colere.  
 
-    GUSMAN
+    GUSMAN.
 Poussez [243] donc.  
 
-    FABRICE
+    FABRICE.
         Lazarille aura pû vous déplaire,  
 Je l'ay veu qui d'icy sort assez brusquement ;  
 Mais vous pouvez en moy recouvrer un amant⁎,  
 Puis que depuis long-temps mon cœur pour vous soupire,  
 Sans que dans mes respects, j'aye osé vous le dire.  
 
-    STEPHANIE
+    STEPHANIE.
 Quoy, vous m'aymez⁎, Fabrice ?  
 
-    GUSMAN, *la tirant à l'écart*
+    GUSMAN, *la tirant à l'écart*.
         Oüy, foy d'homme d'honneur,  
 Il dit que c'est de vous que dépend son bon-heur ;  
 Et vous pouvez penser que sa flâme est bien forte,  
 Puis que j'ose vous faire un serment de la sorte.  
 
-    STEPHANIE
+    STEPHANIE.
 Vous m'aymez⁎ !  
 
-    FABRICE
+    FABRICE.
         Le moyen de ne vous aymer⁎ pas,  
 Et de pouvoir sans cesse admirer vos appas.  
 
-    STEPHANIE
+    STEPHANIE.
 S'il est vray que pour moy vostre ardeur soit sincere,  
 Pourquoy vous obstiner si long-temps à la taire ?  
 Loin que par vostre aveu vous puissiez m'allarmer,  
@@ -3104,27 +3104,27 @@ J'en ay fait la promesse, et je la veux tenir.
 Adieu, ce sentiment est selon qu'il doit estre [244].  
 
 
-### SCENE VII
+### SCENE VII.
 FABRICE, GUSMAN
 
 
-    FABRICE
+    FABRICE.
 Ah, Gusman mon Valet !  
 
-    GUSMAN
+    GUSMAN.
         Ah, Fabrice mon Maistre !  
 
-    FABRICE
+    FABRICE.
 Que je suis mal-heureux !  
 
-    GUSMAN
+    GUSMAN.
         Point, point, rayez ce mot,  
 Vous seriez plus heureux si vous estiez moins sot.  
 
-    FABRICE
+    FABRICE.
 Maraut insuportable…  
 
-    GUSMAN
+    GUSMAN.
         Et vous teste étourdie [245],  
 Dont le cœur est de flâme et la langue engourdie,  
 Ce qui vient d'arriver ne vous sied que trop bien ;  
@@ -3134,15 +3134,15 @@ Et puis apres cela devenir ridicule,
 Jusqu'au poinct de souscrire au plaisir d'un Rival,  
 Si ce n'est estre sot, c'est paraistre Cheval [247].  
 
-    FABRICE
+    FABRICE.
 Au plaisir d'un Rival que jamais je souscrive !  
 Qu'il possede un objet qui mon ame captive !  
 Et que sans écouter un amour violent …  
 
-    GUSMAN
+    GUSMAN.
 Et que pretendez-vous, ô Maistre un peu trop lent ?  
 
-    FABRICE
+    FABRICE.
 Puis que si mon Rival n'eut usurpé ma place,  
 Mon aymable Maistresse approuvoit mon audace,  
 Apprends que je m'appreste à le priver du jour,  
@@ -3152,43 +3152,43 @@ Elle sçaura m'aymer⁎ quand il cessera d'estre,
 Je puis donc, supportant que je vange un affront,  
 Le forcer à se battre, et t'avoir pour Second.  
 
-    GUSMAN
+    GUSMAN.
 Moy Second ?  
 
-    FABRICE
+    FABRICE.
         Quoy, Gusman, tu veux estre pagnotte [248] ?  
 
-    GUSMAN
+    GUSMAN.
 Quoy tueur de Rivaux, vous voulez qu'on me frotte [249] ?  
 Et moy qui de la Parque apprehende la faux,  
 J'ose vous soûtenir que cela sera faux.  
 
-    FABRICE
+    FABRICE.
 Ah ! Gusman, souviens-toy que j'ayme⁎ Stephanie,  
 Qu'elle doit, à mon sort, par l'Hymen estre unie,  
 Et que dans le mal-heur qui talonne mes pas,  
 N'en pas estre l'Espoux, c'est souffrir⁎ le trépas.  
 
-    GUSMAN
+    GUSMAN.
 Trépassez.  
 
-    FABRICE
+    FABRICE.
         Mais mourir, apres tant de souffrances,  
 C'est donner à ma peine une foible allegeance [250].  
 
-    GUSMAN
+    GUSMAN.
 Ne trépassez donc pas.  
 
-    FABRICE
+    FABRICE.
         Donne m'en le moyen ;  
 Crois-tu qu'on puisse vivre, et ne pretendre rien ?  
 Et que quand la fortune est pour nous rigoureuse,  
 Un trépas soit moins doux qu'une vie odieuse ?  
 
-    GUSMAN
+    GUSMAN.
 Trépassez-donc.  
 
-    FABRICE
+    FABRICE.
         Gusman, c'est mal me secourir,  
 Un Amant⁎ veritable a trop peur de mourir,  
 Penses-tu qu'au moment qu'on adore une belle,  
@@ -3196,33 +3196,33 @@ Il soit aisé de faire une absence éternelle ?
 Et qu'un cœur que l'amour asservit sous ses loix,  
 Puisse expirer sans peine apres un noble choix ?  
 
-    GUSMAN
+    GUSMAN.
 Vivez-donc, si la mort est pour vous effroyable.  
 
-    FABRICE
+    FABRICE.
 La mort aux mal-heureux est tousjours agreable.  
 
-    GUSMAN
+    GUSMAN.
 Mourez-donc.  
 
-    FABRICE
+    FABRICE.
         Quelque sort qui nous puisse arriver,  
 Il n'est rien de si doux que de vivre, et d'aymer⁎.  
 
-    GUSMAN
+    GUSMAN.
 A vostre cher Valet, apprenez vostre envie ;  
 Avoir peur de la mort, et puis craindre la vie ;  
 C'est, sans qu'il soit besoin de tousjours discourir,  
 Vouloir vivre sans vivre, et mourir sans mourir.  
 Mais à quoy resvez-vous [251] ?  
 
-    FABRICE
+    FABRICE.
         Au mal-heur qui m'afflige,  
 De momens en momens Lazarille m'oblige⁎,  
 Il m'aime, et toutesfois je ne puis l'épargner,  
 Et je dois, ou le perdre, ou du moins l'éloigner.  
 
-    GUSMAN
+    GUSMAN.
 Un si grand preambule estoit-il necessaire ?  
 Vous sçavez, grace à Dieu, que je suis bon faussaire,  
 Et que sans vanité, je pourrois me vanter,  
@@ -3231,69 +3231,69 @@ Si bien qu'à mon talent il n'est pas difficile
 De forcer Lazarille à sortir de Sevile [253] :  
 Laissez vostre fortune à ma discretion.  
 
-     FABRICE
+    FABRICE.
 Il me souvient encor d'une autre invention,  
 L'Ambassadeur d'Affrique est icy.  
 
-    GUSMAN
+    GUSMAN.
         Qu'il s'y tienne.  
 
-    FABRICE
+    FABRICE.
 Sa personne à peu prés est égale à la tienne.  
 
-    GUSMAN
+    GUSMAN.
 Pour cela ?  
 
-    FABRICE
+    FABRICE.
         Vous avez chacun de mesmes traits.  
 
-    GUSMAN
+    GUSMAN.
 Qu'en est-il ?  
 
-    FABRICE
+    FABRICE.
         Les plus fins confondroient vos portraits.  
 
-    GUSMAN
+    GUSMAN.
 Que m'importe ?  
 
-    FABRICE
+    FABRICE.
         Pour peu que ton zele s'applique  
 A vouloir me servir aux despens de l'Affrique,  
 Tu peux en secondant les desseins que je faits,  
 Contenter mon ardeur, et remplir mes souhaits [254].  
 
-    GUSMAN
+    GUSMAN.
 Moy que je vous oblige⁎ aux despens de l'Affrique ?  
 
-    FABRICE
+    FABRICE.
 Tu le peux.  
 
-    GUSMAN
+    GUSMAN.
         Justement ; c'est bien là ma pratique,  
 Quoy, Monsieur, dans l'Affrique ay-je quelque pouvoir ?  
 
-    FABRICE
+    FABRICE.
 Point du tout.  
 
-    GUSMAN
+    GUSMAN.
         A-t-elle eu le bon-heur de me voir ?  
 
-    FABRICE
+    FABRICE.
 Nullement.  
 
-    GUSMAN
+    GUSMAN.
         De l'Affrique ay-je la dependance ?  
 
-    FABRICE
+    FABRICE.
 Encor moins.  
 
-    GUSMAN
+    GUSMAN.
         Fléchit-elle à ma moindre ordonnance [255] ?  
 
-    FABRICE
+    FABRICE.
 Elle ? Non.  
 
-    GUSMAN
+    GUSMAN.
         Comment donc avez-vous pretendu,  
 Qu'un service à ses frais pût vous estre rendu :  
 Car enfin quoy que j'aye un rapport fort sincere  
@@ -3305,27 +3305,27 @@ Gusman avec l'Affrique ayant peu de commerce,
 Pour raison concluante il conclud de bon cœur,  
 Que tousjours de l'Affrique il sera serviteur.  
 
-    FABRICE
+    FABRICE.
 Tu n'entends pas mon sens.  
 
-    GUSMAN
+    GUSMAN.
         Comment Diable l'entendre ?  
 
-    FABRICE
+    FABRICE.
 Je veux dans mon logis te le faire comprendre ;  
 Puis donc que nous avons des sujets à choisir,  
 Entrons, et sur chacun consultons [256] à loisir.  
 Fin du premier Acte.
 
 
-## ACTE SECOND
+## ACTE SECOND.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LAZARILLE, FABRICE
 
 
-    LAZARILLE
+    LAZARILLE.
 Incomparable amy dont tousjours la tendresse,  
 Dans tout ce qui me touche aisément s'interesse,  
 Approche, et si jamais tu me crûs mal-heureux,  
@@ -3333,7 +3333,7 @@ Si jamais mon destin te semblast rigoureux,
 Juges par ce billet qui fait naistre ma plainte,  
 Si d'un tourment plus rude on peut sentir l'atteinte.  
 
-    FABRICE *lit.*
+    FABRICE *lit.*.
 * Mon Neveu je me plains de mon triste devoir*,  
 *Qui malgré-moy m'oblige⁎ à vous faire sçavoir*  
 Une fort mauvaise nouvelle :  
@@ -3342,34 +3342,34 @@ Pour de vostre Maison devenir le support,
 Vostre Mere affligée en ce lieu vous appelle.  
 *DOM RAYMON DE GALAS*  
 
-    LAZARILLE
+    LAZARILLE.
         Hé bien ! Parfait amy  
 Dont la noble chaleur [257] n'agit point à demy ;  
 Tu vois.  
 
-    FABRICE
+    FABRICE.
         Ce coup fatal me surprend, et m'estonne,  
 Il est mort !  
 
-    LAZARILLE
+    LAZARILLE.
         Juges-en par l'avis⁎ qu'on me donne.  
 
-    FABRICE
+    FABRICE.
 De tout autre qu'un Oncle à qui l'on doit respect,  
 Un billet si fascheux pourroit m'estre suspect :  
 Mais voy le caractere [258] ; Est-ce point imposture,  
 Examine.  
 
-    LAZARILLE
+    LAZARILLE.
         Non, non c'est la mesme écriture.  
 
-    FABRICE
+    FABRICE.
 Pourtant, ou je me trompe, ou tu dis hier au soir,  
 Que ton Pere en ce lieu te pourroit bien-tost voir [259] ;  
 Et pour, à son enfant ne pas estre inutile,  
 Qu'il partoit de Tolede, et venoit à Sevile.  
 
-    LAZARILLE
+    LAZARILLE.
 Il me l'avoit mandé, cet espoir m'estoit doux,  
 Mais de tous mes plaisirs mon destin est jaloux.  
 Il s'oppose sans cesse au cours de ma fortune,  
@@ -3377,10 +3377,10 @@ Et comme à tout momens sa rigueur m'importune,
 Et que de son caprice il me fait le joüet,  
 J'ay des biens en idée, et des maux en effet.  
 
-    FABRICE
+    FABRICE.
 Ton sort est deplorable.  
 
-    LAZARILLE
+    LAZARILLE.
         Ajouste encor, Fabrice,  
 Que tout m'est rigoureux, que rien ne m'est propice,  
 Et pour connaistre mieux jusqu'où va mon tourment,  
@@ -3388,7 +3388,7 @@ Au tendre nom de Fils, joints le tiltre d'Amant⁎ ;
 J'adore une beauté, je dois estre auprés d'elle,  
 Et la mort de mon Pere à Tolede m'appelle.  
 
-    FABRICE
+    FABRICE.
 Si j'avois veu l'Objet qui te tiens sous ses loix,  
 Je l'irois de ta part visiter quelquesfois.  
 Comme pour te servir j'ay le cœur tout de flâme,  
@@ -3396,42 +3396,42 @@ A répondre à tes feux, j'exciterois son ame,
 Et ta vertu sans cesse étalée à ses yeux,  
 Te rendroit favorable un sejour ennuyeux.  
 
-    LAZARILLE
+    LAZARILLE.
 Si tantost j'eusse appris cette triste nouvelle,  
 J'aurois crû m'éloigner d'une fille infidelle [260] ;  
 Mais ce coup à mon ame est d'autant plus cruel,  
 Qu'elle honore mes feux par un feu mutuel.  
 
-    FABRICE
+    FABRICE.
 Helas !  
 
-    LAZARILLE
+    LAZARILLE.
         A mon ardeur daigne donc estre utile,  
 Puis qu'il faut qu'à regret j'abandonne Sevile,  
 Et qu'au moins Stephanie une fois chaque jour,  
 Apprenne par ta voix l'excez [261] de mon amour.  
 
-    FABRICE
+    FABRICE.
 Stephanie !  
 
-    LAZARILLE
+    LAZARILLE.
     Elle-mesme.  
 
-    FABRICE
+    FABRICE.
         O destin implacable !  
 
-    LAZARILLE
+    LAZARILLE.
 Tu te plaints.  
 
-    FABRICE
+    FABRICE.
         Je me plaints du mal-heur qui t'accable,  
 L'Ambassadeur d'Affrique est ton Rival.  
 
-    LAZARILLE
+    LAZARILLE.
         O Dieux !  
 Il ayme⁎ Stephanie ?  
 
-    FABRICE
+    FABRICE.
         Il en est amoureux ;  
 Comme il est courageux, comme il est magnanime,  
 Que chacun le respecte, et que chacun l'estime,  
@@ -3439,16 +3439,16 @@ Que son credit [262] est rare, et que dans cét Estat,
 Il tient, et sçait garder le rang d'un Potentat⁎,  
 En vain à ce qu'il veut tu ferois resistance.  
 
-    LAZARILLE
+    LAZARILLE.
 Il l'ayme⁎ !  
 
-    FABRICE
+    FABRICE.
         De sa flâme il m'a fait confidence ;  
 Et si je ne m'abuse il vient lui-mesme exprès,  
 Pour parler de ses feux.  
 
 
-### SCENE II
+### SCENE II.
 GUSMAN, FABRICE, LAZARILLE, SUITE
 
 
@@ -3457,39 +3457,39 @@ GUSMAN, FABRICE, LAZARILLE, SUITE
 Ou d'abord faites gile [263]. Hé bien l'avez-vous veuë,  
 Celle dont les attraits m'ont donné dans la veuë [264] ?  
 
-    FABRICE
+    FABRICE.
 Non, Seigneur.  
 
-    GUSMAN
+    GUSMAN.
     Et pourquoy, Maistre [265] fat [266] ?  
 
-    FABRICE
+    FABRICE.
         Je n'ay pû  
 Seigneur…  
 
-    GUSMAN
+    GUSMAN.
         Que pleust à Dieu que vous fussiez rompu [267] !  
 Cependant de l'amour je sens la tyrannie,  
 Traistre.  
 
-    LAZARILLE
+    LAZARILLE.
         Quoy donc, Seigneur, vous aymez⁎ Stephanie ?  
 Elle vous charme ?  
 
-    GUSMAN
+    GUSMAN.
         Un peu si vous le trouvez bon.  
 Mais je vous trouve encor un fort joly mignon [268],  
 Pour mettre vostre nez jusques dans mon affaire.  
 
-    LAZARILLE
+    LAZARILLE.
 Je n'ay pas crû, Seigneur, que ce fust vous déplaire.  
 
-    GUSMAN
+    GUSMAN.
 Vous deviez l'avoir crû, car un Ambassadeur,  
 En parlant avec vous abaisse la grandeur ;  
 Tirez vos chausses [269], viste, ou bien-tost par la teste…  
 
-    LAZARILLE
+    LAZARILLE.
 Je sçay que vostre force égale une tempeste,  
 Et que le rang supréme où le Ciel vous a mis,  
 Donne de la terreur à tous vos ennemis :  
@@ -3502,68 +3502,68 @@ Vouloit rendre le calme à mon ame allarmée ;
 Et soûtenant toûjours la grandeur de son sang,  
 Me ceder un Objet qui n'est pas de son rang.  
 
-    GUSMAN
+    GUSMAN.
 Vous estes trop obscur, je ne puis vous entendre.  
 
-    LAZARILLE
+    LAZARILLE.
 Vous servir, est-ce un bien que je puisse pretendre ?  
 Il n'est rien que pour vous je n'osasse embrasser [272].  
 
-    GUSMAN
+    GUSMAN.
 Pour estre vostre Maistre il me faut abaisser,  
 Plaist-il ?  
 
-    LAZARILLE
+    LAZARILLE.
     Je vous l'avouë.  
 
-    GUSMAN
+    GUSMAN.
         Il est donc necessaire,  
 Que chacun se maintienne en sa forme ordinaire [273],  
 Aussi bien tous vos soins me sont indifférends.  
 Fabrice !  
 
-    FABRICE
+    FABRICE.
     Monseigneur.  
 
-    GUSMAN
+    GUSMAN.
         Est-il bon prés des Grands ?  
 Le dois-je retenir ?  
 
-    FABRICE
+    FABRICE.
         Il en est beaucoup digne.  
 
-    GUSMAN
+    GUSMAN.
 N'estes-vous point sujet au sirop de la vigne ?  
 
-    LAZARILLE
+    LAZARILLE.
 Quoy que je sois, Seigneur, vous le connoissez bien,  
 Vostre esprit penetrant n'ignorast jamais rien.  
 
-    GUSMAN
+    GUSMAN.
 Il est vray, mais enfin quelque fois on oublie.  
 
-    LAZARILLE
+    LAZARILLE.
 Ah ! de vostre Grandeur l'ame est trop accomplie.  
 Et quoy que la vertu cherche à s'humilier,  
 Un esprit si fameux ne peut rien oublier.  
 Vous avez la science en un degré supréme…  
 
-    GUSMAN
+    GUSMAN.
 Vous me connoissez mieux que je ne sais moy-mesme  
 Et les vertus qu'en moy vous trouvez à tous pas,  
 Sont de hautes vertus que je ne voyois pas.  
 Fabrice.  
 
-    FABRICE
+    FABRICE.
     Monseigneur.  
 
-    GUSMAN
+    GUSMAN.
         Cette fille vient-elle ?  
 
-    FABRICE
+    FABRICE.
 Non, Seigneur.  
 
-    GUSMAN
+    GUSMAN.
         Qu'elle est sotte ! Allons donc qu'on l'appelle !  
 Debiteur de Phebus [274], c'est vous dont je fais chois,  
 Pour haranguer l'objet qui me met aux abois,  
@@ -3572,10 +3572,10 @@ Où vous representiez la grandeur de ma flâme ;
 Mais parlant de mes feux il se faut animer⁎,  
 Et par vostre discours la contraindre à m'aimer.  
 
-    LAZARILLE
+    LAZARILLE.
 Moy, Seigneur ? Ah ! Sçachez…  
 
-    GUSMAN
+    GUSMAN.
         Je sçay que je m'abaisse,  
 Mais l'esprit le plus ferme est sujet à foiblesse :  
 Forcer mon Excellence à me servir de vous,  
@@ -3585,64 +3585,64 @@ Poussez-luy des soûpirs⁎, affectez la boutade [276],
 Et faites-luy sçavoir par un terme attractif,  
 Que l'honneur de ma couche est un bien sensitif.  
 
-    LAZARILLE
+    LAZARILLE.
 Je m'acquitteray mal…  
 
-    GUSMAN
+    GUSMAN.
     Point, point.  
 
-    LAZARILLE
+    LAZARILLE.
         Ciel ! On l'ameine !  
 
-    GUSMAN
+    GUSMAN.
 Disposez-vous [277] …  
 
-    LAZARILLE
+    LAZARILLE.
     Helas !  
 
-    GUSMAN
+    GUSMAN.
     Bon, bon.  
 
-    LAZARILLE
+    LAZARILLE.
         Quelle est ma peine ?  
 
 
-### SCENE III
+### SCENE III.
 FERDINAND, GUSMAN, LAZARILLE, STEPHANIE, FABRICE, SUITE.
 
 
-    FERDINAND
+    FERDINAND.
 Monseigneur, les respects …  
 
-    GUSMAN
+    GUSMAN.
         Monsieur le langoureux,  
 Pay [278] ; ce n'est pas de vous que je suis amoureux.  
 
-    FERDINAND
+    FERDINAND.
 Mais, Monseigneur l'espoir…  
 
-    GUSMAN
+    GUSMAN.
         Mais Monsieur, pas plus outre [279],  
 Je suis grand personnage, et mal-heur à qui m'outre.  
 
-    FERDINAND
+    FERDINAND.
 Ce n'est pas vous outrer…  
 
-    GUSMAN
+    GUSMAN.
         Ah vieux barbon [280] testu !  
 Qui faits en me parlant enrager ma vertu,  
 Porte plus loin l'odeur de ton nez qui refrongne [281] ;  
 Et vous le beau parleur faites vostre besogne,  
 Dégoisez [282].  
 
-    LAZARILLE
+    LAZARILLE.
     Stephanie, Helas !  
 
-    GUSMAN
+    GUSMAN.
         Ah ! L'autre sot,  
 Qui tout d'abord soûpire, et n'a dit qu'un seul mot.  
 
-    LAZARILLE
+    LAZARILLE.
 Ce digne Ambassadeur qui n'a rien que d'illustre,  
 Veut de sa passion augmenter vostre lustre [283] :  
 Il n'a pû resister à tant d'appas flatteurs,  
@@ -3652,13 +3652,13 @@ Qui maistrisent nostre ame, et surmontent ses forces :
 Il n'a pû resister au pouvoir de vos yeux :  
 Il vous adore, helas !  
 
-    GUSMAN
+    GUSMAN.
         Ce soupir là va mieux.  
 Mais c'est trop la flatter ; vantez-lui mon adresse,  
 Pour plaire à ma Grandeur surprenez la tendresse ;  
 Loüez mon Excellence.  
 
-    LAZARILLE
+    LAZARILLE.
         Il vous doit estre doux,  
 De voir qu'un si grand homme ait de l'amour pour vous.  
 Jugez par ses vertus, par son rang, par sa mine,  
@@ -3671,14 +3671,14 @@ Et mon cœur devroit estre et tranquile, et content,
 A l'aspect du bon-heur qui déja vous attend ;  
 Mais helas !  
 
-    GUSMAN
+    GUSMAN.
         Mais helas ! Soûpirant incommode,  
 Des helas éternels ne sont plus à la mode.  
 
-    LAZARILLE
+    LAZARILLE.
 Pleut-on parler d'amour sans qu'on soûpire ?  
 
-    GUSMAN
+    GUSMAN.
         Non,  
 Mais il faut soûpirer de plus d'une façon.  
 Pour bien complimenter contemplez-moy, Novice.  
@@ -3691,13 +3691,13 @@ Car des Ambassadeurs estant fort au dessous,
 L'Ambassade est à eu [284] quand on parle avec vous.  
 Aï ! De ce soûpir⁎, Patron [285] que vous en semble ?  
 
-    LAZARILLE
+    LAZARILLE.
 Il est doux !  
 
-    GUSMAN
+    GUSMAN.
     Il est vray, Respondez-donc.  
 
-    STEPHANIE
+    STEPHANIE.
         Je tremble.  
 Pour connaistre aisément vostre rang glorieux,  
 Il ne faut qu'un moment regarder dans vos yeux,  
@@ -3710,26 +3710,26 @@ Que d'un honteux amour vous soüilliez vôtre gloire.
 Songez, Seigneur, songez que mon rang est trop bas,  
 Il vous faut…  
 
-    GUSMAN
+    GUSMAN.
         Mon enfant, je ne l'ignore pas ;  
 Je sçay ce qu'il me faut, mais quoy que je le sçache,  
 Pour vous faire m'aymer⁎ je me faits une tache ;  
 Mais beauté printaniere apprenez qu'il m'est doux,  
 D'estre noir comme un Diable [286], et d'estre aymé⁎ de vous.  
 
-    STEPHANIE
+    STEPHANIE.
 Mais un Ambassadeur vouloir…  
 
-    GUSMAN
+    GUSMAN.
         Point de scrupules,  
 Souvent les Grands Seigneurs sont les plus ridicules ;  
 Aussi donc vostre esprit ne doit pas s'allarmer,  
 De voir mon Excellence avoir pû vous aymer⁎.  
 
-    STEPHANIE
+    STEPHANIE.
 M'aymer⁎ ?  
 
-    GUSMAN
+    GUSMAN.
         Oüy vous aymer⁎, vostre beauté m'enyvre,  
 Vous me verriez mourir si je cessois de vivre ;  
 Car, par exemple, un homme, oüy je tiens pour certain,  
@@ -3743,46 +3743,46 @@ A m'aymer⁎ tant soit peu, nous pourrions en découdre,
 Et dès ce mesme jour l'un et l'autre conjoints,  
 A grossir nostre race appliquer tous nos soins.  
 
-    LAZARILLE *bas*
+    LAZARILLE *bas*.
 Quel brutal !  
 
-    FERDINAND
+    FERDINAND.
     Sur ce point…  
 
-    GUSMAN
+    GUSMAN.
         Hibou [288], dont le cœur gronde,  
 Taisez-vous.  
 
-    FERDINAND
+    FERDINAND.
         Sur ce point il faut que je réponde.  
 
-    GUSMAN
+    GUSMAN.
 Pay, vous dis-je.  
 
-    FERDINAND
+    FERDINAND.
     Seigneur…  
 
-    GUSMAN
+    GUSMAN.
         C'est trop Seigneurier,  
 Je suis Ambassadeur, et me veux marier.  
 
-    LAZARILLE
+    LAZARILLE.
 Mais Seigneur comme pere il faut …  
 
-    GUSMAN
+    GUSMAN.
         Monsieur son Plege [289],  
 Loin de vous accorder un plus grand privilege,  
 Je suis vostre ennemy si pour luy vous parlez ;  
 Pour vous la belle Alix parlez si vous voulez.  
 
-    STEPHANIE
+    STEPHANIE.
 Un Hymen entre nous a si peu d'apparence,  
 Que je n'ose, Seigneur en former l'esperance ;  
 Vous pouvez donc pretendre en me faisant la Cour,  
 D'attirer des respects, et non pas de l'amour.  
 Vous m'aymez⁎ ? Vous, Seigneur ? Moy qui suis…  
 
-    GUSMAN
+    GUSMAN.
         Esprit cruche,  
 Nourrisson d'un vieillard qui semble une guenuche [290],  
 Apres que noblement j'ay dépeint mon ardeur,  
@@ -3800,7 +3800,7 @@ Puis que je vous étale une preuve si claire ?
 Et m'alleguerez-vous de vos sottes raisons,  
 Puisque je vous confonds⁎ par des comparaisons ?  
 
-    STEPHANIE
+    STEPHANIE.
 Il suffit, un grand cœur n'est jamais hypocrite ;  
 Mais, Seigneur, quand je songe à mon foible merite,  
 Je croy peu, quelques feux dont vous soyez épris,  
@@ -3812,39 +3812,39 @@ Faites naistre un amour qui succede au respect.
 Elle sort.
 
 
-    FERDINAND
+    FERDINAND.
 Monseigneur, excusez si pour m'estre fidelle…  
 
-    GUSMAN
+    GUSMAN.
 Tu peux suivre sa piste et courir apres elle.  
 
-    FERDINAND
+    FERDINAND.
 Mais…  
 
-    GUSMAN
+    GUSMAN.
     Mais.  
 
-    LAZARILLE
+    LAZARILLE.
     Et quoy, Seigneur, faut-il …  
 
-    GUSMAN
+    GUSMAN.
         Est-ce à ton tour  
 A me rompre la teste [292], Interprete d'amour !  
 
-    FERDINAND
+    FERDINAND.
 Comme amy…  
 
-    GUSMAN
+    GUSMAN.
         Comme amy…Sçais-tu bien que j'abonde…  
 Sors te dis-je : Et pour toy. Belzebut te confonde⁎.  
 Bon jour [293].  
 
 
-### SCENE IV
+### SCENE IV.
 LAZARILLE, FABRICE
 
 
-    LAZARILLE
+    LAZARILLE.
         Quoy donc cét homme à qui rien n'est égal,  
 A si peu de vertus et paroist si brutal ?  
 C'est là ce rare Esprit à qui l'on rend hommage,  
@@ -3861,7 +3861,7 @@ Mais je prens de l'audace en quittant mon erreur,
 Puisque tout son mérite est d'avoir du bon-heur.  
 Ce cœur farouche…  
 
-    FABRICE
+    FABRICE.
         Amy, sois un peu moins credule,  
 C'est à force d'aymer⁎ qu'il paroist ridicule,  
 Et je vois aysément par un tel procedé,  
@@ -3872,38 +3872,38 @@ Ton oreille charmée, et tes sens interdits,
 Deviendront les garants de ce que je te dis.  
 
 
-### SCENE V
+### SCENE V.
 GUSMAN, LAZARILLE, FABRICE
 
 
-    GUSMAN, *en habit de Valet.*
+    GUSMAN, *en habit de Valet.*.
 Monsieur, je viens …  
 
-    FABRICE
+    FABRICE.
         Tantost [294] tu me diras le reste.  
 
-    LAZARILLE
+    LAZARILLE.
 Quel qu'il soit à son sort je veux estre funeste,  
 De cét Ambassadeur je méprise le rang,  
 Je pretens luy planter un poignard dans le flanc.  
 
-    GUSMAN *bas*
+    GUSMAN *bas*.
 Fy [295].  
 
-    LAZARILLE
+    LAZARILLE.
         Qu'il soit genereux, qu'il ait l'esprit sublime,  
 Que chacun le respecte, et que chacun l'estime,  
 Pour souffrir⁎ que ce bras luy devienne fatal,  
 Il suffit qu'il m'outrage, et qu'il soit mon Rival.  
 Il verra ce que c'est qu'attaquer Lazarille.  
 
-    GUSMAN *bas*
+    GUSMAN *bas*.
 Diable, que j'ay bien fait de quitter la Roupille [296].  
 
-    FABRICE
+    FABRICE.
 Mais considere Amy…  
 
-    LAZARILLE
+    LAZARILLE.
         Tout est consideré,  
 Mon voyage à Tolede est déja differé :  
 Dans l'estat où je suis je n'ay plus d'autre envie,  
@@ -3911,22 +3911,22 @@ Que d'assouvir ma rage aux dépens de sa vie.
 Et s'il estoit icy dans ce mesme moment,  
 Je sçaurois l'immoler à mon ressentiment.  
 
-    GUSMAN
+    GUSMAN.
 Monsieur : ah !  
 
-    FABRICE
+    FABRICE.
     Ne crains rien.  
 
-    GUSMAN
+    GUSMAN.
         S'il me jette une œillade,  
 Et qu'il remarque en moi quelques traits d'Ambassade.  
 
-    FABRICE
+    FABRICE.
 Cede, cede à celuy qui combat ton ardeur,  
 Souviens-toy que d'Affrique il est Ambassadeur.  
 Songe….  
 
-    LAZARILLE
+    LAZARILLE.
         Pour m'appaiser vainement tu t'efforces,  
 Loin d'esteindre mon feu tu redoubles ses forces,  
 Et si tu n'avois pas la bonté de m'aymer⁎,  
@@ -3941,33 +3941,33 @@ Sinon sa mort est seure, et je te le promets.
 Adieu.  
 
 
-### SCENE VI
+### SCENE VI.
 FABRICE, GUSMAN
 
 
-    GUSMAN
+    GUSMAN.
         Vas-t'en au Diable, et ne reviens jamais.  
 Peste quel avaleur de pois gris [297] ! Dans sa bouche  
 Je ne ferois non plus que feroit une mouche.  
 
-    FABRICE
+    FABRICE.
 D'un autre stratageme il nous faut essayer :  
 Car, suivant ma pensée, il vient de t'effrayer,  
 Et tu ne veux plus estre Ambassadeur d'Affrique ?  
 
-    GUSMAN
+    GUSMAN.
 Cy-fait [298].  
 
-    FABRICE
+    FABRICE.
         A m'obliger⁎, ton soin si fort s'applique ?  
 
-    GUSMAN
+    GUSMAN.
 Et quoy donc !  
 
-    FABRICE
+    FABRICE.
         Dés ce soir, tu peux donc, cher Valet…  
 
-    GUSMAN
+    GUSMAN.
 Vous souhaiter au Diable avec l'autre Argoulet [299].  
 Que vostre esprit est preste [300] aux desseins qu'il se forge :  
 Qu'au cousteau d'un meurtrier j'aille tendre la gorge,  
@@ -3978,44 +3978,44 @@ Qui pour vostre plaisir soit content qu'on l'assomme,
 Et puis qu'en vostre amour vous n'estes pas plus Grec [302],  
 Pour des Ambassadeurs torchez-en vostre bec [303].  
 
-    FABRICE
+    FABRICE.
 L'intrigue estre si belle, et ne pas la poursuivre !  
 
-    GUSMAN
+    GUSMAN.
 Vouloir obstinément que je cesse de vivre !  
 
-    FABRICE
+    FABRICE.
 Mais Gusman…  
 
-    GUSMAN
+    GUSMAN.
         Mais, Monsieur, je ne suis point d'avis,  
 De me faire étriller dessous de beaux habits.  
 
-    FABRICE
+    FABRICE.
 Quel plaisir peux-tu prendre à commettre ces fautes ?  
 
-    GUSMAN
+    GUSMAN.
 Un plus grand que de voir qu'on me brise les costes,  
 Car qui d'un coup motel me feroit un present,  
 Me feroit ce me semble un plaisir peu plaisant.  
 
-    FABRICE
+    FABRICE.
 Au moins sois moy propice au dessein que j'invente,  
 De l'Hoste à mon Rival tu connois la servante ?  
 
-    GUSMAN
+    GUSMAN.
 A peu prés.  
 
-    FABRICE
+    FABRICE.
         Tu sçais bien si par quelque Loüis,  
 On peut charmer ses yeux et les rendre ébloüis.  
 Et si dans mon dessein je me puis servir d'elle.  
 
-    GUSMAN
+    GUSMAN.
 Preparer de l'argent, c'est une bagatelle [304],  
 On la baise gratis [305].  
 
-    FABRICE
+    FABRICE.
         Répons mieux à mon sens,  
 Et sois plus favorable à l'ardeur que je sens.  
 Ma plus pressente envie est de voir Lazarille,  
@@ -4027,42 +4027,42 @@ Voyons cette servante, et demandons son ayde.
 Mais avant que Gusman fasse rien de nouveau,  
 Je veux le faire boire à regorge museau [306].  
 
-    GUSMAN
+    GUSMAN.
 De quel vin.  
 
-    FABRICE
+    FABRICE.
     Du meilleur.  
 
-    GUSMAN
+    GUSMAN.
         Vous avez bien la mine,  
 De me faire avaller de ce casse poictrine,  
 De ce vin baptisé [307], que l'on donne aux lacquais,  
 Qui fait du mal au ventre, et n'enyure jamais.  
 
-    FABRICE
+    FABRICE.
 Point, je veux que ce soir tu manges à ma table.  
 
-    GUSMAN
+    GUSMAN.
 Moy ?  
 
-    FABRICE
+    FABRICE.
     Toy.  
 
-    GUSMAN
+    GUSMAN.
         Pour vous servir j'affronterois le Diable.  
 Allons jetter les yeux sur des mets délicats,  
 Et caressons ensemble et les pots et les plats.  
 Fin du second Acte.
 
 
-## ACTE TROISIEME
+## ACTE TROISIEME.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 HENRIQUEZ, LA SERVANTE.
 
 
-    LA SERVANTE
+    LA SERVANTE.
 Monsieur, vous voyez bien qu'estant l'heure qu'il est,  
 On se loge où l'on peut, et non où l'on se plaist,  
 Dans cette Hostellerie aucun bouge ne chome [308],  
@@ -4074,47 +4074,47 @@ Un jeune homme habillé repose dessus l'autre,
 Il est plein de tristesse, allez au petit pas,  
 Et faites s'il se peut qu'il ne s'éveille pas.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Puis que dans le lict vert il faut que je repose,  
 De vos soins cette nuict je ne veux autre chose,  
 Emportez la chandelle, et me laissez icy.  
 
-    LA SERVANTE
+    LA SERVANTE.
 Et vous deshabiller ?  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         N'ayez point ce soucy.  
 
-    LA SERVANTE
+    LA SERVANTE.
 Mais vous ne verrez goutte, et je crains…  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         Il n'importe,  
 Laissez-moy seul vous dis-je, et fermez cette porte.  
 Sur tout n'oubliez pas d'aller chez Ferdinand.  
 
-    LA SERVANTE
+    LA SERVANTE.
 Il suffit [309], son logis est du nostre attenant,  
 Je ne vous promets rien qu'aisément je ne tienne.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Il faut qu'un grand matin faire en sorte qu'il vienne,  
 Et que de Stephanie il soit accompagné.  
 
-    LA SERVANTE
+    LA SERVANTE.
 C'est assez que vous m'ayez enseigné  
 Ce qu'il faut faire.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
     Allez.  
 
-    LA SERVANTE
+    LA SERVANTE.
     J'obeïs.  
 
 
-### SCENE II
+### SCENE II.
 
-    HENRIQUEZ *seul*
+    HENRIQUEZ *seul*.
         La courriere [310]  
 Qui du flambeau du jour commence la carriere,  
 N'est pas encore preste à faire son retour,  
@@ -4125,11 +4125,11 @@ A ne pas le troubler appliquons nostre effort,
 Et ceddons au pouvoir du frere de la mort [311].  
 
 
-### SCENE III
+### SCENE III.
 LAZARILLE, HENRIQUEZ endormis,
 
 
-    GUSMAN *faisant l'Esprit*
+    GUSMAN *faisant l'Esprit*.
 Peste tout tourne, où suis-je ? Ô Cambrouse [312] endiablée !  
 Qui pour quatre Louys rend ma teste troublée,  
 Que Lucifer t'emporte avec ton chien de trou,  
@@ -4148,39 +4148,39 @@ Il faut sans balancer que tu partes demain,
 *Pour rendre mille escus dérobez de ma main* ;  
 *Mais responds à ma voix, c'est ton Père*…  
 
-    LAZARILLE
+    LAZARILLE.
         Ah ! Mon Pere,  
 Dont le trépas funeste à causé ma misere,  
 Demeurez.  
 
-    GUSMAN
+    GUSMAN.
     Quelque sot.  
 
-    LAZARILLE
+    LAZARILLE.
     Vous fuyez.  
 
-    GUSMAN
+    GUSMAN.
         Je sais bien,  
 Aussi bien avec toy je ne gagnerois rien.  
 
-    LAZARILLE
+    LAZARILLE.
 Pourquoy me fuïr ?  
 
-    GUSMAN
+    GUSMAN.
         A tort son esprit s'embarrasse,  
 Je fais le mesme bien que je veux qu'on me fasse,  
 Ne m'approche non plus que je veux t'approcher.  
 
-    LAZARILLE
+    LAZARILLE.
 Peut-estre icy quelqu'un est venu se cacher,  
 Cherchons.  
 
-    GUSMAN
+    GUSMAN.
         Où faudra-il qu'à present je me niche,  
 Si tantost chaque coup vaut escu, je suis riche,  
 Je vais estre assommé s'il me peut entrevoir.  
 
-    LAZARILLE
+    LAZARILLE.
 Rien ne s'offre à mes yeux que pour me decevoir,  
 Et dans l'abisme affreux où mon mal-heur me plonge,  
 Je ne vois rien de vray que l'image d'un songe,  
@@ -4188,7 +4188,7 @@ Afin que ma douleur puisse un peu s'apaiser,
 Encore quelques moments taschons de reposer,  
 Et gardons à causer du trouble aux autres chambres.  
 
-    GUSMAN
+    GUSMAN.
 Je ne prétendois pas remporter tous mes membres,  
 Et pour m'empescher d'estre Henriquez de Gallas,  
 J'aurois volontiers mis les oreilles à bas [314] ;  
@@ -4222,129 +4222,129 @@ Et partir de Seville à la pointe du jour,
 Pour aller à Tolede establir ton sejour.  
 Ton Pere …  
 
-    LAZARILLE
+    LAZARILLE.
         Quoy, mon Pere ? Ah ! Si mon sort vous touche,  
 Pour dire encore un mot, daignez ouvrir la bouche,  
 Adoucissez l'ennuy⁎ dont je suis travaillé,  
 Parlez.  
 
-    GUSMAN
+    GUSMAN.
         Adieu le cœur, puis qu'il est éveillé.  
 
-    LAZARILLE
+    LAZARILLE.
 En quel trouble mon ame est-elle ensevelie ?  
 O bizarre destin ! Sort fatal !  
 
-    GUSMAN
+    GUSMAN.
         C'est folie,  
 Pour animer⁎ mon cœur j'ay beau faire un effort,  
 Je ne suis point vaillant si ce n'est quand il dort.  
 
-    LAZARILLE
+    LAZARILLE.
 Au moins permettez donc que mon œil se desille,  
 Et cessez s'il se peut d'affliger Lazarille.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Lazarille, bons Dieux ! Ou je suis insensé ;  
 Ou ce nom dans ce lieu vient d'estre prononcé.  
 
-    LAZARILLE
+    LAZARILLE.
 Je souhaitte une chose impossible [316],  
 Qui n'est plus ce qu'un Esprit ne peut estre visible :  
 Mais à mon triste sort soyez moins endurcy,  
 Et dites pour le moins si vous estes icy.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Oüy, j'y suis Lazarille.  
 
-    GUSMAN
+    GUSMAN.
         Ô surprise effroyable !  
 Les Enfers pour me perdre ont vomy quelque Diable,  
 Qui pour vanger ma fourbe [317] employant ses efforts,  
 Chastiera mon esprit aux despens de mon corps.  
 Adieu Gusman.  
 
-    LAZARILLE
+    LAZARILLE.
         Suffit, mais soulagez ma peine,  
 Dites si dans ce lieu c'est moy qui vous ameine.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Nullement.  
 
-    GUSMAN
+    GUSMAN.
         En effet, Belzebut je le croy,  
 Tu ne viens pas pour luy, tu ne viens que pour moy.  
 
-    LAZARILLE
+    LAZARILLE.
 Enfin donc ma douleur à vostre ame soûmise,  
 De pouvoir vous toucher la faveur m'est permise,  
 Je vous tiens.  
 
-    GUSMAN
+    GUSMAN.
         Pauvre Esprit ! Où te fourreras-tu ?  
 
-    LAZARILLE
+    LAZARILLE.
 Vous voyez Lazarille à vos pieds abattu,  
 Je veux vous obeïr, rien ne m'est difficile,  
 Je sçay que vous voulez que je quitte Sevile,  
 J'y consens pour vous plaire, et immole en ce jour,  
 L'amour à la nature, et moy-mesme à l'amour.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Quel discours ambigu ?  
 
-    GUSMAN
+    GUSMAN.
         Que le Diable te gratte,  
 Grace au bon Jupiter je suis hors de ta patte,  
 Attrappons quelque coin [318].  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         Je te tiens mon cher fils.  
 
-    GUSMAN
+    GUSMAN.
 Le plus infortuné de la troupe d'Esprits,  
 Où t'es-tu là rangé ?  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         Quel ennuy⁎ te possede ?  
 Il est vray que je veux te revoir à Tolede :  
 Mais loin qu'en tes projets je te veüille trahir,  
 Obeïr à l'amour c'est assez m'obeïr.  
 
-    GUSMAN
+    GUSMAN.
 Enfilons la venelle [319].  
 
-    LAZARILLE
+    LAZARILLE.
         Ô fortune prospere,  
 Obeïr à l'amour, c'est vous plaire mon pere,  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Sans doute.  
 
-    GUSMAN
+    GUSMAN.
         En quel endroit pourroit estre mon trou,  
 Si j'ouvre ma lanterne ils me rompent le cou,  
 Il faut donc se resoudre, ô trop sourde lanterne,  
 A ne te pas ouvrir de peur qu'on me discerne.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Parle-moy.  
 
-    LAZARILLE
+    LAZARILLE.
         Pour respondre à l'amour paternel,  
 Je dois vous souhaiter un repos eternel ;  
 Et qu'à mes vœux ardans le Ciel estant propice,  
 Vous sentiez sa clemence, et non pas sa justice.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 C'est mal prendre son temps pour ce triste propos.  
 
-    GUSMAN
+    GUSMAN.
 Quelle gresle de coups va tomber sur mon dos.  
 C'est bien fait, aussi bien je suis trop temeraire,  
 Et j'eus trop peu d'esprit quand je le voulus faire.  
 
-    LAZARILLE
+    LAZARILLE.
 Touchant les mille escus autrefois mal acquis,  
 Que de restituer je suis par vous requis,  
 Puis que pour estre heureux il faut estre sans tache,  
@@ -4352,175 +4352,175 @@ Et qu'à vous contenter fortement je m'attache,
 Vostre ombre vagabonde aura droit desormais  
 De gouster des douceurs qui ne cessent jamais.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Il a perdu le sens, quelle angoisse mortelle !  
 Depuis quel temps, mon fils, n'as-tu plus de cervelle ?  
 Helas !  
 
-    LAZARILLE
+    LAZARILLE.
         Si mon esprit vous paroist alteré,  
 C'est depuis vostre mort qu'il est donc esgaré ?  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Ma mort !  
 
-    GUSMAN
+    GUSMAN.
         D'estre rossé [320] je sens approcher l'heure.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Je sçay que dans mon aage il est temps que je meure,  
 Nous naissons pour mourir ; mais malgré cette loy  
 Mon jour n'est pas venu, je vis.  
 
-    LAZARILLE
+    LAZARILLE.
         Pardonnez-moy ;  
 Vous estes mort mon Pere, et la chose est certaine.  
 
-    GUSMAN
+    GUSMAN.
 Pour si peu qu'il est mort ce n'en est pas la peine.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Si je suis mort, c'est donc sans m'en appercevoir :  
 Mais de quelle personne as-tu pû le sçavoir.  
 
-    LAZARILLE
+    LAZARILLE.
 Je tiens de Dom Raymond cette triste nouvelle.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Il faut le détromper, hola⁎ de la chandelle.  
 
-    GUSMAN
+    GUSMAN.
 De la chandelle, helas ! La feinte va finir,  
 J'ay si bien fait le mort qu'il le faut devenir.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 De la clarté, fus donc, hola⁎ ! viste mon Maistre,  
 Dés que tu me verras, tu sçauras me connoistre.  
 
-    LAZARILLE
+    LAZARILLE.
 Cependant ma frayeur est sans comparaison.  
 
-    GUSMAN
+    GUSMAN.
 S'il faut faire l'Esprit, faisons le par raison,  
 Et tâchons d'éviter les coups qu'on nous prepare.  
 
 
-### SCENE IV
+### SCENE IV.
 L'HOTE, LAZARILLE, HENRIQUEZ, GUSMAN
 
 
-    L’HÔTE, *avec une chandelle.*
+    L’HÔTE, *avec une chandelle.*.
 Pourquoy faire Messieurs un si grand tintamare ?  
 D'où vient que du sommeil…  
 
-    GUSMAN
+    GUSMAN.
     Mon fils.  
 
-    L’HÔTE *se laissant tomber, et la chandelle s'éteint.*
+    L’HÔTE *se laissant tomber, et la chandelle s'éteint.*.
         Helas mon Dieu !  
 Quel horrible fantosme est gisté dans ce lieu ?  
 A moy viste garçons, de la clarté.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         Je pasme [321] !  
 
-    LAZARILLE
+    LAZARILLE.
 Une peur effroyable a coulé dans mon ame.  
 
-    L’HÔTE
+    L’HÔTE.
 Je vois d'autre chandelle.  
 
 
-### SCENE V
+### SCENE V.
 DES GARCONS, L'HÔTE, HENRIQUEZ, LAZARILLE, GUSMAN.
 
 
-    L’HÔTE
+    L’HÔTE.
         Ah ! Messieurs qu'est-cecy ?  
 Parlez.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
     Je n'en sçais rien.  
 
-    LAZARILLE
+    LAZARILLE.
         Je n'en sçais rien aussi,  
 Tout me devient fatal, Ciel quelle est ma misere !  
 Est-ce en vous que je vois l'ombre de feu mon pere.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Tu vois ton pere en vie.  
 
-    LAZARILLE
+    LAZARILLE.
         Hé bien, j'en suis d'accord,  
 Vous qui donc estes-vous ?  
 
-    GUSMAN
+    GUSMAN.
         Je suis ton pere mort,  
 Oüy, je suis, ô garçon ! Qui de moy voulus naistre,  
 Aussi bien trespassé qu'aucun autre puisse estre.  
 
-    LAZARILLE
+    LAZARILLE.
 Tout me confond⁎, mon trouble est plus fort que devant ;  
 Enfin mon pere mort, ou mon pere vivant,  
 Si de vous, ou de vous je receus la naissance,  
 Donnez-m'en l'un ou l'autre une claire apparence.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Dans les traits de ton pere envisage les tiens.  
 
-    GUSMAN
+    GUSMAN.
 La mort que j'ay soufferte a changé tous les miens,  
 C'est un monstre infernal revestu de ma forme.  
 
-    LAZARILLE
+    LAZARILLE.
 Est-il vray que je veille, ou si [322] c'est que je dorme.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Tu te laisses surprendre, et ne m'escoute pas.  
 
-    LAZARILLE
+    LAZARILLE.
 Que direz-vous, mon pere a souffert le trespas,  
 J'en suis certain.  
 
-    GUSMAN
+    GUSMAN.
     D'accord.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         En vain donc je te presche,  
 
-    GUSMAN *bas*
+    GUSMAN *bas*.
 De rentrer dans mon trou l'un et l'autre m'empesche,  
 J'en enrage.  
 
-    LAZARILLE
+    LAZARILLE.
         Il est temps de finir ma douleur,  
 L'un des deux est sans doute, ou Sorcier, ou Voleur.  
 
-    L’HÔTE
+    L’HÔTE.
 C'est ma pensée, et l'ombre en a bien l'encolure.  
 
-    GUSMAN
+    GUSMAN.
 Ah ! Gros ventre de son [323], qui me fais une injure,  
 Mal-heur sur la maison de qui choque les morts.  
 
-    LAZARILLE
+    LAZARILLE.
 Qui des deux soit mon pere, excusez mes efforts.  
 
-    GUSMAN
+    GUSMAN.
 A mon secours, mon Maistre, on me veut mener pendre.  
 
 
-### SCENE VI
+### SCENE VI.
 FABRICE, GUSMAN, LAZARILLE, HENRIQUEZ, L'HÔTE, SES GARCONS.
 
 
-    FABRICE
+    FABRICE.
 Ne crains rien, je parois, et je viens te deffendre.  
 
-    LAZARILLE
+    LAZARILLE.
 Fabrice ! Ô juste Ciel !  
 
-    FABRICE
+    FABRICE.
         c'est Fabrice en effet,  
 Qui fut de tes amis tousjours le plus parfait ;  
 Mais qui cesse de l'estre en son mal-heur extréme,  
@@ -4532,125 +4532,125 @@ Qui de ton oncle mesme imita l'escriture,
 Et qui pour t'esloigner d'un objet plein d'appas,  
 De ton pere vivant t'annonça le trespas.  
 
-    LAZARILLE
+    LAZARILLE.
 Desloyal confident d'une ardeur infinie,  
 Quoy ! Ton cœur en secret brusle pour Stephanie ?  
 Tu l'aymes⁎ !  
 
-    HENRIQUEZ
+    HENRIQUEZ.
     Stephanie !  
 
-    FABRICE
+    FABRICE.
         Oüy ! J'en suis amoureux,  
 Cette beauté charmante est l'objet de mes vœux.  
 
-    LAZARILLE
+    LAZARILLE.
 Je l'ayme⁎ aussi Fabrice, et je sçay qu'elle m'ayme⁎,  
 Et j'attends des Dieux la puissance supréme…  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Point de serments, mon fils, vous Fabrice esperez.  
 
-    LAZARILLE
+    LAZARILLE.
 Quoy vous voulez ma perte et vous l'en asseurez ?  
 Un Pere m'opprimer, consentir à ma peine :  
 Mais, ô Dieux ! j'aperçois Ferdinand qui l'ameine,  
 Qu'est-cecy !  
 
-    FABRICE
+    FABRICE.
     Juste Ciel !  
 
 
-### SCENE VII ET DERNIERE
+### SCENE VII ET DERNIERE.
 FERDINAND, STEPHANIE, LAZARILLE, HENRIQUEZ, GUSMAN, FABRICE.
 
 
-    HENRIQUEZ
+    HENRIQUEZ.
         Approchez bon Vieillard.  
 
-    FERDINAND
+    FERDINAND.
 Vous ay-je pas, Monsieur, desja veu quelque part ?  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Cela se peut.  
 
-    FERDINAND
+    FERDINAND.
         J'ignore en quel lieu ce peut estre.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Cette moitié d'anneau vous le fera connoistre.  
 
-    LAZARILLE
+    LAZARILLE.
 Qu'entens-je ?  
 
-    FERDINAND
+    FERDINAND.
         C'est donc vous ? Ah ! Je vous reconnoy.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Ne cherchez desormais vostre Père qu'en moy,  
 Je le suis, Stephanie.  
 
-    FABRICE 
+    FABRICE.
     Ô bon-heur !  
 
-    LAZARILLE
+    LAZARILLE.
         Ô disgrace !  
 
-    STEPHANIE
+    STEPHANIE.
 Vous, mon Pere !  
 
-    FERDINAND
+    FERDINAND.
     Luy-mesme.  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         Ah ! Que je vous embrasse  
 Ma Fille. Lazarille amortis ton ardeur,  
 Au lieu d'une Maistresse envisage une Sœur.  
 
-    FERDINAND
+    FERDINAND.
 Une Sœur, je la tiens…  
 
-    STEPHANIE
+    STEPHANIE.
         Quoy, vous estes son Pere ?  
 
-    LAZARILLE
+    LAZARILLE.
 Il l'est ; De vostre Amant⁎ je deviens vostre Frere,  
 Quel besoin aviez-vous de cacher si long-temps…  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Ailleurs je t'en diray les secrets importans,  
 Ce bon homme sçait tout. Cependant de Fabrice,  
 Ma chere Stephanie acceptez le service.  
 
-    FERDINAND
+    FERDINAND.
 Mais, Monsieur, j'esperois …  
 
-    HENRIQUEZ
+    HENRIQUEZ.
         il est juste, esperez.  
 
-    FERDINAND
+    FERDINAND.
 Mon ardeur  
 
-    HENRIQUEZ
+    HENRIQUEZ.
     M'est connuë.  
 
-    FERDINAND
+    FERDINAND.
         Et de plus vous sçaurez…  
 
-    HENRIQUEZ
+    HENRIQUEZ.
 Il suffit ; vous verrez que je suis raisonnable.  
 
-    FERDINAND
+    FERDINAND.
 Que plutost ne te vois-je emporter par le Diable :  
 Ah ! Je suis mort.  
 
-    GUSMAN
+    GUSMAN.
         Fort bien, nostre espoir decevant [324],  
 Te fait le Vivant Mort, et moy le MORT VIVANT.  
 FIN
 
 
-## Extraict du Privilege du Roy 
+## Extraict du Privilege du Roy. 
 
 Par grace et Privilege du Roy, donné à Paris le II May 1662 signé par le Roy en son Conseil, DUMOLEY ; il est permis à JEAN GUIGNARD fils, Marchand Libraire à Paris, d'imprimer ou faire imprimer une Piece de Theatre, intitulée, *Le Mort Vivant, par le Sieur Boursault*, et ce durant le temps de cinq années, à compter du jour qu'il sera achevé d'imprimer pour la premiere fois. Et deffences sont faites à tous Imprimeurs, Libraires et autres, de l'imprimer, ou faire imprimer, vendre, debiter ny contrefaire ledit Livre sans le consentement du dit Exposant, à peine aux contrevenans de trois mil livres d'amende, confiscation des exemplaires, et de tous despens, dommages et interests, ainsi qu'il est plus amplement porté par ledit Privilege.
 
@@ -4663,7 +4663,7 @@ Les exemplaires ont esté fournis.
 Registré sur le Livre de la Communauté des Imprimeurs et Marchands Libraires de cette ville Paris.
 
 
-## Lexique du Mort vivantAmant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 66, v. 67, v. 198, v. 230, v. 234, v. 290, v. 376, v. 924Animer« Se dit figurément Pour marquer la force que l'on donne à un discours par la maniere de le prononcer » (Dictionnaire de l'Académie française, 1694).V. 211, v. 628, v. 785Encourager.V. 455AvisConseil.V. 217« Il se dit aussi des nouvelles qu'on mande, & de celles qu'on reçoit. » (Dictionnaire de l'Académie française, 1762).V. 358Aymer « Avoir de l'affection pour quelque chose … il est naturel d'*aimer* sa femme et ses enfants, ses amis. » (Furetière).V. 27, v. 42, v. 44, v. 68, v. 71, v. 97, v. 107, v. 195, v. 199, v. 203, v. 215, v. 223, v. 237, v. 241, v. 246, v. 272, v. 279, v. 298, v. 396, v. 402, v. 410, v. 503, v. 522, v. 524, v. 528, v. 529, v. 538, v. 553, v. 557, v. 598, v. v. 627, v. 905, v. 907Confondre « Troubler, Mettre en desordre, Couvrir de honte » (Dictionnaire de l'Académie française, 1694).V. 568, v. 582, v. 873Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. » (Furetière)V. 781, v. 815Hola « Est quelquefois interjection qui sert pour appeller des gens de basse condition, des laquais. » (Furetière).V. 502, v. 852, v. 855Obliger Rendre service, faire une faveur.V. 304, v. 323, 537, 642Contraindre.V. 350Potentat « Qui a une puissance souveraine et fort étenduë. Le Roy est le plus redouté de tous les Potentats de l'Europe » (Furetière).V. 400, v. 586Soûpir « Respiration plus forte & plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse, etc. » (Dictionnaire de l'Académie française, 1694).V. 462, v. 509, v. 671Souffrir Permettre.Dédicace, v. 79, v. 94, v. 574, v. 611Endurer.V. 183, v. 282 Admettre, recevoir.V. 14, v. 270 
+## Lexique du Mort vivant.Amant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 66, v. 67, v. 198, v. 230, v. 234, v. 290, v. 376, v. 924Animer« Se dit figurément Pour marquer la force que l'on donne à un discours par la maniere de le prononcer » (Dictionnaire de l'Académie française, 1694).V. 211, v. 628, v. 785Encourager.V. 455AvisConseil.V. 217« Il se dit aussi des nouvelles qu'on mande, & de celles qu'on reçoit. » (Dictionnaire de l'Académie française, 1762).V. 358Aymer « Avoir de l'affection pour quelque chose … il est naturel d'*aimer* sa femme et ses enfants, ses amis. » (Furetière).V. 27, v. 42, v. 44, v. 68, v. 71, v. 97, v. 107, v. 195, v. 199, v. 203, v. 215, v. 223, v. 237, v. 241, v. 246, v. 272, v. 279, v. 298, v. 396, v. 402, v. 410, v. 503, v. 522, v. 524, v. 528, v. 529, v. 538, v. 553, v. 557, v. 598, v. v. 627, v. 905, v. 907Confondre « Troubler, Mettre en desordre, Couvrir de honte » (Dictionnaire de l'Académie française, 1694).V. 568, v. 582, v. 873Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. » (Furetière)V. 781, v. 815Hola « Est quelquefois interjection qui sert pour appeller des gens de basse condition, des laquais. » (Furetière).V. 502, v. 852, v. 855Obliger Rendre service, faire une faveur.V. 304, v. 323, 537, 642Contraindre.V. 350Potentat « Qui a une puissance souveraine et fort étenduë. Le Roy est le plus redouté de tous les Potentats de l'Europe » (Furetière).V. 400, v. 586Soûpir « Respiration plus forte & plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse, etc. » (Dictionnaire de l'Académie française, 1694).V. 462, v. 509, v. 671Souffrir Permettre.Dédicace, v. 79, v. 94, v. 574, v. 611Endurer.V. 183, v. 282 Admettre, recevoir.V. 14, v. 270 
 LE MEDECIN VOLANT,
 
 COMÉDIE
@@ -4687,12 +4687,12 @@ Vostre tres-humble, et affectionné Serviteur,
 BOURSAULT.
 
 
-## ADVIS AU LECTEUR 
+## ADVIS AU LECTEUR. 
 
 LE MEDECIN VOLANT que j'expose à ton jugement, mon cher LECTEUR, est l'une des plus aimables Pieces qui soit au Theatre, et j'en puis parler de la sorte sans choquer la bien-seance, puisque ce n'est pas moy qui en suis l'Auteur. Le sujet est Italien ; il a esté traduit en nostre langue ; representé de tous costez ; et je crois qu'il est plus beau de ma façon que d'aucune autre, à cause qu'outre la Traduction qui en est fidele, il a encore la grace de la Poësie. Il est vray qu'on le represente au Marais ; mais quoy qu'il soit en vers, on peut dire que la Poësie ne luy a point donné de grace : Veritablement les nouveaux Acteurs qui sont entrez dans cette Trouppe, l'ont apporté de Flandres [330], et c'est pour cela que le langage de cette Piece est si corrompu. Je te fais juge de ce Medecin Volant-cy, et c'est tout ce que j'ay à te dire.
 
 
-## Extraict du Privilege du Roy 
+## Extraict du Privilege du Roy. 
 
 Par Grace et Privilege du Roy, donné à Pari le dernier Octobre mil six cens soixante-quatre. Signé, Par le Roy en son Conseil, GUITONNEAU. Il est permis à NICOLAS PEPINGUE', Imprimeur et Marchand Libraire à Paris, d'imprimer, faire imprimer, vendre et debiter une Piece de Theatre, intitulée, *Le Medecin volant, Comedie, composée par le Sr Boursault*, pendant le temps et l'espace de sept années, à commencer du jour que ladite Piece sera achevée d'imprimer pour la premiere fois ; Et deffenses sont faites à toutes personnes de quelque qualité et condition qu'elles soient, d'imprimer, ny faire imprimer, vendre et debiter ladite Piece sans le consentement de l'Exposant, ou de ceux qui auront droict de luy, à peine de trois mil livres d'amende, confiscation des exemplaires, despens, dommages et interests, ainsi que plus au long il est porté audit Privilege.
 
@@ -4719,21 +4719,21 @@ La Scene est devant la Maison de Fernand
 LISE, CLEON.
 
 
-    LISE
+    LISE.
 N'insultez [331] point de grace au mal-heur de Lucresse,  
 Je say qu'elle a pour vous une forte tendresse⁎ ;  
 Mais enfin de son pere elle craint le pouvoir,  
 Et ne peut se resoudre au plaisir de vous voir.  
 Une fille bien née a tousjours de la crainte.  
 
-    CLEON 
+    CLEON. 
 Que veux-tu, la douleur dont mon ame est atteinte,  
 Rend ma plainte équitable, et me fait murmurer [332]  
 Contre un Objet charmant que je dois adorer.  
 Mais Lise à sa fenestre une prompte escalade  
 Peut m'ouvrir une voye …  
 
-    LISE
+    LISE.
         Elle fait la malade,  
 Monsieur, et le vieux Reistre [333] est party du matin  
 Pour chercher par la ville un expert Medecin.  
@@ -4747,7 +4747,7 @@ Adieu, pensez à vous, et vous ressouvenez,
 Qu'il n'est rien d'impossible aux cœurs passionnez [336].  
 
 
-## SCENE II
+## SCENE II.
 
     CLEON *seul*.
 Aux cœurs passionnez il n'est rien d'impossible,  
@@ -4756,146 +4756,146 @@ De donner à mon ame un moment de repos ;
 Il faut…mais ô Crispin que tu viens à propos.  
 
 
-## SCENE III
+## SCENE III.
 CLEON, CRISPIN.
 
 
-    CRISPIN
+    CRISPIN.
 Je vous cherche partout pour vous rendre réponce  
 Monsieur.  
 
-    CLEON
+    CLEON.
         Si tu savois ce que Lise m'annonce,  
 Cher Crispin…  
 
-    CRISPIN
+    CRISPIN.
         Il m'a dit que tantost sur le soir…  
 
-    CLEON
+    CLEON.
 Quand on a de l'amour, et qu'on a de l'espoir…  
 
-    CRISPIN
+    CRISPIN.
 Je vous dis, et redis qu'il m'a dit de vous dire…  
 
-    CLEON
+    CLEON.
 Pour des charmes si doux lors qu'une ame soupire.  
 
-    CRISPIN
+    CRISPIN.
 Vous plaist-il que je parle, ô babillard [337] maudit ?  
 Ou ne diray-je mot ?  
 
-    CLEON
+    CLEON.
         Tu m'en as assez dit.  
 Le temps m'est precieux [338], et ma flame me presse ;  
 Raisonnons entre nous ; je me meurs pour Lucresse.  
 
-    CRISPIN
+    CRISPIN.
 Mourez-vous.  
 
-    CLEON
+    CLEON.
         Son visage a des attraits puissants,  
 Elle asservit mon ame, elle charme mes sens,  
 En un mot je l'adore, et son pere me l'oste,  
 Tu le vois.  
 
-    CRISPIN
+    CRISPIN.
         Il est vray, mais ce n'est pas ma faute.  
 
-    CLEON
+    CLEON.
 D'accord, de mon mal-heur je ne puis t'accuser,  
 Mais tu connois son père, il le faut abuser⁎,  
 Qu'en dis-tu ?  
 
-    CRISPIN
+    CRISPIN.
         Moy, Monsieur ? abusez⁎, que m'importe ?  
 
-    CLEON
+    CLEON.
 Il la tient enfermée, et je veux qu'elle sorte :  
 Mon cœur pour cét effort ne s'adresse qu'à toy,  
 Car enfin…  
 
-    CRISPIN
+    CRISPIN.
         A present il m'importe, ma foy [339].  
 A moy, Monsieur ?  
 
-    CLEON
+    CLEON.
         A toy, rends mon ame charmée [340].  
 
-    CRISPIN
+    CRISPIN.
 Ne me dites-vous pas qu'il la tient enfermée ?  
 
-    CLEON
+    CLEON.
 Oüy.  
 
-    CRISPIN
+    CRISPIN.
         Je n'y puis que faire. En quel lieu du logis ?  
 
-    CLEON
+    CLEON.
 C'est dessus le derriere [341].  
 
-    CRISPIN
+    CRISPIN.
     Ouy ?  
 
-    CLEON
+    CLEON.
     Ouy.  
 
-    CRISPIN
+    CRISPIN.
     Ouy ?  
 
-    CLEON
+    CLEON.
     Ouy.  
 
-    CRISPIN
+    CRISPIN.
         Tant pis.  
 
-    CLEON
+    CLEON.
 Je t'ay dit ma pensée, instruis-moy de la tienne.  
 
-    CRISPIN
+    CRISPIN.
 Elle est enfermée.  
 
-    CLEON
+    CLEON.
     Ouy.  
 
-    CRISPIN
+    CRISPIN.
         Que la belle s'y tienne,  
 Voila ce que je pense.  
 
-    CLEON
+    CLEON.
         Ah ! c'est trop s'amuser ;  
 Ecoute, sans scrupule il te faut déguiser.  
 
-    CRISPIN
+    CRISPIN.
 Me déguiser, Monsieur, et pourquoy ?  
 
-    CLEON
+    CLEON.
         C'est pour cause.  
 Je veux bien en ce lieu t'informer de la chose ;  
 Pour faire pleinement reüssir mon dessein,  
 Il faut estre aujourd'huy Medecin.  
 
-    CRISPIN
+    CRISPIN.
         Medecin  
 Bons Dieux !  
 
-    CLEON
+    CLEON.
         Sans perdre icy d'inutiles paroles,  
 Ce service rendu te vaudra six pistoles [342],  
 Si le gain t'encourage, avise [343], les voila,  
 Examine.  
 
-    CRISPIN
+    CRISPIN.
         Mon Dieu, ce n'est pas pour cela.  
 Medecin !  
 
-    CLEON
+    CLEON.
         Medecin, je n'ay point d'autre ruse.  
 
-    CRISPIN
+    CRISPIN.
 Mais il faut de l'esprit, et je suis une buse,  
 Et de plus…  
 
-    CLEON
+    CLEON.
         C'est à tort que tu prends de l'effroy,  
 Le père de Lucresse a moins d'esprit que toy,  
 Ce vieillard chassieux [344] connoit peu ton visage,  
@@ -4903,21 +4903,21 @@ Et tu sais…il avance, il me void, j'en enrage,
 Je le vais aborder, vas m'attendre chez moy,  
 J'auray soin de m'y rendre aussi vite que toy.  
 
-    CRISPIN
+    CRISPIN.
 Mais à moins de m'instruire apprenez…  
 
-    CLEON
+    CLEON.
         Va te dis-je,  
 Je te suy.  
 Il sort.
 
 
 
-## SCENE IV
+## SCENE IV.
 CLEON, FERNAND, PHILIPIN.
 
 
-    CLEON
+    CLEON.
         La douleur de Lucresse m'afflige,  
 Monsieur, quoi que mes soins lui soient indifferens,  
 Je viens vous informer de la part que j'y prens :  
@@ -4928,96 +4928,96 @@ D'un secours necessaire avance les effets.
 Adieu.  
 
 
-## SCENE V
+## SCENE V.
 FERNAND, PHILIPIN.
 
 
-    FERNAND
+    FERNAND.
         Ma pauvre fille, elle va rendre l'ame  
 Philipin.  
 
-    PHILIPIN
+    PHILIPIN.
         C'est à vous que j'en donne le blasme,  
 A la pourvoir d'un homme on a trop retardé,  
 Un pucelage nuit quand il est trop gardé,  
 C'est cela qui l'étouffe, et ces sortes de choses…  
 
-    FERNAND
+    FERNAND.
 Point, point, sa maladie a de plus justes causes :  
 Mais retourne au plus viste, et va voir Philipin  
 Si l'on attend bien-tost ce savant Medecin :  
 J'apprehende si fort que Lucresse ne meure…  
 
-    PHILIPIN
+    PHILIPIN.
 S'il estoit de retour il viendroit tout à l'heure,  
 On l'a dit.  
 
-    FERNAND
+    FERNAND.
         Il est vray, mais apprends [345] mon soucy,  
 D'autres peuvent l'attendre, et l'emmener aussi,  
 Et pour lors tout mon cœur accablé de tristesse  
 Si Lucresse enduroit…  
 
-    PHILIPIN
+    PHILIPIN.
         Peste soit de Lucresse,  
 Elle a le choix de vivre, ou du moins de mourir ;  
 Quel plaisir elle prend à me faire courir.  
 
-    FERNAND
+    FERNAND.
 Sur tout ne revient point que tu ne me l'ameines,  
 Je t'en prie.  
 
 
-## SCENE VI
+## SCENE VI.
 
-    FERNAND *seul.*
+    FERNAND *seul.*.
         En mon âge, ô bons Dieux que de peines !  
 Et que dans mes vieux ans…  
 
 
-## SCENE VII
+## SCENE VII.
 CRISPIN, FERNAND.
 
 
-    CRISPIN *en soutane.*
+    CRISPIN *en soutane.*.
         Pythagore, Platon,  
 Masche-à-vuide [346], Pancrace [347], Hesiode [348], Caton [349]…  
 
-    FERNAND *bas.*
+    FERNAND *bas.*.
 Quel seroit ce Docteur ? écoutons.  
 
-    CRISPIN
+    CRISPIN.
         Caligule,  
 Polieucte [350], Virgile, Anaxandre [351], Lucule [352]…  
 
-    FERNAND *bas.*
+    FERNAND *bas.*.
 O Dieux !  
 
-    CRISPIN
+    CRISPIN.
         Robert Vinot [353], Scipion l'Affricain,  
 Jodelet [354], Mascarille [355], Aristote, Lucain [356],  
 Medecins de Cesar, Assassins d'Alexandre [357],  
 Vous voyez un Phenix qu'a produit vostre cendre [358].  
 
-    FERNAND *bas.*
+    FERNAND *bas.*.
 Seroit-ce un Médecin ? il en parle [359].  
 
-    CRISPIN
+    CRISPIN.
         Approchez,  
 Venez voir grands Docteurs les mysteres cachez  
 De l'Enciclopedie [360], et de la Medecine.  
 
-    FERNAND
+    FERNAND.
 C'en est un.  
 
-    CRISPIN
+    CRISPIN.
         Venez voir ce que c'est que racine,  
 De la Mer Arabique [361], et le flux et reflux.  
 
-    FERNAND *à Crispin.*
+    FERNAND *à Crispin.*.
 Monsieur…  
 
-    CRISPIN
+    CRISPIN.
         Que voulez-vous ? *Ego sum Medicus*,  
 Medecin passé Maistre, Apprenty d'Hippocrate,  
 Je compose le baume, et le grand Mitridate [362],  
@@ -5026,31 +5026,31 @@ Que qui meurt en Fevrier [363] n'est plus malade en Mars,
 Que de quatre saisons une année est pourveuë,  
 Et que le mal des yeux est contraire à la veuë.  
 
-    FERNAND
+    FERNAND.
 Je ne saurois douter d'un si rare savoir,  
 Si j'osois vous prier…  
 
-    CRISPIN
+    CRISPIN.
     Dequoy ? parlez.  
 
-    FERNAND
+    FERNAND.
         De voir  
 Une fille que j'ay que chacun desespere [364].  
 
-    CRISPIN
+    CRISPIN.
 Vous avez une fille ! Et vous estes son pere,  
 A ce compte ?  
 
-    FERNAND
+    FERNAND.
         Ouy, Monsieur, et j'ay peur de sa mort.  
 
-    CRISPIN
+    CRISPIN.
 Elle est donc fort malade ?  
 
-    FERNAND
+    FERNAND.
     Ouy, Monsieur.  
 
-    CRISPIN
+    CRISPIN.
         Elle a tort.  
 Je luy veux conseiller qu'elle cesse de l'estre ;  
 Qui domine sur nous s'en veut rendre le maistre.  
@@ -5067,36 +5067,36 @@ Rien n'abrege la vie à l'esgard [368] de la mort.
 Ce sont de ces Auteurs les leçons que j'emprunte.  
 Votre fille, à propos, seroit-elle deffuncte ?  
 
-    FERNAND
+    FERNAND.
 Non, Monsieur.  
 
-    CRISPIN
+    CRISPIN.
     Mange-t-elle ?  
 
-    FERNAND
+    FERNAND.
         Un petit, grace aux Dieux.  
 
-    CRISPIN
+    CRISPIN.
 Elle n'est donc pas morte ?  
 
-    FERNAND
+    FERNAND.
     Elle ? Nenny [369].  
 
-    CRISPIN
+    CRISPIN.
         Tant mieux,  
 Je m'en réjouys fort.  
 
-    FERNAND
+    FERNAND.
         Et dequoy ? Cette vie  
 Avant la fin du jour luy peut être ravie.  
 
-    CRISPIN
+    CRISPIN.
 Tant pis, l'a-t-on fait voir à quelque Medecin ?  
 
-    FERNAND
+    FERNAND.
 Nullement.  
 
-    CRISPIN
+    CRISPIN.
         Elle a donc quelque mauvais dessein,  
 Puis qu'elle veut mourir sans aucune ordonnance [370],  
 De ces sortes de morts nostre Ecole s'offence :  
@@ -5109,36 +5109,36 @@ Pour mourir comme il faut qu'elle attende mes soins,
 Son ame à deloger est trop impatiente [372],  
 Monsieur.  
 
-    FERNAND
+    FERNAND.
         Permettez-moy d'appeller sa Suivante.  
 
-    CRISPIN, *bas.*
+    CRISPIN, *bas.*.
 Appellez. Je le tiens, ô le franc animal [373].  
 
-    FERNAND
+    FERNAND.
 Hola [374], Lise.  
 
 
-## SCENE VIII
+## SCENE VIII.
 LISE, FERNAND, CRISPIN.
 
 
-    LISE
+    LISE.
         Ah, Monsieur, vostre fille est fort mal !  
 
-    FERNAND
+    FERNAND.
 Que fait-elle ? Je tremble.  
 
-    LISE
+    LISE.
         Elle se plaint du ventre,  
 Elle sort de son lict, puis apres elle y rentre,  
 Se promene, se sied, veut dormir, veut veiller,  
 Malgré-moy de ce pas je la viens d'habiller…  
 
-    FERNAND
+    FERNAND.
 D'habiller !  
 
-    LISE
+    LISE.
         D'habiller ; sa boutade [375] m'estonne,  
 Je croy…  
 appercevant Crispin.
@@ -5146,63 +5146,63 @@ appercevant Crispin.
         Mais ce Gredin vous demande l'aumône,  
 Monsieur.  
 
-    FERNAND
+    FERNAND.
         Ah juste Ciel quel blaspheme tu fais !  
 C'est l'exemple parfait des Medecins parfaits,  
 Que j'ay bien du sujet de loüer sa rencontre.  
 
-    LISE
+    LISE.
 Medecin ?  
 
-    CRISPIN
+    CRISPIN.
         Medecin, ma soutane le monstre.  
 Mais sans perdre ma peine à prouver qui je suis,  
 Par ma seule doctrine aisement je le puis.  
 De la fille égrotante [376] apportez de l'urine,  
 Apportez.  
 
-    FERNAND *à Lise*
+    FERNAND *à Lise*.
     Allez viste en quérir.  
 Lise sort.
 
 
-    CRISPIN
+    CRISPIN.
         J'examine  
 Ce que cette malade à peu prés peut avoir ;  
 Mais je vois de l'urine, et je vais le savoir.  
 
 
-## SCENE IX
+## SCENE IX.
 CRISPIN, FERNAND, LISE
 
 
-    CRISPIN
+    CRISPIN.
 Approchez.  
 
-    FERNAND
+    FERNAND.
         De frayeur j'ay mon ame allarmée.  
 
-    LISE, *avec de l'urine*
+    LISE, *avec de l'urine*.
 En voilà.  
 
-    CRISPIN
+    CRISPIN.
         Voyez-vous, comme elle est enflamée ?  
 Mauvais signe.  
 
-    FERNAND
+    FERNAND.
     O bons Dieux, il en boit.  
 
-    CRISPIN, *apres avoir tout beu*
+    CRISPIN, *apres avoir tout beu*.
         Je croy bien ;  
 Mais qui boit pour si peu ne comprend jamais rien,  
 Allez en querir d'autre.  
 
-    FERNAND *à Lise.*
+    FERNAND *à Lise.*.
     Allez viste.  
 Lise sort encore.
 
 
-    CRISPIN
+    CRISPIN.
         Mon Prince,  
 Assez d'autres Docteurs d'une estoffe plus mince  
 Se seroient contentez du rapport de leurs yeux ;  
@@ -5212,85 +5212,85 @@ Que le goust est solide, et la veuë est trompeuse,
 Et qu'un grand Medecin quand il fait ce qu'il doit,  
 Il sent mieux une chose à la langue qu'au doigt [378].  
 
-    FERNAND
+    FERNAND.
 A ces fortes raisons je n'ay point de replique.  
 
 
-## SCENE X
+## SCENE X.
 LISE, CRISPIN, FERNAND.
 
 
-    LISE, *avec encore un peu d'urine.*
+    LISE, *avec encore un peu d'urine.*.
 A pisser comme il faut ma Maistresse⁎ s'applique,  
 Monsieur, et cependant je n'en ay qu'un filet,  
 Voyez.  
 
-    CRISPIN
+    CRISPIN.
     Pauvre pisseuse !  
 Après avoir encore beu il dit.
 
         Allez au Robinet [379]  
 En tirer.  
 
-    LISE
+    LISE.
     Mais Monsieur…  
 
-    CRISPIN
+    CRISPIN.
         Mais que cette pisseuse  
 Fasse une ample pissée, et qui soit copieuse,  
 Copieuse.  
 
-    LISE
+    LISE.
         Ma foy, ma Maistresse⁎ ne peut,  
 On n'a pas le pouvoir de pisser quand on veut.  
 C'est donner à Lucresse une peine [380] trop grande  
 Que vouloir…  
 
-    FERNAND *à Lise.*
+    FERNAND *à Lise.*.
         Dites-luy que Monsieur le commande,  
 Courez viste.  
 
-    LISE
+    LISE.
         Monsieur, vostre fille n'a pû,  
 Mais enfin pour vous plaire à l'instant elle a bû,  
 Si Monsieur veut attendre à luy rendre service [381],  
 Au plus tard dans une heure il faudra qu'elle pisse.  
 
-    CRISPIN
+    CRISPIN.
 Elle a raison.  
 
-    LISE
+    LISE.
         De plus pour chasser son soucy  
 Elle s'est resoluë à venir jusqu'icy.  
 Elle vient.  
 
 
-## SCENE XI
+## SCENE XI.
 LUCRESSE, FERNAND, CRISPIN, LISE
 
 
-    LUCRESSE
+    LUCRESSE.
     Ah mon pere !  
 
-    FERNAND
+    FERNAND.
     Ah ma fille !  
 
-    LISE
+    LISE.
         Courage.  
 
-    LUCRESSE
+    LUCRESSE.
 Je me meurs.  
 
-    CRISPIN
+    CRISPIN.
         Je luy trouve un passable visage ;  
 Serviteur ; Si pour vous nos remedes sont vains,  
 Vous aurez le plaisir de mourir par mes mains,  
 Consolez-vous.  
 
-    LUCRECE
+    LUCRECE.
     Helas !  
 
-    CRISPIN
+    CRISPIN.
         Vostre bras, que je taste  
 Si pour vous il est vray que la mort ait si haste,  
 Donnez dis-je.  
@@ -5301,17 +5301,17 @@ J'aurois bien de la peine à répondre de vous,
 Et vostre maladie est sans doute mortelle,  
 Prenez-y garde.  
 
-    FERNAND
+    FERNAND.
         O Dieux ! quelle triste nouvelle ;  
 Je suis donc bien malade, ô Monsieur ?  
 
-    CRISPIN
+    CRISPIN.
         Vous, pourquoy ?  
 
-    FERNAND
+    FERNAND.
 Vous n'avez pris le bras à personne qu'à moy.  
 
-    CRISPIN
+    CRISPIN.
 Et cela vous estonne ! Une tendresse⁎ extréme [382]  
 Rend la fille le pere, et le pere elle mesme,  
 Entr'eux-deux la nature est propice à tel point  
@@ -5321,68 +5321,68 @@ Sa douleur sur luy-mesme aisement reverbere,
 Et le sang l'un de l'autre est si fort dependant,  
 Que l'enfant met le pere en un trouble evident.  
 
-    FERNAND
+    FERNAND.
 Il est vray.  
 
-    CRISPIN
+    CRISPIN.
         Cependant quoy que mon savoir brille,  
 Je veux bien me resoudre à taster votre fille ;  
 Vostre bras.  
 
-    LUCRESSE
+    LUCRESSE.
     Le voila.  
 
-    CRISPIN
+    CRISPIN.
         Je m'en estois douté,  
 Il ne vous manque rien que beaucoup de santé,  
 Sans cela…  
 
-    LUCRESSE
+    LUCRESSE.
         J'ay la mort sur le bord de la levre,  
 Monsieur.  
 
-    CRISPIN
+    CRISPIN.
         Que je retaste. Avez-vous de la fievre ?  
 
-    LUCRESSE
+    LUCRESSE.
 Je ne say.  
 
-    CRISPIN
+    CRISPIN.
     Non ?  
 
-    LUCRESSE
+    LUCRESSE.
     Non.  
 
-    CRISPIN
+    CRISPIN.
     Fy [383].  
 
-    FERNAND
+    FERNAND.
     Dequoy ?  
 
-    CRISPIN
+    CRISPIN.
         Mauvais régal [384],  
 Par fois sans qu'on le sache on se porte fort mal,  
 Voyez-vous.  
 
-    FERNAND
+    FERNAND.
         De ses maux que je sache la cause.  
 
-    CRISPIN
+    CRISPIN.
 C'est la fievre, ce l'est, si ce n'est autre chose,  
 Mais soit fievre, ou migraine, ou cancrene ou mal-chaud [385],  
 Allez, pour la guerir, je say bien ce qu'il faut.  
 
-    FERNAND *à Lise.*
+    FERNAND *à Lise.*.
 Une plume, de l'encre.  
 
-    CRISPIN
+    CRISPIN.
     Et pourquoy ?  
 
-    FERNAND
+    FERNAND.
         L'Ordonnance,  
 Monsieur…  
 
-    CRISPIN
+    CRISPIN.
         Vous vous mocquez, je les fais par avance.  
 Je me tiens tousjours prest contre tous accidents ;  
 En voila pour les yeux, pour le flux, pour les dents ;  
@@ -5392,66 +5392,66 @@ Il faudra que le sien se rencontre parmy [386].
 Il donne une Ordonnance.
 
 
-    FERNAND
+    FERNAND.
 Charitable Monsieur, c'est agir en amy  
 Cela ; quel honneste homme.  
 
-    CRISPIN
+    CRISPIN.
         En quel lieu couche-t'elle ?  
 
-    FERNAND
+    FERNAND.
 Elle a sur le derriere une chambre assez belle.  
 
-    LISE
+    LISE.
 Ouy vrayment, une chambre assez belle en effect,  
 Si sombre.  
 
-    CRISPIN
+    CRISPIN.
         Croyez-moy, le devant est son fait,  
 Qu'on l'y mene, aussi bien la journée est mal saine [387].  
 
 
-## SCENE XII
+## SCENE XII.
 PHILIPIN, FERNAND, CANTEAS, CRISPIN
 
 
-    FERNAND *voyant venir Philipin.*
+    FERNAND *voyant venir Philipin.*.
 Philipin, ayde à Lise [388].  
 
-    PHILIPIN
+    PHILIPIN.
         A la fin je l'amene,  
 Le voicy.  
 Apres que Philipin a dit cela, il ayde à ramener Lucresse.
 
 
-    CRISPIN
+    CRISPIN.
     Qui donc ? qu'est-ce ?  
 
-    FERNAND
+    FERNAND.
         Un savant Medecin.  
 
-    CRISPIN *bas.*
+    CRISPIN *bas.*.
 Medecin, male-peste.  
 
-    CANTEAS
+    CANTEAS.
         Excusez, ce matin  
 L'intendant d'un Seigneur m'a contraint de me rendre  
 Monsieur…  
 
-    FERNAND
+    FERNAND.
         Mon bon Monsieur, je n'ay pû tant attendre,  
 Au retour de chez vous pour causer [389] mon repos  
 Ce fameux Medecin s'est offert à propos,  
 Je l'ay pris.  
 
-    CANTEAS
+    CANTEAS.
     Monsieur ?  
 
-    FERNAND
+    FERNAND.
         Ouy, mais qu'il a du merite,  
 Si vous saviez …  
 
-    CANTEAS
+    CANTEAS.
         Je louë, et je plains ma visite,  
 Je me tiens mal-heureux d'avoir pû me ravir  
 Au plaisir que j'aurois de pouvoir vous servir,  
@@ -5469,17 +5469,17 @@ Mais, Monsieur pardonnez, ce n'est point par audace,
 Je n'ay garde⁎ avec vous d'occuper cette place,  
 C'est à vous qu'elle est deuë.  
 
-    CRISPIN
+    CRISPIN.
     Ah !  
 
-    CANTEAS
+    CANTEAS.
     Monsieur…  
 
-    CRISPIN
+    CRISPIN.
         Palsambleu,  
 Ah !  
 
-    CANTEAS
+    CANTEAS.
         Sans ceremonie on vous doit le milieu,  
 Crispin par deux fois estant au milieu, comme Canteas veut parler, il s'écoule par derriere luy, et reprend sa premiere place.
 
@@ -5506,10 +5506,10 @@ Qu'il faudroit que mes yeux égalassent les vostres,
 Ou que de leurs rayons vous puissiez m'éclairer.  
 Pour m'offrir le moyen de ne pas m'esgarer.  
 
-    CRISPIN
+    CRISPIN.
 Ho, ho, ho [393].  
 
-    CANTEAS
+    CANTEAS.
         De plaisir on a l'ame ravie  
 Alors que d'un malade on prolonge la vie,  
 Et d'un grand Medecin rien n'égale le sort  
@@ -5524,53 +5524,53 @@ Mais peut-estre, Monsieur, je vous suis incommode [396],
 Car enfin comme vous les esprits eslevez  
 Aux emplois importants sont tousjours reservez.  
 
-    CRISPIN
+    CRISPIN.
 Ho, ho, ho.  
 
-    CANTEAS
+    CANTEAS.
         Je sors donc, mais j'ose me promettre  
 Qu'estant mieux occupé vous pourrez me permettre  
 De chercher un pretexte à me faire jouyr [397]  
 Du plaisir qu'on reçoit quand on peut vous oüyr.  
 
 
-## SCENE XIII
+## SCENE XIII.
 FERNAND, CRISPIN
 
 
-    FERNAND
+    FERNAND.
 Hé bien, ce Medecin, vous voyez comme il cause,  
 Qu'en dites-vous ?  
 
-    CRISPIN
+    CRISPIN.
         Il sait quelque petite chose.  
 
-    FERNAND
+    FERNAND.
 Daignez-moy je vous prie informer de cela,  
 Touchant la Medecine est-il expert ?  
 
-    CRISPIN
+    CRISPIN.
         Là, là [398],  
 Passable.  
 
-    FERNAND
+    FERNAND.
         Il n'a pas donc la science parfaite ?  
 Pour qui passeroit-il prés de vous ?  
 
-    CRISPIN
+    CRISPIN.
         Pour Mazette [399].  
 
-    FERNAND
+    FERNAND.
 Mais durant qu'il parloit vous ne disiez mot ?  
 
-    CRISPIN
+    CRISPIN.
         Moy ?  
 Dites-vous ?  
 
-    FERNAND
+    FERNAND.
     Ouy vraiment je dy vous.  
 
-    CRISPIN
+    CRISPIN.
         Je le croy.  
 Pour pouvoir de cét homme éprouver la science,  
 J'ay voulu me resoudre à garder le silence :  
@@ -5589,42 +5589,42 @@ Que Seneque et Pauline estoient l'homme et la femme,
 Que Narcisse en personne autrefois se noya,  
 Et semper quoniam tuos alleluya.  
 
-    FERNAND
+    FERNAND.
 Je ne puis rien comprendre à ces phrases d'élite.  
 
-    CRISPIN
+    CRISPIN.
 Je m'en apperçois bien, mais adieu je vous quitte,  
 Je verray votre fille ou ce soir, ou demain.  
 
-    FERNAND *luy veut bailler* [404]* de l'argent.*
+    FERNAND *luy veut bailler* [404]* de l'argent.*.
 Monsieur…  
 
-    CRISPIN
+    CRISPIN.
     Ah !  
 
-    FERNAND
+    FERNAND.
         Recevez ces Louys de ma main.  
 
-    CRISPIN
+    CRISPIN.
 Je n'ay garde⁎.  
 
-    FERNAND
+    FERNAND.
         Prenez, je vous dois recompense,  
 Monsieur.  
 
-    CRISPIN
+    CRISPIN.
         Je ne suis pas un Marchand de Science.  
 
-    FERNAND
+    FERNAND.
 Hé de grace.  
 
-    CRISPIN
+    CRISPIN.
         Non non, je vous suis serviteur.  
 Il s'en va.
 
 
 
-## SCENE XIV
+## SCENE XIV.
 
     FERNAND *seul*.
 Que cét homme est habile, et qu'il est grand Docteur !  
@@ -5636,169 +5636,169 @@ Voyons ce qu'au logis la science a fait naistre,
 Et sachons …  
 
 
-## SCENE XV
+## SCENE XV.
 FERNAND, CRISPIN
 
 
-    CRISPIN *en habit de valet*
+    CRISPIN *en habit de valet*.
         Au plus viste, attrapons nostre Maistre,  
 Réjoüissance…ô Dieux ! C'est Fernand que je croy !  
 C'est luy-mesme !  
 
-    FERNAND
+    FERNAND.
         Est-ce pas mon Docteur que je voy ?  
 C'est lui-mesme, c'est lui : Votre mine est pleureuse,  
 Qu'estes-vous ?  
 
-    CRISPIN
+    CRISPIN.
         Moy Monsieur ? un pauvre homme qui gueuse [407].  
 
-    FERNAND
+    FERNAND.
 Quoy, tu [408] gueuses⁎ ?  
 
-    CRISPIN
+    CRISPIN.
         Monsieur, mes malheurs sont si grands…  
 
-    FERNAND
+    FERNAND.
 Mais dedans cette ville as-tu point de parens ?  
 
-    CRISPIN
+    CRISPIN.
 Ah ! Monsieur des parens on n'a guere de grace,  
 Je suis frere à mon frere, et c'est luy qui me chasse.  
 
-    FERNAND
+    FERNAND.
 Il faut donc que sans doute il en ait le sujet ;  
 Qu'as-tu fait ?  
 
-    CRISPIN
+    CRISPIN.
         Respandu la moitié d'un Julet [409].  
 
-    FERNAND
+    FERNAND.
 Il est donc Medecin ?  
 
-    CRISPIN
+    CRISPIN.
     Ouy, Monsieur.  
 
-    FERNAND
+    FERNAND.
         Il me semble  
 Que ce frere en colere à peu prés te ressemble.  
 
-    CRISPIN
+    CRISPIN.
 Ouy, Monsieur.  
 
-    FERNAND
+    FERNAND.
         Penses-tu qu'on le puisse appaiser ?  
 
-    CRISPIN
+    CRISPIN.
 Non, Monsieur.  
 
-    FERNAND
+    FERNAND.
         Si tu veux je luy vais proposer…   
 
-    CRISPIN
+    CRISPIN.
 Il ne souffrira⁎ pas que jamais je le voye,  
 Monsieur.  
 
-    FERNAND
+    FERNAND.
         Si je m'en mesle, il aura de la joye ;  
 Je le viens de quitter, il est fort mon amy.  
 
-    CRISPIN
+    CRISPIN.
 S'il est vray je ne sens ma douleur qu'à demy,  
 Car Monsieur, je vois bien que vous estes brave homme,  
 Vous aurez de la peine à souffrir⁎ qu'il m'assomme.  
 
-    FERNAND
+    FERNAND.
 Attends-moy, de ce pas je m'en vais le chercher.  
 
-    CRISPIN
+    CRISPIN.
 Moy, Monsieur ? Point du tout, je m'en vais me cacher.  
 
-    FERNAND
+    FERNAND.
 Mais il faut te monstrer.  
 
-    CRISPIN
+    CRISPIN.
         Ah ! Monsieur, je ne l'ose,  
 Sans savoir si vos soins auront fait quelque chose :  
 Je m'en vais s'il vous plaist vous attendre à l'escart.  
 
 
-## SCENE XVI
+## SCENE XVI.
 
-    FERNAND *seul.*
+    FERNAND *seul.*.
 Ce garçon mal-heureux est venu sur le tard ;  
 Deux minutes plustost je l'accordois [410] sur l'heure ;  
 Foin de moy [411]; je ne sais où son frere demeure :  
 Mais tousjours je l'attends sur le soir…  
 
 
-## SCENE XVII
+## SCENE XVII.
 CRISPIN, FERNAND
 
 
-    CRISPIN *en soutane.*
+    CRISPIN *en soutane.*.
         Ah Maraut⁎ !  
 Je vous jure…  
 
-    FERNAND
+    FERNAND.
         Ah ! Monsieur, vous venez comme il faut [412] :   
 Vous pouvez en ce lieu m'accorder une grace.  
 
-    CRISPIN
+    CRISPIN.
 Moi, Monsieur ? Il n'est rien que pour vous je ne fasse,  
 Commandez.  
 
-    FERNAND
+    FERNAND.
         Vostre frere, il a tant de douleur,  
 Que j'ay droict d'esperer…  
 
-    CRISPIN
+    CRISPIN.
         C'est un Coquin⁎, Monsieur.  
 
-    FERNAND
+    FERNAND.
 Il a tort, je l'avouë, il se nomme coupable ;  
 Mais, Monsieur, une faute est tousjours pardonnable  
 Desormais il en jure, il veut estre meilleur,  
 Vous aymer, vous servir.  
 
-    CRISPIN
+    CRISPIN.
         C'est un fripon, Monsieur.  
 
-    FERNAND
+    FERNAND.
 Ne vous puis-je resoudre à la misericorde ?  
 
-    CRISPIN
+    CRISPIN.
 C'est un Pendart [413], Monsieur, qui merite la corde.  
 
-    FERNAND
+    FERNAND.
 C'est manquer de parole aux plus rares Amis.  
 S'il vous en ressouvient vous m'avez tout promis,  
 Monsieur, ce n'estoit donc qu'une pure grimace [414] ?  
 
-    CRISPIN
+    CRISPIN.
 Il est vray, ma parole en effet m'embarrasse,  
 C'en est fait, je pardonne à ce traistre, il vous plaist.  
 
-    FERNAND
+    FERNAND.
 Il ne tiendra qu'à vous de le voir comme il est.  
 
-    CRISPIN
+    CRISPIN.
 Moy, Monsieur, Moy le voir en presence du monde !  
 Quand je vois ce Coquin⁎ mon courroux se debonde [415],  
 Je ne puis.  
 
-    FERNAND
+    FERNAND.
         Hé, Monsieur, il ne faut qu'un instant…  
 
-    CRISPIN
+    CRISPIN.
 Je ne le puis, vous dis-je, un malade m'attend :  
 Mais touchant ce Maraut⁎ je consens qu'il revienne.  
 Serviteur.  
 
 
-## SCENE XVIII
+## SCENE XVIII.
 
-    FERNAND *seul.*
+    FERNAND *seul.*.
         Quelque effect qui jamais en avienne  
 A ce pauvre garçon qui frissonne d'effroy,  
 Je veux faire accorder le pardon devant moy :  
@@ -5806,85 +5806,85 @@ Que son frere est honneste, il s'en vient de l'absoudre,
 Et j'ose…  
 
 
-## SCENE XIX
+## SCENE XIX.
 CRISPIN, FERNAND
 
 
-    CRISPIN *en pleurant, et en habit de valet.*
+    CRISPIN *en pleurant, et en habit de valet.*.
         Hé bien, Monsieur, a-t-il pû s'y resoudre ?  
 Dois-je devant ses yeux ne paroistre jamais ?  
 Dois-je …  
 
-    FERNAND
+    FERNAND.
         Ne pleure point, j'ay seu faire ta paix.  
 
-    CRISPIN
+    CRISPIN.
 Vous croiray-je, Monsieur, n'est-ce point moquerie ?  
 
-    FERNAND
+    FERNAND.
 Quoy, tu peux …  
 
-    CRISPIN
+    CRISPIN.
         Ah ! Monsieur, je connois sa furie,  
 Il a bien de la peine à pouvoir pardonner.  
 
-    FERNAND
+    FERNAND.
 Aussi ne veux-je pas te laisser retourner ;  
 Je veux qu'il te pardonne en ma propre presence  
 
-    CRISPIN
+    CRISPIN.
 Du pardon de ma faute avez-vous l'asseurance,  
 Monsieur ?  
 
-    FERNAND
+    FERNAND.
     Ouy.  
 
-    CRISPIN
+    CRISPIN.
         C'est assez que mon frere ait parlé,  
 De vos soins obligeans je serois querellé,  
 Monsieur, votre bonté pourroit mal me remettre [416].  
 
-    FERNAND
+    FERNAND.
 Mais il peut oublier ce qu'il vient de promettre,  
 Puis apres…  
 
-    CRISPIN
+    CRISPIN.
         Point, Monsieur, je le vois fort exact,  
 Quand on a sa parole, elle vaut un contract ;  
 Desormais de sa part je ne crains nul outrage,  
 Monsieur.  
 
-    FERNAND
+    FERNAND.
     J'ay resolu d'achever.  
 
-    CRISPIN *bas.*
+    CRISPIN *bas.*.
         J'en enrage.  
 
-    FERNAND
+    FERNAND.
 Entre sur ce derriere.  
 
-    CRISPIN
+    CRISPIN.
         Hé, Monsieur, où le voir  
 A cette heure ?  
 
-    FERNAND
+    FERNAND.
         En tous cas, il viendra sur le soir,  
 Entre, dis-je.  
 Il entre, et Fernand ferme la porte à clef.
 
 
 
-## SCENE XX
+## SCENE XX.
 
-    FERNAND *seul.*
+    FERNAND *seul.*.
         En ceci ma charité se monstre ;  
 Mais de notre Docteur recherchons la rencontre,  
 Il faut battre le fer cependant qu'il est chaud.  
 
 
-## SCENE XXI
+## SCENE XXI.
 
-    CRISPIN *à la fenestre.*
+    CRISPIN *à la fenestre.*.
 Me voilà, grace à Dieu, raisonnablement haut.  
 Trop obligeant Grison [417] ta douceur m'assassine,  
 Maudit Moi, maudit Maistre, et maudite Doctrine,  
@@ -5897,9 +5897,9 @@ Il saute de la fenestre en bas.
 
 
 
-## SCENE XXII
+## SCENE XXII.
 
-    PHILIPIN *qui sort.*
+    PHILIPIN *qui sort.*.
         A Present  
 Je viens dire…ma foy, ce sauteur est plaisant :  
 Mais il sort de chez nous, il n'a rien que je sache,  
@@ -5907,37 +5907,37 @@ Il faut pour l'épier qu'un moment je me cache.
 Mais j'entends que l'on parle, attrapons quelque coin [420].  
 
 
-## SCENE XXIII
+## SCENE XXIII.
 CRISPIN, FERNAND, ET PHILIPIN au bout du Theatre [421]
 
 
-    CRISPIN *en soutane dit à Fernand.*
+    CRISPIN *en soutane dit à Fernand.*.
 Pour un gueux comme luy vous prenez trop de soin ;  
 Il mériteroit bien qu'on punist son audace,  
 Le Vaurien.  
 
-    FERNAND
+    FERNAND.
         C'est là haut qu'il attend vostre grace ;  
 Moi je vous la demande, à la charge d'autant [422]  
 Si jamais…  
 
-    CRISPIN
+    CRISPIN.
         En quel lieu dites-vous qu'il m'attend  
 Le Coquin⁎.  
 
-    FERNAND
+    FERNAND.
         Voyez-vous cette grande fenestre ?  
 
-    CRISPIN
+    CRISPIN.
 Il m'entend, le bourreau ; mais il n'ose paraistre,  
 De m'avoir offencé l'insolent est confus :  
 Je n'ay pas le pouvoir de vous faire un refus,  
 Ouvrez, j'entre.  
 
-    FERNAND
+    FERNAND.
         Avec vous, faut-il pas que je monte ?  
 
-    CRISPIN
+    CRISPIN.
 Pour le bien chastier faisons-luy cette honte,  
 Montez ; ouy, montez…Non, épargnons ce Maraut⁎ ;  
 Escoutez seulement je luy parleray haut,  
@@ -5945,69 +5945,69 @@ C'est assez.
 CRISPIN entre seul.
 
 
-    FERNAND
+    FERNAND.
         Je le veux ; Refermons cette porte,  
 Et voyons…  
 
 
-## SCENE XXIV
+## SCENE XXIV.
 PHILIPIN, FERNAND, ET CRISPIN dans la maison.
 
 
-    PHILIPIN * à Fernand.*
+    PHILIPIN * à Fernand.*.
         Quoy, Monsieur, vous craignez qu'il ne sorte ?  
 Malepeste le Drille [423], il sait bien d'autres tours  
 Le Manœuvre [424] !  
 
-    FERNAND
+    FERNAND.
         Pourquoy me tiens-tu ce discours ?  
 Ou respecte cét homme, ou redoute ma cane.  
 
-    PHILIPIN
+    PHILIPIN.
 Quand on est Baladin [425], porte-t'on la soutane   
 A propos ? dites donc : Vous riez.  
 
-    FERNAND
+    FERNAND.
         Si je ry [426]  
 Sot.  
 
-    PHILIPIN
+    PHILIPIN.
         Vostre ensoutané saute mieux qu'un cabry,  
 Je le say, mais chez vous que peut-il aller faire ?  
 Respondez, s'il vous plaist ?  
 
-    FERNAND
+    FERNAND.
         Pardonner à son frère ;  
 Il estoit en courroux pour certain accidens…  
 
-    PHILIPIN
+    PHILIPIN.
 A ce compte, son frère est aussi là dedans ?  
 Est-ce pas ?  
 
-    CRISPIN *à la fenestre*
+    CRISPIN *à la fenestre*.
     Ah fripon friponnant…  
 
-    FERNAND *à Philipin.*
+    FERNAND *à Philipin.*.
         Tien, écoute.  
 
-    CRISPIN *continuant.*
+    CRISPIN *continuant.*.
 Voyez ce qu'aujourd'huy vostre faute me coûte,  
 J'aurois eu le plaisir de jamais ne vous voir,  
 Si Monsieur dessus moy n'avoit pas tout pouvoir,  
 Mais je l'honore plus que personne du monde.  
 
-    FERNAND *à Philipin.*
+    FERNAND *à Philipin.*.
 Tu vois bien.  
 
-    PHILIPIN
+    PHILIPIN.
         Pour le moins que son frere responde,  
 Il le doit.  
 
-    FERNAND
+    FERNAND.
         Vostre frere à son tour ne dit mot,  
 Qu'il parle.  
 
-    CRISPIN
+    CRISPIN.
         Entendez-vous, beau pleureur, maistre sot [427] ?  
 Si ma juste colere est si tost adoucie…  
 Déguisant sa voix, et pleurant.
@@ -6017,48 +6017,48 @@ Déguisant sa voix, et pleurant.
 *Si jamais…*Pay, vous dis-je, et craignez mille coups.  
 *Je puis…*Taisez-vous donc. *Mais mon cher frere…* Encore ?  
 
-    PHILIPIN
+    PHILIPIN.
 Comment diable fait-il, le fusté ? je l'ignore.  
 
-    FERNAND
+    FERNAND.
 Ils sont deux.  
 
-    PHILIPIN
+    PHILIPIN.
         Il le semble ; il n'en est pourtant rien,  
 Mais de bien le savoir je découvre un moyen,  
 Dites que devant vous il embrasse son frere.  
 
-    CRISPIN
+    CRISPIN.
 N'estoit Monsieur Fernand que je veux satisfaire  
 Pecore [428]…  
 
-    FERNAND
+    FERNAND.
         Il auroit tort de vous plus offenser.  
 Mais, Monsieur, pour me plaire il le faut embrasser,  
 Et tousjours…  
 
-    CRISPIN
+    CRISPIN.
     L'embrasser !  
 
-    PHILIPIN
+    PHILIPIN.
         Que cela l'embarrasse,  
 Voyez.  
 
-    FERNAND
+    FERNAND.
         De vostre part je pretens cette grace.  
 
-    CRISPIN
+    CRISPIN.
 Il seroit trop honteux si ce bien peu commun…  
 
-    PHILIPIN
+    PHILIPIN.
 Je vous jure, ma foy, qu'ils ne sont ma foy qu'un ;  
 Le Mâdré [429] ! gardez-vous des finesses qu'il brasse.  
 
-    FERNAND *à haute voix.*
+    FERNAND *à haute voix.*.
 Seras-tu trop honteux si ton frere t'embrasse,  
 L'enfermé ?  
 
-    CRISPIN
+    CRISPIN.
         *C'est à luy*…Pay, Monsieur le Badaut [430],  
 Pay fripon, pay belistre, et venez icy haut :  
 Crispin met son chapeau sur son coude, et puis l'embrasse si adroitement, qu'il semble que ce fut une autre personne.
@@ -6066,74 +6066,74 @@ Crispin met son chapeau sur son coude, et puis l'embrasse si adroitement, qu'il 
 C'est moins par amitié que ce n'est par contrainte,  
 Venez, dis-je.  
 
-    FERNAND *à Philipin.*
+    FERNAND *à Philipin.*.
         Tu vois, ce n'est pas une feinte.  
 
-    PHILIPIN
+    PHILIPIN.
 Je n'y vois ma foy goutte, et ne say ce que c'est.  
 
-    CRISPIN *à Fernand.*
+    CRISPIN *à Fernand.*.
 A present…  
 
-    FERNAND
+    FERNAND.
         A present descendez s'il vous plaist,  
 Je vous ouvre.  
 
-    PHILIPIN
+    PHILIPIN.
         Epions ; car ou bien je suis yvre,  
 Ou bien…  
 Il sort, et met bas la soutane, puis comme Fernand est entré croyant faire sortir un autre frere, Crispin prend l'occasion, et monte fort diligemment par la fenestre, et ensuite sort avec Fernand comme si en effect il estoit frere du Medecin.
 
 
-    CRISPIN *descendu.*
+    CRISPIN *descendu.*.
         J'ay fait défense au Coquin⁎ de me suivre,  
 J'en aurois de la honte, il viendra par apres,  
 Adieu.  
 
-    FERNAND
+    FERNAND.
         Je suis ravy d'avoir fait cette paix :  
 Mais faisons sortir l'autre.  
 
-    PHILIPIN *ramassant la soutane de Crispin*
+    PHILIPIN *ramassant la soutane de Crispin*.
         Ah, je tiens votre guesne [431],  
 Doctissime.  
 
-    CRISPIN *en habit de valet.*
+    CRISPIN *en habit de valet.*.
     Est-il loin ?  
 
-    FERNAND
+    FERNAND.
     Assez loin.  
 
-    CRISPIN *pleurant*
+    CRISPIN *pleurant*.
         Que de peine,  
 Monsieur !  
 
-    FERNAND *à Philipin*
+    FERNAND *à Philipin*.
     Hé bien ?  
 
-    PHILIPIN
+    PHILIPIN.
     Hé bien, sont-ils deux ?  
 
-    FERNAND
+    FERNAND.
         Ah vrayment …  
 
-    PHILIPIN *montrant Crispin et sa soutane.*
+    PHILIPIN *montrant Crispin et sa soutane.*.
 Voila l'un, voila l'autre.  
 
-    CRISPIN
+    CRISPIN.
     Ah ! grands Dieux !  
 
-    FERNAND
+    FERNAND.
         Quoy ? comment ?  
 Que dis-tu ?  
 
-    PHILIPIN
+    PHILIPIN.
         Qu'à merveille il grimpe une fenestre [432].  
 
-    FERNAND
+    FERNAND.
 Ah perfide…  
 
-    CRISPIN
+    CRISPIN.
         Ah ! Monsieur, sachez tout de mon Maistre,  
 Le voicy.  
 
@@ -6142,30 +6142,30 @@ Le voicy.
 FERNAND, CLEON, LUCRESSE, CRISPIN, PHILIPIN, LISE
 
 
-    FERNAND
+    FERNAND.
         C'est Cleon ! c'est ma fille ! Ah rusé  
 Ce Cleon l'a seduite, et tu m'as amusé [433]  
 Medecin de mal-heur.  
 
-    CLEON
+    CLEON.
     Quoy, Monsieur…  
 
-    FERNAND
+    FERNAND.
         Je le jure  
 Que tu l'espouseras, ou je te défigure.  
 
-    LUCRESSE
+    LUCRESSE.
 Daignez…  
 
-    FERNAND
+    FERNAND.
         Point de quartier, il sera ton Epoux,  
 Ou du moins…  
 
-    CLEON
+    CLEON.
         Cet Hymen a des charmes si doux,  
 Monsieur…  
 
-    CRISPIN
+    CRISPIN.
         Sans affecter compliment, ny surprise,  
 Vous le fait de Lucresse, et moy le fait de Lise [434],  
 Confondant tout ensemble et nos biens et les leurs,  
@@ -6173,10 +6173,10 @@ Faisons des Medecins ou Volans, ou Voleurs.
 FIN
 
 
-## Lexique du Médecin volantAbuser Tromper.V. 40, v. 41Amant « Celuy qui aime d'une passion violente et amoureuse. » (Furetière).Acteurs, v. 14Coquin« Un poltron, un homme qui fait quelque action lasche, ou infame. » (Furetière).V. 375, v. 389, v. 436, v. 489Garde« *N'avoir garde*, pour dire, N'avoir pas la volonté, ou le pouvoir de faire une chose, en estre bien esloigné. » (Dictionnaire de l'Académie française, 1694).V. 262, v. 332Maistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).Acteurs, v. 13Dans le sens courant de maitre.V. 182, v. 187Maraud « Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (Furetière).V. 370, v. 392, v. 442Souffrir Permettre.Dédicace, v. 356, v. 361Tendresse « Sensibilité du cœur et de l'ame. La delicatesse du siecle a renfermé ce mot dans l'amour et dans l'amitié. » (Furetière).V. 2, v. 209
+## Lexique du Médecin volant.Abuser Tromper.V. 40, v. 41Amant « Celuy qui aime d'une passion violente et amoureuse. » (Furetière).Acteurs, v. 14Coquin« Un poltron, un homme qui fait quelque action lasche, ou infame. » (Furetière).V. 375, v. 389, v. 436, v. 489Garde« *N'avoir garde*, pour dire, N'avoir pas la volonté, ou le pouvoir de faire une chose, en estre bien esloigné. » (Dictionnaire de l'Académie française, 1694).V. 262, v. 332Maistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).Acteurs, v. 13Dans le sens courant de maitre.V. 182, v. 187Maraud « Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (Furetière).V. 370, v. 392, v. 442Souffrir Permettre.Dédicace, v. 356, v. 361Tendresse « Sensibilité du cœur et de l'ame. La delicatesse du siecle a renfermé ce mot dans l'amour et dans l'amitié. » (Furetière).V. 2, v. 209
 
 
-# Appendice 1
+# Appendice 1.
 
 Nous avons relevé des différences entre le texte de l'édition originale du *Jaloux endormy* publiée en 1662 et l'édition publiée à Amsterdam sous le titre *Le Jaloux prisonnier* en 1721. L'édition de 1721 comporte plus de scènes que l'édition originale. Elle palie le manque de clarté de l'exposition que nous avons remarqué au cours de notre analyse. Les scènes ajoutées justifient l'action de Cléandre et fait état de la manigance organisé entre le jeune homme et le père Alcidor.
 
@@ -6186,14 +6186,14 @@ SCENE PREMIERE
 CLEANDRE, ALCIDOR.
 
 
-    CLEANDRE
+    CLEANDRE.
 Quoi que pour m'obliger vôtre cœur se propose  
 Vous plaignez un malheur dont vous étes la cause,  
 J'adorois Olympie, et j'avois espéré  
 Qu'à ses autres Amans je serois préferé.  
 Cependant Spadarille, un punais, ah ! j'enrage.  
 
-    ALCIDOR
+    ALCIDOR.
 Si vous aimez ma fille ayez plus de courage :  
 Je vous l'avois promise, et j'ay manqué de foi,  
 Mais vous n'étes pas un homme à vous regler sur moi,  
@@ -6201,7 +6201,7 @@ Le regret que j'en ay rend ma faute punie,
 Je vous plains, je me plains et je plains Olimpie :  
 De son lâche mari les infames desseins …  
 
-    CLEANDRE
+    CLEANDRE.
 Je viens si je le puis l'arracher de ses mains,  
 Vous en étes témoin, et j'ay pour assistance  
 Le secourable effet de vôtre intelligence.  
@@ -6210,10 +6210,10 @@ Le Jaloux à sa porte a mis six Cadenats,
 Olimpie outragée en son cœur le deteste,  
 Souffrez que je l'enleve, et je réponds du reste.  
 
-    ALCIDOR
+    ALCIDOR.
 Mais de voir Olimpie aurez-vous le moyen ?  
 
-    CLEANDRE
+    CLEANDRE.
 J'ay sceu faire une brêche en un mur mitoyen  
 Qui répond de ma chambre en un coin de la sienne ;  
 Il faut sur ce sujet que je vous entretienne.  
@@ -6233,10 +6233,10 @@ SPADARILLE, OLIMPIE
     SPADARILLE *en sortant*.
 Sortez.  
 
-    OLIMPIE
+    OLIMPIE.
 J'obeïs.  
 
-    SPADARILLE
+    SPADARILLE.
 Bon, j'aime l'obéïssance.  
 Après ce passage le texte de l'édition originale commence.
 
@@ -6272,13 +6272,13 @@ L'étude de ce tableau nous permet de voir que Gusman est le personnage dominant
 Fabrice quant à lui ne prononce que 149 vers environ, trois fois moins que son valet. Il est pourtant présent dans douze scènes : Boursault respecte donc le précepte donné par Aubignac dans sa *Pratique du Théâtre* « les principaux personnages doivent paraître le plus souvent et demeurer le plus longtemps qu'il est possible sur le théâtre », ce n'est pas pour autant qu'il fait de Fabrice un personnage loquace. Son effort de mise en valeur par sa présence sur scène est effacé par le mutisme de celui qui est pourtant l'un des héros de la pièce.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de Boursault publiées de son vivantLe Jaloux endormy
+### Œuvres de Boursault publiées de son vivant.Le Jaloux endormy
 Le Mort vivant
 Le Portrait du peintre ou la Contre-Critique de l'École des femmes
 Le Médecin volant
@@ -6286,13 +6286,13 @@ La Comédie sans titre, revue et corrigée par son véritable auteur
 
 
 
-### Éditions posthumesLe Jaloux prisonnier
+### Éditions posthumes.Le Jaloux prisonnier
 Théâtre de feu Monsieur Boursault, nouvelle édition revue, corrigée et augmentée de plusieurs Pièces, qui n'ont point paru dans les précédentes
 *Fournel*Théâtre choisi de Boursault
 
 
 
-### Œuvres antérieures et contemporaines de l'auteur*Aubignac*Pratique du théâtre
+### Œuvres antérieures et contemporaines de l'auteur.*Aubignac*Pratique du théâtre
 *Boileau**Œuvres complètes*
 *Callières*Du bon et du mauvais usage dans les manières de s'exprimer, des façons de parler bourgeoises
 *Molière*Œuvres complètes
@@ -6302,10 +6302,10 @@ Théâtre de feu Monsieur Boursault, nouvelle édition revue, corrigée et augme
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires*Académie Française*Dictionnaire
+### Dictionnaires.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Huguet*Dictionnaire de la langue française du XVI*e* siècle
 *Richelet*Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise…. avec les termes les plus connus des arts et des sciences
@@ -6314,17 +6314,17 @@ Théâtre de feu Monsieur Boursault, nouvelle édition revue, corrigée et augme
 
 
 
-### Grammaires*Fournier*Grammaire du français classique
+### Grammaires.*Fournier*Grammaire du français classique
 *Sancier-Château* Introduction à la langue française du XVII*e* siècle
 
 
 
-### Bibliographie*Cioranescu*Bibliographie de la littérature française du XVII*e* siècle
+### Bibliographie.*Cioranescu*Bibliographie de la littérature française du XVII*e* siècle
 *Klapp-Lehrmann*Bibliographie der französischen Literaturwissenschaft
 
 
 
-### Sites web
+### Sites web.
 
 CESAR, Calendrier Electronique des Spectacles sous l'Ancien Régime : http://www.cesar.org.uk
 
@@ -6337,10 +6337,10 @@ THEÂTRE CLASSIQUE : www.theatre-classique.fr
 Bibliothèque de Besançon : http://memoirevive.besancon.fr
 
 
-## Études critiques
+## Études critiques.
 
 
-### Études sur Boursault*Baalbaki*Recherches sur le lexique d'Edme Boursault
+### Études sur Boursault.*Baalbaki*Recherches sur le lexique d'Edme Boursault
 *Borello**La Dramaturgie d'Edme Boursault*
 *Dubois*Boursault et la comédie italienne
 *Fournel*Les Contemporains de Molière
@@ -6349,7 +6349,7 @@ Bibliothèque de Besançon : http://memoirevive.besancon.fr
 
 
 
-### Ouvrages sur la littérature et le théâtre du XVII*e* siècle*Baccar Bournaz*L'Afrique au XVII*e* siècle : mythes et réalités*e**e*
+### Ouvrages sur la littérature et le théâtre du XVII*e* siècle.*Baccar Bournaz*L'Afrique au XVII*e* siècle : mythes et réalités*e**e*
 *Bertaud*La Jalousie dans la littérature à l'époque de Louis XIII : analyse littéraire et histoire des mentalités
 *Bourqui*La Commedia dell'arte
 *Corvin*Lire la comédie
@@ -6365,7 +6365,7 @@ Bibliothèque de Besançon : http://memoirevive.besancon.fr
 
 
 
-### Articles*Conesa*Littératures classiquesLe style au XVII*e* siècle
+### Articles.*Conesa*Littératures classiquesLe style au XVII*e* siècle
 *Forestier*Papers on French Seventeenth Century Literature
 *Forestier*Littératures classiquesL'esthétique de la comédie
 *Lyons*Littératures classiquesL'illusion au XVII*e* siècle

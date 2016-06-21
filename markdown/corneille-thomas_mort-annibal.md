@@ -17,15 +17,15 @@ A Rouen, Et se vend A PARIS, Chez GUILLAUME DE LUYNES, Libraire Iuré, au Palais
       master 1 sous la direction de Georges Forestier (2009-2010)
 
 
-# Introduction
+# Introduction.
 
 En choisissant la mort d'Hannibal [1] pour sujet de sa nouvelle tragédie, Thomas Corneille s'attaquait à forte partie. Car que connaissait-on d'Hannibal au XVII*e* siècle – et que connaît-on de lui aujourd'hui ? Le passage des Alpes, sa marche héroïque sur Rome, l'amollissement dans les délices de Capoue, et la défaite finale. Pour ce qui est de la suite des événements, peu la savent : le retour à Carthage, la fuite en Syrie, puis le refuge chez Prusias, roi de Bithynie, où le conquérant carthaginois, harcelé par les Romains, finit par se suicider. Ainsi Thomas Corneille doit-il tenir compte de deux faits difficilement conciliables de prime abord quand il s'attelle à son sujet : alors que, pour le spectateur, Hannibal est avant tout un glorieux conquérant, le héros de sa pièce est un vieillard. Le dramaturge, en outre, ne se facilitait pas une tâche déjà ardue, puisqu'en choisissant son sujet, il reprenait de nombreux thèmes que son frère avait déjà traités avec succès dans *Nicomède*, et la comparaison avec son aîné n'avait jamais tourné à son avantage...
 
 
-# L'auteur et la création de la pièce
+# L'auteur et la création de la pièce.
 
 
-## Éléments de biographie
+## Éléments de biographie.
 
 Thomas Corneille naît à Rouen en 1625. De dix-neuf ans le cadet de son frère Pierre, il fait ses études, tout comme lui, au collège jésuite de Rouen, où l'on reconnaît et encourage rapidement son talent de poète. A la mort de son père, il poursuit des études de droit sous la tutelle de son frère aîné, pour finalement devenir avocat en 1649. En 1650, il épouse Marguerite de Lamperière, sœur de la femme de Pierre Corneille.
 
@@ -36,7 +36,7 @@ Néanmoins, Thomas Corneille ne se cantonne pas à la composition de tragédies,
 À la mort de son frère, en 1684, il occupe son siège à l'Académie Française, ce qui a pour effet de restreindre sa production dramatique, au profit de compilations de dictionnaires. Il meurt aveugle en 1709, à l'âge de quatre-vingt-quatre ans.
 
 
-## Création et réception de la pièce
+## Création et réception de la pièce.
 
 *La Mort d'Annibal* est jouée pour la première fois à l'Hôtel de Bourgogne, probablement le 22 novembre 1669. En effet, Robinet publie son compte rendu de la pièce dans une lettre datée du 30 novembre, un samedi, comme toujours. Le fait qu'il précise qu'il y a assisté « les jours passés » [2], et non la veille, alors que les pièces sont toujours créées un vendredi, incite à penser qu'elle a été créée au plus tard la semaine précédente.
 
@@ -47,20 +47,20 @@ L'insuccès de la pièce est confirmé par la suite des événements : les Frè
 Lancaster juge la pièce de façon tout aussi sévère dans son ouvrage de référence, et met en lumière un des principaux problèmes de la pièce, en reprenant l'idée des frères Parfaict, selon laquelle *La Mort d'Annibal* contient plusieurs faiblesses considérables, notamment son manque d'action. D'après lui, elle souffre considérablement de l'inaction du protagoniste, ce qui semble en effet rédhibitoire, dans une tragédie où apparaît un grand conquérant comme Hannibal [5]. Ainsi, non seulement la pièce de Thomas Corneille n'a jamais connu le succès, à la suite du jugement sévère dont elle a été l'objet à sa création, mais elle a également sombré dans l'oubli et le mépris qui l'accompagne.
 
 
-# La pièce
+# La pièce.
 
 
-## Situation, sources et références
+## Situation, sources et références.
 
 
-### Situation
+### Situation.
 
 L'action se situe à la cour du roi Prusias, en Bithynie, c'est-à-dire en Asie Mineure actuelle. Thomas Corneille donne une précision quant au lieu, à la scène 1 du premier acte, en faisant dire à Prusias : « Rome a choisi ce lieu commun à l'un et l'autre / Il borne mon Estat comme il borne le vostre » [6], ce qui situe le lieu de l'action sur la frontière des royaumes de Pergame et de Bithynie.
 
 Thomas Corneille ne nous laisse en revanche aucune indication chronologique dans sa pièce. Nous considérons donc que l'action se situe à la date établie par les historiens, à savoir l'an 183 avant Jésus-Christ.
 
 
-### Résumé
+### Résumé.
 
 La pièce s'ouvre sur la conclusion d'un traité de paix supervisé par Rome, entre Prusias, roi de Bithynie, et Attale, nouveau roi de Pergame, dont le frère aîné, Eumène, est déclaré mort. Attale déclare à Prusias qu'il compte épouser Élise, la fille d'Hannibal (I, 1). À la scène suivante, Prusias révèle qu'il aime également Élise à son confident et chef des gardes Araxe, et qu'il ne reculera devant rien pour assouvir sa passion, à ceci près qu'il ne peut se résoudre à braver Rome en s'alliant à Hannibal (I, 2). Son fils Nicomède, en revanche, qui s'avère être également amoureux d'Élise, est tout prêt à rompre avec le Sénat. Prusias veut l'en dissuader par la menace. En vain : il ne recueille qu'une leçon de grandeur de la part de son fils (I, 3). Ne sachant pas à quoi s'en tenir, il décide de pousser Élise à l'aveu (I, 4) ; celle-ci élude fièrement la question (I, 5). À l'issue de la scène, Prusias, persuadé qu'elle aime Nicomède, décide d'envoyer son fils et rival à Rome en ambassade – c'est-à-dire de le livrer au Sénat. Le premier acte se clôt donc sur une perspective de trahison (I, 6).
 
@@ -73,7 +73,7 @@ Coup de théâtre : Attale n'est pas le roi légitime de Pergame. Son frère Eu
 Au cinquième acte, Prusias offre sa couronne à Élise, qui la rejette avec mépris, et l'accuse d'avoir livré son père. Le roi proteste de son innocence et accable Attale (V, 1). Celui-ci, trahi, a abandonné le combat, et propose à Élise de fuir avec lui. Elle refuse et les accuse tous deux de lâcheté (V, 2). Mais quand Flaminius vient annoncer triomphalement la capture d'Hannibal et braver Élise, Attale prend ouvertement parti contre Rome : l'ambassadeur lui révèle alors que c'est lui qui a corrompu sa garde, et qu'Eumène est encore en vie : de désespoir, le roi déchu se précipite vers le lieu du combat (V, 3). Bien que Flaminius menace Élise du triomphe si elle n'épouse pas Prusias, celle-ci persiste dans son refus (V, 4). Survient alors le retournement de situation final : Alcine annonce que Nicomède a mis les assaillants d'Hannibal en déroute. Rendu furieux par les insinuations de Flaminius, Prusias prend les armes contre son fils (V, 5). Flaminius s'enfuit (V, 6), tandis qu'Alcine recommande à sa maîtresse d'être plus prudente dans ses propos, étant donnée l'incertitude de la situation (V, 7). Hannibal et Nicomède arrivent sur scène (V, 8) ; on apprend d'Araxe la mort infamante de Prusias, au milieu de la mêlée, et la capture d'Attale par les Romains. Nicomède, devenu roi, offre le commandement de son armée à Hannibal. Ce dernier lui donne la main de sa fille, mais agonise sur scène puisque, se voyant cerné lors du combat, il avait absorbé un poison (V, 9).
 
 
-### Sources et références
+### Sources et références.
 
 Thomas Corneille respecte, pour l'essentiel, ce que rapportent les historiens antiques. Ses sources principales sont Tite-Live, Plutarque, Justin et Cornelius Nepos [7]. Il reprend chez eux le canevas principal de l'action : Hannibal, après avoir fui la cour d'Antiochus, en Syrie, trouve refuge à la cour du roi Prusias. L'ambassadeur romain Flaminius s'y rend pour exiger qu'il lui soit livré, mais Hannibal, se sachant trahi, se suicide pour ne pas être exposé à la honte du triomphe.
 
@@ -94,10 +94,10 @@ On retrouve également, d'une pièce à l'autre, le motif du vieillard amoureux�
 Thomas Corneille, bien entendu, reprend nombre d'autres éléments à la pièce de son frère, qu'il adapte à la situation qu'il présente dans la sienne, dont nous ne ferons pas de liste exhaustive, mais dont nous développerons plusieurs exemples par la suite, sans en faire une liste exhaustive.
 
 
-## Construction de la pièce
+## Construction de la pièce.
 
 
-### Composition et règles dans *La Mort d'Annibal*
+### Composition et règles dans *La Mort d'Annibal*.
 
 *La Mort d'Annibal* est une pièce que l'on peut appeler, d'après les analyses de Georges Forestier, une « pièce à dénouement rabattu et composition à rebours » : le principe en est que le dramaturge construit sa pièce à partir du seul élément attesté par l'Histoire – en l'occurrence, la mort d'Hannibal à la cour du roi Prusias –, qui constitue le dénouement de la tragédie, et en définit l'action principale. « Reste à trouver le “milieu” et le “commencement” » [13], que le dramaturge ponctue d'épisodes subordonnés à l'action principale, épisodes que d'Aubignac définit ainsi dans sa *Pratique du Théâtre* :
 
@@ -119,7 +119,7 @@ Du point de vue des bienséances, Thomas Corneille respecte en outre strictement
 Cependant, ce même dénouement, s'il n'est pas irrégulier, pose un problème, car s'il est vrai qu'il respecte les bienséances, il n'en reste pas moins que le spectateur n'est pas totalement fixé sur le sort d'Attale. En effet, il ne sait pas si ce dernier va réchapper de sa confrontation avec son frère, finir par se rallier à Rome, ou être condamné par le Sénat. Le dénouement, techniquement, n'est donc pas complet, et ne satisfait pas en cela à l'une des trois règles fondamentales [22] qui doivent le régir. Cependant, la faute est mineure : en effet, Attale n'est pas un personnage de tout premier plan dans *La Mort d'Annibal*, et, comme le précise Scherer, le danger du « dénouement trop complet » [23] guette toujours le dramaturge trop zélé. Le spectateur, à la fin de la pièce, ne veut pas forcément savoir, en effet, tous les détails du dénouement, ce qui l'allongerait et le rendrait fastidieux. Or fixer définitivement le sort d'Attale aurait forcé Thomas Corneille à faire intervenir un nouveau messager, ce qui aurait rajouté une dixième scène au dernier acte, et prolongé de façon quelque peu lassante le dénouement très frappant de la pièce, qui se clôt sur les deux morts antithétiques d'Hannibal et de Prusias. On peut donc considérer que l'inachèvement relatif du dénouement de la pièce est un moindre mal.
 
 
-### Progression de la pièce
+### Progression de la pièce.
 
 *La Mort d'Annibal* est une pièce remarquable par sa construction. En effet, Thomas Corneille en fait un long martèlement tragique, une longue succession de temps forts pour le spectateur. Celui-ci n'en perçoit toutes les retombées qu'ultérieurement : par conséquent, il n'en accuse le coup que sur la longueur, donc d'autant plus douloureusement. De fait, la pièce est rythmée par de nombreux temps forts : coups de théâtre, hauts faits, actes de bravoure aussi bien que de lâcheté… Ce qui confère à la pièce une tonalité très sombre : en fin de compte, le spectateur attend les catastrophes, dont il sait qu'elles ne sauraient manquer d'arriver.
 
@@ -128,7 +128,7 @@ De fait, tous les actes se ferment sur un revers pour les ennemis de Rome. Au pr
 L'on assiste donc, avec *La Mort d'Annibal*, à une lente déchéance, où l'irrésistible progression de la Rome expansionniste à la cour du roi Prusias coïncide avec la marche inéluctable d'Hannibal vers la mort. Tout au long de la pièce, ce dernier tombe véritablement de mal en pis, et si la donne semble être renversée au dénouement, grâce à l'heureuse intervention de Nicomède, ce n'est que pour mieux mettre en valeur la chute finale. La structure de la pièce est donc celle d'un effondrement inexorable, martelé par les revers. C'est pourquoi elle est extrêmement exigeante vis-à-vis du spectateur : d'une part parce que tous les efforts faits par le camp anti-impérialiste ne mènent, finalement, à rien, d'autre part parce que, dans ces conditions, tout le monde se méfie de tout le monde. En effet, tout le long de la pièce, Thomas Corneille a soin d'entretenir une tension très soutenue entre ses personnages, qui ne savent jamais à quoi s'attendre les uns des autres, ce qui est très éprouvant. Flaminius, par exemple, doit toujours prendre en compte le caractère instable du roi Prusias. Ce dernier ne sait pas à quoi s'attendre de la part d'Attale, une fois que Flaminius a jeté le doute dans son esprit. Hannibal, quant à lui, n'en sait pas plus concernant le roi de Bithynie. Par ailleurs, jusqu'à la fin de la pièce, ni Nicomède, ni Élise, ni Hannibal ne savent qui est le traître. Tout cela contribue donc à créer une atmosphère très oppressante, d'autant que l'ombre de Rome plane sur les personnages, et que le Sénat semble tirer toutes les ficelles de l'action à travers Flaminius.
 
 
-# La grande politique : machiavélisme et anti-machiavélisme dans La Mort d'Annibal
+# La grande politique : machiavélisme et anti-machiavélisme dans La Mort d'Annibal.
 
 C'est par ces quelques lignes de la préface de *Nicomède* que l'on peut voir à quel point Thomas Corneille s'est inspiré de son aîné pour composer sa *Mort d'Annibal* :
 
@@ -138,10 +138,10 @@ La grandeur de courage y règne seule, et regarde son malheur d'un œil si déda
 Il s'avère, en effet, que ce jugement s'applique en tout point à *La Mort d'Annibal*, pièce où Flaminius, ambassadeur romain sans scrupules, représente la Politique dans ce qu'elle peut avoir de plus sordide, et où Hannibal, sans rien dissimuler, fait preuve d'un courage et d'une fermeté aussi remarquables qu'intransigeants.
 
 
-## Le diptyque infernal : gloire et réalisme politique
+## Le diptyque infernal : gloire et réalisme politique.
 
 
-### La politique, centre de la pièce
+### La politique, centre de la pièce.
 
 Dans *La Mort d'Annibal*, le nœud principal de l'action est d'ordre politique : la question est de savoir comment Rome va finalement l'emporter sur la haine farouche que lui voue Hannibal. La pièce repose dès lors sur un problème fondamental, bien connu au XVII*e* siècle : est-il légitime d'avoir recours à des procédés peu honorables, si les résultats, au bout du compte, sont là ? C'est-à-dire, pour parler crûment : la fin justifie-t-elle les moyens ? La question, bien entendu, n'est pas nouvelle : on y est confronté dès *La Mort de Pompée* de Pierre Corneille, on la retrouve dans *Nicomède*, mais elle est néanmoins traitée sur un mode différent.
 
@@ -152,7 +152,7 @@ En outre, on ne discerne aucune intrigue de Cour à proprement parler dans *La M
 Cet antagonisme fondamental va prendre forme à la scène 3 de l'acte III, moment d'intense affrontement, où Flaminius et Hannibal confrontent leurs visions antithétiques de la politique.
 
 
-### Flaminius, machiavélien
+### Flaminius, machiavélien.
 
 Le credo de l'ambassadeur romain est fort simple : la fin justifie les moyens. La fin en question, c'est la suprématie de Rome, que Flaminius, machiavélien sans scrupule, va assurer par tous les moyens, puisqu'elle est, pour lui, le seul motif valable d'agir. Tout disparaît donc devant le Sénat, incarnation de cette suprématie, et pour peu qu'on agisse pour lui, les pires exactions sont parfaitement légitimes aux yeux de l'ambassadeur romain [28]. Le spectateur cerne dès lors parfaitement le personnage : pour Flaminius, toute morale est déplacée. Pis encore : elle n'a pas lieu d'être, puisqu'il n'y a que la politique elle-même qui vaille. Nul bien en soi, donc, en la matière : le bien, ce sont les volontés du Sénat. C'est pourquoi il est caractéristique d'entendre Flaminius dire : « Et quoy, Prusias, vous estes scrupuleux ? » [29]. Car pour lui, scrupules et politique n'ont rien à voir, et les uns sont un non-sens quand on considère l'autre. On peut donc dire sans exagérer que le Flaminius de Thomas Corneille, en tant qu'ambassadeur, est absolument dénué de conscience morale, puisqu'à ses yeux, absolument tous les moyens sont bons pour arriver aux fins du Sénat. La seule raison qui compte, finalement, est la raison d'État. Raison d'État qui implique une certaine méthode, résumée au troisième chapitre du *Prince* de Machiavel : le Prince doit protéger le faible sans en accroître la puissance, et ne pas laisser d'étrangers prendre d'importance dans les environs.
 
@@ -174,7 +174,7 @@ Cependant, si l'on considère ces deux cas, l'on s'aperçoit vite que tout tourn
 Ainsi, en respectant sans cesse ce principe de prudence, Flaminius agit en machiavélien accompli. Il utilise tout, dissimule tout, et, malgré son infamie, est absolument remarquable. Tout comme l'on « déteste les actions » de la Cléopâtre de Pierre Corneille (*Rodogune, Princesse des Parthes*), et « admire la source dont elles partent » [34], l'on déteste les procédés du Flaminius de Thomas Corneille tout en admirant son extrême talent politique. On ne sait trop, d'ailleurs, que penser de son génie politique : est-il un homme de terrain remarquable, à la réactivité hors norme, ou un politique adroit et clairvoyant qui discerne tous les tenants et aboutissants d'une situation ? Probablement, les deux : mais cela reste incertain. En effet, la scène au cours de laquelle il pousse Prusias à l'aveu prête à confusion [35]. Car le spectateur, en fin de compte, ne peut pas vraiment savoir s'il avait réellement connaissance de l'amour de ce dernier pour Élise, avant qu'il commence à le lui faire admettre. Nulle scène, auparavant, où il expose ses soupçons à Procule, nulle allusion, nulle insinuation à ce sujet : nous n'avons que sa parole, pour le croire, ce qui n'est guère suffisant pour un machiavélien sans scrupules. S'il a véritablement connaissance de ce fait, c'est un politique brillant, fin connaisseur de la nature humaine, qui sait exactement comment mener sa proie jusque dans ses rets, et la garder, pieds et poings liés, à sa disposition. Dans le cas contraire, il comprend les motifs de Prusias sur le coup, et les utilise spontanément, pour le manipuler à chaud, avec une maestria remarquable. Dans les deux cas, il reste un politicien hors du commun : c'est face à ce génie politique qu'Hannibal va devoir représenter l'anti-machiavélisme glorieux.
 
 
-### Hannibal, anti-machiavélien taillé dans le marbre
+### Hannibal, anti-machiavélien taillé dans le marbre.
 
 Hannibal, face à la logique du résultat à tout prix de Flaminius, représente la noblesse, et le refus de l'abaissement, qu'il s'agisse d'un abaissement moral, vis-à-vis de soi-même, ou d'un abaissement devant autrui, en l'occurrence devant l'aigle romaine. Pur de toute dissimulation, de tout bas procédé, il ne cache rien, et, contrairement à Flaminius, ne cherche à forcer personne. Face à l'expansionnisme romain, il est donc l'instance de la liberté dans la pièce de Thomas Corneille.
 
@@ -196,7 +196,7 @@ Reste par conséquent le cas intermédiaire. C'est la situation de celui qui, sa
 Or, nous l'avons vu, il est évident qu'Hannibal est un de ces « parangons de vertu et de justice ». Ainsi, même s'il conserve malgré tout une véritable ampleur tragique, du fait de son talent et de son envergure, qui rendent sa mort d'autant plus cruelle et injuste, il n'en reste pas moins un personnage relativement froid aux yeux du spectateur.
 
 
-### Une même arme : l'ironie
+### Une même arme : l'ironie.
 
 L'acmé de l'antagonisme qui oppose Hannibal à Flaminius se situe à la troisième scène de l'acte III : l'ambassadeur, après avoir entendu dire qu'Attale comptait épouser Élise, se rend auprès de lui pour faire pression, et le forcer à renoncer à son projet. Il l'accuse notamment de déloyauté, et le menace ouvertement en présence d'Hannibal. C'est alors que la scène, qui se jouait auparavant entre Attale et Flaminius, tourne à l'affrontement direct, entre ce dernier et Hannibal, dans une confrontation particulièrement violente, du fait de l'ironie cinglante de Flaminius [40], arme dont usera à son tour Hannibal face à Prusias. En effet, dans la scène, l'ambassadeur romain cherche à faire passer son adversaire pour un illuminé politique aux yeux d'Attale, de telle sorte que celui-ci, de peur de finir aussi mal qu'Antiochus, se détourne finalement de ses intentions premières. L'ironie, dans la scène, est le moyen le plus corrosif, donc le plus efficace, dont peut user Flaminius, puisqu'il ne peut l'effrayer par des discours. Ses paroles, apparemment adressées à son interlocuteur, sont dès lors destinées à Attale, dont il sait qu'il a plus de chances de l'ébranler qu'Hannibal. Malheureusement pour lui, ce sera en vain.
 
@@ -211,7 +211,7 @@ De ce fait, il n'est pas étonnant de voir celle-ci reproduire l'attitude de son
 Élise aura également recours à l'ironie face à Flaminius, pour lui faire sentir tout son mépris, mépris bien différent de celui qu'elle éprouve vis-à-vis de Prusias. En effet, elle ne voit en ce dernier qu'un lâche sans intérêt, indigne de la couronne qu'il porte, tandis que le premier est, à ses yeux, un infâme aux méthodes honteuses. C'est pourquoi, en véritable héroïne, elle garde sa fierté, même quand tout semble perdu, et crache son dédain au visage de Flaminius en ces termes : « Il sera beau pour toy d'avoir séduit un Traistre, / Et tes fourbes, dont l'art nous a mis sous tes loix, / Pour annoblir ton nom sont de fameux exploits » [45]. L'ironie est donc une arme rhétorique caractéristique, dans *La Mort d'Annibal*, des personnages de grande envergure.
 
 
-## Un échec de la politique : déceptions et pessimisme
+## Un échec de la politique : déceptions et pessimisme.
 
 Il s'avère cependant, après examen, que *La Mort d'Annibal* est une pièce de l'échec politique pour les deux camps en présence. En effet, pour Hannibal comme pour Flaminius, l'issue n'en est guère satisfaisante : l'un meurt de s'être appliqué toute sa vie à abattre Rome sans résultat, et l'autre n'obtient pas, finalement, l'anéantissement du camp ennemi.
 
@@ -236,14 +236,14 @@ Cependant, les tonalités des deux dénouements sont fort différentes. En effet
 *La Mort d'Annibal* de Thomas Corneille est donc un véritable constat d'échec, qui révèle au spectateur la dure réalité de la politique : nul ne peut l'emporter définitivement. Dans ces conditions, il va falloir examiner quelles attitudes les personnages peuvent adopter : et c'est ainsi que va se développer toute une dialectique, qui va définir la place du roi dans cette situation dramatique.
 
 
-# La casuistique royale : une idéologie de la monarchie
+# La casuistique royale : une idéologie de la monarchie.
 
 Dans *La Mort d'Annibal*, un roi peut adopter trois attitudes différentes : deux sont extrêmes, la troisième est médiane. Ces trois comportements s'incarnent dans les personnages de Prusias, Attale et Nicomède.
 
 Le premier, roi faible, se laisse persuader par son capitaine des gardes Araxe d'employer des moyens infamants pour arriver à ses fins : machiavélien par la force des choses, passif, il devient l'incarnation du tyran faible, véritable paradoxe que nous allons développer ici. Le second, élevé à Rome, cherche à s'affranchir de la tutelle du Sénat, sans en distinguer toutes les conséquences : il est donc une figure royale extrêmement incertaine. Le troisième, éduqué par Hannibal, d'après Thomas Corneille, est le plus digne de posséder le titre royal des trois, du fait de sa noblesse : il représente la royauté dans ce qu'elle a de plus grand. Comment ces trois cas de figure vont-ils donc s'illustrer dans la pièce ?
 
 
-## Une charge contre le tyran faible : le roi Prusias
+## Une charge contre le tyran faible : le roi Prusias.
 
 Les dramaturges du XVII*e* siècle accordent une attention toute particulière à la question du tyran. En effet, dans les pièces de théâtre classiques, le roi est soit légitime, soit despotique. Dans le premier cas, juste et équitable, il reste étranger à toute tyrannie et n'a jamais recours à la coercition. Dans le second, c'est un tyran qui a usurpé le pouvoir qu'il détient. Le tyran par excellence dans la tragédie classique du XVII*e* siècle reste le Phocas de Pierre Corneille [48] : en lui, il montre que le tyran est tout simplement un véritable homme à abattre, et qu'il est toujours coupable : c'est pourquoi il faut qu'il meure. Cependant, le châtiment n'était pas systématique chez les dramaturges classiques – notamment chez Pierre Corneille – qui voient bien toute la complexité de la question : le tyran peut effectivement échapper à la sentence lorsqu'il se montre capable d'évoluer vers la royauté légitime – ce qui est le cas d'Auguste, dans *Cinna*, et de Grimoald, dans *Pertharite, roi des Lombards* [49] : l'un se rachète en voulant déposer le pouvoir dont il s'est emparé par la force, et en faisant preuve de clémence, la vertu royale par excellence. L'autre se montre, une fois parvenu au trône, un roi parfaitement vertueux : son ennemie jurée, Rodelinde, l'admet elle-même [50]. Ainsi conservent-ils finalement tous deux le trône : bien mal acquis profite donc parfois. Mais ce cas de figure reste bien évidemment très rare. Tout cela engageait toute une réflexion d'ordre moral sur le tyrannicide : était-il légitime de tuer le tyran ? Bien évidemment, le théâtre n'était pas le seul à examiner la question à l'époque classique, mais il n'en reste pas moins qu'il le faisait de façon tout aussi approfondie que les traités de casuistique jésuites.
 
@@ -280,7 +280,7 @@ Pour toutes ces raisons, Prusias ne peut échapper à une mort infamante, qui s'
 Par ailleurs, sa mort était inévitable : dans le théâtre classique, toute faute trouve son châtiment, et particulièrement la tyrannie, inadmissible, en particulier chez un Corneille. À l'époque, la mise à mort du tyran est d'ailleurs un lieu commun au théâtre. Thomas Corneille ne déroge donc pas à la règle. En revanche, il contrevient à l'Histoire, et suit sur ce point l'exemple que lui donne son frère aîné dans l'adresse au lecteur de *Nicomède*. En effet, il a soin de ne pas ensanglanter les mains de Nicomède, pour lui « prêter plus de valeur et de fierté contre les Romains », et ne pas présenter une « catastrophe si barbare » au spectateur [69]. Ce qui, effectivement, élève le personnage de Nicomède, en dévaluant celui de Prusias, par un effet d'opposition.
 
 
-## Nicomède, le roi dans l'âme
+## Nicomède, le roi dans l'âme.
 
 Nicomède est la synthèse idéale de son père Prusias – en ce qu'il en héritera le titre royal – et d'Hannibal – en ce que tous deux partagent les mêmes vertus. En effet, à l'image de ce dernier, il est un héros glorieux qui refuse de céder à la facilité, et se comporte en roi, même s'il ne l'est pas dans les faits. Il refuse donc catégoriquement toute tutelle, et montre en cela une fierté farouche et une nature fondamentalement souveraine. Hannibal, d'ailleurs, ne s'y trompe pas, et reconnaît son disciple à sa juste valeur [70]. En cela, Nicomède est l'antithèse exacte de son père : Prusias, bien que roi en titre, ne l'est « qu'en paroles » [71], tandis que son fils, roi dans l'âme, ne l'est pas dans les faits [72].
 
@@ -305,7 +305,7 @@ Entre un homme armé et un homme désarmé, il n'y a pas du tout de rapport, et 
 Il faut donc que le Prince ait non seulement de l'entendement en matière militaire, mais qu'il ait aussi fait ses preuves sur le champ de bataille, et démontré qu'il n'est pas, précisément « désarmé ». Ce que le jeune Nicomède ne fera qu'à la fin de la pièce. Ainsi le Nicomède de Thomas Corneille est-il annonciateur de celui de Pierre Corneille qui, déjà glorieux et héroïque, peut compter sur le soutien du peuple et de l'armée, qui l'ont vu à l'œuvre. Dans *La Mort d'Annibal*, héritier légitime du trône de Bithynie, il ne peut qu'attendre d'y accéder pour prouver les vertus qu'il a héritées d'Hannibal. Il est donc un personnage dans l'attente : sa noblesse reste donc, dans notre pièce, à l'état de qualité, et c'est pourquoi il apparaît si peu sur scène – huit scènes en tout –, et reste un personnage secondaire.
 
 
-## Attale, ou l'homme qui aurait voulu être roi
+## Attale, ou l'homme qui aurait voulu être roi.
 
 Il n'en va pas de même pour Attale, dont les apparitions sont bien plus nombreuses. Pourtant, il n'est pas plus un combattant que ne l'est Nicomède, puisqu'il déroge à la règle machiavélienne que nous venons de citer. En effet, il n'a pas plus de légitimité guerrière ou héroïque que Nicomède : s'il est roi, c'est parce que Rome l'a voulu, et non grâce à d'hypothétiques faits d'armes. Il faut, par ailleurs, bien noter qu'il sort des geôles bithyniennes, dont Prusias l'a tiré après la prétendue mort d'Eumène. C'est pourquoi on peut aisément comprendre la mutinerie de son armée : celle-ci a toutes les raisons de ne pas estimer un roi qu'on lui a imposé, qui ne s'est jamais illustré à sa tête, et qui, en sus, sort des geôles de l'ennemi contre lequel elle vient de perdre la face.
 
@@ -316,7 +316,7 @@ L'attitude d'Attale est due au fait qu'il ne saisit pas toutes les implications 
 Il n'est donc pas étonnant, en fin de compte, qu'Attale ne soit pas roi. En effet, dans la tragédie, un personnage aussi indécis, qui n'a ni l'étoffe, ni la carrure d'un roi, ne peut l'être : il n'est donc pas surprenant, finalement, d'apprendre qu'il ne l'a techniquement jamais été de toute la pièce. Nicomède, de son côté, n'a pas non plus de hauts faits pour le recommander : aussi n'est-il pas encore roi, et n'accède-t-il au titre qu'après un exploit guerrier remarquable, au tout dernier acte. Prusias, quant à lui, a été auparavant un roi estimé de tous, et détient une véritable légitimité royale auprès de ses sujets et de son armée. « Toute l'Asie émeuë, et presque sous vos loix / Craignoit déjà en vous le plus grand de ses Rois » [86], lui déclare Hannibal, montrant bien ainsi que Prusias n'a pas toujours été le monarque pusillanime que Thomas Corneille nous présente dans sa pièce. Avant la pièce, il a eu l'étoffe et les actions d'un héros, donc d'un roi légitime en tragédie. Il n'en va pas de même pour Attale, qui n'a ni l'un, ni l'autre pour le recommander à la royauté. On le voit : dès le départ, la donne est faussée, et l'on s'aperçoit que, dès le début, Attale ne peut tout simplement pas être roi, surtout pas dans la tragédie d'un Corneille. Il lui manque la grandeur, positive ou négative, qui lui permettrait d'accéder à ce titre de façon indéniable : car le théâtre classique nous fournit nombre de figures royales vicieuses, qui se sont emparées du pouvoir de façon illégitime. Ce sont les tyrans, les Phocas, les Athalie. Il nous fournit également les rois faibles, qui, de braves, sont tombés dans la lâcheté et la peur : ce sont les faibles, les Prusias (aussi bien celui de Pierre que de Thomas Corneille), les Massinisse. Mais être faible, et ne disposer d'aucun haut fait d'armes rend la royauté tout simplement impossible dans la tragédie classique, et c'est pourquoi Attale, en fin de compte, est un roi mort-né. N'étant pas à la hauteur du titre, il n'a pas l'envergure d'un roi : il est tout simplement quelqu'un de commun, que l'on a plongé dans une situation qui le dépasse complètement.
 
 
-# L'écrasement du tendre dans La Mort d'Annibal
+# L'écrasement du tendre dans La Mort d'Annibal.
 
 L'œuvre de Thomas Corneille, de façon générale, se nourrit des romans galants. Or, cela est fort apprécié dans la décennie 1670, étant donnée l'influence féminine sur le théâtre à l'époque, influence que Maurice Descotes a bien mise en évidence dans *Le Public de théâtre et son histoire*. En témoigne l'immense succès du XVII*e* siècle, autre œuvre de Thomas Corneille : *Timocrate* (1656), succès dû au soutien massif du public féminin dont il jouissait :
 
@@ -328,7 +328,7 @@ Thomas Corneille, tout imprégné de culture galante et de romanesque pastoral, 
 Mais à la lecture de la pièce, l'on s'aperçoit que l'idéal galant du Tendre, et que l'amour lui-même, y sont déconsidérés. S'il est vrai que l'importance de l'amour est primordiale en tant que ressort dramatique de la pièce, il n'en reste pas moins qu'il est bafoué, utilisé, et parfois même méprisé. Ainsi, dans quelle mesure peut-on parler de « tragédie du Tendre », d'après l'expression d'Octave Nadal [88], en considérant *La Mort d'Annibal*, c'est-à-dire d'une tragédie où « les héros n'ont de politique qu'amoureuse » [89] ?
 
 
-## La politique souveraine
+## La politique souveraine.
 
 L'amour n'a pas bonne presse dans *La Mort d'Annibal*. En effet, Thomas Corneille l'assujettit véritablement à la politique, qui reste le fil principal de la pièce, et à laquelle toutes les autres trames se rapportent. L'amour est donc la mineure de l'histoire, et est traité comme telle par les personnages illustres de la pièce : pour ceux qui ont quelque peu d'envergure, comme Hannibal et Flaminius, la politique ne peut en aucun cas être amoureuse, et c'est cela qui va les différencier des médiocres comme Prusias.
 
@@ -370,7 +370,7 @@ Nous l'avons vu : l'amour, dédaigné, est asservi à la gloire, et aux motivat
 En ce qui concerne Prusias, d'une part, il le pousse à l'aveu de façon particulièrement habile, et l'incite ouvertement à livrer Hannibal, ce que ce dernier ne ferait pas s'il n'était persuadé qu'Attale n'avait trahi le héros. Quant à Attale, Flaminius s'arrange pour le placer dans une situation inextricable, dont le jeune roi ne saisit pas bien tous les tenants et aboutissants : connaissant l'amour d'Attale pour Élise, et sachant que celui-ci sera trop content que tout s'arrange pour lui, Flaminius sait donc parfaitement quel moyen employer pour mener Attale où il veut. Ce qui réduit, en fin de compte, l'amour à fort peu de chose : un pion de l'échiquier politique.
 
 
-## L'amour perverti
+## L'amour perverti.
 
 Thomas Corneille ne se contente pas de nous montrer l'amour détourné de sa propre fin : il nous le montre perverti, dénaturé, à travers la figure du roi Prusias. En effet, l'amour qu'il porte à Élise est visiblement purement égoïste. Il va même particulièrement loin dans l'abjection, puisqu'il se contenterait même de la satisfaction la plus basse : celle de voir ses rivaux malheureux. Prusias n'a même pas la générosité dont fait preuve son propre fils, lorsqu'il s'exclame : « Quoy, je pourrois souffrir qu'Attale fust heureux ? » [109].
 
@@ -383,14 +383,14 @@ Il ne faut pas oublier, d'ailleurs, que le personnage de Prusias, dans *La Mort 
 Cependant, paradoxalement, le décalage entre ses propos et son âge n'est pas comique : le procédé ne fait que le rendre déplorable. En effet, Thomas Corneille, en dramaturge classique qu'il est, ne pratique pas le mélange des genres : il n'exploite donc pas les potentialités comiques du personnage. Mais il n'en reste pas moins que, pour le spectateur, l'idée est là, et que s'il ne rit pas de Prusias, il le considère néanmoins comme ridicule, ce qui est bien plus humiliant. D'autant que le personnage va lui-même aggraver son cas, en adoptant parfois un langage galant, pour le démentir par la suite, révélant ainsi une double corruption du discours tendre.
 
 
-## L'écrasement du Tendre
+## L'écrasement du Tendre.
 
 Cependant, on trouve bel et bien un amour galant non dévoyé dans la pièce de Thomas Corneille, en la personne de Nicomède, que l'on peut rapporter point par point à l'idéal du tendre, idéal qui se caractérise par la grandeur d'âme, la noblesse, la vertu, et une grande sensibilité. Et nous l'avons vu, Nicomède, en héros qu'il est, a l'âme noble, aussi bien que des inclinations vertueuses – grandeur d'âme, respect de la femme qu'il aime, courage, et surtout sensibilité. Mais comme, précisément, il ne se définit que comme un parfait amant, cela le relègue au second plan de la tragédie politique qu'est *La Mort d'Annibal*. En effet, du moment qu'il se cantonne à exceller dans le domaine amoureux, il s'exclut de l'essentiel de l'action, et ce n'est qu'à la fin qu'il y prend pleinement part. Auparavant, il s'en tient à sa trame amoureuse : on le voit au fait qu'il ne réfléchit et n'agit qu'en fonction d'Élise. En effet, s'il veut aller à Rome, ce n'est que pour la soustraire aux coups de Flaminius. Sa première réaction, quand son père lui annonce la prétendue trahison d'Attale, est de vouloir « mettre Élise entre les mains de Prusias » [115]. Toute sa pensée est tournée vers elle, il ne veut que la servir. La plupart du temps, en outre, il est absent de la scène, puisque le grand enjeu de la pièce reste bel et bien l'antagonisme entre Rome et Hannibal. Nicomède reste donc l'illustration parfaite, mais effacée, de l'idéal du tendre dévoué à celle qu'il aime, dans la pièce de Thomas Corneille. Car dans l'histoire de la mort d'Hannibal, où prime la grande politique, les grands et tendres mouvements de l'âme n'ont qu'une place secondaire, puisqu'ils ne posent pas problème en eux-mêmes. Mais il n'en est pas moins vrai qu'ils ont des répercussions considérables sur les événements. C'est ce qui fait que le personnage de Prusias est plus important que celui de son fils : son amour, tout dévoyé qu'il est, a plus d'incidence sur la trame politique, en ce qu'il s'y abandonne, et le laisse le guider dans toutes ses actions, et surtout en ce qu'il détient le titre royal, ce qui fait que bien plus de choses dépendent de lui que de son fils.
 
 Cependant, le plus remarquable est que l'amour tendre est réduit au silence, et étouffé par le personnage même qui en est l'objet : lorsque Nicomède, en effet, offre ses vœux amoureux à Élise, celle-ci désamorce le discours tendre presque immédiatement, ce qui en rend toute expression impossible. Car si l'objet du discours ne l'accepte pas, où, dans quelles circonstances pourra-t-il s'exprimer ? Nulle part, bien évidemment, sous peine de devenir ridicule, et déplacé : un discours tendre n'est pertinent que lorsqu'il se tient entre les deux personnes concernées, puisqu'il n'engage que deux personnes exclusivement. Cela condamne dès lors définitivement l'amour tendre au silence. La tragédie du Tendre, à laquelle on pouvait s'attendre, au vu de l'auteur de la pièce, est donc bien présente, mais s'exprime sur un mode mineur. Pire : elle ne s'exprime que pour être niée immédiatement. De fait, si Thomas Corneille en étouffe l'expression, il ne réduit pas à néant l'idée en elle-même, ce qui fait que l'on peut conclure que *La Mort d'Annibal* est une tragédie du Tendre tenue en échec par la veine dynastique.
 
 
-# Conclusion
+# Conclusion.
 
 Le pessimisme n'a pas servi les frères Corneille dans leur théâtre : tout comme Suréna, le héros résigné, n'a pas plu au public du XVII*e* siècle, Hannibal, le perdant magnifique, n'a guère suscité l'enthousiasme. C'est ce qui a pu faire, en partie, la différence auprès du public entre *Nicomède*, et *La Mort d'Annibal* : l'une des deux pièces était enthousiasmante, l'autre était oppressante. Le fait que le dramaturge y réduisait, en outre, le Tendre à une annexe dédaignée de la politique, alors que son succès s'appuyait essentiellement sur les mondains, lui a indéniablement nui. L'insuccès de la pièce avait donc de réels fondements au XVII*e* siècle, et le jugement sévère dont la pièce a été immédiatement l'objet s'est chargé de la plonger dans l'oubli.
 
@@ -399,18 +399,18 @@ Cette sévérité s'est perpétuée par la suite, lorsque la galanterie fut pass
 Mais tout cela ne doit pas dissimuler les réelles qualités de la pièce, qui tient fort bien la comparaison avec *Nicomède* du point de vue de la construction et de l'analyse politique. En effet, *La Mort d'Annibal* reste une pièce remarquablement construite, soutenue par un rythme dramatique très intense, pour se clore sur une catastrophe particulièrement frappante, puisque le spectateur n'attend plus la mort d'Hannibal quand elle se produit. En outre, l'analyse politique que mène le dramaturge dans sa pièce – aussi bien sur le machiavélisme que sur les devoirs du roi – est d'une grande finesse, à travers des personnages dont il sait explorer avec pertinence et cohérence toutes les réactions, dans des situations très variées. Thomas Corneille fait donc preuve d'une maîtrise remarquable quand il compose sa pièce : si la complexité des personnages n'est pas son point fort, du moins sait-il parfaitement exploiter toutes les ressources de ceux-ci. Et sa réflexion politique a le mérite de beaucoup différer de celle de son frère dans *Nicomède* : en effet, Thomas Corneille ne se contente pas de reprendre servilement ce que son aîné avait déjà traité avant lui : en menant une réflexion politique qui lui est propre, il relève donc brillamment un défi qu'il s'était lui-même imposé en choisissant un sujet qui le mettait immédiatement en regard avec son frère, qu'on lui jugeait déjà supérieur, et qui le plaçait devant des difficultés dramatiques majeures.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Le texte de la présente édition
+## Le texte de la présente édition.
 
 
-### Présentation des textes disponibles
+### Présentation des textes disponibles.
 
 Le présent texte est tiré de l'édition imprimée en 1670, vendue chez Guillaume de Luynes et Claude Barbin. On en trouve deux exemplaires identiques sauf pour la page de titre, disponibles sous les cotes R118287 (microfilm) et 8-RF-2723 (livre) au département des Arts du spectacle de la Bibliothèque nationale de France (site Richelieu), et sous la cote GD-14556 à la Bibliothèque de l'Arsenal. En voici les notices bibliographiques.
 
 
-#### Premier exemplaire
+#### Premier exemplaire.
 
 Premier exemplaire, conservé au département des Arts du spectacle de la Bibliothèque nationale de France (site Richelieu).
 
@@ -425,7 +425,7 @@ a1 r°: titre ― a2  r°: épître à Monseigneur de Seignelay ― a4 r° : 
 Titres courants (v° : LA MORT D'ANNIBAL ; r° : TRAGEDIE) ; réclames de feuillets.
 
 
-#### Second exemplaire
+#### Second exemplaire.
 
 Second exemplaire, conservé à la Bibliothèque de l'Arsenal.
 
@@ -436,15 +436,15 @@ In-12°, 10 ff non chiffrés, 86 ff chiffrés : 8 1-86 2 ; sign. a*3*, A-H*1*
 *Titre* : LA MORT | D'ANNIBAL, | TRAGEDIE. | Par T. CORNEILLE. | A ROUEN, et se vend | A PARIS, | Chez CLAUDE BARBIN, Sur le second Perron | de la Sainte Chappelle. | M. DC. LXX. | AVEC PRIVILEGE DU ROY.
 
 
-### Corrections et choix d'édition
+### Corrections et choix d'édition.
 
 
-#### L'orthographe
+#### L'orthographe.
 
 Nous avons conservé l'orthographe originale du texte, et les variantes accentuelles ou typographiques ont été maintenues d'un terme à l'autre. En revanche, les graphies archaïques ont été modernisées : les « & » ont été systématiquement remplacés par « et », et les tildes indiquant une nasalisation ont été décomposés en « n » ou « m ». La graphie ancienne « f » pour le « s » intervocalique et interconsonantique a été modernisée. Le « i » majuscule en guise de « j » a été systématiquement rectifié. Pour la locution adverbiale « en vain », nous avons conservé l'orthographe que l'imprimeur emploie à plusieurs reprises dans notre texte, bien qu'elle soit inexacte (« envain » : v. 17, 1126, 1127, 1214). Les accents diacritiques absents ont été rétablis, et les erreurs et coquilles corrigées.
 
 
-#### Les coquilles
+#### Les coquilles.
 
 Coquilles orthographiques
 
@@ -463,24 +463,24 @@ Vers 1359 : he las
 Vers 1416 : semblo t
 
 
-### Liste des diérèses
+### Liste des diérèses.
 
 Les noms de Flaminius, Prusias et d'Antiochus, objets constants de diérèses, n'ont pas été relevés dans la liste suivante.
 
 Vers 1 : éblouisse ; vers 3 : oublier ; vers 5 : triomphoit ; vers 65 : Envieux ; vers 119 : passion ; vers 120 : aversion ; vers 134 : éblouir ; vers 161 : ruine ; vers 185 : passion ; vers 218 : alliance ; vers 223 : ebloüir ; vers 244 : triomphe ; vers 250 : mandier ; vers 278 : alliance ; vers 302 : défiances ; vers 327 : triomphe ; vers 358 : défiance ; vers 359 : union ; vers 378 : inquietude ; vers 387 : joüir ; vers 388 : ebloüir ; vers 391 : inquiete ; vers 409 : curiosité ; vers 421 : loüer ; vers 425 : advoüer ; vers 438 : joüir ; vers 454 : impatience ; vers 460 : ruine entiere ; vers 467 : joüir ; vers 468 : oüir ; vers 471 : obeïssez ; vers 524 : joüet ; vers 525 : cruel ; vers 526 : obeïsse ; vers 541 : enviez ; vers 545 : obeïssant ; vers 562 : fastueux ; vers 565 : violences ; vers 568 : odieux ; vers 571 : haïs ; vers 572 : Triompher ; vers 573 : défiance ; vers 617 : avoüer ; vers 626 : défiant ; vers 629 : Allié ; vers 635 : ruine ; vers 643 : oublier ; vers 644 : sacrifier ; vers 654 : Triompher ; vers 656 : occasion ; vers 659 : passion ; vers 660 : aversion ; vers 678 : oüir ; vers 732 : Espion ; vers 753 : occasion ; vers 760 : triomphoient ; vers 761 : legions ; vers 770 : confiance ; vers 778 : injurieux. ; vers 783 : lier ; vers 794 : défiance ; vers 807 : jouy ; vers 809 : triomphé ; vers 813 : Païs ; vers 834 : violence ; vers 844 : obeïra ; vers 850 : haïr ; vers 856 : obeïr ; vers 860 : ebloüir ; vers 887 : obeïr ; vers 888 : haïr ; vers 898 : union ; vers 901 : alliance ; vers 909 : Allié ; vers 930 : triompher ; vers 959 : glorieux ; vers 967 : inquieter ; vers 969 : alliance ; vers 999 : palier ; vers 1000 : justifier ; vers 1022 : passions ; vers 1045 : Allié ; vers 1049 : inquietude ; vers 1062 : Advoüant ; vers 1086 : occasions ; vers 1123 : Joüissez ; vers 1157 : inviolable ; vers 1159 : ébloüy ; vers 1175 : obeïssants ; vers 1196 : fiez ; vers 1206 : Phrygien ; vers 1218 : Phrygien ; vers 1228 : obeïr ; vers 1232 : Rhodiens ; vers 1238 : Rhodiens ; vers 1249 : inquietude ; vers 1260 : Alliez ; vers 1261 : glorieux ; vers 1271 : Confier ; vers 1275 : oubliez ; vers 1326 : occasion ; vers 1340 : triomphé ; vers 1373 : violence ; vers 1377 : passion ; vers 1383 : triompher ; vers 1388 : triomphe ; vers 1412 : desaduoüer ; vers 1429 : haïr ; vers 1463 : triompher ; vers 1469 : alliance ; vers 1516 : odieux ; vers 1528 : Fabius, Scipions ; vers 1534 : confiance ; vers 1539 : obeïr ; vers 1540 : haïr ; vers 1609 : priere ; vers 1614 : violence ; vers 1621 : passion ; vers 1715 : triomphe ; vers 1736 : obeïr ; vers 1755 : sacrifié ; vers 1756 : allié ; vers 1757 : injurieux, captieuse, Alliance ; vers 1764 : obeïr ; vers 1797 : triomphe ; vers 1802 : triomphe ; vers 1818 : défiance ; vers 1820 : occasion ; vers 1844 : obeïr ; vers 1858 : triomphe ; vers 1866 : triompher ; vers 1882 : violence ; vers 1913 : haïr.
 
 
-## Les éditions ultérieures
+## Les éditions ultérieures.
 
 
-### Présentation des textes
+### Présentation des textes.
 
 La plupart des éditions ultérieures sont des éditions pirates. Nous n'y avons donc pas eu recours pour l'établissement du présent texte, puisqu'elles n'ont pas été imprimées avec l'accord de l'auteur, et qu'elles ont été réalisées d'après la copie de Paris, c'est-à-dire de l'édition que nous avons prise pour base.
 
 Une réédition ultérieure a été faite à Paris, en 1692, à l'occasion de l'édition collective du théâtre de Thomas Corneille. *La Mort d'Annibal* figure dans le quatrième tome de l'édition en question, disponible à la Bibliothèque nationale François Mitterand sous la cote 16-YF-1195 (4) : cette réédition corrige les fautes d'impression de la précédente édition, mais en introduit de nombreuses autres. En voici la notice bibliographique.
 
 
-#### Exemplaire conservé à la Bibliothèque François Mitterrand
+#### Exemplaire conservé à la Bibliothèque François Mitterrand.
 
 CORNEILLE, Thomas, *La Mort d'Annibal*, in *Le Théâtre de Thomas Corneille, reveu, corrigé et augmenté de diverses pieces nouvelles*, t. 4.
 
@@ -497,17 +497,17 @@ A1 : feuillet vierge – A2 r° : page de titre – A3 r° : épître à Mo
 Titres courants (v° : LA MORT D'ANNIBAL ; r° : TRAGEDIE). Pas de privilège du roi.
 
 
-### Corrections et choix d'édition
+### Corrections et choix d'édition.
 
 
-#### L'orthographe
+#### L'orthographe.
 
 L'édition de 1692 introduit de nombreuses erreurs de ponctuation.
 
 Nous n'avons pas relevé toutes les variantes graphiques d'une édition à l'autre, qu'elles soient orthographiques ou accentuelles, puisqu'elles dépendent seulement des imprimeurs. En revanche, nous avons relevé les variantes de ponctuation.
 
 
-#### Les coquilles
+#### Les coquilles.
 
 Coquilles orthographiques
 
@@ -607,7 +607,7 @@ Vers 1754 : que
 # LA MORT D'ANNIBAL, TRAGEDIE.
 
 
-## EPISTRE
+## EPISTRE.
 
 A Monseigneur le Marquis de Seignelay, Secretaire d'Estat [116].
 
@@ -622,7 +622,7 @@ Vostre tres-humble et tres-obeïssant serviteur,
 T. CORNEILLE
 
 
-## ACTEURS
+## ACTEURS.
  – PRUSIAS,Roy de Bithynie.
  – ATTALE,Successeur d'Eumene crû mort, au royaume de Pergame.
  – ANNIBAL.
@@ -641,7 +641,7 @@ T. CORNEILLE
 PRUSIAS, ATTALE, ARAXE.
 
 
-    ATTALE
+    ATTALE.
 Seigneur, ne croyez pas qu'un Trône [117] m'éblouisse⁎ [118]  
 Jusqu'à rendre [119] mon cœur capable d'injustice,  
 Et me faire oublier quel excez de bonté  
@@ -656,7 +656,7 @@ Si dans ce nouveau rang j'avois rien de plus doux
 Que chercher [121] les moyens de m'acquiter vers vous [122].  
 Quoy qu'Eumene…  
 
-    PRUSIAS
+    PRUSIAS.
         Seigneur, ne parlons plus d'Eumene. [123]  
 Il eust nourry pour nous une eternelle haine [124],  
 Et malgré vous, l'honneur vous eust fait une loy  
@@ -678,7 +678,7 @@ Je ne m'en suis voulu reserver⁎ que la gloire,
 Pergame est tout à vous, et je vous ay rendu  
 Ce qu'à [131] droit de conqueste on sçait qui m'estoit dû.  
 
-    ATTALE
+    ATTALE.
 Ce rare et grand effort [132] d'une vertu⁎ sublime  
 De l'Univers entier vous asseure l'estime ;  
 Mais, Seigneur, tant de biens sont pour moy superflus  
@@ -690,10 +690,10 @@ J'estois moins Prisonnier de guerre que d'Amour.
 Deux beaux yeux en secret captivoient ma franchise⁎ [134].  
 J'avois, j'avois trop veu l'incomparable Elise.  
 
-    PRUSIAS
+    PRUSIAS.
 La Fille d'Annibal ? [135]  
 
-    ATTALE
+    ATTALE.
         Oüy, je l'aime, Seigneur,  
 L'absence ny le temps [136] n'ont pû changer mon cœur,  
 Et si de vostre appuy j'ose flater mon ame  
@@ -705,7 +705,7 @@ Et dans l'incertitude⁎ où ce besoin le jette,
 Deux Rois pourront tenir son Destin affermy  
 S'il en a l'un pour Gendre, et l'autre pour amy [138].  
 
-    PRUSIAS
+    PRUSIAS.
 La vertu⁎ d'Annibal paroist si peu commune  
 Que sans doute il est beau d'embrasser sa fortune [139],  
 Et vous ne sçauriez mieux vous en faire l'appuy  
@@ -723,26 +723,26 @@ J'ay promis, j'ay donné retraite⁎ à ce grand homme,
 Et dois trop aux serments qu'il a receus de moy  
 Pour rien faire jamais [144] qui démente ma foy⁎.  
 
-    ATTALE
+    ATTALE.
 Aussi ne suis-je pas assez vain pour prétendre  
 Qu'Annibal dust me suivre en m'acceptant pour Gendre,  
 Content de posseder un Objet plein d'appas  
 Je le verray, Seigneur, vivre dans vos Estats.  
 Ainsi le retenant [145] vous pouvez sans scrupule…  
 
-    PRUSIAS
+    PRUSIAS.
 Seigneur, il ne faut point que je vous dissimule,  
 Je doute qu'Annibal n'imputast à mépris  
 Si je parlois pour vous plûtost que pour mon Fils [146]  
 Vous sçavez prés de luy quel rang ce Fils possede,  
 Que tout jeune qu'il est…  
 
-    ATTALE
+    ATTALE.
         Ah, Seigneur, je luy cede [147],  
 Quoy qu'Elise à mes yeux fasse briller d'appas,  
 Si le Prince y prétend…  
 
-    PRUSIAS
+    PRUSIAS.
         Non, il n'y pense pas,  
 Mais il faut éviter, en cherchant mon suffrage  
 Ce qui pourroit vous nuire, ou donner de l'ombrage⁎.  
@@ -752,7 +752,7 @@ Contre vous pour un Fils bien loin que je m'employe,
 Faites-les agréer, j'en auray de la joye. [148]  
 Mais laissez-moy me taire où vos feux parleront.  
 
-    ATTALE
+    ATTALE.
 Seigneur, vous apprendrez le succez qu'ils auront.  
 
 
@@ -760,53 +760,53 @@ Seigneur, vous apprendrez le succez qu'ils auront.
 PRUSIAS, ARAXE.
 
 
-    ARAXE
+    ARAXE.
 Me trompay-je, Seigneur, dans ce que je présume ?  
 Attale craint qu'un jour la guerre se rallume,  
 Et de peur qu'Annibal n'ose vous secourir  
 En épousant sa Fille il veut se l'acquerir.  
 
-    PRUSIAS
+    PRUSIAS.
 J'ignore les motifs du dessein qu'il m'explique⁎,  
 Mais enfin soit amour, Araxe, ou Politique [149],  
 Cet hymen… Dieux !  
 
-    ARAXE
+    ARAXE.
     D'où vient…  
 
-    PRUSIAS
+    PRUSIAS.
         Qu'il doit m'estre fatal ! [150]  
 
-    ARAXE
+    ARAXE.
 A vous, Seigneur ?  
 
-    PRUSIAS
+    PRUSIAS.
         Tu vois qu'il nous oste Annibal.  
 
-    ARAXE
+    ARAXE.
 Pouvez-vous regreter qu'il chasse ailleurs un homme  
 Dont la retraite⁎ icy vous rend suspect à Rome ?  
 
-    PRUSIAS
+    PRUSIAS.
 Mais il faudra qu'Elise…  
 
-    ARAXE
+    ARAXE.
         Eh bien, quel interest…  
 
-    PRUSIAS
+    PRUSIAS.
 Quoy, d'Elise…  
 
-    ARAXE 
+    ARAXE. 
         Seigneur, je crois qu'elle vous plaist ?  
 
-    PRUSIAS
+    PRUSIAS.
 A moy ? qui te l'a dit ?  
 
-    ARAXE
+    ARAXE.
         Je l'apprens de vous-mesme,  
 Ce trouble…  
 
-    PRUSIAS
+    PRUSIAS.
         Il me trahit, je l'avouë, oüy, je l'aime,  
 Et par mille combats rendus jusqu'à ce jour  
 J'ay tâché vainement d'étouffer cet amour.  
@@ -815,11 +815,11 @@ Ont beau sur son ardeur refroidir mon courage⁎, [151]
 Elise a tous mes vœux⁎, Elise a tout mon cœur,  
 Et pour moy sans Elise il n'est point de bonheur⁎.  
 
-    ARAXE
+    ARAXE.
 Mais en vous declarant doutez-vous qu'avec joye  
 Annibal…  
 
-    PRUSIAS
+    PRUSIAS.
         Non, je sçay ce qu'il faut que j'en croye.  
 Mon hymen d'Annibal rempliroit tous les vœux⁎,  
 Je n'ay qu'à dire un mot, et je me rends heureux.  
@@ -861,7 +861,7 @@ Par de nouveaux serments il [168] peut… mais je le voy.
 PRUSIAS, NICOMEDE, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 Prince, Annibal sans doute aura quelques alarmes  
 De voir qu'Attale et moy nous mettions bas les armes,  
 Et que la paix jurée asseure à nos Estats  
@@ -875,7 +875,7 @@ Je luy faisois d'Attale embrasser la querelle [171],
 Et l'éclat d'un refus pour nous trop hazardeux  
 Au lieu d'un Ennemy, nous en attiroit deux.  
 
-    NICOMEDE
+    NICOMEDE.
 Quelque bouillante ardeur que la guerre m'inspire,  
 Vous preferez la paix, c'est à moi d'y souscrire ;  
 Mais permettez, Seigneur, que contre les Romains  
@@ -885,7 +885,7 @@ Que toûjours mesme [172] haine en leurs cœurs s'enracine,
 L'adroit [173] Flaminius a beau dissimuler,  
 Il ne vient…  
 
-    PRUSIAS
+    PRUSIAS.
         C'est surquoy [174] je voulais vous parler.  
 Depuis que dans ces lieux Flaminius m'observe,  
 J'ay dû pour Annibal montrer quelque reserve⁎,  
@@ -898,44 +898,44 @@ Tout ce qu'a de sacré la parole d'un Roy ;
 Que le Romain [175] party, je dois trop à ma gloire  
 Pour…  
 
-    NICOMEDE
+    NICOMEDE.
         Il est un moyen de luy faire tout croire.  
 Si vous l'autorisez…  
 
-    PRUSIAS 
+    PRUSIAS. 
         Quel que soit ce moyen,  
 Offrez, promettez tout, je ne reserve⁎ rien.  
 
-    NICOMEDE
+    NICOMEDE.
 Aprés ce doux aveu⁎, Seigneur, j'ose vous dire  
 Que mon cœur en secret depuis long-temps soûpire,  
 Et que par un pouvoir à mon repos fatal,  
 Elise…  
 
-    PRUSIAS
+    PRUSIAS.
         Vous aimez la Fille d'Annibal ?  
 
-    NICOMEDE
+    NICOMEDE.
 Oüy, Seigneur, je l'adore, et ne puis plus vous taire  
 Que la Fille sur moy peut autant que le Pere,  
 Si la vertu⁎ de l'un tient tout mon cœur charmé,  
 Pour la beauté de l'autre il est tout enflamé,  
 Et dans la passion où ce cœur s'abandonne…  
 
-    PRUSIAS
+    PRUSIAS.
 N'avez-vous découvert [176] cet amour à personne ?  
 
-    NICOMEDE
+    NICOMEDE.
 Il est connu d'Elise, à qui j'ay crû devoir…  
 
-    PRUSIAS
+    PRUSIAS.
 Vous en estes aimé [177]  ?  
 
-    NICOMEDE
+    NICOMEDE.
         Je n'ay pû le sçavoir,  
 Mais sans doute son choix suivra celuy d'un Pere [178].  
 
-    PRUSIAS
+    PRUSIAS.
 Je pardonne à vostre âge un aveu⁎ temeraire,  
 Prince, vous estes jeune, et vostre aveuglement  
 Presse plus ma pitié que mon ressentiment [179].  
@@ -957,7 +957,7 @@ Nous nous verrions reduits à courber sous le poids
 Sous qui déja par tout gemissent tant de Rois,  
 Profitons de l'exemple, et craignons leur disgrace.  
 
-    NICOMEDE
+    NICOMEDE.
 Les exemples, Seigneur, n'ont rien qui m'embarrasse,  
 Chacun a sa conduite, et tel peut succomber  
 Où tout autre apres luy craindra peu de tomber [181],  
@@ -978,7 +978,7 @@ Cent Princes opprimez prendront votre défence,
 Toute l'Asie aspire à voir briser ses fers,  
 Tirez-la d'esclavage, et vangez l'Univers.  
 
-    PRUSIAS 
+    PRUSIAS. 
 Voila les sentiments que l'amour vous inspire ?  
 Elise vous apprend ce que vous m'osez dire,  
 Et ce parfait rapport de haine et d'interest  
@@ -996,7 +996,7 @@ Ils vous pressent d'oser [184], il est beau de les croire,
 Et de chercher comme eux par d'illustres desseins  
 A servir de triomphe aux armes des Romains.  
 
-    NICOMEDE
+    NICOMEDE.
 Du moins, Seigneur, du moins j'auray cét avantage  
 Qu'ils [185] ne pourront jamais sousmettre mon courage⁎,  
 Et si l'indignité de quelque dur revers⁎  
@@ -1004,7 +1004,7 @@ Me reduit quelque jour à la honte des fers,
 Je n'imiteray point l'abaissement extréme  
 Qui va les mandier jusques dans Rome mesme.  
 
-    PRUSIAS
+    PRUSIAS.
 Et moy, je sçauray bien, si vous vous emportez,  
 Arrester⁎ la fureur de vos temeritez [186] ;  
 Non que dans un discours dont la fierté m'outrage  
@@ -1017,7 +1017,7 @@ Et les nœuds les plus doux n'ont rien qu'avec éclat
 Ma justice n'immole au repos de l'Estat.      
 Pensez-y meurement, allez.  
 
-    NICOMEDE
+    NICOMEDE.
         Je me retire,  
 Mais trouvez bon, Seigneur, que j'ose encor vous dire  
 Que si pour plaire à Rome il faut trahir son rang  
@@ -1028,7 +1028,7 @@ Elle peut de bonne heure [189] ordonner de mon sang [190].
 PRUSIAS, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 Qui jamais en aimant plus que moy fut à plaindre ?  
 Un Rival m'alarmoit, j'en trouve deux à craindre,  
 Et d'un fatal hymen les nœuds mal assortis  
@@ -1041,13 +1041,13 @@ Et voulant l'arracher de l'abysme qu'il s'ouvre
 Je cherche à ne point voir ce que je luy découvre. [193]  
 Quel conseil prendre, Araxe, en ces extrémitez ?  
 
-    ARAXE
+    ARAXE.
 La raison le dira si vous l'en consultez [194].  
 L'amitié des Romains faisant vostre asseurance  
 Il vous faut d'Annibal éviter l'alliance.  
 Seigneur, servez Attale, et secondez ses feux.  
 
-    PRUSIAS
+    PRUSIAS.
 Quoy, je pourrois souffrir⁎ qu'Attale fust heureux ?  
 Je sçay que quelques soins⁎ que l'amour me suggere,  
 Mon fils ainsi qu'Attale aura plus dequoy plaire, [195]  
@@ -1058,7 +1058,7 @@ Et sçachant qui des deux son amour favorise,
 Attaquons ce Rival, et cherchons du repos  
 A détruire…  
 
-    ARAXE
+    ARAXE.
         Seigneur, elle vient à propos.  
 
 
@@ -1066,10 +1066,10 @@ A détruire…
 PRUSIAS, ELISE, ARAXE, ALCINE.
 
 
-    PRUSIAS
+    PRUSIAS.
 Quoy, Madame, toûjours cet air melancolique⁎  [196] ?  
 
-    ELISE
+    ELISE.
 Quelle joye en mes yeux voulez-vous qui s'explique⁎,  
 Seigneur, lors que par tout les Destins conjurez  
 A nous persecuter se montrent preparez ?  
@@ -1081,7 +1081,7 @@ Avecque sa fortune errante et vagabonde [197]
 Un seul homme fait peur à ces Maistres du monde.  
 A nous voir vostre appuy [198], leur trouble est sans égal.  
 
-    PRUSIAS 
+    PRUSIAS. 
 Madame, je ne sçay ce qu'en juge Annibal,  
 Mais si j'ay le malheur qu'aprés mille asseurances  
 Rome le fasse entrer en quelques défiances⁎,  
@@ -1092,7 +1092,7 @@ Et mesme on craint si peu que rien nous desunisse,
 Que pour vous obtenir, vos Amants aujourd'huy  
 Implorent mon suffrage, et briguent mon appuy.  
 
-    ELISE
+    ELISE.
 Que parlez-vous d'Amants, Seigneur ? est-il croyable  
 Qu'en l'état où je suis on pust me croire aimable,  
 Et sur mon triste sort fermer assez les yeux  
@@ -1106,7 +1106,7 @@ Et si me regardant quelquefois on soûpire,
 La pitié que mes maux s'attirent chaque jour  
 Laisse dans ces soûpirs peu de part à l'amour.  
 
-    PRUSIAS
+    PRUSIAS.
 Et ce sont ces malheurs qui vous rendent à craindre. [200]  
 Pour estre tout à vous il ne faut que vous plaindre,  
 Et voir dans vos beaux yeux cette douce langueur  
@@ -1118,7 +1118,7 @@ Ils se fussent servis de toute leur fierté,
 Mais l'adoucissement qu'y meslent vos disgraces  
 Fait briller…  
 
-    ELISE 
+    ELISE. 
         Ces douceurs [201] sont pour les ames basses,  
 Seigneur, et mon orgueil s'en accommode mal,  
 De grace, traitez mieux la Fille d'Annibal.  
@@ -1129,7 +1129,7 @@ Mais il fut dans vos fers avant que d'estre Roy,
 Et l'éclat de ce Trône où je le voy qui monte  
 N'a pas encor assez effacé cette honte.  
 
-    PRUSIAS
+    PRUSIAS.
 Ah, que cette fierté paroist digne de vous !  
 J'en conçois pour mon Fils un augure bien doux,  
 Pour vos charmants appas vous sçavez qu'il soûpire,  
@@ -1137,7 +1137,7 @@ Ses respects⁎ ont cent fois pris soin de vous le dire,
 Il n'aime qu'à vous plaire ; à des feux si soumis,  
 Madame, expliquez⁎-vous, quel espoir est permis ?  
 
-    ELISE
+    ELISE.
 Quoy, vous croyez qu'Elise ait l'ame assez ingrate  
 Pour pouvoir consentir [202] que cet amour la flate,  
 Et que pour prix des soins⁎ qu'en eut vostre pitié [203]  
@@ -1151,7 +1151,7 @@ Ces dignes Conquerants sont maistres des Couronnes,
 Et quoy que vous fist croire un dépit genereux,  
 Pour regner seurement, il faut regner par eux [205].  
 
-    PRUSIAS
+    PRUSIAS.
 De ma fidelité Rome a trop d'asseurance  
 Pour me laisser long temps craindre sa défiance⁎,  
 Et sur cette union [206], quel qu'en soit le danger [207]  
@@ -1159,7 +1159,7 @@ S'il nous faut son aveu⁎, je puis le ménager.
 Pourveu que de mon Fils vous approuviez la flame,  
 Que ses vœux⁎…  
 
-    ELISE
+    ELISE.
         Connoissez, Seigneur, toute mon ame,  
 Le Prince a des vertus⁎ qu'on ne peut égaler,  
 Mais quelque feu pour luy dont je pusse brûler,  
@@ -1178,7 +1178,7 @@ Adieu, Seigneur.
 PRUSIAS, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
         Et bien, quelle preuve plus claire  
 Que mon Fils est aimé, que c'est luy qu'on prefere ?  
 La haine que pour Rome ils montrent tour à tour  
@@ -1192,24 +1192,24 @@ Il faut luy découvrir que mon Fils aime Elise,
 Et demain avec luy, sans en faire d'éclat,  
 Sous pretexte d'honneur l'envoyer au Senat.  
 
-    ARAXE
+    ARAXE.
 Mais si vous regardez son amour comme un crime,  
 Comment rendre, Seigneur, le vostre legitime ?  
 Rome vous verra-t'elle impunément joüir…  
 
-    PRUSIAS
+    PRUSIAS.
 Mon zele aura paru, c'est dequoy l'ébloüir⁎.  
 Peut-estre qu'elle mesme, obligée⁎ à se rendre  
 Redoutant Annibal me voudra voir son Gendre,      
 Et s'asseurer par moy de l'inquiete⁎ ardeur,  
 Qui l'a toûjours rendu jaloux de sa grandeur [209].  
 
-    ARAXE
+    ARAXE.
 Mais d'une et d'autre part vostre esperance est vaine,  
 Elise veut, Seigneur, qu'on épouse sa haine,  
 Et que…  
 
-    PRUSIAS
+    PRUSIAS.
         Lors qu'il s'agit de voir nos vœux⁎ contents,  
 Promettons tout, Araxe, et laissons faire au temps.  < Fin du premier Acte. > 
 
@@ -1221,10 +1221,10 @@ Promettons tout, Araxe, et laissons faire au temps.  < Fin du premier Acte. >
 ELISE, ALCINE.
 
 
-    ELISE
+    ELISE.
 Le Prince doit partir ! ne t'es-tu point trompée ?  
 
-    ALCINE
+    ALCINE.
 J'ay douté de ce bruit d'abord qu'il [210] m'a frapée,  
 Mais dans toute la Cour, Madame, il fait éclat [211].  
 Prusias sur la paix le députe au Senat [212],  
@@ -1232,41 +1232,41 @@ Et luy rend cet honneur de vouloir par sa bouche
 Expliquer⁎ à quel point ce grand Accord le touche,  
 Flaminius l'emmene, ils partent dés demain.  
 
-    ELISE
+    ELISE.
 Et le Prince y consent ?  
 
-    ALCINE
+    ALCINE.
         Son refus seroit vain.  
 Où l'ordre est absolu, que peut sa resistance ?  
 
-    ELISE
+    ELISE.
 Quoy, son cœur à ceder n'a point de repugnance ?  
 
-    ALCINE 
+    ALCINE. 
 J'ay peu l'art de connoistre un cœur comme le sien.  
 Mais pourquoy…  
 
-    ELISE
+    ELISE.
         C'est assez, je ne demande rien,  
 Ma curiosité sans doute est indiscrette.  
 
-    ALCINE
+    ALCINE.
 Au moins vous en aviez quelque raison secrette [213] ?  
 
-    ELISE
+    ELISE.
 Je ne sçay [214], mais enfin ce que j'aime à sçavoir  
 C'est que mon triste cœur n'en devroit pas avoir.  
 
-    ALCINE
+    ALCINE.
 Ne dissimulez point. Le Prince a sçeu vous plaire.  
 
-    ELISE
+    ELISE.
 Moy l'aimer ?  
 
-    ALCINE
+    ALCINE.
         Sa vertu⁎ vous doit estre assez chere.  
 
-    ELISE
+    ELISE.
 Il est vray qu'il sçait joindre à l'éclat de son rang  
 Toutes les qualitez que demande un beau sang,  
 Jamais plus de merite avec tant d'avantage  
@@ -1274,17 +1274,17 @@ Ne sçeut de tous les cœurs s'acquerir le suffrage [215],
 Moy-mesme je me sents forcée à l'estimer [216],  
 J'admire sa vertu⁎, mais ce n'est pas l'aimer.  
 
-    ALCINE
+    ALCINE.
 Avec tant de chaleur loüer ce qu'on estime,  
 Madame, croyez-moy, c'est l'amour qui s'exprime.  
 
-    ELISE
+    ELISE.
 Quoy, tu crois que je l'aime, et que pour faire cas…  
 
-    ALCINE
+    ALCINE.
 Mais vous mesme avec moy ne le croyez-vous pas ?  
 
-    ELISE
+    ELISE.
 Je veux bien t'advouër que son depart m'afflige,  
 Que l'ordre qu'on luy donne à soûpirer m'oblige⁎,  
 Mais sans doute mon cœur dans cét éloignement  
@@ -1295,22 +1295,22 @@ Elle hait Annibal, et je crains que le Roy
 N'ait pas la fermeté de nous garder sa foy⁎.  
 Son fils estoit pour nous un appuy necessaire.  
 
-    ALCINE
+    ALCINE.
 J'en croiray ce motif [217] s'il s'agit de vous plaire,  
 Le Prince peut icy vous manquer au besoin [218],  
 Mais on ne prévoit pas les malheurs de si loin,  
 Et lors que tant d'ardeur fait que l'on s'interesse…  
 
-    ELISE
+    ELISE.
 Qui te porte à vouloir joüir de ma foiblesse ?  
 Ne force point mon cœur à se trop declarer,  
 Et s'il aime en secret laisse-moy l'ignorer.  
 Voicy le Prince, ah Dieux !  
 
-    ALCINE
+    ALCINE.
         Redoutez-vous sa veuë ?  
 
-    ELISE
+    ELISE.
 Je sents que tout à coup mon ame s'est émeuë⁎,  
 Mais ce trouble, inconnu pour moy jusqu'à ce jour,  
 Se donne à sa disgrace, et non pas à l'amour [219].  
@@ -1320,37 +1320,37 @@ Se donne à sa disgrace, et non pas à l'amour [219].
 NICOMEDE, ELISE, ALCINE.
 
 
-    ELISE
+    ELISE.
 Vous vous éloignez, Prince ?  
 
-    NICOMEDE
+    NICOMEDE.
         On m'y force, Madame,  
 Mais dans ce déplaisir ce qui flate mon ame,  
 C'est que Flaminius s'éloignant avec moy  
 N'aura plus contre vous d'empire sur le Roy.  
 Son depart en ces lieux asseure vostre azyle.  
 
-    ELISE
+    ELISE.
 Rome pour nous troubler trouvera tout facile, [220]  
 Elle a d'autres Agents dont le secret pouvoir  
 De vostre éloignement sçaura se prévaloir.  
 Quoy qu'ils vueillent [221] oser, nous restons sans défence.  
 
-    NICOMEDE
+    NICOMEDE.
 Madame, attendez tout de mon impatience⁎,  
 Par un retour si prompt [222], s'il vous faut mon secours…  
 
-    ELISE
+    ELISE.
 Ah Prince, vous party, vous l'estes pour toûjours. [223]  
 Ne vous offencez point de ce triste presage,  
 Rome pour Annibal vous demande en ostage [224],  
 Et vous n'en reviendrez qu'apres que nos Tyrans  
 De sa ruine entiere auront de seurs garands.  
 
-    NICOMEDE
+    NICOMEDE.
 Quoy, le Roy soufriroit…  
 
-    ELISE
+    ELISE.
         J'oseray plus vous dire,  
 A vous voir éloigné le Roy luy mesme aspire,  
 Et cét ordre soudain qui nous prive de vous  
@@ -1360,40 +1360,40 @@ Ses regards enflamez ne me le peuvent taire,
 Ma veuë est le seul bien dont il cherche à joüir,  
 Et souvent j'entens plus que je ne veux oüir.  
 
-    NICOMEDE
+    NICOMEDE.
 Pardonnez mon desordre à ma surprise extréme.  
 Quoy, Madame, il se peut que Prusias vous aime,  
 Que l'ordre de partir…  
 
-    ELISE 
+    ELISE. 
         Si vous obeïssez,  
 Prince, voyez de grace à qui vous me laissez.  
 
-    NICOMEDE
+    NICOMEDE.
 Si j'osois le bien voir je craindrois de trop dire.  
 Adieu, Madame.  
 
-    ELISE
+    ELISE.
     Helas !  
 
-    NICOMEDE
+    NICOMEDE.
         Quoy, vostre cœur soûpire ?  
 A quoy dois-je imputer ce tendre mouvement ?  
 Quand je trouve un Rival l'obtiens-je comme Amant ? [225]  
 Parlez.  
 
-    ELISE
+    ELISE.
     Que vous diray-je ?  
 
-    NICOMEDE
+    NICOMEDE.
         Expliquez⁎ vous de grace.  
 
-    ELISE
+    ELISE.
 Un soûpir dit beaucoup quand le cœur s'embarasse,  
 Et qui peut l'arracher apres mille combats  
 Le meriteroit peu s'il ne l'entendoit pas.  
 
-    NICOMEDE
+    NICOMEDE.
 O trop [226] charmant aveu⁎ de la plus belle flame  
 Dont ait pû jusqu'icy brûler une grande ame !  
 Que le Ciel m'abandonne à son plus vif couroux,  
@@ -1407,11 +1407,11 @@ Je voudrois de mon sang racheter vostre perte,
 Et par ce sacrifice apprendre assez à tous  
 Que peut-estre mon cœur estoit digne de vous.  
 
-    ELISE 
+    ELISE. 
 Quoy, si ce pur amour fait toute vostre gloire,  
 Il faut m'abandonner pour me le faire croire ?  
 
-    NICOMEDE
+    NICOMEDE.
 Quoy, pour vostre repos je pourrois lâchement  
 Refuser de souscrire à mon éloignement ?  
 De nos jaloux destins tel est l'ordre barbare  
@@ -1422,21 +1422,21 @@ Et le coup que fuit l'un devant tomber sur l'autre,
 Mon exil évité seroit l'arrest du vostre.  
 Cedons, cedons, Madame, à d'injustes projets.  
 
-    ELISE
+    ELISE.
 Ainsi vous me quittez peut-estre pour jamais ?  
 
-    NICOMEDE
+    NICOMEDE.
 Le Ciel adoucira cette rigueur extréme.  
 
-    ELISE
+    ELISE.
 Que faire cependant⁎ ?  
 
-    NICOMEDE
+    NICOMEDE.
         Songer que je vous aime,  
 Et si le Roy vous presse, accepter de sa foy⁎  
 Ce que je ne veux pas que vous perdiez pour moy [229].  
 
-    ELISE
+    ELISE.
 Ah, Prince, songez-vous jusqu'où va cét outrage,  
 Et quand mon interest [230] à l'exil vous engage,  
 Les maux que vous croyez qu'il me fasse éviter  
@@ -1446,7 +1446,7 @@ J'aurois le nom de Reine, et vous celuy d'esclave,
 Et les fers que dans Rome on vous feroit traisner  
 Me vaudroient la douceur de me voir couronner ?  
 
-    NICOMEDE 
+    NICOMEDE. 
 Et quel repos pour moy pretendre en Bithynie  
 Si faute d'en partir je vous en vois bannie,  
 Et de nouveau reduite au funeste revers⁎  
@@ -1471,24 +1471,24 @@ Mais Annibal… [235]
 ANNIBAL, NICOMEDE, ELISE.
 
 
-    ANNIBAL
+    ANNIBAL.
         J'apprens que vous allez à Rome,  
 Prince.  
 
-    ELISE
+    ELISE.
         Rompez, Seigneur, cet injuste projet.  
 De sa hayne par vous les Romains sont l'objet [236].  
 Laisseriez-vous ainsi détruire vostre ouvrage [237] ?  
 
-    ANNIBAL 
+    ANNIBAL. 
 J'ay d'asseurez moyens de rompre ce voyage,  
 Ne vous alarmez point.  
 
-    ELISE
+    ELISE.
         Ah, je le jugeois bien,  
 Que si…  
 
-    ANNIBAL
+    ANNIBAL.
         Laissez-nous seuls, et n'apprehendez rien.  
 
 
@@ -1496,7 +1496,7 @@ Que si…
 ANNIBAL, NICOMEDE.
 
 
-    NICOMEDE
+    NICOMEDE.
 Seigneur, n'enviez point à ma reconnoissance [238]  
 La gloire d'un depart qui fait vostre asseurance,  
 Et souffrez⁎ qu'en aveugle obeïssant au Roy  
@@ -1506,25 +1506,25 @@ L'heureux fruit des leçons de mon illustre Maistre,
 Et que c'est sous luy seul que l'on peut à son choix  
 Apprendre les vertus⁎ les plus dignes des Rois.  
 
-    ANNIBAL
+    ANNIBAL.
 Si mes foibles avis ont eu l'heur de vous plaire,  
 Ce me doit estre, Prince, une gloire trop chere  
 Pour pouvoir consentir que mes fiers Ennemis  
 Me dérobent l'effet que je m'en suis promis.  
 Vous n'irez point à Rome.  
 
-    NICOMEDE
+    NICOMEDE.
         Ah, Seigneur, prenez garde…  
 
-    ANNIBAL
+    ANNIBAL.
 Ne vous alarmez point de ce qui me regarde,  
 Je sçay par où [239] je puis tourner l'esprit du Roy,  
 J'en répons.  
 
-    NICOMEDE
+    NICOMEDE.
     Mais, Seigneur…  
 
-    ANNIBAL
+    ANNIBAL.
         De grace, écoutez-moy.  
 J'eus toujours pour vous, Prince, une tendresse extrême,  
 Et vous considerant comme un autre moy-mesme,  
@@ -1563,7 +1563,7 @@ Ainsi vous n'aurez plus à leur servir d'ostage,
 Et mon depart rompant un ordre rigoureux  
 Vous laissera paisible [245], et Prusias heureux.  
 
-    NICOMEDE
+    NICOMEDE.
 Vous perdre est un malheur que merite mon Pere,  
 Mais sçavez-vous, Seigneur, ce que vous allez faire ?  
 Je meurs par cet hymen s'il se doit achever,  
@@ -1574,7 +1574,7 @@ Mais quoy, mille devoirs, mille soins⁎ empressez,
 Mes soûpirs, mes langueurs, vous en ont dit assez,  
 Combien m'avez-vous veu pour la charmante Elise…  
 
-    ANNIBAL
+    ANNIBAL.
 Oüy, Prince, il ne faut point que je vous le déguise,  
 J'ay connu vostre amour, et comme il m'a fait voir  
 Que ma haine pour Rome a sur vous plein pouvoir [246],  
@@ -1583,7 +1583,7 @@ J'en voudrois de mon sang reconnoistre le zele,
 Mais quoy que pour vos feux il puisse m'inspirer,  
 Vous me connoissez trop pour en rien esperer.  
 
-    NICOMEDE
+    NICOMEDE.
 Pour en rien esperer ! Ah, Seigneur, par quel crime  
 Ay-je pû meriter de perdre vostre estime ?  
 A quoy que vos souhaits puissent estre attachez  
@@ -1593,7 +1593,7 @@ Plus de respect pour vous, plus d'ardeur, plus de zele, [248]
 Et si de vostre haine il faut prendre la loy,  
 Detester vos Tyrans, qui les hait plus que moy ?  
 
-    ANNIBAL
+    ANNIBAL.
 Je dois vous l'avouër ; j'ay beau chercher une ame  
 Que du solide honneur l'interest seul enflame,  
 Ce n'est qu'abaissement [249] dans tout ce que je vois,  
@@ -1635,7 +1635,7 @@ Triompher d'une haine à ce point affermie,
 Et faire negliger à ses transports mourants  
 L'heureuse occasion d'abaisser [255] mes Tyrans.  
 
-    NICOMEDE
+    NICOMEDE.
 Eh, pleust aux Dieux, Seigneur, que pour flater ma peine  
 Vous connussiez l'amour aussi-bien que la haine,  
 Ou que vous jugeassiez de cette passion  
@@ -1657,13 +1657,13 @@ J'apprens qu'il daigne plaindre un feu qu'il desespere,
 Et voir dans ce moment d'un regard de pitié  
 Ce que par moy l'amour immole à l'amitié.  
 
-    ANNIBAL
+    ANNIBAL.
 Ah, Prince, c'en est trop, cachez-moy tant de zele,  
 Ma haine à vous ouïr déja presque chancelle,  
 Et jamais les Romains pour fléchir mon couroux  
 N'eurent un Partisan plus à craindre que vous.  
 
-    NICOMEDE
+    NICOMEDE.
 Vostre haine pour eux ne peut estre assez fiere,  
 Je ne l'attaque point, gardez-la toute entiere,  
 Mais si vous ne cherchez à me priver du jour  
@@ -1672,7 +1672,7 @@ Flaminius nous quitte, et Prusias peut-estre
 N'attend que son départ pour se faire connoistre [256],  
 Pour vous laisser de Rome affranchir son Estat [257].  
 
-    ANNIBAL
+    ANNIBAL.
 Et c'est dans ce dessein qu'il vous livre au Senat ?  
 Je veux bien luy parler, et d'un honteux voyage  
 Par mes soins⁎, s'il se peut, vous épargner l'outrage,  
@@ -1684,14 +1684,14 @@ Qu'aprés que Prusias… laissez-nous, je le voy.
 PRUSIAS, ANNIBAL, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 Et bien, Seigneur, enfin me rendrez-vous justice ? [259]  
 Ay-je fait aux Romains un honteux sacrifice,  
 Et leur Flaminius que j'éloigne de nous  
 Vous répond-il assez que mon cœur est à vous ?  
 Vous restez dans ma Cour, et je vous tiens parole.  
 
-    ANNIBAL 
+    ANNIBAL. 
 Je voy qu'il s'est flaté d'une attente frivole,  
 Et vous dois d'autant plus, Seigneur, qu'en vain par luy  
 Rome a tout employé pour m'oster vostre appuy.  
@@ -1728,13 +1728,13 @@ Que vous mettez demain le Prince en leur puissance,
 Ou par quelque dessein dont nous verrons l'éclat,  
 Va-t'il comme Espion amuser⁎ le Senat ?  
 
-    PRUSIAS
+    PRUSIAS.
 Jugez par là, Seigneur, si mon zele est extréme.  
 Je cherche à détourner vos malheurs sur moy mesme,  
 Et pour vous soustenir contre vos ennemis,  
 Me garder tout à vous, je leur livre mon Fils.  
 
-    ANNIBAL
+    ANNIBAL.
 Et pourquoy vous sousmettre à l'affront volontaire  
 De recevoir la loy quand vous la pouviez faire ?  
 Toute l'Asie émeuë⁎, et presque sous vos loix  
@@ -1750,7 +1750,7 @@ Il falloit les tenir les armes à la main.
 Où pourrez vous jamais pour vanger vos outrages  
 Recouvrer à la fois de pareils avantages ?  
 
-    PRUSIAS
+    PRUSIAS.
 Ils estoient grands sans doute avec un tel secours,  
 Mais pour esperer vaincre on ne vainc pas toûjours,  
 Souvent l'occasion y fait plus que le nombre. [262]  
@@ -1774,7 +1774,7 @@ Luy commettant⁎ mon Fils, j'acquiers la confiance,
 Pour voir Attale à moy je le rends mon égal,  
 Fais des Amis par tout, et retiens Annibal.  
 
-    ANNIBAL
+    ANNIBAL.
 Ces projets déguisez dont vostre ame est charmée  
 Marquent une prudence et rare et consommée ;  
 Mais pardonnez, Seigneur, si je ne puis cacher  
@@ -1799,14 +1799,14 @@ Mon depart laissera le Prince en asseurance,
 Ma haine en liberté, Rome sans défiance⁎.  
 Ainsi souffrez⁎, Seigneur…  
 
-    PRUSIAS
+    PRUSIAS.
         Vouloir quitter un Roy  
 Qui ne reserve⁎ rien pour vous prouver sa foy⁎,  
 Qui vous fait partager la puissance suprême,  
 Respecter⁎ dans sa Cour à l'égal de luy-mesme,  
 Et pour vostre repos…  
 
-    ANNIBAL
+    ANNIBAL.
         C'est me connoistre mal.  
 Quoy, parler de repos pour moy, pour Annibal ? [268]  
 Instruit de ses travaux [269], avez-vous lieu de croire  
@@ -1834,7 +1834,7 @@ J'attens vostre réponse, et vous laisse y resver.
 PRUSIAS, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 A quoy le Ciel encor me veut-il reserver⁎ ?  
 Pour garder Annibal en faveur de ma flame,  
 J'ose exiler mon Fils, j'en accepte le blâme,  
@@ -1853,7 +1853,7 @@ Qu'Annibal soit reduit à n'esperer qu'en nous.  < Fin du second Acte. >
 ATTALE, ELISE, ALCINE.
 
 
-    ATTALE
+    ATTALE.
 Qu'obtiendra mon respect⁎ ? vous le voyez, Madame,  
 Je viens mettre à vos pieds mon espoir et ma flame, [273]  
 Si l'une a sceu borner mon espoir le plus doux  
@@ -1862,7 +1862,7 @@ Et du plus heureux sort je fuirois l'asseurance
 S'il coustoit à vos vœux⁎ la moindre violence,  
 Ainsi quoi qu'Annibal m'ait permis d'esperer…  
 
-    ELISE
+    ELISE.
 Vous l'avez déja veu, faites-le declarer [274],  
 Seigneur, ses ordres seuls reglent ma destinée,  
 Et sur les interests de ce grand hymenée,  
@@ -1885,7 +1885,7 @@ Par de basses frayeurs tournez à l'esclavage [278],
 Renoncez à des nœuds qui pourroient vous trahir  
 Jusqu'à vous dérober la honte d'obeïr.  
 
-    ATTALE
+    ATTALE.
 Que Rome à sa fierté jamais m'assujetisse !  
 Que mon cœur se ravale à s'en faire complice,  
 Et qu'assis sur ce Trône où j'aspire à vous voir  
@@ -1905,7 +1905,7 @@ De grace, quel espoir lui laissez-vous permis ?
 Croira-t'il qu'une ardeur et si tendre et si forte,  
 Touche assez vos desirs…  
 
-    ELISE
+    ELISE.
         Seigneur, que vous importe ?  
 Si jamais vous avez le nom de mon Epoux,  
 Je connois mon devoir, et c'est assez pour vous.  
@@ -1926,10 +1926,10 @@ Voir un Roy craindre Rome irrite mon courage⁎ [282],
 Et l'Espoux me plaira [283], dont l'intrepidité  
 M'offrira les moyens d'en braver la fierté.  
 
-    ATTALE
+    ATTALE.
 Ah, que plûtost sur moy le sort le plus funeste…  
 
-    ELISE
+    ELISE.
 J'aperçois Annibal, vous lui direz le reste.  
 
 
@@ -1937,13 +1937,13 @@ J'aperçois Annibal, vous lui direz le reste.
 ANNIBAL, ATTALE. 
 
 
-    ATTALE
+    ATTALE.
 Seigneur, de quel espoir puis-je enfin me flater ?  
 Mon cœur vous est offert, venez-vous l'accepter,  
 Et du grand Annibal ma flame obtiendra-t'elle  
 Qu'une heureuse union soit le prix de mon zele ?  
 
-    ANNIBAL 
+    ANNIBAL. 
 Il doit m'estre bien doux de voir que mon malheur  
 A mes Amis pour moi laisse tant de chaleur.  
 D'un Prince tel que vous l'alliance m'honore,  
@@ -1956,11 +1956,11 @@ Voyez Flaminius ; sur ce qu'il vous dira
 Peut-estre en vostre cœur l'amour s'allentira⁎.  
 Le grand nom d'Allié que le Senat vous donne…  
 
-    ATTALE
+    ATTALE.
 Pour disposer de moy prens-je loy de personne ?  
 Seigneur, j'en croy ma flame, et ne consulte plus [284].  
 
-    ANNIBAL
+    ANNIBAL.
 Vous vous expliquerez⁎, voicy Flaminius.  
 
 
@@ -1968,7 +1968,7 @@ Vous vous expliquerez⁎, voicy Flaminius.
 FLAMINIUS, ANNIBAL, ATTALE.
 
 
-    FLAMINIUS, *à Attale*
+    FLAMINIUS, *à Attale*.
 Seigneur, par le pouvoir qu'on m'a daigné commettre⁎  
 Jusques dans vos Estats j'aurois dû vous remettre,  
 Mais je vous voy partir trop bien accompagné  
@@ -1977,7 +1977,7 @@ Et sur ce que j'apprens j'aurois mauvaise grace
 De vous offrir encor un secours qui vous lasse,  
 On vous a mis au Trône, et cela vous suffit.  
 
-    ATTALE 
+    ATTALE. 
 Je ne sçay pas, Seigneur, ce que l'on vous a dit,  
 Mais ce que je vous dois m'asseure trop de gloire  
 Pour souffrir⁎ que jamais j'en perde la memoire,  
@@ -1986,62 +1986,62 @@ Et si dans mes Estats je reçois Annibal,
 Comme j'agis par tout d'un cœur franc et sincere  
 Ce n'est pas un secret que je cherche à vous faire.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Dans le sein de la guerre ayant toûjours vescu  
 Il vous apprendra l'art de n'estre plus vaincu,  
 Et quelques Ennemis qui pensent vous abatre  
 Pour triompher d'abord⁎ vous n'aurez qu'à combatre.  
 
-    ANNIBAL
+    ANNIBAL.
 S'il n'apprend pas de moy l'art de vaincre aisément,  
 Il apprendra celuy de fuir l'abaissement,  
 Et de rester toûjours par un pouvoir suprême  
 Maistre de son destin malgré le Destin mesme.  
 
-    FLAMINIUS
+    FLAMINIUS.
 De si grandes leçons ont dequoy faire bruit,  
 Le faste m'en plairoit, mais j'en craindrois le fruit [286],  
 Et si je l'ose dire, Antiochus peut-estre  
 Se seroit bien passé de vous avoir pour Maistre.  
 
-    ANNIBAL
+    ANNIBAL.
 Pour peu qu'en mes leçons il se fust affermy  
 Il vous eust mis en teste [287] un facheux Ennemy,  
 Mais son insuffisance à les mettre en usage  
 Vous a vendu sa gloire, et livré son courage⁎.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Leur pratique est en vous ce qu'il faut admirer,  
 De Royaume en Royaume elle vous fait errer,  
 Et chercher dans l'exil tout ce que l'on peut croire  
 Que doive un grand courage⁎ au soucy de sa gloire [288].  
 
-    ANNIBAL 
+    ANNIBAL. 
 Cet exil qui déja m'a fait voir tant d'Estats  
 Vous couste quelques soins⁎ que vous ne dites pas,  
 Et pour tenir vostre ame en tous lieux alarmée,  
 C'est beaucoup d'Annibal, et mesme sans armée.  
 
-    FLAMINIUS
+    FLAMINIUS.
 On doit craindre en effet le bonheur⁎ qui le suit [289],  
 A Attale.
 
 Mais faites-moy raison, Seigneur, d'un autre bruit,  
 On dit que vous songez à faire Elise Reyne.  
 
-    ANNIBAL, *à Attale.*
+    ANNIBAL, *à Attale.*.
 Que ma presence n'ait, Seigneur, rien qui vous gesne⁎,  
 Vous sçavez que…  
 
-    ATTALE, *à Annibal.*
+    ATTALE, *à Annibal.*.
         Seigneur, donnez-moy vostre aveu⁎,  
 Et l'hymen dés demain couronnera mon feu.  
 
-    ANNIBAL, *à Flaminius.*
+    ANNIBAL, *à Flaminius.*.
 Vous voyez que malgré les malheurs qu'on m'oppose  
 L'honneur d'estre mon Gendre est encor quelque chose.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Attale a fait sans doute un choix bien glorieux,  
 Mais s'il m'en vouloit croire il y penseroit mieux.  
 A Attale.
@@ -2052,7 +2052,7 @@ Vous pouvez là-dessus écouter vostre amour,
 Prenez pour y songer le reste de ce jour,  
 Pour ne vous perdre pas [290] ma bonté vous le donne.  
 
-    ANNIBAL
+    ANNIBAL.
 Pour moy, j'ignore l'art de contraindre personne,  
 Et sans m'inquieter⁎ de ce qu'il resoudra  
 Je luy laisse à son choix tout le temps qu'il voudra.  
@@ -2061,10 +2061,10 @@ Il craindra peu l'affront de trahir sa naissance,
 Et que jamais l'exil d'un homme tel que moy  
 N'aura rien dont l'éclat fasse rougir un Roy.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Vous avez le cœur haut, le bel orgueil y regne [291].  
 
-    ANNIBAL
+    ANNIBAL.
 Assez pour empescher qu'aucun Roy ne vous craigne,  
 Et si de Prusias mes conseils sont suivis  
 Rome attendra long-temps qu'il vous livre son Fils.  
@@ -2076,16 +2076,16 @@ Est tout ce qui me peut chasser de Bithynie.
 ANNIBAL, PRUSIAS, FLAMINIUS, ATTALE, ARAXE.
 
 
-    ANNIBAL, *à Prusias.*
+    ANNIBAL, *à Prusias.*.
 Parlez, Seigneur, enfin qu'avez-vous resolu ?  
 Vostre Rome aura-t'elle un pouvoir absolu ?  
 Obligez-vous⁎ le Prince à faire le voyage ?  
 
-    PRUSIAS
+    PRUSIAS.
 La paix qu'elle nous donne à ce devoir m'engage,  
 Mon Fils d'un tel honneur a lieu d'estre jaloux.  
 
-    ANNIBAL
+    ANNIBAL.
 Il me suffit ;  
 A Attale.
 
@@ -2097,10 +2097,10 @@ Seigneur, deliberez, vous avez ma réponse.
 FLAMINIUS, PRUSIAS, ATTALE, ARAXE.
 
 
-    FLAMINIUS
+    FLAMINIUS.
 C'est donc ainsi qu'Attale à ses Amis renonce ?  
 
-    ATTALE
+    ATTALE.
 Je connois mal, Seigneur, par où j'ay merité  
 Un reproche si dur à ma fidelité.  
 L'ardeur qui la soûtient le rend peu legitime,  
@@ -2113,7 +2113,7 @@ Le receut tout fumant de ce fameux débris⁎ [293].
 Cependant⁎ ce qu'il fit blessa-t'il les esprits ?  
 Vous parut-il suspect de pratiques secretes ?  
 
-    PRUSIAS
+    PRUSIAS.
 Je ne condamne rien au projet que vous faites,  
 Mais assez de couleurs pourroient le palier [294],  
 Sans chercher mon exemple à vous justifier [295].  
@@ -2124,33 +2124,33 @@ Ainsi je le receus, mais sans attachement,
 Et l'on me voit pour Rome une foy⁎ trop sincere      
 Pour douter des motifs de ce que j'osay faire.  
 
-    ATTALE 
+    ATTALE. 
 Ce zele si vanté dont vous estes jaloux  
 N'est pas moins fort en moy qu'il pourroit l'estre en vous.  
 Et quand vers Annibal ma parole m'engage  
 Rome n'a pas plus lieu d'en prendre de l'ombrage⁎.  
 
-    PRUSIAS
+    PRUSIAS.
 Son azyle estoit seur, vous l'y pouviez laisser.  
 
-    ATTALE
+    ATTALE.
 Vous voyez toutefois qu'il y veut renoncer,  
 Et que dans vostre foy⁎ le vif éclat qui brille  
 Ne sçauroit…  
 
-    PRUSIAS
+    PRUSIAS.
         Mais enfin vous épousez sa Fille ?  
 
-    ATTALE
+    ATTALE.
 Je n'avois pas préveu que contre le Senat  
 Disposer de mon cœur deust estre un attentat.  
 Pour Elise, il est vray, l'amour me sollicite,  
 Mais dequoy m'accuser lors que je vous imite ?  
 
-    PRUSIAS
+    PRUSIAS.
 Quoy l'on me voit pretendre au nom de son Espoux ?  
 
-    ATTALE
+    ATTALE.
 Non, Seigneur, ce soupçon ne tombe point sur vous,  
 L'hymen vous sieroit mal, et dans l'âge où vous estes  
 Aux tendres passions peu d'ames sont sujettes,  
@@ -2161,7 +2161,7 @@ Par un zele aussi pur je veux estre son Gendre,
 Et l'empescher de mettre en de mauvaises mains  
 Un dépost dont la garde est utile aux Romains.  
 
-    FLAMINIUS
+    FLAMINIUS.
 J'ay voulu vous laisser par ces raisons frivoles  
 Estaler vostre esprit [296] et perdre des paroles.  
 Mais enfin, moy present, et sans m'en consulter, [297]  
@@ -2187,7 +2187,7 @@ Accordez tout contre elle [301] à vostre ingratitude,
 Le temps vous apprendra s'il vous estoit permis  
 De vous unir contre elle avec ses ennemis.  
 
-    ATTALE
+    ATTALE.
 Touchant quelque hauteur qui semble me confondre [302]  
 Je laisse à Prusias le soin de vous répondre,  
 Seigneur, ce qu'il dira sera d'un plus grand poids.  
@@ -2207,7 +2207,7 @@ Voyez bien seulement si j'en paroistray digne [305].
 FLAMINIUS, PRUSIAS, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 N'espargnez point mon zele en ce peril insigne,  
 Aprés deux ans d'azyle Annibal qui me fuit  
 De ma fidelité me peut ravir le fruit,  
@@ -2215,7 +2215,7 @@ Vous troubler [306] chez Attale ; et de cette entreprise
 J'empescherois le coup en retenant Elise,  
 Parlez, et dans ma Cour je la fais arrester⁎.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Vostre amitié pour nous ne peut mieux éclater,  
 Seigneur, et j'auray soin que Rome soit instruite  
 Du procédé d'Attale, et de vostre conduite.  
@@ -2223,14 +2223,14 @@ Mais vous défendrez-vous d'admirer avec moy
 Jusqu'où l'orgueil du Trône enfle ce jeune Roy ?  
 Pour l'empescher d'aimer il n'est rien qui l'étonne⁎.  
 
-    PRUSIAS
+    PRUSIAS.
 On s'oublie aisément avec une Couronne,  
 Il est jeune, et l'amour qu'anime la fierté  
 Va plus loin quelquefois que l'on n'a projetté.  
 Ainsi voyez, Seigneur, ce que Rome hazarde  
 A souffrir⁎ qu'Annibal…  
 
-    FLAMINIUS
+    FLAMINIUS.
         C'est à quoy je prens garde,  
 Mais aussi je ne puis voir tout à coup perdus  
 Les services qu'Attale au Senat a rendus.  
@@ -2247,66 +2247,66 @@ A vouloir faire teste à la grandeur Romaine,
 Et sur cet hymenée où je le voy porté  
 Sa foy⁎ nous répondra de sa sincerité.  
 
-    PRUSIAS
+    PRUSIAS.
 Quoi, vous consentiriez à luy donner Elise ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 C'est à quoy du Senat l'interest m'autorise.  
 Ne pouvant éviter qu'elle prenne un Espoux,  
 Si je refuse Attale, où le choisirons-nous ?  
 Par qui mieux que par luy pouvoir s'asseurer d'elle ?  
 
-    PRUSIAS
+    PRUSIAS.
 Par moy, Seigneur, par moy dont vous sçavez le zele,  
 Et qui tout au Senat ne puis voir sans rougir  
 Que je parle, et qu'un autre ait la gloire d'agir.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Que dites-vous, Seigneur ?  
 
-    PRUSIAS
+    PRUSIAS.
         Que pour vous estre utile  
 Je voulus qu'Annibal chez moy trouvast azile,  
 Et qu'avec mesme ardeur, du mesme esprit poussé,  
 J'acheveray pour vous ce que j'ay commencé.  
 J'épouseray sa Fille.  
 
-    FLAMINIUS
+    FLAMINIUS.
         O digne effort d'un zele  
 Qui ne cherchant que Rome immole tout pour elle !  
 Vous forcer à l'Hymen ! vous m'en voyez surpris.  
 
-    PRUSIAS
+    PRUSIAS.
 Je sers la Republique [308], et j'en reçois le prix.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Non, non, elle doit trop à vos rares services  
 Pour accepter de vous de pareils sacrifices.  
 Quoy qu'Annibal impute à ses justes rigueurs,  
 Elle se connoist mal à contraindre les cœurs [309].  
 
-    PRUSIAS
+    PRUSIAS.
 Le mien ne promet rien que ma foy⁎ n'accomplisse.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Un Hymen sans amour est un trop dur supplice.  
 
-    PRUSIAS
+    PRUSIAS.
 Jamais je n'en auray le moindre repentir,  
 Et pourveu…  
 
-    FLAMINIUS
+    FLAMINIUS.
         Non, Seigneur, je n'y puis consentir,  
 Aux interests de Rome Attale peut suffire.  
 
-    PRUSIAS
+    PRUSIAS.
 Et bien, j'aime, Seigneur, puisqu'il faut vous le dire,  
 Joüissez d'un aveu⁎ qu'il vous plaist d'arracher.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Vous aimeriez Elise, et l'auriez pû cacher ?  
 
-    PRUSIAS
+    PRUSIAS.
 Jugez par cet effort si je vous suis fidelle.  
 Envain mes yeux cent fois m'ont dit qu'elle estoit belle,  
 Envain mon cœur surpris en a crû sa langueur,  
@@ -2328,7 +2328,7 @@ Montrer mon zele à Rome est ma plus forte joye,
 Et j'atteste les Dieux qu'en un si grand projet  
 Tout mon cœur est pour elle, et n'a point d'autre objet [313].  
 
-    FLAMINIUS
+    FLAMINIUS.
 Apres tant de vertu⁎ Rome seroit ingrate  
 Si vos feux n'obtenoient l'heureux prix qui les flatte.  
 Elle vous l'abandonne [314], et quand sans balancer  
@@ -2336,15 +2336,15 @@ Elle fait plus pour vous que vous n'osiez penser,
 Elle a quelque sujet d'esperer qu'un beau zele  
 Vous fera faire aussi quelque chose pour elle.  
 
-    PRUSIAS
+    PRUSIAS.
 Luy devant tout, Seigneur, qu'aurois-je à refuser ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Ainsi de vostre main vous pouvez disposer [315].  
 Rome approuve l'ardeur dont vostre ame est éprise.  
 Livrez nous Annibal, elle vous donne Elise.  
 
-    PRUSIAS
+    PRUSIAS.
 Vous livrer Annibal ! Ah, Seigneur, voulez-vous  
 Me mettre en bute aux Dieux [316], m'attirer leur courroux ?  
 Cent serments d'une foy⁎ sacrée, inviolable,  
@@ -2352,7 +2352,7 @@ De tant de trahison me laissent-ils capable ?
 Souffre-t'il⁎ [317] que mon cœur ébloüy⁎ de ses feux  
 Ose…  
 
-    FLAMINIUS
+    FLAMINIUS.
         Et quoy, Prusias, vous estes scrupuleux ?  
 Apprenez, apprenez pour solides maximes,  
 Que qui sert le Senat ne peut faire de crimes,  
@@ -2360,33 +2360,33 @@ Et que de mille horreurs un forfait revestu
 Quand il est fait pour luy doit passer pour vertu⁎ [318] ;  
 Que par tout cette gloire est la seule qu'on prise.  
 
-    PRUSIAS
+    PRUSIAS.
 Et par où cependant⁎ gagner le cœur d'Elise ?  
 Mettre en vostre pouvoir ce qu'elle a de plus cher,  
 Sera-ce le moyen, Seigneur, de la toucher ?  
 Obtiendray-je par là que son amour s'explique⁎ ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 C'est ne voir guere loin pour un grand Politique.  
 Sans livrer Annibal laissez-nous l'enlever,  
 Envoyez apres nous [319] comme pour le sauver,  
 Flattez Elise ensuite, armez⁎ pour son offence [320],  
 Et recevez sa main pour prix de sa vangeance.  
 
-    PRUSIAS
+    PRUSIAS.
 Maistres de tant de Roix, soûmis, obeïssants,  
 Craignez-vous d'un vieillard les destins impuissants ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Quoy, nous vous laisserons au pouvoir d'une femme  
 Dont la haine à son gré sçaura tourner vostre ame [321] ?  
 
-    PRUSIAS
+    PRUSIAS.
 Si cet hymen vous porte à soupçonner ma foy⁎,  
 N'aurez-vous pas mon Fils qui répondra de moy ?  
 Vous en puis-je donner un gage plus sincere ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Non, si c'estoit un Fils que vous vissiez en Pere.  
 Mais ce Fils aime Elise, et vos transports jaloux  
 Le livrent aux Romains moins pour eux que pour vous.  
@@ -2396,19 +2396,19 @@ Ainsi dans vostre Cour gardez vostre Rival,
 Nous vous rendons le Prince, il nous faut Annibal,  
 Ce n'est qu'à ce prix seul que l'on obtient Elise.  
 
-    PRUSIAS
+    PRUSIAS.
 Me soüiller par l'horreur d'une telle entreprise ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Ces scrupules sont beaux, mais craignez que pour nous  
 Attale plus zelé n'en ait pas tant que vous,  
 Il aime, et vos refus obligeront⁎ sa flame.  
 
-    PRUSIAS
+    PRUSIAS.
 Attale, quoy qu'il aime, a trop de fierté d'ame,  
 Et bien loin que pour luy le crime ait quelque appas…  
 
-    FLAMINIUS
+    FLAMINIUS.
 Son esprit m'est connu, ne vous y fiez pas,  
 Je ne vous ay que trop observez l'un et l'autre.  
 Son pouvoir en ce lieu se trouve égal au vostre,  
@@ -2416,7 +2416,7 @@ Pareil nombre [322] l'escorte, et pour ce grand dessein,
 Je voulois vostre bras, j'emprunteray sa main.  
 Rome aprés, entre vous fera la difference.  
 
-    PRUSIAS
+    PRUSIAS.
 Adieu, Seigneur, je voy Procule qui s'avance,  
 Consultez avec luy si mon zele et ma foy⁎  
 Ne peuvent meriter que l'on me traite en Roy.  
@@ -2426,13 +2426,13 @@ Ne peuvent meriter que l'on me traite en Roy.
 FLAMINIUS, PROCULE.
 
 
-    PROCULE
+    PROCULE.
 Seigneur, sur un secret d'une importance extréme  
 Un Soldat Phrygien veut s'ouvrir à vous mesme.  
 A trente pas d'icy je viens de le quitter.  
 Il presse fort.  
 
-    FLAMINIUS
+    FLAMINIUS.
         Allons, il le faut écouter.  < Fin du troisiéme Acte. > 
 
 
@@ -2443,12 +2443,12 @@ Il presse fort.
 FLAMINIUS, PROCULE.
 
 
-    PROCULE
+    PROCULE.
 Apres quelque chagrin que faut-il que je croye  
 De voir sur vostre front éclater tant de joye ?  
 Auriez-vous pû, Seigneur, ébranler Prusias ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 J'estois embarassé, je ne le cele pas.  
 Deux Rois épris d'amour me paroissoient à craindre,  
 Envain j'en murmurois, envain j'osois me plaindre, [323]  
@@ -2457,10 +2457,10 @@ De sa foy⁎ contre nous eust pû venir à bout.
 Une heureuse nouvelle a fait cesser ma peine,  
 J'ay sçeu du Phrygien la fausse mort d'Eumene.  
 
-    PROCULE
+    PROCULE.
 Eumene vit encor ?  
 
-    FLAMINIUS
+    FLAMINIUS.
         Cette lettre est de luy,  
 Par elle contre Attale il cherche mon appuy,  
 Et doutant que ce Frere aisément abandonne  
@@ -2473,10 +2473,10 @@ Quoy que puisse ordonner ce jeune et nouveau Roy
 M'ont promis en secret de n'obeïr qu'à moy.  
 Ainsi tous ses projets n'ont plus rien qui me gesne⁎.  
 
-    PROCULE
+    PROCULE.
 Mais la mort de ce Frere avoit paru certaine ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Sautant de bord en bord pour animer les Siens  
 Dans un combat Naval contre les Rhodiens,  
 Il receut tant de coups qu'à force de blesseures  
@@ -2488,10 +2488,10 @@ Ravit aux Rhodiens cette illustre conqueste,
 Et son bon-heur⁎ fut tel que par un prompt secours  
 Sans le faire connoistre on prit soin de ses jours.  
 
-    PROCULE
+    PROCULE.
 C'est ce qu'Attale ignore ?  
 
-    FLAMINIUS
+    FLAMINIUS.
         Et ce qu'il faut luy taire  
 Jusqu'au flateur hymen que son amour espere.  
 Permettre qu'Annibal remplisse cet espoir  
@@ -2505,7 +2505,7 @@ Pour oser rien de ferme a trop d'incertitude⁎.
 Attale à ce défaut d'Elise estant l'Epoux  
 Nous ostera…  
 
-    PROCULE
+    PROCULE.
         Voyez qu'il s'avance vers vous.  
 
 
@@ -2513,16 +2513,16 @@ Nous ostera…
 FLAMINIUS, ATTALE, PROCULE.
 
 
-    FLAMINIUS
+    FLAMINIUS.
 Sans doute vous aurez d'une ame plus tranquille  
 Examiné quel choix vous est le plus utile,  
 Rome vaut bien…  
 
-    ATTALE
+    ATTALE.
         Seigneur, je connois mon devoir,  
 Et ce que j'ay pensé…  
 
-    FLAMINIUS
+    FLAMINIUS.
         Je n'en veux rien sçavoir.  
 La fierté qui tantost soustenoit vostre flame,  
 M'a paru d'un cœur franc, digne d'une grande ame,  
@@ -2537,22 +2537,22 @@ Vous craigniez mes refus, n'en prenez plus d'alarmes,
 J'y consents, et vois trop qu'aprouver vos desseins  
 C'est mettre ce dépost en de fideles mains.  
 
-    ATTALE
+    ATTALE.
 Cet heureux changement a dequoy me surprendre.  
 Seigneur, à mon amour vous daignez donc vous rendre,  
 Confier Annibal et sa haine à ma foy⁎ ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Rome sert qui l'honore ; elle vous a fait Roy,  
 Et veut par cét hymen qu'elle rend legitime  
 Vous marquer mieux encor jusqu'où va son estime.  
 Demeurez luy fidelle, et n'oubliez jamais  
 Qu'elle a tousiours puny les ingrats qu'elle a faits [327].  
 
-    ATTALE
+    ATTALE.
 Seigneur, j'aime la gloire, et c'est assez vous dire.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Pressons cet hymenée où vostre flame aspire.  
 Dans le rang que je tiens c'est peu d'y consentir.  
 J'en veux estre témoin avant que de partir.  
@@ -2569,28 +2569,28 @@ Vous pourrez avec luy, Seigneur, vous declarer.
 PRUSIAS, ATTALE, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 Si mon abord vous nuit je vay me retirer,  
 Si-tost que je parois Flaminius vous quitte.  
 
-    ATTALE
+    ATTALE.
 Veniez-vous à dessein de luy rendre visite ?  
 Vous n'auriez qu'à le suivre, il peut la recevoir.  
 
-    PRUSIAS
+    PRUSIAS.
 Je n'ay point de secret qui m'oblige⁎ à le voir,  
 Mais si vous me souffrez⁎ un peu de confidence,  
 Quel estoit le sujet de vostre conference ?  
 
-    ATTALE
+    ATTALE.
 Un projet, grand, illustre, et des plus importants,  
 Et que je vous diray quand il en sera temps.  
 
-    PRUSIAS
+    PRUSIAS.
 S'il est tel que vos feux permettent qu'on le croye,  
 Vous pourriez sans peril m'avancer cette joye.  
 
-    ATTALE
+    ATTALE.
 Il est vray qu'aimant Rome au point que vous l'aimez  
 Vous prendrez part à l'heur qui tient mes sens charmez,  
 Flaminius d'abord⁎ m'a traité de rebelle,  
@@ -2598,67 +2598,67 @@ Mais enfin le voulant convaincre de mon zele,
 J'ay sceu si bien entrer dans tous ses interests  
 Que par l'hymen d'Elise il comble mes souhaits.  
 
-    PRUSIAS
+    PRUSIAS.
 Flaminius consent…  
 
-    ATTALE 
+    ATTALE. 
         Oüy, que j'épouse Elise,  
 Vous en voyez ma joye, envain je la déguise,  
 Mes yeux la font paroistre.  
 
-    PRUSIAS
+    PRUSIAS.
         Et pour un si grand bien  
 Vous avez crû devoir ne luy refuser rien [328] ?  
 
-    ATTALE
+    ATTALE.
 Il n'est vers le Senat aucun refus sans crime,  
 Quoy qu'il veuille exiger il rend tout legitime [329] ;      
 Et puis, pour un Objet où brillent mille appas,  
 Quand l'amour est pressant, que ne feroit-on pas ?  
 
-    PRUSIAS
+    PRUSIAS.
 Quoy, ceder à l'amour, et s'en laisser surprendre,  
 Jusqu'à…  
 
-    ATTALE
+    ATTALE.
         Que voulez-vous, Seigneur, j'ay le cœur tendre,  
 Et n'ay pas tant vescu qu'on doive présumer  
 Que déja je me fasse une honte d'aimer.  
 
-    PRUSIAS
+    PRUSIAS.
 C'est à fuir ce qui plaist qu'on montre son courage⁎.  
 
-    ATTALE
+    ATTALE.
 Ce genre de prudence est un effet de l'âge,  
 Et jeune, et plein d'amour, au point où je me voy,  
 Peut-estre seriez-vous aussi foible que moy.  
 
-    PRUSIAS
+    PRUSIAS.
 Et jeune, et plein d'amour j'aurois soin de ma gloire.  
 
-    ATTALE
+    ATTALE.
 Vous estes hors d'estat de me le faire croire,  
 Mais puis-je de la mienne asseurer mieux l'éclat  
 Qu'à ne pretendre rien sans l'adveu⁎ du Senat ?  
 
-    PRUSIAS 
+    PRUSIAS. 
 C'est dont pourtant d'abord⁎ vous faisiez peu de compte [330].  
 
-    ATTALE
+    ATTALE.
 Selon l'occasion on peut changer sans honte.  
 
-    PRUSIAS
+    PRUSIAS.
 J'en penetre la cause, et j'ay quelques clartez…  
 
-    ATTALE
+    ATTALE.
 Songez-vous bien, Seigneur, que vous vous emportez,  
 Et que d'autres que moy soupçonneroient peut-estre  
 Que vostre cœur n'est pas tout ce qu'il veut paroistre.  
 
-    PRUSIAS
+    PRUSIAS.
 Qu'y soupçonneroit-on qui pust répondre mal…  
 
-    ATTALE
+    ATTALE.
 Voyez l'Ambassadeur, j'entre chez Annibal.  
 
 
@@ -2666,7 +2666,7 @@ Voyez l'Ambassadeur, j'entre chez Annibal.
 PRUSIAS, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
 Va, traistre, et puisqu'enfin le crime peut te plaire  
 Pour obtenir la Fille assassine le Pere.  
 Que je suis malheureux ! tout me pert, tout me nuit,  
@@ -2691,24 +2691,24 @@ O desirs de grandeur, fiers mouvemens de gloire,
 Amour, Rome, Annibal, qui de vous dois-je croire ?  
 Qui de vous deux mon cœur doit enfin l'emporter ?  
 
-    ARAXE
+    ARAXE.
 Sçachant ce qui se passe avez-vous à douter !  
 Il faut perdre Annibal ; cette seule entreprise  
 Affermit vostre Trône, et vous acquiert Elise,  
 Par là vous gagnez tout.  
 
-    PRUSIAS
+    PRUSIAS.
         Perdre Annibal ! helas !  
 
-    ARAXE
+    ARAXE.
 Estes-vous en estat de ne le perdre pas ?  
 Decidant de ses jours Attale…  
 
-    PRUSIAS
+    PRUSIAS.
         Ah le perfide !  
 Mais le feray-je moins si ma flame en decide ?  
 
-    ARAXE
+    ARAXE.
 De tels crimes au Sort doivent estre imputez.  
 Il a donné l'arrest, et vous l'executez.  
 Annibal est trahy ; puisqu'il faut qu'il perisse  
@@ -2716,11 +2716,11 @@ Attirez vous le fruit de ce grand sacrifice,
 Voyez Flaminius, et sans plus differer,  
 Quoy qu'Attale ait promis, faites-vous préferer [332].  
 
-    PRUSIAS
+    PRUSIAS.
 Mais c'est flater mon feu d'un espoir inutile  
 Si l'on voit que par moy…  
 
-    ARAXE
+    ARAXE.
         Le remede est facile.  
 Employez des Romains, et par eux seulement  
 Faites prendre Annibal dans son appartement.  
@@ -2729,7 +2729,7 @@ Rendez suspect Attale, et demandez vangeance.
 Enfin quand le succez manqueroit à vos feux  
 C'est beaucoup d'empescher qu'un Rival soit heureux [333].  
 
-    PRUSIAS
+    PRUSIAS.
 Tu dis vray, je me rends, ma passion l'ordonne.  
 A ces brûlants transports tout mon cœur s'abandonne ;  
 Dust ce que j'entreprens me devenir fatal,  
@@ -2745,7 +2745,7 @@ Le voicy.
 PRUSIAS, NICOMEDE, ARAXE.
 
 
-    PRUSIAS
+    PRUSIAS.
         Viens sçavoir, et venger tout ensemble  
 Un crime dont encor l'horreur fait que je tremble.  
 A l'amour d'un Perfide on s'est enfin rendu,  
@@ -2753,11 +2753,11 @@ Flaminius triomphe, Annibal est vendu.
 Pour prix d'une si lâche et honteuse entreprise  
 Attale qui le vend reçoit la main d'Elise.  
 
-    NICOMEDE
+    NICOMEDE.
 Attale ! Et bien, avant qu'on me livre aux Romains,  
 Il faut mettre, Seigneur, Elise entre vos mains [334].  
 
-    PRUSIAS
+    PRUSIAS.
 A sauver Annibal l'honneur, tout nous convie,  
 Adieu, je vay luy faire un rempart de ma vie.  
 Cependant⁎ cherche Attale, ose, il est important,  
@@ -2768,46 +2768,46 @@ Et si tu sçais aimer, voy le prix qui t'attend.
 ELISE, NICOMEDE.
 
 
-    ELISE
+    ELISE.
 Que vous disoit le Roy, Prince, et d'où naist ce trouble ?  
 
-    NICOMEDE
+    NICOMEDE.
 Dans mon cœur à vous voir je le sents qui redouble,  
 Mais, Madame, jugez s'il doit estre pressant,  
 Aux vœux⁎ de mon Rival Flaminius consent, [335]  
 Attale vous obtient.  
 
-    ELISE
+    ELISE.
         C'est ce qui vous estonne⁎ ?  
 Pour tirer mon adveu⁎ la voye est assez bonne,  
 Et Rome à qui je porte un courage⁎ soûmis  
 Peut répondre de moy quand elle aura promis.  
 
-    NICOMEDE 
+    NICOMEDE. 
 Mais on livre Annibal, et c'est ce qu'on vous cache.  
 
-    ELISE
+    ELISE.
 Mon Pere ?  
 
-    NICOMEDE
+    NICOMEDE.
         Il est le prix de l'adveu⁎ qu'on arrache ;  
 Ne craignez rien pourtant de cette trahison,  
 Je vay trouver Attale, il m'en fera raison,  
 Et s'il ose…  
 
-    ELISE
+    ELISE.
         Arrestez⁎, que pretendez-vous faire ?  
 Cet advis m'est suspect, il part de vostre Pere,  
 Qui craignant deux Rivaux, pour en venir à bout,  
 Veut perdre l'un par l'autre, et desaduoüer tout [336].  
 
-    NICOMEDE
+    NICOMEDE.
 Ainsi donc il vous plaist que sans rien entreprendre  
 Je laisse à mon Rival le temps de vous surprendre,  
 Ou si l'advis est faux, vous voulez que ma foy⁎  
 Cede à ses vœux⁎ un cœur qui sembloit estre à moy ?  
 
-    ELISE
+    ELISE.
 Si l'advis n'est pas vray, je veux que vostre flame  
 Prenne pour seul objet la fierté de mon ame,  
 Je vous aime, et l'adveu⁎ peut-estre m'en sied mal,  
@@ -2826,26 +2826,26 @@ Malgré ce qu'en mon cœur vos feux trouvent d'appuy
 Je feray vanité de me donner à luy.  
 Voila de mon orgueil quelles sont les maximes.  
 
-    NICOMEDE
+    NICOMEDE.
 Ces sentiments sont grands, illustres, magnanimes,  
 Mais quoy que l'on promette à leur noble fierté  
 Quel cœur de vostre haine aura la fermeté ?  
 Qui vous asseurera qu'Attale soit sincere ?  
 
-    ELISE
+    ELISE.
 N'en soyez point en peine, il entretient mon Pere,  
 Et s'il obtient de luy ce que vous meritez,  
 Ma main en se donnant prendra ses seuretez [337].  
 
-    NICOMEDE
+    NICOMEDE.
 En est-il dont la suite offre à vostre disgrace [338]…  
 
-    ELISE
+    ELISE.
 Ayez soin seulement de voir ce qui se passe,  
 Et croyez que l'effort où s'appreste ma foy⁎,  
 Quoy qu'il ait de fâcheux, sera digne de moy.  
 
-    NICOMEDE
+    NICOMEDE.
 Et bien, Madame, il faut dans ce peril extréme  
 Oser tout, faire tout pour vous contre moi-mesme,  
 Rompre avec les Romains, leur ravir Annibal,  
@@ -2855,7 +2855,7 @@ A l'indigne attentat qu'un Perfide vous cache,
 Que qui cherche à mourir pour en rompre les coups  
 Pouvoit sans trop d'audace oser vivre pour vous.  
 
-    ELISE
+    ELISE.
 Prince, mon cœur est juste, et sçait ce qu'il doit faire.  
 Adieu, je vois Attale, il sort avec mon Pere,  
 Evitez leur presence, et prenez garde à tout  
@@ -2866,7 +2866,7 @@ Tandis que j'apprendray ce qu'Annibal resout.
 ANNIBAL, ATTALE, ELISE.
 
 
-    ANNIBAL
+    ANNIBAL.
 C'est trop voir le Destin confondre mon attente [339],  
 Il est temps de fixer vostre fortune errante,  
 Ma Fille, et qu'un Epoux par le don de sa foy⁎  
@@ -2876,7 +2876,7 @@ Du sort qui me poursuit j'en craindray moins l'injure,
 Et croiray triompher de ses plus rudes coups  
 Si j'empesche par là qu'ils n'aillent jusqu'à vous.  
 
-    ELISE
+    ELISE.
 Qu'ils n'aillent jusqu'à moy ! s'il faut mourir ou vivre,  
 C'est vostre exemple seul, Seigneur, que je veux suivre.  
 Jusqu'icy vostre sort a reglé mon destin,  
@@ -2891,19 +2891,19 @@ Mais quand je la sousmets à ce qu'elle vous doit,
 Sçavez-vous à quel prix Attale la reçoit ?  
 Il vous livre aux Romains.  
 
-    ATTALE 
+    ATTALE. 
         Ah, Madame, je jure  
 Qu'on me fera…  
 
-    ELISE, *à Attale.*
+    ELISE, *à Attale.*.
         Seigneur, ce peut estre imposture,  
 Mais quand on vous accuse, à vous parler sans fard,  
 L'apparence au soupçon vous donne grande part [340].  
 
-    ATTALE
+    ATTALE.
 Quoy, me tenir suspect, moy qui…  
 
-    ELISE
+    ELISE.
         Sçachons, de grace,  
 D'où vient que du Romain la colere se passe,  
 Et que de vostre amour dans l'abord irrité,  
@@ -2913,7 +2913,7 @@ Peut-il en un moment devenir legitime,
 Et tout à l'heure encor, que peut-on concevoir  
 Du secret entretien que vous venez d'avoir ?  
 
-    ATTALE
+    ATTALE.
 Saisi d'étonnement⁎, je n'ay que le silence  
 Qui puisse contre vous prouver mon innocence,  
 Il en devroit bien estre un témoin asseuré,  
@@ -2941,7 +2941,7 @@ J'attens sans m'ébranler les foudres qu'il prépare,
 Et fais que Rome enfin, toute fiere qu'elle est,  
 Se sousmet à ma flame, et veut ce qui me plaist.  
 
-    ANNIBAL
+    ANNIBAL.
 Ouy, Seigneur, c'est envain qu'on voudroit me surprendre,  
 Je fais un digne choix en vous prenant pour Gendre,  
 Et ces grands sentiments vous mettent au dessus  
@@ -2961,20 +2961,20 @@ Prendre les Fabius, choisir les Scipions.
 Moy seul je puis pretendre à cet honneur supréme,  
 Et pour perdre Annibal il faut Annibal mesme [342].  
 
-    ATTALE
+    ATTALE.
 Ah, Seigneur, qui pourroit avoir le cœur si bas…  
 
-    ELISE, *à Attale.*
+    ELISE, *à Attale.*.
 Je veux bien n'accuser ny vous ny Prusias,  
 Mais dans ce qu'on publie, il est de la prudence [343]  
 De ne pas s'exposer à trop de confiance.  
 
-    ATTALE
+    ATTALE.
 Dites, dites plutost que mon espoir est vain,  
 Que vous me soupçonnez pour m'oster vostre main,  
 Et que des feux plus doux l'emportant sur ma flame…  
 
-    ELISE
+    ELISE.
 Quoy, vous croyez en moy tant de bassesse d'ame ?  
 Quand j'aurois de l'amour il sçauroit m'obeïr,  
 Mais je l'ay dit cent fois, je ne sçay que haïr,  
@@ -2996,24 +2996,24 @@ Se mesle insolemment de me donner à vous !
 ANNIBAL, ELISE, ATTALE, ALCINE.
 
 
-    ALCINE
+    ALCINE.
 Ah, Madame ! Ah, Seigneur, songez à vous défendre,  
 Sans doute les Romains cherchent à vous surprendre.  
 De la Cour du Palais maistres en un moment  
 Ils ont presque investy tout cet apartement.  
 Jugez s'ils auront peine à s'y faire passage.  
 
-    ELISE
+    ELISE.
 Et bien, Attale, et bien, mon soupçon vous outrage ?  
 
-    ATTALE
+    ATTALE.
 Les Romains nous surprendre !  
 
-    ELISE
+    ELISE.
         Et pour ce coup fatal,  
 Tandis qu'on s'y prepare, on amuse⁎ Annibal.  
 
-    ATTALE
+    ATTALE.
 Madame, les effets me vont faire connoistre [345],  
 Je voy la trahison, et trouveray le traistre,  
 Vous verrez si mon cœur sous Rome est asservy.  
@@ -3023,10 +3023,10 @@ Je vay l'encourager à nous prester main forte, [347]
 Et j'atteste les Dieux qu'en ce pressant danger,  
 Je periray moi-mesme, ou sçauray vous vanger.  
 
-    ELISE
+    ELISE.
 Seigneur, vous fierez-vous à des serments frivoles ?  
 
-    ANNIBAL
+    ANNIBAL.
 Le temps nous est trop cher pour le perdre en paroles [348],      
 Sans trop chercher l'Autheur de cette trahison,  
 Il faut malgré le Sort, nous en faire raison.  
@@ -3041,7 +3041,7 @@ C'est du sang qu'il nous faut en de pareils malheurs.
 Vivez, et s'il vous peut estre honteux de vivre,  
 Vous aurez mon exemple, apprenez à le suivre.  
 
-    ELISE
+    ELISE.
 Pour vous quitter, Seigneur, je sçay trop mon devoir.  
 L'exemple sera grand, je vay le recevoir.  < Fin du quatriéme Acte. > 
 
@@ -3053,13 +3053,13 @@ L'exemple sera grand, je vay le recevoir.  < Fin du quatriéme Acte. >
 ELISE, PRUSIAS, ARAXE.
 
 
-    ELISE
+    ELISE.
 Quoy, je vous voy, Seigneur, et bien que l'insolence  
 Dont on use envers nous vous demande vangeance,  
 Vostre honneur, vostre foy⁎ sont des Fantômes vains  
 Lors qu'il faut s'opposer au crime des Romains ?  
 
-    PRUSIAS
+    PRUSIAS.
 Pour détruire un projet à nos vœux⁎ si contraire  
 Je n'ay rien oublié de ce que j'ay pû faire.  
 A peine l'ay-je appris que ce rapport fatal  
@@ -3073,15 +3073,15 @@ Il falloit empescher qu'on ne vous fist outrage,
 Voila ce qui m'amene, et je viens vous offrir  
 Tout ce que peut un Roy qui veut vous secourir.  
 
-    ELISE 
+    ELISE. 
 Ce zele est obligeant⁎ [350], genereux, magnanime.  
 
-    PRUSIAS
+    PRUSIAS.
 Ah, si vous connoissiez l'ardeur dont il m'anime,  
 Quels feux depuis long-temps dans mon cœur renfermez  
 Vous ont faite…  
 
-    ELISE
+    ELISE.
         Oüy, Seigneur, je sçay que vous m'aimez,  
 Mais enfin il falloit, si vous me vouliez plaire,  
 Ne m'en venir rien dire, et mourir pour mon Pere.  
@@ -3092,7 +3092,7 @@ Dans cet appartement on me tient prisonniere,
 Mes efforts pour sortir ont esté superflus,  
 On m'arreste⁎, et peut-estre Annibal ne vit plus.  
 
-    PRUSIAS
+    PRUSIAS.
 Si le Ciel aujourd'huy me met dans l'impuissance  
 D'empescher une injuste et lâche violence,  
 Au moins, Madame, au moins de cette trahison  
@@ -3103,7 +3103,7 @@ Pour vanger Annibal il n'est rien qu'avec vous
 Contre ses Assassins ne tente mon couroux,  
 Rien qu'à son sang versé ma passion n'immole.  
 
-    ELISE
+    ELISE.
 C'est donc là comme un Roy luy doit tenir parole ?  
 Vous voyez qu'on l'attaque, et fuyant le danger  
 Vous le laissez perir afin de le vanger ?  
@@ -3113,18 +3113,18 @@ Ah, si le Prince au moins… mais dequoy me flater,
 Vos lâches Partisans l'auront fait arrester⁎,  
 Il ne peut rien pour nous, et tout nous abandonne.  
 
-    PRUSIAS
+    PRUSIAS.
 Quoy, du crime d'Attale il faut qu'on me soupçonne,  
 Et quand ouvertement on voit que le Romain  
 Pour prix de son forfait luy donne vostre main,  
 Cet Attale…  
 
-    ELISE
+    ELISE.
         Du moins il fait ce qu'il doit faire,  
 Il anime les siens à défendre mon Pere,  
 Se donne pour exemple, et les enhardissant…  
 
-    PRUSIAS, *montrant Attale.*
+    PRUSIAS, *montrant Attale.*.
 Voyez si c'est pour eux un exemple pressant.  
 
 
@@ -3132,7 +3132,7 @@ Voyez si c'est pour eux un exemple pressant.
 ELISE, PRUSIAS, ATTALE, ARAXE.
 
 
-    ATTALE
+    ATTALE.
 Madame, craignons tout, c'est peu qu'on vous trahisse,  
 De ses pieges sur moy Rome étend l'artifice,  
 Et ma Garde seduite [353], au lieu de m'écouter,  
@@ -3151,7 +3151,7 @@ Disposez-en, Madame, et pour vous secourir
 Servons-nous des moyens qui se pourront offrir,  
 J'ose tout entreprendre, et puisque je vous aime…  
 
-    ELISE
+    ELISE.
 L'asseurance est pour moy d'une douceur extrême.  
 Venez, venez tous deux, nobles Heros d'Amour,  
 Qui tandis qu'on se bat me faites vostre cour.  
@@ -3164,33 +3164,33 @@ Lors que d'un cœur si bas vos offres sont suivies ?
 Pour m'arracher au Sort, en braver le couroux,  
 S'il ne faut que mourir, je mourray bien sans vous.  
 
-    ATTALE
+    ATTALE.
 D'un reproche si dur l'injustice m'étonne⁎.  
 J'abandonne, il est vray, mais quand on m'abandonne,  
 Et je rendray bientost vostre esprit éclaircy,  
 Si c'est pour m'épargner que je parois icy [354].  
 
-    PRUSIAS, *à Attale.*
+    PRUSIAS, *à Attale.*.
 Par les commencements on peut prévoir la suite,  
 Vous trouvez, distes-vous, vostre Garde seduite,  
 Et le mesme interest qui retient vos Soldats  
 Sur le point d'oser tout retiendra vostre bras.  
 
-    ATTALE
+    ATTALE.
 Gardez qu'à vos dépens vous le puissiez connoistre,  
 Si la trahison plaist on abhorre le Traistre,  
 Et pour gouster le fruit de vos desseins jaloux,  
 Tout mon sang à verser est de l'employ pour vous.  
 
-    PRUSIAS 
+    PRUSIAS. 
 Nous verrons s'il sera difficile à répandre  
 Quand vous attaquerez ce que je viens défendre.  
 
-    ATTALE
+    ATTALE.
 Ouy, le sang d'Annibal doit estre défendu,  
 Mais de ses Défenseurs on sçait qui l'a vendu.  
 
-    ELISE
+    ELISE.
 Qu'importe qui de vous m'asseure d'un vray zele  
 Quand Annibal vous voit l'un et l'autre infidelle ?  
 C'estoit autour de luy qu'il faloit étaler  
@@ -3229,13 +3229,13 @@ S'il n'est plus d'Annibal, plus de Trônes pour vous.
 FLAMINIUS, ELISE, PRUSIAS, ATTALE, PROCULE, ARAXE.
 
 
-    ELISE
+    ELISE.
 Et bien, Flaminius, ton Ambassade est faite [356] ?  
 Un lâche t'a vendu ce que Rome souhaite,  
 Pour combler ton triomphe, et le voir sans égal,  
 Viens-tu joindre mon sang à celuy d'Annibal ?  
 
-    FLAMINIUS
+    FLAMINIUS.
 Moderez un transport dont j'aurois à me plaindre,  
 Pour le sang d'Annibal vous n'avez rien à craindre.  
 Entre les mains des Miens à qui je l'ay remis,  
@@ -3253,7 +3253,7 @@ Recevez son appuy sans orgueil, sans audace,
 Et quelques biens par là qui vous soient accordez,  
 Voyez toûjours la main de qui vous dépendez.  
 
-    ELISE
+    ELISE.
 Et bien, mes Défenseurs, me voicy donc Esclave,  
 Sans rien faire pour moy vous souffrez⁎ qu'on me brave,  
 Et malgré vos serments de ne me point trahir  
@@ -3263,7 +3263,7 @@ Traistres, qui me livrez aussi-bien que mon Pere,
 Et quand il faut montrer qu'un de vous ne l'est pas,  
 Que devient vostre cœur, que devient vostre bras ?  
 
-    ATTALE
+    ATTALE.
 C'est trop, c'est trop souffrir⁎ qu'un Perfide se cache.  
 Vous l'allez voir ce cœur qui vous a paru lâche,  
 Et juger qui de nous par son manque de foy⁎  
@@ -3286,31 +3286,31 @@ Honneur injurieux ! captieuse Alliance !
 J'y renonce, et d'Elise entreprens la défence,  
 Point d'autres loix pour moy que son ressentiment.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Pour un Roy de deux jours c'est parler hautement.  
 
-    ATTALE
+    ATTALE.
 La Majesté des Rois toûjours brillante et pure  
 N'a ny vos volontez ny le temps pour mesure [360],  
 Et qui l'est un moment, doit contre vos souhaits  
 Prendre assez de fierté pour n'obeïr jamais.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Je plains de cet orgueil l'aveuglement extrême,  
 Pour me connoistre mieux connoissez-vous vous-mesme,  
 Et sur ce que pour vous le Trône a d'éclatant,  
 Retournez à Pergame, Eumene vous attend.  
 
-    ATTALE
+    ATTALE.
 Eumene !  
 
-    FLAMINIUS
+    FLAMINIUS.
         Ouy, c'est par luy que le Ciel y rappelle [361]  
 Que vous avez trouvé vostre Garde infidelle,  
 Quand nous le croyions mort, la mer nous l'a rendu,  
 Et vous sçaurez de luy le respect⁎ qui m'est dû.  
 
-    ATTALE
+    ATTALE.
 Faites, faites regner un Fantosme [362] en ma place,  
 Je vous fais peur au Trône, il faut que l'on m'en chasse ;  
 Je vous l'avois bien dit, et voila de leurs coups,  
@@ -3318,7 +3318,7 @@ Je suis trahy, Madame, et trahy plus que vous,
 Mais pour vous et pour moy je vay faire connoistre  
 Que je sçay mieux punir que seconder un Traistre.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Qu'on l'observe, et d'abord⁎, s'il ose rien tenter [363],  
 Donnez ordre, Procule, à le faire arrester⁎.  
 
@@ -3327,13 +3327,13 @@ Donnez ordre, Procule, à le faire arrester⁎.
 ELISE, PRUSIAS, FLAMINIUS, ARAXE.
 
 
-    ELISE, *à Prusias.*
+    ELISE, *à Prusias.*.
 Seigneur, c'est donc à vous que de ce grand ouvrage  
 Doit enfin enfin sans debat demeurer l'avantage,  
 Et grace à vos bontez, tout l'honneur vous est dû  
 Et d'Elise trahie, et d'Annibal vendu ?  
 
-    PRUSIAS
+    PRUSIAS.
 Quels que soient les malheurs qui vous font plaindre un Pere,  
 Madame, je n'ay fait que ce que j'ay dû faire,  
 Et vous n'avez pas lieu de me les reprocher  
@@ -3341,23 +3341,23 @@ Lors qu'à son mauvais sort je viens vous arracher.
 Pour fuir avec honneur celuy qui vous menace,  
 Prenez mon Trône offert, je vous y donne place.  
 
-    ELISE
+    ELISE.
 Vostre Trône ?  
 
-    FLAMINIUS
+    FLAMINIUS.
         Ouy, Madame, et si vous balancez  
 J'oseray contre vous plus que vous ne pensez,  
 J'arresteray⁎ le cours de cette humeur altiere.  
 
-    ELISE
+    ELISE.
 Parles-tu de mourir ? La menace est legere.  
 Pour qui porte en son cœur le pur sang d'Annibal,  
 Ce qui finit les maux ne sçauroit estre un mal.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Si vous bravez la Mort, le triomphe peut-estre…  
 
-    ELISE
+    ELISE.
 Il sera beau pour toy d'avoir séduit un Traistre [364],  
 Et tes fourbes, dont l'art nous a mis sous tes loix,  
 Pour annoblir ton nom sont de fameux exploits,  
@@ -3374,25 +3374,25 @@ De son manque de foy⁎ quoy qu'il se soit promis…
 ELISE, FLAMINIUS, PRUSIAS, ALCINE, ARAXE.
 
 
-    ALCINE
+    ALCINE.
 Madame, esperez tout, les Dieux nous sont amis,  
 Au point que les Romains enlevoient vostre Pere,  
 Le Prince…  
 
-    ELISE
+    ELISE.
     Et bien ?  
 
-    ALCINE
+    ALCINE.
         A fait tout ce que l'on peut faire.  
 Fort d'un nombre d'Amis à la haste amassez  
 Jusque dans le Palais il les a repoussez,  
 Et tous, tremblant d'effroy dés qu'ils l'ont veu paroistre,  
 Negligeant Annibal, l'en ont laissé le maistre.  
 
-    PRUSIAS 
+    PRUSIAS. 
 Mon Fils a l'insolence…  
 
-    FLAMINIUS
+    FLAMINIUS.
         Eclatez, Prusias,  
 L'entreprise est manquée, et je n'en doute pas.  
 Vous voyant l'ame foible, et jamais arrestée⁎,  
@@ -3403,7 +3403,7 @@ Le Prince agit par vous, son audace est la vostre. [365]
 Vous donnez d'une main, et retenez de l'autre,  
 Mais Rome… [366]  
 
-    PRUSIAS
+    PRUSIAS.
         Et bien, Seigneur, aux dépens de mon Fils  
 Vous me verrez tenir tout ce que j'ay promis.  
 Bien loin d'en appuyer la criminelle audace,  
@@ -3416,17 +3416,17 @@ S'il est dans ce qu'il ose armé de mon pouvoir.
 ELISE, FLAMINIUS, ALCINE.
 
 
-    ELISE
+    ELISE.
 Poursuy, Flaminius, et pour te satisfaire  
 Contre le sang du Fils arme⁎ le bras du Pere.  
 Tu vois par Annibal échapé de tes mains  
 Comme le Ciel par tout seconde tes desseins.  
 
-    FLAMINIUS
+    FLAMINIUS.
 La victoire pour vous n'est pas encore entiere,  
 Et je vay donner ordre à vous revoir moins fiere.  
 
-    ELISE 
+    ELISE. 
 Je te conseillerois de ne t'éloigner pas.  
 Que sçais-tu si le Prince est maistre de son bras  [368] ?  
 Tu peux avoir besoin que je t'obtienne grace,  
@@ -3434,7 +3434,7 @@ Et malgré l'attentat dont il punit l'audace,
 Je te dédaigne assez pour fuir l'abaissement  
 D'abandonner ta vie à mon ressentiment.  
 
-    FLAMINIUS
+    FLAMINIUS.
 Rome de ces mépris sçaura vous tenir compte.  
 
 
@@ -3442,13 +3442,13 @@ Rome de ces mépris sçaura vous tenir compte.
 ELISE, ALCINE.
 
 
-    ALCINE
+    ALCINE.
 Madame, à le braver n'estes-vous point trop prompte ?  
 Le Prince perira plûtost que vous trahir,  
 Mais est-il en estat de se faire obeïr ?  
 Prusias est le Maistre, et comme il se declare…  
 
-    ELISE
+    ELISE.
 Va, va, je sçay l'accueil que Rome nous prepare [369],  
 Et consents qu'elle songe à se faire valoir  
 Quand je seray d'humeur à l'aller recevoir [370].  
@@ -3458,35 +3458,35 @@ Quand je seray d'humeur à l'aller recevoir [370].
 ANNIBAL, ELISE, NICOMEDE, ALCINE.
 
 
-    ELISE, *à Annibal.*
+    ELISE, *à Annibal.*.
 Ah, Seigneur, c'est donc vous ?  
 
-    ANNIBAL
+    ANNIBAL.
         Ouy, que le Ciel ramene,  
 Pour vous faire encor mieux heriter de ma haine.  
 De nos mauvais destins si vous venez à bout,  
 Voicy le bras, ma Fille, à qui vous devrez tout.  
 
-    NICOMEDE
+    NICOMEDE.
 Seigneur, le Ciel peut-il favoriser un Traistre ?  
 
-    ELISE
+    ELISE.
 Mais ce Traistre à vos yeux ne s'est pas fait connoistre,  
 Vous allez trembler, Prince, au nom de Prusias.  
 
-    NICOMEDE
+    NICOMEDE.
 Quoy, mon Pere…  
 
-    ELISE
+    ELISE.
         Ouy, de luy viennent ces attentats.  
 L'innocence d'Attale est assez averée.  
 
-    NICOMEDE
+    NICOMEDE.
 O triomphe pour moy de trop peu de durée !  
 N'importe, osons, Seigneur, tant que j'auray du sang  
 J'appuyeray vostre haine, et soûtiendray mon rang.  
 
-    ANNIBAL
+    ANNIBAL.
 Elle doit à vos yeux estre d'autant plus chere  
 Que l'on voit chaque jour que Rome degenere [371].  
 Pyrrus armant contre elle un dangereux party,  
@@ -3501,20 +3501,20 @@ Et pour perdre Annibal, elle corrompt les Rois.
 ANNIBAL, NICOMEDE, ELISE, ARAXE, ALCINE.
 
 
-    ARAXE, *à Nicomède.*
+    ARAXE, *à Nicomède.*.
 Seigneur, de Prusias plaignez la destinée.  
 
-    NICOMEDE
+    NICOMEDE.
 Araxe.  
 
-    ARAXE
+    ARAXE.
     Il ne vit plus.  
 
-    NICOMEDE
+    NICOMEDE.
         O funeste journée !  
 Mon Pere ne vit plus.  
 
-    ARAXE
+    ARAXE.
         A peine a-t-il appris  
 Ce que pour Annibal vous avez entrepris,  
 Que saisi tout à coup d'une fureur extrême,  
@@ -3534,13 +3534,13 @@ Ils s'animent l'un l'autre, envelopent Attale,
 L'arrestent⁎, et craignant quelques malheurs nouveaux,  
 Flaminius, dit-on, regagne ses vaisseaux.  
 
-    NICOMEDE
+    NICOMEDE.
 O succez déplorable ! ô perte trop amere !  
 Romains, qui me coustez la vertu⁎ de mon Pere,  
 Vous m'en ferez raison ; pour ce noble soucy,  
 Donnez l'ordre, Seigneur, vous estes maistre icy.  
 
-    ANNIBAL, *à Elise.*
+    ANNIBAL, *à Elise.*.
 C'est trop, il ne faut plus que vostre amour se cache,  
 Le Prince vous merite, il est enfin sans tache [374],  
 Prenez-le pour Epoux, et dans tous vos desseins  
@@ -3554,10 +3554,10 @@ Tourner contre leur sein leur plus sanglante rage,
 Se déchirer l'un l'autre, et d'un acier fatal  
 Eux-mesmes s'immoler aux Manes d'Annibal [376].  
 
-    ELISE
+    ELISE.
 Aux Manes d'Annibal ?  
 
-    ANNIBAL
+    ANNIBAL.
         Quoy, vous auriez pû croire  
 Que j'eusse pris si peu l'interest de ma gloire,  
 Qu'aux mains de mes Tyrans m'estant veu sans secours,  
@@ -3565,10 +3565,10 @@ Je leur eusse laissé quelque droit sur mes jours ?
 Cet anneau [377] m'a fourny dequoy ne les pas craindre,  
 Je meurs empoisonné.  
 
-    NICOMEDE
+    NICOMEDE.
     Dieux !  
 
-    ANNIBAL
+    ANNIBAL.
         Gardez de me plaindre [378],  
 Avecque trop d'éclat j'ay sçeu remplir mon sort  
 Pour vous donner sujet de regreter ma mort [379].  
@@ -3577,17 +3577,17 @@ Si d'un jaloux destin elles sont poursuivies,
 Envisageant toûjours sa rigueur sans effroy,  
 Bravez la Tyrannie, et mourez comme moy.  
 
-    ELISE
+    ELISE.
 C'en est fait, il expire, ah, Seigneur !  
 
-    NICOMEDE
+    NICOMEDE.
         Ah, Madame !  
 Que d'ennuis⁎ à la fois s'emparent de mon ame !  
 Allons en Bithynie, et pour nous soulager  
 Faisons-y tout servir au soin de nous vanger [380].  < FIN. >
 
 
-## Extrait du privilège du Roy
+## Extrait du privilège du Roy.
 
 Par grace et Privilege du Roy donné à S. Germain en Laye le 27 Février 1670. Signé d'ALENCE : Il est permis à Claude Barbin Marchand Libraire à Paris, de faire imprimer *la Tragedie d'Annibal* de Monsieur de Corneille, pendant le temps et espace de sept années ; avec défences à tous Libraires et Imprimeurs de l'imprimer, sans l'exprés consentement dudit sieur, suivant les peines portées par lesdites Lettres.
 
@@ -3598,10 +3598,10 @@ Achevé d'imprimer pour la premiere fois, le 12 Avril 1670. à Roüen par L. Mau
 Et ledit Sieur Corneille a transporté ledit Privilege aux sieurs Guillaume de Luyne et Claude Barbin, Marchands Libraires au Palais, pour en joüir suivant l'accord fait entr'eux.
 
 
-# GlossaireD'AbordAussitôt.V. 930, 1779, 1883En un premier temps.V. 1301, 1325. AllentirRendre un mouvement plus lent, une action plus lente (Furetière). Se calmer, s'amoindrir.V. 908.AmuserEst une espece de tromperie que font ceux qui pour gagner du temps font de belles promesses, qui donnent de belles esperances (Furetière). V. 167, 732.Arrester quelqu'un, luy faire perdre du temps inutilement (Furetière).V. 1560.ArmerFournir d'armes (Académie).V. 1702, 1830.Absolument, signifie lever des soldats pour faire une armée (Furetière).V. 237, 1173, 1724.ArrêterEmpescher quelque chose de se mouvoir, d'aller plus loin (Furetière).V. 252, 711, 1473, 1793.Signifie aussi convenir des conditions, arrêter un marché (Furetière). Signifie aussi conclure après quelque délibération, soit en soy-même, soit en compagnie (Furetière).V. 151.Signifie aussi prendre prisonnier (Académie).V. 1071, 1612, 1628, 1640, 1780, 1887.Arrêter est aussi neutre, et signifie cesser de marcher, et demeurer en un lieu pour quelque temps (Académie).V. 1409. Signifie aussi résoudre et déterminer quelque chose, demeurer d'accord de faire quelque chose, en convenir (Académie)V. 1817. AveuReconnaissance, confession (Furetière). V. 177, 190, 481, 1123, 1419.Signifie aussi protection, ordre ou consentement donné (Furetière).V. 360, 955, 1324, 1402, 1406, 1494.BonheurFélicité parfaite, possession d'un bien qui ne laisse rien à souhaiter (Furetière).V. 108, 295, 1380.Se dit aussi des rencontres, du hasard (Furetière).V. 1239.Signifie aussi prospérité, événement heureux, bonne fortune (Académie).V. 951.CependantPendant ce temps.V. 137, 506, 769, 1285, 1395. Néanmoins.V. 628, 996, 1166, 1237, 1867.ChoquerHeurter avec violence (Furetière).Signifie figurément quereller, offenser (Furetière).V. 128, 566.CommissionEst quelquefois opposé à *titre*, et signifie un pouvoir donné pour un temps à quelques personnes d'exercer quelque charge, ou de juger en des occasions extraordinaires (Furetière).V. 913.Commettre : confier quelque chose à la prudence, à la fidélité de quelqu'un (Furetière).V. 770.CourageArdeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies sans crainte des perils (Furetière).Est aussi une vertu qui éleve l'ame, et qui la porte à mépriser les perils, quand il y a des occasions d'exercer la vaillance, ou à souffrir les douleurs, quand il y a lieu de montrer sa constance et sa fermeté (Furetière).V. 246, 570, 810, 890, 942, 946, 1317, 1694, 1801.Se dit quelque fois en contresens, d'une grande lâcheté, d'une grande méchanceté (Furetière).V. 853.Signifie quelquefois ardeur, affection (Furetière).V. 1403.Cœur.V. 106.CouvertDissimulé, caché (Académie).V. 573.Protégé.V. 1657, 1704. DébrisRuine d'édifices (Furetière).Se dit plus particulierement des vaisseaux qui perissent sur la mer (Furetière).V. 995.Se dit figurément du bien qui reste à un homme après un grand revers de fortune, et des troupes qui restent après la défaite d'une armée, d'un régiment (Académie).V. 741.DéfianceCrainte d'estre trompé, ou de ne pouvoir pas reüssir dans ses desseins (Furetière).V. 302, 358, 573, 794, 1818.DouteuxIncertainV. 719.ÉblouirEmpêcher l'usage de la vue par une trop grande lumière (Académie). V. 1.Tromper, abuser.V. 134, 223, 388, 860.Signifie aussi tenter, séduire (Académie).V. 1159.ÉmouvoirMettre en mouvement, faire se mouvoir (Académie).Signifie aussi Exciter quelque passion dans le cœur, causer du trouble, de l'altération dans les esprits (Académie).V. 324, 442, 739.EnnuiChagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long (Furetière).V. 632, 1918.ÉtonnerCauser à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte. (Furetière).V. 268, 270, 1077, 1401, 1489, 1573, 1665. Se dit aussi des choses qui sont assez ordinaires et peu considerables. (Furetière).ExpliquerDonner intelligence de sa pensée, de quelque escrit (Furetière).Esclaircir, declarer nettement sa volonté (Furetière).V. 93, 129, 290, 344, 402, 477, 912, 1169.FoiDon de Dieu qui nous fait croire fermement les veritez qu'il a revelées à son Eglise (Furetière). Créance qu'on donne aux paroles des hommes (Furetière).Signifie encore serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter (Furetière).V. 68, 143, 170, 217, 303-304, 432, 507, 588, 691, 704, 719, 796, 991, 1005, 1013, 1096, 1117, 1157, 1179, 1203, 1216, 1271, 1415, 1443, 1459, 1499, 1523,  1550, 1587, 1597, 1691, 1743, 1807.FranchiseSignifie aussi chez les Poëtes et les amants, Liberté (Furetière).V. 41, 666, 1062.GêneQuestion, torture (Furetière).Se dit aussi de toute peine ou affliction de corps ou d'esprit (Furetière). V. 139, 569, 906, 954, 1229.ImpatienceChagrin, inquietude de celuy qui souffre, ou qui attend (Furetière).V. 454.IncertainCe qui n'est pas assûré, constant, ce qui est douteux (Furetière).V. 50.Se dit aussi d'un homme qui deliberer, qui ne sçait que resoudre (Furetière).V. 1250.InquiétudeChagrin, ennuy, trouble et affliction d'esprit (Furetière).V. 378, 391, 967, 1049, 1249.MélancolieSignifie la tristesse même, le chagrin qui vient par quelque fâcheux accident (Furetière).V. 289.ObligerContraindre à faire quelque chose par nécessité (Furetière).V. 389, 426, 981, 1292, 1648.Signifie plus generalement, Faire quelque faveur, civilité, courtoisie (Furetière).V. 1134, 1193, 1601.OmbrageSignifie figurément, deffiance, soupçon (Furetière).V. 82, 151, 215, 576, 625, 1010.PrévenirArriver devant, venir le premier (Académie). Anticiper.V. 217.RéserveSe dit figurément en choses morales, et signifie Pudeur, retenuë, prudence (Furetière).V. 166, 649.RéserverGarder, retenir quelque chose du total (Académie).V. 30, 176, 796, 1751.Signifie aussi garder, mesnager pour le besoin (Furetière)V. 820, 1520.RespectDeference, honneur, soûmission qu'on fait à son superieur (Furetière).V. 598, 672, 1037, 1136, 1772.Signifie quelquefois Consideration, égard (Furetière).V. 7, 219, 342, 798, 829.RetraiteAction de se retirer (Académie).V. 98.Signifie aussi un asyle, un lieu de refuge où on se met en seureté (Furetière).V. 49, 66, 994.ReversSe dit figurément en Morale d'un retour ou renversement de fortune, ou d'affaires (Furetière).V. 247, 313, 519.SoinDiligence qu'on apporte à faire reüssir une chose, à la garder, et à la conserver, à la perfectionner (Furetière).V. 206, 257, 347, 690.Se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l'ame (Furetière).V. 948, 1495.Est aussi l'attache particuliere qu'on a auprés d'un maistre, ou d'une maistresse, pour les servir, ou leur plaire (Furetière).V. 281, 599, 1657.SouffrirSentir de la douleur, du mal, ou quelque incommodité considérable (Furetière). Se dit aussi en morale des afflictions de l'esprit, des émotions de l'ame par les passions (Furetière). Se dit en un sens moins estendu, en parlant de ce qui desplaist, de ce qui fait quelque peine aux sens, ou à l'esprit. En ce sens on dit par civilité : souffrez que je vous advertisse, pour dire, Ayez agreable, permettez que je fasse telle chose (Furetière).V. 543, 795, 1468.Ne pas opposer à une chose, y consentir tacitement (Furetière).V. 280, 790, 922, 1082, 1159, 1282, 1293, 1501, 1523, 1734, 1741.Signifie aussi compatir, s'accomoder ensemble, ne se pas détruire (Furetière).V. 864.SuccéderVenir après, prendre la place de (Académie).Signifie aussi réussir (Académie).V. 141.TimideFoible, peureux, qui craint tout (Furetière).V. 597, 1574, 1695.VertuSe dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy et la raison (Furetière).V. 33, 53, 183, 363, 414, 420, 548, 1145, 1164, 1694, 1890.VœuxSignifie souhait, priere, serment, suffrage (Furetière).V. 84, 107, 111, 362, 379, 395-396, 834, 1400, 1416, 1589.
+# Glossaire.D'AbordAussitôt.V. 930, 1779, 1883En un premier temps.V. 1301, 1325. AllentirRendre un mouvement plus lent, une action plus lente (Furetière). Se calmer, s'amoindrir.V. 908.AmuserEst une espece de tromperie que font ceux qui pour gagner du temps font de belles promesses, qui donnent de belles esperances (Furetière). V. 167, 732.Arrester quelqu'un, luy faire perdre du temps inutilement (Furetière).V. 1560.ArmerFournir d'armes (Académie).V. 1702, 1830.Absolument, signifie lever des soldats pour faire une armée (Furetière).V. 237, 1173, 1724.ArrêterEmpescher quelque chose de se mouvoir, d'aller plus loin (Furetière).V. 252, 711, 1473, 1793.Signifie aussi convenir des conditions, arrêter un marché (Furetière). Signifie aussi conclure après quelque délibération, soit en soy-même, soit en compagnie (Furetière).V. 151.Signifie aussi prendre prisonnier (Académie).V. 1071, 1612, 1628, 1640, 1780, 1887.Arrêter est aussi neutre, et signifie cesser de marcher, et demeurer en un lieu pour quelque temps (Académie).V. 1409. Signifie aussi résoudre et déterminer quelque chose, demeurer d'accord de faire quelque chose, en convenir (Académie)V. 1817. AveuReconnaissance, confession (Furetière). V. 177, 190, 481, 1123, 1419.Signifie aussi protection, ordre ou consentement donné (Furetière).V. 360, 955, 1324, 1402, 1406, 1494.BonheurFélicité parfaite, possession d'un bien qui ne laisse rien à souhaiter (Furetière).V. 108, 295, 1380.Se dit aussi des rencontres, du hasard (Furetière).V. 1239.Signifie aussi prospérité, événement heureux, bonne fortune (Académie).V. 951.CependantPendant ce temps.V. 137, 506, 769, 1285, 1395. Néanmoins.V. 628, 996, 1166, 1237, 1867.ChoquerHeurter avec violence (Furetière).Signifie figurément quereller, offenser (Furetière).V. 128, 566.CommissionEst quelquefois opposé à *titre*, et signifie un pouvoir donné pour un temps à quelques personnes d'exercer quelque charge, ou de juger en des occasions extraordinaires (Furetière).V. 913.Commettre : confier quelque chose à la prudence, à la fidélité de quelqu'un (Furetière).V. 770.CourageArdeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies sans crainte des perils (Furetière).Est aussi une vertu qui éleve l'ame, et qui la porte à mépriser les perils, quand il y a des occasions d'exercer la vaillance, ou à souffrir les douleurs, quand il y a lieu de montrer sa constance et sa fermeté (Furetière).V. 246, 570, 810, 890, 942, 946, 1317, 1694, 1801.Se dit quelque fois en contresens, d'une grande lâcheté, d'une grande méchanceté (Furetière).V. 853.Signifie quelquefois ardeur, affection (Furetière).V. 1403.Cœur.V. 106.CouvertDissimulé, caché (Académie).V. 573.Protégé.V. 1657, 1704. DébrisRuine d'édifices (Furetière).Se dit plus particulierement des vaisseaux qui perissent sur la mer (Furetière).V. 995.Se dit figurément du bien qui reste à un homme après un grand revers de fortune, et des troupes qui restent après la défaite d'une armée, d'un régiment (Académie).V. 741.DéfianceCrainte d'estre trompé, ou de ne pouvoir pas reüssir dans ses desseins (Furetière).V. 302, 358, 573, 794, 1818.DouteuxIncertainV. 719.ÉblouirEmpêcher l'usage de la vue par une trop grande lumière (Académie). V. 1.Tromper, abuser.V. 134, 223, 388, 860.Signifie aussi tenter, séduire (Académie).V. 1159.ÉmouvoirMettre en mouvement, faire se mouvoir (Académie).Signifie aussi Exciter quelque passion dans le cœur, causer du trouble, de l'altération dans les esprits (Académie).V. 324, 442, 739.EnnuiChagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long (Furetière).V. 632, 1918.ÉtonnerCauser à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte. (Furetière).V. 268, 270, 1077, 1401, 1489, 1573, 1665. Se dit aussi des choses qui sont assez ordinaires et peu considerables. (Furetière).ExpliquerDonner intelligence de sa pensée, de quelque escrit (Furetière).Esclaircir, declarer nettement sa volonté (Furetière).V. 93, 129, 290, 344, 402, 477, 912, 1169.FoiDon de Dieu qui nous fait croire fermement les veritez qu'il a revelées à son Eglise (Furetière). Créance qu'on donne aux paroles des hommes (Furetière).Signifie encore serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter (Furetière).V. 68, 143, 170, 217, 303-304, 432, 507, 588, 691, 704, 719, 796, 991, 1005, 1013, 1096, 1117, 1157, 1179, 1203, 1216, 1271, 1415, 1443, 1459, 1499, 1523,  1550, 1587, 1597, 1691, 1743, 1807.FranchiseSignifie aussi chez les Poëtes et les amants, Liberté (Furetière).V. 41, 666, 1062.GêneQuestion, torture (Furetière).Se dit aussi de toute peine ou affliction de corps ou d'esprit (Furetière). V. 139, 569, 906, 954, 1229.ImpatienceChagrin, inquietude de celuy qui souffre, ou qui attend (Furetière).V. 454.IncertainCe qui n'est pas assûré, constant, ce qui est douteux (Furetière).V. 50.Se dit aussi d'un homme qui deliberer, qui ne sçait que resoudre (Furetière).V. 1250.InquiétudeChagrin, ennuy, trouble et affliction d'esprit (Furetière).V. 378, 391, 967, 1049, 1249.MélancolieSignifie la tristesse même, le chagrin qui vient par quelque fâcheux accident (Furetière).V. 289.ObligerContraindre à faire quelque chose par nécessité (Furetière).V. 389, 426, 981, 1292, 1648.Signifie plus generalement, Faire quelque faveur, civilité, courtoisie (Furetière).V. 1134, 1193, 1601.OmbrageSignifie figurément, deffiance, soupçon (Furetière).V. 82, 151, 215, 576, 625, 1010.PrévenirArriver devant, venir le premier (Académie). Anticiper.V. 217.RéserveSe dit figurément en choses morales, et signifie Pudeur, retenuë, prudence (Furetière).V. 166, 649.RéserverGarder, retenir quelque chose du total (Académie).V. 30, 176, 796, 1751.Signifie aussi garder, mesnager pour le besoin (Furetière)V. 820, 1520.RespectDeference, honneur, soûmission qu'on fait à son superieur (Furetière).V. 598, 672, 1037, 1136, 1772.Signifie quelquefois Consideration, égard (Furetière).V. 7, 219, 342, 798, 829.RetraiteAction de se retirer (Académie).V. 98.Signifie aussi un asyle, un lieu de refuge où on se met en seureté (Furetière).V. 49, 66, 994.ReversSe dit figurément en Morale d'un retour ou renversement de fortune, ou d'affaires (Furetière).V. 247, 313, 519.SoinDiligence qu'on apporte à faire reüssir une chose, à la garder, et à la conserver, à la perfectionner (Furetière).V. 206, 257, 347, 690.Se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l'ame (Furetière).V. 948, 1495.Est aussi l'attache particuliere qu'on a auprés d'un maistre, ou d'une maistresse, pour les servir, ou leur plaire (Furetière).V. 281, 599, 1657.SouffrirSentir de la douleur, du mal, ou quelque incommodité considérable (Furetière). Se dit aussi en morale des afflictions de l'esprit, des émotions de l'ame par les passions (Furetière). Se dit en un sens moins estendu, en parlant de ce qui desplaist, de ce qui fait quelque peine aux sens, ou à l'esprit. En ce sens on dit par civilité : souffrez que je vous advertisse, pour dire, Ayez agreable, permettez que je fasse telle chose (Furetière).V. 543, 795, 1468.Ne pas opposer à une chose, y consentir tacitement (Furetière).V. 280, 790, 922, 1082, 1159, 1282, 1293, 1501, 1523, 1734, 1741.Signifie aussi compatir, s'accomoder ensemble, ne se pas détruire (Furetière).V. 864.SuccéderVenir après, prendre la place de (Académie).Signifie aussi réussir (Académie).V. 141.TimideFoible, peureux, qui craint tout (Furetière).V. 597, 1574, 1695.VertuSe dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy et la raison (Furetière).V. 33, 53, 183, 363, 414, 420, 548, 1145, 1164, 1694, 1890.VœuxSignifie souhait, priere, serment, suffrage (Furetière).V. 84, 107, 111, 362, 379, 395-396, 834, 1400, 1416, 1589.
 
 
-# Annexe 1 : Extrait Tite-Live
+# Annexe 1 : Extrait Tite-Live.
 
 TITE-LIVE, *Histoire Romaine*, t. 2, Paris, Firmin Didot, 1869, p. 537
 
@@ -3609,7 +3609,7 @@ TITE-LIVE, *Histoire Romaine*, t. 2, Paris, Firmin Didot, 1869, p. 537
 XXXIX, LI. Titus Quinctius Flaminius se rendit en ambassade à la cour de Prusias, qui était devenu suspect aux Romains pour avoir accueilli Annibal depuis la défaite d'Antiochus, et entrepris la guerre contre Eumène. Là sans doute l'ambassadeur reprocha entre autres griefs à Prusias d'avoir donné asile à l'ennemi le plus acharné du peuple romain, à un homme qui avait soulevé sa patrie contre Rome et qui après l'avoir ruinée, avait fait prendre les armes au roi Antiochus. Peut-être aussi que Prusias lui-même, voulant faire sa cour aux Romains et à leur représentant, résolut de mettre à mort un hôte si dangereux ou de le livrer aux ennemis. Du moins aussitôt après l'entrevue du prince et de Flaminius, des soldats eurent ordre d'aller investir la maison d'Annibal. Ce général avait toujours pensé qu'il finirait ainsi, quand il songeait à la haine implacable que lui portaient les Romains, et au peu de sûreté qu'offre la parole des rois. D'ailleurs il avait éprouvé déjà l'inconstance de Prusias, et il avait appris avec horreur l'arrivée de Flaminius, qu'il croyait devoir lui être fatale. Au milieu des périls dont il était entouré, il avait voulu se ménager toujours un moyen de fuir, et il avait pratiqué sept issues dans sa maison ; quelques-unes étaient secrètes, afin qu'on ne pût y mettre des gardes. Mais la tyrannie soupçonneuse des rois perce tous les mystères qu'il lui importe de connaître. Les soldats enveloppèrent et cernèrent si étroitement toute la maison, qu'il était impossible de s'en évader. A la nouvelle que les satellites du roi étaient parvenus dans le vestibule, Annibal essaya de fuir par une porte dérobée, qu'il croyait cachée à tous les yeux. Mais voyant qu'elle était aussi gardée, et que toute la maison était entourée de gens armés, il se fit donner le poison qu'il tenait depuis longtemps en réserve pour s'en servir au besoin. « Délivrons, dit-il, le peuple romain de ses longues inquiétudes, puisqu'il n'a pas la patience d'attendre la mort d'un vieillard. Flaminius n'aura guère à s'applaudir et à s'honorer de la victoire qu'il remporte sur un ennemi trahi et désarmé. Ce jour seul suffira pour prouver combien les mœurs des Romains ont changé. Leurs pères, menacés par Pyrrhus, qui avait les armes à la main, qui était à la tête d'une armée en Italie, lui ont fait dire de se mettre en garde contre le poison ; eux, ils ont envoyé un consulaire en ambassade pour conseiller à Prusias d'assassiner traîtreusement son hôte. » Puis, après avoir maudit la personne et le trône de Prusias, et appelé sur sa tête le courroux des dieux vengeurs de l'hospitalité trahie, il but le poison. Telle fut la fin d'Annibal.
 
 
-# Annexe 2 : Extrait Plutarque
+# Annexe 2 : Extrait Plutarque.
 
 PLUTARQUE, *Les Vies des hommes illustres*, t. 1, trad. Amyot, éd. G. Walter, Paris, Gallimard (coll. Pléiade), 1951, p. 857-861.
 
@@ -3631,7 +3631,7 @@ XLIV. Ainsi plusieurs … blâmaient grandement Titus de ce qu'il avait, par man
 XLVI. Encore y en a-t-il qui disent que Titus ne fit pas cet acte seul ni de sa propre autorité, mais qu'il fut envoyé ambassadeur avec Lucius Scipion, non pour autre chose que pour faire mourir Annibal en quelque sorte que ce fût.
 
 
-# Annexe 3 : Extrait Cornelius Nepos
+# Annexe 3 : Extrait Cornelius Nepos.
 
 CORNELIUS NEPOS, *Vies des grands capitaines*, in *Cornelius Nepos, Quinte-Curce, Justin, Valère Maxime, Julius Obsequens, Œuvres Complètes*, Paris, Firmin Didot, 1871, p. 69-70.
 
@@ -3641,7 +3641,7 @@ XII. Tandis que ces choses se passaient en Asie, le hasard voulut que les ambass
 XIII. Il se reposa ainsi dans la mort, à l'âge de soixante-dix ans. Sa vie avait été une suite continuelle de fatigues et de travaux. On ne sait pas positivement sous quel consulat il mourut.
 
 
-# Annexe 4 : Extrait Justin
+# Annexe 4 : Extrait Justin.
 
 JUSTIN, *Histoires Philippiques*, in *Cornelius Nepos, Quinte-Curce, Justin, Valère Maxime, Julius Obsequens, Œuvres Complètes*, Paris, Firmin Didot, 1871, p. 519 ; p. 522.
 
@@ -3651,7 +3651,7 @@ XXXII, 4. Quand cet échec fut connu à Rome, le sénat envoya des ambassadeurs 
 XXXIV, 4. Vers le même temps, Prusias, roi de Bithynie, résolut de faire périr son fils Nicomède, pour avantager d'autres fils d'un second lit, et qui étaient à Rome ; mais le projet fut révélé à Nicomède par ceux-là mêmes qui s'étaient chargés de l'exécuter. Ils le prient donc, « puisqu'il y est forcé par la barbarie de son père, de le prévenir, et de faire retomber le crime sur celui qui l'a conçu ». Il ne fut pas difficile de persuader le prince. Arrivé dans le royaume où l'appelait son père, il fut aussitôt proclamé roi. Prusias, détrôné par son fils et réduit à la condition de simple particulier, fut abandonné même de ses esclaves. Il vivait dans une profonde retraite, lorsqu'il fut tué par Nicomède, non moins coupable que ne l'avait été son père en ordonnant sa mort.
 
 
-# Annexe 5 : Extrait Frères Parfaict
+# Annexe 5 : Extrait Frères Parfaict.
 
 PARFAICT Claude et François, *Histoire du théâtre françois, depuis son origine jusqu'à présent, avec la vie des plus célèbres Poëtes Dramatiques, un Catalogue exact de leurs Pièces, et des Notes Historiques et Critiques*, t. 10, Paris, P. G. Le Mercier et Saillant, 1747, p. 424-426.
 
@@ -3691,7 +3691,7 @@ Il faut croire que la Tragédie de la mort d'Annibal tomba bien précipitamment,
 Le nom d'Annibal porte avec lui une si haute idée du mérite de ce grand Capitaine : qu'entreprendre de le faire paroître sur la Scene, c'est risquer une réussite supérieure, ou une chute bien subite. M. Corneille de l'Isle éprouva ce dernier événement, par les épisodes inutiles qu'il joignit à l'action principale de son poëme dramatique. Annibal, qui seul doit faire tout l'intérêt de la Piéce, est si froid, et agit si peu, que sa mort ne cause ni pitié ni admiration. Ce sujet auroit dû être traité pas Pierre Corneille. Ce grand Poëte, quoique sur son penchant, auroit fait paroître avec dignité le Héros des Carthaginois, et auroit peint cette haine implacable qu'il conserva contre les Romains jusqu'à sa mort.
 
 
-# Tableaux de présence des personnages
+# Tableaux de présence des personnages.
  | I, 1 | I, 2 | I, 3 | I, 4 | I, 5 | I, 6
 PRUSIAS | X | X | X | X | X | X
 ATTALE | X |  |  |  |  | 
@@ -3746,38 +3746,38 @@ ARAXE | X | X | X | X | X |  |  |  | X
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Antiquité et Renaissance
+### Antiquité et Renaissance.
 
 
-#### Œuvres historiquesVies des grands capitainesCornelius Nepos, Quinte-Curce, Justin, Valère Maxime, Julius Obsequens, Œuvres Complètes
+#### Œuvres historiques.Vies des grands capitainesCornelius Nepos, Quinte-Curce, Justin, Valère Maxime, Julius Obsequens, Œuvres Complètes
 Histoires PhilippiquesCornelius Nepos, Quinte-Curce, Justin, Valère Maxime, Julius Obsequens, Œuvres Complètes
 Les Vies des hommes illustres
 Histoire romaine
 
 
 
-#### Œuvres philosophiques et critiquesEthique à Nicomaque
+#### Œuvres philosophiques et critiques.Ethique à Nicomaque
 Poétique
 Les Politiques
 
 
 
-#### Philosophie politiqueLe Prince
+#### Philosophie politique.Le Prince
 Sur la première décade de Tite-LiveŒuvres Complètes
 De rege et regis institutione
 
 
 
-### XVII*e* siècle
+### XVII*e* siècle.
 
 
-#### Théâtre et littératureLe CidŒuvres Complètes
+#### Théâtre et littérature.Le CidŒuvres Complètes
 CinnaŒuvres complètes
 Héraclius Empereur d'OrientŒuvres complètes
 NicomèdeŒuvres complètes
@@ -3791,46 +3791,46 @@ ArtamèneLe Grand Cyrus
 
 
 
-#### CritiqueTrois discours sur le poème dramatiqueŒuvres Complètes
+#### Critique.Trois discours sur le poème dramatiqueŒuvres Complètes
 Pratique du théâtre
 
 
 
-#### GalanterieQuestions d'amour ou Conversations galantes dédiées aux belles
+#### Galanterie.Questions d'amour ou Conversations galantes dédiées aux belles
 
 
 
-#### GazettesHistoire du théâtre françois, depuis son origine jusqu'à présent, avec la vie des plus célèbres Poëtes Dramatiques, un Catalogue exact de leurs Pièces, et des Notes Historiques et Critiques
+#### Gazettes.Histoire du théâtre françois, depuis son origine jusqu'à présent, avec la vie des plus célèbres Poëtes Dramatiques, un Catalogue exact de leurs Pièces, et des Notes Historiques et Critiques
 
 
 
-#### PolitiqueConsidérations politiques sur les coups d'estat
+#### Politique.Considérations politiques sur les coups d'estat
 
 
 
-#### CasuistiqueLa Cour sainte
+#### Casuistique.La Cour sainte
 Dictionnaire des cas de conscienceDécisions, par ordre alphabétique, des plus considérables difficultés touchant la morale et la discipline ecclésiastique
 
 
 
-### Textes traitant le même sujetNicomède, ouv. cit
+### Textes traitant le même sujet.Nicomède, ouv. cit
 Annibal
 Hannibal in Bithynia
 Annibal
 
 
 
-## Travaux historiques et critiques
+## Travaux historiques et critiques.
 
 
-### HistoireDictionnaire du Grand Siècle
+### Histoire.Dictionnaire du Grand Siècle
 Hannibal
 L'Assassinat d'Henri IV, 14 mai 1610*re*
 Histoire Grecque*er*
 
 
 
-### Histoire de la littérature et du théâtreHistoire de la littérature française du XVII*e* siècle
+### Histoire de la littérature et du théâtre.Histoire de la littérature française du XVII*e* siècle
 Mémoires du Grand Siècle
 La Casuistique classique : genèse, formes, devenir
 Thomas Corneille, Protean Dramatist
@@ -3853,10 +3853,10 @@ La Dramaturgie classique en France
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes, et les termes de toutes les sciences et les arts
 Le Grand dictionnaire historique, ou Le Mélange curieux de l'Histoire Sacrée et Profane qui contient en abrégé l'Histoire Fabuleuse des Dieux et Héros de l'Antiquité Païenne
 Dictionnaire françois contenant les mots et les choses, et plusieurs nouvelles remarques sur la langue françoise…
@@ -3864,7 +3864,7 @@ Nouveau Larousse illustré, Dictionnaire universel encyclopédique
 
 
 
-### Grammaire et syntaxeSyntaxe française du XVII*e* siècle
+### Grammaire et syntaxe.Syntaxe française du XVII*e* siècle
 Grammaire du français classique
 
 

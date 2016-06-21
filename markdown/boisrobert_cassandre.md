@@ -16,10 +16,10 @@ A PARIS, Chez AVGVSTIN COVRBÉ, au Palais, en la Galerie des Merciers, à la Pal
 Édition critique établie par Francisco Guevara Quiel sous la direction de Georges Forestier (2002)
 
 
-# Introduction
+# Introduction.
 
 
-## Biographie
+## Biographie.
 
 François Le Métel de Boisrobert naquit à Caen en 1592 [1] dans la Paroisse de Notre-Dame de Froiderue et mourut à Paris le 30 mars 1662 [2]. Il était fils de Jérémie Le Métel, avocat au parlement de Rouen, huguenot converti et de Jeanne de Lion ; celle-ci, entichée de noblesse avait dérogé en épousant Jérémie. Son fils, lui-même avocat, sans avoir exercé longtemps sa profession, arrive à Paris vers 1616 et s'est mis ensuite sous la protection du cardinal du Perron [3]. Il serait entré en 1617 au service de la reine-mère Catherine de Médicis, qu'il suit dans sa petite cour de Blois, en qualité de poète. C'est à sa demande qu'il traduit en français le *Pastor fido*. Il abjura le protestantisme en octobre 1621 [4] et décida d'entrer dans les ordres en novembre 1623, mais ses lettres de diaconat ne datent que de 1634 ; par la suite, il fut en possession du canonicat de Saint-Ouen, à Rouen. Notre abbé n'eut jamais de bonnes relations avec les chanoines du chapitre, lesquels ont payé d'ingratitude le dévouement qu'il eut toujours envers eux, car Boisrobert, il faut le dire, était un homme très généreux et dévoué. Ajoutons qu'aux yeux de ses contemporains il est passé pour quelqu'un de fort peu vertueux et de très étourdi. Il joue jusqu'à perdre sa chemise, boit jusqu'à perdre la raison, adore la bonne chère, s'emporte et blasphème facilement partout et surtout au théâtre, qu'il aime avec autant de passion [5].
 
@@ -36,10 +36,10 @@ En juin 1655, il subit une seconde disgrâce à cause des dévots de la cour qui
 L'œuvre de Boisrobert est assez vaste. Outre les pièces dramatiques collectives qu'il a produites avec les Cinq-Auteurs sous l'égide du cardinal de Richelieu (*L'Aveugle de Smyrne* et *La Comédie des Tuileries*, toutes deux de 1638), il nous a laissé de sa propre plume dix-huit pièces de théâtre où l'on compte une tragédie, huit comédies et neuf tragi-comédies [20]. Il a écrit aussi un roman (*Histoire indienne d'Anaxandre et d'Orazie* [21]), des *Nouvelles héroïques et amoureuses* et un *Recueil de Lettres*. Il fit publier deux volumes d'*Epîtres* en 1647 et en 1659, et diverses poésies dont une *Paraphrase sur les sept Psaumes de la pénitence de David*. Plus anciens sont ses *Ballets de cour*. Il fut aussi l'éditeur de deux autres recueils de poésie : le *Parnasse alarmé ou Parnasse Royal* et le *Sacrifice des Muses au grand Cardinal de Richelieu*, tous deux de 1635, en plus de sa *Réponse au Parnasse alarmé*. Quelques quarante poèmes se trouvent de même dans le *Recueil des plus beaux Vers de Malherbe, Racan, etc.* [22]
 
 
-# Cassandre, comtesse de Barcelone
+# Cassandre, comtesse de Barcelone.
 
 
-## Création de la pièce
+## Création de la pièce.
 
 Dans l'*Avis au Lecteur* de *la Folle Gageure*, Boisrobert annonce la parution en peu de temps d'une nouvelle pièce de théâtre qu'il a déjà sûrement bien avancée, vu la proximité de la publication de celle-ci (juillet 1653) avec celle qu'il promet au public (représentée en octobre). Il s'agit de *Cassandre, comtesse de Barcelone*,
 
@@ -60,7 +60,7 @@ Nous adhérons en grande partie aux remarques faites par Lancaster. En effet, co
 D'autres éléments sont à signaler, comme les variantes des noms des personnages, de temps et de lieux, ainsi que dans l'intrigue. Pour ce qui est des noms, ceux de don Bernardo de Roca et d'Isabelle restent les mêmes, mais celui des autres change : Violante devient Cassandre ; Carlos, Astolfe ; don Jayme de Aragón, Don Pèdre ; don Enrique tout simplement le duc de Cardone et le valet Beltrán devient l'écuyer Béralde, qui dans la pièce française s'exprime comme un courtisan aussi affecté et ampoulé que les gentilshommes de naissance dont il est sensé être le serviteur. Son rôle devient donc fade et artificiel, ce qui n'est pas le cas du valet espagnol, tout à fait cocasse, bouffon et rusé. Par conséquent, l'aspect comique qui fait la fortune de Boisrobert dans d'autres pièces de théâtres (notamment dans *Les trois Orontes* ou dans *La jalouse d'elle-même*) est ici réduit à sa plus simple expression. Rien de ce que dit Béralde ne porte à rire, alors que Beltrán est très désinvolte.
 
 
-## Une tragi-comédie dans les règles
+## Une tragi-comédie dans les règles.
 
 *Cassandre, comtesse de Barcelone* est la sixième tragi-comédie de Boisrobert. Elle fut produite en octobre 1653 pendant la période la plus prolixe de sa vie comme dramaturge, en une période où ce genre théâtral commençait vraiment son déclin. Si *Cassandre* eut le mérite de plaire, par un effet de mode, à un public friand de toutes les galanteries et de toutes les manières affectées dont elle est remplie, en s'accommodant parfaitement à l'humeur du dramaturge et des spectateurs, elle aura pour ennemi implacable le temps et sera victime de l'oubli après un succès éphémère.
 
@@ -69,14 +69,14 @@ Avec l'établissement progressif des règles des unités, de la bienséance et d
 À la fin de la Fronde, Boisrobert reprend de plus belle le genre tragi-comique qu'il avait délaissé pour travailler sur la comédie et donne coup sur coup notre *Cassandre, Les Coups d'Amour et de Fortune* et *Théodore, reine de Hongrie.* Mais si en 1656, *Timocrate* est publié sous l'égide protectrice de la tragédie et connaît le plus grand succès tragique du XVII*e* siècle, on peut comprendre, qu'en comparaison notre « comtesse », n'ait fait qu'un maigre succès en 1653, même si Boisrobert se plie davantage aux règles des unités que son contemporain Th. Corneille. Elle devient d'autant plus régulière que les intermèdes cocasses qui délassaient du pathétique et de l'héroïsme, sont quasiment inexistants, et l'on s'explique mieux que le jeu de l'écuyer Béralde soit très loin de celui du *gracioso* espagnol, le « criado Beltrán », de la *comedia* de Villegas dont il est issu. Car « les personnages bouffons et les scènes comiques sont réservés à la comédie [28] ».
 
 
-## Un sujet non historique et sérieux
+## Un sujet non historique et sérieux.
 
 En effet, *Cassandre* a pour sujet l'impossibilité de la réalisation de la cause d'Etat et de l'union de deux amants qui courent le risque d'une relation incestueuse. On y trouve alors des « accidents graves et funestes » qui mettent en péril la stabilité de l'Etat et le bonheur des personnages principaux. Les conflits qui les opposent entraînent, comme dans la *comedia* de Villegas, des obstacles qui passent par des aspects tels que *el fingimiento* (le faux semblant), *el enredo*, (l'embrouille), *el lance* (le déguisement), *el engaño* (les fausses apparences) et *el desengaño* (la situation caractéristique et logique du désabusé). Si les dramaturges tragi-comiques puisent de préférence dans les fonds romanesques, les nouvelles et les comedias, *Cassandre* ne fait pas exception. Elle développe une aventure fictive qui n'a aucune assise historique et dont le déroulement de l'action est situé dans un lieu réel. Ainsi, l'intérêt de Boisrobert porte sur les passions amoureuses et les problèmes moraux des personnages et non pas sur l'histoire ou l'épopée anciennes, le mariage final venant couronner l'heureux dénouement qui rend la paix et répand la joie parmi eux.
 
 Du point de vue de la forme, *Cassandre* est donc une *tragi-comédie de palais* [29] mais elle va mêler aux problèmes politiques et moraux le thème traditionnel des *amours contrariées*, où l'obstacle principal à la réalisation du mariage provient d'un père qui essaie par tous les moyens de rompre la liaison de son fils avec Cassandre, comtesse de Barcelone, qu'il suppose être sa propre fille et donc la sœur de son amant, la crainte de l'inceste étant à la base de l'intrigue principale de la pièce. De supposés rivaux viennent aussi contrecarrer l'amour des protagonistes ; c'est encore le cas d'Astolfe qui, abusé par les paroles de son écuyer Béralde et le quiproquo provoqué par les lettres qu'on lui a confiées, croit que Moncade – innocent en tout point – fait la cour à son amante la comtesse, qu'il soupçonne à son tour d'infidélité.
 
 
-## Une duplicité d'intrigues
+## Une duplicité d'intrigues.
 
 Si dans *Théodore, reine de Hongrie* (1657), l'action est une et toute classique, Boisrobert reste fidèle à *La mentirosa verdad* de Villegas et au genre tragi-comique en introduisant dans sa *Cassandre* (1654) une deuxième intrigue qui rend l'action encore plus complexe. Plusieurs fils s'enchevêtrent et quelques péripéties se succèdent. Ainsi, à une intrigue principale d'ordre politique et amoureux, il en ajoute une autre strictement amoureuse où il est question de la rivalité entre deux gentilshommes, Don Rémond de Moncade et Don Pèdre d'Aragon, pour l'amour d'Isabelle, sœur du héros. Les rapports entre l'une et l'autre actions sont plus ou moins distants, car la seconde n'a aucune influence sur le dénouement de la première et celle-ci aurait moins de piquant sans l'existence de la seconde. L'intrigue principale repose sur une double substitution de deux petites filles où la crainte d'un faux risque d'inceste causée par la première disparaît lorsqu'on apprend l'existence de la seconde. Une suite de malentendus est provoquée par un échange épistolaire qui a piégé tous les personnages et sa complexité va de pair avec la fonction de la lettre, qui a un rôle de premier ordre dans la pièce. En trois occasions elle est l'instrument d'un constant état de méprise : d'abord, des billets galants adressés à Isabelle sont rendus à Astolfe qui les croit destinés à son amante Cassandre ; ensuite, la lettre du duc adressée à Astolfe induit en erreur notre héroïne et l'amène à accuser injustement Isabelle d'avoir des inclinations incestueuses pour son frère ; enfin, une lettre sous forme de testament de Don Bernard de Rocas est adressée au duc de Cardone qui ne l'a jamais lue, alors qu'elle contient la vérité sur l'échange des petites filles et aurait pu épargner aux amants tant de contrariétés et à l'Etat tant d'ennuis. L'intrigue principale de la pièce est résolue donc *in extremis* par le vieux procédé des reconnaissances qui permet à la fin un dénouement heureux. Dans la pièce espagnole, la présence de don Bernardo de Roca est plus concrète car il intervient dès la *Jornada segunda.* Il se trouve dans la ville de Girona en tant que gouverneur et revient à la cour pour en faire la demande officielle ; profitant de sa présence à Barcelone et voyant les troubles provoqués par l'échange des enfants et les amours contrariées des jeunes gens, il éclaire le mystère qui en a donné lieu. Dans notre *Cassandre*, lorsqu'on apprend par Don Bernard que celle-ci n'est pas la fille du duc mais l'héritière légitime du feu comte de Barcelone, on assiste à l'élimination des tensions et à l'union tant souhaitée entre la princesse et Astolfe, longtemps désespéré par la crainte de commettre un inceste. Ce mariage permet aussi d'éliminer les pressions politiques qui tenaient le vieux Régent angoissé.
 
@@ -85,7 +85,7 @@ L'écuyer Béralde est le pivot sur lequel tournent les intrigues amoureuses. Il
 Dans cette intrigue secondaire nous avons donc deux rivaux qui sont aussi les meilleurs amis. Très civils et policés, au lieu de s'affronter dans un duel à mort comme il arrive dans la source espagnole, Don Pèdre d'Aragon et Don Rémond de Moncade décident de se plier à un commun accord selon lequel l'un cèdera sa place à l'autre s'il est défavorisé par Isabelle, la dame objet de leur rivalité. C'est donc un billet galant qui doit régler les affaires et non pas un duel de cape et d'épée où l'un des deux amoureux devrait nécessairement périr. Ayant perdu, comme il arrive souvent dans les tragi-comédies, on aurait pu espérer une autre réaction de Moncade, qui, jaloux, aurait refusé de s'effacer paisiblement et aurait cherché à brouiller le couple d'amants, à recourir à la violence, à forcer la volonté de la jeune fille ou à l'enlever. Or, il respecte l'accord et s'en va poursuivre une autre conquête selon les maximes « C'est foiblesse aprés tout d'aimer qui nous mesprise. » (v. 856) et « C'est justice aprés tout d'aimer quand on nous aime. » (v. 860). Boisrobert tient donc à ce que ces lois de la galanterie soient observées, puisqu'en tant que « directeur du royaume de coquetterie », il ne veut rien montrer de malséant, surtout parce qu'un rival doit toujours se montrer généreux. Si dans les tragi-comédies l'obstacle principal à la réalisation de l'amour vient normalement d'un adversaire jaloux, ce n'est pas le cas de ces personnages, puisqu'à la fin même de la pièce, une fois que Moncade gagne la main d'Isabelle, son concurrent Don Pèdre ne peut être que content de voir tout le monde heureux : aucun trait de sa jalousie ne nous est montré. Cette attitude permet aussi de ne pas assombrir un dénouement joyeux.
 
 
-## Un seul lieu
+## Un seul lieu.
 
 La concentration de l'action dans un seul lieu commence à s'imposer à partir de 1640. Boisrobert a voulu s'adapter à cette contrainte en faisant que l'action de *Cassandre* se déroule dans un lieu unique : le palais d'un Etat moderne, Barcelone, capitale du comté de Catalogne. On peut bien supposer que tous les événements se déroulent à l'intérieur (la chambre de la princesse, une salle quelconque) ou à l'extérieur d'un palais, n'ayant aucun autre indice de lieu. Par contre, dans la pièce espagnole la diversité des lieux fait partie de la mise en scène. On y trouve des espaces fermés comme les différentes salles du palais (la comtesse dans ses entretiens avec le duc, Isabel ou Carlos ; le duc lisant ses requêtes ou en conférence avec don Bernardo ; la grande salle où Violante annonce à la noblesse la déposition de sa couronne et la déclaration de son mariage avec Carlos) et l'espace ouvert, qui est celui du bord de la mer, où don Jayme et don Ramón se disposent à se battre en duel. Dans *Cassandre*, les événements se succèdent de manière linéaire et ininterrompue tout en intercalant des récits rétrospectifs nécessaires à la compréhension de l'histoire (II, 4 du duc de Cardone ; IV, 5 de Cassandre; V, 8 de Don Bernard de Rocas). On n'y trouve pas de scènes spectaculaires qui détournent l'attention du spectateur. Tout y est conçu de manière à ce que l'effet de suspens se maintienne jusqu'au dernier moment lorsque Boisrobert y introduit un procédé de type *deus ex machina*. On peut imaginer que les événements ont tous lieu dans une seule chambre du palais où les personnages rentrent et sortent successivement. Cependant, deux scènes pourraient se produire l'une à l'extérieur du palais et l'autre dans une autre salle. C'est le cas de la scène 2 de l'acte IV, lorsque le duc prépare le passeport pour le départ de son fils et que Don Lope, le Capitaine des gardes, lui annonce que la comtesse le mande immédiatement. Si le duc prend congé de son fils sans que la princesse s'en aperçoive, il doit se rendre mine de rien chez elle dans la scène suivante. Voilà un possible changement de décor. Mais c'est aussi le cas de la scène 5 du dernier acte, où l'on peut imaginer une situation semblable. Cassandre s'entretient avec Isabelle lorsque Béralde rentre dans sa chambre en annonçant le retour de Don Bernard et d'Astolfe à la cour. Elles y sortent pour rejoindre dans une salle contiguë les nouveaux arrivés.
 
@@ -101,19 +101,19 @@ Mais si on voulait se faire une idée de ce que fut la mise en scène de *Cassan
 On peut donc croire que *Cassandre* reste très proche des prescriptions classiques pour la tragédie et que Boisrobert en ait réussit l'application. Ainsi, pour la mise en scène, la pièce ne nécessite que d'une salle où se déroulent les événements de manière ininterrompue, exception faite des scènes IV, 1 et V, 5 où l'on requiert d'un changement de décor. Pour ce qui est du matériel nécessaire aux acteurs, des lettres sont indispensables ainsi qu'un siège (pour le duc, v. 1052) et peut-être un sceptre (pour Cassandre, v. 1610, 1692).
 
 
-## Une action en douze heures
+## Une action en douze heures.
 
 Quant à la dimension temporelle, on peut supposer que l'action de la *comedia* espagnole se déroule dans une durée minimale de deux jours. Car elle débute certainement pendant l'après-midi de la *Jornada primera*, se prolonge jusqu'au soir du même jour au moment de l'emprisonnement de Carlos par son père dans la tour (fin de la *Jornada segunda*), et reprend le lendemain matin lorsque le duc annonce à la comtesse que Carlos s'est enfuit « oy à las risas del alua [33] » (vers le milieu de la *Jornada tercera*).
 
 Avec l'assemblage de l'action en un seul lieu, Boisrobert s'applique aussi à concentrer les événements sur une durée d'à peu près douze heures. Si les indices de temps ne sont pas toujours très éclairants, ils suffisent pour suggérer que l'action occupe une bonne partie de l'après-midi et du soir d'une seule journée. La pièce commence lorsque le duc dit à son fils : « Enfin voicy le jour tant de fois souhaitté » (v. 1). Les événements évoluent ensuite de manière successive et en toute normalité jusqu'à la fin du second acte lorsque le duc découvre à son fils que Cassandre est sa sœur : « Fuyez, preparez vous à partir dans vne heure, » (v. 626). Ensuite, un autre indice de temps nous est montré quand Moncade, peu convaincu du récit que Béralde lui fait sur l'échec de sa conquête d'Isabelle, demande à Don Pèdre un délai supplémentaire pour savoir de la propre bouche de la princesse le choix qu'elle a fait : « Donnez moy seulement le reste de ce jour, » (v. 739). On peut donc penser qu'à ce stade de la pièce, le soir approche quoiqu'il ne nous soit encore rien dit sur la nuit elle-même. Puis, nous voyons encore le duc dire à son fils, en préparant son passeport pour le départ, lorsque Don Lope vient lui annoncer que la comtesse le mande immédiatement : « Tenez vous prest, je reuiens dans une heure. » (v. 977). Mais c'est Cassandre qui nous éclaire davantage sur ce point quand elle s'adresse à son amant pour le menacer de mort s'il ne lui donne pas une excuse qui justifie son départ inattendu : « Avant la fin du jour, vous en perdrez la vie » (v. 1261). Enfin, c'est encore le Régent qui écrit à Astolfe pour lui dire : « Dérobez vous avant le jour, » (v. 1344), car celui-ci est emprisonné dans la tour par la volonté de son propre père. C'est alors qu'on peut supposer que le soir est déjà arrivé et qu'Astolfe, resté en prison quelque temps, s'en échappe ensuite comme un fugitif. Dans l'acte V, où prédominent les indices de lieu, le rythme des événements s'accélère avec la présence de Don Bernard de Rocas, qui, en liberté, a rencontré Astolfe chemin faisant « A mille pas d'icy » (v. 1560), c'est-à-dire du palais. Quelques heures ont donc dû s'écouler entre la fuite d'Astolfe, sa rencontre avec Don Bernard et leur retour à la cour (il est aussitôt ramené par le premier et ne se déplace jamais jusqu'à la mer, comme dans la pièce espagnole). C'est ici que se font les retrouvailles et que la pièce se termine, une fois que l'intrigue est dénouée et qu'on s'apprête à transmettre les bonnes nouvelles à la noblesse assemblée sur la place du palais. La nuit est alors certainement tombée.
 
 
-## Les personnages
+## Les personnages.
 
 Dans *Cassandre*, les personnages principaux sont d'un rang élevé : il s'agit là d'un trait du genre tragi-comique. On y trouve des princes, de grandes dames, des gentilshommes, des ducs et des comtes, d'illustres personnes qui peuvent être aussi servies par des écuyers, des capitaines de gardes et des valets, dont la manière de s'exprimer ne diffère pas beaucoup de celle de leurs maîtres, bien que leurs rôles restent toujours secondaires.
 
 
-### Cassandre, princesse et sœur malgré elle
+### Cassandre, princesse et sœur malgré elle.
 
 Héroïne de la tragi-comédie, cette jeune princesse de quinze ans est destinée au gouvernement du comté de Barcelone. En atteignant sa majorité, elle est contrainte d'épouser un prince étranger pour rendre la stabilité politique à son Etat et satisfaire aux demandes dont elle est l'objet de la part des monarques voisins. Mais Cassandre est amoureuse d'Astolfe qu'elle compte faire le maître dont Barcelone a tant besoin. Malheureusement, cet amour s'avère impossible parce que selon le Régent, ils sont frère et sœur. Cassandre a toutes les qualités des héroïnes de son rang : elle est belle comme le jour, sage par nature, jalouse de ses devoirs comme souveraine, toujours digne en sa grandeur d'âme malgré l'adversité, respectueuse des lois naturelles et célestes, jalouse de son honneur comme femme et comme souveraine. Ainsi, lorsque Astolfe la quitte et que le duc lui avoue qu'elle est sa fille, Cassandre fait son auto-portrait moral (v. 1445-1450) :
 
@@ -127,21 +127,21 @@ Que la nature imprime en l'ame des Monarques.
 Ainsi, même si elle enrage lorsque son amant la quitte implacablement ou devant l'imposture forcée du duc, elle reste digne dans ses emportements pitoyables, toujours généreuse, jamais malséante.
 
 
-### Astolfe, maître et frère malgré lui
+### Astolfe, maître et frère malgré lui.
 
 Avec Cassandre, il forme un couple d'amoureux très éprouvé par les adversités. Devant l'impossibilité de réaliser son amour, Astolfe vit le drame poignant du bannissement que son père lui impose pour éviter des relations incestueuses avec la princesse. Elu maître et mari par sa bien-aimée, il est un adorateur passionné de la jeune fille plus qu'un gentilhomme soucieux d'honneur et de gloire. Cette attitude le conduit à contester les ordres de son père et même à s'opposer à ses desseins puisque face à l'inceste, Astolfe craint davantage la perte de Cassandre que le châtiment des dieux et des lois de la nature, ses élans amoureux régissant sa conduite. Ainsi, malgré l'interdiction de se présenter devant elle, lorsque le duc le contraint à s'exiler en France, il vient quand même en prendre congé (III, 8). Plus grave encore est l'attitude de défi vis-à-vis de son père sachant que celui-ci n'approuverait jamais un mariage entre lui et la princesse, toujours à cause de leur relation de parenté. Astolfe ose pourtant se présenter au duc comme le mari de sa sœur (de là le titre espagnol de la *comedia* de Villegas : *El marido de su hermana*), pour lui annoncer que Cassandre l'a choisi comme le maître dont l'Etat a tant besoin. La tirade très vigoureuse qui va du v. 549 au v. 568 (II, 4), nous le montre ainsi.
 
 Il faut aussi signaler que Astolfe est largement moins éloquent que Carlos, son homologue espagnol. Carlos est aussi plus prolixe en galanteries et n'a aucune retenue pour dispenser de très longues tirades d'amour à perte d'haleine à sa bien-aimée Violante. En fait, il parle encore moins que son père, qui tient la parole dans 295 vers : il ne prononce lui-même que 247 vers. Quant à Cassandre, elle les devance tous les deux avec 556 vers.
 
 
-### Le duc de Cardone, homme d'État plus que père
+### Le duc de Cardone, homme d'État plus que père.
 
 Le duc de Cardone est bon père et encore meilleur homme d'État. Son opposition au mariage des jeunes gens s'explique par la relation de parenté qu'il suppose exister entre les deux, car il a toujours cru que Cassandre était sa propre fille. Autrement, on pourrait penser qu'il serait tenté, par ambition de pouvoir, de permettre cette liaison et ainsi concentrer tout le pouvoir dans sa propre famille, comme c'est le cas dans la pièce espagnole. Mais le duc a des scrupules parce qu'il craint et respecte les lois divines et s'emploie à séparer les amants par tous les moyens possibles pour éviter le crime incestueux. En tant qu'homme politique, il a aussi une haute opinion de ses devoirs envers l'État. Dans l'exercice de sa Régence, il n'a cherché qu'à réaliser le mieux possible la tâche que feu le comte de Barcelone lui a confié. D'ailleurs, Cassandre le souligne aux v. 1082, 1083 et 1689.
 
 Les tirades du Régent se limitent ainsi à des échanges où la politique est son seul souci, alors que son fils ne lui parle que de son mal d'amour. C'est un sujet qu'on sent qu'il abhorre puisque sa priorité est de marier la jeune comtesse avec un prince étranger, faisant ainsi fi de l'amour qu'elle peut ressentir. C'est peut être l'explication du fait qu'il tient une place bien plus importante qu'Astolfe par le nombre de ses interventions.
 
 
-### Béralde, l'écuyer courtisan
+### Béralde, l'écuyer courtisan.
 
 Étrange personnage que celui-ci. Comme on l'a déjà dit, c'est autour de Béralde que naissent les intrigues amoureuses. Don Pèdre et Moncade lui confient des billets galants qu'il doit porter à Isabelle. Surpris par Astolfe, il commet l'imprudence de dire à celui-ci qu'ils sont pour Cassandre. Voici donc la source des jalousies infondées et de tous les quiproquos dont les tristes conséquences se prolongent jusqu'au dernier moment. Béralde se montre cupide sans malveillance ; il est victime de la peur qu'il a d'être châtié par son maître. Sa réaction devant lui obéit plus à la crainte de la punition qu'au désir de prendre part à une intrigue quelconque. Ecuyer, il est loin d'évoquer le caractère picaresque de Sancho Pansa, son collègue de la Manche ; il ne rappelle en rien non plus le personnage espagnol dont il est issu, Beltrán, plein de verve cocasse et désinvolte. Au contraire, Béralde agit en courtisan. Il parle comme ses maîtres, lance des sentences et fait des tours galants. En peu de mots, il ne fait pas sourire. Voir les v. 163-166 et 208-210.
 
@@ -151,10 +151,10 @@ O dieux ! que je suis interdit,
 O cruelle surprise, insensé qu'ay-je dit ? » (v. 221, 222).  
 
 
-## Les thèmes
+## Les thèmes.
 
 
-### L'inceste
+### L'inceste.
 
 Dans *Cassandre*, on trouve un procédé qui permet le développement du thème de l'inceste. Il s'agit de la substitution d'enfants, qui constitue la matière première et, avec le faux risque d'inceste, le nœud du drame de Boisrobert. C'est un moyen que notre dramaturge avait exploité auparavant dans *Pyrandre et Lisimène*, sa première tragi-comédie, le déguisement étant à l'origine de l'intrigue. Dans *Cassandre* nous avons deux substitutions d'enfants dont les conséquences sont la source des confusions et des angoisses qu'elles provoquent. La première a été commise pour des raisons d'État (par le risque de mort de l'héritière légitime à sa naissance, le Régent remplace celle-ci par sa propre fille sur le trône), la seconde, dont on ne se rend compte qu'au tout dernier moment, a été faite pour éviter l'excès de pouvoir (Don Bernard de Rocas craignait que le Régent concentre en sa seule famille tout le pouvoir politique du comté de Barcelone). Cette dernière substitution apporte le soulagement et un dénouement heureux, après tant d'angoisse par le faux risque d'inceste.
 
@@ -188,7 +188,7 @@ Ie ne voy que la mort qui me puisse guerir. (v. 640-641).
 L'angoisse finit par l'arrivée opportune d'un personnage qui connaît leurs liens réels de parenté. C'est alors que se produit le coup de théâtre. Don Bernard de Rocas, le gouverneur de la comtesse, déclare à la cour qu'elle est bien la fille du feu comte de Barcelone et non pas la fille du duc. Ainsi, Astolfe ne lui est rien et Cassandre peut alors l'épouser (V. 8).
 
 
-### Le travestissement de la réalité
+### Le travestissement de la réalité.
 
 C'est peut être une manière grandiloquente de dire que dans *Cassandre* la feinte passe par le fait qu'on travestit la réalité au moyen de l'imposture. Concrètement, il s'agit de la façon dont l'écuyer Béralde, de peur d'être châtié par son maître pour se trouver, sans sa permission, émissaire inopiné d'amour, change le nom du destinataire des lettres qu'on lui confie pour Isabelle mais qu'il dit être adressées à Cassandre. Comme on l'avait avancé plus haut, cette imposture est à la source des intrigues amoureuses, des rivalités entre les gentilshommes et des jalousies princières.
 
@@ -216,7 +216,7 @@ Ainsi que nostre cœur destournons-en nos yeux,
 Forçons un mouuement qui blesseroit les Dieux. (v. 1587-1592)  
 
 
-## Les enjeux politiques
+## Les enjeux politiques.
 
 Les enjeux politiques, comme dans les tragédies, occupent une grande partie de l'intrigue principale de la pièce. On peut les réduire à deux grands sujets : le mariage royal et l'usurpation du pouvoir, qui est en relation étroite avec l'abdication. Pour ce qui est du premier, il constitue l'unique et plus grande préoccupation du Régent de Catalogne. Celui-ci, devant la situation angoissante de la pression étrangère, souhaite au plus vite la conclusion du mariage de la comtesse Cassandre avec un monarque étranger. D'ailleurs, les ambassadeurs de Roussillon, de Portugal, d'Aragon et de Navarre, ayant eu connaissance de la majorité de la princesse, se sont empressés de demander sa main à la cour de Barcelone. En même temps, dès le début, le duc est absolument opposé à l'idée que la princesse épouse un de ses sujets et prévoyant l'éventuel intérêt de son fils pour elle, il lui interdit expressément de prétende à une telle liaison :
 
@@ -243,7 +243,7 @@ Et voicy maintenant celle qui nous commande,
 Ie m'en vay luy remettre & Sceptre & dignité. (v. 1610-1611)  
 
 
-## Le style
+## Le style.
 
 *Cassandre* est le règne du pathétique amoureux. Nous y trouvons une véritable rhétorique de la passion qui s'exprime par les sentiments exaltés des personnages qui cherchent à sensibiliser le spectateur à leurs ardeurs, leurs violences, leurs troubles, leurs douleurs. Ainsi, ils maintiennent un registre où la surcharge d'émotions est à l'ordre du jour pour mieux émouvoir le public. On y trouve donc une série de figures stylistiques qui illustrent parfaitement ces élans du pathétique amoureux, comme les hyperboles, les antithèses, les figures de répétition, les interrogations oratoires.
 
@@ -328,7 +328,7 @@ Ce grand choix despend d'elle, elle n'en doute pas,
 Et de ce choix dépend le bien de ses Estas (v. 49-50)  
 
 
-## La technique dramatique
+## La technique dramatique.
 
 Certains procédés de technique dramatique sont employés par Boisrobert dans sa tragi-comédie, alors qu'ils tendent à disparaître au fur et à mesure que les règles de la vraisemblance s'imposent dans le théâtre. On y trouve donc de nombreux apartés, des didascalies et quelques monologues. Les lettres et les récits rétrospectifs jouent aussi un rôle de premier ordre dans *Cassandre.* Mais la pièce n'est pas dépourvue de dialogues très vivants et de stichomythies vigoureuses.
 
@@ -348,7 +348,7 @@ qui cesse d'être destiné à exercer une action sur le partenaire pour se conce
 C'est ce qui se passe dans *Cassandre* avec les lettres que Don Pèdre d'Aragon et Don Rémond de Moncade adressent à Isabelle ; c'est aussi le cas de la lettre que le duc envoie à son fils, qui à son tour l'adresse avec la sienne à Cassandre, pour lui montrer son innocence. On y trouve en chacune une *hétérométrie* (combinaison de vers de longueurs variées) et différentes combinaisons de rimes. Ainsi, dans la lettre de Astolfe à Cassandre, nous avons deux *quatrains* (un octosyllabe suivi de deux alexandrins, puis un octosyllabe dans le premier quatrain et un alexandrin, un octosyllabe et deux alexandrins, dans le deuxième) qui présentent un entrelancement de deux types de combinaisons de rimes : *abba* et *abab*. La lettre du duc présente des particularités plus complexes. Elle commence avec un *quatrain* à rime croisée (un alexandrin suivi de trois octosyllabes), puis un *huitain* à rime croisée (un alexandrin, puis un décasyllabe, suivi d'un octosyllabe et d'un décasyllabe, ensuite deux alexandrins et deux octosyllabes), enfin, un *tercet* à combinatoire *aab* (un décasyllabe suivi de deux octosyllabes) [40].
 
 
-# Éditions
+# Éditions.
 
 La première édition de *Cassandre* date de 1654, imprimée à Paris chez Augustin Courbé, *in*-4°, VIII-126 pages. Le *Privilège* date du 12 mars, et l'*Achevé* du 15 mars. On en trouve des exemplaires dans la Bibliothèque Nationale de France 4-YF-156 (4), à l'Arsenal Rf. 5538 et à la Mazarine 10918*65*. Losada Goya [41] fait mention d'une édition de 1656 dont nous n'avons pas trouvé la trace et, d'après lui, elle aurait été imprimée chez Guillaume de Luynes. Après une recherche infructueuse, nous considérons qu'il s'agit d'une méprise de sa part qui pourrait tromper le lecteur. Un petit ouvrage que nous avons trouvé à l'Arsenal Rf. 5539 date aussi de 1654. Il a été imprimé en format in-12, 91 pages, chez Augustin Courbé. Mais il existe de même une édition publiée en Hollande la même année chez Raphäl Smith, à Amsterdam, en format in-8° avec seulement 88 pages. Cet exemplaire se trouve dans la réserve de la Bibliothèque Nationale RES-YF-3724.
 
@@ -397,14 +397,14 @@ Si quelques unes de ses pièces furent appréciées pendant la première moitié
 …as there is nothing noteworthy in the study of character, and as the plot is unnecessary complicated, this success must have been due chiefly to the suspense created by the apparent danger of incest, the heroism of several characters, and the skillful presentation of certain situations, specially of the scène (II, 5) in which the father reveals to his son his belief that the young man is in love with his sister [55].
 
 
-# Texte
+# Texte.
 
 Nous avons choisi pour l'établissement de notre texte la première édition de *Cassandre, comtesse de Barcelone*, publiée donc en 1654 chez Courbé en format in-4° de la BnF. Les variantes trouvées dans tous les autres imprimés sont alors signalées en tenant compte de notre texte de base. Toujours est-il que les ouvrages parus au XVII*e* siècle maintiennent une grande uniformité, si on les compare aux ouvrages imprimés au cours du siècle suivant. Cependant, quelques particularités peuvent être distinguées.
 
 En ce qui concerne l'édition Courbé de l'Arsenal en format *in*-12, les variantes portent principalement sur deux aspects :
 
 
-## L'orthographe
+## L'orthographe.
  * – Sensiblement corrigée pour les mots qui requièrent le doublement de la consonne, comme dans : apprenez (v. 134, 564, 790), appelle (v. 1044), souffert (v. 405) ; ou au contraire, lorsqu'ils n'en exigent qu'une seule, comme dans : loyale (v. 171), égale (v. 172, 530, 531, 1120), ingrate (v. 332, 415), éclate (v. 349, 414, 1035), chute (v. 526), rebute (v. 527), dites (v. 696), fidele (v. 693, 1085), fuite (v. 932), faites (v. 973, 1040, 1221, 1386, 1505, 1678), parfaite (v. 1132), satisfaite (v. 1678).
  * – L'emploi de l'apostrophe : M'a (v. 232), m'asseurez (v. 589), m'allez (v. 902), j'aye (v. 906), l'a (v. 1562).
  * – Le mot « septre » est systématiquement remplacé par « sceptre », (v. 437, 1018, 1123).
@@ -413,12 +413,12 @@ En ce qui concerne l'édition Courbé de l'Arsenal en format *in*-12, les varian
  * – Il convient d'annoter que le v. 1191 (« Dissimulez, mon fils, ou vous nous perdez tous. ») a été complètement omis dans cette édition.
 
 
-## La ponctuation
+## La ponctuation.
 
 Nous signalons toutes les variantes de ponctuation trouvées à l'hémistiche et en fin de vers. Les signes d'interrogation y sont plus abondants, de même que pour les points d'exclamation, pratiquement inexistants dans notre texte de base.
 
 
-### En fin de vers
+### En fin de vers.
 
 v. 11  : entreprendre ;
 
@@ -563,7 +563,7 @@ v. 1652 : temps :
 v. 1670 : mesme.
 
 
-### À l'hémistiche
+### À l'hémistiche.
 
 v. 60 : plus,
 
@@ -601,7 +601,7 @@ Que ie regarde auec effroy.
 Les éditions du XVIII*e* siècle nous apportent aussi des informations intéressantes sur le souci de précision qu'ont éprouvé les imprimeurs en apportant des changements au texte original, non seulement du point de vue orthographique et de la structure, comme on vient de le voir, mais aussi du point de vue lexical et syntaxique. Le sens y est donc quelque peu altéré.
 
 
-## Corrections de sens
+## Corrections de sens.
 Texte de 1654 | Texte de 1737
 v. 60 : que me desplaire | de me déplaire
 v. 81 : Suiuons doncques | Suivons, suivons
@@ -647,7 +647,7 @@ v. 1643 : vous m'auez promis | vous m'aviez promis v. 1644
 
 
 
-## Corrections de syntaxe
+## Corrections de syntaxe.
 v. 223  : je luy deuois dire, | je devois lui dire
 v. 610   : par nous fut appaisée, | fut par nous appaisée,
 v. 813   : je les sçay comprendre : | je sçai les comprendre,
@@ -836,7 +836,7 @@ Sans m'escouter, Madame.
         Allez-y de ce pas,  
 Obeïssez, vous dis-je, & ne repliquez pas.  
 
-    ASTOLFE, *à part.*
+    ASTOLFE, *à part.*.
 Quel accueil, justes Dieux, quelle atteinte à mon ame.   
 
 
@@ -1005,7 +1005,7 @@ M'auez vous pas promis de rendre ce Poulet⁎ ?
     BERALDE.
 I'ay promis l'vn & l'autre, & suis prest à le faire.  
 
-    DON PEDRE,
+    DON PEDRE,.
 Puis qu'ils parlent pour nous, Beralde se peut taire ;  
 Mais il peut découurir aux mouuemens des yeux  
 Et par les actions qui luy plaira le mieux.  
@@ -1067,7 +1067,7 @@ Le vert de l'autre marque vn espoir apparent.
 
 ## SCENE VI.
 
-    ASTOLFE, *Surprenant Beralde luy arrache ces deux lettres.*
+    ASTOLFE, *Surprenant Beralde luy arrache ces deux lettres.*.
 De qui sont ces Poulets⁎ sont-ils d'vne Maistresse.  
 
     BERALDE *surpris*.
@@ -1083,12 +1083,12 @@ O cruelle surprise, insensé qu'ay-je dit ?
     ASTOLFE.
 Pour rendre à la Princesse ?  
 
-    BERALDE. *à part.*
+    BERALDE. *à part.*.
         Ah ! je luy deuois dire,  
 Qu'à sa sœur ces riuaux auoient raison d'escrire,  
 O maudit interest⁎.  
 
-    ASTOLFE, *bas.*
+    ASTOLFE, *bas.*.
         I'ay lieu⁎ d'estre jaloux⁎.  
 Ie les rendray moy-mesme, allez retirez vous.  
 Qui donc si hardiment ose escrire à Cassandre ?  
@@ -1116,7 +1116,7 @@ ASTOLFE, *lit tousiours, & ne void point la Princesse.*
 Ovy, je feray mon chois, ouy, vous aurez un Maistre.  
 Qu'on ne m'en parle plus.  
 
-    ASTOLFE *lit tout haut.* 
+    ASTOLFE *lit tout haut.*.
         *Puis que vous connoissez le sang.*  
 De Moncade Madame.  
 Puis que vous connoissez son rang.  
@@ -1126,7 +1126,7 @@ Daignez connoistre aussi son respect⁎ & sa flame.
 O dieux le lasche tour,  
 C'est ma lettre, & Beralde a trahy mon amour.  
 
-    CASSANDRE *à Moncade.*
+    CASSANDRE *à Moncade.*.
 Quelle lecture occupe Astolfe de la sorte,  
 Il ne nous a point veus, ce billet le transporte⁎,  
 Elle arrache la lettre à Astolfe.
@@ -1136,7 +1136,7 @@ Vous sçauez qu'vne fille a l'esprit curieux,
 D'où vous vient ce billet, voyons qui vous l'enuoye,  
 Vous vous fâchez en vain, il faut que ie le voye.  
 
-    ASTOLFE *bas.*
+    ASTOLFE *bas.*.
 L'ingrate de Moncade a reconneu la main,  
 Et retire⁎ sa lettre.  
 
@@ -1193,7 +1193,7 @@ Ie n'en veux donc plus faire vn secret, ny m'en taire.
     ASTOLFE.
 La declaration ne peut estre plus claire.  
 
-    CASSANDRE *en s'en allant.*
+    CASSANDRE *en s'en allant.*.
 Malheureuse Cassandre.  
 
     ASTOLFE.
@@ -1303,7 +1303,7 @@ Il void venir la Princesse.
 Adieu, vos propres yeux y verront sa foiblesse⁎.  
 
 
-## SCENE II.26
+## SCENE II.26.
 ISABELLE, CASSANDRE.
 
 
@@ -1351,7 +1351,7 @@ Ne me l'ont peu permettre.
         Enfin examinons  
 Si c'est auec raison que nous le condamnons.  
 
-    CASSANDRE *lit la lettre de Moncade.* 
+    CASSANDRE *lit la lettre de Moncade.*.
 Auant que de faire éclatter,  
 La Passion⁎ incomparable,  
 Par qui je me laisse flatter,  
@@ -1679,7 +1679,7 @@ I'ay plus.
     LE DVC.
     Et qu'auez-vous.  
 
-    ASTOLFE [79]
+    ASTOLFE [79].
         Vn plus seur temoignage.  
 Sa parole & sa foy⁎, m'en faut-il dauantage ?  
 
@@ -1879,7 +1879,7 @@ Du frere, dont je viens d'esprouuer l'injustice.
 Puis-je l'aimer encore ? Adieu, quoy qu'outragé,  
 Beralde, ie me sens à vos soins⁎ obligé.  
 
-    BERALDE *seul*. 
+    BERALDE *seul*.
 Ie suis defait de l'vn, l'autre est encore à craindre,  
 Mais ne luy disons rien qui l'oblige à se plaindre :  
 C'est vn esprit fougueux, traittons-le doucement ;  
@@ -2043,14 +2043,14 @@ Que vous m'auez escrit.
 Ouy, jusque dans mes mains vostre lettre est venuë,  
 Et pour responce enfin sçachez que je l'ay leuë.  
 
-    D. PEDRE *embrassant Beralde.*
+    D. PEDRE *embrassant Beralde.*.
 Ah veritable amy, je te croiray toujours,  
 Que ne te doy-je point aprés vn tel secours,  
 
     BERALDE.
 Ie vous l'auois bien dit, je suis franc & fidelle.  
 
-    MONCADE *à l'autre bout du theatre.*
+    MONCADE *à l'autre bout du theatre.*.
 Aprés cette action que puis-je esperer d'elle ?  
 
     D. PEDRE.
@@ -2068,7 +2068,7 @@ D. Pedre se tire à vn coin pour obseruer Moncade.
 
 Que tu souffres, mon cœur, vn estrange⁎ martire.  
 
-    ISABELLE *à part*. 
+    ISABELLE *à part*.
 Ingrat⁎, que ton mespris me va couster de pleurs,  
 Cessons de nous flatter, sans doute il aime ailleurs ;  
 S'il approuuoit ma flame, il m'auroit abordée,  
@@ -2243,7 +2243,7 @@ C'est justice, aprés tout d'aimer quand on nous aime.
 Dégageant⁎ vostre esprit de ce tourment⁎ extresme,  
 Vous sentez bien à qui vous serez obligé.  
 
-    MONCADE *faisant vne profonde reuerence.*
+    MONCADE *faisant vne profonde reuerence.*.
 Ouy je le sens, Madame, & je suis dégagé,  
 Bas
 
@@ -2285,7 +2285,7 @@ Pust percer jusqu'au fonds le secret de mon cœur,
 Et me pust espargner la peine de vous dire,  
 L'excessive douleur qui cause mon martire.  
 
-    CASSANDRE,
+    CASSANDRE,.
 Quelle douleur, qu'entens-je ?  
 
     ASTOLFE.
@@ -2331,7 +2331,7 @@ Princesse, il faut vous dire vn adieu pour jamais [86].
 
 ## SCENE IX.
 
-    CASSANDRE *seule, comme si elle reuenoit d'vne letargie.* 
+    CASSANDRE *seule, comme si elle reuenoit d'vne letargie.*.
 Est-ce Astolfe ? est-ce luy que j'ay veu disparestre [87],  
 Quoy l'ingrat m'abandonne ? Ah cela ne peut estre,  
 Quoy, c'est sa propre voix qui d'vn ton de mespris,  
@@ -2345,7 +2345,7 @@ Qu'on aille aprés ce traistre, & qu'on me le rameine,
 Il ne peut s'échapper [88] à mon juste courroux ;  
 Hola.  
 
-    DON LOPE *vient au bruit.* 
+    DON LOPE *vient au bruit.*.
         Que vous plaist-il, Madame, & qu'auez-vous ?  
 
     CASSANDRE.
@@ -2358,7 +2358,7 @@ I'agis auec ce traistre auec trop de franchise,
 Ouy, ouy je fus trop prompte à luy donner les mains,  
 Et je merité bien sa fuitte, & ses dedains.  
 
-    DON LOPE *bas.*
+    DON LOPE *bas.*.
 Son cœur paroist touché d'vne douleur extresme.  
 
     CASSANDRE.
@@ -2440,7 +2440,7 @@ Allons, tenez vous prest, je reuiens dans vne heure.
 
 ## SCENE III.
 
-    MONCADE *seul, chez la Princesse.*
+    MONCADE *seul, chez la Princesse.*.
 Ovy, ouy, brize tes fers⁎, esclaue malheureux,  
 Porte ailleurs tes respects⁎, & tes soins⁎ amoureux :  
 Et sans plus t'exposer aux mépris d'Isabelle,  
@@ -2460,7 +2460,7 @@ La voicy.
 CASSANDRE, MONCADE.
 
 
-    CASSANDRE *à vn bout de la chambre qui ne void point Moncade.* 
+    CASSANDRE *à vn bout de la chambre qui ne void point Moncade.*.
         Malheureuse ! he n'as tu pas compris,  
 Que ton humeur facile attira ces mépris,  
 Pour m'estre à cœur ouuert librement declarée,  
@@ -2477,7 +2477,7 @@ Ouy, ouy j'en ay trop dit, ouy, j'en ay trop fait voir,
 Ma bouche m'a trahy, & c'est mon desespoir,  
 I'ay trop donné de force au Dieu qui me commande.  
 
-    MONCADE
+    MONCADE.
 Ne vous repentez pas d'vne bonté si grande,  
 Madame.  
 
@@ -2519,7 +2519,7 @@ Et n'est-il pas de vous ! relisez-le.
     MONCADE.
         Ouy, Madame,  
 
-    CASSANDRE *aprés auoir rompu la lettre, qu'elle luy jette.* 
+    CASSANDRE *aprés auoir rompu la lettre, qu'elle luy jette.*.
 Adieu taschez d'en faire autant de vostre flame.  
 
     MONCADE *à part*.
@@ -2542,7 +2542,7 @@ Voicy le Duc, Madame.
 L'amour dessus [91] mon ame auoit trop pris d'Empire⁎,  
 Adieu sortez, Messieurs, que chacun se retire,  
 
-    MONCADE *en faisant vne profonde reuerence.* 
+    MONCADE *en faisant vne profonde reuerence.*.
 à part
 
 Ie ne pers pas l'espoir de l'heur⁎ où [92] je pretens :  
@@ -2576,7 +2576,7 @@ Hola qu'on cherche Astolfe, & qu'on coure aprés luy,
 
 Helas s'il est trouué [93] je vay mourir d'ennuy⁎.  
 
-    CASSANDRE *elle s'assied.*
+    CASSANDRE *elle s'assied.*.
 Enfin nous voicy seuls ; vous pouuez prendre vn siege,  
 Elle luy fait signe de s'asseoir il s'en deffend.
 
@@ -2775,7 +2775,7 @@ L'ingrat,
     CASSANDRE.
 Sa presence a d'abord⁎ dissipé mon courroux.  
 
-    LE DVC *bas à Astolfe.* 
+    LE DVC *bas à Astolfe.*.
 Dissimulez, mon fils, ou vous nous perdez tous.  
 
     CASSANDRE.
@@ -2866,7 +2866,7 @@ Prenez la.
 Cette rigueur, mon Pere, offence la nature⁎,  
 Si je n'ay point failly, Dieux par quelle raison,  
 
-    LE DVC *bas à Astolfe.* 
+    LE DVC *bas à Astolfe.*.
 Marche, ton seul salut consiste en ta prison.  
 
     ASTOLFE.
@@ -2978,7 +2978,7 @@ Mais elle est vostre sœur, la voudriez vous pour femme ?
 Ouy, puis que de ce mal je ne sçaurois guerir :  
 Ie voudrois l'espouser, & puis apres mourir.  
 
-    LE DVC *bas à Astolfe.* 
+    LE DVC *bas à Astolfe.*.
 N'attens que la moitié d'vn souhait si funeste⁎,  
 Demon incestueux, n'espere pas le reste,  
 A la Princesse
@@ -3167,7 +3167,7 @@ Plus je ly cette lettre, & moins je sçay comprendre,
 Quel est ce sens caché que vous croyez entendre.  
 
 
-## SCENE III. 103
+## SCENE III. 103.
 LE DVC DE CARDONE, CASSANDRE, ISABELLE.
 
 
@@ -3223,7 +3223,7 @@ Moy je suis vostre fille ?
     LE DVC.
         Ouy j'en jure les Dieux.  
 
-    CASSANDRE
+    CASSANDRE.
 Croyez vous qu'il en soit, esprit pernicieux ?  
 Dans vne fausseté l'on vient de vous surprendre,  
 Imposteur, qu'est-ce encor qu'on me veut faire entendre,  
@@ -3321,7 +3321,7 @@ Mon Pere, il faut ceder, voicy nostre Princesse,
 Il faut la replacer dans ce trosne vsurpé,  
 Que trop injustement nous auons occuppé.  
 
-    LE DVC
+    LE DVC.
 Ie vay vous obeïr.  
 Le Duc s'en va.
  
@@ -3465,7 +3465,7 @@ Est-il vray, cher amy, qu'encor je vous reuoye ?
 Embrassez moy, mon fils, vous venez à propos,  
 Pour rendre à nos espris le calme & le repos.  
 
-    ASTOLFE *à part.*
+    ASTOLFE *à part.*.
 Et pour combler le mien d'ennuis⁎ & de disgrace⁎,  
 
     LE DVC.
@@ -3701,7 +3701,7 @@ Et ledit Sieur de Bois-Robert Abbé de Chaſtillon, a cedé & tranſporté ſon 
 Les Exemplaires ont eſté fournis.
 
 
-# LexiqueDictionnaire de l'Académie française(Ac. 94)
+# Lexique.Dictionnaire de l'Académie française(Ac. 94)
 Dictionnaire historique de la langue française(DHLF)
 Le français classique, lexique de la langue du XVII*e* siècle*e*(C)
 Dictionnaire du français du XVII*e* siècleD
@@ -3711,12 +3711,12 @@ Introduction à la langue du XVII*e* siècle. I. Vocabulaire(S.)
 Abord (d')Dès l'abord, tout de suite. (*D*.)V. 1190AdresseMoyen ingénieux. (*D*.)V. 92AirExpression du visage. Manière d'agir, comportement. (*D*.)V. 700, 730AppasAttraits physiques. (*S*.)V. 146, 995, 1014ArdeurVif empressement, amour. (*D*.)Épître, v. 98, 412, 454, 1085, 1103, 1112, 1116ArrêtéNettement déterminé. (*D*.)V. 81AssuréCertain, incontestable. (*D*.)V. 821Assurer(s')Arrêter, faire prisonnier, s'emparer de quelqu'un. (*D*.)V. 1222AutelSens figuré s'étant employé dans le contexte du mariage. (*DHLF*)V. 951AventureDestin, sort, chance. (*D*.)V. 155, 665BizarreFantasque, extravagant, inconstant. (*D*.)V. 43, 1134, 1272BlesséeTroublée. (*D*.)V. 140BrigueParti, cabale. (*D*.)V. 37, 603Bruit*fig.* Querelle. (*D*.).V. 277Se dit figurément de la renommée, de la réputation. (*F*.)V. 732CapriceActe insensé. (*D*.)V. 160, 366, 1128, 1512CharmeSortilège, puissance magique. (*D*.)V. 639CharmerSoumettre à sa volonté, maîtriser en jetant un sort. (*D*.)V. 435, 1521, 1548Chaud*fig*. Ardant, emporté. Délicat, qu'on ne peut toucher. (*D*.)V. 213ChimèreIdée extravagante. (*D*.)V. 839, 1602ConcerAction de se concerter, accord préalable. (*D*.)V. 1271ConférenceEntretien, conversation privée. (*D*.)V. 519CongéPermission. (*D*.)V. 32, 728ConnaîtreReconnaître. (*D*.)V. 1063, 1541CrimeTâche, faute grave. (*D*.)V. 817, 1163, 1315, 1348, 1358, 1371, 1403, 1418, 1637CuisantOn le dit des choses qui causent de la douleur douloureux. (*F*.)V. 377DécevoirTromper, induire en erreur. (*D*.)V. 687, 1577DécouvrirFaire connaître ce qui était caché. (*Ac. 94*)V. 419, 569DégagerRendre libre. Retirer une chose qu'on avait mise en gage. (*C*.) V. 814, 861DéguiserCacher. (*C*.)V. 1283, 1420, 1429DélicatsD'une sensibilité excessive en matière de goût et de plaisir. (*D*.)ÉpîtreDemeureRetard, délai. (*D*.)V. 976DemeurerSubsister, rester ferme. (*D*.)V. 78, 595DénaturéParticipe passé substantivé avec le sens de « dépouillé de sentiments naturels ». Le sens normatif et moral de « gâter les sentiments naturels de qqn » est enregistré en 1611. (*DHLF*).V. 512DéplaisirÉvoque les souffrances les plus profondes, qui génèrent le désespoir. (*S*.)V. 294Dérober(-s)S'évader, s'échapper. (*D*.) V. 1344DestinProjet. (*D*.) V. 126Devant*adv.* Avant, auparavant ; (1328) : *loc. conj*. Avant que. V. 32Diligence (en)Avec rapidité. (*D*.)V. 973, 1040, 1562, 1563DiscoursSe prend pour ce que l'on récite. Entretien. (*S*.)V. 63DisgrâceMalheur, infortune. (*D*.)V. 675, 1581Dispenser (se)Se permettre de, s'autoriser. (*D*.)V. 230ÉclatGloire, situation brillante. (*D*.)V. 1167, 1517, 1614, 1666Action de divulguer ; scandale. (*D*.)V. 1459ÉclaterSe manifester, apparaître ouvertement. Déclarer clairement et publiquement ses sentiments. (*D*.)V. 269, 414, 1035, 1492ÉconomieRépartition de la matière dans les diverses parties du plan d'une œuvre littéraire. (*D*.)AvertissementEffetActe, réalisation. (*D*.)V. 711EmpireÉtat, royaume. (*D*.)V. 440, 1036EmportementsArdeur, mouvement de l'âme causé par une passion. (*D*.)V. 411, 1386EmporterEffacer, faire oublierV. 432Causer de la colère.V. 1451S'emporterSe laisser aller par une passion, (amour, désespoir, auj. seulement colère), passer les bornes de la bienséance, la justice. (*D*.)V. 1425Ennui(-s)Chagrins, déplaisirs, soucis. (*Ac. 94*).V. 1051, 1077, 1223, 1581EntérinerTerme de Palais. Donner sentence ou arrêt sur une requête. Ce mot s'est dit apparemment d'abord des lettres de restitution en entier ; et depuis s'est étendu à toutes sortes de requêtes. (*F*.)V. 1181ÉquipageCostume, façon de se vêtir. (v. 970) : Ensemble des êtres et des objets nécessaires à un voyage. (*D*.)V. 874EspritSouffle, âme, au sens matériel. Intelligence, inspiration, talent, au sens moral. Cœur sentiment.V. 5, 1082, 1274, 1309,1347, 1364, 1402, 1407*Au pl*. Vie, énergie morale et intellectuel. (*C*.)V. 1250ÉtonnerFrapper d'une émotion violente. (*D*.)V. 257, 1477ÉtrangeExtraordinaire, anormal, scandaleux. (*D*.)V. 761, 964, 1649ÉtudeSoin particulier apporté à quelque chose. (*D*.)V. 1108FaiblesseInconstance, imbécilité, facilité de se laisser aller.V. 322, 856On le dit encore quand une femme a succombé à la passion qu'elle a pour un homme. (*F*.)V. 1566Principal défaut, point faible. (*D*.)V. 1603FaixPoids. (*C*.)V. 1605FantaisieImagination, esprit. (*D*.)V. 1285FatalQui apporte la douleur. (*D*.)V. 1124, 1468FavoriserAccorder sa préférenceV. 187Accorder son appui, avantager. (*D*.)V. 1707FaveurDésigne les marques de prédilection à l'être dont on a reconnu le service. (*S*.)V. 509FersParticulièrement, état de l'amoureux soumis à sa maîtresse. (*D*.)V. 791, 978, 1524FeuPassion, amour. (*D*.)V. 400, 667, 1114FierFarouche, sauvage, cruel. (*D*.)V. 19FlammeAmour. (*D*.)V. 96, 127, 187, 1005, 1116, 1288, 1546FoiFidélité à un engagement, loyauté. Amour fidèle. Sincérité, confiance. (*D*.)V. 559, 597, 1214, 1346, 1363, 1544, 1655, 1700FortuneChance.Avertissement, 502, 825, 982, 1081, 1519Situation sociale.V. 204Destinée, sort. (*D*.)V. 1129Foudre (coup de)Événement subit et désastreux. (*D*.)V. 1407FourbeCaractère ou action d'un fourbe ; malhonnêteté. (*D*.)V. 646, 1442, 1448FourberTromper par ruse, faire des dupes. (*D*.)V. 210, 651FranchiseParticulièrement, en poésie, état de celui qui n'est pas asservi par l'amour. (*D*.)V. 123, 857FrénésieFolie furieuse. (*D*.)V. 1284FrontImprudence, effronterie. (*D*.)V. 878, 1375FunesteTragique, violent, en parlant de la mort. (*D*.)V. 623, 1292Qui cause la mort ou qui en menace, sinistre, fatal. (*C*.)V. 1400FureurSe dit des violents mouvements de l'âme. (*F*.)V. 1035, 1247GalammentAvec goût, élégance, habilité. (*D*.)V. 210GarantirPréserver de quelque mal ou accident. (*Garentir* chez *F*.)V. 1627GênerTorturer, soumettre à une contrainte pénible. Causer une souffrance morale. (*D*.)V. 777, 989, 1347, 1364, 1402, 1545Généreux(-euse)De race noble, brave. Magnanime, sans mesquinerie. (*D*.)V. 93, 810, 1070, 1139, 1529GloireHonneur, considération, qualité flatteuse. Réputation intacte aux yeux d'autrui et aux yeux de soi-même.Épître, v. 14, 430, 567, 713, 1006, 1499, 1514, 1520, 1530, 1694Orgueil, vanité. (*D*.)V. 147, 1263GrâceFaveur. Attrait. (*D*.)Épître, v. 1181HeurBonne fortune. (*Ac. 94*)V. 430, 1038HumeurCaractère, tempérament, disposition habituelle d'esprit. (*D*.). Se dit aussi d'une disposition accidentelle, d'un état d'âme passager. Disposition, au point de vue intellectuel. (*C*.)V. 48, 76, 297, 501, 1128, 1272IdéeImage, dessin, peinture. (*D*.)V. 1089IndiscretQui manque de discernement, de jugement. (*D*.)V. 53IndustrieActivité ingénieuse, démarche adroite, habileté. (*D*.)V. 716IngénumentFranchement, loyalement. (*D*.)ÉpîtreIngratC'est celui qui ne sait pas reconnaître ce qu'on fait pour lui, dans l'ordre politique, social ou sentimental. (*S*.)V. 312, 762, 993, 1137, 1187, 1242, 1294IngratitudeS'inscrit dans le même champ notionnel que la trahison, mais le dépasse. (*S*.)V. 1179, 1303InjureDommage, tort causé.V. 645, 1369Injustice. (*D*.)V. 1173InjusteInjustifié (*D*.)V. 1147, 1235, 1245, 1476InsigneRemarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part., par exemple : ce Procureur a la réputation d'un insigne chicaneur. (*F*.)V. 664InterditTroublé, décontenancé. (*D*.)V. 221, 1162Intéresser(s')Prendre parti, se passionner pour ou contre. (*D*.) V. 191IntérêtCe qui touche à une personne par la part qu'elle y prend. Affaire, question, souci qui la regarde. (*C*.). Parti, cause, défense. (*D*.)V. 79, 225, 1642, 1684Jaloux(-se)Attaché à, désireux de. (*D*.)V. 137, 225, 1272JouerSe moquer de quelqu'un ou de quelque chose. (*D*.)V. 1271JusticeÉquité (*D*.)V. 159, 1139, 1148, 1217, 1488, 1502, 1697LâcheMou, sans force. (*D*.)V. 1073, 1448LangageDiscours, paroles. (*D*.)V. 99LicenceLiberté. (*D*.)V. 1320LieuMotif légitime. (*D*.)V. 225LibrementVolontiers (*D*.)V. 230LoisOrdres.V. 1195, 1260, 1311, 1487, 1522Dans le langage de la galanterie, lois de l'amour, asservissement à la personne aimée. (*D*.)V. 1071, 1269ManderDésigne le fait de communiquer une nouvelle ou un avis, par lettre ou par messager. (*S*.)V. 236MéchantCondamnable. (*D*.)V. 1274MéconnaissantIngrat. (*C*.)V. 1166MériteHabileté, talent. Importance d'une chose. (*D*.)V. 431, 1022, 1101, 1120MisérableMalheureux, digne de pitié. (*D*.).V. 565, 1144, 1316Se prend aussi au sens défavorable pour exagérer un mépris. (*C*.)V. 1376MurmureRéprobation.V. 55MurmurerGronder, faire du bruit. S'entretenir mystérieusement de. (*D*.)V. 90NatureSe dit de l'action de la Providence qui agit en tous les corps. Se dit aussi en parlant de ce qui est ordinaire, qui arrive toujours. Se dit aussi d'une connaissance qui est née avec nous de ce qui est bon, ou mauvais, de ce qui nous sert, ou qui nous nuit. (*F*.)V. 1149, 1195, 1225, 1370, 1450, 1454, 1494, 1498, 1618ObjetChose où l'on arrête sa pensée, son cœur, son but, ou son dessin. (*R*.) Se dit aussi poétiquement des personnes qui donnent de l'amour. (*F*.)V. 146, 187, 363, 549, 622, 1285, 1298, 1300, 1588OutrageInjustice, excès de violence.V. 1231Offense, atteinte à l'honneur. (*D*.)V. 1281PartiSe dit proprement du « traité ». Il y a au fond une idée de partage et « parti » n'est que le participe passé, employé comme nom, du vieux verbe « partir ». (*C*.)V. 91PassionSentiment. (*D*.)V. 350, 549PerfideLe fait de trahir la foi dans parole donnée, dans l'ordre chevaleresque comme dans l'ordre amoureux. (*S*.)V. 1134, 1150, 1187PouletSignifie aussi un petit billet amoureux qu'on envoie aux Dames galantes, ainsi nommé, parce qu'en le pliant on faisait deux pointes qui représentaient les ailes d'un poulet. On les appelle à présent 1690 *billets galants, billets doux*. (F.)V. 178, 219PresserSerrer de près.V. 936, 1104, 1110Pressions physiques, psychologiques ou morales sur quelqu'un pour arriver à ses fins. (*S*.)V. 1124, 1294PrévaloirL'emporter sur, avoir l'avantage sur. (*D*.)V. 89PriserEstimer, évaluer, peser. (*D*.)V. 161, 793PrixRécompense.V. 379Valeur, mérite. (*D*.)V. 464QuerelleSe dit de l'intérêt d'autrui quand on en prend la défense. (*F*.)V. 876Rassis*fig*. Calme, mûri par la réflexion. (*D*.)V. 1357, 1452RassurerRendre plus sûr, sans danger (avec un nom de chose). (*D*.)V. 8, 1714RaviPorté à un état de bonheur extrême V. 159Enlever par force. (*S*.)V. 1613RebuterRepousser quelqu'un avec dureté. (*D*.)V. 527RegardsEgards. (*C*.)V. 1110Respect(-s)Égards, considérations. (*D*.)Épître, v. 244, 979, 1059, 1106, 1199, 1209, 1228, 1255, 1267RetirerDégager une chose d'un lieu où elle était engagée. (*F*.)V. 254RetraiteAsile, refuge. Vie retirée. (*D*.)V. 1345, 1501, 1513RiséeMoquerie.V. 1021SensJugement. (*D*.)V. 1162, 1357, 1482SensibleQui frappe les sens. (*C*.)V. 1348, 1403SentimentsOpinion, avis.V. 1088Dispositions. (*D*.)V. 1529SoinIntérêt porté à quelque chose.V. 1171*Au pl*. Assiduités, marques de dévouement à la personne aimée. (*D*.)V. 679, 979, 1055, 1109SouffrirEndurer, supporter, tolérer. Aussi, le sens actuel d'éprouver une douleur physique ou morale. (*D*.) V. 13, 966, 975, 1230SuccèsIssue d'une affaire. Se dit en bonne et en mauvaise part. (*F*.)V. 397SupposerSubstituer, mettre à la place (en général frauduleusement). (*D*.)V. 602, 611, 1624SurprendrePrendre à l'improviste. (*C*.)V. 1477TendresseDélicatesse. (*D*.)V. 333, 554, 1061, 1256TenirRetenir. (*D*.)V. 346TourRuse. (*D*.)V. 646Tourment*fig*. Souffrance morale. (*D*.)V. 274, 861TransportManifestation d'une passion, en particulier de l'amour. (*D*.)V. 759TransporterEmouvoir fortement, rendre fou. (*D*.)V. 248, 557, 1493TremperS'entend au sens moral. Tremper dans un crime, dans une conspiration, c'est en être complice, en avoir connaissance sans l'avoir révélée. (*F*.)V. 1417Troublé(-e), troublerFou, devenir fou. (*D*.)V. 394, 524, 1285, 1377, 1421, 1712VertuPuissance.ÉpîtreQualités, avantages. (*D*.)V. 1518VœuDésir tendu vers un objet. (*S*.)V. 289, 1703ZèleDévouement. (*D*.)ÉpîtreZéléÉpris de, passionné pour. (*D*.)V. 1103
 
 
-# Tableau comparatif
+# Tableau comparatif.
 
 Nous proposons un tableau comparatif du déroulement de l'action dans les pièces respectives de Boisrobert et de Villegas. Ensuite on pourra trouver un relevé des extraits de *La mentirosa verdad* avec les numéros de scène et de vers qui correspondent à la adaptation française faite par Boisrobert dans sa *Cassandre*.
 
 
-## Tableau 1
+## Tableau 1.
 Cassandre, comtesse de Barcelone | La mentirosa verdad o el marido de su hermana
 ACTE I | JORNADA PRIMERA
 **1.** Le duc de Cardone, Régent de Barcelone, entretient son fils Astolfe du besoin impérieux qu'a l'Etat de marier la princesse Cassandre, héritière du Comté, avec un prétendant étranger. Il ajoute que la comtesse a refusé toutes les propositions qu'on lui a faites et que les pressions montent à l'extérieur comme à l'intérieur de l'Etat. Il confie donc à son fils la tâche de la persuader de se marier. Astolfe est contrarié puisqu'il est lui-même amoureux de Cassandre, et celle-ci l'est aussi de lui. Mais il cède enfin à la demande de son père. | Enrique, duc de Cardona, Régent de Barcelone, entretient la princesse Violante du besoin impérieux qu'a l'Etat de son mariage avec un prince étranger. Elle refuse cette contrainte et se déclare libre de choisir un mari de son goût parmi ses sujets. Carlos ajoute qu'il préfère la mort plutôt que de la voir épouser quelqu'un d'autre que lui. Le duc s'en va non sans confier à son fils la tâche de la persuader de se marier. Il promet de la convaincre malgré lui, malgré elle, puisqu'ils sont amoureux l'un de l'autre.
@@ -5884,13 +5884,13 @@ alegre fin tanto mal. (v. 1693-1695)
 FIN
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions
+## Éditions.
 
 
-### Textes des XVII*e* et XVIII*e* siècles. ***Cassandre, comtesse de Barcelone****Boirobert**Cassandre, Comtesse de Barcelone**in*
+### Textes des XVII*e* et XVIII*e* siècles. ***Cassandre, comtesse de Barcelone***.*Boirobert**Cassandre, Comtesse de Barcelone**in*
 
 
 BnF: 4-YF-156 (4).*Boirobert**Cassandre, Comtesse de Barcelone**in*
@@ -5914,7 +5914,7 @@ BnF : 4-YF-156 (5)*Boisrobert**Pyrandre et Lysimène ou l'Heureuse tromperie*
 Bibliothèque de la Sorbonne : R.ra. 409
 
 
-### Textes espagnols du XVII*e* siècle. ***El marido de su hermana o La mentirosa verdad****in*
+### Textes espagnols du XVII*e* siècle. ***El marido de su hermana o La mentirosa verdad***.*in*
 
 
 Bibliothèque Nationale de Madrid : T-i / 30 (v. 30)*in*
@@ -5923,7 +5923,7 @@ Bibliothèque Nationale de Madrid : T-i / 30 (v. 30)*in*
 BnF : YG-311 (6)
 
 
-## Ouvrages généraux*Antoine**Histoire de la Littérature française au XVII*e* siècle. L'époque de Pascal*
+## Ouvrages généraux.*Antoine**Histoire de la Littérature française au XVII*e* siècle. L'époque de Pascal*
 *Aquien**La versification appliquée aux textes*
 *Diccionario de la Academia española*
 *Dictionnaire de l'Académie française*
@@ -5947,7 +5947,7 @@ BnF : YG-311 (6)
 
 
 
-## Ouvrages sur le théâtre*Baby**La tragi-comédie de Corneille à Quinault*
+## Ouvrages sur le théâtre.*Baby**La tragi-comédie de Corneille à Quinault*
 *Baillet**Jugemens des Savans sur les principaux ouvrages des auteurs. Revûs, corrigés, & augmentés par M. de la Monnoye de l'Académie Françoise*
 *Barrera y Leirado**Catálogo bibliográfico y biográco del Teatro antiguo español, desde sus orígenes hasta mediados del siglo XVIII*
 *Chappuzéau**Le theatre françois divisé en trois livres*
@@ -5976,7 +5976,7 @@ BnF : YG-311 (6)
 
 
 
-## Ouvrages sur Boisrobert*Cauchie**Epîtres en vers de Bois-Robert. Edition critique avec un commentaire tiré de documents pour la plupart inédits*
+## Ouvrages sur Boisrobert.*Cauchie**Epîtres en vers de Bois-Robert. Edition critique avec un commentaire tiré de documents pour la plupart inédits*
 *Crépet**Les poètes français*
 *Fournel**Les contemporains de Molière. Recueil de comédies rares ou peu connues jouées de 1650 à 1680. Avec l'histoire de chaque théâtre, des notes et notices biographiques et bibliographiques*
 *Hippeau**Les écrivains normands au XVII*e* siècle*

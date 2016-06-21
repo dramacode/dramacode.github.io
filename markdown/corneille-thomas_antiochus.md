@@ -17,7 +17,7 @@ A Rouen, Et se vend A PARIS, Chez LOUIS BILLAINE, au Palais au second Pilier de 
       master 1 sous la direction de Georges Forestier (2000)
 
 
-# Introduction
+# Introduction.
 
 Au cours du XVII*e* siècle, le théâtre français connaît des transformations considérables. Si la tragédie et la comédie constituent aux yeux de la postérité les deux genres par excellence du théâtre classique, un nouveau genre, la tragi-comédie, a fortement marqué cette période. Les dramaturges tels Hardy, Rotrou, Du Ryer, de Scudéry, Boisrobert, Quinault ou Thomas Corneille pratiquèrent longtemps ce genre. D'origine italienne, la tragi-comédie fait son apparition en France dans la seconde moitié du XVIe siècle. Destinée à un public populaire, elle se caractérise dans la première moitié du siècle par son aspect irrégulier : les coups de théâtres, les déguisements, la diversité des lieux sont très fréquents sur scène. La tragi-comédie est à son apogée dans les années 1630-1640 ; elle connaît un succès bien supérieur à la tragédie et à la comédie. Théâtre de l'action, les représentations très animées avec des combats, des duels et des affrontements réjouissent les spectateurs de l'époque. Mais à partir des années 1660, la tragi-comédie se décline petit à petit pour disparaître complètement vers 1670 et laisser place à un nouveau genre, la tragédie héroïque. *Ptolomée* de Charenton et *Faramond* de Lapoujade en 1672 sont ainsi les deux dernières tragi-comédies du siècle. Après *Antiochus*, en 1666, aucune tragi-comédie ne sera jouée à l'hôtel de Bourgognes. La tragédie et la comédie sont très prisées du public : cette même année, Racine écrit *Alexandre le Grand*, Corneille *Agésilas* et Molière le *Misanthrope* et *Le médecin malgré lui.*
 
@@ -26,10 +26,10 @@ La tragi-comédie a connu une importante évolution tout au long du siècle : l
 Destinées à un public plus raffiné, les pièces doivent respecter les valeurs morales des spectateurs. Les scènes violentes et obscènes si fréquentes dans la première moitié du siècle tendent à disparaître. La tragi-comédie devenue régulière, présente des similitudes de plus en plus importantes avec la tragédie. Certes, les coups de théâtre et les péripéties sont toujours présents sur scène mais les dramaturges insistent davantage sur les sentiments des héros ainsi que sur leurs traits psychologiques. Les déguisements des personnages sont remplacés par les déguisements des sentiments. « La tragi-comédie nous met devant les yeux de nobles aventures entre d'illustres personnes menacées de quelque grande infortune, qui se trouve suivie d'un heureux evenement » définit Chappuzeau en 1674. Ainsi, parfois seul le dénouement heureux à la fin de la pièce permet de distinguer une tragi-comédie de la tragédie. Dans sa thèse consacrée à l'œuvre de Thomas Corneille, Gustave Reynier répertorie les pièces du dramaturge et les classe selon différentes catégories. Or *Antiochus*, tragi-comédie régulière est classée avec les tragédies et fait l'objet d'une même étude. Cette confusion montre à quel point ce genre a connu des variations tout au long du siècle.
 
 
-# Chapitre premier : présentation
+# Chapitre premier : présentation.
 
 
-## Repères biographiques
+## Repères biographiques.
 
 La biographie de Thomas Corneille est étroitement liée à celle de son illustre frère, Pierre Corneille. Mais si ce dernier est, de l'avis général, « le Père du théâtre français », son frère dont le nom n'a pas été retenu par la postérité, est pourtant avec *Timocrate* l'auteur du plus grand succès du XVII*e* siècle.
 
@@ -52,7 +52,7 @@ En 1687, Perrault, à la suite de la lecture de son poème « le siècle de Lou
 Thomas Corneille qui fréquente à présent de moins en moins les salons et les sociétés mondaines va renoncer presque complètement au théâtre pour se consacrer aux questions du langage. Ainsi, il publie en 1687 *Notes sur les remarques de Vaugelas*. L'auteur de *Timocrate* devient à présent un véritable érudit, à l'aide de quelques savants et artistes il écrit le *Dictionnaire des termes d'art et de Science* qui est censé concurrencer le *Dictionnaire* de Furetière, alors exclut de l'Académie française. Quelques années après, Thomas publie une édition critique des *Remarques de Vaugelas*. La même année, il achève de publier *Métamorphoses* et *Pièces choisies* d'Ovide, traduites en vers français et dédiés au Dauphin. En 1701, il fait partie de l'Académie des inscriptions. En 1709, devenu aveugle, le courageux érudit publie son dernier ouvrage, le *Dictionnaire universel géographique et historique*. Epuisé par tant d'années de travaux, il s'éteint le 8 décembre 1709.
 
 
-## Création et accueil de la pièce
+## Création et accueil de la pièce.
 
 Antiochus, dédié au Duc de Guise est joué pour la première fois le 9 janvier 1666, chez le Duc de Créqui en l'honneur du mariage du Marquis de Roure. La pièce ensuite représentée à l'Hôtel de Bourgogne le 25 mai connaît un succès considérable. Pour en témoigner, nous pouvons citer la lettre en vers de Robinet, datant du 29 mai c'est-à-dire quelques jours après la première représentation. L'auteur fait l'éloge de la pièce et en profite aussi pour présenter le sujet ainsi que les comédiens :
 
@@ -102,10 +102,10 @@ De ce que je dois publier,
 Font des mieux, et sont très-brillantes. [3]  
 
 
-## Plan de la pièce
+## Plan de la pièce.
 
 
-### ACTE I
+### ACTE I.
 
 Scène 1 : A l'occasion de son mariage avec Stratonice, Séleucus, roi de Syrie, offre à son fils Antiochus une partie de son royaume, la Phénicie. Par ce geste de générosité, il espère guérir le prince qui se meurt d'un mal mystérieux. Mais dans cette scène d'exposition, Antiochus qui s'entretient avec Tigrane son favori, refuse l'offre de son père. Tigrane qui évoque avec beaucoup d'enthousiasme les préparatifs du mariage du roi, prévu dans la soirée, s'étonne de voir le prince si triste et réservé. Celui-ci qui désire s'éloigner quelque temps de la cour demande à Tigrane d'aller voir son père et lui demander la permission de partir.
 
@@ -118,7 +118,7 @@ Scène 4 : Phénice, la confidente de Stratonice fait remarquer à sa maîtress
 Scène 5 : Séleucus vient voir Stratonice pour lui informer des préparatifs du mariage qui doit bientôt les unir tous les deux. Il est cependant préoccupé par l'état de santé de son fils qui semble s'affaiblir de plus en plus. Aussi demande-t-il à sa fiancée d'aller voir le prince pour connaître les maux de son chagrin.
 
 
-### ACTE II
+### ACTE II.
 
 Scène 1 : Arsinoé, la nièce du roi, vient de trouver la boîte contenant le portrait de Stratonice oubliée par Antiochus dans le jardin. Elle confie à Barsine, sa confidente, ses soupçons à l'égard du prince. Pour connaître la vérité elle décide de le tester en plaçant sous ses yeux la fameuse boîte. Avant son arrivée la princesse remplace le portrait de Stratonice par le sien.
 
@@ -129,7 +129,7 @@ Scène 3 : Stratonice vient de nouveau voir le prince pour connaître les raiso
 Scène 4 : Tigrane à son tour veut empêcher Antiochus de partir, mais en vain. Tous deux vont voir le roi.
 
 
-### ACTE III
+### ACTE III.
 
 Scène 1 : Séleucus qui ne comprend pas la décision de son fils souhaite avoir des explications. Celui-ci refuse de se confier et le prie de le laisser partir.
 
@@ -144,7 +144,7 @@ Scène 5 : Arsinoé, qui ne comprend pas pourquoi le roi veut la marier à Anti
 Scène 6 : Tigrane qui ignore tout de la vérité se désespère. Arsinoé fidèle à son amour rassure le malheureux amant et lui promet de tout arranger.
 
 
-### ACTE IV
+### ACTE IV.
 
 Scène 1 : Stratonice, convaincue que son amour n'est pas partagé par Antiochus, exprime sa tristesse dans des stances.
 
@@ -157,7 +157,7 @@ Scène 4 : Antiochus seul face à Stratonice lui déclare enfin son amour. Cell
 Scène 5 : Antiochus dévoile aussi son secret à Arsinoé et lui reproche d'avoir substitué le portrait.
 
 
-### ACTE V
+### ACTE V.
 
 Scène 1 : Le roi fait venir sa nièce une dernière fois pour la persuader de renoncer à Tigrane et d'épouser son fils. Après l'avoir longuement écoutée, la princesse lui apprend enfin la vérité : La femme pour qui se meurt son fils n'est autre Stratonice.
 
@@ -170,13 +170,13 @@ Scène 4 : le roi apprend à Stratonice qu'elle est aimée d'Antiochus. Celui-c
 Scène 5 : Le roi ému par tant d'estime de la part de son fils le félicite. Il lui cède Stratonice et le fait couronner roi de Syrie.
 
 
-# Chapitre II : une œuvre méconnue
+# Chapitre II : une œuvre méconnue.
 
 
-## Des sources à la pièce
+## Des sources à la pièce.
 
 
-### Les sources
+### Les sources.
 
 Thomas Corneille a tiré le sujet de sa pièce de l'histoire ancienne. Il cite dans sa préface trois auteurs anciens : Plutarque [4], Valère Maxime [5], et Appien [6]. Tous trois racontent dans leurs œuvres l'histoire d'Antiochus, amoureux de sa belle-mère, Stratonice.
 
@@ -187,7 +187,7 @@ L'habileté et la finesse du médecin Erasistrate ont rendu cette fable très c�
 Comme la plupart des dramaturges de son époque, Thomas Corneille apporte certaines modifications aux données historiques, qui s'expliquent tant par le respect les règles de bienséances que les besoins de la structure dramatique.
 
 
-### Les influences
+### Les influences.
 
 L'histoire d'Antiochus est très célèbre à l'époque classique. De nombreux dramaturges ont traité ce sujet jusqu'au XIX*e* siècle sous forme de tragi-comédie, comédie [9], comédie héroïque [10] ou encore ballet [11] et opéra-comique [12]. Pour notre étude nous nous intéresserons uniquement aux pièces écrites avant 1666, c'est-à-dire antérieures à *Antiochus.* Nous essayerons de voir à travers un travail de comparaison, les influences que ces dernières ont pû jouer dans la structure dramatique de la pièce.
 
@@ -243,7 +243,7 @@ L'originalité du dramaturge consiste à ajouter un épisode, basé sur un dégu
 « J'ai cru devoir abandonner le sujet de Stratonice qui me plaisait fort seulement à cause que M. Quinault était plus avancé de 200 vers que moi et je n'ai rien fait en ce rencontre que ce que je m'imagine qu'un autre ferait pour moi dans une pareille occasion », écrira Thomas Corneille dans une lettre datée du premier décembre 1659. Il ne reviendra sur ce sujet que sept ans plus tard. Mais si le dramaturge est le dernier à traiter ce sujet sous forme de tragi-comédie, il fait cependant preuve d'une grande invention.
 
 
-### Les règles de bienséances
+### Les règles de bienséances.
 
 En intitulant sa tragi-comédie *Antiochus*, Thomas Corneille veut rester fidèle à l'Histoire. Il reprend les mêmes personnages historiques et confère à Antiochus et à Seleceus les fonctions et les caractères originels. Le dramaturge précise dans sa préface : « Je me suis particulièrement attaché à donner à Antiochus le caractère de ce profond respect qui l'empescha de recevoir personne dans sa confidence… » Mais si les deux personnages masculins conservent les mêmes traits, il n'en est pas de même pour le personnage de Stratonice, auquel le dramaturge a apporté certaines modifications. Les textes primitifs précisent que Stratonice est mariée à Seleceus et est déjà mère d'un enfant lorsque Antiochus tombe amoureux d'elle. Thomas Corneille est obligé, par respect des bienséances externes, de modifier ces donnés. « La scène ne donne point les choses comme elles ont été mais comme elles devaient être », précise d'Aubignac dans *la pratique du théâtre.* Thomas Corneille, en représentant l'amour incestueux de Stratonice et de Seleucus, risquerait fortement de scandaliser les spectateurs. C'est pourquoi, il décide de faire de Stratonice non la femme de Seleucus, mais sa fiancée. Dans la scène d'exposition, Antiochus évoque le mariage qui doit unir son père et la princesse :
 
@@ -262,12 +262,12 @@ La mort vous a ravi votre invincible époux [21] ;
 Phèdre se croyant veuve déclare alors sa passion à son beau-fils. Mais lorsque Thésée, son époux est de retour, celle-ci, prit de remords après un tel crime se suicide. Il est intéressant de remarquer que Racine est l'un des seuls dramaturges de son époque à ne pas avoir modifié la donnée primitive. En effet, dans les textes antérieurs à la pièce de Racine, Phèdre n'est pas mariée mais seulement fiancée à Thésée : Gilbert dans *Hypolite ou le Garçon insensible* en 1646 et Bidar dans *Hippolyte* en 1675 modifient les textes anciens par respect des bienséances. Pradon, grand concurrent de Racine en fera de même dans *Phèdre et Hippolyte*, pièce jouée deux jours après celle de Racine [22]. En traitant un sujet historique, les dramaturges, soucieux des valeurs morales du public doivent ainsi très souvent apporter des modifications aux données historiques. A noter toutefois que les bienséances tolèrent le suicide qui est pourtant rigoureusement interdit par l'Eglise. Considéré comme un acte de courage chez les Romains et les Grecs, le suicide est très souvent représenté sur scène au XVII*e* siècle. Selon l'Abbé Morvan de Bellegarde, « il ne faut jamais y répandre le sang de personne, mais on y peut verser le sien, quand on y est porté par un beau désespoir ; c'était une action consacrée chez les Romains [23] ». Dans notre pièce, il est évoqué à deux reprises : tout d'abord par le personnage d'Antiochus, qui est prêt à mourir par amour pour Stratonice,  et par Tigrane qui songe à se donner la mort par désespoir, à l'acte IV.
 
 
-### Une tragi-comédie romanesque
+### Une tragi-comédie romanesque.
 
 Les romans de la Calprenède et surtout de Mlle de Scudéry, *Artamène, le Grand Cyrus* et *Clélie*, alors très en vogue, inspirent beaucoup de dramaturges qui n'hésitent pas à représenter sur scène les intrigues et les péripéties des héros des romans. Comme Quinault, auteur de sept tragi-comédies galantes, Thomas Corneille suit la mode de son époque et réserve dans son œuvre une place primordiale à l'amour, à la préciosité et au romanesque.
 
 
-#### Le romanesque de l'action
+#### Le romanesque de l'action.
 
 Thomas Corneille transforme une anecdote ancienne en une véritable pièce romanesque. Tout en respectant ses sources, le dramaturge ajoute des éléments nouveaux à l'histoire. Notons tout d'abord la suppression du fameux médecin Erasistrate et l'introduction de deux nouveaux personnages entièrement fictifs, Arsinoé et Tigrane. Thomas Corneille a sans doute suivi les conseils d'Aubignac qui déconseille le sujet d'Antiochus en raison des difficultés que représente la situation : « Et ce fut l'advis que je donnay a celuy qui vouloit travailler sur *les Amours de Stratonice et d'Antiochus* : car le seul incident considérable, est l'adresse du Médecin qui fit passer devant les yeux de ce Prince malade depuis longtemps, toutes les Dames de la Cour, afin de juger par l'émotion de son poulx celle qu'il aimoit et qui causoit sa maladie ; Et j'estime qu'il est très difficile de faire un Poëme dramatique, dont le héros soit toujours au lict, ny de représenter cette circonstance ; car si Antiochus est encore au lict le matin, il faudra bien travailler pour le faire agir dans le même jour. De mettre aussi la Scène dans la chambre d'un malade, ou devant sa porte, cela ne seroit guère raisonnable [24]… »
 
@@ -282,7 +282,7 @@ Je répons de me vaincre, asseurez-m'en l'exemple. [25]
 Enfin, c'est un personnage clef de l'action puisqu'elle sera à à l'origine de la substitution du portrait qui entraînera toute une série de quiproquos chez les personnages.
 
 
-#### Le romanesque des sentiments
+#### Le romanesque des sentiments.
 
 Le dramaturge introduit un deuxième personnage fictif, Tigrane, qui est l'ami et le favori du prince Antiochus. Il se sert de ce nouveau personnage pour créer une intrigue secondaire. En effet, au couple Stratonice-Antiochus, vient s'ajouter le couple Arsinöé-Tigrane. La substitution du portrait entraîne des malentendus au sein de ces quatre personnages, ce qui rend l'intrigue encore plus complexe.
 
@@ -291,10 +291,10 @@ Enfin, Thomas Corneille apporte des changements concernant le caractère de Stra
 Nous pouvons remarquer qu'*Antiochus* présente quelques analogies avec les pièces antérieures. Certes, Thomas Corneille s'est inspiré de ses prédécesseurs pour composer sa tragi-comédie, cependant il faut noter que la pièce offre quelque originalité. En effet, le dramaturge, tout en respectant les données historiques propose à son public une pièce moderne à la mode de son époque. Cette nouveauté s'explique tout d'abord par le choix des personnages. Arsinoé qui joue le rôle du médecin Erasistrate apporte une certaine fraîcheur au texte : jeune, belle et rusé, c'est elle qui doit apprendre la triste vérité au roi. De plus, les quiproquos, provoqués par la substitution de portrait permettent au dramaturge d'insister sur les sentiments. L'intérêt porté à la psychologie des protagonistes explique ainsi la modernité de la pièce. Thomas Corneille, grâce à ses talents de dramaturge renouvelle ainsi un sujet légendaire.
 
 
-## Thomas Corneille et son œuvre
+## Thomas Corneille et son œuvre.
 
 
-### Un auteur à la mode de son époque
+### Un auteur à la mode de son époque.
 
 La galanterie qui s'épanouit après 1650 envahit les salons et les sociétés mondaines. La « Carte de Tendre » de Mlle de Scudéry est célèbre dans tout Paris. Les précieuses sont si à la mode que Somaize leur consacre un dictionnaire. Les frères Parfaict remarquent que : «  La Cour de France est devenue le modele de la galanterie. Les poetes saisirent cette circonstance pour prendre une nouvelle route ; ils crurent devoir diminuer quelque chose de la severité de la Tragédie et pour en faire un spectacle plus riant aux yeux du public, ils rendirent l'amour le maitre dominant de la société. Ils prirent la plupart de leurs sujets de leurs Poèmees dramatiques dans les romans de Mlle de Scudéry et dans ceux de M. de la Calprenede qui étaient encore à la mode. »
 
@@ -318,7 +318,7 @@ L'esthétique précieuse qui se caractérise par l'emploi d'un langage spécifiq
 Les critiques postérieures reprochent souvent à Thomas Corneille d'avoir suivi la mode de son époque et cherché avant tout à satisfaire son public. Il est vrai que le dramaturge en écrivant *Antiochus* rend hommage aux précieuses qui l'ont tant soutenu. Mais cette pièce totalement oubliée aujourd'hui est intéressante à étudier car elle permet de voir les goûts des spectateurs du XVII*e* siècle car le dramaturge respecte parfaitement les règes établies par les précieuses.
 
 
-### Un style contesté
+### Un style contesté.
 
 Robinet, en faisant l'éloge de la pièce, [27] exagère sans doute le succès de la pièce car Thomas Corneille, comme tous les dramaturges de son époque, ne fut pas épargné par les critiques, notamment par Boileau. Dans le *Dialogue des héros de Roman*, le célèbre poète satirique se moque du personnage d'Antiochus :
 
@@ -356,17 +356,17 @@ Les jugements de la postérité sont très sévères à l'égard du dramaturge 
 Mais il ne faut pas oublier que Thomas Corneille est aussi victime de son nom : les critiques comparent la pièce non par rapport à son auteur mais surtout par rapport au talent de son grand frère, Pierre Corneille, considéré comme le père du théâtre français. S'il n'avait pas été le frère de Pierre Corneille, nous verrions en lui ce qu'il a été réellement, un des esprits les plus féconds, les plus souples et les plus ingénieux de son temps (…) Un auteur dramatique très applaudi, qui appliqua au théâtre la même faculté de recherche et de renouvellement dont son frère nous a donné tant de preuves », note avec raison Gustave Larroumet [33].
 
 
-### Une dramaturgie exceptionnelle
+### Une dramaturgie exceptionnelle.
 
 Thomas Corneille reconnaît ses insuffisances dans le domaine stylistique et pense comme Molière que « les pièces sont faites pour être écoutées plutost que pour etre lues et même si elles doivent etre lues, elles ne doivent etre lues qu'à la chandelle ». Mais si le dramaturge accorde moins d'importance à la versification, il est cependant remarquable au niveau de la dramaturgie. Il  possède de grandes facilités pour la construction de ses intrigues. Or c'est une qualité principale pour un dramaturge de cette époque. Ni ses contemporains ni les critiques postérieurs ne peuvent nier ses talents dans ce domaine. Dans son discours de remerciement prononcé le 8 février 1710, Houdart de la Motte son successeur à l'Académie française remarque avec justesse que : « ce qui le distingue dans les deux genres, c'est qu'il possède souverainement le don de l'intrigue et des situations… » Ainsi, Le triomphe de *Timocrate*, le plus grand succès du XVII*e* siècle s'explique en grande partie par l'intrigue astucieusement menée par le dramaturge et qui avait séduit tant de spectateurs. Dans *Antiochus*, la situation pathétique des personnages compliquée par de nombreux quiproquos tient en haleine les spectateurs jusqu'à la fin. L'intrigue quoique complexe est habilement maîtrisée par le dramaturge. « C'est presque toujours la situation qui fait le succès au théâtre », affirmera Voltaire [34]. L'auteur d'*Antiochus* s'est particulièrement attaché à cet aspect.
 
 Il est fréquent de voir au XVII*e* siècle des pièces comportant une double intrigue. Nous pouvons citer la célèbre pièce de Racine, *Andromaque* : l'amour de Pyrrhus pour Andromaque constitue la trame de l'action principale, la passion d'Oreste pour Hermione en forme l'action secondaire. Dans la tragi-comédie de Thomas Corneille, nous retrouvons le même schéma : l'intrigue principale est centrée sur l'amour d'Antiochus et de Stratonice, Tigrane et Arsinoé formant l'intrigue secondaire. Cependant l'action de la pièce est jugée complexe par les critiques en raison des nombreux malentendus provoqués par la substitution du portrait. Certes, certains passages paraissent confus, les personnages étant sans cesse confrontés à de nouveaux obstacles, mais Thomas Corneille s'applique à ne rien laisser au hasard. Chaque détail est subordonné à l'action principale, aucun élément gratuit ni superflu ne vient retarder l'action. Thomas Corneille respecte ainsi l'unité de l'action.
 
 
-# Chapitre III : la structure interne de la pièce
+# Chapitre III : la structure interne de la pièce.
 
 
-## Les personnages
+## Les personnages.
 
 Antiochus est une tragi-comédie de palais, elle met donc en scène un personnel dramatique illustre : le héros, Antiochus, est le fils de Séleucus roi de Syrie. Stratonice, fiancée à Séleucus est la fille de Démétrius, roi de Macédoine. Les protagonistes viennent donc tous d'un rang élevé. Les personnages secondaires font aussi partie de la famille royale, puisque Arsinoé nous précise-t-on est la nièce de Séleucus. Son fiancé, Tigrane, est le favori et l'ami du prince Antiochus.
 
@@ -399,20 +399,20 @@ Mais si les confidents sont indispensables pour le bon déroulement de l'action,
 Les personnages masculins, Séleucus, Antiochus et Tigrane n'ont pas de confident. Mais ceci ne les empêche pas d'exprimer leurs sentiments. À deux reprises, Antiochus et Seleucus, nous font part de leurs souffrances dans un long monologue. En absence de confident, ces personnages peuvent aussi se confier à leurs proches. Ainsi, Séleucus et Tigrane viennent tous deux se livrer à Stratonice et à Arsinoé en leurs faisant part de leurs émotions. Parmi tous ces personnages seul Antiochus refuse toute confession : Tigrane, qui est à la fois son ami et son favori, pourrait être son confident, mais le prince ne dévoile à personne son lourd secret. Ce silence constitue l'intérêt dramatique de la pièce. En effet si Antiochus parlait, la pièce n'aurait plus aucune originalité.
 
 
-## Une tragi-comédie régulière
+## Une tragi-comédie régulière.
 
 
-### La règle des trois unités
+### La règle des trois unités.
 
 Antiochus est une tragi-comédie régulière qui respecte comme la tragédie, les règles établies par la doctrine classique. Thomas Corneille se plie ainsi aux règles des trois unités et des bienséances qui s'imposèrent après 1640.
 
 
-#### L'unité de l'action
+#### L'unité de l'action.
 
 L'action de la pièce est jugée complexe en raison des différents quiproquos causés par la substitution du portrait, cependant, Thomas Corneille respecte parfaitement l'unité de l'action.
 
 
-#### L'unité de temps
+#### L'unité de temps.
 
 Au XVII*e* siècle, la durée du spectacle pour une tragédie en cinq actes était de deux heures et demie à trois heures. L'action est supposée durer au maximum 24 heures et au minimum autant que la durée réelle de la représentation.
 
@@ -424,7 +424,7 @@ A vous à qui l'Estat par vos soins conservé
 Doit avec moi le jour que vous m'avez sauvé. [37]  
 
 
-#### L'unité de lieu
+#### L'unité de lieu.
 
 La scène se passe dans le palais du roi Séleucus en Syrie. Ce dernier, un des généraux d'Alexandre le Grand est devenu à sa mort, roi des hautes provinces d'Asie. La règle de l'unité de lieu est respectée, mais comme pour l'unité de temps, certains récits élargissent le cadre établi. Les personnages se remémorent événements qui se sont produits en d'autres lieux. Stratonice rappelle ainsi à sa confidente sa première rencontre avec Antiochus, lorsque celui-ci était venu la chercher dans le royaume de son père en Macédoine.
 
@@ -438,7 +438,7 @@ Son adresse par tout sçait traisner la victoire, [38]
 Par ce récit, Stratonice décrit les festivités organisées par son père Démétrius en l'honneur des fiançailles de sa fille la princesse avec Seleucus. Le dramaturge expose sous les yeux des spectateurs un nouveau décor.
 
 
-### Les bienséances
+### Les bienséances.
 
 Les bienséances occupent une place importante dans la dramaturgie classique. Nous avons vu dans notre première partie que le dramaturge, pour ne pas scandaliser son public avait apporté certaines modifications aux sources historiques. Nous allons à présent étudier les bienséances par rapport à la question de l'amour et plus particulièrement de l'expression de la retenue amoureuse, c'est-à-dire les bienséances internes.
 
@@ -460,10 +460,10 @@ J'admirois sans scrupule un Prince si parfait,
 Je voulois estimer, et j'aimois en effet, [42]  
 
 
-## Une tragi-comédie à double intrigue
+## Une tragi-comédie à double intrigue.
 
 
-### L'exposition
+### L'exposition.
 
 *Antiochus* est une tragi-comédie régulière qui respecte la structure habituelle de la tragédie. La structure interne de la pièce permet d'étudier l'exposition, le nœud, et le dénouement. L'exposition doit présenter les personnages et la situation de la pièce. Elle doit « instruire le spectateur du sujet et de ses principales circonstances, du lieu de la scène et même de l'heure où commence l'action, du nom, de l'état, du caractère et des intérêts de tous les principaux personnages [43] » Thomas Corneille nous donne toute ces informations dans le premier acte et en particulier dans la première scène de la pièce : Tigrane et Antiochus évoquent le mariage qui doit unir dans la soirée Séleucus et Stratonice. Mais Antiochus est une tragi-comédie à double intrigue aussi, l'exposition est coupée en deux morceaux. Il est très fréquent à cette époque de n'introduire certains personnages qu'au début de l'acte II. Il s'agit ici du personnage d'Arsinoé qui joue un rôle décisif puisqu'elle est à l'origine de cette double intrigue. Notons toutefois que ce nouveau personnage a déjà été cité par Tigrane :
 
@@ -475,7 +475,7 @@ Vous avez auprès d'elle authorisé à se taire [44].
 Thomas Corneille a décidé de faire apparaître ce personnage séparément car elle apporte un nouvel élément, l'échange du portrait.
 
 
-### La péripétie
+### La péripétie.
 
 Le dramaturge tout en respectant les donnés historiques a composé une pièce romanesque. Le succès de la pièce s'explique probablement par les péripéties qui provoquent un effet de surprise chez les personnages. Concernant la dramaturgie de Thomas Corneille, Eliane Fischler remarque que : « dans les pièces dont la situation de base est simple, il se permet une grande complexité au niveau des relations sentimentales [45] ». Ceci est tout à fait vrai pour notre pièce. *Antiochus* est une tragi-comédie à double intrigue, la péripétie entraîne toute une série quiproquos. Il a ainsi un renversement de situation. Scherer donne une définition très précise de la péripétie : «  Il faut en outre que l'événement imprévu soit un changement de fortune c'est-à-dire qu'il modifie non seulement la situation matérielle des héros mais leur situation psychologique ; les sentiments et même les décisions des héros devront être changés par les péripéties [46] ».
 
@@ -489,15 +489,15 @@ Mais si Stratonice se sent trompée dans son amour, Tigrane, quant à lui, remet
 La péripétie permet au dramaturge d'intensifier l'action en introduisant un contenu psychologique.
 
 
-### La psychologie des personnages
+### La psychologie des personnages.
 
 
-#### Des personnages tourmentés
+#### Des personnages tourmentés.
 
 L'action psychologique verbalisée du théâtre classique s'exprime par le monologue et les stances. Dans notre pièce, le monologue utilisé à deux reprises par le dramaturge permet de connaître les souffrances des deux protagonistes, Antiochus et Séleucus. En effet, Thomas Corneille se sert du monologue pour peindre les sentiments pathétiques de ces deux personnages. Comme nous l'avons vu précédemment, il emploie aussi les stances,  qui obéissent à des règles précises. Très utilisées à cette période, les stances, forme lyrique, remplacent très souvent le monologue. En marquant une rupture dans le discours théâtral, elles permettent de se concentrer sur l'expression des pensées et des sentiments du personnage. La Mesnardière estime que : « elles ont de la douceur pour exprimer les Passions tendres ; elles ont des entrecoupures, et des inégalités pour représenter le désordre d'une âme agitée de tempêtes, et leur sens qui recommence à la tête de chaque strophe, et qui admet facilement des pensées toutes contraires à celles qui ont précédé, peut figurer les combats et les divers mouvements d'un esprit irrésolu, qui n'a pas assez de force pour déterminer ses doutes, ni pour se remettre en l'assiette d'où la Douleur l'a fait sortir ». Aussi, le dramaturge, pour insister sur les sentiments confus de Stratonice choisit les stances qui sont très bien appropriées au personnage.
 
 
-#### Un héros mélancolique
+#### Un héros mélancolique.
 
 Le thème de la mélancolie, très souvent appelé « la maladie d'amour » a fortement marqué la littérature du XVII*e* siècle : les héros mélancoliques sont très à la mode, aussi bien dans les romans qu'au théâtre. La mélancolie est un terme médical, mais avant même que les sciences s'intéressent à cette notion, les auteurs anciens tels que Valère Maxime, Plutarque et Appien représentent cette maladie à travers l'histoire d'Antiochus et de Stratonice. Antiochus est en effet l'un des premiers personnages de l'antiquité qui permette d'étudier le thème de la mélancolie dans la littérature : les symptômes sont parfaitement décrit par les textes anciens [48]. Antiochus est malade car il est amoureux : victime d'une passion illicite, le prince, conscient de son crime ne peut satisfaire cet amour impossible. Ce refoulement va se manifester par un malaise qui se traduit par un mal de vivre. Antiochus renonce ainsi à la vie et se laisse mourir.
 
@@ -542,14 +542,14 @@ La Scéne est dans la Capitale de Syrie.
 
 
 
-## ACTE I
+## ACTE I.
 
 
-### Scene premiere
+### Scene premiere.
 ANTIOCHUS, TIGRANE.
 
 
-    ANTIOCHUS
+    ANTIOCHUS.
 En vain à cét appas⁎ [53] vous voulez que je cede,  
 C'est redoubler mon mal que m'offrir ce remede,  
 Et le croire l'effet d'un chagrin⁎ bien leger,  
@@ -567,7 +567,7 @@ Ne m'en a point encor laissé voir l'esperance,
 Et quoy qu'elle fust juste au rang où je suis né,  
 Je puis vivre content⁎ sans estre couronné.  
 
-    TIGRANE
+    TIGRANE.
 Seigneur, chacun connoit avec quel avantage  
 Une entiere [54] vertu regle vostre courage,  
 Et trop de grands effets l'exposent à nos yeux  
@@ -585,7 +585,7 @@ Nous voyions avec pompe éclater la journée,
 Et que de tans d'apprests [56] qui marquent sa grandeur  
 Vostre Couronnement augmente la splendeur.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 L'éclat qui le suivroit n'a rien qui m'ebloüisse,  
 Je sçay que Seleucus adore⁎ Stratonice,  
 Qu'il ne vit que pour elle, et que jamais l'Amour  
@@ -599,7 +599,7 @@ Il faut que mon refus pour elle se declare,
 Et mette un prompt obstacle à l'injuste projet  
 Qui pour me couronner lui dérobe un Sujet.  
 
-    TIGRANE
+    TIGRANE.
 Seigneur, quand sous vos loix il met la Phenicie,  
 Seleucus regne encor sur toute la Syrie,  
 Et croit que plus d'éclat suit le don de sa foy  
@@ -614,7 +614,7 @@ Et tout ce que jamais la Cour eut de plus doux
 Semble n'estre que gesne⁎, et supplice pour vous.  
 Chacun surpris de voir ce changement extréme…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Helas ! Tigrane, helas ! j'en suis surpris⁎ moy-mesme,  
 Et de ce noir chagrin⁎ les accez languissants  
 Accablent ma raison, et confondent mes sens.  
@@ -623,10 +623,10 @@ Plus j'en ressents l'effet, moins j'en trouve la cause,
 Et pour la découvrir, rien ne s'offre à mes yeux  
 Que [59] l'Astre qui nous force, ou le couroux des Dieux.  
 
-    TIGRANE
+    TIGRANE.
 Quoy, d'un Astre ennemy la dure violence…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Ouy, Tigrane, aujourd'huy croyez-en mon silence.  
 Si quelque ennuy⁎ secret me faisoit soûpirer,  
 Pourrois-je si long-temps vous le voir ignorer,  
@@ -635,7 +635,7 @@ Qu'il n'est rien que la mienne ait encor pû vous taire ;
 A vous à qui l'Estat par vos soins⁎ conservé  
 Doit avec moy le jour [60] que vous m'avez sauvé ?  
 
-    TIGRANE
+    TIGRANE.
 C'est trop vous souvenir d'un si foible service  
 Quand par vous la Princesse à ma flame est propice,  
 J'aimois, et ma raison condamnant mes desirs,  
@@ -661,7 +661,7 @@ Doit m'approchant du Trône y placer Stratonice,
 Mes vœux les plus pressants en vain l'osent haster  
 Quand vostre inquietude⁎ y semble resister  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Et c'est aussi par là que mon ame abatuë  
 Se livre toute entiere au chagrin⁎ qui me tuë,  
 J'en souffre d'autant plus que le bonheur du Roy  
@@ -674,10 +674,10 @@ Sa pompe m'embarasse, et mon inquietude⁎
 Pour calmer ses transports⁎ veut de la solitude,  
 C'est un bien que vos soins⁎ me [61] peuvent obtenir.  
 
-    TIGRANE
+    TIGRANE.
 Moy, Seigneur, de la Cour chercher à vous bannir ?  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Ce volontaire exil que mon chagrin⁎ m'impose  
 A droit seul de calmer la peine qu'il me cause,  
 Icy tout m'importune, et le trouble où je suis  
@@ -689,21 +689,21 @@ Tigrane, encor un coup [62] allez trouver le Roy,
 Et d'une Feste Auguste où seul je mets obstacle,  
 Par mon éloignement pressez l'heureux spectacle.  
 
-    TIGRANE
+    TIGRANE.
 Mais, Seigneur, ce dessein…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Rien ne peut l'ébranler,  
 C'est me servir enfin que d'oser luy parler,  
 D'un Roy qui vous cherit craignez-vous la colere ?  
 
-    TIGRANE
+    TIGRANE.
 Mes vœux les plus ardents n'aspirent qu'à vous plaire ,  
 Et vostre seul desir servant de regle au mien,  
 Je parleray, Seigneur, mais je n'obtiendray rien.  
 
 
-### SCENE II
+### SCENE II.
 
     ANTIOCHUS.
 Suy le juste projet où l'honneur te convie,  
@@ -759,37 +759,37 @@ Ma raison se confond, mon ame en est émeuë,
 Fuyons, ce seul moyen m'épargne le soucy …  
 
 
-### SCENE III
+### SCENE III.
 STRATONICE, ANTIOCHUS, PHENICE.
 
 
-    STRATONICE
+    STRATONICE.
 Quoy, Prince, c'est donc moy qui vous chasse [66] d'ici ?  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Si vous fuir blesse en vous l'honneur du Diadême,  
 On peut le pardonner à qui se fuit soy-mesme ;  
 Jugez si de mes maux je puis venir à bout,  
 Je tasche de me perdre, et me trouve par tout.  
 
-    STRATONICE
+    STRATONICE.
 Si vous trouver par tout est pour vous un supplice,  
 Prince, resolvez-vous à vous rendre justice ;  
 Et quoy que pour vos sens le chagrin⁎ ait d'appas⁎,  
 Vous vous consolerez de ne vous perdre pas [67].  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 C'est par où ma raison redouble ses alarmes,  
 L'habitude au chagrin⁎ y fait trouver des charmes⁎,  
 Et j'apprehende bien de ne guerir jamais  
 D'un mal où malgré moy je sens que je me plais.  
 
-    STRATONICE
+    STRATONICE.
 Si vous vous y plaisez, vous estes moins à plaindre  
 Que ceux à qui pour vous sa rigueur donne à craindre,  
 Il leur oste un repos qu'il vous laisse acquerir.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Helas ! est-ce estre heureux que se plaire à souffrir ?  
 Un mal n'est-il plus mal s'il flate en apparence,  
 Et pour nous estre cher perd-il sa violence ?  
@@ -800,23 +800,23 @@ Qu'un Astre imperieux nous le rend necessaire,
 Et force un cœur seduit par cette trahison  
 Au refus du secours que preste la raison.  
 
-    STRATONICE
+    STRATONICE.
 Du mal pour qui le cœur à la raison s'oppose  
 Le charme est dans l'effet beaucoup moins qu'en la cause,  
 Et pour voir quel remede on y peut appliquer,  
 Qui la connoist si bien la devroit expliquer.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Triste, ⁎ confus, resveur⁎, si ce mal peut me plaire,  
 C'est sans sçavoir pourquoy la peine m'en est chere,  
 Et quand un pareil trouble embarasse l'esprit,  
 Qui sçait mal ce qu'il sent sçait bien peu ce qu'il dit.  
 
-    STRATONICE
+    STRATONICE.
 Le Roy trop vivement partage vostre peine,  
 Pour ne pas faire efforts…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         C'est-là ce qui me gesne,  
 Son déplaisir m'accable, et comme un noir destin  
 Par l'éclat de la Cour redoute mon chagrin,  
@@ -826,13 +826,13 @@ Voilà ce qu'aujourd'huy je luy fais demander,
 Pour tirer son adveu daignez me seconder,  
 Madame, et par vos soins …  
 
-    STRATONICE
+    STRATONICE.
         Quoy, Prince, dois-je croire  
 Qu'en secret ce chagrin porte envie à ma gloire,  
 Et que dans vostre cœur un mouvement jaloux,  
 Lors qu'on m'appelle au Trône…  
 
-    ANTIOCHUS 
+    ANTIOCHUS. 
         Ah, que me dites- vous ?  
 Qu'à l'ardeur de mes vœux le juste Ciel réponde,  
 Et vous estes soudain la Maistresse du Monde ;  
@@ -843,33 +843,33 @@ Je ne veux qu'adorer, voir, et servir ma Reine,
 Elle seule en est digne, et pour mieux l'élever…  
 Mais Dieux !  
 
-    STRATONICE
+    STRATONICE.
         Vous avez lieu [68] de ne pas achever,  
 Et le trouble sur vous peut prendre quelque empire,  
 Quand la civilité [69] vous engage à trop dire.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Pourquoy de ce reproche affecter la rigueur ?  
 Ma bouche ne dit rien sans l'adveu de mon cœur,  
 Et ce brillant amas de vertus et de charmes⁎…  
 Madame, et de mon mal le Roy prend trop d'alarmes,  
 Proposez ma retraite, et de grace, obtenez…  
 
-    STRATONICE
+    STRATONICE.
 Prince, je monte au Trône, et vous m'abandonnez !  
 Fuir d'en estre témoin [70] est-ce cherir ma gloire ?  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Ah, si vous connoissiez tout ce qu'il en faut croire…  
 Adieu, Madame, adieu, dans le trouble où je suis,  
 Penser, fuir, et me taire, est tout ce que je puis.  
 
 
-### SCENE IV
+### SCENE IV.
 STRATONICE, PHENICE.
 
 
-    PHENICE
+    PHENICE.
 Ou j'ay peu de lumiere, ou le Prince, Madame,  
 Cherche à cacher un mal dont la source est dans l'ame.  
 Tandis qu'il vous parloit, ses timides regards,  
@@ -878,21 +878,21 @@ Languissant, interdit, plein d'un desordre extréme,
 Si j'osois m'expliquer, je dirois qu'il vous aime,  
 Et que par tant d'appas⁎ s'estant laissé charmer…  
 
-    STRATONICE
+    STRATONICE.
 Quoy, Phenice, tu crois qu'il me pourroit aimer ?  
 
-    PHENICE
+    PHENICE.
 Je crains de dire trop, mais s'il faut ne rien taire,  
 Je croy qu'il le pourroit, et ne pas vous déplaire ;  
 De l'air dont vous parlez, c'est sans trop de couroux…  
 
-    STRATONICE
+    STRATONICE.
 Phenice, qu'as tu dit ?  
 
-    PHENICE
+    PHENICE.
         Mais que me dites- vous ?  
 
-    STRATONICE
+    STRATONICE.
 Que te peut dire une ame estonnée⁎, abatuë,  
 Qui dans ce qu'elle doit voit tout ce qui la tuë,  
 Et qui de son devoir redoublant les efforts,  
@@ -918,12 +918,12 @@ Son adresse par tout sçait traisner la victoire,
 Et je sens malgré moy que sans cesse vainqueur,  
 En emportant le prix, il emporte mon cœur.  
 
-    PHENICE
+    PHENICE.
 Antiochus sans doute a tout ce qui doit plaire,  
 Mais déjà vostre main estoit deuë à son Pere,  
 Et lors que vostre cœur se sentit enflamer…  
 
-    STRATONICE
+    STRATONICE.
 Helas ! sçait-on qu'on aime en commençant d'aimer,  
 Et l'Amour qui d'un cœur cherche à se rendre maistre,  
 Tant qu'on peut resister, se laisse- t'il connoistre ?  
@@ -960,10 +960,10 @@ Je voulois estimer, et j'aimois en effet,
 Et mon cœur de mes sens negligeant l'artifice  
 Pensoit fuir une erreur dont il estoit complice.  
 
-    PHENICE
+    PHENICE.
 Mais de ce triste amour quel peut estre l'espoir ?  
 
-    STRATONICE
+    STRATONICE.
 Phenice, encor un coup [76], je feray mon devoir,  
 Et quoy qu'Antiochus trouve trop à me plaire,  
 Ma main suivra ma foy, je suis toute à son Pere ;  
@@ -983,7 +983,7 @@ Me laissast deviner ce qu'il ne diroit pas.
 SELEUCUS, STRATONICE, PHENICE, Suite
 
 
-    SELEUCUS
+    SELEUCUS.
 Madame, tout est prest, et la Syrie en peine  
 De rendre promptement son hommage à sa Reyne,  
 N'attend plus que demain pour voir selon ses vœux,  
@@ -1001,7 +1001,7 @@ Si j'ay trop de tendresse, il a quelque merite,
 Et je vous devray tout, si rompant son dessein  
 Vous obtenez qu'au Trône il vous preste la main  
 
-    STRATONICE
+    STRATONICE.
 Quel que soit vostre amour, il me feroit injure,  
 Seigneur, s'il estoufoit la voix de la Nature,  
 Et vous avoit seduit jusqu'à vous détacher  
@@ -1015,7 +1015,7 @@ Il m'employe à vous faire agréer sa retraite,
 Et l'éclat des apprets qu'étale vostre Cour,  
 Blesse autant son chagrin⁎ qu'il flate vostre amour.  
 
-    SELEUCUS
+    SELEUCUS.
 Qu'esperer donc, Madame, et quel Dieu favorable  
 Luy rendra le repos dont la perte m'accable ?  
 Comme sur ses pareils [80] l'ambition peut tout,  
@@ -1029,7 +1029,7 @@ Tigrane m'en rapporte un refus invincible,
 Et ne découvre rien qui puisse m'eclaircir  
 D'un mal que tous nos soins ne peuvent adoucir.  
 
-    STRATONICE
+    STRATONICE.
 C'est par là que j'en voy la suite plus à craindre,  
 Quoy que souffre le Prince, on ne peut que le plaindre,  
 Et l'amour paternel vous fait en vain chercher  
@@ -1038,7 +1038,7 @@ J'ay déja fait effort pour vaincre son silence,
 Mais je l'ay veu s'aigrir par cette violence,  
 Et craignant d'oser trop…  
 
-    SELEUCUS
+    SELEUCUS.
         Ah, tout vous est permis,  
 Et vous seule avez droit de me rendre mon fils.  
 Vos soins y peuvent tout, employez-les, de grace,  
@@ -1055,34 +1055,34 @@ Et par des vœux soûmis desarmant son couroux,
 Luy demander pour luy ce que j'attens de vous.  < FIN DU PREMIER ACTE >
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ARSINOE, BARSINE.
 
 
-    BARSINE
+    BARSINE.
 Quoy, lors que sa langueur va jusques à l'extréme,  
 Le trouble⁎ qui la suit fait connoistre qu'il aime ?  
 
-    ARSINOE
+    ARSINOE.
 Oüy, Barsine, et le Prince a beau se déguiser,  
 L'amour seul à ce trouble⁎ a droit de l'exposer,  
 Dans son cœur malgré luy mes soupçons me font lire.  
 
-    BARSINE
+    BARSINE.
 Ce [83] peut-estre pour vous qu'Antiochus soûpire,  
 Et par là, quoy qu'il cache, il vous seroit aisé  
 De connoistre le mal que vous auriez causé .  
 
-    ARSINOE
+    ARSINOE.
 Tu crois qu'il m'aimeroit, luy dont l'ardent suffrage  
 A des vœux de Tigrane authorisé l'hommage,  
 Me l'a fait agréer, et sur l'adveu du Roy  
 Asseure à son amour et mon cœur et ma foy ?  
 
-    BARSINE
+    BARSINE.
 Peu voudroient d'un Rival favoriser la flame,  
 Mais, Madame, il n'est rien que n'ose une grande ame,  
 Et Tigrane à son Prince ayant sauvé le jour,  
@@ -1093,33 +1093,33 @@ Et quoy qu'il se contraigne à soûpirer tout bas,
 L'excez de son chagrin ne le trahit- il pas ?  
 Peut-il mieux expliquer qu'il cede ce qu'il aime ?  
 
-    ARSINOE 
+    ARSINOE.
 C'est ce cruel effort qui l'arrache à luy- mesme,  
 Mais lors qu'il se soûmet à cette affreuse loy,  
 La Reyne en ce qu'il souffre a plus de part que moy.  
 
-    BARSINE
+    BARSINE.
 Stratonice ?  
 
-    ARSINOE
+    ARSINOE.
     Elle mesme.  
 
-    BARSINE
+    BARSINE.
         Et vous le pouvez croire  
 Dans le peu d'interest qu'il montre pour sa gloire ?  
 Quand chacun à l'envy s'y fait voir empressé  
 Du plus foible devoir il se croit dispensé,  
 Jamais il ne luy parle, et la fuyant sans cesse …  
 
-    ARSINOE
+    ARSINOE.
 S'il l'a fuit, ce n'est pas son chagrin qui l'en presse,  
 Il fuit, il craint des yeux trop sçavans à charmer,  
 Et craindre un bel objet [84], Barsine, c'est l'aimer.  
 
-    BARSINE
+    BARSINE.
 Quoy, c'est-là de sa flame une preuve certaine ?  
 
-    ARSINOE
+    ARSINOE.
 Non, mais enfin j'en croy ce Portrait de la Reyne,  
 Qui trouvé sur mes pas me laisse peu douter  
 D'un feu que son respect empesche d'éclater.  
@@ -1142,25 +1142,25 @@ Sous ces Arbres toufus dont l'agreable frais [87]
 Pour qui cherche à resver a [88] de si doux attraits,  
 Croy moy, de mes soupçons la preuve est convaincante.  
 
-    BARSINE
+    BARSINE.
 S'ils ne vous trompent point, la disgrace est touchante⁎ [89],  
 Car c'en est une enfin sous qui trembler d'effroy  
 D'estre Rival ensemble, et d'un Pere, et d'un Roy,  
 Mais d'un Roy qui d'ailleurs [90] adore Stratonice.  
 
-    ARSINOE
+    ARSINOE.
 Il faut que cét amour aujourd'huy s'eclaircisse,  
 Cette Boëte y peut tout, et pour m'en assurer  
 Aux yeux d'Antiochus je n'ay qu'à m'en parer [91].  
 De son trouble à la voir penses-tu qu'il soit maistre ?  
 
-    BARSINE
+    BARSINE.
 Le feu qu'il tient caché par là se peut connoistre,  
 Mais n'oubliez-vous point ce que vous avez fait,  
 Que par [92] vous cette Boëte a changé de Portrait ?  
 Pour celuy de la Reine elle enferme le vostre.  
 
-    ARSINOE
+    ARSINOE.
 C'est exprés que le mien tient la place de l'autre.  
 A moins qu'un tel échange aidast à m'éclaircir,  
 En vain par cét effay j'y croirois reussir.  
@@ -1178,29 +1178,29 @@ Il parlera par elle, et quand …Mais je le voy,
 Pour le contraindre moins, Barsine, éloigne-toy.  
 
 
-### SCENE II
+### SCENE II.
 ANTIOCHUS, ARSINOE.
 
 
-    ARSINOE
+    ARSINOE.
 Seigneur, est-il possible, et pourra-t'on le croire,  
 Que vous mesme ayez mis obstacle à vostre gloire,  
 Et que lors que le Roy cherche à vous couronner  
 Vostre adveu pour un Trône ait peine à se donner ?  
 L'éclat du nouveau rang qui d'une pompe insigne…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Sa bonté l'a surpris quand il m'en a crû digne,  
 Mais mon zele à ses soins⁎ auroit mal répondu  
 Si j'avois accepté ce qui ne m'est pas deu,  
 Je suis né son Sujet, et fais gloire de l'estre.  
 
-    ARSINOE
+    ARSINOE.
 Dites que de vos sens le chagrin⁎ est le maistre,  
 Et que tout vostre cœur s'en laissant accabler,  
 Ce qui doit l'adoucir sert à le redoubler.  
 
-    ANTIOCHUS 
+    ANTIOCHUS.
 Il est vray qu'il m'emporte, et qu'en vain mon adresse  
 S'efforce de bannir ou cacher ma foiblesse,  
 Malgré moy je luy cede, et son subtil poison  
@@ -1208,28 +1208,28 @@ D'une vapeur maligne [93] infecte ma raison,
 Sans cesse s'abysme, et son trouble …de grace,  
 Faites …  
 
-    ARSINOE
+    ARSINOE.
         Et bien, Seigneur, que faut-il que je fasse ?  
 Vous ne dites plus rien, et tout à coup vos yeux…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 J'examine un travail et riche et curieux,  
 Et trouve en cette Boëte un chef-d'œuvre si rare  
 Qu'il semble en l'admirant que mon esprit s'égare,  
 La façon est nouvelle, et j'en estime l'art.  
 
-    ARSINOE
+    ARSINOE.
 Toute riche qu'elle est, je la tiens du Hasard.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Quoy, Madame, en vos mains le Hasard l'a remise ?  
 
-    ARSINOE
+    ARSINOE.
 Oüy, Seigneur, et c'est là ce qui fait ma surprise,  
 Que qui pour l'enrichir n'a rien fait épargner,  
 Puisse en souffrir la perte, et n'en rien témoigner.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 J'admire comme vous qu'on la tienne secrete,  
 Mais, Madame, attendant qu'on sçache qui l'a faite,  
 Souffrez que j'en joüisse, et tâche à profiter  
@@ -1238,24 +1238,24 @@ Pour un travail charmant dont la garde m'est chere
 Un ouvrage pareil me seroit necessaire,  
 Et je ne sçaurois mieux en regler le projet…  
 
-    ARSINOE 
+    ARSINOE.
 J'estimois ce depost, et j'en avois sujet,  
 Mais je vous l'abandonne, et ne veux pour partage  
 Que reprendre un Portrait…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Ah, c'est me faire outrage,  
 En me le confiant ne craignez rien pour luy,  
 Et souffrez que sa veuë amuse mon ennuy⁎,  
 La Peinture eut toûjours dequoy me satisfaire.  
 
-    ARSINOE
+    ARSINOE.
 Si j'en croy ce qu'on dit, celle-cy doit vous plaire,  
 Et comme enfin, Seigneur, vous vous y connoissez,  
 Dites-moy d'un coup d'œil ce que vous en pensez,  
 Les traits en sont hardis, et la main…  
 
-    ANTIOCHUS *l'empeschant d'ouvrir la boëte.*
+    ANTIOCHUS *l'empeschant d'ouvrir la boëte.*.
         Non, Madame,  
 Déja la resverie⁎ occupe trop mon ame,  
 Et du moins devant vous c'est à moy d'éviter  
@@ -1263,40 +1263,40 @@ Tout ce que je prévoy qui pourroit l'augmenter,
 Du Peintre en ce Portrait examinant l'adresse  
 J'oublierois malgré moy…  
 
-    ARSINOE
+    ARSINOE.
         Seigneur, je vous le laisse, .  
 Quoy que sur ce travail j'aye à vous consulter,  
 La Reyne qui paroist m'oblige à vous quitter.  
 
 
-### SCENE III
+### SCENE III.
 STRATONICE, ANTIOCHUS.
 
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Et bien, Madame, enfin le Roy me fait-il grace ?  
 Consent-il au destin dont la rigueur me chasse,  
 Et que loin de la Cour je tâche à retrouver  
 La douceur du repos dont je me sens priver ?  
 
-    STRATONICE
+    STRATONICE.
 Seigneur, pour vous le rendre esperez tout d'un Pere,  
 Il n'est rien qu'à son Fils sa tendresse prefere,  
 Mais c'est trop vous flater de croire qu'aisément  
 Il donne son adveu pour vostre éloignement.  
 Ce dessein l'epouvante, en parler c'est un crime.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Il faut donc qu'en mes maux sans cesse je m'abysme  
 Que sans cesse une triste⁎ et mortelle langueur⁎…  
 
-    STRATONICE
+    STRATONICE.
 Tout le monde avec vous partage sa rigueur,  
 Mais quand pour l'adoucir vous cherchez la retraite [94],  
 La Cour n'a-t'elle rien dont l'éclat vous arréte [95] ?  
 N'y voyez-vous par tout qu'Objets à dédaigner ?  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Ah, ce n'est pas par là qu'il m'en faut éloigner.  
 S'il est rien dont l'appas⁎ ou me flate, ou m'attire,  
 C'est-là que je le vois, c'est là que je l'admire,  
@@ -1307,30 +1307,30 @@ Mon bonheur fait mon mal, ce qui me plaist, me tuë,
 Et mon chagrin funeste a l'art d'empoisonner  
 Tous les biens que le Ciel cherche à m'abandonner.  
 
-    STRATONICE
+    STRATONICE.
 Quoy ? toûjours ce chagrin⁎ sans m'en dire la cause ?  
 J'avois creu que sur vous je pouvois quelque chose,  
 Mais…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Si dans ce pouvoir vous trouvez quelque appas⁎,  
 Il ne va que trop loin, ne vous en plaignez pas.  
 
-    STRATONICE
+    STRATONICE.
 Vous me cachez vos maux, et je pourrois vous croire ?  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Mais, Madame, songez qu'il y va de ma gloire,  
 Et que je la trahis si j'ose découvrir  
 Ce qu'en vain ma raison a tasché de guerir.  
 
-    STRATONICE
+    STRATONICE.
 Quoy que pour un grand cœur la raison ait d'amorces⁎,  
 Où la passion regne elle reste sans forces,  
 Et sur tout ses conseils font peu d'impression  
 Quand le mal naist d'amour, ou vient d'ambition.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Ah, pour l'ambition j'en crains peu la surprise,  
 Plus je suis prés du Trône, et plus je le méprise,  
 Et lors qu'on vous y place, il me seroit moins doux  
@@ -1342,22 +1342,22 @@ Mais chaque passion excite ses orages,
 Et tel qu'un plus haut rang ne peut inquieter,  
 Aux troubles de l'amour a peine à resister.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Helas !  
 
-    STRATONICE
+    STRATONICE.
     Vous soûpirez !  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Il est vray, je soûpire,  
 Et dis peut-estre plus que je n'ay crû vous dire ;  
 Mais si j'explique trop ce qu'en vain je combats,  
 Songez que c'est à vous à [97] ne m'entendre pas.  
 
-    STRATONICE
+    STRATONICE.
 Quoy, Prince ? il se peut donc que l'amour…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Ah, Madame,  
 Vous avez arraché ce secret de mon ame,  
 Et quand rien sur ce point ne pouvait m'ébranler,  
@@ -1371,7 +1371,7 @@ J'aime ce que jamais on vit de plus aimable⁎,
 Et trouveray toûjours un sort bien moins amer  
 A mourir en aimant, qu'à vivre sans aimer.  
 
-    STRATONICE
+    STRATONICE.
 Quoy que de mes conseils vostre amour semble craindre,  
 J'en croy le feu trop beau pour le vouloir éteindre ;  
 Mais je ne comprens point quel bizarre pouvoir  
@@ -1381,7 +1381,7 @@ Vous n'estes pas d'un rang qu'aisément on dédaigne,
 Ou si rien en aimant ne vous peut secourir ,  
 Du moins on plaint un mal qu'on ne sçauroit guerir.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Non, non, à mon destin le Ciel veut que je cede,  
 Madame, il faut mourir, mon mal est sans remede ;  
 Ce n'est pas qu'en effet la douceur d'estre plaint  
@@ -1391,7 +1391,7 @@ Il faudroit estre plaint de celle qui les cause,
 Et dans l'obstacle affreux qui s'offre à respecter,  
 C'est estre criminel que de le souhaiter.  
 
-    STRATONICE
+    STRATONICE.
 J'ignore quel obstacle elle vous montre à craindre ;  
 Mais pour vous soulager s'il ne faut que vous plaindre,  
 Quelque austere vertu qui la force d'agir,  
@@ -1399,38 +1399,38 @@ C'est un bien qu'elle peut accorder sans rougir.
 Pour moy, si sur son cœur, quand elle a tout le vostre,  
 Je puis…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Vous y pouvez sans doute plus qu'une autre,  
 Et si je me souffrois l'espoir d'un bien si doux,  
 Mon amour ne voudroit l'attendre que de vous,  
 Mais si-tost que j'aurois…Je sçay trop que ma flame…  
 
-    STRATONICE
+    STRATONICE.
 Et bien Prince, achevez.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         N'en parlons plus, Madame,  
 J'oubliois un devoir que mon respect soûtient,  
 Je m'allois égarer, mais ma raison revient,  
 Et tant qu'un coup fatal borne enfin ma misere,  
 Je voy qu'il faut languir, soûpirer, et me taire.  
 
-    STRATONICE
+    STRATONICE.
 Pour vous en pouvoir croire, il faut qu'auparavant…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Madame, au nom des Dieux n'allez pas plus avant.  
 Tant que j'aime en secret j'aime avec innocence,  
 Mais enfin je la pers si j'en fais confidence,  
 Et c'est peut-estre assez dans un sort si cruel  
 De vivre malheureux, sans mourir criminel.  
 
-    STRATONICE
+    STRATONICE.
 Aprés ce que sur vous je dois avoir d'empire,  
 Prince, c'est m'outrager que s'en vouloir dédire,  
 Et soupçonner qu'un zéle aussi faux qu'indiscret…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Madame, encor un coup laissez- moy mon secret.  
 Vous mesme qui voulez qu'un libre adveu l'exprime,  
 S'il eschape à mon cœur, vous m'en ferez un crime,  
@@ -1438,11 +1438,11 @@ Et sans voir par quel ordre il l'ose reveler,
 Vous me demanderez qui m'aura fait parler ;  
 Ne vous exposez point pour vouloir trop connoistre…  
 
-    STRATONICE
+    STRATONICE.
 Vos malheurs sont au point de ne pouvoir s'accroitre,  
 Et quand je n'agirois qu'afin de vous trahir…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Enfin vous le voulez, il faut vous obeïr,  
 Mais j'atteste les Dieux, si je romps le silence,  
 Que vostre ordre à mon feu fait cette violence,  
@@ -1458,7 +1458,7 @@ Il luy donne le Portrait qu'il a receu d'Arsinoé.
     STRATONICE.
 Cet excez de respect marque une ame incapable…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Et bien, qu'ordonnez-vous d'un Amant déplorable ?  
 A tout son desespoir faut-il l'abondonner,  
 Ou le plaindre d'un sort qu'il n'a pû détourner ?  
@@ -1467,11 +1467,11 @@ C'en est fait, je le voy, j'ay deu, j'ay deu me taire,
 Et l'amour dont je suis l'indispensable loy,  
 Quand j'en nomme l'Objet, est un crime pour moy .  
 
-    STRATONICE
+    STRATONICE.
 Vostre choix me surprend, et quelque haut merite  
 Que cet amour se peigne en l'Objet qui l'excite…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Ah ! si par le merite il pouvoit s'excuser,  
 Qui n'approuveroit pas ce qu'il me fait oser ?  
 A l'orgueil de mes vœux ne faites point de grace,  
@@ -1486,19 +1486,19 @@ Quoy que prest d'expirer sous l'horreur du silence,
 J'ay voulu de mon feu cacher la violence,  
 J'ay voulu déguiser à quels charmes soûmis…  
 
-    STRATONICE
+    STRATONICE.
 Pourquoy ce long silence à qui tout est permis ?  
 Je dois à ce Portrait l'adveu de vostre flame ,  
 Et sur ce qu'il m'apprend …  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Rendez- le moy, Madame,  
 Mon Amour le demande, et dans son desespoir…  
 
-    STRATONICE
+    STRATONICE.
 Ce n'est pas de ma main qu'il doit le recevoir.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Quoy, me le refuser ! O rigueur impreveuë !  
 Et bien, privez mes yeux d'une si chere veuë,  
 Vous n'empescherez point que gravé dans mon cœur  
@@ -1507,41 +1507,41 @@ C'est-là que malgré vous j'adoreray sans cesse
 Les traits d'une charmante et divine Princesse,  
 Qu'un hommage secret luy soûmettant ma foy…  
 
-    STRATONICE
+    STRATONICE.
 Prince, adieu, c'en est trop.  
 
-    ANTIOCHUS
+    ANTIOCHUS.
         Madame, écoutez-moy .  
 Si je ne puis forcer mon amour à se taire,  
 J'ay du sang à répandre, il peut vous satisfaire  
 Je vous l'offre, et mon mal deviendra plus leger…  
 
-    STRATONICE
+    STRATONICE.
 Tigrane qui paroist sçaura le soulager,  
 Comme il peut tout pour vous, vous luy pouvez tout dire.  
 
 
-### SCENE IV
+### SCENE IV.
 ANTIOCHUS, TIGRANE.
 
 
-    TIGRANE
+    TIGRANE.
 Pour adoucir les maux dont vostre cœur soupire,  
 Seigneur, se pourroit-il que mon zéle et mes soins⁎…  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Mon chagrin⁎ pour resver⁎ ne veut point de témoins.  
 Accordez ce relasche à mon ame abatuë.  
 
-    TIGRANE
+    TIGRANE.
 Quoy, vous me déguisez la douleur qui vous tuë ?  
 Et l'amitié, Seigneur, vous y fait consentir ?  
 
-     ANTIOCHUS
+    ANTIOCHUS.
 Je vous l'ay déja dit, Tigrane, il faut partir,  
 C'est tout ce que je sçay.  
 
-    TIGRANE
+    TIGRANE.
         Je n'ose vous promettre  
 Que le Roy sur ce point vueille rien vous permettre,  
 D'un congé si funeste il condamne l'espoir,  
@@ -1550,14 +1550,14 @@ Et plein d'impatience il demande à vous voir.
 Il semble que je puis soulager vostre peine,  
 Et qu'à me l'expliquer vous faisant quelque effort …  
 
-    ANTIOCHUS
+    ANTIOCHUS.
 Voyons le Roy, Tigrane, et laissons faire au Sort.  < FIN DU SECOND ACTE >
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 SELEUCUS, ANTIOCHUS, Suite.
 
 
@@ -1578,11 +1578,11 @@ Je rougis de troubler par mon fatal chagrin
 Le triomphe éclatant de vostre heureux destin,  
 Et pour vous épargner la gesne⁎ où vous expose…  
 
-    SELEUCUS
+    SELEUCUS.
 Vous me l'épargneriez à m'en dire la cause.  
 
 
-### SCENE II
+### SCENE II.
 SELEUCUS, STRATONICE, ANTIOCHUS, PHENICE, Suite.
 
 
@@ -1671,7 +1671,7 @@ Souffrir que sous l'amour un si grand Prince expire !
 Ce Portrait vous dira ce qu'il n'ose vous dire,  
 Seigneur, voyez pour qui son cœur est prevenu.  
 
-    ANTIOCHUS *pendant que Seleucus regarde le Portrait.*
+    ANTIOCHUS *pendant que Seleucus regarde le Portrait.*.
 Enfin, l'on sçait mon crime, et tout vous est connu,  
 L'Astre qui m'en a fait un destin necessaire  
 Dérobe à mon respect la gloire de me taire,  
@@ -1686,7 +1686,7 @@ Ordonnez-le, Seigneur, et vous faites justice,
 Déja ce que pour vous j'y prenois d'interest  
 Par l'exil que je presse avoit fait mon arrest.  
 
-    SELEUCUS
+    SELEUCUS.
 O vertu sans exemple ! Ô cœur trop magnanime !  
 Ne parle point, mon Fils, ny d'exil ny de crime,  
 Quoi qu'oppose à ta flame un scrupuleux devoir,  
@@ -1715,15 +1715,15 @@ Tigrane…
         Le voicy, laisse parler ton Roy.  
 
 
-### SCENE III
+### SCENE III.
 SELEUCUS, ANTIOCHUS, STRATONICE, TIGRANE, PHENICE, Suite.
 
 
-    SELEUCUS *à Tigrane.*
+    SELEUCUS *à Tigrane.*.
 Pour arracher ton Prince au tourment qui l'accable,  
 D'un grand et rare effort sens-tu ton cœur capable ?  
 
-    TIGRANE
+    TIGRANE.
 Au prix de tout mon sang j'aspire à le montrer,  
 Seigneur…  
 
@@ -1762,7 +1762,7 @@ Laisse enfin éclater un amour trop discret,
 Va voir Arsinoé, je te rends son Portrait,  
 D'un gage si charmant la garde est toûjours chere.  
 
-    ANTIOCHUS *regardant le Portrait.*
+    ANTIOCHUS *regardant le Portrait.*.
 Confus, hors de moi-mesme, et contraint de me taire…  
 
     SELEUCUS.
@@ -1929,7 +1929,7 @@ Qu'il meurt d'amour pour vous, que cét amour le tuë,
 Et que pressé d'ennuys, la langueur qui les suit  
 Est l'effet de l'estat où vous l'avez reduit.  
 
-    ARSINOE *à Antiochus.*
+    ARSINOE *à Antiochus.*.
 Sous quelque dur soupçon que Tigrane languisse,  
 Je me connoy, Seigneur, et je vous rends justice,  
 Ce qui le fait trembler étonne⁎ peu ma foy⁎ ;  
@@ -2148,7 +2148,7 @@ Mais comme à son Hymen vous ne pouviez pretendre,
 C'est du moins quelque charme à vostre esprit jaloux  
 De le voir dans ses vœux aussi trompé que vous.  
 
-    STRATONICE
+    STRATONICE.
 Que tu penetres mal l'ennuy qui me surmonte !  
 Si le Prince est trompé, Phenice, il l'est sans honte,  
 Et n'a point à rougir de s'estre répondu [112]  
@@ -2172,7 +2172,7 @@ Ah, si tu connoissois tout ce que souffre un cœur,
 Quand au gré de ses vœux se flatant d'estre aimée  
 On croit oüir son nom, et qu'une autre est nommée !  
 
-    PHENICE
+    PHENICE.
 C'est sans doute un chagrin qu'on ne peut concevoir,  
 Mais dequoy peut se plaindre un amour sans espoir ?  
 Que perd-on en perdant ce qu'on n'a pû prétendre [113] ?  
@@ -2747,7 +2747,7 @@ Le Prince aime la Reyne, et tout dépend de vous.
     SELEUCUS.
 Il aime…  
 
-    ARSINOE
+    ARSINOE.
         Et quoy, Seigneur ? Vous promettez sans peine,  
 Et quand il faut agir, l'engagement vous gesne⁎.  
 
@@ -3112,7 +3112,7 @@ Ceder à mon destin. Donnez, Princesse, hélas !
 Seigneur, c'est de Tigrane asseurer le trépas,  
 Des jours qu'il m'a sauvez est-la récompense ?  
 
-    ARSINOE *donnant au Roy le Portrait de Stratonice.*
+    ARSINOE *donnant au Roy le Portrait de Stratonice.*.
 Ce Portrait confondra son obstiné silence,  
 L'ayant trouvé, Seigneur, sans qu'il en ait sçeu rien.  
 Pour lire dans son cœur j'ay supposé [133] le mien,  
@@ -3171,43 +3171,43 @@ S'y rendra tout entier ; attendant l'heureux jour
 Qui remplissant ses vœux, couronne vostre amour.  < FIN. >
 
 
-# LexiqueAdorer« Rendre le plus grand des respects, et la plus profonde soûmission (…) avoir beaucoup d'amour ou d'admiration pour quelqu'un ». (Fur.)V. 34, 157Aimable« Digne d'être aimé,  il se dit et des personnes et des choses ». (Acad.)V. 579, 636, 1006, 1565Amorce« Charmes, apas ». (R.) V. 297, 554Appast« Se dit figurément en choses morales de ce qui sert à attrapper les hommes, à les inviter a faire quelque chose (…) Cette femme est pleine de charmes et d'appasts ». (Fur.)V. 1, 83, 247, 289, 301, 538, 548, 844, 1125, 1268, 1491, 1508, 1656Chagrin« Inquietude, ennuy, mélancolie. (…) La mort de cet enfant est capable de faire mourir la mere de chagrin ». (Fur.)V. 3, 50, 59, 98, 109, 129, 183, 186, 334, 356, 380, 479, 546, 681Charmes« Se dit figurement de ce qui nous plait extraordinairement, qui nous ravit en admiration ». (Fur.) V. 186, 233, 268Content« Qui est satisfait, qui a ce qu'il désire (…) On dit encore estre content, pour dire agréer, acquiescer, consentir, on dit aussi qu'un homme est content de luy-mesme, pour dire qu'il s'estime beaucoup. » (Acad.)V. 16, 92Ennui« Chagrin, facherie que donne quelque discours ou quelque accident déplaisant ou trop long ». (Fur.)V. 52, 67, 112, 509, 717, 784, 793, 881, 1287, 1396, 1473, 1631Etonner« Epouvanter, surprendre d'une certaine maniere qui touche ». (R.)V. 253, 928, 1026Foy« Sermont,  parole qu'on donne de faire quelque chose et qu'on promet d'executer ». (Fur.)V. 928Gesne« Torture, se dit aussi de toute peine ou affliction de corps ou d'esprit ». (Fur.)V. 56, 382, 706, 902, 1147, 1456Inquietude« Chagrin, ennuy, trouble et affliction d'esprit (...) Il est dans des inquietudes mortelles sur ce qu'on luy a dit du danger où est son frere ». (Fur.)V. 96, 105Interesser« Se dit en Morale de l'émotion des passions. Signifie aussi, porter quelque avantage ou quelque préjudice à quelqu'un ». (Fur.)V. 738, 1484Resver« Faire des songes extravagans, et particulierement quand on est malade, ou en délire. On craint dans la fiévre le transport au cerveau quand le malade commence à resver. » (Fur.)V. 205, 515, 681Soins« Se dit des soucis, des inquiétudes qui emeuvent, qui troublent l'ame ». (Fur.)V. 71, 107, 153, 348, 476, 680, 709, 1009Touchante« Sensible, afligeant (…) qui excite qui emeut. Patétique. » (R.)« C'est un spectacle fort touchant, de voir faire mourir un homme, de l'innocence de qui on est persuadé. » (Fur.)V. 443Transport« Se dit en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. Se dit aussi en Medecine, quand la fièvre est violente on apprehende le transport »V. 106, 352, 730, 946, 1023
+# Lexique.Adorer« Rendre le plus grand des respects, et la plus profonde soûmission (…) avoir beaucoup d'amour ou d'admiration pour quelqu'un ». (Fur.)V. 34, 157Aimable« Digne d'être aimé,  il se dit et des personnes et des choses ». (Acad.)V. 579, 636, 1006, 1565Amorce« Charmes, apas ». (R.) V. 297, 554Appast« Se dit figurément en choses morales de ce qui sert à attrapper les hommes, à les inviter a faire quelque chose (…) Cette femme est pleine de charmes et d'appasts ». (Fur.)V. 1, 83, 247, 289, 301, 538, 548, 844, 1125, 1268, 1491, 1508, 1656Chagrin« Inquietude, ennuy, mélancolie. (…) La mort de cet enfant est capable de faire mourir la mere de chagrin ». (Fur.)V. 3, 50, 59, 98, 109, 129, 183, 186, 334, 356, 380, 479, 546, 681Charmes« Se dit figurement de ce qui nous plait extraordinairement, qui nous ravit en admiration ». (Fur.) V. 186, 233, 268Content« Qui est satisfait, qui a ce qu'il désire (…) On dit encore estre content, pour dire agréer, acquiescer, consentir, on dit aussi qu'un homme est content de luy-mesme, pour dire qu'il s'estime beaucoup. » (Acad.)V. 16, 92Ennui« Chagrin, facherie que donne quelque discours ou quelque accident déplaisant ou trop long ». (Fur.)V. 52, 67, 112, 509, 717, 784, 793, 881, 1287, 1396, 1473, 1631Etonner« Epouvanter, surprendre d'une certaine maniere qui touche ». (R.)V. 253, 928, 1026Foy« Sermont,  parole qu'on donne de faire quelque chose et qu'on promet d'executer ». (Fur.)V. 928Gesne« Torture, se dit aussi de toute peine ou affliction de corps ou d'esprit ». (Fur.)V. 56, 382, 706, 902, 1147, 1456Inquietude« Chagrin, ennuy, trouble et affliction d'esprit (...) Il est dans des inquietudes mortelles sur ce qu'on luy a dit du danger où est son frere ». (Fur.)V. 96, 105Interesser« Se dit en Morale de l'émotion des passions. Signifie aussi, porter quelque avantage ou quelque préjudice à quelqu'un ». (Fur.)V. 738, 1484Resver« Faire des songes extravagans, et particulierement quand on est malade, ou en délire. On craint dans la fiévre le transport au cerveau quand le malade commence à resver. » (Fur.)V. 205, 515, 681Soins« Se dit des soucis, des inquiétudes qui emeuvent, qui troublent l'ame ». (Fur.)V. 71, 107, 153, 348, 476, 680, 709, 1009Touchante« Sensible, afligeant (…) qui excite qui emeut. Patétique. » (R.)« C'est un spectacle fort touchant, de voir faire mourir un homme, de l'innocence de qui on est persuadé. » (Fur.)V. 443Transport« Se dit en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. Se dit aussi en Medecine, quand la fièvre est violente on apprehende le transport »V. 106, 352, 730, 946, 1023
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourcesHistoire romaine
+## Sources.Histoire romaine
 Les Vies des hommes illustres
 Faits et dits mémorables
 
 
 
-### Pièces traitant le même sujetLa Stratonice  ou le Malade d'amour
+### Pièces traitant le même sujet.La Stratonice  ou le Malade d'amour
 La Nouvelle Stratonice
 Le Triomphe des cinq passions
 Stratonice
 
 
 
-### Théâtre diversŒuvres complètes
+### Théâtre divers.Œuvres complètes
 Laure persécutée
 
 
 
-### Théâtre de Thomas CorneilleDarius
+### Théâtre de Thomas Corneille.Darius
 Maximian
 Laodice
 La mort d'Achille
 
 
 
-### Auteurs du XVII*e* siècleLa pratique du théâtre
+### Auteurs du XVII*e* siècle.La pratique du théâtre
 Œuvres complètes
 
 
 
-## Outils de travailDictionnaire de l'Académie française
+## Outils de travail.Dictionnaire de l'Académie française
 Bibliographie de la littérature française du 17*ème* siècle
 Dictionnaire universel
 Syntaxe française du 17*ème* siècle
@@ -3215,13 +3215,13 @@ Histoire du théâtre français
 
 
 
-## Études sur Thomas CorneilleThomas Corneille : protean dramatist
+## Études sur Thomas Corneille.Thomas Corneille : protean dramatist
 La dramaturgie de Thomas Corneille
 Thomas Corneille, sa vie et son théâtre
 
 
 
-## Études sur le théâtre du XVII*e* siècleHistoire de la littérature française au 17*ème* siècle
+## Études sur le théâtre du XVII*e* siècle.Histoire de la littérature française au 17*ème* siècle
 Lire le Baroque
 Essai de génétique théâtrale : Corneille à l'œuvre
 Introduction à l'analyse des textes classiques
@@ -3239,13 +3239,13 @@ La Tragédie classique en France
 
 
 
-## Ouvrages sur la galanterie et la préciositéAmour précieux amour galant
+## Ouvrages sur la galanterie et la préciosité.Amour précieux amour galant
 De l'air galant et autres conversations
 Le dictionnaire des précieuses
 
 
 
-## DiversPhilippe Quinault. Sa vie et son œuvre
+## Divers.Philippe Quinault. Sa vie et son œuvre
 Philippe Quinault, sa vie ses tragédies et ses tragi-comédies
 
 

@@ -16,10 +16,10 @@ A PARIS, Chez THEODORE GIRARD [1], en la grand'Salle du Palais, au dos de la Sal
 Édition critique établie dans le cadre d'un mémoire de master 1 de l'université Paris-Sorbonne par Louis Celot sous la direction de Georges Forestier (2014-2015).
 
 
-# Situation d'Agamemnon dans la vie et l'œuvre de Claude Boyer
+# Situation d'Agamemnon dans la vie et l'œuvre de Claude Boyer.
 
 
-## Un dramaturge qui se cacha pour que sa tragédie soit vue
+## Un dramaturge qui se cacha pour que sa tragédie soit vue.
 
 C'est sous le nom de Pader d'Assezan que Claude Boyer publia en 1680 *Agamemnon*. Rejeté par les Anciens qu'étaient Racine et Boileau, le dramaturge était plus proche des Modernes menés par Charles Perrault. Il expliqua l'utilisation de ce pseudonyme dans la préface d'*Artaxerce*, la pièce qui suivit et qui fut représentée cette fois sous le véritable nom de l'auteur :
 
@@ -36,7 +36,7 @@ J'ay sujet de craindre que le destin de cette Tragédie n'ait quelque chose de s
 Afin de comprendre toutes ces précautions prises par un dramaturge qui se cacha pour que sa pièce soit vue, il convient de replacer *Agamemnon* au sein de la vie de Claude Boyer.
 
 
-## Éducation littéraire et religieuse
+## Éducation littéraire et religieuse.
 
 Claude Boyer naquit à Albi en 1618. Parmi le peu d'informations qui sont à notre disposition sur ses origines, nous savons qu'il était le fils d'un notable et qu'il étudia au collège des jésuites de sa ville natale ; il le quitta après avoir obtenu son baccalauréat en théologie. Il acquit ainsi une culture en rhétorique et en littérature gréco-latine, ainsi sans doute qu'un goût pour le théâtre : le système éducatif jésuite encourageait la mise en scène de pièces de théâtre par les élèves. Michel Le Clerc était un de ses camarades de collège, et les deux hommes se lièrent d'amitié, si bien qu'ils écrivirent tous deux une tragédie sur un sujet assez voisin : *La Virginie romaine* de Le Clerc (1645) et *La Porcie romaine* de Boyer (1646).
 
@@ -53,12 +53,12 @@ Les raisons de la rancune de Furetière contre Boyer sont exposées par Georges 
 En 1686, enragé d'être empêché de publier son *Dictionnaire* et d'avoir en outre été exclu de l'Académie française l'année précédente, Furetière écrivait son *Second Factum*, où il se déchaînait contre ceux qui avaient voté cette mesure, parmi lesquels Benserade, La Fontaine et Boyer. Assurant que celui-ci s'était tourné vers le théâtre parce que, quoique bachelier en théologie, il n'avait pu trouver un lieu pour prêcher, il ajoutait : « On lui a reproché un jour qu'il prêchait dans les déserts de la Thébaïde, à cause de la solitude qui se trouva à la représentation d'une de ses pièces qui portait ce nom. » [8]
 
 
-## Premières fonctions politiques
+## Premières fonctions politiques.
 
 À vingt-quatre ans, Claude Boyer fut mandaté en tant que député à la cour auprès du Conseil privé du roi pour les affaires diocésaines ; ce mandat date de novembre 1642, alors que la région de l'Albigeois se trouvait accablée par les guerres et soumise au despotisme du seigneur-évêque, Gaspard de Daillon du Lude. Il est possible que Claude Boyer ait étudié auparavant la théologie à l'université de Paris ; cependant la mission qui lui fut confiée le montre enraciné dans sa région natale et atteste de compétences politiques. Sa fonction de député l'occupa pendant deux ans, jusqu'en novembre 1644 ; elle lui valut une rétribution importante contre laquelle il signa un reçu autographe, daté du 22 mars 1644, de Paris.
 
 
-## Premiers pas dans le monde et dans l'écriture
+## Premiers pas dans le monde et dans l'écriture.
 
 Claude Boyer s'installa à Paris en 1645 et réussit assez vite à se faire une place dans les milieux littéraires. Il devint le protégé [9] de Mme de Rambouillet dont il fréquentait le salon : il rencontra des grands noms de la littérature tels que Chapelain ou Mlle de Scudéry. L'édition de la première pièce de Claude Boyer, *La Porcie romaine* [10], commence ainsi par une épître dédicatoire à la marquise de Rambouillet. L'abbé Genest, successeur de Boyer à l'Académie française, rappela le rôle de cette protectrice dans son discours de réception :
 
@@ -80,7 +80,7 @@ Bachelier en théologie, qui, par son industrie, s'étant mis à la suite de Tal
 Boyer fut donc au service de « Taleman » — M. Tallemant, sans doute le banquier Gédéon II Tallemant — maître des requêtes de l'hôtel du roi et intendant de Guyenne. Par conséquent, il paraît vraisemblable que Boyer, lié aux grandes familles qui prennent part à la Fronde (les Condé par le biais des Tallemant et des Rambouillet notamment), fut victime des suites de ces affrontements : il ne disposait certainement plus de protecteur pendant cette période. L'hôtel de Rambouillet cessa de jouer un rôle dans le mouvement littéraire à cette époque (Catherine de Vivonne, marquise de Rambouillet, le tient de 1608 jusqu'à sa mort en 1665) ; c'est pourtant sans doute là qu'il fit la rencontre Marie Anne Mancini, duchesse de Bouillon, à laquelle fut dédié *Agamemnon* dans la première édition de 1680.
 
 
-## Les succès et la renommée
+## Les succès et la renommée.
 
 C'est sous la protection du libéral Nicolas Fouquet, surintendant des finances de Louis XIV de 1653 à 1661, que Boyer revint au théâtre en 1659. Fouquet accorda en effet une grande importance à la tradition de mécénat du pouvoir instaurée par Richelieu ; Boyer dédicaça ainsi sa tragédie *Clotilde* (1659) à Fouquet. Cette habileté mondaine doublée de l'estime de Chapelain lui valurent de figurer en 1662 sur une liste que ce dernier adressa à Colbert, et qui devait servir à ce dernier pour établir l'année suivante la première série des pensions royales :
 
@@ -104,10 +104,10 @@ Ses vers ont de la pompe et ne sont point confus.
 Cependant, lors des deux décennies suivantes, Boyer devint la cible des attaques répétées de trois grandes figures du camp des Anciens.
 
 
-## Attaques et rivalités
+## Attaques et rivalités.
 
 
-### Les années 1660 et 1670 : premiers heurts avec Racine et Boileau
+### Les années 1660 et 1670 : premiers heurts avec Racine et Boileau.
 
 À partir des années 1660, plusieurs éléments se conjuguèrent et nuisirent à la carrière de Boyer. Son protecteur et ami, Jean Chapelain, vit son propre crédit baisser. C'est aussi et surtout les épigrammes et les attaques dont le criblèrent notamment Racine, Boileau et Furetière qui desservirent ses œuvres. Jusqu'à sa mort, Boyer fit face à une forte hostilité de quelques rivaux et critiques. En témoigne la préface du *Jeune Marius* que Claude Boyer dédia à Colbert :
 
@@ -124,7 +124,7 @@ Mais un froid écrivain ne sait rien qu'ennuyer. [22]
 La comparaison avec Pinchêne, neveu de Voiture et écrivain peu considéré, fut insultante pour un auteur tel que Boyer. C'est dans ce contexte que ce dernier décida d'utiliser le pseudonyme « Pader d'Assezan » pour publier *Agamemnon* [23].
 
 
-### Les années 1680 et 1690 : Furetière devient un nouvel opposant
+### Les années 1680 et 1690 : Furetière devient un nouvel opposant.
 
 Plus d'une décennie après l'*Art poétique*, un autre partisan des Anciens, Furetière, écrivit des épigrammes violentes contre Boyer, mais pour d'autres raisons. L'inimitié entre deux académiciens datait de l'affaire des dictionnaires. Furetière, excédé par la lenteur de l'avancement des travaux du *Dictionnaire de l'Académie*, ainsi que par l'absence de prise en compte des termes scientifiques, techniques et artistiques, obtint le 24 août 1684 un privilège du roi pour un « dictionnaire universel d'Art et de Science », qui fut finalement publié en 1690 à La Haye chez Arnout et Reinier Leers, sous le titre *Dictionnaire universel contenant généralement tous les mots françois, tant vieux que modernes, et les termes de toutes les sciences et des arts*. Les académiciens avaient déjà obtenu un privilège le 28 juin 1674, dans lequel Louis XIV faisait interdire la publication de dictionnaires de langue française avant que ne soit édité celui de l'Académie [24]. Le 22 janvier 1685, Furetière fut exclu de l'Académie française, lors d'un vote où Boyer, alors chancelier de l'Académie, soutint cette éviction. La bataille d'épigrammes entre Boyer et Furetière fut publiée dès 1687 [25]. Boyer répondit d'abord au *Second Factum*, publié vers la fin d'avril 1686, dans lequel Furetière le critiquait sévèrement :
 
@@ -214,7 +214,7 @@ Quant à Boyer, avec lequel il avait été en conflit une ultime fois trois ans 
 Racine n'exprime donc pas de jalousie ou de rancune envers Boyer ; il devait lui sembler évident que l'auteur d'*Agamemnon* ne passerait pas à la postérité — ou seulement comme un auteur médiocre.
 
 
-### Conséquences des cabales sur la postérité de Claude Boyer
+### Conséquences des cabales sur la postérité de Claude Boyer.
 
 Dans la préface d'*Artaxerce*, Boyer se révéla particulièrement conscient des dommages que les attaques qu'il subissait avaient sur sa renommée :
 
@@ -238,7 +238,7 @@ Leur rejet de Boyer au niveau littéraire restait ainsi complet : « Sa Poësi
 Boyer fut ignoré ou considéré comme un mauvais dramaturge, un auteur sans talent jusqu'au début du XX*e* siècle. Cependant, on peut émettre l'hypothèse que si Racine s'est tellement acharné sur Claude Boyer, c'est qu'il voyait en lui un rival de talent à ne pas sous-estimer.
 
 
-## Situation d'*Agamemnon* au sein de la Querelle des Anciens et des Modernes
+## Situation d'*Agamemnon* au sein de la Querelle des Anciens et des Modernes.
 
 Il convient de replacer la représentation et la parution d'*Agamemnon*, au sein de la Querelle des Anciens et des Modernes, qui organisait la vie littéraire depuis les années 1670. Le camp des Anciens — Boileau, Racine et leurs partisans influents à la Cour —, comme nous l'avons vu, attaquait durement Boyer, qui trouvait ses soutiens parmi les Modernes (Chapelain, Corneille) ; ces derniers se réunissaient dans les salons parisiens comme celui de Mme de Deshoulières [44].
 
@@ -257,7 +257,7 @@ Cette conviction fut renforcée dans la préface de la pièce de Boyer créée d
 Les partisans des Anciens que Boyer avait d'abord à l'esprit étaient bien entendu ses ennemis directs, Boileau et Racine. Mais cette appartenance de Boyer au camp des Modernes le plaçait dans une situation paradoxale pour ce qui était de l'écriture d'*Agamemnon* : la pièce connut bien l'influence de grandes pièces contemporaines ; mais cette influence était d'abord celle d'*Andromaque* (1667) et de *Phèdre et Hippolyte* [48] (1677), tragédies de Racine, qui se trouvait être l'un des plus grands contempteurs de Boyer.
 
 
-## Représentations d'*Agamemnon* et débats sur l'identité de l'auteur
+## Représentations d'*Agamemnon* et débats sur l'identité de l'auteur.
 
 *Agamemnon* fut créé le 12 mars 1680 au Théâtre de Guénégaud — parfois encore appelé la Salle du Jeu de paume de la Bouteille [49] — l'année de la création de la Comédie-Française ; cependant, la première série des représentations eut lieu avant la fusion des troupes en juillet 1680 [50]. Lancaster donne les noms des comédiens pour ces premières représentations :
 
@@ -365,7 +365,7 @@ Furetière lui-même critiqua ce procédé de Boyer dans le *Second factum* : 
 Enfin, le privilège d'*Agamemnon* prouve une nouvelle fois que Boyer en était bien le dramaturge : le privilège de 1680, selon le n° 1227 de la *Bibliothèque du théâtre françois* de Martineau de Soleinne, fut accordé à « Brice » — et non à Pader d'Assezan — un nom qui constitue une anagramme de Boyer quand on lit le « c » comme un « o », le « i » correspondant au « y ». Boyer a sûrement changé ces lettres intentionnellement pour éviter le mot inélégant « Bryoe » [74].
 
 
-## Publications d'*Agamemnon*
+## Publications d'*Agamemnon*.
 
 Selon la première édition d'*Agamemnon*, l'œuvre fut enregistrée « *sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 7. May 1680* », et achevée d'imprimer le « 25 May » de la même année. Théodore Girard en était le libraire. L'imprimeur de la tragédie était Christophe Journel, dont l'atelier était situé rue de la Vieille Bouclerie, actuelle rue de la Harpe, près du pont Saint-Michel, d'après Alain Riffaud dans le *Répertoire du théâtre français imprimé au XVII*e* siècle* [75]. L'ouvrage fut dédié à « Madame la Duchesse de Bouillon », Marie Anne Mancini (Rome, 1649 — Paris 1714), nièce de Mazarin, qui fut aussi la protectrice de Jean de la Fontaine [76].
 
@@ -374,20 +374,20 @@ Agamemnon connut plusieurs rééditions : chez Vincent, 1706, Paris, en in-18 
 Selon les frères Parfaict, Boyer aurait aussi écrit un *Oreste* en collaboration avec Michel Le Clerc, représenté à Fontainebleau en présence du roi en 1681, mais jamais imprimé [78]. Cependant, vu le peu d'écart entre cette date et celle des premières représentations d'*Agamemnon*, et étant donné l'importance du rôle d'Oreste dans notre pièce, il semble probable qu'il s'agisse de la même tragédie.
 
 
-# Construction et composition d'Agamemnon
+# Construction et composition d'Agamemnon.
 
 
-## Adaptation des sources antiques et inspirations contemporaines
+## Adaptation des sources antiques et inspirations contemporaines.
 
 
-### Homère, Eschyle et Sénèque
+### Homère, Eschyle et Sénèque.
 
 Les œuvres dont Boyer s'inspire pour *Agamemnon* sont célèbres : la plus importante est la tragédie latine du même nom écrite par Sénèque au Ier siècle ap. J.-C., comme l'a bien montré Florence de Caigny [79]. De Sénèque viennent les éléments essentiels de l'intrigue [80] et l'introduction avec l'orage (I, 1). Sénèque s'inspirant lui-même largement des Grecs, de *L'Orestie* d'Eschyle comme de *L'Iliade* et *L'Odyssée* d'Homère, Boyer est indirectement influencé par ces textes. Cependant, Oreste et Pylade ont des rôles muets chez Sénèque. Au contraire, Egisthe et Electre qui ont des rôles importants chez Sénèque n'apparaissent pas sur scène chez Boyer, bien qu'Egisthe soit souvent nommé et qu'il perpètre l'assassinat d'Agamemnon et de Cassandre.
 
 *Agamemnon* n'est donc pas une simple adaptation. Boyer introduit dès la première scène de sa tragédie ce qui fait toute son originalité par rapport à *L'Odyssée* d'Homère, *L'Orestie* d'Eschyle ou à l'*Agamemnon* de Sénèque : le dramaturge invente l'amour partagé entre Oreste et Cassandre, qui n'existe en aucune manière dans les textes antérieurs. Il convertit la volonté de vengeance de Cassandre contre Agamemnon en véritable projet de meurtre. Enfin, il fait d'Egisthe le seul meurtrier d'Agamemnon et de Cassandre, alors que dans les versions antérieures le double assassinat est aussi perpétré par Clytemnestre.
 
 
-### Une tragédie racinienne
+### Une tragédie racinienne.
 
 Boyer s'inspire largement d'*Andromaque* (1667) de Racine : Pylade tient dans les deux pièces de rôle de confident, alors qu'Oreste est amoureux d'Hermione chez Racine et de Cassandre chez Boyer. Comme dans *Andromaque*, ce sont les seuls personnages qui parlent dans la première scène d'*Agamemnon* (I, 1).
 
@@ -426,7 +426,7 @@ Les autres échos raciniens sont indiqués dans les notes de bas de page sur le 
 Le mythe d'Agamemnon est célèbre, et les spectateurs savent dès le début de la pièce que le personnage éponyme est condamné à mourir. Cependant, le profond travail de transformation des sources par Boyer que nous avons analysé se double de leur adaptation aux règles classiques des unités de lieu, de temps et d'action.
 
 
-## La composition de l'action
+## La composition de l'action.
 
 Comment comprendre la construction d'*Agamemnon* ? Si Boyer est dans la première partie de sa carrière un émule de Corneille, en 1680 c'est Racine qui est devenu son influence majeure. Les analyses de Georges Forestier, dans l'édition Pléiade du théâtre et des poésies de Racine, peuvent nous aider à élucider la composition de notre « tragédie à crise » :
 
@@ -436,7 +436,7 @@ Comment comprendre la construction d'*Agamemnon* ? Si Boyer est dans la premiè
 La « cause finale » d'*Agamemnon* est ainsi le meurtre du personnage éponyme, doublé de celui de Cassandre. Boyer s'efforce de créer le sentiment d'un destin inéluctable.
 
 
-### Une tragédie construite à rebours
+### Une tragédie construite à rebours.
 
 Afin de comprendre la tragédie à crise qu'est *Agamemnon*, il semble donc pertinent de partir du dénouement, pour analyser « à rebours » ce qui a vraisemblablement été construit de cette manière :
 
@@ -450,7 +450,7 @@ Comment fonctionne la chaîne qui conduit à la mort d'Agamemnon et de Cassandre
 Ce n'est donc pas la rivalité amoureuse entre Oreste et Agamemnon pour l'amour de Cassandre qui conduit à la mort de ces deux derniers personnages, ni même le désir de vengeance de Cassandre qui projetait d'assassiner le roi de Mycènes, afin de venger les Troyens, puis de se suicider. Le dénouement ne découle pas d'une action unique : la mort de Cassandre résulte de la jalousie de Clytemnestre, et celle d'Agamemnon de l'ambition politique d'Egisthe.
 
 
-### Action principale et actions secondaires
+### Action principale et actions secondaires.
 
 Corneille, reprenant *La Poétique* d'Aristote, déclare dans le *Discours du poème dramatique* : « Il faut donc qu'une action pour être d'une juste grandeur ait un commencement, un milieu et une fin. Cinna conspire contre Auguste et rend compte de sa situation à Emilie, voilà le commencement, Maxime en avertit Auguste, voilà le milieu, Auguste lui pardonne, voilà la fin. [85] ». On pourrait résumer simplement l'action principale d'*Agamemnon* de la même manière : on croit qu'Agamemnon est mort, et l'on se préoccupe de sa succession, voilà le commencement, Agamemnon revient et découvre que son épouse l'a trahi, voilà le milieu, Agamemnon lui pardonne, mais meurt assassiné par Egisthe aux côtés de Cassandre, voilà la fin. L'épisode de l'amour entre Oreste et Cassandre n'apparaît pas ici, mais il « s'embarrasse [86] » si bien avec l'action principale qu'il ne forme plus qu'un avec l'intrigue.
 
@@ -461,10 +461,10 @@ L'*Agamemnon* de Boyer compte donc cinq personnages qui mènent l'action princip
 À ce fil principal s'ajoutent trois fils secondaires : Oreste aime Cassandre, qui l'aime en retour, mais sans qu'il ne le sache ; Clytemnestre et Egisthe s'aiment ; Cassandre veut la mort d'Agamemnon. Ces actions secondaires influencent aussi l'action principale et sont nécessaires à son déroulement ; elles ne peuvent être retranchées de la tragédie sans rendre incompréhensible l'action principale : si Cassandre ne voulait pas la mort d'Agamemnon et n'aimait pas Oreste, elle n'accepterait pas d'épouser le roi de Mycènes, à la fois pour le tuer, et parce qu'elle sait que cette décision provoquera la fuite d'Oreste et lui sauvera ainsi la vie ; si Clytemnestre ne voulait pas la mort de Cassandre, elle ne délivrerait pas Egisthe de la prison dans laquelle Agamemnon l'a fait enfermé. Ces actions secondaires se déploient tout au long de la tragédie, de l'exposition au dénouement.
 
 
-## Règles classiques : espace, temps et bienséance dans *Agamemnon*
+## Règles classiques : espace, temps et bienséance dans *Agamemnon*.
 
 
-### Lieux de l'action et lieux dans l'action
+### Lieux de l'action et lieux dans l'action.
 
 L'unité de lieu est respectée dans *Agamemnon* : l'ensemble de l'action se déroule « *dans le Palais des Roys de Mycene* », c'est-à-dire dans « l'Anti-chambre tragique (la scène proprement dite) qui participe à la fois de l'intérieur et de l'extérieur [87] ». À partir de ce lieu clos, les personnages donnent en effet à entendre les évocations d'autres espaces. Certains de ces lieux correspondent au présent de l'action : l'espace de la « mer Egée » (v. 18) où Agamemnon est censé avoir trouvé la mort lors d'une tempête. Le « temple », avec son « autel », est le lieu où doivent être célébrés les mariages ; mais aucun des deux « hyménées » prévus n'est réalisé : Clytemnestre n'épouse pas Egisthe en raison du retour d'Agamemnon, et ce dernier renonce au dernier moment à épouser Cassandre : tous deux trouvent la mort dans ce même temple, par la main d'Egisthe (il n'est jamais question de mariage entre Oreste et Cassandre, seulement d'amour).
 
@@ -519,7 +519,7 @@ Je me livre en aveugle aux horreurs de mon sort.
 Je déteste la vie et vay chercher la mort (IV, 4, v. 1261-1264)  
 
 
-### Traitement du temps
+### Traitement du temps.
 
 Comme le demande la bienséance, l'action est conçue de manière à concorder autant qu'il est possible avec la durée réelle de la représentation. Il est souvent rappelé que toute l'action se déroule sur une seule journée ; il s'agit du jour même du retour d'Agamemnon de Troie :
 
@@ -576,7 +576,7 @@ Des enfans égorgez, des filles immolées,
 Des vieillards massacrez, des meres desolées (III, 2, v. 745-755)  
 
 
-### Une action accélérée et dramatisée grâce aux entractes
+### Une action accélérée et dramatisée grâce aux entractes.
 
 L'« entracte » est l'intervalle entre deux actes : rien ne se passe sur scène, mais certains événements ont lieu et sont révélés à l'acte qui suit. Les entractes ont principalement un rôle d'accélérateur de l'action et de dramatisation dans *Agamemnon*, et non de masquage d'événements violents. De fait, les meurtres d'Agamemnon et de Cassandre ont lieu au cours du dernier acte, au début duquel tous deux sont encore vivants. Chaque fois, les événements qui se sont déroulés lors de l'entracte sont révélés en quelques répliques au début de l'acte suivant ; entre les actes I et II, Agamemnon (qui ignore encore à ce moment le mariage qui était prévu avec Egisthe) rencontre Clytemnestre, comme l'évoque Oreste :
 
@@ -586,7 +586,7 @@ Il n'a pû qu'un moment entretenir ma Mère, (II, 2, v. 429-430).
 L'absence d'une scène supplémentaire pour cette rencontre permet de rendre l'action plus rapide ; de même, entre les actes II et III, Egisthe et Clytemnestre sont emprisonnés, et Agamemnon condamne cette dernière à l'exil à Sparte, mais nous ne l'apprenons qu'au début du troisième acte. L'accélération se double d'un effet de suspens entre l'acte III et l'acte IV : Cassandre vient d'accepter le mariage avec Agamemnon alors qu'elle l'avait refusé auparavant (III, 7) ; l'absence d'une scène antérieure où Cassandre expliquerait ce revirement crée un effet d'incertitude jusqu'à la cinquième scène de l'acte IV, où elle dévoile finalement son projet de tuer le roi puis de se suicider lors de leur mariage. Enfin, entre les actes IV et V, Oreste quitte Mycènes et Egisthe est délivré par Clytemnestre. L'absence d'une scène dans laquelle on assisterait à la libération d'Egisthe dramatise son apparition finale — ses paroles et ses assassinats étant rapportées par Ismène (V, 8) puis par Eurybate (V, 10).
 
 
-### Récits de meurtres et bienséance
+### Récits de meurtres et bienséance.
 
 Les rôles d'Ismène, confidente de Cassandre dont elle révèle la mort, et d'Eurybate, confident d'Agamemnon dont il dévoile aussi le trépas, correspondent exactement à l'analyse de Jacques Scherer :
 
@@ -614,10 +614,10 @@ Mes malheurs sont finis : mais quand je pers le jour,
 *Oreste que de maux vont suivre ton amour* ! (V, 8, v. 1592-1596)  
 
 
-## Résumé analytique d'*Agamemnon*
+## Résumé analytique d'*Agamemnon*.
 
 
-### Acte I : annonce de mort et de retour
+### Acte I : annonce de mort et de retour.
 
 **Scène 1** : Oreste, face à Pylade, évoque d'abord d'Agamemnon, en rappelant les causes et l'issue de la guerre de Troie. Avant son retour de Troie, Agamemnon a envoyé Cassandre, sa captive, au-devant de lui. Oreste révèle son amour pour Cassandre dans cette première scène d'aveu à un confident ; cependant, Cassandre ne montre que rejet pour lui, protestant qu'elle est une prêtresse dévouée à Apollon et surtout qu'il est le fils d'Agamemnon, mais ne lui opposant pas ses propres sentiments. Oreste achève cette scène en révélant que s'il refuse d'épouser une autre princesse que Cassandre, Clytemnestre a l'intention d'épouser Egisthe, chargé par Agamemnon lui-même d'aider la reine pendant son absence.
 
@@ -630,7 +630,7 @@ Mes malheurs sont finis : mais quand je pers le jour,
 **Scène 5** : Après un court moment de joie, Clytemnestre prend peur, craignant que le roi ne remarque les préparations pour son mariage avec Egisthe, auquel elle renonce immédiatement, frappée de honte [99]. Elle envisage d'abord de fuir, mais sa confidente Doride l'en dissuade, arguant qu'elle seule connaît l'amour de la reine pour Egisthe, et qu'un tel acte la désignerait immédiatement comme coupable. Clytemnestre décide alors de recevoir Agamemnon, et de laisser les dieux décider de son propre sort.
 
 
-### Acte II : arrivée du roi et dévoilement des trahisons
+### Acte II : arrivée du roi et dévoilement des trahisons.
 
 **Scène 1** : Cassandre exprime son désir de mettre fin à ses jours à sa confidente Ismène [100]. La princesse troyenne déplore le massacre de sa famille et de son peuple. Elle exprime sa haine pour Agamemnon, qu'elle espérait mort mais dont elle vient d'apprendre le retour. Cassandre, bien qu'elle le nie aux yeux de tous en dehors d'Ismène, avoue qu'elle est bien amoureuse d'Oreste. Ismène a beau encourager cette passion, Cassandre refuse de s'y abandonner justement par amour pour Oreste : elle sait qu'Apollon punit tous ceux qui tombent amoureux d'elle [101].
 
@@ -649,7 +649,7 @@ Mes malheurs sont finis : mais quand je pers le jour,
 **Scène 8** : Clytemnestre, qui n'avait pas connaissance de la conjuration ourdie par Egisthe contre Agamemnon, est désespérée que ce dernier l'y associe. Sa confidente Doride explique cette injustice par l'amour que le roi voue à Cassandre : il veut se débarrasser de tous ceux qui l'empêchent de s'abandonner à sa passion. Clytemnestre approuve cette interprétation, et confie à Doride qu'elle va tenter de supplier le roi de renoncer à Cassandre : il faut « perdre » cette rivale, sinon la reine sait qu'elle est elle-même condamnée à mourir.
 
 
-### Acte III : condamnations des traîtres
+### Acte III : condamnations des traîtres.
 
 **Scène 1** : Arbas confirme l'emprisonnement d'Egisthe à Agamemnon. Ce dernier affirme la totale confiance qu'il accorde à son confident, pressentant qu'il court toujours un grand risque en dépit de l'arrestation de Clytemnestre et de celui qu'elle était sur le point d'épouser.
 
@@ -668,7 +668,7 @@ Mes malheurs sont finis : mais quand je pers le jour,
 **Scène 8** : Cassandre exprime à Ismène ses craintes pour la vie d'Oreste, désespérée à l'idée que son refus d'épouser Agamemnon le mette en danger. Elle n'espère rien du roi qui a assassiné sa famille. Elle jure de nuire autant qu'elle le pourra à Agamemnon, pour sa famille et pour ses dieux, mais sans préciser ses intentions.
 
 
-### Acte IV : les mystères de la prophétesse
+### Acte IV : les mystères de la prophétesse.
 
 **Scène 1** : l'acte s'ouvre avec un premier coup de théâtre : Agamemnon annonce que Cassandre a accepté de l'épouser le jour même. Eurybate a beau montrer sa surprise devant cette décision, Agamemnon est tout entier à son bonheur. Son confident le met en garde devant l'orgueil qui trouble de jugement du roi, et lui rappelle les risques politiques d'un tel mariage : les Grecs de Mycènes haïssent la Troyenne. Agamemnon invoque la dette des Grecs à son égard, lui qui a vaincu Troie, et rappelle que ce sont les chefs achéens qui lui ont donné Cassandre lors du partage du butin après le sac de de la ville.
 
@@ -685,7 +685,7 @@ Mes malheurs sont finis : mais quand je pers le jour,
 **Scène 7** : la reine refuse de partir en exil et de laisser sa rivale prendre sa place. L'acte s'achève avec la décision de Clytemnestre de libérer Egisthe afin qu'il tue Cassandre. La femme d'Agamemnon est prête à subir le courroux de ce dernier, qui frappera aussi Egisthe.
 
 
-### Acte V : ultimes revirements et dénouement meurtrier
+### Acte V : ultimes revirements et dénouement meurtrier.
 
 **Scène 1** : le dernier acte s'ouvre par la joie de Cassandre à la nouvelle du départ d'Oreste, en sécurité loin de Mycènes : il n'aura pas à assister à la mort de son père ni à celle de la femme qu'il aime. La Troyenne se tuera à regret, car elle est amoureuse d'Oreste. Ismène la conjure de renoncer à ce suicide, qui détruirait tout ce qui reste du sang de sa famille. Cassandre, inspirée par Apollon, prédit la mort d'Agamemnon, qui est inévitable car les dieux veulent le punir de ses crimes.
 
@@ -708,12 +708,12 @@ Mes malheurs sont finis : mais quand je pers le jour,
 **Scène 10** : Eurybate révèle dans la dernière scène, dans un effet de retardement extrême, qu'Egisthe, secondé par ses partisans, a aussi assassiné Agamemnon, qui est mort aux pieds de Cassandre. Le fils de Thyeste s'est enfui, effrayé de son propre crime. Oreste jure de poursuivre Egisthe pour venger Agamemnon et Cassandre, sans pourtant prendre en compte le rôle de Clytemnestre.
 
 
-## Structure externe de l'action
+## Structure externe de l'action.
 
 L'action d'*Agamemnon* peut être découpée selon trois grands mouvements successifs : l'exposition, le nœud et le dénouement. L'étude du déroulement de la tragédie permet de comprendre comment Boyer y tisse les différents fils de l'intrigue.
 
 
-### L'exposition
+### L'exposition.
 
 Comment déterminer ce qui constitue l'exposition d'*Agamemnon* ? Jacques Scherer explique dans *La dramaturgie classique en France* que « pour que nous nous intéressions aux personnages, il faut d'abord que nous sachions qui ils sont. Cette présentation est faite, en même temps que d'autres renseignements indispensables nous sont donnés, dans ce qu'on appelle l'exposition. Une exposition complète … « doit instruire le spectateur du sujet et de ses principales circonstances, du lieu de la scène et même de l'heure où commence l'action, du nom, de l'état, du caractère et des intérêts de tous les principaux personnages » Section IV, ch. 1, § 2. Il convient de se demander d'abord où nous pourrons trouver tous ces renseignements. [104] »
 
@@ -731,7 +731,7 @@ Or, quand elle apprend qu'Agamemnon a survécu, ce n'est pas le plaisir mais la 
 La quatrième scène, dans laquelle Eurybate annonce à Clytemnestre qu'Agamemnon a survécu, clôt l'exposition Cependant, l'exposition n'est pas réellement achevée à ce moment de la pièce. On peut reprendre à Jacques Scherer la notion d'« exposition discontinue [106] », car deux personnages, Cassandre et Agamemnon, bien qu'évoqués auparavant, n'apparaitront qu'à l'acte II ; cet acte constitue un « renouveau » de l'exposition. L'entrée de Cassandre (II, 1) apporte ainsi une donnée inédite et essentielle pour l'intrigue principale en révélant qu'elle est aussi amoureuse d'Oreste.
 
 
-### Le nœud
+### Le nœud.
 
 Comme le note Jacques Scherer, le nœud de *Phèdre* — comme celui d'*Agamemnon* — se forme parce que les personnages croient que le roi est mort : « Dans *Phèdre* de Racine, il n'y a que deux péripéties, mais toute la tragédie repose sur elles : il faut que Thésée soit cru mort (I, 4) pour que Phèdre cède à son amour pour Hippolyte, et il faut que le retour du roi soit annoncé pour que cet amour aboutisse à un dénouement tragique. [107] » De même, il faut qu'Agamemnon soit cru mort pour que Clytemnestre décide d'épouser Egisthe, et il faut qu'à son retour le roi préfère Cassandre à Clytemnestre pour que cette dernière libère leur meurtrier.
 
@@ -747,24 +747,24 @@ La situation est ainsi bloquée pour Clytemnestre par le caractère inflexible d
 Boyer joue donc à la fois du « principe de la situation bloquée, le principe esthétique le plus caractéristique de la dramaturgie de Corneille, chez qui chaque étape de l'action referme davantage l'impasse dans laquelle se trouve placé le héros, suscitant ainsi un pathétique intense, et appelant inéluctablement un événement ou une décision inattendue qui vienne trancher ce nœud inextricable et mortel », si l'on se place du point de vue d'Oreste et de Cassandre ou de Clytemnestre, tous impuissants et exprimant leur désespoir face aux blocages que leur impose Agamemnon (la décision inattendue étant le pardon d'Agamemnon concernant Clytemnestre et sa volonté d'unir son fils avec Cassandre, à l'acte V, scène 5, qui met fin aux deux blocages de la pièce) ; mais le dramaturge réalise dans le même temps, du point de vue d'Agamemnon et selon le modèle de Racine, « une action enchaînée de façon continue jusqu'à un dénouement qui réalise les virtualités inscrites dans le commencement de la pièce. Nous disons « virtualités », car la contrepartie de ce principe de l'action continue est l'impression de constante réversibilité de l'enchaînement tragique [111] » : la mort d'Agamemnon était inévitable puisque le début de la pièce contenait les prémices du drame — la conjuration dirigée contre son règne et sa vie — mais jusqu'à la dernière scène de la pièce, l'étau se resserre tout en laissant espérer qu'Egisthe ne tuera pas Agamemnon.
 
 
-### Le dénouement
+### Le dénouement.
 
 Le dénouement d'*Agamemnon* s'organise en deux moments. Le premier fonctionne comme un faux dénouement avec le revirement d'Agamemnon et l'espoir d'une résolution heureuse. On peut marquer son commencement avec la troisième scène du dernier acte. Cependant, après le coup de théâtre que constitue le revirement d'Agamemnon, la seconde partie du dénouement vient remettre en cause la fin heureuse que Boyer laisse entrevoir. Agamemnon ne meurt pas du fait de son amour pour Cassandre, qui constitue pourtant l'action principale de la pièce, mais à cause de l'ambition politique d'Egisthe qui constitue une action secondaire : il n'y a pas d'unité d'action entre le plan amoureux et le plan politique dans le dénouement : « La preuve la plus flagrante de cette absence d'unité parfaite est l'absence même d'Egisthe qui ne paraît à aucun moment sur scène : la mort du roi résulte d'un agent extérieur seulement présent dans les discours. Le complot ne se réalise finalement qu'à l'occasion d'un différend devenu privé et non par l'exploitation dramaturgique de la situation : il en devient le sujet de la pièce mais presque involontairement. [112] »
 
 Si Boyer offre de la troisième à la sixième scène du dernier acte l'illusion que les personnages ont un pouvoir sur leur existence, les quatre dernières scènes montrent la violence inéluctable d'un *fatum* qui conduit à la mort. Durant toute la pièce, les mots « sort [113] », « destin [114] » et « destinée [115] » sont en effet omniprésents.
 
 
-# Des personnages déchirés entre les exigences de leur ethos et l'abandon au pathos
+# Des personnages déchirés entre les exigences de leur ethos et l'abandon au pathos.
 
 
-## *Ethos* et *pathos* : Boyer entre Corneille et Racine
+## *Ethos* et *pathos* : Boyer entre Corneille et Racine.
 
 L'Agamemnon de Boyer tient à la fois du Pyrrhus de Racine et de l'Auguste de Corneille. Comme Pyrrhus pour Andromaque (en voulant d'abord l'épouser, puis en lui préférant Hermione et en conduisant enfin la Troyenne à l'autel), Agamemnon change deux fois d'avis au sujet de Cassandre : il suit d'abord son *ethos* de roi et de mari, en désirant régner à nouveau aux côtés de son épouse Clytemnestre et en proposant d'envoyer Cassandre à Argos, en dépit de son amour brûlant pour elle (II, 4) ; cependant, il cède à sa passion en voulant l'épouser quand il apprend la trahison de Clytemnestre et d'Egisthe (III, 2). Son *ethos* triomphe aussi à la fin au niveau personnel sans pourtant parvenir à éviter sa mort et celle de Cassandre : il décide finalement de renoncer à la Troyenne, contrairement à Pyrrhus qui meurt assassiné lors de son mariage avec elle ; comme Auguste dans *Cinna*, Agamemnon pardonne à celle qui l'a trahi : il renonce à exiler son fils, son épouse, et à épouser sa captive : c'est donc bien l'*ethos* royal, paternel et conjugal d'Agamemnon qui triomphe au niveau du personnage, bien que l'abandon antérieur à sa passion pour Cassandre conduise à sa mort, car le revirement moral vient trop tardivement : Agamemnon meurt à l'instar de Pyrrhus, mais lors d'un mariage auquel il a renoncé contrairement au héros racinien.
 
 Cette parenté d'Agamemnon et de Pyrrhus est même soulignée par Boyer ; Agamemnon justifie ainsi son désir d'épouser Cassandre par le mariage à venir entre Pyrrhus et Andromaque [116]. La référence à Racine est soulignée par le fait qu'il n'est pas question de mariage entre Pyrrhus et Andromaque dans les textes antiques, contrairement à *Andromaque*.
 
 
-## Système des caractères
+## Système des caractères.
 
 *Agamemnon* comporte neuf personnages. Afin de mettre en place une hiérarchie, nous pouvons comparer leur importance respective en déterminant le nombre de scènes où ils sont présents ainsi que leur volume de parole : Agamemnon (410 vers, présent dans 17 scènes), Oreste (362 vers, 13 scènes), Cassandre (355 vers, 9 scènes), Clytemnestre (294 vers, 9 scènes), Eurybate (100 vers, 8 scènes), Ismène (50 vers, 5 scènes), Pylade (31 vers, 3 scènes), Doride (22 vers, 4 scènes), Arbas (17 vers, 3 scènes). De ce dénombrement se dégagent quatre personnages principaux (Agamemnon, Oreste, Cassandre, Clytemnestre) et cinq personnages secondaires, les confidents que sont Eurybate, Ismène, Pylade, Doride et Arbas, auxquels s'ajoute la suite d'Agamemnon. Bien qu'omniprésent dans les discours des autres personnages, Egisthe n'apparaît jamais en personne dans la tragédie ; ses paroles sont citées par Ismène dans deux vers (V, 8, v. 1592-1593).
 
@@ -784,14 +784,14 @@ Que je traîne par tout le malheur avec moy. (II, 2, v. 488-492)
 Enfin, Clytemnestre connaîtra la malédiction en raison de son rôle dans la mort de Cassandre, tout comme Egisthe, arrière-arrière-petit-fils de Tantale, qui tue Cassandre et Agamemnon.
 
 
-### Des personnages enchaînés par l'amour et le désir de meurtre
+### Des personnages enchaînés par l'amour et le désir de meurtre.
 
 La passion amoureuse met en place une première série de liens : Agamemnon aime Clytemnestre, mais lui préfère Cassandre. Le roi et son fils aiment tous deux Cassandre, qui aime Oreste sans jamais lui avouer. Clytemnestre aime Egisthe mais garde de l'affection pour Agamemnon.
 
 Ces liens amoureux sont doublés par des haines mortelles : Egisthe veut assassiner Agamemnon pour prendre le pouvoir et pour venger son père auquel celui d'Agamemnon avait pris le trône de Mycènes ; il veut tuer Cassandre pour venger l'honneur de la reine répudiée. Clytemnestre veut la mort de la seule Cassandre pour la même raison. Cassandre cherche à assassiner le roi, parce qu'elle veut venger sa famille. Oreste veut la mort d'Egisthe parce que ce dernier veut épouser Clytemnestre.
 
 
-### Agamemnon comme clef de voûte de la tragédie
+### Agamemnon comme clef de voûte de la tragédie.
 
 Agamemnon est le seul personnage qui détient tous les pouvoirs sur les autres personnages. C'est la raison pour laquelle son revirement (V, 3) donne pour un instant l'espoir que tout peut s'arranger dans un dénouement heureux (comme l'Agamemnon de Racine dans *Iphigénie*, à l'acte IV, scène 10, qui renonce à sacrifier sa fille — Iphigénie survit finalement, mais pour une autre raison : le devin Calchas, inspiré par les dieux proclame que la victime destinée au sacrifice est en fait Ériphile, fille secrète d'Hélène. Iphigénie est donc sauvée. Ériphile se donne la mort elle-même sur l'autel pour qu'Achille constate qu'elle a tout fait pour qu'Iphigénie soit sauvée. . Agamemnon ne cesse de rappeler sa toute-puissance, à la fois institutionnelle (en tant que roi de Mycènes) et morale (en tant que vainqueur de Troie). Ainsi, quand Eurybate critique sa volonté d'épouser Cassandre alors qu'il vient de la refuser à Oreste, Agamemnon fait preuve d'*hybris*, comme si son *ethos* passé de héros guerrier justifiait son abandon présent aux passions :
 
@@ -801,15 +801,15 @@ Cassandre est dans mes fers, j'ay vaincu, je suis Roy : (IV, 1, v. 1087-1088)
 Agamemnon détient le pouvoir d'exiler Cassandre (II, 4), de faire arrêter Egisthe (II, 5) puis Clytemnestre (II, 7), d'empêcher la relation amoureuse entre Oreste et Cassandre (III, 4) et de condamner Oreste et Clytemnestre à l'exil (IV, 2). Cependant, ce pouvoir connaît des failles : bien que bannie, Clytemnestre trouve le moyen de libérer Egisthe (IV, 7) qui amène avec son meurtre la fin du pouvoir d'Agamemnon — pouvoir tyrannique, sauf dans les premiers temps de son retour (II, 4) et juste avant sa mort (V, 3).
 
 
-### La conjonction des vengeances
+### La conjonction des vengeances.
 
 Les vengeances d'Egisthe, de Clytemnestre et de Cassandre se réalisent et se réunissent toutes dans le dénouement : Egisthe venge son père Thyeste auquel le père d'Agamemnon, Atrée, avait pris le trône de Mycènes, Clytemnestre obtient la mort de Cassandre qui était sa rivale auprès du roi, et Cassandre celle d'Agamemnon qui a détruit sa famille — tuée par Egisthe, elle réalise par là même sa volonté initiale de mourir [117]. L'absence d'Egisthe comme personnage de la pièce, n'apparaissant qu'à travers les discours d'Ismène (V, 8) puis d'Eurybate (V, 10), renforce le sentiment qu'il agit comme la main souterraine et implacable du destin quand il tue Agamemnon. Il y a dans la tragédie une sorte de surenchère de la haine pour Agamemnon entre ces trois personnages que sont Egisthe, son assassin, Clytemnestre (« Allons au Temple, il faut que ma vangeance éclate », I, 3, v. 289) et Cassandre (« Je hais Agamemnon beaucoup plus qu'il ne m'aime », III, 7, v. 986).
 
 
-## Héroïnes tragiques
+## Héroïnes tragiques.
 
 
-### Épouse répudiée et reine déchue
+### Épouse répudiée et reine déchue.
 
 Le personnage de Clytemnestre est particulièrement adouci par Boyer : jamais elle n'envisage de tuer son époux elle-même ou d'en donner l'ordre à Egisthe. Elle apprend avec joie qu'Agamemnon a l'intention de la garder pour épouse et d'exiler Cassandre :
 
@@ -831,7 +831,7 @@ La construction du dénouement, qui présente Egisthe comme seul responsable de 
 Au contraire, chez Eschyle (*ibid*. v. 1343 et suivants) comme chez Sénèque (*ibid. v*. 897 et suivants), c'est Clytemnestre elle-même qui porte le coup fatal à Agamemnon ; elle revendique ensuite dans les deux tragédies son crime avec fureur.
 
 
-### Les prophéties de la prisonnière
+### Les prophéties de la prisonnière.
 
 Comme Eschyle et Sénèque, Boyer utilise le don prophétique de Cassandre : condamnée à ne jamais être crue, elle ne précise jamais exactement à quel événement futur elle fait référence, afin de maintenir les effets de suspens. Mais ses visions ne se limitent pas à l'avenir ; Cassandre sait aussi ce qui aurait pu se passer si elle avait refusé d'épouser Agamemnon, l'affliction d'Oreste, qu'elle décrit à ce dernier :
 
@@ -859,7 +859,7 @@ Manes de mes parens, Ombres trop inquiettes,
 Agamemnon mourra, vous serez satisfaites. (V, 1, v. 1421-1446)  
 
 
-## Passions en lutte
+## Passions en lutte.
 
 Si l'abandon au *pathos* subvertit souvent l'*ethos* des personnages, c'est parfois deux passions incompatibles qui entrent en concurrence. Bien qu'amoureuse d'Egisthe, Clytemnestre retrouve au retour d'Agamemnon son affection pour lui :
 
@@ -877,7 +877,7 @@ Un vainqueur se refuse aux douceurs de sa flame ? (IV, 1, v. 1079-1082)
 Cette double allégeance de l'amour permet de souligner la division du héros tragique, conscience coupable et déchirée, tiraillée non seulement entre son *ethos* et ses passions, mais au sein même de son *pathos* pas des désirs contradictoires.
 
 
-### Des revirements à l'irréversibilité
+### Des revirements à l'irréversibilité.
 
 Comme les héros de Racine, les personnages de Boyer connaissent de nombreux revirements jusqu'à ce que la mort vienne les frapper de son irréversibilité. Hermione demande à Oreste de tuer Pyrrhus mais quand elle y renonce ce dernier a déjà été assassiné : de même, Clytemnestre demande à Egisthe de tuer Cassandre et change d'avis trop tardivement [123].
 
@@ -899,7 +899,7 @@ Qui frappe mon esprit et presse mon devoir. (V, 3, v. 1502-1504)
 Cependant, ce *deus ex machina* qui produit le revirement d'Agamemnon vient trop tard : Egisthe est déjà dans le temple où le roi va se précipiter avec l'intention de céder Cassandre à Oreste, mais où il sera assassiné, comme Pyrrhus dans *Andromaque*.
 
 
-### De l'identification à la rivalité héroïque et amoureuse
+### De l'identification à la rivalité héroïque et amoureuse.
 
 Agamemnon et Oreste s'identifient l'un à l'autre. Oreste envie la gloire guerrière de son père, alors qu'Agamemnon jalouse ce fils dont celle qu'il aime est amoureuse :
 
@@ -994,7 +994,7 @@ Oreste et Agamemnon, malgré leurs stratégies de justification différentes, s'
 Mais la décision d'épouser une princesse troyenne, ennemie des Grecs, se fonde sur la revendication du roi de disposer de ses sentiments, rejetant ainsi le principe d'une primauté de l'*ethos* sur le *pathos* conçue sur le modèle cornélien [140]. Le refus d'une conception de l'héroïsme appuyée sur le dépassement des passions et la reprise de la subversion de l'*ethos* par le *pathos* dans une conscience déchirée placent Boyer du côté de Racine.
 
 
-### Mariages forcés
+### Mariages forcés.
 
 Il n'est pas question de mariage entre Clytemnestre et Egisthe chez Sénèque : ces personnages sont seulement amants. Au contraire, chez Boyer, leur mariage attendu joue un rôle capital : Egisthe veut épouser Clytemnestre parce qu'il désire devenir roi de Mycènes ; Clytemnestre accepte ce mariage à contrecœur, bien qu'elle aime Egisthe, car le peuple, qui vient d'apprendre la mort supposée d'Agamemnon, veut un souverain mâle et qu'Oreste refuse la couronne, préférant l'amour de Cassandre [141] ; enfin, c'est parce qu'il découvre les préparatifs de ce mariage qu'Agamemnon décide d'épouser Cassandre, ce qui conduira à leur mort à tous les deux.
 
@@ -1003,7 +1003,7 @@ Il n'est pas non plus question d'un mariage entre Agamemnon et Cassandre chez Es
 L'attitude de Boyer envers la bienséance ressemble à celle de Racine. Clytemnestre n'est pas la maîtresse d'Egisthe, et Cassandre n'est pas celle d'Agamemnon [143] (comme Andromaque n'est pas la maîtresse de Pyrrhus chez Racine).
 
 
-### Traîtres réels et présumés
+### Traîtres réels et présumés.
 
 Egisthe est le seul véritable traître de la tragédie. Agamemnon lui a en effet confié sa famille et sa cité en son absence [144], mais Egisthe veut le tuer dès son retour, pour trois raisons : la principale réside dans son désir d'obtenir le trône de Mycènes. Cette volonté découle d'une haine familiale, puisqu'Atrée, père d'Agamemnon, avait pris pour lui la couronne de Mycènes que son frère Thyeste, père d'Egisthe, convoitait aussi. Comme le rappelle Eurybate à Agamemnon au sujet d'Egisthe :
 
@@ -1024,7 +1024,7 @@ Oüy oüy, Doride, il l'aime et son indigne flamme
 Embrasse avidement tout ce qui perd sa femme. (II, 8, v. 680-690)  
 
 
-### Défenseurs et accusateurs
+### Défenseurs et accusateurs.
 
 Boyer joue des structures du discours judiciaire en multipliant les plaidoyers et les réquisitoires. Dès la deuxième scène de la pièce, Clytemnestre accuse Oreste de vouloir épouser une Troyenne coupable par sa seule origine de la mort de nombreux Grecs :
 
@@ -1060,7 +1060,7 @@ Mais c'est trop peu : tu viens assujettir ton fils
 Aux enfans qui naîtront de la sœur de Pâris ! (V, 3, v. 907-916)  
 
 
-### La trahison comme justification de l'abandon à la passion
+### La trahison comme justification de l'abandon à la passion.
 
 Agamemnon préfère épouser Cassandre plutôt que de se soumettre à ses responsabilités, à son *ethos* de roi et d'époux ; mais « la situation est rendue plus complexe dans la mesure où Clytemnestre s'est rendue coupable d'une faute sur le plan politique : le divorce et l'exil s'apparentent donc à la punition de son geste et Agamemnon agit ici en roi. [150] » Le monarque rend donc grâce à la trahison de Clytemnestre, qu'il tente d'utiliser comme justification morale à sa passion pour Cassandre :
 
@@ -1079,7 +1079,7 @@ J'ay *t*out mon cœur, ma main, mon Scep*t*re à vous donner ? (III, 7, v. 959-
 L'allitération en « t » évoque les « tremblements » passés d'Agamemnon, expression d'une faiblesse compensée par la colère exprimée envers la « perfide » Clytemnestre.
 
 
-### Des confidents qui défendent l'ethos ou encouragent les passions
+### Des confidents qui défendent l'ethos ou encouragent les passions.
 
 Arbas et Eurybate rappellent Agamemnon à son *ethos* de roi, de père et d'époux, contrairement aux confidents des autres personnages. En tant que confident, Arbas est le premier à connaître les passions inavouables de son maître, et donc le premier qui peut tenter de le rappeler à la raison [151]. La tirade d'Eurybate dans la première scène de l'acte IV rend bien compte par une série de prétérition de son rôle ; il s'oppose à la volonté d'Agamemnon d'exiler Clytemnestre et d'épouser Cassandre :
 
@@ -1093,7 +1093,7 @@ Au contraire, les confidents des autres personnages encouragent leurs maîtres d
 Enfin, Pylade, un peu plus complexe, exhorte dans un premier temps Oreste à séduire Cassandre [154], puis le met en garde lors de cette même première scène sur les risques politiques d'un tel amour [155].
 
 
-### Pathos et ethos de la haine
+### Pathos et ethos de la haine.
 
 Pour Cassandre, détester Agamemnon n'est pas seulement, comme il semblerait évident, de l'ordre de la passion incontrôlable et subie. C'est pour elle un devoir moral que de haïr celui qui a détruit sa famille, tout comme son fils Oreste, comme elle le déclare à sa confidente Doride dans cette prétérition :
 
@@ -1136,7 +1136,7 @@ Et c'est sur ce Rival qui vous devient si cher,
 Que mon ressentiment se va tout attacher. (III, 7, v. 1006-1008)  
 
 
-### « Un grand cœur jaloux de sa mémoire [159] »
+### « Un grand cœur jaloux de sa mémoire [159] ».
 
 En dépit de la prééminence des passions dans *Agamemnon*, les héros ne cessent d'invoquer leur *ethos* propre comme un idéal à respecter ou à conquérir. Agamemnon rappelle à maintes reprises ses exploits guerriers [160] qui créent selon lui dette morale que sa famille ainsi que tous les Grecs ont envers lui [161].
 
@@ -1165,10 +1165,10 @@ Admire ma vangeance et plaigne ma douleur. (V, 10, v. 1640-1644)
 Ce rejet du *pathos* (« C'est trop gémir ») au profit d'un retour au devoir (« ce que demande ») marquent pour la première fois chez Oreste la volonté d'un dépassement de ses sentiments, appuyé comme pour Agamemnon sur le désir d'assurer sa postérité de héros. L'adoucissement du personnage de Clytemnestre permet d'élever Oreste, qui n'a pas à jurer d'assassiner sa mère comme dans les textes antérieurs. C'est avec l'espoir d'un orgueil et d'une volonté héroïques retrouvés que s'achève *Agamemnon*, et non, comme dans *Andromaque* de Racine, avec la culpabilité d'Oreste submergé par la folie.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Exemplaire
+## Exemplaire.
 
 *Agamemnon* de Claude Boyer a été publié en 1680 chez Théodore Girard. Il existe à notre connaissance sept exemplaires de l'édition originale d'*Agamemnon* dans les bibliothèques françaises :
 
@@ -1193,7 +1193,7 @@ Ainsi que deux contrefaçons hollandaises :
 Nous avons utilisé l'exemplaire GD-4793 de l'édition originale d'*Agamemnon*, qui se trouve à la bibliothèque de l'Arsenal à Paris. Sur cet exemplaire, le nom d'auteur qui figure est Pader d'Assézan, pseudonyme de Claude Boyer.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Description matérielle de notre exemplaire
 
@@ -1218,7 +1218,7 @@ Page de titre :
 AGAMEMNON. / TRAGEDIE. / fleuron du libraire / A PARIS / Chez THEODORE GIRARD, en la / grand'Salle du Palais, au dos de la / Salle Dauphine, à l'Envie. / filet / M. DC. LXXX. / AVEC PRIVILEGE DU ROY.
 
 
-## Corrections effectuées
+## Corrections effectuées.
 
 La graphie de l'édition originale a été respectée dans son ensemble :
 
@@ -1249,10 +1249,10 @@ Nous avons cependant opéré les rectifications d'usage, nécessaires à une par
 – Les lettres entre crochets, à droite du texte, correspondent aux changements de cahier dans le texte original. De même, les chiffres entre crochets correspondent aux numéros de pages.
 
 
-# Agamemnon Tragédie
+# Agamemnon Tragédie.
 
 
-## A MADAME LA DUCHESSE DE BOUILLON [164] :
+## A MADAME LA DUCHESSE DE BOUILLON [164] :.
 
 MADAME,
 
@@ -1282,7 +1282,7 @@ La Scene est dans le Palais des Roys de Mycene [171].
 
 
 
-## ACTE I
+## ACTE I.
 
 
 ### SCENE PREMIERE.
@@ -1442,7 +1442,7 @@ A part.
 Que son front marque une âme en secret agitée !  
 
 
-### SCENE II
+### SCENE II.
 CLYTEMNESTRE, ORESTE, DORIDE.
 
 
@@ -1579,7 +1579,7 @@ Cét injuste dessein coûtera bien du sang.
 Je vous laisse y penser.  
 
 
-### SCENE III
+### SCENE III.
 CLYTEMNESTRE, DORIDE.
 
 
@@ -1734,7 +1734,7 @@ Je dois le suivre.
 Je vous suivray de prés.  
 
 
-### SCENE V
+### SCENE V.
 CLYTEMNESTRE, DORIDE.
 
 
@@ -1802,7 +1802,7 @@ Agamemnon revient : Il est prés de ces lieux.
 Allons le recevoir et laissons faire aux Dieux.  < Fin du premier Acte. >
 
 
-## ACTE II
+## ACTE II.
 
 
 ### SCENE PREMIERE.
@@ -1904,13 +1904,13 @@ Font à ce cœur⁎ trop tendre un sort⁎ si rigoureux,
 Que n'estant pas contens de me punir moy-même,  
 Leur haine⁎ éclate encor contre tout ce qui m'aime.  
 
-    ISMENE. 
+    ISMENE.
 Attachée à ces Dieux qui vous traitent si mal,  
 Quel fruit recevez-vous d'un culte si fatal⁎ !  
 De vos propres vainqueurs la haine⁎ est moins funeste.  
 Vos Dieux vous servent moins que l'amoureux⁎ Oreste.  
 
-    CASSANDRE. 
+    CASSANDRE.
 Le voicy, mon courroux, ma haine⁎, ma douleur,  
 Cachés au moins, cachés [250] le secret de mon cœur⁎.  
 
@@ -2005,7 +2005,7 @@ N'ayez aussi pour moy que mépris et qu'horreur⁎ [253].
     ORESTE.
 Qui moy, Madame ? ô Dieux !  
 
-    CASSANDRE. 
+    CASSANDRE.
         Craignez au moins, Seigneur,  
 Que Cassandre en ces lieux, que cette infortunée  
 Ne verse un noir poison sur vôtre destinée.  
@@ -2031,7 +2031,7 @@ Mais peut-estre comme eux me haïssant vous-même…
 Vous parler des malheurs que je crains pour qui m'aime,  
 Et les craindre pour vous est-ce là vous haïr [258] ?  
 
-    ORESTE. 
+    ORESTE.
 Ah Madame !  
 
     CASSANDRE.
@@ -2055,11 +2055,11 @@ J'ose tout esperer des tendresses d'un pere.
 Quels vœux ne seront point par le sang⁎ écoutez ?  
 
 
-### SCENE III
+### SCENE III.
 AGAMEMNON, ORESTE, ARBAS, Suite.
 
 
-    AGAMEMNON *à sa suite.*
+    AGAMEMNON *à sa suite.*.
 Que l'on me laisse ici. Vous [260] Arbas arrestez.  
 Et vous pour m'acquiter envers le Ciel propice  
 Donnez l'ordre mon fils d'un pompeux⁎ sacrifice.  
@@ -2071,7 +2071,7 @@ C'est le premier devoir d'un Roy victorieux.
 AGAMEMNON, ARBAS.
 
 
-    AGAMEMNON *continuë.*
+    AGAMEMNON *continuë.*.
 A voir tous les honneurs⁎ qu'on me rend dans Mycene,  
 Mon bonheur est parfait et ma gloire⁎ est certaine.  
 Cependant que d'ennuis⁎ viennent le traverser !  
@@ -2197,7 +2197,7 @@ Prens mes gardes Arbas et va, cours l'arrester.
 AGAMEMNON, EURYBATE.
 
 
-    AGAMEMNON *continuë.*
+    AGAMEMNON *continuë.*.
 Ah lâche, quelques coups⁎ que ta fureur⁎ m'apreste,  
 Je les feray bien-tôt retomber sur ta teste.  
 Mais depuis quand, comment ce traistre dans son sein  
@@ -2280,7 +2280,7 @@ Et par ce digne effort, mais trop cruel⁎ pour moy,
 J'assurois à la Reine et mon cœur⁎ et ma foy⁎.  
 
 
-### SCENE VII
+### SCENE VII.
 AGAMEMNON, CLYTEMNESTRE, DORIDE, EURYBATE
 
 
@@ -2299,7 +2299,7 @@ Dans sa juste fureur⁎ ordonnera de vous.
 Dans cet appartement Gardes qu'on la retienne.  
 
 
-### SCENE VIII
+### SCENE VIII.
 CLYTEMNESTRE, DORIDE.
 
 
@@ -2334,7 +2334,7 @@ Doride, il faut perir ou perdre⁎ ma Rivale.  < Fin du second Acte. >
 AGAMEMNON, EURYBATE, ARBAS.
 
 
-    ARBAS. 
+    ARBAS.
 Oüy j'ay suivy, Seigneur, vôtre ordre et mon devoir.  
 L'ambitieux Egisthe est en vôtre pouvoir :  
 Egisthe est arresté malgré sa resistance.  
@@ -2661,7 +2661,7 @@ Echaper à ses yeux tout l'espoir de ma flame⁎.
     EURYBATE.
 Ah laissez-la partir : quel est vôtre dessein !  
 
-    AGAMEMNON. 
+    AGAMEMNON.
 D'aller luy presentcr et mon Sceptre et ma main,  
 Mais elle vient.  
 
@@ -2762,7 +2762,7 @@ Ce trouble⁎ fait trop voir le secret de vôtre âme.
 Voilà cette douleur, cette gloire⁎, ces Dieux,  
 Dont vôtre amour⁎ vouloit se couvrir à mes yeux  
 
-    CASSANDRE. 
+    CASSANDRE.
 Non Seigneur, je n'ay point l'âme assez inhumaine,  
 Pour confondre avec vous vôtre fils dans ma haine⁎.  
 Loin de causer mes maux il leur donne des pleurs⁎,  
@@ -2788,7 +2788,7 @@ Songez-y bien, adieu.
 CASSANDRE, ISMENE.
 
 
-    CASSANDRE. 
+    CASSANDRE.
         Ciel ! que viens-je d'entendre !  
 Oreste infortuné ! malheureuse Cassandre !  
 Helas ! je sens mon cœur⁎ si sensible à tes feux⁎  
@@ -2798,7 +2798,7 @@ Ton amante⁎ t'expose aux fureurs⁎ de ton pere !
     ISMENE.
 Ah, Madame esperez…  
 
-    CASSANDRE. 
+    CASSANDRE.
         Que veus-tu que j'espere,  
 D'un vainqueur endurcy, d'un Roy dont les Ayeux  
 Par leurs crimes cent fois ont effrayé les Dieux [321] ?  
@@ -2834,7 +2834,7 @@ Pourveu que ces conseils secondent le courrous
 De ce cœur⁎ tout remply de sa gloire⁎ et de vous.  < Fin du troisième Acte. >
 
 
-## ACTE IV
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -2875,7 +2875,7 @@ Je me suis reservé la divine Cassandre :
 Nos Chefs me l'ont cedée, et je puis à mon tour  
 Donner, comme ils ont fait, quelque chose à l'amour⁎.  
 
-    EURYBATE. 
+    EURYBATE.
 Je ne vous presse⁎ point par ces raisons⁎ de gloire⁎  
 Qui rendent un grand cœur⁎ jaloux de sa memoire [330],  
 Par des raisons⁎ d'Estat qui parlent contre vous [331].  
@@ -2897,7 +2897,7 @@ Des Rois mes Compagnons, mes Voisins, mes Amis,
 Qui brûlent tous de faire un gendre de mon fils,  
 Me verront-ils pour luy choisir une ennemie ?  
 
-    EURYBATE. 
+    EURYBATE.
 Mais, Seigneur, avec vous la verront-ils unie ?  
 
     AGAMEMNON.
@@ -2912,10 +2912,10 @@ Je viens de le mander. Il paroist, laisse nous.
 AGAMEMNON, ORESTE, PYLADE.
 
 
-    ORESTE. 
+    ORESTE.
 Quelle bonté Seigneur, m'appelle auprés de vous ?  
 
-    AGAMEMNON. 
+    AGAMEMNON.
 Vous sçavez à quel point la Reine vôtre mere,  
 Par son ingratitude excite ma colere.  
 Cependant je veux bien que le bannissement  
@@ -2955,7 +2955,7 @@ Laissez-moy prés de vous joüir de vôtre gloire⁎.
 Je suis jeune et c'est vous qui devez m'enseigner  
 Par vos propres leçons le grand art de regner.  
 
-    AGAMEMNON. 
+    AGAMEMNON.
 Si l'Hymen⁎ d'Hermione et juste et necessaire,  
 Si le Thrône d'Argos, si l'exil d'une mere,  
 N'ont rien qui vous oblige à quitter ce sejour,  
@@ -2971,7 +2971,7 @@ Dans les bras de l'Amour⁎ on peut se délasser,
 Quand par un nom fameux et tout brillant de gloire⁎,  
 On a sçeû pour jamais assurer sa memoire.  
 
-    ORESTE. 
+    ORESTE.
 L'Amour⁎ qui dans mon cœur⁎ allume tous ses feux⁎  
 N'y mettra rien, Seigneur, de bas et de honteux.  
 Tout foible que j'étois par le défaut de l'âge [340]  
@@ -3306,10 +3306,10 @@ Meure Cassandre aux yeux et dans les bras du Roy [375],
 Et tombe son courroux sur Egiste et sur moy [376].  < Fin du quatrième acte. >
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CASSANDRE, ISMENE.
 
 
@@ -3371,7 +3371,7 @@ De quels fremissemens mon corps est agité ?
 Ah ! croyez que du Ciel la suprême bonté  
 Veut étouffer en vous un dessein trop coupable.  
 
-    CASSANDRE. 
+    CASSANDRE.
 Non non, j'entens d'où vient ce trouble⁎ redoutable.  
 C'est Apollon, c'est luy qu'on a veû tant de fois,  
 A mon pere, aux Troyens s'expliquer par ma voix [380].  
@@ -3484,7 +3484,7 @@ Viens m'épouser au Temple où je m'en vais t'attendre.
 
 ### SCENE III.
 
-    AGAMEMNON *seul.*
+    AGAMEMNON *seul.*.
 Ouy j'iray t'épouser [400]. Mais qu'est-ce que je sens ?  
 Quelle secrette horreur⁎ ! que de troubles⁎ pressans⁎ !  
 Croirois-je les malheurs qu'on vient de me prédire ?  
@@ -3619,7 +3619,7 @@ Ciel qu'entens-je ?
         Oüy, luy-même il vient de me le dire  
 Et par son ordre exprés j'allois vous en instruire.  
 
-    CLYTEMNESTRE* à part.*
+    CLYTEMNESTRE* à part.*.
 Ah Cassandre ! Ah mon fils ! daignez le détourner  
 Dieux, cét ordre cruel⁎ que je viens de donner [405].  
 
@@ -3633,14 +3633,14 @@ Quel est ce prompt départ, quel trouble⁎, quel langage,
 Cher amy ? Mais que vois-je ? ah funeste présage !  
 Que m'apprenent ces pleurs⁎, ce desordre⁎ confus?  
 
-    ISMENE. 
+    ISMENE.
 C'est vous, Seigneur ! helas ! Cassandre ne vit plus.  
 
     ORESTE.
 Cassandre ne vit plus! le voila ce mistere,  
 Du desordre⁎, des pleurs⁎, du départ de ma mere.  
 
-    ISMENE. 
+    ISMENE.
 Pour dérober Cassandre aux vœux d'Agamemnon  
 Clytemnestre, d'Egisthe a rompu la prison.  
 Ce barbare pressé⁎ d'executer son crime  
@@ -3671,7 +3671,7 @@ Pylade, je la pers par l'ordre de ma mere !
 Mais que fais-je ? suy-moi, seconde ma douleur.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 ORESTE, PYLADE, EURYBATE.
 
 
@@ -3706,7 +3706,7 @@ De mille coups⁎ mortels en même instant frappé,
 Il voit à gros boüillons tout son sang se répandre,  
 Chancelle, tombe, meurt presqu'aux pieds de Cassandre.  
 
-    ORESTE. 
+    ORESTE.
 Ciel !  
 
     EURYBATE.
@@ -3739,10 +3739,10 @@ Louis par la Grace de Dieu, Roy de France et de Navarre : A nos amez [413] et f
 Registré sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 7. May 1680. suivant l'Arrest du Parlement du 8. Avril 1653. et celuy du Conseil Privé du Roy du 27. Février 1665. Signé C. Angot, Syndic.< Achevé d’imprimer le 25 May 1680. >
 
 
-# LexiqueAbord« Il se dit aussi fig. des personnes; comme, *L'abord de cette personne est fort difficile. cette personne a l'abord facile, gracieux. cet homme a l'abord rude, fascheux. craindre l'abord de quelqu'un. abord doux, engageant. leur abord a esté fort froid. je luy ay dit cela dés l'abord*, c'est à dire, en l'abordant, avant toutes choses. *Il me parut froid à l'abord, mais dans la suite je le trouvay tres-honneste* ». *Dictionnaire de l'Académie françoise*, 1694.V. 595.Adorable  « ADORABLE. adj. masc. et fem. Qui merite le plus profond des respects. Dieu seul est adorable. les mysteres de la Religion sont adorables. le tres-auguste et adorable Saint Sacrement de l'Autel ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 457, 1386.Affreux  « AFFREUX, EUSE. adj. Qui est horrible, qui fait peur, qui donne de l'effroy ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 28, 272, 496, 538, 1432, 1510, 1637.Amant  « AMANT, ANTE. adj. Celuy qui aime d'une passion violente et amoureuse ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 73, 503, 1017, 1384.Amitié « AMITIÉ. subst. fem. Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. Les devoirs de l'amitié obligent à se servir l'un l'autre ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 711, 866, 1099.Amour, amoureux« AMOUR, se dit principalement de cette violente passion que la nature inspire aux jeunes gens de divers sexes pour se joindre, afin de perpetuer l'espece ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 66, 72, 77, 101, 102, 103, 134, 220, 226, 402, 408, 426, 448, 499, 568, 570, 572, 576, 592, 661, 663, 688, 691, 722, 744, 764, 819, 822, 825, 836, 840, 856, 876, 954, 996, 1109, 1044, 1068, 1132, 1140, 1143, 1155, 1158, 1172, 1180, 1183, 1191, 1194, 1380, 1452, 1453, 1528, 1536, 1544, 1571, 1596.Amour parentalV. 1147.Appareil« Appareil. s. m. Apprest, preparatif. *Grand appareil. appareil extraordinaire. l'appareil en a esté magnifique. appareil de guerre* ». *Dictionnaire de l'Académie françoise*, 1694.V. 334, 785, 970, 1435.Ardeur Du latin *ardere*, « être en feu », « ardeur » est souvent employé pour désigner la frénésie associée du sentiment amoureux.V. 244, 435, 693, 913, 1037, 1156, 1571. « Se dit figurément en Morale, et signifie, Passion, vivacité, emportement fougue ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 272, 566, 1226, 1426.Audace « Hardiesse mêlée d'insolence et de témérité. Hardiesse mêlée d'éfronterie ». *Dictionnaire français contenant les mots et les choses*, Pierre Richelet, 1680.V. 202.Aveu« L'approbation, le consentement, l'agrément qu'une personne supérieure donne à ce qu'un inférieur a fait ou a dessein de faire. *Je ne veux rien faire sans votre aveu. Il a entrepris cela de votre aveu. Il a l'aveu de ses parens pour son marriage ». Dictionnaire de l'Académie françoise.*V. 1535.Balancer  « BALANCER, se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. Le Juge a longtemps balancé les raisons de ces parties. il y avoit longtemps qu'il balançoit s'il se marieroit ou non. les Juges étoient partagés, et cette affaire a esté long-temps balancée. On dit aussi, que la victoire a long-temps balancé entre les deux partis ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 1234, 1247.Bords« BORDS au pluriel, se dit poétiquement Des régions, des contrées environnées d'eau. *Les bords africains. Les bords indiens. Vivre sur des bords étrangers. Il a quitté ces bords. Il s'est éloigné de nos bords* ». *Dictionnaire de l'Académie françoise.*V. 41, 306, 383, 530, 1307, 1398, 1440.Celer« CELER. v. act. Cacher, taire. *Il m'a celé une telle chose; mais je la sçavois bien. celer un secret. il ne sçait rien celer. celer son dessein* ». *Dictionnaire de l'Académie françoise*, 1694.V. 269, 624.Charme, charmant, charmer« Charme » vient du latin « Carmen, Incantatio, Incantamentum ». *Dictionnaire d'Estienne*, 1549, et évoque donc une puissance magique. « CHARMANT, ANTE. adj. Qui plaist extraordinairement, qui ravit en admiration. Cette femme a toutes les manieres charmantes ». *Dictionnaire universel*, Antoine Furetière, 1690. V. 78, 155, 162, 266, 511, 574, 735, 901, 940, 1047, 1116.Cœur Le terme désigne couramment le siège des sentiments amoureux.V. 311, 318, 428, 467, 481, 564, 586, 668, 716, 720, 765, 824, 838, 852, 956, 957, 964, 1001, 1015, 1048, 1143, 1155, 1171, 1199, 1208, 1219, 1252, 1395, 1540, 1572.Il peut également se référer au courage, à l'énergie morale qui anime un individu.V.  172, 203, 252, 270, 357, 386, 419, 420, 922, 1040, 1070, 1502, 1532, 1554.Consommer « CONSOMMER. v. act. Achever, finir, terminer ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 1282. Coup « COUP. s.m. Impression que fait un corps sur un autre en le frappant, le perçant, le divisant etc ». *Dictionnaire de l'Académie françoise*, 1694. V. 609, 799, 1285, 1624. Cruel « Inhumain, impitoyable, qui aime le sang, qui prend plaisir à faire du mal aux autres. Homme cruel. cruel tyran. ces peuples-là sont sauvages et cruels. avoir l'ame cruelle, l'humeur cruelle. Il se dit aussi de quelques animaux. Le tigre est une beste cruelle. On dit encore dans ce sens, Destin cruel. fortune cruelle. Il signifie aussi, Fascheux, douloureux, insupportable. C'est un cruel mal, un cruel supplice, une cruelle mort. cela est cruel ». *Dictionnaire de l'Académie françoise*, 1694. V. 60, 199, 210, 233, 275, 349, 387, 401, 446, 458, 535, 586, 641, 667, 772, 884, 1074, 1077, 1148, 1196, 1256, 1316, 1327, 1423, 1471, 1565, 1580, 1608.Déplorable, deplorable« DÉPLORABLE. adj. de tout genre. Qui merite d'estre déploré, qui est digne de compassion, de pitié. Il ne se dit aussi que des choses. L'estat où il est. est déplorable. c'est une chose déplorable que l'estat où il est. sa condition est fort déplorable. son sort est déplorable ». *Dictionnaire de l'Académie françoise*, édition de 1694. V. 9, 510, 685, 861, 1229, 1301, 1403, 1477, 1526, 1530.Desordre « Confusion, manque d'ordre, d'arrangement (…) On dit aussi, qu'un homme est en *desordre*, quand il se trouble en parlant, ou qu'il se trouve en un estat deshonneste et indecent ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 312, 1033, 1457, 1583, 1586.Disgrace « DISGRACE. s.f. Diminution, perte de faveur ». *Dictionnaire universel*, Antoine Furetière, 1690.V. 1120, 1194.« DISGRACE, signifie aussi, Malheur, accident ». V. 9, 760, 837, 1393, 1481, 1613.Égal « EGAL, ALE. Adj. Pareil, semblable, le mesme, soit en nature, soit en quantité, soit en qualité ». *Dictionnaire de l'Académie françoise*, 1694.V. 678 ; « également » v. 1628.Ennui, ennuy « ENNUY.s.m. Lassitude d'esprit, causée par une chose qui deplaist par elle-mesme ou par sa durée. ». *Dictionnaire de l'Académie françoise*, 1694. V. 78, 435, 527, 771. Estonner, étonnerCe terme vient du latin « *attonare, attonitus* » qui signifie « comme frappé par le tonnerre » ; « ESTONNER. v. act. Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte. (…) ESTONNER, se dit aussi des émotions des corps qui sont esbranslez et attaquez par quelque violence ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 543, 922, 962, 1274, 1376, 1474.Extréme, extreme « EXTREME. adj. de tout genre. Qui est au dernier point, au souverain degré. Extreme joye. extreme plaisir. extreme passion. amour extreme. extreme peine. extreme malheur. rigueur extreme. aux maux extremes, les extremes remedes ». Antoine Furetière, *Dictionnaire universel*, 1690. V. 34, 801, 822, 985, 1033, 1342, 1393.Fatal « FATAL, ALE. Adj. Ce qui doit arriver necessairement, arrest de la destinée. C'est par un decret *fatal* de la Providence que cette ville a esté ruinée. FATAL, signifie encore, la fin, la mort. On a beau appeller le Medecin, quand l'heure *fatale* est venuë, il faut mourir ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 186, 200, 226, 253, 298, 424, 494, 570, 688, 693, 785, 798, 822, 987, 991, 1191, 1193, 1491, 1592, 1603, 1615.Feu, feux« Feu se dit poët. pour sign. La passion de l'amour. *Le feu dont il brusle. rien n'a pû esteindre ses feux. un feu discret. approuver les feux d'un amant* ». *Dictionnaire de l'Académie françoise*, 1694.V. 70, 260, 416, 451, 483, 550, 554, 882, 956, 1015, 1143, 1170, 1515.Flame, flamme « FLAMME. subst. Fem … On dit figurément, la flamme de l'amour; et se dit premièrement de l'amour divin. Une flamme celeste. Seigneur, que je brusle de vos flammes. Il se dit communément de l'amour prophane. Cet amant brusle d'une flamme innocente pour cette fille. Il ne faut point nourrir des flammes criminelles. Une flamme constante, est une amour fidelle ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 165, 258, 282, 338, 434, 452, 485, 557, 689, 726, 826, 850, 926, 1001, 1029, 1078, 1083, 1206, 1573. Flatter, Flater « Se donner de belles esperances. Flatter son imagination, c'est la repaistre de chimeres agreables. Je ne trouve rien qui flatte mon esprit en ce gros livre. On dit aussi, que l'apparence flatte, pour dire, nous trompe ». Se flatter signifie « se faire illusion ». V. 509, 684, 1029, 1049, 1121, 1206, 1251, 1297, 1313, 1572.Foudre « FOUDRE. s.m. et f. Exhalaison grasse et sulphurée qui s'enflamme par le choc des nuës, et qui en sortant avec violence fait un grand bruit, et des effets extraordinaires sur la terre. On a toûjours armé les Dieux Payens de la foudre : « Ces foudres impuissans qu'en leurs mains vous peignez », dit Corneille dans son *Polyeucte*. Les lieux touchez de la foudre estoient estimez sacrez chez les Anciens ».* Dictionnaire universel*, Antoine Furetière,  1690.V. 23.« FOUDRE, se dit figurément de la colere de Dieu, ou des Rois. Les prieres que les Fidelles ont fait à Dieu, luy ont arraché, luy ont fait tomber la foudre des mains ». *Dictionnaire universel*, Antoine Furetière,  1690. Dans *Agamemnon*, le terme symbolise le châtiment et relève de l'imagerie du sacré omniprésente dans la pièce. C'est en effet l'instrument emblématique de la punition divine. V. 500.Foy « Foy, se prend pour l'Asseurance donnée de garder sa parole, sa promesse; pour cette probité, cette regularité qui fait qu'un homme observe exactement ce qu'il a promis ». *Dictionnaire de l'Académie françoise*, 1694. De plus, le terme de « foy », « rend compte fondamentalement des exigences qui régissent dans l'ordre chevaleresque, les rapports entre les hommes. Il désigne d'abord la confiance que l'on accorde à un être et qui engendre un engagement, une parole (…) l'évolution du sens privilégie métonymiquement l'expression de l'effet qui résulte de cet engagement, et le mot désigne alors la fidélité à la parole ». (Anne Sancier-Château, *Introduction à la langue du XVII*e* siècle*). V. 255, 329, 479, 668, 824, 1108, 1559, 1576.Fureur, furie, furieux « FUREUR. f. Emportement violent causé par un dérèglement d'esprit et de la raison. La morsure des animaux enragez rend les hommes malades de fureur. (…) FUREUR Se dit en Morale de la colère lorsqu'elle est violente et démesurée, et qu'elle jette les hommes dans quelques excés… » Furetière, *Dictionnaire universel*, 1690. En latin, *furor* signifie « folie ». V. 188, 282, 353, 454, 478, 539, 609, 676, 708, 741, 747, 822, 921, 985, 1017, 1030, 1350, 1362, 1379, 1401, 1417, 1431, 1458, 1480, 1483, 1485, 1638.Genereux« GENEREUX, EUSE. adj. Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. Auguste fit une action genereuse en pardonnant à ses ennemis. GENEREUX, signifie aussi, Brave, vaillant, courageux. Alexandre estoit un Prince genereux, qui affrontoit hardiment les plus grands perils ». Furetière, *Dictionnaire universel*, 1690. V. 259, 320.Gesner« Gesner. v. a. Tenir en contrainte, mettre quelqu'un dans un estat violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empeschant de faire ce qu'il veut. *Si vous n'avez pas d'inclination à ce mariage, ne le faites point, je ne veux point vous gesner. la presence de cet homme me gesnoit, m'embarassoit. on est gesné devant les gens de respect. c'est un homme qui aime la liberté, il ne se gesne pour quoi que ce soit. ne vous gesnez point sur cela. la rime gesne beaucoup les poëtes ». Dictionnaire de l'Académie françoise*, 1694.V. 193.Gloire « GLOIRE, se dit par emprunt et par participation, de l'honneur mondain, de la loüange qu'on donne au merite, au sçavoir et à la vertu des hommes ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 229, 242, 253, 278, 280, 317, 320, 404, 464, 514, 516, 526, 570, 577, 585, 654, 713, 758, 980, 995, 1040, 1052, 1069, 1126, 1141, 1166, 1170, 1201, 1236, 1294, 1394, 1490, 1495,  1530, 1538, 1553, 1641.Grace « GRACE. s.f. Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée. On le dit premierement de Dieu qui est l'auteur de toutes les graces ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 301, 398, 523, 529, 719, 1555.« GRACE, est quelquefois opposé à justice et à rigueur, et signifie alors, Pardon, remise, composition. Le Roy accorde des graces pour les crimes remissibles ». V. 886, 1097.« De grace. adv. Par faveur, par pitié, par courtoisie ». V. 11, 567, 1539.Hayne, haine, hayr« HAINE. s.f. Passion de l'ame qui nous porte à vouloir du mal à nostre prochain, et à luy en procurer quand nous le pouvons. HAINE, se dit aussi de certaines aversions bien ou mal fondées qu'ont les hommes pour certaines choses ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 73, 177, 279, 283, 369, 394, 422, 425, 427, 454, 474, 504, 613, 734, 748, 789, 900, 929, 981, 986, 988, 989, 998, 1005, 1041, 1245, 1260, 1360, 1443, 1462, 1514.Honneur, honnorer« HONNEUR. s.m. Tesmoignage d'estime ou de soûmission qu'on rend à quelqu'un par ses paroles, ou par ses actions. Il faut rendre honneur et respect premierement à Dieu et aux choses saintes, aux Rois et aux Magistrats, à ses parents et à la vertu (…) HONNEUR, se dit en general de l'estime qui est deuë à la vertu et au merite (…) HONNEUR, signifie aussi la charge, la dignité qui attire les respects et les soûmissions des autres ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 277, 363, 525, 432, 943, 1174, 1218.Horreur « Mouvement de l'ame accompagné de fremissement et de crainte, causé par l'aversion qu'excite la veuë, ou le souvenir de quelque objet affreux, terrible ». *Dictionnaire de l'Académie françoise*, 1694.V. 258, 328, 487, 599, 639, 806, 910, 945, 990, 1036, 1192, 1214, 1258, 1263, 1427, 1436, 1500.Horrible « HORRIBLE. adj. m. et f. Qui fait peur ou horreur, ou qui donne une grande aversion ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 395, 612, 1023, 1241, 1354, 1622.Humilier « HUMILIER. v. act. Rabattre l'orgueil de quelqu'un, le mortifier. Les ennemis ont esté fort *humiliez*, par toutes les pertes qu'ils ont souffertes. S'HUMILIER, se dit aussi de cet abbaissement volontaire qu'on fait devant quelqu'un, et sur tout devant la Majesté de Dieu ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 1168.Hymen« HYMEN, ou Hymenée. s. m. Mariage. Il n'a d'usage qu'en Poësie. *Sous les loix de l'Hymen. le joug de l'Hymenée* ».V. 86, 123, 145, 149, 195, 198, 200, 216, 290, 334, 341, 345, 497, 633, 785, 796, 797, 802, 869, 887, 895, 923, 970, 1025, 1044, 1051, 1089, 1105, 1108, 1129, 1207, 1210, 1217, 1254, 1257, 1275, 1330, 1451, 1452, 1453, 1497, 1511, 1525, 1536, 1570.Illustre « ILLUSTRE. adj. m et f. et sub. Ce qui est eslevé par-dessus les autres par son mérite, par sa vertu, par sa noblesse, par son excellence ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 12, 54, 114, 358, 591, 666, 757, 1075, 1125, 1171, 1198, 1390, 1524.Impieté, impietez, impie « IMPIETÉ, Action d'un homme impie. Les sacrileges, les blasphemes sont des *impietez*. (…) se dit aussi du manque de respect et du devoir envers ses pere et mere. C'est une grande impieté de lever la main sur son pere, ou sur sa mere, de leur refuser des aliments dans leur vieillesse ». L'adjectif employé dans la tragédie est pris dans un sens large, il recouvre l'idée de sacrilège, d'un acte de profanation des choses sacrées et dignes de révérence, il désigne le plus souvent un acte dirigé le plus souvent vers un membre de la famille. *Dictionnaire universel*, Antoine Furetière,  1690. V. 374, 1434, 1496.Injure, injurieux« Ce mot vient du Latin *injuria. Quod fit citra jus, injuria est*. on appelle *injure*, ce qui se fait sans raison, contre les biens ou contre l'honneur d'une personne. INJURE, se dit aussi des affronts, des torts et dommages qu'on fait à une personne par voyes de fait ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 223, 882, 1355. Licence« *Licence*, signifie dans l'usage ordinaire du monde, Dereglement dans les moeurs, dans les actions, dans les paroles & dans toute la conduite de la vie. *Une licence effrenée. reprimer la licence de la jeunesse. c'est ouvrir la porte à la licence, à toute sorte de licence* ». *Dictionnaire de L'Académie française* (1694)V. 573.Loy, loi « Loy.subst.fem. Commandement qui vient d'une autorité supérieure, auquel un inférieur est contraint d'obeïr ». *Dictionnaire universel*, Antoine Furetière,  1690. Cette définition générale s'applique dans ses contextes très différents dans la pièce. Le terme a dans un cadre politique, le sens de prescription de l'autorité souveraine. V. 120, 140, 206, 408, 491, 987, 991, 1232.« Loy, se dit aussi en parlant d'une obeïssance volontaire qui fait qu'on se soûmet aux volontez d'autrui. Cet amant it souslesloi de sa maistresse ». Le terme « loy » possède donc également un sens galant, Charles Sorel écrit en 1644 *Les loix de la galanterie*. Le terme rappelle ici que la maitresse est dans une posture dominante. V. 952.Maîtresse Le mot désigne une personne aimée qu'on recherche en mariage. V. 1138, 1261, 1541, 1614.Miserable, misereL'emploi de l'adjectif dans la tragédie exclut les connotations péjoratives qui impliquent un jugement moral négatif : « MISERABLE. adj. masc. et fem. et subst. Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 61, 74, 169, 174, 361, 933, 943, 1028, 1285.Objet Le terme peut surprendre lorsqu'il désigne une personne en complément d'objet. « OBJET, se dit poëtiquement des belles personnes qui donnent de l'amour. C'est un bel objet, un objet charmant ». *Dictionnaire universel*, Antoine Furetière,  1690. Anne Sancier-Château, dans *Introduction à la langue du XVII*e**, précise qu'il est plus fréquemment employé pour les femmes, bien qu'il puisse aussi désigner un homme. V. 736.Onde« ONDE. s. f. Flot, souslevement de l'eau agitée. *Le vent fait des ondes sur les rivieres. il ne fait pas bon sur la riviere, les ondes sont trop grosses.*Il se prend en Poësie, pour l'Eau en general: & il se dit principalement de la mer. *Sur la terre & sur l'onde. il vogue sur les ondes. le soleil se cache dans les ondes. sort du sein de l'onde. sur les ondes salées. à la mercy des ondes. au gré de l'onde.* Les Poëtes appellent l'eau du Stix & du Cocyte, l'*Onde noire* », *Dictionnaire de L'Académie française* (1694).V. 41, 1402.Outrer, outrage« OUTRER : signifie picquer au vif, faire un cruel affront. Il fut outré de douleur en apprenant la mort de sa femme. Ajax fut tellement outré du refus des Grecs, qu'il se tua luy-même ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 469, 953, 966, 1337.Parricide « Parricide. s. m. Celuy qui tuë son pere. Il se dit aussi par extension de celuy qui tuë sa mere, son frere, sa soeur, ses enfants &c. *On ne peut trop punir les parricides*.Il signifie aussi Le crime que commet celuy qui tuë son pere. *Parricide detestable, abominable. commettre un parricide* ». *Dictionnaire de l'Académie françoise*, 1694.V. 898, 1434, 1637.Passion « PASSION, en Morale, se dit des differentes agitations de l'ame selon les divers objets qui se presentent à ses sens. Les Philosophes ne s'accordent pas sur le nombre des passions. Les passions de l'appetit concupiscible, sont la volupté et la douleur, la cupidité et la fuite, l'amour et la haine ». *Dictionnaire universel*, Antoine Furetière,  1690. La passion d'amour demeure la première passion représentée par la tragédie. Le mot même de passion commence à être employé au XVII*e* siècle dans cette acceptation particulière de passion de l'amour. Elle évolue alors tout en conservant cette idée d'un sujet passif, soumis à l'émotion « de la brutalité du désir tyrannique aux raffinements précieux » (Charles Mazouer, *La tragédie de l'âge classique, t. I, Le premier XVII*e* siècle*.) V. 67, 551, 584, 962.Perdre *Dictionnaire universel*, Antoine Furetière,  1690 : « PERDRE. v. act. et n. Souffrir quelque dommage, quelque diminution en sa santé, en son honneur, en ses biens. V. 83, 451, 498, 820, 821, 1341, 1342, 1421, 1612, 1614, 1632.« PERDRE, signifie aussi, Destruire, ruiner. C'est un homme qu'on veut perdre, qu'on veut exterminer. V. 247, 690, 694, 1361.Plaindre « PLAINDRE. v. act. qui se dit souvent avec le pronom personnel. Témoigner sa douleur, son affliction par quelque signe exterieur ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 80, 401, 1181, 1227, 1248, 1292, 1353.Pleur, pleurer« PLEURS. s. m. plur. Larmes, humidité qui tombe des yeux par quelque violente émotion de l'ame, et particulierement de la tristesse (…). Les soupirs, les cris et les pleurs sont des marques d'affliction ». *Dictionnaire universel*, Antoine Furetière, 1690. Dans la seconde moitié du XVII*e* siècle, les pleurs relèvent notamment du culte de la sensibilité et de la délicatesse qu'érige le discours galant. V. 76, 168, 171, 275, 435, 455, 646, 781, 944, 950, 999, 1021, 1393, 1444, 1482, 1583, 1586, 1636.Pompe, pompeux« POMPE, subst. fem. Despense magnifique qu'on fait pour rendre quelque action plus recommendable, plus solemnelle & plus éclatante. Rien n'a égalé la *pompe* & la magnificence des triomphes Romains ». « POMPEUX, EUSE, adj. Qui le fait avec pompe & magnificence. Cette entrée, ce carrousel, étoient fort *pompeux*. La Cour de France est toûjours *pompeuse* et fort leste », *Dictionnaire universel*, Antoine Furetière,  1690V. 124, 286, 522, 941, 1451.Prétendre« Pretendre. v. a. Demander une chose à laquelle on croit avoir droit. *Je pretens un dixiesme, une moitié dans cette societé. il a pretendu ce remboursement. il pretend le pas sur un tel. je pretendois de vous cette marque de reconnoissance. que pretendez-vous à cela? je n'y pretends rien.*Il sign. aussi simplement, Aspirer à une chose, & alors il est neutre. *Il pretend à cette charge, à ce benefice. il n'y a rien de si eslevé à quoy il ne puisse pretendre.*Il sign. aussi Avoir intention, avoir dessein. *Je pretends faire ce voyage en tel temps. je n'ai point dit cela serieusement, j'ay pretendu badiner* ». *Dictionnaire de l'Académie françoise*, 1694.V. 620, 672, 728, 852.Presser, pressé, pressant« PRESSER. v. a. En ce sens il se dit fig. des Discours par lesquels on insiste auprés de quelqu'un pour le porter à quelque chose. *On l'a pressé par des raisons si fortes & si convaincantes qu'il a esté obligé de s'y rendre. il m'en a conjuré, il m'en a pressé si fort que je n'ay pû luy refuser ce qu'il me demandoit*. Il signifie aussi, Haster, obliger à se diligenter, ne donner point de relasche. *Presser son départ. presser sa marche. vous avez beau me presser, je ne puis pas aller plus viste. ce n'est pas moy qui vous presse, c'est le temps qui presse. les ouvriers ne font rien si on ne les presse. ce sont les affaires qui pressent. on le presse de partir. on a tellement pressé ces chevaux qu'ils en sont fourbus.* » *Dictionnaire de l'Académie françoise*, 1694.V. 146, 251, 565, 726, 826, 1069, 1233, 1419, 1426, 1500, 1504, 1533, 1575, 1589, 1617.Prevenir Le terme a le sens de devancer. « PREVENIR. v. act. Arriver devant, venir le premier. (…) *Prevenir*, en parlant du temps, veut dire proprement, Anticiper ». *Dictionnaire de l'Académie françoise*, 1694. V. 248, 337, 1193, 1345. Race « RACE. s.f. Lignée, generation continuée de pere en fils: ce qui se dit tant des ascendans que des descendans. Il vaut mieux estre le premier que le dernier Noble de sa race: c'est ce qui fut répondu par Iphicrate Capitaine des Atheniens, à Hermodius qui luy reprochoit la bassesse de sa naissance, parce qu'il étoit fils d'un Cordonnier. (…) RACE, se dit des anciennes familles illustres ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 403, 462, 494, 1336, 1390.Raison, raisonnement *Dictionnaire universel*, Antoine Furetière,  1690 : « RAISON, f.f. Entendement, première puissance de l'ame qui discerne le bien du mal, le vray d'avec le faux ». V. 271, 348, 355, 1356.« RAISON, signifie aussi, Argumentation, preuve ». V. 153, 178, 342, 659, 660, 874, 1069, 1071, 1087.Rebelle « REBELLE. adj. m. et f. et subst. Qui se revolte contre son Souverain et ses superieurs, qui ne veut pas obeïr aux loix ». *Dictionnaire universel*, Antoine Furetière,  1690. V.  165, 285, 894.Sang« Sang, signifie aussi, Race, extraction. *Sang vil & abjet. de noble sang. d'illustre sang. de sang royal. le sang de France. c'est vostre fils, c'est vostre sang. à cette genereuse action, je reconnois mon sang.* On appelle en France,* Princes du sang*, Les Princes qui sont de la maison Royale ». *Dictionnaire de l'Académie françoise*, 1694.V. 82, 111, 158, 159, 186, 191, 192, 359, 360, 519, 614, 656, 904, 1278.Soin « SOIN. s.m. Diligence qu'on apporte à faire reüssir une chose, à la garder et à la conserver, à la perfectionner ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 90, 113, 261, 405, 645, 775, 869, 887, 944, 1165, 1397.« SOIN, est aussi l'attache particuliere qu'on a auprés d'un maistre, ou d'une maistresse, pour les servir, ou leur plaire. (…) Soupirs, devoirs, petits soins en amour, tout est langage ». V. 77, 210, 237, 391, 947, 1044, 1617.« SOIN signifie aussi, Inquiétude, peine d'esprit, souci. *La vie des Grands est pleine de soins. L'ambition cause bien des soins* ».* Dictionnaire de l'Académie françoise*, 1762. V. 7, 435, 1148, 1289, 1314.Sort« Il se prend aussi, pour La Destinée, dans le sens des Anciens: Et pour l'enchaisnement & la suite des bonnes ou mauvaises avantures des hommes. *Le sort le veut ainsi. le sort l'a ainsi ordonné. les rigueurs, les caprices du sort. le sort aveugle. je plains vostre sort. tel est le sort des Conquerans, le sort des Republiques* ».* Dictionnaire de l'Académie françoise*, 1694. V. 10, 48, 420, 457, 511, 514, 516, 685, 780, 853, 972, 1153, 1212, 1231, 1263, 1335, 1352, 1456, 1459, 1519, 1567, 1615.Soûpir, soûpirer  « SOUSPIR, se dit aussi d'un témoignage exterieur de tristesse, d'affliction, de douleur, qui se donne par une respiration violente et presque involontaire. Cette veuve pousse des souspirs et des gemissements pour la mort de son mary; sa grande douleur ne luy permet que des sanglots, des souspirs entrecouppez. Les amants font de tendres souspirs en presence de leurs maistresses ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 960, 1122.Souffrir « SOUFFRIR. v. act. Sentir de la douleur, du mal, ou quelque incommodité considerable ». *Dictionnaire universel*, Antoine Furetière,  1690. V.  456, 953, 978.« Souffrir, signifie aussi, Supporter. (…) Tolerer, n'empescher pas, quoy qu'on le puisse ». *Dictionnaire de l'Académie françoise*, 1694. V. 415, 568, 648, 719.Superbe *Dictionnaire universel*, Antoine Furetière,  1690 : « Adj. m.&f. Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy même ». V. 87.« Se dit de ce qui marque la magnificence, la somptuosité ». V. 1441.Timide « TIMIDE. adj. m. et f. Foible, peureux, qui craint tout ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 325, 962.Tragique « TRAGIQUE. adj. de t. g. Qui appartient à la Tragedie. Poëme tragique. un Poête tragique. il excelle dans le genre tragique. Il se prend aussi substantivement pour le Genre tragique. Ce poëte s'applique au tragique. il est propre pour le tragique, et ne reüssit pas dans le comique. Tragique signifie fig. Funeste. Evenement tragique. mort tragique. histoire tragique. la fin des meschants est souvent tragique. il a fait une fin tragique ». *Dictionnaire de l'Académie françoise*, 1694V. 454, 806.Trait « TRAIT. s.m.v. Fleche, dard, qui se tire avec un arc ou une arbaleste … On dit figurément, *Un trait de satire, de médisance, de raillerie;* & poëtiquement, *Les traits de l'envie ». Dictionnaire de l'Académie françoise*, 1694. V. 1362.Transport En rendant impossible la maîtrise de soi, le transport apparaît comme une manifestation sensible de l'empire des passions. Le transport est associé à l'expression violente et brève de  vifs sentiments. Les Anciens ont théorisé cette manifestation sensible violente en la rapprochant de la théorie médicale des tempéraments formulée par Hippocrate : le corps est maintenu dans son équilibre par un mélange adéquat d'humeurs, le transport bouleverse cet équilibre et modifie le caractère. « TRANSPORTS : se dit figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. Un transport de joye a causé quelquefois la mort. Un transport de colere cause souvent de grands malheurs ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 231, 333, 826, 959, 1418, 1439, 1488, 1631.Travaux « TRAVAUX, se dit au pluriel des actions, de la vie d'une personne, et particulierement des gens heroïques. Dieu benit les *travaux* des gens de bien ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 578.Trouble, troubler« Trouble, se dit figurément des altérations, des émotions, des inquietudes, des des embarras, des desordres de l'ame causez par les passions, » *Dictionnaire universel*, Antoine Furetière,  1690. L'amour est néanmoins l'« un des agents les plus puissants de l'inquiétude, et celle-ci est bien une manifestation du sentiment amoureux ». Anne Sancier-Château, *Introduction à la langue du XVII*e.*siècle.* V. 35, 271, 311, 349, 350, 390, 392, 547, 994, 1409, 1414, 1500, 1581.Tyran, tyranniser« On appelle encore, *Tyrans*, Tous ceux qui abusent de leur authorité, pour faire quelques vexations, quelques extorsions, ou qui s'attribuent une authorité qui ne leur appartient pas. *Tous les Seigneurs de ce pays sont autant de petits tyrans. ce Gouverneur, ce Magistrat s'est rendu le tyran de la Province. il extorque, il se fait payer trois fois plus qu'il ne faut, il est le tyran de sa compagnie* ». *Dictionnaire de l'Académie françoise*, 1694. V. 1059, 1305.Vertu « VERTU, se dit figurément, de la droiture, de la probité ; de la disposition, ou de l'habitude de l'ame à faire le bien, à suivre ce qu'ordonnent les lois, et ce que dicte la raison ». *Dictionnaire universel*, Antoine Furetière,  édition augmentée de 1725. V. 63, 77, 80, 171, 320, 692, 1056, 1227.Zele « Affection ardente pour quelque chose. Il se dit principalement à l'égard des choses saintes et sacrées. (…) Il se dit aussi, de ce qui regarde les obligations de la vie civile. Le Zele de la patrie. le zele pour la Patrie. avoir beaucoup de zele pour son Prince, pour le service de son Prince ». *Dictionnaire de l'Académie françoise*, 1694. V. 5, 237, 243, 309, 775, 867, 1226.
+# Lexique.Abord« Il se dit aussi fig. des personnes; comme, *L'abord de cette personne est fort difficile. cette personne a l'abord facile, gracieux. cet homme a l'abord rude, fascheux. craindre l'abord de quelqu'un. abord doux, engageant. leur abord a esté fort froid. je luy ay dit cela dés l'abord*, c'est à dire, en l'abordant, avant toutes choses. *Il me parut froid à l'abord, mais dans la suite je le trouvay tres-honneste* ». *Dictionnaire de l'Académie françoise*, 1694.V. 595.Adorable  « ADORABLE. adj. masc. et fem. Qui merite le plus profond des respects. Dieu seul est adorable. les mysteres de la Religion sont adorables. le tres-auguste et adorable Saint Sacrement de l'Autel ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 457, 1386.Affreux  « AFFREUX, EUSE. adj. Qui est horrible, qui fait peur, qui donne de l'effroy ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 28, 272, 496, 538, 1432, 1510, 1637.Amant  « AMANT, ANTE. adj. Celuy qui aime d'une passion violente et amoureuse ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 73, 503, 1017, 1384.Amitié « AMITIÉ. subst. fem. Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. Les devoirs de l'amitié obligent à se servir l'un l'autre ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 711, 866, 1099.Amour, amoureux« AMOUR, se dit principalement de cette violente passion que la nature inspire aux jeunes gens de divers sexes pour se joindre, afin de perpetuer l'espece ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 66, 72, 77, 101, 102, 103, 134, 220, 226, 402, 408, 426, 448, 499, 568, 570, 572, 576, 592, 661, 663, 688, 691, 722, 744, 764, 819, 822, 825, 836, 840, 856, 876, 954, 996, 1109, 1044, 1068, 1132, 1140, 1143, 1155, 1158, 1172, 1180, 1183, 1191, 1194, 1380, 1452, 1453, 1528, 1536, 1544, 1571, 1596.Amour parentalV. 1147.Appareil« Appareil. s. m. Apprest, preparatif. *Grand appareil. appareil extraordinaire. l'appareil en a esté magnifique. appareil de guerre* ». *Dictionnaire de l'Académie françoise*, 1694.V. 334, 785, 970, 1435.Ardeur Du latin *ardere*, « être en feu », « ardeur » est souvent employé pour désigner la frénésie associée du sentiment amoureux.V. 244, 435, 693, 913, 1037, 1156, 1571. « Se dit figurément en Morale, et signifie, Passion, vivacité, emportement fougue ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 272, 566, 1226, 1426.Audace « Hardiesse mêlée d'insolence et de témérité. Hardiesse mêlée d'éfronterie ». *Dictionnaire français contenant les mots et les choses*, Pierre Richelet, 1680.V. 202.Aveu« L'approbation, le consentement, l'agrément qu'une personne supérieure donne à ce qu'un inférieur a fait ou a dessein de faire. *Je ne veux rien faire sans votre aveu. Il a entrepris cela de votre aveu. Il a l'aveu de ses parens pour son marriage ». Dictionnaire de l'Académie françoise.*V. 1535.Balancer  « BALANCER, se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. Le Juge a longtemps balancé les raisons de ces parties. il y avoit longtemps qu'il balançoit s'il se marieroit ou non. les Juges étoient partagés, et cette affaire a esté long-temps balancée. On dit aussi, que la victoire a long-temps balancé entre les deux partis ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 1234, 1247.Bords« BORDS au pluriel, se dit poétiquement Des régions, des contrées environnées d'eau. *Les bords africains. Les bords indiens. Vivre sur des bords étrangers. Il a quitté ces bords. Il s'est éloigné de nos bords* ». *Dictionnaire de l'Académie françoise.*V. 41, 306, 383, 530, 1307, 1398, 1440.Celer« CELER. v. act. Cacher, taire. *Il m'a celé une telle chose; mais je la sçavois bien. celer un secret. il ne sçait rien celer. celer son dessein* ». *Dictionnaire de l'Académie françoise*, 1694.V. 269, 624.Charme, charmant, charmer« Charme » vient du latin « Carmen, Incantatio, Incantamentum ». *Dictionnaire d'Estienne*, 1549, et évoque donc une puissance magique. « CHARMANT, ANTE. adj. Qui plaist extraordinairement, qui ravit en admiration. Cette femme a toutes les manieres charmantes ». *Dictionnaire universel*, Antoine Furetière, 1690. V. 78, 155, 162, 266, 511, 574, 735, 901, 940, 1047, 1116.Cœur Le terme désigne couramment le siège des sentiments amoureux.V. 311, 318, 428, 467, 481, 564, 586, 668, 716, 720, 765, 824, 838, 852, 956, 957, 964, 1001, 1015, 1048, 1143, 1155, 1171, 1199, 1208, 1219, 1252, 1395, 1540, 1572.Il peut également se référer au courage, à l'énergie morale qui anime un individu.V.  172, 203, 252, 270, 357, 386, 419, 420, 922, 1040, 1070, 1502, 1532, 1554.Consommer « CONSOMMER. v. act. Achever, finir, terminer ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 1282. Coup « COUP. s.m. Impression que fait un corps sur un autre en le frappant, le perçant, le divisant etc ». *Dictionnaire de l'Académie françoise*, 1694. V. 609, 799, 1285, 1624. Cruel « Inhumain, impitoyable, qui aime le sang, qui prend plaisir à faire du mal aux autres. Homme cruel. cruel tyran. ces peuples-là sont sauvages et cruels. avoir l'ame cruelle, l'humeur cruelle. Il se dit aussi de quelques animaux. Le tigre est une beste cruelle. On dit encore dans ce sens, Destin cruel. fortune cruelle. Il signifie aussi, Fascheux, douloureux, insupportable. C'est un cruel mal, un cruel supplice, une cruelle mort. cela est cruel ». *Dictionnaire de l'Académie françoise*, 1694. V. 60, 199, 210, 233, 275, 349, 387, 401, 446, 458, 535, 586, 641, 667, 772, 884, 1074, 1077, 1148, 1196, 1256, 1316, 1327, 1423, 1471, 1565, 1580, 1608.Déplorable, deplorable« DÉPLORABLE. adj. de tout genre. Qui merite d'estre déploré, qui est digne de compassion, de pitié. Il ne se dit aussi que des choses. L'estat où il est. est déplorable. c'est une chose déplorable que l'estat où il est. sa condition est fort déplorable. son sort est déplorable ». *Dictionnaire de l'Académie françoise*, édition de 1694. V. 9, 510, 685, 861, 1229, 1301, 1403, 1477, 1526, 1530.Desordre « Confusion, manque d'ordre, d'arrangement (…) On dit aussi, qu'un homme est en *desordre*, quand il se trouble en parlant, ou qu'il se trouve en un estat deshonneste et indecent ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 312, 1033, 1457, 1583, 1586.Disgrace « DISGRACE. s.f. Diminution, perte de faveur ». *Dictionnaire universel*, Antoine Furetière, 1690.V. 1120, 1194.« DISGRACE, signifie aussi, Malheur, accident ». V. 9, 760, 837, 1393, 1481, 1613.Égal « EGAL, ALE. Adj. Pareil, semblable, le mesme, soit en nature, soit en quantité, soit en qualité ». *Dictionnaire de l'Académie françoise*, 1694.V. 678 ; « également » v. 1628.Ennui, ennuy « ENNUY.s.m. Lassitude d'esprit, causée par une chose qui deplaist par elle-mesme ou par sa durée. ». *Dictionnaire de l'Académie françoise*, 1694. V. 78, 435, 527, 771. Estonner, étonnerCe terme vient du latin « *attonare, attonitus* » qui signifie « comme frappé par le tonnerre » ; « ESTONNER. v. act. Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte. (…) ESTONNER, se dit aussi des émotions des corps qui sont esbranslez et attaquez par quelque violence ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 543, 922, 962, 1274, 1376, 1474.Extréme, extreme « EXTREME. adj. de tout genre. Qui est au dernier point, au souverain degré. Extreme joye. extreme plaisir. extreme passion. amour extreme. extreme peine. extreme malheur. rigueur extreme. aux maux extremes, les extremes remedes ». Antoine Furetière, *Dictionnaire universel*, 1690. V. 34, 801, 822, 985, 1033, 1342, 1393.Fatal « FATAL, ALE. Adj. Ce qui doit arriver necessairement, arrest de la destinée. C'est par un decret *fatal* de la Providence que cette ville a esté ruinée. FATAL, signifie encore, la fin, la mort. On a beau appeller le Medecin, quand l'heure *fatale* est venuë, il faut mourir ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 186, 200, 226, 253, 298, 424, 494, 570, 688, 693, 785, 798, 822, 987, 991, 1191, 1193, 1491, 1592, 1603, 1615.Feu, feux« Feu se dit poët. pour sign. La passion de l'amour. *Le feu dont il brusle. rien n'a pû esteindre ses feux. un feu discret. approuver les feux d'un amant* ». *Dictionnaire de l'Académie françoise*, 1694.V. 70, 260, 416, 451, 483, 550, 554, 882, 956, 1015, 1143, 1170, 1515.Flame, flamme « FLAMME. subst. Fem … On dit figurément, la flamme de l'amour; et se dit premièrement de l'amour divin. Une flamme celeste. Seigneur, que je brusle de vos flammes. Il se dit communément de l'amour prophane. Cet amant brusle d'une flamme innocente pour cette fille. Il ne faut point nourrir des flammes criminelles. Une flamme constante, est une amour fidelle ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 165, 258, 282, 338, 434, 452, 485, 557, 689, 726, 826, 850, 926, 1001, 1029, 1078, 1083, 1206, 1573. Flatter, Flater « Se donner de belles esperances. Flatter son imagination, c'est la repaistre de chimeres agreables. Je ne trouve rien qui flatte mon esprit en ce gros livre. On dit aussi, que l'apparence flatte, pour dire, nous trompe ». Se flatter signifie « se faire illusion ». V. 509, 684, 1029, 1049, 1121, 1206, 1251, 1297, 1313, 1572.Foudre « FOUDRE. s.m. et f. Exhalaison grasse et sulphurée qui s'enflamme par le choc des nuës, et qui en sortant avec violence fait un grand bruit, et des effets extraordinaires sur la terre. On a toûjours armé les Dieux Payens de la foudre : « Ces foudres impuissans qu'en leurs mains vous peignez », dit Corneille dans son *Polyeucte*. Les lieux touchez de la foudre estoient estimez sacrez chez les Anciens ».* Dictionnaire universel*, Antoine Furetière,  1690.V. 23.« FOUDRE, se dit figurément de la colere de Dieu, ou des Rois. Les prieres que les Fidelles ont fait à Dieu, luy ont arraché, luy ont fait tomber la foudre des mains ». *Dictionnaire universel*, Antoine Furetière,  1690. Dans *Agamemnon*, le terme symbolise le châtiment et relève de l'imagerie du sacré omniprésente dans la pièce. C'est en effet l'instrument emblématique de la punition divine. V. 500.Foy « Foy, se prend pour l'Asseurance donnée de garder sa parole, sa promesse; pour cette probité, cette regularité qui fait qu'un homme observe exactement ce qu'il a promis ». *Dictionnaire de l'Académie françoise*, 1694. De plus, le terme de « foy », « rend compte fondamentalement des exigences qui régissent dans l'ordre chevaleresque, les rapports entre les hommes. Il désigne d'abord la confiance que l'on accorde à un être et qui engendre un engagement, une parole (…) l'évolution du sens privilégie métonymiquement l'expression de l'effet qui résulte de cet engagement, et le mot désigne alors la fidélité à la parole ». (Anne Sancier-Château, *Introduction à la langue du XVII*e* siècle*). V. 255, 329, 479, 668, 824, 1108, 1559, 1576.Fureur, furie, furieux « FUREUR. f. Emportement violent causé par un dérèglement d'esprit et de la raison. La morsure des animaux enragez rend les hommes malades de fureur. (…) FUREUR Se dit en Morale de la colère lorsqu'elle est violente et démesurée, et qu'elle jette les hommes dans quelques excés… » Furetière, *Dictionnaire universel*, 1690. En latin, *furor* signifie « folie ». V. 188, 282, 353, 454, 478, 539, 609, 676, 708, 741, 747, 822, 921, 985, 1017, 1030, 1350, 1362, 1379, 1401, 1417, 1431, 1458, 1480, 1483, 1485, 1638.Genereux« GENEREUX, EUSE. adj. Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. Auguste fit une action genereuse en pardonnant à ses ennemis. GENEREUX, signifie aussi, Brave, vaillant, courageux. Alexandre estoit un Prince genereux, qui affrontoit hardiment les plus grands perils ». Furetière, *Dictionnaire universel*, 1690. V. 259, 320.Gesner« Gesner. v. a. Tenir en contrainte, mettre quelqu'un dans un estat violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empeschant de faire ce qu'il veut. *Si vous n'avez pas d'inclination à ce mariage, ne le faites point, je ne veux point vous gesner. la presence de cet homme me gesnoit, m'embarassoit. on est gesné devant les gens de respect. c'est un homme qui aime la liberté, il ne se gesne pour quoi que ce soit. ne vous gesnez point sur cela. la rime gesne beaucoup les poëtes ». Dictionnaire de l'Académie françoise*, 1694.V. 193.Gloire « GLOIRE, se dit par emprunt et par participation, de l'honneur mondain, de la loüange qu'on donne au merite, au sçavoir et à la vertu des hommes ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 229, 242, 253, 278, 280, 317, 320, 404, 464, 514, 516, 526, 570, 577, 585, 654, 713, 758, 980, 995, 1040, 1052, 1069, 1126, 1141, 1166, 1170, 1201, 1236, 1294, 1394, 1490, 1495,  1530, 1538, 1553, 1641.Grace « GRACE. s.f. Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée. On le dit premierement de Dieu qui est l'auteur de toutes les graces ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 301, 398, 523, 529, 719, 1555.« GRACE, est quelquefois opposé à justice et à rigueur, et signifie alors, Pardon, remise, composition. Le Roy accorde des graces pour les crimes remissibles ». V. 886, 1097.« De grace. adv. Par faveur, par pitié, par courtoisie ». V. 11, 567, 1539.Hayne, haine, hayr« HAINE. s.f. Passion de l'ame qui nous porte à vouloir du mal à nostre prochain, et à luy en procurer quand nous le pouvons. HAINE, se dit aussi de certaines aversions bien ou mal fondées qu'ont les hommes pour certaines choses ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 73, 177, 279, 283, 369, 394, 422, 425, 427, 454, 474, 504, 613, 734, 748, 789, 900, 929, 981, 986, 988, 989, 998, 1005, 1041, 1245, 1260, 1360, 1443, 1462, 1514.Honneur, honnorer« HONNEUR. s.m. Tesmoignage d'estime ou de soûmission qu'on rend à quelqu'un par ses paroles, ou par ses actions. Il faut rendre honneur et respect premierement à Dieu et aux choses saintes, aux Rois et aux Magistrats, à ses parents et à la vertu (…) HONNEUR, se dit en general de l'estime qui est deuë à la vertu et au merite (…) HONNEUR, signifie aussi la charge, la dignité qui attire les respects et les soûmissions des autres ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 277, 363, 525, 432, 943, 1174, 1218.Horreur « Mouvement de l'ame accompagné de fremissement et de crainte, causé par l'aversion qu'excite la veuë, ou le souvenir de quelque objet affreux, terrible ». *Dictionnaire de l'Académie françoise*, 1694.V. 258, 328, 487, 599, 639, 806, 910, 945, 990, 1036, 1192, 1214, 1258, 1263, 1427, 1436, 1500.Horrible « HORRIBLE. adj. m. et f. Qui fait peur ou horreur, ou qui donne une grande aversion ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 395, 612, 1023, 1241, 1354, 1622.Humilier « HUMILIER. v. act. Rabattre l'orgueil de quelqu'un, le mortifier. Les ennemis ont esté fort *humiliez*, par toutes les pertes qu'ils ont souffertes. S'HUMILIER, se dit aussi de cet abbaissement volontaire qu'on fait devant quelqu'un, et sur tout devant la Majesté de Dieu ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 1168.Hymen« HYMEN, ou Hymenée. s. m. Mariage. Il n'a d'usage qu'en Poësie. *Sous les loix de l'Hymen. le joug de l'Hymenée* ».V. 86, 123, 145, 149, 195, 198, 200, 216, 290, 334, 341, 345, 497, 633, 785, 796, 797, 802, 869, 887, 895, 923, 970, 1025, 1044, 1051, 1089, 1105, 1108, 1129, 1207, 1210, 1217, 1254, 1257, 1275, 1330, 1451, 1452, 1453, 1497, 1511, 1525, 1536, 1570.Illustre « ILLUSTRE. adj. m et f. et sub. Ce qui est eslevé par-dessus les autres par son mérite, par sa vertu, par sa noblesse, par son excellence ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 12, 54, 114, 358, 591, 666, 757, 1075, 1125, 1171, 1198, 1390, 1524.Impieté, impietez, impie « IMPIETÉ, Action d'un homme impie. Les sacrileges, les blasphemes sont des *impietez*. (…) se dit aussi du manque de respect et du devoir envers ses pere et mere. C'est une grande impieté de lever la main sur son pere, ou sur sa mere, de leur refuser des aliments dans leur vieillesse ». L'adjectif employé dans la tragédie est pris dans un sens large, il recouvre l'idée de sacrilège, d'un acte de profanation des choses sacrées et dignes de révérence, il désigne le plus souvent un acte dirigé le plus souvent vers un membre de la famille. *Dictionnaire universel*, Antoine Furetière,  1690. V. 374, 1434, 1496.Injure, injurieux« Ce mot vient du Latin *injuria. Quod fit citra jus, injuria est*. on appelle *injure*, ce qui se fait sans raison, contre les biens ou contre l'honneur d'une personne. INJURE, se dit aussi des affronts, des torts et dommages qu'on fait à une personne par voyes de fait ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 223, 882, 1355. Licence« *Licence*, signifie dans l'usage ordinaire du monde, Dereglement dans les moeurs, dans les actions, dans les paroles & dans toute la conduite de la vie. *Une licence effrenée. reprimer la licence de la jeunesse. c'est ouvrir la porte à la licence, à toute sorte de licence* ». *Dictionnaire de L'Académie française* (1694)V. 573.Loy, loi « Loy.subst.fem. Commandement qui vient d'une autorité supérieure, auquel un inférieur est contraint d'obeïr ». *Dictionnaire universel*, Antoine Furetière,  1690. Cette définition générale s'applique dans ses contextes très différents dans la pièce. Le terme a dans un cadre politique, le sens de prescription de l'autorité souveraine. V. 120, 140, 206, 408, 491, 987, 991, 1232.« Loy, se dit aussi en parlant d'une obeïssance volontaire qui fait qu'on se soûmet aux volontez d'autrui. Cet amant it souslesloi de sa maistresse ». Le terme « loy » possède donc également un sens galant, Charles Sorel écrit en 1644 *Les loix de la galanterie*. Le terme rappelle ici que la maitresse est dans une posture dominante. V. 952.Maîtresse Le mot désigne une personne aimée qu'on recherche en mariage. V. 1138, 1261, 1541, 1614.Miserable, misereL'emploi de l'adjectif dans la tragédie exclut les connotations péjoratives qui impliquent un jugement moral négatif : « MISERABLE. adj. masc. et fem. et subst. Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 61, 74, 169, 174, 361, 933, 943, 1028, 1285.Objet Le terme peut surprendre lorsqu'il désigne une personne en complément d'objet. « OBJET, se dit poëtiquement des belles personnes qui donnent de l'amour. C'est un bel objet, un objet charmant ». *Dictionnaire universel*, Antoine Furetière,  1690. Anne Sancier-Château, dans *Introduction à la langue du XVII*e**, précise qu'il est plus fréquemment employé pour les femmes, bien qu'il puisse aussi désigner un homme. V. 736.Onde« ONDE. s. f. Flot, souslevement de l'eau agitée. *Le vent fait des ondes sur les rivieres. il ne fait pas bon sur la riviere, les ondes sont trop grosses.*Il se prend en Poësie, pour l'Eau en general: & il se dit principalement de la mer. *Sur la terre & sur l'onde. il vogue sur les ondes. le soleil se cache dans les ondes. sort du sein de l'onde. sur les ondes salées. à la mercy des ondes. au gré de l'onde.* Les Poëtes appellent l'eau du Stix & du Cocyte, l'*Onde noire* », *Dictionnaire de L'Académie française* (1694).V. 41, 1402.Outrer, outrage« OUTRER : signifie picquer au vif, faire un cruel affront. Il fut outré de douleur en apprenant la mort de sa femme. Ajax fut tellement outré du refus des Grecs, qu'il se tua luy-même ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 469, 953, 966, 1337.Parricide « Parricide. s. m. Celuy qui tuë son pere. Il se dit aussi par extension de celuy qui tuë sa mere, son frere, sa soeur, ses enfants &c. *On ne peut trop punir les parricides*.Il signifie aussi Le crime que commet celuy qui tuë son pere. *Parricide detestable, abominable. commettre un parricide* ». *Dictionnaire de l'Académie françoise*, 1694.V. 898, 1434, 1637.Passion « PASSION, en Morale, se dit des differentes agitations de l'ame selon les divers objets qui se presentent à ses sens. Les Philosophes ne s'accordent pas sur le nombre des passions. Les passions de l'appetit concupiscible, sont la volupté et la douleur, la cupidité et la fuite, l'amour et la haine ». *Dictionnaire universel*, Antoine Furetière,  1690. La passion d'amour demeure la première passion représentée par la tragédie. Le mot même de passion commence à être employé au XVII*e* siècle dans cette acceptation particulière de passion de l'amour. Elle évolue alors tout en conservant cette idée d'un sujet passif, soumis à l'émotion « de la brutalité du désir tyrannique aux raffinements précieux » (Charles Mazouer, *La tragédie de l'âge classique, t. I, Le premier XVII*e* siècle*.) V. 67, 551, 584, 962.Perdre *Dictionnaire universel*, Antoine Furetière,  1690 : « PERDRE. v. act. et n. Souffrir quelque dommage, quelque diminution en sa santé, en son honneur, en ses biens. V. 83, 451, 498, 820, 821, 1341, 1342, 1421, 1612, 1614, 1632.« PERDRE, signifie aussi, Destruire, ruiner. C'est un homme qu'on veut perdre, qu'on veut exterminer. V. 247, 690, 694, 1361.Plaindre « PLAINDRE. v. act. qui se dit souvent avec le pronom personnel. Témoigner sa douleur, son affliction par quelque signe exterieur ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 80, 401, 1181, 1227, 1248, 1292, 1353.Pleur, pleurer« PLEURS. s. m. plur. Larmes, humidité qui tombe des yeux par quelque violente émotion de l'ame, et particulierement de la tristesse (…). Les soupirs, les cris et les pleurs sont des marques d'affliction ». *Dictionnaire universel*, Antoine Furetière, 1690. Dans la seconde moitié du XVII*e* siècle, les pleurs relèvent notamment du culte de la sensibilité et de la délicatesse qu'érige le discours galant. V. 76, 168, 171, 275, 435, 455, 646, 781, 944, 950, 999, 1021, 1393, 1444, 1482, 1583, 1586, 1636.Pompe, pompeux« POMPE, subst. fem. Despense magnifique qu'on fait pour rendre quelque action plus recommendable, plus solemnelle & plus éclatante. Rien n'a égalé la *pompe* & la magnificence des triomphes Romains ». « POMPEUX, EUSE, adj. Qui le fait avec pompe & magnificence. Cette entrée, ce carrousel, étoient fort *pompeux*. La Cour de France est toûjours *pompeuse* et fort leste », *Dictionnaire universel*, Antoine Furetière,  1690V. 124, 286, 522, 941, 1451.Prétendre« Pretendre. v. a. Demander une chose à laquelle on croit avoir droit. *Je pretens un dixiesme, une moitié dans cette societé. il a pretendu ce remboursement. il pretend le pas sur un tel. je pretendois de vous cette marque de reconnoissance. que pretendez-vous à cela? je n'y pretends rien.*Il sign. aussi simplement, Aspirer à une chose, & alors il est neutre. *Il pretend à cette charge, à ce benefice. il n'y a rien de si eslevé à quoy il ne puisse pretendre.*Il sign. aussi Avoir intention, avoir dessein. *Je pretends faire ce voyage en tel temps. je n'ai point dit cela serieusement, j'ay pretendu badiner* ». *Dictionnaire de l'Académie françoise*, 1694.V. 620, 672, 728, 852.Presser, pressé, pressant« PRESSER. v. a. En ce sens il se dit fig. des Discours par lesquels on insiste auprés de quelqu'un pour le porter à quelque chose. *On l'a pressé par des raisons si fortes & si convaincantes qu'il a esté obligé de s'y rendre. il m'en a conjuré, il m'en a pressé si fort que je n'ay pû luy refuser ce qu'il me demandoit*. Il signifie aussi, Haster, obliger à se diligenter, ne donner point de relasche. *Presser son départ. presser sa marche. vous avez beau me presser, je ne puis pas aller plus viste. ce n'est pas moy qui vous presse, c'est le temps qui presse. les ouvriers ne font rien si on ne les presse. ce sont les affaires qui pressent. on le presse de partir. on a tellement pressé ces chevaux qu'ils en sont fourbus.* » *Dictionnaire de l'Académie françoise*, 1694.V. 146, 251, 565, 726, 826, 1069, 1233, 1419, 1426, 1500, 1504, 1533, 1575, 1589, 1617.Prevenir Le terme a le sens de devancer. « PREVENIR. v. act. Arriver devant, venir le premier. (…) *Prevenir*, en parlant du temps, veut dire proprement, Anticiper ». *Dictionnaire de l'Académie françoise*, 1694. V. 248, 337, 1193, 1345. Race « RACE. s.f. Lignée, generation continuée de pere en fils: ce qui se dit tant des ascendans que des descendans. Il vaut mieux estre le premier que le dernier Noble de sa race: c'est ce qui fut répondu par Iphicrate Capitaine des Atheniens, à Hermodius qui luy reprochoit la bassesse de sa naissance, parce qu'il étoit fils d'un Cordonnier. (…) RACE, se dit des anciennes familles illustres ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 403, 462, 494, 1336, 1390.Raison, raisonnement *Dictionnaire universel*, Antoine Furetière,  1690 : « RAISON, f.f. Entendement, première puissance de l'ame qui discerne le bien du mal, le vray d'avec le faux ». V. 271, 348, 355, 1356.« RAISON, signifie aussi, Argumentation, preuve ». V. 153, 178, 342, 659, 660, 874, 1069, 1071, 1087.Rebelle « REBELLE. adj. m. et f. et subst. Qui se revolte contre son Souverain et ses superieurs, qui ne veut pas obeïr aux loix ». *Dictionnaire universel*, Antoine Furetière,  1690. V.  165, 285, 894.Sang« Sang, signifie aussi, Race, extraction. *Sang vil & abjet. de noble sang. d'illustre sang. de sang royal. le sang de France. c'est vostre fils, c'est vostre sang. à cette genereuse action, je reconnois mon sang.* On appelle en France,* Princes du sang*, Les Princes qui sont de la maison Royale ». *Dictionnaire de l'Académie françoise*, 1694.V. 82, 111, 158, 159, 186, 191, 192, 359, 360, 519, 614, 656, 904, 1278.Soin « SOIN. s.m. Diligence qu'on apporte à faire reüssir une chose, à la garder et à la conserver, à la perfectionner ». *Dictionnaire universel*, Antoine Furetière,  1690.V. 90, 113, 261, 405, 645, 775, 869, 887, 944, 1165, 1397.« SOIN, est aussi l'attache particuliere qu'on a auprés d'un maistre, ou d'une maistresse, pour les servir, ou leur plaire. (…) Soupirs, devoirs, petits soins en amour, tout est langage ». V. 77, 210, 237, 391, 947, 1044, 1617.« SOIN signifie aussi, Inquiétude, peine d'esprit, souci. *La vie des Grands est pleine de soins. L'ambition cause bien des soins* ».* Dictionnaire de l'Académie françoise*, 1762. V. 7, 435, 1148, 1289, 1314.Sort« Il se prend aussi, pour La Destinée, dans le sens des Anciens: Et pour l'enchaisnement & la suite des bonnes ou mauvaises avantures des hommes. *Le sort le veut ainsi. le sort l'a ainsi ordonné. les rigueurs, les caprices du sort. le sort aveugle. je plains vostre sort. tel est le sort des Conquerans, le sort des Republiques* ».* Dictionnaire de l'Académie françoise*, 1694. V. 10, 48, 420, 457, 511, 514, 516, 685, 780, 853, 972, 1153, 1212, 1231, 1263, 1335, 1352, 1456, 1459, 1519, 1567, 1615.Soûpir, soûpirer  « SOUSPIR, se dit aussi d'un témoignage exterieur de tristesse, d'affliction, de douleur, qui se donne par une respiration violente et presque involontaire. Cette veuve pousse des souspirs et des gemissements pour la mort de son mary; sa grande douleur ne luy permet que des sanglots, des souspirs entrecouppez. Les amants font de tendres souspirs en presence de leurs maistresses ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 960, 1122.Souffrir « SOUFFRIR. v. act. Sentir de la douleur, du mal, ou quelque incommodité considerable ». *Dictionnaire universel*, Antoine Furetière,  1690. V.  456, 953, 978.« Souffrir, signifie aussi, Supporter. (…) Tolerer, n'empescher pas, quoy qu'on le puisse ». *Dictionnaire de l'Académie françoise*, 1694. V. 415, 568, 648, 719.Superbe *Dictionnaire universel*, Antoine Furetière,  1690 : « Adj. m.&f. Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy même ». V. 87.« Se dit de ce qui marque la magnificence, la somptuosité ». V. 1441.Timide « TIMIDE. adj. m. et f. Foible, peureux, qui craint tout ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 325, 962.Tragique « TRAGIQUE. adj. de t. g. Qui appartient à la Tragedie. Poëme tragique. un Poête tragique. il excelle dans le genre tragique. Il se prend aussi substantivement pour le Genre tragique. Ce poëte s'applique au tragique. il est propre pour le tragique, et ne reüssit pas dans le comique. Tragique signifie fig. Funeste. Evenement tragique. mort tragique. histoire tragique. la fin des meschants est souvent tragique. il a fait une fin tragique ». *Dictionnaire de l'Académie françoise*, 1694V. 454, 806.Trait « TRAIT. s.m.v. Fleche, dard, qui se tire avec un arc ou une arbaleste … On dit figurément, *Un trait de satire, de médisance, de raillerie;* & poëtiquement, *Les traits de l'envie ». Dictionnaire de l'Académie françoise*, 1694. V. 1362.Transport En rendant impossible la maîtrise de soi, le transport apparaît comme une manifestation sensible de l'empire des passions. Le transport est associé à l'expression violente et brève de  vifs sentiments. Les Anciens ont théorisé cette manifestation sensible violente en la rapprochant de la théorie médicale des tempéraments formulée par Hippocrate : le corps est maintenu dans son équilibre par un mélange adéquat d'humeurs, le transport bouleverse cet équilibre et modifie le caractère. « TRANSPORTS : se dit figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. Un transport de joye a causé quelquefois la mort. Un transport de colere cause souvent de grands malheurs ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 231, 333, 826, 959, 1418, 1439, 1488, 1631.Travaux « TRAVAUX, se dit au pluriel des actions, de la vie d'une personne, et particulierement des gens heroïques. Dieu benit les *travaux* des gens de bien ». *Dictionnaire universel*, Antoine Furetière,  1690. V. 578.Trouble, troubler« Trouble, se dit figurément des altérations, des émotions, des inquietudes, des des embarras, des desordres de l'ame causez par les passions, » *Dictionnaire universel*, Antoine Furetière,  1690. L'amour est néanmoins l'« un des agents les plus puissants de l'inquiétude, et celle-ci est bien une manifestation du sentiment amoureux ». Anne Sancier-Château, *Introduction à la langue du XVII*e.*siècle.* V. 35, 271, 311, 349, 350, 390, 392, 547, 994, 1409, 1414, 1500, 1581.Tyran, tyranniser« On appelle encore, *Tyrans*, Tous ceux qui abusent de leur authorité, pour faire quelques vexations, quelques extorsions, ou qui s'attribuent une authorité qui ne leur appartient pas. *Tous les Seigneurs de ce pays sont autant de petits tyrans. ce Gouverneur, ce Magistrat s'est rendu le tyran de la Province. il extorque, il se fait payer trois fois plus qu'il ne faut, il est le tyran de sa compagnie* ». *Dictionnaire de l'Académie françoise*, 1694. V. 1059, 1305.Vertu « VERTU, se dit figurément, de la droiture, de la probité ; de la disposition, ou de l'habitude de l'ame à faire le bien, à suivre ce qu'ordonnent les lois, et ce que dicte la raison ». *Dictionnaire universel*, Antoine Furetière,  édition augmentée de 1725. V. 63, 77, 80, 171, 320, 692, 1056, 1227.Zele « Affection ardente pour quelque chose. Il se dit principalement à l'égard des choses saintes et sacrées. (…) Il se dit aussi, de ce qui regarde les obligations de la vie civile. Le Zele de la patrie. le zele pour la Patrie. avoir beaucoup de zele pour son Prince, pour le service de son Prince ». *Dictionnaire de l'Académie françoise*, 1694. V. 5, 237, 243, 309, 775, 867, 1226.
 
 
-# Œuvres de Claude Boyer
+# Œuvres de Claude Boyer.
 
 De 1646 à 1697, Claude Boyer écrivit vingt-huit pièces de théâtre, seul ou en collaboration. Les œuvres sont classées suivant l'année de leur première représentation :
  * *La Porcie romaine*, tragédie (1646).
@@ -3772,7 +3772,7 @@ De 1646 à 1697, Claude Boyer écrivit vingt-huit pièces de théâtre, seul ou 
  * *Méduse*, tragédie en musique (1697).
 
 
-# Les œuvres de théâtre jamais publiées
+# Les œuvres de théâtre jamais publiées.
  * *Tigrane*, tragédie représentée à l'Hôtel de Bourgogne, le 31 décembre 1660.
  * *Atalante*, tragédie représentée à l'Hôtel de Bourgogne en 1671.
  * *Démarate*, tragédie représentée à l'Hôtel de Bourgogne en décembre 1673.
@@ -3781,10 +3781,10 @@ De 1646 à 1697, Claude Boyer écrivit vingt-huit pièces de théâtre, seul ou 
 Les *Œuvres de M. l'abbé Boyer* paraissent en 1685. Boyer publie aussi un roman, *La Comtesse de Candale* (1672). Ses poèmes sont publiés dans le *Recueil de Furetière* (1687) et dans les *Recueils de l'Académie française* entre 1689 et 1697.
 
 
-# Bibliographie générale
+# Bibliographie générale.
 
 
-## Autres pièces de Claude Boyer
+## Autres pièces de Claude Boyer.
     La Porcie Romaine
 Le Comte d'Essex
 Artaxerce
@@ -3793,14 +3793,14 @@ Oropaste ou le faux Tonaxare, tragédie*Delmas**Forestier*
 
 
 
-## Pièces des contemporains
+## Pièces des contemporains.
     *Corneille*Œuvres complètes*Couton*Le CidCinna
 *Racine*Œuvres de Jean Racine*Mesnard*
 *Racine*Œuvres complètes*Forestier*AndromaqueBritannicusBajazetIphigéniePhèdre
 
 
 
-## Ouvrages évoquant Claude Boyer et son œuvre
+## Ouvrages évoquant Claude Boyer et son œuvre.
     *Benzekri*Claude Boyer dramaturge, une traversée du XVII*e* siècle (1618-1698)
 *Brody*The Works of l'abbé Claude Boyer
 *Clarke*The Guénégaud Theatre in Paris (1673-1680)Founding, Design and Production (1998)The Accounts Season by Season (2001)
@@ -3817,10 +3817,10 @@ Oropaste ou le faux Tonaxare, tragédie*Delmas**Forestier*
 
 
 
-## Ouvrages historiques, philosophiques, critiques et littéraires de l'Antiquité au XVIII*e* siècle
+## Ouvrages historiques, philosophiques, critiques et littéraires de l'Antiquité au XVIII*e* siècle.
 
 
-### Antiquité gréco-romaine
+### Antiquité gréco-romaine.
     *Aristote*La PoétiqueLa Poétique
 *Eschyle*L'Orestie
 *Homère*Iliade – Odyssée
@@ -3828,14 +3828,14 @@ Oropaste ou le faux Tonaxare, tragédie*Delmas**Forestier*
 
 
 
-### Ouvrages théoriques du XVII*e* et XVIII*e* siècle
+### Ouvrages théoriques du XVII*e* et XVIII*e* siècle.
     *Aubignac*La Pratique du théâtre
 *Boileau*Art poétique
 *Boileau*Art poétique
 
 
 
-## Répertoires des auteurs et pièces de théâtre
+## Répertoires des auteurs et pièces de théâtre.
     *Beauchamps*Recherches sur les théâtres de France : depuis l'année onze cent soixante-un jusques à présent
 *Chapelain*Liste de quelques gens de lettres français vivants en 1662Opuscules critiques
 *La Grange*Archives de la Comédie-Française, Registre de La Grange (1658-1685), édition des Extrait des Recettes et des Affaires de la Comédie depuis Pâques de l'année 1659, publié par les soins de la Comédie-Française
@@ -3849,7 +3849,7 @@ Oropaste ou le faux Tonaxare, tragédie*Delmas**Forestier*
 
 
 
-## Ouvrages généraux sur la tragédie du XVII*e* siècle
+## Ouvrages généraux sur la tragédie du XVII*e* siècle.
     *Adam*Histoire de la littérature française du XVII*e* siècle
 *Barthes*Sur Racine
 *Bénichou*Morales du grand siècle
@@ -3870,7 +3870,7 @@ Oropaste ou le faux Tonaxare, tragédie*Delmas**Forestier*
 
 
 
-## Dictionnaires et ouvrages sur la langue
+## Dictionnaires et ouvrages sur la langue.
     *Académie Française*Dictionnaire
 *Belfiore*Grand Dictionnaire de la mythologie grecque et romaine
 *Courtat*Monographie du dictionnaire de l'Académie française

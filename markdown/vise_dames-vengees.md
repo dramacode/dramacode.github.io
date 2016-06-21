@@ -15,7 +15,7 @@ A PARIS, Chez MICHEL BRUNET, dans la grand'Salle du Palais, au Mercure galant. M
       maîtrise sous la direction de Georges Forestier (2004-2005)
 
 
-# Introduction
+# Introduction.
 
 Si l'idéalisme romanesque et précieux fondait au cœur du XVII*e* siècle l'amour sur l'honneur, la générosité, le mérite et l'estime, un seul type d'homme devait entièrement dévaloriser cet idéalisme : le libertin du siècle finissant. À Paris, dans une famille bourgeoise, un jeune homme se ruine pour pouvoir sans cesse conquérir de nouvelles maîtresses. Sa sœur devant épouser son amoureux, il rencontre à cette occasion la sœur de celui-ci, une jeune provinciale belle et vertueuse dont il avait par hasard acquis le portrait, sans connaître l'identité de la jeune femme. Bien vite séduit, il connaît le véritable amour, un amour partagé par celle-ci. Mais sa mère est une femme sans scrupule, infatuée de noblesse, qui souhaite voir sa fille donner son héritage à son frère puis se retirer dans un couvent, afin que son fils puisse mener une vie de grand seigneur. La jeune fille, rapidement déçue par le libertin, entre au couvent. Pris à son propre piège de jeune homme frivole et médisant, il est puni de son mépris antérieur envers les femmes ; c'est ainsi que, devant son échec, les « Dames » sont correctement vengées.
 
@@ -24,10 +24,10 @@ Si l'idéalisme romanesque et précieux fondait au cœur du XVII*e* siècle l'am
 Si l'intrigue ne brille pas par son originalité et sa nouveauté, on peut néanmoins savoir gré à l'auteur d'avoir déployé tout au long de la pièce sa verve satirique et humoristique. Toute l'originalité et tout l'intérêt de la pièce concernent pourtant son dénouement, un dénouement malheureux qui se démarque très fortement des traditions et usages suivis par les comédies de l'âge classique. Seule une autre comédie du XVII*e* siècle présente un dénouement semblable à celui-ci : il s'agit de *La Place Royale, ou l'Amoureux extravagant*, de Pierre Corneille, pièce qui a été représentée en 1633. Et quelque soixante années plus tard, à ce dénouement atypique vient s'ajouter un aspect moral, sous-jacent à toute la pièce, qui se traduit par de nombreux proverbes, maximes et vérités générales. Le principal mérite des *Dames vangées* réside donc dans l'harmonie et la cohérence du dénouement de la pièce avec son propre titre.
 
 
-# Aperçu biographique
+# Aperçu biographique.
 
 
-## L'identification de l'auteur
+## L'identification de l'auteur.
 
 Avant de présenter l'auteur de la pièce, il semble tout d'abord nécessaire de résoudre un problème concernant son identification. Il est en effet possible de penser que la pièce a été écrite soit par un auteur unique, à savoir Jean Donneau de Visé, soit par une collaboration entre De Visé et Thomas Corneille. Les historiens du XVIII*e* siècle, comme ceux du XX*e* siècle, ne parviennent pas toujours à s'accorder pour déterminer le(s) véritable(s) auteur(s).
 
@@ -43,7 +43,7 @@ Sans refuser la paternité de la pièce au seul De Visé, ils sous-entendent ici
 Deux pôles divergents apparaissent donc : l'un donne raison à De Visé seul, et ce notamment grâce à l'épître et aux textes du *Mercure Galant* ; l'autre, à savoir Beauchamp et G. Reynier, prône la collaboration des deux hommes, mais sans donner de preuve suffisante. Nous considérerons donc que la pièce a été écrite par Jean Donneau de Visé uniquement et que T. Corneille n'a jamais participé à l'écriture de la pièce.
 
 
-## Jean Donneau de Visé, journaliste et « homme de Lettres » [8]
+## Jean Donneau de Visé, journaliste et « homme de Lettres » [8].
 
 Né à Paris en 1638, Jean Donneau de Visé entreprit tout d'abord quelques études qui devaient le conduire à la carrière ecclésiastique, mais il s'adonna très rapidement aux lettres, où il se fit connaître comme critique et adversaire de Molière, qu'il prit violemment à partie lors de la querelle de *L'Ecole des Femmes* dans ses *Nouvelles nouvelles* puis dans sa comédie *Zélinde* ou *La Véritable critique de l'Ecole des Femmes et la critique de la critique* en 1663. Et, lorsque Molière, après la parution de *Zélinde*, répliqua par *L'Impromptu de Versailles*, Donneau de Visé alimenta la querelle par une *Réponse à l'Impromptu* et continua d'accabler le dramaturge en décembre 1663 dans une *Lettre sur les affaires du théâtre*. Néanmoins, il changea d'opinion par la suite, se réconcilia avec lui, en devint même un familier et un ami et se montra particulièrement élogieux dans la *Lettre sur le Misanthrope* en 1667. Bien que *Zélinde* ne fût pas représentée, elle eut pourtant un grand retentissement, et, encouragé par ce succès, De Visé écrivit une douzaine de pièces de théâtre. Comme celles de Molière, ses pièces appartenaient à ce genre théâtral nouveau qui se dessina à partir des années 1660, où la peinture des mœurs remplaça peu à peu la farce. C'est donc à partir du moment où Donneau De Visé se réconcilia avec Molière qu'il se mit à écrire un certain nombre de comédies, souvent couronnées de succès.
 
@@ -52,10 +52,10 @@ Il commença par confier à la troupe de Molière la création de la *Mère Coqu
 Mais J. Donneau de Visé est surtout célèbre en tant que fondateur du *Mercure Galant* en 1672. *Le Mercure Galant* était un périodique consacré aux nouvelles du théâtre, des arts, de l'édition, mais aussi aux histoires galantes. Tous les faits notables de la cour et de la ville paraissaient sous la forme d'une « Lettre à Madame », un personnage imaginaire, et dans laquelle il commentait tous ces différents événements. De plus, pour agrémenter la lecture du périodique, des vers, des énigmes et des chansons avec leur musique étaient aussi publiés. Le journal présentait presque toutes les caractéristiques d'un journal moderne : chroniques mondaines, littéraires et dramatiques, comptes-rendus académiques étaient déjà présents dans le journal. Interrompue en 1674, la publication du *Mercure Galant* reprit en 1677, avec la collaboration de Thomas Corneille. Donneau de Visé entreprit de publier le *Mercure Galant* tous les mois à partir de 1678, ce qui lui valut la faveur et la protection du roi sous la forme d'une pension annuelle de près de 12 000 livres, d'un logement au Louvre et d'une grande autorité. Il mourut à Paris le 8 juillet 1710. Au siècle suivant, le journal prit en 1724 le nom de *Mercure de France*.
 
 
-# Création de la pièce
+# Création de la pièce.
 
 
-## Les différentes représentations de la pièce
+## Les différentes représentations de la pièce.
 
 *Les Dames vangées* ont été représentées pour la première fois à Paris, à La Comédie-Française, le 22 février 1695, et obtinrent 1276 livres et 10 sols. Cinq autres représentations suivirent, comme le relate le *Registre journalier* de la Comédie-Française :
 DATE DES REPRÉSENTATIONS | RECETTES
@@ -101,13 +101,13 @@ Le *Registre journalier* de la Comédie-Française donne le nom des comédiens l
 – pour les actrices : Mlles Beauval, De Villiers, Dancourt, Raisin, Du Rieu et Des Brosses.
 
 
-## Réception de la pièce
+## Réception de la pièce.
 
 
-### La place des Dames vangées dans l'histoire du théâtre français
+### La place des Dames vangées dans l'histoire du théâtre français.
 
 
-#### La comédie et les théâtres après Molière
+#### La comédie et les théâtres après Molière.
 
 *Les Dames vangées* ont paru dans un contexte assez intéressant, car la fin du XVII*e* siècle fut une période où l'on vit différents changements, dans les théâtres et les troupes de théâtre. Ainsi, après la mort de Molière, en 1673, le paysage des théâtres français connut de nombreuses modifications. En effet, tous les théâtres parisiens se virent peu à peu rassemblés, et, en 1680, la fusion des deux dernières troupes, celle des acteurs du théâtre de la rue Guénégaud avec celle des acteurs du théâtre de l'Hôtel de Bourgogne, aboutit à la création de la Comédie-Française, qui s'installa dans une salle, rue Guénégaud. Chassée de cette salle en 1687, la troupe finit par s'installer en 1689 dans la salle du jeu de paume de l'Étoile, rue des Fossés-Saint-Germain-des-Près. Inaugurée le 18 avril 1689, cette salle était de configuration pratique car, de forme semi-circulaire, elle permettait d'accueillir jusqu'à deux mille spectateurs. A. Adam explique que la salle « était décente, mais non pas magnifique. On notait seulement que ses loges étaient propres et commodes, et l'on remarquait ses vingt-quatre lustres [11] ».
 
@@ -123,7 +123,7 @@ Lorsque la Querelle des Anciens et des Modernes commença à prendre de l'ampleu
 Mais peut-on voir dans notre pièce des traces d'un quelconque règlement de comptes envers Boileau ? Dans *Les Dames vangées*, J. Donneau de Visé prit le parti des femmes, et fit plusieurs fois allusion à « M. Despréaux » [13] : ainsi, à la scène 5 de l'acte I, Marton dit haut et fort : « Nous sommes vangées de ceux qui nous déchirent par leurs coups de langue ». Et Lisandre fait par la suite à Hortense, à la scène 5 de l'acte III, l'éloge complet du sexe féminin. Cependant, J. Donneau de Visé assura que sa comédie n'avait rien à voir avec la *Satire X* de Boileau, et il le dit dans le *Mercure Galant* de décembre 1694 [14] : « la pièce ne regarde en aucune maniere la Satyre de M. Despréaux ». Malgré cette dénégation, le doute n'est guère permis. Même si De Visé affirma que sa pièce n'avait aucun rapport avec la *Satire X* de Boileau, les sentences et réflexions défendant les femmes qui sont présentes dans le texte confirment le fait qu'il s'agissait bel et bien d'une « machine de guerre » anti-Boileau.
 
 
-### Le rôle et la publicité du Mercure Galant
+### Le rôle et la publicité du Mercure Galant.
 
 Comme nous l'avons vu précédemment, la pièce a paru dans un contexte qui lui était favorable et qui lui faisait même de la publicité. La publicité de la pièce était donc déjà parfaitement assurée et il suffit de lire le titre de la pièce pour le comprendre : *Les Dames vangées ou la Dupe de soy-mesme*. Mais en plus de cette publicité inhérente au contexte culturel, le *Mercure Galant* se chargea aussi de faire parler de la pièce et d'attiser la curiosité du public parisien. Ainsi, le journal annonça deux mois avant la première représentation de la pièce, en décembre 1694 [15] : « On prétend que tout est nouveau dans cette Piéce, ce qui est rare aujourd'huy ». Et la *Gazette d'Amsterdam* de renchérir le 17 février 1695 :
 
@@ -170,50 +170,50 @@ J'ay esté détrompé par là de la mauvaise opinion qu'on m'avoit voulu donner 
 Même si les opinions et les volontés du public évoluent à la fin du siècle, il ne faut pas que le dramaturge s'abaisse à un comique trop bas ; l'esprit doit toujours faire partie du rire. Nous ne savons pas à quel moment exactement De Visé changea ce cinquième acte, mais il dut le réécrire assez rapidement, sur la lancée du succès initial.
 
 
-# L'analyse dramaturgique de la pièce
+# L'analyse dramaturgique de la pièce.
 
 
-## Résumé
+## Résumé.
 
 
-### Acte I
+### Acte I.
 
 À Paris, Silvanire et Marton discutent de leur banquier M. Polidor, qui sert leurs affaires et traite avec le riche frère de Silvanire à La Rochelle, l'Oncle Richard (sc.1). M. Polidor arrive et annonce à Silvanire que son frère est gravement malade et qu'il est possible qu'il meure rapidement. Malheureusement, M. Richard est en pleine aversion contre le fils de Silvanire, Lisandre, un garçon inconstant en amour qui dilapide sans cesse sa richesse. Si celui-ci ne se réconcilie pas rapidement avec M. Richard, il risque de ne pas toucher l'héritage de son oncle (sc.2). Silvanire charge donc Marton de veiller à ce que Lisandre adopte un autre comportement envers son oncle et se marie. Puis les deux femmes discutent de la venue de la famille d'Alcippe, futur époux d'Henriette, sœur de Lisandre : la mère d'Alcippe se nomme Orasie et est une femme infatuée de noblesse, qui souhaite voir sa fille Hortense entrer dans un couvent pour que son fils récupère l'argent de sa sœur et devienne un homme riche (sc.3). Lisandre arrive et se lamente auprès de Marton (sc.4), puis de Pasquin, du nombre de femmes dont il conquiert le cœur trop facilement (sc.5-6). Marton dit à Pasquin qu'elle souhaite marier son maître, et le valet lui apprend alors que Lisandre s'est épris d'une femme dont il a le portrait, mais dont il ne connaît pas l'identité ; seule cette femme pourrait le faire changer de comportement (sc.7). Henriette arrive et informe les valets de la venue d'Orasie et d'Hortense ; elle souhaite que Lisandre assiste à leur venue, et se félicite du mariage qu'elle est prête à conclure avec Alcippe (sc.8-9).
 
 
-### Acte II
+### Acte II.
 
 Lisandre refuse d'assister à l'arrivée de la famille d'Alcippe, des provinciaux qu'il qualifie de « campagnards » ; mais il est trop tard pour qu'il parte, car la belle-famille d'Henriette arrive déjà (sc.1-2-3). Alors qu'Orasie explique à Silvanire que sa famille est d'une noblesse sans pareille, Lisandre fait connaissance d'Hortense, en laquelle il reconnaît la femme du portrait dont il s'est épris (sc.4). Il essaie de lui parler, mais ses tentatives restent décevantes (sc.5-6), et, chose surprenante, il prend auprès de Pasquin la défense d'Hortense. Au cours d'un échange mouvementé, Pasquin le provoque afin de connaître la raison de ce brutal changement de comportement. Lisandre lui annonce alors que Hortense est la femme du portrait qu'il avait acquis (sc.7). Pasquin rapporte immédiatement les faits à Marton (sc.8-9). Celle-ci va trouver Lisandre et lui dit qu'il a peu de chance de conquérir Hortense, puisque celle-ci doit entrer au couvent (sc.10-11). Lisandre est désespéré.
 
 
-### Acte III
+### Acte III.
 
 Alcippe apprend à Henriette que Lisandre aime Hortense et que celle-ci n'est pas insensible à ses discours flatteurs (sc.1). Comme Orasie demande à sa fille de justifier son étrange comportement depuis leur arrivée à Paris, Hortense met en avant la tristesse qu'elle ressent à l'idée de devoir quitter sa mère en entrant en couvent (sc.2-3) ; elle se confie par la suite à Lisette et avoue qu'elle est sensible aux avances de Lisandre, mais qu'elle ne doit en aucun cas laisser paraître ses sentiments devant lui (sc.4). Lisandre arrive, mais l'indifférence de sa bien-aimée face aux compliments qu'il lui fait le laisse de glace (sc.5). Il va alors chercher du réconfort auprès de ses deux adjuvants, Marton et Pasquin, qui décident de prendre l'affaire en main et de trouver des subterfuges pour que le mariage des deux jeunes gens puisse être conclu (sc.6-7). Dans un monologue qui termine l'acte, Pasquin met en avant les intérêts financiers qu'il trouve à voir son maître épouser Hortense (sc.8).
 
 
-### Acte IV
+### Acte IV.
 
 Orasie, furieuse d'apprendre par son fils que Lisandre aime Hortense, et qu'il s'agit peut-être d'un amour partagé (sc.1), annonce à sa fille que celle-ci va entrer le jour même au couvent ; Hortense est désespérée (sc.2-3). Marton apprend à Silvanire que son fils voudrait épouser une jeune fille, mais ne lui révèle pas le nom de celle-ci (sc.4) ; Silvanire, plus qu'heureuse, annonce immédiatement à Orasie qu'elle va marier son fils ; cela donne lieu à une scène de quiproquo entre les deux femmes, puisque Orasie sait que Lisandre aime Hortense, alors que Silvanire ne connaît pas le nom de la bien-aimée de son fils (sc.5-6). Les deux femmes essaient de raisonner Lisandre, mais en vain (sc.7). Ce dernier renouvelle auprès d'Hortense ses discours flatteurs ; la jeune fille finit par lui avouer son amour (sc.8-9). Lisandre se hâte de relater les faits à Marton, qui envisage alors la situation d'un meilleur œil (sc.10). De son côté, Pasquin travaille pour rendre Lisandre riche (sc.11-12). Suite à un entretien avec Lisette, le valet apprend que si Lisandre avait plus de biens, cela faciliterait l'amour des deux jeunes maîtres (sc.13-14).
 
 
-### Acte V
+### Acte V.
 
 Désespérée, Hortense ne réussit pas à fuir Lisandre (sc.1-2). Orasie les surprend, Hortense ment pour défendre Lisandre, mais sa mère lit à haute voix une lettre d'amour que Lisandre a écrite le matin même à l'une de ses conquêtes pour lui dire qu'il ne pourrait pas la voir, suite à la venue de « campagnards ». Écoeurée, Hortense part, Lisandre est pris à son propre piège (sc.3). Orasie, très soucieuse de la situation financière de sa belle-famille, discute avec Marton. Alors que celle-ci vante la richesse de l'Oncle Richard (sc.4-5), M. Polidor arrive en annonçant que Lisandre et Henriette sont les deux personnes les plus riches de France car ils sont les héritiers de la fortune de M. Polidor, décédé sans avoir fait de testament (sc.6-7). Orasie et Silvanire acceptent alors le mariage de Lisandre et d'Hortense (sc.8). Mais un coup de théâtre se produit : Pasquin et Lisette accourent et expliquent que Hortense est déjà rentrée au couvent. Comme Orasie refuse de la faire sortir, les dames sont vengées, Lisandre n'a pas obtenu le couronnement de ses vœux, il n'épousera jamais la belle Hortense (sc.9-10).
 
 
-## L'analyse de l'action
+## L'analyse de l'action.
 
 L'action des *Dames vangées* est constituée d'un seul fil. Une intrigue accessoire et parallèle apparaît dès le début de la pièce, à savoir celle de l'Oncle Richard, mais elle n'a que peu d'incidence sur le reste de la pièce. De plus, les rapports entre les personnages sont très rapidement explicités, et même s'il y a plusieurs obstacles qui constituent le nœud de la pièce, ceux-ci sont élaborés de manière claire et logique.
 
 
-### Les prémices de l'action : l'exposition
+### Les prémices de l'action : l'exposition.
 
 L'exposition est ici discontinue : M. Polidor explique dans un premier temps qu'il y a un contentieux entre Lisandre et son oncle, dans la deuxième scène du premier acte ; l'exposition commence ainsi par l'intrigue accessoire, qui permet d'amener l'intrigue principale sans trop de brutalité. S'ensuit alors le second temps de l'exposition, qui est celui où Silvanire charge Marton, à la scène 3 du même acte, de faire en sorte que Lisandre change de comportement et se marie. Cette scène est la plus importante pour l'exposition car elle présente tous les personnages de la pièce à travers le dialogue de Silvanire et de Marton, et tous les enjeux de l'intrigue. Le conflit qui apparaîtra plus tard se dessine dans cette scène à travers les propos des deux femmes. À la scène 5, le spectateur a tous les indices en main pour imaginer quelle va être l'intrigue, car Marton explique que la sœur d'Alcippe, Hortense, est prête à donner toute sa fortune à son frère pour le rendre riche, puis entrer au couvent. L'exposition est donc bien discontinue. Nous pouvons par ailleurs noter que certains des éléments de l'exposition correspondent tout à fait avec des éléments déclencheurs du dénouement : par exemple, à la scène 8 de l'acte I, Henriette dénonce toutes les lettres que Lisandre écrit aux femmes qu'il trompe presque ouvertement, lettres banales et remplies de mensonges. Or, c'est parce que Orasie lit, à l'acte V, la lettre que Lisandre avait écrite à Bélise pour lui expliquer qu'il ne la verrait pas, qu'il perd toute crédibilité auprès d'Hortense et que celle-ci entre au couvent.
 
 L'exposition est très bien construite, et elle répond à toutes les attentes de l'exposition traditionnelle. En effet, elle est entière, car elle introduit, physiquement sur scène, ou à travers les dialogues, tous les personnages, et les futurs problèmes sont évoqués : dès la scène 2, M. Polidor parle du contentieux qui oppose l'Oncle Richard à Lisandre ; la scène suivante présente tous les personnages, les relations qu'ils entretiennent et les enjeux qui reposent sur le personnage de Lisandre. Même si certains personnages n'arrivent qu'au début de l'acte II, comme par exemple Hortense, héroïne de la pièce, ils sont cités dès le premier acte ; les problèmes et les enjeux sont posés rapidement et de façon explicite. De même, l'exposition est assez courte, bien que discontinue, et est tout à fait claire. Enfin, elle correspond tout à fait aux principes de vraisemblance et d'intérêt de l'époque : la pièce débute par une question que Silvanire pose à Marton, il s'agit donc d'événements que Silvanire ne connaît pas. L'intérêt du spectateur est immédiatement suscité, il découvre en même temps que Silvanire ce que Marton explique, et il attend avec impatience le moment où Lisandre arrivera sur scène.
 
 
-### Le nœud et les obstacles : une intrigue simple
+### Le nœud et les obstacles : une intrigue simple.
 
 Pour définir le nœud et le différencier des obstacles, J. Scherer évoque [21] un extrait du manuscrit 559 : l'on « doit entendre par nœud les événements particuliers qui, en mêlant et en changeant les intérêts et les passions, prolongent l'action et éloignent l'événement principal » [22]. Dans la pièce, le nœud est créé lorsque Lisandre rencontre Hortense, à la scène 4 de l'acte II, et qu'il reconnaît en elle la femme dont il a le portrait et dont il s'est épris sans connaître l'identité de la jeune femme. En quelques secondes, Lisandre, qui n'a jamais aimé, se rend compte qu'il aime Hortense. Mais cette dernière lui montre immédiatement de l'indifférence et le rejette. Dès lors la situation se complique, l'intrigue s'est constituée : comment Lisandre peut-il faire pour se faire aimer d'Hortense, et comment lui prouver qu'il l'aime véritablement ? Plus loin se pose le problème évoqué dès le premier acte : comment Lisandre peut-il épouser Hortense, si celle-ci se met à l'aimer, alors qu'il n'a plus aucun bien ? Nous sommes donc face à une intrigue simple pour une comédie, l'enjeu est immédiatement visible et la situation sentimentale ne présente pas non plus de complexité. Nous retrouvons ici un schéma classique des comédies : au début de la pièce, Lisandre aime Hortense, mais n'est pas aimé d'elle. Au cours de la pièce, les sentiments changent : Lisandre aime Hortense et cet amour devient réciproque. Mais les obstacles sont nombreux pour s'opposer à cet amour ; de quel type sont-ils et comment sont-ils répartis tout au long de la pièce ?
 
@@ -229,7 +229,7 @@ Dans ce petit monologue, Lisandre cite en se plaignant tous les obstacles qu'il 
 Pour *Les Dames vangées*, ce dénouement malheureux confère à la pièce tout son intérêt.
 
 
-### Un dénouement original : une comédie irrégulière
+### Un dénouement original : une comédie irrégulière.
 
 À l'âge classique, le dénouement traditionnel d'une comédie se solde par un mariage, celui des amants, et même, si possible, par plusieurs mariages. Le dénouement est complet s'il culmine par ces unions, il s'agit alors d'un dénouement heureux, et les spectateurs sont satisfaits de la fin de la pièce : les personnages auxquels ils se sont intéressés ont obtenu ce qu'ils souhaitaient et une sorte d'harmonie s'impose. Le dénouement des *Dames vangées* est atypique, inhabituel, et presque en totale opposition avec les règles classiques de ce point de vue : il ne se solde pas par le mariage de nos deux héros, Lisandre et Hortense. Le dénouement de notre pièce est très important, à l'instar de celui de *La Place Royale*. Il s'agit d'un dénouement malheureux, puisque, au moment où Lisandre, devenu riche, pourrait épouser Hortense, ayant même gagné le consentement d'Orasie, on apprend que Hortense, malheureuse et déçue du comportement de Lisandre, est entrée dans un couvent dont elle ne sortira plus, tout comme Angélique, l'héroïne de *La Place Royale*. Etudions la façon dont l'auteur a construit son dénouement, et l'a amené à sa fin.
 
@@ -238,25 +238,25 @@ Jacques Scherer [25] explique que « le dénouement doit être … nécessaire,
 La pièce aurait pu bien sûr pu se clore par le mariage des deux amants mais cela n'aurait-il pas été en contradiction avec le titre de la pièce, titre explicite annonçant le projet même de l'auteur ? Si le dénouement des *Dames vangées* est original, il s'inscrit dans la thématique principale de la pièce, à savoir la vengeance des femmes sur l'homme. Cette idée de vengeance est présente dès le début de la pièce et elle est reprise plus de cinq fois dans les deux dernières scènes de l'acte V. Nous pouvons donc penser que De Visé a élaboré une construction à rebours : s'il a imaginé la fin avant le début de la pièce, en ayant juste un sujet en tête, il fallait à tout prix que Lisandre soit un libertin qui connaisse des sentiments amoureux avant de se voir puni. Le nœud des *Dames vangées* n'est pas la séparation des amants, il n'y a pas de désunion d'Hortense et de Lisandre ; or, lorsqu'il y a désunion, c'est pour qu'il y ait par la suite une « réunion » des amants, et donc que la pièce se solde par un mariage. De Visé construit son intrigue à partir du dénouement : il n'est pas question de mariage de Lisandre à la fin de la pièce, il était donc logique qu'il n'y en ait pas au début. Le spectateur pouvait donc s'attendre à une telle fin, le dénouement ne pouvait être autre que celui-ci. Ce dénouement atypique se juxtapose donc à une forte tendance moralisatrice, renforcée par la présence de la maxime que prononce Marton à la fin de la pièce. De plus, comme nous l'expliquerons par la suite, la pièce ne démontre à aucun moment l'excellence et la vertu des femmes : seule Hortense est vertueuse, et ce n'était donc qu'elle qui pouvait venger les femmes par son entrée au couvent. Le dénouement malheureux est donc logique et pleinement en accord avec la thématique de la pièce.
 
 
-## La structure externe : les unités
+## La structure externe : les unités.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 Pour l'unité de temps, il y a peu d'indications temporelles [26] dans la pièce : dans la scène 5 de l'acte I, Marton dit à Lisandre : « Il faut que vous soyez sorty *bien matin* », ce qui montre que l'action a lieu tôt le matin. Dans la scène 2 de l'acte IV, Orasie dit à Hortense qu'« il faut entrer *tout à l'heure* dans un Convent », et cela signifie qu'Hortense doit entrer le jour même dans un couvent. Plus loin, dans la scène 3 de l'acte V, la lettre que Lisandre avait écrite à sa conquête est lue par Orasie, et cette lettre contient le terme « aujourd'huy », ce qui confirme le fait que l'acte I et l'acte V ont lieu la même journée, puisque Lisandre parlait de la venue de la famille d'Alcippe en employant le terme « aujourd'huy ». Enfin, dans la dernière scène de la pièce, l'expression qu'emploie Lisette, « elle est partie **in promptu**. », montre que Hortense est partie précipitamment, et que l'action se passe alors en fin de journée. Tous les événements ont donc bien lieu la même journée, et la règle de l'unité des vingt-quatre heures est bien respectée, comme dans presque toutes les comédies du XVII*e* siècle.
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 L'unité de lieu est elle aussi parfaitement respectée dans la pièce. L'auteur ne donne qu'une véritable désignation du lieu, lorsqu'il y a la présentation des acteurs : « La scène est à Paris, dans la maison de Silvanire ». Il n'y a aucune précision sur l'endroit même où sont les personnages, mais nous pouvons penser qu'ils sont dans une grande salle principale de la maison, puisqu'il est fait plusieurs fois allusion aux chambres et « cabinets » des uns et des autres. Mais il faut que cette salle soit aussi un lieu de passage, afin de justifier les entrées et sorties de tous les personnages. Si cette salle est un lieu de passage, les amants ne se voient jamais dans l'intimité, et c'est ce que fait remarquer Hortense à plusieurs reprises, lorsqu'elle craint la venue de sa mère. Les didascalies concernant les lieux sont inexistantes à partir du moment où la pièce commence. Seules quelques réflexions des personnages, pour justifier leur sortie de scène, comme Silvanire à la scène 4 de l'acte II, qui invite Orasie à entrer dans sa « chambre », indiquent un changement de lieu, mais qui ne se fait pas sur scène. Les personnages sur scène restent bien tout au long de la pièce au même endroit. Le décor reste donc le même pendant toute la pièce. Par ailleurs, il est fait plusieurs fois allusion à Paris, où les protagonistes se promènent lorsqu'ils ne sont pas sur scène. Leurs promenades nous sont racontées par des récits, comme Lisandre qui va parfois se promener dans le jardin des Tuileries, ou Lisette qui visite les rues de Paris. L'Oncle Richard habite La Rochelle, mais ce n'est qu'une allusion. L'unité de lieu est donc bien respectée.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 Enfin, l'unité d'action est la plus intéressante à étudier ici car elle n'est pas tout à fait respectée. Georges Forestier [27] définit l'unité d'action en ces termes : les faits doivent être « agencés de telle sorte que le déplacement ou la suppression de l'un d'entre eux disloque l'ensemble. ». Dans les *Dames vangées*, il n'y a pas une grande profusion de personnages, mais il n'en reste pas moins possible de déplacer certains événements. Or, en les déplaçant, cela ne change pas catégoriquement le cours de l'histoire : que l'Oncle Richard soit mort et que Lisandre soit devenu le plus riche de France, cela ne change en rien le fait qu'Hortense est entrée au couvent et qu'Orasie ne souhaite pas la voir sortir. De plus, la mort de l'Oncle Richard semble en premier lieu résoudre tous les obstacles, mais elle n'a en définitive aucune conséquence sur le dénouement. L'unité d'action n'est donc pas parfaitement respectée.
 
 
-## Les personnages
+## Les personnages.
 
 La pièce compte dix personnages, parmi lesquels il est possible de considérer la présence de quatre couples : le couple des héros (couple d'amants), Lisandre et Hortense, le couple constitué par les deux mères, Silvanire et Orasie, le deuxième couple d'amants, Alcippe et Henriette, et le couple de valets, Pasquin et Marton. Rappelons tout de même le rôle du personnage de l'Oncle Richard, absent de la scène, mais dont il est question au début et à la fin de la pièce. Les personnages appartiennent à la bourgeoisie. De plus, comme nous allons le voir, les deux héros, Lisandre et Hortense, se partagent de façon assez égale la scène, même si Lisandre est un peu plus présent que Hortense.
 
@@ -277,7 +277,7 @@ Par ailleurs, Hortense est une héroïne traditionnelle, vertueuse et droite. El
 Mais ce qui se dégage aussi du personnage d'Hortense, et qui semble traduire un sentiment propre aux jeunes filles et jeunes gens du XVII*e* siècle, c'est qu'Hortense n'est pas armée pour lutter contre l'opinion et la morale. À plusieurs reprises, elle demande à sa mère s'il est déjà question d'elle dans les salons, car elle craint les rumeurs. Ce comportement semble être la traduction de la peur qu'a l'héroïne d'être enfermée dans une fausse image d'elle-même : Hortense revêt ainsi les traits d'une jeune femme enveloppée de résistances et de principes moraux. C'est pour cette raison que sa décision d'entrer dans un couvent à la fin de la pièce est un sacrifice aussi prompt qu'inattendu. Elle va ainsi jusqu'à émouvoir le spectateur dans le sentiment de honte qui l'étreint dans la scène 1 de l'acte V lorsqu'elle dit : « Mais comme mon cœur s'est échapé malgré moy, il faut que ma raison le rappelle ». Telle la Princesse de Clèves, plus soucieuse de sa réputation que de l'amour du Duc de Nemours, elle préfère se retirer dans un couvent pour ne pas provoquer les médisances des salons. La pièce présente donc à travers le personnage d'Hortense l'originalité d'un théâtre où la personnalité de l'héroïne s'épanouit à la pointe de l'émotion et de la raison.
 
 
-### L'absence de père : le rôle des deux mères dans une  « pièce féminine »
+### L'absence de père : le rôle des deux mères dans une  « pièce féminine ».
 
 Les obstacles qui concernent le héros, comme l'explique Jacques Scherer [32], émanent presque toujours de la volonté d'un roi ou d'un père. Or, dans notre pièce, il n'y a pas de roi, car c'est une comédie, mais il n'y a pas de père non plus. En effet, les décisions concernant Henriette et Hortense, sont celles de leurs mères réciproques, Silvanire et Orasie. Les deux femmes sont veuves et seule Silvanire le dit explicitement à la scène 6 de l'acte IV : « Mon Fils estant fort jeune quand son Pere est mort ». Et pour ce qui concerne Orasie, c'est Hortense qui, parlant de sa mère, évoque un deuil à la scène 4 de l'acte III : « Pour se vanger de moy, elle donneroit tout son bien à mon Frere. Elle feroit pis, Lisette, elle se remarieroit ». L'autorité paternelle est donc léguée aux mères, qui se soucient avant tout, et peut-être un peu trop, de l'argent de leurs familles, souci qui, par moments, les ridiculise complètement. Tout est placé au niveau des intérêts, et non au niveau du bonheur de leurs enfants, si ce n'est du bonheur d'Henriette et d'Alcippe. Ainsi les deux mères jouent parfaitement le rôle de père, un père à la fois autoritaire et gérant les affaires financières de la famille.  Les deux femmes jouent un rôle plus ou moins important dans l'économie générale de la pièce ; Silvanire n'est véritablement présente qu'au début et à la fin des *Dames vangées*. Tout au long de la pièce, elle n'apparaît que peu de fois et ses interventions ne sont pas importantes. Elle ne présente donc qu'un intérêt restreint.
 
@@ -288,7 +288,7 @@ Les obstacles qui concernent le héros, comme l'explique Jacques Scherer [32], �
 L'opposition émane donc du personnage d'Orasie, personnage qui devient de plus en plus antipathique au fur et à mesure du déroulement de la pièce. En effet, cette mère est inhumaine, simplement intéressée par la richesse et la noblesse de sa famille, et c'est à travers ses propos que se déploie souvent l'aspect satirique et comique de la pièce. Le personnage fait rire notamment dans son adoration pour la noblesse de sa famille, à la scène 4 de l'acte II, lorsqu'elle énonce tous les ordres auxquels ses ascendants ont appartenu. De plus, il ne faut pas oublier qu'Orasie est provinciale, et que l'un de ses plus grands soucis est d'acquérir le plus rapidement possible le bon ton parisien. Et si Lisandre la considère comme une « campagnarde », c'est que les personnages provinciaux sont souvent la risée des comédies de mœurs. C'est ce que souligne M.-F. Lochon [33] lorsqu'elle explique que les libertins des comédies ne s'intéressent que peu aux personnages de province, et toujours avec une certaine distance.
 
 
-### Le « couple » des confidents : Marton et Pasquin
+### Le « couple » des confidents : Marton et Pasquin.
 
 Parmi les confidents, Pasquin, Marton et Lisette, seuls Pasquin et Marton présentent un véritable intérêt dramatique et comique pour la pièce. Mentionnons simplement que c'est grâce à ces trois confidents que l'on connaît les sentiments des héros. En effet, la pièce étant dépourvue de véritable monologue, c'est lorsque les héros parlent à leurs confidents respectifs que les spectateurs apprennent ce qu'ils ressentent. Lisette ne sert que de confidente à Hortense, c'est pourquoi nous nous attarderons seulement sur les personnages de Pasquin et Marton. Rappelons tout d'abord ce que disent les Frères Parfaict [34] au sujet des deux confidents :
 
@@ -304,17 +304,17 @@ Par ailleurs, Marton joue aussi le rôle de confident, puisqu'elle se met au ser
 Pour conclure cette étude sur les deux valets de la pièce, nous pouvons reprendre les termes des Frères Parfaict, et dire que nous pourrions « aisément nous passer » de Pasquin et de Marton. En effet, ils n'apportent rien à l'action principale, tout se joue sans eux et ils n'ont à aucun moment un rôle actif. Ils occupent donc une place tout à fait secondaire dans la pièce.
 
 
-### Les personnages secondaires
+### Les personnages secondaires.
 
 Il y a trois personnages secondaires : le couple que forment Alcippe et Henriette, et M. Polidor. Tout d'abord, le couple Alcippe/Henriette ne joue aucun rôle concret. En effet, ces deux personnages sont les frères et sœurs des deux héros, et leur présence permet en fait d'introduire les autres personnages : Alcippe présente ainsi sa mère Orasie et sa sœur Hortense. Les deux amants n'apparaissent que peu sur la scène, et lorsqu'ils apparaissent, c'est souvent pour donner leur avis sur les comportements de Lisandre et d'Hortense. Ils ont bien plus un rôle de « spectateur » qu'un rôle d'acteur : ce sont eux qui commentent la rencontre d'Hortense et de Lisandre et ce sont eux qui informent Orasie de l'amour des deux jeunes gens. On peut donc imaginer qu'ils épiaient, et notamment Alcippe, les deux amants lorsqu'ils parlaient tous les deux. C'est donc à travers leur récit que l'on voit la situation évoluer, puisqu'au début des actes III et IV, ils rendent compte de la situation. Par ailleurs, leur mariage pose bien évidemment le problème de l'argent et appartient à l'intrigue, car si Hortense décide d'épouser Lisandre, elle ne donnera pas tous ses biens à Alcippe, ce qui changerait de configuration le mariage des deux jeunes gens. De plus, c'est grâce à leur mariage que Lisandre rencontre Hortense. Les deux personnages sont aussi avides de biens ; une scène en est la parfaite illustration, la scène 1 de l'acte III, scène dans laquelle les deux amants sont paniqués à l'idée de perdre le bien qui leur a été promis. La pièce ne se termine pas par le mariage de deux héros, mais par le mariage de ces deux personnages secondaires.
 
 Par ailleurs, si M. Polidor est aussi un personnage secondaire, il joue tout de même un certain rôle : en effet, c'est lui qui amène, à travers son récit concernant l'Oncle Richard, Silvanire à confier à Marton sa « mission », et c'est aussi lui qui est porteur, d'une certaine manière, de l'annonce du dénouement : Lisandre devrait se réconcilier avec son oncle pour avoir une part de l'héritage (I, 2), et c'est M. Polidor lui-même qui vient apprendre à la famille de Silvanire que Lisandre est richissime. Et à M. Polidor est évidemment lié un autre personnage, absent de la scène, mais dont on connaît l'importance grâce au banquier : l'Oncle Richard. Ce personnage permet de lancer l'action puisque c'est à cause de lui que Silvanire demande à Marton de marier Lisandre, pour que son fils ait l'héritage de son oncle. L'oncle Richard participe à l'élaboration de l'intrigue, mais il permet aussi un premier dénouement, sorte de *deus ex machina*, en décédant : un premier obstacle est éliminé, l'argent ; en effet, Lisandre est richissime et peut donc épouser Hortense. Le personnage de l'Oncle Richard n'aura aucun impact sur la suite du dénouement.
 
 
-## L'écriture de la comédie : actions, discours et style comiques
+## L'écriture de la comédie : actions, discours et style comiques.
 
 
-### Quelques actions comiques
+### Quelques actions comiques.
 
 La première source de comique dans la pièce provient de l'intrigue même. Nous nous proposons d'étudier rapidement les trois scènes les plus représentatives du genre comique dans la pièce.
 
@@ -430,13 +430,13 @@ Cette déclaration d'amour, dont le style est rapide et saccadé, est assez pres
 La pièce montre donc une très habile composition de la tirade et des discours, dont il ressort une importante vivacité. Fond et forme ne sont jamais dissociés, et tout procédé stylistique peut ainsi être justifié. De Visé offre à son spectateur une variété des discours et des dialogues, qui prépare, ou tout au moins annonce, un genre nouveau à une époque où, même si l'on a déjà remarqué des changements dans le genre comique depuis vingt ou vingt-cinq ans, les auteurs ne sont pas forcément tous habitués à varier leurs procédés stylistiques et leurs modes d'écriture. C'est certainement ce qu'il voulait dire lorsqu'il a écrit dans le *Mercure Galant* en décembre 1694 [42] : « On prétend que tout est nouveau dans cette Piéce, ce qui est rare aujourd'huy ». La richesse du style de la pièce montre la naissance d'un art nouveau qui vise l'éclat à travers son style.
 
 
-# Thématique
+# Thématique.
 
 
-## L'intertextualité
+## L'intertextualité.
 
 
-### Pierre Corneille
+### Pierre Corneille.
 
 Fervent admirateur de Pierre Corneille – admiration renforcée par son amitié avec Thomas Corneille –, De Visé insère dans *Les Dames vangées* certaines actions ou situations analogues à celles de deux pièces cornéliennes, *Le Menteur*, pièce de 1644, où De Visé fait en quelque sorte un « clin d'œil » à Corneille, et *La Place Royale*, pièce de 1633, dans laquelle les similitudes sont assez nombreuses.
 
@@ -480,7 +480,7 @@ Laissez-là ses vertus, peignez-moi ses forfaits. [44]
 Angélique déçue par Doraste, Hortense offensée par Lisandre, ces deux héroïnes se ressemblent et ce sont elles qui sont à la source des dénouements aussi originaux et inhabituels des deux pièces, puisque leur entrée au couvent annule toute possibilité de mariage.
 
 
-### Molière
+### Molière.
 
 L'une des principales caractéristiques de Lisandre, notamment au début de la pièce, est d'être un véritable libertin, un Dom Juan qui ne se lasse pas de séduire et de conquérir toutes les femmes ; Lisandre présente évidemment des caractéristiques semblables à celles de Dom Juan, le héros du *Dom Juan, ou le Festin de Pierre* de Molière, représenté en 1665. En effet, les deux personnages sont volages, inconstants et tous deux souhaitent triompher de la résistance de certaines femmes à vouloir d'eux. Ainsi Dom Juan dit à la scène 2 de l'acte I :
 
@@ -516,7 +516,7 @@ Du côté de la barbe est la toute-puissance. (v.700)
 Le sexe dont il est question est le sexe féminin, et ces deux vers s'inscrivent très bien dans la thématique des *Dames vangées.* L'homme, dans les deux cas, affirme sa supériorité, qu'elle soit réalisée par l'argent, dans le cas des *Dames vangées*, ou par la force, dans le cas de *L'École des Femmes*.
 
 
-## Amour, galanterie et libertinage
+## Amour, galanterie et libertinage.
 
 L'amour est bien entendu un des plus grands thèmes qui parcourent la pièce, puisque l'intrigue se construit sur l'amour que porte Lisandre à Hortense et sur sa conception même de l'amour. De Visé semble vouloir donner ici au spectateur un portrait détaillé de l'amant libertin du XVII*e* siècle, et notamment à travers les propos que tient Lisandre. Ces propos sont assez diversifiés, puisque ses pensées évoluent entre le premier acte et le cinquième.
 
@@ -548,7 +548,7 @@ L'amour n'est donc fait que de feintes et d'apparence, de mensonges et de trompe
 Dès lors, nous pouvons nous poser la question suivante : pourquoi représenter ces feintes et vices galants, si ce n'est pour amuser le public, parce que celui-là même se reconnaît dans ces vices mis au grand jour ? Cette galanterie des plus sournoises serait bien le reflet du mode de vie d'une société frivole. En effet, à l'époque, la multiplication des pièces mettant en scène galants et libertins n'est pas négligeable. La scène française et la scène italienne présentent le jeune homme à la mode comme un très grand inconstant, un véritable libertin ; aimer une femme un jour, la trahir le lendemain, prendre, si ce n'est voler, à l'une pour donner à l'autre, fausses confidences et médisances, telle est la méthode suivie par les jeunes amants qui sont représentés. Comme le souligne Marie-Françoise Lochon [48], « les dramaturges de l'époque peignent avec une indulgence amusée la déchéance du sentiment amoureux au sein d'une société qui se désintègre dans un remue-ménage d'immoralité ». Même si la pièce présente un dénouement moral et que son personnage principal se métamorphose de Dom Juan en amoureux transi, elle ne donne en aucun cas une vision positive de l'amour. Il est alors possible de s'interroger sur la sympathie presque paradoxale que les spectateurs éprouvent pour Lisandre : alors qu'il méprise les femmes, ce libertin n'apparaît jamais comme méprisable aux yeux des spectateurs. En effet, ses propos présentent soit une part de vérité, lorsque Lisandre décrit tous les artifices des femmes par exemple, soit un caractère comique et humoristique qui devient peu à peu irrésistible ; ces deux aspects reviennent régulièrement et ne peuvent laisser le spectateur de glace, tout simplement parce que le Dom Juan devient l'incarnation de tout un mode de vie qui s'instaure dans une société peu à peu décadente, où le libertin s'installe progressivement dans les mœurs. De plus, en 1695, le siècle du sentiment est proche, et le personnage devient héros sensible, attendri et attendrissant. Lisandre est donc un personnage plaisant.
 
 
-## Critique, satire et morale
+## Critique, satire et morale.
 
 Pouvons-nous véritablement parler de satire des femmes dans *Les Dames vangées* et s'il y en a une, comment se traduit-elle ? C'est principalement à travers les deux grandes tirades humoristiques de Lisandre et de Pasquin, respectivement situées dans les scènes 5 et 7 de l'acte I, que se dessine une certaine critique envers les femmes. Cela peut sembler au premier abord paradoxal, puisque le but de l'auteur était de les défendre contre les attaques de Boileau et non de leur porter un jugement défavorable. Dans le premier acte de la pièce, les remarques médisantes de Lisandre et de son valet vont ainsi parfois jusqu'à la satire : on y trouve une peinture ironique et amusante du « beau sexe ». Ainsi, tous les traits satiriques apparaissent dans les discours, et non dans le comportement des personnages féminins de la pièce. Certes le comportement d'Orasie fait rire, mais ce n'est pas à proprement parler une critique, c'est une caricature des provinciaux, qui veulent acquérir le bon ton parisien. Mais n'oublions pas qu'un fond de vérité apparaît dans les discours de Lisandre, si médisants soient-ils : comme nous l'avons déjà souligné, le spectateur ne peut que reconnaître le bien fondé de ses réflexions lorsqu'il énonce avec esprit les artifices féminins. Le titre seul de la pièce défendant le « beau sexe », l'auteur pouvait se permettre de lui porter de temps à autre un jugement humoristique.
 
@@ -559,7 +559,7 @@ Par ailleurs, bien que l'auteur emploie à plusieurs reprises des maximes, des s
 Enfin, lorsqu'un texte ou une pièce présente des éléments satiriques, il en découle presque toujours une morale. Ici, il n'y a pas véritablement de morale formulée, comme dans des fables, mais nous pouvons tout de même noter l'importance de la maxime que prononce Marton, comme derniers mots de la pièce : « Il est dangereux d'offenser le Sexe, l'Amour le vange tost ou tard ». Maxime moralisatrice, elle équivaut véritablement à « on ne badine pas avec l'amour ». La morale est ici inhérente à la pièce et complètement renforcée par le dénouement malheureux : voit-on souvent des comédies ne pas finir par le mariage des deux héros ? G. Reynier [50] explique même que le dénouement malheureux est « une hardiesse que Molière lui-même n'avait pas osé risquer », seul Corneille s'y était prêté. Et la morale est ici présente dès le titre de la pièce. Intéressons-nous rapidement à ce titre : tout le programme de la pièce, l'histoire comme le dénouement, est présent dans les quelques mots : « Les Dames vangées ou la Dupe de soy-mesme ». Le titre fait donc tout d'abord apparaître les deux grands thèmes de la pièce : la vengeance, avec les dames *vangées*, et la tromperie, avec le terme *Dupe*. Les femmes ont dans la pièce une importance supérieure à celle des hommes, qui se traduit déjà par la liste des personnages : il y a six personnages féminins pour seulement quatre personnages masculins. Et en effet, le héros est plongé dans un milieu purement féminin, sans même côtoyer la présence d'un père. *Les Dames vangées ou la Dupe de soy-mesme* propose une étude et une peinture des femmes, et c'est à partir de là que la pièce adopte un aspect de comédie de mœurs. Le titre est bien le reflet de toute la pièce, et il annonce tout le programme de celle-ci. L'aspect moralisateur qui naît du dénouement nous plonge directement dans la comédie larmoyante du siècle suivant, et c'est comme si De Visé avait anticipé ce changement théâtral. En avance sur son temps, il ne pouvait que produire une comédie réussie.
 
 
-## Entre la comédie de mœurs et la comédie larmoyante du XVIII*e* siècle
+## Entre la comédie de mœurs et la comédie larmoyante du XVIII*e* siècle.
 
 La comédie larmoyante apparaît tout d'abord en Angleterre au tout début du XVIII*e* siècle et arrive rapidement en France avec Pierre Claude Nivelle de la Chaussée. La classe moyenne française joue un rôle assez important pour l'évolution du théâtre en France au XVIII*e* siècle : face à la décadence des mœurs, elle affirme un idéal social et moral, ainsi qu'une tendance à un « conservatisme sentimental ». La comédie larmoyante va ainsi ouvrir la voie au théâtre des Lumières ; en effet, elle décrit sans aucune caricature la grande bourgeoisie et la noblesse, tout en enrichissant l'esprit des spectateurs grâce à une morale qui ressort de la pièce, morale presque combative, qui tend à redresser les torts. Et comme l'explique M. Corvin [51], le genre de la comédie larmoyante a tendance à éviter aussi bien le comique vulgaire que les éléments tragiques, que le monde bourgeois ne peut connaître ; c'est pourquoi le langage employé dans les comédies larmoyantes et un langage « très convenu et classique », qui a tendance à se rapprocher du « haut comique » ; c'est ce langage noble qui est à la source de la disparition de la comédie larmoyante, car il tranchait trop avec la modernité des sujets traités.
 
@@ -568,10 +568,10 @@ C'est à partir de cette définition qu'il est tout à fait possible d'émettre 
 *Les Dames vangées, ou La Dupe de soy-mesme* est écrite à la fin du XVII*e* siècle, et nous pouvons dire que J. Donneau de Visé a été un visionnaire assez courageux pour inscrire sa pièce dans une nouvelle thématique qui tranche avec celle de la comédie traditionnelle et qui sera repris par la suite dans diverses comédies, et notamment dans les comédies larmoyantes du XVIII*e* siècle. L'originalité de la pièce réside donc dans le caractère tout à fait nouveau qu'elle présente et dans la morale qu'elle parvient à donner à des spectateurs dont l'envie principale au théâtre était de se divertir.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Description du volume
+## Description du volume.
 
 Nous avons travaillé à partir du texte numérisé de l'édition de 1695, qui se trouve à La BNF et dont les références sont les suivantes : NUMM-73926.
 
@@ -608,7 +608,7 @@ A la fin de la page 76, les Filles font voir, *lisez* les Filles font souvent vo
 Page 89, ligne penultième, &, *lisez* si.
 
 
-## Description de la page de titre
+## Description de la page de titre.
 
 LES DAMES/ VANGEES, / *OU*/ LA DUPE/ DE SOY-MESME. / *COMEDIE*. / VIGNETTE / A PARIS, / Chez MICHEL BRUNET, dans la/ grand'Salle du Palais, au Mercure galant. /filet/ / M. DC. XCV. / *AVEC PRIVILEGE DU ROY*.
 
@@ -647,7 +647,7 @@ THEATRE FRANCOIS, / ou / RECUEIL / des Meilleurs Piéces / de Théâtre, / A Par
 In-12 ; tome VIII, pages 338-502.
 
 
-## Liste des coquilles
+## Liste des coquilles.
 
 Les erreurs que nous avons relevées et corrigées ont été pratiquement toutes corrigées dans l'édition de 1696. Nous renvoyons ici aux pages de l'édition originale, qui apparaissent entre deux barres (/) dans le texte.
 
@@ -732,7 +732,7 @@ Corrections de l'édition de 1737.
 *Les Dames vangées* s'écrit *Les Dames vengées*. Toutes les autres fautes corrigées dans la présente édition sont aussi corrigées dans l'édition de 1737.
 
 
-## Liste des éléments conservés
+## Liste des éléments conservés.
 
 Nous avons conservé un certain nombre d'éléments appartenant à l'édition de 1695, et qui n'ont pas de véritables répercussions sur le texte lui-même :
 
@@ -1457,7 +1457,7 @@ Je vous entens, Madame, & je commence à esperer que rien ne manquera à mon bon
     HENRIETTE.
 Rentrons, Alcippe, ma Mere nous attend.
 
-    MARTON, *seule.*
+    MARTON, *seule.*.
 Rien n'est plus doux & plus fort qu'un jeune amour, ny plus foible qu'une passion qui ne peut plus augmenter. L'Amour ressemble à la Lune ; il diminuë lorsqu'il ne sçauroit plus croistre [79]. Allons observer les Lunaisons [80].
 Fin du premier Acte. 
 
@@ -1531,7 +1531,7 @@ Moy ?
     HENRIETTE.
 Mon Frere n'a d'empressement⁎ que pour ce qui le divertit.
 
-     SILVANIRE. 
+    SILVANIRE. 
 L'alliance que nous allons contracter…
 
     LISANDRE.
@@ -2101,7 +2101,7 @@ LISANDRE, MARTON.
     MARTON.
 Vous voulez plaire, Monsieur, c'est-à-dire que vous avez dessein de tromper.
 
-     LISANDRE. 
+    LISANDRE. 
 Ah, Marton, ma pauvre Marton, ma chere Marton.
 
     MARTON.
@@ -2282,7 +2282,7 @@ Non, Madame, non, & si vous aimez mon repos, vous me mettrez bientost en estat d
     ORASIE.
 Que vous allez estre heureuse, ma Fille, & que j'aye de joye d'apprendre que Paris n'a rien d'assez touchant pour mettre obstacle au bonheur dont vous allez jouïr !
 
-    HORTENSE. 
+    HORTENSE.
 (Soupirant à demi bas.)
 
 Helas !
@@ -2400,7 +2400,7 @@ Pour se vanger de moy, elle donneroit tout son bien à mon Frere. Elle feroit pi
     LISETTE.
 Cela se peut. Quand les Vieilles trouvent un bon pretexte, elles ne manquent jamais de faire le saut ; mais Lisandre vous consoleroit de tout.
 
-     HORTENSE. 
+    HORTENSE. 
 Ouy, Lisandre, bonne ressource. Lisandre a fait une grande bréche à son bien ; il a fort endommagé celuy de ses Amis ; il n'a pas épargné celuy des Marchands ; il n'a rien, que ferions-nous ?
 
     LISETTE.
@@ -2471,7 +2471,7 @@ Adieu, Lisandre, je ne dois plus vous écouter. Allons, Lisette.
     LISETTE.
 Si vous n'allez pas plus viste, vous n'arriverez de long-temps au Convent.
 
-    HORTENSE, *à Lisette.*
+    HORTENSE, *à Lisette.*.
 Quand on ne sçait ce qu'on veut, peut-on sçavoir ce qu'on fait ?
 
     LISANDRE.
@@ -3127,7 +3127,7 @@ Ce discours convient mal au dessein que j'ay formé. Trouvez bon que je vous qui
     LISANDRE.
 Non, Madame, le temps & mon amour me fourniront des moyens pour lever les obstacles qui s'opposent à mon bonheur.
 
-    HORTENSE, *à part.*
+    HORTENSE, *à part.*.
 Que [119] ne dit-il vray ! C'est trop demeurer icy, adieu, Lisandre.
 (Elle fait quelques pas & se retourne.)
 
@@ -3541,7 +3541,7 @@ Quoy, vous avez la hardiesse…
     HORTENSE.
 Les apparences sont contre moy, mais si vous voulez bien m'écouter, je seray bien-tost justifiée. Vous sçavez, Madame, que Lisandre a mon Portrait. Je veux le retirer de ses mains, & je le pressois de me le rendre quand vous nous avez surpris.
 
-    LISANDRE, *à part.*
+    LISANDRE, *à part.*.
 Je n'ay plus sujet de douter de son amour.
 
     HORTENSE, *à Lisandre*.
@@ -3591,7 +3591,7 @@ Je reconnois ses manieres.
 
 Madame…
 
-    ORASIE *lit.*
+    ORASIE *lit.*.
 Je ne vous verray point aujourd'huy, ma chere Enfant. Le mariage de ma Sœur me dérobe tout le temps que je vous avois destiné. Plaignez-moy d'estre obligé de passer la journée avec des Campagnardes. Si vostre amour est aussi fort que le mien, vous devez juger par vous-mesme de l'excez de mon chagrin. Rien ne me plaist, rien ne me divertit quand je ne suis pas auprés de vous, & je compte pour rien tout le reste du monde.
 
     LISANDRE.
@@ -3605,7 +3605,7 @@ Souffrez⁎, Madame, que je me retire, pour n'estre point exposée à voir plus 
 (Elle sort.)
 
 
-    LISANDRE, *à Hortense.*
+    LISANDRE, *à Hortense.*.
 Ah, Madame, arrestez.
 
     ORASIE.
@@ -3649,7 +3649,7 @@ Tous ses Parens sont d'aussi bonne Maison qu'elle.
     ORASIE.
 Et l'Oncle Richard ?
 
-    MARTON, *à part.* 
+    MARTON, *à part.*. 
 J'auray bien de la peine à l'ennoblir.
 
     ORASIE.
@@ -3765,7 +3765,7 @@ Il est mort ?
     M. POLIDOR.
 Ouy, & sans avoir fait de testament, & comme il est riche à millions…
 
-    MARTON, *à Orasie.*
+    MARTON, *à Orasie.*.
 Entendez-vous, Madame ?
 
     M. POLIDOR.
@@ -3777,7 +3777,7 @@ Mais la roture & le commerce de la Famille de Lisandre.
     M. POLIDOR.
 Lisandre n'est roturier que du costé de sa Mere.
 
-     MARTON. 
+    MARTON. 
 La noblesse vient du costé de la barbe [125]. Vous voyez que nous ne sommes pas si roturiers que vous pensiez, & que nous avons des millions. Vous croyez les tenir, mais ils pourroient bien vous échapper. La mort rompt tous les traitez, & je ne sçay si ma Maistresse se voyant tant de bien, loin de consentir au mariage de son Fils, ne voudra point rompre celuy de sa Fille. Cependant il faut faire les deux mariages, & mettre tout son bien dans vostre Famille. Ce sera un beau coup de filet. Monsieur Polidor peut vous servir. Il est de vos Amis, il est galant homme, & je suis seure qu'il voudra bien aussi faire quelque chose pour moy. Me refuserez-vous, Monsieur Polidor ?
 
     M. POLIDOR.
@@ -3789,7 +3789,7 @@ Point de raisonnement. Voulez-vous, ne voulez-vous pas ?
     M. POLIDOR.
 Ça voyons, de quoy s'agit-il ? Il n'y a rien que je ne fasse pour servir Madame.
 
-     MARTON. 
+    MARTON. 
 Il faut que vous nous promettiez, non seulement que vous ne parlerez point du mariage que vous vouliez proposer pour Lisandre, mais que vous ne découvrirez pas mesme la mort de Monsieur Richard, que ma Maistresse n'ait consenti aux deux mariages.
 
     M. POLIDOR.
@@ -3908,7 +3908,7 @@ Ah, Madame ! je ne sçaurois parler. Quel dommage ! Que Paris perd aujourd'huy
     LISANDRE.
 Je sens un trouble incroyable.
 
-     PASQUIN. 
+    PASQUIN. 
 Les Dames sont vangées, Monsieur, les Dames sont vangées. Il n'y a plus d'Hortense pour vous.
 
     LISANDRE.
@@ -3981,7 +3981,7 @@ Signé, AUBOÜYN, Syndic.
 Achevé d'imprimer pour la premiere fois, le 22. Avril 1695.
 
 
-# Glossaire
+# Glossaire.
 
 Ce glossaire a été élaboré à partir des définitions que donnent Furetière, Richelet et l'Académie Française. On y trouvera les termes des *Dames vangées* dont le sens a évolué et a été modifié entre le XVII*e* siècle et nos jours.
 
@@ -3996,28 +3996,28 @@ Nous avons utilisé les abréviations suivantes :
 Les pages auxquelles nous renvoyons sont celles de l'édition originale.Abuser« Signifie aussi, Tromper, séduire » (F)P. 33.Affaire« Se dit des querelles, des combats, des differens, des brouilleries d'amitié » (F)P. 11. Aggreger« Joindre, unir » (F)P. 31.Appeler« Signifie aussi, Désigner une personne ou une chose, par quelque qualité bonne ou mauvaise » (Ac)P. 18.Ascendant« Se dit en morale de l'humeur, de la pente, de l'inclination naturelle qui vous porte à faire quelque chose » (F)P. 173.Bonté« Se dit aussi des simples civilitez » (F)A Monseigneur le Dauphin.Chagrin« Inquietude, Ennui » (F)P. 5, 41. Charme« Se dit figurément des agrémens ; de ce qui nous plaît extraordinairement, qui nous ravit en admiration » (F)P. 48, 53, 74, 76.Chatoüilleux« On dit figurément qu'une affaire est *chatouilleuse*, quand elle est délicate » (F)P. 61. Commerce« Negoce qu'on a fait à dessein de profiter sur les remises, la vente ou l'échange qu'on en fait » (F)P. 2, 9. Relation, mais qui n'est pas toujours amoureuse P. 33.Commodité« Voisinage des lieux, bienséance » (F)P. 8. Compagnie« Nom collectif, qui se dit de plusieurs personnes assemblées en un même lieu » (F)P. 55, 60.Conter« Faire une narration, une claire déduction d'un fait » (F)P. 2, 3.Conversion« En termes du Palais, se dit du changement des actes et des titres » (F)P. 136.Coquin« Terme injurieux qu'on a dit à toutes sortes de petites gens qui menent une vie libertine, friponne, faineante, qui n'ont aucun sentiment d'honnêteté » (F)P. 57.Craindre« Avoir peur » ; « Signifie aussi, S'abstenir, se retenir par respect, par amour, par honneur de faire quelque chose » (F)P. 105. Degré« Escalier » (F)P. 45.Déparler« Cesser de parler. On ne l'employe qu'avec la négative, & on ne le dit que dans l'entretien familier » (F)P. 9.Détremper« Au figuré, signifie une chose de peu de durée » (R)P. 114.Dindonniere« On appelle en style burlesque *Dindonnière*, une Damoiselle de campagne » (Ac)P. 35.Dire rage« Dire la rage de quelcun, c'est en médire, et le déchirer cruellement » (F)P. 16.Donner dans le panneau« On dit aussi, qu'un homme a *donné* dans le panneau ; pour dire, qu'il a été attrapé par quelque finesse, ou par quelque piege qu'on lui a tendu » (F)P. 20.Empressement« Temoignage d'affection, de diligence » (F)P. 42.Entestement« Figurément, signifie, Opiniatreté ; une trop grande attache à une opinion dont on est préoccupé, à une passion dont on est saisi » (F)P. 49, 84.Entester« Préoccuper, prévenir en faveur d'une personne, d'une opinion » (Ac)P. 9.Epithalame« Terme de Poësie. Ce sont des vers faits à l'occasion d'un mariage de quelques personnes illustres, un chant de noces, pour feliciter les époux » (F)P. 96.Esprit« Se dit du sens, du caractere, de l'intelligence d'une chose ; du motif par lesquels on agit » (F)P. 15.Folie« Signifie quelquefois, Imprudence, temerité » (F)P. 103.Fortune« On appelle en terme de galanterie, Bonne *fortune*, les dernières faveurs d'une jolie Dame » (F)P. 12.GalantUn « Ouvrage galant » est un ouvrage « plein d'esprit, & d'amour, en vers, ou en prose » (F)Au Lecteur.Galimatia, ou Galimathia« Discours obscur et embrouillé, où on ne comprend rien ; on le dit aussi des affaires fort embarassées » (F)P. 11.Gendarmer« Se fâcher, se mettre en peine de quelque chose » (F)P. 115.Gouverner« Se dit figurément en Morale, pour dire, Avoir credit sur l'esprit de quelcun » (F)P. 6. Honneste« Un honnête homme est celui qui connoist les bienseances, & qui les sçait pratiquer » (F)P. 70, 113, 114, 134.Hors d'œuvre« Se dit figurément des choses qui ne sont pas dans la place où elles doivent estre » (A)P. 17.Ingenuité« Sincérité, franchise » (F)P. 14.Libéral« Qui donne abondamment, mais avec raison & jugement » (F)P. 140.Mander« Ecrire à quelcun, ou lui envoyer un message pour lui faire sçavoir quelque chose, pour le prier, le charger de faire quelque affaire » (F)P. 5.Maraut« Terme injurieux qui se dit des gueux, des coquins, des belitres, qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés » (F)P. 57, 67.Menterie« Mensonge » (F)P. 31. Mettre au pis« Cela se dit par manière de deffi, & pour montrer à un homme que quelque volonté qu'il ait de nuire, on ne le craint point » (Ac)P. 23.Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)P. 16, 29, 89, 123. Ordinaire« Il se dit aussi du Courier qui part à certains jours précis » (Ac)P. 7.Pelerin ou Pellerin« On appelle figurément Pellerin, un homme fin, adroit, dissimulé » (Ac)P. 26.Plein piedSans rien qui oblige à des efforts, sans difficultéP. 22.Prevenir« Etre le premier à faire la même chose ; gagner les devans » (F)P. 46. Qualité« Proprieté » (F)P. 29. Raisonneuse« Se dit de celle qui fait des difficultez, des repliques, de mauvais raisonnements » (F)P. 111. Remontrance« Un avis, un conseil ; une legere, & honnête correction ; ou un avertissement qu'on fait en général, ou en particulier, pour avertir, ou corriger de quelques defauts » (F)P. 12, 13, 40.Repletion« Ce qui remplit trop quelque partie » (F)P. 63. Resver« Signifie aussi, songer, entretenir ses pensées » (F)P. 111.Ridicule« Sot, impertinent » (F)P. 45.Ruelle« Se dit aussi de l'espace qu'on laisse entre un lit & la muraille » (F)P. 29.« Se dit aussi des alcoves, & en général des lieux parez où les Dames reçoivent leurs visites, soit dans le lit, soit sur des sieges » (F) ; le terme de « salon » n'existait pas encore au XVII*e* siècleP. 97.Salmigondis« Ragoust de plusieurs sortes de viandes reschauffées » (Ac)P. 27.Se gouverner« Avec le pronom personnel, signifie, se comporter » (F)P. 18. Sexe« Absolument parlant, ou le beau sexe, se dit des femmes, & des filles » (F)P. 16, 22, 24, 26, 34, 54, 69, 80, 83, 87, 88, 93, 94, 98, 124, 129, 173, 174.Souffrir« Se dit en un sens moins étendu, en parlant de ce qui deplaît, de ce qui incommode, qui gêne ou qui fait quelque peine aux sens, ou à l'esprit » (F)Au Lecteur.« Signifie aussi, S'accommoder ensemble » (F)P. 110.« Ne pas s'opposer à une chose » (F), permettreP. 53, 90, 102, 150, 154.SupporterP. 65.Sourdement« Secrettement, & sans bruit » (F)P. 155.Superficie« Teinture legere, connoissance legere de quelque art, de quelque science, ou de quelque autre chose » (F)P. 16.Traitant« C'est un nom qu'on donne ... aux gens d'affaire qui prennent les Fermes du Roi, & se chargent du recouvrement des deniers et impositions » (F) Fermiers généraux, les « traitans » étaient donc susceptibles de gagner beaucoup d'argent et de s'enrichir ainsi de manière considérable.P. 98.Vaudeville« Chanson qui court par la ville, dont l'air est facile à chanter, & dont les paroles sont faites ordinairement sur quelque avanture, sur quelque intrigue du temps » (Ac)P. 53.Voiturer« Transporter par des voitures une chose d'un lieu à un autre » (F)P. 2. Volontaire« Libertin qui ne veut s'assujettir à aucune regle, ni dependre de personne, qui ne veut faire que sa volonté » (Ac)P. 35.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Les différentes éditions de la pièce Les Dames vangées, ou la Dupe de soy-mesme
+### Les différentes éditions de la pièce. Les Dames vangées, ou la Dupe de soy-mesme
  Les Dames vangées, ou la Dupe de soy-mesme
 
 
 
-### Autres œuvres de J. Donneau de ViséLa Devineresse ou les Faux Enchantements
+### Autres œuvres de J. Donneau de Visé.La Devineresse ou les Faux Enchantements
 Trois comédies
 Le Mercure Galant
 
 
 
-### Œuvres de l'AntiquitéLa Poétique
+### Œuvres de l'Antiquité.La Poétique
 
 
 
-### Autres ouvrages du XVII*e* siècleSatires Œuvres complètes
+### Autres ouvrages du XVII*e* siècle.Satires Œuvres complètes
 La Place RoyaleŒuvres complètes
 Le MenteurŒuvres complètes
 L'Amour à la Mode
@@ -4030,20 +4030,20 @@ Les PlaideursŒuvres complètes
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages sur la langue et la rhétorique dramatiques
+### Ouvrages sur la langue et la rhétorique dramatiques.
 
 
-#### DictionnairesDictionnaire de l'Académie Française
+#### Dictionnaires.Dictionnaire de l'Académie Française
  Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 , Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane*e**e*
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
 
 
 
-#### OuvragesIntroduction à l'analyse des textes classiques
+#### Ouvrages.Introduction à l'analyse des textes classiques
 Grammaire du français classique
 Le Langage dramatique
 Introduction à la langue du XVII*e* siècle
@@ -4052,12 +4052,12 @@ Lire le Théâtre II
 
 
 
-### BibliographiesBibliographie de la littérature française  du XVII*e* siècle
+### Bibliographies.Bibliographie de la littérature française  du XVII*e* siècle
 Bibliographie der Französichen Litteraturwissenschaft
 
 
 
-### Répertoires et registresA History of French Dramatic Literature in the Seventeenth Century
+### Répertoires et registres.A History of French Dramatic Literature in the Seventeenth Century
 Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV : 1659-1715
 Histoire du théâtre françois
 Dictionnaire des théâtres du XVII*e* siècle
@@ -4067,10 +4067,10 @@ Le Registre de La Grange, 1659-1685
 
 
 
-## Études
+## Études.
 
 
-### Ouvrages sur la littérature, l'esthétique et l'histoire du XVII*e* siècleHistoire de la littérature française du XVII*e* siècle
+### Ouvrages sur la littérature, l'esthétique et l'histoire du XVII*e* siècle.Histoire de la littérature française du XVII*e* siècle
 Morales du grand siècle
 Louis XIV
 Dictionnaire des mythes littéraires
@@ -4082,7 +4082,7 @@ Les Émerveillements de la Raison
 
 
 
-### Études sur le théâtre du XVII*e* siècleIntroduction à Molière et au genre comique en France
+### Études sur le théâtre du XVII*e* siècle.Introduction à Molière et au genre comique en France
 La Comédie de l'âge classique, 1630-1715
 Dictionnaire encyclopédique du Théâtre
 Lire la Comédie
@@ -4105,7 +4105,7 @@ La Comédie
 
 
 
-### Études sur l'auteur et la pièceUn homme de lettres au temps du grand roi : Jean Donneau de Visé, fondateur du Mercure Galant
+### Études sur l'auteur et la pièce.Un homme de lettres au temps du grand roi : Jean Donneau de Visé, fondateur du Mercure Galant
 Donneau de Visé et le Mercure Galant
 
 

@@ -15,7 +15,7 @@ A PARIS, Chez TOUSSAINT QUINET [169], au Palais, Dans la petite salle, sous la m
       master 1 sous la direction de Georges Forestier (2010-2011)
 
 
-# Liste des abréviations
+# Liste des abréviations.
 
 **D.R** : Du Ryer
 
@@ -26,7 +26,7 @@ A PARIS, Chez TOUSSAINT QUINET [169], au Palais, Dans la petite salle, sous la m
 **Ro** : Rotrou Jean (de)
 
 
-# Introduction
+# Introduction.
 
 Je hais ces vains auteurs, dont la muse forcée  
 *M'entretient de ses feux, toujours froide et glacée* ;  
@@ -38,20 +38,20 @@ Dans son *Art poétique*, Boileau s'attaque avec virulence aux petits *faiseurs*
 Parfois discrédités par les théoriciens contemporains et les critiques postérieurs, des dramaturges comme Hardy, Quinault, Boyer, Thomas Corneille, Du Ryer, Mairet, Rotrou, L'Estoille – on ne peut tous les citer – s'illustrant aux cotés des écrivains qui ont marqué l'Histoire, ont eux aussi bâti l'édifice théâtral. Urbain Chevreau est l'un de ces auteurs mineurs dont la vie et la carrière littéraire sont tombées dans l'oubli avec le temps. Pour autant, au XVII*e* siècle, il n'est pas le moins connu. Dès 1637, il tente de s'imposer sur la scène française avec une tragédie en cinq actes, *La Lucresse Romaine*. En dramatisant le célèbre épisode de la légende romaine qui conduisit Tarquin le Superbe à la déchéance de sa royauté et à l'avènement de la République, Chevreau devait s'assurer les grâces du public parisien. Surtout qu'au même moment, Du Ryer proposait lui aussi une *Lucrèce* au théâtre. Deux pièces rivales, deux auteurs, mais un seul *vainqueur*. Au détriment de Chevreau, les contemporains plébisciteront la *Lucrèce* de Du Ryer. C'est donc une première bataille perdue, un premier succès envolé pour Chevreau qui loin de capituler, persévère dans le genre dramatique jusqu'en 1645. Entrer en littérature, percer dans le genre le plus en vogue de l'époque, en bref se faire un Nom, tel était le dessein de Chevreau lorsqu'il poussa les portes du Théâtre français en 1637.
 
 
-# Urbain Chevreau : un homme, une vie, une œuvre
+# Urbain Chevreau : un homme, une vie, une œuvre.
 
 
-## L'épreuve parisienne
+## L'épreuve parisienne.
 
 *Conquérir est notre destin.* [2]  
 
 
-### S'introduire dans le monde des Lettres
+### S'introduire dans le monde des Lettres.
 
 Urbain Chevreau est né à Loudun, le 13 Avril 1620. Gustave Boissière [3] a définitivement levé toutes les ambiguïtés sur sa date de naissance. Issu d'une famille de condition modeste, il fut le fils d'un peintre vitrier Anthoine Chevreau et de Suzanne Rue [4]. Il fit une partie de ses études à Poitiers. Très tôt, il quitta le pays du Loudunais pour la capitale. On ne connait pas la date exacte de son départ mais peut-être, pourrons-nous émettre une hypothèse par la suite. Toujours est-il que lorsqu'il arriva à Paris, il n'avait qu'un seul objectif en tête : se faire un *Nom*. Mais comment se faire connaître dans ce Paris du XVII*e* siècle ? Et comment expliquer le choix de cette ville ? Alain Viala dans *La Naissance de l'écrivain*, nous donne les réponses à ces questions : À cette époque, la littérature était en pleine effervescence. L'essor des académies, lieux de réflexions collectives où s'élaboraient des normes, et des salons, lieux d'échanges et de divertissement, était un « un phénomène national » [5]. Ces nouvelles institutions permettaient, en effet, aux écrivains qui les fréquentaient d'observer les tendances, le goût du public et d'acquérir une certaine renommée. C'est sans doute cet engouement autour des Lettres qui éveilla la vocation de Chevreau. Il entendait tirer parti de cette « véritable vogue » [6]. Toutefois, la fréquentation et l'appartenance à une académie ou à un salon de province n'assurait qu'une faible notoriété aux écrivains. C'est pour cela que bon nombre d'auteurs en quête de gloire, comme Chevreau, tentèrent l'aventure parisienne. Capitale des Lettres, Paris offrait donc la possibilité à ces écrivains provinciaux d'intégrer non seulement un cercle influent mais aussi d'obtenir une certaine notoriété ; supérieure en tous cas à celle acquise en province. Dans quelles circonstances Chevreau s'était-il introduit dans le milieu parisien ? Cela reste en effet obscur, mais les témoignages que nous avons recueillis ici et là nous permettent de tirer quelques conclusions sur la vie littéraire du jeune Loudunais. Qui fréquentait-il ?
 
 
-### L'appartenance à un cercle
+### L'appartenance à un cercle.
 
 Ce que l'on a conservé de la correspondance entre Saint-Amand et Chevreau, atteste qu'il Chevreau était du parti des Malherbiens contre les « extravagants » [7]. Comme dans toutes académies, l'académie des Malherbiens était réservée aux spécialistes et son recrutement se fondait sur les compétences du candidat. Grâce à son humeur enjouée et à son érudition Chevreau pu entrer dans cette société éminente de la capitale fondée par Chapelain, Godeau et Conrart [8].
 
@@ -66,7 +66,7 @@ Mais je treuve encore plus étrange que ceux qui connessent toutes les vertus, e
 Au fil des années, ce jeune Loudunais, réussit à s'implanter dans les milieux les plus réputés de la capitale et fréquentait le beau monde : il semble même qu'il fit partie avec Segrais de l'entourage de Mademoiselle [14]. Il fit la rencontre et devint ami avec Colletet et Saint-Amand et avec ce dernier il entretint une correspondance tout au long de sa vie. D'après Chevreau, ils étaient « presque inséparables [15] ». Pour continuer dans l'anecdote, Chevreau nous dit «  que l'on faisait souvent des pique nique chez le complaisant Colletet » [16]. Ce jeune Loudunais était aussi un proche du duc de la Trémouille qui devint son protecteur et ami.
 
 
-### Le basculement en 1637
+### Le basculement en 1637.
 
 Tout bascule pour Urbain Chevreau en l'année 1637. Comme on a pu le voir, il a réussi à s'introduire et à s'imposer dans le milieu des Lettres. Mais la reconnaissance que lui avaient accordée ses pères ne lui suffisait pas ; il souhaitait désormais s'illustrer sur la scène française. Pourquoi Chevreau avait-il décidé d'écrire des pièces de théâtre ? Gustave Boissière émet l'hypothèse suivante :
 
@@ -80,7 +80,7 @@ Le théâtre est la plus belle des carrières ; c'est là qu'en un jour on obti
 On l'aura donc compris, le théâtre est un moyen pour des jeunes auteurs en quête de gloire, comme Chevreau, de s'émanciper socialement et financièrement (n'oublions pas qu'il est issu d'une famille modeste). De plus, le débat qui s'organise autour du théâtre dans les années 1630 permet à une nouvelle vague d'écrivains – Chevreau en fait partie – de se faire une place sur les scènes françaises.
 
 
-### Décadence et renaissance de la Tragédie : le contexte théâtral 1628-1637
+### Décadence et renaissance de la Tragédie : le contexte théâtral 1628-1637.
 
 En 1628, la tragédie, genre qui repose sur une imitation absolue des Anciens, tombe en disgrâce au profit du genre tragi-comique [20]. Ce nouveau genre à l'esthétique hybride emprunte à la fois des éléments structurels à la tragédie et à la comédie, comme son nom l'indique. Construite sur l'axe du hasard, émancipée du joug de la règle des trois unités (temps/lieu/action) en mettant en scène de nombreux rebondissements, la tragi-comédie s'est imposée très largement sur la scène française. Créer « un genre résolument moderne  [21] », un genre qui révèlerait le génie « de notre pays et le goût de notre langue [22] », tel était le dessein des Modernes qui ont soutenu la tragi-comédie. À cette époque (1627-1630), on recense soixante-neuf tragi-comédies [23] pour cinq tragédies [24]. Très vite, la remise en cause des règles n'est pas au goût de tous. Des voix s'élèvent en faveur des dogmes littéraires : Irréguliers et Réguliers s'opposent. L'enjeu du débat se porte sur la *dispositio* [25]. Chapelain, en régulier reconnu, se positionne en faveur du retour des règles dans sa célèbre lettre à Godeau *sur la règle des vingt-quatre heures.*
 
@@ -104,10 +104,10 @@ Pour Chevreau, le choix était donc clair : la tragi-comédie qui avait atteint
 En une huitaine d'année, Chevreau s'était fait une place sur la scène française. Dès 1644, il change de direction préférant au statut exclusif de « dramaturge » celui de polygraphe. À cet effet, il publie son premier roman *Scanderberg* et un traité de morale [47]. En 1648, il propose un second roman *Hermiogène* [48]. Avec cette nouvelle tentative d'écriture il n'eut pas le succès escompté : On se moquait de son *Hermiogène* dans les salons de La Calprenède [49]. Néanmoins, force est de constater qu'il avait, à Paris, rempli au moins un de ses objectifs. Il n'avait pas triomphé certes, mais il avait acquis une notoriété suffisante pour parfaire sa stratégie d'écrivain dans les cours européennes.
 
 
-## Des cours européennes à Loudun 1652 – 1701 : l'âge d'or de Chevreau
+## Des cours européennes à Loudun 1652 – 1701 : l'âge d'or de Chevreau.
 
 
-### Odyssée littéraire : 1652-1675 [50]
+### Odyssée littéraire : 1652-1675 [50].
 
 Avant de quitter la France, Chevreau fut reçu bachelier et licencié en Droit le 30 Décembre 1647 à l'âge de 34 ans. Comme le soulignent les critiques, cette date tardive peut surprendre surtout qu'il était déjà reconnu pour son érudition. Alors pourquoi attendre 1647 ?
 
@@ -123,7 +123,7 @@ Toujours est-il qu'après avoir obtenu sa licence de droit, Chevreau part pour l
 Ce périple d'une vingtaine d'années, fit de Chevreau un véritable « ambassadeur » des Lettres françaises dans les cours étrangères. Il avait occupé au cours de ses voyages des postes plus éminents les uns que les autres. Il semble que cette séduction, que cette conquête des cours européennes ait *porté ses fruits* lorsqu'il revint en France.
 
 
-### Sa retraite : 1676-1701
+### Sa retraite : 1676-1701.
 
 Son retour en France ne passa pas  inaperçu. Il se vit offrir par Louis XIV le poste de précepteur de Louis-Auguste de Bourbon [61], duc du Maine. En effet, le roi souhaitait le récompenser pour ses loyaux services : la conversion au catholicisme de la princesse Palatine avait été une réussite [62]. En signe de modestie, Chevreau n'accepta pas tout de suite l'offre, prétextant que cette charge était au-dessus de ses qualités. Il prit donc en charge l'éducation du jeune Duc de Maine. Il lui inculqua un savoir variée, riche et solide ; en témoigne Théophile Lavallée «  jamais enfant, n'eut plus de grâces, plus de gentillesse, plus de sages réparties et des sentiments plus nobles que ceux qu'il montrait en toutes occasions ». Néanmoins, Chevreau échoua sur une chose : Il avait essayé en vain, de lui transmettre l'énergie et la décision.
 
@@ -144,13 +144,13 @@ La riche bibliothèque du savant Chevreau, mort à Loudun, sa patrie, en févrie
 Il s'éteignit le 15 Février 1701 à Loudun. D'après Dumoustier de la Fond, sa disparition fut très « regretté de tous les gens de Lettres ». Le journal de Trévoux juge que « La République des lettres vient de faire une perte considérable dans la personne de M. Urbain Chevreau ». Le Mercure Galant reconnaît en lui «  l'un des plus doctes et des plus profonds hommes qui aient paru dans le XVII*e* siècle, quoiqu'il est fécond en grands personnages ».
 
 
-# Présentation de La Lucresse Romaine
+# Présentation de La Lucresse Romaine.
 
 
-## Création et réception de la pièce
+## Création et réception de la pièce.
 
 
-### Création et représentation
+### Création et représentation.
 
 Afin de marquer les esprits, Chevreau devait réussir son entrée en scène. L'histoire de Lucrèce, dame romaine violée par Sexte, fils du tyran Tarquin le Superbe, retint toute son attention. Ce n'était pourtant pas un sujet nouveau. Nicolas Filleul avait déjà donné une *Lucrèce* en 1566 [70]. Cette pièce avait été représentée au Château de Gaillon. Cinquante plus tard, en 1616, Hardy proposait au théâtre *La Lucrèce ou l'Adultère puni* [71]. Selon les frères Parfaict, la pièce ne faisait pas allusion à cette dame romaine « que tout le monde connaît  [72] ». En cette période de renouveau théâtral, il était courant que les dramaturges reprennent des sujets déjà traités au début du siècle pour leur donner une nouvelle couleur, une couleur « classique ». Aussi, le choix de Chevreau semblait pertinent à une époque où la société française mettait sur un piédestal les valeurs d'honneur, d'honnêteté et de chasteté. Au même moment – nous y reviendrons précisément par la suite – Du Ryer donna lui aussi une *Lucrèce* au théâtre.
 
@@ -167,7 +167,7 @@ Les comédiens furent reçus des Habitants avec une grande allégresse, et Monsi
 Cet extrait, comme le souligne Sandrine Blondet, sous-entend que la pièce de Chevreau était déjà créée en 1637 [78]. Cette même année implique deux saisons théâtrales : 1636-1637 et 1637-1638. La *Lucresse* de Chevreau est absente du *Mémoire* de Mahelot, ce qui permet à Sandrine Blondet de situer sa création au plus tôt à la saison 1634-1635. Cette première hypothèse, comme elle l'explique, tombe vite caduque si l'on se réfère aux pièces qui annoncent le renouveau du genre, à savoir *l'Hercule mourant* de Rotrou (HB 1633-1634) et la *Sophonisbe* de Mairet (TM, fin 1634). *La Lucresse Romaine* participe bien au bal de la nouveauté sans pour autant en être l'instigatrice. Par ailleurs, la pièce n'apparaît pas non plus dans les libelles de la Querelle du *Cid*. En mettant en perspective tous ces indices, Sandrine Blondet fixe la création de la pièce entre les saisons 1635-1636/ 1637-1638.
 
 
-### Réception
+### Réception.
 
 Avec cette première pièce, Chevreau ne reçut pas les faveurs tant attendues du public. Et pour cause, la querelle du *Cid*, comme nous l'avons déjà évoqué un peu plus haut, occupait tous les esprits et laissait peu de place aux nouveaux écrivains. Les témoignages que nous avons rassemblés sur la réception de la *Lucresse Romaine* rendent compte d'un succès mitigé. C'est Chevreau lui-même qui nous donne le premier indice sur cette réussite en demi-teinte.
 
@@ -204,7 +204,7 @@ C'est la critique du XVIII*e* siècle qui lui assigne *le coup de grâce.* Fonte
 Voici encore l'histoire de Lucrèce mise au Théâtre par Chevreau, après M. Du Ryer, à peu près de la même façon mais plus mal conduite, et plus mal versifiée. Au reste, le croiroit-t-on ? Dans le titre des Acteurs, Tarquin est appelé Empereur de Rome, c'est pourtant ce fameux Chevreau, Auteur de l'Histoire du Monde, qui a fait cette faute-là.
 
 
-## La rivalité entre deux auteurs
+## La rivalité entre deux auteurs.
 
 Deux dramaturges, Chevreau et Du Ryer, proposaient au même moment une pièce de théâtre sur l'histoire de Lucrèce. Cette situation concurrentielle n'était pas sans importance : au XVII*e* siècle, la rivalité entre deux dramaturges, entre les deux théâtres – Hôtel de Bourgogne et Marais – participait à la création d'une œuvre théâtrale [88]. Le titre permet à chaque écrivain de singulariser sa pièce. Chevreau rajoute l'adjectif « romaine » au titre de Du Ryer. Les opinions semblent diverger quant à ce rajout. Alexandra Licha-Zinck [89] suppose que Chevreau a pu vouloir inscrire davantage sa pièce dans l'histoire romaine ; d'où l'adjectif, alors que Sandrine Blondet parle juste d'un moyen de démarcation. A dire vrai, il est difficile de départager les deux critiques car les deux propositions se complètent. Lequel des deux dramaturges a subi l'influence de l'autre ? Cela reste difficile à déterminer. En effet, nous ne disposons « sur cette influence » d'aucuns témoignages d'époque si ce n'est celui des frères Parfaict au XVIII*e* siècle qui laisserait penser que Chevreau connaissait *La Lucrèce* de Du Ryer avant de s'emparer à son tour de ce sujet :
 
@@ -214,13 +214,13 @@ Voici encore l'histoire de Lucrèce mise au Théâtre par Chevreau, après M. Du
 Lancaster [91] propose une autre analyse : les deux *Lucrèce* auraient été jouées probablement en même temps. Ainsi, il est difficile de déceler l'influence de l'un des dramaturges sur l'autre. Surtout que la comparaison des deux pièces montre que les deux dramaturges ont chacun pris un parti différent. Au reste, bien qu'elles traitent le même sujet, les deux pièces ont une architecture distincte.
 
 
-## Les deux *Lucrèce* face à face
+## Les deux *Lucrèce* face à face.
 
 Le premier point de divergence entre les deux dramaturges réside bien dans leur choix des personnages. Chevreau met en scène la famille des Tarquin au complet (Tarquin le Superbe, sa femme Tullie et Sextus Tarquin leur fils) alors que Du Ryer se focalise uniquement sur le personnage de Sexte Tarquin qu'il renomme dans sa pièce sous le nom de Tarquin. Ce choix est significatif car il détermine l'action.
 
 
 
-### P. DU RYERTarquin : Fils de Tarquin le superbe
+### P. DU RYER.Tarquin : Fils de Tarquin le superbe
 Collatin : Mari de Lucrèce
 Lucrece
 Brute : Ami de Collatin
@@ -235,7 +235,7 @@ La scène est le Chasteau de Collatie.
 
 
 
-### CHEVREAUTARQUIN : Empereur Romain.
+### CHEVREAU.TARQUIN : Empereur Romain.
 COLATIN : Mary de Lucresse.
 SEXTE : Fils de Tarquin.
 MAXIME : Confident de Sexte.
@@ -252,7 +252,7 @@ LUCRETIE : Père de Lucresse.
 L'histoire de Lucrèce suggère des *passages obligés* : Chevreau et Du Ryer ne peuvent faire l'impasse sur le viol et le suicide de l'héroïne car ce sont ces deux épisodes qui fondent le mythe. Comment alors, avec un personnel dramatique différent, les deux auteurs vont-il dramatiser l'histoire de cette dame romaine ? Comment vont-ils parvenir aux épisodes fameux du viol et du suicide de l'héroïne ? Et pour quelles conséquences ?
 
 
-### Acte I
+### Acte I.
 
 La pièce de Chevreau s'ouvre au siège d'Ardée. Tarquin galvanise ses troupes en vue d'un ultime combat contre les Rutules. Après avoir instruit les Romains du moyen d'assujettir cette ville rebelle, il ordonne à Sexte Tarquin d'aller à Colatie pour avertir la reine Tullie du succès des armées romaines. Sexte se résigne à quitter le combat (sc. 1). Très vite, il délaisse ses désirs de gloire et voit dans cette ambassade forcée une occasion de revoir Lucrèce, femme de Colatin, qu'il aime éperdument. Il dévoile son amour criminel à Maxime son confident qui tente en vain de raisonner son maitre (sc. 2). L'acte se clôt sur l'échange entre Colatin et son domestique Misene qui lui donne des nouvelles de Lucrèce. À son tour Colatin renvoie le messager à Colatie pour qu'il rassure sa femme. À ce moment, les trompettes sonnent et annoncent le combat final (sc. 3).
 
@@ -288,7 +288,7 @@ Chez Chevreau ce personnage est presque inexistant. Il apparaît pour la premiè
 Deux conceptions dramatiques autour du couple Sexte-Tarquin/Lucrèce s'opposent. Si dans la pièce de Chevreau, Sexte se ressouvient de son amour pour Lucrèce, chez Du Ryer le prince s'éprend de la jeune femme au début de la pièce. La scène du banquet relaté par Collatin (I, 2, D.R) est l'élément qui confirme la passion de Tarquin pour Lucrèce. L'acte I de Du Ryer met donc plus en relief l'union Lucrèce/Collatin et les prémices de leur désunion que celui de Chevreau.
 
 
-### Acte II
+### Acte II.
 
 Sexte arrive à Colatie et confie à nouveau à Maxime sa violente passion pour Lucrèce (sc.1, Ch.). Celui-ci tente une nouvelle fois de raisonner son maître en lui prouvant que son amour est criminel. Cette deuxième tentative se solde par un échec ; il se retrouve même contraint à participer au stratagème élaboré par Sexte pour séduire Lucrèce. Malgré lui, Maxime devient complice de cet amour interdit. Tullie interrompt cet entretien et permet à Sexte de remplir son rôle d'ambassadeur (sc. 2, Ch). Le prince rassure la reine de la bonne fortune du roi au camp d'Ardée mais Tullie doute de ces informations car elle surprend un secret entretien entre son fils et Maxime. Afin de remplir la première phase du plan, à savoir faire croire à Lucrèce que son mari Colatin a trahi Tarquin au combat et que seul Sexte peut le sauver des griffes du Superbe, Maxime quitte la scène. Après cette sortie, Sexte peut enfin achever son discours sur la réussite romaine. Tullie s'interroge alors sur l'honneur et le pouvoir. Sexte et la reine ne partagent pas les mêmes opinions sur la façon de gouverner un royaume. Lucrèce reçoit Misene à Colatie (sc. 3, Ch). Celui-ci l'informe de la réussite romaine et du retour de Colatin à Colatie le lendemain. Malgré ces bonnes nouvelles, Lucrèce est mélancolique. Misene et Cecilie, la suivante de Lucrèce, incitent leur maîtresse à se préparer pour accueillir Colatin. Manifestant toujours une grande inquiétude, Lucresse se met alors à raconter un songe dans lequel elle se trouvait déshonorée. Dans cet horrible rêve, Lucrèce entendit les paroles de la déesse d'honneur qui l'informait que seule sa mort pouvait réparer sa faute. La jeune femme, empreinte d'un désespoir extrême voit en Maxime, qui vient au devant d'elle, un espoir (sc. 4, Ch). D'emblée Maxime engage la conversation sur la *fausse* trahison de Colatin. Lucrèce pense alors que son mari est mort et associe cette sombre nouvelle au songe qu'elle vient de raconter à ses serviteurs. Ce complice renchérit tout en insistant sur le fait que Colatin n'est pas mort mais qu'il a été fait prisonnier. Alors que tout semble jouer dans l'esprit de Lucrèce pour Colatin, Maxime lui propose une solution. Celle-ci, horrifiée par la situation de Maxime, s'évanouit.
 
@@ -309,7 +309,7 @@ Les deux dramaturges dépeignent l'amour démesuré du prince pour la jeune femm
 Enfin à la scène 4 de l'acte II (D.R) le caractère rusé de Tarquin atteint son paroxysme. Il élabore seul un stratagème afin de ravir Lucrèce à Colatin. Bien que la nature de la stratégie soit différente dans les deux pièces, les deux dramaturges s'accordent à calomnier Colatin et font ainsi de ce personnage la faiblesse de l'héroïne. Chez Chevreau Colatin est accusé d'un crime politique (trahison de Tarquin au combat) et chez Du Ryer Colatin est adultère. Les scènes 5 et 6 de l'acte II (D.R) amorcent les premières phases du plan machiavélique du prince. Tarquin flatte, manipule Collatin et Lucrèce de sorte qu'à la scène 6 la jeune femme court, à son insu, à sa perte en acceptant que son mari quitte Colatie *« Je le rendrois coupable, et lui serois rebelle/ Si je le retenois quand la gloire l'appelle ; »* (D.R, v.627-628). Plus largement, ce sont les deux amoureux qui se perdent mutuellement : le comportement orgueilleux de Collatin suscite la perte de sa femme et malheureusement à la scène 6 comme nous venons de le voir Lucrèce se rend vulnérable. Privée de la protection de son mari, elle offre la possibilité à Tarquin d'agir sans être inquiété. Ce deuxième acte scelle la désunion du couple Lucrèce-Collatin.
 
 
-### Acte III
+### Acte III.
 
 Lucrèce se réveille dans sa chambre en compagnie de Maxime (III, 1, Ch). Le complice de Sexte ne laisse pas une minute de répit à la jeune femme et réattaque dans sa première ruse trahison de Colatin. Bien que Lucrèce n'approuve pas cet acte déloyal, elle ne peut se résigner à blâmer son mari. Maxime désemparé devant cette parole hautement vertueuse enclenche la deuxième phase du plan élaboré à la scène 2 de l'acte I : Sexte, prince et fils du roi Tarquin, est le seul qui puisse sauver Colatin. L'héroïne est face à un dilemme cornélien : Aimer Sexte et sauver Colatin/ Refuser le prince et perdre Colatin. Lucrèce préférant l'honneur, rejette la proposition scandaleuse du confident. Elle aperçoit alors Sexte et l'implore en vain de pardonner son mari (III, 2, Ch). L'héroïne voit dans les paroles du prince l'effet du songe. Elle résiste. Sa défense agace Sexte qui se résout à quitter la scène. Se retrouvant seul avec Maxime, son complice de toujours, il lui figure la dernière phase du plan : Par les paroles ou par la force il obtiendra Lucrèce. Tullie, la mère de Sexte, s'est bien rendue compte que son fils était tourmenté. Elle en fait donc part à sa suivante Melixene (sc. 3, Ch) qui pense que le prince est amoureux de Lucrèce, la plus belle femme de la cour. La reine enjoint à sa confidente d'enquêter sur la nature du mal qui hante son fils pour en avoir le cœur net. La scène se déplace au siège d'Ardée où on retrouve Tarquin le Superbe victorieux des Rutules (sc. 4, Ch). Il décide avec ses soldats de retourner à Rome pour célébrer cette victoire. Colatin, quand à lui, préfère rejoindre Lucrèce à Colatie, comme il l'avait prévu à la scène 3 de l'acte I. Nous voici de retour à Colatie, dans la chambre de Lucrèce (sc. 5, Ch). Sexte s'y est introduit pendant le sommeil de la jeune femme. Il tente « le tout pour le tout » en la charmant par ses douces paroles, en la suppliant même mais Lucrèce reste inflexible. Fou de rage, il la menace : si elle décide de se donner la mort, il tuera un esclave qu'il déposera près de son corps, laissant peser ainsi sur elle le soupçon d'adultère. Sexte, conscient que les paroles, la séduction, les menaces ne persuaderont pas la jeune femme, décide de la conquérir par la force. Il commence à la violer sur scène.
 
@@ -325,7 +325,7 @@ Mais Lucrèce confesse à ses suivantes qu'elle ne croit pas Libane car Collatin
 Le viol chez Du Ryer est donc relégué à l'acte IV. Tous les éléments sont ainsi réunis pour que le drame prenne toute son ampleur. A ce moment, l'action s'accélère.
 
 
-### Acte IV
+### Acte IV.
 
 Lucrèce fait le récit de cette nuit terrible à Misene et Cecilie (sc. 1, Ch). Après cette infamie, après ce viol, l'héroïne souhaite se donner la mort. Cecilie l'en empêche. Lucrèce décide alors d'écrire une lettre à son mari dans laquelle elle lui avoue son déshonneur. Misene, en messager funèbre, portera la missive à son maître. C'est au tour de Maxime et Sexte de se retrouver sur scène pour évoquer le viol (sc. 2, Ch). Maxime déplore l'attitude de son maître. Dans cette scène, le diabolisme de Sexte est exacerbé car il se félicite. Il a triomphé de la vertu et s'il regrette une chose, c'est bien que l'acte ait été aussi furtif. La fin de la scène montre les soubresauts de son repentir. Il souhaite que Tarquin son père et son roi lui pardonne. Misene croise Colatin à la scène 3 (Ch). Ce dernier s'aperçoit dès les premières paroles de son domestique qu'un malheur est survenu pendant son absence. Misene lui transmet alors la lettre de Lucrèce. Après quelques hésitations, Colatin se lance dans la lecture de cette lettre funèbre et y apprend le déshonneur de sa femme. Bien qu'il ne connaisse pas encore le nom de l'agresseur, il jure de venger cet affront. Lucresse réclame en effet vengeance. Face au désespoir de son maître, Misene révèle de nom du suborneur : Sexte est seul responsable de leur infamie. Colatin, fou de rage, réitère son désir de venger Lucresse. Lucrétie, père de Lucrèce, a appris la catastrophe par la rumeur. Avec Colatin ils décident de venger ensemble cet affront avant même de voir Lucrèce (sc. 4, Ch).
 
@@ -334,20 +334,20 @@ Dans l'acte IV de Du Ryer, Lucrèce tente en vain d'échapper à la supercherie 
 Le personnage de Lucrèce prend toute sa force à travers cet acte. Les deux dramaturges donnent chacun un caractère particulier à leurs héroïnes. Que Lucrèce soit clairvoyante (IV, 1, D.R) ou naïve (II, III, Ch) on arrive à la même conclusion : le viol. Après le viol, la Lucrèce de Du Ryer est empreinte du *furor* alors que celle de Chevreau est mélancolique.
 
 
-### Acte V
+### Acte V.
 
 Victorieux du peuple Rutule, Tarquin revient à Rome (sc. 1, Ch). Il entend tirer parti de cet exploit. Tel un *oiseau de mauvais augure*, Brute le rappelle à l'ordre. Sexte va à la rencontre de son père et lui avoue son crime (sc. 2, Ch). Devant la colère grandissante des romains, Tarquin n'a d'autre choix que d'exiler son fils. Sexte regrette la décision de son père mais s'exécute. Tullie et Melixene se retrouve alors sur scène (sc.  3, Ch). C'est l'heure des comptes rendus. Après avoir mené chacune de leur côté une petite enquête sur Sexte, elles comprennent que le prince était amoureux de la chaste Lucrèce. Cependant, elles ne pensaient pas qu'il agirait de la sorte. Le viol est inexcusable. Melixene redoute que cet acte ne déclenche la colère des romains sur toute leur famille. Et elle voyait juste ! Galvanisés par Brute, les Romains déchaînent leur colère sur Tarquin. Le roi est mis au ban de la cité. Les rebelles souhaitent désormais s'en prendre à Tullie pour purger le royaume de la tyrannie. (sc. 4, Ch). Tarquin se retrouve seul sur scène et se lamente de sa condition de roi dépossédé (sc. 5, Ch). Sa chute doit servir d'exemple à tous les autres souverains. Tous ces évènements réjouissent Colatin et Lucrétie. Ils n'ont désormais qu'un seul objectif : tuer Sexte (sc. 6, Ch). Colatin, Lucrétie et Brute retournent à Colatie (scène dernière, Ch). La honte s'empare de Lucresse lorsqu'elle voit son mari et son père. Elle évoque son viol en insistant sur le fait que son corps est souillé mais que son esprit reste pur. Dans un dernier souffle, elle réclame à nouveau vengeance à son mari et se tue. Après la mort de sa femme, Colatin souhaite lui aussi se donner la mort. Lucrétie l'en empêche car il veut qu'il venge sa fille avant de se tuer. Brute soutient les paroles de Lucrétie et réaffirme sa volonté d'éradiquer toute la famille des Tarquin. À son tour Colatin fait le serment de poursuivre Sexte et de le tuer. Il va même plus loin en souhaitant que Rome, mère du tyran, disparaissent.
 
 L'acte V de Du Ryer est beaucoup plus court. Il ne comporte que deux scènes. Comment l'expliquer ? Du Ryer n'a, en effet, à aucun moment fait du *politique* un de ses axes majeurs. On comprend donc que les scènes politiques du dernier acte de Chevreau, c'est-à-dire presque toutes, n'ont pas lieu d'être dans la pièce de Du Ryer. C'est pour cela que Tarquin est totalement absent de l'acte V. Après le viol, il disparaît. Du Ryer articule donc ses dernières scènes uniquement autour du personnage de Lucrèce. Dès qu'ils apprennent la nouvelle, Colatin, le père de Lucrèce et Brute décident d'aller retrouver la jeune femme (sc. 1, D.R). Devant cette assemblée, Lucrèce revient sur son viol. Elle attend que tous jurent de la venger avant de s'infliger le coup fatal. Collatin tente à son tour de se tuer mais Lucrèce l'en dissuade. Elle réclame à nouveau vengeance et meurt de sa blessure. Collatin, considérant qu'il est responsable du déshonneur de sa femme (cf : I, 1, D.R) se lance avec Brute et le père de Lucrèce à la poursuite de Tarquin. Tous souhaitent laver Rome de sa royauté. L'action reste inachevée aussi bien dans la pièce de Du Ryer que dans celle de Chevreau.
 
 
-# Dramaturgie de La Lucresse Romaine
+# Dramaturgie de La Lucresse Romaine.
 
 
-## De la légende à la pièce de théâtre
+## De la légende à la pièce de théâtre.
 
 
-### Les sources antiques
+### Les sources antiques.
 
 Depuis la Renaissance, la tragédie puise sa matière première dans l'Histoire [93] et très secondairement dans la mythologie et la Bible. Les dramaturges de la première moitié du XVII*e* siècle se fondent essentiellement sur les récits d'historiens grecs et latins pour créer leur pièce de théâtre.
 
@@ -371,7 +371,7 @@ La mise au ban du Superbe s'effectue aux scènes 4 et 5 de l'acte V dans la piè
 En ce qui concerne le caractère des personnages, Chevreau emprunte également beaucoup à l'historien. Tous les personnages principaux de *La Lucresse Romaine*, à savoir Tarquin, Sexte, Lucrèce, Colatin, Brute et Lucrétie, ont une couleur latine. C'est bien les paroles d'un orgueilleux, d'un chef de guerre [104] qui brisent le silence à l'acte I, sc. 1. Le Sexte de Tite-Live [105] est comparable à celui de Chevreau. Les deux brûlent d'un amour démesuré pour Lucrèce et sont excités par la beauté et la vertu de la jeune femme : (II, 1, v.323-325). La ruse dont fait preuve le Sexte de Chevreau est également empruntée à Tite-Live. C'est dans les chapitres 53 et 54 [106] de *l'Histoire Romaine* que l'on peut déceler le caractère sournois du prince [107]. Chevreau a donc collectionné ici et là des indices sur Sextus, pour créer à son tour son personnage.
 
 
-#### Les deux sources mineures : Denys d'Halicarnasse et Diodore de Sicile
+#### Les deux sources mineures : Denys d'Halicarnasse et Diodore de Sicile.
 
 Chevreau puise également des éléments dans les œuvres de Denys d'Halicarnasse et de Diodore de Sicile. Ces deux sources apportent, comme les faits empruntés Tite-Live, une consistance au cadre politique de *La Lucresse Romaine*. En effet, elles lui permettent de développer son intrigue et de modeler le personnage du prince, Sexte Tarquin.
 
@@ -390,10 +390,10 @@ Et lui Sextus promit, pour le prix de ses faveurs qu'elle lui accorderait, les d
 Certes le travail des sources historiques est essentiel, mais il ne suffit pas à créer la pièce. En effet, comme nous l'avons déjà évoqué, la période qui vit l'essor de la tragédie met l'accent sur la *dispositio* du poème dramatique. L'inexpérience de Chevreau dans ce domaine l'a certainement conduit à regarder, puiser ici et là pour dramatiser à son tour l'histoire de Lucrèce.
 
 
-### Les modèles contemporains
+### Les modèles contemporains.
 
 
-#### Influence de la *Crisante* de Jean de Rotrou
+#### Influence de la *Crisante* de Jean de Rotrou.
 
 Tout porte à croire que Chevreau s'est inspiré de la *Crisante* de Jean de Rotrou créée en 1635.
 
@@ -459,7 +459,7 @@ Et Chevreau fera dire à Sexte :
 Et si le repentir me rend triste⁎ ou confus, (IV, 2, v.1093)  
 
 
-#### Influence de *La Mariane* de Tristan l'Hermite
+#### Influence de *La Mariane* de Tristan l'Hermite.
 
 Selon Sandrine Blondet, *La Lucresse Romaine* aurait également subi l'influence de *La Mariane* de Tristan L'Hermite [112]. Que ce soit Mariane ou Lucrèce, les deux héroïnes manifestent une exceptionnelle grandeur d'âme et une extrême beauté de corps. Ces hautes qualités suscitent l'envie : les deux jeunes femmes sont victimes du tyran, Sexte pour Lucrèce et Hérode pour Mariane. Toutes deux endurent avec une constance extraordinaire la passion d'un homme qui leur fait horreur. Enfin pour clore cet aperçu général, les deux jeunes femmes sont trompées par les autres personnages. Plus précisément, si l'on entre dans chacun des textes, le personnage de Tarquin rappelle Hérode. En effet, tous deux se vantent de leur magnificence dans le combat. Par ailleurs, la confidente de Mariane pousse sa maitresse à sortir de la mélancolie comme le fait Cecilie avec Lucrèce. Enfin, et c'est le dernier point que nous relèverons pour montrer l'influence de *La Mariane* sur *la Lucresse* de Chevreau, la douleur et le désespoir d'Hérode fait écho à celui de Colatin après la mort de leurs femmes. Tous deux tentent de se donner la mort et maudissent leur patrie. Colatin formule une imprécation contre Rome et Hérode contre Jérusalem : (V, sc. dernière, v. 1565-1580).
 
@@ -472,17 +472,17 @@ Qu'ils flottent dans le sang, qu'ils nagent dans les larmes. (v. 1615-1618 [113
 Le travail des sources, qu'elles soient historiques ou contemporaines de l'auteur, constitue la première phase du processus de création. Chevreau après s'être imprégné des éléments piochés ici et là se lance dans l'écriture de sa tragédie.
 
 
-#### Invention de l'écrivain
+#### Invention de l'écrivain.
 
 Dans sa préface à *La Silvanire* [114], Mairet définit les vertus cardinales du poète. Selon lui, il doit avoir un esprit « hors du commun », « le sens de l'invention », « la vertu de bien inventer » et «  l'adresse d'inventer agréablement, la force de bien imaginer, et surtout l'habileté et l'inclination puissante à la Poésie [115] ». Car compiler et dramatiser sont deux choses distinctes. Le viol de la jeune héroïne constitue la matrice de la pièce. Il y a donc un avant et un après viol. Autour de la dialectique cause/conséquence, Chevreau va inventer des faits et étirer les récits des historiens grecs et latins pour dramatiser l'histoire de Lucrèce. En écrivant sa *Lucresse Romaine*, Chevreau fonde « sa *dispositio* sur la logique narrative  [116] », c'est-à-dire que le début de l'action correspond au début du chapitre 57 de *L'Histoire Romaine* de Tite-Live. La *dispositio* suit « point par point [117] » le récit de l'historien latin. Dans cette logique, le dramaturge réduit et organise sa matière historique [118] pour que le récit de Tite-Live devienne un poème dramatique. Ce principe de composition implique que des éléments soient créés.
 
 
-#### Création de personnages : le confident au service de la dramatisation
+#### Création de personnages : le confident au service de la dramatisation.
 
 Chevreau développe son personnel dramatique pour répondre aux exigences des règles théâtrales mises en place dans les années 1630. Autour des héros gravitent des personnages secondaires, appelés « confidents », entièrement crées par le dramaturge [119]. D'une manière générale, les confidents vouvoient leurs maîtres pour lui montrer leur respect [120].
 
 
-##### Maxime
+##### Maxime.
 
 Pour créer ce personnage, Chevreau a amplifié le récit de Tite-Live. Dans son *Histoire Romaine*, l'historien reste évasif sur le compagnon qui accompagne Sexte à Colatie. Dans la pièce, cet anonyme parce qu'on lui donne un nom, celui de Maxime, devient à personnage à part entière. Maxime est le confident de Sexte Tarquin. Il occupe une place importante [121] dans l'intrigue : il apparaît dans tous les actes et son rôle est multiple.
 
@@ -506,7 +506,7 @@ Dans cette scène on entrevoit les prémices de la culpabilité du héros. Le r�
 La création de ce personnage permet à Chevreau non seulement d'amplifier le récit de Tite-Live en ce qui concerne les caractères de Sexte, de Tarquin et du « compagnon » mais aussi d'inventer le stratagème qui aboutit au viol de Lucresse. Aussi, la création de la scène de repentance de Sexte inscrit le personnage de Tarquin dans la règle de bienséance [125], dogme propre au XVII*e* siècle. En rendant la justice, en exilant Sexte, Tarquin renvoie à l'idée que l'on se fait d'un monarque à cette époque : il s'appuie sur la raison et non sur la passion pour rendre justice (V, 2, v. 1304)
 
 
-##### Cecilie
+##### Cecilie.
 
 Cecilie, la confidente de Lucresse, est un personnage inventé de toute pièce par Chevreau. Ses brèves apparitions sur scène – on ne la voit que deux fois (II, 3 et IV, 1) – sont fondamentales. Elle fait sa première entrée sur scène en même temps que l'héroïne (II, 3). La scène 3 de l'acte II est exclusivement une scène de confidence. À travers Cecilie, comme c'est déjà le cas pour Maxime et Sexte, on découvre le personnage de Lucresse [126]. Cecilie est celle qui écoute et rassure sa maîtresse sur le sort de Colatin, son mari resté au combat. Car c'est une Lucresse extrêmement mélancolique qui apparaît dans cette scène. Dans la deuxième partie de la scène, la confidente comprend que ce n'est pas uniquement la bonne ou mauvaise fortune de Colatin qui trouble sa maîtresse. Elle la pousse donc à s'expliquer sur les véritables raisons de son immense tristesse. En effet, Lucresse interrompt les paroles de sa confidente pour se confesser : Un songe cause son désespoir (II, 3, v. 525-554).
 
@@ -515,7 +515,7 @@ Le rôle que confie Chevreau à Cecilie met en évidence le paradoxe du confiden
 La seconde apparition de cette confidente sur scène révèle à nouveau ses éminentes fonctions (IV, 1). C'est d'abord dans un rôle d'écoute que nous la retrouvons. Lucresse violée par le suborneur Sexte trouve en effet un refuge en la personne de Cecilie. Cette fois, Cecilie n'est plus la confidente effacée que l'on a connue à l'acte II scène 3. Elle devient un obstacle pour sa maîtresse en refusant de la délivrer par la mort de cette infamie. À partir de ce moment, c'est une confidente stratège qui s'offre à nous. Selon elle, Lucresse ne doit pas envisager la mort pour réparer sa faute. Pour la convaincre, Cecilie développe une argumentation en deux temps : d'abord, en s'appuyant sur des « arguments théologiques [127] », elle lui rappelle qu'elle est victime et non criminelle. Puis elle lui suggère d'ébruiter le crime de Sexte pour qu'on la venge. Après réflexions Lucresse s'exécute. Cet échange entre l'héroïne et sa confidente permet de relancer l'action après le viol : ensemble, elles amorcent la phase « conséquence du viol ». Affolée sans doute par le fait que Lucrèce ait choisi de prévenir son mari, Cécilie se rétracte en encourageant désormais sa maîtresse à cacher son viol à Colatin. Mais il est trop tard maintenant pour reculer car en suivant les premiers conseils que lui avait prodigués Cecilie, Lucresse avait envoyé un messager pour avertir Colatin de son malheur. La scène 1 de l'acte IV engendre la scène 3 de ce même acte.
 
 
-##### Melixene
+##### Melixene.
 
 Melixene est la confidente de Tullie, mère de Sexte et femme de Tarquin. La reine est inquiète pour son fils qui depuis son arrivée à Colatie lui semble étrange (III, 2). Elle fait part de ses sentiments à sa confidente Melixene. Cette dernière qui devrait dans la logique du confident rassurer sa maîtresse préfère donner sans ambages son propre point de vue sur le comportement de Sexte. Dès ses premières paroles Melixene semble très lucide sur la situation :
 
@@ -536,7 +536,7 @@ Et qu'enfin son amour le rendroit malheureux. (v. 1361-1362)
 À la place de Melixene c'est donc Tullie et sa *fausse* lucidité qui sont mises en lumière. Ce bref moment permet à la reine de flatter son *ego*. Sans que l'on s'y trompe c'est Melixene qui voit juste. Condamnant l'acte criminel de Sexte, elle pressent un plus grand malheur pour la dynastie des Tarquin : il est possible que le peuple se soulève et destitue cette famille étrusque. Bien évidemment, la reine sûre de sa force ne partage pas cette idée. Finalement Melixene se range derrière les convictions de sa maîtresse. Néanmoins, sa prémonition fournit la matière nécessaire à Chevreau pour enclencher La scène 4 de l'acte V.
 
 
-##### Misene
+##### Misene.
 
 Misene est le dernier personnage secondaire que nous allons présenter. Comme pour élaborer le personnage de Maxime, Chevreau a développé *L'Histoire Romaine* de Tite-Live. Le messager qui prévient Colatin du viol de Lucrèce dans le récit de l'historien latin devient ici Misene. Notre dramaturge ne cantonne pas ce nouveau personnage dans une seule et unique mission de messager entre Lucrèce et Colatin après le viol de cette dernière. Il lui donne en effet, un rôle confident et de messager tout au long de la pièce. Il assure ainsi le lien entre le camp d'Ardée et Colatie. On le découvre pour la première fois à l'acte I scène 3 en compagnie de Colatin. Dans cette scène il détient la fonction exclusive de messager car il transmet des nouvelles de Lucresse à Colatin. Ce dernier le renvoie à son tour à Colatie afin qu'il rassure Lucresse sur la bonne fortune des romains au combat. Cette scène engendre donc sa suite à la scène 3 de l'acte II où Misene arrivé à Colatie réconforte Lucresse. Dans la première partie de la pièce, Misene est un « messager heureux ». Après le viol, il devient un « messager funèbre » : la jeune femme lui donne la lourde tâche de transmettre la nouvelle de son infamie à Colatin (IV, 1). La lettre de Lucresse à son mari est une invention de Chevreau. Tite-live ne fait aucune allusion à cette missive. Il parle juste d'un messager envoyé à Colatin et à Lucrétie, père de Lucresse [129]. Ce choix permet de se focaliser sur le déshonneur du couple. Dans la scène 3 de l'acte IV Misene, qui retrouve Colatin, remplit la mission que Lucresse lui avait confiée. Dès lors, il quitte sa fonction de messager pour celle de confident. Comme à son habitude, Chevreau utilise le confident pour mettre en lumière le héros. Ici c'est Colatin qui se dévoile. On voit un héros désemparé. Misene est alors celui qui écoute et commente les réactions de son maître :
 
@@ -557,7 +557,7 @@ Cet échange entre les deux protagonistes amorce l'acte V : la vengeance des vi
 Les personnages secondaires de la pièce de Chevreau sont en partie les locomotives de l'action. Aussi, grâce à eux on entre dans la psychologie des héros qui pas à pas, au fil des entretiens prennent formes et se révèlent. Quatre confidents pour deux clans bien distincts : Face à face se dresse le clan des victimes et des bourreaux.
 
 
-## Une *dispositio* indifférente aux nouvelles règles
+## Une *dispositio* indifférente aux nouvelles règles.
 
 À la lecture de *La Lucresse Romaine*, on s'aperçoit que la pièce s'approche, sans vraiment les respecter, des règles classiques que les nouveaux auteurs de Tragédie ont adoptées depuis 1634. Que se soit l'unité de lieu, de temps ou d'action, les trois règles majeures de la poétique dite régulière sont bouleversées. En ce sens, l'héritage de la tragi-comédie est manifeste dans la pièce de Chevreau. Car comme le souligne Hélène Baby ce qui définit la tragi-comédie c'est «  le triple éclatement » du temps, du lieu et de l'action [130]. Aussi, le début de la pièce de Chevreau s'apparente à ceux des tragi-comédies. Chevreau décide de faire commencer sa *Lucresse* au siège d'Ardée, alors que si l'on suit les recommandations de d'Aubignac la pièce aurait du commencer au plus près de la catastrophe « *in medias res »*, c'est-à-dire à l'acte II au moment où Sexte arrive à Colatie.
 
@@ -565,7 +565,7 @@ Les personnages secondaires de la pièce de Chevreau sont en partie les locomoti
 Le plus bel artifice est d'ouvrir le théâtre le plus près qu'il est possible de la catastrophe, afin d'employer moins de temps au négoce de la scène, et d'avoir plus de liberté d'étendre les passions et les autres discours qui peuvent plaire [131].
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 La pièce ne se déroule pas dans un seul lieu comme le recommandait Chapelain dans sa célèbre *Lettre*. La totalité de l'acte I se passe au camp d'Ardée. Sexte comme Misene sont envoyés respectivement à Colatie dans les scènes 1 et 3 de l'acte I. Logiquement l'acte II s'ouvre sur leurs arrivées dans ville. La cour de Colatie est l'unique lieu de l'acte II. Néanmoins il semble que l'on puisse au sein de cette cour distinguer deux espaces : les scènes 1 et 2 se situent dans un endroit distinct des scènes 3 et 4. Cette multiplication des lieux persiste à l'acte III et atteint même son paroxysme : on change trois fois de lieu dans ce même acte. Les scènes 1 et 2 se déroulent dans la chambre de Lucresse. On voit successivement l'héroïne en compagnie de Maxime et de Sexte. Tullie et Melixene occupent la scène 3, ce qui signifie que l'on entre dans un autre endroit. On peut donc imaginer que cette scène se déroule dans les appartements de Tullie. À la scène 4 on retrouve Tarquin, Brute et Collatin au camp d'Ardée. Enfin, on retourne à Colatie, dans la chambre de Lucresse pour la dernière scène de l'acte (III, 5). L'acte IV se poursuit sur le site de Colatie. Toutefois, il convient d'apporter une nuance. On pourrait en effet discerner trois espaces : les appartements de Lucresse (IV, 1) / ceux de Sexte (IV, 2) / à proximité de la cour de Colatie (IV, 3 et 4). Enfin, l'acte V ne fait pas exception à l'éclatement des lieux. Hormis la dernière scène qui se situe à la cour de Colatie, les scènes 1 à 6 se déroulent à Rome.
 
@@ -577,7 +577,7 @@ Tullie
 Parfois dans l'entretien⁎ je l'entens soûpirer⁎, (III, 3, v. 750)  
 
 
-### Hypothèses scénographiques
+### Hypothèses scénographiques.
 
 L'éclatement de l'unité de lieu pose une question matérielle : comment représenter autant de lieux sur scène ? Bien que l'on ne dispose d'aucune information sur le décor de *La Lucresse Romaine, Le Mémoire de Mahelot* récemment édité par Pierre Pasquier fournit de précieux renseignements sur la décoration pratiquée à l'Hôtel de Bourgogne dans les années 1630. Àcette époque, comme on a pu déjà l'évoquer, la tragi-comédie domine la scène française. La multiplicité des lieux de l'action favorise un décor multiple et une scénographie « simultanée ». Ce type de décoration « offre au regard du spectateur tous les lieux fonctionnels occupés par l'action représentée sur scène  [133] ». Le décor était découpé en plusieurs compartiments  (chambres [134]). Il pouvait y avoir jusqu'à sept chambres sur scène si l'intrigue le nécessitait. Plus généralement, la scène se divisait en cinq compartiments. Le dispositif à cinq chambres se constituait d'une chambre centrale et de deux chambres côté jardin et côté cour. Pour que les spectateurs puissent apprécier les différentes actions qui se déroulaient dans les chambres latérales, certaines chambres s'ouvraient et se fermaient au cours de la représentation au moyen d'un rideau. Le décor simultané donnait la possibilité aux spectateurs de « voir l'intérieur et l'extérieur des lieux fonctionnels représentés sur scène ». Le dispositif que nous venons de décrire brièvement était en vigueur pour les tragi-comédies. Un autre type de décor était-il en usage pour la tragédie ? L'éclatement du lieu dans *La Lucresse Romaine* révèle que la scénographie de cette pièce correspondait à celle des tragi-comédies représentées au théâtre de l'Hôtel de Bourgogne à cette époque. En effet, trois espaces se distinguent dans la pièce de Chevreau :
  * – Ardée (Acte I et acte III, 4)
@@ -587,7 +587,7 @@ L'éclatement de l'unité de lieu pose une question matérielle : comment repr�
 Sans que l'on connaisse précisément la scénographie de la pièce, nous pouvons émettre quelques hypothèses [135] : ces trois lieux devaient se répartir en cinq chambres. Le siège d'Ardée pouvait se situer coté jardin (lorsque l'on est face à la scène) et Rome coté cour. Les scènes qui se déroulaient au camp Ardée se jouaient toutes en extérieur (I ; III, 4). À Rome les scènes se jouaient à la fois en extérieur (V, 1, 2, 4 et 5) et en intérieur. En effet, cette chambre Rome latérale située sur le coté droit de la scène (quand on est spectateur) devait certainement s'ouvrir à la scène 3 de l'acte V : c'est à l'abri des regards que Tullie et Melixene sont revenues sur la perfidie du prince. Ardée et Rome occupaient donc deux chambres distinctes sur scène. Enfin, le palais de Colatie, lieu où se déroulait majoritairement l'action, occupait les trois chambres restantes (une chambre côté cour et côté jardin et une chambre au fond de la scène) – une salle du palais – les appartements de Tullie (III, 3) – la chambre de Lucresse. La chambre qui représentait « une salle du palais » était un lieu neutre. On pouvait y retrouver tour à tour Lucresse et ses serviteurs (II, 3 ; IV, 1), Lucresse et Maxime (II, 4), Sexte et Maxime (VI, 2). En effet, comme nous pouvons le lire dans *le mémoire de Mahelot*, il était courant qu'une même chambre connaisse « plusieurs actualisations différentes ». La chambre de l'héroïne appelée « Belle chambre » devait se situer au fond et au centre de la scène. Pour améliorer la visibilité on usait de certains artifices : on pouvait mettre des balustrades devant la chambre pour faire croire que l'on jouait à l'intérieur (III, 1, 2 et 5 ; IV, 1 et V, scène dernière). Cette « belle chambre », se refermait au moyen d'un rideau quand l'action le nécessitait. La dernière didascalie de la scène 2 de l'acte III semble confirmer cette hypothèse : *« Icy on tire la tapisserie qui ferme la chambre »*. Le décor que nous avons mis en perspective ci-dessus renvoie aux scènes qui se déroulaient à l'intérieur du palais de Colatie. D'autres scènes se jouaient en extérieur : à l'entrée du palais de Colatie (II, 1 et 2) et à proximité de Colatie (IV, 3 et 4).
 
 
-### L'unité d'action
+### L'unité d'action.
 
 L'intrigue ne commence véritablement qu'à la scène 2 de l'acte I lorsque Sexte dévoile son amour pour la belle Lucresse. Cette scène nous donne à la fois les informations nécessaires pour la suite de la pièce et laisse en suspens des questions qui devront trouver des réponses au fil des actes. En ce sens la scène 2 répond aux exigences de l'exposition. L'acte II que l'on appeler « préparatif du viol de Lucresse » montre des ralentissements dans l'action. La scène 1 de l'acte II rappelle la scène 2 de l'acte I car Chevreau nous représente l'amour impossible de Sexte. Ce n'est qu'à la fin de cette scène que la nouveauté apparaît : le stratagème pour fléchir Lucresse est élaboré. La scène 2 de l'acte II fonctionne exclusivement sur l'aparté. Comme on a pu brièvement l'évoquer l'entretien secret entre Maxime et Sexte en présence de Tullie permet à l'action de progresser. En effet, pendant que la reine se questionne, Sexte enjoint à Maxime d'enclencher la première phase du plan de séduction. Chevreau joue donc sur ces éléments dramaturgiques pour mener l'action. Le récit du songe à la scène 3 de l'acte II retarde à nouveau la progression de l'action. Comme le souligne Alexandra Licha-Zinck, le songe et le débat sur le songe sont des éléments dramaturgiques canoniques des tragédies sur Lucrèce [136]. L'intrigue piétine également au début de l'acte III : Lucresse qui s'est évanouie en présence de Maxime à la dernière scène de l'acte II se retrouve encore à ces cotés à la scène 1 de l'acte III. Le confident lui réexpose la trahison de Colatin. La mise en parallèle de la venue de Colatin, synonyme de victoire sur le peuple Rutules, et du viol de Lucresse permet de redynamiser l'action. Comme nous le fait remarquer Lancaster, l'unité d'action n'est plus assurée à l'acte V :
 
@@ -597,7 +597,7 @@ Je ne suis pas d'accord avec M.Boissière lorsqu'il affirme que l'unité d'actio
 Tarquin se retrouve banni de la cité pour un crime qu'il n'a pas commis. En effet, après avoir pris connaissance du crime de Sexte, le roi applique sa justice. Et soucieux des règles d'honneur, il exile son fils. Alors pourquoi Brute, Colatin et Lucrétie se déchainent sur leur roi ? Surtout qu'au départ Colatin avait fait le serment de se venger sur Sexte. Il n'était pas du tout question du père. Comme le souligne Philippe Bousquet, Chevreau utilise l'arrière plan culturel pour condamner Tarquin [138] car dans la pièce ce roi est exemplaire. Aussi l'émergence de Brutus paraît invraisemblable. Alors que Colatin s'empare le premier de la révolte, Brute sans que l'on sache pourquoi, Brute devient « le porte parole de l'opposition aux Tarquin [139] ». La dernière scène de l'acte, scène qui constitue le dénouement de la pièce, ne rééquilibre mais accentue la dislocation de l'unité d'action. Colatin qui avait juré de venger Lucresse avant de la retrouver, la voit sans avoir eu raison de Sexte. Après le suicide de sa femme, Colatin refait le serment de tuer Sexte. Ainsi la recherche de Sexte semble reléguer au second plan la chute de la royauté [140]. Le dénouement n'achève donc pas complètement la pièce car il ne répond pas toutes les questions [141] : Que va-t-il advenir de Sexte ? Qui va diriger les Romains après la fuite des Tarquin ? En bref, le sort de tous les protagonistes n'est pas scellé.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 Le temps dans la pièce de Chevreau reste assez flou car très peu d'indices temporels définissent les moments de l'action. Il semble cependant que l'intrigue de *La Lucresse Romaine* excède la limite des vingt-quatre heures. La pièce commence probablement le matin au camp d'Ardée. Le vers 281 constitue le premier indicateur de temps : On apprend que Colatin rendra visite à Lucresse le lendemain :
 
@@ -626,14 +626,14 @@ Prévenu par Misène à la scène 3 de l'acte IV du déshonneur de Lucresse, il 
 Finalement, l'intrigue de *La Lucresse Romaine* durerait en tout un jour et demi dépassant quelque peu les limites de la règle des vingt-quatre heures.
 
 
-### Symétries et oppositions
+### Symétries et oppositions.
 
 Comme on a pu brièvement l'entrevoir, Chevreau use de combinaisons similaires pour faire avancer l'intrigue : il ne fait pas qu'entrechoquer les scènes II, 4 et III, 1 par exemple, il les duplique. En effet, le contenu de la scène 1 de l'acte I se retrouve dans la scène 3 du même acte : Tarquin à la scène 1 et Colatin à la scène 3 envoient respectivement Sexte et Misène à Colatie dans le dessein de rassurer leurs femmes. Le contenu n'est pas le seul élément que Chevreau dédouble : deux scènes de confidence se font écho ce qui soutient l'intérêt dramatique : la scène 2 de l'acte I entre Sexte et Maxime et la scène 3 du même acte entre Colatin et Misène. La gémellité des scènes participe entre autres à la construction de deux clans bien distincts. Forcément les scènes 1 et 3 de l'acte I attendent une suite qui révélera encore une fois la composition symétrique de la pièce. Tullie et Lucresse reçoivent chacune leur tour (II, 2 et II, 3) les personnages envoyés par leurs maris respectifs à l'acte I. Enfin, après le viol de Lucresse (III, 5) Sexte et Lucresse au début de l'acte IV font chacun le récit de cette nuit d'épouvante pour l'héroïne, de cette nuit de bonheur pour le héros. Ces doublons permettent de saisir les points de vue des personnages sur la situation qu'ils viennent de vivre. La pièce de Chevreau se construit sur une multitude d'épisode.
 
 La symétrie est un des enjeux de la construction de la pièce. Chevreau joue également sur des effets d'opposition pour structurer *La Lucresse Romaine*. Sans y revenir davantage, la victoire au camp d'Ardée se heurte aux malheurs de Lucresse à Colatie. Aussi, les personnages luttent les uns contre les autres pour exister. Une multitude de conflits balaie la pièce : entre Tullie et Melixene, entre Cecilie et Lucresse, entre Sexte et tous les autres personnages. Le prince est l'archétype du personnage en opposition. Alexandra Licha-Zinck explique que des rôles entièrement négatifs peuvent être considérés comme des éléments de structure [142]. En effet, la démesure de Sexte considérée comme un poncif de la tragédie [143], permet à Chevreau d'inscrire sa pièce dans un schéma de crise, schéma inhérent à la tragédie. Le prince est en désaccord avec la majeure partie des personnages de la pièce car ils font obstacle à l'assouvissement de ses désirs. Dans la tragédie de Chevreau Sexte affronte ses parents. Tarquin l'évince du combat final (I, 1) et le punit d'exil après le viol de Lucresse (V, 2), Tullie ne partage pas ses convictions sur la manière de gouverner un État (II, 2) et ne soutient pas l'acte criminel de son fils. L'opposition avec ses parents est donc politique et morale. Sexte apparaît comme « l'image dégradée [144] » de ses parents. Tullie et Tarquin ne sont pas *ses seuls détracteurs*, même Maxime son confident, son ami fidèle ne peut soutenir ses propos. Enfin, c'est en vain que Lucresse essaie de se défaire de l'amour démesuré de Sexte. Après le viol de l'héroïne Colatin, Lucrétie et Brute entrent en conflit avec le prince. L'opposition des caractères est un des leitmotivs de la pièce.
 
 
-# Lucresse : un exemplum de vertu
+# Lucresse : un exemplum de vertu.
 
 Personnage emblématique de l'histoire romaine, Lucresse et son éminente vertu traversent les siècles. Plus adultère que chaste pour les uns, plus criminelle qu'innocente pour les autres, Lucresse est devenue une véritable héroïne littéraire. Dans son épître à Mme de Coaslin, Chevreau fait cas de ce paradoxe tout en se positionnant en faveur de la jeune romaine.
 
@@ -643,12 +643,12 @@ Toutefois, MADAME, considerez s'il vous plaist, que toutes les personnes qui per
 Lucresse est à la fois celle que l'on admire et celle qui fait horreur [145]. Toutefois, il semble que l'image de Lucresse véhiculée au XVII*e* siècle soit plus positive que négative. En la qualifiant « d'exemple de vertu », Chevreau sort l'héroïne du cadre littéraire pour l'élever au rang de « modèle idéologique [146] ». On retrouve cette même idée dans les dictionnaires d'époque. En effet, si l'on regarde la définition des mots « héroïne », « honneur », « modèle », « pudicité » dans le dictionnaire de Furetière, Lucresse est systématiquement citée en exemple [147]. Cette dame romaine apparaît donc comme une femme hors du commun des mortels. En déclinant les éminentes qualités de l'héroïne, Chevreau lui donne, à travers sa pièce, une couleur classique.
 
 
-## Une héroïne absolue
+## Une héroïne absolue.
 
 Tout au long de la pièce, Lucresse représente un idéal de perfection. C'est en femme vertueuse qu'elle ouvre la pièce, c'est en femme chaste qu'elle termine la tragédie. Même le viol et le suicide ne ternissent pas l'image hautement vertueuse de l'héroïne : ils accentuent même sa force. En l'auréolant de toutes les vertus, Chevreau peint Lucresse à l'égal d'une déesse, de la Sainte. Ainsi, le dramaturge sous entend une relecture chrétienne de l'histoire de Lucresse [148].
 
 
-### Lucresse vue par les autres personnages de la pièce
+### Lucresse vue par les autres personnages de la pièce.
 
 Tous les personnages de la pièce s'accordent sur la vertu de l'héroïne. Lucresse fait l'unanimité au sein des deux clans.
 
@@ -683,7 +683,7 @@ Que la beauté est un bien dangereux ! Que la garde en est difficile ! Et qu'e
 Inhérent à l'histoire de Lucresse, le viol de l'héroïne par le fils de Tarquin brise cette image de pureté.
 
 
-### L'honneur de sa lignée
+### L'honneur de sa lignée.
 
 Décrite comme une femme vertueuse et belle, l'essence de l'héroïne réside surtout dans son amour pour l'honneur. De toutes les vertus c'est le respect de celle-ci qui semble être le plus important à ses yeux. Ses premières paroles à la scène 3 de l'acte II manifestent sa crainte quant à sa perte. En effet, l'oracle funeste que lui a rendu la déesse d'honneur tend à l'entacher. Ce songe ne fera donc que renforcer son désir de garder intact son honneur. Car même dans la calomnie la Lucrèce de Chevreau reste exemplaire. De cette exemplarité naît la dialectique du vice et de la vertu. L'honneur, ce que Sexte par le biais de Maxime va tenter d'ébranler, est donc le maître mot de la conduite de l'héroïne. Face à Maxime qui lui soutient que son mari a trahi l'empire elle continue d'honorer Colatin : elle lui manifeste en effet « une dévotion sans faille [151] ».
 
@@ -713,7 +713,7 @@ D'une amour qui s'entende avecque mon honneur⁎, (v. 713)
 Du coup cet amour démesuré pour l'honneur détruit son aptitude à sauver Colatin. Mais sans que l'on s'y détrompe, en Colatin réside l'honneur de sa couche ce qui annihile la possibilité de faire passer son mari après « l'estime de soi ». L'honneur conjugal, l'honneur de sa lignée et sa vertu féminine sont au même rang : tout forme un bloc.
 
 
-## Une héroïne virile
+## Une héroïne virile.
 
 Le caractère absolu de Lucresse ne ressort pas exclusivement de la description : la vertu qu'elle affiche, soulignée d'ailleurs par tous les autres personnages, n'est pas une vertu d'apparat. C'est une vertu que l'on voit certes, mais c'est aussi une vertu qui la pousse à agir. Le mot est donc à comprendre au sens fort du terme : la *virtus* signifiant le courage, la vaillance, l'énergie masculine [152]. Entre la fin des années 1630 et le début des années 1640, la littérature « exploite le thème de la femme forte [153] ». La femme forte est celle qui associe aux vertus féminines classiques les vertus héroïques masculines [154]. Voici ce que dit Le Moyne à propos de Lucrèce dans sa *Gallerie des femmes fortes* :
 
@@ -723,7 +723,7 @@ Une pudeur courageuse, une Modestie forte et rehaussée. Ce tempérament est cel
 Chevreau inscrit son héroïne dans cette acception. En effet, c'est la verve de Lucrèce qui trahit son caractère modéré.
 
 
-### Un plaidoyer pour sauver son honneur
+### Un plaidoyer pour sauver son honneur.
 
 Poussée par son honneur et sa vertu, l'héroïne affronte Sexte à la scène 5 de l'acte III. Cette scène marque un tournant dans la pièce. En effet, à partir de ce moment le diabolisme de Sexte est démultiplié : il apparaît comme un vil usurpateur. Face à cet antihéros se dresse la chaste Lucrèce. Depuis le début de la pièce la vertu de l'héroïne fonctionnait comme un rempart à la fourberie de Sexte. À la scène 5 l'excès de zèle ne suffit plus. Tel un acte héroïque elle défie par la parole son bourreau. Sa tactique est simple : elle consiste en le rejet de toutes ses avances. Mot après mot, elle déconstruit les arguments de Sexte. Pour parvenir à ses fins, Lucresse essaie tout d'abord de provoquer la pitié du prince :
 
@@ -757,17 +757,17 @@ Voudrois-tu par un crime acheter la vertu⁎ ? (v. 909-922)
 Cette tirade d'une force extrême révèle l'orgueil de Lucresse. Ce dernier sursaut de courage avant qu'elle subisse l'acte abominable vise à dominer Sexte. Pendant ces quelques instants les rapports semblent s'inverser : c'est lui qui est à sa merci. L'héroïne excite la rage de ce prince venimeux en lui expliquant que seul le corps sera souillé mais que l'âme restera intacte. Au fur et à mesure elle dépolitise [156] Sexte : il passe du statut de prince au statut de barbare. À travers cette tirade, Lucresse brouille la hiérarchie et enfreint les lois sociales : elle s'émancipe de la domination masculine.
 
 
-### L'aveu
+### L'aveu.
 
 Le courage de Lucresse s'illustre également après son viol. Chevreau ne remet pas en doute la pureté morale de la jeune femme [157]. D'emblée elle avoue sa faute à ses serviteurs Cecilie et Misene (IV, 1). En effet, Lucresse ne fait pas la distinction entre une culpabilité d'intention et de fait. Selon elle, elle est condamnable au même titre que Sexte. En se dénonçant dès ses premières paroles, elle devance le châtiment des hommes : elle apparaît comme son propre juge. La scène, comme nous l'avons déjà expliqué, met en lumière la décision de l'héroïne : que faire après ce crime ? Faut-il l'avouer ? Faut-il le cacher ? Faut-il se tuer ? À l'évidence son crime doit être puni. Lucresse opte d'abord pour le suicide, mais empêchée par sa confidente, elle abandonne temporairement cette idée. Sans ambages, elle décide alors de confesser son infamie à Colatin, par le biais d'une missive : (IV, 3, v. 1139-1146). La scène 1 de l'acte IV, « scène de l'aveu », renforce le caractère vertueux de l'héroïne.
 
 En tous points, elle est le contrepoint de Sexte. Cette lettre montre encore une fois l'exemplarité de la jeune femme. Alors que Sexte imaginait un triple mensonge pour séduire Lucresse, l'héroïne parce que sa vertu et son honneur le lui imposent ne se cache pas. Son courage, sa force à dépasser les évènements les plus douloureux font de cette dame romaine un personnage exceptionnel [158]. Elle n'accepte pas la lamentation et condamne celle qui pleure (IV, 1). Sa vertu est la source de sa combativité : sa lettre sonne comme le tocsin annonçant la guerre.
 
 
-## Une héroïne libérée et libératrice
+## Une héroïne libérée et libératrice.
 
 
-### Reconquête de la vertu
+### Reconquête de la vertu.
 
 L'héroïsme vertueux de Lucresse culmine à la fin de la tragédie. Souillée par le tyran, elle décide de mettre fin à ses jours pour réparer sa faute. Cecilie s'évertue pourtant à lui rappeler qu'elle est coupable dans les faits mais qu'elle est innocente d'intention (IV, 1). Cette nuance, l'héroïne ne la voit pas. C'est pour cela qu'elle n'attend même pas de se voir venger pour s'infliger le coup fatal : la quête ou plutôt la reconquête de son honneur et de sa vertu est individuelle.
 
@@ -782,7 +782,7 @@ Mais ne crains point la mort que craignent les mortels, (v. 557)
 Dans l'épître à Mme de Coaslin, Chevreau défend le suicide de Lucresse. Si elle était vraiment chaste, pourquoi aurait-elle besoin de s'infliger ce châtiment, comme le fait remarquer Saint-Augustin dans *La Cité de Dieu* ? Cet acte de courage permet à la mémoire de Lucresse de perdurer de façon intacte dans les siècles qui passent. L'immortalité est en effet un des souhaits des héroïnes selon Noémie Hepp dans son article sur « la notion d'héroïne [159] ». Par sa mort, Lucresse se lave de tous soupçons, reconquiert sa vertu et véhicule une image positive pour la postérité (voir annexe 1). C'est dans sa dernière tirade que ce changement *non-vertueuse/vertueuse* apparaît : en trois vers elle se réapproprie la vertu devant son mari Colatin. On passe de «  je ne suis plus Lucresse » (v. 1496, 1500 et 1504) à « Sexte vit en infâme, et je meurs en Lucresse. » (v. 1508). Cette reconquête fait de Lucresse un archétype du stoïcisme chrétien [160]. D'après les travaux Alexandra Licha Zinck le stoïcisme chrétien « s'est réapproprié l'image de la mort comme repos, comme port ou rivage [161] ». Chevreau s'appuie sur ce topos de la recherche de la paix dans la mort pour représenter Lucresse dans ses derniers instants de vie.
 
 
-### La révolte du peuple
+### La révolte du peuple.
 
 L'épisode du viol de Lucrèce permet au peuple de se soulever contre la famille des Tarquin. Il en est l'élément déclencheur. La jeune femme permet donc l'émancipation de ses proches. D'une affaire personnelle et familiale on bascule dans une affaire d'État puisque l'épisode entraine l'avènement de la République [162].
 
@@ -806,12 +806,12 @@ A qui jamais le Ciel ne fut plus rigoureux. (v. 1455-1458)
 Les éminentes vertus de Lucresse sont magnifiées dans la pièce de Chevreau. Vénérée par les autres personnages pour sa beauté et sa vertu, la jeune Romaine incarne également l'énergie masculine. Capable de soulever des foules, elle suscite le respect des générations futures.
 
 
-# La Lucresse Romaine : tragédie de la violence
+# La Lucresse Romaine : tragédie de la violence.
 
 Parce que le sujet s'y prête, la violence [163] constitue un des thèmes majeurs dans la pièce de Chevreau. Elle se décline sous de multiples formes : elle est verbale, physique, organisée, spontanée, privée et d'État.
 
 
-## Sexte, un héros criminel
+## Sexte, un héros criminel.
 
 
 ### Une victime ?
@@ -821,7 +821,7 @@ La criminalité de Sexte n'est plus, en effet, un secret au terme de cette réfl
 Appartenir au clan de Sexte n'assure donc pas la tranquillité. Tullie et Tarquin, les parents de Sexte sont également concernés par la violence de leur fils. C'est une violence indirecte. Les actions de Sexte poussent le couple royal à la perte de leur royauté. Colatin et Lucrétie, personnages de l'autre clan, se heurtent aussi à la violence du prince et encore une fois elle est indirecte. Le père et le mari sont blessés par le spectacle de la mort de Lucresse (IV, 3 et 4). Colatin tente même par deux fois de se donner la mort (v. 1540 et 1542). Enfin la violence suprême du héros s'exerce sur Lucresse, femme et objet de ses désirs. Les victimes s'enchaînent et force est de constater qu'à la fin de la pièce ce bourreau n'est toujours pas inquiété. La démesure est le maître mot de la conduite de Sexte. Une fois que la machine de la violence est lancée, la tragédie montre qu'elle ne peut s'arrêter détruisant tout sur son passage.
 
 
-### Le « paradoxe » Sexte
+### Le « paradoxe » Sexte.
 
 **« ** On dit fréquemment que la violence est irrationnelle. Elle ne manque pourtant pas de trouver des raisons pour se déchaîner, elle sait même en trouver de fort bonnes quand elle a envie de se déchaîner [164] ».
 
@@ -858,7 +858,7 @@ Le témoin de mon crime, et non pas le censeur.
 Enfin pour ne pas accabler le lecteur, c'est pour cela que nous n'en ferons qu'une allusion, le stratagème de séduction constitue au-delà du langage un moyen de rationnaliser la fougue du prince. Sexte mise tout sur ce mensonge pour fléchir Lucresse.
 
 
-### La boulimie sexuelle
+### La boulimie sexuelle.
 
 La violence de son amour, pousse Sexte après quelques fausses hésitations à croquer dans la pomme d'Adam. Le prince est un être déstructuré, démesuré car il ne répond qu'à ses pulsions. En un certain sens c'est un être boulimique. On l'a vu lorsqu'un personnage lui fait obstacle, il va jusqu'à la force pour parvenir à ses fins. Il assujettit Maxime par le chantage et veut tuer son père pour jouir pleinement de la royauté.
 
@@ -875,10 +875,10 @@ Et qu'en continuant vous devenez un traitre, (v. 246-248)
 Inévitablement, Sexte ne trouve pas avant la scène 2 de l'acte IV, les moyens de faire taire sa passion. La pièce progresse dans la violence des paroles, des actes et des gestes.
 
 
-## Violence du geste, violence des actes : la destruction des êtres
+## Violence du geste, violence des actes : la destruction des êtres.
 
 
-### Le viol et le suicide sur scène
+### Le viol et le suicide sur scène.
 
 Jusqu'à présent ce n'étaient que les mots qui véhiculaient la thématique de la violence. Sans y revenir, nous avons vu avec quelle force Lucresse s'adresse à Sexte avant qu'elle ne subisse le viol. Sexte fait preuve également de violence langagière. La violence est à son comble lorsqu'il menace Lucresse.
 
@@ -903,7 +903,7 @@ Lors aussi vous perdrez et l'honneur⁎ et le jour. (v. 923-938)
 Si le langage est impuissant dans la bouche de Lucresse, il devient une arme dans celle de Sexte [165]. Comme le souligne Florence Fix, le langage permet au héros «  de mener à bien son entreprise scélérate, d'exprimer son goût du mal et son orgueil de criminel ». La scène 5 de l'acte III constitue une violation de chair : le corps de Lucresse est profané par le suborneur. Au théâtre, la violence révèle un pacte charnel entre les mots et les images. Plus que les mots, elle favorise les images, celles qui sont représentées clairement sur scène et celles qui se forment dans notre esprit. Au reste, le spectateur averti de l'époque a sans doute en tête les tableaux de Titien sur le viol et le suicide de l'héroïne (voir annexes 2 et 3). Sexte échange son spectre pour le poignard (v. 929-930) et Lucresse troque sa laine pour le couteau (voir didascalie après le vers 1508). La parole et la représentation de la pièce sont des instruments de la violence car ils permettent de blesser non seulement le personnage mais aussi les spectateurs. Le spectacle et la parole sont des supports l'un pour l'autre et l'un par l'autre. Le viol et le suicide de l'héroïne s'inscrivent dans cette dialectique. Dans les deux exemples cités on assiste d'abord à la prédominance des mots sur l'image (III, 5 et V, sc. dernière). Puis la violence atteint son paroxysme dans l'image.
 
 
-#### Le viol
+#### Le viol.
 
 Sexte  
 Nous en viendrons à bout !  
@@ -918,7 +918,7 @@ Cécilie au secours ? Createurs de ces lieus,
 Helas ! si vous m'aimez jettez icy les yeus. (v. 945-950)  
 
 
-#### Le suicide
+#### Le suicide.
 
 Colatin  
 Helas que veux-tu faire ? appaise ta rigueur,  
@@ -931,7 +931,7 @@ Bons Dieux comme la mort commence à la changer ! (v. 1509-1514)
 La vue ou l'imagination d'un corps meurtri produisent un effet de réalité. Les images bien que furtives nous hantent. Très vite, sans doute pour ne pas accabler davantage le spectateur, la parole reprend le monopole. Les deux exemples cités ont donc la même construction : *Langage/Images/Langage*. Les scènes 1 et 2 de l'actes IV témoignent et dépasse le crime tout comme la fin de la dernière scène de l'acte V.
 
 
-### La fin des tyrans : la *damnatio memoriae*
+### La fin des tyrans : la *damnatio memoriae*.
 
 À l'évidence, la violence dont a fait preuve Sexte tout au long de la pièce a contaminé les autres personnages. Le viol de l'héroïne engage la vengeance. La lettre envoyée à Colatin résonne comme une solution de justice irrémédiable : le crime sera vengé dans le sang. Contrairement à la violence de Sexte, celle de Colatin, Brute et Lucrétie semble rationnelle : ils n'ont pas besoin de trouver des subterfuges pour l'exercer. Comment l'expliquer ? Tout réside dans l'art du dramaturge. Comme le souligne Florence Fix « l'un des moyens de s'affranchir de la violence, ou du moins d'en amoindrir les effets dévastateurs et dérangeants, est de l'insérer dans une logique intentionnelle et de lui trouver une continuité dans le temps, c'est-à-dire des causes qui la justifient ou l'expliquent, afin de soulager le spectateur du choc ». Chevreau donne une couleur plus que latine en cette fin de tragédie. Colatin, Lucrétie et Brute apparaissent comme des régicides même si la mort des Tarquin n'est pas attestée dans la pièce. Le bannissement suffit pour qu'on les nomme ainsi. Leur violence ne se cantonne pas en la seule personne du roi, Tullie et Sexte sont bien évidemment visés.
 
@@ -962,10 +962,10 @@ Pour bien s'ensevelir soit son propre tombeau. (v. 1566-1580)
 Cette volonté de purger Rome de ses rois usurpateurs n'est pas s'en rappeler la *damnatio memoriae* à l'époque de la royauté romaine. Les mots agissent comme des armes, le rythme de la tirade de Colatin enivre le spectateur, le style sublime la violence. *La Lucresse Romaine* s'achève sur la destruction des êtres, du pouvoir politique, des mœurs et la liberté des hommes.
 
 
-## Note sur la présente édition
+## Note sur la présente édition.
 
 
-### Éditions utilisées
+### Éditions utilisées.
 
 La présente édition reproduit l'édition originale de *La Lucresse Romaine* d'Urbain Chevreau, dont le privilège accordée au libraire Toussainct Quinet est daté du 14 juillet 1637, et l'achevé d'imprimer le 30 juillet 1637. Denys Houssaye en est l'imprimeur [166]. L'œuvre compte 92 pages in-4°. La pièce est en cinq actes précédés chacun d'un argument. L'édition de 1637, est visualisable sur le site de la Bibliothèque nationale de France sous la cote NUMM-117306. Nous avons consulté d'autres exemplaires de cette même édition :
  * – Un exemplaire se situe à la bibliothèque de l'Arsenal sous la cote  4-BL-3475 (1). Aucune erreur sur le recto 73, le verso 76, le recto 77, 80.
@@ -986,7 +986,7 @@ le verso 80 comporte le numéro 66 | Cette erreur est corrigée.
 Enfin, nous avons également comparé un exemplaire de la *Belle Lucresse Romaine* d'Urbain Chevreau de 1643 [168], dont le privilège et l'achevé d'imprimer correspond à l'édition de la *Lucresse Romaine* de 1637. Cet exemplaire est conservé à la Bibliothèque de l'Arsenal sous la cote GD-45 468. Outre la correction du titre, il apporte une correction non négligeable au vers 2 de l'édition de 1637.
 
 
-### Interventions sur le texte
+### Interventions sur le texte.
 
 Selon l'usage de l'époque, les vers sont en italiques et les didascalies en caractère romain. Nous avons donc inversé ce schéma afin de respecter l'usage moderne. Aussi, par convention nous avons remplacé les « i » par des « j » ; et les « u » par des « v ». Nous avons systématiquement délié la ligature *&* en *et.* Nous sommes également intervenus sur le « ƒ » et les « ƒƒ » que nous avons remplacés par le « s » et le double « ss ».
 
@@ -1001,10 +1001,10 @@ Nous avons remplacé le tilde « ̴ » sur les voyelles nasales dans les occur
 *Rajout du « m »* : **Cõme** (Au lecteur), **Hõmages** (v. 59), **cõbats** (v. 187), **cõmune** (v. 187), **cõment** (v. 398), **hõme** (v. 418, v. 507, v. 848), **cõbien** (v. 811), **cõmande** (v.  840), **exẽple** (v. 1460).
 
 
-### Liste des coquilles
+### Liste des coquilles.
 
 
-#### En ce qui concerne les mots
+#### En ce qui concerne les mots.
 
 Epître. quelle → qu'elle.
 
@@ -1051,12 +1051,12 @@ v.1526. r'animer → ranimer
 v.1579. Ee → Et
 
 
-#### À propos des accents diacritiques
+#### À propos des accents diacritiques.
  * – « a » a été remplacé par « à » : Privilege du Roy, première phrase (A) → (à), Privilege du Roy «  A ces causes » → À ces causes, v. 12, v.96, v. 216, 1294, 1462.
  * – « Ou » remplacé par  « où » v. 249, 283, 1248, 1286, 1467, 1554.
 
 
-#### En ce qui concerne les cahiers
+#### En ce qui concerne les cahiers.
 
 Le recto 73, comme nous l'avons évoqué faisait l'objet d'une erreur de pagination. On peut remarquer une seconde erreur : la lettre correspondante au cahier. La Lettre « K » figure sur le recto 73. Cette erreur engendre celles qui figurent sur les autres cahiers. De fait, chaque cahier a une lettre de décalage. Nous y avons donc apporté les corrections nécessaires.
  * – (K) → (J).
@@ -1064,7 +1064,7 @@ Le recto 73, comme nous l'avons évoqué faisait l'objet d'une erreur de paginat
  * – (M) → (L)
 
 
-### Modification de la ponctuation
+### Modification de la ponctuation.
 
 v.189. rajout d'une virgule à l'hémistiche (, )
 
@@ -1121,7 +1121,7 @@ v.1380. rajout d'un point en fin de vers (.)
 v.1519. ( ; .) entre ame et Ah  → (.)
 
 
-### Description de l'édition originale de 1637
+### Description de l'édition originale de 1637.
 
 I LA / LUCRESSE / ROMAINE. / TRAGEDIE. / Fleuron du libraire / A PARIS, / Chez TOUSSAINCT QUINET, au Palais, / dans la petite salle, sous la montée de / la Cour des Aydes / filet /M.DC.XXXVII. / *AVEC PRIVILEGE DU ROY.*
 
@@ -1142,7 +1142,7 @@ XII bandeau / ARGUMENT / du premier Acte./  texte de l'argument
 1-92 : texte de la pièce.
 
 
-# *LA LUCRESSE ROMAINE. TRAGEDIE.*
+# *LA LUCRESSE ROMAINE. TRAGEDIE.*.
 
 
 ## EPISTRE. A MADAME LA MARQUISE De COASLIN [170].
@@ -1546,7 +1546,7 @@ Adieu, cours à Lucresse [220] et sois toujours fidelle.  < Fin du premier Acte.
 Sexte entretient⁎ Maxime de la violence de sa passion, et quelque difficulté que Maxime oppose au dessein⁎ de ce jeune Prince : il est contraint luy-mesme d'aller voir Lucresse pour luy descouvrir ce secret. Cependant qu'ils sont à contester [221], Tullie arrive, que Sexte entretient⁎ du succez des armes de Tarquin ; ce qui luy oste la peur qu'elle avoit toujours euë, que le courage de ce Roy ne fût la cause de leur infortune. Lucresse apres avoir veu Misene, raconte à Cecilie un songe dont elle n'attend rien de bon : et commence à en espreuver l'éfet par la fausse nouvelle de la mort de son mary, que Maxime tasche de rendre veritable, pour l'assujettir par ce moyen plus facilement aux volontez de Sexte.
 
 
-## ACTE II
+## ACTE II.
 
 
 ### SCENE PREMIERE.
@@ -1634,7 +1634,7 @@ Maxime qu'à propos elle s'en vient icy,
 Mon discours va bien-tost la tirer de soucy.  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 TULLIE. SEXTE. MAXIME.
 
 
@@ -1813,7 +1813,7 @@ Mais qu'il est mal-aysé de servir les Romains !
 « Et qu'un Sceptre parfois est pesant dans les mains !  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 LUCRESSE. MISENE. CECILIE.
 
 
@@ -1991,7 +1991,7 @@ Maxime dans la violence de la douleur de Lucresse [262] ; tasche de preparer so
 Lors qu'ils s'entretiennent⁎ sur ce sujet, Sexte arrive, qui continuë dans la première ruze, et là il n'espargne rien de tout ce qui peut tomber dans l'imagination pour venir à bout de son entreprise⁎ : il asseure que Colatin est un traître, que le desir de regner l'a rendu criminel, et qu'il a mesme attenté jusques à sa vie : pour treuver occasion [265] de preuver sa vertu⁎. C'est où il en reçoit de visibles tesmoignages, et d'où il prend occasion d'entrer secrettement dans son logis afin 36 de venir à toutes les extrémitez⁎. Pendant ces intrigues, Tullie s'estant aperceuë de la tristesse, et de la resverie⁎ de son fils Tarquin, demande raison [266] à Melixene de cette nouveauté, et n'en devinent toutes deux le sujet que confusément, d'autant qu'elles n'avoient pas lieu [267] de soupçonner la brutalité de ce Prince : et qu'elles n'estimoient pas Lucresse assez malheureuse pour estre objet⁎ de ce funeste dessein⁎. Elles sortent neanmoins dans [268] la resolution d'essayer toutes sortes de remedes pour connoistre cette maladie : et Tullie s'en remet sur Melixene qui ne tenoit pas pour impossible que la beauté de Lucresse eut touché le Prince. Dans ces entremises Tarquin apres avoir pris Ardée revient à Rome, et Colatin à Colatie et Sexte descouvrant sa damnable resolution viole Lucresse ; car n'ayant pû rien en tirer par les menasses, il crût ne devoir l'obtenir que par la force⁎.
 
 
-## ACTE III.37
+## ACTE III.37.
 
 
 ### SCENE PREMIERE.
@@ -2089,9 +2089,9 @@ C'est par ce moyen seul qu'il doit estre guery,
 Vous obligez⁎ un Prince, et sauvez un mary.  
 
 
-### SCENE DEUXIESME. F, 41
+### SCENE DEUXIESME. F, 41.
 
-    LUCRESSE,
+    LUCRESSE,.
 voyant Sexte.
 
 Vous de qui la bonté console une affligée,  
@@ -2178,7 +2178,7 @@ Que pas un du logis ne rompe l'entreprise⁎.
 TULLIE, MELIXENE.
 
 
-    TULLIE
+    TULLIE.
 Mais n'as-tu point connu que depuis son retour [283]  
 Il a des sentimens ou de haine ou d'amour ?  
 Il n'a point rapporté, son humeur⁎ ordinaire,  
@@ -2323,7 +2323,7 @@ Recueillera les fruitz de vôtre experience.
     TARQUIN.
 Nous tardons trop long temps ; allons peuple Romain.  
 
-    COLATIN,
+    COLATIN,.
 tout-bas à Brute.
 
 Je vais à Colasie, adieu jusqu'à demain.  
@@ -2464,7 +2464,7 @@ Helas ! si vous m'aimez jettez icy les yeus.  < Fin du troisiesme Acte. >
 Lucresse ne croyant pas devoir conserver sa vie, apres avoir perdu son honneur⁎ ; se fait des armes de tout pour se faciliter la mort : mais elle en est empeschée par Cécilie, qui pour la flatter⁎ dans son mal-heur luy veut persuader que la force⁎ rend son peché excusable. Mal-gré les sentiments de Cécilie elle envoye une lettre dans laquelle son regret est assez visible ; mais où elle ne se blâme pas tout à fait, aiant esté violée, et où elle ne veut pas s'excuser estant adultere. Sexte et Maxime se doutant de la rage de Lucresse, et craignant les premiers mouvements du Peuple Romain, deliberent d'aller à Tarquin [307], pour obtenir le pardon d'une telle faute. Cependant qu'ils vont à Rome, le valet de Lucresse rencontre Colatin qui revenoit à Colatie, qui s'estant enquis de la santé de sa femme, treuve dans sa lettre un sujet de desespoir. Ayant sçeu l'autheur de cette infamie, il jure avec son beau-pere Lucretie, de punir une action si detestable ; et dés l'heure vont esmouvoir [308] tout le peuple et Brute principalement, qui n'attendoit que l'occasion de s'exenter de leur tyrannie ; et qui treuva celle-cy pour donner aux Romains la liberté pour laquelle ils faisoient des vœux secrets ; sans oser aller plus avant.
 
 
-## ACTE IV. [309] 
+## ACTE IV. [309]. 
 
 
 ### SCENE PREMIERE.
@@ -2694,7 +2694,7 @@ Ne m'abandonne point dans ce danger visible,
 Et fais pour mon salut ce qui sera possible.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 MISENE, COLATIN.
 
 
@@ -2897,7 +2897,7 @@ TULLIE, MELIXENE, COLATIN,
 LUCRETIE, LUCRESSE.
 
 
-    TARQUIN
+    TARQUIN.
 dans un char de Triomphe.
 
 Romains, c'est comme il faut honorer ma conqueste,  
@@ -3095,7 +3095,7 @@ Et les Dieux sont trop bons pour nous donner la mort.
 TARQUIN, BRUTE, COLATIN. LUCRETIE.
 
 
-    TARQUIN. [348]
+    TARQUIN. [348].
 Quoy vous me bannissez ? O Dieux quelle insolence !  
 Vous pouvez- vous porter à cette violence ?  
 
@@ -3136,7 +3136,7 @@ Poursuivons les Romains, c'est trop s'entretenir⁎ :
 Nous commençons fort bien, mais il faut mieux finir.  
 
 
-### SCENE CINQUIESME 
+### SCENE CINQUIESME. 
 
     TARQUIN SEUL.
 Quelles extremitez⁎ où la rage les porte,  
@@ -3331,7 +3331,7 @@ Et que Rome en un mot dans ce mal-heur nouveau
 Pour bien s'ensevelir soit son propre tombeau.  < Fin de la Lucresse Romaine. >
 
 
-# Lexique
+# Lexique.
 
 Pour élaborer ce lexique, nous nous sommes appuyés sur les dictionnaires suivants :
  * Dictionnaire de l'Académie
@@ -3353,7 +3353,7 @@ Pour élaborer ce lexique, nous nous sommes appuyés sur les dictionnaires suiva
             1258 ; 1406 ; 1408 ; 1445 ; 1450Pour la femme, le mot signifie : chasteté (F.90)V. 668 ; 669 ; 682 ; 713 ; 938 ; 939 ; 945 ; Argument acte IV ; v. 958 ; 1042 ; 1080IncontinentAussitôt, au même instant (Ac.94)V. 561InjureAffronts, torts et dommages (F.90)V. 665 ; 994 ; 1158 ; 1243InterditEstonné, troublé  (Ac.94)V. 369LicenceDésordre, trouble, dérèglement de vie. (R.80)V. 695 ; 736MaîtresseFemme avec laquelle on souhaite se marier. Se dit aussi des femmes simplement aimées de quelqu'un, sans qu'il y ait réciprocité (F.90)V. 200 ; 291 ; 312 ; 799Au sens d'amante : sens moderneV. 1004.ObjetDans le domaine abstrait, le mot se réfère à une réalité mentale : ce qui occupe l'esprit. (A.R)V. 647 ; 732Se dit poétiquement des belles personnes qui donnent de l'amour (F.90)Épître ; v. 210 ; 221 ; 229 ; 344 ; Argument acte III ; v. 784 ; 794 ; 797 ; 831 ; 1074 ; 1098 ; 1099 ; 1168 ; 1297Spectacle, vision, image morale. (F.90)V. 1157 ; 1573 ; 1355ObligerExciter, porter quelqu'un à faire quelque chose. (F.90)V. 686Faire quelque faveur, civilité, courtoisie.V. 130 ; 183 ; 638 ; 699 ; 981 ; 997Forcer, contraindre (sens moderne)Épître ; v. 432 ; 678 ; 1366Il indique une pression morale, mais exercée par persuasion, par promesse. Lier, enchainer, par un serment, par un service (F.90)V. 623 ; 688 ;  1258 ; 1275PeineChâtiment, souffrance que l'on inflige à l'autre qui à fauter (F.90)V. 123 ; 627Dur labeurV. 176Douleur, tourments (F.90)V. 184 ; 208 ; 343 ; 347PresserSe mettre si près d'une personne qu'on l'incommode. Exercer une pression physique ou morale.Oppresser, angoisser, tourmenterV. 35 ; 199 ; 231 ; 1507Resver/ ResveriePenser, méditer profondément sur quelque chose (proche du délire)Argument acte III, v. 755, 799SeconderServir de second et aider à celuy qui fait quelque action (F.90).Argument acte I, v. 365 ; 1274 ; 1577SortDestinéeV. 161 ; 397 ; 441 ; 457 ; 723Hasard, ce qui arrive fortuitement, par une cause inconnue, et qui n'est pas réglée ni certaine.V. 27 ; 215 ; 392 ; 419 ; 578 ; 889 ; 899 ; 1050 ; 1249 ; 1393 ; 1546SouffrirEndurer.V. 676 ; 996 ; 1190 ; 1383 ; 1428 ; 1452Permettre, autoriser (Ac.94)V. 97 ; 291 ; 475 ; 957 ; 1502 ; 1539RévélerV. 1136Soupir/ SoupirerSe plaindre (R.80)V. 171, 363 ; 387 ; 750 ; 770 ; 772 ; 788 ;  1023 ; 1047 ;  1058 ; 1081 ; 1357 ; 1502TransporterSignifie figurément le trouble, l'agitation de l'âme qui nous met hors de nous. Renvoie à une violente émotion exprimant la colère. (F.90)V. 280 ; 1007 ; 1187Travail/Travaux*Renvoie* aux peines qu'on a prises, qu'on s'est données, a quelque entreprise glorieuse, dans l'exécution de quelque chose de difficile. (Ac.94)V. 191TravaillerFaire une besogne, un ouvrage pénible, se donner de la peine à faire quelque chose (F.90)V. 297TristesseLe sens du nom dérive de celui de l'adjectif triste : sombre, lugubre, funeste en parlant des choses.V. 82 ; 393 ; 415 ; 467 ; 601 ; 654 ;  1044 ; 1093 ; 1570Le nom *tristesse* exprime cette même nuance et se dit de la gravité austère, de la sévérité.V. 219 ; 272 ; 859 ; 1135 ; 1403 ; 1503 ; 1539ValeurCourageV. 1 ; 136 ; 157 ; 192 ; 333VertuForce, vigueur, tant du corps que de l'âme. « Ensemble de qualités viriles » physique ou morales. Il se dit en particulier de l'énergie guerrière, du courage, de la vaillance.Se dit au pluriel de toutes les qualités, entrant dans la composition de cette valeur morale, de ce mériteÉpître ; Aux honnestes gens ; v. 71 ; 1331 ; 1062Se dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy et la raisonV. 110 ; 631 ; 636 ; 727 ; 824 ; 902 ; 1202 ; 1208 ; 1266 ; 1333 ; 1540ChastetéÉpître ; v. 796 ; 802 ; 820 ; 875 ; 922 ; 998 ; 999 ; 1000 ; 1145 ; 1146 ; 1205 ; 1206 ; 1209 ; 1215 ; Argument acte V ; v. 1499 ; 1532 ; 1534Force, vigueur, tant du corps que de l'âmeV. 141 ; 1266 ; Argument acte III ; v. 1328 ; 1459
 
 
-# Annexe : sonnet
+# Annexe : sonnet.
 
 Lucrece parle.
     
@@ -3378,14 +3378,14 @@ Encore en ce Tableau je me donne la mort.  La Gallerie des femmes fortes
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## CorpusLa Lucresse Romaine
+## Corpus.La Lucresse Romaine
 
 
 
-## Sources antiquesLa Poétique
+## Sources antiques.La Poétique
 Antiquités romaines
 Bibliothèque historique
 Les Fastes
@@ -3394,7 +3394,7 @@ Histoire romaine
 
 
 
-## Sources imprimées avant 1800Chevræana
+## Sources imprimées avant 1800.Chevræana
 La Gallerie des femmes fortes
 Mémoires pour servir à l'histoire des hommes illustres dans la République des lettres, avec un catalogue raisonné de leurs ouvrages
 Histoire du théâtre françois depuis ses origines jusqu'à présent
@@ -3403,10 +3403,10 @@ Femmes illustres ou harangues héroïques
 
 
 
-## Ouvrages sur la période
+## Ouvrages sur la période.
 
 
-### Approches généralesHistoire de la littérature française du xviie siècle
+### Approches générales.Histoire de la littérature française du xviie siècle
 Morales du Grand Siècle
 Le Langage dramatique
 A History of French Dramatic Literature in the Seventeenth Century
@@ -3415,7 +3415,7 @@ Naissance de l'écrivain
 
 
 
-### Histoire matérielle des théâtresLe Théâtre du Marais
+### Histoire matérielle des théâtres.Le Théâtre du Marais
 Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 Le Théâtre professionnel à Paris. 1600-1649
 Le Répertoire du théâtre français imprimé entre 1630 et 1660
@@ -3423,7 +3423,7 @@ Le Mémoire de Mahelot
 
 
 
-### Ouvrages sur le Théâtre du XVII*e* siècleLa Tragi-comédie de Corneille à Quinault
+### Ouvrages sur le Théâtre du XVII*e* siècle.La Tragi-comédie de Corneille à Quinault
 Les Pièces rivales des répertoires de l'Hôtel de Bourgogne, du théâtre du Marais et de l'Illustre Théâtre, Deux décennies de concurrence théâtrale parisienne 1629-1647)
 Art Poétique
 La Tragédie de l'âge classique (1553-1770)
@@ -3441,14 +3441,14 @@ Poésie dramatique et prose du monde. Le comportement des personnages dans la tr
 
 
 
-## Pièces de théâtreLe Cid
+## Pièces de théâtre.Le Cid
 Lucrèce
 Crisante, texte établi et présenté par Alice DurouxThéâtre complet*e*
 La Mariane
 
 
 
-## Ouvrages et articles sur ChevreauMémoires concernant les vies et les ouvrages de plusieurs modernes célèbres dans la République des Lettres
+## Ouvrages et articles sur Chevreau.Mémoires concernant les vies et les ouvrages de plusieurs modernes célèbres dans la République des Lettres
 Urbain Chevreau, sa vie, son œuvre : étude bibliographique et critique
 Actualités Poitou-Charentes
 Les Suites du Cid de Corneille
@@ -3457,7 +3457,7 @@ Das Böse im französischen Theater der Jahre 1635-1649, Studien zu ausgewählte
 
 
 
-## Ouvrages et articles sur la vertu et l'héroïsme de LucrècePublif@rum
+## Ouvrages et articles sur la vertu et l'héroïsme de Lucrèce.Publif@rum
 Les Lucrèce classiques : Suicide et héroïsme féminins au grand siècle
 Précieuses et autres indociles : aspects du féminisme dans la littérature française du XVII*e* siècle
 Les Vies des Femmes célèbres
@@ -3469,7 +3469,7 @@ La Cité de Dieu
 
 
 
-## Ouvrages sur la violenceDe l'esthétique de la violence
+## Ouvrages sur la violence.De l'esthétique de la violence
 L'Esthétique de la violence
 La Violence et le Sacré
 La Violence au théâtre
@@ -3478,27 +3478,27 @@ La Volence : représentation et ritualisation
 
 
 
-## Ouvrages sur le livreHistoire de l'édition Française
+## Ouvrages sur le livre.Histoire de l'édition Française
 Livres, pouvoirs et société à Paris au XVII*e* siècle (1598-1701)
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires de languesDictionnaire
+### Dictionnaires de langues.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise.... avec les termes les plus connus des arts et des sciences
 Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
 
 
 
-### Autres dictionnairesDictionnaire de l'Ancien Régime
+### Autres dictionnaires.Dictionnaire de l'Ancien Régime
 Dictionnaire encyclopédique du théâtre
 
 
 
-### Rhétorique, Grammaire et ponctuationLa Ponctuation
+### Rhétorique, Grammaire et ponctuation.La Ponctuation
 Le Français classique. Lexique de la langue du XVII*e* siècle
 Traité de la ponctuation
 Lire Racine
@@ -3510,7 +3510,7 @@ Grammaire de la langue française du XVII*e* siècle
 
 
 
-### BibliographiesBibliographie de la littérature française du XVII*e* siècle
+### Bibliographies.Bibliographie de la littérature française du XVII*e* siècle
 *Klapp-Lehrmann*Bibliographie der französischen Literaturwissenschaft
 
 

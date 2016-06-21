@@ -17,12 +17,12 @@ A PARIS Chez ANTOINE DE SOMMAVILLE, au Palais, dans la petite salle des Merciers
       master 1 sous la direction de Georges Forestier (2008-2009).
 
 
-# Introduction
+# Introduction.
 
 Héros traditionnels, mère autoritaire, rival obsessionnel, revendeuse incarnant la figure de la « dame d'intrigue » : la combinaison de ces éléments familiers d'un lecteur des comédies du XVII*e* siècle ferait une pièce tout aussi classique que banale. Pourtant, le destin de *L'Intrigue des filous* fut tout autre. Car il y eut des filous qui, dans leur poursuite d'un receleur, firent irruption dans le théâtre. Les « invasions barbares » étaient heureuses, ces criminels furent donc tolérés, puisqu'en les autorisant à « voler en public [1] », les spectateurs témoignèrent en 1647, à l'Hôtel de Bourgogne, la naissance d'une grande comédie.
 
 
-# Biographie de Claude de L'Estoile
+# Biographie de Claude de L'Estoile.
 
 Né à Paris un peu avant le 13 septembre 1597, jour de son baptême, Claude de L'Estoile, sieur du Saussay, a vécu presque toute sa vie dans la capitale avant qu'il ne se retire dans une maison de campagne dans ses dernières années.
 
@@ -56,7 +56,7 @@ La mort de L'Estoile fut, comme toute sa vie, teintée d'une touche d'étranget�
 Le 4 février 1652, cet homme dont Tallemant des Reaux disait que « tout est bizzare en luy [13] » s'éteignit.
 
 
-# Sources
+# Sources.
 
 Il est vrai que beaucoup de comédies créées dans les années 1640 ont emprunté leurs grandes lignes à la *comedia* espagnole [14], pourtant, il n'existe pas une source précise pour *L'Intrigue des filous*. Et la présence exceptionnelle de voleurs dans la littérature de cette époque rend encore plus curieuse cette pièce. Selon Parker, L'Estoile, sous l'influence de son père qui avait illustré dans ses journaux la vie du peuple parisien dans tous les aspects, y mettait aussi un grand intérêt [15]. Mais s'il était normal qu'une comédie fît jouer les hommes de basse condition, ce qui étonna le public du XVII*e* siècle, ce fut de voir sur la scène d'un théâtre les filous qui guettent, poursuivent, voire battent leur victime. Toutefois, ces voleurs rusés ont trouvé expression dans l'*Histoire générale des larrons*, recueil fait par un certain François de Calvis, sieur d'Aubrincourt, paru d'abord en 1623. Cet ouvrage regroupe bon nombre d'histoires illustrant la cruauté et la méchanceté des voleurs, les ruses et la subtilité des coupeurs de bourses ainsi que les finesses, les tromperies et les stratagèmes des filous. Et l'auteur défendit son entreprise hardie en proclamant dans la préface qu'il est justifiable de vouloir satisfaire la curiosité de l'homme pour un tel domaine qui restait encore inconnu. De surcroît, il développa, au cours de la narration de chaque histoire, quelques préceptes afin d'instruire ceux qui voulaient y obtenir une leçon. Cela peut se repérer, en effet, dès la préface dans laquelle il avertit les lecteurs que l'oisiveté est la « mère des vices [16] ».
 
@@ -75,17 +75,17 @@ Revenons à *L'Intrigue des filous* : le projet de vol, en dépit de sa courte 
 En plus de ce rapprochement structural, nous aurons l'occasion de développer d'autres croisements des deux pièces en ce qui concerne les personnages.
 
 
-# Résumé de la pièce par acte
+# Résumé de la pièce par acte.
 
 
-## Acte 1
+## Acte 1.
 
 Roué de coups par le Balafré, le Borgne et le Bras-de-Fer dans sa propre maison, Béronte échappe ensuite à leur poursuite et heurte chez Ragonde pour demander l'abri. Ayant peur de ces filous, Ragonde lui ferme la porte au nez. En se plaignant de sa situation, le receleur s'aperçoit qu'un capitaine et une fille entrent secrètement chez Ragonde : ce sont Lucidor et Clorise. Cette dernière est la confidente de Florinde, elle est chargée par sa maîtresse de donner un portrait à Lucidor, son amant. À cause de la surveillance d'Olympe, mère de Florinde, Lucidor ne peut pas la voir librement. Mais Clorise a perdu le portrait. Béronte, après l'avoir récupéré, s'imagine que c'était celle figurant dans le portrait qui est entrée chez la revendeuse. Et il soupçonne aussi que Ragonde prostitue des filles chez elle. En entendant sortir des gens, le receleur prend la fuite.
 
 Consciente enfin de la perte du portrait, Clorise implore à Lucidor de ne pas dire la vérité à Florinde qui pourrait la chasser pour une telle faute. Lucidor, après avoir hésité, lui promet de se taire, mais cela en échange d'un rendez-vous matinal avec Florinde que Clorise et Ragonde devaient arranger. De son côté, Florinde, n'ayant plus de patience d'attendre le retour de sa suivante, vient la chercher. Pendant qu'elles discutent, apparaît Olympe qui a suivi sa fille. Elle montre sa méfiance envers Ragonde qui, selon elle, fait l'intermédiaire entre Lucidor et Florinde. Et en dépit de la volonté de sa fille, Olympe veut lui imposer Tersandre comme époux du fait qu'elle le croit riche.
 
 
-## Acte 2
+## Acte 2.
 
 Béronte se retrouve dans sa maison pillée par les filous au début de l'acte. Il en sort après avec le portrait dont il pense se servir pour séduire les passants. À ce moment, il voit Tersandre, rival de Lucidor. Ce dernier reconnaît dans le portrait Florinde, accusée de débauche par Béronte. Les paroles du receleur ont choqué Tersandre et déchaîné à la fois sa jalousie et sa fureur. Ayant payé Béronte d'une pièce, il se hâte d'aller heurter chez Ragonde où il croit pouvoir trouver Florinde. Un quiproquo sur le mot « petit-cœur » aboutit enfin au dévoilement de l'intention de ces deux hommes, Ragonde, furieuse d'être considérée comme une maquerelle, leur claque la porte au nez.
 
@@ -94,7 +94,7 @@ Béronte s'enfuit et laisse Tersandre tout seul qui ne sait pas s'il va répandr
 Les deux rivaux se rencontrent pour la première fois et se vantent tous deux de posséder le cœur de Florinde. Mais Tersandre lui montre le portrait en prétendant qu'elle lui en fait le don ce matin, Lucidor, désespéré et furieux, le provoque en duel pour une heure plus tard avant de quitter le plateau. Ensuite, Florinde, informée de la calomnie par Clorise, vient demander à Tersandre une explication pour ses propos. Mais ce dernier détourne la situation en prétendant qu'il a arraché le portrait de la main de Lucidor pendant que Lucidor se vantait d'avoir Florinde à sa libre disposition. Elle est ainsi trompée par Tersandre.
 
 
-## Acte 3
+## Acte 3.
 
 L'acte s'ouvre avec un monologue de Florinde qui, troublée par la calomnie de Tersandre sur Lucidor, s'efforce de ne plus souffrir pour un amant qui l'a trahi. Pendant ce temps, Ragonde vient lui apporter une lettre de la part de Lucidor : ce dernier a attendu sa maîtresse au temple pendant toute la matinée sans l'avoir vue. Florinde répète à Ragonde ce qu'a dit Tersandre, tout en signalant que ce dernier avait le portrait comme témoignage, mais la revendeuse l'avertit que ses paroles extravagantes ne sont point crédibles et qu'il faut écouter Lucidor s'expliquer. Pourtant, Florinde veut rompre avec son amant et demande à Ragonde de retirer toutes les faveurs qu'elle lui a laissées auparavant.
 
@@ -105,24 +105,24 @@ Une scène de reconnaissance a lieu par la suite. Tersandre, en voyant Béronte 
 À ce moment, Lucidor apparaît pour le duel, et Béronte se cache aussitôt en prétendant lui donner un coup fatal par surprise. Pourtant, Tersandre est vite terrassé, et le portrait est aussi arraché par Lucidor. Furieux, il se retourne vers Béronte qui dormait pendant que les deux se battaient. Réveillé par Tersandre, le receleur prend la fuite. Les trois filous se montrent sur le plateau à la fin de cet acte. Ils reconnaissent Béronte qu'ils voulaient attraper et décident donc de le guetter.
 
 
-## Acte 4
+## Acte 4.
 
 Ragonde, sortant de chez Lucidor, voit apparaître les trois filous, et y retourne tout de suite avec une grande peur. Mais en les voyant disparaître, elle se dépêche d'aller rejoindre Florinde qui l'attend pour ravoir ses faveurs. Mais Lucidor ne veut pas les lui rendre et se plaint de la cruauté de sa maîtresse, il déplore aussi que la négligence de Clorise l'a fait tant souffrir. Pendant ce temps, Florinde vient avec sa confidente et les deux amants se voient enfin. Ils se détrompent de la calomnie de Tersandre aussitôt que Clorise avoue le mensonge qu'elle a proféré concernant le portrait. Pourtant, il leur reste toujours le grand obstacle de la part d'Olympe qui veut marier sa fille à Tersandre, Lucidor propose donc à Florinde de partir avec lui. Pensant à son honneur, elle a hésité avant d'être convaincue par son amant, car elle supporte encore moins d'épouser Tersandre. Etant enfin délibérée, Florinde qui ne voulait pas attendre a demandé Lucidor de l'enlever dès minuit.
 
 De leur côté, les trois filous qui guettaient Béronte depuis un long moment l'ont attrapé enfin à la dernière scène de cet acte. Et pour se sauver la vie, le receleur leur propose de voler la maison d'Olympe qui contient une richesse énorme selon lui, il indique aussi l'existence d'une porte secrète qui peut leur faciliter l'accès à cette maison. Etant persuadés par Béronte, les trois filous se résolvent à exécuter le vol dans la nuit.
 
 
-## Acte 5
+## Acte 5.
 
 La Balafré et Béronte reviennent pour rejoindre Le Borgne et le Bras-de-fer avec tous les instruments nécessaires au vol. Les trois filous s'en vont enfin pour l'expédition. Béronte reste alors seul pour faire la sentinelle. Etant extrêmement craintif, il imagine lui-même, en monologuant, toutes sortes de danger qu'il pourrait courir. C'est aussi pendant ce temps qu'il voit Lucidor, l'épée à la main, allant enlever Florinde. Et puis, Béronte entend quelques cliquetis d'épées, mêlé des bruits causés par les gens qui montent et descendent.
 
 En effet, ce sont les filous qui, ayant été découverts et battus, commencent à prendre la fuite. Olympe, secourue par Lucidor seul, continue à crier et Ragonde vient. Lucidor trouve Béronte se cachant dans un coin. Le receleur, pour se sauver la vie, dit qu'il connaît un secret concernant Tersandre, son ancien maître. Il s'agit en fait de démasquer ce dernier. Celui qui a été considéré comme l'homme le plus riche n'est rien d'autre qu'un faux monnayeur, et les chaînes d'or ainsi que les deux sacs de pistoles qu'il a précédemment déposés chez Olympe ne valent rien. Choquée de ce qu'a dit Béronte, la mère de Florinde se dépêche d'aller vérifier ces dépôts. Et Lucidor reconnaît enfin le receleur qui fut jadis chassé de son régiment. Ragonde, toute seule, déplore dans un monologue qu'il ne faut plus croire l'apparence. À ce moment, Tersandre, attiré par les bruits de chez Olympe, vient pour savoir ce qui s'est passé. La revendeuse profite alors de cette occasion pour railler sa richesse prétendue, mais Tersandre fait semblant de n'avoir rien compris. Enfin, avec la réapparition de Béronte qui le démasque devant lui, toutes ses feintes ne tiennent plus. La pièce se dénoue, sans surprise, avec le mariage entre Lucidor et Florinde.
 
 
-# Étude dramaturgique
+# Étude dramaturgique.
 
 
-## Structure interne de la pièce
+## Structure interne de la pièce.
 
 
 ### Pourquoi « l'intrigue des filous » ?
@@ -134,7 +134,7 @@ Parmi les acceptions proposées par le *Dictionnaire universel* sous l'article �
 Cela étant, la question sur l'intitulé de la pièce peut se poser d'une autre manière : quel est le rapport entre les filous et le nœud de cette comédie ? Pour y répondre, il est important de savoir d'abord comment étudier le nœud d'une pièce. À cela, Scherer annonce un principe général qui insiste sur le mot « obstacle » : « sans obstacles, pas de nœud, même pas de pièce du tout : l'homme heureux n'a pas d'histoire ». Il s'agit donc, pour étudier le nœud, de connaître la nature des obstacles et de comprendre de quelle manière l'auteur dramatique mobilise ces difficultés pour construire son intrigue.
 
 
-### Le nœud
+### Le nœud.
 
 Dans *L'Intrigue des filous*, le fil principal, à savoir l'amour entre Florinde et Lucidor heurte deux obstacles qui sont l'empêchement d'Olympe, mère de Florinde, et la malveillance de Tersandre, rival de Lucidor. Commençons par le premier, il s'agit d'un véritable obstacle extérieur, classique mais assez banal, c'est-à-dire les parents, en l'occurrence une mère qui s'oppose au mariage de leurs enfants. Dans notre pièce, Olympe veut que Florinde épouse Tersandre, malgré l'amour de sa fille pour Lucidor, et cette décision est prononcée avec une autorité imposante, d'où le vers : « Il sera vostre Espoux, c'est un point arresté. (V. 337) ».
 
@@ -265,12 +265,12 @@ Il est donc leur compère associé. Mais c'est un compère qui vole les voleurs 
 L'autre raison qui justifie le choix de L'Estoile serait la suivante : un tel titre montre mieux l'intérêt particulier de cette comédie, à savoir que les filous qui sortent de l'obscurité exercent leur industrie sur la scène d'un théâtre, tout en débitant leurs rôles avec un langage qui ne déplaît point. En effet, dans la dédicace de cette pièce, comme dans la lettre de Ballesdens jointe à la première édition, on ne parlait que de cette admirable ingéniosité de L'Estoile qui a introduit des filous dans son œuvre avec tant de réussite. L'indéniable valeur de cette comédie serait, pour Ballesdens, d'avoir mêlé « judicieusement l'utile avec le delectable », ce qui est la finalité même de la littérature telle qu'on la concevait au XVII*e* siècle, puisque tout en divertissant le public, ces filous découverts enseigneront aux gens à se garder d'être trompés de leur industrie. L'admiration de Ballesdens pour ces filous est tellement grande qu'il avouait enfin que « leur plus véritable larcin est de voler les cœurs et l'estime de ceux qui les écoutent ». Cela étant, le choix de L'Estoile sur l'intitulé nous semble bien légitime.
 
 
-## Structure externe de la pièce
+## Structure externe de la pièce.
 
 Nous entendons ici par « la structure externe », l'organisation des actes et des scènes d'une pièce écrite ainsi que sa mise en scène. Ce dernier élément est intrinsèquement lié aux différents lieux qu'exigent les actions, et leur unité, selon Scherer, se traduit pendant la période classique par une concentration de ces lieux. Il a d'ailleurs insisté, avec raison, sur une dissociation des trois unités qui ne sont guère sur un même plan. D'après lui, la détermination du lieu de représentation est souvent postérieure à la création de la pièce. Il en résulte donc que le choix du lieu qui se fait pendant la mise en scène pourrait heurter les exigences des actions d'une pièce préexistante. Notre analyse de la structure externe de la pièce ne saurait donc pas omettre cette contrainte, et nous la traiterons surtout en cas d'une division des actes ou d'un découpage des scènes, car finalement, c'est dans ces moments qui supposent un changement de situation que naît la difficulté dans la mise en scène.
 
 
-### Organisation des actes
+### Organisation des actes.
 
 Un acte bien construit suppose d'abord qu'il renferme une scène centrale, parfois plusieurs, autour de laquelle s'organisent les autres. Cette idée de Scherer, comme beaucoup d'autres, s'applique plus à la tragédie qu'à la comédie. En effet, il est très difficile de repérer dans *L'Intrigue des filous* ce genre de scène que Scherer appelle « scène clou » dans son ouvrage. Pourtant, l'organisation des actes dans notre pièce saurait-elle se réduire à un « défilé de personnages sans *crescendo »*, tel que Gabriel Conesa la critiquait dans son livre [27] ? Nous ne pensons pas, puisqu'au contraire, il existe dans tous les actes avant le dénouement l'ascension d'une tension, et qui plus est, ces actes se terminent tous avec une attente créée chez le spectateur.
 
@@ -330,7 +330,7 @@ Ce maudit Receleur pourroit bien battre aux champs. (V. 1124-1125)
 Il peut résulter de tout ceci que durant le troisième entracte, les filous ont passé le temps à guetter Béronte. Reste encore le dernier intervalle d'où les actions sont évoquées bien clairement à la fin de l'acte IV. Le Balafré ira chercher les outils de vol avec Béronte, et les deux autres filous iront boire avant de retourner au même endroit pour guetter les passants. C'est ce qui occupera cet entracte.
 
 
-### Organisation des scènes
+### Organisation des scènes.
 
 Nous avons évoqué l'impossibilité de la liaison entre deux actes. Ce principe découle en effet d'une autre règle classique, à savoir la nécessité de la liaison des scènes. D'Aubignac, ferme partisan de la continuité de l'action, a proclamé que « le théâtre ne devrait jamais être vide [30] ». De plus, il a distingué lui-même quatre formes de liaison dans sa *Pratique du théâtre*. La première qui est aussi la plus répandue dans les pièces du XVII*e* siècle est la liaison de présence : il reste sur le plateau un ou plusieurs personnages de la scène précédente. Dans *L'Intrigue des filous*, la plupart des liaisons des scènes se réalisent sous cette forme. Pourtant, ce qui nous intéresse, c'est la manière dont le reste des scènes se lient. La liaison entre les scènes III,6 et III,7 d'abord : la fin de l'une nous montre que Tersandre et Béronte quittent le plateau en courant, et le début de l'autre est occupé par ce vers du Balafré : « Courons apres ces Gens, il est nuict, autant vaut. (V. 1021) », ce qui implique que la liaison se fait ici sous une autre forme que D'Aubignac appelle « la liaison de recherche », c'est-à-dire, l'acteur qui vient au théâtre cherche celui qui en sort.
 
@@ -351,10 +351,10 @@ Comme les trois formes que nous avons évoquées ne pourraient pas justifier cet
 Les trois acteurs qui entrent sur le plateau au début de la scène 3 de l'acte I parlent tous du portrait perdu : Lucidor déplore cette perte et blâme la négligence de Clorise, la suivante de Florinde cherche à l'apaiser, Ragonde les écoute avant de prendre le parti de Clorise. Ils n'ont donc « rien à démêler » avec Béronte qui a quitté le plateau à la fin de la scène précédente, puisqu'aucun des trois ne sait que le receleur est resté longtemps près de chez Ragonde et qu'il a même récupéré le portrait. La liaison correspond donc au premier élément de la définition de d'Aubignac. Pourtant, la subtilité de cette règle réside, comme son nom l'indique, dans la maîtrise du temps. C'est-à-dire que cette forme de liaison n'existe entre nos deux scènes que sous la condition suivante : au moment même où Béronte fait le dernier pas pour rentrer dans la coulisse, les trois autres font les leurs en sortant de chez Ragonde et se montrent sur le plateau. Voilà pourquoi elle exige une « grande justesse » selon d'Aubignac. Nous nous contentons, faute du témoignage sur la mise en scène de cette pièce, de prouver la possiblité d'une telle forme de liaison entre les scènes I,2 et I,3.
 
 
-## Caractères
+## Caractères.
 
 
-### Les filous
+### Les filous.
 
 En dépit de leur présence secondaire dans notre pièce, les trois filous sont dépeints non seulement avec des caractéristiques communes, mais aussi avec certains traits particuliers qui les distinguent les uns des autres. Pour mieux présenter leur portrait commun, nous allons mettre en parallèle la pièce de L'Estoile avec quelques autres dans lesquelles la présence des voleurs nous intéresse.
 
@@ -426,7 +426,7 @@ Passons maintenant à son camarade Le Borgne. Ce qui pourrait nous étonner dans
 Si la facette érudite de Borgne nous semble bien curieuse, le penchant philosophique du Bras-de-fer l'est encore plus. Il est particulièrement manifeste dans deux tirades assez longues qui ont pour objectif principal de chasser la crainte du Borgne (V. 1357-1370 et V. 1371-1376). Elles sont profondément inspirées du livre III du *De Rerum Natura* de Lucrèce qui transmet la pensée épicurienne au sujet de la crainte de la mort. Nous aurons l'occasion d'y revenir.
 
 
-### Béronte
+### Béronte.
 
 Ce personnage dont l'importance dans la structure de cette pièce a été démontrée précédemment est beaucoup plus riche qu'un simple receleur. Nous avons ici l'une des créations les plus réussies par L'Estoile qui a su mélanger en un seul personnage plusieurs caractères-types différents.
 
@@ -492,7 +492,7 @@ Par trois ou quatre trous qu'ils m'ont faicts à la teste. (V. 901-904)
 Nous comprenons pourquoi L'Estoile a ainsi jugé le caractère de Béronte dans la lettre dédicatoire : « le Receleur … n'est pas fou, mais il n'est gueres moins plaisant que s'il l'estoit. Il n'est point de melancholie à l'espreuve de sa mine, & de son langage ; & il faudroit estre plus chagrin que ce Philosophe qui pleuroit tousjours, pour ne pas rire au recit de ses advantures ».
 
 
-### Tersandre
+### Tersandre.
 
 Il paraît d'abord comme un rival conventionnel : agréé par la mère à cause de sa richesse, mais repoussé par la fille qui lui préfère un jeune capitaine sans fortune. C'est surtout son excès de jalousie qui déplaît à Florinde (V. 329-334). En effet, ce sera aussi le moteur principal de ses actions qui couvrent presque tout le deuxième acte. Nous allons étudier ce trait de jalousie avec ses deux monologues.
 
@@ -515,7 +515,7 @@ La crainte de la conduite de Florinde va céder la place, dès le vers 541, à u
 Ce rival qui agit jusqu'ici sous la domination, tantôt absolue, tantôt relative, de sa propre jalousie, terminera l'acte II par une calomnie contre Lucidor. C'est en effet la dernière action qui dépend encore de ce personnage lui-même, car ses prochaines apparitions servent uniquement les différentes exigences de la pièce. La scène 5 de l'acte III, celle de la reconnaissance, est nécessaire pour le dénouement ; la scène 6 de l'acte III est importante dans la mesure où le héros a besoin de gagner le duel pour reconquérir son honneur devant un rival qui l'avait trompé ; enfin, si Tersandre réapparaît dans les scènes 5 et 6 du dernier acte, c'est parce que le dénouement de la pièce devrait être complet, c'est-à-dire qu'il faut que « le sort de tous les personnages importants soit fixé [43] ».
 
 
-### Ragonde
+### Ragonde.
 
 Voilà une revendeuse qui est destinée, comme dira Arnolphe dans *L'Ecole des femmes*, à « faire réussir les mystères d'amour [44] ». Ragonde elle-même avoue devant Olympe qu'une partie de son métier est de faire des mariages (V. 276), et elle se propose aussitôt pour lui trouver un mari. Comme Olympe refuse son conseil, la revendeuse prononce une longue tirade afin de lui montrer la misérable situation dans laquelle vit une veuve (V. 280-292). La qualité d'entremetteuse de Ragonde sert beaucoup plus fréquemment l'amour des deux jeunes héros. Elle leur propose sa maison comme un lieu de rencontre et transmet des lettres d'amours entre eux. Ses actions vont tellement loin qu'elle suborne Florinde en l'incitant à ignorer son devoir au profit de son amour (V. 229-233). Car pour Ragonde, il n'existe pas de justice ni de raison dans l'amour : même Olympe, malgré son âge, « se laisse cajoller à mille courtisans » et peut donc servir d'un bon exemple à sa fille (V. 235-253).
 
@@ -545,19 +545,19 @@ Vous parlez, vous marchez, qui doncques je vous prie
 Vous a resuscité ? (V. 197-200)  
 
 
-### Clorise
+### Clorise.
 
 Voilà une confidente atypique à qui la maîtresse n'a communiqué aucune confidence dans la pièce. Mais le personnage n'est pas pour autant insignifiant. Il se justifie par sa fonction dramaturgique. Car d'abord, la perte du portrait par Clorise ainsi que le mensonge qu'elle a fait à Florinde constituent deux éléments importants dans l'exposition de la pièce ; de plus, c'est son aveu dans la scène IV,3 qui termine l'affaire du portrait. Pourtant, l'absence de ce personnage à un moment où sa maîtresse subit une crise psychologique (scènes III,1 et III,2) peut nous surprendre à première vue.
 
 Pour essayer de comprendre une telle organisation de la part de L'Estoile, il faut d'abord noter que malgré l'absence de Clorise, Florinde n'a pas été toute seule pendant cette crise. Ragonde y était présente à la place de la dite confidente. Reste donc à savoir pourquoi la revendeuse s'est substituée à Clorise. En effet, c'est toujours la fonctionnalité de ce personnage qui nous éclaircira sur cette question. En tant que personnage de qui dépend le dénouement de la comédie enchâssée, Clorise ne peut pas réapparaître plus tôt. Car si elle était présente dans la scène 2 de l'acte III et face à sa maîtresse trompée par Tersandre mais emportée contre Lucidor, elle avouerait sans doute le mensonge qu'elle avait fait et heurterait donc le calcul de l'auteur qui cherche à différer la révélation. La scène 2 de l'acte II où Clorise a défendu sa maîtresse contre les médisances de Tersandre pourrait justifier notre supposition.
 
 
-### Olympe
+### Olympe.
 
 Outre sa fonction dramaturgique, à savoir une mère qui veut imposer à sa fille un époux qu'elle n'aime pas, Olympe possède plusieurs traits de caractère particuliers. Elle est d'abord fort soupçonneuse et passe son temps à surveiller Florinde (V.254-257) ; cette méfiance paraît même plus grande devant Ragonde qu'elle soupçonne, non sans raison, de porter à sa fille « ces petits poulets qui cajollent les belles » (V. 744). Nous pouvons aussi déceler sa vision sur l'amour dans sa conversation avec Florinde. Pour convaincre sa fille de la supériorité de Tersandre, elle commence par accuser d'inconstance tous les hommes amoureux. Un renard, un lion et enfin un serpent, les trois métaphores qui qualifient l'amant dans les différentes étapes de sa conquête sauraient bien détruire l'imagination qu'une jeune fille peut avoir pour l'amour (V. 305-312). Cela étant, le choix d'un époux devrait donc se baser sur une autre valeur plus constante, plus solide que l'amour lui-même. Pour Olympe, ce ne peut être que la richesse. Voilà la vision de l'amour d'une femme intéressée, mais curieusement, elle est contrastée par la description qu'a donnée Ragonde sur Olympe. Il s'agit d'une longue tirade que la revendeuse a prononcée vers la fin de la scène 4 de l'acte I pour chasser le scrupule de Florinde. Olympe y est dépeinte comme une coquette qui, malgré son âge, « se laisse cajoller à mille Courtisans » (V. 238). Selon Ragonde, cette passion amoureuse la domine à un tel point que tous les biens dont elle dispose « seront pour un Plumet follement despensez » (V. 241-242). De là nous découvrons une éventuelle contradiction du personnage dont l'explication nous manque dans la pièce.
 
 
-### Florinde
+### Florinde.
 
 Dans une pièce dans laquelle l'auteur s'attarde très souvent sur des personnages dits secondaires, la faible présence de l'héroïne (8 scènes dont 2 sont muettes) ne nous étonne pas. Elle paraît d'abord comme une jeune fille amoureuse qui, malgré les ordres de sa mère, maintient un lien secret avec Lucidor dont elle est éprise. Toutefois, son penchant à l'amour n'est pas sans retenue à cause de l'interdiction d'Olympe. Dans la scène 4 de l'acte I, elle précise bien, tout en consentant au rendez-vous demandé par Lucidor, qu'elle n'osera pas parler avec lui (V. 225-228). Cet obstacle extérieur se transformera en un scrupule intérieur de Florinde, fille qui se soucie autant, même plus de son honneur que de son amour (V. 1213-1214), si bien qu'au moment où Lucidor l'informe de son projet d'enlèvement, elle lui répond : « Cette offre avec honneur se peut-elle accepter ? (V. 1133) ».
 
@@ -580,7 +580,7 @@ Ou que de mon Rival l'entreprise s'acheve, (V. 1179-1180)
 Car finalement, elle supporte encore moins un mariage avec Tersandre dont la jalousie l'irrite.
 
 
-### Lucidor
+### Lucidor.
 
 Nous avons ici un personnage conforme à la caractérisation du héros classique par Scherer [45]. Il est jeune : Béronte l'appelle « vert galant » (V. 400) ; il est beau, Olympe nous le confirme en rappelant ses trois vertus (V. 317) ; la valeur militaire qui est nécessaire au héros classique selon Scherer se trouve aussi en Lucidor, le récit qu'a fait Béronte dans la scène 5 de l'acte III témoigne la vaillance du héros pendant les guerres d'Allemagne. Or ce courage ne s'accompagne point d'une naissance noble dont il est ordinairement l'apanage d'après Scherer, c'est ce qui distingue le héros de notre pièce. Le dernier élément qui constitue le charme d'un héros classique est son malheur, car il suscite la compassion chez le spectateur. Cela va de soi dans une tragédie, tandis que dans cette comédie, Lucidor est aussi tourmenté par son infortune durant la plupart de ses apparitions.
 
@@ -591,7 +591,7 @@ Un tel amant parfait parle naturellement le langage de la galanterie, avec toute
 Enfin, la manifestation de sa passion amoureuse va tellement loin qu'il jure de tuer son rival et de se percer ensuite du « même poignard » si Florinde refuse son enlèvement (V. 1193-1196).
 
 
-## Dimension philosophique ou filou épicurien
+## Dimension philosophique ou filou épicurien.
 
 Nous avons déjà évoqué, dans l'étude des caractères, le penchant philosophique du Bras-de-fer, il est temps de revenir sur cette question. Notre étude suivante sera basée sur la fin de la scène 1 de l'acte V, à savoir un débat entre Le Bras-de-fer et Le Borgne autour de la crainte de la mort. Il s'agit, en effet, d'un thème qui occupe une place importante dans la philosophie épicurienne, et ce qui nous intéresse, c'est surtout l'appropriation de la pensée d'Épicure dans ce débat entre deux filous.
 
@@ -700,7 +700,7 @@ Ne revit pas plutost que qui meurt sur la rouë, (V. 1373-1375)
 En effet, la vaine tentative de chercher la sécurité dans la richesse ou dans la gloire accroîtra, au contraire, l'insécurité. Pierre Hadot partage notre opinion dans ce passage de son livre : « si les hommes sont malheureux, c'est qu'ils sont torturés par des désirs “immenses et creux”, la richesse, la luxure, la domination [56] ». Par conséquent, les vrais épicuriens exercent une ascèse des désirs pour atteindre le véritable plaisir, un plaisir stable.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Nous avons établi le texte selon l'édition originale de 1648 qui est disponible en ligne (Bibliothèque numérique Gallica). Toutefois, l'extrait du privilège lui manque, et nous l'avons trouvé dans l'exemplaire RES-YF-468 de la Bibliothèque François Mittérrand. Il est à croire que la version numérique est une reproduction de l'autre exemplaire RES-YF-577 qui ne présente pas non plus l'extrait du privilège. Ces deux exemplaires sont identiques pour le reste.
 
@@ -725,7 +725,7 @@ La première édition de cette pièce comprend un seul volume, in-4º, en voici 
 Le texte de la pièce est précédé d'un rappel de titre en haut de la première page.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons conservé la graphie de l'édition originale tout en distinguant *i* et *j, u* et *v*. Nous avons aussi décomposé les voyelles nasales surmontées d'un tilde en voyelle + consonne. (V. 280, 292, 319, 416, 469, 499, 507, 550, 628, 652, 736, 749, 868, 871, 907, 944, 1028, 1037, 1143, 1219, 1261, 1550, 1555)
 
@@ -786,7 +786,7 @@ V. 1508 : *ensemble* ? pour *ensemble.*
 V. 1509 : *prisez*, pour *prisez* ?
 
 
-## Liste des abréviations utilisées dans l'édition présente
+## Liste des abréviations utilisées dans l'édition présente.
 
 (Fur.) : *Dictionnaire universel* par Furtière, 1690.
 
@@ -797,10 +797,10 @@ V. 1509 : *prisez*, pour *prisez* ?
 (TLFi) : Le Trésor de la langue française informatisé (http://atilf.atilf.fr/tlf.htm)
 
 
-# L'INTRIGUE DES FILOUS
+# L'INTRIGUE DES FILOUS.
 
 
-## A MESSIRE CHARLES TESTU CONSEILLER DU ROY EN SON CONSEIL D'ESTAT, MAISTRE D'HOSTEL ORDINAIRE DE SA MAJESTE, CHEVALIER ET CAPITAINE DU GUET DE PARIS [57]
+## A MESSIRE CHARLES TESTU CONSEILLER DU ROY EN SON CONSEIL D'ESTAT, MAISTRE D'HOSTEL ORDINAIRE DE SA MAJESTE, CHEVALIER ET CAPITAINE DU GUET DE PARIS [57].
 
 MONSIEUR,
 
@@ -811,10 +811,10 @@ MONSIEUR,
 Vostre tres-humble, & tres- obeyssant serviteur, DE LESTOILE.
 
 
-## LETTRE DE MR BALLESDENS [61]
+## LETTRE DE MR BALLESDENS [61].
 
 
-## A MR DE LESTOILE
+## A MR DE LESTOILE.
 
 MONSIEUR,
 
@@ -829,19 +829,19 @@ De Fontainebleau Ce
 6, d'Octobre, 1647.
 
 
-## ADVIS IMPORTANT AU LECTEUR
+## ADVIS IMPORTANT AU LECTEUR.
 
 Cher Lecteur, j'offre à tes yeux un corps sans ame, j'appelle ainsi toute Comedie qui se voit sur le papier, & non pas sur le Theatre. Les plus galantes & les mieux achevees sont froides pour la pluspart & languissantes, si elles ne sont animees par le secours de la representation. Les comediens n'en font pas seulement paroistre toutes les graces avec esclat : ils leur en prestent encore de nouvelles ; & la mesme piece qui semble admirable quand ils la recitent, ne se peut lire quelquesfois sans degoust. Ils ont fait valoir celle-cy, quoy que ce ne soit autre chose qu'une pure bouffonnerie, qui n'est digne ny de toy ny de moy-mesme : aussi serois-je encore à te la donner, n'estoit que j'apprehendois avec raison qu'il ne prist envie à quelqu'un de t'en faire un present à mon deçeu, & que la faisant imprimer avec peu de soin, il n'adjoustât des fautes aux miennes, qui ne sont desja qu'en trop grand nombre. Neantmoins, cher Lecteur, je ne desadvouë point ce petit ouvrage, quoy qu'il soit de peu de merite : mais je t'avertis qu'il y en a quelques autres que tu acheptes pour estre de moy qui n'en sont point ; & que faute de bien cognoistre ma façon d'escrire, tu te laisses abuser par une fourberie qui n'est guere adroite que plaisante. Un certain Libraire me fait passer tous les jours pour estre Autheur de plusieurs livres qui ne sont pas de ma science, & dont je n'ay jamais seulement veu le titre : cependant il te les debite avec asseurance qu'ils partent de mon esprit, & pour donner couleur à ce mensonge il se sert de cét artifice. Il met à la premiere page, & à la fin de l'Epistre, un petit nombre d'estoilles, n'osant y mettre mon nom ; & voila comme il te trompe, & me fait tort. J'ay bien voulu t'en donner advis, afin qu'à l'advenir tu ne t'y laisses plus surprendre, & que tu sçaches que je ne fus jamais d'humeur à me parer des despoüilles, ny des Vivans, ny des Morts.
 
 
-## Extrait du privilege du Roy
+## Extrait du privilege du Roy.
 
 Par grace & Privilege du Roy donné à Paris le 5 jour de Fevrier 1648. Signé par le Roy en son Conseil LE BRUN : il est permis à ANTHOINE DE SOMMAVILLE Marchand Libraire à Paris, d'Imprimer ou faire Imprimer, vendre & distribuer une piece de Theatre intitulee l'Intrigue des Filous, & ce pendant le temps & espace de cinq ans, à compter du jour que ladite piece sera Imprimée, & deffences sont faites à tous autres Libraires & Imprimeurs d'en vendre d'autres impressions que de celle qu'aura fait, ou fait faire ledit SOMMAVILLE ou ceux qui auront droit de luy, sous les peines portées par lesdites lettres qui sont en vertu du present Extrait tenuës pour deuëment signifiées.
 
 *Achevé d'Imprimer le 24, Avril 1648*
 
 
-## ACTEURS
+## ACTEURS.
  – LUCIDORCapitaine François
  – OLYMPEVeuve d'un Partizan [62]
  – FLORINDESa fille & Maistresse de Lucidor
@@ -856,7 +856,7 @@ La Scène est à Paris, dans l'Isle du Palais [63], devant le Cheval de Bronze [
  
 
 
-## ACTE PREMIER, [65]
+## ACTE PREMIER, [65].
 
 
 ### SCENE PREMIERE.
@@ -899,7 +899,7 @@ Il sera bien subtil, & bien fort s'il eschappe :
 Mais prenons-en quel-qu'autre ; aussi-bien on sçait trop  
 Qu'aux petites Maisons [72] il va le grand galop.  
 
-    LE BORGNE. 
+    LE BORGNE.
 Depuis que le jettant contre un pillier de couche,  
 Vous fistes de sa teste un abbreuvoir à mouche [73],  
 Il a le cerveau creux, & sent une douleur,  
@@ -921,7 +921,7 @@ Et frotons⁎-le à l'envy sur le ventre et par tout.
 Ils rentrent. [78]
 
 
-    BERONTE *seul.*
+    BERONTE *seul.*.
 Aller frotter⁎ un Asne, & non un honneste Homme,  
 Mais silence, je crains que leur main ne m'assomme,  
 Si dans ce petit coin ils m'eussent rencontré,  
@@ -1261,7 +1261,7 @@ Mais à vous convertir perdray-je mon latin ?
 Taisons-nous, la voicy.  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 OLYMPE, FLORINDE, CLORISE, RAGONDE,
 
 
@@ -1292,7 +1292,7 @@ Madame excusez-moy, je ne viens que pour voir
 Si vous auriez besoin de quelques Pierreries,  
 De beaux Linge de Lits, ou de Tapisseries  
 
-    OLYMPE.  
+    OLYMPE. 
 Non pas pour le present.  
 
     RAGONDE.
@@ -1509,7 +1509,7 @@ Tien, voilà bien dequoy te payer de ta peine.
 Je ne veux rien pour rien; mais dépesche, autrement  
 Une rupture d'os sera ton chastiment.  
 
-     BERONTE.
+    BERONTE.
 Dans ce petit logis lestement⁎ accoustrée,  
 Avec un Vergaland⁎, tantost⁎ elle est rentrée ;  
 Ils y seront encore.  
@@ -2005,7 +2005,7 @@ Fin du second Acte.
 
 ### SCENE PREMIERE.
 
-    FLORINDE, *seule.*
+    FLORINDE, *seule.*.
 Doncques de mes faveurs⁎ l'Insolent s'est vanté !  
 Ha ! je ne puis souffrir⁎ ce trait de vanité ;  
 Je veux estre vangée, & monstrer à ce Traistre  
@@ -2662,13 +2662,13 @@ Et vous en donneroit⁎ & du long, & du large [221];
 Que ne m'esveilliez-vous ? je veux estre berné,  
 Si ce ne seroit fait [222] de ce Diable incarné.  
 
-    TERSANDRE. 
+    TERSANDRE.
 Suy-moy, traistre, suy-moy.  
 
     BERONTE. 
         Dieu ! prenez ma deffense.  
 
-    TERSANDRE. 
+    TERSANDRE.
 Mille coups de baston puniront ton offense.  
 Comme Tersandre & Beronte rentrent, les Filous les apperçoivent.
 
@@ -2868,7 +2868,7 @@ Quoy vous ne l'aviez pas ? qu'en dites-vous Clorise ?
 Vous changez de visage, & paroissez surprise ;  
 D'où vient ce changement ? parlez.  
 
-     CLORISE.
+    CLORISE.
     Madame.  
 
     FLORINDE.
@@ -3062,10 +3062,10 @@ Elle rentre.
     RAGONDE.
         Dieu ! ce sont ces Filous,  
 
-    LUCIDOR
+    LUCIDOR.
 Ne crains rien.  
 
-    RAGONDE
+    RAGONDE.
         Hé ! tout beau, rengainez, sauvons-nous.  
 
 
@@ -3093,15 +3093,15 @@ Il ne passe personne en ce maudit quartier ;
 Mais si quelqu'un y vient, il faut qu'on le destrousse,  
 Et s'il a bien dequoy nous en ferons carrousse [247].  
 
-    LE BALAFRÉ
+    LE BALAFRÉ.
 Je ne treuve rien tel que nager en grand'eau [248]  
 Volons une maison, & non pas un manteau,  
 Changeons la bierre en vin, & la menestre [249]en bisque ;  
 
-    LE BORGNE
+    LE BORGNE.
 Mais garde le Prevost [250],  
 
-    LE BRAS-DE-FER
+    LE BRAS-DE-FER.
         Nous courons peu de risque,  
 Cet homme environné de Chevaliers errans,  
 Prend les petits voleurs, & laisse aller les grands,  
@@ -3302,7 +3302,7 @@ Et je n'asseure pas qu'il n'ait les cuisses creuses.
     LE BRAS-DE-FER.
 A ce conte il auroit trois ventres au lieu d'un,  
 
-    LE BORGNE
+    LE BORGNE.
 Au moins il boit & mange au delà du commun,  
 N'ayme rien que la table, & n'en sort qu'avec peine,  
 
@@ -3913,29 +3913,29 @@ Qu'elle a sauvé mon bien, mon honneur, & ma vie,
 Je vous pardonne tout, & vous promets encor,  
 Que Florinde jamais n'aura que Lucidor.  
 
-    LUCIDOR
+    LUCIDOR.
 O charmante promesse !  
 
-    FLORINDE
+    FLORINDE.
         O faveur non commune !  
 
-    OLYMPE
+    OLYMPE.
 Allez vous reposer, benissez la Fortune  
 Qui fait que dés demain pour finir vos langueurs,  
 L'Hymen joindra vos corps, comme Amour joint vos cœurs.  
 Fin du cinquiesme & dernier Acte.
 
 
-# Annexes
+# Annexes.
 
 
-## LexiqueAccoutrer« Mot comique figuré pour dire maltraiter. » (Ric.)Vers 42Admirable« Qui est surprenant, merveilleux, qu'on ne peut comprendre. » (Fur.)Vers 1300, 1394Affubler« Cacher sa teste et son corps par quelques habillements qui couvrent jusqu'au visage. » (Fur.)Vers 120Aimable« Qui est digne d'estre aimé. » (Aca.) Vers 557Amant« Celuy qui aime d'une passion violente et amoureuse. » (Fur.) Vers 169, 305, 477, 578, 714Amuser« Arrester quelqu'un, luy faire perdre le temps inutilement. » (Fur.)Vers 217, 1065, 1324Aposter« Disposer, preparer quelqu'un pour s'en servir dans une meschante action. » (Aca.)Vers 300Assener« Porter un coup justement où on a dessein de frapper. » (Fur.)Vers 1006Barguigner« Marchander sou à sou quelque chose » (Fur.)Vers 769Bateau« On dit proverbialement qu'un homme est tout estourdi du bateau, quand il luy est arrivé depuis peu quelque infortune qui lui a causé quelque trouble d'esprit » (Fur.)Vers 57BesoinNécessité. (Aca.)Vers 1134, dans les vers 347 et 965, « au besoin » signifie dans la nécessité.Bourde« Mensonge » (Aca.)Vers 1519Broncher« Faire un faux pas, chopper. » (Aca.)Vers 828Brune« On dit, *Sur la brune*, pour dire, Sur le commencement de la nuit. » (Fur.)Vers 1291Cajoler« Tascher de seduire une femme ou une fille par de belles paroles. » (Aca.)Vers 134, 238Camus« On dit proverbialement, qu'un homme est bien *camus*, qu'on l'a rendu bien *camus*, pour dire, qu'il a été bien trompé, qu'il est descheu de ses pretentions, qu'il est bien honteux. » (Fur.)Vers 99Caquet« Babil. » (Aca.)Vers 185, 287 (caqueter)Casaque« Manteau qu'on met par dessus son habit, et qui a des manches où l'on fourre les bras. Les casaques sont  commodes pour les gens de cheval. » (Fur.)Vers 11ChoquerOffenser.Première occurrence dans le Vers 234.Déplaire. Seconde occurrence dans le Vers 234.Claquet« Se dit d'une petite latte de bois qui sert à la tremie d'un moulin, qui est en perpetuelle agitation, et qui fait beaucoup de bruit. » (Fur.)Vers 1041Coiffer« On dit aussi fig. *Coeffer. se coeffer. estre coeffé d'une opinion, d'une affection*, pour dire, Se préoccuper, estre préoccupé » (Aca.)Vers 1173 Commerce« Se dit aussi de la correspondance, de l'intelligence qui est entre les particuliers, soit pour des affaires, soit pour des estudes, ou simplement pour entretenir l'amitié. » (Fur.)  Vers 1287Confondre« Troubler, Mettre en desordre, Couvrir de honte. » (Aca.) Vers 207Continence« Vertu par laquelle on s'abstient des plaisirs illicites, ou qui fait qu'on modere les appetits charnels. » (Fur.)Vers 128Couleur« Signifie figurément. Pretexte, apparence. » (Aca.) Vers 489Coupe-jaret« Batteur, assassin, qui ne porte l'épée que pour battre, assassiner, et faire insulte aux autres » (Fur.)Vers 832Décevoir« Tromper adroitement. » (Fur.) Vers 525Denier« Sorte de monnoie de fonte valant la moitié d'un double et aiant cours pour la douziéme partie d'un sou. » (Ric.)Vers 104Diligence« Activité qui nous fait porter avec promptitude à executer nostre devoir, ou nos desseins. » (Fur.) Rapidement.Vers 679Donner« Commencer le combat, aller à l'assaut. » (Fur.) Vers 1005, 1016, 1551Duire« Convenir, estre utile. » (Aca.)Vers 767Échauffourrée« Emportement de colere, Mouvement subit. » (Aca.)Vers 1564Effronté(e)« Qui n'a point de pudeur, hardi à soustenir un mensonge, ou en d'autres mauvaises occasions et indecentes. » (Fur.)Vers 459Engin« Signifie en general, les outils qui servent à faire quelque rupture. » (Fur.)Vers 1386Ennuy« Il signifie… generalement, Fascherie, chagrin, deplaisir, souci. » (Aca.) Le mot a un sens très fort au XVII*e* siècle.Vers 165, 562Esprits« En termes de Medecine, se dit des atomes legers et volatils, qui sont les parties les plus subtiles des corps, qui leur donnent le mouvement, et qui sont moyens entre le corps et les facultez de l'ame, qui luy servent à faire toutes ses operations. » (Fur.) Vers 1138Estramaçon« Coup qu'on donne du trenchant d'une forte espée, d'un coutelas, d'un cimeterre. » (Fur.)Vers 969Estriller« Signifie aussi battre quelqu'un. » (Fur.)Vers 81Éventé« Se dit d'Un homme qui a l'esprit leger, écervellé, évaporé. » (Fur.)Vers 696Exercice« Occupation, travail ordinaire. » (Fur.) Vers 141Fait« Ce qui est propre, convenable. » (Fur.) Vers 277Fasciner« Il sign. fig. Charmer, Esblouir par un faux esclat. » (Aca.)Vers 876Faveur« On appelle aussi *faveurs*, certains petits presents que font les Dames. » (Fur.)Vers 220, 645, 661, 687, 723, 1051Fêlé« On dit, qu'*Un homme a la teste feslée, le timbre feslé*, pour dire, qu'Il est un peu fou. » (Aca.)Vers 696Flamme« Sign. fig. et poët. La passion de l'amour. » (Aca.)Vers 1140, 1211FlatterConsoler.Vers 174.Foi« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. » (Fur.)Vers 13Fors« Horsmis, excepté. » (Fur.)Vers 654Frivole« Ce qui n'est d'aucune valeur. » (Fur.)Vers 1523, 1584Frotter« Battre. » (Fur.)Vers 38, 39 Gaillard(e)« Borel observe que tous les mots terminez en *ard*, sont composez du Gaulois *ard*, qui signifioit *naturel*. Ainsi *gaillard* veut dire *naturel gay* … Du Cange derive ce mot de *goliardus*, qu'on a dit dans la basse Latinité pour signifier, un *bouffon*. » (Fur.) Vers 807Garderobe« Ce que les femmes de basse condition mettent par dessus leur robe pour la conserver. En ce sens il est tousjours masculin. » (Aca.)Vers 58Généreux« Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. » (Fur.)Vers 317Gentil« Beau, joli, mignon. » (Fur.) Vers 317, 368Ginguet« Petit vin qui n'a ni force ni agréement au goust, mais qui est extremement verd. » (Fur.)Vers 1011Goguette« On dit proverbialement, qu'on chante *goguettes* à quelqu'un, quand on luy dit des injures. » (Fur.)Vers 699Goujat« Valet de soldat » (Fur.)Vers 1550Gregue« Haut-de-chausses qui serre les fesses et les cuisses, que tous les hommes portoient au siecle passé, et qui est demeuré seulement aux Pages » (Fur.)Vers 1550Grotesque« Se dit figurément de ce qui est bisarre, extravagant, ridicule dans les personnes, dans les habits, dans les discours, etc. » (Fur.)Vers 876Happelourde« Faux diamant, ou autre pierre precieuse contrefaite » (Fur.)Vers 1520Hazardeux« Hardi, qui expose volontiers sa personne, son bien, sa fortune au hazard. » (Aca.)Vers 1306 Heure« On dit adv…*tout à l'heure*, pour dire, Dans un moment. » (Aca.)Vers 1311Jubé« On dit prov. *Venir à jubé*, pour dire, Se sousmettre » (Aca.)Vers 1158Lange« S'est dit quelquefois d'une piece d'estoffe dont on se couvre; et le peuple dit encore. » (Fur.)Vers 1023Lestement« D'une maniere propre et riche. » (Aca.)Vers 399Longis« Terme populaire, qui se dit des gens froids et paresseux qui sont longs à faire tout ce qu'ils entreprennent. » (Fur.)Vers 797Mago« Amas de quelque chose qu'on cache. » (Fur.)Vers 1161Mâtin« Gros chien de cuisine, ou de bassecour…se dit aussi des hommes grossiers, mal bastis de corps, ou d'esprit. » (Fur.)Vers 96 Matois« Rusé, difficile à estre trompé, adroit à tromper les autres. » (Fur.)Vers 1514Matoise« Rusé, fourbe. » (Aca.)Vers 123Merci« On dit d'un homme cruel et severe, que c'est un homme sans *merci*. » (Fur.)Vers 45Minois« Terme Burlesque, qui signifie la mine, le visage de quelqu'un. » (Fur.)Vers 1258Mouche« On dit, d'Un homme fort fin, fort rusé, que *C'est une fine mouche.* » (Aca.)Vers 107ObjetOn emploie le mot poétiquement, « pour dire, la personne qu'on aime. » (Aca.)Vers 230, 635Obligeant« Civil, courtois, prest à faire plaisir, à rendre office. » (Fur.)Vers 317Pante« *Terme de tapissier.* C'est un morceau d'étofe qui entoure le lit, et qui a d'ordinaire de la frange. Il y a trois pantes dans chaque lit. » (Ric.)Vers 86Paquet« On dit prov. *Faire son paque…*pour dire, S'en aller de quelque maison. » (Aca.)Vers 186Partie« Se prend aussi en mauvaise part, d'un complot qu'on fait pour assassiner, pour perdre quelqu'un, pour le ruiner. » (Fur.)Vers 1227Port« Se dit de la maniere de marcher, de porter son corps. » (Fur.)Vers 860Pouilles« Vilaines injures et reproches. Les gueux, les Harengeres chantent *pouilles* aux honnestes gens. » (Fur.)Vers 95Poulet« Un petit billet amoureux qu'on envoye aux Dames galantes, ainsi nommé, parce qu'en le pliant on y faisoit deux pointes qui representoient les aîles d'un *poulet*. » (Fur.)Vers 334, 733, 744, 746Poupine« Qui a le visage, et la taille mignonne, et une grande propreté dans l'ajustement. » (Fur.)Vers 432Pratique« Se dit aussi de la chalandise des Marchands et des Artisans... Un Cordonnier qui ne veut plus travailler pour quelqu'un, dit que c'est une chaude *pratique* » (Fur.)Vers 393Presse« Se dit figurément en Morale, en parlant des choses fâcheuses ou dangereuses. » (Fur.)Vers 56Produire« Il s'employe aussi en mauvaise part en parlant des personnes qui procurent la connoissance des filles desbauchées. » (Aca.) Vers 126, 443Prononcer« Decider avec autorité. » (Fur.) Dédicace.Publier« Rendre une chose publique…On dit aussi d'un indiscret, qu'il *publie* le secret de son ami, lors qu'il le découvre à quelque autre » (Fur.)Vers 450QuitterAu sens de tenir quitte, oublier.Vers 904Question« Signifie aussi la torture qu'on donne aux criminels pour sçavoir la verité de quelque crime qualifié. » (Fur.)Vers 1445Regimber« Resister, ne vouloir pas obéïr. » (Ric.)Vers 1157Réjouir« Quand on veut taxer une femme de faire trop ouvertement l'amour, on dit en termes honnestes, qu'elle se *rejouït*. » (Fur.) Vers 353, 465, 541Rouer« Rompre un criminel, et l'exposer sur une rouë. » (Fur.)Vers 869 Sainte Nitouche« On dit aussi d'un hypocrite, qu'il fait bien la *Sainte* Nitouche. » (Fur.)Vers 108Sentiment« L'Opinion qu'on a de quelque chose, ce qu'on en pense, ce qu'on en juge. » (Aca.) Vers 594, 717SiCependant.Vers 148, 272, 577, 827Souffrir« Ne se pas opposer à une chose, y consentir tacitement. » (Fur.)  Vers 17, 188, 645, 662, 1188Sousmission« Deference respectueuse. » (Aca.)Vers 1186Surmonter« Vaincre, dompter. » (Aca.)Vers 374TantôtDans les instants qui précèdent ou qui suivent celui où l'on parle : « dans peu de temps. En un moment. Tout à l'heure. » (Ric.)  Vers 69, 400, 437, 544, 697, 738, 864, 1010, 1083, 1564Tendron« Se dit figurément des filles au dessous de vingt ans. » (Fur.)Vers 377Teston« Monnaie d'argent frappée à l'effigie d'un monarque, d'abord en Italie, puis en France sous le règne de Louis XII, et qui valait à l'origine environ dix sols. » (TLFi)Vers 1159Testonner« Battre et donner des coups, particulierement sur la teste. » (Fur.)Vers 77TimideCraintif.Vers 1200Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (Fur.) Vers 217, 445, 507, 589 (transporté), 863, 1064Trame« Se dit figurément et poëtiquement en Morale, du cours de la vie. » (Fur.)Vers 1196Trinquer« Boire en debauche…. Il est du stile familier. » (Aca.)Vers 800Trogne« Terme burlesque, qui se dit d'un visage gros et laid, ou qui est rouge ou boutonné, comme celuy d'un yvrogne. » (Fur.)Vers 964Vain« Il signifie aussi, orgueilleux, superbe, et alors il ne se dit guere que des personnes. » (Aca.)Vers 639, 706 Vergaland« On dit, d'Un jeune homme, vif, alerte, et vigoureux, que *C'est un vert galant.* » (Aca.)Vers 400Vilain« Il signifioit autrefois Paysan, roturier. » (Aca.)Vers 110
+## Lexique.Accoutrer« Mot comique figuré pour dire maltraiter. » (Ric.)Vers 42Admirable« Qui est surprenant, merveilleux, qu'on ne peut comprendre. » (Fur.)Vers 1300, 1394Affubler« Cacher sa teste et son corps par quelques habillements qui couvrent jusqu'au visage. » (Fur.)Vers 120Aimable« Qui est digne d'estre aimé. » (Aca.) Vers 557Amant« Celuy qui aime d'une passion violente et amoureuse. » (Fur.) Vers 169, 305, 477, 578, 714Amuser« Arrester quelqu'un, luy faire perdre le temps inutilement. » (Fur.)Vers 217, 1065, 1324Aposter« Disposer, preparer quelqu'un pour s'en servir dans une meschante action. » (Aca.)Vers 300Assener« Porter un coup justement où on a dessein de frapper. » (Fur.)Vers 1006Barguigner« Marchander sou à sou quelque chose » (Fur.)Vers 769Bateau« On dit proverbialement qu'un homme est tout estourdi du bateau, quand il luy est arrivé depuis peu quelque infortune qui lui a causé quelque trouble d'esprit » (Fur.)Vers 57BesoinNécessité. (Aca.)Vers 1134, dans les vers 347 et 965, « au besoin » signifie dans la nécessité.Bourde« Mensonge » (Aca.)Vers 1519Broncher« Faire un faux pas, chopper. » (Aca.)Vers 828Brune« On dit, *Sur la brune*, pour dire, Sur le commencement de la nuit. » (Fur.)Vers 1291Cajoler« Tascher de seduire une femme ou une fille par de belles paroles. » (Aca.)Vers 134, 238Camus« On dit proverbialement, qu'un homme est bien *camus*, qu'on l'a rendu bien *camus*, pour dire, qu'il a été bien trompé, qu'il est descheu de ses pretentions, qu'il est bien honteux. » (Fur.)Vers 99Caquet« Babil. » (Aca.)Vers 185, 287 (caqueter)Casaque« Manteau qu'on met par dessus son habit, et qui a des manches où l'on fourre les bras. Les casaques sont  commodes pour les gens de cheval. » (Fur.)Vers 11ChoquerOffenser.Première occurrence dans le Vers 234.Déplaire. Seconde occurrence dans le Vers 234.Claquet« Se dit d'une petite latte de bois qui sert à la tremie d'un moulin, qui est en perpetuelle agitation, et qui fait beaucoup de bruit. » (Fur.)Vers 1041Coiffer« On dit aussi fig. *Coeffer. se coeffer. estre coeffé d'une opinion, d'une affection*, pour dire, Se préoccuper, estre préoccupé » (Aca.)Vers 1173 Commerce« Se dit aussi de la correspondance, de l'intelligence qui est entre les particuliers, soit pour des affaires, soit pour des estudes, ou simplement pour entretenir l'amitié. » (Fur.)  Vers 1287Confondre« Troubler, Mettre en desordre, Couvrir de honte. » (Aca.) Vers 207Continence« Vertu par laquelle on s'abstient des plaisirs illicites, ou qui fait qu'on modere les appetits charnels. » (Fur.)Vers 128Couleur« Signifie figurément. Pretexte, apparence. » (Aca.) Vers 489Coupe-jaret« Batteur, assassin, qui ne porte l'épée que pour battre, assassiner, et faire insulte aux autres » (Fur.)Vers 832Décevoir« Tromper adroitement. » (Fur.) Vers 525Denier« Sorte de monnoie de fonte valant la moitié d'un double et aiant cours pour la douziéme partie d'un sou. » (Ric.)Vers 104Diligence« Activité qui nous fait porter avec promptitude à executer nostre devoir, ou nos desseins. » (Fur.) Rapidement.Vers 679Donner« Commencer le combat, aller à l'assaut. » (Fur.) Vers 1005, 1016, 1551Duire« Convenir, estre utile. » (Aca.)Vers 767Échauffourrée« Emportement de colere, Mouvement subit. » (Aca.)Vers 1564Effronté(e)« Qui n'a point de pudeur, hardi à soustenir un mensonge, ou en d'autres mauvaises occasions et indecentes. » (Fur.)Vers 459Engin« Signifie en general, les outils qui servent à faire quelque rupture. » (Fur.)Vers 1386Ennuy« Il signifie… generalement, Fascherie, chagrin, deplaisir, souci. » (Aca.) Le mot a un sens très fort au XVII*e* siècle.Vers 165, 562Esprits« En termes de Medecine, se dit des atomes legers et volatils, qui sont les parties les plus subtiles des corps, qui leur donnent le mouvement, et qui sont moyens entre le corps et les facultez de l'ame, qui luy servent à faire toutes ses operations. » (Fur.) Vers 1138Estramaçon« Coup qu'on donne du trenchant d'une forte espée, d'un coutelas, d'un cimeterre. » (Fur.)Vers 969Estriller« Signifie aussi battre quelqu'un. » (Fur.)Vers 81Éventé« Se dit d'Un homme qui a l'esprit leger, écervellé, évaporé. » (Fur.)Vers 696Exercice« Occupation, travail ordinaire. » (Fur.) Vers 141Fait« Ce qui est propre, convenable. » (Fur.) Vers 277Fasciner« Il sign. fig. Charmer, Esblouir par un faux esclat. » (Aca.)Vers 876Faveur« On appelle aussi *faveurs*, certains petits presents que font les Dames. » (Fur.)Vers 220, 645, 661, 687, 723, 1051Fêlé« On dit, qu'*Un homme a la teste feslée, le timbre feslé*, pour dire, qu'Il est un peu fou. » (Aca.)Vers 696Flamme« Sign. fig. et poët. La passion de l'amour. » (Aca.)Vers 1140, 1211FlatterConsoler.Vers 174.Foi« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. » (Fur.)Vers 13Fors« Horsmis, excepté. » (Fur.)Vers 654Frivole« Ce qui n'est d'aucune valeur. » (Fur.)Vers 1523, 1584Frotter« Battre. » (Fur.)Vers 38, 39 Gaillard(e)« Borel observe que tous les mots terminez en *ard*, sont composez du Gaulois *ard*, qui signifioit *naturel*. Ainsi *gaillard* veut dire *naturel gay* … Du Cange derive ce mot de *goliardus*, qu'on a dit dans la basse Latinité pour signifier, un *bouffon*. » (Fur.) Vers 807Garderobe« Ce que les femmes de basse condition mettent par dessus leur robe pour la conserver. En ce sens il est tousjours masculin. » (Aca.)Vers 58Généreux« Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. » (Fur.)Vers 317Gentil« Beau, joli, mignon. » (Fur.) Vers 317, 368Ginguet« Petit vin qui n'a ni force ni agréement au goust, mais qui est extremement verd. » (Fur.)Vers 1011Goguette« On dit proverbialement, qu'on chante *goguettes* à quelqu'un, quand on luy dit des injures. » (Fur.)Vers 699Goujat« Valet de soldat » (Fur.)Vers 1550Gregue« Haut-de-chausses qui serre les fesses et les cuisses, que tous les hommes portoient au siecle passé, et qui est demeuré seulement aux Pages » (Fur.)Vers 1550Grotesque« Se dit figurément de ce qui est bisarre, extravagant, ridicule dans les personnes, dans les habits, dans les discours, etc. » (Fur.)Vers 876Happelourde« Faux diamant, ou autre pierre precieuse contrefaite » (Fur.)Vers 1520Hazardeux« Hardi, qui expose volontiers sa personne, son bien, sa fortune au hazard. » (Aca.)Vers 1306 Heure« On dit adv…*tout à l'heure*, pour dire, Dans un moment. » (Aca.)Vers 1311Jubé« On dit prov. *Venir à jubé*, pour dire, Se sousmettre » (Aca.)Vers 1158Lange« S'est dit quelquefois d'une piece d'estoffe dont on se couvre; et le peuple dit encore. » (Fur.)Vers 1023Lestement« D'une maniere propre et riche. » (Aca.)Vers 399Longis« Terme populaire, qui se dit des gens froids et paresseux qui sont longs à faire tout ce qu'ils entreprennent. » (Fur.)Vers 797Mago« Amas de quelque chose qu'on cache. » (Fur.)Vers 1161Mâtin« Gros chien de cuisine, ou de bassecour…se dit aussi des hommes grossiers, mal bastis de corps, ou d'esprit. » (Fur.)Vers 96 Matois« Rusé, difficile à estre trompé, adroit à tromper les autres. » (Fur.)Vers 1514Matoise« Rusé, fourbe. » (Aca.)Vers 123Merci« On dit d'un homme cruel et severe, que c'est un homme sans *merci*. » (Fur.)Vers 45Minois« Terme Burlesque, qui signifie la mine, le visage de quelqu'un. » (Fur.)Vers 1258Mouche« On dit, d'Un homme fort fin, fort rusé, que *C'est une fine mouche.* » (Aca.)Vers 107ObjetOn emploie le mot poétiquement, « pour dire, la personne qu'on aime. » (Aca.)Vers 230, 635Obligeant« Civil, courtois, prest à faire plaisir, à rendre office. » (Fur.)Vers 317Pante« *Terme de tapissier.* C'est un morceau d'étofe qui entoure le lit, et qui a d'ordinaire de la frange. Il y a trois pantes dans chaque lit. » (Ric.)Vers 86Paquet« On dit prov. *Faire son paque…*pour dire, S'en aller de quelque maison. » (Aca.)Vers 186Partie« Se prend aussi en mauvaise part, d'un complot qu'on fait pour assassiner, pour perdre quelqu'un, pour le ruiner. » (Fur.)Vers 1227Port« Se dit de la maniere de marcher, de porter son corps. » (Fur.)Vers 860Pouilles« Vilaines injures et reproches. Les gueux, les Harengeres chantent *pouilles* aux honnestes gens. » (Fur.)Vers 95Poulet« Un petit billet amoureux qu'on envoye aux Dames galantes, ainsi nommé, parce qu'en le pliant on y faisoit deux pointes qui representoient les aîles d'un *poulet*. » (Fur.)Vers 334, 733, 744, 746Poupine« Qui a le visage, et la taille mignonne, et une grande propreté dans l'ajustement. » (Fur.)Vers 432Pratique« Se dit aussi de la chalandise des Marchands et des Artisans... Un Cordonnier qui ne veut plus travailler pour quelqu'un, dit que c'est une chaude *pratique* » (Fur.)Vers 393Presse« Se dit figurément en Morale, en parlant des choses fâcheuses ou dangereuses. » (Fur.)Vers 56Produire« Il s'employe aussi en mauvaise part en parlant des personnes qui procurent la connoissance des filles desbauchées. » (Aca.) Vers 126, 443Prononcer« Decider avec autorité. » (Fur.) Dédicace.Publier« Rendre une chose publique…On dit aussi d'un indiscret, qu'il *publie* le secret de son ami, lors qu'il le découvre à quelque autre » (Fur.)Vers 450QuitterAu sens de tenir quitte, oublier.Vers 904Question« Signifie aussi la torture qu'on donne aux criminels pour sçavoir la verité de quelque crime qualifié. » (Fur.)Vers 1445Regimber« Resister, ne vouloir pas obéïr. » (Ric.)Vers 1157Réjouir« Quand on veut taxer une femme de faire trop ouvertement l'amour, on dit en termes honnestes, qu'elle se *rejouït*. » (Fur.) Vers 353, 465, 541Rouer« Rompre un criminel, et l'exposer sur une rouë. » (Fur.)Vers 869 Sainte Nitouche« On dit aussi d'un hypocrite, qu'il fait bien la *Sainte* Nitouche. » (Fur.)Vers 108Sentiment« L'Opinion qu'on a de quelque chose, ce qu'on en pense, ce qu'on en juge. » (Aca.) Vers 594, 717SiCependant.Vers 148, 272, 577, 827Souffrir« Ne se pas opposer à une chose, y consentir tacitement. » (Fur.)  Vers 17, 188, 645, 662, 1188Sousmission« Deference respectueuse. » (Aca.)Vers 1186Surmonter« Vaincre, dompter. » (Aca.)Vers 374TantôtDans les instants qui précèdent ou qui suivent celui où l'on parle : « dans peu de temps. En un moment. Tout à l'heure. » (Ric.)  Vers 69, 400, 437, 544, 697, 738, 864, 1010, 1083, 1564Tendron« Se dit figurément des filles au dessous de vingt ans. » (Fur.)Vers 377Teston« Monnaie d'argent frappée à l'effigie d'un monarque, d'abord en Italie, puis en France sous le règne de Louis XII, et qui valait à l'origine environ dix sols. » (TLFi)Vers 1159Testonner« Battre et donner des coups, particulierement sur la teste. » (Fur.)Vers 77TimideCraintif.Vers 1200Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (Fur.) Vers 217, 445, 507, 589 (transporté), 863, 1064Trame« Se dit figurément et poëtiquement en Morale, du cours de la vie. » (Fur.)Vers 1196Trinquer« Boire en debauche…. Il est du stile familier. » (Aca.)Vers 800Trogne« Terme burlesque, qui se dit d'un visage gros et laid, ou qui est rouge ou boutonné, comme celuy d'un yvrogne. » (Fur.)Vers 964Vain« Il signifie aussi, orgueilleux, superbe, et alors il ne se dit guere que des personnes. » (Aca.)Vers 639, 706 Vergaland« On dit, d'Un jeune homme, vif, alerte, et vigoureux, que *C'est un vert galant.* » (Aca.)Vers 400Vilain« Il signifioit autrefois Paysan, roturier. » (Aca.)Vers 110
 
 
-## Bibliographie
+## Bibliographie.
 
 
-### ŒuvresRhétorique
+### Œuvres.Rhétorique
 Poétique
 L'Intrigue des carosses à cinq sous
 La Suite du Menteur
@@ -3951,7 +3951,7 @@ Cléagenor et Doristée
 
 
 
-### Approches généralesDictionnaire encyclopédique du théâtre
+### Approches générales.Dictionnaire encyclopédique du théâtre
 Lire la comédie
 Introduction à l'analyse des textes classiques
 Rhétorique et littérature. Études de structures classiques
@@ -3961,7 +3961,7 @@ Lire le théâtre I
 
 
 
-### Ouvrages sur le contexte de l'époqueMorales du Grand Siècle
+### Ouvrages sur le contexte de l'époque.Morales du Grand Siècle
 La Formation de la doctrine classique en France
 Histoire générale des larrons
 Vocabulaire historique de la France moderne
@@ -3972,7 +3972,7 @@ La Vie quotidienne au Marais au XVII*e* siècle
 
 
 
-### Ouvrages sur le théâtre de l'époqueL'Art du comédien : déclamation et jeu scénique en France à l'âge classique, 1629-1680
+### Ouvrages sur le théâtre de l'époque.L'Art du comédien : déclamation et jeu scénique en France à l'âge classique, 1629-1680
 La Comédie de l'âge classique, 1630-1715
 Le Théâtre de l'Hôtel de Borgogne 1548-1680
 Le Théâtre du Marais
@@ -3987,7 +3987,7 @@ Le Mémoire de Mahelot
 
 
 
-### Ouvrages diversLe Théâtre et l'existence
+### Ouvrages divers.Le Théâtre et l'existence
 Qu'est-ce que la philosophie antique
 Claude de L'Estoile, poet and dramatist (1597-1652)
 L'Intérieur et l'extérieur. Essais sur la poésie et le théâtre au XVII*e* siècle
@@ -3996,7 +3996,7 @@ Les Deux cent mille situations dramatiques
 
 
 
-### Instruments de travailDictionnaire
+### Instruments de travail.Dictionnaire
 La Ponctuation
  Le Français classique. Lexique de la langue du XVII*e* siècle
 Grammaire du français classique

@@ -16,7 +16,7 @@ A PARIS, Chez CLAUDE BARBIN, dans la gran' Sale du Palais, du costé de la Sale 
 Édition critique établie par Gabrielle Jeanselme dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2008-2009)
 
 
-# Introduction
+# Introduction.
 
 Le sçay tu bien Clarine ? Ô Ciel ! est-il possible,  
 Qu'Isabelle pour moy, cesse d'estre insensible ;  
@@ -26,12 +26,12 @@ Les premiers vers de la pièce jettent d'emblée une vive lumière sur l'indél�
 Quinault nous livre ici une comédie qui n'en est pas une, une tragédie qui n'a rien que de faussement tragique, où tous les doutes les plus désespérants se révèleront sans fondement. Et tout au long de la pièce, l'auteur se jouera si finement des apparences, des genres et de leurs codes, les entremêlant sans cesse, que nul spectateur ne saura dire s'il a été plus ému des passions contrariées qu'on lui a peintes, qu'amusé des quiproquos à répétition, et toujours il doutera de qui est le plus fantôme des amoureux. C'est une véritable tragi-comédie que nous sert Quinault, dont les multiples péripéties ne cessent de nous tenir en haleine, et dont la fin heureuse, loin de nous laisser un goût de vain artifice, opère comme un véritable dénouement : elle libère et surprend. Pourtant la pièce ne connut pas un succès retentissant. Elle fut même vite oubliée, sans avoir déplu cependant. C'est cette mystérieuse ombre autour de la pièce que nous allons nous efforcer de percer ici. Et c'est en mettant au jour qui était Quinault, d'où et pour quel public il a écrit, que nous nous engagerons dans ce clair-obscur chemin.
 
 
-# Quinault : une carrière brillante semée d'embûches
+# Quinault : une carrière brillante semée d'embûches.
 
 La vie de Quinault est emplie de succès, de ses débuts applaudis dans le théâtre à ses merveilles dans la tragédie lyrique. Cependant ses réussites semblent avoir été aussi nombreuses que ses détracteurs pugnaces. Si sa carrière va en fleurissant, de sa première période d'œuvres dramatiques à sa dernière période de drames lyriques, elle connaît également des zones d'ombre. Nous allons voir, parmi les lacis de cette carrière, où prend sa place notre tragi-comédie.
 
 
-## Première période (1653-1671) : Quinault auteur dramatique
+## Première période (1653-1671) : Quinault auteur dramatique.
 
 Il faut attendre au moins un siècle pour que Quinault commence à être reconnu à sa juste valeur. Encore en 1882, Victor Fournel, dans son édition critique de la vie et du théâtre de Quinault, se sent obligé d'écrire que « Quinault vaut infiniment mieux que sa renommée vulgaire ». C'est assez montrer combien un si grand poète a pu demeurer durablement sous les coups de ses détracteurs. Ses origines mêmes ont fait l'objet de spéculations et moqueries en tous genres. Nous savons aujourd'hui que Quinault est né à Paris, d'après l'acte de baptême du 5 juin 1635 découvert par Beffara. La petite ville de Felletin dans la Creuse lui a érigé, en 1852, un buste commémoratif, qui surmonte une fontaine. Cependant cette modeste sculpture repose sur une erreur : Quinault n'est pas né à Felletin. En revanche il est possible que son père y ait vécu. Furetière a particulièrement plaisanté Quinault sur son origine :
 
@@ -160,7 +160,7 @@ Son discours de réception, ses deux harangues au roi à la tête de la compagni
 Une nouvelle ère va s'ouvrir pour lui. En 1672, Lully obtient du roi le privilège pour l'Académie royale de musique, enregistré au parlement le 27 juin de la même année. Tout d'abord, il a le soin de s'assurer la collaboration de Quinault, dont il a pu apprécié l'année précédente, à l'occasion de Psyché, le « talent pour composer des vers propres à être mis en musique [30] ».
 
 
-## Deuxième période (1672-1686) : Quinault librettiste de Lully
+## Deuxième période (1672-1686) : Quinault librettiste de Lully.
 
 Quinault travaille aux divertissements du roi, aide discrètement Benserade, Molière et Lully à composer des ballets dont Sa Majesté se délecte. Pour tous ces services discrets faits au prince, il est largement récompensé : il reçoit en 1670 un fauteuil à l'Académie française, et en 1671 la charge d'auditeur à la chambre des Comptes.
 
@@ -184,7 +184,7 @@ On ne saurait s'abstenir de noter l'étrange destinée du poète : il connaît 
 En revanche au XVIII*e* siècle, ce sera un parfait revirement. C'est en un siècle de raffinés que Quinault devait être le mieux goûté, où l'on ne cherche plus avec fébrilité les règles et la perfection du vers. En ce siècle nouveau, on aime alors « sa poésie légère et galante, sentimentale et un peu perverse, élégante et sans éclat [33] ».
 
 
-# Création du Fantôme amoureux : une réception réservée, des échos énigmatiques
+# Création du Fantôme amoureux : une réception réservée, des échos énigmatiques.
 
 À en croire Quinault dans son épître, la pièce aurait connu un certain succès. Il évoque en effet avec une satisfaction non dissimulée le « bon-heur qu'elle a eu de ne pas déplaire sur le Theatre ». En effet, la pièce est fertile en divertissements, et des plus prisés alors. Cette habile peinture de passions tragiques sans cesse traversées de situations comiques, le surgissement de machines, toute cette composition astucieuse semble faite pour recueillir les faveurs du public, alors si avide de divertissements. Le *Fantôme amoureux* est l'une des tragi-comédies les plus baroques de la seconde moitié du XVII*e* siècle. Et en dépit de tous ses appas, la pièce ne connaît, aux dires des premiers biographes, que sept représentations avant d'être retirée de l'affiche. Est-ce là un franc succès ? Ou bien s'agirait-il seulement d'un faible enthousiasme que Quinault aurait voulu déguiser? Ou bien serait-ce encore que pour des raisons toutes étrangères à la pièce et à ses appas véritables, elle n'ait pu avoir la gloire qu'elle méritait ?
 
@@ -204,10 +204,10 @@ Si la pièce n'est pas la plus célèbre sur la scène à l'époque, du moins sa
 On peut noter également, parmi les circonstances de la pièce et les inclinations du public, un certain revirement de goût, qui ne fait que s'amorcer en 1656 et que Quinault ne pouvait anticiper. L'Espagne s'est fait très populaire depuis 1640, mais entre temps et surtout à la fin des années 1660, on s'est peu à peu détourné de l'Espagne, et qui y puise son modèle ne ravira plus les faveurs du public. On se tourne alors vers les canevas italiens, les romans français ou l'histoire antique. Quinault comprend alors avec ce premier moindre-succès que le « vent littéraire a changé [36] », et en 1657, avec *Amalasonte*, « il renonce aux modèles espagnols pour situer désormais les intrigues de ses tragi-comédies dans une pseudo-Antiquité qui sera encore celle de Racine [37] ».
 
 
-# Le théâtre espagnol en France, influences et adaptations
+# Le théâtre espagnol en France, influences et adaptations.
 
 
-## La mode espagnole
+## La mode espagnole.
 
 Le regain de la tragi-comédie après 1652 s'accompagne d'un sursaut d'influence ibérique. Comme le rappelle Chappuzeau, c'est aux modèles espagnols que la France doit le perfectionnement de son théâtre :
 
@@ -244,7 +244,7 @@ La comédie à l'espagnol a permis d'exploiter les ressorts d'un procédé de la
 On trouve ce procédé à maintes reprises dans notre pièce, mais de façon toujours assez fine. Quinault sait en effet utiliser des sortes de chutes burlesques. Il sait l'art de passer des hauteurs lyriques à la trivialité d'une chute dans un fossé. C'est le cas de la chute du duc à la fin de la scène 9 de l'acte IV. Alors qu'il vient de déclamer ces vers tragiques, il se laisse tomber par mégarde dans la mine aussitôt après : « Allons, il faut nous perdre ou la sauver ? ah Cieux. » Puis c'est la chute, triviale, basse et concrète, de l'acteur dans les dessous du théâtre. On voit bien le duc passer d'une alternative hautement tragique à la chute débile de son corps sous le théâtre. Avec lui, le registre tombe du même coup de la hauteur du « cothurne de la tragédie » à la simplicité de « l'escarpin de la comédie [39], » et le burlesque est réussi.
 
 
-## La comédie espagnole sur scène
+## La comédie espagnole sur scène.
 
 Pour comprendre la comédie espagnole, il nous faut d'abord comprendre quel était le public espagnol, quels étaient les lieux dans lesquels vivait la « comedia ». Au XVI*e* siècle, les représentations ont lieu dans de longues salles fort mal agencées et à l'acoustique difficile : l'attention se lasse vite dans le public en émoi, et il faut, pour le retenir, un spectacle varié et une déclamation violente. Les spectateurs sont tous pressés les uns contre les autres, et toujours prêts aux railleries énormes. Il s'agit, pour les acteurs, de dominer le tumulte, et de ravir l'attention du public par une déclamation vive et saisissante. Ainsi naît une tradition de rapidité dramatique qui permet d'enlever un long récit et de « faire sonner un dialogue comme deux épées croisées en un duel furieux [40]. »
 
@@ -253,10 +253,10 @@ Les moyens sont rudimentaires sur le plateau : bien que les costumes coûtent d
 Dans la même direction, Quinault ouvre encore vers cette distanciation comique. Ses personnages ne sont plus du tout les héros de Lope de Vega. Plus de batailles téméraires au cœur de la nuit, plus d'action intrépide au péril de la vie. La passion criminelle est toujours là, chez le duc, mais le courage du combat a disparu : aucun des deux ennemis n'est présent durant le meurtre. Le duc a envoyé ses gardes combattre à sa place, et Fabrice s'est dissimulé, laissant un inconnu se faire tuer à sa place. On trouve donc chez Quinault une ironie certaine qui, bien qu'elle maintienne certaines caractéristiques de la passion espagnole, en élague l'héroïsme tout puissant.
 
 
-# Dramaturgie de l'adaptation
+# Dramaturgie de l'adaptation.
 
 
-## Une construction à double intrigue
+## Une construction à double intrigue.
 
 Notre tragi-comédie est une pièce à double intrigue. Le dénouement, point de départ de notre étude, est le double mariage. Ainsi, dans l'intrigue principale comme dans l'intrigue secondaire, l'événement toujours retardé est le mariage, d'une part entre Climène et Fabrice, de l'autre entre Isabelle et Carlos. Selon le principe de d'Aubignac, il faut que l'intrigue complémentaire soit « tellement incorporée au sujet principal, qu'on ne les puisse séparer sans détruire tout l'ouvrage. » Nous allons donc voir comment l'intrigue principale se noue et se dénoue par l'entremêlement avec l'intrigue secondaire, et comment cette dernière ne saurait se dénouer sans l'existence de la première. Il nous faut donc d'abord conter les deux séparément pour plus de clarté :
 
@@ -265,7 +265,7 @@ Intrigue principale : Climène et Fabrice sont sur le point de se marier, mais 
 Intrigue secondaire : Isabelle vient de faire dire à Carlos qu'elle l'aime en retour, mais cet amour est ignoré par son père qui la destine au couvent. Ils dissimulent leur relation jusqu'à ce que le père d'Isabelle les surprenne seuls chez Carlos lors de la deuxième nuit. Voyant qu'ils s'aiment honnêtement (et que Carlos est bien pourvu en argent), le père finit par accorder un double mariage.
 
 
-## Le trouble de l'identité et la confusion des rôles
+## Le trouble de l'identité et la confusion des rôles.
 
 Il apparaît, à observer ce schéma et à étudier le rôle de chacun dans le déroulement de l'action, qu'il ne soit pas évident de déterminer de façon claire qui est adjuvant ou opposant, dans une pièce où le trouble de l'identité, l'utilisation du masque, la confusion du réel et de l'imaginaire, sont en jeu. Personne n'est vraiment ce qu'il semble être :
 
@@ -278,7 +278,7 @@ De même, Jacinte est certes adjuvante du couple de l'intrigue principale, surto
 Enfin, chaque couple a un rôle totalement ambivalent dans l'action. Il est à la fois retardateur du dénouement heureux de l'autre couple, et à la fois son adjuvant. Ainsi, Carlos dissimule Fabrice, il l'aide à revoir Climène, puis à combattre le duc. Il est adjuvant de Fabrice dans son périple vers le mariage avec Climène. Cependant son erreur à l'acte IV oblige les couples à rester sur place et retarde leur fuite conjointe. Son rôle est donc ici tout à fait inverse : il retarde le double mariage. De même, c'est la recherche de Climène qui occasionne la méprise d'Isabelle à l'acte IV. C'est donc l'intrusion de l'intrigue 1 dans l'intrigue 2 qui provoque une dispute, la séparation momentanée des deux amants, et le retard de leur dénouement heureux. En revanche, à la fin de l'acte V, le mariage de Fabrice et Climène entraîne celui de Carlos et Isabelle. C'est parce que l'intrigue 1 s'est dénouée que l'intrigue 2 peut elle aussi arriver à sa fin. À cet ultime moment donc, le couple Fabrice-Climène est adjuvant du couple Carlos-Isabelle, puisque leur hyménée est précurseur du deuxième.
 
 
-### L'exposition de la double intrigue
+### L'exposition de la double intrigue.
 
 Boileau veut, dans son *Art poétique* « Que dès les premiers vers l'action préparée / Sans peine du sujet aplanisse l'entrée », et précise qu'à ses yeux « Le sujet n'est jamais assez tôt expliqué ». Selon Corneille dans ses *Discours*, la « protase » « doit fermer le premier acte ». Cet acte
 
@@ -296,7 +296,7 @@ Le premier type d'exposition de notre pièce, dans la première scène de l'acte
 Le deuxième type d'exposition de la pièce est l'exposition par une scène entre deux héros. Ainsi, Fabrice et Carlos se retrouvent à la scène 2 de l'acte I, où l'on prend connaissance des éléments acquis de la situation du couple Fabrice-Climène par la bouche de Fabrice : « Mon hymen est conclu, l'on vient de l'arrester. » Cette rencontre inopportune pour Carlos, qui veut aller voir sa belle, l'est donc en revanche pour Fabrice, mais surtout pour l'auteur qui peut achever ici d'exposer la situation initiale. Ainsi, lorsque l'action commence, d'une part un mariage est conclu, et d'autre part un amour est réciproque. On croirait plutôt entendre une fin de comédie ici, mais c'est à quelques pas de la victoire que les amants vont se faire arrêter et devenir le jouet de vains obstacles et surtout de multiples quiproquos.
 
 
-### Interaction des deux intrigues
+### Interaction des deux intrigues.
 
 Il s'agit pour nous ici de voir comment les conflits sont disposés au cours des cinq actes. À partir d'un dénouement simple (le double mariage), les obstacles se succèdent et structurent la pièce. Celle-ci étant construite sur deux intrigues simultanément, son étude doit se faire par le biais de leur interaction. Il sera donc question pour nous d'observer comment les deux intrigues s'entre-empêchent jusqu'à leur double dénouement heureux.
 
@@ -317,7 +317,7 @@ L'acte IV et l'acte des quiproquos dans la nuit. Alors que l'intrigue 1 semblait
 C'est cette confusion qui viendra engendrer les derniers obstacles au mariage dans l'acte V. Par l'erreur de Carlos, un obstacle interne au couple 2 surgit au début de l'acte V. Isabelle croit à l'infidélité de Carlos. Puis surgit son père qui veut d'abord sa mort, puis consent à leur mariage. Le dénouement est donc tout proche pour ce couple, mais il ne sera pas possible tant que l'autre couple ne sera pas heureux. En effet, dès qu'Alphonse a calmé ses foudres et accordé son consentement, il exprime sa préoccupation pour la vie de son fils, et cette préoccupation empêchera qu'il puisse véritablement permettre le mariage de sa fille. Ainsi, il faut attendre que Fabrice ait trompé le duc et obtenu de lui la vie et la main de Climène pour que tous les obstacles soient écartés. Autrement dit, c'est le duc qui fait ultimement figure d'obstacle, de figure paternelle forte et rigoureuse. Lorsque ce personnage a accepté ses erreurs, avoué sa méconduite et renoncé à ses instincts passionnels et meurtriers, l'obstacle peut se lever, les intrigues se dénouer ensemble.
 
 
-# De Calderon à Quinault, inspiration et adaptation
+# De Calderon à Quinault, inspiration et adaptation.
 
 Quinault ne copie pas le modèle espagnol, il ne subit qu'assez peu et accidentellement l'influence de la comédie espagnole. Les *Coups de l'Amour et de la Fortune* et le *Fantôme amoureux* sont écrits à une époque où plupart des auteurs, quand ils écrivent une tragi-comédie, se sentent obligés d'aller chercher leur inspiration en Espagne. Mais ces deux pièces ne sont guère espagnoles que par leurs sources.
 
@@ -336,7 +336,7 @@ Malgré les changements, l'intérêt principal demeure dans les situations de su
 Ainsi, de la pièce source, tous les motifs dramatiques et comiques sont maintenus, mais sont redimensionnés par Quinault, afin qu'ils soient à la mesure du goût français. Les intrigues sont également reconduites dans leurs grandes lignes mais rééquilibrées d'une part l'une par rapport à l'autre, d'autre part raccourcies et simplifiées dans leur ensemble pour mieux s'adapter à la durée réglementaire française. Le travail de Quinault, à partir de là, est un travail de recombinaison dramaturgique, de sélection des séquences-source à représenter sur scène, de sélection des narrations à maintenir, supprimer ou raccourcir, de remodelage et d'anoblissement des caractères, de sublimation du discours vers une sonorité plus élégante et plus précieuse.
 
 
-## Réduction du personnel dramatique et anoblissement des caractères
+## Réduction du personnel dramatique et anoblissement des caractères.
 
 Quinault adoucit et polit chaque caractère de la pièce, il élève les mœurs et anoblit les coeurs. Avant tout, il supprime le *gracisio*. Car ce personnage n'était pas bien vu des délicats : « les spectateurs français de la comédie espagnole montrent une certaine répulsion pour ce personnage qui force le rire dans les moments de tension dramatique [46]. » Sa versatilité est très forte. Quinault supprime le gros rire certes, cependant il maintient cette part de versatilité à faible degré. Si le *gracioso* n'est plus présent sur scène en tant que tel, l'humour burlesque qui lui est propre se retrouve dans la propension de chaque scène à mener des hauteurs tragiques sublimes au ridicule de personnages faibles, hésitants ou couards.
 
@@ -345,7 +345,7 @@ Il a également réduit le nombre de personnages : les six personnages nobles s
 Les personnages du fantôme et de Climène ont particulièrement été remaniés. Esprits et fantômes faisaient partie des ressorts traditionnels de la tragi-comédie, toujours à la recherche de l'effet spectaculaire. Mais, chez Calderon, l'apparition surnaturelle était à ce point effrayante que la folie s'emparait de l'héroïne. Quinault préfère atténuer le tout. Climène n'ira que jusqu'à perdre un peu la raison et le goût de la vie, se laissant errer dans les allées du jardin. De même, les apparitions du fantôme n'engendrent tout au plus que l'effroi comique des personnages. Pour compenser cette perte d'intensité dramatique, il rend les tirades de Climène si lyriques qu'elles ressemblent à s'y méprendre à l'un des plus beaux airs de cours du temps, le fameux monologue « Ombre de son amant » de Michel Lambert. Ainsi, Quinault sublime le paysage-source, il adoucit les traits originaux et les rend appréciables par le public français exigeant et policé. À la frayeur violente il substitue l'effroi comique, à la folie l'affliction lyrique, au gros rire un fin humour aux accents burlesques.
 
 
-## Une certaine concentration spatio-temporelle
+## Une certaine concentration spatio-temporelle.
 
 Sur la scène théâtrale, vers le milieu du siècle, la tendance est à la concentration dramatique. La tragi-comédie se fait plus sobre et se soumet aux règles. C'est en effet après 1640 que le lieu de la plupart des tragi-comédies tend à se resserrer. Sous l'action des règles, la tragi-comédie s'est assagie. Elle devient sentimentale et langoureuse, observant les bienséances, évitant le gros rire, les situations scabreuses, la trivialité, mais gardant les scènes et personnages comiques.
 
@@ -369,12 +369,12 @@ Alors que dans la pièce espagnole, l'action était divisée en trois longues jo
 Ainsi, on trouve dans notre pièce une limitation du temps à 24h à peu près, de la nuit à la nuit. On passe certes d'un début de nuit à une fin de nuit, d'un soir à un petit matin, mais le cadre temporel respecte la règle de vraisemblance, car après tout, en un jour et deux nuits, il ne se passe rien, pour ainsi dire, et personne n'opère de déplacement spectaculaire. Allons même plus loin, personne ne parvient à se déplacer du tout. En un mot, dans un monde d'illusions et de simulacres, où chacun menace ou feint de s'éloigner sans jamais franchir le seuil de la parole, le divertissement peut réussir sans provoquer l'invraisemblance.
 
 
-## Un exemple de resserrement de la durée
+## Un exemple de resserrement de la durée.
 
 Certaines scènes ont été supprimées. L'unité de temps a été obtenue par la suppression de longs passages. Prenons, par exemple, la blessure reçue par le galant dans la pièce originale. Dans la comédie de Calderon, cette blessure avait pour avantage d'expliquer la mort supposée du héros, mais elle exigeait trop de temps pour que le héros puisse courir et revenir sur scène. La construction de Quinault est donc beaucoup plus logique et plus resserrée. Il supprime la blessure et le récit du héros, et laisse le spectateur dans l'ignorance durant quelques scènes. Ainsi, lorsqu'on apprend à l'acte II que Fabrice n'est pas mort, la surprise est plus grande et plus agréable, le secret gardé par quelques personnages seulement, et la tension plus grande et mieux construite. Quinault transforme donc les éléments de Calderon en une véritable tragi-comédie classique. Ainsi, si la donnée est celle de Calderon, Quinault l'organise autrement. Même si la tragi-comédie est un genre libre, on ne pouvait plus faire fi, à cette date, des règles d'unité de temps et de lieu.
 
 
-## Une action toujours complexe dans un discours simplifié
+## Une action toujours complexe dans un discours simplifié.
 
 Selon Jacques Scherer [52], la notion d'unité d'action a connu une évolution notable après 1640. Notre pièce se situe bien dans cette évolution qui va vers la concentration dramatique. Après 1640 environ, chaque action accessoire doit exercer une influence sur l'action principale. On trouve cette dernière interaction dans notre pièce. Si l'intrigue principale a des répercussions sur quelques obstacles pour les amants de l'intrigue secondaire, cependant c'est surtout l'intrigue secondaire qui vient nourrir et faire rebondir l'intrigue principale. À l'acte I, Fabrice empêche Carlos d'accéder à son rendez-vous amoureux, mais cet obstacle est très vite levé, car une scène plus tard, la rencontre se fait. L'interaction n'est donc pas déterminante pour l'intrigue secondaire. À l'acte V, la méprise de Carlos est due à la présence de Climène et à l'implication de Carlos dans l'intrigue principale. Cependant le différend est réglé en une scène, et l'intrigue principale, en somme, ne sert qu'à dissimuler leur intelligence secrète, et à préserver leur amour. En revanche, leur implication dans l'intrigue principale est déterminante dans le cours que prend l'action. C'est l'aide de Carlos qui permet à Fabrice de rester sur place, à Ferrare. De fait, c'est aussi par cette aide qu'il se fera poursuivre par les gardes puis passer pour un fantôme. C'est ensuite grâce à l'aide d'Isabelle que Fabrice peut demeurer à l'abri des foudres du duc. C'est elle qui le cache dans son cabinet à l'acte II, rejointe dans son secours par Carlos, qui va au devant du duc pour le tromper et l'assurer de la mort de Fabrice. Ainsi, ces deux personnages secondaires ont à plusieurs reprises pour rôle de maintenir le quiproquo aux yeux du duc. Ainsi, l'action secondaire est véritablement dépendante de l'action principale, et l'action principale ne serait plus du tout la même si l'on supprimait l'action secondaire.
 
@@ -383,7 +383,7 @@ Si Carlos et Isabelle n'étaient pas là, il n'y aurait pas de personnage adjuva
 Dans une telle intrigue multiple, Quinault s'efforce de suivre le principe de D'Aubignac selon lequel l'intrigue complémentaire doit être « tellement incorporée au sujet principal, qu'on ne les puisse séparer sans détruire tout l'ouvrage. » Or l'intrigue Carlos-Isabelle n'est, selon le mot d'Etienne Gros, qu'un « hors-d'œuvre [53] » : leur histoire ne saurait subsister sans celle de Climène et Fabrice. Dans toute leur intrigue, on ne trouve en effet que peu de péripéties : une dans le premier acte, deux dans le deuxième, et cinq dans le dernier. Ils disparaissent ainsi durant deux actes sans que personne ne s'en émeuve. D'autant qu'aucun personnage ne semble vraiment s'intéresser à cette intrigue : ce désintérêt va même jusqu'à l'ignorance complète de cette intrigue amoureuse par le père durant quatre actes, et lorsqu'au dernier acte Alphonce découvre l'affaire, il ne fait que se jouer un instant des deux amoureux dont il se soucie peu. En réalité il s'inquiète surtout pour son fils, qu'il préfère de toute évidence à sa fille. À la fin de la scène 2 de l'acte V, il va même jusqu'à dire sa relative indifférence pour cette intrigue : son aparté « Feignons encor pourtant » montre bien qu'il n'a voulu que s'assurer des bonnes intentions de Carlos, et qu'il ne fait que s'amuser de cette situation. Certes cette situation a déchaîné chez lui de violents élans de colère, mais ces démonstrations avaient simplement pour rôle d'éprouver l'amour des deux jeunes gens, et surtout les intentions de Carlos. Sachant que Carlos est bien intentionné et qu'il est surtout bien pourvu en argent, il ne s'y oppose plus. On peut ainsi en conclure que le père n'est opposant à cet amour que tant qu'il n'en a pas connaissance, ce qui fait de lui un faux opposant, du moins un opposant par ignorance. Ainsi, dès qu'il apprend le bien fondé de cette alliance secrète, et les ressources du prétendant, il accorde aussitôt sa bénédiction. Si la résistance est si ténue dans cette intrigue, c'est que ces personnages ne servent que de ressort à la tension dramatique principale. Rien n'est plus divertissant qu'une histoire à plusieurs intrigues, qui sait insérer des respirations aux moments les plus propices, et tenir en haleine le spectateur d'un bout à l'autre, sans jamais l'avoir ennuyé. Ainsi, même si l'intrigue d'Isabelle et Carlos n'est pas rendue particulièrement palpitante, cela est fait à dessein, car cette intrigue a pour rôle d'exciter la curiosité du spectateur, de le maintenir dans une attente constante, et de le divertir du drame principal.
 
 
-## Exemples d'accélération de l'action
+## Exemples d'accélération de l'action.
 
 Quinault fait appel à certaines accélérations pour unifier l'action : les trois premières scènes de l'acte I, la plus grande partie de l'acte II, et plusieurs scènes de l'acte III ne ressemblent guère à l'original. La conduite d'un personnage peut être attribuée à un autre.
 
@@ -410,7 +410,7 @@ Il réduit aussi le récit de Julie au duc dans la deuxième journée, à une se
 Quant à l'acte V scène 5, c'est une invention de Quinault. Il invente donc le faux mur et l'ultime scène de quiproquo, peut-être la plus comique, mettant en scène les deux plus grands ennemis de la pièce enfin en présence. Aveuglés qu'ils sont par l'ombre du passage secret au bout duquel ils se trouvent, ils sont incapables de s'affronter vraiment.
 
 
-## Des mœurs espagnoles aux mœurs françaises
+## Des mœurs espagnoles aux mœurs françaises.
 
 Certaines caractéristiques de la comédie espagnole ont été directement reconduites dans la pièce française. Susceptibles de surprendre voire de choquer le spectateur français, il nous faut ici éclaircir certains points.
 
@@ -428,10 +428,10 @@ Au XVII*e* siècle, dans la littérature française, les hommes ont le droit de 
 Les morts très sanglantes sur scène ont subi une évolution en France un peu plus rapidement qu'en Espagne. Car si en 1656 Quinault s'éloigne de la pièce de Calderon en plaçant, astucieusement et selon la bienséance en vigueur, le meurtre de Fabrice hors scène, en France, au début du siècle, le public faisait preuve d'un certain goût pour les morts horribles sur scène. Nulle restriction, on aimait mettre en scène les morts les plus affreuses. C'est à partir de 1630 que les bienséances interdisent les spectacles sanglants et les exhibitions de cadavres. On évoque alors par le dialogue ce qu'on ne montre plus. Puis, vers le milieu du siècle, on bannit également du dialogue cette violence. La bienséance est une exigence morale, elle demande que la pièce ne choque pas les goûts, les idées morales, les préjugés du public. D'Aubignac précise ainsi que « la scène ne montre point les choses comme elles ont été, mais comme elles devraient être ». Le devoir être et l'être s'opposent comme la fiction à la réalité. À partir du milieu du siècle, on refuse d'aller au théâtre pour voir le réel dans toute sa violence et dans son pittoresque, mais on veut y voir un idéal de bienséance et de noblesse, de galanterie et de grandeur. Quinault se situe dans cette voie, mais est encore à mi-chemin, car s'il supprime visuellement la violence et le sang de la scène, il les maintient cependant sonorement, dans le discours de Carlos lors de sa description du spectre au Duc, à l'acte II scène 10. Le vers 691, particulièrement, peut choquer les bienséances : « Un sang livide & noir luy sortoit de la bouche ». Une telle description est le signe que l'on se trouve entre la volonté d'épuration scénique bienséante voulue par d'Aubignac et un certain pittoresque espagnol.
 
 
-# De l'escarpin de la tragédie au cothurne de la comédie : le savant tissage des ressorts tragiques et comiques
+# De l'escarpin de la tragédie au cothurne de la comédie : le savant tissage des ressorts tragiques et comiques.
 
 
-## Le quiproquo, un ressort comique essentiel
+## Le quiproquo, un ressort comique essentiel.
 
 Rares sont les scènes sans quiproquo dans la pièce, et le fondement même de l'intrigue principale en est un. Elle repose en effet sur la croyance erronée des personnages en la mort de Fabrice. Cette croyance entraîne deux quiproquos : d'une part la substitution du cadavre mal identifié au corps de Fabrice, d'autre part la substitution de Fabrice-fantôme à Fabrice-vivant. Tout le monde prend le mort pour Fabrice, puis Fabrice lui-même pour un fantôme. C'est à ce quiproquo que viendra prendre sa source toute la veine tragique de notre pièce, mais d'où jailliront aussi tous les flots comiques. Le quiproquo a en effet avant tout une fonction comique forte dans la mesure où il provoque les erreurs des personnages sous l'œil amusé du spectateur. Il a également une fonction de révélateur des intentions ou sentiments secrets dans la mesure où chaque personnage en situation de quiproquo est enclin à faire des confidences inappropriées.
 
@@ -448,7 +448,7 @@ Le quiproquo sert surtout à faire connaître des sentiments que les personnages
 Entre ces deux scènes, et en écho au quiproquo dans lequel est prise Climène, on trouve celui de Fabrice, qui croit pour un instant à la mort de sa maîtresse. C'est ici sa deuxième méprise au sujet de Climène, puisque depuis l'acte I, il croit à la trahison éhontée de celle qui lui avait promis le mariage. Il est donc rempli d'une amertume et d'une colère très âpres lorsqu'il pénètre dans le jardin de Climène à l'acte III. Il ne déguise pas son ressentiment et ses intentions vindicatives : il se dit être dans le jardin pour « chercher l'ingrate », et compte bien lui reprocher « ses services passez », « son amour inconstante » et « ses sermens faussez ». Fabrice a un naturel moins noble que celui de Climène, il est plus faible et sans éclat, et lorsqu'il échappe à la mort, ce n'est pas par une décision avisée de courage et de vie austère et fidèle, mais par simple hasard. Il avait déclaré à l'acte I : « Tu ne sçaurois mourir sans m'empescher de vivre », et cette promesse aux accents lyriques et tragiques ne sera pas suivie d'effet ici, puisque lorsqu'il croit Climène étendue sans vie, il ne s'arrache pas les cheveux, ne la rejoint pas au séjour des morts, mais prend la fuite à l'approche de pas qu'il n'identifie même pas. Si donc il ne fait pas preuve d'une réelle grandeur d'âme, cependant le quiproquo révèle chez lui la capacité à des revirements comiques. En effet, à l'acte I, il lui a suffi d'entendre quelques mots de Climène pour la croire infidèle, sans même examiner plus avant si ses mots ne lui étaient pas adressés à lui. Mais ici nous est révélée l'âme de Fabrice : c'est une âme qui se complaît dans l'illusion, qui aime à croire tout ce que son amour dit, et qui reflète comme un miroir l'image, fidèle ou fallacieuse, de son amour. Lorsque Climène paraît infidèle, il se transforme en amant dépité et vindicatif, lorsqu'elle semble avoir perdu la vie, il fait volte face, amant éperdu et fidèle jusqu'après la mort. Les revirements sont toujours aussi subits que comiques : « A ce funeste objet, qui me rend interdit, / Une tendre pitié succède à mon dépit ». Il n'y a pas de constance chez Fabrice, mais une « pante à changer tour à tour », en réponse à ce que lui peint son illusion. Il est le jouet d'une vision furtive ou d'un mot capté à la dérobée. Il n'examine pas plus avant, il est léger et souple comme la feuille, attendrissant comme un galant de comédie, amoureux et épris comme un héro de tragédie. Le personnage de Fabrice se disloque et s'articule autour des deux genres, prête à sourire autant par son ridicule que par sa simplicité tendre et sincère. Sa profession de foi est plus dans son amour de l'illusion que dans l'amour de son objet lui-même : « Tu m'obligerois de vouloir m'abuser ». Son plaisir réside dans son illusion.
 
 
-## Les stances de Climène ou l'éclosion du lyrisme
+## Les stances de Climène ou l'éclosion du lyrisme.
 
 Quinault respecte également l'évolution des règles dans son utilisation du vers. Le choix fait par Quinault de la forme et de la longueur du vers, son utilisation sobre du monologue, et son traitement raffiné de la stance sont d'un ton très juste, car Quinault sait à quel point et dans quelle mesure ils sont appréciés au moment où il écrit. De 1652 à 1658, l'alexandrin est majoritairement employé, mais dans la plupart des pièces, on varie en introduisant quelques stances ou autres lettres.
 
@@ -461,7 +461,7 @@ Le deuxième cri de douleur est plus empreint de désespoir encore. La belle sol
 L'accent tragique atteint son paroxysme avec le troisième octosyllabe. Les mots y nient si bien ce qu'ils portent pourtant comme sens, que l'agonie de la blanche victime y est admirablement rendue. Car c'est d'un véritable *tragos* qu'il s'agit ici, et lorsque les mots de la jeune femme disent sa vie et son désarroi, sa voix qui se meurt retentit comme un cri d'agonie : « Je demeure encore vivante ». Ces mots sonnent comme un *ultima verba*, avant qu'elle ne s'abatte, sans vie. Ils résonnent de façon lisse et marmoréenne, tel le repos imperturbable de la mort.
 
 
-## Hybridité et tragi-comédie
+## Hybridité et tragi-comédie.
 
 La production tragi-comique sur près d'un siècle et demi, jusqu'à la moitié du XVII*e* siècle, est très diverse, et une considérable imprécision des définitions en accompagne le développement. La tragi-comédie apparaît, avec Plaute et son *Amphitryon*, comme un mélange de personnages nobles et moins nobles ; elle peut être, comme le modèle espagnol de la *Célestine*, une comédie ensanglantée et irrégulière ; enfin, régulière chez les théoriciens et praticiens italiens, elles se présente tantôt comme une action tragique à dénouement heureux, tantôt comme une action mixte à issue heureuse. Si l'on considère la tragi-comédie française depuis le XVI*e* siècle, on aperçoit la dispersion des formes sous l'apparente unité du nom, malgré l'apparition d'éléments communs : notamment l'irrégularité, la diversité des actions engagées, le bonheur du dénouement, et un personnel mêlé. Nous allons affiner cette définition pour comprendre l'évolution du genre autour de notre période.
 
@@ -493,7 +493,7 @@ C'est peut-être en réponse à de telles accusations que Quinault soigne et pol
 Quinault, de son côté, polit sa tragi-comédie. De son aspect espagnol très baroque, il corrige les aspérités trop marquées, unifie l'action, élimine les *graciosos* d'une trop évidente bassesse, retire la mort sanglante de la scène, répond au mieux à la règle des trois unités. Cependant l'hybridité demeure, les hauteurs tragiques s'allient aux trivialités comiques, la noblesse des familles et des cœurs côtoie le ridicule de leurs comportements souvent peureux et maladroits. Si *Le Fantôme amoureux* est à l'origine une comédie, dont l'action était toute faite pour porter à rire, il devient chez Quinault une comédie ennoblie, qui porte parfois les couleurs et les sonorités tragiques (comme dans les stances de Climène), mais demeure essentiellement une pièce dédiée à l'amusement.
 
 
-## La nuit manteau des crimes et des amours secrètes
+## La nuit manteau des crimes et des amours secrètes.
 
 Il est intéressant de se pencher sur le rôle d'un personnage que nous n'avons pas mentionné jusqu'ici : le ciel, qui possède lui aussi deux visages ; celui du soleil, et celui de la lune. Tour à tour dans chaque acte, les actions se font sous le regard et avec la caution d'une autorité céleste. Le soleil, père du jour, préside aux actions justes et aux éclaircissements. Lorsqu'il se lève se retirent avec lui le voile brumeux de la nuit, les troubles et les incertitudes. Père du jour, il est aussi père de la lumière sur les choses et les êtres, père de la vérité, et celui qui donne la vie. C'est au grand jour que Climène lève le quiproquo sur sa trahison de l'acte I. Elle explique enfin et éclaircit les malentendus à la lumière du jour. De même, c'est lorsque le jour perce au milieu de la nuit, à la lueur d'une torche, au début l'acte V, que Carlos reconnaît son erreur et voit Isabelle. Enfin, c'est lorsque le jour pointe à l'horizon, à la fin de l'acte V, que Fabrice lève enfin le voile sur son identité usurpée, et se révèle comme vivant. Ainsi, au dénouement, la figure du père et celle du jour sont fortement présentes : lorsque les secrets sont révélés, la justice rétablie, les pères sont tous présents et forcés d'abdiquer et de donner leur accord. Le duc d'abord reconnaît ses erreurs et donne sa bénédiction aux deux couples, Alphonce accepte enfin de voir demeurer son fils et se réaliser le mariage, le soleil enfin père du jour, préside à ce rétablissement de la justice et à la rentrée de Fabrice dans la vie. Car pour Fabrice, il s'agit bien de renaître à la vie, de quitter son déguisement de mort et de revoir enfin le jour. Le jour est en effet plus que la lumière opposée aux ténèbres, il est avant tout la vie opposée à la mort. Depuis le premier coucher de soleil du premier jour, Fabrice est en danger de mort. Avec la tombée de la nuit, il voit le jour s'enfuir et ses propres jours être l'objet d'un péril certain. Durant le deuxième acte, il ne peut voir le jour, et reste présent comme un absent, comme un fantôme, dissimulé dans les recoins des habitations. À l'acte III il revoit le jour mais comme fantôme, c'est-à-dire sous son déguisement, il n'appartient donc plus au règne des vivants mais bien à celui des morts, puisque son court séjour au jardin lui est funeste et triste, alors qu'à la tombée de la nuit il retrouve son amour et sa vitalité avec l'apparition de la lune et de sa bien-aimée.
 
@@ -508,7 +508,7 @@ Soir | Nuit (jusqu'au point du jour) | Jour | Soir (puis nuit) | Nuit (jusqu
 
 
 
-## Les représentations du monde dans la tragi-comédie
+## Les représentations du monde dans la tragi-comédie.
 
 Les représentations du monde et le réalisme tragi-comiques renvoient à la théâtralité et à l'ornement. De même, le traitement de l'illusion souligne toujours de façon explicite l'écart entre le délire et le réel : l'illusion tragi-comique, depuis le début du siècle, propose une imitation relative du réel. Elle maintient ainsi une distance entre la chose imitée et la chose qui imite. Le spectateur assiste à une représentation qu'il connaît être vraie et fausse à la fois, il ne peut jamais tomber dans l'hallucination totale d'une illusion parfaite. La convention du spectacle est soulignée. Ce qu'Hélène Baby appelle les « parenthèses de l'esprit [59] », véritables suspensions dramatiques, permettent, grâce à leur nature de frontière, de figurer parfaitement cette « lisère qu'est l'illusion tragi-comique [60] ». L'esthétique tragi-comique ne tend jamais vers l'illusion totale des pièces baroques ni vers l'illusion parfaite des aspirations classiques. Elle souligne le hiatus entre illusion et réalité, joue de cet écart propre à la fiction, et empêche le spectateur de s'écrier, comme le duc à l'acte V : « Est-ce une verité, seroit-ce point un songe. » La tragi-comédie assume donc un rapport indirect entre l'objet littéraire et le réel, dans une perspective qui est propre aux années 1630, et que les bouleversements de la pensée vont faire disparaître. Elle ne se sert pas alors de la fiction pour penser le monde, mais du monde pour construire la fiction et penser les rapports avec le réel.
 
@@ -519,7 +519,7 @@ En revanche, à partir du milieu du siècle, cette convention change, ainsi que 
 Espace réservé au spectacle, l'œuvre d'art deviendra par la suite un lieu où la question de la vraisemblance ne se posera plus, car la machine incarnera, actualisera et fixera, dans son fonctionnement, celui de la convention. Quinault illustre déjà les préoccupations classiques : les rapports du réel à l'œuvre ne sont plus pensés, mais tantôt représentés dans l'univocité magique de la rupture, et tantôt dissimulés dans la continuité transparente de l'imitation.
 
 
-## Le masque et le visage, jeu dichotomique sur l'identité
+## Le masque et le visage, jeu dichotomique sur l'identité.
 
 Au cœur de la pièce repose une problématique baroque fondamentale : celle de l'identité. Qui est Fabrice ? Un fantôme ou un homme de chair et de sang ? Un homme amoureux ou un fantôme d'amoureux ? L'homme qui aime Climène ou celui qui la déteste ? De même, Climène est-elle l'amante éplorée de l'acte III, ou la traîtresse de l'acte I ? Est-elle l'amante de Fabrice ou bien la maîtresse du duc ? En vérité, une réponse tranchée se révèle très difficile à donner. La position fondamentale de la dichotomie baroque est la suivante : « *todo es verdad y todo mentira* ». Tout est vrai et faux à la fois, le personnage n'est pas celui que l'on croit, il est deux personnes à la fois, deux visages tour à tour. Il se dédouble au cours de l'action, montre deux visages, provoque l'illusion, l'erreur, la désillusion, la connaissance et la reconnaissance. Si Fabrice n'est pas un véritable fantôme, il est cependant un fantôme d'amoureux, dissimulé et impuissant, empêché et peureux. S'il est le véritable Fabrice fait de chair et de sang, il échoue cependant à s'affirmer comme tel et à dire ses intentions aux autres personnages : son père, qu'il craint, Climène, qu'il peine à rejoindre, son ennemi, qu'il fuit. De même, il est tour à tour celui qui aime Climène d'un amour inaltérable et pétrifiant (il ne peut se résoudre à s'éloigner de Climène), et celui qui la déteste et ne vit que pour cela (depuis sa trahison à l'acte I jusqu'à son aveu à l'acte III). Alexandre Cioranescu [62] analyse cette dichotomie baroque ainsi :
 
@@ -544,7 +544,7 @@ Fabrice, lui, est à la fois usurpateur et déguisé. D'un côté il se cache de
 On voit bien comme le déguisement et l'illusion sont à l'œuvre tout au long de la pièce. C'est sur ce principe que repose l'intrigue, les erreurs des personnages, la reconnaissance finale et tous les obstacles intermédiaires, qui ont permis de repousser cette fin le plus longtemps possible. Sans illusion de la mort de Fabrice, sans déguisement de Fabrice en fantôme, et illusion réussie sur les autres personnages, c'est l'action toute entière qui aurait eu un autre visage et n'aurait pu porter le nom de *Fantôme amoureux*.
 
 
-# Étude de la scénographie
+# Étude de la scénographie.
 
 Nous ne trouvons, dans les *Mémoires* des décorateurs qui ont succédé à Mahelot, rien sur le dispositif scénique qui fut utilisé pour cette pièce, ni sur la distribution des rôles. Nous savons cependant que la troupe des Grands Comédiens était alors dirigée par Floridor, le plus grand acteur de son siècle. Parmi ces illustres acteurs, certains durent participer à la création de notre pièce en 1656. Cette troupe comptait Bellerose, qui avait interprété les grands personnages tragiques de Corneille, et avait précédé Floridor à la tête de la troupe puis s'était retiré en 1646, qui joua jusqu'en 1660 ; de Villiers, qui avait inventé le personnage comique de Philippin ; Montfleury, qui excellait autant dans les rôles d'empereur que dans ceux de valet burlesque ; Beauchâteau qui pourtant, aux dires de Boileau, était un « exécrable comédien » ; La Baron qui brillait dans les rôles de tendresse ; mademoiselle Bellerose qui fut la Camille, la Cléopâtre et l'Emilie de Corneille ; mesdemoiselles de Villiers et de Beauchâteau qui avaient respectivement interprété Chimène et l'Infante lors de la crétion du *Cid* au Marais.
 
@@ -567,7 +567,7 @@ La production de lumière nocturne est celle qui nous intéresse particulièrem
 Cela nous permet donc de supposer que dans notre pièce, lors de la scène de retrouvaille des amants au début de l'acte IV, un *velum* a pu être utilisé. La description que Fabrice fait de l'apparition de la lune et de l'éloignement du soleil permet de penser qu'un *velum* a pu se déployer à ce moment là, tandis que la lumière diminuait sur la scène. Le dispositif du velum permet ainsi une apparition sonore et visuelle de l'astre de la nuit, astre qui demeurera tant que durera la nuit, et trônera au-dessus des personnages comme le gardien de leurs unions secrètes.
 
 
-## Les spectateurs sur scène et la liaison des scènes
+## Les spectateurs sur scène et la liaison des scènes.
 
 Nous pouvons penser que certains spectateurs étaient présents sur la scène au moment des représentations, ce qui pouvait gêner l'avancée des spectateurs. Charles Perrault note dans ses *Parallèles des Anciens et des Modernes* de 1688, que les entrées et sorties des spectateurs étaient rendues
 
@@ -586,14 +586,14 @@ Il est également important de justifier les entrées mais surtout les sorties d
 Ces indications de mouvements ne sont donc pas contenues dans des didascalies, ce qui se fera plus par la suite, mais elles sont bien contenues dans les dialogues directement.
 
 
-## Des indications scéniques
+## Des indications scéniques.
 
 Le texte doit se suffire à lui-même, il n'est pas besoin de didascalies ni même de signalisation des changements de scène : D'Aubignac dit ainsi que « le poète doit faire parler ses acteurs avec tant d'art qu'il ne soit pas même nécessaire de marquer la distinction des actes et des scènes, ni même de mettre les noms des entreparleurs ». Les auteurs du XVII*e* siècle ont pensé comme d'Aubignac et ont été économes d'indications scéniques et ont donné le plus d'indications possibles dans le texte même. Sans doute se méfiaient-ils des imprimeurs de leur temps : il arrive assez souvent que ceux-ci défigurent ou déplacent les indications scéniques, attribuent à un personnage les répliques prononcées par un autre ou omettent dans l'intitulé d'une scène le nom d'un personnage. Ainsi les indications scéniques sont-elles minimalistes dans notre texte. On trouve seulement une vingtaine de didascalies, dont la plupart son très succinctes. Ce sont trois ou quatre mots seulement pour indiquer que Fabrice fuit à l'acte I, encore quelques uns pour annoncer que les gardes le suivent. Ces gestes parlent en effet d'eux mêmes et donneraient moins d'effet à être seulement décrits par un personnage. À l'acte II, la didascalie précise que l'on montre un corps massacré sur un lit. On aura donc à suggérer cette mort toute proche des personnages, et non à l'exhiber sur le devant de la scène. À l'acte III, la didascalie indique un bruit cette, fois, celui de la mine qui s'entrouvre. Il s'agira donc ici d'utiliser des bruitages pour donner plus d'effet à cette scène aux allures surnaturelles. À la suite de cela, on trouve encore une didascalie explicitant les gestes de Climène. Très succinctement, on sait qu'elle devra s'évanouir, sa chute funeste donnera plus de tension à l'action, et peut-être aussi une petite touche burlesque, puisque ce sera le moyen de manquer une fois de plus son amant.
 
 Ainsi, les indications scéniques sont très rares et très succinctes lorsqu'elles apparaissent. Elles sont donc, pour leur majorité, beaucoup plus contenues dans les répliques que notées en didascalies. Notons, par exemple, à l'acte III, l'exclamation du duc à la vue du dédain de Climène, ces vers suffisent à indiquer le jeu du personnage, un geste de lassitude, un regard outré. De façon analogue, au même acte, la description de la pâleur de Climène par Jacinte permet de présumer que son visage devra être fardé d'une manière particulière, que ses traits devront se ressentir d'une certaine langueur funeste. Plus parlant encore, lorsque Climène se défend de Valère qui tente de l'emmener de force à l'acte III, on comprend aussitôt qu'il a dû avoir un geste violent, une action coercitive quelconque qu'il faudra rendre avec vigueur.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Notre édition a été établie à partir du texte original, première édition du *Fantosme amoureux* de Philippe Quinault, imprimée en 1657 à Paris chez Claude Barbin.
 
@@ -616,7 +616,7 @@ IX, X : Privilège du Roi.
 Le texte que nous avons reproduit dans la présente édition suit exactement le texte original publié en 1657 chez Claude Barbin. Le document original se trouve au département Arts du spectacle de la Bibliothèque Richelieu, et en raison de sa grande fragilité, on ne peut le consulter que sous la microfiche 8 – RF- 6757. Cet exemplaire a été suivi fidèlement, car d'une part nous tenions à rester près de la graphie d'origine, et d'autre part il ne comportait que très peu d'erreurs de frappe, et aucune de ponctuation. Nous avons également consulté les éditions ultérieures à l'édition originale, celles de 1715, de 1739 et de 1778, publiées chez Jean Ribou, qui nous ont certes apporté un élément biographique important, la *Vie de Quinault* par Boscheron, mais aucun changement édifiant quant au texte lui-même, si ce n'est de nombreuses erreurs de frappe et de ponctuation, que nous aurions dû corriger et supprimer si nous avions travaillé à partir de ces exemplaires.
 
 
-## Éléments de modernisation
+## Éléments de modernisation.
 
 Nous avons tenu à rendre le plus fidèlement possible la graphie originale. Mais sur de rares points, nous avons voulu faciliter l'intelligence du texte : Ainsi, pour plus de clarté, nous avons distingué le –i du –j, confondus en –i dans le texte d'origine, et le –u du –v, confondus à l'époque en –u. Nous avons remplacé les tildes «  » par les groupes nasalisés –en, –an, -on, am-
 
@@ -625,7 +625,7 @@ et -om. De même, nous avons introduit des accents diacritiques là où ils manq
 De même, l'orthographe encore polymorphe et non régulée du XVII*e* siècle n'a pas été modernisée. Il était question pour nous de rendre au mieux le texte dans la langue de l'époque qui, bien qu'étant déjà du français, n'en chantait pas moins d'une toute autre façon. Nous avons donc préféré cette irrégularité orthographique qui sert la diction classique à une modernisation qui s'en serait éloignée. On trouvera souvent des mots orthographiés de plusieurs façons différentes dans notre texte ; nous avons tenu à maintenir cette hésitation orthographique, signe d'une richesse de la langue en pleine évolution.
 
 
-## Les voyelles
+## Les voyelles.
 
 Le tréma apparaît fort souvent dans le texte, nous expliquons ici la raison de ses diverses utilisations.
 
@@ -662,7 +662,7 @@ La voyelle nasale an hésite entre la graphie –en et la graphie –an : on t
 De même les anciennes diphtongues nasales ain et ein oscillent entre la graphie *ein* et la graphie *ain*. on trouve en effet *estainte* au vers 659 et *esteint* au vers 1110, *tainte* au vers 817 et *teint* au vers 492.
 
 
-## Consonnes
+## Consonnes.
 
 On trouve indifféremment les graphies *s* et *z* pour noter le son  z. Ainsi, au vers 69 on a *orison* pour *horizon*, alors qu'on a *hazard* pour *hasard* aux vers 669 et 997, *hazardes* pour *hasardes* au vers 1228, et *oze* pour *ose* au vers 1010.
 
@@ -683,7 +683,7 @@ L *h* :
 – En revanche, un *h* non-étymologique peut être rajouté devant une voyelle pour éviter l'élision ou la liaison. Nicot note en 1606 : « Le François le prononce de plus forte haleine, et par aspiration » ; « il faut observer qu'en quelques mots qui n'avoient point d'*h*, dans le latin et qui en prennent une françois elle se prononce ; par exemple en *haut* qui vient *d'altus*. » Ce phénomène a dû s'étendre à la diction, comme le montre le *h* de herreur au vers 1378.
 
 
-## Étymologie
+## Étymologie.
 
 D'une part, on trouve des marques étymologiques fortes comme les lettres adscrites. Ainsi, on trouve *escrire* pour *écrire* et *advertir* pour *avertir*. Le *d* de *advenir* est une lettre diacritique adscrite qui montre que le *u* a bien la valeur d'un *v*, mais c'est aussi une lettre étumologique vient aussi du latin *advenio*.
 
@@ -702,7 +702,7 @@ De même, les désinences sont souvent approximatives :
 – De même, au vers 172 on trouve la graphie *exité* pour *excité* ; ici aussi, la phonétique est respectée mais l'étymon, *excitare*, disparaît.
 
 
-## Corrections de mots entiers dans un vers
+## Corrections de mots entiers dans un vers.
 
 Il nous a semblé pour ces deux vers, que le sens nécessitait la substitution d'un mot entier pour un autre (On note ici l'erreur d'origine à chaque fois, la version corrigée se trouvant dans notre texte) :
 
@@ -711,7 +711,7 @@ v. 839 : *Et souffrons nos sanglots, interdisons nos pleurs*
 v. 522: *Je me sens plus atteint de tes coups que moy-mesme*
 
 
-## Erreurs de frappe
+## Erreurs de frappe.
 
 On note ici l'erreur d'origine à chaque fois, la version corrigée se trouvant dans notre texte.
 
@@ -744,12 +744,12 @@ v. 1743 : *veillez*
 v. 1702 : logis,
 
 
-## Erreurs de numérotation de cahier
+## Erreurs de numérotation de cahier.
 
 p. 55, on a cahier  F iiij au lieu de  E iiij
 
 
-## Erreurs de prosodie
+## Erreurs de prosodie.
 
 v.843 : *au dedans* (suppression de *au*)
 
@@ -758,7 +758,7 @@ v.1233 : *encore* (suppression du *e*)
 v.1713 : *encore* (suppression du *e*)
 
 
-## Sur la ponctuation
+## Sur la ponctuation.
 
 Le point d'exclamation et le point d'interrogation sont souvent confondus dans la littérature du XVII*e* siècle, exprimant tous deux une certaine émotion dans le ton de la voix qui monte. Mais à l'époque où paraît cette pièce déjà, on distingue les deux ponctuations. Nous avons donc bien différencié les deux points afin qu'ils correspondent à une lecture moderne.
 
@@ -771,12 +771,12 @@ Le point peut avoir la valeur d'une longue pause, entre deux propositions. Ainsi
 De même, il arrive souvent que des phrases interrogatives se terminent par un simple point. Cela indique que la question est purement informative, qu'il n'y a aucune marque d'émotion ni de montée de la voix à la fin du vers. Nous avons maintenu cette ponctuation.
 
 
-## Erreurs de ponctuation
+## Erreurs de ponctuation.
 
 v. 205 : *Reignez rien*
 
 
-## Erreurs de grammaire
+## Erreurs de grammaire.
 
 v. 288 : *t'est*
 
@@ -811,7 +811,7 @@ v. 595 : *Percer* pour *percé*
 v. 1460 : *Toucher* pour *touchée*
 
 
-# LE FANTOSME AMOUREUX TRAGI-COMEDIE
+# LE FANTOSME AMOUREUX TRAGI-COMEDIE.
 
 
 ## EPISTRE A MONSEIGNEUR, MONSEIGNEUR LE COMTE DE SAINT AIGNAN [66], CONSEILLER DU ROY EN SES CONSEILS D'ESTAT, Lieutenant General en ses Armées, & premier Gentilhomme de la Chambre.
@@ -943,7 +943,7 @@ Je m'en vais l'advertir comme vous souhaitez,
 Et je viendray bien-tost, si vous voulez m'attendre,  
 Ou vous faire monter, ou la faire descendre.  
 
-    CARLOS *seul.*
+    CARLOS *seul.*.
 Qu'il est doux d'attendrir un cœur fier & cruel ?  
 Que l'Amour est charmant, quand il est mutuel,  
 Et qu'un captif ressent de charmes dans ses peines,  
@@ -955,7 +955,7 @@ Je discerne aisement, que cette porte s'ouvre,
 C'est sans doute Isabelle, il se faut avancer.  
 
 
-### SCENE II
+### SCENE II.
 CARLOS, FABRICE.
 
 
@@ -982,7 +982,7 @@ Amy…
     FABRICE.
         Je suis certain que c'est ce qui t'ameine,  
 
-    CARLOS *à part.*
+    CARLOS *à part.*.
 Qu'il est ingenieux [74] à me tirer de peine.  
 
     FABRICE.
@@ -1022,11 +1022,11 @@ Et qu'il diminuëroit si tu n'y prenois part,
 Mais de nostre maison qui peut sortir si tard.  
 
 
-### SCENE III
+### SCENE III.
 CLARINE, FABRICE & CARLOS.
 
 
-    CLARINE* s'adressant à Fabrice, croyant parler à Carlos.*
+    CLARINE* s'adressant à Fabrice, croyant parler à Carlos.*.
 Entrez, entrez Seigneur, ma Maistresse⁎ Isabelle  
 Vous attend en sa chambre & veut…  
 
@@ -1064,7 +1064,7 @@ Tes desirs sont les miens, tu dois n'en douter pas.
     FABRICE.
 Entrons…  
 
-    CARLOS *à part.*
+    CARLOS *à part.*.
         Que ce succez⁎ favorise ma flamme⁎.  
 
     FABRICE *arresté par Climene*.
@@ -1348,7 +1348,7 @@ Il faut nous éclaircir, approchons doucement.
 LE DUC, CLIMENE, FABRICE, JACINTE, VALERE, GARDES.
 
 
-    CLIMENE *s'adressant au Duc, & croyant parler à Fabrice.*
+    CLIMENE *s'adressant au Duc, & croyant parler à Fabrice.*.
 Que peus-tu souhaiter, où viens-tu cher Amant.  
 
     FABRICE *à part*.
@@ -1653,7 +1653,7 @@ ALPHONCE, CLARINE, ISABELLE.
     ALPHONCE.
 Ah ma fille ? ah ma fille ?  
 
-    ISABELLE *à part.*
+    ISABELLE *à part.*.
         Il paroist furieux [96],  
 Je lis trop clairement mon mal-heur⁎ dans ses yeux.  
 
@@ -1675,7 +1675,7 @@ Quoy, quel mal-heur⁎ mon Pere ?
         Isabelle, Isabelle,  
 Ce n'est plus de ce nom qu'il faut que l'on m'appelle.  
 
-    ISABELLE *à part.*
+    ISABELLE *à part.*.
 Je feindrois vainement, il faut tout confesser.  
 
     ALPHONCE.
@@ -2036,7 +2036,7 @@ Je n'y contredits point, dépeschons-nous d'entrer.
 
 ### SCENE IX.
 
-    CARLOS* sortant du Cabinet.*
+    CARLOS* sortant du Cabinet.*.
 Ils sont entrez tous deux, sortons sans differer.  
 Le sort à mes desirs cesse d'estre contraire,  
 Je puis sortir ; mais quoy, j'entends la voix du Pere.  
@@ -2059,7 +2059,7 @@ Que son mal cessera si Fabrice respire ;
 Enfin je le souhaitte, & suis icy monté  
 Afin de m'éclaircir de cette verité.  
 
-    ALPHONCE, *montrant au Duc le corps qui est sur le lict.*
+    ALPHONCE, *montrant au Duc le corps qui est sur le lict.*.
 Seigneur il est aisé de vous tirer de peine,  
 Voicy mon fils, jugez si la perte est certaine,  
 Vous le craignez vivant, ne le craignez plus mort,  
@@ -2069,7 +2069,7 @@ Voyez son sang glacé qui fume à vostre abord.
 C'est trop, j'ay de sa perte une asseurance entiere,  
 Mais que faisoit Carlos en ce lieu sans lumiere.  
 
-    CARLOS *à part.*
+    CARLOS *à part.*.
 Pour sauver nostre amy, feignons addroitement.  
 
     LE DUC.
@@ -2361,7 +2361,7 @@ Elle tombe sur un Gazon évanouye.
 FABRICE, CLIMENE.
 
 
-    FABRICE *sortant de la Mine.*
+    FABRICE *sortant de la Mine.*.
 Grace aux soins⁎ de Carlos, & malgré le destin,  
 J'ose esperer de voir Climene en ce jardin,  
 Mais pour cacher à tous cette estrange aventure,  
@@ -2564,7 +2564,7 @@ Où puis-je me sauver.
     JACINTE *en s'enfuyant*.
 Je ne reconnois⁎ plus que la peur pour Maistresse⁎.  
 
-    FABRICE *retenant Climene.*
+    FABRICE *retenant Climene.*.
 Vous me fuyez ingratte & perfide beauté,  
 C'est faire aller trop loin vostre legereté :  
 Si sur vostre ame encor quelque justice regne,  
@@ -2684,7 +2684,7 @@ Ah ! Monsieur le Fantosme ayez pitié de moy ;
 Je reconnois ma faute, & je vous fais promesse  
 De ne trahir jamais ny vous, ny ma Maistresse⁎.  
 
-    FABRICE *à part*. 
+    FABRICE *à part*.
 Qu'enten-je ? il faut sçavoir les secrets jusqu'au bout,  
 Ne me déguise rien, aussi bien je sçay tout.  
 
@@ -2735,7 +2735,7 @@ Ce Dieu sçait tousjours l'art de faire des miracles.
 Fin du troisiéme Acte. 
 
 
-## ACTE IV.****
+## ACTE IV.****.
 
 
 ### SCENE PREMIERE.
@@ -2763,7 +2763,7 @@ On marche, & si mes yeux sont des tesmoins fideles,
 Je voy venir enfin ce miracle des Belles.   
 
 
-### SCENE II
+### SCENE II.
 CLIMENE, FABRICE.
 
 
@@ -2948,7 +2948,7 @@ Sa Mere est fort prudente, & ses conseils solides
 Seront un grand secours pour vos esprits⁎ timides⁎ ;  
 Souffrez⁎ que je vous meine en son appartement.  
 
-    CLIMENE *parlant tout bas.*
+    CLIMENE *parlant tout bas.*.
 Seigneur, cette priere est un commandement ;  
 De le suivre en ce lieu je ne puis me deffendre,  
 Puis qu'aussi bien Fabrice a dessein de s'y rendre :  
@@ -3000,7 +3000,7 @@ N'importe, il faut encor que je m'en éclaircisse.
 CARLOS, VALERE, LE DUC, suitte.
 
 
-    CARLOS *sortant de la mine.*
+    CARLOS *sortant de la mine.*.
 Secourons nostre amy, ce bruit me fait juger  
 Que ses jours⁎ en ces lieux courent quelque danger.  
 
@@ -3273,7 +3273,7 @@ Vous voyez en ce lieu Climene qui m'attent.
     LE DUC.
 Conduis-la ? c'est assez, je sortiray contant.  
 
-    CARLOS *à Isabelle.*
+    CARLOS *à Isabelle.*.
 Madame c'est Carlos, suivez mes pas sans crainte,  
 Parlez bas…  
 
@@ -3565,7 +3565,7 @@ Vous l'aymez :
     CARLOS.
         O sort trop inhumain.  
 
-     ISABELLE.
+    ISABELLE.
 Il faut me disposer à mourir de sa main :  
 Mon Pere ?  
 
@@ -4108,7 +4108,7 @@ Registré sur le Livre de la Communauté des Libraires le 4. Octobre 1656. Sign�
 Achevé d'imprimer le Sixième Octobre 1656.
 
 
-# Glossaire
+# Glossaire.
 
 Tous les termes de ce glossaire ont été signalés par un astérisque dans le texte. Nous relevons ici, pour chaque terme, les acceptions qui ont subi une évolution depuis le XVII*e* siècle. Nous nous référons à trois dictionnaires datant du XVII*e* siècle :
 
@@ -4119,24 +4119,24 @@ Tous les termes de ce glossaire ont été signalés par un astérisque dans le t
 – le Dictionnaire de l'Académie françoise, publié en 1694.AdvisContrairement à aujourd'hui, on entendait par là principalement au XVII*e* siècle un « avertissement, instruction qu'on donne à quelqu'un de quelque chose qu'il ignore. »(Furetière)V. 86, 294, 600, 1347AdvantageRichelet donne les synonymes suivants : « Grâce, faveur, bienfait. »V. 101, 129Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. » (Furetière) Richelet dit encore : « charmes puissans, grans atrais »V. 220, 447Atteinte« Coup dont on est atteint. (…) On dit figurément, Une atteinte mortelle, pour dire, L'impression vive & douloureuse que fait une chose dont on est sensiblement touché » (Académie française)V. 835, 1336BizarreFantasque, capricieux.V. 377Bon-heurOn retiendra l'idée de « prospérité, événement heureux, bonne fortune » (Académie Française).V. 30, 72, 87, 97, 756Il peut aussi renvoyer au plaisir.V. 426 et 1354Civil« Ce qui est honneste et raisonnable » (Furetière)V. 125ConfondreIl prend dans notre texte deux sens, celui de *méprise* ou de « meslange confus de plusieurs choses » (Furetière) V. 693, 1364, 1462, 1617Fondre ensemble, mêler harmonieusement ; Furetière explique que « c'est un composé de fondre, qui ne se dit point au propre, mais au figuré. Il signifie, Mesler deux ou plusieurs choses ensemble. »V. 44Connoistre « Discerner les objets, les distinguer » (Académie française), il peut être ainsi glosé par *voir* ou *reconnaître*.V. 58, 111, 134, 165, 185, 320, 517, 585, 803, 914, 984, 1003, 1013, 1014, 1033, 1132, 1244, 1312, 1391, 1418, 1582, 1682Mais il signifie aussi « avoir quelques habitudes avec quelqu'un » (Académie française). Cette syllepse sur ce mot n'est pas sans importance pour la compréhension de notre pièce, où l'on distingue mal le fantôme du vivant, l'amante de la sœur, le rival du parfait inconnu, et où toutes ces méprises et indistinctions engendrent un doute plus profond : la méconnaissance de l'autre.ConstammentAvec constante.V. 1566Contrainte, Se contraindreNous trouvons chez Richelet que* Se contraindre*, c'est « se forcer, se violenter, faire avec une répugnance qui ne soit pas visible », attitude bien contraire à la spontanéité des transports d'amour qu'éprouve Fabrice pour Climene.V. 310, 485, 649, 761, 972, 1159, 1352Défaut« Absence, manque, privation de quelque personne, de quelque chose. » (Académie Française)V. 772, 1106DevantSens temporel qui l'assimile à l'adverbe avant.V. 625, 1656Diligence« Prompte exécution » (Académie Française) ; *en diligence* signifie donc *promptement*.V. 86, 458, 793, 1284, 1324Disgrace« Malheur, accident » (Furetière)V. 461, 481, 629, 769, 884, 936, 1262, 1267DivertirCe mot a le sens vaste de « détourner, distraire » (Académie Française), le sens d'amusement n'étant que secondaire. Furetière donne une définition plus développée : « détourner quelqu'un, l'empêcher de continuer son dessein, son entreprise, son travail. »V. 798, 806Empire« Se dit figurément en Morale, de la domination, du pouvoir qu'on a sur quelque chose. » (Furetière)V. 1152, 1418Ennuy« Tristesse, déplaisir. » (Furetière)V. 235, 529, 701, 727, 731, 777, 835, 915, 1029, 1112, 1114Entretenir« Parler à quelqu'un, tenir quelque discours à quelqu'un » (Académie française)V. 148, 358, 579, 1017, 1043, 1076Esprit« Les facultés de l'âme raisonnable », ce qui englobe l'imagination, la conception, le jugement. (Académie Française)V. 635, 792, 1561, 1601Âme, cœur, sentiments.V. 380, 769, 784, 1441Esprit renvoie au « caractère qui fait voir l'âme, le cœur et la conduite d'une personne » (Richelet)V. 1067, 1415« Dessein, intention » (Richelet).V. 748« Âme de personne morte » et « esprit folet. Sorte d'esprits qu'on croit qui reviennent & font du bruit dans les maisons. » (Richelet)V. 695, 1057, 1080, 1288, 1293, 1304, 1305, 1306, 1314« Au pluriel, sont des petits corps légers, subtils & invisibles, qui portent la vie et le sentiment » (Académie française)V. 945, 1208Furetière distingue *l'esprit animal* de *l'esprit vital* : « l'esprit animal est engendré dans les ventricules du cerveau (…) & se respand dans les nerfs pour leur bailler sentiment & mouvement » ; tandis que « l'esprit vital se fait dans le cœur, & se respand dans les arteres pour les fonctions de la vie ».Lorsque Climène dit qu'elle sent Fabrice vivre dans ses esprits, il s'agit donc ici bien plus que de sa seule pensée, c'est tout son corps et tous ses sentiments que Fabrice habite encore.Estonner« Causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. » (Furetière)V. 7, 8, 260, 444, 989Fard« Signifie figurément, toute sorte d'artifice dont on se sert pour déguiser une chose » (Furetière)V. 23, 751Feu« Se dit poëtiquement pour signifier La passion de l'amour » (Académie Française)V. 4, 16, 20, 173, 196, 746, 826, 827, 873, 889, 901, 1109, 1362, 1457, 1675, 1717Flamme« Amour, passion » (Richelet)V. 20, 117, 168, 197, 297, 321, 566, 1279, 1457, 1490, 1671Flatter« Ce qui touche agréablement les sens » (Furetière)V. 155, 298, 829, 1029, 1119, 1180, 1359, 1661FortuneRenvoie dans notre texte à la définition antique de la Fortuna : Richelet nous la donne ainsi : « Déesse à qui les Païens donnoient la disposition de toutes les choses du monde. » « Fortune capricieuse, aveugle, contraire. »V. 157, 198, 579, 725, 1275, 1382Foy« Serment, parole qu'on donne de faire quelque chose, & qu'on promet d'executer. »V. 47, 243, 331, 691, 1017, 1033Funeste« Qui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable. » (Furetière)V. 161, 245, 502, 515, 869, 917, 927, 1541, 1568, 1574Grace« Faveur qu'on fait à quelqu'un sans y être obligé » (Académie française)V. 705Hasarder« Risquer, exposer à la fortune, exposer au péril » (Académie française)V. 1223Honneste« Ce qui merite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. On le dit premierement de l'homme de bien, du galant homme, qui a pris l'air du monde, qui sçait vivre. »Hymen, hyménée« Signifie poëtiquement le mariage. » (Furetière)V. 79, 146, 779Infortune« Malheur. Disgrace.  C'est une grande infortune. Tomber dans l'infortune. »V. 978, 1015, 1575Innocence« Pureté de l'ame qui n'est point souillée de pechez. » V. 800Innocent« Se dit aussi de celuy qui n'est pas en estat de pecher, qui n'a pas atteint l'age de raison. »En ce sens, Isabelle, au vers 1330, dit être encore dans cet âge de pureté qui ignore ce qu'est l'amour, ce qui est un leurre.Climène en revanche, qui est dite ne pas avoir des « desirs innocens » au vers 575, demeure non seulement innocente de toute infidélité, mais encore innocente dans la pureté de ses désirs.IntelligenceCe terme renvoie à une entente, un lien, qui peut être soit une simple « amitié, union, paix, liaison », soit quelque relation secrète et non tolérée, une « correspondance avec des gens d'un parti contraire » (Richelet) ; on reconnaît ici la liaison secrète d'Isabelle et Carlos, qui est la trahison sements faits par Isabelle à son père.V. 85, 457Interdit« Étonné, troublé, qui ne peut répondre » (Académie Française)V. 296, 421, 515, 676, 869JourNous retenons, des multiples entrées du dictionnaire de Furetiere pour ce terme, celles qui éclairent la compréhension de notre texteLe *jour* comme *journée*, durée de rayonnement du soleil : le « jour artificiel » est la « durée que le Soleil est sur l'horison, qui est inégal selon les temps et les lieux. »V. 145, 161, 254, 283, 625, 964, 1001, 1105, 1451, 1746Jour signifie à la fois le jour par opposition à la nuit, et la lumière, opposée aux ténèbres : le jour est alors « la clarté du Soleil qui distingue le jour de la nuit. Dieu a nommé la lumière le jour, & les ténèbres la nuit en la Genese Chapitre 1. »V. 1381Le jour comme métaphore : « On dit qu'une chose est claire comme le jour, pour dire qu'il n'y a pas de difficulté. »Le jour par métonymie : « des lumieres qu'on allume la nuit », « l'ouverture des portes & des fenestre, & de toute autre endroit par où passe l'air & la lumiere ».Le jour comme métaphore de la vie s'oppose à la mort : « voir le jour » s'oppose à « perdre le jour ».V. 186, 231, 561, 564, 584, 592, 604, 885, 900, 933, 938, 1223, 1230, 1550, 1552 On trouve avec « Astre du jour » une approche poétique du terme : « On appelle poëtiquement le Soleil le pere du jour. »V. 1091Jugement« Puissance de l'ame qui connoist, qui discerne le bon d'avec le mauvais, le vray d'avec le faux. » (Furetière)V. 732, 898, 1364Liberal, libéralités« Qui donne avec raison & jugement, en sorte qu'il ne soit ny prodigue, ni avare. » (Furetière)V. 59, 368MaistresseOn trouve deux acceptions chez Richelet : De manière générale, c'est « celle qui a des domestiques », ainsi l'appellent ses domestiques ; et de façon plus particulière, dans un sens galand, c'est « celle qui est particulièrement aimée de quelque homme. Celle pour qui on a un attachement particulier. »V. 21, 33, 53, 57, 105, 135, 286, 302, 374, 729, 894, 984, 1060, 1667, 1691Mal-heur« Mauvaise fortune, mauvaise destinée. » (Académie française).V. 167, 326, 460, 464, 465, 523, 659, 736, 791, 833, 871, 980, 1261, 1333Merite« Ce qui rend digne d'estime. (…) en parlant des personnes, on entend d'excellentes qualités, soit de l'esprit, soit du cœur. » (Académie française)V. 338, 955, 1498Meriter« Meriter louange » (Académie française)V. 204, 369ObjetFuretière donne trois principaux sens :l'objet est le principe sensible comme ce qui est vu ou entendu, ou par réflexion le sujet de l'imagination ou de la pensé : « ce qui est opposé à nostre veuë, ou qui frappe nos autres sens, ou qui se représente à notre imagination. »V. 510, 515, 555, 806*Objet* est le but que l'on a en tête, le principe et le distinataire d'une plainte ou d'une colère : « se dit seulement quelquefois de la fin. »V. 813 et 1481La personne aimée : « se dit aussi poëtiquement des belles personnes qui donnent de l'amour. »V. 322, 772, 869, 938, 1418, 1671ObligerOn distingue ici deux emplois différents de ce terme :Employé de façon intransitive, *obliger* a le sens restreint de « faire plaisir, rendre un bon ofice » selon Richelet.V. 98, 442, 1030, 1181, 1195, 1332Employé de façon transitive indirecte, obliger à a le sens d'inciter à, la contrainte étant toujours liée à un certain plaisir l'adjectif *Obligé* est ainsi défini par Richelet : « qui a obligation à une personne parce qu'il en a reçu quelque plaisir. »V. 25, 31, 149, 327, 364, 565, 603, 1050, 1122, 1126, 1650.Prétendre« Aspirer à quelque chose, avoir esperance l'obtenir », et parfois « vouloir, entreprendre » (Furetière)V. 860, 975, 1400, 1411, 1424, 1649, 1677Prétention« Dessein qu'on a de faire quelque chose avec esperance d'y reüssir » (Furetière)V. 273, 941ProchainSens spatial, signifie* proche.*V. 274, 498SeinDésigne la poitrine, « la partie du corps humain qui est depuis le bas du cou jusqu'au creux de l'estomac (Académie Française)V. 682, 822Sejour« La demeure qu'on fait, ou qu'un autre fait en quelque endroit. Le tems qu'on demeure en un endroit. » (Richelet)V. 1341, 1553Sens« L'esprit, le jugement, la raison » (Furetiere)V. 367, 546SentimentSignifie à la fois ce que l'on ressent, il s'agit alors « des affections, des passions, & de tous les mouvements de l'ame », et ce que l'on pense, c'est alors « l'opinion qu'on a de quelque chose, ce qu'on en pense, ce qu'on en juge » (Académie française)V. 423, 440Soin*Soin* signifie « l'attache particulière qu'on a auprés d'un Maistre, ou d'une Maistresse, pour les servir, ou leur plaire » d'après Furetière.V. 99, 128, 189, 739, 1321Richelet nous donne cette définition mêlant inextricablement l'idée d'application et celle de peine, l'effort intellectuel et un certain tourment : « inquiétude d'esprit, travail d'esprit venant de la force d'aplication qu'on donne à quelque chose. »V. 148, 347, 495, 713, 747, 837, 853, 958, 1125, 1321, 1551Il signifie clairement « inquiétudes qui émeuvent, qui troublent l'esprit. » (Furetière)V. 139, 581Sort« Hazard, destin. Destinée. Fortune. » (Richelet)V. 101, 136, 151, 527, 533, 563, 567SouffrirVerbe principalement transitif au XVII*e* siècle, qui signifie « endurer, avoir de la peine, suporter » (Richelet) dans son sens le plus négatif, mais peut signifier aussi la plupart du temps simplement *accepter*.V. 225, 259, 398, 476, 528, 727, 919, 988, 1139, 1162, 1164, 1193, 1209, 1276, 1284, 1387, 1405, 1417, 1429, 1438, 1489, 1644, 1736SuccezContrairement à aujourdhui, ce mot signifie au XVII*e* siècle globalement *ce qui succède à un événement*, qu'il soit heureux (heureux événement) ou malheureux (catastrophe). Furetière nous donne la définition suivante : « issuë d'une affaire. Il se dit en bonne & en mauvaise part. » Le dictionnaire de l'Académie Française nous donne : « ce qui arrive à quelqu'un de conforme ou de contraire ou but qu'il se proposoit dans un dessein qu'il avoit formé ».V. 7, 117, 341, 601, 699, 1251, 1659, 1714TandisA toujours un sens temporel ; lorsqu'il n'est pas suivi de *que*, il signifie *cependant*.V. 587, 722, 797, 977Timide« Peureux, craintif » (Académie française)V. 1208, 1338Transport« Se dit figurément des Passions violentes qui nous mettent en quelque sorte hors de nous-mêmes. *Transport de joie, transport de colère*… » (Académie Française)V. 179, 372Traverser« Empêcher, mettre obstacle » (Richelet)V. 597, 969VainHormis l'expression « en vain » qui n'a pas changé de sens et que nous n'avons pas souligné, nous trouvons deux sens éclairant l'intelligence du texte :« Qui n'est qu'en apparence, qui trompe les yeux, qui est chymerique » « Un *vain* tombeau, c'est un monument dressé à la mémoire de quelqu'un avec quelque eloge, ou une epitaphe, encore que son corps n'y soit pas enfermé » (Furetière)V. 239, 273, 403, 417, 473, 506, 555, 694, 754, 1083, 1237Vanité« Un sentiment d'orgueil, une trop bonne opinion de soy-même » (Furetiere)V. 400« Qualité de ce qui est vain, peu solide, peu certain » 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions du texte
+## Éditions du texte.
 
 
-### Édition originaleLe Fantosme amoureux
+### Édition originale.Le Fantosme amoureux
 
 
 
-### Autres éditions à ParisLe Théâtre de Mr Quinault, contenant ses tragédies, comédies et opéras
+### Autres éditions à Paris.Le Théâtre de Mr Quinault, contenant ses tragédies, comédies et opéras
 Le Théâtre de M. Quinault, contenant ses tragédies, comédies et opéras
 Théâtre de Quinault, contenant ses tragédies, comédies et opéras.
 Le Fantôme amoureux, tragi-comédie*er*El galán fantasma
 
 
 
-### Éditions séparéesLe Fantôme amoureux
+### Éditions séparées.Le Fantôme amoureux
 Le Fantôme amoureux
 Le Fantôme amoureux
 Le Fantôme amoureux
@@ -4144,7 +4144,7 @@ Le Fantôme amoureux
 
 
 
-### TraductionsDas verliebte GespenstLe Fantosme amoureux
+### Traductions.Das verliebte GespenstLe Fantosme amoureux
 The Amourous Fantasme
 The Amourous Fantasme
 Verlibtes Gespenste
@@ -4154,25 +4154,25 @@ Il Fantasma amoroso
 
 
 
-## Dictionnaires de langue de l'époqueDictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+## Dictionnaires de langue de l'époque.Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses
 Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane.
 Dictionnaire
 
 
 
-## EncyclopédiesDictionnaire encyclopédique du théâtre
+## Encyclopédies.Dictionnaire encyclopédique du théâtre
 
 
 
-## Sur l'orthographe et la ponctuationL'Orthographe
+## Sur l'orthographe et la ponctuation.L'Orthographe
 Dictionnaire historique de l'orthographe française
 Traité de la ponctuation
 Syntaxe française du XVII*e* siècle
 
 
 
-## Sur Philippe Quinault et son théâtrePhilippe Quinault : sa vie et son œuvre
+## Sur Philippe Quinault et son théâtre.Philippe Quinault : sa vie et son œuvre
 A History of French Dramatic Literature in the Seventeenth Century
 Bibliographie critique du théâtre de Quinault
 Notices sur les œuvres de théâtre
@@ -4180,14 +4180,14 @@ Philippe Quinault. Théâtre choisi
 
 
 
-## Sur le théâtre et le public du XVII*e* siècleLe Théâtre et le public à Paris sous Louis XIV (1659-1715)
+## Sur le théâtre et le public du XVII*e* siècle.Le Théâtre et le public à Paris sous Louis XIV (1659-1715)
 Introduction à l'analyse des textes classiques
 La Dramaturgie classique en France
 L'Histoire de la mise en scène dans le théâtre français, de 1600 à 1657
 
 
 
-## Sur la scénographieMémoire de plusieurs décorations qui serve aux pieces contenus en ce present Livre commence par Laurent Mahelot Et continue par Michel Laurent En lannée 1673.
+## Sur la scénographie.Mémoire de plusieurs décorations qui serve aux pieces contenus en ce present Livre commence par Laurent Mahelot Et continue par Michel Laurent En lannée 1673.
 Le Mémoire de Mahelot
 Architectures scénographiques et décors de théâtre
 Traité de scénographie
@@ -4195,23 +4195,23 @@ Scénographie
 
 
 
-## Sur le théatre en généralLire le théâtre
+## Sur le théatre en général.Lire le théâtre
 Lire le théâtre II
 
 
 
-## Sur le genre La Tragi-comédie
+## Sur le genre. La Tragi-comédie
 La Tragi-comédie de Corneille à Quinault
 
 
 
-## Ouvrages critiques antérieurs à 1900 sur le théâtreLa Poétique
+## Ouvrages critiques antérieurs à 1900 sur le théâtre.La Poétique
 Histoire du théâtre françois depuis son origine jusqu'à présent
 Lettres de Jean Chapelain
 
 
 
-## Sur Calderon et la comedia espagnole du XVII*e* siècleLa Comedia espagnole en France de Hardy à Racine
+## Sur Calderon et la comedia espagnole du XVII*e* siècle.La Comedia espagnole en France de Hardy à Racine
 Histoire du théâtre espagnol
 
 

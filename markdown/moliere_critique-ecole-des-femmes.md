@@ -16,7 +16,7 @@ Par J. B. P. MOLIÈRE
 
 
 
-# À LA REINE MÈRE
+# À LA REINE MÈRE.
 
 Madame,
 
@@ -31,7 +31,7 @@ Le très humble, très obéissant, et très fidèle serviteur, et sujet,
 J. B. P. *molière*.
 
 
-# LES PERSONNAGES
+# LES PERSONNAGES.
  – Uranie.
  – Élise.
  – Climène.
@@ -41,1135 +41,1135 @@ J. B. P. *molière*.
  – Lysidas, Poète.
 
 
-# La Critique de l'École des Femmes, Comédie
+# La Critique de l'École des Femmes, Comédie.
 
 
-## Scène Première
+## Scène Première.
 Uranie, Élise.
 
 
-    URANIE
+    URANIE.
 Quoi, Cousine, personne ne t'est venu rendre visite ?
 
-    ÉLISE
+    ÉLISE.
 Personne du monde.
 
-    URANIE
+    URANIE.
 Vraiment voilà qui m'étonne, que nous ayons été seules, l'une et l'autre, tout aujourd'hui.
 
-    ÉLISE
+    ÉLISE.
 Cela m'étonne aussi ; car ce n'est guère notre coutume, et votre maison, Dieu merci, est le refuge ordinaire de tous les Fainéants de la Cour.
 
-    URANIE
+    URANIE.
 L'après-dînée, à dire vrai, m'a semblé fort longue.
 
-    ÉLISE
+    ÉLISE.
 Et moi je l'ai trouvée fort courte.
 
-    URANIE 
+    URANIE.
 C'est que les beaux esprits, Cousine, aiment la solitude.
 
-    ÉLISE
+    ÉLISE.
 Ah ! très humble servante au bel esprit, vous savez que ce n'est pas là que je vise.
 
-    URANIE
+    URANIE.
 Pour moi j'aime la compagnie, je l'avoue.
 
-    ÉLISE 
+    ÉLISE.
 Je l'aime aussi ; mais je l'aime choisie, et la quantité des sottes visites qu'il vous faut essuyer parmi les autres, est cause bien souvent que je prends plaisir d'être seule.
 
-    URANIE
+    URANIE.
 La délicatesse est trop grande, de ne pouvoir souffrir que des gens triés.
 
-    ÉLISE
+    ÉLISE.
 Et la complaisance est trop générale, de souffrir indifféremment toutes sortes de personnes.
 
-    URANIE
+    URANIE.
 Je goûte ceux qui sont raisonnables, et me divertis des extravagants.
 
-    ÉLISE
+    ÉLISE.
 Ma foi, les extravagants ne vont guère loin sans vous ennuyer, et la plupart de ces gens-là ne sont plus plaisants dès la seconde visite. Mais à propos d'extravagants, ne voulez-vous pas me défaire de votre Marquis incommode ? pensez-vous me le laisser toujours sur les bras, et que je puisse durer à ses turlupinades perpétuelles ?
 
-    URANIE
+    URANIE.
 Ce langage est à la mode, et l'on le tourne en plaisanterie à la Cour.
 
-    ÉLISE
+    ÉLISE.
 Tant pis pour ceux qui le font, et qui se tuent tout le jour à parler ce jargon obscur. La belle chose de faire entrer aux conversations du Louvre de vieilles équivoques ramassées parmi les boues des Halles et de la place Maubert ! La jolie façon de plaisanter pour des Courtisans ! et qu'un homme montre d'esprit lorsqu'il vient vous dire ;* Madame, vous êtes dans la place Royale, et tout le monde vous voit de trois lieues de Paris, car chacun vous voit de bon œil,* à cause que Boneuil est un village à trois lieues d'ici. Cela n'est-il pas bien galant et bien spirituel ; et ceux qui trouvent ces belles rencontres, n'ont-ils pas lieu de s'en glorifier ?
 
-    URANIE
+    URANIE.
 On ne dit pas cela aussi, comme une chose spirituelle, et la plupart de ceux qui affectent ce langage, savent bien eux-mêmes qu'il est ridicule.
 
-    ÉLISE
+    ÉLISE.
 Tant pis encore, de prendre peine à dire des sottises, et d'être mauvais plaisants de dessein formé. Je les en tiens moins excusables ; et, si j'en étais juge, je sais bien à quoi je condamnerais tous ces Messieurs les Turlupins.
 
-    URANIE
+    URANIE.
 Laissons cette matière, qui t'échauffe un peu trop, et disons que Dorante vient bien tard, à mon avis, pour le souper que nous devons faire ensemble.
 
-    ÉLISE
+    ÉLISE.
 Peut-être l'a-t-il oublié, et que…
 
 
-## Scène II
+## Scène II.
 Galopin, Uranie, Élise.
 
 
-    GALOPIN
+    GALOPIN.
 Voilà Climène, Madame, qui vient ici pour vous voir.
 
-    URANIE
+    URANIE.
 Eh mon Dieu ! quelle visite !
 
-    ÉLISE 
+    ÉLISE.
 Vous vous plaigniez d'être seule, aussi : le Ciel vous en punit.
 
-    URANIE
+    URANIE.
 Vite, qu'on aille dire que je n'y suis pas.
 
-    GALOPIN
+    GALOPIN.
 On a déjà dit que vous y étiez.
 
-    URANIE
+    URANIE.
 Et qui est le sot, qui l'a dit ?
 
-    GALOPIN
+    GALOPIN.
 Moi, Madame.
 
-    URANIE
+    URANIE.
 Diantre soit le petit vilain. Je vous apprendrai bien à faire vos réponses de vous-même.
 
-    GALOPIN 
+    GALOPIN.
 Je vais lui dire, Madame, que vous voulez être sortie.
 
-    URANIE
+    URANIE.
 Arrêtez animal, et la laissez monter, puisque la sottise est faite.
 
-    GALOPIN
+    GALOPIN.
 Elle parle encore à un homme dans la rue.
 
-    URANIE
+    URANIE.
 Ah ! Cousine, que cette visite m'embarrasse à l'heure qu'il est.
 
-    ÉLISE
+    ÉLISE.
 Il est vrai que la Dame est un peu embarrassante de son naturel : j'ai toujours eu pour elle une furieuse aversion ; et, n'en déplaise à sa qualité, c'est la plus sotte bête qui se soit jamais mêlée de raisonner.
 
-    URANIE 
+    URANIE.
 L'épithète est un peu forte.
 
-    ÉLISE 
+    ÉLISE.
 Allez, allez, elle mérite bien cela, et quelque chose de plus, si on lui faisait justice. Est-ce qu'il y a une personne qui soit plus véritablement qu'elle, ce qu'on appelle Précieuse, à prendre le mot dans sa plus mauvaise signification ?
 
-    URANIE
+    URANIE.
 Elle se défend bien de ce nom, pourtant.
 
-    ÉLISE
+    ÉLISE.
 Il est vrai, elle se défend du nom ; mais non pas de la chose : car enfin elle l'est depuis les pieds jusqu'à la tête, et la plus grande façonnière du monde. Il semble que tout son corps soit démonté, et que les mouvements de ses hanches, de ses épaules, et de sa tête, n'aillent que par ressorts. Elle affecte toujours un ton de voix languissant, et niais ; fait la moue, pour montrer une petite bouche, et roule les yeux, pour les faire paraître grands.
 
-    URANIE
+    URANIE.
 Doucement donc, si elle venait à entendre…
 
-    ÉLISE
+    ÉLISE.
 Point, point, elle ne monte pas encore. Je me souviens toujours du soir qu'elle eut envie de voir Damon, sur la réputation qu'on lui donne, et les choses que le public a vues de lui. Vous connaissez l'homme, et sa naturelle paresse à soutenir la conversation. Elle l'avait invité à souper, comme bel esprit, et jamais il ne parut si sot, parmi une demi-douzaine de gens, à qui elle avait fait fête de lui, et qui le regardaient avec de grands yeux, comme une personne qui ne devait pas être faite comme les autres. Ils pensaient tous qu'il était là pour défrayer la Compagnie de bons mots ; que chaque parole qui sortait de sa bouche devait être extraordinaire ; qu'il devait faire des *Impromptus* sur tout ce qu'on disait, et ne demander à boire qu'avec une pointe. Mais il les trompa fort par son silence ; et la Dame fut aussi mal satisfaite de lui, que je le fus d'elle.
 
-    URANIE
+    URANIE.
 Tais-toi, je vais la recevoir à la porte de la chambre.
 
-    ÉLISE
+    ÉLISE.
 Encore un mot. Je voudrais bien la voir mariée avec le Marquis, dont nous avons parlé. Le bel assemblage que ce serait d'une Précieuse, et d'un Turlupin !
 
-    URANIE
+    URANIE.
 Veux-tu te taire ; la voici.
 
 
-## Scène III
+## Scène III.
 Climène, Uranie, Élise, Galopin.
 
 
-    URANIE
+    URANIE.
 Vraiment, c'est bien tard que…
 
-    CLIMÈNE
+    CLIMÈNE.
 Eh de grâce, ma chère, faites-moi vite donner un siège.
 
-    URANIE
+    URANIE.
 Un fauteuil, promptement.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah mon Dieu !
 
-    URANIE
+    URANIE.
 Qu'est-ce donc ?
 
-    CLIMÈNE 
+    CLIMÈNE.
 Je n'en puis plus.
 
-    URANIE
+    URANIE.
 Qu'avez-vous ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Le cœur me manque.
 
-    URANIE 
+    URANIE.
 Sont-ce vapeurs, qui vous ont prise ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Non.
 
-    URANIE
+    URANIE.
 Voulez-vous, que l'on vous délasse ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Mon Dieu non. Ah !
 
-    URANIE 
+    URANIE.
 Quel est donc votre mal ? et depuis quand vous a-t-il pris ?
 
-    CLIMÈNE 
+    CLIMÈNE.
 Il y a plus de trois heures, et je l'ai rapporté du Palais-Royal.
 
-    URANIE
+    URANIE.
 Comment ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Je viens de voir, pour mes péchés, cette méchante Rapsodie de *L'École des Femmes*. Je suis encore en défaillance du mal de cœur, que cela m'a donné, et je pense que je n'en reviendrai de plus de quinze jours.
 
-    ÉLISE
+    ÉLISE.
 Voyez un peu, comme les maladies arrivent sans qu'on y songe.
 
-    URANIE 
+    URANIE.
 Je ne sais pas de quel tempérament nous sommes ma cousine et moi ; mais nous fûmes avant-hier à la même Pièce, et nous en revînmes toutes deux saines et gaillardes.
 
-    CLIMÈNE
+    CLIMÈNE.
 Quoi, vous l'avez vue ?
 
-    URANIE
+    URANIE.
 Oui ; et écoutée d'un bout à l'autre.
 
-    CLIMÈNE
+    CLIMÈNE.
 Et vous n'en avez pas été jusques aux convulsions, ma chère ?
 
-    URANIE
+    URANIE.
 Je ne suis pas si délicate, Dieu merci ; et je trouve pour moi, que cette Comédie serait plutôt capable de guérir les gens, que de les rendre malades.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah mon Dieu, que dites-vous là ! Cette proposition peut-elle être avancée par une personne, qui ait du revenu en sens commun ? Peut-on, impunément comme vous faites, rompre en visière à la raison ? Et dans le vrai de la chose, est-il un esprit si affamé de plaisanterie, qu'il puisse tâter des fadaises dont cette Comédie est assaisonnée ? Pour moi, je vous avoue, que je n'ai pas trouvé le moindre grain de sel dans tout cela. Les enfants par l'oreille m'ont paru d'un goût détestable ; la tarte à la crème m'a affadi le cœur ; et j'ai pensé vomir au potage.
 
-    ÉLISE
+    ÉLISE.
 Mon Dieu ! que tout cela est dit élégamment. J'aurais cru que cette Pièce était bonne ; mais Madame a une éloquence si persuasive, elle tourne les choses d'une manière si agréable, qu'il faut être de son sentiment, malgré qu'on en ait.
 
-    URANIE 
+    URANIE.
 Pour moi je n'ai pas tant de complaisance, et pour dire ma pensée, je tiens cette Comédie une des plus plaisantes que l'Auteur ait produites.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah ! vous me faites pitié, de parler ainsi ; et je ne saurais vous souffrir cette obscurité de discernement. Peut-on, ayant de la vertu, trouver de l'agrément dans une Pièce, qui tient sans cesse la pudeur en alarme, et salit à tous moments l'imagination ?
 
-    ÉLISE 
+    ÉLISE.
 Les jolies façons de parler, que voilà ! Que vous êtes, Madame, une rude joueuse en Critique ; et que je plains le pauvre Molière de vous avoir pour ennemie.
 
-    CLIMÈNE 
+    CLIMÈNE.
 Croyez-moi ma chère, corrigez de bonne foi votre jugement, et pour votre honneur, n'allez point dire par le monde que cette Comédie vous ait plu.
 
-    URANIE
+    URANIE.
 Moi, je ne sais pas ce que vous y avez trouvé qui blesse la pudeur.
 
-    CLIMÈNE
+    CLIMÈNE.
 Hélas tout ; et je mets en fait, qu'une honnête femme ne la saurait voir, sans confusion ; tant j'y ai découvert d'ordures, et de saletés.
 
-    URANIE
+    URANIE.
 Il faut donc que pour les ordures, vous ayez des lumières, que les autres n'ont pas : car pour moi je n'y en ai point vu.
 
-    CLIMÈNE
+    CLIMÈNE.
 C'est que vous ne voulez pas y en avoir vu, assurément : car enfin toutes ces ordures, Dieu merci, y sont à visage découvert. Elles n'ont pas la moindre enveloppe qui les couvre ; et les yeux les plus hardis sont effrayés de leur nudité.
 
-    ÉLISE 
+    ÉLISE.
 Ah !
 
-    CLIMÈNE
+    CLIMÈNE.
 Hay, hay, hay.
 
-    URANIE
+    URANIE.
 Mais encore, s'il vous plaît, marquez-moi une de ces ordures que vous dites.
 
-    CLIMÈNE
+    CLIMÈNE.
 Hélas ! est-il nécessaire de vous les marquer ?
 
-    URANIE 
+    URANIE.
 Oui : je vous demande seulement un endroit, qui vous ait fort choquée.
 
-    CLIMÈNE
+    CLIMÈNE.
 En faut-il d'autre que la scène de cette Agnès, lorsqu'elle dit ce que l'on lui a pris ?
 
-    URANIE
+    URANIE.
 Eh bien, que trouvez-vous là de sale ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah !
 
-    URANIE
+    URANIE.
 De grâce ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Fi.
 
-    URANIE
+    URANIE.
 Mais encore ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Je n'ai rien à vous dire.
 
-    URANIE
+    URANIE.
 Pour moi, je n'y entends point de mal.
 
-    CLIMÈNE
+    CLIMÈNE.
 Tant pis pour vous.
 
-    URANIE
+    URANIE.
 Tant mieux plutôt, ce me semble. Je regarde les choses du côté qu'on me les montre ; et ne les tourne point, pour y chercher ce qu'il ne faut pas voir.
 
-    CLIMÈNE
+    CLIMÈNE.
 L'honnêteté d'une femme…
 
-    URANIE
+    URANIE.
 L'honnêteté d'une femme n'est pas dans les grimaces. Il sied mal de vouloir être plus sage, que celles qui sont sages. L'affectation en cette matière est pire qu'en toute autre ; et je ne vois rien de si ridicule, que cette délicatesse d'honneur, qui prend tout en mauvaise part ; donne un sens criminel aux plus innocentes paroles ; et s'offense de l'ombre des choses. Croyez-moi, celles qui font tant de façons, n'en sont pas estimées plus femmes de bien. Au contraire, leur sévérité mystérieuse, et leurs grimaces affectées irritent la censure de tout le monde, contre les actions de leur vie. On est ravi de découvrir ce qu'il y peut avoir à redire ; et pour tomber dans l'exemple, il y avait l'autre jour des Femmes à cette Comédie, vis-à-vis de la Loge où nous étions, qui par les mines qu'elles affectèrent durant toute la Pièce ; leurs détournements de tête ; et leurs cachements de visage, firent dire de tous côtés cent sottises de leur conduite, que l'on n'aurait pas dites sans cela ; et quelqu'un même des Laquais cria tout haut, qu'elles étaient plus chastes des oreilles que de tout le reste du corps.
 
-    CLIMÈNE
+    CLIMÈNE.
 Enfin il faut être aveugle dans cette Pièce, et ne pas faire semblant d'y voir les choses.
 
-    URANIE
+    URANIE.
 Il ne faut pas y vouloir voir ce qui n'y est pas.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah ! je soutiens, encore un coup, que les saletés y crèvent les yeux.
 
-    URANIE
+    URANIE.
 Et moi, je ne demeure pas d'accord de cela.
 
-    CLIMÈNE
+    CLIMÈNE.
 Quoi la pudeur n'est pas visiblement blessée par ce que dit Agnès dans l'endroit dont nous parlons ?
 
-    URANIE 
+    URANIE.
 Non vraiment. Elle ne dit pas un mot, qui de soi ne soit fort honnête ; et si vous voulez entendre dessous quelque autre chose, c'est vous qui faites l'ordure, et non pas elle ; puisqu'elle parle seulement d'un ruban qu'on lui a pris.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah ! ruban, tant qu'il vous plaira ; mais ce *le* où elle s'arrête, n'est pas mis pour des prunes. Il vient sur ce *le* d'étranges pensées. Ce *le* scandalise furieusement ; et quoi que vous puissiez dire, vous ne sauriez défendre l'insolence de ce *le*.
 
-    ÉLISE
+    ÉLISE.
 Il est vrai, ma cousine ; je suis pour Madame contre ce *le*. Ce *le* est insolent au dernier point. Et vous avez tort de défendre ce *le*.
 
-    CLIMÈNE
+    CLIMÈNE.
 Il a une obscénité qui n'est pas supportable.
 
-    ÉLISE
+    ÉLISE.
 Comment dites-vous ce mot-là, Madame ?
 
-    CLIMÈNE
+    CLIMÈNE.
 *Obscénité*, Madame.
 
-    ÉLISE
+    ÉLISE.
 Ah ! mon Dieu ! *obscénité*. Je ne sais ce que ce mot veut dire ; mais je le trouve le plus joli du monde.
 
-    CLIMÈNE
+    CLIMÈNE.
 Enfin vous voyez, comme votre sang prend mon parti.
 
-    URANIE
+    URANIE.
 Eh ! mon Dieu ; c'est une causeuse, qui ne dit pas ce qu'elle pense. Ne vous y fiez pas beaucoup, si vous m'en voulez croire.
 
-    ÉLISE
+    ÉLISE.
 Ah ! que vous êtes méchante, de me vouloir rendre suspecte à Madame. Voyez un peu où j'en serais, si elle allait croire ce que vous dites. Serais-je si malheureuse, Madame, que vous eussiez de moi cette pensée ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Non, non, je ne m'arrête pas à ses paroles, et je vous crois plus sincère, qu'elle ne dit.
 
-    ÉLISE
+    ÉLISE.
 Ah ! que vous avez bien raison, Madame ; et que vous me rendrez justice, quand vous croirez que je vous trouve la plus engageante personne du monde ; que j'entre dans tous vos sentiments, et suis charmée de toutes les expressions, qui sortent de votre bouche.
 
-    CLIMÈNE
+    CLIMÈNE.
 Hélas ! je parle sans affectation.
 
-    ÉLISE
+    ÉLISE.
 On le voit bien, Madame, et que tout est naturel en vous. Vos paroles, le ton de votre voix, vos regards, vos pas, votre action, et votre ajustement ont je ne sais quel air de qualité, qui enchante les gens. Je vous étudie des yeux et des oreilles ; et je suis si remplie de vous, que je tâche d'être votre singe, et de vous contrefaire en tout.
 
-    CLIMÈNE
+    CLIMÈNE.
 Vous vous moquez de moi, Madame.
 
-    ÉLISE
+    ÉLISE.
 Pardonnez-moi, Madame. Qui voudrait se moquer de vous ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Je ne suis pas un bon modèle, Madame.
 
-    ÉLISE
+    ÉLISE.
 Oh que si, Madame.
 
-    CLIMÈNE
+    CLIMÈNE.
 Vous me flattez, Madame.
 
-    ÉLISE
+    ÉLISE.
 Point du tout, Madame.
 
-    CLIMÈNE
+    CLIMÈNE.
 Épargnez-moi, s'il vous plaît, Madame.
 
-    ÉLISE
+    ÉLISE.
 Je vous épargne aussi, Madame ; et je ne dis pas la moitié de ce que je pense, Madame.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah mon Dieu ! brisons là, de grâce : vous me jetteriez dans une confusion épouvantable.
 À Uranie.
 
 Enfin nous voilà deux contre vous, et l'opiniâtreté sied si mal aux personnes spirituelles…
 
 
-## Scène IV
+## Scène IV.
 Le marquis, Climène, Galopin, Uranie, Élise.
 
 
-    GALOPIN
+    GALOPIN.
 Arrêtez, s'il vous plaît, Monsieur.
 
-    LE MARQUIS
+    LE MARQUIS.
 Tu ne me connais pas, sans doute.
 
-    GALOPIN
+    GALOPIN.
 Si fait, je vous connais ; mais vous n'entrerez pas.
 
-    LE MARQUIS 
+    LE MARQUIS.
 Ah que de bruit, petit laquais !
 
-    GALOPIN
+    GALOPIN.
 Cela n'est pas bien de vouloir entrer malgré les gens.
 
-    LE MARQUIS 
+    LE MARQUIS.
 Je veux voir ta Maîtresse.
 
-    GALOPIN
+    GALOPIN.
 Elle n'y est pas, vous dis-je.
 
-    LE MARQUIS
+    LE MARQUIS.
 La voilà dans la chambre.
 
-    GALOPIN
+    GALOPIN.
 Il est vrai, la voilà ; mais elle n'y est pas.
 
-    URANIE
+    URANIE.
 Qu'est-ce donc qu'il y a là ?
 
-    LE MARQUIS
+    LE MARQUIS.
 C'est votre laquais, Madame, qui fait le sot.
 
-    GALOPIN
+    GALOPIN.
 Je lui dis que vous n'y êtes pas, Madame, et il ne veut pas laisser d'entrer.
 
-    URANIE 
+    URANIE.
 Et pourquoi dire à Monsieur que je n'y suis pas ?
 
-    GALOPIN
+    GALOPIN.
 Vous me grondâtes l'autre jour, de lui avoir dit que vous y étiez.
 
-    URANIE
+    URANIE.
 Voyez cet insolent ! Je vous prie, Monsieur, de ne pas croire ce qu'il dit : c'est un petit écervelé, qui vous a pris pour un autre.
 
-    LE MARQUIS 
+    LE MARQUIS.
 Je l'ai bien vu, Madame ; et sans votre respect, je lui aurais appris à connaître les gens de qualité.
 
-    ÉLISE
+    ÉLISE.
 Ma cousine vous est fort obligée de cette déférence.
 
-    URANIE
+    URANIE.
 Un siège donc, impertinent.
 
-    GALOPIN
+    GALOPIN.
 N'en voilà-t-il pas un ?
 
-    URANIE
+    URANIE.
 Approchez-le.
 Le petit laquais pousse le siège rudement.
 
 
-    LE MARQUIS
+    LE MARQUIS.
 Votre petit laquais, Madame, a du mépris pour ma personne.
 
-    ÉLISE
+    ÉLISE.
 Il aurait tort, sans doute.
 
-    LE MARQUIS
+    LE MARQUIS.
 C'est peut-être que je paie l'intérêt de ma mauvaise mine : hay, hay, hay, hay.
 
-    ÉLISE
+    ÉLISE.
 L'âge le rendra plus éclairé en honnêtes gens.
 
-    LE MARQUIS
+    LE MARQUIS.
 Sur quoi en étiez-vous, Mesdames, lorsque je vous ai interrompues ?
 
-    URANIE
+    URANIE.
 Sur la Comédie de *L'École des Femmes*.
 
-    LE MARQUIS 
+    LE MARQUIS.
 Je ne fais que d'en sortir.
 
-    CLIMÈNE
+    CLIMÈNE.
 Eh bien, Monsieur, comment la trouvez-vous, s'il vous plaît ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Tout à fait impertinente.
 
-    CLIMÈNE
+    CLIMÈNE.
 Ah que j'en suis ravie !
 
-    LE MARQUIS
+    LE MARQUIS.
 C'est la plus méchante chose du monde. Comment, diable ! à peine ai-je pu trouver place. J'ai pensé être étouffé à la porte ; et jamais on ne m'a tant marché sur les pieds. Voyez comme mes canons, et mes rubans en sont ajustés, de grâce.
 
-    ÉLISE
+    ÉLISE.
 Il est vrai que cela crie vengeance contre *L'École des Femmes*, et que vous la condamnez avec justice.
 
-    LE MARQUIS
+    LE MARQUIS.
 Il ne s'est jamais fait, je pense, une si méchante comédie.
 
-    URANIE
+    URANIE.
 Ah ! voici Dorante que nous attendions.
 
 
-## Scène V
+## Scène V.
 Dorante, Le marquis, Climène, Élise, Uranie.
 
 
-    DORANTE
+    DORANTE.
 Ne bougez, de grâce, et n'interrompez point votre discours. Vous êtes là sur une matière, qui depuis quatre jours fait presque l'entretien de toutes les maisons de Paris ; et jamais on n'a rien vu de si plaisant, que la diversité des jugements, qui se font là-dessus. Car enfin, j'ai ouï condamner cette Comédie à certaines gens, par les mêmes choses, que j'ai vu d'autres estimer le plus.
 
-    URANIE
+    URANIE.
 Voilà Monsieur le Marquis, qui en dit force mal.
 
-    LE MARQUIS
+    LE MARQUIS.
 Il est vrai, je la trouve détestable ; morbleu détestable du dernier détestable ; ce qu'on appelle détestable.
 
-    DORANTE
+    DORANTE.
 Et moi, mon cher Marquis, je trouve le jugement détestable.
 
-    LE MARQUIS
+    LE MARQUIS.
 Quoi Chevalier, est-ce que tu prétends soutenir cette Pièce ?
 
-    DORANTE
+    DORANTE.
 Oui je prétends la soutenir.
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, je la garantis détestable.
 
-    DORANTE
+    DORANTE.
 La caution n'est pas Bourgeoise. Mais, Marquis, par quelle raison, de grâce, cette Comédie est-elle ce que tu dis ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Pourquoi elle est détestable ?
 
-    DORANTE
+    DORANTE.
 Oui.
 
-    LE MARQUIS
+    LE MARQUIS.
 Elle est détestable, parce qu'elle est détestable.
 
-    DORANTE
+    DORANTE.
 Après cela, il n'y a plus rien à dire : voilà son procès fait. Mais encore instruis-nous, et nous dis les défauts qui y sont.
 
-    LE MARQUIS
+    LE MARQUIS.
 Que sais-je moi ? je ne me suis pas seulement donné la peine de l'écouter. Mais enfin je sais bien que je n'ai jamais rien vu de si méchant, Dieu me damne ; et Dorilas, contre qui j'étais a été de mon avis.
 
-    DORANTE
+    DORANTE.
 L'autorité est belle, et te voilà bien appuyé.
 
-    LE MARQUIS
+    LE MARQUIS.
 Il ne faut que voir les continuels éclats de rire que le Parterre y fait : je ne veux point d'autre chose, pour témoigner qu'elle ne vaut rien.
 
-    DORANTE
+    DORANTE.
 Tu es donc, Marquis, de ces Messieurs du bel air, qui ne veulent pas que le Parterre ait du sens commun, et qui seraient fâchés d'avoir ri avec lui, fût-ce de la meilleure chose du monde ? Je vis l'autre jour sur le Théâtre un de nos amis qui se rendit ridicule par là. Il écouta toute la Pièce avec un sérieux le plus sombre du monde : et tout ce qui égayait les autres ridait son front. À tous les éclats de risée, il haussait les épaules, et regardait le Parterre en pitié ; et quelquefois aussi le regardant avec dépit, il lui disait tout haut, *Ris donc, Parterre, ris donc*. Ce fut une seconde Comédie, que le chagrin de notre ami ; il la donna en galant homme à toute l'assemblée ; et chacun demeura d'accord qu'on ne pouvait pas mieux jouer, qu'il fit. Apprends, Marquis, je te prie, et les autres aussi, que le bon sens n'a point de place déterminée à la Comédie ; que la différence du demi-Louis d'or, et de la pièce de quinze sols, ne fait rien du tout au bon goût ; que debout et assis on peut donner un mauvais jugement ; et qu'enfin, à le prendre en général, je me fierais assez à l'approbation du Parterre, par la raison qu'entre ceux qui le composent, il y en a plusieurs qui sont capables de juger d'une pièce selon les règles, et que les autres en jugent par la bonne façon d'en juger, qui est de se laisser prendre aux choses, et de n'avoir ni prévention aveugle, ni complaisance affectée, ni délicatesse ridicule.
 
-    LE MARQUIS
+    LE MARQUIS.
 Te voilà donc, Chevalier, le défenseur du Parterre ? Parbleu, je m'en réjouis, et je ne manquerai pas de l'avertir, que tu es de ses amis. Hay, hay, hay, hay, hay, hay.
 
-    DORANTE
+    DORANTE.
 Ris tant que tu voudras ; je suis pour le bon sens, et ne saurais souffrir les ébullitions de cerveau de nos marquis de Mascarille. J'enrage de voir de ces gens qui se traduisent en ridicules, malgré leur qualité ; de ces gens qui décident toujours, et parlent hardiment de toutes choses, sans s'y connaître ; qui dans une Comédie se récrieront aux méchants endroits, et ne branleront pas à ceux qui sont bons ; qui voyant un tableau, ou écoutant un concert de musique, blâment de même, et louent tout à contre-sens, prennent par où ils peuvent les termes de l'Art qu'ils attrapent, et ne manquent jamais de les estropier, et de les mettre hors de place. Eh ! Morbleu, Messieurs, taisez-vous, quand Dieu ne vous a pas donné la connaissance d'une chose ; n'apprêtez point à rire à ceux qui vous entendent parler ; et songez qu'en ne disant mot, on croira, peut-être, que vous êtes d'habiles gens.
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, Chevalier, tu le prends là…
 
-    DORANTE
+    DORANTE.
 Mon Dieu Marquis ce n'est pas à toi que je parle. C'est à une douzaine de messieurs qui déshonorent les gens de Cour par leurs manières extravagantes, et font croire parmi le peuple que nous nous ressemblons tous. Pour moi je m'en veux justifier, le plus qu'il me sera possible ; et je les dauberai tant, en toutes rencontres, qu'à la fin ils se rendront sages.
 
-    LE MARQUIS
+    LE MARQUIS.
 Dis-moi, un peu, Chevalier, crois-tu que Lysandre ait de l'esprit ?
 
-    DORANTE
+    DORANTE.
 Oui, sans doute, et beaucoup.
 
-    URANIE
+    URANIE.
 C'est une chose qu'on ne peut pas nier.
 
-    LE MARQUIS
+    LE MARQUIS.
 Demandez-lui ce qui lui semble de *L'École des Femmes* : vous verrez qu'il vous dira, qu'elle ne lui plaît pas.
 
-    DORANTE 
+    DORANTE.
 Eh mon Dieu ! il y en a beaucoup que le trop d'esprit gâte ; qui voient mal les choses à force de lumière ; et même qui seraient bien fâchés d'être de l'avis des autres, pour avoir la gloire de décider.
 
-    URANIE 
+    URANIE.
 Il est vrai ; notre ami est de ces gens-là, sans doute. Il veut être le premier de son opinion, et qu'on attende par respect son jugement. Toute approbation qui marche avant la sienne est un attentat sur ses lumières, dont il se venge hautement en prenant le contraire parti. Il veut qu'on le consulte sur toutes les affaires d'esprit ; et je suis sûre que si l'Auteur lui eût montré sa Comédie, avant que de la faire voir au public, il l'eût trouvée la plus belle du monde.
 
-    LE MARQUIS
+    LE MARQUIS.
 Et que direz-vous de la Marquise Araminte, qui la publie partout pour épouvantable, et dit qu'elle n'a pu jamais souffrir les ordures dont elle est pleine ?
 
-    DORANTE
+    DORANTE.
 Je dirai que cela est digne du Caractère qu'elle a pris ; et qu'il y a des personnes, qui se rendent ridicules, pour vouloir avoir trop d'honneur. Bien qu'elle ait de l'esprit, elle a suivi le mauvais exemple de celles, qui étant sur le retour de l'âge, veulent remplacer de quelque chose ce qu'elles voient qu'elles perdent ; et prétendent que les grimaces d'une pruderie scrupuleuse, leur tiendront lieu de jeunesse et de beauté. Celle-ci pousse l'affaire plus avant qu'aucune, et l'habileté de son scrupule découvre des saletés, où jamais personne n'en avait vu. On tient qu'il va, ce scrupule, jusques à défigurer notre langue, et qu'il n'y a point presque de mots, dont la sévérité de cette Dame ne veuille retrancher ou la tête, ou la queue, pour les syllabes déshonnêtes qu'elle y trouve.
 
-    URANIE
+    URANIE.
 Vous êtes bien fou, Chevalier.
 
-    LE MARQUIS
+    LE MARQUIS.
 Enfin, Chevalier, tu crois défendre ta Comédie, en faisant la satire de ceux qui la condamnent.
 
-    DORANTE
+    DORANTE.
 Non pas ; mais je tiens que cette Dame se scandalise à tort…
 
-    ÉLISE
+    ÉLISE.
 Tout beau, Monsieur le Chevalier : il pourrait y en avoir d'autres qu'elle, qui seraient dans les mêmes sentiments.
 
-    DORANTE
+    DORANTE.
 Je sais bien que ce n'est pas vous, au moins ; et que lorsque vous avez vu cette représentation…
 
-    ÉLISE
+    ÉLISE.
 Il est vrai, mais j'ai changé d'avis, et Madame sait appuyer le sien, par des raisons si convaincantes, qu'elle m'a entraînée de son côté.
 
-    DORANTE
+    DORANTE.
 Ah ! Madame, je vous demande pardon ; et si vous le voulez, je me dédirai, pour l'amour de vous, de tout ce que j'ai dit.
 
-    CLIMÈNE
+    CLIMÈNE.
 Je ne veux pas que ce soit pour l'amour de moi ; mais pour l'amour de la raison : car enfin cette pièce, à le bien prendre, est tout à fait indéfendable ; et je ne conçois pas…
 
-    URANIE
+    URANIE.
 Ah ! voici l'auteur, Monsieur Lysidas : il vient tout à propos, pour cette matière. Monsieur Lysidas ; prenez un siège vous-même, et vous mettez là.
 
 
-## Scène VI
+## Scène VI.
 Lysidas, Dorante, Le Marquis, Élise, Uranie, Climène.
 
 
-    LYSIDAS
+    LYSIDAS.
 Madame ; je viens un peu tard ; mais il m'a fallu lire ma Pièce chez Madame la Marquise, dont je vous avais parlé ; et les louanges, qui lui ont été données, m'ont retenu une heure, plus que je ne croyais.
 
-    ÉLISE
+    ÉLISE.
 C'est un grand charme que les louanges pour arrêter un Auteur.
 
-    URANIE
+    URANIE.
 Asseyez-vous donc, Monsieur Lysidas ; nous lirons votre Pièce après souper.
 
-    LYSIDAS
+    LYSIDAS.
 Tous ceux qui étaient là, doivent venir à sa première représentation, et m'ont promis de faire leur devoir comme il faut.
 
-    URANIE
+    URANIE.
 Je le crois : mais, encore une fois asseyez-vous, s'il vous plaît : Nous sommes ici sur une matière que je serai bien aise que nous poussions.
 
-    LYSIDAS
+    LYSIDAS.
 Je pense Madame, que vous retiendrez aussi une loge pour ce jour-là.
 
-    URANIE
+    URANIE.
 Nous verrons. Poursuivons de grâce notre discours.
 
-    LYSIDAS
+    LYSIDAS.
 Je vous donne avis, Madame, qu'elles sont presque toutes retenues.
 
-    URANIE
+    URANIE.
 Voilà qui est bien. Enfin j'avais besoin de vous, lorsque vous êtes venu, et tout le monde était ici contre moi.
 
-    ÉLISE
+    ÉLISE.
 Il s'est mis d'abord de votre côté, mais maintenant qu'il sait que Madame est à la tête du parti contraire, je pense que vous n'avez qu'à chercher un autre secours.
 
-    CLIMÈNE
+    CLIMÈNE.
 Non, non, je ne voudrais pas qu'il fît mal sa Cour auprès de Madame votre cousine, et je permets à son esprit d'être du parti de son cœur.
 
-    DORANTE
+    DORANTE.
 Avec cette permission, Madame, je prendrai la hardiesse de me défendre.
 
-    URANIE
+    URANIE.
 Mais auparavant sachons un peu les sentiments de Monsieur Lysidas.
 
-    LYSIDAS
+    LYSIDAS.
 Sur quoi, Madame ?
 
-    URANIE
+    URANIE.
 Sur le sujet de *L'École des Femmes*.
 
-    LYSIDAS
+    LYSIDAS.
 Ha, ha.
 
-    DORANTE
+    DORANTE.
 Que vous en semble.
 
-    LYSIDAS
+    LYSIDAS.
 Je n'ai rien à dire là-dessus ; et vous savez qu'entre nous autres Auteurs, nous devons parler des Ouvrages les uns des autres, avec beaucoup de circonspection.
 
-    DORANTE
+    DORANTE.
 Mais encore, entre nous, que pensez-vous de cette Comédie ?
 
-    LYSIDAS 
+    LYSIDAS.
 Moi, Monsieur ?
 
-    URANIE 
+    URANIE.
 De bonne foi, dites-nous votre avis.
 
-    LYSIDAS
+    LYSIDAS.
 Je la trouve fort belle.
 
-    DORANTE
+    DORANTE.
 Assurément ?
 
-    LYSIDAS
+    LYSIDAS.
 Assurément ; pourquoi non ? N'est-elle pas en effet la plus belle du monde ?
 
-    DORANTE 
+    DORANTE.
 Hom, hom, vous êtes un méchant diable, Monsieur Lysidas ; vous ne dites pas ce que vous pensez.
 
-    LYSIDAS
+    LYSIDAS.
 Pardonnez-moi.
 
-    DORANTE
+    DORANTE.
 Mon Dieu, je vous connais ; ne dissimulons point.
 
-    LYSIDAS
+    LYSIDAS.
 Moi Monsieur ?
 
-    DORANTE
+    DORANTE.
 Je vois bien que le bien que vous dites de cette Pièce n'est que par honnêteté ; et que dans le fond du cœur, vous êtes de l'avis de beaucoup de gens, qui la trouvent mauvaise.
 
-    LYSIDAS
+    LYSIDAS.
 Hay, hay, hay.
 
-    DORANTE
+    DORANTE.
 Avouez, ma foi, que c'est une méchante chose que cette Comédie.
 
-    LYSIDAS
+    LYSIDAS.
 Il est vrai qu'elle n'est pas approuvée par les Connaisseurs.
 
-    LE MARQUIS
+    LE MARQUIS.
 Ma foi, Chevalier, tu en tiens, et te voilà payé de ta raillerie, ah, ah, ah, ah, ah.
 
-    DORANTE
+    DORANTE.
 Pousse, mon cher Marquis, pousse.
 
-    LE MARQUIS
+    LE MARQUIS.
 Tu vois que nous avons les Savants de notre côté.
 
-    DORANTE
+    DORANTE.
 Il est vrai, le jugement de Monsieur Lysidas est quelque chose de considérable ; mais Monsieur Lysidas veut bien que je ne me rende pas pour cela. Et puisque j'ai bien l'audace de me défendre contre les sentiments de Madame, il ne trouvera pas mauvais que je combatte les siens.
 
-    ÉLISE
+    ÉLISE.
 Quoi vous voyez contre vous Madame, Monsieur le Marquis, et Monsieur Lysidas, et vous osez résister encore ? Fi que cela est de mauvaise grâce.
 
-    CLIMÈNE
+    CLIMÈNE.
 Voilà qui me confond, pour moi, que des personnes raisonnables se puissent mettre en tête de donner protection aux sottises de cette Pièce !
 
-    LE MARQUIS
+    LE MARQUIS.
 Dieu me damne, Madame, elle est misérable depuis le commencement jusqu'à la fin.
 
-    DORANTE
+    DORANTE.
 Cela est bientôt dit, Marquis ; il n'est rien plus aisé que de trancher ainsi, et je ne vois aucune chose, qui puisse être à couvert de la souveraineté de tes décisions.
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, tous les autres Comédiens qui étaient là pour la voir, en ont dit tous les maux du monde.
 
-    DORANTE
+    DORANTE.
 Ah ! je ne dis plus mot, tu as raison, Marquis ; puisque les autres Comédiens en disent du mal, il faut les en croire assurément. Ce sont tous gens éclairés, et qui parlent sans intérêt, il n'y a plus rien à dire, je me rends.
 
-    CLIMÈNE
+    CLIMÈNE.
 Rendez-vous, ou ne vous rendez pas, je sais fort bien que vous ne me persuaderez point de souffrir les immodesties de cette Pièce ; non plus que les satires désobligeantes qu'on y voit contre les Femmes.
 
-    URANIE
+    URANIE.
 Pour moi, je me garderai bien de m'en offenser, et de prendre rien sur mon compte de tout ce qui s'y dit. Ces sortes de satires tombent directement sur les mœurs, et ne frappent les personnes que par réflexion. N'allons point nous appliquer nous-mêmes les traits d'une censure générale ; et profitons de la leçon, si nous pouvons, sans faire semblant qu'on parle à nous. Toutes les peintures ridicules qu'on expose sur les Théâtres doivent être regardées sans chagrin de tout le monde. Ce sont miroirs publics où il ne faut jamais témoigner qu'on se voie ; et c'est se taxer hautement d'un défaut, que se scandaliser qu'on le reprenne.
 
-    CLIMÈNE
+    CLIMÈNE.
 Pour moi je ne parle pas de ces choses, par la part que j'y puisse avoir ; et je pense que je vis d'un air dans le monde, à ne pas craindre d'être cherchée dans les peintures qu'on fait là des femmes qui se gouvernent mal.
 
-    ÉLISE
+    ÉLISE.
 Assurément, Madame, on ne vous y cherchera point ; votre conduite est assez connue ; et ce sont de ces sortes de choses qui ne sont contestées de personne.
 
-    URANIE
+    URANIE.
 Aussi, Madame, n'ai-je rien dit qui aille à vous ; et mes paroles, comme les Satires de la Comédie, demeurent dans la thèse générale.
 
-    CLIMÈNE
+    CLIMÈNE.
 Je n'en doute pas, Madame. Mais enfin passons sur ce chapitre. Je ne sais pas de quelle façon vous recevez les injures qu'on dit à notre sexe dans un certain endroit de la pièce ; et pour moi je vous avoue que je suis dans une colère épouvantable, de voir que cet auteur impertinent nous appelle des *animaux*.
 
-    URANIE
+    URANIE.
 Ne voyez-vous pas que c'est un ridicule qu'il fait parler ?
 
-    DORANTE
+    DORANTE.
 Et puis, Madame, ne savez-vous pas que les injures des Amants n'offensent jamais ? qu'il est des amours emportés aussi bien que des doucereux ? et qu'en de pareilles occasions les paroles les plus étranges, et quelque chose de pis encore, se prennent bien souvent pour des marques d'affection par celles mêmes qui les reçoivent ?
 
-    ÉLISE
+    ÉLISE.
 Dites tout ce que vous voudrez, je ne saurais digérer cela, non plus que *le potage*, et *la tarte à la crème*, dont Madame a parlé tantôt.
 
-    LE MARQUIS
+    LE MARQUIS.
 Ah ! ma foi oui, *tarte à la crème*. Voilà ce que j'avais remarqué tantôt ; *tarte à la crème*. Que je vous suis obligé, Madame, de m'avoir fait souvenir de *tarte à la crème*. Y a-t-il assez de pommes en Normandie pour *tarte à la crème* ? *Tarte à la crème*, morbleu, *Tarte à la crème* !
 
-    DORANTE
+    DORANTE.
 Eh bien que veux-tu dire, *tarte à la crème* ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, *tarte à la crème*, Chevalier.
 
-    DORANTE
+    DORANTE.
 Mais encore ?
 
-    LE MARQUIS
+    LE MARQUIS.
 *Tarte à la crème*.
 
-    DORANTE
+    DORANTE.
 Dis-nous un peu tes raisons.
 
-    LE MARQUIS
+    LE MARQUIS.
 *Tarte à la crème*.
 
-    URANIE
+    URANIE.
 Mais il faut expliquer sa pensée, ce me semble.
 
-    LE MARQUIS
+    LE MARQUIS.
 *Tarte à la crème*, Madame.
 
-    URANIE
+    URANIE.
 Que trouvez-vous là à redire ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Moi, rien ; *tarte à la crème*.
 
-    URANIE
+    URANIE.
 Ah ! je le quitte.
 
-    ÉLISE
+    ÉLISE.
 Monsieur le Marquis s'y prend bien, et vous bourre de la belle manière. Mais je voudrais bien que Monsieur Lysidas voulût les achever, et leur donner quelques petits coups de sa façon.
 
-    LYSIDAS
+    LYSIDAS.
 Ce n'est pas ma coutume de rien blâmer, et je suis assez indulgent pour les ouvrages des autres. Mais enfin, sans choquer l'amitié que Monsieur le Chevalier témoigne pour l'Auteur, on m'avouera que ces sortes de Comédies ne sont pas proprement des Comédies, et qu'il y a une grande différence de toutes ces bagatelles, à la beauté des pièces sérieuses. Cependant tout le monde donne là dedans aujourd'hui ; on ne court plus qu'à cela ; et l'on voit une solitude effroyable aux grands ouvrages, lorsque des sottises ont tout Paris. Je vous avoue que le cœur m'en saigne quelquefois, et cela est honteux pour la France.
 
-    CLIMÈNE
+    CLIMÈNE.
 Il est vrai que le goût des gens est étrangement gâté là-dessus, et que le siècle s'encanaille furieusement.
 
-    ÉLISE
+    ÉLISE.
 Celui-là est joli encore, *s'encanaille*. Est-ce vous qui l'avez inventé, Madame ?
 
-    CLIMÈNE 
+    CLIMÈNE.
 Hé !
 
-    ÉLISE
+    ÉLISE.
 Je m'en suis bien doutée.
 
-    DORANTE
+    DORANTE.
 Vous croyez donc, Monsieur Lysidas, que tout l'esprit et toute la beauté sont dans les Poèmes sérieux, et que les Pièces Comiques sont des niaiseries qui ne méritent aucune louange ?
 
-    URANIE
+    URANIE.
 Ce n'est pas mon sentiment, pour moi. La Tragédie, sans doute, est quelque chose de beau quand elle est bien touchée ; mais la Comédie a ses charmes, et je tiens que l'une n'est pas moins difficile à faire que l'autre.
 
-    DORANTE
+    DORANTE.
 Assurément, Madame, et quand pour la difficulté vous mettriez un plus du côté de la Comédie, peut-être que vous ne vous abuseriez pas. Car enfin, je trouve qu'il est bien plus aisé de se guinder sur de grands sentiments, de braver en Vers la Fortune, accuser les Destins, et dire des injures aux Dieux, que d'entrer comme il faut dans le ridicule des hommes, et de rendre agréablement sur le Théâtre les défauts de tout le monde. Lorsque vous peignez des Héros, vous faites ce que vous voulez ; ce sont des portraits à plaisir, où l'on ne cherche point de ressemblance ; et vous n'avez qu'à suivre les traits d'une imagination qui se donne l'essor, et qui souvent laisse le vrai pour attraper le merveilleux. Mais lorsque vous peignez les hommes, il faut peindre d'après Nature ; on veut que ces portraits ressemblent ; et vous n'avez rien fait si vous n'y faites reconnaître les gens de votre siècle. En un mot, dans les pièces sérieuses, il suffit, pour n'être point blâmé, de dire des choses qui soient de bon sens, et bien écrites : Mais ce n'est pas assez dans les autres ; il y faut plaisanter ; et c'est une étrange entreprise que celle de faire rire les honnêtes gens.
 
-    CLIMÈNE
+    CLIMÈNE.
 Je crois être du nombre des honnêtes gens, et cependant je n'ai pas trouvé le mot pour rire dans tout ce que j'ai vu.
 
-    LE MARQUIS
+    LE MARQUIS.
 Ma foi, ni moi non plus.
 
-    DORANTE
+    DORANTE.
 Pour toi, Marquis, je ne m'en étonne pas ; c'est que tu n'y as point trouvé de Turlupinades.
 
-    LYSIDAS
+    LYSIDAS.
 Ma foi, Monsieur, ce qu'on y rencontre ne vaut guère mieux, et toutes les plaisanteries y sont assez froides, à mon avis.
 
-    DORANTE
+    DORANTE.
 La Cour n'a pas trouvé cela.
 
-    LYSIDAS
+    LYSIDAS.
 Ah ! Monsieur, la Cour.
 
-    DORANTE
+    DORANTE.
 Achevez, Monsieur Lysidas. Je vois bien que vous voulez dire que la Cour ne se connaît pas à ces choses ; et c'est le refuge ordinaire de vous autres Messieurs les Auteurs, dans le mauvais succès de vos ouvrages, que d'accuser l'injustice du siècle, et le peu de lumière des Courtisans. Sachez, s'il vous plaît, Monsieur Lysidas, que les Courtisans ont d'aussi bons yeux que d'autres ; qu'on peut être habile avec un point de Venise, et des plumes, aussi bien qu'avec une perruque courte, et un petit rabat uni : que la grande épreuve de toutes vos Comédies, c'est le jugement de la Cour ; que c'est son goût qu'il faut étudier pour trouver l'art de réussir ; qu'il n'y a point de lieu où les décisions soient si justes ; et sans mettre en ligne de compte tous les gens savants qui y sont, que du simple bon sens naturel et du commerce de tout le beau monde, on s'y fait une manière d'esprit, qui, sans comparaison, juge plus finement des choses, que tout le savoir enrouillé des Pédants.
 
-    URANIE
+    URANIE.
 Il est vrai que pour peu qu'on y demeure, il vous passe là tous les jours assez de choses devant les yeux, pour acquérir quelque habitude de les connaître, et surtout pour ce qui est de la bonne et mauvaise plaisanterie.
 
-    DORANTE
+    DORANTE.
 La Cour a quelques ridicules, j'en demeure d'accord, et je suis, comme on voit, le premier à les fronder. Mais, ma foi, il y en a un grand nombre parmi les beaux Esprits de profession ; et si l'on joue quelques Marquis, je trouve qu'il y a bien plus de quoi jouer les Auteurs, et que ce serait une chose plaisante à mettre sur le Théâtre, que leurs grimaces savantes, et leurs raffinements ridicules ; leur vicieuse coutume d'assassiner les gens de leurs ouvrages ; leur friandise de louanges ; leurs ménagements de pensées ; leur trafic de réputation ; et leurs ligues offensives et défensives ; aussi bien que leurs guerres d'esprit, et leurs combats de Prose, et de Vers.
 
-    LYSIDAS
+    LYSIDAS.
 Molière est bien heureux, Monsieur, d'avoir un protecteur aussi chaud que vous. Mais enfin, pour venir au fait, il est question de savoir si sa pièce est bonne, et je m'offre d'y montrer partout cent défauts visibles.
 
-    URANIE
+    URANIE.
 C'est une étrange chose de vous autres Messieurs les Poètes, que vous condamniez toujours les Pièces où tout le monde court, et ne disiez jamais du bien que de celles où personne ne va. Vous montrez pour les unes une haine invincible, et pour les autres une tendresse qui n'est pas concevable.
 
-    DORANTE
+    DORANTE.
 C'est qu'il est généreux de se ranger du côté des affligés.
 
-    URANIE
+    URANIE.
 Mais de grâce, Monsieur Lysidas, faites-nous voir ces défauts, dont je ne me suis point aperçue.
 
-    LYSIDAS
+    LYSIDAS.
 Ceux qui possèdent Aristote et Horace voient d'abord, Madame, que cette comédie pèche contre toutes les règles de l'art.
 
-    URANIE
+    URANIE.
 Je vous avoue que je n'ai aucune habitude avec ces Messieurs-là, et que je ne sais point les règles de l'art.
 
-    DORANTE
+    DORANTE.
 Vous êtes de plaisantes gens avec vos règles dont vous embarrassez les ignorants, et nous étourdissez tous les jours. Il semble, à vous ouïr parler, que ces règles de l'art soient les plus grands Mystères du monde, et cependant ce ne sont que quelques observations aisées que le bon sens a faites sur ce qui peut ôter le plaisir que l'on prend à ces sortes de Poèmes ; et le même bon sens qui a fait autrefois ces observations, les fait aisément tous les jours, sans le secours d'Horace et d'Aristote. Je voudrais bien savoir si la grande règle de toutes les règles n'est pas de plaire ; et si une pièce de Théâtre qui a attrapé son but n'a pas suivi un bon chemin. Veut-on que tout un public s'abuse sur ces sortes de choses, et que chacun n'y soit pas juge du plaisir qu'il y prend ?
 
-    URANIE
+    URANIE.
 J'ai remarqué une chose de ces Messieurs-là ; c'est que ceux qui parlent le plus des règles, et qui les savent mieux que les autres, font des Comédies que personne ne trouve belles.
 
-    DORANTE
+    DORANTE.
 Et c'est ce qui marque, Madame, comme on doit s'arrêter peu à leurs disputes embarrassées. Car enfin, si les pièces qui sont selon les règles ne plaisent pas, et que celles qui plaisent ne soient pas selon les règles, il faudrait de nécessité que les règles eussent été mal faites. Moquons-nous donc de cette chicane où ils veulent assujettir le goût du public, et ne consultons dans une Comédie que l'effet qu'elle fait sur nous. Laissons-nous aller de bonne foi aux choses qui nous prennent par les entrailles, et ne cherchons point de raisonnements pour nous empêcher d'avoir du plaisir.
 
-    URANIE
+    URANIE.
 Pour moi, quand je vois une Comédie, je regarde seulement si les choses me touchent, et lorsque je m'y suis bien divertie, je ne vais point demander si j'ai eu tort, et si les règles d'Aristote me défendaient de rire.
 
-    DORANTE
+    DORANTE.
 C'est justement comme un homme qui aurait trouvé une sauce, excellente, et qui voudrait examiner si elle est bonne, sur les préceptes du *Cuisinier français*.
 
-    URANIE
+    URANIE.
 Il est vrai ; et j'admire les raffinements de certaines gens sur des choses que nous devons sentir par nous-mêmes.
 
-    DORANTE
+    DORANTE.
 Vous avez raison Madame, de les trouver étranges tous ces raffinements mystérieux. Car enfin, s'ils ont lieu, nous voilà réduits à ne nous plus croire ; nos propres sens seront esclaves en toutes choses ; et jusques au manger et au boire, nous n'oserons plus trouver rien de bon, sans le congé de messieurs les experts.
 
-    LYSIDAS
+    LYSIDAS.
 Enfin, Monsieur, toute votre raison, c'est que *L'École des Femmes* a plu ; et vous ne vous souciez point qu'elle soit dans les règles pourvu…
 
-    DORANTE
+    DORANTE.
 Tout beau, Monsieur Lysidas, je ne vous accorde pas cela. Je dis bien que le grand art est de plaire, et que cette Comédie ayant plu à ceux pour qui elle est faite, je trouve que c'est assez pour elle, et qu'elle doit peu se soucier du reste. Mais avec cela, je soutiens qu'elle ne pèche contre aucune des règles dont vous parlez. Je les ai lues, Dieu merci, autant qu'un autre, et je ferais voir aisément que peut-être, n'avons-nous point de pièce au Théâtre plus régulière que celle-là.
 
-    ÉLISE
+    ÉLISE.
 Courage, Monsieur Lysidas, nous sommes perdus si vous reculez.
 
-    LYSIDAS
+    LYSIDAS.
 Quoi, Monsieur, la Protase, l'Épitase, et la Péripétie ?…
 
-    DORANTE
+    DORANTE.
 Ah ! Monsieur Lysidas, vous nous assommez avec vos grands mots. Ne paraissez point si savant, de grâce ; humanisez votre discours, et parlez pour être entendu. Pensez-vous qu'un nom grec donne plus de poids à vos raisons ? Et ne trouveriez-vous pas qu'il fût aussi beau de dire, l'exposition du sujet, que la Protase ; le nœud, que l'Épitase ; et le dénouement, que la Péripétie ?
 
-    LYSIDAS
+    LYSIDAS.
 Ce sont termes de l'art dont il est permis de se servir. Mais puisque ces mots blessent vos oreilles, je m'expliquerai d'une autre façon, et je vous prie de répondre positivement à trois ou quatre choses que je vais dire. Peut-on souffrir une pièce qui pèche contre le nom propre des pièces de Théâtre ? Car enfin le nom de poème Dramatique vient d'un mot grec, qui signifie agir, pour montrer que la nature de ce poème consiste dans l'action ; et dans cette comédie-ci il ne se passe point d'actions, et tout consiste en des récits que vient faire ou Agnès ou Horace.
 
-    LE MARQUIS
+    LE MARQUIS.
 Ah, ah, Chevalier.
 
-    CLIMÈNE
+    CLIMÈNE.
 Voilà qui est spirituellement remarqué, et c'est prendre le fin des choses.
 
-    LYSIDAS
+    LYSIDAS.
 Est-il rien de si peu spirituel, ou, pour mieux dire, rien de si bas, que quelques mots où tout le monde rit, et surtout celui des enfants par l'oreille ?
 
-    CLIMÈNE
+    CLIMÈNE.
 Fort bien.
 
-    ÉLISE
+    ÉLISE.
 Ah !
 
-    LYSIDAS
+    LYSIDAS.
 La Scène du valet et de la servante au dedans de la maison, n'est-elle pas d'une longueur ennuyeuse, et tout à fait impertinente ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Cela est vrai.
 
-    CLIMÈNE
+    CLIMÈNE.
 Assurément.
 
-    ÉLISE
+    ÉLISE.
 Il a raison.
 
-    LYSIDAS
+    LYSIDAS.
 Arnolphe ne donne-t-il pas trop librement son argent à Horace ; et puisque c'est le personnage ridicule de la pièce, fallait-il lui faire faire l'action d'un honnête homme ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Bon, la remarque est encore bonne.
 
-    CLIMÈNE
+    CLIMÈNE.
 Admirable.
 
-    ÉLISE
+    ÉLISE.
 Merveilleuse.
 
-    LYSIDAS
+    LYSIDAS.
 Le sermon, et les Maximes ne sont-elles pas des choses ridicules, et qui choquent, même, le respect que l'on doit à nos mystères ?
 
-    LE MARQUIS 
+    LE MARQUIS.
 C'est bien dit.
 
-    CLIMÈNE
+    CLIMÈNE.
 Voilà parlé comme il faut.
 
-    ÉLISE
+    ÉLISE.
 Il ne se peut rien de mieux.
 
-    LYSIDAS
+    LYSIDAS.
 Et ce Monsieur de la Souche, enfin, qu'on nous fait un homme d'esprit, et qui paraît si sérieux en tant d'endroits, ne descend-il point dans quelque chose de trop Comique, et de trop outré au cinquième Acte, lorsqu'il explique à Agnès la violence de son amour avec ces roulements d'yeux extravagants, ces soupirs ridicules, et ces larmes niaises qui font rire tout le monde ?
 
-    LE MARQUIS
+    LE MARQUIS.
 Morbleu, merveille !
 
-    CLIMÈNE 
+    CLIMÈNE.
 Miracle !
 
-    ÉLISE
+    ÉLISE.
 Vivat, Monsieur Lysidas.
 
-    LYSIDAS
+    LYSIDAS.
 Je laisse cent mille autres choses de peur d'être ennuyeux.
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, Chevalier, te voilà mal ajusté.
 
-    DORANTE
+    DORANTE.
 Il faut voir.
 
-    LE MARQUIS
+    LE MARQUIS.
 Tu as trouvé ton homme, ma foi.
 
-    DORANTE
+    DORANTE.
 Peut-être.
 
-    LE MARQUIS
+    LE MARQUIS.
 Réponds, réponds, réponds, réponds.
 
-    DORANTE
+    DORANTE.
 Volontiers. Il…
 
-    LE MARQUIS
+    LE MARQUIS.
 Réponds donc, je te prie.
 
-    DORANTE
+    DORANTE.
 Laisse-moi donc faire. Si…
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, je te défie de répondre.
 
-    DORANTE
+    DORANTE.
 Oui, si tu parles toujours.
 
-    CLIMÈNE
+    CLIMÈNE.
 De grâce écoutons ses raisons.
 
-    DORANTE
+    DORANTE.
 Premièrement, il n'est pas vrai de dire que toute la pièce n'est qu'en récits. On y voit beaucoup d'actions qui se passent sur la Scène ; et les récits eux-mêmes y sont des actions suivant la constitution du sujet, d'autant qu'ils sont tous faits innocemment, ces récits, à la personne intéressée, qui par là entre à tous coups dans une confusion à réjouir les spectateurs, et prend à chaque nouvelle toutes les mesures qu'il peut pour se parer du malheur qu'il craint.
 
-    URANIE
+    URANIE.
 Pour moi, je trouve que la beauté du sujet de *L'École des Femmes* consiste dans cette confidence perpétuelle ; et ce qui me paraît assez plaisant, c'est qu'un homme qui a de l'Esprit et qui est averti de tout par une innocente qui est sa maîtresse et par un étourdi qui est son rival, ne puisse avec cela éviter ce qui lui arrive.
 
-    LE MARQUIS
+    LE MARQUIS.
 Bagatelle, bagatelle.
 
-    CLIMÈNE
+    CLIMÈNE.
 Faible réponse.
 
-    ÉLISE
+    ÉLISE.
 Mauvaises raisons.
 
-    DORANTE
+    DORANTE.
 Pour ce qui est des enfants par l'oreille, ils ne sont plaisants que par réflexion à Arnolphe ; et l'Auteur n'a pas mis cela pour être de soi un bon mot : mais seulement pour une chose qui caractérise l'homme, et peint d'autant mieux son extravagance, puisqu'il rapporte une sottise triviale qu'a dite Agnès, comme la chose la plus belle du monde et qui lui donne une joie inconcevable.
 
-    LE MARQUIS
+    LE MARQUIS.
 C'est mal répondre.
 
-    CLIMÈNE
+    CLIMÈNE.
 Cela ne satisfait point.
 
-    ÉLISE
+    ÉLISE.
 C'est ne rien dire.
 
-    DORANTE
+    DORANTE.
 Quant à l'argent qu'il donne librement, outre que la lettre de son meilleur ami lui est une caution suffisante, il n'est pas incompatible qu'une personne soit ridicule en de certaines choses, et honnête homme en d'autres. Et pour la Scène d'Alain et de Georgette dans le logis, que quelques-uns ont trouvée longue et froide, il est certain qu'elle n'est pas sans raison ; et de même qu'Arnolphe se trouve attrapé pendant son voyage, par la pure innocence de sa maîtresse, il demeure au retour longtemps à sa porte par l'innocence de ses valets, afin qu'il soit partout puni par les choses qu'il a cru faire la sûreté de ses précautions.
 
-    LE MARQUIS
+    LE MARQUIS.
 Voilà des raisons qui ne valent rien.
 
-    CLIMÈNE
+    CLIMÈNE.
 Tout cela ne fait que blanchir.
 
-    ÉLISE
+    ÉLISE.
 Cela fait pitié.
 
-    DORANTE
+    DORANTE.
 Pour le discours moral que vous appelez un sermon, il est certain que de vrais dévots qui l'ont ouï n'ont pas trouvé qu'il choquât ce que vous dites ; et sans doute que ces paroles d'enfer et de chaudières bouillantes sont assez justifiées par l'extravagance d'Arnolphe et par l'innocence de celle à qui il parle. Et quant au transport amoureux du cinquième acte qu'on accuse d'être trop outré et trop comique, je voudrais bien savoir si ce n'est pas faire la satire des amants, et si les honnêtes gens même, et les plus sérieux, en de pareilles occasions, ne font pas des choses ?…
 
-    LE MARQUIS
+    LE MARQUIS.
 Ma foi, Chevalier, tu ferais mieux de te taire.
 
-    DORANTE
+    DORANTE.
 Fort bien. Mais enfin si nous nous regardions nous-mêmes, quand nous sommes bien amoureux ?…
 
-    LE MARQUIS
+    LE MARQUIS.
 Je ne veux pas seulement t'écouter.
 
-    DORANTE
+    DORANTE.
 Écoute-moi si tu veux. Est-ce que dans la violence de la passion ?…
 
-    LE MARQUIS
+    LE MARQUIS.
 La, la, la, la, lare, la, la, la, la, la, la.
 Il chante.
 
 
-    DORANTE
+    DORANTE.
 Quoi ?…
 
-    LE MARQUIS
+    LE MARQUIS.
 La, la, la, la, lare, la, la, la, la, la, la.
 
-    DORANTE
+    DORANTE.
 Je ne sais pas si ?…
 
-    LE MARQUIS
+    LE MARQUIS.
 La, la, la, la, lare, la, la, la, la, la, la, la.
 
-    URANIE
+    URANIE.
 Il me semble que…
 
-    LE MARQUIS
+    LE MARQUIS.
 La, la, la, lare, la, la, la, la, la, la, la, la, la, la.
 
-    URANIE
+    URANIE.
 Il se passe des choses assez plaisantes dans notre dispute. Je trouve qu'on en pourrait bien faire une petite Comédie, et que cela ne serait pas trop mal à la queue de *L'École des Femmes*.
 
-    DORANTE
+    DORANTE.
 Vous avez raison.
 
-    LE MARQUIS
+    LE MARQUIS.
 Parbleu, Chevalier, tu jouerais là-dedans un rôle qui ne te serait pas avantageux.
 
-    DORANTE
+    DORANTE.
 Il est vrai, Marquis.
 
-    CLIMÈNE
+    CLIMÈNE.
 Pour moi, je souhaiterais que cela se fît, pourvu qu'on traitât l'affaire comme elle s'est passée.
 
-    ÉLISE
+    ÉLISE.
 Et moi je fournirais de bon cœur mon personnage.
 
-    LYSIDAS
+    LYSIDAS.
 Je ne refuserais pas le mien, que je pense.
 
-    URANIE
+    URANIE.
 Puisque chacun en serait content, Chevalier, faites un mémoire de tout, et le donnez à Molière que vous connaissez, pour le mettre en Comédie.
 
-    CLIMÈNE
+    CLIMÈNE.
 Il n'aurait garde, sans doute, et ce ne serait pas des vers à sa louange.
 
-    URANIE
+    URANIE.
 Point, point ; je connais son humeur ; il ne se soucie pas qu'on fronde ses pièces, pourvu qu'il y vienne du monde.
 
-    DORANTE
+    DORANTE.
 Oui ; mais quel dénouement pourrait-il trouver à ceci ? Car il ne saurait y avoir ni mariage, ni reconnaissance ; et je ne sais point par où l'on pourrait faire finir la dispute.
 
-    URANIE
+    URANIE.
 Il faudrait rêver quelque incident pour cela.
 
 
-## Scène VII et Dernière
+## Scène VII et Dernière.
 Galopin, Lysidas, Dorante, Le marquis, Climène, Élise, Uranie.
 
 
-    GALOPIN
+    GALOPIN.
 Madame, on a servi sur table.
 
-    DORANTE
+    DORANTE.
 Ah ! voilà justement ce qu'il faut pour le dénouement que nous cherchions, et l'on ne peut rien trouver de plus naturel. On disputera fort et ferme de part et d'autre, comme nous avons fait, sans que personne se rende ; un petit laquais viendra dire qu'on a servi ; on se lèvera, et chacun ira souper.
 
-    URANIE
+    URANIE.
 La Comédie ne peut pas mieux finir, et nous ferons bien d'en demeurer là.< FIN >

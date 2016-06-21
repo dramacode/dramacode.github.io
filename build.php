@@ -30,23 +30,23 @@ class Dramacode
     ),
     "tc" => array(
       "glob" => '
-        ../theatre-classique/BOISROBERT_*.xml
-        ../theatre-classique/BOURSAULT_*.xml
-        ../theatre-classique/CORNEILLEP_*.xml
-        ../theatre-classique/CORNEILLET_*.xml
-        ../theatre-classique/CYRANO_*.xml
-        ../theatre-classique/DONNEAUDEVISE_*.xml
-        ../theatre-classique/GILLET_*.xml
-        ../theatre-classique/LETELLIER_*.xml
-        ../theatre-classique/RACINE*.xml
-        ../theatre-classique/ROSIMOND_*.xml
-        ../theatre-classique/ROTROU_*.xml
-        ../theatre-classique/SCARRON_*.xml
-        ../theatre-classique/VILLIERS_*.xml
+        ../tcp5/boisrobert_*.xml
+        ../tcp5/boursault_*.xml
+        ../tcp5/corneillep_*.xml
+        ../tcp5/corneillet_*.xml
+        ../tcp5/cyrano_*.xml
+        ../tcp5/donneaudevise_*.xml
+        ../tcp5/gillet_*.xml
+        ../tcp5/letellier_*.xml
+        ../tcp5/racine_*.xml
+        ../tcp5/rosimond_*.xml
+        ../tcp5/rotrou_*.xml
+        ../tcp5/scarron_*.xml
+        ../tcp5/villiers_*.xml
       ',
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
-      "source" => "http://dramacode.github.io/theatre-classique/%s.xml",
+      "source" => "http://dramacode.github.io/tcp5/%s.xml",
       "predir" => 'tc-',
     ),
     /*

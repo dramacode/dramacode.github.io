@@ -8,7 +8,7 @@ title: Les femmes savantes
 
 
 
-# Extrait du Privilège du Roi
+# Extrait du Privilège du Roi.
 
 Par Grâce & Privilège du Roi, donné à Paris le 31. Décembre 1670. Signé, Par le Roi en son Conseil GUITONNEAU. Il est permis à I.B.P. MOLIÈRE, de faire imprimer par tel Imprimeur ou Libraire qu'il voudra choisir une Pièce de Théâtre de sa composition intitulée *Les Femmes Savantes* ; et ce pendant le temps & espace de dix ans, à compter du jour que ladite Pièce sera achevée d'imprimer pour la première fois : Et défenses sont faites à toutes Personnes de quelque qualité & condition, qu'ils *sic* soient, d'imprimer, ou faire imprimer ladite Pièce, sans le consentement de l'Exposant, ou de ceux qui auront droit de lui, à peine de six mil livres d'amende, & de tous dépens, dommages & intérêts ainsi que plus au long il est porté audit Privilège.
 
@@ -19,7 +19,7 @@ Signé,  L. SEVESTRE Syndic
 Achevé d' imprimer le 10. Décembre 1672.
 
 
-# Acteurs
+# Acteurs.
  – Chrysale, bon bourgeois.
  – Philaminte, femme de Chrysale.
  – Armande, fille de Chrysale et de Philaminte.
@@ -37,37 +37,37 @@ La Scène est à Paris.
 
 
 
-# Acte Premier
+# Acte Premier.
 
 
-## Scène Première
+## Scène Première.
 Armande, Henriette.
 
 
-    ARMANDE
+    ARMANDE.
 Quoi, le beau nom de Fille est un titre, ma Sœur,  
 Dont vous voulez quitter la charmante douceur ?  
 Et de vous marier vous osez faire fête ?  
 Ce vulgaire dessein vous peut monter en tête ?  
 
-    HENRIETTE
+    HENRIETTE.
 Oui, ma sœur.  
 
-    ARMANDE
+    ARMANDE.
         Ah ce oui se peut-il supporter ?  
 Et sans un mal de cœur saurait-on l'écouter ?  
 
-    HENRIETTE
+    HENRIETTE.
 Qu'a donc le Mariage en soi qui vous oblige,  
 Ma Sœur...  
 
-    ARMANDE
+    ARMANDE.
     Ah mon Dieu, fi.  
 
-    HENRIETTE
+    HENRIETTE.
     Comment ?  
 
-    ARMANDE
+    ARMANDE.
         Ah fi, vous dis-je.  
 Ne concevez-vous point ce que, dès qu'on l'entend,  
 Un tel mot à l'Esprit offre de dégoûtant ?  
@@ -76,16 +76,16 @@ Sur quelle sale vue il traîne la pensée ?
 N'en frissonnez-vous point ? et pouvez-vous, ma Sœur,  
 Aux suites de ce mot résoudre votre cœur ?  
 
-    HENRIETTE
+    HENRIETTE.
 Les suites de ce mot, quand je les envisage,  
 Me font voir un Mari, des Enfants, un Ménage ;  
 Et je ne vois rien là, si j'en puis raisonner,  
 Qui blesse la pensée, et fasse frissonner.  
 
-    ARMANDE
+    ARMANDE.
 De tels attachements, ô Ciel ! sont pour vous plaire ?  
 
-    HENRIETTE
+    HENRIETTE.
 Et qu'est-ce qu'à mon âge on a de mieux à faire,  
 Que d'attacher à soi, par le titre d'époux,  
 Un Homme qui vous aime, et soit aimé de vous ;  
@@ -93,7 +93,7 @@ Et de cette union de tendresse suivie,
 Se faire les douceurs d'une innocente vie ?  
 Ce nœud bien assorti n'a-t-il pas des appas ?  
 
-    ARMANDE
+    ARMANDE.
 Mon Dieu, que votre Esprit est d'un étage bas !  
 Que vous jouez au Monde un petit Personnage,  
 De vous claquemurer aux choses du Ménage,  
@@ -122,7 +122,7 @@ Qui doivent de la vie occuper les moments ;
 Et les soins où je vois tant de Femmes sensibles,  
 Me paraissent aux yeux des pauvretés horribles.  
 
-    HENRIETTE
+    HENRIETTE.
 Le Ciel, dont nous voyons que l'ordre est tout-puissant,  
 Pour différents emplois nous fabrique en naissant ;  
 Et tout Esprit n'est pas composé d'une étoffe  
@@ -144,13 +144,13 @@ Moi, du côté des sens et des grossiers plaisirs ;
 Vous, aux productions d'Esprit et de lumière,  
 Moi, dans celles, ma Sœur, qui sont de la matière.  
 
-    ARMANDE
+    ARMANDE.
 Quand sur une Personne on prétend se régler,  
 C'est par les beaux côtés qu'il lui faut ressembler ;  
 Et ce n'est point du tout la prendre pour modèle,  
 Ma Sœur, que de tousser et de cracher comme elle.  
 
-    HENRIETTE
+    HENRIETTE.
 Mais vous ne seriez pas ce dont vous vous vantez,  
 Si ma Mère n'eût eu que de ces beaux côtés ;  
 Et bien vous prend, ma Sœur, que son noble génie  
@@ -160,23 +160,23 @@ Des bassesses à qui vous devez la clarté ;
 Et ne supprimez point, voulant qu'on vous seconde,  
 Quelque petit Savant qui veut venir au monde.  
 
-    ARMANDE
+    ARMANDE.
 Je vois que votre Esprit ne peut être guéri  
 Du fol entêtement de vous faire un Mari :  
 Mais sachons, s'il vous plaît, qui vous songez à prendre ?  
 Votre visée au moins n'est pas mise à Clitandre.  
 
-    HENRIETTE
+    HENRIETTE.
 Et par quelle raison n'y serait-elle pas ?  
 Manque-t-il de mérite ? est-ce un choix qui soit bas ?  
 
-    ARMANDE
+    ARMANDE.
 Non, mais c'est un dessein qui serait malhonnête,  
 Que de vouloir d'un autre enlever la conquête ;  
 Et ce n'est pas un fait dans le Monde ignoré,  
 Que Clitandre ait pour moi hautement soupiré.  
 
-    HENRIETTE
+    HENRIETTE.
 Oui,mais tous ces soupirs chez vous sont choses vaines,  
 Et vous ne tombez point aux bassesses humaines ;  
 Votre esprit à l'Hymen renonce pour toujours,  
@@ -184,56 +184,56 @@ Et la Philosophie a toutes vos amours :
 Ainsi n'ayant au cœur nul dessein pour Clitandre,  
 Que vous importe-t-il qu'on y puisse prétendre ?  
 
-    ARMANDE
+    ARMANDE.
 Cet empire que tient la Raison sur les sens,  
 Ne fait pas renoncer aux douceurs des encens ;  
 Et l'on peut pour Époux refuser un mérite  
 Que pour adorateur on veut bien à sa suite.  
 
-    HENRIETTE
+    HENRIETTE.
 Je n'ai pas empêché qu'à vos perfections  
 Il n'ait continué ses adorations ;  
 Et je n'ai fait que prendre, au refus de votre âme,  
 Ce qu'est venu m'offrir l'hommage de sa flamme.  
 
-    ARMANDE
+    ARMANDE.
 Mais à l'offre des vœux d'un Amant dépité,  
 Trouvez-vous, je vous prie, entière sûreté ?  
 Croyez-vous pour vos yeux sa passion bien forte,  
 Et qu'en son cœur pour moi toute flamme soit morte ?  
 
-    HENRIETTE
+    HENRIETTE.
 Il me le dit, ma Sœur, et pour moi je le crois.  
 
-    ARMANDE
+    ARMANDE.
 Ne soyez pas, ma Sœur, d'une si bonne foi,  
 Et croyez, quand il dit qu'il me quitte et vous aime,  
 Qu'il n'y songe pas bien, et se trompe lui-même.  
 
-    HENRIETTE
+    HENRIETTE.
 Je ne sais ; Mais enfin, si c'est votre plaisir,  
 Il nous est bien aisé de nous en éclaircir.  
 Je l'aperçois qui vient, et sur cette matière  
 Il pourra nous donner une pleine lumière.  
 
 
-## Scène II
+## Scène II.
 Clitandre, Armande, Henriette.
 
 
-    HENRIETTE
+    HENRIETTE.
 Pour me tirer d'un doute où me jette ma Sœur,  
 Entre elle et moi, Clitandre, expliquez votre cœur,  
 Découvrez-en le fond, et nous daignez apprendre  
 Qui de nous à vos vœux est en droit de prétendre.  
 
-    ARMANDE
+    ARMANDE.
 Non, non,je ne veux point à votre passion  
 Imposer la rigueur d'une explication ;  
 Je ménage les Gens, et sais comme embarrasse  
 Le contraignant effort de ces aveux en face.  
 
-    CLITANDRE
+    CLITANDRE.
 Non, Madame, mon cœur qui dissimule peu,  
 Ne sent nulle contrainte à faire un libre aveu ;  
 Dans aucun embarras un tel pas ne me jette,  
@@ -261,18 +261,18 @@ De ne vouloir tenter nul effort sur ma flamme,
 De ne point essayer à rappeler un cœur  
 Résolu de mourir dans cette douce ardeur.  
 
-    ARMANDE
+    ARMANDE.
 Eh qui vous dit, Monsieur, que l'on ait cette envie,  
 Et que de vous enfin si fort on se soucie ?  
 Je vous trouve plaisant, de vous le figurer ;  
 Et bien impertinent, de me le déclarer.  
 
-    HENRIETTE
+    HENRIETTE.
 Eh doucement, ma Sœur. Où donc est la Morale  
 Qui sait si bien régir la partie animale,  
 Et retenir la bride aux efforts du courroux ?  
 
-    ARMANDE
+    ARMANDE.
 Mais vous qui m'en parlez, où la pratiquez-vous,  
 De répondre à l'amour que l'on vous fait paraître,  
 Sans le congé de ceux qui vous ont donné l'être ?  
@@ -281,7 +281,7 @@ Qu'il ne vous est permis d'aimer que par leur choix,
 Qu'ils ont sur votre cœur l'autorité suprême,  
 Et qu'il est criminel d'en disposer vous-même.  
 
-    HENRIETTE
+    HENRIETTE.
 Je rends grâce aux bontés que vous me faites voir,  
 De m'enseigner si bien les choses du devoir ;  
 Mon cœur sur vos leçons veut régler sa conduite,  
@@ -291,15 +291,15 @@ De l'agrément de ceux dont j'ai reçu le jour,
 Faites-vous sur mes vœux un pouvoir légitime,  
 Et me donnez moyen de vous aimer sans crime.  
 
-    CLITANDRE
+    CLITANDRE.
 J'y vais de tous mes soins travailler hautement,  
 Et j'attendais de vous ce doux consentement.  
 
-    ARMANDE
+    ARMANDE.
 Vous triomphez, ma Sœur, et faites une mine  
 Àvous imaginer que cela me chagrine.  
 
-    HENRIETTE
+    HENRIETTE.
 Moi, ma Sœur, point du tout ; je sais que sur vos sens  
 Les droits de la Raison sont toujours tout-puissants,  
 Et que par les leçons qu'on prend dans la Sagesse,  
@@ -310,39 +310,39 @@ Appuyer sa demande, et de votre suffrage
 Presser l'heureux moment de notre Mariage.  
 Je vous en sollicite, et pour y travailler...  
 
-    ARMANDE
+    ARMANDE.
 Votre petit Esprit se mêle de railler,  
 Et d'un cœur qu'on vous jette on vous voit toute fière.  
 
-    HENRIETTE
+    HENRIETTE.
 Tout jeté qu'est ce cœur, il ne vous déplaît guère ;  
 Et si vos yeux sur moi le pouvaient ramasser,  
 Ils prendraient aisément le soin de se baisser.  
 
-    ARMANDE
+    ARMANDE.
 Àrépondre à cela je ne daigne descendre,  
 Et ce sont sots discours qu'il ne faut pas entendre.  
 
-    HENRIETTE
+    HENRIETTE.
 C'est fort bien fait à vous, et vous nous faites voir  
 Des modérations qu'on ne peut concevoir.  
 
 
-## Scène III
+## Scène III.
 Clitandre, Henriette.
 
 
-    HENRIETTE
+    HENRIETTE.
 Votre sincère aveu ne l'a pas peu surprise.  
 
-    CLITANDRE
+    CLITANDRE.
 Elle mérite assez une telle franchise,  
 Et toutes les hauteurs de sa folle fierté  
 Sont dignes tout au moins de ma sincérité :  
 Mais puisqu'il m'est permis, je vais à votre Père,  
 Madame...  
 
-    HENRIETTE
+    HENRIETTE.
         Le plus sûr est de gagner ma Mère :  
 Mon Père est d'une humeur à consentir à tout,  
 Mais il met peu de poids aux choses qu'il résout ;  
@@ -355,7 +355,7 @@ Une âme, je l'avoue, un peu plus complaisante,
 Un esprit qui flattant les visions du leur,  
 Vous pût de leur estime attirer la chaleur.  
 
-    CLITANDRE
+    CLITANDRE.
 Mon cœur n'a jamais pu, tant il est né sincère,  
 Même dans votre Sœur flatter leur caractère,  
 Et les Femmes Docteurs ne sont point de mon goût.  
@@ -379,7 +379,7 @@ Un Benêt dont partout on siffle les Écrits,
 Un Pédant dont on voit la plume libérale  
 D'officieux papiers fournir toute la Halle.  
 
-    HENRIETTE
+    HENRIETTE.
 Ses Écrits, ses discours, tout m'en semble ennuyeux,  
 Et je me trouve assez votre goût et vos yeux :  
 Mais comme sur ma Mère il a grande puissance,  
@@ -389,7 +389,7 @@ Il veut de tout le Monde y gagner la faveur ;
 Et pour n'avoir personne à sa flamme contraire,  
 Jusqu'au Chien du Logis il s'efforce de plaire.  
 
-    CLITANDRE
+    CLITANDRE.
 Oui, vous avez raison ; mais Monsieur Trissotin  
 M'inspire au fond de l'âme un dominant chagrin.  
 Je ne puis consentir, pour gagner ses suffrages,  
@@ -407,10 +407,10 @@ Qu'il se sait si bon gré de tout ce qu'il écrit ;
 Et qu'il ne voudrait pas changer sa renommée  
 Contre tous les honneurs d'un Général d'Armée.  
 
-    HENRIETTE
+    HENRIETTE.
 C'est avoir de bons yeux que de voir tout cela.  
 
-    CLITANDRE
+    CLITANDRE.
 Jusques à sa Figure encor la chose alla,  
 Et je vis par les Vers qu'à la tête il nous jette,  
 De quel air il fallait que fût fait le Poète ;  
@@ -419,26 +419,26 @@ Que rencontrant un Homme un jour dans le Palais,
 Je gageai que c'était Trissotin en personne,  
 Et je vis qu'en effet la gageure était bonne.  
 
-    HENRIETTE
+    HENRIETTE.
 Quel conte !  
 
-    CLITANDRE
+    CLITANDRE.
         Non, je dis la chose comme elle est :  
 Mais je vois votre Tante. Agréez, s'il vous plaît,  
 Que mon cœur lui déclare ici notre mystère,  
 Et gagne sa faveur auprès de votre Mère.  
 
 
-## Scène IV
+## Scène IV.
 Clitandre, Bélise.
 
 
-    CLITANDRE
+    CLITANDRE.
 Souffrez, pour vous parler, Madame, qu'un Amant  
 Prenne l'occasion de cet heureux moment,  
 Et se découvre à vous de la sincère flamme…  
 
-    BÉLISE
+    BÉLISE.
 Ah tout beau, gardez-vous de m'ouvrir trop votre âme :  
 Si je vous ai su mettre au rang de mes Amants,  
 Contentez-vous des yeux pour vos seuls truchements,  
@@ -451,19 +451,19 @@ Tant que vous vous tiendrez aux muets Interprètes ;
 Mais si la bouche vient à s'en vouloir mêler,  
 Pour jamais de ma vue il vous faut exiler.  
 
-    CLITANDRE
+    CLITANDRE.
 Des projets de mon cœur ne prenez point d'alarme ;  
 Henriette, Madame, est l'objet qui me charme,  
 Et je viens ardemment conjurer vos bontés  
 De seconder l'amour que j'ai pour ses beautés.  
 
-    BÉLISE
+    BÉLISE.
 Ah certes le détour est d'esprit, je l'avoue,  
 Ce subtil faux-fuyant mérite qu'on le loue ;  
 Et dans tous les Romans où j'ai jeté les yeux,  
 Je n'ai rien rencontré de plus ingénieux.  
 
-    CLITANDRE
+    CLITANDRE.
 Ceci n'est point du tout un trait d'esprit, Madame,  
 Et c'est un pur aveu de ce que j'ai dans l'âme.  
 Les Cieux, par les liens d'une immuable ardeur,  
@@ -473,7 +473,7 @@ Et l'hymen d'Henriette est le bien où j'aspire ;
 Vous y pouvez beaucoup, et tout ce que je veux,  
 C'est que vous y daigniez favoriser mes vœux.  
 
-    BÉLISE
+    BÉLISE.
 Je vois où doucement veut aller la demande,  
 Et je sais sous ce nom ce qu'il faut que j'entende ;  
 La figure est adroite, et pour n'en point sortir,  
@@ -481,11 +481,11 @@ Aux choses que mon cœur m'offre à vous repartir,
 Je dirai qu'Henriette à l'Hymen est rebelle,  
 Et que sans rien prétendre, il faut brûler pour elle.  
 
-    CLITANDRE
+    CLITANDRE.
 Eh, Madame, à quoi bon un pareil embarras,  
 Et pourquoi voulez-vous penser ce qui n'est pas ?  
 
-    BÉLISE
+    BÉLISE.
 Mon Dieu, point de façons ; cessez de vous défendre  
 De ce que vos regards m'ont souvent fait entendre ;  
 Il suffit que l'on est contente du détour  
@@ -495,39 +495,39 @@ On veut bien se résoudre à souffrir son hommage,
 Pourvu que ses transports par l'honneur éclairés  
 N'offrent à mes autels que des vœux épurés.  
 
-    CLITANDRE
+    CLITANDRE.
 Mais...  
 
-    BÉLISE
+    BÉLISE.
         Adieu, pour ce coup ceci doit vous suffire,  
 Et je vous ai plus dit que je ne voulais dire.  
 
-    CLITANDRE
+    CLITANDRE.
 Mais votre erreur...  
 
-    BÉLISE
+    BÉLISE.
         Laissez, je rougis maintenant,  
 Et ma pudeur s'est fait un effort surprenant.  
 
-    CLITANDRE
+    CLITANDRE.
 Je veux être pendu, si je vous aime, et sage...  
 
-    BÉLISE
+    BÉLISE.
 Non, non, je ne veux rien entendre davantage.  
 
-    CLITANDRE
+    CLITANDRE.
 Diantre soit de la folle avec ses visions.  
 A-t-on rien vu d'égal à ces préventions ?  
 Allons commettre un autre au soin que l'on me donne,  
 Et prenons le secours d'une sage personne.  
 
 
-# Acte II
+# Acte II.
 
 
-## Scène Première
+## Scène Première.
 
-    ARISTE
+    ARISTE.
 Oui, je vous porterai la réponse au plus tôt ;  
 J'appuierai, presserai, ferai tout ce qu'il faut.  
 Qu'un Amant, pour un mot, a de choses à dire !  
@@ -535,148 +535,148 @@ Et qu'impatiemment il veut ce qu'il désire !
 Jamais...  
 
 
-## Scène I
+## Scène I.
 Chrysale, Ariste
 
 
-    ARISTE
+    ARISTE.
     Ah, Dieu vous gard', mon frère.  
 
-    CHRYSALE
+    CHRYSALE.
         Et vous aussi.  
 Mon Frère.  
 
-    ARISTE
+    ARISTE.
         Savez-vous ce qui m'amène ici ?  
 
-    CHRYSALE
+    CHRYSALE.
 Non ; mais, si vous voulez, je suis prêt à l'apprendre.  
 
-    ARISTE
+    ARISTE.
 Depuis assez longtemps vous connaissez Clitandre ?  
 
-    CHRYSALE
+    CHRYSALE.
 Sans doute, et je le vois qui fréquente chez nous.  
 
-    ARISTE
+    ARISTE.
 En quelle estime est-il, mon Frère, auprès de vous ?  
 
-    CHRYSALE
+    CHRYSALE.
 D'Homme d'honneur, d'esprit, de cœur, et de conduite,  
 Et je vois peu de Gens qui soient de son mérite.  
 
-    ARISTE
+    ARISTE.
 Certain désir qu'il a, conduit ici mes pas,  
 Et je me réjouis que vous en fassiez cas.  
 
-    CHRYSALE
+    CHRYSALE.
 Je connus feu son Père en mon voyage à Rome.  
 
-    ARISTE
+    ARISTE.
 Fort bien.  
 
-    CHRYSALE
+    CHRYSALE.
         C'était, mon Frère, un fort bon Gentilhomme.  
 
-    ARISTE
+    ARISTE.
 On le dit.  
 
-    CHRYSALE
+    CHRYSALE.
         Nous n'avions alors que vingt-huit ans,  
 Et nous étions, ma foi, tous deux de Verts-Galants.  
 
-    ARISTE
+    ARISTE.
 Je le crois.  
 
-    CHRYSALE
+    CHRYSALE.
         Nous donnions chez les Dames Romaines,  
 Et tout le Monde là parlait de nos fredaines ;  
 Nous faisions des Jaloux.  
 
-    ARISTE
+    ARISTE.
         Voilà qui va des mieux :  
 Mais venons au sujet qui m'amène en ces lieux.  
 
 
-## Scène III
+## Scène III.
 Bélise, Chrysale, Ariste.
 
 
-    ARISTE
+    ARISTE.
 Clitandre auprès de vous me fait son Interprète,  
 Et son cœur est épris des grâces d'Henriette.  
 
-    CHRYSALE
+    CHRYSALE.
 Quoi, de ma Fille ?  
 
-    ARISTE
+    ARISTE.
         Oui, Clitandre en est charmé,  
 Et je ne vis jamais Amant plus enflammé.  
 
-    BÉLISE
+    BÉLISE.
 Non, non,je vous entends, vous ignorez l'histoire,  
 Et l'affaire n'est pas ce que vous pouvez croire.  
 
-    ARISTE
+    ARISTE.
 Comment, ma Sœur ?  
 
-    BÉLISE
+    BÉLISE.
         Clitandre abuse vos esprits,  
 Et c'est d'un autre Objet que son cœur est épris.  
 
-    ARISTE
+    ARISTE.
 Vous raillez. Ce n'est pas Henriette qu'il aime ?  
 
-    BÉLISE
+    BÉLISE.
 Non, j'en suis assurée.  
 
-    ARISTE
+    ARISTE.
         Il me l'a dit lui-même.  
 
-    BÉLISE
+    BÉLISE.
 Eh oui.  
 
-    ARISTE
+    ARISTE.
         Vous me voyez, ma Sœur, chargé par lui  
 D'en faire la demande à son Père aujourd'hui.  
 
-    BÉLISE
+    BÉLISE.
 Fort bien.  
 
-    ARISTE
+    ARISTE.
         Et son amour même m'a fait instance  
 De presser les moments d'une telle alliance.  
 
-    BÉLISE
+    BÉLISE.
 Encor mieux. On ne peut tromper plus galamment.  
 Henriette, entre nous, est un amusement,  
 Un voile ingénieux, un prétexte, mon Frère,  
 À couvrir d'autres feux dont je sais le mystère,  
 Et je veux bien tous deux vous mettre hors d'erreur.  
 
-    ARISTE
+    ARISTE.
 Mais puisque vous savez tant de choses, ma Sœur,  
 Dites-nous, s'il vous plaît, cet autre Objet qu'il aime.  
 
-    BÉLISE
+    BÉLISE.
 Vous le voulez savoir ?  
 
-    ARISTE
+    ARISTE.
     Oui. Quoi ?  
 
-    BÉLISE
+    BÉLISE.
     Moi.  
 
-    ARISTE
+    ARISTE.
     Vous ?  
 
-    BÉLISE
+    BÉLISE.
         Moi-même.  
 
-    ARISTE
+    ARISTE.
 Hay, ma Sœur !  
 
-    BÉLISE
+    BÉLISE.
         Qu'est-ce donc que veut dire ce *Hay*,  
 Et qu'a de surprenant le discours que je fais ?  
 On est faite d'un air je pense à pouvoir dire  
@@ -684,370 +684,370 @@ Qu'on n'a pas pour un Cœur soumis à son empire ;
 Et Dorante, Damis, Cléonte, et Lycidas,  
 Peuvent bien faire voir qu'on a quelques appas.  
 
-    ARISTE
+    ARISTE.
 Ces gens vous aiment ?  
 
-    BÉLISE
+    BÉLISE.
         Oui, de toute leur puissance.  
 
-    ARISTE
+    ARISTE.
 Ils vous l'ont dit ?  
 
-    BÉLISE
+    BÉLISE.
         Aucun n'a pris cette licence ;  
 Ils m'ont su révérer si fort jusqu'à ce jour,  
 Qu'ils ne m'ont jamais dit un mot de leur amour :  
 Mais pour m'offrir leur cœur, et vouer leur service,  
 Les muets truchements ont tous fait leur office.  
 
-    ARISTE
+    ARISTE.
 On ne voit presque point céans venir Damis.  
 
-    BÉLISE
+    BÉLISE.
 C'est pour me faire voir un respect plus soumis.  
 
-    ARISTE
+    ARISTE.
 De mots piquants partout Dorante vous outrage.  
 
-    BÉLISE
+    BÉLISE.
 Ce sont emportements d'une jalouse rage.  
 
-    ARISTE
+    ARISTE.
 Cléonte et Lycidas ont pris femme tous deux.  
 
-    BÉLISE
+    BÉLISE.
 C'est par un désespoir où j'ai réduit leurs feux.  
 
-    ARISTE
+    ARISTE.
 Ma foi ! ma chère Sœur, vision toute claire.  
 
-    CHRYSALE
+    CHRYSALE.
 De ces chimères-là vous devez vous défaire.  
 
-    BÉLISE
+    BÉLISE.
 Ah chimères ! Ce sont des chimères, dit-on !  
 Chimères, moi ! Vraiment chimères est fort bon !  
 Je me réjouis fort de chimères, mes Frères,  
 Et je ne savais pas que j'eusse des chimères.  
 
 
-## Scène IV
+## Scène IV.
 Chrysale, Ariste.
 
 
-    CHRYSALE
+    CHRYSALE.
 Notre sœur est folle, oui.  
 
-    ARISTE
+    ARISTE.
         Cela croît tous les jours.  
 Mais, encore une fois, reprenons le discours.  
 Clitandre vous demande Henriette pour Femme,  
 Voyez quelle réponse on doit faire à sa flamme ?  
 
-    CHRYSALE
+    CHRYSALE.
 Faut-il le demander ? J'y consens de bon cœur,  
 Et tiens son alliance à singulier honneur.  
 
-    ARISTE
+    ARISTE.
 Vous savez que de bien il n'a pas l'abondance,  
 Que...  
 
-    CHRYSALE
+    CHRYSALE.
         C'est un intérêt qui n'est pas d'importance ;  
 Il est riche en vertu, cela vaut des trésors,  
 Et puis son Père et moi n'étions qu'un en deux corps.  
 
-    ARISTE
+    ARISTE.
 Parlons à votre Femme, et voyons à la rendre  
 Favorable...  
 
-    CHRYSALE
+    CHRYSALE.
         Il suffit, je l'accepte pour Gendre.  
 
-    ARISTE
+    ARISTE.
 Oui ; mais pour appuyer votre consentement,  
 Mon Frère, il n'est pas mal d'avoir son agrément,  
 Allons...  
 
-    CHRYSALE
+    CHRYSALE.
         Vous moquez-vous ? Il n'est pas nécessaire,  
 Je réponds de ma Femme, et prends sur moi l'affaire.  
 
-    ARISTE
+    ARISTE.
 Mais...  
 
-    CHRYSALE
+    CHRYSALE.
         Laissez faire, dis-je, et n'appréhendez pas.  
 Je la vais disposer aux choses de ce pas.  
 
-    ARISTE
+    ARISTE.
 Soit. Je vais là-dessus sonder votre Henriette,  
 Et reviendrai savoir...  
 
-    CHRYSALE
+    CHRYSALE.
         C'est une affaire faite.  
 Et je vais à ma Femme en parler sans délai.  
 
 
-## Scène V
+## Scène V.
 Martine, Chrysale.
 
 
-    MARTINE
+    MARTINE.
 Me voilà bien chanceuse ! Hélas l'an dit bien vrai :  
 Qui veut noyer son Chien, l'accuse de la rage,  
 Et service d'autrui n'est pas un héritage.  
 
-    CHRYSALE
+    CHRYSALE.
 Qu'est-ce donc ? Qu'avez-vous, Martine ?  
 
-    MARTINE
+    MARTINE.
         Ce que j'ai ?  
 
-    CHRYSALE
+    CHRYSALE.
 Oui ?  
 
-    MARTINE
+    MARTINE.
         J'ai que l'an me donne aujourd'hui mon congé,  
 Monsieur.  
 
-    CHRYSALE
+    CHRYSALE.
     Votre congé !  
 
-    MARTINE
+    MARTINE.
         Oui, Madame me chasse.  
 
-    CHRYSALE
+    CHRYSALE.
 Je n'entends pas cela. Comment ?  
 
-    MARTINE
+    MARTINE.
         On me menace,  
 Si je ne sors d'ici, de me bailler cent coups.  
 
-    CHRYSALE
+    CHRYSALE.
 Non, vous demeurerez, je suis content de vous ;  
 Ma femme bien souvent a la tête un peu chaude,  
 Et je ne veux pas moi...  
 
 
-## Scène VI
+## Scène VI.
 Philaminte, Bélise, Chrysale, Martine.
 
 
-    PHILAMINTE
+    PHILAMINTE.
         Quoi, je vous vois, Maraude ?  
 Vite, sortez, Friponne ; allons, quittez ces lieux,  
 Et ne vous présentez jamais devant mes yeux.  
 
-    CHRYSALE
+    CHRYSALE.
 Tout doux.  
 
-    PHILAMINTE
+    PHILAMINTE.
     Non, c'en est fait.  
 
-    CHRYSALE
+    CHRYSALE.
     Eh.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Je veux qu'elle sorte.  
 
-    CHRYSALE
+    CHRYSALE.
 Mais qu'a-t-elle commis, pour vouloir de la sorte...  
 
-    PHILAMINTE
+    PHILAMINTE.
 Quoi, vous la soutenez ?  
 
-    CHRYSALE
+    CHRYSALE.
         En aucune façon.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Prenez-vous son parti contre moi ?  
 
-    CHRYSALE
+    CHRYSALE.
         Mon Dieu non ;  
 Je ne fais seulement que demander son crime.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Suis-je pour la chasser sans cause légitime ?  
 
-    CHRYSALE
+    CHRYSALE.
 Je ne dis pas cela, mais il faut de nos Gens...  
 
-    PHILAMINTE
+    PHILAMINTE.
 Non, elle sortira, vous dis-je, de céans.  
 
-    CHRYSALE
+    CHRYSALE.
 Hé bien oui. Vous dit-on quelque chose là -contre ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Je ne veux point d'obstacle aux désirs que je montre.  
 
-    CHRYSALE
+    CHRYSALE.
 D'accord.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Et vous devez en raisonnable Époux,  
 Être pour moi contre elle et prendre mon courroux.  
 
-    CHRYSALE
+    CHRYSALE.
 Aussi fais-je. Oui, ma Femme avec raison vous chasse,  
 Coquine, et votre crime est indigne de grâce.  
 
-    MARTINE
+    MARTINE.
 Qu'est-ce donc que j'ai fait ?  
 
-    CHRYSALE
+    CHRYSALE.
         Ma foi !Je ne sais pas.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Elle est d'humeur encore à n'en faire aucun cas.  
 
-    CHRYSALE
+    CHRYSALE.
 A-t-elle, pour donner matière à votre haine,  
 Cassé quelque Miroir, ou quelque Porcelaine ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Voudrais-je la chasser, et vous figurez-vous  
 Que pour si peu de chose on se mette en courroux ?  
 
-    CHRYSALE
+    CHRYSALE.
 Qu'est-ce à dire ? L'affaire est donc considérable ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Sans doute. Me voit-on femme déraisonnable ?  
 
-    CHRYSALE
+    CHRYSALE.
 Est-ce qu'elle a laissé, d'un esprit négligent,  
 Dérober quelque Aiguière, ou quelque Plat d'argent ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Cela ne serait rien.  
 
-    CHRYSALE
+    CHRYSALE.
         Oh, oh ! Peste, la Belle !  
 Quoi ? l'avez-vous surprise à n'être pas fidèle ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 C'est pis que tout cela.  
 
-    CHRYSALE
+    CHRYSALE.
     Pis que tout cela ?  
 
-    PHILAMINTE
+    PHILAMINTE.
         Pis.  
 
-    CHRYSALE
+    CHRYSALE.
 Comment diantre, Friponne ! Euh ? a-t-elle commis...  
 
-    PHILAMINTE
+    PHILAMINTE.
 Elle a, d'une insolence à nulle autre pareille,  
 Après trente leçons, insulté mon oreille,  
 Par l'impropriété d'un mot sauvage et bas,  
 Qu'en termes décisifs condamne Vaugelas.  
 
-    CHRYSALE
+    CHRYSALE.
 Est-ce là...  
 
-    PHILAMINTE
+    PHILAMINTE.
         Quoi, toujours malgré nos remontrances,  
 Heurter le fondement de toutes les Sciences ;  
 La Grammaire qui sait régenter jusqu'aux Rois,  
 Et les fait la main haute obéir à ses lois ?  
 
-    CHRYSALE
+    CHRYSALE.
 Du plus grand des forfaits je la croyais coupable.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Quoi, vous ne trouvez pas ce crime impardonnable ?  
 
-    CHRYSALE
+    CHRYSALE.
 Si fait.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Je voudrais bien que vous l'excusassiez.  
 
-    CHRYSALE
+    CHRYSALE.
 Je n'ai garde.  
 
-    BÉLISE
+    BÉLISE.
         Il est vrai que ce sont des pitiés,  
 Toute construction est par elle détruite,  
 Et des lois du Langage on l'a cent fois instruite.  
 
-    MARTINE
+    MARTINE.
 Tout ce que vous prêchez est je crois bel et bon ;  
 Mais je ne saurais, moi, parler votre jargon.  
 
-    PHILAMINTE
+    PHILAMINTE.
 L'impudente ! appeler un jargon le langage  
 Fondé sur la Raison et sur le bel Usage !  
 
-    MARTINE
+    MARTINE.
 Quand on se fait entendre, on parle toujours bien,  
 Et tous vos biaux dictons ne servent pas de rien.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Hé bien, ne voilà pas encore de son style,  
 Ne servent pas de rien !  
 
-    BÉLISE
+    BÉLISE.
         Ô cervelle indocile !  
 Faut-il qu'avec les soins qu'on prend incessamment,  
 On ne te puisse apprendre à parler congrûment ?  
 De pas, mis avec rien, tu fais la récidive,  
 Et c'est, comme on t'a dit, trop d'une négative.  
 
-    MARTINE
+    MARTINE.
 Mon Dieu, je n'avons pas étugué comme vous,  
 Et je parlons tout droit comme on parle cheux nous.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ah peut-on y tenir !  
 
-    BÉLISE
+    BÉLISE.
         Quel solécisme horrible !  
 
-    PHILAMINTE
+    PHILAMINTE.
 En voilà pour tuer une oreille sensible.  
 
-    BÉLISE
+    BÉLISE.
 Ton esprit, je l'avoue, est bien matériel.  
 Je, n'est qu'un singulier ; avons, est pluriel.  
 Veux-tu toute ta vie offenser la Grammaire ?  
 
-    MARTINE
+    MARTINE.
 Qui parle d'offenser Grand'mère ni Grand-père ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ô Ciel !  
 
-    BÉLISE
+    BÉLISE.
         Grammaire est prise à contre-sens par toi,  
 Et je t'ai dit déjà d'où vient ce mot.  
 
-    MARTINE
+    MARTINE.
         Ma foi,  
 Qu'il vienne de Chaillot, d'Auteuil, ou de Pontoise,  
 Cela ne me fait rien.  
 
-    BÉLISE
+    BÉLISE.
         Quelle âme villageoise !  
 La Grammaire, du verbe et du nominatif,  
 Comme de l'adjectif avec le substantif,  
 Nous enseigne les lois.  
 
-    MARTINE
+    MARTINE.
         J'ai, Madame, à vous dire.  
 Que je ne connais point ces Gens-là.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Quel martyre !  
 
-    BÉLISE
+    BÉLISE.
 Ce sont les noms des mots, et l'on doit regarder  
 En quoi c'est qu'il les faut faire ensemble accorder.  
 
-    MARTINE
+    MARTINE.
 Qu'ils s'accordent entr'eux, ou se gourment, qu'importe ?  
 
     PHILAMINTE, À SA SŒUR.
@@ -1056,29 +1056,29 @@ Eh, mon Dieu, finissez un discours de la sorte.
 
 Vous ne voulez pas, vous, me la faire sortir ?  
 
-    CHRYSALE
+    CHRYSALE.
 Si fait. À son caprice il me faut consentir.  
 Va, ne l'irrite point ; retire-toi, Martine.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Comment ? vous avez peur d'offenser la Coquine ?  
 Vous lui parlez d'un ton tout à fait obligeant ?  
 
-    CHRYSALE, *bas.*
+    CHRYSALE, *bas.*.
 Moi ? Point. Allons, sortez.Va-t'en, ma pauvre Enfant.  
 
 
-## Scène VII
+## Scène VII.
 Philaminte, Chrysale, Bélise.
 
 
-    CHRYSALE
+    CHRYSALE.
 Vous êtes satisfaite, et la voilà partie.  
 Mais je n'approuve point une telle sortie ;  
 C'est une fille propre aux choses qu'elle fait,  
 Et vous me la chassez pour un maigre sujet.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Vous voulez que toujours je l'aie à mon service,  
 Pour mettre incessamment mon oreille au supplice ?  
 Pour rompre toute loi d'usage et de raison,  
@@ -1086,13 +1086,13 @@ Par un barbare amas de vices d'Oraison,
 De mots estropiés, cousus par intervalles,  
 De Proverbes traînés dans les ruisseaux des Halles ?  
 
-    BÉLISE
+    BÉLISE.
 Il est vrai que l'on sue à souffrir ses discours.  
 Elle y met Vaugelas en pièces tous les jours ;  
 Et les moindres défauts de ce grossier génie,  
 Sont ou le pléonasme, ou la cacophonie.  
 
-    CHRYSALE
+    CHRYSALE.
 Qu'importe qu'elle manque aux lois de Vaugelas,  
 Pourvu qu'à la cuisine elle ne manque pas ?  
 J'aime bien mieux, pour moi, qu'en épluchant ses herbes,  
@@ -1104,7 +1104,7 @@ Vaugelas n'apprend point à bien faire un Potage,
 Et Malherbe et Balzac, si savants en beaux mots,  
 En Cuisine peut-être auraient été des sots.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Que ce discours grossier terriblement assomme !  
 Et quelle indignité pour ce qui s'appelle Homme,  
 D'être baissé sans cesse aux soins matériels,  
@@ -1113,39 +1113,39 @@ Le Corps, cette guenille, est-il d'une importance,
 D'un prix à mériter seulement qu'on y pense,  
 Et ne devons-nous pas laisser cela bien loin ?  
 
-    CHRYSALE
+    CHRYSALE.
 Oui, mon Corps est moi-même, et j'en veux prendre soin,  
 Guenille si l'on veut, ma guenille m'est chère.  
 
-    BÉLISE
+    BÉLISE.
 Le Corps avec l'Esprit, fait figure, mon Frère ;  
 Mais si vous en croyez tout le Monde savant,  
 L'Esprit doit sur le Corps prendre le pas devant ;  
 Et notre plus grand soin, notre première instance,  
 Doit être à le nourrir du suc de la Science.  
 
-    CHRYSALE
+    CHRYSALE.
 Ma foi si vous songez à nourrir votre Esprit,  
 C'est de viande bien creuse, à ce que chacun dit,  
 Et vous n'avez nul soin, nulle sollicitude  
 Pour...  
 
-    PHILAMINTE
+    PHILAMINTE.
         Ah *sollicitude* à mon oreille est rude,  
 Il put étrangement son ancienneté.  
 
-    BÉLISE
+    BÉLISE.
 Il est vrai que le mot est bien collet monté.  
 
-    CHRYSALE
+    CHRYSALE.
 Voulez-vous que je dise ? Il faut qu'enfin j'éclate,  
 Que je lève le masque, et décharge ma rate.  
 De folles on vous traite, et j'ai fort sur le cœur...  
 
-    PHILAMINTE
+    PHILAMINTE.
 Comment donc ?  
 
-    CHRYSALE
+    CHRYSALE.
         C'est à vous que je parle, ma Sœur.  
 Le moindre solécisme en parlant vous irrite :  
 Mais vous en faites, vous, d'étranges en conduite.  
@@ -1204,10 +1204,10 @@ Tous les propos qu'il tient sont des billevesées,
 On cherche ce qu'il dit après qu'il a parlé,  
 Et je lui crois, pour moi, le timbre un peu fêlé.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Quelle bassesse, ô Ciel, et d'âme, et de langage !  
 
-    BÉLISE
+    BÉLISE.
 Est-il de petits Corps un plus lourd assemblage !  
 Un Esprit composé d'atomes plus Bourgeois !  
 Et de ce même sang se peut-il que je sois !  
@@ -1215,14 +1215,14 @@ Je me veux mal -de -mort d'être de votre race,
 Et de confusion j'abandonne la place.  
 
 
-## Scène VIII
+## Scène VIII.
 Philaminte, Chrysale.
 
 
-    PHILAMINTE
+    PHILAMINTE.
 Avez-vous à lâcher encore quelque trait ?  
 
-    CHRYSALE
+    CHRYSALE.
 Moi ? Non. Ne parlons plus de querelle, c'est fait ;  
 Discourons d'autre affaire. À votre fille aînée  
 On voit quelque dégoût pour les nœuds d'Hyménée ;  
@@ -1232,7 +1232,7 @@ Mais de toute autre humeur se trouve sa cadette,
 Et je crois qu'il est bon de pourvoir Henriette,  
 De choisir un Mari...  
 
-    PHILAMINTE
+    PHILAMINTE.
         C'est à quoi j'ai songé,  
 Et je veux vous ouvrir l'intention que j'ai.  
 Ce Monsieur Trissotin dont on nous fait un crime,  
@@ -1247,89 +1247,89 @@ J'ai des raisons à faire approuver ma conduite,
 Et je connaîtrai bien si vous l'aurez instruite.  
 
 
-## Scène IX
+## Scène IX.
 Ariste, Chrysale.
 
 
-    ARISTE
+    ARISTE.
 Hé bien ? la Femme sort, mon Frère, et je vois bien  
 Que vous venez d'avoir ensemble un entretien.  
 
-    CHRYSALE
+    CHRYSALE.
 Oui.  
 
-    ARISTE
+    ARISTE.
         Quel est le succès ? Aurons-nous Henriette ?  
 A-t-elle consenti ? l'affaire est-elle faite ?  
 
-    CHRYSALE
+    CHRYSALE.
 Pas tout à fait encor.  
 
-    ARISTE
+    ARISTE.
     Refuse-t-elle ?  
 
-    CHRYSALE
+    CHRYSALE.
         Non.  
 
-    ARISTE
+    ARISTE.
 Est-ce qu'elle balance ?  
 
-    CHRYSALE
+    CHRYSALE.
         En aucune façon.  
 
-    ARISTE
+    ARISTE.
 Quoi donc ?  
 
-    CHRYSALE
+    CHRYSALE.
         C'est que pour Gendre elle m'offre un autre Homme.  
 
-    ARISTE
+    ARISTE.
 Un autre Homme pour Gendre !  
 
-    CHRYSALE
+    CHRYSALE.
     Un autre.  
 
-    ARISTE
+    ARISTE.
         Qui se nomme ?  
 
-    CHRYSALE
+    CHRYSALE.
 Monsieur Trissotin.  
 
-    ARISTE
+    ARISTE.
         Quoi ? ce Monsieur Trissotin...  
 
-    CHRYSALE
+    CHRYSALE.
 Oui, qui parle toujours de Vers et de Latin.  
 
-    ARISTE
+    ARISTE.
 Vous l'avez accepté ?  
 
-    CHRYSALE
+    CHRYSALE.
         Moi, point, à Dieu ne plaise.  
 
-    ARISTE
+    ARISTE.
 Qu'avez-vous répondu ?  
 
-    CHRYSALE
+    CHRYSALE.
         Rien ; et je suis bien aise  
 De n'avoir point parlé, pour ne m'engager pas !  
 
-    ARISTE
+    ARISTE.
 La raison est fort belle, et c'est faire un grand pas.  
 Avez-vous su du moins lui proposer Clitandre ?  
 
-    CHRYSALE
+    CHRYSALE.
 Non : car comme j'ai vu qu'on parlait d'autre Gendre,  
 J'ai cru qu'il était mieux de ne m'avancer point.  
 
-    ARISTE
+    ARISTE.
 Certes votre prudence est rare au dernier point !  
 N'avez-vous point de honte avec votre mollesse ?  
 Et se peut-il qu'un Homme ait assez de faiblesse  
 Pour laisser à sa Femme un pouvoir absolu,  
 Et n'oser attaquer ce qu'elle a résolu ?  
 
-    CHRYSALE
+    CHRYSALE.
 Mon Dieu, vous en parlez, mon Frère, bien à l'aise,  
 Et vous ne savez pas comme le bruit me pèse.  
 J'aime fort le repos, la paix, et la douceur,  
@@ -1345,7 +1345,7 @@ Je ne sais où me mettre, et c'est un vrai Dragon ;
 Et cependant avec toute sa diablerie,  
 Il faut que je l'appelle, et mon cœur, et ma mie.  
 
-    ARISTE
+    ARISTE.
 Allez, c'est se moquer. Votre Femme, entre nous,  
 Est par vos lâchetés souveraine sur vous.  
 Son pouvoir n'est fondé que sur votre faiblesse.  
@@ -1367,169 +1367,169 @@ Et qui n'est, comme on sait, rien moins que tout cela ?
 Allez, encore un coup, c'est une moquerie,  
 Et votre lâcheté mérite qu'on en rie.  
 
-    CHRYSALE
+    CHRYSALE.
 Oui, vous avez raison, et je vois que j'ai tort.  
 Allons, il faut enfin montrer un cœur plus fort,  
 Mon Frère.  
 
-    ARISTE
+    ARISTE.
     C'est bien dit.  
 
-    CHRYSALE
+    CHRYSALE.
         C'est une chose infâme,  
 Que d'être si soumis au pouvoir d'une Femme.  
 
-    ARISTE
+    ARISTE.
 Fort bien.  
 
-    CHRYSALE
+    CHRYSALE.
         De ma douceur elle a trop profité.  
 
-    ARISTE
+    ARISTE.
 Il est vrai.  
 
-    CHRYSALE
+    CHRYSALE.
         Trop joui de ma facilité.  
 
-    ARISTE
+    ARISTE.
 Sans doute.  
 
-    CHRYSALE
+    CHRYSALE.
         Et je lui veux faire aujourd'hui connaître  
 Que ma Fille est ma Fille, et que j'en suis le Maître,  
 Pour lui prendre un Mari qui soit selon mes vœux.  
 
-    ARISTE
+    ARISTE.
 Vous voilà raisonnable, et comme je vous veux.  
 
-    CHRYSALE
+    CHRYSALE.
 Vous êtes pour Clitandre, et savez sa demeure ;  
 Faites-le-moi venir, mon Frère, tout à l'heure.  
 
-    ARISTE
+    ARISTE.
 J'y cours tout de ce pas.  
 
-    CHRYSALE
+    CHRYSALE.
         C'est souffrir trop longtemps,  
 Et je m'en vais être Homme à la barbe des Gens.  
 
 
-# Acte III
+# Acte III.
 
 
-## Scène Première
+## Scène Première.
 Philaminte, Armande, Bélise, Trissotin, L'Épine.
 
 
-    PHILAMINTE
+    PHILAMINTE.
 Ah mettons-nous ici pour écouter à l'aise  
 Ces Vers que mot à mot il est besoin qu'on pèse.  
 
-    ARMANDE
+    ARMANDE.
 Je brûle de les voir.  
 
-    BÉLISE
+    BÉLISE.
         Et l'on s'en meurt chez nous.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ce sont charmes pour moi, que ce qui part de vous.  
 
-    ARMANDE
+    ARMANDE.
 Ce m'est une douceur à nulle autre pareille.  
 
-    BÉLISE
+    BÉLISE.
 Ce sont repas friands qu'on donne à mon oreille.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ne faites point languir de si pressants désirs.  
 
-    ARMANDE
+    ARMANDE.
 Dépêchez.  
 
-    BÉLISE
+    BÉLISE.
         Faites tôt, et hâtez nos plaisirs.  
 
-    PHILAMINTE
+    PHILAMINTE.
 À notre impatience offrez votre Épigramme.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Hélas, c'est un Enfant tout nouveauné, Madame.  
 Son sort assurément a lieu de vous toucher,  
 Et c'est dans votre cour que j'en viens d'accoucher.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Pour me le rendre cher, il suffit de son Père.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Votre approbation lui peut servir de Mère.  
 
-    BÉLISE
+    BÉLISE.
 Qu'il a d'esprit !  
 
 
-## Scène II
+## Scène II.
 Henriette, Philaminte, Armande, Bélise, Trissotin, L'Épine.
 
 
-    PHILAMINTE
+    PHILAMINTE.
         Holà, pourquoi donc fuyez-vous ?  
 
-    HENRIETTE
+    HENRIETTE.
 C'est de peur de troubler un entretien si doux.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Approchez, et venez de toutes vos oreilles  
 Prendre part au plaisir d'entendre des merveilles.  
 
-    HENRIETTE
+    HENRIETTE.
 Je sais peu les beautés de tout ce qu'on écrit,  
 Et ce n'est pas mon fait que les choses d'esprit.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Il n'importe ; aussi bien ai-je à vous dire ensuite  
 Un secret dont il faut que vous soyez instruite.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Les Sciences n'ont rien qui vous puisse enflammer,  
 Et vous ne vous piquez que de savoir charmer.  
 
-    HENRIETTE
+    HENRIETTE.
 Aussi peu l'un que l'autre, et je n'ai nulle envie...  
 
-    BÉLISE
+    BÉLISE.
 Ah songeons à l'Enfant nouveauné, je vous prie.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Allons, petit Garçon, vite, de quoi s'asseoir.  
 Le Laquais tombe avec la Chaise.
 
 Voyez l'impertinent ! Est -ce que l'on doit choir,  
 Après avoir appris l'équilibre des choses ?  
 
-    BÉLISE
+    BÉLISE.
 De ta chute, Ignorant, ne vois-tu pas les causes,  
 Et qu'elle vient d'avoir du point fixe écarté,  
 Ce que nous appelons centre de gravité ?  
 
-    L’ÉPINE
+    L’ÉPINE.
 Je m'en suis aperçu, Madame, étant par terre.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Le Lourdaud !  
 
-    TRISSOTIN
+    TRISSOTIN.
         Bien lui prend de n'être pas de verre.  
 
-    ARMANDE
+    ARMANDE.
 Ah de l'esprit partout !  
 
-    BÉLISE
+    BÉLISE.
         Cela ne tarit pas.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Servez-nous promptement votre aimable Repas.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Pour cette grande faim qu'à mes yeux on expose,  
 Un Plat seul de huit Vers me semble peu de chose,  
 Et je pense qu'ici je ne ferai pas mal,  
@@ -1539,121 +1539,121 @@ A passé pour avoir quelque délicatesse.
 Il est de sel attique assaisonné partout,  
 Et vous le trouverez, je crois, d'assez bon goût.  
 
-    ARMANDE
+    ARMANDE.
 Ah ! Je n'en doute point.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Donnons vite audience.  
 
-    BÉLISE
+    BÉLISE.
 À chaque fois qu'il veut lire, elle l'interrompt.
 
 Je sens d'aise mon cœur tressaillir par avance.  
 J'aime la Poésie avec entêtement.  
 Et surtout quand les Vers sont tournés galamment.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Si nous parlons toujours, il ne pourra rien dire.  
 
-    TRISSOTIN
+    TRISSOTIN.
 SO...  
 
-    BÉLISE
+    BÉLISE.
     Silence,ma nièce.  
 
-    ARMANDE
+    ARMANDE.
         Ah laissez-le donc lire.  
 
-    TRISSOTIN
+    TRISSOTIN.
 SONNET, À LA PRINCESSE URANIE, sur sa fièvre  
 Votre prudence est endormie,  
 De traiter magnifiquement,  
 Et de loger superbement  
 Votre plus cruelle Ennemie.  
 
-    BÉLISE
+    BÉLISE.
 Ah le joli début !  
 
-    ARMANDE
+    ARMANDE.
         Qu'il a le tour galant !  
 
-    PHILAMINTE
+    PHILAMINTE.
 Lui seul des Vers aisés possède le talent !  
 
-    ARMANDE
+    ARMANDE.
 *À prudence endormie* il faut rendre les armes.  
 
-    BÉLISE
+    BÉLISE.
 *Loger son Ennemie* est pour moi plein de charmes.  
 
-    PHILAMINTE
+    PHILAMINTE.
 J'aime *superbement* et *magnifiquement* ;  
 Ces deux adverbes joints font admirablement.  
 
-    BÉLISE
+    BÉLISE.
 Prêtons l'oreille au reste.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Votre prudence est endormie,  
 De traiter magnifiquement,  
 Et de loger superbement  
 Votre plus cruelle Ennemie.  
 
-    ARMANDE
+    ARMANDE.
 Prudence endormie !  
 
-    BÉLISE
+    BÉLISE.
 Loger son ennemie !  
 
-    PHILAMINTE
+    PHILAMINTE.
 Superbement, et magnifiquement !  
 
-    TRISSOTIN
+    TRISSOTIN.
 Faites-la sortir, quoi qu'on die,  
 De votre riche Appartement,  
 Où cette Ingrate insolemment  
 Attaque votre belle vie.  
 
-    BÉLISE
+    BÉLISE.
 Ah tout doux, laissez-moi, de grâce, respirer.  
 
-    ARMANDE
+    ARMANDE.
 Donnez-nous, s'il vous plaît, le loisir d'admirer.  
 
-    PHILAMINTE
+    PHILAMINTE.
 On se sent à ces Vers, jusques au fond de l'âme,  
 Couler *je-ne-sais-quoi* qui fait que l'on se pâme.  
 
-    ARMANDE
+    ARMANDE.
 Faites-la sortir, quoi qu'on die,  
 De votre riche Appartement.  
 *Que riche Appartement* est là joliment dit !  
 Et que la métaphore est mise avec esprit !  
 
-    PHILAMINTE
+    PHILAMINTE.
 Faites-la sortir, quoi qu'on die.  
 Ah ! que ce *quoi qu'on die* est d'un goût admirable !  
 C'est, à mon sentiment, un endroit impayable.  
 
-    ARMANDE
+    ARMANDE.
 De *quoi qu'on die* aussi mon cœur est amoureux.  
 
-    BÉLISE
+    BÉLISE.
 Je suis de votre avis, *quoi qu'on die* est heureux.  
 
-    ARMANDE
+    ARMANDE.
 Je voudrais l'avoir fait.  
 
-    BÉLISE
+    BÉLISE.
         Il vaut toute une Pièce.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Mais en comprend-on bien comme moi la finesse ?  
 
-    ARMANDE ET BÉLISE
+    ARMANDE ET BÉLISE.
 Oh, oh.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Faites-la sortir, quoi qu'on die.  
 Que de la Fièvre on prenne ici les intérêts,  
 N'ayez aucun égard, moquez-vous des caquets.  
@@ -1663,151 +1663,151 @@ Ce quoi qu'on die en dit beaucoup plus qu'il ne semble.
 Je ne sais pas, pour moi, si chacun me ressemble ;  
 Mais j'entends là-dessous un million de mots.  
 
-    BÉLISE
+    BÉLISE.
 Il est vrai qu'il dit plus de choses qu'il n'est gros.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Mais quand vous avez fait ce charmant quoi qu'on die,  
 Avez-vous compris, vous, toute son énergie ?  
 Songiez-vous bien vous-même à tout ce qu'il nous dit,  
 Et pensiez-vous alors y mettre tant d'esprit ?  
 
-    TRISSOTIN
+    TRISSOTIN.
 Hay, hay.  
 
-    ARMANDE
+    ARMANDE.
         J'ai fort aussi l'*ingrate* dans la tête,  
 Cette *ingrate* de Fièvre, injuste, malhonnête,  
 Qui traite mal les Gens, qui la logent chez eux.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Enfin les Quatrains sont admirables tous deux.  
 Venons-en promptement aux Tiercets, je vous prie.  
 
-    ARMANDE
+    ARMANDE.
 Ah, s'il vous plaît, encore une fois *quoi qu'on die*.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Faites-la sortir, quoi qu'on die,  
 
-    PHILAMINTE, ARMANDE ET BÉLISE
+    PHILAMINTE, ARMANDE ET BÉLISE.
 Quoi qu'on die !  
 
-    TRISSOTIN
+    TRISSOTIN.
 De votre riche appartement,  
 
-    PHILAMINTE, ARMANDE ET BÉLISE
+    PHILAMINTE, ARMANDE ET BÉLISE.
 Riche appartement !  
 
-    TRISSOTIN
+    TRISSOTIN.
 Où cette Ingrate insolemment  
 
-    PHILAMINTE, ARMANDE ET BÉLISE
+    PHILAMINTE, ARMANDE ET BÉLISE.
 Cette *ingrate* de Fièvre !  
 
-    TRISSOTIN
+    TRISSOTIN.
 Attaque votre belle vie.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Votre belle vie !  
 
-    ARMANDE ET BÉLISE
+    ARMANDE ET BÉLISE.
 Ah !
 
-    TRISSOTIN
+    TRISSOTIN.
 Et nuit et jour vous fait outrage **?  
 Si vous la conduisez aux Bains,  
 Sans la marchander davantage,  
 Noyez-la de vos propres mains.  
 
-    PHILAMINTE
+    PHILAMINTE.
 On n'en peut plus !  
 
-    BÉLISE
+    BÉLISE.
     On pâme.  
 
-    ARMANDE
+    ARMANDE.
         On se meurt de plaisir.  
 
-    PHILAMINTE
+    PHILAMINTE.
 De mille doux frissons vous vous sentez saisir.  
 
-    ARMANDE
+    ARMANDE.
 Si vous la conduisez aux Bains,  
 
-    BÉLISE
+    BÉLISE.
 Sans la marchander davantage,  
 
-    PHILAMINTE
+    PHILAMINTE.
 Noyez-la de vos propres mains.  
 De vos propres mains, là, noyez-la dans les Bains.  
 
-    ARMANDE
+    ARMANDE.
 Chaque pas dans vos Vers rencontre un trait charmant.  
 
-    BÉLISE
+    BÉLISE.
 Partout on s'y promène avec ravissement.  
 
-    PHILAMINTE
+    PHILAMINTE.
 On n'y saurait marcher que sur de belles choses.  
 
-    ARMANDE
+    ARMANDE.
 Ce sont petits chemins tout parsemés de roses.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Le sonnet donc vous semble...  
 
-    PHILAMINTE
+    PHILAMINTE.
         Admirable, nouveau,  
 Et personne jamais n'a rien fait de si beau.  
 
-    BÉLISE
+    BÉLISE.
 Quoi, sans émotion pendant cette lecture ?  
 Vous faites là, ma Nièce, une étrange Figure !  
 
-    HENRIETTE
+    HENRIETTE.
 Chacun fait ici-bas la Figure qu'il peut,  
 Ma Tante ; et Bel Esprit, il ne l'est pas qui veut.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Peut-être que mes Vers importunent Madame.  
 
-    HENRIETTE
+    HENRIETTE.
 Point, je n'écoute pas.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Ah ? voyons l'Épigramme.  
 
-    TRISSOTIN
+    TRISSOTIN.
       SUR UN CARROSSE DE COULEUR AMARANTE,  
       DONNÉ À UNE DAME DE SES AMIES.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ces Titres ont toujours quelque chose de rare.  
 
-    ARMANDE
+    ARMANDE.
 À cent beaux traits d'Esprit leur nouveauté prépare.  
 
-    TRISSOTIN
+    TRISSOTIN.
 L'amour si chèrement m'a vendu son lien,  
 
-    PHILAMINTE, ARMANDE ET BÉLISE
+    PHILAMINTE, ARMANDE ET BÉLISE.
 Ah !
 
-    TRISSOTIN
+    TRISSOTIN.
 Qu'il m'en coûte déjà la moitié de mon bien.  
       Et quand tu vois ce beau Carrosse  
       Où tant d'or se relève en bosse,  
       Qu'il étonne tout le Pays,  
 Et fait pompeusement triompher ma Laïs,  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ah *ma Laïs* ! voilà de l'érudition.  
 
-    BÉLISE
+    BÉLISE.
 L'enveloppe est jolie, et vaut un million.  
 
-    TRISSOTIN
+    TRISSOTIN.
       Et quand tu vois ce beau Carrosse,  
       Où tant d'or se relève en bosse,  
       Qu'il étonne tout le Pays,  
@@ -1815,27 +1815,27 @@ Et fait pompeusement triompher ma Laïs,
       Ne dis plus qu'il est Amarante :  
       Dis plutôt qu'il est de ma Rente.  
 
-    ARMANDE
+    ARMANDE.
 Oh, oh, oh ! Celui-là ne s'attend point du tout.  
 
-    PHILAMINTE
+    PHILAMINTE.
 On n'a que lui qui puisse écrire de ce goût.  
 
-    BÉLISE
+    BÉLISE.
 Ne dis plus qu'il est Amarante :  
 Dis plutôt qu'il est de ma Rente.  
 Voilà qui se décline : *ma Rente, de ma Rente, à ma Rente*.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Je ne sais du moment que je vous ai connu,  
 Si sur votre sujet j'ai l'esprit prévenu,  
 Mais j'admire partout vos Vers et votre Prose.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Si vous vouliez de vous nous montrer quelque chose,  
 À notre tour aussi nous pourrions admirer.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Je n'ai rien fait en Vers, mais j'ai lieu d'espérer  
 Que je pourrai bientôt vous montrer en Amie,  
 Huit chapitres du Plan de notre Académie.  
@@ -1850,22 +1850,22 @@ De cette indigne Classe où nous rangent les Hommes ;
 De borner nos talents à des futilités,  
 Et nous fermer la porte aux sublimes clartés.  
 
-    ARMANDE
+    ARMANDE.
 C'est faire à notre Sexe une trop grande offense,  
 De n'étendre l'effort de notre intelligence,  
 Qu'à juger d'une Jupe, et de l'air d'un Manteau,  
 Ou des beautés d'un Point, ou d'un Brocart nouveau.  
 
-    BÉLISE
+    BÉLISE.
 Il faut se relever de ce honteux partage,  
 Et mettre hautement notre Esprit hors de Page.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Pour les Dames on sait mon respect en tous lieux,  
 Et si je rends hommage aux brillants de leurs yeux,  
 De leur esprit aussi j'honore les lumières.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Le Sexe aussi vous rend justice en ces matières ;  
 Mais nous voulons montrer à de certains Esprits,  
 Dont l'orgueilleux savoir nous traite avec mépris,  
@@ -1878,56 +1878,56 @@ Découvrir la Nature en mille expériences ;
 Et sur les questions qu'on pourra proposer  
 Faire entrer chaque Secte, et n'en point épouser.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Je m'attache pour l'ordre au Péripatétisme.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Pour les abstractions j'aime le Platonisme.  
 
-    ARMANDE
+    ARMANDE.
 Épicure me plaît, et ses Dogmes sont forts.  
 
-    BÉLISE
+    BÉLISE.
 Je m'accommode assez pour moi des petits Corps ;  
 Mais le Vide à souffrir me semble difficile,  
 Et je goûte bien mieux la matière subtile.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Descartes pour l'aimant donne fort dans mon sens.  
 
-    ARMANDE
+    ARMANDE.
 J'aime ses tourbillons.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Moi ses Mondes tombants.  
 
-    ARMANDE
+    ARMANDE.
 Il me tarde de voir notre Assemblée ouverte,  
 Et de nous signaler par quelque découverte.  
 
-    TRISSOTIN
+    TRISSOTIN.
 On en attend beaucoup de vos vives clartés,  
 Et pour vous la nature a peu d'obscurités.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Pour moi, sans me flatter, j'en ai déjà fait une,  
 Et j'ai vu clairement des Hommes dans la Lune.  
 
-    BÉLISE
+    BÉLISE.
 Je n'ai point encor vu d'Hommes, comme je crois,  
 Mais j'ai vu des Clochers tout comme je vous vois.  
 
-    ARMANDE
+    ARMANDE.
 Nous approfondirons, ainsi que la Physique,  
 Grammaire, Histoire, Vers, Morale, et Politique.  
 
-    PHILAMINTE
+    PHILAMINTE.
 La Morale a des traits dont mon cœur est épris,  
 Et c'était autrefois l'amour des grands Esprits ;  
 Mais aux Stoïciens je donne l'avantage,  
 Et je ne trouve rien de si beau que leur Sage.  
 
-    ARMANDE
+    ARMANDE.
 Pour la Langue, on verra dans peu nos Règlements,  
 Et nous y prétendons faire des remuements.  
 Par une antipathie ou juste, ou naturelle,  
@@ -1939,7 +1939,7 @@ Et nous devons ouvrir nos doctes Conférences
 Par les proscriptions de tous ces mots divers,  
 Dont nous voulons purger et la Prose et les Vers.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Mais le plus beau projet de notre Académie,  
 Une entreprise noble et dont je suis ravie ;  
 Un dessein plein de gloire, et qui sera vanté  
@@ -1951,16 +1951,16 @@ Ces fades lieux communs de nos méchants Plaisants ;
 Ces sources d'un amas d'équivoques infâmes,  
 Dont on vient faire insulte à la pudeur des Femmes.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Voilà certainement d'admirables projets !  
 
-    BÉLISE
+    BÉLISE.
 Vous verrez nos Statuts quand ils seront tous faits.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Ils ne sauraient manquer d'être tous beaux et sages.  
 
-    ARMANDE
+    ARMANDE.
 Nous serons par nos Lois les Juges des Ouvrages.  
 Par nos Lois, Prose et Vers, tout nous sera soumis.  
 Nul n'aura de l'esprit, hors nous et nos Amis.  
@@ -1968,77 +1968,77 @@ Nous chercherons partout à trouver à redire,
 Et ne verrons que nous qui sache bien écrire.  
 
 
-## Scène III
+## Scène III.
 L'Epine, Trissotin, Philaminte, Bélise, Armande, Henriette, Vadius.
 
 
-    L’ÉPINE
+    L’ÉPINE.
 Monsieur, un Homme est là qui veut parler à vous,  
 Il est vêtu de noir, et parle d'un ton doux.  
 
-    TRISSOTIN
+    TRISSOTIN.
 C'est cet Ami savant qui m'a fait tant d'instance  
 De lui donner l'honneur de votre connaissance.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Pour le faire venir, vous avez tout crédit.  
 Faisons bien les honneurs au moins de notre Esprit.  
 Holà. Je vous ai dit en paroles bien claires,  
 Que j'ai besoin de vous.  
 
-    HENRIETTE
+    HENRIETTE.
         Mais pour quelles affaires ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Venez, on va dans peu vous les faire savoir.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Voici l'Homme qui meurt du désir de vour voir.  
 En vous le produisant, je ne crains point le blâme  
 D'avoir admis chez vous un Profane, Madame,  
 Il peut tenir son coin parmi de beaux Esprits.  
 
-    PHILAMINTE
+    PHILAMINTE.
 La main qui le présente, en dit assez le prix.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Il a des vieux Auteurs la pleine intelligence,  
 Et sait du Grec, Madame, autant qu'Homme de France.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Du Grec, ô Ciel ! du Grec ! Il sait du Grec, ma Sœur !  
 
-    BÉLISE
+    BÉLISE.
 Ah, ma Nièce, du Grec !  
 
-    ARMANDE
+    ARMANDE.
         Du Grec ! Quelle douceur !  
 
-    PHILAMINTE
+    PHILAMINTE.
 Quoi, Monsieur sait du Grec ? Ah permettez, de grâce  
 Que pour l'amour du Grec, Monsieur, on vous embrasse.  
 Il les baise toutes, jusques à Henriette qui le refuse.
 
 
-    HENRIETTE
+    HENRIETTE.
 Excusez-moi, Monsieur, je n'entends pas le Grec.  
 
-    PHILAMINTE
+    PHILAMINTE.
 J'ai pour les Livres Grecs un merveilleux respect.  
 
-    VADIUS
+    VADIUS.
 Je crains d'être fâcheux, par l'ardeur qui m'engage  
 À vous rendre aujourd'hui, Madame, mon hommage,  
 Et j'aurais pu troubler quelque docte entretien.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Monsieur, avec du Grec on ne peut gâter rien.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Au reste il fait merveille en Vers ainsi qu'en Prose,  
 Et pourrait, s'il voulait, vous montrer quelque chose.  
 
-    VADIUS
+    VADIUS.
 Le défaut des Auteurs, dans leurs productions,  
 C'est d'en tyranniser les Conversations ;  
 D'être au Palais, au Cours, aux Ruelles, aux Tables,  
@@ -2054,171 +2054,171 @@ L'indigne empressement de lire leurs ouvrages.
 Voici de petits vers pour de jeunes Amants,  
 Sur quoi je voudrais bien avoir vos sentiments.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Vos Vers ont des beautés que n'ont point tous les autres.  
 
-    VADIUS
+    VADIUS.
 Les Grâces et Vénus règnent dans tous les vôtres.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Vous avez le tour libre, et le beau choix des mots.  
 
-    VADIUS
+    VADIUS.
 On voit partout chez vous l'Ithos et le Pathos.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Nous avons vu de vous des Églogues d'un style,  
 Qui passe en doux attraits Théocrite et Virgile.  
 
-    VADIUS
+    VADIUS.
 Vos Odes ont un air noble, galant et doux,  
 Qui laisse de bien loin votre Horace après vous.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Est-il rien d'amoureux comme vos Chansonnettes ?  
 
-    VADIUS
+    VADIUS.
 Peut-on voir rien d'égal aux Sonnets que vous faites ?  
 
-    TRISSOTIN
+    TRISSOTIN.
 Rien qui soit plus charmant que vos petits Rondeaux ?  
 
-    VADIUS
+    VADIUS.
 Rien de si plein d'esprit que tous vos Madrigaux ?  
 
-    TRISSOTIN
+    TRISSOTIN.
 Aux Ballades surtout vous êtes admirable.  
 
-    VADIUS
+    VADIUS.
 Et dans les Bouts-rimés je vous trouve adorable.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Si la France pouvait connaître votre prix,  
 
-    VADIUS
+    VADIUS.
 Si le Siècle rendait justice aux beaux Esprits,  
 
-    TRISSOTIN
+    TRISSOTIN.
 En Carrosse doré vous iriez par les rues.  
 
-    VADIUS
+    VADIUS.
 On verrait le Public vous dresser des Statues.  
 Hom. C'est une Ballade, et je veux que tout net  
 Vous m'en...  
 
-    TRISSOTIN
+    TRISSOTIN.
         Avez-vous vu certain petit Sonnet  
 Sur la Fièvre qui tient la Princesse Uranie ?  
 
-    VADIUS
+    VADIUS.
 Oui, hier il me fut lu dans une Compagnie.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Vous en savez l'Auteur ?  
 
-    VADIUS
+    VADIUS.
         Non ; mais je sais fort bien,  
 Qu'à ne le point flatter, son Sonnet ne vaut rien.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Beaucoup de Gens pourtant le trouvent admirable.  
 
-    VADIUS
+    VADIUS.
 Cela n'empêche pas qu'il ne soit misérable ;  
 Et si vous l'avez vu, vous serez de mon goût.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Je sais que là-dessus je n'en suis point du tout,  
 Et que d'un tel Sonnet peu de Gens sont capables.  
 
-    VADIUS
+    VADIUS.
 Me préserve le Ciel d'en faire de semblables !  
 
-    TRISSOTIN
+    TRISSOTIN.
 Je soutiens qu'on ne peut en faire de meilleur ;  
 Et ma grande raison, c'est que j'en suis l'auteur.  
 
-    VADIUS
+    VADIUS.
 Vous ?  
 
-    TRISSOTIN
+    TRISSOTIN.
     Moi.  
 
-    VADIUS
+    VADIUS.
         Je ne sais donc comment se fit l'affaire.  
 
-    TRISSOTIN
+    TRISSOTIN.
 C'est qu'on fut malheureux, de ne pouvoir vous plaire.  
 
-    VADIUS
+    VADIUS.
 Il faut qu'en écoutant j'aie eu l'esprit distrait,  
 Ou bien que le Lecteur m'ait gâté le Sonnet.  
 Mais laissons ce discours, et voyons ma Ballade.  
 
-    TRISSOTIN
+    TRISSOTIN.
 La Ballade, à mon goût, est une chose fade.  
 Ce n'en est plus la mode ; Elle sent son vieux temps.  
 
-    VADIUS
+    VADIUS.
 La Ballade pourtant charme beaucoup de gens.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Cela n'empêche pas qu'elle ne me déplaise.  
 
-    VADIUS
+    VADIUS.
 Elle n'en reste pas pour cela plus mauvaise.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Elle a pour les Pédants de merveilleux appas.  
 
-    VADIUS
+    VADIUS.
 Cependant nous voyons qu'elle ne vous plaît pas.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Vous donnez sottement vos qualités aux autres.  
 
-    VADIUS
+    VADIUS.
 Fort impertinemment vous me jetez les vôtres.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Allez, petit Grimaud, Barbouilleur de Papier.  
 
-    VADIUS
+    VADIUS.
 Allez, Rimeur de Balle, opprobre du Métier.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Allez, Fripier d'Écrits, impudent Plagiaire.  
 
-    VADIUS
+    VADIUS.
 Allez, Cuistre...  
 
-    PHILAMINTE
+    PHILAMINTE.
         Eh, Messieurs, que prétendez-vous faire ?  
 
-    TRISSOTIN
+    TRISSOTIN.
 Va, va restituer tous les honteux larcins  
 Que réclament sur toi les Grecs et les Latins.  
 
-    VADIUS
+    VADIUS.
 Va, va-t'en faire amende honorable au Parnasse,  
 D'avoir fait à tes Vers estropier Horace.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Souviens-toi de ton Livre, et de son peu de bruit.  
 
-    VADIUS
+    VADIUS.
 Et toi, de ton Libraire à l'Hôpital réduit.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Ma gloire est établie, en vain tu la déchires.  
 
-    VADIUS
+    VADIUS.
 Oui, oui, je te renvoie à l'Auteur des Satires.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Je t'y renvoie aussi.  
 
-    VADIUS
+    VADIUS.
         J'ai le contentement,  
 Qu'on voit qu'il m'a traité plus honorablement.  
 Il me donne en passant une atteinte légère  
@@ -2226,7 +2226,7 @@ Parmi plusieurs Auteurs qu'au Palais on révère ;
 Mais jamais dans ses Vers il ne te laisse en paix,  
 Et l'on t'y voit partout être en butte à ses traits.  
 
-    TRISSOTIN
+    TRISSOTIN.
 C'est par là que j'y tiens un rang plus honorable.  
 Il te met dans la foule ainsi qu'un Misérable,  
 Il croit que c'est assez d'un coup pour t'accabler,  
@@ -2236,36 +2236,36 @@ Sur qui tout son effort lui semble nécessaire ;
 Et ses coups contre moi redoublés en tous lieux,  
 Montrent qu'il ne se croit jamais victorieux.  
 
-    VADIUS
+    VADIUS.
 Ma plume t'apprendra quel Homme je puis être.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Et la mienne saura te faire voir ton Maître.  
 
-    VADIUS
+    VADIUS.
 Je te défie en Vers, Prose, Grec, et Latin.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Hé bien, nous nous verrons seul à seul chez Barbin.  
 
 
-## Scène IV
+## Scène IV.
 Trissotin, Philaminte, Armande, Bélise, Henriette.
 
 
-    TRISSOTIN
+    TRISSOTIN.
 À mon emportement ne donnez aucun blâme ;  
 C'est votre jugement que je défends, Madame,  
 Dans le Sonnet qu'il a l'audace d'attaquer.  
 
-    PHILAMINTE
+    PHILAMINTE.
 À vous remettre bien, je me veux appliquer.  
 Mais parlons d'autre affaire. Approchez, Henriette.  
 Depuis assez longtemps mon âme s'inquiète,  
 De ce qu'aucun esprit en vous ne se fait voir,  
 Mais je trouve un moyen de vous en faire avoir.  
 
-    HENRIETTE
+    HENRIETTE.
 C'est prendre un soin pour moi qui n'est pas nécessaire,  
 Les doctes entretiens ne sont point mon affaire.  
 J'aime à vivre aisément, et dans tout ce qu'on dit  
@@ -2275,7 +2275,7 @@ Je me trouve fort bien, ma Mère, d'être Bête,
 Et j'aime mieux n'avoir que de communs propos,  
 Que de me tourmenter pour dire de beaux mots.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Oui, mais j'y suis blessée, et ce n'est pas mon compte  
 De souffrir dans mon sang une pareille honte.  
 La beauté du Visage est un frêle ornement,  
@@ -2291,94 +2291,94 @@ C'est d'attacher à vous un homme plein d'esprit,
 Et cet Homme est Monsieur que je vous détermine  
 À voir comme l'Époux que mon choix vous destine.  
 
-    HENRIETTE
+    HENRIETTE.
 Moi, ma Mère ?  
 
-    PHILAMINTE
+    PHILAMINTE.
         Oui, vous. Faites la Sotte un peu.  
 
-    BÉLISE
+    BÉLISE.
 Je vous entends. Vos yeux demandent mon aveu,  
 Pour engager ailleurs un cœur que je possède.  
 Allez, je le veux bien. À ce nœud je vous cède,  
 C'est un Hymen qui fait votre établissement.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Je ne sais que vous dire, en mon ravissement,  
 Madame, et cet Hymen dont je vois qu'on m'honore  
 Me met...  
 
-    HENRIETTE
+    HENRIETTE.
         Tout beau, Monsieur, il n'est pas fait encore  
 Ne vous pressez pas tant.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Comme vous répondez !  
 Savez-vous bien que si… Suffit, vous m'entendez.  
 Elle se rendra sage ; allons, laissons-la faire.  
 
 
-## Scène V
+## Scène V.
 Henriette, Armande.
 
 
-    ARMANDE
+    ARMANDE.
 On voit briller pour vous les soins de notre Mère ;  
 Et son choix ne pouvait d'un plus illustre Époux...  
 
-    HENRIETTE
+    HENRIETTE.
 Si le choix est si beau, que ne le prenez-vous ?  
 
-    ARMANDE
+    ARMANDE.
 C'est à vous, non à moi, que sa main est donnée.  
 
-    HENRIETTE
+    HENRIETTE.
 Je vous le cède tout, comme à ma Sœur aînée.  
 
-    ARMANDE
+    ARMANDE.
 Si l'Hymen comme à vous me paraissait charmant,  
 J'accepterais votre offre avec ravissement.  
 
-    HENRIETTE
+    HENRIETTE.
 Si j'avais comme vous les Pédants dans la tête,  
 Je pourrais le trouver un Parti fort honnête.  
 
-    ARMANDE
+    ARMANDE.
 Cependant bien qu'ici nos goûts soient différents,  
 Nous devons obéir, ma Sœur, à nos Parents ;  
 Une Mère a sur nous une entière puissance,  
 Et vous croyez en vain par votre résistance...  
 
 
-## Scène VI
+## Scène VI.
 Chrysale, Ariste, Clitandre, Henriette, Armande.
 
 
-    CHRYSALE
+    CHRYSALE.
 Allons, ma Fille, il faut approuver mon dessein,  
 Ôtez ce Gant. Touchez à Monsieur dans la main,  
 Et le considérez désormais dans votre âme  
 En Homme dont je veux que vous soyez la Femme.  
 
-    ARMANDE
+    ARMANDE.
 De ce côté, ma Sœur, vos penchants sont fort grands.  
 
-    HENRIETTE
+    HENRIETTE.
 Il nous faut obéir, ma Sœur, à nos Parents ;  
 Un Père a sur nos vœux une entière puissance.  
 
-    ARMANDE
+    ARMANDE.
 Une Mère a sa part à notre obéissance.  
 
-    CHRYSALE
+    CHRYSALE.
 Qu'est-ce à dire ?  
 
-    ARMANDE
+    ARMANDE.
         Je dis que j'appréhende fort  
 Qu'ici ma Mère et vous ne soyez pas d'accord,  
 Et c'est un autre Époux...  
 
-    CHRYSALE
+    CHRYSALE.
         Taisez-vous, Péronnelle !  
 Allez philosopher tout le soûl avec elle,  
 Et de mes actions ne vous mêlez en rien.  
@@ -2386,13 +2386,13 @@ Dites-lui ma pensée, et l'avertissez bien
 Qu'elle ne vienne pas m'échauffer les oreilles ;  
 Allons vite.  
 
-    ARISTE
+    ARISTE.
         Fort bien ; Vous faites des merveilles.  
 
-    CLITANDRE
+    CLITANDRE.
 Quel transport ! quelle joie ! ah ! que mon sort est doux !  
 
-    CHRYSALE
+    CHRYSALE.
 Allons, prenez sa main, et passez devant nous,  
 Menez-la dans sa chambre. Ah les douces caresses !  
 Tenez, mon cœur s'émeut à toutes ces tendresses,  
@@ -2400,14 +2400,14 @@ Cela ragaillardit tout à fait mes vieux jours,
 Et je me ressouviens de mes jeunes amours.  
 
 
-# Acte IV
+# Acte IV.
 
 
-## Scène Première
+## Scène Première.
 Armande, Philaminte
 
 
-    ARMANDE
+    ARMANDE.
 Oui, rien n'a retenu son esprit en balance.  
 Elle a fait vanité de son obéissance.  
 Son cœur, pour se livrer, à peine devant moi  
@@ -2415,18 +2415,18 @@ S'est-il donné le temps d'en recevoir la loi,
 Et semblait suivre moins les volontés d'un Père,  
 Qu'affecter de braver les ordres d'une Mère.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Je lui montrerai bien aux lois de qui des deux  
 Les droits de la Raison soumettent tous ses vœux ;  
 Et qui doit gouverner ou sa Mère, ou son Père,  
 Ou l'esprit, ou le corps ; la forme, ou la matière.  
 
-    ARMANDE
+    ARMANDE.
 On vous en devait bien au moins un compliment,  
 Et ce petit Monsieur en use étrangement,  
 De vouloir malgré vous devenir votre Gendre.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Il n'en est pas encore où son cœur peut prétendre.  
 Je le trouvais bien fait, et j'aimais vos amours ;  
 Mais dans ses procédés il m'a déplu toujours.  
@@ -2434,11 +2434,11 @@ Il sait que Dieu merci je me mêle d'écrire,
 Et jamais il ne m'a prié de lui rien lire.  
 
 
-## Scène II
+## Scène II.
 Clitandre, Armande, Philaminte.
 
 
-    ARMANDE
+    ARMANDE.
 Je ne souffrirais point, si j'étais que de vous,  
 Que jamais d'Henriette il pût être l'Époux.  
 On me ferait grand tort d'avoir quelque pensée,  
@@ -2454,28 +2454,28 @@ Et c'est un Homme enfin qui ne doit point vous plaire.
 Jamais je n'ai connu, discourant entre nous,  
 Qu'il eût au fond du cœur de l'estime pour vous.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Petit Sot !  
 
-    ARMANDE
+    ARMANDE.
         Quelque bruit que votre gloire fasse,  
 Toujours à vous louer il a paru de glace.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Le Brutal !  
 
-    ARMANDE
+    ARMANDE.
         Et vingt fois, comme Ouvrages nouveaux,  
 J'ai lu des Vers de vous qu'il n'a point trouvé beaux.  
 
-    PHILAMINTE
+    PHILAMINTE.
 L'Impertinent !  
 
-    ARMANDE
+    ARMANDE.
         Souvent nous en étions aux prises ;  
 Et vous ne croiriez point de combien de sottises...  
 
-    CLITANDRE
+    CLITANDRE.
 Eh doucement de grâce. Un peu de charité,  
 Madame, ou tout au moins un peu d'honnêteté.  
 Quel mal vous ai-je fait ? et quelle est mon offense,  
@@ -2485,7 +2485,7 @@ De me rendre odieux aux Gens dont j'ai besoin ?
 Parlez. Dites, d'où vient ce courroux effroyable ?  
 Je veux bien que Madame en soit Juge équitable.  
 
-    ARMANDE
+    ARMANDE.
 Si j'avais le courroux dont on veut m'accuser,  
 Je trouverais assez de quoi l'autoriser ;  
 Vous en seriez trop digne, et les premières flammes  
@@ -2495,7 +2495,7 @@ Plutôt que de brûler des feux d'un autre amour ;
 Au changement de vœux nulle horreur ne s'égale,  
 Et tout cœur infidèle est un Monstre en Morale.  
 
-    CLITANDRE
+    CLITANDRE.
 Appelez-vous, Madame, une infidélité,  
 Ce que m'a de votre âme ordonné la fierté ?  
 Je ne fais qu'obéir aux lois qu'elle m'impose ;  
@@ -2511,7 +2511,7 @@ Voyez. Est-ce, Madame, ou ma faute, ou la vôtre ?
 Mon cœur court-il au change, ou si vous l'y poussez ?  
 Est-ce moi qui vous quitte, ou vous qui me chassez ?  
 
-    ARMANDE
+    ARMANDE.
 Appelez-vous, Monsieur, être à vos vœux contraire,  
 Que de leur arracher ce qu'ils ont de vulgaire,  
 Et vouloir les réduire à cette pureté  
@@ -2537,7 +2537,7 @@ On aime pour aimer, et non pour autre chose.
 Ce n'est qu'à l'esprit seul que vont tous les transports  
 Et l'on ne s'aperçoit jamais qu'on ait un corps.  
 
-    CLITANDRE
+    CLITANDRE.
 Pour moi par un malheur, je m'aperçois, Madame,  
 Que j'ai, ne vous déplaise, un corps tout comme une âme :  
 Je sens qu'il y tient trop, pour le laisser à part ;  
@@ -2561,7 +2561,7 @@ Pour avoir désiré de me voir votre Époux,
 Sans que la liberté d'une telle pensée  
 Ait dû vous donner lieu d'en paraître offensée.  
 
-    ARMANDE
+    ARMANDE.
 Hé bien, Monsieur, hé bien, puisque sans m'écouter  
 Vos sentiments brutaux veulent se contenter ;  
 Puisque pour vous réduire à des ardeurs fidèles,  
@@ -2569,19 +2569,19 @@ Il faut des nœuds de chair, des chaînes corporelles ;
 Si ma Mère le veut, je résous mon esprit  
 À consentir pour vous à ce dont il s'agit.  
 
-    CLITANDRE
+    CLITANDRE.
 Il n'est plus temps, Madame, une autre a pris la place ;  
 Et par un tel retour j'aurais mauvaise grâce  
 De maltraiter l'asile, et blesser les bontés,  
 Où je me suis sauvé de toutes vos fiertés.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Mais enfin comptez-vous, Monsieur, sur mon suffrage,  
 Quand vous vous promettez cet autre Mariage ?  
 Et dans vos visions savez-vous, s'il vous plaît,  
 Que j'ai pour Henriette un autre Époux tout prêt ?  
 
-    CLITANDRE
+    CLITANDRE.
 Eh, Madame, voyez votre choix, je vous prie ;  
 Exposez-moi, de grâce, à moins d'ignominie,  
 Et ne me rangez pas à l'indigne destin  
@@ -2597,16 +2597,16 @@ Et ce qui m'a vingt fois fait tomber de mon haut,
 C'est de vous voir au Ciel élever des sornettes,  
 Que vous désavoueriez, si vous les aviez faites.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Si vous jugez de lui tout autrement que nous,  
 C'est que nous le voyons par d'autres yeux que vous.  
 
 
-## Scène III
+## Scène III.
 Trissotin, Armande, Philaminte, Clitandre.
 
 
-    TRISSOTIN
+    TRISSOTIN.
 Je viens vous annoncer une grande nouvelle.  
 Nous l'avons en dormant, Madame, échappé belle :  
 Un Monde près de nous a passé tout du long,  
@@ -2614,13 +2614,13 @@ Est chu tout au travers de notre tourbillon ;
 Et s'il eût en chemin rencontré notre terre,  
 Elle eût été brisée en morceaux comme verre.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Remettons ce discours pour une autre saison,  
 Monsieur n'y trouverait ni rime, ni raison ;  
 Il fait profession de chérir l'ignorance,  
 Et de haïr surtout l'Esprit et la Science.  
 
-    CLITANDRE
+    CLITANDRE.
 Cette vérité veut quelque adoucissement.  
 Je m'explique, Madame, et je hais seulement  
 La Science et l'Esprit qui gâtent les Personnes.  
@@ -2628,106 +2628,106 @@ Ce sont choses de soi qui sont belles et bonnes ;
 Mais j'aimerais mieux être au rang des Ignorants,  
 Que de me voir savant comme certaines Gens.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Pour moi je ne tiens pas, quelque effet qu'on suppose,  
 Que la Science soit pour gâter quelque chose.  
 
-    CLITANDRE
+    CLITANDRE.
 Et c'est mon sentiment, qu'en faits, comme en propos,  
 La Science est sujette à faire de grands Sots.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Le paradoxe est fort.  
 
-    CLITANDRE
+    CLITANDRE.
         Sans être fort habile,  
 La preuve m'en serait je pense assez facile.  
 Si les raisons manquaient, je suis sûr qu'en tout cas  
 Les exemples fameux ne me manqueraient pas.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Vous en pourriez citer qui ne concluraient guère.  
 
-    CLITANDRE
+    CLITANDRE.
 Je n'irais pas bien loin pour trouver mon affaire.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Pour moi je ne vois pas ces exemples fameux.  
 
-    CLITANDRE
+    CLITANDRE.
 Moi, je les vois si bien, qu'ils me crèvent les yeux.  
 
-    TRISSOTIN
+    TRISSOTIN.
 J'ai cru jusques ici que c'était l'Ignorance  
 Qui faisait les grands Sots, et non pas la Science.  
 
-    CLITANDRE
+    CLITANDRE.
 Vous avez cru fort mal, et je vous suis garant,  
 Qu'un Sot savant est sot plus qu'un Sot ignorant.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Le sentiment commun est contre vos maximes,  
 Puisque Ignorant et Sot sont termes synonymes.  
 
-    CLITANDRE
+    CLITANDRE.
 Si vous le voulez prendre aux usages du mot,  
 L'alliance est plus grande entre Pédant et Sot.  
 
-    TRISSOTIN
+    TRISSOTIN.
 La Sottise dans l'un se fait voir toute pure.  
 
-    CLITANDRE
+    CLITANDRE.
 Et l'Étude dans l'autre ajoute à la Nature.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Le Savoir garde en soi son mérite éminent.  
 
-    CLITANDRE
+    CLITANDRE.
 Le Savoir dans un Fat devient impertinent.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Il faut que l'Ignorance ait pour vous de grands charmes,  
 Puisque pour elle ainsi vous prenez tant les armes.  
 
-    CLITANDRE
+    CLITANDRE.
 Si pour moi l'Ignorance a des charmes bien grands,  
 C'est depuis qu'à mes yeux s'offrent certains Savants.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Ces certains Savants-là, peuvent à les connaître  
 Valoir certaines Gens que nous voyons paraître.  
 
-    CLITANDRE
+    CLITANDRE.
 Oui, si l'on s'en rapporte à ces certains Savants ;  
 Mais on n'en convient pas chez ces certaines Gens.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Il me semble, Monsieur...  
 
-    CLITANDRE
+    CLITANDRE.
         Eh, Madame, de grâce,  
 Monsieur est assez fort, sans qu'à son aide on passe :  
 Je n'ai déjà que trop d'un si rude assaillant ;  
 Et si je me défends, ce n'est qu'en reculant.  
 
-    ARMANDE
+    ARMANDE.
 Mais l'offensante aigreur de chaque repartie  
 Dont vous...  
 
-    CLITANDRE
+    CLITANDRE.
         Autre second, je quitte la partie.  
 
-    PHILAMINTE
+    PHILAMINTE.
 On souffre aux entretiens ces sortes de combats,  
 Pourvu qu'à la Personne on ne s'attaque pas.  
 
-    CLITANDRE
+    CLITANDRE.
 Eh, mon Dieu, tout cela n'a rien dont il s'offense ;  
 Il entend raillerie autant qu'Homme de France ;  
 Et de bien d'autres traits il s'est senti piquer,  
 Sans que jamais sa gloire ait fait que s'en moquer.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Je ne m'étonne pas au combat que j'essuie,  
 De voir prendre à Monsieur la Thèse qu'il appuie.  
 Il est fort enfoncé dans la Cour, c'est tout dit :  
@@ -2735,7 +2735,7 @@ La Cour, comme l'on sait, ne tient pas pour l'Esprit ;
 Elle a quelque intérêt d'appuyer l'Ignorance,  
 Et c'est en Courtisan qu'il en prend la défense.  
 
-    CLITANDRE
+    CLITANDRE.
 Vous en voulez beaucoup à cette pauvre Cour,  
 Et son malheur est grand, de voir que chaque jour  
 Vous autres beaux Esprits, vous déclamiez contre elle ;  
@@ -2753,19 +2753,19 @@ Que chez elle on se peut former quelque bon goût ;
 Et que l'Esprit du Monde y vaut, sans flatterie,  
 Tout le savoir obscur de la Pédanterie.  
 
-    TRISSOTIN
+    TRISSOTIN.
 De son bon goût, Monsieur, nous voyons des effets.  
 
-    CLITANDRE
+    CLITANDRE.
 Où voyez-vous, Monsieur, qu'elle l'ait si mauvais ?  
 
-    TRISSOTIN
+    TRISSOTIN.
 Ce que je vois, Monsieur, c'est que pour la Science  
 Rasius et Baldus font honneur à la France,  
 Et que tout leur mérite exposé fort au jour,  
 N'attire point les yeux et les dons de la Cour.  
 
-    CLITANDRE
+    CLITANDRE.
 Je vois votre chagrin, et que par modestie  
 Vous ne vous mettez point, Monsieur, de la partie :  
 Et pour ne vous point mettre aussi dans le propos,  
@@ -2797,32 +2797,32 @@ Inhabiles à tout, vides de sens commun,
 Et pleins d'un ridicule, et d'une impertinence  
 À décrier partout l'Esprit et la Science.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Votre chaleur est grande, et cet emportement  
 De la Nature en vous marque le mouvement.  
 C'est le nom de Rival qui dans votre âme excite...  
 
 
-## Scène IV
+## Scène IV.
 Julien, Trissotin, Philaminte, Clitandre, Armande.
 
 
-    JULIEN
+    JULIEN.
 Le Savant qui tantôt vous a rendu visite,  
 Et de qui j'ai l'honneur de me voir le Valet,  
 Madame, vous exhorte à lire ce Billet.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Quelque important que soit ce qu'on veut que je lise,  
 Apprenez, mon ami, que c'est une sottise  
 De se venir jeter au travers d'un discours,  
 Et qu'aux Gens d'un Logis il faut avoir recours,  
 Afin de s'introduire en Valet qui sait vivre.  
 
-    JULIEN
+    JULIEN.
 Je noterai cela, Madame, dans mon Livre.  
 
-    PHILAMINTE, *lit* :
+    PHILAMINTE, *lit* :.
 Trissotin s'est vanté, Madame, qu'il épouserait votre Fille. Je vous donne avis que sa Philosophie n'en veut qu'à vos richesses, et que vous ferez bien de ne point conclure ce Mariage, que vous n'ayez vu le Poème que je compose contre lui. En attendant cette Peinture où je prétends vous le dépeindre de toutes ses couleurs, je vous envoie Horace, Virgile, Térence et Catulle, où vous verrez notés en marge tous les endroits qu'il a pillés.
 Philaminte poursuit.
 
@@ -2843,87 +2843,87 @@ Et je vous y veux bien de ma part inviter.
 Armande, prenez soin d'envoyer au Notaire,  
 Et d'aller avertir votre Sœur de l'affaire.  
 
-    ARMANDE
+    ARMANDE.
 Pour avertir ma Sœur, il n'en est pas besoin,  
 Et Monsieur que voilà, saura prendre le soin  
 De courir lui porter bientôt cette nouvelle,  
 Et disposer son cœur à vous être rebelle.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Nous verrons qui sur elle aura plus de pouvoir,  
 Et si je la saurai réduire à son devoir.  
 Elle s'en va.
 
 
-    ARMANDE
+    ARMANDE.
 J'ai grand regret, Monsieur, de voir qu'à vos visées,  
 Les choses ne soient pas tout à fait disposées.  
 
-    CLITANDRE
+    CLITANDRE.
 Je m'en vais travailler, Madame, avec ardeur,  
 À ne vous point laisser ce grand regret au cœur.  
 
-    ARMANDE
+    ARMANDE.
 J'ai peur que votre effort n'ait pas trop bonne issue.  
 
-    CLITANDRE
+    CLITANDRE.
 Peut-être verrez-vous votre crainte déçue.  
 
-    ARMANDE
+    ARMANDE.
 Je le souhaite ainsi.  
 
-    CLITANDRE
+    CLITANDRE.
         J'en suis persuadé,  
 Et que de votre appui je serai secondé.  
 
-    ARMANDE
+    ARMANDE.
 Oui, je vais vous servir de toute ma puissance.  
 
-    CLITANDRE
+    CLITANDRE.
 Et ce service est sûr de ma reconnaissance.  
 
 
-## Scène V
+## Scène V.
 Chrysale, Ariste, Henriette, Clitandre.
 
 
-    CLITANDRE
+    CLITANDRE.
 Sans votre appui, Monsieur, je serai malheureux.  
 Madame votre Femme a rejeté mes vœux,  
 Et son cœur prévenu, veut Trissotin pour Gendre.  
 
-    CHRYSALE
+    CHRYSALE.
 Mais quelle fantaisie a-t-elle donc pu prendre ?  
 Pourquoi diantre vouloir ce Monsieur Trissotin ?  
 
-    ARISTE
+    ARISTE.
 C'est par l'honneur qu'il a de rimer à Latin,  
 Qu'il a sur son rival emporté l'avantage.  
 
-    CLITANDRE
+    CLITANDRE.
 Elle veut dès ce soir faire ce Mariage.  
 
-    CHRYSALE
+    CHRYSALE.
 Dès ce soir ?  
 
-    CLITANDRE
+    CLITANDRE.
     Dès ce soir.  
 
-    CHRYSALE
+    CHRYSALE.
         Et dès ce soir je veux,  
 Pour la contrecarrer, vous marier vous deux.  
 
-    CLITANDRE
+    CLITANDRE.
 Pour dresser le Contrat, elle envoie au Notaire.  
 
-    CHRYSALE
+    CHRYSALE.
 Et je vais le quérir pour celui qu'il doit faire.  
 
-    CLITANDRE
+    CLITANDRE.
 Et Madame doit être instruite par sa Sœur,  
 De l'hymen où l'on veut qu'elle apprête son cœur.  
 
-    CHRYSALE
+    CHRYSALE.
 Et moi, je lui commande avec pleine puissance,  
 De préparer sa main à cette autre Alliance.  
 Ah je leur ferai voir, si pour donner la loi,  
@@ -2931,47 +2931,47 @@ Il est dans ma Maison d'autre Maître que moi.
 Nous allons revenir, songez à nous attendre ;  
 Allons, suivez mes pas, mon Frère, et vous mon Gendre.  
 
-    HENRIETTE
+    HENRIETTE.
 Hélas ! dans cette humeur conservez-le toujours.  
 
-    ARISTE
+    ARISTE.
 J'emploierai toute chose à servir vos amours.  
 
-    CLITANDRE
+    CLITANDRE.
 Quelque secours puissant qu'on promette à ma flamme,  
 Mon plus solide espoir, c'est votre cœur, Madame.  
 
-    HENRIETTE
+    HENRIETTE.
 Pour mon cœur vous pouvez vous assurer de lui.  
 
-    CLITANDRE
+    CLITANDRE.
 Je ne puis qu'être heureux, quand j'aurai son appui.  
 
-    HENRIETTE
+    HENRIETTE.
 Vous voyez à quels nœuds on prétend le contraindre.  
 
-    CLITANDRE
+    CLITANDRE.
 Tant qu'il sera pour moi, je ne vois rien à craindre.  
 
-    HENRIETTE
+    HENRIETTE.
 Je vais tout essayer pour nos vœux les plus doux ;  
 Et si tous mes efforts ne me donnent à vous,  
 Il est une retraite où notre âme se donne,  
 Qui m'empêchera d'être à toute autre Personne.  
 
-    CLITANDRE
+    CLITANDRE.
 Veuille le juste Ciel me garder en ce jour,  
 De recevoir de vous cette preuve d'amour.  
 
 
-# Acte V
+# Acte V.
 
 
-## Scène Première
+## Scène Première.
 Henriette, Trissotin.
 
 
-    HENRIETTE
+    HENRIETTE.
 C'est sur le Mariage où ma Mère s'apprête,  
 Que j'ai voulu, Monsieur, vous parler tête -à -tête ;  
 Et j'ai cru dans le trouble où je vois la Maison,  
@@ -2983,14 +2983,14 @@ Pour un vrai Philosophe a d'indignes appas ;
 Et le mépris du bien et des grandeurs frivoles,  
 Ne doit point éclater dans vos seules paroles.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Aussi n'est-ce point là ce qui me charme en vous ;  
 Et vos brillants attraits, vos yeux perçants et doux,  
 Votre grâce et votre air sont les biens, les richesses,  
 Qui vous ont attiré mes vœux et mes tendresses ;  
 C'est de ces seuls trésors que je suis amoureux.  
 
-    HENRIETTE
+    HENRIETTE.
 Je suis fort redevable à vos feux généreux ;  
 Cet obligeant amour a de quoi me confondre,  
 Et j'ai regret, Monsieur, de n'y pouvoir répondre.  
@@ -3005,13 +3005,13 @@ Je vois bien que j'ai tort, mais je n'y puis que faire ;
 Et tout ce que sur moi peut le raisonnement,  
 C'est de me vouloir mal d'un tel aveuglement.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Le don de votre main où l'on me fait prétendre,  
 Me livrera ce cœur que possède Clitandre ;  
 Et par mille doux soins, j'ai lieu de présumer,  
 Que je pourrai trouver l'art de me faire aimer.  
 
-    HENRIETTE
+    HENRIETTE.
 Non, à ses premiers vœux mon âme est attachée,  
 Et ne peut de vos soins, Monsieur, être touchée.  
 Avec vous librement j'ose ici m'expliquer,  
@@ -3035,28 +3035,28 @@ Exercer sur mes vœux la rigueur de ses droits.
 Ôtez-moi votre amour, et portez à quelque autre  
 Les hommages d'un cœur aussi cher que le vôtre.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Le moyen que ce cœur puisse vous contenter ?  
 Imposez-lui des Lois qu'il puisse exécuter.  
 De ne vous point aimer peut-il être capable,  
 À moins que vous cessiez, Madame, d'être aimable,  
 Et d'étaler aux yeux les célestes appas...  
 
-    HENRIETTE
+    HENRIETTE.
 Eh Monsieur, laissons là ce galimatias.  
 Vous avez tant d'Iris, de Philis, d'Amarantes,  
 Que partout dans vos Vers vous peignez si charmantes,  
 Et pour qui vous jurez tant d'amoureuse ardeur...  
 
-    TRISSOTIN
+    TRISSOTIN.
 C'est mon esprit qui parle, et ce n'est pas mon cœur.  
 D'elles on ne me voit amoureux qu'en Poète ;  
 Mais j'aime tout de bon l'adorable Henriette.  
 
-    HENRIETTE
+    HENRIETTE.
 Eh de grâce, Monsieur...  
 
-    TRISSOTIN
+    TRISSOTIN.
         Si c'est vous offenser,  
 Mon offense envers vous n'est pas prête à cesser.  
 Cette ardeur jusqu'ici de vos yeux ignorée,  
@@ -3068,7 +3068,7 @@ Qui prétend couronner une flamme si chère ;
 Et pourvu que j'obtienne un bonheur si charmant,  
 Pourvu que je vous aie, il n'importe comment.  
 
-    HENRIETTE
+    HENRIETTE.
 Mais savez-vous qu'on risque un peu plus qu'on ne pense,  
 À vouloir sur un cœur user de violence.  
 Qu'il ne fait pas bien sûr, à vous le trancher net,  
@@ -3076,7 +3076,7 @@ D'épouser une fille en dépit qu'elle en ait ;
 Et qu'elle peut aller en se voyant contraindre,  
 À des ressentiments que le mari doit craindre.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Un tel discours n'a rien dont je sois altéré.  
 À tous événements le Sage est préparé.  
 Guéri par la raison des faiblesses vulgaires,  
@@ -3084,7 +3084,7 @@ Il se met au-dessus de ces sortes d'affaires,
 Et n'a garde de prendre aucune ombre d'ennui,  
 De tout ce qui n'est pas pour dépendre de lui.  
 
-    HENRIETTE
+    HENRIETTE.
 En vérité, Monsieur, je suis de vous ravie ;  
 Et je ne pensais pas que la Philosophie  
 Fût si belle qu'elle est, d'instruire ainsi les Gens  
@@ -3098,16 +3098,16 @@ Bien propre à lui donner tout l'éclat de sa gloire,
 Je le laisse à quelque autre, et vous jure entre nous,  
 Que je renonce au bien de vous voir mon Époux.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Nous allons voir bientôt comment ira l'affaire ;  
 Et l'on a là-dedans fait venir le Notaire.  
 
 
-## Scène II
+## Scène II.
 Chrysale, Clitandre, Martine, Henriette.
 
 
-    CHRYSALE
+    CHRYSALE.
 Ah, ma Fille, je suis bien aise de vous voir.  
 Allons, venez-vous-en faire votre devoir,  
 Et soumettre vos vœux aux volontés d'un Père.  
@@ -3115,7 +3115,7 @@ Je veux, je veux apprendre à vivre à votre Mère ;
 Et pour la mieux braver, voilà, malgré ses dents,  
 Martine que j'amène, et rétablis céans.  
 
-    HENRIETTE
+    HENRIETTE.
 Vos résolutions sont dignes de louange.  
 Gardez que cette humeur, mon Père, ne vous change.  
 Soyez ferme à vouloir ce que vous souhaitez,  
@@ -3123,223 +3123,223 @@ Et ne vous laissez point séduire à vos bontés.
 Ne vous relâchez pas, et faites bien en sorte  
 D'empêcher que sur vous ma Mère ne l'emporte.  
 
-    CHRYSALE
+    CHRYSALE.
 Comment ? Me prenez-vous ici pour un Benêt ?  
 
-    HENRIETTE
+    HENRIETTE.
 M'en préserve le Ciel.  
 
-    CHRYSALE
+    CHRYSALE.
         Suis-je un Fat, s'il vous plaît ?  
 
-    HENRIETTE
+    HENRIETTE.
 Je ne dis pas cela.  
 
-    CHRYSALE
+    CHRYSALE.
         Me croit-on incapable  
 Des fermes sentiments d'un Homme raisonnable ?  
 
-    HENRIETTE
+    HENRIETTE.
 Non, mon père.  
 
-    CHRYSALE
+    CHRYSALE.
         Est-ce donc qu'à l'âge où je me vois,  
 Je n'aurais pas l'esprit d'être Maître chez moi ?  
 
-    HENRIETTE
+    HENRIETTE.
 Si fait.  
 
-    CHRYSALE
+    CHRYSALE.
         Et que j'aurais cette faiblesse d'âme,  
 De me laisser mener par le nez à ma femme ?  
 
-    HENRIETTE
+    HENRIETTE.
 Eh non, mon père.  
 
-    CHRYSALE
+    CHRYSALE.
         Ouais. Qu'est-ce donc que ceci ?  
 Je vous trouve plaisante à me parler ainsi.  
 
-    HENRIETTE
+    HENRIETTE.
 Si je vous ai choqué, ce n'est pas mon envie.  
 
-    CHRYSALE
+    CHRYSALE.
 Ma volonté céans doit être en tout suivie.  
 
-    HENRIETTE
+    HENRIETTE.
 Fort bien, mon Père.  
 
-    CHRYSALE
+    CHRYSALE.
         Aucun, hors moi, dans la Maison,  
 N'a droit de commander.  
 
-    HENRIETTE
+    HENRIETTE.
         Oui, vous avez raison.  
 
-    CHRYSALE
+    CHRYSALE.
 C'est moi qui tiens le rang de chef de la famille.  
 
-    HENRIETTE
+    HENRIETTE.
 D'accord.  
 
-    CHRYSALE
+    CHRYSALE.
         C'est moi qui dois disposer de ma Fille.  
 
-    HENRIETTE
+    HENRIETTE.
 Eh oui.  
 
-    CHRYSALE
+    CHRYSALE.
         Le Ciel me donne un plein pouvoir sur vous.  
 
-    HENRIETTE
+    HENRIETTE.
 Qui vous dit le contraire ?  
 
-    CHRYSALE
+    CHRYSALE.
         Et pour prendre un Époux,  
 Je vous ferai bien voir que c'est à votre Père  
 Qu'il vous faut obéir, non pas à votre Mère.  
 
-    HENRIETTE
+    HENRIETTE.
 Hélas ! vous flattez là les plus doux de mes vœux ;  
 Veuillez être obéi, c'est tout ce que je veux.  
 
-    CHRYSALE
+    CHRYSALE.
 Nous verrons si ma Femme à mes désirs rebelle...  
 
-    CLITANDRE
+    CLITANDRE.
 La voici qui conduit le Notaire avec elle.  
 
-    CHRYSALE
+    CHRYSALE.
 Secondez-moi bien tous.  
 
-    MARTINE
+    MARTINE.
         Laissez-moi, j'aurai soin  
 De vous encourager, s'il en est de besoin.  
 
 
-## Scène III
+## Scène III.
 Philaminte, Bélise, Armande, Trissotin, le Notaire, Chrysale, Clitandre, Henriette, Martine.
 
 
-    PHILAMINTE
+    PHILAMINTE.
 Vous ne sauriez changer votre style sauvage,  
 Et nous faire un Contrat qui soit en beau langage ?  
 
-    LE NOTAIRE
+    LE NOTAIRE.
 Notre style est très bon, et je serais un Sot,  
 Madame, de vouloir y changer un seul mot.  
 
-    BÉLISE
+    BÉLISE.
 Ah ! quelle barbarie au milieu de la France !  
 Mais au moins en faveur, Monsieur, de la Science,  
 Veuillez au lieu d'écus, de livres et de francs,  
 Nous exprimer la dot en Mines et Talents,  
 Et dater par les mots d'Ides et de Calendes.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
 Moi ? Si j'allais, Madame, accorder vos demandes,  
 Je me ferais siffler de tous mes Compagnons.  
 
-    PHILAMINTE
+    PHILAMINTE.
 De cette barbarie en vain nous nous plaignons.  
 Allons, Monsieur, prenez la Table pour écrire.  
 Ah, ah ! Cette Impudente ose encor se produire ?  
 Pourquoi donc, s'il vous plaît, la ramener chez moi ?  
 
-    CHRYSALE
+    CHRYSALE.
 Tantôt avec loisir on vous dira pourquoi.  
 Nous avons maintenant autre chose à conclure.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
 Procédons au Contrat. Où donc est la Future ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Celle que je marie est la Cadette.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
         Bon.  
 
-    CHRYSALE
+    CHRYSALE.
 Oui. La voilà, Monsieur, Henriette est son nom.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
 Fort bien. Et le futur ?  
 
-    PHILAMINTE
+    PHILAMINTE.
         L'époux que je lui donne  
 Est Monsieur.  
 
-    CHRYSALE
+    CHRYSALE.
         Et celui, moi, qu'en propre personne,  
 Je prétends qu'elle épouse, est Monsieur.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
         Deux époux !  
 C'est trop pour la coutume.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Où vous arrêtez-vous ?  
 Mettez, mettez, Monsieur, Trissotin pour mon gendre.  
 
-    CHRYSALE
+    CHRYSALE.
 Pour mon gendre mettez, mettez, Monsieur, Clitandre.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
 Mettez-vous donc d'accord et d'un jugement mûr  
 Voyez à convenir entre vous du Futur ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Suivez, suivez, Monsieur, le choix où je m'arrête.  
 
-    CHRYSALE
+    CHRYSALE.
 Faites, faites, Monsieur, les choses à ma tête.  
 
-    LE NOTAIRE
+    LE NOTAIRE.
 Dites-moi donc à qui j'obéirai des deux ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Quoi donc, vous combattrez les choses que je veux ?  
 
-    CHRYSALE
+    CHRYSALE.
 Je ne saurais souffrir qu'on ne cherche ma fille,  
 Que pour l'amour du bien qu'on voit dans ma Famille.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Vraiment à votre bien on songe bien ici,  
 Et c'est là pour un Sage, un fort digne souci !  
 
-    CHRYSALE
+    CHRYSALE.
 Enfin pour son époux, j'ai fait choix de Clitandre.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Et moi, pour son Époux, voici qui je veux prendre :  
 Mon choix sera suivi, c'est un point résolu.  
 
-    CHRYSALE
+    CHRYSALE.
 Ouais. Vous le prenez là d'un ton bien absolu ?  
 
-    MARTINE
+    MARTINE.
 Ce n'est point à la Femme à prescrire, et je sommes  
 Pour céder le dessus en toute chose aux Hommes.  
 
-    CHRYSALE
+    CHRYSALE.
 C'est bien dit.  
 
-    MARTINE
+    MARTINE.
         Mon congé cent fois me fût-il hoc,  
 La poule ne doit point chanter devant le Coq.  
 
-    CHRYSALE
+    CHRYSALE.
 Sans doute.  
 
-    MARTINE
+    MARTINE.
         Et nous voyons que d'un homme on se gausse,  
 Quand sa Femme chez lui porte le Haut-de-chausse.  
 
-    CHRYSALE
+    CHRYSALE.
 Il est vrai.  
 
-    MARTINE
+    MARTINE.
         Si j'avais un mari, je le dis,  
 Je voudrais qu'il se fît le Maître du logis.  
 Je ne l'aimerais point, s'il faisait le Jocrisse.  
@@ -3347,17 +3347,17 @@ Et si je contestais contre lui par caprice ;
 Si je parlais trop haut, je trouverais fort bon,  
 Qu'avec quelques soufflets il rabaissât mon ton.  
 
-    CHRYSALE
+    CHRYSALE.
 C'est parler comme il faut.  
 
-    MARTINE
+    MARTINE.
         Monsieur est raisonnable,  
 De vouloir pour sa Fille un Mari convenable.  
 
-    CHRYSALE
+    CHRYSALE.
 Oui.  
 
-    MARTINE
+    MARTINE.
         Par quelle raison, jeune, et bien fait qu'il est,  
 Lui refuser Clitandre ? Et pourquoi, s'il vous plaît,  
 Lui bailler un Savant, qui sans cesse épilogue ?  
@@ -3365,13 +3365,13 @@ Il lui faut un Mari, non pas un Pédagogue :
 Et ne voulant savoir le Grais, ni le Latin,  
 Elle n'a pas besoin de Monsieur Trissotin.  
 
-    CHRYSALE
+    CHRYSALE.
 Fort bien.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Il faut souffrir qu'elle jase à son aise.  
 
-    MARTINE
+    MARTINE.
 Les Savants ne sont bons que pour prêcher en Chaise ;  
 Et pour mon Mari, moi, mille fois je l'ai dit,  
 Je ne voudrais jamais prendre un Homme d'esprit.  
@@ -3382,14 +3382,14 @@ Un Mari qui n'ait point d'autre Livre que moi ;
 Qui ne sache A, ne B, n'en déplaise à Madame,  
 Et ne soit en un mot Docteur que pour sa femme.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Est-ce fait ? et sans trouble ai-je assez écouté  
 Votre digne interprète ?  
 
-    CHRYSALE
+    CHRYSALE.
         Elle a dit vérité.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Et moi, pour trancher court toute cette dispute,  
 Il faut qu'absolument mon désir s'exécute.  
 Henriette, et Monsieur seront joints de ce pas ;  
@@ -3397,17 +3397,17 @@ Je l'ai dit, je le veux, ne me répliquez pas :
 Et si votre parole à Clitandre est donnée,  
 Offrez-lui le parti d'épouser son aînée.  
 
-    CHRYSALE
+    CHRYSALE.
 Voilà dans cette affaire un accommodement.  
 Voyez ? y donnez-vous votre consentement ?  
 
-    HENRIETTE
+    HENRIETTE.
 Eh mon père !  
 
-    CLITANDRE
+    CLITANDRE.
     Eh Monsieur !  
 
-    BÉLISE
+    BÉLISE.
         On pourrait bien lui faire  
 Des propositions qui pourraient mieux lui plaire :  
 Mais nous établissons une espèce d'amour  
@@ -3416,11 +3416,11 @@ La substance qui pense, y peut être reçue,
 Mais nous en bannissons la substance étendue.  
 
 
-## Scène Dernière
+## Scène Dernière.
 Ariste, Chrysale, Philaminte, Bélise, Henriette, Armande, Trissotin, Le Notaire, Clitandre, Martine.
 
 
-    ARISTE
+    ARISTE.
 J'ai regret de troubler un mystère joyeux,  
 Par le chagrin qu'il faut que j'apporte en ces lieux.  
 Ces deux Lettres me font porteur de deux nouvelles,  
@@ -3428,20 +3428,20 @@ Dont j'ai senti pour vous les atteintes cruelles :
 L'une pour vous, me vient de votre Procureur ;  
 L'autre pour vous, me vient de Lyon.  
 
-    PHILAMINTE
+    PHILAMINTE.
         Quel malheur,  
 Digne de nous troubler, pourrait-on nous écrire ?  
 
-    ARISTE
+    ARISTE.
 Cette Lettre en contient un que vous pouvez lire.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Madame, j'ai prié Monsieur votre Frère de vous rendre cette Lettre, qui vous dira ce que je n'ai osé vous aller dire. La grande négligence que vous avez pour vos Affaires, a été cause que le Clerc de votre Rapporteur ne m'a point averti, et vous avez perdu absolument votre Procès que vous deviez gagner.
 
-    CHRYSALE
+    CHRYSALE.
 Votre procès perdu !  
 
-    PHILAMINTE
+    PHILAMINTE.
         Vous vous troublez beaucoup !  
 Mon cœur n'est point du tout ébranlé de ce coup.  
 Faites, faites paraître une âme moins commune  
@@ -3450,46 +3450,46 @@ Le peu de soin que vous avez vous coûte quarante mille écus, et c'est à payer
 Condamnée ! Ah ce mot est choquant, et n'est fait  
 Que pour les Criminels.  
 
-    ARISTE
+    ARISTE.
         Il a tort en effet,  
 Et vous vous êtes là justement récriée.  
 Il devait avoir mis que vous êtes priée,  
 Par Arrêt de la Cour, de payer au plus tôt  
 Quarante mille écus, et les dépens qu'il faut.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Voyons l'autre.
 
-    CHRYSALE*, lit*
+    CHRYSALE*, lit*.
 Monsieur, l'amitié qui me lie à Monsieur votre Frère, me fait prendre intérêt à tout ce qui vous touche. Je sais que vous avez mis votre bien entre les mains d'Argante et de Damon, et je vous donne avis qu'en même jour ils ont fait tous deux banqueroute.
 Ô Ciel! tout à la fois perdre ainsi tout mon bien!  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ah quel honteux transport ! Fi ! tout cela n'est rien.  
 Il n'est pour le vrai Sage aucun revers funeste,  
 Et perdant toute chose, à soi-même il se reste.  
 Achevons notre affaire, et quittez votre ennui ;  
 Son bien nous peut suffire et pour nous, et pour lui.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Non, Madame, cessez de presser cette affaire.  
 Je vois qu'à cet Hymen tout le Monde est contraire,  
 Et mon dessein n'est point de contraindre les Gens.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Cette réflexion vous vient en peu de temps !  
 Elle suit de bien près, Monsieur, notre disgrâce.  
 
-    TRISSOTIN
+    TRISSOTIN.
 De tant de résistance à la fin je me lasse.  
 J'aime mieux renoncer à tout cet embarras,  
 Et ne veux point d'un cœur qui ne se donne pas.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Je vois, je vois de vous, non pas pour votre gloire,  
 Ce que jusques ici j'ai refusé de croire.  
 
-    TRISSOTIN
+    TRISSOTIN.
 Vous pouvez voir de moi tout ce que vous voudrez,  
 Et je regarde peu comment vous le prendrez :  
 Mais je ne suis point Homme à souffrir l'infamie  
@@ -3497,30 +3497,30 @@ Des refus offensants qu'il faut qu'ici j'essuie ;
 Je vaux bien que de moi l'on fasse plus de cas,  
 Et je baise les mains à qui ne me veut pas.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Qu'il a bien découvert son âme mercenaire !  
 Et que peu philosophe est ce qu'il vient de faire !  
 
-    CLITANDRE
+    CLITANDRE.
 Je ne me vante point de l'être, mais enfin  
 Je m'attache, Madame, à tout votre destin ;  
 Et j'ose vous offrir, avecque ma personne,  
 Ce qu'on sait que de bien la Fortune me donne.  
 
-    PHILAMINTE
+    PHILAMINTE.
 Vous me charmez, Monsieur, par ce trait généreux,  
 Et je veux couronner vos désirs amoureux.  
 Oui, j'accorde Henriette à l'ardeur empressée...  
 
-    HENRIETTE
+    HENRIETTE.
 Non, ma Mère, je change à présent de pensée.  
 Souffrez que je résiste à votre volonté.  
 
-    CLITANDRE
+    CLITANDRE.
 Quoi, vous vous opposez à ma félicité ?  
 Et lorsqu'à mon amour je vois chacun se rendre...  
 
-    HENRIETTE
+    HENRIETTE.
 Je sais le peu de bien que vous avez, Clitandre,  
 Et je vous ai toujours souhaité pour Époux,  
 Lorsqu'en satisfaisant à mes vœux les plus doux,  
@@ -3529,11 +3529,11 @@ Mais lorsque nous avons les Destins si contraires,
 Je vous chéris assez dans cette extrémité,  
 Pour ne vous charger point de notre adversité.  
 
-    CLITANDRE
+    CLITANDRE.
 Tout Destin avec vous me peut être agréable ;  
 Tout Destin me serait sans vous insupportable.  
 
-    HENRIETTE
+    HENRIETTE.
 L'Amour dans son transport parle toujours ainsi.  
 Des retours importuns évitons le souci,  
 Rien n'use tant l'ardeur de ce nœud qui nous lie,  
@@ -3541,15 +3541,15 @@ Que les fâcheux besoins des choses de la vie ;
 Et l'on en vient souvent à s'accuser tous deux,  
 De tous les noirs chagrins qui suivent de tels feux.  
 
-    ARISTE
+    ARISTE.
 N'est-ce que le motif que nous venons d'entendre,  
 Qui vous fait résister à l'Hymen de Clitandre ?  
 
-    HENRIETTE
+    HENRIETTE.
 Sans cela, vous verriez tout mon cœur y courir ;  
 Et je ne fuis sa main, que pour le trop chérir.  
 
-    ARISTE
+    ARISTE.
 Laissez-vous donc lier par des chaînes si belles.  
 Je ne vous ai porté que de fausses nouvelles ;  
 Et c'est un stratagème, un surprenant secours,  
@@ -3557,32 +3557,32 @@ Que j'ai voulu tenter pour servir vos amours ;
 Pour détromper ma Sœur, et lui faire connaître  
 Ce que son Philosophe à l'essai pouvait être.  
 
-    CHRYSALE
+    CHRYSALE.
 Le Ciel en soit loué.  
 
-    PHILAMINTE
+    PHILAMINTE.
         J'en ai la joie au cœur,  
 Par le chagrin qu'aura ce lâche Déserteur.  
 Voilà le châtiment de sa basse avarice,  
 De voir qu'avec éclat cet Hymen s'accomplisse.  
 
-    CHRYSALE
+    CHRYSALE.
 Je le savais bien, moi, que vous l'épouseriez.  
 
-    ARMANDE
+    ARMANDE.
 Ainsi donc à leurs vœux vous me sacrifiez ?  
 
-    PHILAMINTE
+    PHILAMINTE.
 Ce ne sera point vous que je leur sacrifie,  
 Et vous avez l'appui de la Philosophie,  
 Pour voir d'un œil content couronner leur ardeur.  
 
-    BÉLISE
+    BÉLISE.
 Qu'il prenne garde au moins que je suis dans son cœur.  
 Par un prompt désespoir souvent on se marie,  
 Qu'on s'en repent après tout le temps de sa vie.  
 
-    CHRYSALE
+    CHRYSALE.
 Allons, Monsieur, suivez l'ordre que j'ai prescrit,  
 Et faites le Contrat ainsi que je l'ai dit.  
 

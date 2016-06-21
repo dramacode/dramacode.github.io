@@ -14,14 +14,14 @@ A PARIS, Chez TOUSSAINCT QUINET, au Palais, sous la montée de la Cour des Aydes
 Édition critique établie par Fabienne Sebert dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (1999-2000).
 
 
-# Introduction
+# Introduction.
 
 *La Dame suivante*, comédie d'Antoine Le Métel, sieur d'Ouville, est créée en 1643, à une période où le genre même de la comédie commence à renaître grâce à la vogue de la comédie espagnole. En effet, pendant les trente premières années du dix-septième siècle, ce genre de pièce est complètement abandonné et le nombre de comédies nouvelles est infime. La farce est alors le seul genre comique subsistant. On trouve cependant certains éléments de comique dans la pastorale et la tragi-comédie, qui contiennent des scènes comiques originales qui ne correspondent ni à la tradition antique latine, ni à la tradition italienne. Des auteurs comme Corneille, dans sa première comédie, *Mélite* (1629) ou *La Place Royale* (1634), ou encore Mairet, dans *Les Galanteries du duc d'Ossone* (1636), essaient de rassembler ces éléments comiques pour créer un nouveau genre de comédie : la comédie de mœurs.
 
 Malheureusement, ces œuvres n'eurent pas un très grand succès auprès du public, trop habitué aux comédies plautiniennes et italiennes, aux soldats fanfarons, aux vieillards amoureux et aux *imbroglios*. Le genre de la comédie reste donc prisonnier de la tradition jusqu'à l'arrivée de la comédie de type espagnol un peu avant 1640. Antoine Adam écrit : « C'est à d'Ouville que revint le mérite de ce renouvellement [1] ». Il crée alors une vogue : « Sur vingt comédies créées entre 1640 et 1648, il y en a dix qui sont des traductions ou des imitations de l'espagnol ». Ces comédies de type espagnol présentent toutes un thème romanesque : elles mettent en scène des galants honnêtes, des jeunes filles passionnées et audacieuses, qui sont voilées et se déguisent, des rendez-vous de nuit, des servantes qui portent des billets doux, etc. Le climat romanesque y occupe une place très importante. Ce sont des comédies sentimentales, dans lesquelles le thème du jeu entre l'être et le paraître est dominant : les nombreux déguisements utilisés dans ces pièces font en sorte que les personnages et les spectateurs ne savent plus qui est qui. Ils génèrent la confusion dans tous les esprits. Le seul but de ce genre de comédies est alors de plaire, de distraire, d'amuser le public. Le comique y est assuré par le personnage du valet bouffon, grossier, lâche, gourmand, peureux et terre à terre, appelé *gracioso*. Cette comédie nouvelle et « exotique » eut un succès non négligeable. *La Dame suivante* eut elle aussi du succès, puisqu'alors qu'elle a été créée en 1643 à l'Hôtel de Bourgogne, elle figure encore à son répertoire en 1646-47 [2].
 
 
-# L'auteur
+# L'auteur.
 
 Les documents pouvant nous instruire sur la vie d'Antoine Le Métel, sieur d'Ouville, sont rares et contradictoires. Ainsi, toute biographie ne peut être qu'imprécise. Les dates de sa naissance et de sa mort sont incertaines. Selon la plupart des historiens, il serait né vers 1590 à Caen. Cependant, James Wilson Coke [3] précise que le lieu et la date de la naissance d'Ouville ne sont attestés nulle part et considère que d'Ouville serait plutôt né en 1589, voire en 1587, à Rouen. Quoi qu'il en soit, d'Ouville était le fils d'un procureur de la cour des Aydes de Rouen [4] et le frère aîné de François Le Métel de Boisrobert, confident de Richelieu et membre de l'Académie française. Il était géographe, hydrographe et ingénieur. Tallemant des Réaux écrit de lui : « Il sçavoit la géographie le plus exactement du monde, et avoit une memoire prodigieuse [5] ». Vers 1622, il devint « ingénieur et géographe du Roy », et toucha pour cela une pension. La littérature était donc pour lui un loisir.
 
@@ -43,7 +43,7 @@ Ensuite, le simple fait que la littérature soit pour lui un divertissement a pu
 Enfin et surtout, d'Ouville est avant tout un adaptateur de pièces espagnoles, ce qui a deux conséquences assez regrettables : d'une part, il est considéré davantage comme un « copieur » que comme un véritable créateur. D'Ouville reste en effet la plupart du temps très fidèle aux originaux dont il s'inspire et, comme nous le verrons, l'adaptation qu'il en fait au goût français rend parfois ces pièces plus sèches qu'elles ne l'étaient. Les frères Parfaict écrivent à ce propos : « Monsieur d'Ouville … trouvoit les plans de ses Poëmes tous faits dans les Auteurs Espagnols ou Italiens, et … il n'avoit d'autre peine que de les traduire, et souvent de les défigurer en voulant les rendre à sa manière. » D'autre part, le genre même de la comédie espagnole est très éloigné du goût français classique, puisque son seul but est de plaire au public : les auteurs dramatiques espagnols étaient peu soucieux des convenances françaises, telles que la règle des trois unités de temps, de lieu et d'action, ou encore le respect d'une certaine moralité, convenances qui sont de rigueur dans les années 1640. Cela est sans doute une des raisons qui ont fait de ce type de comédie une mode éphémère et de Le Métel d'Ouville un auteur minoré puis oublié. Cependant, il aura eu le mérite de diffuser en France des pièces qui, sans lui, seraient restées inconnues du public français, et ses adaptations ne manquent pas d'originalité, puisque d'Ouville sait souvent être inventif.
 
 
-# Modèles espagnols et français
+# Modèles espagnols et français.
 
 Pour écrire *La Dame suivante*, d'Ouville s'est inspiré d'une comédie espagnole de Juan Perez de Montalván : *La Doncella de labor*. Cette pièce met en scène tous les efforts faits par une jeune fille, Doña Isabel, pour conquérir Don Diego qui est déjà l'amant de Doña Elvira. Mais au lieu de procéder à une conquête franche face à celui qu'elle aime, elle se déguise et, sous l'apparence d'une servante, parvient à séparer Don Diego de Doña Elvira et à faire en sorte que ce dernier tombe amoureux d'une Belle invisible qui n'est autre qu'elle-même.
 
@@ -96,7 +96,7 @@ A moy ne tiendra pas que la Beauté que j'aime
 Ne me quitte bien tost pour un autre moy-mesme, (I, 4, v. 281-282).  
 
 
-# Étude de la dramaturgie
+# Étude de la dramaturgie.
 
 D'Ouville, nous l'avons vu, a adapté *La Doncella de labor* de Montalván au goût français. Pour cela, il s'est plié aux règles qui sont devenues de rigueur en France dans les années 1630-1640 : l'unité de temps, l'unité de lieu et l'unité d'action, elle-même liée à la continuité de l'action.
 
@@ -154,7 +154,7 @@ La continuité de l'action est d'ailleurs intimement liée à l'unité d'action 
 Cette rupture de l'unité d'action est due uniquement au désir d'Ouville de jouer avec toutes les possibilités dramaturgiques qu'offre le déguisement : d'un point de vue général, la fonction dramaturgique des déguisements d'Isabelle et de Dorise est de compliquer l'action en créant la confusion dans tous les esprits. Tous les conflits de *La Dame suivante* sont liés à ces déguisements, et sont eux aussi organisés dans le but de faire douter les personnages, ce qui est une grande source d'ironie verbale et de comique. En effet, ce que Georges Forestier appelle le « comique de la victime » [19] est une conséquence naturelle du déguisement-stratagème. Nous étudierons plus précisément ces aspects de confusion et de « comique de la victime » dans notre développement sur le mensonge et ses fonctions. Outre cette forme de comique comme fonction dramaturgique du déguisement, le personnage de Carlin, qui revêt toutes les caractéristiques du *gracioso*, offre une autre forme de comique.
 
 
-# Les personnages
+# Les personnages.
 
 Certains personnages sont typiquement espagnols. L'héroïne, dont la double identité donne son titre oxymorique à la pièce, Isabelle-Dorotée, la dame suivante, est le type même de la jeune fille espagnole entreprenante. C'est elle qui mène toute l'action, ce qui est très original par rapport à la comédie d'origine italienne dans laquelle la jeune fille, si elle n'est pas totalement absente, est effacée.
 
@@ -354,7 +354,7 @@ Enfin, le vocabulaire tragique atteint son paroxysme lorsqu'elle dit : « Ah 
 Léonor est donc un personnage ridicule, puisqu'elle ne parvient pas à prendre du recul sur ce qui lui arrive.
 
 
-# Le mensonge
+# Le mensonge.
 
 Dans *La Dame suivante*, tous les personnages mentent, excepté Adraste, qui est un amoureux transis qui n'ose rien dire et surtout pas mentir. La vérité ne se dit qu'à voix basse. Cependant, si tous les personnages utilisent le mensonge, ces mensonges ne sont pas équivalents et il existe plusieurs types de mensonges différents.
 
@@ -537,7 +537,7 @@ Adraste sort de chez Climante et rencontre Léonor dehors, qui vient voir son am
 Enfin, Carlin est également obligé de mentir à son maître (III, 4) : il sait que la Dame cachée dans le cabinet de Climante était sa propre amoureuse Dorise, mais il craint que son maître ne se mette en colère en l'apprenant, étant donné que la venue de celle-ci a provoqué la rupture définitive entre Léonor et lui. Il dit donc à Climante qu'il ne connaît pas l'identité de la Dame du cabinet. Mais ce mensonge est lui aussi nécessairement lié à l'échec : entendant « Dorotée » décrire la Belle invisible, Carlin décèle chez elle le mensonge et en informe Climante. Il dit alors que la belle Dame n'était autre que Dorise qui venait pour le voir.
 
 
-# L'absence de morale
+# L'absence de morale.
 
 On sait que le mariage est l'élément structurant de la comédie. Toute comédie doit aboutir à une fin heureuse. Nous pouvons cependant nous demander pourquoi d'Ouville a choisi de faire triompher celle qui ment à tous et détruit l'amour des autres, ce qui nous semble aller à l'encontre de toute morale. En effet, il aurait très bien pu faire en sorte que Léonor et Climante se marient après avoir découvert la fourbe d'Isabelle, ce qui, d'ailleurs, aurait rendu leur comportement plus vraisemblable.
 
@@ -550,7 +550,7 @@ Cependant, Isabelle n'est pas non plus présentée comme quelqu'un de sympathiqu
 La seule réponse possible à cette absence de morale flagrante est que d'Ouville, peu soucieux de moralité, est bien plus préoccupé de plaire au spectateur en multipliant les quiproquos et les confusions, ce qui est très original dans le théâtre français du dix-septième siècle. En effet, les dramaturges du dix-septième siècle, pour réhabiliter le théâtre auprès de l'Eglise qui y voit un modèle de dépravation et qui influence un grand nombre de spectateurs, cherchent à légitimer leurs pièces en leur attribuant une fonction moralisatrice et instructrice, souvent appelée à contre sens fonction « cathartique » : les spectateurs, par identification avec les personnages, désireraient corriger leurs moeurs par le rire (*Castigat ridendo mores*). D'Ouville, bien loin de suivre ce mouvement, ne cherche même pas à dissimuler l'absence de morale de son personnage principal sous le couvert d'une moralité apparente. Son unique désir est de plaire, et il ne s'en cache pas.
 
 
-# L'amante invisible
+# L'amante invisible.
 
 Le thème de la séduction invisible est très fréquent au dix-septième siècle : d'une part, ce thème de la conquête masquée est souvent employé sous sa forme romanesque. Scarron, dans la première partie du *Roman comique* (1651) adapte une nouvelle espagnole de Solórzano pour en faire son chapitre IX : *Histoire de l'amante invisible*. Au même moment, Madeleine de Scudéry, dans la sixième partie de son *Grand Cyrus* raconte un long épisode de même inspiration. D'autre part, sous sa forme dramatique, le thème de la conquête masquée apparaît dans plusieurs comédies : *L'Esprit folet* d'Ouville (1638), *La Jalouse d'elle-même* (1648) et *La Belle invisible* (1656) de Boisrobert, *Les Engagements du hasard* (1649) et *Le Charme de la voix* (1656) de Thomas Corneille, ou encore *L'Amante invisible* de Nanteuil (1672).
 
@@ -565,7 +565,7 @@ Ne soit point à vos yeux quelque objet effroyable ? (V, 1, v. 1564-1566).
 L'illusion est reine et l'acceptation du masque suppose une libre adhésion de la victime du masque, adhésion qui est injustifiée, si ce n'est par les nécessités de l'intrigue et les aspects de confusion qui lui sont liées. L'intrigue est alors nettement supérieure à la psychologie du personnage, ce qui confirme le fait que la seule fonction de la comédie chez d'Ouville est de plaire au public.
 
 
-# Le succès et l'influence de La Dame suivante
+# Le succès et l'influence de La Dame suivante.
 
 *La Dame suivante* a eu un succès non négligeable, puisqu'alors qu'elle a été créée en 1643, elle figure encore au répertoire de l'Hôtel de Bourgogne en 1646-47 [26]. De plus, d'Ouville lui-même remarque dans l'épître de sa comédie que le duc de Guise a assisté deux fois au spectacle et que celui-ci lui a plu. S'adressant à Son Altesse le duc, il écrit : « Quand le monde sçaura qu'il luy a pleu par deux fois de suite voir la representation de cette Piece, et qu'elle y a trouvé beaucoup de divertissement, comme elle mesme m'a fait l'honneur de m'en asseurer, je suis tres certain que personne ne la trouvera mauvaise. ». Nous pouvons également mesurer le succès de la pièce à l'influence qu'elle a eue.
 
@@ -694,7 +694,7 @@ DOM JUAN, *bas, à Mathurine*. Pouvez-vous avoir cette pensée ? (II, 4, l.46-6
 Evidemment, Dom Juan fait preuve de beaucoup plus d'habileté que le pauvre Carlin, mais nous retrouvons chez d'Ouville et chez Molière la même situation comique et le même mouvement scénique [29].
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il n'existe qu'une seule édition de *La Dame suivante*, imprimée à Paris, en 1645 par Toussainct Quinet. Quatre exemplaires ont été conservés dans des bibliothèques publiques. À chaque fois, la pièce *La Dame suivante* fait partie d'un receuil factice. En voici les références :
 
@@ -721,7 +721,7 @@ Les deux exemplaires de la BNF et celui de la BM de Rouen sont identiques. L'exe
 1-168 : le texte de la pièce, précédé d'un rappel du titre en haut de la première page.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour établir le texte, nous avons suivi la leçon de cette unique édition. Nous avons respecté l'orthographe et la ponctuation originales. Nous avons cependant effectué quelques modifications d'usage qui en rendent la compréhension plus facile :
 
@@ -740,32 +740,32 @@ Pour établir le texte, nous avons suivi la leçon de cette unique édition. Nou
 Un astérisque⁎ à la fin d'un mot renvoie le lecteur au lexique, pour une définition du mot en usage au dix-septième siècle, dont la définition actuelle différerait.
 
 
-## Rectifications
+## Rectifications.
 
 Nous donnons ci-dessous la liste des erreurs et coquilles qui ont été corrigées dans le texte que nous proposons.
 
 
-### Acte I
+### Acte I.
 
 Vers 40 aumoins / 156 Jene / 199 faire :
 
 
-### Acte II
+### Acte II.
 
 vers 410 me gesne m'embarasse, / 447 estrange ? / 463 propices ? / 509 regardant / 528 Je l'aime / 598 fatisferez / 618 tu passe / 642 Excusez-là, / 754 plaisir ;
 
 
-### Acte III
+### Acte III.
 
 page 71 ( première didascalie ) masque. / 765 desseins ? / page 95 ( entre les vers 991 et 992 ) CARLIN. / 998 Amours ? / 1048 vueilliez / 1080 tu monstre / 1081 tu l'a dis,
 
 
-### Acte IV
+### Acte IV.
 
 vers 1150 je la suis / 1179 jusques à / 1243 outragée / 1245 où / page 125 (entre les vers 1352 et 1353) ADRATSE. / 1384 vo*9* / 1468 qu'il est ? / 1491 cet offence :
 
 
-### Acte V
+### Acte V.
 
 vers 1544 ceda / 1610 prins / 1611 exprez moy. / 1637 l'heure sans, doute, / 1771 en vous tesmoignant / 1774 vous oublier / page 161 (entre les vers 1781 et 1782) avec suitte Climante / 1814 Dieuz ! / 1846 Qui ferois-je, / 1857 Nais / 1881 qu'il soit, nuict
 
@@ -790,7 +790,7 @@ obeïssant serviteur,
 D'OUVILLE
 
 
-## LES ACTEURS,
+## LES ACTEURS,.
  – CLIMANTE,Cavalier Parisien, Amoureux de Leonor.
  – ADRASTE,Cavalier Parisien, Amy de Climante, & Amoureux d'Isabelle.
  – CARLIN,Valet bouffon de Climante, & Amoureux de Dorise.
@@ -869,7 +869,7 @@ Je vay faire pour vous des prieres aux Cieux. 
 CLIMANTE, CARLIN.
 
 
-    CLIMANTE *dans la ruë.*
+    CLIMANTE *dans la ruë.*.
 Je le quitte à regret. Le sort douteux des armes  
 Pour ce parfait amy me donne des alarmes.  
 Qui t'ameine Carlin ?  
@@ -953,7 +953,7 @@ Carlin sort.
 CLIMANTE, CARLIN.
 
 
-    CLIMANTE, *seul.*
+    CLIMANTE, *seul.*.
         O Dieux qu'elle a d'appas,  
 Ou le masque me trompe, ou cet objet⁎ aimable  
 Ne void rien dans Paris qui luy soit comparable ;  
@@ -1135,12 +1135,12 @@ Il l'en faut advertir ; Monsieur.
     CLIMANTE.
         Que me veux-tu ?  
 
-    CARLIN *bas à Climante.*
+    CARLIN *bas à Climante.*.
 Vous ne songez à rien : craignez-vous point le blâme  
 Qu'elle vous donneroit, en voyant cette femme  
 Que vous tenez chez vous ?  
 
-    CLIMANTE *bas à Carlin.*
+    CLIMANTE *bas à Carlin.*.
         J'ay les sens tous confus,  
 Je proteste⁎, Carlin, que je n'y songeois plus.  
 Quel remede à present ? comment pourray-je faire ?  
@@ -1149,7 +1149,7 @@ Quel remede à present ? comment pourray-je faire ?
 Vous ne pourriez jamais appaiser sa cholere,  
 Gardez-la d'y venir.  
 
-    CLIMANTE *bas à Carlin.*
+    CLIMANTE *bas à Carlin.*.
         C'est ce que je pretends.  
 
     LEONOR.
@@ -1273,7 +1273,7 @@ Dorise en sortant rencontre Climante.
 CLIMANTE, DORISE, ISABELLE.
 
 
-    CLIMANTE *dans la mesme chambre.*
+    CLIMANTE *dans la mesme chambre.*.
 Que fait vostre Maistresse ?  
 
     DORISE.
@@ -1291,7 +1291,7 @@ Elle parle à Isabelle par la porte du cabinet.
 
 Ce Cavalier, Madame, est ici qui desire [48]…  
 
-    ISABELLE *dedans, l'interrompant.*
+    ISABELLE *dedans, l'interrompant.*.
 Tai-toy, je sçais assez ce que tu me veux dire,  
 Je me masque, et je sors.  
 Elle sort masquée.
@@ -1374,7 +1374,7 @@ Isabelle entre dans le Cabinet qu'on s'imagine estre derriere le Theatre, et Cli
 ADRASTE, CLIMANTE.
 
 
-    ADRASTE *seul dans la mesme chambre.*
+    ADRASTE *seul dans la mesme chambre.*.
 Dieux que je suis surpris ! seroit-ce bien Dorise  
 Que j'ay veuë en entrant ? non, non, cela n'est pas :  
 Car quel Demon pourroit conduire ici ses pas ?  
@@ -1393,7 +1393,7 @@ J'en suis ravi, comment s'est terminé l'affaire ?
 Nous avons eu tous deux la Fortune prospere :  
 Entrons au cabinet.  
 
-    CLIMANTE *le repoussant.*
+    CLIMANTE *le repoussant.*.
     **N'entrez pas là.  
 
     ADRASTE.
@@ -1415,7 +1415,7 @@ Je vous diray que [52] c'est [53].
     ADRASTE.
         Dites tost je vous prie  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Il faut en ce besoin user de menterie⁎.  
 Haut.
 
@@ -1424,14 +1424,14 @@ Leonor est entrée en cet apartement,
 Qui d'autre que de moy ne veut point estre veuë :  
 Elle est preste à sortir.  
 
-    ADRASTE. 
+    ADRASTE.
         Je vay donc dans la ruë  
 Attendant qu'elle sorte.  
 
     CLIMANTE.
         Allez-y faire un tour.  
 
-    ADRASTE *bas.*
+    ADRASTE *bas.*.
 Courage, tout va bien, je te rends grace, Amour,  
 Que ce soit Leonor, et non pas Isabelle.  
 
@@ -1479,7 +1479,7 @@ Adraste, révez-vous ?
     LEONOR.
 Ah ! je m'en doutois bien, Adraste, on me trahit.  
 
-    ADRASTE *bas.*
+    ADRASTE *bas.*.
 Mais moi-mesme, ah l'ingrate ! ah Dieux l'ame infidelle !  
 Allons droit de ce pas au logis d'Isabelle ;  
 Haut.
@@ -1488,7 +1488,7 @@ Madame, je vous quitte ; ah ! j'en eusse juré.
 Adraste sort.
 
 
-    LEONOR *entre dans la chambre où elle trouve Carlin.*
+    LEONOR *entre dans la chambre où elle trouve Carlin.*.
 Que fait ton Maistre ?  
 
     CARLIN.
@@ -1497,13 +1497,13 @@ Que fait ton Maistre ?
     LEONOR.
 Ouvre, je le veux voir.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         La chose est sans remede.  
 Climante sort du cabinet.
 
 Tout est perdu, Monsieur :  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         **Dieux soyez à mon aide :  
 Haut.
 
@@ -1549,7 +1549,7 @@ Climante, je vous trouve interdit de tout point ;
 C'est pour ce seul sujet⁎ que j'en ay plus d'envie,  
 Je verray ce que c'est, ou je perdray la vie.  
 
-    CLIMANTE *la retenant.*
+    CLIMANTE *la retenant.*.
 Pour cause, n'entrez point.  
 
     LEONOR.
@@ -1558,7 +1558,7 @@ Bas.
 
 Sans doute on me trahit.  
 
-    DORISE *entre qui la prend pour sa Maistresse.*
+    DORISE *entre qui la prend pour sa Maistresse.*.
         **Le carosse est tout prest,  
 Madame on vous attend.  
 
@@ -1566,11 +1566,11 @@ Madame on vous attend.
         Ce message s'adresse  
 A d'autre [58].  
 
-    DORISE *surprise.*
+    DORISE *surprise.*.
         **Je pensois parler à ma Maistresse ;  
 Qu'est-elle devenuë ?  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         **Ah que je suis confus !  
 
     LEONOR.
@@ -1595,7 +1595,7 @@ Un Amy m'a tantost demandé ma maison
 Pour pouvoir librement parler à sa Maistresse :  
 Ils sont seuls là dedans.  
 
-    LEONOR *bas.*
+    LEONOR *bas.*.
         **Il ment avec adresse ;  
 Haut.
 
@@ -1605,7 +1605,7 @@ S'il est vray j'ay grand tort.
         Madame, asseurément  
 Il n'est rien de plus vray.  
 
-    ISABELLE *sort du cabinet masquée, et dit.*
+    ISABELLE *sort du cabinet masquée, et dit.*.
         **Je proteste⁎ qu'il ment,  
 Climante, à quel dessein une telle imposture ?  
 Et m'y faire servir de pretexte ?  
@@ -1644,7 +1644,7 @@ Parlez, je ne crains rien.
     LEONOR.
         Voyez un peu l'audace.  
 
-    ISABELLE *à Leonor.*
+    ISABELLE *à Leonor.*.
 Je m'en vay donc parler, escoutez-moy de grace,  
 Je vous dis franchement, si vous voulez sçavoir  
 Qui [60] m'emmeine⁎ en ce lieu : c'est luy, c'est pour l'y voir.  
@@ -1665,7 +1665,7 @@ Bas.
 Que leur confusion encor est redoublée :  
 Mais ils sont moins confus que je ne suis troublée.  
 
-    CLIMANTE *à Leonor.*
+    CLIMANTE *à Leonor.*.
 Madame, prenez garde aux sermens que je fais.  
 
     LEONOR.
@@ -1673,26 +1673,26 @@ Traistre, n'espere pas de me revoir jamais.
 Elle s'en veut aller, et Climante la retient.
 
 
-    ISABELLE *à Dorise.*
+    ISABELLE *à Dorise.*.
 Allons mamie, allons ;  
 
-    DORISE *bas à Isabelle.*
+    DORISE *bas à Isabelle.*.
         J'ay la clef de la porte,  
 La rendray-je ?  
 
-    ISABELLE *bas à Dorise.*
+    ISABELLE *bas à Dorise.*.
         **Non pas, ainsi que toy j'emporte  
 Celle du cabinet.  
 
-    LEONOR *à Climante.*
+    LEONOR *à Climante.*.
         **Va, tu n'es qu'un trompeur.  
 
-    ISABELLE *bas à Dorise.*
+    ISABELLE *bas à Dorise.*.
 Ce sont gages des lieux où je laisse mon cœur.  
 Isabelle et Dorise sortent.
 
 
-    CLIMANTE *à Leonor, la retenant.*
+    CLIMANTE *à Leonor, la retenant.*.
 Madame demeurez, escoutez-moy de grace.  
 
     LEONOR.
@@ -1826,7 +1826,7 @@ Recueillir aucun fruit de ma parfaite Amour [71].
 PAMPHILE, ISABELLE, LUCILLE.
 
 
-    PAMPHILE *à la ruë, à la porte de Leonor.*
+    PAMPHILE *à la ruë, à la porte de Leonor.*.
 Songez-y mieux, Madame, et que pensez-vous faire ?  
 
     ISABELLE.
@@ -2012,7 +2012,7 @@ Et dont la nouveauté je croy vous surprendra ;
 Je puis en vous servant aussi me satisfaire,  
 Le temps vous fera voir ce que je sçauray faire.  
 
-    LEONOR *bas.*
+    LEONOR *bas.*.
 Sa bonne humeur est propre à chasser mon ennuy.  
 Haut.
 
@@ -2021,7 +2021,7 @@ L'on se coiffe à la Cour ? te rendras-tu capable
 De me bien ajuster⁎, pour me rendre agreable  
 Aux yeux d'un Cavalier qui se dit mon Amant ?  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 (Pour te faire paroistre un monstre)  
 Haut.
 
@@ -2071,7 +2071,7 @@ Madame, je feray tout ce qu'il vous plaira,
 Dans le desir que j'ay de vous estre agreable,  
 Il faudra peu de temps à m'en rendre capable.  
 
-    LEONOR* bas en s'en allant.*
+    LEONOR* bas en s'en allant.*.
 Je r'entre, l'heur m'en veut [87], j'ay si bien rencontré⁎,  
 Que servante jamais ne fust plus à mon gré.  
 Haut.
@@ -2081,7 +2081,7 @@ Pren congé de ton Pere, et luy dy qu'il s'en aille.
 
 ### SCENE IV.
 
-    ISABELLE *seule.*
+    ISABELLE *seule.*.
 Dans la ruë avec Pamphile, à la porte de Leonor.
 
 Tu me vois à present dans le champ de bataille,  
@@ -2111,14 +2111,14 @@ CLIMANTE, CARLIN, ISABELLE, PAMPHILE
 dans la ruë, à la mesme porte de Leonor.
 
 
-    CLIMANTE *à Carlin.*
+    CLIMANTE *à Carlin.*.
         Je ne tarderay guere,  
 Atten moy.  
 
     CARLIN.
     Bien, Monsieur ;  
 
-    ISABELLE *retenant Climante qui veut entrer.*
+    ISABELLE *retenant Climante qui veut entrer.*.
         Que pretendez-vous faire ?  
 Bas.
 
@@ -2144,7 +2144,7 @@ O Dieux qu'elle a d'appas ! quel beau teint ! quels beaux yeux !
 LEONOR, ISABELLE, CLIMANTE, CARLIN, PAMPHILE dans la ruë à la mesme porte.
 
 
-    LEONOR *à Climante.*
+    LEONOR *à Climante.*.
 Excusez-la [89], Monsieur, elle est neuve en ces lieux,  
 Et l'oyant contester contre vous dans la ruë,  
 Je suis à vostre voix aussi-tost descenduë.  
@@ -2196,7 +2196,7 @@ Si tard que vous pensez.
     CLIMANTE.
     J'en suis content.  
 
-    LEONOR *à Isabelle.*
+    LEONOR *à Isabelle.*.
         Suy moy.  
 
     ISABELLE.
@@ -2215,7 +2215,7 @@ dans la ruë à la mesme porte.
 Ce visage n'est point un visage ordinaire,  
 Il me faut l'accoster. La belle, Dieu te gard.  
 
-    ISABELLE
+    ISABELLE.
 N'entres-tu pas aussi ?  
 
     CARLIN.
@@ -2236,7 +2236,7 @@ Mais ce que tu me dis est-il bien veritable ?
     CARLIN.
 Il n'est rien de plus vray.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
         Que je suis miserable !  
 Mais ce ne sera pas durant que je vivray :  
 Climante, asseurément je t'en empécheray.  
@@ -2268,7 +2268,7 @@ Mon cœur faisons comme eux, marions-nous ensemble,
 Je suis assez bien fait : mais dy moy que t'en semble ?  
 Me refuseras-tu ?  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
         La Fortune me rit ;  
 Dieux ! quelle invention me naist dedans l'esprit.  
 
@@ -2283,7 +2283,7 @@ Qui m'importe beaucoup.
     CARLIN.
         Tout ce que tu voudras.  
 
-    ISABELLE *bas à Pamphile.*
+    ISABELLE *bas à Pamphile.*.
 Pamphile, parle à moy [94], va-t'en droit de ce pas :  
 Mais la chose m'importe ; il faut en diligence⁎  
 Que tu trouves Dorise, ou je perds l'esperance  
@@ -2348,7 +2348,7 @@ Mais voyez l'inconstant comme il est interdit.
 N'es-tu pas amoureux d'une jeune servante  
 Qu'on appelle Dorise ?  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         Ah ! cela m'épouvente !  
 Sans doute elle est sorciere, elle ne pourroit pas  
 Le sçavoir autrement.  
@@ -2386,7 +2386,7 @@ On l'emmeine⁎, Madame.
     LEONOR.
         Allons puis qu'il vous plaist.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 Ils sont prests à partir, Dieux que je suis surprise,  
 Il les faut arrester : car sans doute, Dorise  
 N'aura pas eu le temps encor de s'habiller.  
@@ -2434,7 +2434,7 @@ Le disné sera prest si tost que vous viendrez.
 Climante s'en va.
 
 
-    ISABELLE *bas en r'entrant au logis.*
+    ISABELLE *bas en r'entrant au logis.*.
 Tout m'arrive à souhait, grands Dieux je vous conjure  
 De donner à Dorise une heureuse⁎ adventure [100].  
 Fin du second Acte. 
@@ -2447,7 +2447,7 @@ Fin du second Acte.
 DORISE, superbement vestuë avec sa coiffe et son masque [101], ADRASTE, ARISTE.
 
 
-    DORISE *seule, à la ruë à la porte de Climante.*
+    DORISE *seule, à la ruë à la porte de Climante.*.
 Pamphile m'a trouvée avec un grand hazard⁎,  
 Qui [102] m'a donné ces clefs ; Dieux viens-je point trop tard [103] !  
 Pourray-je executer l'ordre de ma Maistresse ?  
@@ -2489,7 +2489,7 @@ Je serois bien marry⁎ si je l'avois trouvé.
 LEONOR, ISABELLE, LUCILLE.
 
 
-    LEONOR *dans la ruë.*
+    LEONOR *dans la ruë.*.
 Climante, à vostre avis sera-t'il arrivé ?  
 Quand je suis un moment sans le voir, Dorotée,  
 Je suis d'inquietude et d'ennuis⁎ agitée :  
@@ -2525,7 +2525,7 @@ Et puis avecque luy vous serez miserable.
 Sans doute tu dis vray, mais je l'ayme, tay-toy,  
 Le voici, je l'entens.   
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
         Il est vray, je le voy,  
 L'agreable sujet du trouble de mon ame.  
 
@@ -2534,7 +2534,7 @@ L'agreable sujet du trouble de mon ame.
 CLIMANTE, LEONOR, ISABELLE, CARLIN, LUCILLE.
 
 
-    LEONOR *dans la ruë.*
+    LEONOR *dans la ruë.*.
 Vous avez bien tardé ?  
 
     CLIMANTE.
@@ -2554,7 +2554,7 @@ Et vous faites injure à vostre beauté mesme :
 Vous sçavez qu'elle peut tous les cœurs enflamer,  
 Et que qui la cognoit, ne peut ailleurs aimer.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 Helas ! si tu dis vray, je perds toute esperance.  
 
     LEONOR.
@@ -2629,19 +2629,19 @@ DORISE, CARLIN, CLIMANTE, LEONOR, LUCILLE.
         Je ne sçaurois comprendre  
 Pour quel sujet⁎, Climante, on me fait tant attendre ?  
 
-    CARLIN *troublé.*
+    CARLIN *troublé.*.
 Sommes-nous enchantez⁎ ? est-ce une illusion ?  
 
     DORISE.
 Mais pourquoy tant de monde en cette occasion ?  
 
-    CLIMANTE *estonné.*
+    CLIMANTE *estonné.*.
 Dieux ! parla-t'on jamais de telle effronterie [111] ?  
 
     LEONOR.
 Ah ! je m'en doutois bien.  
 
-    CLIMANTE *à Dorise.*
+    CLIMANTE *à Dorise.*.
         Madame, je vous prie,  
 Dites-moy le sujet⁎ qui vous emmeine⁎ ici ?  
 Que faites-vous ceans ? et me dites aussi  
@@ -2650,21 +2650,21 @@ Qui vous a peu chez moy tenir la porte ouverte ?
     LEONOR.
 Comme il fait l'estonné [112] ?  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
         Tout conspire à ma perte.  
 
     LEONOR.
 Il m'attend, il me traitte⁎, et ne peut un seul jour  
 Bannir l'infame objet⁎ d'un impudique Amour.   
 
-    DORISE *à Climante.*
+    DORISE *à Climante.*.
 Estes-vous si surpris que vous témoignez l'estre,  
 Climante ? et feignez-vous de ne me pas cognoistre ?  
 
     CLIMANTE.
 Qui moy ? je vous cognoy ?  
 
-    ISABELLE *à Leonor.*
+    ISABELLE *à Leonor.*.
         Que voy-je ! justes Dieux !  
 Madame, souffrez-vous cette injure à vos yeux ?  
 
@@ -2675,7 +2675,7 @@ C'est de moy seulement qu'enfin je me doy plaindre.
     ISABELLE.
 L'impudence est notable.  
 
-    CLIMANTE *à Dorise.*
+    CLIMANTE *à Dorise.*.
         Ah ! qu'est-ce que je vois ?  
 Ombre, Fantôme, Esprit, femme, ou qui que tu sois,  
 Par quel moyen as-tu cette porte charmée⁎ ?  
@@ -2684,7 +2684,7 @@ Et que faisois-tu là toute seule enfermée ?
     LEONOR.
 La question est belle, ah grands Dieux quel affront !  
 
-    ISABELLE *à Leonor.*
+    ISABELLE *à Leonor.*.
 Apres un tel mespris, peut-il avoir le front⁎  
 D'oser paroistre encor ? Madame, il en fait gloire,  
 Je le voy de mes yeux, et j'ay peine à le croire.  
@@ -2692,11 +2692,11 @@ Je le voy de mes yeux, et j'ay peine à le croire.
     CLIMANTE.
 J'atteste tous les Dieux.  
 
-    LEONOR *voulant sortir.*
+    LEONOR *voulant sortir.*.
         Si jamais je te voy,  
 Perfide, desloyal.  
 
-    CLIMANTE *la retenant.*
+    CLIMANTE *la retenant.*.
         Madame, escoutez-moy.  
 
     LEONOR.
@@ -2706,54 +2706,54 @@ Comme Climante tâche à [113] arrester Leonor.
 Isabelle fait signe à Dorise qu'elle s'en aille.
 
 
-    DORISE *dit bas.*
+    DORISE *dit bas.*.
 Fuyons, on m'en fait signe, on me voudroit cognoistre.  
 
-    CLIMANTE *à Leonor.*
+    CLIMANTE *à Leonor.*.
 Madame, voulez-vous me mettre au desespoir ?  
 Ecoutez mes raisons, et je vous feray voir  
 Avant que vous sortiez, quelle est mon innocence.  
 
-    LEONOR *à Climante.*
+    LEONOR *à Climante.*.
 Non, je n'écoute rien d'un traistre qui m'offence.  
 Durant cela, Carlin arreste Dorise dans la ruë courant apres elle, et apres luy avoir parlé à l'oreille.
 
 
-    CARLIN *à Dorise.*
+    CARLIN *à Dorise.*.
 Vous n'échaperez pas, la belle, c'est en vain,  
 Non, je vous veux cognoistre.  
 
-    DORISE *bas.*
+    DORISE *bas.*.
         Ah ! s'il a ce dessein  
 Il ruinera [114] tout.  
 
-    LEONOR *à Isabelle dans la ruë.*
+    LEONOR *à Isabelle dans la ruë.*.
         Vien, suy-moy, Dorotée.  
 
-    CLIMANTE *la retenant.*
+    CLIMANTE *la retenant.*.
 Madame, sans sujet⁎ vous estes irritée.  
 
-    DORISE *bas à la ruë.*
+    DORISE *bas à la ruë.*.
 Qu'importe, monstrons-nous.  
 
-    CLIMANTE* à Leonor.*
+    CLIMANTE* à Leonor.*.
         Ecoutez mes raisons  
 
-    CARLIN *à Dorise.*
+    CARLIN *à Dorise.*.
 Non, non, je vous veux voir.  
 
-    LEONOR *à Climante.*
+    LEONOR *à Climante.*.
         Va, va, tes trahisons  
 Ne paroissent que trop.  
 
-    DORISE *à Carlin levant son masque.*
+    DORISE *à Carlin levant son masque.*.
         C'est moy, c'est ta Dorise.  
 Qui te vien voir, Carlin.  
 
-    CARLIN *estonné.*
+    CARLIN *estonné.*.
         Ah Dieux ! quelle surprise.  
 
-    CLIMANTE *à Leonor la retenant.*
+    CLIMANTE *à Leonor la retenant.*.
 Madame, au nom des Dieux.  
 
     LEONOR.
@@ -2761,25 +2761,25 @@ Madame, au nom des Dieux.
 Va ne m'oblige pas à faire plus d'éclat⁎.  
 Laisse-moy je te prie.  
 
-    CARLIN *à Dorise en la ruë.*
+    CARLIN *à Dorise en la ruë.*.
         **Encor, de quelle sorte  
 Je te prie, as-tu peu sans clef ouvrir la porte ?  
 D'où te vient cet habit ?  
 
-    DORISE *à Carlin.*
+    DORISE *à Carlin.*.
         **J'ay haste⁎, en autre lieu  
 Je te conteray tout ; Ne me suy pas. Adieu.  
 Dorise sort.
 
 
-    CLIMANTE *à Leonor la retenant dans la chambre.*
+    CLIMANTE *à Leonor la retenant dans la chambre.*.
 Ecoutez-moy.  
 
-    CARLIN *bas en r'entrant dans la chambre.*
+    CARLIN *bas en r'entrant dans la chambre.*.
         **S'il faut que mon Maistre le sçache ;  
 Ah Dieu ! c'est fait de moy !  
 
-    LEONOR *à Climante.*
+    LEONOR *à Climante.*.
         **Serois-je pas bien lâche  
 D'arrester⁎ un moment apres ta trahison ?  
 
@@ -2793,17 +2793,17 @@ C'est temps perdu, Monsieur, elle s'est échapée.
     CLIMANTE.
 Pourquoy, traistre, pourquoy l'as-tu laissée aller ?  
 
-    ISABELLE *à Leonor.*
+    ISABELLE *à Leonor.*.
 Voyez, s'il est adroit à bien dissimuler,  
 Comme s'ils n'estoient pas tous deux d'intelligence⁎ [115]?  
 
-    CLIMANTE *à Isabelle.*
+    CLIMANTE *à Isabelle.*.
 La belle, vous prenez ici trop de licence.  
 A Carlin.
 
 Cours viste apres, Carlin, elle n'est pas bien loin.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 Je sçay fort bien qui c'est, il n'en est pas besoin.  
 
     LEONOR.
@@ -2813,7 +2813,7 @@ O l'esprit inventif ! ô la fourbe subtile !
     CLIMANTE.
 J'y veux aller moy-mesme.  
 
-    ISABELLE *l'arrestant.*
+    ISABELLE *l'arrestant.*.
         Où courez-vous si fort ?  
 Vous imaginez-vous qu'on creust vostre raport ?  
 Desirez-vous, Madame, en estre bien certaine ?  
@@ -2836,19 +2836,19 @@ Faites-moy ce plaisir, car j'en brusle d'envie.
 Elle sort.
 
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 S'il faut que l'on le sçache, ah c'est fait de ma vie.  
 
-    CLIMANTE *à Leonor.*
+    CLIMANTE *à Leonor.*.
 Elle prend grande part dedans vos interests.  
 
     LEONOR.
 Elle fait son devoir.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         Dieux ! elle court apres.  
 
-    CLIMANTE *retenant Leonor.*
+    CLIMANTE *retenant Leonor.*.
 Attendez pour le moins qu'elle soit revenuë,  
 L'innocence à vos yeux paroistra toute nuë.  
 
@@ -2860,7 +2860,7 @@ Adieu.
         Vous offencez une innocente Amour [116],  
 Le Ciel vous punira d'une rigueur si grande.  
 
-    LEONOR *en partant.*
+    LEONOR *en partant.*.
 Suy-moy, Lucille, allons puis que je le commande.  
 Ah ! je meurs de regret ! je brusle de courroux.  
 
@@ -2877,11 +2877,11 @@ Elles s'en vont.
 CLIMANTE, CARLIN.
 
 
-    CLIMANTE *dans sa chambre.*
+    CLIMANTE *dans sa chambre.*.
         O Dieux ! quelle surprise !  
 Que t'en semble, Carlin ?  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         Que c'estoit là Dorise ?  
 Il faut bien sur ce point m'empécher de parler.  
 
@@ -2921,7 +2921,7 @@ Sont d'accord pour troubler mes desseins, ce me semble.
 ISABELLE, CLIMANTE, CARLIN.
 
 
-    ISABELLE *dans la mesme chambre de Climante.*
+    ISABELLE *dans la mesme chambre de Climante.*.
 Ma Maistresse, Monsieur, est-elle encor ici ?  
 
     CLIMANTE.
@@ -2945,13 +2945,13 @@ Je croy qu'elle le doit sçavoir premierement.
 S'il ne tient qu'à cela, je te fais un serment  
 De n'en parler jamais : oblige⁎-moy de grace.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 Ah Dieux ! je suis perdu s'il faut qu'elle le fasse.  
 
-    CLIMANTE *luy donnant une bourse pleine.*
+    CLIMANTE *luy donnant une bourse pleine.*.
 Et pour l'amour de moy, tien, reçoy ce present.  
 
-    ISABELLE *bas la recevant.*
+    ISABELLE *bas la recevant.*.
 (Tout m'arrive à souhait.)  
 Haut.
 
@@ -2965,13 +2965,13 @@ Je ne celeray rien.
         Oüy, je te le promets,  
 Parle.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
     Ah ! je suis perdu.  
 
     CLIMANTE.
         Dy donc, depéche viste.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 Pour dix coups de baston j'en voudrois estre quitte.  
 
     ISABELLE.
@@ -3003,7 +3003,7 @@ Mais dy moy, l'as-tu veuë ?
         Oüy, de mes propres yeux,  
 Dequoy te mesles-tu ?  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         Je rends graces aux Dieux  
 Qui me donnent ici la force de me taire,  
 Où [123] la parole encor seroit si necessaire ;  
@@ -3051,7 +3051,7 @@ Ne doute point de moy, je te seray fidelle.
 Cette histoire, sans doute est estrange et nouvelle,  
 Amour de ce cahos vien dégager mes sens.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 Quels contes fabuleux sont-ce ici que j'entends ?  
 
     ISABELLE.
@@ -3207,7 +3207,7 @@ Fin du troisiesme Acte.
 CARLIN, DORISE, CLIMANTE.
 
 
-    DORISE *dans la ruë à la porte du logis de Climante.*
+    DORISE *dans la ruë à la porte du logis de Climante.*.
 Mais encore, Carlin, que veux-tu que je fasse ?  
 
     CARLIN.
@@ -3293,7 +3293,7 @@ Après m'avoir payée elle a repris l'habit,
 Et puis j'ay pris congé de ce parfait visage :  
 Je ne sçaurois, Monsieur, en dire davantage.   
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Sans doute Dorotée a dit la verité,  
 Tout est tel en effet qu'elle me l'a conté,  
 Desja plus qu'à demy mon ame est éclaircie :  
@@ -3312,7 +3312,7 @@ Qu'en moy l'on n'obligea⁎ jamais un cœur ingrat.
     DORISE.
 Monsieur, je vous rends grace.  
 
-    CLIMANTE *bas en r'entrant.*
+    CLIMANTE *bas en r'entrant.*.
         **Ah ! je bruslois en l'ame  
 Du desir de sçavoir quelle estoit cette Dame.  
 Il r'entre dans son cabinet.
@@ -3323,7 +3323,7 @@ Il r'entre dans son cabinet.
 CARLIN, DORISE.
 
 
-    CARLIN *dans la ruë devant la porte de Climante.*
+    CARLIN *dans la ruë devant la porte de Climante.*.
 Quoy, tu me trompois donc en me faisant sçavoir  
 Qu'en ce lieu tu venois tout exprez pour me voir ?  
 Je découvre, Dorise, à present ta finesse⁎,  
@@ -3364,29 +3364,29 @@ Ta bague, et tes escus ont beaucoup plus de force.
 ISABELLE, CARLIN, DORISE.
 
 
-    ISABELLE *dans la ruë.*
+    ISABELLE *dans la ruë.*.
 M'en doutoy-je pas bien, desloyal, imposteur,  
 Que tu me trahissois ?  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         **Ah Dieux ! je meurs de peur :  
 Si je me plains ici, c'est de trop de fortune,  
 Les voulant toutes deux je n'en auray pas une.  
 
-    DORISE *à Isabelle.*
+    DORISE *à Isabelle.*.
 Quoy ! l'empécherés-vous de suivre son desir  
 S'il me prefere à vous ?  
 
-    ISABELLE *à Dorise.*
+    ISABELLE *à Dorise.*.
         **Il sçait bien mieux choisir,  
 C'est bien effrontément parler en ma presence,  
 Vous l'emportez sur moy, mais c'est en impudence.  
 
-    DORISE *à Isabelle.*
+    DORISE *à Isabelle.*.
 Pensez-vous le gagner pour parler ainsi haut⁎ ?  
 Va, je te traitteray, volage, comme il faut.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 On me l'avoit bien dit, que j'avois bonne mine⁎ [146],  
 Tout le monde m'en veut.  
 A Dorise bas.
@@ -3394,20 +3394,20 @@ A Dorise bas.
         **Vien-ça [147], tai-toy badine⁎,  
 Va, je n'en veux qu'à toy, ne le vois-tu pas bien ?  
 
-    ISABELLE *à Carlin.*
+    ISABELLE *à Carlin.*.
 Vien-ça, que luy dis-tu ?  
 
     CARLIN.
         Moy, je ne luy dis rien.  
 
-    DORISE *à Carlin.*
+    DORISE *à Carlin.*.
 Or sus⁎ declare-toy, dis à qui tu veux estre,  
 Je veux sçavoir ici si tu n'es pas un traistre.   
 
-    ISABELLE *à Carlin.*
+    ISABELLE *à Carlin.*.
 Parle donc promptement.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         **J'ay les sens tout confus,  
 L'une est belle, il est vray, mais l'autre a des escus,  
 Je voudrois bien avoir toutes les deux ensemble.  
@@ -3415,16 +3415,16 @@ Je voudrois bien avoir toutes les deux ensemble.
     DORISE.
 Comment ? tu ne dis mot, parle donc, que t'en semble ?  
 
-    CARLIN *bas à Dorise.*
+    CARLIN *bas à Dorise.*.
 Dorise, vois-tu pas [148] que je n'en veux qu'à toy ?  
 
-    DORISE *à Isabelle.*
+    DORISE *à Isabelle.*.
 Ecoutez ce qu'il dit [149] ?  
 
     ISABELLE.
         Que dis-tu ? parle à [150] moy.  
 
-    CARLIN *bas à Isabelle.*
+    CARLIN *bas à Isabelle.*.
 Je dy que c'est à toy seule à qui [151] je veux plaire.  
 Bas
 
@@ -3437,7 +3437,7 @@ Où tu penses encor, tu t'en repentiras.
     ISABELLE.
 Je t'atraperay bien, je t'en donne parole.  
 
-    CARLIN *bas à Isabelle.*
+    CARLIN *bas à Isabelle.*.
 Va, laisse-la parler, ce n'est rien qu'une folle.  
 Climante paroist.
 
@@ -3445,10 +3445,10 @@ Climante paroist.
     DORISE.
 Adieu, ton Maistre vient.  
 
-    CARLIN *bas à Dorise.*
+    CARLIN *bas à Dorise.*.
         **Va, je n'aime que toy.  
 
-    DORISE *en s'en allant.*
+    DORISE *en s'en allant.*.
 Je ne souffriray pas qu'on se mocque de moy.   
 
 
@@ -3536,7 +3536,7 @@ Voyez ce qu'il vous plaist respondre là [159] dessus.
     CLIMANTE.
 Ah Dieux ! vit-on jamais un homme plus confus ?  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 Je l'ay sensiblement touché, mais il n'importe.  
 
     CLIMANTE.
@@ -3575,7 +3575,7 @@ Qui met, comme tu dis, tant d'Amans au tombeau,
 Celle que tu m'as peinte, et si riche, et si belle,  
 Et qui m'aime si fort.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
         Ah ! l'heureuse nouvelle [161] ?  
 Quelle aprehension, grands Dieux ! viens-je d'avoir ?  
 
@@ -3585,7 +3585,7 @@ Va tost, informe-toy du lieu de sa demeure :
 Car je veux, le sçachant, l'aller voir tout à l'heure ;  
 Ma fille, oblige⁎-moy.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
         Tout m'arrive à souhait,  
 Haut.
 
@@ -3597,7 +3597,7 @@ Il est vray toutefois, qu'à peu prez je le sçay.
     CLIMANTE.
 Dy-le donc, satisfais au desir que j'en ay.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 Est-il heur⁎ sous le Ciel qui mon bonheur égale ?  
 Haut.
 
@@ -3640,13 +3640,13 @@ Regardant Isabelle.
 
 Mais que voy-je ? en effet, révé-je, ou si je veille⁎ ?  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 Il m'a veuë, ah grands Dieux ! que doy-je devenir ?  
 
     CLIMANTE.
 D'où cet étonnement vous peut-il provenir ?  
 
-    ADRASTE *bas à Climante.*
+    ADRASTE *bas à Climante.*.
 Si je suis interdit, et si le teint me change [164],  
 Ne trouvez point, amy, cette surprise estrange,  
 Mon admiration⁎ est tres-juste.  
@@ -3654,18 +3654,18 @@ Mon admiration⁎ est tres-juste.
     CLIMANTE.
         Pourquoy ?  
 
-    ADRASTE *bas à Climante.*
+    ADRASTE *bas à Climante.*.
 Quel est ce beau visage ? amy, dites-le moy.  
 
     CLIMANTE.
 Faut-il tant s'étonner pour voir une Suivante  
 Qui sert chez ma Maistresse ?  
 
-    ADRASTE *bas à Climante.*
+    ADRASTE *bas à Climante.*.
         Est-il bien vray, Climante ?  
 Certes, je suis surpris d'une estrange façon.  
 
-    ISABELLE *bas.*
+    ISABELLE *bas.*.
 En me cachant deluy, j'accroistrois son soubçon,  
 Il vaut mieux dire adieu sans faire l'étonnée.  
 Haut.
@@ -3682,7 +3682,7 @@ N'en doute nullement.
         Donc sur ces esperances,  
 Parce qu'il se fait tard, je pren congé de vous.  
 
-    CARLIN *à Isabelle.*
+    CARLIN *à Isabelle.*.
 Veux-tu point, Dorotée, appaiser ton courroux ?  
 Me dis-tu point adieu ?  
 
@@ -3781,7 +3781,7 @@ A vous seul je me rends, quoy que fort estonné.
     CLIMANTE.
 Adraste, une autrefois⁎ soyez moins obstiné.  
 
-    ADRASTE. 
+    ADRASTE.
 Mais si vous allez voir cette belle Maistresse,  
 Qui de nouveau vous picque⁎, il faut que je vous [169] laisse,  
 l'Amour⁎, vous le sçavez, ne veut point de témoins.  
@@ -3866,7 +3866,7 @@ Contre cet inconstant qui m'a manqué de foy.
 ISABELLE, PAMPHILE, DORISE.
 
 
-    ISABELLE *dans la ruë.*
+    ISABELLE *dans la ruë.*.
 Leonor vient d'entrer. Toy, Pamphile, dy moy,  
 As-tu trouvé Lizene ? as-tu donné ma lettre ?  
 
@@ -3998,7 +3998,7 @@ Fin du quatriesme Acte.
 ADRASTE, CLIMANTE, CARLIN.
 
 
-    ADRASTE *dans la ruë.*
+    ADRASTE *dans la ruë.*.
 Le Ciel me favorise, et certes aujourd'huy  
 J'ay lieu de me loüer⁎ plus que jamais de luy  
 De vous trouver ici.  
@@ -4215,7 +4215,7 @@ Ciel, donnez-luy la force aussi bien que le cœur⁎.
 ISABELLE, DORISE.
 
 
-    ISABELLE *dans la ruë.*
+    ISABELLE *dans la ruë.*.
 Allons, ma sœur, allons. Au coin de cette ruë,  
 Quand tu ne seras plus de personne aperceuë,  
 Retourne à la maison.   
@@ -4320,16 +4320,16 @@ ISABELLE, CARLIN, CLIMANTE.
 Dans la ruë qui paroistra, si l'on veut, la Place Royale devant la porte de Lizene.
 
 
-    ISABELLE *superbement vestuë.*
+    ISABELLE *superbement vestuë.*.
 Vous ayant fait sçavoir, Monsieur, que je vous ayme,  
 Et que d'un autre objet⁎ mon cœur estoit jaloux,  
 Puis-je bien sans rougir paroistre devant vous ?  
 
-    CLIMANTE *surpris à Carlin bas.*
+    CLIMANTE *surpris à Carlin bas.*.
 De quelle illusion est mon ame enchanté⁎ ?  
 Cognois-tu ce visage ?  
 
-    CARLIN *bas à Climante.*
+    CARLIN *bas à Climante.*.
         Ah Dieux ! c'est Dorotée ?  
 C'est elle, mais, Monsieur, en different habit.  
 
@@ -4348,7 +4348,7 @@ Non, mais c'est à la voix que vous m'avez cognuë
 Vous m'avez peu parler seulement une fois  
 Qui fut hier au soir.   
 
-    CLIMANTE *à Carlin.*
+    CLIMANTE *à Carlin.*.
         Carlin, j'en jurerois.  
 
     ISABELLE.
@@ -4379,7 +4379,7 @@ Vous n'estes pas tout seul de cette opinion ;
 L'ayant veuë aujourd'huy par la ruë, il me semble  
 A moi-mesme qu'elle a quelque air qui me ressemble.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
 Si je ne l'estois pas, je serois bien duppé [197].  
 
     CLIMANTE.
@@ -4397,7 +4397,7 @@ Je feigny que j'estois d'un mary poursuivie,
 Qui vouloit en cholere attenter sur ma vie :  
 Mais je suis fille encor, je mentois à dessein.   
 
-    CARLIN *bas à Climante.*
+    CARLIN *bas à Climante.*.
 Elle mentit hier, et mentira demain,  
 Vous l'écoutez encor ?  
 
@@ -4427,7 +4427,7 @@ J'ay sceu depuis tantost qu'on l'appelloit ainsi,
 A qui [201] j'ay declaré mon amoureux martyre,  
 Afin de m'epargner la honte de le dire.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.*.
 Dorotée en effet m'a dit la verité.  
 
     ISABELLE.
@@ -4446,7 +4446,7 @@ L'heur⁎ de vous posseder en qualité d'espoux :
 Je me tiens glorieux, et renonce à tout autre  
 Si vous offrant ma main vous me donnez la vostre.   
 
-    ISABELLE *luy donnant la main.*
+    ISABELLE *luy donnant la main.*.
 Me voici, je l'avoüe, au bout de mes souhaits,  
 Mon cœur est trop content, pourveu que desormais  
 Leonor ne soit plus en pouvoir de me nuire.  
@@ -4461,7 +4461,7 @@ Allons-y, vous verrez quelque chose d'estrange,
 Adraste vous dira que vous gagnez au change.  
 Il me cognoist fort bien, allons-y de ce pas.  
 
-    CARLIN *bas à Climante.*
+    CARLIN *bas à Climante.*.
 Non, croyez-moy, Monsieur, et ne la croyez pas.  
 Voyez-vous pas [206] que c'est une fourbe inventée ?  
 
@@ -4507,7 +4507,7 @@ Ne me croyez-vous point ? en doutez-vous encor ?
 Allons sur ce sujet consulter Leonor.  
 Mais la voicy qui sort.  
 
-    ADRASTE* à Leonor.*
+    ADRASTE* à Leonor.*.
         Beauté plus que mortelle,  
 Je suis trop glorieux⁎ si ma fortune est telle  
 Que vostre oncle me dit, et beny l'heureux⁎ jour  
@@ -4552,7 +4552,7 @@ CLIMANTE, ADRASTE, LEONOR, ISABELLE superbement vestuë avec suitte CARLIN, TIMA
 Tous dans la ruë à la porte de Leonor.
 
 
-    CLIMANTE *à Leonor.*
+    CLIMANTE *à Leonor.*.
 Je viens pour prendre part à vos felicitez,  
 Et non pour rendre hommage encor à vos beautez :  
 Je sens dedans mon cœur une joye infinie,  
@@ -4562,27 +4562,27 @@ Montrant Isabelle qu'il tient par la main.
 Ce bel objet⁎ que rien ne sçauroit égaler,  
 Me peut, si je vous perds, aysément consoler.  
 
-    ADRASTE *bas, estonné.*
+    ADRASTE *bas, estonné.*.
 Que vois-je, justes Dieux ! que mon ame est ravie⁎ !   
 
-    LEONOR* à Climante* ;
+    LEONOR* à Climante* ;.
 Si vous considerez mon bonheur sans envie,  
 Sans aucun déplaisir je voy le vostre aussi.  
 
-    ADRASTE *bas à Leonor.*
+    ADRASTE *bas à Leonor.*.
 Madame, justes Dieux ! que veut dire cecy ?  
 Voyla cette beauté que je croyois absente.  
 
-    LEONOR *bas à Adraste.*
+    LEONOR *bas à Adraste.*.
 Adraste, taisez-vous, c'est ici ma Suivante,  
 Vous allez, sans mentir, bien passer vostre temps.  
 Oyez sans dire mot.  
 
-    ADRASTE *bas.*
+    ADRASTE *bas.*.
         Dieux ! qu'est-ce que j'entends ?  
 De quel trouble d'esprit est mon ame agitée ?  
 
-    CLIMANTE *à Leonor.*
+    CLIMANTE *à Leonor.*.
 Faites-moy, s'il vous plaist, appeler Dorotée.  
 
     LEONOR.
@@ -4591,7 +4591,7 @@ Que luy voulez-vous donc ?
     CLIMANTE.
         La voir tant seulement.   
 
-    LEONOR *à Adraste bas.*
+    LEONOR *à Adraste bas.*.
 Et bien, qu'en dites-vous ? c'est elle asseurément,  
 Il la tient par la main, et vient s'informer d'elle.  
 Haut à Climante.
@@ -4605,13 +4605,13 @@ Dorotée, allez tost me querir ma cassette
 Où sont tous mes escrits : (elle fait la muette)  
 Madame, approchez-vous.  
 
-    ISABELLE *gravement.*
+    ISABELLE *gravement.*.
         Parlez-vous donc à moy ?  
 
-    ADRASTE *bas.*
+    ADRASTE *bas.*.
 C'est elle asseurément, ah ! qu'est-ce que je voy ?  
 
-    LEONOR *à Isabelle.*
+    LEONOR *à Isabelle.*.
 C'est à toy que je parle, il n'est plus temps de feindre,  
 Ma fille, respons-moy, va, tu n'as rien à craindre.  
 A Climante.
@@ -4620,7 +4620,7 @@ Ah perfide ! ah volage ! indigne de pitié,
 Le Ciel me vange bien de ton peu d'amitié,  
 Tu quittes la Maistresse pour prendre la Suivante [213].   
 
-    CLIMANTE* regardant Isabelle.*
+    CLIMANTE* regardant Isabelle.*.
 Dieux [214] ! quelle trahison ?  
 
     ISABELLE.
@@ -4703,7 +4703,7 @@ Ce double mariage, il nous faut couronner
 Ce beau couple d'Amans d'une immortelle gloire,  
 Afin que nos Neveux⁎ en celebrent l'histoire.  
 
-    CARLIN *à Isabelle.*
+    CARLIN *à Isabelle.*.
 Tu me quittes cruelle, et je t'ayme si fort.  
 
     CLIMANTE.
@@ -4750,13 +4750,13 @@ Fin de la Comedie de la Dame Suivante.
 Les Exemplaires ont esté fournis.
 
 
-# LexiqueAccidentTrouble.V. 267Accord« Se dit figurément de l'union de deux personnes qui vivent ensemble. » (Fur.)V. 670 ; 1564AdmirableÉtonnant.V. 1348Admiration« Action par laquelle on regarde avec estonnement quelque chose de grand et de surprenant. » (Fur.) A le même sens que *surprise*.V. 1321Adviser« Se dit figurément des découvertes qui se font par les yeux de l'esprit aprés quelque méditation. Il s'est *advisé* d'une bonne invention. » (Fur.)V. 1645AjusterOrner, embellir, parer.V. 324 ; 580 ; 823Amour (faire l')« Se livrer à la galanterie. » (Ac.) « on dit qu'un jeune homme fait l'amour à une fille, quand il la recherche en mariage. » (Fur.)V. 669 ; 1385Apparence« Se dit aussi de ce qui est opposé à la réalité, qui n'est que faux, feint& simulé. » (Fur.)V. 1088Arrester« Signifie tarder, s'amuser, rester quelques temps dans un lieu sans en sortir. » (Ac.)V. 22 ; 893 ; 978AsseuranceConstance, fermeté.V. 139AucunementEn quelque façon, jusqu'à un certain point.V. 746Autrefois« Signifie aussi un autre temps : je ne puis faire cela maintenant, ce sera pour une autrefois. » (Fur.)V. 646 ; 1382Badin, ine« Qui est folastre, peu serieux, qui fait des plaisanteries. » (Fur.)V. 1200Briser« Se dit absolument, quand on veut interrompre ou faire taire quelqu'un qui dit des choses désagréables, ou qui peuvent faire naître quelque querelle. » (Fur.)V. 125 ; 1701Brutal« Celuy qui n'a pas plus d'esprit & de conduitte qu'une beste. » (Fur.)V. 45CaresserFlatter, cajoler.V. 972Chagrin« Quelques-uns derivent ce mot de *aigrir*, parce qu'il cause quelque aigreur ou amertume dans l'esprit. » (Fur.) A le même sens que *rancune.*V. 1226Change« On dit figurément qu'un homme a pris le change, qu'on luy a donné le change, quand on luy a fait quitter quelque bonne affaire pour en poursuivre une autre qui luy est moins avantageuse. » (Fur.)V. 1280*Donner le change à quelqu'un* signifie « Détourner adroitement quelqu'un du dessein, des vues qu'il peut avoir, en lui donnant lieu de croire une chose pour une autre. » (Ac.)V. 448CharmerA le sens d'*ensorceler, enchanter*.V. 863 ; 1344 ; 1357 ; 1751Chaude (à la) : adv.« D'une maniere prompte & violente. » (Fur.)V. 52Cœur« Signifie quelquefois, Vigueur, force, courage, intrépidité. » (Fur.)V. 1628 CognoistreReconnaître.V. 934ComplexionTempérament, « habitude, disposition naturelle du corps. » (Fur.)V. 1361Composer« Signifie encore en Morale, Régler ses moeurs, ses actions, ses paroles. » (Fur.)V. 1143Consulter« Signifie aussi, Etre irresolu, incertain quel party on doit choisir. » (Fur.). Équivaut à *hésiter*.V. 770 ; 1692Contraindre« Gesner, incommoder. » (Fur.)V. 7ConvaincreFaire apparaître manifestement comme coupable.V. 336Couler (se)« Signifie encore, Entrer en quelque maison, s'y glisser avec adresse. » (Fur.)V. 938Cy-devantAuparavant.V. 1532Deffier (se)« Avec le pronom personnel, signifie, N'estre pas assûré de quelque personne, ou de quelque chose. » (Fur.) Signifie *se méfier*.V. 85 ; 1342Delicat« Se dit encore en ce sens de ce qui est foible ou fragile, qui ne peut pas resister aux attaques des corps estrangers. » (Fur.)V. 1255Démentir« Reprocher à quelqu'un qu'il a menti, luy soûtenir injurieusement qu'il n'a pas dit vray. » (Fur.)V. 350 ; 358 ; 1102Demeure« Se dit, en termes de Jurisprudence, du Retard, du temps qui court au-delà du terme où l'on est tenu de payer ou de faire quelque autre chose. » (Ac.) *Sans demeure* signifie *sans retard*.V. 832DevantAuparavant.V. 258Avant.V. 1881Diligence (en)Rapidement, en vitesse.V. 699Diligenter (se)Se dépêcher.V. 704Divertir (se)« On dit qu'une femme se divertit lors qu'elle fait l'amour. » (Fur.)V. 30DresserPréparer, arranger, mettre en état. *Dresser le ménage* signifie *faire le ménage*.V. 565Éclat« Bruit, rumeur, scandale. » (Ac.)V. 886EmmenerAu sens de *amener*.V. 300 ; 362 ; 660 ; 734 ; 849 ; 1094Empescher« Signifie aussi Embarrasser, occuper. » (Fur.)V. 1212Enchanter« Charmer, ensorceler par des sons, par des paroles, par des figures, par des opérations magiques. » (Ac.)V. 302 ; 845 ; 1673EnnuiSouci, chagrin, tourment.V. 398 ; 784 ; 1219Entendre« Consentir à quelque proposition. » (Fur.)V. 1484Comprendre.V. 492 ; 707Équipage« Provision de tout ce qui est necessaire pour voyager, ou s'entretenir honorablement, soit de valets, soit de chevaux, carrosses, habits, armes, … » (Fur.)V. 1133Estonner (s')S'effrayer.V. 1259 ; 1453Estre en peineÊtre inquiet.V. 242 ; 659 ; 1287 ; 1582Fable« Signifie absolument Fausseté. » (Fur.) A le sens de *mensonge*.V. 1092 ; 1372Faux (à)Locution adverbiale, signifie *à tort, injustement*. (Ac.)V. 425Ferrer la mule : proverbe.« Se dit quand les valets ou les commissionnaires trompent sur le prix des marchandises, & les comptent plus qu'ils ne les ont achetées. » (Fur.)V. 88Finesse« Se dit aussi en mauvaise part, pour signifier, Ruse, adresse, artifice. » (Fur.)V. 1171Force : adv. Beaucoup, d'une manière abondante.V. 1133Nécessité, contrainte.V. 112Front« Impudence, temerité de soustenir en face à quelqu'un un mensonge, une calomnie. » (Fur.)V. 349 ; 353 ; 866GalanterieBonne grâce, agrément, cadeau, divertissement plein de goût.V. 572GenereuxCourageux.V. 622Glorieux« Se dit aussi d'un orgueuilleux, d'un homme qui a trop de vanité. » (Fur.)V. 1455 ; 1541 ; 1762Goutte*Ne voir goutte* signifie* ne pas voir clair*. (Ac.)V. 424Gruë (faire la)« On dit aussi, qu'un homme fait le pied de gruë, quand il est long-temps debout en quelque lieu, et particulièrement quand on le fait attendre parce qu'on dit que les gruës ont coûtume d'avoir un pied en l'air quand elles font sentinelle. » (Fur.)V. 1654Hanter« Estre souvent en la compagnie de quelqu'un, soit qu'on luy fasse des visites, soit qu'on reçoive les siennes. » (Fur.)V. 1136 ; 1694« Se dit aussi des lieux où on va ordinairement. » (Fur.)V. 1655Haste (avoir)Être pressé.V. 889Haut« Se dit aussi de tout ce qui a quelque degré d'excellence, d'eslevation en quelque chose que ce soit, tant en bonne qu'en mauvaise part. On dit qu'un homme est haut en paroles, lors qu'il parle impérieusement. » (Fur.)V. 1197HazardRisque.V. 1635.Peut aussi signifier chance.V. 761 ; 1177HazarderRisquer.V. 140 ; 1584HeurRencontre avantageuse, bonne fortune. Équivaut pour le sens à *bonheur*.V. 687 ; 826 ; 1303 ; 1553 ; 1736 ; 1776Heureux« Signifie aussi, Chanceux, à qui le hasard est favorable.» (Fur.)V. 760 ; 1508 ; 1763Histoire« Description, narration des choses comme elles sont, ou des actions comme elles se sont passées. » (Fur.) *Histoire* s'oppose à *fable*.V. 1372HumeurEn humeur de signifie résolu.V. 971IncontinentAdv. de temps, signifie *un instant*.V. 367 ; 369Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. » (Fur.)V. 1056Intelligence« Union, amitié entre deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun différent. » (Fur.)V. 415 ; 504Connivence. « Se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autruy. » (Fur.)V. 899LaisserNe pas laisser de signifie « Ne pas cesser, ne pas s'abstenir, ne pas discontinuer de. » (Ac.)V. 548Liberalité« Vertu de celuy qui sait donner quand il faut, & sans interests. Se dit aussi quelque fois de la chose donnée. » (Fur.)V. 1037LorsAlors.V. 433 ; 1442Loüer de (se)« Avec le pronom personnel, signifie, Estre satisfait. » (Fur.)V. 1500MaintenantTout à l'heure.V. 787Manquer« Signifie aussi, Faire quelque faute. » (Fur.) Équivaut à *se tromper*.V. 1583Marry« Repentant, fasché, qui a du regret d'avoir fait quelque chose. » (Fur.)V. 781Matoise« Rusée, difficile à estre trompée, adroite à tromper les autres. » (Fur.)V. 390Méconter (se)« Ne se dit qu'avec le pronom personnel, et signifie, Se tromper en ses conjectures, en son raisonnement, en ses actions. » (Fur.)V. 1590 MenerEmmener.V. 371 ; 1627Menterie« Propos par lequel on donne pour vrai ce qu'on sait estre faux. Il est plus familier que *mensonge* et s'applique à des choses moins graves. (Ac.)V. 288 Mine« Se dit du bon ou du mauvais accueuil qu'on fait à quelqu'un, du bon ou du mauvais visage qu'on luy tesmoigne. » (Fur.) *Avoir bonne mine* signifie donc *recevoir un bon acceuil*.V. 1199Neveu« Au pluriel, se dit de tous les hommes qui viendront aprés nous, de la posterité. » (Fur.)V. 1870Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour. » (Fur.)V. 71 ; 217 ; 854 ; 998 ; 1286 ; 1358 ; 1365 ; 1566 ; 1671 ; 1787 ; 1832 ; 1843Obliger« Faire quelque faveur, civilité, courtoisie » (Fur.)V. 258 ; 373 ; 477 ; 818 ; 955 ; 1037 ; 1162 ; 1166 ; 1297 ; 1353 ; 1461 ; 1544 ; 1556 ; 1772 ; 1774OfficeService que l'on rend à quelqu'un.V. 1146 ; 1163 ; 1407OmbrageAu sens figuré, signifie *deffiance, soupçon*.V. 443 ; 1236 ; 1717Ouvrage« Se dit absolument des objets auxquels les femmes travaillent à l'aiguille. » (Ac.)V. 568Paroistre« Signifie aussi, Se faire distinguer des autres, éclater davantage. » (Fur.)V. 820Passer outrePoursuivre son discours.V. 1007PasserSurpasser.V. 1730Picquer«  Se dit aussi des choses qui nous flattent, ou qui nous choquent. Cet amoureux est *piqué* et charmé d'une telle Dame. » (Fur.)V. 211 ; 1384 ; 1387.Signifie aussi *choquer*V. 1411 ; 1479Porter« Signifie encore, Estre disposé à faire quelque chose, soit par sa propre inclination, soit par l'instigation d'autruy. » (Fur.)V. 1068PrésentementA l'instant, tout à l'heure.V. 166Priser« Estimer, faire cas. » (Fur.)V. 789Produire« Signifie aussi, Avancer dans le monde, faire connoistre. » (Fur.)V. 607PropreBien orné, élégant, soigné, raffiné.V. 827Protester« Promettre, assûrer fortement quelque chose. » (Fur.)V. 182 ; 346 ; 983 ; 1529 ; 1690Qualité« Signifie aussi un titre qu'on donne aux personnes pour marquer leurs seigneuries, leurs prétentions. » (Fur.)V. 1017 ; 1242 ; 1728Ravir« Se dit aussi des passions violentes qui troublent agréablement l'esprit, et suspendent les fonctions des sens, particulierement de la joye, de l'estonnement et de l'admiration. » (Fur.) Équivaut pour le sens à *étonner*.V. 1789Regarder« Signifie aussi, Examiner, observer, considerer attentivement. » (Fur.)V. 1777Rencontrer« S'emploie absolument et signifie Etre bien ou mal servi par les événements dans quelque affaire. » (Ac.)V. 613ReputerEstimer. « Signifie aussi, Croire, presumer. » (Fur.)V. 1308Ressouvenir« Ce qui demeure en la mémoire. » (Fur.)V. 1859RetardementDélai, retard.V. 226 ; 244 ; 806Retiré« Un homme est bien retiré, lorsqu'il demeure chez luy clos & couvert, & qu'il ne veut voir ni frequenter personne. » (Fur.)V. 310Réverie« Action ou proposition desraisonnable, vision. » (Fur.) A le même sens que* mensonge*.V. 1340Riotte« Petite querelle ou difficulté qui arrive souvent dans le ménage, ou dans les sociétés. » (Fur.)V. 1525SeinPoitrine, cœur.V. 509Santé« Convenable disposition et tempérament des humeurs et des parties d'un corps animé, qui est cause qu'il fait bien ses fonctions. » (Fur.) Equivaut à *bonne santé*.V. 301Seconder« Il signifie Aider, favoriser, servir quelqu'un dans un travail, dans une affaire : *Seconder les vœux, les désirs, les bonnes intentions de quelqu'un*. » (Ac.)V. 1625 ; 1852SignaléRemarquable, célèbre.V. 236SouciSoin, préoccupation.V. 54 ; 1723SuccéderRéussir, avoir du succès.V. 708Sujet« Signifie aussi, Cause, occasion, raison. » (Fur.)V. 18 ; 36 ; 300 ; 327 ; 352 ; 408 ; 436 ; 441 ; 499 ; 844 ; 849 ; 880 ; 946 ; 975 ; 1085 ; 1182 ; 1279 ; 1370 ; 1417 ; 1610SuperbeHautain (en parlant du ton.)V. 1458Sus« On dit aussi par exclamation, Sus donc, Or sus, pour exciter quelqu'un à prendre du courage. » (Fur.)V. 712 ; 1203Tirer les vers du nez« Tirer adroitement un secret. » (Fur.)V. 1086Toilette« On dit proverbialement Plier la toilette, pour dire, Enlever ce qu'il y a de meubles, d'habits, de linge, de pierreries, qu'on laisse en voye dans une maison et sur la toilette, soit par un vol domestique, soit par la violence que font souvent les filoux aux Courtisanes. » (Fur.)V. 96Toûjours« Se dit quelquefois du temps present. » (Fur.) Signifie alors* du moins*.V. 1649Tout beau (ou Toubeau) : loc. adv. et fam.« Doucement, modérez-vous, retenez-vous » (Ac.)V. 471 ; 535Trait« Se dit aussi à table, de ce qu'on avale tout d'un coup en beuvant. » (Fur.)V. 1652Traitter« Agir avec quelqu'un, en user avec luy de telle ou telle manière. » (Fur.) Équivaut pour le sens à *considérer quelqu'un de telle ou telle manière*.V. 1272 ; 1505.« Signifie aussi, Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie. » (Fur.)V. 853Trancher (ou trencher)« Se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre plus qu'ils ne sont. Il *trenche* du grand Seigneur, pour dire, Il fait le grand Seigneur. » (Fur.)V. 1456Transport« Se dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passions. » (Fur.)V. 148 ; 155Traverser« Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement. » (Fur.)V. 1535VeillerS'abstenir de dormir.V. 99 ; 1316Venir« Signifie encore, Estre convenable. Cet habit vous *vient* à merveilles. » (Fur.)V. 1609Voir« Signifie aussi, Commander, ou avoir autorité sur quelque chose. » (Fur.)V. 1511.Signifie également *traitter, considérer* quelqu'un de telle ou telle manièreV. 534.Vuide (à) : adv.« Qui n'est pas plein. On dit qu'un homme marche *à vuide*, pour dire, qu'il n'a rien mangé. » (Fur.)V. 1653
+# Lexique.AccidentTrouble.V. 267Accord« Se dit figurément de l'union de deux personnes qui vivent ensemble. » (Fur.)V. 670 ; 1564AdmirableÉtonnant.V. 1348Admiration« Action par laquelle on regarde avec estonnement quelque chose de grand et de surprenant. » (Fur.) A le même sens que *surprise*.V. 1321Adviser« Se dit figurément des découvertes qui se font par les yeux de l'esprit aprés quelque méditation. Il s'est *advisé* d'une bonne invention. » (Fur.)V. 1645AjusterOrner, embellir, parer.V. 324 ; 580 ; 823Amour (faire l')« Se livrer à la galanterie. » (Ac.) « on dit qu'un jeune homme fait l'amour à une fille, quand il la recherche en mariage. » (Fur.)V. 669 ; 1385Apparence« Se dit aussi de ce qui est opposé à la réalité, qui n'est que faux, feint& simulé. » (Fur.)V. 1088Arrester« Signifie tarder, s'amuser, rester quelques temps dans un lieu sans en sortir. » (Ac.)V. 22 ; 893 ; 978AsseuranceConstance, fermeté.V. 139AucunementEn quelque façon, jusqu'à un certain point.V. 746Autrefois« Signifie aussi un autre temps : je ne puis faire cela maintenant, ce sera pour une autrefois. » (Fur.)V. 646 ; 1382Badin, ine« Qui est folastre, peu serieux, qui fait des plaisanteries. » (Fur.)V. 1200Briser« Se dit absolument, quand on veut interrompre ou faire taire quelqu'un qui dit des choses désagréables, ou qui peuvent faire naître quelque querelle. » (Fur.)V. 125 ; 1701Brutal« Celuy qui n'a pas plus d'esprit & de conduitte qu'une beste. » (Fur.)V. 45CaresserFlatter, cajoler.V. 972Chagrin« Quelques-uns derivent ce mot de *aigrir*, parce qu'il cause quelque aigreur ou amertume dans l'esprit. » (Fur.) A le même sens que *rancune.*V. 1226Change« On dit figurément qu'un homme a pris le change, qu'on luy a donné le change, quand on luy a fait quitter quelque bonne affaire pour en poursuivre une autre qui luy est moins avantageuse. » (Fur.)V. 1280*Donner le change à quelqu'un* signifie « Détourner adroitement quelqu'un du dessein, des vues qu'il peut avoir, en lui donnant lieu de croire une chose pour une autre. » (Ac.)V. 448CharmerA le sens d'*ensorceler, enchanter*.V. 863 ; 1344 ; 1357 ; 1751Chaude (à la) : adv.« D'une maniere prompte & violente. » (Fur.)V. 52Cœur« Signifie quelquefois, Vigueur, force, courage, intrépidité. » (Fur.)V. 1628 CognoistreReconnaître.V. 934ComplexionTempérament, « habitude, disposition naturelle du corps. » (Fur.)V. 1361Composer« Signifie encore en Morale, Régler ses moeurs, ses actions, ses paroles. » (Fur.)V. 1143Consulter« Signifie aussi, Etre irresolu, incertain quel party on doit choisir. » (Fur.). Équivaut à *hésiter*.V. 770 ; 1692Contraindre« Gesner, incommoder. » (Fur.)V. 7ConvaincreFaire apparaître manifestement comme coupable.V. 336Couler (se)« Signifie encore, Entrer en quelque maison, s'y glisser avec adresse. » (Fur.)V. 938Cy-devantAuparavant.V. 1532Deffier (se)« Avec le pronom personnel, signifie, N'estre pas assûré de quelque personne, ou de quelque chose. » (Fur.) Signifie *se méfier*.V. 85 ; 1342Delicat« Se dit encore en ce sens de ce qui est foible ou fragile, qui ne peut pas resister aux attaques des corps estrangers. » (Fur.)V. 1255Démentir« Reprocher à quelqu'un qu'il a menti, luy soûtenir injurieusement qu'il n'a pas dit vray. » (Fur.)V. 350 ; 358 ; 1102Demeure« Se dit, en termes de Jurisprudence, du Retard, du temps qui court au-delà du terme où l'on est tenu de payer ou de faire quelque autre chose. » (Ac.) *Sans demeure* signifie *sans retard*.V. 832DevantAuparavant.V. 258Avant.V. 1881Diligence (en)Rapidement, en vitesse.V. 699Diligenter (se)Se dépêcher.V. 704Divertir (se)« On dit qu'une femme se divertit lors qu'elle fait l'amour. » (Fur.)V. 30DresserPréparer, arranger, mettre en état. *Dresser le ménage* signifie *faire le ménage*.V. 565Éclat« Bruit, rumeur, scandale. » (Ac.)V. 886EmmenerAu sens de *amener*.V. 300 ; 362 ; 660 ; 734 ; 849 ; 1094Empescher« Signifie aussi Embarrasser, occuper. » (Fur.)V. 1212Enchanter« Charmer, ensorceler par des sons, par des paroles, par des figures, par des opérations magiques. » (Ac.)V. 302 ; 845 ; 1673EnnuiSouci, chagrin, tourment.V. 398 ; 784 ; 1219Entendre« Consentir à quelque proposition. » (Fur.)V. 1484Comprendre.V. 492 ; 707Équipage« Provision de tout ce qui est necessaire pour voyager, ou s'entretenir honorablement, soit de valets, soit de chevaux, carrosses, habits, armes, … » (Fur.)V. 1133Estonner (s')S'effrayer.V. 1259 ; 1453Estre en peineÊtre inquiet.V. 242 ; 659 ; 1287 ; 1582Fable« Signifie absolument Fausseté. » (Fur.) A le sens de *mensonge*.V. 1092 ; 1372Faux (à)Locution adverbiale, signifie *à tort, injustement*. (Ac.)V. 425Ferrer la mule : proverbe.« Se dit quand les valets ou les commissionnaires trompent sur le prix des marchandises, & les comptent plus qu'ils ne les ont achetées. » (Fur.)V. 88Finesse« Se dit aussi en mauvaise part, pour signifier, Ruse, adresse, artifice. » (Fur.)V. 1171Force : adv. Beaucoup, d'une manière abondante.V. 1133Nécessité, contrainte.V. 112Front« Impudence, temerité de soustenir en face à quelqu'un un mensonge, une calomnie. » (Fur.)V. 349 ; 353 ; 866GalanterieBonne grâce, agrément, cadeau, divertissement plein de goût.V. 572GenereuxCourageux.V. 622Glorieux« Se dit aussi d'un orgueuilleux, d'un homme qui a trop de vanité. » (Fur.)V. 1455 ; 1541 ; 1762Goutte*Ne voir goutte* signifie* ne pas voir clair*. (Ac.)V. 424Gruë (faire la)« On dit aussi, qu'un homme fait le pied de gruë, quand il est long-temps debout en quelque lieu, et particulièrement quand on le fait attendre parce qu'on dit que les gruës ont coûtume d'avoir un pied en l'air quand elles font sentinelle. » (Fur.)V. 1654Hanter« Estre souvent en la compagnie de quelqu'un, soit qu'on luy fasse des visites, soit qu'on reçoive les siennes. » (Fur.)V. 1136 ; 1694« Se dit aussi des lieux où on va ordinairement. » (Fur.)V. 1655Haste (avoir)Être pressé.V. 889Haut« Se dit aussi de tout ce qui a quelque degré d'excellence, d'eslevation en quelque chose que ce soit, tant en bonne qu'en mauvaise part. On dit qu'un homme est haut en paroles, lors qu'il parle impérieusement. » (Fur.)V. 1197HazardRisque.V. 1635.Peut aussi signifier chance.V. 761 ; 1177HazarderRisquer.V. 140 ; 1584HeurRencontre avantageuse, bonne fortune. Équivaut pour le sens à *bonheur*.V. 687 ; 826 ; 1303 ; 1553 ; 1736 ; 1776Heureux« Signifie aussi, Chanceux, à qui le hasard est favorable.» (Fur.)V. 760 ; 1508 ; 1763Histoire« Description, narration des choses comme elles sont, ou des actions comme elles se sont passées. » (Fur.) *Histoire* s'oppose à *fable*.V. 1372HumeurEn humeur de signifie résolu.V. 971IncontinentAdv. de temps, signifie *un instant*.V. 367 ; 369Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. » (Fur.)V. 1056Intelligence« Union, amitié entre deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun différent. » (Fur.)V. 415 ; 504Connivence. « Se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autruy. » (Fur.)V. 899LaisserNe pas laisser de signifie « Ne pas cesser, ne pas s'abstenir, ne pas discontinuer de. » (Ac.)V. 548Liberalité« Vertu de celuy qui sait donner quand il faut, & sans interests. Se dit aussi quelque fois de la chose donnée. » (Fur.)V. 1037LorsAlors.V. 433 ; 1442Loüer de (se)« Avec le pronom personnel, signifie, Estre satisfait. » (Fur.)V. 1500MaintenantTout à l'heure.V. 787Manquer« Signifie aussi, Faire quelque faute. » (Fur.) Équivaut à *se tromper*.V. 1583Marry« Repentant, fasché, qui a du regret d'avoir fait quelque chose. » (Fur.)V. 781Matoise« Rusée, difficile à estre trompée, adroite à tromper les autres. » (Fur.)V. 390Méconter (se)« Ne se dit qu'avec le pronom personnel, et signifie, Se tromper en ses conjectures, en son raisonnement, en ses actions. » (Fur.)V. 1590 MenerEmmener.V. 371 ; 1627Menterie« Propos par lequel on donne pour vrai ce qu'on sait estre faux. Il est plus familier que *mensonge* et s'applique à des choses moins graves. (Ac.)V. 288 Mine« Se dit du bon ou du mauvais accueuil qu'on fait à quelqu'un, du bon ou du mauvais visage qu'on luy tesmoigne. » (Fur.) *Avoir bonne mine* signifie donc *recevoir un bon acceuil*.V. 1199Neveu« Au pluriel, se dit de tous les hommes qui viendront aprés nous, de la posterité. » (Fur.)V. 1870Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour. » (Fur.)V. 71 ; 217 ; 854 ; 998 ; 1286 ; 1358 ; 1365 ; 1566 ; 1671 ; 1787 ; 1832 ; 1843Obliger« Faire quelque faveur, civilité, courtoisie » (Fur.)V. 258 ; 373 ; 477 ; 818 ; 955 ; 1037 ; 1162 ; 1166 ; 1297 ; 1353 ; 1461 ; 1544 ; 1556 ; 1772 ; 1774OfficeService que l'on rend à quelqu'un.V. 1146 ; 1163 ; 1407OmbrageAu sens figuré, signifie *deffiance, soupçon*.V. 443 ; 1236 ; 1717Ouvrage« Se dit absolument des objets auxquels les femmes travaillent à l'aiguille. » (Ac.)V. 568Paroistre« Signifie aussi, Se faire distinguer des autres, éclater davantage. » (Fur.)V. 820Passer outrePoursuivre son discours.V. 1007PasserSurpasser.V. 1730Picquer«  Se dit aussi des choses qui nous flattent, ou qui nous choquent. Cet amoureux est *piqué* et charmé d'une telle Dame. » (Fur.)V. 211 ; 1384 ; 1387.Signifie aussi *choquer*V. 1411 ; 1479Porter« Signifie encore, Estre disposé à faire quelque chose, soit par sa propre inclination, soit par l'instigation d'autruy. » (Fur.)V. 1068PrésentementA l'instant, tout à l'heure.V. 166Priser« Estimer, faire cas. » (Fur.)V. 789Produire« Signifie aussi, Avancer dans le monde, faire connoistre. » (Fur.)V. 607PropreBien orné, élégant, soigné, raffiné.V. 827Protester« Promettre, assûrer fortement quelque chose. » (Fur.)V. 182 ; 346 ; 983 ; 1529 ; 1690Qualité« Signifie aussi un titre qu'on donne aux personnes pour marquer leurs seigneuries, leurs prétentions. » (Fur.)V. 1017 ; 1242 ; 1728Ravir« Se dit aussi des passions violentes qui troublent agréablement l'esprit, et suspendent les fonctions des sens, particulierement de la joye, de l'estonnement et de l'admiration. » (Fur.) Équivaut pour le sens à *étonner*.V. 1789Regarder« Signifie aussi, Examiner, observer, considerer attentivement. » (Fur.)V. 1777Rencontrer« S'emploie absolument et signifie Etre bien ou mal servi par les événements dans quelque affaire. » (Ac.)V. 613ReputerEstimer. « Signifie aussi, Croire, presumer. » (Fur.)V. 1308Ressouvenir« Ce qui demeure en la mémoire. » (Fur.)V. 1859RetardementDélai, retard.V. 226 ; 244 ; 806Retiré« Un homme est bien retiré, lorsqu'il demeure chez luy clos & couvert, & qu'il ne veut voir ni frequenter personne. » (Fur.)V. 310Réverie« Action ou proposition desraisonnable, vision. » (Fur.) A le même sens que* mensonge*.V. 1340Riotte« Petite querelle ou difficulté qui arrive souvent dans le ménage, ou dans les sociétés. » (Fur.)V. 1525SeinPoitrine, cœur.V. 509Santé« Convenable disposition et tempérament des humeurs et des parties d'un corps animé, qui est cause qu'il fait bien ses fonctions. » (Fur.) Equivaut à *bonne santé*.V. 301Seconder« Il signifie Aider, favoriser, servir quelqu'un dans un travail, dans une affaire : *Seconder les vœux, les désirs, les bonnes intentions de quelqu'un*. » (Ac.)V. 1625 ; 1852SignaléRemarquable, célèbre.V. 236SouciSoin, préoccupation.V. 54 ; 1723SuccéderRéussir, avoir du succès.V. 708Sujet« Signifie aussi, Cause, occasion, raison. » (Fur.)V. 18 ; 36 ; 300 ; 327 ; 352 ; 408 ; 436 ; 441 ; 499 ; 844 ; 849 ; 880 ; 946 ; 975 ; 1085 ; 1182 ; 1279 ; 1370 ; 1417 ; 1610SuperbeHautain (en parlant du ton.)V. 1458Sus« On dit aussi par exclamation, Sus donc, Or sus, pour exciter quelqu'un à prendre du courage. » (Fur.)V. 712 ; 1203Tirer les vers du nez« Tirer adroitement un secret. » (Fur.)V. 1086Toilette« On dit proverbialement Plier la toilette, pour dire, Enlever ce qu'il y a de meubles, d'habits, de linge, de pierreries, qu'on laisse en voye dans une maison et sur la toilette, soit par un vol domestique, soit par la violence que font souvent les filoux aux Courtisanes. » (Fur.)V. 96Toûjours« Se dit quelquefois du temps present. » (Fur.) Signifie alors* du moins*.V. 1649Tout beau (ou Toubeau) : loc. adv. et fam.« Doucement, modérez-vous, retenez-vous » (Ac.)V. 471 ; 535Trait« Se dit aussi à table, de ce qu'on avale tout d'un coup en beuvant. » (Fur.)V. 1652Traitter« Agir avec quelqu'un, en user avec luy de telle ou telle manière. » (Fur.) Équivaut pour le sens à *considérer quelqu'un de telle ou telle manière*.V. 1272 ; 1505.« Signifie aussi, Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie. » (Fur.)V. 853Trancher (ou trencher)« Se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre plus qu'ils ne sont. Il *trenche* du grand Seigneur, pour dire, Il fait le grand Seigneur. » (Fur.)V. 1456Transport« Se dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passions. » (Fur.)V. 148 ; 155Traverser« Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement. » (Fur.)V. 1535VeillerS'abstenir de dormir.V. 99 ; 1316Venir« Signifie encore, Estre convenable. Cet habit vous *vient* à merveilles. » (Fur.)V. 1609Voir« Signifie aussi, Commander, ou avoir autorité sur quelque chose. » (Fur.)V. 1511.Signifie également *traitter, considérer* quelqu'un de telle ou telle manièreV. 534.Vuide (à) : adv.« Qui n'est pas plein. On dit qu'un homme marche *à vuide*, pour dire, qu'il n'a rien mangé. » (Fur.)V. 1653
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sur la comédie au dix-septième siècleHistoire de la littérature française au dix-septième siècle
+## Sur la comédie au dix-septième siècle.Histoire de la littérature française au dix-septième siècle
 Littérature françaiseL'Âge classique, 1624-1660
 Lire la comédie
 La Comédie avant Molière, 1640-1660
@@ -4768,18 +4768,18 @@ La Dramaturgie classique
 
 
 
-## Sur d'OuvilleRomance Notes
+## Sur d'Ouville.Romance Notes
 Dissertations abstracts
 Historiettes
 
 
 
-## Sur les décorsLe Théâtre de l'Hôtel de Bourgogne, 1548-1680
+## Sur les décors.Le Théâtre de l'Hôtel de Bourgogne, 1548-1680
 Laurent et autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-## Sur la comédie espagnoleLa Doncella de laborBiblioteca de Autores Españoles
+## Sur la comédie espagnole.La Doncella de laborBiblioteca de Autores Españoles
 Dix-septième siècle
 Le Masque et le visage. Du baroque espagnol au classicisme français
 comediaL'Âge d'or de l'influence espagnole. La France et l'Espagne à l'époque d'Anne d'Autriche, 1615-1666*e**e*
@@ -4787,7 +4787,7 @@ Deux siècles de relations hispano-françaises : de Commynes à Madame d'Aulnoy
 
 
 
-## Sur les influences de la pièceLa Place royale
+## Sur les influences de la pièce.La Place royale
 Dom Juan ou le festin de Pierre
 Les Précieuses ridicules
 L'Héritier ridicule ou La Dame intéressée
@@ -4796,7 +4796,7 @@ Revue d'histoire littéraire de la France
 
 
 
-## Sur la langueDictionnaire de L'Académie françoise
+## Sur la langue.Dictionnaire de L'Académie françoise
 Dictionnaire universel
 Syntaxe française du dix-septième siècle
 Introduction à la langue du dix-septième siècle

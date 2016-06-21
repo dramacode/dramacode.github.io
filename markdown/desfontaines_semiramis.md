@@ -16,7 +16,7 @@ A PARIS, Chez PIERRE LAMY, en la grande Salle du Palais, au second Pillier. M. D
 
 
 
-# Introduction générale
+# Introduction générale.
 
 *La Véritable Sémiramis* est la dernière pièce de Desfontaines, un des auteurs dits mineurs du XVII*e* siècle. Cet auteur-acteur a certainement connu une petite notoriété à son époque mais les jugements de goût des premiers historiens du théâtre du XVIII*e* siècle qui ont sévèrement commenté ses œuvres ne lui ont pas permis de passer à la postérité. Son œuvre nous reste donc en grande partie inconnue.
 
@@ -28,17 +28,17 @@ La pièce de Gilbert est, de loin, la meilleure des deux. … Desfontaines a ét
 Dans cette édition critique, nous essaierons donc de voir quelle est la valeur de *La Véritable Sémiramis* et de l'écriture de Desfontaines, auteur-acteur peu estimé de la postérité, qui a écrit sa tragédie en s'inspirant du roman *La Prazimène* de Le Maire dont il tire son intrigue principale. Entre concurrence dramatique et reprises textuelles du roman source, *La Véritable Sémiramis* est une œuvre aux inspirations multiples qui dresse le portait d'une reine tyrannique, prête à tuer un innocent pour conquérir celui qu'elle aime, avant d'apprendre qu'il s'agit en fait de son fils qu'elle pensait avoir perdu, et donc de souhaiter mourir.
 
 
-# L'auteur-acteur nommé Desfontaines
+# L'auteur-acteur nommé Desfontaines.
 
 
-## Un nom incertain
+## Un nom incertain.
 
 Le nom de Desfontaines constitue la première énigme de ce personnage. En effet, nous retrouvons parfois sa trace sous le nom de Nicolas Mary, Desfontaines serait alors un pseudonyme qui correspondrait bien aux noms de scène que les comédiens se donnaient à cette époque. Mais dans les actes de l'Illustre Théâtre, le notaire le nomme « Nicolas Desfontaines » laissant ainsi planer le doute sur sa véritable identité. Son prénom apparaît aussi sous diverses formes. Selon Lancaster, il s'agirait de « Nicolas-Marc [2] » mais nous rencontrons aussi d'autres variantes comme « Nicolas Marin [3] » par exemple. Nous privilégierons l'hypothèse d'Alain Howe selon laquelle « Desfontaines fût son nom de guerre et Marie correspondît (avec une légère divergence de graphie) à son nom de famille [4] ». Dans les actes du *Minutier Central*, le comédien se nomme ainsi « Nicolas Mary, sieur Des Fontaines ».
 
 Cette incertitude à propos de son nom mène à douter de l'unité de la vie de Desfontaines. En effet, il s'agit de savoir si c'est bien le même homme qui a été avocat au Parlement puis comédien tout en écrivant des œuvres dramatiques et poétiques ainsi que des romans. Les recherches d'Alan Howe ainsi que celle de Simone de Ryeff et Claude Bourqui nous permettent de faire coïncider ces trois aspects de sa carrière.
 
 
-## Étudiant en droit puis avocat au Parlement
+## Étudiant en droit puis avocat au Parlement.
 
 Nous n'avons trouvé aucune mention de la date de naissance de Desfontaines mais Alan Howe la situe vers 1610. En effet, un acte d'obligation du 23 mars 1627 le définit comme « écolier, étudiant en l'université [5] ». Le jeune homme vivait alors rue Saint-Martin à Paris dans la paroisse Saint-Laurent tout comme son frère, Jean Mary qui était compagnon cordonnier. L'étudiant devient ensuite « avocat au parlement » comme le prouve des actes notariés du *Minutier central* concernant des baux de maison en 1636. Desfontaines appartient donc au « groupe important de dramaturges du XVII*e* siècle, formés à la robe [6] ». Un acte de la même année nous apprend également son mariage avec Antoinette de Maudinier et leur installation rue de l'Arbre-Sec [7]. Alan Howe relève ainsi que :
 
@@ -46,7 +46,7 @@ Nous n'avons trouvé aucune mention de la date de naissance de Desfontaines mais
 Le couple habitait … près du pavillon des Singes, maison natale de Molière, aux côtés duquel Desfontaines devait jouer à Paris en 1644-1645, et auquel il aurait pu servir de modèle en renonçant à une carrière au barreau pour se faire comédien et en mettant sa plume au service de la troupe [8].
 
 
-## Desfontaines auteur
+## Desfontaines auteur.
 
 Desfontaines semble avoir commencé sa carrière d'écrivain avec l'écriture du sonnet liminaire au *Passions égarées*, tragi-comédie de Richemont Branchereau, en 1632. Puis il écrivit autant des œuvres romanesques et poétiques que théâtrales. On peut ainsi relever l'écriture d'un roman, *Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles*, en 1636. Sa carrière d'écrivain dramatique commença en 1637 avec *Eurimédon ou l'Illustre Pirate*. Il a ensuite continué de produire des pièces à un rythme régulier, à raison d'une pièce par an environ. *Orphise ou la Beauté persécutée* fut ainsi publiée en 1638 tout comme *La Véritable Suite du Cid*.
 
@@ -55,7 +55,7 @@ L'année suivante, Desfontaines publia *Hermogène* ainsi qu'un roman,* L'Incest
 La production littéraire de Desfontaines fut donc variée. Nous pouvons néanmoins noter qu'il écrivit surtout des pièces de théâtre qui, malgré les nombreuses critiques formulées au XVIII*e* siècle concernant leur forme et leur style, ont néanmoins dû remporter un certain succès. Dans les *Anecdotes dramatiques*, Clément et Laporte font ainsi ce commentaire à son sujet : « Desfontaines n'avoit reçu de la Nature ni goût, ni talent pour le Théâtre ; cependant toutes ses pièces ont eu des succès marqués [16]. » Ce commentaire n'est certes pas élogieux pour Desfontaines, puisque selon eux l'auteur n'aurait pas eu de réels talents pour l'écriture dramatique, mais il esquisse une possible notoriété de Desfontaines. Cette hypothèse est renforcée par les nombreuses rééditions de certaines de ses œuvres, comme ses tragédies hagiographiques. *Le Martyre de Saint-Eustache* connut ainsi sept éditions tandis que *L'Illustre Olympie ou le Saint Alexis* en présente quatorze de 1648 à 1735. Enfin, *L'Illustre comédien ou le Martyre de Saint-Genest* en connut seulement trois dont une nouvelle dès 1646 [17].
 
 
-## Acteur et directeur de troupe
+## Acteur et directeur de troupe.
 
 Desfontaines fut un auteur-acteur, il a donc mené en même temps ces deux carrières. Nous trouvons la première trace de son engagement dans une troupe en février 1640, soit huit ans après la publication de son premier ouvrage, il fut ainsi membre de la troupe de Charles Dufresne à Lyon. Nous avons la confirmation de sa présence dans la même troupe à Lyon en 1643 car il signa le 3 février en tant que témoin pour un mariage :
 
@@ -72,7 +72,7 @@ Desfontaines jouait donc à cette époque au jeu de paume du Petit Couvert et il
 La carrière d'acteur de Desfontaines prit ensuite une autre dimension car il créa sa propre troupe en 1649, comme l'atteste Mongrédien et Robert [22], elle était constituée d'Etienne Munier et sa femme, Charles Perredoulz et sa femme, François de la Motte, Pierre Michel dit Belleforest et Nicolas Lion dit Beaupré. Ils affirment également que la troupe joua en novembre et décembre à Toulouse, à Nantes le 16 août 1650 ainsi que le 25 avril 1651. Un acte de baptême signé par Desfontaines en tant que parrain à Carcassonne le 21 décembre 1649 [23] laisse supposer que la troupe y a aussi donné des représentations.
 
 
-## Mort et postérité
+## Mort et postérité.
 
 Desfontaines mourut à Angers le 4 février 1652 et il y fut inhumé le 7 [24]. Sa troupe ne lui survécut pas. Nous ne disposons donc que de peu de documents sur la vie de cet auteur-acteur, il a néanmoins souvent été assimilé au poète Roquebrune du *Roman comique* de Scarron. Henri Chardon fait ainsi cette hypothèse [25] qui sera reprise par. Antoine Adam qui confirme cette assimilation : « Si l'on tient à mettre un nom sur Roquebrune, on se laissera persuader par les arguments d'H. Chardon qu'il représente Nicolas Desfontaines, acteur et auteur connu [26] ». La description du *Roman comique* est peu flatteuse :
 
@@ -84,15 +84,15 @@ Néanmoins, cette assimilation est contestable et nous paraît erronée. En effe
 Cette assimilation de Desfontaines au poète Roquebrune est donc erronée. Henri Chardon a certainement voulu associer un auteur-acteur au parcours atypique et ayant fréquenté plusieurs troupes au poète du *Roman comique* de Scarron, mais les arguments qu'il avance nous semblent peu pertinents face aux grandes dissemblances entre la vie de ces deux auteurs.
 
 
-# Création et Réception de La Véritable Sémiramis
+# Création et Réception de La Véritable Sémiramis.
 
 
-## La date de création de la pièce
+## La date de création de la pièce.
 
 La création de *La Véritable Sémiramis* a eu lieu pendant la saison théâtrale de 1646-1647. Nous ne disposons d'aucun élément certain permettant d'en établir la date plus précisément. Lancaster lui-même ne propose aucune date précise mais il établit néanmoins l'antériorité de la représentation de la *Sémiramis* de Gilbert créée en 1646 [28]. Ainsi, l'acte notarié du *Minutier central* du 18 décembre 1646, que nous avons déjà évoqué précédemment, montre qu'à cette date, la pièce de Desfontaines était sur le point d'être créée ou l'avait même déjà été, puisque l'obtention du privilège est espérée avant la fête des rois de 1647. Cette information signifie donc que la pièce avait été jouée avant car une fois la pièce publiée, la troupe perdait l'exclusivité de sa représentation. Cet acte notarié du *Minutier central* contient également une autre preuve qui renforce cette hypothèse. En effet, le 18 décembre 1646, Desfontaines est l'objet d'une saisie pour ne pas avoir remboursé sa dette de 400 francs au libraire Besongne, il doit ainsi lui rembourser la moitié de la somme en lui permettant de publier sa pièce. Cette publication doit donc avoir lieu assez rapidement et nous pouvons supposer que les représentations avaient alors déjà commencé. Néanmoins, il nous faut noter que le privilège ne sera accordé que le 11 mai, ce qui peut signifier que les représentations n'ont finalement débuté qu'au début de l'année 1647. Ainsi, il nous est impossible de statuer avec certitude sur la date de la création de *La Véritable Sémiramis*.
 
 
-## Le lieu de représentation
+## Le lieu de représentation.
 
 De plus, le doute subsiste également sur le lieu de représentation de cette pièce. Il s'agit de savoir si elle a été jouée pour la première fois à l'Hôtel de Bourgogne ou au Théâtre du Marais. Ainsi, nous trouvons deux occurrences de pièces nommées « Cemiramis », dans la liste des pièces du *Mémoire de Mahelot* [29] qui répertorie les œuvres du répertoire de l'Hôtel de Bourgogne. La première est celle de Gilbert, comme l'indique une note dans la marge, tandis que la deuxième est « probablement » celle de Desfontaines pour Pasquier. En outre, la première est précédée d'une croix mais pas la seconde. Néanmoins, étant donné que nous ne savons pas précisément ce que ces croix signifient, nous ne pouvons faire à leur sujet que des hypothèses. Pour Lancaster, ces croix « ont été ajoutées plus tard, probablement pour indiquer les pièces qui pouvaient se jouer en ce temps-là [30] ». Mais il ne cite aucune source qui nous permettrait de valider cette hypothèse qui est néanmoins reprise par Pasquier dans sa propre édition du *Mémoire de Mahelot* [31]. Cette double inscription d'un même nom de pièce pourrait aussi, par exemple, être une erreur qui n'aurait pas été corrigée. Il est donc difficile de savoir où *La Véritable Sémiramis* a été créée, Lancaster montre lui aussi son incapacité à trancher en se limitant à des suppositions :
 
@@ -104,14 +104,14 @@ L'hypothèse de la création de *La Véritable Sémiramis* au théâtre du Marai
 Néanmoins, si *La Véritable Sémiramis* n'a sûrement pas été créée à l'Hôtel de Bourgogne, elle y a bien été représentée. En effet, les pièces tombent dans le domaine public dès leur parution, une troupe peut alors reprendre une pièce créée dans un autre théâtre. Néanmoins, cette pratique concernait surtout les troupes de province qui venaient chercher à Paris de nouvelles œuvres pour leur répertoire. Tandis « qu'il était d'usage à Paris, à quelques exceptions près, d'accorder le droit absolu de donner des reprises de toute œuvre, même après sa publication, à la troupe qui avait acheté la pièce inédite. [34] ». Or, en 1647, Bellerose est le chef de la Troupe Royale et il souhaite que l'Hôtel de Bourgogne domine la vie théâtrale parisienne, ce qui suppose donc de limiter le rayonnement de son principal concurrent, le Théâtre du Marais. Il obtient ainsi du roi que Floridor, le chef de file de la troupe concurrente, et Corneille, leur auteur dévoué, rejoignent l'Hôtel de Bourgogne pour la saison théâtrale de 1647-1648. En outre, il aurait repris dix-neuf pièces créées par le théâtre du Marais entre 1642 et 1647 dont *La Véritable Sémiramis* [35]. Néanmoins, il faut prendre ces affirmations avec précaution. En effet, le privilège de la pièce date du 11 mai 1647 et les théâtres fermant à Pâques, elle ferait donc partie de la programmation de la saison 1647-1648 de l'Hôtel de Bourgogne. Etant donné que la liste du *Mémoire de Mahelot* correspond, selon Lancaster [36], au répertoire de la saison 1646-1647 et qu'elle « fût finie vers le milieu de l'année 1647 [37] », les comédiens, apprenant la publication à venir de *La Véritable Sémiramis*, auraient estimé « licite de l'inscrire à leur répertoire, dans l'intention de la programmer pour la saison suivante, alors même qu'elle était encore, légalement, la propriété de ses créateurs du Marais. [38] ». Sandrine Blondet suppose ainsi que Floridor aurait pu arriver pour la saison 1647-1648 en voulant reprendre *La Véritable Sémiramis* dans son nouveau théâtre.
 
 
-## Le décor de la tragédie
+## Le décor de la tragédie.
 
 Étant donné que nous ne pouvons établir dans quel théâtre fut créée *La Véritable Sémiramis*, nous dresserons un tableau général de la représentation des tragédies dans la première moitié du XVII*e* siècle. Tout d'abord, il est intéressant de noter que les deux principaux théâtres parisiens entreprennent des travaux de rénovation de leur salle, en 1644 pour le théâtre du Marais et en 1647 pour l'Hôtel de Bourgogne. Le théâtre de la rue Vieille-du-Temple est ainsi détruit par un incendie le 15 janvier 1644 et il est donc rénové. Cet aménagement a servi de modèle pour la restauration de l'Hôtel de Bourgogne en 1647. La représentation de *La Véritable Sémiramis* a donc lieu dans une période de renouveau pour les théâtres parisiens qui agrandissent leur scène en souhaitant notamment y produire des pièces à machines. La pièce de Desfontaines contient ainsi une scène assez spectaculaire, celle du sacre de Sémiramis, qui pouvait magnifier les nouvelles dimensions de l'espace de jeu.
 
 Le décor des pièces de théâtre au XVII*e* est constitué de toiles peintes avec une perspective unifiée à l'italienne. À la fin de la première moitié du XVII*e*, la règle des trois unités commence à se mettre en place notamment avec l'unité de lieu que les auteurs contournaient encore souvent, mettant ainsi à mal la vraisemblance, et qui sera ensuite théorisée par l'Abbé d'Aubignac dans *La Pratique du Théâtre* en 1657. *La Véritable Sémiramis* répond ainsi à cette règle car l'action se situe « dans une salle du palais royal, à Babylone ». Desfontaines place donc sa pièce dans un décor unique qui sera celui du « palais à volonté » utilisé à cette époque pour les tragédies. Ainsi, le décor multiple « à compartiments » cède progressivement la place à un décor unique. Le « palais à volonté » est « une façade de palais, à l'identité historique et architecturale peu accentuée, devant laquelle se représentera la totalité de l'action de la pièce. [39] ». *La Véritable Sémiramis*, avec son unité de lieu, s'inscrit donc bien dans ce changement scénographique allant vers un décor unique qui prend place dans les années 1640.
 
 
-## Réception de la pièce
+## Réception de la pièce.
 
 Nous ne disposons d'aucun témoignage contemporain sur la pièce, il nous est donc impossible de statuer sur sa réception par le public de l'époque. Néanmoins, au XVIII*e* siècle, nous trouvons des remarques sur sa construction et son intrigue dans des histoires du théâtre. Ces jugements sont toutefois à prendre avec précaution car ils sont postérieurs à l'époque de la pièce et ils ne constituent donc en aucun cas un témoignage de l'opinion du public du XVII*e* siècle. Il s'agit surtout de jugements de goût qui témoignent donc de l'avis personnel de ces critiques face à la pièce. Par exemple, les frères Parfaict concluent leur description de la pièce ainsi :
 
@@ -139,10 +139,10 @@ Ce commentaire met en avant le paradoxe selon lequel, Desfontaines n'était pas 
 Finalement, nous ne disposons que de peu de commentaires sur l'œuvre de Desfontaines et plus particulièrement sur *La Véritable Sémiramis*. Ces critiques sont tous unanimes sur le fait que Desfontaines était un mauvais auteur dramatique, souffrant de lacunes techniques et dont les vers, tout comme les personnages, demeurent assez faibles. Néanmoins, ils relèvent également le paradoxe selon lequel cet auteur connut tout de même des succès et *La Véritable Sémiramis* semble en être un, en tant qu'œuvre « la plus passable » de sa production. Ainsi, ces jugements sévères peuvent expliquer le fait que l'œuvre de Desfontaines soit restée en grande partie inconnue, la notoriété qu'il avait acquise au XVII*e* siècle ayant été détruite par les premiers historiens du théâtre du XVIII*e* siècle et leurs sévères jugements de goût à l'encontre des auteurs qui ne se conformaient pas au « parcours classique ». Le fait que Desfontaines ait été simultanément comédien et auteur fait de lui un personnage assez atypique par rapport aux grands auteurs de son époque comme Corneille ou Racine.
 
 
-# La Véritable Sémiramis : fabrication de l'œuvre
+# La Véritable Sémiramis : fabrication de l'œuvre.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 La scène d'exposition nous montre Sémiramis en pleine conversation avec son confident, Merzabane, qui vient de lui apprendre que Melistrate, qu'elle aime en secret, en aime une autre. Il lui révèle qu'il s'agit de Prazimène comme le prouve une lettre d'amour qu'il a dérobée. Sémiramis jure alors de tout faire pour détruire cet amour (Scène 1). Elle se retrouve ensuite seule sur scène et dans un long monologue, elle expose son plan pour épouser Melistrate. Ainsi, elle veut tuer son époux, Ninus, qui l'a forcé à l'épouser (Scène 2). Ninus entre alors sur scène et voyant son épouse mélancolique, il lui demande les raisons de sa tristesse. Elle feint de refuser de lui en révéler la cause puis, devant son insistance, elle lui avoue qu'elle désire pouvoir gouverner seule pendant trois jours. Ninus y consent (Scène 3). Sémiramis se retrouve alors à nouveau seule et se réjouit de savoir qu'en consentant à lui laisser le trône, Ninus vient en fait de signer sa perte (Scène 4).
 
@@ -155,19 +155,19 @@ Au début du quatrième acte, Oronclide accueille donc Melistrate, de retour d'u
 Au début du cinquième acte, Melistrate annonce à Palmedon qu'il refuse de laisser Oronclide mourir pour lui et qu'il va donc prendre sa place. Palmedon tente de l'en empêcher et il lui explique que dans sa prison Oronclide a blessé Merzabane sans le savoir et que celui-ci étant sur le point de mourir, il s'apprête à faire des révélations à Sémiramis (Scène 1). Merzabane supplie Sémiramis d'épargner Oronclide, il révèle alors qu'il ne s'agit pas de son fils mais du fils de Ninus. En effet, il a échangé son fils et celui que venait d'avoir Ninus avec sa première épouse, profitant du départ du roi à la guerre. Il avoue également que Melistrate est le fils de Sémiramis qu'elle avait cru mort lors d'une invasion de la ville. Merzabane l'avait, en fait, fait enlever pour qu'Oronclide puisse accéder au trône. Le conseiller ne souhaite plus alors que mourir, tout comme Sémiramis qui comprend finalement l'horreur de ses actes (Scène 2). Melistrate entre alors en scène et, ignorant ce qui vient de se passer, il exige de mourir à la place d'Oronclide. Sémiramis lui annonce qu'en fait c'est à lui de la tuer pour la punir de ses actes. Les deux fils de Ninus hésitent et s'y refusent, Sémiramis envisage alors de se suicider (Scène 3).
 
 
-## Place dans l'œuvre de Desfontaines
+## Place dans l'œuvre de Desfontaines.
 
 *La Véritable Sémiramis* est la dernière pièce de Desfontaines. Son œuvre dramatique est composée de huit tragi-comédies et de cinq tragédies. Nous pouvons ainsi noter que s'il débute sa carrière avec l'écriture de tragi-comédies, il n'arrêtera jamais d'explorer ce genre dramatique car il publie sa dernière tragi-comédie *Bellissante ou la Fidélité reconnue* avec un privilège du 17 avril 1647, soit un mois avant *La Véritable Sémiramis*, également chez Lamy. Ce fait est assez emblématique de sa production car à cette époque, la tragi-comédie commençait à disparaître face à la tragédie. Desfontaines choisit donc de persister dans un genre qui se raréfie, restant ainsi fidèle au début de sa production théâtrale. Néanmoins, nous nous concentrerons sur ses tragédies qui puisent principalement leur sujet dans la mythologie, l'histoire et l'histoire biblique. Ainsi parmi les cinq tragédies de Desfontaines, trois sont des tragédies hagiographiques : *Le Martyre de Saint-Eustache* publié en 1643, *L'Illustre Olympie ou le Saint Alexis* en 1644 et *L'Illustre Comédien ou le Martyre de Saint Genest* en 1645. En effet, dans les années 1640, le théâtre religieux connaît un réel développement et les plus grands auteurs proposent des tragédies religieuses. Desfontaines s'inscrit donc parfaitement dans cette tendance théâtrale. La seule tragédie pseudo-historique de Desfontaines, qui précède *La Véritable Sémiramis*, est *Perside ou la Suite d'Ibrahim Bassa*, publiée en 1644.
 
 
-## L'inspiration orientale des tragédies historiques
+## L'inspiration orientale des tragédies historiques.
 
 Ainsi, entre 1630 et 1650, « on compte trois fois plus de tragédies historiques – avec élargissement à d'autres pays et à d'autres époques de l'Antiquité – que de tragédies mythologiques [45] ». Adopter un sujet historique était un moyen pour la tragédie de proposer une réflexion politique et morale aux spectateurs. Les dramaturges privilégièrent l'histoire de Rome, de la Grèce et de l'Orient plutôt que les événements contemporains. La tragédie détient une aura de crédibilité et de vraisemblance car elle prend pour sujet des actions et des personnages historiques. Néanmoins, il n'est pas toujours évident de savoir comment transformer en drame l'histoire écrite par les historiens car l'histoire ne fournit pas toujours tous les éléments de l'intrigue au dramaturge qui adapte alors souvent le récit historique pour créer une pièce frappante et vraisemblable [46].
 
 Beaucoup de tragédies prennent donc pour sujet l'histoire romaine mais aussi l'histoire de la Grèce ou de l'Asie. Nous nous concentrerons ici sur les tragédies perses. Les sujets les plus utilisés étaient l'histoire de *Panthée*, qu'abordera Durval en 1639, celle d'*Artaxerxès* reprise par Magnon en 1645 ou de* Cosroès* dans la tragédie de Rotrou en 1649. Ces deux dernières pièces ont en commun de questionner les enjeux liés à l'accession au trône et à l'exercice du pouvoir. C'est donc dans ce contexte que sont écrites la *Sémiramis* de Gilbert et *La Véritable Sémiramis* de Desfontaines. Elles se passent en Assyrie et prennent notamment pour source Diodore de Sicile [47]. *La Véritable Sémiramis* est donc une tragédie représentative de son époque qui fait la part belle aux sujets historiques.
 
 
-## Sémiramis et l'Assyrie
+## Sémiramis et l'Assyrie.
 
 Sémiramis et Ninus furent les souverains de l'Assyrie dont Moreri nous donne une description dans son dictionnaire historique :
 
@@ -186,7 +186,7 @@ Sémiramis : Reine des Assyriens, fille de la déesse Syrienne Derceto, … ell
 Nous pouvons noter que la notice de Ninus a de nombreux points communs avec l'histoire de *La Véritable Sémiramis*, il est ainsi fait mention de la prise d'Ascalon par le roi et de son mariage avec Sémiramis. Néanmoins, la notice sur cette dernière mêle par contre deux sources différentes et ne correspond pas à celle de son époux. Ainsi, elle aurait d'abord été mariée à Ménon avant que Ninus ne l'oblige à l'épouser ce qui provoquera la mort de son premier mari. Cette version, puisée chez Diodore de Sicile, est celle qu'a suivie Gabriel Gilbert pour construire sa *Sémiramis*. La seconde partie de cette notice mentionne le désir incestueux de Sémiramis pour son fils, qui trouve son origine chez Justin, deviendra l'intrigue principale de *La Véritable Sémiramis* de Desfontaines. Nous reviendrons plus précisément sur l'opposition des sources de ces deux pièces rivales dans la cinquième partie de cette introduction. L'histoire de Sémiramis était donc connue au XVII*e* siècle, sous une forme qui mêlait plusieurs sources antiques. Le fait que deux auteurs en fassent, à la même période, le personnage principal de leur pièce prouve bien que Sémiramis connaissait alors une certaine notoriété.
 
 
-## Comparaison avec *Perside* (1644)
+## Comparaison avec *Perside* (1644).
 
 Cette tragédie d'inspiration turque met en scène un souverain qui, en désirant épouser Perside, la femme de son Grand Vizir Eraste, finit par le tuer ce qui amènera Perside à mourir aussi. Le roi Soliman déplorera alors son erreur de jugement et regrettera d'avoir écouté ses conseillers en jurant de venger par leur mort les malheureux amants. Cette pièce est présentée comme la suite du roman à succès *Ibrahim* de Scudéry tandis que *La Véritable Sémiramis* est tirée de *La Prazimène* de Le Maire, ces deux pièces sont donc inspirées d'un roman.
 
@@ -210,12 +210,12 @@ SOLIMAN. He bien, que feras-tu Soliman ? Ce mespris N'est-il pas suffisant à g
 Ces deux souverains doutent constamment de la façon dont ils peuvent convaincre l'autre de l'aimer en retour. Ici, cette question est fortement liée à celle de l'exercice du pouvoir et du fait de mettre ce pouvoir au service d'une cause personnelle. Sémiramis et Soliman choisissent ainsi de tuer un obstacle à leur conquête amoureuse et à chaque fois cette victime, qu'il s'agisse d'Eraste ou de Ninus, est innocente. Ces deux pièces sont donc liées par une réflexion sur l'abus de pouvoir lorsque le souverain ne peut faire la part des choses entre ses désirs personnels et le bien de l'Etat, devenant ainsi un tyran.
 
 
-## Contexte théâtral : le renouveau de la tragédie
+## Contexte théâtral : le renouveau de la tragédie.
 
 Au XVII*e* siècle, la tragédie connaît une véritable renaissance sur la scène, la production tragique passe de trente-huit pièces dans les années 1630-1639 à soixante pour la période de 1640 à 1649 [53]. La tragédie régulière s'affirme ainsi dans les années 1630-1640 face à la tragi-comédie qui refusait de se plier à ces règles, notamment à l'unité de temps et d'action ainsi qu'à l'exigence de vraisemblance. Nous assistons donc à un ultime renversement, en effet, la tragédie classique avait été rejetée au début du XVII*e* siècle par les Modernes car elle demandait de suivre le modèle des Anciens ; or ces règles sont devenues primordiales pour encadrer les dérèglements des passions : « l'instauration moderne des règles antiques présentées comme nécessaire au nom de la raison et de l'effet produit sur le spectateur aboutissait à réintroduire la tragédie [54] ».
 
 
-## La règle des trois unités dans *La Véritable Sémiramis*
+## La règle des trois unités dans *La Véritable Sémiramis*.
 
 Dans un souci de vraisemblance, la durée de l'action représentée doit correspondre à peu près au temps de la représentation, qui est de deux ou trois heures. Or dans *La Véritable Sémiramis*, l'unité de temps semble être respectée. Ainsi, nous pouvons par exemple relever l'omniprésence de l'adverbe « aujourd'hui » qui insiste sur le fait que toute l'action se déroule en une seule journée. Oronclide conclut ainsi la pièce avec une dernière réplique : « Que le Ciel aujourd'hui nous est doux & severe ! » (v1840). Les adjectifs « doux & severe » qui résument les péripéties qui sont arrivées aux personnages avec par exemple, le meurtre de Ninus, le changement de comportement d'Oronclide qui devient l'allié de Melistrate après avoir été son rival et sa condamnation par Sémiramis mais aussi les révélations positives comme le fait qu'Oronclide et Melistrate se découvrent tous deux fils de Ninus montrent bien la volonté de Desfontaines de respecter cette unité de temps ainsi que la vraisemblance. Tout d'abord, il faut noter que si Sémiramis demande à obtenir le trône pour trois jours, elle n'attendra que quelques heures pour tuer Ninus : « Pour trois jours seulement il me cede l'Empire, / Mais dés ce mesme jour je pretends qu'il expire » (v.625). L'unité de temps est ainsi renforcée par la précipitation de Sémiramis qui veut atteindre son but au plus vite. Plus généralement, les personnages dans la pièce agissent toujours avec hâte et la nécessité que tous les problèmes trouvent leur solution en un seul jour est mise en avant. Par exemple, Melistrate dit ainsi : « Mais ce jour doit conclure ou ma vie ou ma mort. » (v.1658). Cet empressement à être fixé sur son sort participe bien de l'unité de temps. Desfontaines nous donne aussi des indices sur l'avancée de la journée. La pièce commence ainsi *in medias res* avec une conversation entre Sémiramis et Merzabane, son confident, même s'il n'y a pas de marquage temporel précis, nous pouvons raisonnablement penser que nous sommes le matin, ce qui permet à l'intrigue de se dérouler tout au long de la journée. De plus, la dernière réplique de Sémiramis à la troisième scène de l'acte V corrobore cette idée, ainsi au moment de se suicider elle déclare : « Brillante illusion, précieuse fumée, / Dont ce matin encor mon ame estoit charmée » (v.1828). De plus, nous disposons d'une indication temporelle à l'acte V, qui montre que la nuit est sur le point de s'achever :
 
@@ -263,32 +263,32 @@ Enfin, le dernier critère est celui de la continuité, il s'agit ainsi de voir 
 Finalement, Desfontaines pèche sans doute par l'excès d'éléments qu'il rajoute à sa pièce, brisant ainsi la continuité entre les intrigues et les différentes scènes. Nous reviendrons sur l'argument qui met ces erreurs sur le compte de la rapidité d'écriture de la pièce pour concurrencer la pièce de Gilbert écrite quelques mois avant dans le cinquième chapitre.
 
 
-# L'œuvre source : La Prazimène de Le Maire
+# L'œuvre source : La Prazimène de Le Maire.
 
 
-## L'inspiration romanesque
+## L'inspiration romanesque.
 
 Au XVII*e* siècle, il est courant de puiser le sujet d'une tragédie dans un roman qui connaît un certain succès, la tragédie *Perside ou la suite d'Ibrahim Bassa* du même Desfontaines se présente ainsi comme la suite du roman *Ibrahim* de Scudéry publié en 1642, tout comme la tragi-comédie *Eurimédon ou l'Illustre Pirate* qui est tirée du roman *Ariane* de Desmarets publié en 1632. Desfontaines tire l'intrigue de *La Véritable Sémiramis* du roman de Le Maire, *La Prazimène*, publié entre 1638 et 1643. Un volume de la *Bibliothèque universelle des Romans* en fait la description suivante : « Quatre gros volumes, deux mille sept cents pages assez mal remplies, à dévorer ; voilà le roman. Mais Sémiramis y joue un rôle principal : les noms fameux ne peuvent être trop reproduits [60]. » Ainsi même si le roman porte le titre de Prazimène, ce commentaire nous montre bien que Sémiramis y a une grande importance et que Desfontaines a donc pu en faire la source de sa pièce sur la reine. Ce roman est suivi de *La Suite de la Prazimène*, qui est également divisée en quatre parties. Il a très probablement connu un certain succès au XVII*e* siècle car il a été traduit en italien en 1654 [61] et en anglais en 1707 [62].
 
 
-## Résumé du roman
+## Résumé du roman.
 
 *La Prazimène* : la reine Sémiramis tombe sous le charme de Melistrate mais celui-ci aime Prazimène. Elle demande alors à Ninus de lui confier le pouvoir et lors de son sacre, elle fait tuer son époux pour pouvoir offrir le trône à celui qu'elle aime. Melistrate continue de lui résister et il est donc fait prisonnier par Oronclide. Prazimène essaye de le secourir mais elle se trompe et, en voulant blesser Oronclide, elle touche Melistrate. Oronclide décide alors de les aider à fuir en Bactrie mais dans la forêt Prazimène est enlevée et menée à la princesse Azalinde. (Livre I). Prazimène commence à raconter à la princesse l'histoire de Sémiramis au moment de sa rencontre avec Ninus. La reine était alors une princesse valeureuse. Prazimène raconte ensuite sa propre histoire, elle était à l'époque courtisée par deux chevaliers, Alcanor et Malcadonte, et lorsqu'ils se sont battus pour elle, un mystérieux chevalier est venu la protéger et il s'agissait de Melistrate. Sémiramis tombe alors sous son charme. Melistrate déclare son amour à Prazimène mais elle le repousse, il part ensuite se battre. Palmedon revient au palais en annonçant à la princesse que Melistrate est blessé et qu'il refuse d'être soigné, Prazimène lui écrit alors une lettre lui demandant de vivre. (Livre II). Prazimène interrompt son récit à cause de l'arrivée du roi Coroandre. Il aime Prazimène et il lui propose de l'épouser mais elle refuse. Une fois retirée dans sa chambre, une servante fait entrer Melistrate qui la cherchait depuis son enlèvement. Il a entendu des rumeurs d'un mariage de sa maîtresse avec le roi, ce que Prazimène dément. Elle amène alors son amant devant le roi, qui fou de rage, envoie Melistrate au combat en espérant qu'il y trouve la mort. Prazimène continue alors son récit à Azalinde au moment où Palmedon lui raconte comment Melistrate a été blessé à la bataille de Legerde. Après avoir reçu la lettre de Prazimène, Melistrate revient donc au palais puis il est accusé d'avoir tué Alcanor par jalousie amoureuse. Finalement, il est innocenté. Prazimène finit alors son récit et se retire ensuite dans sa chambre. (Livre III). Melistrate revient au palais et il s'enfuit en bateau avec Prazimène. Ils accostent sur une île et au matin, le chevalier s'en va en abandonnant la princesse. (Livre IV).
 
 *La Suite de la Prazimène* : Gezamonde et Alcanor trouvent Prazimène évanouie sur la plage, elle leur apprend la trahison de Melistrate. Alcanor lui raconte ensuite son histoire et sa rencontre avec Gezamonde. (Livre I). Coroandre arrive ensuite sur l'île après avoir rencontré Melistrate, il prétend que ce dernier est mort et il propose donc à Prazimène de l'épouser mais elle refuse. Elle raconte ensuite à Azalinde l'histoire de l'enfance de Melistrate, à qui un oracle a annoncé qu'il allait devoir devenir parricide. (Livre II). Oronclide commence son propre récit et explique que lorsqu'il a cru avoir tué par erreur son père Merzabane, il a appris qu'il était en réalité le fils de Coroandre et que Melistrate est également un prince. (Livre III). Oronclide apprend ensuite à Prazimène que Melistrate est toujours vivant. (Livre IV).
 
 
-## Choix du sujet
+## Choix du sujet.
 
 Si le roman de Le Maire prend pour titre le nom de la princesse Prazimène, Sémiramis y occupe tout de même une place primordiale. Ainsi, elle est l'objet de nombreux récits de la princesse et son amour incestueux pour Melistrate est le principal obstacle à l'amour du chevalier pour Prazimène. Il est également intéressant de constater que Le Maire emploie souvent le mot de « tragédie » pour évoquer l'intrigue de son roman et notamment l'amour de la reine pour Melistrate qui entraîne la mort de Ninus. Sémiramis évoque ainsi sa colère face au refus du chevalier de l'aimer en retour : « & qu'un excez d'Amour qui se change en excez de haine, produit de si estranges effets, que toute sa suite n'est qu'une perpetuelle tragedie. » (volume I). L'intrigue du roman était donc bien porteuse d'une veine tragique, dont Desfontaines s'est inspiré.
 
 
-## Choix pour l'adaptation théâtrale
+## Choix pour l'adaptation théâtrale.
 
 L'intrigue de *La Véritable Sémiramis* est bien inspirée du roman *La Prazimène*, Desfontaines suit la même intrigue mais la comparaison des deux œuvres montre bien que l'auteur a du adapter le récit originel pour répondre aux exigences de la scène. Il procède ainsi à de nombreuses simplifications de l'action pour se conformer à la règle de trois unités, comme nous l'avons vu précédemment. Nous analyserons ainsi les procédés d'adaptation de Desfontaines et nous verrons également que le roman éclaire des faits seulement esquissés dans la tragédie. De plus, *La Prazimène* étant en grande partie constituée des récits enchâssés de Prazimène qui raconte à Azalinde l'histoire des autres personnages, il était obligatoire pour Desfontaines de procéder à une forte adaptation formelle.
 
 
-### L'intrigue principale
+### L'intrigue principale.
 
 Desfontaines trouve bien dans *La Prazimène*, le cœur de son intrigue principale. Ainsi, les deux œuvres débutent de la même façon avec l'aveu de Sémiramis de son amour pour Melistrate qui fait alors tuer Ninus après avoir obtenu le pouvoir :
 
@@ -300,7 +300,7 @@ Melistrate est blessé à la bataille de Legerde et il demande à Prazimène de 
 Desfontaines reprend de façon similaire l'épisode où Prazimène blesse par erreur Melistrate : cet événement n'apparaissant dans aucune autre source concernant Sémiramis, il s'agit donc d'un emprunt flagrant. Ensuite, Oronclide aide le couple à s'enfuir. Puis, il blesse par erreur son père Merzabane qui lui apprend qu'il n'est pas son fils. Dans le roman, Oronclide est le fils de Coroandre tandis que dans la pièce, il devient le fils de Ninus. Ensuite, nous apprenons que Melistrate est, quant à lui, le fils de Ninus et de Sémiramis.
 
 
-### Une intrigue simplifiée
+### Une intrigue simplifiée.
 
 Si Desfontaines reprend bien la trame principale du roman de Le Maire, il est obligé de restreindre et de simplifier l'intrigue pour respecter l'unité d'action. Ainsi, de nombreux éléments disparaissent dans *La Véritable Sémiramis* comme, par exemple, les récits enchâssés de Prazimène. Le roman en comporte ainsi huit clairement identifiés : l'histoire de Sémiramis, de Prazimène, de Melistrate et Prazimène, d'Alcanor et de Gezamonde, l'histoire particulière de Melistrate, d'Argon et d'Elixis, d'Oronclide et la suite de l'histoire de Prazimène et Melistrate qui disparaissent dans la pièce. Or ces récits contenaient de nombreuses informations biographiques sur ces personnages que la tragédie ne peut donc rendre que par des allusions.
 
@@ -309,22 +309,22 @@ De nombreux personnages du roman disparaissent donc dans la pièce. En effet Des
 Enfin, la suppression du personnage de Coroandre entraîne une autre simplification de l'intrigue. En effet, Oronclide n'est plus le fils de ce roi mais celui de Ninus et il est donc le demi-frère de Melistrate dans la pièce, alors que dans le roman, il se révélait être le frère d'Azalinde. Desfontaines ayant supprimé le personnage d'Argon, fils de Ninus dans le roman, il a ainsi pu changer la scène de révélation finale. De façon plus anecdotique, le personnage de Gezamonde disparaît également mais elle n'avait qu'un rôle limité dans le roman.
 
 
-### Une chronologie restreinte
+### Une chronologie restreinte.
 
 Le roman de Le Maire suit une chronologie particulière. Il commence de façon linéaire jusqu'à la fuite de Prazimène et Melistrate, le début des récits de la princesse à Azalinde provoque alors de nombreux récits enchâssés entrecoupés de fréquents retours au présent. Le passage du présent au récit est toujours marqué textuellement par une phrase type comme : « Puis se retournant à l'heure mesme vers Azalinde, elle fit en ces termes la liaison de ses malheurs ». Desfontaines ne peut construire sa tragédie sur une succession de récits et il rétablit donc une chronologie linéaire où toutes les péripéties peuvent arriver en vingt-quatre heures afin de respecter l'unité de temps. En effet, la temporalité réelle du roman est de l'ordre d'environ six jours depuis le meurtre de Ninus jusqu'à l'abandon de Prazimène par Melistrate sur l'île.
 
 
-### Une géographie simplifiée
+### Une géographie simplifiée.
 
 Afin de respecter l'unité de lieu, Desfontaines limite l'extension de l'intrigue dans l'espace. Ainsi, dans le roman, Sémiramis envoie Oronclide en Margiane, une province de la Bactrie, pour chercher Melistrate qui en est le gouverneur. Alors que dans *La Véritable Sémiramis*, Melistrate fait son entrée au palais à la première scène de l'acte IV, Oronclide étant chargé de l'accueillir : « Il revient, & tantost, comme je l'ay pû voir / On a fait choix de vous, pour l'aller recevoir. » (v.1089-1090). Pour respecter l'exigence d'un lieu unique, Melistrate vient donc à Oronclide. La fuite de Melistrate et de Prazimène en Bactrie est également réduite à une cachette à proximité du palais, comme le montre les paroles de Palmedon : « Allez, Seigneur, allez vous rendre à vostre azile ». (v.1644). Dans la tragédie, il n'est plus question de fuir dans un autre pays pour échapper à la reine, le temps étant limité, les amants ne peuvent s'éloigner du palais. De plus, Desfontaines ayant supprimé les personnages d'Azalinde et de Coroandre, une fuite en Bactrie n'aurait pas eu un grand intérêt dramatique. Enfin, la dernière fuite de Melistrate et de Prazimène sur un bateau disparaît également dans la pièce, cette péripétie hautement romanesque ne pouvait s'inscrire dans l'économie tragique, une nouvelle fois par respect de l'unité de lieu.
 
 
-### Le respect de la bienséance
+### Le respect de la bienséance.
 
 L'adaptation de Desfontaines prend également en compte le respect de la bienséance, nous pouvons ainsi noter que dans le roman, Ninus est assassiné par Merzabane devant tous les princes qui le « percent aussi de coups ». Tandis que dans *La Véritable Sémiramis*, Ninus est tué par Merzabane dans son appartement et nous n'assistons pas à ce meurtre qui ne nous est connu que par le récit qu'en fait Ninus à Sémiramis. Il s'agit donc ici d'un respect de la règle de bienséance selon laquelle un meurtre ne peut avoir lieu sur le théâtre.
 
 
-### Les modes du récit
+### Les modes du récit.
 
 Il existe plusieurs sortes de variations du récit, du roman à la tragédie. Ainsi, le changement de narrateur est le phénomène le plus courant notamment lors du récit d'une bataille par exemple, la prise de Legerde est racontée par Palmedon dans le roman et par Merzabane dans la pièce (I,1) :
 La Prazimène (livre III). | La Véritable Sémiramis (I,1).
@@ -345,7 +345,7 @@ Cet épisode représente parfaitement les choix de Desfontaines pour son adaptat
 Enfin, une des particularités de *La Prazimène* est que ce roman comporte de nombreuses lettres de personnages (nous en avons relevé cinq) qui participent à l'avancée de l'action. Desfontaines fait le choix de n'en conserver qu'une, celle de Prazimène à Melistrate qui sera lue par Sémiramis pendant la scène d'ouverture.
 
 
-### Une fin différente
+### Une fin différente.
 
 Le traitement de la fin des amours de Melistrate et de Prazimène est abordé de façon totalement différente dans le roman et dans la tragédie. En effet, *La Prazimène* se termine avec l'abandon de Prazimène par Melistrate sur une île inconnue. La princesse se lamente alors d'avoir été trahie par son amant. *La Suite de la Prazimène* reprend donc l'intrigue au moment de cet abandon et le roman ne propose finalement pas de réelle fin à la relation de Prazimène et Melistrate. Il se termine ainsi sans que nous n'ayons appris les raisons qui ont poussé le chevalier à abandonner la princesse ni s'il reviendra finalement à ses côtés. Cette conclusion est surprenante et pour le moins énigmatique puisque cette deuxième partie des aventures de Prazimène ne nous apporte pas de nouveaux éléments que ceux dont nous disposions à la fin du premier tome. Prazimène est toujours seule sur l'île et le fait que nous ne sachions pas si Melistrate reviendra ou non est particulièrement troublant. Le roman se conclut ainsi sur une formule énigmatique :
 
@@ -361,7 +361,7 @@ Mesle confusément, & l'Amour & la Mort ! (v. 1840-1842).
 Prazimène et Melistrate sont maintenant libres de se marier. Le dénouement constitue donc la principale différence entre le roman originel et l'adaptation de Desfontaines. *La Véritable Sémiramis* dispose ainsi d'une conclusion heureuse, en effet, si les personnages déplorent la mort de l'innocent Ninus, la perspective du suicide de Sémiramis met fin à leurs malheurs.
 
 
-## La Prazimène : une aide précieuse à la compréhension de la pièce
+## La Prazimène : une aide précieuse à la compréhension de la pièce.
 
 L'adaptation d'un roman aussi long que *La Prazimène* ainsi que de sa suite suppose donc pour Desfontaines de faire de nombreuses coupes pour ne garder que le cœur de l'intrigue. Néanmoins, *La Véritable Sémiramis* contient de nombreuses références à des faits mineurs qui ne sont largement explicités que dans le roman, car ils n'ont aucune valeur historique. Sa lecture permet donc de comprendre de nombreux éléments qui étaient difficilement compréhensibles dans la pièce. Par exemple, cet extrait de l'acte III, scène 1 est particulièrement obscur pour qui n'a pas lu le roman :
 
@@ -383,14 +383,14 @@ De même, le roman nous apprend également l'intégralité du déroulement de la
 Enfin, *La Prazimène* éclaire l'histoire de trois personnages qui étaient assez mystérieux. Tout d'abord, nous apprenons que Prazimène est originaire d'Ascalon, qu'elle était très proche de Sémiramis et qu'elle l'a donc suivie à Babylone lors de son mariage avec Ninus : « nous rendirent en peu de jours dans la vaste & populeuse Babylone » (volume II). Desfontaines ne fait ainsi aucune allusion à son origine dans la pièce. Le second personnage dont l'identité se révèle dans le roman est Herminie. En effet, son nom figure à deux reprises dans des rubriques de personnages (I,1 et II,1) mais elle ne prend jamais la parole dans la pièce. Dans le roman, Erminie est ainsi la directrice de Prazimène, elle est venue avec elle d'Ascalon et elle veille sur elle. Dans la première partie du volume I, elle suit souvent Prazimène et elle tient le rôle de confidente de la princesse. Néanmoins, lors de sa première apparition dans la scène d'ouverture de *La Véritable Sémiramis*, elle est avec Sémiramis et Merzabane. On pourrait alors comprendre sa présence par le fait qu'elle vienne d'Ascalon et qu'elle est donc une personne de confiance pour la reine mais son engagement aux côtés de Prazimène, qui est présente lors de sa deuxième venue sur le théâtre, rend difficile cette interprétation. Lorsqu'elle revient sur scène, elle accompagne ainsi sa protégée. Le roman nous éclaire ainsi à nouveau sur les zones obscures de la pièce. Enfin, le roman nous apprend également que Thermodonte était le roi de Tyr à qui Tarsenos avait promis en mariage sa fille, Sémiramis.
 
 
-## Le phénomène de la reprise textuelle
+## Le phénomène de la reprise textuelle.
 
 La reprise textuelle consiste en « la reproduction exacte, ou peu s'en faut, de séquences extraites d'autres œuvres préexistantes [63] ». Les œuvres de Desfontaines semblent ainsi être marquées par une forte reprise textuelle du texte-source, comme c'est par exemple le cas dans ses tragédies hagiographiques. Dans le cas de *La Véritable Sémiramis*, nous allons voir que ces reprises sont très fréquentes et facilement identifiables. S'agit-il alors d'une facilité d'écriture ou d'une citation assumée de l'œuvre originale ? Nous pouvons relever le commentaire de Claude Bourqui et Simone de Reyff qui soulignent que « Le phénomène, en ce qui concerne le théâtre de Desfontaines, est demeuré jusqu'ici inaperçu dans son ampleur [64] ». De plus, il est difficile de déterminer la fréquence de cette pratique chez les auteurs dramatiques du XVII*e*. Nous ne pouvons donc pas savoir s'il s'agit d'un trait original de Desfontaines ou si cette pratique était répandue. C. Bourqui et S. de Ryeff répertorient trois types de reprises textuelles. La *retractatio* ou « reprise de vers et de passages provenant d'œuvre antérieures de Desfontaines », l'*excerptio minor* ou « reprise de vers ou de distiques isolés provenant d'œuvres allogènes et l'*excerptio major* ou « reprise de passages volumineux provenant d'œuvres allogènes [65] ».
 
 Il est évident que dans le cas de *La Véritable Sémiramis*, ces reprises sont liées à un passage de la prose aux vers ce qui rend obligatoire certains changements liés à la versification. Desfontaines doit également adapter un vaste roman en seulement cinq actes, ce qui suppose notamment de transformer de nombreuses actions en récits. Néanmoins, Desfontaines reprend des expressions et parfois des phrases entières du roman source *La Prazimène* pour écrire sa pièce [66]. C. Bourqui et S. de Ryeff relèvent bon nombre de ces reprises dans leur étude des tragédies hagiographiques [67], ce qui laisse supposer que Desfontaines était adepte de cet exercice. Dans *La Véritable Sémiramis*, le mode de reprise le plus fréquent est celui de *l'excerptio minor*. Nous étudierons trois phénomènes emblématiques du mode de reprise utilisé dans *La Véritable Sémiramis*. Tout d'abord les reprises dans leur intégralité d'une partie du texte originel sans modification majeure puis les reprises qui respectent le sens du texte source mais où nous pouvons observer des variations liées à la versification avec l'emploi notamment de synonymes et de structures équivalentes. Enfin nous verrons la reprise de passages plus importants qui sont également soumis à des changements du fait du passage de la prose au vers mais dont le sens originel est conservé.
 
 
-### La reprise fidèle
+### La reprise fidèle.
 
 La reprise d'une phrase ou d'un passage dans son intégralité est très rare dans *La Véritable Sémiramis*, notamment car Desfontaines s'inspire d'un roman et qu'il ne peut donc, dans la plupart des cas, reprendre exactement le texte originel puisqu'il doit l'adapter en alexandrins. Nous pouvons tout de même relever la reprise de quelques formules emblématiques (nous avons mis en caractères gras les similitudes) :
 La Prazimène, Le Maire | La Véritable Sémiramis, Desfontaines
@@ -407,7 +407,7 @@ Ces exemples nous prouvent que Desfontaines reprend parfois des formules entièr
 Ainsi, nous observons deux types de variations légères dans ces reprises presque totales. Tout d'abord, la transposition d'un roman en pièce de théâtre suppose la suppression de certains éléments caractéristiques comme les verbes introducteurs de paroles (v.2) et certains compléments circonstanciels, par exemple : « avec un soupir violent » qui aurait pu être transformé en didascalie dans le texte théâtral mais que Desfontaines choisit ici de supprimer. De plus, dans cette reprise, la reine ne peut pas faire allusion à Prazimène dans la pièce car elle ne connaît pas encore l'amour que lui porte Melistrate. Enfin, nous observons aussi que les reprises totales doivent se plier à la création de rimes, cela peut ainsi justifier la transformation du texte originel aux vers 891 et 892 pour créer la rime entre « fameuses » et « dangereuses ».
 
 
-### Les variations liées à la métrique
+### Les variations liées à la métrique.
 
 Certaines reprises sont assez fidèles au texte source mais elles connaissent des variations liées à la versification. Ce cas de figure est le plus courant dans *La Véritable Sémiramis*, Desfontaines utilise ainsi des synonymes pour s'adapter aux exigences métriques de l'alexandrin. Nous avons relevé des extraits représentatifs de cette variation (nous avons mis en caractères gras les similitudes et nous avons souligné les variations synonymiques) :
 La Prazimène, Le Maire | La Véritable Sémiramis, Desfontaines
@@ -428,7 +428,7 @@ De plus, la disposition de la phrase est également soumise à la nécessité de
 Enfin, nous pouvons tout de même remarquer que, parfois, certaines de ces variations ne sont motivées que par un intérêt purement poétique. Ainsi, sa préférence du mot « subjuguez » (au vers 6) à celui d'« esclaves » n'est pas motivée par la versification car ces deux mots synonymes sont constitués du même nombre de syllabe. Nous retrouvons ce même procédé au vers 152 avec la transformation de « sous les armes » en « combattant », ici ce choix est certainement motivé par la volonté de créer un parallélisme avec le deuxième hémistiche construit également avec le verbe « vainquit ». Enfin, nous remarquons une nouvelle fois ce phénomène au vers 1621 où le verbe « déclarant » est préféré au verbe « apprenez », or ces deux verbes étant quasi-synonymes, le choix de Desfontaines apparaît à nouveaux comme purement poétique.
 
 
-### La reprise du sens originel
+### La reprise du sens originel.
 
 Desfontaines reprend parfois des passages entiers du roman-source mais en changeant totalement les mots qui le compose ; le passage transformé conserve néanmoins le même sens que celui du roman. Ainsi, nous étudierons un exemple emblématique de ce type de reprise qui est celui de la demande de Sémiramis à Ninus pour obtenir un règne de trois jours.
 *La Prazimène*, Le Maire (Volume 1). | *La Véritable Sémiramis*, Desfontaines (I,3).
@@ -439,10 +439,10 @@ Hé bien, luy dit-elle en pleurant, puis que vous me le commandés, je me vay co
 Ainsi, il est indéniable que Desfontaines a repris ce passage de *La Prazimène*, en lui apportant simplement une modification de forme. Nous retrouvons les mêmes éléments constitutifs de ce moment-clé de la pièce avec par exemple la notion d'obéissance : « obeyr » devient « obéissance » (v.362). Sémiramis évoque ensuite le fait quelle ne désire pas un surplus de conquête, Desfontaines réécrit certes cette idée mais il en garde l'essence [68]. « Le monde » devient « l'univers », le verbe « contenter » est transformé en l'adjectif « contente » et le verbe « contenter » est remplacé par son synonyme « remplir ». Ces changements montrent bien que si ces deux textes ne semblent plus avoir beaucoup en commun formellement, il s'agit en fait d'une transposition et de nombreux éléments demeurent tout en subissant une variation. La suite de cet exemple s'inscrit également dans cette modalité particulière de reprise textuelle. Sémiramis parle ainsi de son refus de l'idolâtrie de Ninus, les substantifs « idolatrie » et « amour » sont ainsi repris par Desfontaines qui adapte une nouvelle fois la forme du texte tout en gardant le même sens. Enfin, elle demande à Ninus de lui laisser le « trosne » pour trois jours. La stratégie de reprise textuelle de Desfontaines se base donc sur la répétition de mot clés tout en remodelant la phrase pour répondre aux exigences de la versification et de la métrique de l'alexandrin.
 
 
-# Une rivalité dramatique : la Sémiramis de Gabriel Gilbert
+# Une rivalité dramatique : la Sémiramis de Gabriel Gilbert.
 
 
-## Desfontaines et les doublons dramatiques
+## Desfontaines et les doublons dramatiques.
 
 Desfontaines se retrouva souvent en situation de concurrence dramatique avec un autre auteur. Ainsi, nous pouvons envisager l'idée qu'il considérait peut-être les doublons dramatiques comme une assise possible pour sa carrière. En effet, six de ses pièces ont été en concurrence directe avec une autre pièce : *Eurimédon ou l'Illustre Pirate* (1637) avec *L'Illustre Corsaire* de Mairet,* La Vraie Suite du Cid* (1638) avec *La Suitte et le Mariage du Cid* de Chevreau, *Bélisaire* (1641) avec le *Bélisaire* de Rotrou, *Le Martyre de Saint-Eustache* (1643) avec *Saint-Eustache Martyr* de Baro, *L'Illustre Comédien ou le Martyre de Saint-Genest* (1645) avec *Le Véritable Saint-Genest* de Rotrou, et enfin, *La Véritable Sémiramis* (1647) avec la *Sémiramis* de Gilbert. Desfontaines semble toujours être à l'origine de la compétition dramatique sauf dans le cas de *Bélisaire*, la pièce de Rotrou a ainsi été publiée deux ans plus tard, en 1643. Nous pouvons donc légitimement supposer que Desfontaines aimait se mettre en situation de rivalité avec un autre auteur afin de donner à ses pièces une certaine notoriété dans le cadre de ces duels dramatiques.
 
@@ -454,10 +454,10 @@ L'emploi du qualificatif « véritable » laisse en effet supposer, de la part
 L'utilisation de cet adjectif est donc un moyen pour Desfontaines de mettre en avant sa pièce en revendiquant sa fidélité historique et donc, en critiquant implicitement la *Sémiramis* de Gilbert qui apparaît comme moindre. L'adjectif « véritable » montre bien ici qu'en écrivant *La Véritable Sémiramis* Desfontaines était bien dans l'optique d'une confrontation dramatique avec la pièce de Gilbert.
 
 
-## *La Véritable Sémiramis* face à la *Sémiramis* de Gilbert
+## *La Véritable Sémiramis* face à la *Sémiramis* de Gilbert.
 
 
-### Histoire d'une rivalité
+### Histoire d'une rivalité.
 
 La *Sémiramis* de Gilbert et *La Véritable Sémiramis* de Desfontaines sont des pièces rivales. Il semble raisonnable de penser que Gilbert s'est emparé le premier de ce sujet. Les arguments pour justifier son antériorité sont néanmoins peu nombreux et l'écriture hâtive de Desfontaines en reste la principale preuve. Ainsi, Gilbert a obtenu un privilège pour la publication de sa pièce le 13 mai 1647 tandis que Desfontaines l'obtient le 17 avril 1647. Mais cette antériorité ne peut être considérée comme une preuve en faveur de Desfontaines car « on peut toutefois estimer que c'est l'imminente parution de *La Véritable Sémiramis* qui a déterminé Gilbert à lancer l'impression de sa *Sémiramis*, ce qui, à tout prendre, signale simplement que la concurrence dramatique des deux tragédies s'est, comme souvent, poursuivie sur le terrain éditoriale [70] ». De plus, Desfontaines a certainement ajouté l'adjectif « véritable » au titre de sa pièce pour revendiquer sa supériorité face à celle Gilbert qui arborait la mention « Tragédie représentée par la Troupe Royale » et qui la précédait. La dualité de l'action dans *La Véritable Sémiramis* qui juxtapose deux intrigues tandis que la *Sémiramis* de Gilbert respecte l'unité d'action est également une preuve en faveur de l'antériorité de la pièce de Gilbert. Ce dernier est aussi beaucoup plus fidèle aux sources historiques sur Sémiramis alors que Desfontaines s'en éloigne, peut-être dans une volonté de se démarquer de la pièce de son rival. L'issue abrupte de sa pièce, qui laisse le sort de Sémiramis en suspens nous met également sur la piste d'une possible hâte dans l'écriture de la pièce pour concurrencer celle de Gilbert dont les représentations avaient sûrement déjà commencé à l'Hôtel de Bourgogne. Lancaster statue lui aussi en faveur d'une antériorité de la *Sémiramis* de Gilbert :
 
@@ -467,14 +467,14 @@ La *Sémiramis* de Gilbert et *La Véritable Sémiramis* de Desfontaines sont de
 Ce dernier argument de Lancaster nous semble peu crédible, car la mention que Gilbert appose à sa pièce était d'usage pour toutes les pièces représentées à l'Hôtel de Bourgogne. Contrairement à l'ajout de l'adjectif « véritable » par Desfontaines qui montre bien une volonté de se démarquer de son rival et qui nous conforte dans l'idée que la pièce de Gilbert est antérieure à *La Véritable Sémiramis*. Le goût de Desfontaines pour la création de doublons dramatiques ne fait que confirmer cette hypothèse.
 
 
-### Le traitement des sources antiques
+### Le traitement des sources antiques.
 
 Gabriel Gilbert et Desfontaines n'utilisent pas les mêmes sources historiques pour construire leur pièce. Ainsi, Gilbert s'inspire principalement de Diodore de Sicile [72], chez lequel il trouve les récits des nombreuses batailles de Sémiramis notamment contre les Bactres, sa pièce s'ouvre ainsi sur le récit de sa victoire avec son époux et Ninus contre Zoroastre. Sa naissance suit aussi la version de Diodore. Elle serait donc fille d'une déesse et d'un humain, et après avoir été recueillie par des bergers, Ménon tombe sous son charme et décide de l'épouser. Le roi Ninus veut ensuite l'épouser et il propose d'offrir sa fille Sosarme en mariage à Ménon. Mais ce dernier refuse et se pend. Sémiramis épouse alors Ninus. À sa demande il lui cède ensuite le pouvoir. Gilbert construit donc sa *Sémiramis* principalement autour de cette version de son histoire, tout en y apportant quelques modifications. Desfontaines s'inspire aussi de Diodore de Sicile mais il ne prend en compte que la deuxième partie de l'histoire de Sémiramis, dans *La Véritable Sémiramis*, la reine épouse le roi d'Assyrie après qu'il ait vaincu et tué son père, le roi d'Ascalon. Ninus est donc le premier mari de la princesse. L'auteur trouve le cœur de son intrigue chez Justin [73] qui évoque le désir incestueux de Sémiramis pour son fils qui l'assassina. La *Sémiramis* de Gilbert est donc plus fidèle au récit historique de la vie de Sémiramis, que celle de Desfontaines qui mêle différentes sources. Néanmoins le thème choisi par Desfontaines connaîtra une certaine postérité puisque Crébillon et Voltaire s'en inspireront pour écrire leur *Sémiramis* respectivement en 1717 et 1749.
 
 Néanmoins, le point commun de l'intrigue de ces deux pièces : l'assassinat de Ninus par Sémiramis pour assouvir son désir de vengeance, n'est présent chez aucuns historiens. En effet, pour Diodore et Justin, il succombe à une mort naturelle. De plus, aucun de ces deux auteurs ne met en scène Ninyas, le fils de Ninus et Sémiramis, qui succèdera à cette dernière. Ces deux tragédies ont donc pour principal « moteur » le désir de vengeance de Sémiramis, invention qui leur est propre.
 
 
-### La construction de l'intrigue
+### La construction de l'intrigue.
 
 Ces deux pièces sont rivales mais la différence de leur intrigue principale ne crée pas une rivalité frontale, puisqu'elles traitent certes d'un même sujet mais de façon presque complémentaires. Gilbert construit ainsi son intrigue autour de la vengeance de Sémiramis qui tue Ninus car il a causé la mort de son premier mari, Ménon [74]. Tandis que Desfontaines mêle deux intrigues, l'accession au pouvoir de Sémiramis et son conflit avec son fils. En combinant ces deux épisodes très éloignés historiquement, il ramène à une seule journée les quarante-deux ans de règne de Sémiramis [75]. Une partie de l'intrigue de ces deux pièces est néanmoins similaire. Sémiramis demande à Ninus de lui céder le pouvoir, ce qu'il accepte facilement. Elle est donc sacrée reine et devant les princes du royaume, elle demande que Ninus soit tué pour ses meurtres et pour lui avoir aussi facilement céder le pouvoir. Cette scène ouvre le troisième acte chez Desfontaines tandis qu'elle apparaît au début de l'acte V chez Gilbert.
 *Sémiramis*, Gilbert (V,2) | *La Véritable Sémiramis*, Desfontaines (III,1)
@@ -491,7 +491,7 @@ Ces deux pièces contiennent donc des scènes communes mais le motif de la venge
 Ce tableau montre bien que si une partie de l'intrigue est commune aux deux pièces, les auteurs en font toutefois un traitement différent.
 
 
-### Deux visions contraires de Sémiramis et de Ninus
+### Deux visions contraires de Sémiramis et de Ninus.
 
 Au niveau du traitement des personnages, la différence la plus flagrante entre les deux pièces rivales est celle de Sémiramis. Ainsi, chez Gilbert elle est une héroïne qui venge l'honneur de son mari en tuant celui qui a provoqué son suicide tandis que chez Desfontaines c'est une reine qui abuse du pouvoir pour forcer un homme à l'épouser alors qu'il en aime une autre. Elle agit donc de façon tyrannique et elle n'hésite pas à tuer un innocent, Ninus, pour arriver à ses fins. La pièce se clôture avec sa déchéance lorsqu'elle découvre que Melistrate est en fait son fils. Le personnage de Ninus est traité de façon inverse, en effet, chez Gilbert, il est celui qui agit de façon tyrannique pour conquérir une femme qui en aime un autre. Tandis que chez Desfontaines, il est une victime innocente sacrifiée à la passion destructrice de son épouse. Ce renversement dans le traitement des personnages est très intéressant, en effet le Ninus de Gilbert agit comme un miroir de la Sémiramis de Desfontaines en tant que souverain tyrannique [76]. Leurs réactions face au refus de l'être aimé, Melistrate ou Sémiramis, de l'aimer en retour sont ainsi similaires :
 *Sémiramis*, Gilbert (II,2) | *La Véritable Sémiramis*, Desfontaines (IV,5)
@@ -502,7 +502,7 @@ NINUS (à Sémiramis). A mon ardent desir vous ostez l'esperance, Et traitez un 
 Nous constatons que ces deux personnages mettent en avant leur pouvoir de souverain afin d'obtenir ce qu'ils désirent, sur le plan personnel. Ils deviennent ainsi des tyrans, méprisant le bien de l'Etat pour satisfaire leurs propres désirs. Le traitement du personnage de Sémiramis est donc bien opposé et ces deux pièces peuvent donc être considérées comme complémentaires car elles offrent deux visions antithétiques de cette reine de légende.
 
 
-### Des dénouements différents
+### Des dénouements différents.
 
 Nous avons déjà conclu que le traitement opposé du personnage de Sémiramis menait à des dénouements totalement différents. Ainsi, nous pouvons analyser en détail la dernière vision que Gilbert et Desfontaines nous laissent de Sémiramis. La dernière scène de la *Sémiramis* nous montre ainsi une reine triomphante, qui a fait tuer ses deux ennemis, Ninus et Sosarme et qui s'apprête donc à gouverner seule. Tandis que *La Véritable Sémiramis* se conclut par la déchéance de Sémiramis, seule responsable de ses malheurs, qui a fait tuer un innocent pour assouvir sa passion qui se révèle incestueuse. Elle souhaite donc mourir.
 *Sémiramis*, Gilbert (V,4) | *La Véritable Sémiramis*, Desfontaines (V,3)
@@ -513,13 +513,13 @@ SEMIRAMIS. Ménon mort m'est encor plus cher que cet honneur, Mais montrons un c
 Ces dénouements sont emblématiques du traitement opposé de l'histoire de Sémiramis dans ces deux pièces. L'image finale de la souveraine est soit celle d'une reine triomphante chez Gilbert, soit celle d'une femme déchue chez Desfontaines. Cette opposition montre bien l'ambivalence du personnage de Sémiramis dont nous ne connaissons finalement que peu la vraie histoire et qui devient ici un personnage de légende qui connaît différents sorts.
 
 
-# Étude des personnages
+# Étude des personnages.
 
 
-## Le système des personnages
+## Le système des personnages.
 
 
-### Ninus et Melistrate : des rôles complémentaires
+### Ninus et Melistrate : des rôles complémentaires.
 
 Les rôles de Ninus et de Melistrate sont traités de façon complémentaire [77] par Desfontaines, ainsi le roi apparaît deux fois dans la pièce (I,3 et III,1) tandis que le jeune chevalier ne fait son entrée qu'au début du quatrième acte [78]. Ils ne se croisent donc jamais sur scène et ce pour de bonnes raisons car Ninus est assassiné par Merzabane à la fin du troisième acte et Melistrate rentre d'une bataille au début de l'acte IV. Ces deux rôles sont ainsi complémentaires car ces deux personnages sont liés par des intrigues amoureuses à Sémiramis. Ninus est son époux et Melistrate celui qu'elle souhaite épouser. Ils représentent donc les deux parties de l'intrigue : la vengeance de la reine puis sa punition avec la révélation de la véritable identité de Melistrate.
 
@@ -540,14 +540,14 @@ Le héros classique est jeune ; il est beau, cela va sans dire ; … le héros
 La jeunesse de Melistrate est attestée notamment par le propos de Sémiramis qui le nomme « jeune Heros » (v.470) et qui met souvent en avant son jeune âge. Il est également un soldat courageux, de nombreux adjectifs mettent ainsi en avant sa valeur guerrière. Son « courage » est loué à de nombreuses reprises notamment par Sémiramis et Prazimène. Sa valeur militaire est aussi décrite, il est présenté comme un « vainqueur » dès le troisième vers de la pièce. Il est également souvent comparé à Mars, le dieu de la guerre : « Et l'ayant pris pour Mars sous l'armet » (v.159). Le courage de Melistrate est donc attesté, il s'agit même de sa principale qualité. Il est également malheureux, en effet, Sémiramis l'empêche d'épouser Prazimène. Enfin, la pièce nous propose un retournement de situation intéressant au sujet de la noblesse de Melistrate. En effet, dans la scène d'ouverture, Merzabane nous le présente comme un « simple soldat » (v.40) qui ne peut pas prétendre à épouser Prazimène. Sémiramis utilise d'ailleurs cet argument pour convaincre la princesse que Melistrate n'est pas digne d'elle. Le roman *La Prazimène* présente également Melistrate comme un « chevalier inconnu » dont personne ne connaît l'origine ou l'identité. Néanmoins, la scène de révélation finale nous apprend que Melistrate est le fils de Ninus et de Sémiramis et qu'il est donc de naissance royale. Il remplit donc toutes les caractéristiques d'un héros de tragédie.
 
 
-### Sémiramis et Melistrate : l'attente d'une confrontation
+### Sémiramis et Melistrate : l'attente d'une confrontation.
 
 Nous ne reviendrons pas sur l'analyse du rôle de Sémiramis que nous avons déjà étudié lors de la comparaison avec le roman de Le Maire *La Prazimène* et de la confrontation avec le personnage de Ninus, le souverain tyrannique de la* Sémiramis* de Gilbert. Nous nous intéresserons ici à la relation scénique de Sémiramis et de Melistrate, les deux principaux personnages de cette pièce qui ne se croisent finalement sur le théâtre que dans la dernière scène. Certes, Sémiramis a vu Melistrate avant le début de la pièce car elle est tombée sous son charme mais à partir du moment où la représentation commence, leurs rapports ne sont basés que sur des propos rapportés par d'autres personnages. Ainsi, dans la scène d'ouverture, Merzabane apprend à Sémiramis que Melistrate aime Prazimène, ce qu'elle ignore comme le montre le premier vers de la pièce : « Melistrate amoureux ? ah! je ne le puis croire ». Cette incrédulité de Sémiramis va se changer en désir de vengeance lorsqu'elle apprend qu'il en aime une autre qu'elle. En effet, elle expliquait son dédain par l'orgueil de Melistrate et son incapacité à aimer, mais lorsqu'elle comprend que ce refus est en fait lié à sa personne, puisqu'il en aime une autre, elle entreprend de le faire changer d'avis. Les prises de paroles de Sémiramis illustrent ce changement puisque lorsqu'elle apprend qu'il aime, elle pense qu'il est amoureux d'elle : « M'aimeroit-il ? ô Dieux ! » (v.41) et elle se montre incrédule devant les affirmations de Merzabane : « Parle donc ? car ce bruit peut estre une imposture » (v.73). Lorsqu'elle comprend la vérité, Sémiramis décide alors de tout faire pour séduire Melistrate. Etant donné que ce dernier n'est pas au palais, elle s'attaque donc à son amante, Prazimène (II,1). Elle lui montre la lettre volée pour la persuader que Melistrate l'a trahie et elle lui suggère même d'épouser Oronclide pour le punir mais son plan est déjoué par l'arrivée de Palmedon qui révèle la vérité à la princesse. Melistrate étant absent, elle tente d'influer sur sa décision par des biais détournés. Les paroles du héros lui sont parfois directement rapportées comme à la cinquième scène de l'acte IV, où Oronclide lui rapporte son refus de l'épouser. La reine le condamne alors à mourir pour son ingratitude (v.1435) mais la révélation finale sauvera le héros. Tout au long de la pièce, Sémiramis est donc tributaire des autres personnages dans son entreprise de séduction de Melistrate et le revirement d'Oronclide qui devient ainsi allié du chevalier, met à mal ses desseins.
 
 L'entrée en scène de Melistrate, à la première scène de l'acte IV, donne l'occasion au chevalier d'exprimer la haine qu'il éprouve pour Sémiramis. Il l'appelle ainsi par toute sorte de noms négatifs comme « cette perfide » (v.1160), « l'ingratte » (v.1165) et « horrible furie » (v.1259). Mais une nouvelle fois, il s'adresse ici à un autre personnage, Oronclide, et non à l'intéressée. La rencontre n'aura finalement lieu qu'à la dernière scène de la pièce, ce qui crée donc une certaine tension dramatique. De plus, ils ne se rencontrent que lorsque l'action est dénouée, il n'est plus question pour Sémiramis d'essayer de contraindre Melistrate à l'aimer. La confrontation est donc décevante puisque la reine demande désormais à Melistrate de lui donner la mort et non de l'aimer. Toutes ces discussions interposées ne mènent donc finalement qu'à deux échanges de répliques.
 
 
-### Merzabane et Palmedon : les confidents
+### Merzabane et Palmedon : les confidents.
 
 L'analyse des rôles de Sémiramis et de Melistrate doit être complétée par celle de leur confident respectif, Merzabane et Palmedon. Ainsi, ces deux personnages ont pour principal point commun de faire des récits sur ce que leur maître ignore. Merzabane apprend à Sémiramis l'amour de Melistrate pour Prazimène, il lui apprend aussi comment s'est déroulé la bataille de Legerde (I,1) et le meurtre de Ninus (IV,4). Tandis que Palmedon apprend à Melistrate la blessure qu'a infligé Oronclide à Merzabane (V,1), il défend également le chevalier en apprenant la vérité de ses sentiments à Prazimène (II,5). Palmedon a un rôle assez limité étant donné qu'il n'apparaît que dans quatre scènes [80] tandis que Merzabane a lui un rôle assez important. En effet, il est le véritable « bouc émissaire [81] » de la pièce, il motive ainsi sans le savoir le désir incestueux de Sémiramis en lui révélant dans la première scène l'amour de Melistrate pour Prazimène. Il souhaite à ce moment-là que Sémiramis force Prazimène à épouser celui qui est son prétendu fils, Oronclide, et il n'a aucune idée de la vraie nature des sentiments de Sémiramis. En effet, il sait que Melistrate est son fils, puisqu'il est responsable de la substitution d'enfant. En volant la lettre d'amour à Melistrate et en la présentant à Sémiramis, il donne donc l'impulsion à la reine qui s'était résignée d'être un jour aimée en retour par ce chevalier. Il est celui qui assassine Ninus, sur ordre de la reine, non sans avoir tenté d'avertir le roi en demandant de ne pas subir le règne de Sémiramis mais Ninus l'oblige à rester, signant ainsi sa mort. Dans un aparté, Merzabane rejette ainsi la responsabilité de ce meurtre :
 
@@ -558,23 +558,23 @@ Ne sera que l'effet de ton commandement (III, 1 v.932-935).
 Il se fait ensuite l'avocat de Sémiramis auprès des princes en leur expliquant qu'ils doivent être favorable à la mort de Ninus et il parvient à les convaincre (III,3). Merzabane cesse toutefois d'être loyal envers Sémiramis lorsqu'elle lui demande de tuer Oronclide (IV,5). En voulant le faire s'évader, Oronclide le blesse ce qui déclenche la double révélation du confident. Ainsi, ce rôle de « bouc émissaire » prend véritablement tout son sens à l'avant-dernière scène où Merzabane avoue à la reine une double substitution d'enfants, celle d'Oronclide et de Melistrate. Le confident sort donc pour mourir et il laisse sa complice seule face à l'atrocité de ses crimes. Cette révélation finale invite à reconsidérer quelque peu la vision que nous avons de Sémiramis, en effet, Merzabane est sans doute plus coupable qu'elle car il l'aide à accomplir son dessein tout en sachant que ce qu'elle désire lui est interdit, car Melistrate est son fils. Contrairement à Palmedon qui œuvre toujours suivant les intérêts de Melistrate, Merzabane est un confident fourbe qui tente de garder les faveurs de sa reine tout en sachant qu'il est le responsable initial des crimes qu'elle commet.
 
 
-### Prazimène et Oronclide : les personnages secondaires
+### Prazimène et Oronclide : les personnages secondaires.
 
 Prazimène et Oronclide ont des rôles secondaires dans l'intrigue de la pièce, ils ont pour unique fonction d'être les alliés de Melistrate. Ainsi, Prazimène n'intervient que pour affirmer son amour pour Melistrate. À l'acte II, Sémiramis tente bien de la convaincre que son amant l'a trahi mais elle décide de ne pas la croire, grâce à l'intervention de Palmedon : « Tu me rends, Palmedon, & la vie & l'amour. » (II,5 v.786). Elle revient sur le théâtre pour défendre une nouvelle fois Melistrate en tentant de tuer Oronclide mais cela se solde par un échec étant donné qu'elle se trompe et blesse son amant (IV,3). Ce quiproquo provoquera le revirement d'Oronclide, qui d'ennemi deviendra l'allié du couple. Enfin, elle est présente lors du dénouement où elle ne prononce que quatre répliques, extrêmement courtes : « Bons Dieux ! » (v.1685), «Sans toy, ses actions le faisoient assez voir » (v.1686), « O Ciel ! qui croira ce miracle ? » (v.1756) et « Seigneurs… » (v.1839). Ces répliques ne font en rien avancer l'action et plus généralement, le rôle de Prazimène se limite bien à celui de jeune première. Le rôle d'Oronclide est lui aussi secondaire, ainsi, il est allié de Sémiramis lorsqu'il tente de convaincre Melistrate de l'aimer (IV,1) puis après la tentative d'assassinat ratée de Prazimène, il devient l'allié de ce couple et il renonce donc à épouser la princesse. Nous reviendrons plus particulièrement sur la relation de Melistrate et d'Oronclide dans la dernière partie de cette introduction.
 
 
-## *Elocutio* : les types de discours
+## *Elocutio* : les types de discours.
 
 
-### Répartition de la parole
+### Répartition de la parole.
 
 Les prises de parole sont très inégales dans la pièce [82]. Sémiramis est ainsi le personnage qui s'exprime le plus, sur les 1842 [83] vers que compte la pièce, 563 sont prononcés par la souveraine. Elle s'exprime majoritairement dans le premier et le deuxième acte, ce qui correspond au moment où elle met en place sa machination visant Ninus et Melistrate. Le troisième acte est majoritairement pris en charge par Ninus qui fait un long discours lors du sacre de Sémiramis. Ce personnage ne prononce d'ailleurs que 172 vers dans toute la pièce et il ne parle qu'à deux reprises, ce qui prouve qu'il est traité comme un personnage secondaire. Merzabane est le deuxième personnage qui prend le plus parole, il prononce 353 vers. Il parle principalement pendant le premier acte. Cette prise de parole s'explique par le fait que Merzabane fonctionne en duo avec Sémiramis, il est son confident et il est donc souvent là pour dialoguer avec la reine. Prazimène et Melistrate prononcent chacun à peu près 200 vers mais pas au même moment. Ainsi, Prazimène prend surtout la parole au deuxième acte, lorsqu'elle se retrouve confrontée à Sémiramis tandis que Melistrate parle davantage lors de son entrée à l'acte IV. Oronclide s'illustre également dans des prises de paroles importantes au quatrième acte, il prononcera 178 vers dans la pièce. Palmedon, quant à lui, prend la parole principalement au dernier acte, pour conseiller Melistrate. Il prononce 166 vers. Enfin, Zénophire et Cambises, présents seulement aux trois premières scènes de l'acte III, prononcent respectivement sept et deux vers. Leur rôle est donc purement « décoratif », ils ne sont présents que lors de la scène du sacre de Sémiramis. La répartition de la parole dans la pièce est donc très inégale.
 
 
-### Type de discours
+### Type de discours.
 
 
-#### Les monologues
+#### Les monologues.
 
 *La Véritable Sémiramis* contient cinq monologues dont trois sont réellement développés. Le premier est celui de Sémiramis où elle exprime sa volonté de tuer Ninus pour épouser Melistrate (I,2). Elle est décidée et ne doute pas de la décision à prendre, ce monologue a pour fonction d'informer les spectateurs du désir de vengeance de Sémiramis et des reproches qu'elle fait à Ninus, il suit ainsi la scène d'exposition. Il s'apparente à un réquisitoire contre le roi car tout est fait pour que sa mort soit justifiée et n'apparaisse pas comme un caprice de la reine pour en épouser un autre. Sémiramis utilise ainsi de nombreuses anaphores :
 
@@ -591,23 +591,23 @@ L'unique monologue de Prazimène est également intéressant car il s'agit d'un 
 Enfin, le personnage d'Oronclide a aussi un monologue, plus bref que les deux précédents mais qui exprime également ses doutes (IV,2). Il s'agit ainsi d'un monologue délibératif, car après avoir essayé de convaincre Melistrate d'aimer Sémiramis, Oronclide éprouve des remords car il sait que Melistrate est innocent et vertueux. Il commence ainsi par une gradation « O Fureurs ! ô désirs ! ô pouvoir d'une Reyne ! » (v.1271) qui montre l'obstacle qu'il rencontre. Ce monologue est bien délibératif car Oronclide s'adresse à lui-même « ah lâche ! quoy, veux-tu / Te détruire toy-mesme, & trahir ta vertu ? » (v.1273-1274). Il y a donc deux personnages en jeu : le lâche Oronclide qui suit les ordres de Sémiramis et le courageux Oronclide qui se révolte contre cette emprise. Ce monologue sert ainsi au prince à montrer que le choix de devenir l'allié de Melistrate est le meilleur qu'il puisse faire car il en sortira toujours un état positif : « Fay moy vivre equitable, ou mourir innocent. » (v.1278). Ici il ne s'agit pas d'un dilemme car, dans les deux cas, son honneur est préservé.
 
 
-#### Les récits
+#### Les récits.
 
 Les récits ont principalement deux fonctions dans les pièces de théâtre, soit celle de raconter des actions antérieures, soit d'évoquer des faits qui se sont passés derrière le théâtre car ils ne pouvaient pas se dérouler sur scène pour ne pas nuire à l'unité de lieu ou à la bienséance [86]. *La Véritable Sémiramis* contient ainsi plusieurs récits d'actions passées qu'un personnage apprend à un autre qui l'ignore. Ces récits sont en effet souvent demandés par un personnage comme par Sémiramis à Merzabane : « Parle donc, Merzabane, & m'apprends cette histoire ? » (v.133) ou « Mais dites-moy comment & quel fut vostre abord ? / Et de quel front enfin il a receu la mort. » (v.1303-1394). Certains récits d'actions antérieures sont donc nécessaires à l'avancée de l'action comme celui de la bataille de Legerde par Merzabane à l'acte I, scène 1 ou le récit final de Merzabane, qui avoue avoir effectué des substitutions d'enfants (V,2). Nous avons étudié précédemment que les récits peuvent aussi être motivés par une volonté de respecter l'exigence de bienséance. Ainsi, l'assassinat de Ninus par Merzabane et la blessure de ce dernier par Oronclide font l'objet de récits postérieurs car ils ne peuvent prendre place sur le théâtre.
 
 
-#### Le dialogue amoureux
+#### Le dialogue amoureux.
 
 Il est intéressant de constater que cette tragédie ne comporte presque aucun dialogue amoureux. En effet, Ninus parle bien amoureusement à Sémiramis (I,3) mais cette dernière ne lui répond qu'en feignant de l'aimer, cela ne peut donc être considéré comme une déclaration d'amour véritable. Les jeunes premiers Melistrate et Prazimène ne se trouvent ainsi qu'une seule fois ensemble sur le théâtre, exception faite du dénouement. À la troisième scène de l'acte IV, lorsque la princesse blesse Melistrate par erreur. Les deux amants ont alors un court dialogue, où figurent tous les* topoï* du dialogue amoureux. Par exemple, celui des yeux qui peuvent être meurtriers : « Pour me percer le cœur, il suffit de vos yeux » (v.1307). Mais cette déclaration d'amour mutuel, la première que ces personnages s'adressent, est liée à l'omniprésence de la mort. Ainsi, Prazimène jure à Melistrate qu'elle serait morte aussi si elle l'avait tué : « Et que dans le tombeau je vous aurois suivy, / Si le jour, par ma main, vous eut esté ravy » (v.1318-1319) et « Vous mourrez, dites-vous, & par la main d'un autre ? / Elle confondra donc mon sang avec le vostre » (v.1344-1345). Ce dialogue est également l'occasion pour les amants d'évoquer Sémiramis qui est le principal obstacle à leur amour. Finalement, ce dialogue a avant tout pour fonction d'informer Prazimène que Sémiramis veut aussi la mort de Melistrate et cette scène provoque également le revirement d'Oronclide, qui choisira de s'allier aux deux amants.
 
 
-# Étude thématique
+# Étude thématique.
 
 
-## Une tragédie de la vengeance 
+## Une tragédie de la vengeance .
 
 
-### La mise en scène des passions
+### La mise en scène des passions.
 
 Les personnages de *La Véritable Sémiramis* sont animés par de nombreuses passions comme l'amour, la haine, l'orgueil, la colère, la pitié ou encore l'ambition [87]. La reine est ainsi aveuglée par son désir amoureux pour Melistrate. L'image d'un « désir aveugle» est utilisée à de nombreuses reprises dans le texte, comme au vers 424. Elle fait référence au mythe de Cupidon, le dieu de l'Amour, souvent représenté comme un enfant aveugle. Plus généralement, les passions aveuglent les personnages qui ne se considèrent alors plus comme responsables de leurs propres actions qu'ils imputent à une force supérieure. Par exemple, Oronclide explique qu'il a d'abord choisi le parti de Sémiramis car il s'est laissé séduire par l'ambition : « L'ambition d'abord avec son poison, / Avoit trompé mes sens, & seduit ma raison » (v.1361-1362). Sémiramis exprime également ce sentiment d'être entraînée par des forces supérieures dans sa longue tirade à la scène 5 de l'acte IV. Lorsqu'un personnage est en proie à ses passions, son discours doit montrer le désordre verbal que crée la passion tout en étant compréhensible. Ainsi, pour montrer cette confusion, l'auteur utilise des figures comme « l'apostrophe, l'interrogation et l'exclamation, et plus exactement l'accumulation d'interrogations, entrelacées avec des exclamations et des apostrophes [88] ». Cette tirade de Sémiramis mêle bien ces différentes figures car elle invoque ses passions en mêlant les interrogations et les exclamations :
 
@@ -618,7 +618,7 @@ Où me reduisez-vous, imperieuse flâme ? (v.1437-1439).
 Elle semble être esclave de ses passions et ne plus savoir comment elle doit agir. Elle décide ainsi de tuer Melistrate pour le punir de son mépris tout en continuant à l'aimer : « Si Melistrate meurt, que deviendra mon ame ? » (v.1440). *La Véritable Sémiramis* nous montre donc bien une reine soumise à ses passions et lors du dénouement Sémiramis comprend ainsi son aveuglement : « Brillante illusion, precieuse fumée, / Dont ce matin encor mon ame estoit charmée » (v.1827-1828). Son désir amoureux pour Melistrate ne peut se réaliser et les révélations de Merzabane provoquent donc la chute de la reine.
 
 
-### Le désir de vengeance
+### Le désir de vengeance.
 
 La passion vindicative de Sémiramis est une des composantes majeures de la pièce et cette volonté de vengeance s'inscrit dans la tradition de la loi du talion. En effet, la reine ne veut pas que sa vengeance excède le crime commis, Ninus a tué son père, elle souhaite donc qu'il périsse aussi : « … je vay par ta mort remonter à mon rang, / Donner teste pour teste, & le sang pour le sang. » (v.247-248). Le désir de vengeance de Sémiramis semble donc être mesuré et répondre à une logique d'équilibre. Elle la présente ainsi comme un projet juste : « Une si raisonnable & si noble vengeance. » (v.1000). Néanmoins, Sémiramis est la seule à évoquer ce meurtre qu'aurait commis Ninus et nous avons vu précédemment qu'elle agit avant tout pour satisfaire son désir d'épouser Melistrate. La passion amoureuse provoque donc ce désir de vengeance :
 
@@ -631,10 +631,10 @@ La passion vindicative et la passion amoureuse sont donc liées et elles poussen
 La pièce finit par une autre incitation à la vengeance. En effet, Merzabane et même Sémiramis encouragent Oronclide et Melistrate à venger leur père en tuant ses meurtriers : « Vengez la mort d'un Pere, & reprennez son rang » (v.1794). Mais, contrairement à la reine et à son confident, les deux frères ne se vengeront pas. Merzabane sort ainsi du théâtre pour mourir à cause de la blessure que lui a infligé Oronclide, mais il ne connaissait pas alors le meurtre que le conseiller avait commis. Tandis que Melistrate refuse de tuer Sémiramis comme elle le lui demande pourtant : « Frappez, vous sçavez bien le chemin de mon cœur » (v.1806). Ce refus de la vengeance immédiate met en avant l'honneur des héros qui n'agissent pas comme de vils meurtriers.
 
 
-## Une réflexion sur l'exercice du pouvoir
+## Une réflexion sur l'exercice du pouvoir.
 
 
-### Le régicide au théâtre
+### Le régicide au théâtre.
 
 Entre 1643 et 1651, dix-huit tragédies sont publiées dans lesquelles un souverain est assassiné [89]. La *Sémiramis* de Gilbert et *La Véritable Sémiramis* en font évidemment partie. Ce meurtre ne peut avoir lieu sur le théâtre car la bienséance doit être respectée. Cet assassinat doit aussi être justifié, le plus souvent le souverain doit avoir commis une faute grave sur le plan moral dont la responsabilité se répercute sur le plan politique [90]. Ainsi dans *La Véritable Sémiramis*, la culpabilité de Ninus n'est pas aussi clairement affirmée. En effet, lorsque Sémiramis fait part aux princes du royaume de sa volonté de tuer Ninus, elle dresse le portrait d'un « tyran » (v.989) qui doit donc mourir. Son argument principal repose sur le fait que Ninus est un « usurpateur » (v.983) qui ne mérite pas de régner car il a volé le trône de son père en l'assassinant. Elle veut donc qu'il meure pour venger son père. Nous avons vu précédemment que ces arguments sont fortement discutables car Sémiramis est la seule à comparer Ninus à un tyran. Elle lui reproche également de lui avoir cédé le pouvoir, ce qui est hautement paradoxal car c'est elle qui lui a demandé d'agir ainsi. Mais il est vrai qu'en cédant le pouvoir, Ninus n'agit pas comme un souverain qui doit assumer ses responsabilités et ne pas céder le pouvoir aussi aisément. La reine qualifie ainsi son acte de « tort qu'on vient de faire au sacré rang des Roys » (v.970). Néanmoins, tous les conseillers la craignent et ils approuvent donc son choix. Le roi doit donc mourir pour permettre au royaume d'être en paix comme le dit Merzabane : « Le trépas de Ninus, est le bien de l'Estat » (v.1053) et il le nomme « Victime infortunée, & d'Estat & d'Amour » (v.1078). Il apparaît donc que Ninus ne mérite pas de mourir, ce régicide n'est donc nullement motivé par une faute morale qui aurait transformé le souverain en tyran sur le plan politique. Ici le motif est d'ordre privé car si Sémiramis souhaite se débarrasser de son mari, c'est avant tout pour pouvoir épouser Melistrate et lui offrir le trône. Elle ne peut évidemment pas exposer cette raison aux princes du royaume et c'est pour cela qu'elle met en avant la faute politique qu'a commise Ninus en acceptant de lui céder le pouvoir. Le seul tort de ce roi est donc de s'être laissé aveuglé par ses sentiments amoureux.
 
@@ -650,7 +650,7 @@ Ces vers mettent ainsi en valeur l'opposition entre le meurtrier et la victime. 
 Enfin, il nous faut tout de même relever que l'assassinat de Ninus n'est pas « techniquement » un régicide. En effet, Ninus meurt alors qu'il a cédé le pouvoir à Sémiramis pour une durée de trois jours, il n'est donc plus souverain et il se considère lui-même comme un sujet : « Et luy cedans les droicts de ma toute-puissance, / Rendons luy le premier entiere obeïssance » (v.879-880). Une nouvelle fois, le verbe obéir est utilisé, qui montre ici que Ninus n'est plus roi et que Sémiramis est donc toute-puissante. De plus, Merzabane dans son récit fait également cette distinction : « S'il vivoit en sujet, qu'il expiroit en Roy. » (v.1398). Ninus ne meurt donc pas en tant que roi comme l'a souligné Sémiramis qui l'a appellé « sujet coupable » (v.996). Mais cette distinction n'est finalement qu'anecdotique car Ninus meurt certes juste après avoir cédé le pouvoir mais il ne fait cet acte que pour une durée de trois jours, il est donc appelé à reprendre ses fonctions de souverain.
 
 
-### L'honneur et la vertu
+### L'honneur et la vertu.
 
 Le régicide de Ninus ordonné par une reine tyrannique amène à réfléchir à la question de savoir ce qui fait un bon roi. Ainsi, *La Véritable Sémiramis* contient de nombreuses réflexions sur l'honneur. Ces deux mots sont, par ailleurs, très présents dans le texte. On trouve ainsi dix-sept occurrences du substantif « honneur », dix de « valeur » et vingt-trois de « vertu(s) » dans la pièce. Deux discours sur ce sujet sont notamment similaires, celui de Melistrate et de Prazimène. En effet, à la première scène de l'acte II, Sémiramis tente de détruire l'amour de la princesse pour Melistrate et elle lui explique ainsi qu'il n'est pas digne d'elle. Cette dernière réplique en louant la valeur guerrière de Melistrate qui fait de lui son égal : « Puis qu'il fait voir assez par ses nobles exploits, / S'il n'est du sang des Dieux, qu'il est du sang des Roy » (v.455-456). La princesse explique donc que selon elle Melistrate est son égal car possède toutes les qualités pour être le fils d'un roi. Ce qui esquisse déjà le dénouement de la pièce et la révélation finale. Cette réflexion mène Prazimène à se demander ce qui fait un bon roi et elle conclut sur la primauté de la vertu : « Mais il faut advoüer, quelque erreur qu'on ait eu, / Que ce qui fait les Roys, est la seule vertu. » (v.459-460). Melistrate dit la même chose à Oronclide lorsqu'il décline le trône que lui offre Sémiramis : « C'est la vertu qui fait les Maistres de la terre » (IV,1 v.1191). Tous deux critiquent ainsi l'apparat de la fonction royale qui ne suffit pas à donner au souverain sa légitimité : « Et ce faste orgueilleux, où l'on croit tant d'appas, / Cache seulement l'homme, & ne l'honnore pas » (v.1189-1190). *La Véritable Sémiramis* contient donc une réelle réflexion sur la nature d'un bon souverain, la critique de Melistrate est ainsi importante car elle survient après qu'il ait appris les crimes de Sémiramis. Nous pouvons ainsi voir une référence à la souveraine dans les derniers vers de sa tirade, il explique que sans la vertu :
 
@@ -662,15 +662,15 @@ Il porte une Couronne, & n'est pas couronné. (v.1195-1199)
 Il semble ainsi parler directement de Sémiramis qui gouverne par la crainte et non par le respect. La paronomase entre « corps orné » et « couronné » est particulièrement frappante. Celui qui gouverne sans vertu, n'est ainsi pas réellement roi. Il a certes accaparé la couronne mais il ne possède aucune qualité morale pour être réellement souverain. Melistrate continue ensuite sa critique en expliquant à Oronclide que celui qui prend le pouvoir sans le mériter court à sa propre perte : « Le Trône qu'établit le crime ou l'injustice, / A ses usurpateurs n'est qu'un grand precipice » (v.1207-1208). Ces vers prennent une dimension quasi prophétique lorsqu'on connaît la fin du court règne de Sémiramis, la référence au « crime » peut ainsi renvoyer au meurtre de Ninus. La rime entre « injustice » et « precipice » souligne de façon claire le lien de cause à effet entre la prise illégitime de pouvoir et la chute qui en résulte. La souveraine évoquera également les illusions que crée l'obtention du pouvoir et dont celui qui l'exerce fait toujours les frais : « Je vous quitte, grandeurs, presens empoisonnez, / Qui détruisez toûjours ceux que vous couronnez » (v.1829-1830). *La Véritable Sémiramis* contient donc bien une réflexion sur le bon exercice du pouvoir, notamment grâce à l'exemple du règne de Sémiramis.
 
 
-## L'amitié fraternelle
+## L'amitié fraternelle.
 
 
-### Une double reconnaissance
+### Une double reconnaissance.
 
 *La Véritable Sémiramis* contient une scène de double reconnaissance, ainsi à la scène 2 de l'acte V, Merzabane avoue qu'il a procédé à deux substitutions d'enfants et qu'Oronclide ainsi que Melistrate sont en fait les fils de Ninus. Merzabane explique ainsi ses deux ruses à Sémiramis. Oronclide est le fils de Ninus et de sa première épouse, « une jeune beauté » (v.1693), qui mourut en donnant la vie à leur premier fils. Alors, profitant de l'absence de Ninus qui était parti combattre, Merzabane a échangé son nouveau né contre l'héritier royal. Mais son fils décède et il élève donc Oronclide comme si c'était son propre enfant. Il enlèvera ensuite Melistrate lors de l'attaque de la ville par Thermodonte et il le fait élever par un complice. Cette situation est assez invraisemblable [91] car il semble peu probable que Merzabane ait pu ainsi enlever deux héritiers royaux. De plus, le fait d'enlever Melistrate pour le faire élever loin de la cour apparaît ne ressemble pas au conseiller, qui n'hésite pas à tuer comme nous l'avons vu lors de l'assassinat de Ninus. Cette double reconnaissance clôt ainsi la pièce et permet de dénouer l'intrigue. Sémiramis ne peut ainsi plus prétendre à un mariage avec Melistrate et ce dernier trouve un frère en Oronclide qui jadis était son rival.
 
 
-### Deux frères qui ignorent leurs liens
+### Deux frères qui ignorent leurs liens.
 
 Melistrate et Oronclide nouent une relation particulière dans la pièce, ils ignorent jusqu'au dénouement qu'ils sont demi-frères et pourtant ils sont prêts à mourir l'un pour l'autre. Cette amitié est encore plus surprenante qu'elle apparaît comme très soudaine car lors de la première scène de l'acte IV, Oronclide est encore l'allié de Sémiramis et il aime Prazimène tout comme Melistrate. Il deviendra l'allié des deux amants à la fin de la scène 3. Oronclide va ensuite rapporter le refus du chevalier à Sémiramis et il propose à la reine d'être puni à la place du fautif. Dans sa tirade, l'affection qu'il porte à Melistrate dépasse la simple amitié et ressemble davantage à des liens fraternels :
 
@@ -689,12 +689,12 @@ La valeur de Melistrate s'exprime à nouveau dans ses vers, il ne peut ainsi lai
 Enfin, la pièce se conclut sur une affirmation de l'amitié des deux frères. Les derniers vers sont ainsi fortement saccadés, ils commencent avec Prazimène qui appelle les deux frères « Seigneurs… » (v.1839). Melistrate lui répond : « Nous vous suivons ; Oronclide » et Oronclide termine le vers par : « Ah ! mon Frere ». Ce vers réunit ainsi les trois jeunes personnages pour qui le dénouement de la pièce est heureux. Le découpage du vers permet d'insérer trois appels, tout d'abord celui de Prazimène qui fait référence ainsi à la nouvelle condition de roi des deux frères puis Melistrate qui fait le lien entre celle qu'il aime en utilisant le pronom personnel « vous » et son frère grâce au pronom « nous » ainsi qu'à son nom. Les points de suspension montre ainsi le découpage de la réplique. Oronclide conclut en prononçant pour la première fois le mot « frère » qui symbolise le dénouement de la pièce. Ces trois personnages partent donc ensemble avec de nouvelles relations, ainsi Oronclide et Melistrate sont maintenant frères et ce dernier peut se marier avec Prazimène, puisque leur amour n'est plus mis en danger par Sémiramis.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 *La Véritable Sémiramis* de Desfontaines n'a connu qu'une seule édition, réalisée en 1647 à Paris par Pierre Lamy.
 
 
-## Description du volume
+## Description du volume.
 
 1 vol. in-4° de VIII – 95p.
 
@@ -711,12 +711,12 @@ VIII « Les Personnages »
 Pages 1 à 95 : Le texte de la pièce
 
 
-## Présentation de la page de titre
+## Présentation de la page de titre.
 
 LA / VERITABLE / SEMIRAMIS. / TRAGEDIE. / Par le Sieur DESFONTAINES. / fleuron du libraire / A PARIS, / Chez PIERRE LAMY, en la Grand Salle / du Palais, au ʃecond Pillier. / filet / M. DC. XXXXVII. / *Auec Priuilege du Roy.*
 
 
-## Liste des exemplaires
+## Liste des exemplaires.
 
 Les exemplaires connus de cette édition sont conservés à :
 
@@ -737,7 +737,7 @@ Les exemplaires connus de cette édition sont conservés à :
 Nous n'avons pas trouvé de traces de corrections sous presse lors de la consultation des exemplaires conservés à Paris.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Dans un souci de compréhension du texte, nous avons appliqué quelques corrections d'usage. Nous avons ainsi rétabli la distinction typographique entre le *i* et le *j*, ainsi qu'entre le *u* et le *v* qui n'existait pas dans le texte original. Nous avons aussi utilisé la graphie moderne de la lettre *s* qui est notée tout au long du texte de la façon suivante *ʃ*. Nous avons fait de même pour la graphie *ss* notée *β*. Nous avons aussi supprimé le tilde qui marquait parfois les voyelles nasalisées en rétablissant le groupe consonantique dans son intégralité (par exemple au vers 458, on trouve « grãdeurs » mis pour grandeurs). Nous avons également rétabli dans leur intégralité les mots comportant une abréviation lors des deux occurrences présentes dans le texte, *vo*9** (v.422) et *pl*9** (v.942), respectivement modifiées en *vous* et *plus*. Nous avons également replacé sur un même vers les mots coupés par souci de place et rétabli l'italique pour les didascalies.
 
@@ -750,7 +750,7 @@ De plus, nous n'avons pas rétabli de majuscule aux mots suivants un point d'int
 Enfin, tout au long du texte nous avons indiqué la pagination originale entre crochets à droite du texte mais nous n'avons pas recopié les réclames qui annoncent en bas de la dernière page d'un cahier, le premier mot de la page précédente.
 
 
-## Liste des corrections
+## Liste des corrections.
 
 Nous avons effectué des corrections diacritiques notamment pour distinguer la préposition « à » de l'auxiliaire avoir « a » et la conjonction de coordination « ou » de l'adverbe « où » comme par exemple aux vers 601 et 602 « *Songez-y Merzabane, où je vous feray voir* / *Qu'il faut donner le coup, ou bien le recevoir* », nous avons ici rétabli un « ou » conjonctif.
 
@@ -957,7 +957,7 @@ Fait qu'une ame y paroist sensiblement⁎ atteinte,
 Qui loin de soüpirer pour un objet⁎ parfait,  
 Quand elle feint⁎ d'aimer, hait souvent en effet [119].  
 
-     MERZABANE.
+    MERZABANE.
 Madame, je connois la Cour & ses adresses,  
 Je connois ses détours, & ses feintes⁎ caresses ;  
 Mais l'amour dont je parle à vostre Majesté,  
@@ -1013,7 +1013,7 @@ Ce fut un noble orgueil qui luy toucha le cœur,
 Et le mépris qu'il eut pour une illustre Dame,  
 Fit ce que n'avoit pû sa valeur ni sa flâme.  
 
-    SEMIRAMIS
+    SEMIRAMIS.
 C'est ce poinct que j'ignore, & que l'on m'avoit teu.  
 
     MERZABANE.
@@ -1081,7 +1081,7 @@ Vers l'objet⁎ sans lequel il ne vit qu'à regret.
 Prazimene apprend donc l'accident [142] qu'il annonce,  
 Escrit à Melistrate, & fait cette réponce.  
 
-    SEMIRAMIS *lit.*
+    SEMIRAMIS *lit.*.
 Melistrate vous avez tort,  
 D'écouter une injuste envie ;  
 Souvenez-vous que vostre mort,  
@@ -1089,7 +1089,7 @@ Doit estre la fin de ma vie ;
 Et que vouloir perdre le jour [143],  
 C'est attenter⁎ aux miens, & finir mon amour.  
 
-    PRAZIMENE. [144]
+    PRAZIMENE. [144].
 … Elle l'aime ? ô fatale avanture !  
 Je n'en sçaurois douter, voila son escriture.  
 Oüy, cette heureuse main sauva nostre vainqueur,  
@@ -1127,7 +1127,7 @@ C'est ce que je veux faire ; allez, qu'on se retire.
 
 ### SCENE II. 
 
-    SEMIRAMIS *seule.* 
+    SEMIRAMIS *seule.*.
 Il [148] suffit, je connais le charme qui l'attire ;  
 Et que sur ce grand cœur qui fait ma passion,  
 Prazimene peut moins, que son ambition.  
@@ -1468,7 +1468,7 @@ Quels effets ?
     SEMIRAMIS.
     Voyez-les.  
 
-    PRAZIMENE *reconnoissant la Lettre.*
+    PRAZIMENE *reconnoissant la Lettre.*.
         Ah, l'ingrat ! ah, le traistre !  
 Que voyez-vous, mes yeux ?  
 
@@ -1514,10 +1514,10 @@ Employer plus de temps, & plus de prevoyance,
 Et montrer desormais, que plus sage en amour,  
 Prazimene n'est pas la conqueste d'un jour.  
 
-    SEMIRAMIS. 
+    SEMIRAMIS.
 Vous y pourrez songer, allez.  
 
-    PRAZIMENE *s'en allant.*
+    PRAZIMENE *s'en allant.*.
         C'est mon envie :  
 Mais non, perdons plûtost l'esperance & la vie,  
 Et faisons par un coup aussi juste que beau,  
@@ -1526,7 +1526,7 @@ Qu'où l'Amour eu son Trône, il treuve son tombeau.
 
 ### SCENE II.
 
-    SEMIRAMIS *seule.*
+    SEMIRAMIS *seule.*.
 Tout répond à mes vœux ; le dépit & la haine,  
 Font d'étranges⁎ effets au cœur de Prazimene ;  
 Cette ruse subtile a rompu ses liens,  
@@ -1627,7 +1627,7 @@ Vous pourrez obeïr à mon commandement.
 
 ### SCENE IV.
 
-    PRAZIMENE *seule.*
+    PRAZIMENE *seule.*.
 
 Tyran des cœurs, Bourreau des Ames, [214]  
 Maistre des Humains, & des Dieux,  
@@ -1817,7 +1817,7 @@ Fin du Second Acte.
 NINUS, SEMIRAMIS, MERZABANE, ORONCLIDE, CAMBISES, ZENOPHIRE,& les Gardes.
 
 
-    NINUS *au Trône.*
+    NINUS *au Trône.*.
 Enfin voicy l'heureuse & celebre journée,  
 Que [237] la mesme vertu [238] se verra couronnée,  
 Et que le plus parfait des ouvrages des Cieux [239],  
@@ -1975,7 +1975,7 @@ Si tu viens à perir par mon obeïssance,
 Souvien-toy pour le moins que cet evenement,  
 Ne sera que l'effet de ton commandement.  
 
-    SEMIRAMIS *au Trône.*
+    SEMIRAMIS *au Trône.*.
 Princes, si j'ay receu ces adorables marques,  
 Qu'a remis en mes mains le plus grand des Monarques,  
 Ne vous figurez pas, qu'en cette occasion,  
@@ -1990,7 +1990,7 @@ Retirez-vous, Ninus, & comme mon sujet,
 Laissez-moy desormais achever mon projet ;  
 Vostre presence icy ne m'est plus necessaire.  
 
-    NINUS *s'en allant.*
+    NINUS *s'en allant.*.
 Il est de mon devoir d'obeïr, & me taire.  
 
     SEMIRAMIS.
@@ -2001,7 +2001,7 @@ Allez.
 SEMIRAMIS, CAMBISES, ZENOPHIRE, ORONCLIDE, MERZABANE, & les Gardes.
 
 
-    SEMIRAMIS *debout.*
+    SEMIRAMIS *debout.*.
         Dieux ! que feray-je ? & quel est mon dessein ?  
 Je tremble, je fremis, le cœur me bat au sein ;  
 Sur le poinct de parler, j'ouvre & ferme la bouche,  
@@ -2416,7 +2416,7 @@ Qui ne me soit plus douce & plus aimable⁎ qu'elle.
     ORONCLIDE.
 Gardes, qu'on le conduise à mon appartement.  
 
-    PALMEDON, *mettant la main sur son espée.*
+    PALMEDON, *mettant la main sur son espée.*.
 Ah ! Seigneur.  
 
     MELISTRATE.
@@ -2436,7 +2436,7 @@ Qu'on répande mon sang, sur celuy de mon Roy.
 
 ### SCENE II. 
 
-    ORONCLIDE *seul.*
+    ORONCLIDE *seul.*.
 O Fureurs ! ô desirs ! ô pouvoir d'une Reyne !  
 En cette occasion, que vostre ordre me gesne⁎ !  
 Détruire Melistrate ? ah lâche ! quoy, veux-tu  
@@ -2451,7 +2451,7 @@ Fay moy vivre equitable [285], ou, mourir innocent.
 MELISTRATE, ORONCLIDE, PRAZIMENE, PALMEDON,& les Gardes.
 
 
-    MELISTRATE *de derriere le Theatre.*
+    MELISTRATE *de derriere le Theatre.*.
 Ah !  
 
     ORONCLIDE.
@@ -2464,10 +2464,10 @@ Voilà ce qui t'est deu.
     ORONCLIDE.
     Qu'est-ce donc ?  
 
-    MELISTRATE. 
+    MELISTRATE.
         Oronclide.  
 
-    PRAZIMENE *regardant Melistrate.*
+    PRAZIMENE *regardant Melistrate.*.
 Justes Dieux ! qu'ay- je fait ?  
 
     MELISTRATE.
@@ -2599,7 +2599,7 @@ Oüy, je n'en doute plus, je vois sur ce visage,
 De vostre repentir un trop clair témoignage.  
 J'oy du bruit, c'est la Reyne.  
 
-    ORONCLIDE. 
+    ORONCLIDE.
         Ah ! sortons de ces lieux,  
 Il n'est pas temps encore de parestre à ses yeux ;  
 Sortons ; & vous verrez par un trait⁎ sans exemple [289],  
@@ -2698,7 +2698,7 @@ Que Melistrate est foible, & moy toute puissante ;
 Que tout me doit ceder, que mes vœux sont des Loix,  
 Qu'il n'est rien qu'un sujet, & moy Reyne des Roys.  
 
-    [ORONCLIDE.]  
+    [ORONCLIDE.]. 
 Ne diferez⁎ donc point, que vostre haine éclate,  
 En Oronclide icy vous trouvez Melistrate,  
 Son ame vit en moy, mon ame vit en luy,  
@@ -2838,7 +2838,7 @@ Il faut par mon retour dégager [306] sa parole ;
 Et bravant mes malheurs, comme nos ennemis,  
 Le tirer noblement des fers⁎ où je l'ay mis.  
 
-    PALMEDON.  
+    PALMEDON. 
 Dites que vous allez par des ardeurs si vaines⁎,  
 Vous perdre imprudemment & resserrer ses chaisnes :  
 Dites que par ce prompt & mal-heureux retour,  
@@ -3029,7 +3029,7 @@ Non.
     MERZABANE.
         Vous allez tout sçavoir.  
 
-    PRAZIMENE *à part.*
+    PRAZIMENE *à part.*.
 Sans toy, ses actions le faisoient assez voir.  
 
     MERZABANE.
@@ -3132,7 +3132,7 @@ Ce sacrifice enfin...
 MELISTRATE, SEMIRAMIS, PRAZIMENE, ORONCLIDE, & suitte.
 
 
-    MELISTRATE. 
+    MELISTRATE.
         Sera bien legitime ;  
 Qu'on appreste l'Autel, en voicy la victime,  
 Qui loin de faire effort à se justifier,  
@@ -3229,7 +3229,7 @@ Mesle confusément, & l'Amour & la Mort !
 FIN.
 
 
-# Lexique
+# Lexique.
 
 Les abréviations utilisées dans ce lexique et dans les notes du texte sont les suivantes :
 
@@ -3238,29 +3238,29 @@ Les abréviations utilisées dans ce lexique et dans les notes du texte sont les
 (A.) pour le *Dictionnaire de l'Académie française*, 1*re* édition, 1694Adveu« Protection ou consentement donné ». (F.)Épître, v. 51 et 242Aimable« Qui a des qualitez qui attirent l'amour, ou l'amitié de quelqu'un. » (F.) V. 519 et 1264AltierOrgueilleux, fier.V. 26 et 847Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. » (F.)V. 475, 1189 et 1365Auguste« Majestueux, vénérable, sacré. » (F.)V. 827, 1369 et 1399Arrest« Jugement ferme et stable d'une Puissance Souveraine. » (F.)V. 1251, 1442 et 1582Attentat« Outrage ou violence qu'on tâche de faire à qqn. » (F.)V. 39 et 1162Attenter« Tenter, ou entreprendre quelque chose pour nuire à quelqu'un, ou luy faire violence. » (F.)V. 196 et 864Azile« Se dit de tout lieu où l'on est en seureté. » (A.)V. 811 et 1644BornerLimiter, modérer.V. 4, 804 et 878Celer« Tenir quelque chose cachée, secrette, dissimuler. » (F.)V. 319 et 512CharmeSens particulier : « Ce qui se fait par art magique pour produire un effet extraordinaire ». (A.).V. 737, 1022, 1303 et 1356Charmé (participe) a le même sens au vers 1366.ChoquerHeurter, offenser, déplaire.V. 59, 920 et 1005CœurSens particulier de « Vigueur, force, courage, intrepidité. » (F.)V. 580, 598, 907, 942, 1012, 1528, 1652 et 1719Decouvrir« Déclarer ce qu'on tenoit secret, ce qu'on tenoit caché ». (F.)V. 49, 102, 222 et 1593Défier (se)« Se donner de garde de quelqu'un, ne se pas fier à ce qu'il dit, à ce qu'il fait paroître, parce qu'on le soupçonne de peu de fidélité, de peu de sincérité. » (A.) et vers 821 avec le sens usuel de « Provoquer quelqu'un au combat ». (A.)V. 318 et 821Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute ». (F.)V. 36, 231, 379, 986 et 1166Démentir« Nier la verité d'une chose. » (F.)V. 1528 et 1674Démentir (se)« Se relascher du bon estat où l'on estoit. » (A.)V. 147 et 1357Différer« Dilayer, retarder, remettre à un autre temps. » (A.)V. 1310, 1337, 1459, 1657 et 1803Ennuis« Fascherie, chagrin, deplaisir, souci. » (A.)V. 236 et 292ÉtonnementSens particulier : « Esbranlement, secousse ». (A) / EffroiV. 570ÉtonnerSens particulier de : « Esbranler, faire trembler par quelque grande, par quelque violente commotion. » (A.) Aussi au sens d'effrayer.V. 854, 959 et 1179Étonné (participe) a le même sens au vers 843.Étrange« Ce qui est surprenant, rare, extraordinaire. » (F.)V. 46, 473, 515, 554, 1015, 1200, 1560 et 1623Feinte« Desguisement, apparence, dissimulation. » (F.) V. 77, 82 et 1195Feindre« Tromper par l'apparence, faire semblant. » (F.)V. 80, 283, 662, 1103 et 1572Même sens pour l'adjectif « feinte » au vers 659.Fers (Au pluriel) Signifie « Des chaisnes, des menottes, &c ». (A.)V. 584, 1425, 1546, 1567 et 1778« Il se prend aussi fig. & poëtiquement pour L'estat de l'esclavage, & pour l'engagement dans une passion amoureuse. » (A.)V. 88, 636, 651 et 1807(Au singulier) « Se dit aussi quelquefois absolument d'une espée, et des armes. » (F.)V. 1124, 1290, 1310, 1600 et 1772Feu« Se dit poëtiquement pour signifier La passion de l'amour. » (A.)V. 52, 70, 88, 352, 445, 677, 1184, 1449 et 1745La Fortune« Ce qui arrive par hasard, qui est fortuit et impreveu. » (Fur). Dans ces trois occurrences, elle est personnifiée, c'est un équivalent du Sort.V. 13, 665 et 1711FortuneBonheur ou malheur, « tout ce qui peut arriver de bien ou de mal à un homme ». (A.)V. 619, 1464 et 1647Genereux« Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. » (F.)Épître, v. 122, 297, 1492, 1529 et 1677 Plus particulièrement il signifie : « Vaillant, hardi dans les combats ». (A.)V. 427, 809, 1039, 1121, 1237 et 1777Gesner« Tourmenter le corps ou l'esprit. » (F.)V. 1272Hazards« Peril, danger. » (F.)V. 11 et 822Hazarder« Risquer, mettre au hasard ». (F.)V. 182, 618, 621, 1324 et 1551Hymen, Hyménée« Signifie poëtiquement le mariage. » (F.)V. 1696 et 1798Inclination(s)« Affection, amour ». (A.)Épître, v. 45, 452 et 1721Insigne« Remarquable ». (F.)V. 746, 1328 et 1772Interdit(s)« Estonné, troublé, qui ne sçait ce qu'il fait, ce qu'il dit. » (A.)V. 168, 359, 972, 1013 et 1622Lauriers« Se dit figurément en Morale, pour signifier la gloire d'un triomphe, d'une conqueste. » (F.)V. 126, 268 et 1252Legeretez« Inconstance, instabilité ». (A.)V. 156 et 646LorsMis pour « alors ».V. 143, 151, 169, 337, 760, 1413, 1621 et 1687Objet« Ce qui touche, ce qui esmeut les sens par sa presence. Il se dit plus ordinairement par rapport au sens de la veuë. » (A.)V. 29, 829, 855, 877 et 1600« Il se prend aussi pour tout ce qui est consideré, comme la cause, le sujet, le motif d'un sentiment, d'une passion, d'une action. » (A.)V. 330, 353, 443, 624, 938, 988, 1262, 1449, 1454 et 1661« Il signifie poëtiquement, la personne qu'on aime. » (A.)V. 35, 72, 79, 168, 188, 497, 768 et 831Pourpre (substantif féminin)« Se dit figurément pour marquer la dignité d'un Roy, d'un Cardinal, d'un Senateur. » (F.)V. 1695 et 1713« Il se dit de cette teinture precieuse qui se tiroit autrefois d'un certain petit poisson à coquille nommé Pourpre, dont elle a pris le nom. » (A.)V. 1216 et 1217Au masculin : « Couleur, sorte de rouge foncé qui tire sur le violet. » (A.)V. 458Prodige« Effet surprenant qui arrive contre le cours ordinaire de la nature. » (A.)V. 419, 1015, 1485, 1671 et 1679Prodigieux« Qui tient du prodige. Il se dit en bien & en mal. » (A.) Ainsi au vers 890, il a un sens négatif.V. 352, 890 et 1017Prétendre« Demander une chose à laquelle on croit avoir droit. » (A.)V. 42, 1118 et 1331« Il signifie aussi simplement, Aspirer à une chose, & alors il est neutre. » (A.)V. 24, 232, 440 et 1696« Signifie quelquefois, vouloir ». (F.)V. 626Prospérités« Estat de celuy dont la personne et les affaires se portent bien. » (F.)Révérer« Avoir du respect, de la veneration pour quelque personne, ou quelque chose. » (F.)V. 832, 883 et 1497Sensible, sensiblement« Qui frappe les sens, qui se fait sentir. » (A.)V. 78, 316, 971 et 1011SoinsSens particulier : « Peine d'esprit, soucy. » (A.)V. 310Sort« Hazard, rencontre fortuite d'évenements bons ou mauvais. » (A.)V. 205, 1175 et 1177« La Destinée, dans le sens des Anciens : Et pour l'enchaisnement & la suite des bonnes ou mauvaises avantures des hommes. » (A.)V. 145, 1285, 1677 et 1719 « Se dit poëtiquement de la vie et de la fortune des hommes. » (F.)V. 1169, 1526 et 1825Souffrir« Sentir de la douleur, du mal, ou quelque incommodité considerable. » (F.)V. 1473 et 1738« Supporter ». (A.)V. 1582 et 1592« Tolerer, n'empescher pas, quoy qu'on le puisse ». (A.)V. 889, 1043 et 1232« Permettre ». (A.)V. 181, 395, 749, 1484 et 1762Superbe« Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy-même. » (F.)V. 3, 127, 479, 503, 519, 691, 862, 897, 1236 et 1249« Se dit aussi de ce qui marque la magnificence, la somptuosité. » (F.)V. 558, 791, 940 et 1187Témérité« Se dit d'une action hardie, insolente, inconsiderée ». (F.)V. 307 et 926« Se dit aussi par exaggeration en matiere de compliment. » (F.V. 885 Tenter« Entreprendre une chose hardie et dangereuse, voir si on y reüssira. » (F.)V. 600 et 822Trait(s)« Se dit figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour. » (F.)V. 448, 656, 1808 et 1812 « On dit, *Les traits de l'Amour*, Parce que les Poëtes & les Peintres ont accoustumé de representer l'Amour avec un arc & des fleches. » (A.)V. 8, 54, 144 et 637 « Fleche, dard, qui se tire avec un arc ou une arbaleste. » (A.)V. 652, 954, 1234 et 1345« Se dit des beaux endroits d'un discours, de ce qu'il y a de vif, & de brillant dans une pensée, dans une expression ». (A.)V. 360 et 708« Se dit aussi, Des lineaments du visage. » (A.)V. 817, 857, 1243 et 1313« Se dit aussi, d'Un bon ou mauvais office qu'on rend à quelqu'un. » (A.)V. 747 et 771« Se dit des actions qui ont quelque chose de singulier. » (A.)V. 1387Transports« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. » (F.)V. 27, 863 et 1523Vain(e)Sens particulier : « Orgueilleux, superbe ». (A.)V. 309, 1105, 1158, 1547
 
 
-# Annexe I : Sources antiques
+# Annexe I : Sources antiques.
 
 
-## Diodore de Sicile [330]
+## Diodore de Sicile [330].
 
 I.4 Autrefois, en Asie, il y avait des rois indigènes donc ni une action notable ni un nom ne restent en mémoire. Le premier que la tradition transmit à l'histoire et à la mémoire fut Ninos, le roi des Assyriens qui accomplit des hauts faits ; nous nous efforcerons de recenser point par point ce qui le concerne. De tempérament belliqueux et désireux d'affirmer sa valeur, il arma les plus fort des jeunes gens ; grâce à une assez longue période d'exercice, il les fit s'habituer à toute épreuve et aux dangers de la guerre. II.1 Comme ses affaires évoluaient si bien, Ninos eut un violent désir de soumettre l'Asie toute entière, qui est comprise entre le Tanaïs et le Nil ; car généralement, quand on a de la chance, le cours des affaires éveille le désir d'avoir davantage. … Il devint maître de tous à l'exception des Indiens et des Bactriens. III.1 Une fois accomplies les actions les plus illustres comparées à celles de ses prédécesseurs, il avait à cœur de fonder une cité d'une grandeur telle que non seulement elle fût la plus grande parmi celles qui existaient alors sur toute la terre habitée, mais qu'encore, si dans la postérité un autre avait un tel projet, il ne lui serait pas facile de le surpasser. IV.1 Puisque, après cette fondation, Ninos fit campagne contre la Bactriane, où il épousa Sémiramis, la plus illustre de toutes les femmes dont nous ayons connaissance, il est nécessaire d'évoquer auparavant comme d'un sort humble elle fut élevée à une si haute gloire. IV.2 Il y a en Syrie une cité, Ascalon, et, non loin de celle-ci, un grand lac profond, plein de poissons. Sur ses bords s'élève un sanctuaire d'une illustre déesse que les Syriens appellent Derkéto ; celle-ci a le visage d'une femme, mais tout le reste du corps est celui d'un poisson. IV.3 D'après une légende que rapportent les plus instruits indigènes, Aphrodite mécontente de la déesse en question, lui inspira un violent amour pour un des jeunes gens qui se sacrifiaient, et qui ne manquait pas de charme ; Derkéto se donna au Syrien puis enfanta une fille, mais, se sentant honteuse de sa faute, elle fit disparaître le jeune homme et exposa la petite enfant dans quelque endroit désert et rocailleux ; (là, comme une multitude considérable de colombes nichait habituellement, un hasard extraordinaire offrit nourriture et vie sauve au nouveau-né ; ) quant à elle, de honte et de chagrin elle se précipita dans le lac et fut métamorphosé en poisson ; c'est pourquoi encore aujourd'hui les Syriens s'abstiennent de manger de cette espèce animale et honorent les poissons comme des dieux. IV.4 Mais près de l'endroit où le nouveau-né avait été exposé nichait une multitude de colombes qui, par une providence extraordinaire, se chargeaient de nourrir la petite enfant ; en effet, tandis que les unes entouraient de leurs ailes le corps du nouveau-né pour le réchauffer de tous côtés, les autres, allant dans les fermes toutes proches, en même temps qu'elles étaient à l'affût des bouviers et autres pâtres, en rapportaient du lait dans leur bec et le versaient goutte à goutte entre les lèvres de la petite enfant pour la nourrir. IV.5 Et quand elle fut âgée d'un an et qu'elle eut besoin d'une nourriture plus consistante, les colombes, en picorant les fromages, lui fournirent une nourriture suffisante. Mais les bergers, à leur retour, voyant les fromages grignotés sur les bords, s'étonnèrent de ce fait extraordinaire ; après avoir, donc, surveillé de près et découvert l'explication, ils trouvèrent le nourrisson, qui était d'une beauté exceptionnelle. IV.6 Aussitôt donc, ils l'emportèrent dans leur ferme puis en firent don au responsable des troupeaux royaux nommés Simmas ; et celui-ci, étant sans enfant, l'éleva comme sa fillette avec tous ses soins et lui donna le nom de Sémiramis, ce qui est une transposition du mot syrien signifiant « colombes » ; depuis ce temps-là, tous les gens en Syrie n'ont cessé d'honorer les colombes comme des déesses. V.1 Voilà donc en substance ce que dit la légende sur l'origine de Sémiramis. Mais alors qu'elle était en âge de se marier et qu'elle surpassait de beaucoup par sa beauté les autres jeunes filles, un gouverneur fut envoyé de la part du roi en vue d'inspecter les troupeaux royaux ; celui-ci s'appelait Onnès et il était le premier des membres du conseil royal et le gouverneur de la Syrie. Il descendit chez Simmas et, à la vue de Sémiramis, il devint la proie de sa beauté ; c'est pourquoi il pria avec insistance Simmas de lui donner la jeune fille légalement en mariage puis il l'emmena à Ninos (= la ville), l'épousa et engendra deux enfants, Hyapatès et Hydaspès. VI.5 Comme le siège (de Bactres) s'éternisait, le mari de Sémiramis qui ressentait son amour pour son épouse tout en faisant campagne avec le roi, envoya chercher celle-ci. … VI.6 Comme elle devait voyager pendant plusieurs jours, elle imagina un vêtement qui ne permettait pas de distinguer si celui qui le portait était un homme ou une femme. VI.7 Elle arriva en Bactriane et examina soigneusement l'état du siège, remarquant que, alors que des attaques avait lieu par les plaines et les endroits où l'on accède facilement, personne n'allait à l'assaut de l'acropole à cause de sa position forte et que ses occupants avaient abandonné leurs postes à cet endroit pour venir renforcer ceux qui combattaient sur les remparts en contrebas. VI.9 C'est de cette façon-là que fut prise la cité, et là-dessus le roi, émerveillé par le courage de la femme, tout d'abord la récompensa par d'importants présents ; ensuite, sous l'effet de la beauté de sa personne, il en tomba amoureux et se mit alors à essayer de convaincre son mari de bien vouloir la lui céder, en promettant de lui donner sa propre fille Sosane en mariage. VI.10 Mais comme il prenait mal cette offre, Ninos menaça de lui crever les yeux s'il n'obéissait pas promptement à ses ordres. Et Onnès, partagé entre sa peur des menaces du roi et son amour, sombrant dans une sorte de rage et de folie, se mit une corde au coup et se pendit. Voilà donc comment s'explique l'accession de Sémiramis à la dignité royale. VII.1 Ninos prit possession du trésor de Bactres, qui contenait beaucoup d'argent et d'or, et, dès qu'il eut réglé la situation en Bactriane, il congédia ses forces. Après cela, il eut de Sémiramis un fils, Ninyas, puis il mourut, laissant sa femme reine. XX.1 Quelque temps après, elle fut l'objet d'un complot de la part de son fils Ninyas par l'entremise d'un eunuque, et sa mémoire fit resurgir la prédiction u sanctuaire d'Ammon ; elle ne prit donc aucune sanction contre le comploteur, bien au contraire, et lui remit le royaume, ordonnant aux gouverneurs d'obéir à celui-ci ; puis elle provoqua aussitôt sa propre disparition comme pour aller prend rang parmi les dieux conformément à l'oracle. XX.2 Selon une légende que quelques-uns rapportent, elle devint une colombe et, à l'arrivée d'une volée d'oiseaux se posant dans sa demeure, elle s'envola avec eux ; voilà pourquoi, d'après eux, les Assyriens honorent la colombe comme un dieu, immortalisant ainsi Sémiramis. Quoi qu'il en soit, celle-ci, après avoir régné sur toute l'Asie sauf sur les Indiens, mourut de la façon évoquée plus haut, ayant vécu soixante-deux ans et ayant régné quarante-deux ans.
 
 XX.3 Tel est donc le récit historique de Ctésias de Cnide concernant Sémiramis ; Athénaios, toutefois, et certains autres historiens disent qu'elle avait été une courtisane gracieuse et qu'à cause de sa beauté le roi des Assyriens était amoureux d'elle. XX.4 Au début, elle ne jouissait que d'une médiocre considération au palais royal, mais, reconnue par la suite comme épouse légitime, elle persuada le roi de lui céder le royaume pendant cinq jours. XX.5 Ayant pris à la fois le sceptre et l'habit royal, Sémiramis passa le premier jour à faire bombance en donnant un repas magnifique au cours duquel elle réussit à persuader les chefs des forces armées et tous les personnages les plus en vue de collaborer avec elle ; le lendemain, pendant que la population et les principaux notables lui rendaient hommage en sa qualité de reine, elle fit jeter son mari en prison et, comme elle nourrissait de grands desseins et qu'elle avait de l'audace, elle s'empara du pouvoir et régna jusque dans sa vieillesse en accomplissant une œuvre considérable. En ce qui touche Sémiramis, telles dont donc les versions contradictoires qui ont cours chez les historiens. XXI.1 Après sa mort, Ninyas, le fils de Ninos et de Sémiramis, avait hérité du gouvernement et gouvernait pacifiquement sans chercher aucunement à suivre l'esprit belliqueux et aventureux de sa mère.
 
 
-## Elien [331]
+## Elien [331].
 
 Sémiramis l'Assyrienne a été louée de diverses manières. Elle fut la plus avenante des femmes, même si elle était très simple dans les soins de sa beauté. Lorsqu'elle arriva chez le roi d'Assyrie qui l'avait invitée à cause de sa renommée de belle femme, le souverain tomba amoureux d'elle dès leur première rencontre. Elle lui demanda alors de recevoir la parure royale et de pouvoir régner sur l'Asie pendant cinq jours, et que tout ce qu'elle ordonnerait fût exécuté. Sa requête ne fut pas vaine. Lorsque le roi l'eut installée sur le trône et qu'elle sut qu'elle avait tout en main et sous ses ordres, elle ordonna aux gardes de tuer le roi. C'est ainsi qu'elle obtint le pouvoir sur les Assyriens. C'est Dinon qui l'affirme.
 
 
-## Justin [332]
+## Justin [332].
 
 Ninus, roi d'Assyrie, fut le premier de tous qui, poussé par une ambition inconnue jusque là, changea cet usage antique et pour ainsi dire héréditaire des peuples. Le premier, il porta la guerre chez ses voisins et il étendit ses conquêtes sur les peuples encore inhabiles à se défendre jusqu'aux confins de la Libye. … Comme en soumettant ses voisins, il ajoutait leurs forces aux siennes pour marcher contre d'autres peuple et que sa dernière victoire l'aidait à gagner la suivante, il subjugua tous les peuples de l'Orient. Sa dernière guerre fut dirigée contre Zoroastre, roi de Bactriane, qui fut, dit-on, le premier inventeur de la magie, et qui étudia avec précision les principes de l'univers et les mouvements des astres. Zoroastre fut tué et Ninus mourut lui-même, laissant son fils Ninias encore enfant et sa femme Samiramis.
 
 Samiramis, n'osant livrer le pouvoir à un enfant trop jeune, ni l'exercer elle-même ouvertement, parce que tant de grandes nations, n'obéissant qu'avec peine à un homme, obéiraient encore moins à une femme, se fait passer pour le fils de Ninus, au lieu de son épouse, pour un garçon au lieu d'une femme. Car, ils étaient tous les deux d'une taille médiocre, ils avaient la voie également grêle et la conformation des traits était semblable chez la mère et le fils. En conséquence, elle voile ses bras et ses jambes, se couvre la tête d'une tiare, et, pour n'avoir pas l'air de cacher quelque chose sous ce vêtement nouveau, elle ordonne au peuple de revêtir aussi le même costume, dont la nation tout entière a depuis gardé l'habitude. Ayant ainsi déguisé son sexe dès le début, elle fut prise pour un garçon. Elle fit ensuite de grandes choses ; puis, quand elle crut avoir vaincu l'envie par la grandeur de ses exploits, elle avoua qui elle était et qui elle avait simulé d'être. Elle n'en perdit pas pour cela la dignité royale ; au contraire, elle n'en fut que plus affirmée, parce qu'étant femme, elle surpassait en courage non seulement les femmes, mais encore les hommes. Cette reine fonda Babylone ; elle entoura cette ville d'un mur de briques cuites, cimentées, non avec du mortier, mais avec du bitume, matière qui sort de terre en bouillonnant dans maint endroit du pays. On cite encore de cette reine beaucoup d'autres actions illustres. Elle ne se borna pas en effet à défendre les frontières de l'empire acquis par son mari, elle y ajouta encore l'Ethiopie. Elle porta aussi la guerre jusque dans l'Inde, où jamais, en dehors d'elle et d'Alexandre le Grand, personne n'a pénétré. A la fin, ayant voulu coucher avec son fils, elle fut tuée par lui, après avoir régné trente-deux ans après Ninus ; Son fils Ninias, content de l'empire conquis par ses père et mère, se dégoûta de la guerre, et, comme s'il eût changé de sexe avec sa mère, se laissa rarement voir par les hommes et vieillit dans la compagnie des femmes.
 
 
-## Moïse de Khorène [333]
+## Moïse de Khorène [333].
 
 Peu d'années avant la mort de Ninos, Ara obtint le gouvernement de sa patrie, ayant été jugé par Ninos digne de la même faveur que son père Aram. Cependant l'impure et lubrique Chamiram (= Sémiramis), ayant entendu depuis longtemps parler de sa beauté, brûlait de l'obtenir, mais elle n'osait rien faire de tel ouvertement. Après la mort de Ninos, ou plutôt, à ce que je crois, après sa fuite en Crète, Chamiram flattant sans retenue sa passion, envoie des messagers à Ara le Beau, avec toutes sortes de présents, d'instantes prières et des promesses de cadeaux, pour qu'il vienne près d'elle à Ninive : soit qu'il la prenne pour épouse et règne sur tout l'empire de Ninos, soit qu'il satisfasse son désir, puis rentre chez lui en paix, chargé de cadeaux.
 
@@ -3269,12 +3269,12 @@ Après bien des allers et retours des messagers, comme Ara n'était toujours pas
 … Là trouvant un moment favorable à sa vengeance, Ninevas tue sa mère et règne lui-même sur l'Assyrie et sur Ninive.
 
 
-## Sémiramis et Sammouramat
+## Sémiramis et Sammouramat.
 
 Sammouramat était une célèbre reine d'Assyrie, plus connue sous le nom de Sémiramis. … Une stèle a été érigée en son honneur à Assour, sous les grandes stèles royales, elle se dit : « Celle du palais de Shamshi-Adad, roi du monde, roi d'Assyrie, mère d'Adad-Nirari, roi du monde, roi d'Assyrie, brue de Salmanazar, roi des quatre régions du monde. » Elle est la seule reine dans la série de ces stèles consacrées à des hommes, témoignage monumental de l'empreinte qu'elle a dû laisser en tant que souveraine. Sa personnalité devait être marquante car peu de temps après sa mort, vérités et légendes se sont confondues. … On ne sait rien de vraiment sûr à son sujet, rien ne prouve qu'elle ait été babylonienne ou ourartéenne et la thèse de sa régence de son fils Adad-Nirari est dorénavant à rejeter. Cependant, Sammouramat a certainement inspiré la Sémiramis de légende, telle qu'elle est décrite, entre autres, par les historiens grecs, Hérodote, Ctésias de Cnide et Nicolas de Damas. … Sur sa mort de nombreuses histoires « délirantes » circulent : après avoir conquis l'Egypte et épousé son roi, Ninos, elle se serait, d'après Diodore, ou bien suicidée pour briser l'oracle qui la voyait assassinée par son fils Nynias, ou bien « volatilisée » en pigeon, devenant ainsi immortelle car pour les Assyriens cet oiseau est assimilé aux Dieux. La permanence du nom de Sammouramat sous celui de Sémiramis laisse penser qu'elle avait une forte personnalité et qu'elle a marqué, mais sans que l'on puisse deviner comment, l'histoire de l'Assyrie [334].
 
 
-# Annexe II : Tableau comparatif des reprises textuelles [335] entre La Prazimène et La Véritable Sémiramis
+# Annexe II : Tableau comparatif des reprises textuelles [335] entre La Prazimène et La Véritable Sémiramis.
 *La Prazimène*, Le Maire | *La Véritable Sémiramis*, Desfontaines
 (Sémiramis) **Il aime**, dit-elle, avec un soupir violent, mais Prazimene perduë**, il n'aime que la gloire.** | *SEMIRAMIS* S'**il aime**, Merzabane, **il n'aime que la gloire** (I,1)
 **Son courage**, dont l'approche ou l'éloignement *donne la victoire, ou l'oste aux Assyriens*, est ce qui lui fait *mespriser* les faveurs que je lui ay si librement *offertes*. | **Son courage** qui forme ou calme les tempestes, *Qui détruit*, quand il veut, *ou produit nos conquestes*, *Se plaist dans les hazards dont son coeur est épris,* Et pour un Sceptre *offert*, n'auroit que des *mépris*.(I,1)
@@ -3306,7 +3306,7 @@ Cependant le mal-heureux Benzamin n'estoit pas agité de semblables mouvements 
 
 
 
-# Annexe III : Tableau de présences des personnages
+# Annexe III : Tableau de présences des personnages.
  | Ninus | Sémiramis | Prazimène | Melistrate | Oronclide | Merzabane | Zenophire | Cambises | Palmedon | Gardes | Herminie
 I,1 |  | x |  |  |  | x |  |  |  |  | x
 I,2 |  | x |  |  |  |  |  |  |  |  | 
@@ -3334,7 +3334,7 @@ V,3 |  | x | x | x | x |  |  |  |  |  | 
 
 
 
-# Annexe IV : Nombre de répliques par acte et par scène [336]
+# Annexe IV : Nombre de répliques par acte et par scène [336].
 Personnages | Acte I | Acte II | Acte III | Acte IV | Acte V | Total
 SEMIRAMIS | 14 | 12 | 3 | 8 | 8 | 45
 MELISTRATE | 0 | 0 | 0 | 21 | 10 | 31
@@ -3378,19 +3378,19 @@ Total | 45 | 29 | 24 | 6 | 31 | 29 | 11 | 2 | 1 | 178
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de Desfontaines
+### Œuvres de Desfontaines.
 
 
-#### Œuvres dramatiques
+#### Œuvres dramatiques.
 
 
-##### Tragi-comédiesEurimédon ou l'Illustre Pirate
+##### Tragi-comédies.Eurimédon ou l'Illustre Pirate
 La Vraie Suite du Cid
 Orphise ou la Beauté persécutée
 Hermogène
@@ -3398,27 +3398,27 @@ Bélisaire
 
 
 
-##### TragédiesSaint-Eustache ou le martyre de Saint-Eustache
+##### Tragédies.Saint-Eustache ou le martyre de Saint-Eustache
 L'Illustre Olympie ou le Saint Alexis
 L'Illustre Comédien ou le Martyre de Saint-Genest
 La Véritable Sémiramis
 
 
 
-#### Romans et autres œuvres narratives Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles
+#### Romans et autres œuvres narratives .Les Heureuses Infortunes de Celiante et Marilinde veuves pucelles
 L'Inceste innocent, histoire véritable
 Le Vagabond ou l'Histoire et le caractère de la malice et des fourberies de ceux qui courent le monde aux despens d'autruy, avec plusieurs récits facétieux sur ce sujet pour déniaiser les simples
 
 
 
-#### Œuvres poétiquesPassions égarées
+#### Œuvres poétiques.Passions égarées
 Les Chevilles de Maître Adam
 Hommes illustres
 Nouveau Recueil des bons vers de ce temps
 
 
 
-#### Attributions incertainesLes Galantes vertueuses
+#### Attributions incertaines.Les Galantes vertueuses
 Paraphrase sur le Memento Homo
 Alcidiane ou les quatre rivaux
 Perside ou la Suite d'Ibrahim Bassa
@@ -3428,7 +3428,7 @@ Le Poète chrétien passant du Parnasse au Calvaire
 
 
 
-### Œuvres de l'antiquité*Aristote*, Poétique
+### Œuvres de l'antiquité.*Aristote*, Poétique
 *moïse de khorene*Histoire de l'Arménie
 *diodore de sicile*Bibliothèque historique
 *elien*Histoires variées
@@ -3436,7 +3436,7 @@ Le Poète chrétien passant du Parnasse au Calvaire
 
 
 
-### Œuvres du XVII*e* et XVIII*e* siècle*anonyme*The amours of Milistrate and Prazimene : A novel
+### Œuvres du XVII*e* et XVIII*e* siècle.*anonyme*The amours of Milistrate and Prazimene : A novel
 *aubignac*La Pratique du théâtre
 *giblet*Della Prasimene portata dal francese e publicata
 *le maire*La Prazimène
@@ -3446,43 +3446,43 @@ Le Poète chrétien passant du Parnasse au Calvaire
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires*academie française*Dictionnaire
+### Dictionnaires.*academie française*Dictionnaire
 *furetiere*Dictionnaire universel, contenant generalement tous les mots françois tant vieux que modernes, et les Termes de toutes les sciences et des arts
 *moreri*Le Grand Dictionnaire historique ou le Mélange curieux de l'histoire sacrée et profane
 
 
 
-### Grammaire, syntaxe, ponctuation*fournier*Grammaire du français classique
+### Grammaire, syntaxe, ponctuation.*fournier*Grammaire du français classique
 *haase*Syntaxe française du XVII*e* siècle
 *morisset, gason, thomas, baudiffier*Précis de grammaire des lettres latines
 *riffaud*La Ponctuation du théâtre imprimé
 
 
 
-### Sites web
+### Sites web.
 
 Gallica : http://www.gallica.bnf.fr/
 
 Théâtre classique : http://www.theatre-classique.fr/
 
 
-## Travaux historiques et critiques
+## Travaux historiques et critiques.
 
 
-### Histoires du théâtre du XVII*e* siècle*deierkauf-holsboer*., L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
+### Histoires du théâtre du XVII*e* siècle.*deierkauf-holsboer*., L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
 *lancaster*A History of French dramatic Litterature in the 17th century
 *mazouer*Le Théâtre français de l'âge classique
 *parfaict*Histoire du théâtre français
 
 
 
-### Ouvrages et articles sur le théâtre du XVII*e* siècle
+### Ouvrages et articles sur le théâtre du XVII*e* siècle.
 
 
-#### Ouvrages*blondet*Les Pièces rivales des répertoires de l'Hôtel de Bourgogne, du Théâtre du Marais et de l'Illustre Théâtre : deux décennies de concurrence théâtrale parisienne (1629-1647)
+#### Ouvrages.*blondet*Les Pièces rivales des répertoires de l'Hôtel de Bourgogne, du Théâtre du Marais et de l'Illustre Théâtre : deux décennies de concurrence théâtrale parisienne (1629-1647)
 *chardon*La Troupe du Roman comique dévoilée et les comédiens de campagne du XVII*e* siècle
 *chardon*Nouveaux documents sur la vie de Molière. M. de Modène, ses deux femmes et Madeleine Béjart
 *clement J. M. B. et laporte J.*Anecdotes dramatiques
@@ -3504,25 +3504,25 @@ Théâtre classique : http://www.theatre-classique.fr/
 
 
 
-#### Articles*forestier*Littératures classiques
+#### Articles.*forestier*Littératures classiques
 *michel*Littératures classiques
 
 
 
-#### RevueLe Moliériste*monval*
+#### Revue.Le Moliériste*monval*
 
 
 
-### Ouvrages sur l'œuvre de Desfontaines*Desfontaines*Tragédies hagiographiques
+### Ouvrages sur l'œuvre de Desfontaines.*Desfontaines*Tragédies hagiographiques
 
 
 
-### Ouvrages sur les romansBibliothèque universelle des romans
+### Ouvrages sur les romans.Bibliothèque universelle des romans
 *chardon*Scarron inconnu et les types de personnages du « Roman comique »
 
 
 
-### Autres articles*marello*Dossiers d'ArchéologieLes fastes des palais néo-assyriens
+### Autres articles.*marello*Dossiers d'ArchéologieLes fastes des palais néo-assyriens
 
 
 -------

@@ -18,17 +18,17 @@ A PARIS, Chez ANTOINE DE SOMMAVILLE, a l'escu de France, dans la Salle des Merci
 Édition critique établie par Judith Fischer dans le cadre d'un mémoire de maîtrise de l'Université Paris-Sorbonne sous la direction de Georges Forestier (2001)
 
 
-# Introduction
+# Introduction.
 
 Issu des mystères du Moyen Âge, le genre de la tragédie chrétienne a vécu pendant une courte période s'étalant sur la première moitié du XVII*e* siècle. Son âge d'or a été la décennie des années 1640, durant laquelle il a connu une certaine vogue auprès du public. Pourtant, le regard que la critique moderne lui porte est généralement assez dédaigneux, le considérant comme un genre en échec. Malgré une production abondante, la plupart de ces oeuvres ont sombré dans l'oubli. La postérité a retenu essentiellement *Polyeucte*, ainsi que l'autre tragédie chrétienne de Corneille, *Théodore, vierge et martyre*, et *Le Véritable saint Genest* du "quatrième grand", Rotrou. Mais ces trois pièces sont considérées comme des chefs-d'œuvre faisant exception par rapport à un ensemble médiocre. A la différence des tragédies bibliques, qui s'inspirent de l'Ancien Testament, et que l'on trouve en plus grand nombre, depuis l'*Abraham sacrifiant* de Théodore de Bèze, jusqu'aux deux dernières tragédies de Racine, *Esther* et *Athalie*, les tragédies chrétiennes continuent d'être considérées comme des productions mineures.
 
 Les deux tragédies chrétiennes de Jean Puget de La Serre, lui-même complètement inconnu aujourd'hui, appartiennent à cette masse d'ouvrages oubliés. Si la première, *Thomas Morus ou le Triomphe de la Foy et de la Constance*, commence à faire l'objet de quelques rares études, la seconde que nous tentons ici de redécouvrir, est restée dans l'ombre jusqu'à nos jours. Elle s'intitule *le Martyre de sainte Catherine* et a été éditée en 1642.
 
 
-# L'oeuvre
+# L'oeuvre.
 
 
-## L'auteur
+## L'auteur.
 
 Né à Toulouse, vraisemblablement en 1593, Jean Puget de La Serre a assez vite gagné Paris. Il vit au début assez misérablement de ses ouvrages jusqu'au succès du *Secrétaire de la Cour*, édité pour la première fois en 1625. Grâce à la protection du duc d'Epernon, il devient quelques années plus tard historiographe de France. Il écrit alors une quantité considérable d'œuvres de tous genres en plus des traités historiques: manuels de piété, roman, lettres... Il voyage également, en Lorraine, dans les Pays-Bas espagnols mais surtout il suit la Reine-Mère dans son voyage en Angleterre en 1638. C'est à son retour qu'il va écrire cinq des sept pièces de théâtre qu'il a composées dans sa vie, et parmi elles, deux tragédies chrétiennes. La première est *Thomas Morus ou le Triomphe de la Foy et de la Constance*, vraisemblablement jouée en 1640 et publiée en 1642, la deuxième, *Le Martyre de Sainte Catherine.*
 
@@ -39,7 +39,7 @@ La Serre compose trois autres pièces durant cette même période, toutes en pro
 Voici brossée à grands traits la vie de notre auteur, qui est en réalité racontée par plusieurs critiques et commentateurs [3] mais que nous nous sommes permis de réduire à l'essentiel. La plupart de ses biographes s'attardent en effet sur des détails ou des anecdotes, ne retenant que ce qu'il y a de plaisant dans le parcours de cet homme. Il est vrai que La Serre apparaît comme un personnage singulier, différent des hommes de lettres ordinaires, à commencer par l'ampleur de sa production, mais plus généralement par l'impression de décalage avec son temps que donne cet homme, qui n'a pas manqué d'être tournée en dérision par ses contemporains.
 
 
-## La réception de l'oeuvre
+## La réception de l'oeuvre.
 
 La vie et l'oeuvre de La Serre nous ont en effet été transmises principalement à travers des railleries, des libelles et des critiques négatives et ce, jusqu'à une époque relativement moderne. Les commentateurs se sont toujours attardés sur les mêmes détails: on trouve un grand nombre d'études sur les fameuses gravures qui accompagnent l'édition originale de *sainte Catherine*, mais La Serre n'a été pris au sérieux en tant que dramaturge que très récemment [4]. Auparavant, chaque nouveau critique s'appuyait sur les attaques précédemment formulées pour confirmer l'absence d'intérêt de cet auteur. C'est ainsi que faisant paraître, en 1866, un article biographique à son sujet dans *la Revue contemporaine*, le Baron Ernouf s'exprime en ces termes :
 
@@ -79,7 +79,7 @@ On sait que *Thomas Morus* s'est acquis une réputation que toutes les autres co
 Même si l'anecdote est surtout plaisante, elle reste une preuve de l'importance du succès de la pièce. *Le Martyre de sainte Catherine* a laissé moins de traces, peut-être parce que La Serre était déjà sur son déclin. Loukovitch [10] affirme qu'elle a eu un certain succès sans dire de quelle source il tient cette information. Il est vrai qu'elle a été reprise jusqu'en 1647, tout comme *Thomas Morus*. Cependant, cette dernière a été réimprimée plus de fois, en 1656, 1678 et 1735. En 1668, les deux pièces ont été traduites en hollandais. Mais *Thomas Morus* avait déjà fait l'objet d'une première traduction en 1660.
 
 
-## Date et conditions de représentation
+## Date et conditions de représentation.
 
 Selon Sophie-Wilma Deierskauf-Holsboer [11], *le Martyre de Sainte Catherine* a été crée pour la première fois à l'Hôtel de Bourgogne par la troupe des "Comédiens ordinaires du Roi", en 1641. Comme *Thomas Morus*, elle est mentionnée dans le *Mémoire* de Mahelot. Ce n'est cependant pas une certitude. On sait qu'une tragédie sur sainte Catherine a été jouée assurément mais l'on ne peut que supposer que ce soit celle de La Serre. La pièce a été reprise par la suite, dans la même salle et par la même troupe royale, entre 1642 et 1647. Elle n'a donc pu bénéficier pour le décor et la mise en scène des travaux de modernisation entrepris par l'Hôtel de Bourgogne, en 1647 précisément, pour rattraper leurs rivaux du Marais, et destinés à permettre des effets scéniques plus spectaculaires.
 
@@ -94,7 +94,7 @@ La richesse des ornements et des costumes suggère le faste du spectacle qu'appr
 Notre pièce occupe, comme l'avait déjà fait remarquer Lancaster [14], une position intermédiaire assez intéressante. En effet, on commence d'un côté à voir disparaître le décor à compartiments, hérité du théâtre médiéval mais encore présent au début des années 1640, et qui permettait la représentation simultanée de lieux différents. A l'arrière-plan, on distingue deux compartiments latéraux mais qui ne semblent pas être utilisés effectivement. Par contre le compartiment central du fond a un rôle bien plus important, ce qui est nouveau pour l'époque. Le palais, peint en perspective ne fait que renforcer l'impression de profondeur de la scène qui était à l'époque encore très allongée. C'est donc très naturellement que ce compartiment central se trouve favorisé au point de devenir une extension semi-circulaire de la scène principale. Cet espace présente de plus cet avantage: l'installation d'une toile différente à chaque acte en modifie la signification. Il peut ainsi soit indiquer dans quelle partie du palais se déroule l'action, soit souligner, à la manière d'une illustration, le sens de l'action en train de se jouer. Ainsi, à l'acte I, la représentation d'un char en plein mouvement, dirigé par un homme qui doit être l'empereur et emporté par quatre chevaux, illustre, de manière symbolique, la victoire de l'Empereur et la puissance de sa position au début de la pièce, tandis qu' à l'acte III, l'obscurcissement du fond indique aux spectateurs que l'action s'est déplacée dans la prison du palais où l'Impératrice va rendre visite à la sainte.
 
 
-## Les sources
+## Les sources.
 
 La vie de sainte Catherine n'a que très peu de fondements historiques, c'est avant tout une légende. D'ailleurs, l'aspect historique ne semble pas avoir intéressé La Serre, qui n'a pas jugé utile de préciser les noms de l'empereur et de l'impératrice. Il s'agit selon toute vraisemblance du neveu de Galère, Daïa, à qui il a donné un nom romain, Maximinus, en le faisant empereur de la région d'Egypte et de Syrie, pendant la tétrarchie, juste après l'abdication de Dioclétien et Maximien en mai 305. Les persécutions des chrétiens qui avait eu lieu sous les règnes précédents de Dioclétien ou Décius, reprirent lorsque ceux-ci refusèrent de pratiquer un culte impérial. Les noms des martyrs ont été perdus mais ceux des martyrs grecs et coptes ont été conservés par la tradition. Parmi eux, Ecaterine, jeune femme d'Alexandrie.
 
@@ -145,10 +145,10 @@ Contre ces orateurs fols en leur jugement.
 La pièce est parcourue de chœurs. Le nombre de personnages est bien plus élevé.
 
 
-# Les caractères
+# Les caractères.
 
 
-## Sainte Catherine, une sainte héroïque
+## Sainte Catherine, une sainte héroïque.
 
 La Serre nous donne peu d'indications sur son héroïne. Pour sa condition, sainte Catherine est de famille noble. A l'acte II, lorsqu'elle demande audience à l'empereur, celui-ci lui répond "vostre merite & vostre condition vous (...) donnent la liberté de parler hardiment" (57). Cependant, si elle est appelée "Princesse" par l'empereur ("que desirez-vous de moi ma Princesse", 55) comme par Porphire (49), il semble que cela ne soit qu'un titre honorifique, sans pour autant indiquer son sang royal. Signe de ce double statut de noble et de sujette, sa place dans la liste des "acteurs", juste après la famille impériale.
 
@@ -196,7 +196,7 @@ Mon devoir me tiendra tousjours rabaissée aux pieds de vostre Majesté, pour lu
 ... la curiosité de savoir mes intentions persuade vostre majesté de me rendre l'honneur de sa visite (148).
 
 
-## L'Empereur
+## L'Empereur.
 
 L'empereur est un personnage intéressant et riche à plusieurs égards. Catherine était une sainte sans passions ; face à elle, l'empereur est l'homme passionné par excellence. Non seulement, il présente plusieurs passions mais on peut surtout le dire passionné en ce qu'il n'en maîtrise aucune mais les subit toutes. Ainsi, puisque chez sainte Catherine, l'absence de passions était synonyme de perfection dans l'innocence, la vertu, la sainteté, l'empereur est présenté au contraire comme le méchant absolu, concentrant tous les défauts.
 
@@ -223,7 +223,7 @@ Il faut regner absolument si l'on veut porter la qualité de souverain, les Scep
 Le dénouement de la tragédie nous apprend que l'empereur est en fait extérieur à l'enjeu proprement religieux de la pièce. Il est le seul à ne pas se convertir. Pour lui le dénouement correspond à deux changements, l'un sur le plan amoureux – la disparition de son amour pour sainte Catherine – l'autre sur le plan politique – l'autorisation du culte chrétien, sa dernière parole évoquant les voeux païens qu'il s'apprête à exprimer dans les "Temples" en faveur du christianisme. Pourtant ce changement est déclenché par des miracles et des interventions merveilleuses, qui sont plus convaincantes que l'éloquence de sainte Catherine pour convertir l'impératrice, Porphire et Lucius. L'empereur subit en quelques sortes une conversion de l'esprit, de l'intelligence, qui le fait accéder à la sagesse dans l'art de gouverner.
 
 
-## Les trois convertis
+## Les trois convertis.
 
 ⁎ **L'impératrice** est un personnage que sa sensibilité porte naturellement vers le Bien. Son cœur – sa conscience dirions-nous – lui fait entendre ce qui est juste et ce qui ne l'est pas. Dès le début elle sent l'injustice de l'Edit de l'empereur qui persécute les chrétiens et éprouve de la pitié pour ces infortunés, sentiment déjà chrétien : « Leur sort par trop funeste me demande des pleurs (...) mon cœur devancera ma main, offrant des soupirs de compassion pour ces misérables », dit-elle au début de la pièce. Cependant, elle ne se résout pas à affirmer ouvertement ce sentiment. Même après sa conversion à l'acte III, elle garde sa nouvelle foi secrète. Elle reste dans l'irrésolution, ne se décide pas à agir : "Si je souffre qu'on les accuse, je ne sçaurois me résoudre à les voir punir" (l.32-33). La raison en est premièrement une certaine faiblesse, qui trouve son explication dans la perspective chrétienne de la pièce. Sainte Catherine lui dit en effet à la scène 5 de l'acte III, qu'elle "doit guerir son esprit de la crainte". Tant qu'elle ne connaît que le paganisme, c'est une âme perdue, à la fois parce qu'elle est hésitante, vulnérable, malheureuse et parce que, d'un point de vue chrétien, elle n'est pas soutenue par la grâce de Dieu. Elle a donc besoin de son aide et de celle de sainte Catherine pour trouver la voie de la Religion juste. Mais il n'en reste pas moins que, si elle est la première à se convertir, c'est qu'elle avait déjà une inclination à la justice, une âme disposée à se tourner sans résistance vers le christianisme.
 
@@ -249,14 +249,14 @@ Dans sa tentative de convaincre sainte Catherine, Porphire lui parle naturelleme
 Tantôt nommé "Docteur" dans la présentation des personnages, tantôt introduit sous le terme de philosophe, **Lucius** est un personnage essentiel de la pièce grâce au rôle qu'il tient dans l'épisode central de la dispute. Mais il n'a aucune psychologie, il n'est qu'une fonction pure et simple, que le porte-parole et défenseur de la position païenne. La Serre a d'ailleurs restreint le nombre initialement plus grand de ses confrères qui ont participé selon la légende à la dispute. Ici, il est présenté comme un délégué, "comme le plus fameux de tous" (164).
 
 
-# Le style
+# Le style.
 
 La Serre n'a écrit que de la prose, apparemment parce qu'il était un piètre versificateur. Ce n'est pas pour autant qu'il se désintéressait de la rhétorique, bien au contraire.
 
 Au premier abord, *Le Martyre de sainte Catherine* possède un style ennuyeux et répétitif, un peu fastidieux à étudier. En réalité, la dimension rhétorique est un des intérêts majeurs de cette tragédie.
 
 
-## Écrire la dispute
+## Écrire la dispute.
 
 Si l'on envisage *Sainte Catherine* à partir des trois genres rhétoriques – le judiciaire, le délibératif et l'épidictique – on s'aperçoit que la pièce obéit dans sa plus grande partie au genre délibératif, correspondant aux affrontements argumentatifs entre personnages. Dans une écrasante majorité de cas, en effet, les prises de paroles ont pour but de convaincre que la position tenue par un personnage est juste face à l'erreur de son interlocuteur. On distingue alors deux types de débat. Il y a d'abord les dialogues entre un personnage principal et son confident à qui il demande conseil : l'impératrice et Léonor ; l'empereur et Porphire, Catherine et Emilie ou Corvin. Le deuxième type d'affrontement est celui qui oppose sainte Catherine aux personnages païens sur le sujet de la religion. Telle un avocat, elle a en effet décidé de "plaider la cause des chrétiens" (l.151-152). Si l'on écarte les très courtes scènes qui introduisent un personnage, il n'y a guère que la scène 3 de l'acte I, consacré au récit de la victoire de l'empereur, la scène 3 de l'acte III, prière de sainte Catherine à Dieu et les passages de l'acte V où Lépide rend compte à l'empereur du sort des condamnés, qui échappent au style délibératif.
 
@@ -277,7 +277,7 @@ Cette synthèse ne résout pas vraiment le problème mais se contente d'accueill
 Voyons maintenant quelles sont les formes d'écriture privilégiées par cette quasi omniprésence des débats.
 
 
-## Les stichomythies
+## Les stichomythies.
 
 La figure de l'antithèse structure presque l'intégralité du discours, notamment sous la forme de la stichomythie. L'usage en est exceptionnellement abondant. Bien entendu, nous employons ce terme dans un sens étendu, puisque, étant en prose, l'oeuvre ne peut présenter au sens strict, de stichomythies. Nous ne retiendrons de la définition que trois éléments. Entrent en jeu la longueur de chaque réplique (de une demi-ligne à deux ou trois lignes), la symétrie entre les répliques des deux interlocuteurs et enfin un contexte d'opposition, (celle-ci peut apparaître dans différents contextes et mettre aux prises des ennemis autant que des amants). Si l'on prend ainsi ce procédé dans son sens large, près de la moitié du *Martyre de sainte Catherine* est écrit en stichomythies, ce qui est exceptionnel, et particulièrement étonnant à une époque où cette pratique est en train de reculer. Notons que sainte Catherine est présente chaque fois qu'il y a ce type d'affrontement (ce sont les scènes suivantes : II,1 ; II,2 ; II,5 ; III,4 ; IV,2 ; V,1) et que c'est le seul mode d'expression dans ses confrontations avec l'empereur (II,5 ; IV,2 ; V,1).
 
@@ -361,7 +361,7 @@ L'EMPEREUR : Quel Demon vous anime avec tant d'opiniatreté à creuser le tombe
 Ste CATHERINE : Et quelle fureur vous transporte avec tant d'aveuglement de chercher vos plaisirs dans les miseres d'autrui
 
 
-## Les sentences
+## Les sentences.
 
 Les stichomythies, comme discours discontinu, sont propices aux formes brèves, et en particulier aux sentences qui abondent également dans la pièce. En cette première moitié du XVII*e* siècle, elles sont encore au goût du public, pour deux raisons, d'abord parce qu'elles constituent une tradition théâtrale héritée du siècle précédent, et en second lieu parce qu'elles donnent un ton moral et didactique à la pièce fortement apprécié par les spectateurs. On peut se demander cependant si leur abondance dans *Sainte Catherine* n'est pas la marque d'un archaïsme de la part de La Serre.
 
@@ -415,7 +415,7 @@ Le récit est surtout truffé de compliments et de détails destinés à la loua
 Ne sont présents que les mots du champ lexical de la bataille ayant un rapport avec l'honneur: "servitude", "les fers", les "chaisnes", "esclaves"... Cela confère au récit une certaine abstraction. Le spectateur ou l'auditeur n'a pas d'images précises à l'esprit. A l'opposé du traitement traditionnel de ce genre de passage, ce récit devient le contraire d'une hypotypose. Il ne donne absolument rien à voir de ce qui s'est passé réellement mais livre une représentation à la fois confuse et idéalisée d'une bataille, retranscrite avec des termes de courtisan et le système de valeurs du héros chevaleresque.
 
 
-## Un art de la conversation
+## Un art de la conversation.
 
 L'hypothèse que l'on peut alors émettre est que La Serre cherche à attirer l'attention sur l'adresse de la tournure au point que sa signification perd de son importance. Comme nous l'avons vu, il prête à ses personnages, dénués de psychologie, des sentiments "entiers", et souvent proches du cliché. C'est l'originalité de la forme qui doit être admirée. La recherche stylistique est présente mais au détriment de celle du sens. Par exemple, à l'acte IV, scène 2, nous nous situons juste avant le "dernier moyen" de l'empereur de persuader sainte Catherine de l'épouser et il s'adresse à sainte Catherine en ces termes :
 
@@ -490,7 +490,7 @@ Quoy, la Princesse Catherine seroit si heureuse dans son malheur d'enchesner son
 Cette idée n'est d'ailleurs pas incompatible avec une préoccupation plus pragmatique: La Serre a écrit un avatar de *Thomas Morus* pour remporter à nouveau le succès qu'il avait trouvé une première fois auprès du public. Toutes ces techniques permettent en effet une écriture rapide, comme lorsque l'on compose une lettre, et qui reste proche de la spontanéité de la parole dans la conversation.
 
 
-## Une rhétorique chrétienne
+## Une rhétorique chrétienne.
 
 *Le Martyre desainte Catherine* est une pièce apologétique. A l'occasion de la défense de la religion chrétienne face aux croyances païennes, la pièce présente un type de paroles au ton didactique. Certaines scènes comportent des résumés de la doctrine chrétienne, passages qui se caractérisent par leur extrême condensation et de ce fait par une inévitable simplification. Ils sont alors tellement figés qu'ils sont presque vidés de sens. Par exemple, dans la scène 5 de l'acte III, sainte Catherine finit, après un échange allusif avec l'impératrice sur "l'Epoux" qui leur est promis à toutes deux, par livrer à celle-ci un exposé rapide du dogme chrétien :
 
@@ -528,21 +528,21 @@ fay que ton divin Esprit change ma langue de chair, en une de ces langues de feu
 Ces prières posent deux problèmes concernant le statut de la parole. D'abord par la prière, sainte Catherine fait entrer Dieu dans l'espace profane de la scène. Peut-être est-ce la raison qui a poussé La Serre à isoler la scène 3 de l'acte III du reste de la pièce par les guillemets présents au début de chaque ligne. Mais surtout, ce que demande la sainte c'est une présence presque sensible de Dieu dans ses paroles. Ce n'est pas un hasard si elle fait deux fois référence aux oracles des Sibiles Cumaine et Persane. A nouveau, un indice typographique – les italiques – met les mots de ces oracles sur un plan particulier. C'est que effectivement, Sainte Catherine se comporte comme la Sibile ou la Pythie, qui ne sont que le moyen, l'intermédiaire par lequel s'exprime le dieu Apollon. Sa parole est inspirée par Dieu, habité par son "Esprit". Ce n'est pas seulement qu'elle cite littéralement les mots prononcés par la Sibile eux-mêmes inspirés par la divinité, mais tout ce qu'elle dit après la prière, dans ses disputes avec Porphire ou Lucius, est supposé être une parole divine. Ce statut est créé de toutes pièces par la situation dramatique, transgressant de manière évidente le principe de séparation du profane et du sacré, prôné par les catholiques rigoristes
 
 
-# L'action
+# L'action.
 
 Au premier abord, le sujet du *Martyre de sainte Catherine* consiste dans le récit des dernières heures de la vie de cette sainte, c'est-à-dire de plusieurs épisodes de la légende (la visite du tribun militaire et de l'impératrice dans la prison, la discussion avec les savants, enfin les miracles survenus au moment des supplices et de sa mort, qui correspond à la fin de la pièce). Mais en observant strictement le début et la fin de cette tragédie, on se rend compte que c'est en réalité l'empereur qui en est le véritable héros. La pièce nous montre en effet, comment, en une journée, l'empereur qui s'apprêtait à faire un sacrifice en l'honneur des dieux par le massacre de chrétiens, finit par gracier ceux qu'il considérait comme des impies et se rend finalement au temple avec un esprit de tolérance. Autrement dit, le *Martyre de sainte Catherine* est plus l'histoire de l'avènement d'un empereur juste que celle du martyre d'une sainte.
 
 Entre la situation initiale et la situation finale, l'empereur se trouve plongé dans une situation de crise. La décision de ce sacrifice annoncée dans les premières scènes est suspendue et à partir de ce moment, la certitude fait place à une attente : l'empereur attend que sainte Catherine change d'avis ("je vous donne le loisir de considérer vostre erreur", l.334-335). L'action est à la fois simple et unifiée autour du personnage de l'empereur: le sujet du *Martyre de sainte Catherine* pourrait en effet, se résumer comme suit: un empereur tombe amoureux d'une princesse et se met en tête de l'épouser. Il en est empêché par leur divergence de religion et ce, doublement: d'une part, la jeune femme refuse son offre en raison de sa foi ; d'autre part, épouser une chrétienne est une impiété vis-à-vis des dieux païens. Le personnage de sainte Catherine et sa foi chrétienne, malgré la place apparemment centrale qu'ils occupent, ne sont que l'obstacle au projet de l'empereur.
 
 
-## L'exposition
+## L'exposition.
 
 L'exposition s'étend sur le premier acte, voire même uniquement sur la première scène qui concentre un grand nombre d'informations. Elle rappelle en effet les évènements qui ont eu lieu avant le commencement de la pièce. L'impératrice y évoque les dernières victoires de l'empereur, qui seront détaillées par Porphire à la scène 3, ainsi que son hostilité envers les Chrétiens qui s'est matérialisée dans un Édit. Est mentionné également le sacrifice qui doit être fait de manière imminente: les Chrétiens seront "immolez à la juste cholere de l'Empereur" (l.18) à la fois pour les punir de leur désobéissance impie et pour remercier les Dieux de la protection qu'ils ont apportée à l'empereur dans la guerre contre les peuples barbares. L'édit et le projet de sacrifice sont les deux évènements qui déclenchent le conflit. Ils font sortir sainte Catherine du silence et plonge l'impératrice dans un doute sur la justice d'une telle politique. Ce dilemme auquel elle est en proie lui permet de poser la question des deux attitudes possibles face aux Chrétiens, la tolérance ou la fermeté, autrement dit de présenter l'enjeu de la pièce.
 
 Un point surprenant tout de même : sainte Catherine est complètement absente de ce premier acte. Son existence n'y est même pas abordée par les autres personnages. Pour Kosta Loukovitch [18], ce retardement de l'apparition du personnage principal remet en question l'unité d'action auquel la pièce obéit à peu près pour le reste. En réalité, la raison en est qu'elle n'est pas, comme nous venons d'en formuler l'hypothèse, le personnage principal de la pièce. Bien qu'elle soit une figure essentielle, ce n'est pas elle, dont le déroulement de la tragédie va nous montrer l'évolution. Nous l'avons vu dans la première partie, sainte Catherine possède quelque chose de figé, elle n'est ici que le porte-parole du message chrétien. Telle un ange extérieur au monde des humains et donc à la pièce, elle s'insère dans celle-ci pour convertir les autres. Elle n'a dès lors, pas besoin d'être présentée aux spectateurs.
 
 
-## La progression des conversions
+## La progression des conversions.
 
 Sainte Catherine n'apparaît donc que comme un révélateur et un catalyseur de l'action parce que, si, pour elle, aucune évolution n'est possible, elle fait évoluer en revanche les autres personnages. L'action évolue par réaction à ses paroles, par exemple l'amour qu'elle inspire à l'empereur, les conversions, la décision de l'envoyer en prison ou à la mort... Sainte Catherine ne prend en tout et pour tout qu'une seule véritable décision qui influe sur l'évolution de la pièce : elle demande "un moment d'audience" à l'empereur". Autrement dit, sa seule décision est d'entrer en scène. Elle le dit dans sa première réplique, à l'acte II, scène 1 : "je veux plaider la cause des chrétiens". Une fois cette décision prise, elle ne fait que se laisser guidée passivement par les initiatives des autres personnages.
 
@@ -558,7 +558,7 @@ Pour lui et l'impératrice, il s'agissait en effet de conversions du cœur.
 En plaçant ces conversions, contrairement aux sources, avant la dispute et en retardant le moment de la déclaration de leur nouvelle foi devant l'empereur, La Serre a produit un effet de cascade qui accable d'autant plus ce dernier. Voyant ses sujets les plus proches l'abandonner, il se retrouve, à la fin de l'acte IV, complètement seul.
 
 
-## Le dénouement et son sens
+## Le dénouement et son sens.
 
 La dernière victoire de sainte Catherine est sur l'empereur mais elle est de nature différente : face à ces conversions en chaîne de la fin de l'acte IV et à l'amoncellement des miracles qui surviennent pendant les supplices (la roue qui se brise, le lait qui sort des veines de sainte Catherine, les bruits de tonnerre, les anges...), l'empereur ne se convertit pas mais laisse aux Chrétiens "la liberté de professer publiquement leur religion" (l.870). Cette conclusion est pour le moins ambiguë puisque, tout en reconnaissant qu'il a eu tort, que Catherine est "divine" et en réclamant la bonté de ce dieu qu'il a nié tout au long de la pièce, il ne devient pas lui-même chrétien. Cependant, cette position permet de donner à ce dénouement un sens plus politique : prônant la tolérance religieuse, l'empereur montre par sa décision finale que l'on peut accueillir plusieurs vérités en même temps, que l'on peut reconnaître la vérité que propose l'autre sans nier sa propre vérité. Peut-être peut-on considérer que cette sagesse finale qu'a voulu transmettre La Serre, correspond au stade ultime s'inscrivant dans la progression observée précédemment. Il s'agit cette fois d'une victoire de la raison; mais le contenu de cette sagesse même (l'esprit de tolérance) fait qu'elle ne peut prendre la forme d'une conversion.
 
@@ -568,12 +568,12 @@ La dernière victoire de sainte Catherine est sur l'empereur mais elle est de na
 *Le Martyre de sainte Catherine* s'éloigne sur certains points de la technique dramatique de la tragédie pour prendre les traits de la tragi-comédie. Bien entendu, cette influence est faible mais elle est réelle.
 
 
-## Le mélange de tons
+## Le mélange de tons.
 
 On observe notamment un mélange de tons. La galanterie se mêle en effet souvent à la chrétienté : par exemple, lors de la conversion de l'impératrice, celle-ci s'exclame : "vos paroles enflamment tellement mon cœur de l'amour de ce celeste époux" (l.543) : la métaphore précieuse de la flamme est employée pour désigner l'amour divin, alors que le même procédé est constamment utilisé par l'empereur pour parler de sa passion amoureuse. A la ligne 347, il évoque en effet "le feu de l'amour qui s'allume dans mon ame" ; à la ligne 584, on trouve à nouveau "le feu qui me devore". C'est la rencontre de deux univers : le genre sérieux de la tragédie chrétienne, et un univers plus mondain empreint de galanterie et de préciosité qui s'apparente davantage à la tragi-comédie. On comprend mieux alors la mauvaise réputation de ce genre d'œuvre auprès des rigoristes de l'Église et leurs réticences à croire à la pureté de leur morale chrétienne.
 
 
-## Les effets spectaculaires
+## Les effets spectaculaires.
 
 Mais c'est surtout la part assez importante d'effets spectaculaires qui marque une rupture avec l'austérité tragique. Nous avons vu en analysant les gravures, que d'une part, le décor était somptueux et que d'autre part de nombreux personnages sont présents sur scène, sans être mentionné dans les "noms des acteurs". Lépide parle de "tous les spectateurs" ou bien des "bourreaux", dont la présence devait dans la mise en scène donner lieu à des mouvements de foule.
 
@@ -589,7 +589,7 @@ Il faut ajouter, que bien qu'il n'y ait pas de certitude à ce sujet, il est for
 Le merveilleux chrétien se confond par moment avec la magie, qui exerçait également une certaine fascination sur les spectateurs. Sainte Catherine est dite à maintes reprises dotée de "charmes", qui, dans la perspective chrétienne, s'explique par sa sainteté même, mais qui prennent souvent l'apparence d'une magie purement païenne quand ils sont rapportés par des personnages païens. Ainsi l'empereur l'appelle "enchanteresse" et attribue à ces mêmes "charmes" le prodige par lequel elle est parvenue à briser sa roue.
 
 
-## Les contradictions
+## Les contradictions.
 
 Signe de la souplesse tragi-comique ou des difficultés d'une dramaturgie chrétienne, plusieurs contradictions sont présentes, souvent liées à la représentation quelque peu caricaturale de la foi chrétienne. Tout d'abord, sainte Catherine affirme d'un côté que la meilleure chose qui puisse arriver à un chrétien est la mort parce que celle-ci fait accéder à la gloire et à toutes les felicitez, les joyes, les délices divins et éternels. "Mourons fidelles aujourd'huy, pour vivre eternellement heureuses", dit-elle ainsi avec ce qui nous paraît être un excès d'enthousiasme à l'impératrice à la fin de l'acte III. Elle affirme aussi plusieurs fois sa "résolution" (36, 67bis) et son impatience à souffrir le martyre. Face à Corvin, elle prétend par exemple, à l'acte II, scène 2, que "l'impatience en cette attente s'augmente à toute heure"(l.212) ; à l'acte III, scène 4, c'est à Porphire qu'elle explique comment les "mespris & les vengeances de l'empereur me combleront de joye en avançant ma mort" (l.491-493). A partir de là, sainte Catherine se trouve prise dans plusieurs contradictions.
 
@@ -604,7 +604,7 @@ Sainte Catherine se heurte ensuite à une deuxième contradiction. Son but est d
 # Les tragédies chrétiennes sont-elles tragiques ?
 
 
-## L'absence de souffrance
+## L'absence de souffrance.
 
 Toute tragédie commence avec l'infortune de ses héros. Or, la perspective chrétienne supprime le malheur et la souffrance. En effet, la souffrance physique du supplice et la mort qu'il entraîne sont le moyen d'accéder à la joie suprême que goûtent les âmes bonnes dans le Ciel. Toutes sortes d'expressions désignent ce qui attend les justes dans cet "après", qui suit la mort : "délices éternelles" (l.468), "gloire éternelle" (l.777), "felicitez qui durent tousjours" (l.477). Cette détermination de sainte Catherine à "creuser le tombeau où vous devez estre ensevelie" (l.596) est une forme d'ascèse ou plutôt d'auto-flagellation qui la rend digne de mériter la grâce de Dieu. La souffrance se transforme ainsi en joie. Ce qui est considéré généralement comme un malheur devient un bonheur. Ainsi, Lucius espère dès sa conversion trouver une véritable délectation dans la douleur :
 
@@ -639,7 +639,7 @@ Quel Demon jaloux de mon repos suscite aujourd'huy cette mal-heureuse Princesse,
 Par cette dénomination typiquement païenne de "Demon", l'empereur recherche une explication rationnelle à sa douleur. Le pathétique de sa situation naît du fait que personne ne peut la lui apporter. En effet, aux nombreuses questions qu'il pose à sainte Catherine, celle-ci ne peut lui donner que des réponses chrétiennes qu'il perçoit comme insensées.
 
 
-## L'immobilité de l'action
+## L'immobilité de l'action.
 
 L'absence de souffrance a pour conséquence une certaine stagnation de l'action. Pour sainte Catherine, il ne peut pas y avoir de passage du bonheur au malheur. Dès lors qu'elle est chrétienne, elle est perpétuellement dans le bonheur. Son sort ne peut pas évoluer. La dramaturgie chrétienne présente des personnages qui ne luttent en rien contre ce qui leur arrive. Ils accueillent tous les évènements comme ce que Dieu voulait et donc comme quelque chose qui n'est pas à contester. L'absence de tragique est ainsi un facteur d'immobilité de l'action. On a par moment l'impression que le débat dans lequel sainte Catherine s'est engagée n'a en réalité pas de raison d'exister. Elle souligne elle-même l'absurdité d'un affrontement dont l'issue est déjà prévisible, puisque l'empereur et ses partisans n'ont aucun moyen de pression sur les chrétiens. Par exemple, elle répond aux menaces de l'empereur que les Martyrs "souhaitent la mort dont vous les menassez (l.292). Un peu plus loin, elle reprend le même type d'arguments face à Porphire : "comment voulez-vous que j'appréhende ce que je souhaite" (l.486). Le monolithisme de la sainteté de Catherine est en contradiction avec l'existence d'un conflit en elle et, en cela, est inapte à créer du tragique. Laurent Thirouin aborde la même question au sujet de *Théodore, vierge et martyre* de Corneille, qui a été publiée quelques années après notre pièce, en 1646 : "Une martyre toute d'une pièce, entièrement préoccupée de sa vocation religieuse, n'a pas sa place dans le cadre d'une tragédie. Il faut que l'amour divin soit combattu par un attachement humain pour émouvoir le public." Corneille lui-même avait souligné la nécessité de ce conflit entre l'aspiration vers Dieu et un sentiment humain, une passion, pour réussir une bonne tragédie. Il affirme dans l'examen de cette même pièce dont il recherche les causes de l'échec :
 
@@ -658,12 +658,12 @@ Il est vray que nous sommes aveugles tous deux, vous à la lumière de la Verit�
 Les mêmes arguments reviennent à peine modifiés par une légère variation. Ici, on retrouve l'opposition entre la lumière et l'obscurité, l'opposition entre le Dieu de la vérité et le mensonge des valeurs païennes, ainsi que l'idée de l'aveuglement volontaire de l'empereur. Sainte Catherine lui tient le même discours que deux actes auparavant. On a la même impression de tourner en rond lorsqu'on observe l'argumentation de l'empereur dans leur troisième et dernière entrevue, à l'acte V : pendant cette joute verbale, qui s'étend tout de même sur plus de quatre pages, on ne relève que trois idées : "acceptez mon amour et toutes les richesses qui l'accompagnent" et "pourquoi voulez-vous mourir". Chaque idée est exprimée de plusieurs de manière différente. Prenons la première. Pour désigner les avantages par lesquels il cherche à tenter la jeune femme, nous avons les formulations suivantes : "l'Empire de toute la terre", "la couronne de l'Univers", "toutes les grandeurs de mon Empire", "l'esclat des honneurs qui vous attendent sur mon trosne", "les richesses", "les hommages de servitude" (des sujets). A chaque fois, sainte Catherine répond en rebondissant à partir des formulations proposées et naturellement toujours dans le sens du refus. Il n'y a aucune gradation, ni dans l'intensité de l'expression, ni dans la nature des arguments : on voit encore, dans cette même scène, l'empereur tenter de fléchir la détermination de sainte Catherine avec une injonction aussi simple que "rendez-vous aux prieres de mon amour" (l.794).
 
 
-## Des décisions faiblement motivées
+## Des décisions faiblement motivées.
 
 La motivation de certaines actions n'est parfois pas absente. Sainte Catherine par exemple entre en scène au moment où l'empereur a fait publier un édit contre les chrétiens, pour défendre, par la parole, la religion chrétienne qui est la sienne. La motivation profonde de cette action n'est cependant pas très claire. Dans la première scène où elle apparaît, à l'acte II, scène 1, elle présente à sa cousine Emilie plusieurs raisons de sortir du silence. Elle affirme tout d'abord : "Le Dieu que j'adore ne veut pas estre servi en secret" (22). Mais on ne comprend pas alors pourquoi elle n'a pas déclaré publiquement sa foi avant cet édit et elle ne s'accuse que maintenant d'être trop "lâche" (28) et de ne pas avoir pris plus tôt la défense des chrétiens. Autre exemple, l'empereur ne précise pas, à la scène 1 de l'acte III, pourquoi il préfère demander à Porphire de parler à sainte Catherine pour lui, plutôt que de la demander directement en mariage, ce qui aurait été en théorie peut-être plus persuasif. De manière plus générale, les décisions semblent être prises très souvent sans autre justification que le bon vouloir princier. Par exemple, l'impératrice décide d'aller voir sainte Catherine dans la prison tout simplement parce que "je veux bien me satisfaire" (l.416). De même, la deuxième entrevue entre l'empereur et sainte Catherine est motivé par cette phrase de l'empereur : "je veux me donner le contentement de luy parler" (l.582)
 
 
-## Le contournement des obstacles
+## Le contournement des obstacles.
 
 Les personnages du* Martyre de sainte Catherine* ne se heurtent pas à des obstacles forts. La première raison est l'isolement des personnages : ils ne sont pas liés les uns aux autres par des relations fortes, notamment familiales. Les personnages de filles (Léonor et Rosilée) ou de cousine (Emilie) sont secondaires et cachent en réalité des rôles de confidentes. La Serre n'utilise ainsi pas du tout la force des obstacles intérieurs qui surgissent lorsque une divergence radicale oppose deux êtres chers l'un à l'autre. Toute la violence que peuvent déclencher ces affrontements entre proches est ici complètement absente.
 
@@ -674,7 +674,7 @@ La nature des liens qui unissent les personnages est sociale. L'empereur se cond
 C'est pourquoi, il est également peu fécond de considérer le modèle traditionnel de la chaîne amoureuse comme le schéma qui structure l'action. Il est vrai qu'elle est présente, bien que courte en raison du nombre restreint de personnages : l'Impératrice aime l'Empereur qui aime sainte Catherine qui ne l'aime pas. Cette dernière est même presque explicitement désignée comme "la belle inhumaine", dénomination que revêt traditionnellement le personnage situé à l'extrémité de la "chaîne". En effet, à l'acte II, scène 5, l'empereur parle de sainte Catherine dans deux phrases successives qui commencent l'une par "cette inhumaine", l'autre par "cette belle idolâtre". Il ne s'agit pas de nier la présence du sentiment amoureux, notamment chez l'empereur. Mais celui-ci n'est jamais utilisé comme une entrave dans la décision d'agir. Nous l'avons vu plus haut, l'empereur agit souvent sans réfléchir, sous le coup d'une impulsion. A la fin de l'acte IV, après avoir ordonné d'envoyer les chrétiens au supplice, il s'écrie : "mais tout maintenant, de peur que ma justice trop tardive ne me rende complice de leur impiété" (l.730-731). Ainsi, malgré la diversité des sentiments qui agitent l'empereur au cours de la pièce, La Serre prend soin de les exprimer toujours isolément, de sorte qu'il n'y ait jamais un sentiment qui s'oppose à un autre et l'empêche de s'exprimer dans toute son intensité. C'est ainsi que l'on assiste plusieurs fois à des revirements apparemment contradictoires. Un tel changement brutal d'humeur est visible par exemple, dans le passage de l'acte V, où le dernier échange entre l'empereur et sainte Catherine voit le passage des "respects" et de "la douceur" (l.822) que l'empereur vient de manifester à la décision de "luy trancher la teste tout maintenant" (l.823). Cette réaction de l'empereur frôle l'invraisemblance, puisqu'il décide tout à coup, sans transition avec ce qui précède, d'envoyer la femme qu'il aime à la mort alors qu'il a déjà failli la perdre une fois et qu'il vient de la supplier d'accepter sa demande en mariage. Il en est de même du cœur des trois entretiens entre ces deux protagonistes, qui sont rythmés par les moments de tendresse et d'emportement de l'empereur, qui passe du ton mesuré d'une réplique comme "Vous voyez les respects que j'ay pour vostre condition, que n'avez vous de la defference pour mes Edits" (l.589-590) à la "fureur" (l.598) de celle-ci: "Quel Demon vous anime avec tant d'opiniâtreté à creuser le tombeau où vous devez estre ensevelie" (l.596-597). Deux sentiments contradictoires comme l'amour et la haine ne peuvent coexister simultanément. Chacun est présent mais sans être en concurrence avec l'autre, sans donner lieu à un conflit intérieur.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Nous avons établi le texte d'après l'édition originale de 1643, dont l'achevé d'imprimer est daté du 20 mars 1643. L'exemplaire est conservé à la Bibliothèque de l'Arsenal, sous la référence Rf. 6.726. Il en existe deux autres à la Bibliothèque Nationale sous les références YF-379 et RES-YF-382. Cette édition est parue chez Antoine de Sommaville et Augustin Courbé. Tous les exemplaires sont identiques et se présentent sous la forme d'un volume in-4°, de la manière suivante :
 
@@ -699,17 +699,17 @@ L'édition présente au début de chaque acte une gravure représentant le déco
 Notons également que cette édition originale présente une erreur de pagination : les pages 36 et 37 ont été omises.
 
 
-## Etablissement du texte
+## Etablissement du texte.
 
 Nous avons choisi de laisser aux mots l'orthographe de notre édition de travail, sauf lorsque cela choquait la grammaire actuelle, par exemple lorsqu'on trouve *quelle* au lieu de *qu'elle*. La ponctuation reste également inchangée.
 
 En début de scène, l'auteur n'annonce souvent que les nouvelles entrées. Par souci de clarté, nous restituons entre crochets tous les personnages déjà présents en scène, qui ne sont pas mentionnés. Pour faciliter les références, nous avons également rétabli le découpage en scènes à l'acte V, en fonction des entrées et sorties des personnages.
 
 
-## Corrections établies
+## Corrections établies.
 
 
-### Corrections voulues par le sens
+### Corrections voulues par le sens.
 
 dédicace : déplaisir pour de plaisir
 
@@ -734,15 +734,15 @@ l.653 : suppression du dernier *&* de la réplique.
 l. 853 : *C'en* au lieu de* s'en*
 
 
-### Fautes d'impression corrigées
+### Fautes d'impression corrigées.
 
 CATERINE (titre); rendoint, l heureux (p.2); d'étruire (l.41), LEONER (l.50), celles (l.93), ou (l.96), gravé (l.102), oû (l.271), sécours (l.376), quelle (l.415), voix (l.426), crées (l.537), impoture (l.570), telle (l.591-592), qu'elle (l.598), L'EMPEREU.T (l.600), chambr (l.627), Ste CATHEINE (l.660), ma vaincu (l.705), dedeclareront (l.761), inutils (l.773)
 
 
-# Le Martyre de sainte Catherine
+# Le Martyre de sainte Catherine.
 
 
-## A MADAME MADAME LA CHANCELLIERE [21],
+## A MADAME MADAME LA CHANCELLIERE [21],.
 
 MADAME,
 
@@ -751,12 +751,12 @@ Ce n'est point à vostre Grandeur à qui je dedie cét ouvrage, vostre merite me
 Vostre tres-humble & tres- obeïssant serviteur. PUGET DE LA SERRE.
 
 
-## AUX ESPRITS FORTS [22]
+## AUX ESPRITS FORTS [22].
 
 Je donne enfin cét Ouvrage à vostre curiosité, pour voir si vous sçavez louer avec raison, ou médire de bonne grace. Ce n'est pas que je desire vostre approbation, ny que je craigne vostre censure; je cherche seulement ma satisfaction, vous donnant sujet de parler, pour avoir celuy de vous cognoistre. Il n'est point de Tableau qui ne demande & son jour & sa bordure. Que si [23] celuy-cy avec tous ces ornemens ne peut encore vous agreer, vous me forcerez de croire que son éclat éblouit vostre veüe, ou que vos sentimens sont trop profanes pour un objet si divin. Je vous laisse pourtant la liberté que je ne sçaurois vous oster, d'en juger à vostre fantaisie. Mais je vous conseille de peser vos paroles, puis que l'estime & le mespris qu'on en fera, vous servira de recompense, ou de punition.
 
 
-## EXTRAYT DU PRIVILEGE du Roy
+## EXTRAYT DU PRIVILEGE du Roy.
 
 Par grace & Privilege du Roy, donné à Paris le 22. jour de Fevrier 1643. signé par le Roy en son conseil, COMBES, il est permis au Sieur DE LA SERRE, de faire Imprimer un Livre qu'il a composé, intitulé, *Saincte Catherine, Tragedie*, par tel Imprimeur ou Libraire qu'il voudra, durant le temps de cinq ans. Et deffences sont faites à toutes personnes de quelque qualité ou condition qu'elles soient, de l'imprimer, ou faire imprimer, sinon ceux qui auront droit dudit Sieur DE LA SERRE, à peine de deux mil livres d'amende, ainsi qu'il est porté plus au long par ledit Privilege.
 
@@ -765,7 +765,7 @@ Achevé d'imprimer pour la premiere fois, le vingtieme de Mars mil six cens quar
 Ledit Sieur de la Serre a cedé son Privilege à Antoine de Sommaville & Augustin Courbé, Marchands Libraires à Paris, suivant l'accord fait entr'eux.< Les exemplaires ont esté fournis >
 
 
-## NOMS DES ACTEURS
+## NOMS DES ACTEURS.
  – L'EMPEREUR,
  – L'IMPERATRICE,
  – LEONOR,Fille de l'Imperatrice.
@@ -781,907 +781,907 @@ La Scene est dans le Palais de l'Empereur en Alexandrie.
 
 
 
-## PREMIER ACTE [24]
+## PREMIER ACTE [24].
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 L'Imperatrice, Leonor & Rosilee ses filles
 
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Que les bornes de cét Empire sont aujourd'huy de longue étenduë, puis qu'une derniere victoire nous fait triompher de tout l'Univers. L'Empereur n'a plus d'ennemis; tous subissent ses loix en redoutant ses armes. Et il semble que les Dieux mesmes, quoy que jaloux⁎ de leur autorité, l'ayent / / partagée avec luy, le laissant regner sur la terre aussi absolument qu'ils regnent dans le Ciel. Mais parmy toutes ces felicitez qui me comblent de joye, un secret deplaisir en modere l'excez⁎. Je ne sçaurois souffrir la tyrannie de cét Edit qui condemne les Chrestiens à la mort s'ils refusent de l'encens à nos Divinitez. Leur sort par trop funeste me demande des pleurs, au mesme temps que mon devoir en fait tarir la source. J'ay beau porter toutesfois des offrandes sur nos Autels, en signe d'allegresse, mon coeur devancera ma main, offrant des soûpirs de compassion pour ces misérables, plustost que des coronnes [25] de gloire pour nos Dieux.
 
-    LEONOR
+    LEONOR.
 Quel demon jaloux de vostre repos, Madame, vous oste le sentiment [26] de ses delices : Tout rit à vos desirs ; le Soleil vous peut faire voir sur la terre autant d'esclaves qu'elle porte de mortels. Et comme si vous estiez insensible à toutes ces faveurs, vous en mesprisez la jouïssance, apres avoir fait mille vœux pour les acquerir. Les Chrestiens doivent estre immolez à la juste cholere de l'Empereur, pour porter la peine de leur des-obeïssance. Nos Autels attendent aujourd'huy ces victimes, ou leurs offrandes.
 
-    ROSILEE 
+    ROSILEE. 
 La Religion ne s'introduit pas dans nos ames, ma soeur, ny par le fer, ny par le feu, il faut que la Nature nous en donne les premiers sentimens, & que les Dieux achevent le reste. Car comme ils ne sont que lumiere, c'est à eux d'esclairer nos esprits pour les eslever jusques à leur connoissance, selon la portée⁎ de nostre condition. Les Chrestiens sont plus malheureux que coupables. Que si les Loix de l'Etat, plustost que celle de la Raison, demandent ou leur vie, ou leur obeïssance, dans la necessité⁎ où ils se treuvent reduits, je souffre avec eux une partie de sa violence.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Mon ame est si sensible [27] aux miseres d'autruy, qu'elle ne se deffend jamais contre les atteintes de compassion qu'elles luy donnent. Je veux [28] que les Chrestiens soient criminels d'Etat, le devoir & la pitié tiennent mon ame partagée; si je souffre qu'on les accuse, je ne sçaurois me resoudre à les voir punir.
 
-    LEONOR
+    LEONOR.
 J'appréhende que vostre Majesté n'aye / / beaucoup de peine, & peu de satisfaction dans le dessein qu'elle a de les sauver, puis que l'Empereur a conjuré⁎ leur perte. Quelle honte luy seroit ce, apres tant de victoires, de recevoir la loy au milieu de sa Court, d'une poignée de gens nez de la lie du peuple. Si sa Justice n'en extermine la race, il faudra un nouvel Hercule pour en domter la rebellion.
 
-    ROSILEE
+    ROSILEE.
 Vous nous voudriez persuader que les Dieux se baigneront de joye dans le sang des Chrestiens, comme s'ils prenaient plaisir à détruire leurs ouvrages. On doit s'informer de leur vie [29], & non pas de leur creance. On doit disje les instruire par l'exemple de nostre vertu, plustost que par l'apprehension des supplices.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Je ne sçaurois me persuader que sa Majesté adjoute à tant de victoires qui la comblent d'honneur, la deffaite [30] des Chrestiens qui la couvriront de honte. Quel avantage luy sera-ce de mener en triomphe des ennemis qui n'ont que des soûpirs et des larmes pour resister à sa violence. / / La foiblesse et la soubmission ne demandent jamais grace inutilement qu'à la Tyrannie [31].
 
-    LEONOR
+    LEONOR.
 Il faut bien que sa Majesté se serve de la force des tourmens⁎ pour se faire obeir, puis que celle de ses loix est inutile.
 
-    ROSILEE
+    ROSILEE.
 La Clemence assujetit plus de coeurs, que la Cruauté n'en sçauroit immoler.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 En effet, si les Roys ne tiennent leurs sujets enchaisnez par l'amour, aussi bien que par la crainte, ils ne songent jamais qu'à recouvrer leur liberté, ne pouvant supporter le joug de leur servitude. 
 
 
-### SCENE II
+### SCENE II.
 L'Imperatrice, Leonor, Rosilee, Trasee
 
 
-    TRASEE
+    TRASEE.
 Madame, les preparatifs du Sacrifice sont faits, l'Empereur est desja en chemin [32] pour aller au Temple, le voicy qui vient.
 
 
-### SCENE III
+### SCENE III.
 L'Imperatrice, L'Empereur, Porphire, suivy de toute sa Court
 
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Madame, nos voeux sont exaucez, & nos esperances terminées⁎. Les Dieux protecteurs de mon Empire, ont voulu étandre son autorite aussi / / loin que le Soleil porte ses rayons. Toute la terre est mon Domaine, tous les mortels sont mes sujets, & je ne voy rien aujourd'huy sous le Ciel qui ne contribuë à mes felicitez pour me faire cognoistre qu'elles sont hors d'exemple. Mon Destin plus puissant que la Fortune, l'assujetit sous mes loix, puis que le Sceptre que je porte à la main sert de clou pour arrester sa roüe. Mais je veux faire voir à ce mesme Soleil qui éclaire mes Triomphes, que les Sacrifices continuels que je rendray aux Dieux en seront les plus superbes trophées, faisant eriger à leur gloire immortelle autant d'autels que j'ay vaincu d'ennemis.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Il est juste de rendre aux Dieux les hommages de reconnoisance que nous devons à leur bonté, apres une si grande victoire, & les Sacrifices n'en peuvent estre que publics, puis que [33] chacun doit prendre part à nostre joye.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Porphire, renouvelle mes plaisirs dans le nouveau⁎ recit des merveilles que Silanus & Thesiphonte [34] ont faites à l'extremité de la terre pour m'en rendre l'unique conquerant. Tu ne sçaurois charmer mes oreilles d'une plus douce harmonie.
 
-    PORPHIRE 
+    PORPHIRE. 
 Leur valeur incomparable et leur courage invincible, me fournissant d'abord trop de matiere, je me trouve muet dans [35] un si beau sujet de parler [36]. Toutesfois comme leurs actions sont également admirables, l'éclat des unes representera à vostre Majesté la beauté des autres. Ces deux Heros de nostre Siecle n'eurent pas plustost fait prendre terre à leur armée au premier port de la Scithie [37], apres avoir forcé la resistance qui s'opposa à leur dessein, que se rendans maistres de la campagne, le bruit [38] de vostre renommée depeupla tout à coup [39] les villes, & enrichit [40] les deserts de leurs depoüilles pour en oster l'esperance à ces conquerans. Mais comme les obstacles qu'ils rencontroient dans le chemin de leurs victoires en augmentoient les coronnes [41], ils porterent leurs armes aussi loin que la crainte avoit porté leurs ennemis; & jusques dans ces mesmes deserts pour en accroistre l'horreur en le peuplant de morts, dont on ne peut jamais sçavoir le nombre; & moins encore le prix des tresors qui enrichirent nos soldats. Les nouvelles de cette grande defaite donnant l'allarme à tous les peuples voisins, les Sarmates [42], les Caspiens, & les Basternes, composerent un nouveau corps d'armée, du debris  / / de celle des Scithes, & y joignirent leur force pour la rendre invincible. Douze Roys se firent voir dans un champ de bataille à la teste de cent mille combatans, pour deffendre leur liberté aussi bien que leur vie; Et ce fut en ce dernier combat, où Silanus et Thesiphonte, animez également du seul Genie de vostre Majesté en firent admirer⁎ la Fortune, par la grandeur de leur courage, puis qu'avec une armée moins forte en nombre, que celle des ennemis, ils en punirent l'audace, immolant les uns à leur juste fureur⁎, & réservant les autres à une juste servitude. La premiere attaque parut d'abord funeste de tous costez. Les Scithes qui portoient encore gravées sur le front les marques de leur defaite, hasardoient⁎ leur vie pour en effacer la honte, & comme en cela ils partageoient le peril qu'ils couroient [43], on les voyoit aussi-tost vaincus que vainqueurs, recevant & donnant tout à la fois mille playes mortelles. Les Sarmates, & les Basternes animez de ce bel exemple, aussi bien que de leur propre valeur, méprisoient tellement la mort, qu'ils ne reculoient jamais d'un pas à sa rencontre, & dans le desespoir de se sauver, ils en ostoient souvent l'esperance à leurs vainqueurs, mourant tous ensemble pour emporter une mesme gloire [44]. Mais enfin tous les efforts de ce grand nombre d'ennemis / / n'en purent retarder la defaite que d'un moment. Les uns se voüerent à la fuite comme à leur Deesse tutelaire, & les autres encoururent le sort de la servitude, en se treuvant forcez de vivre dans les fers qui leur avoient esté destinez. Une journée entiere fut employée au gain de cette bataille. Et il est croyable que les Dieux protecteurs de cét Empire, alantissoient⁎ la courbe du Soleil pour avancer la defaite de vos ennemis, puis que la nuict ne s'approchoit qu'à la mesure de nos desirs, comme si nous eussions esté Maistres également & de nostre fortune & de celle des vaincus. Dix Roys furent contez au nombre des morts, & les deux autres courant la mesme disgrace que leurs sujets, en partagerent les chaisnes, & se treuvent esclaves dans une mesme prison. Le seul bruit d'un Triomphe si glorieux s'estant épandu dans l'Orient, servit d'une nouvelle armee pour forcer tous les autres peuples barbares qui l'habitent, à se rendre, & dans les dix jours nous vismes à nos pieds leurs Ambassadeurs, chargez des presens, ou plustost des tributs, qu'eux-mesmes s'estoient imposez pour prevenir nos demandes. De sorte que vostre Majesté peut disposer / / aujourd'huy d'autant de Coronnes qu'il y a de peuples sur la terre, puis que tout le monde ensemble vous recognoist pour Souverain.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ces felicitez sont des presens des Dieux, plustost que de la Fortune, & les bruits de mon nom ny la force de mes armes ne me rendroient point aujourd'huy Maistre de toute la terre, si le Ciel n'eût donné un nouveau⁎ courage à mes Soldats pour emporter le prix⁎ d'une telle conqueste; je veux que Silanus et Thésiphonte ayent contraint les plus incredules d'adjoûter foy aux miracles de leur valeur; si faut-il confesser que les Dieux en soustenant mes interests ont gaigné la victoire. Ce qui m'oblige en recognoissance de tant de faveurs, de faire un Sacrifice aussi pompeux⁎ que mon Triomphe, & pour le rendre plus celebre⁎, il faut que les Chrestiens en soient, ou les admirateurs, ou les victimes, ne pouvant [45] souffrir dans mon Empire des Sujets qui refusent de l'encens aux Divinitez que j'adore. 
 
 
-### SCENE IV
+### SCENE IV.
 Lepide et les autres
 
 
-    LEPIDE
+    LEPIDE.
 Le Grand Prestre attend vos Majestez dans le Temple où tout le peuple est assemblé, pour commencer le Sacrifice.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Allons Madame, allons celebrer la feste des Dieux durant ce beau jour de Triomphe; il leur en [46] faut offrir les coronnes pour en meriter la gloire; Que si les Chrestiens au mespris de mon Edit ne suivent mon exemple, je jure par ma vie, que la leur sera l'objet [47] de mon juste Courroux.< Fin du Premier Acte > 
 
 
-## ACTE II
+## ACTE II.
 
 
-### PREMIERE SCENE
+### PREMIERE SCENE.
 SAINTE CATHERINE, ET EMILIE sa cousine
 
 
-    SAINCTE CATHERINE
+    SAINCTE CATHERINE.
 Que cét Edit qu'on a fait contre les Chrestiens me paroist doux & cruel tout à la fois. Il est doux en menassant de nous oster une vie toute remplie de miseres, pour nous en donner une autre toute pleine de felicytez! Et il est cruel en voulant effacer du milieu de nos coeurs ou par le fer, ou par la flame [48], les sacrez caracteres⁎ de nostre Religion. Le silence & la crainte de cette rencontre me rendroient malheureuse et criminelle. Je veux plaider la cause des Chrestiens, puis que je suis / / également interessée & dans le gain, & dans la perte [49] qu'ils en feront.
 
-    EMILIE
+    EMILIE.
 Vous pouvez plaindre secrettement leur infortune, & par generosité & par rayson, puis que vous professez une mesme creance: Mais si peu d'éclat [50] que facent vos plaintes, vous courez hasard de subir la peine où ils sont déjà condamnez.
 
-    STE CATHERINE
+    STE CATHERINE.
 Le Dieu que j'adore ne veut pas estre servi en secret. Il se dit la parole de son Pere; Serois-je muette quand il faut confesser son nom: puis qu'il est mort pour mon salut, je veux sacrifier ma vie pour sa gloire.
 
-    EMILIE
+    EMILIE.
 Vous devez menager egalement en cette rencontre⁎, & vostre vie & vostre credit [51]; croyez vous faire changer en faveur des Chrestiens la resolution qu'on a prise de les perdre. Il faut de nécessité qu'ils soient ou victimes, ou idolatres: les Edits & [52] l'Empereur sont des loix qu'on ne peut violer.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Quand le dessein que j'ay de les proteger ne reüssiroit pas, je me satisferay toujours la premiere [53], en courant un mesme sort; ma vie & mon credit sont au rang des choses périssables, je ne veux faire fortune que dans le Ciel.
 
-    EMILIE
+    EMILIE.
 Si faut-il [54] que la prudence modere l'excez⁎ de vostre zele. Quel profit peuvent tirer les Chrestiens de vostre dommage⁎: Vous avez donné des larmes à leur malheur, vous soûpirez⁎ encore de leurs miseres; vous joignez vos soins⁎ à leurs voeux pour leur faire recouvrer la liberté, que sçauroient-ils pretendre⁎ davantage.
 
-    STE CATHERINE
+    STE CATHERINE.
 Je méprise les conseils de la prudence humaine, où il y va de l'interest⁎ de mon salut. Ma mort sera plus utile aux Chrestiens que ma vie, puis que l'exemple de mon Martyre doit donner du courage aux plus timides pour franchir la carriere⁎ des tourmens⁎ où ils sont destinez. Voicy Corvin qui m'en porte sans doute les premieres nouvelles. 
 
 
-### SCENE II
+### SCENE II.
 SAINTE CATHERINE, EMILIE CORVIN
 
 
-    CORVIN
+    CORVIN.
 Madame, l'horreur & la pitié rendent mes yeux plus éloquens que ma bouche, pour vous faire voir par mes larmes plutost que par mes discours le deplorable sort des Chrestiens; lisez donc Madame sur mon triste visage le funeste recit de leur mort, puisque la voix me defaut [55] pour vous en raconter l'histoire [56]; Je vous diray toutefois en peu de mots, qu'Alexandrie n'est plus qu'un Theatre [57] sanglant où l'Empereur fait representer aujourd'huy la tragedie de ses cruautez, par autant de bourreaux qu'il a choisi de victimes; & à voir les ruës toutes couvertes de sang, on diroit que le Nil qui en porte la couleur s'est débordé pour en tirer vangeance.
 
-    STE CATHERINE
+    STE CATHERINE.
 Ce funeste recit des tourmens⁎ qu'ils ont soufferts blesse si vivement mon coeur par les oreilles, / / qu'il en soûpire de douleur aussi bien que de compassion. Mais son ressentiment me paroist trop lâche, dans le peu de soin que je prens de les secourir: Allons arracher des mains des bourreaux ces innocentes victimes, ou les forcer à me mettre au nombre. Ma conscience & mon devoir me reprochent déja ma paresse. Je veux désarmer la colere du Tyran, ou l'animer⁎ à ma propre ruine⁎.
 
-    CORVIN
+    CORVIN.
 Aurez-vous bien le courage de soutenir l'interest des Chrestiens [58] devant l'Empereur qui est leur partie⁎.
 
-    STE CATHERINE
+    STE CATHERINE.
 On ne manque jamais de hardiesse à soustenir la verité; la perfection de la grace en ces rencontres⁎, suplée au deffaut de la nature. Il suffit de le desirer pour l'entreprendre, & c'est assez de commencer pour y reüssir.
 
-    CORVIN
+    CORVIN.
 Tous vos amis vous conseillent la fuite.
 
-    STE CATHERINE
+    STE CATHERINE.
 O pernicieux conseil! Et où fuiray-je pour estre à l'abry des / / atteintes⁎ de ma lascheté, puis que ses honteux reproches troubleront en tous lieux le repos de ma vie! Quand j'éviterois la colere du Tyran, celle du Ciel me poursuivroit toujours fuyant l'occasion de combattre pour sa gloire, il faut deffendre ses Autels.
 
-    EMILIE
+    EMILIE.
 Tous vos efforts seront inutiles
 
-    STE CATHERINE
+    STE CATHERINE.
 Mais le dessein en sera glorieux
 
-    EMILIE
+    EMILIE.
 Qui peut resister à une puissance absoluë
 
-    STE CATHERINE
+    STE CATHERINE.
 Un esprit resolu comme le mien
 
-    EMILIE
+    EMILIE.
 La tyrannie de l'Empereur est à craindre
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Et la gloire du Martyre à desirer
 
-    EMILIE
+    EMILIE.
 L'occasion de le souffrir se presente à tous momens
 
-    STE CATHERINE
+    STE CATHERINE.
 Et l'impatience en cette attente s'augmente à toute heure.
 
-    CORVIN
+    CORVIN.
 Pourquoy vous precipitez vous avec tant de violence dans un peril si aparent.
 
-    STE CATHERINE
+    STE CATHERINE.
 Parce qu'il y a plus d'honneur à l'encourir, que de contentement à l'évitter.
 
-    CORVIN
+    CORVIN.
 De quel charme⁎ trompeur avez vous les sens offusquez⁎, faisant si peu de cas des conseils que mon affection⁎ vous donne.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Et de quel funeste sommeil avez vous l'esprit assoupi meprisant les raisons que Dieu seul me suggere
 
-    CORVIN
+    CORVIN.
 Tous ces sentiments sont des faiblesses de vostre humeur, que la prudence ne peut souffrir.
 
-    STE CATHERINE
+    STE CATHERINE.
 Et tous vos discours autant de temoins⁎ de vostre aveuglement, que la Justice ne sçauroit approuver.
 
-    CORVIN
+    CORVIN.
 Vostre perte ne sauvera pas le reste des Chrestiens qui vivent encore.
 
-    STE CATHERINE
+    STE CATHERINE.
 Non, mais elle leur apprendra à mepriser les grandeurs de la terre, pour posseder les félicitez du Ciel.
 elle s'en va
 
 
-    CORVIN *seul*
+    CORVIN *seul*.
 Il faut avouer qu'un zele indiscret⁎ est aussi aveugle / / qu'une amour passionnée. Cette jeune Princesse court avec trop de violence au devant du peril dont elle est menacée, par un excez⁎ de charité que la nature ni la raison ne sçauroient approuver. La colere des Rois ne se peut adoucir que par la soumission; c'est un Torrent qui entraine tout ce qu'il trouve; Et comme il ne veut que passer, la prudence luy fait un chemin dont la pente precipite la courbe [59]. Je sens déjà par avance tous les malheurs qu'elle doit encourir [60].
 
 
-### SCENE III
+### SCENE III.
 L'EMPEREUR, L'IMPERATRICE, PORPHIRE, & toute leur suite
 
 
-    L'EMPEREUR
+    L'EMPEREUR.
 La feste des Sacrifices que je presente aux Dieux ne sçauroit estre dignement celebrée, si le dernier des Chrestiens n'en est aujourd'huy la victime sur les mesmes Autels qu'il aura profanez de son mespris. Je veux estouffer cette race dans son berceau, / / en condemnant au feu tous les enfans qu'elle fait naistre [61]; & je prens encore à témoin [62] les mesmes Dieux que j'adore, de n'epargner personne, & de faire eclatter le bruit de ma vengeance aussi loin que mes armes ont porté mon nom.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Les cris & les plaintes de ces malheureux seront des objets de compassion qui modereront en quelque sorte [63] nostre joye. Il est temps ce me semble de faire cognoistre vostre bonté, apres avoir fait ressentir vostre puissance.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Les plaintes des criminels sont autant de Cantiques [64] de gloire pour les Dieux, puisqu'elles publient hautement leur Justice; que si nos sens sont effrayez des tourmens⁎ qu'ils endurent, la force de la raison doit prevaloir sur cette foiblesse de la nature, pour rejouïr nos esprits de l'avantage qui nous en revient.
 
 
-### SCENE IV 
+### SCENE IV. 
 LEPIDE, L'EMPEREUR
 
 
-    LEPIDE
+    LEPIDE.
 Sire, la Princesse Catherine demande audience à vostre Majesté.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Qu'on la face entrer, pour sçavoir le sujet qui la meine: mais j'appréhende d'en estre trop tost esclaircy⁎, m'imaginant ce qu'elle a à me dire.
 
 
-### SCENE V
+### SCENE V.
 SAINTE CATHERINE, L'EMPEREUR
 
 
-    L'EMPEREUR, *parle le premier*
+    L'EMPEREUR, *parle le premier*.
 Que desirez-vous de moi, ma Princesse.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Un moment d'audience⁎
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Parlez hardiment, vostre merite & vostre condition vous en donnent la liberté.
 
-    STE CATHERINE
+    STE CATHERINE.
 Je m'estonne que vostre Majesté jette les fondemens de son Empire sur les cendres des Chrestiens? comme si son repos dependoit de leur ruine⁎. Elle veut commencer [65] son Regne par un deluge de sang, dont la cruauté de ses Edits va inonder toute la Grece [66]; mais le Ciel y prepare déja vostre cercueil, vous metant au nombre des victimes qu'on doit immoler sur vos Autels.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Qui vous rend si hardie de plaider la cause des Criminels d'Estat en ma presence.
 
-    STE CATHERINE
+    STE CATHERINE.
 Mon devoir
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 Mais vous ne considerez pas qu'en demandant leur grace, vous vous rendez coupable.
 
-    STE CATHERINE
+    STE CATHERINE.
 Si leur Religion fait mon crime, je ne m'en justifieray jamais.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quoy professer leur creance dans ma Cour & devant mes yeux, sans rougir de la honte de vostre impieté, ou sans pâlir de la crainte de ma vengeance.
 
-    STE CATHERINE
+    STE CATHERINE.
 En quelque lieu où je me treuve ma bouche ne dement⁎ jamais mon coeur. Si je rougis de honte ce sera pour vostre aveuglement, & si je pâlis de crainte, ce ne peut estre que pour vostre perte.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ne songez qu'à vostre salut, puis que vous respirez [67] à la veille de vos funerailles.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 J'y songe aussi [68] continuellement par le mespris que je fay de vos nouvelles loix.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Doutez vous de mon authorité dans la condition où je me treuve ?
 
-    STE CATHERINE
+    STE CATHERINE.
 Non, mais j'en mesprise la puissance dans la resolution où je suis.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ne savez vous pas que mes volontez sont reverées par toute la terre, & que mon Sceptre est aussi redoutable que le foudre [69] des Dieux ?
 
-    STE CATHERINE
+    STE CATHERINE.
 A quoy vous servent toutes ces marques de souveraineté, si vostre raison est au nombre de vos esclaves. Vostre Sceptre est de mesme matiere que la main qui le porte [70]: son authorité absoluë ne fait peur qu'aux meschans [71], les ames innocentes en méprisent la tyrannie, ayant assez de constance⁎ pour la souffrir, quand le pouvoir leur manque de l'éviter.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 Je sçay l'art de me faire craindre.
 
-    STE CATHERINE
+    STE CATHERINE.
 Apprenez donc maintenant celuy de vous faire aymer.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je me feray plutost obéir, & si je trouve de la resistance, je me serviray des bourreaux & des supplices pour la domter.
 
-    STE CATHERINE
+    STE CATHERINE.
 Croyez vous que la force des tourmens⁎ estonne⁎ le courage des Martyrs: Ils souhaitent la mort dont vous les menassez; mais s'ils en portent [72] la peine, vous en souffrirez la honte, puis que vostre seule Tyrannie les a declarez criminels.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Mes passions⁎ ne s'interessent point dans ma Justice, & si [73] je l'exerce aujourd'huy avec severité, mon devoir m'y contraint, & avec violence.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Les Chrestiens ont toujours eu du respect & de la sousmission⁎ pour vos commandemens, que s'ils preferent maintenant la mort à l'obéïssance [74] de vostre nouvel Edict; j'envie la gloire d'un si beau trespas à ceux qui m'ont déja devancée! On doit subir les decrets du Ciel, plutost que les ordonnances des hommes.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Le Ciel a estably les fondemens de mon Empire ici bas.
 
-    STE CATHERINE
+    STE CATHERINE.
 Mais luy-mesme destruira bien tost ceux de vos Temples.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Il faut donc que les Dieux se destruisent eux-mesmes, puis que leur gloire n'a point de trosne plus éclatant que celuy de nos Autels.
 
-    STE CATHERINE
+    STE CATHERINE.
 Vos divinitez sont des chimeres de la fantaisie⁎ à qui la reverie⁎ des Gentils a donné des noms differens, & leur / / industrie⁎ des corps [75] de toute sorte de matiere pour charmer⁎ les esprits de ces fausses illusions [76], & tromper les sens par leurs sensibles apparances; mais le Soleil de la Verité, qui dissipe à nos yeux toutes ces ombres, vous en laisse l'obscurité dans vostre aveuglement volontaire, & nous en donne la cognoissance pour en eviter le peril.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ha! quelle impudence ? mais quels blasphemes, les cheveux me hérissent [77] à l'ouye de ces discours, qui vous anime à⁎ me tenir ce lengage?
 
-    STE CATHERINE
+    STE CATHERINE.
 La raison.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Et c'est elle-mesme qui se declare vostre partie⁎, puisqu'elle me contraint malgré les persuasions [78] de vostre jeunesse, de punir vostre impieté.
 
-    STE CATHERINE
+    STE CATHERINE.
 Si vostre fureur⁎ a fait des Martyrs dans le berceau, ma jeunesse ne doit point arrester le cours de ces violences. Laissez, laissez-là se desalterer dans mon sang, & épargnez / / celuy de tant d'autres innocens que vos bourreaux traisnent au supplice.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quel plaisir prenez vous d'avancer vostre perte pour retarder celle d'autruy ?
 
-    STE CATHERINE
+    STE CATHERINE.
 Et quel avantage vous sera-ce de ruiner vostre reputation pour assouvir vos cruautez ?
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Appelez-vous cruauté de venger les Dieux, & punir des rebelles.
 
-    STE CATHERINE
+    STE CATHERINE.
 Est-ce une action de clemence [79], de forcer les volontez, & violer les loix de la Nature.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ha quelle arrogance! Elle contraint ma Justice à la punir, au lieu d'implorer ma bonté pour la pardonner.
 
-    STE CATHERINE
+    STE CATHERINE.
 Ha quel aveuglement! il met mon devoir au rang de mes / / crimes, & condemne la Raison parce qu'elle tient mon party.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Vous avez beau courre [80] à vostre ruine⁎, ma pitié s'interesse pour vostre salut: Qu'on l'arreste prisonniere dans mon Palais. Je vous donne le loisir [81] de considerer vostre faute.
 
-    STE CATHERINE
+    STE CATHERINE.
 Dites plutost pour pleurer de la vostre.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je veux depeupler la terre, & remplir les enfers de cette race de Demons, dont eux-mesme excitent la malice⁎, pour semer toujours la division parmy mes sujets, en leur persuadant la revolte. Je veux disje faire creuser un tombeau si profond pour les y ensevelir dedans tous ensemble, qu'on perde peu à peu jusques à la memoire de leur nom. Il faut regner absolument si l'on veut porter la qualité de Souverain, les Sceptres & les coronnes ne relevent que d'eux-mesmes [82]. Mais que dis-je ? cette inhumaine se rit de mes desseins, sçachant que le pouvoir de ses charmes⁎ s'estend beaucoup plus loin que / / celuy de mon authorité. Cette belle idolatre me persuade de le devenir [83]; Car à mesure que le feu de la cholere embrase mon coeur, je sens que celuy de l'amour s'allume dans mon ame. Quel party doisje prendre [84]? Fuiray je les sentimens de la Justice ou ceux de l'amour. Les Dieux veulent estre vangez, mais si je leur obéïs je me punis moy-mesme. En cette extremité mon esprit irresolu me suggere tout à la fois mille differentes pensées sans se pouvoir determiner au choix de l'une, ou de l'autre. Mais c'est trop long temps s'arrester dans un chemin où la raison & mon devoir me veulent servir de guide, courons à la vengeance, au mespris de l'amour, & s'il faut mourir de la blessure dont je suis atteint, sauvons l'honneur en perdant la vie, ce me sera toujours quelque sorte de consolation.< Fin du Second Acte > 
 
 
-## ACTE III [85]
+## ACTE III [85].
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 L'EMPEREUR, PORPHIRE
 
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ha Porphire, que mon sort est deplorable! J'ay fait prisonniere dans mon Palais celle-là mesme qui me tient esclave sous son Empire; ma tyrannie a commandé qu'on la mist aux fers, & sa beauté plus cruelle encore me donne à tous momens la gesne⁎. Je veux vanger les Dieux de son impieté, & elle me punit déja de la pensée que j'en ai euë; quel party dois-je prendre en l'estat où tu me vois reduit.
 
-    PORPHIRE 
+    PORPHIRE. 
 Quoy, la Princesse Catherine seroit si heureuse dans son malheur d'enchesner son geolier, d'imposer des loix à son Souverain, & de se faire dresser des Autels par celuy-là mesme qui l'avoit desja destinée⁎ pour victime: ce discours me surprend.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Pourquoy t'estonnes-tu de ces merveilles, puis que l'Amour en est l'ouvrier⁎: Ouy, cette belle criminelle & cette adorable impie me demande des Autels, au mesme temps que je dois exiger d'elle des Sacrifices; Je la veux forcer d'adorer nos Dieux, & elle me contraint de la mettre au nombre de nos Deesses. Comment l'accuseray-je d'idolatrie, si j'en fais aujourd'huy mon Idole.
 
-    PORPHIRE
+    PORPHIRE.
 C'est toujours servir les Dieux d'obeir à celuy qui s'en dit le maistre [86]; vostre Majesté se doit faire justice la premiere [87], la colere & la vengeance ne sont plus de saison contre un ennemy qui se fait redouter dans sa foiblesse, & qui mene en triomphe son vainqueur.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 J'approuve ce conseil: Mais j'ay besoin de ton secours; Il faut que tu la persuades de changer de Religion, & d'agreer l'amour que j'ay pour elle. Que si la vertu prenant ses interests luy fait mépriser les miens; represente⁎ luy pour la satisfaire⁎, que la justice autorise ma passion⁎ dans le dessein que j'ay de partager mon autorité avec elle en qualité d'espouse.
 
-    PORPHIRE
+    PORPHIRE.
 Les honneurs dont vostre Majesté la veut combler aujourd'huy, me semblent si considerables, qu'il faudroit estre insensible pour refuser ce présent; & il seroit inutile d'employer d'autre éloquence que celle de tous ces avantages pour la persuader, puis qu'ils se font souhaiter eux-mesmes par les grandeurs qui les accompagnent.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Offre luy hardiment & mon sceptre & ma couronne, puis que le coeur qui anime la teste et la main qui les portent, ne connoist plus que ses loix.
 
-    PORPHIRE 
+    PORPHIRE. 
 Si le succez des desseins de vostre Majesté ne depend que de mes services, elle sera bien tost satisfaite.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Va donc promptement consulter l'Oracle de ma bonne fortune⁎, j'ay déjà de l'impatience pour ton retour. Mais considere toujours la fin de ton message, je la veux posseder à quelque prix que ce soit. Si elle se met en colere, adoucis la par tes sousmissions⁎. Si elle mesprise tes offres, represente⁎ luy sans t'émouvoir le tort qu'elle se fait. Enfin ménage discretement⁎ le temps & l'occasion de l'entretenir, & ne hazarde⁎ rien sur tout en cette affaire, puis qu'il y va de mon repos.
 
-    PORPHIRE
+    PORPHIRE.
 J'executeray fidelement les commandemens de vostre Majesté. 
 
 
-### SCENE II
+### SCENE II.
 L'IMPERATRICE, & LEONOR
 
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 J'ay decouvert à la fin⁎ les artifices [88] de l'empereur; il fait semblant de vanger les Dieux, en punissant les Chrestiens, & il protege Catherine dans son Palais, la fait traiter en Reine plustost qu'en esclave, & commande qu'on luy rende les honneurs qui ne sont deuz qu'à ma qualité, comme si elle occupoit déja la place de mon trosne. Il soûpire en secret de ses appas; Et pour cacher à mes yeux le feu de son amour, il fait semblant d'attiser celuy de sa colere [89], croyant me decevoir⁎.
 
-    LEONOR
+    LEONOR.
 Quelle apparence⁎, Madame, que l'Empereur ait dessein de contracter alliance avec une Chrestienne au mespris des Dieux & de la foy qu'il a donnée à vostre Majesté. Je veux [90] que Catherine soit la plus belle du / / monde, le pouvoir de ses charmes⁎ ne s'étend pas si loin que ses désirs.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Il faut que j'apprenne de sa bouche les sentimens de son coeur, pour sçavoir au vray [91] où tendent ses entreprises⁎; L'ambition n'a pas moins de charmes⁎ pour la tenter, que son visage d'attraits pour me donner de la jalousie.
 
-    LEONOR
+    LEONOR.
 Ce n'est pas le moyen de moderer sa vanité, que de luy rendre visite jusques dans sa prison; vos sousmissions⁎ esleveront si haut son arrogance, qu'elle portera sans doute ses desseins aussi loin que ses pensées.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Je veux bien me satisfaire⁎ dans l'inquietude où je me treuve, son entretien [92] éclaircira⁎ mon esprit de ses doutes; Suivez moy, ne vous opposez plus à mon contentement. 
 
 
-### SCENE III
+### SCENE III.
 
-    STE CATHERINE, *seule dans la chambre de sa prison* [93]
+    STE CATHERINE, *seule dans la chambre de sa prison* [93].
 "O Divin Redempteur de mon ame [94], puis que vostre bonté toujours "infinie guide aujourd'huy mes pas dans le mesme chemin que vous avez "tenu pour acquerir vostre propre gloire, éclairez mon esprit de la lumiere de "vos "graces: Echaufez ma volonté du feu de vostre amour, & animez mon "courage de la force de vostre protection, afin que je connoisse la verité en "vous adorant, que je mesprise teutes choses en vous aymant, & que je "triomphe de tous mes ennemis en leur faisant confesser & vostre nom, & "leur erreur par la voix d'une humble repentance. Adjoutez Seigneur, à "toutes ces graces, celle de pouvoir mourir pour vous, n'estant plus capable "de passion⁎ que pour en souhaiter la gloire. Mais d'un desir [95] impatient⁎, puis "qu'il me fait sans cesse soûpirer⁎ en cette attente. Voicy Porphire, que "desire t'il-de moi.
 
 
-### SCENE IV
+### SCENE IV.
 PORPHIRE, SAINTE CATHERINE
 
 
-    PORPHIRE
+    PORPHIRE.
 Madame, réjoüissez-vous, je viens rompre vos chesnes, & vous preter la main pour vous ayder à monter sur le trône qu'on vous a preparé, si vous étes resoluë à changer de creance.
 
-    STE CATHERINE
+    STE CATHERINE.
 Monsieur, les chesnes de ma servitude me sont plus agreables, que les nouvelles que vous m'aporter de les rompre; & je n'ay pas besoin de vostre appuy pour monter sur le trône où j'aspire, puis que la Religion que je professe, & la mort qu'elle me fait esperer y ont desja marqué la place.
 
-    PORPHIRE
+    PORPHIRE.
 Ne vous est-ce pas un grand honneur de voir assujetty sous vos loix par la seule force de vos appas le seul Monarque de la terre.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 La gloire est bien plus grande de se vaincre soy-mesme par le mespris de toutes ces vanitez.
 
-    PORPHIRE
+    PORPHIRE.
 Apellez-vous vanité la conqueste d'un Royaume.
 
-    STE CATHERINE
+    STE CATHERINE.
 Mettez-vous au rang des tresors les felicitez d'icy-bas.
 
-    PORPHIRE
+    PORPHIRE.
 Est-il rien de plus doux qu'un Empire absolu.
 
-    STE CATHERINE
+    STE CATHERINE.
 Non, pourveu que nos passions⁎ en soient les sujetes.
 
-    PORPHIRE
+    PORPHIRE.
 Il faut regner à quelque prix que ce soit.
 
-    STE CATHERINE
+    STE CATHERINE.
 Quand je regnerois sur les mortels, je n'aurois de l'empire que sur des miserables qui courent sans cesse au tombeau en me suivant⁎; Je veux des grandeurs qui soient à / / l'épreuve du temps, & hors des attaintes de son inconstance.
 
-    PORPHIRE
+    PORPHIRE.
 Qui vous peut disputer⁎ la qualité d'Imperatrice que l'Empereur vous donne maintenant si vous quittez celle [96] de Chrestienne.
 
-    STE CATHERINE
+    STE CATHERINE.
 Croyez-vous que pour une coronne que la Fortune m'offre aujourd'huy, & que la mort me peut oster demain, je change la qualité de Chrestienne avec celle d'Imperatrice: Non, non, Monsieur, le Dieu que j'adore est l'Epoux de mon ame, je luy ait donné ma foy, il possede mon coeur, je ne puis contracter icy bas des secondes nopces.
 
-    PORPHIRE
+    PORPHIRE.
 Considerez vostre jeunesse.
 
-    STE CATHERINE
+    STE CATHERINE.
 Elle vieillit à toute heure.
 
-    PORPHIRE
+    PORPHIRE.
 Songez aux grandeurs qui vous accompagnent [97].
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Elles ne me suivront que jusques au tombeau.
 
-    PORPHIRE
+    PORPHIRE.
 Mépriserez-vous encore cette grande beauté dont la Nature vous a pourveuë.
 
-    STE CATHERINE
+    STE CATHERINE.
 Ma beauté est un éclair qui ne luit que pour disparestre.
 
-    PORPHIRE
+    PORPHIRE.
 Estes-vous insensible aux plaisirs de la Cour.
 
-    STE CATHERINE
+    STE CATHERINE.
 Les contentemens du monde sont des jeux d'enfant, puis que leur usage nous oste celuy de la raison: Je ne sçaurois avoir de l'amour que pour les delices eternelles.
 
-    PORPHIRE
+    PORPHIRE.
 Ne changerez-vous jamais d'humeur, vostre merite attire à vos pieds & les Sceptres & les Coronnes, pourquoy en méprisez-vous le present,
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Parce que je n'en sçaurois que faire.
 
-    PORPHIRE
+    PORPHIRE.
 Encore que⁎ la Nature vous en ait enrichie de ses faveurs, celle de la Fortune ne sont point à refuser.
 
-    STE CATHERINE
+    STE CATHERINE.
 Les biens de la Nature sont aussi perissables que ceux de la Fortune; tous ensemble relevent du temps [98] avec tant de souveraineté, que si un de ses momens nous en donne l'usage, celuy qui le suit a le pouvoir de nous l'oster; Je veux des felicitez qui durent toujours, puis que mon ame est immortelle.
 
-    PORPHIRE
+    PORPHIRE.
 Si les richesses ny les grandeurs ne vous peuvent toucher, considerez au moins l'interest⁎ de vos parens, & celuy des Chrestiens, dans la protection que vous leur pouvez donner durant le temps de vostre regne.
 
-    STE CATHERINE
+    STE CATHERINE.
 Je ne considere que la gloire de Dieu, mes parens / / seront heureux s'ils cherchent leur félicité dans sa crainte. Et les Chrestiens ne manqueront jamais de protection, puis que le Ciel s'interesse en leur deffence.
 
-    PORPHIRE
+    PORPHIRE.
 Mais n'aprehendez-vous pas que vos rigueurs changent à la fin⁎ cette grande affection⁎ que l'Empereur a pour vous, en un excez⁎ de tyrannie.
 
-    STE CATHERINE
+    STE CATHERINE.
 Comment voulez-vous que j'apprehende ce que je souhaite: Je prefereray toujours sa haine à son amour, dans la resolution que j'ay prise de n'aymer rien au monde que Dieu seul.
 
-    PORPHIRE
+    PORPHIRE.
 Que dites-vous, Madame, de preferer aux caresses⁎, & aux respects d'un grand Monarque, ses mespris & ses vengeances.
 
-    STE CATHERINE
+    STE CATHERINE.
 Ouy, Porphire: Car ses respects & ses caresses ruineront ma reputation en retardant ma perte, & ses mespris & ses vengeances me combleront de joye en avançant ma mort.
 
-    PORPHIRE 
+    PORPHIRE. 
 Pensez à ce que vous dites, Madame.
 
-    STE CATHERINE
+    STE CATHERINE.
 Songez à ce que vous faites, Porphire.
 
-    PORPHIRE
+    PORPHIRE.
 Je crains que la cholere de l'Empereur n'éclate sur vostre teste.
 
-    STE CATHERINE
+    STE CATHERINE.
 Et j'espere que la Bonté de Dieu fera bien-tost coronner [99] la vostre.
 
-    PORPHIRE
+    PORPHIRE.
 (Il parle tout bas)
 
 Fuyons promptement, je sens ma foiblesse comme si mon coeur tenoit déja son party [100]. Madame, je m'en vay rendre compte à l'Empereur de mon message.
 
-    STE CATHERINE
+    STE CATHERINE.
 Allez hardiment, le Ciel prépare vostre recompense. Mais voicy l'Imperatrice; Je sçay le dessein qui l'ameine, le succez⁎ luy en sera favorable. 
 
 
-### SCENE V
+### SCENE V.
 L'IMPERATRICE, parlant à Ste Catherine
 
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 CHere Princesse, je suis fort ayse⁎ que vostre vertu & vostre beauté obligent aujourd'huy l'Empereur à vous élever sur son trosne. Je n'envieray jamais vos felicitez, & moins encore vos grandeurs, sçachant que vostre naissance est aussi considerable [101] que vostre merite.
 
-    STE CATHERINE
+    STE CATHERINE.
 Madame, vostre Majesté remplit⁎ si dignement la place qu'elle occupe, que je n'ay pas sujet⁎ d'y pretendre: Et quelque éclat qu'ayt ma naissance, & quelque loüange que la flaterie me donne, mon devoir me tiendra toujours rabaissée aux pieds de vostre Majesté, pour luy rendre les respects & les deferances d'une sujete.
 
-    L'IMPERATRICE 
+    L'IMPERATRICE. 
 Pourquoy me celez-vous le secret de vostre ambition; vostre naissance, vostre esprit, vostre beauté, & mille autres qualitez aymables qui vous rendent aujourd'huy si admirable aux yeux de toute la Cour, trahissent vos desseins, & me font voir jusques dans vostre coeur la verité que vos discours me cachent.
 
-    STE CATHERINE
+    STE CATHERINE.
 Madame, puis que la curiosité de sçavoir mes intentions, persuade vostre Majesté de me rendre l'honneur de sa visite, je luy diray hardiment qu'elle doit guerir son esprit de la crainte, & son ame de la jalousie, estant [102] resoluë d'emporter dans le tombeau la seule qualité de Chrestienne.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Ma naissance m'oste la crainte, & ma condition me deffend la jalousie: Je ne viens icy que pour me resjoüir avec vous des avantages que l'Empereur vous offre, avec la qualité de son Epouse.
 
-    STE CATHERINE
+    STE CATHERINE.
 Il est vray, Madame, que je suis vostre rivalle dans un / / mesme dessein, puis que nous n'aurons toutes deux qu'un mesme Epoux.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Vous m'étonnez sans vous faire entendre [103].
 
-    STE CATHERINE
+    STE CATHERINE.
 Il n'est plus temps de feindre, Madame, vostre Majesté veut cognoistre mon coeur, je luy en veux dire les pensées. Elle apprehende que j'épouse l'Empereur pour partager avec elle [104] l'authorité de son Sceptre & de sa Couronne; Le Ciel nous invite toutes deux à des plus grandes nopces; preparons-nous seulement d'en recevoir l'honneur [105].
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Mais quel est cét Epoux.
 
-    STE CATHERINE
+    STE CATHERINE.
 C'est le Fils unique du Pere Eternel: Considerez sa puissance, le Ciel & la terre sont les ouvrages de sa parole [106]. Representez-vous sa beauté, le Soleil ne luit que de ses regards: Reverez sa Sagesse, toutes les choses qu'il a créees en portent les caracteres⁎ dans l'ordre où elles agissent continuellement. Adorez son amour, il a epousé nostre condition [107], s'est revestu de nos miseres, & est mort pour nous racheter / / de son sang la mesme vie que sa Bonté nous avoit donnée, & que nostre malice⁎ nous avoit fait perdre [108]; Luy peut-on refuser des Autels ?
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Ha Divine Catherine! vos paroles toutes de lumiere & de feu en illuminant mon esprit, enflamment tellement mon coeur de l'amour de ce celeste Epoux dont vous me faites esperer la joüissance, que je soûpireray⁎ sans cesse du regret de son éloignement. Allons, allons donc au devant de la mort, je ne voy plus le jour qu'à regret en l'attente de ce beau Soleil qui doit éclairer nos ames d'une lumiere eternelle. Et toutes les grandeurs qui m'environnent me sont si fort à mépris, que je n'en sçaurois souffrir la pensée, bien loin d'en supporter l'éclat.
 
-    STE CATHERINE
+    STE CATHERINE.
 L'heure de nostre retraite [109] sonnera bien-tost, Madame, mourons fidelles [110] aujourd'huy, pour vivre eternellement heureuses.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Mais si vous avez l'honneur de me devancer, faites que la / / voix de vostre sang crie misericorde en ma faveur pour m'obtenir la grace de vostre constance⁎, ma foiblesse a besoin de vostre secours.
 
-    STE CATHERINE
+    STE CATHERINE.
 Il faut que vostre esperance surmonte vostre crainte, le Ciel n'abandonne jamais ceux qui combatent pour sa gloire: Je ne vous dy point adieu, Madame, nos ames se verront bien tost dans le Ciel.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Cette esperance me console de nostre separation.< Fin du Troisiesme Acte > 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 L'EMPEREUR ET PORPHIRE avec sa suite
 
 
-    L'EMPEREUR
+    L'EMPEREUR.
 J'ay de la peine à croire ce que tu dis ? Quoy, elle méprise le present de mon Sceptre, & de ma couronne, je me sens contraint à démentir⁎ tes yeux & tes oreilles. C'est en vain que tu t'eforces à me le persuader.
 
-    PORPHIRE
+    PORPHIRE.
 Je ne sçaurois flatter⁎ vostre Majesté en une action si importante à son repos, elle a paru insensible à toutes les offres des grandeurs & des richesses, de mesmes qu'aux menasses des suplices, & de la mort.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 En quel état me voy-je reduit, à quoy me sert cette puissance absoluë que le destin, la fortune, & mes armes victorieuses m'ont fait acquerir sur toute la terre, si une fille aujourd'huy borne mon autorité de ses desirs, assujetit mon Sceptre sous ses loix, & porte sur ses levres, l'Empire de ma Couronne [111]? Où sont ces flatteurs [112] maintenant qui disent que les Roys sont Tous-puissans icy bas, afin que ma foiblesse leur reproche cette imposture ? Fut-il jamais sujet⁎ si miserable que moy ? je regne par tout fors que⁎ dans le coeur de celle qui possede le mien; tout le monde me craint, & celle que j'ayme uniquement, méprise mon amour, & se rit de mes peines ? Ha Porphire ! puisque mon mal est sans remede, donne moy au moins quelque soulagement.
 
-    PORPHIRE
+    PORPHIRE.
 Si l'on ne luy fait connoistre⁎ son erreur pour l'obliger à changer de creance, vostre Majesté n'en tirera jamais raison.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Il faut que je me serve de ce dernier moyen, j'ay commandé / / qu'on fit assembler les plus sçavants Philosophes, ou [113] que Lucius comme le plus fameux de tous preuve en ma presence la verité de nostre Religion & la fausseté de la sienne. Mais avant qu'on commance la dispute je veux me donner le contentement de luy parler, qu'on la face venir. Ha ! que j'ay mauvaise grace de faire le Souverain devant cette Reyne de mon ame, j'ay beau cacher dans mon sein le feu qui me devore, mes soûpirs sont autant d'estincelles qui en decelent le secret.
 
 
-### SCENE II
+### SCENE II.
 SAINTE CATHERINE, L'EMPEREUR
 
 
-    L'EMPEREUR *luy parle*
+    L'EMPEREUR *luy parle*.
 Belle Princesse, l'Amour a beau me solliciter⁎ de luy accorder la grace de vostre crime, je ne puis la donner qu'à vostre repentir.
 
-    STE CATHERINE
+    STE CATHERINE.
 L'innocence ne se repent jamais.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 Vous voyez le respect que j'ay pour vostre condition, que n'avez vous de la defference pour mes Edits.
 
-    STE CATHERINE
+    STE CATHERINE.
 Vostre Majesté cognoist la Justice qu'il y a dans mes plaintes, que n'a-t-elle de l'affection⁎ pour mon soulagement.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 N'est-ce pas aymer vostre repos de le preferer à celuy de ma vie.
 
-    STE CATHERINE
+    STE CATHERINE.
 Et n'est-ce pas estre jalouse⁎ de vostre gloire de vous representer⁎ les malheurs qui en peuvent offusquer⁎ l'éclat.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quel Demon vous anime⁎ avec tant d'opiniatreté à creuser le tombeau où vous devez estre ensevelie.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Et quelle fureur⁎ vous transporte avec tant d'aveuglement de chercher vos plaisirs dans les miseres d'autrui
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je punis les rebelles.
 
-    STE CATHERINE
+    STE CATHERINE.
 Je protege les Innocens.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Moderez ce zelle indiscret⁎ qui vous rend si ingenieuse à treuver les moyens de vous perdre.
 
-    STE CATHERINE
+    STE CATHERINE.
 Donnez quelque intervalle [114] à cette passion⁎ de vengence qui vous fait passer pour tyran en mille lieux.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Est-ce tyrannie de rompre vos fers, ou d'en partager la servitude [115].
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Est-ce bonté de combatre des ennemis, apres que vostre puissance les a desarmez.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je voy bien que vostre desespoir l'emporte sur ma raison. J'ay compassion toutesfois de vostre jeunesse, vous estes aveugle aussi bien que moy; Mais nos bandeaux [116] sont differents, vous portez celuy de l'ignorance, & moi celuy de l'amour. Il faut que je fasse rompre le vostre, & que je vous donne la moitié du mien.
 
-    STE CATHERINE
+    STE CATHERINE.
 Il est vray que nous sommes aveugles tous deux, vous à la lumiere de la Verité que je vous represente⁎, & moy à l'éclat des richesses que vous m'offrez. Mais vostre aveuglement comme volontaire [117], ne vous peut estre que funeste; & le mien comme necessaire me sera tousjours glorieux.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Le Philosophe que j'ay envoyé querir vous instruira en ma presence, pour vous faire connoistre⁎ vostre erreur.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 J'espere que luy-mesme confessera bien tost la sienne à vostre confusion & à son avantage, puis que les larmes de son repentir, & le sang de son martyre en éteignant les foudres du Ciel, luy en feront acquerir la gloire.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quelle apparence⁎, qu'un disciple instruise son maistre: deffendez-vous seulement, encore que⁎ vous soyez vaincuë, la hardiesse que vous avez de vous presenter au combat, merite des couronnes.
 
 
-### SCENE III
+### SCENE III.
 
-    CORVIN
+    CORVIN.
 Le Philosophe Lucius choisi & deputé de tous ses compagnons⁎, est à la porte de la chambre; il demande à vostre Majesté la liberté d'entrer.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 Faites le venir, j'attends desja avec impatience le succez de son entreprise.
 
 
-### SCENE IV
+### SCENE IV.
 LUCIUS PHILOSOPHE et tous les autres
 
 
-    L'EMPEREUR *luy parle.*
+    L'EMPEREUR *luy parle.*.
 Lucius, il faut que tu me donnes aujourd'huy ce contentement, d'instruire cette belle ignorante, & de luy faire connoistre⁎ à force de raisons, l'erreur où elle a vescu, & la verité qu'elle doit suivre; sa jeunesse doit excuser la vanité qu'elle a, d'entrer en dispute avec un homme de ta reputation. Que si tu ne remportes pas beaucoup d'honneur à la vaincre, cét avantage te demeurera toujours de m'avoir obey.
 
-    LUCIUS
+    LUCIUS.
 Il est vray que j'ay de la peine d'entrer dans une lice d'honneur, pour en disputer les couronnes à une fille / / dont l'ignorance & le begayement rendront ma victoire aussi honteuse que ma deffaite [118]. Mais puis-qu'en cette action il s'agit de la gloire des Dieux, & du contentement de vostre Majesté, je trouve le mien particulier [119] dans l'obeissance que je luy veux rendre.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Commencez la dispute; voicy l'Imperatrice. Madame, vous aurez le contentement de l'oüir.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 J'en espere plus de profit que de joye.
 
-    STE CATHERINE
+    STE CATHERINE.
 Seigneur, puis que ta providence me destine aujourd'huy à soustenir publiquement la gloire de ton Nom, fay que ton divin Esprit change ma langue de chair, en une de ces langues de feu, dont tes Apostres embrasoient de ton amour les coeurs les plus insensibles. Parle maintenant par ma bouche, Fay toy entendre par ma voix, il n'appartient qu'à toy seul de parler dignement de toy-mesme.
 
-    LUCIUS
+    LUCIUS.
 Sire [120], comment pourroit-elle preuver la verité de sa creance / /, si elle ne sçait ce que c'est que Religion.
 
-    STE CATHERINE
+    STE CATHERINE.
 C'est l'art de sauver l'homme en servant Dieu, & l'on peut s'élever à sa cognoissance par la lumiere de la Foy; l'adorant comme Createur, l'aimant comme Redempteur, & luy obeissant comme Souverain absolu en toutes choses.
 
-    LUCIUS
+    LUCIUS.
 Qu'on l'aime comme Redempteur, peut-on aimer un Dieu crucifié ?
 
-    STE CATHERINE
+    STE CATHERINE.
 Escoutez l'Oracle de la Sibile [121] Cumaine, *Dieu aura pitié de sa Creature, & la rachetera par le bois.*
 
-    LUCIUS
+    LUCIUS.
 Mais parmy tant de peuples differens dont le monde est remply, qui sont ceux qui servent Dieu fidelement.
 
-    STE CATHERINE
+    STE CATHERINE.
 Les Chrestiens seuls, parce qu'ils ne cognoissent que le Dieu qui a fait l'homme. Tout au contraire de vous autres / / Payens, qui adorez les Dieux que l'homme a faits. Vostre Saturne inhumain, vostre Jupiter adultere, & vostre Mercure trompeur [122], sont autant de divinitez fantastiques [123] qui ne subsistent icy bas que par la matiere de leurs Statuës.
 
-    LUCIUS
+    LUCIUS.
 Quelle impieté, quelle imposture ? Il se cognoist bien que nos Dieux sont veritables & tous-puissans, puis qu'ils font le destin de tous les hommes. Et les Romains en adorant les Dieux de toutes les nations, se sont rendus Maistres de tous les peuples.
 
-    STE CATHERINE
+    STE CATHERINE.
 Le nombre [124] des Dieux ne differe point de l'Atheisme, comme nous asseure la Sibile Persane, puis qu'en effet les Dieux ne sont que creatures, ou vanitez [125]. Et quand tous les mortels adoreroient vos Dieux, cette idolatrie n'en preuveroit pas la verité. Les Romains dans leurs conquestes nous ont laissé beaucoup plus de marques de leur folle ambition, que de temoins⁎ de la puissance de leurs Dieux.
 
-    LUCIUS 
+    LUCIUS. 
 Quelle comparaison peut-on faire des Dieux des Gentils [126], avec le Dieu des Chrestiens; Si ceux-là regnent glorieusement dans le Ciel, & si celuy-cy est mort honteusement sur la terre.
 
-    STE CATHERINE
+    STE CATHERINE.
 L'impieté a beau eriger des Trosnes au dessus des nuës à vos fausses divinitez, l'Enfer est maintenant leur Olympe. Et si mon Sauveur est mort icy bas, c'est pour nous faire voir dans l'excez⁎ de son amour, les apparences [127] de sa foiblesse, & la verité de son pouvoir, puis qu'entrant comme homme dans la sepulture, il en est sorty comme Dieu.
 
-    LUCIUS
+    LUCIUS.
 Mais si vostre Dieu est Tout-puissant, donnez moy des preuves de sa puissance souveraine & independante.
 
-    STE CATHERINE
+    STE CATHERINE.
 En sçauriez vous souhaiter de plus grandes que de voir cette fille dont vous preschiez⁎ si haut & l'ignorance & le begayement, vous rendre muet et confus [128] avec toute vostre sagesse.
 
-    LUCIUS 
+    LUCIUS. 
 Ce sont des merveilles [129], je suis curieux de voir ses miracles.
 
-    STE CATHERINE
+    STE CATHERINE.
 Tu ressentiras bien-tost la Vertu du premier [130] qu'il a fait, Lucius, puis que la boüe de ton corps detrempée avec les larmes de tes yeux, fera maintenant recouvrer la veüe à ton ame. Ecoute encore l'Oracle de la Sibile Cumaine, *La Lumiere parlera pour instruire les aveugles*. Il n'est plus temps de resister.
 
-    LUCIUS
+    LUCIUS.
 Ha Seigneur, le jour [131] de ta grace commence à luire dans mon ame ! Sa lumiere perce le bandeau de mon aveuglement: Je ressens ta Bonté, je recognois ta Puissance, je confesse ton Nom; J'adore le Dieu des Chrestiens. Sire, vostre Majesté peut voir son erreur dans la confession publique que je fais mienne, mon esprit humilié, & ma raison sousmise sous le doux joug de la Foy, me font cognoistre⁎ mon ignorance. Le Dieu seul des Chrestiens doit estre adoré.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 L'Empereur se leve de sa chaise avec colere.
 
 Quel subit changement ? Quoy Lucius ? une fille nouvellement instruite dans sa Religion vous imposera silence au mépris des Dieux & de mon autorité, c'est ce que je ne puis concevoir. Recommencez la dispute.
 
-    LUCIUS
+    LUCIUS.
 La dispute est finie, puis que je n'ay plus rien à dire. J'ay esté attaqué par une fille; mais le Dieu de Verité m'a vaincu. Je sens également & son pouvoir & ma foiblesse: je voy mon neant devant sa grandeur,& ne suis plus capable de passion⁎ que pour detester la folle religion que j'ay si long-temps professée.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quelle manie⁎ le transporte. Si vous ne changez de discours, je vous immoleray à mon juste ressentiment.
 
-    LUCIUS
+    LUCIUS.
 O agreable Sacrifice ! que n'ay-je mille vies à vous offrir pour acquerir mille couronnes en souffrant autant de morts. Je ne cognois d'autre Dieu que celuy des Chrestiens.
 
-    L'IMPERATRICE 
+    L'IMPERATRICE. 
 Je luy ay dressé un autel dans mon ame, où elle-mesme luy a présenté tous ses voeux; & afin qu'on n'en puisse plus douter, je confesse hautement que je suis Chrestienne.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Que dites-vous, Madame, n'apprehendez-vous pas les foudres du Ciel.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Je ne les apprehende que pour vous, puis que leurs flâmes vengeresses punissent les impies.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Changez de creance, Madame, ou vous ressentirez bien-tost les effets⁎ de mon courroux.
 
-    L'IMPERATRICE
+    L'IMPERATRICE.
 Je cherche la mort, pour treuver la vie. Alons, allons au martyre, où sont les bourreaux, il ne faut point de témoins pour me convaincre⁎, ny de Juge pour me condemner, j'adore le Dieu des Chrestiens.
 
-    PORPHIRE 
+    PORPHIRE. 
 Je veux mourir pour sa gloire en confessant son Nom.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quel changement effroyable? ô Dieux! prestez-moy vos foudres pour un moment, afin je vous venge, & que je me satisface. Que Lucius soit brulé tout vif, & Porphire devoré des Lyons: Qu'on trenche la teste à l'Impératrice, & qu'on mette en pieces cette enchanteresse⁎, dans les supplices des roües; mais tout maintenant [132], de peur que ma justice trop tardive⁎ ne me rende complice de leur impieté.
 
-    STE CATHERINE *seule*
+    STE CATHERINE *seule*.
 O adorable Redempteur! dont la parole toute-puissante s'est servie de ma bouche pour annoncer vos loüanges & soûtenir la verité, Je vous rends graces d'avoir exaucé mes voeux en illuminant ces aveugles, pour leur apprendre le chemin du Calvaire, où vostre misericorde infinie [133] leur a preparé tout à la fois, & des autels & des couronnes. Agreez seulement le zele de toutes ces victimes; Et puis que vostre Bonté m'a mise du nombre, je vous offre par avance le coeur de ce corps qui vous doit étre immolé, pour achever le sacrifice à vôtre gloire.< Fin du Quatriesme Acte > 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 Ste CATHERINE. L'EMPEREUR avec sa suite
 
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je veux eriger un Autel à la Justice des Dieux, où la mienne y portera en offrande les cendres de Lucius, les os de Porphire, la teste de l'Imperatrice,& le corps brisé de cette malheureuse Princesse, afin que ces objets d'horreur & d'effroy punissent par avance les rebelles à force de crainte & d'étonnement⁎. A t'on executé mes commandemens?
 
-    CORVIN
+    CORVIN.
 Lucius est expiré à la fin⁎ dans les flâmes, & l'on eust dit qu'il / / s'y baignoit de joye chantant des Hymnes, & des Cantiques à la gloire du Dieu des Chrestiens. J'ay retenu ces dernieres paroles, qui en esclatant dans l'air ont frappé mes oreilles.* Seigneur, fay que le feu dont tu as embrasé mon ame, dure autant qu'elle, afin que je brusle eternellement sans me consommer⁎ jamais dans les flammes de ton amour.* Porphire s'est écrié tout haut se voyant sur le point d'estre precipité dans la fosse aux Lyons, *Souverain Createur de toutes choses, puis que ta bonté infinie me destine aujourd'huy à servir de proye à ces bestes farouches, ne permets pas qu'en devorant mon coeur elles effacent les caracteres⁎ de ta crainte, & de ton amour, que tu y as gravez de ta main propre.* L'Imperatrice a fait sans y penser [134] un trône de son eschaffaut, puis que toutes les graces & toutes les majestez qui estoient affectees à sa naissance, sont montees dessus avec elle, pour donner à sa mort le mesme éclat qu'avoit eu sa vie. La Princesse Catherine seule, vit encore, ayant brisé par le pouvoir de ses charmes⁎, & la rouë & les liens qui l'y tenoient enchaisnee;
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Quoy ? les Demons à l'exemple des Geans [135], declareront la guerre aux Dieux en s'opposant aux desseins de leur vengeance, c'est / / ce que je ne puis me persuader. Mais voicy Lepide qui m'esclaircira de cette doute [136].
 
-    LEPIDE
+    LEPIDE.
 C'est en vain que vostre Majesté a condamné à la mort la Princesse Catherine, elle mesprise esgalement & les bourreaux & les supplices, paroissant insensible aux attaintes⁎ de tous ensemble.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Seroit-elle immortelle pour me faire mourir eternellement, Je veux estre tesmoin de tous ces prodiges.
 Bruits de tonnerre
 
 
-    LEPIDE
+    LEPIDE.
 Vos oreilles le sont déja par le bruit effroyable qu'elles entendent.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Il faut que mes yeux le soient aussi, j'ay de la peine à le croire:
 (On tire le rideau)
 
 Quel estrange⁎ spectacle, elle sort triomphante du milieu des tourmens⁎, comme si son corps estoit de pierre ou de bronze. Belle enchanteresse⁎, tous vos charmes⁎ sont inutiles, puis que j'ay resisté à ceux de vos yeux. Vous avez beau appeller l'Enfer à vostre secours / /, le Ciel a conjuré⁎ vostre ruine⁎, & vous ne sçauriez l'éviter qu'en portant de l'encens sur nos autels.
 
-    STE CATHERINE
+    STE CATHERINE.
 Le sang de mon Martyre sera l'encens que j'offriray au Dieu de mon ame, pour jouyr de la gloire eternelle qu'il me fait esperer, au lieu des honneurs perissables que vostre Majesté me presente.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je vous offre l'Empire de toute la terre.
 
-    STE CATHERINE
+    STE CATHERINE.
 Je n'en prétends⁎ que l'espace de mon tombeau
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Refuserez-vous la couronne de l'Univers.
 
-    STE CATHERINE
+    STE CATHERINE.
 Toutes les couronnes du monde ne meritent pas seulement d'estre souhaitees, puisqu'à peine a t'on le loisir de les essayer en passant. Je ne voy rien icy bas digne de mon envie.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 Mais pourquoy voulez-vous mourir à la veille de posseder toutes les grandeurs de mon Empire.
 
-    STE CATHERINE
+    STE CATHERINE.
 Parce que le jour est venu que je dois acquerir toutes les felicitez du Paradis.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Ha chere Princesse! ouvrez les yeux à l'esclat des honneurs qui vous attendent sur mon trosne.
 
-    STE CATHERINE
+    STE CATHERINE.
 Ha grand Monarque! prestez l'oreille au bruit de ces foudres qui vous menassent dans vostre Palais.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Rendez-vous aux prieres de mon amour.
 
-    STE CATHERINE
+    STE CATHERINE.
 Ne resistez plus à celles de mon zele.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Considerez les richesses que vous mesprisez.
 
-    STE CATHERINE 
+    STE CATHERINE. 
 Pensez aux tresors que vous pouvez acquerir.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Tous mes sujets vous attendent dans ma court pour vous rendre les premiers hommages de leur servitude.
 
-    STE CATHERINE
+    STE CATHERINE.
 Et tous les Anges vous appellent dans le Ciel pour vous faire partager la couronne de Gloire que vostre Epouse a remportee;
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Partagez plustost avec moy les felicitez dont elle a fait si peu d'estime, & ne courez point aveuglement à la mort;
 
-    STE CATHERINE
+    STE CATHERINE.
 Les felicitez que je desire ne sont point des fruits d'icy bas, & si je cours à la mort qu'on me prepare, c'est pour treuver la vie que j'attends.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Sauvez-vous pour éviter ma perte, puis que l'amour que j'ay pour / / vous, me fait prendre part à tous vos malheurs.
 
-    STE CATHERINE
+    STE CATHERINE.
 Perdez-vous plustost heureusement avec moy, si vous m'aimez comme vous dites, puis que la gloire de nostre commun trespas doit rendre nos felicitez égales.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je ne sçaurois vous suivre dans vostre desespoir [137].
 
-    STE CATHERINE
+    STE CATHERINE.
 Et je ne puis vous imiter en vostre idolatrie.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Mourez dans vostre Religion pour vous contenter: Mais vivez dans la mienne pour me satisfaire [138].
 
-    STE CATHERINE
+    STE CATHERINE.
 La mort n'a point des Couronnes à donner, que celle-là mesmes que nous avons faites durant la vie [139]. Je veux suivre le chemin de la Verité, pour treuver celuy de la Gloire.
 
-    L'EMPEREUR[P.82]
+    L'EMPEREUR[P.82].
 Pourquoy me forcez-vous avec tant de violence, de vous abandonner à la rigueur de mes loix.
 
-    STE CATHERINE
+    STE CATHERINE.
 Parce que je ne sçaurois acquerir les felicitez que je desire, qu'en souffrant les nouveaux tourmens⁎ dont vous me menacez.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Je voy bien que mes respects l'offencent [140], & que ma douceur excite sa colere. Qu'on luy tranche la teste tout maintenant, il faut éprouver⁎ si la force de ses charmes⁎ resistera à celle du glaive. Je vous abandonne à vostre desespoir.
 
-    STE CATHERINE
+    STE CATHERINE.
 Et moy à vostre aveuglement.
 
-    L'EMPEREUR *seul*
+    L'EMPEREUR *seul*.
 Quel Demon jaloux de mon repos suscite aujourd'huy cette mal-heureuse Princesse, à preferer les horreurs de la mort aux delices de la vie. La jeunesse & la beauté, les richesses & les grandeurs, luy presentent à l'envy tout ce qu'elles ont de plus / / precieux & de plus agreable, & d'un pas precipité elle court aveuglement au tombeau pour se couronner des épines [141] de toutes ces roses. Amour qui dans ta petitesse veut estre reconnu pour le plus grand des Dieux, à quoy servent maintenant tes Autels, si tu animes⁎ tes sujets à y sacrifier dessus les objets qu'ils adorent ? Tu m'avois rendu idolatre des beautez de cette Princesse; Et sans me faire changer de passion⁎, non plus qu'à celle de visage, tu te sers maintenant de ma puissance absoluë pour l'immoler à ma fureur. Ha cruel! ne porte plus ce nom d'Amour, que pour te faire haïr davantage de ceux qui te connoissent. Et tu as beau d'oresnavant te cacher sous le voile de ton bandeau; j'ay deschiré le mien pour descouvrir tes ruses. Mais de quelle manie⁎ ay je l'esprit agité. J'ay commandé qu'on fist mourir cette belle Princesse, & un moment de son absence me fait ressentir mille morts. Faut-il que je sois absolu pour ma ruine, & que mon autorité souveraine ne me donne des sujets que pour m'affliger en m'obeïssant. Il me semble que je la voy la teste baissée sous l'effort⁎ de ma tyrannie, attendant la derniere atteinte⁎ de sa fureur⁎. O Dieux! pardonnez-moy si j'abandonne vos interests [142] dans le repentir qui me demeure d'avoir vengé vostre querelle⁎. Il est vray, cette Princesse estoit coupable / /. Mais comment pouvois-je la contraindre à vous apporter de l'encens, si elle m'en demandoit à toute heure. Je l'accusois d'idolatrie, & sa beauté m'en avoit déja convaincu. Ha! quelle injustice, elle a porté seule la peine d'un crime qui nous estoit commun. Voicy Lepide qui vient m'en apprendre les funestes nouvelles. Et bien, est-elle morte ?
 
-    LEPIDE
+    LEPIDE.
 C'en est fait, Sire: mais sans mentir, son trépas a esté tout remply de prodiges.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Parle hardiment, il n'est plus temps de feindre, le desespoir commence d'amortir⁎ mes flammes dans son sang.
 
-    LEPIDE
+    LEPIDE.
 Ses veines n'on versé que du laict. Et à ce miracle visible qui a frappé d'estonnement⁎ tous les spectateurs, la Musique des Anges qui ont enlevé son corps a charmé si doucement mes oreilles, que mon esprit en est encore tout ravy.
 
-    L'EMPEREUR 
+    L'EMPEREUR. 
 Puis-je adjoûter foy à tes paroles. Mais qu'est-ce que j'entends ?
 
-    LEPIDE
+    LEPIDE.
 On ouvre la tapisserie.
 
 Le nouveau⁎ recit sans doute des veritez que je viens de raconter.
 
-    L'EMPEREUR
+    L'EMPEREUR.
 Il écoute la Musique des Anges qui paroissent sur la montagne de Sinay, où ils ensevelissent le corps de Sainte Catherine.
 
 De quels miracles éclatans suis-je delicieusement éblouy ? de quels charmes⁎ de joye sens-je mon ame comblée ? Je perds peu à peu l'usage de la voix dans mon ravissement.
 Il demeure quelque temps sans parler.
 
 
-    L'EMPEREUR *reprend la parole apres que la Musique a cessé;*
+    L'EMPEREUR *reprend la parole apres que la Musique a cessé;*.
 Ha divine Catherine! pardonne mon erreur, excuse mon aveuglement: J'adore ta vertu en cessant d'aymer ta beauté, & confesse hautement que le Dieu de tes Autels doit avoir place dans nos Temples: Je reclame sa bonté, j'implore ton secours; Et pour en meriter la grace, je t'accorde celle des Chrestiens, & leur laisse la liberté de professer publiquement leur Religion, /p.86/ puis que la gloire de ta mort efface la honte de leur vie. Allons Lepide, allons renouveller ces voeux dans nos Temples, le Ciel s'est declaré protecteur des Chrestiens.< FIN. >
 
 
-# Correspondance des scènes de Thomas Morus et du Martyre de sainte Catherine
+# Correspondance des scènes de Thomas Morus et du Martyre de sainte Catherine.
 
 Nous avons choisi de reproduire certaines scènes de *Thomas Morus* (TM) qui ont un équivalent dans le *Martyre de sainte Catherine* (MSC), ainsi que quelques scènes absentes de notre pièce ou qui sont traitées différemment.
 
@@ -1708,10 +1708,10 @@ II, 1 et III, 4 : deux tentatives d'Amélite pour convaincre sa fille Arthénic
 IV, 4 et V, 8 : les deux discussions entre Thomas Morus et sa fille Clorimène.
 
 
-## Scènes équivalentes
+## Scènes équivalentes.
 
 
-### ACTE I, SCENE 2
+### ACTE I, SCENE 2.
 
 LA REYNE, ET CLEONICE sa parente.
 
@@ -1750,7 +1750,7 @@ CLEONICE: Veritablement, Madame, vostre Majesté a besoin de toute sa constance,
 LA REYNE: Ma constance seroit bien foible, si le Ciel ne l'appuyoit: nous ne pouvons de nous-mesmes que soupirer, & que nous plaindre; c'est à luy seul à nous consoler. Mais, Seigneur, si tes décrets éternels m'ont destinée aux tourmens dont mes pechez & ta Justice me menacent, aprends, aprends moy à t'aymer afin que cette amour m'aprene à souffir; en me faisant Reyne de cét Empire, tu m'as donné les Roses en partage: mais je suis fort aise que mes mal-heurs les aynt fait flestrir sur ma teste, & que les épines m'en demeurent; puis que tu en as esté couronné, ton exemple me servira de consolation.
 
 
-### ACTE II, SCENE 2
+### ACTE II, SCENE 2.
 
 LE ROY: , avec POLEXANDRE: son Favory
 
@@ -1819,7 +1819,7 @@ LE ROY: Je sçay bien que tu perdras ton temps: ton zele soulagera mes peines.
 POLEXANDRE seul: Que je serois heureux, si par les charmes de mes discours je pouvois calmer l'orage qui me vient accueillir! Mais il faudroit que ma langue eust autant de vertu que le Trident de Neptune. J'entreprends d'amolir un Rocher, & d'enflammer d'Amour une Ame de glace. N'est-ce pas un dessein dont la temerité prepare mon supplice ? S'il faut franchir cette carriere⁎: mon credit, ou mon zele, m'en feront eviter le peril.
 
 
-### ACTE II, SCENE 4
+### ACTE II, SCENE 4.
 
 POLEXANDRE: Madame, je viens me resjouïr avec vous de ce que le roy vous a choisie pour sa Maistresse.
 
@@ -1952,14 +1952,14 @@ ARTHENICE: Adieu.
 POLEXANDRE: Adieu donc.
 
 
-### ACTE III, SCENE 1
+### ACTE III, SCENE 1.
 
 SCENE PREMIERE
 
 POLEXANDRE: seul: Que la conqueste de cette Beauté coustera de soûpirs & de larmes ! Je prevoy que le feu de ses yeux reduira en cendre cét Empire; que ses traicts blesseront à mort mille coeurs innocens; & que ses charmes tous funestes, seront autant d'escueils à ceux qui auront le courage de resister à sa Tyrannie. O Ciel, juste Ciel! il n'appartient qu'à toy de donner de courtes limites à sa puissance, puis qu'elle menace de ruyne tes Autels. Allume donc tes flâmes vengeresses, pour esteindre les siennes impudiques, si tu en veux eviter l'embrasemens. Mais quelle responce feray-je au Roy ? j'apprehende son abord, & beaucoup plus encore ses reproches. Toutes-fois mon estonnement et mon silence donnant quelque sorte de complaisance à sa passion, il se satisfaira luy-mesme, & sera ravy de sçavoir que mes persuasions ont esté inutiles, dans un dessein où il croit reussir par la seule force de son Amour: le voicy venir.
 
 
-### ACTE III, SCENE 2
+### ACTE III, SCENE 2.
 
 LE ROY: Et bien, Polexandre, n'est-elle pas inexorable ? parle hardiment: mais pourquoi veux je te faire parler, si ton silence exprime desja tout ce que tu as à me dire ? Il ne fut jamais de rigueur pareille à la sienne: mais comme sa Vertu esgale sa Cruauté; toutes les fois que je m'en plains, mon visage tougit de honte, pour me faire porter la peine de l'Injustice que je commets. Qu'est-ce donc qu'elle t'a dit ?
 
@@ -2020,7 +2020,7 @@ POLEXANDRE: Et sa Vertu aussi n'aura jamais d'exemple.
 LE ROY: Pourquoy loües-tu si fort mon Ennemie ? Ne sçais-tu pas que sa Vertu a pris les armes contre moy; & que mon Destin a mis entre ses mains les Couronnes de la Victoire ? mon malheur dans son excez ne peut s'égaler qu'à mon Amour: mais voicy l'objet de ma hayne.
 
 
-### ACTE III, SCENE 5
+### ACTE III, SCENE 5.
 
 LA REYNE: , suivie de CLEONICE: .
 
@@ -2057,7 +2057,7 @@ LA REINE: Conservez cherement cette qualité si vous ne voulez perdre tout à la
 ARTHENICE (*Elle parle seule*): je n'oublieray jamais le respect que je dois à V. M. Que la jalousie de cette Princesse est juste! que son mal-heur est grand! mais que mon imprudence est extréme, de suivre pas à pas ses traces dans un chemin qui me conduit au Tombeau; ô Dieux! pourquoy faut-il que la Fortune se serve des traits de mon visage, pour blesser mon coeur à mort? Mais ne voy pas celuy qui luy en a donné la premiere atteinte?
 
 
-### ACTE V, scène 3
+### ACTE V, scène 3.
 
 Le Duc de Soffolc: Geolier, fais moy parler au Chancelier; je viens de la part du Roy. Je pleins le malheur de ce vieillard: Mais quoy qu'il soit digne d'envie, je ne suivray jamais son exemple. (*il continue de parler, voyant Thomas Morus au travers de la grille de sa prison*). Monsieur, le Roy m'a commandé de venir apprendre de vostre bouche vôtre derniere volonté, touchant l'Edict qu'il a fait, que tous ses subjets eussent à changer de Religion, sur peine de la vie
 
@@ -2124,10 +2124,10 @@ THOMAS MORUS: Et moy vostre aveuglement; Adieu Monsieur.
 LE DUC: Je n'ay jamais vû ue constance pareille à celle-là. O que son crime fera de coupables! Si sa langue dement son coeur.
 
 
-## Scènes absentes de *Sainte Catherine*
+## Scènes absentes de *Sainte Catherine*.
 
 
-### ACTE II, SCENE 1
+### ACTE II, SCENE 1.
 
 AMELITE: Arthenice, que vous a dit le roy ?
 
@@ -2194,7 +2194,7 @@ AMELITE: Le Temps vous fera changer de langage; allons faire une visite dans le 
 ARTHENICE: Je vous suivray Madame.
 
 
-### ACTE III, SCENE 4
+### ACTE III, SCENE 4.
 
 ARTHENICE, ET AMELITE.
 
@@ -2253,7 +2253,7 @@ ARTHENICE: Madame, je me sacrifieray pour vostre contentement: puis que vous le 
 AMELITE: Voicy le reyne qui vient; je ne veux pas qu'elle me voye.
 
 
-### ACTE IV, SCENE 4
+### ACTE IV, SCENE 4.
 
 CLORIMENE: Monsieur, je viens pour m'acquitter de ce que je vous dois; & pour vous tesmoigner la part que je prens à vostre infortune
 
@@ -2370,7 +2370,7 @@ THOMAS MORUS: J'y suis forcé, ma Fille, adieu, vivez heureuse, puisque je meurs
 CLORIMENE: Que je vive heureuse dans la presse de vos mal-heurs! que je vive heureuse à la veille de vos funerailles! Non, non, cher Pere, puisque mes veines ne sont remplies que de vostre sang; je le repandray glorieusement, afin que les rüisseaux se joignent à leur source.
 
 
-### ACTE V, scène 8
+### ACTE V, scène 8.
 
 Clorimene en deüil, parlant au Roy:
 
@@ -2449,10 +2449,10 @@ Mais vous, adorable Victime, unique objet de mon Amour, que vous voyez maintenan
 FIN
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Textes du XVII*e* siècle
+## Textes du XVII*e* siècle.
     Saint Eustache
 PolyeucteThéodore, vierge et martyre Oeuvres Complètes
 Herménigilde
@@ -2462,7 +2462,7 @@ Le véritable saint Genest, in Théâtre du XVII*e* siècle
 
 
 
-## Ouvrages généraux
+## Ouvrages généraux.
     Le Français classique
 Dictionnaire universel
 Dictionnaire de rhétorique
@@ -2470,7 +2470,7 @@ Dictionnaire de rhétorique
 
 
 
-## Ouvrages sur le théâtre
+## Ouvrages sur le théâtre.
     La Poétique
 Histoire de la littérature française au XVII*e* siècle*re*
 La Tragédie de l'âge classique 1553-1770
@@ -2486,7 +2486,7 @@ La Tragédie classique en France
 
 
 
-## Ouvrages sur le théâtre religieux
+## Ouvrages sur le théâtre religieux.
     Morales du grand siècle
 Sainte Catherine d'Alexandrie, le mythe et la tradition
 Héros et orateurs
@@ -2501,10 +2501,10 @@ L'Aveuglement salutaire
 
 
 
-## Études sur Puget de La Serre
+## Études sur Puget de La Serre.
 
 
-### Textes antérieurs au XX*e* siècle
+### Textes antérieurs au XX*e* siècle.
     Les Satires
 Revue contemporaine
 Histoire du théâtre français depuis son origine jusqu'à présent
@@ -2513,7 +2513,7 @@ Historiettes
 
 
 
-### Textes modernes
+### Textes modernes.
     du Baroque aux Lumières. Pages à la mémoire de Jeanne Carriat
 secrétaire de la Cour
 Thomas Morus ou le triomphe de la Foy et de la ConstanceTerres tragiques. L'Angleterre et l'Ecosse dans la tragédie française du XVII*e* siècle

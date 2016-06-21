@@ -20,7 +20,7 @@ le 7 May 1728.
 
 
 
-# Introduction
+# Introduction.
 
 Repris en 1728, *Bellérophon* rencontre encore auprès du public du XVIII*e* siècle un succès remarquable comme en témoigne la parodie qu'en font à cette époque les infatigables Dominique et Romagnesi, comédiens italiens ordinaires de Louis XV. « Infatigables » en effet, parce qu'il nous est parvenu quatre volumes de ces *Parodies du nouveau Théâtre Italien* dans lesquelles les deux compères passent en revue sans aucune pitié toutes les grandes tragédies lyriques de Lully et Rameau. Loin d'être le signe de la médiocrité d'une œuvre, la parodie est au contraire la preuve évidente de son succès et de sa popularité, elle est même « emblématique de l'extraordinaire engouement du siècle des Lumières pour le théâtre » [1] : comme Euripide avec *La Paix* d'Aristophane, Thomas Corneille eut donc l'honneur de voir sa pièce parodiée. Il s'agit d'une succession de dix-sept scènes qui suit scrupuleusement le modèle cornélien tant dans l'évolution de l'intrigue que dans le contenu des dialogues : entrecoupée de chansons à la mode dont les paroles s'adaptent à merveille à la situation, l'œuvre se déroule avec une frénésie et une vitalité qui témoignent de la qualité du travail des deux parodistes.
 
@@ -35,7 +35,7 @@ Nous n'avons donc pas pu résister au plaisir de reproduire l'intégralité de c
 # ARLEQUIN BELLEROPHON PARODIE.
 
 
-## ACTEURS
+## ACTEURS.
  – STENOBÉE
  – PHILONOÉ
  – LE ROI
@@ -53,16 +53,16 @@ Nous n'avons donc pas pu résister au plaisir de reproduire l'intégralité de c
  – 
 
 
-## ARLEQUIN BELLEROPHON
+## ARLEQUIN BELLEROPHON.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 Le Théâtre représente un Jardin
 
 PHILONOÉ, Deux AMAZONES
 
 
-    PHILONOÉ
+    PHILONOÉ.
 Air 85. *Le plaisir passe la peine.*
 Amour, lorsque sous ton Empire,  
 Sans esperance un cœur soupire,  
@@ -71,7 +71,7 @@ Mais malgré le poids de ta chaîne
 Lorsque l'Hymen peut adoucir,  
 Le plaisir passe la peine.  
 
-    II. AMAZONE
+    II. AMAZONE.
 Palsanbleu ! la Princesse a raison, elle parle en connoisseuse.
 
     PREMIERE AMAZONE.
@@ -79,65 +79,65 @@ Air 86. *Digue, diguedon.*
 Un heureux penchant vous entraîne ;  
 Bellérophon est tout charmant.  
 
-    PHILONOÉ
+    PHILONOÉ.
 Il dit qu'il aime tendrement.  
 
-    PREMIERE AMAZONE
+    PREMIERE AMAZONE.
 Parbleu ! vous valez bien la peine,  
 Diguedi guedon, diguedon dondaine,  
 Que l'on vous le dise souvent.  
 
-    PHILONOÉ
+    PHILONOÉ.
 Nous avons été bien traversés ; mais grace au Ciel, nous touchons au moment d'être heureux.
 
-    PREMIÈRE AMAZONE
+    PREMIÈRE AMAZONE.
 Air 77. *Quand je tiens de ce jus d'octobre.*
 Il faut que d'amoureuses chaînes  
 Coûrent toujours quelques soupirs ;  
 Quand les Amans n'ont point de peine,  
 Ils n'ont jamais de vrais plaisirs.  
 
-    PHILONOÉ
+    PHILONOÉ.
 L'aimable petit homme que Bellérophon ! N'ai-je pas raison, Mesdames les Amazones ? Il est si brave.
 
-    PREMIERE AMAZONE
+    PREMIERE AMAZONE.
 Têtebleu ! c'est un grivois des plus déterminés : quel abbateur de quilles !
 
-    II. AMAZONE
+    II. AMAZONE.
 J'ai bien vû des hommes de ma vie, mais jamais un comme lui.
 
-    PREMIERE AMAZONE
+    PREMIERE AMAZONE.
 Il faut assurément qu'il ait une rude force, puisqu'il nous a vaincuës ; jugez ce que doit être une femme armée de-pied-en-cap, lorsqu'elle est si redoutable en pete-en-l'air.
 
-    PHILONOÉ
+    PHILONOÉ.
 Je crois, Mesdames, qu'il seroit à propos que vous chantassiez sa gloire.
 
-    PREMIERE AMAZONE
+    PREMIERE AMAZONE.
 Cela seroit nouveau, des captifs chanter la gloire de leur vainqueur.
 
-    II. AMAZONE
+    II. AMAZONE.
 Fi donc, cela ne feroit pas à sa place.
 
-    PHILONOÉ
+    PHILONOÉ.
 Pardonnez-moi, il faut bien que des femmes s'amusent.
 
-    PREMIERE AMAZONE
+    PREMIERE AMAZONE.
 Allons donc, chantons ses exploits pour la rareté du fait.
 Air 87. *Menuet du Grandval.*
 Sa brûlante ardeur pour la gloire  
 En lui ne peut se moderer.  
 
-    II. AMAZONE
+    II. AMAZONE.
 Avec ce gaillard la victoire  
 N'a pas le tems de respirer.  
 Voilà ce qui s'appelle une gasconade Lyrique.
 
 
-### SCENE II
+### SCENE II.
 BELLEROPHON, PHILONOÉ
 
 
-    BELLEROPHON
+    BELLEROPHON.
 Ah vous voilà, Princesse ? que je suis content !
 Air I. *Zon, zon.*
 Au gré de mon désir  
@@ -148,7 +148,7 @@ Et zon, zon, zon
 Le sentez-vous, Madame ?  
 Et zon, zon, zon,  
 
-    PHILONOÉ
+    PHILONOÉ.
 Oh ! je vous en réponds.
 Air 88. *Pour la Baronne.*
 Comme vos peines  
@@ -157,16 +157,16 @@ Liés tous deux des mêmes chaînes,
 Je dois partager vos plaisirs  
 Comme vos peines.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Air 42. *Tu croyois en aimant Colette.*
 Ah ! qu'un si doux aveu me touche !  
 Qu'il rend mon destin glorieux !  
 
-    PHILONOÉ
+    PHILONOÉ.
 S'il ne me sortoit de la bouche,  
 Il m'échaperoit par les yeux.  
 
-    TOUS DEUX
+    TOUS DEUX.
 Air 66. *Il faut que je file, file.*
 Qu'ici notre amour extrême  
 Chante comme à l'Opera,  
@@ -177,43 +177,43 @@ Je vous aime, & cætera.
 Je vous aime, je vous aime.  
 Le beau duô que voilà !  
 
-    PHILONOÉ
+    PHILONOÉ.
 Adieu mon petit bonhomme, aimez-moi toujours, & vous ne vous en repentirez pas.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Où allez-vous donc, ma poulette ? quoi vous m'abandonnez dans le moment le plus tendre ? cela n'est pas bien, vous trichez.
 
-    PHILONOÉ
+    PHILONOÉ.
 Mon devoir m'appelle auprès de mon pere ; voici la Reine qui vient, je vous laisse avec elle.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Que diable vient-elle faire ici ? je m'en vais lui dire que je n'y suis pas.
 
 
-### SCENE III
+### SCENE III.
 STENOBEÉ, BELLEROPHON
 
 
-    STENOBÉE
+    STENOBÉE.
 Air 35. *Le fameux Diogenes.*
 Quand cessera ta haine ?  
 Ma présence te gêne,  
 Et je m'en apperçoi.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Quel aspect effroyable !  
 Oui, je crois voir le Diable  
 Lorsque je vous revoi.  
 Je suis sincère, comme vous voyez. Que me demandez-vous ? vous m'avez fait bannir d'Argos, & vous venez me relancer jusqu'en ce lieu : de grace, laissez-moi en repos.
 
-    STENOBÉE
+    STENOBÉE.
 Air 89. *La ceinture.*
 Je sçai les maux que je t'ai faits,  
 Mais malgré ma rigueur extrême,  
 Ne me dis plus que je te hais,  
 Ou reproche-moi que je t'aime.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Que veut dire ce jeu de mots-là ? le Diable m'emporte si j'y entends rien.
 Air 23. *Laire la, laire lanlaire.*
 Par la rage, & par les fureurs  
@@ -223,29 +223,29 @@ Laire la, laire lanlaire,
 Laire la,  
 Laire lanla.  
 
-    STENOBÉE
+    STENOBÉE.
 Je t'avouërai, mon cher Bellérophon, qu'une extrême pudeur m'empêcha d'écouter ma tendresse.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Têtebleu, le tems vous a bien aguerrie ! vous avez secoué le joug des préjugés, à ce que je vois ? allons, allons, songez qu'il ne convient pas à une Dame de faire les avances, adieu.
 
-    STENOBÉE
+    STENOBÉE.
 Quoi, tu me quittes !
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Oh ! si vous ne me laissez, j'appellerai du monde à mon secours.
 
-    STENOBÉE
+    STENOBÉE.
 Arrête, cruel.
 
-    BELLÉROPHON *en s'en allant.*
+    BELLÉROPHON *en s'en allant.*.
 Air 269.
 Vous y perdez vos pas, Nicolas.
 
 
-### SCENE IV
+### SCENE IV.
 
-    STENOBÉE *seule*
+    STENOBÉE *seule*.
 Air 29. *Je ne suis né ni Roi ni Reine.*
 Tu me quittes, barbare ? arrête !  
 Mais par ma foi je suis bien bête  
@@ -256,27 +256,27 @@ Et l'amour malheureux s'augmente.
 Mais voici Amisodar qui vient fort à propos.
 
 
-### SCENE V
+### SCENE V.
 AMISODAR, STENOBÉE
 
 
-    STENOBÉE
+    STENOBÉE.
 Air 310. *Janeton m'aimez-vous* ?
 Amisodar, m'aimez-vous ?  
 
-    AMISODAR
+    AMISODAR.
 Voyez quel conte,  
 
-    STENOBÉE
+    STENOBÉE.
 Servirez-vous mon courroux ?  
 
-    AMISODAR
+    AMISODAR.
 Ma main est prompte.  
 
-    STENOBÉE
+    STENOBÉE.
 Je puis donc compter sur vous ?  
 
-    AMISODAR
+    AMISODAR.
 Quel chien de conte.  
 Air 306. *Vous avez en moi ce qui s'appelle.*
 Ah ! du moins, ne doutez pas, cruelle  
@@ -284,7 +284,7 @@ De mes feux, & de votre pouvoir,
 Vous avez en moi ce qui s'appelle  
 Un Amant qui vous aime, il faut voir.  
 
-    STENOBÉE
+    STENOBÉE.
 Air 11. *Robin Turelure.*
 L'insolent Bellérophon,  
 M'a fait une horrible injure,  
@@ -298,7 +298,7 @@ Avec sa fille il va l'unir :
 Troublons l'Hymen qui se prépare  
 Par une vengeance barbare.  
 
-    AMISODAR
+    AMISODAR.
 J'y consens.  
 Air 5. *Les Trembleurs.*
 Mon pouvoir que rien n'égale  
@@ -310,32 +310,32 @@ Aux mortels livrer la guerre,
 Et désoler cette terre  
 Par un monstre furieux.  
 
-    STENOBÉE
+    STENOBÉE.
 Non, non, point de Tonnerre, le Monstre me divertira davantage.
 
-    AMISODAR
+    AMISODAR.
 Que dites-vous, Madame ?
 Air 91. *C'est le bout du bras.*
 Pour vous ce spectacle est effrayant.  
 
-    STENOBÉE
+    STENOBÉE.
 N'importe, n'importe.  
 Que de la terre à l'instant  
 Le monstre sorte, le monstre sorte.  
 
-    AMISODAR
+    AMISODAR.
 Madame, éloignez-vous  
 Je vais servir votre courroux.  
 
 
-### SCENE VI
+### SCENE VI.
 
-    AMISODAR
+    AMISODAR.
 Que ce Jardin se change en un Sabat affreux.
 Le Jardin disparoît, & l'on voit en sa place une Caverne affreuse & un gros Chat au milieu du Théâtre.
 
 
-    AMISODAR
+    AMISODAR.
 Air 92. *Quel plaisir d'aimer sans contrainte.*
 Accourez Sorciers, & sorcieres,  
 Joignez à mon Art vos noirs misteres,  
@@ -343,19 +343,19 @@ Et surtout mettez de la partie
 Les Diables de basse Normandie.  
 
 
-### SCENE VII
+### SCENE VII.
 AMISODAR, LES SORCIERS ET LES SORCIERES paroissent au son de la Symphonie.
 
 
-    SORCIERS, & SORCIERES
+    SORCIERS, & SORCIERES.
 Parle, nous voilà prêts, tout nous sera possible.
 
-    AMISODAR
+    AMISODAR.
 Allons mes enfans, il s'agit d'un coup de maître : il faut faire sortir des enfers un monstre qui fasse ici le Diable à quatre.
 Les Sorciers se jettent par terre pour l'évocation.
 
 
-    CHŒUR DE SORCIERS
+    CHŒUR DE SORCIERS.
 Air 93. *Ramplan.*
 Par le commandement,  
 Que le Tenare s'ouvre,  
@@ -365,7 +365,7 @@ Que l'enfer se découvre
 Dans ce même moment,  
 Ramplan.  
 
-    AMISODAR
+    AMISODAR.
 Poursuivez mes amis, cela va à merveilles. Il faut avoüer que voilà un beau spectacle !
 Air 28. *Je reviendrai demain au soir.*
 Faites sentir votre pouvoir  
@@ -375,10 +375,10 @@ Et la mort, & la nuit. *bis.*
 Les Sorciers se rejettent encore contre terre.
 
 
-    AMISODAR
+    AMISODAR.
 Que les peuples de cette contrée éprouvent nos fureurs, quoiqu'ils ne nous ayent rien fait.
 
-    CHŒURS DE SORCIERS
+    CHŒURS DE SORCIERS.
 Air 94. *Passant sur le Pont-Neuf.*
 Noires filles du Styx, Hecate, Erebe, Averne,  
 Nuit, Mort, Chiens des enfers que la fureur gouverne,  
@@ -386,7 +386,7 @@ Que l'on travaille
 A désoler cette Canaille,  
 Entendez nos clameurs, c'est pour vous que l'on braille.  
 
-    AMISODAR
+    AMISODAR.
 Air 38. *Nanon dormoit.*
 Les charme est fait, remercions Hecate.  
 Ah ! les voilà.  
@@ -409,11 +409,11 @@ Aux enfers descendons ensemble,
 Il faut des charmes plus puissants  
 Pour faire qu'un corps les rassemble.  
 
-    UN SORCIER
+    UN SORCIER.
 Pour assoûvir votre fureur,  
 C'étoit assez du Procureur.  
 
-    AMISODAR
+    AMISODAR.
 Ah ! vous faites tort au mérite des ces Messieurs, chacun vaut son prix ; mais ce sera bien autre chose quand ils seront réünis : *virtus unita fortior*.
 Air 29. *Je ne suis né ni Roi ni Prince.*
 Par ce redoutable assemblage  
@@ -426,11 +426,11 @@ Ils abîment ; le Monstre aussi-tôt sort des enfers & traverse le Théâtre au
 
 
 
-### SCENE VIII
+### SCENE VIII.
 LE ROY, STENOBÉE
 
 
-    LE ROY
+    LE ROY.
 Air 96. *Trois voleurs insolens.*
 Un Monstre bien méchant  
 S'en va tout dévorant  
@@ -439,13 +439,13 @@ Et quoique je sois Roi,
 Je crains aussi pour moi  
 Sa fureur incivile.  
 
-    STENOBÉE
+    STENOBÉE.
 Voilà ce que c'est que de donner asyle à des coupables, ils nous attirent toûjours quelque malheur; mais après tout, Seigneur, vous devez vous rassurer.
 
-    LE ROY
+    LE ROY.
 Comment me rassurer lorsque cet animal furieux fait ici tant de ravages ?
 
-    STENOBÉE
+    STENOBÉE.
 Air 61. *Lanturlu*.
 De ce Monstre horrible  
 Que craignez-vous donc ?  
@@ -458,31 +458,31 @@ Elle sort
 
 
 
-### SCENE IX
+### SCENE IX.
 BELLEROPHON, LE ROY
 
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Ah ! Ah ! Vous voilà beau-père, vous allez apparemment consulter l'Oracle d'Apollon.
 
-    LE ROY
+    LE ROY.
 Air 26. *Joconde*.
 Vous sçavez que de mes états  
 C'est le Dieu Tutelaire  
 Et lui seul dans cet embarras  
 Peut me tirer d'affaire.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Et que peut sa protection ?  
 Insensé que vous êtes,  
 Ne sçavez-vous pas qu'Apollon  
 Est le Dieu des Poëtes ?  
 Ma foi il ne peut pas vous rendre de grands services; mais laissez-moi faire, je vais combattre le Monstre, moi.
 
-    LE ROY
+    LE ROY.
 Que dites-vous là ? vous n'y pensez pas.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Pardonnez-moi.
 Air 10. *La serrure.*
 Lorsqu'à sa fureur meurtriere  
@@ -490,10 +490,10 @@ Tous vos sujets sont exposés,
 A mon avis, mon cher beau-pere,  
 Resterai-je les bras croisés ?  
 
-    LE ROY
+    LE ROY.
 Sçavez-vous bien, Seigneur Bellerophon, que ce Monstre-là en vaut trois pour le moins ?
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Malepeste ! trois contre un, la partie n'est point égale; de quoi s'avise cet animal d'être triple ? mais n'importe, je veux en essayer.
 Air 90. *Réjoüissez-vous bons François.*
 Ma foi ce seroit un beau coup,  
@@ -502,38 +502,38 @@ On écriroit mon avanture
 Dans la Gazette & le Mercure  
 
 
-### SCENE X
+### SCENE X.
 PHILONOÉ, les USDITS
 
 
-    PHILONOÉ
+    PHILONOÉ.
 Air 14. *Or écoutez petits & grands.*
 Je viens partager vos douleurs,  
 A vos larmes joindre mes pleurs,  
 
-    LE ROY
+    LE ROY.
 Contre le Monstre qui les cause,  
 Bellérophon court, & s'expose,  
 Y consens-tu ma fille ?  
 
-    PHILONOÉ
+    PHILONOÉ.
 Hélas ! Vous-même n'y consentez pas.  
 Air 47. *Ma raison s'en va bon train.*
 Tout prêt d'être mon Epoux,  
 Quoi vous exposeriez-vous ?  
 Non, demeurez-là,  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Il succombera,  
 Vous verrez sa défaite.  
 Ah ! Sans ce chien de monstre-là,  
 L'affaire seroit faite.  
 
-    LE ROY
+    LE ROY.
 Le Temple s'ouvre, entrons.
 
 
-### SCENE XI
+### SCENE XI.
 Le Théâtre représente le Temple d'Apollon
 
 LE SACRIFICATEUR, LES MINISTRES dansans,
@@ -541,7 +541,7 @@ LE SACRIFICATEUR, LES MINISTRES dansans,
 DEUX PRETRESSES, LE ROY, les susdits.
 
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE.
 Air 97. *Ah ! Madame Anroux.*
 Ah ! Grand Apollon  
 Délivre-nous donc  
@@ -550,50 +550,50 @@ Par ton divin nom,
 De plus par la tête  
 Du serpent Python.  
 
-    LE SACRIFICATEUR *devant un petit Autel où l'on allume le Feu Sacré.*
+    LE SACRIFICATEUR *devant un petit Autel où l'on allume le Feu Sacré.*.
 Air 19. *Quand on a prononcé ce malheureux oüi.*
 Reçois, grand Apollon, reçois ce Sacrifice,  
 Fais qu'à nos justes vœux le destin soit propice.  
 Où est l'animal ?
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Le voilà.
 On amene un Bœuf ; le Sacrificateur verse du vin sur sa tête.
 
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Comment donc, c'est du Bourgogne ! Monsieur le Sacrificateur, ne versez pas tout s'il vous plaît, gardez-en pour moi.
 
-    LE SACRIFICATEUR
+    LE SACRIFICATEUR.
 Air 98. *Au son de cet instrument.*
 Puisse ce vin répandu  
 Faire cesser notre tristesse.  
 
-    BELLÉROPHON *à part*
+    BELLÉROPHON *à part*.
 Hélas si nous l'avions bû  
 Nous serions tous dans l'allegresse !  
 
-    LE SACRIFICATEUR
+    LE SACRIFICATEUR.
 Mes enfans, allons,  
 Courons volons  
 Vite immolons  
 Le Bœuf,  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Puis nous le mangerons.  
 Un Ministre apporte le cœur.
 
 
-    LE SACRIFICATEUR
+    LE SACRIFICATEUR.
 Cela va bien, mes enfans, ah ! le beau cœur.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Il sera bien meilleur sur le gril.
 
-    LE SACRIFICATEUR
+    LE SACRIFICATEUR.
 Peuples, réjoüissez-vous, & dansez autour du feu.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Oui, oui, c'est bien dit, je vais mener le branle.
 Il chante & danse en rond.
 
@@ -604,10 +604,10 @@ Et lon lan la ma tourelourirette
 Trop courte par les genoux  
 Et lon lan la ma tourelouriroux.  
 
-    LE SACRIFICATEUR
+    LE SACRIFICATEUR.
 Grand Apollon nous n'attendons plus que votre réponse.
 
-    LA PYTHIE *paroit*
+    LA PYTHIE *paroit*.
 Air 15. *Pierre Bagnolet.*
 Je n'étois pas fort nécessaire  
 Pour vous annoncer Apollon,  
@@ -620,7 +620,7 @@ Phœbus va parler, que le Théatre s'obscurcisse, & représente la nuit.
 Le Tonnerre gronde, le Théatre s'obscurcit.
 
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Air 100. *Quand la Bergere vient des Champs.*
 Quoi nous faire voir dans un four  
 Le Dieu du jour !  
@@ -632,7 +632,7 @@ Qu'a l'Opera.
 (Le Théatre en cet endroit s'obscurcit à l'Opera, & le couplet de Bellerophon en est la critique)
 
 
-    APOLLON
+    APOLLON.
 Air 33. *Flon, flon.*
 Un des fils de Neptune  
 Appaisera, dit-on,  
@@ -640,7 +640,7 @@ La Celeste rancune ;
 Mais il lui faut Fanchon ;  
 Flon, flon, &c.  
 
-    LE ROY
+    LE ROY.
 Air 1. *Zon, zon, zon.*
 Je suis tout confondu…  
 Comme vous j'en soupire,  
@@ -649,38 +649,38 @@ Je ne lui fais pas dire.
 Il s'en va.
 
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Et bon, bon, bon,  
 Moi je n'en fait que rire,  
 Et bon, bon, bon,  
 Quelle est cette Fanchon ?  
 
-    PHILONOÉ
+    PHILONOÉ.
 Hélas ! c'est moi : c'est le nom que je portois étant petite fille.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 C'est bien le Diable ! morbleu voilà un Oracle qui me chifonne malheur.
 Air 101. *Rossignolet du vert boccage.*
 Quoi ! je vous perds ma Fanchonnette !  
 Fatal revers !  
 
-    PHILONOÉ
+    PHILONOÉ.
 Bellerophon, je le répete,  
 Quoi je vous perds !  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Voilà, je vous l'avouë, un fort vilain contretems ; nous étions justement formés l'un pour l'autre, & nous aurions fait le plus joli couple du monde. Mais ma mignonne, croyez-moi, malgré tout cela…
 
-    PHILONOÉ
+    PHILONOÉ.
 Non, mon fils, n'y pensons plus.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Comment n'y pensons plus ? cela vous est bien aisé à dire.
 
-    PHILONOÉ
+    PHILONOÉ.
 Il le faut bien, puisque l'Oracle s'oppose à notre hymen.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Qu'est-ce que cela fait ? c'est peut-être un bien pour nous que de ne nous pas marier, nous nous en aimerons plus lomgtems.
 Air 102. *Car mon cœur n'est point partagé.*
 Apollon a beau parler  
@@ -688,17 +688,17 @@ Contre nos ardeurs mutuelles ;
 De quoi va-t'il se mêler  
 De séparer deux cœurs fidéles ?  
 
-    TOUS DEUX
+    TOUS DEUX.
 Ma foi malgré le destin  
 Nous irons toûjours notre train. bis.  
 
 
-### SCENE XII
+### SCENE XII.
 
-    LES VOIX *crient derriere le Théatre*
+    LES VOIX *crient derriere le Théatre*.
 Garre le Monstre, fuyons, fuyons.
 
-    UNE PETITE FILLE
+    UNE PETITE FILLE.
 Air 4. *Voici les Dragons.*
 Qu le Monstre est en colère !  
 Vîte sauvons-nous ;  
@@ -710,9 +710,9 @@ Le Théatre change & représente une Campagne avec des Rochers.
 
 
 
-### SCENE XIII
+### SCENE XIII.
 
-    BELLÉROPHON *en fuyant*
+    BELLÉROPHON *en fuyant*.
 Ah ! nous sommes perdus ! le Monstre s'avance, quelle fumée, s'il me rencontre je suis gobé… mais cependant laisserai-je périr la Princesse ? cela ne seroit pas honnête… Allons Bellerophon *animo*, courage… courage ? c'est bien dit, mais tout franc, je n'en ai guere… il faut pourtant faire comme si j'en avois, car c'est ici le plus interessant de la piece : après tout, sans ma petite Fanchon que m'importe de vivre ?
 Air 15. *Pierre Bagnolet.*
 O mort, dans mon malheur extrême  
@@ -724,18 +724,18 @@ Quand on a perdu ce qu'on aime,
 Il ne reste plus qu'à mourir.  
 
 
-### SCENE XIV
+### SCENE XIV.
 UN POETE, BELLEROPHON
 
 
-    LE POETE
+    LE POETE.
 Qu'est-ce, Seigneur Bellerophon, vous me paroissez bien embarassé ? vous attendez sans doute Pallas pour vous tirer d'affaire ? car il faut toûjours que le merveilleux s'en mêle point du tout, c'est moi qui vais faire ce miracle-là.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Air 103. *Margot sur la brune.*
 Sçachons qui vous êtes.  
 
-    LE POETE
+    LE POETE.
 Le plus grand des Poëtes.  
 Les Muses sont prêtes  
 A mon moindre signal :  
@@ -744,11 +744,11 @@ Les Comédies,
 Les Parodies,  
 Tout m'est égal.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 C'est-à-dire qu'il fait tout mal.  
 Quoi ! c'est avec les Tragédies que vous prétendez tuer la Chimere ? il est vrai qu'Attalie lui a donné une terrible entorce.
 
-    LE POETE
+    LE POETE.
 Air 104. *Tiquetaque & lon lan la.*
 Pour le vaincre, il faut, mon cher,  
 Combattre le Monstre en l'air :  
@@ -756,29 +756,29 @@ Sur Pegaze en assurance,
 Tiquetique taque & lon lan la,  
 Vous aurez heureuse chance.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Mauvais moyen que cela.  
 Et s'il trébuche, où en serai-je ? car on lui a diablement gâté la bouche… mais a propos de Pegaze, est-ce que vous en pouvez disposer ?
 
-    LE POETE
+    LE POETE.
 Air 89. *La Ceinture.*
 De moi seul il reçoit la Loi,  
 Je le tiens dans mon Ecurie.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 La pauvre bête par ma foi,  
 Y doit être bien mal nourrie.  
 
-    LE POETE
+    LE POETE.
 Venez-vous, dis-je, suivez-moi, & ne craignez rien ; montez hardiment ce superbe Cheval.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Oüi : mais je n'ai point de bottes, prétez-moi donc des guétres… en conscience puis-je me fier à vous ?
 
-    LE POETE
+    LE POETE.
 Belle demande ! montez sur le Pegaze & soyez sûr de la victoire.
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Air 33. *Flon flon*
 Hélas ! mon cher Poëte,  
 Quand je l'aurai monté  
@@ -798,7 +798,7 @@ Le Monstre redouble sa rage.
 La Chimere paroît au fond du Théatre ; Bellerophon monté sur un Asne ailé combat comiquement le Monstre : il paroît d'abord avec une Scie, ensuite avec une Broche ; puis la troisième fois il le tue avec un Fusil.
 
 
-    DEUX PERSONNES DU PEUPLE
+    DEUX PERSONNES DU PEUPLE.
 Air 59. *M. Lapalisse est mort.*
 Le Monstre a fini son sort ;  
 Ne craignons plus sa furie.  
@@ -806,17 +806,17 @@ Ma foi s'il ‘étoit pas mort,
 Il seroit encore en vie.  
 
 
-### SCENE XV
+### SCENE XV.
 LE ROY, PHILONOÉ
 
 
-    LE ROY
+    LE ROY.
 Voilà bien des nouvelles, ma fille. Cet Oracle qui t'a tant fait pleurer est enfin éclairci ; Bellerophon est ce fils de Neptune qui t'étoit destiné ; ce Dieu nous l'a dit lui-même.
 
-    PHILONOÉ
+    PHILONOÉ.
 Mais, mon Pere, en verité je n'y comprends rien, comment cela s'est-il donc fait ?
 
-    LE ROY
+    LE ROY.
 Je vais te l'expliquer.
 Air 26. *Joconde.*
 D'une Nymphe ce Dieu craignit  
@@ -829,20 +829,20 @@ Et Glaucus lui prêta son nom
 Comme on le fait en France.  
 
 
-### SCENE XVI
+### SCENE XVI.
 StENOBÉE, LES SUSDITS
 
 
-    LE ROY
+    LE ROY.
 Mais voici Stenobée : vous venez apparemment, Madame, partager la joie publique ; sçavez-vous bien que Bellerophon est fils de Neptune, & qu'il a tué le Monstre ?
 
-    STENOBÉE
+    STENOBÉE.
 Je ne sçais que trop.
 
-    LE ROY
+    LE ROY.
 Ah ! Cela vous fâche, parce que vous n'êtes pas des amis de Bellerophon.
 
-    STENOBÉE
+    STENOBÉE.
 Air 105. *Trop d'Amour enfin.*
 Pour Bellerophon j'avois l'ame éprise  
 De la plus sensible ardeur,  
@@ -858,21 +858,21 @@ Voir son feu récompensé,
 Mais le pauvre misérable  
 N'en est pas plus avancé.  
 
-    LE ROY
+    LE ROY.
 Ah le coquin ! Gardes qu'on le saisisse.
 Air 65. *Va t'en voir s'ils viennent.*
 Que les Archers promptement  
 Devant nous l'amenent.  
 
-    STENOBÉE
+    STENOBÉE.
 Puisqu'il s'est enfui, comment  
 Veux-tu qu'ils le prennent ?  
 Va-t'en voir s'ils viennent, Jean, &c.  
 
-    LE ROY
+    LE ROY.
 Hé bien scelerate tu vas payer pour lui.  
 
-    STENOBÉE
+    STENOBÉE.
 Air 107. *Charmante Gabrielle.*
 Je ne crains point ta haine,  
 J'ai par précaution  
@@ -883,44 +883,44 @@ A ses effets.
 Oh ! l'excellent remede  
 Pour les forfaits.  
 
-    PHILONOÉ
+    PHILONOÉ.
 Air 108. *N'y a pas d'mal à ça.*
 Comme sa rage est forte !  
 Comme la voilà !  
 Seigneur elle est morte.  
 
-    LE ROY
+    LE ROY.
 Que nous fait cela ?  
 N'y a pas d'mal à ça. bis.  
 Mais voici Bellerophon : ces Trompettes & ces Timballes nous l'annoncent.
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 BELLEROPHON, les susdits.
 
 
-    LE ROY
+    LE ROY.
 Ah ! Seigneur, que ne vous devons-nous pas ?
 
-    BELLEROPHON
+    BELLEROPHON.
 Ouf ! voilà un combat qui m'a bien donné de la peine. Vous sçavez sans doute que je suis le fils de Neptune ? il est inutile que Pallas vienne vous l'apprendre.
 
-    PHILONOÉ
+    PHILONOÉ.
 Quel bonheur ! mon cher Bellerophon.
 
-    LE ROY
+    LE ROY.
 Air 62. *Mariez, mariez, mariez-moi.*
 Allons donnez-vous la main,  
 Je couronne votre flame.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Non, remettons à demain,  
 Car j'ai mes raisons, Madame,  
 
-    PHILONOÉ
+    PHILONOÉ.
 Expliquez, expliquez-vous sans détour.  
 
-    BELLÉROPHON
+    BELLÉROPHON.
 Vaincre un Monstre, & prendre femme,  
 Palsambleu mon petit cœur, mon amour ;  
 Ce seroit trop pour un jour.  

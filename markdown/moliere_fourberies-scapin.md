@@ -20,7 +20,7 @@ AVEC PRIVILÈGE DU ROI.
 
 
 
-# ACTEURS
+# ACTEURS.
  – Argante, Père d'Octave et de Zerbinette.
  – Géronte, Père de Léandre et de Hyacinte.
  – Octave, Fils d'Argante, et Amant de Hyacinte.
@@ -36,2027 +36,2027 @@ La Scène est à Naples.
 
 
 
-# Acte Premier
+# Acte Premier.
 
 
-## Scène Première
+## Scène Première.
 Octave, Silvestre
 
 
-    OCTAVE
+    OCTAVE.
 Ah fâcheuses nouvelles pour un Cœur amoureux !Dures extrémités où je me vois réduit !Tu viens, Silvestre, d'apprendre au Port que mon Père revient ?
 
-    SILVESTRE
+    SILVESTRE.
 Oui.
 
-    OCTAVE
+    OCTAVE.
 Qu'il arrive ce matin même ?
 
-    SILVESTRE
+    SILVESTRE.
 Ce matin même.
 
-    OCTAVE
+    OCTAVE.
 Et qu'il revient dans la résolution de me marier ?
 
-    SILVESTRE
+    SILVESTRE.
 Oui.
 
-    OCTAVE
+    OCTAVE.
 Avec une Fille du seigneur Géronte ?
 
-    SILVESTRE
+    SILVESTRE.
 Du Seigneur Géronte.
 
-    OCTAVE
+    OCTAVE.
 Et que cette Fille est mandée de Tarente ici pour cela ?
 
-    SILVESTRE
+    SILVESTRE.
 Oui.
 
-    OCTAVE
+    OCTAVE.
 Et tu tiens ces nouvelles de mon Oncle ?
 
-    SILVESTRE
+    SILVESTRE.
 De votre Oncle.
 
-    OCTAVE
+    OCTAVE.
 À qui mon Père les a mandées par une Lettre ?
 
-    SILVESTRE
+    SILVESTRE.
 Par une Lettre.
 
-    OCTAVE
+    OCTAVE.
 Et cet Oncle, dis-tu, sait toutes nos affaires.
 
-    SILVESTRE
+    SILVESTRE.
 Toutes nos affaires.
 
-    OCTAVE
+    OCTAVE.
 Ah parle, si tu veux, et ne te fais point de la sorte, arracher les mots de la bouche.
 
-    SILVESTRE
+    SILVESTRE.
 Qu'ai-je à parler davantage ! Vous n'oubliez aucune circonstance, et vous dites les choses tout justement comme elles sont.
 
-    OCTAVE
+    OCTAVE.
 Conseille-moi, du moins, et me dis ce que je dois faire dans ces cruelles conjonctures.
 
-    SILVESTRE
+    SILVESTRE.
 Ma foi, je m'y trouve autant embarrassé que vous, et j'aurais bon besoin que l'on me conseillât moi-même.
 
-    OCTAVE
+    OCTAVE.
 Je suis assassiné par ce maudit retour.
 
-    SILVESTRE
+    SILVESTRE.
 Je ne le suis pas moins.
 
-    OCTAVE
+    OCTAVE.
 Lorsque mon Père apprendra les choses, je vais voir fondre sur moi un orage soudain d'impétueuses réprimandes.
 
-    SILVESTRE
+    SILVESTRE.
 Les réprimandes ne sont rien ; et plût au Ciel que j'en fusse quitte à ce prix !Mais j'ai bien la mine, pour moi, de payer plus cher vos folies, et je vois se former de loin un nuage de coups de bâton qui crèvera sur mes épaules.
 
-    OCTAVE
+    OCTAVE.
 Ô Ciel ! par où sortir de l'embarras où je me trouve ?
 
-    SILVESTRE
+    SILVESTRE.
 C'est à quoi vous deviez songer, avant que de vous y jeter.
 
-    OCTAVE
+    OCTAVE.
 Ah tu me fais mourir, par tes leçons hors de saison.
 
-    SILVESTRE
+    SILVESTRE.
 Vous me faites bien plus mourir, par vos actions étourdies.
 
-    OCTAVE
+    OCTAVE.
 Que dois-je faire ?Quelle résolution prendre ?À quel remède recourir ?
 
 
-## Scène II
+## Scène II.
 Scapin, Octave, Silvestre
 
 
-    SCAPIN
+    SCAPIN.
 Qu'est-ce, Seigneur Octave, qu'avez-vous ?Qu'y a-t-il ?Quel désordre est-ce là ?Je vous vois tout troublé.
 
-    OCTAVE
+    OCTAVE.
 Ah, mon pauvre Scapin, je suis perdu ; je suis désespéré ; je suis le plus infortuné de tous les Hommes.
 
-    SCAPIN
+    SCAPIN.
 Comment ?
 
-    OCTAVE
+    OCTAVE.
 N'as-tu rien appris de ce qui me regarde ?
 
-    SCAPIN
+    SCAPIN.
 Non.
 
-    OCTAVE
+    OCTAVE.
 Mon Père arrive avec le seigneur Géronte, et ils me veulent marier.
 
-    SCAPIN
+    SCAPIN.
 Hé bien, qu'y a-t-il là de si funeste ?
 
-    OCTAVE
+    OCTAVE.
 Hélas ! tu ne sais pas la cause de mon inquiétude.
 
-    SCAPIN
+    SCAPIN.
 Non ; mais il ne tiendra qu'à vous que je ne la sache bientôt ; et je suis Homme consolatif, Homme à m'intéresser aux affaires des jeunes Gens.
 
-    OCTAVE
+    OCTAVE.
 Ah ! Scapin, si tu pouvais trouver quelque invention, forger quelque machine, pour me tirer de la peine où je suis, je croirais t'être redevable de plus que de la vie.
 
-    SCAPIN
+    SCAPIN.
 À vous dire la vérité, il y a peu de choses qui me soient impossibles, quand je m'en veux mêler.J'ai sans doute reçu du Ciel un génie assez beau pour toutes les fabriques de ces gentillesses d'Esprit, de ces galanteries ingénieuses à qui le vulgaire ignorant donne le nom de Fourberies ; et je puis dire sans vanité, qu'on n'a guère vu d'Homme qui fût plus habile Ouvrier de ressorts et d'intrigues ; qui ait acquis plus de gloire que moi dans ce noble Métier : Mais, ma foi, le mérite est trop maltraité aujourd'hui, et j'ai renoncé à toutes choses depuis certain chagrin d'une affaire qui m'arriva.
 
-    OCTAVE
+    OCTAVE.
 Comment ?Quelle affaire, Scapin ?
 
-    SCAPIN
+    SCAPIN.
 Une aventure où je me brouillai avec la Justice.
 
-    OCTAVE
+    OCTAVE.
 La justice !
 
-    SCAPIN
+    SCAPIN.
 Oui, nous eûmes un petit démêlé ensemble.
 
-    SILVESTRE
+    SILVESTRE.
 Toi, et la Justice ?
 
-    SCAPIN
+    SCAPIN.
 Oui.Elle en usa fort mal avec moi, et je me dépitai de telle sorte contre l'ingratitude du Siècle, que je résolus de ne plus rien faire.Baste.Ne laissez pas de me conter votre aventure.
 
-    OCTAVE
+    OCTAVE.
 Tu sais, Scapin, qu'il y a deux mois que le seigneur Géronte, et mon Père, s'embarquèrent ensemble pour un Voyage qui regarde certain commerce où leurs intérêts sont mêlés.
 
-    SCAPIN
+    SCAPIN.
 Je sais cela.
 
-    OCTAVE
+    OCTAVE.
 Et que Léandre et moi nous fûmes laissés par nos Pères ; moi sous la conduite de Silvestre ; et Léandre sous ta direction.
 
-    SCAPIN
+    SCAPIN.
 Oui, je me suis fort bien acquitté de ma charge.
 
-    OCTAVE
+    OCTAVE.
 Quelque temps après, Léandre fit rencontre d'une jeune Égyptienne dont il devint amoureux.
 
-    SCAPIN
+    SCAPIN.
 Je sais cela encore.
 
-    OCTAVE
+    OCTAVE.
 Comme nous sommes grands Amis, il me fit aussitôt confidence de son amour, et me mena voir cette Fille, que je trouvai belle à la vérité, mais non pas tant qu'il voulait que je la trouvasse.Il ne m'entretenait que d'elle chaque jour ; m'exagérait à tous moments sa beauté, et sa grâce ; me louait son esprit, et me parlait avec transport des charmes de son entretien, dont il me rapportait jusqu'aux moindres paroles, qu'il s'efforçait toujours de me faire trouver les plus spirituelles du Monde.Il me querellait quelquefois de n'être pas assez sensible aux choses qu'il me venait dire, et me blâmait sans cesse de l'indifférence où j'étais pour les feux de l'Amour.
 
-    SCAPIN
+    SCAPIN.
 Je ne vois pas encore où ceci veut aller.
 
-    OCTAVE
+    OCTAVE.
 Un jour que je l'accompagnais pour aller chez les Gens qui gardent l'Objet de ses vœux, nous entendîmes dans une petite Maison d'une Rue écartée, quelques plaintes mêlées de beaucoup de sanglots.Nous demandons ce que c'est.Une Femme nous dit en soupirant, que nous pouvions voir là quelque chose de pitoyable en des Personnes étrangères ; et qu'à moins que d'être insensibles, nous en serions touchés.
 
-    SCAPIN
+    SCAPIN.
 Où est-ce que cela nous mène ?
 
-    OCTAVE
+    OCTAVE.
 La curiosité me fit presser Léandre de voir ce que c'était.Nous entrons dans une Salle, où nous voyons une vieille Femme mourante, assistée d'une Servante qui faisait des regrets, et d'une jeune Fille toute fondante en larmes, la plus belle, et la plus touchante qu'on puisse jamais voir.
 
-    SCAPIN
+    SCAPIN.
 Ah, ah.
 
-    OCTAVE
+    OCTAVE.
 Un autre aurait paru effroyable en l'état où elle était ; car elle n'avait pour habillement qu'une méchante petite Jupe, avec des Brassières de nuit qui étaient de simple futaine ; et sa coiffure était une Cornette jaune, retroussée au haut de sa tête, qui laissait tomber en désordre ses cheveux sur ses épaules ; et cependant faite comme cela, elle brillait de mille attraits, et ce n'était qu'agréments et que charmes, que toute sa Personne.
 
-    SCAPIN
+    SCAPIN.
 Je sens venir les choses.
 
-    OCTAVE
+    OCTAVE.
 Si tu l'avais vue, Scapin, en l'état que je dis, tu l'aurais trouvée admirable.
 
-    SCAPIN
+    SCAPIN.
 Oh je n'en doute point ; et sans l'avoir vue, je vois bien qu'elle était tout à fait charmante.
 
-    OCTAVE
+    OCTAVE.
 Ses larmes n'étaient point de ces larmes désagréables, qui défigurent un visage ; Elle avait à pleurer, une grâce touchante ; et sa douleur était la plus belle du Monde.
 
-    SCAPIN
+    SCAPIN.
 Je vois tout cela.
 
-    OCTAVE
+    OCTAVE.
 Elle faisait fondre chacun en larmes, en se jetant amoureusement sur le corps de cette Mourante, qu'elle appelait sa chère Mère ; et il n'y avait Personne qui n'eût l'âme percée, de voir un si bon naturel.
 
-    SCAPIN
+    SCAPIN.
 En effet, cela est touchant ; et je vois bien que ce bon naturel-là vous la fit aimer.
 
-    OCTAVE
+    OCTAVE.
 Ah ! Scapin, un Barbare l'aurait aimée.
 
-    SCAPIN
+    SCAPIN.
 Assurément.Le moyen de s'en empêcher ?
 
-    OCTAVE
+    OCTAVE.
 Après quelques paroles, dont je tâchai d'adoucir la douleur de cette charmante Affligée, nous sortîmes de là ; et demandant à Léandre ce qu'il lui semblait de cette Personne, il me répondit froidement qu'il la trouvait assez jolie.Je fus piqué de la froideur avec laquelle il m'en parlait, et je ne voulus point lui découvrir l'effet que ses beautés avaient fait sur mon âme.
 
-    SILVESTRE
+    SILVESTRE.
 Si vous n'abrégez ce récit, nous en voilà pour jusqu'à demain.Laissez-le-moi finir en deux mots.Son cœur prend feu dès ce moment.Il ne saurait plus vivre, qu'il n'aille consoler son aimable Affligée.Ses fréquentes visites sont rejetées de la Servante, devenue la Gouvernante par le trépas de la Mère ; voilà mon Homme au désespoir.Il presse, supplie, conjure ; point d'affaire.On lui dit que la Fille, quoique sans bien, et sans appui, est de Famille honnête ; et qu'à moins que de l'épouser, on ne peut souffrir ses poursuites.Voilà son amour augmenté par les difficultés.Il consulte dans sa tête, agite, raisonne, balance, prend sa résolution ; Le voilà marié avec elle depuis trois jours.
 
-    SCAPIN
+    SCAPIN.
 J'entends.
 
-    SILVESTRE
+    SILVESTRE.
 Maintenant mets avec cela le retour imprévu du Père, qu'on n'attendait que dans deux mois ; La découverte que l'Oncle a faite du secret de notre Mariage, et l'autre Mariage qu'on veut faire de lui avec la Fille que le seigneur Géronte a eue d'une seconde Femme qu'on dit qu'il a épousée à Tarente.
 
-    OCTAVE
+    OCTAVE.
 Et par-dessus tout cela, mets encore l'indigence où se trouve cette aimable Personne, et l'impuissance où je me vois d'avoir de quoi la secourir.
 
-    SCAPIN
+    SCAPIN.
 Est-ce là tout ?Vous voilà bien embarrassés tous deux pour une bagatelle.C'est bien là de quoi se tant alarmer.N'as-tu point de honte, toi, de demeurer court à si peu de chose ?Que diable, te voilà grand et gros comme Père et Mère, et tu ne saurais trouver dans ta tête, forger dans ton esprit quelque ruse galante, quelque honnête petit stratagème, pour ajuster vos affaires ?Fi.Peste soit du Butor.Je voudrais bien que l'on m'eût donné autrefois nos Vieillards à duper ; je les aurais joués tous deux par-dessous la jambe ; et je n'étais pas plus grand que cela, que je me signalais déjà par cent tours d'adresse jolis.
 
-    SILVESTRE
+    SILVESTRE.
 J'avoue que le Ciel ne m'a pas donné tes talents, et que je n'ai pas l'esprit comme toi, de me brouiller avec la Justice.
 
-    OCTAVE
+    OCTAVE.
 Voici mon aimable Hyacinte.
 
 
-## Scène III
+## Scène III.
 Hyacinte, Octave, Scapin, Silvestre
 
 
-    HYACINTHE
+    HYACINTHE.
 Ah, Octave, est-il vrai ce que Silvestre vient de dire à Nérine ?Que votre père est de retour, et qu'il veut vous marier ?
 
-    OCTAVE
+    OCTAVE.
 Oui, belle Hyacinte, et ces nouvelles m'ont donné une atteinte cruelle.Mais que vois-je ? vous pleurez !Pourquoi ces larmes ?Me soupçonnez-vous, dites-moi, de quelque infidélité, et n'êtes-vous pas assurée de l'amour que j'ai pour vous ?
 
-    HYACINTHE
+    HYACINTHE.
 Oui, Octave, je suis sûre que vous m'aimez ; mais je ne le suis pas que vous m'aimiez toujours.
 
-    OCTAVE
+    OCTAVE.
 Eh peut-on vous aimer, qu'on ne vous aime toute sa vie ?
 
-    HYACINTHE
+    HYACINTHE.
 J'ai ouï dire, Octave, que votre Sexe aime moins longtemps que le nôtre, et que les ardeurs que les Hommes font voir, sont des feux qui s'éteignent aussi facilement qu'ils naissent.
 
-    OCTAVE
+    OCTAVE.
 Ah ! ma chère Hyacinte, mon cœur n'est donc pas fait comme celui des autres Hommes, et je sens bien pour moi que je vous aimerai jusqu'au tombeau.
 
-    HYACINTHE
+    HYACINTHE.
 Je veux croire que vous sentez ce que vous dites, et je ne doute point que vos paroles ne soient sincères ; mais je crains un pouvoir, qui combattra dans votre cœur les tendres sentiments que vous pouvez avoir pour moi.Vous dépendez d'un Père, qui veut vous marier à une autre Personne ; et je suis sûre que je mourrai, si ce malheur m'arrive.
 
-    OCTAVE
+    OCTAVE.
 Non, belle Hyacinte, il n'y a point de Père qui puisse me contraindre à vous manquer de foi, et je me résoudrai à quitter mon Pays, et le jour même, s'il est besoin, plutôt qu'à vous quitter.J'ai déjà pris, sans l'avoir vue, une aversion effroyable pour celle que l'on me destine ; et sans être cruel, je souhaiterais que la Mer l'écartât d'ici pour jamais.Ne pleurez donc point, je vous prie, mon aimable Hyacinte, car vos larmes me tuent, et je ne les puis voir sans me sentir percer le cœur.
 
-    HYACINTHE
+    HYACINTHE.
 Puisque vous le voulez, je veux bien essuyer mes pleurs, et j'attendrai d'un œil constant ce qu'il plaira au Ciel de résoudre de moi.
 
-    OCTAVE
+    OCTAVE.
 Le Ciel nous sera favorable.
 
-    HYACINTHE
+    HYACINTHE.
 Il ne saurait m'être contraire, si vous m'êtes fidèle.
 
-    OCTAVE
+    OCTAVE.
 Je le serai assurément.
 
-    HYACINTHE
+    HYACINTHE.
 Je serai donc heureuse.
 
-    SCAPIN
+    SCAPIN.
 Elle n'est pas tant sotte, ma foi, et je la trouve assez passable.
 
-    OCTAVE
+    OCTAVE.
 Voici un Homme qui pourrait bien, s'il le voulait, nous être dans tous nos besoins, d'un secours merveilleux.
 
-    SCAPIN
+    SCAPIN.
 J'ai fait de grands serments de ne me mêler plus du Monde ; mais si vous m'en priez bien fort tous deux, peut-être…
 
-    OCTAVE
+    OCTAVE.
 Ah s'il ne tient qu'à te prier bien fort, pour obtenir ton aide, je te conjure de tout mon cœur de prendre la conduite de notre Barque.
 
-    SCAPIN
+    SCAPIN.
 Et vous, ne me dites-vous rien ?
 
-    HYACINTHE
+    HYACINTHE.
 Je vous conjure, à son exemple, par tout ce qui vous est le plus cher au Monde, de vouloir servir notre amour.
 
-    SCAPIN
+    SCAPIN.
 Il faut se laisser vaincre, et avoir de l'humanité.Allez, je veux m'employer pour vous.
 
-    OCTAVE
+    OCTAVE.
 Crois que…
 
-    SCAPIN
+    SCAPIN.
 Chut.Allez-vous-en vous, et soyez en repos.Et vous, préparez-vous à soutenir avec fermeté l'abord de votre père.
 
-    OCTAVE
+    OCTAVE.
 Je t'avoue que cet abord me fait trembler par avance, et j'ai une timidité naturelle que je ne saurais vaincre.
 
-    SCAPIN
+    SCAPIN.
 Il faut pourtant paraître ferme au premier choc, de peur que sur votre faiblesse il ne prenne le pied de vous mener comme un Enfant.Là, tâchez de vous composer par étude.Un peu de hardiesse, et songez à répondre résolument sur tout ce qu'il pourra vous dire.
 
-    OCTAVE
+    OCTAVE.
 Je ferai du mieux que je pourrai.
 
-    SCAPIN
+    SCAPIN.
 Çà, essayons un peu pour vous accoutumer.Répétons un peu votre rôle, et voyons si vous ferez bien.Allons.La mine résolue, la tête haute, les regards assurés.
 
-    OCTAVE
+    OCTAVE.
 Comme cela ?
 
-    SCAPIN
+    SCAPIN.
 Encore un peu davantage.
 
-    OCTAVE
+    OCTAVE.
 Ainsi ?
 
-    SCAPIN
+    SCAPIN.
 Bon.Imaginez-vous que je suis votre Père qui arrive, et répondez-moi fermement comme si c'était à lui-même.Comment, Pendard, Vaurien, Infâme, Fils indigne d'un Père comme moi, oses-tu bien paraître devant mes yeux après tes bons déportements, après le lâche tour que tu m'as joué pendant mon absence ?Est-ce là le fruit de mes soins, Maraud, est-ce là le fruit de mes soins ? le respect qui m'est dû ? le respect que tu me conserves ?Allons donc.Tu as l'insolence, Fripon, de t'engager sans le consentement de ton Père ; de contracter un Mariage clandestin ?Réponds-moi, Coquin, réponds-moi.Voyons un peu tes belles raisons.Oh ! que diable, vous demeurez interdit.
 
-    OCTAVE
+    OCTAVE.
 C'est que je m'imagine que c'est mon père que j'entends.
 
-    SCAPIN
+    SCAPIN.
 Eh oui.C'est par cette raison qu'il ne faut pas être comme un Innocent.
 
-    OCTAVE
+    OCTAVE.
 Je m'en vais prendre plus de résolution, et je répondrai fermement.
 
-    SCAPIN
+    SCAPIN.
 Assurément ?
 
-    OCTAVE
+    OCTAVE.
 Assurément.
 
-    SILVESTRE
+    SILVESTRE.
 Voilà votre Père qui vient.
 
-    OCTAVE
+    OCTAVE.
 Ô Ciel ! je suis perdu.
 
-    SCAPIN
+    SCAPIN.
 Holà, Octave, demeurez.Octave.Le voilà enfui.Quelle pauvre espèce d'Homme !Ne laissons pas d'attendre le Vieillard.
 
-    SILVESTRE
+    SILVESTRE.
 Que lui dirai-je ?
 
-    SCAPIN
+    SCAPIN.
 Laisse-moi dire, moi, et ne fais que me suivre.
 
 
-## Scène IV
+## Scène IV.
 Argante, Scapin, Silvestre
 
 
-    ARGANTE
+    ARGANTE.
 A-t-on jamais ouï parler d'une action pareille à celle-là ?
 
-    SCAPIN
+    SCAPIN.
 Il a déjà appris l'affaire, et elle lui tient si fort en tête, que tout seul il en parle haut.
 
-    ARGANTE
+    ARGANTE.
 Voilà une témérité bien grande !
 
-    SCAPIN
+    SCAPIN.
 Écoutons-le un peu.
 
-    ARGANTE
+    ARGANTE.
 Je voudrais bien savoir ce qu'ils me pourront dire sur ce beau Mariage.
 
-    SCAPIN
+    SCAPIN.
 Nous y avons songé.
 
-    ARGANTE
+    ARGANTE.
 Tâcheront-ils de me nier la chose ?
 
-    SCAPIN
+    SCAPIN.
 Non, nous n'y pensons pas.
 
-    ARGANTE
+    ARGANTE.
 Ou s'ils entreprendront de l'excuser ?
 
-    SCAPIN
+    SCAPIN.
 Celui-là se pourra faire.
 
-    ARGANTE
+    ARGANTE.
 Prétendront-ils m'amuser par des contes en l'air ?
 
-    SCAPIN
+    SCAPIN.
 Peut-être.
 
-    ARGANTE
+    ARGANTE.
 Tous leurs discours seront inutiles.
 
-    SCAPIN
+    SCAPIN.
 Nous allons voir.
 
-    ARGANTE
+    ARGANTE.
 Ils ne m'en donneront point à garder.
 
-    SCAPIN
+    SCAPIN.
 Ne jurons de rien.
 
-    ARGANTE
+    ARGANTE.
 Je saurai mettre mon pendard de Fils en lieu de sûreté.
 
-    SCAPIN
+    SCAPIN.
 Nous y pourvoirons.
 
-    ARGANTE
+    ARGANTE.
 Et pour le coquin de Silvestre, je le rouerai de coups.
 
-    SILVESTRE
+    SILVESTRE.
 J'étais bien étonné s'il m'oubliait.
 
-    ARGANTE
+    ARGANTE.
 Ah, ah, vous voilà donc, sage Gouverneur de Famille, beau Directeur de jeunes Gens.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, je suis ravi de vous voir de retour.
 
-    ARGANTE
+    ARGANTE.
 Bonjour, Scapin, vous avez suivi mes ordres vraiment d'une belle manière, et mon Fils s'est comporté fort sagement pendant mon absence.
 
-    SCAPIN
+    SCAPIN.
 Vous vous portez bien, à ce que je vois ?
 
-    ARGANTE
+    ARGANTE.
 Assez bien.
 À Silvestre.
 
 Tu ne dis mot, Coquin, tu ne dis mot.
 
-    SCAPIN
+    SCAPIN.
 Votre voyage a-t-il été bon ?
 
-    ARGANTE
+    ARGANTE.
 Mon Dieu, fort bon.Laisse-moi un peu quereller en repos.
 
-    SCAPIN
+    SCAPIN.
 Vous voulez quereller ?
 
-    ARGANTE
+    ARGANTE.
 Oui, je veux quereller.
 
-    SCAPIN
+    SCAPIN.
 Et qui, Monsieur ?
 
-    ARGANTE
+    ARGANTE.
 Ce Maraud-là.
 
-    SCAPIN
+    SCAPIN.
 Pourquoi ?
 
-    ARGANTE
+    ARGANTE.
 Tu n'as pas ouï parler de ce qui s'est passé dans mon absence ?
 
-    SCAPIN
+    SCAPIN.
 J'ai bien ouï parler de quelque petite chose.
 
-    ARGANTE
+    ARGANTE.
 Comment quelque petite chose !Une action de cette nature ?
 
-    SCAPIN
+    SCAPIN.
 Vous avez quelque raison.
 
-    ARGANTE
+    ARGANTE.
 Une hardiesse pareille à celle-là ?
 
-    SCAPIN
+    SCAPIN.
 Cela est vrai.
 
-    ARGANTE
+    ARGANTE.
 Un Fils qui se marie sans le consentement de son Père ?
 
-    SCAPIN
+    SCAPIN.
 Oui, il y a quelque chose à dire à cela.Mais je serais d'avis que vous ne fissiez point de bruit.
 
-    ARGANTE
+    ARGANTE.
 Je ne suis pas de cet avis, moi, et je veux faire du bruit tout mon soûl.Quoi, tu ne trouves pas que j'ai tous les sujets du monde d'être en colère ?
 
-    SCAPIN
+    SCAPIN.
 Si fait, j'y ai d'abord été moi, lorsque j'ai su la chose, et je me suis intéressé pour vous, jusqu'à quereller votre Fils.Demandez-lui un peu quelles belles réprimandes je lui ai faites, et comme je l'ai chapitré sur le peu de respect qu'il gardait à un Père, dont il devait baiser les pas ?On ne peut pas lui mieux parler, quand ce serait vous-même.Mais quoi, je me suis rendu à la raison, et j'ai considéré que dans le fond, il n'a pas tant de tort qu'on pourrait croire.
 
-    ARGANTE
+    ARGANTE.
 Que me viens-tu conter ?Il n'a pas tant de tort de s'aller marier de but en blanc avec une Inconnue ?
 
-    SCAPIN
+    SCAPIN.
 Que voulez-vous, il y a été poussé par sa destinée.
 
-    ARGANTE
+    ARGANTE.
 Ah, ah, voici une raison la plus belle du monde.On n'a plus qu'à commettre tous les crimes imaginables, tromper, voler, assassiner et dire pour excuse qu'on y a été poussé par sa destinée.
 
-    SCAPIN
+    SCAPIN.
 Mon Dieu, vous prenez mes paroles trop en Philosophe.Je veux dire qu'il s'est trouvé fatalement engagé dans cette affaire.
 
-    ARGANTE
+    ARGANTE.
 Et pourquoi s'y engageait-il ?
 
-    SCAPIN
+    SCAPIN.
 Voulez-vous qu'il soit aussi sage que vous ?Les jeunes Gens sont jeunes, et n'ont pas toute la prudence qu'il leur faudrait, pour ne rien faire que de raisonnable ; témoin notre Léandre, qui malgré toutes mes leçons, malgré toutes mes remontrances, est allé faire de son côté pis encore que votre Fils.Je voudrais bien savoir si vous-même n'avez pas été jeune, et n'avez pas dans votre temps fait des fredaines comme les autres.J'ai ouï dire, moi, que vous avez été autrefois un Compagnon parmi les femmes, que vous faisiez de votre drôle avec les plus galantes de ce temps-là ; et que vous n'en approchiez point, que vous ne poussassiez à bout.
 
-    ARGANTE
+    ARGANTE.
 Cela est vrai.J'en demeure d'accord ; mais je m'en suis toujours tenu à la galanterie, et je n'ai point été jusqu'à faire ce qu'il a fait.
 
-    SCAPIN
+    SCAPIN.
 Que vouliez-vous qu'il fît ?Il voit une jeune Personne qui lui veut du bien ; (car il tient cela de vous, d'être aimé de toutes les Femmes).Il la trouve charmante.Il lui rend des visites ; lui conte des douceurs, soupire galamment, fait le passionné.Elle se rend à sa poursuite.Il pousse sa fortune.Le voilà surpris avec elle par ses Parents, qui la force à la main le contraignent de l'épouser.
 
-    SILVESTRE
+    SILVESTRE.
 L'habile Fourbe que voilà !
 
-    SCAPIN
+    SCAPIN.
 Eussiez-vous voulu qu'il se fût laissé tuer ?Il vaut mieux encore être marié, qu'être mort.
 
-    ARGANTE
+    ARGANTE.
 On ne m'a pas dit que l'affaire se soit ainsi passée.
 
-    SCAPIN
+    SCAPIN.
 Demandez-lui plutôt. il ne vous dira pas le contraire.
 
-    ARGANTE
+    ARGANTE.
 C'est par force qu'il a été marié ?
 
-    SILVESTRE
+    SILVESTRE.
 Oui, Monsieur.
 
-    SCAPIN
+    SCAPIN.
 Voudrais-je vous mentir ?
 
-    ARGANTE
+    ARGANTE.
 Il devait donc aller tout aussitôt protester de violence chez un Notaire.
 
-    SCAPIN
+    SCAPIN.
 C'est ce qu'il n'a pas voulu faire.
 
-    ARGANTE
+    ARGANTE.
 Cela m'aurait donné plus de facilité à rompre ce Mariage.
 
-    SCAPIN
+    SCAPIN.
 Rompre ce Mariage !
 
-    ARGANTE
+    ARGANTE.
 Oui.
 
-    SCAPIN
+    SCAPIN.
 Vous ne le romprez point.
 
-    ARGANTE
+    ARGANTE.
 Je ne le romprai point ?
 
-    SCAPIN
+    SCAPIN.
 Non.
 
-    ARGANTE
+    ARGANTE.
 Quoi, je n'aurai pas pour moi les droits de Père, et la raison de la violence qu'on a faite à mon Fils ?
 
-    SCAPIN
+    SCAPIN.
 C'est une chose dont il ne demeurera pas d'accord.
 
-    ARGANTE
+    ARGANTE.
 Il n'en demeurera pas d'accord ?
 
-    SCAPIN
+    SCAPIN.
 Non.
 
-    ARGANTE
+    ARGANTE.
 Mon fils ?
 
-    SCAPIN
+    SCAPIN.
 Votre Fils.Voulez-vous qu'il confesse qu'il ait été capable de crainte, et que ce soit par force qu'on lui ait fait faire les choses ?Il n'a garde d'aller avouer cela.Ce serait se faire tort, et se montrer indigne d'un Père comme vous.
 
-    ARGANTE
+    ARGANTE.
 Je me moque de cela.
 
-    SCAPIN
+    SCAPIN.
 Il faut, pour son honneur, et pour le vôtre, qu'il dise dans le monde, que c'est de bon gré qu'il l'a épousée.
 
-    ARGANTE
+    ARGANTE.
 Et je veux moi, pour mon honneur et pour le sien, qu'il dise le contraire.
 
-    SCAPIN
+    SCAPIN.
 Non, je suis sûr qu'il ne le fera pas.
 
-    ARGANTE
+    ARGANTE.
 Je l'y forcerai bien.
 
-    SCAPIN
+    SCAPIN.
 Il ne le fera pas, vous dis-je.
 
-    ARGANTE
+    ARGANTE.
 Il le fera, ou je le déshériterai.
 
-    SCAPIN
+    SCAPIN.
 Vous ?
 
-    ARGANTE
+    ARGANTE.
 Moi.
 
-    SCAPIN
+    SCAPIN.
 Bon.
 
-    ARGANTE
+    ARGANTE.
 Comment, bon ?
 
-    SCAPIN
+    SCAPIN.
 Vous ne le déshériterez point.
 
-    ARGANTE
+    ARGANTE.
 Je ne le déshériterai point ?
 
-    SCAPIN
+    SCAPIN.
 Non.
 
-    ARGANTE
+    ARGANTE.
 Non ?
 
-    SCAPIN
+    SCAPIN.
 Non.
 
-    ARGANTE
+    ARGANTE.
 Hoy. Voici qui est plaisant.Je ne déshériterai pas mon Fils.
 
-    SCAPIN
+    SCAPIN.
 Non, vous dis-je.
 
-    ARGANTE
+    ARGANTE.
 Qui m'en empêchera ?
 
-    SCAPIN
+    SCAPIN.
 Vous-même.
 
-    ARGANTE
+    ARGANTE.
 Moi ?
 
-    SCAPIN
+    SCAPIN.
 Oui.Vous n'aurez pas ce cœur-là.
 
-    ARGANTE
+    ARGANTE.
 Je l'aurai.
 
-    SCAPIN
+    SCAPIN.
 Vous vous moquez.
 
-    ARGANTE
+    ARGANTE.
 Je ne me moque point.
 
-    SCAPIN
+    SCAPIN.
 La tendresse Paternelle fera son office.
 
-    ARGANTE
+    ARGANTE.
 Elle ne fera rien.
 
-    SCAPIN
+    SCAPIN.
 Oui, oui.
 
-    ARGANTE
+    ARGANTE.
 Je vous dis que cela sera.
 
-    SCAPIN
+    SCAPIN.
 Bagatelles.
 
-    ARGANTE
+    ARGANTE.
 Il ne faut point dire bagatelles.
 
-    SCAPIN
+    SCAPIN.
 Mon Dieu, je vous connais, vous êtes bon naturellement.
 
-    ARGANTE
+    ARGANTE.
 Je ne suis point bon, et je suis méchant quand je veux.Finissons ce discours qui m'échauffe la bile.Va-t'en, Pendard, va-t'en me chercher mon Fripon, tandis que j'ira rejoindre le Seigneur Géronte, pour lui conter ma disgrâce.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, si je vous puis être utile en quelque chose, vous n'avez qu'à me commander.
 
-    ARGANTE
+    ARGANTE.
 Je vous remercie.Ah pourquoi faut-il qu'il soit Fils unique !Et que n'ai-je à cette heure la Fille que le Ciel m'a ôtée, pour la faire mon Héritière !
 
 
-## Scène V
+## Scène V.
 Scapin, Silvestre
 
 
-    SILVESTRE
+    SILVESTRE.
 J'avoue que tu es un grand Homme, et voilà l'affaire en bon train ; mais l'argent d'autre part nous presse pour notre subsistance, et nous avons de tous côtés des Gens qui aboient après nous.
 
-    SCAPIN
+    SCAPIN.
 Laisse-moi faire, la machine est trouvée.Je cherche seulement dans ma tête un Homme qui nous soit affidé, pour jouer un Personnage dont j'ai besoin.Attends.Tiens-toi un peu.Enfonce ton bonnet en méchant Garçon.Campe-toi sur un pied.Mets la main au côté.Fais les yeux furibonds.Marche un peu en Roi de Théâtre.Voilà qui est bien.Suis-moi.J'ai des secrets pour déguiser ton visage et ta voix.
 
-    SILVESTRE
+    SILVESTRE.
 Je te conjure au moins, de ne m'aller point brouiller avec la Justice.
 
-    SCAPIN
+    SCAPIN.
 Va, va ; nous partagerons les périls en Frères ; et trois ans de Galère de plus, ou de moins, ne sont pas pour arrêter un noble cœur.
 
 <Fin du Premier Acte.>
 
 
-# Acte II
+# Acte II.
 
 
-## Scène Première
+## Scène Première.
 Géronte, Argante
 
 
-    GÉRONTE
+    GÉRONTE.
 Oui, sans doute, par le temps qu'il fait, nous aurons ici nos Gens aujourd'hui ; et un Matelot qui vient de Tarente, m'a assuré qu'il avait vu mon Homme qui était près de s'embarquer.Mais l'arrivée de ma Fille trouvera les choses mal disposées à ce que nous nous proposions ; et ce que vous venez de m'apprendre de votre Fils, rompt étrangement les mesures que nous avions prises ensemble.
 
-    ARGANTE
+    ARGANTE.
 Ne vous mettez pas en peine ; je vous réponds de renverser tout cet obstacle, et j'y vais travailler de ce pas.
 
-    GÉRONTE
+    GÉRONTE.
 Ma foi, Seigneur Argante, voulez-vous que je vous dise ; l'éducation des Enfants est une chose à quoi il faut s'attacher fortement.
 
-    ARGANTE
+    ARGANTE.
 Sans doute.À quel propos cela ?
 
-    GÉRONTE
+    GÉRONTE.
 À propos, de ce que les mauvais déportements des jeunes Gens viennent le plus souvent de la mauvaise éducation que leurs Pères leur donnent.
 
-    ARGANTE
+    ARGANTE.
 Cela arrive parfois.Mais que voulez-vous dire par là ?
 
-    GÉRONTE
+    GÉRONTE.
 Ce que je veux dire par là ?
 
-    ARGANTE
+    ARGANTE.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Que si vous aviez en brave Père, bien morigéné votre Fils, il ne vous aurait pas joué le tour qu'il vous a fait.
 
-    ARGANTE
+    ARGANTE.
 Fort bien.De sorte donc que vous avez bien mieux moriginé le vôtre ?
 
-    GÉRONTE
+    GÉRONTE.
 Sans doute, et je serais bien fâché qu'il m'eût rien fait approchant de cela.
 
-    ARGANTE
+    ARGANTE.
 Et si ce Fils que vous avez, en brave Père, si bien morigéné, avait fait pis encore que le mien ; Eh ?
 
-    GÉRONTE
+    GÉRONTE.
 Comment ?
 
-    ARGANTE
+    ARGANTE.
 Comment ?
 
-    GÉRONTE
+    GÉRONTE.
 Qu'est-ce que cela veut dire ?
 
-    ARGANTE
+    ARGANTE.
 Cela veut dire, Seigneur Géronte, qu'il ne faut pas être si prompt à condamner la conduite des autres ; et que ceux qui veulent gloser, doivent bien regarder chez eux s'il n'y a rien qui cloche.
 
-    GÉRONTE
+    GÉRONTE.
 Je n'entends point cette Énigme.
 
-    ARGANTE
+    ARGANTE.
 On vous l'expliquera.
 
-    GÉRONTE
+    GÉRONTE.
 Est-ce que vous auriez ouï dire quelque chose de mon Fils ?
 
-    ARGANTE
+    ARGANTE.
 Cela se peut faire.
 
-    GÉRONTE
+    GÉRONTE.
 Et quoi encore ?
 
-    ARGANTE
+    ARGANTE.
 Votre Scapin, dans mon dépit, ne m'a dit la chose qu'en gros ; et vous pourrez de lui, ou de quelque autre, être instruit du détail.Pour moi, je vais vite consulter un Avocat, et aviser des biais que j'ai à prendre.Jusqu'au revoir.
 
 
-## Scène II
+## Scène II.
 Léandre, Géronte
 
 
-    GÉRONTE
+    GÉRONTE.
 Que pourrait-ce être que cette affaire-ci ?Pis encore que le sien !Pour moi, je ne vois pas ce que l'on peut faire de pis ; et je trouve que se marier sans le consentement de son Père, est une action qui passe tout ce qu'on peut s'imaginer.Ah vous voilà.
 
-    LÉANDRE, *en courant à lui pour l'embrasser*
+    LÉANDRE, *en courant à lui pour l'embrasser*.
 Ah ! mon Père, que j'ai de joie de vous voir de retour !
 
-    GÉRONTE, *refusant de l'embrasser*
+    GÉRONTE, *refusant de l'embrasser*.
 Doucement.Parlons un peu d'affaire.
 
-    LÉANDRE
+    LÉANDRE.
 Souffrez que je vous embrasse, et que…
 
-    GÉRONTE, *le repoussant encore*
+    GÉRONTE, *le repoussant encore*.
 Doucement, vous dis-je.
 
-    LÉANDRE
+    LÉANDRE.
 Quoi, vous me refusez, mon Père, de vous exprimer mon transport par mes embrassements ?
 
-    GÉRONTE
+    GÉRONTE.
 Oui, nous avons quelque chose à démêler ensemble.
 
-    LÉANDRE
+    LÉANDRE.
 Et quoi ?
 
-    GÉRONTE
+    GÉRONTE.
 Tenez-vous, que je vous vois en face.
 
-    LÉANDRE
+    LÉANDRE.
 Comment ?
 
-    GÉRONTE
+    GÉRONTE.
 Regardez-moi entre deux yeux.
 
-    LÉANDRE
+    LÉANDRE.
 Hé bien ?
 
-    GÉRONTE
+    GÉRONTE.
 Qu'est-ce donc qu'il s'est passé ici ?
 
-    LÉANDRE
+    LÉANDRE.
 Ce qui s'est passé ?
 
-    GÉRONTE
+    GÉRONTE.
 Oui.Qu'avez-vous fait dans mon absence ?
 
-    LÉANDRE
+    LÉANDRE.
 Que voulez-vous, mon Père, que j'ai fait ?
 
-    GÉRONTE
+    GÉRONTE.
 Ce n'est pas moi qui veux que vous ayez fait, mais qui demande ce que c'est que vous avez fait.
 
-    LÉANDRE
+    LÉANDRE.
 Moi, je n'ai fait aucune chose dont vous ayez lieu de vous plaindre.
 
-    GÉRONTE
+    GÉRONTE.
 Aucune chose ?
 
-    LÉANDRE
+    LÉANDRE.
 Non.
 
-    GÉRONTE
+    GÉRONTE.
 Vous êtes bien résolu.
 
-    LÉANDRE
+    LÉANDRE.
 C'est que je suis sûr de mon innocence.
 
-    GÉRONTE
+    GÉRONTE.
 Scapin pourtant a dit de vos nouvelles.
 
-    LÉANDRE
+    LÉANDRE.
 Scapin !
 
-    GÉRONTE
+    GÉRONTE.
 Ah, ah, ce mot vous fait rougir.
 
-    LÉANDRE
+    LÉANDRE.
 Il vous a dit quelque chose de moi ?
 
-    GÉRONTE
+    GÉRONTE.
 Ce lieu n'est pas tout à fait propre à vider cette affaire, et nous allons l'examiner ailleurs.Qu'on se rende au Logis. j'y vais revenir tout à l'heure.Ah !Traître, s'il faut que tu me déshonores, je te renonce pour mon Fils, et tu peux bien pour jamais te résoudre à fuir de ma présence.
 
 
-## Scène III
+## Scène III.
 Octave, Scapin, Léandre
 
 
-    LÉANDRE
+    LÉANDRE.
 Me trahir de cette manière !Un Coquin, qui doit par cent raisons être le premier à cacher les choses que je lui confie, est le premier à les aller découvrir à mon Père.Ah ! je jure le Ciel, que cette trahison ne demeurera pas impunie.
 
-    OCTAVE
+    OCTAVE.
 Mon cher Scapin, que ne dois-je point à tes soins !Que tu es un Homme admirable !Et que le Ciel m'est favorable, de t'envoyer à mon secours !
 
-    LÉANDRE
+    LÉANDRE.
 Ah, ah, vous voilà.Je suis ravi de vous trouver, Monsieur le Coquin.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, votre Serviteur.C'est trop d'honneur que vous me faites.
 
-    LÉANDRE, *en mettant l'épée à la main*
+    LÉANDRE, *en mettant l'épée à la main*.
 Vous faites le méchant Plaisant.Ah ! je vous apprendrai…
 
-    SCAPIN, *se mettant à genoux*
+    SCAPIN, *se mettant à genoux*.
 Monsieur.
 
-    OCTAVE, *se mettant entre deux, pour empêcher Léandre de le frapper*
+    OCTAVE, *se mettant entre deux, pour empêcher Léandre de le frapper*.
 Ah, Léandre.
 
-    LÉANDRE
+    LÉANDRE.
 Non, Octave, ne me retenez point, je vous prie.
 
-    SCAPIN
+    SCAPIN.
 Eh, Monsieur.
 
-    OCTAVE, *le retenant*
+    OCTAVE, *le retenant*.
 De grâce.
 
-    LÉANDRE, *voulant frapper Scapin*
+    LÉANDRE, *voulant frapper Scapin*.
 Laissez-moi contenter mon ressentiment.
 
-    OCTAVE
+    OCTAVE.
 Au nom de l'amitié, Léandre, ne le maltraitez point.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, que vous ai-je fait ?
 
-    LÉANDRE, *voulant le frapper*
+    LÉANDRE, *voulant le frapper*.
 Ce que tu m'as fait, traître ?
 
-    OCTAVE, *le retenant*
+    OCTAVE, *le retenant*.
 Eh doucement.
 
-    LÉANDRE
+    LÉANDRE.
 Non, Octave, je veux qu'il me confesse lui-même tout à l'heure la perfidie qu'il m'a faite.Oui, Coquin, je sais le trait que tu m'as joué, on vient de me l'apprendre ; et tu ne croyais pas peut-être que l'on me dût révéler ce secret : mais je veux en avoir la confession de ta propre bouche, ou je vais te passer cette épée au travers du corps.
 
-    SCAPIN
+    SCAPIN.
 Ah ! Monsieur, auriez-vous bien ce cœur-là ?
 
-    LÉANDRE
+    LÉANDRE.
 Parle donc.
 
-    SCAPIN
+    SCAPIN.
 Je vous ai fait quelque chose, Monsieur ?
 
-    LÉANDRE
+    LÉANDRE.
 Oui, Coquin, et ta conscience ne te dit que trop ce que c'est.
 
-    SCAPIN
+    SCAPIN.
 Je vous assure que je l'ignore.
 
-    LÉANDRE, *s'avançant pour le frapper*
+    LÉANDRE, *s'avançant pour le frapper*.
 Tu l'ignores !
 
-    OCTAVE, *le retenant*
+    OCTAVE, *le retenant*.
 Léandre.
 
-    SCAPIN
+    SCAPIN.
 Hé bien Monsieur, puisque vous le voulez, je vous confesse que j'ai bu avec mes Amis ce petit Quartaut de vin d'Espagne dont on vous fit présent il y a quelques jours ; et que c'est moi qui fis une fente au Tonneau, et répandis de l'eau autour, pour faire croire que le Vin s'était échappé.
 
-    LÉANDRE
+    LÉANDRE.
 C'est toi, Pendard, qui m'as bu mon Vin d'Espagne, et qui as été cause que j'ai tant querellé la Servante, croyant que c'était elle qui m'avait fait le tour ?
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur, je vous en demande pardon.
 
-    LÉANDRE
+    LÉANDRE.
 Je suis bien aise d'apprendre cela ; mais ce n'est pas l'affaire dont il est question maintenant.
 
-    SCAPIN
+    SCAPIN.
 Ce n'est pas cela, Monsieur ?
 
-    LÉANDRE
+    LÉANDRE.
 Non, c'est une autre affaire qui me touche bien plus, et je veux que tu me la dises.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, je ne me souviens pas d'avoir fait autre chose.
 
-    LÉANDRE, *le voulant frapper*
+    LÉANDRE, *le voulant frapper*.
 Tu ne veux pas parler ?
 
-    SCAPIN
+    SCAPIN.
 Eh.
 
-    OCTAVE, *le retenant*
+    OCTAVE, *le retenant*.
 Tout doux.
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur, il est vrai qu'il y a trois semaines que vous m'envoyâtes porter le soir, une petite Montre à la jeune Égyptienne que vous aimez.Je revins au Logis mes habits tout couverts de boue, et le visage plein de sang, et vous dis que j'avais trouvé des Voleurs qui m'avaient bien battu, et m'avaient dérobé la Montre.C'était moi, Monsieur, qui l'avais retenue.
 
-    LÉANDRE
+    LÉANDRE.
 C'est toi qui as retenu ma Montre ?
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur, afin de voir quelle heure il est.
 
-    LÉANDRE
+    LÉANDRE.
 Ah, ah, j'apprends ici de jolies choses, et j'ai un Serviteur fort fidèle vraiment.Mais ce n'est pas encore cela que je demande.
 
-    SCAPIN
+    SCAPIN.
 Ce n'est pas cela ?
 
-    LÉANDRE
+    LÉANDRE.
 Non, Infâme, c'est autre chose encore que je veux que tu me confesses.
 
-    SCAPIN
+    SCAPIN.
 Peste !
 
-    LÉANDRE
+    LÉANDRE.
 Parle vite, j'ai hâte.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, voilà tout ce que j'ai fait.
 
-    LÉANDRE, *voulant frapper Scapin*
+    LÉANDRE, *voulant frapper Scapin*.
 Voilà tout ?
 
-    OCTAVE, *se mettant au-devant*
+    OCTAVE, *se mettant au-devant*.
 Eh.
 
-    SCAPIN
+    SCAPIN.
 Hé bien oui, Monsieur, vous vous souvenez de ce Loup-garou il y a six mois qui vous donna tant de coups de bâton la nuit, et vous pensa faire rompre le cou dans une Cave où vous tombâtes en fuyant.
 
-    LÉANDRE
+    LÉANDRE.
 Hé bien ?
 
-    SCAPIN
+    SCAPIN.
 C'était moi, Monsieur, qui faisais le Loup-garou.
 
-    LÉANDRE
+    LÉANDRE.
 C'était toi, traître, qui faisais le Loup-garou ?
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur, seulement pour vous faire peur, et vous ôter l'envie de nous faire courir toutes les nuits comme vous aviez de coutume.
 
-    LÉANDRE
+    LÉANDRE.
 Je saurai me souvenir en temps et lieu de tout ce que je viens d'apprendre.Mais je veux venir au fait, et que tu me confesses ce que tu as dit à mon Père.
 
-    SCAPIN
+    SCAPIN.
 À votre Père ?
 
-    LÉANDRE
+    LÉANDRE.
 Oui, Fripon, à mon Père.
 
-    SCAPIN
+    SCAPIN.
 Je ne l'ai pas seulement vu depuis son retour.
 
-    LÉANDRE
+    LÉANDRE.
 Tu ne l'as pas vu ?
 
-    SCAPIN
+    SCAPIN.
 Non, Monsieur.
 
-    LÉANDRE
+    LÉANDRE.
 Assurément.
 
-    SCAPIN
+    SCAPIN.
 Assurément.C'est une chose que je vais vous faire dire par lui-même.
 
-    LÉANDRE
+    LÉANDRE.
 C'est de sa bouche que je le tiens pourtant.
 
-    SCAPIN
+    SCAPIN.
 Avec votre permission, il n'a pas dit la vérité.
 
 
-## Scène IV
+## Scène IV.
 Carle, Scapin, Léandre, Octave
 
 
-    CARLE
+    CARLE.
 Monsieur, je vous apporte une nouvelle qui est fâcheuse pour votre amour.
 
-    LÉANDRE
+    LÉANDRE.
 Comment ?
 
-    CARLE
+    CARLE.
 Vos Égyptiens sont sur le point de vous enlever Zerbinette ; et elle-même, les larmes aux yeux, m'a chargé de venir promptement vous dire, que si dans deux heures vous ne songez à leur porter l'argent qu'il vous ont demandé pour elle, vous l'allez perdre pour jamais.
 
-    LÉANDRE
+    LÉANDRE.
 Dans deux heures ?
 
-    CARLE
+    CARLE.
 Dans deux heures.
 
-    LÉANDRE
+    LÉANDRE.
 Ah ! mon pauvre Scapin, j'implore ton secours.
 
-    SCAPIN, *passant devant lui avec un air fier*
+    SCAPIN, *passant devant lui avec un air fier*.
 « Ah ! mon pauvre Scapin.Je suis mon pauvre Scapin à cette heure qu'on a besoin de moi.
 
-    LÉANDRE
+    LÉANDRE.
 Va, je te pardonne tout ce que tu viens de me dire, et pis encore, si tu me l'as fait.
 
-    SCAPIN
+    SCAPIN.
 Non, non, ne me pardonnez rien.Passez-moi votre épée au travers du corps.Je serai ravi que vous me tuiez.
 
-    LÉANDRE
+    LÉANDRE.
 Non.Je te conjure plutôt de me donner la vie, en servant mon amour.
 
-    SCAPIN
+    SCAPIN.
 Point, point, vous ferez mieux de me tuer.
 
-    LÉANDRE
+    LÉANDRE.
 Tu m'es trop précieux ; et je te prie de vouloir employer pour moi ce génie admirable, qui vient à bout de toute chose.
 
-    SCAPIN
+    SCAPIN.
 Non, tuez-moi, vous dis-je.
 
-    LÉANDRE
+    LÉANDRE.
 Ah, de grâce, ne songe plus à tout cela, et pense à me donner le secours que je te demande.
 
-    OCTAVE
+    OCTAVE.
 Scapin, il faut faire quelque chose pour lui.
 
-    SCAPIN
+    SCAPIN.
 Le moyen, après une avanie de la sorte ?
 
-    LÉANDRE
+    LÉANDRE.
 Je te conjure d'oublier mon emportement, et de me prêter ton adresse.
 
-    OCTAVE
+    OCTAVE.
 Je joins mes prières aux siennes.
 
-    SCAPIN
+    SCAPIN.
 J'ai cette insulte-là sur le cœur.
 
-    OCTAVE
+    OCTAVE.
 Il faut quitter ton ressentiment.
 
-    LÉANDRE
+    LÉANDRE.
 Voudrais-tu m'abandonner, Scapin, dans la cruelle extrémité où se voit mon amour ?
 
-    SCAPIN
+    SCAPIN.
 Me venir faire à l'improviste un affront comme celui-là !
 
-    LÉANDRE
+    LÉANDRE.
 J'ai tort, je le confesse.
 
-    SCAPIN
+    SCAPIN.
 Me traiter de Coquin, de Fripon, de Pendard, d'Infâme !
 
-    LÉANDRE
+    LÉANDRE.
 J'en ai tous les regrets du monde.
 
-    SCAPIN
+    SCAPIN.
 Me vouloir passer son épée au travers du corps !
 
-    LÉANDRE
+    LÉANDRE.
 Je t'en demande pardon de tout mon cœur ; et s'il ne tient qu'à me jeter à tes genoux, tu m'y vois, Scapin, pour te conjurer encore une fois de ne me point abandonner.
 
-    OCTAVE
+    OCTAVE.
 Ah ! ma foi, Scapin, il se faut rendre à cela.
 
-    SCAPIN
+    SCAPIN.
 Levez-vous.Une autre fois ne soyez point si prompt.
 
-    LÉANDRE
+    LÉANDRE.
 Me promets-tu de travailler pour moi ?
 
-    SCAPIN
+    SCAPIN.
 On y songera.
 
-    LÉANDRE
+    LÉANDRE.
 Mais tu sais que le temps presse.
 
-    SCAPIN
+    SCAPIN.
 Ne vous mettez pas en peine. Combien est-ce qu'il vous faut ?
 
-    LÉANDRE
+    LÉANDRE.
 Cinq cents Écus.
 
-    SCAPIN
+    SCAPIN.
 Et à vous ?
 
-    OCTAVE
+    OCTAVE.
 Deux cents Pistoles.
 
-    SCAPIN
+    SCAPIN.
 Je veux tirer cet argent de vos Pères.
 À Octave.
 
 Pour ce qui est du vôtre, la machine est déjà toute trouvée : Et quant au vôtre, bien qu'avare au dernier degré, il y faudra moins de façons encore ; car vous savez que pour l'esprit, il n'en a pas grâces à Dieu grande provision, et je le livre pour une espèce d'Homme à qui l'on fera toujours croire tout ce que l'on voudra.Cela ne vous offense point, il ne tombe entre lui et vous aucun soupçon de ressemblance ; et vous savez assez l'opinion de tout le monde, qui veut qu'il ne soit votre Père que pour la forme.
 
-    LÉANDRE
+    LÉANDRE.
 Tout beau, Scapin.
 
-    SCAPIN
+    SCAPIN.
 Bon, bon ; on fait bien scrupule de cela, vous moquez-vous ?Mais j'aperçois venir le Père d'Octave.Commençons par lui, puisqu'il se présente.Allez-vous-en tous deux.Et vous, avertissez votre Silvestre de venir vite jouer son rôle.
 
 
-## Scène V
+## Scène V.
 Argante, Scapin
 
 
-    SCAPIN
+    SCAPIN.
 Le voilà qui rumine.
 
-    ARGANTE
+    ARGANTE.
 Avoir si peu de conduite et de considération !S'aller jeter dans un engagement comme celui-là !Ah, ah, Jeunesse impertinente !
 
-    SCAPIN
+    SCAPIN.
 Monsieur, votre serviteur.
 
-    ARGANTE
+    ARGANTE.
 Bonjour, Scapin.
 
-    SCAPIN
+    SCAPIN.
 Vous rêvez à l'affaire de votre Fils.
 
-    ARGANTE
+    ARGANTE.
 Je t'avoue que cela me donne un furieux chagrin.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, la vie est mêlée de traverses.Il est bon de s'y tenir sans cesse préparé ; et j'ai ouï dire il y a longtemps une parole d'un Ancien que j'ai toujours retenue.
 
-    ARGANTE
+    ARGANTE.
 Quoi ?
 
-    SCAPIN
+    SCAPIN.
 Que pour peu qu'un Père de Famille ait été absent de chez lui, il doit promener son esprit sur tous les fâcheux accidents que son retour peut rencontrer ; se figurer sa Maison brûlée, son argent dérobé, sa Femme morte, son Fils estropié, sa Fille subornée ; et ce qu'il trouve qu'il ne lui est point arrivé, l'imputer à bonne fortune.Pour moi, j'ai pratiqué toujours cette leçon dans ma petite philosophie ; et je ne suis jamais revenu au Logis, que je ne me sois tenu prêt à la colère de mes Maîtres, aux réprimandes, aux injures, aux coups de pied au cul, aux bastonnades, aux étrivières ; et ce qui a manqué à m'arriver, j'en ai rendu grâce à mon bon destin.
 
-    ARGANTE
+    ARGANTE.
 Voilà qui est bien ; mais ce Mariage impertinent qui trouble celui que nous voulons faire, est une chose que je ne puis souffrir, et je viens de consulter des Avocats pour le faire casser.
 
-    SCAPIN
+    SCAPIN.
 Ma foi, Monsieur, si vous m'en croyez, vous tâcherez par quelque autre voie, d'accommoder l'affaire.Vous savez ce que c'est que les Procès en ce Pays-ci, et vous allez vous enfoncer dans d'étranges épines.
 
-    ARGANTE
+    ARGANTE.
 Tu as raison, je le vois bien. Mais quelle autre voie ?
 
-    SCAPIN
+    SCAPIN.
 Je pense que j'en ai trouvé une.La compassion que m'a donnée tantôt votre chagrin, m'a obligé à chercher dans ma tête quelque moyen pour vous tirer d'inquiétude : car je ne saurais voir d'honnêtes Pères chagrinés par leurs Enfants, que cela ne m'émeuve ; et de tout temps je me suis senti pour votre personne une inclination particulière.
 
-    ARGANTE
+    ARGANTE.
 Je te suis obligé.
 
-    SCAPIN
+    SCAPIN.
 J'ai donc été trouver le Frère de cette Fille qui a été épousée.C'est un de ces Braves de profession, de ces Gens qui sont tous coups d'épée ; qui ne parlent que d'échiner, et ne font non plus de conscience de tuer un Homme, que d'avaler un Verre de Vin.Je l'ai mis sur ce Mariage ; lui ai fait voir quelle facilité offrait la raison de la violence, pour le faire casser ; vos prérogatives du nom de Père, et l'appui que vous donnerait auprès de la Justice et votre droit, et votre argent, et vos Amis.Enfin je l'ai tant tourné de tous les côtés, qu'il a prêté l'oreille aux propositions que je lui ai faites d'ajuster l'affaire pour quelque somme ; et il donnera son consentement à rompre le Mariage, pourvu que vous lui donniez de l'argent.
 
-    ARGANTE
+    ARGANTE.
 Et qu'a-t-il demandé ?
 
-    SCAPIN
+    SCAPIN.
 Oh d'abord, des choses par-dessus les Maisons.
 
-    ARGANTE
+    ARGANTE.
 Et quoi ?
 
-    SCAPIN
+    SCAPIN.
 Des choses extravagantes.
 
-    ARGANTE
+    ARGANTE.
 Mais encore ?
 
-    SCAPIN
+    SCAPIN.
 Il ne parlait pas moins que de cinq ou six cents Pistoles.
 
-    ARGANTE
+    ARGANTE.
 Cinq ou six cents fièvres quartaines qui le puissent serrer.Se moque-t-il des Gens ?
 
-    SCAPIN
+    SCAPIN.
 C'est ce que je lui ai dit. J'ai rejeté bien loin de pareilles propositions, et je lui ai bien fait entendre que vous n'étiez point une dupe, pour vous demander des cinq ou six cents Pistoles.Enfin après plusieurs discours, voici où s'est réduit le résultat de notre conférence.Nous voilà au temps, m'a-t-il dit, que je dois partir pour l'Armée.Je suis après à m'équiper ; et le besoin que j'ai de quelque argent, me fait consentir malgré moi à ce qu'on me propose.Il me faut un Cheval de service, et je n'en saurais avoir un, qui soit tant soit peu raisonnable, à moins de soixante Pistoles.
 
-    ARGANTE
+    ARGANTE.
 Hé bien, pour soixante pistoles, je les donne.
 
-    SCAPIN
+    SCAPIN.
 Il faudra le Harnais, et les Pistolets ; et cela ira bien à vingt Pistoles encore.
 
-    ARGANTE
+    ARGANTE.
 Vingt pistoles, et soixante, ce serait quatre-vingts.
 
-    SCAPIN
+    SCAPIN.
 Justement.
 
-    ARGANTE
+    ARGANTE.
 C'est beaucoup ; mais soit, je consens à cela.
 
-    SCAPIN
+    SCAPIN.
 Il me faut aussi un Cheval pour monter mon Valet, qui coûtera bien trente Pistoles.
 
-    ARGANTE
+    ARGANTE.
 Comment diantre !Qu'il se promène ; il n'aura rien du tout.
 
-    SCAPIN
+    SCAPIN.
 Monsieur.
 
-    ARGANTE
+    ARGANTE.
 Non, c'est un Impertinent.
 
-    SCAPIN
+    SCAPIN.
 Voulez-vous que son Valet aille à pied ?
 
-    ARGANTE
+    ARGANTE.
 Qu'il aille comme il lui plaira, et le Maître aussi.
 
-    SCAPIN
+    SCAPIN.
 Mon Dieu, Monsieur, ne vous arrêtez point à peu de chose.N'allez point plaider, je vous prie, et donnez tout pour vous sauver des mains de la Justice.
 
-    ARGANTE
+    ARGANTE.
 Hé bien soit, je me résous à donner encore ces trente Pistoles.
 
-    SCAPIN
+    SCAPIN.
 *Il me faut encore*, a-t-il dit, *un Mulet pour porter*...
 
-    ARGANTE
+    ARGANTE.
 Oh qu'il aille au diable avec son Mulet ; c'en est trop, et nous irons devant les Juges.
 
-    SCAPIN
+    SCAPIN.
 De grâce, Monsieur…
 
-    ARGANTE
+    ARGANTE.
 Non, je n'en ferai rien.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, un petit Mulet.
 
-    ARGANTE
+    ARGANTE.
 Je ne lui donnerais pas seulement un Âne.
 
-    SCAPIN
+    SCAPIN.
 Considérez…
 
-    ARGANTE
+    ARGANTE.
 Non, j'aime mieux plaider.
 
-    SCAPIN
+    SCAPIN.
 Eh, Monsieur, de quoi parlez-vous là, et à quoi vous résolvez-vous ?Jetez les yeux sur les détours de la Justice. Voyez combien d'appels et de degrés de Jurisdiction ; combien de Procédures embarrassantes ; combien d'Animaux ravissants par les griffes desquels il vous faudra passer, Sergents, Procureurs, Avocats, Greffiers, Substituts, Rapporteurs, Juges, et leurs Clercs.Il n'y pas un de tous ces Gens-là, qui pour la moindre chose, ne soit capable de donner un soufflet au meilleur droit du monde. Un Sergent baillera de faux Exploits, sur quoi vous serez condamné sans que vous le sachiez.Votre Procureur s'entendra avec votre Partie et vous vendra à beaux deniers comptants.Votre Avocat gagné de même, ne se trouvera point lorsqu'on plaidera votre Cause, ou dira des raisons qui ne feront que battre la campagne, et n'iront point au fait.Le Greffier délivrera par contumace des Sentences et Arrêts contre vous. Le Clerc du Rapporteur soustraira des Pièces, ou le Rapporteur même ne dira pas ce qu'il a vu.Et quand par les plus grandes précautions du monde vous aurez paré tout cela, vous serez ébahi que vos Juges auront été sollicités contre vous, ou par des Gens dévots, ou par des Femmes qu'ils aimeront.Eh, Monsieur, si vous le pouvez, sauvez-vous de cet Enfer-là.C'est être damné dès ce Monde, que d'avoir à plaider ; et la seule pensée d'un Procès serait capable de me faire fuir jusqu'aux Indes.
 
-    ARGANTE
+    ARGANTE.
 À combien est-ce qu'il fait monter le mulet ?
 
-    SCAPIN
+    SCAPIN.
 Monsieur, pour le Mulet, pour son Cheval, et celui de son Homme, pour le Harnais et les Pistolets, et pour payer quelque petite chose qu'il doit à son Hôtesse, il demande en tout deux cents Pistoles.
 
-    ARGANTE
+    ARGANTE.
 Deux cents Pistoles ?
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    ARGANTE, *se promenant en colère le long du théâtre*
+    ARGANTE, *se promenant en colère le long du théâtre*.
 Allons, allons, nous plaiderons.
 
-    SCAPIN
+    SCAPIN.
 Faites réflexion…
 
-    ARGANTE
+    ARGANTE.
 Je plaiderai.
 
-    SCAPIN
+    SCAPIN.
 Ne vous allez point jeter…
 
-    ARGANTE
+    ARGANTE.
 Je veux plaider.
 
-    SCAPIN
+    SCAPIN.
 Mais pour plaider, il vous faudra de l'argent. Il vous en faudra pour l'exploit ; il vous en faudra pour le Contrôle.Il vous en faudra pour la Procuration, pour la Présentation, Conseils, Productions, et Journées du Procureur.Il vous en faudra pour les Consultations et Plaidoiries des Avocats ; pour le droit de retirer le Sac, et pour les Grosses d'Écritures.Il vous en faudra pour le Rapport des Substituts ; pour les Épices de Conclusion ; pour l'Enregistrement du Greffier, façon d'Appointement, Sentences et Arrêts, Contrôles, Signatures, et Expéditions de leurs Clercs, sans parler de tous les Présents qu'il vous faudra faire.Donnez cet argent-là à cet Homme-ci, vous voilà hors d'affaire.
 
-    ARGANTE
+    ARGANTE.
 Comment, deux cents pistoles ?
 
-    SCAPIN
+    SCAPIN.
 Oui, vous y gagnerez. J'ai fait un petit calcul en moi-même de tous les frais de la Justice ; et j'ai trouvé qu'en donnant deux cents Pistoles à votre Homme, vous en aurez de reste pour le moins cent cinquante, sans compter les soins, les pas, et les chagrins que vous épargnerez.Quand il n'y aurait à essuyer que les sottises que disent devant tout le Monde de méchants plaisants d'Avocats, j'aimerais mieux donner trois cents Pistoles, que de plaider.
 
-    ARGANTE
+    ARGANTE.
 Je me moque de cela, et je défie les Avocats de rien dire de moi.
 
-    SCAPIN
+    SCAPIN.
 Vous ferez ce qu'il vous plaira ; mais si j'étais que de vous, je fuirais les Procès.
 
-    ARGANTE
+    ARGANTE.
 Je ne donnerai point deux cents Pistoles.
 
-    SCAPIN
+    SCAPIN.
 Voici l'Homme dont il s'agit.
 
 
-## Scène VI
+## Scène VI.
 Silvestre, Argante, Scapin
 
 
-    SILVESTRE
+    SILVESTRE.
 Scapin, fais-moi connaître un peu cet Argante, qui est Père d'Octave.
 
-    SCAPIN
+    SCAPIN.
 Pourquoi, Monsieur ?
 
-    SILVESTRE
+    SILVESTRE.
 Je viens d'apprendre qu'il veut me mettre en Procès, et faire rompre par Justice le Mariage de ma Sœur.
 
-    SCAPIN
+    SCAPIN.
 Je ne sais pas s'il a cette pensée ; mais il ne veut point consentir aux deux cents Pistoles que vous voulez, et il dit que c'est trop.
 
-    SILVESTRE
+    SILVESTRE.
 Par la mort, Par la tête, Par le ventre, si je le trouve, je le veux échiner, dussé-je être roué tout vif.
 Argante, pour n'être point vu, se tient en tremblant, couvert de Scapin.
 
 
-    SCAPIN
+    SCAPIN.
 Monsieur, ce Père d'Octave a du cœur, et peut-être ne vous craindra-t-il point.
 
-    SILVESTRE
+    SILVESTRE.
 Lui ?Lui ?Par le sang, Par la tête, s'il était là, je lui donnerais tout à l'heure de l'épée dans le ventre.Qui est cet Homme-là ?
 
-    SCAPIN
+    SCAPIN.
 Ce n'est pas lui, Monsieur, ce n'est pas lui.
 
-    SILVESTRE
+    SILVESTRE.
 N'est-ce point quelqu'un de ses Amis ?
 
-    SCAPIN
+    SCAPIN.
 Non, Monsieur, au contraire, c'est son Ennemi capital.
 
-    SILVESTRE
+    SILVESTRE.
 Son Ennemi capital ?
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    SILVESTRE
+    SILVESTRE.
 Ah, parbleu, j'en suis ravi.Vous êtes Ennemi, Monsieur, de ce faquin d'Argante ; Eh ?
 
-    SCAPIN
+    SCAPIN.
 Oui, oui, je vous en réponds.
 
-    SILVESTRE, *lui prend rudement la main*
+    SILVESTRE, *lui prend rudement la main*.
 Touchez là. Touchez.Je vous donne ma parole, et vous jure sur mon honneur, par l'épée que je porte, par tous les serments que je saurais faire, qu'avant la fin du jour je vous déferai de ce Maraud fieffé, de ce faquin d'Argante.Reposez-vous sur moi.
 
-    SCAPIN
+    SCAPIN.
 Monsieur, les violences en ce Pays-ci ne sont guère souffertes.
 
-    SILVESTRE
+    SILVESTRE.
 Je me moque de tout, et je n'ai rien à perdre.
 
-    SCAPIN
+    SCAPIN.
 Il se tiendra sur ses gardes assurément ; et il a des Parents, des Amis, et des Domestiques, dont il se fera un secours contre votre ressentiment.
 
-    SILVESTRE
+    SILVESTRE.
 C'est ce que je demande, morbleu, c'est ce que je demande.
 Il met l'épée à la main, et pousse de tous les côtés, comme s'il y avait plusieurs Personnes devant lui.
 
 Ah tête ! ah ventre !Que ne le trouvé-je à cette heure avec tout son secours !Que ne paraît-il à mes yeux au milieu de trente Personnes !Que ne les vois-je fondre sur moi les armes à la main !Comment, Marauds, vous avez la hardiesse de vous attaquer à moi ?Allons, morbleu, tue, point de quartier.Donnons.Ferme.Poussons.Bon pied, bon œil.Ah Coquins, ah Canaille, vous en voulez par là ; je vous en ferai tâter votre soûl.Soutenez, Marauds, soutenez.Allons.À cette botte.À cette autre.À celle-ci.À celle-là.Comment, vous reculez ?Pied ferme, morbleu, pied ferme.
 
-    SCAPIN
+    SCAPIN.
 Eh, eh, eh, Monsieur, nous n'en sommes pas.
 
-    SILVESTRE
+    SILVESTRE.
 Voilà qui vous apprendra à vous oser jouer de moi.
 
-    SCAPIN
+    SCAPIN.
 Hé bien, vous voyez combien de Personnes tuées pour deux cents Pistoles.Oh sus, je vous souhaite une bonne fortune.
 
-    ARGANTE, *tout tremblant*
+    ARGANTE, *tout tremblant*.
 Scapin.
 
-    SCAPIN
+    SCAPIN.
 Plaît-il ?
 
-    ARGANTE
+    ARGANTE.
 Je me résous à donner les deux cents Pistoles.
 
-    SCAPIN
+    SCAPIN.
 J'en suis ravi, pour l'amour de vous.
 
-    ARGANTE
+    ARGANTE.
 Allons le trouver, je les ai sur moi.
 
-    SCAPIN
+    SCAPIN.
 Vous n'avez qu'à me les donner.Il ne faut pas pour votre honneur, que vous paraissiez là, après avoir passé ici pour autre que ce que vous êtes ; et de plus, je craindrais qu'en vous faisant connaître, il n'allât s'aviser de vous demander davantage.
 
-    ARGANTE
+    ARGANTE.
 Oui ; mais j'aurais été bien aise de voir comme je donne mon argent.
 
-    SCAPIN
+    SCAPIN.
 Est-ce que vous vous défiez de moi ?
 
-    ARGANTE
+    ARGANTE.
 Non pas, mais…
 
-    SCAPIN
+    SCAPIN.
 Parbleu, Monsieur, je suis un Fourbe, ou je suis honnête Homme ; c'est l'un des deux.Est-ce que je voudrais vous tromper, et que dans tout ceci j'ai d'autre intérêt que le vôtre, et celui de mon Maître, à qui vous voulez vous allier ?Si je vous suis suspect, je ne me mêle plus de rien, et vous n'avez qu'à chercher dès cette heure qui accommodera vos affaires.
 
-    ARGANTE
+    ARGANTE.
 Tiens donc.
 
-    SCAPIN
+    SCAPIN.
 Non, Monsieur, ne me confiez point votre argent.Je serai bien aise que vous vous serviez de quelque autre.
 
-    ARGANTE
+    ARGANTE.
 Mon Dieu, tiens.
 
-    SCAPIN
+    SCAPIN.
 Non, vous dis-je, ne vous fiez point à moi.Que sait-on, si je ne veux point vous attraper votre argent ?
 
-    ARGANTE
+    ARGANTE.
 Tiens, te dis-je, ne me fais point contester davantage.Mais songe à bien prendre tes sûretés avec lui.
 
-    SCAPIN
+    SCAPIN.
 Laissez-moi faire, il n'a pas affaire à un Sot.
 
-    ARGANTE
+    ARGANTE.
 Je vais t'attendre chez moi.
 
-    SCAPIN
+    SCAPIN.
 Je ne manquerai pas d'y aller.Et un.Je n'ai qu'à chercher l'autre.Ah, ma foi, le voici.Il semble que le Ciel, l'un après l'autre, les amène dans mes filets.
 
 
-## Scène VII
+## Scène VII.
 Géronte, Scapin
 
 
-    SCAPIN
+    SCAPIN.
 Ô Ciel ! ô disgrâce imprévue ! ô misérable père !Pauvre Géronte, que feras-tu ?
 
-    GÉRONTE
+    GÉRONTE.
 Que dit-il là de moi, avec ce visage affligé ?
 
-    SCAPIN
+    SCAPIN.
 N'y a-t-il personne qui puisse me dire où est le seigneur Géronte ?
 
-    GÉRONTE
+    GÉRONTE.
 Qu'y a-t-il, Scapin ?
 
-    SCAPIN
+    SCAPIN.
 Où pourrai-je le rencontrer, pour lui dire cette infortune ?
 
-    GÉRONTE
+    GÉRONTE.
 Qu'est-ce que c'est donc ?
 
-    SCAPIN
+    SCAPIN.
 En vain je cours de tous côtés pour le pouvoir trouver.
 
-    GÉRONTE
+    GÉRONTE.
 Me voici.
 
-    SCAPIN
+    SCAPIN.
 Il faut qu'il soit caché en quelque endroit qu'on ne puisse point deviner.
 
-    GÉRONTE
+    GÉRONTE.
 Holà, es-tu aveugle, que tu ne me vois pas ?
 
-    SCAPIN
+    SCAPIN.
 Ah, Monsieur, il n'y a pas moyen de vous rencontrer.
 
-    GÉRONTE
+    GÉRONTE.
 Il y a une heure que je suis devant toi.Qu'est-ce que c'est donc qu'il y a ?
 
-    SCAPIN
+    SCAPIN.
 Monsieur…
 
-    GÉRONTE
+    GÉRONTE.
 Quoi ?
 
-    SCAPIN
+    SCAPIN.
 Monsieur, votre fils…
 
-    GÉRONTE
+    GÉRONTE.
 Hé bien mon fils…
 
-    SCAPIN
+    SCAPIN.
 Est tombé dans une disgrâce la plus étrange du Monde.
 
-    GÉRONTE
+    GÉRONTE.
 Et quelle ?
 
-    SCAPIN
+    SCAPIN.
 Je l'ai trouvé tantôt, tout triste, de je ne sais quoi que vous lui avez dit, où vous m'avez mêlé assez mal à propos ; et cherchant à divertir cette tristesse, nous nous sommes allés promener sur le Port.Là, entre autres plusieurs choses, nous avons arrêté nos yeux sur une Galère Turque assez bien équipée.Un jeune Turc de bonne mine, nous a invités d'y entrer, et nous a présenté la main.Nous y avons passé ; il nous a fait mille civilités, nous a donné la Collation, où nous avons mangé des Fruits les plus excellents qui se puissent voir, et bu du Vin que nous avons trouvé le meilleur du monde.
 
-    GÉRONTE
+    GÉRONTE.
 Qu'y a-t-il de si affligeant à tout cela ?
 
-    SCAPIN
+    SCAPIN.
 Attendez, Monsieur, nous y voici.Pendant que nous mangions, il a fait mettre la Galère en Mer, et, se voyant éloigné du Port, il m'a fait mettre dans un Esquif, et m'envoie vous dire que si vous ne lui envoyez par moi tout à l'heure cinq cents Écus, il va vous emmener votre Fils en Alger.
 
-    GÉRONTE
+    GÉRONTE.
 Comment, diantre, cinq cents Écus ?
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur ; et de plus, il ne m'a donné pour cela que deux heures.
 
-    GÉRONTE
+    GÉRONTE.
 Ah le pendard de Turc, m'assassiner de la façon !
 
-    SCAPIN
+    SCAPIN.
 C'est à vous, Monsieur, d'aviser promptement aux moyens de sauver des fers un Fils que vous aimez avec tant de tendresse.
 
-    GÉRONTE
+    GÉRONTE.
 Que diable allait-il faire dans cette Galère ?
 
-    SCAPIN
+    SCAPIN.
 Il ne songeait pas à ce qui est arrivé.
 
-    GÉRONTE
+    GÉRONTE.
 Va-t'en, Scapin, va-t'en vite dire à ce Turc que je vais envoyer la Justice après lui.
 
-    SCAPIN
+    SCAPIN.
 La Justice en pleine Mer !Vous moquez-vous des Gens ?
 
-    GÉRONTE
+    GÉRONTE.
 Que diable allait-il faire dans cette Galère ?
 
-    SCAPIN
+    SCAPIN.
 Une méchante destinée conduit quelquefois les Personnes.
 
-    GÉRONTE
+    GÉRONTE.
 Il faut, Scapin, il faut que tu fasses ici, l'action d'un serviteur fidèle.
 
-    SCAPIN
+    SCAPIN.
 Quoi, Monsieur ?
 
-    GÉRONTE
+    GÉRONTE.
 Que tu ailles dire à ce Turc, qu'il me renvoie mon Fils, et que tu te mets à sa place, jusqu'à ce que j'aie amassé la somme qu'il demande.
 
-    SCAPIN
+    SCAPIN.
 Eh, Monsieur, songez-vous à ce que vous dites ? et vous figurez-vous que ce Turc ait si peu de sens, que d'aller recevoir un misérable comme moi, à la place de votre Fils ?
 
-    GÉRONTE
+    GÉRONTE.
 Que diable allait-il faire dans cette Galère ?
 
-    SCAPIN
+    SCAPIN.
 Il ne devinait pas ce malheur.Songez, Monsieur, qu'il ne m'a donné que deux heures.
 
-    GÉRONTE
+    GÉRONTE.
 Tu dis qu'il demande…
 
-    SCAPIN
+    SCAPIN.
 Cinq cents Écus.
 
-    GÉRONTE
+    GÉRONTE.
 Cinq cents Écus ! N'a-t-il point de conscience ?
 
-    SCAPIN
+    SCAPIN.
 Vraiment oui, de la conscience à un Turc.
 
-    GÉRONTE
+    GÉRONTE.
 Sait-il bien ce que c'est que cinq cents Écus ?
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur, il sait que c'est mille cinq cents livres.
 
-    GÉRONTE
+    GÉRONTE.
 Croit-il, le traître, que mille cinq cents livres se trouvent dans le pas d'un Cheval ?
 
-    SCAPIN
+    SCAPIN.
 Ce sont des Gens qui n'entendent point de raison.
 
-    GÉRONTE
+    GÉRONTE.
 Mais que diable allait-il faire à cette Galère ?
 
-    SCAPIN
+    SCAPIN.
 Il est vrai ; mais quoi ! on ne prévoyait pas les choses.De grâce, Monsieur, dépêchez.
 
-    GÉRONTE
+    GÉRONTE.
 Tiens, voilà la clef de mon Armoire.
 
-    SCAPIN
+    SCAPIN.
 Bon.
 
-    GÉRONTE
+    GÉRONTE.
 Tu l'ouvriras.
 
-    SCAPIN
+    SCAPIN.
 Fort bien.
 
-    GÉRONTE
+    GÉRONTE.
 Tu trouveras une grosse clef du côté gauche, qui est celle de mon Grenier.
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Tu iras prendre toutes les Hardes qui sont dans cette grande Manne, et tu les vendras aux Fripiers, pour aller racheter mon Fils.
 
-    SCAPIN, *en lui rendant la clef*
+    SCAPIN, *en lui rendant la clef*.
 Eh, Monsieur, rêvez-vous ?Je n'aurais pas cent francs de tout ce que vous dites ; et de plus, vous savez le peu de temps qu'on m'a donné.
 
-    GÉRONTE
+    GÉRONTE.
 Mais que diable allait-il faire à cette Galère ?
 
-    SCAPIN
+    SCAPIN.
 Oh que de paroles perdues !Laissez là cette Galère, et songez que le temps presse, et que vous courez risque de perdre votre Fils.Hélas ! mon pauvre Maître, peut-être que je ne te verrai de ma vie, et qu'à l'heure que je parle on t'emmène esclave en Alger.Mais le Ciel me sera témoin que j'ai fait pour toi tout ce que j'ai pu ; et que si tu manques à être racheté, il n'en faut accuser que le peu d'amitié d'un Père.
 
-    GÉRONTE
+    GÉRONTE.
 Attends, Scapin, je m'en vais quérir cette somme.
 
-    SCAPIN
+    SCAPIN.
 Dépêchez donc vite, Monsieur, je tremble que l'heure ne sonne.
 
-    GÉRONTE
+    GÉRONTE.
 N'est-ce pas quatre cents Écus que tu dis ?
 
-    SCAPIN
+    SCAPIN.
 Non : cinq cents Écus.
 
-    GÉRONTE
+    GÉRONTE.
 Cinq cents Écus ?
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Que diable allait-il faire à cette Galère ?
 
-    SCAPIN
+    SCAPIN.
 Vous avez raison, mais hâtez-vous.
 
-    GÉRONTE
+    GÉRONTE.
 N'y avait-il point d'autre promenade ?
 
-    SCAPIN
+    SCAPIN.
 Cela est vrai.Mais faites promptement.
 
-    GÉRONTE
+    GÉRONTE.
 Ah maudite Galère !
 
-    SCAPIN
+    SCAPIN.
 Cette Galère lui tient au cœur.
 
-    GÉRONTE
+    GÉRONTE.
 Tiens, Scapin, je ne me souvenais pas que je viens justement de recevoir cette somme en or, et je ne croyais pas qu'elle dût m'être si tôt ravie.
 Il lui présente sa bourse, qu'il ne laisse pourtant pas aller ; et dans ses transports il fait aller son bras de côté et d'autre, et Scapin le sien pour avoir la bourse.
 
 Tiens.Va-t'en racheter mon Fils.
 
-    SCAPIN
+    SCAPIN.
 Oui, Monsieur.
 
-    GÉRONTE
+    GÉRONTE.
 Mais dis à ce Turc que c'est un Scélérat.
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Un Infâme.
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Un Homme sans foi, un Voleur.
 
-    SCAPIN
+    SCAPIN.
 Laissez-moi faire.
 
-    GÉRONTE
+    GÉRONTE.
 Qu'il me tire cinq cents Écus contre toute sorte de droit.
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Que je ne les lui donne ni à la mort, ni à la vie.
 
-    SCAPIN
+    SCAPIN.
 Fort bien.
 
-    GÉRONTE
+    GÉRONTE.
 Et que si jamais je l'attrape, je saurai me venger de lui.
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE *remet la bourse dans sa poche, et s'en va*
+    GÉRONTE *remet la bourse dans sa poche, et s'en va*.
 Va, va, vite requérir mon Fils.
 
-    SCAPIN, *allant après lui*
+    SCAPIN, *allant après lui*.
 Holà, Monsieur.
 
-    GÉRONTE
+    GÉRONTE.
 Quoi ?
 
-    SCAPIN
+    SCAPIN.
 Où est donc cet argent ?
 
-    GÉRONTE
+    GÉRONTE.
 Ne te l'ai-je pas donné ?
 
-    SCAPIN
+    SCAPIN.
 Non vraiment, vous l'avez remis dans votre poche.
 
-    GÉRONTE
+    GÉRONTE.
 Ah, c'est la douleur qui me trouble l'esprit.
 
-    SCAPIN
+    SCAPIN.
 Je le vois bien.
 
-    GÉRONTE
+    GÉRONTE.
 Que diable allait-il faire dans cette Galère ?Ah maudite Galère !Traître de Turc à tous les Diables !
 
-    SCAPIN
+    SCAPIN.
 Il ne peut digérer les cinq cents Écus que je lui arrache ; mais il n'est pas quitte envers moi, et je veux qu'il me paye en une autre monnaie, l'imposture qu'il m'a faite auprès de son Fils.
 
 
-## Scène VIII
+## Scène VIII.
 Octave, Léandre, Scapin
 
 
-    OCTAVE
+    OCTAVE.
 Hé bien, Scapin, as-tu réussi pour moi dans ton entreprise ?
 
-    LÉANDRE
+    LÉANDRE.
 As-tu fait quelque chose pour tirer mon amour de la peine où il est ?
 
-    SCAPIN
+    SCAPIN.
 Voilà deux cents Pistoles que j'ai tirées de votre Père.
 
-    OCTAVE
+    OCTAVE.
 Ah que tu me donnes de joie !
 
-    SCAPIN
+    SCAPIN.
 Pour vous, je n'ai pu faire rien.
 
-    LÉANDRE *veut s'en aller*
+    LÉANDRE *veut s'en aller*.
 Il faut donc que j'aille mourir ; et je n'ai que faire de vivre si Zerbinette m'est ôtée.
 
-    SCAPIN
+    SCAPIN.
 Holà, holà, tout doucement.Comme diantre vous allez vite.
 
-    LÉANDRE *se retourne*
+    LÉANDRE *se retourne*.
 Que veux-tu que je devienne ?
 
-    SCAPIN
+    SCAPIN.
 Allez, j'ai votre affaire ici.
 
-    LÉANDRE *revient*
+    LÉANDRE *revient*.
 Ah tu me redonnes la vie.
 
-    SCAPIN
+    SCAPIN.
 Mais à condition que vous me permettrez à moi, une petite vengeance contre votre Père, pour le tour qu'il m'a fait.
 
-    LÉANDRE
+    LÉANDRE.
 Tout ce que tu voudras.
 
-    SCAPIN
+    SCAPIN.
 Vous me le promettez devant Témoin.
 
-    LÉANDRE
+    LÉANDRE.
 Oui.
 
-    SCAPIN
+    SCAPIN.
 Tenez, voilà cinq cents Écus.
 
-    LÉANDRE
+    LÉANDRE.
 Allons en promptement acheter celle que j'adore.
 
 <Fin du Second Acte.>
 
 
-# Acte III
+# Acte III.
 
 
-## Scène Première
+## Scène Première.
 Zerbinette, Hyacinte, Scapin, Silvestre
 
 
-    SILVESTRE
+    SILVESTRE.
 Oui, vos Amants ont arrêté entre eux que vous fussiez ensemble ; et nous nous acquittons de l'ordre qu'ils nous ont donné.
 
-    HYACINTHE
+    HYACINTHE.
 Un tel ordre n'a rien qui ne me soit fort agréable.Je reçois avec joie une Compagne de la sorte ; et il ne tiendra pas à moi, que l'amitié qui est entre les Personnes que nous aimons, ne se répande entre nous deux.
 
-    ZERBINETTE
+    ZERBINETTE.
 J'accepte la proposition, et ne suis point Personne à reculer, lorsqu'on m'attaque d'amitié.
 
-    SCAPIN
+    SCAPIN.
 Et lorsque c'est d'amour qu'on vous attaque ?
 
-    ZERBINETTE
+    ZERBINETTE.
 Pour l'amour, c'est une autre chose ; on y court un peu plus de risque, et je n'y suis pas si hardie.
 
-    SCAPIN
+    SCAPIN.
 Vous l'êtes, que je crois, contre mon Maître maintenant ; et ce qu'il vient de faire pour vous, doit vous donner du cœur pour répondre comme il faut à sa passion.
 
-    ZERBINETTE
+    ZERBINETTE.
 Je ne m'y fie encore que de la bonne sorte ; et ce n'est pas assez pour m'assurer entièrement, que ce qu'il vient de faire.J'ai l'humeur enjouée, et sans cesse je ris ; mais tout en riant, je suis sérieuse sur de certains chapitres ; et ton Maître s'abusera, s'il croit qu'il lui suffise de m'avoir achetée pour me voir toute à lui.Il doit lui en coûter autre chose que de l'argent ; et pour répondre à son amour de la manière qu'il souhaite, il me faut un don de sa foi qui soit assaisonné de certaines cérémonies qu'on trouve nécessaires.
 
-    SCAPIN
+    SCAPIN.
 C'est là aussi comme il l'entend.Il ne prétend à vous qu'en tout bien et en tout honneur ; et je n'aurais pas été Homme à me mêler de cette affaire, s'il avait une autre pensée.
 
-    ZERBINETTE
+    ZERBINETTE.
 C'est ce que je veux croire, puisque vous me le dites ; mais du côté du Père, j'y prévois des empêchements.
 
-    SCAPIN
+    SCAPIN.
 Nous trouverons moyen d'accommoder les choses.
 
-    HYACINTHE
+    HYACINTHE.
 La ressemblance de nos destins, doit contribuer encore à faire naître notre amitié ; et nous nous voyons toutes deux dans les mêmes alarmes, toutes deux exposées à la même infortune.
 
-    ZERBINETTE
+    ZERBINETTE.
 Vous avez cet avantage, au moins, que vous savez de qui vous êtes née ; et que l'appui de vos Parents que vous pouvez faire connaître, est capable d'ajuster tout, peut assurer votre bonheur, et faire donner un consentement au Mariage qu'on trouve fait.Mais pour moi je ne rencontre aucun secours dans ce que je puis être, et l'on me voit dans un état qui n'adoucira pas les volontés d'un Père qui ne regarde que le bien.
 
-    HYACINTHE
+    HYACINTHE.
 Mais aussi avez-vous cet avantage, que l'on ne tente point par un autre Parti, celui que vous aimez.
 
-    ZERBINETTE
+    ZERBINETTE.
 Le changement du cœur d'un Amant, n'est pas ce qu'on peut le plus craindre.On se peut naturellement croire assez de mérite pour garder sa conquête ; et ce que je vois de plus redoutable dans ces sortes d'affaires, c'est la puissance Paternelle, auprès de qui tout le mérite ne sert de rien.
 
-    HYACINTHE
+    HYACINTHE.
 Hélas ! pourquoi faut-il que de justes inclinations se trouvent traversées ?La douce chose que d'aimer, lorsque l'on ne voit point d'obstacle à ces aimables chaînes dont deux cœurs se lient ensemble !
 
-    SCAPIN
+    SCAPIN.
 Vous vous moquez ; la tranquillité en amour est un calme désagréable. Un bonheur tout uni, nous devient ennuyeux ; il faut du haut et du bas dans la vie ; et les difficultés qui se mêlent aux choses, réveillent les ardeurs, augmentent les plaisirs.
 
-    ZERBINETTE
+    ZERBINETTE.
 Mon Dieu, Scapin, fais-nous un peu ce récit, qu'on m'a dit qui est si plaisant, du stratagème dont tu t'es avisé, pour tirer de l'argent de ton Vieillard avare.Tu sais qu'on ne perd point sa peine, lorsqu'on me fait un conte, et que je le paye assez bien, par la joie qu'on m'y voit prendre.
 
-    SCAPIN
+    SCAPIN.
 Voilà Silvestre qui s'en acquittera aussi bien que moi.J'ai dans la tête certaine petite vengeance dont je vais goûter le plaisir.
 
-    SILVESTRE
+    SILVESTRE.
 Pourquoi, de gaieté de cœur, veux-tu chercher à t'attirer de méchantes affaires ?
 
-    SCAPIN
+    SCAPIN.
 Je me plais à tenter des entreprises hasardeuses.
 
-    SILVESTRE
+    SILVESTRE.
 Je te l'ai déjà dit, tu quitterais le dessein que tu as, si tu m'en voulais croire.
 
-    SCAPIN
+    SCAPIN.
 Oui, mais c'est moi que j'en croirai.
 
-    SILVESTRE
+    SILVESTRE.
 À quoi diable te vas-tu amuser ?
 
-    SCAPIN
+    SCAPIN.
 De quoi diable te mets-tu en peine ?
 
-    SILVESTRE
+    SILVESTRE.
 C'est que je vois que sans nécessité tu vas courir risque de t'attirer une venue de coups de bâton.
 
-    SCAPIN
+    SCAPIN.
 Hé bien, c'est aux dépens de mon dos, et non pas du tien.
 
-    SILVESTRE
+    SILVESTRE.
 Il est vrai que tu es maître de tes épaules, et tu en disposeras comme il te plaira.
 
-    SCAPIN
+    SCAPIN.
 Ces sortes de périls ne m'ont jamais arrêté, et je hais ces cœurs pusillanimes, qui pour trop prévoir les suites des choses, n'osent rien entreprendre.
 
-    ZERBINETTE
+    ZERBINETTE.
 Nous aurons besoin de tes soins.
 
-    SCAPIN
+    SCAPIN.
 Allez, je vous irai bientôt rejoindre.Il ne sera pas dit qu'impunément on m'ait mis en état de me trahir moi-même, et de découvrir des secrets qu'il était bon qu'on ne sût pas.
 
 
-## Scène II
+## Scène II.
 Géronte, Scapin
 
 
-    GÉRONTE
+    GÉRONTE.
 Hé bien, Scapin, comment va l'affaire de mon Fils ?
 
-    SCAPIN
+    SCAPIN.
 Votre Fils, Monsieur, est en lieu de sûreté ; mais vous courez maintenant, vous, le péril le plus grand du monde, et je voudrais pour beaucoup, que vous fussiez dans votre Logis.
 
-    GÉRONTE
+    GÉRONTE.
 Comment donc ?
 
-    SCAPIN
+    SCAPIN.
 À l'heure que je parle, on vous cherche de toutes parts pour vous tuer.
 
-    GÉRONTE
+    GÉRONTE.
 Moi ?
 
-    SCAPIN
+    SCAPIN.
 Oui.
 
-    GÉRONTE
+    GÉRONTE.
 Et qui ?
 
-    SCAPIN
+    SCAPIN.
 Le Frère de cette Personne qu'Octave a épousée.Il croit que le dessein que vous avez de mettre votre Fille à la place que tient sa Sœur, est ce qui pousse le plus fort à faire rompre leur Mariage ; et dans cette pensée il a résolu hautement de décharger son désespoir sur vous, et vous ôter la vie pour venger son honneur.Tous ses Amis, Gens d'épée comme lui, vous cherchent de tous les côtés, et demandent de vos nouvelles.J'ai vu même deçà et delà, des Soldats de sa Compagnie qui interrogent ceux qu'ils trouvent, et occupent par pelotons toutes les avenues de votre Maison.De sorte que vous ne sauriez aller chez vous ; vous ne sauriez faire un pas ni à droit, ni à gauche, que vous ne tombiez dans leurs mains.
 
-    GÉRONTE
+    GÉRONTE.
 Que ferai-je, mon pauvre Scapin ?
 
-    SCAPIN
+    SCAPIN.
 Je ne sais pas, Monsieur, et voici une étrange affaire.Je tremble pour vous depuis les pieds jusqu'à la tête, et…Attendez.
 Il se retourne, et fait semblant d'aller voir au bout du Théâtre s'il n'y a personne.
 
 
-    GÉRONTE, *en tremblant*
+    GÉRONTE, *en tremblant*.
 Eh ?
 
-    SCAPIN, *en revenant*
+    SCAPIN, *en revenant*.
 Non, non, non, ce n'est rien.
 
-    GÉRONTE
+    GÉRONTE.
 Ne saurais-tu trouver quelque moyen, pour me tirer de peine ?
 
-    SCAPIN
+    SCAPIN.
 J'en imagine bien un ; mais je courrais risque moi, de me faire assommer.
 
-    GÉRONTE
+    GÉRONTE.
 Eh, Scapin, montre-toi Serviteur zélé.Ne m'abandonne pas, je te prie.
 
-    SCAPIN
+    SCAPIN.
 Je le veux bien.J'ai une tendresse pour vous qui ne saurait souffrir que je vous laisse sans secours.
 
-    GÉRONTE
+    GÉRONTE.
 Tu en seras récompensé, je t'assure ; et je te promets cet Habit-ci, quand je l'aurai un peu usé.
 
-    SCAPIN
+    SCAPIN.
 Attendez.Voici une affaire que je me suis trouvée fort à propos pour vous sauver.Il faut que vous vous mettiez dans ce Sac et que…
 
-    GÉRONTE, *croyant voir quelqu'un*
+    GÉRONTE, *croyant voir quelqu'un*.
 Ah !
 
-    SCAPIN
+    SCAPIN.
 Non, non, non, non, ce n'est personne.Il faut, dis-je, que vous vous mettiez là dedans, et que vous gardiez de remuer en aucune façon.Je vous chargerai sur mon dos, comme un paquet de quelque chose, et je vous porterai ainsi au travers de vos Ennemis, jusque dans votre Maison, où quand nous serons une fois, nous pourrons nous barricader, et envoyer querir main-forte contre la violence.
 
-    GÉRONTE
+    GÉRONTE.
 L'invention est bonne.
 
-    SCAPIN
+    SCAPIN.
 La meilleure du Monde.Vous allez voir.
 À part.
 
 Tu me payeras l'imposture.
 
-    GÉRONTE
+    GÉRONTE.
 Eh ?
 
-    SCAPIN
+    SCAPIN.
 Je dis que vos Ennemis seront bien attrapés.Mettez-vous bien jusqu'au fond, et surtout prenez garde de ne vous point montrer, et de ne branler pas, quelque chose qui puisse arriver.
 
-    GÉRONTE
+    GÉRONTE.
 Laisse-moi faire.Je saurai me tenir…
 
-    SCAPIN
+    SCAPIN.
 Cachez-vous.Voici un Spadassin qui vous cherche.
 En contrefaisant sa voix.
 
@@ -2079,43 +2079,43 @@ Tiens. Boilà cé que jé té vaille pour lui.Ah, ah, ah !Ah, Monsieur !Ah, ah
 En se plaignant et remuant le dos, comme s'il avait reçu les coups de bâton.
 
 
-    GÉRONTE, *mettant la tête hors du sac*
+    GÉRONTE, *mettant la tête hors du sac*.
 Ah, Scapin, je n'en puis plus.
 
-    SCAPIN
+    SCAPIN.
 Ah, Monsieur, je suis tout moulu, et les épaules me font un mal épouvantable.
 
-    GÉRONTE
+    GÉRONTE.
 Comment, c'est sur les miennes qu'il a frappé.
 
-    SCAPIN
+    SCAPIN.
 Nenni, Monsieur, c'était sur mon dos qu'il frappait.
 
-    GÉRONTE
+    GÉRONTE.
 Que veux-tu dire ?J'ai bien senti les coups, et les sens bien encore.
 
-    SCAPIN
+    SCAPIN.
 Non, vous dis-je, ce n'est que le bout du bâton qui a été jusque sur vos épaules.
 
-    GÉRONTE
+    GÉRONTE.
 Tu devais donc te retirer un peu plus loin, pour m'épargner…
 
-    SCAPIN *lui remet la tête dans le sac*
+    SCAPIN *lui remet la tête dans le sac*.
 Prenez garde.En voici un autre qui a la mine d'un Étranger.
 Cet endroit est de même celui du Gascon, pour le changement de langage, et le jeu de Théâtre.
 
 Parti ! Moi courir comme une Basque, et moi ne pouvre point troufair de tout le jour sti tiable de Gironte ?Cachez-vous bien.Dites-moi un peu fous, Monsir l'Homme, s'il ve plaist, fous savoir point où l'est sti Gironte que moi cherchair ?Non, Monsieur, je ne sais point où est Géronte.Dites-moi-le vous frenchemente, moi li fouloir pas grande chose à lui.L'est seulemente pour li donnair un petite régale sur le dos d'un douzaine de coups de bastonne, et de trois ou quatre petites coups d'épée au trafers de son poitrine.Je vous assure, Monsieur, que je ne sais pas où il est.Il me semble que j'y foi remuair quelque chose dans sti sac.Pardonnez-moi, Monsieur.Li est assurémente quelque histoire là tetans.Point du tout, Monsieur.Moi l'avoir enfie de tonner ain coup d'épée dans ste Sac.Ah !Monsieur, gardez-vous-en bien.Montre-le-moi un peu fous ce que c'estre là.Tout beau, Monsieur.Quement, tout beau.Vous n'avez que faire de vouloir voir ce que je porte.Et moi je le fouloir foir, moi.Vous ne le verrez point.Ahi que de badinemente.Ce sont hardes qui m'appartiennent.Montre-moi fous, te dis-je.Je n'en ferai rien.Toi ne faire rien ?Non.Moi pailler de ste bastonne dessus les épaules de toi.Je me moque de cela.Ah toi faire le trole.Ahi, ahi, ahi ; Ah, Monsieur, ah, ah, ah, ah.Jusqu'au refoir : l'estre là un petit leçon pour li apprendre à toi à parlair insolentemente !Ah ! peste soit du Baragouineux.Ah !
 
-    GÉRONTE, *sortant sa tête du sac*
+    GÉRONTE, *sortant sa tête du sac*.
 Ah ! je suis roué.
 
-    SCAPIN
+    SCAPIN.
 Ah ! je suis mort.
 
-    GÉRONTE
+    GÉRONTE.
 Pourquoi diantre faut-il qu'ils frappent sur mon dos ?
 
-    SCAPIN, *lui remettant la tête dans le sac*
+    SCAPIN, *lui remettant la tête dans le sac*.
 Prenez garde, voici une demi-douzaine de Soldats tout ensemble.
 Il contrefait plusieurs personnes ensemble.
 
@@ -2126,425 +2126,425 @@ Si tu ne nous fais trouver ton maître tout à l'heure, nous allons faire pleuvo
 Comme il est prêt de frapper, Géronte sort du sac, et Scapin s'enfuit
 
 
-    GÉRONTE
+    GÉRONTE.
 Ah infâme ! ah traître ! ah scélérat !C'est ainsi que tu m'assassines.
 
 
-## Scène III
+## Scène III.
 Zerbinette, Géronte
 
 
-    ZERBINETTE
+    ZERBINETTE.
 Ah, ah, je veux prendre un peu l'air.
 
-    GÉRONTE
+    GÉRONTE.
 Tu me le payeras, je te jure.
 
-    ZERBINETTE
+    ZERBINETTE.
 Ah, ah, ah, ah ; la plaisante histoire, et la bonne dupe que ce Vieillard !
 
-    GÉRONTE
+    GÉRONTE.
 Il n'y a rien de plaisant à cela, et vous n'avez que faire d'en rire.
 
-    ZERBINETTE
+    ZERBINETTE.
 Quoi ? que voulez-vous dire, Monsieur ?
 
-    GÉRONTE
+    GÉRONTE.
 Je veux dire que vous ne devez pas vous moquer de moi.
 
-    ZERBINETTE
+    ZERBINETTE.
 De vous ?
 
-    GÉRONTE
+    GÉRONTE.
 Oui.
 
-    ZERBINETTE
+    ZERBINETTE.
 Comment ? qui songe à se moquer de vous ?
 
-    GÉRONTE
+    GÉRONTE.
 Pourquoi venez-vous ici me rire au nez ?
 
-    ZERBINETTE
+    ZERBINETTE.
 Cela ne vous regarde point, et je ris toute seule d'un conte qu'on vient de me faire, le plus plaisant qu'on puisse entendre.Je ne sais pas si c'est parce que je suis intéressée dans la chose ; mais je n'ai jamais trouvé rien de si drôle qu'un tour qui vient d'être joué par un Fils à son Père, pour en attraper de l'argent.
 
-    GÉRONTE
+    GÉRONTE.
 Par un Fils à son Père, pour en attraper de l'argent ?
 
-    ZERBINETTE
+    ZERBINETTE.
 Oui.Pour peu que vous me pressiez, vous me trouverez assez disposée à vous dire l'affaire, et j'ai une démangeaison naturelle à faire part des contes que je sais.
 
-    GÉRONTE
+    GÉRONTE.
 Je vous prie de me dire cette histoire.
 
-    ZERBINETTE
+    ZERBINETTE.
 Je le veux bien.Je ne risquerai pas grand'chose à vous la dire, et c'est une aventure qui n'est pas pour être longtemps secrète.La Destinée a voulu que je me trouvasse parmi une Bande de ces Personnes, qu'on appelle Égyptiens, et qui rôdant de Province en Province, se mêlent de dire la bonne fortune, et quelquefois de beaucoup d'autres choses.En arrivant dans cette Ville, un jeune Homme me vit, et conçut pour moi de l'Amour.Dès ce moment il s'attache à mes pas, et le voilà d'abord, comme tous les jeunes Gens, qui croient qu'il n'y a qu'à parler, et qu'au moindre mot qu'ils nous disent, leurs affaires sont faites : mais il trouva une fierté qui lui fit un peu corriger ses premières pensées.Il fit connaître sa passion aux Gens qui me tenaient, et il les trouva disposés à me laisser à lui, moyennant quelque somme.Mais le mal de l'affaire était, que mon amant se trouvait dans l'état où l'on voit très souvent la plupart des Fils de Famille, c'est-à-dire qu'il était un peu dénué d'argent ; et il a un père, qui, quoique riche, est un avaricieux fieffé, le plus vilain Homme du Monde. Attendez.Ne me saurais-je souvenir de son nom ?Haye.Aidez-moi un peu.Ne pouvez-vous me nommer quelqu'un de cette Ville qui soit connu pour être avare au dernier point ?
 
-    GÉRONTE
+    GÉRONTE.
 Non.
 
-    ZERBINETTE
+    ZERBINETTE.
 Il y a à son nom du ron… ronte.Or… Oronte.Non.Gé… Géronte ; oui Géronte justement ; voilà mon vilain, je l'ai trouvé, c'est ce ladre-là que je dis.Pour venir à notre conte, nos Gens ont voulu aujourd'hui partir de cette Ville ; et mon Amant m'allait perdre faute d'argent, si pour en tirer de son Père, il n'avait trouvé du secours dans l'industrie d'un Serviteur qu'il a.Pour le nom du Serviteur, je le sais à merveille.Il s'appelle Scapin ; c'est un Homme incomparable, et il mérite toutes les louanges qu'on peut donner.
 
-    GÉRONTE
+    GÉRONTE.
 Ah coquin que tu es !
 
-    ZERBINETTE
+    ZERBINETTE.
 Voici le stratagème dont il s'est servi pour attraper sa dupe.Ah, ah, ah, ah.Je ne saurais m'en souvenir, que je ne rie de tout mon cœur.Ah, ah, ah.Il est allé trouver ce chien d'avare, Ah, ah ah ; et lui a dit, qu'en se promenant sur le Port avec son Fils, hi, hi, ils avaient vu une Galère Turque où on les avait invités d'entrer.Qu'un jeune Turc leur y avait donné la Collation.Ah.Que, tandis qu'ils mangeaient, on avait mis la Galère en Mer ; et que le Turc l'avait renvoyé lui seul à terre dans un Esquif, avec ordre de dire au Père de son Maître qu'il emmenait son fils en Alger, s'il ne lui envoyait tout à l'heure cinq cents Écus.Ah, ah, ah.Voilà mon ladre, mon vilain dans de furieuses angoisses ; et la tendresse qu'il a pour son Fils, fait un combat étrange avec son avarice.Cinq cents Écus qu'on lui demande, sont justement cinq cents coups de poignard qu'on lui donne.Ah, ah, ah.Il ne peut se résoudre à tirer cette somme de ses entrailles ; et la peine qu'il souffre, lui fait trouver cent moyens ridicules pour ravoir son Fils.Ah, ah, ah.Il veut envoyer la Justice en Mer après la Galère du Turc.Ah, ah, ah.Il sollicite son Valet de s'aller offrir à tenir la place de son Fils, jusqu'à ce qu'il ait amassé l'argent qu'il n'a pas envie de donner.Ah, ah, ah.Il abandonne, pour faire les cinq cents Écus, quatre ou cinq vieux Habits qui n'en valent pas trente.Ah, ah, ah.Le Valet lui fait comprendre à tous coups l'impertinence de ses propositions, et chaque réflexion est douloureusement accompagnée d'un : Mais que diable allait-il faire à cette Galère ?Ah maudite Galère !Traître de Turc !Enfin après plusieurs détours, après avoir longtemps gémi et soupiré…Mais il me semble que vous ne riez point de mon conte.Qu'en dites-vous ?
 
-    GÉRONTE
+    GÉRONTE.
 Je dis que le jeune Homme est un pendard, un insolent, qui sera puni par son Père, du tour qu'il lui a fait ; que l'Égyptienne est une malavisée, une impertinente, de dire des injures à un Fomme d'honneur, qui saura lui apprendre à venir ici débaucher les enfants de Famille ; Et que le Valet est un scélérat, qui sera par Géronte envoyé au gibet avant qu'il soit demain.
 
 
-## Scène IV
+## Scène IV.
 Silvestre, Zerbinette
 
 
-    SILVESTRE
+    SILVESTRE.
 Où est-ce donc que vous vous échappez ?Savez-vous bien que vous venez de parler là au Père de votre Amant ?
 
-    ZERBINETTE
+    ZERBINETTE.
 Je viens de m'en douter, et je me suis adressée à lui-même sans y penser, pour lui conter son histoire.
 
-    SILVESTRE
+    SILVESTRE.
 Comment, son histoire ?
 
-    ZERBINETTE
+    ZERBINETTE.
 Oui, j'étais toute remplie du conte, et je brûlais de le redire.Mais qu'importe ? tant pis pour lui.Je ne vois pas que les choses pour nous en puissent être ni pis, ni mieux.
 
-    SILVESTRE
+    SILVESTRE.
 Vous aviez grande envie de babiller ; et c'est avoir bien de la langue, que de ne pouvoir se taire de ses propres affaires.
 
-    ZERBINETTE
+    ZERBINETTE.
 N'aurait-il pas appris cela de quelque autre ?
 
 
-## Scène V
+## Scène V.
 Argante, Silvestre
 
 
-    ARGANTE
+    ARGANTE.
 Holà, Silvestre.
 
-    SILVESTRE*, à Zerbinette.*
+    SILVESTRE*, à Zerbinette.*.
 Rentrez dans la maison.Voilà mon Maître qui m'appelle.
 
-    ARGANTE
+    ARGANTE.
 Vous vous êtes donc accordés, Coquin ; vous vous êtes accordés, Scapin, vous, et mon Fils, pour me fourber, et vous croyez que je l'endure ?
 
-    SILVESTRE
+    SILVESTRE.
 Ma foi, Monsieur, si Scapin vous fourbe, je m'en lave les mains, et vous assure que je n'y trempe en aucune façon.
 
-    ARGANTE
+    ARGANTE.
 Nous verrons cette affaire, Pendard, nous verrons cette affaire, et je ne prétends pas qu'on me fasse passer la plume par le bec.
 
 
-## Scène VI
+## Scène VI.
 Géronte, Argante, Silvestre
 
 
-    GÉRONTE
+    GÉRONTE.
 Ah, Seigneur Argante, vous me voyez accablé de disgrâce.
 
-    ARGANTE
+    ARGANTE.
 Vous me voyez aussi dans un accablement horrible.
 
-    GÉRONTE
+    GÉRONTE.
 Le pendard de Scapin, par une fourberie, m'a attrapé cinq cents Écus.
 
-    ARGANTE
+    ARGANTE.
 Le même pendard de Scapin, par une fourberie aussi, m'a attrapé deux cents Pistoles.
 
-    GÉRONTE
+    GÉRONTE.
 Il ne s'est pas contenté de m'attraper cinq cents Écus, il m'a traité d'une manière que j'ai honte de dire.Mais il me la paiera.
 
-    ARGANTE
+    ARGANTE.
 Je veux qu'il me fasse raison de la pièce qu'il m'a jouée.
 
-    GÉRONTE
+    GÉRONTE.
 Et je prétends faire de lui une vengeance exemplaire.
 
-    SILVESTRE*, à part.*
+    SILVESTRE*, à part.*.
 Plaise au Ciel, que dans tout ceci je n'aye point ma part !
 
-    GÉRONTE
+    GÉRONTE.
 Mais ce n'est pas encore tout, Seigneur Argante, et un malheur nous est toujours l'avant-coureur d'un autre.Je me réjouissais aujourd'hui de l'espérance d'avoir ma Fille, dont je faisais toute ma consolation ; et je viens d'apprendre de mon Homme qu'elle est partie il y a longtemps de Tarente, et qu'on y croit qu'elle a péri dans le Vaisseau où elle s'embarqua.
 
-    ARGANTE
+    ARGANTE.
 Mais pourquoi, s'il vous plaît, la tenir à Tarente, et ne vous être pas donné la joie de l'avoir avec vous ?
 
-    GÉRONTE
+    GÉRONTE.
 J'ai eu mes raisons pour cela, et des intérêts de Famille m'ont obligé jusques ici à tenir fort secret ce second Mariage.Mais que vois-je ?
 
 
-## Scène VII
+## Scène VII.
 Nérine, Argante, Géronte, Silvestre
 
 
-    GÉRONTE
+    GÉRONTE.
 Ah ! te voilà, Nourrice.
 
-    NÉRINE, *se jetant à ses genoux*
+    NÉRINE, *se jetant à ses genoux*.
 Ah, Seigneur Pandolphe, que…
 
-    GÉRONTE
+    GÉRONTE.
 Appelle-moi Géronte, et ne te sers plus de ce nom.Les raisons ont cessé, qui m'avaient obligé à le prendre parmi vous à Tarente.
 
-    NÉRINE
+    NÉRINE.
 Las ! que ce changement de nom nous a causé de troubles et d'inquiétudes dans les soins que nous avons pris de vous venir chercher ici !
 
-    GÉRONTE
+    GÉRONTE.
 Où est ma Fille, et sa Mère ?
 
-    NÉRINE
+    NÉRINE.
 Votre Fille, Monsieur, n'est pas loin d'ici.Mais avant que de vous la faire voir, il faut que je vous demande pardon de l'avoir mariée, dans l'abandonnement, où faute de vous rencontrer, je me suis trouvée avec elle.
 
-    GÉRONTE
+    GÉRONTE.
 Ma Fille mariée !
 
-    NÉRINE
+    NÉRINE.
 Oui, Monsieur.
 
-    GÉRONTE
+    GÉRONTE.
 Et avec qui ?
 
-    NÉRINE
+    NÉRINE.
 Avec un jeune Homme nommé Octave, Fils d'un certain Seigneur Argante.
 
-    GÉRONTE
+    GÉRONTE.
 Ô Ciel !
 
-    ARGANTE
+    ARGANTE.
 Quelle rencontre !
 
-    GÉRONTE
+    GÉRONTE.
 Mène-nous, mène-nous promptement où elle est.
 
-    NÉRINE
+    NÉRINE.
 Vous n'avez qu'à entrer dans ce Logis.
 
-    GÉRONTE
+    GÉRONTE.
 Passe devant.Suivez-moi, suivez-moi, Seigneur Argante.
 
-    SILVESTRE
+    SILVESTRE.
 Voilà une aventure qui est tout à fait surprenante !
 
 
-## Scène VIII
+## Scène VIII.
 Scapin, Silvestre
 
 
-    SCAPIN
+    SCAPIN.
 Hé bien, Silvestre, que font nos Gens ?
 
-    SILVESTRE
+    SILVESTRE.
 J'ai deux avis à te donner.L'un, que l'affaire d'Octave est accommodée.Notre Hyacinte s'est trouvée la Fille du Seigneur Géronte ; et le hasard a fait, ce que la prudence des Pères avait délibéré.L'autre avis, c'est que les deux Vieillards font contre toi des menaces épouvantables, et surtout le Seigneur Géronte.
 
-    SCAPIN
+    SCAPIN.
 Cela n'est rien.Les menaces ne m'ont jamais fait mal ; et ce sont des nuées qui passent bien loin sur nos têtes.
 
-    SILVESTRE
+    SILVESTRE.
 Prends garde à toi, les Fils se pourraient bien raccommoder avec les Pères, et toi demeurer dans la nasse.
 
-    SCAPIN
+    SCAPIN.
 Laisse-moi faire, je trouverai moyen d'apaiser leur courroux, et…
 
-    SILVESTRE
+    SILVESTRE.
 Retire-toi, les voilà qui sortent.
 
 
-## Scène IX
+## Scène IX.
 Géronte, Argante, Silvestre, Nérine, Hyacinte
 
 
-    GÉRONTE
+    GÉRONTE.
 Allons, ma Fille, venez chez moi.Ma joie aurait été parfaite, si j'y avais pu voir votre Mère avec vous.
 
-    ARGANTE
+    ARGANTE.
 Voici Octave tout à propos.
 
 
-## Scène X
+## Scène X.
 Octave, Argante, Géronte, Hyacinte, Nérine, Zerbinette, Silvestre
 
 
-    ARGANTE
+    ARGANTE.
 Venez, mon Fils, venez vous réjouir avec nous de l'heureuse aventure de votre Mariage.Le Ciel…
 
-    OCTAVE, *sans voir Hyacinte*
+    OCTAVE, *sans voir Hyacinte*.
 Non, mon père, toutes vos propositions de Mariage ne serviront de rien.Je dois lever le masque avec vous, et l'on vous a dit mon engagement.
 
-    ARGANTE
+    ARGANTE.
 Oui ; mais tu ne sais pas…
 
-    OCTAVE
+    OCTAVE.
 Je sais tout ce qu'il faut savoir.
 
-    ARGANTE
+    ARGANTE.
 Je veux te dire que la Fille du Seigneur Géronte…
 
-    OCTAVE
+    OCTAVE.
 La Fille du Seigneur Géronte ne me sera jamais de rien.
 
-    GÉRONTE
+    GÉRONTE.
 C'est elle…
 
-    OCTAVE
+    OCTAVE.
 Non, Monsieur, je vous demande pardon, mes résolutions sont prises.
 
-    SILVESTRE
+    SILVESTRE.
 Ecoutez…
 
-    OCTAVE
+    OCTAVE.
 Non, tais-toi, je n'écoute rien.
 
-    ARGANTE
+    ARGANTE.
 Ta Femme…
 
-    OCTAVE
+    OCTAVE.
 Non, vous dis-je, mon Père, je mourrai plutôt que de quitter mon aimable Hyacinte.
 Traversant le Théâtre pour aller à elle.
 
 Oui, vous avez beau faire, la voilà celle à qui ma foi est engagée ; je l'aimerai toute ma vie, et je ne veux point d'autre Femme.
 
-    ARGANTE
+    ARGANTE.
 Hé bien, c'est elle qu'on te donne.Quel diable d'étourdi, qui suit toujours sa pointe.
 
-    HYACINTHE
+    HYACINTHE.
 Oui, Octave, voilà mon Père que j'ai trouvé, et nous nous voyons hors de peine.
 
-    GÉRONTE
+    GÉRONTE.
 Allons chez moi, nous serons mieux qu'ici pour nous entretenir.
 
-    HYACINTHE
+    HYACINTHE.
 Ah, mon Père, je vous demande par grâce, que je ne sois point séparée de l'aimable Personne que vous voyez : Elle a un mérite, qui vous fera concevoir de l'estime pour elle, quand il sera connu de vous.
 
-    GÉRONTE
+    GÉRONTE.
 Tu veux que je tienne chez moi une Personne qui est aimée de ton Frère, et qui m'a dit tantôt au nez mille sottises de moi-même ?
 
-    ZERBINETTE
+    ZERBINETTE.
 Monsieur, je vous prie de m'excuser.Je n'aurais pas parlé de la sorte, si j'avais su que c'était vous, et je ne vous connaissais que de réputation.
 
-    GÉRONTE
+    GÉRONTE.
 Comment, que de réputation ?
 
-    HYACINTHE
+    HYACINTHE.
 Mon Père, la passion que mon Frère a pour elle, n'a rien de criminel, et je réponds de sa vertu.
 
-    GÉRONTE
+    GÉRONTE.
 Voilà qui est fort bien.Ne voudrait-on point que je mariasse mon Fils avec elle ?Une Fille inconnue, qui fait le métier de Coureuse.
 
 
-## Scène XI
+## Scène XI.
 Léandre, Octave, Hyacinte, Zerbinette, Argante, Géronte, Silvestre, Nérine
 
 
-    LÉANDRE
+    LÉANDRE.
 Mon Père, ne vous plaignez point que j'aime une Inconnue, sans naissance et sans bien.Ceux de qui je l'ai rachetée, viennent de me découvrir qu'elle est de cette Ville, et d'honnête Famille ; que ce sont eux qui l'y ont dérobée à l'âge de quatre ans ; et voici un Bracelet qu'ils m'ont donné, qui pourra nous aider à trouver ses Parents.
 
-    ARGANTE
+    ARGANTE.
 Hélas ! à voir ce Bracelet, c'est ma Fille que je perdis à l'âge que vous dites.
 
-    GÉRONTE
+    GÉRONTE.
 Votre Fille ?
 
-    ARGANTE
+    ARGANTE.
 Oui, ce l'est, et j'y vois tous les traits qui m'en peuvent rendre assuré.
 
-    HYACINTHE
+    HYACINTHE.
 Ô Ciel ! que d'aventures extraordinaires !
 
 
-## Scène XII
+## Scène XII.
 Carle, Léandre, Octave, Géronte, Argante, Hyacinte, Zerbinette, Silvestre, Nérine
 
 
-    CARLE
+    CARLE.
 Ah, Messieurs, il vient d'arriver un accident étrange.
 
-    GÉRONTE
+    GÉRONTE.
 Quoi ?
 
-    CARLE
+    CARLE.
 Le pauvre Scapin…
 
-    GÉRONTE
+    GÉRONTE.
 C'est un Coquin que je veux faire pendre.
 
-    CARLE
+    CARLE.
 Hélas !Monsieur, vous ne serez pas en peine de cela.En passant contre un Bâtiment, il lui est tombé sur la tête un Marteau de Tailleur de Pierre, qui lui a brisé l'os, et découvert toute la cervelle.Il se meurt, et il a prié qu'on l'apportât ici pour vous pouvoir parler avant que de mourir.
 
-    ARGANTE
+    ARGANTE.
 Où est-il ?
 
-    CARLE
+    CARLE.
 Le voilà.
 
 
-## Scène Dernière
+## Scène Dernière.
 Scapin, Carle, Géronte, Argante, etc.
 
 
-    SCAPIN, *apporté par deux Hommes, et la tête entourée de linges, comme s'il avait été bien blessé*
+    SCAPIN, *apporté par deux Hommes, et la tête entourée de linges, comme s'il avait été bien blessé*.
 Ahi, ahi.Messieurs, vous me voyez…Ahi, vous me voyez dans un étrange état.Ahi.Je n'ai pas voulu mourir, sans venir demander pardon à toutes les Personnes que je puis avoir offensées.Ahi.Oui, Messieurs, avant que de rendre le dernier soupir, je vous conjure de tout mon cœur, de vouloir me pardonner tous ce que je puis avoir fait, et principalement le Seigneur Argante, et le Seigneur Géronte.Ahi.
 
-    ARGANTE
+    ARGANTE.
 Pour moi, je te pardonne ; va, meurs en repos.
 
-    SCAPIN
+    SCAPIN.
 C'est vous, Monsieur, que j'ai le plus offensé, par les coups de bâton que…
 
-    GÉRONTE
+    GÉRONTE.
 Ne parle point davantage, je te pardonne aussi.
 
-    SCAPIN
+    SCAPIN.
 C'a été une témérité bien grande à moi, que les coups de bâton que je…
 
-    GÉRONTE
+    GÉRONTE.
 Laissons cela.
 
-    SCAPIN
+    SCAPIN.
 J'ai en mourant, une douleur inconcevable des coups de bâton que…
 
-    GÉRONTE
+    GÉRONTE.
 Mon Dieu, tais-toi.
 
-    SCAPIN
+    SCAPIN.
 Les malheureux coups de bâton que je vous…
 
-    GÉRONTE
+    GÉRONTE.
 Tais-toi, te dis-je, j'oublie tout.
 
-    SCAPIN
+    SCAPIN.
 Hélas, quelle bonté !Mais est-ce de bon cœur, Monsieur, que vous me pardonnez ces coups de bâton que…
 
-    GÉRONTE
+    GÉRONTE.
 Eh oui.Ne parlons plus de rien ; je te pardonne tout, voilà qui est fait.
 
-    SCAPIN
+    SCAPIN.
 Ah, Monsieur, je me sens tout soulagé depuis cette parole.
 
-    GÉRONTE
+    GÉRONTE.
 Oui ; mais je te pardonne, à la charge que tu mourras.
 
-    SCAPIN
+    SCAPIN.
 Comment, Monsieur ?
 
-    GÉRONTE
+    GÉRONTE.
 Je me dédis de ma parole, si tu réchappes.
 
-    SCAPIN
+    SCAPIN.
 Ahi, ahi.Voilà mes faiblesses qui me reprennent.
 
-    ARGANTE
+    ARGANTE.
 Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.
 
-    GÉRONTE
+    GÉRONTE.
 Soit.
 
-    ARGANTE
+    ARGANTE.
 Allons souper ensemble, pour mieux goûter notre plaisir.
 
-    SCAPIN
+    SCAPIN.
 Et moi, qu'on me porte au bout de la Table, en attendant que je meure.
 
 <FIN>

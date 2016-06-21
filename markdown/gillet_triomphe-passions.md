@@ -16,7 +16,7 @@ Gillet de la Tessonnerie
 Édition critique établie par Bran Raluca-Dana en 1999 dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier.
 
 
-# Les sources ou la quête du passé
+# Les sources ou la quête du passé.
 
 
 Les hommes du dix-septième siècle (...), grands experts en transmigrations symboliques, ne vivaient jamais tout à fait ni longtemps dans leurs propres temps et espace sans rendre visite à d'autres époques. Régis par le besoin de vivre dans plusieurs époques à la fois - besoin dont le nom est l'hétérochronie -, ils percevaient leur propre présent dans un lien viscéral avec le temps jadis [1].
@@ -59,7 +59,7 @@ Enfin, le dernier acte a comme point de départ le même ouvrage de Plutarque, *
 La fin de la pièce constitue un retour au cadre initial : Arthémidore remercie l'Enchanteur pour les représentations qu'il lui a offertes et grâce auxquelles il a réalisé la première étape de son trajet initiatique. On suggère aussi que la pièce même, celle qui englobe les cinq représentations, est le résultat d'une telle expérience initiatique, parce que l'Enchanteur invite Arthemidore à écrire pour la postérité ce qu'il lui avait montré dans son temple.
 
 
-# Le stoïcisme à l'âge classique : découverte et réécriture d'une utopie
+# Le stoïcisme à l'âge classique : découverte et réécriture d'une utopie.
 
 Les XVI*e* et XVII*e* siècles marquent le renouveau du stoïcisme dans la philosophie occidentale ; il s'agit d'une vogue sans précédent des idées morales des stoïques, adaptées à une situation historique (et religieuse) différente, et réinterprétées de manière qu'elles puissent s'adresser une sensibilité formée à l'école de l'humanisme et du christianisme. Ce qui ne signifie pas que les stoïciens soient l'objet d'une admiration sans réserve et sans critique ; cependant ils exercent une influence incontestable sur la mentalité de l'époque. Ils représentent à la fois une sorte de miroir à travers lequel de nombreuses générations vont (re)trouver, d'une manière plus ou moins polémique, leur propre identité spirituelle, et une garantie de légitimité de certains choix.
 
@@ -79,7 +79,7 @@ Parmi les différentes attitudes que le début du XVII*e* siècle va voir se cri
 Nous allons commencer notre analyse en examinant les définitions des passions proposées par les philosophes antiques, surtout par les stoïciens, pour passer ensuite à l'interprétation que le XVII*e* siècle donne à cette question.
 
 
-### L'Antiquité
+### L'Antiquité.
 
 La réflexion sur les passions trouve son point de départ chez Platon, plus précisément dans son système de la tripartition de l'âme en νούς (*noûs*, l'esprit), θυμός (*thymós*, la passion) et έπιθυμητικόν (*épithymetikόn*, le désir). À l'intérieur de ce modèle présenté dans *Timée*, le thymόs, principe mixte correspondant au cœur, se situe entre les deux autres instances, référées l'une au cerveau et l'autre aux parties inférieures du corps. L'activité morale est déterminée par le jugement rationnel.
 
@@ -103,7 +103,7 @@ Il va sans dire que l'homme qui vit en esclave de la passion, oubliant les lois 
 L'autre pôle de l'existence humaine, la vertu, reste aussi le seul but que l'on doive suivre, puisque « la sagesse est la santé de l'âme, et le manque de sagesse une sorte de mauvaise santé (*insanitas*) qui est folie (*insania*) et aussi démence » [28]. L'homme tempérant cherche toujours à apaiser les mouvements du désir, afin de trouver son équilibre intérieur ; sa constance inébranlable ne concerne pas seulement la connaissance, mais surtout son activité pratique.
 
 
-### Les temps modernes
+### Les temps modernes.
 
 La force vitale et la souplesse du système philosophique stoïque, dues peut-être dans une certaine mesure au fait qu'il proposait un questionnement sur des problèmes éternels de l'être humain, se révèlent dans sa résistance aux réadaptations continuelles imposées par les siècles.
 
@@ -137,7 +137,7 @@ Ce genre de confiance dont nous avons parlé peut même aller plus loin : puisq
 Un débat intéressant s'ouvre sur la question de la plus violente passion ; Senault rejette l'avis d'Aristote, qui pensait que c'était la haine, et propose comme prototype des passions l'amour, toutes les autres n'en étant que des effets. Si l'amour, dans l'acception générale que lui donnait Charron, est réglé, alors tous les autres mouvements de l'âme vont le suivre. Les histoires qui illustrent les cinq passions de Gillet ont aussi comme ressort principal un certain type d'amour excessif, soit de gloire, soit l'amour-propre, espèce qui fera carrière dans les écrits moraux du XVII*e* siècle, soit l'amour charnel suivi dans toutes ses excès et dérèglements.
 
 
-## Mal / maladie de l'âme ou du corps
+## Mal / maladie de l'âme ou du corps.
 
 Lorsqu'on parle des passions comme des « maladies de l'âme », on y voit plutôt le sens abstrait du syntagme, de mal ressenti non pas comme souffrance physique, mais spirituelle. Les passions illustrées par la pièce semblent soutenir cette perspective, avec une seule exception remarquable, l'histoire d'Antioque, personnage tragique qui vit au sens le plus concret du terme son amour, son « mal », comme il le nomme plusieurs fois, et pour qui la mort vient comme la suite naturelle d'une souffrance et physique et psychique qui n'a plus d'espoir de guérison. Cet exemple montre bien l'ambiguïté du syntagme « maladie de l'âme », qui à son tour témoigne d'une confusion plus ou moins voulue entre les deux niveaux, de la *physis* et de la *psyché*.
 
@@ -159,10 +159,10 @@ Comme le remarquait Patrick Dandrey, il y a toujours cette ambivalence dans la d
 L'impression que donne un tel parcours, d'ailleurs un peu fastidieux, parmi des théories et des traités des passions appartenant à des époques si différentes et éloignées dans le temps, ne peut être autrement que fragmentaire. Mais c'est un risque que nous devons courir afin de donner une image tant soit peu fidèle d'une époque – la première moitié du XVII*e* siècle – qui a connu plusieurs tentations idéologiques et qui, par conséquent, a été nécessairement partagée entre des esthétiques contraires. Exalter la volonté humaine ou accepter la faiblesse de l'âme ; croire à la possibilité intrinsèque de l'homme de découvrir la voie de la raison, donc de la sagesse, ou montrer la défaite de l'esprit en faveur des passions, cela dépasse l'enjeu d'une éthique à suivre, ayant des répercussions au niveau de la construction et du choix d'une esthétique. Les deux aspects nous paraissent indissociables.
 
 
-# La dramaturgie comme rhétorique
+# La dramaturgie comme rhétorique.
 
 
-## Le rôle de la rhétorique
+## Le rôle de la rhétorique.
 
 « Héritier de la Renaissance, le XVII*e* siècle est, en Europe, l'Age de l'Eloquence » [43], affirme Marc Fumaroli, montrant qu'en France plus qu'ailleurs l'influence de la rhétorique sur la littérature classique a été extrêmement importante. En fait, le terme même de littérature n'avait pas le sens qu'on lui donne aujourd'hui ; gardant l'acception des mots latins *Literatura, res literaria*, il renvoyait plutôt à la connaissance érudite des textes de l'Antiquité, vus comme la base de la sagesse et de tout savoir. L'expression littéraire n'avait pas de légitimité en soi, elle allait la chercher ailleurs, plus précisément dans le savoir qu'elle devait véhiculer.
 
@@ -184,24 +184,24 @@ Partant, l'art de persuader aura à son tour deux manières différentes d'appli
 La question des deux niveaux de réception du message, donc d'interaction, qui sous-tend la coexistence des deux types de rhétorique dont nous avons parlé est d'autant plus importante dans une pièce qui met en scène les spectateurs, par le procédé du théâtre dans le théâtre, telle *Le Triomphe des cinq passions*. Car le nombre des niveaux est augmenté par l'intervention, entre les personnages des pièces enchâssées et les spectateurs de la salle, des spectateurs-personnages, dont la présence fait signe pour l'auditoire de la pièce et qui reproduisent pendant la plupart du temps à une petite échelle la situation des récepteurs externes. Arthémidore est censé être influencé par les actions et les discours des « ombres vivantes », mais son expérience aussi a une signification pour l'auditoire qui doit être convaincu de la possibilité d'une telle initiation à la sagesse. Mais nous allons étudier plus loin ces phénomènes d'influence et de transgression des niveaux qui représentent l'un des enjeux les plus importants de la pièce.
 
 
-## Dramaturgie du *Triomphe des cinq passions*
+## Dramaturgie du *Triomphe des cinq passions*.
 
 Nous allons structurer l'étude dramaturgique de la pièce selon les trois parties essentielles de la rhétorique, la disposition, l'invention et l'élocution. Il est vrai que ce type de structuration est plus approprié à l'étude des tragédies, or la pièce dont nous nous occupons est une tragi-comédie, mais, comme on va le voir plus loin, elle se rattache plutôt à l'esthétique de la tragédie. La raison en est double, d'un côté, *Le Triomphe des cinq passions* est une tragi-comédie faite par l'enchâssement de plusieurs tragédies, de l'autre, la tragi-comédie même des années 1640 tend à suivre de plus en plus le modèle de la tragédie et à réduire son irrégularité. De même, ce n'est qu'après avoir opéré cette analyse que nous en mettrons en relation les résultats avec ceux qui relèvent de la lecture que l'on peut faire d'une autre perspective, celle de l'esthétique baroque.
 
 
-### La disposition
+### La disposition.
 
 Les règles de la disposition représentent pour une pièce de théâtre les cadres vides dans lesquels vont se mouler les éléments de l'invention, eux aussi respectant des schémas prédéterminés, et, en même temps, ceux de l'élocution, puisqu'au théâtre plus que dans les autres genres fictionnels le mot se fait forme, il est au service de celle-ci [51]. Nous allons donc suivre la manière dont l'histoire apparaît en tant que discours (les deux termes sont employés avec l'acception que leur donne Benveniste), donc l'articulation de l'action de la pièce.
 
 
-#### L'action
+#### L'action.
 
 Ce qui différencie la création dramatique de la génération dite classique de celle du début du siècle ou, d'une manière même plus évidente, du siècle précédent, qui avait vu éclore la tragédie humaniste, c'est une remise en question des rapports entre action et rhétorique. L'expérience de la tragi-comédie, qui entassait des aventures sans le moindre souci de vraisemblance, s'avérera être propice, car son excès sera répudié au nom de la quête d'une logique des événements, mais sa leçon sera assimilée afin de contrecarrer le manque de mouvement dramatique de la tragédie du XVI*e* siècle. Le grand gain de l'époque classique est, selon l'opinion de Christian Delmas, « la subordination de la rhétorique à l'action dramatique, qui se voit désormais accorder la primauté : la rhétorique se limitera à donner forme aux situations et aux personnages » [52].
 
 Nous allons analyser la façon dont l'action – ou plutôt les différentes actions présentes aux plusieurs niveaux du *Triomphe des cinq passions* – est structurée selon les grandes catégories que Jacques Scherer met en évidence pour toute pièce de théâtre classique.
 
 
-#### L'exposition
+#### L'exposition.
 
 Tenant compte du caractère particulier de la pièce de Gillet, on doit examiner la multiplication des moments-type de l'action en fonction du niveau où l'on se place. Ainsi, on a l'exposition générale de la pièce, qui a comme fonction d'établir le cadre constant et de présenter les personnages qui vont occuper la scène dès le début jusqu'à la fin, les expositions de chaque acte en tant que « représentation » (où les personnages-spectateurs entrent en scène), qui restent extérieures à l'action représentée, et, au niveau intérieur, équivalant au niveau diégétique du récit, l'exposition de chaque pièce enchâssée.
 
@@ -218,24 +218,24 @@ L'autre type d'exposition est un peu plus artificiel : le monologue du héros t
 En général, Gillet réussit à faire des expositions qui ne soient ni incomplètes ni trop longues, essayant de concilier ces deux principes contraires qui fondent ce qu'on appelle l'exposition parfaite.
 
 
-#### Les obstacles
+#### Les obstacles.
 
 Les cinq histoires de la pièce se caractérisent par l'existence d'une forte contrainte, d'abord psychologique, mais aussi extérieure ; l'idée d'obstacle, soit matériel soit spirituel revient avec insistance. L'obstacle peut être une volonté supérieure, celle de l'autorité, comme dans le cas du fils de Manlie qui ne respecte pas un ordre, quoiqu'il fasse une action qu'il considère comme juste. Mais dans la plupart des cas, l'obstacle est intérieur : la passion du héros qui fait son malheur – l'ambition de Radamiste, la jalousie de Martiane, la précipitation avec laquelle Bisathie change son amour en haine. Pour Antioque on pourrait dire que l'obstacle est double : si son amour n'a aucune chance d'être heureux c'est aussi à cause de l'existence de son père. Face à l'obstacle, les héros se livrent sans cesse à des délibérations qui constituent un certain type de raisonnement fort prisé par la dramaturgie classique, le dilemme, que nous allons analyser lorsque nous traiterons de l'invention.
 
 
-#### Les péripéties
+#### Les péripéties.
 
 À part les obstacles, les péripéties constituent un élément important du nœud ; ces événements imprévus et créateurs de surprise, entraînant des renversements, sont comme une compensation pour la nécessité du lieu théâtral unique. Christian Delmas voyait dans les péripéties « des retournements du "pour au contre" à l'intérieur d'une situation unique, à la façon des renversements dialectiques chers à la rhétorique » [53].
 
 Sans présenter un nombre très grand de péripéties, l'évolution de l'intrigue de certaines des cinq pièces enchâssées repose sur de tels renversements de situation. Par exemple, au second acte, Pharasmane se prépare à convaincre Radamiste de lever le siège, mais celui-ci avait déjà obtenu, grâce à une trahison, la victoire. Le même Radamiste promet à son oncle de ne pas le tuer, mais à la fin il le fait étouffer, se prévalant d'un artifice de langage. Dans le troisième acte, c'est une sorte de quiproquo qui mène Antioque au suicide : il pense que l'intuition du médecin n'est qu'une feinte, alors que c'était quelque chose de réel, et que son père a tout appris sur son amour illégitime. Mais le quiproquo typique qui va engendrer le malheureux dénouement se retrouve dans l'histoire du quatrième acte : Emilie blesse mortellement sa propre femme cachée dans un bocage la prenant pour un cerf.
 
 
-#### La crise
+#### La crise.
 
 Comme nous l'avons déjà vu, Gillet ne déroule pas dans les cinq pièces enchâssées, le fil de l'intrigue depuis son origine, à la manière des auteurs de tragi-comédie du début du siècle, mais il se contente d'aborder l'action assez près du dénouement. Cela n'est pas étonnant, puisque la variété des actions de la même pièce ne lui aurait pas permis le contraire et que le surgissement rapide du moment de la crise répond au besoin de concentration.
 
 
-#### Le dénouement
+#### Le dénouement.
 
 « Le dénouement doit être, dans la dramaturgie classique, nécessaire, complet et rapide » [54], exigences parfois contraires et qu'il est difficile à concilier, de manière que le plus souvent on sacrifie la complétude à la rapidité. Cela est très évident dans les dénouements des cinq pièces intérieures et c'est une conséquence naturelle de la condensation de l'action ; le seul risque est celui de ne pas respecter l'exigence de nécessité. On a parfois l'impression que le dénouement ne vient pas comme une suite naturelle des événements, qu'il n'est pas conforme à la logique de l'évolution des caractères.
 
@@ -246,7 +246,7 @@ De tous les dénouements intérieurs celui du troisième acte se soutient le mie
 Le dénouement de l'ensemble constitue le retour au point de départ, avec la seule différence qu'Arthémidore est entré dans un nouvel ordre, il a réalisé la première étape de son initiation. Outre la suggestion de symétrie qu'il apporte par cette structure circulaire, le dénouement met en scène l'auteur dramatique et, implicitement, l'acte de l'écriture. Ainsi, les quatre derniers vers de la réplique finale de l'Enchanteur sont : « Mais Adieu, souviens-toy de toutes ces merveilles, / Descris-en par tes vers les beautez sans pareilles, / Afin que nos neveux un jour en les lisant, / Y puissent rencontrer l'utile et le plaisant. » (v. 2002-2005). Comme le remarquait Marc Fumaroli pour *L'Illusion comique*, cela vise à la « reconnaissance du théâtre comme un art de la parole pleine, plus efficace encore que l'art oratoire puisqu'il peut se permettre de la contenir. » [55]
 
 
-#### Les trois unités
+#### Les trois unités.
 
 Dans quelle mesure pouvons-nous poser le problème du respect de la règle des trois unités dans une pièce à caractère fragmentaire, telle que *Le Triomphe des cinq passions* ? Les cinq histoires sont très différentes et le lieu de l'action change d'un acte à l'autre, de manière que chaque pièce intérieure acquiert une individualité qui la rend suffisante à elle-même, tandis que le lien qui devrait être réalisé par le cadre général s'avère assez faible, à cause de la diversité des pièces enchâssées.
 
@@ -257,7 +257,7 @@ L'unité de lieu semble aussi bien respectée, quoique la scène soit à Athène
 Si l'on regarde la pièce dans son ensemble, démarche constamment induite au lecteur / spectateur par les retours à la situation initiale, la transgression des règles n'est plus qu'une illusion optique. Dans la mesure où l'on considère la pièce comme une seule plaidoirie de l'Enchanteur qui vise à réaliser la première étape d'une initiation (et, *mutatis mutandis*, une plaidoirie de l'auteur dramatique qui veut obtenir un certain effet sur ses spectateurs), il devient évident qu'elle a un lieu unique – le temple de l'Enchanteur  –, un temps unique – celui de l'expérience initiatique d'Arthémidore – et une action unique – le processus même de cette transformation intérieure du personnage. Et la fin, qui met en jeu le statut même du dramaturge, vient accentuer cette centralité, située à un niveau supérieur, d'une pièce autrement très variée.
 
 
-#### La relation action-personnages
+#### La relation action-personnages.
 
 Si nous traitons des personnages (ou au moins d'un aspect du problème) à l'intérieur de la disposition c'est parce qu'il existe une certaine logique de construction des personnages en relation avec les schémas d'action dans lesquels ils s'insèrent. Dans cette perspective, il faut mettre en évidence l'existence d'une dialectique héros dynamiques – héros statiques et suivre comment les différents mécanismes actif / passif se combinent dans la pièce.
 
@@ -266,7 +266,7 @@ Si nous traitons des personnages (ou au moins d'un aspect du problème) à l'int
 Par ailleurs, le héros statique est assez bien représenté, la diminution considérable de l'action étant compensée par une propension de la dimension verbale. Tout d'abord, les personnages se confrontent par les discours, ils s'analysent tout en se construisant une identité de paroles et c'est toujours par le discours qu'ils expriment leur malheur, dans des formes d'« amor fati » qui atteignent le climax dans le cas d'Antioque. La manière dont les héros se construisent par le discours est peut-être l'aspect le plus intéressant de la pièce et il fera l'objet de la partie suivante, réservée à l'invention.
 
 
-### L'invention
+### L'invention.
 
 Il est évident que la disposition rhétorique, fondant l'action de la pièce, a des implications immédiates sur l'invention du sujet, qui trouve un point d'appui important dans les techniques générales du développement oratoire. La réduction au minimum des événements représentés a comme réflexe une amplification nécessaire au niveau du discours qui sera inspirée justement par les modalités classiques de la rhétorique. Comme le remarquait Thomas Pavel,
 
@@ -276,7 +276,7 @@ la tragédie régulière concourt ainsi à peindre l'image anti-historique d'un 
 Cette loi de la compensation est d'autant plus fonctionnelle dans une pièce à caractère moralisateur comme *Le Triomphe des cinq passions* ; non seulement l'Enchanteur se livre à des discours avec une finalité pédagogique prononcée, le même rôle est dévolu tour à tour, à l'intérieur des pièces enchâssées, à plusieurs personnages ( soit ceux qui se heurtent aux héros dominés par une passion, soit, à la fin de chaque acte, ces héros mêmes, lorsqu'ils se rendent compte de leur égarement.)
 
 
-#### Stratégies persuasives d'une expérience initiatique
+#### Stratégies persuasives d'une expérience initiatique.
 
 La question de l'autorité demeure essentielle dans *Le Triomphe des cinq pasions*, puisqu'il s'agit d'une pièce qui met en scène le processus même de l'initiation. Le néophyte doit premièrement être persuadé, d'une manière directe, par les discours que l'Enchanteur tient devant lui, aussi bien qu'indirecte, par les discours que les personnages des cinq représentations tiennent les uns devant les autres. Dans cette perspective, les types de discours employés se révèlent très significatifs ; qu'on les analyse au niveau de la macrostructure ou de la microstructure, ils s'inscrivent d'une manière plus ou moins évidente dans les modèles offerts par les trois genres rhétoriques. Car au XVII*e* siècle les règles de la rhétorique fonctionnent tout aussi bien pour les œuvres littéraires que pour l'éloquence proprement dite. Le choix même des sujets de l'histoire antique est conforme aux principes énoncés par Aristote dans sa *Rhétorique* par rapport aux exemples qu'il faut employer :
 
@@ -329,7 +329,7 @@ Les dialogues de l'Enchanteur et d'Arthémidore après chaque représentation d'
 Les analyses que nous avons faites montrent le fait que les conflits de la pièce existent presque exclusivement par le verbe ; l'affrontement entre les personnages demeure en premier lieu au niveau des paroles, d'où la structure de débat qu'ont les scènes, la présence constante du confident – rôle créé pour donner occasion au déploiement verbal – et les nombreux monologues, prétexte de mise en scène du moi dédoublé. Nous allons continuer notre analyse rhétorique en changeant de point de vue, c'est-à-dire en nous concentrant sur l'effet du discours sur son auditoire et, implicitement, sur les différentes façons d'identification mises à l'œuvre par le texte.
 
 
-#### Les preuves de la rhétorique et le discours théâtral
+#### Les preuves de la rhétorique et le discours théâtral.
 
 Il y a trois types de preuves qui constituent l'argumentation chez Aristote, la preuve éthique, relative à l'image que l'orateur doit donner de lui même afin de disposer favorablement l'auditoire, la preuve pathétique, qui concerne les passions mobilisées chez l'auditoire pour obtenir son adhésion, et enfin, la preuve logique, qui relève de l'ordre propre du discours. Ces trois preuves correspondent, pour Cicéron, aux trois devoirs de l'orateur, plaire, émouvoir, respectivement démontrer.
 
@@ -353,7 +353,7 @@ Enfin, la dernière preuve rhétorique, la preuve logique, procède du discours 
 En conclusion, l'argumentation apparaît comme une opération complexe, qui trouve son efficacité dans la manière dont elle réussit à harmoniser les composantes logique, idéologique et psychologique du discours et, en plus, à y ajouter une composante esthétique grâce à laquelle la conviction se transforme en adhésion. [70] Si l'on applique à notre pièce ce modèle, il résulte que l'acceptabilité idéologique – définie par la composante correspondante - concerne la réception de l'œuvre par ses récepteurs au sens large (il faut qu'il y ait une compatibilité avec la *doxa* des spectateurs de l'époque, sans laquelle la persuasion échoue), tandis que la composante psychologique a un domaine plus restreint d'application, visant l'acceptabilité effective par l'auditeur particulier, le spectateur particulier qui est Arthémidore. La liaison serrée entre ces deux composantes est un argument de plus pour voir dans ce personnage le prototype même du récepteur, une sorte de spectateur abstrait dont les réactions sont à souhaiter de la part du spectateur concret aussi, qui est invité, par ce mouvement, à l'identification d'attitude et de comportement.
 
 
-#### Les personnages comme types
+#### Les personnages comme types.
 
 À l'intérieur d'une littérature tellement préoccupée par la soumission à un code et l'adéquation à des conventions généralement acceptées, il n'est pas étonnant que les héros entrent dans une typologie stable des rôles dramatiques. Leurs caractères et relations sont précodifiés ; Aristote reste à ce sujet aussi l'autorité qu'il faut suivre, ses descriptions de mœurs dans la *Rhétorique* esquissant les paradigmes peuplés par les héros de toute pièce de théâtre du XVII*e* siècle.
 
@@ -377,7 +377,7 @@ Il en résulte une structuration récurrente des conflits autour de tels couples
 Enfin, les héros doivent, afin d'être reçus comme véritables personnages de tragédie, satisfaire à une dernière condition imposée par Aristote qui de nouveau fixe le portrait du héros idéal : « c'est le cas d'un homme qui, sans être incomparablement vertueux et juste, se retrouve dans le malheur non à cause de ses vices ou de sa méchanceté, mais à cause de quelque erreur » [79] (1453 a). Systématiquement, les héros de la pièce, coupables soit de fautes médiocres, comme la jalousie de Martiane, qui ne nuit qu'à elle-même, soit de grandes fautes contre les proches, comme Radamiste et même Bisathie, donnent le blâme à une force qui les dépasse, le destin qui les a jetés dans le torrent passionnel. Mais c'est plutôt une stratégie discursive qu'une vérité qui se soutienne par le développement du sujet ; les seules forces qui décident du sort des héros sont leurs passions, identifiées de plus en plus à la Fortune. Cette intuition de la psychologie individuelle nous semble l'un des aspects les plus intéressants de la pièce, par la suggestion – qui s'insinue malgré le ton optimiste que l'auteur veut donner à la fin, en représentant la victoire de l'individu sur les passions – que les forces déployées par l'homme pour enfreindre ses tendances irrationnelles sont extrêmement faibles. Par ailleurs, la dramaturgie de Racine va illustrer surtout ce côté de l'être humain dont le destin est décidé par la logique du cœur et non pas de la raison.
 
 
-#### Les passions au théâtre
+#### Les passions au théâtre.
 
 Au théâtre, l'émotion présente cette particularité qu'elle s'inscrit dans un processus circulaire : d'un côté, dans la construction des personnages on tient compte d'un ensemble de critères imposés par le public, de l'autre côté, le public doit partager les émotions que ressentent les personnages. Pour que la purgation des passions, l'argument essentiel en faveur de la moralité du théâtre, se produise l'identification héros - public est la première exigence ; en fait c'est dans ce sens que l'on parle de héros tragique idéal.
 
@@ -386,7 +386,7 @@ Au théâtre, l'émotion présente cette particularité qu'elle s'inscrit dans u
 Le texte aristotélicien qui traite des passions excitées par la tragédie, « une imitation (...) qui par l'entremise de la pitié et de la crainte, accomplit la purgation des émotions de ce genre » [80] (1449 b), n'est pas tout à fait clair, parce qu'on pourrait penser que la purgation concerne seulement la crainte et la pitié. Or notre pièce a comme but de purger des passions beaucoup plus diverse, la crainte et la pitié suscitées ne sont qu'un moyen. En fait, comme le montre John D. Lyons, l'expérience et l'émotion du spectateur sont qualitativement différentes de celles du personnages (la pitié ressentie par le spectateur n'est pas le reflet de la pitié du personnage, mais elle est provoquée par des émotions comme l'amour ou l'ambition) ; c'est plutôt la quantité d'émotion qui rapproche personnages et spectateurs. [81]
 
 
-### L'élocution
+### L'élocution.
 
 Marc Fumaroli est d'avis que les passions sont « moins des faits psychiques que des modes du verbe » [82], ce qui nous conduit vers la troisième partie de la rhétorique, l'élocution. Une fois acceptée l'analogie entre le personnage de théâtre et l'orateur, la question des styles employés par celui-là – en fait, maniés par le dramaturge – devient extrêmement importante, car, comme le montrait Quintilien, « un véritable orateur emploiera tous les genres de style » [83]. À cela s'ajoutent des exigences supplémentaires qui découlent des caractéristiques du texte théâtral, qui, selon Pierre Larthomas, doit être « le fruit d'un compromis entre le souci de concision d'une part, et d'autre part, la nécessité de mettre en valeur les éléments les plus importants ». [84]
 
@@ -409,7 +409,7 @@ STRATONICE : quoy, souffrir un amant ? (v. 1071-1076).
 Toutes les analyses que nous avons faites dans ce chapitre montrent qu'il y a une relation directe entre la réduction progressive de l'action et l'augmentation du spectacle des mots et de la structure ; la conscience des relations existantes entre théâtre et rhétorique tend à s'imposer de plus en plus aux dramaturges : « l'œuvre théâtrale des irréguliers, aussi bien que des réguliers ne peut se révéler qu'un texte d'application rhétorique. » [87]
 
 
-# Le jeu baroque et la découverte de soi
+# Le jeu baroque et la découverte de soi.
 
 L'époque à laquelle *Le Triomphe des cinq passions* est écrit se caractérise par le désir de constituer une esthétique à partir de tendances contraires, en mêlant des éléments apparemment incompatibles dans une seule vision. Le classicisme et le baroque y coexistent, ils « se regardent en ennemis, mais comme on le fait dans une famille, ils s'opposent avec un air fraternel » [88], une « esthétique du composite et du changement » [89] va de pair avec les exigences classiques de simplicité. Même la lutte entre régulier et irrégulier, loin d'être faite d'oppositions catégoriques, apparaît plutôt comme une évolution lente et sinueuse. Cette esthétique des années 1630-1640 est tout d'abord jugée moderne ; quoique les auteurs acceptent qu'il faut s'étayer sur le passé, l'argument de la nouveauté de leur création tend à l'emporter sur celui d'observance des règles imposées par la tradition. Ainsi, dans l'*Advertissement au lecteur* de la pièce, Gillet affirme : « J'ay pris mes mesures selon celles du Poëme Dramatique, et dans toute cette multitude je n'en ay choisi que cinq dont j'ay fait les cinq Actes », mais il soutient que « la liberté est la mere nourrice de la Poësie » et mentionne comme une qualité importante de sa pièce sa nouveauté.
 
@@ -420,7 +420,7 @@ D'un côté, c'est l'esthétique de la tragi-comédie – genre irrégulier, qui
 Afin de mettre en évidence la spécificité de la pièce, nous allons suivre ce qui rapproche *Le Triomphe des cinq passions* des aspects les plus caractéristiques de l'esthétique baroque.
 
 
-## Le théâtre de la conscience
+## Le théâtre de la conscience.
 
 L'une des innovations de la littérature baroque par rapport aux époques antérieures consiste dans une vision particulière du héros, qui n'apparaît plus comme un monolithe, en dehors de toute oscillation, mais qui est scindé, déchiré entre divers attitudes possibles et, le plus souvent, contraires. Cette perspective sur le moi correspond à (et dérive de) une vision générale du monde régie par des termes antinomiques et placée sous le signe de la décomposition. Comme le montre Adrian Marino,
 
@@ -445,7 +445,7 @@ La structure libre et mobile de l'œuvre est repérable aussi au niveau du conf
 Cependant, il faut moins chercher le naturel dans ce combat intérieur des personnages, car les mouvements de leur cœur se caractérisent plutôt par l'artificiel engendré par les codes de l'écriture. C'est toujours Alejandro Cioranescu qui est d'avis que « durante el periodo barroco, la naturaleza ha sido sustituida por el artificio, y la preocupación de la belleza por el espectáculo de las pasiones » [94] (« pendant la période baroque, le naturel a été remplacé par l'artifice et la préoccupation pour la beauté par le spectacle des passions », nous traduisons). Malgré la propension incontestable de cette littérature pour l'observation du jeu des émotions et pour l'analyse du soi, rien ne justifie qu'on y voie la conséquence d'une observation des faits, mais plutôt une pure fiction – tout d'abord rhétorique –, un produit de l'imagination qui revêt des formes préexistantes.
 
 
-## Le spectacle de la parole
+## Le spectacle de la parole.
 
 Il existe une sorte d'isomorphisme entre la manière de construire le sujet, en le fondant sur les conflits intérieurs des personnages, et le type de discours tenu par ceux-ci. Le langage est le pendant de cette conception dualiste du monde et du moi, la mobilité de la structure profonde des œuvres trouve son correspondant dans le dynamisme prononcé du style. Comme le remarque Adrian Marino, « le style devient inégal, dynamique, plein de *crescendo* et de *rinforzando*, fleuri, orné (...), dilaté, emphatique, avec une expression actuelle "redondant" » [95]. Ce qui n'est pas du tout étonnant si l'on tient compte du fait que les héros vivent moins par leurs actions que par leurs paroles ; le langage devient le miroir de leur déchirement et l'unique possibilité qu'ils ont d'envahir l'espace de l'autre, de le vaincre en l'influençant.
 
@@ -460,7 +460,7 @@ Chez Antioque, le langage de la passion rend encore plus frappantes les associat
 Le schéma antithétique se retrouve dans le discours de tous les héros du *Triomphe des cinq passions* ; au théâtre de la conscience correspond ce spectacle de la parole, réflexe d'un plaisir de la figuration et de l'ostentation.
 
 
-## Le théâtre dans le théâtre
+## Le théâtre dans le théâtre.
 
 Le plaisir de cultiver l'illusion et le dédoublement, la propension à tout ce qui signifie spectacle et théâtralité devaient aboutir à une forme extrême où les apparences, élevées au rang de réalité possible par leur insertion directe dans le monde sensible, sont cultivées de la manière la plus ostentatoire, le théâtre dans le théâtre. Par ce procédé, le théâtre se réfléchit dans son propre miroir [96], le dramaturge se donnant le plaisir de penduler entre les deux niveaux différents de la réalité et de la fiction, de jouer à proprement parler avec ses créations. De même, « la pièce intérieure est la forme proprement théâtrale du dédoublement ; le spectacle devenant lui-même spectacle, le théâtre joue à ce jeu de miroirs qu'est la ressemblance. » [97]
 
@@ -469,7 +469,7 @@ Par ailleurs, la fréquence du procédé à l'époque est à mettre en relation 
 Forme auto-réflexive du théâtre, le procédé se développe surtout lorsque le genre a atteint un certain épanouissement, nécessaire pour qu'il mette en discussion sa propre condition et qu'il veuille d'un côté se justifier et de l'autre accentuer sa valeur et l'importance de sa mission : « (...) le théâtre après 1630 atteint une sorte d'âge adulte ; il est naturel qu'il se regarde, se discute, se disculpe, se demande ce qu'il est ; c'est pourquoi le sujet de la comédie, c'est la comédie même. » [99] En fait, le modèle du *Triomphe des cinq passions, L'Illusion comique* de Corneille, est premièrement une apologie du théâtre, un éloge de cet art emblématique du XVII*e* siècle ; la plaidoirie d'Alcandre, dans la dernière scène de la pièce en est la meilleure preuve : « Cessez de vous en plaindre : à présent le théâtre / Est en un point si haut qu'un chacun l'idolâtre, / Et ce que vos temps voyait avec mépris / Est aujourd'hui l'amour de tous les bons esprits » [100]. La même idée revient, bien que moins accentuée, dans la pièce de Gillet, où Arthémidore s'exclame devant les représentations que l'Enchanteur lui offre : « Miracle des esprits et du siècle où nous sommes » (v. 466).
 
 
-### La structure du *Triomphe des cinq passions*
+### La structure du *Triomphe des cinq passions*.
 
 Dans la pièce de Gillet le procédé du théâtre dans le théâtre occupe une place centrale, puisque les pièces enchâssées ne sont pas de simples épisodes à l'intérieur de la pièce grande, mais elles la fondent, le cadre ne représentant que six scènes où les deux personnages-spectateurs premièrement fixent par une discussion les données de départ et ensuite commentent les actions jouées. On a appelé ce type de disposition « structure chorale » [101], y voyant l'héritage de la technique d'encadrement propre au chœur, avec la seule différence que les personnages qui avaient la fonction d'encadrement ont été intégrés dans l'action proprement dite de la pièce. Les pièces enchâssées ne sont pas à proprement des pièces où jouent des acteurs, mais des représentations magiques – point commun avec *L'Illusion comique* – qui font paraître des personnages historiques considérés comme réels ; ce que l'Enchanteur montre à Arthémidore n'est pas une suite de fictions qui tiennent pour pièces de théâtre, mais des fragments de l'existence des héros tirés des enfers.
 
@@ -485,7 +485,7 @@ Gillet ayant mise en scène dans cette tragi-comédie cinq « histoires » dif
 Les considérations sur l'espace et la temporalité nous mènent à un questionnement nécessaire sur le statut de la fiction dans ce type de structure qu'est le théâtre dans le théâtre, tenant compte du fait que la multiplication des niveaux des récepteurs a des implications immédiates sur la réception.
 
 
-### Le statut de la fiction théâtrale
+### Le statut de la fiction théâtrale.
 
 L'emploi du procédé du théâtre dans le théâtre fait qu'il existe toujours dans la pièce deux niveaux théâtraux différents, ce qui donne au spectateur de la salle une double perspective ; il voit à la fois les représentations intérieures et les spectateurs fictionnels. Cela ne peut rester sans conséquences pour le spectateur réel ; voyant figurer dans la fiction dramatique son rôle – qui en principe n'appartient pas à cet univers, puisqu'il n'est pas sujet de la fiction théâtrale instituée [104]–, il commence à douter de la « réalité » de la représentation. Ce qui revient à dire que l'apparition de la pièce enchâssée et la délimitation claire du cadre engendrent un doute profond sur l'idée même d'illusion ; leur existence montre à tout instant d'une façon explicite au spectateur extérieur qu'il assiste à une représentation théâtrale.
 
@@ -494,7 +494,7 @@ Gérard Genette signale que dans le cas de la fiction dramatique les échanges d
 La présence sur scène d'Arthémidore et de l'Enchanteur, acteurs et spectateurs en même temps, fait signe seulement pour le spectateur de la salle, qui a une perspective privilégiée ; théoriquement, les deux n'entrent pas dans ce jeu à la frontière fiction-réalité, les évocations magiques étant acceptées comme telles dès le début. Cependant, la fin de la pièce réalise une projection intéressante du monde fictionnel peuplé par les deux personnages et la réalité immédiate, celle du spectateur/du lecteur de la pièce ; Arthémidore apparaît dans l'hypostase du dramaturge (pendant les cinq représentations, c'est plutôt l'Enchanteur qui joue ce rôle) qui écrit la pièce qu'on vient de voir / de lire. L'identité se soutient aussi par le conseil qu'on lui donne : « Descris-en par tes vers les beautez sans pareilles, / Afin que nos neveux un jour en les lisant, / Y puissent rencontrer l'utile et le plaisant » (v. 2003-2005), or dans l'*Advertissement au lecteur* Gillet invoque ce précepte horatien, qu'il considère comme le principe de la conception de sa pièce. Cela équivaut à une mise en abîme, car l'œuvre y trouve son image réfléchie ; c'est comme une sorte de retour au point de départ, dans le réel, ayant le rôle d'apporter une nouvelle perspective. Partant, l'idée même d'œuvre dramatique est mise en question, et le dramaturge renforce ainsi le caractère moral de sa pièce, qui apparaît comme la suite d'une initiation à la connaissance et à la maîtrise de soi et comme une possible école de la vertu.
 
 
-### Significations
+### Significations.
 
 *Le Triomphe des cinq passions* entre, tout comme *L'Art de régner* et leur modèle absolu, *L'Illusion comique*, dans la catégorie des « comédies initiatiques » [107], ce qui a des implications au niveau de la distributions des rôles et de leur signification symbolique. Évidemment, les deux pièces de Gillet perdent beaucoup, en comparaison avec leur modèle cornélien, à cause du côté pédagogique extrêmement mis en relief ; en plus, dans *L'Illusion comique* le théâtre dans le théâtre ne reste pas seulement un procédé, employé d'une façon maniériste, il correspond à une vision plus générale du monde comme théâtre et de l'existence comme une suite des rôles à jouer. Même au niveau de la construction il y a des différences, puisque *L'Illusion comique* présente à l'intérieur de l'évocation magique une pièce de théâtre qui n'est dénoncée comme telle qu'à la fin, ce qui annule d'une certaine manière le type de dénégation dont nous avons parlé ou, en tout cas, le rend plus subtile.
 
@@ -507,12 +507,12 @@ Dans *Le Triomphe des cinq passions* la démarche de l'Enchanteur est moins psyc
 Cependant, dans les pièces de Gillet on est frappé par l'artificialité du processus de révélation de soi dont le héros est sujet. L'auteur ne semble pas préoccupé de donner une vraie vie au personnage, se contentant de le réduire à un schéma, or c'est justement ce que Corneille avait su éviter dans sa pièce ; même la constance avec laquelle, après chaque représentation, Arthémidore en montre l'effet bénéfique sur son esprit commence à sentir l'artificiel. La confiance trop grande dans l'efficacité du discours peut nuire à l'œuvre dramatique lorsque les paroles, à force d'être trop souvent répétées dans des structures figées, perdent beaucoup de leur signification.
 
 
-# À la recherche d'une esthétique
+# À la recherche d'une esthétique.
 
 Les années 1630-1640 représentent une période très importante pour la constitution de l'idéal esthétique classique ; c'est maintenant que les règles commencent à être discutées, justifiées et, surtout après 1637, à s'imposer pour tous les genres. C'est une période intéressante aussi par la variété de genres dramatiques qui se développent ; la tragédie n'avait pas encore gagné la bataille et par exemple entre 1630 et 1642 on écrit plus de tragi-comédies que de tragédies ou de comédies [113]. Mais à l'intérieur même du genre de la tragi-comédie il y a une évolution qui suit celle de la littérature en son ensemble, de manière que cette « citadelle des irréguliers » [114], comme on la considère d'habitude, va prendre parfois des formes inhabituelles, qui l'approchent plutôt de la tragédie. D'ailleurs, *Le Triomphe des cinq passions* n'est nullement une tragi-comédie typique, et sa structure particulière fait que des éléments appartenant à un type d'esthétique se combinent avec d'autres complètement différents, ainsi que le résultat est une interférence d'esthétiques. Nous allons mettre en évidence par quels aspects la pièce correspond aux exigences de la tragi-comédie (quoiqu'en fait on ne puisse pas parler d'un seul modèle du genre, mais d'une évolution de la conception sur la tragi-comédie) et, de même, comment elle témoigne d'une époque où les discussions sur la constitution d'une poétique et la nécessité d'obéir aux règles étaient au centre des préoccupations des écrivains et des théoriciens (dans ce sens, une étude du type de discours préfaciel qui accompagne la pièce sera nécessaire).
 
 
-## Entre la tragi-comédie et la tragédie
+## Entre la tragi-comédie et la tragédie.
 
 C'est toujours le baroque qui institue la préférence pour les genres mixtes comme la tragi-comédie, et les auteurs qui la cultivent mettront en valeur ses vertus de mouvement et d'accumulation, qui vont à l'encontre de la tradition tragique des Anciens ; d'ailleurs, cette esthétique, développée aux années 1630, va se faire du modernisme déclaré un titre de gloire. [115] Sans que cela exclue le désir de se légitimer à partir de la tradition antique ; La Mesnardière, par exemple, remonte au temps pour trouver les origines de la tragi-comédie, dont il dit que c'est un « nom usité chez les Romains, et inventé utilement, puis qu'il signifie fort bien "une Aventure de Théatre, où les malheurs sont effacez par quelque bon événement". » [116]
 
@@ -535,7 +535,7 @@ Montrant que la pièce de Gillet va à l'encontre de ce qu'on a appelé « l'é
 La tragi-comédie reste un genre qui a une signification esthétique, aussi bien que sociologique, importante ; quelques soient les formes qu'elle revêt, plus irrégulières ou plus proches des exigences de la tragédie, elle « n'est pas seulement le fruit d'une mode, mais aussi la preuve d'une croyance dans le théâtre comme spectacle total, tel que la vie tout entière. » [123]
 
 
-## Essai de légitimation – le discours préfaciel
+## Essai de légitimation – le discours préfaciel.
 
 Il est intéressant d'étudier la fonction de l'*Advertissement au lecteur* du *Triomphe des cinq passions* parce qu'il contient des allusions polémiques à certaines positions critiques existantes à l'époque de la formation de l'esthétique classique. De même, ce type de préface montre le fonctionnement de la relation entre l'écrivain et le lecteur, aspect important de la dimension pragmatique de l'œuvre.
 
@@ -558,7 +558,7 @@ Je ne parleré point de l'invention du subjet, bien qu'il ne fut pas hors de pro
 Le dernier argument reste celui de la nouveauté, ce qui montre que, tout régulier que l'auteur s'est efforcé de devenir, il tient encore pour très important ce principe de modernité de sa création. Son chemin est en fait celui de la littérature de son époque dans son ensemble, évoluant de la liberté baroque vers la contrainte classique, mais gardant la nostalgie et les traces de l'autre option possible. La tragi-comédie demeure le genre qui reflète de la manière la plus fidèle les hésitations d'une époque et les idéaux d'une génération, dont Gillet, tout en restant un représentant obscur, exprime la préoccupation principale de trouver l'esthétique la plus appropriée au goût du temps.
 
 
-# Conclusion
+# Conclusion.
 
 L'étude que nous avons consacrée au *Triomphe des cinq passions* de plusieurs perspectives – de la rhétorique et des règles du classicisme, aussi bien que de l'esthétique baroque – nous a conduit à reconnaître dans cette pièce la coexistence de différentes esthétiques, ce qui témoigne d'une tentative de cristallisation d'une préoccupation pour trouver la formule parfaite du spectacle théâtral.
 
@@ -567,7 +567,7 @@ Membre d'une génération qui ressent l'orgueil de sa mission – celle de forge
 *Le Triomphe des cinq passions* est une pièce intéressante pour l'histoire littéraire, parce qu'elle illustre une étape dans l'évolution de la doctrine classique ; de même, elle contient des suggestions qui auraient pu engendrer une œuvre réfléchissant d'une manière beaucoup plus vraisemblable la réalité profonde et inquiétante de la personnalité humaine. Le style trop précieux et artificiel, soumis presque complètement à la tyrannie des tirades, nuit considérablement à la valorisation de la pièce, tout comme le manque du souci de motiver les décisions des personnages. Intéressante par sa structure, la pièce le devient aussi par la façon dont elle exploite les sources historiques partant d'une perspective mise constamment en relief, celle de l'homme victime de la passion, négation de l'image du héros.
 
 
-# Note sur le texte
+# Note sur le texte.
 
 Il existe une seule édition du *Triomphe des cinq passions*, de 1642 : LE / TRIOMPHE / DES CINQ / PASSIONS. / TRAGI-COMEDIE. / A PARIS, / Chez TOUSSAINCT QUINET, au Palais, / dans la petite Salle, soubs la montée de la / Cour des Aydes. / M.DC.XLII. / AVEC PRIVILEGE DU ROY.
 
@@ -586,7 +586,7 @@ Bibliothèque de l'Arsenal : Rf. 6.194(5).
 Nous discuterons les différents problèmes que pose le texte en fonction des niveaux auxquels ils apparaissent.
 
 
-## Ponctuation
+## Ponctuation.
 
 Nous avons conservé la ponctuation de l'édition de 1642, qui est extrêmement différente de la ponctuation moderne, parce qu'elle avait une valeur rythmique, voire musicale. Les caractéristiques que nous allons mettre en évidence soutiennent l'observation que « le XVII*e* siècle est, tout comme le précédent, persuadé que la ponctuation a une fonction exclusivement orale. » [127] Les signes de ponctuation ont le rôle de marquer les pauses du discours et non pas de séparer les ensembles syntaxiques. A cette fin on emploie un système mixte, à quatre termes – virgule, point-virgule, deux-points, point – ayant, dans cette ordre, des différences de degré.
 
@@ -617,7 +617,7 @@ Nous avons supprimé les deux-points dans le vers 833 et nous les avons remplac�
 Nous avons introduit le point d'interrogation dans le vers 623, après l'adverbe interrogatif *où*, à la fin du vers 1535, 1811 et nous l'avons remplacé par le point d'exclamation dans le vers 625, par le point dans le vers 834 et par la virgule dans les vers 835, 962. Nous avons introduit le point d'exclamation après *quoy* dans le vers 1695.
 
 
-## Graphie
+## Graphie.
 
 Nous avons conservé la graphie de l'édition de 1642, qui présente beaucoup de différences par rapport à la norme actuelle. La première moitié du XVII*e* siècle est une époque où l'orthographe n'était pas encore fixe, ce qui explique la grande liberté graphique et les nombreuses variantes que l'on retrouve dans le texte. Analysant les orthographes différentes par rapport aux orthographes qui se sont imposées en français moderne on peut inventorier quelques traits récurrents :
 
@@ -644,12 +644,12 @@ Archaïque, cette graphie qui multiplie les variantes présente parfois des cas 
 Il y a quelques éléments par lesquels nous avons modernisé la graphie : nous avons distingué *i* et *u* voyelles des consonnes *j*, respectivement *v*, qui présentaient la même graphie à l'époque. De même, nous avons décomposé la ligature (*&*) en *et, ß* en* ss*, ~ en *m* ou en *n*.
 
 
-## Corrections
+## Corrections.
 
 Nous avons apporté les modifications suivantes au texte :
 
 
-### Advertissement au lecteur
+### Advertissement au lecteur.
 
 Premier paragraphe, ligne 7dequoy=de quoy
 
@@ -660,14 +660,14 @@ Premier paragraphe, ligne 31appatient=appartient
 Sixième paragraphe, ligne 8mervellleux=merveilleux
 
 
-### Argument du premier acte
+### Argument du premier acte.
 
 Ligne 8 :qu'il le=qui le
 
 Ligne 23 :sindeese=sinderese
 
 
-### Acte I*er*
+### Acte I*er*.
 
 v. 10Sus=Sur
 
@@ -722,7 +722,7 @@ v.367Dequoy=De quoy
 v. 415s'en=c'en
 
 
-### Argument du II*e* acte
+### Argument du II*e* acte.
 
 Ligne 6un ambition=une ambition
 
@@ -733,7 +733,7 @@ Ligne 15qui le =qu'il le
 Ligne 19ce=ces
 
 
-### Acte II
+### Acte II.
 
 v. 449anthipaties=antipathies
 
@@ -782,7 +782,7 @@ v. 809est tu=es tu
 v. 823L'as=Là
 
 
-### Argument du III*e* acte
+### Argument du III*e* acte.
 
 Ligne 6c'est=cest
 
@@ -791,7 +791,7 @@ Ligne 17la pareil=l'appareil
 Ligne 20montre=monstre
 
 
-### Acte III
+### Acte III.
 
 v. 898ces=ses
 
@@ -822,12 +822,12 @@ v. 1231l'a=la
 v. 1233le pareil=l'appareil
 
 
-### Argument du IV*e* acte
+### Argument du IV*e* acte.
 
 Ligne 9blesla=blessa
 
 
-### Acte IV
+### Acte IV.
 
 v. 1280causoit=causoient
 
@@ -864,7 +864,7 @@ v. 1571conjure=conjuré
 v. 1584un ardeur=une ardeur
 
 
-### Argument du V*e* acte
+### Argument du V*e* acte.
 
 Ligne 12fugif=fugitif
 
@@ -873,7 +873,7 @@ Ligne 15deluy=de luy
 Ligne 15mouvant=mourant
 
 
-### Acte V
+### Acte V.
 
 v. 1600ou=où
 
@@ -946,10 +946,10 @@ Toutes les questions de grammaire qui représentent des différences du système
 Les mots qui n'existent plus en français contemporain, ceux qui sont ressentis aujourd'hui comme vieux ou qui avaient d'autres acceptions au XVII*e* siècle figurent dans le glossaire et un astérisque après chaque occurrence dans le texte y marque leur présence.
 
 
-# Le Triomphe des cinq passions TRAGI-COMÉDIE
+# Le Triomphe des cinq passions TRAGI-COMÉDIE.
 
 
-## A MONSIEUR D'HEMERY CONSEILLER DU ROY EN SES CONSEILS , ET INTENDANT DE SES FINANCES [128]
+## A MONSIEUR D'HEMERY CONSEILLER DU ROY EN SES CONSEILS , ET INTENDANT DE SES FINANCES [128].
 
 MONSIEUR,
 
@@ -987,7 +987,7 @@ Je ne parleré point de l'invention du subjet, bien qu'il ne fut pas hors de pro
 Adieu, pardonne-moy les fautes d'Impression, que mes affaires ne m'ont pas donné le loisir de corriger.
 
 
-## Privilege du roy
+## Privilege du roy.
 
 LOUIS PAR LA GRACE DE DIEU, ROY DE FRANCE ET DE NAVARRE : A nos amez et feaux Conseillers les gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, et à tous autres de nos Justiciers et Officiers qu'il appartiendra, Salut. Nostre cher et bien aimé TOUSSAINCT QUINET, Marchand Libraire de nostre bonne ville de Paris. Nous a fait remonstrer qu'il desireroit faire Imprimer une piece de Theatre intitulees, *Le Triomphe des cinq Passions* : Ce qu'il ne peut faire sans avoir sur ce nos Lettres, humblement nous requerant icelles. A CES CAUSES, desirant traitter favorablement ledit exposant, Nous luy avons permis et permettons par ces presentes, de faire Imprimer, vendre et debiter en tous les lieux de nostre obeyssance ledit Livre, en telles marges, en tels caractères, et autant de fois que bon luy semblera, durant l'espace de cinq ans entiers et accomplis, à compter du jour qu'il sera achevé d'Imprimer pour la premiere fois. Et faisons tres-expresses defences à toutes personnes de quelque qualité et condition qu'elles soient, de l'imprimer ou faire imprimer, vendre ny debiter durant ledit temps, en aucun lieu de nostre obeyssance sans le consentement de l'exposant, soubs pretexte d'augmentation, correction, changement de titre, fausses marques, ou autres en quelque sorte ou maniere que ce soit: A peine de trois mil livres amende payables sans déport, et nonobstant oppositions ou appelations quelconques par chacun des contrevenans, appliquable un tiers à nous, un tiers à l'Hostel Dieu de nostre bonne ville de Paris, et l'autre tiers audit exposant, confiscation des exemplaires contrefaits, et de tous despens, dommages et interests : A condition qu'il sera mis deux exemplaires en blanc de seits livres en nostre Biblioteque publique, et un en celle de nostre tres cher et feal le sieur Seguier Chevalier, Chancelier de France, avant que de les exposer en vente, à peine de nullité des presentes : Du contenu desquelles, Nous vous mandons que vous fassiez joüyr et user plainement et paisiblement ledit exposant, et tous ceux qui auront droit de luy, sans qu'il leur soit donné aucun trouble ny empeschement. Voulons aussi qu'en mettant au commencement ou à la fin dudit Livre, un extraict des presentes, elle soit tenuës pour deuëment signifies, et que foy y soit adjoustee, et aux coppies collationnees par l'un de nos amez et feaux Conseillers et Secretaires comme aux Originaux. Mandons au premier nostre Huissier ou Sergent sur ce requis, de faire pour l'expedition des presentes tous exploicts necessaires, sans demander autre permission CAR TEL est nostre palisir, nonobstant clameur de Haro, Chartres Normande, et autres Lettres à ce contraires. Donné à Paris le vingt-septiesme jour de Fevrier, l'an de grace mil six cens quarante deux ; et de nostre regne le trente deuxieseme. Par le Roy en son Conseil.
 
@@ -1001,7 +1001,7 @@ Achevé d'imprimer pour la premiere fois le dernier Juin 1642.
 ## PERSONNAGES. des cinq Passions.
 
 
-### PREMIER ACTE
+### PREMIER ACTE.
  – L'Enchanteur.
  – ArthemidoreGentil-homme Grec.
  – ManlieCapitaine Romain.
@@ -1047,7 +1047,7 @@ La Scene est dans Athenes.
 
 
 
-## ARGUMENT DU PREMIER ACTE
+## ARGUMENT DU PREMIER ACTE.
 
 Arthemidore Gentil-homme Grec ayant l'esprit embarassé de vaine gloire, d'ambition, d'amour, de jalousie, et de fureur, va trouver un sçavant Enchanteur qui demeuroit en la ville d'Athenes, et le priant de le guerir des douleurs qui le tourmentoient, luy descouvre sa blessure, et luy declare ingenuëment sa foiblesse, lors l'Enchanteur tasche de le
 
@@ -1248,7 +1248,7 @@ Mais Dieux, de quel combat mon cœur est assailly,
 Je le voy qui s'approche avec toute sa suite.   
 
 
-### SCENE III
+### SCENE III.
 MANLIE, LE FILS, ARPHACE, et leur suitte.
 
 
@@ -1433,7 +1433,7 @@ Donne ta teste
 
 ### SCENE IV.
 
-    MANLIE, *seul.*
+    MANLIE, *seul.*.
         Monstre toy mon courage,  
 C'est dedans [170] cest assaut qu'il faut vaincre ou perir,  
 Et c'est toy seul qui peux me perdre ou me guerir,  
@@ -1538,7 +1538,7 @@ Au poinct de perdre un fils, et ce doux nom de pere,
 Et se peut-il enfin que vous ayez signé,  
 Le trespas⁎ d'un enfant si sage et si bien né,  
 
-    MANLIE, *disant les trois* [178]* premiers vers bas.*
+    MANLIE, *disant les trois* [178]* premiers vers bas.*.
 Elle pleure mon fils, et moy je le regrette,  
 Mais cachons par honneur la faute que j'ay faicte.  
 Oüy, Madame, il se peut, et vous le pouvez veoir,  
@@ -1596,7 +1596,7 @@ Vostre devoir aussi vous force à le deffendre,
 Puisque quoy qu'il en soit, c'est faire laschement,  
 Que de suivre des loix faictes injustement;  
 
-    MANLIE, *disant les trois premiers vers bas.*
+    MANLIE, *disant les trois premiers vers bas.*.
 Ah! Dieux que de douleur je sens à me contraindre!  
 Va-t'en, maudit honneur, je ne sçaurois plus feindre,  
 Tu m'as faict trop souffrir, non, non, je veux parler,  
@@ -1621,7 +1621,7 @@ Envoyez promptement,
 MANLIE, HARMENIE, ARPHACE, IPSICRATE.
 
 
-    ARPHACE, *voyant venir Ipsicrate.*
+    ARPHACE, *voyant venir Ipsicrate.*.
 Ah! Sire, c'est en vain qu'un remord vous travaille,  
 
     MANLIE.
@@ -1745,7 +1745,7 @@ Va, tu m'obligeras,
     PHILOCTATE.
         je vous obeyré :  
 
-    PHARASMANE, *seul.*
+    PHARASMANE, *seul.*.
 Infame ambition, seul tyran de ma vie,  
 Qui m'a soufflé dans l'ame une maudite envie,  
 Et qui m'a fait reduire un frere au dernier poinct,  
@@ -1824,7 +1824,7 @@ Le veoir et luy parler, et approchons c'est luy.
 PHARASMANE, MITRIDATE, PARTHENIE, PHILOCTATE
 
 
-    MITRIDATE, *au haut d'une Tour.*
+    MITRIDATE, *au haut d'une Tour.*.
 Pharasmane, advancez, non pas comme adversaire,  
 Mais comme un sage Prince ou plustost comme un frere,  
 Souffrez que la pitié vous conduise en ces lieux  
@@ -1937,7 +1937,7 @@ M'obligea d'en monstrer quelque recentiment⁎,
 Et me persuada de venir en personne  
 Pour venger un affront,  
 
-    MITRIDATE, *il s'en va tout en colere.*
+    MITRIDATE, *il s'en va tout en colere.*.
         pour m'oster la Couronne ;  
 Mais je ne me plains point de cette trahison,  
 Puisque dans peu les Dieux m'en feront la raison⁎.  
@@ -2067,11 +2067,11 @@ Mais quand j'auray demain le Sceptre que j'espere
 Je ne connoistray plus de souverain que moy  
 Et vous vous souviendrez de n'estre plus mon Roy,   
 
-    PHARASMANE, *bas en se promenant.*
+    PHARASMANE, *bas en se promenant.*.
 Je voulois le prier pour le repos d'un frere,  
 Mais je ne puis icy retenir ma colere,  
 
-    RADAMISTE, *bas à Orcas.*
+    RADAMISTE, *bas à Orcas.*.
 Orcas en attendant que son feu⁎ passera,  
 Sortez avec Philon, faictes ce qu'il dira,  
 Prenez mil des miens pour joindre à ces deux mille  
@@ -2079,7 +2079,7 @@ Que j'avois faict armer pour entrer dans la ville
 Qu'ils y portent la mort de l'un à l'autre bout,  
 Qu'ils pillent tous les biens, et qu'ils saccagent tout,  
 
-    PHARASMANE, *bas en se promenant.*
+    PHARASMANE, *bas en se promenant.*.
 Non, ne le prions point, et quoy qu'il en advienne [207],  
 Parlons luy librement, que rien ne nous retienne :  
 Oüy, c'est trop me contraindre, il est temps d'esclatter :  
@@ -2128,7 +2128,7 @@ Et t'envoyer les maux que tu nous fais souffrir.
 
 ### SCENE V.
 
-    RADAMISTE, *restant avec sa suitte.*
+    RADAMISTE, *restant avec sa suitte.*.
 He bien ! nous perirons quand il faudra perir,  
 Je prepare mon ame aux plus rudes tempestes,  
 Que le ciel en couroux verse dessus nos testes,  
@@ -2191,13 +2191,13 @@ Que l'un de tes soldats les estouffe tous deux !
     ORCAS.
 Cruel commandement, Sire,  
 
-    RADAMISTE. 
+    RADAMISTE.
         point de replique.  
 
 
 ### SCENE VII.
 
-    RADAMISTE, *seul.*
+    RADAMISTE, *seul.*.
 Va viste, c'est ainsi qu'un conquerant s'explique,  
 Il doit par la rigueur appuyer ses projets,  
 Et loger la frayeur au sein de ses sujets,  
@@ -2354,7 +2354,7 @@ Je veux ce qui vous plaist, et mes vœux sont contens.
 
 ### SCENE II.
 
-    ANTIOQUE, *seul sur un lict.*
+    ANTIOQUE, *seul sur un lict.*.
 Enfin je me voy seul et las⁎ de me contraindre,  
 Je puis en liberté souspirer et me plaindre :  
 Je puis m'entretenir avecque mes douleurs,  
@@ -2442,17 +2442,17 @@ He bien ! que me veux-tu,
 Qui par un Page exprés vient d'envoyer sçavoir  
 Si vous vous portez mieux, et si l'on peut vous voir,  
 
-    ANTIOQUE, *bas.*
+    ANTIOQUE, *bas.*.
 Ignore-t'elle un mal dont elle fut la cause [222],  
 
     PERICLES.
 Que dira-t'on Seigneur,  
 
-    ANTIOQUE, *apres avoir resvé quelque temps.*
+    ANTIOQUE, *apres avoir resvé quelque temps.*.
         dis luy que je repose,  
 Que mon mal est plus grand qu'il n'a jamais esté,  
 
-     PERICLES, *en s'en allant.*
+    PERICLES, *en s'en allant.*.
 Bien, Seigneur,  
 
     ANTIOQUE.
@@ -2614,7 +2614,7 @@ J'aurois esteint sans doute une flâme⁎ incensee⁎,
     ANTIOQUE.
 Encor par quel moyen ?  
 
-    SRATONICE, *en s'en allant.*
+    SRATONICE, *en s'en allant.*.
         par mon esloignement,  
 
     ANTIOQUE.
@@ -2635,7 +2635,7 @@ Je voudrois le punir,
         hé bien ! punissez-moy,  
 Je suis ce malheureux ou plustost ce coupable.  
 
-    STRATONICE, *en s'en allant.*
+    STRATONICE, *en s'en allant.*.
 Ah ! Monsieur,  
 
     ANTIOQUE.
@@ -2655,7 +2655,7 @@ Et je dois bien mourir puisque vostre colere
 M'apprend que mon amour commence à vous desplaire,  
 Car enfin je vous aime et vous connoissez bien.  
 
-    STRATONICE, *en s'en allant.*
+    STRATONICE, *en s'en allant.*.
 Adieu, n'achevez point,  
 
     ANTIOQUE.
@@ -2806,10 +2806,10 @@ Il est vray,
     EROSTRATE.
         quels objets avez vous veu ce jour ?  
 
-    ANTIOQUE, *bas.*
+    ANTIOQUE, *bas.*.
 Sans doute il sçait mon mal,  
 
-    EROSTRATE, *bas.*
+    EROSTRATE, *bas.*.
         sans doute c'est l'amour,  
 Et je viens maintenant de veoir sortir la Reyne,  
 Feignons bien, mais Seigneur, tirez moy donc de peine,  
@@ -2831,7 +2831,7 @@ Confessez donc, Seigneur, que la Reyne a des charmes
 Qui sont depuis long-temps le sujet⁎ de vos larmes,  
 Et que c'est son amour qui cause vos langueurs⁎,  
 
-    ANTIOQUE, *bas.*
+    ANTIOQUE, *bas.*.
 Ce n'est pas son amour, mais ce sont ses rigueurs,  
 Puis qu'elle vient encor d'en advertir mon pere,  
 Mais feignons, [236] sçavez vous qu'elle est ma belle mere,  
@@ -2865,7 +2865,7 @@ Ne te monstre jamais,
 
 ### SCENE VII.
 
-    ANTIOQUE, *seul.*
+    ANTIOQUE, *seul.*.
         Il voulait feindre en vain,  
 Et j'ay bien reconnu quel estoit son dessein,  
 Mais Dieux, mon pere sçait que j'aime Stratonice :  
@@ -3105,7 +3105,7 @@ C'est un trait de perdu, n'importe,
 EMILIE, MARTIANE, ALPHEE, PHALANTE, MEGISTE.
 
 
-    MARTIANE, *sortant du bocage.*
+    MARTIANE, *sortant du bocage.*.
         ah ! miserable,  
 
     EMILIE.
@@ -3442,7 +3442,7 @@ Viens aussi le conclure avec ton sentiment,
 
 ### SCENE II.
 
-    BISATHIE, *seule.*
+    BISATHIE, *seule.*.
 Ouy, j'aimay ce perfide, et dans ma flâme⁎ extréme,  
 Il m'estoit plus sensible et plus cher que moy-méme,  
 Je le crus plus charmant qu'il n'est digne d'horreur,  
@@ -4016,7 +4016,7 @@ Afin que nos neveux un jour en les lisant,
 Y puissent rencontrer l'utile et le plaisant.  < FIN. >
 
 
-# Glossaire
+# Glossaire.
 
 Les sources pour l'élaboration du glossaire :
  * *Le Dictionnaire de l'Académie Française*, Paris, Jean-Baptiste Coignard, 1694, 2 tomes, abrégé : A.
@@ -4027,7 +4027,7 @@ Les sources pour l'élaboration du glossaire :
  * PAUL ROBERT, *Le Grand Robert de la langue française*, Paris, Le Robert, 1985, 9 tomes, abrégé : GR.Abonder"On dit fig. qu'un homme *abonde en son sens* pour dire qu'il est trop bien persuadé de ses opinions et qu'il ne veut jamais s'en rapporter au sentiment des autres" (F.)V. 646Accroire"Faire croire à quelqu'un une chose fausse", "tromper "(F.)V. 1109Admirer"Regarder avec étonnement quelque chose de surprenant, ou dont on ignore les causes"(F.), sens faible plus proche du sens étymologiqueAdveu"Protection, ordre ou consentement donné"(F.)V. 1488Advouer"Autoriser une chose, déclarer qu'on l'approuve, soit qu'elle ait été faite par notre ordre ou non" (A.)"Reconnaître pour sien, protéger" (F.)Dédicace, v. 222, 1191Affronteur"Qui trompe" (F.)V. 1648, 1818Aigrir"Piquer, mettre en colère. *Le mal s'aigrit, résiste aux remèdes*." (F.)V. 508, 986, 1407Alantir"Rendre plus lent, moins ardent, moins vif" (R.)V. 802, 1334Alarme"Une émotion causée par les ennemis. *L'alarme est au camp.*" (A.)V. 188, 370Allegeance"Soulagement d'un mal" (F.)V. 1752Amant"« Qui aime et qui est aimé » (R. 80), prétendant, mais agrée par la jeune fille, fiancé", "il se distingue de l'« amoureux », qui aime sans être aimé" (C.). On trouve pourtant le sens minimal : "« qui aime d'amour une personne d'autre sexe » (A.) et désire en être aimé ; amoureux, adorateur, soupirant, prétendant, sans nuance défavorable" (C.)V. 918, 1076, 1242, 1620, 1637, 1810, 1896AmitiéSens très fort : "« affection qu'on a pour quelqu'un » (F.90), pour un fils, un père, un mari, etc." (C.)V. 408, 1865Antipathie"Défaut d'affinité (entre deux substances). *Antipathie entre l'eau et l'huile*." (GR.)V. 450Appareil"En termes de chirurgie, se dit de la première application d'un remède sur une plaie qu'on pense" (F.)Argument du troisième acte, v. 1233Appas"Ce qui sert à attraper les hommes, à les inviter à faire quelque chose" (F.) ; "attraits, charmes" (GR.)"Beauté, agrément" (R.), "les charmes d'une femme qui excitent le désir masculin" (GR.)V. 849, 1027, 1138, 1150, 1664, 1714Ardeur"Désir. *Les ardeurs de l'amour, de la passion.* (...) *ardeur* au sens d'« amour » est très fréquent dans la langue classique, notamment au XVII*e* s." (GR.)V. 1033, 1560, 1584, 1879Arrest"Jugement ferme et stable d'une puissance souveraine" (F.)V. 129, 153, 1900Aspect"Vue, présence de quelqu'un, de quelque chose. Il* tremble à l'aspect de son maître.*" (A.) ; "vue, regard" (R.)V. 713, 961Assiette"Se dit fig. en choses spirituelles et morales. *Quelque fortune ou adversité qui arrive à un Stoïque, son esprit demeure toujours en une même assiette, on ne peut pas ébranler sa fermeté, l'assiette de son âme.*" (F.)V. 1979Assister"Porter secours à quelqu'un" (F.)V. 605Beau"Se prend aussi substantivement. *Il est au plus beau de son âge*." (A.)V. 296Bocage"Petit bois ou bosquet ou buisson. Il se dit des bois touffus et agréables, et de petite étendue" (F.)Argument du quatrième acteCause"Principe, ce qui fait qu'une chose est. (...) On appelle Dieu absolument et par excellence *Cause première*"(A.)V. 1971Celer"Tenir quelque chose cachée, secrète, dissimuler" (F.)V. 404, 677, 1203Cheoir"Tomber" (F.)V. 420Civil"Ce qui est honnête et raisonnable" (F.)V. 1133Clarté"Lumière du jour, vie" (C.)V. 506, 1908Cœur"Fierté, manière d'âme généreuse et incapable de faiblesse, et de lâcheté. *Elle a du cœur*" (R.), "signifie aussi courage. *Perdre cœur, reprendre cœur.*" (A.)V. 34, 205, 360, 541, 546, 774Confondre"Troubler profondément, en parlant des personnes, jusqu'à brouiller l'esprit ; bouleverser" (C.)V. 703Confusion"Honte. *Il a eu une grande confusion de savoir qu'on a découvert la trahison qu'il a faite à son ami*" (F.)V. 1845Connoistre"Prendre connaissance, prendre conscience, s'apercevoir, se rendre compte ; apprendre, comprendre" (C.)V. 263, 1157, 1188, 1828Contentement"Récompense, payement" (F.)V. 865, 1284Crayon"Descriptions qu'on fait par le discours, soit des personnes, soit des choses" (F.) ; "description, relation" (GR.)V. 21, 290Decevant"Propre à tromper" (F.)V. 313Dégager"Rendre libre, débarrasser, détacher une personne d'une chose gênante ou trop captivante. « se dit fig. en choses spirituelles. *On a peine à dégager son esprit des affections mondaines.* » (F.)" (C.)Dégénérer"S'abâtardir, ne suivre pas la vertu de ces ancêtres. *Dégénérer de la valeur de ses aïeux.*" (A.)V. 1971Délices"Ce qui donne plusieurs plaisirs ensemble" (F.), "vie de mollesse voluptueuse, de luxe raffiné" (C.)V. 1011, 1413, 1712Deport"Se dit quelquefois au Palais, pour dire *sur le champ*" (F.)Deportement"Conduite et manière de vivre. On dit en bonne et en mauvaise part, des bonnes ou mauvaises mœurs" (F.)V. 1103Discourir"Entretenir une compagnie soit en public, soit en particulier, sur quelque chose" (F.), "bavarder" (GR.)Discours"Action de converser. « signifie aussi entretien » (A.), conversation", "action de s'exprimer, élocution, langage, style" (C.)V. 377, 735, 756, 1199, 1444, 1591, 1605, 1893Discrétion"Judicieuse retenue, circonspection dans les actions et dans les paroles" (A.) ; "discernement, pouvoir de décider" (GR.)Avertissement, v. 598Divertir"Détourner quelqu'un, l'empêcher de continuer son dessein, son entreprise, son travail" (F.)Effet"Acte, réalisation, manifestation, « exécution de quelque chose » (A.)" (C.)Avertissement, argument du premier acte, v. 277, 312, 454, 1073, 1268, 1469, 1553, 1624Effectuer"Mettre en effet⁎, en exécution. *Il a effectué ses promesses*." (A.)V. 1871Ennui"Tristesse, déplaisir" (R.)V. 37, 422, 1099, 1538, 1934Esprit"Génie particulier de chaque personne, son application à quelque chose, la facilité qu'il a d'y réussir" (F.)"Souffle, âme, au sens matériel ; dernier soupir. « On dit Rendre l'esprit, pour dire : mourir » (A.)" (C.)V. 1917Estonner"Causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. *Un criminel s'étonne à la vue des Juges, des supplices, de la mort*" (F.)V. 179, argument du second acte, 708, 737Événement"Issue, succès⁎ bon ou mauvais de quelque chose" (F.)V. 525, 1518, 1722Exploit"Grande action que fait un Capitaine, un Général d'armée" (F.)V. 365Extremité"Extrême, excès. « On le dit aussi fig. en choses morales. Il ne faut jamais pousser les choses dans l'extrémité » (F.)" (C.)Argument du troisième acte, v. 1347Fantaisie"Imagination" (F.)V. 1286, 1563Feu"La vivacité de l'esprit, l'ardeur des passions ; on dit aussi d'un homme amoureux, qu'il brûle d'un beau *feu*, qu'il nourrit un *feu* discret, un *feu* qui le dévore" (F.)V. 465, 685, 789, 878, 901, 964, 1247, 1262, 1332, 1395, 1430, 1634Flamme"Il se dit communément de l'amour profane. *Cet amant brûle d'une flamme innocente pour cette fille.*" (F.)V. 855, 891, 967, 1074, 1117, 1218, 1257, 1274, 1317, 1361, 1444, 1568, 1629, 1740, 1764, 1954Flatter"Caresser, au figuré, les sens, l'esprit, etc. ; charmer, séduire" (C.)V. 1293Fort"Se dit aussi substantivement de ce qui agit et résiste puissamment. *Le fort de la guerre*." (F.)V. 188, 370Foy"Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter" (F.) ; "fidélité à l'engagement donné" (C.)V. 639, 1079, 1111, 1295, 1335, 1410, 1445, 1650, 1688, 1783, 1812, 1884, 1954Garder"Se garentir⁎, se défendre" (F.)"Regarder" (H.)V. 149, 749Garentir"Préserver de quelque mal ou accident. Je vous garentirai de tout le mal qui vous peut arriver" (F.)Argument du second acte, v. 613, argument du cinquième acte, v. 1646Gendarmes"Signifie quelquefois toutes sortes de gens de guerre, soit Infanterie, soit Cavalerie" (A.)Genereux"Qui a l'âme grande et noble, et qui préfère l'honneur à tout autre intérêt" ; "brave, vaillant, courageux" (F.)V. 250, 653Gloire"Honneur, estime, réputation qui procède du mérite d'une personne" (A.) ; "considération, réputation, sans idée d'éclatante célébrité" (C.)V. 28, 136, 176, 255, 287, 365, 1247, 1642, 1780, 1799, 1815, 1845Gourmander"On dit fig. *gourmander ses passions*, pour dire s'en rendre maître, les tenir assujetties à la raison" (A.) ; "brider, dominer, au sens favorable ; contenir, maîtriser" (C.)V. 26, 45, 1973Gouvernement"Soin, administration d'une personne" (A.)V. 98, 634Hazard"Péril, risque" (A.)Hazarder"S'exposer au hasard⁎ de, courir le risque de, braver, avec le complément de la chose à laquelle on s'expose" (C.)V. 76, 233, 234Heur"État heureux, bonheur, considéré dans sa continuité" (C.)V. 1494Hymen (hymenee)"Signifie aussi poétiquement le mariage" (F.)V. 1335, 1409, 1519, 1561Improuver"Condamner, désapprouver" (F.)AvertissementIndiscret"Celui qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait" (F.)V. 1097, 1199, 1258, 1273, 1332, 1617Indiscrétion"Imprudence" (F.) ; "manque de discernement, de mesure", "inconvenance, maladresse, sottise" (GR.)V. 706IngratDans un contexte amoureux, "un amant appelle sa maîtresse ingrate, quand elle est cruelle, quand elle ne veut pas répondre à son amour" (F.)V. 1338, 1349, 1404, 1428, 1720Insensé"Qui a perdu l'esprit, fou, qui est troublé, hors de son bon sens" (F.)Insigne"Remarquable, qui se fait distinguer de ses semblables. Il se dit tant de bonne que de mauvaise part" (F.), dans le contexte, il a un sens péjoratifV. 19, 175, 580, 719, 1665, 1794Intelligence"Pénétration dans le fond d'une affaire" (R.)V. 1551Intérêt"Ce qui touche une personne, par la part qu'elle y prend ; affaire, question, souci qui la regarde" ; "il se dit souvent, d'une manière plus vague, de la part même que la personne prend à l'affaire, de la façon dont elle s'y trouve mêlée, dont son intérêt y est engagé" (C.)Argument du premier acte, v. 119Jour"Se prend aussi fig. pour la vie. *Perdre le jour. Ceux à qui je dois le jour.*" (A.)V. 390, 392, 498, 1789Langueur"Se dit aussi en Morale des tristesses, des afflictions, passions violentes qui nous privent de joie, ou de santé. *Les amants disent qu'ils sentent une mortelle langueur*." (F.)V. 1195, 1503Las"Interjection et expression d'un mouvement de douleur ou d'affliction, laquelle se marque avec cette ponctuation ! Il est plus en usage en poésie qu'en prose à cause qu'il donne de la facilité pour la mesure du vers, on dit ailleurs helas" (F.)V. 875Liberal"Qui aime à donner, qui se plaît à donner" (A.)V. 529Licence"L'abus de ces permissions qu'on étend au-delà de leur intention, ou de la liberté qu'on prend de soi-même" (F.)V. 1209Magnanime"Qui a une grandeur d'âme et de courage qui l'élève au dessus du commun des hommes" (F.)V. 394, 667Manie"Fureur, au figuré, en parlant d'un sentiment poussé jusqu'à la folie, tournant à l'idée fixe" (C.)V. 1281Martyre"Se dit poétiquement et fréquemment de la souffrance des amants" (F.)V. 971, 996, 1507, 1591, 1933Mélancolie"La tristesse même, le chagrin qui vient par quelque fâcheux accident. *Ce revers de fortune l'a plongé dans une grande mélancolie. Il ne veut voir personne, tant la mélancolie est grande.*" (F.) ; "humeur noire, sombre désespoir qui porte aux plus violentes résolutions" (C.)V. 987Memoire"Souvenir, action, effet de la mémoire" (A.)V. 1658, 1741Mesconnoissance"Manque de reconnaissance, de gratitude" (A.)V. 267, 300MesconnoistreVerbe tr. "mal connaître" (C.)V. 1796Se mesconnoistre"Ne vouloir pas se souvenir de ce qu'on a été. *Souvenez-vous de votre devoir, ne vous mesconnoissez pas.*" (A.)V. 675, 676, 1544Monument"Signifie encore le tombeau, et particulièrement en Poésie" (F.)V. 420Nier"Refuser. *Ce père est barbare, il nie les aliments à son fils*" (F.)Objet"Se dit aussi poétiquement des belles personnes qui donnent de l'amour. *C'est un bel objet, un objet charmant.*" (F.)V. 1327, 1390, 1810Offencer"Blesser" (F.)V. 388Office"Signifie aussi Service qu'on fait, qu'on rend à quelqu'un. Faire office. Rendre de bons offices" (A.)V. 1643, 1994Officieux"Obligeant ; il se dit parfois des choses aussi bien que des personnes" (C.)V. 309Patir"Avoir de la misère, de la fatigue, souffrir, endurer" (F.)V. 1729Pavillon"Tente, souvent terminée en pointe par le haut, qui servait surtout au logement des gens de guerre en campagne" (GR.)V. 517Perfections"L'assemblage de toutes sortes de bonnes qualités" (F.)V. 898, 1135Principe"Le commencement, la source de quelque chose" (F.)V. 1518Procédé"Manière d'agir" (C.)V. 625Purger"Purifier (son âme), expier (ses péchés)" (GR.)V. 1782Raison"La justice qu'on fait, ou qu'on demande à quelqu'un, la réparation de quelque injure reçue" (F.)V. 622Reconnoistre"« Être reconnaissant d'une grâce... *Je ne trouve point de paroles pour reconnaître l'honneur que vous me faites* » (R. 80). *Qui reconnaît les grâces aime à en faire.* (Bossuet)" (C.)V. 635RencontreAu masculin, "circonstance fortuite, « signifie encore Occasion (...) Quelques-uns le faisaient autrefois masculin, et il l'est encore en cette phrase : *En ce rencontre*. » (A.)" (C.)V. 1873Resoudre"Conclure après avoir délibéré" (F.)V. 266, 635Respect"Égard, considération. *Il s'est conduit de telle manière par divers respects*. Il vieillit en ce sens." (A.)V. 342Ressentiment"Sentiment vif d'une chose agréable ou pénible, fait d'y être sensible" (C.)V. 1637Saison"Temps convenable pour faire quelque chose" (F.)V. 1399Sapper"Creuser sous un mur, en détruire le pied ou le fondement pour le démolir et le faire cheoir⁎ tout d'un coup" (F.)V. 627ServageDans le langage poétique, "l'attachement qu'un amant a pour sa maîtresse" (A.)V. 1149Sinderese"Ce mot se dit entre les dévots, il signifie remords de conscience" (R.)Argument du premier acteSoin"Soucis, inquiétudes qui émeuvent, qui troublent l'âme" (F.) ; "attention, application, attachement à une chose, « sollicitude » (A.), pour une personne, sans aucune idée d'effort pénible ni d'inquiétude morale" (C.)V. 477, 879SomméeMot vieux, employé dans le domaine de la vénerie ou de la fauconnerie, désignant "les bois de cerf, lorsqu'ils se divisent en trois ou quatre corps au sommet de la tête, comme une trochée de fleurs ou de fruits" (F.)V. 1374Succes"Réussite, issue d'une affaire ; il se dit en bonne et en mauvaise part" (F.)V. 528, 708, 1561Sujet"Cause, raison, motif" (A.), donc le syntagme *avec grand sujet* signifie "ayant de bonnes raisons"V. 83, 814, 978, 1194, 1332Superbe"Vain, orgueilleux, présomptueux" (F.)V. 626, 1797Surmonter"Son plus grand usage est au figuré ; et alors il signifie, vaincre, dompter" (A.)V. 1048Syndiquer"Critiquer, censurer" (A.)AvertissementTalent"On dit aussi en mauvaise part. *Il a le talent de tout gâter, de malfaire tout ce qu'il fait.*" (F.)V. 1588TenirEn syntagme avec un adjectif attribut, "réputer, estimer, croire" (A.)V. 1208Trancher du grand"Vouloir faire le grand, vouloir l'emporter" (R.)V. 697Transport"« Se dit aussi fig. en choses morales du trouble ou de l'agitation de l'âme » (F.), de toute violente émotion, agréable ou désagréable, qui nous met hors de nous ; emportement, égarement, élan de passion, en parlant de l'amour, de l'ambition, du désespoir, de la colère, etc." (C.)V. 941, 1169, 1188, 1480, 1615, 1730Travail" « Peine ... de l'esprit » (A.) ; souffrance, épreuve, tourment" (C.)V. 1160Trépas"Mort, passage de cette vie à une autre" (F.) ; "mort, ne se dit qu'en poésie" (R.).V. 129, 153, 179, 192, 236, 346, 753, 971, 1228, 1590, 1610, 1647, 1652, 1695, 1725, 1876
 
 
-# Biographie
+# Biographie.
 
 Nous avons très peu d'informations sur la vie de Gillet de la Tessonerie et celles-ci proviennent surtout des préfaces de deux de ses pièces, *La Quixaire* et *Le Triomphe de l'amour honneste*.
 
@@ -4058,28 +4058,28 @@ On ignore la date de sa mort.
 Il semble que ses auteurs préférés étaient Montaigne, Caussin, Charron, Cureau de La Chambre, Sorel et Marandé, mais il est plutôt désintéressé de la littérature de son temps et même du succès de ses pièces.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Les sources
+## Les sources.
 
 
-### Textes littéraires
+### Textes littéraires.
 
 
-#### Œuvres de Gillet de la Tessonerie
+#### Œuvres de Gillet de la Tessonerie.
 
 LE / TRIOMPHE / DES CINQ / PASSIONS. / TRAGI-COMEDIE. / A PARIS, / Chez TOUSSAINCT QUINET, au Palais, / dans la petite Salle, soubs la montée de la / Cour des Aydes. / M.DC.XLII. / AVEC PRIVILEGE DU ROY.L'Art de régner*re*
 La Quixaire
 
 
 
-#### Autres textes consultésL'Illusion comique*ère*
+#### Autres textes consultés.L'Illusion comique*ère*
 Théâtre
 
 
 
-### Autres textes modernesDe la Sagesse*re*
+### Autres textes modernes.De la Sagesse*re*
 Œuvres
 De la Sainte Philosophie. Philosophie morale des stoïques*re*
 La Poëtique
@@ -4087,7 +4087,7 @@ De l'Usage des passions*re*
 
 
 
-### Textes antiquesPoétique
+### Textes antiques.Poétique
 Rhétorique
 Vies parallèles
 Institution oratoire
@@ -4097,10 +4097,10 @@ Histoire romane
 
 
 
-## Les études
+## Les études.
 
 
-### Les instruments de travailDictionnaire
+### Les instruments de travail.Dictionnaire
 Dictionnaire de rhétorique et de poétique
 Le Français classique
 Bibliographie de la littérature française au XVII*e* siècle
@@ -4117,7 +4117,7 @@ Remarques sur la langue françoise
 
 
 
-### Études généralesL'Art d'argumenter. Structures rhétoriques et littéraires
+### Études générales.L'Art d'argumenter. Structures rhétoriques et littéraires
 Fiction et diction
 Seuils
 Logique des genres littéraires
@@ -4127,10 +4127,10 @@ Lire le théâtre I*re*
 
 
 
-### Études sur la littérature et le théâtre du XVII*e* siècle
+### Études sur la littérature et le théâtre du XVII*e* siècle.
 
 
-#### OuvragesHistoire de la littérature française au XVII*e* siècle
+#### Ouvrages.Histoire de la littérature française au XVII*e* siècle
 L'Esthétique de la tragi-comédie en France de 1628 à 1643
 L'Écrivain et ses travaux
 La formation de la doctrine classique en France*re*
@@ -4151,7 +4151,7 @@ La tragédie classique en France
 
 
 
-#### ArticlesLittératures classiques
+#### Articles.Littératures classiques
 Revue des Sciences Humaines
 L'Illusion comiqueXVII*e* Siècle
 Revue d'histoire du théâtre
@@ -4161,30 +4161,30 @@ XVII*e* Siècle
 
 
 
-### Études sur le baroque et le procédé du théâtre dans le théâtre
+### Études sur le baroque et le procédé du théâtre dans le théâtre.
 
 
-#### OuvragesEl Barroco o el descubrimiento del drama
+#### Ouvrages.El Barroco o el descubrimiento del drama
 Le Baroque en Europe et en France
 Le Théâtre dans le théâtre sur la scène française du XVII*e* siècle*e*
 Play within a Play. The Dramatist's Conception of His Art : Shakespeare to Anouilh
 
 
 
-#### ArticlesFrench Studies
+#### Articles.French Studies
 Revue des Sciences Humaines
 Revue des Sciences Humaines
 Baroque
 
 
 
-### Études sur le stoïcisme et le néo-stoïcismeRecherches sur le stoïcisme aux XVI*e* et XVII*e* siècles
+### Études sur le stoïcisme et le néo-stoïcisme.Recherches sur le stoïcisme aux XVI*e* et XVII*e* siècles
 French Moralists. The Theory of the Passions 1585 to 1649
 L'idée de volonté dans le stoïcisme
 
 
 
-### Autres étudesLa Ponctuation*e*
+### Autres études.La Ponctuation*e*
 Linguistics in the Morning Calm
 
 

@@ -16,7 +16,7 @@ Dansé devant sa Majesté au mois de Janvier 1671.
 
 
 
-# Livret de ballet de PSYCHÉ
+# Livret de ballet de PSYCHÉ.
 
 
 ## DESCRIPTION DE LA SALLE.
@@ -50,7 +50,7 @@ Une grande Machine descend du Ciel au milieu de deux autres plus petites. en mar
  – Deux Grâces.Mesd*lle* La Thorillière, et de Croisy.
  – < RÉCIT DE FLORE.Chanté par Mademoiselle Hylaire. >
 
-    
+    .
 Ce n'est plus le temps de la Guerre ;  
 Le plus puissant des Rois  
 Interrompt ses Exploits  
@@ -87,7 +87,7 @@ Mais la douceur achève de charmer.
 Ils répètent ensemble ces derniers Vers.
 
 
-    
+    .
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
 
@@ -109,7 +109,7 @@ Mais la prudence achève de charmer.
 Flore répond au Dialogue de Vertumne et de Palæmon, par un Menuet qu'elle chante : Elle fait entendre que l'on ne doit pas perdre le temps des Plaisirs ; et que c'est une folie à la Jeunesse d'être sans amour. Les Divinités qui suivent Vertumne et Palæmon, mêlent leurs danses au chant de Flore, et chacun fait connaître son empressement à contribuer à la réjouissance générale.
 < MENUET DE FLORE.Chanté par Mademoiselle Hylaire. >
 
-    
+    .
 Est-on sage  
 Dans le bel âge ?  
 Est-on sage  
@@ -353,7 +353,7 @@ DES CYCLOPES ET DES FÉES.
 Vulcain qui n'a pas sujet d'être content de Vénus, son Épouse, s'engage contre Elle dans les intérêts de son Fils. Il vient commander aux Cyclopes, dont il est le Maître, de répondre à l'impatience de l'Amour, et de travailler promptement pour achever les Ornements de son Palais.
 < CHANSON DE VULCAIN.Chantée par M. de la Forest. >
 
-    
+    .
 
 Dépêchez, préparez ces Lieux,  
 Pour le plus aimable des Dieux :  
@@ -403,7 +403,7 @@ De Petits Zéphirs sont invités à se mêler dans les doux Jeux des Amours par 
  – Huit Zéphirs dansant.Messieurs Bouteville, Des-Airs, Artus, Vaignard cadet, Germain, Pécourt, du Mirail, et Lestang le jeune.
  – Huit Amours dansant.Le Chevalier Pol, Messieurs Boüillant, Thibaut, la Montagne, Dolivet fils, Daluseau, Vitrou, et la Thorillière.< CHANSON DU ZÉPHIR. >
 
-    
+    .
 Aimable Jeunesse,  
 Suivez la Tendresse,  
 Joignez aux beaux Jours  
@@ -417,13 +417,13 @@ Quels sont leurs plaisirs.  < DIALOGUE DES DEUX AMOURS. >
 ILS CHANTENT ENSEMBLE.
 
 
-    
+    .
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
 Plus on doit à l'Amour.  
 
-    
+    .
 Un Amour chante seul.  
 Un Cœur jeune et tendre  
 Est fait pour se rendre,  
@@ -432,13 +432,13 @@ De fâcheux détour.
 Les deux Amours chantent ensemble.
 
 
-    
+    .
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
 Plus on doit à l'Amour.  
 
-    
+    .
 Le second Amour chante seul.
 
 Pourquoi se défendre ?  
@@ -448,13 +448,13 @@ On le perd sans retour.
 Les deux Amours ensemble.
 
 
-    
+    .
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
 Plus on doit à l'Amour.  < SECOND COUPLET DE LA CHANSONdu Zéphir. >
 
-    
+    .
 L'Amour a des charmes,  
 Rendons lui les armes :  
 Ses soins et ses pleurs  
@@ -466,7 +466,7 @@ Languir jusqu'au trépas,
 Mais c'est ne pas vivre  
 Que de n'aimer pas.  < Second couplet du Dialogue des deux Amours. >
 
-    
+    .
 S'il faut des soins, et des travaux,  
 En aimant,  
 On est payé de mille maux  
@@ -474,7 +474,7 @@ Par un heureux moment.
 Un Amour seul.
 
 
-    
+    .
 On craint, on espère,  
 Il faut du mystère ;  
 Mais on n'obtient guère  
@@ -482,7 +482,7 @@ De bien sans tourment.
 Les deux Amours ensemble.
 
 
-    
+    .
 S'il faut des soins, et des travaux,  
 En aimant,  
 On est payé de milleux maux  
@@ -490,7 +490,7 @@ Par un heureux moment.
 Le second Amour seul.
 
 
-    
+    .
 Que peut-on mieux faire  
 Qu'aimer et que plaire ?  
 C'est un soin charmant  
@@ -498,7 +498,7 @@ Que l'emploi d'un Amant.
 Les deux Amours ensemble.
 
 
-    
+    .
 S'il faut des soins, et des travaux,  
 En aimant,  
 On est payé de mille maux  
@@ -596,7 +596,7 @@ Apollon conduit les Muses, et les Arts ; Bacchius est accompagné de Silène, d
 Apollon Dieu de l'Harmonie commence le premier à chanter, pour inviter les Dieux à se réjouir.
 < RÉCIT D’APOLLON.Chanté par Monsieur Langeais. >
 
-    
+    .
 Unissons-Nous, Troupe immortelle ;  
 Le Dieu d'Amour devient heureux Amant,  
 Et Vénus a repris sa douceur naturelle  
@@ -617,7 +617,7 @@ Qui tôt ou tard ne se rende à l'Amour.
 Bacchus fait entendre qu'il n'est pas si dangereux que l'Amour.
 < RÉCIT DE BACCHUS.Chanté par Monsieur Gaye. >
 
-    
+    .
 Si quelquefois,  
 Suivant nos douces Lois,  
 La Raison se perd et s'oublie,  
@@ -627,7 +627,7 @@ Souvent, c'est pour toute la vie.
 Mome déclare qu'il n'a point de plus doux emploi que de médire, et que ce n'est qu'à l'Amour seul qu'il n'ose se jouer.
 < RÉCIT DE MOME.Chanté par Monsieur Morel. >
 
-    
+    .
 Je cherche à médire  
 Sur la Terre, et dans les Cieux ;  
 Je soumets à ma Satire  
@@ -639,7 +639,7 @@ De n'épargner personne.
 Mars avoue que malgré toute sa valeur, il n'a pu s'empêcher de céder à l'Amour.
 < RÉCIT DE MARS.Chanté par Monsieur Estival. >
 
-    
+    .
 Mes plus fiers Ennemis vaincus ou pleins d'effroi  
 Ont vu toujours ma Valeur triomphante  
 L'Amour est le Seul qui se vante  
@@ -667,7 +667,7 @@ Les Arts travestis en Bergers Galants pour paraître avec plus d'agrément dans 
 < ARTS TRAVESTIS EN BERGERS Galants. >
  – Bergers Galants.Messieurs Beauchamp, Chicanneau, la Pierre, Favier l'aîné, Magny, Noblet, Desbrosses, Lestang, Foignard l'aîné, et Foignard le cadet.< CHANSON D’APOLLON.Chantée par M. Langeais. >
 
-    
+    .
 
 Le Dieu qui nous engage  
 À lui faire la Cour,  
@@ -689,7 +689,7 @@ Des Jeux, et de l'Amour.
 Au milieu de l'Entrée de la Suite d'Apollon deux des Muses qui ont toujours évité de s'engager sous les Lois de l'Amour, conseillent aux Belles, qui n'ont point encore aimé, de s'en défendre avec soin à leur exemple.
 < CHANSON DES MUSES.Chantée par Mademoiselle Hylaire, et par Mademoiselle Deffronteaux. >
 
-    
+    .
 Gardez-vous, Beautés sévères,  
 Les Amours font trop d'affaires,  
 Craignez toujours de vous laisser charmer :  
@@ -699,7 +699,7 @@ Le martyre
 De le dire,  
 Coûte plus cent fois que d'aimer.  < SECOND COUPLET DES MUSES. >
 
-    
+    .
 On ne peut aimer sans peines,  
 Il est peu de douces chaînes,  
 À tout moment on se sent alarmer ;  
@@ -721,7 +721,7 @@ Les Ménades et les Égipans viennent danser à leur tour. Bacchus s'avance au m
  – Six Ménades.Messieurs Isaac, Paysan, Joubert, Dolivet fils, Breteau, et Des-Forges.
  – Six Égipans.Messieurs Eydieu, Dolivet, le Chantre, Ariar, S. André l'aîné, et S. André le cadet.< CHANSON DE BACCHUS.Chantée par Monsieur Gaye. >
 
-    
+    .
 Admirons le Jus de la Treille :  
 Qu'il est puissant ! qu'il a d'attraits !  
 Il sert aux douceurs de la Paix,  
@@ -731,14 +731,14 @@ Le Vin est d'un grand secours.
 Silène Nourricier de Bacchus paraît monté sur son Âne. Il chante une Chanson qui fait connaître les avantages que l'on trouve à suivre les Lois du Dieu du Vin.
 < CHANSON DE SILÈNE.Chantée par Monsieur Blondel. >
 
-    
+    .
 Bacchus veut qu'on boive à longs traits ;  
 On ne se plaint jamais  
 Sous son heureux Empire :  
 Tout le jour on n'y fait que rire,  
 Et la nuit on y dort en paix.  < SECOND COUPLET. >
 
-    
+    .
 Ce Dieu rend nos vœux satisfaits ;  
 Que sa Cour a d'attraits !  
 Chantons y bien sa gloire :  
@@ -748,7 +748,7 @@ Deux Satyres se joignent à Silène, et tous trois chantent ensemble un Trio à 
 
  – Trio de Silène, et de deux Satyres.Messieurs Blondel, de la Grille et Bernard.
 
-    
+    .
 Voulez-vous des douceurs parfaites ?  
 Ne les cherchez qu'au fond des Pots.  
 
@@ -788,7 +788,7 @@ Une Troupe de Polichinelle et de Matassins vient joindre leurs plaisanteries et 
  – Six Matassins dansant.Messieurs de Lorge, Bonard, Arnal, Favier cadet, Goyer, et Bureau.
  – Six Polichinelles.Messieurs Mançeau, Girard, la Valée, Favre, le Fébure, et la Montagne.< CHANSON DE MOME.Chantée par Monsieur Morel. >
 
-    
+    .
 Folâtrons, divertissons-Nous,  
 Raillons, Nous ne saurions mieux faire,  
 La Raillerie est nécessaire  
@@ -820,7 +820,7 @@ DE MARS.
 Mars vient au milieu du Théâtre suivi de sa Troupe guerrière qu'il excite à profiter de leur loisir, en prenant part aux Divertissements.
 < CHANSON DE MARS.Chantée par Monsieur d’Estival. >
 
-    
+    .
 Laissons en paix toute la Terre,  
 Cherchons de doux Amusements ;  
 Parmi les Jeux les plus charmants,  

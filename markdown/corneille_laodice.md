@@ -1,0 +1,5322 @@
+---
+identifier: corneille_laodice  
+creator: Corneille, Thomas  
+date: 1668  
+title: Laodice, reine de Cappadoce. Tragédie  
+---
+
+
+Laodice Reyne de Cappadoce
+
+Tragédie.
+
+Par T. CORNEILLE.
+
+A ROUEN, Et se vend A PARIS, Chez CLAUDE BARBIN, sur le second Perron de la Sainte Chapelle. M. DC. LXVIII. AVEC PRIVILEGE DU ROY.
+
+
+
+# Introduction.
+
+*Laodice* [1] fut représentée en février 1668 l'Hôtel de Bourgogne devant le roi où elle remporta un grand succès. Elle rappelle sensiblement la manière du grand Corneille, sans doute parce qu'y sont privilégiées des « passions plus nobles et plus mâles que l'amour, telles que … l'ambition et la vengeance, et qui vont donner à craindre des malheurs plus grands que la perte d'une maîtresse [2] ». Au moment de la représentation, Louis XIV règne réellement depuis sept ans. Il a divinisé la royauté et donné à la fonction royale un caractère quasi solaire et pharaonique. Nous sommes en pleine période de fêtes de Cour, d'opulence. Versailles est en cours de construction. Le totalitarisme monarchique grandissant justifie donc l'absence de dédicace dans notre pièce.
+
+Thomas Corneille, frère du grand tragique, né à Rouen le 20 août 1625, mort aux Andelys, le 9 décembre 1709, fut un auteur de talent, l'un des plus populaires de son temps. On lui reconnaît une remarquable intuition. Il sait les recettes efficaces pour séduire le public. Sa première tragédie, *Timocrate*, fut un triomphe extraordinaire. La pièce la plus applaudie du XVII*e* siècle ne fut ni *Le Cid* ni *Andromaque* : ce fut précisément *Timocrate*. Selon Louis Lapert, « Il avait à merveille le flair de ce qui allait plaire au public, avant que le public ne le sût lui même [3]. » Thomas Corneille n'a que 31 ans au moment de la représentation. Nous sommes en 1656. On lui connaît également une amitié étroite avec son frère, de vingt ans son aîné. « Le Grand Corneille » exerce une sorte de tutelle sur Thomas qui n'a que quatorze ans lors du décès paternel. Il s'occupe de son instruction, lui apprend l'espagnol. Par la suite, ils épousent les deux sœurs et vivent sous le même toit. Leur cohabitation étroite facilite la collaboration dans le travail, ce qui explique que l'on ait parfois parlé d'inspiration réciproque. Ajouté à cela la facilité de versification de Thomas, tenue pour prodigieuse, et l'on comprend mieux les origines de certaines anecdotes pour le moins farfelues. Voisenon voulait notamment qu'une trappe reliant les chambres des deux frères ait permis à Thomas de souffler des rimes à son aîné. Effectivement très fécond, il fait preuve d'une grande diversité créatrice : à la fois poète, littérateur, grammairien et géographe, il est loué par Voltaire qui le décrit comme « un homme de grand mérite et d'une vaste littérature ». Il produit quarante-trois pièces, une grammaire, un dictionnaire de géographie et d'histoire, trois opéras, ainsi que des traductions et quelques poésies.
+
+Dans *Laodice*, Corneille s'éloigne de son habituel penchant pour le romanesque et la galanterie. Il se libère davantage du goût prédominant du public de cour pour donner lieu à une tragédie sauvage et cruelle où la galanterie ne tient désormais qu'une place de second plan et qui s'inscrit en cela dans la lignée de la *Rodogune* et de l'*Héraclius* de son frère aîné. Il en demeure que ce type d'intrigue ayant trait aux cruautés Orientales fascine les contemporains. Thomas ne prend donc pas de risque. Avec un tel sujet, il s'assure au contraire un succès retentissant. On sait que, comme tout auteur classique, il a pour dessein premier de plaire. Il connaît les recettes, sait comment séduire un public, comment flatter son intérêt. Il sait les ruses et les noirceurs efficaces. Les séries noires assurent encore les succès faciles. L'Orient, avec ses cruautés et ses problèmes dynastiques insensés constitue un véritable vivier pour tout auteur tragique. Tout se règle à coup de poison, de parricide. Si ces provinces constituent un fantasme aussi grand, c'est surtout parce que dans l'imaginaire des contemporains, elles sont la rencontre de l'Occident et de l'Orient. À noter que l'éloignement tragique autorise la représentation de tels débordements, et la manifestation du plaisir qu'ils suscitent.
+
+*Laodice* est l'histoire d'une reine, régente du trône de Cappadoce, qui fait assassiner cinq de ses fils pour se maintenir au pouvoir. Quinze ans plus tard, elle tombe amoureuse d'un mystérieux jeune homme qui brille par ses qualités, et qui n'est autre que le survivant – Ariarate – dissimulé sous un nom d'emprunt – Oronte. Une journée actualise toutes ces tensions, et c'est là que débute notre tragédie.
+
+La crise tragique est d'autant plus violente que l'horreur du passé a été étouffée par Laodice. Figure de la démesure humaine, elle tente en vain de suspendre le cours du temps, de retarder les décisions, de bâillonner la vérité, d'étouffer l'horreur pour satisfaire ses désirs de pouvoir. La tragédie met en scène l'échec de cette volonté, elle met en scène une agonie.
+
+Dés l'acte I, le spectateur sait, comme Rome, comme Ariarate dit Oronte, comme Phradate son confident, comme Axiane et Alcine qui exposent la situation, donc le spectateur sait, comme tous, le dénouement de la tragédie. Il sait que Rome, instruite de la folie de la reine, vient rétablir l'ordre par l'intermédiaire d'un ambassadeur. Dés le commencement, la fin est programmée : Aquilius, dont le nom revient comme un leitmotiv au cours de la pièce, comme pour mieux marquer l'imminence, le rétrécissement du maigre sursis laissé par « la Reyne des Roys », vient pour révéler l'identité d'Ariarate et le placer sur le Trône. Seule l'héroïne l'ignore.
+
+Le tragique est là : pendant une longue, harassante journée, une femme réunit ses forces restantes, puise dans ses ressources les plus profondes pour livrer l'ultime combat, laissant le spectateur ébloui par tant d'énergie déployée pour une lutte perdue d'avance. Sauvage, vaine, sublime, *Laodice* laisse dans l'esprit du spectateur une émotion violente qui n'est pas sans rappeler celle de la Corrida. Mais, à la sauvagerie primitive de cet affrontement de forces, Thomas Corneille, en digne homme de son temps, greffe les noirceurs d'une finesse étourdissante et nécessaire à la séduction d'un public avide de complications. Ce qui met du sel dans cette intrigue, ce n'est pas la simple impuissance de Laodice, le fait qu'elle soit le jouet d'une puissance supérieure. Ce qui intéresse, ce qui divertit, ce qui horrifie agréablement, c'est le fait que l'héroïne croit jouer, tenir les ficelles alors que c'est précisément elle qui est jouée.
+
+Nous l'aurons compris, Laodice est une tragédie où le temps est bloqué. Dés la première scène, l'enjeu est fixé : il faudra le débloquer. Les premiers vers :
+
+Quoy, le Senat depute, et sans daigner attendre  
+Qu'icy l'ambassadeur ait le temps de se rendre  
+
+sonnent déjà comme une imminence. Le sablier est retourné. Dés lors peuvent s'affronter les volontés contraires et le spectacle commencer : Laodice veut maintenir le statisme originel de l'univers qu'elle s'est construit tandis que gronde aux portes de cet espace-temps figé la colère d'un monde extérieur ne pouvant en accepter plus. Le peuple, Rome, les Princes, son fils, tous, comme saturés du poids de tout un passé étouffé, resserrent l'étau, pressent. L'horreur tue déborde de partout, suinte, s'infiltre dans son espace clos. Toutes ces menaces accumulées, ce lourd passé semble n'avoir existé que pour s'actualiser en un moment et provoquer cette crise tragique. Il faut faire un choix, et vite. Aquilius arrive sans tarder, Laodice doit agir : se plier à la volonté romaine, ou ruser pour déjouer leur « Politique ». L'action est donc lancée par la nécessité de ce choix.
+
+Un second enjeu pousse l'action, privé cette fois : la conquête de l'amour maternel par un fils cruellement rejeté. Cet enjeu seul justifie le procédé à la mode de la dissimulation d'identité, procédé qui bien qu'en vogue n'est pas gratuit. Il permet à Corneille de joindre sphère privée et sphère publique. Si Ariarate ne cherchait pas à cacher sa véritable identité, Laodice ne serait pas tombée amoureuse de son fils, et n'aurait pas à dissimuler des desseins qu'elle saurait vains. Autrement dit, sans cette dissimulation originelle, l'engrenage et la crise tragique n'auraient pas lieu.
+
+La dissimulation est en effet un des moteurs fondamentaux de l'intrigue. Il n'est question que de complots, de manœuvres secrètes. Laodice à l'acte II révèle à Cléone ses machiavéliques desseins, à savoir nommer un homme de paille au pouvoir pour devancer la volonté de Rome ; Anaxandre intrigue auprès d'« Oronte », puis de la reine pour accéder au trône, il a pour mission, à l'acte IV d'éliminer le faux Ariarate, Ariarate est envoyé par Rome depuis deux ans pour briguer la volonté de sa mère sous une identité secrète, Rome envoie un héritier imposteur en Cappadoce pour prévenir les conjurations éventuelles, et punir par là même son imposture, même Axiane dissimule puisqu'elle se fait violence pour taire son amour. On cache, donc, on étouffe, on dissimule énormément dans cette tragédie, du moins s'y efforce-t-on, mais la vérité éclate d'autant plus douloureusement à chaque fois. Axiane avoue son amour avec la plus grande aigreur, la scène où Ariarate révèle son identité à sa mère est extrêmement douloureuse et violente, Anaxandre est sauvagement mis à mort par un peuple qui, informé des intentions parricides de Laodice, entre en furie, et vient jusqu'aux portes du palais lui crier sa haine et lui proférer des menaces de mort [4]. Le non-dit fonctionne donc comme moteur de l'action puisqu'il exaspère les tensions. L'horreur enfouie, enterrée, rejaillit avec une violence, une crudité décuplée au moment opportun.
+
+L'intrigue se déroule en cinq temps. Il est d'abord question de ce qui s'est produit dans le passé, avant que la pièce ne débute. Rome a donné aux fils du roi de Cappadoce, mort au combat, des provinces d'Asie en récompense de guerre. Pour conserver le Trône, son épouse, Laodice, en fait périr cinq, et engage un meurtrier pour éliminer le sixième en otage à Rome. Pris d'horreur, il n'en fait rien et revient en feignant avoir accompli sa mission. Laodice le croit donc mort et peut ainsi prétexter à loisir attendre son retour pour se maintenir au trône. Ne reste qu'une fille, Arsinoé – qui n'apparaît jamais. Seconde étape : l'action débute. Rome et le peuple s'impatientent. Nommer un Roi devient pressant. Par conséquent, deux issues sont possibles : Laodice fait choix d'un époux pour sa fille Arsinoé, ou le fils présumé vivant réapparaît et épouse Axiane, princesse de Cilicie, province annexée par Rome. Parallèlement, Ariarate, qui n'est autre que le fameux survivant, se dissimule sous le nom d' « Oronte » et se dévoue à la reine depuis deux ans dans le but de se faire aimer d'elle. Il exerce une grande influence sur cette dernière qui ne décide rien sans lui. Ariarate est amoureux d'Axiane mais lui tait son identité pour s'assurer de la pureté de ses sentiments. Phradate, confident d'Ariarate est lui même épris d'Arsinoé, dont beaucoup d'intrigants convoitent la main, Anaxandre notamment. Les problèmes se mettent en place lors d'une troisième étape. Laodice aime passionnément « Oronte » sans savoir qu'il s'agit de son fils. Afin de satisfaire son désir double, elle projette d'en faire son époux. Ce faisant, elle le posséderait, règnerait – puisqu'il lui serait soumis, lui devant tout –, et calmerait les impatiences de Rome et du peuple en prétextant la nécessité de son mariage pour la conservation d'un trône qui ne serait restitué par le mari de sa fille. Face à l'annonce de sa volonté, Ariarate, qui prend cette décision pour une victoire – il a conquis la confiance maternelle – demeure muet, tandis qu'Anaxandre manifeste de la jalousie. Une quatrième étape voit ces tensions se développer. Un imposteur apparaît sous le nom d'Ariarate. Il s'agit en réalité d'une manœuvre de Rome destinée à le punir et prévenir les conjurés éventuels. Laodice, dupée, sollicite « Oronte » pour éliminer ce fils importun. Ce dernier refuse. Furieuse, elle se tourne donc vers Anaxandre. Ces tensions se résolvent enfin dans un cinquième temps. L'imposteur est tué d'un coup d'épée lors d'une querelle de généraux. Laodice feint l'affliction et soupçonne publiquement « Oronte » de culpabilité. Anaxandre, arrêté par la volonté d'Aquilius, meurt assassiné par le peuple, et avoue dans son dernier souffle la culpabilité de la reine. Pendant ce temps, Laodice se déclare à son fils qui lève le voile sur son identité. Désespérée, la reine se poignarde face au peuple en furie. Ariarate et Axiane se préparent à annoncer leurs noces au peuple.
+
+
+# Les sources de la pièce.
+
+
+## Les sources historiques.
+
+Comme l'indique Thomas Corneille dans son avis au lecteur, le sujet de cette tragédie est tiré du trente-septième livre de Justin. À l'origine d'un abrégé de *L'Histoire universelle* de Trogue Pompée [5], Justin, ne s'agissant pas d'un auteur original, demeure relativement mystérieux. On le situe au III*e* ou IV*e* siècle sous Antonin le Pieux, mais l'on doute même de son nom. *L'Histoire universelle* de Trogue Pompée embrassait toutes les nations, les peuples, les rois. On lui reproche pourtant de manquer d'unité, laissant chaque nation à part. L'objectif de Justin était de ne composer qu'un « léger bouquet de fleurs ». Malheureusement, notre abréviateur brise quelque fois la chaîne des faits, supprime au lieu d'abréger, mutile l'histoire. Il se trompe assez souvent sur les temps, les faits, les personnes et les lieux. Certains de ses livres pourtant sont les seuls qui nous restent sur un fait important.
+
+Le livre XXXVII raconte comment Attale, roi de Syrie, sujet à la démence, meurt en léguant la Syrie à Rome. Le fils de l'oncle d'Attale s'empare alors de l'Asie. Débute une guerre dont Rome sortira victorieuse. En récompense aux rois qui l'ont soutenue, Rome donne la Haute-Phrygie à Mithridate, roi du Pont, la Lycaonie et la Cilicie aux fils d'Ariarathe, roi de Cappadoce mort au combat. Selon Justin, le peuple romain les traita mieux que leur mère Laodice puisque, « tandis qu'en leur bas âge il étendait leur empire, leur mère leur ravissait la vie ». En effet, quand plusieurs de ses six fils atteignirent l'âge adulte, Laodice,
+
+
+craignant donc de perdre bientôt le gouvernement de l'Etat … fit périr cinq d'entre eux par le poison. Le plus jeune, dérobé par sa famille à la cruauté de sa mère, se trouva seul souverain par la mort de Laodice, dont le Peuple punit la cruauté en l'immolant.
+
+Justin fournissait donc juste une matrice tragique au dramaturge : des circonstances historiques préalables – Une guerre engageant l'Asie Mineure et Rome. La victoire de cette dernière. Les récompense aux alliés : La Lycaonie et la Cilicie aux fils du roi de Cappadoce. Leur assassinat par une mère qui craint de perdre le gouvernement. La survie du plus jeune dérobé à sa mère – présentées dans l'exposition et le résultat ultime de ces évènements antérieurs – La mort de Laodice et l'accès au trône de l'héritier – constituant le dénouement de la tragédie. Entre les deux il fallait tout inventer pour motiver ce que donnait l'histoire : un simple dénouement. Il fallait imaginer, à partir des données initiales, un enchaînement vraisemblable de causes à effets menant à l'effet final et qui soit à même d'intéresser le public contemporain et d'être en accord avec les codes de ce théâtre classique. Il fallait autrement dit mettre en intrigue une histoire comprenant un certain type de conflit suscité ici par la passion noble qu'est l'ambition ; un certain type d'action, illustre, extraordinaire, sérieuse, confrontant ses héros à de grands dangers ; un certain type d'effet, enfin, produit sur le public, soit ici la terreur, plus que la pitié. Comment, en d'autres termes, faire déchoir la reine de son trône en mettant en relation cette déchéance avec la survie d'un fils qu'elle aurait fait périr s'il ne lui avait été subtilisé ?
+
+Tous les évènements mis en scène entre l'exposition et le dénouement sont donc le fruit de l'imagination de Thomas Corneille, comme lui même le fait entendre :
+
+
+Le sujet de cette tragédie est tiré du trente-septième livre de Justin. Ceux qui auront la curiosité de l'y chercher, connoistront ce que j'ai adjousté à l'Histoire pour l'accommoder à nostre Theatre [6].
+
+Le nœud et les rebondissements, soit l'essentiel de l'action ne sont donc que « des embellissements de l'invention et des acheminements vraisemblables [7] » à l'effet que présente l'histoire, soit la mort de la reine infanticide et tyrannique et le couronnement d'un fils qui lui a été dérobé. Nous reprendrons donc le raisonnement présenté par Georges Forestier dans son ouvrage *Essai de génétique théâtrale. Corneille à l'œuvre* pour montrer comment notre dramaturge a lui aussi utilisé le principe de la cause finale pour mettre en intrigue un récit historique. Soit comment, loin de procéder en cherchant à tirer une histoire cohérente de ce récit, il a au contraire dégager de l'histoire un seul élément fondamental, à savoir l'échec d'une reine tyrannique et infanticide à garder le pouvoir, qu'il constitue en dénouement de sa tragédie. Nous allons voir encore comment à partir de ce qu'il instaure en sujet, il reconstruit à rebours un enchaînement de cause à effet et qui donne l'illusion de conduire l'histoire à sa fin, faisant de ce sujet la cause cachée des actions. Nous verrons en d'autres termes comment Thomas Corneille, comme son frère, obéit à un principe de composition régressive, de construction à rebours déduite de la matrice originelle fournie par l'histoire.
+
+Comme il le dit dans son avis au lecteur, ce qui compte donc fondamentalement pour Thomas Corneille dans l'histoire racontée par Justin est le caractère de Laodice, qui le pousse à affaiblir la force de l'action principale pour lui laisser toute son étendue. Ne comprenons pas par-là que le disciple du grand Corneille ait fait l'erreur de construire son action à partir du caractère de la reine, simplement il construit son action autour de ce personnage fondamental. Le fils, dont il est également question dans l'histoire, constitue donc un personnage épisodique. Il ne faut pas l'intégrer à l'action principale contrairement à ce que l'on serait tenté de faire. En mettant un tel sujet en intrigue, Thomas Corneille a en effet choisi de dramatiser, comme son frère avec *Rodogune*, l'histoire d'une seconde Médée, et non la manière dont un héros héritier légitime parvient à se réapproprier le trône – comme dans *Héraclius*, également fondé sur le déguisement – en se confrontant à un tyran criminel. Ceci dans notre pièce, bien qu'étroitement lié à l'action principale, est de l'ordre de l'épisode.
+
+Ce qui intéressait le dramaturge était la mise en scène de l'agonie d'une reine infanticide, le pourquoi et le comment de son échec à garder le trône. Notons que l'appui de l'histoire préservait l'auteur de toute querelle concernant une éventuelle invraisemblance de caractère. De plus le sens moral de l'histoire était préservé puisque la reine était punie pour ses crimes. Seulement, pour développer le caractère tragique d'un dénouement initialement trop simple, Thomas Corneille en a légèrement modifié le terme. Il fallait pour que ce dernier soit hautement tragique qu'il se fonde sur un coup de théâtre qui inverse l'effet des actions [8]. D'où l'idée d'une reconnaissance finale dont le caractère tragique serait l'une des causes de la mort de la reine. Il était donc plus intéressant pour lui de rendre non plus le peuple, mais la reine elle-même responsable de sa propre mort. D'une part parce que cela semblait plus vraisemblable par rapport à son caractère – en rendre le peuple responsable lui ôtait de sa grandeur et de sa dignité, tandis que le suicide mêlé à l'insulte, faisant culminer sa fureur, en faisait une criminelle plus parfaite encore – d'autre part parce qu'ainsi, cela motivait la reconnaissance – et permettait ou donnait l'occasion à Corneille d'avoir recours au procédé à succès du déguisement.
+
+Mais avant de dresser la liste des autres modifications et inventions du dramaturge, penchons-nous d'abord sur l'action principale qu'il construit à partir de cette matrice. Sachant que toute l'action tragique tombe sur la reine, voici la manière dont il l'agence : Une reine qui a déjà fait périr ses fils doit remettre le pouvoir à quelqu'un – commencement –, elle décide de garder le pouvoir à tout prix, en épousant son favori qu'elle ignore être son fils ou en tuant celui qu'elle croit être son fils – milieu –, après avoir appris la vérité, elle se donne la mort – fin. Corneille, à partir de l'élément minimal de sa mort, soit à partir de cet effet, a donc imaginé les moyens d'y parvenir, en prenant en compte les infanticides et la sauvegarde du plus jeune fils. De fait, pourquoi la reine mourrait-t-elle volontairement ? Parce qu'elle est démunie, n'a plus rien, à commencer par ce pouvoir qui est sa motivation fondamentale, mais il faut trouver autre chose pour Corneille, et qui soit en relation plus directe avec ce fils dont elle a voulu la mort. Par ailleurs, comment utiliser le déguisement – et le justifier dans l'intrigue – pour qu'il soit à même de provoquer le suicide de la reine ? Se rappelant les conséquences de l'ignorance d'identité d'Œdipe, Corneille a alors sans doute l'idée d'un amour coupable liant la mère au fils, mais seule l'ignorance d'identité pouvait permettre la naissance de tels sentiments, or Ariarate doit connaître son identité pour pouvoir reprendre sa place légitime. Il faut donc faire en sorte que seule Laodice nourrisse de tels sentiments, et qu'elle les lui taise jusqu'au dénouement afin de ménager la crise et de la pousser au suicide. L'orgueil de la reine, qui comme toute reine de tragédie, se doit ce qu'elle se doit, motivera ce mutisme. Pour provoquer la terreur, il faut pourtant mettre ces sentiments en jeu, les actualiser. Corneille imagine donc un risque d'inceste – à peine un risque puisque « Oronte » sait qu'il s'agit de sa mère et se démasquera dés qu'il sera conscient du risque – en poussant sa reine à vouloir épouser celui qu'elle ignore être son fils, tout en parvenant à ce qu'elle ne dévoile pas ces sentiments. Il faut donc trouver un prétexte à ce mariage sur le plan interne : l'ambition guidera le désir de la reine autant que l'amour, ce mariage constituera tout autant une manœuvre politique qu'un assouvissement amoureux. Mais il faut encore inventer un but vraisemblable au déguisement de l'héritier légitime. Car pourquoi se déguiser si l'on se sait le juste détenteur du pouvoir ? Comme Corneille le lui fait dire au dénouement, si son désir avait été ce seul pouvoir, Ariarate ne se serait pas dissimulé deux ans durant à la cour – temps nécessaire au développement des sentiments passionnés de Laodice à son égard. Il faut donc trouver autre chose : qu'est-ce que ce fils haï pourrait chercher à obtenir et qui l'obligerait à agir de manière indirecte ? Corneille trouve alors l'idée d'une variation de la conquête amoureuse : la conquête de l'amour maternel. Ariarate sera motivé par une quête de l'amour maternel. Voilà pour la première motivation du suicide de la reine : l'horreur de la découverte d'un amour dénaturé.
+
+Reste la seconde motivation du suicide, et que Corneille ne peut occulter puisqu'il s'agit de la perte du pouvoir, et que la passion de commander est la motivation de l'action principale. Elle est qui plus est donnée par l'histoire. De plus le déguisement d'Ariarate empêche par définition les affrontements directs et, ajouté à la dissimulation morale de Laodice, il est facteur de malentendus qui empêchent la violence d'un conflit à visage découvert – même à l'acte II, 3, où Laodice demande à « Oronte » de tuer celui qu'elle prend pour son fils et où le malentendu est en parti démêlé puisque « Oronte » sait qu'elle haïra toujours son fils, celui-ci tente raisonnablement de la fléchir mais ne profère pas de menaces allant contre la volonté de la reine.
+
+Il faut donc trouver des adversaires directs à Laodice, qui entrent plus violemment en conflit avec sa volonté, et qui la poussent à la destitution du pouvoir et donc au suicide. Ariarate ne désirant pas avant tout ce pouvoir mais l'amour maternel, il ne pourra d'autant moins s'agir de lui. Contre le désir de qui pourrait-elle donc entrer en conflit et se battre pour conserver ce pouvoir dont la perte la mène à un désespoir tel qu'elle se suicide ? Pour quelles raisons, dés le commencement de l'action, devrait-elle remettre le pouvoir en d'autres mains ? C'est là que Corneille fait ré intervenir le peuple dont il était question dans les faits historiques : le peuple donc, la *vox populi*, ferait pression pour qu'elle quitte le trône – car le peuple ne peut aimer un tyran, cela prouve donc le caractère tyrannique de la reine – et pour faire contre poids à cette force déraisonnée et joindre le premier épisode à celui ci, Corneille pense donc à Rome. Rome, et non plus la famille de Laodice aurait préservé Ariarate de ses fureurs en gardant l'enfant en otage jusqu'à ce qu'il soit en âge de régner et attend, pour le placer sur le trône, que ce dernier se soit, comme il le souhaite, attiré les bontés de sa mère – attente qui permet de ménager le dénouement et de laisser l'intrigue se développer. Mais il faut, rappelons le, trouver, en attendant la reconnaissance, une raison légitime et qui passe pour légitime aux yeux de la reine pour que celle ci se sente menacée. Corneille lui invente donc une fille en âge de se marier, absente de l'intrigue et dont l'existence seulement est utile. Le peuple et Rome semblent donc en droit d'attendre que cette fille prenne époux et couronne par là un nouveau roi. Cette création donne l'occasion à Corneille de créer un personnage intrigant et aspirant au trône : Anaxandre. De même et inversement, elle donne lieu au personnage de Phradate, pour sa part sincèrement amoureux d'Arsinoé, et qui fera office de confident au héros. Mais il faut une intrigue amoureuse entre deux jeunes gens et c'est là qu'intervient Axiane, princesse d'une province annexée et à qui Rome destine le fils héritier s'il réapparaît. On voit donc comment le dramaturge imbrique étroitement des épisodes à son action principale, qui la recouvrent et en font par là même une intrigue.
+
+Le nœud de cette intrigue, à savoir le fait que la reine veuille épouser son propre fils et les rebondissements – l'intervention de l'imposteur qu'elle veut que son vrai fils assassine, l'intervention d'Aquilius qui révèle l'imposture et l'arrivée du véritable héritier, la résignation de Laodice pour qui l'amour est désormais plus important, la déclaration à « Oronte » qui débouche sur la reconnaissance et donc le suicide – sont donc inventés par le dramaturge. Il est important de remarquer que le nœud de l'intrigue est mis en place longtemps avant le commencement de l'action, ce qui classe la pièce dans la catégorie des pièces implexes : « Oronte » est à la cour depuis deux ans, la reine l'aime déjà avant le commencement de l'action… À la différence des pièces simples, il n'y a pas en effet de coïncidence exacte entre l'histoire et l'action, il faut à l'inverse charger sa mémoire de ce qui s'est fait bien plus tôt. C'est donc l'ampleur de l'histoire et non l'action qui détermine ce classement.
+
+On remarquera donc que le nom du sixième fils de Laodice est emprunté au père défunt de l'histoire, et que le peuple est plus directement à l'origine de la mort de la reine que dans la pièce de Corneille. Corneille invente encore une fille héritière, Arsinoé que convoitent deux soupirants également imaginés. Une autre princesse, Axiane, un ambassadeur romain, Aquilius, ainsi qu'un imposteur sont également le fruit de son imagination. Hormis Laodice et le jeune roi, les personnages sont donc imaginaires. On retrouve le nom d'Arsinoé dans l'histoire de l'Orient à cette époque, mais n'intervenant pas sur scène et étant destituée de tout rôle dans la pièce, peut-on la considérer comme un personnage ? La protection romaine du plus jeune fils est également imaginée par Corneille, rien n'étant précisé par Justin. Cette occultation permet à notre auteur d'introduire la présence de Rome dans la pièce et de lui donner l'importance qu'il désire. Malgré l'affirmation de Corneille dans son avis au lecteur : « L'action principale y est si forte qu'elle m'a contraint d'affaiblir les Episodes », nous ne voyons pas ce qu'il prétend avoir édulcoré. Il a tout conservé des données initiales puisque nous avons toujours une reine infanticide par ambition, mais il les a rendues plus horribles encore en y greffant un désir incestueux et une seconde tentative d'infanticide.
+
+
+## Les influences littéraires.
+
+On sait combien les sujets reviennent dans la tragédie classique plus que dans n'importe quel autre genre. Parce que le théâtre classique est un théâtre régulier par essence, on y observe un retour obligé de types, de situations, d'expressions, d'hémistiches ou encore de vers entiers. Le théâtre classique est un théâtre de constante. Le culte de la pulsion de création est inconnu à l'auteur du XVII*e* siècle. La qualité d'une œuvre n'en dépend pas. Le copiage est perçu comme hommage, signe d'une fidélité à un grand classique.
+
+
+### Rodogune.
+
+Dans *Laodice*, les réminiscences fourmillent. Toutes nombreuses que sont ces références, on sait à qui Thomas Corneille tenait plus particulièrement, et ce qu'il en découle. Comment, en lisant *Laodice*, ne pas immédiatement songer à « l'enfant terrible » du grand Corneille, « l'enfant » pour lequel il nourrissait une « inclination aveugle » [9], à la pièce de la monstruosité par excellence, à *Rodogune* [10] ? L'allusion à la Cléopâtre de Corneille surgit comme une évidence. Entre elle et Laodice, même éloignement géographique : l'Asie Mineure est le théâtre de leurs agissements ; même situation : elles sont toutes deux reines et mères ; même passion : elles sont toutes deux mues par une ambition démesurée ; même moyens : l'infanticide. Toutes deux font preuve d'une énergie exceptionnelle. Toutes deux manifestent une fureur opiniâtre dans la poursuite de leurs desseins et surprennent par la domination qu'elles semblent exercer sur elles-mêmes. « Tous leurs crimes sont accompagnés d'une grandeur d'âme qui a quelque chose de si haut qu'en même temps qu'on déteste leurs actions, on admire la source dont elles partent » [11]. Toutes deux agissent encore dans une solitude imposée. Toutes deux horrifient par leur monstruosité et fascinent dans le même temps par leur orgueil, leur intelligence et leur apparente volonté. Toutes deux enfin ont posé problème à la critique quant à la représentation des sexes dans la tragédie classique.
+
+Exactement comme *Rodogune, Laodice* devrait soulever la question de la classification du héros. Si Jacques Scherer [12] a divisé le champs tragique de Pierre Corneille en deux camps, le camps des bons et le camps des méchants, Doubrovsky [13] en deux zones, celle de la masculinité et celle de la féminité, Greensburg en deux pôles, un pôle viril et un pôle efféminé, Doreena Ann Statamo [14], a défendu, pour sa part, un bouleversement des zones masculines et féminines, décelable à partir d'*Horace*, contenu dans *Héraclius* – on noterait une égalité homme-femme – et établi dans *Rodogune*. Selon D.A. Statamo, « on transfère les caractères féminins à des personnages masculins et vice versa ». Effectivement, l'on serait tenté de croire que Laodice, comme Cléopâtre, adopte une attitude typiquement virile selon l'esthétique du XVII*e* siècle, alors que les personnages masculins semblent au contraire manifester une attitude passive conventionnellement attribuée à la féminité. Comme a tenté de le montrer Doubrovsky, Antiochus et Séleucus s'agripperaient aux valeurs naturelles, refusant le choix du plus difficile, ce qui serait un gage d'héroïsme. Ils se condamneraient par conséquent à la passivité. Suivant ce schéma de pensée, Ariarate ferait donc preuve d'une faiblesse typiquement féminine puisqu'il ne semble pas plus acteur de la situation. On pourrait croire, à première lecture, qu'il se contente de subir ou tout au plus de réagir. C'est effectivement la reine qui demande à le voir à chacune de leurs confrontations, c'est elle encore qui ordonne qu'il l'épouse ou qu'il tue le dit Ariarate, c'est elle qui le désarçonne à chaque reprise et lui fait perdre sa virtuosité dans l'équivoque, c'est elle qui l'horrifie en lui déclarant sa flamme et le pousse à se démasquer, c'est elle qui le réduit au mutisme enfin.
+
+Pourtant, on le sait énergique hors scène – Axiane et Laodice louent à plusieurs reprises son courage, sa vertu héroïque – et c'est ce qui amène à une relecture du personnage. N'oublions pas qu'il pilote de l'intérieur l'action de Rome. De plus, son dévouement pour la Reine ne relève pas d'une attitude de faiblesse, mais d'une générosité proprement héroïque. Soit, aucune attitude de rébellion ne semble le libérer, il aspire à ce que la reine demeure au pouvoir et conserve une influence prépondérante quand il s'y trouvera ; mais ceci, comme l'espoir de la mort (III, 3) [15], (V, 2) [16], bouleverse le classement que l'on serait tenté d'établir dans un premier temps. En effet ce sacrifice héroïque montre qu'il va à l'encontre des lois de la Nature. Il réfute donc une lecture du personnage en tant que rôle passif : Ariarate est le véritable détenteur de la volonté dans la pièce. C'est lui qui est maître de la situation et de lui même, tandis que Laodice est agie par son seul désir de régner, par sa *libido dominandi*. Ses seuls intérêts l'aveuglent, tandis que le véritable héros, Ariarate, agit pour le bien de l'Etat et celui de sa mère.
+
+Remarquons par ailleurs que classer Cléopâtre au rang des héros cornéliens relève de l'extrapolation. Corneille dans son fameux propos « tous ses crimes sont accompagnés d'une grandeur d'âme qui a quelque chose de si haut qu'en même temps qu'on déteste ses action, on admire la source dont elles partent » ne mettait absolument pas sur le même plan l'admiration suscitée par les vertus et actes de ses héros et l'admiration suscitée par la source, soit le tableau dont partent les actions criminelles de sa reine. Il s'agissait là d'un raisonnement purement esthétique et non bien entendu éthique. Ce que l'on admire dans Cléopâtre comme dans Laodice, ce sont les qualités de la transposition esthétique, la perfection de la peinture de leur caractère respectif. À noter que si Thomas Corneille ne fait pas plus agir son héros que son frère les siens, c'est en vue d'insister esthétiquement sur l'opposition éthique absolue entre le héros – « Oronte », Antiochus, Séleucus – et le criminel – Laodice, Cléopâtre, à qui Corneille n'a jamais attribué le terme d'héroïne mais de criminelle. Ainsi, plus le héros tentera d'approcher de la perfection dans l'ordre de la vertu, plus le criminel tentera pour sa part d'approcher de cette perfection, mais dans l'ordre du crime et de la fureur démoniaque. C'est pourquoi ni Ariarate ni Antiochus et Séleucus ne choisissent d'agir : pour faire face à la perfection criminelle de leur mère, il leur faut inversement manifester une perfection dans la vertu. Voilà pourquoi les trois personnages n'ont même pas la pensée de s'attaquer à leur mère, alors que ces dernières restent parfaitement criminelles jusqu'à la mort.
+
+De plus, si Laodice semble manifestement virile, elle est cependant condamnée à la féminité, elle y est enchaînée. Là est son déchirement : durant toute la pièce elle aspire à se libérer d'une nature pesante mais c'est pour elle qu'elle se bat et livre une lutte stérile. Elle est effectivement mue par une peur de l'agression extérieure. Elle retarde au maximum l'assaut final, de Rome avec l'introduction d'Aquilius au Palais, du Peuple qui assiège la Cour de ce même Palais. Laodice est donc fatalement féminine et c'est le viol de son espace privé qui constitue la crise tragique. Laodice, d'autre part, est également enchaînée à une féminité qu'elle abhorre puisqu'elle s'inscrit sous le signe de la division : Il faut en effet « ou périr ou régner » [17], il s'agit encore « ou d'attendre ou de lancer la foudre » [18], il faut également « craindre son crime ou haïr sa vertu / (…) Pour se sauver de l'un, ou le punir de l'autre » [19], il faut enfin « Devenir sa victime, ou se faire la sienne / et se résoudre enfin / De perir par (son) crime, ou de le prévenir [20]. » Avant son entrée en scène, elle est également présentée de manière kaléidoscopique. Axiane et Alcine, à la scène I, font allusion à son ambition démesurée :
+
+Jalouse de l'éclat dont la couronne brille  
+La Reyne que le Trône a toujours sceu charmer [21]  
+
+Aux scènes 2 et 3, « Oronte » rappelle le sombre passé de la reine :
+
+De cinq fils, tous enfans, restez en son pouvoir,  
+La mort söuilla son nom du crime le plus noir  
+
+Il n'est question que d'elle au cours de l'acte I, et pourtant nulle part elle n'apparaît encore. On lui confère un caractère obscur, on l'opacifie pour piquer l'intérêt. On joue donc sur l'ambivalence. Cette duplicité, conventionnellement attribuée aux femmes, constitue un principe négatif au XVII*ème* siècle. Elle n'est pas le Bien, qui lui est limpide, pur, clair. Laodice, divisée par des points de vue divers, est diabolique avant même son entrée en scène puisque comme le Diable, elle est division.
+
+La délimitation du sujet peut également être en lien avec la question des sexes. *A priori* il s'agirait chez Thomas comme chez Pierre de la passion du pouvoir. Dans *Laodice* comme dans *Rodogune*, le désir d'accéder au rang suprême motive effectivement l'action. Chez Thomas comme chez Pierre pourtant ce sujet n'est qu'un prétexte. De fait, on ne voit jamais les Reines dans l'exercice du pouvoir. On pourrait, comme ailleurs, les voir donner des instructions à un gouverneur, mais non. On ne sait si elles gouvernent bien ou mal, ni pourquoi elles aiment autant régner. Le sujet n'est pas là. Dans *Laodice*, il est dans le repli, dans la tentative de négation du monde extérieur. Laodice tente de nier le vouloir de Rome et celui du Peuple. Le long de la pièce on la voit lutter pour étouffer la vie extérieure, s'en protéger, lui interdire l'accès à l'espace privé du Palais. Malheureusement pour elle, cette vie du dehors prend le pas et triomphe. L'enjeu véritable est donc le conflit entre l'extérieur et l'intérieur.
+
+Si le fait que l'on ne voit ni Laodice, ni Cléopâtre dans l'exercice du pouvoir se justifie dans *Laodice* par son caractère secondaire, sa moindre importance pour l'enjeu fondamental de la pièce, il n'est cependant pas anodin. *Laodice* et *Rodogune*, toutes subversives qu'elles semblent, s'inscrivent dans la conception contemporaine du pouvoir souverain. Dans son article *La femme au pouvoir ou le monde à l'envers* [22], P. Ronzeaud évoque l'exemple d'une estampe anonyme faisant le parallèle entre une femme partant à la guerre et une mule fouettant le muletier. Cette comparaison révèle combien l'idée d'une femme liée aux responsabilités de l'Etat semble contre nature aux contemporains. Bien qu'envisagée sur le plan théorique lors de la loi salique, cette éventualité ne se conçoit même pas au XVII*e* siècle. Elle est perçue comme une absurdité totale. Selon P. Ronzeaud, l'inconsistance des arguments appuyant cette réalité prouve que son origine se trouve dans la crainte fondamentale d'une subversion de l'ordre masculin. Si en Angleterre les données diffèrent, et permettent à la littérature de donner jour à des reines telles qu'Elisabeth Thudor, souverainement reines et dignes de régner, la femme au pouvoir dans le théâtre français ne pouvant se référer à l'actualité contemporaine, ne se conçoit par conséquent qu'à travers la norme de Rome. Si femme au pouvoir il y a, ce ne peut être qu'une Livie ou une Agrippine, une intrigante empoisonneuse. Toutes les Cléopâtre, les Lady Macbeth, les Agrippine, les Laodice présentent l'intérêt au dramaturge de se livrer au récit complaisant de leurs intrigues et de leurs fourberies respectives. Alice Kathé porte un regard moins négatif sur ce fait. Il ne s'agit plus de complaisance de l'auteur, mais d'une réalité imposée par l'infériorité physique des femmes. Elles sont donc obligées, pour exercer leur pouvoir, de redoubler de détermination et d'ingéniosité, d'agir par des moyens indirects, d'user de persévérance, d'avoir recours au mariage, aux intrigues, aux menaces, ce qui est tout à leur avantage. En effet, Georges Couton remarque, dans sa préface de *Rodogune* [23] que « Pour qui veut régner et n'est pas le plus fort, la dissimulation est une vertu. Cléopâtre fait l'apologie de cette « Digne vertu des Rois, noble secret de Cour ».
+
+
+### Les grands criminels.
+
+Nous l'avons dit, le théâtre classique est régulier. Il comporte des constantes. On peut y observer des types de personnages récurrents. Laodice appartient à la catégorie des monstres inaccessibles aux remords, auteurs de crimes spectaculaires. Les personnages de Cléopâtre et Laodice, si étonnant soient-ils pour un lecteur moderne sont donc parfaitement délimités, typiques, réguliers. Ils appartiennent à la famille des Nabuchodonosor, des Médée, des Attila…, à la famille des grands criminels qui sont les seuls inventeurs de leurs crimes et les revendiquent avec fierté. Ces monstres éveillent une fascination esthétique. Le public en est friand parce qu'ils font naître en lui un sentiment étrange, mêlé d'horreur et d'admiration. Majesté tragique oblige, ces personnages n'accomplissent que de grands crimes.
+
+Le nombre de noms et de types est donc très limité. « Les héros étrangers au personnel du genre sont très rares » comme le dit J. Truchet [24]. Il est amusant et passionnant de remarquer qu'un véritable réseau, très serré, lie les pièces entre elles. Truchet compare ce processus au retour des personnages dans l'œuvre de Balzac. On peut effectivement retrouver Laodice et Arsinoé dans *Nicomède*, mais leurs rôles sont inversés puisque Arsinoé tient le rôle de la marâtre.
+
+Dans la classification opérée par Truchet, *Laodice* entre dans une catégorie bien précise : celle de la vieille reine inflexible et cruelle qui ne travaille que pour elle et est prête à sacrifier ses enfants. Nous y trouvons bien évidemment Cléopâtre, mais encore Athalie, Agrippine, Catherine de Médicis dans Charles IX, Arsinoé encore, Marcella, Sira. Elles peuvent se battre pour leurs enfants contre leurs beau-fils ou les rivales de leurs filles.
+
+Laodice rappelle plus précisément toutes les furies célèbres du théâtre classique. Elle est habitée par la même rage que Lady Macbeth, rage qui semble la pousser également jusqu'au délire, même s'il n'est pas la folie de la seconde. À l'acte III, scène 3, elle développe un discours agité empreint de paranoïa. Comme lady Macbeth qui aspire à ce que « rien de la nature n'ébranle son dessein féroce », elle méprise cette Nature puisqu'elle traite de « foiblesse / Ce que peut la Nature inspirer de tendresse » et se targue du fait qu'elle ait « gémist, dans la mort de cinq Fils » [25]. Elle éprouve une identique obsession pour le sang. Lady Macbeth demande aux forces du mal d'épaissir son sang, veut en barbouiller le visage des gardes, et dans sa folie à l'acte V, cherche à s'en laver ses mains. Son motif apparaît une vingtaine de fois dans le discours de Laodice (III, 3) et (V, II). Par son caractère infanticide, on ne peut s'empêcher de penser à Médée, mais le point commun s'arrête là. L'acte de Médée est motivé par l'amour, la fierté et il s'agit d'un sacrifice pour elle qui aime ses enfants. D'autre part Laodice considère l'amour comme une faiblesse. Elle rappelle Agrippine, encore, qui parvient à ses fins à force de ruses, de manœuvres secrètes, et qui opère par empoisonnements. Mais c'est Agrippine qui est tuée par son fils. Sans oublier Jocaste, car l'on pense fatalement à Œdipe Roi dans l'éventualité d'un mariage mère-fils à l'acte III. On se rappelle encore de *Timocrate* où le héros est également présent à la cour où il a gagné sa faveur, et aime une princesse qui ne connaît pas son identité.
+
+
+## Les tragédies de l'identité.
+
+Si l'on pense immédiatement à *Rodogune* en lisant *Laodice*, parce qu'il y a similitude troublante de sujet, il est surtout fondamental de rapprocher la tragédie aux pièces *Héraclius, Don Sanche d'Aragon* de Corneille ou encore *Timocrate*. Ces quatre pièces ont en commun de se fonder sur un déguisement d'identité. Son ampleur dans le théâtre moderne montre que loin de se réduire à un simple procédé, il constitue un véritable phénomène au XVII*e* siècle. Dans les quatre pièces, on constate que le déguisement est revêtu par le héros, à savoir celui qui, comme le décrit Jacques Scherer est « jeune, beau, malheureux, courageux, noble ». À noter que si l'on classe « Oronte », Héraclius, « Carlos » dans la catégorie des héros, ce n'est pas obligatoirement parce qu'ils sont ceux qui parlent le plus, mais parce qu'ils constituent l'une des figures principales de la pièce. Remarquons encore que tous sont des déguisements fondamentaux, puisqu'ils ont un effet déterminant sur l'action, lui sont indispensables ainsi qu'à la présence sur scène du personnage qui le revêt. Tous sont également des déguisements verbaux mais là s'arrête la parfaite concordance.
+
+Si le déguisement de Timocrate est conscient comme celui d'« Oronte », l'effet produit sur le spectateur diffère radicalement : le déguisement de Timocrate provoque la surprise tandis que celui d' « Oronte » instaure une ironie. Dans un cas le spectateur se retrouve avec les victimes du déguisement, l'ignorant jusqu'à la reconnaissance finale, dans l'autre il est mis dans la confidence et peut suivre en pleine connaissance de cause l'évolution du jeu du personnage déguisé. Les données se compliquent dans *Héraclius* et *Don Sanche d'Aragon* puisque l'on a affaire dans les deux cas à une combinaison de deux déguisements. Deux personnages se déguisent, consciemment pour l'un – Héraclius sait qu'il n'est pas Martian – inconsciemment pour l'autre – Martian se croit Léonce puis Héraclius – dans *Héraclius*. Un seul personnage, en revanche, dans *Don Sanche*, se déguise, mais consciemment et inconsciemment à la fois et l'effet n'est pas non plus l'ironie mais la surprise du public.
+
+Commençons par comparer *Laodice* à la seule autre tragédie : *Héraclius*. Dans les deux pièces, le héros est l'héritier légitime d'un trône usurpé et il lui faut dissimuler son identité à un tyran sanguinaire qui croit l'avoir éliminé. Héraclius – « Martian » feint d'être le fils de Phocas tandis qu'« Oronte » feint de ne pas être le fils de Laodice. C'est donc en pleine conscience que les héros endossent une autre identité et jouent le rôle qu'impose la situation – nouvelle ou non – ainsi créée. Martian, à l'inverse, se croit autre que ce qu'il est en réalité. Ces déguisements sont verbaux, nous l'avons dit. À noter qu'il va de soi qu'un déguisement verbal fonde tout déguisement conscient puisqu'il faut prétendre être une personne fictive. Malgré ce que l'on serait tenté de croire, les prétextes des déguisements des deux héros diffèrent : si Héraclius y a recours pour le pouvoir, Ariarate cherche avant tout à « conquérir » sa mère, à s'attirer ses bontés. Le pouvoir n'est pas sa principale motivation. Le prétexte du déguisement de Martian n'est pour sa part pas un but mais une cause puisqu'il s'agit d'un déguisement inconscient. Si Martian passe pour Léonce, c'est parce qu'il y a eu échange d'identité et de cette substitution découle toute l'action. Si dans *Laodice*, comme il est plus courant, l'héritier légitime a été éloigné du trône avant qu'on le fasse revenir sous les traits d'un aventurier, il est ingénieusement laissé à la Cour dans *Héraclius*.
+
+Sur le plan de la théorie, *Laodice*, comme *Héraclius* dont elle est l'héritière, est construite sur un déguisement rhétorique, ce qui prend le contre-pied, selon les textes, de l'héritage aristotélicien. En effet, deux conceptions de l'utilisation du déguisement se font concurrence : à un déguisement classique fondé sur la double détente – conséquences du déguisement puis reconnaissance qui vient résoudre les problèmes suscités par le déguisement – et dont le but serait de ménager une ingénieuse reconnaissance, on oppose un déguisement moderne, se rapprochant du déguisement espagnol, et jouant davantage sur la superposition du masque et du visage. Le plaisir provient plus alors du jeu sur l'ambiguïté qui court tout au long de la pièce que de l'effet produit par la reconnaissance. À ce titre, *Laodice*, pourtant conçue en pleine période classique par un auteur particulièrement rigoureux, joue encore fortement avec l'ironie verbale propre au déguisement rhétorique, alors que la tendance s'est inversée depuis 1660. Le déguisement auquel Thomas Corneille a recours est pourtant, lorsque l'on scrute les textes, condamné de manière implicite par les doctes puisqu'il suscite des complications consciemment et gratuitement renouvelées. Dés l'acte II, le déguisement d'« Oronte » ne devrait plus en effet avoir lieu d'être puisqu'il pense être parvenu à se faire aimer de sa mère. Le but initial de sa dissimulation d'identité est atteint selon le point de vue du personnage. Pourquoi le conserver alors, si ce n'est dans le but d'un développement dramaturgique de l'ambiguïté ? Ce déguisement n'est même pas utile à son accession au trône puisque comme il le dit lui même s'il n'avait eu pour seule ambition que celle-ci, il ne se serait pas dissimulé pendant deux années durant. Comme dans *Héraclius*, l'utilisation du déguisement dans *Laodice* n'est donc pas dramatique et conforme à l'esthétique classique. Le déguisement ne porte pas essentiellement sur la construction de la pièce. Comme dans *Héraclius*, il engendre une hésitation constante entre l'être et le paraître, permet de jouer sur le langage et conditionne les sentiments.
+
+Sur le plan esthétique, les deux pièces diffèrent enfin. *Laodice* obéit au principe de l'action médiatisée puisque Ariarate se déguise pour agir de manière indirecte en contournant un interdit – la haine maternelle – et ce dans le but de s'en faire aimer. *Héraclius* répond en revanche au principe de l'action empêchée puisque le déguisement devient l'obstacle, le personnage devenant prisonnier de son déguisement. Notons que le déguisement d'Ariarate se solde par un échec : son but n'est pas atteint puisque sa mère l'aime d'un amour dénaturé même quand elle apprend sa véritable identité.
+
+Quant au risque d'inceste, fraternel dans *Héraclius*, parental dans *Laodice*, ce qui est déjà plus rare, s'il est faux dans le premier cas, il n'existe pas réellement dans le second. De plus il ne peut s'agir à proprement parler d'une barrière du sang pour l'action du personnage déguisé dans *Laodice* puisque « Oronte » se déguise consciemment – il ne peut donc *a priori* être aimé inconsciemment par son parent, ni croire qu'il aime son parent à tort, ce qui sont les deux cas de figure possibles – pour vaincre un obstacle – son déguisement relève de l'esthétique de l'action médiatisée et non de l'action empêchée – ; le déguisement ne devrait donc pas devenir l'obstacle, comme dans *Héraclius*. Mais nous reviendrons là dessus. Thomas Corneille, en poussant Laodice à se dissimuler moralement et donc à cacher ses sentiments, créée tout de même l'obstacle.
+
+Penchons nous maintenant sur la question de la barrière du rang. *Laodice* rejoint cette fois *Don Sanche*. Le thème de la mésalliance est en effet présent dans les deux pièces puisque « Carlos » et « Oronte » se font passer tous deux pour de glorieux aventuriers dont deux reines et une princesse sont respectivement amoureuses. Le déguisement qui affuble le héros d'une condition inférieure à la condition de celle qu'il aime constitue l'obstacle autour duquel s'organise l'action dans *Don Sanche*, tandis qu'il fonctionne comme un faux obstacle dans *Laodice* – la conquête d'Axiane ne fait pas partie de l'action principale. « Oronte » pourrait mettre Axiane dans la confidence de sa double identité, mais il la lui tait par jeu, non par véritable interdit comme Timocrate qui est l'ennemi direct de la personne aimée ou « Carlos » qui se croit d'une naissance obscure. Mais si le thème de la mésalliance occupe une grande place dans la fiction narrative occidentale et se montre efficace sur le plan dramatique, il ne faut pas oublier que pour le XVII*e* siècle, il n'est pas de valeur sans noblesse. Par conséquent, ce thème ne peut être conçu en dehors du cadre des fausses apparences. La mésalliance en tant que telle est impensable : la légitimité aristocratique n'est certainement pas en cause.
+
+Aussi la mésalliance est-t-elle présentée et perçue comme un véritable danger dans les deux pièces : Elvire, Isabelle et Axiane ne songent pas seulement à avouer leur amour. Dés les premières scènes, Elvire laisse surprendre par sa mère les sentiments qu'elle porte à « Carlos » (I,1), Isabelle laisse entrevoir malgré elle qu'elle pourrait l'aimer (I,3) et Axiane fait entendre à sa suivante que « son cœur en succombant s'est caché sa defaite [26] » mais chacune se reprend vite, rappelant qu'elle sait ce qu'elle se doit. Ainsi Elvire : « Je sais ce que je suis, et ce que je me dois. » Isabelle pour sa part se réprime par la prétérition :
+
+Soit que j'aime Carlos, soit que par simple estime  
+Je rende à ses vertus un honneur légitime,  
+Vous devez respecter, quels que soient mes desseins,  
+Ou le choix de mon cœur, ou l'œuvre de mes mains [27]  
+
+quant à Axiane, elle « tâche à ( …) cacher » à Oronte / Ce qu'en vain de son cœur elle voudroit arracher et s'observe sans cesse en tout ce qu'il lui inspire ». Mais si Corneille sait jouer admirablement avec l'émotion conférée par le non-dit dans les scènes d'entretien entre ses héroïnes et « Carlos », Thomas se montre plus sentimental en laissant transparaître les sentiment d'Axiane (II, 2). Le contraste est effectivement moins violent entre la sensibilité secrète et le masque public. En quittant « Oronte » sur ces mots :
+
+Vous pourriez esperer le succez le plus doux,  
+Si l'orgueil de mon rang n'estoit pas contre vous.  
+
+Axiane laisse entendre clairement son amour pour le glorieux inconnu. La retenue amoureuse reste, mais il s'agit plus de préciosité, d'un jeu de cache-cache avec l'amour que d'un souci, comme chez Corneille, de prêter à des reines des attitudes de reines. Si Axiane affirme en privé qu'elle sait ce qu'elle se doit, elle finit contrairement aux deux autres reines par avouer clairement ses sentiments (III,1) :
+
+Je ne t'en ay déjà que trop dit pour ma gloire,  
+Acheve de joüir de toute ta victoire [28]  
+
+Au niveau de la structure interne des déguisements, il devrait donc y avoir distorsion entre condition réelle et fictive des personnages. S'il y a effectivement contradiction entre la naissance obscure de « Carlos » qui se croit fils de pêcheur et sa valeur exceptionnelle, il faut remarquer qu'« Oronte », comme Timocrate, n'a pas changé de condition en endossant son déguisement. Il a changé de rang puisqu'il reste le principal soutien militaire de la reine ; Aucune de ses paroles par conséquent ne laisse planer le doute sur son identité fictive : pour comprendre la double-entente, il faut connaître l'identité réelle. L'adéquation entre apparence et discours demeure donc. La double-entente n'est pas un manquement du personnage qui joue mal son rôle mais inversement une réussite totale du déguisement. On préfère montrer un héros laissant transparaître volontairement des marques de son moi véritable à travers un discours ironique parce qu'il révèle une maîtrise du personnage sur son destin, tandis que la distorsion révèle sa vulnérabilité.
+
+Comme *Œdipe Roi*, comme *Héraclius, Laodice* est donc avant tout « une tragédie de l'identité » [29]. Au delà des satisfactions intellectuelles suscitées par la virtuosité mécanique du procédé, *Laodice*, comme *Héraclius*, soulève un enjeu plus profond. *Laodice* n'est pas, comme *Œdipe Roi*, une tragédie de l'accès au savoir, elle n'est pas non plus, comme *Héraclius*, une tragédie de l'impossibilité de savoir puisque Ariarate, contrairement aux deux autres héros, connaît son identité. Le déguisement devrait servir, comme il est fréquent, à surmonter un obstacle. Ariarate y a effectivement recours pour surmonter l'obstacle de la haine maternelle et pour conquérir sous une identité fausse un amour qu'elle n'offrirait pas à son fils. Comme dans *Œdipe*, l'ignorance enferme les personnage dans un cercle infernal et les mène droit à la crise tragique. Mais dans *Œdipe*, l'ignorance n'est pas voulue et utilisée par les héros, ils y sont condamnés par le destin. Dans *Laodice*, l'ignorance résulte du libre arbitre des héros : Ariarate décide de taire son identité à sa mère, Laodice décide de taire son amour à celui qu'elle ne connaît que sous le nom d'Oronte. Le déguisement qui devait servir à surmonter un obstacle devient l'obstacle, et c'est par là que *Laodice* rejoint *Héraclius*.
+
+
+# Le classicisme trouble de Laodice.
+
+
+## *Laodice*, une tragédie classique.
+
+S'il existe une période de plein classicisme, *Laodice*, représentée en 1668 s'y inscrit précisément. Elle a donc toutes les raisons de répondre aux critères de cette esthétique. Comme nous le savons, la production théâtrale des années 60 est intense. De 58 à 73, Paris voit pour la première et dernière fois de son histoire l'installation officielle de trois théâtres permanents. Les pièces représentées y sont sans cesse renouvelées. Le pouvoir, qui accorde une large place aux fêtes royales, leur prête son appui. On vient applaudir Corneille et Racine, dont la gloire est incontestée, mais on s'enthousiasme également beaucoup pour deux dramaturges féconds et pleins de talent : Quinault et Thomas Corneille. Comme le remarque Jacques Truchet, « tous connaissent leur métier, respectent les règles d'un genre dont la discipline est maintenant tout à fait fixée, le langage châtié et la versification rigoureuse ». Comme il le remarque encore : « le Romanesque n'est pas mort, mais ses excès les plus voyants sont contenus. (…) L'auteur de *Timocrate* a désormais intérêt à imiter son frère ou Racine ».
+
+
+### Respect des règles.
+
+La littérature produite lors de cette décennie aspire à une perfection dont les règles sont considérées comme un des moyens d'accès. On codifie, on construit, on cisèle l'expression, on tente de mettre au jour des sortes de « cathédrales littéraires », rigoureusement imaginées en vue d'éblouir le spectateur. Sans rigueur, pas de cohérence, pas d'équilibre, pas d'harmonie possible. Sans rigueur, pas d'admiration. *Laodice*, pur produit de cette décennie classique, répond parfaitement aux exigences contemporaines. *Laodice* est une pièce régulière. Formellement, elle est impeccable. Il s'agit bien de
+
+
+l'imitation d'une action de caractère élevé et complète (…) dans un langage relevé d'assaisonnement d'une espèce particulière (…) par des personnages en action et qui suscitant pitié et crainte opère la purgation propre à de pareilles émotions [30].
+
+En effet, le sujet est de caractère élevé : de très hauts personnages – une reine, des princes, un ambassadeur romain – entrent en conflit pour un grand intérêt d'Etat, l'accès au trône de Cappadoce. Le sujet et les personnages sont tirés d'épisodes obscurs de l'histoire ce qui a pour intérêt de laisser une liberté plus grande à l'imagination, et de provoquer un éloignement propice à la majesté et au respect. L'éloignement géographique participe également de cet effet.
+
+Les trois unités sont respectées. L'intrigue met bien en scène une crise tragique, elle même abordée le plus près possible de sa fin. Tout se concentre et se joue en une journée. Le passé, l'avenir viennent s'actualiser en un moment. Ce moment incarne les menaces depuis longtemps accumulées – les infanticides de Laodice, les rumeurs véhiculées par le peuple, la connaissance romaine de ses agissements, la volonté de placer l'héritier légitime sur le trône, le dévouement d'Ariarate dit Oronte pour la reine qui lui a laissé le temps d'asseoir son amour pour lui – ; et il ouvre tout un avenir – un règne légitime. Tout converge vers cette courte journée puisque la vérité sur le passé y éclate : les crimes, la monstruosité de la reine sont révélés aux yeux de tous, de même que la vérité concernant l'avenir. Dès le début de l'intrigue, Rome et Ariarate connaissent en partie le dénouement, ils savent en tout cas l'issue du combat, ils savent que tout est joué d'avance, que l'héritier règne pour ainsi dire déjà. Fidèle aux procédés du théâtre classique, Corneille utilise l'accélération temporelle pour appuyer celle du processus tragique. On note effectivement une ellipse après la scène 5 de l'acte IV. Laodice et Anaxandre se réunissent en coulisse pour fomenter un complot contre celui qu'ils prennent pour Ariarate. À partir de l'acte IV, les scènes se raccourcissent et semblent donc se succéder de manière accélérée. L'acte IV en contient sept et l'acte V, six, pour respectivement quatre, six et cinq scènes, plus longues, aux actes I, II et III.
+
+Comme le temps, le lieu joue un rôle prépondérant dans la tragédie. Le fait qu'il soit unique, restreint, oppressant, alimente la tension tragique, transcendant la contrainte de la règle d'unité. Nos personnages y semblent emprisonnés puisque nous ne les voyons se confronter qu'entre les murs du Palais de la Reine. Ils en sortent pourtant parfois, mais chaque fois reviennent comme attirés machinalement dans la toile de Laodice. Le Palais semble un piège dans lequel elle voudrait retenir ses sujets. Il apparaît également, vu du dehors, comme un espace fermé, sclérosé, dont l'accès est rendu impossible. On retarde au maximum l'introduction des éléments étrangers. Aquilius, représentant de l'extérieur n'en pénètre les murs que très tardivement dans l'intrigue, à la fin de la scène 4. Le Peuple force son enceinte au dernier acte, dernière scène. Trois personnages sortent et font le lien entre extérieur et intérieur au cours de l'intrigue. Parmi eux on compte Théodot, mais il n'apparaît qu'une fois, sa seule fonction étant de donner des nouvelles de l'extérieur. N'ayant pas assez de consistance pour être considéré comme un personnage de l'intrigue, il est peu important pour elle qu'il soit enfermé dans l'espace de la reine. Axiane, annonçant, à la scène 2 de l'acte IV la mort subite du dit Ariarate et la colère du peuple, de même qu'à la scène 4 de l'acte V, ne subit pas non plus de manière absolue le joug de la reine. Quant à Phradate, il est le représentant de l'extérieur à l'intérieur puisque sa fonction semble être la communication des faits du dehors. À chaque apparition, hormis la première, il arrive en donnant des nouvelles de ce mystérieux extérieur. Seule Laodice, finalement, ne quitte jamais le Palais, malgré ce sentiment diffus d'emprisonnement. Cette impression d'enfermement est sans doute suscitée par le caractère vampirisant du personnage de la reine, qui est animé par un principe d'absorption. Il lui faut intégrer des éléments dans une intériorité, les conserver dans un espace intime et clos, qu'il s'agisse de son corps – en lui faisant désirer « Oronte », Thomas Corneille émet l'éventualité de la réintégration du fils à l'intériorité de la mère. Qu'elle ignore le caractère incestueux de son désir importe finalement peu. C'est l'éventualité de l'acte dans l'esprit du spectateur qui prime –, ou de sa Cour – elle est mue tout au long de l'intrigue par la volonté de conserver la sclérose initiale du Palais. Il faut prolonger l'immobilisme du pouvoir, refuser l'accès aux éléments extérieurs facteurs de bouleversement.
+
+Par ailleurs, l'enfermement progressif des personnages à l'intérieur de l'espace scénique contribue à cette impression. Si, aux actes I, II et III ils ne fonctionnent pratiquement que par binômes – sauf pour les annonces de mariages – privilégiant l'intimité voulue par la Reine, et habituant le spectateur au calme du huis clos, nous pouvons observer que la scène se peuple en revanche brusquement a partir de l'acte IV. Scène après scène elle est progressivement submergée comme par une marée humaine, et ce jusqu'à saturation. Effectivement, à la scène I, Laodice est seule avec Cléone. À la scène 2 se joint Axiane, à la scène 3, Phradate, à la scène 4, Anaxandre, à la scène 5, Ariarate. Le processus s'accélère à la scène 6. Le nombre de personnages occupant l'espace scénique double. Ils sont désormais prêt d'une dizaine à l'occuper, puisqu' Aquilius, qui vient s'ajouter au groupe, est accompagné d'une suite de romains. On se retrouve ainsi à dix à la scène 6 où seules Axiane et sa confidente manquent au tableau. Cette unique absence préfigure le caractère vain des tentatives d'enfermement de Laodice. Bien qu'insignifiante en apparence, elle ouvre une brèche. L'espace scénique, comme l'enceinte royale, n'est pas imperméable. Il est possible de s'y soustraire comme de s'y introduire : Axiane, élément intérieur, sort de scène – bien qu'elle ne quitte pas le Palais à ce moment là. Mais ce qui importe, c'est l'impact de cette sortie sur le spectateur – ; Aquilius, élément extérieur, rentre. L'acte IV marque donc les derniers efforts de la Reine pour piéger et s'approprier ses sujets. Après l'atteinte d'un paroxysme dans la contenance scénique, le monde de la reine entre en déliquescence à l'acte V. Ses plans échouent : Anaxandre, son complice, est tué. Elle apprend l'identité de celui qu'elle se destinait pour époux. Son monde, maintenu en équilibre le plus longtemps possible, s'écroule de manière spectaculaire. L'espace scénique s'est brutalement vidé. À la scène 2, Laodice et Ariarate sont désormais seuls. Laodice, vaincue, enfin consciente du caractère illusoire de son univers et vain de ses actes, se retire à son tour pour disparaître d'un espace qui n'était pas le sien.
+
+Plus largement dans la pièce, on note un effet de saturation progressive de l'espace. On y investit l'espace intérieur mais aussi l'espace extérieur, la ville et le Palais. L'espace intime, interdit de Laodice, cet espace oppressant est assiégé de toutes parts : le champ extérieur – les coulisses – est progressivement rempli par le peuple, le champ scénique – l'intérieur du Palais – se peuple progressivement, le champ mental de la reine est progressivement envahi par Rome, le champs physique, quant à lui est également investi puisque Laodice se donne la mort en y introduisant un poignard.
+
+Rome au début de l'intrigue, se réduit à une idée : la nomination d'un nouveau roi, peut-être à une personne, Aquilius, absente, dont on attend la venue. Rome, si lointaine et abstraite aux premières scènes avance, se rapproche progressivement. L'idée d'attente revient comme un leitmotiv jusqu'à l'acte IV. À la scène 1, dans les tous premiers vers déjà, Axiane s'indigne que la reine se décide enfin à donner un roi à la Cappadoce « sans daigner *attendre* qu'icy l'ambassadeur ait le temps de se rendre ». Corneille choisit dans les scènes suivantes des termes comme « amène », « arrivant » pour mettre en évidence la situation d'attente des personnages. « Aquilius … *vient*, il *est plus près* qu'on ne croit » à la scène 3. On trouve encore : « *attendant* le Romain ». À l'acte II, toujours, « Aquilius ne *vient* que pour cet hyménée », « Aquilius *vient* entre eux resoudre d'un maître, Aquilius *est tout prêt d'arriver »*, enfin , à la scène 5, « Aquilius *arrive »* quelques vers plus bas. Mais il faut attendre l'acte IV, scène 3 pour qu' « Ariarate arrive … *suivy* d'Aquilius ». Quelques vers plus bas « Aquilius *s'avance »* toujours et encore. À la scène suivante, on évoque encore « Aquilius *s'avançant* vers la ville ». Ce n'est qu'à la scène 6 qu'il paraît définitivement et prend la parole. Si elle ne manifeste sa présence sur scène qu'à la scène 6 de l'acte IV, Rome s'est déjà déployée à l'extérieur, comme le rapporte Phradate dans son récit de la scène 3, où il décrit la pompe des troupes romaines s'avançant au loin sur la plaine.
+
+Nous reviendrons plus tard sur l'invasion progressive de l'espace par le peuple. Entité lointaine, comme Rome, au début, il fourmille aux portes de l'espace intime de Laodice à la fin de l'intrigue.
+
+Nous l'avons vu, les personnages envahissent à leur tour l'espace scénique à l'acte IV. Une fois saturé, cet espace se vide à la scène suivante. Les personnages sont à nouveau cinq.
+
+À l'acte V, le relais passe à l'extérieur. À la scène I, Phradate prévient que le Peuple enragé « Eust pû jusques sur elle achever son ouvrage [31] » – sa vengeance, exercée déjà sur Anaxandre. À la scène V, Aquilius prévient qu'une marée humaine va « grossissant dans la Cour du Palais [32] ». Phradate à la scène suivante parle d'un « Peuple au palais amassé [33] ». L'espace extérieur parvient également à saturation puisqu'il enserre l'espace intérieur, ne laisse plus d'issue. La pièce arrive à terme : l'espace que s'évertuait à protéger Laodice est investi de toutes parts. Son univers ne peut maintenant plus que s'écrouler. Le peuple, qui incarne les pulsions débridées, est comme l'écho monstrueux, à grande échelle, de son désir incestueux. À force de brutalité, il pénètre l'espace interdit de la reine, engendrant par cet assaut sa mort. À moindre échelle, Laodice assouvit sa coupable pulsion en assiégeant un autre espace interdit : son corps. La saturation est totale. La pièce n'a plus lieu d'être.
+
+Quant à l'action, toute complexe et embarrassée qu'elle peut paraître, il en demeure que « les différents fils sont tissés de telle sorte que tout acte ou parole d'un des personnages réagit sur le destin de tous les autres et que chaque détail se subordonne à l'action principale » [34]. Les fils peuvent être multiples dés lors qu'ils se rejoignent et contribuent à l'unité de l'intrigue.
+
+L'action de Laodice est concentrique. On observe en effet que ce qui passe pour l'action principale, à savoir le fait que Laodice veuille et le pouvoir et « Oronte » – et ce qui en découle –, s'inscrit comme à l'intérieur d'une action plus vaste qui vient la motiver de manière détournée. Ce second fil contient l'action de Rome, à savoir le fait qu'Aquilius vienne, officiellement pour aider la reine à faire choix d'un nouveau roi, officieusement pour placer Ariarate sur le trône. C'est l'action officielle qui déclenche l'action de la reine. Partant de là, toute l'action sera motivée et marquée par la dissimulation, Laodice agissant pour déjouer une illusion, et usant également dans son action de la dissimulation. L'action d'Ariarate au cours de l'intrigue s'intègre à celle de Rome. Avant qu'Aquilius n'apparaisse, il en est l'agent et la représentation sur scène. L'action de Laodice est donc encastrée dans l'action de Rome, pilotée de l'intérieur par Ariarate, qui la motive perpétuellement.
+
+Elle la déclenche : Apprenant la venue d'Aquilius et son motif déguisé, Laodice entreprend de déjouer Rome et de manipuler « Oronte ». À l'acte II, elle dit vouloir nommer un nouveau roi, officiellement, pour conserver le Diadème, officieusement. Elle souhaite qu'il s'agisse d'« Oronte », officiellement, pour le posséder, officieusement. Face à cette double volonté, Ariarate est contraint au mutisme et donc à l'impuissance à la scène 2, puisque la reine refuse de l'écouter. Cette volonté royale donne ensuite lieu à de savoureuses confrontations pleines d'ironie et de fiel entre « Oronte » et Anaxandre, jaloux du sort de son rival. À l'acte III, scène 3, Rome revient à la charge, étant à l'initiative de la première péripétie, soit de l'arrivée officielle du fils héritier, qui n'est qu'un imposteur officieusement. L'action est relancée. Laodice tombe dans le piège et montre qu'elle n'a pas changé à « Oronte » en tentant de l'entraîner dans le meurtre d'un fils gênant. Il faut tuer l'héritier, officieusement, « Oronte » sera le coupable, officiellement. Seconde péripétie, pure cette fois : le fils imposteur succombe. « Oronte » sera toujours désigné comme coupable. Les deux péripéties provoquent donc une action identique.
+
+Dernière initiative romaine facteur d'action : Aquilius révèle l'imposture, et apprend à la reine que l'héritier légitime est toujours vivant. Vaincue, Laodice cède. Elle règnera en Lycaonie comme le lui propose Rome, mais gardera « Oronte ». Pour la première fois dans l'intrigue, l'initiative de Laodice est limpide. L'officieux et l'officiel correspondent. Le spectateur est animé d'un sursaut d'espérance avant la chute finale. L'intrigue est pour le moment impeccablement menée. Suite à cette ultime initiative romaine, les actes s'enchaînent d'eux même, comme emportés par leur propre violence. Laodice, relâchée, confiante, se déclare à « Oronte ». Son initiative engendre la seconde révélation : Ariarate se démasque. Laodice redouble de fureur et de haine. Elle quitte la scène pour se poignarder face au peuple également égaré.
+
+Comme nous le montre l'analyse de l'intrigue, Corneille répond absolument, dans sa construction, aux critères classiques. L'action est marquée par l'unité, comme nous avons pu l'observer plus haut.
+
+L'exposition est impeccablement menée. Elle s'étend jusqu'à la première scène de l'acte II, ce qui prouve le caractère implexe de l'intrigue. En effet, à la première scène de l'acte I, Axiane propose une première appréhension de la situation : elle sait simplement que la reine s'apprête à nommer un nouveau roi. Alcine, qui vient élargir ce premier point de vue, en sait plus : ce à quoi la reine aspire en réalité, c'est à conserver le pouvoir. Le premier point de vue en cache un second, moins simple. La reine souhaite nommer en fait un pantin pour devancer le choix de Rome. Ariarate, à la scène 3, en sait davantage encore. Il est instruit du passé de la reine et en déroule tout un pan dans une tirade adressée à Phradate. Le spectateur en apprend donc davantage : la reine, qu'il sait déjà ambitieuse et tyrannique, a, dit-on, pour parvenir à ses fins, donné la mort à cinq de ses fils, le dernier étant en otage à Rome. Il apprend encore qu'elle a engagé quelqu'un pour éliminer ce qui est à même de menacer encore son pouvoir. À cela, il ajoute la connaissance des desseins de Rome : instruite par ce dernier, celle-ci a fait mettre l'héritier en lieu sûr. Lassée que la reine feigne attendre la venue d'un fils qu'elle croit mort, Rome a délégué Aquilius pour « rompre le silence » [35]. On en apprend encore plus à la scène 1 de l'acte II, où Laodice éclaircit ses desseins. Elle veut effectivement nommer un homme de paille, mais non pour être l'époux de sa fille. C'est elle qui se mariera, et avec « Oronte », que nous savons être son fils. Nous apprenons par ailleurs qu'elle l'aime. Toutes les causes des conflits à venir sont donc mises en place. Tous les personnages principaux y sont présentés. On y apprend leurs sentiments, leurs intérêts, leurs intentions, et la particularité marquée de certains caractères. « Oronte » est peint comme valeureux et dévoué, Laodice comme ambitieuse.
+
+Les péripéties sont introduites au moment opportun, et empêchent l'action de s'essouffler. Après une première péripétie – l'arrivée du faux Ariarate – et après l'étonnement général, nous apprenons qu'il s'agissait d'une imposture voulue par Rome pour évincer les trahisons. Nous apprenons ensuite que Laodice veut éliminer l'arrivant, ce qui est l'occasion de dérouler une nouvelle fois son passé, mais de sa bouche cette fois. Il faudra attendre la scène 3 de l'acte V pour qu'elle lève totalement le voile sur ses crimes et sur son amour. Elle y avoue avoir empoisonné sa progéniture. Chaque acte correspond à un progrès dans l'action. Chaque scène est construite de manière à créer un suspense ou l'étonnement du spectateur, et maintient ainsi l'intérêt ou le relance. Nous avons déjà vu que l'on ne cesse de parler de Laodice au cours de l'acte I. Corneille ménage l'attente du spectateur jusqu'à l'acte II. Dés la première scène, on fait en sorte de surprendre le spectateur : c'est Laodice même qui se marie ! Et avec « Oronte » ! Heureusement pour le déroulement de l'intrigue, « Oronte » ne dit rien. Il faut retarder au maximum la révélation de la vérité pour laisser au mal le temps de se développer, de s'infecter, jusqu'à la catastrophe finale, précisément la révélation de cette vérité. Le non-dit va permettre à la situation de s'envenimer : l'amour de Laodice va s'aviver à cause de la vertu d'« Oronte » Le prétexte de ce mutisme est qu'il pense, pour qu'elle l'estime au point de l'élever au Trône, avoir enfin conquis l'amour maternel. Le prétexte de ce mariage est politique, « Oronte » ne peut donc soupçonner les sentiments de sa mère.
+
+
+### Une pièce à intrigue.
+
+Il est essentiel de noter que *Laodice* fait partie de la catégorie des pièces dites « implexes », ou pièces à intrigue. Corneille, à l'origine du mot, l'avait emprunté au latin pour désigner les pièces embarrassées «  qui demandent au poète « plus d'esprit pour les imaginer » et « plus d'Art pour les conduire », à l'auditeur (…) plus d'attention » ; contrairement à
+
+
+celles dont le sujet n'est point « trop chargé d'incidents, ni trop embarrassé des récits de ce qui s'est passé avant le commencement de la Pièce », et où l'auditeur n'est pas obligé, « pour l'intelligence de ce qu'il voit, de réfléchir sur ce qu'il a déjà vu, et de fixer sa mémoire sur les premiers Actes, cependant que les derniers sont devant ses yeux [36] ».
+
+Les contemporains sont effectivement friands d'ornementations, de détours, de mystères, de surprises, de complications, de sel enfin – car pour le public contemporain, la simplicité, la sobriété est synonyme d'ennui : on ne peut s'en satisfaire, il faut « l'enrichir ». Pour être efficace au XVI*e* siècle, pour émouvoir le public, il faut donc abuser de ressorts dramatiques spécifiques.
+
+On adore les ruses qui amènent aux perfidies les plus raffinées, aux finesses les plus noires. On adore par conséquent les trames d'une Reine cynique et infanticide, prête a toutes les manœuvres pour satisfaire son ambition. On adore ses trahisons – le complot qu'elle fomente avec Anaxandre contre le dit Ariarate, son indifférence quant au devenir de son complice, la faute qu'elle compte rejeter sur « Oronte ». On adore encore plus le triomphe insidieux de Rome qui la manipule sans qu'elle ne s'en doute. Peut-être ce goût s'explique-t-il par l'écho qu'on trouve dans l'actualité contemporaine – Mazarin, Richelieu.
+
+On apprécie autant les reconnaissances d'enfants du mystère, ou d'homme aux deux visages comme Ariarate dissimulé sous le nom d'Oronte. Ces reconnaissances exercent une séduction facile sur un public peu exigeant de même qu'elles assurent l'estime des doctes – en raison du prestige d'Œdipe Roi et de l'approbation d'Aristote.
+
+Trois utilisations différentes sont possibles. Un personnage dissimule son identité avec deux issues possibles : l'inconnu se fait fièrement connaître ou il est tragiquement démasqué ; ou bien quelqu'un détient le secret de la naissance d'un ou plusieurs enfants qui ne savaient pas eux même qui ils sont ; ou encore, seul le destin connaît la véritable identité du héros, comme dans Œdipe. Ici, « Oronte » dissimule son identité et se fait connaître plus qu'il n'est tragiquement démasqué, mais sa révélation se fait dans la douleur, puisqu'elle est provoquée par une autre révélation, elle-même douloureuse. De même les jeux sur les perceptions de la vérité viennent surcharger l'intrigue pour le plus grand plaisir des contemporains, et par effet de contraste, révéler avec une crudité accentuée la brutalité du sujet. On peut donc voir dans ces ornementations comme un écrin destiné à sublimer la pureté, l'essence de la pièce.
+
+
+### Les signes de la tragédie classique.
+
+Comme Racine, incarnation suprême du génie classique, Thomas Corneille se montre capable de transcender les contraintes. Il parvient notamment à dominer et tirer parti des tensions. Ce qui tendrait à s'exclure s'unit harmonieusement : la rigueur et le romanesque, l'audace – dans la violence des images, des actions, des sentiments – et la bienséance, la rigueur formelle et la brutalité du sujet. Il les mêle étroitement en faisant mener l'une à l'autre afin de rendre l'une plus intense et insoutenable. *Laodice* se présente à la fois sous l'apparence d'une pièce « implexe », construite sur des mécanismes compliqués, sophistiqués ; et à la fois comme une tragédie sauvage, destinée à susciter une horreur primaire, épidermique, appelant l'émotionnel le moins raffiné. La bienséance reste cependant préservée puisque Corneille parvient à ne rien montrer sur scène, ménageant ainsi la sensibilité d'un public délicat. * Laodice* appelle donc autant l'intellect et la concentration par sa sophistication technique que l'instinct, l'émotionnel le plus immédiat. L'équivoque la plus fine côtoie la sauvagerie la plus dure, et la rend plus intense encore par effet de contraste. *Laodice* est une pièce de l'extrême. *Laodice* est bien une tragédie classique.
+
+L'un des signes de la tragédie est le recours au motif du sang. Comme beaucoup de ses contemporains, Corneille, sans rien montrer effectivement, réussit à imprégner sa pièce de sauvagerie, à colorer son texte par la crudité de l'image. Il faut répandre le sang, lutter contre son propre sang ou le sauver encore. On observe une variation fine autour des différents sens du mot. Viennent s'entrechoquer signification abstraite et concrète : « le sang » revêt tour à tour les sens de parenté, d'hérédité, de vie, de mort, de passion, de personne, de sang qui coule dans les veines… Rien que dans la scène 2 de l'acte V, lors de l'ultime et fatale confrontation entre Laodice et Ariarate, sept occurrences du mot viennent émailler le texte. Il est tour à tour question de « respecter le sang » [37], soit les liens du sang, la parenté ; de demander « le sang [38] », d'Ariarate soit de faire couler son sang, donc de demander sa mort ; de « vaincre le sang [39] », pour rendre la mère soit de vaincre l'humeur qui commande les passions, donc de mettre fin à ses égarements, à ses transports ; de dérober « le sang » que Laodice aimait « à poursuivre [40] », soit de lui retirer les désirs qu'elle nourrissait, soit de lui ôter du regard la vie, la personne qu'elle cherche à éliminer, ou encore, si l'on veut jouer sur les mots et y voir un troisième niveau de lecture, comme il est fréquent dans l'œuvre, de lui reprendre un sang qui lui appartient aussi – d'où le choix du possessif –, son propre sang, son fils, qu'elle poursuivait de ses assiduités – poursuivre joue également sur deux registres différents : un registre simple, et un registre galant – ; de n'épargner « point le sang, ce sang trop odieux [41] », soit sa vie, puis le sang qu'ils ont en commun, leur hérédité ; de faire « du sang » le dernier « sacrifice [42] », soit de faire couler le sang au sens propre, mais également de sacrifier son propre sang, au sens de son fils, ou de parenté ; d'effacer dans son « sang » la « tendresse [43] », du caractère d'Ariarate soit d'effacer en faisant couler son sang, au sens propre uniquement… crudité appuyée par les suppliques du prince :
+
+Frapez, percez ce cœur dont les derniers soûpirs  
+Furent toûjours l'objet de vos plus chers desirs [44]  
+
+C'est donc au sens propre qu'il triomphe, comme pour illustrer la violence de l'éruption de la vérité. Laodice vient en effet juste d'apprendre l'identité d'Ariarate, ce dernier venant lui même d'apprendre le désir maternel. À noter qu'à la fin de cette scène, tout concourt à suggérer cette violence de la vérité : Laodice le dit enfin sans détours : « Cinq enfans immolez par mes trames secretes [45]. »
+
+Elle lui reproche d'avoir « allumé dans le sein d'une Mere » « une ardeur à la fois et détestable et chere [46] ». Le terme « sein » contenant une connotation charnelle ajoute à cette crudité avivée par l'omniprésence de l'image du sang. Nous sommes dans la violence de l'immédiat. La distance obligée voulue par la tragédie pour lui donner de la majesté est presque abolie.
+
+
+## *Laodice*, une pièce trouble.
+
+Si *Laodice* est formellement impeccable, Thomas Corneille n'a pourtant de cesse d'y jouer sur la perception de la vérité. On dissimule, on manigance en secret, on joue beaucoup sur la duplicité des paroles, donc, mais aussi des actes, des évènements, on inverse les conventions, on renverse les situations. On complique, on embrouille, on joue sur l'ironie : on donne le vertige au public. Si les personnages sont parfois complices de ces subversions, seul le public en est conscient souvent, et en jouit – ou plutôt s'en inquiète. Chaque chose semble pouvoir contenir son contraire. Rien n'est établi, solide, tout peut vaciller : le faux mener au vrai, le bien se faire mal… Les valeurs antithétiques correspondent dans un jeu de miroir où n'importe que l'étourdissement du spectateur. Il faut le mettre à mal, le piquer pour exacerber l'émotion tragique.
+
+
+### La duplicité.
+
+
+#### Laodice accomplit deux fois ses crimes.
+
+Différents types d'éléments de l'intrigue fonctionnent ou apparaissent par deux : Laodice accomplit pour la seconde fois ses crimes. La journée au cours de laquelle se déroule la pièce est présentée comme l'offre tacite d'une seconde chance par Rome. Rome sait tout de son passé criminel, de son règne illégal, et délègue un ambassadeur en vue de révéler publiquement l'identité d'Ariarate et de le placer sur le Trône. Depuis deux ans déjà, elle tente de faire fléchir sa volonté par « Oronte ». Mais l'immobilisme s'éternisant, il faut bien envoyer quelqu'un sur place. Ariarate la croit ramenée à la vertu un bref moment, lorsqu'elle feint vouloir l'épouser pour conserver le trône à son fils. Mais l'héritier imposteur envoyé par Rome a tôt fait de renverser la situation. Le passé se répète. Son fils n'a pas été éliminé ? Et bien, il faut en venir à bout et l'assassiner une bonne fois pour toutes. Pour ce faire, on demande à un premier Ariarate, dit « Oronte » d'éliminer un second Ariarate, imposteur celui là. Deux Ariarate, encore.
+
+
+#### Deux forces agissantes contre Laodice.
+
+Deux forces égales et antinomiques s'opposent à Laodice : Rome et le Peuple, dont il est respectivement question dans 162 et 109 vers. Elles viennent s'équilibrer, l'une constituant la puissance au delà, l'autre la puissance en deçà. Toutes deux constituent deux moteurs essentiels de l'intrigue. Ce sont elles qui provoquent l'imminence du choix. Ce sont elles qui poussent Laodice à sortir de son immobilisme, à prendre des décisions pour déjouer leur volonté. Ce sont donc elles qui sont à l'origine de la crise tragique, mais par des voix différentes. Le peuple incarne la force profonde, déraisonnée, primaire, les instincts premiers de l'humanité, les pulsions sans bride, tandis que Rome menace plus sourdement, de manière plus absolue parce que plus organisée, plus froide.
+
+
+##### Rome.
+
+
+###### Caractère abstrait de cette force.
+
+Telle une redoutable pieuvre, elle exerce son pouvoir à distance, s'immisce silencieusement dans l'univers protégé de Laodice. Pour souligner le caractère lointain et avant tout mental de cette menace, Corneille use de procédés insistant sur le caractère abstrait de Rome. Elle n'est pas perçue, comme le Peuple, en tant que force immédiate et palpable. Corneille, en utilisant la métonymie pour désigner la force morale romaine, vide l'idée première du lieu – Rome – de toute valeur concrète. Le lieu est intériorisé, désancré, il n'est plus qu'entité politique [47]. D'autre part, si l'on ne parle que de Rome au cours de l'intrigue, elle ne délègue qu'une seule personne, Aquilius, absent une bonne partie de la pièce, et qui ne prend la parole qu'à la scène 6 de l'acte IV. On retrouve encore cette volonté d'abstraction. Corneille joue sur l'absence, l'invisibilité romaine, ce qui accentue la menace. On la sent mais on ne peut la définir. Elle échappe. On peut donc considérer Aquilius comme un personnage synecdotique, représentant une force morale désignée par un lieu : Rome.
+
+
+###### Un principe d'action et de décision.
+
+Rome, à l'inverse du Peuple qui fonctionne avant tout comme un principe d'expression, constitue un principe de décision. On peut le constater dés l'acte I, où l'accent est mis sur son dynamisme. Pour diverses que soient ses désignations dans l'ensemble de l'intrigue – Le Sénat, Rome, Cette Reyne des Roys, Aquilius, l'ambassadeur, le Romain, vostre Republique – on remarque qu'à l'acte I, il ne s'agit que de Rome, la plupart du temps en position de sujet de verbes à l'actif et non composés. À l'acte I, scène 1, « le Senat députe [48] », « Rome s'interesse (…) [49] », « Rome se plaindra d'un choix fait sans elle [50] », « Rome agrandit un Empire [51] », « Rome destina Axiane pour femme à l'Aisné des Fils de Laodice [52] »*…*, à la scène 3, « Rome envoye Aquilius en Cappadoce. Dans le passé, Rome eut en ostage Ariarate [53] », et « Rome se plaignit qu'il luy fut enlevé [54] », mais encore : « Rome qu'occupoit lors une pressante guerre / Suspend pour quelque temps l'éclat de son tonnerre [55] » et « feint qu'on luy vient d'enlever son Ostage [56] »
+
+La figure de Rome est donc prépondérante dans la pièce. Il n'est question que d'elle. Elle obsède les personnages, habite leurs discours, motive leurs actions. À la manière d'un pivot reliant passé – C'est elle qui a agrandi l'Empire et destiné Axiane à l'aîné des fils de Laodice –, présent – c'est elle qui délègue un ambassadeur pour aider Laodice à choisir un nouveau roi – et futur – c'est elle qui se plaindra si un choix est fait sans elle. D'elle dépendra la crise tragique –, elle assure l'unité d'une pièce actualisant les trois dimensions temporelles.
+
+À l'acte II, le lexique qui la concerne n'est plus celui de l'action mais celui de la domination. Les deux puissances – Laodice et Rome – s'affrontent en usant des mêmes armes, celles des manœuvres secrètes, des ruses : Laodice projette de satisfaire les désirs respectifs de Rome et du Peuple en prenant elle – et non sa fille – un époux sous couvert de garder la couronne à un héritier légitime [57] ; Rome, quant à elle, envoie un imposteur pour prévenir d'éventuelles trahisons [58]. Le Peuple reste « hors jeu » au cours de cet acte. Dupé par les subtiles tactiques de sa Reine et de Rome, il exprime sa joie à l'arrivée de celui qu'il prend pour Ariarate [59]. À la première scène, le lexique employé par Laodice suggère la puissance romaine, une puissance limpide, évidente : les princes de Cappadoce emploient « son pouvoir » pour ébranler la Reine, Rome voudra-t-elle « consentir » au mariage de Laodice ? faut-t-il « s'assujettir à son orgueil » ? « Règlera »-t-elle la conduite de Laodice ? Dans les scènes suivantes, il n'est toujours question que d'ordres du Senat à respecter ou non [60], de « joug » à refuser [61], de « pouvoir » du Senat [62], de « secours » à « implorer » [63], de punition romaine [64]… À la scène 3 de l'acte III, celle ou la figure romaine sera le plus citée, la perception du pouvoir romain bascule. Le pouvoir romain n'est plus ressenti comme limpide, mais sournois. On revient sur son caractère abstrait. Sa menace, impalpable, sourde, est telle que Laodice développe un discours fiévreux touchant presque parfois la paranoïa. Cherchant à diaboliser Rome dans l'esprit d'« Oronte », elle n'utilise pour en parler qu'un vocabulaire suggérant le complot généralisé : quand elle ne désigne pas les Romains comme des « tyrans », elle a recours aux pronoms personnels de la troisième personne – « ils », « elle », « eux », « on [65] » – qui soulignent le caractère indéfini, invisible, quasi anonyme de cette force : elle ne sait précisément qui agit. Elle refuse de faire régner « l'esclave des romains [66] » qui ont voulu dans un premier temps « penetrer sa pensée » et désireux de la perdre au moyen de leur « Politique [67] ». Avec le vers : « Ils ont voulu d'abord penetrer ma pensée [68] ».
+
+On touche précisément à l'idée d'infiltration sournoise propre à la perception de la puissance romaine. Cette perception abstraite culmine ici, à tel point que la folie est proche.
+
+Tout bascule au quatrième acte. Rome est perçue cette fois de manière concrète puisqu'à la scène III, un personnage fait le récit de l'arrivée des troupes romaines en Cappadoce. Phradate raconte en effet l'émotion de son peuple lorsqu'il aperçoit « de loin briller l'Aigle Romaine, qui vers eux à pas lents paraît s'avancer » [69]. C'est à ce moment que les deux forces antinomiques se rencontrent et que le processus tragique s'accélère avec une violence inouïe. En effet, Aquilius arrive accompagné d'Ariarate, l'héritier tant désiré. Le Peuple est en liesse. Mais le roi meurt aussitôt sous les yeux d'un Peuple hagard. Là naît sa colère, déterminante. Désormais, il n'est plus que masse vociférante, force irrépressible, imprévisible, chaotique. L'horreur contenue, réprimée depuis le commencement de l'intrigue, c'est à dire depuis les crimes oubliés de Laodice, jaillit et s'exprime par sa folie. Cette hystérie collective ne pourra s'apaiser que par le sacrifice final du mal qui l'a engendrée, soit celui de la Reine. Mais si la dernière marche est amorcée, et que le monde extérieur s'insurge contre elle, Laodice, comme ignorante de la transe collective, adopte le calme. Elle change en effet son discours concernant la puissance romaine et feint une sereine bienveillance à son égard. En effet, si
+
+Ce tumulte impréveu cache quelque mystere,  
+Rome a pour l'éclaircir le pouvoir d'une Mère [70]  
+
+Elle redouble d'obséquiosité en s'adressant à Aquilius. Les tyrans sont désormais une respectable « Republique » [71]. Elle pleure un fils défunt « instruit par de grands Maistres » [72] et implore Aquilius de prendre « un absolu pouvoir » [73] car seul lui saura séparer l'innocent du coupable [74]. Les derniers mots concernant Rome empruntent au lexique de la justice. Le Sénat a envoyé un imposteur « pour en punir l'audace » et souhaite voir Laodice régner sur la Lycaonie, ce qui prouve son « équité ». La bienséance, Rome et la raison triomphent donc de la folie générale. Pour un temps seulement. Car toute tragédie qui se respecte se doit, pour être efficace, de malmener les nerfs du spectateur par le jeu alterné de l'espérance et des alarmes. Comme le remarque La Bruyère au sujet du processus tragique : « s'il vous donne quelque relâche, c'est pour vous replonger dans de nouveaux abîmes et de nouvelles alarmes. »
+
+
+##### Le Peuple.
+
+À l'espoir d'une réconciliation Rome /Laodice succède un surenchérissement de rage du Peuple. Si, comme Rome, il ne semblait qu'une entité lointaine au début de la pièce, sa présence se déploie au fur et à mesure que l'intrigue progresse. Il envahit le palais à la scène finale.
+
+En effet, à l'acte I, il n'en est encore question qu'évasivement, même si ses souhaits sont clairs. Laodice a beau savoir que :
+
+Déjà depuis long-temps le peuple à haute voix  
+Afin d'avoir un Roy presse pour ce grand choix [75],  
+
+et Axiane constater que la Reine attendrait toujours le retour de son fils : « Si le peuple ennuyé ne pressoit ce grand jour [76] », il est davantage perçu, dans le texte, comme force d'expression que comme force d'action – il la détermine pourtant. Il est celui qui colporte les bruits, comme le montre les propos le concernant : Axiane constate que « l'on se flate que le Ciel a sauvé le jeune Ariarate » [77], et se demande « d'où vient le bruit qui le force à renaistre [78] ». À la scène 2, Ariarate revient sur cet aspect murmurant du peuple avec le vers : « Chacun le publia comme on le voulut croire » qui souligne, par le recours aux indéfinis « chacun » et « on » le caractère sourd de l'action pourtant déterminante de cette masse. La représentation du Peuple reste diffuse, il est réduit à ses revendications et au vague des rumeurs qu'il répand. Par la force de sa voix, c'est lui qui presse pourtant pour la mise en place d'un nouveau roi.
+
+À l'acte II la pression se fait plus active. Sa force demeure vocale, mais elle se précise et quitte le vague du début. Le Peuple commence à rassembler ses forces pour former une masse homogène et efficace dans son action. Comme s'en alarme Laodice : « D'un peuple audacieux l'impatience éclate [79] » Et :
+
+Le Peuple agit par eux [80], il me demande un Maistre,  
+Et le Peuple obtiendra ce qu'il attend de moy [81]  
+
+Il semble à chaque scène de plus en plus pressant. Il n'en n'est pas une où l'on ne trouve le concernant un vers tel que :
+
+Le Peuple cependant chaque jour fait connoistre  
+Qu'attendant qu'il se montre il veut un second maistre [82]  
+
+La multiplication des fréquences de ce type de vers avive la tension tragique. Le temps presse. Force d'expression, toujours, dans l'impatience, mais aussi dans la joie : il montre. Théodot le constate à la scène V de l'acte II : « Et le Peuple montrant sa joye et sa surprise [83] ». « Tant de joye éclate [84] », alors qu'il croit voir arriver le nouveau roi.
+
+On peut considérer, par ailleurs, que le Peuple fonctionne comme une sorte d'immense catharsis dans la mesure où il est assimilable à une sorte de défouloir géant, de poche immense destinée à contenir les émotions véhiculées par l'intrigue. Le Peuple capte en effet tout ce qui est tacite dans la pièce et l'exprime de manière déréglée, brute. Il s'emplit ainsi de joie, de désespoir, de haine, d'horreur ou de crainte jusqu'à ne plus pouvoir en absorber davantage, et au moment ou les limites du supportable sont atteintes, expulse hors de lui un contenu dont la violence, macérée, digérée, développée par le temps d'ingestion s'est décuplée.
+
+De fait, le verbe « éclater » revient souvent à son sujet : « son impatience », « sa joye », « un bruit » [85], « son desespoir » [86] éclatent les uns après les autres. D'autres termes empruntés au lexique de l'expulsion, tels que « montrant », « fait connoistre », « sortant » [87] opposent une première isotopie à une seconde, antagoniste, celle de la contenance, du  « remplissage », qui apparaît également avec fréquence : le Peuple est comblé de joie à l'arrivée du fils si souhaité [88], Laodice doit feindre de « donner » au Peuple un nouveau roi [89], le Peuple « va grossissant (…) dans la Cour du Palais, où il est amassé [90] ».
+
+Nous l'avons dit, c'est à partir de l'acte IV que le peuple n'est plus qu'expression de l'horreur jusque là contenue. Il se déploie et sa figure envahit le texte. À partir de cet acte, on compte 77 vers le concernant, alors que les actes précédents n'en comptaient que 32.
+
+On observe une montée progressive et spectaculaire de sa furie : à l'« allegresse » succèdent les « soûpirs » à la scène 2, puis « un aveugle emportement » à la scène 3, « un grand trouble s'appreste » enfin, à la scène 6.
+
+À l'acte V, la sauvagerie jusque là contenue et limitée à la voix déborde et la force d'expression se fait force d'action : «  le Peuple animé de rage et de douleur » s'attaque cette fois directement à Anaxandre et le prend « pour victime [91] ».
+
+Il s'introduit ensuite dans le Palais pour réclamer le sacrifice de la Reine, qu'elle exécute du haut d'un balcon. Le dérèglement de cette masse furieuse atteint son paroxysme dans ces dernières scènes. Elle semble déborder de partout : Sa progression est suggérée dés la scène V, où Aquilius s'inquiète de voir la populace « esmeuë »/ « grossissant toûjours dans la Cour du Palais [92] ». Phradate, enfin, à la scène 6, raconte comment
+
+Le Peuple au Palais amassé  
+À la vue de la Reine animant sa fureur  
+Pour elle a marqué de l'horreur  
+Et joignant insolemment l'injure à la menace  
+Du plus sanglant reproche a armé son audace [93].  
+
+À cet ultime assaut succède la mise à mort finale : Laodice se poignarde sous ses yeux.
+
+On remarque que l'arme du Peuple est toujours la voix. Paradoxalement, l'expression engendre l'action puisqu'il parvient à ses fins par l'injure et la menace.
+
+De même le long du texte peut on observer le concernant tout un lexique vocal : « le peuple à *haute voix* presse pour ce grand choix [94] », « Chacun (…) *publia* » l'empoisonnement de ses fils par Laodice [95], « il (…) *demande* un Maistre » à Laodice [96], « le Peuple (…) *fait connoistre* / qu'(…) il veut un second Maistre [97] », Phradate demande « d'où naist *ce bruit* qui tout à coup éclate [98] », Laodice rappelle à Ariarate dit Oronte « quels fâcheux *bruits* coururent [99] », on ne sait encore une étrange disgrâce « que sur un *bruit* confus [100] », il fait jusqu'au Palais « retentir de longs *cris*, on *gémit*, on se *plaint*, et le Peuple *demande* au Ciel [101] », « il profère des *cris* confus [102] », il faut lui « annoncer » la joie de revoir Ariarate [103], « il dit [104] », « Anaxandre lui fait oüir à hauts *cris* [105] », il est tiré d'erreur par « un *bruit* par tout semé [106] », « il *crie* à haute voix [107] », il « nomme / à haute *voix* » Laodice « Parricide [108] ».
+
+Le Peuple est donc à la fois principe d'action et principe d'expression. Par sa puissance expressive, il presse l'action, hâte les personnages à agir, développe la tension de l'intrigue. Mais il est également force de réception. Il capte, absorbe, recueille cette tension à la manière d'un gigantesque réceptacle humain, et comme une éponge, se remplit, grossit jusqu'à l'outrance, pour éclater enfin, submergé par ce trop plein émotif. Il est donc à la fois celui qui engendre les tensions et celui à qui elles reviennent, celui qui les reçoit, et qui les expulse à nouveau. Sorte d'immense catharsis, il exprime l'énormité de l'horreur en la vomissant, illustre ce qui n'est plus supportable par ses noirs dérèglements. Il est donc à la fois force agissante et représentante, principe actif et passif. On revient encore à l'idée résurgente de duplicité.
+
+
+#### Deux sphères.
+
+On revient encore à cette notion de duplicité dans la présence de deux sphères opposées : une sphère publique et une sphère privée.
+
+
+##### Symétrie ?
+
+On peut constater que ces deux points de vue divergents *a priori* correspondent, s'interpénètrent dans la pièce. En effet, on connaît les deux ressorts fondamentaux de l'intrigue : il s'agit pour Laodice de rester au Trône, et c'est dans ce but qu'elle manœuvre pour devancer la décision de Rome – nous sommes apparemment jusqu'ici dans la sphère publique. Par ces manœuvres, elle pourra également posséder « Oronte », et s'arroger en quelque sorte son amour – nous accédons à la sphère privée. Inversement, ce sont les desseins relevant du domaine privé qui priment chez Ariarate : il faut conquérir l'amour maternel avant toute chose, et ce pour parvenir au trône, de l'ordre du domaine publique. Une exacte symétrie semble donc remarquable à première vue entre les schémas dans lesquels s'inscrivent les héros. Pour « Oronte », les sentiments sont nobles tandis que l'ambition est vile. Pourtant, si la sphère publique semble importer davantage que la sphère privée pour Laodice – parce que l'ambition, plus noble, prime sur les sentiments, jugés comme gages de faiblesse – il est à noter que cette ambition, étant par essence passion, relève par conséquent d'un rapport privé à la chose publique. La séparation entre les deux sphères n'est donc pas si nette qu'elle n'y paraît et Thomas Corneille persiste à maintenir le trouble.
+
+
+##### Linéarité de l'action ?
+
+Corneille jette plus que jamais l'équivoque en entraînant le spectateur dans une ronde étourdissante. Elle prend son élan dans la sphère publique, où un premier clan agit pour que soit nommé Ariarate au pouvoir, entreprise qui correspond avec celle de la reine, seule, qui sans le savoir nourrit le même dessein : nommer Ariarate dit Oronte au pouvoir. Cette volonté est elle même motivée par le désir de s'arroger l'amour d'Oronte en l'épousant, désir qui correspond avec celui d'Ariarate dit Oronte, qui veut lui même se faire aimer de Laodice – mais d'un amour d'une nature différente –, et ce pour régner – mais d'une manière différente. La boucle est bouclée. Les deux clans aspirent en apparence aux mêmes fins, et là se trouve l'aspect subversif de l'œuvre. Là correspondent les valeurs antagonistes. Là sont remises en question les places que nous leur accordons. Le mal est-t-il mal ? Le bien est-t-il bien ? Ne peuvent-t-ils pas se télescoper ? En tout cas dans l'intrigue, nous constatons que les deux héros, Laodice et Ariarate, veulent tous deux être aimés de l'un ou de l'autre, tous deux aspirent à voir régner la même personne, et tous deux souhaitent que Laodice conserve une forte influence. Mais la nature de leur amour diffère, justement parce que l'homme aimé cache
+
+le fils haï. Si Laodice souhaite voir régner Oronte, elle rejette violemment Ariarate. Et c'est parce qu'Oronte a voulu conquérir l'amour maternel qu'il y a eu perversion de sentiment, parce que pour ce faire, il fallait dissimuler son identité. Ariarate, d'autre part ignore que l'amour désirant motive la décision de Laodice. Il ignore encore qu'elle hait toujours son fils, comme toute personne menaçant le sceptre. Un climat de non dit permet à l'équivoque de se développer de manière malsaine jusqu'à la catastrophe finale, le moment où la vérité ne pourra plus qu'éclater.
+
+
+### Les manipulations de la vérité.
+
+L'ironie se distingue, dans *Laodice*, par son omniprésence. Les actes, les situations, les paroles des personnages contiennent très fréquemment un sens double appelant la complicité du spectateur. Son texte, jouant en permanence sur l'équivoque, suscite le plaisir du spectateur parce qu'il le place dans la position flatteuse de celui qui détient un savoir supérieur. Le public a ainsi l'agréable sensation de percevoir une réalité qui échappe, et ressent comme un sentiment de pouvoir.
+
+
+#### L'ironie macrostructurelle.
+
+T. Corneille, en digne héritier de la tragédie antique, a recours à l'ironie du sort. La tradition veut que le héros tragique soit joué par une force supérieure – les dieux jouaient ce rôle dans la tragédie grecque. Cette force supérieure manipulait le héros, l'induisait en erreur, de sorte que plus ce dernier avait l'impression d'échapper à son destin, plus il s'y enfonçait. Il en va de même pour Laodice : tout semble lui sourire pour que la chute soit d'autant plus grande. Jusqu'à la crise ou chute, T. Corneille met habilement en place le processus tragique.
+
+L'ironie du sort fait par exemple en sorte que Rome et Laodice aspirent à faire régner une personne identique, mais que tout se joue sur un nom : Laodice haïrait Ariarate s'il ne portait pas le nom d'« Oronte ». Elle fait en sorte encore que deux personnes, Laodice et Ariarate agissent pour s'arroger leur amour. Tout se joue encore sur un nom : car si Oronte portait le nom d'Ariarate, la nature des sentiments de Laodice n'aurait pas dévié.
+
+Ironie du sort encore, dans le fait que Laodice croit systématiquement jouer l'adversaire alors que c'est précisément elle qui est jouée, par ses adversaires, mais aussi par le sort. L'intrigue est une succession de complots, que le spectateur sait vains à chaque reprise. À l'acte I, Laodice met en œuvre toute une machination pour demeurer au trône. Elle s'imagine devancer le Sénat en prenant époux et parvenir à maintenir l'immobilisme en prétextant attendre le fils soit disant disparu. Seulement, elle qui croit dominer la situation est jouée par le sort car le fils qu'elle utilise et croit mort est vivant et, comble d'ironie, est même l'époux qu'elle se destine. L'ironie va plus loin encore, car ce fils cru mort est précisément celui qu'elle s'apprête à nommer roi. Plus elle semble vouloir déjouer Rome, plus elle se soumet à sa volonté et s'éloigne de la sienne. Ses déploiements d'énergie sont vains puisque le dénouement est déjà programmé, et que l'ambassadeur qu'elle croit jouer vient pour rompre le silence. À l'acte II, encore, Laodice fomente un complot puisqu'elle tente d'entraîner « Oronte » dans une conjuration. Elle se tourne ensuite vers Anaxandre, et explique à Cléone quels sont ses plans. Mais ces déploiements d'énergie sont toujours fatalement vains puisque Laodice se trompe de victime et, triomphe d'ironie, va même jusqu'à demander à la bonne victime d'être l'auteur du crime.
+
+Ironie du sort encore, dans le caractère vain de l'enquête qu'elle lance au sujet de la mort de celui qui n'était qu'un imposteur. Elle pense jouer tout le monde, sa cour et Aquilius, mais Aquilius joue davantage avec elle puisque conscient de la gratuité de l'enquête, il la laisse tout de même suivre son cours, pour n'annoncer l'imposture qu'après. Elle finit par céder le Trône au dernier acte, pensant qu'il lui reste ce qui désormais est le plus important : son amour. Elle croit triompher une dernière fois. Mais elle ne sait pas le pire. L'ironie du sort lui porte le coup de grâce. Celui qui a tout mis en œuvre pour s'attirer ses faveurs ne s'est pas cru si victorieux. Le Ciel a plus exaucé ses souhaits qu'il ne le soupçonne. Son excès de zèle a en effet engendré une passion effrénée chez la Reine. Les stratégies respectives de Rome et d'Ariarate se rejoignent pour la perdre et anéantir ses machinations au dernier acte.
+
+Les actes également peuvent prendre des tournures ironiques : Laodice enjoint son propre fils à éliminer celui qu'elle croit être son fils, Anaxandre tente de briguer le futur Roi pour être lui même nommé Roi, Axiane reproche à son futur époux de la céder bien facilement à son futur époux.
+
+De même l'ironie à plus grande échelle habite le texte puisque Corneille met le faux au service du vrai et, en appelant la complicité du spectateur, s'assure de l'efficacité de sa pièce.
+
+
+#### L'ironie microstructurelle.
+
+Nous l'avons vu, le déguisement constitue un enjeu essentiel de l'intrigue dans *Laodice*. Nous constaterons qu'il influe avant tout sur le discours du personnage déguisé. Mais avant d'en venir là, rappelons le caractère, le but, la cause, le mode, l'expression du déguisement d'Ariarate. En nous fondant sur l'ouvrage de Georges Forestier : *Esthétique de l'identité dans le théâtre français* , nous pouvons tout d'abord observer que, contrairement à *Don Sanche d'Aragon* et à *Héraclius*, le déguisement d'Ariarate est conscient. Il connaît son identité réelle et la masque verbalement – Ariarate affirme qu'il est ce qu'il n'est pas –, en vue de conquérir l'amour maternel. Le but de son déguisement d'identité oscille entre l'approche et la conquête, puisqu'il vise à approcher Axiane pour être aimé pour lui même et sa mère qu'il ne pourrait approcher sous sa véritable identité – elle le hait. Il est donc une variation de la reconquête et non une exception. Il est opéré par changement d'identité et de condition – le changement de condition étant un mode courant de déguisement, surtout lorsque la condition fictive est, comme ici inférieure à la condition réelle.
+
+Le déguisement sous-entend par ailleurs que le personnage déguisé joue un rôle qui se surajoute à son rôle de base, l'autre personnage faisant office de spectateur face à un comédien. Comme le montre Georges Forestier, il existerait donc une dramaturgie du déguisement. Pour faire fonctionner de manière interne le déguisement, il faudra par exemple surimposer un élément significatif sur le rôle de base. Dans *Laodice*, Thomas Corneille surimpose au rôle d'Ariarate le nom d' « Oronte », signe statique empêchant le personnage d'être perçu pour ce qu'il est, de même qu'un discours fictif , signe dynamique – même si la double entente fait que bien souvent le discours est plus celui d'Ariarate que celui d' « Oronte ». L'action menée par le personnage étant attribuable à sa personnalité réelle –c'est Ariarate qui agit en pilotant de l'intérieur l'action de Rome, tandis qu' « Oronte » semble passif face à une reine active en apparence – nous ne pouvons donc compter l'action comme signe de déguisement.
+
+Comme nous venons de le voir, la construction d'une personnalité fictive – celle d'« Oronte » – implique la construction d'un discours approprié permettant de faire vivre ce rôle fictif. Reste à savoir si l'auteur prête ou non à son personnage un discours construit, en rapport avec sa personnalité fictive, destiné à produire un certain effet sur le destinataire. Le personnage réel ne maîtrise effectivement pas à tous les coups son discours fictif – lorsqu'il y a parasitage du discours réel sur le discours fictif, dans le cas de rôles inconscients ou encore lorsque la personnalité réelle est évacuée. Ce n'est pas le cas dans *Laodice* où l'organisation du discours fictif obéit à une remarquable rhétorique. « Oronte » maîtrise en effet le plus souvent habilement son discours, jouant en permanence sur le dialogue du vrai et du faux. La construction rhétorique épouse donc étroitement le phénomène de dédoublement de la personne. On observe que le déguisement implique le discours plus que les actes. *Laodice*, par conséquent, est une pièce construite sur un déguisement rhétorique plus que dramatique.
+
+Analysons précisément le fonctionnement de l'expression de cette rhétorique complexe du vrai et du faux. À la différence des déguisements dramatiques – ou stratagèmes – fondés sur une rhétorique simple, soit l'expression du mensonge, et visant à dénouer l'action, le déguisement rhétorique vise au contraire à la nouer et use de l'opacité pour dire le vrai. Mêlant le vrai et le faux, il est donc plus complexe que le premier puisqu'il fonctionne sur une dialectique. Nous verrons que dans *Laodice*, Ariarate a effectivement recours au paraître pour dire ou révéler l'être : être aimé pour lui même ou révéler la félonerie d'Anaxandre ou de Laodice.
+
+Il faut par ailleurs noter que la rhétorique du vrai et du faux est la transposition dans le cadre de la communication théâtrale de l'ironie de situation, mais que cette ironie dramatique que nous nommerons, comme Georges Forestier, ironie verbale, ne correspond pas exactement au trope classique. L'ironie de *Laodice* n'est que rarement l'inversion de la valeur de vérité. « Oronte » ne dit pas A pour signifier le contraire de A, il dit A qui signifie également B. Son discours ne se fonde pas sur l'antiphrase mais sur la double entente. Il n'y a pas opposition mais superposition d'énoncés. Il n'y a pas, d'autre part, double langage, bien qu'il y ait double entente : le personnage ne fait pas entendre deux voix qui se contredisent, mais deux énoncés, qui ne se contredisent pas. Il n'en demeure pas moins qu'il s'agit toujours d'une manipulation de l'énoncé et qu'une réinterprétation nécessite sa pleine compréhension. Sera par conséquent considéré comme ironie verbale dans notre étude tout discours de personnage déguisé engageant une différence de savoir. Dès lors que le personnage déguisé, « Oronte », exclue le destinataire de son discours dans le même temps qu'il inclue des complices, dès lors que sera engagée une relation auteur-spectateur, enfin, il sera question d'ironie verbale. L'ironie verbale consistera donc, comme l'a fait remarquer J. Morel, à faire « exprimer une idée de manière telle que sous les mêmes mots une idée toute différente puisse être perçue », « que le personnage l'ait ou non désirée ». Nous verrons ainsi comment les personnages non déguisés pourront être les émetteurs involontaires de propos ironiques et comment par conséquent T. Corneille procède pour faire de l'émetteur la victime même du procédé ironique.
+
+Plusieurs types de combinaisons sont possibles dans ce jeu sur le vrai et le faux. Si le plus fréquent reste un discours vrai et faux à la fois, reçu comme vrai par le destinataire, mais dans un tout autre sens, *Laodice* propose une forme tout à fait originale de combinaison de jeu, à savoir l'expression d'un discours vrai reçu comme faux ou fictif par le destinataire. Si dans le premier cas ce qui paraît vrai induit le destinataire en erreur et biaise sa perception de la vérité, dans le deuxième cas, c'est ce qui paraît faux qui empêche au contraire la part de vrai d'être entendue.
+
+Il est remarquable d'observer ce cas de figure dans le cadre d'un discours fictif puisque par essence celui-ci doit être crû vrai par le destinataire. Pour présenter comme fictif un discours dans un discours lui même fictif, il s'agira de créer une situation d'énonciation particulière, soit d'user de procédés de mise à distance de ce discours, le faisant de ce fait passer pour fiction. À l'acte III, scène 1 est par exemple mis en place un processus de dénégation de la vérité : en plaçant les phrases qui suivent sur le compte d'« un aimable transport » qui le « fait imaginer » ce qu'il énonce, Ariarate invalide le contenu de son discours. « Oronte » peut ainsi jouir de dire le vrai, jouir de formuler leur bonheur à venir à Axiane sans se démasquer pour autant :
+
+Un aimable transport me fait imaginer  
+Que c'est moy, c'est ma main qui va vous couronner,  
+Que si vôtre malheur par le Trône s'efface,  
+Malgré mes Envieux c'est moy qui vous y place [109].  
+
+Ainsi, ce qu'Axiane ne prend que pour une simple vue de l'esprit est vrai. « Oronte » la couronnera effectivement puisqu'elle lui est destinée et qu'il est le futur roi. Axiane ne perçoit pourtant, grâce au procédé de mise à distance, que le signifié patent de l'énoncé, à savoir que la joie de ce dernier de la voir couronnée est telle qu'il aimerait la couronner lui même.
+
+Le second cas, unique dans le théâtre classique, et pourtant si heureux, se situe au centre même de l'intrigue, à l'acte III, scène 3, dans une scène charnière qui le met d'autant plus en valeur. La double entente si maîtrisée par « Oronte » dans les autres scènes, parce qu'elle gagne en intensité ici, pourrait sembler moins habile – car qui dit trouble dit perte de maîtrise. C'est tout l'inverse. Ariarate, par un procédé très particulier que nous allons étudier gagne en liberté d'expression. Il peut laisser plus de place à l'émotion qui déborde des contours de l'illusion. L'heure n'est plus au jeu allègre sur l'équivoque. C'est presque à visage découvert qu'il implore en effet une Laodice insensible et implacable. La reine, instruite sur la venue de celui qu'elle croit être son fils veut s'appuyer « Oronte » pour l'assassiner. Ce dernier plaide donc pour Ariarate, autrement dit pour lui même mais sous une autre identité. T. Corneille recourt une seconde fois à une fiction oratoire puisqu'il fait présenter comme fictif le discours de son personnage. L'énoncé, mis à distance, n'est pourtant que la stricte expression d'une vérité presque tangible. Là réside toute l'ingéniosité du système. À noter que seule *Laodice* utilise la prosopopée, dans le théâtre de cette époque, pour permettre cette expression directe des sentiments du personnage déguisé. Ainsi « Oronte » prend-t-il la parole au nom de l'absent Ariarate, qui n'est autre que lui même. T. Corneille joue dans un premier temps sur sa double identité au v. 1013 : « Croyez en m'écoutant que c'est luy qui vous prie » puis le fait parler véritablement :
+
+Accordez moy la vie une seconde fois,  
+Je vous suis odieux, mais quoy qui vous anime [110],  
+Estre né vostre Fils n'est pas un si grand crime.  
+Daignez luy faire grace en faveur [111] d'un respect  
+Que jamais rien de moy ne vous rendra suspect,  
+Prenez-en pour garand la foy sincere et pure  
+Qu'à la face du Ciel [112] ma tendresse vous jure,  
+Cette foy que jamais les plus durs changemens… [113]  
+
+Thomas Corneille fait ici preuve d'une remarquable ingéniosité technique puisque la vérité pure s'exprime au discours direct et pourtant elle passe pour fictive auprès du destinataire. Ici se mêlent donc à la fois tension et maîtrise. L'équivoque pourtant est poussée jusqu'à ses limites. En effet, on ne sait plus qui parle : « Oronte » - le personnage fictif auquel la Reine croit s'adresser –, l'imposteur que ce dernier souhaite sauver ou Ariarate – le personnage réel ? Le feint Oronte, le faux Ariarate ou le vrai fils ? La vérité déborde par l'émotion suggérée d'Ariarate, qui culmine dans ce discours rapporté par Ariarate d'un Ariarate imaginaire.
+
+La forme la plus courante d'ironie se retrouve tout de même dans « le paraître vrai ». Il semble effectivement plus logique, dans le cadre d'un discours fictif, de faire passer pour vrai ce que l'on énonce. Si l'on veut que le destinataire soit dupe du déguisement, il est préférable que ce dernier prenne pour vrai le discours du personnage déguisé. À la différence du discours passant pour faux, le discours passant pour vrai est à la fois vrai et faux, le premier n'étant que vrai. Seulement la perception de la vérité énoncée est biaisée par le contexte de l'échange. Autrement dit, à un signifiant correspondent deux signifiés, l'un, patent, entendu par le destinataire, l'autre, latent, entendu le plus souvent par l'émetteur, toujours par ses complices, ici les spectateurs uniquement. Deux cas de figure sont possibles : l'ironie verbale peut être non désirée – ce qui n'arrive jamais avec l'ironie classique –, la double entente étant crue désirée, mais lui échappant dans toute sa portée – à noter que cette ironie inconsciente est toujours le fait des personnages non déguisés. Le personnage déguisé, « Oronte », développant un discours équivoque volontaire, cette équivoque ne peut donc lui échapper. Il peut, en revanche, provoquer l'équivoque inconsciente dans le discours de ses interlocuteurs – ; elle peut être inversement désirée, qu'il y ait référence ou non à l'identité première.
+
+Dans ce jeu sur plusieurs niveaux de compréhension, Corneille aime utiliser ce que nous pourrions appeler une « double ironie ». Souvent le propos « simplement » ironique d'un personnage, qui ne valide pas personnellement la vérité qu'il énonce, se double d'une seconde ironie, non perçue par l'émetteur. L'effet ironique évince alors paradoxalement celui qui l'énonce pour instaurer une complicité auteur-spectateur à ses dépens. Nous pouvons observer la présence de ces trois ententes à plusieurs reprises.
+
+À l'acte II, scène 2, Laodice, qui veut convaincre « Oronte » de l'épouser pour garder le trône à son fils s'il revient, lui affirme : « C'est l'assurer pour luy que vous y donner place [114] ». Ce propos, voulu ironique par l'émetteur, contient également un effet ironique qui n'est pas perçu par lui. Le processus ironique se retourne donc contre celui qui est à son origine même, ce qui est remarquable. Le complice devient le destinataire qui, dans un fonctionnement traditionnel, est toujours la victime. Le savoir, autre et supérieur, est ici du côté d'Ariarate et des spectateurs, tandis que Laodice joue le rôle de victime. Il est d'autant plus remarquable qu'un premier degré ironique, mais classique celui là, fonctionne au détriment du destinataire Ariarate. Deux signifiés se superposent donc ici, comme le veut l'ironie verbale traditionnelle, mais de manière particulière : un premier, patent – « Si c'est vous qui accédez au trône, vous pourrez le quitter plus facilement qu'un autre puisque vous êtes loyal, ce qui le garantit à mon fils s'il réapparaît. » - que la cible, Ariarate, croît être vrai pour Laodice alors qu'il est énoncé par elle sans être validé – figure traditionnelle de l'ironie dont le support est l'antiphrase: « je vous élève au trône pour moi, qui vous aime et veut conserver un pouvoir que mon mariage rend légitime ; certainement pas pour un fils qui de toute façon n'existe plus. » – et un second, latent, non perçu cette fois par l'énonciateur, Laodice – « Si c'est vous qui accédez au trône, vous le garantissez à mon fils puisque vous êtes mon fils ». L'ironie classique vient donc parasiter ici l'ironie verbale, elle même inversée dans son fonctionnement. Ni Laodice, ni Ariarate ne perçoivent la totalité des enjeux. Seul le spectateur détient la totalité du savoir. Une relation auteur-spectateur est donc habilement mise en place ici par T.Corneille. Le spectateur, placé dans la position flatteuse du complice, est séduit [115].
+
+Le processus est le même à la scène 4 de l'acte II, Anaxandre croyant avoir entendu le double sens des paroles d'Ariarate quelques scènes plus tôt, lui assurant que Phradate, autre soupirant d'Arsinoé, héritière du trône, ne lui ferait pas obstacle à ce dernier, lui exprime son aigreur. La reine vient effectivement d'annoncer son mariage avec celui qu'il croyait son complice, il comprend mieux alors pourquoi il n'avait pas à se méfier de son rival. Pourtant, si « Oronte » jouait effectivement sur la double entente, ce n'était pas en connaissance de la décision de la reine. Pas un personnage n'échappe donc à l'ironie de la situation, même quand il se croit maître du savoir et cherche à se jouer des autres. Seul le spectateur sait et jouit d'autant plus de sa connaissance du fait de la complexité de la situation. Au v. 656, donc, Anaxandre croit railler « Oronte » : « Ainsy vous garderez la Couronne à son fils ? » alors qu'il exprime une vérité à son insu. L'ironie première et étroitement classique, est cette fois pleinement perçue par le récepteur-cible. « Oronte » entend l'attaque contre lui et la reine. Anaxandre fait effectivement entendre deux voix, l'une qui valide le prétexte officiel de la reine, l'autre, la sienne, qui ne fait que le mentionner mais refuse de le valider. C'est donc l'ironie citationnelle et non l'antiphrase qui est utilisée ici et qui provoque la mise à distance. Le récepteur, « Oronte », identifie le double langage mais il n'adhère pas, en revanche, au jugement porté par l'émetteur – puisqu'il est lui même la cible – et qui est : « Garder la Couronne à ce fils est un faux prétexte pour conserver le pouvoir. Vous le savez comme moi puisque la reine, jalouse de son pouvoir, l'a fait tuer comme les autres. » Mais lui même victime du déguisement d' « Oronte » et par conséquent de la double entente de son discours, est engagé, en dialoguant avec lui, à formuler des propos allant dans le sens de cette double entente, mais sans qu'il puisse en être conscient. Par conséquent, le récepteur du propos classiquement ironique est également le destinataire du propos à double entente tout en étant le complice paradoxal de la double entente – il est complice de lui même puisqu'il provoque la double entente sans l'énoncer directement et est également celui qui en jouit. Il est celui qui perçoit, avec le spectateur, la superposition des trois signifiés : le premier, patent – « Vous serez chargé de garder le Trône en attendant le retour de l'héritier légitime. », le second, latent entendu par les deux personnages et les spectateurs, et dirigé contre « Oronte » – « vous savez que ce fils est mort et qu'en vous élevant au trône, vous ne le lui gardez pas mais flattez simplement votre ambition. », le dernier, latent également , entendu simplement par « Oronte » et les spectateurs et dont la victime est Anaxandre – « Ariarate ne pourra que garder la Couronne à ce fils puisqu'il s'agit de lui-même. » À juste titre pouvons nous donc parler ici de triple entente.
+
+Quelques vers plus loin, le processus ironique est plus simple : l'ironie n'est plus doublée puisque le signifié patent correspond cette fois au signifiant. « Vous pensez déjà l'estre » signifie bien pour Anaxandre « vous pensez déjà régner ». Il n'y a pas, comme plus haut, une volonté d'inversion de la valeur de vérité de la part de l'émetteur. Même si l'ironie verbale est une nouvelle fois involontaire de l'énonciateur Anaxandre, on jouit de l'équivoque qu'engendre la superposition des deux signifiés : « Vous êtes tellement ambitieux que vous vous croyez déjà la couronne acquise » et « Vous vous savez déjà la couronne acquise puisque vous êtes l'héritier du trône. ».
+
+À la scène 2 de l'acte III, Laodice, apprenant à Axiane son hymen avec l'héritier Ariarate – dont elles ne connaissent pas encore l'imposture – superpose également trois significations différentes pour un énoncé dont elle ne perçoit que la double entente :
+
+Vos vœux ont pû le rendre à ma juste tendresse,  
+Ils se sont joints aux miens, et c'est assez, Princesse [116]  
+
+Si le sens patent de son propos « Nos souhaits similaires, soit le retour de mon fils, se sont réalisés » est acceptable, cet énoncé demande une réinterprétation pour être saisi dans sa pleine signification : « Nos souhaits sont opposés. Je hais ce fils et n'aurais jamais souhaité son retour ». Un troisième signifié, inconscient de l'énonciateur, vient se superposer aux deux autres : « Nos souhaits sont similaires. Le retour de ce fils vous contrarie comme moi. »
+
+Le plus fréquent dans la rhétorique du vrai et du faux reste l'ironie verbale consciente et cela se vérifie dans *Laodice*. Il faut cependant relever une exception, celle des vers 863 et 864 où Axiane, personnage pourtant non déguisé, joue consciemment sur la double entente et cela sans rapport avec ce qui a trait à « Oronte ». Venant d'apprendre l'arrivée du fils héritier qui lui est destiné, elle exprime son désespoir par le biais d'une ironie grinçante. Ainsi s'adressant à la Reine :
+
+Madame, et je dois trop à vos rares bontez  
+Pour ne partager pas tout ce que vous sentez  
+
+fait elle entendre deux signifiés : le premier, patent, destiné à la Reine et qui est « Vous avez tellement fait pour moi que je ne peux que me réjouir de votre bonheur et du mien. », le second, latent et qui est « Vous n'avez œuvrer que pour vous et comme vous je suis désespérée par ce qui arrive. » À noter que le premier vers est une antiphrase à visée ironique que la reine entend mais qu'elle pense inconsciente de celle qui l'énonce. Le récepteur visé est ici « Oronte ». Il est le co-énonciateur sans qui le processus ironique ne fonctionnerait pas. Le second vers tient en revanche de l'ironie habituelle de situation ou ironie théâtrale. Il n'y a pas comme plus haut, dialogue entre deux voix opposées avec volonté de réfutation de la première, mais double entente, jeu sur la superposition de deux signifiés. Axiane sait qu'elle ressent tout ce que la reine ressent, ce qui laisse croire à la reine qu'il s'agit de bonheur puisqu'elle pense Axiane dupe de ses stratagèmes, elle ignore de plus les sentiments que porte Axiane à « Oronte ». Or Axiane connaît le sentiment de la reine [117] et c'est là que prend tout son sens l'énoncé : elle partage véritablement tout ce que la reine sent.
+
+Pour le reste, l'ironie désirée n'est que le fait du personnage déguisé, « Oronte ». Il peut ne pas faire référence à l'identité première. On observe dans ce cas toujours le même processus de superposition de deux signifiés, de superposition de vérité et fiction. Nous pouvons l'observer à la scène 2 de l'acte I où « Oronte » s'adresse ainsi à Axiane, qu'il aime :
+
+Quelle douceur pour moi si dans cette journée  
+Au lieu d'Arsinoé vous estiez couronnée [118] !  
+
+Le spectateur ne comprend que rétrospectivement le sens de ces paroles. N'étant pas encore informé de l'identité double d'« Oronte [119] », il lui faut une deuxième représentation pour saisir la double entente : le sens perçu par l'intéressée – il lui rend un simple hommage. Il ne veut que son bien – et la véritable signification du propos – il aimerait tant la voir à son bras. On peut donc se demander si l'effet recherché ne serait pas plutôt la surprise que l'ironie, puisque le spectateur n'est pas placé dans un premier temps en position de complice, n'étant pas en mesure de saisir l'équivoque. Le lecteur [120] en revanche peut saisir celle-ci de suite et est donc placé, lui, dans cette fameuse position ironique par rapport à la victime du jeu [121].
+
+À l'acte I, scène 4, « Oronte » met le paraître de son propos au service de l'être, poussant Anaxandre à se démasquer. « Oronte » joue encore avec l'ambivalence de la vérité, qui selon la manière dont elle est énoncée, peut tromper le destinataire. Même si, dans le propos :
+
+Mais si l'espoir du Trône est un bien qui vous flate,  
+Soyez seur que jamais vous n'y verrez Phradate [122].  
+
+il n'y a pas mensonge, la perception de la vérité qu'il énonce est biaisée par le contexte de l'échange et Anaxandre y voit une réponse positive, soit qu'il fera tout pour le briguer auprès de la reine. Au signifié patent perçu par Anaxandre pour « Vous n'avez pas à vous méfiez de Phradate dans votre aspiration au Trône. Personne ne vous y fait donc obstacle » se superpose le signifié latent, à savoir « Vous ne verrez jamais Phradate sur le Trône puisque j'y suis déjà. » « Oronte » dit donc à la fois vrai et faux et l'énoncé est perçu comme vrai par Anaxandre mais dans un tout autre sens.
+
+Toujours le même processus dans les vers :
+
+Ah, Seigneur, voyez-vous  
+Ce que le Ciel a mis de distance entre nous ? [123]  
+
+Les signifiés entendus par le destinataire : « Comment pouvez vous songez à me marier à votre sœur vu l'infériorité de ma naissance par rapport à la vôtre ? » et sous entendu par l'énonciateur : « Etes-vous conscient de l'écart qui nous sépare : je suis vôtre futur roi et vous n'êtes que mon sujet. » se superposent.
+
+De même avec les vers :
+
+D'un tel excès d'honneur je me trouve surpris,  
+Comme vous en secret l'ambition me flate [124]  
+
+Ariarate use encore de la feinte puisqu'il aspire effectivement au trône. Vérité et fiction se superposent toujours. Au signifié patent « Je ne méritais pas tant d'honneurs, moi qui suis d'un sang obscur. Comme vous j'aspire à m'élever de mon rang » se superpose le signifié latent « Je suis surpris que vous pensiez me faire un honneur alors que je vous suis supérieur et que mes ambitions sont identiques aux vôtres. ». Le recours au thème de l'être et du paraître, que l'on sait cher à la sensibilité baroque, prouve une nouvelle fois que le clivage habituel entre Baroque et Classicisme n'est ni imperméable, ni pertinent. Ariarate se dissimule ici pour connaître le vrai visage d'Anaxandre l'intrigant. On dissimule pour démasquer. Thomas Corneille se plaît à mettre le paraître au service de l'être, à jeter la confusion dans l'esprit du spectateur [125].
+
+Penchons nous maintenant sur les cas d'ironie désirée faisant référence à l'identité première. Fonctionnent-t-ils différemment que ceux n'y faisant pas référence ?
+
+À l'acte I, scène 2, où nous savons qu' « Oronte » cherche à connaître les sentiments d'Axiane, le vers :
+
+Quoy, donner vostre cœur au Prince Ariarate  
+Serait un sort pour vous… [126]  
+
+joue toujours de la même façon sur la double entente. Il y a bien superposition d'un premier signifié, patent, compris par Axiane – Je suis surpris que vous ne désiriez pas donner votre cœur au futur roi – et d'un second, latent – Refuseriez-vous de me donner votre cœur ? Ce qui paraît vrai l'est également sur le plan de la fiction, il n'y a donc pas exclusion entre les deux signifiés.
+
+Le fonctionnement diffère en revanche à l'acte II, scène 2 où « Oronte » s'adresse en ces termes à la Reine :
+
+Mes plus doux vœux sans doute auront esté remplis  
+Si je puis voir régner le Prince vostre Fils [127].  
+
+et où les signifiés, patent « Je serais comblé que votre fils, qui est un autre, règne » et latent « Je serais comblé si je parviens comme il est prévu au Trône » s'excluent et ne se superposent plus.
+
+Il en va de même à l'acte III, scène où, dans les vers suivants :
+
+Et que pour vous fléchir, ce prince infortuné  
+Vous oppose par moy le sang dont il est né [128].  
+
+« Oronte » dit le vrai – qui peut plus parler au nom d'une personne que cette personne même – tout en disant le faux – Il s'agit d'un autre – qui paraît vrai – je parle au nom d'un autre. Par conséquent, le signifié patent est faux même sur le plan de la fiction, alors qu'il devrait être vrai, en raison de la référence explicite à l'identité véritable qu'il contient. Le personnage déguisé fait en effet référence à sa véritable identité comme « à un autre lui même. »
+
+D'une autre manière, dans le vers : « Et bien prenez ma vie, elle est à vous, Madame » [129] la vérité affleure par la force du trouble suggéré par l'auteur. Qui énonce ? Est-ce un Oronte toujours appliqué à jouer son rôle de simple favori, et enjoignant la reine à le tuer lui plutôt que son fils ? Est-ce un Ariarate désespéré qui se plie aux désirs parricides d'une mère indigne ? Cette même vérité, malmenée, étouffée, violentée au cours des premières scènes de duels, comme n'en pouvant plus de ce silence imposé menace d'abord sourdement dans cette seconde confrontation, pour jaillir avec une violence décuplée au cours de l'ultime confrontation, à la scène 2 de l'acte V. Comme Axiane et Anaxandre, Laodice vit la vérité douloureusement. Un bref moment radoucie par la force de son amour, elle redouble de haine à l'annonce de la réalité, et regrette qu'il n'ait osé se révéler plus tôt :
+
+Ah, que ne l'osiez-vous !  
+Alors ma hayne libre auroit à force ouverte  
+Gousté l'entier plaisir de jurer vostre perte [130]  
+
+
+#### Les élucidations.
+
+Au type de scène appelant une participation du spectateur et jouant sur la duperie d'un ou des deux personnages se greffe donc un second type de scène : celles, plus sporadiques, où viennent se résoudre les mystères de l'intrigue. On y apprend les vérités de l'ombre. Plus question de manipulations complexes de la valeur de vérité. Elles fonctionnent comme des bornes pour le spectateur, qui peut ainsi mieux comprendre ce qui a précédé et ce qui va suivre. Un personnage explique une manœuvre juste avant ou après qu'elle a été mise en œuvre ou bien éclaire un de ses congénères sur ce que cache une péripétie nouvelle. À l'acte I, scène 3, Ariarate, après s'être entretenu avec Axiane sous l'identité d' « Oronte », jeune homme valeureux et favori de la reine, révèle à Phradate sa véritable identité et ce pourquoi il la tait. Laodice pour sa part se montre sous son vrai visage à Cléone, à la scène première de l'acte I, après que le suspense ait été entretenu sur son compte pendant un acte entier et juste avant de s'entretenir avec « Oronte » précisément au sujet du mariage dont elle découvrait les fonctions à sa confidente. Après une première et bien étrange péripétie – l'arrivée inespérée du fils disparu de Laodice – Ariarate à la scène 6 de l'acte II révèle à Phradate la véritable nature de l'évènement : il s'agit d'une manœuvre de Rome pour attirer les traîtres et punir l'imposteur. Cette péripétie permet également à Laodice de se découvrir, puisque à l'acte III, scène 3, elle demande l'aide d' « Oronte » pour éliminer le fâcheux arrivant, et se révèle ainsi sous un nouveau jour à ce dernier. Comme il refuse, la reine se tourne vers Anaxandre et en informe Cléone à l'acte IV, scène 4, lui apprenant par là même que son amour pour Oronte est avivé par la vertu qu'il lui oppose. Il faudra attendre cinq scènes, enfin, pour que la mort impromptue du dit Ariarate à l'acte IV débouche sur la déclaration publique d'Aquilius de l'imposture du défunt, et mette ainsi terme à la fausse enquête de Laodice. Cette même péripétie est à l'origine d'une seconde résolution : c'est à cause d'elle que Laodice, désarmée et amoureuse, cède un temps et accepte la proposition de Rome. Elle règnera en Lycaonie et aura le loisir de s'abandonner à son amour là bas. C'est donc cette péripétie qui l'amène à se déclarer à la scène 2 de l'acte V, ce qui oblige Ariarate à se démasquer lui même. Et voilà notre crise tragique [131].
+
+
+#### Les jeux d'illusion.
+
+Toute l'action se produit sur un premier tableau, qui n'est en fait qu'illusion. L'action, c'est à dire les agissements de Laodice, l'héroïne dont la pièce porte le nom, est lancée sur un malentendu, et de là découle tout le reste. Dans un premier temps, Laodice, se fiant aux bruits – ils sont fondamentaux, nous l'avons vu – croit comme tous qu'Aquilius est délégué pour l'aider à choisir un nouveau roi. Elle veut donc devancer Rome en nommant un faible qui lui cèderait l'autorité royale. C'est à cause de cette erreur originelle que Laodice entreprend d'épouser celui qu'elle ignore être son fils. Et c'est à cause de ce qu'elle ignore, sur une erreur encore, qu'elle tombe amoureuse de lui. Elle ignore le véritable dessein de Rome, à savoir replacer l'héritier légitime sur le Trône. Elle ignore, encore, que c'est dans ce but qu' « Oronte » met tout en œuvre pour la séduire. Ses sentiments, moteurs de sa volonté sont donc provoqués par le malentendu.
+
+Autre illusion facteur d'action : le retour inespéré du dit Ariarate. Laodice, dupée une fois de plus, agit en étant motivée par une erreur. Elle croit effectivement son fils de retour – et elle n'est pas loin du compte, mais ce n'est pas le bon. Corneille joue encore sur les niveaux d'appréhension de la vérité, mais uniquement à l'échelle du personnage cette fois – et donc veut l'éliminer une bonne fois pour toutes.
+
+La troisième illusion moteur de l'action est la mort surprenante du même personnage, non illusoire en soit, mais illusoire dans le fait que Laodice prenne toujours le défunt pour son véritable fils, ce qui la pousse à entreprendre une enquête pour étouffer les soupçons de l'ambassadeur romain. Ce dernier entretient l'illusion puisqu'il tait l'imposture de la victime et laisse l'enquête se poursuivre et s'envenimer. C'est encore une dissimulation de vérité qui la pousse donc à se démener pour accuser quelqu'un.
+
+En revanche, l'action finale est engendrée par la divulgation éclair de la vérité. En apprenant l'imposture et le caractère vain de ses machinations, Laodice, désarmée, fléchit sa rage ambitieuse et se déclare à « Oronte ». L'action finale est donc provoquée, elle, par une vérité.
+
+Rome, qui sait qu'Aquilius vient pour placer « Oronte » sur le Trône, qui sait encore que le cru Ariarate est un imposteur, qui sait, toujours, alors que Laodice mène l'enquête sur la mort de celui qu'elle croit être son fils, qu'il ne s'agit pas de son fils, donc Rome qui sait tout, semble s'évertuer à le lui taire pour l'obliger à rejouer son rôle. En lui cachant ce qui l'attend au dénouement quoiqu'il advienne, elle la laisse libre de se racheter et d'être pardonnée.
+
+Mais l'intérêt de *Laodice* et ce qui en fait une tragédie, c'est que l'on y piétine, que l'on tente d'y immobiliser les choses mais que l'on y est contrarié par une volonté contraire, celle qui impose la prise de choix, donc l'action. Laodice a le choix, donnée fondamentale dans l'intrigue. On lui propose de déposer les armes et de se rallier au camp opposé, mais rien n'y fait, elle préfère le sien, celui de l'immobilisme et du piétinement. Si choix elle fait, c'est celui de répéter le passé et de se condamner. Elle a redoublé de machiavélisme dans le passé pour conserver le pouvoir le plus longtemps possible, et bien elle redoublera à nouveau de ruse pour le garder. Elle a engagé quelqu'un pour éliminer son fils en otage à Rome. Ce fils vit toujours. Elle réengage quelqu'un pour l'assassiner.
+
+Mais est-ce vraiment pour lui donner une seconde chance qu'on lui fait rejouer son passé ? Ne serait-ce pas plutôt dans le but de rendre crédible l'incroyable ? En la faisant jouer telle un pantin, ne décide-t-on pas de la duper pour montrer une vérité ? Ne tente-t-on pas de mettre en scène Laodice, comme dans une pièce de théâtre, où tout n'est qu'illusion ? Laodice joue sa propre histoire dans une pièce qui porte son nom. Encore une fois, Thomas Corneille se plaît à déformer la perception naturelle et immédiate du réel, à étourdir le spectateur.
+
+
+### Duplicité de la figure maternelle.
+
+Corneille reste fidèle à son goût pour la duplicité en livrant une vision trouble de la figure maternelle.
+
+
+#### Mise en échec de l'instinct féminin.
+
+*Laodice*, tout d'abord, est marquée par le motif de la féminité. L'intrigue tourne effectivement autour de la notion d'intériorité qu'il s'agit de préserver à tout prix des assauts extérieurs. L'héroïne lutte pour protéger ce qu'elle a instauré au Palais, pour préserver son règne, sa Cour, pour conserver les choses telles qu'elles sont, notamment en gardant l'homme qu'elle aime sous sa coupe, c'est à dire en en faisant son époux. Pour ce faire il faut donc redoubler de manœuvres, ruser, se battre, et c'est là le sujet de la pièce. Il faut préserver un espace-temps clos de l'agitation du dehors, retarder la venue romaine, facteur créatif, facteur de bouleversement, de nouveauté, de trouble enfin. Aquilius le perturbateur n'apparaît effectivement qu'à la fin de la pièce, au quatrième acte.
+
+Mais là où l'ironie triomphe encore, c'est qu'elle se bat pour préserver l'imperméabilité d'un espace déjà contaminé. Le véritable perturbateur, celui qui menace réellement la stabilité de son univers, celui qui est destiné à lui retirer sa Couronne s'y trouve depuis deux ans. Il est même son proche le plus dévoué, son favori. Qui plus est l'objet de ses feux les plus effrénés. Le ver est dans le fruit. L'ironie se double du fait que le danger contre lequel elle se démène est en elle dans les deux sens du terme : sous son toit, dans son palais mais encore dans son corps, du moins y a-t-il vécu quelque temps. Par son désir incestueux, elle aspire inconsciemment à le faire y entrer à nouveau. Tous les actes de Laodice sont donc motivé par ce besoin de préserver à l'intérieur ce à quoi elle tient et c'est paradoxalement ce qui la perd.
+
+On se trompe donc toujours énormément dans la pièce, on fait fausse route. Nous l'avons vu, c'est là le sujet de la tragédie : une fausse route menant au savoir. Subversion encore de la part de notre auteur qui dérange le spectateur dans ses croyances. La protection peut très bien changer de visage et se faire agression. Rien n'est établi. Les frontières peuvent se brouiller entre ce que l'on croit être le bien et ce que l'on croit être le mal. Comme les personnages, le spectateur est invité à se tenir sur ses gardes, et à se méfier de ce à quoi il fait confiance, car là se trouve le danger.
+
+
+#### Une féminité primitive.
+
+Une conception organique du monde influence la pièce, qui s'inscrit effectivement dans un cycle marqué par un processus d'absorption suivi d'expulsion. Dans la pièce, un organisme cherche continuellement à se remplir en vue d'expulser, et ce toujours dans la violence, dans l'animalité, dans la sauvagerie. La féminité y est appréhendée dans son essence la plus profonde, donc la plus primaire. Le classicisme formel de Corneille joue habilement avec la brutalité du sujet. Comme le Peuple qui est agi par un besoin irrépressible d'engloutissement, qui, pour se nourrir, absorbe ses victimes, les digère en quelque sorte, Laodice est motivée par une soif avide de sacrifice humain. Comme ce Peuple, qui est agi par une pulsion de vie déréglée, Laodice désire ce qui est sorti de son corps, elle désire de la manière la plus organique qui soit, soumise à ce cycle furieux, impérieux de la pièce. Il lui faut réabsorber ce fils inconsciemment identifié.
+
+Nous l'auront compris : le lien fameux entre Eros et Thanatos est plus que jamais à l'ordre du jour dans *Laodice*. Pulsion de vie et pulsion de mort sont au centre de la pièce, motivent essentiellement la reine. Si ces pulsions sont à l'origine de son désir d'infanticide, elles motivent encore son désir inconsciemment incestueux, de même que son suicide final. Nous l'avons vu, en désirant être possédée par son propre fils, Laodice se soumet à la tyrannie d'un cycle cosmique qui veut que tout principe féminin se remplisse, rejette, se remplisse à nouveau. Emplie d'Ariarate lors de sa grossesse, elle lui a donné jour, et cherche à nouveau, par ce désir filial, à faire entrer cet organisme en elle. La Nature ne lui autorisant pas à assouvir cette pulsion dans la vie, elle l'assouvira donc dans la mort, liant en un geste unique les deux pulsions antagonistes. Pulsion de vie parce que, par le geste qui lui sera fatal, elle se pénètre d'un objet symboliquement phallique, et assouvit par là même son désir coupable. Pulsion de mort parce qu'est immédiatement lié à cet acte de plaisir coupable un geste de punition. Le plaisir reproduit donne la mort. La mort procure le plaisir paroxystique. Tout culmine dans cet acte final. La tragédie s'achève à son faîte. Extrême jusqu'au bout, elle remplit brillamment les critères du genre. Son efficacité est prouvée.
+
+
+# Le texte de la présente édition.
+
+L'édition de *Laodice* sur laquelle nous avons travaillé à été exécutée en 1668 par Claude Barbin :
+
+In-12°, 3ff. non chiffrés, 74 pages.
+
+I LAODICE / REYNE / DE CAPPADOCE / TRAGEDIE. / Par T. CORNEILLE. / feuilleton du libraire / A ROUEN, Et se vend / A PARIS, / Chez CLAUDE BARBIN, sur le second / Perron de la Sainte Chapelle. / M. DC. LXVIII. / AVEC PRIVILEGE DU ROY.
+
+II verso blanc
+
+III AU LECTEUR.
+
+IV Extrait du privilege du Roy.
+
+V ACTEURS.
+
+74 pages : le texte de la pièce, précédé d'un rappel du titre en haut de la première page.
+
+Bibliothèque Nationale de France : RES-YF-3911.
+
+Bibliothèque Richelieu (suivant la copie imprimée à Paris, 1668, In-12°, 62 pages) : Z-Rothschild-4087.
+
+
+## Établissement du texte.
+
+En règle générale nous avons conservé l'orthographe de l'édition originale, à quelques réserves près :
+
+- nous avons modernisé les « ∫ » en « s ».
+
+- nous avons distingué « i » et « u » voyelles de « j » et « v » consonnes, conformément à l'usage moderne.
+
+- nous avons décomposé les voyelles nasales surmontées d'un tilde en un groupe voyelle-consonne.
+
+- nous avons corrigé quelques erreurs manifestes (cf. liste de rectification ci-dessous).
+
+- nous avons respecté la ponctuation d'origine, sauf lorsqu'elle nous paraissait évidemment erronée (cf. liste des rectifications )
+
+
+## Corrections.
+
+Nous avons apporté les modifications suivantes au texte :
+
+v. 1375 : about -> à bout
+
+v. 124, 405, 1289 et 1420 : envain -> en vain
+
+v. 55, 1145 : dequoy -> de quoy
+
+v.206 : ordonner -> ordonnez
+
+v. 595 : pous -> pour
+
+v. 602 : achever -> achevez
+
+v. 622 : soûmette -> soûmettre
+
+v. 630 : croyque -> croy que
+
+v. 988 : indigne -> indignes
+
+v. 1619 : dautant -> d'autant
+
+Nous avons également rectifié la ponctuation dans les vers suivants :
+
+ -> ,  – vers 3, 71, 158, 159, 633, 679, 735, 757, 827, 875, 1042, 1047, 1115, 1143, 1567
+
+ , -> .  – vers 138, 363, 673, 732, 733, 984, 1053, 1103, 1497
+
+ . -> ,  – vers 312, 528, 826, 1168
+
+  -> .  – vers 1700
+
+
+## Éditions ultérieures.
+
+**1682** : *Poëmes Dramatiques de Thomas Corneille* par Guillaume de Luyne, Libraire Juré, au Palais, en la Galerie des Merciers, sous la montée de la Cour des Aydes, à la Justice, à Paris. *Laodice* se trouve dans la quatrième partie (l'édition en comporte cinq.).
+
+On y remarque un certain nombre de variantes, essentiellement de ponctuation et d'orthographe, dont voici la liste :
+
+
+### Modifications de ponctuation.
+
+v. 87, 183, 1530 : Ø -> , 
+
+v.414 : , -> .
+
+v. 536 : . -> ,
+
+v. 1058 : , -> Ø
+
+
+### Corrections de coquilles.
+
+v.55 : dequoy -> de quoy
+
+v. 124, 1289, 1420 : envain -> en vain
+
+
+### Modifications d'accents.
+
+v. 69 : Diadême -> Diadéme
+
+v. 70 : suprême -> supréme
+
+v. 664 : régne -> regne
+
+v. 511 : prétendre -> pretendre
+
+v. 945, 1378, 1421, 1489 : cét -> cet
+
+v. 1148 : prétexte -> pretexte
+
+v. 1149 : là -> la
+
+v. 1258 : fâcheux -> facheux
+
+v. 1493 : céde -> cede
+
+v. 1139 : haïr -> hair
+
+v. 1560 : reüssy -> réussy
+
+v. 134 : soupir -> soûpir
+
+v. 110 : defaite -> défaite
+
+
+### Substitution du i au y.
+
+v.334, 1462, 1472, 1474, 1531, 1556, 1576, 1578 : hayne -> haine
+
+v.121, 169 : ainsy -> ainsi
+
+v. 656, 670, 1505 : Ainsy -> Ainsi
+
+v. 671, 695 : Aussy -> Aussi
+
+v. 1438 : saisy -> saisi
+
+
+### Suppression de la première consonne dans les groupes de deux consonnes différentes.
+
+v. 132 : adveu -> aveu
+
+v. 15 : Espoux -> Epoux
+
+v.181 : espargner -> épargner
+
+v. 1706 : esmeuë -> émeuë
+
+v. 1729 : lâche -> lasche
+
+v. 1119, 1567, 1568, 1574, 1641, 1656, 1665, 1670, 1672, 1681 : vôtre -> vostre
+
+
+### Autres.
+
+AU LECTEUR : livre -> Livre
+
+v. 47 : sceu -> sçeu
+
+**1692** : réédition de Guillaume de Luyne des *Poëmes Dramatiques de Thomas Corneille*. Edition identique de Pierre Trabouillet au Palais, dans la Gallerie des Prisonniers à l'image S. Hubert, et à la Fortune proche le Greffe des Eaux et Forests, à Paris. Aux modifications apportées en 1682 s'ajoutent des modifications supplémentaires d'orthographe, de ponctuation mais également de vers. Elles sont bien plus nombreuses que dans la précédente édition :
+
+
+### Modifications de ponctuation.
+
+**Ø -> , · ( en fin de vers)** : v. 3, ,19, 25, 29, 35, 47, 63, 79, 83 ( après « audace », « médite » et « produit »), 87, 115, 133, 139, 143, 155, 157, 159 ( après « Et du moins »), 222, 233, 237, 243, 275, 279, 285, 291, 297, 301 (après « Rome » et en fin de vers), 804, 319, 353, 429, 433, 501, 514, 515, 522, 555, 563, 581, 609, 623, 630, 633, 649, 669, 679, 699, 703, 715, 721, 727, 731, 747, 749, 757, 774, 807, 835, 865, 875, 897, 959, 967, 974 (après « C'est à nous » et « ou d'attendre » ), 989,1047, 1049, 1065, 1083, 1099 (après « Ce Fils » et « desseins »), 1113, 1131, 1143, 1161, 1163, 1169, 1189, 1190, 1203, 1207, 1233, 1247, 1251, 1275, 1307, 1319, 1335, 1339, 1351, 1362, 1387, 1403, 1413, 1421, 1425, 1436, 1447, 1454, 1461, 1465, 1510, 1567, 1575, 1623, 1639, 1654, 1675, 1687, 1707, 1710, 1725, 1726, 1731, 1733
+
+**· ( à l'hémistiche)** : v. 80, 114, 136, 144, 158, 179, 210, 234, 257, 258, 299, 311, 344, 394, 599, 641, 646, 717, 931, 937, 1042, 1094, 1109, 1244, 1261, 1438, 1448, 1476, 1580, 1734
+
+**· (à l'hémistiche et en fin de vers)** : v. 9, 141, 587, 735, 1441, 1711
+
+**, -> .** : v. 32, 43, 52, 134, 138, 170, 180, 200, 217, 218, 235, 238, 240, 250, 254, 259, 270, 272, 304, 321, 322, 324, 326, 328, 338, 363, 366, 368, 370, 408, 414, 420, 476, 480, 505, 512,
+
+558, 580, 643,668, 672, 732, 750, 760, 784, 817, 830, 840, 898, 901, 976, 984, 1016, 1020, 1053, 1062, 1098, 1102, 1111, 1116, 1120, 1124, 1202, 1230, 1241, 1252, 1290, 1336, 1342, 1354, 1356, 1369, 1370, 1380, 1406, 1420, 1422, 1472, 1480, 1482, 1489, 1490, 1514, 1528, 1553, 1565, 1576, 1606, 1612, 1628, 1630, 1665, 1674, 1676, 1684, 1688, 1698, 1712, 1730, 1737, 1738
+
+**, -> ;** : v.165, 188, 211, 228, 264, 279, 336, 377, 588, 658, 1025, 1062, 1066, 1107, 1180, 1278, 1314, 1410, 1477, 1554, 1593, 1604, 1704
+
+**: -> .** :  v. 17 
+
+**, -> Ø** : v. 68 
+
+**, -> :** : v. 125 
+
+**; -> .** :  v. 140, 252, 740,1082, 1105, 1426 
+
+**? -> !** : v. 192 
+
+**. -> Ø** : v. 234 
+
+**, -> ?** : v. 359, 709 
+
+**. -> ,** : v. 536 
+
+**( ) -> Ø** : v. 787 
+
+**. -> ?** : v. 904 
+
+**; -> ,** : v. 1077 
+
+**. -> ;** : v. 1178 
+
+**, -> ?** : v. 1558 
+
+**Ø -> .** : v. 1577, 1700 
+
+**; -> Ø** : v. 1614, 1620 
+
+
+### Modifications systématiques.
+
+Reyne -> Reine
+
+Espoux -> Epoux 
+
+Estats -> Etats 
+
+cét -> cet 
+
+Hymen -> hymen 
+
+defaut -> défaut 
+
+soeur -> Soeur 
+
+mere -> Mere
+
+
+### Modifications sporadiques.
+
+Peuple -> peuple : v. 406, 625, 1089
+
+peuple -> Peuple : v. 7, 52, 575, 625, 853, 859, 930, 1174, 1246, 1738 
+
+maistre -> Maistre : v. 12, 53, 626, 634, 640 
+
+maistre -> Maître : v. 437
+
+Maistre -> maistre : v. 1662
+
+adveu -> aveu : v. 65, 811, 906, 1131 
+
+desadveu -> desaveu : v. 193, 1112 
+
+advoüer -> avoüer : v.225, 455, 965, 1568  
+
+avoüer -> avouër : v. 965 
+
+advoueray -> avoueray : v. 129 
+
+avoüe -> avouë : v. 741 
+
+vôtre -> vostre :v. 351, 561, 757, 1234, 1326
+
+
+#### Au lecteur.
+
+trente-septiéme -> trente septiéme
+
+adjousté -> ajousté
+
+
+#### Acte I, scène 1.
+
+v. 25 : aisné -> Ainé
+
+v. 36 : Aisné -> Ainé
+
+v. 47 : sceu -> sçeu
+
+v. 59 : pour nous -> pournous (coquille) ; quoy -> quoi ; apas -> appas
+
+v. 64 : Sert à croistre souvent -> Augmente quelquefois
+
+v. 109 : éblouy -> ébloüy
+
+v.110 : defaite -> défaite
+
+v. 111 : deferer -> déferer
+
+
+#### Scène 2.
+
+v. 156, 727 : aprés -> après
+
+v. 181 : suplice -> supplice
+
+v. 191 : quel que -> quelque
+
+v. 194 : choisy -> choisi
+
+v. 201 : extréme -> extrême
+
+v. 206 : fole -> folle ; ordonner -> ordonnez
+
+v. 211 : Espargnez -> Epargnez 
+
+v. 217 : gesne -> géne
+
+v. 221 : sents -> sens
+
+
+#### Scène 3.
+
+v. 252 : partisans -> Partisans 
+
+v. 253 : entraine -> entraîne
+
+v. 258 : tiltre -> titre
+
+v. 282 : autheurs -> Auteurs
+
+v. 285 : gesne -> gêne
+
+v. 293 : Diadême -> Diadéme
+
+v. 301 : qu'occupoit lors une pressante  ->  engagée alors dans une rude 
+
+v. 320 : advis -> avis ; améne -> amene
+
+v. 345 : exprés -> exprès
+
+v. 349 : Ce sera lors…
+
+PHRADATE.
+
+Seigneur, j'apperçois Anaxandre.
+
+ARIARATE.
+
+Quand par là dans son cœur… Mais je vois Anaxandre. 
+
+
+#### Scène 4.
+
+v. 366 : prétendre -> pretendre
+
+v. 370 : estroite -> étroite ; alliance -> Alliance
+
+v. 372 : entre nous -> entre-nous
+
+v. 383 : Et lors -> Alors
+
+v. 389 : Augustes -> augustes
+
+
+#### Acte II, scène 1.
+
+v. 398 : vueillez -> vouliez
+
+v. 401 : Hymenée -> hymenée
+
+v. 422 : prévoir -> prevoir
+
+v. 424 : fille -> Fille
+
+v. 445 : zéle -> zele
+
+v. 473 : brûlants -> brûlans
+
+v. 495 : exprés -> exprès
+
+v. 505 : Escoute -> Ecoute
+
+v. 515 : moy -> moi
+
+v. 577 : veufvage -> veuvage
+
+v. 601 : Roys -> Rois
+
+v. 617 : consents -> consens
+
+
+#### Scène 3.
+
+v. 628 : ayder -> aider
+
+v. 631 : éleve -> élevé
+
+v. 656 : Ainsy -> Ainsi
+
+v. 662 : femme -> Femme
+
+v. 674 : mary -> Mary
+
+
+#### Scène 5.
+
+v. 710 : amene -> améne
+
+v. 712 : advis -> avis
+
+v. 713 : imposteur -> Imposteur
+
+v. 718 : peres -> Peres
+
+v. 724 : mensonge -> ménsonge
+
+v. 727 : aprés -> après
+
+
+#### Acte III, scène 1.
+
+v. 746 : mesme -> même
+
+v. 771 : moins -> si
+
+v. 790 : ofre -> offre
+
+v. 794 : Dont -> Donc (coquille)
+
+v. 807 : falust -> fallust
+
+v. 808 : perds -> pers
+
+v. 822 : regreter -> regretter
+
+v. 848 : t'écouter -> écouter
+
+
+#### Scène 3.
+
+v. 897 : Sousmis -> Soumis 
+
+v. 913 : connoistre -> connoître
+
+v. 917, 934 : mystere -> mistere
+
+v. 949 : mesme -> même
+
+v. 959 : ennemis -> Ennemis
+
+v. 963 : conceu -> conçeu
+
+v. 964, 897 : Tyrans -> Tirans
+
+v. 977 : Fils -> fils
+
+v. 985 : accidents -> accidens
+
+v. 988 : étois -> etois
+
+v. 1030 : puissance -> pusance (coquille)
+
+v. 1048 : régner -> regner
+
+
+#### Scène 4.
+
+v. 1058 : Escoutez -> Ecoutez
+
+v. 1067 : ofre -> offre
+
+
+#### Scène 5.
+
+v. 1146 : achepter -> acheter
+
+v. 1148, 1163 : hayne -> haine
+
+v. 1159 : prétieux -> précieux
+
+v. 1187 : ville -> Ville
+
+v. 1191 : advancer -> avancer
+
+v. 1201 : lors -> là
+
+v. 1209 : party -> parti
+
+v. 1235, 1256 : rends -> rens
+
+
+#### Scène 4.
+
+v. 1245 : mystere -> mistere
+
+v. 1255 : noircy -> noirci
+
+v. 1256 : éclaircy -> éclairci
+
+v. 1261 : croira-t'on -> croirat-on (coquille)
+
+v. 1265 : ville -> Ville
+
+v. 1289 : envain -> en vain
+
+v. 1292 : vint -> vingt
+
+
+#### Scène 6.
+
+SCENE VI -> SCENE IV (coquille)
+
+v. 1318 : Céde -> Cede ; égarements -> égaremens
+
+v. 1321 : infortune -> infortun (coquille)
+
+v. 1324 : abats -> abat
+
+v. 1353 : pressants -> pressans
+
+v. 1363 : réparer -> reparer
+
+v. 1369 : esgard -> égard
+
+v. 1375 : about -> à bout
+
+v. 1427 : soufre -> souffre
+
+
+#### Acte V, scène 1.
+
+v. 1439 : soufrir -> souffrir
+
+v. 1445 : esmeu -> émeu
+
+v. 1455 : arréter -> arrester
+
+v. 1465 : régle -> regle
+
+v. 1469 : gênée -> génée
+
+v. 1472 : abysme -> abîme
+
+v. 1474 : Estonnons -> Etonnons
+
+v. 1478 : nature -> Nature
+
+
+#### Scène 2.
+
+v. 1484 : pu -> pû
+
+v. 1485 : mesme -> même
+
+v. 1490 : vertus -> vertu
+
+v. 1491 : serments -> sermens
+
+v. 1494 : brusle -> brûle
+
+v. 1504 : auprés -> auprès
+
+v. 1505 : syncere -> sincere
+
+v. 1512 : régnast -> règnast
+
+v. 1522 : révoque -> revoque
+
+v. 1534 : prétexte -> pretexte
+
+v. 1550 : Vous pouvoir déguiser -> Que je pusse cacher
+
+v. 1555 : cru -> crû
+
+v. 1569 : muete -> muette
+
+v. 1576: defaut -> défaut
+
+v. 1586 : defy -> defy
+
+v. 1588 : coustera -> coûtera
+
+v. 1591 : résoudre -> resoudre ; advenir -> avenir
+
+v. 1706 : esmeuë -> émeuë
+
+v. 1711 : la -> le
+
+v. 1717 : O -> Ø
+
+v. 1729: lâche -> lasche
+
+
+### 1692.
+
+*Le Theatre de Thomas Corneille, Reveu, corrigé, et augmenté de diverses pieces nouvelles*. A Paris suivant la copie imprimée. Le nom de l'éditeur est absent. Les corrections ne sont pas les mêmes que dans l'édition de Guillaume de Luyne et dans celle de Pierre Trabouillet :
+
+
+#### Acte I, scène 1.
+
+v. 2 : icy -> ici
+
+v.5 : estonnez -> étonnez
+
+v. 6 : Espoux -> Epoux
+
+v. 11, 45, 213 ( après « C'est beaucoup » ), 363, 446, 453, 710, 743, 888, 1174, 1289 ( après Oronte ), 1371, 987, 1050, 1534 :  , -> Ø 
+
+v. 11 : aujourd'huy -> aujourd'hui
+
+v. 12 : maistre -> maître 
+
+v. 12, 864, 1060, 1080, 1214, 960, 1159, 1182, 1357 :  . -> ,
+
+v.27 : Ø -> .
+
+v. 30, 42 ( à l'hémistiche), 389 : Ø -> ,
+
+v. 51 : encore -> encor
+
+v. 56 : peut-estre -> peut estre
+
+v. 59 : apas -> appas
+
+v. 80 : retient -> retien
+
+v. 81 : Ennemis -> ennemis
+
+v. 84 : aussy- tost -> aussi-tost
+
+v. 91 : amour -> Amour
+
+v. 109 : éblouy -> ébloui
+
+v. 124 : envain -> en vain 
+
+v. 129 : advoueray -> avoûeray
+
+v. 134 : soupir -> soûpir
+
+v.124, 177, 188, 211 : , -> .
+
+v. 132, 811, 906, 1235 : adveu -> aveu
+
+
+#### Scène 2.
+
+v. 169 : ainsy -> ainsi
+
+v. 174 : ? -> .
+
+v. 175, 798, 1270, 1271 : . -> Ø
+
+v. 181 : suplice -> supplice
+
+v. 191 : vôtre -> vostre
+
+v. 206 : ordonner -> ordonnez
+
+v. 216 : là dessus -> là-dessus
+
+
+#### Scène 3.
+
+v. 225, 1568: advoüer -> avoüer
+
+v. 231 : vœux -> veux
+
+v. 249, 283, 286, 316, 512, 556, 659, 668, 673, 732, 785, 886, 1272, 1283, 1406, 1408, 1414, 892, 1124, 1188, 1040, 1042, 1570 : , -> .
+
+v. 279 : fut -> fût
+
+v. 292 : bien-tost -> bien-tôt
+
+v. 298 : , -> ?
+
+v. 315 : , -> ;
+
+v. 319 : aujourd'huy -> aujourd'hui ; mesme -> même ; éclaircy -> éclairci
+
+
+#### Scène 4.
+
+v. 369 : asseurance -> assurance
+
+v. 374 : connoistre -> connoître
+
+v. 376, 635, 772, 797 : excez -> excés
+
+
+#### Acte II, scène 1.
+
+v. 400 : pu -> pû ;  . -> ,
+
+v. 452 : : -> ;
+
+v. 505 : Escoute -> Ecoute
+
+
+#### Scène 2.
+
+v. 510 : succez -> succés
+
+v. 514 : Ø -> ,
+
+v. 553 : paroistre -> paroître
+
+v. 554, 626 : maistre -> maître
+
+v. 585 : parts -> pars
+
+
+#### Scène 3.
+
+v. 631 : éleve -> élevé
+
+v. 645 : estre -> être
+
+
+#### Scène 5.
+
+v. 695 : aussy -> aussi
+
+
+#### Scène 6.
+
+v. 712 : advis -> avis
+
+v. 717 : Fils -> fils
+
+v. 725 : traistre -> traître
+
+
+#### Acte III, scène 1.
+
+v. 753 : idée -> idee
+
+v. 757 : vôtre -> nôtre
+
+v. 772 : defaut -> défaut
+
+v. 807 : crois-tu -> crois tu
+
+
+#### Scène 2.
+
+v. 878 : , -> :
+
+v. 880 : . -> !
+
+
+#### Scène 3.
+
+v. 885, 998, 1115, 1539 : Ø -> ,
+
+v. 897 : sousmis -> soûmis
+
+v. 914 : Maistre -> maistre
+
+v. 920 : Peuple -> peuple
+
+v. 926 : , -> ;
+
+v. 981 : Aussy -> Aussi
+
+v. 988 : étois -> etois ; , -> Ø ; indigne -> indignes
+
+v. 997 : là dessus -> là –dessus
+
+v.1000 : régner -> regner
+
+v. 1003 : bientost -> bientôt
+
+v. 1013 : c'est luy -> c'est-luy
+
+v. 1016 : Accordez moy -> Accordez-moy
+
+v. 1024 : serments -> sermens
+
+v. 1037 : Ainsy -> Ainsi
+
+
+
+Fin du troisiéme Acte -> Fin du quatriéme Acte (coquille)
+
+
+#### Acte IV, scène 1.
+
+v. 1127 : dont -> donc
+
+v. 1135 : defend -> défend
+
+v. 1146 : veux -> vœux
+
+
+#### Scène 2.
+
+v. 1160 : ! -> ?
+
+v. 1163 : hayne -> haine
+
+v. 1165 : soüiller -> souiller
+
+
+#### Scène 3.
+
+v. 1173 : naistre -> naître
+
+v. 1191 : advancer -> avancer
+
+
+#### Scène 5.
+
+v.1291 : reüssy -> reüssi
+
+
+#### Scène 6.
+
+v. 1309 : remerciement -> remercîment
+
+v. 1344 : ; -> ?
+
+v. 1349 : aussy -> aussi
+
+v. 1375 : about -> à bout
+
+
+#### Scène 8.
+
+v. 1378 : cét -> cet
+
+v. 1395 : ce -> un
+
+v. 1405 : ? -> Ø
+
+v. 1420 : envain -> en vain
+
+v. 1428 : régner -> regner
+
+v. 1432, 1454 : ainsy -> ainsi
+
+
+#### Acte V, scène 2.
+
+v. 1507 : garand -> gand ; grand -> garrand ( coquille)
+
+v. 1525 : prétendre -> pretendre
+
+v. 1556 : hayne -> haine
+
+v. 1558 : chaisne -> chaîne
+
+v. 1574 : ; -> ?
+
+v. 1576 : defaut -> défaut
+
+v. 1591 : advenir -> avenir
+
+v. 1601 : hayne -> haine
+
+v. 1619 : dautant -> d'autant
+
+v. 1641 : vôtre -> vostre
+
+v. 1645 : entraine -> entraîne
+
+v. 1656 : vôtre -> vostre
+
+
+#### Scène 4.
+
+v. 1692 : abhorre -> abborre ( coquille)
+
+
+### 1706.
+
+*Poemes dramatiques de Thomas Corneille, nouvelle édition, revûe, corrigée, et augmentée*, Charles Osmont, Paris, rüe S. Jacques, au coin de la rüe de la Parcheminerie à l'Ecu de France. *Laodice* se trouve toujours dans la quatrième partie. Il s'agit là d'une version modernisée de la version de 1692 éditée par Guillaume de Luyne et Pierre Trabouillet [132]. Les modifications de cette précédente édition sont conservées mais s'y ajoute une modernisation de l'orthographe :
+
+- La structure voyelle + s + consonne est systématiquement modifiée en voyelle+ ^ + consonne, sauf quand il s'agit d'un e en début de mot ( e -> é) [133] et sauf « viste -> vite ». Tous les mots comprenant cette structure suivent donc les contractions données dans les exemples qui suivent :
+
+AU LECTEUR : adjousté -> ajoûté
+
+v. 19 (…): mesme -> même 
+
+v. 56 (…) : estre -> être
+
+v. 45 ( ...) : prest(e) -> prêt(e) 
+
+v. 61 (…) : vostre -> vôtre
+
+v. 25 : eust -> eût
+
+v. 12 (…) : maistre -> Maître
+
+v. 46 : renaistre -> renaître
+
+v. 146 : estiez -> étiez
+
+v. 6 (…) : Espoux -> Epoux
+
+v. 467 : osast -> osât
+
+v. 515 : haster -> hâter
+
+- Dans la structure d, l + cons., le d ou le l disparaissent :
+
+AU LECTEUR : adjousté -> ajoûté
+
+v. 129 : advoüeray -> avoüerai
+
+v. 1066 : tiltre -> titre
+
+- Le e prend un accent . quand il précède une autre voyelle :
+
+AU LECTEUR : Theatre -> Théatre
+
+v. 414 : Creature -> Créature
+
+· quand il précède une consonne suivie d'une voyelle :
+
+AU LECTEUR : caractere -> caractére
+
+v. 15 : resout -> résout
+
+v.34 : reserver -> réserver
+
+v. 44 : Frere -> Frére
+
+v. 83 : medite -> médite
+
+v. 334, 418, 522, 558, 582, 727 : mere -> Mére
+
+· devant gn :
+
+v. 26, 71, 404, 412, 464 : regner -> régner
+
+- La structure eu se contracte en û et en u quand elle est en fin de mot et précède re  :
+
+v. 28, 114, 171 : veu -> vû
+
+v. 35 : seurement -> sûrement
+
+v. 47, 480, 514, 544, 546 : sceu -> sçû
+
+v. 55, 130, 650 : seur -> sûr
+
+v. 261 : pourveu -> pourvu
+
+v. 343 : receus -> reçus
+
+v. 703 : asseure -> assure
+
+v. 556 : asseurer -> assurer
+
+v. 547 : seure -> sure
+
+- Le y en fin de mot se modifie en i, sauf dans le pronom personnel « luy » :
+
+v. 37, 40, 161, 210 : quoy -> quoi
+
+v. 77, 101 : sçay -> sçai 
+
+v. 90 : pourquoy -> pourquoi 
+
+v. 95, 187, 248 : vray -> vrai
+
+v. 109 : éblouy -> ébloüi
+
+v. 115 : appuy -> appui
+
+v. 187 : vray -> vrai 
+
+v. 211, 277, 291, 723 : icy -> ici
+
+v. 271, 319 : aujourd'huy -> aujourd'hui
+
+v. 319 : éclaircy -> éclairci
+
+v. 615, 729, 760 : Ouy -> Oüi 
+
+- La ponctuation subit également quelques modifications :
+
+v. 176, 206, 317, 382, 394, 689, 980, 1296, 1417, 1429, 1585, 1680 : , -> .
+
+v. 213, 360 : , -> ;
+
+v. 670, 1136 : ; -> Ø
+
+v. 772, 900 : ? -> Ø
+
+v. 29 (après Le Ciel ), 71,107, 111, 147, 459, 772, 947, 961, 1337, 1473, 1475, 1520, 1521, 1594 ( à l'hémistiche) : Ø -> ,
+
+v. 786, 962 : ,-> ?
+
+v. 788 :  ? -> ;
+
+v. 812 :  ! -> ?
+
+v. 969, 1546 :  ? -> ,
+
+v. 1089, 1450 : , -> Ø
+
+v. 1119 :  ? -> ! (après « Madame »)
+
+v. 1442 : . -> ,
+
+v. 1544, 1708 : . -> Ø 
+
+v. 1546 : , -> ? ; , -> .
+
+- Les accents, aigus, circonflexes, ou trémas sont supprimés ou modifiés dans d'autres mots que ceux cités précédemment :
+
+v. 15, 401 : cét -> cet
+
+v. 286 : fâcheux -> facheux
+
+v. 409 : crû -> cru
+
+v. 484 : soûmettre -> soumettre
+
+v. 545 : après -> après 
+
+v. 622 : soûmette -> soumettre
+
+v. 737 : avoüer -> avouer
+
+v. 765 : paru -> parû 
+
+v. 768 : soûpirs -> soupirs
+
+v. 1455 : arréter -> arrêter
+
+- Le f devant r se double :
+
+v. 636 : soufrir -> souffrir 
+
+v. 752 : ofre -> offre
+
+- Les autres modifications sont sporadiques :
+
+v. 524 : sceptre -> Sceptre
+
+v. 670 : Hymen -> hymen  
+
+v. 62 : une -> un (coquille)
+
+v. 109, 185 : par là -> par-là 
+
+v. 405 : Envain -> En vain
+
+v. 414 : placeant -> plaçant 
+
+v. 487 : défierois -> défirois 
+
+v. 490 : le -> la
+
+v. 548 : serments -> sermens
+
+v. 595 : pous -> pour
+
+v. 602 : achever -> acheve
+
+v. 678 : prens -> prend
+
+v. 684 : milles -> mille
+
+v. 760 : places -> place
+
+v. 772 : amour -> Amour
+
+v. 776 : soûpires -> soûpire
+
+v. 787 : du -> d'un
+
+v. 876 : grace -> graces
+
+v. 896 : esclave -> Esclave
+
+v. 947 : orage -> Orage
+
+v. 1002 : parricide -> Parricide
+
+v. 1019 : Daignez luy -> Daignez-luy
+
+v. 1088 : suy-moy -> suy moy
+
+v. 1100 : le conseil -> les conseils
+
+v. 1134 : Ascendant -> ascendant
+
+v. 1135 : malgré-moy -> malgré moy
+
+v. 1143 : si -> seul
+
+v. 1157 : peuple -> Peuple
+
+v. 1186 : acquiter -> acquitter
+
+v. 1302 : défence -> défense
+
+v. 1311 : bienfaits -> bien-faits
+
+v. 1329 : suplices -> supplices
+
+v. 1387 : du -> de
+
+v. 1411 : bientost -> bien-tôt
+
+v. 1446 : jusques -> jusque
+
+v. 1501 : découvririez-vous -> découvririez vous
+
+v. 1540 : apprens -> apprend
+
+v. 1584 : vœux -> Foeux
+
+v. 1609 : à -> en
+
+v. 1718 : apprenez -> aprenez
+
+
+# LAODICE REINE DE CAPPADOCE, TRAGÉDIE.
+
+
+## AU LECTEUR.
+
+LE sujet de cette Tragedie est tiré du trente-septiéme livre de Justin. Ceux qui auront la curiosité de l'y chercher, connoistront ce que j'ay adjousté à l'Histoire pour l'accomoder à nostre Theatre. L'Action principale y est si forte qu'elle m'a contraint d'affoiblir les Episodes, et de negliger beaucoup d'ornemens pour laisser à Laodice toute l'étenduë de son caractere. La matiere estoit belle pour l'ambition, et je ne doute point qu'un autre n'en eust fait voir des peintures plus achevées. Pour moy, j'avoüe que mes forces n'ont pû aller plus loin, et que je ne demande l'indulgence dont j'ay besoin pour cét Ouvrage, qu'aprés avoir employé tous mes soins pour adoucir les defauts dont je n'ay pû entierement le purger.
+
+
+## Extrait du Privilege du Roy.
+
+PAr grace et Privilege du Roy donné à S. Germain en Laye le 21 de Février 1668. Signé de MALON, il est permis au sieur T. CORNEILLE de faire imprimer, vendre et debiter par tel Imprimeur et Libraire qu'il voudra choisir, une piece de Theatre de sa composition, intitulée *Laodice Reyne de Cappadoce*, pendant le temps et espace de cinq ans entiers et accomplis, à compter du jour que ladite piece de Theatre sera achevée d'imprimer ; et défences sont faites à tous autres de quelque qualité et condition qu'ils soient de faire imprimer la dite Piece sur peine de trois mille livres d'amende, et tous dépens, dommages et interests, ainsi qu'il est plus amplement porté par lesdites lettres.
+
+*Registré sur le livre de la communauté le cinquième de mars 1668*.
+
+Signé THIERRY Adjoint.
+
+Achevé d'imprimer pour la premiere fois le 8 Mars 1668. à Roüen, par L. MAURRY, aus dépens de l'Autheur, lequel a traité la presente impression et du Privilege à l'avenir avec CLAUDE BARBIN, et GABRIEL QUINET Marchands Libraires à Paris, pour en joüir suivant l'accord fait entr'eux.
+
+*Les Exemplaires ont esté fournis.*
+
+
+## ACTEURS.
+ – LAODICE,Reyne de Cappadoce.
+ – ARIARATE,Fils de Laodice, déguisé sous le nom d'Oronte.
+ – AQUILIUS,Ambassadeur de Rome.
+ – PHRADATE,
+ – ANAXANDRE,Princes Sujets de Laodice.
+ – AXIANE,Princesse de Cilicie.
+ – CLEONE,Confidente de Laodice.
+ – ALCINE,Confidente d'Axiane.
+ – THEODOT.
+La Scene est dans la Capitale de Cappadoce
+ 
+
+
+## ACTE I.
+
+
+### Scène première.
+AXIANE, ALCINE.
+
+
+    AXIANE.
+Quoy, le Senat députe⁎, et sans daigner attendre  
+Qu'icy l'Ambassadeur ait le temps de se rendre,  
+La Reyne sur ce choix ne consultant que soy,  
+Veut à la Cappadoce enfin donner un Roy ?   
+
+    ALCINE.
+Vous en estonnez-vous quand [134] Rome s'interesse [135]  
+A l'Espoux qu'elle doit choisir pour la Princesse ?  
+Déja depuis long-temps le peuple à haute voix  
+Afin d'avoir un Roy presse⁎ pour ce grand choix,  
+Et comme Aquilius que ce projet amene  
+Arrivant tout à coup peut surprendre la Reyne,  
+Pour prévenir [136] son ordre, elle veut aujourd'huy  
+Nous donner seule un maistre et s'en faire un appuy.  
+Jalouse de l'éclat dont la Couronne brille  
+Elle a peine sans doute à la rendre à sa Fille,  
+Mais au moins cét Espoux que son choix seul resout [137],  
+Ne tiendra rien de Rome, et va luy devoir tout.  
+
+    AXIANE.
+Mais Rome se plaindra de ce choix fait sans elle :   
+Si le feu Roy mourut armé pour sa querelle [138],  
+Du moins dans sa mort mesme il en receut le prix  
+Lors que Rome aggrandit l'Empire de ses Fils,  
+Et qu'à la Cappadoce on vit par elle unie  
+La Cilicie entiere, et la Lycaonie [139].  
+
+    ALCINE.
+Que ne sont-ils vivants ces Fils infortunez  
+Par qui tous ces Estats vous estoient destinez !  
+L'Hymen qui vous eust jointe à l'aisné de ces Princes  
+Vous auroit fait regner sur toutes ces Provinces,  
+Et vos Ciliciens par ce nœud glorieux  
+Eussent veu leur Princesse au rang de ses Ayeux.  
+
+    AXIANE.
+Le Ciel dont contre moy les rigueurs éclaterent  
+M'osta la Cilicie où mes Ayeux regnerent,  
+Et par l'ordre de Rome envoyée en ces lieux  
+J'y pouvois esperer un destin glorieux,  
+Du moins Rome, en donnant mes Estats à la Reyne,  
+Sembla me reserver⁎ au rang de Souveraine,  
+Et pour les voir au siens plus seurement unis  
+Me destina pour Femme à l'Aisné de ses Fils ;  
+Mais ils ne vivent plus, et quoy que l'on se flate [140]  
+Que le Ciel a sauvé [141] le jeune Ariarate,  
+Arsinoé sa Sœur a droit seule aujourd'huy  
+De posseder le rang que j'attendois de luy.  
+
+    ALCINE.
+Aux vœux⁎ d'Arsinoé quoy que ce rang promette,  
+Ariarate encor la peut laisser Sujette.  
+Le plus riant espoir nous trompe assez souvent,  
+Que sçait-on si ce Frere enfin n'est point vivant ?  
+Si l'on en croit la Reyne, il est prest à paroistre.  
+
+    AXIANE.
+Sçais-tu d'où vient le bruit qui le force à renaistre ?  
+La Reyne que le Trône a toûjours sceu charmer⁎  
+Fait à regret le Roy qu'elle est preste à nommer,  
+Et des jours de son Fils la frivole asseurance [142]  
+Tenoit toûjours l'hymen de sa Fille en balance [143],  
+Qui de son Frere encore attendroit le retour,  
+Si le Peuple ennuyé [144] ne pressoit⁎ ce grand jour,  
+Il croit ce Prince mort, et veut avoir un maistre.  
+
+    ALCINE.
+Ah, s'il estoit vivant, et qu'il se fist connoistre,  
+Le Trône seur pour vous…  
+
+    AXIANE.
+        Il a de quoy toucher,  
+Mais peut-estre à ce prix il me cousteroit cher.  
+
+    ALCINE.
+Quoy ? vous refuseriez l'hymen d'Ariarate ?  
+
+    AXIANE.
+Il peut seul m'affranchir d'une fortune ingrate,  
+Mais pour nous ébloüir quoy qu'un Trône ait d'apas [145],  
+Peut-on estre content quand le cœur ne l'est pas ?  
+
+    ALCINE.
+O Dieux ! se pourroit-il que pour toucher le vostre,  
+L'Amour…  
+
+    AXIANE.
+        Il peut sur moy ce qu'il peut sur une autre,  
+Et ce qu'on met d'obstacle aux traits [146] qu'il fait sentir  
+Sert à croistre souvent ce qu'on pense amortir [147].  
+
+    ALCINE.
+Cet adveu me surprend, mais à qui puis-je croire  
+Que l'amour ait voulu destiner tant de gloire⁎ ?  
+Nos Princes qui pourroient aspirer jusqu'à vous  
+De leur ambition font leurs voeux les plus doux [148],  
+La main d'Arsinoé donne le Diadême,  
+Et dans l'avidité de la grandeur suprême,  
+Chacun pour son Hymen qui les fera regner  
+Brigue la voix d'Oronte, et tâche à le gagner.  
+Ce fameux Inconnu peut beaucoup sur la Reyne.  
+
+    AXIANE.
+Son merite est bien rare.  
+
+    ALCINE.
+        Il obtient tout sans peine,  
+Et ce faiste d'honneurs où l'on voit aujourd'huy…  
+
+    AXIANE.
+Ils sont grands, mais crois-tu qu'on puisse trop pour luy ?  
+
+    ALCINE.
+Je sçay bien qu'à l'Estat il est si necessaire  
+Qu'afin de l'arrester [149] on ne peut assez faire.  
+Depuis plus de deux ans que la faveur des Dieux  
+Nous l'ayant envoyé le retient en ces lieux,  
+De nos fiers⁎ Ennemis l'insolence [150] estoufée  
+A ses moindres exploits a servy de trophée,  
+Et ce que leur audace ou medite ou produit  
+Par ses sages conseils est aussy-tost détruit ;  
+Mais ces rares effets de valeur, de prudence,  
+Luy donnent de la gloire⁎, et non de la naissance,  
+Et le rang inégal où le Ciel l'a formé [151]  
+Ne l'empesche pas moins d'esperer d'estre aimé.  
+
+    AXIANE.
+Il se peut qu'en son cœur cét espoir n'ose naistre,  
+Mais, Alcine, pourquoy ne pourroit-il pas l'estre ?  
+L'amour, de la raison est-il toûjours l'effet,  
+Et n'aime-t-on jamais sans sçavoir ce qu'on fait ?  
+
+    ALCINE.
+Je croirois que son rang trop different du vostre…  
+
+    AXIANE.
+Et n'ay-je pas un cœur et des yeux comme une autre,  
+Et quand d' un vray merite on fait briller l'appas [152],  
+Est-il en mon pouvoir de ne l'estimer pas ?  
+
+    ALCINE.
+L'estime est innocente, et fut toûjours permise,  
+Mais l' amour…  
+
+    AXIANE.
+        Songe-t'on que l'amour se déguise,  
+Et dans la liberté de voir et d'estimer,  
+Lors qu'on aime en effet, s'apperçoit-on d'aimer ?  
+D'un doux je ne sçay quoi la plus flateuse amorce⁎  
+N'est d'abord qu'un tribut [153] où⁎ la vertu nous force.  
+L'éclat dont elle brille aux yeux de cent témoins  
+D'un cœur qui la connoist ne peut attendre moins.  
+L'ame a beau s'en trouver inquiete, interdite,  
+La raison y consent, c'est l'effet du merite,  
+Et l'on ne veut pas voir que malgré son secours  
+Ce merite plaist tant qu'on y pense toûjours.  
+C'est par là qu'éblouy d'une vertu parfaite  
+Mon cœur en succombant s'est caché sa defaite,  
+Et qu'à mes sens surpris osant trop deferer  
+Il a pris de l'amour, et n'a crû qu'admirer.  
+Tout ce que des Heros l'Histoire nous raconte,  
+Tout ce qu'ils ont de grand je l'ay veu dans Oronte.  
+L'Estat qui chanceloit sans l'appuy de son bras  
+Doit son entier triomphe à ses derniers combats,  
+Au Trône par luy seul la Reyne est affermie, [154]  
+Et s'il eut en naissant la fortune ennemie,  
+Quoy qu'on vueille par là ravaler ses exploits,  
+C'est estre plus que Roy que maintenir les Rois.  
+
+    ALCINE.
+Je le veux croire ainsy. Mais Oronte, Madame,  
+Est-il assez heureux pour lire dans vostre ame ?  
+En sçait-il le secret ?  
+
+    AXIANE.
+        Je tâche à [155] luy cacher  
+Ce qu'en vain de mon cœur je voudrois arracher,  
+Je m'observe [156] sans cesse en tout ce qu'il m'inspire,  
+Mais l'amour dit beaucoup lors qu'il croit ne rien dire,  
+Et quelque soin qu'on prenne à bien dissimuler,  
+Si la bouche se taist, les yeux sçavent parler.  
+Aussi je l'advouëray ; cét heureux temeraire  
+Semble se tenir seur de ne me point déplaire.  
+Je le voy quelquefois d'un regard tout mourant  
+Solliciter l'adveu des devoirs qu'il me rend [157].  
+Son amour que fait taire un respect tyrannique  
+Emprunte le secours d'un soupir qui l'explique,  
+Et j'ay connu souvent qu'il s'estoit répondu  
+Que s'il m'avoit parlé je l'avois entendu. [158]  
+Juge, Alcine …  
+
+    ALCINE.
+        Voyez que l'amour vous l'amene.  
+
+
+### Scène II.
+ARIARATE sous le nom d'Oronte, AXIANE, ALCINE.
+
+
+    ARIARATE.
+Madame, vous sçavez le dessein de la Reyne.  
+Des vœux de ses Sujets se faisant une loy [159]  
+On la voit qui s'appreste à nous donner un Roy ;  
+Au defaut de son Fils dont on plaint la disgrace⁎  
+Sa fille Arsinoé prend aujourd'huy sa place,  
+Et l'Espoux que pour elle a resolu [160] son choix  
+Montant par elle au Trône y va donner des loix.  
+Quelle douceur⁎ pour moy si dans cette journée  
+Au lieu d'Arsinoé vous estiez couronnée !  
+Quand Rome disposa de vos Estats conquis  
+La Reyne pour Espoux vous destina son Fils,  
+Et dans la Cappadoce on vous vit élevée  
+Pour la gloire⁎ où⁎ ce choix vous avoit reservée⁎.  
+Plust au Ciel qu'il parust ce Fils, et qu'il fust prest...  
+
+    AXIANE.
+0ronte en mon destin prend toûjours interest [161],  
+Et ne peut sans douleur voir ma gloire [162] obsurcie  
+Par le sort qui m'a fait perdre la Cilicie.  
+Comme elle est le partage où regnoient mes Ayeux  
+J'aurois voulu sans doute y regner aprés eux,  
+Mais puisqu'enfin le Ciel autrement en dispose  
+M'ostant la Cappadoce, il m'oste peu de chose,  
+Et du moins ne devant ny mon cœur ny ma foy [163],  
+Si je vis sans éclat, je puis vivre pour moy.  
+
+    ARIARATE.
+Quoy, donner vostre cœur au Prince Ariarate  
+Seroit un sort [164] pour vous…  
+
+    AXIANE.
+        La liberté me flate [165],  
+Et ce cœur trop altier appelle un attentat  
+Tout ce qui le soûmet à des raisons d'Estat.  
+
+    ARIARATE.
+J'admire à ces raisons la fierté qu'il oppose,  
+Mais si j'osois, Madame, en penetrer la cause.  
+
+    AXIANE.
+Et que me diriez-vous ?  
+
+    ARIARATE.
+        Ce qu'il nous tient caché,  
+Que sans doute en secret quelque autre l'a touché [166],  
+Et qu'ainsy…  
+
+    AXIANE.
+        Ce soupçon va trop loin pour ma gloire⁎  
+Mais enfin quel sujet [167] auriez-vous de le croire ?  
+D'aucuns vœux⁎, d'aucuns [168] soins⁎ m'a-t'on veu faire cas ?  
+
+    ARIARATE.
+Madame, au nom des Dieux ne me le cachez pas.  
+Un si fort interest me presse de l'apprendre…  
+
+    AXIANE.
+Vous ? Et Quel interest auriez-vous lieu d'y prendre ?  
+
+    ARIARATE.
+Madame…  
+
+    AXIANE.
+        Expliquez-vous, je vous ay tout permis.  
+
+    ARIARATE.
+Vous sçavez le credit où la faveur m'a mis,  
+Je puis ce que je veux sur l'esprit de la Reyne,  
+Et quand le choix d'un Roy luy tient l'ame incertaine,  
+Nommant qui vous aimez vous n'auriez point l'ennuy [169]  
+De craindre que ce choix pust s'arrester sur luy, [170]  
+J'en sçaurois à vos vœux⁎ espargner le suplice.  
+
+    AXIANE.
+Je luy ferois peut-estre un peu moins d'injustice,  
+Et croirois que ma gloire⁎ auroit à s'indigner  
+Si mon cœur luy coustoit la douceur⁎ de regner.  
+Mais ma crainte par là trouve peu de matiere,  
+Et pour vous en donner la marque toute entiere,  
+Si quelque vray merite avoit à me charmer,  
+Ce seroit par vos yeux que je voudrois aimer,  
+Ce que vous choisiriez auroit droit de me plaire.  
+
+    ARIARATE.
+Et vous pourriez, Madame, en croire un temeraire,  
+Qui pour faire un heureux, quel que soit vôtre rang,  
+Chercheroit plus l'amour que la splendeur du sang ?  
+A quel prompt desadveu vous verrois-je reduite ?  
+
+    AXIANE.
+Ayant choisy par vous j'en craindrois peu la suite,  
+Et qui pour la vertu s'est toûjours expliqué…  
+
+    ARIARATE.
+Que sert cét avantage où le reste a manqué ?  
+Si je vous proposois quelqu'un dont la naissance  
+Avec le sang des Rois eust trop de difference,  
+Quelqu'un dont ce malheur ternist les qualitez ?  
+
+    AXIANE.
+Ces defauts au Destin doivent estre imputez,  
+Un Heros n'est garand que d'un merite extréme,  
+Que d'un…  
+
+    ARIARATE.
+        Et si j'osois vous parler pour moy-mesme,  
+Vous jurer que jamais une si vive ardeur  
+Avec tant de respect ne s'empara d'un cœur,  
+Que le mien tout à vous par un pur sacrifice…  
+Mais de ma fole audace ordonnez le supplice,  
+Dans son emportement je m'égare et me pers.  
+Est-ce à moy de porter de si glorieux fers [171] ?  
+Est-ce à moy de prétendre où mon orgueil aspire [172] ?  
+Parlez, Madame,  
+
+    AXIANE.
+    Adieu.  
+
+    ARIARATE.
+        Quoy, sans me vouloir dire…  
+
+    AXIANE.
+Espargnez ce qu'icy je me dois de fierté.  
+C'est vous avoir trop dit que d'avoir écouté.  
+
+    ARIARATE.
+C'est beaucoup, il est vray, mais si ce pur hommage…  
+
+    AXIANE.
+A quoy bon me presser d'en dire davantage ?  
+Les devoirs d'un beau sang vous sont assez connus,  
+Vous sçavez qui je suis, jugez vous là dessus.  
+
+    ARIARATE.
+Ce que vous m'opposez n'est pas ce qui me gesne [173],  
+Soûtenez ce beau sang, je le verray sans peine,  
+Dites-moy seulement si mon feu vous déplaist,  
+Si vôtre cœur touché…  
+
+    AXIANE.
+        Je ne sçay ce qu'il est,  
+Mais je sents qu'il se trouble à vouloir vous entendre,  
+Et que quoy que l'amour vous forçast d'entreprendre  
+Vous pourriez esperer le succez le plus doux,  
+Si l'orgueil de mon rang n'estoit pas contre vous.  
+
+
+### Scène III.
+ARIARATE, PHRADATE.
+
+
+    PHRADATE.
+Voudrez-vous l'advouër ? La Princesse Axiane  
+Cherche à rompre par vous un choix qu'elle condamne,  
+L'Hymen d'Arsinoé la doit inquieter.  
+
+    ARIARATE.
+L'espoir d'une Couronne est fâcheux à quitter,  
+Mais Axiane est ferme [174], et loin de luy voir craindre …  
+
+    PHRADATE.
+Que je la trouve heureuse, et que je suis à plaindre !  
+Quoy que d'Arsinoé tous les vœux⁎ soient pour moy,  
+J'ay des Rivaux, Oronte, et j'en tremble d'effroy,  
+Car vous ne doutez point que leur jalouse envie [175]  
+M'ostant Arsinoé ne me couste la vie.  
+Vous pouvez seul contre eux soûtenir mon espoir,  
+Vous avez sur la Reyne un absolu pouvoir,  
+Et cent fois, quant le trouble est entré dans mon ame  
+Vous m'avez répondu du succez de ma flame,  
+Enfin, mon cher Oronte, il est temps de parler.  
+
+    ARIARATE.
+Je vous dois trop, Seigneur, pour vouloir reculer,  
+Ce service est le moindre où l'honneur me convie,  
+Sans vous dans un combat j'aurois perdu la vie,  
+Et cent fois vos bontez s'interessant pour moy [176]  
+Ont daigné m'affermir au rang où je me voy.  
+Ainsi pour vôtre amour ne soyez point en peine,  
+Aimez Arsinoé, je respons de la Reyne,  
+Et vous pouvez vous croire au comble de vos vœux⁎,  
+S'il est vray que sa main vous puisse rendre heureux.  
+
+    PHRADATE.
+A l'honneur de ce choix beaucoup osent prétendre,  
+Mais mon amour sur tout me fait craindre Anaxandre,  
+Cét orgueilleux Rival ne manque point d'appuy,  
+Et de ses partisans…  
+
+    ARIARATE.
+        Ne craignez rien de luy;  
+L'aveugle ambition dont la fierté l'entraine  
+Luy laisse peu de part aux bontez de la Reyne,  
+Elle cherche un esprit souple, docile, accort,  
+Qui pour regner toûjours luy serve de support,  
+Et qui du rang pompeux dont on la voit arbitre,  
+Luy laissant le pouvoir se contente du tiltre.  
+
+    PHRADATE.
+Je l'abandonne entier à l'ardeur de ses vœux,  
+Le cœur d'Arsinoé, c'est tout ce que je veux,  
+Et pourveu que sa main …  
+
+    ARIARATE.
+        Quoy, Seigneur, sa personne  
+A des charmes pour vous plus forts que sa Couronne ?  
+
+    PHRADATE.
+Ouy, j'atteste les Dieux que sans ambition  
+Elle seule a causé toute ma passion,  
+Que sans Trône à mes yeux également aimable …  
+
+    ARIARATE.
+Toûjours d'un pur amour je vous ay crû capable,  
+Vous en aviez besoin, et pour m'expliquer mieux,  
+Ariarate est prest de paroistre en ces lieux.  
+
+    PHRADATE.
+Ariarate !  
+
+    ARIARATE.
+        Et quoy ? son retour vous fait peine [177] ?  
+
+    PHRADATE.
+Non, mais je conçois mal le dessein de la Reyne,  
+Pourquoi feindre aujourd'huy le choix d'un autre Roy ?  
+
+    ARIARATE.
+Le secret de son Fils n'est connu que de moy,  
+Elle-mesme l'ignore, et pour ne vous rien taire  
+A vous qui m'honorez d'une amitié sincere,  
+Aquilius qu'exprès Rome envoye en ces lieux  
+Vient rétablir ce Prince au rang de ses Ayeux.  
+
+    PHRADATE.
+Aucun n'ignore icy que dés son plus bas âge  
+Du vivant du feu Roy Rome l'eut en ostage,  
+Mais à peine du jour le Roy fut-il privé  
+Que Rome se plaignit qu'il luy fut enlevé,  
+Et si nous en croyons ce qu'elle fit paroistre,  
+Ce crime eut des autheurs que l'on ne put conoistre.  
+
+    ARIARATE.
+Helas ! ils n'ont enfin esté que trop connus.  
+Dispensez-moy, Seigneur, de parler là-dessus,  
+Et pour finir plûtost un discours qui me gesne  
+Songez aux bruits fâcheux qu'on sema de la Reyne [178].   
+De cinq fils, tous enfans, restez en son pouvoir,  
+La mort soüilla son nom du crime le plus noir,  
+Le poison l'en défit, au moins contre sa gloire⁎  
+Chacun le publia [179] comme on le voulut croire ;  
+Mais si l'on eut icy des soupçons incertains  
+Le crime fut bien-tost évident aux Romains.  
+Comme la peur de rendre un jour le Diadême  
+En elle avoit armé le sang contre soy-mesme [180],  
+Le jeune Ariarate en ostage chez eux  
+Mettoit un dur obstacle au succez de ses vœux.  
+Pour l'enlever de Rome elle choisit Orcame  
+Qui surpris de sa rage, et plein d'horreur dans l'ame,  
+Feignant de la servir vient apprendre au Senat  
+L'ordre de ce funeste et dernier attentat [181].  
+Rome qu'occupoit lors une pressante [182] guerre  
+Suspend pour quelque temps l'éclat de son tonnerre,  
+Et croit qu'un seul témoin ne l'autorise pas  
+A détruire une Reyne, et prendre ses Estats,  
+Mais pour n'exposer plus le Prince à tant de rage,  
+Elle feint qu'on luy vient d'enlever son Ostage,  
+Tandis que l'élevant ailleurs sous un faux nom,  
+Du sort qui le conserve [183] elle oste le soupçon.  
+Orcame cependant vient retrouver la Reyne,  
+De ce Fils malheureux luy fait la mort certaine,  
+Et la sienne qui suit la laisse en liberté  
+De joüir de son crime avec impunité.  
+Pour regner toûjours seule en dépit de l'envie [184],  
+Du Prince Ariarate elle opposoit la vie,  
+Et feignant de douter de la mort de ce Fils,  
+De son doute affecté le Trône estoit le prix.  
+Mais enfin il est temps de rompre le silence,  
+L'Ambassadeur de Rome est plus prés qu'on ne pense,  
+Et dés aujourd'huy mesme on doit rendre éclaircy  
+Par un premier advis [185] ce qui l'amene icy.  
+
+    PHRADATE.
+Ah, souffrez que pour moy tout le secret éclate,  
+Ce que vous m'apprenez me montre Ariarate,  
+Puisque sous un faux nom il nous abuse tous,  
+A vos rares vertus je le dois croire en vous,  
+Sur ma fidelité prenez toute asseurance.  
+
+    ARIARATE.
+Ouy, Prince, il faut vous faire entiere confidence;  
+Fils d'une indigne Mere …  
+
+    PHRADATE.
+    Ah, Seigneur !  
+
+    ARIARATE.
+        Ces respects [186],  
+Si l'on nous observoit, pourroient estre suspects,  
+Il est bon qu'aujourd'huy ce zele [187] se surmonte,  
+Attendant le Romain traitez-moy comme Oronte,  
+Luy seul de mon secret a droit de disposer.  
+
+    PHRADATE.
+Mais Quoy ? depuis deux ans Seigneur, vous déguiser ?  
+
+    ARIARATE.
+Rome a donné ce temps à ma juste priere  
+Pour me laisser fléchir la hayne de ma mere,  
+Et voir si je pourrois luy faire concevoir  
+Qu'en vain d'un Fils au Trône elle a craint le pouvoir.  
+Que bien loin qu'à ce rang l'ambition m'appelle,  
+Mesme en donnant des loix, je veux en prendre d'elle,  
+J'ay reüssi, ce semble, elle m'aime, ou du moins  
+Pour l'appuy de son Sceptre elle estime mes soins⁎.  
+J'ay d'ailleurs⁎ la douceur⁎ d'avoir pû sans Couronne  
+Attacher Axiane à ma seule personne,  
+En voir mes vœux⁎ receus sans qu'un feu si discret  
+Pour les faire agréer ait trahy mon secret.  
+J'aime à le taire exprés jusqu'à ce qu'elle apprenne  
+Qu'Ariarate vit, et vient la faire Reyne,  
+Et que j'aye éprouvé [188] si dans ce doux appas [189]  
+Oronte abandonné ne la touchera pas. [190]  
+Ce sera lors…  
+
+    PHRADATE.
+        Seigneur, j'apperçois Anaxandre.  
+
+    ARIARATE.
+Laissez-moi penetrer ce qu'il ose prétendre,  
+Ses projets n'ont plus lieu d'alarmer vôtre amour.  
+
+
+### Scène IV.
+ARIARATE, ANAXANDRE.
+
+
+    ANAXANDRE.
+Phradate prend grand soin de [191] vous faire sa Cour [192],  
+Et je ne doute point qu'il n'ait quelque avantage  
+Sur quiconque voudra briguer vôtre suffrage.  
+La secrete amitié qu'on remarque entre vous…  
+
+    ARIARATE.
+Seigneur, cette amitié…  
+
+    ANAXANDRE.
+        Je n'en suis point jaloux,  
+Parlez-moy seulement avec pleine franchise.  
+Vous sçavez mon espoir, la place est-elle prise ?  
+Proposez-vous Phradate, en faites-vous un Roy ?  
+
+    ARIARATE.
+Je ne sçay si ce choix peut dépendre de moy,  
+Mais si l'espoir du Trône est un bien qui vous flate,  
+Soyez seur que jamais vous n'y verrez Phradate.  
+
+    ANAXANDRE.
+Si vous me dites vray, je puis tout esperer.  
+Chacun en ma faveur aime à se declarer,  
+Et quoy qu'à mes Rivaux nous voyions entreprendre,  
+Si vous n'estes pour eux, ils n'ont rien à prétendre,  
+Mais comme c'est par vous que je veux estre Roy,  
+Le Trône, si j'y monte, est plus à vous qu'à moy,  
+Prenez-en ma parole, et pour plus d'asseurance [193]  
+J'y joins déja les noeuds d'une estroite alliance,  
+De l'Hymen de ma sœur...  
+
+    ARIARATE.
+        Ah, Seigneur, voyez-vous  
+Ce que le Ciel a mis de distance entre nous ?  
+
+    ANAXANDRE.
+Si d'un sang plus obscur le Ciel vous a fait naistre,  
+Ce n'est pas un defaut pour qui sçait vous connoistre,  
+L'éclat de cét Hymen n'est que le moindre prix…  
+
+    ARIARATE.
+D'un tel excez d'honneur je me trouve surpris,  
+Comme vous en secret l'ambition me flate [194],  
+Mais qu'opposerez-vous au Prince Ariarate ?  
+Il est vivant, dit-on, et vient de ses Ayeux…  
+
+    ANAXANDRE.
+Montons au Trône, Oronte, et laissons faire aux Dieux.  
+
+    ARIARATE.
+Quoy ? vous refuseriez de rendre la Couronne ?  
+
+    ANAXANDRE.
+Nous en sçaurons les droits si l'hymen me la donne,  
+Et lors comme de tout le temps sçait decider,  
+Nous verrons s'il faudra la rendre, ou la garder.  
+
+    ARIARATE.
+Du sang d'Ariarate on cherit la memoire,  
+Et pour luy contre vous je crains qu'on ne fist gloire…  
+
+    ANAXANDRE.
+Eust-il icy l'appuy d'un million de bras,  
+Avec le Sceptre en main je ne le craindrois pas.  
+
+    ARIARATE.
+Mais s'il vous opposoit les plus Augustes marques  
+Que mit jamais le Ciel sur le front des Monarques,  
+Pourriez-vous sans remords sur son Trône usurpé…  
+
+    ANAXANDRE.
+Du foudre [195] sans remords je m'y verrois frapé.  
+Fust-il tout prest à cheoir, il est beau [196] de l'attendre ;  
+Mais c'est perdre du temps et l'on peut nous entendre,  
+Allez trouver la Reyne, et recevez ma foy [197]  
+Que le Trône est à vous si son choix est pour moy.  
+Fin du premier acte.
+
+
+## ACTE II.
+
+
+### Scène première.
+LAODICE, CLEONE.
+
+
+    CLEONE.
+Madame, on est surpris que dés aujourd'huy mesme  
+Vous vueilliez partager la puissance supréme,  
+Et pour Arsinoé faire choix d'un Espoux  
+Avant que Rome ait pu conferer avec vous.  
+Aquilius ne vient que pour cét Hymenée.  
+
+    LAODICE.
+Et Cleone elle-mesme en peut estre estonnée,  
+Elle à qui ma conduite a deu trop enseigner  
+Qu'il n'est pour moy qu'un choix, ou perir, ou regner ?  
+En vain j'ay fait long-temps revivre Ariarate,  
+D'un peuple audacieux l'impatience éclate,  
+Et l'hymen de ma Fille offrant un doux espoir,  
+Nos Princes ont de Rome employé le pouvoir,  
+C'est par elle à choisir qu'ils ont crû me contraindre [198];  
+Mais je n'attendray pas ce que j'aurois à craindre, [199]  
+Si par Aquilius l'un d'eux devenu Roy  
+Se pouvoit voir en droit de regner malgré moy.  
+Si je fais part [200] du Trône, au moins je seray seure  
+En y placeant un Roy d'y voir ma Creature [201],  
+Et de rester toûjours pour qui veut m'asservir  
+Maistresse du pouvoir qu'on cherche à me ravir.  
+
+    CLEONE.
+Ce Roy nommé par vous doit n'aimer qu'à vous plaire [202],  
+Mais pour gagner la Fille, il oubliera la Mere,  
+Et quand Arsinoé l'aura pris pour Espoux,  
+Je doute qui pourra le plus d'elle ou de vous,  
+Il n'est rien qu'à l'amour le temps ne sacrifie.  
+
+    LAODICE.
+Et pouvant le prévoir tu crois que je m'y fie,  
+Et soufre qu'aujourd'huy par le don de sa main  
+Ma fille ait la douceur⁎ de faire un Souverain ?  
+
+    CLEONE.
+Pour qui donc cét Espoux qui doit monter au Trône ?  
+Vous promettez ce choix.  
+
+    LAODICE.
+        Pour qui ? pour moy, Cleone.  
+
+    CLEONE.
+Pour vous, Madame ! Et Rome y voudra consentir ?  
+
+    LAODICE.
+Quoy donc, à son orgueil il faut m'assujetir,  
+Et quand [203] des droits du Trône on me doit voir instruite  
+Cette Reyne des Rois [204] reglera ma conduite ?  
+Qu'elle en murmure ou non, je sçauray faire un Roy  
+Qui dédaignant ses loix n'en prenne que de moy,  
+Et content de l'éclat dont un si grand nom brille  
+Me sauve de l'affront d'obeïr à ma Fille.  
+Le pretexte est plausible, on croit mon Fils vivant,  
+Et sur [205] l'heureuse erreur de ce bruit decevant [206]  
+Je feindray [207] que ma main ne [208] donne au Peuple un maistre  
+Qu'attendant qu'en ces lieux ce Fils daigne paroistre,  
+Et vienne enfin de moy reprendre les Estats  
+Que l'Espoux de sa Sœur ne luy remettroit pas [209].  
+
+    CLEONE.
+Quoy qu'attende Phradate, ou qu'Anaxandre espere,  
+Je ne demande plus quel choix vous allez faire.  
+Tant d'honneurs sur Oronte à pleines mains versez  
+Sans vous l'oüir nommer me l'apprennent assez,  
+Son zéle⁎ exact [210] et pur, sa valeur, sa prudence…  
+
+    LAODICE.
+Dy qu'il est Estranger, sans appuy de naissance,  
+Et que par Politique il me faut faire un Roy  
+Dont le sort au besoin dépende tout [211] de moy,  
+Que je puisse à mon choix conserver ou détruire,  
+Perdre [212] au moindre projet qu'il feroit pour me nuire,  
+Qui soit soumis, qui craigne, et reste sans secours  
+Si jamais il me plaist ordonner de [213] ses jours :  
+Mais aprés cét orgueil [214], aprés ce que t'explique [215]  
+De [216] mon ambition la fiere⁎ [217] Politique [218],  
+T'oseray-je, à ma honte, advoüer [219] que l'Amour  
+Dispose [220] presque seul du choix de ce grand jour ?  
+
+    CLEONE.
+Vous, de l'amour, Madame ?  
+
+    LAODICE.
+        Estonne-t'en, Cléone,  
+Toy qui sçais que jamais je n'aimay que le Trône,  
+Et qu'une insatiable et vaste ambition  
+Me faisoit dédaigner toute autre passion.  
+Pour en remplir l'ardeur, je traitay de foiblesse  
+Ce que peut la Nature⁎ inspirer de tendresse,  
+Et quoy qu'elle en gemist, dans la mort de cinq Fils  
+Le charme [221] de regner fut tout ce que je vis.  
+Le sixiéme qu'à Rome on gardoit en ostage  
+A mes jaloux desirs faisoit encor ombrage.  
+De peur qu'un jour du Trône il osast me priver,  
+Sans pitié, sans remords, je le fis enlever,  
+Et voulus que sa mort parust estre incertaine  
+Pour suspendre les droits qui font ma Fille Reyne,  
+Et contre son Hymen me laisser tout permis  
+Sous couleur de garder la Couronne à ce Fils.  
+Dans les brûlants transports dont l'inquiete [222] flame  
+Vers le Trône toûjours pousse toute mon ame,  
+J'ay peine à concevoir par quel abaissement  
+Dans un Roy que je fais j'aime à voir un Amant,  
+J'y trouve de la honte, et ma fierté s'en fâche,  
+Je me traite en secret et de foible et de lâche,  
+Et cependant mon cœur ne se peut arracher  
+Aux flateuses douceurs [223] qui l'ont trop sceu toucher [224],  
+Je voy sans cesse Oronte actif, ardent, fidelle,  
+Par cent soins⁎ [225] empressez me signaler son zéle⁎,  
+Au seul bien de me plaire attacher tous ses vœux,  
+Se soûmettre en aveugle à tout ce que je veux,  
+Je m'en sens attendrie, et par sa déference  
+De mon coeur avec luy telle est l'intelligence [226],  
+Que je me défierois de moy-mesme aujourd'huy  
+S'il me falloit choisir entre le Trône et luy.  
+Ce sentiment est lâche, indigne, bas, infame,  
+Je m'en hay, mais j'ay beau le bannir de mon ame,  
+Il semble que des Dieux la dure volonté  
+M'en ait fait pour ma honte une necessité,  
+Que l'amour qui m'embrase indigne d'une Reyne  
+Soit de mon trop d'orgueil l'inévitable peine,  
+Et qu'exprés leur couroux ait voulu m'enflamer  
+A l'âge où quoy qu'on puisse on doit rougir d'aimer.  
+Des pretextes d'Estat en couvriront la honte,  
+Je sçauray la cacher aux yeux mesme d'Oronte,  
+Mais il faut qu'avec toy je soulage mon cœur  
+Du poids trop accablant d'une si vive ardeur;  
+Que toute ma fierté t'ayant esté connuë  
+Tu m'aides à chercher ce qu'elle est devenuë,  
+Et me plaignes du moins…  
+
+    CLEONE.
+    Madame.  
+
+    LAODICE.
+        Escoute-moy,  
+Et voy si je répons à ce que je me doy.  
+
+
+### Scène II.
+LAODICE, ARIARATE, CLEONE.
+
+
+    LAODICE.
+Il faut faire un grand choix, Oronte, et mon adresse  
+A rompre pour ma Fille un hymen que l'on presse,  
+Ne sçait plus qu'opposer aux superbes [227] projets  
+Que forment contre moy des Princes mes Sujets.  
+L'espoir de la Couronne à la naissance acquise  
+D'un succez éclatant flate leur entreprise [228],  
+Et tous pouvant prétendre à l'honneur de mon choix,  
+Tous de Rome en secret ont fait briguer la voix,  
+Aquilius entr'eux vient resoudre [229] d'un Maistre,  
+Et l'on voit quelle honte [230] au rang où j'ai sceu naistre  
+Si pour moy dans ce choix qu'exprés je veux haster  
+Les ordres du Senat estoient à respecter.  
+Mais quoy qu'il ne soit pas indigne d'une Reyne  
+De refuser le joug de la grandeur Romaine,  
+Les Dieux me sont témoins qu'un interest [231] plus cher  
+Fait naistre icy l'orgueil qu'on me peut reprocher,  
+Et que dans cét orgueil à mon rang necessaire  
+Tout ce que je regarde [232] est un devoir de mere  
+Qui toujoûrs pour mon Fils m'engage à conserver  
+Un sceptre dont je vois qu'on cherche à le priver.  
+C'est ce que je veux faire avec cette tendresse [233]  
+Que demande le sang, que la Nature presse,  
+Et comme de son Trône on voit en vous l'appuy  
+C'est de vous jusqu'au bout que j'attens [234] tout pour luy.  
+Il est vivant sans doute, et le Ciel qui m'inspire  
+Me promet la douceur⁎ de luy rendre l'Empire,  
+Si toûjours d'un vray zéle⁎ Oronte prévenu [235]  
+Veut demeurer pour moy ce que [236] je l'ay connu.  
+
+    ARIARATE.
+Madame, pardonnez si mon chagrin s'exprime  
+Quand je vous voy douter du zéle⁎ qui m'anime.  
+Mes plus doux vœux sans doute auront esté remplis [237]  
+Si je puis voir régner le Prince vostre Fils.  
+Mais pour vos interests tel est ce zéle extréme  
+Que malgré le respect qu'on doit au Diadême,  
+Si ce Fils sur le Trône oubliant son devoir  
+Abusoit contre vous du souverain pouvoir,  
+S'il ne vous laissoit pas tous les droits que vous donne  
+Le privilege heureux de porter la Couronne,  
+Il me verroit moy-mesme armé pour le chasser  
+De ce Trône où vous seule auriez sceu le placer.  
+Jugez aprés cela si je veux toûjours estre  
+Ce que jusques icy vous m'avez sceu connoistre [238],  
+Et si j'ay merité que peu seure de moy  
+A de nouveaux serments vous obligiez [239] ma foy⁎.  
+
+    LAODICE.
+Je n'attendois pas moins de ce noble courage  
+Qu'à soustenir l'Estat mon interest engage,  
+Aussi quand il me faut sur des droits incertains  
+Mettre en dépost le Trône en de fidelles mains,  
+Voyant combien d'orgueil nos Princes font paroistre,  
+Je crains tout si par moy l'un d'eux en devient maistre,  
+Et dans l'ambition qui les aveuglent tous  
+Je n'ose pour ce choix m'asseurer que sur vous [240],  
+Ce n'est pas que ma Fille à mes ordres défere  
+Jusqu'à vouloir en sœur ce que je cherche en mere,  
+De l'éclat de son sang la jalouse fierté,  
+Contre moy, contre vous, tient son cœur revolté,  
+Vôtre hymen luy fait honte, et dés que je la presse [241]…  
+
+    ARIARATE.
+Vouloir jusques à moy qu'Arsinoé s'abaisse !  
+Non, non, quelques dédains qu'elle fasse éclater  
+Mon sort trop inégal me les fait meriter,  
+Elle se rend justice, et si la faisant Reyne  
+Par l'interest [242] d'un Fils sa grandeur vous fait peine [243],  
+Il est d'autres moyens de ne point hazarder  
+Le Trône qu'à ce Fils il vous plaist de garder.  
+
+    LAODICE.
+Il en est, et j'en sçay sans que je la contraigne,  
+Qui sçauront empescher qu'un jour je ne la craigne,  
+Et vous affranchiront de la necessité  
+D'estre jamais en bute à son trop de fierté.  
+Vous sçavez quel éclat [244] les Princes ont fait naistre,  
+Le Peuple agit par eux, il me demande un Maistre,  
+Et le Peuple obtiendra ce qu'il attend de moy,  
+Si ma main vous acquiert la qualité de Roy.  
+Ce dessein vous surprend, et quinze ans de veufvage,  
+M'éloignant des soupçons d'un second mariage,  
+Il paroistra nouveau qu'au rang où je me vois [245]  
+D'un Epoux tout à coup une Reyne ait fait choix,  
+Mais fust-ce en démentir l'orgueilleux caractere  
+Ma principale gloire [246] est d'estre bonne mere,  
+Et j'en croiray l'éclat au plus haut point monté  
+Si je mets pour mon Fils le Trône en seureté.  
+Comme de toutes parts l'ambition menace,  
+C'est l'assurer pour luy que vous y donner place,  
+Et luy choisir en vous sous ce grand nom de Roy  
+Un Tuteur qui pour luy va s'unir avec moy,  
+Qui plein du mesme esprit qui me pousse et m'inspire  
+Aura le mesme zele [247] à gouverner l'Empire,  
+Et sera comme moy toûjours prest à ceder  
+Ce que sans doute un autre essayeroit de garder.  
+
+    ARIARATE.
+Ah, pour tant de bontez c'est trop peu qu'une vie  
+Qu'aujourd'huy de nouveau ma foy⁎ vous sacrifie,  
+Et tout mon sang pour vous répandu mille fois  
+Ne pourroit m'acquitter de ce que je vous dois.  
+Aprés m'avoir déja par un effort d'estime  
+Eslevé dans un rang glorieux et sublime,  
+Quoy qu'oppose le Peuple ou pense le Senat,  
+Du Trône à mon destin vouloir joindre l'éclat,  
+Et par tout ce qu'aux Roys il donne d'avantage,  
+Dans vôtre Creature achevez vôtre ouvrage.  
+Madame, s'il se peut, penetrez dans mon cœur  
+Ce qu'un zele⁎ soûmis y renferme d'ardeur.  
+Voyez-y ce qu'il faut enfin que vous explique [248]…  
+
+    LAODICE.
+Le mien prend quelque part à cette Politique,  
+Et j'aime les raisons qui semblent me forcer  
+A l'Hymen où pour vous je me veux abaisser.  
+Le Peuple qui par vous depuis long-temps respire  
+Vous verra sans regret possesseur de l'Empire,  
+Et si Rome s'en plaint, il luy sera permis  
+D'attaquer un Heros protecteur de mon Fils.  
+
+    ARIARATE.
+Ah, puisque de ce Fils l'interest seul vous presse [249]  
+De ne pas confier le Trône à la Princesse,  
+Il ne faut plus cacher…  
+
+    LAODICE.
+        Ouy, ce seroit en vain  
+Que je voudrois encor déguiser mon dessein,  
+Comme il est resolu je consents qu'il éclate.  
+
+
+### Scéne III.
+LAODICE, ARIARATE, ANAXANDRE, CLEONE.
+
+
+    LAODICE *à Anaxandre.*.
+Prince, j'entens toûjours parler d'Ariarate,  
+On dit qu'il va paroistre, et ce bruit est trop fort [250]  
+Pour me croire permis de régler vostre sort [251].  
+Entre de grands Rivaux qu'un doux espoir engage  
+A soûmettre à ma Fille un noble et pur hommage,  
+Ce Fils que les Destins vous reservent pour Roy  
+Le Diadême au front choisira mieux que moy.  
+Le Peuple cependant chaque jour fait connoistre [252]  
+Qu'attendant qu'il se montre il veut un second maistre  
+Qui commande, execute, et puisse avec éclat  
+M'ayder à soûtenir le grand poids de l'Estat.  
+Aux dépens de ma main il faut le satisfaire,  
+Et je croy que mon choix aura droit [253] de luy plaire  
+Quand il sçaura qu'Oronte élevé jusqu'à moy…  
+
+    ANAXANDRE.
+Quoy, c'est par vostre hymen que nous aurons un Roy,  
+Madame, et sur un bruit qu'exprés on a fait naistre,  
+Il nous faut recevoir un Inconnu pour maistre ?  
+
+    LAODICE.
+Prince, n'abusez point d'un excez de bonté  
+Qui m'oblige à soufrir [254] vostre témerité [255],  
+Je sçay ce que je dois à [256] l'Estat, à ma gloire [257].  
+
+    ANAXANDRE.
+Oronte ! Et le Senat voudra-t'il vous en croire [258],  
+Luy qui pour vos Sujets dont il soûtient les vœux,  
+Demande un digne Maistre, et non pas un heureux [259] ?  
+Soufrira-t'il qu'un Trône où depuis tant d'années  
+La naissance est l'appuy [260] des testes couronnées,  
+Où la splendeur du sang…  
+
+    LAODICE.
+        C'est trop, n'achevez pas,  
+Oronte est inconnu, son sang peut estre bas,  
+Je le sçay comme vous, mais quoy qu'il en puisse estre,  
+Malgré vous, malgré Rome il sera vostre Maistre,  
+Et si quelque insolent murmure de [261] mon choix,  
+Je suis Reyne, et le Sceptre est la foudre des Rois.  
+
+
+### Scène IV.
+ARIARATE, ANAXANDRE.
+
+
+    ANAXANDRE.
+Dans l'espoir dont je voy que la Reyne vous flate [262]  
+Vous pouviez estre seur du destin de Phradate,  
+Et m'oster tout sujet de rien craindre de luy  
+Quand j'ay crû pour régner qu'il auroit vostre appuy.  
+
+    ARIARATE.
+L'honneur qu'elle me fait passe [263] le sort d'Oronte,  
+Il va jusqu'à l'excez, mais j'en rendray bon compte,  
+Ses desseins par ce choix ne seront point trahis.  
+
+    ANAXANDRE.
+Ainsy vous garderez la Couronne à son Fils ?  
+
+    ARIARATE.
+J'y feray mes efforts, et peut-estre en ma place  
+Quelque autre la rendroit de plus mauvaise grace,  
+Mais enfin comme en tout j'aime à garder ma foy [264],  
+Qu'on montre Ariarate, Oronte n'est plus Roy.  
+
+    ANAXANDRE.
+Vous pensez déja l'estre, et devorant dans l'ame  
+Les restes prétieux du régne d'une femme,  
+Vous consentez sans peine au genereux effort  
+De rétablir ce Fils dont vous sçavez la mort.  
+
+    ARIARATE.
+Si le ciel pour regner de quelques droits me flate [265],  
+Je n'entreprendray [266] point sur ceux d'Ariarate,  
+Le temps éclaircira [267] s'il est vivant ou non.  
+
+    ANAXANDRE.
+C'est ainsy qu'un Heros doit se faire un grand nom,  
+Aussy bien de quelque œil que le Senat vous voye  
+Vostre Hymen préviendra⁎ les ordres qu'il envoye,  
+Et je le croy trop juste, après de si beaux nœuds,  
+Pour ne pas consentir à vous laisser heureux,  
+Sans trouble de sa part votre gloire est certaine.  
+Mais enfin vous serez le mary de la Reyne  
+Tandis qu'à l'un de nous daignant donner sa foy [268]  
+Sa Fille Arsinoé sçaura choisir un Roy.  
+
+    ARIARATE.
+Je sçay combien pour vous son Hymen a de charmes⁎,  
+Il vous promet beaucoup, mais j'en prens peu d'alarmes [269],  
+Et vous plains si du Trône y croyant voir les droits,  
+Vous n'avez rien pour vous de plus fort que son choix [270].  
+
+    ANAXANDRE.
+Quoy, déjà Souverain jusqu'à disposer d'elle ?  
+
+
+### Scène V.
+ARIARATE, ANAXANDRE, THEODOT.
+
+
+    THEODOT.
+Ah, Seigneur, sçavez-vous une grande nouvelle ?  
+
+    ANAXANDRE.
+Dy viste.  
+
+    THEODOT.
+        Aquilius est tout prest d'arriver.  
+A trois milles d'icy chacun le va trouver,  
+Et le Peuple montrant sa joye et sa surprise…  
+
+    ANAXANDRE.
+Vous croyez-vous encor Arsinoé soumise,  
+Seigneur, et le Senat sera-t'il sans pouvoir ?  
+
+    ARIARATE.
+Aquilius arrive, il faut le recevoir.  
+
+    THEODOT.
+Ce n'est pas pour luy seul que tant de joye éclate,  
+Il vient accompagné du Prince Ariarate,  
+Il l'amene avec luy.  
+
+    ANAXANDRE.
+        Quoy ? ce Prince est vivant ?  
+
+    THEODOT.
+On ne prend plus ce bruit pour un bruit decevant [271],  
+On l'approche, on luy parle, et luy-mesme il ordonne…  
+
+    ARIARATE.
+C'est par luy seul [272] enfin qu'Arsinoé se donne,  
+Obtenez-la, Seigneur.  
+
+    ANAXANDRE.
+        Et c'est aussy par luy  
+Qu'on voit un temeraire estre enfin sans appuy.  
+Allez remplir [273] ce Trône où vous attend la Reyne.  
+
+    ARIARATE.
+Je ne sçay qui de nous s'en met le plus en peine [274].  
+
+    ANAXANDRE.
+Avant que vous connoistre [275] un amy lâche et feint  
+De quelque ambition j'avois le cœur atteint,  
+Du Prince avec chagrin j'eusse receu [276] l'obstacle,  
+Mais vostre orgueil puny m'est un si doux spectacle,  
+Il m'asseure un plaisir si charmant à gouster  
+Que qui peut en joüir n'a rien à regreter.  
+Flatez-vous [277] des douceurs que promet la Couronne,  
+Vostre sort sera beau, quoy que le Ciel ordonne,  
+Et du moins un moment, Phradate que je voy  
+Peut adorer en vous le Fantosme d'un Roy.  
+
+
+### Scène VI.
+ARIARATE, PHRADATE.
+
+
+    PHRADATE.
+Seigneur, d'où naist ce bruit qui tout à coup éclate,  
+Aquilius, dit-on, amene Ariarate,  
+Il se montre, on le voit.  
+
+    ARIARATE.
+        N'en soyez point surpris,  
+Par un advis secret j'aye déja tout appris.  
+Un Imposteur qu'anime [278] une coupable audace  
+De ma premiere enfance ayant sceu la disgrace⁎,  
+Et n'oyant [279] plus parler de mon enlevement  
+A pris enfin mon nom, et l'a pris hautement [280].  
+Comme Fils du feu Roy que de longues miseres [281]  
+Firent vivre incertain du vray rang de ses peres,  
+Pour trouver les moyens d'en terminer le cours,  
+Il est venu de Rome implorer le secours.  
+Rome qui de mon sort eut toûjours connoissance  
+A feint de s'abuser sur sa fausse naissance,  
+Et ne l'envoye icy qu'afin de l'y punir  
+Du mensonge insolent [282] qu'il ose soûtenir.  
+J'en tire au moins ce fruit, que s'il est quelque traistre,  
+Aux perils de ce Fourbe [283] il se fera connoistre,  
+Quoy qu'après les bontez que ma Mere a pour moy  
+Mes secrets Ennemis me causent peu d'effroy.  
+
+    PHRADATE.
+Vous la croyez vaincuë ?  
+
+    ARIARATE.
+        Ouy, la Nature⁎ [284] est forte,  
+Et telle est pour son Fils la chaleur qui l'emporte  
+Que de peur que du Sceptre on n'osast abuser  
+Elle se contraignoit à vouloir m'épouser [285].  
+Jugez me connoissant ce que j'en dois attendre.  
+Cependant ayez soin d'observer [286] Anaxandre,  
+Et j'iray découvrir quand il s'agit d'un Roy,  
+Quels secrets sentimens Axiane a pour moy  
+Fin du second Acte.
+
+
+## ACTE III.
+
+
+### Scène première.
+AXIANE, ARIARATE.
+
+
+    AXIANE.
+Je veux bien l'avouër, que malgré vôtre flame  
+Je m'étois attenduë à cette grandeur d'ame,  
+Et n'avois point douté qu'un si dur changement  
+Ne laissast triompher le Heros de l'Amant;  
+Mais je l'avouë aussi, ce que le Ciel m'envoye  
+N'obligeoit pas Oronte à montrer tant de joye,  
+Et perdant ce qu'il aime, un cœur bien amoureux  
+Eust pû se dispenser d'estre si genereux [287].  
+
+    ARIARATE.
+Dans les bras d'un Rival voir passer ce qu'on aime  
+Est sans doute un malheur plus grand que la mort mesme,  
+Je le sçay, mais malgré ce desespoir jaloux  
+En vous osant aimer je ne puis voir que vous.  
+Ainsi quand ma princesse acquiert le nom de Reyne  
+Je n'examine point si ma perte est certaine,  
+Ce haut rang où l'éleve un destin éclatant  
+M'ofre tout ce qu'il faut pour me rendre content,  
+Cét objet seul me frape [288], et dans la chere idée  
+Dont par vôtre heureux sort j'ay l'ame possedée,  
+Un aimable transport me fait imaginer  
+Que c'est moy, c'est ma main qui va vous couronner,  
+Que si vôtre malheur par le Trône s'efface,  
+Malgré mes Envieux c'est moy qui vous y place.  
+Condamnez-vous ma joye, et dans ce doux appas [289]…  
+
+    AXIANE.
+Ouy, cruel, puis qu'enfin tu ne m'y places pas,  
+Je ne t'en ay déja que trop dit pour ma gloire [290],  
+Acheve de joüir de toute ta victoire,  
+Et vois une Princesse aux dépens de sa foy [291]  
+Murmurer [292] d'un bonheur qui ne vient pas de toy.  
+Lors qu'à te couronner la Reyne a paru preste,  
+Qu'il falloit me resoudre [293] à te voir sa conqueste,  
+J'ay voulu, j'ay tâché de vaincre mes desirs,  
+Mais ce n'a pas esté sans pousser des soûpirs.  
+Contre tes interests mon cœur pressoit [294] ma flame,  
+Je souhaitois ta gloire, et j'en tremblois dans l'ame.  
+Qui te rend dans mon sort le cœur moins abatu ?  
+Est-ce defaut d'amour ? est-ce excez de vertu ?  
+L'un et l'autre de toy m'est un pareil outrage,  
+Et si d'un pur amour tu m'a offert l'hommage  
+Devrois-tu me reduire à soûpirer tout bas  
+De voir qu'en me perdant tu ne soûpires pas ?  
+
+    ARIARATE.
+Ah, si ce pur amour qu'en moy vous fistes naistre  
+N'a pû jusques icy se faire assez connoistre,  
+Par où pourrois-je mieux vous en prouver l'ardeur  
+Que par la pleine joye où nage tout mon cœur ?  
+Vous regnez, et mon sort s'attachant tout au vôtre,  
+Ce triomphe pour moy l'emporte sur tout autre.  
+Pour en joüir sans trouble et dans sa pureté,  
+Tournez ainsi que moy les yeux de ce costé,  
+Ne voyez que la gloire où le Ciel vous appelle,  
+Ne voyez que ce Trône…  
+
+    AXIANE.
+        Et le puis-je, infidelle,  
+(Car qui du Trône seul veut qu'un cœur soit charmé⁎,  
+Ou trahit ce qu'il aime, ou n'a jamais aimé ?)  
+Ah, que je m'abusois quand j'ay crû que la Reyne  
+Par l'ofre de sa main te causoit quelque peine !  
+Tu regnois, et l'éclat d'un sort si glorieux  
+Pour [295] les tourner vers moy ne te laissoit plus d'yeux.  
+Tu te livrois entier aux charmes [296] d'un Empire  
+Dont ton amour vaincu…  
+
+    ARIARATE.
+        Que vous entens-je dire ?  
+Moy, j'eusse consenty sous [297] l'espoir de regner  
+A perdre…  
+
+    AXIANE.
+        Et quel motif te l'eust fait dédaigner ?  
+
+    ARIARATE.
+L'amour, ce pur amour dont tout l'excez éclate  
+Lors qu'Oronte vous cede aux vœux⁎ d'Ariarate.  
+Peut-il vous arracher à l'Hymen d'un grand Roy ?  
+
+    AXIANE.
+Non, ce n'est point par là [298] que je me plains de toy.  
+Je te l'ay déja dit, il est beau que ton ame  
+Immole à ma grandeur tout l'espoir de ta flame,  
+Mais seroit-ce une honte indigne d'un grand cœur  
+D'en laisser échaper du moins quelque douleur ?  
+Ne sçaurois-tu souffrir⁎, ingrat, qu'une Princesse  
+Pour prix de son amour te couste une foiblesse,  
+Ou crois-tu qu'à rougir il falust t'apprester  
+Si quand tu perds mon cœur tu l'osois regretter [299] ?  
+Ah, contre ton amour, contre son arrogance  
+Que n'ay-je fait agir l'orgueil de ma naissance,  
+Et pourquoy me laissois-je arracher un adveu  
+Qui m'a fait tant de peine, et te touche si peu !  
+
+    ARIARATE.
+Il fait tout mon bonheur, il fait toute ma joye,  
+Mais quand du Ciel sur vous la faveur se déploye,  
+Seroit-ce vous aimer que mesler mes regrets  
+Aux pompes d'un destin qui remplit vos souhaits ?  
+
+    AXIANE.
+Qui remplit mes souhaits ?  
+
+    ARIARATE.
+        C'est dequoy je me flate [300],  
+Avant que d'en douter voyez Ariarate,  
+Et si le connoissant vous avez quelque ennuy,  
+Que [301] Rome vous engage à regner avec luy,  
+Si luy donnant la main ma Princesse est capable  
+De regreter ailleurs quelque chose d'aimable,  
+L'excez de ma douleur alors luy fera voir  
+Jusqu'où peut ce dégoust [302] porter mon desespoir.  
+Alors ce desespoir luy montrera sans cesse  
+Si je crains que son cœur me couste une foiblesse,  
+Et si de son bonheur j'ay pû me réjoüir,  
+Qu'asseuré qu'elle-mesme aimeroit d'en joüir.  
+
+    AXIANE.
+Va, tu seras content, et puisque c'est te plaire,  
+Sans regret, sans murmure [303], il faut te satisfaire,  
+Je m'abandonne au Trône, et ne vois plus en toy  
+Que ce qui te pouvoit rendre indigne de moy.  
+Croy déja que regnant avec Ariarate  
+Il n'est plus rien ailleurs qui m'attire ou me flate [304],  
+Et que sa main m'asseure un bonheur si parfait  
+Que j'aurois fait ce choix si Rome ne l'eust fait.  
+Aussy bien quand j'aurois à soûpirer sans cesse,  
+Il suffit qu'une fois j'ay fait une bassesse,  
+Je t'empescherois bien d'esperer la douceur⁎ [305]  
+De t'applaudir jamais des peines de mon cœur,  
+Tu me verrois égale, et tranquile et constante  
+Montrer dans mes ennuis l'ame la plus contente,  
+En dementir l'atteinte, et ne rien témoigner  
+Qui parust m'affoiblir la douceur de regner.  
+
+    ARIARATE.
+S'il m'est permis de croire à ce que j'en présume  
+Cette douceur toûjours sera sans amertume,  
+Et pour ne taire plus ce qui doit éclater  
+Sçachez…  
+
+    AXIANE.
+        La Reyne vient, et c'est trop t'écouter.  
+
+
+### Scène II.
+LAODICE, AXIANE, ARIARATE, CLEONE.
+
+
+    LAODICE.
+Princesse, enfin le Ciel par d'éclatantes [306] marques  
+Nous fait voir que toûjours il prend soin [307] des Monarques ;  
+Ce Fils si souhaité, ce Fils dont mon amour  
+Par un secret instinct asseuroit le retour,  
+Il paroist, et comblant tous nos peuples de joye,  
+Sa main vous ouvre au Trône une brillante voye.  
+Pour vous le conserver que n'ay-je pris de soins ?  
+Vos yeux depuis long-temps m'en sont d'heureux témoins,  
+A l'hymen de ma Fille ils m'ont veu mettre obstacle  
+Pour attendre toûjours le temps de ce miracle,  
+Et quand aux vœux du peuple il me falloit ceder  
+Les Dieux à mon espoir ont daigné l'accorder.  
+
+    AXIANE.
+Si ce miracle est grand, il étoit dû sans doute  
+Aux soins que jusqu'icy ce doux espoir vous couste [308],  
+Madame, et je dois trop à vos rares bontez  
+Pour ne partager pas tout ce que vous sentez.  
+Dans le retour d'un Fils que le Ciel vous renvoye  
+Par vos seuls interests j'aurois eu pleine joye,  
+Et pour remplir mon cœur des transports les plus doux  
+Vous me soufrez [309] en luy d'esperer un Espoux.  
+Tant de gloire est un bien dont le Ciel m'autorise  
+A me montrer charmée aussi bien que surprise,  
+Heureuse si pour dot ma main rendoit soûmis  
+Le reste de la terre à cét illustre Fils.  
+
+    LAODICE.
+Vos vœux ont pû le rendre à ma juste tendresse,  
+Ils se sont joints aux miens, et c'est assez, Princesse ;  
+D'un retour qui fait seul le bonheur de ces lieux,  
+Ne songeons aujourd'huy qu'à rendre grace aux Dieux.  
+On vous attend au Temple, où par des sacrifices  
+Vous vous acquiterez vers ces Dieux si propices,  
+Tandis que j'auray soin que [310] pour marquer sa foy [311]  
+Chacun sorte avec pompe au devant de son Roy.  
+
+    AXIANE.
+Madame, j'obeïs, et mon obeïssance  
+Parlera [312] mieux que moy de tout ce que je pense,  
+Je vous la jure entiere, et vous l'éprouverez.  
+
+    LAODICE.
+Qu'on me laisse icy seule; Oronte, demeurez.  
+
+
+### Scène III.
+LAODICE, ARIARATE.
+
+
+    ARIARATE.
+Madame, j'attendois à vous faire paroistre [313] [314]  
+Quelle joye en mon cœur la vôtre avoit fait naistre,  
+Apprenant que le Ciel propice à vos souhaits…  
+
+    LAODICE.
+Plus ils semblent remplis, moins ils sont satisfaits,  
+Oronte, et puisqu'enfin il faut ne vous rien taire,  
+J'ay souhaité mon Fils, mon Fils me desespere,  
+Par son fatal retour tous mes soins [315] sont trahis [316].  
+
+    ARIARATE.
+Quoy, vous en plaindre, vous qui n'aimiez que ce Fils,  
+Qui luy gardiez le Sceptre, et qui du nom de Mere…  
+
+    LAODICE.
+Ouy, mere pour un Fils à qui je serois chere,  
+Qui viendroit sans secours le prendre de mes mains,  
+Mais je ne puis soufrir [317] l'esclave des Romains.  
+Sousmis à ces Tyrans que bravoient nos Ancestres  
+Il vient nous asservir sous l'orgueil de ses Maistres,  
+Nous faire part des fers [318] qu'il s'abaisse à traîner,  
+Et j'aurois quelque joye à le voir couronner ?  
+Non, non, l'espoir du Trône en vain l'a pû surprendre,  
+Point d'ordre du Senat s'il y vouloit prétendre,  
+Point de force étrangere à me faire obeïr.  
+
+    ARIARATE.
+Le sang dans vôtre cœur se laisse donc trahir.  
+Si le Senat depute⁎, est-ce l'avoir pour Maistre  
+Que prendre son adveu [319] pour se faire connoistre [320] ?  
+Sans luy, sans les Romains qui l'ont nourry chez eux,  
+Le destin de ce Fils seroit-il pas douteux [321] ?  
+Pourriez-vous sur sa foy [322] le croire Ariarate ?  
+
+    LAODICE.
+Je sçay qu'il faut par eux que sa naissance éclate,  
+Mais enfin avec luy si Rome estoit d'accord,  
+A quoy bon si long-temps m'avoir caché son sort [323] ?  
+Quand deputant vers moy [324] l'on m'a tant fait connoistre [325]  
+Qu'elle vouloit m'aider à faire choix d'un Maistre,  
+Par quel rare motif [326] ne m'a-t'on pas appris  
+Que son Ambassadeur me ramenoit mon Fils ?  
+Avec tant de mystere Aquilius s'avance  
+Qu'on le voit arriver mesme avant qu'on y pense [327],  
+Comme si tout à coup surpris de voir son Roy  
+Le Peuple devoit mieux s'animer [328] contre moy.  
+C'est là, c'est là que tend toute leur Politique,  
+Dans ces précautions je la [329] voy qui s'explique [330],  
+Et cherche à m'arracher par des moyens si [331] bas  
+Ce qu'ils ont présumé que je ne rendrois pas.  
+Par l'Hymen de ma Fille où⁎ l'on me crut forcée [332],  
+Ils ont voulu d'abord penetrer ma pensée,  
+Et le choix que de vous ils sçauront que j'ay fait  
+A leurs jaloux soupçons tiendra lieu de forfait,  
+Ils voudront vous punir d'en avoir esté digne ;  
+Mais que le Peuple s'arme [333], ou que Rome s'indigne,  
+Pour vous perdre à son choix ou me faire la loy [334],  
+Ce Fils n'est pas encor asseuré d'estre Roy.  
+
+    ARIARATE.
+Je veux bien avec vous blâmer la Politique  
+Dont par trop de secret le mystere vous pique,  
+Ariarate a dû faire un plus prompt éclat,  
+Mais songez ce que c'est qu'irriter [335] le Senat.  
+Vous l'ayant renvoyé pensez-vous qu'il endure [336]  
+Qu'au destin de ce Fils vous osiez faire injure ?  
+Il armera [337] sans doute, et tout autre que vous  
+Craindroit un grand pouvoir dans un juste couroux.  
+
+    LAODICE.
+Si l'Estat veut un Roy, s'il a besoin d'un homme,  
+Vous faisant [338] mon Espoux que craindray-je de Rome ?  
+Armé de ce grand tître et d'Espoux et de Roy  
+Manquerez-vous de cœur à combatre pour moy ?  
+Vous trouveray-je [339] moins cét invincible Oronte  
+Que nos plus fiers⁎ Voisins n'ont connu qu'à leur honte,  
+Et l'orage que veut éviter vostre soin [340]  
+Est-il plus dangereux pour venir de plus loin [341] ?  
+
+    ARIARATE.
+J'auray le mesme cœur, mais à quoy qu'il m'anime,  
+Que peut-on esperer contre un Roy legitime,  
+Qui sçaura malgré vous, malgré tous nos projets,  
+Gagner en se montrant le cœur de ses Sujets ?  
+
+    LAODICE.
+Et bien, si vous craignez qu'à sa veuë on ne cede,  
+C'est un mal où⁎ peut-estre il est quelque remede.  
+
+    ARIARATE.
+En est-il quand déja son nom seul en ces lieux…  
+
+    LAODICE.
+Vous ne m'entendez⁎ pas il faut m'expliquer mieux.  
+La rigueur me fait peine [342], et depuis que je regne  
+Si pour ma seureté [343] je soufre [344] qu'on me craigne,  
+Contre mille ennemis de ma grandeur jaloux  
+J'ay toûjours essayé les moyens les plus doux.  
+Aussi lente à punir que prompte à faire grace  
+Il m'a suffy cent fois d'en desarmer l'audace,  
+Tant j'ay conceu d'horreur dés mes plus jeunes ans  
+Pour la severité qu'exercent les Tyrans.  
+Mais il faut l'avoüer, s'agissant de l'Empire,  
+Comme c'est à luy seul que tout mon cœur aspire [345],  
+Si pour le conserver il faut armer mon bras  
+Un peu de sang versé ne m'épouvante pas.  
+Quoy ? vous feroit-il peur ? vous pâlissez, ce semble ?  
+
+    ARIARATE.
+Ouy, Madame, il est vray, je pâlis, et je tremble,  
+Et quand [346] le sang d'un Fils est l'unique moyen…  
+
+    LAODICE.
+Il faut donc voir répandre et le vostre et le mien ?  
+Ce choix seul est à faire, il s'agit de resoudre [347],  
+C'est à nous ou d'attendre ou de lancer la foudre,  
+Elle est inévitable à quiconque de nous  
+N'osera par scrupule en prévenir les coups,  
+Si mon Fils ne périt, notre perte est certaine.  
+
+    ARIARATE.
+Vous suivez les transports [348] où le soupçon vous mene,  
+Mais dequoy ne peut pas le sang venir à bout ?  
+Croyez-vous que ce Fils…  
+
+    LAODICE.
+        Il faut vous dire tout,  
+Aussy bien [349] avec vous dont l'ame [350] est un peu tendre [351]  
+Qui s'explique à demy ne se fait pas entendre⁎,  
+Sçachant mes interests vous jugerez de moy [352].  
+J'eus six fils qu'en mourant me laissa le feu Roy.  
+Par divers accidents des six les cinq moururent,  
+Peut-estre avez-vous sceu quels fâcheux bruits coururent,  
+J'en dédaignay l'outrage, et crus de tels malheurs,  
+Puisque j'étois au Trône, indignes de mes pleurs.  
+Dans le charme⁎ secret d'un si brillant partage  
+Pour me l'asseurer mieux je mis tout en usage;  
+Ariarate à Rome en ostage élevé  
+Pouvoit me le ravir s'il n'estoit enlevé,  
+J'en donnay l'ordre exprés, sa mort fut résoluë,  
+Mais je voy que les Dieux ne l'avoient pas concluë [353],  
+Qu'un lâche m'a trahie, et que de mon projet  
+Ariarate et Rome ont sceu tout le secret.  
+C'est à vous là dessus à voir ce que peut faire  
+Un Fils trop convaincu de l'orgueil de sa Mere.  
+Si j'immolay sa vie à l'ardeur de régner,  
+Pour régner à son tour voudra-t'il m'épargner ?  
+C'est mon sang, et ce sang du Trône est trop avide  
+Pour trembler à l'aspect [354] d'un simple parricide⁎,  
+Et bientost, si par moy ce Fils n'estoit détruit,  
+Sur mes propres leçons on l'y verroit instruit.  
+Il faut, il faut le perdre, et je m'y voy reduite,  
+Avec Aquilius on dit qu'il est sans suite,  
+Vous ne pouvez avoir d'ennemis [355] que les miens,  
+Et qui veut s'en défaire en trouve les moyens.  
+
+    ARIARATE.
+Ah, pour rompre un projet à ses jours si funeste,  
+Soufrez [356] qu'il s'abandonne à l'espoir qui luy reste,  
+Et que pour vous fléchir, ce Prince infortuné  
+Vous oppose par moy le sang dont il est né.  
+Croyez en m'écoutant que c'est luy qui vous prie,  
+Qu'en regardant sa Mere il la cherche attendrie,  
+Et qu'enfin à vos pieds il vous dit par ma voix,  
+*Accordez moy la vie une seconde fois*,  
+*Je vous suis odieux, mais quoy qui vous anime* [357],  
+*Estre né vostre Fils n'est pas un si grand crime.*  
+*Daignez luy faire grace en faveur* [358]* d'un respect*  
+*Que jamais rien de moy ne vous rendra suspect*,  
+*Prenez-en pour garand la foy⁎ sincere et pure*  
+*Qu'à la face du Ciel* [359]* ma tendresse vous jure*,  
+*Cette foy que jamais les plus durs changemens…*  
+
+    LAODICE.
+Lors qu'il s'agit du Trône on se fie aux serments ?  
+Ne vous y trompez point, quand [360] il se pourroit faire  
+Qu'à ce Fils comme à vous le crime pust déplaire,  
+Qu'une vertu pareille eust pour luy mesme appas,  
+Dans ce qu'il sçait de moy, je ne m'y fierois pas [361].  
+Je dis plus, quand j'aurois une entiere asseurance [362]  
+Qu'il deust laisser toûjours le Trône en ma puissance [363],  
+Toûjours comme Sujet me soûmettre son sort [364],  
+J'aurois la mesme ardeur à poursuivre [365] sa mort.  
+Pour en tenir l'arrest [366] et juste et legitime,  
+Il suffiroit de voir qu'il fist grace à mon crime,  
+Et que je périrois si par un noble effroy  
+Il ne refusoit d'estre aussi méchant que moy.  
+Ainsy je ne puis voir cette mort assez prompte  
+Ne fust-ce que pour perdre un témoin de ma honte.  
+C'est par là que son sort est toûjours combatu,  
+Je dois craindre son crime, ou haïr sa vertu,  
+Et chercher dans son sang la seureté du nostre  
+Pour me sauver de l'un, ou le punir de l'autre.  
+Enfin, plus de replique, il faut vous declarer,  
+Et choisir qui des deux vous voulez préferer [367].  
+Si du sang à verser vous esmeut⁎, vous fait peine [368],  
+J'en sçay qui sans scrupule en croiront une Reyne,  
+Et qui pour un seul crime exigé de leur foy,  
+Ne dédaigneront pas de régner avec moy.  
+Mais avant qu'emprunter d'autre bras que le vostre  
+Songez bien que souvent un crime en presse [369] un autre,  
+Et que vous ayant dit à quoy je me resous [370],  
+Le Trône seul peut estre un azyle pour vous.  
+
+    ARIARATE.
+Et bien, prenez ma vie, elle est à vous, Madame.  
+Toûjours la vertu seule a regné sur mon ame,  
+Et s'il me faut mourir, je mourray satisfait  
+D'avoir donné mon sang au refus d'un forfait [371].  
+
+    LAODICE.
+C'est trop, n'en parlons plus, tant de vertu me lasse.  
+A moy, quelqu'un.  
+
+
+### Scène IV.
+LAODICE, ARIARATE, CLEONE.
+
+
+    CLEONE.
+    Madame.  
+
+    LAODICE.
+    Escoutez.  
+Cleone sort après que la Reyne luy a parlé bas.
+
+
+    ARIARATE.
+        Eh, de grace,  
+Par ce zéle pour vous tant de fois employé [372]…  
+
+    LAODICE.
+Je l'avouë, il fut grand, mais je l'ay bien payé.  
+Quoy qu'ait pû m'opposer une envie importune,  
+Par moy [373] vostre destin a bravé la fortune,  
+Eslevé tout à coup vous possedez un rang  
+Qu'on n'accorda jamais qu'au plus illustre sang.  
+Du suprême pouvoir depuis deux ans arbitre [374]  
+On ne vous voit de Roy manquer que le seul tiltre ;  
+Je vous l'ofre, et pour prix, ingrat, de mes bienfaits  
+Vous voulez m'arracher du Trône où je vous mets,  
+Vous voulez qu'aux Romains je serve de victime ?  
+
+    ARIARATE.
+Moy ? dites que je veux vous épargner un crime,  
+En voir le noir projet par le sang combatu.  
+
+    LAODICE.
+Allez, dans le besoin [375] gardez vostre vertu,  
+Je recompenseray de mesme qu'on m'oblige.  
+Et bien ?  
+
+    CLEONE.
+    L'ordre est donné.  
+
+    ARIARATE.
+    Madame…  
+
+    LAODICE.
+        Allez, vous dis je,  
+Je connois vostre cœur, vous le mien, il suffit.  
+
+
+### Scène V.
+LAODICE, CLEONE.
+
+
+    CLEONE.
+Quel nouveau trouble encor agite vostre esprit ?  
+Madame ; si j'osois parler sans vous déplaire…  
+
+    LAODICE.
+Ah, Cleone, ce Fils dont j'ay crû me défaire,  
+Ce Fils dont je feignois d'attendre le retour…  
+Dieux !  
+
+    CLEONE.
+        Un si prompt revers change bien ce grand jour.  
+Mais il semble d'ailleurs⁎ que quelque autre disgrace⁎  
+Se joigne à la rigueur du sort qui vous menace ;  
+Dans le moment qu'Oronte est sorty d'avec vous [376]  
+J'ay crû vous voir contraindre [377] un violent couroux.  
+Avant qu'il vous quittast vous m'avez fait entendre  
+Qu'il faloit que sur l'heure on trouvast Anaxandre,  
+Comme si pouvant seul adoucir vostre ennuy [378]…  
+
+    LAODICE.
+Viens, suy-moy, tu sçaura ce que je veux de luy.  
+Fin du troisième acte.
+
+
+## ACTE IV.
+
+
+### Scène première.
+LAODICE, CLEONE.
+
+
+    LAODICE.
+En vain tu me fais voir que le peuple est à craindre.  
+Le projet est hardy, mais j'ay dû m'y contraindre,  
+Etoufer la Nature, et ne balancer pas  
+A couronner par là mes premiers attentats.  
+Qui s'est pû dans le Trône affermir [379] par le crime,  
+S'il tremble à l'achever merite qu'on l'opprime [380],  
+Et quand [381] mille forfaits le rendroient odieux,  
+Le dernier qui l'absout est toûjours glorieux,  
+Si je ne veux perir sa mort est necessaire.  
+
+    CLEONE.
+Pour vôtre seureté je voy ce qu'il faut faire,  
+Ce Fils dés son jeune âge instruit de vos desseins  
+Suivra pour s'en sauver le conseil des Romains,  
+Et dans ce qu'ils auront de juste défiance [382]  
+Vos jours seuls immolez feront son asseurance [383],  
+C'est ce que vous avez sans doute à prévenir⁎.  
+Anaxandre promet, mais pourra-t'il tenir ?  
+En jurant cette mort voyez ce qu'il hazarde ;  
+Le Prince autour de luy doit avoir quelque Garde,  
+C'est un foible secours que vous ne craignez pas,  
+Mais verra-t'on le coup sans connoistre le bras ?  
+Un complice arresté que devient Anaxandre ?  
+
+    LAODICE.
+Ay-je dans son destin quelque interest à prendre ?  
+Le coup fait, qu'il perisse, il m'importe fort peu,  
+Je feray de son crime un entier desadveu,  
+Et croiray n'avoir plus à craindre un sort contraire  
+Si d'un Ambitieux Rome veut me défaire.  
+Ce n'est pas qu'il n'ait pris toutes ses seuretez,  
+Si ceux dont il se sert se voyoient arrestez,  
+Il m'a fait consentir qu'ils nommassent Oronte.  
+
+    CLEONE.
+Quoy, pour ce malheureux une hayne si prompte,  
+Madame? Et vôtre amour a pû si tost ceder ?  
+
+    LAODICE.
+A qui nous preste un crime on doit tout accorder,  
+Anaxandre le hait, et m'auroit mal servie  
+Si je n'avois pas feint d'abandonner sa vie,  
+Et de vouloir sur luy rejetter l'attentat  
+Qui malgré son refus [384] est prest de faire éclat [385],  
+Mais enfin quoy qu'Oronte ait merité ma hayne,  
+Contre luy dans mon cœur elle est foible, elle est vaine ;  
+Ce refus d'un forfait dont il me sçait le prix [386],  
+Après ce qu'il me doit joint l'injure au mépris,  
+Et par un sentiment qu'en vain je desavouë,  
+Contre mes interests [387] moy-mesme je l'en louë.  
+Estrange adveu d'un cœur sous le crime abatu  
+De se sentir contraint d'estimer la vertu !  
+Ouy, telle que je suis, aux forfaits enchaînée  
+Par le dur [388] Ascendant que prend la Destinée,  
+Je me voy malgré-moy forcée à [389] respecter  
+Ce qu'un fatal penchant me defend d'imiter ;  
+Plus Oronte du crime a rejetté l'amorce [390],  
+Plus mon amour pour luy semble avoir pris de force,  
+Son refus m'a trahie, et loin de l'en haïr  
+Je l'aurois moins aimé s'il eust pû m'obeïr.  
+Ma flame s'est accreuë à voir croistre sa gloire⁎,  
+Et s'il n'a pû tantost me reduire à le croire,  
+Si j'embrasse [391] un forfait par luy si combatu,  
+C'est afin qu'il me serve à payer sa vertu.  
+J'en fais le prix du Trône, où de quoy qu'on m'accuse  
+Je luy veux achepter la place qu'il refuse,  
+Y voir briller sa gloire, et faire en ce grand jour  
+Servir l'ambition de prétexte à l'amour.  
+C'est par là seulement que ma honte s'efface.  
+
+
+### Scène II.
+LAODICE, AXIANE, CLEONE.
+
+
+    AXIANE.
+Ah, Madame, apprenez une étrange disgrace⁎,  
+On ne la sçait encor que sur un bruit confus [392],  
+Mais si l'on m'a dit vray, le Prince ne vit plus.  
+
+    LAODICE.
+Quoy, mon Fils ! Tout va bien, Cleone. Helas, Princesse!  
+
+    AXIANE.
+Ce bruit change en soûpirs [393] la commune allegresse.  
+Chacun de ce malheur également surpris  
+Fait par tout jusqu'à nous retentir de longs cris,  
+On gémit, on se plaint, et le peuple en furie  
+Demande au Ciel raison de cette barbarie,  
+Il jure de vanger un sang si pretieux.  
+
+    LAODICE.
+O trop sensible effet du vif couroux des Dieux !  
+Aprés un si long regne et d'ennuys [394] et d'alarmes [395]  
+Est-ce là ce bonheur dont ils m'ofroient les charmes ?  
+Ce fils sur qui leur hayne a voulu s'assouvir  
+Ne me l'ont-ils rendu que pour me le ravir ?  
+Mais enfin s'il est mort, connoit-on le perfide  
+Qui s'est osé soüiller d'un si noir parricide⁎ ?  
+Comme il luy faut du sang les pleurs sont superflus.  
+
+    AXIANE.
+Ariarate est mort, on ne dit rien de plus,  
+On parle seulement de desordre, d'insulte  
+Qu'a causé pour les rangs [396] un impréveu tumulte,  
+Mais sans que rien s'explique, et si l'on peut douter…  
+
+
+### Scène III.
+LAODICE, AXIANE, PHRADATE, CLEONE.
+
+
+    LAODICE.
+Que m'apprend-on, Phradate, et qu'ay-je à redouter ?  
+
+    PHRADATE.
+L'aveugle emportement que semble avoir fait naistre  
+Dans un grand peuple émeu⁎ la perte de son Maistre,  
+Son desespoir éclate, et dans ses cris confus [397]…  
+
+    LAODICE.
+Helas ! il est donc vray que mon Fils ne vit plus,  
+Et qu'à mes vœux le Ciel n'a paru favorable  
+Que pour mieux redoubler le malheur qui m'accable.  
+J'avois eu trop de joye, et tous mes sens saisis  
+Goustoient trop le triomphe où j'attendois ce Fils,  
+Il faut que de sa mort sa gloire soit suivie.  
+
+    PHRADATE.
+C'est ce triomphe seul qui luy couste la vie.  
+Par vôtre ordre, Madame, on a fait son pouvoir [398]  
+Pour se mettre en estat de [399] l'aller recevoir.  
+Le Peuple sous [400] ses Chefs en superbe équipage [401]  
+Brûloit de s'acquiter de [402] ce premier hommage,  
+Et sortant de la ville avec l'empressement  
+Qu'inspire à des Sujets un si grand changement,  
+A peine avions-nous fait mille pas dans la Plaine  
+Que nous voyons de loin briller l'Aigle Romaine  
+Qui vers nous à pas lents paroissant advancer  
+Donne à nos Escadrons le temps de se placer.  
+On s'arreste, et tandis qu'on veut se rendre maistre  
+De l'ardeur qu'à la voir nos Soldats font paroistre,  
+Ariarate arrive, et se livre en nos mains  
+Suivy d'Aquilius et d'un gros [403] de Romains.  
+D'une foy [404] toute pure il a d'abord pour gages  
+Nos plus profonds respects, nos plus soûmis hommages,  
+Il soufre⁎ avec plaisir qu'on le puisse approcher,  
+Et nos devoirs rendus on commence à marcher.  
+C'est lors [405] qu'entre deux Chefs un interest de gloire [406]  
+Fait naistre un different qu'on aura peine à croire,  
+Tous deux proches du Prince et le voulant garder  
+Disputent un honneur qu'aucun ne veut ceder,  
+Et dans l'aveugle ardeur de cette préference,  
+Tandis qu'avec Oronte Aquilius s'avance,  
+Tel est l'emportement qui soûtient leurs desseins  
+Qu'aprés quelque menace ils en viennent aux mains.  
+D'un party contre l'autre on voit la troupe émeuë⁎,  
+Malgré nous on se mesle [407], on se bat, on se tuë,  
+Quand d'un funeste coup jusqu'au Prince échapé  
+Dans ce fatal desordre il est d'abord frapé,  
+Il tombe, et sans avoir la force de rien dire,  
+A peine a t'il poussé deux soûpirs qu'il expire.  
+Cette mort de frayeur saisit les Combatans,  
+On arreste les Chefs et les plus importans,  
+Et voulant qu'à vos yeux l'attentat s'éclaircisse  
+Aquilius icy vient demander justice.  
+
+    LAODICE.
+Il l'aura toute entiere, et je luy feray voir  
+L'horreur que j'ay d'un crime et si lâche et si noir,  
+Ce tumulte impréveu cache quelque mystere,  
+Rome a pour l'éclaircir le pouvoir d'une Mere ;  
+Ayant nourry mon Fils elle est au mesme rang,  
+Elle est aux mesmes droits où⁎ je suis par le sang [408] ;  
+Mesme interest l'engage à se faire justice,  
+Et de quelque façon qu'un Monarque perisse,  
+Fust-ce par un malheur qu'on n'eust sceu prévenir⁎,  
+Ce crime du hazard est un crime à punir.  
+Princesse, à ma douleur prestez encor la vôtre,  
+Pour mieux vanger ce Fils pressons l'une par l'autre,  
+Il vous eust mise au Trône, et pour en démentir  
+L'injustice du sort qui n'y peut consentir,  
+Si Rome de ses dons soufre⁎ que je dispose  
+Vôtre espoir n'aura rien où [409] mon chagrin s'oppose,  
+Obtenez son adveu, je vous rends vos Estats.  
+
+    AXIANE.
+Madame, vos bontez ne me surprennent pas,  
+Mais je me croirois l'ame aussi lâche qu'ingrate  
+Si j'oubliois si-tost la mort d'Ariarate.  
+Vangez-la, punissez un perfide assassin,  
+Et le Senat aprés reglera mon Destin.  
+
+
+### Scène IV.
+LAODICE, AXIANE, ANAXANDRE, PHRADATE, CLEONE.
+
+
+    LAODICE.
+Et bien, mon Fils est mort, Anaxandre ?  
+
+    ANAXANDRE.
+        Ouy, Madame,  
+Dans les bras des Romains il vient de rendre l'ame,  
+Sa gloire⁎ a fait sa perte, et jamais on n'a veu  
+Revers plus surprenant ny coup plus impréveu.  
+
+    LAODICE.
+De ce coup du hazard je perce le mystere,  
+Voyla ce que me couste un Peuple temeraire,  
+Qui me voulant contraindre à faire choix d'un Roy  
+Preste à l'ambition des armes contre moy.  
+Ma douleur entre vous ne designe personne,  
+Mais mon Fils n'estant plus, ma Fille a la Couronne,  
+Et le don de sa main qui fait tant de jaloux  
+Pour qui peut y prétendre a des charmes bien doux,  
+Sans ce coupable espoir mon Fils vivroit encore.  
+
+    PHRADATE.
+Ce soupçon peut avoir des raisons que j'ignore,  
+Mais comme enfin par là mon honneur est noircy  
+Je me rends prisonnier tant qu'il soit éclaircy.  
+L'innocence à l'épreuve aisément s'abandonne.  
+
+    ANAXANDRE.
+Madame il est fâcheux de voir qu'on nous soupçonne,  
+Mais si l'espoir du Trône a pû nous engager  
+A resoudre une mort que vous devez vanger,  
+Que croira-t'on d'Oronte à qui dans ce jour mesme  
+Vôtre hymen resolu [410] donnoit le Diadême ?  
+Je ne l'accuse point, mais on est estonné  
+Que venant pour le Prince il l'ait abandonné ;  
+Qu'avec Aquilius s'avançant vers la ville  
+Il ait rendu pour luy son secours inutile,  
+Et semble tout exprés s'estre mis hors d'estat  
+D'apporter quelque obstacle à ce lâche attentat.  
+On se plaint, et beaucoup le traitent de coupable [411].  
+
+    AXIANE.
+De tant de perfidie Oronte est incapable.  
+Sa vertu, son grand cœur, tout parle assez pour luy.  
+
+    ANAXANDRE.
+Je sçay que sa vertu luy doit servir d'appuy,  
+Qu'un vray Heros est ferme [412], et jamais ne s'oublie,  
+Mais Aquilius sçait ce que l'on en publie [413],  
+Et dans l'horreur du crime où va la trahison  
+Peut-il se dispenser d'en demander raison ?  
+
+    LAODICE.
+D'Oronte pour l'Estat le zele inébranlable  
+Repousse les soupçons qui le peignent [414] coupable,  
+Pour les pouvoir soufrir [415] sa gloire a trop d'éclat.  
+
+    ANAXANDRE.
+Madame, Aquilius parle au nom du Senat,  
+Et quand d'Ariarate il doit luy rendre compte,  
+S'il demandoit qu'à Rome on envoyast Oronte,  
+Pour l'oser affranchir d'un ordre si pressant [416],  
+Pensez-vous qu'il suffist de le croire innocent ?  
+
+    AXIANE.
+Le voicy qui paroist, soufrez⁎ que je vous quitte.  
+Un sensible interest [417] à punir vous invite,  
+Madame, et je craindrois dans un sort [418] si cruel  
+D'avoir de mauvais yeux [419] à voir le criminel.  
+
+
+### Scène V.
+LAODICE, ARIARATE, ANAXANDRE, PHRADATE, CLEONE.
+
+
+    LAODICE.
+Viens, Oronte, et répons, c'est en vain qu'on t'excuse [420],  
+Sur un bruit qui s'épand [421] Anaxandre t'accuse,  
+Est-ce à toy que le crime a si bien reüssy?  
+
+    ARIARATE.
+Madame, Aquilius est à vint pas d'icy,  
+Il a sceu l'attentat, et s'il m'en croit complice,  
+J'ay du sang à verser, vous luy ferez justice.  
+
+    LAODICE.
+Dans le superbe [422] espoir que je t'avois donné  
+C'est estre criminel que d'estre soupçonné,  
+On murmure, on se plaint, qu'as-tu pour te défendre ?  
+
+    ARIARATE.
+Peut-estre est-ce un peu trop que d'en [423] croire Anaxandre.  
+
+    ANAXANDRE.
+J'ay dit ce qu'on publie [424], et n'ay point prétendu  
+Appuyer un soupçon qui ne vous est pas deu ;  
+Mais il a beau s'armer contre vostre innocence,  
+Nos Mutins arrestez prendront vostre défence,  
+Et n'ayant point de part à la coupable ardeur…  
+
+    ARIARATE.
+Vous pourrez achever devant l'Ambassadeur.  
+
+
+### Scène VI.
+LAODICE, AQUILIUS, ARIARATE, ANAXANDRE, PHRADATE, CLEONE, THEODOT, suite de Romains.
+
+
+    LAODICE.
+Seigneur, qui l'auroit crû qu'un jour si plein de charmes  
+Dust estre un jour pour moy de soûpirs et de larmes,  
+Et que venant icy pour finir mes malheurs  
+La gloire de vous voir me pust couster des pleurs ?  
+Pour tout remerciement à vostre Republique  
+Faut-il que ma douleur avec elle s'explique [425],  
+Et que de ses bienfaits je luy marque le prix  
+Par le trouble où me met la perte de mon Fils ?  
+Vous nous le rameniez instruit par de grands Maistres  
+A marcher sur les pas de ses dignes Ancestres,  
+Et par le dur revers du plus funeste sort  
+Le moment de sa gloire est celuy de sa mort.  
+A ce cruel objet ma raison qui me quitte  
+Céde aux égarements de mon ame interdite,  
+Et se perd quand je trouve à vanger à la fois  
+Et l'injure de Rome, et le sang de nos Rois.  
+
+    AQUILIUS.
+Madame, je vous plains, et de votre infortune  
+La fatale rigueur semble si peu commune,  
+Qu'il est bien malaisé qu'avecque moins d'éclat  
+Vostre fermeté [426] cede au coup qui vous abat ;  
+Il est rude sans doute, et quand sa violence  
+Laisse vostre ame entiere ouverte à la vangeance,  
+Si c'est vous soulager que de vous dire icy  
+Que j'en veux avec vous partager le soucy,  
+Ne vous inquietez que du choix des suplices.  
+Pour sçavoir [427] le Coupable il suffit des Complices,  
+Mes soins à le trouver ne sçauroient estre vains,  
+Et vous pouvez déja le croire entre vos mains.  
+
+    LAODICE.
+C'est par là seulement qu'aux ennuis [428] où je cede  
+Aprés la mort d'un Fils j'attens quelque remede.  
+Pour satisfaire Rome, et remplir cét espoir  
+Prenez icy, Seigneur, un absolu pouvoir,  
+Je sçay que d'injustice et d'erreur incapable  
+Vous sçaurez separer l'innocent du coupable,  
+Et que ceux que l'Envie aime à persecuter  
+Sur un premier soupçon n'ont rien à redouter.  
+Peut-estre ma douleur dans son impatience  
+Auroit moins de lumiere, et plus de violence,  
+C'est vous qu'elle en veut croire, ordonnez, punissez.  
+
+    AQUILIUS.
+L'outrage est grand pour Rome, et vous le connoissez ;  
+Mais de quelque rigueur qu'il arme sa colere,  
+Madame, elle est encore plus juste que severe,  
+Et s'il m'en faut par tout soûtenir l'interest [429],  
+Quand j'ose condamner, je répons de l'arrest ;  
+Mais aussy je ne puis qu'aux perils de ma teste  
+Voir sans précaution qu'un grand trouble s'appreste [430],  
+Et je serois suspect moy-mesme d'attentat  
+Si j'avois negligé d'en prévenir l'éclat [431].  
+J'ay de pressants [432] soupçons qui ne peuvent paroistre  
+Qu [433]'on n'ait mis en lieu seur ceux qui les ont fait naistre,  
+Dans leur juste défence ils seront écoutez,  
+Mais je ne parle point s'ils ne sont arrestez,  
+C'est au nom du Senat que je vous le demande.  
+
+    ANAXANDRE.
+Il n'est rien que sous [434] vous l'innocence apprehende,  
+Madame, et si d'Oronte on s'obstine à douter…  
+
+    LAODICE.
+Où l'ordre est du Senat il faut l'executer.  
+Parlez, de qui, Seigneur, voulez-vous qu'on s'assure ?  
+
+    AQUILIUS.
+D'Anaxandre.  
+
+    ANAXANDRE.
+    De moy !  
+
+    AQUILIUS.
+        Si c'est vous faire injure,  
+Le sang des criminels sçaura la réparer.  
+
+    ANAXANDRE.
+Madame…  
+
+    LAODICE.
+        Il n'est pas temps, Prince, d'en murmurer [435].  
+Qu'on le conduise au Fort.  
+
+    ANAXANDRE.
+        Quoy, jusqu'à l'injustice  
+Rome n'a qu'à vouloir, il faut qu'on obeïsse ?  
+
+    AQUILIUS.
+Rome en est incapable, et quand [436] vous l'offencez…  
+
+    LAODICE.
+Theodot, suivez [437] l'ordre, et vous, obeïssez.  
+
+    ANAXANDRE.
+Que sans esgard au rang…  
+
+    LAODICE.
+        Obeïssez, vous dis-je,  
+Vous mesme vous sçavez à quoy Rome m'oblige,  
+Contre vous, contre tous je dois luy déferer [438],  
+Si le soupçon est faux on sçaura l'averer [439],  
+Allez, qu'on me réponde [440].  
+
+    ANAXANDRE.
+        Il faut ceder, Madame,  
+Mais pour m'en consoler vous connoissez mon ame [441],  
+Et ne soufrirez⁎ pas que l'on me pousse à bout.  
+
+    AQUILIUS.
+Suivez, Lucilian, et prenez garde à tout.  
+
+
+### Scène VII.
+LAODICE, AQUILIUS, ARIARATE, PHRADATE, CLEONE.
+
+
+    LAODICE.
+Estes-vous satisfait, Seigneur, de ma franchise ?  
+
+    AQUILIUS.
+Madame, à cét éclat le Senat m'autorise,  
+Et vous ne pouviez mieux vous acquiter vers [442] luy  
+Que par ce que son ordre en vous trouve d'appuy [443],  
+Il l'apprendra sans doute avec beaucoup de joye,  
+Mais il est temps qu'icy la vostre se déploye,  
+Et que la mort d'un lâche indigne de vos pleurs  
+Cesse d'estre comptée au nombre des malheurs.  
+
+    LAODICE.
+Que dites-vous, Seigneur ?  
+
+    AQUILIUS.
+        Que toûjours équitable  
+Le Ciel à l'attentat n'a livré qu'un Coupable,  
+Qui dérobant le nom du Prince vostre Fils  
+A la fourbe [444] déja croyoit le Trône acquis.  
+Rome vous l'envoyoit pour en punir l'audace.  
+
+    LAODICE.
+Ce n'estoit pas mon Fils ! Ah, Seigneur, mais de grace,  
+Le sort d'Ariarate en sera-t'il plus doux ?  
+Puis-je croire qu'il vive, et me l'amenez-vous ?  
+
+    AQUILIUS.
+Il est vivant, Madame, et le bruit de sa perte  
+Fut une illusion heureusement offerte,  
+Dont Rome interessée [445] à vous garder ce Fils,  
+Pour ne l'exposer pas, se crut l'abus permis.  
+Elle en prit toûjours soin, et preste à vous le rendre  
+Tel que d'elle aujourd'huy vous le pouvez attendre,  
+Elle a voulu d'abord prévenir⁎ en ces lieux  
+Ce qu'elle soupçonnoit de quelques Factieux.  
+Vous en voyez l'effet, et leur rage peut-estre  
+Sur un Fourbe avortée aura peine à renaistre,  
+Quand le Prince averty qu'on en veut à ses jours  
+Dans sa précaution trouvera du secours.  
+
+    LAODICE.
+Quoy donc, il se pourra qu'enfin je le revoye ?  
+Phradate, allez au Peuple annoncer cette joye,  
+Ariarate sort. [446]
+
+En le tirant d'erreur calmez son desespoir ;  
+Mais, Seigneur, hastez-vous de me le faire voir,  
+L'entreprise manquée il n'a plus rien à craindre.  
+
+    AQUILIUS.
+Un juste empressement a peine à se contraindre,  
+Vous le verrez bientost paroistre avec éclat,  
+Cependant apprenez l'équité du Senat.  
+S'il fait régner ce Fils que le Ciel vous redonne  
+Il ne peut consentir à vous voir sans Couronne,  
+Et que ce changement vous reduise aujourd'huy  
+A ne donner des loix que sous l'aveu [447] d'autruy.  
+Vivez sans dépendance, et toûjours Souveraine,  
+Les Lycaoniens vous recevront pour Reyne,  
+Comme ils sont sa conqueste, il en peut disposer.  
+
+    LAODICE.
+Je sçay qu'en vain mon Fils s'y voudroit opposer [448],  
+Si la Lycaonie est jointe à cét Empire  
+C'est le prix d'un malheur dont encor je soûpire,  
+Le bonheur des Romains me cousta mon Espoux,  
+Mais soufrez que ce Fils en resolve [449] pour nous.  
+Attachée à son sort, et moins Reyne que Mere  
+Je cherche sa grandeur, elle seule m'est chere;  
+Qu'il me soufre avec luy, qu'il vueille m'éloigner,  
+Mes voeux sont satisfaits si je le vois régner,  
+Ce triomphe est le seul où ma tendresse aspire,  
+Jusque-là dans ces lieux prenez un plein empire,  
+Venez pourvoir à tout, et selon vos souhaits  
+Ordonnez de [450] la ville ainsy que du Palais.  
+Fin du quatriéme Acte.
+
+
+## ACTE V.
+
+
+### Scène première.
+ARIARATE, PHRADATE.
+
+
+    ARIARATE.
+Quoy, malgré tant d'efforts pour calmer sa furie  
+On n'a pû l'empescher de s'immoler sa vie ?  
+
+    PHRADATE.
+Seigneur, on a tâché d'éviter ce malheur,  
+Mais le Peuple animé de rage et de douleur  
+Dans son emportement ne cherchant qu'où se prendre,  
+Quoy qu'ait fait Theodot s'est saisy d'Anaxandre,  
+Et sans vouloir soufrir qu'on le menast au Fort,  
+Du Prince Ariarate il faut vanger la mort,  
+A-t'il dit, et soudain, comme seur de son crime  
+Sans rien examiner il l'a pris pour victime.  
+Anaxandre mourant fait oüir à hauts cris  
+Que la Reyne elle seule a fait perir son Fils,  
+Et de ce Peuple esmeu⁎ l'impatiente rage  
+Eust pû jusques sur elle achever son ouvrage,  
+Si d'un faux attentat le bruit par tout semé  
+En le [451] tirant d'erreur ne l'eust pas desarmé.  
+A voir par ses transports [452] quel doux espoir le flate [453]  
+Sçachant qu'il n'a pleuré qu'un feint Ariarate [454],  
+Il semble qu'il connoit [455] déja pour son repos  
+Que le Ciel va pour Roy luy donner un Heros,  
+Qu'il n'est bonheur sous vous [456] qu'il n'ait sujet d'attendre.  
+
+    ARIARATE.
+Ainsy j'ay causé seul le malheur d'Anaxandre  
+Que par Aquilius j'avois fait arréter  
+Pour rompre seulement ce qu'il eust pû tenter.  
+Mais si d'un Ennemy sa mort m'a sceu défaire,  
+Que n'ay-je point toûjours à craindre de ma mere ?  
+Tous ses voeux n'ont pour but que de me voir perir.  
+
+    PHRADATE.
+Le Ciel jusques au bout sçaura vous secourir,  
+Il s'est trop declaré contre son injustice.  
+Cependant de sa hayne admirez l'artifice [457].  
+Tout ce que pour un Fils sauvé des Factieux  
+On peut montrer de joye, éclate dans ses yeux.  
+Avec Aquilius elle régle [458], elle ordonne  
+Qui doit d'Ariarate escorter la personne,  
+Quelle sera sa Garde, et par où prévenir⁎  
+Les suites d'un forfait qu'elle cherche à punir.  
+Aucun trouble échapé ne la montre gênée [459]  
+De tout ce qu'a produit cette grande journée,  
+Ses voeux sont exaucez, le Ciel luy rend son Fils.  
+
+    ARIARATE.
+C'est trop soufrir [460] l'abysme où sa hayne m'a mis,  
+Si mes soûmissions ne servent qu'à l'accroistre  
+Estonnons [461] cette hayne en me faisant connoistre,  
+Et voyons si ce Fils par son orgueil trahy  
+Connu pour ce qu'il est sera toûjours hay.  
+La voicy, laissez-moy sur cette ame trop dure  
+Faire un dernier effort pour vaincre la nature,  
+Le temps de ce triomphe est peut-estre arrivé.  
+
+
+### Scène II.
+LAODICE, ARIARATE.
+
+
+    LAODICE.
+Vous l'emportez, Oronte, et mon Fils est sauvé,  
+Contre les fiers⁎ [462] projets de ma jalouse envie  
+Déja le Ciel deux fois a défendu sa vie,  
+Deux fois de ma fureur il a rompu les coups,  
+Mais il n'eust pu jamais en triompher sans vous.  
+C'est vous qui sur mon coeur plus fort que le Ciel mesme  
+Y sçavez moderer l'ardeur du Diadême [463],  
+Et contraindre l'orgueil qu'a trop enflé mon rang  
+A croire la Nature, et respecter le sang.  
+C'en est fait, cét orgueil n'a plus rien qui m'anime,  
+A force de vertus vous m'arrachez au crime,  
+Malgré tant de serments de ne rien épargner  
+Ariarate est seur de vivre et de régner,  
+Mon ambition céde, il n'a plus rien à craindre.  
+
+    ARIARATE.
+Je brusle de vous croire, et cherche à m'y contraindre ;  
+Mais pardonnez, Madame, à mon coeur interdit  
+Un scrupule forcé [464] que mon respect dédit [465].  
+C'est en vain que je veux empescher qu'il n'éclate.  
+Vous m'avez demandé le sang d'Ariarate,  
+Et si malgré les Dieux qui s'en montrent l'appuy  
+La mesme ardeur encor vous armoit contre luy,  
+Me découvririez-vous [466] cette funeste envie  
+A moy dont le refus vous a si mal servie,  
+Et qui tâchant à rompre un dessein trop cruel  
+Peut-estre auprés de vous me suis fait criminel ?  
+Ainsy par où [467] juger qu'un repentir syncere  
+Faisant vaincre le sang luy rend enfin sa mere ?  
+Quel garand aura-t'il d'un si grand changement ?  
+
+    LAODICE.
+Le Ciel qui le protege, et mon éloignement.  
+Je suis juste, et vois trop à quelle défiance [468]  
+Le doit de mes projets porter la connoissance  
+Pour exiger de luy que s'asseurant sur moy [469]  
+Il soufrist⁎ ma presence et régnast sans effroy.  
+J'ay conspiré sa perte, et pour m'en voir punie  
+Je m'impose l'exil de la Lycaonie,  
+C'est là que le Senat m'autorise à régner,  
+J'y consens, et déja suis preste à m'éloigner ;  
+Mais dans ce qu'il me laisse et d'honneurs et de gloire  
+Mon coeur [470] de vos vertus ne perd pas la memoire,  
+Et si ce coeur au Trône ose encor se donner  
+C'est moins pour en joüir que pour vous couronner,  
+Ouy, vous ayant flaté [471] d'un pompeux hymenée  
+Je ne révoque point ma parole donnée,  
+A vous voir mon Espoux mes voeux sont limitez.  
+
+    ARIARATE.
+Je sçay ce que je dois à vos rares [472] bontez,  
+Mais quand il vous a plû de me laisser prétendre  
+Aux pompes d'un Hymen qui vous faisoit descendre [473],  
+Craignant tout des Romains, dans ce pressant besoin  
+Vous cherchiez un appuy dont les Dieux ont pris soin [474],  
+De cét abaissement ils vous ont dégagée [475].  
+
+    LAODICE.
+S'ils ont changé mon sort ils ne m'ont pas changée,  
+Et ce Fils, si long-temps par ma hayne opprimé,  
+Seroit encor haï si vous n'étiez aimé.  
+
+    ARIARATE.
+Si je n'étois aimé ?  
+
+    LAODICE.
+        J'ay voulu vous le taire  
+Tant qu'un prétexte heureux m'a permis de le faire,  
+Et que ce qu'un beau feu pour vous m'a fait oser  
+Sous des raisons d'Estat pouvoit se déguiser ;  
+Mais par vostre vertu ma flame encor accruë  
+Ne peut plus se contraindre à tant de retenuë,  
+Et c'est peu que mon Fils trouve grace en ce jour  
+Si je ne vous apprens qu'il la doit à l'amour.  
+C'est luy qui pour vous seul me contraignant de vivre  
+Me dérobe le sang que j'aimois à poursuivre,  
+Et qui malgré l'orgueil de mes desirs jaloux  
+M'oste [476] à l'ambition pour me donner à vous.  
+C'est luy, c'est cét amour dont l'ardeur me surmonte [477]...  
+Mais quoy ? vous vous troublez, expliquez-vous, Oronte,  
+D'où viennent ces regards tremblans, mal asseurez,  
+Cette froide surprise ?  
+
+    ARIARATE.
+    Helas !  
+
+    LAODICE.
+        Vous soûpirez ?  
+
+    ARIARATE.
+Il est vray, je soûpire, et plust au Ciel, Madame,  
+Vous pouvoir déguiser [478] ce qui trouble mon ame,  
+Les maux que je prévoy ne seroient pas le prix  
+Du funeste secret que vous m'avez appris.  
+Le mien va vous réduire où m'a reduit le vostre,  
+J'ay soûpiré de l'un, vous tremblerez de l'autre,  
+Et plus de vostre amour vous aurez cru l'erreur,  
+Plus la hayne pour moy vous donnera d'horreur.  
+
+    LAODICE.
+Vous aimez donc ailleurs, et l'hymen d'une Reyne  
+Ne vaut pas que pour elle on brise une autre chaisne,   
+La constance en amour est digne d'un Heros.  
+
+    ARIARATE.
+Mes voeux n'ont reüssy que trop pour mon repos.  
+Quel dur revers, Madame, et qui l'auroit pû croire ?  
+Pour estre aimé de vous j'ay cherché de la gloire,  
+Et je me vois reduit à la necessité  
+De me plaindre d'un bien que j'ay tant souhaité.  
+Haïssez un ingrat, perdez un temeraire,  
+J'ay trop teu ce qu'enfin il ne faut plus vous taire,  
+Mais quand d'amour pour moy vôtre coeur est surpris,  
+Comment vous advouër que je suis vôtre Fils ?  
+
+    LAODICE.
+Vous, mon Fils ?  
+
+    ARIARATE.
+        Si pour vous la nature muete  
+N'ose de mon destin se faire l'interprete [479],  
+N'épargnez point mon sang, ce sang trop odieux  
+Qui peut-estre en coulant vous l'expliquera mieux.  
+C'est là qu'avec plaisir vous trouverez sans doute  
+Les tristes veritez que vôtre ame redoute ;  
+Pour combler les malheurs de ce funeste jour  
+Satisfaites la hayne au defaut de l'amour,  
+Il me sera plus doux...  
+
+    LAODICE.
+        N'en soyez point en peine  
+Je la satisferay cette invincible hayne,  
+Vos soûpirs font contre elle un impuissant appas [480],  
+Et si vous l'étonnez [481] vous ne l'ébranlez pas.  
+Quoy, par de faux devoirs [482] vous m'aurez sceu reduire  
+A l'aveu de l'orgueil qui vouloit vous détruire,  
+Vous aurez dans mon coeur penetré mes forfaits,  
+Et vos voeux triomphans en feront les effets ?  
+Non, il faut qu'entre nous cette hayne en decide,  
+Elle offre le defy du plus prompt parricide⁎ [483],  
+Et du moins, si les Dieux ont trompé mon amour,  
+Il vous en coustera l'innocence, ou le jour.  
+Pour vous conserver l'une, il vous faut perdre l'autre,  
+Devenir ma victime, ou me faire la vostre,  
+Et vous résoudre enfin, quoy qui puisse advenir,  
+De perir par mon crime, ou de le prévenir⁎.  
+
+    ARIARATE.
+En vain ce vif transport [484] s'empare de vôtre ame,  
+Quoy qui puisse arriver vous regnerez, Madame.  
+Si mes voeux [485] n'avoient eu qu'un Trône pour objet,  
+Je n'aurois pas deux ans paru comme Sujet,  
+Je n'aurois pas deux ans par un respect sincere  
+Tâché de meriter les bontez de ma Mere,  
+Les armes à la main sans craindre son couroux  
+J'aurois osé paroistre...  
+
+    LAODICE.
+        Ah, que ne l'osiez-vous !  
+Alors ma hayne libre auroit à force ouverte  
+Gousté l'entier plaisir de jurer vôtre perte,  
+Et mon coeur qui sans trouble auroit pû l'écouter  
+N'eust pas eu contre vous de foible à redouter,  
+Mais en vous déguisant vous m'avez sceu contraindre  
+A cherir l'Ennemy que j'avois seul à craindre,  
+Vos flateuses⁎ vertus par des charmes⁎ trop doux  
+Ont pris intelligence avecque mon couroux [486],  
+Et dans ce qu'à mon coeur elles offrent d'amorce⁎,  
+Quand il veut vous haïr, il n'en a pas la force,  
+De tout ce qu'il resout [487] vous l'osez détourner.  
+Ah, ce crime est trop grand pour vous le pardonner,  
+Cinq enfans immolez par mes trames secretes  
+Me laissent encor moins coupable que vous n'estes ;  
+Par mille et mille soins rendus jusqu'à ce jour  
+Vous m'avez pour mon Fils fait naistre de l'amour,  
+Vous avez allumé dans le sein d'une Mere  
+Une ardeur à la fois et detestable et chere,  
+Et dont j'ay d'autant plus à craindre les effets  
+Qu'elle cherche à m'oster le fruit de mes Forfaits;  
+Elle a beau le prétendre [488], il faut que j'en joüisse [489],  
+Que je fasse du sang ce dernier sacrifice,  
+Et que l'ambition que j'allois étoufer,  
+Reprenne tout l'orgueil qui l'en fit triompher [490].  
+Dûst en gemir cent fois la Nature détruite  
+J'ai trop bien commencé pour trembler de la suite,  
+Pour craindre lâchement de m'immoler vos jours.  
+
+    ARIARATE.
+Et bien, prenez ce fer [491] s'il vous faut du secours,  
+Puisque ma mort pour vous peut estre un doux spectacle,  
+Hastez-vous d'en joüir, je n'y mets point d'obstacle,  
+Frapez, percez ce coeur dont les derniers soûpirs  
+Furent toûjours l'objet de vos plus chers desirs,  
+Effacez dans mon sang ce tendre caractere [492]...  
+
+    LAODICE.
+Laissez-moy donc, ingrat, le pouvoir de le faire,  
+Et quand à vous haïr tout semble m'animer [493],  
+Arrachez-moy du coeur ce qui vous fait aimer.  
+Ostez-moy cette ardeur qui, quoy que je l'abhorre,  
+Me fait voir dans mon Fils un Amant que j'adore,  
+Et qui bravant l'orgueil qui voudroit son trépas  
+Sçait corrompre ma hayne, et retenir mon bras.  
+En vain ma dureté de vôtre vie ordonne [494],  
+La Nature vous l'oste, et l'Amour vous la donne,  
+Et quand l'une du jour consent à vous priver,  
+L'autre vient me seduire afin de vous sauver.  
+Dure malignité du panchant qui m'entraine !  
+Les crimes ont toûjours accompagné ma haine,  
+Et tel en est pour moy le triste enchaînement  
+Que cessant de haïr j'en fait un en aimant.  
+D'un violent amour la fureur indomptable  
+Me laisse pour mon Fils brûler d'un feu coupable,  
+Et mon Fils n'est sauvé que par l'indigne ardeur  
+Que mon aveuglement alluma dans mon coeur.  
+Les Dieux l'ont resolu, ma resistance est vaine,  
+Vivez, Ariarate, et faites [495] une Reyne,  
+Tandis que je me rends à la necessité  
+De chercher mon repos et vôtre seureté [496].  
+
+    ARIARATE.
+Où la trouverez-vous pour un Fils qui vous aime,  
+Qu'en [497] daignant partager la puissance suprême ?  
+Soyez par vos conseils l'appuy de ses Estats,  
+Et regnant avec luy...  
+
+    LAODICE.
+        Ne vous y fiez pas.  
+Quoy que j'eusse promis, l'ambition peut-estre  
+Estouferoit l'amour qui s'en est rendu Maistre,  
+Et dans les bras d'autruy [498] ce qu'on aima le mieux  
+Devient bien-tost pour nous un objet odieux.  
+Contre un peril si grand asseurons [499] vôtre vie,  
+Par son Ambassadeur le Senat m'y convie,  
+Il m'en ouvre la voye, et j'y sçauray pourvoir.  
+
+    ARIARATE.
+Les prieres d'un Fils auront quelque pouvoir,  
+Et si le temps fait tout, il m'est permis de croire…  
+
+
+### Scène III.
+LAODICE, ARIARATE, AXIANE, ALCINE.
+
+
+    LAODICE.
+Princesse, joüissez enfin de vôtre gloire⁎.  
+Les Dieux en prirent soin lors qu'un heureux accord  
+Au destin de mon Fils attacha vôtre sort [500],  
+Et leur bonté pour vous acheve de paroistre  
+Quand dans l'illustre Oronte ils nous le font connoistre,  
+Recevant de ma main ce Heros pour Epoux  
+Vous ne douterez point s'il est digne de vous,  
+Je vous laisse avec luy partager cette joye,  
+Il vous en dira plus.  
+
+
+### Scène IV.
+AXIANE, ARIARATE, ALCINE.
+
+
+    AXIANE.
+        Que faut-il que je croye ?  
+Après les plus beaux voeux à mon rang immolez [501]  
+Se pourroit-il qu'Oronte... Ah de grace, parlez,  
+Quoy que de vôtre sort la Reyne ait pû m'apprendre,  
+Je crains que mon amour n'ait voulu trop entendre,  
+Que d'une erreur flateuse [502] il n'ait trop crû l'appas…  
+
+    ARIARATE.
+Non, croyez cet amour, il ne vous trompe pas,  
+Je suis Ariarate, et si de ma naissance  
+Je vous ay dérobé toûjours la connoissance,  
+J'ay voulu par mes soins⁎ meriter d'estre aimé  
+Sans que le Trône eust part au feu qui m'a charmé,  
+D'ailleurs⁎, je m'asseurois de l'esprit [503] de la Reyne.  
+
+    AXIANE.
+D'un Peuple émeu⁎ contre elle on doit craindre la haine,  
+Il s'assemble, il menace, et crie à haute voix  
+Que d'une Parricide⁎ il abhorre les loix,  
+Que lors que sa fureur contre son sang éclate,  
+Ne l'en oser punir c'est perdre Ariarate.  
+La fuite est dangereuse, et dans un pareil sort [504]...  
+
+    ARIARATE.
+Le Peuple a sceu déja vanger ma fausse mort,  
+Et ce hardy tumulte où sa crainte l'engage  
+De sa fidelité me donne un nouveau gage,  
+Mais il faut le calmer, et c'est ce que je puis.  
+
+
+### Scène V.
+ARIARATE, AQUILIUS, AXIANE, ALCINE.
+
+
+    ARIARATE.
+Seigneur, il n'est plus temps de cacher qui je suis.  
+La Reyne et la Princesse ont appris ma naissance.  
+
+    AQUILIUS.
+Tout se perdroit, Seigneur, par un plus long silence.  
+J'ay rencontré la Reyne, et je viens devant tous  
+De luy redire encor ce qu'elle a sceu de vous,  
+Mais ce n'est point assez ; il faut par vostre veuë  
+Appaiser promptement la populace esmeuë⁎,  
+Qui grossissant toûjours dans la Cour du Palais  
+D'elle contre son Fils craint de nouveaux forfaits.  
+Ce peuple à haute voix la nomme Parricide⁎,  
+Et peut-estre il suivroit la fureur qui le guide  
+Si pour la retenir et calmer son effroy  
+Nous differions encor à luy montrer son Roy,  
+Hastons-nous, le temps presse, et tout paroist à craindre.  
+
+    AXIANE *à Ariarate.*.
+Allez, Seigneur, ce feu ne peut trop tost s'éteindre,  
+On y feroit sans vous des efforts superflus.  
+
+    ARIARATE.
+J'y cours, mais...  
+
+
+### Scène VI.
+ARIARATE, AQUILIUS, AXIANE, PHRADATE, ALCINE.
+
+
+    PHRADATE.
+        Ah, Seigneur, la Reyne ne vit plus.  
+
+    ARIARATE.
+O Ciel !  
+
+    AQUILIUS.
+        Quoy, des Mutins l'aveugle et prompte audace...  
+
+    PHRADATE.
+Non, Seigneur, apprenez quelle est cette disgrace⁎.  
+Ayant sceu que le Peuple au Palais amassé  
+Pour voir son nouveau Maistre avoit déja pressé [505],  
+Sur l'appuy d'un Balcon obstinée à paroistre  
+La Reyne aux Factieux se fait d'abord connoistre,  
+Et sa veuë aussi-tost animant leur fureur,  
+Tous pour elle à la fois ont marqué de l'horreur.  
+Joignant insolemment l'injure à la menace  
+Du plus sanglant reproche ils armoient leur audace  
+Quand d'un ton [506] qui de loin pouvoit estre entendu,  
+*Va*, dit-elle,* sans toy je sçay ce qui m'est deu* [507],  
+*Peuple lâche, et de qui les timides maximes* [508]  
+*T'ont fait jusques icy dissimuler mes crimes*,  
+*Sans moy qui contre moy te veux prester mon bras*  
+*Tu tremblerois toûjours, et ne punirois pas.*  
+Là tirant un poignard dont elle estoit saisie [509]  
+Avant qu'on l'ait pû voir elle a tombé [510] sans vie,  
+Un seul coup malgré nous a terminé son sort [511].  
+
+    ARIARATE.
+O Fils trop malheureux ! ô déplorable mort !  
+
+    AQUILIUS.
+Le Ciel est équitable, et le fait bien connoistre,  
+Mais le peuple, Seigneur, soûpire aprés son Maistre,  
+Forcez vostre douleur, et pour prix de sa foy  
+Allons luy faire voir et sa Reyne et son Roy.  
+Fin du cinquiéme et dernier Acte.
+
+
+# Glossaire.AmorcePlus petit signe de manifestation d'amour.V. 101, 1609.CharmerSens fort. Du latin :* carmen* , chant. Séduire comme par un charme magique, ensorceler. *Charme* : attirance qui tient du sortilège.V. 47, 677, 787, 989, 1607.DéputerDéputer quelqu'un, envoyer un représentant. *Députer* est aujourd'hui transitif.V. 1, 905.DisgraceMalheur.V. 141, 714, 1081, 1150, 1718.D'ailleursPar ailleurs.V. 341, 1081, 1689.DouceurJouissance, plaisir extrême.V. 145, 184, 341, 424, 530, 839.ÉmeuSoulevé, qui s'agite.V. 1045, 1174, 1209, 1445, 1690, 1706.EntendreComprendre.V. 956, 982.FlatterTromper. Donner l'espoir. Charmer, séduire. Entretenir dans l'espérance trompeuse de.V. 1607.FierCruel.V. 81, 454, 946, 1481.FoyFidélité, dévouement. Engagement.V. 548, 594, 1021.GloireSe dit par emprunt et par participation, de l'honneur mondain, de la louange, ou de l'approbation qu'on donne au mérite, au sçavoir, et à la vertu des hommes. (Furetière)V. 66, 86, 150, 169, 183, 289, 1141, 1243, 1670.NatureMouvement, sentiment interne d'une lumière d'une connaissance qui est comme née avec nous, pour discerner ce qui est bon, ou mauvais, ce qui nous  sert, ou ce qui nous nuit, laquelle  à quelques égards nous est  commune avec les animaux (Furetiere). On entend donc par *nature* au XVII*e* ce que l'homme est  porté à ressentir par une impulsion naturelle. Cette notion apparait de manière résurgente dans les tragédies classiques, cornéliennes notamment, où le héros s'y retrouve fréquemment confronté. On se rappelera entre autre des fameux vers prononcés par Cléopâtre dans Rodogune : « Sors de mon corps Nature… ». Nous dirions aujourd'hui *garder pour*. V. 462, 729.OùAuquel. L'ancien français  usait largement d'adverbes relatifs, à la place d'un relatif précédé d'une préposition : *dont* pour *de qui, duquel, avec qui, avec quel* etc. *où* pour *à qui, chez qui*  etc…Notons que * auquel* est une contraction  du pronom relatif précédé de la préposition *à.*V. 102, 150, 925, 954, 1224.ParricideNe signifiait pas seulement meurtre du père ou de la mère mais encore meurtre d'un parent ou d'un souverain. Au v. 1002  il s'agit du meurtre du fils.V. 1002, 1166, 1586, 1692, 1709.PresserPousser impérieusement. Sens fort.V. 8, 52.PrévenirDevancer, se prémunir contre.V. 670, 1103, 1227, 1399, 1467, 1592.Reserver auMe destiner au. *Reserver* ne réfère plus aujourd'hui qu'à l'inanimé.V. 34, 150.SouffrirAccepter, tolérer, consentir.V. 805, 1199, 1233, 1285, 1375, 1512.SoinsAssiduités.V. 171, 341, 482, 1687.VœuxSouhaits.Langage de la galanterie en usage au XVII*e*. Hommages, soins amoureux.V. 41, 171, 181, 231, 247, 343, 798.ZèleDévouement.V. 445, 482, 531, 534, 604.
+
+
+# Bibliographie.
+
+
+## Les sources.
+
+
+### Textes de référence.Héraclius, empereur d'Orient
+Rodogune
+Don Sanche d'Aragon
+Horace
+Cinna
+Camma
+Ariane
+Stilicon
+
+
+
+### Les sources historiques.Abrégé de l'Histoire Universelle de Trogue Pompée, extraite de Trogue Pompée, traduite…
+
+
+
+## Autour de Thomas Corneille.Le Festival Corneille : 20 ans de théâtre à Barentin, 1956-1975
+Pierre et Thomas Corneille librettistes
+Pierre Corneille et ses frères…
+Thomas Corneille : sa vie et son théâtre
+
+
+
+## Ouvrages généraux sur le XVII*e* siècle.Littérature française
+A History of French Dramatic Literature in the Seventeenth Century
+Histoire du théâtre français depuis son origine jusqu'à présent
+
+
+
+## Ouvrages sur le théâtre classique.Le Culte des passions, essais sur le XVII*e* siècle français
+Corneille et la dialectique du héros
+Comédie et tragédie
+Introduction à l'analyse des textes classiques
+Essai de génétique théâtrale
+Esthétique del'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
+La Dramaturgie classique en France
+Études de style
+La Tragédie classique en France
+
+
+
+## Articles.*e*La femme et le théâtre au pouvoir
+Pierre Corneille
+Littérature
+ XVII*e* siècle
+, Papers on French Seventeenth Century Literature
+
+
+
+## Dictionnaires et outils grammaticaux.Dictionnaire universel
+Dictionnaire François
+
+
+-------
+
+
+[1] *Laodice*, Rouen ; Paris, Barbin ; Quinet, 1668. 12°. *Priv*. fev. 21, *achevé* mars 8.
+
+[2] Pierre Corneille, *Discours de l'utilité et des parties du poème dramatique*, dans *Trois discours sur le poème dramatique (texte de 1660)*, éd. Louis Forestier, 1963, p. 46.
+
+[3] Louis Lapert, *Pierre Corneille, ses frères Antoine et Thomas, leur famille maternelle et leurs amis au Pays de Caux*, Association pour l'animation et la coordination culturelle à Yvetot et dans le pays de Caux, 1984.
+
+[4] V. 1725 et 1726 : «  Joignant insolemment l'injure à la menace / Du plus sanglant reproche ils armoient leur audace »
+
+[5] Sous Auguste ou Pompée.
+
+[6] Cf l'avis au lecteur de *Laodice*.
+
+[7] Pierre Corneille, *Trois discours sur le poème dramatique*.
+
+[8] À la différence du sujet simple ou l'on passe du droit fil du bonheur au malheur.
+
+[9] Pierre Corneille, examen de *Rodogune*, 1660-1682.
+
+[10] Représentée en 1644 ou 1645.
+
+[11] Pierre Corneille, *Discours de l'utilité et des parties du poème dramatique*, dans *Trois discours sur le poème dramatique (1660)*, éd. cit., p. 55.
+
+[12] Jacques Scherer, *La Dramaturgie classique en France*, Paris, Nizet, 1986.
+
+[13] Serge Doubrovsky, *Corneille et la dialectique du héros*, Paris, Gallimard, 1982.
+
+[14] Doreena- Ann Statamo, *Le renversement symétrique des rôles masculins et féminins dans les pièces Rodogune et Horace*, dans *Papers on French Seventeenth Century Literature*, 1989.
+
+[15] v. 1053 : « Et bien, prenez ma vie, elle est à vous, Madame. »
+
+[16] v.1565 : « Haïssez un ingrat, perdez un temeraire, » et v.1571 : « N'épargnez point mon sang, ce sang trop odieux / Qui peut-estre en coulant vous l'expliquera mieux. » ainsi que v. 1577 : « Il me sera plus doux… »
+
+[17] II, 1, v.404.
+
+[18] III, 3, v.974.
+
+[19] III, 3, v.1040 et 1042.
+
+[20] v.2 et v.1590 et 1592.
+
+[21] v.13 et 47
+
+[22] Pierre Ronzeaud, *La femme au pouvoir ou le monde à l'envers, XVII*e* siècle*, 1975, n° 108.
+
+[23] Pierre Corneille, *œuvres complètes*, Paris, Gallimard, bibliothèque de la Pléiade, 1984.
+
+[24] Jacques Truchet, *La tragédie classique en France*, Paris, Presses universitaires de France, 1997.
+
+[25] II, 1, v.461.
+
+[26] I, 1, v. 110.
+
+[27] I, 3, v. 289-292.
+
+[28] V. 761-762.
+
+[29] Corneille Pierre, *Héraclius, empereur d'Orient*, préf. de Georges Forestier, Paris, Cicéro, 1995.
+
+[30] Aristote, *La Poétique*.
+
+[31] v. 1446.
+
+[32] V. 1707.
+
+[33] V. 1719.
+
+[34] Jacques Truchet, *La tragédie classique en France*, Paris, PUF, 1997.
+
+[35] V. 317.
+
+[36] Corneille, *œuvres complètes, II*, éd. Georges Couton, Paris, Gallimard, Bibliothèque de la Pléiade, 1984, p. 1361.
+
+[37] V. 1488.
+
+[38] V. 1498.
+
+[39] V. 1506.
+
+[40] V. 1542.
+
+[41] V. 1570.
+
+[42] V. 1622.
+
+[43] V. 1633.
+
+[44] V. 1631-1632.
+
+[45] V. 1613.
+
+[46] V. 1617- 1618
+
+[47] Cet emploi métonymique propre à la tragédie classique, où l'on gomme le particulier, prouve que la primauté est accordée à l'humain. Cf. Jean Emelina, « La géographie tragique », dans* Comédie et tragédie*, Nice, Publication de la faculté des Lettres, arts et sciences humaines de Nice, 1998.
+
+[48] V. 1.
+
+[49] V. 5.
+
+[50] V. 17.
+
+[51] V. 20.
+
+[52] V. 36.
+
+[53] V. 278.
+
+[54] V. 280.
+
+[55] V. 301 et 302.
+
+[56] V. 306.
+
+[57] Acte II, scène 1.
+
+[58] Acte II, scène 6. v. 721 à 724 : « Rome qui de mon sort eut toûjours connoissance / A feint de s'abuser sur sa fausse naissance, / Et ne l'envoie icy qu'afin de l'y punir / Du mensonge insolent qu'il ose soûtenir. »
+
+[59] Acte II, scène 5, v. 685 : « Et le Peuple montrant sa joie et sa surprise… »
+
+[60] V. 516.
+
+[61] V. 518.
+
+[62] V. 687.
+
+[63] V. 720.
+
+[64] V. 723.
+
+[65] V. 910 à 932.
+
+[66] V. 896.
+
+[67] V. 921.
+
+[68] V. 926.
+
+[69] V. 1190 et 1191.
+
+[70] V. 1221 et 1222.
+
+[71] V. 1309.
+
+[72] V. 1313.
+
+[73] V. 1336.
+
+[74] V. 1338.
+
+[75] I, 1, v. 7 et 8.
+
+[76] V. 52.
+
+[77] V. 37 et 38.
+
+[78] V. 46.
+
+[79] II, 1, v. 406.
+
+[80] *Par eux* : par les Princes.
+
+[81] II, 2, v. 574 et 575.
+
+[82] II, 3, v. 624 et 625.
+
+[83] V. 685.
+
+[84] V. 689.
+
+[85] V. 689-709.
+
+[86] V. 1175.
+
+[87] V. 1187.
+
+[88] V. 853.
+
+[89] V. 437.
+
+[90] V. 1707. 1719.
+
+[91] V. 1436 à 1442.
+
+[92] V. 1710
+
+[93] V. 1723 à 1726.
+
+[94] I,1,v. 7 et 8.
+
+[95] I,3, v. 290.
+
+[96] II,2, v. 574.
+
+[97] II,3, v. 625  et 626.
+
+[98] II,6, v. 709.
+
+[99] III,3, v. 986.
+
+[100] IV, 2, v.1151.
+
+[101] IV,2, v. 1156 à 1158.
+
+[102] IV,3,v.1175.
+
+[103] IV, 8, v.1406.
+
+[104] V,1,v.1441.
+
+[105] V,1,v.1443.
+
+[106] V,1,v.1447.
+
+[107] V, 4, v.1691.
+
+[108] V,5,v.1709.
+
+[109] V. 755 à 758.
+
+[110] Quelle que soit votre motivation, quel que soit ce qui vous pousse à agir ainsi.
+
+[111] *En faveur de* : en profitant de.
+
+[112] *A la face du Ciel* : devant les yeux du Ciel.
+
+[113] V. 1016 à 1023.
+
+[114] V. 586
+
+[115] Le vers 524 fonctionne similairement.
+
+[116] V. 873 et 874.
+
+[117] V. 47-48
+
+[118] Acte I, scène II, v. 145 et 146.
+
+[119] Que l'on n'apprend qu'à la scène suivante.
+
+[120] « Oronte »est donné dés le début et même dans la liste des personnages pour Ariarate.
+
+[121] Voir aussi v. 151.
+
+[122] Acte I, scène IV, v. 361 et 362.
+
+[123] V. 371 et 372
+
+[124] Acte I, scène IV, v. 376 et 377.
+
+[125] On retrouve le même processus v. 187 à 189, v. 751, 781, 823, 755 à 758, 781 à 782, 815 à 816, 818 à 828, 845 à 847.
+
+[126] V. 161
+
+[127] Acte II, scène II, v. 535 et 536.
+
+[128] III, 2, v. 1011 et 1012.
+
+[129] V. 1053
+
+[130] Acte V, scène II, v. 1600 à 1602.
+
+[131] * Les annonces* : les scènes qui ne sont ni fondées sur l'équivoque ni sur les élucidations sont les annonces de mariages, et les récits de morts, respectivement au nombre de trois. On retrouve encore cette notion de contraires qui s'équilibrent. Stabilité classique ou insertion du trouble ? Respect, ménagement du spectateur ou déstabilisation par le rapprochement de notions contraires ? Les annonces officielles d'hyménées se répètent, la bonne n'étant que la dernière. À l'acte II, scène 2, Laodice annonce à Anaxandre qu'elle épousera Oronte, mais l'héritier, cru mort, réapparaît, et c'est pourquoi à l'acte III, scène 2, Laodice, encore, annonce à Axiane son mariage avec Ariarate l'imposteur, mais ce dernier succombe brutalement, entraînant l'enquête, l'élucidation, le repentir, la déclaration de son amour, la révélation de l'identité d'Ariarate, et donc l'ultime annonce de mariage, prononcée par Laodice, toujours. Cette fois sont évincés les parasites condamnant l'union à une fatale stérilité. Il n'est plus question ni d'union entre une mère et son fils, ni d'union d'imposture. L'immobilisme, le piétinement, la stérilité imposés par le tyran ne sont plus de mise. La crise tragique a permis à la situation de se débloquer. Peut désormais avoir lieu un mariage fécond, celui d'Ariarate et d'Axiane. Les annonces de mort, également au nombre de trois, marquent l'accélération finale de l'intrigue. Elles viennent se concentrer dans les deux derniers actes, régulières, comme pour mimer les battements de cœur engendrés par la tension tragique. Elles n'apparaissent en effet que tardivement dans la pièce, à partir du quatrième acte, scène II, où Phradate vient faire le récit à Laodice de la mort du dit Ariarate. Nous apprenons quatre scènes plus tard seulement la mort d'Anaxandre, au cinquième acte, scène I, puis, quatre scènes encore plus loin, la mort de Laodice. Il s'agissait de l'ultime battement de cœur, marquant la mort de la matrice dramatique, la mort définitive. Ces trois scènes se rapprochent sensiblement dans leur structure. À chaque décès, la colère du Peuple gronde en toile de fond, ou même au premier plan. Les trois morts sont provoquées par l'agitation de la foule. Elles ont donc toutes trois lieu au milieu du Peuple. Ce dernier n'est plus une somme d'individus définis et différents, il n'est plus que masse compacte, indivisible, organisme autonome, individu à lui tout seul, agi par une pulsion commune et unique, par un seul et même dessein à chaque reprise. Si nos trois personnages succombent, c'est parce qu'ils sont littéralement engloutis par cette monstrueuse masse organique. Le dit Ariarate périt à cause d'une dispute initiale entre deux chefs, mais la querelle a tôt fait de gagner les troupes. Il est alors question dans le texte d'« emportement » (v.1173), de « troupe émeuë » (v.1209), de « fatal désordre » (v.1212). Le différent se diffuse et comme en témoigne Phradate : « Malgré nous on se mesle, on se bat, on se tuë (…) / Un funeste coup  jusqu'au Prince échappé » (v.1210- 1211) met alors fin à ses jours. La foule, hystérique et ne se maîtrisant plus a submergé l'imposteur. De même Phradate rapporte-t-il fidèlement la mise à mort d'Anaxandre en racontant comment : « le Peuple animé de rage et de douleur, / dans son emportement ne cherchant qu'où se prendre, / Quoy qu'ait fait Théodot s'est saisy d'Anaxandre » (v.1434, 1435, 1436) Et comment : « Sans rien examiner il l'a pris pour victime. » (v.1442) À noter le réalisme palpitant de sa peinture. Le présent a pour effet de rendre la scène, passée, aussi vivante que si elle se produisait sous les yeux des destinataires, et résout ainsi les problèmes posés par les entraves classiques. L'antéposition du discours rapporté : « *Du Prince Ariarate il faut vanger la mort* » (v.1440) Engendre également un effet de réalisme par le mime de l'immédiateté de sa perception. Nous croirions y être. Si pour sa part, c'est Laodice seule qui se donne la mort, elle agit à la demande du Peuple, « amassé » sous son balcon, et lui adressant « les plus sanglants reproches » (v. 1726). La mort dans la pièce est donc retour à un organisme originel, primitif et est toujours annoncée par Phradate, messager de l'extérieur, personnage lié, nous l'avons vu, au monde de la lumière et de la vérité, tandis que les mariages sont toujours annoncés par Laodice, maîtresse de l'intérieur, de son monde réduit, dissimulé, faux, un monde de l'ombre, où sont fomentés ces mariages factices et stériles.
+
+[132] Cette version conserve toutes les modifications de celle de G. de Luyne, sauf Diadême -> Diadéme ,  suprême -> supréme, moy ->moi, Vôtre -> vostre, Dont -> Donc, Tyrans -> Tirans, mystere -> mistere, étois -> etois, gênée -> genée
+
+[133] Sauf « être »
+
+[134] *Quand* : juste au moment où. *Quand*  a ici une nuance ironique. Il sous-entend *comme par hazard*.
+
+[135] *S'interesse à* : prend parti politiquement pour, se passionne. En latin, *interesse* signifie *intervenir, se mettre de la partie*. On remarque que la plupart des mots voient s'affaiblir leur sens à mesure qu'ils vieillissent.
+
+[136] *prévenir* : devancer.
+
+[137] *resout* : désigne.
+
+[138] *armé pour sa querelle* : dans un combat pour Rome.
+
+[139] Anciennes provinces d'Asie Mineure. « La Cappadoce était bornée au nord par le Pont-Euxin, au levant par l'Arménie Mineure, et à l'Occident par la Galatie, au midi le Mont Taurus la séparait de la Cilicie. » selon le dictionnaire de Trevoux.
+
+[140] *Se flate* : se donne l'espoir.
+
+[141] Aujourd'hui, on dirait plûtot *ait sauvé*, la donnée étant virtuelle.
+
+[142] C'est à dire : la certitude peu fondée de sa vie.
+
+[143] *En balance* : en suspens.
+
+[144] *Ennuyé* : agité.
+
+[145] * Apas* : charmes (au sens fort).
+
+[146] *traits* : blessures d'amour.
+
+[147] C'est à dire : la flamme,l'ardeur qu'on pense diminuer.
+
+[148] C'est à dire : leur ambition oriente leurs soins amoureux, leurs hommages.
+
+[149] *afin de l'arrêter*  : pour le retenir (pour ne pas qu'il aille se battre ailleurs).
+
+[150] *Insolence* : violence, sauvagerie.
+
+[151] *L'a formé* : l'a conçu.
+
+[152] *L'appas* : les charmes.
+
+[153] *Tribut* : Hommage.
+
+[154] C'est à dire : lui seul a permis à La Reine d'asseoir  son pouvoir .
+
+[155] Le verbe se construit aujourd' hui avec la préposition *de .*
+
+[156] *je m'observe* : je me condamne.
+
+[157] *Solliciter l'adveu des devoirs qu'il me rend* :solliciter l'autorisation de ses hommages, le fait qu'elle accepte officiellement de recevoir ses devoirs d'amoureux.
+
+[158] *Et j'ay connu souvent qu'il s'estoit répondu / Que s'il m'avoit parlé je l'avois entendu* : Le sens de ces deux vers est obscur. De deux choses l'une : il semble possible qu'une virgule ait été omise en fin de vers, après *répondu ;* dans ce cas, comprenons :  « Je me suis souvent aperçue qu'il assumait pour moi la charge de cet amour, mais que s'il  s'était déclaré, mon oreille n'aurait pas refusé de l'écouter. » La virgule permet de considérer le deuxième vers comme une complétive juxtaposée à la première et rétablit la cohérence de l'ensemble. À moins que le texte originel ne contienne une erreur de frappe, et que le plus que parfait *avois entendu* n'ait été substitué au conditionnel passé *aurois entendu.* Dans ce cas, nous pouvons comprendre : « J'ai cru remarquer souvent qu'il s'était dit en lui même que s'il m'avait parlé, je lui aurais prêté oreille. »
+
+[159] * loy* :impératif
+
+[160] *A resolu* : a décidé.
+
+[161] *Prends interêt* : se passionne, prend part au sens fort.
+
+[162] *Gloire* : honneur.
+
+[163] *Foy* est à prendre au sens  de « donner  sa foi » pour le mariage : puisqu'elle ne se marie pas, elle ne doit rien à personne.
+
+[164] *Sort* : destin.
+
+[165] *Me flate* : me charme, me séduit.
+
+[166] *L'a touché* : l'a atteint, l'a ému.
+
+[167] *Sujet* : raison.
+
+[168] *Aucuns* : Quelques. Il pouvait s'employer au pluriel.
+
+[169] *Ennuy* : violent désagrément.
+
+[170] C'est à dire : si vous me révélez l'identité de celui que vous aimez, je pourrai faire en sorte qu'il ne soit pas nommé roi.
+
+[171] *fers* : langage galant. Etat de l'amoureux soumis à sa maîtresse.
+
+[172] comprendre : ai-je droit de convoiter ce à quoi j'ose aspirer (votre amour) ?
+
+[173] *Me gesne* : me tourmente. Le sens est aujourd'hui affaibli. Au XVII*e*, on entendait par *gêne*, instrument de torture ou le supplice lui même.
+
+[174] *Ferme* : résolue.
+
+[175] *Jalouse envie* : Il s'agit d'un pléonasme puisque *envie* vient de *invidere, jalouser* en latin.
+
+[176] Comprendre : ayant cent fois pris parti pour moi.
+
+[177] *Vous fait peine* : vous donne du chagrin.
+
+[178] C'est à dire : songez aux rumeurs facheuses qui courront sur la Reyne.
+
+[179] * Chacun le publia* : On le rendit publique.
+
+[180] C'est à dire : Elle s'est armée contre son propre sang, celui du Diadême, du Roi, donc de ses Fils.
+
+[181] *Attentat* : Outrage ou violence qu'on tâche de faire à quelqu'un. (Furetière)
+
+[182] *pressante* : imperieuse.
+
+[183] *Le conserve* : le sauve.
+
+[184] *De l'envie* : des jalousies.
+
+[185] *Advis* : nouvelle.
+
+[186] Cette réplique révèle que Phradate s'est mis à genoux au v.325
+
+[187] *Ce zele* : cette ardeur, cet empressement.
+
+[188] *J'ai éprouvé* : j'ai appris par expèrience.
+
+[189] *Apas* est ici à prendre au sens actuel d'appater.
+
+[190] Il tait la vérité jusqu'au moment où il aura la preuve qu'Oronte seul éveille des sentiments en elle.
+
+[191] *Prend grand soin de* : met beaucoup d'efforts à.
+
+[192] *Vous faire sa Cour* : vous flatter par ses assiduités, témoigner son respect.
+
+[193] *Asseurance* : Sureté.
+
+[194] *me flate* : me séduit.
+
+[195] *foudre* : désigne au masculin le faisceau de dards de feu, en zigzags, qui était l'attribut de Jupiter.
+
+[196] *Il est beau* : il est vain.
+
+[197] *Foy* : parole.
+
+[198] C'est par Rome (le pouvoir de Rome) qu'ils ont cru pouvoir me contraindre à faire un choix.
+
+[199] comprendre : mais je n'attendrai pas de voir arriver ce que je devrais craindre si…
+
+[200] *Si je fais part* : si je partage.
+
+[201] *Ma Creature* :ma chose, ma propre création, mon produit.
+
+[202] Si aujourd'hui cela n'est plus le cas, *aimer* pouvait se construire avec *de* ou *à* et l'infinitif au XVII*e*.
+
+[203] *Quand* : tandis que. Valeur temporelle à nuance concessive.
+
+[204] *Cette Reyne des Rois* : Rome qui commande aux rois.
+
+[205] *Sur* : en se fondant sur.
+
+[206] *Decevant* : trompeur, illusoire.
+
+[207] *Je feindray*  : je dirai faussement .
+
+[208] Il s'agit d'un ne expletif. Le seuil de la négation est à peine franchi. Le sens de la phrase ne change pas si on le supprime.
+
+[209] Le sens de ces vers est incompréhensible.
+
+[210] *exact* : fidèle, consciencieux.
+
+[211] *Tout* : entièrement ; tout à fait. 
+
+[212] *Perdre* : faire périr.
+
+[213] *Ordonner de* : décider de.
+
+[214] Comprendre : la manifestation de cet orgueil.
+
+[215] *T'explique* : te révèle, te fait connaître.
+
+[216] * De* : sens latin. au sujet de.
+
+[217] *Fiere* : terrible, cruelle.
+
+[218] *Politique* :méthode, calcul intéressé.
+
+[219] Nous dirions : « oserais-je t'avouer ».
+
+[220] *dispose* : règle.
+
+[221] * charme* : enchantement qui tient du sortilège.
+
+[222] *inquiete* : agitée, remuante, fiévreuse. Contrairement à aujourd'hui, l'adjectif se rapproche davantage du sens originel latin de ce qui va à l'encontre du repos, de la quiétude.
+
+[223] *Aux flatteuses douceurs* : aux plaisirs illusoires.
+
+[224] *Toucher* : lui inspirer de l'amour.
+
+[225] *Soins* : attentions.
+
+[226] *Intelligence* : accord, entente.
+
+[227] *Superbes* : orgueilleux.
+
+[228] C'est à dire : caresse  leur entreprise d'un espoir de succès
+
+[229] *Resoudre* : décider.
+
+[230] Construction latine. Le verbe *être* est sous entendu dans la srtucture profonde de la complétive comme souvent  pour les infinitives latines.
+
+[231] *Un interest* : une question qui me touche intimement.
+
+[232] *Tout ce que je regarde* : tout ce dont je me préoccupe.
+
+[233] *Tendresse* : inclination, tendance.
+
+[234] *Que j'attends* : que je retarde.
+
+[235] *Prévenu* : habité.
+
+[236] *Ce que* : ainsi que , comme. Cette construction est aujourd'hui inusitée. La proposition n'aurait plus même nature : il ne s'agirait plus d'une relative mais d'une circonstancielle comparative.
+
+[237] *Remplis* : satisfaits.
+
+[238] Tel que jusqu'ici vous avez appris à me connaître.
+
+[239] que vous *obligiez* : que vous excitiez, que vous attiriez.
+
+[240] Comprendre : ne me fier qu'à vous, ne me reposer que sur vous.
+
+[241] *Je la presse* : je tente de la contraindre.
+
+[242] *Par l'interest* : à cause de ce qui concerne.
+
+[243] *Vous fait peine* : vous chagrine.
+
+[244] *Eclat* : bruit.
+
+[245] *Où je me vois* : où je me trouve.
+
+[246] *Gloire* : mérite.
+
+[247] *Zele* : ardeur. 
+
+[248] *vous explique* : vous découvre.
+
+[249] C'est à dire : puisque le parti de votre fils est le seul qui vous passionne.
+
+[250] *Fort* : important, considérable.
+
+[251] *Votre sort* : votre situation.
+
+[252] *connoistre* : savoir.
+
+[253] *Aura droit* : aura raison.
+
+[254] *Souffrir* : supporter.
+
+[255] *Votre témerité* : votre insolence.
+
+[256] *Ce que je dois* : quelles obligations j'ai envers.
+
+[257] *A ma gloire* : à mon amour propre.
+
+[258] *Vous en croire* : suivre votre impulsion.
+
+[259] *Un heureux* : un chanceux.
+
+[260] *L'appuy* : le soutien.
+
+[261] *Murmure* : proteste secrètement contre.
+
+[262] *Vous flate* : vous entretient.
+
+[263] *Passe* : dépasse, va au delà de.
+
+[264] *Foy* : loyauté.
+
+[265] *me flate* : m'entretient dans l'espérance trompeuse de.
+
+[266] *je n'entreprendray pas sur* : je n'empiéterai pas sur.
+
+[267] *Eclaircira* : nous informera.
+
+[268] *Sa foy* : sa main.
+
+[269] J*'en prends peu d'alarmes* : je m'alarme peu.
+
+[270] C'est à dire : je vous plains si le choix du Trône est ce qui importe avant tout à vos yeux.
+
+[271] *Décevant* : trompeur, illusoire.
+
+[272] *C'est par lui seul* : c'est grâce à lui seul.
+
+[273] *Remplir* : occuper.
+
+[274] *Qui de nous s'en met le plus en peine* : qui de nous en est le plus chagriné
+
+[275] *vous connoistre* : vous savoir.
+
+[276] *J'eusse receu* : j'eusse accepté.
+
+[277] *Flatez-vous* : imaginez jouir.
+
+[278] *Qu'anime* : que pousse.
+
+[279] *N'oyant* : n'entendant.
+
+[280] *Hautement* : orgueilleusement.
+
+[281] *Miseres* :malheurs.
+
+[282] *Insolent* : téméraire.
+
+[283] C'est à dire : au risque de perdre ce Fourbe. Nous dirions aujourd'hui *au peril*.
+
+[284] *Nature* : Cf.v. 462.
+
+[285] C'est donc ce qu'il a cru. Explique son silence pendant la scène.
+
+[286] *D'observer* : de surveiller.
+
+[287] *genereux* : noble.
+
+[288] *me frape* : me touche.
+
+[289] *ce doux appas* : ce charme extrême.
+
+[290] *Ma gloire* : mon honneur.
+
+[291] *Sa foy* : ses engagements.
+
+[292] *Murmurer* : contester, désapprouver.
+
+[293] *Me resoudre* : me décider.
+
+[294] *Pressoit* : poussait impèrieusement.
+
+[295] *Pour les tourner* : parcequ'il les tournait. Suivi de l'infinitif présent, *pour* avait une valeur causale.
+
+[296] *Charmes* : sorte d'enchantement, influence mysterieuse.
+
+[297] *Sous* : par.
+
+[298] *par là* : à cause de cela.
+
+[299] C'est à dire : crois -tu devoir rougir de regretter de perdre mon coeur ?
+
+[300] C'est à dire : ce que je me plait à penser.
+
+[301] *Que* : Du fait que.
+
+[302] *Ce dégoust* : celui d'Axiane envers Ariarate.
+
+[303] *Sans murmure* : sans protestation.
+
+[304] *Me flate* : me séduise.
+
+[305] *Douceur* :  cf.v.145.
+
+[306] *Eclatantes* : indéniables, remarquables.
+
+[307] *Il prend soin* : il veille sur .
+
+[308] C'est à dire : A tout ce que ce doux espoir vous a fait mettre en œuvre jusqu'ici.
+
+[309] *vous me souffrez* : vous me permettez.
+
+[310] *J'aurai soin que* : je veillerai à ce que.
+
+[311] *Sa foy* : son devouement.
+
+[312] *Parlera de* : dira ce que.
+
+[313] C'est à dire : j'attendais pour vous révéler.
+
+[314] Sobriété après les transports lyriques de la précédente tirade. Résignation.
+
+[315] *Soins* : efforts.
+
+[316] *Trahis* : vains.
+
+[317] *Soufrir* : tolérer.
+
+[318] *Nous faire part des fers* : nous tenir dans les fers.
+
+[319] *aveu* : approbation.
+
+[320] *Connoistre* : reconnaître.
+
+[321] *Douteux* : incertain.
+
+[322] *Sa foy* : sa parole.
+
+[323] *Son sort* : son existence .
+
+[324] *deputant vers moi* : m'envoyant un représentant.
+
+[325] *connoistre* : savoir.
+
+[326] *Par quel rare motif* : pour quelle étrange raison.
+
+[327] *C'est à dire* : Aquilius va plus vite que prévu. Cf le v. 318.
+
+[328] *S'animer* : s'irriter.
+
+[329] Leur Politique.
+
+[330] *Qui s'explique* : qui se découvre, qui se met à jour.
+
+[331] *Si* : aussi.
+
+[332] *forcée* : obligée.
+
+[333] *S'arme* : prenne les armes.
+
+[334] C'est à dire : pour vous faire périr, ou selon ce qu'il (ce fils) décidera de faire, me faire la loi…
+
+[335] *irriter* : faire outrage, provoquer.
+
+[336] *qu'il endure* : qu'il accepte.
+
+[337] *Il armera* : il préparera les armes.
+
+[338] *Vous faisant* : vous nommant.
+
+[339] *Vous trouveray-je* : vous estimerai-je.
+
+[340] *Vostre soin* : vos scrupules.
+
+[341] C'est à dire : parce qu'il vient de plus loin.
+
+[342] *Me fait peine* : me chagrine.
+
+[343] *Ma seureté* : ma sécurité.
+
+[344] *Je souffre* : je supporte.
+
+[345] C'est à dire : vers lequel toutes mes pensées intimes sont portées.
+
+[346] *Et quand* : et si. Valeur hypothétique.
+
+[347] *de resoudre* : de décider. Au XVII*e* siècle, le verbe s'emploie absolument.
+
+[348] C'est à dire : Vous vous laissée allée à vos égarements, vous sous laissée posséder par la violence de vos émotions.
+
+[349] *Aussy bien* : il est vrai que.
+
+[350] *L'ame* : le cœur.
+
+[351] *tendre* : délicate.
+
+[352] C'est à dire : vous me jugerez une fois que vous connaîtrez mes motivations profondes.
+
+[353] *Concluë* : décidée.
+
+[354] *Aspect* : vue.
+
+[355] vous ne pouvez avoir d'autres ennemis.
+
+[356] *Soufrez* : acceptez.
+
+[357] Quelle que soit votre motivation, quel que soit ce qui vous pousse à agir ainsi.
+
+[358] *En faveur de* : en profitant de.
+
+[359] *A la face du Ciel* : devant les yeux du Ciel.
+
+[360] *Quand* : même si.
+
+[361] Vu ce qu'il sait de moi, je ne pourrai pas lui faire confiance.
+
+[362] C'est à dire : même si j'étais totalement certaine.
+
+[363] *En ma puissance* : sous ma domination.
+
+[364] Son sort : son destin.
+
+[365] *à poursuivre* : à chercher à provoquer.
+
+[366] Pour ne plus le vouloir.
+
+[367] Quel camps vous choisissez.
+
+[368] *Vous fait peine* : vous chagrine.
+
+[369] *En presse un autre* : amène fatalement à un autre.
+
+[370] *A quoi je me resous* : ce que j'ai décidé.
+
+[371] Sobriété après les transports lyriques de la précédente tirade. Résignation.
+
+[372] Au nom de ce dévouement pour vous tant de fois mis en œuvre.
+
+[373] *Par moy* : grâce à moi.
+
+[374] *Arbitre* : maître.
+
+[375] *Dans le besoin* : dans une occasion critique, quand la chose est le plus nécessaire.
+
+[376] Au moment où Oronte est sorti avec vous.
+
+[377] *Contraindre* : réprimer.
+
+[378] *Vostre ennuy* : votre souffrance, agitation.
+
+[379] qui s'est pû renforcer au Trône par le crime.
+
+[380] *Qu'on l'opprime* : qu'on le renverse.
+
+[381] *Et quand* : et même si.
+
+[382] Ils : les Romains. Autant qu'ils auront de soupçons justifiés.
+
+[383] Seul le sacrifice de vos jours lui assurera sa sécurité.
+
+[384] Le refus d'Oronte.
+
+[385] *faire éclat* : faire scandale.
+
+[386] Dont il sait le prix qu'il a pour moi.
+
+[387] Comprendre : A l'encontre de ce pour quoi je me bats.
+
+[388] *Dur* : douloureux.
+
+[389] Au XVII*e* siècle, forcer se construisait avec *à*.
+
+[390] *L'amorce* : la séduction.
+
+[391] *J'embrasse* : je me charge de.
+
+[392] *Confus* : incertain.
+
+[393] *Soûpirs* : plaintes.
+
+[394] *D'ennuys* : de tourments.
+
+[395] *D'alarme* : de dangers.
+
+[396] *Les rangs* : les escadrons. Cf le v. 1192.
+
+[397] *Confus* : multiples, désordonnés.
+
+[398] * On a fait son pouvoir* : on a fait son possible.
+
+[399] *Se mettre en estat de* : se disposer à.
+
+[400] *Sous* : faisant suite, accompagnant.
+
+[401] Vêtus de leurs plus beaux atours. Fastueusement vêtus.
+
+[402] *S'acquiter de* : rendre, donner.
+
+[403] *Gros* : troupe nombreuse.
+
+[404] *Foy* : dévouement.
+
+[405] *C'est lors* : c'est alors.
+
+[406] *Un interêt de gloire* : une question de préséance.
+
+[407] *On se mesle* : on engage le combat.
+
+[408] Comprendre : Elle a les mêmes droits que moi par le sang.
+
+[409] *Où* : contre quoi. Cf.v.102.
+
+[410] *Résolu* : prévu, décidé.
+
+[411] *Le traitent de coupable* : le traitent comme s'il était le coupable.
+
+[412] *Ferme* : sûr, droit, loyal.
+
+[413] *Ce que l'on en publie* : ce qui en est dit publiquement.
+
+[414] *Le peignent* : le font paraître coupable.
+
+[415] *Souffrir* : supporter.
+
+[416] *Pressant* : impèrieux.
+
+[417] C'est a dire : quelque chose qui vous tient manifestement à cœur.
+
+[418] *Un sort* : une situation.
+
+[419] *De mauvais yeux* : un jugement malveillant, mal fondé.
+
+[420] *Qu'on t'excuse* : qu'on prend ta défense.
+
+[421] *Qui s'épand* : qui se répand.
+
+[422] *Superbe* : digne d'orgueil.
+
+[423] Nous dirions *de croire*.
+
+[424] *Ce qu'on publie* : ce qu'on rend public.
+
+[425] *S'explique* : se manifeste, se montre.
+
+[426] *Votre fermeté* : votre force.
+
+[427] *Pour sçavoir* : pour connaître.
+
+[428] *Ennuis* : sens fort. Tourments.
+
+[429] *L'interest* : le parti.
+
+[430] *S'appreste* : se pépare.
+
+[431] *L'éclat* : le fait que ce trouble éclate.
+
+[432] *Pressants* : alarmants.
+
+[433] *Qu'* : avant que.
+
+[434] *Sous* : sous votre autorité.
+
+[435] *D'en murmurer* : de protester.
+
+[436] *Quand* : si.
+
+[437] *Suivez* : executez.
+
+[438] *Lui déferer* : lui obéir.
+
+[439] *L'averer* : le prouver, rétablir la vérité.
+
+[440] *Qu'on me réponde* : qu'on m'obéisse.
+
+[441] *Mon ame* : mes sentiments.
+
+[442] *Vers* : envers.
+
+[443] *D'appuy* : de soutien.
+
+[444] *A la fourbe* : par le recours à la fourberie, à la malhonnêteté.
+
+[445] *Interessée* : décidée, tenant fermement à.
+
+[446] Cette didascalie semble comporter une erreur : c'est Phradate qui , selon le v. 1406 devrait sortir ici.
+
+[447] *L'aveu* : l'autorisation.
+
+[448] il voudra s'y opposer mais en vain.
+
+[449] Décide de cela.
+
+[450] *Ordonnez de* : disposez de, donnez des ordres à votre guise.
+
+[451] Le peuple.
+
+[452] *ses transports* : ses emportements, ses élans.
+
+[453] *Le flate* : le berce.
+
+[454] *Un feint Ariarate* : un faux Ariarate.
+
+[455] *Qu'il connoît* : qu'il se rend compte, qu'il comprend.
+
+[456] Sous vous : sous votre autorité.
+
+[457] *L'artifice* : l'adresse, l'art.
+
+[458] *elle règle* : elle décide.
+
+[459] *Gênée* : embarrassée.
+
+[460] *Soufrir* : supporter.
+
+[461] *Estonnons* : sens fort. Ebranlons, bouleversons, prenons violemment de cours.
+
+[462] *Fiers* : cruels, noirs.
+
+[463] Nous dirions *l'ardeur pour le diadême*.
+
+[464] Que je suis forcé d'écouter.
+
+[465] *Dédie* : désavoue.
+
+[466] *Me découvririez-vous* : me feriez vous part de.
+
+[467] *Par où* : comment, par quel moyen.
+
+[468] *Défiance* : soupçon.
+
+[469] *S'asseurant sur moi* : me faisant confiance.
+
+[470] *Mon cœur* : mes pensées intimes.
+
+[471] *Vous ayant flaté* : vous ayant donné l'espoir de.
+
+[472] *Rares* : étranges ou extraordinaires ou grandes, louables.
+
+[473] *Descendre* : vous abaisser.
+
+[474] *Ont pris soin* : ont veillé.
+
+[475] *Dégagée* : libérée.
+
+[476] *M'oste* : me retire, m'arrache, me délivre.
+
+[477] C'est à dire : dont l'ardeur triomphe de moi.
+
+[478] *Déguiser* : cacher.
+
+[479] Comprendre : N'ose donner un sens à mon destin.
+
+[480] C'est à dire : Sont impuissants à la séduire, à la fléchir.
+
+[481] *Vous l'etonnez* : vous la bouleversez.
+
+[482] *Devoirs* : hommages.
+
+[483] Comprendre : Le défi de celui qui éliminera l'autre le plus rapidement.
+
+[484] *Transport* : égarement.
+
+[485] *Vœux* : désirs.
+
+[486] C'est à dire : ont été complices de mon couroux.
+
+[487] *De tout ce qu'il resout* : de tout ce qu'il décide.
+
+[488] *Le prétendre* : revendiquer cela.
+
+[489] De l'ardeur.
+
+[490] L'orgueil qui fit trompher son ambition de son ardeur, de son amour.
+
+[491] * fer* : arme blanche. Epée ou poignard.
+
+[492] *ce tendre caractère* : la trace de cette inclination.
+
+[493] *M'animer* : me pousser. Terme qui revient assez souvent. Les personnages sont habités par leurs passions, aliénés par elles , agis par elles.
+
+[494] veut décider de  votre vie.
+
+[495] *faites* : épousez.
+
+[496] *Vôtre seureté* : votre sécurité.
+
+[497] Autrement que.
+
+[498] Si elle le voit dans les bras d'une autre femme, sa haine pourrait revenir.
+
+[499] *Asseurons* : mettons en sécurité, préservons.
+
+[500] *Vôtre sort* : votre destin.
+
+[501] Allusion à leur précédent dialogue.
+
+[502] *flateuse* : trompeuse.
+
+[503] Je séduisais.
+
+[504] *Dans un pareil sort* : dans une telle situation.
+
+[505] * pressé* : insisté.
+
+[506] *Ton* : timbre.
+
+[507] *Ce qui m'est dëu* : ce qui me reste à faire.
+
+[508] *Maximes* : principes.
+
+[509] *Saisie* : en possession.
+
+[510] Nous dirions : elle est tombée.
+
+[511] *A terminé son sort* : a mis fin à ses jours.

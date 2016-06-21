@@ -16,25 +16,25 @@ A PARIS, Chez PIERRE PROMÉ, sur le Quay Des Grands Augustins, à la Charité. M
 Édition critique établie par Cécile Gervais dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2005).
 
 
-# Commentaire critique
+# Commentaire critique.
 
 
-## Introduction
+## Introduction.
 
 Un jeune homme inconstant n'a d'autre passion que celle de la musique jusqu'au jour où, séduit par les billets que lui envoie une mystérieuse dame masquée, il succombe peu à peu à l'amour. Son valet Crispin est alors chargé d'approcher l'inconnue, que son père destine au couvent. Seul plaisir que le vieillard consent à sa fille avant ce retrait du monde, les leçons de musique permettent à Crispin de se tirer de plusieurs faux-pas. Voilà le sujet que choisit Hauteroche à un moment où les premiers succès de Lully suscitent une véritable vogue musicale ; le retrait récent de Villiers – créateur du personnage de Philipin – permettant par ailleurs l'émergence d'une nouvelle figure de valet-vedette.
 
 
-## Noël Le Breton, sieur de Hauteroche : éléments biographiques
+## Noël Le Breton, sieur de Hauteroche : éléments biographiques.
 
 
-### La légende
+### La légende.
 
 Les études sur la vie de Hauteroche relèvent à la fois du récit romanesque et d'une étude des sources : on ne dispose que d'informations fragmentaires, et les documents attestant l'existence de ce comédien-poète ne remontent pas en amont de l'année 1654. Cette lacune est comblée par le développement d'une version invérifiable et quasi légendaire de la jeunesse de l'auteur, qui s'est transmise jusqu'au début du XX*e* siècle.
 
 Hauteroche, de son véritable nom Noël Le Breton, serait né aux alentours de 1617, hypothèse qui relève d'un consensus prêtant foi aux biographes du XVIII*e* siècle, lesquels affirment que notre auteur serait mort le 14 juillet 1707 « à l'âge de quatre-vingt dix ans [1] ». La légende brosse le tableau d'une jeunesse aisée, contrariée par une soif insatiable d'aventures et des aspirations militaires. Promis à l'achat d'une charge de conseiller au Châtelet et à un mariage arrangé avec la fille d'une amie de sa mère, Noël Le Breton fugue en Espagne dans l'espoir de s'engager. Ses espérances sont déçues, et après avoir dilapidé sa fortune au jeu dans les environs de Valladolid, il s'engage à Valence au sein d'une troupe de comédiens français qui jouait auprès du gouverneur de cette province. Certains biographes suggèrent qu'il devint par la suite lui-même responsable d'une troupe ambulante, dont le parcours le conduit jusqu'en Allemagne. Voilà ce que nous apprennent, sans faillir, toutes les biographies de l'auteur, qui suivent en cela la première version de la légende apparaissant dans les *Œuvres de M. de Hauteroche* publiées en 1772. Les libraires affirment dans leur *Avis* liminaire que le Chevalier de Mouhy a bien voulu leur transmettre ces informations, qui manquaient jusqu'alors [2]. La nature légendaire de ce récit est soulignée dans les versions ultérieures par des comparaisons ouvertement littéraires [3], et son caractère romanesque par la tendance largement psychologique des textes des XIX*e* et XX*e* siècles qui s'en font l'écho [4]. La date exacte du retour de notre comédien-poète à Paris, de même que de plus amples détails sur la chronologie de ce qui précède, manquent totalement. C'est lors de ce retour à Paris que Noël Le Breton aurait adopté le pseudonyme de Hauteroche pour nom de scène.
 
 
-### Les sources accessibles
+### Les sources accessibles.
 
 Les premiers éléments fiables concernant la vie de Hauteroche datent du 1*er* avril 1654, et concernent un contrat d'association d'acteurs valable un an, pour la formation d'une troupe de comédiens de campagne sous la direction de Hauteroche lui-même. Ce contrat, signé « en la maison du S*r* de Surlis rue d'orléans Maretz du Temple », laisse apparaître un lien certain entre le comédien et cette famille. Il répertorie parmi les membres de la troupe Madeleine et Estiennette, deux des filles Desurlis, avec la promesse de recevoir la troisième, Catherine, quand celle-ci le demandera. Selon S. W. Deierkauf-Holsboer, Hauteroche aurait au préalable assuré l'apprentissage des filles Desurlis dans sa troupe de comédiens de campagne, qui aurait ainsi pu exister bien avant 1654 : Madeleine et Estiennette ont en effet été formées dans une troupe de province, qu'elles intègrent respectivement en 1652 et 1653, et dont il est probable qu'elle ait été la troupe de Hauteroche. Quant à Catherine, on sait qu'elle a intégré une troupe de ce type après la faillite de L'Illustre-Théâtre (1645), et l'hypothèse selon laquelle elle aurait déjà travaillé avec Hauteroche expliquerait la promesse faite de l'engager sans condition. Il en résulte que cette troupe aurait pu être déjà formée dans la seconde moitié des années 1640. En 1654, Hauteroche joue à Fontenay-le-Comte, où l'on retrouve l'acte de baptême du fils de Madeleine Desurlis et de Claude Jannequin sur lequel figurent les noms de l'ensemble des membres de la troupe.
 
@@ -43,7 +43,7 @@ Les premiers éléments fiables concernant la vie de Hauteroche datent du 1*er* 
 Hauteroche se retire en 1684, date à laquelle il cède sa part à Raisin l'Aîné et à M*lle* Raisin contre un paiement de 300 louis d'or [10]. Il touche alors en tant qu'ancien acteur une pension de 1000 livres, qu'il semble avoir améliorée en se livrant aux activités de spéculateur immobilier et de créancier : la rente annuelle qui lui venait de ses débiteurs dépassait celle reçue pour sa carrière [11]. Même après son retrait, Hauteroche conserve occasionnellement son statut d'auteur, qu'il délaisse définitivement en 1690, sans doute en raison d'une cécité naissante. À partir de 1694 c'est en effet sa femme, Jaqueline Le Sueur, qui signe pour lui les documents avec cette précision : « … a cause de l'infirmité & perte de veüe du Sieur dautroche mon éspoux » [12]. Les *Œuvres de M. de Hauteroche* sont publiées de façon posthume en 1736, en trois volumes imprimés par Pierre Jean Ribou à Paris. Il sera réédité en 1742, puis en 1772.
 
 
-## Circonstances de création et carrière de Crispin musicien
+## Circonstances de création et carrière de Crispin musicien.
 
 Donnée à l'Hôtel de Bourgogne, la première représentation de la pièce eut lieu le 5 juillet 1674. Hauteroche met sur scène Raymond Poisson dans son personnage de Crispin pour la troisième fois, après *Crispin médecin* (1670) et *Le Deuil* (1672). La réussite de la première de ces deux pièces avait incité la troupe à la reprendre pour l'année 1673, quelques mois après la création du *Malade imaginaire* de Molière, sur la scène concurrente du Palais-Royal. Son succès ne s'était alors pas démenti ; le compte-rendu de la gazette hebdomadaire de Robinet, le 5 août 1673, en témoigne :
 
@@ -104,7 +104,7 @@ Poisson (…) fit remettre cette comédie en 1735 au moment des premiers et bril
 En 1733, Rameau entame en effet tardivement – il est alors âgé de 50 ans – sa carrière opératique avec *Hippolyte et Aricie*, sur un livret de l'Abbé Pellegrin, représenté la même année à l'Académie royale de musique. Jusqu'en 1749, il écrira six œuvres de musique dramatique : l'année de reprise de notre pièce coïncide avec la date de création de son unique opéra-ballet *Les Indes Galantes* (23 août 1735 [27]). Du point de vue de la forme, Rameau s'inscrit dans le sillage laissé par Lully et la tragédie lyrique. Mais il se trouve placé entre deux feux dans la querelle qui débat du primat de la musique française sur la musique italienne. Cette dernière, si Lully l'avait maintenue sous sa coupe, n'avait pas pour autant disparu. Elle perdurait ainsi dans certains « foyers d'italianisme » comme Saint-André-des-Arts, dont le curé Nicolas Mathieu tenait chaque semaine un concert de musique italienne et collectionnait des partitions de ce style. Après la mort de Lully en 1687, la vogue italienne gagne en importance et, par réaction, le compositeur est élevé de façon posthume au rang de symbole du style français. Le travail de Rameau sur l'orchestration et son harmonie, qui incluait certains accords considérés comme « italiens » et que Lully n'employait pas, en fait le champion de tous ceux qui prennent parti pour une conception italianisante de la musique dramatique. Le débat est celui de la place de l'élément musical dans l'opéra : dès 1733, Rameau émancipe la musique du texte, et confère à l'orchestre un véritable statut dramatique (tempêtes, orages, etc.). La querelle des « lullistes » et des « ramistes » se manifeste par un important échange de libelles de part et d'autre. La vogue de *Crispin musicien* tient donc bien, pour une large part, à son caractère de « pièce de circonstance » : ses plus grands succès, en 1674 puis en 1735, sont liés aux passions déchaînées par l'opéra.
 
 
-## Naissance des « crispineries »
+## Naissance des « crispineries ».
 
 Considérées comme le premier jalon de la carrière de Crispin, *Crispin médecin* et *Crispin musicien* ne sont pas les premières pièces à présenter ce personnage en scène, qui possède déjà un visage aux yeux du public : celui de Raymond Poisson. Le personnage est codifié dans son costume et ses jeux de visage : il porte un costume entièrement noir, une fraise blanche et de hautes bottes jaunes (cf. annexe p. 62). Le jeu qui l'accompagne comporte une part de convention liée au physique de Raymond Poisson, qui interprétait le personnage avec force roulements d'yeux et avec des jeux de bouche. Le simple nom de Crispin est présent dans le théâtre français depuis *L'Ecolier de Salamanque* de Scarron (1651), il est repris du Crispinillo que l'on trouve dans le théâtre espagnol dès 1641 [28]. Le valet s'émancipe très rapidement de son modèle avec le déclin de la vogue espagnole dans le théâtre français, et devient le valet le plus représenté à la fin du XVII*e* siècle : on en connaît 38 apparitions au total, 15 entre 1661 et 1673, puis 23 entre 1674 et 1700 [29]. Par sa popularité dans le dernier quart du XVII*e* siècle, le personnage de Crispin possède une figure mouvante, si tant est que, comme le note J. Emelina [30], « lorsqu'un nom se met à proliférer dans les distributions ou dans les titres, il en découle presque inévitablement un manque d'homogénéité du personnage ». Crispin possède cependant, avant Hauteroche, deux physionomies principales : celle que lui donne Du Perche dans *L'Ambassadeur d'Afrique* (1666), et qui sera développée par Régnard et Lesage, de fourbe aux intentions patibulaires poussé par l'intérêt et l'ambition ; l'autre de fourbe maladroit et poltron – A. Ross Curtis fait dériver ce trait du personnage de son origine espagnole [31]. La première est marginale, comme le note Gérard Gouvernet :
 
@@ -162,12 +162,12 @@ L'invention de la ruse qui permet aux personnages de se tirer d'affaire à la fi
 
 
 
-### De Crispin médecin à Crispin musicien
+### De Crispin médecin à Crispin musicien.
 
 Les deux pièces de Hauteroche possèdent une intrigue semblable, et conventionnelle : un jeune homme est amoureux d'une jeune fille qu'il ne peut approcher, et il emploie son valet comme intermédiaire afin de lui faire parvenir des billets galants. Celui-ci, tombant nez à nez avec le père de la jeune fille, doit endosser une fausse identité pour se tirer d'affaire.
 
 
-### Résumé de la pièce
+### Résumé de la pièce.
 
 Acte I. Au logis de l'inconstant Phélonte, La Ronce et six autres laquais répètent une pièce de musique commandée par leur maître (1), alors que le valet Crispin rêve et se lamente sur ses amours (2), maudissant les allées et venues des domestiques qui le harcèlent de questions (3-6). Phélonte apparaît enfin et se met au clavecin (7), demandant à entendre un air, puis une pièce instrumentale (8 et 9). Resté seul en scène avec Crispin, il interroge ce dernier sur la bizarrerie de sa conduite, s'appuyant sur la menace de coups de bâton (10), mais s'interrompt à l'arrivée de Mélante. Les deux amis courtisent sans le savoir deux sœurs, Lise et Daphnis, que leur père, Dorame, compte enfermer au couvent pour faire bénéficier son fils unique de l'argent de leur dots. Mélante s'est discrédité auprès du vieillard, qui a découvert son amour pour Lise, et il vient demander à Phélonte l'autorisation d'organiser chez lui un rendez-vous avec la jeune fille (11). Après le départ de Mélante, l'interrogatoire du valet se poursuit (12) jusqu'à l'arrivée de Toinon, la servante des deux jeunes filles, à qui Daphnis a confié un billet pour Phélonte (13). Ce billet, qui signale au jeune homme une rupture définitive, résulte d'un complot ourdi par Crispin, Toinon et la jeune fille pour piquer au vif l'orgueil et la curiosité de l'inconstant (14). Le stratagème réussit et Phélonte, sur la proposition de Toinon, envoie Crispin en reconnaissance chez Dorame, le père de Daphnis (15 et 16).
 
@@ -202,10 +202,10 @@ Deux éléments jouent un rôle dynamique dans la séquence de *Crispin médeci
 Hauteroche a pu profiter du succès de la reprise toute récente de *Crispin médecin* pour y glisser des allusions dans sa nouvelle pièce, misant sur la présence encore fraîche de la précédente dans l'esprit des spectateurs : l'association qui s'établit entre ces deux pièces, données dans un intervalle assez court, renforcerait alors aux yeux du public la connexion entre l'auteur et le personnage. Les liens tissés entre *Crispin médecin* et *Crispin musicien* – intrigues semblables, allusions d'une pièce à l'autre et transposition de scène – contribuent à la définition d'une typologie dont Hauteroche serait l'initiateur. On remarque essentiellement une perte de dynamisme dans la conduite du sujet, ce qui s'explique aisément par la nécessité d'adapter sur cinq actes une intrigue qui avait été conçue pour trois. Le sujet initial a de plus été allégé : la nouvelle pièce fait l'économie de la rivalité entre le jeune amant et son père, qui se disputaient la même jeune fille dans *Crispin médecin*. Ayant à composer avec la même quantité d'événements (deux déplacements de Crispin chez le père des jeunes filles), mais un cadre beaucoup plus large, Hauteroche ménage dans Crispin musicien des procédés de retardement : les espaces vacants seront alors mis au service des éléments spectaculaires de la pièce, numéros comiques, déguisement, ou musique.
 
 
-## Structure de la pièce
+## Structure de la pièce.
 
 
-### Règles et retardements de l'intrigue
+### Règles et retardements de l'intrigue.
 
 La première ressource utilisée par Hauteroche pour ralentir la marche des événements est l'entorse faite à l'unité de lieu. Acquise depuis les années 1640, elle n'est délaissée que dans les pièces où le spectaculaire prend le pas sur l'illusion, c'est-à-dire les tragédies à machines et l'opéra : il s'agit bien, dans le cas d'une comédie comme celle de Hauteroche, d'une rupture d'avec la règle. Hormis le fait que cette disposition permette de présenter au spectateur une variété visuelle (minime il est vrai, puisque les deux décors représentent deux antichambres), elle impose une fragmentation de la présentation des événements, tout en permettant des phénomènes de répétition, source de retardements structurels. Hauteroche joue donc sur les moyens de communiquer des informations, en redoublant l'exposition verbale d'une situation par la scène qui en est l'illustration : il en est ainsi pour l'exposition de la situation des filles de Dorame (I, 11) par Mélante, ensuite présentée en scène (II, 1). Le retardement lié à la présence de deux lieux distincts tient aussi au fait de l'étanchéité partielle de la frontière ainsi établie : jusqu'à l'acte IV, où Phélonte devient personnage agissant, les seuls personnages à établir la liaison sont Crispin et Toinon, c'est-à-dire le couple de domestiques. Le bon déroulement de l'intrigue suppose donc d'infuser le contenu de l'acte précédent dans celui qui commence, c'est ainsi la fonction du compte-rendu de Crispin au début du troisième acte. Le dédoublement spatial permet surtout d'écrire des scènes en miroir, comme les deux duos des servantes et des philosophes (III, 7 et IV, 10), donc d'employer une même scène comique deux fois, au prix de légères variations. Enfin, il est nécessaire de faire advenir des allers-retours entre les deux logis de la pièce, qui devront eux-mêmes être légitimés lors des scènes entre Phélonte et Crispin.
 
@@ -253,7 +253,7 @@ Le Breton qui vient au quatrième Acte pour faire un message à Phelonte de la p
 Il semble cependant qu'on puisse davantage justifier ce personnage en termes de stratégie technique : l'insertion de cette scène comique permet certes de « remplir » l'acte, mais elle participe également à l'établissement d'une « chaîne de types » comiques, et crée une certaine cohérence en systématisant la présence de personnages archétypaux en scène. Les éléments hétérogènes de l'acte se fondent ainsi dans une même recherche d'effet, ce qui court-circuite les exigences du vraisemblable en déplaçant le problème. Le troisième acte devient une exhibition de l'aspect théâtral et comique de la pièce, où l'effet comique semble recouvrir une fonction coercitive. Ce procédé se retrouve à un autre niveau dans la structure de *Crispin musicien*. Il s'agit de l'usage des répétitions de situation, à l'exemple du déguisement de Crispin.
 
 
-### Un déguisement substitut de l'action
+### Un déguisement substitut de l'action.
 
 Parmi les changements de lieux et de personnages qui se font d'acte en acte, il existe un élément constant : le déguisement de Crispin, qui concourt en soi à l'unification de la pièce. Cette structure est favorisée par la nature même du déguisement des *crispineries*. Nous analyserons brièvement les caractéristiques de ce procédé, avant de voir par quelles variations Hauteroche a résolu le problème de sa répétition, et de quelle façon les différentes scènes concernées se répondent.
 
@@ -275,10 +275,10 @@ constituent à eux seuls l'action, alors même qu'ils jouent un rôle très seco
 Le procédé constitue alors l'élément fédérateur de la pièce, écrite essentiellement pour ce spectacle comme son titre l'indique. Dès lors, le reproche des frères Parfaict que nous avions cité, à propos des situations et personnages sans rapport avec le corps de la pièce, n'a pas de raison d'être – les situations comiques *forment* le corps de la pièce. Leur répétition permet à la fois d'assurer la cohérence de l'ensemble et d'offrir au spectateur des variations dans leur mise en œuvre, qui participent d'une esthétique spectaculaire.
 
 
-### Répétitions et variations des séquences de déguisement
+### Répétitions et variations des séquences de déguisement.
 
 
-#### II, 8 et IV,12 : une variation dynamique
+#### II, 8 et IV,12 : une variation dynamique.
 
 Les deux scènes se présentent dans le même contexte : Crispin, seul puis accompagné de Phélonte, est surpris par le père des jeunes filles et doit se déguiser pour battre en retraite. Il n'y a donc pas de changement dans la place syntaxique du déguisement, et la variation qui s'établit tient à l'organisation interne de la scène : ces deux passages s'opposent en termes de dynamisme. Nous reprendrons ici les distinctions établies par J. Scherer pour les différents types de scènes [59]. Le déguisement de Crispin au deuxième acte appartient à celles où la tension « croît sans cesse jusqu'à une explosion » : après avoir réussi à leurrer Dorame, Crispin entre avec le musicien dans une discussion théorique qui s'échauffe et dégénère en bagarre. La scène de déguisement du quatrième acte ressortit à la deuxième catégorie de Scherer, scènes qui atteignent le maximum de tension en leur milieu avec « une montée vers ce sommet, puis une redescente qui est un apaisement ». Nous entendons ici le terme de *scène* au sens large : le problème du déguisement est amorcé à partir du moment où Crispin et Phélonte sont enfermés dans le cabinet de Dorame, le seul enjeu étant de savoir à quel moment ils seront découverts et quand le stratagème sera effectivement employé. La scène entre Dorame, Toinon et Anastase, qui commente la scène précédente après le départ des intrus, est encore un prolongement du déguisement.
 
@@ -287,7 +287,7 @@ Le corollaire de cette distinction se situe dans les moyens employés pour l'éc
 Le déguisement du quatrième acte, au contraire, repose sur une série d'ellipses : celle des deux intrus (enfermés de la scène 5 à la scène 11), celle du rôle-témoin que constituait le musicien gascon, et celle que reçoivent les questions de Dorame une fois Crispin et Phélonte découverts. La prouesse du « maître de musique » réside alors dans la répétition obsessionnelle d'une ritournelle, au détriment du dialogue qui s'effondre. Alors que la scène huit de l'acte deux était régie par le principe de l'argumentation fallacieuse face à Dorame et au musicien, cette scène observe une stratégie rigoureusement opposée : les deux scènes possèdent cependant un point commun, celui d'étaler une absence complète de signification, soit dans la logorrhée théorique (II, 8), soit dans la répétition de purs morphèmes musicaux (IV, 12). Le principe du chant répondant à la parole n'est pas nouveau, il a déjà été employé dans le domaine de la farce médiévale (*Le savetier Calbain*), et plus récemment par Poison dans le *Zig-Zag*, pièce insérée dans le *Baron de la Crasse* (1661), où Hauteroche tenait un rôle. Le procédé est radicalisé, puisque le chant est ici dépourvu de paroles et ne peut donc ni répondre indirectement, ni ironiser sur la réplique précédente. Le déguisement de Crispin n'est pas ici, contrairement à l'acte deux, directement source de dynamisme : celui-ci réside dans les événements périphériques, les allées et venues qui ont lieu devant la porte du cabinet.
 
 
-#### II, 9 et III, 2 : un échange des rôles
+#### II, 9 et III, 2 : un échange des rôles.
 
 Lorsque le déguisement intervient chez Phélonte, au troisième et au cinquième acte, une de ses données essentielles change : le destinataire du déguisement en est également le complice. Phélonte se rapproche en effet d'un spectateur, à qui Crispin destine la démonstration de ses facultés d'imposteur. La situation est soulignée par un renversement des rôles entre les deux « musiciens ». Au troisième acte, Crispin endosse véritablement le rôle du musicien : ne courant plus aucun danger, il reprend à son compte les injures de celui-ci (« Je vous le livre aussi plein d'ignorance / Que Chantre du Pont Neuf [62] »). La disposition des personnages permet également de mettre l'accent sur le ridicule du musicien de deux façons différentes. Au deuxième acte, le comique vient de ce que le personnage emploie l'ironie dans un contexte qui rend celle-ci parfaitement inefficace : Dorame est un ignorant en musique (« cet Art est un Art dans la commune estime / Quant à moy j'en suis peu curieux [63] »), et ne peut interpréter les paroles du musicien qu'au premier degré. Il n'identifie donc pas l'imposteur, et lorsque Toinon lui demande pourquoi Angélique enverrait deux maîtres de musique, le père des jeunes filles se borne à répondre : « c'est pour en faire choix [64] ». Inversement, le musicien démasque Crispin auprès de Phélonte, quand celui-ci est à la fois destinataire et complice du déguisement : le comique naît ainsi de la relation qui s'établit entre les deux scènes, par le renversement des rôles et la réaction à contretemps du personnage du musicien. Malgré le caractère ouvertement spectaculaire de ce déguisement de Crispin, la scène conserve une « dupe » : le musicien, même s'il a décelé l'imposture de Crispin, n'est pas conscient du spectacle qui se joue à ses dépens.
 
@@ -314,10 +314,10 @@ Messieurs, allons. *Fa sol fa, la, la, la* [66].
 Si la répétition d'acte en acte du déguisement de Crispin assure la cohésion de la pièce, il ne s'agit que du procédé le plus visible du principe de répétition de scènes : Hauteroche emploie dans le même ordre d'idées des scènes qui se répondent dans un jeu de miroir : dans la pièce, la plupart des éléments vont par deux. Il s'agit soi d'un prolongement – deux scènes « du billet » (I, 13 et III, 1), deux scènes de protestations amoureuses entre Phélonte et Daphnis (IV, 4 et V, 5) – soit d'une opposition (deux interventions de « docteurs », qui donnent lieu symétriquement à deux duos de séduction amoureuse avec les servantes (III, 7 et IV, 10). Les discussions sur le problème amoureux de Crispin et Phélonte se répondent également, dans un cas c'est l'amour du valet qui est soumis à caution (« Maraut, / Aimer toy ? »), dans l'autre celui du maître (« Vous aimer ! vous ! ») [67]. Ces répétitions offrent au spectateur une palette de situations comiques, qui joue le même rôle spectaculaire que l'insertion musicale.
 
 
-## Les « ornemens » musicaux
+## Les « ornemens » musicaux.
 
 
-### Le personnel musical
+### Le personnel musical.
 
 Associée au déguisement de Crispin, la musique constitue le deuxième versant de l'esthétique spectaculaire de la pièce. En janvier 1678, le *Mercure galant* rapporte que *Crispin musicien* a été jouée « avec tous ses ornemens ». Ce terme, dans un contexte qui accorde de plus en plus d'importance au spectacle musical, recouvrait la présence au sein de la pièce d'airs et de passages instrumentaux. Toutefois, l'insertion musicale était strictement réglementée. Après 1672, et l'obtention par Lully de lettres patentes lui garantissant le monopole des représentations en musique et en vers français, les troupes de théâtre voient se restreindre les possibilités d'emploi de chanteurs ou d'instrumentistes. L'ordonnance du 30 avril 1673 n'autorise plus que le recours à deux voix et six violons. Le personnel musical de *Crispin musicien* correspond exactement à la limite fixée : l'entrée en scène des six violons dès le commencement de la pièce laisse même croire à une allusion ironique au privilège de Lully. On peut supposer que les rôles chantés sont tous tenus par les comédiens, mais que les deux chanteurs professionnels engagés dans la troupe interviennent lors du concert final, comme l'indique une réplique de Crispin :
 
@@ -334,7 +334,7 @@ sont ordinairement au nombre de six, et on choisit les plus capables. Ci-devant 
 Hauteroche insiste donc sur l'entrée en scène des violons, et leur présence visuelle pour le spectateur : ils rappellent ponctuellement le thème de la pièce, en même temps qu'ils soulignent le caractère spectaculaire de la musique. Chappuzeau affirme ici que le nombre maximal autorisé de violons était très souvent employé dans les entractes, sans doute pour tenter de mieux couvrir le bruit du changement de décor : Hauteroche ne devait donc pas être le seul à se servir de l'effectif complet des violons en cette occasion. Mais la spécificité de leur emploi réside dans le lien de cet aspect fonctionnel des violons au thème de la pièce et à ses intermèdes. Le concert de fin d'acte s'allie ainsi avec leur rôle utilitaire : les violons jouent un air avant le changement de décor, à l'issue duquel ils restent en place et remplissent le rôle qui leur est dévolu pendant qu'on pousse les fermes. Lorsqu'on passe du logis de Dorame à celui de Phélonte, c'est le contraire qui se produit : les violons, d'abord masqués par la première ferme, jouent dissimulés, jusqu'à ce que le changement de décor ait fait apparaître l'antichambre de Phélonte ; alors seulement la musique est donnée comme un spectacle. La pièce a en outre hérité de l'esthétique de la comédie-ballet le souci d'incorporer la musique des intermèdes à l'histoire (ces violons sont présentés comme les « laquais de Phélonte »). Les différentes facettes de la présence des instruments sont ainsi parfaitement homogénéisées. Il faut alors voir comme Hauteroche procède pour l'insertion de morceaux de musique à l'intérieur de la pièce : Phélonte préludant au clavecin, ou répétant une chaconne avec ses laquais.
 
 
-### Place de l'insertion musicale
+### Place de l'insertion musicale.
 
 Depuis les années 1630, l'insertion musicale dans la comédie, devenant une composante parmi d'autres de l'histoire, doit être légitimée par la nature ou la fonction d'un personnage, ou par une situation donnée. En effet, dans la tragi-comédie puis la comédie baroque, « les formes musicales et surtout les situations musicales présentes dans les pièces s'apparentent à des formes et à des situations réelles [70] ». Dans *Crispin musicien*, le simple fait que Phélonte soit un mélomane justifie d'emblée la présence de musique à l'intérieur de la trame. La pièce, qui fait preuve d'originalité en érigeant la pratique musicale en tant que thème, conserve toutefois pour ses insertions musicales l'habitude des emplacements privilégiés que sont l'ouverture et le concert final. Ces endroits de la pièce se décloisonnent cependant, que ce soit dans le cas de l'ouverture qui se mêle au début de l'exposition, ou du concert final, qui se superpose au dénouement.
 
@@ -347,7 +347,7 @@ Sur le plan de l'histoire, les airs chantés n'ont pas d'autre fonction que cell
 La plupart des airs de la pièce sont perdus : la coutume au XVII*e* siècle n'était pas de faire graver la musique de scène – simple agrément qui ne justifiait pas une pratique aussi coûteuse – à l'exception notable de la musique royale copiée par Philidor. Pour ce qui était des comédies, on pouvait utiliser des mélodies originales, mais l'habitude consistait le plus souvent à insérer dans les pièces des airs connus de tous : des timbres de vaudeville [78], sur lesquels on ajoutait de nouvelles paroles. Ces airs, qui circulaient dans Paris et en particulier sur le Pont-Neuf [79], n'étaient pas tous de même nature : il pouvait aussi bien s'agir de chansons populaires que de certains airs simples d'opéras à succès, qui venaient grossir le répertoire. Certains vaudevilles ayant survécu suffisamment pour cela ont pu être publiés dans des recueils, et réapparaissent ainsi parfois jusqu'au XVIII*e* siècle. C'est le cas de l'un des airs de *Crispin musicien*, « L'Amour cause trop de peine… [80] », qui refait surface de façon anonyme dans un *Recüeil complet de vaudevilles* publié à Paris en 1753 [81]. La publication tardive ne permet pas de savoir si l'air préexistait à la comédie de Hauteroche, ou s'il a été écrit pour la pièce (ce qui restait le plus sûr moyen d'adapter l'air au sujet) et conservé en vertu de son succès et de son maintien au répertoire. Si les autres insertions musicales de la comédie n'ont pas été conservées, cet air peut donner un indice de la nature des autres passages chantés (voir annexe p. 63) : l'écriture est particulièrement simple, et obéit à un principe syllabique. Présenté par Phélonte comme un « menüet rondeau » (v. 1760), l'air entretient une parenté rythmique avec le menuet (une écriture à trois temps avec un schéma rythmique de base qui s'étend sur deux mesures, correspondant à un pas complet de cette danse). Il possède de plus un caractère de danse grâce à une alternance rythmique de mesure à mesure. D'un point de vue expressif, la mélodie assure une illustration minimale du texte pour la partie centrale (« Un Amant souffre la gêne… ») : passage du mode majeur au mode mineur, le mot *gêne* étant plus particulièrement mis en relief puisqu'il intervient sur la note sensible. Les deux phrases mélodiques de l'air entretiennent par ailleurs une parenté qui rend l'air facilement mémorisable. On présente donc au spectateur un passage relativement bref, qu'il peut s'approprier facilement, ce qui redouble l'agrément de l'insertion musicale.
 
 
-### Les références musicales
+### Les références musicales.
 
 En 1674, la pression exercée par Lully sur les comédiens est telle que, comme le suggère Bénédicte Louvat-Molozay,
 
@@ -394,12 +394,12 @@ S'il fallait voir une satire de l'opéra dans *Crispin musicien*, ce serait plus
 Si la satire qui s'exerce contre la vogue musicale reste légère, c'est que la comédie de Hauteroche appartient encore à celles qui utilisent la musique à des fins d'agrément. Le déplacement de la musique de la fonction d'ornement à celle de thème commence tout juste : on raille « la rage de musique », mais c'est ce même engouement qui justifie encore les insertions musicales. Dans la pièce, la rupture de l'unité de lieu permet de distinguer assez nettement les espaces où la musique est source de rire (chez Dorame), de ceux où elle procure de l'agrément (chez Phélonte, l'amateur). Peut-être l'opéra de Lully est-il encore trop récent pour pouvoir générer une véritable satire, comme le suggère Bénédicte Louvat-Molozay [99]. Et rappelons que si la musique forme thème, elle n'intervient qu'en second lieu dans une comédie centrée autour de la figure de Crispin : quand le ridicule s'exerce sur le personnage du musicien, c'est avant tout sur la figure comique et typique du docte qu'il s'abat.
 
 
-## L'écriture comique dans Crispin musicien
+## L'écriture comique dans Crispin musicien.
 
 C'est pour ses aptitudes à l'écriture comique que Hauteroche a été loué, tant au XVIII*e* siècle par les frères Parfaict, que plus récemment, par Gustave Attinger dans son étude sur la *commedia dell'arte*. Dans tous les cas, Hauteroche fait l'objet de critiques pour la construction de ses pièces, et se voit en quelque sorte « rattrappé » par le caractère plaisant des insertions de scènes à effet. Attinger y trouve la véritable unité de l'œuvre de Hauteroche : « son œuvre retrouve une certaine unité que n'ont pas fait ressortir ses biographes : c'est l'unité du comique. À défaut de génie, il est comédien, il sent en comédien et n'oublie pas de faire rire [100]. » Il voit en notre auteur « un imitateur de Molière (le meilleur avant Regnard), mais du Molière farceur, du Molière italien ». Quant aux *Anecdotes dramatiques* de Clément et Laporte, elles situent le comique de l'auteur dans un registre « mitoyen, qui dégénère parfois en pure farce [101] ». Cette définition ne peut pas s'appliquer uniformément aux pièces de Hauteroche, elle répond surtout à la pièce qui a été favorisée par les critiques, et dont la carrière a le mieux perduré, c'est-à-dire *Crispin médecin*. De la farce que constitue *Crispin médecin*, Hauteroche reprend la schématisation de certains personnages et des ressources comiques. Le premier acte, nous l'avons vu, fait référence à la traditionnelle bastonnade, même si celle-ci n'est pas mise à exécution. Le deuxième acte s'achève sur une bagarre presque généralisée, où même Dorame est contraint de saisir sa hallebarde pour s'interposer entre Crispin et le musicien. Cette fin d'acte riche en mouvement rappelle une fin conventionnelle des farces, qui s'achèvent sur une indication du type « et tous se battent ». Il ne s'agit là encore que d'une menace, et que la véritable bagarre aura lieu durant l'entracte, bienséances obligent. C'est par l'utilisation systématique de « types » que le troisième acte tend à se rapprocher de la schématisation farcesque, et de *Crispin médecin* (qui délaisse largement le personnel amoureux au profit des personnages typiques  et du valet éponyme). Enfin le quatrième acte a recours au principe de la réclusion du jeune amant. Le fonctionnement même de l'intrigue, qui semble à elle seule ne pouvoir apporter qu'une répétition de son moteur principal (intrusion / déguisement / fuite), et qui nécessite l'invention du fil Boniface-Anastase pour se conclure, témoigne d'une prédominance du spectacle sur l'intrigue qui est une des caractéristiques de la farce. Mais la nouvelle pièce ne peut se maintenir entièrement dans ce registre, et nécessite quelques adaptations : les cinq actes ne permettent pas de traiter avec autant de liberté les personnages d'amant, ni de faire aussi facilement l'économie de l'intrigue amoureuse. *Crispin musicien* fait ainsi cohabiter les sources farcesques qu'elle reprend de *Crispin médecin* avec des passages issus de la comédie sentimentale, et les personnages-type avec ceux d'amant.
 
 
-### Une galerie de « types »
+### Une galerie de « types ».
 
 Dans la pièce de Hauteroche, les personnages qui sont mis au premier plan sont moins ceux du quatuor amoureux que ceux que constituent les domestiques autres personnages secondaires habituels de la comédie. Nous dirons d'abord quelques mots des premiers :
 
@@ -446,7 +446,7 @@ Les domestiques, servantes et valets, sont de même présentées selon un princi
 Cette utilisation de différentes facettes d'un rôle dans des miniatures destinées au plaisir du spectateur exhibe le genre comique et plus généralement la théâtralité de la pièce. Elle s'accompagne logiquement d'une écriture du second degré et de la parodie.
 
 
-### Parodies et détournements de l'intrigue amoureuse
+### Parodies et détournements de l'intrigue amoureuse.
 
 Le fait de mettre les valets et servantes au premier plan contribue à l'emploi privilégié d'un registre comique burlesque, qui tient à l'homogénéisation de l'intrigue amoureuse principale avec l'attribution des premiers rôles aux domestiques. Crispin joue deux rôles qui sont étrangers à sa condition : celui de musicien et celui d'amant. Dans ce dernier domaine, les domestiques prennent en charge les attitudes qui sont supposées appartenir à leurs maîtres. Le premier duo amoureux de Phélonte et Daphnis n'intervient en effet qu'au quatrième acte, et il est finalement assez peu question de cette histoire d'amour une fois l'exposition passée, à l'exception de la première scène du troisième acte. Le problème est que les personnages qui sont mis au premier plan sont traditionnellement le bras agissant des personnages d'amant, et n'ont pas pour prérogative d'assurer l'expression du sentiment amoureux. Celui-ci, jusqu'au quatrième acte, est alors transposé sur le plan des domestiques, par un jeu de scènes burlesques, de parodies et de reformulations.
 
@@ -483,7 +483,7 @@ Si j'aurois à mon tour de quoy me contenter [140].
 Façon discrète pour Crispin de dire à Phélonte qu'un mariage avec Fanchon lui ferait craindre le cocuage. La pièce se maintient ainsi dans un registre mitoyen, qui canalise les deux extrêmes que sont les débats amoureux de la comédie sentimentale (employés de façon secondaire), et la tradition de la farce que Hauteroche reprend de *Crispin médecin*.
 
 
-### Un comique verbal
+### Un comique verbal.
 
 S'ajoutant aux éléments que nous avons vus, il nous reste à examiner les autres emplois comiques que Hauteroche fait du langage. Il ne s'agit pas exactement ici de fantaisie verbale, telle que Robert Garapon l'a définie, même si par endroits on en repère quelques touches – comme la « lutinerie » raillée par Phélonte, seule création verbale de la pièce, et les tirades musicales de Crispin, qui procèdent à la fois par accumulation et par non-sens. Plus généralement, ce souci du verbe tient à la fois à la prédominance dans l'intrigue des personnages de domestiques, et à la nécessité d'insuffler de l'énergie à des scènes qui comportent peu d'action, celle-ci étant assurée principalement par le déguisement. Dans le premier cas, Hauteroche se livre essentiellement à un jeu avec les expressions figées, qui sont employées hors de leur contexte par des personnages dont la maîtrise du langage n'est pas la principale caractéristique. Le plus souvent, il s'agit d'une réactivation du sens littéral, comme dans cette réplique de Crispin :
 
@@ -527,7 +527,7 @@ Homme fou, vous plaît-il me laisser en repos ?
 Le jeu verbal de cette scène repose également sur les répétitions des protestations de Toinon et du précepteur face à la colère du vieillard (« Eh, Monsieur… » v. 1416 et 1420), alors même que c'est ce dernier, privé de toute liberté de parole, qui avait employé ces mots en premier lieu. Hauteroche reprend ce principe de répétition dans les répliques de Dorame, selon un principe de variations : « Je brûle de courroux », « Je déteste », « j'enrage » [146] – le rythme de l'enchaînement est cependant assoupli, chaque intervention de Dorame étant coupée par plusieurs vers d'un ou des deux autres personnages. Enfin la scène fait appel au vocabulaire technique de la médecine, dont les répliques d'Anastase sont remplies (« bile », « vapeur », « cerveau », « cacochimie », « humeur », « rate », « opiler », « hypocondre », « transport au cerveau ») : le langage devient ici un charabia incompréhensible, qui le détourne de sa vocation première. L'exemple type de ce procédé dans la pièce est la tirade de Crispin maître de musique, qui allie le coq-à-l'âne musical avec le changement permanent d'interlocuteur : preuve que le langage est devenu un simple numéro de virtuose, indépendamment de sa fonction de communication.
 
 
-### Les « formes spéciales » de l'écriture théâtrale
+### Les « formes spéciales » de l'écriture théâtrale.
 
 Nous examinerons brièvement pour finir l'influence de la présence d'éléments hétérogènes dans le corps d'alexandrins que constitue la pièce. Hauteroche emploie de façon répétée ce que Scherer répertorie sous le terme de « formes spéciales » de l'écriture théâtrale [147], qui s'insèrent dans une suite d'alexandrins pour leur substituer momentanément un autre rythme : il s'agit des passages chantés et des billets. Ces formes insérées altèrent et assouplissent le vers, à l'exemple de l'air inséré au milieu vers 91 : l'alexandrin est sectionné en trois fragments par l'introduction de deux passages chantés qui en rompent l'unité. Si l'on reconstitue les répliques de Phélonte en un seul et même vers, comme cela apparaît nettement à la lecture grâce au principe d'escalier qui est appliqué, il s'agit bien d'un alexandrin. Pourtant il semble évident que seul l'œil est satisfait par cette disposition, et que le rythme des douze syllabes se perd pour qui n'a pas le texte sous les yeux. Dans ce passage, c'est l'entité en heptasyllabes des deux couplets qui berce l'oreille, le texte parlé du vers ressortant alors comme une succession de trois fragments de 4, 2 et 6 syllabes respectivement.
 
@@ -551,7 +551,7 @@ la particularité de la lettre est qu'elle est … une pratique d'écriture rée
 Il s'agit quoi qu'il en soit d'une constante dans l'écriture de Hauteroche : toutes ses pièces versifiées qui incluent la lecture d'un billet témoignent de ce contraste entre vers et prose – effet de naturel qui répond à certains passages de fragmentation extrême de l'alexandrin, que l'on trouve par exemple aux vers 90 ou 275.
 
 
-## Notes sur la présente édition
+## Notes sur la présente édition.
 
 La première édition de *Crispin musicien*, établie en 1674 par le libraire Pierre Promé à Paris, Quai des Grands Augustins, a été suivie de deux rééditions du vivant de l'auteur, portant le fleuron de Jean puis Pierre Ribou, en 1680 et en 1705.
 
@@ -589,7 +589,7 @@ Nous avons travaillé d'après l'exemplaire de l'édition originale YF-7120, por
 Lors de l'établissement de la présente édition, nous avons procédé aux corrections d'usage. Nous avons supprimé le *tilde* employé tout au long du texte pour indiquer la nasalisation des voyelles *e, o* ou *a*, et avons harmonisé les points de suspension conformément aux trois points modernes. Les passages en prose (préface et billets inclus dans la pièce) ne tenant pas compte, contrairement au corps versifié du texte, de la discrimination entre les capitales I/J d'une part et U/V d'autre part, nous avons rétabli cette distinction afin d'en faciliter la lecture. En ce qui concerne les accents, la pièce respecte généralement l'usage des accents discriminatoires permettant de distinguer entre *ou* conjonction et *où* relatif, et entre *à* préposition et *a* auxiliaire. Nous n'avons donc pas eu à effectuer de corrections sur ce point à l'exception des vers 101 et 1068, où il s'agit manifestement d'une erreur typographique. Dans les passages en italiques du texte – préface et didascalies – l'accent circonflexe se substitue à l'accent aigu sur les *e*. Nous avons respecté cette particularité.
 
 
-### Liste des erreurs corrigées : coquilles
+### Liste des erreurs corrigées : coquilles.
 
 Liste des acteurs :
 
@@ -646,7 +646,7 @@ Vers 1735 : de mande
 Vers 1838 : Cà
 
 
-### Liste des erreurs corrigées : ponctuation
+### Liste des erreurs corrigées : ponctuation.
 
 Nous avons respecté la ponctuation de l'édition originale en corrigeant les erreurs manifestes :
 
@@ -662,7 +662,7 @@ Vers 1448 : En songeant à
 # CRISPIN MUSICIEN, COMEDIE.
 
 
-## PREFACE
+## PREFACE.
 
 Si l'on doit juger d'une Comedie par sa rêüssite, j'ay lieu de croire que celle-cy n'est pas des plus mêchantes. Quarante Representations de suite dans la plus mauvaise saison de l'année [151], me persuadent aisêment qu'elle n'est pas sans merite ; et à parler de bonne foy, je pense qu'un autre en ma place, auroit peine à ne pas se laisser aller à cette persuasion. Le Public, qui dêcide ordinairement de ces sortes d'Ouvrages, a paru fort content de celuy-cy : mais parmy tant de beau Monde qui l'est venu voir en foule, il s'est rencontrê de ces Critiques à outrance, qui ne luy ont pas estê si favorables. Ils ont, suivant leur chagrin naturel, condamnê plusieurs endroits de cette Comedie ; mais le succés qu'elle a eu, m'a vangê pleinement de la malignité de leur humeur critiquante. J'ai le plaisir de voir malgré eux, que sans cabale & sans aucune brigue⁎, cette Piece s'est d'elle-mesme attirêe l'estime de tout Paris, et que je n'en suis obligê qu'à l'equitê du public, et au soin de mes Camarades. Ces Messieurs les Critiques ont crû donner une grande atteinte à cette Comedie, en faisant remarquer qu'il y a peu de Sujet ; mais je ne voy pas que ce soit un grand defaut, ny que cette remarque me soit desavantageuse. Je sçais comme eux, qu'on y trouvera une duplicitê d'action ; mais je sçais bien aussi que l'action episodique est moindre que la principale, que cette duplicitê n'est pas sans liaison, et qu'il est aisê de connoistre que c'est par les Personnages episodiques [152] que le dênoüement s'en fait. On dit qu'ils m'ont fait la grace de passer legerement sur la conduite [153] ; mais qu'ils ont blâmê fortement quelques Personnages, qui selon leur censure, pouvoient estre retranchez sans rien alterer du Sujet. J'avouë qu'il y en a quelques-uns que possible [154] j'aurois pû retrancher ; mais j'ose dire qu'ils ont produit un trop bon effet dans la Piece, pour croire que je me repente jamais de les y avoir laissez : outre, qu'à considerer la chose avec un peu de réflexion, on verra que ces Personnages ne sont pas si dêtachez que ces Messieurs ont voulu se l'imaginer. Le Musicien attendu par les Filles de Dorame, inspire la pensée à Toinon de faire Crispin Maistre de Musique, pour se tirer de l'embaras où ils sont ; et cette adresse dont elle se sert en cette rencontre, donne lieu à des incidens fort agreables, qui aident beaucoup au dènoüement. Le Breton qui vient au quatrième Acte pour faire un message à Phelonte de la part de Melante son Maistre, ne rompt point le fil de l'action : il estoit de la prudence de Melante en cette occasion d'envoyer avertir Phelonte de sa venuë, afin de ne pas exposer la personne qu'il aime à la veuë des Gens que le hazard pouvoit faire rencontrer au logis de Phelonte. Pour prevenir cet inconvenient, Melante y envoye son Valet, et n'en ayant point de réponse, il y vient luy-mesme : ainsi on peut conclure que la Scene du Breton n'est pas tout-à-fait inutile, et que son Personnage est en quelque façon attaché à la Piece. A la veritè, Melante y pouvoit venir d'abord ; mais en de pareilles occurrences, un Amant n'abandonne guere sa Maitresse, particulierement lors qu'il a un Valet sur lequel il peut se reposer. Sans m'arrester à répondre à toutes les chicanes des Critiques, je diray en passant que nous avons quantitè d'exemples de ces Personnages que ces Messieurs trouvent ètrangers au Sujet, qui souvent ont fait naistre au Theatre des plaisanteries fort spirituelles. Plaute et Terence n'ont point fait de difficultè de s'en servir ; et l'Illustre Moliere, ayant suivy leurs traces, ne s'en est pas mal trouvè. Ce n'est pas que je veuille dire par là que ces exemples soient toûjours bons à suivre ; au contraire, je tiens que l'Art⁎ est un chemin bien plus certain, et que ses preceptes conduisent plus seûrement à la perfection que ne font ces sortes de libertez, quoy qu'elles ayent esté fort heureuses. Il est constant qu'on ne peut jamais déplaire avec l'Art, et qu'il est dangereux de s'ècarter de ses regles ; mais je croy qu'on est pas tout-à-fait condamnable quand en le faisant on rèüssit, et qu'on trouve le moyen de plaire, qui est le but de ce grand Art⁎.
 
@@ -693,7 +693,7 @@ Le Premier Acte se passe dans l'Antichambre de Phêlonte, où d'abord il doit y 
 
 ### SCENE PREMIERE.
 
-    LA RONCE *à ses Camarades.*
+    LA RONCE *à ses Camarades.*.
 Ses Camarades sont six Violons habillez en Laquais comme luy [157].
 
 Eh, Messieurs, un moment concertons⁎ entre nous ;  
@@ -704,9 +704,9 @@ Ils joüent l'Ouverture, & après La Ronce dit le dernier Vers, & s'en vont.
 Allons. Cela va bien ; mais plus de negligence.   
 
 
-### SCENE II
+### SCENE II.
 
-    CRISPIN *entre de l'autre costé, & apres avoir un peu resvê.*
+    CRISPIN *entre de l'autre costé, & apres avoir un peu resvê.*.
 Ah Crispin ! ah Crispin ! Quel destin rigoureux  
 T'a laissé voir Toinon, pour en estre amoureux ?  
 Que d'angoisse en aimant ! Ah Ciel, ah Destinée !  
@@ -722,123 +722,123 @@ Quoy ! tu ne peux ailleurs chercher un autre giste ?
 Peste des Importuns !  
 
 
-### SCENE III
+### SCENE III.
 LA RONCE, avec les six autres Laquais, tenant chacun un Violon, CRISPIN.
 
 
-    LA RONCE
+    LA RONCE.
         Est-il jour là-dedans ? [158]  
 
-    CRISPIN *répondant chagrinement⁎.*
+    CRISPIN *répondant chagrinement⁎.*.
 Oüy.   
 
-    LA RONCE
+    LA RONCE.
         Personne aujourd'huy ne mange-t-il ceans ?  
 
-    CRISPIN
+    CRISPIN.
 Je ne sçay.  
 
-    LA RONCE
+    LA RONCE.
     Joüerons-nous ?  
 
-    CRISPIN
+    CRISPIN.
         Hé qui vous en empesche ?  
 
-    LA RONCE
+    LA RONCE.
 Voüay ! Crispin, du matin, a l'humeur bien revesche ?  
 
-    CRISPIN
+    CRISPIN.
 Je l'ay comme il me plaist.  
 
-    LA RONCE
+    LA RONCE.
         Monsieur est-il au Lit ?  
 
-    CRISPIN
+    CRISPIN.
 Non, il est habillé.  
 
-    LA RONCE
+    LA RONCE.
     Bon : Que fait-il ?  
 
-    CRISPIN
+    CRISPIN.
         Il lit.  
 
-    LA RONCE
+    LA RONCE.
 Nous pouvons donc joüer ?  
 
-    CRISPIN
+    CRISPIN.
         Le Diable vous emporte ;  
 Joüez, ne joüez pas, tout cela ne m'importe.  
 Mais tréve aux questions [159] : Si tu m'en fais jamais…  
 
-    LA RONCE
+    LA RONCE.
 Hé bien ?   
 
 
-### SCENE IV
+### SCENE IV.
 PHELONTE, CRISPIN, Les six Laquais.
 
 
-    PHELONTE* ouvrant la porte de sa Chambre.*
+    PHELONTE* ouvrant la porte de sa Chambre.*.
     Quel bruit entens-je ?  
 
-    CRISPIN
+    CRISPIN.
         Hé ce sont vos Laquais.  
 
-    PHELONTE
+    PHELONTE.
 Qu'on se taise.  
 
-    LA RONCE
+    LA RONCE.
         Monsieur, c'est luy qui nous querelle.  
 
-    CRISPIN
+    CRISPIN.
 Je…  
 
-    PHELONTE
+    PHELONTE.
     Paix.  
 
-    LA RONCE
+    LA RONCE.
         Nous sommes prests à cette Ritournelle  
 Que vous…  
 
-    PHELONTE *rentrant.*
+    PHELONTE *rentrant.*.
         J'entens ; Allez, ce sera pour tantost⁎.   
 
 
-### SCENE V
+### SCENE V.
 CRISPIN, LA RONCE, Les six autres Laquais.
 
 
-    LA RONCE, *en raillant, apres que ses Camarades ont fait une revêrence à Crispin.*
+    LA RONCE, *en raillant, apres que ses Camarades ont fait une revêrence à Crispin.*.
 Je suis fâché…  
 
-    CRISPIN
+    CRISPIN.
     Faquin !  
 
-    LA RONCE
+    LA RONCE.
     C'est votre honneur.  
 
-    CRISPIN
+    CRISPIN.
         Maraut⁎ [160],  
 Si…  
 
-    LA RONCE
+    LA RONCE.
         Maraut⁎ ! Autrefois nous estions Camarades :  
 D'où vient donc cet orgüeil & ces foles boutades⁎ ?  
 
-    CRISPIN
+    CRISPIN.
 Point de comparaison, vois-tu, car…  
 
-    LA RONCE
+    LA RONCE.
         En effet,  
 Au nom d'Homme de Chambre on doit un grand respect.  
 
-    CRISPIN *menaçant.*
+    CRISPIN *menaçant.*.
 Fat…  
 
-    LA RONCE *luy faisant la revérence.*
+    LA RONCE *luy faisant la revérence.*.
     C'est vostre honneur.  
 
-    CRISPIN
+    CRISPIN.
         Sors, avec toute ta Clique.  
 Apres qu'ils sont sortis, il continuë.
 
@@ -848,24 +848,24 @@ Je n'entens qu'*E mi la*, qu'*F ut fa*, tout la jour,
 Que *B mol, fugue, tierce*… [161] Ah, voicy la Parleuse.   
 
 
-### SCENE VI
+### SCENE VI.
 FANCHON, CRISPIN qui saluë seulement Fanchon d'un signe de teste.
 
 
-    FANCHON
+    FANCHON.
 Bon-jour, Crispin. Toûjours dans ton humeur grondeuse ?  
 
-    CRISPIN *à part.*
+    CRISPIN *à part.*.
 Ah que je hay les Gens, qui sur les moindres cas  
 Commencent de parler, pour ne déparler⁎ pas.  
 
-    FANCHON
+    FANCHON.
 Que dis-tu ?  
 
-    CRISPIN
+    CRISPIN.
     Rien.  
 
-    FANCHON
+    FANCHON.
         Sçais-tu si Monsieur me demande ?  
 S'il n'a point à traitter⁎ quelque Gaupe⁎ friande,  
 Qui viendra, sans raison, censurer⁎ chaque Mets,  
@@ -876,18 +876,18 @@ Je sçay que tu diras, Monsieur le veut ainsi ;
 Ta raison est fort bonne, & je l'approuve aussy :  
 Le servant, tu ne dois aspirer qu'à luy plaire.  
 
-    CRISPIN
+    CRISPIN.
 Et ne le sers-tu pas, toy ?  
 
-    FANCHON
+    FANCHON.
         C'est une autre affaire ;  
 Ce que je fais pour luy, c'est par affection [162].   
 
-    CRISPIN
+    CRISPIN.
 Je ne m'oppose point à la distinction ;  
 Entre vous le debat.  
 
-    FANCHON
+    FANCHON.
         Laisse-là la sottise,  
 Aupres de moy tu sçais qu'elle n'est pas de mise ;  
 Toutes mes actions ont deû t'en informer :  
@@ -898,102 +898,102 @@ Cette Dame mal saine, au Lit depuis deux ans,
 M'oblige, quoy qu'on die [163], à demeurer ceans ;  
 D'ailleurs, la Dame morte, il en vient quelque chose.  
 
-    CRISPIN
+    CRISPIN.
 Je n'y demande rien ; qu'on se taise, ou qu'on cause…  
 
-    FANCHON
+    FANCHON.
 Pour un Garçon d'esprit, c'est répondre fort mal.  
 
-    CRISPIN
+    CRISPIN.
 Et qu'ay-je affaire aussy…  
 
-    FANCHON
+    FANCHON.
         Que tu deviens brutal !  
 
-    CRISPIN
+    CRISPIN.
 Je deviens… Laisse-moy.  
 
-    FANCHON
+    FANCHON.
         Brutaliser encore !  
 Sçais-tu que depuis peu ton bon sens s'évapore ?  
 
-    CRISPIN
+    CRISPIN.
 Qu'il s'évapore, ou non, que t'importe cela ?  
 Va-t'en étudier [164] ton *Ré mi fa sol la*,  
 Ou bien voir si la Tante…  
 
-    FANCHON
+    FANCHON.
         Hom… Ta mélancolie⁎  
 A des égaremens⁎ qui vont à la folie ;  
 Prens garde à toy, Crispin.   
 
-    CRISPIN
+    CRISPIN.
         Oh parle tout ton soû :  
 Si je te dis plus rien, qu'on me rompe le coû.  
 
-    FANCHON *mettant le bout du doigt à son front.*
+    FANCHON *mettant le bout du doigt à son front.*.
 Hom…  
 
-    CRISPIN *faisant la mesme chose par dépit.*
+    CRISPIN *faisant la mesme chose par dépit.*.
     Hom…  
 
 
-### SCENE 7
+### SCENE 7.
 PHELONTE, FANCHON, CRISPIN.
 
 
     PHELONTE *entrant*.
     Bon-jour, Fanchon.  
 
-    FANCHON *apres avoir fait une revérence.*
+    FANCHON *apres avoir fait une revérence.*.
         Hier, Monsieur vostre Frere  
 Vint avec son Pédant icy.  
 
-    PHELONTE
+    PHELONTE.
         Qu'y vint-il faire ?  
 
-    FANCHON
+    FANCHON.
 Hé, pour tâcher, Monsieur, à refaire sa paix [165].  
 
-    PHELONTE
+    PHELONTE.
 Fanchon, en sa faveur, ne me parles jamais ;  
 C'est un petit Mignon⁎ par trop incorrigible,  
 Et ma facilité⁎ luy deviendroit nuisible :  
 Qu'il demeure au College avec son Précepteur,  
 Et me laisse en repos ; autrement…  
 
-    FANCHON
+    FANCHON.
         Eh Monsieur,  
 Songez…   
 
-    PHELONTE
+    PHELONTE.
         C'est un Esprit qu'il est bon de réduire,  
 Et sur ce qu'il me doit je veux un peu l'instruire,  
 Il n'en sera que mieux : Mais viença, dy, Fanchon,  
 Sçais-tu ce Menüet [166] ?  
 
-    FANCHON
+    FANCHON.
     Oüy, Monsieur.  
 
-    PHELONTE
+    PHELONTE.
         Tout-de-bon ?  
 
-    FANCHON
+    FANCHON.
 Oüy.  
 
-    PHELONTE
+    PHELONTE.
     Mais bien ?  
 
-    FANCHON
+    FANCHON.
         Je le croy. Vous plaist-il de l'entendre ?  
 
-    PHELONTE
+    PHELONTE.
 Ah tu l'offres trop bien, pour vouloir m'en défendre [167].  
 Çà, voyons.  
 Il s'en va à son Clavessin.
 
 
-    FANCHON
+    FANCHON.
         Seulement donnez-moy vostre ton ;  
 Puis…  
 
@@ -1002,23 +1002,23 @@ Puis…
 FANCHON prélude, La, la, la, la, &c.
 
 
-    PHELONTE
+    PHELONTE.
     Fort-bien.  
 
-    FANCHON
+    FANCHON.
     Vous raillez ?  
 
-    PHELONTE
+    PHELONTE.
     Point.  
 
-    FANCHON
+    FANCHON.
     Sy.  
 
-    PHELONTE
+    PHELONTE.
         Non :  
 Allons, chante.   
 
-    FANCHON *chante.*
+    FANCHON *chante.*.
 On passe en douceur la vie,  
 Quand on aime le bon Vin :  
 Mais quand on chérit Silvie,  
@@ -1026,10 +1026,10 @@ On a souvent du chagrin.
 On passe en douceur la vie,  
 Quand on aime le bon Vin.  
 
-    PHELONTE
+    PHELONTE.
         Fort-bien.  
 
-    FANCHON *poursuit.*
+    FANCHON *poursuit.*.
 Un Beuveur, en Homme habile,  
 Conserve sa libertê ;  
 Car l'Amant le plus tranquille  
@@ -1037,108 +1037,108 @@ Est toûjours inquietê.
 Un Beuveur, en Homme habile,  
 Conserve sa liberté.  
 
-    PHELONTE
+    PHELONTE.
         Tu deviendras sçavante,  
 Si… Qu'est-ce ?  
 
 
-### SCENE 8
+### SCENE 8.
 PHELONTE, FANCHON, CRISPIN.
 
 
-    LA RONCE
+    LA RONCE.
         C'est, Monsieur, Madame vostre Tante,  
 Qui demande Fanchon.  
 
-    PHELONTE
+    PHELONTE.
         Je n'ose t'arrester⁎.  
 
-    FANCHON
+    FANCHON.
 Estes-vous content ?   
 
-    PHELONTE
+    PHELONTE.
     Fort.  
 
-    FANCHON
+    FANCHON.
         Vous voulez me flater.  
 
-    PHELONTE
+    PHELONTE.
 Point du tout ; J'ay, croy-moy, grand plaisir à t'entendre.  
 
-    FANCHON
+    FANCHON.
 C'est beaucoup pour moy.  
 
-    PHELONTE
+    PHELONTE.
         Va, ne te fais point attendre.  
 Elle s'en va.
 
 La Ronce, fay venir la Fluste, & Jolycœur [169].  
 
-    LA RONCE
+    LA RONCE.
 Faut-il qu'il ait sa Basse ?  
 
-    PHELONTE
+    PHELONTE.
     Oüy : Reviens [170].  
 
-    LA RONCE
+    LA RONCE.
         Bien, Monsieur.  
 Il touche⁎ le Clavessin [171].
 
 
 
-### SCENE 9
+### SCENE 9.
 LA FLUSTE, JOLYCOEUR, PHELONTE, LA RONCE, CRISPIN.
 
 
-    PHELONTE *apres avoir touché⁎ quelques accords.*
+    PHELONTE *apres avoir touché⁎ quelques accords.*.
 Allons, cette Chaconne [172] en *Ce sol ut*.  
 Ils joüent tous ensemble la Chaconne, & ensuite il dit.
 
         Qu'on range  
 Ce Clavessin : sortez.  
 
-    CRISPIN *à part resvant.*
+    CRISPIN *à part resvant.*.
         Amour, quel sort étrange !   
 
 
-### SCENE 10
+### SCENE 10.
 PHELONTE, CRISPIN.
 
 
-    PHELONTE* sur son siege à Crispin, apres qu'on range le Clavessin dans le fonds du Théatre.*
+    PHELONTE* sur son siege à Crispin, apres qu'on range le Clavessin dans le fonds du Théatre.*.
 Là, prendras-tu le soin d'ajuster mon Chapeau ?  
 
-    CRISPIN *luy presentant son manteau.*
+    CRISPIN *luy presentant son manteau.*.
 Le voila.  
 
-    PHELONTE
+    PHELONTE.
         Pourquoy donc m'apporter mon Manteau ?  
 
-    CRISPIN
+    CRISPIN.
 Vous me le demandez.  
 
-    PHELONTE
+    PHELONTE.
         Moy, je te le demande ?  
 
-    CRISPIN *le reportant.*
+    CRISPIN *le reportant.*.
 Oüy.  
 
-    PHELONTE
+    PHELONTE.
         Peut-on soûtenir imposture⁎ plus grande ?  
 Quoy ! Tu continuëras à me faire enrager ?  
 Aujourd'huy, d'avec moy, songe à déménager⁎ ;  
 Autrement, mille coups feront ta récompense.  
 
-    CRISPIN
+    CRISPIN.
 Eh Monsieur !  
 
-    PHELONTE
+    PHELONTE.
     Quoy, Monsieur ?  
 
-    CRISPIN
+    CRISPIN.
         Un peu de patience.  
 
-    PHELONTE
+    PHELONTE.
 Un peu de patience ! Eh Monsieur le Coquin,  
 Depuis un mois & plus, qu'il faut, soir & matin,  
 Qu'à tes égaremens⁎ ma bonté fasse grace,  
@@ -1151,62 +1151,62 @@ Un peu de patience ? Ah c'en est trop souffrir,
 Que l'on sorte au plutost, & sans plus discourir ;  
 Sinon…  
 
-    CRISPIN
+    CRISPIN.
     Monsieur, de grace…  
 
-    PHELONTE
+    PHELONTE.
         Hé bien, que veux-tu dire ?  
 
-    CRISPIN
+    CRISPIN.
 C'est que je sens un mal… qui tous les jours empire.  
 Si vous sçaviez… Ah, ah.  
 
-    PHELONTE
+    PHELONTE.
         Si je prens un Baston [173],  
 Je pourray t'obliger à prendre un autre ton :  
 Crains de pousser à bout ma patience extréme.  
 Qu'as-tu donc ? Parle, ou bien…  
 
-    CRISPIN
+    CRISPIN.
         Eh Monsieur, c'est que j'aime :  
 L'Amour, depuis un mois, me fait devenir fou,  
 Nuit & jour je soûpire, & dors moins qu'un Hibou ;  
 Enfin j'en sens, Monsieur, une peine cruelle.  
 
-    PHELONTE
+    PHELONTE.
 L'Amour, me dites-vous, vous trouble la cervelle ?  
 
-    CRISPIN
+    CRISPIN.
 Oüy, Monsieur, cet amour a sur moy tout pouvoir,  
 Et c'est luy qui me fait oublier mon devoir.  
 
-    PHELONTE
+    PHELONTE.
 Ah ! Puisque cet Amour est si peu raisonnable,  
 Je veux, pour le punir, te frotter comme un Diable,  
 A grands coups redoublez le chasser de chez toy.  
 
-    CRISPIN
+    CRISPIN.
 Hé Monsieur, de ce mal faut-il se prendre à moy ?   
 
-    PHELONTE
+    PHELONTE.
 A qui donc, traistre, à qui veux-tu que je m'en prenne,  
 Dis ?  
 
-    CRISPIN
+    CRISPIN.
         A ce chien d'Amour, qui sans cesse m'entraîne,  
 Vers l'Objet⁎ dont mon cœur est embrasé…  
 
-    PHELONTE
+    PHELONTE.
         Maraut⁎,  
 Aimer, toy ?  
 
-    CRISPIN
+    CRISPIN.
         Mon bon sens, Monsieur, a fait le saut [174].  
 
-    PHELONTE
+    PHELONTE.
 Et pourquoy donc d'aimer as-tu l'extravagance⁎ ?  
 
-    CRISPIN *recite ce couplet à peu pres comme un baston rompu.*
+    CRISPIN *recite ce couplet à peu pres comme un baston rompu.*.
 Eh l'on aime souvent lors que moins on y pense ;  
 L'Amour, ce petit Dieu, se glisse dans le cœur,  
 Et sans nous consulter, il s'en rend le vainqueur.  
@@ -1221,28 +1221,28 @@ Ce cœur avec plaisir succombe malgré soy,
 Et cette passion d'une ame grande… & haute…  
 Enfin vous voyez bien que ce n'est pas ma faute.  
 
-    PHELONTE
+    PHELONTE.
 Où diable a-t-il donc pris tout ce langage-là ?  
 
-    CRISPIN
+    CRISPIN.
 Les Amans parlent-ils autrement que cela ?  
 
-    PHELONTE
+    PHELONTE.
 Il a pris ces grands mots dans quelque Comédie [175].   
 
-    CRISPIN
+    CRISPIN.
 Il est vray, j'en ay leu plus de cent en ma vie ;  
 Mais l'Amour, de luy-méme est un grand Précepteur,  
 Il sçait faire parler un Fat en Orateur ;  
 Le plus grossier par luy manque peu d'éloquence.  
 
-    PHELONTE
+    PHELONTE.
 Et par luy le plus sage est plein d'extravagance⁎ ;  
 Par luy je voy cent Fous que j'ay peine à souffrir ;  
 Sans plus me raisonner⁎, qu'on pense à s'en guerir,  
 Ou les coups de Baston t'iront rendre visite.  
 
-    CRISPIN
+    CRISPIN.
 Eh Monsieur, d'un tel soin⁎ de grand cœur je les quitte [176],  
 Leur visite est mal propre aux Gens qui sont Amans⁎,  
 Morbleu, si de l'Amour vous sentiez les tourmens⁎,  
@@ -1250,17 +1250,17 @@ Pour l'Objet inconnu de vos galanteries⁎,
 A qui vous en contez les soirs aux Tuileries [177],  
 Vous verriez…  
 
-    PHELONTE
+    PHELONTE.
     Que verrois-je ?  
 
-    CRISPIN
+    CRISPIN.
         Eh vous verriez, Monsieur,  
 Quel Lutin est l'Amour, quand il est dans un cœur.  
 
-    PHELONTE
+    PHELONTE.
 Je me ris des effets de sa Lutinerie [178].  
 
-    CRISPIN
+    CRISPIN.
 Tout-franc, ne tournez point la chose en raillerie :  
 Apres que contre luy l'on a bien regimbé,  
 Souvent on est contraint de venir à jubé [179] ;  
@@ -1268,86 +1268,86 @@ Et si je m'y connoy, cette Dame masquée,
 Qui sur vos doux propos ne s'est point expliquée,  
 Peut enfin…  
 
-    PHELONTE
+    PHELONTE.
         De mon cœur je viens toûjours à bout.  
 
-    CRISPIN
+    CRISPIN.
 Mais il ne faut qu'un jour, Monsieur, pour payer tout.   
 
-    PHELONTE
+    PHELONTE.
 Je crains peu…  
 
-    CRISPIN
+    CRISPIN.
         Cependant vous la courrez⁎ : Peut-estre  
 Vous y verray-je pris, car l'Amour est bien traistre ;  
 La Dame a de l'esprit, & pourra vous toucher.  
 
-    PHELONTE
+    PHELONTE.
 Mais toûjours sous un masque elle aime à se cacher ;  
 Par là je la crois laide [180].  
 
-    CRISPIN
+    CRISPIN.
         Et si, comme il peut estre [181],  
 Quand sans masque à vos yeux elle voudra parestre,  
 Vous luy trouviez autant de beauté que d'esprit,  
 Hem ? Vous ne dites mot. Sa Suivante m'a dit  
 Qu'elle est belle, archibelle.  
 
-    PHELONTE
+    PHELONTE.
         Et tu vois la Suivante,  
 Quand tu luy parles ?  
 
-    CRISPIN
+    CRISPIN.
         Oüy, tous les soirs c'est ma rente :  
 Tandis que sa maistresse, & vous, parlez tout bas,  
 Elle leve la coëffe, & ne se cache pas.  
 
-    PHELONTE
+    PHELONTE.
 Ne la connois-tu point ?  
 
-    CRISPIN
+    CRISPIN.
         Non. En vain je la presse  
 De m'apprendre son nom, & quelle est sa Maistresse ;  
 Vous estes si connu pour un Coquet⁎ errant,  
 Qu'offert de tous costez, personne ne vous prend :  
 Mais pour moy je suis pris, je sens qu'Amour m'opresse.  
 
-    PHELONTE
+    PHELONTE.
 Est-ce que tu prétens extravaguer⁎ sans cesse ?  
 
-    CRISPIN
+    CRISPIN.
 Monsieur, l'Amour peut-il…   
 
-    PHELONTE
+    PHELONTE.
         Ecoute, si jamais  
 Tu me viens étourdir de ton amour…  
 
-    CRISPIN
+    CRISPIN.
         La paix [182],  
 Monsieur, quoy que l'Amour…  
 
-    PHELONTE *en colere.*
+    PHELONTE *en colere.*.
     Encor ?  
 
-    CRISPIN
+    CRISPIN.
         Je vay me taire,  
 C'est fait.  
 
 
-### SCENE 11
+### SCENE 11.
 MELANTE, PHELONTE, CRISPIN.
 
 
-    MELANTE *entrant.*
+    MELANTE *entrant.*.
         Qu'a donc Phélonte à se mettre en colere ?  
 
-    PHELONTE
+    PHELONTE.
 Ah Melante, c'est toy.  
 
-    MELANTE
+    MELANTE.
         Tu querelles Crispin.  
 
-    PHELONTE
+    PHELONTE.
 Et comment ne le pas quereller ? Le Faquin⁎  
 S'est mis l'amour en teste, & depuis ce caprice,  
 Il fait tout de travers, pas le moindre service,  
@@ -1362,67 +1362,67 @@ Il semble estre toûjours dans une létargie,
 Enfin : si je luy parle, il ne m'écoute pas ;  
 Et le Diable est en haut, quand on le croit en bas.  
 
-    MELANTE
+    MELANTE.
 Toûjours de ce Valet, tu vantois le service.  
 
-    PHELONTE
+    PHELONTE.
 Alors qu'il faisoit bien, je luy rendois justice ;  
 Mais depuis que l'Amour luy renverse l'esprit,  
 Il sert mal, & souvent il ne sait ce qu'il dit.  
 
-    MELANTE
+    MELANTE.
 Je le plains, si l'Amour à ce point le possede.  
 
-    PHELONTE
+    PHELONTE.
 D'un mal si chagrinant⁎, je sçay bien le remede ;  
 Le Baston…  
 
-    CRISPIN
+    CRISPIN.
         Le Baston, Monsieur ? Quelle pitié !  
 Pour avoir le cœur tendre, & de bonne amitié⁎,  
 On veut que sur mon dos la Bastonnade jouë.  
 
-    MELANTE
+    MELANTE.
 Tu le blâmes d'aimer, mais pour moy je l'en louë ;  
 Comme je suis Amant⁎, je prens ses intérests.  
 
-    PHELONTE *riant.*
+    PHELONTE *riant.*.
 Amant !  
 
-    MELANTE
+    MELANTE.
         Tu me vois fou, toy qui n'aimas jamais.  
 
-    PHELONTE
+    PHELONTE.
 Moy, j'aime comme il faut.  
 
-    MELANTE
+    MELANTE.
     Quel amour !  
 
-    PHELONTE
+    PHELONTE.
         Tres-commode.   
 
-    MELANTE
+    MELANTE.
 Aimer en mille endroits…  
 
-    PHELONTE
+    PHELONTE.
         C'est la bonne méthode ;  
 Par elle je me fais un plaisir assez doux.  
 
-    MELANTE
+    MELANTE.
 Le véritable amour ne dépend point de nous.  
 
-    PHELONTE
+    PHELONTE.
 Belle excuse aux Amans !  
 
-    MELANTE
+    MELANTE.
         Laissons cette matiere,  
 Et me dis si je puis te faire une priere ;  
 Ma flame en ton secours met son plus doux espoir.  
 
-    PHELONTE
+    PHELONTE.
 Parle, je t'offre tout, & tu n'as qu'à vouloir.  
 
-    MELANTE
+    MELANTE.
 Je te l'ay déjà dit, aprouve, ou blâme, j'aime,  
 Et la Beauté pour qui mon amour est extréme  
 Vit sous les loix d'un Pere, opulent, plein d'honneur,  
@@ -1435,424 +1435,424 @@ Mais à dissimuler son adresse est extréme.
 Son Pere a découvert cependant que je l'aime,  
 Et c'est ce qui nous met tous deux dans l'embarras.  
 
-    PHELONTE
+    PHELONTE.
 Quelle est cette Beauté ?  
 
-    MELANTE
+    MELANTE.
         Tu ne la connois pas.  
 
-    PHELONTE
+    PHELONTE.
 Pour toy, que puis-je donc ?   
 
-    MELANTE
+    MELANTE.
         Elle vient de m'ecrire,  
 Qu'elle a sur nostre amour quelque chose à me dire,  
 Que je choisisse un Lieu propre à cet entretien :  
 Mon Logis est suspect…  
 
-    PHELONTE
+    PHELONTE.
         Eh dispose du mien,  
 Il est à toy, pourveu qu'elle veüille s'y rendre ;  
 A toute heure, en tout temps, tu peux venir l'attendre,  
 Je t'en laisse le Maistre.  
 
-    MELANTE
+    MELANTE.
         Ah c'est trop m'obliger,  
 L'entreveuë au plutost m'importe à ménager [184] ;  
 Et puis que tu consens que mon amour se serve…  
 
-    PHELONTE
+    PHELONTE.
 Je n'ay rien qui ne soit à toy, c'est sans reserve.  
 
-    MELANTE
+    MELANTE.
 Je te devrois icy mille remercîmens ;  
 Mais tu pardonneras à mes empressemens.  
 Adieu, je cours en haste où leur cause m'appelle.  
 
-    PHELONTE
+    PHELONTE.
 Donne ordre au rendez-vous, & compte sur mon zele⁎.  
 
-    MELANTE
+    MELANTE.
 Si le mien peut jamais trouver lieu d'éclater…  
 
-    PHELONTE
+    PHELONTE.
 Je pense qu'avec moy tu veux complimenter⁎ ?  
 L'amitié le défend, & s'en fait un outrage.  
 Il sort.
  
 
 
-### SCENE 12
+### SCENE 12.
 PHELONTE, CRISPIN.
 
 
-    PHELONTE
+    PHELONTE.
 Hé bien, peut-on sçavoir quel objet⁎ vous engage ?  
 Parlez, Monsieur l'Amant ? C'est, sans doute, Fanchon.  
 
-    CRISPIN
+    CRISPIN.
 Quoy, la Fanchon d'icy ?  
 
-    PHELONTE
+    PHELONTE.
     Quelle donc ? oüy.  
 
-    CRISPIN
+    CRISPIN.
         Non, non.  
 
-    PHELONTE
+    PHELONTE.
 Ne vaut-elle pas bien que pour elle on soûpire ?  
 
-    CRISPIN
+    CRISPIN.
 Je suis son Serviteur, Monsieur, c'est tout vous dire.  
 
-    PHELONTE
+    PHELONTE.
 Elle ne te plaist pas ?  
 
-    CRISPIN
+    CRISPIN.
     Eh…  
 
-    PHELONTE
+    PHELONTE.
         Tu luy fais affront,  
 Elle est aimable⁎.  
 
-    CRISPIN
+    CRISPIN.
         Oüy ; mais j'ay grand soin de mon front.  
 
-    PHELONTE
+    PHELONTE.
 Du costé de Fanchon, ton front n'a rien à craindre.   
 
-    CRISPIN
+    CRISPIN.
 Vous sçavez bien que si, Monsieur, que sert de feindre ?  
 
-    PHELONTE
+    PHELONTE.
 Quoy ! Tu refuserois de te voir son Epoux ?  
 
-    CRISPIN
+    CRISPIN.
 Oüy.  
 
-    PHELONTE
+    PHELONTE.
     D'où vient ?  
 
-    CRISPIN
+    CRISPIN.
         Eh Monsieur, qui le sçait mieux que vous ?  
 
-    PHELONTE
+    PHELONTE.
 Moy, je le sçay ?  
 
-    CRISPIN
+    CRISPIN.
     Vous.  
 
-    PHELONTE
+    PHELONTE.
     Moy ?  
 
-    CRISPIN
+    CRISPIN.
     Vous-mesme.  
 
-    PHELONTE
+    PHELONTE.
         Mais que sçay-je ?  
 
-    CRISPIN
+    CRISPIN.
 Vous avez sur Fanchon un certain privilege…  
 Privilege fâcheux pour son futur Epoux.  
 Cela me déplairoit, je le dis entre nous.  
 
-    PHELONTE
+    PHELONTE.
 Si j'estime Fanchon, c'est parce qu'elle chante.  
 
-    CRISPIN
+    CRISPIN.
 Vous estes content d'elle, elle est de vous contente,  
 Et vos contentemens m'obligent à douter,  
 Si j'aurois à mon tour dequoy me contenter.  
 
-    PHELONTE
+    PHELONTE.
 Et qui donc aimes-tu ? Quelque sotte Figure.  
 
-    CRISPIN
+    CRISPIN.
 Rien moins, & je hazarde à la grosse avanture [185],  
 Car la Beauté… Monsieur, avant qu'il en soit temps,  
 Ne me demandez rien.  
 
-    PHELONTE
+    PHELONTE.
         Ah ma foy, je prétens,  
 Si je souffre de toy, qu'au moins…  
 
-    CRISPIN
+    CRISPIN.
         Tournez la veuë.  
 
-    PHELONTE
+    PHELONTE.
 Qu'est-ce ?  
 
-    CRISPIN
+    CRISPIN.
         On vient de la part de la dame inconnuë.  
 
-    PHELONTE
+    PHELONTE.
 C'est donc là sa Suivante ?  
 
-    CRISPIN
+    CRISPIN.
     Elle-mesme.  
 
-    PHELONTE
+    PHELONTE.
         Crispin,  
 Qu'en crois-tu ?  
 
-    CRISPIN
+    CRISPIN.
     Je ne sçay.  
 
-    PHELONTE
+    PHELONTE.
         Sçachons quelle est sa fin.  
 
 
-### SCENE 13
+### SCENE 13.
 PHELONTE, CRISPIN, TOINON.
 
 
-    PHELONTE
+    PHELONTE.
 Qui t'améne ? & que veut ta charmante Maîtresse ?  
 
     TOINON *masquée* [186].
 Vous me reconnoissez !   
 
-    PHELONTE
+    PHELONTE.
     Vrayment…  
 
-    TOINON
+    TOINON.
         J'ay charge expresse,  
 De ne donner qu'à vous le Billet que voicy,  
 Et là-dessus bon-soir.  
 
-    PHELONTE
+    PHELONTE.
         Quoy ! Me quitter ainsy,  
 Sans avoir la Réponce ?  
 
-    TOINON
+    TOINON.
         On n'en demande aucune.  
 
-    PHELONTE
+    PHELONTE.
 Point de Réponce ?  
 
-    TOINON
+    TOINON.
     Non.  
 
-    CRISPIN
+    CRISPIN.
         Ma Chere, sans rancune,  
 Mon Maistre veut écrire, &…  
 
-    TOINON
+    TOINON.
         Tout seroit perdu,  
 Si je portois Réponce, on me l'a défendu.  
 Lisez.  
 
-    PHELONTE
+    PHELONTE.
         Auparavant, souffrez que je vous voye.  
 
-    TOINON
+    TOINON.
 Non, Monsieur, ce n'est pas pour cela qu'on m'envoye.  
 
-    PHELONTE
+    PHELONTE.
 Ne me refusez point.  
 
-    TOINON
+    TOINON.
         Et qu'y gagnerez-vous ?  
 Je vous suis inconnuë.  
 
-    PHELONTE *voulant oster son Masque.*
+    PHELONTE *voulant oster son Masque.*.
     Il n'importe.   
 
-    TOINON
+    TOINON.
         Ah tout-doux,  
 Il ne faut point user de tant de violence.  
 
-    PHELONTE
+    PHELONTE.
 Te cacher ainsy faite !  
 
-    TOINON
+    TOINON.
         Ah point de complaisance ;  
 Je sçay bien qu'il en est de plus sotte que moy,  
 Mais aussy…  
 
-    PHELONTE
+    PHELONTE.
         Ta Maistresse est-elle comme toy ?  
 
-    TOINON
+    TOINON.
 Comme moy ? C'est un Ange, & rien n'aproche d'elle ;  
 Des traits doux, achevez, l'œil beau, la bouche belle…  
 
-    PHELONTE
+    PHELONTE.
 Tout-de-bon ?  
 
-    TOINON
+    TOINON.
         Tout-de-bon ; mais lisez promptement,  
 Ou…  
 
-    PHELONTE
+    PHELONTE.
         Je vais satisfaire à ton empressement.  
 
-    PHELONTE *lit.*
+    PHELONTE *lit.*.
 Ne vous donnez plus la peine de me venir chercher aux Tuileries, car je vous assure que vous ne m'y trouverez pas davantage. C'est assez pour moy d'avoir pû meriter quinze jours durant vos assiduitez : ce m'est une gloire qui n'est pas petite, & je n'en attendois pas tant d'un Homme dont le cœur a toûjours esté sans amour. Je veux bien vous dire que tout le monde blâme vostre insensibilitê pour nostre sexe, & que cela fait dire des choses de vous qui ne sont pas à vostre avantage. Vous devez, pour vostre gloire⁎, faire reflexion sur ce que je vous écris, & profiter des avis sincéres que vous donne une Personne qui sent pour vous une forte estime⁎. Adieu pour toûjours.
 La résolution est assez surprenante :  
 Un Adieu pour toûjours !  
 
-    TOINON
+    TOINON.
         Elle est vostre Servante.  
 
-    PHELONTE
+    PHELONTE.
 Ne me plus voir ! En quoy luy puis-je avoir déplû ?  
 Qu'ay-je fait ? Qu'ay-je dit ?…  
 
-    TOINON
+    TOINON.
         C'est autant de conclu.  
 Se fiëra-t-on à vous, quand on sçait que vous estes  
 Le Protestant [187] banal de toutes les Coquettes⁎?  
 Et que si par hazard un cœur se rend à vous,  
 Aussi-tost le mépris…  
 
-    PHELONTE
+    PHELONTE.
         D'accord ; mais, entre nous,  
 Je sens pour ta Maistresse une sincére flâme.  
 
-    TOINON
+    TOINON.
 Quoy ! Sans voir, à l'Amour vous livreriez vostre ame ?  
 
-    PHELONTE
+    PHELONTE.
 L'Esprit est un grand charme⁎ ; elle en a tant !  
 
-    TOINON
+    TOINON.
         Assez  
 Pour refuser des vœux un peu trop dispercez.  
 
-    PHELONTE
+    PHELONTE.
 M'estime⁎-t-elle un peu ?  
 
-    TOINON
+    TOINON.
         Je n'en fais point de doute ;  
 Je sçay que vous plaisez alors qu'on vous écoute.  
 
-    PHELONTE
+    PHELONTE.
 De grace, charge-toy d'un Billet de ma part ;  
 Mon cœur, par ce Billet, s'expliquera sans fard⁎.  
 
-    TOINON
+    TOINON.
 J'ay l'ordre du contraire, il faut que j'obeïsse.   
 
-    PHELONTE
+    PHELONTE.
 Cet obstiné refus est rempli d'injustice.  
 
-    TOINON
+    TOINON.
 Quel plaisir auriez-vous à me faire gronder ?  
 
-    CRISPIN
+    CRISPIN.
 Bon ! Est-ce de si pres qu'il y faut regarder ?  
 
-    TOINON
+    TOINON.
 Chacun sçait ce qu'il sçait.  
 
-    CRISPIN
+    CRISPIN.
         Est-on perdu pour lire…  
 
-    TOINON
+    TOINON.
 Mais…  
 
-    CRISPIN
+    CRISPIN.
         Je l'arresteray, Monsieur, allez écrire.  
 
-    PHELONTE
+    PHELONTE.
 Deux mots ; Dans un moment je te viens retrouver.  
 
 
-### SCENE 14
+### SCENE 14.
 CRISPIN, TOINON.
 
 
-    CRISPIN
+    CRISPIN.
 Toinon, cela va bien, il ne faut qu'achever.  
 
-    TOINON
+    TOINON.
 Va, laisse-m'en le soin.  
 
-    CRISPIN
+    CRISPIN.
         Il ne s'attendoit guére  
 Au brusque compliment⁎ que tu luy viens de faire ;  
 Car il est de luy-mesme à tel point entesté…  
 
-    TOINON
+    TOINON.
 S'il sçavoit qu'entre nous le tout est concerté,  
 Que tu viens en secret parler à ma Maistresse…   
 
-    CRISPIN
+    CRISPIN.
 Par où le deviner ? Il faut qu'avec adresse  
 Elle luy donne enfin le moyen de la voir.  
 
-    TOINON
+    TOINON.
 L'occasion viendra, laisse-nous y pourvoir.  
 
-    CRISPIN
+    CRISPIN.
 S'il en tient une fois, j'auray bien lieu de rire ;  
 Il me traitte de fou, quand d'amour je soûpire,  
 Et toûjours le Baston est prest à me guérir.  
 
-    TOINON
+    TOINON.
 Quoy ! Tu dis nos secrets, & vas nous découvrir ?  
 
-    CRISPIN
+    CRISPIN.
 Moy, je le dis ?  
 
-    TOINON
+    TOINON.
         Tu viens de t'accuser toy-mesme.  
 
-    CRISPIN
+    CRISPIN.
 Il me sçait amoureux, sans sçavoir que je t'aime :  
 Mais, Toinon, apprens-moy jusqu'où le cœur t'en dit.  
 
-    TOINON
+    TOINON.
 As-tu bien de l'amour ?  
 
-    CRISPIN
+    CRISPIN.
         Ma foy, j'en pers l'esprit ;  
 Et je croy que bientost, si tu n'y remedies,  
 J'auray le cerveau creux.  
 
-    TOINON
+    TOINON.
     Ah !  
 
-    CRISPIN
+    CRISPIN.
         Quoy que tu m'en dies [188],  
 L'Amour qui se délecte à grapiller souvent,  
 Ne trouve point son compte à se nourrir de vent.  
 
-    TOINON
+    TOINON.
 Ton amour est gourmand ?   
 
-    CRISPIN
+    CRISPIN.
         Si gourmand qu'il puisse estre,  
 Tu n'as que trop dequoy fournir à le repaistre ;  
 Mais quand il faut donner, l'avarice te tient,  
 Friponne.  
 
-    TOINON
+    TOINON.
         St. Voicy ton Maistre qui revient.  
 
 
-### SCENE 15
+### SCENE 15.
 PHELONTE, CRISPIN, TOINON.
 
 
-    PHELONTE
+    PHELONTE.
 En donnant ce Billet, assure ta Maistresse…  
 
-    TOINON
+    TOINON.
 Moy, répondre de vous, qu'on voit changer sans cesse ?  
 
-    PHELONTE
+    PHELONTE.
 Tu ne hazardes rien, agis, parles pour moy.  
 
-    TOINON
+    TOINON.
 J'y feray de mon mieux.  
 
-    PHELONTE
+    PHELONTE.
         Je n'espere qu'en toy.  
 Et son nom ?  
 
-    TOINON
+    TOINON.
         Là-dessus je n'ose vous rien dire ;  
 Mais Crispin est adroit, & cela doit suffire :  
 Ma Maistresse m'attend dans son Apartement⁎,  
@@ -1863,46 +1863,46 @@ Et quand, pour le chasser, on joüeroit du Baston,
 Il aura veu la Dame, & sçaura la Maison,  
 Le reste vous regarde.  
 
-    CRISPIN
+    CRISPIN.
         Et par bon privilege,  
 J'auray vers moy les coups, peste ?  
 
-    PHELONTE 
+    PHELONTE.
         Que te diray-je,  
 Pour te faire assez voir…  
 
-    TOINON
+    TOINON.
         Ne me dites plus rien,  
 On m'attend, & j'ay trop prolongé l'entretien ;  
 J'en seray querellée. Adieu.  
 
 
-### SCENE 16
+### SCENE 16.
 PHELONTE, CRISPIN.
 
 
-    PHELONTE
+    PHELONTE.
         Crispin, va viste,  
 Suy-là.  
 
-    CRISPIN
+    CRISPIN.
         Si vous vouliez [189], Monsieur, m'en tenir quitte…  
 
-    PHELONTE
+    PHELONTE.
 Pourquoy ?  
 
-    CRISPIN
+    CRISPIN.
         Puis que l'amour est fadaise pour vous,  
 A quoy bon…  
 
-    PHELONTE
+    PHELONTE.
     Suy, te dis-je, ou…   
 
-    CRISPIN
+    CRISPIN.
         Les Amans⁎ sont fous ;  
 Vous ne voudriez pas…  
 
-    PHELONTE
+    PHELONTE.
         Redoute ma colere.  
 Crispin sort.
 
@@ -1917,44 +1917,44 @@ Phélonte se retirant, ses six Laquais entrent par les deux costez du fonds du T
  
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 DORAME, LISE, TOINON.
 
 
-    DORAME
+    DORAME.
 Vous allez au Convent [192], pour voir vostre Cousine ?  
 
-    LISE
+    LISE.
 Oüy, mon Pere.  
 
-    DORAME
+    DORAME.
     Fort-bien.  
 
-    LISE
+    LISE.
         Si cela vous chagrine⁎,  
 Je n'iray pas.  
 
-    DORAME
+    DORAME.
         Non, non, allez, c'est fort bien fait,  
 Et cette volonté répond à mon souhait.  
 De combien d'embarras le Cloistre nous délivre !  
 Lise, vostre Cousine, est un modele à suivre.  
 
-    LISE
+    LISE.
 Il est vray ; mais il faut pour la Religion,  
 Ressentir dans le cœur de la vocation ;  
 Je n'en sens point encor.   
 
-    DORAME
+    DORAME.
         Que le Ciel te l'envoye !  
 Te voir dans un Convent feroit toute ma joye :  
 Si ta Sœur & Toinon en vouloient faire autant,  
 Je vivrois satisfait, & je mourrois content.  
 
-    TOINON
+    TOINON.
 A suivre cet avis, je ne suis pas fort preste ;  
 Vous n'avez plus, Monsieur, que le Convent en teste,  
 Vous voulez tout cloistrer ; & qui vous en croiroit,  
@@ -1966,10 +1966,10 @@ Je ne suis pas d'humeur à le laisser périr ;
 D'avoir un bon Mary, j'ay tentation grande,  
 Et, tout-franc, du Convent je ne suis point friande.  
 
-    DORAME
+    DORAME.
 C'est parler sans façon.  
 
-    TOINON
+    TOINON.
         Vous nous en contez bien !  
 Parce que maintenant vous n'estes bon à rien,  
 Et que tous les plaisirs n'ont pour vous aucun charme⁎ ;  
@@ -1979,36 +1979,36 @@ Et sans avoir mal-fait, doit on se repentir ?
 Dans vostre jeune temps, l'Hymen a sçeu vous plaire,  
 On veut vous imiter, Monsieur, laissez-nous faire.  
 
-    DORAME *riotant⁎.*
+    DORAME *riotant⁎.*.
 La franchise, Toinon, regne dans tes discours.  
 
-    TOINON
+    TOINON.
 Monsieur, comme je fus, je veux estre toujours :  
 Je dis franc ma pensée, & je fuis la grimace⁎ ;  
 Ce que je sens dans l'ame, on le voit sur ma face ;  
 Et sans fourber⁎ les Gens par un discours trompeur,  
 Je fais voir sur mon front ce que j'ay dans le cœur.  
 
-    DORAME
+    DORAME.
 Mais il est bon d'avoir un peu de retenuë.  
 
-    TOINON
+    TOINON.
 Eh pour ce que je suis je veux estre connuë :  
 Tout-franc, ne parlez plus de la Religion,  
 Et n'y fourez aucun sans inclination.  
 
-    LISE
+    LISE.
 La contrainte en ces lieux enfante le desordre.  
 
-    TOINON
+    TOINON.
 Ma foy, je donnerois bien du fil à retordre  
 Aux Gens qui m'auroient mis en ce Lieu malgré moy.  
 
-    DORAME
+    DORAME.
 Va, cesse d'en jurer, il suffit, je te crois :  
 Le serment en cela n'est pas fort nécessaire.  
 
-    TOINON
+    TOINON.
 Ha vrayment, là-dessus, voila bien du mystere.  
 Je croy qu'on peut jurer, quand on dit verité :  
 Mais je veux vous parler avec sincérité.  
@@ -2020,7 +2020,7 @@ Que pour son intérest, vos Filles non pourveuës,
 Pour la Religion vous font avoir des veuës ;  
 Et que pour l'avancer, vous voulez les cloistrer.  
 
-    DORAME
+    DORAME.
 Dans le fond de mon cœur on sçait mal penétrer !  
 Je presche le Convent, mais c'est dans la pensée  
 Que l'ame, en ce Lieu saint, est bien moins traversée [193],  
@@ -2030,47 +2030,47 @@ Retenez ce discours, profitez en, ma Fille,
 Allez.   
 
 
-### SCENE II
+### SCENE II.
 DORAME, TOINON.
 
 
-    TOINON
+    TOINON.
         Vous souhaitez qu'elle épouse une Grille,  
 Franchement ?  
 
-    DORAME
+    DORAME.
     Fais-je mal ?  
 
-    TOINON
+    TOINON.
         Mais faut-il, pour un Fils,  
 Cloistrer ainsi…  
 
-    DORAME
+    DORAME.
         Tay-toy ; C'est un Enfant soûmis,  
 Que je sçauray tourner en sortant du College.  
 
-    TOINON
+    TOINON.
 Cloistrer les gens par force, est un pur sacrilege :  
 Pensez-y bien, Monsieur, souvent on se repent ;  
 La raison le condamne, & le Ciel le défend.  
 
-    DORAME
+    DORAME.
 Mon Fils est un Garçon que tout le Monde admire.  
 
-    TOINON
+    TOINON.
 Sur vos Filles aussy je ne voy rien à dire ;  
 Il leur manque un Epoux, c'est là tout leur defaut.  
 
-    DORAME
+    DORAME.
 Il leur manque… Toinon, je sçay ce qu'il leur faut.  
 
-    TOINON
+    TOINON.
 Il leur faut un Epoux, c'est le plus nécessaire.  
 
-    DORAME
+    DORAME.
 Il leur faut… Je le sçay ; Ce n'est pas ton affaire.   
 
-    TOINON
+    TOINON.
 Non ; mais c'est un Epoux dont chacune a besoin ;  
 Déja vous dévriez estre exempt de ce soin⁎.  
 Considérez leur âge, il est plus que nubile ;  
@@ -2078,10 +2078,10 @@ Cessez d'estre, Monsieur, l'entretien [194] de la Ville ;
 Et donnant à chacune un agreable Epoux,  
 Faites taire par là ceux qui parlent de vous.  
 
-    DORAME
+    DORAME.
 Mais encor, que dit-on ?  
 
-    TOINON
+    TOINON.
         Que sert de vous redire,  
 Qu'on vous voit par ce Fils l'objet de la Satire,  
 Qu'à vos Filles il faut des Epoux bien tournez,  
@@ -2093,52 +2093,52 @@ En sortant du College, on le fait Conseiller [196].
 C'est là vostre dessein, au moins chacun l'assure,  
 Et qu'un Cloistre à ses Sœurs est une chose seûre.  
 
-    DORAME
+    DORAME.
 La Cadette se porte à la Religion.  
 
-    TOINON
+    TOINON.
 Je luy croy, pour ce Lieu, peu d'inclination.  
 
-    DORAME
+    DORAME.
 Mais souvent elle y va visiter sa Cousine,  
 Tu le vois.  
 
-    TOINON
+    TOINON.
         D'accord ; mais je croirois à sa mine,  
 Qu'un Mary luy plairoit autant & plus qu'à moy.  
 
-    DORAME
+    DORAME.
 T'a-t-elle, là-dessus, parlé de bonne foy ?  
 
-    TOINON
+    TOINON.
 En vain à le sçavoir je me suis attachée,  
 Et je ne vis jamais une ame plus cachée,  
 Car… Elle tient de vous, c'est tout dire.  
 
-    DORAME
+    DORAME.
         Fort-bien.  
 
-    TOINON
+    TOINON.
 Daphnis est plus sincére, & ne déguise rien.  
 
-    DORAME
+    DORAME.
 Lise a l'esprit adroit, & l'humeur défiante.  
 Mais…  
 
-    TOINON
+    TOINON.
         Mais sçauroit-on rien de l'amour de Melante,  
 Sans…  
 
-    DORAME
+    DORAME.
         Tout cela n'estoit que pure vision.  
 
-    TOINON
+    TOINON.
 Mais elle avoit pour luy de l'inclination⁎.  
 
-    DORAME
+    DORAME.
 Point.  
 
-    TOINON
+    TOINON.
         Je le veux bien. Mais je reviens à ma these ;  
 Il leur faut à chacune un Mary qui leur plaise ;  
 En élevant leur Frere, & mariant ses Sœurs,  
@@ -2153,14 +2153,14 @@ En vain vous luy parlez, sans parler de son Fils ;
 Hors cela, nos conseils sont rarement suivis…   
 
 
-### SCENE III
+### SCENE III.
 DAPHNIS, TOINON.
 
 
-    DAPHNIS
+    DAPHNIS.
 Mon Pere est donc sorty ?  
 
-    TOINON
+    TOINON.
         Tout-à-l'heure il me quitte [197] :  
 Peut-estre qu'à son Fils il va rendre visite ;  
 Ce Fils l'occupe seul, ce Fils a tout son cœur,  
@@ -2169,18 +2169,18 @@ J'ay pour vos intérests parlé de Mariage,
 Mais il ne preste point l'oreille à ce langage,  
 Et pour toute réponse il exalte son Fils.  
 
-    DAPHNIS
+    DAPHNIS.
 Il faut patienter. Toinon, à ton avis,  
 Penses-tu que Phélonte ait pour moy de l'estime⁎ ?  
 
-    TOINON
+    TOINON.
 Par son tendre Billet ardemment il s'exprime.  
 Pour moy, je le croirois.  
 
-    DAPHNIS
+    DAPHNIS.
         Il ne me connoist pas.  
 
-    TOINON
+    TOINON.
 Mais c'est de vostre esprit dont Phélonte fait cas.  
 Je vous ay déja dit ce qu'il m'a fait paraistre,  
 Que Crispin me suivoit par l'ordre de son Maistre,  
@@ -2188,70 +2188,70 @@ Et que craignant Dorame, il attend pres d'icy
 Que j'aille l'avertir… Madame, le voicy.   
 
 
-### SCENE IV
+### SCENE IV.
 DAPHNIS, CRISPIN, TOINON.
 
 
-    CRISPIN *à la porte.*
+    CRISPIN *à la porte.*.
 Dorame…  
 
-    TOINON
+    TOINON.
     Entre.  
 
-    DAPHNIS
+    DAPHNIS.
         Crispin, je n'ay rien à te dire ;  
 De tous mes sentimens Toinon a sçeu t'instruire :  
 Mais si tu sers ma flâme avec fidelité,  
 Tu sçauras pour tes soins ce que j'ay projetté.  
 
-    CRISPIN
+    CRISPIN.
 Je fais, de vous servir, tout mon plus grand delice,  
 Et ne veux que Toinon pour prix de mon service.  
 
-    TOINON
+    TOINON.
 Vrayment, Monsieur Crispin, je vous trouve fort bon !  
 Pour prix de son service, il ne veut que Toinon ;  
 Il vous montre par là, qu'il me croit peu de chose.  
 
-    CRISPIN
+    CRISPIN.
 Ah pour prix de mes soins, lors que je te propose,  
 Je prouve qu'en toy seule est mon ambition.  
 
-    DAPHNIS
+    DAPHNIS.
 T'aime-t-elle, dy-moy ?  
 
-    CRISPIN
+    CRISPIN.
         Tantost oüy, tantost non ;  
 Tantost elle est affable, & tantost inhumaine.  
 
-    DAPHNIS
+    DAPHNIS.
 De l'adoucir, pour toy je veux prendre la peine,  
 Et dans peu, de mes soins tu connoistras l'effet.  
 Cependant à ton Maistre il faut rendre un Billet,  
 Sonder adroitement si pour moy sa tendresse⁎  
 Est vraye.  
 
-    CRISPIN
+    CRISPIN.
         A le sçavoir, pour vous je m'intéresse⁎.  
 
-    DAPHNIS
+    DAPHNIS.
 Mais sçait-il que Toinon est l'objet de tes vœux ?  
 
-    CRISPIN
+    CRISPIN.
 Non, il sçait seulement que je suis amoureux.  
 
-    DAPHNIS
+    DAPHNIS.
 Ainsy de son dessein tu sçauras mieux la suite…  
 
-    CRISPIN
+    CRISPIN.
 J'entens⁎ ; de vostre amour laissez-moy la conduite.  
 
-    DAPHNIS
+    DAPHNIS.
 Ce Billet est tout prest, je vay le cacheter ;  
 Vien le prendre, Toinon : on va te l'apporter,  
 Patiente un moment.  
 
-    CRISPIN
+    CRISPIN.
         Oh volontiers, Madame.  
 Seul.
 
@@ -2261,96 +2261,96 @@ Il resve.
 
 
 
-### SCENE V
+### SCENE V.
 DORAME, CRISPIN.
 
 
-    DORAME *entrant.*
+    DORAME *entrant.*.
 Un Homme en mon Logis ! Qui l'y peut attirer ?  
 
-    CRISPIN
+    CRISPIN.
 Mais dois-je croire… Ah Ciel ! que faire ? c'est Dorame.   
 
-    DORAME *à part.*
+    DORAME *à part.*.
 Ma présence luy cause un peu de trouble en l'ame.  
 N'est-ce point un Voleur ? [198]Que faites-vous icy ?  
 
-    CRISPIN
+    CRISPIN.
 Hé… De ce que j'y fais, qui vous met en soucy ?  
 
-    DORAME
+    DORAME.
 Insolent, apprenez qu'icy je suis le Maistre.  
 
-    CRISPIN
+    CRISPIN.
 Je n'avois pas, Monsieur, l'honneur de vous connoistre,  
 J'ay tort d'avoir parlé… comme j'ay répondu ;  
 J'en demande pardon.  
 
-    DORAME
+    DORAME.
         Mais ceans que fais-tu ?  
 Répons.  
 
-    CRISPIN
+    CRISPIN.
         Je n'y fais rien, Monsieur, je me retire.  
 
-    DORAME *le prenant au collet.*
+    DORAME *le prenant au collet.*.
 On ne sort pas ainsy.  
 
-    CRISPIN
+    CRISPIN.
     Mais…  
 
-    DORAME
+    DORAME.
         Non, il faut me dire  
 Le sujet qui te porte à te rendre chez moy.  
 
-    CRISPIN
+    CRISPIN.
 Monsieur… Monsieur.  
 
-    DORAME
+    DORAME.
     Hé bien ?  
 
-    CRISPIN
+    CRISPIN.
     Tout-franc, voyez-vous…  
 
-    DORAME
+    DORAME.
         Quoy ?  
 
-    CRISPIN
+    CRISPIN.
 Enfin je suis… suffit.  
 Il veut s'en aller.
  
 
-    DORAME *l'arrestant.*
+    DORAME *l'arrestant.*.
         Ce n'est pas là répondre,  
 Ton soin à m'échaper, ne sert qu'à te confondre ;  
 Et tes yeux me font voir les regards d'un Voleur :  
 Mais tu seras pendu.  
 
-    CRISPIN
+    CRISPIN.
         Je suis Homme d'honneur.  
 
-    DORAME *le tenant.*
+    DORAME *le tenant.*.
 Hola quelqu'un, hola.  
 
 
-### SCENE VI
+### SCENE VI.
 DORAME, CRISPIN, TOINON.
 
 
-    TOINON *sortant êtonnée.*
+    TOINON *sortant êtonnée.*.
         Que vois-je, nostre Maistre !  
 Tout est perdu [199].  
 
-    DORAME
+    DORAME.
         Toinon, que fait icy ce Traistre ?  
 
-    TOINON *interdite.*
+    TOINON *interdite.*.
 Ne vous l'a-t-il pas dit ?  
 
-    DORAME
+    DORAME.
         Je n'en puis rien sçavoir.  
 
-    TOINON *revenant à elle.*
+    TOINON *revenant à elle.*.
 à part.
 
 Ah bon.  
@@ -2358,52 +2358,52 @@ Ah bon.
 
         Civilement il faut le recevoir.  
 
-    DORAME
+    DORAME.
 La raison ?  
 
-    TOINON
+    TOINON.
     C'est…   
 
-    DORAME
+    DORAME.
     Quoy, c'est ?  
 
-    TOINON
+    TOINON.
         Un Maistre de Musique,  
 Envoyé de la part de Madame Angélique,  
 Pour vos Filles.  
 
-    DORAME *le salüant humblement.*
+    DORAME *le salüant humblement.*.
         Monsieur, excusez-moy, j'ay tort :  
 Mais pourquoy, s'il vous plaist, vous obstiner si fort  
 A ne répondre pas ?  
 
-    CRISPIN *feignant de la colere.*
+    CRISPIN *feignant de la colere.*.
         Est-ce ainsy qu'on en use ?  
 Me traitter de Voleur…  
 
-    TOINON 
+    TOINON.
         Quelquefois on s'abuse.  
 D'ailleurs, en pareil cas on peut bien s'abuser,  
 Et vous n'avez pas lieu de vous scandaliser.  
 Que ne répondiez-vous ? car il faut qu'on s'explique.  
 
-    CRISPIN
+    CRISPIN.
 Je suis Homme d'honneur, & Maistre de Musique ;  
 Voila mes qualitez.  
 
-    DORAME
+    DORAME.
         Ah Monsieur, je le croy.  
 
-    CRISPIN
+    CRISPIN.
 Me faire un tel affront…  
 
-    TOINON
+    TOINON.
         Bon, voila bien dequoy.  
 
-    CRISPIN
+    CRISPIN.
 Voleur !  
 
-    DORAME
+    DORAME.
         Je suis, Monsieur, tout à vostre service ;  
 à Toinon.
 
@@ -2411,35 +2411,35 @@ La plûpart de ces Gens sont remplis de caprice.
 Estre un Musicien ! Qui diable l'auroit dit,  
 A voir cette figure, & mesme son habit ?   
 
-    TOINON
+    TOINON.
 Il est vray.  
 
-    CRISPIN *feignant de se mordre les doigts.*
+    CRISPIN *feignant de se mordre les doigts.*.
     Moy, Voleur !  
 
-    TOINON *à Crispin.*
+    TOINON *à Crispin.*.
         Tout-franc, c'est vostre faute,  
 Et faire icy le fier, c'est compter sans son Hoste.  
 à Dorame.
 
 Il faut le laisser dire, & ne pas vous fâcher.  
 
-    DORAME *à Toinon.*
+    DORAME *à Toinon.*.
 C'est bien à ses discours que je veux m'attacher !  
 Il peut toûjours parler, sans que j'en sois en peine.  
 
-    TOINON
+    TOINON.
 Ma Maistresse a, Monsieur, un reste de migraine,  
 Qui ne luy permet pas de descendre à present.  
 Vous plaist-il de monter ?  
 
-    CRISPIN *marchant fierement.*
+    CRISPIN *marchant fierement.*.
         Montons, j'en suis content.  
 
-    TOINON *à Dorame.*
+    TOINON *à Dorame.*.
 Monsieur, vous…  
 
-    DORAME
+    DORAME.
         Là-dessus à rien je ne m'oppose,  
 Allez.  
 Dorame seul.
@@ -2449,49 +2449,49 @@ La Musique est un Art qui contente l'esprit,
 Et qui dans le Convent donne quelque crédit.  
 
 
-### SCENE VII
+### SCENE VII.
 DORAME, UN MUSICIEN.
 
 
-    LE MUSICIEN *entrant, & parlant Gascon.*
+    LE MUSICIEN *entrant, & parlant Gascon.*.
 Monsieur.  
 
-    DORAME
+    DORAME.
     Que vous plaist-il ?   
 
-    LE MUSICIEN
+    LE MUSICIEN.
         De la part d'Angélique,  
 Je viens…  
 
-    DORAME
+    DORAME.
     Hé bien ?  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Je suis un Maistre de Musique ;  
 On dit que vostre Fille en cherche un excellent,  
 Et j'ay pour ce grand Art⁎ un merveilleux talent ;  
 Sur tout j'y suis sçavant autant qu'on le peut estre ;  
 Et sans trop me vanter, j'y suis assez grand Maistre.  
 
-    DORAME *à part.*
+    DORAME *à part.*.
 Que veut dire cecy ?  
 
-    LE MUSICIEN *parlant Gascon.*
+    LE MUSICIEN *parlant Gascon.*.
         Monsieur, c'est un grand bien ;  
 Quand un Maistre est habile, & qu'il n'ignore rien,  
 C'est pour un Ecolier un fort grand avantage.  
 
-    DORAME *secoüant la teste.*
+    DORAME *secoüant la teste.*.
 Ecoutons jusqu'au bout.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Que c'est un rare ouvrage,  
 Qu'un grand Musicien !  
 
-    DORAME
+    DORAME.
         Je le croy comme vous.  
 
-    LE MUSICIEN *parlant Gascon.*
+    LE MUSICIEN *parlant Gascon.*.
 Mais on en voit si peu… Je creve de courroux,  
 De voir cent Mirmidons [200] en ce Siecle où nous sommes ;  
 Pres les plus éclairez se croire de grands Hommes,  
@@ -2504,23 +2504,23 @@ Nous touchons⁎ le Theorbe [202], & nous chantons un Air,
 Pour le moins aussi-bien qu'aucun qui soit en France.  
 Ce n'est pas coucher gros [203].  
 
-    DORAME *à part.*
+    DORAME *à part.*.
         Ah quelle suffisance !  
 Que tous ces Gens sont vains !  
 
-    LE MUSICIEN
+    LE MUSICIEN.
     Plaist-il ?  
 
-    DORAME
+    DORAME.
         Je ne dis mot.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Monsieur, dans mon Mestier, je ne suis pas un sot.  
 
-    DORAME
+    DORAME.
 Ah je vous croy, Monsieur, un grand Maistre en Musique.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Dorame le regarde.
 
 Et de plus Gentilhomme. Oüy, Monsieur, je m'en pique ;  
@@ -2529,10 +2529,10 @@ Si ce grand Art pour moy n'eust eu beaucoup d'apas⁎ [205],
 Sans doute je serois avancé dans l'Armée,  
 Où je verrois du Roy ma valeur estimée.  
 
-    DORAME *à part.*
+    DORAME *à part.*.
 Le grand fou !  
 
-    LE MUSICIEN *montrant l'endroit du cœur.*
+    LE MUSICIEN *montrant l'endroit du cœur.*.
         Grace au Ciel, nous avons cela bon,  
 Et je sçay m'en servir de la bonne façon ;  
 Car quand l'occasion se trouve un peu pressante,  
@@ -2540,23 +2540,23 @@ Je sangle⁎ un coup d'Epée aussi-bien que je chante.
 Il allonge une estocade à Dorame avec la main.
 
 
-    DORAME *portant la main à son estomach.*
+    DORAME *portant la main à son estomach.*.
 Fort-bien.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Je sçay qu'il est force Musiciens,  
 Qu'avec juste raison on estime des riens :  
 Mais si j'en estois crû, dans l'état où nous sommes,  
 Les bons, à leur mépris, seroient faits Gentilhommes.   
 
-    DORAME
+    DORAME.
 Quel besoin pour chanter de cette qualité !  
 Par là l'on n'en est pas beaucoup mieux écouté.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Ce grand Art est un Art digne d'un rang sublime.  
 
-    DORAME
+    DORAME.
 Et cet Art est un Art⁎ dans la commune estime.  
 Quant à moy, franchement, j'en suis peu curieux :  
 Apercevant Crispin.
@@ -2565,31 +2565,31 @@ Parlez-en à Monsieur, il vous répondra mieux.
 Moy, j'écoute.  
 
 
-### SCENE VIII
+### SCENE VIII.
 DORAME, CRISPIN, LE MUSICIEN parlant toûjours Gascon.
 
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Monsieur sçait-il de la Musique ?  
 
-    DORAME
+    DORAME.
 J'ignore s'il en sçait, mais je sçay qu'il s'en pique⁎.  
 
-    LE MUSICIEN *riotant⁎.*
+    LE MUSICIEN *riotant⁎.*.
 Ah Monsieur a tout l'air d'un Chantre de Lutrin ;  
 Il est propre à chanter à quelque Tabarin,  
 Ou bien à l'Orviétan, je le vois à sa mine [206].  
 J'admire son habit, & sa taille poupine [207] ;  
 Je gage que Monsieur touche⁎ quelque Instrument.  
 
-    DORAME
+    DORAME.
 Cela peut estre vray.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Mais délicatement [208].  
 Aparemment, Monsieur, vous joüez de la Vielle.  
 
-    CRISPIN
+    CRISPIN.
 bas.
 
 Que dire !  
@@ -2599,69 +2599,69 @@ haut.
 Il fait de la main comme s'il joüoit de la Vielle [209].
 
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Je vous tiens un modelle  
 Qu'on doit suivre par tout.  
 
-    CRISPIN
+    CRISPIN.
         Il n'en faut point douter.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Sur un Trio nouveau peut-on vous consulter ?  
 
-    CRSIPIN *à part.*
+    CRSIPIN *à part.*.
 Payons d'effronterie.  
 
-    LE MUSICIEN *luy montrant un papier.*
+    LE MUSICIEN *luy montrant un papier.*.
         Or faites-moy la grace  
 De m'éclaircir un peu sur ce qui m'embarasse :  
 C'est un certain endroit que j'ay peine à sauver⁎.  
 
-    CRISPIN
+    CRISPIN.
 Pour en venir à bout, il falloit y resver⁎.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Voyez, de vos avis ne soyez point avare,  
 La Basse va devant cet *E mi la B quarre*.  
 Hem ?  
 
-    CRISPIN *apres avoir regardé.*
+    CRISPIN *apres avoir regardé.*.
         Voila des accords dont je suis enchanté.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Ces accords ne font pas cette difficulté :  
 Je sçay que ces derniers ont peu de consonnance ;  
 Mais j'ay, pour m'en tirer, certaine intelligence⁎,  
 Que peu de nos Sçavans possede comme moy.  
 Là, voyez.  
 
-    CRISPIN *bas.*
+    CRISPIN *bas.*.
     Je voudrois te voir au Diable.   
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Quoy ?  
 
-    CRISPIN
+    CRISPIN.
 Rien.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         C'est cet *E mi la* qui me fait de la peine,  
 Et pour le bien sauver, il me met à la gesne [210].  
 Que feriez-vous, Monsieur, dans un tel embarras ?  
 
-    CRISPIN
+    CRISPIN.
 A vous dire le vray… Je ne l'y mettrois pas.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Pourquoy non ?  
 
-    CRISPIN
+    CRISPIN.
         C'est que… Non, je ne vous veux rien dire.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Donnez-m'en la raison, & daignez m'en instruire.  
 
-    CRISPIN
+    CRISPIN.
 C'est que cet *E mi la* qui vous met en soucy,  
 Et que ce *mi B fa* que vous traittez ainsy,  
 Sortant par la *De mode*, en fait la raisonnance,  
@@ -2672,25 +2672,25 @@ Font des accords aigus… s'il faut que je m'explique,
 Qui fait que dans les sons… on voit de la Musique…  
 Comprenez-vous bien ?  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Non, je ne vous entens⁎ pas,  
 Ce discours n'est pour moy qu'un galimatias.  
 
-    CRISPIN
+    CRISPIN.
 Tant-pis.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
     D'où vient ?   
 
-    CRISPIN
+    CRISPIN.
         Il faut manquer de connoissance,  
 Ou posseder au moins bien peu d'intelligence⁎,  
 Pour me répondre ainsi ; car Monsieur m'entend⁎ bien.  
 
-    DORAME
+    DORAME.
 Il est vray que j'entens, mais je ne comprens rien.  
 
-    CRISPIN *à Dorame.*
+    CRISPIN *à Dorame.*.
 Ne perdez pas cecy. La *quarte*, ou bien la *quinte*…  
 Formant des embarras… jette en un labyrinte…  
 au Mus.
@@ -2713,148 +2713,148 @@ Fait que vous rencontrez… l'intervale du son…
 
 Me comprenez-vous mieux ?  
 
-    DORAME
+    DORAME.
         Ma foy, la mesme chose :  
 J'entendois peu le texte, & j'entens moins la glose.  
 Parlez tous deux François, sans chercher ces grands mots.  
 
-    CRISPIN
+    CRISPIN.
 Ah les termes de l'Art⁎ sont là fort à propos,  
 Demandez.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Vos discours confondent ma science :  
 Mais, Monsieur, solfiez, pour plus d'intelligence,  
 Je vous comprendray mieux.  
 
-    CRISPIN *luy rejettant son Trio.*
+    CRISPIN *luy rejettant son Trio.*.
         Qui, moy ! moy, solfier !  
 C'est me traitter par là de petit Ecolier ;  
 Vous estes plaisant !  
 
-    DORAME *au Musicien.*
+    DORAME *au Musicien.*.
         C'est un Maistre de Musique,  
 Envoyé de la part de Madame Angélique.   
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Luy Maistre de Musique ! Ah c'est un imposteur.  
 
-    CRISPIN
+    CRISPIN.
 Vous en avez menty.  
 
-    LE MUSICIEN *voulant mettre l'Epée à la main.*
+    LE MUSICIEN *voulant mettre l'Epée à la main.*.
     Quoy…  
 
-    DORAME *l'empeschant.*
+    DORAME *l'empeschant.*.
         Tréve de fureur,  
 Ou…  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         J'ay tort, oüy, Monsieur, car il n'a point d'Epée.  
 
-    DORAME
+    DORAME.
 La vostre, en ce moment, seroit mal occupée [212] ;  
 On diroit…  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Je le sçay ; Mais souffrir un affront  
 De ce Fat, non, non.  
 
-    CRISPIN
+    CRISPIN.
         Hom… J'ay le bras un peu prompt,  
 Va-t-en.  
 
-    DORAME
+    DORAME.
         Sortez d'icy, si vous voulez vous battre.  
 
-    LE MUSICIEN *voulant se jetter sur Crispin.*
+    LE MUSICIEN *voulant se jetter sur Crispin.*.
 Il faut…  
 
-    DORAME *l'empeschant.*
+    DORAME *l'empeschant.*.
     Tout-doux.  
 
-    CRISPIN
+    CRISPIN.
         Ce Fat se fait tenir à quatre [213].  
 
-    LE MUSICIEN *prenant un siege.*
+    LE MUSICIEN *prenant un siege.*.
 Ah ç'en est trop souffrir.  
 
     CRISPIN *prenant un autre siege* [214].
         Le Drôle en veut par là.  
 
-    DORAME *au Musicien.*
+    DORAME *au Musicien.*.
 Arrestez.   
 
-    LE MUSICIEN
+    LE MUSICIEN.
     Laissez-nous…  
 
-    DORAME
+    DORAME.
         Hola quelqu'un, hola.  
 
-    LE MUSICIEN *voulant fraper Crispin.*
+    LE MUSICIEN *voulant fraper Crispin.*.
 Faquin⁎ !  
 
-    CRISPIN *de mesme.*
+    CRISPIN *de mesme.*.
     Maraut⁎ !  
 
-    DORAME *entre-deux, qui voit tantost un siege prest à tomber sur luy, & tantost l'autre.*
+    DORAME *entre-deux, qui voit tantost un siege prest à tomber sur luy, & tantost l'autre.*.
         Ah, ah, ah, Messieurs, prenez garde ;  
 Sinon…  
 
     LE MUSICIEN *s'embarasse de son Epêe* [215].
     Fourbe⁎ !  
 
-    CRSIPIN
+    CRSIPIN.
     Coquin⁎ !  
 
-    DORAME *court à sa Halebarde.*
+    DORAME *court à sa Halebarde.*.
         C'est trop ; Ma Halebarde ;  
 Qu'on arreste, ou bien…  
 
-    CRISPIN *menaçant le Musicien.*
+    CRISPIN *menaçant le Musicien.*.
     Hom…  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Tu m'échapes en vain.   
 
 
-### SCENE IX
+### SCENE IX.
 DORAME, LE MUSICIEN, CRISPIN, TOINON.
 
 
-    TOINON
+    TOINON.
 D'où vient cecy ? Monsieur les armes à la main !  
 
-    DORAME
+    DORAME.
 Toinon, Monsieur se dit un Maistre de Musique,  
 Qui vient, dit-il, icy de la part d'Angélique ;  
 Et sur des mots de l'Art⁎ ils se sont querellez.  
 Et moy, pour mettre fin à tous leurs démeslez,  
 J'ay pris ma Halebarde.  
 
-    TOINON
+    TOINON.
         Et d'où vient qu'Angélique  
 Envoyroit tout-à-coup deux Maistres de Musique ?  
 
-    DORAME
+    DORAME.
 C'est pour en faire choix.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Ce Fourbe⁎ ne l'est pas.  
 
-    CRISPIN
+    CRISPIN.
 Vous en avez menty.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
     Sors.  
 
-    CRISPIN
+    CRISPIN.
         Va, je suis tes pas.  
 
-    LE MUSICIEN *s'en allant.*
+    LE MUSICIEN *s'en allant.*.
 Je t'attens.  
 
-    DORAME *à Crispin.*
+    DORAME *à Crispin.*.
         Vous pourrez vous battre dans la Rüe,  
 Et…  
 Il s'en va.
@@ -2862,59 +2862,59 @@ Il s'en va.
     Serviteur.   
 
 
-### SCENE X
+### SCENE X.
 TOINON, CRISPIN.
 
 
-    TOINON *bas.*
+    TOINON *bas.*.
         Crispin, ah je suis toute émûë.  
 
-    CRISPIN
+    CRISPIN.
 Qu'as-tu ?  
 
-    TOINON
+    TOINON.
     Je crains…  
 
-    CRISPIN
+    CRISPIN.
     Pour qui ?  
 
-    TOINON
+    TOINON.
     Pour toy.  
 
-    CRISPIN
+    CRISPIN.
         Va, ne crains rien.  
 
-    TOINON
+    TOINON.
 Mais…  
 
-    DORAME *au dedans.*
+    DORAME *au dedans.*.
     Toinon.  
 
-    TOINON
+    TOINON.
     J'y vais.  
 
-    CRISPIN *s'en allant.*
+    CRISPIN *s'en allant.*.
         Va, je m'en tireray bien.  < Fin du Second Acte. >
 On tire la Ferme, & l'on voit les six Laquais de Phélonte qui discernent⁎ l'Acte, & en suite ils se retirent par les ailes du fonds. Le troisiéme Acte se passe dans l'Antichambre de Phélonte, comme le premier.
  
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CRISPIN, PHELONTE.
 
 
-    CRISPIN
+    CRISPIN.
 En peu de mots, Monsieur, voila toute l'histoire.  
 
-    PHELONTE
+    PHELONTE.
 D'un autre que toy, j'aurois peine à la croire :  
 Car comment passer là pour un Musicien,  
 Et raisonner⁎ d'un Art⁎ où tu ne connois rien ?  
 
-    CRISPIN
+    CRISPIN.
 Ne vous ay-je pas dit, qu'un peu d'effronterie  
 M'a tiré d'embarras ? Que ce Maistre en furie,  
 D'un galimatias dont j'ay sçeu l'étourdir,  
@@ -2932,19 +2932,19 @@ J'ay crû que promptement je devois disparoistre.
 Sur chaque circonstance estes-vous bien instruit ?  
 Faut-il recommencer ?  
 
-    PHELONTE
+    PHELONTE.
         Non, Crispin, il suffit.  
 Mais pour mieux étourdir ce Maistre de Musique,  
 Et devant le Vieillard luy faire un peu la nique,  
 Il falloit sçavoir là quelques termes de l'Art⁎.  
 
-    CRISPIN
+    CRISPIN.
 Bon, j'en sçay.  
 
-    PHELONTE
+    PHELONTE.
     D'où ?  
 
-    CRSIPIN
+    CRSIPIN.
         J'en ay retenu par hazard,  
 Alors qu'à composer vostre Maistre vous montre,  
 Dont j'ay sçeu, sans raison, m'aider en ce rencontre⁎ [216].  
@@ -2953,86 +2953,86 @@ Meslent dans leurs discours quantité de ces mots ;
 Et quoy que mal citez, pensant faire merveilles,  
 Ils m'en ont mille fois étourdy les oreilles.  
 
-    PHELONTE
+    PHELONTE.
 Fort-bien.  
 
-    CRISPIN
+    CRISPIN.
         Sur chaque point vous estes satisfait ;  
 Mais la Dame, Monsieur…  
 
-    PHELONTE
+    PHELONTE.
         Ecoute son billet.  
 
-    PHELONTE *lit.*
+    PHELONTE *lit.*.
 Vostre Lettre, Phélonte, pourroit persuader une Personne qui vous connoistroit moins que moy : mais je veux bien vous dire que je suis parfaitement instruite de toutes vos manieres. Vous avez crû, sans doute, que l'occasion se presentoit favorable, & qu'il falloit la prendre aux cheveux, c'est fort bien fait à vous ; mais là-dessus je suis vostre Servante. Dites-moy, s'il vous plaist, s'il estoit vray que vous m'aimassiez autant que vous le marquez dans vostre Lettre ? Croyez-vous en bonne-foy, qu'il n'y auroit point un peu d'extravagances⁎ ? Aimer les Gens sans les connoistre, ny sans les avoir jamais veus, cela approche un peu de l'égarement⁎. Non, non, vous n'estes point capable d'une foiblesse semblable ; vous avez de l'esprit, & vous sçavez trop bien ce que vous faites : Vous voulez me payer galamment des bons avis que je vous ay donnez, mais je ne suis point interessée, & c'est assez pour moy qu'ils ne vous soient pas inutiles. Adieu, pensez à ce que je vous écris, & croyez que je parle avec sinceritê, quand je dis que j'estime⁎ Phélonte.
 
-    PHELONTE
+    PHELONTE.
 Qu'en penses-tu, Crispin ?  
 
-    CRISPIN
+    CRISPIN.
         Elle paroist sincere,  
 Et la Dame a, Monsieur, tout ce qu'il faut pour plaire.  
 
-    PHELONTE
+    PHELONTE.
 A ne te rien celer, j'aime son procedé.  
 
-    CRISPIN
+    CRISPIN.
 Elle a beaucoup d'apas⁎.  
 
-    PHELONTE
+    PHELONTE.
         J'en suis persuadé ;  
 Tu me l'as peinte aimable⁎ autant qu'on le peut estre.  
 
-    CRISPIN
+    CRISPIN.
 Je n'en juge qu'autant que je puis m'y connestre ;  
 Mais elle me plaist fort.   
 
-    PHELONTE
+    PHELONTE.
         Je brûle de la voir,  
 Crispin.  
 
-    CRISPIN
+    CRISPIN.
         Il faut tâcher à luy faire sçavoir.  
 
-    PHELONTE
+    PHELONTE.
 Allons, Crispin, allons, vien, conduis-moy chez elle.  
 
-    CRISPIN
+    CRISPIN.
 Quoy ! d'un plein saut [217], Monsieur, entrer chez cette Belle ?  
 De ce peu de respect elle pourroit gronder.  
 
-    PHELONTE
+    PHELONTE.
 Oh tu m'introduiras.  
 
-    CRISPIN
+    CRISPIN.
         Dieu m'en veüille garder ;  
 Le Pere est d'une humeur⁎ qui n'est pas fort tranquille,  
 Je crains sa Halebarde, & plus encor sa bile ;  
 Au moindre différent les armes à la main,  
 Nous montre qu'il n'a pas un esprit fort humain.  
 
-    PHELONTE
+    PHELONTE.
 Ne crains rien.  
 
-    CRISPIN
+    CRISPIN.
         Tout-de-bon, aimez-vous cette Dame ?  
 
-    PHELONTE
+    PHELONTE.
 Oüy.  
 
-    CRISPIN
+    CRISPIN.
         Vous sentez pour elle une sincére flâme ?  
 
-    PHELONTE
+    PHELONTE.
 Oüy.  
 
-    CRISPIN
+    CRISPIN.
     Point.  
 
-    PHELONTE
+    PHELONTE.
     Pourquoy non ?  
 
-    CRISPIN
+    CRISPIN.
         Bon ; Vostre amour libertin⁎  
 S'attache-t-il jamais que pour faire butin ?  
 Et quand une Beauté parle de Mariage,  
@@ -3046,14 +3046,14 @@ Vous laissez cet Objet, & le quittez ainsy :
 Mais la Dame, Monsieur, vous montre par sa Lettre,  
 Ce que de sa vertu vous devez vous promettre…  
 
-    PHELONTE
+    PHELONTE.
 C'est du Sexe⁎ toûjours la façon de parler.  
 
-    CRISPIN
+    CRISPIN.
 Je la connois fort peu ; mais je juge à son air,  
 Qu'elle est sage, Monsieur.  
 
-    PHELONTE
+    PHELONTE.
         Eh Crispin, la Sagesse  
 Ne s'épouvante pas pour un peu de tendresse⁎ :  
 Cette vertu n'a plus cette austere rigueur,  
@@ -3063,71 +3063,71 @@ Elles sont maintenant de bonne intelligence⁎ ;
 Et pour duper les Gens, par de communs accords,  
 L'Amour regne au-dedans, la Sagesse au dehors.  
 
-    CRISPIN
+    CRISPIN.
 A leur façon d'agir vostre amour s'accommode.  
 Je voy bien, vous voulez, suivant vostre méthode,  
 De la Dame, en un mot, essuyer un refus,  
 Vous retirer apres, & n'y retourner plus.  
 
-    PHELONTE
+    PHELONTE.
 Non, allons.  
 
-    CRISPIN
+    CRISPIN.
         Je ne sçay ce qu'il faut que j'en croye.   
 
-    PHELONTE
+    PHELONTE.
 D'où vient ?  
 
-    CRISPIN
+    CRISPIN.
     Vous aimer ! vous !  
 
-    PHELONTE
+    PHELONTE.
     Oüy.  
 
-    CRISPIN
+    CRISPIN.
         Que j'aurois de joye,  
 De vous voir avec nous au nombre des Amans⁎ !  
 Songez-y bien, la Dame a beaucoup d'agrémens.  
 
-    PHELONTE
+    PHELONTE.
 Allons ; si sa beauté répond à mon attente,  
 Tu me verras pour elle une flâme constante.  
 
 
-### SCENE II
+### SCENE II.
 PHELONTE, LA RONCE, CRISPIN.
 
 
-    CRISPIN
+    CRISPIN.
 Ce changement en vous, est contre mon espoir.  
 
-    LA RONCE
+    LA RONCE.
 Un Homme est là, Monsieur, qui demande à vous voir.  
 
-    PHELONTE
+    PHELONTE.
 Il faut le faire entrer. C'est sans doute Mélante,  
 Il vient au rendez-vous, mais contre mon attente,  
 Je vois un Inconnu…  
 
-    CRISPIN
+    CRISPIN.
         C'est ce Musicien,  
 Ne me découvrez pas.  
 
-    PHELONTE
+    PHELONTE.
         Je m'en garderay bien,  
 Ce seroit tout gaster.  
 Crispin se cache le plus qu'il peut.
  
 
 
-### SCENE III
+### SCENE III.
 LE MUSICIEN, PHELONTE, CRISPIN.
 
 
-    PHELONTE
+    PHELONTE.
     Que vous plaist-il ?  
 
-    LE MUSICIEN *apres plusieurs revêrences, & parlant toûjours Gascon.*
+    LE MUSICIEN *apres plusieurs revêrences, & parlant toûjours Gascon.*.
         De grace,  
 Connoissez-moy [218], Monsieur, excusez mon audace ;  
 J'enseigne la Musique, & cet Art⁎, Dieu mercy,  
@@ -3141,157 +3141,157 @@ Qu'à chanter la plûpart de vostre temps s'employe,
 Ce bruit a fait en moy naistre un ardent desir  
 De vous voir, & je viens…  
 
-    PHELONTE
+    PHELONTE.
         Vous me faites plaisir.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 J'ay fait un Opera, Monsieur, qui doit surprendre⁎,  
 Et je viens tout exprés vous prier de l'entendre.  
 
-    PHELONTE
+    PHELONTE.
 Volontiers.   
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Je m'en tais ; mais sans faire le vain…  
 Chez Madame Angélique il paroistra demain.  
 
-    PHELONTE
+    PHELONTE.
 Je ne la connoy point.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Ce Billet marque l'heure,  
 Et par luy vous serez instruit de sa demeure.  
 
-    PHELONTE *le prenant.*
+    PHELONTE *le prenant.*.
 Je n'y manqueray pas.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Ah c'est une faveur  
 Dont se flatte aujourd'huy vostre humble Serviteur.  
 
-    PHELONTE
+    PHELONTE.
 Suffit ; Adieu.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Monsieur, je vous feray connoistre…  
 Appercevant Crispin.
 
 Mais je voy, ce me semble, un…  
 
-    PHELONTE *luy montrant Crispin.*
+    PHELONTE *luy montrant Crispin.*.
         Vous voyez mon Maistre.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Je m'étonne, Monsieur, que vous ayiez choisy  
 L'Homme le plus ignare…  
 
-    CRISPIN
+    CRISPIN.
         Hé morbleu ! venez-y,  
 Disputer avec moy sur la préeminence  
 D'un Art⁎… Je vous le livre aussy plein d'ignorance,  
 Que Chantre du Pont-neuf [219].  
 
-    PHELONTE
+    PHELONTE.
         Hé, Messieurs ! là, tout-doux.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Quoy ! pouvez-vous souffrir cet Ignorant chez vous ?  
 Je vay le décrier dans tous les Lieux du Monde ;  
 Et ne souffriray point…   
 
-    PHELONTE
+    PHELONTE.
         Permettez qu'il réponde :  
 Comme vous l'accusez d'estre ignorant, il doit…  
 
-    CRISPIN
+    CRISPIN.
 Monsieur, la verité se peut toucher au doigt :  
 Il fait le suffisant, à cause de sa Brette [220].  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 J'ay droit de la porter. Mon Pere…  
 
-    CRISPIN
+    CRISPIN.
         Estoit Vedette⁎,  
 Quand dans la plaine d'Oüille [221] on vint camper. Voila  
 Ses Titres de Noblesse entez sur *E mi la.*  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Tout ce qu'il dit, fadaise. Il parle comme il chante.  
 
-    PHELONTE
+    PHELONTE.
 Mais, Monsieur, il n'a point la méthode meschante⁎ :  
 Je m'en suis bien trouvé jusqu'icy.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Bien trouvé !  
 De tous les Ignorans c'est le plus achevé,  
 Je vous le dis encor.  
 
-    PHELONTE
+    PHELONTE.
         Sans chaleur, je vous prie.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Il n'a que du jargon, & de l'effronterie.  
 
-    CRISPIN
+    CRISPIN.
 Je viens pourtant encor de vous rendre *Mutus*  
 Chez un certain Vieillard, là, tout-à-l'heure.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Abus ;  
 C'est un extravagant ; par son seul équipage⁎  
 J'ay d'abord aisément jugé du Personnage :  
 N'est-ce pas affronter [222] la Musique ? Il est fou.  
 
-    CRISPIN
+    CRISPIN.
 Prenez-vous par le nez.   
 
-    PHELONTE
+    PHELONTE.
         Mais de grace, par où  
 Avez-vous découvert qu'il est si meschant⁎ Maistre ?  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Par cent mots où luy-mesme il ne peut rien connoistre :  
 Tout ce qu'il dit sur l'Art⁎, pur galimatias.  
 
-    CRISPIN
+    CRISPIN.
 La pécore ! Monsieur, ne m'entendez⁎-vous pas ? [223]  
 
-    PHELONTE
+    PHELONTE.
 Sa façon d'enseigner n'est pas trop affectée,  
 Et je croy n'avoir point encor la voix gastée.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Il vous la gastera, si vous ne le changez.  
 
-    PHELONTE
+    PHELONTE.
 Il faudra voir.  
 
-    CRISPIN
+    CRISPIN.
         J'ay peur, si vous ne délogez…  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Pour rien, au lieu de luy, j'aime mieux vous aprendre.  
 
-    PHELONTE
+    PHELONTE.
 Pour rien ?  
 
-    LE MUSICIEN
+    LE MUSICIEN.
     Pour rien, vous dis-je.  
 
-    CRISPIN
+    CRISPIN.
         Oüy, oüy, l'on va te prendre !  
 Tu n'es bon qu'à montrer à des Grenouilles.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Moy !  
 Pour l'honneur du Mestier, Monsieur…  
 
-    PHELONTE
+    PHELONTE.
         De bonne-foy,  
 Il est juste qu'apres plusieurs ans…  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         A l'épreuve,  
 De mon sçavoir *gratis* je vous offre la preuve :  
 Mais pour vous faire voir que c'est un Ignorant,  
@@ -3308,233 +3308,233 @@ Mais Dieux ! quelle haine avez-vous ?
 Quand mon cœur ose vous le dire,  
 Soudain vous entrez en courroux.  
 
-    CRISPIN
+    CRISPIN.
 Ce Chanteur me fait rire, avec son chant Gascon.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Sçachez que maintenant c'est la belle façon,  
 Et que cette maniere est le plus à la mode.  
 
-    CRISPIN
+    CRISPIN.
 Je gage que Monsieur blâme cette méthode.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Laissons cela, chantez.  
 
-    CRISPIN
+    CRISPIN.
         Moy ? je n'en feray rien ;  
 Vostre accent est Gascon, le mien Parisien :  
 Apprenez mon accent, & j'apprendray le vostre,  
 Puis on pourra juger & de l'un, & de l'autre.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
 Monsieur, vous jugez bien par ce raisonnement…  
 
-    CRISPIN
+    CRISPIN.
 Monsieur sçait que je parle avec grand jugement⁎.  
 
-    PHELONTE
+    PHELONTE.
 Enfin, c'est sans raison…  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Je suis las de l'entendre ;  
 Monsieur, encor un coup, oüy, je veux vous aprendre ;  
 Et si je ne vous fais mieux chanter mille fois…  
 Qu'il n'a pû…  
 
-    PHELONTE
+    PHELONTE.
         Trouvez bon qu'il acheve son Mois,  
 Nous nous verrons en suite.  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         Il faut vous laisser faire ;  
 Mais je veux…  
 
-    CRISPIN
+    CRISPIN.
         Tu prétens qu'à moy l'on te préfere,  
 Musicien de bale ?  
 
-    LE MUSICIEN
+    LE MUSICIEN.
         En autre lieu qu'icy,  
 Je t'apprendray…  
 
-    CRISPIN
+    CRISPIN.
         Va, va, n'en sois point en soucy ;  
 Si tu sçais ferrailler, je chamaille [224] à merveilles.  
 
-    LE MUSICIEN *s'en allant.*
+    LE MUSICIEN *s'en allant.*.
 Munis-toy d'une Epée, avec armes pareilles,  
 Seul-à-seul de pied ferme, on te peut divertir.  
 
-    CRISPIN
+    CRISPIN.
 Je ne veux contre toy, qu'une Broche à rostir.  
 Adieu, *ré mi fa sol.*  
 
 
-### SCENE IV
+### SCENE IV.
 PHELONTE, CRISPIN.
 
 
-    CRISPIN
+    CRISPIN.
         Ma Maistresse le pique⁎ [225].  
 
-    PHELONTE *riant.*
+    PHELONTE *riant.*.
 Je te vois Gradué, peu s'en faut, en Musique.   
 
-    CRISPIN
+    CRISPIN.
 Oüy, mais cette Musique attirera sur moy  
 Quelque moment fâcheux.  
 
-    PHELONTE
+    PHELONTE.
     Le crains-tu ?  
 
-    CRISPIN
+    CRISPIN.
         Non, ma foy :  
 Mais si le rencontrant, il faut que je chamaille [226],  
 Et que d'un coup d'Epée il me gaste la taille,  
 Hem ?  
 
-    PHELONTE *en riotant⁎.*
+    PHELONTE *en riotant⁎.*.
     J'en serois fâché.  
 
-    CRISPIN
+    CRISPIN.
         Vous en riez ! Fort-bien.  
 
-    PHELONTE
+    PHELONTE.
 Je préviendray ce mal, n'en appréhendes rien ;  
 Mais allons, sans tarder, visiter cette Belle,  
 Je veux l'aimer, Crispin, d'une flâme immortelle.  
 
-    CRISPIN
+    CRISPIN.
 Il faut que depuis peu vous soyez bien changé !  
 
 
-### SCENE V
+### SCENE V.
 PHELONTE, FANCHON, CRISPIN.
 
 
-    PHELONTE
+    PHELONTE.
 Fanchon, tu sçais à quoy je me suis engagé  
 A Mélante.  
 
-    FANCHON
+    FANCHON.
         Oüy, Monsieur, vous m'en avez instruite.  
 
-    PHELONTE
+    PHELONTE.
 Dis-luy, quand il viendra, qu'une affaire subite  
 M'a forcé de sortir, mais qu'il peut tout icy.  
 
-    FANCHON
+    FANCHON.
 Fort-bien.  
 
-    PHELONTE
+    PHELONTE.
         J'entens quelqu'un ; Peut-estre le voicy.  
 
-    FANCHON
+    FANCHON.
 Ce n'est pas luy.  
 
-    PHELONTE
+    PHELONTE.
     Qui donc ?  
 
-    FANCHON *montrant Boniface.*
+    FANCHON *montrant Boniface.*.
         C'est Monsieur Boniface,  
 Qui vient pour vostre Frere implorer vostre grace.  
 
 
-### SCENE VI
+### SCENE VI.
 PHELONTE, BONIFACE, FANCHON, CRISPIN.
 
 
-    BONIFACE
+    BONIFACE.
 Oüy, Monsieur.  
 
-    PHELONTE
+    PHELONTE.
         Là-dessus qu'on me laisse en repos.  
 
-    BONIFACE
+    BONIFACE.
 La Clemence est, Monsieur, la vertu des Héros :  
 Vous sçavez que Plutarque… [227]   
 
-    PHELONTE
+    PHELONTE.
         Eh Monsieur Boniface,  
 Plutarque, en cet endroit, n'est pas fort en sa place.  
 
-    FANCHON
+    FANCHON.
 Qu'est-il besoin aussy de citer cet Autheur ?   
 
-    BONIFACE
+    BONIFACE.
 De Monsieur vostre Frere estant le Précepteur,  
 J'ose vous demander pardon de son offence.  
 
-    PHELONTE
+    PHELONTE.
 Je suis trop irrité de son impertinence.  
 
-    BONIFACE
+    BONIFACE.
 Qui se repent d'un mal, mérite le pardon :  
 Hé la Monsieur Crispin, vous Madame Fanchon,  
 Obtenons de Monsieur, le pardon pour son Frere.  
 
-    CRISPIN
+    CRISPIN.
 Eh Monsieur !  
 
-    FANCHON
+    FANCHON.
     Eh Monsieur !  
 
-    PHELONTE
+    PHELONTE.
         Non, je n'en veux rien faire.  
 
-    BONIFACE
+    BONIFACE.
 Monsieur…  
 
-    PHELONTE *s'en allant.*
+    PHELONTE *s'en allant.*.
     Suis-moy, Crispin.  
 
 
-### SCENE VII
+### SCENE VII.
 BONIFACE, FANCHON.
 
 
-    BONIFACE
+    BONIFACE.
         On ne peut le fléchir.  
 
-    FANCHON
+    FANCHON.
 Peut-estre, avec le temps, qu'on pourra l'adoucir.  
 Pour son Frere, entre nous, il faut mieux le conduire.   
 
-    BONIFACE
+    BONIFACE.
 C'est un jeune Eventé⁎, que j'ay peine à réduire.  
 
-    FANCHON
+    FANCHON.
 Souffrir qu'il s'enrolast !  
 
-    BONIFACE
+    BONIFACE.
         C'estoit à mon insçeu ;  
 Il m'avoit, pour le faire, adroitement déceu⁎ ;  
 Mais tout ce différent ne m'inquiéte guére,  
 Qu'ils s'accordent entr'eux, Fanchon, c'est leur affaire.  
 
-    FANCHON
+    FANCHON.
 En effet.  
 
-    BONIFACE
+    BONIFACE.
         Quant à moy, j'en prens peu de soucy.  
 
-    FANCHON
+    FANCHON.
 C'est fort bien fait à vous.  
 
-    BONIFACE
+    BONIFACE.
         Le Ciel m'a fait ainsy.  
 
-    FANCHON
+    FANCHON.
 Vous fuyez le chagrin⁎.  
 
-    BONIFACE
+    BONIFACE.
         Mon partage est la joye,  
 Par elle on a des jours filez d'or & de soye.  
 Non, non, point de chagrin, vive la gayeté,  
 Elle nourrit l'esprit, & soûtient la santé.  
 
-    FANCHON
+    FANCHON.
 Que vostre humeur me plaist ! Ah Monsieur Boniface,  
 Qu'un grand fond de santé reluit sur vostre face !  
 Quel teint ! Vous estes né d'une compléxion,  
@@ -3544,129 +3544,129 @@ Gras, dodu, l'humeur gaye ; Ah quel embonpoint d'Homme !
 Un Malade, à vous voir, pourroit estre guery :  
 Où prenez-vous le glan dont vous estes nourry ?   
 
-    BONIFACE
+    BONIFACE.
 Eh je le prens, Fanchon, où vous prenez le vostre,  
 Et dans tous mes repas je n'en use point d'autre.  
 
-    FANCHON
+    FANCHON.
 Du moins il vous profite autant & plus qu'à moy,  
 Cela se voit.  
 
-    BONIFACE
+    BONIFACE.
         Oüy ; mais parlons de bonne-foy ;  
 Fanchon, vostre embonpoint assez du mien approche,  
 Je suis un peu Cochon, vous estes un peu Coche.  
 
-    FANCHON
+    FANCHON.
 Vous, un peu ? Bon ; Je gage, au rapport de mes yeux,  
 Que si je peze un cent, vous en pezez bien deux.  
 
-    BONIFACE
+    BONIFACE.
 Tel que je sois enfin, je suis peu haïssable,  
 Et je vous aime autant que vous estes aimable⁎.  
 
-    FANCHON
+    FANCHON.
 Ne parlons point d'aimer, & changeons de propos.  
 
 
-### SCENE VIII
+### SCENE VIII.
 LA RONCE, FANCHON, BONIFACE.
 
 
-    LA RONCE
+    LA RONCE.
 Fort-bien. Ne viens-je point icy mal à propos ?  
 
-    FANCHON
+    FANCHON.
 Non.  
 
-    LA RONCE
+    LA RONCE.
     Avez-vous tout dit ?  
 
-    FANCHON
+    FANCHON.
         Nous n'avons rien à dire.   
 
-    LA RONCE
+    LA RONCE.
 Si je suis importun, parlez, je me retire.  
 
-    BONIFACE
+    BONIFACE.
 Non, demeurez, je sors.  
 
-    LA RONCE
+    LA RONCE.
     En suis-je cause ?  
 
-    BONIFACE
+    BONIFACE.
         Non.  
 
-    LA RONCE
+    LA RONCE.
 Si c'est moy…  
 
-    BONIFACE
+    BONIFACE.
         Non, vous dis-je ; Adieu, belle Fanchon.  
 
-    FANCHON
+    FANCHON.
 Adieu, beau Boniface.  
 
-    BONIFACE *s'en allant, fait une grande revérence.*
+    BONIFACE *s'en allant, fait une grande revérence.*.
     Ah !  
 
 
-### SCENE IX
+### SCENE IX.
 FANCHON, LA RONCE.
 
 
-    FANCHON
+    FANCHON.
     Qu'est-ce ?  
 
-    LA RONCE
+    LA RONCE.
         On vous demande.  
 
-    FANCHON
+    FANCHON.
 Et qui ?  
 
-    LA RONCE
+    LA RONCE.
     C'est vostre Maistre à chanter.   
 
-    FANCHON
+    FANCHON.
         Qu'il attende.  
 
-    LA RONCE
+    LA RONCE.
 Il est pressé, dit-il.  
 
-    FANCHON
+    FANCHON.
         Qu'il revienne tantost⁎ :  
 Dy-luy que je ne puis…  
 
-    LA RONCE *voulant s'en aller.*
+    LA RONCE *voulant s'en aller.*.
         Je diray ce qu'il faut.  
 
-    FANCHON *haussant la voix.*
+    FANCHON *haussant la voix.*.
 Et que luy diras-tu ?  
 
-    LA RONCE *revenant.*
+    LA RONCE *revenant.*.
         Qu'une affaire pressée,  
 Pour quelque temps icy vous tient embarassée.  
 L'excuse est-elle bonne ?  
 
-    FANCHON
+    FANCHON.
         Oüy, va, c'est fort bien dit.  
 
-    LA RONCE
+    LA RONCE.
 Est-ce que vous croyez que je manque d'esprit ?  
 
-    FANCHON
+    FANCHON.
 Non, mais par trop d'ardeur tu prestes peu silence,  
 Et souvent tu répons, sans sçavoir ce qu'on pense.  
 
-    LA RONCE
+    LA RONCE.
 Moy ?  
 
-    FANCHON *luy fermant la bouche.*
+    FANCHON *luy fermant la bouche.*.
         Va rendre réponse à mon Maistre à chanter.  
 
-    LA RONCE
+    LA RONCE.
 Mais…  
 
-    FANCHON
+    FANCHON.
         Va, te dis-je ; apres je sçauray t'écouter.  
 Seule.
 
@@ -3682,223 +3682,223 @@ De trop d'estime d'eux leur esprit les enyvre,
 Et croit que leur avis est le seul qu'il faut suivre.  
 
 
-### SCENE X
+### SCENE X.
 LA RONCE, FANCHON.
 
 
-    FANCHON
+    FANCHON.
 Hé bien, reviendra-t-il ?  
 
-    LA RONCE
+    LA RONCE.
         Il n'y manquera pas.  
 
-    FANCHON
+    FANCHON.
 Qu'a-t-il dit ?  
 
-    LA RONCE
+    LA RONCE.
     Rien.  
 
-    FANCHON
+    FANCHON.
     Tant-mieux.  
 
-    LA RONCE
+    LA RONCE.
         Le Bréton est là-bas.  
 
-    FANCHON
+    FANCHON.
 Le Bréton !  
 
-    LA RONCE
+    LA RONCE.
         Autrement le Valet de Mélante ;  
 Il demande Monsieur pour affaire pressante.  
 
-    FANCHON
+    FANCHON.
 Je sçay bien ce que c'est ; Dy-luy qu'il vienne icy.   
 
-    LA RONCE
+    LA RONCE.
 Il a beu plus d'un coup.  
 
-    FANCHON
+    FANCHON.
     Qu'importe.  
 
-    LA RONCE
+    LA RONCE.
         Le voicy.  
 
 
-### SCENE XI
+### SCENE XI.
 FANCHON, LE BRETON, LA RONCE.
 
 
-    FANCHON
+    FANCHON.
 Que veux-tu ?  
 
-    LE BRETON *un peu yvre.*
+    LE BRETON *un peu yvre.*.
     Je veux…  
 
-    FANCHON
+    FANCHON.
     Quoy ?  
 
-    LE BRETON
+    LE BRETON.
         Je veux Monsieur ton Maistre.  
 
-    FANCHON
+    FANCHON.
 Il est sorty.  
 
-    LE BRETON
+    LE BRETON.
         Tant-pis : Mais où donc peut-il estre ?  
 
-    FANCHON
+    FANCHON.
 Je ne sçay.  
 
-    LE BRETON *faisant un hoquet.*
+    LE BRETON *faisant un hoquet.*.
     Tu ne sçais ?  
 
-    FANCHON
+    FANCHON.
     Non.   
 
-    LE BRETON
+    LE BRETON.
         Il faut le chercher,  
 Car mon Maistre dans peu…  
 
-    FANCHON
+    FANCHON.
         Parle sans t'aprocher.  
 
-    LE BRETON
+    LE BRETON.
 Pourquoy ?  
 
-    FANCHON
+    FANCHON.
     Pour rien.  
 
-    LE BRETON
+    LE BRETON.
         Fanchon, mon ame… te convoite,  
 Je t'aime.  
 
-    FANCHON
+    FANCHON.
     Soûtiens-toy [228].  
 
-    LE BRETON
+    LE BRETON.
         Crois-tu que je sois boite ?  
 
-    FANCHON
+    FANCHON.
 Boite ?  
 
-    LE BRETON
+    LE BRETON.
         Oüy, c'est à dire yvre, en langage Breton.  
 
-    FANCHON
+    FANCHON.
 Je m'en raporte à toy.  
 
-    LE BRETON
+    LE BRETON.
     Je n'ay pas beu.  
 
-    LA RONCE
+    LA RONCE.
         Luy ? Bon.  
 Il est à jeun, voyez.  
 
-    LE BRETON *faisant un hoquet.*
+    LE BRETON *faisant un hoquet.*.
         Oüy da, qu'en veux-tu dire ?  
 
-    FANCHON *riant.*
+    FANCHON *riant.*.
 Courage.  
 
-    LA RONCE
+    LA RONCE.
         Il n'a pas beu, c'est d'amour qu'il soûpire.   
 
-    FANCHON
+    FANCHON.
 Mais ton Maistre, dy-moy…  
 
-    LE BRETON
+    LE BRETON.
         Dans peu tu le verras :  
 Chantons en l'attendant.  
 
-    FANCHON *riant.*
+    FANCHON *riant.*.
     Fort-bien.  
 
-    LE BRETON
+    LE BRETON.
         Tu ne veux pas,  
 Toy qui chantes si bien, qu'aucun n'y peut atteindre ?  
 J'aime à t'oüir chanter, car tu chantes à peindre [229].  
 Vois-tu, je paye Pot [230] ; çà, chante un Passe-Pié [231].  
 
-    FANCHON
+    FANCHON.
 Je n'en sçay point.  
 
-    LE BRETON
+    LE BRETON.
     Ecoute.  
 Il chante & dance un Passe-Pié & il tombe.
 
 
-    FANCHON *riant.*
+    FANCHON *riant.*.
         Il s'est estropié,  
 Releve-le.  
 
-    LE BRETON
+    LE BRETON.
         Dy-moy, sçais-je pas la cadance ?  
 
-    LA RONCE *le relevant.*
+    LA RONCE *le relevant.*.
 Oüy.  
 
-    LE BRETON
+    LE BRETON.
         Prens ton Violon, tu verras si je dance [232].  
 
-    LA RONCE *riotant⁎.*
+    LA RONCE *riotant⁎.*.
 On ne peut mieux dancer.  
 
-    LE BRETON *se relevant.*
+    LE BRETON *se relevant.*.
         Ah tu fais le rieur.  
 
-    LA RONCE
+    LA RONCE.
 Point.  
 
-    LE BRETON *prend La Ronce par la main, & chante & dance le Passe-Pié.*
+    LE BRETON *prend La Ronce par la main, & chante & dance le Passe-Pié.*.
     Le pied m'a glissé ; mais…   
 
 
-### SCENE XII
+### SCENE XII.
 MELANTE, FANCHON, LE BRETON, LA RONCE.
 
 
-    MELANTE *entrant, & le regardant.*
+    MELANTE *entrant, & le regardant.*.
     Plaist-il ?  
 
-    LE BRETON
+    LE BRETON.
         Rien, Monsieur ;  
 C'est La Ronce…  
 
-    MELANTE
+    MELANTE.
         Est-ce ainsy que l'on me rend réponce ?  
 
-    LE BRETON
+    LE BRETON.
 Monsieur, je m'en allois, demandez à La Ronce.  
 
-    MELANTE
+    MELANTE.
 Fort-bien. [233]Depuis une heure où s'est-il arresté ?  
 
-    LE BRETON
+    LE BRETON.
 C'est… Nous allons tous deux boire à vostre santé.  
 
-    MELANTE *les regardant aller.*
+    MELANTE *les regardant aller.*.
 Qu'il a beu !  
 
-    FANCHON
+    FANCHON.
     Point du tout.  
 
-    MELANTE
+    MELANTE.
         Quelquefois il s'en donne ;  
 Mais il est bon Valet.  
 
-    FANCHON
+    FANCHON.
         Il a l'humeur boufonne.  
 
-    MELANTE
+    MELANTE.
 Phélonte est-il icy ?   
 
-    FANCHON
+    FANCHON.
     Non.  
 
-    MELANTE *se chagrinant⁎.*
+    MELANTE *se chagrinant⁎.*.
         Le fâcheux moment !  
 
-    FANCHON
+    FANCHON.
 Pour affaire pressée il sort presentement :  
 Mais soyez sans chagrin⁎, je suis de tout instruite,  
 De sa part, avec soin, j'attens vostre visite :  
@@ -3908,12 +3908,12 @@ Et que pour luy parler, vous avez de la peine.
 Icy vous pouvez tout sans que rien vous y gesne ;  
 C'est l'ordre de Monsieur.  
 
-    MELANTE
+    MELANTE.
         Tu m'ostes de soucy⁎ :  
 Cette Dame est en Chaise⁎ à trente pas d'icy,  
 Je m'en vay l'amener.  
 
-    FANCHON
+    FANCHON.
         Moy, je vay vous attendre.  
 seule.
 
@@ -3928,74 +3928,74 @@ Nous trouvons tout possible alors qu'il nous enflâme.
 J'entens parler quelqu'un ; C'est Mélante & sa Dame.   
 
 
-### SCENE XIII
+### SCENE XIII.
 MELANTE, LISE, FANCHON.
 
 
-    MELANTE *entrant.*
+    MELANTE *entrant.*.
 Madame, ostez le masque, & n'apréhendez rien ;  
 Je suis icy le Maistre, & ce Logis est mien.  
 
-    LISE
+    LISE.
 A vostre honnesteté je me laisse conduire ;  
 Vous voulez que je l'oste, & cela doit suffire.  
 
-    MELANTE
+    MELANTE.
 Fanchon, tu vois l'Objet dont mon cœur est charmé⁎.  
 
-    FANCHON
+    FANCHON.
 Je vous tiens fort heureux, si vous estes aimé.  
 
-    MELANTE
+    MELANTE.
 Sur l'espoir de l'Hymen tout mon bonheur se fonde.  
 
-    FANCHON
+    FANCHON.
 Madame a des appas⁎ à charmer⁎ tout le monde.  
 
-    LISE
+    LISE.
 Me railler ?  
 
-    FANCHON
+    FANCHON.
         Je sçay trop tout ce que je vous doy [234],  
 Et quand je parle ainsy, je dis ce que je voy ;  
 A loüer vos appas je me sens engagée.  
 
-    LISE
+    LISE.
 De ces bons sentimens je vous suis obligée.  
 
-    MELANTE
+    MELANTE.
 Fanchon a l'humeur franche, & de l'esprit enfin.  
 
-    FANCHON
+    FANCHON.
 Oh point. Vous plairoit-il de descendre au Jardin ?   
 
-    LISE
+    LISE.
 Volontiers, allons.  
 
-    MELANTE *prend Lise par la main.*
+    MELANTE *prend Lise par la main.*.
     Passe [235].  
 
-    FANCHON
+    FANCHON.
     Ah je sçay trop…  
 
-    MELANTE
+    MELANTE.
         N'importe,  
 Passe.  
 
-    FANCHON
+    FANCHON.
         Puis qu'il vous plaist, je vais ouvrir la Porte.  < Fin du Troisiéme Acte. >
 Les six Laquais sortent comme au premier Acte ; & ayant joüé un Air, on pousse la Ferme, qui les fait disparoistre. Le quatriéme Acte se passe dans la Salle de Dorame, de mesme que le second.
  
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 TOINON, DAPHNIS.
 
 
-    TOINON
+    TOINON.
 L'embarras est leger, & n'aura point de suite⁎ ;  
 Du faux Musicien Angélique est instruite,  
 Elle en sçait l'avanture ; & si notre Vieillard,  
@@ -4004,20 +4004,20 @@ Va, de ce double envoy, luy demander la cause,
 Laissez faire, elle est Femme à bien tourner la chose,  
 N'en appréhendez rien.  
 
-    DAPHNIS
+    DAPHNIS.
         S'il faut t'ouvrir mon cœur,  
 Ce n'est pas là, Toinon, le sujet de ma peur.  
 
-    TOINON
+    TOINON.
 Qu'avez-vous donc ?  
 
-    DAPHNIS
+    DAPHNIS.
         Je crains de n'avoir, qu'à ma honte,  
 Entrepris de fixer⁎ le vagabond Phélonte ;  
 Et que toûjours luy-mesme, il ne soit peu touché  
 De l'avance où pour luy mon cœur s'est relâché.  
 
-    TOINON
+    TOINON.
 J'en aurois, comme vous, un peu de défiance :  
 Phélonte est honneste Homme, & de bonne naissance,  
 Riche, & par son humeur en tous lieux bien venu ;  
@@ -4037,43 +4037,43 @@ Pour vous, sans vous connoistre, il est tout enflâmé,
 Et par vostre Billet… Mais Crispin qui s'avance…  
 
 
-### SCENE II
+### SCENE II.
 CRISPIN, DAPHNIS, TOINON.
 
 
-    CRISPIN
+    CRISPIN.
 Mon Maistre, de vous voir, brûle d'impatience,  
 Madame ; il attend l'ordre à quatre pas d'icy.  
 
-    TOINON
+    TOINON.
 Cours le faire entrer.   
 
-    DAPHNIS
+    DAPHNIS.
     Non.  
 
-    CRISPIN
+    CRISPIN.
         Quel scrupule est-ce-cy ?  
 
-    DAPHNIS
+    DAPHNIS.
 Je crains trop que mon Pere…  
 
-    TOINON
+    TOINON.
         Eh mon Dieu, vostre Pere  
 Est sorty pour longtemps. Va, Crispin…  
 
-    DAPHNIS
+    DAPHNIS.
         Qu'il différe,  
 Le péril me fait peur ; Une autre fois, Toinon,  
 Je m'offre…  
 
-    TOINON
+    TOINON.
         Une autre fois vous diriez encor non ;  
 Point de remise.  
 
-    DAPHNIS
+    DAPHNIS.
         Quoy ! tu veux que je hazarde…  
 
-    CRISPIN
+    CRISPIN.
 Vous allez tout gaster, si vous n'y prenez garde,  
 Car mon Maistre n'est pas de ces Martyrs d'amour,  
 Qui pour un rendez-vous font le guet tout un jour ;  
@@ -4083,59 +4083,59 @@ Puis que par vostre Lettre il s'est laissé charmer⁎,
 Prenez-le moy tandis qu'il est en train d'aimer ;  
 Il est certains momens, pouveu qu'on le mitonne…  
 
-    TOINON
+    TOINON.
 Quand l'occasion presse, est-il temps qu'on raisonne ?  
 Devrois-tu pas déja l'avoir averty ? Cours,  
 Sans plus jaser.  
 
-    CRISPIN *s'en allant.*
+    CRISPIN *s'en allant.*.
     J'ay tort.   
 
 
-### SCENE III
+### SCENE III.
 DAPHNIS, TOINON.
 
 
-    DAPHNIS
+    DAPHNIS.
         Où sera mon recours,  
 Si mon Pere survient ? Tu me pers.  
 
-    TOINON
+    TOINON.
         A ce compte,  
 Ce n'est donc rien pour vous, que d'acquérir Phélonte ?  
 J'enrage de vous voir sottement barguigner⁎ !  
 Qu'est-ce, qu'en reculant, vous auriez pû gagner ?  
 Prétendez-vous qu'il aime un Objet⁎ invisible ?  
 
-    DAPHNIS
+    DAPHNIS.
 Non ; mais le voir ailleurs, n'estoit pas impossible,  
 Et nous eussions cherché…  
 
-    TOINON
+    TOINON.
         Le plutost vaut le mieux.  
 Il vient, songez à vous.   
 
 
-### SCENE IV
+### SCENE IV.
 PHELONTE, DAPHNIS, CRISPIN, TOINON.
 
 
-    PHELONTE *à Crispin en entrant.*
+    PHELONTE *à Crispin en entrant.*.
         Qu'elle est aimable⁎ ! Ah Dieux !  
 D'amour, en la voyant, j'ay déja l'ame pleine.  
 
-    CRISPIN
+    CRISPIN.
 Je vous l'avois bien dit, qu'elle en valloit la peine :  
 Voyez comme ses yeux friponnement tournez…  
 
-    PHELONTE
+    PHELONTE.
 Qu'ils sont touchans, Crispin !  
 
-    CRISPIN
+    CRISPIN.
         Le friand petit nez !  
 Si j'estois vous, Monsieur, j'en tâterois.  
 
-    PHELONTE
+    PHELONTE.
         Madame,  
 Ne vous étonnez point du trouble de mon ame ;  
 La surprise⁎ où je suis de voir tant de beauté,  
@@ -4146,14 +4146,14 @@ Je sors enfin d'erreur, & sens aupres de vous,
 Que vous offrir des vœux, est le sort le plus doux.  
 Souffrez donc que les miens…  
 
-    DAPHNIS
+    DAPHNIS.
         Ah ç'en est trop, Phélonte,  
 Toute ardeur m'est suspecte alors qu'elle est si prompte,  
 Et quoy que vous veüillez trouver en moy d'appas⁎,  
 On aime foiblement ce qu'on ne connoist pas ;  
 Le temps seul…  
 
-    PHELONTE
+    PHELONTE.
         Non, Madame, alors qu'il faut qu'on aime,  
 L'Amour, en un moment, prend un pouvoir extréme ;  
 J'en fais l'expérience, on m'a veu mille fois  
@@ -4166,7 +4166,7 @@ Voyez-en dans les miens l'assuré témoignage,
 Ils parlent, c'est à vous d'entendre leur langage,  
 Ils vous seront garants…  
 
-    DAPHNIS
+    DAPHNIS.
         Que diriez-vous de moy,  
 Si j'avois pour les croire assez de bonne-foy ?  
 On vous connoist Phélonte, aujourd'huy c'est mon regne,  
@@ -4174,13 +4174,13 @@ Il n'est cœur que pour moy le vostre ne dédaigne [238],
 Et demain par l'Amour vers un autre appellé,  
 Vous ne songerez pas que vous m'avez parlé.  
 
-    PHELONTE
+    PHELONTE.
 Je n'y songeray pas, Madame ? quel outrage !  
 De mon cœur tout à vous, vous soupçonnez l'hommage :  
 Si ce cœur n'est toûjours ferme à vous adorer,  
 Que le Ciel…  
 
-    TOINON
+    TOINON.
         Pensez-vous estre crû pour jurer ?  
 Ce n'est pas en amour un secours fort utile ;  
 Les Amans, quels qu'ils soient, ont tous le mesme stile ;  
@@ -4188,26 +4188,26 @@ Et si chaque serment leur tenoit lieu d'effets,
 Le Fourbe gagneroit sa Cause à peu de frais ;  
 Ce sont toûjours beaux mots, mais non pas sans reserve.   
 
-    PHELONTE
+    PHELONTE.
 C'est à tort…  
 
-    TOINON
+    TOINON.
         Voyez-vous, il n'est qu'un mot qui serve ;  
 Quand on veut de deux cœurs assurer l'union,  
 On y broüille trois grains de *Matrimonium* :  
 Cela fait, on se peut aimer tout à son aise.  
 
-    PHELONTE
+    PHELONTE.
 Oserois-je espérer que le Party vous plaise ?  
 Dans la brûlante ardeur qui m'engage aux soûpirs,  
 L'Hymen est le seul but où tendent mes desirs.  
 Madame, prononcez ; & quand mon cœur se donne…  
 
-    DAPHNIS
+    DAPHNIS.
 Phélonte, en verité, ce changement m'étonne⁎ :  
 Quoy ! vous, parler d'Hymen, c'est dequoy s'écrier…  
 
-    PHELONTE
+    PHELONTE.
 Oüy, j'ay blâmé quiconque osoit se marier :  
 Cependant, avec vous, telle est ma destinée,  
 Que sans voir ma fortune à la vostre enchaînée,  
@@ -4217,110 +4217,110 @@ A ce doux charme⁎ en vain j'ay voulu mettre obstacle,
 Et voila que vos yeux achevent ce miracle ;  
 Les désavoûrez-vous, ces beaux yeux que l'Amour…  
 
-    DAPHNIS
+    DAPHNIS.
 De peur d'en dire trop, pensez-y plus d'un jour ;  
 Il est bon quelquefois de n'aller pas si viste.  
 
-    PHELONTE
+    PHELONTE.
 Non, je suis convaincu de tout vostre mérite ;  
 Et pour vous empescher de douter de mon feu,  
 Je vais à vostre Pere en demander l'aveu⁎ ;  
 S'il ne me connoist pas, il connoist ma Famille.  
 
-    DAPHNIS
+    DAPHNIS.
 Quelque rang où l'Hymen pût élever sa Fille,  
 Comme il faut peu de chose à le mécontenter,  
 Le prendre au dépouveu, ce seroit tout gaster :  
 Ne vous déclarez point, que je ne vous revoye.  
 
-    PHELONTE
+    PHELONTE.
 Et quand puis-je, Madame, espérer cette joye ?  
 
-    DAPHNIS
+    DAPHNIS.
 Peut-estre que chez vous j'iray dés aujourd'huy.  
 Séparons-nous ; adieu.  
 
-    PHELONTE
+    PHELONTE.
         Vous quitter ! quel ennuy⁎ !  
 
-    DAPHNIS
+    DAPHNIS.
 Je ne puis vous parler icy, que je ne tremble ;  
 Mon Pere peut venir, & s'il nous trouve ensemble,  
 Quoy que vous luy disiez, il n'écoutera rien.  
 
-    PHELONTE
+    PHELONTE.
 Mais me priver si-tost d'un si cher entretien,  
 Madame…  
 
-    DAPHNIS *entendant fraper à la Porte.*
+    DAPHNIS *entendant fraper à la Porte.*.
         Je l'entens, c'est luy, que deviendray-je ?  
 
-    PHELONTE
+    PHELONTE.
 Une honneste recherche⁎ a quelque privilege ;  
 Et si je luy dis…  
 
-    DAPHNIS
+    DAPHNIS.
     Non. Toinon, & viste [240].  
 
-    TOINON
+    TOINON.
         Quoy,  
 Peut-on… Comme il redouble !  
 
-    DAPHNIS
+    DAPHNIS.
         Et tost, c'est fait de moy.  
 Que dans ce Cabinet ils entrent l'un & l'autre.  
 
-    CRISPIN
+    CRISPIN.
 Monsieur, nous voila pris.  
 
-    TOINON
+    TOINON.
         Ma pensée est la vostre ;  
 Coulez-vous là-dedans, & *motus*. L'on y va [241].  
 
-    CRISPIN *entrant.*
+    CRISPIN *entrant.*.
 Peste ! il a belle haste.  
 
-    DAPHNIS
+    DAPHNIS.
         Et la Clef, tire-la.  
 
-    TOINON
+    TOINON.
 Mon Dieu, ne craignez rien. Il heurte avec emphase.  
 
 
-### SCENE V
+### SCENE V.
 DAPHNIS, ANASTASE, TOINON.
 
 
-    TOINON *apres avoir ouvert la Porte.*
+    TOINON *apres avoir ouvert la Porte.*.
 Au Diable l'animal !  
 
-    DAPHNIS
+    DAPHNIS.
         Quoy ! Monsieur Anastase,  
 C'est donc vous…  
 
-    ANASTASE *faisant une grande revêrence.*
+    ANASTASE *faisant une grande revêrence.*.
         Oüy, Madame, excusez si j'ay tort.  
 
-    TOINON
+    TOINON.
 Comme il frape !  
 
-    ANASTASE
+    ANASTASE.
         J'ay crû ne fraper pas trop fort.  
 
-    TOINON
+    TOINON.
 Justement. Il croyoit heurter à son College.  
 
-    ANASTASE
+    ANASTASE.
 Il est vray qu'on s'y donne un peu de privilege,  
 Et qu'à grand bruit toûjours chaque chose s'y fait.  
 Avec des Ecoliers du repos !  
 
-    DAPHNIS
+    DAPHNIS.
         En effet :  
 Mais, Monsieur Anastase, en deux mots, voyons, qu'est-ce ?  
 Que voulez-vous ?  
 
-    ANASTASE
+    ANASTASE.
         L'Etude orne bien la Jeunesse,  
 Et j'ay mis, grace au Ciel, vostre Frere en état  
 De soûtenir bientost sa These avec éclat.  
@@ -4329,211 +4329,211 @@ Que les Universaux & les Cathégories,
 Sans certains Argumens sur l'étre de raison [242],  
 Par lesquels…  
 
-    DAPHNIS
+    DAPHNIS.
     Finissons, si vous le pouvez.  
 
-    TOINON
+    TOINON.
         Bon :  
 Pensez-vous qu'un Pédant d'un seul mot se contente ?  
 C'est…  
 
-    ANASTASE
+    ANASTASE.
         Madame, Toinon est toûjours mordicante⁎,  
 Et son aversion, quoy que sans fondement,  
 Ne m'a jamais traitté qu'antipatiquement :  
 Quand elle auroit puisé dans le sein de la haine,  
 Les dédains corrosifs…  
 
-    TOINON
+    TOINON.
         Vostre fievre-quartaine [243]:  
 Voyez ce qu'il veut dire avec son corrosif ?  
 Eh parlez-nous Chretien.  
 
-    ANASTASE
+    ANASTASE.
         Ah cœur vindicatif !  
 Elle m'en a voulu, depuis qu'un jour contr'elle…  
 
-    DAPHNIS
+    DAPHNIS.
 Oüy ; mais sçachons vers nous quel sujet vous appelle.  
 
-    ANASTASE
+    ANASTASE.
 Je viens trouver Monsieur de la part de son Fils,  
 Luy rendre cette Lettre.   
 
-    DAPHNIS
+    DAPHNIS.
         Il n'est pas au Logis ;  
 Je la rendray pour vous, donnez.  
 
-    ANASTASE *retenant la Lettre.*
+    ANASTASE *retenant la Lettre.*.
         Je vay l'attendre,  
 L'affaire le requiert. Pour vous la faire entendre,  
 Vous sçaurez…  
 
-    TOINON
+    TOINON.
         On ne veut y prendre aucune part,  
 Délogez ; car Monsieur ne reviendra que tard.  
 
-    ANASTASE
+    ANASTASE.
 Tard soit, il est besoin que j'en aye audiance.  
 
-    TOINON
+    TOINON.
 Revenez donc tantost⁎.  
 
-    ANASTASE
+    ANASTASE.
         Non, j'auray patience,  
 Et n'incommodant pas, j'aime mieux en ce lieu…  
 
-    TOINON
+    TOINON.
 Le Mouchoir⁎ de Madame est de travers ; Adieu,  
 Il faut le rajuster, point de Témoins.  
 
-    ANASTASE
+    ANASTASE.
         Diane  
 Fut jadis exposée aux regards d'un Profane ;  
 Ses yeux gasterent-ils les celestes beautez… [244]  
 
-    TOINON
+    TOINON.
 Quoy ! Messieurs du College aiment les nuditez ?  
 Je ne le sçavois pas.  
 
-    ANASTASE
+    ANASTASE.
     La Nature…  
 
-    DAPHNIS
+    DAPHNIS.
         Eh, de grace,  
 Ne moralisez point, & nous quittez la place.  
 
-    ANASTASE
+    ANASTASE.
 Vous avez droit d'agir impérativement,  
 Je sors, & suis fâché…   
 
-    TOINON
+    TOINON.
         Trévé de compliment⁎,  
 On vous quitte [245].  
 
-    DAPHNIS
+    DAPHNIS.
         Enfin il s'en va, je respire.  
 
 
-### SCENE VI
+### SCENE VI.
 TOINON, DAPHNIS.
 
 
-    TOINON
+    TOINON.
 Qu'un Pédant à souffrir est un cruel martyre !  
 
-    DAPHNIS
+    DAPHNIS.
 Ne perdons point de temps, de crainte d'avoir pis ;  
 Congédions…  
 
 
-### SCENE VII
+### SCENE VII.
 DORAME, ANASTASE, DAPHNIS, TOINON.
 
 
-    DORAME *à Anastase.*
+    DORAME *à Anastase.*.
         J'estois en peine de mon Fils,  
 Comment est-il ?  
 
-    ANASTASE
+    ANASTASE.
     Fort bien, Monsieur.  
 
-    DAPHNIS [246]
+    DAPHNIS [246].
         Toinon, que faire ?   
 
-    TOINON
+    TOINON.
 Ne rien dire, & laisser raisonner vostre Pere.  
 
-    DORAME
+    DORAME.
 Nous ne l'avons point veu depuis huit ou dix jours.  
 
-    ANASTASE
+    ANASTASE.
 A raciociner⁎ comme il vaque toûjours,  
 Il ne sort point, & c'est pour cela qu'il m'envoye  
 Vous faire humble requeste.  
 
-    DORAME
+    DORAME.
         Ah j'en ay de la joye.  
 Dequoy donc s'agit-il ?  
 
-    ANASTASE
+    ANASTASE.
         D'un accommodement.  
 
-    DORAME
+    DORAME.
 Est-ce qu'il auroit eu querelle ?  
 
-    ANASTASE
+    ANASTASE.
         Nullement ;  
 Il a vers la douceur, propension entiere :  
 Mais un sien Camarade agissant par priere,  
 Luy fait sur certain cas prendre son intérest.  
 Cette Lettre, Monsieur, vous dira ce que c'est.  
 
-    DAPHNIS *à Toinon, tandis que Dorame lit bas.*
+    DAPHNIS *à Toinon, tandis que Dorame lit bas.*.
 Je ne sçais où j'en suis, s'il falloit pour écrire  
 Que dans ce Cabinet…  
 
-    TOINON
+    TOINON.
         Vous mettez tout au pire.  
 Que sert de craindre ? Alors comme alors, on verra,  
 Si l'embarras échoit, comme [247] on s'en tirera.  
 
-    DORAME *apres avoir leu.*
+    DORAME *apres avoir leu.*.
 Oüy, Monsieur Anastase, avec plaisir j'espere  
 Venir, sans trop de peine, à bout de cette affaire,  
 Assurez-en mon Fils ; J'aime à voir que son cœur,  
 A de semblables soins, se porte avec ardeur.   
 
-    ANASTASE
+    ANASTASE.
 Au bien *Pedetentim* [248] toûjours je l'achemine,  
 L'induis aux bonnes mœurs ; & sous ma discipline,  
 Depuis cinq ans entiers, il est à remarquer,  
 Qu'il n'a sçeu ce que c'est que de prévariquer⁎.  
 
-    DORAME
+    DORAME.
 Je suis content de vous, autant qu'on le peut estre.  
 
-    ANASTASE
+    ANASTASE.
 Monsieur, sans vanité…  
 
-    TOINON *bas.*
+    TOINON *bas.*.
         Finira-t-il, le traistre ?  
 
-    ANASTASE
+    ANASTASE.
 Le Ciel m'a de tout temps concedé le talent,  
 Quand j'ay soin d'un terroir, de le rendre excellent ;  
 Il n'est que d'estre mis d'abord en bonne Ecole ;  
 Car la jeunesse, elle est comme une cire mole… [249]  
 
-    DORAME
+    DORAME.
 C'est fort bien dit, allez, je sçay ce que je doy,  
 Et l'on ne perd jamais ce que l'on fait pour moy.  
 Demain, mon Fils sçaura ce que j'auray pû faire ;  
 Adieu.  
 
 
-### SCENE VIII
+### SCENE VIII.
 TOINON, ANASTASE, DAPHNIS.
 
 
-    TOINON *à Daphnis.*
+    TOINON *à Daphnis.*.
         Bon, nous voila quittes de vostre Pere.  
 
-    ANASTASE *à Daphnis.*
+    ANASTASE *à Daphnis.*.
 Que m'ordonnerez-vous ?  
 
-    TOINON
+    TOINON.
         De décamper ; Bon-soir.   
 
-    DAPHNIS
+    DAPHNIS.
 A mon Frere, qu'il est trop longtemps sans me voir.  
 
-    ANASTASE *revenant.*
+    ANASTASE *revenant.*.
 Quoy qu'il soit, sans vouloir user de privilege,  
 Rigide observateur des Regles du College,  
 Si c'est necessité necessitante…  
 
-    DAPHNIS
+    DAPHNIS.
         Non,  
 Quand il pourra venir, qu'il vienne.  
 Il sort.
@@ -4541,238 +4541,238 @@ Il sort.
         Enfin, Toinon,  
 Nostre Importun…  
 
-    TOINON
+    TOINON.
         Maudit soit tout Pédant qui jase.  
 
 
-### SCENE IX
+### SCENE IX.
 DORAME, ANASTASE, DAPHNIS, TOINON.
 
 
-    DORAME *revenant.*
+    DORAME *revenant.*.
 J'allois oublier. Ho, Monsieur Anastase.  
 
-    TOINON
+    TOINON.
 Il est déja bien loin, & ne vous entend pas.  
 
-    DORAME
+    DORAME.
 Pas si loin ; je le voy qui revient sur ses pas.  
 
-    ANASTASE
+    ANASTASE.
 Monsieur.  
 
-    DAPHNIS *bas à Toinon.*
+    DAPHNIS *bas à Toinon.*.
     Le rappeller !  
 
-    TOINON
+    TOINON.
         C'est bien une autre histoire.  
 
-    DORAME
+    DORAME.
 J'ay fait, depuis deux jours, achapt d'une Ecritoire,  
 Que vous m'obligerez de porter à mon Fils ;  
 Elle est toute gravée, & d'un travail exquis ;  
 Je vous la vay donner.  
 
-    DAPHNIS
+    DAPHNIS.
         Ah me voila perduë !  
 
-    DORAME *ne trouvant point la Clef.*
+    DORAME *ne trouvant point la Clef.*.
 La Clef du Cabinet, qu'est-elle devenuë ?  
 
-    TOINON
+    TOINON.
 Moy, le dois-je sçavoir ? Elle peut estre en bas,  
 Il faut y voir.  
 
-    DORAME
+    DORAME.
         Je cherche, & ne la trouve pas ;  
 Je l'ay tantost⁎ laissée à la Porte.  
 
-    DAPHNIS
+    DAPHNIS.
         Peut-estre  
 Toinon en balayant…  
 
-    DORAME
+    DORAME.
         Tout sur le dos du Maistre.  
 Les Valets sont bien nez pour nous faire enrager !  
 Qu'ils perdent, brisent tout…  
 
-    TOINON
+    TOINON.
         Le dégast est léger :  
 Hé bien, c'est une Clef, voyez la grande perte !  
 
-    DORAME
+    DORAME.
 Mais si du Cabinet la Porte n'est ouverte ?  
 L'Ecritoire est dedans.  
 
-    TOINON
+    TOINON.
         Le beau sujet d'ennuy⁎ !  
 Vous l'envoyrez demain, si ce n'est aujourd'huy.  
 
-    DORAME
+    DORAME.
 Oyez-la raisonner.  
 
-    ANASTASE
+    ANASTASE.
         Comme je suis tout vostre,  
 Demain, puis que la Clef…   
 
-    DORAME
+    DORAME.
         J'en ay là-haut une autre,  
 Je m'en vay la chercher.  
 
-    DAPHNIS *bas à Toinon.*
+    DAPHNIS *bas à Toinon.*.
         Fay ce que tu pourras ;  
 Quant à moy je me sauve, & ne l'attendray pas.  
 
-    TOINON
+    TOINON.
 Eh que pourray-je faire ? [250] Elle sort, & me laisse.  
 
 
-### SCENE X
+### SCENE X.
 ANASTASE, TOINON.
 
 
-    ANASTASE
+    ANASTASE.
 Donc, Madame Toinon sera toûjours tygresse,  
 Et rien n'adoucira son naturel felon⁎ ?  
 
-    TOINON *à Anastase.*
+    TOINON *à Anastase.*.
 Montez viste, Monsieur vous appelle.  
 
-    ANASTASE
+    ANASTASE.
         Moy ? Non,  
 Il ne m'appelle point.  
 
-    TOINON
+    TOINON.
         Vous estes sourd, je pense.  
 
-    ANASTASE
+    ANASTASE.
 Ma faculté d'oüir n'est point en défaillance ;  
 Et si quelque douceur de vostre chere voix…  
 
-    TOINON *rêpondant comme si on l'appelloit.*
+    TOINON *rêpondant comme si on l'appelloit.*.
 Tout-à-l'heure [251]. Avez-vous entendu cette fois ?  
 
-    ANASTASE
+    ANASTASE.
 Rien moins.  
 
-    TOINON
+    TOINON.
         Il vous attend ; montez là-haut, vous dis-je.   
 
-    ANASTASE
+    ANASTASE.
 O trop fier rejetton d'une sauvage tige [252] !  
 Par quelle dureté m'envier⁎ le trésor  
 De l'heureux teste-à-teste ? Helas ! qu'au poids de l'or  
 Je voudrois mille fois…  
 
-    TOINON
+    TOINON.
         Peste de la pécore⁎ !  
 
 
-### SCENE XI
+### SCENE XI.
 DORAME, ANASTASE, TOINON.
 
 
-    DORAME
+    DORAME.
 Voicy mon autre Clef, qu'on me la perde encore.  
 
-    TOINON *bas.*
+    TOINON *bas.*.
 Tout va se découvrir.  
 
-    DORAME *ouvrant la porte.*
+    DORAME *ouvrant la porte.*.
         Si… Mais que vois-je là ?  
 Crispin au dedans chante, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa, bis. & ils sortent en continuant.
  
 
 
-### SCENE XII
+### SCENE XII.
 DORAME, ANASTASE, PHELONTE, CRISPIN, TOINON.
 
 
-    CRISPIN *en sortant, à Phélonte, qui tient un papier.*
+    CRISPIN *en sortant, à Phélonte, qui tient un papier.*.
 Suivez bien vostre Mode [253], allons, par *E mi la*.  
         *Le mesme, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.* bis.  
 
-    DORAME *à Toinon.*
+    DORAME *à Toinon.*.
 Que veut dire cecy ? répons.  
 
-    TOINON
+    TOINON.
         Quelle demande !  
 
-    DORAME
+    DORAME.
 Deux Hommes !  
 
-    TOINON
+    TOINON.
         La surprise en doit estre bien grande ;  
 Est-ce une nouveauté que deux Hommes ?  
 
-    CRISPIN *à Phélonte.*
+    CRISPIN *à Phélonte.*.
         *La, la*,  
 à Dor.
 
 Monsieur, vous voulez bien nous pardonner cela.  
 
-    DORAME
+    DORAME.
 Ne sçachant…  
 
-    PHELONTE *à Dorame.*
+    PHELONTE *à Dorame.*.
         Excusez, si j'ose avec franchise⁎,  
 Prendre une liberté que Monsieur autorise :  
 Comme il a commencé, c'est à luy jusqu'au bout,  
 A vous…   
 
-    CRISPIN [254] 
+    CRISPIN [254].
         Les Gens d'honneur sont bien venus par tout,  
 Et Monsieur, qui sçait vivre, est Homme raisonnable,  
 Il excuse aisément…  
 
-    PHELONTE *à Dorame.*
+    PHELONTE *à Dorame.*.
         En rencontre⁎ semblable,  
 Vous…  
 
-    CRISPIN
+    CRISPIN.
         Monsieur est tout cœur pour les honnestes Gens :  
 L'heure me presse un peu, ne perdons point de temps.  
 
-    DORAME *à part.*
+    DORAME *à part.*.
 Deux Hommes enfermez ; point de clef ; Patience,  
 Nous éclaircirons tout.  
 
-    CRISPIN *à Phélonte.*
+    CRISPIN *à Phélonte.*.
     Chantez donc.  
 
-    PHELONTE
+    PHELONTE.
         Je commence.  
 
-    CRISPIN
+    CRISPIN.
 Je l'ay fort bien noté : Là, marquez bien ce *fa*,  
 Fa, fa.  
 
-    DORAME [255]
+    DORAME [255].
         Me raille-t-on ? quel Prélude est-ce là ?  
 Il faut voir jusqu'au bout.  
 
-    ANASTASE
+    ANASTASE.
         La Musique est touchante.  
 
-    DORAME *faisant signe du doigt.*
+    DORAME *faisant signe du doigt.*.
 Toinon…  
 
-    TOINON
+    TOINON.
         Hé bien, est-il défendu qu'on ne chante ?  
 
-    CRISPIN
+    CRISPIN.
 Sol, sol.  
 A Dor.
 
     Nous aurons fait dans un moment.  
 
-    PHELONTE
+    PHELONTE.
         *Fa, mi*…  
 
-    CRISPIN
+    CRISPIN.
 Hardiment ; A quoy bon entonner à demy ?   
 
-    PHELONTE* chante, & Crispin bat la mesure.* 
+    PHELONTE* chante, & Crispin bat la mesure.*.
 L'Amour cause trop de peine,  
 Je ne veux plus m'engager ;  
 Un Amant souffre la gesne⁎,  
@@ -4780,36 +4780,36 @@ Quand l'Objet⁎ vient à changer.
 L'Amour cause trop de peine,  
 Je ne veux plus m'engager.  
 
-    CRISPIN, *apres que Phêlonte a chanté, se retourne* 
+    CRISPIN, *apres que Phêlonte a chanté, se retourne*.
 devers Dorame, battant la mesure.
 
 *Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.* bis.
 La Basse continuë, oyez.  
 
-    DORAME
+    DORAME.
         Je vous entens.  
 
-    CRISPIN *à Phélonte.*
+    CRISPIN *à Phélonte.*.
 Allons, encore un coup, marquez moy bien vos temps.  
 PHELONTE chante, L'Amour cause trop, &c.
 
 
-    CRISPIN *se retourne encore à Dorame, apres la fin du Couplet.*
+    CRISPIN *se retourne encore à Dorame, apres la fin du Couplet.*.
 Le mesme, Fa re mi fa, &c.
 
 C'est un petit Rondeau.  
 
-    DORAME
+    DORAME.
         Rondeau soit ; mais de grace…  
 
-    CRISPIN
+    CRISPIN.
 N'estes-vous pas, sur tout, charmé de cette Basse ?  
 Fa re mi fa, fa sol fa me, &c.
 
-    DORAME
+    DORAME.
 Mais, Monsieur…  
 
-    CRISPIN
+    CRISPIN.
 Fa re mi fa, &c.
 bas à Phélonte.
 
@@ -4817,136 +4817,136 @@ bas à Phélonte.
 Phélonte sort allant apres eux.
  
 
-    DORAME
+    DORAME.
     Mais…  
 
-    CRISPIN *revenant.*
+    CRISPIN *revenant.*.
 Fa re mi fa, &c.
 
-    DORAME
+    DORAME.
         Laissez ce *re mi fa*,  
 Et m'apprenez, Monsieur, ce que vous faisiez là ?  
 
-    CRISPIN
+    CRISPIN.
 Eh, j'y notois ce… *fa re mi fa, fa sol fa mi, &c.*  
 
-    TOINON *à part.*
+    TOINON *à part.*.
         Bon : Il se tire d'affaire.  
 
-    DORAME
+    DORAME.
 Mais pourquoy…  
 
-    CRISPIN
+    CRISPIN.
 fa re mi fa, fa sol fa mi, &c.
 
-    DORAME
+    DORAME.
         Ce *re fa* commence à me déplaire :  
 D'où vient que ce Monsieur…  
 
-    CRISPIN *battant toûjours la mesure.*
+    CRISPIN *battant toûjours la mesure.*.
 Fa re mi fa, &c.
 Il sort en chantant, Fa re mi fa, fa sol fa mi.
 
 
-    DORAME *à Toinon.*
+    DORAME *à Toinon.*.
         Que veut dire cecy ?  
 
 
-### SCENE XIII
+### SCENE XIII.
 DORAME, ANASTASE, TOINON.
 
 
-    TOINON *riotant⁎.*
+    TOINON *riotant⁎.*.
 Ces Messieurs enfermez, vous mettent en soucy.  
 
-    DORAME
+    DORAME.
 A te voir, tout cela ne t'inquiéte guére.   
 
-    TOINON
+    TOINON.
 Ma foy, non.  
 
-    DORAME
+    DORAME.
     Non, ta foy.  
 
-    TOINON
+    TOINON.
         Voyez la grande affaire !  
 C'est peut-estre un Galant qui m'en veut [256], que sçait-on ?  
 
-    DORAME
+    DORAME.
 La Coquine !  
 
-    ANASTASE
+    ANASTASE.
     Monsieur…  
 
-    TOINON
+    TOINON.
         La, prenez vostre ton,  
 Grondez jusqu'à demain.  
 
-    ANASTASE
+    ANASTASE.
         L'ire qui vous embraze,  
 Va sans doute trop loin, car…  
 
-    DORAME
+    DORAME.
         Monsieur Anastase,  
 Avecque vos Pédans meslez-vous, s'il vous plaist,  
 D'un Argument en forme, il sçavent ce que c'est.  
 
-    ANASTASE
+    ANASTASE.
 L'allucination, dans cette conjoncture,  
 Vous oste les clartez d'une telle avanture ;  
 C'est pourquoy vous devez penétrer⁎ à loisir.  
 
-    DORAME
+    DORAME.
 D'accord.  
 
-    ANASTASE
+    ANASTASE.
         L'Homme prudent doit se faire un plaisir,  
 De connoistre le vray.  
 
-    DORAME
+    DORAME.
         Vous plaist-il de vous taire ?  
 
-    ANASTASE
+    ANASTASE.
 Oh volontiers. D'ailleurs ce n'est pas mon affaire.   
 
-    DORAME
+    DORAME.
 Quoy ?  
 
-    ANASTASE
+    ANASTASE.
     Rien. Mais un conseil…  
 
-    DORAME *en colere.*
+    DORAME *en colere.*.
         Encor ? Eh taisez-vous.  
 
-    ANASTASE *à Dorame.*
+    ANASTASE *à Dorame.*.
 Je me tairay.  
 
-    DORAME
+    DORAME.
     Fort-bien.  
 à Toinon.
 
         Cà, parlons entre nous.  
 
-    ANASTASE
+    ANASTASE.
 Le silence est pourtant le propre de la Beste.  
 
-    DORAME
+    DORAME.
 Hem ?  
 
-    ANASTASE
+    ANASTASE.
         A vous contenter, je sens que je m'apreste :  
 Parlez. Je me tais.  
 
-    DORAME
+    DORAME.
     Hom…  
 
-    TOINON [257]
+    TOINON [257].
         Il grille dans sa peau.  
 
-    DORAME *à Toinon.*
+    DORAME *à Toinon.*.
 Que faisoient là ces Gens ?  
 
-    TOINON
+    TOINON.
         Il notoient ce Rondeau,  
 Et c'est un pur hazard qui vous doit peu surprendre.  
 Vostre Fille, Monsieur, ayant dessein d'apprendre,  
@@ -4960,105 +4960,105 @@ Moy, dans ce Cabinet sçachant une Ecritoire,
 Je les ay fait entrer, voila toute l'histoire :  
 Les refuser, c'estoit une incivilité.  
 
-    DORAME
+    DORAME.
 Il pouvoit estre ailleurs tout aussy bien noté.  
 
-    TOINON
+    TOINON.
 Il est vray, mais…  
 
-    DORAME
+    DORAME.
         Il entre en cecy du mystere.  
 
-    TOINON
+    TOINON.
 Comment ?  
 
-    DORAME
+    DORAME.
         Quand on ne fait que ce que l'on doit faire,  
 On n'oste point la Clef d'une Porte, Toinon ;  
 Il y va là du vostre.  
 
-    TOINON
+    TOINON.
         Et qui vous dit que non ?  
 Oüy, j'ay fermé la Porte, & pris la Clef.  
 
-    DORAME
+    DORAME.
         La Gueuse !  
 Pourquoy donc, s'il vous plaist ?  
 
-    TOINON
+    TOINON.
         Pour vostre humeur⁎ grondeuse :  
 Tout vous choque, & pour rien vous entrez en courroux ;  
 Une Mouche à tout autre, est Eléphant pour vous  
 Et quand vous vous mettez dessus la gronderie,  
 C'en est pour quinze jours.  
 
-    DORAME *se fâchant.*
+    DORAME *se fâchant.*.
         Voyez l'effronterie !  
 Ce n'est rien d'enfermer deux Hommes sans façon [258] ?  
 
-    TOINON
+    TOINON.
 Le grand crime que c'est, d'écrire une Chanson !  
 
-    DORAME
+    DORAME.
 Pour écrire, on n'a point sur soy la Porte close.   
 
-    TOINON
+    TOINON.
 Vous mériteriez bien que ce fut [259] autre chose.  
 
-    ANASTASE
+    ANASTASE.
 Monsieur, la tempérence est entre les Vertus…  
 
-    DORAME
+    DORAME.
 Tempérez vostre langue, & ne me parlez plus.  
 
-    ANASTASE
+    ANASTASE.
 Monsieur, la fâcherie est à craindre à vostre âge,  
 Et peut causer en vous un notable dommage :  
 Je dois, par mes avis, tâcher à vous guérir…  
 
-    DORAME
+    DORAME.
 Je veux me fâcher, moy.  
 
-    ANASTASE
+    ANASTASE.
         Vous en pourriez mourir,  
 Et l'on m'accuseroit d'estre cause seconde [260]  
 De ce cruel malheur.  
 
-    DORAME
+    DORAME.
         Que le Ciel te confonde !  
 
-    ANASTASE
+    ANASTASE.
 Je ne souffriray point que vous vous fâchiez, non.  
 
-    DORAME
+    DORAME.
 Eh Monsieur Anastase…  
 
-    TOINON
+    TOINON.
         Il a grande raison,  
 La colere aux Vieillards est chose trop funeste.  
 
-    ANASTASE
+    ANASTASE.
 De la bile enflâmée il reste certain reste,  
 Dont la vapeur⁎ maligne attaquant leur cerveau,  
 Le corrompt & le gaste, & les mene au tombeau.  
 
-    TOINON
+    TOINON.
 Ecoutez ce qu'il dit, &…  
 
-    DORAME
+    DORAME.
         Voudrois-tu te taire ?  
 
-    TOINON
+    TOINON.
 Oüy, Monsieur.   
 
-    DORAME *à Anastase.*
+    DORAME *à Anastase.*.
     Vous…  
 
-    TOINON
+    TOINON.
         La mort suit de pres la colere,  
 Car Monsieur Anastase en donne la raison.  
 
-    ANASTASE
+    ANASTASE.
 Elle est fort dangereuse en la vieille saison,  
 Dorame ouvre la bouche.
 
@@ -5066,118 +5066,118 @@ Dit Hipocrate ; c'est de l'Homme l'ennemie,
 Elle produit en luy cette cacochimie⁎,  
 Nuisible à la santé.  
 
-    DORAME
+    DORAME.
         Je brûle de courroux.  
 
-    ANASTASE
+    ANASTASE.
 Oh j'empescheray bien, moy, restant pres de vous,  
 Que vous ne vous fâchiez.  
 
-    TOINON
+    TOINON.
     C'est bien fait.  
 
-    DORAME
+    DORAME.
         Que la Peste  
 Etoufe l'un & l'autre.  
 
-    ANASTASE
+    ANASTASE.
     Eh Monsieur…  
 
-    DORAME
+    DORAME.
         Je déteste [261] :  
 Eh taisez-vous tous deux, & me laissez parler.  
 
-    ANASTASE
+    ANASTASE.
 Quand cette humeur⁎ en nous vient la rate opiler⁎,  
 L'hypocondre⁎ est alors…  
 le poursuivant.
 
 
-    DORAME
+    DORAME.
         Quoy, sans cesse ? Ah j'enrage.  
 
-    ANASTASE
+    ANASTASE.
 Eh Monsieur…  
 
-    TOINON *de mesme.*
+    TOINON *de mesme.*.
     Eh Monsieur…   
 
-    DORAME
+    DORAME.
     Coquine…  
 
-    ANASTASE
+    ANASTASE.
         L'Homme sage…  
 
-    DORAME
+    DORAME.
 Homme fou, vous plaist-il me laisser en repos ?  
 
-    ANASTASE
+    ANASTASE.
 En ce fâcheux état, il n'est pas à propos…  
 
-    DORAME
+    DORAME.
 Oh pour moy je te laisse [262].  
 
-    TOINON
+    TOINON.
         Il a fermé la Porte,  
 Allez-vous en, adieu.  
 
-    ANASTASE
+    ANASTASE.
         Non, j'attendray qu'il sorte.  
 Toinon s'en va, faisant un signe de la teste.
 
 
-    DORAME *revenant.*
+    DORAME *revenant.*.
 Voila cette Ecritoire.  
 
-    ANASTASE
+    ANASTASE.
     Eh Monsieur…  
 
-    DORAME *le poussant.*
+    DORAME *le poussant.*.
         Eh Bourreau,  
 Laisse-moy, sors.  
 
-    ANASTASE *s'en allant.*
+    ANASTASE *s'en allant.*.
         Craignez un transport⁎ au cerveau.  < Fin du Quatriéme Acte. >
 On retire la Ferme, & les six Laquais paroissent qui joüent comme aux autres Actes, & se retirent par les deux costez du fonds. Ce cinquiéme Acte se passe dans l'Antichambre de Phêlonte.
  
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
     CRISPIN *en sortant* [263].
 Fa re mi fa, fa sol fa mi, &c.
 Hem ?  
 
-    PHELONTE
+    PHELONTE.
     Que Crispin est fou !  
 
-    CRISPIN
+    CRISPIN.
         Mais peut-on ne pas rire,  
 fa re mi, &c.
 En songeant à… Je crois que vostre cœur soûpire.  
 
-    PHELONTE
+    PHELONTE.
 Cette Dame est, Crispin, dans un grand embarras !  
 
-    CRISPIN
+    CRISPIN.
 Elle s'en tirera, ne vous chagrinez⁎ pas.  
 A propos, tous vos Gens sont là-haut qui repétent.  
 
-    PHELONTE
+    PHELONTE.
 Pour chanter avec eux, trop de soins⁎ m'inquiétent ;  
 Et quoy que la Musique ait de charmes⁎ pour moy,  
 Elle adouciroit peu le trouble où je me voy.  
 J'ay veu Daphnis, Crispin ; qu'elle est aimable & belle !  
 
-    CRISPIN
+    CRISPIN.
 Quoy ! tout-de-bon, Monsieur, vous en tenez⁎ pour elle,  
 Et des langueurs d'amour, vous l'ennemy juré,  
 Converty tout-à-coup, vous auriez abjuré ?  
 
-    PHELONTE
+    PHELONTE.
 Oüy, Crispin, ç'en est fait, par je ne sçay quel charme⁎,  
 De toute ma fierté sa beauté me desarme ;  
 Je m'y rends, & je trouve en tout ce qu'elle dit,  
@@ -5187,7 +5187,7 @@ Qu'il est des nœuds secrets dont on n'est pas le maistre ;
 Son absence me tüe, & loin de ses beaux yeux,  
 Point de repos pour moy, tout me déplaist.  
 
-    CRISPIN
+    CRISPIN.
         Tant-mieux.  
 Car à vous parler franc, quoy qu'aupres de la Belle  
 Vous vous soyez dépeint l'Amant⁎ le plus fidelle,  
@@ -5196,28 +5196,28 @@ Je doutois que ce fut à bonne intention ;
 Mais enfin vostre cœur suit la route des nostres,  
 Et vous estes pris, vous, qui vous moquiez des autres.  
 
-    PHELONTE
+    PHELONTE.
 Il faut te l'avoüer, ce changement est grand ;  
 A voir ce que je fus, moy-mesme il me surprend ;  
 Mais j'ay beau raisonner, l'Amour parle, il m'attire,  
 Et je me sens forcé de suivre son empire.  
 
-    CRISPIN
+    CRISPIN.
 Dame, il est attirant plus que vous ne pensiez,  
 Et ces coups de Baston dont vous me menaciez,  
 Il m'en devoit couster tout au moins une coste ?  
 Si j'aime, hé bien, Monsieur, voyez, est-ce ma faute ?  
 
-    PHELONTE
+    PHELONTE.
 J'eus tort, de mon erreur enfin tu viens à bout.  
 
-    CRISPIN
+    CRISPIN.
 L'Amour est un Oyseau qui se niche partout,  
 Et souvent ce n'est pas, quoy qu'il aime à le taire,  
 En Auberge d'éclat qu'il fait meilleure chere.  
 Chacun se sent, Monsieur, selon ses facultez.  
 
-    PHELONTE
+    PHELONTE.
 Ah Crispin, que Daphnis fait briller de beautez !  
 Je ne sçay si pour voir mon ame assujettie,  
 Le Destin contre moy se met de la partie :  
@@ -5225,352 +5225,352 @@ Mais rien ne me paroist égaler ses attraits,
 Et je sens dans mon cœur ce qui n'y fut jamais.  
 M'aimes-tu ?  
 
-    CRISPIN
+    CRISPIN.
     Moy, Monsieur ?  
 
-    PHELONTE
+    PHELONTE.
         Il s'agit de me rendre  
 Un service qui passe…  
 
-    CRISPIN
+    CRISPIN.
         Et par où m'en défendre ?  
 Je suis vostre Valet, et Valet tres-acquis ;  
 Et Daphnis, dont enfin les yeux vous ont conquis,  
 Se trouve d'abondant [264], par un bonheur extréme,  
 Maistresse de Toinon, & c'est Toinon que j'aime.  
 
-    PHELONTE
+    PHELONTE.
 Toinon ! Agis, Crispin, tu travailles pour toy.  
 
-    CRISPIN
+    CRISPIN.
 Oüy, dites-vous, mais…  
 
-    PHELONTE
+    PHELONTE.
         Va, que Daphnis soit à moy,  
 J'obtiendray de Toinon, puis qu'elle t'est si chere…  
 
-    CRISPIN
+    CRISPIN.
 Voyons à cela pres, qu'est-ce ? que faut-il faire ?  
 
-    PHELONTE
+    PHELONTE.
 Porter à ce que j'aime [265] un Billet de ma part,  
 Luy demander pour moy…   
 
-    CRISPIN
+    CRISPIN.
         C'est bien dit ; au hazard,  
 Que le Vieillard mutin⁎ à m'étriller s'aplique.  
 
-    PHELONTE
+    PHELONTE.
 S'il te voit de nouveau, tu parleras Musique.  
 
-    CRISPIN
+    CRISPIN.
 Oüy ; mais s'il s'avisoit, comme il est violent,  
 De me faire chanter sur quelque ton dolent,  
 Il connoist d'autres Clefs que *B mol* & *B quarre* [266].  
 
-    PHELONTE
+    PHELONTE.
 Quand on est amoureux, à tout on se prépare :  
 Ah Crispin, quand on aime, & qu'on aime ardemment,  
 Donne-t-on comme toy sur le raisonnement ?1510  
 Pouvant revoir Toinon, tu crains…  
 
-    CRISPIN
+    CRISPIN.
         Quel Docteur ! diantre !  
 Aux Gens, en dépit d'eux, il met le cœur au ventre :  
 Mais comme la crainte est malseante aux Amans⁎,  
 Vous-mesme vous pourriez faire vos complimens⁎,  
 Ils seroient mieux de vous.  
 
-    PHELONTE
+    PHELONTE.
         Si je suis veu de Pere,  
 J'embarasse Daphnis, je ruine [267] l'affaire.  
 
-    CRISPIN
+    CRISPIN.
 Ecrivez, je voy bien qu'au péril de mon dos  
 Il faut marcher.   
 
 
-### SCENE II
+### SCENE II.
 FANCHON, PHELONTE, CRISPIN.
 
 
-    FANCHON *en entrant.*
+    FANCHON *en entrant.*.
         Quoy donc, icy dans le repos ?  
 Et ne sçavez-vous pas, que depuis plus d'une heure  
 Mélante est au Jardin ?  
 
-    CRISPIN
+    CRISPIN.
         Hé bien, qu'il y demeure,  
 Nous sommes en affaire, & qui presse.  
 
-    PHELONTE
+    PHELONTE.
         Dy-moy,  
 Est-il seul ?  
 
-    FANCHON
+    FANCHON.
     Une Dame est avec luy.  
 
-    CRISPIN
+    CRISPIN.
         Je croy  
 Qu'un tiers ne leur est pas tout-à-fait nécessaire.  
 
-    FANCHON
+    FANCHON.
 J'ay fait ce que pour eux vous m'aviez dit de faire,  
 Et je les ay reçeus de mon mieux.  
 
-    PHELONTE
+    PHELONTE.
         A-t-on dit  
 Que je suis rentré ?  
 
-    FANCHON
+    FANCHON.
     Non.  
 
-    PHELONTE
+    PHELONTE.
         Qu'on les laisse, il suffit :  
 J'entre en mon Cabinet un moment pour écrire ;  
 J'iray les voir apres.   
 
-    FANCHON
+    FANCHON.
         Il faut encor vous dire,  
 Que là-haut vostre Maistre, accompagné du mien,  
 Sur quelques Airs nouveaux ont un grand entretien,  
 Et veulent sur ces Airs sçavoir vostre pensée.  
 
-    PHELONTE *s'en allant.*
+    PHELONTE *s'en allant.*.
 Qu'ils attendent.  
 
 
-### SCENE III
+### SCENE III.
 CRISPIN, FANCHON.
 
 
-    FANCHON
+    FANCHON.
         Crispin, quelle affaire pressée  
 Pourroit avoir Monsieur ? dis.  
 
-    CRISPIN
+    CRISPIN.
         Vois-tu bien, il a  
 Ce qui vient par icy d'ordinaire, & va là [268] ;  
 Un mal aussy malin…  
 
-    FANCHON
+    FANCHON.
         Et quel mal, je te prie ?  
 
-    CRISPIN
+    CRISPIN.
 C'est un mal qui jamais n'entendist raillerie,  
 Qui cuit & qui chatoüille, & qui sçeut de tout temps  
 Donner à corps perdu sur les honnestes Gens :  
 En un mot mon Maistre est, puis qu'il te faut tout dire,  
 Mon Confrere en amour.  
 
-    FANCHON
+    FANCHON.
         Quoy, Phelonte soûpire,  
 Il seroit amoureux !   
 
-    CRISPIN
+    CRISPIN.
         Il en tient d'aujourd'huy.  
 
-    FANCHON
+    FANCHON.
 Je ne m'étonnois pas de te voir fou, mais luy !  
 
-    CRISPIN
+    CRISPIN.
 Aimer est donc folie ?  
 
-    FANCHON
+    FANCHON.
         Et de la plus à craindre.  
 Le beau ragoust⁎ d'avoir à gémir, à se plaindre !  
 Vivons, rions, chantons, & point d'amour.  
 
-    CRISPIN
+    CRISPIN.
         Fort-bien,  
 Il faut t'entendre, avec ta Musique de Chien.  
 
-    FANCHON
+    FANCHON.
 Je suis…  
 
-    CRISPIN
+    CRISPIN.
         Tout-franc, depuis que tu t'es mis en teste  
 *Ut re mi fa sol la*, tu n'es plus qu'une Beste⁎.  
 
-    FANCHON
+    FANCHON.
 Mais toy, qui fais le sot, je te trouve fort bon ;  
 C'est bien à toy d'aimer ? un Pié-plat⁎ !  
 
-    CRISPIN
+    CRISPIN.
         Pourquoy non ?  
 Lors que de s'en mesler, le Diable a la malice,  
 Puis-je empescher qu'en moy Nature ne pâtisse ?  
 
-    FANCHON
+    FANCHON.
 Que ne suis-je ton Maistre, afin de t'empescher ?  
 
-    CRISPIN
+    CRISPIN.
 Toy ? bon.  
 
-    FANCHON
+    FANCHON.
         Sur le bon pied je te ferois marcher,  
 Je t'aprendrois…  
 
-    CRISPIN
+    CRISPIN.
         Va-t-en aupres de ta Malade,  
 Ta voix la peut guerir, elle a besoin d'aubade.   
 
-    FANCHON
+    FANCHON.
 C'est à dire qu'il faut que ta folie ait cours,  
 Et que tu veux, sans moy, resver à tes amours.  
 
-    CRISPIN
+    CRISPIN.
 Ce n'est pas ton affaire, adieu.  
 
-    FANCHON
+    FANCHON.
         Tu te courouces,  
 Bon-soir.  
 
-    CRISPIN *seul apres avoir resvé.* 
+    CRISPIN *seul apres avoir resvé.*.
         Amour, amour, quelles rudes secousses !  
 Laisse quelque moment mon cœur en repos. Non,  
 Tu veux qu'il aille & vienne. Ah Toinon ! ah Toinon !  
 
 
-### SCENE IV
+### SCENE IV.
 CRISPIN, TOINON, DAPHNIS.
 
 
-    TOINON *entrant.*
+    TOINON *entrant.*.
 Hé bien, que luy veux-tu ? voicy Toinon.  
 
-    CRISPIN *la caressant⁎.*
+    CRISPIN *la caressant⁎.*.
         Friponne !  
 Tu vois comme sans cesse avec toy je raisonne⁎.  
 
-    TOINON
+    TOINON.
 Tout-doux, tu ne vois pas ma Maistresse ?  
 
-    DAPHNIS
+    DAPHNIS.
         Crispin,  
 Que fait ton Maistre ?  
 
-    CRISPIN
+    CRISPIN.
         Il est possedé d'un Lutin,  
 Qui dans son Cabinet broüille fort sa cervelle.  
 
-    DAPHNIS
+    DAPHNIS.
 Est-il seul ?   
 
-    CRISPIN
+    CRISPIN.
         S'il est seul ? Non, avec une Belle.  
 
-    DAPHNIS
+    DAPHNIS.
 Une Belle !  
 
-    CRISPIN
+    CRISPIN.
     Oüy, qu'il aime, & tendrement.  
 
-    DAPHNIS
+    DAPHNIS.
         Ah Dieux !  
 Viens, Toinon.  
 
-    CRISPIN *l'arrestant.*
+    CRISPIN *l'arrestant.*.
         Sans courroux, le plus-tard vaut le mieux.  
 
-    DAPHNIS
+    DAPHNIS.
 Tu m'arrestes en vain.  
 
-    CRISPIN
+    CRISPIN.
         Eh mon Dieu, patience ;  
 Estre avec une Belle…  
 
-    DAPHNIS
+    DAPHNIS.
         Ah c'est une impudence  
 Qui doit le diffamer…  
 
-    CRISPIN
+    CRISPIN.
         Pas tant que vous croyez ;  
 C'est avec vous qu'il est, il vous écrit.  
 
-    TOINON
+    TOINON.
         Voyez,  
 Il estoit bien besoin de nous donner l'allarme ?  
 
-    DAPHNIS
+    DAPHNIS.
 Quoy, Crispin, tu me dis…  
 
-    CRISPIN
+    CRISPIN.
         Que vous estes son charme⁎,  
 Et que mettant sa joye à vous le protester⁎,  
 Il écrit un Billet que j'allois vous porter ;  
 Mais je cours l'avertir…  
 
-    DAPHNIS
+    DAPHNIS.
         Non, je le veux attendre,  
 Nous verrons de quel air il aura sçeu s'y prendre,  
 Si l'amour… Mais, Crispin, ne m'abuses-tu point ?  
 
-    CRISPIN
+    CRISPIN.
 Non, je me donne au Diable, il vous aime à tel point,  
 Qu'au besoin, pour vous mieux soûmettre sa fortune [269],  
 Il vous épouseroit quinze fois au lieu d'une.  
 
-    TOINON
+    TOINON.
 Va, Crispin, c'est assez d'épouser une fois,  
 Encor en est-il bien qui s'en mordent les doigts ;  
 L'Hymen est une Cage, où tout Oyseau qui chante…  
 
-    CRISPIN
+    CRISPIN.
 Madame, avec mon Maistre, aura l'ame contente,  
 C'est pour elle un coup seûr ; Quand un Coquet⁎ fieffé,  
 D'amour, de bonne sorte, une fois s'est coëffé,  
 Cela tient comme glu.  
 
-    DAPHNIS
+    DAPHNIS.
         Si-bien donc, qu'à ton conte,  
 Je ne dois plus douter d'avoir touché Phélonte ?  
 
-    CRISPIN
+    CRISPIN.
 Vous faites de son cœur l'unique passion ;  
 J'en répons, s'il le faut.  
 
-    TOINON
+    TOINON.
         La bonne Caution !  
 
-    CRISPIN
+    CRISPIN.
 Oüy, bonne, & je voudrois en avoir une telle,  
 Qui m'asseurast de toy.  
 
-    TOINON
+    TOINON.
         Je te suis si fidelle !  
 Que crains-tu ?  
 
-    CRISPIN
+    CRISPIN.
         Que venant à parler tout de bon,  
 Au lieu de dire oüy, tu n'ailles dire non.  
 
-    DAPHNIS
+    DAPHNIS.
 Phélonte y pourra tout, s'il a de la constance ;  
 S'il m'épouse, Toinon sera ta récompense,  
 Je t'en donne parole.  
 
-    CRISPIN
+    CRISPIN.
     Et toy ?  
 
-    TOINON
+    TOINON.
         Ne sçais-tu pas  
 Qu'une Servante suit sa Maistresse à grands pas ?  
 Ainsi le tout dépend de bien servir sa flame.  
 
 
-### SCENE V
+### SCENE V.
 PHELONTE, DAPHNIS, CRISPIN, TOINON.
 
 
-    PHELONTE *sortant.*
+    PHELONTE *sortant.*.
 Tien, Crispin, va porter promptement… Ah Madame,  
 Vous icy ! quel bonheur pouvoit m'estre plus cher ?  
 
-    DAPHNIS
+    DAPHNIS.
 Voyons donc ce Billet.  
 
-    PHELONTE
+    PHELONTE.
         Il vous alloit chercher :  
 Mais, Madame, à quoy bon perdre du temps à lire,  
 Ce qu'on ne peut jamais que foiblement écrire ?  
@@ -5580,7 +5580,7 @@ Tout nourrit, tout accroist cette ardeur impréveuë
 Qui m'a fait estre à vous dés que je vous ay veuë ;  
 Je vous revois, Madame, & mes vœux satisfaits…  
 
-    DAPHNIS
+    DAPHNIS.
 J'aurois lieu de rougir, à voir ce que je fais :  
 Venir jusques chez vous, c'est offencer ma gloire⁎,  
 Mais vostre amour l'emporte, & je l'ay voulu croire ;  
@@ -5598,136 +5598,136 @@ Comme il craint les sots bruits, pour s'en sauver, j'espere
 Qu'il croira nostre Hymen un party nécessaire.  
 Voila ce qui m'amene, il faut déliberer…  
 
-    PHELONTE
+    PHELONTE.
 Madame, c'est assez que je puisse espérer ;  
 Cet obstacle d'un Pere est de peu d'importance,  
 S'il peut estre levé par ma perseverance :  
 Mais ne vous ay-je point attiré son courroux ?  
 Qu'a-t-il dit de m'avoir trouvé tantost⁎ chez vous ?  
 
-    DAPHNIS
+    DAPHNIS.
 Il n'a pas fait paroistre encor qu'il me soupçonne ;  
 Mais pour Toinon…  
 
-    TOINON
+    TOINON.
         Je sçay qu'il me la garde bonne [270] ;  
 L'orage crevera, mais ma foy je l'attens :  
 Voyez le vieux resveur ! il a passé son temps,  
 Et ne s'informe pas, quand une Fille a l'âge,  
 Si les jours qu'elle perd…  
 
-    DAPHNIS
+    DAPHNIS.
         Toinon n'est guere sage.  
 
-    TOINON
+    TOINON.
 Mon Dieu, Toinon vaut trop, n'en dites que du bien,  
 Elle a gagné le cœur d'un grand Musicien ;  
 C'est là de son mérite une preuve autentique,  
 Crispin.  
 
-    CRISPIN
+    CRISPIN.
         Ne railles point, honneur à ma Musique ;  
 Sans le Rondeau noté, nous estions pris sans vert [271].  
 
-    PHELONTE
+    PHELONTE.
 Tout-à-propos pour moy le Rondeau s'est offert,  
 Mais c'est à Crispin seul qu'on doit le stratagéme :  
 Toinon, ce trait d'esprit mérite assez qu'on l'aime,  
 Qu'en dis-tu ?  
 
-    TOINON
+    TOINON.
         Moy ? Je dis que le cœur m'en diroit ;  
 Mais j'ay martel en teste, & toute autre l'auroit :  
 La Servante d'icy me semble un peu trop belle ;  
 En entrant j'ay veu…  
 
-    CRISPIN
+    CRISPIN.
     Quoy ? Fanchon ?  
 
-    PHELONTE
+    PHELONTE.
         Ne crains rien d'elle ;  
 Comme elle a de la voix, elle en est folle au point,  
 De renoncer à tout, pour ne la perdre point :  
 Ainsy rien ne la peut résoudre au Mariage,  
 Les Enfans luy romproient l'estomach⁎.  
 
-    TOINON
+    TOINON.
         Quel dommage !  
 Ne plus chanter ! Pour moy, j'aimerois mieux cent fois  
 Avoir un bon Mary, que la plus belle voix ;  
 Car, pour vivre en repos, chanter ne sert de guére,  
 Et je tiens qu'un Epoux est chose necessaire.  
 
-    PHELONTE
+    PHELONTE.
 Toinon a le goust bon.  
 
-    TOINON *appercevant Dorame.*
+    TOINON *appercevant Dorame.*.
         Pas trop méchant⁎ : mais Dieux !  
 
-    DAPHNIS
+    DAPHNIS.
 C'est mon Pere !   
 
-    CRISPIN *à Daphnis.*
+    CRISPIN *à Daphnis.*.
         Vers luy ne tournez point les yeux.  
 
-    PHELONTE *bas.*
+    PHELONTE *bas.*.
 Ah Crispin !  
 
-    DAPHNIS *à Crispin.*
+    DAPHNIS *à Crispin.*.
     Quel malheur !  
 
-    CRISPIN *à Daphnis, apres un peu de silence.*
+    CRISPIN *à Daphnis, apres un peu de silence.*.
         Secondez mon adresse.  
 
 
-### SCENE VI
+### SCENE VI.
 PHELONTE, DORAME, DAPHNIS, CRISPIN, TOINON.
 
 
-    DORAME
+    DORAME.
 Que vois-je icy ? Ma Fille !  
 
-    CRISPIN *à Daphnis.*
+    CRISPIN *à Daphnis.*.
         Un peu de hardiesse ;  
 Le ton n'est pas trop haut, croyez-moy, *Sol mi fa*.  
 Je connois vostre voix, elle ira jusques là.  
 
-    DORAME [272]
+    DORAME [272].
 Ma Fille en ce Logis !  
 
-    CRISPIN *à Phélonte.*
+    CRISPIN *à Phélonte.*.
         Ah Monsieur, quelle peine…  
 
-    PHELONTE
+    PHELONTE.
 Monsieur, vous voir icy ! quel sujet vous amene ?  
 
-    DORAME
+    DORAME.
 C'est Phélonte : Est-ce vous ?  
 
-    PHELONTE
+    PHELONTE.
     Oüy.   
 
-    DORAME
+    DORAME.
         Je veux vous parler :  
 Mais je voudrois en vain vous le dissimuler ;  
 Voir ma Fille chez vous, trouble si fort mon ame…  
 
-    CRISPIN
+    CRISPIN.
 Le mal n'est pas bien grand.  
 
-    DORAME
+    DORAME.
         Il n'est pas grand ? L'infame !  
 
-    PHELONTE
+    PHELONTE.
 Eh Monsieur…  
 
-    CRISPIN
+    CRISPIN.
         Vostre Fille est chez moy, s'il vous plaist.  
 
-    DORAME
+    DORAME.
 Comment, chez vous !  
 
-    CRISPIN
+    CRISPIN.
         Sçachez la chose comme elle est.  
 Quoy qu'en son nom Monsieur ait la Maison entiere,  
 Il n'a que le devant, j'occupe le derriere ;  
@@ -5736,97 +5736,97 @@ Mais cependant, cecy c'est mon Apartement⁎,
 J'y fais pour mes Amis Concert chaque semaine ;  
 Madame a sçeu le jour, voila ce qui l'ameine.  
 
-    DAPHNIS
+    DAPHNIS.
 Mon Pere, pardonnez, si pour oüir chanter…  
 
-    CRISPIN
+    CRISPIN.
 Attendant le Concert que je fais apprester,  
 Je luy voulois apprendre un petit Air.  
 
-    DORAME
+    DORAME.
         De grace,  
 Laissez vos petits Airs.  
 
-    CRISPIN
+    CRISPIN.
         Il est Dessus & Basse,  
 Joly : Si vous voulez…  
 
-    DORAME
+    DORAME.
         Je n'ay rien à vouloir.   
 
-    CRISPIN
+    CRISPIN.
 On court de toutes parts apres moy pour l'avoir.  
 
-    DORAME
+    DORAME.
 Depuis les *Opera*, la rage de Musique  
 S'est mise dans Paris, tout le monde s'en pique⁎,  
 Je le sçay : mais ma Fille apprendra, s'il vous plaist,  
 A chanter toute seule, ou point.  
 
-    TOINON
+    TOINON.
         Quel meurtre c'est !  
 Mais peut-on bien chanter, sans sçavoir la mesure ?  
 
-    DORAME
+    DORAME.
 Coquine.  
 
-    TOINON
+    TOINON.
         Luy laisser perdre la voix ! J'en jure,  
 Si j'estois en sa place, il ne seroit pas dit  
 Que j'aurois de la voix pour rien.  
 
-    DORAME
+    DORAME.
         Il me suffit,  
 C'est toy…  
 
-    TOINON
+    TOINON.
         Pour bien chanter, il faut de la pratique.  
 
-    DORAME
+    DORAME.
 J'auray soin…  
 
-    TOINON
+    TOINON.
         Malgré vous, j'apprendrois la Musique.  
 
-    DORAME
+    DORAME.
 Tay-toi ; si…  
 
-    TOINON
+    TOINON.
         Le grand mal, que d'oüir concerter⁎ !  
 
-    DORAME
+    DORAME.
 Oüy, si grand, que…  
 
-    CRISPIN
+    CRISPIN.
         Monsieur, c'est trop vous emporter ;  
 Nous sommes Gens publics [273], chez qui chacun, sans honte,  
 Vient comme bon luy semble.   
 
-    DORAME
+    DORAME.
         Et ce n'est pas mon compte ;  
 C'est par là justement qu'une Fille se perd ;  
 Il est tant de Concerts qui se font de concert.  
 
-    CRISPIN
+    CRISPIN.
 Je suis tendre à l'honneur, & c'est me faire injure.  
 
-    DORAME
+    DORAME.
 Comment vous nomme-t-on ?  
 
-    CRISPIN
+    CRISPIN.
         Mon nom est… La Verdure [274].  
 
-    DORAME
+    DORAME.
 La Verdure !  
 
-    CRISPIN
+    CRISPIN.
     Oüy, Monsieur.  
 
-    DORAME
+    DORAME.
         Pour un Musicien,  
 Ce nom, à mon avis, ne convient pas trop bien.  
 
-    CRISPIN
+    CRISPIN.
 Celuy de ma Famille est, de la Garaniere,  
 Nom que j'avois d'abord assez mis en lumiere :  
 Mais comme tous mes Airs, du premier au dernier,  
@@ -5834,95 +5834,95 @@ Ont un je-ne-sçay-quoy de gay, de printannier,
 Que je les rends toûjours fleuris outre-mesure,  
 On m'a par excellence appellé La Verdure [275].  
 
-    DORAME
+    DORAME.
 Le Fourbe ! Mais il faut le pousser jusqu'au bout [276].  
 Cà, puis que tous vos Airs sont si fleuris par tout,  
 Entendons ce Concert.  
 
-    CRISPIN
+    CRISPIN.
     Grand honneur.  
 
-    DAPHNIS
+    DAPHNIS.
         Ah je tremble ! [277]  
 
-    CRISPIN
+    CRISPIN.
 Mes Chanteurs sont là-haut, qui repétent ensemble,  
 Je vay les amener.  
 Il va parler à l'oreille de Phélonte.
  
 
-    DAPHNIS *à Toinon.*
+    DAPHNIS *à Toinon.*.
         Se pourroit-il qu'il pût…  
 
-    TOINON
+    TOINON.
 Quand on a de l'adresse, on sort de tout ; mais chut.  
 
-    PHELONTE *apres que Crispin est sorty.*
+    PHELONTE *apres que Crispin est sorty.*.
 Tandis qu'on se prépare au Concert, puis-je apprendre  
 Quel service je dois m'apprester à vous rendre ?  
 Quoy que ce soit, Monsieur, commandez, j'obeïs.  
 
-    DORAME
+    DORAME.
 Voudrez-vous accorder une grace à mon Fils ?  
 
-    PHELONTE
+    PHELONTE.
 Tout. Mais pourquoy chez vous avoir voulu me taire,  
 Ce que pour vous servir, il s'agissoit de faire ?  
 
-    DORAME
+    DORAME.
 Quand chez moy, par hazard, tantost⁎ je vous ay veu,  
 Vostre visage encor ne m'estoit pas connu ;  
 Vostre nom me l'estoit ; c'est tout ce qu'à mon âge  
 Je sçay des jeunes Gens.  
 
-    PHELONTE
+    PHELONTE.
         Ce m'est un avantage,  
 Que ma Famille au moins vous soit connüe assez,  
 Pour ne…  
 
-    DORAME
+    DORAME.
         Je la connois mieux que vous ne pensez :  
 Vous avez un Cadet Philosophe en Navarre.  
 
-    PHELONTE
+    PHELONTE.
 Oüy, remply de caprice, & d'humeur fort bizarre⁎.  
 
-    DORAME
+    DORAME.
 Il vous a chagriné ; mais par son repentir,  
 A luy pardonner tout vous devez consentir ;  
 C'est la grace, par moy, que mon Fils vous demande.  
 
-    PHELONTE [278]
+    PHELONTE [278].
 La partie est trop forte, il faut que je me rende.   
 
-    DORAME
+    DORAME.
 Il est son Camarade, & ce qu'il m'en écrit…  
 
-    PHELONTE
+    PHELONTE.
 Vous le voulez, Monsieur, & cela me suffit.  
 Cependant, à mon tour, oserois-je prétendre…  
 
-    DORAME *appercevant Crispin.*
+    DORAME *appercevant Crispin.*.
 Ecoutons le Concert, j'ay promis de l'entendre.  
 
 
-### SCENE VII
+### SCENE VII.
 DORAME, PHELONTE, DAPHNIS, CRISPIN, TOINON.
 
 
-    CRISPIN *aux Musiciens* [279]*, aux Violons, & à Fanchon.*
+    CRISPIN *aux Musiciens* [279]*, aux Violons, & à Fanchon.*.
 Monsieur a le goust fin, de vostre mieux allons,  
 *Fa sol.* Prenez le ton avec les Violons.  
 Tout le monde est-il prest ?  
 
-    TOINON *à Daphnis.*
+    TOINON *à Daphnis.*.
         Monsieur de la Verdure  
 Fait merveilles.  
 
-    CRISPIN
+    CRISPIN.
         Sur tout, suivez bien la mesure.  
 
-    LES VIOLONS *préludent, & Crispin dit, Fa, sol, re, mi, la, sol, fa, &c. En suite on chante ce qui suit : Crispin bat la mesure, & Phêlonte accompagne du Clavessin.*
+    LES VIOLONS *préludent, & Crispin dit, Fa, sol, re, mi, la, sol, fa, &c. En suite on chante ce qui suit : Crispin bat la mesure, & Phêlonte accompagne du Clavessin.*.
 On chante.
 
 *Tu viens peindre nos Prez des plus vives couleurs*,  
@@ -5932,14 +5932,14 @@ Chacun en a l'ame ravie⁎ :
 Tu ne ramenes point Silvie,  
 Ainsy tu ne fais rien pour moy.  
 
-    PHELONTE *à Dorame.*
+    PHELONTE *à Dorame.*.
 Qu'en dites-vous, Monsieur ?  
 
-    DORAME
+    DORAME.
         Si je puis m'y connaistre,  
 Les Ecoliers sont bons ; Je ne dis rien du Maistre.  
 
-    CRISPIN *Fa re fa sol, &c.*
+    CRISPIN *Fa re fa sol, &c.*.
 On chante encore.
 
 Ce verd de qui l'éclat brille sur nos Costeaux,  
@@ -5949,32 +5949,32 @@ Mais mon amour helas ! m'impose une autre loy ;
 Et quand je ne voy point Silvie,  
 Il n'est point de plaisir pour moy.  
 
-    CRISPIN *à Dorame.*
+    CRISPIN *à Dorame.*.
 Estes-vous content ?  
 
-    DORAME
+    DORAME.
     Oüy.  
 
-    CRISPIN
+    CRISPIN.
     Cet Air ?…  
 
-    DORAME
+    DORAME.
         Il est fort beau.  
 
-    CRISPIN
+    CRISPIN.
 Vous plairoit-il encor, ce Menüet Rondeau ?  
 Avec les Violons il est incomparable.  
 
-    DORAME
+    DORAME.
 Volontiers.  
 
-    TOINON *à Daphnis.*
+    TOINON *à Daphnis.*.
     Il prend goust…   
 
-    DAPHNIS
+    DAPHNIS.
         Crispin est admirable.  
 
-    CRISPIN *avec le Prélude des Violons.*
+    CRISPIN *avec le Prélude des Violons.*.
 Fa, fa, sol, fa, &c.
 On chante.
 
@@ -5993,14 +5993,14 @@ Je vay luy faire ma Cour.
 Bacchus est le seul remede  
 Qui peut guerir de l'amour.  
 
-    CRISPIN
+    CRISPIN.
 Mes Airs ont le bon tour.  
 
-    DORAME
+    DORAME.
         Je vous l'ay déja dit,  
 Ils sont fort beaux.  
 
-    CRISPIN
+    CRISPIN.
         Ce sont éternûmens d'esprit ;  
 J'ay pour les composer, une certaine aisance…  
 Messieurs, du mouvement marquons bien la cadance ;  
@@ -6010,210 +6010,210 @@ Tous ensemble le dernier Couplet.
  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 DORAME, PHELONTE, MELANTE, DAPHNIS, LISE, TOINON, FANCHON, CRISPIN.
 
 
-    MELANTE *tenant Lise.*
+    MELANTE *tenant Lise.*.
 Nous venons prendre part au Concert.  
 
-    CRISPIN *à Dorame.*
+    CRISPIN *à Dorame.*.
         Le beau Monde  
 Vient chez moy librement.  
 
-    LISE *appercevant Dorame.*
+    LISE *appercevant Dorame.*.
         Ma peine est sans seconde [280].  
 
-    CRISPIN *à Mélante, sans regarder Lise.*
+    CRISPIN *à Mélante, sans regarder Lise.*.
 Voyez, point de scrupule.  
 
-    DAPHNIS *à Toinon.*
+    DAPHNIS *à Toinon.*.
         Ah Toinon, qu'est-ce-cy ?  
 
-    DORAME *à part.*
+    DORAME *à part.*.
 C'est ma Fille.  
 
-    LISE
+    LISE.
         Mon Pere & ma Sœur sont icy.  
 
-    DORAME
+    DORAME.
 Le Concert est charmant, je l'avouë.  
 
-    LISE [281]
+    LISE [281].
         Ah mon Pere !  
 
-    PHELONTE *à Crispin.*
+    PHELONTE *à Crispin.*.
 Son Pere !  
 
-    CRISPIN
+    CRISPIN.
     C'est bien pis.   
 
-    LISE
+    LISE.
         J'ay failly ; mais j'espere…  
 
-    DORAME
+    DORAME.
 Quoy…  
 
-    TOINON
+    TOINON.
         Voila ce que c'est que se faire prier :  
 Quand une Fille a l'âge, il faut la marier,  
 Je vous l'ay dit cent fois.  
 
-    DORAME
+    DORAME.
         Ecoutez l'insolente !  
 
-    MELANTE
+    MELANTE.
 Monsieur, il ne faut point…  
 
-    DORAME
+    DORAME.
         Hé bien, qu'est-ce, Melante ?  
 Vous veniez au Concert, ç'en est icy le jour.  
 
-    MELANTE
+    MELANTE.
 Non, en vain je voudrois vous cacher mon amour :  
 Depuis un an entier j'adore vostre Fille ;  
 Vous connoissez mon bien, vous sçavez ma Famille,  
 Daignez laisser uny, ce que l'Amour a joint.  
 
-    DORAME
+    DORAME.
 Mon honneur souffriroit à n'y consentir point :  
 Mais quoy ! dois-je excuser une Fille sans honte⁎,  
 Et qui de ma défense a fait si peu de conte [282] ?  
 
-    LISE
+    LISE.
 Pour obtenir pardon, j'embrasse vos genoux.  
 Daphnis, Toinon, & Crispin, se jettent à genoux avec Lise.
 
 
-    MELANTE
+    MELANTE.
 Eh Monsieur, par pitié…  
 
-    LISE
+    LISE.
     Mon Pere…  
 
-    DORAME
+    DORAME.
         Levez-vous.  
 
-    LISE *larmoyant.*
+    LISE *larmoyant.*.
 Je sçay que j'ay failly, j'ay tort, je le confesse ;  
 Mais pardonnez…   
 
-    DORAME
+    DORAME.
         Ses pleurs réveillent ma tendresse,  
 Et… C'est assez, Mélante, elle est à vous.  
 
-    MELANTE
+    MELANTE.
         Hé quoy,  
 Se peut-il que vous…  
 
-    DORAME
+    DORAME.
         Oüy, j'agis de bonne foy.  
 Phélonte, à cœur ouvert, Daphnis a sçeu vous plaire.  
 
-    PHELONTE
+    PHELONTE.
 Oüy, ce seroit en vain que j'oserois le taire :  
 Je l'aime, faites grace à ma temérité,  
 Rien ne manquera lors à ma felicité :  
 C'est de vous seulement que je la dois attendre.  
 
-    DORAME
+    DORAME.
 Je n'aurois pris peut-estre aucun des deux pour Gendre :  
 Mais puisque sur ce point, sans craindre mon courroux,  
 Mes Filles, malgré moy, sont d'accord avec vous,  
 L'éclat de mes refus tourneroit à ma honte :  
 Ainsy, si c'est bonheur, soyez heureux, Phélonte.  
 
-    PHELONTE
+    PHELONTE.
 Puis-je assez reconnoistre un si charmant aveu⁎ ? [283]  
 
-    DORAME
+    DORAME.
 Le Maistre de Musique a bien joüé son jeu ;  
 Et c'est, pour peu qu'il trouve à payer d'artifice,  
 Un Fourbe aussy complet…  
 
-    CRISPIN
+    CRISPIN.
         Fort à vostre service :  
 Vous n'avez seulement qu'à me donner Toinon,  
 Je fourbe⁎ apres pour vous de la bonne façon.  
 
-    DORAME
+    DORAME.
 Mais Toinon…  
 
-    CRISPIN
+    CRISPIN.
         Dans un mois, avec ma Tablature,  
 Elle pourra chanter, & battre la Mesure.   
 
-    TOINON
+    TOINON.
 Et si par de faux tons tu me gastes la voix…  
 
-    CRISPIN
+    CRISPIN.
 Ne crains rien. Voulez-vous qu'on en fasse à deux fois ?  
 Tandis qu'on est en train, mettez-moy de la Bande ;  
 Toinon m'aime, je l'aime, & je vous la demande.  
 
-    DORAME
+    DORAME.
 La Musique pourroit se ravaler si bas ?  
 A Toinon !  
 
-    CRISPIN
+    CRISPIN.
         Chacun sçait ce qu'il sçait. En tout cas,  
 S'il faut, pour l'épouser, me faire mieux connaistre,  
 Crispin est mon vray nom, & vous voyez mon Maistre.  
 
-    DORAME
+    DORAME.
 Ah puis qu'il est ainsy, je dois tout accorder ;  
 Mais en te l'accordant, on peut te demander  
 Encore un petit Air.  
 
-    CRISPIN
+    CRISPIN.
         Si cela vous contente,  
 On va vous en chanter, non pas un, mais cinquante.  
 
-    PHELONTE *à Dorame.*
+    PHELONTE *à Dorame.*.
 Ah Monsieur ! commandez, vous pouvez tout icy.  
 
-    CRISPIN
+    CRISPIN.
 Oüy, sans doute, & Monsieur n'en est point en soucy ;  
 Répondons seulement à ce qu'il nous demande.  
 
-    DORAME
+    DORAME.
 Il a raison.  
 
-    PHELONTE
+    PHELONTE.
     D'accord.  
 
-    CRISPIN *aux Musiciens.*
+    CRISPIN *aux Musiciens.*.
         Çà, quelque Air de commande ;  
 Allons, Messieurs, allons, faites de vostre mieux.  
 
-    FANCHON *à Phêlonte.*
+    FANCHON *à Phêlonte.*.
 Quel Air chanterons-nous ?   
 
-    PHELONTE *touchant le Clavessin.*
+    PHELONTE *touchant le Clavessin.*.
 La, la, la.
         Est-il rien plus heureux ? [284]  
 
-    CRISPIN
+    CRISPIN.
 Fa, fa, fa.
 
-    PHELONTE
+    PHELONTE.
 Tay-toy.  
 
-    CRISPIN
+    CRISPIN.
         Tout aujourd'huy je garde ma Maistrise [285],  
 Monsieur.  
 
-    PHELONTE
+    PHELONTE.
         Mais à present elle n'est plus de mise,  
 Et…  
 
-    CRISPIN
+    CRISPIN.
         Je suis obstiné ; tout-franc, j'en veux par là.  
 
-    PHELONTE
+    PHELONTE.
 Fay donc.  
 
-    CRISPIN *aux Violons.*
+    CRISPIN *aux Violons.*.
         Messieurs, allons. *Fa sol fa, la, la, la.*  
 On chante.
 
@@ -6238,23 +6238,23 @@ Ah ! que si ce petit Poupon
 Vient au jour beau comme son Pere,  
 Ce doit estre un joly Mignon !  
 
-    CRISPIN
+    CRISPIN.
 Toinon, à cette fin tu dois me seconder.  
 à Dor.
 
 Si vous n'estes content, vous pouvez commander :  
 Vous plaist-il encor…  
 
-    DORAME
+    DORAME.
         Non, mon ame est satisfaite.  
 
-    PHELONTE
+    PHELONTE.
 S'il est ainsy, Monsieur, ah ma joye est parfaite.  
 
-    DORAME
+    DORAME.
 Allons, je suis sincére, & ne sçay point farder⁎.  
 
-    CRISPIN *seul.*
+    CRISPIN *seul.*.
 Messieurs, si mon Concert peut vous accommoder,  
 On le repete icy trois fois par Semaine [286],  
 Venez l'oüir en foule, il en vaut bien la peine.  < FIN. >
@@ -6264,10 +6264,10 @@ Venez l'oüir en foule, il en vaut bien la peine.  < FIN. >
 *DE LA REYNIE* [287].
 
 
-# Annexes
+# Annexes.
 
 
-## Lexique
+## Lexique.
 
 Abréviations utilisées :
 
@@ -6278,7 +6278,7 @@ Fur. : *Dictionnaire universel* de Furetière.
 Rich. : *Dictionnaire françois* de Richelet.Aimable « Qui est digne d'estre aimé » (A. fr.)V. 270, 759, 966, 1118.Amant« Celuy, celle qui aime d'amour une personne d'un autre sexe » (A. fr.)V. 165, 225, 226, 231, 378, 382, 781, 801, 1468, 1513Amitié« Affection qu'on a pour quelqu'un »« On le dit encore en matière d'amour » (Fur.)V. 222.Apartement« Portion d'un grand logis où une personne loge ou peut loger separément d'avec une autre » (Fur.)V. 365, 1678.Appas« Se dit particulierement en Poësie, & signifie charmes, attraits, agrément, ce qui plaist. … Il se dit encore plus particulierement en parlant des attraits & de la beauté des femmes. » (Fur.)V. 618, 758, 1054, 1133.Arrester« Empêcher d'avancer, d'aller plus loin »« Retenir » (Rich.)V. 93.Art« La regle & la methode de bien faire un ouvrage » (A. fr.)Technique.Préface, v. 594, 632, 690, 713, 726, 731, 745, 813, 835, 861.Aveu« Reconnaissance verbale ou par écrit, d'avoir fait ou dit quelque chose. »« Il signifie aussi l'approbation, le consentement, l'agrément qu'une personne supérieure donne à ce qu'un inférieur a fait ou a dessein de faire. » (Ac. Fr.)V. 1182, 1815.Barguigner« Marchander sous à sou quelque chose »« Se dit figurément en choses spirituelles des irrésolutions d'esprit, quand un homme a du mal à se résoudre, à donner quelque parole, à conclure une affaire, à se défaire de quelque engagement » (Fur.)V. 1113.Beste« Animal irraisonnable »« Personne stupide, & qui n'a point d'esprit » (A. fr.)V. 1548.Boutade« Caprice, transport d'esprit qui se fait sans raison & avec impetuosité » (Fur.)V. 32.Brigue« Poursuite ardente qu'on fait par le moyen de plusieurs personnes qu'on engage dans ses interests »« Party, cabale » (A. fr.)PréfaceCacochime« Mal sain, de mauvaise complexion. Cela ne se dit proprement que des corps humains pleins de mauvaises humeurs & tousjours sujets à quelque maladie » (A. fr.)V. 1432.Caresse« Témoignage extérieur d'amitié, d'amour ou de bienveillance » (Rich.)Censurer« Critiquer, reprendre » (Fur.) V. 45.Chagrin« Inquiétude, ennuy, melancolie » *(Fur.)*V. 207, 945, 1029, 1043.Mauvaise humeur. (Se) ChagrinerAttrister, rendre chagrin » (Fur.)V. 220, 388, 1450.Chaise « Un petit carosse pour deux personnes. » (A. fr.)V. 1036.Charme « Puissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature »« Ce qui figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration » (Fur.)V. 321, 411, 1175, 1453, 1459, 1576.Charmer« Faire quelque effet merveilleux par la puissance des charmes ou du démon »« Dire ou faire quelque chose de merveilleux, de surprenant, plaire extraordinairement ». (Fur.). Richelet le donne comme synonyme de *ravir*.V. 1051, 1054, 1089, 1105, 1142, 1849.Closture« Obligation que les Religieuses ont de ne point sortir de leur Monastere » (A. fr.)V. 242.Compliment« Civilité, ou honnesteté qu'on fait à autruy, soit en paroles, soit en actions » (Fur.)V. 336, 1246, 1514.ComplimenterFaire des compliments.V. 262.Concerter« Estudier, & repeter ensemble une piece de Musique, pour la bien executer quand il en sera temps » (A. fr.)V. 1, 1697.Coquet, coquette« Qui fait le galant, qui affecte de donner de l'amour. » (A. Fr.)V. 193, 316, 1589.Coquin« Gueux, miserable sans cœur et sans honneur » (Rich.)V. 708.Courir« Hanter ; fréquenter en certains lieux, se plaire à y aller souvent » (Fur.). Cette définition s'applique également aux êtres humains (« On *court* un prédicateur. Cet homme est si agréable, que toutes les Dames le *courent*. » Fur.)V. 179.Décevoir« Séduire, tromper par quelque chose de spécieux & d'engageant » (A.Fr.)V. 940, 1040.Dégénérer« Ne valoir pas ce que valoient ceux de qui nous descendons » (Rich.)V. 617Desmenager« Il se dit figurément pour dire, Sortir d'un lieu, d'une place où l'on est, & cela ne se dit guere que lorsqu'on en fait sortir par force. *Allons, desmenagez tout à l'heure*. » (A. Fr.) V. 106.DéparlerCesser de parler. « Il ne se dit qu'avec la négative, & n'a guere d'usage qu'en ces phrases. *Il ne déparle point. il n'a point déparlé*. » (A. Fr.)V. 42.Discerner« Séparer, distinguer » (Fur.) ; « Distinguer une chose d'une autre, ou en juger par comparaison » (A.fr.). Ici le terme désigne le fait de marquer la séparation entre un acte et le suivant.Didascalies fin du premier acte et fin du second acte.Egaremens« Mauvaise conduite, procédé peu réglé » (Rich.)V. 72, 111, lettre.S'égarer« Devenir un peu fou. Etre dans l'erreur, errer » (Rich.)Ennuy« Lassitude d'esprit »« Fascherie, chagrin, deplaisir, souci » (A. fr.)V. 1190, 1309.Entendre« Comprendre, concevoir en son esprit, avoir l'intelligence de quelque chose » (A. fr.)V. 536, 673, 677, 862.Entester« Se dit figurément, & signifie, Infatuer, préoccuper, prevenir en faveur d'une personne » (Fur.)V. 991Envier« Porter envie »« Signifie aussi en plusieurs sortes de jeux, Faire des envis, encherir sur quelqu'un » (Fur.)V. 1325.Equipage« Tout le meuble d'un particulier, état, habit » (Rich.)« Se dit du train, de la suite, mulets, chevaux, valets, hardes &c. » (A. Fr.)V. 855.Estime« Le cas, l'estat qu'on fait d'une personne, ou de son merite, ou de sa vertu » (A. fr.)Lettre, v. 507.Estimer« Priser quelque chose, en determiner la valeur »« Faire cas » de quelqu'un ou de quelque chose. (A. fr.)V. 323, lettre.Estomach« Il se prend aussi, Pour la partie extérieure du corps qui respond à la poitrine et à l'estomac » (A. fr.)V. 1656.Eventé« Qui a la teste legere, qui est emporté, evaporé, imprudent » (Fur.)V. 938.Etonner« Epouvanter, surprendre d'une certaine maniere qui touche » (Rich.)V. 1168.Extravagance« Bizarrerie, folie » (A. Fr.)V. 139, 160, lettre.Extravaguer« Penser, & dire des choses où il n'y a ny raison ny sens » (A. fr.)V. 196.Facilité« Moyen & maniere facile de faire, de dire, *&c*. »« Indulgence excessive » (A. fr.)V. 80.Faquin« Crocheteur, homme de la lie du peuple, vil & meprisable. » (Fur.)V. 202, 707.Fard« Ce qu'on met sur le visage pour l'embellir »« Toute sorte d'artifice dont on se sert pour déguiser une chose, & la faire paroistre autre et plus belle qu'elle n'est en effet » (Fur.)V. 326.Farder« Employer de l'artifice pour faire paroistre une chose plus belle qu'elle n'est » (Fur.)V. 1867.Felon« Signifiait aussi autrefois, Cruel & inhumain » (Fur.)V. 1317.Fixer« Arrester, determiner …. On dit, *Fixer un esprit*, pour dire, faire qu'il ne vacille plus » (A. fr.)V. 1072.Fourbe« Trompeur avec adresse & dissimulation » (Fur.)V. 708, 717.Fourber« Tromper adroitement, finement » (Fur.)V. 421, 1820.Franchise« Sincerité tant en paroles qu'en actions »« Liberté » (Fur.)V. 1140, 1335.Galanteries« Les devoirs, les respects, les services que l'on rend aux Dames » « Commerce amoureux »« Choses qu'on fait pour les Dames, ou qu'on leur donne par galanterie » (A. fr.)V. 167.Gaupe« Femme mal-propre & sale » (Fur.)V. 44.(Se) Gendarmer« Se tourmenter, se donner de l'inquiétude pour empescher quelque chose, ou pour l'obtenir »« Se fascher contre quelqu'un, s'en prendre à quelqu'un » (A. fr.)V. 412.Gesne« Torture » (Fur.)V. 1353, 1765.« Fatigue, peine, travail » (Rich.)GloireHonneur. « Réputation qui procède du merite d'une personne, de l'excellence de ses actions ou de ses ouvrages. » (A. Fr.)Lettre, v. 1615.Goust« L'appétit, l'envie qu'on a de boire et de manger » (Fur.), et par extension ici, l'appétit physique.V. 413GrimaceContorsion du visage« Feinte, hypocrisie. » (Fur.)V. 419.HontePeut être synonyme de pudeur. «  Passion qui excite du trouble dans l'ame par le danger de souffrir quelque confusion, quelque mépris des hommes …. La pudeur est une espèce de honte qui est loüable » (Fur.)V. 1797.Humeur« Substance fluide de quelque corps que ce soit … *Les quatre principales humeurs du corps sont* Le sang, la pituite, la bile, la mélancolie. » (A. fr.)V. 767, 1404, 1438.Hypocondre« La partie du ventre au dessous des costes, au costé droit ou au costé gauche » (A. fr.)V. 1439.Imposture« Tromperie, mensonge, calomnie » (Fur.) ; « Hypocrisie, déguisement dans ses mœurs, dans sa conduite » (A. fr.)V. 104.Inclination« Disposition & pente naturelle à quelque chose »« Affection, Amour » (A. fr.)V. 490.Inquiétude« Trouble, agitation d'esprit, inconstance d'humeur, &c. impatience causée par quelque passion, par quelque indisposition. » (A. Fr.)V. 380.Intelligence« Faculté intellective, capacité d'entendre, de comprendre »V. 676.« Connoissance, comprehension »V. 656.« Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre » (A. fr.)V. 792.S'interesser pour« Entrer dans les interests de quelqu'un, en embrasser les interests » (A. fr.)V. 532.Jugement« Puissance de l'ame qui connoist, qui discerne le bon d'avec le mauvais, le vray d'avec le faux » (Fur.)V. 892, 989.Libertin« Qui ne veut pas s'assujettir aux loix, aux regles du bien vivre, à la discipline d'un Monastere. » (Fur.)V. 773, 1080.Maraud« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien, ni honneur, qui sont capables de faire toutes sortes de laschetez » (Fur.)V. 30, 137, 207, 707.Mélancolie« Espece de delire sans fiévre, accompagné de crainte & de chagrins sans raison aparente à cause que l'imagination & le jugement sont blessés par l'abondance d'une bile noire & brûlée » (Rich.)V. 71.Meschant, ante« Mauvais, qui est dépourveu de bonnes qualitez, qui ne mérite aucune estime » (Fur.)V. 848, 859, 1661. Mignon« Terme de flaterie dont on se sert en parlant à un enfant » (A.Fr.)V. 79.Mordicant, ante« Ce qui est acide & piquant » (Fur.)V. 1220.Mouchoir« On appelle, *Mouchoir de col*, le linge dont les femmes se couvrent le col & la gorge » (A. Fr.)V. 1238.Mutin« Opiniâtre, querelleux, obstiné, testu. » (A. fr.)V. 1503.Nonchalance« Negligence, peu d'application qu'on a à quelque chose. (Fur.)V. 3.Objet« La personne qu'on aime » (A. fr.)V. 137, 264, 779, 782, 1032, 1115, 1354, 1766, 1848.OpilerObstruer. (« terme de médecin » Rich.)V. 1438.Pécore« Beste, stupide qui a du mal à concevoir quelque chose » (Fur.)V. 1327.Peine« Châtiment »« Douleur, tourment »« Soin, inquiétude d'esprit » (Fur.)Pénétrer« Approfondir une affaire, une science, la connoistre parfaitement » (Fur.)V. 1377.Pied-plat« Terme de mespris qui se dit d'un paysan, d'un gros lourdaut, d'un campagnard grossier » (A. fr.)« On appelle pied plat, un rustre, un paysan qui a des souliers tout unis. » (Fur.)V. 1550.Piquer« Ce mot se dit quelquefois des choses belles & jolies & veut dire, agréer, enflammer »« Ofencer, irriter par quelque action, par quelques paroles » (Rich.)V. 905Se piquer« Se fâcher, se mettre en colére » « C'est faire profession d'exceller en une chose, de savoir une chose en galant homme » (Rich.)V. 636, 1688.Prévenir« Estre le premier à faire la même chose, gagner les devants »« Preoccuper l'esprit, luy donner les premieres impressions » (Fur.)V. 1078.Prévariquer« Trahir la cause, l'intérest des personnes qu'on est obligé de deffendre, agir contre le devoir de sa charge, contre l'obligation de son ministere » (A. fr.)V. 1274.Protester« Faire des protestations »« Promettre, assûrer fortement quelque chose » (Fur.)V. 1577.Raciociner« Terme de Logique. User de son raisonnement, de sa faculté de raisonner, faire des arguments, des jugemens. … Ce mot n'est en usage que dans le dogmatique. » (Fur.)V. 1254.Ragoust« Ce qui est fait pour donner de l'appetit à ceux qui l'ont perdu » (Fur.)V. 1544.Raisonner« Exercer son entendement, sa faculté raisonnable »V. 1564.« Examiner, discuter une affaire, une question »V. 726.« Faire des difficultez, des objections, des repliques pour se dispenser d'obeïr » (Fur.)V. 162.Ravir« Emporter quelque chose violemment. … Se dit aussi des passions violentes qui troublent agréablement l'esprit, & suspendent les fonctions des sens, particulièrement de la joye, de l'etonnement & de l'admiration » (Fur.)V. 1747.Recherche« Poursuite que l'on fait pour avoir une fille en mariage » (A. Fr.)V. 1196.Rencontre« Hazard, avanture, par laquelle on trouve fortuitement une personne, ou une chose »« Occasion ». (A. fr.)V. 748, 1340.Resver« Signifie aussi, Mediter ; appliquer serieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque invention » (Fur.)V. 650.Rioter« Diminutif de rire. Il est familier. » (A. Fr., 1762.)Locuteurs des vers 417, 637, 911, 1019, 1366.Sangler« Ceindre, serrer avec des sangles »« Appliquer, donner avec force un coup de poing, un soufflet, &c. … stile familier & bas ». (A. fr)V. 624.Sauver« Rendre sain & sauf »« Corriger ; excuser, conserver. En Musique on sauve une dissonance par une consonnance qui suit » (Fur.)V. 649.Sexe« Quand on dit, *Le beau sexe*, ou absolument, *Le sexe*, on entend tousjours parler des femmes » (A. fr.)V. 785, 1078.Soin« Souci, … inquiétudes qui émeuvent, qui troublent l'ame » (Rich.)V. 164, 462, 1452.Soucy« Sollicitude, soin accompagné d'inquietude » (A. fr.)V. 1035.Suite« Enchaisnement de causes secondes, qui font qu'une chose vient après une autre naturellement » (Fur.)Conséquence.V. 1063.Surprise« Action par laquelle on surprend »« Etonnement, trouble » (A. fr.)V. 1125, 1139.Surprendre« Prendre quelqu'un sur le fait »« Etonner » (*A. fr*.)V. 148, 823.Vapeur« Est aussi une humeur subtile qui s'eleve des parties basses des animaux, & qui occupe & blesse leur cerveau » (Fur.)V. 1425.Vedette« Cavalier mis en sentinelle dans un lieu avancé » (A. fr.)V. 844.Tantost« Dans peu de temps ; & ce temps ne s'étend pas ordinairement au-delà de la journée » (A. Fr.)V. 29, 975, 1236, 1303, 1634, 1725.Tendresse« Sensibilité du cœur et de l'âme » (Fur.)Amour.V. 531, 788.Tenir (en)« On se sert aussi du mot de *Tenir*, En parlant des maladies de corps & d'esprit, & des differentes passions de l'ame dont on est possedé & saisi » (A. fr.). En ce sens, *en tenir pour quelqu'un* signifie « être amoureux »V. 1456.Toucher« Ce mot se dit en parlant de certains instrumens & veut dire joüer de cet instrument » (Rich.)Didascalie v. 98, locuteur v. 99 et v. 610, 641.Traitter« Faire un commerce, negocier, convenir de certaines conditions »« Agir, vivre avec certaines manieres proportionnées à la condition, ou à l'humeur des gens »« Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie » (Fur.)V. 44.Transport« Ravissement, extase »V. 1174.« Symptôme causé par des vapeurs malignes qui s'élèvent au cerveau. … *transport au cerveau*. » (A. fr.)V. 1446.Tourmens« Supplice » (A. Fr.)V. 166.Zele« Affection ardente pour quelque chose » (A. Fr.)V. 260.
 
 
-## Liste des comédies de Hauteroche
+## Liste des comédies de Hauteroche.
 
 1668 — *L'Amant qui ne flatte point* (5 actes, vers).
 
@@ -6307,7 +6307,7 @@ Rich. : *Dictionnaire françois* de Richelet.Aimable « Qui est digne d'estre 
 1690 — *Les Bourgeoises de qualité* (5 actes, vers).
 
 
-## Bibliographie
+## Bibliographie.
 
 Liste des abréviations utilisées :
 
@@ -6318,13 +6318,13 @@ Ars. : Bibliothèque nationale de France, site de l'Arsenal.
 Asp. : Bibliothèque nationale de France, Département des Arts du Spectacle.
 
 
-### Sources
+### Sources.
 
 
-#### Éditions de la pièce
+#### Éditions de la pièce.
 
 
-##### Édition originale
+##### Édition originale.
 
 *Crispin musicien*, Paris, Pierre Promé, 1674.
 
@@ -6335,7 +6335,7 @@ Asp. : RF-6261.
 Ars : 8-BL-13512 dans un recueil factice contenant des œuvres de Rosimond, Boyer, Le Boulanger de Chalussay et Hauteroche.
 
 
-##### Autres éditions du XVII*e* siècle
+##### Autres éditions du XVII*e* siècle.
 
 *Crispin musicien*, sur l'imprimé à Paris, Pierre Promé, 1674, Asp. : RF-6262 édition pirate.
 
@@ -6344,7 +6344,7 @@ Ars : 8-BL-13512 dans un recueil factice contenant des œuvres de Rosimond, Boy
 *Crispin musicien*, Paris, Pierre Ribou, 1705, Ars. : 8-RF-6236 *id*..
 
 
-#### Éditions des œuvres de Hauteroche
+#### Éditions des œuvres de Hauteroche.
     Les Œuvres de Monsieur de Hauteroche
 Théâtre de Noël le Breton, sieur de Hauteroche
 Crispin médecin et Crispin musicienLes contemporains de Molière, recueil de comédies rares ou peu connues jouées de 1650 à 1680 avec l'histoire de chaque théâtre
@@ -6352,7 +6352,7 @@ Le DeuilThéâtre du XVII*e* siècle
 
 
 
-### Ouvrages des XVII*e* et XVIII*e* siècles
+### Ouvrages des XVII*e* et XVIII*e* siècles.
     Le Théâtre et l'opéra vus par les gazetiers Robinet et Laurent (1670-1678)
 Le Théâtre français
 Trois discours sur le poème dramatique
@@ -6370,13 +6370,13 @@ Anthologie des nouvelles du Mercure Galant
 
 
 
-### Instruments de travail
+### Instruments de travail.
 
 
-#### Ouvrages sur la langue
+#### Ouvrages sur la langue.
 
 
-##### Ouvrages du XVII*e* siècle
+##### Ouvrages du XVII*e* siècle.
     Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
@@ -6384,20 +6384,20 @@ Remarques sur la langue françoise
 
 
 
-##### Ouvrages modernes sur la langue du XVII*e* siècle
+##### Ouvrages modernes sur la langue du XVII*e* siècle.
     Grammaire du français classique
 Syntaxe française du XVIIe siècle
 Dictionnaire historique de la langue française
 
 
 
-#### Bibliographies
+#### Bibliographies.
     Bibliographie de la littérature française du XVII*e* siècle
 Bibliographie der französischen Literaturwissenschaft
 
 
 
-#### Ouvrages de recensement systématique
+#### Ouvrages de recensement systématique.
     Anecdotes dramatiques
 La Comédie française de 1680 à 1900 : dictionnaire général des pièces et des auteurs
 A History of Franch Dramatic Literature in the Seventeeth Century
@@ -6411,16 +6411,16 @@ Histoire du théâtre françois
 
 
 
-#### Dictionnaires musicaux
+#### Dictionnaires musicaux.
     New Grove dictionnary of music and musicians*e*
 Dictionnaire de la musique
 
 
 
-### Études
+### Études.
 
 
-#### Études sur le théâtre, l'esthétique et l'histoire du XVII*e* siècle
+#### Études sur le théâtre, l'esthétique et l'histoire du XVII*e* siècle.
     Histoire de la littérature française du XVII*e* siècle
 La Musique en France à l'époque baroque, de Beaujoyeulx à Rameau
 L'esprit de la commedia dell'arte dans le théâtre français
@@ -6448,7 +6448,7 @@ La Comédie
 
 
 
-#### Études sur Hauteroche
+#### Études sur Hauteroche.
     Noël Le Breton de Hauteroche, seventeeth-century comic playwright and actor
 XVII*e* siècle
 *e*Chanteclerc

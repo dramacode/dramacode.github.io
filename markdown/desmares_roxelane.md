@@ -17,61 +17,61 @@ A PARIS, Antoine de Sommaville, à l'Escu de France, dans la Salle de Merciers. 
       master 1 sous la direction de Georges Forestier (2009-2010)
 
 
-# Introduction
+# Introduction.
 
 Roxelane est l'histoire d'une esclave qui entreprend de légitimer sa descendance en devenant reine. Ce faisant, elle devient la première reine de l'Histoire de l'empire ottoman. Un destin aussi surprenant ne pouvait que susciter l'intérêt du public pour l'Orient.
 
 
-# Présentation de la pièce
+# Présentation de la pièce.
 
 
-## Desmares, un auteur inconnu
+## Desmares, un auteur inconnu.
 
 Nous ne disposons que de peu d'informations sur l'auteur de *Roxelane*, Desmares. Le catalogue de la Bibliothèque Nationale de France l'identifie comme étant le Père Joseph Des Mares, prêtre de l'Oratoire de Jésus (février 1603- janvier 1687) [1]. Cependant, force est de constater qu'aucune autre source ne confirme l'identification de Desmares comme prédicateur et controversiste janséniste. Les frères Parfaict nous indiquent uniquement que Desmares est un *auteur dramatique* [2] qui *ne* {leur} *est connu que par la Piece de Roxelane qui semble être le seul ouvrage qu'il ait publié* [3]. Le *Dictionnaire portatif* d'Antoine de Léris [4] nous donne de nouvelles informations biographiques, discordantes avec celles retenues par la Bibliothèque Nationale : *Desmarres, avoit été Secretaire des Commandemens de M. le Prince. Il avoit une si grande passion pour le Théâtre qu'il étoit rare qu'il manquât un seul jour à la Comédie. Il mourut dans un âge très-avancé, vers l'année 1716. Nous n'avons de lui que Roxelane, donnée en 1643, et Merlin Dragon. On a même prétendu, avec assez d'apparence, que Roxelane étoit d'un autre Auteur, aussi nommé Desmarres.* La confusion est donc grande à propos de Desmares, dont la fréquence du nom et ses nombreux dérivés [5] n'ont fait qu'aggraver l'équivoque. C'est ce que confirme la distinction orthographique que font les frères Parfaict entre les entrées *Desmares*, auteur de *Roxelane* (1643) et *Desmarres* [6], auteur de *Merlin Dragon* (1686) et officier du Grand Condé. De par leurs dates de publication et leurs sujets éloignés, il semble en effet très peu probable que *Roxelane* et *Merlin Dragon* soient les productions d'un même auteur. *Merlin dragon* est une comédie en un acte et en prose. Elle met en scène M. de la Serre, un homme riche et avare qui demande à se marier avec la fille de M. Oronte, initialement destinée à son propre fils, Pimandre. Pimandre reconquiert finalement celle qu'il aime grâce à l'intervention d'un valet, Merlin, qui déguisé en *Capitaine de Dragons* pille la maison de M. Oronte qui renonce au mariage.
 
 Par hypothèse nous retiendrons donc la version modérée – et contemporaine de Desmares – des frères Parfaict. Les travaux de Henri Carrington Lancaster [7] sur l'histoire du théâtre français au XVII*e* siècle et de Clarence Dana Rouillard [8] sur les pièces inspirées de l'histoire turque vont dans ce sens, évoquant *a certain Desmares, otherwise unknown* [9] : Desmares est un dramaturge dont la seule production avérée est *Roxelane*, et dont les charges religieuses, administratives, ou politiques en dehors de la comédie, sont méconnues.
 
 
-## Roxelane, une pièce unique
+## Roxelane, une pièce unique.
 
 
-### Publication
+### Publication.
 
 Desmares fait publier *Roxelane* en 1643 chez les éditeurs parisiens Antoine de Sommaville et Augustin Courbé. La pièce est représentée en 1641 selon le *Calendrier des spectacles sous l'Ancien Régime* [10]. Cependant, aucun document contemporain ne fait mention de la représentation de la pièce non plus que du théâtre où elle aurait été jouée. Mais comme durant la première moitié du XVII*e* siècle la représentation précède généralement de douze à dix huit mois la publication, cette mention unique nous paraît cependant vraisemblable.
 
 
-### Argument
+### Argument.
 
 
-#### Acte I
+#### Acte I.
 
 Successivement, les deux favorites de Soliman apparaissent. D'abord Circasse, qui expose à son confident Acmat Bassa, son désarroi d'être délaissée par le sultan et les craintes qu'elle a pour son fils Mustapha. Circasse évoque le *fer* et le *poison* pour parer aux ruses de Roxelane, l'autre favorite, tandis que son conseiller lui recommande la dissimulation et la patience (sc.1). Apparaît ensuite Roxelane qui craint l'accession au pouvoir de Mustapha. Elle fait part au Mufti de son dessein de légitimer ses propres fils en épousant Soliman : « J'épouze Soliman ou bien la sepulture. » Le Mufti lui rappelle que les lois ottomanes interdisent aux sultans de se marier. Malgré l'interdit juridique, Roxelane évoque sans autre précision un stratagème par lequel le sultan lui-même la priera d'accepter la couronne (sc.2.). Les deux rivales, Circasse et Roxelane, échangent des paroles doucereuses qui cachent leur haine et leur crainte mutuelles (sc.3). Le premier acte se clôt par un long monologue de Roxelane dans lequel elle entérine sa décision de « mont(er) en des lieux d'où Mustapha ne puisse approcher que des yeux » (sc.4).
 
 
-#### Acte II
+#### Acte II.
 
 Alors que Soliman s'affirme en roi amoureux, Acmat se hasarde à souligner que l'autorité croissante de Roxelane affaiblit sa position et qu'en proportion le « peuple croit que pour luy (son) amour est devenu plus froid ». L'ambition de Roxelane surprend Soliman qui se place en sultan respectueux des « lois anciennes ». Le Mufti condamne l'audace d'Acmat (sc.1). Roxelane, sommée de s'expliquer, demande à Soliman la permission de construire un « temple » et un « hospital » qui lui permettraient de sortir de l'état mélancolique dont elle souffre. Soliman demande au Mufti d'exécuter le projet de Roxelane. Parce qu'elle est esclave, le Mufti souligne que l'érection d'un temple et d'une institution de charité ne sera spirituellement profitable qu'à son maître. Le moyen de surmonter l'obstacle est l'affranchissement de Roxelane, que Soliman accorde sur le champ. Elle pourra désormais se consacrer au temple, « véritable image » de la grandeur du sultan (sc.2). Roxelane se réjouit du succès du premier temps de sa stratégie, aux côtés du Mufti qui lui confirme sa loyauté (sc.3).
 
 
-#### Acte III
+#### Acte III.
 
 Un page informe Soliman que Roxelane refuse qu'il entre dans sa chambre en transmettant le message « que l'amour désormais est un crime pour (elle) ». Soliman ordonne la mort de la Sultane mais consent auparavant, en réponse aux prières de Rustan, à attendre l'explication de son refus (sc.1). Alors que Circasse et Acmat craignent l'ambition masquée de Roxelane qui a obtenu l'autorisation de faire construire une « mosquée » (sc.2), Osman leur apprend que Roxelane est sur le point d'être condamnée. Ils décident de profiter de l'état de crise pour évincer définitivement Roxelane (sc.3). Dans un passage en stances, Roxelane prend la mesure du danger qu'implique la réalisation de sa stratégie. Elle choisit cependant de poursuivre la conquête du trône, au risque de mourir (sc.4). Malgré les prières de Rustan et Chamerie — respectivement gendre et fille de Roxelane et de Soliman —, Roxelane n'infléchit pas sa position qui respecte un interdit religieux : un femme libre ne doit pas être favorite du sultan (sc.5). L'acte se clôt sur l'apparition d'Ormin, colonel des janissaires, avec deux de ses hommes qui viennent arrêter la Sultane (sc.6).
 
 
-#### Acte IV
+#### Acte IV.
 
 Dans un passage en stances, Soliman oscille entre rage et amour (sc.1). Il promet à Circasse de ne pas se comporter en amant mais en juge (sc.2). Mais quand Roxelane apparaît aux yeux du sultan, elle feint un grand désarroi depuis qu'elle a quitté son rang d'esclave. Soliman renvoie Circasse et les soldats (sc.3). Il demande à Roxelane de ne pas s'arrêter à ces « formalitez ». Elle rétorque que si lui est au-dessus des lois, « Je suis dessous la loi puisque je suis sujette ». Soliman, à la fois « témoin, et partie, et juge, et punisseur », est confronté à une aporie juridique (sc.4). Soliman n'ayant pas le courage de la condamner, convoque une assemblée (sc.5).
 
 
-#### Acte V
+#### Acte V.
 
 Acmat informe Circasse de la rumeur du mariage de Roxelane avec Soliman. Ils sont résolus à s'y opposer (sc.1). Soliman réunit ses conseillers. Le Mufti confirme que le comportement de Roxelane est fidèle à ce qu'impose l'Alcoran. La crainte de Circasse se concrétise quand le Mufti annonce que la solution pourrait être le mariage. Acmat s'oppose violemment à la proposition du Mufti. Il dénonce la fourberie de Roxelane et rappelle l'interdit de la loi ottomane. Le mufti rétorque que si les lois humaines sont modifiables, la loi religieuse est sacrée. Soliman épouse Roxelane sur le champ (sc.2). Soliman sacre ensuite Roxelane « Reine des Musulmans », il partage ses droits avec elle et, même si « les lois semblent y contredire », il désigne ses « enfants successeurs à l'Empire ». Alors que Circasse projette de mourir aux côtés de son malheureux confident, Roxelane continue de jouer intelligemment l'humilité. La pièce se clôt sur ses protestations innocentes « De vivre comme esclave et non pas comme Reine, En tres-humble sujette et non en souveraine. » (sc.3).
 
 
-## Sources
+## Sources.
 
 
-### Moyens de connaissance de l'Orient au 17*e* siècle
+### Moyens de connaissance de l'Orient au 17*e* siècle.
 
 Le traitement du sujet oriental dans le théâtre du Grand Siècle a connu deux périodes distinctes. La première, plus timide, a vu naître les premières turqueries. C'est à cette première période qu'on rattache la pièce de Desmares, publiée en 1643. L'Orient qui est alors mis en scène reste un lointain mystérieux, mythique et enchanteur. La seconde période, plus affirmée, coïncide avec le règne de Louis XIV. Cette période se caractérise par la transition d'une représentation mythique de l'Orient à une réalité plus concrète, notamment grâce au développement des différentes Compagnies de commerce.
 
@@ -102,7 +102,7 @@ Mais s'étonner de la publication d'*Ibrahim ou de l'Illustre Bassa* de Scudéry
 Cette véritable mode qui correspond en fait au règne de Louis XIII et à la Régence se compose de sept tragédies : *La Rhodienne ou La Cruauté de Soliman* de Mainfray (1621), *Le Grand et dernier Soliman ou la Mort de Mustapha* de Mairet (1639), *Perside ou la suite d'Ibrahim Bassa* de Desfontaines (1644), *La Grand Tamerlan ou la mort de Bajazet* de Magnon (1648), *Soliman ou l'esclave généreuse* de Jacquelin (1653), *Osman* de Tristan l'Hermite (1656), *Soliman* de la Tuillerie (1681) ; et de trois tragi-comédies : Soliman de Vion D'Alibray (1637), *Ibrahim ou l'Illustre Bassa* de Georges de Scudéry (1643) et *Roxelane* de Desmares (1643). Ces tragicomédies et tragédies des années 1621-1656, se référant à des œuvres et des auteurs mineurs, préparent les images de puissance raciniennes à l'œuvre dans *Bajazet*. De même, le motif farcesque du retour des Indes Orientales ouvre au début du siècle la voie aux *Fourberies* de Scapin et à la ridiculisation du Mamamouchi de Molière.
 
 
-### Sources historiques : les chroniques de Nicolas de Moffan et les histoires générales de Baudier et Chalcondyle
+### Sources historiques : les chroniques de Nicolas de Moffan et les histoires générales de Baudier et Chalcondyle.
 
 L'histoire de Soliman et de Roxelane apparaît dans un premier compte rendu historique de la mort de Mustapha et des événements qui y ont conduit dans *Le meurtre execrable et inhumain, commis par Soltan Solyman, grand Seigneur des Turcs, en la personne de son fils aisné Soltan Mustaphe*, de Nicolas de Moffan [19].
 
@@ -170,29 +170,29 @@ Baudier et Chalcondyle ajoutent à la matière historique de Moffan la source de
 Depuis Moffan, les principaux protagonistes de la pièce de Desmares sont connus. Le public connaît Mustapha, fils de Soliman et d'une esclave [27]. Soliman a aussi des fils plus jeunes d'une autre concubine, que Moffan appelle Rose, qui est plus célèbre et qui nous est connue sous le nom de Roxelane. Elle a trois fils et une fille du sultan, cette dernière s'étant mariée à Rustan, qui deviendra grand vizir.
 
 
-### Sources littéraires 
+### Sources littéraires .
 
 Les œuvres théâtrales qui choisissent comme matière littéraire le cycle de Solyman peuvent se classer selon la typologie établie par Clarence Dana Rouillard entre the *Soliman-Mustapha story, the Soliman-Ibrahim story, the S. oliman-Roxelane story* et *the Soliman-Bayezid-Selim story* [28].
 
 
-#### L'histoire de Soliman et de Mustapha
+#### L'histoire de Soliman et de Mustapha.
 
 Le meurtre de Mustapha ordonné par Soliman, sous l'influence de ses conseillers, a fort intéressé les dramaturges. Nicolas de Moffan en avait souligné la cruauté. Une fausse lettre du prince héritier au Shah d'Iran lui demandant son aide pour renverser Soliman aurait été interceptée. Mustapha rejoint le camp de Soliman pour s'en justifier. Sans armes, il entre sous la tente de son père pour lui baiser la main et est tué par les eunuques.
 
 Seulement quelques années après le meurtre de Mustapha, Gabriel Bounin écrit La Soltane (1661). Le même sujet est développé au XVII*e* siècle dans trois autres tragédies : *Solyman II* de Georges Thilloys (1608), *Le Grand et Dernier Solyman* de Jean Mairet (1635) et *Le Soliman* de Charles Vion Dalibray (1637).
 
 
-#### L'histoire de Soliman et d'Ibrahim
+#### L'histoire de Soliman et d'Ibrahim.
 
 Ibrahim est un esclave chrétien devenu le grand vizir de Soliman. Il s'attire la jalousie des autres seigneurs augmentée par la haine que nourrissent la mère de Soliman, et sa femme, Soliman, Roxelane. Cette dernière se sent trahie par Ibrahim, qui soutient l'héritier légitime, Mustapha, plutôt que son fils, Bajazet. Sur ordre de Soliman, Ibrahim est finalement égorgé pour déloyauté. Trois pièces sont inspirées par l'histoire de Bajazet : *La Rhodienne ou la Cruauté de Solyman* de Pierre Mainfray (1621), *Ibrahim*, Georges de Scudéry (1643), *Perside ou la suite d'Ibrahim Bassa*, Nicolas Marc Desfontaines (1644)
 
 
-#### L'histoire de Soliman et de Roxelane
+#### L'histoire de Soliman et de Roxelane.
 
 *Roxelane* est la seule pièce dans le cycle de Soliman à utiliser comme thème principal la montée de Roxelane au pouvoir.
 
 
-#### L'histoire de Soliman, de Bajazet et de Selim
+#### L'histoire de Soliman, de Bajazet et de Selim.
 
 La rivalité fratricide entre Bajazet, fils préféré de Roxelane, et Selim, fils préféré de Soliman fonde le matériau de la dernière pièce du cycle de Soliman, celle de Jacquelin intitulée *Le Soliman* (1653).
 
@@ -227,7 +227,7 @@ Enfin après une longue contestation, Roxelane persuada à Soliman, de prendre c
 Ce passage témoigne de la capacité de Roxelane à infléchir Soliman.
 
 
-## Enjeux littéraires
+## Enjeux littéraires.
 
 La décennie 1630-1640 est l'âge d'or de la tragicomédie au point que le genre tragicomique éclipse les autres formes théâtrales. Hélène Baby établit un corpus dramatique composé de cinquante tragicomédies publiées pour la première fois entre 1628 et 1642. La tragicomédie des années 1630 se distingue fortement du genre tragique, comme l'illustrent les textes théoriques publiés en préface des pièces [33]. Quelques années plus tard, la querelle du Cid [34] et la renaissance réussie de la tragédie régulière conduisent les auteurs tragicomiques à se fondre dans la mode régulière. Cette imposante production tragicomique s'insère dans les débats théoriques des années Richelieu où les théoriciens raisonnent à partir de la tragicomédie, sans jamais pour autant la définir tant les frontières du genre sont mouvantes. L'évolution et la disparition du genre s'expliquent d'une part par les changements qui affectent les notions de tragique et de comique. D'autre part, la tragicomédie, qui se définissait par une *dispositio* irrégulière adopte insensiblement une forme plus régulière. Ces bouleversements théoriques atteignent leur apogée à la fin de l'année 1642, année où Mairet écrit sa dernière tragicomédie, *La Sidonie*, à laquelle il ajoute en 1643 l'adjectif héroïque. La même année, la publication de *Cinna* de Corneille, tragédie à fin heureuse, entérine le déclin du genre tragicomique.
 
@@ -242,13 +242,13 @@ Nous avons donc cherché à comprendre comment l'œuvre s'est faite en analysant
 Ainsi, en déterminant ce que Desmares a construit à partir de la source historique, nous avons pu identifier les enjeux esthétiques que l'auteur a souhaité exploiter. Nous conclurons que l'esthétique de l'œuvre correspond à une cohérence artistique globale. 
 
 
-# Analyse dramaturgique
+# Analyse dramaturgique.
 
 
-## L'acte d'exposition
+## L'acte d'exposition.
 
 
-### La répartition des fonctions actancielles
+### La répartition des fonctions actancielles.
 
 La description du type social des acteurs en liste liminaire est une source d'indications. Dans les tragicomédies, comme l'écrit Hélène Baby, « la description sociale des acteurs prend toute sa signification dans le rapport du type social à la fonction actorielle ». Soliman n'est présenté que par son nom mais nous savons qu'il est roi; il en possède donc l'ethos. Roxelane est « sultane ». Ce titre, réservé aux esclaves qui ont eu un fils du sultan, donne deux indications. Roxelane n'est pas souveraine, et elle forme un couple potentiel avec le Sultan. Circasse est aussi « sultane » ce qui lui donne un point commun avec Roxelane. Mais l'adjectif « autre », en dépréciant sa situation, souligne la rivalité des deux femmes. Le Mufti est présenté par sa charge de « Souverain Prestre de la Loy de Mahomet ». Il est l'interprète du Coran et ainsi « dit le droit » souverainement, sans autre interprétation possible. Acmat apparaît par sa fonction militaire de bassa mais n'existe que par la relation d'amitié qui le lie à Circasse. .
 
@@ -267,7 +267,7 @@ Soliman n'est pas présent dans l'acte d'exposition. En tant que sultan il est a
 La confrontation des schémas actanciels met au jour le déséquilibre des forces dans le conflit. Roxelane n'agit que pour elle-même dans le but de parvenir au pouvoir par le mariage (v.193). Son obstacle est la loi religieuse, mais l'interprète de cette loi est son confident. Or le Mufti décide conjointement avec le Sultan de l'application de la loi. Cette configuration semble donc ne laisser aucune issue à Circasse d'autant qu'elle n'a pour soutien qu'un général d'armée placé sous l'autorité du Sultan.
 
 
-### La déconstruction de l'acte d'exposition
+### La déconstruction de l'acte d'exposition.
 
 Dans le respect de la norme classique, Desmares a concentré dans l'acte d'exposition l'ensemble des possibles. Le drame met en jeu un trio amoureux engagé dans une rivalité politique.
 
@@ -324,7 +324,7 @@ L'acte se clôt sur l'image d'une femme forte qui entend littéralement réalise
 La déconstruction de l'acte d'exposition met ainsi au jour toute l'ambigüité de l'héroïne. Sur ces bases l'action s'engage.
 
 
-### Le rôle de la fortune
+### Le rôle de la fortune.
 
 Au sérail, la fluctuation des désirs érotiques du Sultan est la règle.
 
@@ -338,7 +338,7 @@ Vous ne jugères pas mes desseins impossibles, v.233-234
 Cette notion de fortune, au sens machiavélien du terme, n'est en rien aléatoire mais organisée et pensée dans tous ses aspects. Elle dirige la composition de l'œuvre et explique la construction de l'action.
 
 
-## L'action
+## L'action.
 
 Comme l'écrit Sylvie Requemora, la turquerie de Desmares est synonyme de « fourberie machiavélique orientale d'autant plus exotique qu'elle est le fait d'une femme. » [45]
 
@@ -365,7 +365,7 @@ La loi religieuse autorise le mariage entre une femme libre et le sultan.
 L'obstacle que Roxelane doit surmonter est prescrit par la loi civile qui refuse aux sultans le mariage.
 
 
-### La combinaison des obstacles
+### La combinaison des obstacles.
 
 L'organisation des obstacles mis en place dans *Roxelane* exploite un mode rare dans le genre tragi-comique. La combinaison de ces obstacles est inhérente à l'exploitation par Desmares « de circonstances transcendantes, tels un oracle, une loi civile ou un impératif religieux. » [46]. L'intrigue se construit dans le dépassement par Roxelane de l'obstacle fondamental de la loi civile (Les lois ottomanes empêchent les sultans de se marier.).
 
@@ -381,7 +381,7 @@ Soulignons à nouveau, l'originalité du cas de Roxelane est donc qu'elle fait s
 Les obstacles et leur résolution, liés par une relation d'implication nécessaire, expliquent la régularité de la pièce. Dominée par le couple mécaniste Roxelane-Mufti, la construction par imbrication empêche la création d'un nœud. Cette forme particulière est la stricte conséquence de la construction à rebours à partir de la matrice tragique.
 
 
-### Les opposants passifs
+### Les opposants passifs.
 
 Contraint par cette progression, la passivité de l'opposition a une cohérence sur le plan dramaturgique. De la même façon que les obstacles cèdent insensiblement devant Roxelane, les opposants s'effacent devant la progression mécanique de l'héroïne.
 
@@ -409,7 +409,7 @@ Circasse se manifeste aussi par son silence. La scène finale mise à part, une 
 Nous constatons que les rares fois où Circasse et Acmat investissent leur rôle d'opposants correspondent aux situations, elles aussi rares, où Soliman se présente comme souverain. Malgré leurs efforts pour jeter le discrédit sur Roxelane, ils ne représenteront jamais une menace sérieuse. La gratuité de l'existence du couple Circasse-Acmat est même justifiée dans la scène finale. Ils n'y apparaissent que pour y décider leur mort (v.1585-1591) sous une forme proche de l'aparté qui donne l'impression qu'ils ne partagent pas le même espace scénique que les autres personnages.
 
 
-### La suspension de l'action
+### La suspension de l'action.
 
 Pour assurer un enchaînement d'actions combinées jusqu'au mariage de l'héroïne, on repère facilement les épisodes inventés par Desmares pour construire son intrigue. Ces épisodes, inclus dans l'action principale, sont des extrapolations de l'événement historique.
 
@@ -423,7 +423,7 @@ Ces suspensions ont donc une cohérence sur le plan dramaturgique. Les épisodes
 Le « revirement » de Soliman achève l'action. Ce revirement pourrait apparaître contingent dans la mesure où, en sa qualité de souverain, le roi peut changer d'avis à tout moment. Mais l'étude de la pièce a révélé la subordination de ce revirement à la stratégie de Roxelane. Le hasard est en effet absent du dénouement d'une pièce entièrement construite sur la nécessité. Le dénouement est complet. Le sort de tous les personnages est fixé et le problème posé par la pièce trouve une solution. Soliman et Roxelane se marient selon des conditions précises (v.1603-1607), Circasse et Acmat vont « mourir ensemble » (v.1589), et le Mufti fait le serment d'être soumis (v.1608-1609) à Roxelane. Le dénouement est enfin rapide sans que cette rapidité ne vienne contredire le critère de complétude. La prise de paroles des personnages est réduite au minimum mais trouve sa vraisemblance dans le protocole du sacre. Le dénouement heureux de la tragicomédie est réalisé. Même la mort tragique de Circasse est modifiée dans un sens heureux par Acmat : « Allons et faisons voir par un coup genereux/Que qui sçait bien mourir n'est jamais mal-heureux. » (v.1590-1591). Généreux signifie courageux mais aussi noble et cette expression est une allusion explicite à la tragicomédie qui doit bien se terminer.
 
 
-# Esthétique de la vertu
+# Esthétique de la vertu.
 
 *Roxelane* est une proposition artistique. La mise en œuvre de l'Histoire est une transposition esthétique qui se veut à la fois conforme et supérieure sur le plan artistique à l'original. L'analyse dramaturgique a démontré la cohérence d'une action déduite de sources historiques. Cette cohérence apparaît comme un principe directeur de la composition de l'œuvre, tant dans le déroulement de l'action que dans les choix esthétiques de l'auteur.
 
@@ -434,14 +434,14 @@ D'une part, la pièce met en scène les grands et les puissants. Le lieu du sér
 D'autre part, la pièce met en scène l'ascension extraordinaire de l'esclave qui devint reine. La proximité des liens entre politique et passion explique l'intérêt manifeste que suscite l'histoire de Roxelane. La ruthénienne transgresse la loi civile, s'oppose au pouvoir du Sultan, mais s'assure du soutien de l'autorité religieuse. Hormis l'exploit politique, ce sont les interrogations sur la vertu du personnage féminin qui emportent l'intérêt du spectateur. Le Sérail est un *inland* dont la fonction est de contenir l'information. Ce sont les fantasmes attachés au comportement de Roxelane qui font l'intérêt de la pièce. Il nous apparaît que dans le but de créer l'illusion d'une action véritable, Desmares a constitué de façon cohérente l'ambigüité du personnage par un travail esthétique sur la vertu.
 
 
-## Le roi
+## Le roi.
 
 Le roi est la figure souveraine de la pièce. Sa fonction guerrière est rappelée par des images violentes de domination des peuples soumis à la force du « cimeterre » (v.1366). Cette exploitation de la force guerrière passe par le rappel de grands faits militaires (v.391, v.1506). Il incarne régulièrement la fonction de roi juge (v.1091, 1094) et porte un souci particulier aux lois anciennes dont il se porte légataire (v.544-545). Ces autoreprésentations ne font jamais l'objet d'une politique mais d'une pragmatique. Comme l'a souligné l'analyse dramaturgique, ces attitudes ne sont que des postures, et s'il endosse *l'ethos* du roi, il succombe toujours aux désirs de Roxelane (v.404, v.631-632, v.1036-1037, v.1145), multipliant les images d'un amour passionné (v.1531, v.1533, v.1429, v.1430, v.1425, v.1194). Toutes les tragicomédies s'accordent à exploiter la faiblesse, la naïveté, en somme l'humanité des rois. À l'instar d'un roi typiquement tragicomique, Soliman est amoureux parce qu'il est humain et faible. Cette convention prive le roi de la responsabilité politique de ses actes au point qu'il permet l'insubordination politique (II, 1) et subit le machiavélisme de ses conseillers (v.405-408). Cependant le conflit entre Roxelane et Soliman sert la matière tragique. Ce roi demeure puissant et la question de sa légitimité fonde le drame.
 
 Le comportement de Soliman n'outre pas la vraisemblance puisque l'univers passionnel du sérail le permet. Sa méconnaissance manifeste des lois, notamment religieuses (v.659), la précipitation de ses décisions et de ses revirements apparaissent en effet justifiées par la passion qui brouille sa raison. Comme il le confesse dans les stances (IV, 1), sa passion lui a causé “ plus d'alarmes que la rébellion de mille nations ” (v.1012-1013). Si Soliman n'endosse pas l'image barbare et cruelle que le XVIIème siècle a constituée en mythe c'est aussi parce que l'action se déroule dans la phase de son règne où il connaît la paix aux frontières, la paix sur le plan intérieur, et que nul ne conteste sa souveraineté. Ce qui pourrait être envisagé comme un emportement tyrannique n'en est pas. La condamnation d'emprisonnement qu'il prononce à l'encontre de Roxelane, si spectaculaire soit-elle, est moins le fait d'un tyran que d'un roi animé par la *furor amandi*. L'exploitation du motif de la tête coupée (v.757) et le tableau de Roxelane jetée dans l'enfer de la prison (v.1279-1292) ne doivent être interprétés que comme l'expression du ressentiment amoureux du Sultan. L'humanité de Soliman est suggérée en liste liminaire dans laquelle il n'est pas présenté sous sa fonction sociale mais seulement sous son nom. Les stances de Soliman (IV, 1) illustrent les traits conventionnels sur la condition pitoyable de la vie des rois. Dans ce moment de délibération amoureuse, il apparaît plus à plaindre que ses sujets, car sa condition noble le transporte d'un extrême à l'autre de la fortune.
 
 
-## Roxelane
+## Roxelane.
 
 La convention littéraire de la tragicomédie présente le héros tragicomique comme le jouet du hasard et du sort, de la fortune. L'incertitude dans laquelle il agit est le miroir de l'incertitude du spectateur, qui attend lui-même de savoir quel sera le dernier revers de fortune. En portant à la scène un personnage qui agit selon la fortune machiavélienne, Desmares rompt avec cette convention. L'ascension totale de Roxelane qui passe du statut d'esclave au rang de sultane reine est un extraordinaire destin, type même du renversement de fortune dont Aristote considérait dans sa *Poétique* qu'il constitue le sujet fondamental de la tragédie. Cependant, ce renversement de la fortune est contingent à la vertu de l'héroïne.
 
@@ -461,7 +461,7 @@ A la pluie, à la grêle également conduit. [50]
 La sensualité de Roxelane pourrait contrevenir à l'image de la femme forte ou de la femme de courage. Mais, bien que la Sultane manipule l'amour pour arriver à ses fins, elle ne peut être reliée à la lignée des femmes dépravées que la littérature morale du XVII*e* citait en contre exemple : Roxelane ne parjure jamais sa condition comme femme de qualité. Ainsi, lorsque qu'elle invoque la loi religieuse pour refuser la couche de Soliman, c'est dans le dessein de se marier avec lui et d'assurer sa descendance. Sa seule faiblesse est de rester fidèle à son amour tout en y renonçant. La pièce de Desmares présente Roxelane comme une femme attentive à protéger la vie de sa progéniture, qui réussit à employer son intelligence pour se préserver des tumultes du monde oriental. Ce comportement à la fois machiavélique, féroce, mais moralement justifié, est de nature à susciter la crainte et la pitié. Il synthétise toute l'ambiguïté du personnage, que le dramaturge a choisi de créer à partir de l'Histoire.
 
 
-## Les objets du discours : le coran et la couronne
+## Les objets du discours : le coran et la couronne.
 
 Au plan de la représentation, l'esthétique de la vertu est offerte par la médiation symbolique des objets que sont le coran et la couronne.
 
@@ -478,10 +478,10 @@ Le mufti est le *médium* de la parole du Coran. À la fois objet et sujet, la m
 Soliman le Législateur confirme la victoire de Dieu sur le temporel. « Cedez humaines Loy cedés à la Divine. Cedez raisons d'etat aux volontés des Cieux. » (v.1529-1530). La conversion de Roxelane est doublée sur le plan du symbole par le sublime de la grâce religieuse qui possède en elle-même une valeur dramaturgique : elle rend vraisemblable le retournement, et ainsi légitime le déroulement de l'action. Roxelane acquiert finalement l'objet convoité par la voix de Soliman : « Montez, vous dis-je, et prenez la couronne » (v.1601).
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Description du volume
+## Description du volume.
 
 1 vol. in-4°, 102 p. (Erreur de pagination sans manque. Saut de la page 56 à la page 59).
 
@@ -508,12 +508,12 @@ Richelieu : 8- RF- 6016, 8- RF- 6017
 Sorbonne : RRA 8= 435  
 
 
-## Description de la page de titre
+## Description de la page de titre.
 
 ROXELANE / *TRAGI-COMEDIE*. / armoiries du Royaume de France : une épée nue sur deux sceptres en sautoir surmontés des armes de France et de Navarre ; une palme et une branche d'olivier ; la devise d'Henri IV DUO PROTEGIT UNUS signifie littéralement *un seul en défend deux* c'est –à-dire *un même glaive défend les deux royaumes* ; au-dessus le blason de France, d'azur à trois fleurs de lys d'or et le blason de Navarre, de gueules, aux chaines d'or en croix en sautoir et en orle allumées au cœur de sinople ; les *L* sont une référence à Louis XIII qui meurt en 1643 / A PARIS, / Chez / accolade ouvrante *Antoine de Sommaville*, à l'Escu de France, dans la Salle des Merciers. *ET Augustin Courbe*, Lib. Et Impr. De Mons. Frere du Roy, à la Palme, en la mesme Salle. accolade fermante au Palais. / Desmares (manuscritement) / filet / M.DC.XLIII / *AVEC PRIVILEGE DU ROY*.
 
 
-## Liste des coquilles corrigées
+## Liste des coquilles corrigées.
 
 v.26 : « allors »
 
@@ -582,7 +582,7 @@ v.1486 : « publiq »
 v.1583 : « Mussulmans »
 
 
-## Typographie
+## Typographie.
 
 Le texte que nous allons présenter suit fidèlement l'édition originale de 1643, dont nous reproduisons la pagination entre crochets à la droite du texte.
 
@@ -610,7 +610,7 @@ Nous avons également supprimé des points dont l'emplacement n'était pas justi
 Nous avons enfin transformé certains signes de ponctuation. A plusieurs reprises, le point a été transformé en point d'interrogation (vv. 936, 1158, 1212, 1242, 1256, 1308, 1473, 1483, 1527) ou en virgule (vv.430, 1114, 1282, 1368, 1604). Nous recensons un cas où le point d'interrogation a été transformé en point d'exclamation (v.834) et le point virgule en point d'interrogation (v.374).
 
 
-## Tournures systématiques
+## Tournures systématiques.
 
 L'adjectif interrogatif *quelle* apparaît dans le texte original sous la forme « qu'elle » (vv. 899, 942, 1049, 1088) que nous avons rétablie.
 
@@ -842,7 +842,7 @@ Et vostre fils monter en ce degré supréme.
 Esperés, bien souvent l'inconstance du sort  
 Nous met dans le naufrage⁎ et du naufrage au port  
 
-    CIRCASSE. 
+    CIRCASSE.
 Pour ma seule vertu je prends la patience  
 Et desormais la feinte est ma seule science.  
 
@@ -855,19 +855,19 @@ Mesme des aujourd'huy quoy qu'il puisse avenir
 Je vay trouver le Roy pour l'en entretenir.  
 Je vay parler bien haut de tout ce qui se passe.  
 
-    CIRCASSE. 
+    CIRCASSE.
 Helas, mon cher Acmat, je crains vostre disgrace.  
 
-    ACMAT. 
+    ACMAT.
 Pour vous allés la voir, et par des compliments  
 Tachés à [76] penetrer dedans ses sentimens.  
 Sur tout preparés-vous contre ses artifices.  
 
-    CIRCASSE. 
+    CIRCASSE.
 Que je vous doy de biens pour tant de bons offices [77].  
 
 
-### SCENE II 
+### SCENE II. 
 ROXELANE, LE MUFTI
 
 
@@ -930,7 +930,7 @@ Et je veux desormais en dispenser nos Rois.
     LE MUFTI.
 Vous ne le pouvez pas à moins que d'estre Reine.  
 
-    ROXELANE. 
+    ROXELANE.
 C'est par là que je veux me monstrer souveraine,  
 Et pour vous dire tout sachez que dans demain [85],  
 Vous me verrés ou morte ou le sceptre en la main,  
@@ -984,7 +984,7 @@ Malgré toutes les lois j'obtiendray la couronne,
 Ma conduite se veut tellement employer,  
 Que mesme l'Empereur m'en vienne suplier.  
 
-    LE MUFTI. 
+    LE MUFTI.
 Immortels [87] je vous fais une injuste priere,  
 Soyez les protecteurs d'un dessein temeraire.  
 
@@ -997,15 +997,15 @@ Il est bien vray qu'il faut les vous communiquer,
 Et m'asseurez de vaincre avant que d'attaquer.  
 
 
-### SCENE III
+### SCENE III.
 ROXELANE, CIRCASSE, LE PAGE.
 
 
-    LE PAGE. 
+    LE PAGE.
 La Sultane Circasse est ici prés, Madame,  
 Qui demande à vous voir.  
 
-    ROXELANE. 
+    ROXELANE.
         C'est à ce coup [88], mon ame,  
 Le Mufti rentre.
 
@@ -1030,13 +1030,13 @@ J'appelle ce bon-heur des fruits de l'inconstance,
 Dont la possession n'a point de fondement  
 Et comme elle s'acquiert se pert en un moment.  
 
-    CIRCASSE. 
+    CIRCASSE.
 Jugés mieux de l'amour dont son ame est atteinte.  
 
-    ROXELANE. 
+    ROXELANE.
 Cet amour bien que grand n'efface pas ma crainte.  
 
-    CIRCASSE. 
+    CIRCASSE.
 Vous craindre ? qui pouvez possedant Soliman  
 D'un mot faire trembler tout l'Empire Othoman.  
 
@@ -1066,10 +1066,10 @@ Tout ceux que mon bon-heur m'a rendus ennemis.
     CIRCASSE. 
 Mais que pouvez-vous craindre en ce degré supréme ?  
 
-    ROXELANE. 
+    ROXELANE.
 Que puis-je craindre ! tout, ma fortune⁎, moy-méme !  
 
-    CIRCASSE. 
+    CIRCASSE.
 Ce discours est obscur, et ce raisonnement  
 Dans mon esprit confus porte l'étonnement,  
 De grace expliqués-vous.  
@@ -1105,7 +1105,7 @@ J'en serois moins haye [92], et vostre inimitié
 Auroit changé son nom en celuy de pitié,  
 Et de tant de soupçons mon ame combatuë,  
 
-    CIRCASSE. 
+    CIRCASSE.
 Brisons-là: [93] ce discours d'inimitié me tuë,  
 Et vos raisonnemens m'éclaircissent assez  
 Pour me persuader que vous me haysser.  
@@ -1158,15 +1158,15 @@ Laissent par ce discours mon ame dans la joye.
 Que dans cet entretien j'ay trouvé de douceur  
 Ma soeur jusqu'au revoir.  
 
-    ROXELANE. 
+    ROXELANE.
         Adieu ma chere soeur.  
 
-    CIRCASSE *s'estant séparée.*
+    CIRCASSE *s'estant séparée.*.
 De quelque faux appas⁎ que ton discours se farde  
 Je suis bien resoluë à me donner de garde. [96]  
 
 
-### SCENE IV 
+### SCENE IV. 
 
     ROXELANE.
 Je vous croiray, Circasse, et vous et vostre fils  
@@ -1217,10 +1217,10 @@ Faisons ce coup d'esprit qui nous mette en état
 De pouvoir éviter et faire un attentat [103].   
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 SOLIMAN, ACMAT, LE MUFTI, ORMIN.
 
 
@@ -1475,7 +1475,7 @@ Seigneur je me soûmets, et mets les armes bas.
 Qu'elle ne sache rien de ceste conference [114].  
 
 
-### SCENE II
+### SCENE II.
 SOLIMAN, ROXELANE, LE MUFTI, ACMAT, ORMIN
 
 
@@ -1561,7 +1561,7 @@ De faire un hospital [118], de dresser des autels,
 Ou l'on puisse en mon nom servir les immortels.  
 C'est tout ce que je veux.  
 
-    SOLIMAN. 
+    SOLIMAN.
                     Ha la foiblesse extréme,  
 Femme simple ou plustost la simplicité méme  
 C'est trop peu demander d'un Prince genereux,  
@@ -1578,7 +1578,7 @@ Enfin j'y veux graver pour la gloire Othomane
 Ce que peut Soliman, ce que vaut Roxelane  
 Mais qu'on depesche⁎ tost.  
 
-    LE MUFTI. 
+    LE MUFTI.
                         Seigneur, c'est un dessein  
 Qui ne peut étre entré dans un esprit bien sain  
 En faveur d'un esclave edifier un temple ?  
@@ -1652,7 +1652,7 @@ Qu'elle choisisse un lieu, vous, Acmat, suivez moi,
 Un grand dessein que j'ay demande vostre employ.  
 
 
-### SCENE III 
+### SCENE III. 
 ROXELANE, LE MUFTI
 
 
@@ -1705,7 +1705,7 @@ Mais mon cher confident ne m'abandonnés pas
 Je ne vous quitte point mesme dans le trespas.  
 
 
-## ACTE III
+## ACTE III.
 
 
 ### SCENE PREMIERE.
@@ -1803,7 +1803,7 @@ Allez, et qu'aussi-tost je vous revoye icy
 De sa rebellion je veux estre éclaircy.  
 
 
-### SCENE II
+### SCENE II.
 ACMAT, CIRCASSE.
 
 
@@ -1854,7 +1854,7 @@ De quelque grand dessein, un infaillible augure,
 Mais nostre confident à grands pas vient à nous.  
 
 
-### SCENE III
+### SCENE III.
 ACMAT, CIRCASSE, OSMAN.
 
 
@@ -1915,7 +1915,7 @@ Allons mon cher Acmat, que ce bien-heureux jour,
 Me fasse posseder mon Prince et son amour.  
 
 
-### SCENE IV 
+### SCENE IV. 
 
     ROXELANE.
 STANCES [139].
@@ -1966,7 +1966,7 @@ Mais l'alarme est au cap [143], Rustan est hors d'haleine
 Et ma fille est en pleurs.  
 
 
-### SCENE V 
+### SCENE V. 
 ROXELANE, RUSTAN, CHAMERIE
 
 
@@ -2152,7 +2152,7 @@ Que pour executer les decrets de la rage.
 Consolez vous ce mal ne s'adresse qu'à moy.  
 
 
-### SCENE VI
+### SCENE VI.
 ROXELANE, RUSTAN, CHAMERIE, ORMIN, avec deux janissaires
 
 
@@ -2201,7 +2201,7 @@ La colere du Roy me fait craindre pour vous.
 Il luy faut obeyr, mesme dans son courrous.   
 
 
-## ACTE IV
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -2260,7 +2260,7 @@ Mais ne la jugeons pas sans ouyr sa deffence
 Ormin, Osman, quelqu'un à moy, que l'on s'avance.  
 
 
-### SCENE II
+### SCENE II.
 SOLIMAN, CIRCASSE, ORMIN, OSMAN.
 
 
@@ -2318,7 +2318,7 @@ Vous me verrez son juge, et non pas son amant.
 Mais voicy nostre ingrate.  
 
 
-### SCENE III
+### SCENE III.
 SOLIMAN, ROXELANE, CIRCASSE, ORMIN, OSMAN
 
 
@@ -2439,7 +2439,7 @@ Qu'à ces conditions j'embrasse vos genoux,
 Adieu, Circasse, adieu, Soldats retirez-vous.  
 
 
-### SCENE IV
+### SCENE IV.
 SOLIMAN, ROXELANE.
 
 
@@ -2584,7 +2584,7 @@ Deniera son secours à ta misere extréme
 Quelqu'un à moy.  
 
 
-### SCENE V
+### SCENE V.
 SOLIMAN, ROXELANE, ORMIN, OSMAN, etc.
 
 
@@ -2629,10 +2629,10 @@ Possible elle a raison, j'en veux estre éclaircy,
 Assemblez le Conseil pour une heure d'icy.   
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CIRCASSE, ACMAT
 
 
@@ -2721,7 +2721,7 @@ Ha Mustafa mon fils : mais voicy l'Empereur,
 Que cette fuite Acmat redouble ma terreur.  
 
 
-### SCENE II
+### SCENE II.
 SOLIMAN, CIRCASSE, ACMAT, LE MUFTI, RUSTAN, ORMIN, OSMAN.
 
 
@@ -3011,7 +3011,7 @@ Que peut un Empereur qui n'a plus de franchise.
 Mais j'apperçois l'object de mes contentemens.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 SOLIMAN, ROXELANE, LE MUFTI, CIRCASSE, ACMAT, RUSTAN, ORMIN, OSMAN
 
 
@@ -3075,7 +3075,7 @@ En tres-humble sujette et non en souveraine.
 FIN
 
 
-# Lexique
+# Lexique.
 
 Les termes signalés dans le texte par une astérisque sont brièvement définis dans ce glossaire. Ne sont retenus que les termes dont le sens a évolué depuis le XVII*e* siècle ou dont une acception n'est plus employée de nos jours. Les définitions sont extraites des ouvrages suivants :Dictionnaire de l'Académie française
 Dictionnaire universel
@@ -3086,21 +3086,21 @@ AFFECTION.« Passion de l'ame qui nous fait vouloir du bien à quelqu'un, ou no
           SCANDALISER (n.p.)« Prendre du scandale, s'offenser. » (A.)V. 1486, 1570SOIN*Soin*, signifie aussi, Sollicitude, peine d'esprit, soucy. (A.) V. 435, 447, 623, 624, 636, 1359, 1582, 1585SOUFFRIR.Se dit aussi des choses qui peinent, qui incommodent, qui fatiguent (F.)V. 845, 888, 1166, 1223, 1296, 1392SUPERBEApparaît dans son sens actuel de magnificience, de somptuositéV. 390Forme adjectivale qui a pour sens « Orguëilleux, arrogant, qui s'estime trop, qui presume trop de luy. » (A.)V. 1271TRAVERSERLe verbe est employé dans son sens figuré. « Faire obstacle, opposition, apporter de l'empeschement. » (F.)V. 371TRAVERSE« Obstacle, empeschement, affliction, opposition. » (A.)
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Édition de la pièceRoxelane
-
-
-
-### œuvres de l'antiquitéPoétique
+### Édition de la pièce.Roxelane
 
 
 
-### Ouvrages des XVIe-XVIIIe sièclesLa Pratique du Théâtre
+### œuvres de l'antiquité.Poétique
+
+
+
+### Ouvrages des XVIe-XVIIIe siècles.La Pratique du Théâtre
 Inventaire de l'histoire generale des Turcs. Contenant leurs guerres, conquestes, seditions, & autres affaires remarquables, tant contre les Chrestiens, Grecs... que contre les infidelles Tartares, Perses... Tiré de Chalcondyle athenien... jusques en l'année mil six cens dix-sept…Et nouvellement reveu, continué & augmenté... jusques à la presente mil six cens vingt-huict. Avec la mort & genereuses actions de plusieurs seigneurs...
 Histoire generale du serrail et de la cour du Grand Seigneur empereur des Turcs. Ensemble l'Histoire de la cour du roy de la Chine
 Il Solimano
@@ -3124,13 +3124,13 @@ Solyman II, quatorziesme empereur des Turcs
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages sur la langue et la rhétorique dramatiques
+### Ouvrages sur la langue et la rhétorique dramatiques.
 
 
-#### Dictionnaires et ouvrages des XVIe et XVIIe sièclesDictionnaire de l'Académie Française
+#### Dictionnaires et ouvrages des XVIe et XVIIe siècles.Dictionnaire de l'Académie Française
 Dictionnaire Françoislatin, contenant les motz et manieres de parler Francois, tournez en Latin
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Le Grand dictionnaire historique ou mythologique ou le mélange curieux de l'histoire sacrée et profane...
@@ -3139,12 +3139,12 @@ Remarques sur la Langue Françoise
 
 
 
-#### Dictionnaires modernesDictionnaire encyclopédique du théâtre
+#### Dictionnaires modernes.Dictionnaire encyclopédique du théâtre
 Dictionnaire des lettres françaises, le XVIIsiècle
 
 
 
-#### Ouvrages modernesSyntaxe française du XVIIème siècle
+#### Ouvrages modernes.Syntaxe française du XVIIème siècle
 Introduction à l'analyse des textes classiques
 Le Langage dramatique
 Lire le théâtre I
@@ -3153,11 +3153,11 @@ Lire le théâtre III : Le dialogue de théâtre
 
 
 
-### Ouvrages bibliographiquesBibliographie de la littérature française du 17ème siècle
+### Ouvrages bibliographiques.Bibliographie de la littérature française du 17ème siècle
 
 
 
-### RecensionsL'ère baroque en France Répertoire chronologique des éditions de textes littéraires
+### Recensions.L'ère baroque en France Répertoire chronologique des éditions de textes littéraires
 Écrivains de théâtre, 1600-1649
 History of French Dramatic Literature in the Seventeenth Century
 Dictionnaire portatif des Théâtres
@@ -3168,10 +3168,10 @@ Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1
 
 
 
-## Études
+## Études.
 
 
-### Études sur la littérature, l'histoire et l'esthétique du XVIIe siècleHistoire de la littérature française du XVIIsiècle
+### Études sur la littérature, l'histoire et l'esthétique du XVIIe siècle.Histoire de la littérature française du XVIIsiècle
 Morales du grand siècle
 Le Masque et le visage. Du baroque espagnol au classicisme français
 The Turk in French History, Thought and Literature (1520-1660)
@@ -3184,10 +3184,10 @@ Histoire de la littérature française – Le Classicisme
 
 
 
-### Études sur le théâtre du XVIIe siècle
+### Études sur le théâtre du XVIIe siècle.
 
 
-#### OuvragesLe Théâtre de l'Hôtel de Bourgogne 1548-1680
+#### Ouvrages.Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 Le Théâtre de l'Hôtel du Marais
 Essai de génétique théâtrale : Corneille à l'œuvre
 Esthétique de l'identité dans le théâtre français (1580-1680) : le déguisement et ses avatars
@@ -3196,7 +3196,7 @@ La Dramaturgie classique en France
 
 
 
-#### ArticlesFortune and fatality : performing the tragic in early modern France
+#### Articles.Fortune and fatality : performing the tragic in early modern France
 "Turcs et Turquesques" nell'« Ibrahim » di Georges de ScudéryLo Straniero
 Le mythe Turc et son declin dans les relations de voyage des Europeens de la Renaissance
 Complots et conjurations dans l'Europe moderne
@@ -3205,7 +3205,7 @@ Littératures classiques
 
 
 
-#### Études sur le genre tragi-comiqueLa Tragi-comédie de Corneille à Quinault
+#### Études sur le genre tragi-comique.La Tragi-comédie de Corneille à Quinault
 La Tragi-comédie
 La Tragédie classique en France
 

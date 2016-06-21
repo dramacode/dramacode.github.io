@@ -16,12 +16,12 @@ A PARIS, Chez GABRIEL QUINET, au Palais, dans la Gallerie des Prisonniers, à l'
 Édition critique établie par Aloys Clarke de Dromantin sous la direction de Georges Forestier (2006-2007)
 
 
-# Introduction
+# Introduction.
 
 En 1659, un jeune comédien-poète arrivé depuis peu à Paris donnait au théâtre une simple petite comédie en un acte intitulée *Les Précieuses ridicules*, et s'attirait, grâce à cette pièce, les louanges du public parisien. Un autre dramaturge était alors au sommet de sa gloire ; Thomas Corneille, qui n'est guère plus qu'un nom pour nous, venait de faire représenter quatre ans plus tôt la tragédie de *Timocrate* qui fut, avec ses quatre-vingt représentations consécutives, le plus grand succès dramatique du XVII*e* siècle. Le petit frère de l'auteur du *Cid* était donc aussi connu que Pierre et même bien plus à la mode que celui-ci à la fin des années 1650. Face au succès de Molière, les deux frères, qui étaient très proches, déclarèrent que la troupe du farceur n'excellait que dans la « bagatelle » [1]. Le jugement était sévère, c'était aller contre l'avis du public galant. Les années suivantes furent marquées par ce même affrontement avec Molière : Thomas Corneille fut un adversaire zélé de *L'École des femmes* et continua de mépriser celui qui était désormais installé avec sa troupe au Palais-Royal et dont le succès allait grandissant. Dans le même temps, on n'avait pas vu « Corneille le Jeune » donner de comédie depuis précisément cette année 1659, alors qu'au cours des dix années qui avaient précédé, il en avait donné neuf. Étonnant retrait de la part d'un auteur qui avait su égaler et même dépasser Scarron avec son *Geôlier de soy-mesme* en 1655. Étonnant retrait aussi de la part d'un « bourguignon », lorsqu'en ces années 1660, l'Hôtel de Bourgogne, qui excellait dans la tragédie, avait justement besoin de succès comiques pour rivaliser avec Molière. Les petites farces de Poisson et les pièces de Montfleury ne suffisaient pas, et les Grands Comédiens étaient en train de voir leur public filer vers le Palais-Royal. Thomas Corneille avait-il peur d'affronter Molière sur le terrain de la comédie ? Lui qui avait montré qu'il savait se renouveler et s'adapter aux exigences du public, lui qui avait excellé dans la veine burlesque, était-il en panne d'inspiration comique ? Le fait est qu'en 1660, comme l'écrit La Fontaine, « Jodelet n'est plus à la mode » [2]. Or c'est précisément dans les pièces « à Jodelet », c'est-à-dire dans les pièces burlesques, que Thomas Corneille avait obtenu ses plus grands succès. C'est en 1667 qu'il sortit de son silence comique. *Le Baron d'Albikrac* venait à point, Molière connaissait quelques difficultés après le demi-échec du *Misanthrope* et la seconde interdiction du *Tartuffe*. Sans renoncer à ses caractéristiques propres, inspiration espagnole et valet bouffon au langage fantaisiste, le Normand innova quelque peu par rapport à ses anciennes comédies. Thomas Corneille, en effet, multiplie les sources de comique : il s'intéresse autant aux ruses du galant pour parvenir à ses fins qu'au caractère du personnage qui contrarie les amours des jeunes gens, sans oublier de mettre au centre de l'intrigue un personnage bouffon qui donne son nom à la pièce. Nous rions du personnage de la Tante, nous rions aussi des ruses d'Oronte, de Léandre et d'Angélique, et nous rions enfin de la fourbe et des fantaisies du valet la Montagne. La formule sembla fonctionner : sans toutefois déstabiliser aucunement Molière, Thomas Corneille séduisit le public et fit même rire Madame [3] qui, sans s'en douter, vivait les derniers mois de sa courte existence. Il n'y avait plus qu'à recommencer : trois ans plus tard, en 1670, il donnait une pièce très similaire au *Baron, La Comtesse d'Orgueil*. Sur un modèle espagnol il ajoutait un valet déguisé en comtesse de Bretagne qui devait permettre au héros de se débarrasser de son rival. Mais cette fois le succès ne fut pas au rendez-vous.
 
 
-# Vie de Thomas Corneille
+# Vie de Thomas Corneille.
 
 Thomas Corneille naquit à Rouen en 1625 dans une famille de la moyenne bourgeoisie. Son frère Pierre le précédait de dix-neuf ans et leur père mourut quand Thomas n'avait encore que quatorze ans. C'est alors Pierre qui fut son tuteur et qui remplaça la figure paternelle. Thomas suivit donc les traces de son frère au collège jésuite de Rouen et devint avocat en 1649. Il marcha sur les pas de Pierre jusqu'à épouser, un an plus tard, la sœur de sa femme, Marguerite de Lampérière, avec laquelle il eut au moins trois enfants. Sans doute pour se distinguer d'un frère déjà au sommet de sa gloire, Thomas se fit appeler « Corneille de l'Isle », et si ses prétentions nobiliaires étaient légitimes depuis l'anoblissement de son père en 1637 (au lendemain du *Cid*) elles lui valurent toute de même une moquerie de la part de Molière quelques années plus tard au début de *L'École des femmes* [4].
 
@@ -38,27 +38,27 @@ Il semble que ce soit après sa mort que Thomas Corneille commença à souffrir 
 On trouvera à la fin de ce volume la liste des œuvres de Thomas Corneille.
 
 
-# Conditions de représentation
+# Conditions de représentation.
 
 
-## La date de la première représentation : petite question d'histoire littéraire
+## La date de la première représentation : petite question d'histoire littéraire.
 
 *Le Baron d'Albikrac* a été créé sur la scène de l'Hôtel de Bourgogne. Malheureusement, nous ne connaissons pas la date exacte de la première représentation. Cependant, le privilège du roi (c'est-à-dire l'autorisation royale de publier le texte) datant du 21 février 1668, nous pouvons faire l'hypothèse que la pièce fut créée vers la fin de 1667, sans doute à l'automne puisque la troupe fut occupée à la représentation d'*Andromaque* de Racine à compter du 17 novembre. Le plus souvent, une pièce était jouée avant que soit demandé un privilège pour son impression. C'est cette date de 1667 que proposa, dans les années 1930, le spécialiste du théâtre du XVII*e* siècle, Henry Carrington Lancaster. Il venait ainsi corriger la date traditionnellement retenue de 1668. Les anciens commentateurs, des Frères Parfaict [7] à Gustave Reynier [8], s'appuyaient sur une mention d'une représentation du *Baron d'Albikrac* chez Madame dans une lettre de la gazette de Robinet datant du 29 décembre 1668 [9]. Mais rien n'indique que cette représentation fut la première et même tout laisse penser le contraire. En effet, Robinet qui n'était pas ce soir-là chez Henriette d'Angleterre commente la pièce qu'il avait donc vraisemblablement déjà vue jouer auparavant.
 
 Voilà l'essentiel de ce qu'il est possible de déduire des informations dont nous disposons. Toutefois le problème a donné lieu à des discussions contradictoires intéressantes de la part des spécialistes. Étendons-nous un instant sur cette petite question d'histoire littéraire. Tout d'abord, comme le note A.-L. Chamoux dans un article paru en 1966 dans la *Revue d'histoire littéraire de la France* [10], Lancaster commet une erreur : il confond la date de l'achevé d'imprimer avec celle de l'enregistrement du privilège par la communauté des libraires qui eut lieu le 5 mars 1668, date elle-même suspecte si l'on en croit Christopher Gossip qui a épluché le registre en question. Cette date précoce servait, dans l'argumentation de Lancaster, à renforcer son hypothèse d'une première représentation en 1667. L'achevé d'imprimer date en fait du 8 février 1669 et n'indique donc rien sur la date de la première. Par ailleurs Lancaster ajoutait l'argument suivant : la pièce daterait bien de 1667 car Thomas Corneille avait l'habitude de donner une pièce par an ; or si *le Baron* avait été joué en 1668 il n'aurait pas eu de pièce de théâtre à son actif en 1667. Cet argument est difficilement recevable pour deux raisons : premièrement, la chronologie des pièces de Thomas Corneille établie par Christopher Gossip [11] montre qu'il n'était pas aussi régulier dans sa production théâtrale qu'on avait pu le penser ; deuxièmement, il n'est pas établi qu'un auteur se sentait tenu de donner nécessairement une pièce par an aux comédiens. Chamoux, en contredisant Lancaster, voulait démontrer que *Le Baron* avait pu être représenté après *Laodice*, tragédie pour laquelle Thomas Corneille obtint un privilège le même jour que pour *Le Baron* mais qui fut imprimée dans la foulée, le 8 mars 1668, à la différence du *Baron*, qui, si l'on en croit la date de l'achevé, fut imprimé un an après l'obtention du privilège. Chamoux en déduisait que la pièce aurait donc bien pu être représentée à la fin de 1668 comme il avait été admis avant Lancaster. Mais elle semble par là ignorer que seul le privilège peut renseigner sur la date de la première représentation dans la mesure où l'on sait que, généralement, la représentation précédait l'autorisation accordée à l'imprimeur. C'est ce que relève Christopher Gossip dans une note parue en 1968 dans la revue italienne *Studii Francesi* [12]. Ce dernier va plus loin en démontrant qu'il n'était pas impossible, pour un même auteur, de mettre en scène plus d'une seule pièce par an. *Le Baron* aurait donc bien pu être joué en 1667, avant *Laodice*, et *Laodice* être imprimée avant *le Baron*. Gossip va jusqu'à émettre l'hypothèse d'une erreur dans la date de l'achevé et suggère que le « 1669 » de l'imprimeur signifie en fait 1668. La pièce aurait alors été achevée d'être imprimée avant qu'un privilège ne soit accordé ce qui effectivement se produisait de temps en temps. La question de la date de la première représentation reste donc ouverte et uniquement basée sur des hypothèses.
 
 
-## L'hôtel de Bourgogne en 1667
+## L'hôtel de Bourgogne en 1667.
 
 En 1667, l'Hôtel de Bourgogne, situé rue Mauconseil, demeurait la principale scène parisienne. C'était la compagnie la plus prestigieuse, appréciée surtout pour ses tragédies, la comédie étant devenue la spécialité du théâtre du Palais-Royal, c'est-à-dire de la troupe de Molière. Quant au théâtre du Marais, en mauvaise posture au début des années 1660 [13], il tire alors sa réputation des pièces à machines. Cette spécialisation croissante des différents théâtres dans les années 1660 n'empêche pas les comédiens de l'Hôtel de continuer à donner des comédies afin de concurrencer les succès de Molière au Palais-Royal. En particulier l'Hôtel multiplia la représentation de petites comédies en un acte fournies par Villiers, Montfleury, Boursault ou Poisson et qui devinrent très à la mode dans ces années 1660. Les « comédiens du roi », comme ils se faisaient appeler, étaient au nombre de douze sous la direction de Floridor. Nous connaissons deux des acteurs du *Baron d'Albikrac* : Villiers jouait Philipin et Poisson La Montagne. Ces deux comédiens étaient très célèbres à l'époque. Villiers d'abord, de son vrai nom Claude Deschamps, entré dans la troupe en 1642 après quelques années au Marais, s'était depuis longtemps spécialisé dans le rôle de Philipin (ou Filipin) créé pour concurrencer Jodelet qui, dans les années 1640 et 1650 régnait sur le Marais. En 1667, lorsqu'il joue le valet d'Oronte dans *Le Baron d'Albikrac*, Villiers approche de la fin de sa carrière puisqu'il prend sa retraite trois ans plus tard en 1670. C'est peut être la raison pour laquelle il n'a qu'un rôle secondaire dans *Le Baron*. Car dans le même temps un autre acteur s'était fait remarquer depuis plusieurs années dans les rôles de valets fourbes. Il s'agit de Raymond Poisson (1630-1690), alors étoile montante de la comédie. Arrivé à Paris en 1660 et entré à l'Hôtel de Bourgogne la même année, il s'illustra d'abord dans les petites comédies qui suivaient en général la représentation d'une tragédie. Il écrit aussi de ces comédies en un acte : par exemple *Le Baron de la Crasse* en 1662, où l'on se moque d'un noble de province. On remarque la proximité sonore entre le titre de cette pièce et *Le Baron d'Albikrac*, qui peut laisser penser que Thomas Corneille se serait souvenu de la pièce de Poisson pour trouver un nom à son baron. Enfin, Poisson est surtout celui qui incarna le rôle de Crispin dans ses propres comédies, dans celles de Montfleury mais surtout dans celles de Hauteroche au début des années 1670. On retiendra que ce personnage type de valet fourbe avait une réputation de laideur. Les autres acteurs du *Baron* nous sont inconnus. Toutefois quelques suppositions sont possibles : Floridor avait l'habitude de jouer les rôles de jeune premier et Montfleury, si la pièce fut effectivement jouée en 1667, n'était pas encore mort. Hauteroche faisait aussi parti de la troupe et une des deux actrices vedettes de l'Hôtel, la des Œillets et la d'Ennebaut, jouait sans doute le rôle d'Angélique. Par ailleurs il est fort probable que la Tante, selon l'usage de l'époque, ait été jouée par un homme.
 
 
-## Un beau succès
+## Un beau succès.
 
 *Le Baron d'Albikrac* connut un succès durable, comme en témoignent les nombreuses reprises de la pièce, les commentaires de Robinet ou plus tard ceux des frères Parfaict. Pour autant, au moment de sa création, le *Baron* fut-il vraiment un « énorme succès » comme l'affirme Gustave Reynier [14] ? Un élément permet d'en douter : il s'agit d'une phrase de la dédicace de la pièce à une certaine Madame M.B.E.C.S. Si Thomas Corneille y assure être « satisfait du succès » de sa comédie, il ajoute ceci : « Quand le public se serait entierement déclaré pour elle, son suffrage n'auroit point suffit à mon ambition, et la gloire de vous avoir plu est quelque chose de si considérable pour moi, qu'elle me console aisément de la sévérité de la censure ». Nous pouvons déduire de cette phrase que le public ne fit pas un accueil particulièrement chaleureux au *Baron* lors de sa création même s'il semble avoir été bien reçu à la cour et dans les cercles privés auxquels appartenait la dédicataire. En effet, en plus de la représentation chez Madame, Robinet rend compte d'une autre représentation, cette fois-ci à Saint-Germain-en-Laye, au mois d'août de la même année [15]. Or nous savons que ces divertissements royaux étaient particulièrement fastueux et qu'ils constituaient donc un honneur pour l'auteur de la pièce. Ensuite *Le Baron d'Albikrac* semble avoir quitté l'affiche en 1670. Il n'a été repris qu'en 1682 par la toute récente Comédie-Française issue de la fusion entre la troupe de Molière et celle du théâtre Guénégaud [16]. Lundi 5 janvier 1682, premier soir de la reprise, nous savons, grâce au registre de Lagrange, que la recette atteignit 1329 livres, ce qui est tout à fait honorable. Ce fut d'ailleurs la meilleure recette du mois derrière *Le Misanthrope* de Molière. La pièce fut jouée dix-sept fois cette année-là dont une fois à Saint-Germain et une fois à Saint-Cloud ; elle a ensuite été jouée huit fois avant la fin de 1685, ce qui prouve que le public ne s'en lassait pas. Cinquante ans plus tard, les frères Parfaict affirmaient : « Cette Comédie eut un succès si marqué lorsqu'elle parut au Théatre, et ce succès s'est si bien soutenu depuis, qu'il est peu de personnes qui ne connoissent cette Pièce, soit par la lecture, soit par la représentation [17] ». Et en effet la Comédie-Française continua de jouer *Le Baron d'Albikrac* tout au long du XVIII*e* siècle, en tout cent soixante huit fois, et la pièce fut rééditée à maintes reprises [18]. Son succès dépassa même les frontières nationales : *Le Baron* fut représenté au Théâtre de la Monnaie à Bruxelles en 1753 et on en trouve une édition réduite à trois actes pour la cour de Vienne datant de 1764 [19]. Puis peu à peu la pièce disparut du paysage théâtral. Si l'on en croit Reynier elle fut encore représentée en juin 1823 au théâtre de l'Odéon, encore une fois réduite à trois actes. Pour le XX*e* siècle notons que le deuxième acte du *Baron* fut représenté les 4 et 11 mars 1915 à la Comédie-Française, à l'occasion de soirées spéciales, et fut encore monté au festival de Barentin dans les années 1960 grâce au Cercle Pierre et Thomas Corneille. *Le Baron d'Albikrac* fut donc une des pièces de « Corneille le Jeune » qui résista le mieux au temps.
 
 
-## Réception critique
+## Réception critique.
 
 La critique contemporaine de la création de la pièce se réduit à Robinet qui, dans sa gazette en vers rapporte les nouvelles mondaines et mentionne à deux reprises *le Baron*. Nous avons déjà dit qu'il annonçait une représentation chez Madame le 29 décembre 1668, ajoutons qu'il le fait en termes élogieux. Robinet insiste sur le comique de la pièce qui provoque un rire franc et sur la qualité du jeu de Raymond Poisson en valet La Montagne. Quelques jours plus tard, Robinet revient sur la représentation en introduisant une nuance à son éloge : il juge le « poëme (…) bon malgré tout mic-mac ». La pièce selon Robinet est donc comique mais un peu trop compliquée. Le *Mercure Galant* fait aussi mention du *Baron* lorsqu'il est repris douze ans après sa création par la troupe de la Comédie-Française. La référence est brève et le gazetier — Thomas Corneille lui-même ? — se contente de préciser que la pièce « a fort diverty de nombreuses assemblées ».
 
@@ -82,75 +82,75 @@ On retrouve dans ce jugement deux lieux communs de la critique dix-neuviémiste 
 Enfin notons la critique plus élogieuse que propose Victor Fournel [21], spécialiste du théâtre du XVII*e* siècle et contemporain de Gustave Reynier: il voit dans la pièce de Thomas Corneille un « nouvel effort vers la comédie de caractère. La Tante, vieille au cœur inflammable, jalouse de sa nièce, coquette, minaudière, soupirant au seul nom de l'amour, et croyant tout le monde épris de ses appas, est tracée avec verve. La pièce est vraiment plaisante, bien imaginée, bien conduite, bien versifiée et elle resta longtemps au répertoire. »
 
 
-# Synopsis du Baron d'Albikrac
+# Synopsis du Baron d'Albikrac.
 
 L'intrigue de la pièce est à la fois simple et complexe. Simple dans la mesure où le schéma de base est celui de presque toutes les comédies : il s'agit d'un amour empêché entre deux jeunes gens. Oronte, arrivé d'Angleterre avec son ami Léandre, est venu chercher un appui auprès d'une veuve pour quelque procès dans lequel il est impliqué. La vieille garde sévèrement chez elle une jeune nièce nommée Angélique dont le jeune homme est tombé amoureux. Mais la Tante, vieille coquette en quête d'amour, n'acceptera pas que sa nièce se marie tant qu'elle même ne se sera pas remariée. À la suite d'une péripétie elle s'entiche d'Oronte et il faut alors faire intervenir le valet la Montagne déguisé en noble de province disposé au mariage pour la détourner de l'amant de sa nièce. L'intrigue est donc simple mais elle donne lieu à des développements et péripéties complexes, c'est pourquoi nous proposons ici un synopsis détaillé de la pièce.
 
 
-## Acte I
+## Acte I.
 
 Philipin est venu porter un billet à Angélique : son maître Oronte demande à la jeune fille un entretien secret. (1) Conversation entre Philipin et Lysette qui fait un portrait de la Tante. Nous apprenons que la veuve est obsédée par l'idée de se remarier, qu'elle s'imagine être jeune et belle, et qu'elle garde cachée sa nièce qui risquerait de lui faire de la concurrence. Un noble de province ruiné, ami d'Oronte (le baron d'Albikrac), et qui ne cherche qu'à se marier richement, doit venir faire sa cour à la vieille et ainsi permettre à Oronte de courtiser la nièce sans être dérangé par la Tante. Cependant il tarde à arriver. Enfin, déclaration d'amour de Philipin à Lysette. (3) La Tante entre, et Philipin lui annonce l'arrivée d'Oronte et de Léandre. En attendant, Lysette fait l'éloge du veuvage, essaie de convaincre la Tante de ne pas prétendre à un mari jeune, vante les qualités du Baron d'Albikrac, et désamorce les soupçons de la vieille sur la relation entre Oronte et Angélique. (5) Arrivent Oronte et Léandre : Léandre occupe la tante avec une conversation galante pendant qu'Oronte fait la cour à Angélique. La Tante cherche à faire avouer à Léandre qu'il la courtise et lui avoue qu'elle penche pour lui. (7) Le laquais Cascaret annonce une marquise, la Tante sort. Léandre déclare à son ami Oronte qu'il ne veut plus jouer le rôle d'amuseur et propose de combler le retard du baron en faisant passer son valet pour ce dernier. (9) Arrive le valet la Montagne à qui on annonce le rôle qu'il va devoir jouer.
 
 
-## Acte II
+## Acte II.
 
 Angélique exprime ses scrupules pour avoir accepté un entretien avec Oronte, Lysette la rassure. (1) Oronte arrive et déclare sa flamme à Angélique. (2) Au moment où la jeune fille cède, les deux amants sont surpris par la Tante. Pour se défendre, Angélique prétend qu'Oronte languit d'amour non pas pour elle-même mais pour la Tante et qu'il venait lui demander de parler en sa faveur auprès d'elle. (3) La tante congédie sa nièce et, seule avec Oronte, veut en savoir plus. Oronte, qui ne peut démentir les propos d'Angélique, tente d'expliquer auprès de la fausse prude qu'il se repent de l'aimer et qu'il renonce à ses prétentions. Mais la Tante lui fait comprendre qu'elle n'y est pas hostile. (4 et 6) Angélique, quant à elle, essaye par tous les moyens de venir perturber la conversation pour tirer Oronte d'affaire. (5 et 7) Puis Lysette annonce le baron. La valet la Montagne déguisé arrive enfin, fait semblant de confondre la Tante et la nièce, se répand en compliments grotesques, affirme qu'il est pressé de se marier mais qu'il veut d'abord visiter la maison. (9)
 
 
-## Acte III
+## Acte III.
 
 Léandre, à qui l'on a appris que les amants ont été surpris et qui a été mis au courant de la ruse d'Angélique, raconte à Lysette la visite de la maison avec la Montagne déguisé. La servante, quant à elle, annonce à Léandre que la Tante est tombée amoureuse de lui. (1) Arrivent Oronte et Angélique. Oronte décrit avec amusement l'attitude de la Montagne devant Angélique qui n'est pas au courant du stratagème. La conversation entre les amants reprend, et Oronte demande à la jeune fille une preuve d'amour. Elle lui accorde sa main. (2) À ce moment, la Tante arrive et Oronte fait semblant d'être en train de lire l'avenir dans la main d'Angélique. Léandre devant la Tante fait l'éloge du faux baron. (3) Restée seule avec Oronte, la veuve lui annonce qu'elle consent à l'épouser le soir même et qu'elle veut donner sa nièce au baron. Pour cela elle demande à Oronte de convaincre Angélique. Celui-ci essaie alors de trouver une excuse. Il commence par prétendre que Léandre aime aussi la Tante éperdument et que ce serait donc trahir son ami que d'épouser la Tante. (4) Le faux Baron arrive, se plaint d'avoir été abandonné et fait mine d'être jaloux d'Oronte. (5) Tous vont au jardin et laissent Léandre seul avec la Tante. Celle-ci veut lui faire avouer son amour pour elle. Mais Léandre nie en bloc et trouve une ruse : Oronte lui a fait croire cela parce qu'une raison plus importante l'empêche de l'épouser : il est son neveu, fils de son frère et d'une certaine comtesse d'Uspek. (6)
 
 
-## Acte IV
+## Acte IV.
 
 La Tante revient du jardin pour faire parler Oronte sur ce qu'elle vient d'apprendre de Léandre ; Oronte ne sachant pas ce que Léandre a dit est embarrassé, et dès qu'il comprend, il soutient le stratagème et explique à la Tante que s'il ne lui a pas avouer dès le début qu'il était son neveu, c'est que son père ne voulait pas que cela se sache. La Tante considère alors qu'elle peut légitimement embrasser Oronte. (2) Arrive Angélique qui les surprend, feint d'être choquée et en profite à son tour pour embrasser son « cousin ». (3) Mais rapidement la tante annonce à Oronte que son frère n'est pas son vrai frère, que le mariage est donc possible et que le notaire peut venir le soir même ; Oronte, sans donner d'explication, lui affirme que cela est impossible pour une raison secrète. (4) La Tante exprime alors ses doutes sur la réalité de l'amour d'Oronte pour elle ; le jeune homme lui explique qu'il brûle pour elle mais que sa vie est en jeu dans l'affaire qu'il lui cache et qui est censée empêcher son mariage avec elle. Il presse alors Philipin de l'aider en inventant une histoire et se retire. (5) Philipin est pressé par la Tante d'expliquer l'attitude de son maître. Le valet invente qu'Oronte, sous le nom de La Rapière, se serait battu avec un ennemi en Bretagne, l'aurait tué, se serait réfugié dans un château d'un certain baron d'Albikrac pour échapper à la police. Ce baron étant alors en voyage, Oronte aurait été recueilli par la sœur du baron ; après l'avoir séduite puis surprise avec un autre amant il se serait enfuit en Angleterre. À son retour le baron l'aurait fait condamner à mort par contumace et depuis le ferait rechercher. (6) Arrive la Montagne ; la Tante, inquiète pour Oronte, veut faire abandonner au faux baron d'Albikrac son projet de tuer la Rapière. Or la Montagne n'est pas au courant de l'invention de Philipin. Heureusement celui-ci réussit à lui expliquer en deux mots l'affaire. Le faux baron saisit alors l'occasion pour proposer un marché à la Tante : il accepte de laisser la vie à la Rapière à condition que la veuve ne tarde plus à signer le contrat de mariage. La tante lui propose sa nièce. Il refuse, et l'on assiste alors à un échange d'insultes entre les deux personnages. (7) Lysette restée seule avec la Tante lui prédit que si elle continue, elle va perdre les deux. La Tante veut en parler avec Oronte. (8)
 
 
-## Acte V
+## Acte V.
 
 Angélique, qui maintenant est au courant du déguisement, annonce à Oronte que la Tante est décidée à épouser le baron pour le sauver. Oronte explique à Angélique que le vrai baron doit arriver et qu'il a reçu de lui une procuration pour signer le mariage à sa place. On apprend ensuite qu'une partie du récit de Philipin était vraie : Oronte s'est vraiment réfugié chez Albikrac après un règlement de compte et a fui à Londres sur son conseil. (1) Arrive la Tante, Oronte feint d'être au désespoir d'avoir appris qu'elle avait dessein d'épouser le baron. La tante lui reproche sa bêtise avec la sœur du baron, il raconte alors lui-même son aventure. La veuve lui propose comme moindre mal d'épouser sa nièce, Oronte n'accepte pas tout de suite pour ne pas être suspecté d'être heureux. (4) La Montagne arrive, qui vient presser la décision en brandissant la menace de faire pendre la Rapière si les choses ne sont pas réglées au plus vite car il doit partir pour un voyage. (5) Le valet déguisé annonce alors à Angélique qu'elle va se marier. Celle-ci feint de croire que c'est avec le baron et s'en montre ravie. Le faux baron rectifie la vérité et Angélique fait mine d'opposer une résistance puis accepte de donner sa main à Oronte. La montagne présente une bague pour la Tante. (6) Le notaire est annoncé, Philipin demande à la Montagne d'épouser Lysette : l'affaire est conclue. (7)
 
 
-# La source espagnole et la construction de l'action
+# La source espagnole et la construction de l'action.
 
 
-## Introduction : l'imitation espagnole en France
+## Introduction : l'imitation espagnole en France.
 
 *Le Baron d'Albikrac* est tiré d'une comédie de l'auteur espagnol Agustín Moreto intitulée *De fuera vendrá…* (c'est le titre complet de l'édition originale), publiée pour la première fois en 1654, et elle-même sans doute inspirée de la *comedia* de Lope de Vega intitulée *¿ De cuándo acá nos vino* ? À partir du XVIII*e* siècle, *De fuera vendrá…* apparaît sous deux titres différents : *De fuera vendrá quien de casa nos echara* (*De Dehors viendra qui de la maison nous chassera*, allusion au fait que la nièce attend l'homme qui la libèrera du joug de sa tante) et *La tía y la sobrina* (*La tante et la nièce*). Il faut replacer cette imitation dans le contexte de la création théâtrale au XVII*e* siècle. La littérature espagnole était très bien diffusée en France depuis le début du siècle et le théâtre espagnol faisait l'objet de l'admiration des auteurs français. Ces derniers commencèrent alors à adapter des pièces de Lope de Vega ou de Calderón. La première vague d'imitations de *comedias* concerne surtout des tragi-comédies : par exemple, à partir de 1629, Rotrou donne huit tragi-comédies adaptées de pièces espagnoles. *Le Cid* de Pierre Corneille (1637) est aussi tiré d'une pièce espagnole de Guillén de Castro. Mais c'est dans la veine comique que la *Comedia* constitua une source d'inspiration plus importante pour les dramaturges français. Une véritable mode de l'imitation espagnole débuta lorsqu'en 1638 François le Métel d'Ouville adapta *La dama duende* de Calderón sous le titre de *L'Esprit follet*. Le succès de la pièce incita des poètes concurrents à reprendre le même sujet puis à adapter toutes sortes de comédies espagnoles. Boisrobert, le frère de d'Ouville s'inspira aussi de Calderón ou de Tirso de Molina. Pierre Corneille lui aussi donna une comédie adaptée de l'espagnol : il s'agit du *Menteur* représenté en 1644. Au début de sa carrière de dramaturge Thomas Corneille s'inscrit en plein dans cette grande vague d'imitation avec *Les Engagements du hasard*, sa première pièce représentée sans doute en 1648 et adaptée de la *comedia* de Calderón intitulée *Los empeños de un acaso*. Cavaliers aux grands sentiments, intrigues mouvementées, péripéties romanesques, ou autres déguisements et quiproquos, voilà les caractéristiques principales de ces comédies.
 
 Avec *Jodelet ou le maître valet* (1643) adapté d'une pièce de Rojas Zorilla, Scarron, quant à lui, créa un nouveau courant d'imitations à partir de *comedias de figurón*, c'est-à-dire de pièces qui mettent en scène un personnage ridicule. La nouveauté de Scarron consista à inverser les proportions entre l'intrigue romanesque et le comique de personnage. Les passages sentimentaux sont réduits et l'on s'attarde davantage sur les facéties du valet déguisé. Le valet bouffon, inspiré du *gracioso* espagnol, tient alors le rôle principal. Scarron s'illustra encore dans ce qu'on a appelé la « comédie burlesque » avec *L'Héritier ridicule* en 1650, adaptation d'une comédie de Castillo Solorzano, puis avec *Dom Japhet d'Arménie* un an plus tard. Nous avons vu que dès sa troisième pièce Thomas Corneille donna lui aussi une comédie burlesque avec *Dom Bertrand de Cigarral* en 1651 où le célèbre acteur Jodelet tenait le rôle principal comme dans *Le Geôlier de soy-mesme* quatre ans plus tard, autre comédie burlesque, adaptée cette fois de Calderón. La mode de la *comedia* se termina vers la fin des années 1650 mais les adaptations de pièces espagnoles n'avaient pas pour autant disparu et elles connurent même un certain regain de faveur au milieu des années 1660. Les comédiens italiens jouaient à partir de canevas tirés de pièces espagnoles. Montfleury, en 1668, donne *La femme juge et partie* adapté de *La dama presidente* de Fransisco de Leiva. C'est donc dans cette nouvelle petite vague d'imitations espagnoles que s'inscrit la représentation du *Baron d'Albikrac* en 1667 puis de *La comtesse d'Orgueil* en 1670 et enfin de *Dom César d'Avalos* en 1672.
 
 
-## Résumé de *De fuera vendrá…* (1654)
+## Résumé de *De fuera vendrá…* (1654).
 
 
-### Première journée
+### Première journée.
 
 Le capitan Lisardo, tout juste arrivé à Madrid après une campagne militaire en Flandre, et accompagné de son lieutenant Aguirre, n'a plus un sou en poche et envisage d'utiliser la lettre de recommandation que son supérieur lui a donnée à l'attention de sa sœur, une très riche veuve nommée Doña Cecilia Maldonado. Parallèlement le capitan apprend de son lieutenant qu'une vieille tante garde chez elle une jolie jeune fille déjà convoitée par trois personnages, que cette tante est folle, s'imaginant être une Vénus et désirant farouchement se remarier avant que sa nièce ne se marie. À ce moment apparaissent la tante et la nièce qui vont entrer dans une église. Le jeune homme tombe amoureux de la jeune fille malgré les précautions de sa tante et apprend peu après que cette vieille duègne est en fait la riche veuve, sœur de son supérieur. Il n'a plus qu'une idée en tête : s'introduire chez elle pour faire la cour à sa nièce. Son lieutenant lui suggère alors d'écrire une fausse lettre de recommandation où le frère demanderait à la vielle tante d'offrir l'hospitalité à Lisardo et à son ami, et d'imiter la signature du frère. Le stratagème fonctionne, et Lisardo s'empresse de se retrouver seul avec la jolie Doña Fransisca pour lui déclarer son amour.
 
 
-### Deuxième journée
+### Deuxième journée.
 
 Au début de la deuxième journée, Lisardo raconte à son lieutenant qu'il a été surpris par la tante seul avec Fransisca, en train de lui dire des douceurs. Pour se défendre il a dit à la tante qu'il venait en fait la demander elle-même en mariage mais en passant par sa nièce. Fransisca n'a pas compris que c'était une ruse et pense que Lisardo est intéressé par l'argent de la tante. Elle ne veut donc plus lui adresser la parole. Pendant ce temps la vieille a pris très au sérieux la demande en mariage feinte du jeune homme et s'est éprise de lui. Lisardo, au désespoir, demande alors à son ami de venir à son secours en prétendant que lui-même est fou amoureux de la tante. Le lieutenant refuse tout net. Arrive la nièce Fransisca : Lisardo lui explique alors que sa demande en mariage à la Tante n'était qu'une ruse. Fransisca le croit et lui donne sa main. Sur ce arrive la Tante qui les surprend de nouveau : Lisardo fait mine d'être en train de lire l'avenir dans la main de Fransisca. La Tante propose alors à Lisardo un mariage secret. Celui-ci, affolé, cherche de bonnes raisons qui rendraient impossible une telle union. Il invente qu'il serait en fait le neveu de la tante, le fils de son frère. Mais la vieille lui assure que cela n'est pas un problème pour elle. Alors Lisardo prétend que son ami Aguirre est amoureux d'elle et qu'il ne peut pas le trahir. Mais le lieutenant nie en bloc. Entre alors Fransisca qui se méprend de nouveau sur les intentions de Lisardo et qui, se retrouvant seule avec sa Tante, lui reproche de lui voler ses amants.
 
 
-### Troisième journée
+### Troisième journée.
 
 Le coup de théâtre de la dernière *jornada* est le retour du frère de la vieille tante. Le problème pour Lisardo est qu'il s'est fait passer précisément pour le fils de cet homme qui est son supérieur hiérarchique dans l'armée. Le frère dément fortement avoir un fils et encore plus avoir envoyé Lisardo chez sa sœur. Maldonado s'explique alors avec Lisardo. Il considère que celui-ci l'a déshonoré en s'introduisant chez sa sœur. Pour autant, il ne veut pas se battre et propose à Lisardo de réparer l'offense en épousant Doña Fransisca. La pièce se termine par le mariage de Lisardo avec Fransisca, de la Tante avec un des trois autres soupirants de la nièce et du gracioso Chichon avec la servante de la Tante.
 
 
-## La structure de l'action : l'imitation et ses limites
+## La structure de l'action : l'imitation et ses limites.
 
 Thomas Corneille prend chez Moreto le thème général de sa pièce (la vieille tante amoureuse et ridicule qui entre en concurrence avec sa nièce) et, pour la conduite de l'intrigue, il s'appuie principalement sur la deuxième *jornada* de *De fuera vendrá*. En revanche il se débarrasse d'un certain nombre d'éléments des première et troisième *jornadas* et surtout remanie les personnages : il en supprime plusieurs et change notablement l'attitude de ceux qu'il garde. *Le Baron d'Albikrac* reste une comédie d'intrigue en cela qu'il s'agit bien des stratagèmes d'un galant pour approcher sa belle. Toutefois les ajouts que fait Thomas Corneille, et en particulier le personnage du faux baron, la tire vers la comédie burlesque.
 
 
-### Différences dans l'exposition
+### Différences dans l'exposition.
 
 Le premier acte est consacré à l'exposition d'une intrigue assez chargée. À la différence de la pièce de Moreto, l'histoire a commencé avant le début de l'action proprement dite. Léandre et Oronte fréquentent la tante et la nièce depuis déjà quelques semaines ou peut-être quelques mois. Lysette, toute acquise aux amants, travaille depuis longtemps pour eux : « mes soins en si bon train ont déjà mis l'affaire » (I, 3). Léandre, quant à lui, en a assez de faire le galant avec la Tante ayant « déjà dix fois joué ce personnage ». D'ailleurs la vieille est déjà amoureuse de lui avant le début de la pièce : « On l'aime icy déja plus qu'on ne fait paroistre ». Enfin, marier le baron d'Albikrac (le vrai) à la Tante est un coup prévu depuis longtemps par Oronte, et la veuve, qui « par lettres aussi-tost de luy s'est informée », est déjà toute disposée à l'accueillir favorablement. Chez Moreto c'est toute la première Journée qui était consacrée à la mise en place des relations entre les personnages et aux stratagèmes du capitan pour s'introduire chez la tante. Faire commencer l'histoire avant le début de la pièce permet à Thomas Corneille non seulement de supprimer les scènes en extérieur et ainsi d'assurer l'unité de lieu, mais aussi et surtout de concentrer l'action du *Baron d'Albikrac* sur une seule journée, et de ne retenir de la première partie de la pièce espagnole que le thème général et l'obstacle à l'amour des jeunes gens : une vieille tante amoureuse qui garde sévèrement une jolie nièce dont elle est jalouse et qu'il est difficile d'approcher. Il allège l'intrigue en supprimant les trois rivaux du héros qui occupaient une bonne partie de l'action de la première journée dans *De fuera vendrá..*. Enfin il nous épargne les récits de victoires militaires du capitan. À la place, Thomas Corneille insiste davantage sur le personnage de la Tante : Lysette et Philipin en font un portrait complet (I, 2) et un peu plus loin nous la découvrons telle qu'ils nous l'avait décrite. Cette insistance sur la folie de la Tante a d'abord une fonction comique mais aussi une fonction dramaturgique : cela permet de justifier à l'avance, devant les spectateurs, tous les efforts qui seront déployés pour la tromper tout au long de la pièce. Autrement dit, la Tante nous est longuement présentée comme un monstre de sorte que nous ne nous étonnions pas qu'il faille cinq actes pour en venir à bout, c'est-à-dire pour que l'action de la pièce nous paraisse vraisemblable. Parallèlement l'auteur crée une attente autour du personnage du Baron, personnage qui n'a pas d'équivalent dans l'original espagnol. Il s'agit d'abord de l'attente du vrai baron qui est censé sauver les amants de la tyrannie de la Tante mais qui n'arrive pas et n'arrivera qu'après le dénouement. Lorsque Léandre propose, à la place, de travestir son valet, l'attente se reporte sur la Montagne déguisé en faux baron et qui n'interviendra qu'à la fin du deuxième acte.
 
 
-### Vers une plus grande unité d'action
+### Vers une plus grande unité d'action.
 
 L'action se noue lorsque les amants sont surpris par la Tante. Cette péripétie est directement tirée de la pièce espagnole mais elle est traitée et exploitée d'une manière différente. Dans *Le Baron d'Albikrac* on assiste à la scène alors que dans *De fuera vendrá* il fallait se contenter d'un récit du capitan. Il existe une autre différence de taille : chez Moreto, c'est Lisardo qui se met lui-même dans l'embarras en prétendant aimer la Tante et non la nièce. À l'inverse, dans *Le Baron*, c'est Angélique qui se tire elle-même d'affaire et laisse son amant se débrouiller. La jeune fille est rusée, comme en témoignent ces vers (II, 3) :
 
@@ -168,12 +168,12 @@ Angélique joue ici son rôle à la perfection, elle sauve sa peau et n'hésite 
 Avec la ruse d'Angélique, le problème pour Oronte s'est compliqué : désormais il s'agit de contenir les avances ardentes de la Tante, tout en tachant de conserver sa bienveillance dans la mesure où, pour épouser Angélique, il aura besoin de son consentement. Vexer la tante aurait pour conséquence désastreuse de ruiner ses espérances de mariage avec la nièce. L'entrée en scène fracassante du faux baron vient suspendre son supplice. (II, 9)
 
 
-### Le déguisement : fonction dramaturgique
+### Le déguisement : fonction dramaturgique.
 
 La création du personnage de faux baron par Thomas Corneille constitue l'originalité principale par rapport à la pièce d'Agustín Moreto, à tel point que c'est ce personnage qui donne son nom à la pièce. Corneille le Jeune n'est pas novice en matière de déguisements lorsqu'il écrit *Le Baron* : quasiment toutes ses comédies en contiennent un. Le type de déguisement, de valet en gentilhomme, est aussi le plus fréquent comme par exemple dans *Le Geôlier de soy-mesme*. Mais ici le déguisement est unique et isolé, il n'entraîne pas celui du maître en valet. Ceci a pour effet de concentrer un peu plus l'attention sur ce personnage grotesque. Enfin, comme dans la plupart des cas, la finalité du déguisement est la tromperie. Toutefois *Le Baron d'Albikrac* se distingue d'une comédie burlesque « classique ». le personnage du faux baron intervient somme toute assez peu avant le dénouement. Ainsi aux actes deux, trois et quatre il n'apparaît à chaque fois que dans une seule scène. Dans ces scènes, sa fonction n'est pas dramatique, mais dramaturgique : il ne s'agit pas de faire avancer l'histoire, mais d'être à l'origine de situations comiques. L'histoire n'avance pas en ceci que le stratagème imaginé par Léandre ne fonctionne pas : la Montagne déguisé en baron ne détourne aucunement la vieille tante de l'amant de sa nièce. Bien au contraire ses feux pour Oronte semblent avoir redoublé. Mais le faux baron n'est pas non plus un gracioso classique de la *comedia* espagnole puisqu'il est véritablement au cœur de l'action de la pièce. Ainsi le comique dont il est à l'origine n'est pas pur ornement, mais s'intègre à l'action principale qui consiste à tromper la Tante et à en tirer des situations burlesques. Lorsque le faux baron est sur scène, on en oublie presque l'histoire de l'amour contrarié d'Oronte et Angélique. Cette conception dramaturgique du déguisement était déjà celle de Scarron dans ses premières comédies burlesques.
 
 
-### Un enchaînement de situations comiques calquées sur la pièce espagnole
+### Un enchaînement de situations comiques calquées sur la pièce espagnole.
 
 S'il introduit un élément fondamentalement nouveau, Thomas Corneille n'abandonne pas pour autant ici la pièce de Moreto. La seconde péripétie, qui consiste une nouvelle fois en un flagrant délit des jeunes amants qui se tiennent la main, est directement tirée de la source. Cette partie de l'intrigue est calquée sur la deuxième journée de la pièce de Moreto. Il est ici intéressant de comparer les vers des deux pièces qui correspondent aux étapes successives de l'avancée de l'intrigue. C'est d'abord la ruse du jeune galant qui explique à la vieille tante que s'il tient dans sa main celle de la nièce c'est pour lire son avenir puisqu'il possède quelques bases de chiromancie. Lisardo prédit par exemple que Fransisca finira dans un couvent :
 
@@ -208,7 +208,7 @@ Yo soy hijo de tu hermano.
 Cela n'arrêtait pas la vieille dans ses intentions. Dans *Le Baron* la raison semble pourtant être la bonne cette fois-ci et l'acte III s'achève sur cette ruse de Léandre. Thomas Corneille n'a donc pas inventé cette succession d'excuses comiques d'Oronte. En revanche il développe bien plus que l'auteur espagnol. Ce qui ne représente que quelques vers dans *De fuera vendrá…* occupe plusieurs scènes dans *Le Baron*.
 
 
-### Originalité du dénouement
+### Originalité du dénouement.
 
 À la fin du troisième acte, Oronte semble une nouvelle fois tiré d'affaire. Mais le spectateur a pris l'habitude d'une construction par rebondissements successifs. Le coup de théâtre a lieu au vers 1264 quand la Tante révèle à Oronte que son frère n'est pas son vrai frère. Thomas Corneille, à partir de ce moment, s'éloigne de l'original espagnol. La troisième journée de la pièce de Moreto s'ouvrait sur un coup de théâtre que n'utilise pas Thomas Corneille : le retour du frère de la Tante qui amenait assez vite au dénouement. Au contraire, dans *Le Baron d'Albikrac* l'action repart avec l'histoire de la Rapière inventée par Philipin à la scène 6 de l'acte IV. Cette nouvelle ruse a un avantage dramatique évident, en joignant l'histoire d'Oronte à celle du faux baron. Si Philipin arrive à informer la Montagne de sa ruse, comme cela est fait à la scène suivante à l'occasion d'un jeu de scène amusant, alors l'histoire de Philipin, de toute invraisemblable qu'elle paraît, devient vraisemblable aux yeux de la Tante. La Montagne devient alors le meneur de jeu en ayant l'idée de proposer à la Tante un échange de bons procédés :
 
@@ -233,12 +233,12 @@ Le mariage de la Tante est donc une affaire réglée, et le problème qui était
 En conclusion, nous pouvons dire que Thomas Corneille s'inspire grandement de Moreto tout en élaborant une construction dramatique originale. *Le Baron d'Albikrac* n'est pas une simple comédie d'intrigue ni une pure comédie burlesque. Ces deux types de comédies ne sont plus à la mode et notre auteur a su mêler des éléments de l'une et de l'autre tout en ayant soin d'unifier l'action. Notons toutefois que la pièce est longue et que sa construction par rebondissements successifs peut introduire une certaine monotonie. Ainsi, dès la deuxième édition Thomas Corneille supprime une scène (la scène 3 de l'acte V) qui ne faisait pas avancer l'action et plus tard certains réduisirent la pièce à trois actes de manière à concentrer davantage l'intrigue.
 
 
-# Le comique
+# Le comique.
 
 Le comique dans *Le Baron d'Albikrac* repose principalement sur l'attitude de deux personnages : d'un côté la Tante ridicule et de l'autre le valet déguisé en baron de Bretagne, personnage grotesque hérité de la comédie burlesque. Thomas Corneille ne retient pas les malentendus entre les amants qu'on trouvait dans la pièce de Moreto, ni les scènes comiques de dépit amoureux qui en découlaient. Il réduit l'intrigue sentimentale pour se concentrer sur les deux personnages ridicules et sur les situations comiques qu'il est possible d'en tirer.
 
 
-## La Tante : vieille coquette et visionnaire
+## La Tante : vieille coquette et visionnaire.
 
 Le comique de la pièce provient d'abord du personnage de la Tante. Thomas Corneille semble le rappeler lui-même dans sa dédicace :
 
@@ -319,7 +319,7 @@ Où je ne la voy point je ne fais que languir.
 Cette scène imaginaire est rendue particulièrement vivante, et donc comique, par l'utilisation du discours direct. Le mensonge d'Oronte prend une apparence de réalité qui trompe la Tante, à qui, il est vrai, il n'en faut pas beaucoup pour croire qu'elle est aimée. Léandre passe alors pour jaloux d'Oronte et, à la scène suivante, c'est la Montagne qui, à son tour et jusqu'à la fin de la pièce, fait le jaloux mais cette fois de manière grotesque.
 
 
-## La Montagne, un personnage burlesque
+## La Montagne, un personnage burlesque.
 
 Le valet La Montagne est directement hérité de la comédie burlesque. Ce type de comédie, créé par Scarron dans les années 1640, avait pour caractéristique principale de mettre en scène les fantaisies d'un personnage grotesque, rustre de province ou valet déguisé, à l'origine d'une succession de situations comiques. S'inspirant de la *comedia de figurón*, Scarron plaçait le personnage au centre de l'action et non en marge de celle-ci. Le comique du bouffon n'était plus un ornement gratuit mais s'intégrait parfaitement à l'action de la pièce. Ces grandes comédies pleines d'exubérance n'avaient pas laissé Thomas Corneille indifférent. Dès 1651 son *Dom Bertrand de Cigarral* est calqué sur le modèle des comédies de Scarron et, en 1655, il brilla avec une autre comédie burlesque intitulée *Le Geôlier de soy-mesme*. Thomas Corneille s'était donc fait une spécialité de ces personnages bouffons au langage fantaisiste et au bavardage intarissable. Le stratagème imaginé par Léandre à la fin de l'acte I et qui consiste à faire passer son valet pour le baron d'Albikrac est typiquement une ruse de comédie burlesque qui pose un personnage bouffon au centre de l'intrigue. Seulement, bien qu'il donne son titre à la pièce [27], le faux baron n'occupe qu'une place secondaire après la Tante et il intervient somme toute assez peu avant le dénouement. *Le Baron d'Albikrac* n'est donc pas à proprement parler une comédie burlesque d'autant que la Montagne se distingue quelque peu du valet bouffon que l'on trouvait chez Scarron ou dans les pièces antérieures de Thomas Corneille. En effet il n'est ni couard ni poltron mais au contraire fait preuve de vivacité et de hardiesse. C'est lui qui mène toute l'intrigue à la fin de la pièce et qui imagine le dénouement. Sa fourbe est plus proche de celle du valet des Italiens que de celle d'un Jodelet.
 
@@ -353,7 +353,7 @@ Mon Pere estoit Kerling, et ma Mere Albikraque,
 Ce procédé comique n'est pas de l'invention de Thomas Corneille : on trouvait déjà des noms bretons aux sons rocailleux hérissés de K et de R dans *La Belle Plaideuse* de Boisrobert [29]. Plus largement, le jeu sur les sonorités exotiques est assez fréquent dans les comédies burlesques comme en témoignent par exemple les *indienneries* de Scarron dans *Dom Japhet d'Arménie*. À cette fantaisie verbale s'ajoute le comique de mots à proprement parler, c'est-à-dire le comique qui joue cette fois sur le sens des mots. On note par exemple plusieurs oxymorons burlesques particulièrement heureux, non seulement dans la bouche du faux baron, comme « ma poupine veuve » (v. 1413), mais aussi dans celle de Philipin avec son « Ah, beauté bisayeule/ Si j'osois pour douceur te bien paumer la gueule » (v. 73 et 74).
 
 
-## La Tante et le faux baron
+## La Tante et le faux baron.
 
 Le comique burlesque repose non seulement sur le valet lui-même mais aussi et surtout sur sa relation avec la Tante. Les galanteries grotesques d'un personnage rustre sont la marque des comédies burlesques, mais elles sont en général adressées à une jeune fille horrifiée par le comportement de celui à qui on la destine en mariage. Il en est ainsi dans *Dom Bertrand de Cigarral* ou dans *Le Geôlier de soy-mesme*, les deux principales comédies burlesques de Thomas Corneille. Au contraire, ici, si la vieille Tante est parfois un peu choquée par les manières du faux baron, elle ne s'offusque jamais de son attitude. Cette configuration est assez proche de celle de *L'Héritier ridicule* de Scarron ou des *Précieuses ridicules* de Molière. Dans ces deux comédies on trouvait déjà des valets déguisés faisant la cour à des personnages antipathiques. Ces femmes, Hélène dans *L'Héritier*, Cathos et Magdelon dans *Les Précieuses*, étaient ridicules en ce qu'elles ne percevaient pas le caractère burlesque des galanteries qui leur étaient adressées. De même, la Tante, si elle ne succombe pas aux avances du faux baron, n'en demeure pas moins flattée d'avoir un admirateur de plus, tandis que nous rions aux galanteries ridicules qu'il lui adresse. Lysette lorsqu'elle annonce son arrivée nous prévient :
 
@@ -439,12 +439,12 @@ N'offrent à mes autels que des vœux épurés.
 Bélise vit dans ses visions et ses imaginations comme la Tante dans *Le Baron d'Albikrac* mais aussi comme Hespérie dans *Les Visionnaires* de Desmarets de Saint-Sorlin (1637). On a souvent dit que Thomas Corneille n'était qu'un habile imitateur, un auteur qui se contentait de suivre la mode. Ces quelques exemples montrent qu'il a aussi pu donner des idées à d'autres ou du moins être un créateur à part entière.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Le texte que nous publions est celui de l'édition originale. Le privilège du roi fut accordé le 21 février 1668 et le texte fut achevé d'imprimer par le rouennais Laurent Maurry le 8 février 1669. La pièce fut diffusée à Paris par deux libraires : Gabriel Quinet et Claude Barbin. Nous avons recensé sept exemplaires originaux. Du vivant de Thomas Corneille on ne retrouve *Le Baron d'Albikrac* que dans les volumes qui regroupent l'ensemble de ses pièces, mises à part deux éditions pirates, l'une chez Barbin sans date, et l'autre qui paraît en 1689 en Hollande. La pièce est ensuite rééditée à plusieurs reprises au XVIII*e* siècle.
 
 
-## L'édition originale
+## L'édition originale.
 
 Chez Gabriel Quinet :
  * – un exemplaire est conservé à la Bibliothèque nationale (RF-2719 ou MC91-4355 en microforme).
@@ -475,24 +475,24 @@ LE BARON/D'ALBIKRAC, /*COMEDIE*./fleuron du libraire représentant une coupe de
 LE BARON/D'ALBIKRAC, /*COMEDIE*./fleuron du libraire /A PARIS, /Chez CLAUDE BARBIN, sur le second/Perron de la Sainte Chapelle./filet / M. DC. LXIX./ *AVEC PRIVILEGE DU ROY*.
 
 
-## Les autres éditions parues du vivant de l'auteur
+## Les autres éditions parues du vivant de l'auteur.
 
 
-### L'édition sans date
+### L'édition sans date.
 
 Cette édition qui ne comporte aucune date a parue chez Claude Barbin. Il s'agit d'un in-12 de 112 pages. La dédicace a été supprimée et l'extrait du privilège est placé au début du volume. Le texte comporte les mêmes variantes que celui de l'édition collective de 1682. Ces éléments permettent de penser qu'il s'agit effectivement d'une nouvelle édition parue chez Barbin et corrigée par l'auteur et non d'une édition pirate de province (qui serait alors parue après 1682) comme l'absence de date pourrait le suggérer. Nous pouvons donc supposer que la date a simplement été omise et que cette édition a parue dans le courant des années 1670. Nous en avons recensé trois exemplaires :
  * – deux exemplaires sont conservés à la BNF Richelieu (RF-27-18 et Z. Rothschild-4077)
  * – un exemplaire est conservé à la Bibliothèque de l'Arsenal (GD-6053)
 
 
-### L'édition de 1689
+### L'édition de 1689.
 
 Il s'agit d'une édition hollandaise qui attribue par erreur le texte à « P. Corneille ». C'est un in-12 de 96 pages qui porte la mention « suivant la copie imprimée à Paris ». Le texte est identique à celui de l'édition originale. Nous en avons recensé cinq exemplaires :
  * – deux exemplaires sont conservés à la Bibliothèque de l'Arsenal (GD-6055 et GD-6052)
  * – trois exemplaires sont conservés dans des bibliothèques municipales de province à Caen, Nantes et Rouen.
 
 
-### Les recueils de pièces
+### Les recueils de pièces.
 
 Thomas Corneille avait pris l'habitude, dès 1669, de faire éditer l'ensemble de son théâtre dans des recueils de « Poëmes dramatiques ». Les éditions que nous mentionnons sont toutes de véritables éditions revues et corrigées. Les principales corrections et variantes au texte du *Baron d'Albikrac* ont été apportées dès 1682. Cependant on trouve encore de nouvelles variantes dans l'édition de 1692. Nous les avons mentionnées en notes de bas de page.
  * – Paris, G. de Luyne, 1682
@@ -515,7 +515,7 @@ Enfin *Le Baron d'Albikrac* a été réédité dans la plupart des recueils de p
  * – *Théâtre complet* de T. Corneille. Nouvelle édition précédée d'une notice par M. Edouard Thierry. Paris, Laplace Sanchez & Cie, 1881.
 
 
-## Interventions sur le texte
+## Interventions sur le texte.
 
 Nous avons corrigé les coquilles évidentes, unifié le nombre de points de suspension et remplacé les tildes par la consonne qui leur correspondait. Mises à part ces quelques modifications, le texte est totalement fidèle à celui de l'édition originale. Voici la liste des corrections que nous avons apportées :
  * – v. 335 : Peste, soit
@@ -557,10 +557,10 @@ Nous donnons aussi quelques explications grammaticales qui s'appuient soit sur *
 Enfin, les lettres entre crochets correspondent aux changements de cahier dans l'édition originale et les chiffres aux numéros des pages.
 
 
-# LE BARON D'ALBIKRAC, COMÉDIE
+# LE BARON D'ALBIKRAC, COMÉDIE.
 
 
-## A M. B. E. C. S [31] 
+## A M. B. E. C. S [31]. 
 
 Madame,
 
@@ -624,7 +624,7 @@ La scene est à Paris.
 ANGELIQUE, PHILIPIN.
 
 
-    ANGELIQUE *tenant une lettre.*
+    ANGELIQUE *tenant une lettre.*.
 Si j'en croy ce billet, Oronte est fort sincere,  
 Il met tout son bonheur à me voir, à me plaire,  
 Mais ce fut là toûjours le style des Amants.  
@@ -1228,7 +1228,7 @@ Qu'elle souffriroit trop…
     LEANDRE.
 Ostez donc.  
 
-    ANGELIQUE *à la Tante.*
+    ANGELIQUE *à la Tante.*.
     L'osteray-je ?  
 
     LA TANTE.
@@ -1293,7 +1293,7 @@ Angelique.
     ANGELIQUE.
     Ma Tante.  
 
-    ORONTE *à Angelique feignant de continuer haut la conversation.*
+    ORONTE *à Angelique feignant de continuer haut la conversation.*.
         Enfin donc vous trouvez  
 Ma garniture⁎ belle ?  
 
@@ -2060,7 +2060,7 @@ J'ay promis, sans penser pourtant faire un grand crime,
 Que puisque son amour estoit si legitime,  
 Qu'il m'en peignoit le feu si plein d'ardeur…  
 
-    LA TANTE
+    LA TANTE.
         Rentrez.  
 
 
@@ -2230,7 +2230,7 @@ A-t'on jamais…
     ANGELIQUE.
         Vos yeux en vont être ébloüis⁎.  
 
-    ORONTE *faisant semblant d'admirer le mouchoir.*
+    ORONTE *faisant semblant d'admirer le mouchoir.*.
 Ah, Madame !  
 
     ANGELIQUE.
@@ -2312,8 +2312,7 @@ Je l'essuyeray sans peine, et consens que par là…
 LA TANTE, ANGELIQUE, ORONTE, LA MONTAGNE, LYSETTE.
 
 
-    LA MONTAGNE *s'adressant à Angelique,    
-et feignant de la prendre pour la Tante.*
+    LA MONTAGNE *s'adressant à Angelique,  et feignant de la prendre pour la Tante.*.
 Qui des deux est la Tante ? à l'âge, la voila. [88]  
 Pardonnez, je sçay bien que ce vilain mot d'âge  
 Aux Belles comme vous tient toûjours lieu d'outrage,  
@@ -2478,7 +2477,7 @@ Il s'en mordit les doigts [98].
     LYSETTE.
 C'est un homme enjoüé. Qu'il est divertissant !  
 
-    LA TANTE *à la Montagne qui luy avoit parlé bas.*
+    LA TANTE *à la Montagne qui luy avoit parlé bas.*.
 Rien ne nous presse encor.  
 
     LA MONTAGNE.
@@ -2494,7 +2493,7 @@ On dit que le plûtost vaut le mieux.
     LA TANTE.
 On y doit un peu plus songer que vous ne faites.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Gay comme je le suis, vous, dans l'âge où vous estes,  
 Selon que je me sens fortement dans vos laqs [99],  
 Nous aurons quantité de petits Albikracs,  
@@ -2692,7 +2691,7 @@ Car c'est enchantement⁎ qu'aimer à soixante ans.
 Vous me raillez, chacun peut-estre aura son temps,  
 Que sçait-on ?  
 
-    LYSETTE *à Oronte.*
+    LYSETTE *à Oronte.*.
         Pour le moins il a cet avantage  
 Que si pour nostre Tante il sucroit le breuvage,  
 Ma foy, vous tireriez vostre poudre aux Moineaux [108],  
@@ -2986,10 +2985,10 @@ Cet aveu me surprend.
     ORONTE.
         Ah, Madame, il me tuë.  
 
-    LA TANTE
+    LA TANTE.
 Depuis quand sçavez-vous que j'ay touché son cœur.  
 
-    ORONTE. 
+    ORONTE.
 Trop tard pour mon repos, trop tost pour mon malheur.  
 Tantost à l'impourveu⁎ vous sçavez que Leandre  
 Dans vostre Cabinet nous est venu surprendre.  
@@ -3387,7 +3386,7 @@ Allons les retrouver, mais si vous m'aimiez ?
 Madame, vous sçavez que j'agis sans façon.  < Fin du troisiéme Acte. > 
 
 
-## ACTE IV
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -3631,7 +3630,7 @@ Le Cousinage n'est…
         Leandre m'a tout dit.  
 
 
-### SCENE IV 
+### SCENE IV. 
 LA TANTE, ORONTE, LYSETTE.
 
 
@@ -4052,7 +4051,7 @@ Comment tendre ?
     LA TANTE.
         Il m'en faut une preuve aujourd'huy.  
 
-    PHILIPIN *à la Montagne bas sans faire semblant de luy parler.*
+    PHILIPIN *à la Montagne bas sans faire semblant de luy parler.*.
 La Rapiere pendu, ta sœur grosse de luy.  
 
     LA TANTE.
@@ -5109,15 +5108,15 @@ Achevé d'imprimer pour la premiere fois le 8 Février 1669. à Roüen, par L. M
 Les exemplaires ont esté fournis.
 
 
-# Glossaire
+# Glossaire.
 
 On trouvera ici la signification des mots signalés dans le texte par un astérisque. Quand cela n'est pas précisé la définition est extraite du *Dictionnaire universel* de Furetière (1690). Dans les autres cas la source est indiquée : « Ac. » pour le *Dictionnaire* de l'Académie Française (édition de 1694) et « Rich. » Pour le *Dictionnaire françois* de Richelet (1679).AbandonnerLaisser à l'abandon. Cet homme s'abandonne à ses passions, à la colère, à l'amour, à la desbauche. Il a abandonné le soin de son honneur. On dit aussi absolument au substantif, *C'est un abandonné*, pour dire, un homme perdu et desbauché, qui ne donne point d'esperance de conversion.V. 15, 514, 1440, 1665Abord (d')Du commencement, de la première vue, c'est-à-dire aussitôt, de prime abord.V. 968, 1385, 1441, 1459, 1605AbusSignifie aussi erreur, tromperie.V. 700, 1675AbuserSignifie aussi, Tromper, seduire. Signifie plus particulierement, Suborner une femme, une fille.V. 1178, 1385AccommoderSignifie aussi, Terminer un procès, une querelle à l'amiable.V. 1450 et 1451AirSignifie aussi, Une certaine maniere que l'on a dans les exercices du corps, dans la façon d'agir. *Le bel air, les gens du bel air*. (Ac.)V. 681AppasSe dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose.V. 51, 369, 458, 463, 499, 769, 951, 1255ArabeAvare, cruel, tyran.V. 437BaillerDonner. On dit proverbialement, En bailler d'une, en bailler à garder, pour dire, en faire accroire à quelqu'un. On luy a *baillé* belle, pour dire, On luy a dit une bourde.V. 704, 1482, 1696Besoin (au)Manque de quelque chose. Le ciel n'abandonne pas ses amis au besoin. On connaît les amis au besoin.V. 362BlondinOn appelle, Blondins, les jeunes galans qui font les beaux, parce qu'ils portent d'ordinaire des perruques blondes.V. 1625 et 1727ConterFaire une narration, une claire deduction d'un fait, d'une histoire.Conter, signifie tout simplement, Faire un conte, reciter quelque trait plaisant, soit qu'il soit vray ou faux.V. 331, 573 et 825Conter signifie aussi, En faire accroire, donner pour vrayes des choses fausses.V. 546On dit aussi, *Conter* fleurettes, pour dire, Cageoller une femme : et absolument, Il luy en *conte*, pour dire, Il luy en veut, il en est amoureux.V. 13, 96 et 129Credit Croyance, estime qu'on s'acquiert dans le public par sa vertu, sa probité, sa bonne foy, et son merite.V. 144, 323Se dit aussi de la puissance, de l'autorité, des richesses qu'on s'acquiert par le moyen de cette reputation qu'on a acquise.V. 262DouceurOn dit, Conter des *douceurs* à une femme, luy dire quelque *douceur*, pour dire, la flatter, luy faire l'amour.V. 8, 52, 71, 74, 339, 633, 803, 981, 1455, 1485, 1608EblouïrEmpescher l'usage de la veüe par une trop grande lumiere. On dit figurement *la beauté esblouit*.V. 667Surprendre l'esprit. Il m'a allegué tant de raisons qu'il m'a esbloui. (Ac.)V. 361 et 1154ÉclatOn dit aussi, qu'une affaire a fait beaucoup d'éclat, qu'elle a excité beaucoup de murmure. Cette fille s'est délivrée secrettement, son péché n'a point fait d'*éclat*, de scandale.V. 1623EmpireSe dit figurément en morale, de la domination, du pouvoir qu'on a sur quelque chose. Il a beaucoup d'*empire* sur soy, sur ses passions, sur l'esprit de sa maîtresse.V. 1461EnchantementCharme, effet merveilleux procédant d'une puissance magique, d'un art diabolique.V. 859EnnuyChagrin.V. 1013, 1174, 1293, 1444, 1539, 1695, 1759Envy (à l')Par émulation et pour voir qui réussira le mieux. (Rich.)V. 189, 497EquipageTout le meuble d'un particulier, état, habit. (Rich.)V. 1791FaitSe dit aussi de ce qui est propre, convenable. Voilà vostre vray *fait*, ce qu'il vous faut. Cette fille n'est pas vostre *fait* pour l'épouser.V. 771 et 1855FleureteQui ne se dit qu'au figuré de certains petits ornements du langage, et des termes doucereux dont on se sert ordinairement pour cajeoller les femmes.V. 12, 69, 226, 339FoySignifie encore serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter.V. 875, 1167, 1215, 1315, 1471, 1829FriandQui aime les morceaux délicats et bien assaisonnez. Il se dit tant des personnes, que du goust et de la chose goustée. Friand, se dit aussi figurément d'une chose rare qui est d'un grand prix, d'un grand merite. Voilà une fort belle femme, c'est un morceau bien *friand*.V. 650 et 1791FriponnerVoler, tromper, escroquer.V. 1038GarnitureSe dit particulierement d'une certaine touffe ou quantité de rubans qu'on met sur les habits, ou à la coëffure pour les orner, qu'on applique en divers lieux, qui changent selon les modes.V. 281GênerTenir en contrainte, mettre quelqu'un dans un estat violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empeschant de faire ce qu'il veut. (Ac.)Sens fort au V. 503 qui équivaut à « faire souffrir », sens plus faible au V. 483GloireSe dit par emprunt et par participation, de l'honneur mondain, de la loüange qu'on donne au merite⁎, au sçavoir et à la vertu des hommes.V. 186, 497, 698, 948, 1259, 1294, 1386Impourveu (à l')Avec surprise.V. 989IndiscretCeluy qui agit par passion, sans considérer ce qu'il dit ni ce qu'il fait.V. 426 et 1631JaserParler beaucoup et sans necessité de choses frivoles. On le dit aussi des oiseaux babillards, commes les pies, sansonnets, etc.V. 479, 1520, 1800MériteSignifie aussi, Vertu, qualité excellente, ou l'assemblage de plusieurs bonnes qualitez.V. 190, 316, 318, 325MignonSignifie aussi, favory, soit en matiere d'amitié, soit d'amour. Beaucoup de dames ont des *mignons* de couchette.V. 1523MisérableQui est dans la douleur, dans l'affliction, dans l'oppression.V. 1286MitonnerSe dit figurément en Morale, pour dire, Caresser, choyer une personne, la traiter favorablement, pour gagner ou pour conserver ses bonnes graces.V. 1506NaissanceAction de naistre, sortie de l'enfant ou de l'animal hors du ventre de la mere.Il signifie aussi extraction. Il est de bonne naissance, de petite naissance, de peu de naissance.V. 658, 1214, 1431, 1473*Naissance*, Mis absolument signifie quelquefois, Noblesse. (Ac.)V. 108, 1356OfficieuxPrompt à rendre service.V. 649OmbrageSignifie figurément, deffiance, soupçon. Les fréquentes visites d'un cavalier donnent de l'*ombrage* aux jaloux.V. 681 et 954ParesseuseOn appelle une paresseuse, une certaine coeffure de femme qui s'applique sur la tête comme une perruque, et qui fait qu'une femme qui se leve tard est coeffée en un moment.V. 158Peine (à) Difficilement.V. 326, 438, 1309Presque.V. 697PieceOn dit Jouër piece à quelqu'un, pour dire, lui faire quelque supercherie, quelque affront, lui causer quelque dommage ou raillerie.V. 702, 1053, 1529, 1542ProtestantAmant qui fait à une Dame des offres de service et d'amour, et qui luy promet fidélité.V. 95ProvignerSe dit figurément en Morale, de ce qui se multiplie.V. 1463RagoustSe dit aussi des choses qui renouvellent d'autres désirs que ceux de l'estomach. Une jeune femme est un ragoust qui renouvelle la vigueur d'un vieillard.V. 650RavirSe dit des passions violentes qui troublent agreablement l'esprit.V. 807ResverFaire des songes extravagans.Estre distrait, entretenir ses pensées.V. 473 et 738Appliquer serieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque inventionV. 660, 828 et 1331RireSe dit figurément des choses inanimées, et en morale, en parlant de ce qui plaist, de ce qui est agréable.V. 185ServirSe dit aussi de l'attachement d'un homme auprès d'une Dame, dont il tasche d'acquérir les bonnes graces.V. 594SexeAbsolument parlant, se dit des femmes. C'est un homme qui aime le *sexe*, c'est-à-dire les femmes.V. 9, 1075, 1445, 1627, 1770SoinApplication d'esprit à faire quelque chose.On dit, Rendre des *soins* à quelqu'un, pour dire, Le voir avec assiduité, et luy faire sa cour. (Ac.)V. 148, 1243, 1497, 1660 SoucyChagrin, inquietude d'esprit.V. 411, 511, 1235, 1424SoufflerSe dit figurément en choses morales. Ce Prince tient tellement ses sujets en crainte, en sujettion, qu'ils n'oseroient pas seulement *souffler*, dire le moindre mot.V. 1752TabletteSe dit aussi d'un petit meuble qu'on met pour ornement dans des ruelles. Il est composé de deux petits ais qui sont liez ensemble par quatre colomnes. Ils sont dorez ou vernissez. C'est sur cela qu'on met quelques vases ou bijoux.V. 237TrainSe dit de l'equipage ou de la suite d'un chef de famille, d'un Seigneur. Ce bourgeois n'a pour tout train qu'un petit laquais et une servante.V. 1722TransportSe dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions.V. 1469TurcOn dit aussi en voulant injurier un homme, le taxer de barbarie, de cruauté, d'irreligion, que c'est un *Turc*.V. 437VuiderVuider, se dit figurément en choses morales, et signifie terminer, finir une affaire, un differend.V. 1289
 
 
-# Annexe 1 : témoignage de représentations du Baron d'Albikrac du vivant de l'auteur
+# Annexe 1 : témoignage de représentations du Baron d'Albikrac du vivant de l'auteur.
 
 
-## Mémoire de Mahelot
+## Mémoire de Mahelot.
 
 Le mémoire de Mahelot nous donne quelques informations sur la disposition de la scène :
 
@@ -5147,7 +5146,7 @@ Et que tous les autres Acteurs,
 Y sont de parfaits Enchanteurs.  
 
 
-## Robinet, Lettre du 5 janvier 1669
+## Robinet, Lettre du 5 janvier 1669.
 
 Compte rendu de la représentation annoncée dans la lettre du 29 décembre 1668 et donnée par les comédiens de l'Hôtel de Bourgogne lors d'une fête donnée pour le roi au Palais-Royal chez Monsieur et Madame.
 
@@ -5165,7 +5164,7 @@ Désopilla les belles Rates
 Du beau monde illec assamblé.  
 
 
-## Robinet, lettre du 3 août 1669
+## Robinet, lettre du 3 août 1669.
 
 Compte rendu d'une représentation lors d'une fête donnée par le roi à Saint-Germain.
 
@@ -5181,7 +5180,7 @@ En receut de nôtre Héros
 Un glorieux et charmant los.  
 
 
-## Mercure galant, janvier 1682
+## Mercure galant, janvier 1682.
 
 P. 284, reprise du *Baron d'Albikrac* à la Comédie-Française
 
@@ -5189,7 +5188,7 @@ P. 284, reprise du *Baron d'Albikrac* à la Comédie-Française
 Le tarquin, Pièce nouvelle de M. Pradon, a paru sur le Théatre François ; et le Baron d'Albykrac qu'on y a remis, sans qu'on l'eust joüé depuis douze ans, a fort diverty de nombreuses assemblées.
 
 
-# Annexe 2 : œuvres de Thomas Corneille
+# Annexe 2 : œuvres de Thomas Corneille.
 
 1647 *Les Engagements du hasard*, comédie
 
@@ -5292,14 +5291,14 @@ Le tarquin, Pièce nouvelle de M. Pradon, a paru sur le Théatre François ; et
 1708 *Dictionnaire Géographique et Historique.*
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourceDe fuera vendrá…
+## Source.De fuera vendrá…
 
 
 
-## Ouvrages du XVIIe et du XVIIIe siècleRelation d'une fête donnée à VauxŒuvres complètes
+## Ouvrages du XVIIe et du XVIIIe siècle.Relation d'une fête donnée à VauxŒuvres complètes
 Le grand dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
 Histoire du théâtre françois, depuis son origine jusqu'à présent
 Dictionnaire des théâtres de Paris
@@ -5308,19 +5307,19 @@ Le registre de La Grange (1659-1685)
 
 
 
-## Ouvrages sur Thomas Corneille et son théâtreThomas Corneille : protean dramatist
+## Ouvrages sur Thomas Corneille et son théâtre.Thomas Corneille : protean dramatist
 Stratégie des regards. Voir et être vu dans le théâtre de Thomas Corneille (1647-1695)
 Thomas Corneille, sa vie et son théâtre
 
 
 
-## Ouvrages générauxIntroduction à l'analyse des textes classiques
+## Ouvrages généraux.Introduction à l'analyse des textes classiques
 Le langage dramatique
 La comédie
 
 
 
-## Ouvrages sur le théâtre du XVIIe siècleHistoire de la littérature française du XVIIe siècle
+## Ouvrages sur le théâtre du XVIIe siècle.Histoire de la littérature française du XVIIe siècle
 Morales du Grand Siècle
 Le masque et le visage. Du baroque espagnol au classicisme français
 La Comédie de l'âge classique
@@ -5345,7 +5344,7 @@ La Dramaturgie classique en France
 
 
 
-## Ouvrages sur la langue du XVIIe siècleDictionnaire
+## Ouvrages sur la langue du XVIIe siècle.Dictionnaire
 Grammaire du français classique
 Dictionnaire universel
 Syntaxe française du XVIIe siècle
@@ -5355,14 +5354,14 @@ Remarques sur la langue françoise
 
 
 
-## ArticlesRevue d'histoire littéraire de la France
+## Articles.Revue d'histoire littéraire de la France
 XVIIe siècle
 Studii Francesi
 Revue d'histoire littéraire de la France
 
 
 
-## Éditions de textesL'Amour à la mode
+## Éditions de textes.L'Amour à la mode
 Le Gardien de soy-mesmeLe Geôlier de soy-mesme
 Le Baron de la CrasseL'Après-soupé des auberges
 

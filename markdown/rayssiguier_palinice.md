@@ -17,10 +17,10 @@ A PARIS Chez ANTOINE DE SOMMAVILLE, au Palais dans la petite Salle, l'Escu de Fr
       master 1 sous la direction de Georges Forestier (2011-2012)
 
 
-# L'auteur
+# L'auteur.
 
 
-## Une vie mystérieuse
+## Une vie mystérieuse.
 
 Nous ne disposons que de peu d'éléments sur la vie de notre auteur. En effet, Rayssiguier et ses œuvres sont restés dans l'obscurité durant pratiquement trois siècles. Non seulement, ses œuvres n'ont pas pu traverser l'histoire, mais certaines se sont également vu attribuer leur paternité à d'autres dramaturges de la même époque. Ce fait singulier fut notamment l'apanage du grand Henry Lancaster. Cette méprise résulterait du fait que les deux auteurs avaient un même éditeur en la personne de Pierre David et que celui-ci aurait commis une erreur d'assemblage et de pagination qui serait due au fait que les deux auteurs avaient une signature identique.
 
@@ -48,7 +48,7 @@ Il a lié des amitiés avec ses collègues du barreau, car il était avocat comm
 Après 1636, on entendit plus parler de lui, et l'on ne sait s'il vécut encore plusieurs années à Paris avant de se retirer à Castres où il mourut le 25 avril 1660.
 
 
-## Sa carrière littéraire
+## Sa carrière littéraire.
 
 Rayssiguier et ses amis étant de la nouvelle génération, ils avaient une nette préférence pour les tragi-comédies et les pastorales. Leurs pièces sont plus longues que celles de leurs prédécesseurs, mieux adaptées au goût de la société élégante qui commencent à fréquenter le théâtre. Pour le style, ils imitent Théophile de Viau plutôt qu'Alexandre Hardy car le sien était jugé « rocailleux » [8].
 
@@ -72,10 +72,10 @@ Après 1636, il disparut de la sphère littéraire. Malgré, le sort peu enviabl
 Ses pièces ont eu le mérite de contenir en germe deux choses dont, plus tard, on s'est beaucoup servi : le conflit psychologique et l'actualité des lieux. [9]
 
 
-# Personnages et résumé de la pièce
+# Personnages et résumé de la pièce.
 
 
-## Les personnages
+## Les personnages.
 
 **Arimant** : Oncle de Circeine et de Sileine, Amoureux de Florice.
 
@@ -94,37 +94,37 @@ Ses pièces ont eu le mérite de contenir en germe deux choses dont, plus tard, 
 **Cerinte** : Rival d'Arimant et Ami de Sileine.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 
-### Acte I
+### Acte I.
 
 L'action commence in média-res. [10] La sœur de Clorian, Palinice est aimée par Sileine, le frère de Circeine ; mais elle ne ressent rien pour lui. Aussi Sileine nuit-il à Clorian auprès de sa sœur Circeine qui est en outre aimée d'Alcandre, le frère de Florice que courtisent, tous les deux sans succès, Arimant, l'Oncle de Circeine et Cerinte.
 
 
-### Acte II
+### Acte II.
 
 Alcandre décide sa sœur à prêter l'oreille aux avances d'Arimant qui lui promet d'engager sa nièce à agréer l'amour de son fidèle et discret prétendant. L'obstacle est constitué par l'influence néfaste de Palinice sur son amie Circeine, autant que par l'amour ombrageux de Clorian, deux circonstances qui embarrassent la jeune fille, malgré l'exhortation de son oncle et tuteur, lequel finit néanmoins par la décider à signer une lettre écrite par lui à l'intention d'Alcandre.
 
 
-### Acte III
+### Acte III.
 
 L'effet immédiat et contradictoire de ce service rendu veut que Florice se trouve ainsi dégagée de toute obligation envers Arimant. Le dépit pousse alors ce dernier à revenir sur sa démarche précédente en recherchant le moyen de se venger d'Alcandre en raison de sa déconvenue. Il s'allie alors avec Clorian, dont il obtient qu'il substitue un billet de son cru à celui d'Alcandre dans le gant de Circeine et va voir celle-ci pour lui remettre son gant, autant que pour la persuader de la vanité et de l'indiscrétion prétendues de son amoureux d'élection.
 
 
-### Acte IV
+### Acte IV.
 
 La ruse prend ; mais, restée soupçonneuse, Circeine part s'expliquer avec Alcandre qu'elle trouve dans la forêt, tout à la joie de son amour partagé. Le différend se clarifie entre eux et lorsqu'elle veut lui donner une preuve supplémentaire de son amour, Circeine remet à Alcandre au lieu de son billet, celui que Clorian lui a substitué. C'est au tour d'Alcandre de douter de cette dernière. Il s'emporte et s'éloigne pour aller défier au duel Clorian.
 
 
-### Acte V
+### Acte V.
 
 L'affrontement est évité de justesse par l'intervention de la compagnie entière, notamment de Circeine. Un autre aurait pourtant éclaté, mettant aux prises Cérinte et Arimant si tout le monde, et particulièrement Florice ne s'était entremis. Alors se décide un arrangement : on propose aux jeunes filles de choisir leurs amants. Ceci donne lieu à une série de déchirements et de drames personnels.
 
 Finalement, dans un suspense factice, Florice s'offre à Cérinte, Circeine choisit Alcandre et Palinice consent à l'amour de Sileine. Dépités, Arimant et Clorian s'éloignent en maudissant leurs amours.
 
 
-# Génétique théâtrale : de l'Astrée à la pastorale dramatique
+# Génétique théâtrale : de l'Astrée à la pastorale dramatique.
 
 Dans le premier tiers du XVII*e* siècle les adaptations dramatiques de roman étaient un phénomène à la mode. [11] Victime de son succès, l*'Astrée* jouissait de la préférence des adaptateurs dramatiques. Seront issues de cette vague d'engouement pour l'*Astrée*, les pièces suivantes : *Cléomédon, d'abord appelée Rossyléon* de Pierre du Ryer, *L'Inconstance d'Hylas, tragi-comédie pastorale* d'André Mareschal, *Orante, tragi-comédie* de Georges de Scudery.
 
@@ -135,7 +135,7 @@ Dans le cadre de *Palinice, Circeine et Florice*, Rayssiguier a opéré une adap
 Pour ce faire, Rayssiguier a accordé dans un premier temps, un traitement particulier à la trame de l'histoire.
 
 
-## L'intrigue des *Amours de Palinice, Circeine et Florice*
+## L'intrigue des *Amours de Palinice, Circeine et Florice*.
 
 L'histoire des trois frères et sœurs dont il est question dans l'œuvre, se rapporte à l'histoire d'Alcandre, d'Amilcar, Circeine, Palinice et Florice relatée dans les épisodes de l'*Astrée* intitulés *Histoire d'Alcandre, d'Amilcar, Circeine, Palinice et Florice* (Partie IV, Livre IX) et *Suitte de l'histoire de Circeine, de Palinice et de Florice* (Partie V, Livre IV). [13]
 
@@ -172,7 +172,7 @@ Duels avortés entre Clorian et Alcandre d'une part (Acte V, Scène 5) et entre 
 En ce qui concerne le dénouement, il a subit une transformation. En effet, dans *l'Astrée*, les jeunes filles s'en sont remises à l'Oracle pour le choix de leurs futurs époux alors que dans *Les Amours*, elles ont fait leur propre choix sans aucune assistance divine. Il en ressort alors que Rayssiguier a prélevé « des éléments narratifs clés dans le récit-source et les a remontés dans un ordre différent, selon une trame personnelle, dans la pièce de théatre » [15].
 
 
-## Le traitement des personnages
+## Le traitement des personnages.
 
 À la suite de l'intrigue, les personnages ont également subi quelques modifications. Dans l'*Astrée*, on a :
 
@@ -248,7 +248,7 @@ Ils évoluent sur une scène spiritualisée qui associe beauté physique et perf
 La bergère est également un modèle car elle jouit d'une indépendance qui faisait sans doute envie à l'époque. Dès qu'elle « prend la houlette, les contraintes aliénantes qui pesaient sur elle font place à la vérité de ses passions, ses intérêts prennent soudain le dessus sur les forces contraires » [26]. Dans la société pastorale, les parents ne contraignent pas leurs enfants à s'unir à quelqu'un qu'ils n'aiment pas. C'est ce qui explique le fait que les héroïnes ont fait leur propre choix à la fin de la pièce. Toute la troupe a accepté de bon cœur que « les uns seront aimez, les autres rejettez » et « que leur chois librement en dispose. » [27] Jusqu'au dénouement, Rayssiguier a tenu à respecter les principes dramaturgiques d'une tragi-comédie pastorale.
 
 
-# Représentation de la pièce
+# Représentation de la pièce.
 
 Comme Du Ryer et Auvray, Rayssiguier a vu représenter ses pièces à l'Hôtel de Bourgogne. Ce qui paraît tout à fait compréhensible, puisque la salle de la rue Mauconseil semble avoir privilégié les genres de la tragicomédie et de la pastorale.
 
@@ -257,7 +257,7 @@ Les frères Parfaict, sans aucune preuve ont affirmé que les *Amours* et *Céli
 Certes, on ne retrouve pas les *Amours* dans *Le Mémoire de Mahelot* dans son état actuel. Mais cela ne signifie pas qu'il n'y était pas au XVII*e* siècle. En se basant sur les représentations des pièces de l'époque ayant les mêmes caractéristiques génériques, on émettra des hypothèses de représentation et de mise en scène.
 
 
-## Organisation et déroulement de la séance théâtrale
+## Organisation et déroulement de la séance théâtrale.
 
 Au XVII*e* siècle, les représentations théâtrales étaient saisonnières. « Les comédiens s'arrêtaient de jouer au moment de la période de Pâques, ce qui permet de distinguer deux grandes saisons du théâtre : l'été (de Pâques à la Toussaint), période creuse pour l'activité artistique, et l'hiver (de la Toussaint jusqu'à Pâques), temps de tous les divertissements dans la société de l'Ancien Régime » [29] et le temps de création des nouvelles pièces. Fort de cette assertion, on peut se permettre de déduire que la pièce a été créée entre Novembre 1633 et Avril 1634 puisque les *Amours de Palinice, Circeine et Florice* ont été achevées d'imprimer en 1634. [30]
 
@@ -268,7 +268,7 @@ En amont, il y a eu probablement des cris publics et ou des affiches sur les mur
 La séance a probablement commencé par l'apparition du comédien-orateur chargé de présenter brièvement Les *Amours* aux spectateurs (Harangue 1). Ensuite, la Troupe Royale montera sur scène pour la représentation. Cette dernière serait suivie successivement par la représentation d'une pièce annexe [34], l'exécution par les comédiens de chansons et de danses nouvelles et le discours final du comédien-orateur (Harangue 2), censé être le remerciement de la troupe à la salle.
 
 
-## L'architecture et la scénographie de l'Hôtel de Bourgogne
+## L'architecture et la scénographie de l'Hôtel de Bourgogne.
 
 Construit en 1548 par la Confrérie de la passion, elle fut louée de façon permanente à la Troupe Royale à partir de 1629 jusqu'en 1680. La salle fut restaurée en 1647 après un incendie, ce qui implique qu'elle a eu un premier état. Malheureusement, ce premier état est mal connu. Notre pièce datant de 1634, elle a été donc représentée durant le premier état de l'Hôtel. On sait juste que la salle n'était pas séparée de la scène par un cadre de scène.
 
@@ -280,7 +280,7 @@ Le décor réunit sur la scène, l'ensemble des lieux de l'action. Le dispositif
 Autour d'un axe central, les chambres sont rangées selon trois plans en profondeur appelés décor en perspective, ancêtre de l'illusion optique que donne la vision 3D actuelle. Le plateau est surelevé par rapport au parterre ; ce qui permet aux spectateurs d'avoir une vue plongeante sur la scène. On a alors deux chambres au premier plan dont une côté cour (à droite du compartiment central) et l'autre côté jardin (à gauche), suivi de deux autres chambres au second plan obéissant au même agencement. Au troisième plan, se trouve, au fond du théatre, la cinquième chambre, occupant ainsi la position centrale.
 
 
-## La scénographie pastorale
+## La scénographie pastorale.
 
 La pastorale dont « l'action se déroule traditionnellement dans une certaine indistinction spatio-temporelle, appelait une mise en œuvre de l'espace moins diversifiée que celle de la tragicomédie ». Pour représenter des pastorales à l'Hôtel de Bourgogne, le décorateur constituait le dispositif à cinq compartiments évoqué plus haut en recourant toujours aux mêmes types de chambres : la grotte, les rochers, la source ou la fontaine ou la rivière, l'arche de verdure et le bois (qui se confondaient souvent au jardin).
 
@@ -316,7 +316,7 @@ Nous nous proposons de faire une illustration sommaire de ce dispositif appliqu�
 
 
 
-### Esquisse du croquis de la représentation des *Amours*L'arche de verdure Acte II, Acte V | Le bois ou La forêt Acte I, Acte III, Acte IV, Acte V | La rivière ou La source ou Le ruisseau ou La fontaine Acte I, Acte IV
+### Esquisse du croquis de la représentation des *Amours*.L'arche de verdure Acte II, Acte V | Le bois ou La forêt Acte I, Acte III, Acte IV, Acte V | La rivière ou La source ou Le ruisseau ou La fontaine Acte I, Acte IV
 
 La maison (le château) Acte IV | Les rochers et /ou La grotte Acte III
 
@@ -327,14 +327,14 @@ La maison (le château) Acte IV | Les rochers et /ou La grotte Acte III
 
 
 
-## La liste des accessoires
+## La liste des accessoires.
 
 Dans *Le Mémoire* on compte plusieurs listes d'accessoires pour la représentation des pastorales. Pour *l'Amaranthe*, les comédiens ont eu besoin « des dards, des Carquois, des Arcs, des flesches, des houllettes et deux Chappeaux de fleurs » [41] pour la mettre en scène. Pour *la Clorise*, les accessoires sont « un arbre, ou l'on faict feinte de graver des Vers, un poignard, des Rossignols, de la Ramée (…) » [42] Dans *La folie de Turlupin* [43] et l*'Astrée et Céladon* [44] il faut respectivement « un baston A picquer, des bœufs, deux Carquois, deux Arcs et une Calebasse, une petite bouteille, des dards, des houlettes, un baton a battre » et « un Mouton, deux petittes burettes, de terre, trois Chappeaux de fleurs, (…), des Arcs, des houllettes, des dards pour les bergers, et bergeres ».
 
 La démarche analytique qui est la nôtre nous autorise à formuler l'hypothèse selon laquelle des dards [45], des carquois, des arcs utilisés probablement par les personnages qui ont décidé de se battre en duel (Acte V, Scène 5, 6) [46], des houlettes, des chapeaux de fleurs et un poignard Alcandre en a probablement usé pour gravé les vers dans l'écorce (ActeV, Scène 2) avaient servi à la représentation des *Amours*.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il n'existe qu'une seule édition du *Palinice, Circeine et Florice, tragi-comédie tirée de l'Astrée de Mre Honoré d'Urfé par le sieur de R* exécutée en 1634 par les imprimeurs Jacques Bessin et Claude Griset pour le compte du libraire Antoine de Sommaville dont voici la description :
 
@@ -390,10 +390,10 @@ Nous avons conservé la ponctuation originale, sauf quand un changement s'imposa
  * – qu'on me perd (v. 1425)
 
 
-# PALINICE CIRCEINE. ET FLORICE. TRAGI-COMEDIE. Tirée de l'Astrée de Mre.Honoré d'Vrfé
+# PALINICE CIRCEINE. ET FLORICE. TRAGI-COMEDIE. Tirée de l'Astrée de Mre.Honoré d'Vrfé.
 
 
-## A MONSIEUR LE COMTE DE VIEULES
+## A MONSIEUR LE COMTE DE VIEULES.
 
 MONSIEUR, [47]
 
@@ -406,7 +406,7 @@ Vostre très humble, et très obeissant serviteur, DE R.
 LES AMOURS DE PALINICE, CIRCEINE ET FLORICE TRAGI-COMEDIE
 
 
-## ACTEURS
+## ACTEURS.
  – ALCANDRE
  – ARIMANT
  – CERINTE
@@ -417,10 +417,10 @@ LES AMOURS DE PALINICE, CIRCEINE ET FLORICE TRAGI-COMEDIE
  – SILEINE
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 FLORICE, ALCANDRE
 
 
@@ -590,7 +590,7 @@ Il est fort amoureux.
     ALCANDRE.
     Et de qui ?  
 
-    FLORICE
+    FLORICE.
         De moy-mesme  
 Mais il est importun⁎.  
 
@@ -644,7 +644,7 @@ Le feras-tu ma sœur ?
 Donnez nous le loisir de nous entretenir.  
 
 
-### SCEINE II
+### SCEINE II.
 CIRCEINE, FLORICE.
 
 
@@ -757,7 +757,7 @@ Adieu
         A quelque heure du jour.  
 
 
-### SCENE III
+### SCENE III.
 
     CLORIAN *Seul*.
 Amour que les mortels qui sont en ta puissance  
@@ -798,7 +798,7 @@ De perdre ce rival qui rompt nos doux accords,
 Ma peur peut tout sur elle, il faut qu'elle l'en presse.  
 
 
-### SCENE IIII
+### SCENE IIII.
 PALINICE, CLORIAN.
 
 
@@ -883,9 +883,9 @@ D'un Amant soupçonneux qui se plaint de son ombre,
 Et craint sans en avoir des ennemis sans nombre.  
 
 
-### SCENE V
+### SCENE V.
 
-    CIRCEINE  *Seule*.
+    CIRCEINE *Seule*.
 Que de diversitez travaillent [60] mes esprits,  
 Je laisse à tous momens le dessein que j'ay pris,  
 Je le reprens après, et le rejette encore,  
@@ -906,7 +906,7 @@ Mais Alcandre se vient promener en ces lieux,
 Feignons de nous vouloir destourner de ses yeux.  
 
 
-### SCENE VI
+### SCENE VI.
 ALCANDRE, CIRCEINE.
 
 
@@ -989,7 +989,7 @@ Ou véritable ou faux, si vous me voulez plaire,
 N'en parlons plus.  
 
 
-### SCENE VII
+### SCENE VII.
 PALINICE, CIRCEINE, ALCANDRE.
 
 
@@ -1086,17 +1086,17 @@ J'ayme mieux l'obliger⁎ que non pas luy déplaire.
 C'est m'obliger⁎, Circeine, et je recognoistray  
 Cette obligation⁎, de ce que je pourray.  
 
-    CIRCEINE  *Seule*.
+    CIRCEINE *Seule*.
 Pour ne les fascher point, il me faudra contraindre [71],  
 L'on vient à bout de tout pourveu qu'on sçache feindre.  
 
 
-## ACTE SECOND
+## ACTE SECOND.
 
 
-### SCENE I
+### SCENE I.
 
-    CERINTE *Seul.*
+    CERINTE *Seul.*.
 
 Divin sujet de mes douleurs  
 Belle cause de tous mes pleurs,  
@@ -1152,7 +1152,7 @@ Elle a l'esprit trop bon pour prendre en bonne part
 Sans quelqu'autre intérest les vœux⁎ de ce vieillard.  
 
 
-### SCENE II
+### SCENE II.
 FLORICE, CERINTE.
 
 
@@ -1251,7 +1251,7 @@ Mais ses dédains ne font que raviver ma flame,
 Elle se changera, souffrons, c'est une femme.  
 
 
-### SCENE III
+### SCENE III.
 
     ARIMANT *Seul*.
 Amour puissant demon, qui régis les mortels,  
@@ -1285,11 +1285,11 @@ Je sçay bien d'où luy vient la douleur qui le pique,
 Circeine depuis peu le voit bien froidement.  
 
 
-### SCENE IV
+### SCENE IV.
 ALCANDRE, ARIMANT.
 
 
-    ALCANDRE *voyant Arimant.*
+    ALCANDRE *voyant Arimant.*.
 Me voilà trop heureux, servons-nous d'Arimant,  
 Comme oncle il peut beaucoup sur ma chère maistresse⁎.  
 
@@ -1315,7 +1315,7 @@ Ah ! que vous m'obligez⁎ sans que je le mérite,
 Pour n'estre point ingrat, ma puissance est petite,  
 Mais ce que je pourray  
 
-    ARIMANT. 
+    ARIMANT.
         Vous le sçaurez après,  
 Dites moy seulement d'où naissent vos regrets,  
 Et quel nouveau sujet⁎ vous avez de vous plaindre.  
@@ -1362,7 +1362,7 @@ Selon vostre désir,
         Adieu c'est m'obliger⁎.  
 
 
-### SCENE V
+### SCENE V.
 SILEINE, PALINICE.
 
 
@@ -1431,7 +1431,7 @@ Ainsi nous n'avons rien à dire l'un de l'autre,
 Adieu, vous m'amusez [77] icy trop longuement,  
 J'ay donné rendés-vous à mon nouvel amant⁎.  
 
-    SILEINE  *Seul.*
+    SILEINE *Seul.*.
 Et puis asseurez-vous en ces ames légères,  
 Dont toutes les vertus sont d'estre mensongères,  
 Qui font profession d'avoir l'esprit moqueur,  
@@ -1442,10 +1442,10 @@ Ingrate je voy bien, mais je le voy trop tard,
 Que tes discours ne sont que feintes et que fard.  
 
 
-## ACTE TROISIEME
+## ACTE TROISIEME.
 
 
-### SCENE I
+### SCENE I.
 ARIMANT, CIRCEINE.
 
 
@@ -1695,7 +1695,7 @@ Sa passion discrète entièrement m'oblige⁎,
 Clorian que voicy m'importune et m'afflige.  
 
 
-### SCENE II
+### SCENE II.
 CLORIAN, CIRCEINE.
 
 
@@ -1725,17 +1725,17 @@ Ne fussent rien qu'un ombre [83], ou que vaines vapeurs :
 Mais je suis asseuré, qu'un autre amour vous touche,  
 Qu'Alcandre est dans le cœur, et moy dedans la bouche.  
 
-    CIRCEINE  *s'en allant*.
+    CIRCEINE *s'en allant*.
 Vous me piquez trop fort pour ne m'en ressentir  
 Je vous empescheray peut estre de mentir.  
 
-    CLORIAN *Seul.*
+    CLORIAN *Seul.*.
 Ah ! quelle ingratitude, après tant de services⁎  
 Que ce sexe s'emporte, aisément dans les vices :  
 Mais elle a laissé cheoir un de ses gands icy.  
 
 
-### SCENE III
+### SCENE III.
 SILEINE, CLORIAN.
 
 
@@ -1764,7 +1764,7 @@ Voy ce qu'en ta faveur, elle mesme a donné.
     SILEINE [84].
 O que je suis heureux,  
 
-    CLORIAN
+    CLORIAN.
         Lorsqu'elle a veu ta lettre  
 J'ay beaucoup travaillé devant que le remettre,  
 Mais touchée à la fin de te voir repetant,  
@@ -1878,10 +1878,10 @@ Laisse m'en le soucy⁎, fais les vers seulement,
 Je feray bien le reste assez subtilement.  
 
 
-## ACTE QUATRIESME
+## ACTE QUATRIESME.
 
 
-### SCENE I
+### SCENE I.
 CERINTE, ARIMANT.
 
 Sortant par divers endroits
@@ -1926,7 +1926,7 @@ Destournons par icy, j'y puis aller de mesme.
 Il s'en va, courons donc vers la beauté que j'aime.  
 
 
-### SCENE II
+### SCENE II.
 FLORICE, ARIMANT, CERINTE.
 
 
@@ -2094,7 +2094,7 @@ Qui rompant l'amitié gardée entre nos pères,
 Venez vous déclarer entre mes adversaires :  
 Mais enfin je pourrois la rompre comme vous.  
 
-    CERINTE *S'en allant.*
+    CERINTE *S'en allant.*.
 Qu'à cela prés, amour me fust un peu plus doux,  
 Et que vous fussiés d'âge à vous pouvoir défendre.  
 
@@ -2118,7 +2118,7 @@ Mais voicy Clorian découvrons luy l'affaire
 Désobligeons Alcandre, et tachons de luy plaire.  
 
 
-### SCENE III
+### SCENE III.
 CLORIAN, ARIMANT.
 
 
@@ -2209,7 +2209,7 @@ La finesse en amour est prise pour vertu,
 Tel a vaincu souvent qui n'a pas combatu.  
 
 
-### SCENE IIII
+### SCENE IIII.
 CIRCEINE, CLORIAN.
 
 
@@ -2243,7 +2243,7 @@ Estouffe ce qui peut long-temps entretenir,
 Devant que par la force  
 Ou comme entre ennemis on vienne à le finir.  
 
-    CLORIAN *l'arrestant.*
+    CLORIAN *l'arrestant.*.
 Je suis garde des ponts, vous devez le passage.  
 
     CIRCEINE.
@@ -2280,7 +2280,7 @@ Que vous ne pouvez pas le mespriser sans blasme.
 Alcandre, Clorian, ny mortel quel qu'il soit,  
 Ne sera plus oüy,  
 
-    CLORIAN *s'en allant.*
+    CLORIAN *s'en allant.*.
         Ma feinte la déçoit.  
 C'est assez laissons la descharger sa colère.  
 
@@ -2290,7 +2290,7 @@ Et je te feray voir avec ta vanité,
 Que ma lettre est l'effect d'une importunité.  
 
 
-### SCENE V
+### SCENE V.
 FLORICE, ARIMANT, CERINTE.
 
 
@@ -2398,12 +2398,12 @@ Cerinte dont l'amour est véritable et forte
 Doit estre désormais receu d'une autre sorte.  
 
 
-## ACTE CINQUIESME
+## ACTE CINQUIESME.
 
 
-### SCENE I
+### SCENE I.
 
-    ALCANDRE *Seul.*
+    ALCANDRE *Seul.*.
 Qu'on ne me parle plus de ces cruels tourments,  
 Que le demon des cœurs fait souffrir aux amants⁎,  
 Qu'on ne me parle plus des rigoureuses peines,  
@@ -2444,7 +2444,7 @@ Et pour l'amour de moy conservez cherement
 Les marques que j'y mets de mon contentement.  
 
 
-### SCENE II
+### SCENE II.
 CIRCEINE, ALCANDRE.
 
 
@@ -2509,7 +2509,7 @@ Attens
 Il se leve en disant cela le poignard à la main.
 
 
-    CIRCEINE  *l'arrestant*.
+    CIRCEINE *l'arrestant*.
         Vous n'estes pas Alcandre en bon estat,  
 Sans doute vous dormiez, et vostre fantaisie [98]  
 A jetté vostre esprit dans quelque frénésie,  
@@ -2629,7 +2629,7 @@ Et non pas vous mocquer de ma fidèle flame,
 Adieu cruelle, adieu, c'est par ce coup fatal,  
 Que Clorian ou moy nous verrons sans rival.  
 
-    CIRCEINE *seule.*
+    CIRCEINE *seule.*.
 Il me laisse en colére, Alcandre brave Alcandre,  
 Il est desja si loin qu'il ne me peut entendre,  
 Si ne le veux-je pas laisser dans ce soupçon,  
@@ -2638,7 +2638,7 @@ Clorian est l'auteur de cette tromperie,
 Et je me vangeray de sa supercherie.  
 
 
-### SCENE II
+### SCENE II.
 FLORICE, PALINICE.
 
 
@@ -2663,7 +2663,7 @@ Je le crois, et voudrois avoir veu cette belle,
 Pour en pouvoir sçavoir la verité par elle.  
 
 
-### SCENE III
+### SCENE III.
 CIRCEINE, FLORICE, PALINICE.
 
 
@@ -2677,7 +2677,7 @@ Je dois estre pourtant de sa flame asseurée.
 Allons donc la chercher, mais la voicy venir,  
 Qui seule dans ce lieu semble s'entretenir.  
 
-    PALINICE, *parlant à Circeine.*
+    PALINICE, *parlant à Circeine.*.
 Que vous vous espargnez d'une grande courvée [102],  
 Le bon-heur nous en veut de vous avoir trouvée.  
 
@@ -2736,7 +2736,7 @@ Et sans me dire mot a voulu me quitter,
 J'ay fait ce que j'ay peu taschant de l'arrester,  
 Mais je ne l'ay peu faire  
 
-    PALINICE *parlant à Florice, et s'en allant tous deux.*
+    PALINICE *parlant à Florice, et s'en allant tous deux.*.
         Allons belle compagne  
 Envoyer leurs amis par toute la campagne,  
 Ils se sont allez battre.  
@@ -2750,7 +2750,7 @@ C'est Cerinte et mon frere, il est vray ce sont eux.
 Quelque accident nouveau les assemble tous deux.  
 
 
-### SCENE IIII
+### SCENE IIII.
 SILEINE, CERINTE, CIRCEINE.
 
 
@@ -2798,13 +2798,13 @@ Ils ne sçauroient aller qu'à l'entour de ces lieux,
 Tournons de tous costez vostre oreille et vos yeux.  
 
 
-### SCENE V
+### SCENE V.
 ALCANDRE, CLORIAN, FLORICE, CIRCEINE, PALINICE, CERINTE, SILEINE
 
 ALCANDRE ET CLORIAN.
 
 
-    ALCANDRE. 
+    ALCANDRE.
 Puis que l'amour le veut : et qu'il est impossible  
 Que nous possédions d'eux ce miracle visible,  
 Et que l'on ne veut point à l'autre le céder,  
@@ -2870,7 +2870,7 @@ Madame asseurez-moy de jamais n'y penser.
 Je pardonne à tous deux, à la charge pourtant,  
 De ne penser jamais à m'en refaire autant.  
 
-    CERINTE. *parlant à Florice*
+    CERINTE. *parlant à Florice*.
 Belle dois je tousjours vivre sans espérance,  
 Et n'aurez vous pour moy que de l'indifférence ?  
 Ce vieillard qui n'a plus que la peau sur les os,  
@@ -2880,7 +2880,7 @@ Est-il assez puissant pour troubler mon repos ?
 Le voicy qui s'en vient tout prest à vous respondre.  
 
 
-### SCENE VI
+### SCENE VI.
 ARIMANT, SILEINE, PALINICE
 
 FLORICE, CIRCEINE,  ALCANDRE
@@ -3000,17 +3000,17 @@ Avecque son amour un généreux dessein,
 Son feu devant le vostre est de ma cognoissance  
 Le sien est desja vieux le vostre en sa naissance.  
 
-    ARIMANT.    *tout bas*
+    ARIMANT.    *tout bas*.
 Courage à mon parti l'amour la va ranger.  
 
-    CERINTE.    *tout bas*
+    CERINTE.    *tout bas*.
 Je voy bien que mon sort ne se peut pas changer,  
 Cette vielle [105] amitié prévaudra sur la mienne  
 Quoy que dans sa grandeur elle passe la sienne,  
 L'amour de ce vieux tronc pour quelque peu de bien  
 Sans aucune raison prevaudra sur le mien.  
 
-    FLORICE. *Continuant*
+    FLORICE. *Continuant*.
 Pardonnés Arimant à mon humeur cruelle  
 Si j'ay faict peu d'estat de vostre amour fidelle.  
 Puisque pour des raisons que je ne diray pas,  
@@ -3058,7 +3058,7 @@ Et que dés mon enfance il m'a beaucoup aymée,
 Qu'il a pris mille soins pour m'obliger à luy,  
 Que j'ay participé dans son cruel ennuy.  
 
-    ALCANDRE. *tout bas*
+    ALCANDRE. *tout bas*.
 Veux-je plus clairement entendre ma ruine,  
 Et l'arrest de ma mort par sa bouche divine ?  
 Non non, rompons icy les respects amoureux,  
@@ -3067,7 +3067,7 @@ Et faisons l'action d'un homme généreux.
     CIRCEINE.
 Mais,  
 
-    ALCANDRE. *tout bas*
+    ALCANDRE. *tout bas*.
         Ah ! ce mais ! remet toute mon espérance,  
 Et donne à mon esprit quelque peu d'asseurance.  
 
@@ -3078,7 +3078,7 @@ Avec tant de respect qu'il ne m'est pas possible
 De m'en ressouvenir qu'il ne me soit sensible,  
 Et pour luy monstrer  
 
-    CLORIAN. *tout bas*
+    CLORIAN. *tout bas*.
         O Dieux, quel changement !  
 Elle estime ma flame, et prend un autre amant⁎.  
 
@@ -3088,7 +3088,7 @@ Apres mon jugement quelque reste de flame,
 Et qu'il ait le dessein de tousjours m'obliger,  
 Qu'il aime Clorian.  
 
-    CLORIAN. *tout bas*
+    CLORIAN. *tout bas*.
         Mon soupçon est léger,  
 Elle va prononcer à son désadvantage.  
 
@@ -3126,7 +3126,7 @@ Et prendre désormais des mouvements meilleurs.
 Et moy me retirant dans une solitude,  
 Je veux rire à loisir de son ingratitude.  
 
-    CLORIAN. *s'en allant*
+    CLORIAN. *s'en allant*.
 Pour oublier du tout ces esprits inconstans,  
 Prenons pour médecins le dépit et le temps.  
 
@@ -3193,14 +3193,14 @@ De voir un tel succez à nos peines diverses.
 FIN
 
 
-# LexiqueAbord« Se dit de l'accés qu'on donne aux personnes qui ont à faire à nous. »V. 651, 1154 (Furetière).Acquerir« Se dit aussi, De toutes les choses honnestes qui se peuvent mettre au nombre des biens et des avantages. »V. 98 
+# Lexique.Abord« Se dit de l'accés qu'on donne aux personnes qui ont à faire à nous. »V. 651, 1154 (Furetière).Acquerir« Se dit aussi, De toutes les choses honnestes qui se peuvent mettre au nombre des biens et des avantages. »V. 98 
               (Académie française, 1718).Accident« Hasard, coup de fortune. »V. 846, 1282, 1458 (Furetière).Amant« Celuy qui aime d'une passion violente et amoureuse. »V. 143, 206, 213, 229, 238, 274, 310, 318, 362, 640, 794, 806, 869, 982, 1042, 1073, 1086, 1158, 1198, 1246, 1369, 1524, 1549, 1587 (Furetière).Apas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. En ce sens on a accourci le mot, et dit appas, au lieu d'appasts. »V. 221, 350, 424, 659, 731, 802, 962 (Furetière).Blanc« Qui est si vieux qu'il a les cheveux blancs. »V. 123 (Richelet).Constamment« D'une manière certaine et indubitable. »V. 48 (Furetière).Constant« Ce qui est certain de toute certitude. »V. 612, 670, 749, 1481« Se dit aussi de la dureté d'une chose. » (Furetière).Conter« Faire une narration, une claire déduction d'un fait, d'une histoire. »V. 1049 (Furetière).Décens« Ce qui est dans la bienséance. »V. 949 (Furetière).Déportemens« Conduite et maniere de vivre. »V. 805 (Furetière).Divorce« Se dit figurément en Morale de l'abandonnement qui se fait de toutes les choses où on avoit de l'attachement. »V. 403, 1119 (Furetière).Empire« Se dit figurément en Morale, de la domination, du pouvoir qu'on a sur quelque chose. »V. 69 (Furetière).Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. »V. 197, 298, 430, 700, 921, 998, 1193, 1365 (Furetière).Exercices« Occupation, travail ordinaire. »V. 335, 529, 645« Signifie aussi, Peine, travail, affliction. »« Au pluriel, se dit plus particulièrement de ce qui s'apprend dans les Académies d'Escuyers aux Gentilhommes, à monter à cheval, à danser, à faire des armes, à voltiger, tracer des fortifications, etc. » (Furetière).Fers« On appelle aussi absolument fers, les chaisnes, carcans et menottes qui servent à retenir les prisonniers et les esclaves. En ce sens il signifie figurément, Esclavage, et se dit particulièrement en matière d'amour. »V. 166, 207, 713, 1265 (Furetière).Flames« Il se dit communément de l'amour prophane. »V. 50, 93, 145, 184, 208, 247 (Furetière).Folie« Est aussi une passion dominante. »V. 159, 268, 1339 (Furetière).Fortune« Signifie quelquefois, Advantage. »V. 497 (Furetière).Gausseuse« Moqueuse, rieuse. »V. 146 (Richelet).Heur« Rencontre avantageuse. »V. 499, 501, 505, 1315 (Furetière).Importun« Qui est incommode, qui est à charge, qui apporte quelque ennuy, quelque fascherie. »V. 110, 295, 369, 498, 684, 788, 1092, 1429, 1451 (Furetière).Lieu« Se dit en particulier d'un endroit fixe et determiné qu'on veut marquer et distinguer des autres. »V. 15, 36 (Furetière).Louer« Donner des tesmoignages destiné au mérite, à la vertu. »V. 44 (Furetière).Maistresse« On le dit particulierement d'une fille qu'on recherche en mariage. »V. 558 (Furetière).Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour. »V. 37, 60, 202, 460, 482, 538 (Furetière).Obliger« Signifie plus generalement, Faire quelque faveur, civilité, courtoisie. »V. 95, 103, 182, 412, 413, 414, 565, 592, 705, 752, 756, 757, 777, 803, 847, 1074, 1306, 1587 (Furetière).Œil« Signifie quelquefois absolument une beauté. »V. 1200, 1225 (Furetière).Pampre« Feuilles de vignes qui tiennent à la branche, au sarment. Les Poëtes ont souvent dit que les Bacchantes s'en couronnoient, et enveloppoient leurs javelots de pampre. »V. 8 (Furetière).Repaitre (se)« Se nourrir de quelque chose. »V. 348 (Richelet).Repos« Se dit aussi d'une quiétude d'esprit et de corps qui les met hors de trouble, de crainte et de soins. »V. 133, 194, 201, 257 (Furetière).Rire (se)« Signifie Se mocquer de quelqu'un, le railler, ou le mespriser. »V. 145, 923 (Furetière).Saillies« Se dit figurément en choses spirituelles. Les beaux esprits ont quelquefois des saillies ingénieuses, qui leur font faire de belles tirades. »V. 1064, 1191, 1382 (Furetière).Seconder« Servir de second, et aider à celuy qui fait quelque action. »V. 105 (Furetière).Service« Se dit aussi des secours que les hommes se donnent les uns aux autres, soit par charité, ou par amitié. »V. 81, 211, 372, 423, 594, 771, 823, 1032, 1035 (Furetière).Servir« Se dit aussi de l'attachement qu'un homme a auprés d'une Dame, dont il tasche d'acquérir les bonnes graces. »V. 48, 83, 104, 124, 171, 406, 504, 810, 1420 (Furetière).Sexe« Absolument parlant, se dit des femmes. »V. 215, 1058, 1063, 1512 (Furetière).Soucy« Chagrin, inquiétude. »V. 56, 135, 556, 696, 826, 846, 901, 1013, 1340, 1388 (Furetière). Sousris« Ris modeste, petite apparence de joye, qui paroist sur le visage, et qu'il semble qu'on veuille retenir ou cacher. »V. 1201 (Furetière).Sujet« Qui est obligé par sa nature ou sa condition, ou par son devoir, à faire et à souffrir plusieurs choses. »V. 115, 382, 569, 1365 (Furetière).Superbe« Se dit de ce qui marque la magnificence, la somptuosité. »V. 4 (Furetière).Travaux« Signifie encore, Faire souffrir de la douleur. »V. 194« Se dit au pluriel des actions, de la vie d'une personne, et particulièrement des gens héroïques. »V. 112, 496, 528, 961 (Furetière).Traverser« Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement. »V. 262, 1070, 1145, 1602 (Furetière).Vœux« Au pluriel, Souhaits. »V. 464, 978, 1070 (Académie française, 1718).Vuider« Se dit figurément en choses morales, et signifie, Terminer, finir une affaire, un différend. »V. 1190, 1403 (Furetière).
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourcesLa Pratique du théâtre
+## Sources.La Pratique du théâtre
 Le Mémoire de Mahelot
 Tragicomédie Pastorale, ou les amours d'Astrée et de Céladon sont meslées à celles de Diane, de Silvandre et de Paris, avec les inconstances d'Hilas
 L'Aminte du Tasse, Tragi-comédie pastoralle accomodée au Théatre François
@@ -3209,33 +3209,33 @@ L'Astrée de messire Honoré d'Urfé,.... Concl. et dernière partie /, où, par
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots tant françois que modernes et les termes de toutes les sciences et les arts
 
 
 
-### Syntaxes, grammaires, ponctuationIntroduction à l'analyse des textes classiques
+### Syntaxes, grammaires, ponctuation.Introduction à l'analyse des textes classiques
 Syntaxe française du XVIIe siècle
 
 
 
-### Histoires du ThéâtreA History of French Dramatic Literature in the Seventeenth Century
+### Histoires du Théâtre.A History of French Dramatic Literature in the Seventeenth Century
 Histoire du Theatre François, depuis son origine jusqu'à présent, avec la vie des plus celebres Poëtes Dramatiques, un Catalogue exacte de leurs pièces, et des Notes Historiques et Critiques
 
 
 
-## Études
+## Études.
 
 
-### Ouvrages générauxFragments d'un discours amoureux : inédits
+### Ouvrages généraux.Fragments d'un discours amoureux : inédits
 Le Baroque
 
 
 
-### Études sur le théâtre du XVII*e* siècleLa Tragi-comédie de Corneille à Quinault
+### Études sur le théâtre du XVII*e* siècle.La Tragi-comédie de Corneille à Quinault
 Mode narratif, mode dramatique : l'adaptation théâtrale de fiction narrative au XVIIe siècle en France*e*
 Pierre Corneille et la Naissance du genre comique (1629-1636)
 La Représentation théâtrale en France au XVIIe siècle
@@ -3243,7 +3243,7 @@ Répertoire du théâtre français imprimé (1630-1660)
 
 
 
-### Études et articles sur la pastoraleDistances et convergence, les conditions, les moyens et le mode d'existence du théâtre de Rayssiguier
+### Études et articles sur la pastorale.Distances et convergence, les conditions, les moyens et le mode d'existence du théâtre de Rayssiguier
 La Pastorale dramatique en France à la fin du XVIe siècle et au début du XVIIe siècle
 L'Imaginaire pastoral du XVIIe siècle
 L'Astrée

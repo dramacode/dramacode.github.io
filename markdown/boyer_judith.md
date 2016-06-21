@@ -16,14 +16,14 @@ A PARIS, Chez MICHEL BRUNET, à l'entrée de la Grande Salle du Palais, au Mercu
 Édition critique établie par Thomas Marlat sous la direction de Georges Forestier (1998)
 
 
-# Avant-propos
+# Avant-propos.
 
 À la suite des travaux entrepris par nos prédécesseurs autour de l'abbé Claude Boyer et de son œuvre, il nous a semblé que l'on pouvait sans doute établir une interprétation de certains événements plus en faveur de notre auteur : c'est le cas de la réception de Judith.
 
 Par ailleurs, cette tragédie nous a paru exemplaire d'une part de la maîtrise dramatique de Boyer, en ce qu'elle est le couronnement de plus de cinquante ans de carrière, et d'autre part de la question du théâtre qui se posait de manière radicale en cette fin de siècle marquée par le jansénisme.
 
 
-# Biographie de Claude Boyer
+# Biographie de Claude Boyer.
 
 Claude Boyer naquit en 1618, pense-t-on, à Albi, en Gascogne, dans une bonne famille. C'est là aussi qu'il effectua ses études dans le collège tenu par les Jésuites. Il y acquit une profonde connaissance la tragédie grecque, de la littérature latine, et surtout de la rhétorique, où il brilla particulièrement. Son goût pour le théâtre se développa au fur et à mesure des représentations des troupes ambulantes, mais aussi des pièces montées par les élèves, que la pédagogie jésuite encourageait. Boyer, élève en rhétorique, y participa sans doute. C'est aussi ce qui l'a certainement rapproché de Michel Le Clerc, son camarade d'études, à tel point que tous deux écrivirent en même temps chacun une pièce sur un sujet antique assez voisin : Boyer composa la *Porcie romaine* tandis que Le Clerc écrivait la *Virginie romaine*.
 
@@ -152,7 +152,7 @@ Il y en a plus de cinquante ans que sa réputation est établie, et que les Thé
 Ces mots concluaient justement la longue carrière de cet « homme franc, cordial, bon critique sans être rigoureux, qui découvroit les beautés, excusoit les fautes, faisant grâce aux autres, et souffrant qu'on luy fit justice » [22].
 
 
-# Réception de Judith
+# Réception de Judith.
 
 La réception de Judith est à sa manière exemplaire du destin dramatique des pièces de Boyer. Promise comme *Agamemnon* à un long succès, *Judith* fut, selon la légende noire, brutalement écartée de la scène sans raison apparente.
 
@@ -233,15 +233,15 @@ Ce succès est aussi mentionné par l'abbé Genest :
 Tous ces témoignages plaident donc pour un succès honnête de *Judith*, fort éloigné du désastre invoqué par ses détracteurs. Lancaster y voit d'ailleurs l'origine de la création à la Comédie, quelques années plus tard, d'une autre pièce religieuse, *Gabinie. Judith*, dernière tragédie de cet auteur courageux, constitue un parfait résumé de la réception des œuvres de celui-ci : appréciée par les contemporains malgré l'acharnement de ses ennemis, la pièce devint un échec retentissant pour les siècles suivants, au mépris des faits.
 
 
-# Sources de Judith
+# Sources de Judith.
 
 La tragédie de Boyer s'inspire bien évidemment en premier lieu de la structure que lui propose le *Livre de Judith*, dans la Bible. Viennent s'y greffer des situations tirées du *Livre d'Esther*, des éléments empruntés à l'ouvrage de l'abbé Claude Fleury, *Les Mœurs des Israélites*, ainsi qu'une inspiration plus profane : la tragédie de *Scevole* de Du Ryer.
 
 
-# Des sources à la tragédie de Judith
+# Des sources à la tragédie de Judith.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 *L'entretien sur le Théâtre au sujet de Judith* fournit un résumé de la pièce dont la pertinence nous a conduit à le reproduire intégralement. Cléante, l'un des protagonistes du dialogue, présente la pièce à ses auditeurs :
 
@@ -283,7 +283,7 @@ Sc. 7 | Pour guérir Misael de sa passion, elle luy déclare qu'elle va rentrer
 
 
 
-## Construction de *Judith*
+## Construction de *Judith*.
 
 Le sujet de Judith avait semble-t-il été refusé par Racine, qui lui préféra celui d'Athalie : comme le remarque à juste titre Cléante dans l'*Entretien sur le Théâtre au sujet de Judith*, l'histoire de Judith est une
 
@@ -293,7 +293,7 @@ belle matière pour un Poëme épique, où l'on est quitte pour frapper d'admira
 De fait, la source biblique ne contient en soi aucun élément tragique : on y voit certes une action de caractère élevé, Judith sauvant la ville de Béthulie de la menace du général assyrien Holofernes, mais nulle place pour la crainte ou la pitié ; Judith est un personnage sans psychologie, sans doutes, dont le caractère implacable exclut toute pitié, puisqu'elle triomphe sans peine. Quant à Holofernes, son impiété ne saurait exciter la pitié au XVII*e* siècle. Il fallait redéfinir les personnages et l'intrigue, tout en demeurant fidèle au récit biblique. Boyer a donc puisé aux sources précédemment mentionnées pour épaissir son intrigue et la rendre plus conforme aux goûts du siècle.
 
 
-## Le *Scevole* de Du Ryer
+## Le *Scevole* de Du Ryer.
 
 Boyer était confronté à un problème de taille: comment rendre le personnage d'Holoferne, dont l'impiété lui garantissait l'hostilité du public, plus pathétique ? L'adjonction au récit biblique du personnage de Misaël aussi posait un problème : comment montrer le courage de ce personnage, de telle manière qu'il devienne l'un des héros, et non plus le caractère épisodique qu'il semblait destiné à être ?
 
@@ -315,7 +315,7 @@ Holoferne lui-même est humanisé par sa clémence première à l'égard de Misa
 En reprenant ces traits de *Scevole*, Boyer introduit dans *Judith* un caractère à la fois héroïque et galant, et développe par là le charme de la pièce auprès d'une large part de son auditoire s'il faut en croire la chronique, les femmes.
 
 
-## *Les Mœurs des Israëlites* de l'abbé Fleury
+## *Les Mœurs des Israëlites* de l'abbé Fleury.
 
 Ce caractère héroïque et galant ne devait cependant pas éclipser le fond de la pièce, qui est la tragédie biblique. On sait que Boyer a travaillé sur *Judith* avec l'aide de l'abbé Testu, académicien comme lui. Pour ne pas mécontenter les doctes et les dévots, autre part importante de son public, il fallait donner à Judith une couleur biblique qui rachèterait les petites entorses faites au récit biblique.
 
@@ -324,19 +324,19 @@ Il était paru en 1680 un livre de l'abbé Fleury intitulé *Les Mœurs des Isra
 Cette teinture biblique a sans doute contribué à rassurer une partie du public dévot et instruit qui reconnaissait dans certaines répliques de la pièce des traits qu'ils tenaient pour authentiquement bibliques.
 
 
-## Le *Livre d'Esther*
+## Le *Livre d'Esther*.
 
 L'emprunt que Boyer fait au personnage biblique d'Esther consiste principalement dans l'évanouissement de Judith au moment de sa présentation à Holoferne, comme Esther s'évanouit devant Assuérus.
 
 Contrairement à l'évanouissement d'Esther, celui-ci est feint, il vise à séduire Holoferne, à endormir sa méfiance pour mieux en triompher. Il contribue ainsi puissamment à la justification dramatique de la passion d'Holoferne pour Judith.
 
 
-# Analyse de Judith
+# Analyse de Judith.
 
 Plutôt que de détailler l'ensemble de la structure de *Judith*, il nous a semblé intéressant d'en relever les points essentiels, qui permettent de dégager l'originalité de la pièce.
 
 
-## L'admiration
+## L'admiration.
 
 Dans l'*Entretien sur le Théâtre*, Cléante, le thuriféraire de Racine, s'exprime ainsi sur la pertinence du choix du sujet de Judith :
 
@@ -424,7 +424,7 @@ Ce héros de ma façon sort un peu des règles de la Tragédie en ce qu'il ne ch
 Cette préface aurait pu s'appliquer à *Polyeucte*, car c'est dans cette pièce que l'admiration a été introduite comme ressort tragique: comme les héros de *Polyeucte* et de *Nicomède*, Judith n'est pas un personnage de l'antiquité victime du destin, mais une véritable héroïne, c'est à dire un prodige de volonté soutenu par la grâce, ou plutôt ici la force de Dieu, qui non seulement brave le destin, mais en triomphe.
 
 
-## L'épisode de Misaël
+## L'épisode de Misaël.
 
 C'est ici qu'intervient le rôle de l'épisode de Misaël : ce personnage, qui n'est pas présent dans la source, introduit dans le récit une dimension nouvelle.
 
@@ -457,7 +457,7 @@ On peut alors douter de l'affirmation des Frères Parfaict relayée par Lancaste
 Quoi qu'il en soit, on ne peut que constater la nécessité que Boyer a su conférer à son épisode.
 
 
-# Judith et la tragédie religieuse
+# Judith et la tragédie religieuse.
 
 À une époque où le rôle de l'Église est déterminant dans toute la vie sociale, la création de Judith sur la scène publique pose avec une acuité particulière le problème de la Tragédie religieuse.
 
@@ -471,7 +471,7 @@ Les partisans secrets des Spectacles, peu touchés des censures qu'on venait de 
 Si ce « on » désigne Bossuet, il éclaire alors Judith d'une manière particulière : la pièce est ainsi à la fois une défense du théâtre et une reconnaissance ambiguë de l'autorité de l'Église ici représentée par l'évêque de Maux : défense du théâtre en ce qu'elle affirme que « la Comédie doit se faire honneur à elle-même en faisant honneur à la Religion » [28], et par là Boyer sanctifie le profane, et d'autre part feinte soumission, car le problème du théâtre, et surtout des pièces religieuses, est beaucoup plus épineux que Boyer ne semble le dire. Il nous semble ici nécessaire d'effectuer une mise au point historique pour tenter d'expliquer ce paradoxe : l'Église semble plus favorable au théâtre profane, qu'elle combat cependant, qu'au théâtre religieux.
 
 
-## Attitude de l'Église face au théâtre religieux
+## Attitude de l'Église face au théâtre religieux.
 
 Comprendre l'attitude de l'Église à l'égard du théâtre n'est pas immédiat : il faut en effet voir ce qui motive ces choix incohérents en apparence : l'Église a soutenu le théâtre en encourageant les Mystères, puis les a proscrit.
 
@@ -482,7 +482,7 @@ Or, ces Mystères devinrent progressivement l'occasion de débordements hors du 
 Ce n'est donc pas le théâtre lui-même qui est visé, mais l'irrespect de la Religion qui peut s'y trouver. C'est pour cette raison que les confrères de la Passion, malgré leur privilège, durent renoncer à jouer les Mystères à la suite de cet arrêté et louer l'autel de Bourgogne à une troupe de théâtre profane qui jouait les pièces de Hardy, alors même qu'ils conservaient le privilège.
 
 
-## Explication de cette attitude
+## Explication de cette attitude.
 
 La clef nécessaire pour comprendre cette attitude de l'Église catholique romaine – qu'il convient de distinguer de l'Église de France, nous y reviendrons – se trouve dans la *Somme théologique* de saint Thomas d'Aquin. Dans Ia, IIae, Q 167-168, intitulée « Le péché par excès de jeu » [30], le Docteur Commun explore la question de la légitimité du jeu, avec de claires références au jeu dramatique. Il est important de noter que cet article appartient à un chapitre qui traite de la tempérance. Saint Thomas y reprend les opinions formulées par les Pères de l'Église qui l'ont précédé, et par celui qu'il appelle le Philosophe, c'est-à-dire Aristote.
 
@@ -523,7 +523,7 @@ Un autre signe de cette bienveillance de l'Église pour le théâtre se trouve d
 Le jeu est ainsi légitimé (la section suivante s'intitule « le péché par défaut de jeu » ) lorsqu'il reste dans les limites indiquées plus haut.
 
 
-## Le théâtre et la pédagogie jésuite
+## Le théâtre et la pédagogie jésuite.
 
 Les jésuites ont appliqué avec persévérance cette réflexion sur le jeu dans tout le développement de leur pédagogie. Il nous a semblé pertinent de rapprocher cette analyse de l'histoire de la *Judith* de l'abbé Boyer: en effet, sans être membre de la Compagnie, Boyer avait passé toute sa scolarité dans le collège de sa ville natale tenu par les jésuites. Etant de plus élève en classe de rhétorique, il avait sans doute participé à ces représentations organisées par les pères.
 
@@ -537,7 +537,7 @@ Les Jésuites formèrent donc de nombreuses générations d'élèves avec l'idé
 Mais les méthodes de la Compagnie de Jésus étaient en contradiction avec l'attitude de l'Église de France à l'égard du théâtre durant le XVII*e* siècle : celle-ci en effet fort hostile à la représentation théâtrale qui était à ses yeux intrinsèquement perverse. Or, le statut des Jésuites les faisait dépendre non de leur évêque, mais directement du Pape, par l'intermédiaire de leur préfet général nommé par celui-ci. Aussi, leurs collèges ne furent que peu touchés par la tourmente janséniste, et plus généralement augustinienne, qui frappa le XVII*e*.
 
 
-## L'augustinisme et le théâtre
+## L'augustinisme et le théâtre.
 
 N'oublions pas tout d'abord que l'hérésie janséniste est une radicalisation de la doctrine augustinienne, comme le montre le titre d'*Augustinus* de l'œuvre de l'évêque Jansénius où sont exposés les dix points qui lui valurent l'excommunication. Par ailleurs, Port-Royal n'était pas le seul lieu acquis à cette interprétation de saint Augustin : les Oratoriens, dont le Cardinal de Bérulle, appartenaient à la même sensibilité.
 
@@ -558,7 +558,7 @@ Et certaines des objections reçues par Boyer étaient de la même nature, ainsi
 Elle réussit sans doute, puisque Lancaster rapporte que quelques années plus tard les comédiens ne craignirent pas de jouer une autre pièce biblique, Gabinie.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il existe deux éditions de *Judith*, exécutées en 1695 par l'imprimeur Jean Baptiste Coignard et le libraire Michel Brunet. Les variations de l'une à l'autre ne portent que sur des différences d'orthographe et de ponctuation. Elles sont toutes signalées dans les notes, sauf précision contraire. Grâce à la correction de nombreuses coquilles d'une édition sur l'autre, nous avons pu établir laquelle était postérieure à l'autre, malgré la similitude des dates d'achevé d'imprimer. C'est donc la seconde édition qui sert de référence à notre travail. Par convention, on notera *J1* la première édition B.N. : Yth 9835 ; Arsenal Rf 5653, et *J2* la seconde B.N. : Yth 9836 ; Arsenal Rf 5654. En voici la description :
 
@@ -586,7 +586,7 @@ Pour l'établissement du texte, nous avons suivi la leçon de la seconde éditio
 # JUDITH TRAGEDIE.
 
 
-## PREFACE
+## PREFACE.
 
 C'est une erreur qui a infecté beaucoup d'esprits, qu'il étoit presque impossible d'accommoder heureusement au Theatre les Sujets qui sont tirez de l'Ecriture Sainte, et de l'Histoire Chrétienne. Indigné contre une opinion si fausse et si pernicieuse, je crus d'abord qu'elle n'étoit fondée que sur la prévention qui n'examine rien, et dont la force impérieuse entraîne ordinairement la multitude ; mais aprés avoir creusé jusques dans la source de cette erreur, je vis qu'elle venait de l'ignorance de l'art, de la foiblesse du genie, de la sterilité des inventions, et fur tout du peu de gout et de sensibilité qu'on a pour les choses de la Religion [33].
 
@@ -619,30 +619,30 @@ La Scene est à Betulie et au Camp des Assyriens.
 
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 JUDITH TRAGÉDIE
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
-    OZIAS *parlant au Choeur des Betuliens*
+    OZIAS *parlant au Choeur des Betuliens*.
 Peuples impatients⁎ étouffez ce murmure :  
 Quelques maux, quelque soif que Betulie endure,  
 Soumettez-vous toujours aux decrets éternels,  
 Et soyez malheureux sans être criminels.  
 Retirez-vous.  
 
-    UN BETULIEN
+    UN BETULIEN.
         Craignez que ces peuples rebelles...  
 
-    OZIAS
+    OZIAS.
 Ne m'importunez plus par des plaintes nouvelles. [36]  
 
-    UN BETULIEN
+    UN BETULIEN.
 Holoferne a par tout semé tant de terreur...  
 
-    OZIAS
+    OZIAS.
 Je crains vos lâchetez, et non pas sa fureur⁎.  
 Avant que de nous rendre, à force de victimes  
 Faisons cesser enfin la peine [37] de nos crimes ;  
@@ -651,7 +651,7 @@ Jusques-là qu'il resiste à nos fiers⁎ ennemis.
 Plus de replique ; allez, que son obeïssance  
 Fasse un dernier effort sur son impatience⁎.  
 
-    UN BETULIEN
+    UN BETULIEN.
 Mais instruit⁎ de nos maux et si longs et si grands,  
 Quel tems demandez-vous à des Peuples mourans ?  
 Est-ce un ordre à donner ? est-ce un conseil à suivre ?  
@@ -663,7 +663,7 @@ Nos femmes, nos enfants [39] par le fer, par la flâme,
 Plûtôt que de les voir expirer dans nos bras  
 Par une douleur lente, et par un long trépas. [40]  
 
-    OZIAS
+    OZIAS.
 Malgré leur desespoir n'en puis-je pas attendre  
 Le delai de cinq jours avant que de se rendre ?  
 Mille maux ajoûtez aux maux qu'ils ont soufferts  
@@ -681,55 +681,55 @@ La modeste⁎ Judith dément son caractere.
 Je l'ai fait avertir, elle m'a fait sçavoir  
 Qu'elle seroit bien-tôt en état de me voir. [45]  
 
-    UN BETULIEN
+    UN BETULIEN.
 Cet ordre me surprend, et c'est vous faire injure.  
 
-    OZIAS
+    OZIAS.
 Je me plains encor plus du Peuple qui murmure,  
 Faites ce que j'ai dit.  
 
 
-### SCENE II
+### SCENE II.
 
-    OZIAS *seul*
+    OZIAS *seul*.
         Je brûle de sçavoir  
 Par quel motif Judith usurpe mon pouvoir ;  
 Et ne pouvant douter de sa sagesse extréme,  
 Je ne puis retrouver Judith en elle-même.  
 
 
-### SCENE III
+### SCENE III.
 OZIAS, UN BETULIEN
 
 
-    OZIAS
+    OZIAS.
 Pourquoy ce prompt retour ?  
 
-    UN BETULIEN
+    UN BETULIEN.
         Je reviens étonné⁎  
 De voir par des soldats Achior emmené :  
 Il vous cherche.  
 
-    OZIAS
+    OZIAS.
         Achior ! lui chef des Ammonites,  
 Lui qu'on pouvoit compter entre nos Proselites,  
 Et qui fut de nos loix secret observateur ? [46]  
 Un si fameux guerrier trahy par son malheur  
 A la garde du camp s'est-il laissé surprendre ?  
 
-    UN BETULIEN
+    UN BETULIEN.
 Le voicy.  
 
 
-### SCENE IV
+### SCENE IV.
 OZIAS, ACHIOR
 
 
-    OZIAS
+    OZIAS.
         Quel malheur que je ne puis comprendre,  
 Ou plutôt quel bonheur⁎ vous conduit en ces lieux ?  
 
-    ACHIOR
+    ACHIOR.
 Le couroux d'Holoferne, un malheur glorieux⁎.  
 Chef d'un Peuple idolâtre, et né pour le conduire,  
 Par ce commandement m'étant laissé seduire⁎,  
@@ -760,14 +760,14 @@ Et comme il ne croit pas sa victoire douteuse,
 Il m'envoie en ces lieux, plein de l'espoir cruel  
 De me faire perir en perdant Israël.  
 
-    OZIAS
+    OZIAS.
 Ainsi plein d'une fiere⁎ et folle confiance  
 Il vous laisse la vie, et suspend sa vengeance ;  
 Et pour servir⁎ sa gloire⁎ autant que son couroux,  
 Il vous envoye ici pour vous perdre avec nous.  
 Quel orgueil !  
 
-    ACHIOR
+    ACHIOR.
         Cet orgueil se nourrit et s'augmente  
 Au milieu d'une Cour superbe⁎ et triomphante,  
 Où sa gloire⁎ est toujours presente à ses regards.  
@@ -779,15 +779,15 @@ Attachez à ses yeux, attentifs à sa voix,
 Et pour mieux l'ébloüir il voit en sa presence  
 Regner l'étonnement⁎, la terreur, le silence.  
 
-    OZIAS
+    OZIAS.
 C'est ainsi qu'enyvré de gloire⁎ et de grandeur  
 Il s'ôte et nous envoye un Chef plein de valeur.  
 
-    ACHIOR
+    ACHIOR.
 Je rends grace à sa haïne et benis ma disgrace,  
 Quand j'attends avec vous le coup qui nous menace.  
 
-    OZIAS
+    OZIAS.
 Mais ce qui rend ce coup plus sensible aux Hebreux,  
 C'est que nous ignorons par quel sort malheureux,  
 Par quels crimes nouveaux⁎, par quelle ingratitude,  
@@ -821,7 +821,7 @@ Et des cris des enfans fatigué l'Eternel,
 Par un zele⁎ importun il combat sa colere,  
 L'Oracle est inflexible et s'obstine à se taire.  
 
-    ACHIOR
+    ACHIOR.
 Ah ! que vous me frappez ! ce silence est affreux⁎. [61]  
 Je ne m'étonne⁎ plus, si contre les Hebreux  
 Nous voions aujourd'hui le grand Dieu des vengeances  
@@ -843,41 +843,41 @@ Contre nos ennemis conduire les Hebreux.
 Quand Holoferne croit nôtre perte infaillible,  
 Souffrez qu'armez tous deux de ce zele⁎ invincible...  
 
-    OZIAS
+    OZIAS.
 J'attends ici Judith, quoi qu'il me soit permis  
 D'accepter un secours contre nos ennemis,  
 Obtenez son aveu⁎ ; ce discours vous étonne⁎.  
 
-    ACHIOR
+    ACHIOR.
 Et par quel droit Judith...  
 
-    OZIAS
+    OZIAS.
         Judith commande, ordonne,  
 Je me rens auprés d'elle et je commence à voir  
 Jusqu'où le Ciel étend sa gloire⁎ et son pouvoir.  
 
-    ACHIOR
+    ACHIOR.
 Vous pouvez tout ici. Par quel pouvoir supréme  
 Se met-elle au dessus de vous et d'elle-même [66] ?  
 
-    OZIAS
+    OZIAS.
 La vertu⁎ de Judith, un nom si respecté  
 M'ont fait tout oublier, et rang et dignité ;  
 Et je sens malgré moy, lorsque sa voix m'appelle,  
 Certain charme⁎ secret qui m'entraîne vers elle. [67]  
 
-    ACHIOR
+    ACHIOR.
 Plein du bruit⁎ de son nom vous respectez ses loix.  
 
-    OZIAS
+    OZIAS.
 Je respecte le Ciel qui parle par sa voix,  
 Et qui fait de Judith dans sa sainte retraite,  
 Quand l'Oracle se taît, son unique interprete.  
 
-    ACHIOR
+    ACHIOR.
 Vous flatez⁎ son orgueil.  
 
-    OZIAS
+    OZIAS.
         Etranger en ces lieux  
 Donnez-vous le loisir de la connoître mieux.  
 Vous la verrez modeste⁎, humble dans l'abondance,  
@@ -891,20 +891,20 @@ C'est un ordre du Ciel, Judith sçait son devoir.
 Elle vient.  
 
 
-### SCENE V [68]
+### SCENE V [68].
 JUDITH, OZIAS, ACHIOR, ABRA
 
 
-    OZIAS
+    OZIAS.
         Voyez-la sans art⁎ et sans parure,  
 Se bornant sagement aux soins de la Nature,  
 Simple, et qui toutefois fait paroître à nos yeux  
 Sur son auguste front un air imperieux.  
 
-    ACHIOR
+    ACHIOR.
 Mon erreur se dissipe à sa premiere vûë.  
 
-    JUDITH
+    JUDITH.
 Ozias, vous m'avez trop long-tems attenduë.  
 Sur l'ordre surprenant que le Ciel m'a dicté,  
 J'ai long-temps combatu mon incredulité ;  
@@ -915,10 +915,10 @@ Mais quelque ardent que soit ce desir curieux, [70]
 Il faut que pour remplir le devoir qui me presse,  
 Au Prince des Hebreux tout mon discours s'adresse.  
 
-    ACHIOR
+    ACHIOR.
 Si ma presence...  
 
-    JUDITH
+    JUDITH.
         Non. Il n'est rien entre nous  
 que ne puisse écouter un homme comme vous.  
 à Ozias
@@ -948,13 +948,13 @@ Songeons que nos malheurs sont moindres que nos crimes,
 Et toûjours dans nos maux, tranquilles et constans  
 Laissons-en au Seigneur la mesure et le temps.  
 
-    OZIAS
+    OZIAS.
 Vos paroles font voir que la Sagesse même  
 Que Dieu que vous craignez , Judith, et qui vous aime,  
 Vient de vous inspirer ces saintes veritez,  
 Votre destin est grand, et vous le meritez.  
 
-    JUDITH
+    JUDITH.
 Mon merite, Ozias, est tout dans ma foiblesse,  
 Quand la main du Tres-haut releve ma bassesse ,  
 C'est pour mieux rehausser sa gloire⁎ et sa grandeur,  
@@ -965,7 +965,7 @@ Je voy que l'un et l'autre interdit, incertain,
 Ne pouvant deviner cet étrange dessein  
 Réve profondement sur cet affreux⁎ mystere.  
 
-    OZIAS
+    OZIAS.
 Ce que j'entens m'étonne⁎ et me force à me taire ;  
 Non que ma foy timide⁎ en ces obscuritez  
 Se refuse au secours que vous nous promettez.  
@@ -977,7 +977,7 @@ Des plus rares vertus⁎ le Ciel vous a comblée ;
 Souffrez ces veritez, et soyez moins troublée ;  
 La modeste⁎ Judith doit enfin avouër... [78]  
 
-    JUDITH
+    JUDITH.
 C'est perdre trop de temps à m'entendre louër, [79]  
 Israël a besoin d'une main secourable,  
 Je l'entens qui gemit sous le poids qui l'accable [80]  
@@ -985,31 +985,31 @@ Ne me demandez point par un zele⁎ indiscret
 Quel est ce grand secours ; [81] c'est un profond secret,  
 Je dois vous le cacher, et le Ciel me l'ordonne.  
 
-    OZIAS
+    OZIAS.
 Cet ordre est-il pour nous ?  
 
-    JUDITH
+    JUDITH.
         Il n'excepte personne.  
 
-    OZIAS
+    OZIAS.
 Mais contre l'ennemi ce coup qu'on doit tenter,  
 Ce dessein étonnant⁎, qui doit l'executer ?  
 
-    JUDITH
+    JUDITH.
 Moy.  
 
-    OZIAS
+    OZIAS.
     Vous !  
 
-    JUDITH
+    JUDITH.
         Plus l'entreprise est hardie et nouvelle⁎,  
 Plus ma foy s'affermit quand ma raison chancelle. [82]  
 
-    ACHIOR
+    ACHIOR.
 Quoy ! Judith, une femme, elle seule à nos yeux  
 Ose tenter sans nous cet effort glorieux⁎ !  
 
-    JUDITH
+    JUDITH.
 Nul autre n'aura part à ce fameux ouvrage ;  
 Achior, je ne puis en dire davantage ;  
 à Ozias
@@ -1018,11 +1018,11 @@ Vous, allez rasseurer un Peuple plein d'effroy ;
 Et du reste, Ozias, reposez-vous sur moi.   
 
 
-### SCENE VI [83]
+### SCENE VI [83].
 OZIAS, ACHIOR
 
 
-    ACHIOR
+    ACHIOR.
 Quel langage, Ozias ! Il s'agit de la gloire⁎,  
 Du salut d'Israël, d'une grande victoire ;  
 Judith vous en répond. J'admire⁎ sa fierté⁎ ;  
@@ -1033,7 +1033,7 @@ Judith se promet-elle un si rare bonheur⁎ ?
 Dieu voudra-t-il l'armer de son foudre [84] vengeur,  
 Ou fera-t-il marcher la terreur devant elle ?  
 
-    OZIAS
+    OZIAS.
 Laissons au Ciel le soin de venger sa querelle⁎,  
 Et n'examinons point quels secours, quels ressorts  
 Sa colere voudra tirer de ses tresors.  
@@ -1041,7 +1041,7 @@ Bien loin que dans un sexe impuissant et timide⁎
 Je condamne en Judith une audace intrepide,  
 J'en prends pour la victoire un presage certain.  
 
-    ACHIOR
+    ACHIOR.
 Respectons dans Judith l'Oracle souverain.  
 Cependant quel [85] que soit un espoir si sublime,  
 Rien ne peut arrester le zele⁎ qui m'anime,  
@@ -1052,27 +1052,27 @@ Je vais de Misael découvrir la retraite,
 Exciter son courage, et charmer⁎ son dépit  
 Par tout ce qu'on attend de l'illustre⁎ Judith.  
 
-    OZIAS [86]
+    OZIAS [86].
 J'attens tout de Judith, mais le Peuple indocile  
 Ne prenant pas sur elle un espoir bien tranquile :  
 Je vais par vôtre exemple et par vôtre valeur  
 Appaiser son murmure, et calmer sa frayeur.  < Fin du premier Acte > 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ACHIOR, MISAEL
 
 
-    ACHIOR
+    ACHIOR.
 Quoy vous me prevenez [87] ! ma tendre inquietude⁎  
 Cherchoit à vous tirer de vôtre solitude,  
 Et vous, cher Misaël, par un prompt changement  
 Vous venez me chercher avec empressement  
 
-    MISAEL
+    MISAEL.
 Au bruit⁎ de vôtre nom, une allegresse extréme  
 Dissipe mes ennuis [88], et me rend à moy-même.  
 C'étoit peu du plaisir de vous voir en ces lieux ;  
@@ -1081,7 +1081,7 @@ Même aux yeux d'Holoferne et d'un camp infidelle
 Vous a fait d'Israël soûtenir la querelle⁎ :  
 Ainsi d'un culte impie illustre⁎ deserteur...  
 
-    ACHIOR
+    ACHIOR.
 Ah ! ne m'imputez point cette sainte ferveur.  
 Si vous voyez qu'enfin aprés un long silence  
 Elle brave Holoferne et parle en sa presence,  
@@ -1090,43 +1090,43 @@ Le plus foible mortel à lui préter sa voix,
 Et qui répand dans l'ame ignorante et grossiere,  
 Avec un zele⁎ ardent un thresor de lumiere.  
 
-    MISAEL
+    MISAEL.
 Ce que vous avez fait en faveur d'Israël,  
 Jette sur vôtre nom un éclat⁎ immortel.  
 
-    ACHIOR
+    ACHIOR.
 Si vous mettez si haut le zele⁎ qui m'enflâme,  
 Admirez⁎ encor plus le zele⁎ d'une femme :  
 Judith va triompher de tous nos Ennemis.  
 
-    MISAEL
+    MISAEL.
 Judith ? et quel secours...  
 
-    ACHIOR
+    ACHIOR.
         Judith nous l'a promis.  
 
-    MISAEL
+    MISAEL.
 Sur la foi de Judith, sur cet espoir frivole.  
 Quel gage , quel garand...  
 
-    ACHIOR
+    ACHIOR.
         Sa vertu⁎, sa parole.  
 En faut-il davantage ? ici tout retentit  
 Du miracle étonnant⁎ qu'on attend de Judith.  
 Quel trouble, Misael...  
 
-    MISAEL
+    MISAEL.
         Ah ! si j'ose vous croire,  
 Achior, je suis presque affligé de sa gloire⁎.  
 
-    ACHIOR
+    ACHIOR.
 Haïssez-vous Judith avec tant de fureur⁎ ?  
 J'ai par des bruits⁎ confus appris vôtre malheur :  
 Le refus de Judith est un affront sensible ;  
 Mais d'un pareil refus l'excuse étoit plausible.  
 Consacrée au Seigneur, pouvoit-elle...  
 
-    MISAEL
+    MISAEL.
         Ecoutez.  
 Le Ciel pourvût Judith de toutes les beautez,  
 Manassés eut pour elle une tendresse extrême ;  
@@ -1149,7 +1149,7 @@ Qui puisse reparer la perte qu'elle a faite,
 Elle se fait chez elle une austere retraite ;  
 Et moy desesperé, loin du monde et du bruit⁎...  
 
-    ACHIOR
+    ACHIOR.
 J'ai plaint le triste état où vous étes reduit,  
 Et ma tendre amitié justement indignée,  
 Loin des yeux de Judith ne l'a point épargnée ;  
@@ -1160,49 +1160,49 @@ J'ai pris de son merite une trop haute idée,
 Pour croire son orgueil injuste et criminel,  
 Quand elle se refuse aux soupirs d'un mortel.  
 
-    MISAEL
+    MISAEL.
 Achior, rien ne peut consoler ma tendresse ;  
 La perte que je fais me revenant sans cesse...  
 
-    ACHIOR
+    ACHIOR.
 Mais enfin, c'est trop loin pousser vôtre douleur  
 Quand chacun doit ici faire agir sa valeur,  
 Dans un honteux repos la vôtre ensevelie,  
 Se refuse au secours qu'on doit à Betulie.  
 
-    MISAEL
+    MISAEL.
 Dans l'état où je suis, Achior, je me voy  
 Si plein de ma douleur, si peu maître de moy...  
 
 
-### SCENE II
+### SCENE II.
 ABRA, ACHIOR, MISAEL
 
 
-    ABRA
+    ABRA.
 Ah Misael !  
 
-    MISAEL
+    MISAEL.
         Parlez, qu'avez vous à nous dire ?  
 
-    ABRA
+    ABRA.
 Pour parler sans témoins, faites...  
 
-    ACHIOR
+    ACHIOR.
         Je me retire.  
 
-    MISAEL
+    MISAEL.
 Ne vous éloignez pas.  
 
 
-### SCENE III [89]
+### SCENE III [89].
 ABRA, MISAEL
 
 
-    MISAEL 
+    MISAEL.
         Quel est ce desespoir ?  
 
-    ABRA
+    ABRA.
 Vous pourrai-je exprimer ce que je viens de voir ?  
 Voyez en quel estat je m'offre à votre vûë,  
 Toujours prés de Judith modeste⁎ et retenuë,  
@@ -1210,19 +1210,19 @@ Par son ordre j'ay pris ces riches vestemens,
 Jugez par là, jugez quels sont ses sentimens.  
 Est-ce une illusion dont l'honneur m'épouvante ?  
 
-    MISAEL
+    MISAEL.
 Ne laissez plus mon ame incertaine et tremblante.  
 
-    ABRA
+    ABRA.
 Cette sage Judith, et sur qui l'Eternel  
 Sembloit se reposer du salut d'Israël,  
 Passant subitement dans un desordre extrême...  
 Non ce n'est plus Judith, ce n'est plus elle-même.  
 
-    MISAEL
+    MISAEL.
 Que me voulez-vous dire ? achevez promptement.  
 
-    ABRA
+    ABRA.
 Helas ! le croirez-vous ? quel affreux⁎ changement !  
 Vous sçavez que Judith du monde separée,  
 Et que d'un feu si beau vous avez honorée,  
@@ -1245,7 +1245,7 @@ Demander des regards plus hardis, plus funestes,
 Des regards dont l'éclat allarme la pudeur,  
 Et porte le desordre et le feu dans le cœur.  
 
-    MISAEL *transporté de joie*
+    MISAEL *transporté de joie*.
 Qu'entens-je ? quoi Judith modeste⁎, humiliée,  
 Relevant sa beauté qu'elle avoit oubliée [91]  
 Par de nouveaux⁎ attraits se plaît à l'augmenter !  
@@ -1254,18 +1254,18 @@ Quand je la voy sortir d'une retraite austere,
 Et reprendre les soins et la gloire⁎ de plaire,  
 Qu'elle revient au monde y choisir un Epoux.  
 
-    ABRA
+    ABRA.
 Je l'ai crû, Misael, et j'ai parlé pour vous.  
 
-    MISAEL
+    MISAEL.
 Je puis donc esperer...  
 
-    ABRA
+    ABRA.
         Hé [92] quelle [93] est ta pensée ?  
 M'a-t-elle dit, croirai-je une ardeur insensée ?  
 Le salut des Hebreux occupe tout mon cœur.  
 
-    MISAEL
+    MISAEL.
 Je comprens son dessein et je voi mon erreur ; [94]  
 Je voi bien que sçachant le pouvoir de ses charmes⁎,  
 Elle veut obtenir le succés de nos armes,  
@@ -1278,18 +1278,18 @@ Holoferne en son Camp n'est pas en sureté. [95]
 J'oseray tout pour perdre un Tyran infidelle :  
 Si c'est là son dessein que ne s'explique-t-elle ?  
 
-    ABRA
+    ABRA.
 Elle a d'autres desseins qu'elle n'explique pas.  
 Imitez le grand Prêtre, imitez Ozias :  
 Tous deux d'un grand projet qui semble temeraire,  
 Adorent⁎ le secret, respectent le mystere.  
 
-    MISAEL
+    MISAEL.
 Tous ces empressemens qu'elle a pour sa beauté  
 Témoins de son desordre et de sa vanité,  
 Jettent dans mon esprit une jalouse rage.  
 
-    ABRA
+    ABRA.
 Ne poussez pas si loin un soupçon qui l'outrage ;  
 Pour juger de Judith, jugez-en comme moi ;  
 Son changement me comble et de trouble et d'effroy.  
@@ -1301,38 +1301,38 @@ D'un projet étonnant⁎ me donne une autre idée.
 Et si d'un noir soupçon votre ame est possedée,  
 Dés que vous la verrez, condamnant votre erreur...  
 
-    MISAEL 
+    MISAEL.
 Ah ! plûtost vous verrez redoubler ma fureur⁎ ;  
 Et loin de m'ébloüir par cette vaine pompe,  
 Par ce brillant dehors qui vous charme et vous trompe,  
 De mon juste dépit tout mon cœur occupé...  
 
 
-### SCENE IV
+### SCENE IV.
 JUDITH, MISAEL, ABRA
 
 
-    MISAEL *continuë*
+    MISAEL *continuë*.
 Je la voy. De quel trait son abord m'a frapé !  
 Vous me le disiez bien que ce n'est que loin d'elle...  
 Non, Abra, ce n'est point une beauté mortelle.  
 Permettez.  
 
-    JUDITH
+    JUDITH.
     Levez-vous, Misael.  
 
-    MISAEL
+    MISAEL.
         Laissez-moy  
 A ces divins appas rendre ce que je doy.  
 C'est un present du Ciel qu'en ces lieux il envoye  
 Pour remplir les Hebreux d'esperance et de joye.  
 Je ne puis soûtenir cét amas⁎ de beautez.  
 
-    JUDITH
+    JUDITH.
 Sous quels ornemens fragiles, empruntez, [96]  
 Me méconnoissez-vous ? Je suis toujours la même.  
 
-    MISAEL
+    MISAEL.
 Si c'est cette Judith que j'aimois et que j'aime,  
 Par quel sort rigoureux de mon bonheur jaloux  
 N'ay-je pû succeder à son illustre⁎ Epoux ?  
@@ -1341,7 +1341,7 @@ Ce qu'à peine je crois et que je vois ensemble ;
 J'ay dû les obtenir, la coutume, la loy,  
 Le sang et l'amitié tout vous parloit pour moi.  
 
-    JUDITH
+    JUDITH.
 Et pour dire encor plus, vertu⁎, zele⁎, merite,  
 Tout ce qu'on peut louer dans un Israëlite,  
 Foy, constance, valeur, je les trouvois en vous :  
@@ -1350,7 +1350,7 @@ Si d'un voeu solennel la chaine inviolable
 Ne m'avoit déjà fait un Epoux adorable⁎,  
 Un Epoux éternel et jaloux⁎ de ses droits.  
 
-    MISAEL
+    MISAEL.
 Mais ce divin Epoux digne de votre choix,  
 Demande-t-il de vous cette riche parure  
 Qu'un art⁎ vain et profane ajoûte à la nature ?  
@@ -1360,7 +1360,7 @@ Dans ces jours de douleur qui font cesser nos fêtes
 La superbe⁎ Judith va faire des conquêtes. [97]  
 Que me répondrez-vous ?  
 
-    JUDITH
+    JUDITH.
         Attendez, admirez⁎  
 Sans rien approfondir, ce que vous ignorez.  
 Apprenez seulement, et ce mot doit suffire ; [98]  
@@ -1380,40 +1380,40 @@ Aux pieges dangereux d'une vie éclatante⁎,
 D'une sainte retraite au grand jour qu'elle fuit,  
 Du repos au tumulte, et du silence au bruit⁎.  
 
-    MISAEL
+    MISAEL.
 Mais ne pourrai-je au moins, pour calmer mes alarmes,  
 Ne pourrai-je sçavoir où vous portez vos charmes⁎ ?  
 En quels lieux vous allez....  
 
-    JUDITH
+    JUDITH.
         Au Camp des ennemis.  
 
-    MISAEL
+    MISAEL.
 Dans le Camp d'Holoferne ? hé vous est-il permis  
 D'exposer un tresor si charmant⁎ et si rare  
 Aux brutales fureurs⁎ d'un ennemi barbare ?  
 Seule sans suite....  
 
-    JUDITH
+    JUDITH.
         Abra ne me quitera pas.  
 
-    MISAEL
+    MISAEL.
 Presumez-vous si fort de vous, de vos appas ?  
 
-    JUDITH
+    JUDITH.
 Presumez-vous si peu du Ciel qui me l'ordonne ? [100]  
 
-    MISAEL
+    MISAEL.
 Mais ne sentez-vous point toute l'horreur que donne  
 L'effroiable peril où vous vous exposez ? [101]  
 Qu'allez-vous devenir, si vous vous abusez ?  
 Dans un camp ennemy, miserable, captive....  
 Si rien ne vous retient, souffrez que je vous suive.  
 
-    JUDITH
+    JUDITH.
 Non, je vous le défends.  
 
-    MISAEL
+    MISAEL.
         Cet important secret  
 Craint à ce que je vois un témoin indiscret ;  
 Le salut d'Israël doit être votre ouvrage :  
@@ -1423,16 +1423,16 @@ Que vous voulez devoir au pouvoir de vos yeux ; [102]
 Et si vous osez tout sur la foy de vos charmes⁎,  
 J'ose tout esperer du secours de nos armes.  
 
-    JUDITH
+    JUDITH.
 Vous vous perdez.  
 
-    MISAEL
+    MISAEL.
     Qu'importe ?  
 
-    JUDITH
+    JUDITH.
     Arrétez.  
 
-    MISAEL
+    MISAEL.
         Je ne puis.  
 Et n'écoute que moi dans l'état où je suis.  
 Vous esperez au camp une indigne victoire ?  
@@ -1441,11 +1441,11 @@ Et pour vous épargner un triomphe odieux
 Mon bras va prevenir le crime de vos yeux. [103]  
 
 
-### SCENE V
+### SCENE V.
 JUDITH, ABRA
 
 
-    JUDITH
+    JUDITH.
 Quand pour aller au Camp l'ordre du Ciel me presse,  
 Misael m'embarasse et je crains ma foiblesse ; [104]  
 Je cours executer un effort plus qu'humain :  
@@ -1463,16 +1463,16 @@ Voyant à quels perils Misael se hazarde,
 Abra, n'en doute point, dans ce pressant besoin  
 Cet ami genereux⁎...  
 
-    ABRA
+    ABRA.
         Achior n'est pas loin, [105]  
 Je vais vous l'amener. [106]  
 
 
-### SCENE VI
+### SCENE VI.
 JUDITH
 
 
-    JUDITH *seule*
+    JUDITH *seule*.
         A quoi suis-je forcée,  
 Quand de tant d'autres soins j'ai l'ame embarassée ?  
 Que l'état où je suis m'étonne⁎ et me confond,  
@@ -1495,18 +1495,18 @@ Et qu'un peu de beauté fut le fatal écueil
 Où le Tyran a vû briser tout son orgueil.  
 
 
-### SCENE VII
+### SCENE VII.
 JUDITH , ABRA, MISAEL, ACHIOR
 
 
-    MISAEL
+    MISAEL.
 Achior m'a parlé, qu'en pouvez-vous attendre ?  
 A de lâches conseils [108] le ferez-vous descendre ?  
 Nôtre amitié sur moi luy donne un plein pouvoir,  
 Mais loin de condamner mon juste desespoir,  
 Touché de mon malheur...  
 
-    ACHIOR
+    ACHIOR.
         Quand Misael s'emporte  
 Quel frein peut [109] retenir une douleur si forte ?  
 Quoi-que dans cet état trop [110] digne de pitié  
@@ -1516,7 +1516,7 @@ Souffrons qu'un malheureux, pour soulager sa peine,
 Aille dans les combats exhaler sa douleur,  
 Et qu'un beau desespoir seconde sa valeur. [111]  
 
-    JUDITH
+    JUDITH.
 De quel œil voyez-vous ce que le Ciel m'inspire ?  
 Si sans vous, si sans lui, seule j'y puis suffire,  
 Pourquoi me viendra-t-il troubler par ses fureurs⁎ ? [112]  
@@ -1541,11 +1541,11 @@ Si ma menace est foible, et n'a rien qui vous touche,
 Craignez le Dieu vivant qui parle par ma bouche.  
 
 
-### SCENE VIII
+### SCENE VIII.
 ACHIOR, MISAEL
 
 
-    ACHIOR
+    ACHIOR.
 Juste Ciel quels discours terribles, menaçans !  
 Vous en sentez la force autant que je la sens,  
 Misael, je le voi par ce morne silence :  
@@ -1553,7 +1553,7 @@ Tout ce que vous aviez d'ardeur, d'impatience⁎
 En écoutant Judith, glacé subitement  
 Vous laisse devant nous, sans voix, sans mouvement.  
 
-    MISAEL
+    MISAEL.
 Ah ! que vous jugez mal de l'état de mon ame !  
 J'examine en secret l'adresse d'une femme, [116]  
 J'admire⁎ de quel air son zele⁎ audacieux  
@@ -1565,7 +1565,7 @@ Ce n'est plus la modeste⁎ et sincere Judith ;
 Sa vertu⁎ sans fard, sa beauté naturelle, [117]  
 C'est la fausse Judith, c'est Judith l'infidelle...  
 
-    ACHIOR
+    ACHIOR.
 Arrétez, Misael : vôtre jaloux dépit  
 Ose-t-il outrager la fameuse Judith ? [118]  
 Respectez sa vertu⁎, le Ciel la justifie  
@@ -1575,7 +1575,7 @@ D'embarasser Judith par vos transports⁎ jaloux ;
 Ou plutôt pour sçavoir le parti qu'il faut prendre [119]  
 Attendons le succés....  
 
-    MISAEL
+    MISAEL.
         Je ne sçaurois attendre ;  
 Je veux sans differer, je veux être éclairci ;  
 Judith hazarde tout, hazardons tout aussi.  
@@ -1587,20 +1587,20 @@ Je me livre aux transports⁎ dont mon ame est saisie,
 Soit amour ou fureur⁎, soit zele⁎ ou jalousie.  < Fin du deuxiéme Acte > 
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 HOLOFERNE, VAGAO
 
 
-    HOLOFERNE
+    HOLOFERNE.
 Que le Camp en murmure, il faut qu'on obeïsse,  
 Je veux que Betulie ou se rende, ou perisse.  
 La soif me vange assez de sa temerité :  
 Mais un succés si lent fait honte à ma fierté⁎.  
 
-    VAGAO
+    VAGAO.
 La victoire vous plaît prompte et precipitée :  
 Mais la sage valeur est-elle moins vantée ?  
 Ces rapides succés, Seigneur, ont peu d'appas  
@@ -1608,7 +1608,7 @@ Quand ils sont achetez par le sang des soldats,
 Et cette soif de vaincre ardente, impetueuse,  
 Aprés un long bonheur⁎ n'est pas toujours heureuse.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Dois-je vaincre autrement pour remplir mon employ ?  
 Le Roi que nous servons⁎ [123] que diroit-il de moy,  
 Si Chef de son armée, et chargé de sa gloire⁎  
@@ -1620,7 +1620,7 @@ Et me fît triompher par sa seule foiblesse ?
 Ce Roi, dont je dois prendre et l'esprit et le cœur,  
 Me pardonneroit-il cette indigne lenteur ?  
 
-    VAGAO
+    VAGAO.
 Holoferne sans honte en Conquerant paisible  
 Peut forcer sans combattre un mont inaccessible  
 Herissé de rochers, d'où les Betuliens  
@@ -1630,7 +1630,7 @@ Qui peut braver la force et la rendre inutile,
 Et de sçavoir vous faire un triomphe certain  
 Qu'à peine on obtiendroit les armes à la main ?  
 
-    HOLOFERNE
+    HOLOFERNE.
 Vous voulez ébloüir d'une belle apparence  
 Et mon ambition et mon impatience.  
 Je sers un Roi qui veut ardeur, activité,  
@@ -1672,11 +1672,11 @@ Aux vifs et prompts efforts d'une armée invincible. [128]
 Mais quels cris m'ont frapé ?   
 
 
-### SCENE II
+### SCENE II.
 UN OFFICIER ASSYRIEN, HOLOFERNE, etc.
 
 
-    OFFICIER
+    OFFICIER.
         Nos ennemis, Seigneur,  
 Ont fait une sortie avec tant de vigueur, [129]  
 Que presqu'au haut du mont nos troupes avancées  
@@ -1699,16 +1699,16 @@ Que nos soldats ont pris d'abord quelque épouvante :
 Mais voiant leur ardeur peu durable, impuissante,  
 On poursuit...  
 
-    HOLOFERNE
+    HOLOFERNE.
         Ton recit fait perdre trop de temps ;  
 Allons, allons hâter le succés que j'attens. [131]  
 
 
-### SCENE III
+### SCENE III.
 HOLOFERNE, UN AUTRE OFFICIER ASSYRIEN
 
 
-    UN OFFICIER ASSYRIEN
+    UN OFFICIER ASSYRIEN.
 Achior est défait, et sa troupe affoiblie  
 Aprés un long combat rentre dans Betulie :  
 Mais voiant un des siens de la troupe écarté  
@@ -1720,19 +1720,19 @@ Accablé par le nombre il se rend sans effroy ;
 Son air ferme, intrepide, et sa mine hautaine,  
 Font voir qu'un grand projet...  
 
-    HOLOFERNE
+    HOLOFERNE.
         Commandez qu'on l'amene.  
 
 
-### SCENE IV
+### SCENE IV.
 HOLOFERNE, MISAEL, DES OFFICIERS, SUITE
 
 
-    HOLOFERNE
+    HOLOFERNE.
 Quel étrange dessein te conduit en ces lieux !  
 Quel secret attentat....  
 
-    MISAEL
+    MISAEL.
         Un dessein glorieux⁎.  
 Je voulois par ta mort affranchir une Ville  
 De la sainte Sion le principal azile.  
@@ -1747,7 +1747,7 @@ Se reserve lui-même un si grand sacrifice,
 Ou peut-être a choisi pour un si noble employ  
 Un Hebreu plus illustre⁎ et plus heureux que moy. [133]  
 
-    HOLOFERNE
+    HOLOFERNE.
 J'admire⁎ ton audace, et je commence à croire  
 Qu'un siege qui sembloit matiere à peu de gloire⁎,  
 Peut se compter sans honte au rang de mes Exploits :  
@@ -1757,7 +1757,7 @@ Dy moy quel est le sort, quels sont les avantages,
 Dy moi quel est l'espoir d'un Peuple malheureux,  
 Mais parle en ami sincere et genereux⁎.  
 
-    MISAEL
+    MISAEL.
 J'atteste devant toy l'astre qui nous éclaire,  
 Tabernacle sacré d'un Dieu que je revere,  
 Que je ne dirai rien contre la verité ; [134]  
@@ -1793,7 +1793,7 @@ Renverser les Autels, exterminer les Dieux,
 Qu'a dessein seulement de déclarer ton Maître  
 Le seul Dieu de la terre, et le seul digne de l'être. [139]  
 
-    HOLOFERNE
+    HOLOFERNE.
 As tu pû l'ignorer ? ce vainqueur glorieux⁎  
 Réünit en luy seul tous les Rois, tous les Dieux ;  
 Que si tu n'entens pas la voix de son armée,  
@@ -1801,13 +1801,13 @@ La voix des Nations et de la Renommée,
 C'est moy qui parle, et moy je t'apprens aujourd'huy  
 Qu'il n'est plus d'autre Roy, plus d'autre Dieu que luy. [140]  
 
-    MISAEL
+    MISAEL.
 Plus d'autre Dieu que luy : quel blasphême execrable !  
 Abuse-t'on ainsi de ce nom adorable⁎ ?  
 Apprens que ce grand nom dit un Estre éternel,  
 Et qu'il n'est d'autre Dieu que le Dieu d'Israël.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Ne crois pas m'éblouïr par cette grande idée  
 Que tu nous veux donner du Dieu de la Judée.  
 Par pitié je fais grace à ce zele⁎ emporté.  
@@ -1818,20 +1818,20 @@ Quand tu crois que ton Dieu peut armer contre moy
 Quelque Hebreu plus à craindre et plus heureux que toy. [141]  
 
 
-### SCENE V
+### SCENE V.
 UN OFFICIER ASSYRIEN, HOLOFERNE, MISAEL
 
 
-    L’OFFICIER ASSYRIEN
+    L’OFFICIER ASSYRIEN.
 Un prodige étonnant⁎ vient de frapper ma veuë.  
 Une femme, Seigneur, superbement⁎ vétuë  
 S'enfuit de Betulie, et vient à vos genoux  
 Par de profonds respects fléchir votre couroux.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Qu'on la fasse venir.  
 
-    L’OFFICIER
+    L’OFFICIER.
         Seigneur, je l'ai laissée  
 Qui marchoit au milieu d'une foule empressée.  
 Si-tôt qu'elle a paru, le Camp de toutes parts  
@@ -1844,39 +1844,39 @@ Et plein d'une merveille étonnante⁎ et nouvelle⁎,
 Croit que la beauté même, en habit de mortelle,  
 Avec tous ses appas vient se donner à vous.  
 
-    MISAEL
+    MISAEL.
 C'est Judith ; cache toy, mon desespoir jaloux.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Qu'on aille satisfaire à mon impatience,  
 Je brûle de la voir.  
 
-    MISAEL
+    MISAEL.
         Que je crains sa presence !   
 
 
-### SCENE VI
+### SCENE VI.
 HOLOFERNE, JUDITH, MISAEL, ABRA, SUITE
 
 
-    HOLOFERNE
+    HOLOFERNE.
 Quel surprenant éclat vient de fraper mes yeux,  
 Et porte dans mon cœur un charme⁎ imperieux ?  
 Je voy dans tous ses traits tout l'air d'une Immortelle,  
 Et toute ma grandeur disparoît devant elle.  
 
-    JUDITH *à part*
+    JUDITH *à part*.
 Pour flater⁎ son orgueil, affectons tant d'effroy, [142]  
 Un respect si profond.... je tremble, soûtiens-moy. [143]  
 Ah ! que de majesté ! tant de grandeur m'accable.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Quel objet est icy pour vous si redoutable ?  
 Reprenez vos esprits, et commencez à voir  
 Que vos yeux sont icy plus craints que mon pouvoir.  
 Vous étes en ces lieux souveraine maîtresse.  
 
-    JUDITH
+    JUDITH.
 Quelle flateuse⁎ voix rassure ma foiblesse,  
 Et me rend tout à coup l'usage de mes sens ? [144]  
 Mais en ouvrant les yeux, que de troubles puissans  
@@ -1885,11 +1885,11 @@ Qui du thrône éternel est l'image sensible !
 Seigneur, pour me sauver de ton juste couroux,  
 Je sors de Betulie, et viens à tes genoux.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Vous aux pieds d'Holoferne humblement prosternée,  
 Vous que de tant d'appas le Ciel a couronnée ?  
 
-    JUDITH
+    JUDITH.
 Vive et regne à jamais ton Roy vainqueur des Rois,  
 Que tous ses ennemis soient soumis à ses loix,  
 Et que par le secours du bras que tu lui prétes  
@@ -1923,22 +1923,22 @@ D'aimer un peuple ingrat et de veiller sur luy,
 Il veut exterminer cette race rebelle.  
 Profite d'un avis important et fidelle.                         p. 55  
 
-    MISAEL *à part*
+    MISAEL *à part*.
 Judith flatte⁎ Holoferne, et par de faux avis.  
 
-    HOLOFERNE *à Misael*
+    HOLOFERNE *à Misael*.
 Tu vois si tes conseils doivent être suivis.  
 
-    JUDITH
+    JUDITH.
 Misael en ces lieux ! j'ai prevû sa disgrace.  
 
-    HOLOFERNE
+    HOLOFERNE.
 On vient de l'arréter ; J'ai loüé son audace,  
 Quand il m'a dit tout haut qu'il venoit m'immoler :  
 Mais quand je luy permets de vivre et de parler,  
 Ce lâche à l'attentat ajoûte l'imposture.  
 
-    MISAEL *à Judith*
+    MISAEL *à Judith*.
 C'est vous qui m'attirez cette mortelle injure.  
 Par un discours trompeur vous démentez le mien,  
 Achevez mes malheurs et ne ménagez rien,  
@@ -1947,52 +1947,52 @@ J'ay tenté cet effort au peril de ma vie,
 Et j'ay même écouté ce genereux⁎ couroux  
 Par d'autres interêts qui ne sont que pour vous.  
 
-    JUDITH
+    JUDITH.
 Qui ne sont que pour moy ! Suis-je votre complice ?  
 Et puis-je souhaiter qu'Holoferne perisse,  
 Quand je viens à ses pieds implorer sa faveur ?  
 
-    MISAEL
+    MISAEL.
 Judith le reconnoît désja pour son vainqueur !  
 O ! honte d'Israël ! vous serez satisfaite ;  
 On ne laissera point votre gloire⁎ imparfaite.  
 Holoferne éblouï par un charme⁎ trompeur. [146]  
 
-    HOLOFERNE
+    HOLOFERNE.
 Je suis las d'écouter un traître, un imposteur.  
 
-    MISAEL *à Judith*
+    MISAEL *à Judith*.
 Quels noms pour Misael ! quelle horrible injustice !  
 Jouïssez de ma peine et de votre artifice.  
 
-    JUDITH *à part*
+    JUDITH *à part*.
 Je fais tous ses malheurs. Dure necessité !  
 
-    MISAEL
+    MISAEL.
 Si tu ne me crois pas digne d'être écouté,  
 Par une prompte mort...  
 
-    HOLOFERNE
+    HOLOFERNE.
         Ouy, tu mourras, parjure,  
 Moins pour ton attentât que pour ton imposture.  
 Qu'on aille l'immoler à mon juste couroux.  
 
-    JUDITH
+    JUDITH.
 Non, il cherche à mourir : ce supplice est trop doux.  
 Il faut que dans les fers il gemisse, il soupire,  
 En voyant sur les Juifs étendre ton Empire.  
 Qu'il vive, et qu'apprenant ta gloire⁎ et ton bonheur⁎,  
 Il en meure cent fois de rage et de douleur.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Hé bien, que la prison commence son supplice.  
 
 
-### SCENE VII
+### SCENE VII.
 JUDITH, HOLOFERNE
 
 
-    JUDITH
+    JUDITH.
 Dés que l'ordre du Ciel pour te faire justice [147]  
 Voudra que je te mene au thrône des Hebreux,  
 Je te feray marcher triomphant devant eux.  
@@ -2003,7 +2003,7 @@ Viendront à tes genoux adorer⁎ leur vainqueur.
 Nul cry seditieux, nul murmure inutile  
 Ne troublera la paix d'un triomphe tranquille.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Ah ! c'est trop me flater⁎; cependant je vous croy,  
 Quoi-que vous promettiez, je l'attens malgré moy ;  
 Votre vertu⁎ me force à croire ce miracle,  
@@ -2019,29 +2019,29 @@ De le sentir en vous, d'adorer⁎ sa puissance.
 Ses plus beaux traits qu'en vous sa main a retracez  
 M'inspirent des transports⁎...  
 
-    JUDITH
+    JUDITH.
         C'est assez, c'est assez.  
 Tout flate⁎ mes souhaits ; je voy dans ce langage  
 Des promesses du Ciel l'asseurance et le gage.  
 Je vay le consulter pour apprendre quel temps,  
 Quel secours il destine au succés que j'attends.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Allez le consulter et hâter ma victoire,  
 Et j'avouëray tout haut, pour payer tant de gloire⁎,  
 Que vainqueur tant de fois, un nom si grand, si doux,  
 Me fera plus d'honneur si je le tiens de vous.   
 
 
-### SCENE VIII
+### SCENE VIII.
 JUDITH, ABRA
 
 
-    ABRA
+    ABRA.
 Holoferne déjà se dispose à se rendre ;  
 Vous allez triompher.  
 
-    JUDITH
+    JUDITH.
         Hé, que puis-je prétendre  
 D'un triomphe honteux dont j'ay lieu de trembler ?  
 Si j'ay vû le Tyran s'attendrir, se troubler,  
@@ -2081,14 +2081,14 @@ Allons prier le Ciel que sans blesser sa gloire⁎
 Il me fasse achever cette affreuse⁎ victoire.  < Fin du troisiéme Acte > 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 HOLOFERNE, VAGAO
 
 
-    HOLOFERNE
+    HOLOFERNE.
 Que nul n'entre en ces lieux. Toy ; demeure avec moy.  
 Je cache mon desordre à tous autre qu'à toy.  
 Jamais trouble pareil n'est entré dans mon ame.  
@@ -2107,13 +2107,13 @@ Prenons nos seuretez contre cette Captive,
 Qu'est-ce qu'une beauté suspecte et fugitive ?  
 Sacrifions sa vie au repos de nos jours.  
 
-    VAGAO
+    VAGAO.
 Voulez-vous recourir à ce sanglant secours ?  
 Votre amour a-t-il pû vous ôter la memoire ?  
 Judith vous a promis une grande victoire,  
 Et sans qu'il vous en coûte un séul de vos soldats.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Mais sçais-tu jusqu'où va ce fatal embarras ?  
 Je voy bien qu'il te faut ouvrir toute mon ame,  
 Et te faire trembler des fureurs⁎ de ma flâme.  
@@ -2132,13 +2132,13 @@ Que je dois au projet de conquerir le monde ;
 Tout celà ne sauroit bannir de mon esprit,  
 Eloigner un moment l'image de Judith.  
 
-    VAGAO
+    VAGAO.
 Et pourquoy l'éloigner, cette image si chere,  
 Et contre tant d'appas armer vôtre colere ?  
 Maître de la Beauté dont vous étes charmé⁎,  
 Aimez, Seigneur, parlez, et vous serez aimé. [154]  
 
-    HOLOFERNE
+    HOLOFERNE.
 Si pour plaire à Judith il faut que je m'explique,  
 Apprens jusques où va son pouvoir tyrannique.  
 Pressé de la plus forte et violente ardeur  
@@ -2163,19 +2163,19 @@ Et cependant tout plein d'amour, d'impatience,
 Je brûle de la voir pour rompre le silence.  
 Elle ne paroit point, que fait-elle ? en quel lieu...  
 
-    VAGAO
+    VAGAO.
 Loin du monde et du bruit⁎ elle implore ce Dieu  
 Qui luy promet pour vous... La voici qui s'avance.  
 
-    HOLOFERNE
+    HOLOFERNE.
 A peine mes regards soutiennent sa presence.   
 
 
-### SCENE II
+### SCENE II.
 HOLOFERNE, JUDITH, VAGAO, ABRA
 
 
-    HOLOFERNE
+    HOLOFERNE.
 En sortant de prier le Dieu que vous servez,  
 Par un nouvel⁎ éclat vos attraits relevez,  
 Dans mes sens étonnez⁎ font couler une glace  
@@ -2189,18 +2189,18 @@ Avoit pû retenir cette fatale ardeur,
 Qui veut paroître au jour en dépit de moy-même  
 Judith auroit long temps ignoré que je l'aime.  
 
-    JUDITH
+    JUDITH.
 Où me voy-je reduite ?  
 
-    HOLOFERNE
+    HOLOFERNE.
         A de pareils discours  
 Les modestes⁎ beautez s'alarmerent toûjours.  
 
-    JUDITH *bas*
+    JUDITH *bas*.
 A quoy m'expose, helas ! notre grande entreprise ?  
 J'en frissonne d'horreur.  
 
-    HOLOFERNE
+    HOLOFERNE.
         Je voy votre surprise :  
 Mais elle va si loin, votre desordre est tel  
 Que vous semblez vous faire un deplaisir mortel [157]  
@@ -2222,12 +2222,12 @@ Où devant tout le camp on vous voye aujourd'huy
 Au milieu de nos chefs assise auprés de luy.  
 Luy refuserez-vous, Madame, cette grace ?  
 
-    JUDITH
+    JUDITH.
 Hé qu'est-ce que Judith pour avoir cette audace ?  
 Peut-elle refuser un si rare bonheur⁎ ?  
 Je veux tout ce que veut mon Maître et mon Vainqueur.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Mais quand vous me flattez⁎ par un si doux langage,  
 Je voy sur votre front quelque sombre nuage  
 Qui fait voir, à travers ce dehors éclatant⁎,  
@@ -2240,13 +2240,13 @@ Mais pour vous en donner une marque éternelle,
 Je veux qu'en votre nom une feste nouvelle⁎  
 De ce qu'il sent pour vous instruise⁎ l'Univers.  
 
-    JUDITH
+    JUDITH.
 Je connois tout le prix de tant d'honneurs offerts :  
 Mais demain j'ose attendre une plus grande gloire⁎,  
 Et quand j'auray pour vous obtenu la victoire,  
 Ce jour sera pour moy le plus beau de mes jours.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Quoy, tout ce que j'attens de vôtre seul secours,  
 Le succés étonnant⁎ d'une illustre⁎ entreprise,  
 Cette prompte victoire à mes armes promise,  
@@ -2261,47 +2261,47 @@ Et voulant à jamais leur declarer la guerre,
 Pour placer dignement un nom si glorieux⁎,  
 Vous seule et vôtre Dieu vous serez tous mes Dieux.  
 
-    JUDITH
+    JUDITH.
 Ah Seigneur ! c'en est trop, tant de gloire⁎ m'accable.  
 
-    HOLOFERNE
+    HOLOFERNE.
 Pour vous faire un destin plus grand, plus honorable,  
 Je veux vous épouser. [160]  
 
-    JUDITH
+    JUDITH.
     M'épouser !  
 
-    HOLOFERNE
+    HOLOFERNE.
         Avez-vous  
 Tant d'horreur pour un noeud si pretieux, si doux ?  
 
-    JUDITH
+    JUDITH.
 Tant d'honneur m'épouvante.  
 
-    HOLOFERNE
+    HOLOFERNE.
         Ah ! faites que je voye  
 Que vous le recevez avecque plus de joye,  
 Ou craignez qu'un amant⁎ que vous desesperez...  
 
-    JUDITH
+    JUDITH.
 J'accepte avec transport⁎ l'honneur que vous m'offrez,  
 Et le cœur plein de joye et de reconnoissance,  
 Quand vous poussez si loin vôtre magnificence  
 J'ose même en faveur d'un Enfant d'Israël... [161]  
 
-    HOLOFERNE
+    HOLOFERNE.
 Ne me demandez point grace pour Misael,  
 Il a fait à Judith une mortelle injure.  
 Verra-t-on impunie une lâche imposture ?  
 Laissez pour vôtre gloire⁎ agir tout mon couroux.  
 
-    JUDITH
+    JUDITH.
 Judith s'est trop flatée⁎, et croyoit prés de vous,  
 Quand pour un malheureux elle vous sollicite,  
 Que son humble priere auroit plus de merite.  
 Vos bontez m'ont trompée, et mon credule espoir...  
 
-    HOLOFERNE
+    HOLOFERNE.
 Ah, mon amour sur moy vous donne un plein pouvoir.  
 Que Misael soit libre, et que l'ingrat apprenne  
 Quand vous parlez pour luy, quand vous rompez sa chaine,  
@@ -2313,22 +2313,22 @@ Me rendra promptement cet entretien si doux [163]
 Que mon devoir m'arrache en m'éloignant de vous.  
 
 
-### SCENE III
+### SCENE III.
 JUDITH, ABRA
 
 
-    ABRA
+    ABRA.
 Que de biens apparens flatent⁎ vostre esperance !  
 
-    JUDITH
+    JUDITH.
 Dis [164] plûtôt, que de maux accablent ma constance !  
 Que je prevois d'horreurs dans l'état où je suis !  
 
-    ABRA
+    ABRA.
 Vos regards égarez m'expliquoient vos ennuis,  
 Tandis que le Tyran vous parloit de sa flame.  
 
-    JUDITH
+    JUDITH.
 Que de transports⁎ divers ont dechiré mon ame ! [165]  
 Je voulois, et craignois l'aveu⁎ de son amour,  
 Et j'attens en tremblans la fin de ce grand jour.  
@@ -2338,23 +2338,23 @@ Moy, je l'épouserois, le Tyran d'Israël,
 Amant⁎ foible et soûmis, mais ennemy cruel ?  
 Ah ! s'il faut à ce prix acheter la victoire...  
 
-    ABRA
+    ABRA.
 Ah ! de plus grands perils menacent vostre gloire⁎.  
 Craignez, dans un Tyran qui soupire pour vous,  
 Un insolent vainqueur, et non pas un époux.  
 
-    JUDITH
+    JUDITH.
 Je crains tout ; cache moy cet affreux⁎ precipice.  
 La voix du Ciel m'appelle, il faut que j'obeïsse.  
 
-    ABRA
+    ABRA.
 Mais ne voyez-vous pas de quels noms odieux  
 Vous chargera bien-tost un camp seditieux ?  
 Il court déjà des bruits⁎ qui doivent vous confondre,  
 Tout parle contre vous, qu'avez-vous à répondre,  
 A ces bruits outrageans qui me comblent d'effroy.  
 
-    JUDITH
+    JUDITH.
 Ne crains rien, l'Eternel leur répondra pour moy.  
 Je sens ce qu'un grand cœur souffre de violence  
 De voir par des soupçons souïller son innocence.  
@@ -2369,13 +2369,13 @@ Ayons part à sa gloire⁎ en luy donnant la nostre ;
 Tombent, tombent sur moy, j'y consens à ce prix, [167]  
 Mille confusions, l'opprobre et le mépris.  
 
-    ABRA
+    ABRA.
 Cependant Misael trouve une ample matiere  
 A pousser contre vous sa fureur⁎ toute entiere.  
 Il ne voit rien en vous, s'il n'en croît que ses yeux,  
 Qui ne soit criminel, effroyable, odieux.  
 
-    JUDITH
+    JUDITH.
 Aux yeux de Misael rien ne me justifie ;  
 Tout me couvre à ses yeux d'horreur, d'ignominie,  
 Je fais tous ses transports⁎, ses perils, son erreur ;  
@@ -2383,18 +2383,18 @@ Libre par mon secours, il va dans sa fureur⁎
 De tout ce qu'il a veu, de ce qu'il ose croire,  
 Faire aux Betuliens l'image la plus noire.  
 
-    ABRA
+    ABRA.
 Il paroist.  
 
-    JUDITH
+    JUDITH.
         Ah ! quel est le trouble où je le voy !  
 
 
-### SCENE IV
+### SCENE IV.
 MISAEL, JUDITH, ABRA
 
 
-    MISAEL
+    MISAEL.
 Je vis et je respire encore malgré moy.  
 Vous changez mon supplice au gré de votre haine,  
 Vous m'avez mis aux fers, et vous brisez ma chaîne.  
@@ -2408,12 +2408,12 @@ Vous cedez aux appas d'un Vainqueur qui vous aime.
 Un Conquerant paré de la grandeur supreme,  
 Environné de gloire⁎ a tenté votre cœur. [168]  
 
-    JUDITH
+    JUDITH.
 Quoy, voulez-vous toujours plein de votre douleur,  
 Juger de mes desseins par la seule apparence ?  
 Ah ! s'il m'étoit permis de rompre le silence...  
 
-    MISAEL
+    MISAEL.
 Hé ! que me diriez vous qui pût vous excuser ?  
 Au Camp des ennemis venir vous exposer ;  
 A flater⁎ un Tyran indignement descendre ;  
@@ -2422,7 +2422,7 @@ Sur vous seule assembler ce que l'art⁎ imposteur
 A de plus seur pour plaire et s'emparer d'un cœur ?  
 Ne rougissez-vous point de l'indigne artifice...  
 
-    JUDITH
+    JUDITH.
 Hé ! pourquoy, Misael, faut-il que j'en rougisse ?  
 Si par de tels discours Holoferne trompé,  
 Des soins de son amour paroist plus occupé,  
@@ -2430,7 +2430,7 @@ Que des soins de son Camp et de ceux de sa gloire⁎ ?
 N'est-ce rien que d'avoir arresté sa victoire,  
 Et d'avoir trouvé l'art d'enchaîner sa valeur ?  
 
-    MISAEL 
+    MISAEL.
 Mais osez-vous si loin pousser cet art flateur⁎,  
 Jusqu'à vouloir risquer l'honneur, et l'innocence,  
 Dans un festin profane où regne la licence,  
@@ -2443,63 +2443,63 @@ L'objet de mille voeux et de mille soupirs,
 Le spectacle et l'amour de toute l'assemblée,  
 N'en sera-t-elle point éblouïe et troublée ?  
 
-    JUDITH
+    JUDITH.
 Quand on forme un dessein aussi grand que le mien,  
 Sous les ordres du Ciel on n'apprehende rien ;  
 On se met au dessus de l'humaine foiblesse. [170]  
 
-    MISAEL
+    MISAEL.
 Dans les moindres perils [171] j'ay vû vostre sagesse  
 Trembler, et dans le fond d'un sejour écarté,  
 Loin des yeux des mortels chercher sa seureté.  
 Cette vertu⁎ modeste⁎ et qui fut si timide⁎,  
 Est devenuë enfin orgueilleuse, intrepide.  
 
-    JUDITH
+    JUDITH.
 Avec un peu de temps vous en jugerez mieux. [172]  
 
-    MISAEL
+    MISAEL.
 Faudra-t-il démentir ma raison et mes yeux ?  
 
 
-### SCENE V
+### SCENE V.
 VAGAO, JUDITH, MISAEL
 
 
-    VAGAO
+    VAGAO.
 Madame, on vous attend, tout est prest, tout vous presse,  
 La pompe du festin, la commune allegresse,  
 Le superbe⁎ appareil du Camp et de la Cour,  
 Tout ce qui doit enfin honorer ce grand jour.  
 Holoferne sur tout impatient⁎ d'attendre...  
 
-    JUDITH
+    JUDITH.
 Je vous suis.   
 
 
-### SCENE VI
+### SCENE VI.
 MISAEL, JUDITH, ABRA
 
 
-    MISAEL
+    MISAEL.
         A cét ordre il est temps de se rendre,  
 Vous balancez. Allez étaler promptement  
 A cette table impie un objet [173] si charmant⁎ ;  
 Et moy, je vous verray dans cette grande feste,  
 Triompher lachement d'une indigne conqueste.  
 
-    JUDITH
+    JUDITH.
 Non, non, épargnez vous ce spectacle odieux.  
 
-    MISAEL
+    MISAEL.
 Quelque ennuy, quelque horreur qu'il en coute à mes yeux,  
 Je veux developper [174] cet étrange mystere.  
 
-    JUDITH
+    JUDITH.
 Ah ! c'est trop écouter un soupçon temeraire,  
 Allez dire aux Hebreux que je touche au moment...  
 
-    MISAEL
+    MISAEL.
 Moy, que j'aille aux Hebreux vanter impudemment  
 Ce projet criminel, cette infame victoire,  
 Dont on doit à jamais detester la memoire ?  
@@ -2508,36 +2508,36 @@ Et vous faire jouïr de ma credulité !
 J'iray par un recit horrible, mais fidelle,  
 Allumer contre vous une haine mortelle.  
 
-    JUDITH
+    JUDITH.
 Votre fureur⁎ s'augmente, et je plains votre erreur ;  
 On m'attend et j'y cours avec trop de lenteur.  
 
-    MISAEL
+    MISAEL.
 Allez, je vous suivray, j'ay même impatience.  
 
-    JUDITH
+    JUDITH.
 Voyez tout. Loin de craindre icy votre presence,  
 J'aime à vous voir toûjours curieux et jaloux ;  
 Ma gloire⁎ avoit besoin d'un témoin comme vous.   
 
 
-### SCENE VII
+### SCENE VII.
 
-    MISAEL *seul*
+    MISAEL *seul*.
 Me trompay-je ? Judith seroit-elle innocente ?  
 Je commence à douter, sa fierté⁎ m'épouvante.  
 Allons nous éclaircir. Puisse le Dieu vengeur  
 Confondre mes soupçons, et punir mon erreur.  < Fin du quatriéme Acte > 
 
 
-## ACTE V
+## ACTE V.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 OZIAS, UN BETULIEN
 
 
-    UN BETULIEN
+    UN BETULIEN.
 A peine on voit briller la lumiere naissante,  
 Qu'impatient, et l'ame incertaine et tremblante,  
 Je cours auprés de vous, et viens me rasseurer  
@@ -2550,21 +2550,21 @@ Rien depuis leur départ, nul avis favorable,
 Nul espoir ne console un peuple miserable.  
 Le Ciel nous abandonne.  
 
-    OZIAS
+    OZIAS.
         Hé, quel est ce discours ?  
 Entendray-je gemir et murmurer toujours ?  
 Quand on croit de nos maux la mesure comblée ;  
 Esperons...  
 
 
-### SCENE II
+### SCENE II.
 OZIAS, ACHIOR , UN BETULIEN
 
 
-    OZIAS *continuë*
+    OZIAS *continuë*.
         Achior l'ame toute troublée...  
 
-    ACHIOR
+    ACHIOR.
 Helas, le croirez-vous ? l'infidelle Judith...  
 Ozias, écoutez cet étrange recit.  
 Un deserteur du Camp, et mon ami fidelle,  
@@ -2586,26 +2586,26 @@ Ont fait par mille feux un grand jour dans la nuit,
 Et l'on entend par tout la triomphante joye,  
 Les cris victorieux que le Camp nous envoye.  
 
-    OZIAS
+    OZIAS.
 Achior, osez-vous porter par ce recit  
 Une atteinte mortelle à l'honneur de Judith ?  
 
-    ACHIOR
+    ACHIOR.
 Je le tiens d'une bouche sincere et fidelle.  
 
-    OZIAS
+    OZIAS.
 Qui pourroit vous comprendre, ô Sagesse éternelle ?  
 
-    ACHIOR
+    ACHIOR.
 J'ay douté comme vous, mais je voy Misael :  
 Son desordre... [176]   
 
 
-### SCENE III
+### SCENE III.
 MISAEL, OZIAS, ACHIOR , UN BETULIEN
 
 
-    MISAEL
+    MISAEL.
         Frappé d'un desespoir mortel,  
 Livrant à la douleur mon ame toute entiere,  
 J'ay marché dans la nuit sans guide et sans lumiere,  
@@ -2623,10 +2623,10 @@ Et sa pitié cruelle, en me laissant la vie,
 M'a rendu le témoin de son ignominie.  
 Ah, qu'une prompte mort m'eust épargné d'horreurs !  
 
-    OZIAS
+    OZIAS.
 Expliquez-vous enfin ; quels sont ces grands malheurs ?  
 
-    MISAEL
+    MISAEL.
 Judith sur Holoferne emportoit la victoire ;  
 Je l'ai vûë en partant s'en promettre la gloire⁎ ;  
 Son orgueil l'a perduë, et je l'avois predit ;  
@@ -2652,11 +2652,11 @@ Et tournoit vers le Ciel ses yeux et ses pensées.
 Mais si tous mes soupçons avoient pû s'abuser,  
 Ce que je viens de voir ne sçauroit s'excuser.  
 
-    OZIAS
+    OZIAS.
 Misael, se peut-il que Judith criminelle...  
 Mais ne nous laissez point dans l'attente cruelle...  
 
-    MISAEL
+    MISAEL.
 Que d'horreurs [181] ! quand je voy ce qui suit le festin,  
 Holoferne accablé par la vapeur du vin  
 Cherche à se reposer ; là chacun se retire.  
@@ -2670,7 +2670,7 @@ Obtiendra d'Holoferne une odieuse paix.
 Dure à jamais la guerre, et qu'Israël perisse  
 S'il faut le delivrer par un tel sacrifice.  
 
-    OZIAS
+    OZIAS.
 Il faut donc, Misael, croire sur ce recit  
 Que tout ce grand projet qu'avoit formé Judith,  
 Ne sert qu'à nous donner une paix plus funeste, [182]  
@@ -2681,7 +2681,7 @@ Vous faites à Judith une offense mortelle,
 Croyez que c'est l'erreur d'un soupçon infidelle  
 Et d'un jaloux dépit la vaine illusion.  
 
-    MISAEL
+    MISAEL.
 Plût au Ciel qu'il fallût à ma confusion  
 Donner à mes soupçons cette horrible aventure,  
 Et verser tout mon sang pour laver cette injure.  
@@ -2689,14 +2689,14 @@ Que ne puis-je douter de tout ce que j'ay dit !
 Mais j'apperçois Abra.  
 
 
-### SCENE IV
+### SCENE IV.
 MISAEL, ABRA, OZIAS
 
 
-    MISAEL *continuë*
+    MISAEL *continuë*.
         Quoy seule, et sans Judith ?  
 
-    ABRA
+    ABRA.
 Judith est de retour, vous l'allez voir paroître :  
 Mais sçachant le respect qu'elle doit au Grand Prestre,  
 Elle a crû qu'il falloit, revenant en ces lieux,  
@@ -2704,11 +2704,11 @@ L'instruire⁎ le premier d'un secret glorieux⁎ ;
 Et c'est vous, Ozias, à qui Judith m'envoye  
 Annoncer son retour, et haster votre joye.  
 
-    OZIAS
+    OZIAS.
 Hé, que me direz-vous, si j'en croy Misael ?  
 Est-ce ainsi que Judith veut sauver Israël ?  
 
-    MISAEL
+    MISAEL.
 Osez-vous nous vanter une infame victoire ?  
 Estois-je au Camp sans yeux, suis-je icy sans memoire ?  
 Au sortir d'un festin plein de déreglement,  
@@ -2720,7 +2720,7 @@ Apprendra de quel prix Judith l'a racheté,
 Elle va devenir sous cette affreuse⁎ idée  
 L'opprobre et le mépris de toute la Judée.  
 
-    ABRA
+    ABRA.
 Quoy, toujours l'outrager ? ah c'est trop s'emporter.  
 Quand je parle en son nom, vous devez m'écouter. [183]  
 J'avouërai que Judith m'a fait trembler moy-même,  
@@ -2742,10 +2742,10 @@ Condamnoit l'entreprise, et tentoit son devoir
 Mais ce devoir enfin s'opposant à sa fuite,  
 Judith demeure, et vous, sans attendre la suite...  
 
-    MISAEL
+    MISAEL.
 Pouvois-je demeurer transporté⁎ de fureur⁎ ?  
 
-    ABRA
+    ABRA.
 Ecoutez ce qui reste, et voyez votre erreur.  
 Holoferne au sommeil s'étant laissé surprendre,  
 Donne à Judith l'audace et le temps d'entreprendre.  
@@ -2773,51 +2773,51 @@ Quoy, vous doutez encor de cette verité !
 Que je confonde enfin votre incredulité.  
 
 
-### SCENE V
+### SCENE V.
 ABRA, MISAEL, OZIAS, UN BETULIEN
 
 
-    UN BETULIEN
+    UN BETULIEN.
 Un succés glorieux⁎ a rempli notre attente.  
 La tête d'Holoferne encor toute sanglante,  
 Par l'ordre de Judith, sur le haut des remparts,  
 Offre un spectacle affreux⁎ qui charme⁎ nos regards. [186]  
 
-    MISAEL
+    MISAEL.
 Qu'entens-je ?  
 
-    ACHIOR
+    ACHIOR.
     Juste Ciel !  
 
-    ABRA
+    ABRA.
         Que pouvez-vous répondre ?  
 
-    OZIAS
+    OZIAS.
 C'est ainsi que le Ciel se plaît à nous confondre.                 p. 92  
 
-    MISAEL
+    MISAEL.
 Ah, jalouse fureur⁎, dans quel aveuglement  
 Plonges-tu la raison d'un malheureux Amant⁎ !  
 
-    OZIAS
+    OZIAS.
 Allons chercher Judith, la voicy qui s'avance.  
 
-    MISAEL
+    MISAEL.
 Pourras-tu Misael soutenir sa presence ?  
 
 
-### SCENE VI
+### SCENE VI.
 JUDITH , OZIAS, MISAEL , ACHIOR
 
 
-    JUDITH
+    JUDITH.
 Ozias, c'en est fait, Israel est vainqueur.  
 Abra vous a sans doute annoncé ce bonheur⁎.  
 
-    OZIAS
+    OZIAS.
 Son recit a calmé des soupçons effroyables. [187]  
 
-    JUDITH
+    JUDITH.
 L'apparence a rendu ces soupçons excusables,  
 N'en parlons plus. Songez qu'Holoferne immolé  
 Livre aux Betuliens tout le Camp desolé.  
@@ -2827,16 +2827,16 @@ Vous, Ozias, allez achever sa défaite.
 
 Vous, suivez Ozias.  
 
-    ACHIOR
+    ACHIOR.
         J'y cours avec ardeur.  
 Allons par mille morts expier notre- erreur.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 JUDITH, ABRA, MISAEL
 
 
-    MISAEL
+    MISAEL.
 Qu'ordonnez-vous de moy dont la jalouse rage  
 Fait à la vertu⁎ même un si sanglant outrage ?  
 Moy, soupçonner Judith, elle à qui l'Eternel  
@@ -2844,7 +2844,7 @@ A voulu confier la gloire⁎ d'Israël ?
 Quelle étoit mon erreur ! quel assez grand supplice  
 De mes emportemens vous peut faire justice !  
 
-    JUDITH
+    JUDITH.
 Qu'avec tous nos malheurs, dans un profond oubly,  
 Ce que vous avez fait demeure ensevely.  
 Vos soupçons m'offensoient, perdons-en la memoire,  
@@ -2859,14 +2859,14 @@ Nos malheurs sont finis, Betulie est sauvée,
 La tête du Tyran sur nos murs élevée  
 Instruira⁎ l'Univers qu'Holoferne n'est plus.  
 
-    MISAEL
+    MISAEL.
 Ainsi vous triomphez, et moy, triste et confus,  
 En horreur aux Hebreux, à Judith, à moy-même,  
 Je vivray malheureux, privé de ce que j'aime,  
 Et coupable envers vous, pour comble de douleur,  
 D'un crime qui me rend digne de mon malheur.  
 
-    JUDITH
+    JUDITH.
 Ecoutez, et voyez ce qui suit ma victoire. [191]  
 Vous ne me verrez point fiere⁎ de tant de gloire⁎  
 Retenir cette pompe, et m'offrir aux honneurs,  
@@ -2880,7 +2880,7 @@ Grand Dieu, quand je laissay la cendre et la retraite. [192]
 Pour vous je les quittay, je les reprens pour vous,  
 Et me rens toute entiere à mon divin Epoux.  
 
-    MISAEL
+    MISAEL.
 Que de gloire⁎ ! Judith triomphe par ses charmes⁎,  
 Et retourne aussi-tôt à la retraite, aux larmes.  
 Je la perds pour jamais ; mais malgré mon malheur  
@@ -2900,12 +2900,12 @@ Et ledit sieur Boyer a cedé ses droits de Privilege pour la Tragédie de Judith
 *Achevé d'imprimer pour la premiere fois le 23. Avril* [193]*1695.*
 
 
-# Lexique de Judith
+# Lexique de Judith.
 
 Les chiffres notés entre crochets renvoient aux vers de *Judith*, numérotés en regard du texte dans la marge de droite. Chaque définition est accompagnée des références de toutes les occurrences qui répondent à cette définition dans *Judith*. En revanche, tous les sens ne sont pas forcément notés pour chaque terme : on a ainsi volontairement omis les définitions encore usuelles. Enfin, certains termes qui n'apparaissent qu'une fois ont été expliqués dans les notes de bas de page, ceci dans un souci de clarté et de lisibilité.Admiration, admirerEmployé dans *Judith* avec le sens d'« étonnement, stupeur ».V. 263, 310, 595, 598, 731.Signifie comme aujourd'hui « sentiment d'émerveillement ».V. 471.AdorableQue l'on doit vénérer. Se dit de Dieu uniquement, ou alors doit être compris comme un blasphème. V. 422, 462, 653, 780, 902, 916, 944, 1095.AffreuxCe qui cause l'épouvante, et non ce qui est repoussant. V. 135, 233, 376, 1143, 1272, 1352, 1379, 1431.AmantCelui qui a déclaré ses sentiments amoureux à une femme. N'implique pas de relation physique.V. 145, 1105, 1138, 1182, 1374, 1434.AmasDésigne aussi bien des personnes que des choses, contrairement à l'acception actuelle. Sans nuance dépréciative.V. 111, 447.ArtPossède dans ce texte un sens péjoratif lorsqu'il est synonyme d'artifice.V. 181, 466, 1039, 1193. AveuN'a pas le sens juridique d'aujourd'hui. Désigne ici la déclaration d'une pensée ou d'un sentiment.V. 157, 1061, 1133.BonheurLittéralement « événement heureux », c'est-à-dire employé au sens propre pour désigner « ce qui vient à point » selon Furetière.V. 55, 267, 628, 666, 893, 1069, 1278, 1438, 1461.Quant à malheur, il signifie l'inverse.BruitDésigne la nouvelle que l'on apprend.V. 293, 320, 1285.Signifie aussi  « sédition, querelle, confusion » (Furetière).V. 343, 488, 1030.C'est aussi la réputation prise en bonne part.V. 167, 569.Enfin, il désigne au pluriel la rumeur.V. 1147.CharmePossède les sens de « puissance magique » et de « ce qui plaît », avec toutefois une nuance intensive : c'est ce qui « nous ravit en admiration » (Furetière).V. 166, 283, 409, 438, 490, 509, 546, 799, 810, 881, 968, 972, 1023, 1278, 1431, 1484.CruelSignifie aussi, en plus des sens actuels, « extrême ».V. 481, 953. Éclat, éclatantCe qui couvre de gloire.V. 60, 308, 1094.C'est aussi le faste.V. 468, 486, 1073.Enfin, le terme est aussi employé dans divers sens encore usuels.Étonné, étonnement« Causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte » (Furetière). Plus proche du sens latin (*attonare* :frapper du tonnerre).V. 47, 98, 136, 157, 234, 252, 316, 433, 535, 791, 803, 833, 1035, 1087, 1180, 1389.Fier, fiertéCe terme prend dans *Judith* divers sens. Tout d'abord, celui de « dangereux ».V. 12, 85, 336, 699.Puis, celui de « farouche, sauvage ».V. 138, 147, 537, 667, 1274, 1420.« Qui a de l'amour propre ».V. 622, 651.Enfin, de « hautain, orgueilleux ».V. 263, 642, 658, 734, 946, 1040, 1252, 1472.FlatterSignifie en premier lieu « encourager, faire grandir », en bonne ou en mauvaise part.V. 171, 333, 381, 400, 571, 813, 919, 1071, 1127, 1318, 1395.Puis « soulager ».V. 580, 820.On le trouve aussi dans le sens encore usuel de « louanges exagérées ou mensongères ».V. 670, 861, 905, 933, 1114, 1191, 1202.FureurFolie, égarement de l'esprit.V. 8, 319, 436, 494, 567, 574, 618, 663, 691, 988, 1164, 1170, 1205, 1245, 1325, 1401, 1418, 1433.GénéreuxDe race noble.V. 532, 738, 873.Gloire, glorieuxPossèdent en premier lieu le sens de « ce que l'on doit à soi-même, à sa propre dignité ». Pris en ce sens, ils désignent généralement l'honneur de Judith.V. 318, 432, 514, 680, 724, 929, 975, 1025, 1113, 1140, 1250, 1456, 1459, 1483.Ces termes désignent également un succès.V. 56, 652, 773, 880, 893, 1060, 1083, 1312, 1450.Et la célébrité qui en découle pour son auteur (c'est le sens usité aujourd'hui).V. 256, 261, 496, 507, 718, 732, 1051, 1097, 1099, 1366, 1427, 1472.Ils peuvent aussi être synonyme de « vanité, vaniteux ».V. 87, 91, 99, 402, 948, 1185, 1199.Enfin, ils caractérisent la majesté divine.V. 160, 227, 747, 768, 963, 1160.IllustreDésigne ici davantage la noblesse de l'âme que la renommée.V. 284, 299, 452, 730, 946, 1082.Impatience, impatientQui ne peut se résigner.V. 1, 14, 855, 1227.Par extension, qui est révoltéV. 590, 1276.Les autres occurrences renvoient au sens actuel.InquietSignifie, en plus des sens encore en usage, « remuant, agité ».V. 237, 281, 289.InstruireInformer.V. 15, 63, 1081, 1285, 1366, 1377, 1465.JalouxPrend parfois le sens de « particulièrement attaché à quelque chose ».V. 36, 463, 652.ModesteQui a de la retenue, de la pudeur.V. 38, 173, 243, 266, 393, 397, 483, 600, 1046, 1219.Nouveau, nouveautéCe qui est inconnu, voire étrange.V. 105, 229, 253, 389, 399, 575, 799, 1034, 1080.QuerelleCause que l'on défend.V. 270, 298, 542.SéduireSéduire signifie « abuser quelqu'un, lui persuader de faire le mal » (Furetière).V. 58, 599, 1319.ServirParmi les nombreuses occurrences de ce terme, trois signifient « combattre pour quelqu'un ».V. 59, 87, 630.SuperbeOrgueilleux.V. 90, 139, 470, 1462.A aussi le sens actuel de magnifique.V. 792, 1225.TimideContrairement à l'usage atténué d'aujourd'hui, timide signifie « faible, peureux, qui craint tout. L'esprit timide est celui qui manque de hardiesse pour entreprendre quelque chose de grand » (Furetière).V. 235, 273, 393, 801, 959, 1018, 1219.Transport« Se dit figurément en choses morales, du trouble ou de l'agitation de l'âme par la violence des passions » (Furetière).V. 71, 237, 608, 617, 719, 847, 918, 1012, 1106, 1132, 1169, 1343, 1401, 1406.VertuDésigne ici le courage.V. 457, 605, 749, 907.Et plus généralement les qualités morales.V. 163, 241, 314, 601, 1219, 1486.Et enfin la vertu par opposition au vice.V. 838, 1057, 1448.ZèleC'est, selon Furetière, « l'ardeur, la passion que l'on a pour une chose ». Cette ardeur peut être religieuse…V. 65, 75, 133, 198, 240, 296, 306, 542, 724, 785, 1157.… amoureuseV. 618.…ou bien plus générale, guerrière notamment.V. 125, 154, 247, 278, 309, 310, 457, 572, 595.
 
 
-# Répartition des vers selon les scènes et les personnages
+# Répartition des vers selon les scènes et les personnages.
  | I, 1 | I, 2 | I, 3 | I, 4 | I, 5 | I, 6 | II, 1 | II, 2 | II, 3 | II, 4 | II, 5 | II, 6 | II, 7 | II, 8 | III, 1 | III, 2 | III, 3 | III, 4
 Judith |  |  |  |  | 55, 5 |  |  |  |  | 30 | 15, 5 | 19, 5 | 22 |  |  |  |  | 
 Misaël |  |  |  |  |  |  | 37 | 1 | 28 | 47 |  |  | 4, 5 | 18, 5 |  |  |  | 50, 5
@@ -2940,10 +2940,10 @@ Assyriens | 14, 5 | ⁎ |  |  |  |  |  |  |  |  |  |  |  |  |  |
  ? : on suppose que le personnage est là, même si sa présence n'est pas signalée en début de scène.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Oeuvres de référence**Boursault**Satire des satires, Comédie
+## Oeuvres de référence.**Boursault**Satire des satires, Comédie
 **Boyer**Jephté, tragédie
 **Boyer**Epître au Roy sur la prise de MonsDiscours à l'Académie française
 **Boyer**Caractères de l'amour profane
@@ -2972,7 +2972,7 @@ Annales dramatiques ou Dictionnaire Général des Théâtres, par une société 
 
 
 
-## Études**A. Adam**Histoire de la littérature française au XVII*e*
+## Études.**A. Adam**Histoire de la littérature française au XVII*e*
 **Cl. C. Brody**The Works of Claude Boyer
 **A. Cioranescu**Bibliographie de la Littérature française du XVII*e*
 **Chr. Delmas**La Tragédie de l'âge classique

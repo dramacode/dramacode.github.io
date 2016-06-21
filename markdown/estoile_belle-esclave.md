@@ -21,7 +21,7 @@ Se vend en l'Imprimerie des nouveaux Caractheres de Pierre Moreau [1], Me Escriv
       maîtrise sous la direction de Georges Forestier (2010).
 
 
-# Introduction
+# Introduction.
 
 
 Je vous envoie *La Belle Esclave* de M. de L'Estoile, et je vous avoue que j'aimerois mieux avoir composé cette pièce que d'avoir acquis trois duchés et le titre de grand d'Espagne. [2]
@@ -31,10 +31,10 @@ Un contexte exotique, des revers de fortune soumettant des princes à l'esclavag
 Pourtant, Claude de L'Estoille appartient sans conteste à l'élite de son temps : Académicien et poète officiel des ballets de Louis XIII après Bordier, il contribue, selon le jugement de Saint-Amant [3], à assurer la gloire littéraire française au même titre que Pierre Corneille et Guillaume Colletet. Sa pièce, *La Belle Esclave*, publiée en 1643, pendant l'âge d'or de la réflexion dramatique, nous permet d'autant mieux d'éclairer l'effervescence des enjeux et des débats de la vie théâtrale du XVII*e* siècle qu'elle appartient à un genre longtemps négligé par la critique : la tragi-comédie. *La Belle Esclave* se situe précisément à la charnière de cet art dramatique en mutation, entre insouciance « baroque » à l'égard des revendications théoriques et prise de conscience d'un changement de goût vers la régularité.
 
 
-# Claude de L'Estoille
+# Claude de L'Estoille.
 
 
-## Aperçu biographique
+## Aperçu biographique.
 
 La famille de L'Estoile, originaire d'Orléans, mais fixée à Paris, appartenait à la noblesse de robe et donna aux rois de France un nombre important de fonctionnaires. Le premier membre de renom de la famille fut Pierre Taisan de L'Estoile (1480-1537), l'arrière-grand-père de notre dramaturge, qui, docteur en droit de l'Université d'Orléans, devint sous François I*er* président aux enquêtes du Parlement de Paris. Il eut Calvin pour élève et Théodore de Bèze pour ami [4]. Son fils, Louis de L'Estoile, le grand-père de Claude, poursuivit la tradition familiale en devenant président aux enquêtes du palais.
 
@@ -88,7 +88,7 @@ Un qu'il a bien rendu plus durable et plus beau. [51]
 L'Estoille bénéficia encore d'une bonne réputation au XVIII*e* siècle, au moins comme poète. Ses vers furent en effet réimprimés dans la *Bibliothèque* d'Adrien-Claude Le Fort de la Morinière [52]. Un siècle plus tard, Paul Olivier choisit des vers de L'Estoille pour son anthologie *Cent Poètes lyriques, précieux ou burlesques du XVII*e* siècle* [53]. Enfin, au XX*e* siècle, il fait l'objet d'une étude universitaire due à Richard Alexander Parker [54] avant que Roger Guichemerre ne publie en 1977 l'édition de *L'Intrigue des filous* [55].
 
 
-## L'Estoille et le théâtre
+## L'Estoille et le théâtre.
 
 Mais le fascheux métier, que celuy d'un Poëte ;  
 Et qu'il faut bien avoir l'esprit fait de travers,  
@@ -135,7 +135,7 @@ Enfin, quel que soit l'acte qu'ait effectivement versifié Claude de L'Estoille,
 Claude de L'Estoille, en se tournant vers une carrière dramatique, suit ainsi les modes littéraires de son temps, dans une volonté d'émulation avec ses paires. Il compose alors, probablement au cours de l'année 1642, *La Belle Esclave*, pièce en cinq actes et en vers, critères essentiels pour qu'un dramaturge puisse accéder à une reconnaissance littéraire. Il paraît dès lors intéressant de déterminer quelles furent les raisons pour lesquelles Claude de L'Estoille choisit de composer pour sa première pièce une tragi-comédie, au détriment d'autres genres comme la tragédie qui, au cours de la décennie 1630-1640, connaissait pourtant une véritable renaissance.
 
 
-## L'Estoille et la tragi-comédie
+## L'Estoille et la tragi-comédie.
 
 Nam me perpetuo facere ut sit comœdia,  
 Reges quo veniant et di, non par arbitror.  
@@ -164,10 +164,10 @@ La *dispositio* et l'*inventio* de *La Belle Esclave* prouvent effectivement que
 Par conséquent, à l'époque où la tragi-comédie entre en concurrence avec la tragédie qui bénéficie d'une modernisation de sa poétique, Claude de L'Estoille propose une pièce rompant avec les caractéristiques les plus controversées du genre tragi-comique. Il s'inscrit dès lors au cœur du débat théâtral de son époque, débat devenu véhément depuis « La Querelle du *Cid* », à laquelle il prit d'ailleurs part en contribuant à la rédaction des *Sentimens de l'Académie françoise sur la Tragi-Comédie du Cid* [65]. Depuis cette querelle, la tragi-comédie commença à ne plus pouvoir échapper à l'empire des règles, règles que La Mesnardière entérina et systématisa dans sa *Poétique*, en 1639.
 
 
-# Présentation de *La Belle Esclave*
+# Présentation de *La Belle Esclave*.
 
 
-## Réception
+## Réception.
 
 
 Cher Lecteur, j'offre à tes yeux un corps sans âme, j'appelle ainsi toute Comedie qui se voit sur le papier, et non pas sur le Théâtre. Les plus galantes et les mieux achevées sont froides pour la pluspart et languissantes, si elles ne sont animées par le secours de la representation. Les Comediens n'en font pas seulement paroistre toutes les graces avec esclat : Ils leur en prestent encore de nouvelles ; et la même piece qui semble admirable quand ils la recitent, ne se peut lire quelquesfois sans degoust. [66]
@@ -202,7 +202,7 @@ Si l'on ne saurait avancer que ces pièces sont encore toutes effectivement jou�
 Il reste cependant impossible de déterminer laquelle des deux troupes rivales à cette époque, à savoir de l'Hôtel du Bourgogne ou du Théâtre du Marais, put mettre en scène *La Belle Esclave*.
 
 
-## Reconstitution scénographique
+## Reconstitution scénographique.
 
 S'il paraît évidemment délicat, pour ne pas dire audacieux, d'établir quelle a pu être la scénographie de *La Belle Esclave* compte tenu de la rareté des documents originaux relatifs à ce domaine, on peut toutefois essayer, toute réserve gardée, de s'en faire une idée, grâce au précieux *Mémoire de Mahelot* [72], qui constitue la principale source d'information sur les aménagements matériels du théâtre et leur utilisation sur la scène publique en France au XVII*e* siècle. Ce registre de travail pourvu de nombreux croquis scénographiques à l'usage du décorateur et des comédiens de la Troupe Royale établie à l'Hôtel de Bourgogne en 1629, permet en effet de comprendre quelles étaient les modalités de représentation du poème dramatique à l'âge classique.
 
@@ -272,7 +272,7 @@ Partant, l'analyse que nous proposons ne prétend pas rapporter fidèlement quel
 La tragi-comédie de Claude de L'Estoille, créée durant une période de transition privilégiant de plus en plus la représentation d'un lieu totalement homogène, ne peut que prendre en considération l'évolution de la perception de l'illusion théâtrale. Celle-ci se doit désormais de privilégier la vraisemblance absolue – subordonnant, dans une perceptive platonicienne, le plaisir au Vrai – au détriment de la vraisemblance relative. Progressivement, il est acquis que l'adhésion de l'auditeur à la rhétorique dramatique passe également par le respect de l'unité de lieux, une des conditions sans laquelle la vraisemblance absolue ne se réalise que partiellement. En 1642-1643, la scène n'est donc pratiquement plus multiple, mais n'est pas encore homogène, comme l'exigeront par la suite les pièces classiques.
 
 
-## Argument
+## Argument.
 
 L'intrigue de *La Belle Esclave* se déroule dans la ville d'Alger où le Sicilien Alphonse et son confident Fernand sont retenus en esclavage par le Roi depuis deux mois. Alphonse, prince de Sicile, a été déchu de sa souveraineté lors de la prise de Mégare par les Algériens. Alors que le jeune homme s'apprêtait à célébrer son union avec Clarice, princesse sicilienne, tous deux décidèrent, à la déclaration des hostilités entre la Sicile et Alger, de se faire passer pour frère et sœur, afin de pouvoir s'adresser l'un à l'autre avec plus de liberté s'ils étaient faits prisonniers, et de cacher l'ascendance de Clarice, fille d'Alcandre, ennemi juré d'Alger.
 
@@ -287,10 +287,10 @@ Alors que Fernand se lamente sur le sort d'Alphonse qu'il croit noyé dans les f
 Malgré les recherches d'Alphonse à l'ouverture de l'acte V, sa maîtresse demeure introuvable. Le jeune homme ne sait que rétorquer à Fernand doutant que la femme rencontrée sur le rivage correspondait bien à Clarice (scène 1). Alphonse et Haly s'affrontent dans une joute verbale devant le Roi, chacun soutenant son honnêteté. Alors que le monarque pardonne à Alphonse d'avoir accusé Haly à tort (scène 2), la Reine annonce qu'en menant des investigations secrètes, elle est parvenue à découvrir la culpabilité d'Haly par l'intermédiaire de son complice Selim, qu'elle surprit avec Clarice dans les grottes du palais. Selim, qui confessa sa faute avant de se tuer, accusa également Haly (scène 3). L'arrivée de Clarice confond le capitaine du palais que l'on mène en prison sur l'ordre du Roi. Cependant Clarice implore la clémence du monarque envers celui qui a précédemment empêché son suicide. Alphonse demande également grâce pour Haly dont le crime a seulement été d'aimer la jeune femme. Le Roi consent alors à libérer le ravisseur et bénit l'union des jeunes gens à qui il a rendu la liberté (scène 4).
 
 
-# Une intrigue originale aux influences multiples
+# Une intrigue originale aux influences multiples.
 
 
-## L'héritage de Cervantès et de la novela
+## L'héritage de Cervantès et de la novela.
 
 Si nous ignorons quelles furent précisément les sources d'inspiration de *La Belle Esclave*, faut-il pour autant se rallier à Linage de Vauciennes, qui, dans son épître placée en tête de la pièce, accorde à Claude de L'Estoille l'entière originalité de son sujet ?
 
@@ -359,7 +359,7 @@ Enfin, les dénouements de l'œuvre de Cervantès et de notre pièce présentent
 Ainsi, il apparaît que si Claude de L'Estoille s'est inspiré de la nouvelle de Cervantès, il n'en a pas tiré le sujet principal de sa pièce, à savoir le contraste entre Ricardo, le héros « libéral » et son rival Cornelio. Notre auteur a pu néanmoins en extraire d'autres éléments, parmi lesquels le cadre géographique oriental, l'évocation de la Sicile, les thèmes de l'esclavage, du rapt et de l'honneur. Cependant, le choix même de ces éléments et l'élimination de certains autres composants de l'intrigue hispanique donnent à la tragi-comédie de L'Estoille une matière dramatique beaucoup plus simple, moins riche d'actions et d'épisodes secondaires par rapport à sa source. Nous avons donc l'impression que l'écho de la nouvelle de Cervantès n'est que médiat.
 
 
-## L'influence de Guérin de Bouscal et de Scudéry
+## L'influence de Guérin de Bouscal et de Scudéry.
 
 L'influence de Cervantès ne saurait par conséquent éclipser celle qu'exerce les œuvres des contemporains de Claude de L'Estoille sur *La Belle Esclave*. En effet, vers la fin de l'année 1636, Daniel Guérin de Bouscal et Georges de Scudéry produisirent chacun une tragi-comédie héritée de la nouvelle espagnole : *L'Amant libéral*. Il n'est guère croyable que ces deux auteurs aient eu indépendamment l'idée d'adapter à la scène un même récit cervantesque. Cependant il est assez difficile de savoir auquel des deux doit revenir l'honneur de la priorité. Selon les frères Parfait [90], Guérin de Bouscal, ayant commencé sa pièce, apprit que Scudéry travaillait sur le même sujet ; il demanda donc à l'auteur dramatique et poète Charles Beys de collaborer avec lui, afin que son *Amant libéral* fût représenté en même temps que celui de son rival. Cette anecdote, qui ne nous révèle pas qui de Scudéry et de Guérin de Bouscal eut le premier l'idée d'un *Amant libéral*, est contredite par le duc de La Vallière [91] qui suppose que Scudéry s'appropria l'idée de son émule. Quoiqu'il en soit, la pièce de Guérin de Bouscal parut chez Toussainct Quinet le 15 septembre 1637 [92], sept mois et demi avant la publication de celle de Scudéry [93].
 
@@ -451,7 +451,7 @@ Concernant la parenté de *L'Amant libéral* avec notre poème dramatique, on re
 Toutefois, de nombreuses intrigues accessoires concernant des personnages secondaires de *L'Amant libéral* ne sont pas exploitées dans *La Belle Esclave*. Si la tragi-comédie de Scudéry respecte les unités de lieu et de temps, elle ne respecte pas celle de l'action. Ainsi certains développements n'exercent pas d'influence sur le déroulement de l'intrigue, tel que l'épisode du marchand juif (acte I, scène 1), ou le désespoir de la femme du cadi, Halime, qui n'est pas aimée de Léandre (acte V, scène 1). L'intrigue de Scudéry, basée sur une nouvelle contenant de nombreux incidents extérieurs à l'intrigue, se révèle assez dispersée. L'Estoille, en revanche, poursuivant la tendance de son époque, insuffle à sa pièce une plus grande concentration dramatique. Il réduit notamment les personnages de quatorze – sans compter les troupes des janissaires – à sept. Enfin notre tragi-comédie, qui concentre l'intérêt des spectateurs sur le sort de Clarice et d'Alphonse, offre un caractère plus unifié.
 
 
-## Les emprunts ponctuels
+## Les emprunts ponctuels.
 
 Nous ne saurions toutefois affirmer avec certitude que L'Estoille s'inspira de façon consciente et délibérée de *L'Amant libéral* de Scudéry car, au XVII*e* siècle, le succès de Cervantès est partiellement responsable de la popularité du thème de la captive réduite en esclavage. *Don Quichotte*, contenant la célèbre histoire d'une captive, fut également traduit très tôt dans le siècle et imité de nombreuses fois, principalement dans *Le Berger Extravagant* de Sorel en 1627. En outre, le thème des captifs chrétiens réduits en esclavage par les Maures est pratiquement un genre dans la littérature espagnole qui joue un rôle considérable dans l'imaginaire littéraire français du XVII*e* siècle. Les écrivains français perçoivent d'ailleurs dans la *novela* espagnole des échos certains de la tradition romanesque antique. Ainsi Cervantès considérait-il l'écrivain grec Héliodore [101] comme un rival dangereux. S'adressant à son lecteur, l'auteur espagnol écrit en effet dans son « Prologue » des *Novelas exemplares* :
 
@@ -491,10 +491,10 @@ Soient libres, et comblez de tous contentemens.
 *La Belle Esclave* s'avère par conséquent dotée d'une intrigue originale, tirée de thématiques partagées et d'emprunts ponctuels. Claude de L'Estoille, comme ses contemporains, trouve tout d'abord dans la nouvelle espagnole des possibilités de sources particulièrement fécondes. Les auteurs de tragi-comédie, d'une façon plus générale, puisent dans la *novela* des intrigues modernes, exotiques, fertiles en aventures, dotées de nombreuses histoires secondaires, de coups de théâtre, d'événements dramatiques qui produisent parfois la mort des personnages secondaires et le risque de mort pour les protagonistes, tout en garantissant toujours une fin heureuse. L'intrigue de *La Belle Esclave* prouve par ailleurs comment, au moment où non seulement les unités de temps et de lieu, mais aussi celle d'action, commencent à s'imposer, en suggérant la construction de textes moins foisonnants, il est encore possible d'extraire quelques éléments de la nouvelle espagnole, afin de construire une dernière tragi-comédie plus régulière. On décèle d'autre part dans la pièce de Claude de L'Estoille une assimilation des romans grecs, dont l'influence diffuse éclaire une partie de la poétique tragi-comique. Enfin, l'analyse de *La Belle Esclave* révèle combien son auteur était particulièrement attentif aux productions dramatiques de ses contemporains. En définitive, il apparaît que *La Belle Esclave* s'enrichit de son ascendance littéraire et opère une formidable synthèse de thèmes, structures et expressions de son siècle.
 
 
-# Analyse et interprétation
+# Analyse et interprétation.
 
 
-## *La Belle Esclave* : une esthétique ambiguë
+## *La Belle Esclave* : une esthétique ambiguë.
 
 
 ### Tragi-comédie ou tragédie à fin heureuse ?
@@ -565,7 +565,7 @@ Ce qui est capital … c'est que le sujet de la tragi-comédie est emprunté non
 Ainsi, si *La Belle Esclave* pourrait être considérée comme une tragédie à fin heureuse, un détail invalide pourtant cette affirmation : sa filiation avec une littérature d'inspiration romanesque, et plus précisément avec la nouvelle hispanique. En prenant le parti de se détacher des sources historiques, Claude de L'Estoille choisit de se ranger résolument du côté des praticiens de la tragi-comédie traditionnelle.
 
 
-### Une intrigue romanesque qui élude toute référence historique
+### Une intrigue romanesque qui élude toute référence historique.
 
 
 Cependant quelques-uns vous blasment de n'avoir pas traitté pour le Theatre un sujet historique ; et nous veulent faire accroire que vous avez eû peu de peine à reüssir en cet Art divin, qui forme mille differentes beautez, qui n'ont ny verité ny corps, et qui ne laissent pas toutefois d'estre prises pour de veritables merveilles de la Nature …. Mais ils asseurent au contraire, que l'Histoire est comme un marbre, difficile a manier, et auquel il est besoin de donner adroitement un nombre infiny de coups de marteau, pour le mettre en œuvre. [109]
@@ -612,7 +612,7 @@ Ou la corde, ou le fer eût terminé ses jours.
 Ces différents éléments prouvent par conséquent que le romanesque de *La Belle Esclave* naît à la fois de sa filiation avec la nouvelle cervantesque, d'inspiration contemporaine, du traitement de l'intrigue qui élude toute référence à un ancrage historique et de l'esthétique de la surprise qui fait des événements les plus tragiques de simples obstacles temporaires vers un dénouement heureux.
 
 
-### Des personnages dotés d'une conscience souffrante
+### Des personnages dotés d'une conscience souffrante.
 
 
 Le Roy et la Reine sont trop doux et trop compatissants pour des Barbares. On auroit de la peine à trouver des personnes aussi charitables. La vertu de Clarice est un peu Romanesque. À l'égard d'Alphonse, c'est un bon garçon, son rôle est long, et toujours sur le ton plaintif. L'Auteur a eu tort de ne lui pas donner un Valet plus intelligent et plus secourable que Fernand. [113]
@@ -712,10 +712,10 @@ Si Fernand est une pâle figure de confident, Selim participe, autant que lui pe
 Ainsi, les caractères dépeints par Claude de L'Estoille, loin de ressembler aux personnages quelque peu figés des premières tragi-comédies, s'avèrent plus nuancés. Le dramaturge, en accordant davantage de place à ses personnages, évoque avec plus de finesse leurs sentiments. Les esprits des protagonistes, sur le modèle des héros cornéliens, se dotent notamment d'une conscience souffrante. En définitive, l'analyse des passions et l'intériorisation du drame l'emportent désormais sur les actions et les éléments spectaculaires.
 
 
-## Dramaturgie
+## Dramaturgie.
 
 
-### Unités de temps et de lieux
+### Unités de temps et de lieux.
 
 Dès 1630, les théoriciens et praticiens du genre tragi-comique inaugurent une réflexion sur l'emprisonnement de la matière romanesque dans la régularité. Les lois du poème simple s'appliquent dès lors à celles du poème composé dans une volonté de lier ensemble les deux conceptions de la vraisemblance : la vraisemblance absolue qui unit la scène et la salle, et la vraisemblance relative qui s'intéresse à la cohérence intérieure à la fiction.
 
@@ -726,7 +726,7 @@ Aux alentours de l'année 1635, l'unité de lieu commence également à s'impose
 Le lien entre les scènes est assuré avec précaution, à l'exception de la continuité des scènes 1 à 2 de l'acte IV, où la liaison est plutôt une liaison de fuite, une technique condamnée peu après par l'abbé d'Aubignac. Claude de L'Estoille ne change pas systématiquement de scène à la sortie des personnages, comme le système classique le préconisera. Lorsque Clarice quitte le théâtre à la scène 3 de l'acte I, l'auteur estime qu'il suffit de donner une indication scénique (« elle sort ») sans commencer une nouvelle scène. Un peu plus tard dans la même scène le Roi sort mais aucun changement de scène n'est donné. Ce procédé se répète à la scène 4 de l'acte II, avec l'entrée puis la sortie de Haly, à la scène 2 de l'acte III où la Reine quitte le théâtre, et enfin à la scène 4 de l'acte V où Haly est conduit en prison.
 
 
-### Duplicité d'action
+### Duplicité d'action.
 
 L'analyse de la construction de l'action de *La Belle Esclave* s'avère déterminante puisqu'elle permet, entre autres, d'établir à quelle esthétique dramatique la pièce se rattache. Si *La Belle Esclave*, écrite à un moment charnière de l'évolution tragi-comique, ne peut renier son appartenance au genre qu'elle revendique, les éléments réguliers qu'elle laisse apparaître permettent de la juger à l'aune des critères qu'imposent les théoriciens de l'esthétique classique.
 
@@ -750,7 +750,7 @@ En outre, en dépit des deux dénouements successifs, le suspens dramatique n'es
 L'action de *La Belle Esclave* s'élabore ainsi dans deux crises majeures – l'esclavage de Clarice et son rapt par Haly – et la structuration dispersée de ces obstacles empêche la création d'un nœud, contrairement à ce que préconisent les partisans de la régularité. La présence d'un épisode parallèle, d'un événement dont les prémisses ne figurent pas dans l'exposition, à savoir l'enlèvement de Clarice, aboutit à ce que l'on pourrait appeler une « irrégularité de construction ». Mais si la critique dramatique rend habituellement compte de cette duplicité sous le nom « d'action principale » et « d'action secondaire », force est de constater que les intrigues successives de *La Belle Esclave* ne sauraient être hiérarchisées. En effet ce repérage classique débouche forcément sur le constat de l'inefficacité et de l'éclatement de l'action tragi-comique. Pour prendre la mesure de la dramaturgie de ce genre particulier, il s'agit de revenir à la notion d'intérêt qui consiste, selon Jacques Scherer, à « concentrer l'attention du spectateur sur un certain objet [121] », en l'occurrence l'aventure sentimentale des héros.
 
 
-### Unité d'intérêt
+### Unité d'intérêt.
 
 
 L'unité d'intérêt … n'exige pas la rigoureuse unification des éléments de la pièce selon une technique précise, mais elle fait ressortir l'intérêt humain d'une pièce, en exigeant que l'attention soit concentrée sur un héros ou sur un problème vital. L'unité d'intérêt est une unité vivante, alors que l'unité d'action au sens propre est mécanique. [122]
@@ -771,10 +771,10 @@ Mais on peut également considérer que ce retournement du sort, imposé par le 
 L'action de *La Belle Esclave* est ainsi divisée en deux moments de suspense, à moins que l'on considère que Claude de L'Estoille observe l'unité d'action en fonction de l'intérêt du spectateur ou du lecteur qui est centré sur la destinée de Clarice. La tension dramatique, ornement gratuit de l'esthétique tragi-comique, est suspendue jusqu'à la résolution finale, invariablement heureuse. Mais en éliminant les nombreuses péripéties adventices qui prolongeaient naguère la tragi-comédie, L'Estoille, influencé par les débats de son temps, propose une action plus ramassée. Les conflits moraux et les dilemmes supplantent désormais les multiples rebondissements.
 
 
-## Lieux communs tragi-comiques
+## Lieux communs tragi-comiques.
 
 
-### Contingence et réversibilité des obstacles
+### Contingence et réversibilité des obstacles.
 
 *La Belle Esclave* revendique une dramaturgie irrégulière que la subordination classique d'un obstacle à l'autre ne peut assagir. Linéarité, coïncidence, contingence et réversibilité demeurent les principes recteurs de notre poème dramatique. *La Belle Esclave* correspond ainsi au modèle de la « tragi-comédie à volonté », théorisée par Hélène Baby dans son ouvrage consacré au genre [127]. À la « tragi-comédie de la route [128] », concernée par le déplacement géographique, et à la « tragi-comédie de palais [129] » ou « d'intrigue [130] », exploitant le principe de l'obstacle combiné, se développe au cours des années 1640 la tragi-comédie à volonté. L'organisation des obstacles s'y veut successive et leur nature réversible. La pièce de Claude de L'Estoille, présentant une succession d'obstacles linéaires, liés par la simple coïncidence, illustre parfaitement cette esthétique.
 
@@ -859,7 +859,7 @@ Le procédé de la fausse mort relève d'un obstacle fictif et se résout aisém
 En somme, *La Belle Esclave*, tragi-comédie à volonté, fonctionne grâce à l'emploi généralisé de la coïncidence et de la réversibilité ; les développements de l'action, tous soumis aux décrets du hasard, célèbrent le pouvoir de l'événement gratuit. La formation de la combinaison demeure contingente, et la structure en apparence régulière ne peut masquer l'agencement hasardeux et réversible des actions : l'irrégularité demeure inhérente à la dramaturgie du poème composé.
 
 
-### L'inconstance de la fortune
+### L'inconstance de la fortune.
 
 Dans *La Belle Esclave*, la destinée n'est pas commandée par une transcendance immuable et implacable à laquelle le héros s'affronte, comme dans la tragédie, ni par l'industrie humaine, comme dans la comédie. Les protagonistes de notre tragi-comédie sont en revanche soumis aux caprices du destin. Le monde semble perpétuellement chancelant, imperméable à toute stabilité. Mais dans leur malheur, les héros parviennent à puiser une source d'espérance. Aussi n'y a-t-il jamais ni vrai malheur ni vrai désespoir dans l'esthétique tragi-comique.
 
@@ -953,7 +953,7 @@ Mais réduite à une convention dramaturgique, l'heureuse fin ne peut contrebala
 En somme, l'intrigue de *La Belle Esclave* ne se développe pas de façon nécessaire, mais suit les chocs que provoque cette force supérieure que les protagonistes appellent « sort », « hasard », « fortune » ou « divinité », et dont les deux caractéristiques essentielles sont la contingence et la réversibilité. Force est de constater qu'émerge pourtant une tension entre la représentation d'une destinée gouvernée par le hasard, et une autre gouvernée par Dieu. Pour Hélène Baby, cette tension « illustre parfaitement les contradictions de la pensée contemporaine, prise dans les hésitations qui séparent raison et religion [134] ». Le poème dramatique de Claude de L'Estoille se fait donc une nouvelle fois l'écho, cette fois sur un plan philosophique, des débats de son époque.
 
 
-### L'illusion représentée
+### L'illusion représentée.
 
 L'esthétique de *La Belle Esclave*, dans sa relation avec l'illusion référentielle, s'avère paradoxale. Si elle se veut, comme toute pièce dramatique, une des représentations possibles du réel, notre tragi-comédie ne manque pas de jouer avec les référents qu'elle exhibe. En somme, elle oscille entre une adaptation de la réalité et une représentation ostensible de l'illusion qu'elle donne à voir. La tragi-comédie de Claude de L'Estoille, par l'utilisation d'accessoires outrepassant leur simple statut d'objet, et par ses références aux « parenthèses de l'esprit [135] » – de la simple hallucination à la folie mélancolique – revendique son jeu d'illusion.
 
@@ -1000,15 +1000,15 @@ D'une façon plus générale, l'illusion théâtrale, produit d'un éternel équ
 La tragi-comédie s'inscrit par conséquent dans un rapport d'imitation relative au réel, contrairement à l'esthétique classique de l'imitation absolue. Elle met à jour un « réalisme » propre à l'ornementation baroque, se voulant à la fois immersion dans le spectacle et conscience de son jeu d'illusion. Cette dualité, présente dans *La Belle Esclave*, s'explique par la tension inhérente à la théâtralité elle-même : la réalité s'affirme aussi instable et illusoire qu'un décor de théâtre.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Éditions du texte
+## Éditions du texte.
 
 Nous ne possédons pas de manuscrit de *La Belle Esclave* [136], mais la pièce a fait l'objet de deux éditions en France.
 
 
-### 1*re* édition
+### 1*re* édition.
 
 La Belle Esclave, / Tragi-comédie. / De Monsieur de l'Estoille. / A Paris, / Se vend en l'Imprimerie des nouveaux Caractheres / de Pierre Moreau, Me Escrivain Juré à Paris, / et Imprimeur ordinaire du Roy, proche le Portail / du grand Conuent des RR. PP. Augustins, / Et en la boutique au Palais en la Salle Dauphine, / Par François Rouvelin, à l'Enseigne de la Vérité. 1643. / Avec Privil. Du Roy.
 
@@ -1029,7 +1029,7 @@ Il existe d'assez nombreux exemplaires de cette édition dans les collections pu
  * Médiathèque d'Orléans : D2121 Fonds ancien 1.
 
 
-### 2*e* édition
+### 2*e* édition.
 
 La Belle Esclave. / Tragicomédie. / De Monsieur de L'Estoille. / A Lyon, / Chez Claude La Rivière, / rue Merciere à la Science / M. DC. LIV. (1654) / Avec permission.
 
@@ -1046,7 +1046,7 @@ La pièce est en cinq actes et entièrement écrite en alexandrins à rimes plat
 Dans notre texte, les astérisques renvoient le lecteur au glossaire ; les chiffres et les lettres entre parenthèses indiquent les pages et cahiers de l'édition originale.
 
 
-## Fautes d'impression corrigées
+## Fautes d'impression corrigées.
 
 Nous avons établi le texte d'après l'édition de 1643.
 
@@ -1071,7 +1071,7 @@ En règle générale, nous avons conservé les graphies de l'édition originale,
 Nous signalons qu'un même mot peut présenter plusieurs graphies au sein de la pièce, la graphie des mots n'étant pas fixée au début du XVII*e* siècle.
 
 
-## Établissement de la ponctuation
+## Établissement de la ponctuation.
 
 On ne sait si Claude de l'Estoille a pu lui-même veiller à la ponctuation de l'édition originale, car au début du XVII*e* siècle, il était courant que le dramaturge abandonne ce travail à l'imprimeur. Toutefois, dans la mesure où la ponctuation originale donne des indications sur les pratiques contemporaines, nous avons fait le choix de la respecter le plus possible et de réduire au maximum toutes les modifications. Les travaux de Georges Forestier ont par ailleurs démontré qu'une modernisation de la ponctuation pouvait aboutir à une trahison possible des intentions de l'auteur [138].
 
@@ -1088,10 +1088,10 @@ La seconde édition ne comporte que des variantes graphiques, et non sémantique
 On note toutefois la variante syntaxique de la seconde édition qui modifie le sens du vers : v. 1036 : *Acheve ton ouvrage est-il, bien avancé* ? à la place de *Acheve ton ouvrage, il est bien avancé.* En outre, l'édition de 1654, en plaçant une virgule après « est-il » et non après « acheve » commet une faute d'impression.
 
 
-# La Belle Esclave. Tragi-comédie
+# La Belle Esclave. Tragi-comédie.
 
 
-## Epistre à Monseigneur SEGUIER [139], Chancelier de France
+## Epistre à Monseigneur SEGUIER [139], Chancelier de France.
 
 Monseigneur,
 
@@ -1104,7 +1104,7 @@ Le tres-humble, tres-obeyssant, et tres-obligé Serviteur,
 De L'Estoille.
 
 
-## Lettre de Monsieur Linage de Vauciennes [146], À Monsieur de L'Estoille,
+## Lettre de Monsieur Linage de Vauciennes [146], À Monsieur de L'Estoille,.
 
 Monsieur,
 
@@ -1129,7 +1129,7 @@ Mais nous ne tirons pas ce secours des pieces que nous inventons : ce ne sont q
 Est-il donc possible, Monsieur, que vos Censeurs se persuadent, qu'il n'y a presque ny peine, ny gloire à faire une chose qui nous égale en quelque sorte à la Toute-puissance ? Certes, il ne fut jamais de creance plus erronée que la leur : mais il ne s'en faut pas estonner ; l'Esprit a ses maladies comme le Corps, et la plus incurable de toutes est l'opinion. Toutefois s'ils desirent de sortir d'erreur, ils n'ont qu'à travailler à l'invention de quelque beau sujet de Theatre ; ils reconnoistront bien-tost la difficulté de l'Ouvrage par la foiblesse de l'Ouvrier. Ils broncheront à chaque pas, n'estans plus appuyer de l'Histoire ; et ces Anthées perdront l'haleine si tost qu'ils perdront la Terre [159]. Alors ils quitteront leurs sentimens, pour prendre les miens, ou confesseront que LA BELLE ESCLAVE ne vous a pas cousté si peu comme ils se figurent. Les Chefs-d'œuvres ne se font pas facilement ; et je ne m'y connois point, ou jamais il n'en fut un plus achevé que celuy-cy. Mais employer des couleurs si sombres que les miennes à peindre en raccourcy dans une Lettre cette adorable Captive [160], c'est imiter les Astrologues, qui mesurent la Lune par l'ombre de la terre, et la terre par un poinct.
 
 
-## ACTEURS. [161]
+## ACTEURS. [161].
  – Le Roy d'Alger.
  – La Reyne.
  – Alphonse,Prince de Sicile, Esclave.
@@ -1191,7 +1191,7 @@ Sa fortune⁎, Seigneur, est encore à sçavoir.
     ALPHONSE.
 Ha ! Je n'espère pas de jamais la revoir [171].  
 
-    FERNAND. 
+    FERNAND.
 Il est vray qu'à Megare en vain je l'ay cherchée.  
 
     ALPHONSE.
@@ -1262,7 +1262,7 @@ Ne m'ont que trop appris ce funeste⁎ mal-heur ;
 Et je ne doute plus qu'une affreuse advanture⁎  
 Du lieu de son berceau n'ait fait sa sepulture.  
 
-     FERNAND.
+    FERNAND.
 Seigneur, si j'en sçay rien [180], que le Ciel⁎ en courrous  
 Me face un ennemy d'un Prince comme vous ;  
 J'arrive de Megare, où loin d'avoir la veuë  
@@ -1282,7 +1282,7 @@ Qui par son grand débris estonne⁎ la Sicile ;
 Et qui n'a plus enfin face que d'un cercueil,  
 Où de tous ses Palais est enterré l'orgueil.  
 
-    ALPHONSE. 
+    ALPHONSE.
 Qu'est-ce donc qu'en a fait le destin⁎ de la Guerre ?  
 Est-elle dans la mer ? est-elle sur la terre ?  
 Il venoit un Navire où peut-estre flottoit  
@@ -1358,7 +1358,7 @@ Mais deussay-je passer pour un homme insatiable,
 Et qui semble vouloir lasser votre bonté,  
 Je demande ma Sœur à vostre Majesté.  
 
-    LE ROY. 
+    LE ROY.
 Il n'est rien que de moy vous ne deviez attendre [191] ;  
 Mais quant à vostre Sœur, pourrois-je vous la rendre ?  
 Des lettres de ma main m'ont engagé d'honneur⁎  
@@ -1696,7 +1696,7 @@ Et qu'on m'oste un tresor dés qu'on me l'a donné.
     CLARICE.
 Il faut donc que je parte ?  
 
-    ALPHONSE. 
+    ALPHONSE.
         Ouy, sans nulle remise⁎ ;  
 Le vouloir destourner d'une telle entreprise⁎,  
 C'est vouloir en son cours arrester un torrent,  
@@ -1991,7 +1991,7 @@ ALPHONSE, CLARICE, HALY, FERNAND.
 Diferer son malheur, ce n'est pas l'éviter :  
 Il faut partir Madame, et votre plainte est vaine ;  
 
-    CLARICE. 
+    CLARICE.
 Adieu mon frere, adieu, pour jamais on m'emmeine ;  
 On m'arrache de vous sans aucune pitié.  
 
@@ -2586,7 +2586,7 @@ FIN DU TROISIEME ACTE.
 ALPHONSE, FERNAND.
 
 
-    FERNAND. 
+    FERNAND.
 Où dois-je encore aller ? prenons un peu d'haleine,  
 Mon cœur tout halletant ne respire qu'à peine ;  
 Mais je pense qu'aussi ce bois n'a point de lieux,  
@@ -2780,7 +2780,7 @@ Une foule de peuple entrer en murmurant ;
 Et s'il faut qu'une fois on découvre la ruse,  
 L'excès de mon amour n'en sera pas l'excuse.  
 
-    SELIM. 
+    SELIM.
 Faisons-donc sous l'effort⁎ d'une mortelle main  
 Tomber [252] plustost Clarice aujourdhuy que demain ;  
 Et pour cacher à tous ce meurtre profitable,  
@@ -2858,7 +2858,7 @@ Le Roy et Alphonse entrent sur le Theatre par deux costez differents.
 Et je voy dans ses yeux mon crime, et mon supplice ;  
 Feignons bien toutesfois.  
 
-    ALPHONSE. 
+    ALPHONSE.
         Sire, Sire, justice ;  
 Clarice n'est point morte, et le traistre Haly  
 Tient ce jeune Soleil dans l'ombre ensevely.  
@@ -2936,7 +2936,7 @@ Qu'on allast à ce bruit esgorger l'Innocente,
 Ou la faire évader par quelque lieu secret,  
 D'enragé que j'estoit m'a fait estre discret.  
 
-    LE ROY. 
+    LE ROY.
 Quelle histoire, bon Dieu, la Reine la sçait-elle ?  
 
     ALPHONSE.
@@ -3218,7 +3218,7 @@ Qui pour faire venir le crime en évidence,
 Attache quelques fois des lumieres aux Cieux,  
 Qui de l'aveugle mesme illuminent les yeux ?  
 
-    HALY. 
+    HALY.
 Le Ciel⁎ vous a sauvé d'une estrange⁎ manière,  
 Au poinct que vous couriez à vostre heure derniere ;  
 Mais pour vous secourir en cette extremité,  
@@ -3238,7 +3238,7 @@ LE ROY, LA REYNE, ALPHONSE, HALY.
 Le croiriez-vous, Madame, à moins que de le voir,  
 Qu'un Amant⁎ jusques-là se laissast decevoir⁎ ?  
 
-    LA REYNE. 
+    LA REYNE.
 Alphonse est-il muët ?  
 
     ALPHONSE.
@@ -3583,7 +3583,7 @@ Qui de vostre vertu⁎ ne seroit amoureux ?
 FIN DU DERNIER ACTE.
 
 
-## Extraict du privilege du Roy
+## Extraict du privilege du Roy.
 
 Par grace et Privilege de sa Majesté donné a Paris au Moys de Mars 1643. signé, par le Roy en son Conseil, Conrars, et scellé du grand sceau de cire jaune, Il est permis au Sieur de L'Estoille de faire imprimer la Tragicomedie nommée La belle Esclave, par luy composée, et ce dis nouveaux Caracteres inventez par P. Moreau, Me Escrivain, Juré à paris, et Imprimeur ordinaire du Roy, et non d'autres, durant le temps de cinquante, avec deffences a tous Imprimeur et Libraires de la contrefaire, ny Imprimé en quelque sorte de Caractere que ce soit, à paine de confiscation des Exemplaires, de six mil livres d'amende, et autres peines contenues.
 
@@ -3594,7 +3594,7 @@ Achevé d'imprimer le dernier Octobre 1643.
 Les Exemplaires ont esté fournis.
 
 
-# Glossaire
+# Glossaire.
 
 Les présentes définitions sont issues des dictionnaires suivants :
  * *Académie Française*, *Dictionnaire*, J.-B. Coignard, 1694, (2 vol.). (AC.)
@@ -3602,7 +3602,7 @@ Les présentes définitions sont issues des dictionnaires suivants :
  * *Richelet*, Pierre, *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*, Genève, J.-H. Widerhold, 1680 (2 vol.). (R.)AboyerSe dit pour exprimer le cri des chiens, ou de ce qui lui ressemble (F.)V. 880AccroireFaire croire à quelqu'un une chose fausse (F.)V. 349, 1137AdorerDans son sens hyperbolique, signifie avoir beaucoup d'amour ou d'admiration pour quelqu'un. (F.)V. 195, 473, 752, 944, 1095, 1103, 1511Adresse : s. f.Esprit, prudence, subtilité, finesse, certaine manière de dire, ou de faire les choses (R.) V. 93, 113, 1322Affection : s. f.Passion de l'âme qui nous fait vouloir du bien à qqn, ou nous plaire à quelque chose. On le dit de l'amour et de l'amitié. (F.)V. 582, 675Affliction : s. f.Peine du corps, ou de l'esprit. (F.)V. 676, 1212Amant, ante : adj.Celui qui aime d'une passion violente et amoureuse. (F.)V. 40, 493, 919, 924, 966, 1324, 1388, 1408, 1486, 1598, 1607Ame : s. f. Se prend souvent pour la vie. *Rendre l'âme à Dieu*V. 1424Partie spirituelle de l'homme quand elle est séparée de son corps. *Prier Dieu pour les âmes des défunts* (F.)V. 37, 55, 169, 189, 257, 550, 592, 633, 698, 790, 932, 1250, 1361, 1410, 1501Amer, ère : adj.Se dit figurément en Morale. *Une douleur amère, des paroles amères*, c'est-à-dire que nous goûtons avec peine et chagrin. (F.)V. 1245Amitié : s. f.Affection que l'on a pour qqn, soit qu'elle soit seulement d'un côté, soit qu'elle soit réciproque. (F.)V. 552, 593, 707, 748Apparence : s. f.Conjecture, vraisemblance. (F.)V. 282, 1609Appât : s. m.Se dit figurément en chose morale de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. *La beauté est un grand appât pour engager le cœur des hommes. Cette femme est pleine de charmes et d'appas*. En ce sens on accourcit le mot ; et on dit *appas* au lieu d'*appâts*. C'est le sens de nos occurrences. (F.)V. 251, 273, 295, 331, 395, 706, 1412Apprêt : s. m.Signifie appareil. *Nous retournâmes au navire faire les apprêts nécessaires*. (AC.)V. 456Ardeur : s. f.Se dit figurément en Morale et signifie passion, vivacité, emportement, fougue. (F.)V. 122, 170, 190, 522Artifice : s. m.Fraude, déguisement, mauvaise finesse. (F.)V. 1063, 1118, 1489Astre : s. m. Corps plein de lumière propre, ou empruntée, qui roule dans les cieux au dessus de la région élémentaire. Les Planètes sont des astres dont on observe particulièrement les influences. Les astres du Firmament sont les étoiles fixes.V. 975, 1004, 1292Se dit figurément en Morale d'une personne extraordinaire en mérite, en beauté. (F.)V. 985, 1178Atteinte : s. f. Action par laquelle on atteint, ou on touche.V. 530Signifie aussi légère attaque, soit de maladie, soit de paroles. (R.)V. 173, 242, 530Attentat : s. m.Outrage ou violence qu'on tâche de faire à quelqu'un. (F.)V. 1415Attrait : s. m.Se dit poétiquement de la beauté. (F.)V. 86, 172, 200, 1099Aventure : s. f.Accident, ou chose qui est arrivée, ou qui doit arriver. (F.)V. 81, 905, 990, 1165, 1553Banc : s. m.Signifie en termes de Marine un lieu dans la mer où il n'y a pas assez d'eau pour porter un vaisseau. On le dit aussi des sables et des rochers qui s'élèvent un peu au-dessus de la surface de l'eau. (F.)V. 128BarbareÉtranger qui est d'un pays fort éloigné, sauvage, mal poli, cruel, et qui a des mœurs forts différentes des nôtres. Barbare signifie aussi cruel, impitoyable, qui n'écoute point la pitié, ni la raison. (F.)s. m. : V. 66, 106, 352, 508, 555, 1457.adj. : V. 17, 76, 576.Bien : s. m.Signifie toutes sortes de possessions et de richesses. (F.)V. 52, 104, 141, 258, 504, 815, 866, 875, 1227, 1270, 1348, 1476, 1610Brave : adj. et s. m. et f.En termes de Guerre, signifie intrépide, qui affronte les périls. (F.)V. 221, 770Brèche : s. f.En termes de Guerre, se dit de cette ouverture qu'on fait aux murailles d'une ville assiégée, par mine, sape, ou coups de canon, pour ensuite monter à l'assaut. (F.) V. 931Carrière : s. f.Se dit figurément du cours de la vie. (F.)V. 901, 985Charme : s. m. Puissance magique par laquelle, avec elle l'aide du Démon, les Sorciers font des choses merveilleuses, ou contre l'ordre de la nature.V. 429, 1556Se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en admiration. (F.)V. 166, 277, 803, 1273Châtiment : s. m. Supplice, peine qu'on fait souffrir pour quelque faute commise. (F.)V. 1447Chimère : s. f.Se dit figurément des vaines imaginations qu'on se met dans l'esprit, des terreurs et des monstres qu'on se forge pour les combattre, des espérances mal fondées que l'on conçoit, et généralement de tout ce qui n'est point réel et solide. (F.)V. 1246ChoquerSignifie figurément quereller, offenser. (F.)V. 531Ciel : s. m.Région éthérée au dessus de l'élémentaire, dans laquelle se meuvent tous les astres.V. 134, 442, 753, 794, 932, 975, 1145, 1242, 1284, 1371, 1472Signifie Dieu même, la Providence. (F.)V. 12, 71, 73, 83, 112, 260, 261, 445, 446, 453, 601, 809, 869, 933, 961, 1265, 1335, 1381, 1412, 1453, 1557, 1581Clément : adj.Qui a coutume de pardonner, de traiter doucement ceux qui sont à sa discrétion. (F.)V. 241, 1604ConfondreConvaincre, fermer la bouche à son adversaire. (F.)V. 1390Constance : s. f.Force d'esprit qui entretient toujours l'âme dans une même assiette, en une même fermeté, quelque ébranlement que souffre le corps par la douleur, l'affliction, la nécessité, ou autres causes semblables. (F.)V. 366, 909Constant, ante : adj.Qui a l'esprit ferme et inébranlable. (F.)V. 672Contentement : s. m.Joie, plaisir, satisfaction. (AC.)V. 516, 1608ConvaincrePersuader qqn par des raisons évidentes et démonstratives. (F.)V. 1128, 1331, 1558CouleurSe dit dans ce cas de la disposition du teint, du visage et des chairs. On le dit aussi des altérations qui se font au visage par les mouvements intérieurs de l'âme. (F.)V. 79, 202, 774, 1409Courage : s. m.Ardeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls. (F.)V. 5, 156, 308, 449, 538, 582, 893, 913, 1021Courtoisie : s. f.Bon office, plaisir que l'on rend volontairement à quelqu'un sans y être obligé. (F.)V. 1230Curieux, euse : adj. et s.Celui qui veut tout savoir et tout apprendre. (F.)V. 367DécevoirTromper adroitement. (F.)V. 383, 1027, 1388DégoutterTomber goutte à goutte, abonder. (R.)V. 8Dépêche : s. f.Paquet qu'on envoie en diligence par un courrier exprès pour quelque affaire d'État, ou quelque autre chose importante. (F.)V. 434Dépôt : s. m.Ce qu'on a mis entre les mains de quelqu'un pour le garder. (F.)V. 984DésavouerDésapprouver et ne reconnaître pas pour sien. (F.)V. 472, 473DésolerAffliger un pays ou une personne par une ruine ou une destruction entière. (F.)V. 265Désordre : s. m.Confusion, manque d'ordre. (F.)V. 560Dessein : s. m.Projet, entreprise, intention. (F.) V. 327, 663, 736, 858, 993, 1124Destin : s. m.Disposition ou enchaînement de causes secondes ordonné par la Providence, qui emporte une nécessité de l'événement.V. 64, 101, 184, 269, 383, 463, 939, 959, 1478, 1531Synonyme de *destinée*. (F.)V. 406, 438, 1154, 1582Discrétion : s. f.Prudence, modestie qui sert à conduire nos actions et nos paroles. (F.)V. 1211Doute : s. m.Incertitude, agitation de l'esprit qui ne connaît pas la vérité et qui ne sait de quel côté il se doit déterminer. (F.)V. 47, 1001, 1513Douteux, euse : adj.Problématique, incertain. (F.)V. 64, 1259Effort : s. m.Emploi de toutes ses forces. Se dit aussi de tout ce qu'on fait avec violence. (F.)V. 66, 156, 201, 300, 329, 575, 599, 603, 616, 644, 821, 903, 927, 1055, 1083Effroi : s. m.Terreur soudaine qui donne une grande émotion ou surprise à la vue, ou au récit de quelque objet qui est à craindre. (F.)V. 877, 1400Ennui : s. m.Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long. (F.)V. 236, 272, 476, 493, 513, 640, 1366Énorme : adj.Prodigieux, excessif. (F.)V. 90, 1179, 1403Entreprise : s. f.Résolution hardie de faire quelque choseV. 374.En termes de Guerre, se dit qu'un dessein qu'on forme, du devoir où on se met de surprendre, de conquérir une place, une Province, d'enlever un quartier, etc. (F.)V. 596Escorte : s. f.Troupe de gens armés qui accompagnent quelque chose dans un voyage ou pour sa sûreté et pour la défendre d'insultes. (F.)V. 585ÉtonnerCauser à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. (F.)V. 98, 823, 981Étrange : adj.Signifie ce qui est surprenant, rare, extraordinaire. (F.)V. 623, 989, 1186, 1381, 1386Fable : s. f.Histoire fabuleuse. (R.)V. 1086, 1138Factieux, euse : adj.Celui qui forme les cabales et les factions, ou qui adhère à leur parti. (F.)V. 847Fameux, euse : adj.Qui est en vogue, en réputation bonne ou mauvaise. (F.)V. 8, 19, 644, 712, 846Fantaisie : s. f.Caprice, folie. (R.)V. 1229Fers : s. m.On appelle absolument *fers* les chaînes, les carcans et menottes qui servent à retenir les prisonniers et les esclaves. (F.)V. 332, 408, 620, 657, 948, 1180, 1191, 1415Feu : s. m. Signifie quelquefois simplement la lumière d'une bougie, d'une chandelle, d'un flambeau.V. 549Se dit aussi des astres et des météores.V. 979Se dit figurément en choses spirituelles et morales de la vivacité d'esprit, de l'ardeur des passions. On dit d'un homme amoureux qu'*il brule d'un beau feu*. (F.)V. 44, 524, 788, 942, 1101Flamme : s. f. La partie la plus subtile du feu qui s'élève en haut, et fait une figure pyramidale.V. 549, 963, 1426On dit figurément la flamme de l'amour ; se dit communément de l'amour profane. (F.)V. 38, 170, 190, 758, 789Foi : s. f. Vertu théologale qui s'applique dans le consentement aux vérités révélées de la religion.V. 188, 289, 559, 1374, 1583Créance, assurance, témoignage. (AC.)V. 392, 595, 984, 1009, 1146, 1149Forçat : s. m.Galérien, homme condamné aux Galères, qui tire sa rame par force. (F.)V. 611Fortune : s. f. C'était autrefois une divinité païenne qu'on croyait être la cause de tous les événements extraordinaires : au lieu que c'est un effet de la Providence divine qui agit par des voix inconnues et au dessus de la prudence des hommes.V. 218, 366, 368, 1278, 1337Maintenant on appelle *fortune* Ce qui arrive par hasard, qui est fortuit et imprévu.V. 30, 31, 155, 321, 339, 398, 673, 1010, 1041Ensemble des biens de grande valeur. (F.)V. 845Fourbe : s. f.Tromperie. (AC.)V. 1346Franchise : s. f. Sincérité tant en ses paroles qu'en ses actions.V. 590Liberté. (F.)V. 402, 681, 725Frénétique : adj. de tout genre.Atteint de frénésie, furieux. (F.)V. 1358Funeste : adj.Qui cause la mort, ou qui en menace, ou quelque autre accident fâcheux, quelque perte considérable. (F.)V. 80, 153, 269, 459, 665, 882, 1470, 1593Fureur : s. f.Rage, manie, frénésie. (AC.)V. 74, 263, 376, 440, 828, 962, 1177, 1268Furie : s. f.Passion violente de l'âme qui la transporte, qui outre sa colère. Se dit aussi de tout ce qui se fait avec ardeur, promptitude, courage, impétuosité. (F.)V. 993, 1162Furieux, euse : adj. Qui est transporté de colère, de fureur, de furie.V. 1532Se dit aussi de tout ce qui a de la violence, de l'impétuosité, de l'excès. (F.)V. 877, 1356Gêne : s. f.Se dit de toute peine ou affliction de corps ou d'esprit. Un amant, pour exprimer sa passion, dit aussi que l'amour lui fait souffrir les plus cruelles gênes pour dire des tourments. (F.)V. 698Généreux, euse : adj.Qui a l'âme grande et noble, et qui préfère l'honneur à tout autre intérêt. Signifie aussi brave, vaillant, courageux. (F.)V. 209, 599, 832, 923, 1611Générosité : s. f.Grandeur d'âme, de courage, magnanimité, bravoure, libéralité et toute autre qualité qui fait le généreux. (F.)V. 199, 257, 655Gloire : s. f.Se dit par emprunt et par participation de l'honneur mondain, de la louange que l'on donne au mérite, au savoir et à la vertu des hommes. (F.)V. 176, 194, 237, 350, 452, 671, 679, 841, 1219Grâce : s. f.Se dit des faveurs des Princes. (F.)V. 158, 240, 505, 746, 795, 814, 1606Hasard : s. m. Cas fortuit, ce qui arrive sans cause apparente ou nécessaire.V. 1341Signifie aussi péril, danger. (F.)V. 536Heur : s. m.Rencontre avantageuse. (F.)V. 390Honneur : s. m.Témoignage d'estime ou de soumission qu'on rend à quelqu'un par ses paroles, ou par ses actions.V. 147, 225, 318, 1299, 1474Se dit en général de l'estime qui est due à la vertu et au mérite.V. 1091, 1260, 1304, 1332, 1355S'applique plus particulièrement à deux fortes vertus : à la vaillance pour les hommes, et à la chasteté pour les femmes.V. 270, 302, 422, 467, 484, 736, 892, 1192, 1588, 1589Se dit aussi de ce qui honore, qui donne de la gloire. (F.)V. 175, 178, 181, 1210Honte : s. f. Passion qui excite du trouble dans l'âme par le danger de souffrir quelque confusion, quelque mépris des hommes et qui en donne des marques extérieures par une rougeur qui paraît sur le visage.V. 324, 922, 1067, 1314, 1394Signifie quelquefois affront, injure qu'on reçoit, infamie qu'on souffre. (F.)V. 181, 350, 476, 486, 502, 1210Horreur : s. f. Passion violente de l'âme qui la fait frémir, qui lui fait avoir peur de quelque objet nuisible et terrible.V. 94, 264, 827, 1267, 1564Se dit quelquefois d'un simple mouvement de crainte ou de respect. (F.)V. 980Illusion : s. f.Fausse apparence, artifice pour faire paraître ce qui n'est pas, ou autrement qu'il n'est en effet. (F.)V. 1028, 1500ImmolerSacrifier. (AC.)V. 186, 200, 452, 1115, 1544, 1588ImportunerSe rendre importun. (F.)V. 322Imposteur : s. m.Calomnieur, qui impute faussement à quelqu'un quelque chose d'odieux et de préjudiciable. (R.)V. 1315, 1321Industrie : s. f.Adresse de faire réussir quelque chose, quelque dessein, quelque travail. (F.)V. 621InfâmeQui est sans honneur, qui ne mérite aucune estime dans le monde. (F.)V. 186, 438, 470, 894Injure : s. f. Parole que l'on dit pour offenser quelqu'un, en lui reprochant quelque défaut ou quelque vice vrai ou faux.V. 1358Se dit aussi des affronts, des torts et dommages qu'on fait à une personne par voie de fait. (F.)V. 109, 1073Lâcheté : s. f. Se dit figurément en Morale, des actions lâches, poltronnes, infâmes. (F.)V. 303Licence : s. f.Se dit de l'abus des permissions qu'on étend au-delà de leur intention, ou de la liberté que l'on prend de soi-même. (F.)V. 301Maîtresse : s. f.On le dit particulièrement d'une fille qu'on cherche en mariage. (F.)V. 42, 114, 274, 495, 706, 709, 922Mal : s. m. Douleur, infirmité corporelle. L'homme est sujet à une infinité de sortes de maux.V. 117Se dit aussi de ce qui approche de la douleur, qui donne de la peine, de la fatigue, de l'affliction.V. 48, 244, 348, 388, 410, 454, 506, 612, 626, 908, 917, 1109, 1476Se dit figurément en choses morales de tout ce qui est contraire à la vertu, à la droite raison. (F.)V. 255Mélancolie : s. f.Signifie dans nos occurrences le chagrin, la tristesse qui vient des excès de l'humeur. (AC.)V. 1198, 1249, 1356MépriserNe faire point de cas d'une chose, en témoigner du mépris. (F.)V. 624, 682Merveille : s. f. Chose rare, extraordinaire, surprenante, qu'on ne peut guère voir ni comprendre.V. 161, 980On le dit aussi des chefs-d'œuvre de l'art (F.).V. 126, 489, 735, 777, 1466, il s'agit à chaque fois de Clarice Misérable : adj. et s. m. et f.Qui est dans la douleur, la pauvreté, l'affliction ou l'oppression. (F.)V. 261, 470Monstre : s. m. Animal qui a une conformation contraire à l'ordre de la nature.V. 417, 847, 964, 1106, 1405Se dit aussi d'une personne noircie de quelque vice, comme d'ingratitude, d'avarice, d'impureté. (AC.)V. 982Monument : s. m.Signifie le tombeau. (F)V. 124, 948, 1548Nonpareil, eille : adj.Qui n'a point de semblable, tant il est excellent et au dessus des autres. (F.)V. 125, 1163, 1521Objet : s. m.Ce qui est opposé à notre vue, ou qui frappe nos autres sens, ou qui se représente à notre imagination.V. 87, 939, 997, 1254Se dit aussi poétiquement des belles personnes qui donnent de l'amour. (F.)V. 473, 555, 812, 1422, 1487Outrage : s. m.Grosse injure, affront sensible et cruel. (F.)V. 117, 228, 1054Partement : s. mAction par laquelle on part, on quitte un lieu pour aller en un autre. (F.)V. 432Peine : s. f. Signifie Fatigue, travail corporel.V. 857Signifie aussi Soin, inquiétude d'esprit, tant pour la personne que pour ses biensV. 166Signifie aussi Douleur, tourment.V. 997Signifie aussi Obstacle, difficulté. (F.)V. 1302PersuaderSignifie avec le pronom possessif croire, s'imaginer. (R.)V. 996PiquerSignifie dans nos occurrences Fâcher, irriter, mettre en colère. (F.)V. 1197, 1357PrévenirPrécéder, devancer (R.)V. 941Providence : s. f.Terme de Théologie qui ne se dit que de Dieu et de la conduite sur toutes les choses créées. (F.)V. 1377, 1494Pudicité : s. f.Chasteté, vertu qui fait abstenir des plaisirs illicites de la chair. (F.)V. 200RavirSe dit des personnes qu'on enlève pour les captiver, ou en abuser.V. 175Signifie parfois simplement ôter.V. 41Se dit aussi des passions violentes qui troublent agréablement l'esprit et suspendent les fonctions des sens, particulièrement de la joie, de l'étonnement et de l'admiration. (F.)V. 162RecouvrerReconquérir, ravoir. Mettre en sa possession quelque chose qu'on avait perdu. (R.)V. 318, 1273, 1312RefuserDénier une demande, l'octroi d'une prière qu'on nous fait, n'accepter pas une offre, un présent. (F.)V. 240, 244, 259, 581, 665, 1473Remise : s. f.Suite, délaiement, renvoi à  un autre jour. (F.)V. 373RemparerNe se dit qu'avec le pronom personnel. On dit au figuré de celui qui s'est mis sous une protection puissante, qu'il s'est remparé de l'autorité de son nom. (F.)V. 559Rêverie : s. f.Songe extravagant, délire, démence. (R.)V. 598, 1129, 1386Sens : s. m. Organe corporel sur lequel les objets extérieurs faisant diverses impressions, se font connaître à l'âme d'un animal. La nature a donné à l'homme cinq sens : la vue, l'ouïe, le goût, l'odorat, le tact.V. 467, 980, 1025, 1285, 1367Signifie aussi l'opinion particulière d'une personne, sa manière de connaître les choses et d'en juger. (F.)V. 1443Sensible : adj. m. et f. Se dit de ce qui est dans la sphère d'activité, dans la portée de nos sens, en état de faire sur eux quelque impression.V. 26, 117Se dit figurément en choses morales et en parlant de l'émotion de l'âme et des passions. (F.)V. 1601Sillons : s. m.Se dit figurément des choses qui laissent des traces sur leur passage ; un vaisseau  fait sur les eaux des sillons. (F.)V. 439Sort : s. m.Hasard, ce qui arrive fortuitement, par une cause inconnue, et qui n'est pas réglée ni certaine.V. 724Se dit aussi de toutes les choses dont on laisse la conduite au hasard, quand il n'y a aucune raison de préférence, quand on le laisse décider par plusieurs manières que les hommes ont inventées, comme les dés, les billets, les rencontres casuelles.V. 1334, 1344Se dit poétiquement de la vie et de la fortune des hommes. (F.)V. 35, 77, 379, 700, 884, 1111, 1259, 1483, 1600Souci : s. m.Chagrin, inquiétude d'esprit. (F.)V. 68, 135, 495SouffrirSentir de la douleur, du mal, ou quelque incommodité considérable.V. 1214Se dit aussi en morale, des afflictions de l'esprit, des émotions de l'âme par les passions.V. 324Signifie aussi ne pas opposer à une chose, y consentir tacitement. (F.)V. 2, 421, 849, 1191, 1360, 1473, 1481Stratagème : s. f.Ruse de guerre pour surprendre, ou pour tromper l'ennemi. Se dit par extension de toutes sortes de ruses et d'adresses dont on se sert pour réussir en quelque affaire. (F.)V. 614Superbe : adj. Vain, orgueilleux, qui a de la présomption, une trop bonne opinion de lui-même.V. 352Qui est plein de magnificence, donne une impression de grandeur et de luxe. (F.)V. 399, 436SurmonterSurpasser, se mettre au-dessus de quelque chose.V. 501Se dit figurément en choses morales et signifie vaincre, avoir l'avantage sur quelqu'un. (F.)V. 377, 413SurprendreSignifie saisir, intercepter. (F.)V. 855, 1019Téméraire : adj. m. et f.Vaillant outré, qui s'expose aux périls brutalement et inconsidérément. (F.)V. 314, 821Trame : s. f.Se dit figurément et poétiquement en Morale du cours de la vie. (F.)V. 50TranchéeEn termes de Guerre, est un fossé qu'on creuse dans la terre pour approcher à couvert du corps de la place assiégée. Il est large et profond de sept à huit pieds, et coupé en talus. (F.)V. 229Travail : s. m.Occupation, application à quelque exercice pénible, fatigant, ou qui demande de la dextérité. (F.)V. 711TravaillerFaire quelque chose où il y a du travail, qui donne de la peine, de l'occupation. V. 12, 456Avoir bien de l'occupation, de la pratique. (F.)V. 1251Tromperie : s. f.Dol, fraude, déception. (F.)V. 994, 1385Trouble : s. m.Se dit figurément en Morale des désordres de l'âme causés par les passions. (F.)V. 867, 885, 896, 1410Vapeur : s. f.Humeur subtile qui s'élève des parties basses des animaux, et qui occupe et blesse leur cerveau. (F.)V. 1253Vertu : s. f. Se dit figurément en choses morales, de la disposition de l'âme, ou habitude à faire le bien, à suivre ce qu'enseignent la loi et la raisonV. 111, 155, 308, 380, 452, 557, 590, 911, 961, 1456, 1534, 1568, 1612Synonyme de courage. (F.)V. 532Vice : s. m.Se dit aussi en Morale des mauvaises habitudes que l'on a contractées, en faisant des choses qui sont contraires à la raison, les lois et les coutumes du pays. (F.)V. 557, 1533, 1568Vision : s. f. Impression qui se fait sur la vue, qui est cause de l'action par laquelle on voit.V. 1499Chimère, spectre, image que la peur ou la folie font naître dans notre imagination. (F.)V. 1198
 
 
-# Annexe 1 : Argument d'*El amante liberal* de Cervantès
+# Annexe 1 : Argument d'*El amante liberal* de Cervantès.
 
 Le récit espagnol débute par les déplorations de l'esclave chrétien, Ricardo, qui s'afflige sur le sort de la ville de Nicosie [275], saccagée par les Turcs. Mahmoud, un renégat au service du Cadi de la ville et natif de la même patrie que Ricardo, Trapani, lui enjoint de lui confier la profonde cause de son désespoir. Il soupçonne à juste titre que la seule perspective d'être réduit en esclavage par Hassan, futur pacha de Nicosie, n'est pas le seul mal que Ricardo déplore. Le jeune homme lui raconte alors les aventures qui l'ont amené à Chypre et achève son récit par la narration de la mort de Leonisa, qu'il aimait en dépit de la préférence de la jeune fille pour Cornelio.
 
@@ -3619,7 +3619,7 @@ Mahmoud et Ricardo conseillent alors au Cadi de partir rapidement pour Constanti
 À Trapani, les protagonistes sont reçus avec honneur. Par grandeur d'âme, Ricardo renonce à Leonisa et la cède à son rival Cornelio. Mais la jeune femme refuse et choisit l'amant « libéral ». Halima et Mahmoud, quant à eux, redeviennent chrétiens et s'épousent.
 
 
-# Annexe 2 : Argument de *L'Amant libéral* de Daniel Guérin de Bouscal
+# Annexe 2 : Argument de *L'Amant libéral* de Daniel Guérin de Bouscal.
 
 Un monologue de Sophise, qui nous apprend qu'elle aime l'esclave chrétien Lysis en dépit de son statut, ouvre la pièce. La jeune femme confie ses sentiments au captif sicilien Philidas, afin qu'il sonde les sentiments de Lysis (scène 2). Philidas, obéissant à Sophise, s'entretient donc avec Lysis. Celui-ci reconnaît dans l'esclave Philidas son frère et, après s'être lamenté sur sa mauvaise fortune, lui apprend la mort de sa maîtresse Léonise. Philidas décrit à son tour les mésaventures à la suite desquelles il est devenu esclave (scène 3).
 
@@ -3632,7 +3632,7 @@ L'acte IV débute par les récriminations de Haly, déterminé à s'emparer de L
 Lycaste, l'amant avare, apparaît à l'acte V : se repentant d'avoir abandonné Léonise aux mains des Turcs, il est venu chercher la mort à Nicosie (scène 1). Sophise, quant à elle, se résout à aimer Tharonte (scène 2). Elle le rencontre, et les nouveaux amants vont se promener le long de la côte (scène 3). Lysis, sur le rivage, s'afflige d'avoir perdu sa maîtresse : tout à coup, il la voit, en compagnie de Philidas, sur un esquif qui menace de sombrer : il court chercher du secours (scène 4). Tharonte et Sophise plaignent les amours malheureuses de Lysis et de Léonise (scène 5). Cette dernière et Philidas racontent, sans nécessité apparente, comment ils se sont tirés de leur situation périlleuse (scène 6). Sophise et Tharonte ont entendu cette conversation (scène 7). Mamet, le confident de Hazan, apporte des nouvelles du combat que se sont livrés en mer les bachas et le Cadi (scène 8). Lysis, de retour, croit d'abord que Léonise et Philidas se sont noyés (scène 9). Mais ceux-ci le rejoignent : Tharonte les aide à s'échapper définitivement (scène 10). Lycaste, pour se punir de son avarice, demande à Léonise de périr par ses mains. La jeune femme n'hésite pas à condamner la conduite passée de son ancien amant, mais lui fait grâce. Lysis annonce qu'il serait disposé à céder sa maîtresse à Lycaste, or Léonise s'indigne de cette idée et fait éclater son amour pour l'amant « libéral » (scène 11).
 
 
-# Annexe 3 : Argument de *L'Amant libéral* de Georges de Scudéry
+# Annexe 3 : Argument de *L'Amant libéral* de Georges de Scudéry.
 
 À l'acte I, l'esclave sicilienne Léonise défend son honneur contre le marchand juif Isac, son maître. Rescapée d'un naufrage, elle préfère mourir plutôt que de perdre son honneur. Isac est pourtant déterminé à faire céder la jeune femme. Finalement repoussé, Isac décide d'envoyer son esclave dans un sérail (scène 1). Se son côté Rodolphe, le père de Léonise, accuse Pamphile d'avoir abandonné par avarice sa fille Léonise aux mains de ses ravisseurs. Rodolphe regrette de ne pas avoir appuyé les vœux de Léandre, qui, épris de Léonise, aurait payé la rançon exigée par les Turcs pour libérer la jeune femme (scène 2). L'amant de Léonise apparaît justement (scène 3) et les stances qu'il prononce indiquent son désarroi : croyant que sa maîtresse a péri lors d'un orage survenu en mer, Léandre affirme ne pouvoir lui survivre. Mahamut, un renégat sicilien, s'inquiète de la tristesse de Léandre. Le renégat invite le jeune esclave à relativiser son malheur et lui suggère qu'il pourrait recouvrer la liberté. Léandre lui confie alors l'objet réel de son désespoir : la mort de sa maîtresse Léonise. Il affirme qu'il ne saurait lui survivre. Léandre alors relate l'histoire de sa capture par les Turcs avec Rodolphe, Pamphile, et Léonise. Il rapporte que les ravisseurs, pour les libérer, demandèrent une rançon de vingt mille ducats. Pamphile, bien que fortuné, ne voulut pas payer une telle somme. Un orage sépara les trois navires contenant les captifs et Léonise, selon Léandre, périt (scène 4).
 
@@ -3645,22 +3645,22 @@ Le bacha Hali, à la première scène de l'acte IV, cherche un moyen de conquér
 À la première scène de l'acte V, Halime se lamente sur le départ de Léandre qui s'est enfui vers le Sicile avec Léonise (scène 1). Alors que Hali, Mustapha et leur troupe tendent une embuscade à Ibrahim (scène 2), Hazan s'apprête lui aussi à capturer Léonise avec ses janissaires (scène 3). Hali, Hazan et leur troupe respective attaquent Ibrahim. Les Turcs s'entredéchirent, ils meurent tous. Les esclaves chrétiens sont donc libres (scène 4). Léandre, en « amant libéral », ne s'oppose pas à ce que Pamphile et Léonise soient réunis. Mais la jeune femme, blessée par l'apparente froideur de Léandre, lui déclare qu'elle ne saurait lui préférer un rival. L'union des deux jeunes gens est alors conclue, et consentie par le père de Léonise (scène 5).
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Éditions de la pièce*L'Estoille*La Belle Esclave, tragi-comédie
+### Éditions de la pièce.*L'Estoille*La Belle Esclave, tragi-comédie
 *L'Estoille*La Belle Esclave, tragi-comédie
 *L'Estoille*La Belle Esclave, tragi-comédie
 
 
 
-### Autres œuvres de l'auteur
+### Autres œuvres de l'auteur.
 
 
-#### Œuvres poétiques*L'Estoille*Le Balet du Naufrage heureux
+#### Œuvres poétiques.*L'Estoille*Le Balet du Naufrage heureux
 *L'Estoille**Bordier*Grand Bal de la Douairière de Billebahaut, et de son Fanfan de Sotte ville
 *L'Estoille**Bordier*Vers sur le sujet du Ballet du RoyLe sérieux et le grotesque
 *L'Estoille*Le Balet des Fols aux Dames
@@ -3677,14 +3677,14 @@ Le bacha Hali, à la première scène de l'acte IV, cherche un moyen de conquér
 
 
 
-#### Œuvres dramatiquesLa Comédie des Tuileries*par les Cinq Autheurs*
+#### Œuvres dramatiques.La Comédie des Tuileries*par les Cinq Autheurs*
 L'Aveugle de Smyrne*par les Cinq Autheurs*
 *L'Estoille* L'Intrigue des filous
 *L'Estoille* L'Intrigue des filous
 
 
 
-### Œuvres de l'antiquité*Aristote*Poétique
+### Œuvres de l'antiquité.*Aristote*Poétique
 *Héliodore*Les Ethiopiques, Théagène et Chariclée
 *Ovide*Métamorphoses
 *Pline l'Ancien*Histoire naturelle
@@ -3693,7 +3693,7 @@ L'Aveugle de Smyrne*par les Cinq Autheurs*
 
 
 
-### Ouvrages des XVII*e*-XIX*e* siècles*Aubignac*La Pratique du théâtre
+### Ouvrages des XVII*e*-XIX*e* siècles.*Aubignac*La Pratique du théâtre
 *Aurevilly*Les Diaboliques
 *Cervantes Saavedra*L'Ingénieux hidalgo Don Quichotte de la Manche, Nouvelles exemplaires
 *Cervantes Saavedra*Nouvelles exemplaires, suivies de Persilès
@@ -3720,13 +3720,13 @@ L'Aveugle de Smyrne*par les Cinq Autheurs*
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages sur la langue et la rhétorique dramatiques
+### Ouvrages sur la langue et la rhétorique dramatiques.
 
 
-#### Dictionnaires et ouvrages du XVII*e* siècle*Académie Française*Dictionnaire
+#### Dictionnaires et ouvrages du XVII*e* siècle.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Moreri*Le Grand Dictionnaire historique ou Le Mélange curieux de l'histoire sacrée et profane*e*
 *Richelet*Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
@@ -3735,12 +3735,12 @@ L'Aveugle de Smyrne*par les Cinq Autheurs*
 
 
 
-#### Dictionnaires modernes*Corvin*Dictionnaire encyclopédique du théâtre
+#### Dictionnaires modernes.*Corvin*Dictionnaire encyclopédique du théâtre
 *Dubois**Lagane**Lerond*Dictionnaire du français du XVII*e* siècle
 
 
 
-#### Ouvrages modernes*Haase*Syntaxe française du XVII*e* siècle
+#### Ouvrages modernes.*Haase*Syntaxe française du XVII*e* siècle
 *Forestier*Introduction à l'analyse des textes classiques
 *Fournier*Grammaire du français classique
 *Larthomas*Le Langage dramatique
@@ -3752,13 +3752,13 @@ L'Aveugle de Smyrne*par les Cinq Autheurs*
 
 
 
-### Ouvrages bibliographiques*Balteau**Barroux**Prevost* Dictionnaire de biographie française
+### Ouvrages bibliographiques.*Balteau**Barroux**Prevost* Dictionnaire de biographie française
 *Cioranescu*Bibliographie de la littérature française du 17ème siècle
 *Hoefer* Biographie universelle
 
 
 
-### Recensions*Goujet*Bibliothèque françoise, ou histoire de la littérature françoise
+### Recensions.*Goujet*Bibliothèque françoise, ou histoire de la littérature françoise
 *Lancaster*A History of French Dramatic Literature in the Seventeenth Century
 *Morinière*Bibliothèque poétique ou Nouveau choix des plus belles pièces de vers en tout genre
 *Olivet**Pellisson-Fontanier*Histoire de l'Académie française*ie*
@@ -3770,10 +3770,10 @@ L'Aveugle de Smyrne*par les Cinq Autheurs*
 
 
 
-## Études
+## Études.
 
 
-### Études sur la littérature, l'histoire et l'esthétique du XVII*e* siècle*Adam*Histoire de la littérature française du XVII*e* siècle
+### Études sur la littérature, l'histoire et l'esthétique du XVII*e* siècle.*Adam*Histoire de la littérature française du XVII*e* siècle
 *Adam*Les Libertins au XVII*e* siècle
 *Adam**Lerminier**Morot-Sir*Littérature française du IX*e* au XVII*e* siècle
 *Bénichou*Morales du grand siècle*re*
@@ -3786,10 +3786,10 @@ L'Âge d'or de l'influence espagnole. La France et l'Espagne à l'époque d'Anne
 
 
 
-### Études sur le théâtre du XVII*e* siècle
+### Études sur le théâtre du XVII*e* siècle.
 
 
-#### Ouvrages*Deierkauf-Holsboer*Le Théâtre du Marais
+#### Ouvrages.*Deierkauf-Holsboer*Le Théâtre du Marais
 *Deierkauf-Holsboer*Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 *Dotoli*Temps de préfaces. Le débat théâtral en France de Hardy à la querelle du Cid
 *Forestier*Essai de génétique théâtrale. Corneille à l'œuvre
@@ -3808,17 +3808,17 @@ L'Âge d'or de l'influence espagnole. La France et l'Espagne à l'époque d'Anne
 
 
 
-#### Articles*Forestier*Littératures classiques
+#### Articles.*Forestier*Littératures classiques
 
 
 
-#### Études sur le genre tragi-comique*Baby*La Tragi-comédie de Corneille à Quinault
+#### Études sur le genre tragi-comique.*Baby*La Tragi-comédie de Corneille à Quinault
 *Guichemerre*La Tragi-comédie
 *Lancaster*The French Tragi-comedy. Its Origin and Development from 1552 to 1628
 
 
 
-#### Études sur l'auteur*Parker*Claude de L'Estoille, poet and dramatist, 1597-1652
+#### Études sur l'auteur.*Parker*Claude de L'Estoille, poet and dramatist, 1597-1652
 
 
 -------

@@ -17,17 +17,17 @@ Par le Sieur GOUGENOT, *Dijonnois.*
       maîtrise sous la direction de Georges Forestier (2002-2003)
 
 
-# Gougenot, *La Fidelle Tromperie*
+# Gougenot, *La Fidelle Tromperie*.
 
 Gougenot ? Voilà un nom que l'on s'empresse, à peine lu, d'oublier, d'autant plus vite que son œuvre peut paraître insignifiante tant en regard de la quantité – il a écrit deux pièces et un roman, inachevé –, qu'en ce qui concerne la qualité. En effet, son style semble avoir été condamné par tous ceux qui ont daigné y porter un peu d'attention, des Frères Parfaict – qui sont les premiers dont on ait conservé un témoignage – aux critiques contemporains, et le style de *la Fidelle Tromperie*, en particulier, n'a pas été épargné. Joint à cela le fait que la vie de cet écrivain est, encore de nos jours, presque totalement obscure, rien ne facilite sa reconnaissance. Pourquoi, alors, rééditer cette pièce ?
 
 Aux yeux de l'historien du théâtre, *la Fidelle Tromperie* n'est pas sans intérêt. Outre le fait qu'il s'agit d'une tragi-comédie parue dans les années 1630 – décennie pendant laquelle le genre est à son apogée –, et une des rares à mettre en scène un prince travesti, on peut y voir une certaine originalité. Gougenot est en effet le premier à adapter au théâtre l'épisode de *l'Amadis de Gaule* concernant les amours d'Agésilan de Colchos et de Diane de Guindaye, histoire qui a été reprise, quelques années après, et avec plus de succès, par Rotrou dans son *Agésilan de Colchos*. Gougenot était donc le premier, mais il est resté dans l'ombre de celui qui a su en faire une meilleure adaptation, de même qu'il est resté dans l'ombre de Georges de Scudéry, qui a repris sa pièce intitulée *la Comedie des Comediens*, sans même en changer le titre. Ainsi, si l'on peut critiquer la manière d'écrire de Gougenot, il faut garder à l'esprit que tout n'est pas mauvais dans son œuvre puisque même les plus grands ont trouvé ses idées assez bonnes pour les reprendre et, certes, les améliorer.
 
 
-# Chapitre I : L'auteur et son oeuvre
+# Chapitre I : L'auteur et son oeuvre.
 
 
-## Éléments de biographie
+## Éléments de biographie.
 
 « Nous ne savons rien au sujet de la naissance, de la famille et de la mort de Gougenot » [1]. Ce constat, dressé par un dijonnais en 1877, est malheureusement toujours d'actualité. Certes, grâce aux travaux de François Lasserre, le dramaturge ne nous est plus totalement inconnu, mais sa vie reste, pour le moment encore, un mystère.
 
@@ -45,7 +45,7 @@ Ayant esté privé de l'exercice de ma profession ordinaire, par la perte de la 
 Par ailleurs, les destinataires des dédicaces pourraient avoir été des relations de Gougenot. Le dédicataire du roman, « Monseigneur Guillaume Russel, Comte de Betford », celui de *la Comedie des Comediens*, « François de Bonne de Crequy, Comte de Sault, et Lieutenant General pour le Roy en Dauphiné », et celui de *la Fidelle Tromperie*, « Monsieur Jean Bernard, Comte et noble seigneur de Lippe » [9], sont autant de personnes qui auraient pu avoir connu personnellement l'auteur dijonnais. Enfin, le manuscrit daté de 1614 a été réalisé avec la collaboration du poète Philippe Desportes, et il est fort probable que Gougenot l'ait connu. De même, le poème liminaire à l'*Orizelle* de Chabrol témoigne sûrement de la relation qui a existé entre Gougenot et cet auteur dramatique.
 
 
-## Les œuvres de Gougenot
+## Les œuvres de Gougenot.
 
 Les pièces de Gougenot ont-elles été représentées ? Si les frères Parfaict [10] notent qu'elles l'ont été par la troupe de l'Hôtel de Bourgogne en 1633, on peut toutefois remettre cette affirmation en question car aucune d'elles ne figure dans le *Mémoire de Mahelot*, qui recense les œuvres mises en scène dans ce théâtre à partir de l'année 1633 : elles auraient donc pu être représentées auparavant sur cette scène, ou sur une autre scène parisienne, montée dans un jeu de paume comme c'était alors la coutume. En admettant qu'elles aient été réellement représentées, nous n'avons trouvé aucune trace de ce qui concerne leur réception par le public. Figure d'exception, l'abbé de Marolles cite le ou les pièces de Gougenot au milieu d'autres, mais il n'en fait aucun commentaire [11] :
 
@@ -67,12 +67,12 @@ Contrairement à cette pièce, *la Fidelle Tromperie* est tombée totalement dan
 En ce qui concerne la rédaction des ouvrages, nous n'avons aucune certitude. Lequel fut le premier à avoir été écrit ? Dans quel ordre furent-ils rédigés ? Ces questions n'ont pour le moment que des réponses hypothétiques. Selon François Lasserre, *la Fidelle Tromperie*, « qui contient des maladresses », aurait été la première œuvre de Gougenot, et elle aurait été écrite en 1631 au plus tard. Quant au roman, il aurait eu une assez longue gestation et aurait précédé *la Comedie des Comediens* qui, toujours selon le critique, fut probablement écrite en 1632 et jouée la même année.
 
 
-# Chapitre II : La Fidelle Tromperie
+# Chapitre II : La Fidelle Tromperie.
 
 Nous venons de voir le peu d'éléments connus en ce qui concerne la rédaction, la représentation et la réception de *la Fidelle Tromperie*. Il conviendrait, avant d'aborder de façon plus détaillée l'étude de la pièce de Gougenot, d'en donner un résumé qui permettra de mieux en saisir le déroulement. De même, le problème que pose son titre dans la relation qu'il entretient avec l'œuvre elle-même impose ici une étude qui permettra de définir quels liens les unissent.
 
 
-## Résumé de *La Fidelle Tromperie*
+## Résumé de *La Fidelle Tromperie*.
 
 Le prince Armidore est tombé amoureux d'une femme par l'intermédiaire de son portrait, celui d'Alderine, princesse de Chypre, qui se trouve malencontreusement enfermée par sa mère à l'abri des regards masculins. Armidore parle de cette passion qui le brûle à son cousin et ami Clidame, qui après avoir tenté de le convaincre de ne pas suivre cette inclination dangereuse, décide de l'aider dans son entreprise. Le prince amoureux décide de se travestir pour pouvoir rencontrer sa bien-aimée (I, 1). La reine Clorisée, qui est la mère d'Alderine, se plaint d'avoir été abandonnée par Filamire. Sa Gouvernante tente de la réconforter, lorsqu'arrivent Clidame et Armidore, qui s'est travesti en « Lucide » (I, 2). Les quatre personnages se rencontrent. Les arrivants se font passer pour frère et sœur, rescapés d'un naufrage, après avoir été enlevés par un corsaire. Clorisée décide de les prendre sous sa protection (I, 3).
 
@@ -85,7 +85,7 @@ Le roi Filamon, dans un monologue, exprime son désarroi devant les événements
 Les rois Bruserbe et Filamon ont déclaré la guerre à Chypre et ils occupent la plus grande partie de l'île. Avant de prendre le château de Clorisée par la force, ils décident d'envoyer un Ambassadeur pour les représenter et faire accepter leur requête : les mariages de l'un avec la mère, et de l'autre avec la fille (V, 1). Les troupes de Chypre sont prêtes à soutenir ce siège. L'Ambassadeur de Bruserbe et Filamon transmet leur vœu à la reine ; elle se met dans une violente colère et refuse de se soumettre. Ils se préparent à combattre (V, 2). Alderine, de son côté, réfléchit sur l'inconstance du monde, et change d'opinion en ce qui concerne Armidore : elle l'aime toujours, et d'ailleurs, sa colère n'était qu'une feinte. Une voix merveilleuse lui annonce que tout va bientôt être réglé, et qu'elle va être heureuse (V, 3). L'assaut est donné contre le château. « Lucide » et Filamire arrivent à ce moment, et mettent fin au conflit en faisant prisonniers les deux rois ennemis. « Lucide » fait coucher Filamire dans une chambre et le laisse (V, 4). La reine apprend le retour de « Lucide » et veut en savoir plus. Le prince travesti vient la chercher et l'amène auprès de Filamire endormi. Là, il exige son don, qui est qu'elle tranche elle-même la tête du roi. La reine ne peut s'y résoudre et tente de se tuer ; « Lucide » l'en empêche. Filamire se réveille, Clorisée lui pardonne. Tous vont voir Alderine (V, 5). Tersandre et Clidame ne savent pas ce qui se passe, et ils s'interrogent (V, 6). Tout le monde sort du château. Le mariage d'Alderine et d'Armidore, qui a quitté son déguisement entre-temps, est annoncé. La nouvelle de la mort de Clarinde, l'autre femme de Filamire, permet son mariage avec Clorisée (V, 7).
 
 
-## La Fidelle Tromperie
+## La Fidelle Tromperie.
 
 Il convient maintenant d'aborder le problème que pose le titre de la pièce dans la relation qu'il entretient avec l'œuvre elle-même.
 
@@ -117,13 +117,13 @@ Ce n'est pas tout. Le trompeur dans la pièce, c'est encore Filamire, qui a lâc
 Ainsi, il serait trompeur de chercher le rapport du titre et de l'œuvre dans un sens qui se voudrait unique. La multiplicité des significations, c'est bien ce qui paraît être recherché par Gougenot.
 
 
-# Chapitre III : aux origines de La Fidelle Tromperie : l'inventio tragi-comique
+# Chapitre III : aux origines de La Fidelle Tromperie : l'inventio tragi-comique.
 
 
-## L'*Amadis de Gaule* : source principale
+## L'*Amadis de Gaule* : source principale.
 
 
-### *Influence de l'*Amadis *sur* la Fidelle Tromperie
+### *Influence de l'*Amadis *sur* la Fidelle Tromperie.
 
 L'*Amadis de Gaule* est la source principale de *la Fidelle Tromperie*. Il s'agit d'un roman de chevalerie aux origines lointaines et assez obscures. La version que nous connaissons aujourd'hui a été rédigée en Espagne à la fin du quinzième siècle par Garci Rodriguez de Montalvo, et publiée en 1508 à Saragosse. Bien avant cette édition, qui n'est peut-être pas la première, l'histoire de l'*Amadis* était déjà connue, notamment en Castille aux alentours de 1350. Les véritables origines du roman restent aujourd'hui encore mystérieuses : on ne connaît pas sa langue d'origine, – la France et le Portugal se sont disputé la paternité de l'ouvrage –, on ne connaît pas la date, même approximative, de sa naissance. En ce qui concerne les traductions françaises, elles ont été nombreuses et se sont échelonnées sur des dizaines d'années, entre 1540 et le début du dix-septième siècle. Elles ont eu un succès considérable et ont inspiré de nombreuses œuvres littéraires.
 
@@ -140,7 +140,7 @@ Pour finir, les chapitres 54 et 61 du Livre XI et 57 du Livre XII, cités par M.
 Gougenot s'est donc beaucoup inspiré du roman de l'*Amadis de Gaule*, mais dans sa transposition, il a également rejeté de nombreux éléments contenus dans la source, en a modifiés d'autres, et en a ajoutés de son propre cru.
 
 
-### Sélection, modification, addition
+### Sélection, modification, addition.
 
 En ce qui concerne la sélection effectuée par le dramaturge parmi tous les éléments de l'*Amadis* en rapport avec le sujet choisi, l'action a été énormément simplifiée. Gougenot a rejeté non seulement toutes les intrigues secondaires dans lesquelles les personnages qu'il avait repris étaient ou non impliqués [23], mais il a également éliminé certains éléments de l'intrigue principale [24] qui nous concerne, – celle de la conquête de la femme aimée. Cette simplification permettait de rendre l'adaptation théâtrale non pas plus facile, mais simplement possible : les innombrables aventures de l'*Amadis* ne pouvaient trouver de place dans une simple pièce de théâtre. L'intrigue devenait, par la même occasion, compréhensible aux yeux d'un public qui aurait été perdu dans les méandres des multiples actions de la source. Ainsi, Gougenot n'a conservé que ce qui était essentiel à la trame de la conquête amoureuse : la naissance de l'amour devant un portrait, le travestissement et la réciprocité de cet amour malgré le déguisement, la promesse d'une reine qui veut se venger de celui qui l'a abandonnée en offrant la main de sa fille, l'arrivée de ceux qui ont échoué dans le dessein de la servir, des duels, l'emploi que fait la reine du prince travesti dans son dessein de se venger, l'aveu du travestissement et la colère de la princesse, la guerre déclarée par les rois, le siège et la victoire des assiégés, la mise en scène de la « tête vivante », la réconciliation des parents de la princesse, et les fiançailles des deux amants.
 
@@ -171,7 +171,7 @@ Enfin, les stances, présentes deux fois dans la pièce (IV, 4 et V, 3), sont de
 Ainsi, l'adaptation effectuée par Gougenot s'est faite dans une volonté d'épuration – épuration de tous les éléments superflus de la source, qui empêchaient la transposition au théâtre – ; dans le désir aussi de faire de *la Fidelle Tromperie* une pièce spectaculaire et émouvante, tout en manifestant un certain souci de vraisemblance en ce qui concerne l'emploi du travestissement. L'écriture de cette pièce témoigne, enfin, d'un désir d'appropriation personnelle et de renouvellement de l'œuvre déjà célèbre qu'est l'*Amadis de Gaule*.
 
 
-## Sources annexes
+## Sources annexes.
 
 Certaines pièces contemporaines ont sûrement influencé le travail de Gougenot. Parmi celles que nous avons consultées, il nous en est apparu deux ayant pu avoir inspiré le dramaturge dans sa composition : il s'agit de *la Belinde* de Rampalle et d'*Argenis et Poliarque* de Du Ryer [32].
 
@@ -180,26 +180,26 @@ Certaines pièces contemporaines ont sûrement influencé le travail de Gougenot
 La pièce de Du Ryer, publiée en 1631, entretient aussi un lien avec *la Fidelle Tromperie* : l'action y est souvent très proche de celle de la pièce de Gougenot, en particulier lors de la scène 2 de l'acte I, qui n'est pas sans rappeler la première scène de *la Fidelle Tromperie*, où l'on voit dans chacune un prince amoureux d'un portrait faire la révélation de son amour à son ami qui le désapprouve, mais qui est prêt à le suivre malgré tout. En ce qui concerne la princesse, Argenis est enfermée par son père, loin des hommes, et Poliarque se travestit afin de pouvoir la rencontrer, comme le fera Armidore. D'autre part, Licogène, autre prétendant d'Argenis, ayant été mal reçu par le père de la princesse décide de l'obtenir par la force, et fait la guerre à la Sicile : Bruserbe et Filamon l'imiteront en attaquant Chypre. Quelques vers, relativement rares, évoquent ceux de la pièce de Gougenot, mais ils ne se ressemblent pas assez pour qu'on leur attribue une importance considérable.
 
 
-# Chapitre IV : la construction d'une pièce irrégulière
+# Chapitre IV : la construction d'une pièce irrégulière.
 
 Il s'agit ici d'appréhender la construction globale de *la Fidelle Tromperie*, dans la répartition de ses vers, ses actes, ses scènes, dans les principes généraux qui l'animent, – s'il en est –, avant d'aborder dans les détails la construction interne de son action [33], et d'envisager une étude spatio-temporelle de la pièce.
 
 
-## Remarques générales
+## Remarques générales.
 
 D'abord, *la Fidelle Tromperie* est une pièce longue pour l'époque. Jacques Scherer disait déjà que *la Sylvie* (1628) de Mairet « avec ses 2250 vers, était l'une des dernières pièces vraiment longues » [34]. La pièce de Gougenot en contient 2366. Par ailleurs, ses cinq actes ne sont pas équilibrés : en ce qui concerne le nombre de vers d'abord, – on passe du simple au double entre le premier (328 vers) et le dernier acte (650 vers) – ; en ce qui concerne les personnages présents dans chacun, ensuite, – en moyenne au nombre de six dans les quatre premiers, le cinquième acte en contient quinze [35]. Enfin, l'hétérogénéité se manifeste dans la répartition des scènes : d'une moyenne de trois ou quatre scènes pour les quatre premiers actes [36], le dernier en contient sept. De cette première approche de *la Fidelle Tromperie*, il ressort que l'organisation de la pièce met particulièrement en valeur le dernier acte, le plus développé en vers, en personnages, en changement de scènes, sans aucun doute afin de contribuer au spectacle d'un acte qui se veut être celui de toutes les résolutions.
 
 Ces premières remarques, qui font ressortir la totale irrégularité de *la Fidelle Tromperie*, et ceci à tous les niveaux, nous permettent de classer cette pièce parmi les tragi-comédies de la décennie 1630-1640, où le genre, indépendant de toute règle, est à son apogée et ne pense qu'à une chose : divertir le spectateur. Il reste à voir comment s'organise cette irrégularité.
 
 
-## L'action
+## L'action.
 
 L'action de *la Fidelle Tromperie* est composée de deux fils, ce qui n'est pas sans conséquences sur l'organisation de la pièce. D'une part, un fil unit Armidore et Alderine, par la volonté du prince de conquérir sa bien-aimée ; d'autre part, un autre fil lie Clorisée et Filamire, par le désir de la reine de se venger de celui qui l'a trompée. Ces deux fils sont étroitement liés par deux personnages : Alderine d'abord, qui se trouve être l'objet de la conquête amoureuse, mais qui s'avère être aussi le moyen par lequel la reine espère se venger ; Armidore ensuite, qui, cherchant l'amour d'Alderine, entrera au service de Clorisée pour réaliser son désir de vengeance. Ils sont aussi, et surtout, liés par la parenté des personnages qui justifie une structure à deux couples relevant de la tendance de la tragi-comédie à la multiplication des personnages. Les imbrications, les entrelacs entre les deux fils ont des conséquences sur la composition de la pièce. De plus, un épisode lié au second fil crée encore une difficulté à surmonter en ce qui concerne la construction de l'intrigue : il s'agit de l'épisode dans lequel les deux rois vaincus par Filamire essayent de conquérir Clorisée et Alderine par la force.
 
 Comment l'action s'organise-t-elle en fonction de ces difficultés ?
 
 
-### Les prémices de l'action
+### Les prémices de l'action.
 
 La question de l'exposition est évidemment la première à poser en ce qui concerne la construction de la pièce. « Dans les tragédies à double intrigue, l'exposition est nécessairement double (…) » : cette règle, édictée plus tard par Marmontel [37], s'applique aussi à la tragi-comédie. Les deux fils de *la Fidelle Tromperie* doivent être présentés de façon à ce que chacun puisse être compris dans sa singularité. Comment Gougenot adapte-t-il l'exposition de ces deux fils dans sa pièce ?
 
@@ -212,7 +212,7 @@ En ce qui concerne la nature des deux expositions, il faut remarquer que, malgr�
 Enfin, il faut remarquer que Gougenot, au début de sa pièce, se montre assez habile lorsqu'il s'agit de passer de l'un à l'autre fil : la transition n'est pas brutale. La deuxième scène du premier acte en est une illustration : elle voit apparaître les personnages de Clorisée et de la Gouvernante et esquisser le premier fil, entre deux apparitions d'Armidore et de Clidame. Elle fonctionne comme une parenthèse qui permet de présenter les nouveaux personnages, les plaintes de Clorisée, avant que ne les rejoignent les personnages déjà connus qui appartiennent au premier fil. Mais là où Gougenot se montre le plus habile, c'est lorsqu'il s'agit de savoir comment passer de l'une à l'autre intrigue dans le second acte. Cette difficulté est surmontée dès la première scène de ce dernier par un adroit procédé : lors de cette scène, Clidame et « Lucide » se disputent, se séparent, et chacun va suivre un élément de l'intrigue. Dans la deuxième scène, suivant « Lucide », nous assistons à l'expression de son amour pour Alderine ; dans la troisième scène, suivant le personnage de Clidame, le spectateur assiste à la fin de l'exposition du fil concernant Clorisée. Le passage d'une action à l'autre se trouve ainsi justifié par la volonté de suivre deux personnages différents, ou plutôt, la dispute de Clidame et d'Armidore, qui n'avait vraisemblablement pas lieu d'être [39], se trouve justifiée *a posteriori* par le désir du dramaturge de trouver un moyen de légitimer le passage d'une action à l'autre : si Armidore et Clidame se disputent, c'est peut-être seulement pour créer une porte d'entrée, sous l'apparence d'un personnage, qui ouvre sur chacun des fils de l'action. La construction de l'intrigue a ainsi une conséquence sur son contenu.
 
 
-### Obstacles et entrelacs de l'action
+### Obstacles et entrelacs de l'action.
 
 La tragi-comédie est un genre où les obstacles que doit surmonter le héros sont souvent abondants, abondance qui permet au dramaturge de divertir son public, – les obstacles apportant variété et rebondissements à l'intrigue –, et, de façon plus pratique, de remplir les cinq actes de la pièce. Parce que l'intrigue de *la Fidelle Tromperie* est double, le fonctionnement des obstacles a une certaine duplicité : quelques uns pourront être indépendants et appartenir uniquement à un fil de l'intrigue, mais la plupart du temps, l'exploitation d'une difficulté à surmonter dans l'un des deux éléments de l'action aura des conséquences sur l'autre, ambiguïté qui pourra être entretenue au point que le moyen de résoudre un obstacle dans un fil pourra devenir, au contraire, obstacle dans l'autre.
 
@@ -237,7 +237,7 @@ Lorsque débute l'acte V, l'action des deux fils, dont l'un a été rompu, et de
 Avant d'entamer l'étude du dénouement de la pièce, quelques considérations générales sur l'utilisation des obstacles dans *la Fidelle Tromperie* s'imposent. En ce qui concerne leur nombre, d'abord : ils sont relativement abondants [44], et pour cette raison, ils illustrent la volonté de l'auteur de divertir son public le plus possible, par la mise en œuvre d'une esthétique tournée vers le plaisir. Leur genre relève également de cette esthétique par le choix d'obstacles parfois spectaculaires, notamment les duels, – dont l'un des combattants semble être une femme –, et la bataille sur la scène même. En ce qui concerne leur répartition ensuite : dans la pièce, chaque acte a sa ou ses difficultés à surmonter [45], ce qui ne laisse pas à l'attention du spectateur le temps de se relâcher. Il faut aussi remarquer l'importance du rôle du travestissement, véritable créateur d'obstacles, puisqu'il deviendra un opposant à celui qui le porte. Ces obstacles se suivent en toute logique, – les duels provoquent la volonté de Clorisée d'employer « Lucide », qui elle-même est l'origine de la dispute et de la séparation des deux amants –, ce qui ne laisse aucune place au hasard et fournit à l'action une dynamique serrée.
 
 
-### Le dénouement : logique et contingence
+### Le dénouement : logique et contingence.
 
 Le dénouement doit se passer en trois étapes, par la résolution des trois derniers obstacles dont nous parlions auparavant. Comment s'organise-t-il en fonction de ces éléments ?
 
@@ -263,7 +263,7 @@ Autre élément du dénouement tout à fait contingent : l'ellipse du problème
 Ainsi, le dénouement de *la Fidelle Tromperie*, dont la construction respecte une certaine logique, est loin d'être nécessaire. Ce goût pour le hasard, pour le merveilleux… relèvent du genre de la tragi-comédie, qui privilégie la fin heureuse, en dépit de la vraisemblance.
 
 
-## Étude spatio-temporelle
+## Étude spatio-temporelle.
 
 Les frères Parfaict notent que *la Fidelle Tromperie* a été représentée sur la scène de l'Hôtel de Bourgogne, en 1633. Cependant, on peut remettre en question cette affirmation, car la pièce ne figure pas dans le *Mémoire de Mahelot*, qui recense celles qui y sont alors jouées. Si *la Fidelle Tromperie* a été représentée, elle a donc pu l'être sur la scène d'un autre théâtre, c'est-à-dire sur une scène improvisée dans un jeu de paume, comme c'était alors la coutume – car le théâtre de l'Hôtel de Bourgogne est alors le seul qui soit fixe à Paris. A moins qu'elle n'ait été jouée sur la scène de ce dernier avant 1633, date à laquelle Mahelot commence à recenser les pièces jouées, selon H. C. Lancaster. Quoiqu'il en soit, il ressort de la lecture de la pièce qu'elle était destinée à être jouée sur une scène qui comprenait un décor à compartiments multiples, comme celui de l'Hôtel de Bourgogne. Dans tous les cas, il s'agit ici d'étudier l'aspect spatio-temporel de la pièce, et la reconstitution de son décor, qu'il ait été réel ou seulement imaginé par son auteur, en fait partie intégrante.
 
@@ -353,7 +353,7 @@ Les sixième et septième scènes de cet acte se déroulent certainement un peu 
 Quelques remarques s'imposent sur l'aspect temporel de *la Fidelle Tromperie*. D'abord, en ce qui concerne la durée, il faut remarquer que la pièce est tout à fait irrégulière, puisqu'elle dépasse largement les vingt-quatre heures. Cependant, on ne peut pas nier le fait que Gougenot ait fait un effort considérable en écourtant la durée de l'action de l'*Amadis de Gaule* dont il s'inspire, car celle-ci s'étendait sur plusieurs années. Ensuite, l'utilisation de la nuit dans la pièce témoigne d'une certaine réflexion : associée au jardin, elle permet la création d'une atmosphère intime et protectrice, propice aux aveux et aux confidences amoureux (IV, 4), atmosphère qui peut se révéler effrayante selon l'état d'esprit dans lequel le personnage se trouve [72]. Associée à la guerre (V, 4), la nuit contribue aussi à la confusion générale et, bien sûr, à la dimension spectaculaire du combat, qui relève encore de la volonté de divertir le spectateur.
 
 
-# Chapitre V : les personnages
+# Chapitre V : les personnages.
 
 *La Fidelle Tromperie* compte quatorze personnages, auxquels viennent s'ajouter les figurants que sont les soldats des deux camps ennemis, et une voix merveilleuse, sans présence matérielle. Ce nombre respecte la limite fixée plus tard par Vossius [73], et la moyenne calculée par Hélène Baby dans la tragi-comédie en général [74]. La relative abondance de ce personnel dramatique relève du goût de la tragi-comédie, genre de la prolifération, pour la présence de nombreux personnages, qui accroît le plaisir visuel des spectateurs.
 
@@ -364,12 +364,12 @@ Une difficulté se présente à la lecture de cette dernière : qui est le pers
 Les personnages secondaires, quant à eux, peuvent être divisés en plusieurs groupes : le groupe des confidents et proches des héros et des héroïnes, composé de Clidame, Dorine, Florinde, Tersandre ; celui des rois étrangers, avec Aristome, Bruserbe, et Filamon ; et les autres, – l'Ambassadeur, la Sentinelle, le Courrier, les soldats des deux troupes –, de trop peu d'intérêt pour que nous leur consacrions une étude.
 
 
-## Le couple des amants : Armidore et Alderine
+## Le couple des amants : Armidore et Alderine.
 
 Il s'agit du couple le plus présent dans la pièce : à eux deux, leurs répliques constituent 39, 84% de la totalité des vers de la pièce. Alderine apparaît beaucoup plus dépendante de leur relation qu'Armidore : elle est toujours en sa compagnie lorsqu'elle est sur scène (II, 2 ; IV, 2 ; IV, 4 ; IV, 7), à l'exception d'une seule fois (V, 3), – Armidore étant alors en voyage. Ce couple est au centre de tous les intérêts, et sa prédominance sur les autres personnages est encore manifeste à travers le fait que c'est à ces deux amants qu'incombent les deux passages en stances de la pièce.
 
 
-### Armidore
+### Armidore.
 
 Sujet de la conquête de la femme aimée, Armidore est, nous l'avons vu, le personnage le plus présent de *la Fidelle Tromperie* : il apparaît dans tous les actes, et dans dix scènes sur les dix-huit que comprend la pièce. Par ailleurs, le fait qu'il soit travesti en femme lui confère une grande dimension spectaculaire, que Gougenot ne se prive pas d'exploiter, puisque sur ses dix apparitions, le travestissement est porté huit fois. Il s'agit donc, pour reprendre une expression de Jacques Scherer, d'un héros « prodigué » [76] : presque toujours sous les yeux du public, Armidore encadre la pièce en apparaissant à la première et à la dernière scène.
 
@@ -398,7 +398,7 @@ Son dilemme, qui le fait osciller entre son masque et sa véritable identité, m
 Malgré tout, Armidore est bien celui qui tire les fils de l'intrigue. Il décide de se travestir, ce qui le rend maître du jeu – jeu qu'il entretient en préparant les autres personnages à ne douter jamais de sa véritable identité : c'est la fonction du récit de ses aventures lors de la tempête et du combat avec le corsaire, récit créé en duo avec Clidame (I, 2), et entièrement destiné à attester de la réalité de la force et du courage d'une femme. Lorsque lui échappe le contrôle du déguisement, ce n'est que temporaire : si « Lucide » accepte de servir la reine en combattant Filamire, ce n'est que pour mieux la tromper en mettant en scène un procédé qui la fera changer d'avis.
 
 
-### Alderine
+### Alderine.
 
 Elle est en troisième position en ce qui concerne le nombre de répliques des personnages, après Armidore et Clorisée. Elle est seulement présente dans cinq scènes sur dix-huit et n'apparaît ni dans le premier, ni dans le troisième acte. Objet de la conquête amoureuse, jeune et belle, elle est aussi totalement passive. L'aspect le plus intéressant de ce personnage se trouve dans la relation qui l'unit à « Lucide », alors qu'elle n'a pas encore pris connaissance du déguisement. En effet, l'amour, malgré ce dernier, s'empare de son cœur, et crée une certaine ambiguïté chez le personnage, apparemment homosexuel, revendiquant la légitimité de son sentiment :
 
@@ -426,12 +426,12 @@ Ce Dedale a pour moy de trop fascheux destours (II, 2).
 Bien sûr, ce développement du thème homosexuel est un topos de celui de la conquête du prince travesti, et il faut voir en lui un procédé dramatique, qui vise à réjouir le public par l'entretien d'une situation ambiguë, plutôt qu'une véritable déviance de la princesse. D'ailleurs, la révélation du travestissement permettra de redéfinir *a posteriori* l'ambiguïté : si Alderine est tombée amoureuse d'une femme, c'est que, quelque part, elle se doutait que ce n'en était pas vraiment une.
 
 
-## Clorisée et Filamire
+## Clorisée et Filamire.
 
 Le couple en tant que tel n'existe pas avant la dernière scène de la pièce, au cours de laquelle le mariage de ces deux personnages est décidé, et la relation amoureuse réciproque substituée à la haine que portait la reine au roi qui l'avait trompée. Ils sont liés par un lien de parenté avec Alderine, parenté qui justifie une structure à deux couples relevant de la tendance de la tragi-comédie à la multiplication des personnages.
 
 
-### Clorisée : tyran et victime
+### Clorisée : tyran et victime.
 
 Clorisée est, nous l'avons déjà dit, le deuxième personnage important de la pièce. Elle apparaît dans une scène de moins qu'Armidore, soit dans neuf scènes, et elle est, avec lui, le seul personnage à apparaître dans tous les actes. Cette reine a une dimension spectaculaire, qui apparaît notamment à travers les vêtements que le dramaturge veut lui faire porter à la deuxième scène des actes IV et V, où elle est vêtue en « sa Majesté » et en « Amazone », vêtements qui traduisent son pouvoir et son courage de manière visuelle, tout en contribuant à la diversité de la scène vue par les spectateurs.
 
@@ -473,7 +473,7 @@ Ont destiné ma vie au bon-heur de ce Roy (v. 2175-2184).
 En ce qui concerne son utilité dramatique, le personnage de Clorisée est un opposant – involontaire, certes – à la réalisation des désirs amoureux d'Armidore, par l'emploi qu'elle veut faire de « Lucide ». Mis à part ses élans passionnés, elle est relativement passive.
 
 
-### Filamire, roi et inconstant
+### Filamire, roi et inconstant.
 
 L'arrivée de ce personnage est attendue dès la deuxième scène du premier acte, au cours de laquelle Clorisée se plaint de ce « parjure », mais elle ne sera effective qu'au cinquième acte. Absent du reste de la pièce, il apparaît seulement dans trois scènes, mais sa présence soudaine se fait particulièrement sentir. En effet, dans ce dernier acte, il parlera plus qu'Armidore, et c'est à lui, nouvelle autorité, que reviendra le privilège de clore la pièce. Par ailleurs, c'est lui qui rend le dénouement possible, et c'est sans doute pourquoi il intervient si tard : il donne la victoire à Chypre avec l'aide de « Lucide » en combattant dans la bataille ; sa simple présence, dans une mise en scène organisée par le prince travesti, met fin à la haine de la reine ; et ce dernier renversement permet aux deux amants de s'aimer en toute légitimité.
 
@@ -489,7 +489,7 @@ Et morte elle me faict mon crime reparer (V, 7).
 Ainsi, le personnage de Filamire paraît être hybride : décrit par les autres, c'est un monstre de lâcheté, un inconstant sans pitié, qui n'a pas hésité à abandonner une femme enceinte ; mis en scène, c'est un roi courageux, et responsable.
 
 
-## Clidame et Tersandre, allÉgories du spectateur
+## Clidame et Tersandre, allÉgories du spectateur.
 
 Chacun de ces personnages est proche d'un des deux héros : Armidore pour Clidame et Clorisée pour Tersandre. C'est d'ailleurs dans cette fonction de proche, parfois de confident, qu'on les retrouve le plus souvent. Ils jouent quelquefois le rôle de bonne conscience de ceux qu'ils conseillent quand ils sont en désaccord avec leurs décisions, mais ils ne sont jamais écoutés [77]. Leur présence est relativement importante dans la pièce puisqu'ils ont chacun plus de 5% des répliques, ce qui n'est pas fréquent. Le personnage de Tersandre a, de plus, une importance militaire due à son grade puisqu'il est « Lieutenant general de la Reyne », ce qui justifie sa présence dans les scènes de bataille (V, 2, 4 et 5).
 
@@ -517,7 +517,7 @@ Mon esprit estonné croit de voir des chimeres.
 Dans ces scènes, c'est en véritables allégories du spectateur que se posent Clidame et Tersandre. Comme le public, ils assistent, avec un regard critique, aux gestes des autres personnages, et comme lui, ils sont placés dans la même position d'attente et de surprise devant les événements.
 
 
-## Les rois étrangers : Aristome, Bruserbe et Filamon
+## Les rois étrangers : Aristome, Bruserbe et Filamon.
 
 Aristome, Bruserbe et Filamon sont issus du même modèle : tous les trois sont des rois qui ont voulu battre Filamire afin de gagner la main d'Alderine, et tous les trois ont échoué dans cette entreprise et ont été condamnés à servir Clorisée. Cependant, bien qu'issus du même moule, ces rois ne se ressemblent pas et relèvent chacun de types différents.
 
@@ -546,7 +546,7 @@ Il s'agit sans aucun doute du personnage le plus drôle de *la Fidelle Tromperie
 Il est à noter que ces rois n'ont aucune dimension politique : même lorsqu'ils déclarent la guerre à Chypre, leur but est avant tout de conquérir les belles qui les intéressent.
 
 
-## Dorine et Florinde
+## Dorine et Florinde.
 
 Il y a peu à dire sur ces deux personnages. Toutes deux appartiennent au type du confident, type qui s'impose sur la scène théâtrale à partir du début du dix-septième siècle. Elles dépendent totalement de celles à qui elles sont soumises et ne peuvent apparaître sans leur maîtresse : Dorine accompagne Clorisée en I, 2 et 3, III, V, 5 et V, 7 ; Florinde est aux côtés d'Alderine en II, 2 et IV, 2, et elle la suit ou la précède en IV, 4 et V, 5.
 
@@ -568,14 +568,14 @@ Et le Ciel ne peut rien contre ceste injustice (III, v. 1116-1118).
 Mais ce n'est qu'une remarque faite en passant et qui manifeste son indignation face à l'acharnement de la fatalité contre Clorisée.
 
 
-# Chapitre VI : une pièce au coeur de l'actualité théâtrale
+# Chapitre VI : une pièce au coeur de l'actualité théâtrale.
 
 Dans la décennie 1630, le genre de la tragi-comédie est à son apogée, et la production de pièces de ce type dépasse de loin celle des autres pièces. La tragi-comédie, dont la légitimité est discutée par les Réguliers, devient le bastion des Irréguliers, qui prônent pour le genre le non-respect des règles, et qui s'accordent pour faire de lui le genre divertissant par excellence. Ogier, dans sa Préface à la pièce de Mareschal, *Tyr et Sidon* (1628), veut adapter le théâtre au public de son temps, « un peuple impatient et amateur de changement et de nouveauté » [78]. Le but de la tragi-comédie est bien alors de divertir le public à tout prix, et par tous les moyens.
 
 On ne sait si Gougenot a eu vent des différents textes prenant parti pour l'esthétique irrégulière et du débat théorique qu'ils impliquaient, mais nul doute qu'il ne suive la mouvance des Irréguliers, à tel point qu'on a pu lui attribuer le *Discours à Cliton. La Fidelle Tromperie* s'avère être une de ces tragi-comédies qui multiplie les « accidents et aventures extraordinaires » – pour reprendre une expression de Rayssiguier – afin de plaire au public. Comment Gougenot, en privilégiant par-dessus tout le divertissement dans sa pièce, montre-t-il son appartenance au mouvement irrégulier de l'époque ?
 
 
-## Le travestissement
+## Le travestissement.
 
 Le travestissement est l'une des sources les plus importantes du spectaculaire de *la Fidelle Tromperie*. Avant d'étudier de quelles manières le dramaturge exploite ce procédé, il convient de mettre en rapport le choix de ce dernier avec les autres pièces de l'époque.
 
@@ -638,12 +638,12 @@ Ces vers ne sont pas dénués d'un certain érotisme, car c'est bien le récit d
 Ainsi, le travestissement est bien la source de multiples effets spectaculaires, qui sont autant de réjouissances offertes au spectateur.
 
 
-## Autres formes de spectaculaire
+## Autres formes de spectaculaire.
 
 Le travestissement est, certes, une forme divertissante, mais ce n'est pas la seule. *La Fidelle Tromperie* exploite également certaines formes de violence qui, elles aussi, sont appréciées par le public des années 1630. Par ailleurs, le recours au merveilleux, l'expression des passions, font encore partie de ces éléments dont le but est de plaire.
 
 
-### Formes de violence
+### Formes de violence.
 
 La violence de la pièce de Gougenot se manifeste d'abord à travers les deux duels (III) et la scène de la bataille (V, 4). Les duels sont fréquemment représentés dans le théâtre de l'époque ; ils mettent en danger la vie du héros, font craindre aux spectateurs une mauvaise issue, et, lorsqu'ils sont gagnés par le protagoniste, témoignent alors de sa valeur et de son courage. La bataille sur scène est plus rare, mais aussi plus spectaculaire : on la retrouve par exemple dans *la Dorinde* d'Auvray, où la ville de Marcilly est prise d'assaut, ou encore dans *la Sœur valeureuse* de Mareschal, et dans l'*Amant libéral* de Guérin de Bouscal. On peut imaginer l'effet que devait produire la vue de soldats, sans doute armés d'épées et de lances, de boucliers, en armure, se jetant à l'assaut d'une forteresse…
 
@@ -680,7 +680,7 @@ De fait, lorsque « Lucide » met en scène le fameux procédé (V, 5), elle i
 Toutes ces formes de violence seront progressivement éliminées de la scène du théâtre, avec la volonté des dramaturges de respecter les bienséances qui s'imposent alors. Lorsque Gougenot écrit sa pièce, ces éléments ne sont encore que des moyens – fréquents et appréciés – de susciter l'émotion du public.
 
 
-### La rhétorique des passions
+### La rhétorique des passions.
 
 La rhétorique passionnelle est un autre élément du spectacle. Son but est de faire partager au public, par tous les moyens, les émotions, les passions qui transportent les personnages, et le genre de la tragi-comédie y a très souvent recours [82]. On la retrouve dans l'emploi de figures de style et de tropes divers, et dans certaines formes d'écriture théâtrale, comme les monologues et les stances.
 
@@ -738,7 +738,7 @@ L'oracle (V, 3) est encore une forme qui bouleverse la versification. Intervenan
 *La Fidelle Tromperie* est-elle une pièce qui relève de l'esthétique baroque ? Certains éléments étudiés précédemment peuvent en effet nous amener à poser la question. Nous parlions plus haut du pouvoir suggestif des mots qui cherchent à parler à l'imagination et à la sensibilité du public, et qui manifestent l'aspect ostentatoire de la pièce de Gougenot – et c'est peut-être déjà là une caractéristique baroque. Par ailleurs, certains thèmes abordés dans la pièce sont non seulement fréquents dans le théâtre de l'époque, mais ils ont aussi été apparentés à l'esthétique baroque. Quels sont-ils, et comment le dramaturge les adapte-t-il ?
 
 
-### Un héros incertain dans un monde instable
+### Un héros incertain dans un monde instable.
 
 La destinée, dans la tragi-comédie, est une fée capricieuse et joueuse, méchante sans cruauté, qui marche en dansant et en ligne brisée, n'accablant l'homme que pour le relever, le jetant de péripétie en péripétie comme une balle dont elle s'amuse. Aussi le héros n'est-il ici ni Œdipe ni Ulysse, ni écrasé ni triomphant, mais jouet lancé et relancé par une main insaisissable et toujours changeante ; il va de surprise en surprise, (…) dans un monde qui n'est jamais ce qu'il paraît (…). [86]
 
@@ -781,7 +781,7 @@ Mon nom est Armi, mais las ! le dois-je dire ? (IV, 4, v. 1529-1530).
 Et le travestissement est un moyen de poser la question de l'identité, en jouant avec la dualité du masque et du visage. Ainsi, on peut sans doute voir là une caractéristique baroque de la pièce de Gougenot.
 
 
-### Un théâtre réflexif
+### Un théâtre réflexif.
 
 Le théâtre baroque est souvent défini comme un théâtre réflexif, c'est-à-dire comme portant un regard sur lui-même, phénomène dont la manifestation la plus flagrante est le recours au procédé du théâtre dans le théâtre – que Gougenot a d'ailleurs employé dans *la Comedie des Comediens*. Mais il ne s'agit que d'une des formes que peut prendre ce regard, comme nous pouvons le voir en étudiant *la Fidelle Tromperie* sous cet angle.
 
@@ -795,18 +795,18 @@ comme pour témoigner qu'ils sont presque conscients d'appartenir au monde du th
 Certes, *la Fidelle Tromperie* ne contient pas de pièce intérieure, mais d'autres éléments sont des formes de jeu avec la théâtralité : Clidame et Tersandre, allégories des spectateurs ; Armidore, se mettant en scène lui-même comme un personnage, fondant son identité fictive dans la réalité scénique, faisant jouer à leur tour les autres personnages comme des marionnettes dans une mise en scène personnelle … – nous avons déjà vu tout cela. Tous ces éléments sont des effets de théâtralité qui révèlent la réflexivité de la pièce de Gougenot. Cependant, il faut dire que ce phénomène n'est pas spécifiquement baroque : certes, ces effets sont particulièrement employés pendant la période dite « baroque », mais les dramaturges y ont aussi recours pendant tout le dix-septième siècle, y compris dans la période classique [87].
 
 
-### La Fidelle Tromperie
+### La Fidelle Tromperie.
 
 Enfin, le titre que nous étudions dans les premières pages de cette introduction prend aussi une autre dimension si on l'assortit à l'esthétique baroque. Nous avons déjà vu que *la Fidelle Tromperie* répondait sans doute à une mode du titre de forme oxymorique, mais plus encore, cette mode semble appartenir de plain-pied au baroque. En effet, on a souvent défini le genre comme aimant jouer sur le thème des « apparences trompeuses », qui relève aussi de la question de l'identité – à travers la dialectique du masque et du visage –, et de la question de la vérité – à travers celle du réel et du songe. Avec la « fidelle tromperie », on est au cœur de ce système : où est la vérité ? quelle est l'identité ? Au-delà de cette première interprétation du titre de la pièce de Gougenot, c'est peut-être tout un enjeu dramatique qu'il faut voir : car une « fidelle tromperie », n'est-ce pas aussi l'enjeu de toute représentation théâtrale ?
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Édition de référence
+## Édition de référence.
 
 
-### Description de l'édition de référence
+### Description de l'édition de référence.
 
 La présente édition a été effectuée à partir de l'exemplaire de l'édition originale disponible à la bibliothèque de l'Arsenal (fonds Rondel) sous la côte Rf 6204. Il s'agit d'un volume de format in-8° dont les cahiers sont constitués de quatre feuillets, soit huit pages. Il ne contient pas l'extrait du Privilège du Roi. Il se présente ainsi :
 
@@ -823,7 +823,7 @@ Page VIII : Acteurs.
 Pages 1 à 158 (cahiers A à U) : *La Fidelle Tromperie.*
 
 
-### Autres exemplaires
+### Autres exemplaires.
 
 *L'Ere Baroque en France* [88] de Roméo Arbour recense six exemplaires de *la Fidelle Tromperie*. A celui que nous avons consulté s'en ajoutent quatre autres, eux aussi datés de 1633 : le premier se trouve aussi à l'Arsenal (cote : 8 BL 14176), le second à la bibliothèque du British Museum (Londres), le troisième à la Boston Public Library (U.S.A.), et enfin un exemplaire se trouve à la bibliothèque de l'université John Hopkins (Baltimore, U.S.A.). D'autre part, est recensé aussi un exemplaire daté de 1634, qui est également consultable à la bibliothèque de l'Arsenal (cote : 8 BL 14177).
 
@@ -832,17 +832,17 @@ Le second exemplaire de l'Arsenal, datant de 1633, est semblable à celui sur le
 Le troisième exemplaire de l'Arsenal, daté de 1634, est lui aussi joint à *la Comedie des Comediens* éditée par P. David, mais la couverture de l'ensemble porte cette fois le titre : *Fid. Trom. / Com. des Comed.* sur la tranche. En ce qui concerne *la Fidelle Tromperie*, le fleuron de l'éditeur n'est pas le même que celui des exemplaires de 1633, malgré le fait qu'il s'agisse toujours d'Anthoine de Sommaville. De plus, il contient une dédicace [89]. Seule *la Fidelle Tromperie* est datée de 1634, *la Comedie des Comediens*, quant à elle, est datée de 1633, et il s'agit de la même édition que celle contenue dans l'exemplaire que nous examinions précédemment. Hormis ces trois éléments, – date, fleuron et dédicace –, tout le reste semble identique dans la tragi-comédie. Il est à noter que cet exemplaire porte des marques de découpage, qui tronque parfois en partie les didascalies inscrites dans la marge, ou bien encore les contourne, indice que les deux pièces – qui toutes deux sont ainsi mutilées – n'étaient pas destinées à être rassemblées sous ce format. Ces nouvelles preuves, – année de publication différente pour les deux pièces, découpage « sauvage »… – nous confortent dans l'idée que nous sommes confrontés ici encore à un recueil factice.
 
 
-## Annotations et corrections
+## Annotations et corrections.
 
 
-### Principes d'annotation
+### Principes d'annotation.
 
 Un lexique situé à la fin de l'ouvrage permettra d'éclaircir les problèmes de vocabulaire éventuels qui peuvent se poser au fil de la lecture. Nous y renvoyons par un astérisque à chaque apparition d'un mot problématique récurrent dans la pièce. Lorsqu'un terme présentant une difficulté de compréhension n'apparaît qu'une fois, nous signalons alors son sens par une note. Nous n'avons pas jugé nécessaire de faire figurer dans le lexique les termes dont le genre a changé et qui ont gardé la même signification qu'aujourd'hui.
 
 Les notes ont été ajoutées dans une volonté d'éclaircissement et de meilleure saisie du texte. Ainsi pourront y figurer des remarques d'ordre grammatical, lexical, didascalique, ou d'ordre plus général.
 
 
-### Corrections
+### Corrections.
 
 Les numéros de ligne de l'*Argument* et les numéros de vers de *la Fidelle Tromperie* auxquels nous faisons allusion renvoient à la présente édition ; la pagination et les numéros de cahier, signalés entre crochets, renvoient à l'édition originale. Nous avons attribué au premier cahier de l'édition originale, qui ne possède pas de pagination, la lettre *a*, ainsi qu'une pagination en chiffres romains.
 
@@ -1403,15 +1403,15 @@ Didascalie    Fil. se va habiller.     Filamire se va habiller    14
 2366    funeste,     funeste.     158
 
 
-# LA FIDELLE TROMPERIE. TRAGI-COMÉDIE
+# LA FIDELLE TROMPERIE. TRAGI-COMÉDIE.
 
 
-## Argument
+## Argument.
 
 /Filamire, jeune Prince d'Armenie [90], voyant le monde arrive en Cypre, où par     le deceds du Roy de ceste isle, il trouve Clorisée jeune Princesse et fille de ce Roy nouvellement couronnée, des beautez et merites⁎ de laquelle Filamire estant extremement passionné, il fit en sa faveur une infinité de belles et genereuses⁎ actions sous le nom de Palmedon Prince de Trebisonde [91] ; Clorisée qui estoit fort sollicitée par son peuple de se marier, creut qu'elle n'en pouvoit trouver une occasion plus legitime que par l'alliance de ce Prince qu'elle aymoit ardamment. Leur mariage se traitte tandis que Filamire feint d'en-/ /voyer ses Ambassadeurs en Trebisonde ; Durant ce temps la Royne devient grosse, ce que sçachant Filamire, il se desrobe⁎ d'elle et se retire en Armenie, où en mesme temps on acheve le mariage desja commencé de luy et de Clarinde, Princesse unique de Mede [92], dont Clorisée estant advertie et se voyant trompée, conceut un cruel desir de vengence contre Filamire. Le terme de son accouchement venu, elle se delivra d'une fille qu'elle fit nommer Alderine, laquelle devint si belle que sa mere jugea sa beauté capable de la vengence qu'elle desiroit, surquoy s'estant conseillée d'un Prince/ son amy, elle fit fortifier un Chasteau, dans lequel elle logea ceste jeune Princesse, qu'elle pourveut de femmes pour la servir, et n'estoit permis aux hommes d'entrer en ceste maison. Alderine parvenuë en l'aage de douze ans, sa mere fit faire une infinité de ses portraits, qu'elle envoya par toutes les Provinces, avec des patentes portant promesse de donner sa fille et sa Couronne à celuy / / qui luy apporteroit la teste de Filamire. Armidore jeune Prince de Phrygie [93] et nepveu de Filamire, ayant veu un de ces portraits     devint si passionné de l'amour d'Alderine qu'il resolut de la voir, et d'employer toute son industrie⁎ et son courage au moyen de la posseder [94]. Il descouvre son secret à Clidame son cousin [95] Prince de Natalie [96], ils se desrobent⁎ de Phrygie et vont en Cypre ; ils se presentent à Clorisée, Armidore s'estant deguisé en Amazone, et ayant pris le nom de Lucide, se disans Lydiens [97] frere et sœur eschapez d'un naufrage. Lucide est donnée par la Royne à sa fille, laquelle a de si fortes inclinations d'amour pour ceste feinte Amazone, qu'elle ne la peut perdre de veuë. Durant leur conversation aussi pure qu'innocente, plusieurs Chevaliers vont à la conqueste du chef⁎ de Filamire, mais sa valeur⁎ les reduit à l'extremité d'apporter le leur à Clorisée, qu'il luy envoye en satisfaction [98] du sien [99]. Lucide fust obligée de combattre deux puissans Roys en deux rencontres, et les ayant vain-/ /cus en presence de Clorisée, ceste Royne voyant que la valeur⁎ de Filamire surmontoit⁎ son dessein, creut que celle de Lucide estoit capable de la venger, et sur ceste opinion elle luy demande deux choses en presence d'Alderine, dont la premiere estoit la teste de Filamire, et l'autre estoit qu'elle luy trancheroit la sienne : ce que Lucide luy promit, pourveu qu'elle luy octroyast un don qu'elle accompliroit apres s'estre aquittée de sa premiere promesse : ce que luy ayant esté accordé par Clorisée elle reçoit commandement de partir le lendemain. La nuit de ce jour Lucide descouvre à Alderine la verité de son sexe et de sa naissance : la Princesse tesmoigne tant de colere et d'offence de ceste nouvelle, qu'elle deffend à Lucide de se trouver jamais en sa presence : Lucide apres mille plaintes part le lendemain avec Clidame, durant leur voyage les deux Roys vaincus par Lucide, se prevalans de son absence viennent ravager la Cypre, assiegeans Clorisée dans sa ville capitalle, reso-/ /lus de ne point donner de paix que par les mariages de l'un avec la mere, et de l'autre avec la fille. Il se donne un assaut de nuict, où la ville estant sur le poinct d'estre prise, Lucide arrive la mesme nuict et satisfaicte de son voyage, secourt si bien Clorisée, que par l'ayde d'un seul Chevalier, ils mettent les ennemis en fuitte, et font les Roys prisonniers ; Et Lucide s'estant retirée en une chambre dans le logis de la Reyne, s'acquitte envers elle de sa premiere promesse : Clorisée luy demandant l'effet de la seconde, Lucide la requiert premier [100] de l'accomplissement de la sienne, à quoy la Reyne trouvant de la difficulté, et se croyant deceuë⁎ de Lucide, se veut tuer ; Filamire se trouve vivant, et Clorisée satisfaicte, ils vont voir ensemble Alderine, où Lucide est recogneuë pour Armidore, à qui la Princesse est donnée pour femme : les Roys prisonniers sont mis en liberté ; un Courrier de Mede apporte la nouvelle de la mort de Clarinde : finalement Clorisée et Filamire sont remis ensemble.
 
 
-## ACTEURS [101]
+## ACTEURS [101].
  – ARMIDORE,Prince de Phrygie
  – CLIDAME,Prince de Natalie
  – CLORISEE,Reyne de Cypre
@@ -1429,15 +1429,14 @@ Didascalie    Fil. se va habiller.     Filamire se va habiller    14
  – COURRIER de Mede 
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ARMIDORE, puis CLIDAME
 
 
-    ARMIDORE, *seul, tenant un portraict
-                 [104]d'Alderine.*
+    ARMIDORE, *seul, tenant un portraict [104]d'Alderine.*.
 Image precieux [105] de ma vivante aurore,      
 Belle feinte d'amour que mon esprit adore,  
 Rayons de mon Soleil, doux abus⁎ de mes yeux,  
@@ -1486,7 +1485,7 @@ S'y promet les faveurs de l'amour et du sort,
 Ceste entreprise veut un genereux⁎ effort,  
 Mais voicy tout à point mon fidele Clidame. [112]  
 
-    CLIDAME
+    CLIDAME.
 N'esteindrez-vous jamais ceste subtile flame  
 Dont un esprit trompeur flate vos passions  
 Et prophane l'honneur de vos perfections ?  
@@ -1496,7 +1495,7 @@ Faut-il que cet abus⁎ vostre amour poursuivant
 Perde vostre jeunesse en des amours de vent ?  
 La licence souvent met l'erreur en coustume. [114]  
 
-    ARMIDORE
+    ARMIDORE.
 Plus vous blasmez mon feu⁎, de tant plus il s'allume,  
 Il pardonne au desir de vos sens aveuglez  
 Qui vous font concevoir ces termes dereglez⁎,  
@@ -1509,20 +1508,20 @@ Fait naistre en s'exaltant les delices⁎ de l'ame,
 Vous cognoistrez alors, cher cousin, mais trop tard,  
 Qu'il blesse avec dessein, et non pas par hazard.  
 
-    CLIDAME
+    CLIDAME.
 On fait peur aux enfans de postures contraintes, [115]  
 Amour n'a pas pour moy d'assez subtiles feintes.  
 
-    ARMIDORE
+    ARMIDORE.
 Les apasts⁎ de l'amour ont des charmes⁎ bien forts.  
 
-    CLIDAME
+    CLIDAME.
 L'immortelle vertu surmonte⁎ ses efforts⁎.  
 
-    ARMIDORE
+    ARMIDORE.
 On ne void point Amour des vertus se distraire⁎.  
 
-    CLIDAME
+    CLIDAME.
 Embrassez la raison vous verrez le contraire,  
 Et que tout son pouvoir n'est qu'un déreglement [116]  
 Qui n'a de la vertu que l'ombre seulement :  
@@ -1532,49 +1531,49 @@ De mesmes quand l'amour veut pratiquer ses loix,
 Il contrefaict le Sainct en sa trompeuse voix,  
 Et c'est dans cet abus⁎ que se forme le vice.  
 
-    ARMIDORE
+    ARMIDORE.
 Ce blaspheme merite un éternel supplice,  
 C'est assez mon cousin.  
 
-    CLIDAME
+    CLIDAME.
         Vostre esprit consulté,  
 Vous trouverez Amour fils de l'oisiveté.  
 
-    ARMIDORE
+    ARMIDORE.
 Vous estes en courroux.  
 
-    CLIDAME
+    CLIDAME.
         Vos vertus ramassées [117],  
 Vous reprendrez un jour vos premieres pensées,  
 Et ce masque d'Amour disparoistra soudain.  
 
-    ARMIDORE
+    ARMIDORE.
 Je croy que vous feignez ce furieux⁎ desdain  
 Pour esprouver⁎ mon cœur sur la pierre de touche.  
 
-    CLIDAME
+    CLIDAME.
 Ce que le mien conçoit s'exale par ma bouche,  
 Mais puis que ce tourment⁎ vous maistrise absolu, [118]  
 Je vous y veux servir, je m'y suis resolu.  
 
-    ARMIDORE 
+    ARMIDORE. 
 Vous me ressuscitez, ha que je vous embrasse.  
 
-    CLIDAME
+    CLIDAME.
 Mais je pense aux moyens de forcer ceste place,  
 D'où par arrest fatal nostre sexe est banny.  
 
-    ARMIDORE
+    ARMIDORE.
 Sur ce doute important mon esprit est muny  
 D'un conseil que l'amour industrieux⁎ me donne.  
 
-    CLIDAME
+    CLIDAME.
 Cet obstacle pourtant me travaille⁎ et m'estonne⁎,  
 Mais sçachons ce conseil esclos de vostre amour,  
 Si la raison y peut descouvrir quelque jour,  
 Que vostre bel esprit me le face comprendre.  
 
-    ARMIDORE
+    ARMIDORE.
 La beauté qui me fist ce voyage entreprendre,  
 Et pour qui je ressens tant d'amoureux tourment⁎,  
 Me suggere un moyen pour mon soulagement,  
@@ -1596,22 +1595,22 @@ Ainsi je forceray cet aymable sejour,
 Et verray glorieux l'astre de mon amour.  
 Mon cousin approuvez ceste belle entreprise.  
 
-    CLIDAME
+    CLIDAME.
 Belle, vrayment qu'amour a finement surprise,  
 Mais moy que deviendray-je en ce beau changement ?  
 
-    ARMIDORE
+    ARMIDORE.
 Ceste difficulté trouble mon jugement,  
 Cher amy c'est à vous à surmonter⁎ ce doute.  
 
-    CLIDAME 
+    CLIDAME. 
 Aux affaires d'amour mon esprit ne voit goute,  
 Ces ruses à la fin descouvrent leur poison.  
 
-    ARMIDORE
+    ARMIDORE.
 Laissez Amour à part, consultez la raison.  
 
-    CLIDAME
+    CLIDAME.
 La raison et l'amour ennemis manifestes  
 Troubleroient vos desseins d'evenemens funestes,  
 La raison contrarie à [120] ceste passion,  
@@ -1627,7 +1626,7 @@ Allons voir Alderine au peril de cent morts,
 Toutesfois moderons un peu la violence  
 De ce feu⁎ dont l'effet n'a que trop d'apparence.  
 
-    ARMIDORE
+    ARMIDORE.
 Je voy bien mon cousin, que vous estes irrité⁎,  
 Vous blasmez mon dessein contre Amour dépité⁎, [123]  
 Et faites d'une ruse un ombrageux diffame, [124]  
@@ -1639,18 +1638,18 @@ Vous sçavez ce que fit Alcide pour Omphale. [126]
 Achiles comme moy ceste feinte esprouva⁎  
 Lors que chez Lycomede Ulysses le trouva. [127]  
 
-    CLIDAME
+    CLIDAME.
 Allons cher compagnon, je meurs d'impatience  
 De vous voir esprouver⁎ ceste belle science :  
 Allons pourvoir à tout et resoudre comment  
 Vous vous pourrez servir de cet habillement. [128]  
 
 
-### SCENE DEUXIESME 
+### SCENE DEUXIESME. 
 CLORISEE, GOUVERNANTE
 
 
-    CLORISÉE
+    CLORISÉE.
 Mortel ressouvenir⁎ d'une ame desloyale⁎  
 Qui fait pallir l'esclat de ma grandeur Royale,  
 Immortel desespoir qui n'a point de pareil,  
@@ -1699,7 +1698,7 @@ Puis donc qu'à se venger mon courage s'obstine,
 Je veux que ce trompeur se perde en ma ruine⁎.  
 Mais helas, son bon-heur n'est jamais abatu.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Madame vostre esprit n'est pas seul combatu  
 De l'infidelité [137] de ces ames parjures,  
 Les Amantes par tout ressentent leurs injures,  
@@ -1719,7 +1718,7 @@ Et que [140] vostre grand cœur constant comme Royal
 Sçait dompter les abus⁎ d'un Prince desloyal⁎,  
 Estouffez les regrets au point de leur naissance.  
 
-    CLORISÉE
+    CLORISÉE.
 Mes pudiques amours, enfans de l'innocence,  
 Offrent bien à mon mal un remede pareil,  
 Mais las ! il ne veut point recevoir d'appareil⁎,  
@@ -1742,49 +1741,49 @@ Que l'âge seulement en esloigne ma peur. [143]
 J'y perds le jugement.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 CLORISEE, GOUVERNANTE, ARMIDORE déguisé en Lucide, Amazone [144], CLIDAME
 
 
-    LUCIDE
+    LUCIDE.
         C'est la Reyne sans doute,  
 Mon frere le bon-heur assiste nostre route.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Plus je voy ceste fille et plus je m'esbahis, [145]  
 Sçachons où vont ces gens, s'ils sont de ce pays.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Approchez, s'il vous plaist, la Reyne le desire.  
 
-    CLIDAME
+    CLIDAME.
 Grande Reyne où [146] la gloire esleve son Empire,  
 Merveille de la terre, et le Soleil des Roys,  
 Nostre sort nous reduit aujourd'huy soubs vos loix.  
 
-    CLORISÉE
+    CLORISÉE.
 Dites moy franchement ce qui vous importune,  
 Belle, si vous souffrez des coups de la fortune,  
 Vous trouverez vers moy secours en vos dangers.  
 
-    LUCIDE
+    LUCIDE.
 Madame vous voyez deux jeunes estrangers  
 Qui viennent d'esprouver⁎ l'effort⁎ de l'inconstance.  
 Nostre desir vouloit luy faire resistance,  
 Lors que ne voyant plus que des objets de mort,  
 Un bon astre nous fit aborder vostre port.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Sans doute vous parlez de quelque aspre tourmente. [147]  
 
-    CLIDAME
+    CLIDAME.
 Nul ne la vist jamais comme nous violente.  
 
-    CLORISÉE
+    CLORISÉE.
 Mes sentimens ont part à vostre affliction⁎,  
 Sçachons vostre adventure et vostre nation.  
 
-    CLIDAME
+    CLIDAME.
 Nous sommes Lydiens [148], nez d'une illustre race,  
 Nous estions en chemin pour voyager en Thrace, [149]  
 Nos voiles commençoient à recevoir le vent,  
@@ -1806,11 +1805,11 @@ Il falut toutesfois entrer dans la galere,
 Mais au lieu d'y trouver un cruel ravisseur,  
 L'amour nous y fist voir des excez de douceur.  
 
-    CLORISÉE
+    CLORISÉE.
 Effects prodigieux en un corsaire infame,  
 Le traict⁎ de la beauté penetre jusqu'à l'ame.  
 
-    CLIDAME
+    CLIDAME.
 Dans le cinquiesme jour, l'orage s'esmouvant⁎,  
 Estonna⁎ le Nocher⁎, lors un contraire vent,  
 Fait qu'au cœur de chacun l'estonnement⁎ s'appreste,  
@@ -1820,19 +1819,19 @@ Furent bien tost suivis de tonnerres grondans,
 D'où éclattoient par tout des foudres effroyables,  
 Les plus libres [154] alors s'estimoient miserables⁎.  
 
-    CLORISÉE
+    CLORISÉE.
 Que faisoit le corsaire en ceste extremité ?  
 
-    CLIDAME
+    CLIDAME.
 Il jettoit des abbois comme un dogue irrité⁎,  
 Quand une fiere [155] vague, en forme d'une rouë,  
 Prenant nostre galere à travers de la prouë  
 Nous couvre entierement.  
 
-    CLORISÉE
+    CLORISÉE.
         Que fistes vous alors ?  
 
-    CLIDAME
+    CLIDAME.
 Le corsaire voyant tant de rudes efforts⁎,  
 Se jette dans l'esquif au déceu [156] de sa trouppe,  
 Et tandis qu'il coupoit la corde de la pouppe,  
@@ -1841,21 +1840,21 @@ Croyans de reculer un peu nostre tombeau.
 Nous n'eusmes pas plustost delaissé la galere  
 Qu'elle fut mise à fonds.  
 
-    CLORISÉE
+    CLORISÉE.
         Bons Dieux que de misere [157] !  
 
-    CLIDAME 
+    CLIDAME. 
 Nous roulasmes⁎ trois jours à la mercy des vents,  
 Mais ceste nuict passée autant morts que vivans,  
 Preparez au peril d'un évident naufrage,  
 Le sort nous a jettez sur le prochain rivage.  
 
-    CLORISÉE
+    CLORISÉE.
 Je rends graces au Ciel de ses douces faveurs  
 Qui permet que la Cypre arreste vos malheurs.  
 Mais encor, que devint vostre amoureux corsaire ?  
 
-    LUCIDE
+    LUCIDE.
 Madame, son desir ne se pouvant distraire⁎,  
 Apres avoir repris ses premiers sentimens  
 Il me vint retracer ses amoureux tourmens⁎,  
@@ -1877,57 +1876,57 @@ Et mes coups redoublez le suivans de si prés,
 Qu'il vid bien tost changer ces myrthes en cyprés, [158]  
 Ce colosse abbatu mesure vostre plage. [159]  
 
-    CLORISÉE
+    CLORISÉE.
 Doncques [160] ceste beauté possede un tel courage,  
 Cest estreme travail⁎ demande du repos,  
 Nous pourrons à loisir achever ce propos.  
 Fin du premier Acte. 
 
 
-## ACTE SECOND
+## ACTE SECOND.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 CLIDAME, LUCIDE
 
 
-    CLIDAME
+    CLIDAME.
 Je voy bien, cher cousin, que la vive⁎ figure  
 A bien plus de pouvoir que n'avoit la peinture,  
 Vos yeux et vos esprits maintenant satisfaits,  
 Dans leur contentement en monstrent les effets [161].  
 
-    LUCIDE
+    LUCIDE.
 Que ce mot de cousin ne soit plus en usage  
 De peur de descouvrir nostre feinte au langage [162],  
 Et de perdre le bien dont je suis possesseur [163] :  
 Que nos noms desormais soient de frere et de sœur,  
 Les arbres pour nous nuire ont souvent des oreilles.  
 
-    CLIDAME
+    CLIDAME.
 Vous parlez sagement, et bien quelles merveilles,  
 Produisent les effets de nostre invention ?  
 
-    LUCIDE
+    LUCIDE.
 Tout vient heureusement à mon intention [164],  
 Et vous, quel entretien avez vous de la Reyne ?  
 
-    CLIDAME
+    CLIDAME.
 On ne peut trop priser⁎ la beauté souveraine,  
 Et n'estoit que [165] je fuy l'oysive volupté,  
 Je vivrois glorieux pres de sa Majesté,  
 Vrayment ceste Princesse a de puissant merite⁎ [166],  
 Mais tousjours mon cœur libre à ce sexe resiste.  
 
-    LUCIDE
+    LUCIDE.
 Si vous faut-il resoudre à demeurer icy [167],  
 Et pour l'amour de moy forcer vostre soucy⁎,  
 Pleust au Ciel que vos yeux vissent mon Alderine.  
 
-    CLIDAME
+    CLIDAME.
 A-t-elle tant d'attraits ?  
 
-    LUCIDE 
+    LUCIDE. 
         Plus cent fois que Cyprine [168],  
 Sa divine beauté qui peut fléchir les Dieux,  
 Merveille de la terre, et chef-d'œuvre des cieux,  
@@ -1966,63 +1965,63 @@ Arresteroient bien mieux la course du Soleil,
 Que ne fit autresfois la fille de Penée  
 Lors qu'elle redoubloit sa fuitte infortunée⁎ [179].  
 
-    CLIDAME 
+    CLIDAME. 
 Toutes ces beautez sont en vos perfections.  
 
-    LUCIDE
+    LUCIDE.
 Si ma beauté pouvoit fléchir vos passions,  
 Ce seroit bien punir vostre erreur temeraire.  
 
-    CLIDAME
+    CLIDAME.
 Ne vous cognoissant pas, il se pourroit bien faire.  
 
-    LUCIDE
+    LUCIDE.
 J'entens, si vous m'aimiez en l'estat que [180] je suis.  
 
-    CLIDAME
+    CLIDAME.
 Amour ne donne pas de si cruels ennuis⁎.  
 
-    LUCIDE
+    LUCIDE.
 Narcisse devint bien amoureux de soy-mesme.  
 
-    CLIDAME
+    CLIDAME.
 Je tiens que vostre amour n'est gueres moins extreme,  
 Contrainte [181] souz un masque [182] où l'on ne vous peut voir.  
 
-    LUCIDE
+    LUCIDE.
 Je puis bien esperer où nature a pouvoir.  
 
-    CLIDAME
+    CLIDAME.
 Si Venus autresfois, pour faire voir sa gloire [183],  
 Anima dans ceste isle une image d'yvoire [184] [185],  
 Elle peut bien aussi vostre sexe changer  
 Pour punir vostre orgueil, et pour me soulager.  
 
-    LUCIDE
+    LUCIDE.
 Quand vous verray je attaint de l'amoureuse flame ?  
 
-    CLIDAME
+    CLIDAME.
 Mon cousin, ce sera lors que vous serez femme,  
 Et si je doy un jour aymer une beauté,  
 Ce ne sera jamais qu'à la necessité, [186]  
 Les Scythes vont chasser lors que la faim les presse [187],  
 Je veux en ceste sorte user d'une Maistresse.  
 
-    LUCIDE
+    LUCIDE.
 Vous estes obstiné dans ce mépris mocqueur.  
 
-    CLIDAME
+    CLIDAME.
 Je vay trouver la Reyne,  
 
-    LUCIDE
+    LUCIDE.
         Et moy revoir mon cœur [188].  
 
 
-### SCENE DEUXIESME 
+### SCENE DEUXIESME. 
 ALDERINE, FLORINDE , puis LUCIDE
 
 
-    ALDERINE
+    ALDERINE.
 Mais vous ne dites rien de ma chere Lucide,*Elles sont dans le*  
 Qui souz tant de beautez a des forces d'Alcide,*jardin du Chasteau*.  
 Beautez qu'on ne peut voir que des yeux de l'amour,  
@@ -2042,7 +2041,7 @@ Qui me fait posseder un si riche butin,
 Les souspirs que son cœur pour mon amour respire,  
 Joignent à ma grandeur un glorieux Empire [194].  
 
-    FLORINDE
+    FLORINDE.
 Ces amours sans espoir se tournent en fureurs⁎,  
 Et ne laissent en fin que des cris et des pleurs.  
 Un amour legitime apres la patience,  
@@ -2072,7 +2071,7 @@ Separeroit plustost le corps des élemens⁎ [202],
 Que de forcer l'amour où nature est contraire [203],  
 Ainsi Lucide doit de l'abus⁎ se distraire⁎.  
 
-    ALDERINE
+    ALDERINE.
 Mamie [204] je ne puis comprendre vos discours ;  
 Ce Dedale a pour moy de trop fascheux destours [205].  
 Si donc un bel esprit rencontre du merite⁎  
@@ -2083,33 +2082,33 @@ Je cheris ses vertus à l'égal de ma vie,
 Son amour et le mien ont une mesme envie,  
 Et son cœur est du mien l'agreable moitié.  
 
-    FLORINDE
+    FLORINDE.
 On distingue l'amour d'avecque l'amitié,  
 Mais ceste passion dont la fureur⁎ l'embrase,  
 L'emporte à tout moment dans un mortel extase⁎. [206]  
 
-    ALDERINE
+    ALDERINE.
 Je n'ay point encor veu ces estranges excez.  
 
-    FLORINDE
+    FLORINDE.
 Elle feint devant vous le fiel de ses accez [207].  
 
-    ALDERINE
+    ALDERINE.
 Non, non, ce qu'elle fait n'est que par complaisance [208].  
 
-    FLORINDE
+    FLORINDE.
 Madame, s'il vous plaist, feindre un jour une absence,  
 Et vous cacher en lieu d'où vous nous puissiez voir,  
 Vous direz que l'amour excede⁎ son pouvoir.  
 
-    ALDERINE
+    ALDERINE.
 Ma Florinde esprouvons⁎ un jour ceste adventure.  
 
-    FLORINDE
+    FLORINDE.
 Vous verrez un amour d'une estrange nature,  
 Tout arrosé de pleurs, et bruslé de souspirs.  
 
-    ALDERINE
+    ALDERINE.
 Mais pourquoy blasmez vous ces aymables desirs ?  
 Il semble qu'à dessein vous dressiez des parties [209]  
 Pour troubler les secrets des belles simpaties.  
@@ -2125,12 +2124,12 @@ Mais la voicy venir. Mon cœur d'où venez-vous ?
 Vostre absence desja me mettoit en courroux,  
 Qui vous a si long-temps soustraite à ma presence ?  
 
-    LUCIDE
+    LUCIDE.
 Madame, j'ay souffert cent morts en vostre absence,  
 Mais mon frere importun ne me pouvoit quitter,  
 Et pour nous separer je l'ay fait depiter⁎.  
 
-    ALDERINE
+    ALDERINE.
 De mesme, mon soucy [211], lors que vostre œil me quitte,  
 Mon esprit aussi tost de regret se dépite⁎,  
 Et semble que mes yeux abandonnent le jour,  
@@ -2140,7 +2139,7 @@ Ma paupiere se ferme, et mon teint devient pasle,
 Ne pouvant plus rien voir, je me perds au sommeil,  
 Et comme le soucy⁎ j'attens le beau Soleil.  
 
-    LUCIDE 
+    LUCIDE. 
 Madame, quand le sort de vos yeux me separe,  
 La mort en mesme temps de mon ame s'empare,  
 Je me brusle en ma crainte, et me noye en mes pleurs,  
@@ -2158,13 +2157,13 @@ Si ce n'est qu'un extase⁎, ou si c'est la mort mesme,
 Mais que ce soit la mort, ou le ravissement [213],  
 Je ne puis supporter ce triste esloignement [214].  
 
-    ALDERINE
+    ALDERINE.
 Lucide, je ne suis, vous absente qu'un ombre, [215]  
 Dedans ce desplaisir j'ay des peines⁎ sans nombre,  
 On compteroit plustost les roses du printemps,  
 Que mes tristes ennuis⁎ lors que je vous attens.  
 
-    LUCIDE
+    LUCIDE.
 Madame, vos faveurs m'imposent le silence,  
 La gloire me caresse avecque violence,  
 Mais vostre soin⁎ ayant si peu de fondement,  
@@ -2178,7 +2177,7 @@ Mais, helas ! ceste loy sur mes sens establie,
 Me force doucement d'adorer ma prison,  
 Et cherissant mon mal je fuy ma guerison.  
 
-    FLORINDE
+    FLORINDE.
 Mais où pourroit on voir des flames plus ardentes⁎,  
 Peut-on mieux exprimer des amours violentes ?  
 Quel Amant pour sa Dame a jamais tant souffert ?  
@@ -2188,7 +2187,7 @@ J'estimerois beaucoup l'amour qui la consomme⁎,
 Un Prince possedant ces belles qualitez,  
 Pourroit lors à bon droict adorer vos beautez [217].  
 
-    ALDERINE
+    ALDERINE.
 Je cognois à ce coup que vous estes charmée⁎,  
 Aux despens de ma gloire, et de ma renommée,  
 J'aymerois mieux souffrir⁎ un rigoureux tourment⁎  
@@ -2197,21 +2196,21 @@ Florinde en ce souhait vous estes inhumaine⁎,
 Rien que sa seule mort n'appaiseroit la Reine [218],  
 Je croy que son honneur recusa vos desirs [219].  
 
-    LUCIDE
+    LUCIDE.
 Madame, mon esprit n'agit qu'en vos plaisirs.  
 
-    ALDERINE
+    ALDERINE.
 Ma Lucide, rentrons, je vous veux faire entendre  
 Un air qu'en vostre absence, Amour m'a faict apprendre :  
 Allons nous rafraichir dans les ombres du bois,  
 Je veux joindre à mon luth une divine voix [220].  
 
 
-### SCENE TROISIESME 
+### SCENE TROISIESME. 
 CLORISEE, ARISTOME, CLIDAME, TERSANDRE
 
 
-    CLORISÉE
+    CLORISÉE.
 Me faut-il donc souffrir⁎ une peine⁎ infinie,  
 Je doute, mon cousin⁎, que le Roy d'Albanie [221]  
 Soit un fascheux presage à mes afflictions⁎,  
@@ -2226,7 +2225,7 @@ Demeurez en ce lieu pour recevoir ce Roy,
 Sa venuë [223] m'afflige⁎, et me met hors de moy.  
 Mais, que veut maintenant ce Chevalier estrange⁎ ?  
 
-    ARISTOME
+    ARISTOME.
 Princesse dont chacun celebre la loüange,  
 Et souz qui [224] le sort m'a fatalement soumis,  
 Je me viens acquitter de ce que j'ay promis.  
@@ -2260,7 +2259,7 @@ Exercez sur ma vie un effect⁎ souverain,
 Je mourray glorieux, mourant de vostre main,  
 Grande Reyne en cecy j'aquitte ma promesse.  
 
-    CLORISÉE
+    CLORISÉE.
 Faut-il que ce trompeur me travaille⁎ sans cesse ?  
 Ne verray-je jamais relascher mes douleurs ?  
 Ce monstre de fortune, autheur de mes malheurs,  
@@ -2279,7 +2278,7 @@ J'en accuse le Ciel, et non vostre valeur⁎.
 La Reine s'en va d'un costé et Aristome de l'autre.
 
 
-    CLIDAME
+    CLIDAME.
 Monsieur, je ne sçaurois fonder qu'avecque peine,  
 Tant de divers effects en l'esprit de la Reine,  
 Ny quel soucy⁎ la vient maintenant affliger⁎,  
@@ -2289,7 +2288,7 @@ Ma croyance est icy diversement confuse,
 Mais j'ay peur de paroistre en mon soin⁎ indiscret,  
 Voulant trop curieux profonder⁎ ce secret.  
 
-    TERSANDRE
+    TERSANDRE.
 Vostre desir conçoit une fascheuse route,  
 Je vous veux toutesfois retirer de ce doute.  
 Monsieur, la Reyne fut si parfaite autrefois,  
@@ -2348,56 +2347,56 @@ Et c'est là le sujet qui la faict receler⁎,
 De peur que quelque Prince en luy voulant parler,  
 Ne destourne le coup de ce cruel carnage. [237]  
 
-    CLIDAME
+    CLIDAME.
 Que ceste grande Reyne ait receu tant d'outrage !  
 Sans doute son esprit, justement irrité⁎,  
 Fait voir avec raison ceste severité  
 Contre le fier autheur de ceste tyrannie.  
 
-    TERSANDRE
+    TERSANDRE.
 Elle craint maintenant que le Roy d'Albanie  
 Luy vienne presenter le chef⁎ de ce trompeur,  
 Quoy que son cœur le vueille, elle en a tousjours peur,  
 Car encor que l'affront à se vanger l'attire,  
 Elle ressent tousjours son amoureux martyre.  
 
-    CLIDAME
+    CLIDAME.
 Mais, quel est ce parjure, et qu'est-il devenu ?  
 
-    TERSANDRE
+    TERSANDRE.
 C'est icy le grand mal qui nous est advenu,  
 Mal qui ne se pouvoit commettre plus infame,  
 La Princesse de Mede est maintenant sa femme  
 Aux yeux de nostre Reyne.  
 
-    CLIDAME
+    CLIDAME.
         Ha Prince desloyal⁎.  
 Prince indigne du jour comme du sang Royal.  
 Je verray quelque jour ton injure punie.  
 
-    TERSANDRE
+    TERSANDRE.
 Il regit aujourd'huy la Mede et l'Armenie.  
 Son nom est Filamire, et dans son abandon [238]  
 Il avoit usurpé celuy de Palmedon.  
 
-    CLIDAME
+    CLIDAME.
 Quand ce Prince inhumain⁎ auroit toute la terre,  
 Il ne peut éviter un foudroyant tonnerre. [239]  
 
-    TERSANDRE
+    TERSANDRE.
 On ne peut empescher les Dieux de se vanger.  
 Mais allons au devant de ce Prince estranger [240].  
 Fin du second Acte. 
 
 
-## ACTE TROISIESME
+## ACTE TROISIESME.
 
 
-### SCENE PREMIERE [241]
+### SCENE PREMIERE [241].
 BRUSERBE Roy d'Albanie, CLORISEE , GOUVERNANTE [242], puis LUCIDE, FILAMON, TERSANDRE
 
 
-    BRUSERBE
+    BRUSERBE.
 L'injurieux mespris que ce Prince respire,  
 Qui ternit vostre gloire, et trouble vostre Empire,  
 Esmeut⁎ en mon esprit de si justes tourmens⁎  
@@ -2413,7 +2412,7 @@ Pour combattre ce Roy sur sa legereté,
 Glorieux d'employer en ceste belle envie⁎  
 Mon sceptre, mon honneur, mon courage et ma vie.  
 
-    CLORISÉE
+    CLORISÉE.
 Monsieur, vostre venuë avoit desja flatté  
 D'un espoir attendu mon esprit agité⁎ :  
 Vostre unique valeur⁎ à ma Cypre cogneuë,  
@@ -2447,7 +2446,7 @@ Que l'honneur immortel a couvert de lauriers,
 Vaincus de [247] ce cruel, m'ont apporté leurs testes, [248]  
 Et semble que le Ciel approuve ses conquestes.  
 
-        BRUSERBE
+        BRUSERBE.
 Vous le nommez cruel en le favorisant,  
 Il semble que l'amour vostre flame attisant,  
 Vous figure tousjours ce Roy dans les merveilles  
@@ -2477,7 +2476,7 @@ Ne reverront jamais leur pouvoir affoibly,
 Et mes feux⁎ retenus du [249] frein de mes services,  
 Triompheront aussi de vos cheres delices⁎.  
 
-    CLORISÉE
+    CLORISÉE.
 Roy d'Epire sçachez que vos fascheux propos,  
 Ou vrais, ou déguisez, offensent mon repos,  
 Et n'estoit vostre rang que ma raison balance, [250]  
@@ -2507,11 +2506,11 @@ Ne doivent rien changer en ses affections.
 L'or s'esprouve⁎ au creuset, mon amour aux miseres  
 Et ma foy⁎ se redouble aux peines⁎ plus ameres.  
 
-    BRUSERBE 
+    BRUSERBE. 
 Mais c'est contre soy-mesme user de cruauté,  
 D'aymer [254] un desloyal⁎ en sa desloyauté⁎.  
 
-    CLORISÉE
+    CLORISÉE.
 Qu'il soit perfide⁎ ou non, son humeur desloyale⁎  
 Ne doit servir d'exemple à ma grandeur Royale,  
 Comme un Dauphin s'esgaye au courroux de la mer,  
@@ -2521,29 +2520,29 @@ Que l'honneur à l'injure ouvertement resiste,
 De mesme aux accidens que produit mon malheur,  
 Ma constance et ma foy⁎ maistrisent ma douleur.  
 
-    BRUSERBE
+    BRUSERBE.
 Aymer un inconstant, c'est blesser la constance.  
 
-    CLORISÉE
+    CLORISÉE.
 La foy⁎ fille du Ciel soustient ma resistance.  
 
-    BRUSERBE
+    BRUSERBE.
 La foy⁎ se desoblige apres le changement. [256]  
 
-    CLORISÉE 
+    CLORISÉE. 
 Ouy dans un foible esprit frappé d'aveuglement.  
 
-    BRUSERBE
+    BRUSERBE.
 Vostre fidelité vient d'une ame aveuglée.  
 
-    CLORISÉE
+    CLORISÉE.
 Mais vostre opinion d'une ame déreglée⁎.  
 
-    BRUSERBE
+    BRUSERBE.
 Mon jugement s'esgare en ces diversitez,  
 Que vous aymiez celuy que vous persecutez.  
 
-    CLORISÉE
+    CLORISÉE.
 Comme espoux je luy dois un amour veritable,  
 Et comme desloyal⁎, une mort miserable⁎.  
 On ne peut separer ces deux extremitez,  
@@ -2553,16 +2552,16 @@ J'ayme le traict⁎ mortel dont je suis traversée,
 Je ne puis supporter vos repars [257] odieux,  
 Ce Prince m'est plus cher mille fois que mes yeux.  
 
-    BRUSERBE
+    BRUSERBE.
 Laissez-vous sans espoir mon amoureuse peine⁎ ?  
 
-    CLORISÉE 
+    CLORISÉE. 
 Je ne puis escouter ceste parole vaine.  
 
-    BRUSERBE
+    BRUSERBE.
 Comment vostre pitié neglige ma douleur ?  
 
-    CLORISÉE
+    CLORISÉE.
 La Scythie plustost bruslera de chaleur, [258]  
 Que mon humeur jamais à vostre amour incline.  
 Je sçay qu'une rivalle [259] à me perdre s'obstine,  
@@ -2575,7 +2574,7 @@ Font voir ma foy⁎ plus claire aux tourmens⁎ de mon cœur ;
 Que donc vostre dessein loin de moy se transporte,  
 Tant qu'il vivra pour moy, je seray tousjours morte.  
 
-    BRUSERBE
+    BRUSERBE.
 Voyez comme ce foudre a suivy son esclair,  
 Son refus insolent ne peut estre plus clair.  
 Ha Reine impitoyable, autant fiere que belle,  
@@ -2593,7 +2592,7 @@ Je me veux en ce poinct comme toy soulager.
 Ingrate, c'est icy que je me veux resoudre ;  
 Il faut que ton dédain face esclatter un foudre.  
 
-    CLORISÉE
+    CLORISÉE.
 Va barbare orgueilleux, va temeraire Roy,  
 Lucide sort [262] au bruit de la Reyne.
 
@@ -2609,19 +2608,19 @@ Et tes desirs mourront avecque tes abois.
 Acheve de tramer des furieux⁎ vacarmes,  
 Ma chasteté ne peut aprehender [263] tes armes. [264]  
 
-        BRUSERBE
+        BRUSERBE.
 Le calme de la femme, ainsi que de la mer,  
 Presage qu'elle veut ses fureurs⁎ escumer,  
 Vostre sexe, Madame, à ce coup vous dispence  
 De voir de vos erreurs la juste recompence.  
 
-    LUCIDE
+    LUCIDE.
 Nostre sexe a dequoy punir vostre mespris.  
 
-    BRUSERBE
+    BRUSERBE.
 Ouy bien [265] en vous servant des armes de Cypris.  
 
-    LUCIDE
+    LUCIDE.
 On vous prendroit alors avec trop d'avantage,  
 La faveur de l'amour manque à vostre visage,  
 Mais, s'il plaist à la Reyne, elle verra comment  
@@ -2629,14 +2628,14 @@ Je sçauray resveiller vostre estourdissement.
 Grande Reyne, à ce coup j'implore vostre grace,  
 Permettez à mon bras de dompter ceste audace.  
 
-    CLORISÉE
+    CLORISÉE.
 Je ne veux pas Lucide, hazarder ce combat.  
 
-    BRUSERBE
+    BRUSERBE.
 Reservez ce courage à l'amoureux esbat⁎,  
 Je consacre à l'Amour ceste belle poitrine.  
 
-    LUCIDE
+    LUCIDE.
 Si Mars vous favorise aussi peu que Cyprine, [266]  
 Vous pourrez bien alors quitter la vanité,  
 Privé de la valeur⁎, comme de la beauté.  
@@ -2644,20 +2643,20 @@ Non, non, Madame, il faut dompter ceste insolence,
 Et voir si le courage excuse l'arrogance :  
 Temeraire reçoy les fruicts de ton erreur. [267]  
 
-    BRUSERBE
+    BRUSERBE.
 Encores me faut-il éviter sa fureur⁎,  
 Car ce sexe indiscret⁎ qui n'a point de limite,  
 Souvent en se mocquant se déprave et s'irrite⁎ ;  
 En fin vous m'obligez de faire comme vous,  
 Et forcez mon esprit de se mettre en courroux.  
 
-    LUCIDE 
+    LUCIDE. 
 Icy les complimens ne sont point en usage,  
 Le combat veut l'effect⁎, et non pas le langage,  
 Ne feignez point vos coups, et ne m'espargnez pas,  
 De peur qu'en vous mocquant vous trouviez le trespas.  
 
-    BRUSERBE
+    BRUSERBE.
 Je suis doncques contraint par un rencontre [268] infame,  
 De mesurer ma force à celle d'une femme,  
 Une fille nourrie aux esbats⁎ amoureux,  
@@ -2666,12 +2665,12 @@ Son bras apesanty fait sentir plus de forces,
 Que ses yeux ne font voir d'amoureuses amorces⁎ ;  
 Je ne puis plus parer à ces coups redoublez.  
 
-    LUCIDE
+    LUCIDE.
 Quoy, Prince, vos esprits sont-ils desja troublez ?  
 Sus, sus, relevez-vous, [269] je veux bien que la honte  
 Reproche à vostre orgueil qu'une fille vous dompte.  
 
-    BRUSERBE
+    BRUSERBE.
 Fortune rigoureuse, on void bien maintenant,  
 Que tant plus les humains te vont importunant,  
 Ils esprouvent⁎ tant moins ton secours favorable, [270]  
@@ -2681,7 +2680,7 @@ Suivez vostre bon-heur, je n'y puis resister,
 Ma valeur⁎ aujourd'huy souz la vostre asservie, [271]  
 Vous pouvez à bon droict disposer de ma vie.  
 
-    LUCIDE
+    LUCIDE.
 Mon Prince, la victoire a d'estranges destours,  
 Et ce qu'on s'en promet n'arrive pas tousjours,  
 Je sçay que le regret qui trouble plus [272] vostre ame,  
@@ -2697,21 +2696,21 @@ De n'attenter jamais contre ceste Province,
 Et sur tout je vous veux conjurer au surplus  
 D'honorer nostre Reyne, et ne la troubler plus.  
 
-    CLORISÉE
+    CLORISÉE.
 Qu'il ne me parle plus de sa flame amoureuse,  
 Que je desteste autant qu'il la croid glorieuse.  
 
-    LUCIDE
+    LUCIDE.
 Voulez-vous consentir à ces conditions ?  
 
-    BRUSERBE
+    BRUSERBE.
 Tout mon vouloir dépend de vos intentions :  
 Puis que vostre valeur⁎ a vaincu mon audace,  
 Quoy que vous m'imposiez, il faut que je le face.  
 Je jure par nos Dieux de n'irriter⁎ jamais  
 Les desirs de la Reine.  
 
-    LUCIDE
+    LUCIDE.
         Et moy je vous promets  
 De cherir vos vertus à l'égal de ma vie,  
 Et si le bon heur veut seconder mon envie,  
@@ -2720,13 +2719,13 @@ De ne sortir jamais de vostre souvenir.
 Bruserbe s'en va.
 
 
-    CLORISÉE
+    CLORISÉE.
 Lucide, que feray-je, en ces excez d'outrage ?  
 Mon cœur craint de passer de la peine⁎ à la rage,  
 Et qu'apres tant de maux, demeurant sans pouvoir,  
 Mon malheur ne m'emporte, en fin au desespoir.  
 
-    LUCIDE
+    LUCIDE.
 Madame, vos douleurs seront bien tost passées,  
 Le Ciel a des secrets qu'il cache à nos pensées. [273]  
 Pardonnez, s'il vous plaist, à ma temerité,  
@@ -2739,11 +2738,11 @@ Vous sentirez bien tost vostre ame soulagée,
 Et le Ciel permettra que vous serez vangée, [275]  
 Grande Reyne, essuyez les larmes de vox yeux.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Que veut ce Chevallier ? son aspect glorieux [276]  
 Pourroit à nos souhaits donner quelque presage.  
 
-    FILAMON, PRINCE D’HYRCANIE
+    FILAMON, PRINCE D’HYRCANIE.
 Madame, vous voyez un Prince dont l'usage  
 Estoit tousjours d'abatre, et non d'estre abatu,  
 Mais Filamire en fin surmonte⁎ ma vertu.  
@@ -2757,7 +2756,7 @@ Et son bon-heur voulant me vaincre une autrefois,
 Veut aussi que je tombe au pouvoir de vos loix,  
 Et que je vous demeure obligé de ma vie.  
 
-    CLORISÉE
+    CLORISÉE.
 Que peuvent plus sur moy les fureurs⁎ ny l'envie⁎ ?  
 Que peuvent plus sur moy les foudres éclattans ? [277]  
 Rien ne peut s'égaller [278] aux malheurs que j'attens.  
@@ -2769,22 +2768,22 @@ La consolation me devient importune :
 Chevallier vous pouvez suivre vostre fortune,  
 Et qui que vous soyez vivez en liberté.  
 
-    LUCIDE
+    LUCIDE.
 Madame surmontez ceste difficulté,  
 Le temps bien mesnagé produit beaucoup de choses :  
 Les espines tousjours accompagnent les roses.  
 
-    CLORISÉE
+    CLORISÉE.
 Je n'ay plus qu'un moyen pour esprouver⁎ le sort.  
 
-    LUCIDE
+    LUCIDE.
 Pleust aux Dieux qu'il se peust achepter de ma mort.  
 
-    FILAMON
+    FILAMON.
 La valeur⁎ ne peut rien en ce poinct difficile,  
 Où la mienne a manqué toute autre est inutile.  
 
-    LUCIDE
+    LUCIDE.
 Chevallier, vos propos ont trop de vanité.  
 Le courage paroist dedans l'humilité,  
 Vous offencez un Roy, que tout le monde estime,  
@@ -2800,47 +2799,47 @@ L'effet⁎ se considere, et non pas l'apparence,
 Vostre voix orgueilleuse offense insolemment  
 Un Heros qu'on ne peut cherir trop dignement.  
 
-    FILAMON
+    FILAMON.
 Belle, vous traittez mal le Prince d'Hyrcanie.  
 
-    LUCIDE
+    LUCIDE.
 Je ne puis plus souffrir⁎ vostre audace impunie.  
 Lucide met l'épée à la main.
 
 
-    CLORISÉE
+    CLORISÉE.
 Mon frere [279] pardonnez à ce petit excés,  
 Nostre sexe est tousjours trop prompt dans ses accés.  
 
-    FILAMON 
+    FILAMON. 
 J'excuse aussi l'excez, avec la promptitude.  
 
-    LUCIDE
+    LUCIDE.
 Madame, je ne puis que par l'ingratitude  
 Laisser ainsi couler ce mespris apparent.  
 Il faut que le combat vuide ce different.  
 
-    FILAMON
+    FILAMON.
 Vous voulez soustenir un Chevallier parjure.  
 
-    LUCIDE
+    LUCIDE.
 La Reyne qui ressent l'outrage de l'injure,  
 Se sçaura bien vanger du tort qu'elle a receu :  
 Mais puis qu'en ce dessein vostre esprit s'est deçeu⁎,  
 Voyons ce que fera maintenant la fortune. [280]  
 
-    FILAMON
+    FILAMON.
 Que mon malheur est grand, une fille importune  
 Que mes yeux ne jugeoient capables que d'amour,  
 Me reduit au peril de ne plus voir le jour.  
 
-    LUCIDE
+    LUCIDE.
 Comment, Prince, avez vous si tost perdu l'audace ?  
 Doncques vostre valeur⁎ s'estouffe en la menace.  
 Vostre force ressemble à ces ampoules d'eau,  
 Qui naissent de la pluye. [281]  
 
-    FILAMON
+    FILAMON.
         Ha ! voicy mon tombeau,  
 Faut il qu'en eschappant du gouffre de l'envie⁎  
 Une femme à ce coup triomphe de ma vie ?  
@@ -2848,7 +2847,7 @@ Et que sortant des mains d'un guerrier indompté,
 Je reçoive la mort d'une jeune beauté ?  
 Amour pour me punir est autheur de ses charmes⁎.  
 
-    LUCIDE
+    LUCIDE.
 Ne blasmez pas Amour, mais accusez vos armes.  
 La vanité ne peut delaisser vos esprits,  
 Et vostre voix tousjours se relasche au mespris.  
@@ -2861,7 +2860,7 @@ Mais bien souvent l'orgueil luy void changer de face.
 Vivez, je vous remets en vostre liberté,  
 En faveur de la Reyne.  
 
-    FILAMON
+    FILAMON.
         Invincible beauté,  
 Vostre extreme valeur⁎ abregé des miracles,  
 Vostre prudente voix, merveille des oracles,  
@@ -2873,19 +2872,19 @@ Vostre victoire m'a de delices⁎ charmé⁎,
 Plus heureux de me voir de vos mains desarmé,  
 Que si le Ciel m'offroit une riche couronne.  
 
-    LUCIDE
+    LUCIDE.
 Je reçois à faveur [283] ce qu'un grand Roy me donne.  
 
-    CLORISÉE
+    CLORISÉE.
 Mon frere, il me desplaist que contre mon desir,  
 Vous ayez en ma Cour receu du desplaisir,  
 Je croy que le repos vous seroit necessaire,  
 Venez vous rafraischir.  
 
-    FILAMON
+    FILAMON.
         J'iray pour vous complaire. [284]  
 
-    CLORISÉE
+    CLORISÉE.
 Elle parle à Tersandre qui estoit accouru au bruict.
 
 Mon cousin⁎, que ce Roy demeure satisfaict,  
@@ -2907,11 +2906,11 @@ Dorine, mes travaux⁎ maintenant adoucis,
 Je redonne l'espoir à mon ame timide⁎,  
 Et conçois du repos aux vertus de Lucide.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Sans doute sa valeur⁎ vous fera redouter,  
 De ceux qui desormais vous voudront molester⁎.  
 
-    CLORISÉE
+    CLORISÉE.
 Je sonde plus avant que vostre esprit ne pense,  
 J'attens de ses effets⁎ la juste recompense,  
 Que merite l'autheur de tous mes desplaisirs :  
@@ -2929,18 +2928,18 @@ Qui me dit que le Ciel devenu pitoyable⁎,
 Veut abbatre l'orgueil de ce Prince pervers⁎  
 Qui me rend criminelle au cœur de l'univers.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Madame, vous parlez du Prince d'Armenie,  
 
-    CLORISÉE
+    CLORISÉE.
 Je croy de voir bien tost sa malice [286] punie,  
 C'est maintenant qu'il doit trouver son chastiment,  
 Et lors je recevray la mort alegrement.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Las ! Madame, quittez ce funeste langage.  
 
-    CLORISÉE
+    CLORISÉE.
 Comment ! estes vous donc complice de sa rage ?  
 Voulez-vous que j'expire en ce mortel sommeil ?  
 Voulez-vous de ma playe arracher l'appareil⁎ ?  
@@ -2949,7 +2948,7 @@ Vos delices⁎ sont-ils aux traicts⁎ de ma torture ?
 Vous opposerez-vous au bonheur que j'attens ?  
 Ingrate, laissez-moy, j'ay trop perdu de temps.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Madame, pardonnez à ma faute innocente,  
 Vous n'avez pas d'ennuis⁎ que mon cœur ne ressente :  
 Mais je souffre tousjours une mortelle peur,  
@@ -2963,10 +2962,10 @@ Autant celuy qui rid que celuy qui s'afflige⁎ :
 Las ! Madame, je croy que nos intentions  
 Doivent s'accommoder à ses affections.  
 
-    CLORISÉE
+    CLORISÉE.
 La fortune n'est pas en tout temps adversaire.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Quand elle est en courroux on ne l'en peut distraire⁎,  
 Et lors que contre nous elle fait son effort⁎,  
 Son pouvoir absolu s'accorde avec le sort,  
@@ -2975,13 +2974,13 @@ Ils frappent aussi tost la vertu que le vice,
 Vous voyez bien, Madame, en vos propres malheurs  
 Qu'ils n'espargnent non plus les Roys que les Pasteurs. [288]  
 
-    CLORISÉE
+    CLORISÉE.
 Que ce mal est sensible à la grandeur Royale.  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Grande Reyne, chacun trouve sa peine⁎ égalle.  
 
-    CLORISÉE
+    CLORISÉE.
 Laissons à part le sort, la fortune et leurs loix.  
 Parlons de ma Lucide, et de ses beaux exploits,  
 Depuis que je l'ay veuë aussi fiere que belle,  
@@ -2999,12 +2998,12 @@ L'Amazone qui doit avancer son trépas.
 Fin du troisième Acte. 
 
 
-## ACTE QUATRIESME
+## ACTE QUATRIESME.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
-    FILAMON, ROY D’HYRCANIE
+    FILAMON, ROY D’HYRCANIE.
 Les desirs des mortels trouvent plus de ruïnes,  
 Que la mer n'a d'escueils, et les rosiers d'espines,  
 On ne cueille les fruicts d'amour ou de l'honneur  
@@ -3029,11 +3028,11 @@ Si me faut-il trouver relasche à mes tortures, [290]
 Ou qu'une prompte mort borne⁎ mes adventures.  
 
 
-### SCENE DEUXIESME 
+### SCENE DEUXIESME. 
 CLORISEE, LUCIDE, ALDERINE, puis FLORINDE, au logis d'Alderine où les hommes ne conversent [291] point.
 
 
-    CLORISÉE, *en sa Majesté*
+    CLORISÉE, *en sa Majesté*.
 Lucide les vertus ont des charmes⁎ si forts,  
 Que les plus durs esprits ressentent leurs efforts⁎,  
 Le vostre dont j'ay veu de si rares exemples,  
@@ -3082,7 +3081,7 @@ Mais si vous ne voulez advancer mon trépas,
 Si vous me promettez, c'est de ne manquer pas. [294]  
 Voyez si ma justice a peu toucher vostre ame.  
 
-    LUCIDE
+    LUCIDE.
 Estant ce que je suis, pardonnez-moy Madame,  
 Il suffit de m'ouvrir vos moindres sentimens  
 Pour me faire fléchir souz vos commandemens.  
@@ -3091,10 +3090,10 @@ Et si je dois un jour suivre quelque adventure,
 Ma Reyne, je n'en veux cercher la liberté,  
 Que dedans la prison de vostre Majesté.  
 
-        CLORISÉE
+        CLORISÉE.
 Je veux que vos sermens m'asseurent vos paroles.  
 
-    LUCIDE
+    LUCIDE.
 Je jure par ses yeux mes glorieux idoles, [295]  
 Elle parle des yeux d'Alderine.
 
@@ -3107,7 +3106,7 @@ D'aller jusqu'aux enfers affronter les Demons⁎,
 Protestant que mon cœur ne vit en ma puissance, [296]  
 Que pour mieux respirer dans vostre obeyssance.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Lucide, c'est assez, je reçoy vos sermens,  
 Quoy qu'ils ayent [297] choisi de foibles fondemens,  
 Que les yeux de ma fille, et croy [298] que leurs lumieres,  
@@ -3129,7 +3128,7 @@ Qui faict à mon esprit beaucoup de violence,
 Ne vous contraignez point par crainte ou par respect,  
 Si vostre cœur n'est libre il me sera suspect. [301]  
 
-    LUCIDE 
+    LUCIDE. 
 Madame, si ma voix a demeuré contrainte,  
 C'est plus par le respect que ce n'est pour la crainte,  
 Mais tant s'en faut qu'il vueille arrester mon devoir,  
@@ -3146,18 +3145,18 @@ J'accepte derechef vos genereux⁎ desseins,
 Je prefferay [303] pour eux mon courage et mes mains,  
 Pour avoir, si je puis, le chef⁎ de ce Monarque.  
 
-    CLORISÉE
+    CLORISÉE.
 C'est là de mon repos la principale marque,  
 Mais pour me delivrer tout à fait de soucy⁎,  
 Il faut qu'apres sa mort la mienne arrive aussi.  
 
-    LUCIDE
+    LUCIDE.
 Pourrois-je contre vous devenir inhumaine⁎ ?  
 
-    CLORISÉE
+    CLORISÉE.
 Vous le seriez bien mieux, me laissant vivre en peine⁎.  
 
-    LUCIDE
+    LUCIDE.
 Madame, je veux donc à tout me preparer,  
 Puis que ce dernier poinct ne se peut separer.  
 Je ne retranche rien des paroles données ;  
@@ -3168,25 +3167,25 @@ Je desire, Madame, apres ceste conqueste
 Que vostre Majesté m'accorde une requeste  
 Avant que d'accomplir vostre dernier propos. [304]  
 
-    CLORISÉE
+    CLORISÉE.
 Pourveu que vos desirs n'offencent mon repos,  
 Et qu'on ne parle point de me laisser la vie,  
 Je ne reffuse point l'effet de vostre envie. [305]  
 
-    LUCIDE 
+    LUCIDE. 
 Maintenant mes esprits demeurent satisfaits.  
 
-    CLORISÉE
+    CLORISÉE.
 Pourveu que nous venions des discours aux effets⁎.  
 
-    ALDERINE
+    ALDERINE.
 Quoy ! qu'avez-vous promis, temeraire Lucide ?  
 
-    LUCIDE
+    LUCIDE.
 Ma Princesse, si j'ay vostre faveur pour guide,  
 Je me promets par tout des glorieux succez.  
 
-    ALDERINE
+    ALDERINE.
 Comment ! que ma faveur vous conduise aux excez,  
 Qu'un ennemy cruel ne voudroit pas commettre.  
 Où seroit ma raison ? pourrois-je bien permettre,  
@@ -3197,10 +3196,10 @@ Consente à vos complots, inhumaine⁎ Lucide.
 Cruelle, sont-ce là des fruicts de ton amour !  
 De vouloir meurtrir [307] ceux qui m'ont donné le jour ?  
 
-    CLORISÉE
+    CLORISÉE.
 Mon repos toutesfois dépend de ce voyage.  
 
-    ALDERINE
+    ALDERINE.
 Quoy que facent les vents, j'y dois faire naufrage,  
 Et de quelque costé que roulent⁎ les destins,  
 Je ne puis éviter les outrages mutins.  
@@ -3219,12 +3218,12 @@ Sans respect de l'honneur ny de la qualité,
 L'infidelle partout exerce sa puissance,  
 Et tous ses mouvemens sont dans l'indifference.  
 
-    CLORISÉE
+    CLORISÉE.
 Ma fille, vous devriez en cela l'imiter,  
 Sans combattre des vents qu'on ne peut arrester.  
 Laissez moy les soucis⁎, et vivez plus contente.  
 
-    ALDERINE
+    ALDERINE.
 Quel plaisir peut produire une mauvaise attente ?  
 Pourray-je respirer dans le contentement,  
 Vous trouvant à toute heure attainte de tourment⁎ ?  
@@ -3242,14 +3241,14 @@ Madame pardonnez,
 Alderine se pasme⁎. [310]
 
 
-    LUCIDE
+    LUCIDE.
         Elle a perdu la voix.  
 
-    CLORISÉE
+    CLORISÉE.
 Je crains que mon dessein en face mourir trois.  
 Si faut-il achever nostre juste poursuitte. [311]  
 
-    LUCIDE
+    LUCIDE.
 O miserable⁎ fille, où me voy-je reduite !  
 Madame, mon Soleil, mon ame, mes amours,  
 Où estes-vous Florinde ? accourez au secours,  
@@ -3260,43 +3259,43 @@ Ses beaux yeux ont encor quelques rayons de feu,
 Sa lévre derechef de pourpre se colore,  
 Son extase⁎ fait honte aux vigueurs de l'aurore.  
 
-    FLORINDE
+    FLORINDE.
 Madame, elle souspire, helas ! que faites-vous ?  
 Vos regards amoureux s'aigrissent [313] contre nous.  
 Voyez vostre Lucide à vos pieds abbatuë.  
 
-    ALDERINE
+    ALDERINE.
 Justes Dieux ! que je suis de douleur combatuë.  
 Desloyale⁎ Lucide, ingrate à mon amour.  
 
-    LUCIDE
+    LUCIDE.
 Puis-je ouyr [314] ceste plainte, et regarder le jour.  
 
-    ALDERINE
+    ALDERINE.
 Le sujet de ma plainte est trop en evidence. [315]  
 
-    LUCIDE
+    LUCIDE.
 Que celuy de ma mort a bien plus d'apparence,  
 
-    ALDERINE
+    ALDERINE.
 Il faut bien estre au don que vous avez promis. [316]  
 
-    LUCIDE
+    LUCIDE.
 Madame, si vos yeux ne me sont ennemis,  
 Ils me verront cueillir les fruicts d'une victoire,  
 Qu'un bon-heur éternel prepare à vostre gloire,  
 Dont je vous veux tantost deposer le secret,  
 Pourveu que vous quittiez la crainte et le regret.  
 
-    ALDERINE
+    ALDERINE.
 Pourveu que vous quittiez le dessein de la Reyne,  
 L'esperance et le temps arresteront ma peine⁎.  
 
-    LUCIDE
+    LUCIDE.
 L'effect de son dessein, ainsi que je l'entens,  
 Vous fera triompher de l'espoir et du temps.  
 
-    FLORINDE
+    FLORINDE.
 Le temps mal employé ruyne l'esperance,  
 Quel discours est-ce cy ? bons Dieux, quelle asseurance,  
 Peut-on voir desormais en l'esprit des humains ?  
@@ -3312,28 +3311,28 @@ Et la nature vuide auroit bien peu d'effet. [317]
 Alderine rid.
 
 
-    LUCIDE
+    LUCIDE.
 Ma compagne a tousjours quelque bon mot à dire.  
 
-    FLORINDE
+    FLORINDE.
 En fin je sçavois bien que je vous ferois rire.  
 
-    ALDERINE
+    ALDERINE.
 R'entrons, je n'en puis plus, il me faut reposer.  
 
-    LUCIDE
+    LUCIDE.
 Apres vostre repos, je vous veux deposer  
 Un secret que je tiens aussi cher que ma vie.  
 
-    FLORINDE
+    FLORINDE.
 Vos secrets sont bien froids pour donner de l'envie.  
 
 
-### SCENE TROISIESME 
+### SCENE TROISIESME. 
 CLIDAME, TERSANDRE, CLORISEE
 
 
-    CLIDAME
+    CLIDAME.
 Que ceste passion estourdit les esprits !  
 Qu'elle cause de mal à ceux qu'elle a surpris.  
 Quand ce mauvais desir en nostre ame s'obstine,  
@@ -3343,7 +3342,7 @@ Alors que la raison condamne leur dessein :
 Mais celle qui se forme au soin⁎ de la vengeance,  
 Croit tousjours qu'elle agit avecque negligence.  
 
-    TERSANDRE
+    TERSANDRE.
 Le courroux de la mer n'esmeut⁎ pas plus de flots,  
 Qu'un desir de vangeance a de mauvais complots,  
 Nostre Reine en cela nous est un fort exemple,  
@@ -3355,23 +3354,23 @@ La fureur⁎ la console, et le conseil la fasche,
 Sa mortelle douleur ne se peut amortir,  
 Et rien que [318] le desdain ne la peut divertir⁎.  
 
-    CLIDAME
+    CLIDAME.
 Je crains bien que ma sœur en sente le dommage,  
 La Reyne devroit mieux mesnager son courage,  
 Et se la conserver avecque plus de soin.  
 
-    TERSANDRE
+    TERSANDRE.
 Le sens et la raison luy manquent au besoin⁎,  
 Mais quoy ! nous ne pouvons forcer la destinée.  
 
-    CLIDAME
+    CLIDAME.
 La Reyne à se vanger n'est pas plus obstinée,  
 Que ma sœur l'est à vaincre, et rien que le trépas,  
 Ne peut dans le combat la reculer d'un pas.  
 Et c'est là le sujet qui m'afflige⁎ pour elle,  
 Voyant son malheur peint dedans ceste querelle.  
 
-    TERSANDRE 
+    TERSANDRE. 
 Je croy bien que les Dieux reservent à ses mains  
 La gloire d'achever des genereux⁎ desseins :  
 Mais celuy de dompter un si fort adversaire,  
@@ -3380,7 +3379,7 @@ Et quand Mars voudroit mesme assister sa valeur⁎,
 La mort de ce grand Roy seroit nostre malheur,  
 Ne pouvant arriver sans perdre Clorisée.  
 
-    CLORISÉE [319]
+    CLORISÉE [319].
 Ma fille de sa peur en fin desabusée,  
 Consent au juste soin⁎ que j'ay de me vanger,  
 C'est trop perdre de temps, je le veux abreger,  
@@ -3390,24 +3389,24 @@ Ne peut plus retourner à tant de maux soufferts,
 Lucide qui la doit delivrer de ses fers,  
 Prepare pour demain l'appareil⁎ de sa route.  
 
-    TERSANDRE
+    TERSANDRE.
 Madame, sur ce fait mon esprit est en doute.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Et le mien resolu ne cerche point d'advis,  
 Regardez seulement que les miens soient suivis.  
 
-    TERSANDRE
+    TERSANDRE.
 Le mespris du conseil trouve la repentance.  
 
-    CLORISÉE
+    CLORISÉE.
 Mon vouloir ne veut point icy de resistance.  
 
-    TERSANDRE
+    TERSANDRE.
 Je sçay ce que je dois à vostre Majesté,  
 Le silence nuiroit à ma fidelité.  
 
-    CLORISÉE
+    CLORISÉE.
 Toutesfois en ce poinct mon pouvoir vous l'impose,  
 Et veux qu'à mon vouloir le vostre se dispose,  
 Et que laissant aux Dieux mes justes sentimens,  
@@ -3440,7 +3439,7 @@ Mon genie⁎ flattant mon ame soucieuse⁎, [320]
 M'asseure qu'elle doit retourner glorieuse,  
 Et qu'elle seule doit appaiser mes regrets.  
 
-        CLIDAME
+        CLIDAME.
 Madame le ciel peut profonder⁎ ces secrets.  
 Ma sœur disputera l'honneur de la victoire,  
 Plus pour vostre repos que pour sa propre gloire,  
@@ -3448,17 +3447,17 @@ Je l'accompagneray, fasché de ne pouvoir
 Vous rendre en ce sujet les fruicts de mon devoir,  
 Et ce fascheux soucy⁎ me travaille⁎ et m'offence.  
 
-    CLORISÉE
+    CLORISÉE.
 J'accepte pour l'effet ceste belle apparence,  
 Et conserve en mon cœur vostre fidelité,  
 Dont je tire un rayon de ma felicité.  
 
 
-### SCENE QUATRIESME [321] 
+### SCENE QUATRIESME [321]. 
 ALDERINE, LUCIDE , puis FLORINDE
 
 
-    ALDERINE
+    ALDERINE.
 Que vos sages pensers promettent des miracles,  
 Pourveu qu'un mauvais sort n'y mette point d'obstacles.  
 Non, je croy que le ciel pour finir nos langueurs⁎,  
@@ -3470,7 +3469,7 @@ Vos glorieux projets surmontent⁎ ma raison.
 Mes jours sont affermis dessus vostre prudence,  
 Mais je ne puis penser aux nuicts de nostre absence.  
 
-    LUCIDE 
+    LUCIDE. 
 Madame, ce seul poinct trouble mes sentimens,  
 Car ainsi que les corps sont joincts aux élemens,  
 Mon cœur de vostre esprit se trouve inseparable,  
@@ -3482,38 +3481,38 @@ Mais comme le plaisir succede à la disgrace,
 Le calme à la tempeste, et le jour à la nuict,  
 De mesme apres la peine⁎ on recueille le fruict.  
 
-    ALDERINE
+    ALDERINE.
 Je cultive en mon cœur celuy de ton merite⁎,  
 Et bien que ce depart comme toy me dépite⁎,  
 Mon esprit se console en l'espoir du retour,  
 Bruslons donc nos soucis⁎ au feu⁎ de nostre amour.  
 
-    LUCIDE
+    LUCIDE.
 Que ces cheres faveurs me donnent d'esperance ! [322]   
 
-    ALDERINE
+    ALDERINE.
 Je veux que ce baiser te donne l'asseurance  
 De ne douter jamais de mes affections,  
 Dont la grandeur s'égalle à tes perfections.  
 
-    LUCIDE
+    LUCIDE.
 Madame, reservez de si rares delices⁎,  
 Pour payer quelque jour mes fideles services :  
 L'inestimable prix de vos commandemens,  
 Ne sont que trop d'apasts⁎ à mes contentemens.  
 Que ce divin baiser rend mon ame superbe⁎. [323]  
 
-    ALDERINE
+    ALDERINE.
 Reçoy encor ces deux, asseons [324] nous sur l'herbe,  
 Et m'ouvre franchement le secret de ton cœur.  
 
-    LUCIDE
+    LUCIDE.
 Elle dit ces vers bas.
 
 Que j'aprehende icy les traicts⁎ de sa rigueur,  
 Et que pour trop parler j'attire mes desastres.  
 
-    ALDERINE
+    ALDERINE.
 Que dites vous folastre [325], avez vous peur des astres ?  
 Craignez vous maintenant de faire trop de bruit ?  
 Lucide est quelque temps sans parler.
@@ -3523,23 +3522,23 @@ Vous m'avez fait venir, parlez en asseurance,
 Vous demeurez muette, ha ! c'est trop de silence,  
 Sans doute un repentir me soustraict vostre voix.  
 
-    LUCIDE
+    LUCIDE.
 Ma voix, ny mon esprit n'agissent qu'en vos loix.  
 Je ne sçay quel Demon⁎ me ravit⁎ la parole,  
 En la voulant former ma memoire s'envole.  
 Madame, pardonnez au travail⁎ de mes sens,  
 Et croyez qu'ils sont moins coulpables qu'innocens.  
 
-    ALDERINE
+    ALDERINE.
 Quoy ! me voulez-vous donc cacher vostre pensée ?  
 
-    LUCIDE
+    LUCIDE.
 Je crains en la disant de paroistre insensée⁎.  
 
-    ALDERINE
+    ALDERINE.
 Comment, vous croyez donc me pouvoir offencer.  
 
-    LUCIDE
+    LUCIDE.
 Que plustost mille traicts⁎ me viennent traverser,  
 Que le foudre plustost me reduise en poussiere,  
 Que mes yeux pour jamais soient privez de lumiere,  
@@ -3549,27 +3548,27 @@ Ha ! que je suis confuse, et que je sens de peine⁎,
 Dures necessitez où mon destin me traine,  
 Que ne puis-je exaler mon tourment⁎ par les yeux.  
 
-    ALDERINE
+    ALDERINE.
 Je ne sçay d'où vous vient ce travail⁎ soucieux⁎,  
 Ne [326] ce qui peut vers moy vous rendre si confuse,  
 Ma foy⁎ vous doit servir de franchise et d'excuse,  
 Si vostre cœur ne veut autrement s'exprimer,  
 Vous seduisez le mien en feignant de m'aymer.  
 
-    LUCIDE
+    LUCIDE.
 Pourray-je encor souffrir⁎ ceste mortelle atteinte ?  
 
-    ALDERINE
+    ALDERINE.
 Ha ! c'est trop craindre en vain,  
 
-    LUCIDE
+    LUCIDE.
         Je veux affranchir⁎ ma crainte, [327]  
 Madame, vous voyez un Prince devant vous.  
 
-    ALDERINE 
+    ALDERINE. 
 Que dites-vous ? un Prince.  
 
-    LUCIDE
+    LUCIDE.
         Implorer à genoux  
 Un pardon que l'Amour cerche en vostre clemence,  
 Un feu⁎ qu'un Dieu ne peut sentir sans vehemence,  
@@ -3604,7 +3603,7 @@ De voir souz cet habit leur objet precieux.
 Pardonnez à l'Amour dont l'excez me devore,  
 S'il vous ravit⁎ Lucide, il vous donne Armidore.  
 
-    ALDERINE
+    ALDERINE.
 Trompeur, tu ne peux plus abuser⁎ mon esprit,  
 Mon Amour se dissipe, ainsi comme il s'esprit,  
 Et le feu⁎ que Lucide alluma dans mon ame,  
@@ -3618,7 +3617,7 @@ Va t'en loin de mes yeux n'approche plus de moy. [334]
 Alderine s'en va.
 
 
-    *Stances récitées par* LUCIDE [335]
+    *Stances récitées par* LUCIDE [335].
 Quelle furieuse⁎ tempeste  
 S'esmeut⁎ au calme de ces eaux ?  
 D'où viennent ces spectres nouveaux,  
@@ -3724,132 +3723,132 @@ Il se veut tuer.
 Florinde arrive.
 
 
-    FLORINDE [343]
+    FLORINDE [343].
 Je m'oppose à vos cruautez,  
 Quel Demon⁎ vous rend furieuse⁎ ?  
 
-    LUCIDE
+    LUCIDE.
 Qui me veut maintenant empescher de mourir ?  
 Est-ce un esprit de la nuict sombre ?  
 
-    FLORINDE
+    FLORINDE.
 Folle, je suis un corps, et ne suis pas un ombre,  
 Florinde vous veut secourir.  
 
-    LUCIDE
+    LUCIDE.
 Vous ignorez quelle adventure  
 Me donne une si douce mort.  
 
-    FLORINDE 
+    FLORINDE. 
 Je sçay bien que tout cet effort⁎,  
 N'agist qu'en dépit de nature.  
 
-    LUCIDE
+    LUCIDE.
 Que dites-vous Florinde ? au lieu de m'alleger,  
 Vous venez redoubler ma peine⁎.  
 
-    FLORINDE
+    FLORINDE.
 Si je puis destourner vostre rage inhumaine⁎,  
 Je croiray vous bien obliger⁎.  
 
-    LUCIDE
+    LUCIDE.
 J'excuse vostre amitié saincte.  
 
-    FLORINDE
+    FLORINDE.
 J'accuse vostre peu de cœur.  
 
-    LUCIDE
+    LUCIDE.
 Tout se dispose en mon malheur.  
 
-    FLORINDE
+    FLORINDE.
 Tout vostre mal n'est qu'une feinte.  
 
-    LUCIDE
+    LUCIDE.
 Astres qui le voyez, faites luy voir aussi.  
 
-    FLORINDE
+    FLORINDE.
 Je voy bien le mal qui vous touche.  
 C'est le decret fatal d'une beauté farouche.  
 
-    LUCIDE
+    LUCIDE.
 Plustost un injuste soucy⁎.  
 
-    FLORINDE
+    FLORINDE.
 Ceste fureur⁎ qui vous possede,  
 N'est qu'un prodigieux poison,  
 Dont la nature et la raison  
 Vous offrent tousjours le remede.  
 
-    LUCIDE
+    LUCIDE.
 Que je suis malheureuse en ma necessité.  
 Je n'ose exhaler mon martyre.  
 Croyez-moy, chere sœur, pour l'avoir voulu dire,  
 Je souffre⁎ ceste cruauté.  
 
-    FLORINDE
+    FLORINDE.
 Quittez ceste folle habitude,  
 R'appelez voz bellez vertus.  
 
-    LUCIDE
+    LUCIDE.
 Tous mes honneurs sont abbatus,  
 Que je meure en ma solitude.  
 
-    FLORINDE
+    FLORINDE.
 Voyez comme la honte estourdit le devoir.  
 
-    LUCIDE 
+    LUCIDE. 
 Dieux que vous m'estes importune.  
 
-    FLORINDE
+    FLORINDE.
 Quand on veut relever vostre bonne fortune  
 Vous en mesprisez le pouvoir.  
 
-    LUCIDE
+    LUCIDE.
 Je n'ay plus ny sens ny memoire,  
 Toutes mes forces sont à bas.  
 
-    FLORINDE
+    FLORINDE.
 Mais que deviendront vos combats,  
 Dont la Reyne attend la victoire ?  
 
-    LUCIDE
+    LUCIDE.
 Ha ! mon Ange, ils est vray, je dois partir demain,  
 Mais, las ! je suis mal preparée.  
 
-    FLORINDE
+    FLORINDE.
 Rendez le sentiment à vostre ame esgarée.  
 Vos forces reviendront soudain.  
 
-    LUCIDE
+    LUCIDE.
 En fin il me faudra contraindre.  
 
-    FLORINDE
+    FLORINDE.
 A quitter ces vaines amours.  
 
-    LUCIDE 
+    LUCIDE. 
 Vous prenez mon mal à rebours.  
 
-    FLORINDE
+    FLORINDE.
 Mais c'est vous qui le voulez feindre.  
 
-    LUCIDE
+    LUCIDE.
 Vous changerez d'humeurs [344] apprenant mes secrets,  
 Mais j'apperçoy desja l'aurore.  
 
-    FLORINDE
+    FLORINDE.
 Allons nous reposer le sommeil me devore,  
 Allons estouffer nos regrets.  
 Fin du quatrième Acte. 
 
 
-## ACTE CINQUIESME [345]
+## ACTE CINQUIESME [345].
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 BRUSERBE, FILAMON
 
 
-    BRUSERBE
+    BRUSERBE.
 Comme les passions surmontent toute chose [346],  
 Ceste Reyne confuse en ce qu'elle propose,  
 N'oit [347], ne gouste, ne sent, ne touche ny ne voit,  
@@ -3859,7 +3858,7 @@ La frayeur s'est glissée au sein de ses gens-d'armes [348],
 La campagne est à nous, et tenons tous ses forts,  
 Il ne nous reste plus que les derniers efforts.  
 
-    FILAMON
+    FILAMON.
 Je suis d'avis avant que forcer [349] ses murailles,  
 Pour éviter l'horreur de tant de funerailles,  
 Que nous taschions d'avoir par un plus doux succez,  
@@ -3870,13 +3869,13 @@ Nous irons par la force en vainqueurs absolus.
 Nos progrez jusqu'icy nous ont trop resolus,  
 Nous n'avons à dompter maintenant que des larmes.  
 
-    BRUSERBE
+    BRUSERBE.
 La victoire souvent se cache souz ces charmes⁎ :  
 Mais ne relaschans rien de la severité,  
 Tout se rendra facile à nostre authorité,  
 Gardons nous seulement d'une trompeuse amorce⁎.  
 
-    FILAMON
+    FILAMON.
 Souvent les fruicts d'Amour se cueillent par la force.  
 Il faut lors que l'orgueil surmonte⁎ le pouvoir,  
 Contre ce sexe ingrat mettre tout en devoir.  
@@ -3885,18 +3884,18 @@ Les Princes tels que nous sont nez pour les Princessess.
 Le reffus maintenant nous seroit odieux,  
 Clorisée et sa fille ont dessein sur les Dieux.  
 
-    BRUSERBE
+    BRUSERBE.
 Nous leur ferons quitter ceste vaine arrogance,  
 Le temps forme l'Amour, l'Amour la jouyssance,  
 Mon frere allons pourvoir à nos Ambassadeurs,  
 Et mettons soubs le pied la crainte et les froideurs.  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 CLORISEE en Amazone, TERSANDRE , puis L'AMBASSADEUR
 
 
-    CLORISÉE
+    CLORISÉE.
 Ces traistres croyent donc que je sois [351] abbatuë.  
 C'est dedans le peril où [352] mon cœur s'esvertuë⁎.  
 Vit-on jamais des loups, des lyons, des sangliers [353],  
@@ -3910,7 +3909,7 @@ Voicy dequoy punir vostre orgueil homicide,
 Et si la force manque à ma severité,  
 La mort ne peut manquer à ma necessité.  
 
-    TERSANDRE
+    TERSANDRE.
 Madame, nous devons mesnager nos courages,  
 Les conseils [354] plus soudains [355] ne sont pas les plus sages,  
 Consultons nos esprits, ce que peuvent nos mains,  
@@ -3924,15 +3923,15 @@ Pour tenir quelque temps contre la tyrannie,
 Redoutons l'ennemy : mais ne l'espargnons pas,  
 Et sur tout que nos pas soient autant de trépas.  
 
-    CLORISÉE
+    CLORISÉE.
 Que veut cet estourdy qui sans respect avance,  
 Si c'est pour me parler, il a trop d'arrogance.  
 
-    TERSANDRE
+    TERSANDRE.
 Madame, retenez un peu vostre grandeur,  
 Le plus barbare est libre estant Ambassadeur.  
 
-    AMBASSADEUR [356]
+    AMBASSADEUR [356].
 Reyne, à qui je souhaite une gloire infinie,  
 Le Monarque d'Epire, et celuy d'Hyrcanie,  
 Campez victorieux devant ceste cité,  
@@ -3952,7 +3951,7 @@ Icy nostre refus [358] de mespris apparent,
 Va former les horreurs d'une guerre éternelle,  
 Dont la severité vous rendroit criminelle.  
 
-    CLORISÉE
+    CLORISÉE.
 Infame, oses-tu bien me porter un propos,  
 Dont la voix seulement offence mon repos ?  
 Tes souhaits peuvent-ils aller jusqu'à ma gloire ?  
@@ -3998,30 +3997,30 @@ Ma bouche en dit bien moins que mon cœur n'a compris.
 Va, retourne à tes Roys, et croy que ma prudence,  
 Pour un certain respect souffre⁎ ton impudence.  
 
-    AMBASSADEUR
+    AMBASSADEUR.
 Ces injures ne font qu'accroistre vostre tort.  
 
-    CLORISÉE
+    CLORISÉE.
 Fuy de devant mes yeux sur peine de la mort [364].  
 Mes amis, vous voyez où l'ouvrage s'avance,  
 Mais nous esloignerons l'effect⁎ de l'apparence.  
 Allons pour recevoir ce gendre et cet espoux,  
 Qui nous veulent doter d'injures et de coups.  
 
-    TERSANDRE
+    TERSANDRE.
 La muraille partout est de soldats pourveuë,  
 Il ne nous reste plus qu'à faire une reveuë,  
 Nos squadrons [365] sont par tout en bon ordre posez.  
 Les cœurs de vos sujets sont si bien disposez,  
 Que pour bien soustenir chacun vaut un Alcide.  
 
-    CLORISÉE
+    CLORISÉE.
 Ha ! que je te regrette invincible Lucide.  
 
 
-### SCENE TROISIESME [366] 
+### SCENE TROISIESME [366]. 
 
-    ALDERINE [367], *seule recite ces Stances.* [368]
+    ALDERINE [367], *seule recite ces Stances.* [368].
 Que les secrettes destinées,  
 Nous font voir d'estranges destours,  
 Et que les suittes des années  
@@ -4195,7 +4194,7 @@ Dont l'orgueil des tyrans te venoit molester⁎.
 Retourne en ton repos, et croy en mes oracles  
 Sans plus rien contester.  
 
-    ALDERINE
+    ALDERINE.
 Quelle voix favorable a charmé⁎ mon oreille ?  
 D'où me vient maintenant ceste douce merveille ?  
 J'ay veu plusieurs Soleils dans ceste obscurité,  
@@ -4212,22 +4211,22 @@ Du combat de mon pere, et je crains que le sort,
 *Borne⁎ ma passion au but de vostre crainte* [386].  
 
 
-### SCENE QUATRIESME 
+### SCENE QUATRIESME. 
 BRUSERBE, FILAMON, et leur TROUPPE , puis TERSANDRE, LUCIDE, FILAMIRE, SENTINELLE
 
 
-    BRUSERBE
+    BRUSERBE.
 Portons nostre vengeance à toute extremité,  
 Qu'on ne pardonne point à l'imbecilité [387],  
 Soit du sexe, ou de l'aage, et sur tout que les larmes  
 Ne vous seduisent point.  
 
-    FILAMON
+    FILAMON.
         A moy braves gens d'armes,  
 Le combat se fait à la discretion [388] des Acteurs.  
 Assaillons ceste tour, la victoire est à nous.  
 
-     TERSANDRE, *de dessus la muraille*
+    TERSANDRE, *de dessus la muraille*.
 Vous hurlerez en vain de mesme que les loups.  
 Courage Citoyens, le Barbare recule,  
 Ce Busire insolent a trouvé son Hercule [389].  
@@ -4238,113 +4237,113 @@ Me fait penser douteux⁎.
 Lucide, Filamire arivez, surprennent les ennemis de la Reyne.
 
 
-    LUCIDE
+    LUCIDE.
         Infidele Bruserbe,  
 Voicy de tes malheurs le dernier appareil⁎ [390],  
 Poltron, ta lascheté craint encor le Soleil.  
 
-    FILAMIRE
+    FILAMIRE.
 Mais la nuict ne sçauroit receler⁎ ton audace,  
 Deffends toy si tu peux, et n'attends plus de grace.  
 
-    BRUSERBE
+    BRUSERBE.
 Icy mes compagnons.  
 
-    FILAMON
+    FILAMON.
         La grace que je veux,  
 C'est de voir en ton sang recompenser mes vœux.  
 
-    LUCIDE 
+    LUCIDE. 
 Reçoy ce que merite une mauvaise envie.  
 
-    BRUSERBE
+    BRUSERBE.
 Ha ! guerriere invincible, encor un coup la vie [391].  
 
-    LUCIDE
+    LUCIDE.
 Pourrois-tu sans rougir revoir encor le jour ?  
 
-    BRUSERBE
+    BRUSERBE.
 On pardonne aisement aux erreurs de l'amour.  
 
-    LUCIDE
+    LUCIDE.
 Levez-vous.  
 
-    FILAMIRE
+    FILAMIRE.
         Ton orgueil veut que je te punisse,  
 Mais il faut que la Reine ordonne ton supplice.  
 
-    LUCIDE
+    LUCIDE.
 Compagnons.  
 
-    SENTINELLE
+    SENTINELLE.
     Qui va là ?  
 
-    LUCIDE
+    LUCIDE.
         Ce sont des prisonniers  
 Qu'on ameine à la Reyne.  
 
-    SENTINELLE
+    SENTINELLE.
         Attendez Chevalliers,  
 Nous allons advertir le genereux⁎ Tersandre.  
 
-    LUCIDE
+    LUCIDE.
 Qu'il vienne promptement, on luy veut faire entendre  
 Un faict de consequence.  
 
-    SENTINELLE
+    SENTINELLE.
         Il sera fait ainsi.  
 
-    BRUSERBE
+    BRUSERBE.
 Ha ! que ceste prison [392] m'accable de soucy⁎.  
 
-    LUCIDE
+    LUCIDE.
 Le soucy⁎ vit tousjours dedans un cœur perfide⁎.  
 
-    TERSANDRE
+    TERSANDRE.
 Qui veut parler à moy ?  
 
-    LUCIDE
+    LUCIDE.
         Monsieur, vostre Lucide  
 Vient contre son devoir troubler vostre repos.  
 
-    TERSANDRE
+    TERSANDRE.
 C'est vous, belle guerriere, agreable propos.  
 Je descens ma compagne.  
 
-    FILAMON
+    FILAMON.
         O desdaigneuse parque,  
 
-    FILAMIRE 
+    FILAMIRE. 
 Voyla du desespoir une evidente marque.  
 
-    TERSANDRE
+    TERSANDRE.
 Où estes-vous, Madame ? ô glorieuse nuict !  
 Mais plustost jour heureux où ce Soleil reluit.  
 
-    LUCIDE
+    LUCIDE.
 Ce guerrier, non pas moy, merite vos loüanges.  
 Sa valeur⁎ recogneuë aux climats plus estranges⁎ [393],  
 A reduit ces tyrans à la captivité,  
 Et remis aujourd'huy la Cypre en liberté.  
 Monsieur, asseurez vous de ces Roys infideles.  
 
-    TERSANDRE
+    TERSANDRE.
 Il faut bien que la Reyne apprene ces nouvelles.  
 
-    LUCIDE
+    LUCIDE.
 Mais doit-on maintenant son repos divertir⁎ ?  
 
-    TERSANDRE
+    TERSANDRE.
 Son repos asseuré, c'est de l'en advertir,  
 J'estime que le vostre est le plus necessaire.  
 
-    LUCIDE
+    LUCIDE.
 Si nous faut-il encor consulter un affaire [394],  
 Et monstrer les effets du voyage entrepris,  
 Où sa Majesté doit resoudre ses esprits,*                    *  
 Entrons dedans la ville.  
 
-    SOLDATS DES ASSIEGEANS
+    SOLDATS DES ASSIEGEANS.
         Ah ! cruelle adventure :  
 Ces grands Roys trouvent donc icy leur sepulture.  
 Prodiges de l'abus⁎, songes fallacieux,  
@@ -4352,25 +4351,25 @@ Sur le poinct de cueillir des fruicts delicieux,
 Un moment malheureux produit de l'amertume,  
 Quand la fortune rid ce n'est que par coustume.  
 
-    SENTINELLE
+    SENTINELLE.
 Qui va là ?  
 
-    SOLDATS
+    SOLDATS.
         C'est alors qu'on la doit redouter.  
 Lucide et Filamire, à la porte d'une chambre, parée et préparée pour y faire coucher et endormir Filamire.
 
 
-    LUCIDE
+    LUCIDE.
 Sire, je ne croy pas que vous puissiez douter,  
 Que Lucide pour vous n'ait une ame fidele.  
 
-    FILAMIRE 
+    FILAMIRE. 
 Vous cognoissant autant vertueuse que belle,  
 Je formerois à tort cet injuste debat,  
 Si j'ay quelque soucy⁎, c'est pour nostre combat,  
 Sçachant en quel degré je tiens vostre courage.  
 
-    LUCIDE
+    LUCIDE.
 Le vostre sur le mien a le mesme advantage  
 Que le flambeau du jour a sur ceux de la nuict,  
 Je sçay bien que par tout la victoire vous suit.  
@@ -4378,7 +4377,7 @@ Et que si quelque Dieu ne m'aide favorable,
 Ma perte en ce combat doit estre inévitable,  
 Mais quoy qu'il m'en arrive, il me sera bien cher [395].  
 
-    FILAMIRE
+    FILAMIRE.
 Mais plustost si le Ciel le vouloit empescher,  
 Je penserois avoir vaincu les destinées,  
 En pouvant retrancher ce jour de mes années.  
@@ -4386,80 +4385,79 @@ Certes, la Reyne a tort de me tant affliger⁎.
 Or puis que par vos mains elle se veut vanger,  
 Contentons sa rigueur aux despens de nos vies.  
 
-    LUCIDE 
+    LUCIDE. 
 Nous bornerons⁎ demain ses mortelles envies :  
 Mais, Sire, cependant [396] allons nous reposer.  
 
-    FILAMIRE
+    FILAMIRE.
 Encores si mon sang la pouvoit appaiser,  
 Moy mesme soucieux⁎, plus qu'elle de ses peines⁎,  
 Pour son soulagement je percerois mes veines,  
 Plustost que d'entreprendre un combat où mon cœur  
 Ne pourra se resoudre au tiltre de vainqueur.  
 
-    LUCIDE
+    LUCIDE.
 Mon ame n'est pas moins de crainte combatuë :  
 Mais un secret espoir fait que je m'esvertuë⁎,  
 Allons dans le sommeil noyer nostre soucy⁎,  
 Peut estre que les Dieux changeront tout cecy [397].  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 CLORISEE, TERSANDRE , puis LUCIDE, GOUVERNANTE, FILAMIRE, FLORINDE
 
 On porte un flambeau devant la Reyne.
 
 
-    CLORISÉE
+    CLORISÉE.
 Nos tyrans sont donc pris, bon Dieu je te rends grace [398].  
 
-    TERSANDRE 
+    TERSANDRE. 
 Ils sont aussi confus qu'ils estoient plein d'audace.  
 
-    CLORISÉE
+    CLORISÉE.
 J'estois dans le Chasteau remise en seureté,  
 Pour destourner mes yeux du sac de ma Cité,  
 Mais je veux maintenant courageuse m'instruire [399],  
 A punir les meschans qui la vouloient destruire.  
 A propos, mon cousin⁎, Lucide est de retour.  
 
-    TERSANDRE
+    TERSANDRE.
 Je l'ay tantost laissée aupres de ceste tour,  
 Fort lasse du combat, et croy qu'elle repose.  
 
-    CLORISÉE
+    CLORISÉE.
 Mais que dit-elle encor ?  
 
-    TERSANDRE
+    TERSANDRE.
         Je ne sçay autre chose,  
 Sinon qu'elle tesmoigne un glorieux succez  
 Du voyage de Mede.  
 
-    CLORISÉE
+    CLORISÉE.
         Hé ! j'en sens des excez,  
 Où mon ame se void derechef engagée,  
 Mais son voyage est vain, si je ne suis vangée.  
 Avez-vous rien appris de plus particulier ?  
 Dites moy clairement.  
 
-    TERSANDRE
+    TERSANDRE.
         Ce brave Chevallier  
 Dont je vous ay parlé [400] l'a tousjours destournée  
 De m'entretenir seul.  
 
-    CLORISÉE
+    CLORISÉE.
         Que je suis estonnée⁎.  
 J'ay bien quelque plaisir aux souspirs que j'espans ;  
 Mais je crains que ces fleurs recelent⁎ des serpens.  
 
-    TERSANDRE
+    TERSANDRE.
 Le jour dissipera ceste fascheuse nuë.  
 
-    CLORISÉE
+    CLORISÉE.
 Je m'en vay reposer attendant sa venuë.  
 
-    LUCIDE,*sort doucement de la chambre de Filamire*, [401]
-             *avec une lanterne sourde* [402], *et parle assez bas.*
+    LUCIDE,*sort doucement de la chambre de Filamire*, [401] *avec une lanterne sourde* [402], *et parle assez bas.*.
 Ce Prince maintenant d'un fort sommeil surpris,  
 Il me faut achever mon dessein entrepris,  
 Le silence à mes vœux se montre favorable.  
@@ -4470,24 +4468,24 @@ Le but où [404] je pretends ne veut point de remise.
 Elle frappe à la porte de la chambre de la Reyne.
 
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Qui frappe ?  
 
-    LUCIDE
+    LUCIDE.
         C'est Lucide, ah ! douteuse entreprise [405].  
 
-    GOUVERNANTE
+    GOUVERNANTE.
 Est-ce vous, mon soucy, que je baise vos yeux,  
 O que vostre retour nous sera precieux.  
 
-    CLORISÉE, *tire à part Lucide*
+    CLORISÉE, *tire à part Lucide*.
 Vous voicy donc Lucide, et bien suis-je vangée ?  
 
-    LUCIDE
+    LUCIDE.
 Madame, je me suis de ma foy⁎ desgagée,  
 Le chef⁎ de Filamire est en vostre pouvoir.  
 
-    CLORISÉE
+    CLORISÉE.
 Comment ! c'en est donc fait, allons le recevoir ;  
 Dorine, laissez-nous, un secret nous convie.  
 
@@ -4496,39 +4494,39 @@ Elle parle à Lucide.
 
 Il ne reste donc plus qu'à me ravir⁎ la vie.*            *  
 
-    LUCIDE
+    LUCIDE.
 Madame, je sçay bien où mon cœur s'est soubmis,  
 Ayant reçeu le don que vous m'avez promis.  
 
-    CLORISÉE
+    CLORISÉE.
 Je n'en retranche rien, me voicy toure preste,  
 Vostre fidelité souscrit vostre requeste.  
 Allons donc voir ce chef⁎, l'objet de mon soucy⁎.  
 Mes yeux asseurez-vous.  
 
-    LUCIDE
+    LUCIDE.
         Madame, le voicy.  
 Lucide tire les rideaux du lict où Filamire dort.
 
 
-    CLORISÉE
+    CLORISÉE.
 Dieux ! qu'est-ce que je voy, ah, Lucide.  
 
-    LUCIDE
+    LUCIDE.
         Madame,  
 Vous voyez ce beau corps qu'on peut dire sans ame,  
 Si captif du sommeil qu'avecque peu d'effort,  
 La plus debile [407] main luy peut donner la mort.  
 
-    CLORISÉE
+    CLORISÉE.
 C'est donc en ceste sorte, et bien je suis trompée.  
 
-    LUCIDE 
+    LUCIDE. 
 Madame, recevez (s'il vous plaist) mon espée.  
 Abbatez-en ce chef⁎ de vostre belle main [408],  
 Et lors j'accompliray vostre dernier dessein.  
 
-    CLORISÉE, *toute esmeuë de courroux.*
+    CLORISÉE, *toute esmeuë de courroux.*.
 A la fin me voicy laschement abusée⁎,  
 Tout se trouve fatal au mal de Clorisée,  
 Les Dieux sont devenus mes cruels ennemis,  
@@ -4550,7 +4548,7 @@ Je veux à son deffaut.
 La Reyne se veut tuer.
 
 
-    LUCIDE
+    LUCIDE.
 Lucide l'empesche.
 
         Injuste violence !  
@@ -4559,18 +4557,18 @@ R'appelez vos esprits, vous verrez vostre erreur,
 Redonnez à vos sens leurs forces esgarées,  
 Vous sentirez bien tost vos peines⁎ separées.  
 
-    CLORISÉE
+    CLORISÉE.
 Retire-toy, parjure.  
 
-    LUCIDE
+    LUCIDE.
         Ah ! Madame, escoutez.  
 
-    CLORISÉE
+    CLORISÉE.
 Je ne veux plus ouyr tes infidelitez,  
 Laisse moy recueillir les fruicts de ma fortune ;  
 Pourquoy m'empesches-tu ?  
 
-    FILAMIRE, *s'esveille en sursaut, et se jette à* *bas du lict en chemise et prend son espée.*
+    FILAMIRE, *s'esveille en sursaut, et se jette à* *bas du lict en chemise et prend son espée.*.
         Quelle voix importune  
 Vient rompre mon repos, et troubler ma raison ?  
 Lucide voudroit elle user de trahison ?  
@@ -4589,7 +4587,7 @@ Pourveu qu'en mon trépas vous soyez satisfaite,
 Je laisse franchement ma vie à l'abandon,  
 Si vostre douce voix ne prononce un pardon.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Ah ! charmes⁎ renaissans de ma premiere gloire,  
 Venez-vous derechef affliger⁎ ma memoire ?  
 Levez-vous Filamire, un Prince tel que vous  
@@ -4608,57 +4606,57 @@ Lucide, vostre ruse a produit tout cecy.
 Son heureux succez veut qu'on vous pardonne aussi.  
 Mais vous ne parlez point de voir vostre Maistresse.  
 
-    LUCIDE
+    LUCIDE.
 Madame, mon depart l'esmeut⁎ tant de tristesse,  
 A cause du combat que j'avois entrepris  
 Que j'ay peur que ma veuë allume son mépris.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Elle avoit bien raison de craindre pour son pere.  
 
-    LUCIDE
+    LUCIDE.
 Je n'en ay gueres moins d'éviter sa colere.  
 
-    CLORISÉE
+    CLORISÉE.
 Mais j'apperçois Florinde, elle vous vient querir,  
 Quelle apprehension vous fait ainsi courir ?  
 
-    LUCIDE
+    LUCIDE.
 Ah ! ma bonne compagne.  
 Elles s'embrassent.
 
 
-    FLORINDE
+    FLORINDE.
         Ostez ce nom de bonne.  
 
-    LUCIDE
+    LUCIDE.
 Ah ! que mon cœur s'estonne⁎ [411],  
 Et bien que fait Madame ?  
 
-    FLORINDE
+    FLORINDE.
         Elle pense comment  
 Elle doit chastier vostre retardement.  
 
-    LUCIDE
+    LUCIDE.
 Mais dites moy mon cœur, vous serez mon refuge.  
 
-    FLORINDE 
+    FLORINDE. 
 Non, ne le croyez pas, je seray vostre juge,  
 Quittons la raillerie, et parlons de bon sens,  
 Madame vous veut voir toutes choses cessans.  
 
-    LUCIDE
+    LUCIDE.
 Elle dit ces deux vers bas.
 
 Ouy bien, comme Lucide, et non comme Armidore.  
 
-    FLORINDE
+    FLORINDE.
 Vous avez trop de soin⁎.  
 
-    LUCIDE
+    LUCIDE.
         Que ce soin⁎ me devore.  
 
-    CLORISÉE
+    CLORISÉE.
 Ma fille impatiente a desir de vous voir,  
 Florinde retournez, et luy faites sçavoir,  
 Qu'avant que le Soleil soit dessus l'Emisphere [412],  
@@ -4666,43 +4664,43 @@ S'il n'arrive autre chose, elle verra son pere.
 Donnez bon ordre à tout, et faites que le Roy  
 Cognoisse le tresor que luy garde ma foy⁎.  
 
-    FLORINDE
+    FLORINDE.
 Dieux ! qu'est-ce que j'entens, ô nouvelle adorée,  
 Je vay gaigner des gans d'éternelle durée [413].  
 Elle s'enfuit parée [414].
 
 
-    FILAMIRE 
+    FILAMIRE. 
 Madame pardonnez à la necessité,  
 Je suis tousjours fascheux à vostre Majesté.  
 
-    CLORISÉE
+    CLORISÉE.
 Monsieur, que nostre aigreur ne soit plus retracée,  
 J'ay retranché l'ennuy⁎ qui troubloit ma pensée.  
 Que vostre Majesté perde le souvenir  
 Des malheurs dont le ciel nous a voulu punir.  
 Mais vous ne parlez point d'aller voir la Princesse.  
 
-    FILAMIRE
+    FILAMIRE.
 Madame, ce desir sur tout autre me presse,  
 Allons y de ce pas, et ne retardons plus.  
 
-    CLORISÉE
+    CLORISÉE.
 Les Dieux en sa faveur conduiront le surplus,  
 La vertu vous oblige aux soins de ma famille,  
 Mais sur tout à celuy de pourvoir [415] vostre fille.  
 
-    FILAMIRE
+    FILAMIRE.
 C'est ce que je souhaitte avecque plus d'ardeur⁎. [416]  
 Ils vont trouver Alderine.
 
 
 
-### SCENE SIXIESME 
+### SCENE SIXIESME. 
 TERSANDRE, CLIDAME, Soldats de Cypre [417]
 
 
-    TERSANDRE
+    TERSANDRE.
 Noz mutins maintenant abbatus de froideur [418],  
 Pour éviter la mort ont regaigné leurs flottes,  
 La frayeur a si bien surpris les Epirotes [419],  
@@ -4710,64 +4708,64 @@ Que ceux qui par la fuitte ont évité le fer,
 N'ont peu se garentir des fureurs⁎ de la mer,  
 Mais sans vostre valeur⁎ nous eussions eu du pire.  
 
-    CLIDAME
+    CLIDAME.
 Je croy que sans la vostre on m'eust fait voir l'Epire,  
 Laissons les complimens, sçachons que fait [420] ma sœur.  
 Comment l'a-t'on reçeuë ?  
 
-    TERSANDRE 
+    TERSANDRE. 
         Avec plus de douceur  
 Que l'excez de ma voix ne vous le sçauroit dire.  
 
-    CLIDAME
+    CLIDAME.
 Avez vous rien appris du Prince Filamire ?  
 
-    TERSANDRE
+    TERSANDRE.
 Non, pourquoy, dites moy, qu'en avez vous appris ?  
 
-    CLIDAME
+    CLIDAME.
 Une secrette peur me broüille les esprits.  
 
-    TERSANDRE
+    TERSANDRE.
 Je sçay bien que Lucide alla pour le combattre.  
 
-    CLIDAME
+    CLIDAME.
 Il est vray, mais depuis son cœur opiniastre,  
 Resolut un moyen où je voy peu de jour.  
 J'ay sçeu que Filamire estoit en ceste Cour,  
 Entreprise qui fut legerement conçeuë,  
 Et dont ma raison craint une mauvaise yssuë.  
 
-    TERSANDRE
+    TERSANDRE.
 Je vis bien avec elle un genereux⁎ guerrier  
 Aussi grave d'aspect que couvert de laurier,  
 Qui vainquit devant moy le Prince d'Hyrcanie.  
 
-    CLIDAME
+    CLIDAME.
 Ha, sans doute c'est luy.  
 
-    TERSANDRE
+    TERSANDRE.
         La bataille finie,  
 Et les Roys prisonniers remis en seureté,  
 Voyant que ce guerrier cerchoit la liberté  
 Et croyant le repos leur estre necessaire,  
 J'allay d'autre costé pour ne les pas distraire.  
 
-    CLIDAME
+    CLIDAME.
 Je ne sçay quel effect produira tout cecy.  
 
-    TERSANDRE
+    TERSANDRE.
 Allons à la rencontre.  
 
-    CLIDAME
+    CLIDAME.
         Ah ! monsieur, le voicy.  
 
 
-### SCENE SEPTIESME
+### SCENE SEPTIESME.
 TERSANDRE, CLIDAME, FILAMIRE, CLORISEE, ALDERINE, ARMIDORE, GOUVERNANTE ET FLORINDE, sortent tous du chasteau d'Alderine par ordre. puis BRUSERBE, FILAMON et LE COURRIER
 
 
-    CLIDAME
+    CLIDAME.
 Dieux ! qu'est-ce que je voy, tout a changé de face,  
 Ceste Cour a repris le lustre [421] de sa grace.  
 Le Monarque de Mede est maintenant si doux,  
@@ -4777,18 +4775,18 @@ Et Lucide a repris sa forme naturelle [423],
 Je doute si je songe, ou si c'est verité,  
 Monsieur, que dites vous de ceste nouveauté ?  
 
-    TERSANDRE
+    TERSANDRE.
 Mon esprit estonné⁎ croit de voir des chimeres.  
 
-    CLORISÉE 
+    CLORISÉE. 
 Je laisse desormais le soing⁎ de mes miseres,  
 Et pourray maintenant à tout mal resister.  
 
-    FILAMIRE
+    FILAMIRE.
 Ne parlons plus de rien qui nous puisse attrister,  
 Mais voicy mon Nepveu [424].  
 
-    CLIDAME
+    CLIDAME.
 Clidame saluë Filamire.
 
         Sire, jamais mon ame,  
@@ -4796,14 +4794,14 @@ Ne se vit si confuse, ô glorieuse flame,
 Dont Armidore sent l'agreable tourment⁎,  
 Qu'il fut judicieux en son desguisment.  
 
-    ARMIDORE
+    ARMIDORE.
 Vous en fustes l'autheur, certes je le confesse, [425]  
 Et sans vous j'eusse en vain voulu voir ma Maistresse.  
 
-    TERSANDRE
+    TERSANDRE.
 Sire, je rends mes vœux à vostre Majesté.  
 
-    FILAMIRE
+    FILAMIRE.
 Mon Cousin⁎, vous voyez un Prince surmonté [426],  
 Mon Neveu m'a remis au pouvoir de la Reyne,  
 Sa prudence a fleschy ma valeur⁎ et sa peine⁎,  
@@ -4812,22 +4810,22 @@ Qu'il demeure vainqueur sans avoir combatu,
 Victoire qui luy donne aujourd'huy le salaire  
 Que la Reyne a promis.  
 
-    CLORISÉE
+    CLORISÉE.
         Je n'en veux rien distraire⁎,  
 Derechef Armidore en presence de tous [427],  
 Ma Fille et mes Estats sont maintenant à vous.  
 
-    FILAMIRE
+    FILAMIRE.
 Mais, Madame, il nous faut devenir pitoyables⁎,  
 Et pourvoir au malheur, de ces Roys miserables,  
 L'amour qui fut l'autheur, de leur temerité,  
 Pourroit encor punir, nostre severité.  
 
-    CLORISÉE
+    CLORISÉE.
 Monsieur, vous et mon Fils avez toute puissance,  
 Disposez de leur perte, ou de leur delivrance.  
 
-    FILAMIRE
+    FILAMIRE.
 Mon cousin⁎, s'il vous plaist, qu'on les face venir,  
 Madame, on ne sçauroit plus rudement punir,  
 Un esprit arrogant, flechi par son audace,  
@@ -4836,47 +4834,47 @@ Mais les voicy.
 On les ameine enchaisnez.
 
 
-    CLORISÉE
+    CLORISÉE.
         Bons dieux, combien d'afflictions⁎ !  
 
-    FILAMIRE
+    FILAMIRE.
 Mes freres, vous voyez comme nos passions,  
 Nous attirent souvent, à des malheurs extresmes,  
 La fortune pouvoit, nous renverser de mesmes,  
 Oubliez desormais, les desplaisirs soufferts,  
 La Reyne vous delivre, et vous oste vos fers.  
 
-    BRUSERBE
+    BRUSERBE.
 Nous n'attendions pas moins, de sa main genereuse.  
 
-    FILAMON 
+    FILAMON. 
 Nous avons tousjours creu, nostre prison heureuse,  
 Et que ceste Princesse, a trop d'humanité,  
 Pour punir les excez, de nostre cruauté.  
 
-    FILAMIRE
+    FILAMIRE.
 Mais d'où vient ce Courrier,  
 
-    COURRIER
+    COURRIER.
         Sire, je viens de Mede,  
 
-    FILAMIRE
+    FILAMIRE.
 Et qui [428] t'amene en Cypre ?  
 
-    COURRIER
+    COURRIER.
         Un malheur sans remede,  
 Ceste lettre en contient la pure verité.  
 Filamire lit la lettre.
 
 
-    FILAMIRE
+    FILAMIRE.
 On ne peut resister à la fatalité,  
 Madame, prenez part à ce dernier voyage [429].  
 
-    CLORISÉE
+    CLORISÉE.
 Ah ! sensible accident, d'un si mortel dommage !  
 
-    FILAMIRE
+    FILAMIRE.
 Essuyez, s'il vous plaist ces inutiles pleurs,  
 La mort veut le silence et non pas les douleurs.  
 La perte de Clarinde [430], est une œuvre secrette,  
@@ -4893,21 +4891,21 @@ Je vous rends devant eux mon amour et ma foy⁎,
 Qu'un demon⁎ insolent avoit ravis⁎ sur moy [432].  
 Reprenez vostre cœur et me rendez mon ame.  
 
-    CLORISÉE
+    CLORISÉE.
 Monsieur, je ne puis rien adjouster à ma flame,  
 Le temps, ny les tourmens⁎, ny la prosperité,  
 N'ont peu rien esmouvoir⁎ en ma fidelité.  
 
-    FILAMIRE
+    FILAMIRE.
 Retirons nous, Madame, allons pourvoir au reste,  
 Et noyons dans l'oubly tant de soucy⁎ funeste.  
 FIN.
 
 
-# Annexes
+# Annexes.
 
 
-## Glossaire
+## Glossaire.
 
 Ce glossaire a été élaboré à partir des définitions que donnent Furetière et Huguet dans leurs dictionnaires. On y trouvera les termes difficiles récurrents dans le texte de *la Fidelle Tromperie*.
 
@@ -4916,7 +4914,7 @@ Abréviations utilisées :
  * Hug : *Dictionnaire de la Langue du Seizième Siècle* de Huguet.Abus« Erreur, tromperie » (Fur), illusionV. 3, 51, 77, 130, 187, 216, 454, 824, 995, 1153, 1956, 2087. Abuser (s')« (Se) tromper » (Fur)V. 1141, 1177, 1555, 2174.AccomplyQui a toutes sortes de perfections, parfaitV. 176, 645.Affliction« Peine du corps, ou de l'esprit » (Fur)V. 255, 432, 555, 799, 2332.Affligé, eDans le chagrin, la peine ou la douleurV. 980, 1406.Affliger (s')« Faire souffrir quelque chagrin, peine, ou douleur » (Fur)V. 564, 615, 1110, 1393, 2108, 2215. Affranchir (s')(Se) « delivrer » (Fur), libérerV. 1172, 1522, 2186.Agité, eJeté dans un grand trouble, tourmentéV. 716, 1057.AmorceAttrait, charmeV. 482, 761, 906, 1145, 1737.Appareil« En termes de Chirurgie, se dit de la premiere application d'un remede sur une playe qu'on pense » (Fur)V. 220, 788, 1096, 2048PréparatifsV. 1409.AppastCharme, attrait, beautéV. 67, 179, 180, 355, 1488, 1593, 1646.Ardent, e« Qui brusle » (Fur)V. 283, 533.Ardeur« Grande chaleur » (Fur)V. 510, 571, 1856« Passion, vivacité, emportement, fougue » (Fur)V. 313, 510, 571, 1965, 2264. Artifice« Fraude, deguisement » (Fur)V. 113, 1433« Adresse » (Fur), habiletéV. 649.Besoin (au)« On connoist ses amis au besoin » (Fur), dans le besoinV. 169, 1237, 1388.Borner« Finir, achever » (Fur), limiterV. 1158, 2034, 2111.Charmant, eQui plaît d'une façon extraordinaireV. 413, 1145.Charme« Ce qui nous plaît extraordinairement » (Fur)V. 67, 421, 649, 1029, 1159, 1545, 1734, 2214.Charmer« Plaire extraordinairement » (Fur)V. 541, 750, 1047, 1646, 2021.ChefTêteArgument l. 28, v. 683, 720, 1130, 1230, 1253, 1263, 2015, 2147, 2156, 2164, 2172.ConsommerConsumerV. 538, 1579.Cousin« Terme d'honneur que les Rois donnent (…) aux Princes de leur Sang, à des Princes  étrangers » (Fur)V. 554, 1055, 1406, 2128, 2313, 2328.Cuisant« On le dit (…) des choses qui causent de la douleur » (Fur)V. 656, 1108.Décevoir (se)(Se) tromperV. 33, 508, 1060, 1141, 1533, 1720, 1887.Déceu, ëTrompé, eArgument l. 50, v. 1016, 1974.Délices« Ce qui donne plusieurs plaisirs ensemble » (Fur)V. 9, 10, 62, 774, 1047, 1098, 1485, 1873, 1988, 2356.Démon« Les Anciens ont appellé ainsi certains Esprits ou Genies qui apparoissent aux hommes, tantost pour leur servir, tantost pour leur nuire » (Fur)V. 969, 1220, 1501, 1621, 1664, 2361.DepitéFâchéV. 140, 207.Depiter« Concevoir du depit, de la fâcherie » (Fur)V. 492, 494, 1478.Déréglé, eQui agit « contre la regle, contre l'ordre établi » (Fur)V. 56, 446, 818.Desloyal, e« Qui n'a ni foy, ni loy » (Fur), infidèle, traîtreV. 153, 184, 216, 653, 691, 804, 805, 822, 1335, 1753, 1935.Desloyauté « Action contre la fidelité et les loix » (Fur)V. 204, 208, 804.Desrober (se)« S'eschapper » (Fur), s'enfuirArgument l. 9, 23.Diffamé, e« Honteux, déshonorant » (Hug)V. 442, 1934.Dissolu« Débauché, malhonneste » (Fur)V. 195, 318, 660.Distraire (se)(Se) « destourner »V. 69, 306, 454, 1114, 1973« Oster, retrancher » (Fur)V. 2319.Divertir« Destourner quelqu'un, l'empêcher de continuer son dessein » (Fur)V. 1236, 1384, 1831, 2080.Douteux, se« Craintif, effrayé » (Hug)V. 616, 2047.Effet« Action »V. 595, 898, 1074, 1272« Réalité » (Hug)V. 1002, 1842, 1870.Effort« Force, énergie, pouvoir »V. 479« Violence, dommage » (HugV. 68, 249, 292, 315, 955, 1115, 1160, 1574, 1671, 1967.Ennui« Affliction, douleur, tristesse » (Hug)V. 11, 392, 520, 1077, 1102, 1628, 1924, 2255.Envie« Haine, colère, mécontentement » (Hug)V. 713, 741, 854, 974, 1025.Esbat« Divertissement » (Fur)V. 580, 657, 884, 903.Esjouïr (s')« (Se) réjouir » (Hug)V. 808, 1097.Esmouvoir« Esbranler pour mettre en mouvement » (Fur), agiterV. 279, 587, 703, 1375, 1428, 1527, 1566, 1650, 1874, 1942, 2365« Se dit figurément en Morale des passions » (Fur), (se) troubler, émouvoirV. 320, 1108, 1784, 2227. Esprouver« Experimenter » (Fur), mettre à l'épreuveV. 85, 147, 150, 249, 473, 801, 913, 987, 1143, 1911.Estonnement« Action ou effet qui cause de la surprise, de l'admiration. Tous les prodiges causent de l'estonnement » (Fur)V. 224, 281, 412, 576, 583, 1904.Estonner« Causer à l'âme de l'émotion » (Fur), stupéfaire, effrayerV. 26, 94, 280, 525, 1063, 1194, 2139, 2235, 2302.Estrange« Qui est d'un pays éloigné » (Fur), étrangerV. 565, 2075.Esvertuer (s')« Prendre courage, s'efforcer de faire quelque chose » (Fur)V. 1750, 2118.Exceder« Aller au delà, outrepasser » (Fur)V. 472, 572.Extase« Ravissement d'esprit, transport hors de soy-même qui suspend la fonction des sens » (Fur), évanouissementV. 466, 514, 1330.Feu, xPassion amoureuse (le terme donne souvent lieu à une syllepse de sens développée par le contexte, jouant avec le sens propre du *feu qui brûle*)V. 4, 11, 54, 138, 195, 318, 570, 753, 773, 867, 1150, 1316, 1354, 1480, 1526, 1557.FoyCroyance (en un dieu)V. 507ConfianceV. 42, 172, 1518, 2360FidélitéV. 769, 802, 812, 814, 815, 840, 1106, 1202, 1218, 1976, 2178, 2248PromesseV. 1218, 2155MoraleV. 1824. Fureur« Emportement violent causé par un dereglement d'esprit et de la raison » (Fur), folieV. 427, 2192Colère violenteV. 483, 758, 872, 892, 974, 1280, 1382, 1756, 1765, 2203, 2269« Se dit aussi de toutes les passions qui nous font agir avec de grands emportements » (Fur)V. 465, 1685, 1998.Furieux, se« Transporté de colere, de fureur » (Fur)V. 84, 869« Se dit aussi de tout ce qui a de la violence, de l'impetuosité, de l'excès » (Fur)V. 188, 1565, 1664, 1923.Généreux, se« Qui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest », « brave, vaillant, courageux » (Fur)Argument l. 4, V. 44, 588, 610, 1251, 1396, 2062, 2284.Génie« Bon ou mauvais Demon que les Anciens croyoient accompagner les hommes illustres » (Fur)V. 1085, 1445.HymenéeMariageV. 642, 1193.Indiscret, te« Celuy qui agit par passion, sans considerer ce qu'il dit ni ce qu'il fait » (Fur.)V. 225, 893, 2027, 2351.Industrie« Adresse de faire reüssir quelque chose » (Fur)Argument l. 22.Industrieux, seQui a de l'industrie (voir ce mot)V. 93, 272, 450.Infortuné, e« Malheureux » (Fur)V. 386, 1293.Inhumain, e« Cruel et sans pitié » (Fur)V. 267, 545, 697, 720, 1257, 1282, 1325, 1422, 1611, 1675, 1963, 2208.Insensé, e« Qui a perdu l'esprit, fou » (Fur)V. 16, 1506.Irriter« Fascher, offenser, mettre en colere » (Fur)V. 59, 139, 195, 288, 458, 679, 727, 894, 939, 1952 « Rendre plus vif et plus fort » (Fur)V. 978.LangueurFaiblesse causée par une maladie ; « se dit aussi en Morale des tristesses, des afflictions, ou des passions violentes qui nous privent de joye, ou de santé » (Fur)V. 1459.LanguissantQui est dans un état de langueur (voir ce mot)V. 1128.Merite« Assemblage de plusieurs vertus ou bonnes qualités en quelque personne » (Fur)Argument l. 3, v. 345, 457, 629, 771, 1477, 1999.Miserable« Qui est dans la douleur, (…) dans l'affliction » (Fur), malheureuxV. 190, 286, 914, 1293, 1322, 1470« Meschant » (Fur), méprisableV. 317, 822.Molester« Tourmenter quelqu'un » (Fur)V. 1072, 2018.Nocher« Vieux mot qui signifioit autrefois *pilote* », (Fur) celui qui conduit une embarcationV. 280, 1439.Nompareil« Qui n'a point de semblable, tant il est excellent » (Fur)V. 383, 645.Obliger« Faire quelque faveur, civilité, courtoisie » (Fur.)V. 227, 604, 1191, 1676.Pasmer (se)« Tomber en deffaillance, perdre l'usage des sens » (Fur)Didascalie p. 85 (éd. originale), v. 1578.Peine« Douleur, tourment » (Fur.)V. 189, 261, 518, 553, 573, 802, 829, 946, 1058, 1122, 1194, 1258, 1346, 1421, 1513, 1610, 1674, 1809, 1961, 1966, 2114, 2195, 2315« Fatigue, travail corporel » (Fur)V. 1061, 1476.Perfide« Qui manque de foy, qui trahit, qui manque à sa parole » (Fur)V. 805, 2066, 2183.Perfidie« Manque de foy, de parole, trahison » (Fur)V. 321, 758.Pervers« Meschant, corrompu » (Fur)V. 1087, 1623.Pitoyable« Se dit aussi de celuy qui a des sentimens de compassion pour les miseres d'autruy » (Fur), qui a de la pitiéV. 1086, 2322.Priser« Estimer, faire cas », « vanter, loüer » (Fur.)V. 342, 1163.Profonder« Pénétrer », « approfondir » (Hug)V. 620, 1448.Rais« Vieux mot, au lieu duquel on dit maintenant *rayon* » (Fur)V. 40, 360.Ravir« Oster » (Fur), enleverV. 576, 588, 1146, 1501, 1554, 1640, 1984, 2159, 2361.Receler« Cacher, empescher de voir » (Fur)V. 108, 180, 265, 675, 2050, 2141.Ressentiment« Se dit figurément en Morale, des sentiments de l'ame, quand elle est émeuë de certaines passions » (Fur)V. 665, 1180, 1315.Ressouvenir« Ce qui demeure en la memoire » (Fur), souvenirV. 153, 509, 635, 1577. Rouler« On dit aussi qu'un vaisseau *roule*, lors qu'il se tourmente, et qu'il se penche ou se renverse incessamment sur un de ces costez » (Fur), tanguerV. 299, 1287.RuinePerteV. 198, 265, 1983.Soin« Souci, inquiétude » (Hug)V. 523, 656, 2244, 2303« Souci, désir » (Hug)V. 193, 587, 602, 619, 863, 1244, 1373, 1403.Soucieux, se« Qui a quelque chagrin, (…) affliction (Fur)V. 1445, 1516, 2030, 2114.Soucy« Chagrin, inquiétude d'esprit » (Fur)V. 109, 348, 615, 1067, 1183, 1255, 1305, 1453, 1480, 1540, 1684, 1960, 2065, 2066, 2097, 2120, 2164, 2367FleurV. 500.SouffrirSupporter, tolérerV. 49, 543, 553, 1006, 1521, 1602, 1606, 1692, 1786, 1838, 2209.Souloir« Vieux mot qui signifioit autrefois *avoir de coûtume* » (Fur), avoir l'habitude deV. 750, 1083.Superbe« Vain, orgueilleux, qui a de la presomption » (Fur)V. 739, 1489, 1943, 2046.SurmonterSurpasserArgument l. 32, v. 630, 1739Vaincre (Fur)V. 68, 121, 158, 964, 979, 1147, 1464, 1976. Timide« Foible, peureux, qui craint tout » (Fur)V. 1069, 1955.Tourment« Peines et chagrins «  (Fur)V. 87, 99, 308, 543, 703, 720, 840, 1196, 1308, 1420, 1515, 1527, 1994, 2181, 2308, 2364« Douleur violente que souffre le corps » (Fur)V. 164, 451.TraictFlècheV. 450, 1098, 1492, 1508, 1634« Se dit figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour. Les traits de Cupidon » (Fur)V. 20, 278, 640, 826, 1940.Trame« Complot secret », « trahison » (Fur)V. 650(Textile) ensemble des fils passant transversalement entre les fils de la chaîne tendus sur le métier à tisserV. 1782. Travail, -aux« Douleur qu'on souffre » (Fur)V. 601, 1068, 1516FatigueV. 327, 1061, 1503LabeurV. 1814.Travailler« Faire souffrir de la douleur » (Fur)V. 94, 598, 1190, 1453.Valeur« Grandeur de courage, ardeur belliqueuse » (Fur)Argument l. 28, 31, v. 575, 582, 612, 717, 729, 752, 888, 917, 937, 989, 1022, 1041, 1065, 1071, 1129, 1184, 1399, 1443, 2075, 2270, 2315.Vif, -veVivant, eV. 329, 1185.
 
 
-## Appendice I : Poème liminaire À l'Orizelle de Chabrol [433]< A MONSIEUR CHABROL, sur son Orizelle.Stances >
+## Appendice I : Poème liminaire À l'Orizelle de Chabrol [433].< A MONSIEUR CHABROL, sur son Orizelle.Stances >
 
 CHABROL, tu peints ton Orizelle  
 Un si rare sujet d'Amour,  
@@ -4957,7 +4955,7 @@ Doit seul accomplir leur repos.
 GOUGENOT.
 
 
-## Appendice II : Priere du Roy au Sainct Esprit
+## Appendice II : Priere du Roy au Sainct Esprit.
 
 Canivet, Philippe Desportes et Nicolas Gougenot, recueil de prières à l'usage du roi Louis XIII, France, XVII*e* siècle.
 
@@ -4973,7 +4971,7 @@ Le texte qui suit a été extrait d'un cours de M. Philip N. Cronenwett, diffus�
 What makes this manuscript important is that it is just one of a series of four cut-work manuscripts, all created at the same time by Nicholas Gougenot for the same purpose, the Order of the Holy Spirit. Founded by Louis of Taranto in 1352, the order fell into desuetude in the following century. However, Henry III of France was shown a copy of the statutes of the order when he was in Venice in 1574. The Order of the Holy Spirit was refounded by Henry in 1578 as a chilvaric order and a religious fraternity for the elite of France. It was, according to the Henry's letter to the Pope, a way of introducing the reforms of the Council of Trent to France. The statutes of the order mandated that each member be inducted by reading from the Hours of the Holy Spirit, a set of texts similar to the Hours of the Virgin, but peculiar to the order. No copies of these hours are known.
 
 
-## Appendice III : Histoire du théâtre françois [437], François Parfaict
+## Appendice III : Histoire du théâtre françois [437], François Parfaict.
 
 On trouvera dans cette annexe la reproduction de l'article composé par les Frères Parfaict sur *la Fidelle Tromperie*.
 
@@ -4981,7 +4979,7 @@ On trouvera dans cette annexe la reproduction de l'article composé par les Frè
 Ce n'est ici qu'une mauvaise imitation du sujet d'Agésilan de Colchos, que Rotrou traita depuis. Mêmes fonds, semblables plan, & conduite, à l'exception des noms. Ici Clorisée, Reine de Chypre, mere d'Alderine, joue le personnage de Sidonie, Reine de Guindaye, mere de Diane. Filamire, Roy d'Arménie, est le même que Florisel de Niquée. Armidore, Prince de Phrygie son neveu, prend le nom & l'habit de Lucide, de même qu'Agésilan celui de Daraïde. Clorisée imitant Sidonie, met à prix la tête de Filamire. La Piéce est pareillement terminée par son mariage avec ce Prince, & celui d'Alderine avec Armidore. Les Rois que Gougenot ajoute à son invention [438], & qui veulent conquérir le cœur de Clorisée, en formant des siéges, & donnant des batailles sur le Théâtre, peuvent contribuer au spectacle, mais ils ne servent à la lecture, qu'à jetter beaucoup de confusion & de ridicule dans le Poëme. La versification y répond parfaitement.
 
 
-## Appendice IV : N. Gougenot, extrait du Romant de l'Infidelle Lucrine [439]
+## Appendice IV : N. Gougenot, extrait du Romant de l'Infidelle Lucrine [439].
 
 Cet extrait est extrêmement proche des vers 1 à 37 de *La Fidelle Tromperie*, d'où son intérêt dans le cadre de l'étude de la pièce.
 
@@ -4989,7 +4987,7 @@ Cet extrait est extrêmement proche des vers 1 à 37 de *La Fidelle Tromperie*, 
 Precieuse image de mon Aurore, belle figure de l'Astre qui me console parmy tant d'obscurité, douce feinte de mon Soleil, cher abus de mes yeux, aliment des feux de mon amour, mensonge agreable d'où mon cœur tire un si veritable contentement, symbole d'une beauté que chacun adore, ô beau portrait, que je conçois de cheres delices en vos traits ! ô delices, que vous me presagez de tourmens ! ô traits, delices et tourmens, riches objets de ma gloire ! ombres saintes qui contre l'ordre de nature produisez des flames, et qui servent de flambeaux à mes nuits obscures ! » Puis quittant le portrait, et comme hors de soy mesme, il continuë, et disoit : « Amour qui vit jamais une si estrange avanture ? Un portrait dissipe ma raison ; mais insensé que je suis, comment se peut il faire que je me jette à corps perdu dans un nouveau malheur, ne faisant que commencer l'experience du plus grand de tous les malheurs ? Les chaines de Lucrine ne me peuvent faire aprehender les liens de Caliste dont j'idolatre le portrait au mespris du Ciel, qui me punissant justement par Lucrine, me peut aussi foudroyer par Caliste : Lucrine m'est donnée meritoirement pour venger Clarinde, et Caliste me doit estre un sujet de penitence et non d'amour, puis que mon crime se doit expier par la continence et par l'humilité ». Puis Symandre reprenant tout à coup le portrait, changeant de voix et d'action, continuë ainsi : « Non, non, Caliste, mon destin veut que je me perde dans les couleurs de ton image puis que je suis privé de son sujet. Mais qui ne jugeroit que ceste bouche me parle, et que ces yeux me jettent des regards ? Belle bouche, dy moy je te prie, par quel miracle nouveau tu me rends des Oracles muets ! Beuax yeux, declarez moy le secret de tant de traits ardants qui partent de vos flames feintes ; il me semble souvent que ceste bouche souspire pour moy, et que ces yeux me carressent, et souvent que d'un sort contraire ils me desdaignent et me menacent ; tantost il me semble que cest œil soit un amoureux esclair, et tantost un foudre rigoureux. Que fais tu Symandre ? Tu te laisses dompter par une Idole ? Comment une Idole ? Je croy pour vray que ses yeux ont du sentiment, et qu'ils suivent mes regards d'un mouvement esgal : si l'amour ne me deçoit, la nature s'est conjointe à ce beau portrait ». Symandre ravy en ceste contemplation fit une action que les enfans ont souvent accoustumé de faire lors qu'ils regardent dans un miroir, c'est que le renversant et croyans de trouver la figure au fonds, ils la perdent : ainsi nostre Amant vint jusques à ceste extremité de folie, de faire le semblable du portrait, et tout honteux il le remet en sa place.
 
 
-## Appendice V : L'influence de l'Amadis de Gaule sur la Fidelle Tromperie
+## Appendice V : L'influence de l'Amadis de Gaule sur la Fidelle Tromperie.
 Amadis [440] | Résumé [441] | Influence sur la Fidelle Tromperie | Type [442]
 LIVRE XI **Chap. XIV** | Le roi de Gaze, après avoir été battu par Florisel (chap. VIII), se présente à la reine Sidonie sur la demande de son vainqueur. Il la demande en mariage. Sidonie se fâche, voulant rester fidèle à Florisel malgré sa traîtrise. | La confrontation Sidonie/Gaze [443] inspire celle de Clorisée/Bruserbe au début de l'acte III. Même demande du roi, même indignation de la reine. | A
 XV | Agésilan voit le portrait de Diane. Il en tombe amoureux. Monologue. Discussion avec son cousin Arlanges qui propose de se travestir pour approcher Diane. Ils se déguisent tous les deux. Départ. | Même succession d'événements en I, 1. | A
@@ -5017,7 +5015,7 @@ LVII [455] | Fiançailles d'Agésilan et de Diane. |  | 
 
 
 
-## Appendice VI : Dédicace de la Fidelle Tromperie (exemplaire de 1634)
+## Appendice VI : Dédicace de la Fidelle Tromperie (exemplaire de 1634).
 
 François Lasserre, dans son édition du *Romant de l'Infidelle Lucrine* [456], nous donne certains renseignements sur le dédicataire de *la Fidelle Tromperie*. Il s'agit d'un aristocrate allemand, le comte Jean Bernard de Lippe (ou « von der Lippe ») dont, toujours selon le critique, la naissance pourrait se situer dans une fourchette 1609-1625. Nous empruntons ces renseignements à M. Lasserre car nos tentatives pour consulter les ouvrages auxquels il fait référence à ce sujet sont restées infructueuses [457].< A MONSIEUR,MONSIEUR JEAN BERNARD, Comte et noble seigneurde Lippe. >
 
@@ -5030,13 +5028,13 @@ Monsieur,
 Vostre tres-humble & obeissant/ serviteur N. GOUGENOT.
 
 
-## Bibliographie
+## Bibliographie.
 
 
-### Bibliographie des œuvres de Gougenot
+### Bibliographie des œuvres de Gougenot.
 
 
-#### Premières éditions des œuvres de Gougenot
+#### Premières éditions des œuvres de Gougenot.
 
 LA / FIDELLE / TROMPERIE / TRAGI-COMEDIE / *par le Sieur* GOUGENOT, *Dijonnois*. / A PARIS / Chez ANTHOINE DE SOMMAVILLE / dans la petite Salle du palais, à / l'Escu de France / M.DC.XXXIII. / *AVEC PRIVILEGE DU ROY*.
 
@@ -5047,17 +5045,17 @@ LA COMEDIE / DES COMEDIENS / TRAGI-COMEDIE / *par le Sieur* GOUGENOT / A PARIS, 
 LE / ROMANT / DE / L'INFIDELLE / LUCRINE. / *PAR N. G. G. D.* / A PARIS / Chez MATTHIEU COLOMBEL, rüe / neufve Saincte Anne, prés le Palais, / à la Colombe. / M.DC.XXXIV. / *AVEC PRIVILEGE DU ROY.* / achevé d'imprimer *pour la premiere fois le cinquiesme jour de janvier 1634.*
 
 
-#### Œuvres du graveur en écriture Nicolas Gougenot
+#### Œuvres du graveur en écriture Nicolas Gougenot.
 
 Planches consultables au Cabinet des Estampes de la Bibliothèque Nationale. L'in-folio d'origine porte la cote « Kb 31 », et le microfilm les n° P. 8707 à 9448 (les clichés des œuvres de Nicolas Gougenot correspondent aux n° P. 9321 à P. 9337).
 
 Quatre manuscrits, dont l'un s'intitulant *Priere du Roy au Sainct Esprit* se trouve à la B.n.F., Manuscrits occidentaux, français 24749 (La Vallière 198 bis). D'après le site de la B.n.F., les trois autres exemplaires se trouvent aux « bibliothèques de Rouen, du Vatican, du St. John's Seminary, aux Etats-Unis ».
 
 
-#### Rééditions
+#### Rééditions.
 
 
-##### La Comedie des Comediens
+##### La Comedie des Comediens.
     *Gougenot*La Comedie des Comediens*Viollet-le-Duc*Ancien Théâtre François
 *Gougenot*La Comedie des Comediens*Fournier*Théâtre Français au XVI*ème* et au XVII*ème* siècle
 *Gougenot*La Comedie des Comediens
@@ -5066,15 +5064,15 @@ Quatre manuscrits, dont l'un s'intitulant *Priere du Roy au Sainct Esprit* se tr
 
 
 
-##### *Le Romant de l'infidelle Lucrine*
+##### *Le Romant de l'infidelle Lucrine*.
     *Gougenot, N.*Le Romant de l'infidelle Lucrine
 
 
 
-### Sources
+### Sources.
 
 
-#### Sources romanesques
+#### Sources romanesques.
     L'Onziesme Livre d'Amadis de Gaule
 Le DouxiesmeLivre d'Amadis de Gaule
 *Montemayor*
@@ -5082,7 +5080,7 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-#### Sources dramatiques
+#### Sources dramatiques.
     *Auvray*La Dorinde, tragi-comédie
 *Bensserade**de*Gustaphe, ou l'Heureuse ambition, tragi-comédie
 *Chabrol*L'Orizelle, ou les Extresmes mouvemens d'amour, tragi-comedie
@@ -5107,13 +5105,13 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-#### Autres sources
+#### Autres sources.
     *Gouvenain*Deux poètes bourguignons contemporains de Corneille
 *Marolles*Suitte des memoires de Michel de Marolles, Abbé de Ville-loin
 
 
 
-#### Textes théoriques (antérieurs à 1800)
+#### Textes théoriques (antérieurs à 1800).
     *Anonyme*Discours à Cliton suravec un Traité de la disposition du Poème Dramatique, et de la prétendue Règle des vingt-quatre heuresLa Querelle du Cid
 *Aubignac*La Pratique du théâtre
 *La Mesnardière*La Poétique
@@ -5122,10 +5120,10 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-### Études
+### Études.
 
 
-#### Ouvrages généraux
+#### Ouvrages généraux.
     *Canavaggio*Histoire de la littérature espagnole
 *Furetière*Dictionnaire Universel
 *Grimal,*Dictionnaire de la mythologie grecque et romaine
@@ -5138,10 +5136,10 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-#### Études sur la période
+#### Études sur la période.
 
 
-##### Ouvrages
+##### Ouvrages.
     *Adam*Histoire de la littérature française au XVII*e*  siècle
 *Baret*De l'Amadis de Gaule et de son influence sur les mœurs et la littérature du XVI*ème* et du XVII*ème* siècles
 *Bénichou*Morales du Grand Siècle
@@ -5167,7 +5165,7 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-##### Recensions
+##### Recensions.
     *Arbour*L'Ère baroque en France. Répertoire chronologique des éditions de textes littéraires (1585-1643)
 *Lancaster*A History of French Dramatic Literature in the XVIIth Century
 *Lancaster*Le Mémoire de Mahelot, Laurent, et d'autres décorateurs de l'Hôtel de Bourgogne
@@ -5176,7 +5174,7 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-##### Articles
+##### Articles.
     *Forestier,*L'Information littéraire
 *Forestier,*Poétique
 *Hilgar*Dix-septième siècle
@@ -5184,10 +5182,10 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-#### Études sur le genre de la tragi-comédie
+#### Études sur le genre de la tragi-comédie.
 
 
-##### Ouvrages
+##### Ouvrages.
     *Baby,*La Tragi-comédie de Corneille à Quinault
 *Dalla Valle*La Tragicommedia francese. Teoria e prassi
 *Guichemerre*La Tragi-comédie
@@ -5196,7 +5194,7 @@ Le DouxiesmeLivre d'Amadis de Gaule
 
 
 
-##### Articles
+##### Articles.
     *Fischler*L'Information littéraire
 
 

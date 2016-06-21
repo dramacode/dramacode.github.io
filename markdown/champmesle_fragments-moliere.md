@@ -19,7 +19,7 @@ A PARIS, Chez Jean Ribou, sur le Quay des Augustins, au dessus de la Grand'Porte
           Forestier (2006)
 
 
-# Introduction générale
+# Introduction générale.
 
 Après la mort de Molière en 1673 la comédie semblait être hantée par sa mémoire. Non seulement ses pièces continuèrent pour quelques années à constituer le principal élément dans le répertoire de ses compagnons, mais aussi on chercha à ramener ses personnages sur la scène comme le firent Brécourt (dans *L'Ombre de Moliere)*, Champmeslé (dans *Les Fragmens de Moliere)*, ou encore Thomas Corneille, à la demande d'Armande Béjart, veuve de Molière, il est vrai, avec la réécriture en vers du *Festin de Pierre*. Beaucoup d'autres auteurs imitèrent Molière et sa mémoire était si forte que Dufresny fit déclarer par un personnage de son *Négligent* en 1692 qu'il était difficile d'écrire une comédie car elle serait considérée soit comme une imitation médiocre de Molière soit comme une pièce qui, ne l'ayant pas imité, serait par conséquent sans valeur. Néanmoins, beaucoup s'y essayèrent et tentèrent d'associer à la fois imitation et innovation.
 
@@ -31,7 +31,7 @@ C'est ainsi qu'en mars 1674 Guillaume Marcoureau, sieur de Brécourt, produisit 
 ## Pourquoi rendre hommage à Molière ?
 
 
-### Les conditions et les enjeux historiques : la concurrence entre les troupes et la querelle causée par la mort de Molière
+### Les conditions et les enjeux historiques : la concurrence entre les troupes et la querelle causée par la mort de Molière.
 
 De fait, une telle entreprise de la part de comédiens de l'Hôtel de Bourgogne, la troupe rivale de celle de Molière, peut surprendre, car la concurrence entre les troupes était, au XVII*e* siècle, virulente et se trouva renforcée à la mort de Molière.
 
@@ -81,7 +81,7 @@ Et de fait, Champmeslé commença sa carrière d'auteur après son entrée à l'
 Cet exemple parmi d'autres prouve que Champmeslé connaissait bien les œuvres de Molière, qu'il les appréciait et qu'il ne pouvait s'empêcher de s'en inspirer pour la composition de ses propres comédies. On peut comprendre alors sa démarche, lorsqu'il composa, après la mort de Molière, *Les Fragmens* : il rendait hommage au grand dramaturge chez qui il avait abondamment puisé. Cependant, la démarche honorifique est quelque peu amoindrie par le fait qu'il profita de ce que *Le Festin de Pierre* n'avait pas été publié pour reproduire des fragments de la pièce interdite. Il offrit ainsi en exclusivité à l'Hôtel de Bourgogne des scènes reprises intégralement au *Festin de Pierre*, encadrées par des scènes de sa propre composition, sans que l'on puisse l'accuser de plagiat puisque son intention était honorable. Dans le jeu des rivalités et de la concurrence la Troupe royale y trouva un avantage non négligeable.
 
 
-# Introduction
+# Introduction.
 
 Après *L'Ombre de Moliere* de Brécourt, c'est Champmeslé qui lui emboita le pas pour rendre hommage à Molière en représentant pour la première fois à l'Hôtel de Bourgogne, en 1674, *Les Fragmens de Moliere*. La pièce fut reprise par la suite par la troupe de la Comédie Française au théâtre Guénégaud en 1681 et dans une série de représentations au théâtre de la rue des Fossés Saint-Germain en 1701.
 
@@ -112,7 +112,7 @@ Il s'inspire beaucoup des pièces de Molière dans le choix de ses personnages e
 # L'intrigue et sa source.
 
 
-## La simplification de l'intrigue du *Festin de Pierre*
+## La simplification de l'intrigue du *Festin de Pierre*.
 
 *Les Fragmens de Moliere* reprennent donc, comme le titre l'indique, des fragments du *Festin de Pierre* que Champmeslé lie avec des scènes de sa propre création pour fournir la charpente d'une petite comédie en deux actes qui repose sur une intrigue tout à fait différente de celle de Molière. La pièce n'a plus les mêmes enjeux que *Le Festin de Pierre* car elle n'ambitionne pas de condamner, dans une intention moralisante, l'impiété, l'immoralité et la conduite scandaleuse de Dom Juan, même si celui-ci demeure volage et séducteur. En effet, la pièce propose une intrigue de comédie puisque l'enjeu est de savoir si le mariage de Pierrot et Charlotte, deux paysans, pourra avoir lieu, Dom Juan constituant l'obstacle majeur à sa réalisation. On peut donc affirmer qu'il s'agit-là du schéma typique de la comédie : deux amants en parfaite intelligence séparés par un obstacle, Dom Juan et sa séduction, et réunis à la fin par un mariage. Néanmoins, le terme d'amants est un peu excessif parce que Pierrot et Charlotte sont loin des amants en parfaite intelligence que l'on peut rencontrer par exemple chez Molière. Charlotte est fiancée à Pierrot par la volonté de son père et non la sienne, ainsi que cela se fait couramment à cette époque. D'ailleurs cette décision ne tient qu'à peu de chose car Charlotte explique à Dom Juan :
 
@@ -127,14 +127,14 @@ Hé bien, laisse-moy en repos, et va en chercher quelque autre [12].
 Et lorsque Pierrot lui demande un peu plus d'amitié elle réplique que « cela viendra sans y songer ». Le manque d'ardeur de Charlotte pourrait constituer l'un des obstacles au mariage, mais il devient rapidement un faux obstacle relayé par un nouveau fondamentalement plus majeur : l'arrivée, à la fin de la scène, de Dom Juan qui préoccupe trop Charlotte pour qu'elle puisse promettre à Pierrot de faire des efforts pour l'aimer d'avantage.
 
 
-## Le changement de protagoniste
+## Le changement de protagoniste.
 
 Par cette nouvelle intrigue, Champmeslé opère un changement de protagoniste par rapport au *Festin de Pierre* puisque les deux paysans, personnages secondaires chez Molière, se trouvent, avec Champmeslé, basculés au centre de l'intrigue, et Dom Juan, en jouant le second rôle, n'est plus que l'obstacle qui nuit à la réunion des deux fiancés. En outre, d'autres personnages secondaires du *Festin de Pierre* ont, dans *Les Fragmens*, un rôle décisif et notamment le juge, le père de Charlotte, substitué au personnage de la tante dans *Le Festin*, présent dans plusieurs scènes et dont la menace de faire sonner le tocsin contre Dom Juan le fait fuir, détruisant ainsi le principal obstacle qui empêchait le mariage. Il permet même de précipiter ce mariage, qui ne semblait pas prévu dans un avenir aussi proche au début de la pièce, car il est question, à la dernière scène, du festin que Dom Juan va offrir, même s'il n'est pas dit clairement que le mariage va avoir lieu à la fin de la journée. De fait, devant l'heureuse nouvelle de la possibilité de son mariage, Pierrot ne va pas chercher le notaire ou le curé, il s'en va « boire chopine » ! On pourrait croire, aussi, que le rôle de Monsieur Dimanche est décisif et que son arrivée concourt à faire fuir Dom Juan –et c'est ainsi que Champmeslé aurait pu présenter la scène pour mieux l'intégrer dans l'action de la pièce– mais, étant donné que la décision de fuir est déjà prise avant que Gusman ne soit informé par son maître de son arrivée, la scène avec le créancier n'a pas de véritable incidence sur l'action et ne fait que renforcer ce qui a été décidé à la scène précédente.
 
 Champmeslé offre donc une simplification très nette de l'intrigue du *Festin* puisqu'il n'en reprend que quelques fragments, mais aussi parce que la pièce se déroule uniquement sur deux actes, ce qui ne lui confère pas forcément, pour autant, une plus grande unité. Il n'y a pas, par exemple unité de lieu, puisque la scène représente plusieurs lieux différents. À ce sujet, l'absence de didascalies n'aide pas le lecteur à s'y retrouver, s'il ne peut pas être spectateur également. Il est nécessaire, pour le spectateur comme pour le lecteur, de garder à l'esprit la scénographie du *Festin de Pierre* pour identifier l'espace de la pièce. Arrêtons-nous donc un instant pour redéfinir la scénographie et les lieux de la pièce en nous basant sur le *Dom Juan*, la version actuelle que nous avons de la pièce de Molière.
 
 
-## La scénographie des *Fragmens*
+## La scénographie des *Fragmens*.
 
 Pour le décor de l'acte I, on se réferre à l'acte II du *Dom Juan* où sont reprises les scènes entre Pierrot et Charlotte, Gusman et Dom Juan. Le théâtre représente un hameau de verdure, avec une grotte au travers de laquelle on voit la mer : il s'agit donc d'un décor de campagne en bord de mer. La maison de Pierrot, ainsi que celle de Charlotte et du juge doivent également être représentées. À l'ouverture de la scène I, les deux pasteurs Lignon et Jourdain déclament leur amour probablement devant la porte de la demeure de Charlotte. En effet, à la scène II, Lignon déclare :
 
@@ -156,7 +156,7 @@ Et Lancaster précise :
 Les crosses sont probablement pour les acteurs qui représentent les fleuves du Jourdain et du lignon, acte I, scène I ; la rame pour Pierrot, qui arrive en scène après aboir sauvé Don Juan naufragé, I, 3 ; le costume du brave pour Silvestre, II, 3 ; le deuil pour le juge, II ; les habits de paysan pour Charlotte et Pierrot, I, 3. On omet II, 1, logis. [15]
 
 
-## L'enchaînement difficile des scènes et le manque de clarté de l'intrigue
+## L'enchaînement difficile des scènes et le manque de clarté de l'intrigue.
 
 Le fait que Champmeslé pioche des fragments du *Festin de Pierre* pour les assembler avec ses propres scènes peut expliquer le difficile enchaînement entre certaines scènes et le manque de clarté, voire de cohérence, à différents moments de l'action. C'est le cas, notamment, pour les deux premières scènes qui ne présentent aucune utilité pour l'action, mise à part le seul fait que la scène I informe le spectateur que Charlotte est promise à Pierrot ; cela concerne également la scène V de l'acte II, puisque l'arrivée de Monsieur Dimanche n'a pas de rapport direct avec l'action des *Fragments* et ne l'influence aucunement. À ce sujet, Champmeslé est donc contraint de préciser tardivement, à travers Gusman, pourquoi il introduit ce personnage et il en fait ainsi la cause principale de la fuite de Dom Juan et de Gusman qui précède leur naufrage, tout ces éléments ayant eu lieu avant le début de la pièce.
 
@@ -184,15 +184,15 @@ En ce qui concerne M. Dimanche, nous l'avons vu, ce n'est pas son arrivée qui f
 Peut-on alors dire, comme pour *L'ombre de Molière*, que l'intrigue ne devient plus qu'un prétexte pour permettre de faire succéder les scènes de Molière et leur donner une certaine cohérence entre elles ? De fait, Champmeslé met l'accent sur les fragments du *Festin de Pierre* au détriment de la continuité de l'action, de sa cohérence et de sa clarté.
 
 
-# Les Fragmens et leur original moliéresque
+# Les Fragmens et leur original moliéresque.
 
 Sur les douze scènes qui composent *Les Fragmens de Moliere*, Champmeslé en reprend cinq à Molière, dont quatre au *Festin de Pierre* et une aux *Fourberies de Scapin*, auxquelles il va fournir un lien en les mêlant à sept scènes de sa propre composition.
 
 
-## Les scènes reprises à Molière
+## Les scènes reprises à Molière.
 
 
-### Le Festin de Pierre
+### Le Festin de Pierre.
 
 Les scènes III, IV et V de l'acte I, et V de l'acte II sont donc largement reprises au *Festin de Pierre* de Molière. L'imitation est généralement très étroite mais on note quelques modifications infimes soit d'ordre lexical comme par exemple, pour la première réplique de Charlotte à la scène III, la substitution de « Nostre-dinse » par « Pargué », ou encore l'emploi de « Pierrot » à la place de « Piarrot », de « Parguenne » à la place de « Parquienne » ; soit d'ordre syntaxique avec la suppression ou le rajout de mots ; ou encore des modifications dans la ponctuation, etc.
 
@@ -207,12 +207,12 @@ Pour ce qui est de la scène IV des *Fragmens*, on note plus de changements : l
 La scène V du deuxième acte est façonnée librement sur l'entretien avec M. Dimanche que l'on trouve à la scène III du quatrième acte de *Dom Juan*. Champmeslé reprend le même procédé que Molière : utiliser le langage flatteur de Dom Juan et faire montre d'une politesse excessive à l'égard de M. Dimanche pour éviter ainsi, par ces flatteries qui piquent la vanité du créancier, de payer ses dettes. Champmeslé simplifie quelque peu la scène, en retranchant quelques répliques mais l'essentiel est là. M. Dimanche paraît cependant moins flatté par les attentions de Dom Juan dans *Les Fragmens*. En revanche, l'originalité de Champmeslé est montrée principalement à la fin de la scène lorsque Gusman, à qui le créancier demande également de payer ses dettes, imite la sollicitude de son maître envers la famille de M. Dimanche. Cela crée un écho comique, voire satirique, avec les répliques de Dom Juan dont le langage flatteur noble est pastiché par un valet.
 
 
-### Les Fourberies de Scapin
+### Les Fourberies de Scapin.
 
 Champmeslé imite, pour la scène III de l'acte II, la scène VI du deuxième acte des *Fourberies de scapin*. Le procédé et les répliques sont quasiment identiques, mis à part le fait que le juge ne sait rien de Silvestre, qu'il ne tremble pas devant lui, ni ne cède à ses menaces et s'en va chercher de l'aide.
 
 
-## Les scènes composées par Champmeslé
+## Les scènes composées par Champmeslé.
 
 Si les deux premières scènes des *Fragmens* n'ont aucun effet sur l'intrigue, les autres scènes composées par Champmeslé offrent une structure aux fragments empruntés à Molière et assurent leur continuité en les rattachant à la nouvelle intrigue créée. Il s'agit donc principalement des scènes de l'acte II.
 
@@ -225,7 +225,7 @@ Si les deux premières scènes des *Fragmens* n'ont aucun effet sur l'intrigue, 
 Une fois M. Dimanche renvoyé, il reste encore à Gusman la nécessité d'aller raccommoder le désastre causé par Dom Juan et par sa fourberie. Alors que le Juge et Pierrot sont en train de « crier alarme » à la scène VI, Gusman arrive tout juste pour les calmer, à la scène suivante, et leur assurer que Dom Juan ne s'oppose plus au mariage. La pièce s'achève sur le revirement soudain de Pierrot qui qualifie Dom Juan d'honnête homme [20] et va boire à sa santé et à ses frais !
 
 
-## La transformation des personnages de Molière
+## La transformation des personnages de Molière.
 
 Malgré le changement de protagoniste dans *Les Fragmens*, les personnages de Charlotte, Pierrot, Dom Juan et M. Dimanche sont exactement tels qu'ils sont dans les scènes correspondantes du *Festin de Pierre*, excepté le fait que Pierrot est plus intrépide et plus audacieux. Néanmoins, Champmeslé a introduit des changements dans les personnages et a modifié certains de leurs traits.
 
@@ -236,17 +236,17 @@ Le personnage de Gusman est également substitué à celui de Sganarelle. De fai
 Il faut aussi noter l'ajout du personnage de Silvestre que Champmeslé emprunte aux *Fourberies de Scapin*. Comme pour les autres personnages que Champmeslé reprend à Molière, exception faite de Gusman, il apparaît tel qu'il est dans la scène correspondante des *Fourberies de Scapin*.
 
 
-# La réception de la pièce
+# La réception de la pièce.
 
 Comme pour la pièce de Brécourt, *Les Fragmens de Moliere* puise essentiellement son succès de la renommée de Molière. Le public prend, en effet, plaisir à venir voir représentés des fragments d'une pièce qui a été interdite et qui n'a jamais été reprise. La pièce connaît donc un certain succès. Elle est reprise en 1681, 1682, puis réapparaît dans une série de représentations à la Comédie Française où elle est jouée soixante-six fois, restant dans le répertoire jusqu'en 1701.
 
 C'est peut-être l'utilisation faite dans cette pièce des scènes du *Festin de Pierre* qui suggère à la veuve de Molière et ses associés le désir de faire reparaître cette pièce interdite. Molière se voit interdire sa pièce parce que son personnage principal incarne l'impiété, la défiance envers la religion et la morale. L'intrigue représente la damnation qu'attire cette conduite scandaleuse : fable parfaitement morale, puisqu'elle figure le châtiment divin d'un athée. Pourtant, sous ce couvert de moralité, Molière transforme son sujet pour le rendre ambigu, et même provocant : sans modifier la trajectoire de l'intrigue, qui condamne sans ambiguïté la conduite du libertin, il pare son personnage d'une séduction oratoire qui donne quelque poids à ses discours scandaleux ; cependant qu'en face de ce sophiste redoutable, il assigne le rôle de défenseur de la religion à un valet ridicule, naïf et superstitieux. Enfin, Molière ajoute une péripétie originale à l'histoire classique de Dom Juan : on ne s'étonne pas, après la querelle du *Tartuffe*, que cette péripétie soit une attaque violente contre le parti dévot. Il était considéré comme désirable, pour sa veuve de revoir certaines positions du *Festin de Pierre* et de réécrire la pièce en vers, forme habituelle des pièces en cinq actes présentées au public. C'est Thomas Corneille qui produit cette version modifiée et versifiée, utilisant le même titre par lequel la pièce de Molière avait été connue à l'origine.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation du texte
+## Présentation du texte.
 
 Nous connaissons trois éditions des *Fragmens de Molière* du vivant de l'auteur. La première est éditée à Paris chez Jean Ribou en 1682 ; la deuxième se trouve dans *Les Œuvres de Monsieur de Champmeslé*, imprimées à Paris chez Jean Ribou en 1692 ; la troisième se trouve également dans une édition de ses *Œuvres* effectuée en 1696 chez T. Guillain. Il s'agit de recueils factices, il n'y a donc pas de variantes avec l'édition de 1682. On connaît également une édition des *Fragmens de Moliere, comédie par Monsieur de Brécourt*, publiée à la Haye chez Adrian Moetjens en 1682. Il s'agit en réalité de la pièce de Champmeslé, il y a eu confusion avec *L'Ombre de Moliere* de Brécourt.
 
@@ -267,7 +267,7 @@ Bibliothèque nationale de France : Site François Mitterrand : Rez-de-jardin�
 Bibliothèque de l'Arsenal : GD- 527 (2).
 
 
-## Établissement du texte
+## Établissement du texte.
 
 En règle générale nous avons conservé l'orthographe de l'édition originale, à quelques réserves près :
  * nous avons modernisé « ∫ » en « s », et rétabli le « & » en « et » ;
@@ -280,35 +280,35 @@ Cette comédie est entièrement en prose.
 Nous avons constaté une coquille dans la numérotation de la page 9 désignée comme la page 6.
 
 
-## Le problème du Privilège du Roi
+## Le problème du Privilège du Roi.
 
 Il est indiqué, dans la page de titre, que l'édition comporte un *Privilège du Roy*, or, il ne figure aucune trace de ce privilège dans aucune des éditions des *Fragmens de Moliere* consultées. Cependant, Jean Ribou avait un droit de privilège sur l'ensemble des œuvres de Champmeslé, comme il est notifié dans le privilège des *Parisiens*, et il est possible que le privilège n'ait pas été retranscrit pour cette pièce.
 
 
-## Rectifications
+## Rectifications.
 
 
-### Page de titre
+### Page de titre.
 
 Egise corrigé en : Eglise.
 
 
-### Personnages
+### Personnages.
 
 Il manque, dans la liste, le personnage de Silvestre.
 
 
-### Acte I
+### Acte I.
 
 Page 4 : de tant peines corrigé en : de tant de peines / 13 : n'ageant en : nageant ; pasanguenne en : palsanguenne / 16 : angin en : angins / 17 : riban en ribans / 18 : scais en : sçais / 19 : m'aime en : m'aimes / 20 : m'aime en : m'aimes, t'allé en : t'aller, m'aime en m'aimes / 22 : hymur en : hymeur / 23 : Et bien bien va en : Et bien va / 25 : sauvage produire en : sauvage peut produire / n'estes point pour en : n'estes point faite pour / 28 : Et si il en : Et il / 29 : ca en : ça / 32 : t'est en : t'és / 33 : t'escoute en : t'escoutes, morguienne en : Morguienne / 34 : garcon en : garçon / 35 : facon en : façon.
 
 
-### Acte II
+### Acte II.
 
 Page 36 : oh corrigé en : or / 37 : fera en : sera / 38 : qui a-t-il en : qu'y a-t-il / 39 : Et ce n'est en : Eh, ce n'est / 42 : la sang en : le sang / 44 : comment marauts en : Comment marauts / 45 : **pierrot** en : **le juge** / 46 : on void en : on voit / 49 : guére en : guéres / 58 : Et qui a-t-il en : Et qu'y a-t-il, nopce en : noce, lamour en : l'amour, jallons en : j'allons, lallarme en : l'allarme.
 
 
-### Rectifications dans la ponctuation
+### Rectifications dans la ponctuation.
 
 Page 5 : Oüy ? corrigé en Oüy. / 13 : Parsanguenne çay-je en Parsanguenne, çay-je / 14 : gager ; çay-je en gager, çay-je, icy ; çay-je fait morguienne en icy ? çay-je fait ; morguienne, dix sols, que, si, je en dix sols que si ? Je / 15 : justement Charlote comment en justement, Charlote, comment / 18 : à te dire moy. en à te dire, moy. / 23 : donc là Charlote en donc là, Charlote / 24 : Ah la jolie en Ah ! la jolie / 25 : La peste le joly tendron. en La peste, le joly tendron !, Regarde Gusman qu'elle est bien prise. en Regarde, Gusman, qu'elle est bien prise. / 28 : Ah les belles dents, en Ah ! les belles dents, / 30 : Ah que de brüit. en Ah ! que de brüit. / 31 : veux pas moy. en veux pas, moy., notte barbe ; en notte barbe ?, Hein. en Hein ! / 34 : plus que. la en plus que la / 37 : non sera, non sera, vostre Monsieur le Monsieur en non sera, non sera vostre Monsieur, le Monsieur, Ah voicy en Ah, voicy / 43 : Juge. Eh ? en Juge ? Eh ? / 44 : Comment marauts, en Comment, marauts,, bon pied ; bon œil. en bon pied, bon œil. / 45 : oh je me mocque en oh, je me mocque / 46 : là-dessus. J'iray en là-dessus, j'iray / 49 : dedans. Le premier en dedans, le premier / 55 : Mais Monsieur. en Mais Monsieur… / 56 : vous M*r* Gusman ? en vous, M*r* Gusman ? / 58 : Oh pargué vela en Oh, pargué, vela.
 
@@ -335,7 +335,7 @@ Page 5 : Oüy ? corrigé en Oüy. / 13 : Parsanguenne çay-je en Parsanguenne
 JOURDAIN, LIGNON.
 
 
-    LIGNON
+    LIGNON.
 O Amour, que tu agites mon esprit de diverses inquiétudes !
 
     JOURDAIN.
@@ -795,7 +795,7 @@ A Pierrot qui demeure auprés de cheux nous.
     D. JUAN.
 Quoy, Pierrot aura ce bonheur- là ? Pierrot possedera ce tresor ? non, non, vous n'estes point destinée pour Pierrot, un rustique, un vilain ; il vous faut un homme comme moy qui vous fasse brave [70], qui… comment vous appellez-vous ?
 
-    CHARLOTE
+    CHARLOTE.
 Charlote, Monsieur.
 
     D. JUAN.
@@ -923,7 +923,7 @@ J'en avons bian veu d'autres.
     GUSMAN. 
 Eh ! laisse-le faire, mon pauvre garçon, et ne luy dis rien.
 
-    PIERROT *luy donnant un souflet.*
+    PIERROT *luy donnant un souflet.*.
 Je veux luy dire, moy.
 
     D. JUAN.
@@ -941,7 +941,7 @@ Tout de bon, vous tient-elle au cœur ?
     D. JUAN.
 Oüy, Gusman, et je craindrois plus que la mort qu'elle fust querellée par son pere.
 
-    GUSMAN.    [35]
+    GUSMAN.    [35].
 Ecoutez, pour servir vostre passion, vous sçavez que j'ay accoûtumé d'entreprendre bien des choses ; laissez-moy faire, j'ay déja beu avec son pere, et ce sont de ces bonnes gens qui font connnoissance en deux verres de vin. J'imagine une piece assez plaisante pour l'intimider et l'empescher de quereller sa fille. Reposez-vous sur moy ; je luy vay mettre mon camarade en teste [82], et de la façon dont je conduiray la chose, je vous promets de servir vostre amour. Allons seulement faire un doigt de collation.< Fin du premier acte. > 
 
 
@@ -1078,7 +1078,7 @@ Voilà qui vous apprendra à vous oser joüer à moy [92].
     GUSMAN.
 Voilà bien du sang répandu pour une bagatelle. Et bien, Monsieur, vous voyez quel diable d'homme c'est là.
 
-    LE JUGE, *bas.*
+    LE JUGE, *bas.*.
 Oüy, oh, je me mocque de toutes ses menaces.
 
     SILVESTRE.
@@ -1103,7 +1103,7 @@ Je m'en vais un peu consulter ce que j'ay à faire, et si on ne me conseille rie
 La peste soit le vieux fou, il nous va attirer icy quelque défluxion [94] sur les épaules. 
 
 
-### SCENE IV. [95]
+### SCENE IV. [95].
 D. JUAN, GUSMAN.
 
 
@@ -1226,8 +1226,7 @@ En vérité j'en suis fort joyeux, et je vous veux prier de les embrasser tous d
     M*r* DIMANCHE.
 Monsieur, si auparavant vous trouvez bon que nous….
 
-    D. JUAN *repousse insensiblement M. Dimanche jusques à ce qu'il
-                  soit contre la porte* [99], *et puis s'en va.*
+    D. JUAN *repousse insensiblement M. Dimanche jusques à ce qu'il soit contre la porte* [99], *et puis s'en va.*.
 Adieu M*r* Dimanche, que je vous embrasse.
 
     M*r* DIMANCHE.
@@ -1305,14 +1304,14 @@ Le Juge et Pierrot se mettent à crier allarme et au feu tous deux ensemble.
 LE JUGE, PIERROT, GUSMAN.
 
 
-    GUSMAN *leur parlant.*
+    GUSMAN *leur parlant.*.
 Et qu'y a-t-il, Messieurs ? à quoy bon tout ce vacarme ? Vous inquietez-vous ? J'ai tourné l'esprit de mon Maistre tout comme vous le souhaitez ; il ne s'oppose plus à vostre mariage, au contraire il prétend estre de la noce. Il en payera le Festin, et mesme il se retient pour estre le Compere [102] au premier Enfant que vous aurez.
 
     PIERROT.
 Oh, pargué⁎, vela un honneste homme cela. Oh bian vous ly diré pour l'amour de cela que je sommes son sarviteur, et que j'allons décrier l'allarme et boire à sa santé. Venez payer chopaine.< FIN >
 
 
-# GlossaireBaillerUn des archaïsmes qui donne au patois de Pierrot son pittoresque.Pages 21, 33.BarluëBerlue, « éblouissement de la vue par une trop grande lumière ». Dictionnaire
+# Glossaire.BaillerUn des archaïsmes qui donne au patois de Pierrot son pittoresque.Pages 21, 33.BarluëBerlue, « éblouissement de la vue par une trop grande lumière ». Dictionnaire
               François par P. Richelet.Page 14.BouterArchaïsme pour le verbe « mettre », dans le patois de Pierrot et Charlotte. *Bouter à tarre* : mettre par terre. *Se bouter en
                 colére* (page 32) : se mettre en colère. « Vieux mot, qui était autrefois fort
               en usage, comme il paraît par ses composés et ses dérivés, mais qui ne se dit plus que
@@ -1321,7 +1320,7 @@ Oh, pargué⁎, vela un honneste homme cela. Oh bian vous ly diré pour l'amour 
 Il est entendu que ces jurons n'ont plus de sens précis dans les dialogues, où ils servent seulement à mettre l'accent sur une affirmation, à marquer la colère, l'impatience, etc.
 
 
-# Le pastiche du langage paysan
+# Le pastiche du langage paysan.
 
 Champmeslé reprend le procédé du *Dom Juan* où Molière recourt au pittoresque de l'accent et des tournures rurales qui donne sa couleur aux discours de Pierrot et de Charlotte tout au long de l'acte II, ce qui apparaît comme un ressort comique assez simple. Mais, comme le dit Boris Donné, « intégrer cette veine dans les procédés de la comédie n'allait pas de soi. Molière s'est probablement inspiré d'une pièce qu'il appréciait, *Le Pédant joué* (1654) de Cyrano de Bergerac. Une bonne part des effets de cette comédie quasi expérimentale reposait déjà sur les tirades piquantes d'un paysan, Gareau ». Dans cet hommage qu'il rend à Molière à travers *Les Fragmens de Moliere*, Champmeslé réintroduit donc presque à l'identique la célèbre scène entre Pierrot et Charlotte où l'essentiel des procédés comiques mis en œuvre dans le discours passent par la prononciation déformée par le patois, les jurons paysans, les expressions imagées, l'étonnement naïf du rustre devant la mise d'un « Monsieu ». Mais la densité des termes de patois dans le discours de Pierrot ne décourage pas la compréhension, comme c'est le cas du Gareau de Cyrano de Bergerac : Molière a pris soin, en composant le langage des paysans, d'en doser les effets pittoresques afin qu'il soit piquant sans être impénétrable.
 
@@ -1334,10 +1333,10 @@ Du point de vue morphologique, on relève de nombreuses variations sur les forme
 Il faut signaler enfin les formes contractées : *vla* pour *voilà, pû* pour *plus, pis* pour *puis* ; les expressions populaires – expliquées en note – et la présence insistante des jurons variés – cf. lexique. Ces interjections qui ponctuent de façon piquante les discours des paysans sont souvent des déformations de formules blasphématoires.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sur la comédie en France au XVII*e* siècleLa Comédie de l'âge classique. 1630-1715
+## Sur la comédie en France au XVII*e* siècle.La Comédie de l'âge classique. 1630-1715
 Lire la comédie
 A History of French Dramatic Literature in the
                 Seventeenth Century
@@ -1345,7 +1344,7 @@ La Dramaturgie classique en France
 
 
 
-## Sur l'histoire matérielle des théâtresLe Théâtre professionnel à Paris. 1600-1649
+## Sur l'histoire matérielle des théâtres.Le Théâtre professionnel à Paris. 1600-1649
 Le Mémoire de Mahelot, Laurent et autres
                 décorateurs de l'Hôtel de Bourgogne
 Le Théâtre et le public à Paris sous Louis XIV :
@@ -1353,7 +1352,7 @@ Le Théâtre et le public à Paris sous Louis XIV :
 
 
 
-## Ouvrages généraux sur la périodeHistoire de la littérature française du XVII*e* siècle
+## Ouvrages généraux sur la période.Histoire de la littérature française du XVII*e* siècle
 Morales du Grand Siècle
 Œuvres complètes
 L'Intérieur et l'Extérieur. Essais sur la poésie et le
@@ -1361,7 +1360,7 @@ L'Intérieur et l'Extérieur. Essais sur la poésie et le
 
 
 
-## Sur la vie de Brécourt et Champmeslé, comédiens et auteurs de théâtre du XVII*e* siècleDictionnaire du Grand Siècle
+## Sur la vie de Brécourt et Champmeslé, comédiens et auteurs de théâtre du XVII*e* siècle.Dictionnaire du Grand Siècle
 Ecrivains de théâtre. 1600-1649
 Cent ans de recherche sur
                 la vie de Molière, sur sa famille et sur les comédiens de sa troupe
@@ -1371,11 +1370,11 @@ Les Comédiens français du XVII*e*
 
 
 
-## Sur les représentations et les publications des œuvres relatives à MolièreRecueil des textes et des documents du XVII*e* siècle relatifs à Molière
+## Sur les représentations et les publications des œuvres relatives à Molière.Recueil des textes et des documents du XVII*e* siècle relatifs à Molière
 
 
 
-## Sur Brécourt et Champmeslé et la réception de leur pièceGalerie historique des acteurs de théâtre français depuis 1600
+## Sur Brécourt et Champmeslé et la réception de leur pièce.Galerie historique des acteurs de théâtre français depuis 1600
                 jusqu'à nos jours…
 Bibliothèque des théâtres
 Histoire du théâtre depuis son origine jusqu'à
@@ -1383,16 +1382,16 @@ Histoire du théâtre depuis son origine jusqu'à
 
 
 
-## Édition des Œuvres de MolièreLes Œuvres de Monsieur de Molière. Revues, corrigées et augmentées
+## Édition des Œuvres de Molière.Les Œuvres de Monsieur de Molière. Revues, corrigées et augmentées
                 (1682)
 Œuvres complètes
 
 
 
-## Sur la langue
+## Sur la langue.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous
                   les mots françois tant vieux que modernes et les termes de toutes les sciences et
                   ls arts
@@ -1402,7 +1401,7 @@ Dictionnaire françois contenant les mots et les choses,
 
 
 
-### GrammairesSyntaxe française du XVII*e* siècle
+### Grammaires.Syntaxe française du XVII*e* siècle
 Introduction à la langue française du XVII*e* siècle
 
 

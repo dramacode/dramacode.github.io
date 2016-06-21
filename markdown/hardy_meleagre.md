@@ -16,7 +16,7 @@ A PARIS, chez JACQUES QUESNEL, ruë S. Jacques aux Colombes, pres S. benoist M. 
 Édition critique établie par Boucebia Maghda dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000-2001).
 
 
-# Introduction générale
+# Introduction générale.
 
 L'intérêt porté à Alexandre Hardy, oublié ou presque pendant plus de deux siècles, renaît depuis l'étude de Rigal en 1889 [1]. Le nom de Hardy, le fécond dramaturge qui a rempli de ses œuvres innombrables toute la première partie du XVII*e* siècle est le nom d'un personnage à la fois célèbre et inconnu. Les opinions sur ses mérites en tant que dramaturge et sur son importance dans l'évolution du théâtre classique ont été très partagées. Il n'est souvent resté qu'un nom dans l'histoire théâtrale et son œuvre a été malheureusement trop vite oubliée.
 
@@ -25,10 +25,10 @@ De Corneille à aujourd'hui, en effet, on n'a jamais cessé de parler, à interv
 Mais il nous a semblé qu'il était possible de lire Hardy autrement que pour approfondir la connaissance d'un moment de l'histoire littéraire. Hardy n'est pas seulement l'auteur dont les pièces ont contribué à fixer la forme de la tragédie classique. Il existe d'autres raisons que l'histoire littéraire pour s'intéresser au *Théâtre* de Hardy.
 
 
-# L'auteur
+# L'auteur.
 
 
-## La vie d'Alexandre Hardy
+## La vie d'Alexandre Hardy.
 
 Malgré les efforts de ses biographes : Lancaster, Rigal et surtout Deierkauf-Holsboer, Alexandre Hardy semble échapper aux tentatives faites pour bien préciser les détails de sa vie. Les informations que nous avons à son sujet sont souvent l'œuvre de suppositions ou de déductions et les critiques se contredisent entre eux. Nous allons cependant essayer de retracer son histoire.
 
@@ -92,7 +92,7 @@ Une fois disparue la génération qui avait connu Alexandre Hardy, notre dramatu
 En ce qui concerne les publications de notre auteur, Hardy donne au public *Les Chastes et Loyales Amours de Théagène et Cariclée*, composition de huit « poèmes dramatiques » de cinq actes chacun. Il publie entre 1624 et 1628 les cinq tomes de son *Théâtre* contenant un choix de 33 pièces [16].
 
 
-## Hardy et la tradition théâtrale
+## Hardy et la tradition théâtrale.
 
 Au terme de sa longue carrière, Hardy n'hésita pas à se décrire comme « celuy à qui le teatre françois doit son entretien depuis trente ans. » En effet, si Hardy est peu connu pour sa propre œuvre, les critiques se sont mis d'accord pour lui accorder une place relativement importante dans la tradition théâtrale.
 
@@ -118,7 +118,7 @@ Hardy n'avait le loisir ni le souci de faire des efforts de style ; mais il ava
 Premier auteur dramatique professionnel en France, Alexandre Hardy réfléchit davantage en dramaturge : il recherche les effets, les surprises, multiplie les situations et les coups de théâtre.
 
 
-# La réflexion théorique d'Alexandre Hardy
+# La réflexion théorique d'Alexandre Hardy.
 
 À partir des années 1620 s'établit progressivement l'usage de justifier la valeur dramatique d'une pièce dans une préface. Les avertissements au lecteur de Hardy contiennent de précieuses indications sur sa poétique. Il y exprime la conscience aiguë qu'il possédait de la dignité de son art.
 
@@ -149,7 +149,7 @@ Pour Hardy, la recherche de la sobriété du style n'empêche nullement un effor
 Ainsi la poétique de Hardy montre à quel point le modèle ronsardien est omniprésent dans sa dramaturgie.
 
 
-# La datation de Méléagre
+# La datation de Méléagre.
 
 *Méléagre* apparaît dans le premier tome du *Théâtre* de Hardy, publié à Paris chez Jacques Quesnel en 1624 et dont le privilège date du 16 mars 1624 [21]. En 1624, quand Alexandre Hardy publie le premier volume de son *Théâtre*, il était au sommet de sa carrière théâtrale. Des marques de son prestige se multipliaient. Le volume de 1624 eut un grand succès comme l'attestent l'édition pirate et la réédition de 1626.
 
@@ -168,12 +168,12 @@ Rappelons-nous cependant que le tome que nous appelons premier du *Théâtre* de
 Alexandre Hardy a dédié ce premier volume à Henri II, duc de Montmorency qui était encore jeune à l'époque et qui bénéficiait d'un crédit immense. Ami des lettres et des écrivains, il a protégé entre autres Théophile et Jean Mairet. La dédicace ne semble rien n'avoir apporté de particulier à Hardy à tel point que Rigal affirme : « comment le duc répondit-il à ses éloges ? Par une gratification et ce fut tout ; Hardy ne vint pas accroître le nombre des gens d'esprit qui formaient la Cour de l'hôtel de Chantilly [24]. »
 
 
-# Sources et influences
+# Sources et influences.
 
 *Méléagre* se trouve au carrefour de plusieurs influences. En effet, si Alexandre Hardy emprunte ses sujets de tragédie à l'antiquité classique, le modèle de Sénèque et du théâtre de la Renaissance trouve plusieurs échos dans notre pièce.
 
 
-## Ovide et Apollodore
+## Ovide et Apollodore.
 
 Pour l'histoire de Méléagre, Hardy n'a pas adapté la version d'Homère (*Iliade*, 1, IX, v. 533-600) mais celle toute différente qu'a établie Ovide dans ses *Métamorphoses* (I, VIII, v. 260-547) [25].
 
@@ -203,7 +203,7 @@ Apollodore dans la *Bibliothèque* (Chapitre 8 § 64 à 73) nous raconte égalem
 Apollodore n'évoque seulement l'histoire de Méléagre comme une anecdote. Etant donné qu'Alexandre Hardy ne reprend aucun trait caractéristique de cette version nous ne pouvons affirmer qu'il ait emprunté quoique ce soit à cet auteur.
 
 
-## La source sénéquienne
+## La source sénéquienne.
 
 Au XV*e* siècle les manuscrits des tragédies de Sénèque se multiplient. On commence à redécouvrir cet auteur antique. Le modèle sénéquien est également présent chez Hardy.
 
@@ -225,10 +225,10 @@ Hardy emprunte à son modèle latin les passages obligés de la tragédie : le 
 De même, la sentence d'Atalante aux vers 269-270 « Cloton mire plutôt la personne couarde/ Que celle qui sans crainte au péril se hazarde » n'est qu'une adaptation du vers 159 de *l'Hercule Oeta* « fortuna fortes metuit ignavos premit ». Ainsi, Hardy accumule des procédés sénéquiens. En effet, l'érudition mythologique dont fait preuve Hardy était déjà un procédé cher à Sénèque. Une autre figure de la rhétorique de Sénèque se retrouve chez Hardy : elle consiste à énumérer toutes sortes de phénomènes qui devraient se passer avant que le personnage accomplisse tel ou tel acte, comme aux vers 996-98 « Phoebus lors ira naître où va mourir le jour… » qui n'est qu'une motivation pour montrer la détermination du personnage.
 
 
-## Les modèles modernes : Ronsard et Garnier
+## Les modèles modernes : Ronsard et Garnier.
 
 
-### Ronsard
+### Ronsard.
 
 Alexandre Hardy a souvent été présenté par la critique d'une manière plus ou moins violente comme un « ronsardisant attardé ». En effet, Hardy suit Ronsard sur de nombreux points. Pour nous rendre compte de l'influence de Ronsard sur notre auteur, il suffit de se rapporter au chapitre « Style et rhétorique » de notre étude où de nombreux exemples montreront comment Hardy se place comme l'héritier de Ronsard et de la tradition de la Pléiade. C'est sous ce patronage qu'il refuse toutes les innovations des Malherbiens. Dans *Méléagre*, Hardy suit les préceptes de Ronsard :
 
@@ -255,7 +255,7 @@ Au bas, le frontispice nous rappelle le nom de l'éditeur et le lieu de la publi
 Une grande partie de la gravure reprend les différents éléments d'un recueil d'emblèmes : on retrouve la muse de la tragédie, Melpomène, les héros antiques, le trône, la couronne, le sceptre qui sont l'apanage des rois, héros de tragédie. D'autre part, Alexandre Hardy révèle la diversité de sa production à travers les deux scènes de pastorale et l'allusion évidente à la tragédie. La trompette de la renommée ainsi que les spectateurs évoquent le succès de la pièce de théâtre vue dans son rapport avec le public. La fonction du frontispice est donc double : Alexandre Hardy y révèle la diversité de ses productions et y insère son œuvre dans une tradition tragique bien définie.
 
 
-### Garnier
+### Garnier.
 
 L'autre influence française que subit Hardy est celle de Robert Garnier. En effet, grand admirateur de Grévin et de Garnier, Hardy ne pratique l'art dramatique que parce que c'est celui qu'ont adopté ses prédécesseurs.
 
@@ -269,10 +269,10 @@ Nous trouvons donc chez Hardy plusieurs traits caractéristiques du style de Gar
 Cependant, nous ne nous étendrons pas trop sur l'influence de Garnier sur Hardy et sur la manière dont il l'a été car ce propos fera l'objet d'une partie postérieure de notre étude consacrée à la dramaturgie de Hardy.
 
 
-# Le sujet de Méléagre
+# Le sujet de Méléagre.
 
 
-## Méléagre vu par Aristote, Castelvetro et La Mesnardière
+## Méléagre vu par Aristote, Castelvetro et La Mesnardière.
 
 Le sujet de Méléagre a été étudié par des critiques illustres tels qu'Aristote, Castelvetro et La Mesnardière qui ne se sont pas accordé sur sa valeur.
 
@@ -298,7 +298,7 @@ Tout est grand, tout est magnifique dans cette illustre avanture. (…) Il faut 
 Voyons maintenant ce qu'a fait Alexandre Hardy de cet illustre sujet.
 
 
-## L'intrigue
+## L'intrigue.
 
 Avant de développer le sujet de la pièce d'Alexandre Hardy, il semble nécessaire de nous replacer dans un contexte mythologique particulier.
 
@@ -309,7 +309,7 @@ C'est dans son contexte de terreur que se situe le début de la pièce.
 Voyant son pays dévasté par les ravages de la bête et face aux plaintes du peuple et des paysans, Méléagre décide d'organiser la chasse du sanglier de Calydon. Il demande l'aide des héros grecs avec lesquels il a conquis la toison d'Or et promet de donner tous ses biens, sa couronne comprise à celui qui le débarrasserait de cet animal monstrueux. Thésée, Pirithois, Lyncée et Idmon sont prêts pour la chasse. Ce groupe s'agrandit avec l'arrivée de Plexippe et Toxée, les deux oncles du roi et d'Atalante la jeune vierge guerrière désireuse de gloire. La présence de cette femme à la chasse amuse particulièrement les héros grecs et notamment Thésée qui lui fait des compliments ironiques sur ses prétentions guerrières. La chasse est organisée et le sanglier est tué : Atalante a blessé le sanglier d'une première flèche et Méléagre a achevé l'animal d'un second coup. De retour de la chasse, Méléagre laisse à Thésée le loisir de distribuer les récompenses. Thésée donne le prix au roi et en second lieu à Atalante. Après une discussion plus ou moins animée, le trophée de la victoire qui n'est autre que la peau de l'animal, est attribué à Atalante. Cette préférence marquée pour une femme offusque les oncles jaloux qui vont lui reprendre le lot [39]. Atalante fait plainte au roi de cette brutalité. Méléagre qui est tombé amoureux de la jeune vierge lui promet de venger cette offense. Il appelle ses oncles et leur demande de rendre le trophée à Atalante et de lui présenter leurs excuses. Devant le refus de ses oncles, Méléagre, dans un excès de fureur, les tue et demande à Atalante de l'épouser. Indignée de cet acte, Althée, la mère de Méléagre qui ne nous a jamais été présentée jusqu'ici, repoussant les conseils de sa nourrice, décide de faire périr Méléagre et jète au feu le tison fatal auquel était attaché le destin de son fils [40]. La scène se transporte dans la chambre de Méléagre où au sortir d'une nuit d'amour avec Atalante, il sent ses entrailles consumées par ce brasier caché. On vient annoncer à la reine la mort de son fils. Althée apprend cette nouvelle avec une joie extrême et annonce sa mort imminente. Mais si elle décide de mourir ce n'est pas parce qu'elle regrette son acte mais parce qu'elle se sent incapable de vivre sans ses frères.
 
 
-## La structure de la pièce
+## La structure de la pièce.
 
 La pièce de Hardy suit le même découpage que celle du théâtre humaniste. Si les critiques ont trouvé que la pièce manquait d'unité c'est parce qu'ils n'ont pas compris sa structure et sa mise en scène et qu'ils l'analysaient avec les critères du théâtre classique. Althée, comme nous l'avons déjà vu n'est présenté par Hardy qu'au cinquième acte de la pièce. Dans le théâtre humaniste, il est rare que l'on voie la totalité des personnages dans le premier acte, qui n'est fréquemment constitué que d'une seule et même scène. Ainsi, l'acte I et II forment l'exposition. À l'acte I, alors que Méléagre se décide à demander l'aide des Argonautes ni le nom d'Atalante ni celui des oncles de Méléagre ne sont prononcés. Au second acte, la chasse se prépare, les héros grecs plaisantent Atalante et paradoxalement Plexippe et Toxée se taisent. On remarque une absence totale de tension dans ces deux actes. L'acte III commence poétiquement par le chœur de filles implorant Diane de les aider, et finit sur une atmosphère de vague mésentente. Certains héros grecs ainsi que Plexippe et Toxée ne comprennent pas pourquoi Méléagre tient autant à offrir le trophée de la victoire à Atalante. Rigal reproche à Hardy d'avoir retiré Atalante de la scène dans ce troisième acte, seulement pour « se garder de la matière pour le quatrième acte » [41]. Car en effet, si Atalante avait été là, elle aurait accepté la hure, Plexippe et Toxée se seraient révoltés et Méléagre les aurait tués. Ainsi Rigal trouve le quatrième acte inutile. Mais c'est au quatrième acte que la tension est extrême. Plexippe et Toxée arrachent le lot à Atalante, et Méléagre tue ses oncles.
 
@@ -322,7 +322,7 @@ En ce qui concerne la mise en scène, Alexandre Hardy reprend des éléments du 
 De plus on a souvent reproché à Hardy le manque d'unité thématique de la pièce. En effet, on a souvent dit que si la vengeance est le thème principal de la pièce, Alexandre Hardy ne l'introduit qu'au quatrième acte. Néanmoins n'est ce pas oublier que la pièce n'a de raison d'être que par rapport à la vengeance d'une déesse dont Alexandre Hardy développe les méfaits dans les premiers actes de sa pièce ?
 
 
-## Méléagre : un sujet d'époque
+## Méléagre : un sujet d'époque.
 
 Autour de Hardy, l'histoire de Méléagre intéressa plusieurs dramaturges.
 
@@ -517,10 +517,10 @@ Sur les jeux qu'en ton nom je consacre à jamais !
 On voit que le véritable génie de notre auteur réside dans le fait que ce dramaturge fertile a inspiré énormément d'auteurs. De nombreux sujets qu'il a remis au goût du jour sont repris et remaniés par ses successeurs. Alexandre Hardy a été une grande source d'inspiration pour les dramaturges à venir.
 
 
-# La dramaturgie de Hardy
+# La dramaturgie de Hardy.
 
 
-## Une dramaturgie de la rupture
+## Une dramaturgie de la rupture.
 
 Les tragédies de Hardy demeurent conformes en bien des points à la tragédie régulière dont Garnier avait fixé le type. Se présentant comme un héritier de Garnier et de Grévin, Hardy conserve une partie des théories dramatiques de la Renaissance et en modifie une autre partie.
 
@@ -572,7 +572,7 @@ De plus, Raymond Lebègue affirme « que les amoureux dans ce théâtre ne sont
 Il annonce donc des éléments appelés « baroques » par les théoriciens littéraires du XX*e* siècle mais il inclut en même temps des caractéristiques qu'on qualifiera plus tard de « classiques ».
 
 
-## Alexandre Hardy et les unités
+## Alexandre Hardy et les unités.
 
 Alexandre Hardy n'est ni pour ni contre les règles. Tout en les connaissant il ne s'est jamais posé véritablement le problème. Hardy n'affronte pas directement la question des trois unités. Il se contente d'exprimer l'exigence d'une construction soignée. Ainsi toute pièce de théâtre doit obéir à un ordre rigoureux. Alexandre Hardy a souvent été considéré comme un irrégulier à tel point que Sainte-Beuve affirme que :
 
@@ -600,13 +600,13 @@ Si nous devions imaginer la décoration de *Méléagre* sur scène nous situerio
 À la différence des classiques qui bénéficient d'un corps de doctrines constituée et explicitée, ce qui nuit à la dramaturgie de Hardy c'est qu'elle n'a que sa réalité interne pour se défendre et que de ce fait la tentation a toujours été grande de la mesurer à l'aune des critères qui n'étaient pas les siens, faisant aussi bien conclure à l'absence de principes et de règles d'un théâtre qui en a en revanche beaucoup.
 
 
-# Thèmes et personnages
+# Thèmes et personnages.
 
 
-## Méléagre ou le triomphe de la vengeance
+## Méléagre ou le triomphe de la vengeance.
 
 
-### La violence : une thématique d'époque
+### La violence : une thématique d'époque.
 
 Les tragédies d'Alexandre Hardy attestent le goût du public théâtral dans le premier tiers du XVII*e* siècle, pour les représentations de la violence, de l'horreur et de la cruauté.
 
@@ -634,7 +634,7 @@ Mais en même temps qu'un goût du public, cette dominante du crime, de l'horreu
 Ainsi Alexandre Hardy, dramaturge de son temps, résiste rarement au plaisir de représenter les actions violentes plutôt que de les raconter. La violence est présente dans *Méléagre*. En effet, l'action de la pièce est fondée sur le meurtre à l'intérieur d'une famille : Hardy accentue la violence car le crime coïncide avec le meurtre de personnages de même sang. La pièce se termine sur une scène dans laquelle la mère dénaturée qui a tué son fils, pleure la mort de ses frères et se voue au suicide.
 
 
-### La vengeance
+### La vengeance.
 
 Mais plus que la violence c'est le thème de la vengeance qui occupe une place de premier plan dans le théâtre européen des XVI*e* et XVII*e* siècles. La vengeance est le thème principal de *Méléagre*. En effet, c'est parce qu'Oenée avait oublié de donner des sacrifices à Diane lorsqu'il offrait les prémices de ses récoltes à toutes les divinités qu'elle envoya contre son pays un sanglier d'une taille extraordinaire.
 
@@ -661,7 +661,7 @@ De plus, chez Hardy, on devient criminel parce qu'on perd la raison. Méléagre 
 Ainsi, la vengeance occupe une place de premier ordre dans notre pièce d'autant qu'elle n'est vaincue par aucun sentiment plus fort.
 
 
-## L'érudition mythologique et l'accumulation des métaphores
+## L'érudition mythologique et l'accumulation des métaphores.
 
 Élève d'une école savante mais pressé par l'importance de sa production et par le temps, Alexandre Hardy apporte à son théâtre les réminiscences de certains sujets, thèmes et procédés qu'il a dû lire dans les textes antiques.
 
@@ -717,7 +717,7 @@ Ainsi, dans *Méléagre*, la foudre est le symbole de la colère de Diane. Tout 
 Par ces images, Alexandre Hardy nous révèle ses talents de poète.
 
 
-## Sur les caractères des personnages et leurs passions
+## Sur les caractères des personnages et leurs passions.
 
 Le caractère des personnages de Hardy est plus ou moins développé en fonction de leur rôle et de leur utilité dans la pièce.
 
@@ -759,10 +759,10 @@ Quant à la nourrice elle est le double et l'ombre des personnages féminins. La
 Ainsi la pièce repose entièrement sur le jeu des passions : la passion amoureuse s'oppose d'abord à la jalousie puis au devoir d'un roi et enfin d'une soeur. Les passions telles que la jalousie, la vengeance et la colère sont donc largement représentées dans notre pièce.
 
 
-# Style et rhétorique
+# Style et rhétorique.
 
 
-## Un style jugé « archaïque »
+## Un style jugé « archaïque ».
 
 La langue, le style et la versification de Hardy ont été vivement attaqués de son vivant. On les disait négligés, surannés et sans délicatesse. Dans sa thèse, Eugène Rigal ajoute : « Ce dramaturge est un fort mauvais écrivain » et renoue par-là avec une critique énoncée depuis les années 1620.
 
@@ -775,7 +775,7 @@ Mais si le style de Hardy a souvent été considéré comme archaïque, il sembl
 Au niveau de la syntaxe, Hardy affronte le même problème. Il publie trop tard. En effet, aux tournures permises par la grammaire très libre du XVI*e* siècle, Hardy ajoute celles d'un latiniste acharné : propositions infinitives, adjectifs mis pour des adverbes, participes employés de façon absolue. En même temps, l'auteur pratique des ellipses de toute sorte : y compris de l'article, du pronom sujet, d'un élément de la négation. Les appositions embarrassées, les périodes interminables rendent quelquefois son style singulier. La lecture de *Méléagre* est d'autre part rendue très difficile par une pratique presque systématique de l'inversion des mots. De plus, la mise en place de l'exposition, la décision d'entreprendre la chasse, et la présentation des personnages est complexe. Plus tard le style se simplifie. Toutes ces violences faites aux conventions syntaxiques du français ont sans doute contribué à la réputation d'obscurité qui a suivi pendant de longues années Hardy. La maladresse des imprimeurs de l'époque ajoute parfois aux difficultés du texte. Quelquefois nous restons devant de véritables énigmes.
 
 
-## Style poétique
+## Style poétique.
 
 Cependant dans ses dédicaces, ses avis au lecteur et dans sa *Berne* c'est surtout son style poétique qu'Alexandre Hardy défendait avec insistance et véhémence même. En ce qui concerne la versification de *Méléagre*, toute la pièce est écrite en alexandrins, à rimes plates, avec alternance de rimes masculines et féminines, comme c'est l'usage. Hardy reste sourd aux réformes de Malherbe. Il lui arrive parfois de faire rimer des mots apparentés (v. 83-84 : humain et inhumain) et des homophones (v. 987-88 premier et premier). Il ne se prive pas non plus de quelques rimes banales ou faciles. L'hiatus se rencontre quelquefois.
 
@@ -807,14 +807,14 @@ Par cette alliance oxymorique Plexipe évoque l'idée qu'un grand événement fa
 D'autre part, l'allusion mythologique continuelle s'inscrit également dans une dynamique interne : il s'agit presque toujours de trouver aux épreuves, aux sentiments et aux choix des personnages, des équivalents divins ou héroïques qui en multiplie et en magnifie la valeur.
 
 
-## Les sentences
+## Les sentences.
 
 Comme ses prédécesseurs, Alexandre Hardy atteste le goût du public et des auteurs pour les sentences. Quand ils publiaient leurs pièces, les dramaturges du XVI*e* siècle avaient soin d'attirer l'attention du lecteur sur les sentences qu'ils prisaient tellement. Ils faisaient donc précéder les vers sentencieux par des guillemets initiaux qui indexaient certains vers susceptibles d'être extraits du texte et retenus pour leur portée générale. Pour Alexandre Hardy, on ne saurait se fier totalement à ce signe pour identifier toutes les sentences. En effet, d'autres maximes de la pièce ne sont indiquées par aucun signe typographique. Comme Pierre de Laudun d'Aigailiers l'avait annoncé dans son *Art Poëtique françois* « Il faut qu'en la tragédie les sentences… soient fréquentes », Alexandre Hardy dans son avis au lecteur du cinquième tome du *Théâtre* évoque la nécessité de la présence de sentences dans l'oeuvre dramatique. Il recommande donc : « Un grave mélange de belles sentences qui tonnent en la bouche de l'acteur, et résonnent jusqu'en l'âme du spectateur. »
 
 On peut classer les sentences de *Méléagre* en cinq catégories : les rois, les grands sentiments, l'ambition, la place des petits par rapport aux grands et les considérations d'ordre général.
 
 
-### Les rois
+### Les rois.
 
 De l'empire des Roys, qu'il couronne et dépose. (v. 118)  
 Quiconque à ce sujet refuse le trépas,  
@@ -823,7 +823,7 @@ Trahit le nom de Roy qu'il ne merite pas.
 Méléagre justifie ainsi la valeur de ses actes par les devoirs qui incombent à un roi. Cette conception de l'héroïsme amène également à une réévaluation de la mort. Issue tragique par excellence, la mort est un acte de courage que le héros peut accepter en vue d'un bien supérieur.
 
 
-### Les grands sentiments
+### Les grands sentiments.
 
 La vertu :
 
@@ -844,7 +844,7 @@ Et apres le pardon ne hait son ennemy. (v. 1199-1200)
 La sentence rejoint ici un but didactique. Elle a évidemment une valeur morale et contribue à enseigner les grands sentiments.
 
 
-### L'ambition
+### L'ambition.
 
 Cloton mire plutost la personne coüarde,  
 Que celle qui sans crainte au péril se hazarde. (v. 269-70)  
@@ -854,7 +854,7 @@ Quand elle vient à bout d'un exploit difficile. (v. 273-74)
 Dans ces maximes, Atalante tend à prouver à ses compagnes son ambition : elle est très désireuse de ceindre son front du laurier de la victoire.
 
 
-### Les petits par rapport aux grands
+### Les petits par rapport aux grands.
 
 Les plus petits buissons par fois portent ombrage. (v. 397)  
 De son superieur on tolère l'injure,  
@@ -864,7 +864,7 @@ Un respect envers eux observe de plus dire. (v.  914)
 Ces sentences font allusion à la politesse et à un certain sens de la hiérarchie. On respecte les personnes socialement supérieures. L'attribution du lot à Atalante est sentie comme une faute, une incivilité de l'inférieur au supérieur.
 
 
-### Les considérations générales
+### Les considérations générales.
 
 Le sage sçait user d'un modéré compas,  
 Et jamais à l'envie il ne sème d'appas,  
@@ -878,7 +878,7 @@ Cette sentence est une preuve dans un discours qui se veut argumentatif. C'est e
 Ou encore : « une vierge ne doit chérir que le repos » (v. 272).
 
 
-# Établissement du texte : les différentes éditions de Méléagre
+# Établissement du texte : les différentes éditions de Méléagre.
 
 Du vivant de Hardy sont parues trois éditions de *Méléagre*. On va les appeler A, B et C.
 
@@ -893,10 +893,10 @@ C est la seconde édition parisienne du *Théâtre* (tome I) de Jacques Quesnel 
 Mais après une comparaison des différents volumes du premier tome du *Théâtre* de Hardy, nous allons nous rallier à la seconde hypothèse qui a été émise sur ce volume C', par Alan Howe [61]. En fait, il s'agit d'un exemplaire hybride qui est composé d'éléments des deux éditions parisiennes. En effet, les feuillets liminaires (le titre vignette, le faux titre qui précède toutes les pièces, l'argument de la tragédie de *Méléagre* et la liste des acteurs) sont ceux de l'édition de 1626 mais le reste du volume contient le texte de 1624. « C' » est donc un exemplaire factice et supplémentaire du premier tome du *Théâtre* de Hardy.
 
 
-# Présentation du texte : description des volumes
+# Présentation du texte : description des volumes.
 
 
-## Volume A daté de 1624
+## Volume A daté de 1624.
 
 XXXII I frontispice qui représente dans sa partie supérieure une reine assise sur un trône et tenant d'une main un sceptre, de l'autre la trompette de la renommée ; aux deux côtés deux scènes de pastorales ; au-dessous une assemblée de spectateurs avec cette épigraphe : « Aux charmes de sa voix la grave Melpomoenes ! / De l'obscur tombeau les vertueux rameine. »
 
@@ -955,7 +955,7 @@ BNF (réserve YF 4461)
 Arsenal (8° B.L. 12646 rés et RF 6223)
 
 
-## Volume B daté de 1625
+## Volume B daté de 1625.
 
 X I LE THEATRE / D'ALEXANDRE / HARDI, PARISIEN. / CONTENANT, / DIDON, se sacrifiant. / SCEDASE, ou l'hospitalité violée / PANTHEE. / MELEAGRE. / PROSCRIS, ou la jalousie infortunée. / ALCESTE, ou la fidelité. / ARIADNE, Ravie. / ALPHEE, Pastorale nouvelle. / Marque gravée de Herman et Kof Wormen : deux enfants et une couronne  / A FRANCFORT, / Par HERMAN, & KOF WORMEN, / freres, nouvellement, associez. / M. DC. XXV.
 
@@ -982,7 +982,7 @@ P. 181-233 *Méléagre.*
 PARIS : Arsenal (RF 6222)
 
 
-## Volume C daté de 1626
+## Volume C daté de 1626.
 
 XXX I frontispice.
 
@@ -1035,7 +1035,7 @@ P. 213-271 La pièce.
 PARIS : BNF (Réserve YF 2974)
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Le texte de cette édition reproduit celui de l'impression de 1624 comme il est d'usage et d'autant plus que l'édition *princeps* a peut-être comme le suggérait Rigal, un très léger avantage sur celle de 1626. En effet, c'est ce volume qu'ont connu la plupart des lecteurs contemporains de Hardy. Car à en juger par la rareté des exemplaires qui ont survécu de l'édition de 1626, le tirage en fut bien moins important que celui de l'originale. Nous reproduisons donc l'édition *princeps* avec les modifications suivantes :
 
@@ -1060,7 +1060,7 @@ Où devient ou : v. 25, v. 110, v. 133, v. 171, v. 243, v. 260, v. 307, 
 L'orthographe des noms propres et des noms communs varie dans le texte. Nous avons respecté l'orthographe de l'édition originale y compris dans ses variations orthographiques.
 
 
-# Les variations entre les différentes éditions
+# Les variations entre les différentes éditions.
 
 L'orthographe est libre au XVII*e* siècle. On comprend donc ainsi les variations orthographiques d'une édition à l'autre. Les variations de ponctuation, d'accentuation sont fort nombreuses dans les trois éditions de notre texte ;
 
@@ -1069,7 +1069,7 @@ Dans l'édition pirate de 1625, les frères Wormen transforment le « é » en
 La seconde édition parisienne accumule les changements de ponctuation par rapport à l'édition *princeps*. Elle ajoute des tildes, la double consonne se simplifie, le « i » devient « y » et le tréma tend à disparaître.
 
 
-## Liste des coquilles de l'édition de 1624 que nous avons corrigées
+## Liste des coquilles de l'édition de 1624 que nous avons corrigées.
 
 V. 83 employe
 
@@ -1088,7 +1088,7 @@ V. 737 soffrons
 V. 972 une autre cypris
 
 
-## Édition de 1625
+## Édition de 1625.
 
 Nous donnons ici les leçons manifestement erronées de l'édition de 1625 que nous n'avons pas retenues parmi les variantes.
 
@@ -1133,7 +1133,7 @@ V. 1168 ou
 V. 1244 encores
 
 
-## Édition de 1626
+## Édition de 1626.
 
 V. 40 à la raison
 
@@ -1201,7 +1201,7 @@ DIANE offensée du mépris qu'Oenée, [63] pere de Meleagre &Roy de Calydon, avo
  – MESSAGER.
 
 
-## ACTE I
+## ACTE I.
 MELEAGRE, ARISTANDRE, CHŒUR DE PEUPLE, TROUPE DE PAYSANS, I VENEUR.
 
 
@@ -1429,7 +1429,7 @@ Honteux qu'une si basse, & brutale victoire,
 Profane la valeur des fils de Jupiter,  
 Mais le destin nous veut jusques-là mal-traiter.  
 
-    ARISTANDRE
+    ARISTANDRE.
 Un prince vertueux n'obscurcit sa loüange,  
 Où [116] la necessité à ce party le range,  
 D'employer les amis capables reconnus,  
@@ -1828,7 +1828,7 @@ Jusqu'à la fin du monde honorent ce bien-fait,
 Mais quelqu'un survenu sçait notre destinée,  
 Bonne ou mauvaise, ainsy que la chasse aura fait.   
 
-    MESSAGER. [180]
+    MESSAGER. [180].
 Citoyens, qu'on éleve un long io⁎ de joye,  
 Le monstrueux sanglier demeure notre proye,  
 Une brave pucelle, & la valeur du Roy,  
@@ -1987,7 +1987,7 @@ Où [205] qu'il n'est question que d'une beste prise,
 Sujet indigne à ceux qui dessous le Dieu Mars,  
 Foulent mille lauriers plus beaux en mille parts.  
 
-    PIRITHOIS. 
+    PIRITHOIS.
 La vertu ses effets n'exerce moins entiere,  
 Dessur⁎ l'une jamais que sur l'autre matiere,  
 Où la difficulté se compare au danger,  
@@ -2608,7 +2608,7 @@ ALTÉE, NOURICE, MELEAGRE, ATALANTE, IDMON.
 ALTÉE, NOURICE.
 
 
-    ALTÉE. [253]
+    ALTÉE. [253].
 Implacables fureurs, que redoute l'Averne [254],  
 A ma plainte quitez votre horrible caverne,  
 Qu'une trêve aujourd'huy relâche le tourment,  
@@ -2708,7 +2708,7 @@ Retire-toy d'icy, je pardone à ton âge,
 O pitoyables Dieux, rendez-luy la raison,  
 Saine, & sauve, gardant la Royale maison.  
 
-    ALTÉE *seule.*
+    ALTÉE *seule.*.
 Seule, libre, qui n'as d'obstacle à l'entreprise,  
 Immuable⁎, poursuy ta conclusion prise,  
 Arrache à l'inhumain la lumiere du jour,  
@@ -2939,12 +2939,12 @@ Où dans peu, votre düeil precipite mes pas,
 Car de vivre sans vous, m'est pis que le trépas [270].  
 
 
-# Glossaire
+# Glossaire.
 
 Ce glossaire ne prétend pas être exhaustif. Il ne contient que les mots qui risquent de présenter des difficultés au lecteur moderne, qu'ils soient sortis d'usage, qu'ils aient subi des changements de sens depuis l'époque de Hardy. Les chiffres arabes renvoient aux vers de la pièce.AboisAboiementV. 512Rendre les aboisMourirV. 908AdoncAlorsV. 428 ; 549 ; 755AilleursD'autre partV. 400 ; 534AinsOu plutôtV. 746AllégeanceSoulagementV. 1181AmbageLe détour ; l'ambage de ses mots : ce discours voiléV. 1203AmollirDiminuer, attendrirV. 38AmorceAttraitV. 917AnimeuxFurieux, acharnéV. 1181ApparoirProduire preuveV. 982ApparenceVraisemblanceV. 235AppasAttraitV. 796AppendreSuspendre, offrir en hommage, consacrerV. 695Ardente deBrûlant de, désirant ardemmentV. 409ArtificeAdresse, habilitéV. 43AssembléeMot à la mode selon Huguet dans le sens de chasseArgument.AssenéFrappé, atteintV. 537AsseuranceSécuritéV. 492 ; 1134AsseuréSe trouvant à l'abri, qui offre la sécuritéV. 395AspicPoisonV. 747AucunQuelqu'unV. 106 ; 308AucunefoisQuelquefoisV. 656AvenirAdvenirV. 1068Bauge« Terme de chasse : lieu où repose le sanglier, ou d'autres bestes mordantes, qui est ordinairement sale et bourbeux » Furetière.V. 171 ; 369BénigneBienveillanteV. 5BraveOrgueilleux, insolent, rudeV. 158BriguerSolliciterV. 657ButinerPrendre en butin, détruireV. 945Capable deDigne deV. 38 ; 584CelantCachéV. 171ChefTêteV. 290 ; 304 ; 455ChetifMalheureuxV. 73 ; 707ClinEn un clin d'œilV. 1142CœurVolonté, courage, déterminationV. 168CommeCommentV. 1249CompasMesure, marche régulière, harmonieV. 795 ; 1184CompasserMesurer, réglerV. 500Continüe, à la continüeD'une façon continue, à la longueV. 150Coup, à coupImmédiatement, d'un seul coupV. 1152 ; 1235CrépuluFrisé, crépuV. 374Creve-cœurDépit, douleur, déplaisir, regretV. 662DardJavelot, arme de trait qui est un bois ferré et pointu par le bout que l'on jette avec la mainArgument, V. 51 ; 260 ; 391 ; 448 ; 525 ; 551DePar suite deV. 726Au sujet deV. 302DebileFaibleV. 273 ; 873 ; 1221DeçeuTrompé, abuséV. 731Défaut (troisième personne de l'indicatif présent du verbe défaillir)Faire défautV. 1219 ; 1231DéitéDivinitéArgument, V. 45 ; 286 ; 372 ; 483DefaireTuerV. 174 ; 306DefaitTuéV. 631DepartirDistribuer, donner V. 976DerechefDe nouveauV. 215 ;  251DésDepuisV. 77DésisterCesser, renoncerV. 213 ; 431DésormaisÀ l'avenirV. 607 ; 861 ; 1023MaintenantV. 121 ; 293 ; 1022 ; 1051DessererLancer, envoyerV. 541DessurAu dessus de, surV. 6 ; 341 ;370 ; 590 ; 622 ; 640 ; 772 ; 809 ; 860 ; 886 ; 970 ; 982 ; 1004 ; 1014 ; 1126DeversVersV. 298 ; 439DiffameDeshonneur, honteV. 24DispenserPermettre de faire quelque chose contre le droit communV. 1065DisperserDistribuerV. 183 ; 585DiveDéesseV. 38ÉbatPasse temps, divertissementV. 163 ; 404BatailleV. 594Écumeuse rageManifestation de la rage par l'écume qui vient aux lèvresV. 258Émulation« Sentiment qui pousse à vouloir égaler ou surpasser quelqu'un généralement par des actions louables » Dictionnaire de l'Académie ; terme qui vient du latin Aemulatio : « rivalité » V. 145 ; 361EnchargéOrdonné, être chargé deV. 208EncocherAttacher, fixerV. 533À l'endroit de quelqu'unÀ l'égard de quelqu'unV. 746ÉpoindrePiquer, exciterV. 529 ; 1152ErresTraceV. 341 ; 434EsEn lesV. 166 ; 213EspancherRépandreV. 461S'étonnerÊtre frappé de stupeurV. 538ExorableQui ne peut être fléchi par des prières, clémentV. 696FaceVisageV. 374FacondeÉloquenceV. 185Faveur*En faveur de* : appuyé contreV. 535FereBête sauvageV. 718FierFéroce, barbare, cruel (du latin ferus : sauvage, féroce)V. 90 ; 464 ; 760FléchibleFlexibleV. 3FourvoyerS'écarter de la routeV. 344Franc, cheLibre, exemptV. 303FranchiseLibertéV. 109FroisserBriser, rompreV. 51Front, en frontEn face, de frontV. 528FumeuxSujet à la colère, violent, irritableV. 531FunereuxFuneste, de mauvaise augureV. 23 ; 1112 ; 1134FuseauPetit morceau de bois tourné en rond qui sert à filer et à tordre le fil.V. 225GermainFrèreV. 712 ; 1012 ; 1048 ; 1087GésirÊtre situé, reposerV. 173Être mortV. 579GradeRang, dignitéV. 734 ; 903 ; 1024GuerdonRécompenseV. 666 ; 824 ; 919GuerdonnerRécompenserV. 749Gueret« Terre que l'on avoit laissé reposer et qu'on a fraîchement labourée pour l'ensemencer la même année »V. 104HazardDanger, périlV. 180HazarderFaire courir un danger à quelqu'unV. 141 ; 270HeurBonheur, bonne fortuneV. 787 ; 1189 ; 1226Terme affectifV. 1159Heure, à même heure, à l'heureAlorsV. 670 ; 742 ; 1145HomicideMeurtrierV. 536 ; 1109 ; 1123 ; 1186Meurtrière (adj.)V. 394 ; 479HostieVictimeV. 212HureLa tête d'un sanglier, et par extension la peau de l'animalArgument ; V. 157 ; 537 ; 689 ; 993ImmuableÉternelV. 828Résolument obstinéeV. 1098ImpétrerObtenirV. 958ImpieuxImpieV. 131 ; 1076ImpiteuxImpitoyable, cruelV. 494ImpolluPur, non souilléV. 326ImpudenteInsolente, effrontéV. 837IndustrieHabilité, adresse de faire quelque travailArgument ; V. 30 ; 137Industrieuse : V. 786InjurieuxInjuste, nuisibleV. 971InjustementV. 316InférerImposerV. 833Influer« Communiquer insensiblement et par une efficace secrette, ses qualités bonnes ou mauvaises à un autre sujet » FuretièreV. 332InstruitsConnusV. 171IoTraduction de l'exclamation grecque ‘iw, interjection exprimant la réjouissanceV. 489IreColèreV. 964 ; 1170IrrépassableQu'on ne peut repasser en parlant du fleuve des enfersV. 265JàDéjàV. 324 ; 443 ; 731Jacoit queQuoiqueV. 606Joint queOutre que, en outreV. 617JugalConjugalV. 572LiesseJoieV. 1034LorsAlorsV. 996 ; 997LosLouange, éloge, gloireV. 235 ; 646 ; 954 ; 1080LoyerSalaire, récompenseV. 1020ManiaqueFouV. 715ManieFolieV. 391 ; 465 ; 939 ; 1049MarinierMarinV. 127MâtinVilain, homme grossierV. 1016MéchefMalheur, accident fâcheuxV. 252 ; 303 ; 477 ; 1124MercyGrâce, miséricordeMignardeMignonne, gracieuse, délicateV. 785MineManièreV. 545MirerViserV. 269MoissonnerRecueillir, amasserV. 201MolesteTriste, pénible, funesteV. 86 ; 318NeNiV. 342 ; 343NefNavireV. 334 ; 1174Obvier (à)Rencontrer, empêcher, éviterV. 773OcasionSujet, motif, raisonV. 143OcieuxOisif, inactif, tranquilleV. 1100 pas même sensOccireTuerV. 124 ; 1079OeconomieConduite sageV. 589Onc, oncques, onquesJamaisV. 143 ; 241 ; 498 ; 637 ; 839 ; 845 ; 856 ; 941 ; 942 ; 1041 ; 1083 ; 1199OpiniâtreEntêté, obstinéV. 295OraisonDiscours, proposV. 40Or, ore, oresMaintenantV. 71 ; 146 ; 208 ; 302 ; 337 ; 459 ; 505 ; 700 ; 826 ; 974 ; 1043 ; 1183 ; 1251OutrageInjustice, excès de violenceV. 725 ; 867 ; 1046Outrageux, euseViolent, meurtrier, nuisibleV. 26 ; 1015ViolemmentV. 918OutreDavantageV. 19 ; 799PaillardeCoquine, débauchéV. 861 ; 1014ParangonModèleV. 1118Paravant (que)Avant (que)V. 423 ; 680 ; 728Parfaire (participe passé parfait)AcheverV. 1036ParricideMeurtrier d'un proche parentV. 1005 ; 1244Peine (à)C'est à peine siV. 950PensementVieux mot selon Furetière pour pensée.V. 92PerleuseSemblable aux perlesV. 683PernicieuseDangereuseV. 289Phoenix« Se dit figurément quand on veut louer quelqu'un d'une qualité extraordinaire et dire qu'il est l'unique de son espèce » FuretièreV. 246 ; 426PiqueurMoissonneurV. 512PlacableClémentV. 1206PlêgerGarantir, assurerV. 346 ; 1110PlusieursUn plus grand nombreV. 91Plus outreDavantageV. 799PoilCheveuV. 374PoluProfané, atteint d'une souillure moraleV. 1047PossiblePeut êtreV. 85 ; 149 ; 282 ; 495 ; 778PoudrePoussièreV. 522Premier (adverbe)D'abordV. 202 ; 855Premier (adjectif)SupérieurV. 987Premier (verbe)RécompenserV. 988Premier queAvant queV. 85 ; 174 ; 252 ; 832Presse, en presseÀ la hâteV. 766PrincipeCommencementV. 787ProdigieuxMonstrueuxV. 175PropiceFavorableV. 286 ; 1029FavorablementV. 1253PropiciableFavorableV. 211QualitéRang social, conditionV. 1027Quartanier« De quatre ans » HuguetV. 156QuerirChercherV. 1105RancœurRancuneV. 58RegarderFaire en sorte, avoir soin deV. 425RendreDevenirV. 68RetiverHésiter, résisterV. 1105Rets« Filet, lacis de plusieurs cordes jointes ensemble par plusieurs noeuds qui laissent de grandes ou petites mailles » FuretièreV. 51 ; 392Révoquer en douteRemettre en douteV. 331 ; 593SalutaireQui contribue au salut, à la conservation de l'âmeV. 78SauvetéEn sûreté, hors de dangerV. 70ServiceCulteV. 106SinistreMalveillant, défavorableV. 1219Si queSi bien que, de sorte queV. 103 ; 299 ; 523 ; 613SoinSouciV. 170 ; 451SoulasPlaisir, joieV. 1179Spelonque (spelunca)Caverne, grotteV. 444SusInterjection servant à exhorter : allons !V. 449 ; 700 ; 788 ; 850 ; 1105 ; 1119TacitementSilencieusementV. 1168TanOrthographe normale chez Hardy pour taonTestCrâneV. 537TirasserTirailler, tirer avec force et violenceV. 944Tout, du toutTout à faitV. 1029TremeurFrayeur, tremblementV. 936Tressaut (troisième personne du présent de l'indicatif du verbe tressaillir)Être surpris, agité par quelque mouvement violent qui vient tout à coupV. 1232TrousseCarquois rempli de flèchesV. 373TutelaireQui a pris en sa protection quelque choseV. 504Vaguer sans égardAller deçà de là sans considération de personneV. 179VaillanceGrandeur de courage, valeurArgument ; V. 349 ; 651VindicteVengeanceV. 1066ViperePoisonV. 747VistementRapidementV. 1167
 
 
-# Appendice 1 : florilège des « meilleurs » jugements sur Hardy
+# Appendice 1 : florilège des « meilleurs » jugements sur Hardy.
 
 C'est surtout son expression rocailleuse et aussi son goût pour des situations jugées choquantes, que l'époque classique trouvera inadmissibles en Hardy, tout en rendant hommage à son sens théâtral. Nous voyons par ce florilège que trois siècles plus tard les points de vues de la critique n'ont pas beaucoup changés.
 
@@ -3002,32 +3002,32 @@ L'image que Hardy nous a laissé entrevoir à travers ceux de ses écrits où il
 Hardy ignore complètement le souci de bienséance : on se bat et on se tue sur son tréteau. Tout est énorme dans ses drames, les passions y sont effrénées et se frayent une voie à travers les flots de sang, sur des monceaux de morts. C'est un monde noir qui accumule tous les procédés susceptibles d'ébranler les nerfs du public : trahison, empoisonnements, adultère, meurtres, suicides. Rien n'est épargné à la sensibilité et à la vue du spectateur. (Carla Federici [296].)
 
 
-# Appendice 2 : « Au lecteur » du tome 1
+# Appendice 2 : « Au lecteur » du tome 1.
 
 Je sçay, Lecteur, que mon histoire Etiopique, toute monstrueuse des fautes survenuës en sa première impression, fit faire une mauvaise conséquence de mes autres ouvrages à certains Aristarques, et nommément à ces frélons qui ne servent qu'à devorer le miel des escrits d'autruy, ne pouvants d'eux-mêmes rien mettre dehors, que l'aiguillon de la médisance. Je me serviray contre eux du privilège d'une loy militaire, qui permet au soldat, ne pouvant plus fuir, de mettre l'épée à la main contre son Capitaine, comparant tels censeurs à ceux qui sans joüer, contrôlent, et remarquent hardiment les fautes commises sur le jeu, mais qui ne joüent jamais, où faute d'argent, où crainte de perdre : ainsy leurs calomnies mordent impunément sur la réputation des gens d'honneur, à faute de donner prise sur eux, d'autant que telles tortuës ne mettent jamais la teste hors la coque de leur ignorance. Condamner un livre à son ouverture est paroistre indigne de sa lecture, et montrer plus de passion que de jugement : aussy les meilleurs juges ne sont pas ordinairement les plus severes, et si la prudence ne guide en telles actions, la même perfection ne se treuvera qu'imparfaite : un Appelle rencontrera mille faquins, disposez à contrôler ce qu'ils doivent admirer : Non pas, Lecteur, que je te vueille nier icy, ce que j'avoy là ingenuëment confessé ; beaucoup de défectuositez, pardonables à une jeunesse impetüeuse, qui ne tâchoit en ce tems là, qu'à se sauver à la nage, des griffes de celle, qui le plus souvent dévore les meilleurs esprits. Quant au chois de ces dernières fleurs que je donne à ta curiosité, l'envie y treuvera possible plus de résistance, ton goust plus d'apétit, et ma juste douleur quelque allégeance en ton contentement. Ma Didon presque entièrement imitée du Poëte Latin, au moins te prépare le plaisir de conférer sa version avec celles des autres : Et la diversité des sujets qui la suivent, comme du tout miens, montreront ce que j'ay pû seul ; les Choeurs y sont obmis comme superflus à la représentation, et de trop de fatigue à refondre. J'ayme mieux te repaître encor de l'espérance de quelque dernier mets, autant digne de ta bienveillance que du service de l'Auteur.
 
 
-# Appendice 3 : « Au lecteur » du tome 2
+# Appendice 3 : « Au lecteur » du tome 2.
 
 La vérité plus que la vanité m'oblige à t'avertir, amy Lecteur, que l'avarice de certains Libraires fait couler sous mon nom une rapsodie de Poëmes intitulez *Le Theatre François*, que je ne desavoüe par mespris, et ne puis avoüer pour mon honneur : ton jugement susceptible de plus grandes difficultez en sçaura faire la distinction, et ce mot d'avis m'acquittera vers le public.
 
 
-# Appendice 4 : « Au lecteur » du tome 3
+# Appendice 4 : « Au lecteur » du tome 3.
 
 L'honneur et la vérité m'obligent d'avertir le Lecteur par forme d'Apologie, que l'Oracle de ce grand Ronsard, dans une sienne Elegie à Grevin, s'acomplit de nos jours, & que la Poësie passe desormais chez quelque autre nation plus judicieuse, & moins ingrate que la nostre : car l'aparence de retenir davantage les Muses chez nous, après les avoir dépoüillées, & réduites à telle pauvreté, qu'à peine se peuvent elles servir de quelques paroles affectées, qui passent à la pluralité des voix, par le suffrage de l'ignorance, pour déplorer nostre folie, et leur misere. L'excellence des Poëtes d'aujourd'huy, consiste en la profession que faisoit Socrate, (mais plus à propos qu'eux) de ne rien sçavoir ; qu'ainsy ne soit, examinons la tyrannique reformation que les principaux d'entr'eux veulent faire, & que des Arbitres sans passion, jugent après, s'il est licite de détruire les principes d'une Sçience pour la réformer en perfection : Leur première censure condâne entièrement les fictions, ainsy que superflues, au lieu qu'une infinité de belles conceptions s'y raportent, et se fortifient en leur apuy : les Epitetes, les Patronimiques, la recherche des mots les plus significatifs, et propres à l'expression d'une chose, tout cela ne leur sent que sa pédanterie : les rithmes pour lesquelles ils font tant de bruit, ce sont eux qui les observent le moins, aussi se veulent elles puiser dans une source plus profonde. Si bien que nostre langue, pauvre d'elle même, devient totalement gueuse en passant par leur friperie, & par l'alembic de ces tymbres félez. J'aprouve fort une grande douceur au vers, une liaison sans jour, un choix de rares conceptions, exprimées en bons termes, & sans force, telles qu'on les admire dans les chef-d'oeuvres du sieur de Malherbe ; mais de vouloir restreindre une Tragédie dans les bornes d'une Ode, où d'une Elégie ; cela ne se peut ny se doit, non plus que se rendre passioné partisan de Montagne, pour mettre en usage ces mots de propreté, politesse, & autres, plutost que suivre l'autorité d'Amiot qui dit, polissûre, & propriété, de meilleure grâce. Nos champignons de rimeurs, trouvent étrange aussy, qu'en Poëmes si laborieux, & de longue étendüe que les Dramatiques, je face dire aux personnages, exclus, perclus, expulsez, sans pouvoir au demeurant trouver une seule rime licencieuse, où forcée : mais lors que ces venerables censeurs auront pû mettre au jour cinq cens Poemes de ce genre, je croy qu'on y trouvera bien, autrement à reprendre non que la qualité ne soit icy preférable à la quantité, & que je face gloire du nombre qui me déplaît ; au contraire, & à ma volonté que telle abondance défectueuse, se pût restreindre dans les bornes de la perfection. La force de leur calomnie m'a contraint de prendre ce bouclier plus que suffisant d'en rabattre les coups : quiconque au surplus s'imagine que la simple inclination dépourvûe de sçience puisse faire un bon Poète, il a le jugement de travers, & croiroit à un besoin que le corps pût subsister sans âme, attendu que la Poésie s'anime des plus rares secrets de toutes les sciences, comme les oeuvres d'Homère, & de Virgile en font foy, esquelles n'apartient qu'aux esprits solides, et capables d'assoir un jugement diffinitif, sur la controverse de laquelle, il s'agit icy.
 
 
-# Appendice 5 : « Au lecteur » tome 4
+# Appendice 5 : « Au lecteur » tome 4.
 
 Aucun ne doit trouver estrange, si à l'exemple d'un pere qui semble naturellement obligé de quelque préférence d'affection vers les enfants qui luy ressemblent le plus, je donne un droit de primogéniture contre l'ordre, à ce dernier volume qui vient de sortir au jour, Veu que les precedents me font rougir de la honte des Imprimeurs, ausquels l'avarice fist trahir ma réputation, estans si pleins de fautes, tant à l'ortographe, qu'aux vers, que je voudrois de bon coeur en pouvoir effacer jusques à la mémoire. Au regard du dernier, un Imprimeur digne de sa profession, te le rend, Amy Lecteur, outre qu'il consiste d'une élite de poëmes soigneusement élabourez, aussi correct que le peut souffrir la première presse : bref que sa diligence contribuant à mon labeur, le donne au public, capable de contenter les plus difficiles, sinon de l'esprit au moins de la veuë, ou possible de tous les deux. Car jaçoit que Paris excelle en nombre d'Imprimeurs, qui ne le cedent à aucuns de l'Europe ; cela n'empesche que beaucoup de passe-volants : Et de ma part j'ayme mieux que mon livre sans autre circonspection soit bien imprimé à Roüen, que mal à Paris : Certain que l'expérience heureuse à quiconque honorera celui-cy d'une lecture sérieuse, le range à mon party, veu que nulle transposition notable, nul sens perverty, et nulles obmissions d'importance ne démembreront le corps de l'ouvrage, me faisant souffrir la peine de la coulpe d'autruy. S'estendre au surplus davantage, sur ce qui concerne les particularitez du plus grave & laborieux poëme de tous, ne sentiroit qu'une repetition autant ennuieuse que superflüe, à ceux qui en ont desja veu mon sentiment ailleurs : outre qu'il vaut mieux taire les loüanges que sa profession, que donnant trop de carriere à la vanité, s'usurper une tyrannie sur la liberté du jugement public, duquel tout homme bien sensé doit attendre sa réputation.
 
 
-# Appendice 6 : « Au Lecteur » du tome 5
+# Appendice 6 : « Au Lecteur » du tome 5.
 
 Je t'useroy volontiers, Lecteur, en ce qui regarde ma profession, de la confidente repartie que Phocion fit au peuple Athenien, lors qu'il s'affirma être celuy que l'Oracle avoit dit resister seul à tous les autres en l'administration de la République : & sçache que l'honneur me tient icy lieu d'un cas de conscience, pour désabuser ces crédules qui reçoivent en la carrière des Muses, ceus qui n'y peuvent disputer que le pris de l'ignorance, composé pour eux d'une couronne de chardons ; désordre provenant, à mon avis, de ce que selon l'humeur Françoise, une infinité de cerveaus mal-faits attribuent la perfection des choses à leur nouveauté, et n'en poisent les mérites qu'à la balance d'une faveur autant inique qu'imprudente : pour preuve de mon dire, la Tragédie, qui tient rand du plus grave, laborieus, & important de tous les autres Poëmes, & que ce grand Ronsard feignoit de heurter crainte d'un naufrage de réputation, se traite aujourd'huy par ceux qui ne virent seulement jamais la couverture de bons livres, qui sous ombre de quelques lieus communs pris & apris en Cour, se présument avoir la pierre philosophale de la Poësie & que quelques rimes plattes entrelacées de pointes affinées dans l'alembic de leurs froides conceptions feront autant de miracles que de vers en chaussant le coturne : d'autres aussi, que l'on pourroit nommer excremens du Barreau, s'imaginent de mauvais Advocats pouvoir devenir bons Poëtes en moins de temps que les champignons ne croissent, & se laissent tellement emporter à la vanité de leur sens, & des louanges que leur donne la langue charlatane de quelque écervelé d'Histrion, que de là ces miserables corbeaux prophanent l'honneur du Theâtre de leur vilain croacement, & se présument être sans apparence ce qu'ils ne peuvent jamais espérer avec raison, jusqu'à bâtir s'il étoit possible sur les ruines de la bonne renommée de ceux qui ne daigneroient avouer de si mauvais écoliers qu'eus. Or afin que peu de lignes te crayonnent et répètent mon sentiment sur les parties esquelles consiste la perfection de la Tragédie, & pour môntrer combien ces mauvais Archers tirent loin du but, je diray que le sujet de tel Poëme faisant comme l'âme de ce corps, doit fuir les extravagances fabuleuses, qui ne disent rien, & détruisent plutôt qu'elles n'édifient les bonnes moeurs ; que le vray stile tragique ne s'accorde nullement avec un langage trivial, avec ces delicatesses effeminées, qui pour châtouiller quelque oreille courtisane mécontenteront tous les experts du métier ; que quiconque se soumet en tel ouvrage aux tyrannies de nos derniers censeurs, déchet du privilège de la venerable antiquité luy donne pour en venir à son honneur ; que la disposition ignorée de tous nos rimailleurs regle l'ordre de ce superbe Palais, qui n'est autrement qu'un labyrinthe de confusion, sans issüe pour ces monstres d'Auteurs : la grace des interlocutions, l'insensible douceur des digressions, le naïf rapport de comparaisons, une égale bienséance observée, et adaptée aux discours des personnages, un grave mélange de belles sentences qui tonnent en la bouche de l'acteur, & résonnent jusqu'en l'âme du spectateur : voilà selon ce que mon foible jugement a reconeu depuis trente ans pour les secrets de l'art, interdits à ces petits avortons aveuglez de la trop bonne opinion de leur suffisance imaginaire. Et s'ils t'objettent que mes écrits franchissent souvent la borne de ces beaux préceptes, la veuë, au pis aller, fera foy qu'entre six cens Poëmes, & plus de ce genre, aucun ne s'égare tant du bon chemin que le plus poly des leurs, pourveu qu'un arbitre capable & sans passion vueille prononcer là dessus. Paye-toy, Lecteur, de ces raisons comme de bon aloy, et qui furent de mise entre ces plus renommez Grecs, Latins, et Italiens, qui eleverent jadis le Théâtre au trône de sa perfection, sans t'amuser à l'apparence extérieure de ces inventions bizarres & chimériques à la mode ; autrement tu imiteras ces petits enfants, qui estiment plus la pienture pour peinture d'une pirouete, que les plus vives couleurs & les plus beaux traits du meilleur original de Michel Ange. Quant à moy, cette consolation du sage Athénien, me demeure, que ces foibles cervelles qui m'auront autrefois condamné en l'accès de leur phrenesie, m'absoudront une jour de leur resipiscence ; outre que ceux à qui la dépravation du goût fait trouver mes viandes mauvaises, seront quittes pour les laisser à de moins difficiles, & plus judicieux, qui m'en sçauront gré.
 
 
-# Appendice 7 : Lettres Poliarque et Darmon sur les mesdisances de l'autheur du theatre
+# Appendice 7 : Lettres Poliarque et Darmon sur les mesdisances de l'autheur du theatre.
 
 A PARIS
 
@@ -3044,7 +3044,7 @@ M. DC. XXVIII
 Avec permission…
 
 
-## Lettre a Poliarque
+## Lettre a Poliarque.
 
 Poliarque, je croy que vous aurez sceu ce que je viens d'apprendre. L'autheur du Theatre est allé jusques dans le Palais faire un proces par escrit a certains Advocats qu'il accuse de s'estre divertis à ses despens : mais son accusation est si pleine d'injures qu'elle ne peut estre bien receue. Je me suis imaginé que ce paquet s'addresse à vous, c'est le premier messager de vostre gloire, et sans doute qu'il a travaillé bien inutilement, si son dessein n'a pas esté de l'augmenter. Je ne scay si vous devez ou parler ou vous taire, le silence en ce cas tesmoigne ou peu de sentiment ou beaucoup de timidité. Son animosité qui persécute vostre réputation s'affoibliroit assez sans defence pour cette premiere atteinte, mais il faut empescher que ses mesdisances n'aillent plus avant et n'obligent vostre plume a votre honneur toutes les fois que vous ferez paroistre les avantages que vous avez de la Nature. Il faut estre comme l'Echo, qui ne parle jamais qu'on luy parle, mais qui ne se peut taire, quand on l'attaque. On croiroit qu'il veut monstrer sa franchise en ses censures, s'il ne passoit auz outrages, mais son stile marque sa passion et son vieil age fait voir que le vin et la vie s'aigrissent facilement estant au bas. Les 3 grandes vertus ne seront jamais sans jalousie, quoy que le Soleil face moins d'ombre sur la terre, plus il est haut monté : mais comme la flamme s'estouffe par sa propre fumée, j'ay peur pour vostre Censeur que la gloire de ses ouvrages ne s'obscurcisse en son envie. Un bon courage parle librement mais sans aigreur ny mesdisance : et si son âge luy donne une plus grande licence de parler, il ne s'en doit pas rendre indigne par la calomnie. Il a peut estre leu qu'on voit rarement un grand esprit sans quelque meslange de folie et par cette raison il a pensé donner une marque du sien dans son extravagance : et d'autant que les plus sages font souvent les plus grandes fautes, il a voulu monstrer de la sagesse dans son erreur, en quoy cet autheur a fait voir qu'il estoit capable de leurs defauts et non de leur vertu. Quand il vante ttes ses pièces, il me semble ouyr un homme qui a beaucoup navigué sans arriver à un port, et lorsqu'il esleve ses 600 poemes sur le vostre, il me souvient de la Renarde d'Esope qui faisant beaucoup de petits, reprochoit à la Lyonne qu'elle ne faisoit qu'un : non dit-elle mais c'est un lyon.
 
@@ -3055,7 +3055,7 @@ Il blasme cette grande affluence de pensées et conclut de là contre la bonté 
 Si la France maintenant venoit à produire de l'or comme au Pérou on ne laisseroit pas d'en user bien qu'on n'en eust point encore veu : et si l'Autheur du Theatre n'aime pas les nouveautez que diroit-il donc de ces nouvelles Estoiles d'Eloquence dont le premier miracle est de paroistre plus vivement au jour que mille lumières qui prennent tiltre de Soleil ? Si l'on eust pris son conseil la Digue asseurement estant une nouveauté seroit encore à faire à la Rochelle. En fin pour conclure, c'est une loy générale qu'il faut observer les loix du pays ou l'on est : mais nous ne sommes pas Romains ny Romans, nous escrivons à Paris, on y parle assez bien, sans emprunter un idiome estranger. Et à dire vray, les Escrits de vostre Censeur ont quelques teintures de doctrine. Mais ils ressemblent auz médailles que l'on chérit plus pour ce qu'elles marquent des antiquitez que pour leur propre beauté ; mais je suis trop long ; brisons-là : j'ay peur de vous charger d'ennuy en me deschargeant de mes pensées : Damon vostre plus intime, et que j'aime autant que moy mesme, voudroit sçavoir vostre sentiment sur un si beau sujet. Thyrsis et Alcidon, que la fréquentation fera toujours recognoistre pour de très bons esprits attendent cela de vous et ne sont pas d'advis que vous laissiez toucher vos roses à ces mains profanes sans les picquer. La gloire vieillit assez tost, sans la laisser en proye à la passion de nos censeurs. Ce critique injurieux dont la haine se porte jusqu'à ceux qui chantent vos louanges, les ayant apprises de la vérité, feroit parler de sa victoire par vostre silence, ou vos Escrits luy feront céder le prix à ceuz qui le méritent mieux que luy. »
 
 
-## Lettre a Damon
+## Lettre a Damon.
 
 Damon, je scay bien que la Nature mesme donne point assez de forces pour resister aux passions qui nous suivent toujours, à qui mesme nos propres sentimens permettent bien souvent l'entrée et le gouvernement de nos âmes. Puisque l'Autheur du Théâtre est homme : du moins puisqu'il en a la figure, il est aussi subject aux communs defauts, et aux mouvements d'affection ou de haine qui prennent leur diverse naissance dans le commencement et la suitte de nos ages. Je m'estoit imaginé jusques icy que la vieillesse ne consumoit les forces du corps qu'à dessein de donner à l'esprit celles que la jeunesse luy refuse contre l'attainte des passions : mais ce vieux Autheur de qui la plume et les actions se conduisent au gré de l'Envie m'en fait treuver une expérience contraire dedans l'excès de ses folles extravagances, où j'apprends que les racines d'un poil grison sont vertes bien souvent. Cette maladie est quelquefois incurable et sa médecine est en la raison qu'elle ne peut souffrir. Toutefois qu'y feroit-on s'il est extravagant ou fol, cela luy vient de la Nature, de qui les défauts et les vices sont plus forts que toutes sortes de remèdes. La suitte confuse de ses paroles mal arrangées, et le désordre d'un jugement qui ne peut nuire qu'à son autheur, donnent contre luy un asseuré tesmoignage de son envie, et me fournissent de raisons pour te confirmer ce que je t'en ay dict.
 
@@ -3084,7 +3084,7 @@ Indigna theatris
 Scripta pudet recitare et nugis addere pondus.
 
 
-# Appendice 8 : Compaignie & promesse entre Srs Alexandre Hardy, poete, et Francoic Le Messier, et Nichollas Prudhomme (extrait des Archives départementales des Bouches du Rhône)
+# Appendice 8 : Compaignie & promesse entre Srs Alexandre Hardy, poete, et Francoic Le Messier, et Nichollas Prudhomme (extrait des Archives départementales des Bouches du Rhône).
 
 Marseille, 9 octobre 1620.
 
@@ -3095,7 +3095,7 @@ Fait et publié audict Marseille (…)
 A. Hardy, Le Messier, dit Bellerose, Robin Simon Ferru, Prudomme, Galian, Le Messier, Gautier, Damoiseau, dit de Grandmont, Trinquier et moi Honnoré Torcati, notaire royal à Marseille soussignés.
 
 
-# Appendice 9 : La Berne des deux rimeurs de l'Hostel De Bourgongne. En forme d'Apologie contre leurs Impostures. (M. DC. XXVIII.)
+# Appendice 9 : La Berne des deux rimeurs de l'Hostel De Bourgongne. En forme d'Apologie contre leurs Impostures. (M. DC. XXVIII.).
 
 Deux bonnets carrez qui ne couvrent pas la moitié d'une bonne cervelle, en guise de veaux qui s'entrelèchent, ou plutost de mâtins qui abboyent à la Lune a cause qu'elle leur semble trop claire, faute d'occupation dans le Palais, ou l'on se lie aussi peu à leur langue qu'à leur plume, d'autant que personne n'ayme gueres à perdre sa cause en ce temps cy, ont depuis peu pour faire montre de la pièce entière de leur malicieuse ignorance invectivé contre l'honneur de celuy auquel la voiz commune de la France donne ce mesme pris de loüange qu'Euripide et Seneque meriterent jadis de leurs nations. Ce couple de jeunes harpies s'entend donc piqué dans la Preface de son dernier Tome, bien qu'il ne les creust pas au monde, comme la colere des lyons n'a jamais des lievres d'objet, a tant vomy d'injures pueriles, qui ne sentent que le fouët, avec lequel on renvoye leurs pareils à l'ecole pour apprendre à se taire ou à mieux parler, qu'enfin la patience échappée à l'un de ses amis l'oblige à repartir, et par l'examen de leurs Lettres farcies d'impudence et de calomnies faire avouer à leurs partisans mesme que, si tous les asnes portaient croupieres, les compagnons auraient le derriere bien ecorchés. Pour mettre donc le premier de ces jeunes éléphant dans la Berne (car tous deux n'y pourroient pas  tenir à la fois) le commencement de sa Lettre donne un messager à la gloire de celuy qui en fut et sera tousjours incapable, sans considérer que toute privation présuppose quelque possession passee : erreur irremessible : si d'avanture il ne luy vut imposer l'épithète des Barbiers, comprendre ici une presomptueuse opinion de soy mesme, avec la gloire qui récompense les belles actions, defendues à tels Erostrates, qui se pensent immortalisés à mettre le feu dans ce sacré Temple, où la Memoire ainsi que meres des Muses conserve aux siens une place d'heureuse recommendation chez la postérité. Mais à quel titre pretendroit ce miserable Ecrivain de trois jours un paquet venant de si bonne part ? veu l'antipatie de ses rimes avec cette vierge qui n'en sçauroit souffrir l'impureté, non plus que la punaisie de son nez-camus qui serviroit au besoin de retrait en temps contagieux pour faire un préservatif en alenant ses infectes vapeurs. L'apparence qu'un soldat qui ne montra jamais que les talons à l'ennemy prétende que d'estre dégradé des armes en suitte du morion ? Qui vid jamais un superbe edifice à celuy qui ne l'a connue qu'en qualité de mortel ennemy, indigne de sa moindre faveur ? En ce cas le messager désavoué s'achemina chargé à vuide, ou avec une lettre en blanc pour se moquer de celuy qui l'attendait sans la meriter. La gloire ou plutost presomption de ce mechant rimailleur est son ignominie en ce qu'elle sert d'allumette au feu de sa ridicule vanité et de chandelle à éclairer ses folies. Sa plume ne luy est que l'aiguillon mortel de la vipere, qu'il faut retrancher avec la teste pour en faire un contrepoison. A trois lignes de là, son venerable Encomiaste faisant l'Orateur moderne, dit que l'on persecute sa reputation, comme s'il parloit de la persecution des Chrestiens sous Diocletian. Un peu apres il use de cette belle rethorique, & *n'obligent votre plume a votre honneur toutes les fois que vous ferez paroitre les avantages que vous avez de la Nature.* Qui ne void icy une cervelle estropiée, exprimant avec une obscurité prodigieuse la faiblesse de son sens, & ces avantages de la Nature ne se peuvent bonnement appliquer qu'aux louanges de quelques belles garces, dont la hantise est plus fréquente à ces messieurs que celle du Palais, où ils n'ont que faire. Ecoute, lecteur, une admirable comparaison qui suit, *Il faut estre comme l'Echo,etc.* Les plus ignorans sçavent qu'Echo qui n'est qu'une repercussion de voix aux lieux caves et souterrains, represente hieroglitiquement. Ces babillards, qui parlent tousjours sans rien dire, chose que habile homme desire et conseille d'imiter. A luy permis, puis qu'il ne peut faire autrement. Apres comme un chien qui mord la pierre qu'on luy a ruee ne pouvant faire pis, il emprunte une autre comparaison du Cabaret ou il preside d'ordinaire avec ses complices, disant que le vin et la vie s'aigrissent estans au bas. Mais son vilain tonneau qui ne fut jamais plein que d'un lie d'ignorance a cette aigreur dès le premier jour & il en faudroit faire de la gravetee pour l'oster. Ce falot fait en suite du Soleil ne plus ne moins que d'un homme monté sur quelque Dromadaire, ignorant que le mot d'elevation est celuy des Astronomes. A mesme temps, pour grater la rongne de son camarade, il dit craindre pour son Censeur ; mais don Dieu, que sçauroit-on censurer sur celuy qui ne lit jamais rien digne de venir en la bouche & a la veue des hommes ? Quelle mere prendra le meilleur gibboyeur du monde s'il n'a sur soy que tirer ?
 
@@ -3154,16 +3154,16 @@ FIN.
 *In Audaces non est audacia tuta*.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Approche générale
+## Approche générale.
 
 
-### Sources et théories théâtrales
+### Sources et théories théâtrales.
 
 
-#### Textes anciensLa Poétique
+#### Textes anciens.La Poétique
 La Bibliothèque d'Appolodore
 La Pratique du théâtre
 La Poëtique
@@ -3174,17 +3174,17 @@ Oeuvres complètes de Pierre de Ronsard
 
 
 
-#### Théories théâtrales modernesIntroduction à l'analyse des textes classiques
+#### Théories théâtrales modernes.Introduction à l'analyse des textes classiques
 Esquisse d'une histoire de la tragédie française
 Lire le théâtre
 Lire le théâtre II
 
 
 
-### Dictionnaires et manuels de langue
+### Dictionnaires et manuels de langue.
 
 
-#### Instruments bibliographiquesL'Ère baroque en France : « répertoire chronologique de l'édition des textes littéraires »
+#### Instruments bibliographiques.L'Ère baroque en France : « répertoire chronologique de l'édition des textes littéraires »
 Critical bibliography of french literature
 Bibliographie de la littérature française du dix-septième siècle
 Bibliographie der Französischen literatur wissenschaft
@@ -3193,38 +3193,38 @@ Bibliographie d'éditions originales et rares d'auteurs français des quinzième
 
 
 
-#### Dictionnaires de langueLe Français classique : lexique de la langue du dix-septième siècle
+#### Dictionnaires de langue.Le Français classique : lexique de la langue du dix-septième siècle
 Dictionnaire de l'Académie Française
 Dictionnaire universel
 Dictionnaire de la langue française du seizième siècle
 
 
 
-#### Manuels de syntaxe et de grammaireGrammaire du français classique
+#### Manuels de syntaxe et de grammaire.Grammaire du français classique
 Syntaxe française du dix-septième siècle
 Introduction à la langue du XVII*e* siècle
 Grammaire de la langue française du dix-septième siècle
 
 
 
-#### Dictionnaire de mythologieLe Who's who de la mythologie
+#### Dictionnaire de mythologie.Le Who's who de la mythologie
 Dictionnaire de la mythologie grecque et romaine
 Le Petit Robert, dictionnaire universelle des noms propres
 Le Grand dictionnaire historique ou le mélange curieux de l'histoire sacrée et profane
 
 
 
-## Études sur la littérature et le théâtre des XVI*e* et XVII*e* siècles
+## Études sur la littérature et le théâtre des XVI*e* et XVII*e* siècles.
 
 
-### Études anciennesBibliothèque du théâtre français depuis son origine, contenant un extrait de tous les ouvrages composés pour ce théâtre, depuis les mystères jusqu'aux pièces de Pierre Corneille, une liste chronologique de celles composées depuis cette dernière époque jusqu'à présent, avec deux tables alphabétiques, l'une et l'autre des pièces
+### Études anciennes.Bibliothèque du théâtre français depuis son origine, contenant un extrait de tous les ouvrages composés pour ce théâtre, depuis les mystères jusqu'aux pièces de Pierre Corneille, une liste chronologique de celles composées depuis cette dernière époque jusqu'à présent, avec deux tables alphabétiques, l'une et l'autre des pièces
 La Mise en scène à Paris au dix-septième siècle. Mémoires de Laurent Mahelot et Michel Laurent
 Tablettes dramatiques contenant l'abrégé de l'histoire du théâtre français, l'établissement des théâtres à Paris, un dictionnaire des pièces et l'abrégé de l'histoire des auteurs
 Histoire du théâtre françois depuis son origine jusqu'à présent, avec la vie des plus célèbres poëtes dramatiques, un Catalogue exact de leurs pièces et des Notes historiques et critiques
 
 
 
-### Études littéraires et théâtrales modernesLes Unités d'Aristote avant le Cid de Corneille
+### Études littéraires et théâtrales modernes.Les Unités d'Aristote avant le Cid de Corneille
 Pour une lecture de la tragédie humaniste : Jodelle, Garnier, Montchrestien
 Le Théâtre de l'hôtel de Bourgogne*re*
 La Tragédie de l'âge classique (1553-1770)
@@ -3251,15 +3251,15 @@ Histoire de la littérature dramatique en France depuis ses origines jusqu'au Ci
 
 
 
-## Alexandre Hardy
+## Alexandre Hardy.
 
 
-### Orientation bibliographiqueZeitschrift für Französische Sprache and literatur
+### Orientation bibliographique.Zeitschrift für Französische Sprache and literatur
 Papers on french 17*th* century literature, Biblio 17
 
 
 
-### Les éditions modernes de ses œuvresLe Théâtre d'Alexandre Hardy
+### Les éditions modernes de ses œuvres.Le Théâtre d'Alexandre Hardy
 Didon se sacrifiant
 La Belle Égyptienne
 Coriolan
@@ -3269,7 +3269,7 @@ La Berne des deux rimeurs de l'hôtel de BourgogneRevue d'histoire littérature 
 
 
 
-### Hardy et ses contemporainsMéléagre
+### Hardy et ses contemporains.Méléagre
 Les Tragédies et histoires saintes de Jean Boissin de Gallardon. La I contenant la délivrance d'Andromède et les malheurs de Phinée. La II, la fatalité de Meleager et le désespoir d'Althée sa mère
 Méléagre
 Méléagre
@@ -3279,7 +3279,7 @@ La Comédie des comédiens
 
 
 
-### Études biographiques, littéraires et critiquesIl Confronto letterario
+### Études biographiques, littéraires et critiques.Il Confronto letterario
 « Sénèque et Hardy »
 French Tragic Drama in the sixteenth and the seventeenth Century
 Revue des deux mondes*er*

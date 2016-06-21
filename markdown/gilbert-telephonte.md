@@ -18,7 +18,7 @@ Par Gabriel Gilbert
 
 
 
-# Introduction
+# Introduction.
 
 Déprécié au XVIIIe siècle. Oublié au XIXe siècle. Complètement inconnu aujourd'hui. La première phrase de la seule thèse consacrée à Gabriel Gilbert illustre de manière éloquente ce sentiment. [1] Auteur de treize pièces imprimées et d'un certain nombre d'œuvres en vers et en prose, cet auteur appartient aux *minores*, qui ont bien souvent connu le succès en leur temps, mais qui ont disparu du répertoire dramatique français les siècles suivants.
 
@@ -29,12 +29,12 @@ Que dire de ces œuvres oubliées ? Elles font souvent preuve de bonnes intuiti
 Lorsqu'il crée *Téléphonte*, Gabriel Gilbert, âgé d'une vingtaine d'années, est apparu dans l'entourage de Richelieu un an auparavant. Présentant moins de faiblesses que sa première pièce, *Téléphonte* semble épurer les codes traditionnels du genre tragi-comique, et se rapproche de la tragédie régulière qui est en train de renaître, tout en laissant percevoir les premières marques de l'esthétique qui fera de Gabriel Gilbert un auteur galant.
 
 
-# Gabriel Gilbert : vie et œuvres d'un auteur galant
+# Gabriel Gilbert : vie et œuvres d'un auteur galant.
 
 Comme le souligne Eleanor J. Pellet, aujourd'hui, à l'exception de son œuvre imprimée, on a trouvé peu de traces de Gabriel Gilbert. Nous avons donc assez peu d'informations certaines concernant sa vie.
 
 
-## Première difficulté : une naissance et une mort qui n'ont pas laissé de traces
+## Première difficulté : une naissance et une mort qui n'ont pas laissé de traces.
 
 La première référence à notre auteur date de juillet 1640 : Chapelain, dans une lettre à Conrart, évoque la première pièce de Gilbert : « Mr Gilbert eust bien souhaitté aussy que vous eussiés assisté à la représentation de sa *Marguerite françoise* » [3].
 
@@ -43,7 +43,7 @@ La naissance de Gilbert n'est mentionnée dans aucun registre. La seule allusion
 La dernière œuvre de Gilbert, publiée plusieurs années après ses écrits dramatiques, a été une traduction de cinquante *Psaumes*. La publication de ce travail a lieu en 1680. Le privilège est du 26 mai de cette année. L'attestation – qui donne une validation doctrinale à l'œuvre – date du 24 mai. Un second tirage a dû être prévu quasiment au même moment. Celui-ci a été revu et corrigé par l'auteur, comme en atteste la page de titre. Il y a ajouté une traduction du Décalogue et du Cantique de Siméon. L'attestation pour ces ajouts à l'œuvre est datée du 23 juillet ; le permis d'imprimer est daté de deux jours plus tard. Or l'attestation du 23 juillet qualifie l'auteur de « feu M. Gilbert ». Il est donc probable que Gilbert soit mort entre le 24 mai et le 23 juillet 1680.
 
 
-## Origine et éducation
+## Origine et éducation.
 
 Gabriel Gilbert est partout désigné comme protestant. Il fait l'objet d'un article dans *La France protestante* [4], est appelé « calviniste » par Phérotée de La Croix [5], tandis que Beauchamps le dit « de la religion protestante » [6] et Goujet « de la Religion prétendue réformée ». [7] De même, il paraît quasiment certain que Gilbert soit né à Paris [8].
 
@@ -52,7 +52,7 @@ Même si le nom de Gilbert est assez commun en France, il s'est avéré impossib
 Gilbert semble avoir eu une très bonne éducation, bien que nous n'ayons aucune indication sur le lieu où il l'a acquise. Il a dû étudier le grec [10]. Il connaissait l'hébreu comme le montrent ses traductions des *Psaumes*, ainsi que l'italien. Plusieurs pièces italiennes peuvent en effet être considérées comme des sources de ses intrigues.
 
 
-## Apparition sur la scène littéraire dans les années 1640
+## Apparition sur la scène littéraire dans les années 1640.
 
 Sa première œuvre, publiée en 1641, est dédiée à la duchesse d'Aiguillon. L'année suivante, *Téléphonte* est imprimé. Cette seconde œuvre est dédiée à la même protectrice. Les initiales « G.G. » signent les épîtres de ces deux ouvrages. Dans l'épître de *Téléphonte*, on apprend que sa protectrice l'a honoré en choisissant sa pièce pour une représentation. L'année suivante, l'*Ode à Anne d'Autriche*, qui fait l'éloge de sa régence, est publiée. *Rodogune*, pièce très certainement plagiée sur celle de Corneille, est publiée en 1646. L'épître de *Rodogune*, adressée au duc d'Orléans, est la première à être signée « Gilbert ». *Hypolite*, publiée la même année et dédiée à la duchesse de Sully, porte elle-aussi le nom de famille de l'auteur comme signature de l'épître. *L'Ode à la Reine de Suède* a dû être composée cette année-là, mais Eleanor J. Pellet note qu'il y a beaucoup de confusion pour la date de cette œuvre.
 
@@ -73,7 +73,7 @@ Et la Justice rien pour lui.
 Les vers en l'honneur de Tancrède et l'œuvre en prose, le *Panégyrique des dames*, respectivement de 1649 et 1650, sont les seuls signes d'activité littéraire de la part du poète, entre *Séminaris* et *l'Ode à la Reine de Suède*, publiée en 1651. Gilbert apparaît comme l'auteur de vers liminaires, accompagnant les *Œuvres poétiques* de Charles de Beys, publiées en 1651. En 1654, les privilèges de *l'Art de plaire et des Poésies diverses*, sont pris par l'auteur lui-même, ce qui semble indiquer sa présence à Paris. Eleanor J. Pellet avance l'idée que, comme la duchesse de Rohan était toujours en vie, Gilbert avait dû continuer à être son secrétaire.
 
 
-## Sous le patronage de Christine de Suède [12]
+## Sous le patronage de Christine de Suède [12].
 
 Dès que Gilbert entre au service de la Reine, on ne trouve plus guère de traces du poète. Or ce silence est d'autant plus regrettable que cette relation avec Christine de Suède est sans aucun doute l'événement le plus important dans la vie de Gabriel Gilbert. On considère généralement que Gilbert est devenu le secrétaire de Christine de Suède en 1656. Le tirage des *Amours de Diane et d'Endymion* est fourni à cette occasion.
 
@@ -116,7 +116,7 @@ Les années 1660-1661 sont marquées par une grande activité littéraire de la 
 En 1661, furent publiées les *Poésies diverses*, dont le privilège datait de 1654. Gilbert utilise encore ses titres de « Résident et de Secrétaire des Commandemens de la Reine de Suède ». Dans une lettre du 1*er* décembre 1661, Chapelain fait référence à un conseil donné par Gilbert à un autre poète : se méfier des belles promesses de la Reine Christine. Le poète est cité, faisant allusion à des « appointemens plus propres à estre promis qu'à estre tenus » [20]. Dans une lettre à Huet du 8 décembre, Chapelain caractérise le poète par l'expression « affamé de servitude » [21]. L'auteur utilisa encore ses deux titres sur la page de titre des *Amours d'Ovide*, publiée en 1663, mais sembla les omettre pour les *Amours d'Angélique et de Médon* l'année suivante. Il est probable qu'il ait été rappelé de ses fonctions durant le long séjour de la Reine en Suède.
 
 
-## Entre production dramatique et nouveau silence littéraire
+## Entre production dramatique et nouveau silence littéraire.
 
 Avant ces publications de pièces sous le seul nom de Gabriel Gilbert, une pièce qui n'a jamais été publiée, a été représentée, « avec un certain éclat » [22], puisqu'elle a été jouée devant Monsieur et son épouse. Loret a fait l'éloge de *Théagène* à l'occasion de la première, le 15 juillet 1662. Durant les deux années suivantes, parurent *Les Amours d'Ovide* et *Les Amours d'Angélique et de Médor*. Au même moment, on a dû jouer *Le Courtisan parfait.*
 
@@ -125,15 +125,15 @@ D'après Eleanor J. Pellet, la comédie de Gilbert, *Les Intrigues amoureuses*, 
 On n'entendit plus parler de Gabriel Gilbert jusqu'à 1671. Le silence fut rompu par la production d'un opéra, fin 1671 ou début 1672, *Les Peines et les plaisirs de l'amour.* L'opéra était alors en vogue. Mais le monopole de Lully écarta rapidement tout concurrent. À nouveau, Gilbert redevint silencieux, ne publiant plus rien pendant les dix dernières années de sa vie, jusqu'à sa traduction de cinquante psaumes en 1680.
 
 
-## Une fin de vie sous le signe de la pauvreté et de l'oubli
+## Une fin de vie sous le signe de la pauvreté et de l'oubli.
 
 Les dernières années de Gilbert semblent avoir été marquées par l'oubli et la pauvreté. La lettre de Chapelain que nous avons citée précédemment rapportait déjà l'absence de rémunération de la part de Christine de Suède. Dans la *Préface* des *Amours d'Angélique et de Médor*, le poète lui-même avoue avoir produit seize pièces « sans en avoir tiré d'autre avantage que celui de les avoir présentées à ce que la France a de plus auguste et de plus éminent. » Eleanor J. Pellet fait part d'une annotation trouvée dans un volume des pièces de Gabriel Gilbert, à la Bibliothèque de l'Arsenal : une note manuscrite indique que « quoique résident de Suède il étoit gueux et à l'ausmone de M. Dhervart » [24]. Gilbert fut en effet accueilli par Hervart, alors Contrôleur général des finances [25], chez qui il résida jusqu'à sa mort.
 
 
-## Jugements
+## Jugements.
 
 
-### Des contemporains de Gabriel Gilbert
+### Des contemporains de Gabriel Gilbert.
 
 Durant ses années de production dramatique et poétique, entre 1657 et 1667, Gabriel Gilbert était sans aucun doute une figure d'auteur galant bien connue dans le monde littéraire parisien. Cependant, il n'y a pas beaucoup d'allusions qui nous permettraient de dresser un portrait du poète, de sa personnalité. Nous avons déjà cité la première apparition de Gilbert dans le monde des lettres, dans la lettre de Chapelain de juillet 1640, qui rajoute que *Marguerite de France* lui « tira des larmes en quelques endroits et le toucha presque partout ». Dans sa notice sur *Arie et Petus*, Loret se montre particulièrement élogieux :
 
@@ -191,7 +191,7 @@ Les Boyers, Gilberts et Quinauts [33]
 Ainsi, raillé ou félicité, Gabriel Gilbert n'était pas absent des écrits critiques publiques ou personnels de son siècle.
 
 
-### Des critiques du XVIII*e* siècle
+### Des critiques du XVIII*e* siècle.
 
 Nous n'évoquerons ici que les informations générales transmises par les historiens de la littérature du XVIII*e* siècle. Les jugements propres à la pièce qui nous intéresse seront étudiés plus tard. Dans leur immense somme, *L'Histoire du theatre françois, depuis son origine jusqu'à presen*, Claude et François Parfaict consacrent une notice à la première pièce de Gabriel Gilbert [34], notice dans laquelle ils écrivent quelques lignes sur notre auteur :
 
@@ -206,7 +206,7 @@ Gilbert fut un Poète pauvre & un pauvre Poète. Il travailla pour le Théâtre�
 Au XVIII*e* siècle, Gabriel Gilbert est donc considéré comme un auteur médiocre, qui a quelquefois fait preuve d'un certain talent.
 
 
-### Des critiques du XIX*e* siècle et du XX*e* siècle
+### Des critiques du XIX*e* siècle et du XX*e* siècle.
 
 Gilbert fait l'objet d'une notice dans *La Bibliothèque dramatique de Monsieur de Soleinne* [36]. L'auteur donne une liste des œuvres dramatiques du poète et le présente ainsi :
 
@@ -233,10 +233,10 @@ Au XX*e* siècle, Lanson fait une simple mention du nom de Gabriel Gilbert, dans
 Il faut attendre 1931 et la thèse d'Eleanor J. Pellet, pour que quelqu'un entreprenne un ouvrage entièrement consacré à Gabriel Gilbert. Thèse dans laquelle Lancaster a puisé pour écrire sa notice sur Gilbert, dans son énorme entreprise.
 
 
-# Téléphonte : création et réception
+# Téléphonte : création et réception.
 
 
-## Création
+## Création.
 
 La pièce a dû être créée en 1641 ou au courant de 1642. Elle a, semble-t-il, été donnée lors d'une représentation privée chez la duchesse d'Aiguillon. La page de titre indique que la pièce a été représentée par « les deux Trouppes Royalles ». Or le patronage de la nièce de Richelieu pourrait expliquer cela. En effet, ordinairement, lorsqu'une pièce est donnée en premier à une troupe, l'autre ne peut pas la représenter jusqu'à ce qu'elle soit publiée. C'est pour cela que les auteurs sont contraints d'attendre avant de faire imprimer leur pièce. Selon Lancaster, la pièce a probablement été donnée par les deux troupes dans le nouveau théâtre de Richelieu, en 1641. Mais cela est très contestable car l'épître dédicatoire évoque seulement une « assemblée solennelle », donc manifestement chez la duchesse. Il n'y a aucune trace dans un registre du nombre de représentations qu'a connues la pièce. Mais le *Mémoire de Mahelot* la mentionne dans l'index de soixante-onze titres ne renvoyant ni à des croquis, ni à des notices [41], ce qui nous indique que la pièce figurait dans le répertoire de l'Hôtel de Bourgogne après la mort de Richelieu, dans les années 1646-1647.
 
@@ -252,7 +252,7 @@ Gilbert écrit une tragi-comédie, à une période où le genre s'est progressiv
 Lancaster souligne que, dans cette pièce, « Gabriel Gilbert est plus proche de la tragédie, même s'il classe son œuvre, aux vues de la situation finale des personnages pour lesquels nous éprouvons de la sympathie, comme une tragi-comédie » [44]. Nous rappelons que cette pièce est une œuvre de jeunesse, Gilbert a une vingtaine d'années lorsqu'il l'écrit. Dans *Marguerite de France*, il narrait l'histoire de la future épouse du prince Henry, dont le père, Henry II, est lui-même amoureux. Le roi a promis son fils, alors très jeune, à la princesse française, Marguerite, âgée de trois ans. Quinze plus tard, le roi veut divorcer et épouser lui-même la princesse. Passant de la figure de roi à celle de tyran, il la retient prisonnière. Le prince Henry s'arme et, à la tête d'une armée franco-anglaise, envahit l'Angleterre. Après plusieurs ruses, fausses rumeurs de mort et une repentance royale, le mariage princier a lieu. Dans sa deuxième pièce, encore une fois, il raconte l'histoire d'une princesse captive, séparée de l'homme qu'elle aime et condamnée au mariage par son ravisseur. Dans les deux pièces, la mort du héros est annoncée, mais l'héritier s'unit finalement avec la princesse. Dans *Téléphonte*, le double rôle, tyran et amant, joué par Henry II dans la pièce précédente, est divisé entre un monarque et son fils. Cependant le thème de la vengeance et du meurtre – qui sont à l'origine les seuls sujets de l'histoire de Téléphonte et de Mérope – sont absents dans *Marguerite de France* [45]. Le héros, chargé de venger père, frères et mère, respectivement assassinés et épousée par le tyran et de récupérer le trône de Mycènes, se voit ajouter une nouvelle mission, par notre poète : délivrer sa future épouse, qui, après plusieurs péripéties malheureuses, se trouve aux mains des tyrans.
 
 
-## Réception
+## Réception.
 
 Si l'on en croit l'épître dédicatoire présente dans la seconde édition de *Téléphonte*, la pièce semble avoir connu un certain succès. Le fait qu'elle ait été publiée le confirme. Dans cette épître, Gabriel Gilbert remercie la duchesse d'Aiguillon pour l'attention qu'elle a portée à sa pièce, attention qui lui a permis de remporter l'approbation des plus grands, selon lui. Donnant son avis sur sa seconde pièce, Gilbert fait ensuite preuve d'une fausse modestie, peut-être due à sa jeunesse.
 
@@ -275,30 +275,30 @@ Un peu plus tard, reprenant le plus souvent les informations collectées par les
 Puis, on trouve une seconde notice sous le véritable nom de la pièce, et non celui qui lui a donné la rare postérité qu'elle a connue : « Téléphonte, Tragédie, par *Gilbert*, donnée en 1642, imprimée dans la même année. Voyez *Philoclée*. La tradition assure que le Cardinal *de Richelieu* y a travaillé. » [50] Enfin, afin d'illustrer notre propos sur la pensée formatée par les écrits de Boileau de ces hommes du XVIII*e* siècle, voici ce que l'on trouve pour la pièce de La Chapelle : « elle eut onze représentations. Cette Piece est tirée de Philoclée & de Téléphonte, de *Gabriel Gilbert* ; mais celle-ci est bien meilleure & plus réguliere : le merveilleux y domine & en fait le mérite principal. »
 
 
-## Résumé et remarques sur la structure de la pièce
+## Résumé et remarques sur la structure de la pièce.
 
 
-### Acte I
+### Acte I.
 
 Mérope, veuve éplorée, prisonnière de son nouvel époux, rappelle les malheurs passés et l'édit qui met à prix la tête de son dernier fils, Téléphonte, exilé depuis son enfance dans un autre pays (scène 1). Elle essaie de persuader le tyran, au nom de l'amour qu'il a pour elle, d'annuler cet édit et de laisser vivre son fils. Celui-ci, connaissant les désirs de vengeance de Téléphonte, s'y refuse. Mérope annonce alors qu'elle suivra son fils dans la mort (scène 2). Le tyran s'entretient avec son fils, à propos d'un rêve qui le trouble profondément : Cresphonte, le roi assassiné, est venu lui annoncer dans son sommeil qu'il serait puni pour ses crimes. Démochare tente de rassurer son père, lui promettant la mort prochaine de Téléphonte (scène 3).
 
 
-### Acte II
+### Acte II.
 
 Mérope et Philoclée évoquent leur désespoir commun. La reine se fait narrer l'enfance et les haut-faits de son fils à Chalcis. On apprend qu'elles attendent le fidèle Tyrène, qui doit apporter des nouvelles de Téléphonte (scène 1). Céphalie arrive, annonçant la venue du messager. La reine va à sa rencontre, mais Philoclée est contrainte de s'entretenir avec Démochare. La reine lui conseille de faire profil bas (scène 2). Démochare déclare son amour à la princesse et ne comprend pas sa tristesse. Philoclée, hautaine, lui résiste et, s'emportant, finit par lui avouer qu'elle se destine à un autre. Devinant l'identité de ce dernier, Démochare, furieux, annonce la mort imminente de Téléphonte et le jour fatal de leur hymen (scène 3). Démochare, demeuré seul, réaffirme sa volonté de faire céder la princesse, en ayant recours à la contrainte si cela s'avère nécessaire (scène 4).
 
 
-### Acte III
+### Acte III.
 
 Philoclée se lamente auprès de sa confidente, Orphise, accusant Tyrène de trop tarder (scène 1). Démochare vient annoncer à la princesse qu'un espion lui a appris l'assassinat de Téléphonte. Philoclée refuse d'y croire et met en garde le fils du tyran contre la vengeance du prince. Puis elle finit par annoncer qu'elle choisira la mort plutôt que le mariage forcé, décision mise en doute par Démochare (scène 2). Philoclée, demeurée seule avec sa confidente, réaffirme sa vertu, quand Orphise annonce l'arrivée de Tyrène (scène 3). Celui-ci lui apprend que son père est bien vivant. Il choisit de rester vague quant au sort de son futur époux : il a disparu, mais son corps n'a point été retrouvé, l'espoir doit donc demeurer. Enfin, il lui propose de risquer sa vie afin d'éviter à la princesse un mariage sous la contrainte (scène 4).
 
 
-### Acte IV
+### Acte IV.
 
 Céphalie annonce à Mérope la mort de son fils et l'arrivée imminente du meurtrier au palais, pour chercher sa récompense (scène 1). Le tyran arrive, tente de se justifier, mais préfère finalement fuir la fureur de la reine, pour aller rendre grâce aux dieux (scène 2). Mérope décide de se suicider. Céphalie, horrifiée, tente de l'en empêcher (scène 3). Orphise survient et apprend à la reine que Philoclée, tout aussi désespérée qu'elle, ne veut pas mourir avant de s'être vengée. Mérope décide de l'imiter (scène 4). Téléphonte apparaît et, dans un long monologue, nous apprend qu'il se fait passer pour son propre assassin, afin de pouvoir approcher les tyrans et venger sa famille (scène 5). Téléphonte, sous le nom de Tyndare, rencontre Démochare, heureux et pleinement confiant, lui narre la mort du prince, et apprend la résistance de la princesse face à l'amour tyrannique. Tous deux sortent pour aller rejoindre le tyran au temple (scène 6).
 
 
-### Acte V
+### Acte V.
 
 Tyrène et deux autres fidèles du roi assassiné, Tydée et Thoas, aperçoivent Téléphonte sortant en compagnie de Démochare, comprennent aussitôt la courageuse entreprise du prince et se préparent à réunir trente fidèles pour aller lui prêter main forte (scène 1). Mérope et Philoclée se lamentent de ne pouvoir assouvir leur soif de vengeance : le meurtrier présumé est introuvable (scène 2). Céphalie arrive, leur apprenant que Tyndare était dans le temple. Elles décident de l'attendre (scène 3). Téléphonte arrive seul, et décide de mettre à l'épreuve l'instinct maternel. Mérope s'élance pour frapper celui qu'elle croit être l'assassin de son fils, mais elle est ralentie dans son élan par une sorte d'instinct. Philoclée décide alors d'accomplir seule la vengeance. Mais, au dernier moment, elle reconnaît Téléphonte et empêche Mérope de devenir la meurtrière de son propre fils. Mais la joie des retrouvailles est rapidement suivie par la crainte. C'est alors que Téléphonte leur narre la mort du tyran sur l'autel de sacrifice et le combat contre son rival, qui s'est achevé par la mort de Démochare (scène 4). La dernière incertitude est levée avec l'arrivée de Tyrène. Téléphonte a accompli sa vengeance, récupéré le trône de son père, ainsi que son épouse (scène 5).
 
@@ -327,7 +327,7 @@ Sous le nom d'assassin je cache Telephonte. (vers 1061-1066)
 Enfin, on trouve une alternance de scènes d'affrontement ou de confidence assez longues – les scènes entre Philoclée et Démochare sont particulièrement longues, notamment la scène III de l'acte II et la scène II de l'acte III – et des scènes plus courtes, qui permettent de faire des transitions entre deux scènes majeures ou d'annoncer la venue d'un autre personnage [53].
 
 
-## Postérité et influences
+## Postérité et influences.
 
 Quarante ans après la création de la pièce de Gilbert, un membre de l'Académie française, Jean de La Chapelle, crée lui-aussi un *Téléphonte*, donné en 1682 et publié en 1683. Le 13 décembre 1701, Lagrange-Chancel donne un *Amasis*, dans lequel l'histoire de Mérope et de Téléphonte est transférée en Égypte. Le sujet réapparaît ensuite en Italie : le 12 juin 1713 a lieu, à Modène, la première de la *Mérope* de Maffei, publiée en 1714. Enfin, le thème intéresse Voltaire, qui crée une *Mérope* en 1743 [54].
 
@@ -356,13 +356,13 @@ Au début de la pièce, Mérope attend avec anxiété des nouvelles de son fils.
 Dans sa préface, Voltaire fait référence à la pièce de Gilbert, après avoir parlé du *Téléphonte* attribué à Richelieu : « M Gilbert (…) donna en 1643, sa Mérope, aujourd'hui non moins inconnue que l'autre ». En accord avec Eleanor J. Pellet, Lancaster pense que la pièce de Maffei est inspirée des tragédies italiennes plus anciennes, mais il ne se déclare pas convaincu quand elle tente de prouver que Gilbert a influencé Voltaire. En effet, nous pouvons considérer que Voltaire a sans aucun doute eu connaissance de *Téléphonte*, mais il semble s'être bien plus inspiré du mythe relayé par Hygin, et au XVII*e* siècle par Gilbert, que de la pièce de Gilbert à proprement parler.
 
 
-# Questions de dramaturgie
+# Questions de dramaturgie.
 
 
-## Sources de *Téléphonte*
+## Sources de *Téléphonte*.
 
 
-### Euripide et Hygin
+### Euripide et Hygin.
 
 Dans l'épître dédiée à la duchesse d'Aiguillon, Gabriel Gilbert évoque lui-même ses sources antiques :
 
@@ -387,7 +387,7 @@ Dans la fable d'Hygin [68], Polyphonte assassine Cresphonte, roi de Messénie, e
 La structure de cette fable est la suivante : les circonstances ; la péripétie initiale ; la péripétie suivante. C'est évidemment une structure qui convient à l'exposé d'un synopsis théâtral. La fabula est ici la trame d'une tragédie grecque, et elle va devenir celle de la tragi-comédie de Gilbert. Il reste à comprendre de voir comment on passe de cet exposé extrêmement sec, à fonction pédagogique, à un poème dramatique.
 
 
-### Tragédies italiennes
+### Tragédies italiennes.
 
 Le sujet de Téléphonte a été traité à trois reprises par des dramaturges italiens du XVI*e* siècle : dans le *Téléphonte* d'Antonio Cavallerino, à Modène en 1583, puis dans le *Cresphonte* de Gio-Battisto Liviera, en 1588, à Padoue, et enfin dans la *Mérope* de Pomponio Torelli, à Parme en 1598.
 
@@ -399,7 +399,7 @@ La pièce de Torelli est évoquée dans le *Cours de littérature dramatique* de
 Au seizième siècle, en 1595, le comte Torelli, qui, comme beaucoup d'écrivains italiens de ce siècle, mêlait les affaires et les lettres, et qui fut ambassadeur et poëte, a, dans sa Mérope, pris l'argument d'Euripide dans toute sa simplicité, et cela lui a porté bonheur. [69]
 
 
-## Construction de la pièce à partir de ces sources
+## Construction de la pièce à partir de ces sources.
 
 Nous considérons donc que Gilbert s'est principalement inspiré de la fable 137 d'Hygin pour composer son intrigue. Qu'en a-t-il conservé ? Gilbert garde tout d'abord les événements en lien avec le coup d'Etat du tyran : l'assassinat de Cresphonte et de ses fils, l'usurpation du trône et le mariage contraint pour Mérope, ainsi que l'exil de Téléphonte en Étolie, à sa naissance. Le poète emprunte aussi au mythe le désir de vengeance du prince, l'édit du tyran contre ce dernier, la ruse du déguisement et l'assassinat final du tyran sur l'autel de sacrifice. De plus, une même violence anime la Mérope d'Hygin et celle de Gilbert :
 
@@ -440,10 +440,10 @@ Nous pouvons aussi nous demander ce qu'apporte à la pièce la reconnaissance gr
 Ainsi, par rapport à la trame initiale, Gabriel Gilbert débute, comme une tragédie, avec l'ultime action : un édit de mort a condamné Téléphonte, chaque camp attend les nouvelles annonçant son sort. Le poète construit une double intrigue : à la vengeance politico-familiale se mêle une vengeance personnelle, contre le rival en amour. Enfin, il crée une scène finale où tout est révélé : Téléphonte est en réalité vivant, les tyrans sont morts, Mycènes est reconquise, les femmes sont libérées, le mariage heureux peut avoir lieu.
 
 
-## Personnages
+## Personnages.
 
 
-### Un héros entre absence et déguisement
+### Un héros entre absence et déguisement.
 
 N'apparaissant qu'à la fin du quatrième acte, Téléphonte peut correspondre à ce que Jacques Scherer, dans *La Dramaturgie classique en France* [74], appelle un « héros rare ». Téléphonte semble remplir les caractéristiques que Scherer attribue au héros classique : il est jeune. Son jeune âge est plusieurs fois rappellé par l'amante et par la mère, comme lors de la scène d'exposition aux vers 71-72. 
 
@@ -516,7 +516,7 @@ Le héros éponyme de la tragi-comédie de Gilbert, Téléphonte, ne fait son en
 Il faut en effet avouer que le monologue de Téléphonte pèche par manque de naturel, et semble quelque peu redondant par rapport aux éléments déjà apportés par la première scène de la pièce. Dans cette seconde pièce, écrite lorsqu'il avait une vingtaine d'année, Gabriel Gilbert se montre quelquefois laborieux.
 
 
-### Jeux de symétrie
+### Jeux de symétrie.
 
 En ajoutant les personnages de l'amante et du rival en amour, Gabriel Gilbert crée un effet de symétrie. Le poète met en effet en scène deux amours tyranniques en action. Pour les beaux yeux de Mérope, Hermocrate a jadis assassiné son époux et ses fils, et pour pouvoir continuer à jouir de ses charmes, il n'hésite pas à mettre à prix la tête du dernier survivant [89]. Démochare, sur le modèle de son père, garde prisonnière Philoclée et compte bien la contraindre au mariage, pour pouvoir lui-aussi la garder à ses côtés. [90]
 
@@ -550,15 +550,15 @@ Ce sont là vos vertus, ce sont là vos hauts faits. (vers 725- 739, III, 2)
 La pièce de Gilbert met donc en place différents jeux de symétrie qui enrichissent le mythe d'Hygin, sans pour autant vraiment compliquer l'intrigue.
 
 
-### Un personnage inventé sur le devant de la scène
+### Un personnage inventé sur le devant de la scène.
 
 Gabriel Gilbert donne le rôle le plus important à une femme. Ajout principal à l'intrigue transmise par Hygin, elle est l'objet d'un chantage imaginé par Hermocrate contre le roi d'Étolie, pour parvenir à mettre la main sur Téléphonte. Elle est l'objet d'une rivalité entre les deux princes héritiers, légitime et illégitime. C'est elle qui, par l'intermédiaire de sa confidente Orphise, convainc Mérope de ne pas céder au suicide avant d'avoir vengé la mort de Téléphonte. Enfin, c'est elle qui permet la reconnaissance, moment-clef de la pièce. Du point de vue du texte lui-même, Philoclée est celle à qui Gilbert donne le plus la parole. Philoclée est présente dans onze scènes, de même que Mérope. Elle prononce quatre-vingt-seize répliques, soit trois-cent-quatre-vingt-dix vers sur mille cinq-cent-quarante huit [94]. Absente du premier et du quatrième actes, elle est omniprésente dans les trois autres. Elle évince Mérope, qui, d'Hygin à Voltaire, est considérée comme la véritable héroïne de ce mythe. Or cette importance donnée à une héroïne peut sans doute s'expliquer par l'esthétique galante qui marque les œuvres de Gabriel Gilbert.
 
 
-# Vraie ou fausse tragi-comédie
+# Vraie ou fausse tragi-comédie.
 
 
-## Courte présentation du genre [95]
+## Courte présentation du genre [95].
 
 Le terme même de « tragi-comédie » apparaît dans une comédie latine, l'*Amphitryon* de Plaute. Dans le prologue, le poète charge son personnage Mercure de dénommer sa pièce :
 
@@ -623,7 +623,7 @@ Nous avons évoqué auparavant le comique tragi-comique [110]. Est-il à l'œuvr
 Ainsi, c'est en vertu d'un nombre assez réduit de caractéristiques tragi-comiques que la pièce de Gabriel Gilbert peut être rattachée à la tradition de la première partie du XVII*e* siècle. Or cette œuvre de jeunesse a été composée à une période où le genre amorce un déclin, au profit de la renaissance de la tragédie régulière.
 
 
-## … Dans une pièce sur la voie de la régularité
+## … Dans une pièce sur la voie de la régularité.
 
 Au début du XVII*e* siècle, le genre tragique, hérité de l'Antiquité, se voit critiqué et délaissé par des auteurs qui se présentent comme des « modernes », et qui promeuvent le genre moderne de la tragi-comédie. Mais en quelques années, les « six années de débat (1628-1634) » évoquées par Georges Forestier [112], un véritable renversement va s'opérer.
 
@@ -665,10 +665,10 @@ Ainsi, lorsque Gilbert écrit *Téléphonte*, une tragi-comédie d'intrigue, il 
 L'idée que cette tragi-comédie ressemble plutôt à une tragédie à fin heureuse peut dès lors se comprendre par le fait que ce genre extrêmement libre tend désormais vers la simplicité et la régularité. Cela permet d'expliquer l'absorption de la tragi-comédie par la tragédie à partir des années 1640 : tandis que l'une devient peu à peu régulière, la seconde, depuis la révolution cornélienne, n'implique plus nécessairement la mort du héros, mais celle de la figure criminelle de la pièce. [131]
 
 
-# La part faite à l'esthétique galante
+# La part faite à l'esthétique galante.
 
 
-## La galanterie dans le théâtre du XVII*e* siècle
+## La galanterie dans le théâtre du XVII*e* siècle.
 
 Nombre de critiques du XVII*e* siècle font preuve d'une hostilité évidente à l'égard de l'esthétique galante appliquée au théâtre. On condamne principalement le fait de retrouver un héros de roman dans la tragédie. Outre l'idée communément acceptée que la poésie dramatique est un genre bien plus noble que le roman, la critique vient aussi de la définition que l'on entend donner au héros tragique. Les héros tragiques qui donnent dans la galanterie, par leur discours ou – pire encore – par leurs actes, déplaisent parce qu'ils ne se distinguent plus du commun des mortels. Par ailleurs, introduire la galanterie dans la tragédie entraînerait des déficiences poétiques au plan de l'action proprement dite, une intrigue amoureuse, secondaire, parasitant l'unité d'action.
 
@@ -693,7 +693,7 @@ Pourtant, tôt dans le siècle, la tragédie se prend à trouver des charmes à 
 Selon Carine Barbafieri, l'esthétique galante a bien eu une influence très tôt sur le théâtre tragique du XVII*e* siècle. Dès sa renaissance, la tragédie se définit par rapport aux normes mondaines qui sont celles du public des théâtres, c'est-à-dire les normes galantes. La tragi-comédie en passe de devenir régulière, dans les années 1640, est évidemment elle-aussi marquée par cette esthétique.
 
 
-## Gabriel Gilbert, un poète galant
+## Gabriel Gilbert, un poète galant.
 
 L'amour occupe une place essentielle dans le théâtre tragique, tragi-comique et comique de notre dramaturge. Il suffit de regarder les titres de ses pièces, et cet intérêt pour les intrigues amoureuses apparaît comme une évidence : *Hypolite ou le garçon insensible* [140] ; *Les Amours de Diane et d'Endymion* ; *Arie et Petus, ou les amours de Néron* ; *Les Amours d'Ovide* ; *Les Amours d'Angélique et de Médor* ; *Les intrigues amoureuses* ; *Les peines et les plaisirs de l'amour*. On peut difficilement faire plus explicite. Dans la dédicace de sa tragédie, *Les Amours de Diane et d'Endymion*, Gabriel Gilbert écrit lui-même, de façon polémique, qu'un très grand nombre de sujets peuvent être transformés en histoires d'amour :
 
@@ -715,7 +715,7 @@ Les hommes qui n'ont point de communication avec les femmes, sont peu sociables�
 Il ne faut évidemment pas faire d'anachronisme et voir en Gilbert un grand féministe avant l'heure. Son œuvre s'inscrit dans une tradition, où il ne s'agit pas de faire œuvre originale mais de s'inscrire dans une continuité rhétorique et thématique [145]. Néanmoins, on peut penser que toutes ces protectrices ont eu une influence certaine sur le théâtre de Gilbert, dans lequel, et ce dès *Marguerite de France* et *Téléphonte*, on le voit peindre des femmes fortes, généreuses, résistant aux personnages masculins tyranniques.
 
 
-## *Téléphonte*, une esthétique galante à ses débuts
+## *Téléphonte*, une esthétique galante à ses débuts.
 
 *Téléphonte* se situe donc à une période charnière, durant laquelle la tragédie régulière refait surface et l'esthétique galante commence à réellement marquer le théâtre français. Il est vrai que *Téléphonte* ne répond pas entièrement à différents critères galants que nous avons pu évoquer. Mais la deuxième pièce de Gabriel Gilbert est sans aucun doute marquée par les balbutiements de l'esthétique galante.
 
@@ -753,12 +753,12 @@ Cette attitude, à l'opposé du modèle galant, s'illustre aussi dans les parole
 L'esthétique galante dans *Téléphonte* n'en est qu'à ses balbutiements, même si les deux premières pièces de Gilbert désignent déjà très nettement le poète galant qu'a été Gilbert durant toute sa vie. Après le théâtre sérieux de Gilbert, entre 1640 et 1650, la galanterie a été explorée dans ses principales dimensions dramaturgiques. Elle se manifeste déjà par un adoucissement du dénouement et par la présence quasi systématique d'un épisode amoureux. Selon Carine Barbafieri, c'est Quinault qui donnera toute son ampleur au modèle galant dans le théâtre tragique, « en creusant les formes de galanterie fraîchement mises au jour, mais aussi en en proposant de toutes nouvelles ». [152]
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La présente édition reproduit l'édition originale du *Téléphonte* de Gabriel Gilbert, dont le privilège est daté du 21 juillet 1642, et l'achevé d'imprimer du 28 septembre 1642. L'édition suivie se trouve à la Bibliothèque nationale de France, sous la côte RES-YF-246. Nous avons consulté d'autres exemplaires qui présentent un texte identique. Nous avons également consulté une édition datée de 1643 qui adjoint au texte de la pièce, rigoureusement identique à celui de 1642, une épître dédicatoire adressée à « Madame la Duchesse Deguillon », ainsi qu'un rectificatif des « *Fautes survenuës en l'Impreβion* ». Nous reproduisons cette dédicace et ce rectificatif en appendice.
 
 
-## Description du volume
+## Description du volume.
 
 *Téléphonte, tragi-comédie*, In-4, Paris, chez Toussaint Quinet, 2 feuillets non paginés, 98 pages.
 
@@ -773,7 +773,7 @@ IV bandeau / PERSONNAGES. / liste des personnages
 1-98 le texte de la pièce
 
 
-## Exemplaires conservés dans les bibliothèques parisiennes
+## Exemplaires conservés dans les bibliothèques parisiennes.
 
 In-4° :
  * – BNF Tolbiac YF-1123
@@ -788,13 +788,13 @@ In-4° :
 Édition datée de 1643, in-4° : BNF Tolbiac YF-624.
 
 
-## Autres exemplaires non consultés
+## Autres exemplaires non consultés.
  * – Poitiers, Bibliothèque Municipale, in-12° : D2777 (d'après la notice présente sur le site du Catalogue collectif de France, le titre est manquant).
  * – Angers, Bibliothèque Municipale, in-4° : 2225(14.1) dans le recueil factice N°14.1.
  * – Il existe aussi une édition hollandaise, conservée à la Bibliothèque de l'Arsenal : GD-44338.
 
 
-## Interventions sur le texte
+## Interventions sur le texte.
 
 Le texte que nous allons présenter suit fidèlement l'édition originale de 1642, dont nous reproduisons la pagination entre crochets à la droite du texte. Nous rappelons que les règles d'orthographe n'étaient pas encore fixées : on peut souvent trouver deux orthographes différentes pour un même mot, parfois sur une même page (par exemple, à la page 80 de l'édition originale, *nuict* et *nuit* à quelques vers d'intervalle). De plus, nous devons souligner l'importance des lettres ornementales de la calligraphie au XVIIe siècle. En effet, on abuse souvent du *y* à la place du *i*, le *y* étant considéré comme une lettre provenant de la langue savante puisqu'il était courant dans les mots grecs.
 
@@ -813,7 +813,7 @@ Enfin, nous avons remplacé le β par *ss* de façon systématique, aux occurren
 vers 121 diβimuler; vers 140 auβi; vers 306 diβipera ; vers 330 auβi ; vers 371 connoiβiez ; vers 394 auβi ; vers 397 auβi-tost ; vers 399 auβi ; vers 420 auβi ; 421 diβimuler ; vers 452 diβimuler ; vers 469 auβi ; vers 510 laiβé ; vers 542 paβion ; vers 604 auβi ; vers 620 auβi ; vers 632 auβi, m'assaβine ; vers 636 auβi ; vers 705 auβi ; vers 791 diβimulons ; vers 824 (et toutes les autres occurrences du terme) assaβin ; vers 1003 auβi ; vers 1046 auβi ; vers 1137 diβimule ; vers 1163 auβi ; vers 1179 auβi ; vers 1297 poβible ; vers 1327 auβi ; vers 1413 aβiste, vers 1432 compaβion ; vers 1455 deβein.
 
 
-## Liste des coquilles
+## Liste des coquilles.
 
 Nous avons corrigé les coquilles mises en évidence dans les « *Fautes survenües en l'Impression* », présentes dans la seconde édition de la pièce, datée de 1643 :
 
@@ -883,7 +883,7 @@ Vers 1293 : je le suivray -> je te suivray
 Vers 1353 : olympe -> Olympe
 
 
-## Corrections de ponctuation
+## Corrections de ponctuation.
 
 Nous avons conservé autant que possible la ponctuation de l'édition originale. Ainsi, il ne faudra pas s'étonner de ne pas trouver systématiquement de point d'interrogation aux phrases interrogatives. De même, certaines propositions circonstancielles peuvent être séparées de leur proposition principale par un point. Les signes de ponctuation servaient autant à marquer rupture grammaticale qu'une pause plus ou moins longue dans la déclamation du texte. Aussi, les points d'interrogation et d'exclamation sont révélateurs d'une déclamation spécifique à valeur proprement musicale.
 
@@ -938,7 +938,7 @@ Par le Roy en son Conseil,
 Les Exemplaires ont esté fournis.
 
 
-## Personnages
+## Personnages.
  – HERMOCRATE, Tyran de Micene.
  – DEMOCHARE,Son fils.
  – MEROPE, Femme du Tyran et vesve de Cresphonte.
@@ -1129,7 +1129,7 @@ Cet honneur est bien grand, mais le Ciel vous fit telle,
 Qu'on vous peut dire encor moins illustre [186] que belle,  
 Bien qu'entre nos heros vous contiez [187] vos ayeulx.  
 
-    MEROPE,
+    MEROPE,.
 Ils brillent dans l'Olympe, et je souffre en ces lieux,  
 Ainsi que leur bonheur mon malheur est extreme.  
 
@@ -1243,7 +1243,7 @@ Et son dernier moment sera ma derniere heure.
 LE TYRAN, DEMOCHARE.
 
 
-    LE TYRAN 
+    LE TYRAN. 
 Madame. Elle s'en va pleine de desespoir,  
 Je ne puis l'oüir plaindre, et ne pas m'esmouvoir,  
 Ah que je suis troublé !  
@@ -1828,7 +1828,7 @@ Tout ce que veut l'honneur, et que le Ciel ordonne.
 
 ### SCENE IV.
 
-    DEMOCHARE *seul.*
+    DEMOCHARE *seul.*.
 L'Inhumaine⁎ s'enfuit le cœur plein de fierté,  
 L'audacieux [253] esprit, la superbe⁎ beauté,  
 Elle sçait que je brusle, elle sçait que je l'ayme,  
@@ -2672,7 +2672,7 @@ Allons verser son sang pour mon sang respandu.
 
 ### SCENE V.
 
-    TELEPHONTE *seul.* 
+    TELEPHONTE *seul.*. 
 J'ay quitté l'Etolie et je suis à Missene,  
 Je viens pour satisfaire à [313] l'Amour, à la haine,  
 Je viens pour delivrer ma femme et mes parens,  
@@ -3215,7 +3215,7 @@ Je croy l'apercevoir, ouy, c'est luy, c'est luy-mesme.
 TELEPHONTE, MEROPE, PHILOCLEE, CEPHALIE.
 
 
-    TELEPHONTE *parle à ceux de sa suite.*
+    TELEPHONTE *parle à ceux de sa suite.*.
 Qu'on ne me suive pas.  
 
     MEROPE.
@@ -3224,14 +3224,14 @@ Qu'on ne me suive pas.
     CEPHALIE. 
 Il vient seul.  
 
-    PHILOCLEE.    
+    PHILOCLEE.    .
         Servons nous de cette occasion.  
 
     TELEPHONTE.
 Je veux voir si la Reyne à qui je dois mon Estre,  
 Par quelque instinct secret me pourra reconnoistre. [351]  
 
-    MEROPE
+    MEROPE.
 Allons sans retarder massacrer l'inhumain⁎ :  
 Mais d'où vient que ce fer me tremble dans la main ;  
 D'où vient que je paslis, que d'horreur je frissonne.  
@@ -3253,7 +3253,7 @@ N'est-ce pas Philoclée ?
     PHILOCLEE. 
     Ouy c'est elle.  
 
-    MEROPE. 
+    MEROPE.
         Inhumaine⁎  
 Devenez-vous perfide en retardant sa peine,  
 Qu'attendez-vous ?  
@@ -3462,7 +3462,7 @@ Fleurir la liberté, la Justice, et la paix.
 FIN.
 
 
-# Lexique
+# Lexique.
 
 Les termes signalés dans le texte par un astérisque sont brièvement définis dans ce glossaire. Ne sont retenus que les termes dont le sens a évolué depuis le XVIIème siècle ou dont une acception n'est plus employée de nos jours. Les définitions sont extraites des ouvrages suivants :Dictionnaire de l'Académie française
 Dictionnaire universel
@@ -3470,7 +3470,7 @@ Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles rem
 AlarmeSe dit figurément de toutes sortes d'apprehensions bien ou mal fondées (F) V. 929Appast Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose (F) – la gloire, la beauté ou encore la vie solitaire sont données en exemples.V. 35 ; v. 454 ; v. 551 ; v. 956ApprehenderCraindre. V. 223 ; v. 231 ; v. 620 ; v. 871 ; v. 1016 ; v. 1180 ; v. 1467AppuySoutien, qui supporte quelque chose, et empêche sa chute (F).V. 693EnnuiChagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long (F). V. 94 ; v. 306 ; v. 374 ; v. 479 ; v. 604 ; v. 635 ; v. 928 ; v. 1344Envie« Chagrin qu'on a de voir les bonnes qualitez ou la properité de quelqu'un » (F)V. 886 ; v. 953 ; v. 1154« Signifie aussi la passion, le desir que l'on a d'avoir ou de faire quelque chose » (F)V. 21 ; v. 185 ; v. 409 ; v. 429 ; v. 557 ; v. 773 ; v. 817 ; v. 873 ; v. 1070Estonnement« Épouvante, sorte de surprise étonnante. » (R) V. 1447EstonnerCauser à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte. (F)V. 222 ; v. 262 ; v. 651 ; v. 765 Fidelle« Qui garde foy qu'il a promise, celui qui fait bien son devoir. » (F) V. 397 ; v. 425 ; v. 1105Signifie aussi véritable. (F)V. 12 ; v. 801 ; v. 1465Flambeau« On appelle aussi poëtiquement le soleil, le *flambeau* du jour. » (F)V. 1 ; v. 788 ; v. 1011 ; v. 1091 ; v. 1195 Au sens actuel de moyen d'éclairage.V. 1379FortuneHasardV. 341 ; v. 350 ; v. 538 ; v. 636 ; v. 1193Plus particulièrement au sens de la déesse, souvent avec une majusculeV. 460 ; v. 827 ; v. 1170 ; v. 1477Sort, vie. (F)V. 237 ; v. 402 ; v. 511 ; v. 585 ; v. 641 ; v. 1249FoySerment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. (F)V. 104 ; v. 1316 « Plus précisément, on appelle foy conjugale, la foy que le mari et la femme se donnent en se mariant. » (F)V. 48 ; v. 282 ; v. 335 ; v. 546 ; v. 676 ; v. 849 ; v. 1216GenereuxQui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest. (F)V. 69 Brave, vaillant, courageux. V. 394 ; v. 422 ; v. 629 ; v. 726 ; v. 1147 ; v. 1273 ; v. 1304Inhumain(e)« Cruel et sans pitié. Les Tyrans, les Sauvages, les soldats sont inhumains. » (F)V. 116 ; v. 122 ; v. 449 ; v. 846 ; v. 913 ; v. 996 ; v. 1026 ; v. 1095, v. 1044 ; v. 1367 ; v. 1404 ; v. 1423 ; v. 1429« En Poësie amoureuse, on appelle une beauté inhumaine, celle qui ne se laisse point aller aux caresses, aux prieres de ses Amants, qui ne leur accorde aucune faveur. » (F)V. 567 ; v. 1242InjusteQui peche contre les loix et les droits. (F) V. 95 ; v. 120 ; v. 152 ; v. 564 ; v. 736InterestCe qu'on a affection de conserver ou d'acquerir ; ce qui nous importe soit dans notre personne, soit dans nos biens.V. 182Plus généralement de tout ce qui regarde le bien, la gloire, le repos.V. 480 ; v. 560JusteQui est sans peché, innocent (F.)V. 160 ; v. 315 ; v. 799 ; v. 1159Qui est selon les loix et l'équité naturelle. V. 9 ; v. 57 ; v. 179 ; v. 444 ; v. 456 ; v. 461 ; v. 589 ; v. 655 ; v. 799 ; v. 1043 ; v. 1055 ; v. 1153 ; v. 1317 ; v. 1332 ; v. 1353 ; v. 1390 ; v. 1400 ; v. 1436 ; v. 1447Monument « Signifie encore le tombeau, et particulièrement en Poësie. » (F) V. 440 ; v. 687 ; v. 971Pudique« Chaste et honneste (…) Penelope a gardé une flamme pudique pour son mari absent. Il y a des amours pudiques et honnestes. » (F) V. 50 ;  v. 543 ; v. 761 ; v. 1126RessentimentSe dit figurément en Morale, des sentiments de l'ame, quand elle est émeuë de certaines passions.  (F)V. 26SoinDiligence qu'on apporte à faire réussir une chose, à la garder et à la conserver. (F)V. 150 ; v. 280 ; v. 402 ; v. 425 ; v. 795 ; v. 1076Se dit aussi des soucis, des inquietudes qui émouvent, qui troublent l'ame. (F)V. 237SortHasard.V. 95 ; v. 479 ; v. 352 ; v. 1079 ; v. 1219 ; v. 1343 ; v. 1400 ; v. 1456Se dit poëtiquement de la vie et de la fortune des hommes. (F)V. 223 ; v. 432 ; v. 448 ; v. 679 ; v. 763 ; v. 767 ; v. 783 ; v. 791 ; v. 937 ; v. 951 ; v. 1120 ; v. 1144 ; v. 1340 ; v. 1355SoucyChagrin, inquietude d'esprit. V. 139 ; v. 226 ; v. 419 ; V. 423 ; v. 455 ; v. 583 ; v. 619 ; v. 635 ; v. 648SouffrirSentir de la douleur, du chagrin, de la fatigue (sens actuel). V. 319 ; v. 634Signifie aussi supporter, ne se pas opposer à une chose, y consentir tacitement. V. 166 ; v. 242 ; v. 447 ; v. 483 ; v. 628 ; v. 1001Superbe« Orguëilleux, arrogant, qui s'estime trop, qui presume trop de luy. » (A)V. 85 ; v. 106 ; v. 568 ; v. 654 ; v. 721 ; v. 1009SupportSe dit figurément en Morale, de ce qui donne de l'appuy, du secours, de la protection.V. 911Transport« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions ». (F) V. 63Zele« Ardeur, passion qu'on a pour quelque chose. Les Poëtes se servent quelquefois de zele pour signifier amour ». (F)V. 368 ; v. 781 ; v. 888
 
 
-# Fable « Méropé » d'Hygin*Hygin*Fables
+# Fable « Méropé » d'Hygin.*Hygin*Fables
 
 
 Fable CXXXVII « Méropé ».
@@ -3480,7 +3480,7 @@ Lorsque Polyphontès roi de Messénie eut tué Cresphontès fils d'Aristomachus,
 Polyphontes Messeniae rex Cresphontem Aristomachi filium cum interfecisset, eius imperium et Meropen uxorem possedit cum quo Polyphontes occiso Cresphonte regnum occuparit. Filium autem eius infantem Merope mater quem ex Cresphonte habebat absconse ad hospitem in Aetoliam mandarit. Hunc Polyphontes maxima cum industria quaerebat, aurumque pollicebatur si quis eum necasset. Qui postquam ad puberem aetatem uenit, capit consilium ut exequatur patris et fratrum mortem. Itaque uenit ad regem Polyphontem aurum petitum, dicens se Cresphontis interfecisse filium et Meropes, Telephontem. Interim rex eum iussit in hospitio manere, ut amplius de eo perquireret. Qui cum per lassitudinem obdormisset, senex qui inter matrem et filium internuncius erat flens ad Meropen uenit, negans eum apud hospitem esse nec comparere. Merope credens eum esse filii sui interfectorem qui dormiebat, in chalcidium eum securi uenit inscia ut filium suum interficeret. Quem senex cognouit et matrem ab scelere retraxit. Merope postquam uidit occasionem sibi datam esse ab inimico se ulciscendi, redit cum Polyphonte in gratiam. Rex laetus cum rem diuinam faceret, hospes falso simularit se hostiam percussisse, eumque interfecit, patriumque regnum adeptus est.
 
 
-# Fragments d'une pièce *Chresphontes* par EuripideThéâtre d'Euripide
+# Fragments d'une pièce *Chresphontes* par Euripide.Théâtre d'Euripide
 
 
 *Argument donné par les éditeurs* : « Mérope fille d'Ypselos a épousé Cresphonte, roi de Messénie. Demeurée veuve, elle subit les violences de son beau-frère Polyphonte, lequel s'empare du trône, lui enlève ses enfants et la contraint à l'épouser. Seul son plus jeune fils Aepytos avait échappé. Quand il eut grandi, il tua Polyphonte au pied de l'autel. »
@@ -3504,7 +3504,7 @@ Polyphontes Messeniae rex Cresphontem Aristomachi filium cum interfecisset, eius
 460. Polyphonte. « C'est un sentiment que j'éprouve comme tous les mortels : je ne rougis pas d'être attaché surtout à ma personne. »
 
 
-# Jugement de cette tragédie par Aristote dans la *Poétique*
+# Jugement de cette tragédie par Aristote dans la *Poétique*.
 
 Évoquant les événements qui provoquent l'effroi et la pitié, Aristote cite en exemple la tragédie perdue d'Euripide :
 
@@ -3514,7 +3514,7 @@ Mais la dernière situation est meilleure ; je parle par exemple de celle de M�
 On voit bien ici la raison pour laquelle les tragédies (…) n'ont pas trait à un grand nombre de familles : comme ce n'est pas aux règles de l'art, mais au hasard que les poètes doivent d'avoir trouvé au cours de leurs recherches le moyen de ménager dans les histoires des situations de ce genre, ils se voient contraints de recourir aux maisons au sein desquelles des événements funestes de ce genre sont survenus. [364]
 
 
-# Épître dédicatoire présente dans l'édition de 1643< A MADAME >< MADAME LA DUCHESSE DEGUILLON Marie Madeleine de Vignerot du Plessis (1604-1675) est la fille de la sœur aînée du Cardinal de Richelieu. C’est elle qui va diriger sa maison. Extrêmement pieuse, elle a encouragé les œuvres de charité et les missions au Canada.. >
+# Épître dédicatoire présente dans l'édition de 1643.< A MADAME >< MADAME LA DUCHESSE DEGUILLON Marie Madeleine de Vignerot du Plessis (1604-1675) est la fille de la sœur aînée du Cardinal de Richelieu. C’est elle qui va diriger sa maison. Extrêmement pieuse, elle a encouragé les œuvres de charité et les missions au Canada.. >
 
 MADAME,
 
@@ -3527,15 +3527,15 @@ Vostre tres humble et tres-obeissant
 serviteur, G.G [371].
 
 
-# Argument du *Téléphonte* de La Chapelle
+# Argument du *Téléphonte* de La Chapelle.
 
 Hermocrate, par amour pour Mérope, a assassiné son époux, Chresphonte, roi de Messénie, a usurpé son trône, et depuis quinze ans, cherche à se marier avec elle. Il a tué trois de ses fils et a mis la tête du quatrième à prix, Téléphonte, que sa mère, prévenue par un oracle, avait confié, âgé d'un an, à Tirène. Un autre oracle a prévenu l'usurpateur qu'il allait mourir à moins que sa fille, Ismène, soit cachée jusqu'à que Téléphonte périsse. Il l'a donc envoyée vivre dans les environs, où Téléphonte et elle sont tombés amoureux, sans que chacun ne connaisse la véritable identité de l'autre. Amynthas, roi d'Étolie, protecteur de Téléphonte, fait courir la rumeur de la mort de l'héritier, et l'envoie, déguisé en ambassadeur, demander la main d'Ismène. Pensant que sa propre vie est désormais sauvée, Hermocrate a fait revenir sa fille auprès de lui et l'informe qu'elle va être mariée à Amynthas, idée qui lui fait horreur. Mérope s'est résolue à épouser Hermocrate, à l'unique condition que la vie de son fils soit épargnée. Elle apprend la rumeur de sa mort. Hermocrate informe le soi-disant ambassadeur que le mariage par procuration va avoir lieu et le laisse seul avec Ismène. Ils se reconnaissent : Téléphonte est choqué de découvrir que la femme qu'il aime se révèle être la fille de son ennemi, alors qu'Ismène, croyant qu'il est Philoxène, constate que le seul obstacle entre eux est son engagement auprès d'Amynthas. Tirène l'encourage à poursuivre son entreprise première, à mépriser son amour et à venger son père. Téléphonte décide de suivre ses conseils. Mérope, apprenant que l'ambassadeur a assassiné son fils, insiste pour qu'il soit tué à son tour. Hermocrate hésite à rompre les lois de la diplomatie, puis, faible face à son amour, accepte finalement. Mais il rechigne à passer à l'acte, craignant que l'ambassadeur soit Amynthas lui-même. Le prince repousse son amante, qui ne comprend pas pourquoi, si Philoxène est Amynthas, il est apparu comme un simple sujet, pauvre, à leur rencontre. Quand elle le questionne encore une fois, il lui révèle qui il est réellement. Elle le supplie alors de ne pas tuer son père et espère les sauver tous les deux, tandis qu'il décide de parvenir à l'assassinat du tyran par la guerre. À nouveau, Tirène lui rappelle son devoir et lui apprend qu'il est à l'origine d'une conspiration à Mycènes. Ismène le prévient qu'elle doit dire à son père qui il est et le pousse à fuir. Pendant ce temps, Mérope a intrigué pour assassiner Hermocrate, mais c'est un échec, Téléphonte étant intervenu auprès des conspirateurs. Mérope décide alors de prendre les choses en mains et s'arme d'un poignard, avec l'intention de tuer Téléphonte, mais elle est arrêtée par Tirène, qui lui révèle que l'ambassadeur est son propre fils. Hermocrate, qui a appris qui était Téléphonte, le fait arrêter et s'apprête à le tuer, quand surgissent Tirène et les conspirateurs. Hermocrate, réalisant que l'oracle avait vu juste, se suicide. Téléphonte, victorieux, tente de consoler Ismène.
 
 
-# Tableaux
+# Tableaux.
 
 
-## Tableau de fréquences de répliques
+## Tableau de fréquences de répliques.
  | scènes | répliques | vers
 Hermocrate | 3 | 33 | 164, 5
 Démochare | 5 | 76 | 296
@@ -3552,7 +3552,7 @@ Amynthor [373] | 1 | 1 | 0, 5
 
 
 
-## Tableau d'apparition des personnages
+## Tableau d'apparition des personnages.
  | Acte I | Acte II | Acte III | Acte IV | Acte V
 Hermocrate |  | X | X |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  |  |  |  | 
 Démochare |  |  | X |  |  | X | X |  | X |  |  |  |  |  |  |  | X |  |  |  |  | 
@@ -3567,10 +3567,10 @@ Tydée et Thoas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 
 
 
-# Œuvres de Gabriel Gilbert
+# Œuvres de Gabriel Gilbert.
 
 
-## Théâtre
+## Théâtre.
 
 *Marguerite de France, tragi-comédie.* Paris, 1641, in-4.
 
@@ -3599,7 +3599,7 @@ Tydée et Thoas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 *Les Peines et les plaisirs de l'amour, pastorale.* Paris, 1672, in-4.
 
 
-## Prose et poésie
+## Prose et poésie.
 
 *Panégyrique des dames, dédié à Mademoiselle*, Paris, 1650, in-4.
 
@@ -3618,13 +3618,13 @@ Tydée et Thoas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 *Cinquante Pseaumes de David mis en vers françois par M.G. Seconde édition, reveue et augmentée du Décalogue et du Cantique de Siméon*, Paris, 1680, in-12.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Antérieures au XVII*e* siècle*Aristote*La Poétique
+### Antérieures au XVII*e* siècle.*Aristote*La Poétique
 *Cavallerino*Telephonte
 *Cicéron*Tusculanes
 *Euripide*Théâtre. Tome quatrième
@@ -3633,10 +3633,10 @@ Tydée et Thoas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 
 
 
-### XVII*e* siècle
+### XVII*e* siècle.
 
 
-#### De Gabriel GilbertMarguerite de France, tragi-comédie.
+#### De Gabriel Gilbert.Marguerite de France, tragi-comédie.
 Rodogune, tragi-comédie.
 Hypolite, ou le garçon insensible, tragédie.
 Séminaris. Tragédie, représentée par la troupe royalle.
@@ -3644,7 +3644,7 @@ Chresphonte, ou le retour des Héraclides dans le Péloponèse, tragi-comédie p
 
 
 
-#### Autres*Aubignac*La Pratique du Théâtre
+#### Autres.*Aubignac*La Pratique du Théâtre
 *Boursault*La Satyre des satyres
 *Chapelain*Lettres
 *Chapelain*Opuscules critiques
@@ -3659,7 +3659,7 @@ Les continuateurs de Loret
 
 
 
-### XVIII*e* siècle*Arckonheltz*Mémoires concernant Christine, reine de Suède …
+### XVIII*e* siècle.*Arckonheltz*Mémoires concernant Christine, reine de Suède …
 *Beauchamps*Recherches sur les Théâtres de France
 *Goujet*Bibliographie françoise et histoire de la littérature françoise
 *Lagrange-Chancel*Amasis
@@ -3670,19 +3670,19 @@ Les continuateurs de Loret
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Bibliographies*Cioranescu*Bibliographie de la littérature française du XVIIème siècle*e*
+### Bibliographies.*Cioranescu*Bibliographie de la littérature française du XVIIème siècle*e*
 *Klapp*Bibliographie der französischen Literaturwissenschaft
 *Rancœur*Bibliographie de la littérature française
 
 
 
-### Dictionnaires
+### Dictionnaires.
 
 
-#### Du XVII*e* siècle*Académie Française*Dictionnaire
+#### Du XVII*e* siècle.*Académie Française*Dictionnaire
 *Furetiere*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Moreri*Le Grand dictionnaire historique ou le mélange curieux de l'histoire sacrée et profane
 *Nicot*Le trésor de la langue française tant ancienne que moderne
@@ -3690,24 +3690,24 @@ Les continuateurs de Loret
 
 
 
-#### ModernesDictionnaire de biographie française
+#### Modernes.Dictionnaire de biographie française
 *Corvin*Dictionnaire encyclopédique du théâtre
 *Gaffiot*Dictionnaire latin-français
 *Grimal*Dictionnaire de la mythologie grecque et romaine
 
 
 
-### Grammaires*Forestier*Introduction à l'analyse des textes classiques
+### Grammaires.*Forestier*Introduction à l'analyse des textes classiques
 *Fournier*Grammaire du français classique
 *Haase A.*Syntaxe française du XVIIème siècle
 *Sancier-Château*Introduction à la langue du XVII*e* siècle
 
 
 
-## Études
+## Études.
 
 
-### Ouvrages généraux*Adam*Histoire de la littérature française au XVII*e* Siècle. Tome I : L'époque d'Henri IV et de Louis XIII
+### Ouvrages généraux.*Adam*Histoire de la littérature française au XVII*e* Siècle. Tome I : L'époque d'Henri IV et de Louis XIII
 *Bénichou*Morales du Grand Siècle
 *Haag*La France Protestante
 *Kibédi Varga*Rhétorique et littérature, Éléments de structures classiques
@@ -3720,7 +3720,7 @@ Les continuateurs de Loret
 
 
 
-### Sur le théâtre du XVII*e* siècle*Baby*La Tragi-comédie de Corneille à Quinault
+### Sur le théâtre du XVII*e* siècle.*Baby*La Tragi-comédie de Corneille à Quinault
 *Barbafieri*Atrée et Céladon : la galanterie dans le théâtre tragique de la France classique (1634-1702)
 *Deierkauf-Holsboer S. Wilma*Le Théâtre de l'Hôtel de Bourgogne
 *Forestier*Essai de génétique théâtrale. Corneille à l'œuvre
@@ -3738,7 +3738,7 @@ Les continuateurs de Loret
 
 
 
-### Sur l'auteur et la pièce*Pellet*A forgotten French dramatist. Gabriel Gilbert (1620 ? -1680 ?)
+### Sur l'auteur et la pièce.*Pellet*A forgotten French dramatist. Gabriel Gilbert (1620 ? -1680 ?)
 
 
 -------

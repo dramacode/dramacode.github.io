@@ -24,21 +24,21 @@ AVEC PRIVILEGE DU ROY.
 Édition critique établie par Oriane Morvan dans le cadre d'un mémoires de master 1 sous la direction de Georges Forestier (2011-2012)
 
 
-# Préface
+# Préface.
 
 Nous sommes en janvier 1676, il gèle, les spectateurs se pressent rue des Fossés-de-Nesle, à l'Hôtel Guénégaud, endroit magique mêlant Thalie, Euterpe et le Génie de la France. Dans le théâtre il fait bon, la salle est chauffée, les spectateurs feuillettent le livret de la pièce en écoutant les musiciens accorder leurs instruments au pied de la scène. C'est la trentième représentation d'une pièce ; son titre : *L'Inconnu* ; son auteur : Thomas Corneille, flanqué des talents du polygraphe Donneau de Visé et du compositeur Marc-Antoine Charpentier. La pièce n'en est qu'au début de sa carrière : elle sera jouée pendant plus de soixante-dix ans jusqu'en 1746. Pourtant aujourd'hui la pièce et son auteur sont tombés dans l'oubli. Pourquoi ce succès au XVIIème siècle ? Quelles étaient les attentes des spectateurs ? En quoi le spectacle y répondait-il ? Peut-être est-ce parce que le public y trouvait un univers merveilleux alliant la musique, la danse, le chant, la comédie, des décors changeants, une intrigue galante à souhait et pleins d'autres choses encore…
 
 
-# Première partie : Une collaboration plurielle
+# Première partie : Une collaboration plurielle.
 
 
-## Les auteurs
+## Les auteurs.
 
 
-### Thomas Corneille
+### Thomas Corneille.
 
 
-#### Sa vie
+#### Sa vie.
 
 Thomas Corneille fut l'un des plus importants polygraphes de son temps. Ecrivain admiré, respecté, mais aussi fortement critiqué et accablé lors de querelles et de polémiques. Il signa un grand nombre de pièces à succès telles *Timocrate* (1656), *Ariane* (1672), *Circé* (1675), *La Devineresse* (1679), qui lui conférèrent un statut d'auteur aussi connu et réputé que d'autres contemporains passés à la renommée comme son frère Pierre Corneille, Racine ou encore Molière. Dans la préface de la pièce *Ariane*, Voltaire dit même de notre écrivain :
 
@@ -68,7 +68,7 @@ En 1684 son frère Pierre Corneille mourut. Comme après la mort de Molière, la
 Pendant les dernières années de sa vie, le Sieur de l'Isle se consacra à d'importants travaux d'érudition comme la traduction des *Métamorphoses* d'Ovide, ou encore la rédaction d'un *Dictionnaire universel géographique et historique*. Même s'il continua à être assidu aux réunions de l'Académie Française, vers 1700 il cessa son activité au *Mercure Galant*, se privant par-là de ses meilleures ressources financières. Aveugle depuis 1704, il s'éloigna de la vie parisienne en 1708 et se réfugia aux Andelys, dans une maison reçue en héritage de sa femme. Il y mourut le 8 décembre 1709.
 
 
-#### Un écrivain de l'instant
+#### Un écrivain de l'instant.
 
 Pourquoi Thomas Corneille est-il tombé dans l'oubli ? Pourquoi son œuvre, si dense et plurielle, n'a-t-elle pas survécu à son temps ? Véritable polygraphe comme nous venons de le voir, ce dramaturge s'exerça à tous les genres qu'offre la littérature au XVIIème siècle. Thomas Corneille s'affirme comme un écrivain investi dans le champ créatif de son temps. Mais l'investissement et le caractère prolifique que manifesta le jeune Corneille, l'ont peut-être empêché de survivre au temps qui passe, et en ont fait un écrivain « de l'instant », à l'inverse de son frère, écrivain toujours lu trois siècles plus tard. En établissant un rapide panorama de l'œuvre du Sieur de l'Isle, nous justifierons la théorie selon laquelle Thomas est un écrivain de l'instant, c'est-à-dire un écrivain reflétant les goûts littéraires de son époque, un écrivain qui suivant la mode et ne cherchant pas à passer à la postérité, souhaite plaire au public de son époque.
 
@@ -81,7 +81,7 @@ Même s'il n'est pas un dramaturge novateur, on peut lui reconnaitre néanmoins 
 Thomas est un écrivain de l'instant, très en vogue à son époque, mais sa principale motivation d'écriture, suivre la mode des parisiens pour leur plaire, s'est retournée contre lui. Elle en a fait un écrivain mondain d'une très grande renommée au XVIIème siècle, mais bien oublié de nos jours.
 
 
-### Jean Donneau de Visé
+### Jean Donneau de Visé.
 
 Critique littéraire, écrivain, père fondateur du journalisme, c'est la figure d'un homme ambitieux, tapageur et talentueux dans ses entreprises que l'on conserve de Jean Donneau de Visé. Toujours guidé par l'envie de se faire reconnaître dans le monde des lettres du XVIIème siècle, il accomplit ses projets, arriva à obtenir à la fin de sa vie les faveurs du roi, et réussit à « *être célèbre dans l'Europe entière* », nous dit Pierre Mélèse dans son livre, *Un Homme de lettres au temps du grand roi, Donneau de Visé, fondateur du Mercure Galant*.
 
@@ -110,7 +110,7 @@ Donneau de Visé s'investissait dans la politique de son temps. Il relatait dans
 Comme son ami Thomas Corneille, Donneau devint aveugle en 1706, quelques années avant sa mort. Il n'arrêta pas son activité de rédacteur en chef du *Mercure Galant*, à la différence de Thomas Corneille qui n'exerçait plus cette charge depuis huit ans environ. C'est donc secondé par des secrétaires qu'il continua la rédaction de son journal en relatant les faits et gestes de la cour. Le dernier numéro du *Mercure* parut en juin 1710. Jean Donneau de Visé s'éteignit le 8 juillet 1710 dans son logement du Louvre.
 
 
-### Marc-Antoine Charpentier
+### Marc-Antoine Charpentier.
 
 Né en 1643 à Paris et mort en 1704, Charpentier eut une grande carrière de compositeur qui s'étendit de 1670 à 1704. Il signa 150 œuvres qui manifestèrent la grande diversité de style à laquelle Marc-Antoine Charpentier s'exerçait : opéras, messes, motets, pastorales, cantates, sonate, histoires sacrées, airs sérieux et à boire (dont deux airs de la fin de *L'Inconnu*), comédies-ballets, pièces à machines, divertissements, noël pour les instruments. Aucun compositeur français de son époque ne s'est montré aussi prolifique que lui.
 
@@ -126,13 +126,13 @@ Il perfectionna sa formation à Rome. Pendant trois ans il fut l'élève du musi
 Après l'Italie le retour en France fut difficile. L'Italie n'était pas très appréciée en France car Lully prônait et imposait la musique française comme seule musique honorable auprès du roi. Charpentier composa pour d'importants personnages de l'époque, il fut longuement protégé par la famille de Guise. Sa grande activité se développa le plus souvent en périphérie de la cour royale. En effet, le monopole de Lully sur la musique royale l'en tint éloigné. On mentionne généralement leur rivalité en évoquant le paradoxe de la situation : l'un d'origine italienne donne à l'art français son style et son essence et l'autre d'origine française transmet à la musique de son pays, la manière de composer apprises au contact des Italiens. Lully et Molière se brouillèrent en 1672, époque à laquelle le compositeur obtint le monopole de la musique royale. Molière proposa alors à Marc-Antoine Charpentier de collaborer à la musique de ses comédies-ballets. Il composa ainsi, des scènes chantées dans *Le Mariage forcé* et *Le Malade imaginaire*. Ce n'est qu'après la mort de Lully en 1687, que Charpentier put s'essayer librement au style de l'Opéra. Il composa *Médée*, entre 1693 et 1694, sur un poème de Thomas Corneille. Ce fut un échec. Jusqu'à la fin de sa vie il se consacra à la musique religieuse.
 
 
-## Genèse du projet de *L'Inconnu*
+## Genèse du projet de *L'Inconnu*.
 
 
-### L'inspiration première : la nouvelle X, des Nouvelles galantes de Donneau de Visé (1669) [5]
+### L'inspiration première : la nouvelle X, des Nouvelles galantes de Donneau de Visé (1669) [5].
 
 
-#### Résumé de la nouvelle
+#### Résumé de la nouvelle.
 
 Pierre Mélèse [6] nous rappelle, que Donneau de Visé publia dans le deuxième livre des Nouvelles galantes, comiques et tragiques (paru en 1669), que « figurait une nouvelle, la 10*è*, intitulée L'Inconnu, où se trouva le thème de la comédie dont il fut bien l'inspirateur. » C'est cette nouvelle qui inspira Thomas Corneille pour sa pièce du même nom publiée quelques années plus tard, en 1675. Le sujet de la nouvelle que voici est exactement l'intrigue de la pièce.
 
@@ -143,12 +143,12 @@ Adraste charme sa maîtresse avec tendresse et intention : il lui écrit de nom
 Un jour, véritablement résolue à découvrir l'identité de l'Inconnu, Adélaïde confie à Adraste le soin de trouver la personne qui la séduit secrètement, tout en lui avouant à quel point elle est amoureuse de cet amant caché. Adraste heureux de voir que ses divertissements réussissent, accepte la requête, mais inquiet de la réaction d'Adélaïde quand elle apprendra qu'il s'agit de lui, décide de ne pas se dévoiler et de continuer à se faire apprécier par des divertissements. L'amoureux toujours la séduit et la divertit magnifiquement ; Adélaïde insiste quotidiennement auprès d'Adraste sur sa quête de l'Inconnu. Cela prenant du temps, elle interdit à Adraste de la voir tant qu'il n'aura pas découvert de qui il s'agit. Enfin, il prend la décision de se découvrir. Le lendemain, elle se réveille au milieu de quantités de magnifiques tablettes sur lesquelles est écrite la déclaration de l'Inconnu et son identité: Adraste se révèle ainsi. Adélaïde se donne finalement à cet amant qui l'a si bien séduite, mais ne l'épouse pas.
 
 
-#### Comparaison entre la pièce et la nouvelle
+#### Comparaison entre la pièce et la nouvelle.
 
 Il ne fait aucun doute que cette nouvelle X appartenant aux *Nouvelles galantes* de Donneau de Visé publiées en 1669, fut la source d'inspiration de *L'Inconnu*, pièce de Thomas Corneille. Un jeune homme cherche à séduire la femme qu'il aime, et pour cela, la divertit de manière cachée. Les deux textes tous les deux appelés *L'Inconnu*, reprennent la même intrigue. Même si le sujet est identique, nous pouvons relever quelques différences.
 
 
-##### Les similitudes
+##### Les similitudes.
 
 La réussite de cette séduction cachée auprès d'Adélaïde ou de la Comtesse provoque la jalousie de ses autres amants. Au même titre que la jalousie et le désir de trouver l'identité de l'Inconnu, les amants d'Adélaïde comme le Vicomte dans *L'Inconnu*, cherche à découvrir qui se cache derrière.
 
@@ -163,7 +163,7 @@ Pour la nouvelle et la pièce, l'intrigue se situe en province dans un château 
 Pour le dénouement, même si le procédé n'est pas le même dans la pièce que dans la nouvelle, le décor et le contexte sont identiques. Adélaïde se réveille dans sa chambre le matin et découvre l'identité de son Inconnu ; le décor de la petite pièce insérée dans la pièce représente une chambre à coucher.
 
 
-##### Les différences
+##### Les différences.
 
 Les personnages de la nouvelle possèdent un nom qui leur est propre. Chez Thomas Corneille les « doubles » d'Adraste et Adélaïde ne sont pas nommés mais juste qualifiés par leur rang social : le Marquis et la Comtesse. Comme nous le verrons plus tard, il y a une volonté propre du dramaturge de ne pas nommer plus précisément ses personnages principaux.
 
@@ -174,10 +174,10 @@ Les dénouements ont la même finalité : révéler l'identité de l'Inconnu. O
 Les divertissements de la nouvelle et de la pièce, même s'ils reprennent tous le caractère de la magnificence, du luxe et du faste, ne sont pas similaires. Par exemple, le divertissement d'Adraste monté autour du jeu du corbillon n'est pas repris chez Corneille, comme encore le dîner sur l'île. Si les divertissements ne sont pas identiques, c'est parce que dans l'écriture d'une pièce, des difficultés inexistantes à l'écriture d'une nouvelle apparaissent. Le dramaturge ne peut se permettre de placer les divertissements dans plusieurs endroits différents, comme le fait Donneau dans sa nouvelle, par respect de la règle des unités.
 
 
-### Une genèse multiple
+### Une genèse multiple.
 
 
-#### Genèse historique
+#### Genèse historique.
 
 Le thème de la séduction incognito est un sujet souvent exploité depuis plusieurs années. Ce sujet fourni une matière intrigante permettant ainsi à de nombreux genres de l'utiliser et de nourrir les intrigues. Nous le voyons chez Donneau avec le genre de la nouvelle, au théâtre avec Thomas Corneille, mais encore dans le ballet. Ainsi ces expériences ont souvent été pratiquées avant la conception de la comédie de *L'Inconnu*, et cette ne reprend donc qu'un sujet commun. La nouvelle X du tome 2 des *Nouvelles galantes comiques et tragiques* est paru en 1669, quelques années avant la pièce qui fut publiée en 1676. Nous pouvons mentionner un autre exemple qui fut reconnu royalement et qui conféra donc à ce genre d'intrigue une certaine reconnaissance.
 
@@ -186,7 +186,7 @@ En 1656, au Louvre, le roi danse le premier rôle d'un ballet de Lully, intitul�
 Ce ballet est d'ailleurs lui-même antérieur à la création de la nouvelle de Donneau. Nous voyons là une réelle inspiration de sujet déjà exploités. Cette manière de reprendre les textes et les idées déjà parues est en réalité ce qui permet à la littérature de grandir et de prospérer et nous pouvons en voir une trace au sein même de notre pièce.
 
 
-#### Genèse littéraire
+#### Genèse littéraire.
 
 Ainsi donc Jean Donneau de Visé est la source d'inspiration de Thomas Corneille et c'est avec l'aide de cet « inspirateur » que le dramaturge écrivit sa comédie *L'Inconnu*. En effet, Donneau de Visé décida de développer plus largement son propre texte à l'aide d'un écrivain talentueux et réputé bon versificateur.
 
@@ -277,12 +277,12 @@ Mon sort égalera le destin le plus doux. » (v. 361)
 Les caractéristiques de la coquette définies par Molière établissent le modèle de la coquette et Corneille et Donneau de Visé s'en inspirent largement.
 
 
-## Conséquence de la publication
+## Conséquence de la publication.
 
 Ce que nous appelons « conséquence de la publication », est l'attribution de l'écriture de la pièce à un seul auteur alors que, comme nous venons de l'exposer, trois personnes collaborèrent à sa création. En effet, un seul nom est mentionné dans le Privilège du roi, et c'est le même qui apparait sur la première de couverture : Thomas Corneille. Pourquoi Jean Donneau de Visé n'est-il pas nommé, ni Marc-Antoine Charpentier ? Nous nous intéresserons à Donneau de Visé car il a le statut d'écrivain au même titre que Thomas Corneille alors que Marc-Antoine Charpentier, étant compositeur, est « l'employé » des deux écrivains pour la réalisation de leur projet.
 
 
-### Place primordiale de Jean Donneau de Visé
+### Place primordiale de Jean Donneau de Visé.
 
 Plusieurs sources affirment la place prépondérante que Donneau de Visé occupa dans la confection de *L'Inconnu* et confirment ainsi son rôle de réel inspirateur. Pierre Mélèse [9], entre autres, ne se prive pas de nous les rappeler.
 
@@ -305,13 +305,13 @@ Donneau de Visé est le créateur du sujet : il a sans doute cherché à dével
 En effet, Donneau était plus réputé pour son talent de chroniqueur et de journaliste que pour son talent d'écrivain ce qui expliquerait l'aide qu'il reçut de Thomas Sieur de l'Isle et de la présentation de la pièce sur une des plus grandes scènes parisiennes. Donneau de Visé ne jouit pas d'une très grande réputation en tant qu'auteur dramatique à la différence de son ami. Depuis 1671, 1672, ses pièces reçoivent un succès mitigé. En 1675, c'est en compagnie de Thomas Corneille qu'il reprend le genre théâtral. Thomas Corneille est un dramaturge qui signe de nombreux succès. Au XVIIème siècle il est connu, et a une très bonne réputation. Faire passer la pièce comme étant le fruit de cet écrivain assurait donc à la pièce de meilleures ventes et un meilleur succès. Voilà donc pourquoi le seul nom de Thomas Corneille apparaitrait sur la première de couverture et dans le privilège du roi.
 
 
-# Deuxième partie : Trois arts en une pièce
+# Deuxième partie : Trois arts en une pièce.
 
 
-## Description et résumé de la pièce
+## Description et résumé de la pièce.
 
 
-### Description
+### Description.
 
 *L'Inconnu* est une comédie en cinq actes écrite en vers réguliers (alexandrins), avec un prologue et des divertissements [11] en vers libres. Chaque acte contient un divertissement qui lui est propre. Ces intermèdes peuvent être chantés, dansés, machinés, ils ponctuent l'action dramatique.
 
@@ -341,15 +341,15 @@ Liste des personnages :
  * – Cascaret : valet de la Comtesse
 
 
-### Résumé
+### Résumé.
 
 
-#### Prologue
+#### Prologue.
 
 Thalie, muse de la comédie, et le Génie de la France dialoguent sur la situation du théâtre en France au XVIIème siècle. Après que le Génie a montré par des prouesses spectaculaires comment il pouvait être utile à la muse, ils introduisent le sujet de la comédie qu'ils dirigeront tous les deux : la muse est la créatrice du projet et grâce au Génie, le « décorateur  de divertissements », elle peut le réaliser.
 
 
-#### Acte I
+#### Acte I.
 
 ⁎Scène Première : Le Marquis et son valet La Montagne prépare tous les deux le prochain divertissement qu'ils vont présenter à la Comtesse.
 
@@ -364,7 +364,7 @@ Thalie, muse de la comédie, et le Génie de la France dialoguent sur la situati
 ⁎Scène 6 : Le premier divertissement intervient : deux enfants représentant l'Amour et la Jeunesse, ainsi qu'un valet More chantant une ballade en italien. Parmi les flèches de l'Amour, la Comtesse retire un mot de l'Inconnu qui lui proclame son amour. En échange, elle remet à l'Amour une bague pour l'Inconnu.
 
 
-#### Acte II
+#### Acte II.
 
 ⁎Scène 1 : Olimpe et Mélisse parlent de l'amour florissant d'Olimpe pour le Marquis, celle-ci délaisse le Chevalier. Mélisse essaye de la raisonner.
 
@@ -383,7 +383,7 @@ Thalie, muse de la comédie, et le Génie de la France dialoguent sur la situati
 ⁎Scène 8 : Des jeux de bâtons les divertissent ainsi qu'un dialogue entre les dieux Vertumne et Pomone sur la beauté de la Comtesse. A la fin du divertissement, la Comtesse tente de nouveau de connaître le commanditaire de ses festivités.
 
 
-#### Acte III
+#### Acte III.
 
 ⁎Scène 1 : La Comtesse et Olimpe, en compagnie de Virgine polémiquent sur le dévouement d'un amant pour la femme qu'il courtise, la Comtesse critique l'attitude du Marquis. La Comtesse interroge Olimpe sur l'époux qu'elle choisirait entre le Marquis et l'Inconnu. Olimpe ne répond pas car la Comtesse évoque immédiatement le Chevalier. Olimpe ne désirant pas s'étendre sur le sujet prend congé de la Comtesse.
 
@@ -402,7 +402,7 @@ Thalie, muse de la comédie, et le Génie de la France dialoguent sur la situati
 ⁎Scène 8 : Virgine revient en annonçant qu'elle n'a pas retrouvé la troupe de bohémiens. La Comtesse est déçue de ne pas pouvoir rendre la montre, et reste déterminée à vouloir découvrir l'identité de l'Inconnu.
 
 
-#### Acte IV
+#### Acte IV.
 
 ⁎Scène 1 : Le Marquis annonce à la Comtesse qu'il se sacrifie face à l'Inconnu qui la séduit si facilement. La Comtesse accepte et est résolue à prendre l'Inconnu comme époux.
 
@@ -419,7 +419,7 @@ Thalie, muse de la comédie, et le Génie de la France dialoguent sur la situati
 ⁎Scène 7 : Olimpe et le Marquis se retrouvent seuls. Olimpe pour s'excuser d'avoir vanté l'Inconnu devant le Marquis, accepte sans condition une grâce que celui-ci lui demande : prendre un époux dès que la Comtesse aura, elle aussi, prit un époux. Olimpe, décidée à découvrir qui est l'Inconnu, écrit un billet qu'elle veut lui remettre par l'intermédiaire du Comédien qu'elle a deviné être le Comus du dernier divertissement.
 
 
-#### Acte V
+#### Acte V.
 
 ⁎Scène 1 : Virgine et le Marquis partagent leurs avis sur les événements. Nous apprenons dans le billet d'Olimpe, qu'elle a feint avoir vu l'Inconnu, et qu'elle le presse de se dévoiler, elle lui promet qu'elle a vanté son image auprès de la Comtesse. Le Marquis prend la décision de se découvrir à la Comtesse.
 
@@ -435,13 +435,13 @@ Thalie, muse de la comédie, et le Génie de la France dialoguent sur la situati
 Zéphire, Cephise et l'Amour se tournent vers la Comtesse et lui expliquent le parallèle entre l'histoire de la pièce et celle qu'elle vit. Pour lui dévoiler son amant, l'Amour lui donne un portrait. Le Marquis est découvert comme étant l'Inconnu. Les différents quiproquos sont expliqués, et la Comtesse accepte d'épouser le Marquis. Olimpe, pour respecter la promesse faite au Marquis, prend le Chevalier pour époux. Le Vicomte, lui, part seul.
 
 
-## L'Hôtel Guénégaud : carrefour de ces trois arts
+## L'Hôtel Guénégaud : carrefour de ces trois arts.
 
 
-### L'Hôtel Guénégaud
+### L'Hôtel Guénégaud.
 
 
-#### Description matérielle
+#### Description matérielle.
 
 A Paris, au 17*ème* siècle, la construction d'un théâtre est exceptionnelle. En un siècle, un seul sera construit dans la capitale, la Comédie Française en 1688. On aménage des salles déjà existantes, comme les jeux de paume, en salle de spectacle.
 
@@ -455,7 +455,7 @@ L'Hôtel Guénégaud subit ainsi plusieurs évolutions : il fut, en premier lie
 La salle est composée d'une scène mesurant exactement 9, 75 mètres de large, devant laquelle un parterre – de la même largeur – est entouré de trois galeries de loges qui peuvent accueillir 4, 6, 8 ou 12 spectateurs. Le parterre, occupé par des gradins, permet aux spectateurs de s'asseoir : chose nouvelle à l'époque. Mais notons que les gradins furent supprimés lors de la rénovation de la salle en 1673, ils étaient donc absents pour la représentation de *L'Inconnu* en 1675. Cette salle était particulièrement confortable grâce notamment à un système de chauffage. Lors de son inauguration le 9 juillet 1673, l'Hôtel Guénégaud est le théâtre public « le mieux occupé et le plus confortable de la capitale. » [14] Environ 1320 spectateurs pouvaient être accueillis.
 
 
-#### Un point de rencontre des arts du XVIIème siècle
+#### Un point de rencontre des arts du XVIIème siècle.
 
 Dès son ouverture en 1673, le théâtre Guénégaud – spécialisé dans les représentations de pièces à grand spectacle – dû faire face à la concurrence de l'opéra de Lully. Il fut forcé d'adapter son répertoire aux nouvelles exigences imposées par le roi en 1673 ; exigences qui permettaient à Jean-Baptiste Lully d'avoir la main mise sur tous les spectacles utilisant de la musique.
 
@@ -464,14 +464,14 @@ L'Hôtel Guénégaud fut un carrefour entre les arts du XVIIème siècle car il 
 L'Hôtel Guénégaud a très souvent collaboré avec Thomas Corneille et son acolyte Jean Donneau de Visé qui excellaient dans le genre des pièces à machines. De nombreuses pièces des deux auteurs y furent représentées : *Circé* (1675), *L'Inconnu* (1675), ou encore *La Devineresse* (1679). Le succès de ces pièces à grand spectacle assurait régulièrement une salle pleine et de bonnes rentrées financières. La réputation de ce théâtre comme endroit privilégié pour la représentation des pièces à machines est justifiée par la création, en ses murs, de *Circé* de Thomas Corneille pièce considérée comme l'apothéose du genre. Ce théâtre ne se limite pas à ce genre, puisqu'avec *L'Inconnu*, pièce n'utilisant pas que les machines, l'Hôtel Guénégaud s'ouvrit à d'autres horizons faits de nouveautés dramaturgiques.
 
 
-### La représentation de L'Inconnu
+### La représentation de L'Inconnu.
 
 C'est le 17 novembre 1675, que Thomas Corneille et Donneau de Visé présentèrent leur nouvelle collaboration, *L'Inconnu*, une comédie en cinq actes précédée d'un prologue et de nombreux divertissements. Cette pièce rencontra un véritable succès et fut souvent mise au répertoire l'année de sa création. En effet, trente-trois représentations se succédèrent sans discontinuer. Nous pouvons imaginer l'Hôtel Guénégaud comme le point de rendez-vous des parisiens et bénéficiant d'une enviable notoriété.
 
 Quelques chiffres concernant les recettes de *L'Inconnu* nous sont parvenus. Catherine Cessac, nous apprend le salaire touché chaque soir par le compositeur: il fut payé 11 livres 10 sols par représentation [15]. Pierre Mélèse reprend le *Registre* de La Grange [16] qui nous apprend que la première représentation de la pièce rapporta 1 418 livres et 10 sols et la seconde 720 livres. Jusqu'à la 28*ème* représentation, c'est-à-dire le 21 janvier 1676, les recettes étaient en moyenne de 1 000 livres par soir. Gustave Reynier [17] nous livre également quelques chiffres : les dépenses générales pour la pièce s'élevaient à 2 500 livres et les frais journaliers étaient de 175 livres ce qui offrait de bons bénéfices à la troupe et au théâtre. Il nous révèle également que, *L'Inconnu* rapporta 2 000 livres à chacun des deux auteurs.
 
 
-#### La musique
+#### La musique.
 
 Une des spécificités de la représentation de *L'Inconnu* est la mise en scène de la musique avec l'emploi de musiciens, de chanteurs et de danseurs. Thomas Corneille, Donneau de Visé, Marc-Antoine Charpentier et les comédiens de la troupe Guénégaud, pour la représentation de leur projet musical autant que théâtral outrepassèrent leur droit. Alors que l'ordonnance royale de 1673, interdisait aux troupes parisiennes d'employer des musiciens, chanteurs et danseurs extérieurs à leur troupe, la troupe Guénégaud fit venir des danseurs et des chanteurs à gages. Lors des divertissements le nombre de personnes sur le plateau dépasse le nombre de comédiens « déclarés ». Ces danseurs, chanteurs et comédiens ne sont généralement pas mentionnés parmi les personnages d'une scène. Le théâtre à grand spectacle nécessitait beaucoup de personnel, aussi bien sur scène que dans les coulisses. Mais à la différence de *Circé*, où Lully les avait réprimandés en publiant une nouvelle ordonnance royale plus stricte – sont autorisés deux musiciens et deux chanteurs maximum appartenant obligatoirement à la troupe – le détenteur de l'Académie royale de musique ne réclama rien pour *L'Inconnu*, car on lui avait promis sans doute que cette infraction à la loi serait la dernière. Gustave Reynier, nous apprend aussi, que pour la mise en scène, les violons de l'orchestre avaient été
 
@@ -479,7 +479,7 @@ Une des spécificités de la représentation de *L'Inconnu* est la mise en scèn
 réduits au nombre réglementaire de six, mais au lieu de les laisser dans la loge du fond, où on avait coutume de les mettre, on leur avait donné entre la scène et le parterre la place qu'ils ont conservée depuis. [18]
 
 
-#### Les décors
+#### Les décors.
 
 Arrêtons-nous à présent sur les décors de *L'Inconnu* : que représentaient-ils ? Comment étaient-ils mis en scène ? La plupart des informations nous parviennent de la pièce publiée qui indique par ses didascalies, internes ou externes au discours, les mouvements de décors et ce qu'ils représentent. Le livret du spectacle publié simultanément à la représentation et vendu « à la Porte de la Comédie, où l'on prend les Billets », livre aussi de précieux renseignements sur les conditions matérielles de la mise en scène.
 
@@ -512,13 +512,13 @@ le devant est orné d'un fort beau Tapis … Au dessus de la Corniche de ces Pil
 Dans le livret cette fin n'existe pas, le théâtre est juste mentionné mais n'apparait pas sur scène. La fin présentée lors des premières représentations, ne montre aucun aménagement de décors supplémentaires.
 
 
-## Trois arts en une pièce
+## Trois arts en une pièce.
 
 
-### La Comédie
+### La Comédie.
 
 
-#### Rappel historique sur la situation de la comédie et XVIIème siècle
+#### Rappel historique sur la situation de la comédie et XVIIème siècle.
 
 Le *Dictionnaire de l'Académie*, donne cette définition de la comédie :
 
@@ -532,12 +532,12 @@ Mais malgré l'instauration de règles, la comédie n'en reste pas moins un genr
 La Comédie acquiert une indépendance face au genre dominant, la tragédie. Elle acquiert une identité propre et restant protéiforme elle imposera des personnages, des situations, et plusieurs éléments comiques.
 
 
-#### *L'Inconnu*, une comédie classique
+#### *L'Inconnu*, une comédie classique.
 
 Notre pièce, créée en 1675, s'inscrit dans l'âge d'or du genre comique. Avant de développer plus largement les caractères types de *L'Inconnu*, nous montrerons comment, dans sa pièce, Thomas Corneille respecte les règles de la dramaturgie classique : la vraisemblance, la règle des trois unités et le respect des bienséances.
 
 
-##### La vraisemblance
+##### La vraisemblance.
 
 Thomas Corneille prend un sujet commun pour le XVIIème siècle, celui du divertissement des nobles en leur château. Ce phénomène étant très étendu, le dramaturge n'invente pas une situation. De surcroit, il doit donner un caractère de vraisemblance à l'intrigue qu'il développe. Pour *L'Inconnu*, il s'agit de rendre vraisemblable l'insertion des divertissements dans l'intrigue.
 
@@ -569,17 +569,17 @@ Je n'iray pas bien loin, Madame, le voici. (1699).
 Comme nous venons de le voir, le procédé de vraisemblance, qui repose sur l'insertion logique des divertissements au sein de l'intrigue, est respecté. Thomas Corneille fait venir les divertissements du hors-scène, lieu permettant l'introduction de n'importe quel élément depuis n'importe quel endroit, lieu invisible au spectateur dont l'imagination pourvoit à l'absence.
 
 
-##### La règle des trois unités
+##### La règle des trois unités.
 
 La règle des trois unités s'applique au temps, au lieu, et à l'action. *L'Inconnu* s'inscrit dans cette perspective d'unité.
 
 
-###### L'unité d'action
+###### L'unité d'action.
 
 Il s'agit d'un marquis qui, pour séduire sa Comtesse, lui présente de nombreux divertissements de manière anonyme. Les cinq actes de la pièce développent cette unique action. Bien entendu, quelques obstacles et péripéties interviennent, mais toujours en s'articulant autour du même sujet. Les divertissements sont l'instrument de séduction du Marquis, et ne perturbent donc pas l'unité d'action.
 
 
-###### Unité de lieu
+###### Unité de lieu.
 
 Tout d'abord, notons que dans notre analyse de l'unité de lieu nous ne parlerons pas du prologue qui est un élément à part. Nous nous focaliserons sur l'intrigue principale. Généralement au XVIIème siècle, « *l'ennemi de l'unité de lieu est le goût du public pour les éléments spectaculaires de la représentation théâtrale.* » [26] Or, même si notre pièce s'annonce sous le signe du spectacle, Thomas Corneille n'en respecte pas moins l'unité de lieu.
 
@@ -593,27 +593,27 @@ Ainsi apparaît le lien indissociable entre l'unité d'action et l'unité de lie
 Mais cette unité est un tout petit peu moins respectée dans la représentation sur scène. Comme nous l'étudierons plus loin, le livret du spectacle donne des informations supplémentaires sur les décors de la pièce. Ainsi, si le premier acte se déroule dans le château de la Comtesse, le deuxième dit se passer à l'extérieur, dans « un Bois non loin du Chasteau ». Si nous tenons au respect de l'unité de lieu, on peut imaginer le décor du château représenterait le devant du domaine avec sur le côté un début de bois ; ou une pièce ouverte sur le bois naissant. Même si Thomas Corneille présente de nombreux spectacles, qui en temps normal introduisent des difficultés pour les dramaturges désireux de respecter l'unité de lieu, *L'Inconnu* n'offre pas de difficultés à ce sujet. Soit, il fait intervenir les divertissements depuis le hors-scène, donc d'un lieu imaginaire, soit, le divertissement est une petite pièce de théâtre présentée aux acteurs de la pièce, et le dramaturge en profite pour introduire un nouveau décor dans le cadre du divertissement. Les lieux allusifs situés dans le hors-scène sont également situés dans l'imaginaire du spectateur qui se construit ainsi ses propres décors. Le dramaturge laisse une place de création au spectateur et donc ne déroge pas à l'unité de lieu.
 
 
-###### L'unité de temps
+###### L'unité de temps.
 
 Même si aucun indice précis ne nous est donné sur la durée de l'action, nous pouvons penser que, notre pièce se déroule en une journée, car les divertissements, séparés simplement par de courtes scénettes, s'enchainent les uns aux autres et ponctueraient ainsi la journée.
 
 
-##### Le respect des bienséances
+##### Le respect des bienséances.
 
 Dans notre pièce à l'intrigue comique plutôt légère, les critères de la bienséance sont entièrement respectés. Aucun meurtre, juste une brève allusion à un duel à la scène 2 de l'Acte IV : le Chevalier menace le Marquis en duel si ce dernier ose lui prendre Olimpe : « Avant qu'il m'oste Olimpe il m'ostera la vie » (v. 1417). Mais ni la mort, ni la violence ne sont représentées sur la scène.
 
 Respect de la bienséance également dans le langage employé. Au XVIIème siècle, la comédie est devenue un genre littéraire pouvant être représentée devant la haute société. Ainsi, pour la différencier de la farce, le style utilisé ne devait pas être grossier, mais à minima être de style moyen. Dans notre pièce on ne remarque aucune entorse à ce principe de bienséance. Bien au contraire, *L'Inconnu* est écrit dans le respect des règles qui confèrent aux pièces la forme la plus honorable : elle adopte « la coupe » en cinq actes et est écrite sous la forme la plus respectée, l'alexandrin. Les divertissements sont également rédigés en vers, mais deviennent irréguliers.
 
 
-### Les pièces à machines
+### Les pièces à machines.
 
 
-#### Le théâtre à machines au XVIIème siècle
+#### Le théâtre à machines au XVIIème siècle.
 
 Sur les scènes parisiennes où se côtoient les arts du spectacle, le théâtre à machines est à la croisée du théâtre classique et de l'Opéra. L'arrivée de l'Opéra italien en France permet l'évolution du théâtre à machines qui, s'affirme comme rival de ce genre. Mais le théâtre à grand spectacle conduira à la naissance de l'Opéra français.
 
 
-##### Généralités sur les pièces à machines
+##### Généralités sur les pièces à machines.
 
 Entre 1596 et 1640, les pièces à machines apparaissent pour la première fois dans la pastorale [28]. Avec les années, leur présence au sein de la dramaturgie classique prendra une ampleur considérable. La machinerie sera introduite autant dans la comédie que dans la tragédie et prendra parfois le pas sur l'intrigue. Ce genre est à son apogée dans les années 1670. Il est un spectacle total vu comme la représentation de la puissance du règne de Louis XIV. Un seul genre domine tous les arts comme un Roi domine tous un royaume. De plus sont réunis en un seul spectacle tous les arts que Louis XIV aimait tant. *Circé* de Thomas Corneille (1675), est considérée comme la dernière grande pièce à machines, l'emploi de celles-ci atteignant leurs limites. Après cette création le genre s'essouffle, l'Opéra s'impose comme le principal genre lyrique et spectaculaire. Ce dernier dépasse les machineries par ses composantes telles le chant et la danse, au détriment d'une intrigue complète où la machine pouvait être utilisée à bon escient et avec cohérence.
 
@@ -624,7 +624,7 @@ En le comparant à la perspective dramaturgique classique, nous remarquons que l
 Comme nous l'avons précisé plus haut, un des premiers genres investit par les machineries est la pastorale. Pour justifier l'intervention des machines dans l'action dramatique, les auteurs profitent des virtualités qu'offrent la fable ou l'histoire pour mettre en scène le merveilleux surnaturel et magique. Le prologue et le dénouement, habituellement récités par des dieux, se sont adaptés aux conditions matérielles de la représentation dès les années 1630 pour renforcer la dimension merveilleuse de la pièce. Avec l'expansion du genre, les machineries ne se sont pas cantonnées au début et à la fin de l'action, elles ont investi tous les niveaux de l'intrigue jusqu'à parfois l'ensevelir.
 
 
-##### Généralités sur les décors machinés
+##### Généralités sur les décors machinés.
 
 Avec la venue des pièces à machines certains corps de métiers prennent de l'importance, comme le décorateur, qui devient aussi important que l'auteur ou les comédiens.
 
@@ -633,14 +633,14 @@ Le théâtre à machines utilise, entre autres, un principe de décoration succe
 La typologie du décor présentée tient souvent au statut des personnages mis en scène, ainsi qu'aux moyens financiers des comédiens car c'est une activité très coûteuse. Ainsi un même décor pouvait rester sur scène pendant la durée de la représentation car la troupe ne pouvait pas se permettre d'en présenter plus.
 
 
-#### *L'Inconnu*, une pièce à machines
+#### *L'Inconnu*, une pièce à machines.
 
 Même si le terme de « pièce à machines » intègre le caractère musical de la pièce, nous ne nous intéresserons ici qu'aux caractéristiques purement machinées. Quels sont ces caractéristiques, quand et comment se manifestent-elles ?
 
 Notons qu'elles apparaissent dans le prologue et le dénouement. Ces deux positions sont les endroits traditionnels pour l'emploi des machines dans une pièce. Au début de l'apparition des machineries, dans les pastorales, on cherchait à justifier leur apparition par l'intermédiaire de sujets mythologiques. Comme les dieux apparaissaient le plus souvent à l'ouverture et à la clôture de la pièce, les machines se manifestaient simultanément.
 
 
-##### Le prologue
+##### Le prologue.
 
 Le prologue de *L'Inconnu* reprend ce caractère traditionnel. Thomas Corneille utilise ainsi la présence de deux personnages mythologiques, Thalie, muse de la comédie, et le Génie de la France. Thalie demande au Génie de lui montrer ses talents à transformer des êtres et des éléments, instantanément. En exposant ses dons, le Génie entraîne de nombreux changements de décors sollicités par des effets de machinerie. D'ailleurs, Georges Forestier, dans son livre, *Le Théâtre dans le théâtre sur la scène française du XVIIème siècle*, nous indique que le Génie de la France « *apparait clairement comme la métaphore de l'ingénieur-décorateur* ». Le discours des deux personnages, et quatre didascalies externes au discours narratif introduisent les changements de décor. Ces derniers semblent tout à fait spectaculaires. Les effets de machineries interviennent dans la transformation d'éléments végétaux en humains et en instruments de musique, de manière instantanée.
 
@@ -658,20 +658,20 @@ Pour le deuxième procédé, celui du vol, des machinistes tirent de bas en haut
 Avec la rapidité et la spontanéité que procurent ces deux effets, nous pouvons émettre l'hypothèse que ces deux techniques étaient utilisées pour le prologue, et permettaient la métamorphose soudaine que laisse entendre la didascalie. Des hommes étaient sûrement cachés derrière le décor initial et apparaissaient immédiatement dès les mouvements de décor. Nous ne développerons pas les autres didascalies du prologue car elles ressemblent à la première quant à l'utilisation du décor.
 
 
-##### Le dénouement
+##### Le dénouement.
 
 La deuxième apparition des machines se situe dans le dénouement, lorsque le Marquis, pour dévoiler à la Comtesse qu'il est l'Inconnu, lui présente comme divertissement, une pièce de théâtre. Pour cela, Thomas Corneille introduit une petite scène sur la grande scène. Ce petit théâtre, est construit pour contenir très peu d'acteurs quatre seulement sont amenés à y jouer, en alternance. Cette scène est introduite dans le décor initial où restent les acteurs-spectateurs du divertissement. Aucune indication sur les dimensions de ce théâtre roulant ne nous est parvenue, mais nous pouvons supposer que celles-ci ne devaient pas être très grandes pour tenir sur une scène de 9, 75 mètres de large, sur laquelle devait rester le décor de l'intrigue principale et ses acteurs. Nous ne pouvons donc qu'émettre des suppositions sur les dimensions de cette petite scène. Si l'on prend pour base de calcul 1m*2* par personne présente sur la scène, en tenant compte du décor qui la compose, on peut imaginer un petit théâtre d'environ 7m*2* ou 8m*2*, laissant assez de place sur la grande scène pour le premier décor et les comédiens-spectateurs. Pour la hauteur on peut émettre l'idée d'une faible hauteur, celle d'1 mètre de haut, « *dans tous les cas une estrade assez basse pour que les acteurs puissent en descendre et y monter facilement* » [29]. Cela nous permet d'imaginer les dimensions des coulisses du théâtre Guénégaud, celles-ci devaient être assez vastes pour accueillir la machinerie nécessaire aux différents spectacles et permettre de loger une petite scène montée sur des roulettes ou sur un chariot.
 
 
-##### Finalité des machines dans la pièce
+##### Finalité des machines dans la pièce.
 
 Pourquoi Thomas Corneille décide-t-il de faire intervenir les machines dans une comédie à l'intrigue comique simple, qui pourrait être simplement articulée autour de divertissements pas forcément machinés ? Comme nous l'avons souligné dans sa courte biographie, Thomas est un auteur curieux et désireux de s'exercer à toutes les formes de spectacle. Le théâtre à machines est un des arts qu'il maîtrise le mieux et il le prouva lors de la création de la pièce *Circé* – mise en scène quelques mois précédents *L'Inconnu*, en mars 1675- pièce qui remporta un très grand succès. Elle est d'ailleurs considérée comme la dernière pièce à machines. C'est dans ce genre que Thomas est le plus réputé, pourquoi se priverait-il alors de mettre en œuvre ce qu'il maîtrise le mieux. Ainsi, motivé par le souci de l'agréable et désirant satisfaire le public, il utilise des machineries dans *L'Inconnu*. En présentant un prologue sous le signe des machines, il ne pouvait pas mieux prévenir le spectateur que le spectacle qu'il allait voir était basé sur le spectaculaire.
 
 
-### L'opéra
+### L'opéra.
 
 
-#### Situation historique
+#### Situation historique.
 
 En France, jusqu'aux années 1640, la tragédie antique est le seul modèle de collaboration entre la musique et le théâtre. L'opéra peut être vu comme la continuité de la tragédie antique et de la comédie-ballet instaurée par Molière. Avant la venue de l'opéra, la comédie-ballet est le genre qui reprend le mieux les liens entre la musique et le théâtre et Bénédicte Louvat-Molozay le qualifie plus largement de « *théâtre à insertions musicales* » [30].
 
@@ -686,7 +686,7 @@ Après 1673, avec le premier opéra français - *Cadmus et Hermione* de Lully et
 La pièce à machines aurait pu constituer un opéra à la française comme cela avait été esquissé avec *Andromède*. Mais en fin de compte elle s'affirma progressivement comme une sorte d'anti-opéra, en réaction à la venue de l'opéra italien. Les pièces à machines réunissent à leur manière – à la française pourrait-on dire- la synthèse des arts tant désirée par le roi. Mais cela ne perdura pas, car l'opéra français imposera sa suprématie sur les autres genres. En 1680, l'opéra français est ancré dans le monde du spectacle, et menace l'existence des autres genres. Il supplante le théâtre à machines en devenant ce genre incarnant le siècle de Louis XIV et le regroupement des arts appréciés du monarque.
 
 
-#### Le lyrisme dans *L'Inconnu*
+#### Le lyrisme dans *L'Inconnu*.
 
 Dans *L'Inconnu*, les éléments propres à l'opéra, sont représentés par les moments orchestrés, le chant et la danse. Les effets machinés sont également des composantes du genre lyrique, mais nous les avons étudiés séparément, constituant la principale originalité du théâtre à machines. C'est Marc-Antoine Charpentier qui composa tous les divertissements musicaux de *L'Inconnu*. Les partitions de la pièce ont disparu. Seuls les deux airs à boire de la fin nous sont parvenus grâce à la réédition de *L'Inconnu* par Dancourt et Gilliers, en 1704. Les divertissements qui régalent la Comtesse sont essentiellement mis en musique, à l'exception de la pièce insérée du dernier acte servant de dénouement.
 
@@ -707,15 +707,15 @@ Le cinquième acte, outre la courte pièce de théâtre, propose une chanson. Un
 Ces divertissements rythment la pièce et lui donnent une dynamique liée à la situation des intermèdes en milieu et en fin d'acte. Un rythme régulier et répétitif s'installe et berce le spectateur dans une enfilade de divertissements musicaux. Cette présence musicale témoigne des différentes facettes du talent de Marc-Antoine Charpentier : la présence de l'Italie avec la chanson en italien du Valet More à l'acte I, la musique orchestrale à l'ouverture du prologue et les chants lyriques.
 
 
-# Troisième partie : L'Inconnu : un spectacle total
+# Troisième partie : L'Inconnu : un spectacle total.
 
 Avec *L'Inconnu*, Thomas Corneille signe un spectacle total inscrit dans le genre de la comédie dont toutes les caractéristiques sont présentes. L'auteur n'apporte pas d'éléments nouveaux concernant la dramaturgie comique, il condense en une pièce tous les éléments lui permettant de respecter la règle cardinale du genre: « l'art de plaire ». Il répond ainsi aux attentes du public parisien : une intrigue galante, des personnages comiques types et un dénouement heureux. Mais cette structure comique traditionnelle est ornée de pompe et de faste. Cette réconciliation entre la tradition et l'exubérance, et ce mélange de classicisme, par l'aspect traditionnel, et de baroque, par le côté fastueux, présente donc un spectacle total.
 
 
-## Des personnages types
+## Des personnages types.
 
 
-### Des caractères intemporels
+### Des caractères intemporels.
 
 Un des premiers aspects comiques de la pièce est la présence de personnages types. Ce sont des personnages incarnant un caractère précis ce qui permet ainsi aux spectateurs de s'identifier à certains personnages et d'apprécier l'intrigue présentée. Mettre en scène ces sortes de personnages est un aspect traditionnel car il est utilisé depuis les farces du Moyen-Age. Dans la majorité des comédies on retrouve régulièrement les mêmes caractères, les mêmes noms appliqués à des personnalités intemporelles. Toute une thématique des personnages se développe dans ce réseau comique qui laisse libre cours à la peinture des mœurs. Dans sa comédie, Thomas Corneille respecte cet aspect traditionnel de la thématique du nom qui s'étend sur le rôle des personnages dans la pièce et leur présence sur scène.
 
@@ -753,7 +753,7 @@ Virgine et la Montagne peuvent être aussi considérés comme des héros dans la
 Le Marquis est donc un héros passif puisqu'il est spectateur des divertissements. Son double l'Inconnu est aussi passif car il n'a pas de réalité matérielle. Mais il participe néanmoins à la dynamique de l'action par sa présence dans l'imaginaire des personnages.
 
 
-### Présence des personnages sur scène
+### Présence des personnages sur scène.
 
 L'abbé d'Aubignac écrit en 1657 dans sa *Pratique du Théâtre* : « les principaux personnages doivent paraître le plus souvent et demeures le plus longtemps qu'il est possible sur le théâtre ».
 
@@ -777,10 +777,10 @@ Si l'on applique la règle de l'abbé d'Aubignac et donc par là-même un aspect
 Nous remarquons donc que du point de vue l'occupation de la scène par les personnages, notre comédie respecte un aspect traditionnel du genre que d'Aubignac met en avant. Il en va de même pour la présence des femmes sur la scène qui, remarquons le, dépasse celle des hommes. On compte soixante-quatorze apparitions féminines pour cinquante et une apparitions masculines. La prédominance des femmes est un indice de l'influence des troupes italiennes sur la comédie française et donc d'une certaine marque d'inspiration et de respect des maîtres du genre et de leurs règles.
 
 
-## Une intrigue galante
+## Une intrigue galante.
 
 
-### L'intrigue
+### L'intrigue.
 
 Dans *Eléments de littérature*, Marmontel définit l'intrigue comme
 
@@ -794,7 +794,7 @@ Au premier abord, l'intrigue de *L'Inconnu* est originale. Le héros – le Marq
 Une intrigue donc, basée autour d'un vide, mais une intrigue tout de même consistante, car l'auteur ne se prive pas d'insérer dans sa narration des éléments propre à l'intrigue comique, comme le quiproquo et les péripéties.
 
 
-#### Les quiproquos
+#### Les quiproquos.
 
 D'un point de vue dramaturgique, le quiproquo permet une complicité entre l'auteur et le public. Le spectateur a le plaisir de connaître un secret que ne partagent pas le ou les personnages. Le quiproquo est également un moteur comique, il permet le rire à répétition, en mettant toujours en scène la même situation. Dans *L'Inconnu* deux quiproquos apparaissent.
 
@@ -803,7 +803,7 @@ Le premier quiproquo repose sur l'erreur de la Comtesse quant à l'identité du 
 Un deuxième quiproquo apparait quand Olimpe annonce au Marquis son idée d'écrire un billet à l'Inconnu pour l'encourager à se dévoiler à la Comtesse. Il s'agit de nouveau d'un quiproquo sur la personne, Olimpe ne sachant pas qu'elle s'adresse directement à la personne qui est l'Inconnu.
 
 
-#### Les péripéties
+#### Les péripéties.
 
 Peu de péripéties entravent la tâche du personnage principal car il maîtrise tous les linéaments de l'intrigue. Cependant, trois péripéties ponctuent le texte et sont plus ou moins déterminantes : l'amour d'Olimpe pour le Marquis, la découverte de la cachette du Marquis par le Vicomte, et l'écriture d'un billet par Olimpe destiné à l'Inconnu. Selon Jacques Scherer [41], « *les péripéties sont des événements imprévus, créateurs de surprise.* » Ce sont des événements qui interviennent en dépit de la volonté du héros. Les péripéties peuvent modifier la situation psychologique du héros, mais ce n'est pas toujours le cas pour notre pièce. Respect donc de l'aspect traditionnel mais tout de même un petit écart.
 
@@ -823,10 +823,10 @@ Mais ces péripéties restent légères car elles perturbent peu le héros, alor
 Les divertissements, même s'ils façonnent l'intrigue, ne peuvent pas être considérés comme des péripéties car ils sont créés par le héros. Le spectateur étant complice de l'attitude du Marquis sait que plusieurs divertissements interviendront pour régaler la Comtesse. Si on prend les divertissements comme base de l'intrigue, apparaît une intrigue toujours agencée autour d'un même axe. Techniquement, elle présente les caractéristiques d'une intrigue à cellule répétée, même si les événements répétés n'appartiennent pas aux caractéristiques de l'intrigue comme le quiproquo, les obstacles et les péripéties.
 
 
-### La galanterie
+### La galanterie.
 
 
-#### Généralités
+#### Généralités.
 
 Versailles instaure le genre de la pièce galante qui combine les arts du verbe, de la danse et de la musique.
 
@@ -838,7 +838,7 @@ Les femmes sont les principales destinataires de ces réjouissances. Les fêtes 
 Le Ballet *La Galanterie du temps* créé par Lully en 1656 au Louvre pour le Louis XIV, permit par la présence royale de conférer une haute dignité au modèle de la galanterie et du galant. Cette occasion permit également de fixer les caractéristiques du galant homme. L'histoire met en scène un jeune homme amoureux qui veut être aimé. Il offre à l'élue de son , incognito, des divertissements susceptibles de lui plaire. Les traits donnés du galant sont présentés: l'art de plaire aux dames par un savoir-vivre raffiné, de la générosité, un esprit plein d'humour, une éloquence subtile et en même temps une discrétion et un respect pour la femme aimée.
 
 
-#### La galanterie dans *L'Inconnu*
+#### La galanterie dans *L'Inconnu*.
 
 Le théâtre galant privilégie surtout la comédie car elle offre un vaste espace d'invention. Une branche de la comédie deviendra la comédie mêlée d'ornements, et c'est dans ce genre que s'inscrit *L'Inconnu*. Le théâtre à ornements trouve dans la galanterie une importante source d'inspiration, car la galanterie se plaît au mélange, à la diversité, et elle correspond ainsi aux caractéristiques du théâtre lyrique.
 
@@ -860,10 +860,10 @@ Le Marquis est galant homme car il est plein d'égard pour sa bien-aimée et lui
 N'oublions pas également que le collaborateur de Thomas pour l'écriture de sa pièce, Jean Donneau de Visé, est un écrivain qui a inscrit son œuvre sous le signe de la galanterie. D'ailleurs son journal ne porte-t-il pas le titre de *Mercure Galant* ! De plus rappelons que la première source d'inspiration de la pièce est la nouvelle X du tome 2 dans le recueil de *Nouvelles galantes, comiques et tragiques* (1669). Donc la galanterie est présente depuis les fondements du sujet de la comédie.
 
 
-## Un dénouement heureux
+## Un dénouement heureux.
 
 
-### Un dénouement comique traditionnel
+### Un dénouement comique traditionnel.
 
 Une des particularités propres à la comédie qui différencie ce genre de la tragédie est son dénouement. Ce dernier est un des éléments distinctifs du genre comique et doit être respecté dans les règles. Voyons donc en quoi *L'Inconnu* présente les caractéristiques du dénouement traditionnel d'une comédie.
 
@@ -880,7 +880,7 @@ Le dénouement doit être rapide. C'est le cas pour *L'Inconnu*. En effet, c'est
 Tous les personnages de la pièce doivent être sur scène lors du dénouement. En effet Pierre Corneille, dans ses Discours, évoque le « cinquième acte des pièces qui finissent heureusement et où nous rassemblons tous les acteurs sur notre théâtre ; ce que ne faisaient pas les anciens ». A la fin de L'Inconnu, tous les personnages ayant joué un rôle concret dans l'intrigue sont présents sur le théâtre principal. Sept acteurs en tout : la Comtesse, Olimpe, le Marquis, le Chevalier, le Vicomte, la Montagne – qui est déguisé en Zéphire pour les besoins du divertissement – et Virgine. Mélisse la suivante d'Olimpe et Cascaret n'ont pas servi à la progression de l'intrigue, ils ne sont donc pas présents.
 
 
-### Le procédé de la mise en abyme
+### Le procédé de la mise en abyme.
 
 Après avoir vu l'aspect purement traditionnel du dénouement de *L'Inconnu*, analysons la particularité du dénouement du nœud de notre comédie, qui est la découverte de l'identité de l'Inconnu. Le Marquis se révèle comme étant la personne régalant la Comtesse de multiples divertissements.
 
@@ -903,14 +903,14 @@ Thomas Corneille adapte librement le mythe de Psyché. Dans la fable, la découv
 Cette mise en abyme, donne au dénouement une dimension allégorique. C'est grâce au personnage représentant l'Amour, qu'est dévoilé le nom de l'Inconnu. La Montagne, en demandant à l'Amour de dévoiler le portrait de l'Inconnu, suggère que celui-ci, un personnage sans réalité concrète incarne l'Amour. Ainsi on peut comprendre que le Marquis, en créant l'Inconnu, cherche à éveiller chez la Comtesse l'amour de l'Amour, et par le vecteur de l'Inconnu à l'aimer lui-même. Mais cette révélation pourrait ne pas en être une puisque, comme l'énonce Georges Forestier [52], « *tout le monde ne sait-il pas qu'aimer c'est aimer l'amour* ? ». Ainsi, cette révélation ne serait qu'une « *fausse révélation* ».
 
 
-## Un spectacle total
+## Un spectacle total.
 
 Nous avons démontré l'aspect traditionnel de *L'Inconnu* : le respect des règles majeures du classicisme [53] et les thèmes traditionnels de la comédie. Mais rappelons aussi que cette comédie est plurielle puisqu'elle mêle des traits du théâtre à machines, de l'opéra et du théâtre. Cette comédie mêlée est l'œuvre d'un écrivain à la personnalité tout aussi plurielle. Thomas Corneille s'est essayé à toutes les formes d'écriture, il n'a pas hésité à changer souvent de registre, il aime le changement et le divertissement [54].
 
 Nous sommes tentés de dire que l'alliage entre tous ces éléments confère à *L'Inconnu* une atmosphère fastueuse où les différents éléments sont agrémentés de manière « baroque ». Le baroque se caractérise par le spectacle, le mouvement, l'illusion, les jeux de miroirs, l'amour… Nous retrouvons plusieurs de ces thèmes dans notre pièce tous liés autour du faste, du luxueux, de la pompe et du merveilleux.
 
 
-### Pompe et faste
+### Pompe et faste.
 
 L'amour est le thème principal de *L'Inconnu*, et c'est grâce à lui que pompe et faste envahissent la pièce. La présentation de divertissements ancre *L'Inconnu* dans l'univers du spectacle et du mouvement, les caractères mouvants du baroque. Un prologue et cinq divertissements ponctuent la pièce, et chacun est un spectacle à lui tout seul. L'art du spectacle se déploie sous ses formes les plus diverses et variées : cela va du chant, à la danse, en passant par la musique, sans oublié la présence des machines. Les machines relèvent du spectaculaire et confèrent à la pièce une note irréelle. Dans le prologue, deux personnages mythologiques s'amusent à bouleverser des éléments et provoquent de spectaculaires changements de décors : une montagne se transformant successivement en rochers, en buissons, en arbres.
 
@@ -921,7 +921,7 @@ La pompe de tous ces spectacles divertissants est aussi amplifiée par la prése
 Les décors luxueux et merveilleux, la diversité des divertissements, l'affluence des gens sur le plateau agrémentent la structure traditionnelle de cette comédie de manière baroque. C'est grâce à tout ce faste que cette simple comédie grandit en un spectacle total.
 
 
-### La mise en abyme
+### La mise en abyme.
 
 Le procédé de la mise en abyme est une des principales caractéristiques du genre baroque, car il participe au phénomène de fantaisie. Il est en lui-même illusion, jeux de miroirs et participe ainsi à l'atmosphère merveilleuse de ce spectacle total. Cette mise en abyme est le final de la pièce, elle est l'acmé du faste mis en scène et est le parfait exemple de l'agencement « baroque » d'une structure traditionnelle comique.
 
@@ -930,13 +930,13 @@ La mise en abyme est mise en évidence par Thomas Corneille qui s'en sert ouvert
 La mise en abyme s'applique à un autre aspect de *L'Inconnu*. Thomas Corneille présente lui-même une comédie aux spectateurs de l'Hôtel Guénégaud, qui met en scène un marquis montant toute une « comédie », pour séduire sa bien-aimée. Le processus de création est transposé à l'intérieur de l'histoire : le dramaturge écrit une comédie pour divertir le spectateur parisien, et le marquis invente une fiction pour divertir la Comtesse. Comme les spectateurs de l'Hôtel Guénégaud, divertis par la comédie de Thomas Corneille, la Comtesse et ses convives sont divertis par les divertissements d'un Inconnu. Au cours des divertissements les spectateurs parisiens et les personnages-acteurs sont au même plan puisqu'ils découvrent, certes dans deux espaces différents, mais simultanément, les mêmes spectacles. Cette identité est poussée à ses limites lorsque les deux groupes de spectateurs s'unissent véritablement, lorsqu'ils regardent le même théâtre, celui de la représentation des amours d'Eros et de Psyché. Ce divertissement étant le dénouement de l'histoire du Marquis et simultanément de *L'Inconnu*.
 
 
-# Quatrième partie : une pièce innovante
+# Quatrième partie : une pièce innovante.
 
 
-## Épanouissement du théâtre dans le théâtre
+## Épanouissement du théâtre dans le théâtre.
 
 
-### Le théâtre dans le théâtre d'un point de vue dramaturgique
+### Le théâtre dans le théâtre d'un point de vue dramaturgique.
 
 Qu'est-ce-que le théâtre dans le théâtre ? Que cela signifie-t-il ? Développons tout d'abord le procédé du théâtre dans le théâtre d'un point de vue dramaturgique, c'est-à-dire le théâtre comme genre littéraire, en essayant de définir et de démontrer ce caractère de pièce insérée dans la pièce, pour *L'Inconnu*. Dans cette pièce, le théâtre dans le théâtre se manifeste par l'enchâssement de divertissements dans l'intrigue. Ces derniers constituent l'axe dramaturgique. Nous pouvons les qualifier de « théâtre » car ils sont la représentation simultanée d'un autre art sur la scène où se joue la pièce.
 
@@ -964,7 +964,7 @@ Comme nous en avons montré le détail plus haut, *L'Inconnu* est composé de ci
 Nous pouvons également noter, que ces divertissements sont théâtralisés de manière tout à fait complète, car la comédie respecte les règles de la dramaturgie classique : unité d'action, de temps et de lieu. Le procédé du théâtre dans le théâtre, par les différents spectacles qu'il permet, est mis au profit de l'action, afin de la dynamiser et de la rythmer.
 
 
-### Le théâtre dans le théâtre d'un point de vue mise en scène
+### Le théâtre dans le théâtre d'un point de vue mise en scène.
 
 Ce procédé si présent dans la pièce *L'Inconnu*, suppose un important travail de mise en scène, notamment concernant les décors.
 
@@ -992,7 +992,7 @@ Cette scène intérieure possède un décor qui lui est propre. Le principe de d
 Bien évidemment ce procédé permet de développer considérablement l'action dramaturgique ; les acteurs deviennent eux-mêmes spectateurs et un lien de connivence et d'égalité s'établit entre le réel public et les spectateurs acteurs. Les limites entre réalité et fiction sont estompées. Des limites étroites sont posées sur la grande scène et c'est vers cet espace que seront concentrés tous les regards. Nous parlions de théâtralisation dans la partie précédente et nous pouvons de nouveau affirmer que cette décoration de théâtre dans le théâtre permet de théâtraliser l'action. Ce procédé est une mise en abyme du théâtre en soi et cette mise en abyme est elle-même poussée à son extrême car mise à profit dans la narration : mais la scène qui est jouée sur le petit théâtre inséré est une mise en abyme de ce qui arrive à la Comtesse. Thomas Corneille adapte le mythe de Psyché pour introduire l'identité de l'Inconnu. Le dramaturge nous montre donc, par ce procédé de théâtre dans le théâtre, que la réalité –que ce soit la réalité fictive ou la réalité réelle du public qui voit le théâtre se dupliquer sous toutes ses formes- peut se confondre avec la théâtralité car finalement l'action enchâssée rejoint l'action qui l'enchâssait.
 
 
-### Limite du théâtre dans le théâtre : tension entre intrigue et divertissements
+### Limite du théâtre dans le théâtre : tension entre intrigue et divertissements.
 
 Mais cette notion de théâtre dans le théâtre, même si elle permet d'agrémenter et d'étoffer la narration, l'étouffe par certains aspects et va jusqu'à l'annihiler.
 
@@ -1016,7 +1016,7 @@ La technique du théâtre dans le théâtre est mise à profit pour enchâsser l
 Thomas Corneille présente donc une comédie de divertissement qu'il crée grâce au procédé du théâtre dans le théâtre poussé à ses limites en l'exploitant dramaturgiquement et techniquement. Il participe également, toujours grâce à son utilisation très personnelle de la notion de théâtre dans le théâtre, à l'évolution du genre de la « comédie mêlée » où les divertissements se voient mis en avant par rapport à l'intrigue. Grâce à Thomas Corneille et d'autres, l'évolution de la dramaturgie favorise l'essor du hors-scène.
 
 
-## Une pièce en prise avec l'actualité de son temps
+## Une pièce en prise avec l'actualité de son temps.
 
 Dans la plupart des comédies du XVIIème siècle, la présence de l'actualité est chose commune. Les auteurs nourrissent leurs pièces d'anecdotes contemporaines pour satisfaire un public friand de voir leur vie quotidienne mise en scène. Nos deux écrivains n'échappent donc pas à cette verve d'auteurs comiques qui aiment assouvir les désirs de leur public. La présence de l'actualité se repère par de petits faits du XVIIème siècle qui sont mis en scène de manière discrète et insérés au fil de l'action. Nous pouvons en relever plusieurs - deux dans le troisième acte et deux dans le quatrième acte.
 
@@ -1072,10 +1072,10 @@ La deuxième référence est celle faite aux « singes ». Le Vicomte, mélang
 Dans le souci de plaire au public parisien friand de nouveautés et d'actualités, Donneau de Visé et Corneille Sieur de l'Isle, mirent quelques références aux anecdotes de l'actualité qui pimentaient les gazettes parisiennes et qu'ils connaissaient parfaitement bien car elles alimentaient leur propre revue, *Le Mercure Galant*.
 
 
-## Une triple fin
+## Une triple fin.
 
 
-### Une fin éditoriale différente de la fin scénique
+### Une fin éditoriale différente de la fin scénique.
 
 Nous appelons « fin éditoriale », la fin officiellement publiée dans la première édition : celle de janvier 1676. Cette fin est la fin machinée : Thomas Corneille dénoue l'intrigue à l'aide d'une mise en abyme de l'histoire de la Comtesse, en faisant jouer comme dernier divertissement une petite pièce adaptant le mythe de Psyché. Or dans les premières représentations de *L'Inconnu*, Thomas Corneille utilisait un autre détour pour révéler l'identité de l'Inconnu. Il en expose lui-même les raisons dans sa préface :
 
@@ -1091,7 +1091,7 @@ La fin est donc marquée par le souci de l'agréable et de plaire aux spectateur
 Ce ne sont là que des hypothèses et nous l'intitulons « fin éditoriale » car elle existe qu'officiellement dans le texte publié et nous n'avons aucun témoignage de sa création sur scène, même pour les représentations plus tardives de *L'Inconnu*.
 
 
-### Une fin marquée par le temps
+### Une fin marquée par le temps.
 
 Ce que nous appelons « une fin marquée par le temps » est la présence d'une autre fin soulevant un problème de date.
 
@@ -1109,7 +1109,7 @@ Ainsi donc une fin marquée par le temps, car il y a une énigme sur la date de 
 Cette triple fin souligne un trait majeur de *L'Inconnu* qui semble placé sous le signe du triple : trois collaborateurs, Thomas Corneille, Jean Donneau de Visé et Marc-Antoine Charpentier ; trois arts mêlés, le théâtre, les pièces à machines, l'opéra ; trois règles de la dramaturgie classique sont respectées, les unités – temps, lieu, action – la vraisemblance et les bienséances ; une machinerie spatiale jouant sur la hauteur la profondeur, largeur, nous dirions aujourd'hui en 3D.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 L'exemplaire qui a servi de base à la réalisation de cette édition est conservé à la Bibliothèque Nationale de France dans la Réserve du centre Tolbiac. Il s'agit de l'édition originale datée de janvier 1676 et imprimée pour la première fois à Paris chez Jean Ribou.
 
@@ -1118,7 +1118,7 @@ L'Inconnu subit plusieurs réimpressions qui sembleraient être des contrefaçon
 *L'Inconnu* fut réédité du vivant de Thomas Corneille en 1704. Le texte est repris par M. Dancourt et les divertissements par M. Gilliers. Elle appartient au recueil intitulé *Œuvres de Mr. Dancourt. Tome VI*, publié chez Pierre Ribou et actuellement conservé à la Bibliothèque Nationale de France au département des Arts et Spectacles du centre Richelieu.
 
 
-## Description du volume
+## Description du volume.
 
 Il s'agit d'un volume en in-12°, VIII – 114 p.
 
@@ -1137,7 +1137,7 @@ VIII DECORATION/ du Prologue.
 P. 1 à 114 : texte de la pièce composé d'un prologue et de cinq actes. Deux types de bandeau alternés en fonction des actes et toujours orné de fleurs, est mis en tête de chaque acte. Lorsqu'un acte se termine en milieu de page, un motif floral souvent variable, est inséré. Un liseré de fleurs sépare chaque scène.
 
 
-## Corrections apportées à l'ensemble du texte
+## Corrections apportées à l'ensemble du texte.
 
 Nous avons scrupuleusement respecté la graphie de l'édition originale. Les accentuations, qu'elles soient, présentes ou absentes, selon les cas, ont été conservées. L'esperluette (&) a été conservée. Nous avons corrigé l'usage des tildes qui note la nasalité d'une voyelle, en restituant la voyelle suivit de la consonne nasale. Nous avons systématiquement rétabli les *v* en *u*, les *f* en *s* et les *i* en *j* ou inversement, quand cela fut nécessaire.
 
@@ -1163,10 +1163,10 @@ Les lettres entre crochets parfois situées à côté du texte, indiquent les ch
 La graphie des didascalies et leur emplacement dans la mise en page peut varier suivant les scènes. Nous avons respecté la mise en page de l'édition originale.
 
 
-# L'INCONNU COMEDIE MESLEE D'ORNEMENS & de Musique
+# L'INCONNU COMEDIE MESLEE D'ORNEMENS & de Musique.
 
 
-## AU LECTEUR
+## AU LECTEUR.
 
 Apres avoir fait paroistre dans *Circé* [59] une partie de ce que le Théatre a de plus pompeux⁎ pour la beauté des Machines ; j'ay crû que le Public ne seroit pas fâché d'estre diverty par les agrémens qu'une matiere galante⁎ est capable de recevoir. C'est ce qui m'a fait choisir le Sujet de l'*Inconnu*, où vous ne trouverez point ces grandes Intrigues qui accoûtumé de faire le nœud des Comédies de cette nature, parce que les Ornemens qu'on m'a prestez, demandant beaucoup de temps n'ont pû souffrir⁎ que j'aye poussé ce Sujet dans toute son étenduë. Si ce retranchement d'Incidens est un defaut, il est reparé par quantité de choses agreables qui forment les Divertissements⁎ que l'*Inconnu* donne à sa Maistresse⁎. Je me suis servy des noms de la Comtesse, du Marquis, du Chevalier, & du Vicomte, comme s'accommodant mieux à l'oreille, & estant plus de nostre usage que les noms de Roman dont on se sert quelquefois pour les Pieces d'invention [60]. Vous trouverez icy le cinquiéme Acte plus remply qu'il ne l'est dans la Representation, où le Marquis se contente de promettre la Comedie à la Comtesse. J'en fais un Divertissement⁎ effectif qu'il luy fait donner sur le petit Théatre [61], sous le titre de l'*Inconnu*. Il consiste en trois Scenes fort courtes qui regardent l'embarras de Psyché [62] enlevée par l'Amour dans un Palais magnifique, où rien ne manque à ses plaisirs que la satisfaction de connoistre l'Amant⁎ qui prend soin de les luy procurer ; & comme cet Incident n'éloigne point l'Idée des Festes Galantes⁎ du Marquis, je m'en sers pour dénoüer plus agreablement l'Avanture de la Comtesse.
 
@@ -1346,7 +1346,7 @@ Mais contre un tendre
 Pourquoy défendre  
 Sa liberté ?  
 
-     LE GENIE. 
+    LE GENIE. 
 Achevez, & formez, pour Spéctacles nouveaux,                   
 Et des Buissons & des Berceaux.  
 Les Arbres qui ont paru sur la Montagne, s'en séparent, & forment successivement des Buissons, des Allées, & des Berceaux.
@@ -1363,7 +1363,7 @@ Je t'admire, & me tais.
 Des Festes dont l'Amour me doit laisser le choix,           
 Puis que j'en prens le soin, ne sois plus inquiéte.                  
 
-    LA NYMPHE & LE BERGER
+    LA NYMPHE & LE BERGER.
 Chantent ensemble.
 
 Ah qu'il est doux de s'unir à l'Amour !                  
@@ -1381,7 +1381,7 @@ Allons, c'est trop tarder, suy-moy.    
     THALIE.
 Pour l'Inconnu j'attens beaucoup de toy.                  
 
-     LE GENIE. 
+    LE GENIE. 
 L'entreprise est un peu hardie,       
 Mais je n'ay rien promis dont je ne vienne à bout.  
 
@@ -1462,7 +1462,7 @@ C'est dequoy l'exercer, quelque adroit qu'il puisse estre.
 Mais tout cela n'est rien, si l'on me fait connoistre.      
 Prens bien garde au secret.  
 
-     LA MONTAGNE. 
+    LA MONTAGNE. 
     Il vous est seûr.          
 
     LE MARQUIS.
@@ -1520,7 +1520,7 @@ Quelque chose manquant, vous en aurez regret.
     LE MARQUIS.
 Non, sors.  
 
-    LA MONTAGNE *revenant.* 
+    LA MONTAGNE *revenant.*.
         Ah je le tiens ; Monsieur, vostre Portrait.  
 
     LE MARQUIS.
@@ -1697,7 +1697,7 @@ La Comtesse…
 Laissons à son panchant liberté toute entiere.  
 Pour moy…                  
 
-     OLIMPE. 
+    OLIMPE. 
         La complaisance⁎ est un peu singuliere ;      
 Un Rival rend des soins, la Comtesse en fait cas…  
 
@@ -1803,7 +1803,7 @@ Me trouvent sans façon preste à les écouter,
 Je vois avec plaisir leur différent génie⁎,              
 Et j'appelle cela, recevoir compagnie.                      
 
-     OLIMPE. 
+    OLIMPE. 
 Mais en vous contant, ils vous parlent d'aimer ?          
 
     LA COMTESSE.
@@ -1942,7 +1942,7 @@ Non, ces sortes d'Amans⁎…Mais qu'est-ce que je voy,
 Madame…                              
 
 
-### SCENE VI.                    
+### SCENE VI.                    .
 LA COMTESSE, OLIMPE, Deux
 
 Enfans representant L'AMOUR & LA
@@ -1952,7 +1952,7 @@ JEUNESSE. VIRGINE, MELISSE,
 VALET MORE [82].
 
 
-     L’AMOUR.
+    L’AMOUR.
         Vous voyez l'Amour & la Jeunesse,      
 Qui viennent admirer la charmante Comtesse,                  
 Et luy dire à l'envy⁎, qu'estre de ses plaisirs,  
@@ -2051,7 +2051,7 @@ Mais il est de vilains Amours.
 Vous croyez que je me chagrine⁎  
 *De vous voir ravaler mes droits* ?      
 
-    LA JEUNESSE.  
+    LA JEUNESSE.
 Il n'est point défendu de faire bonne mine,              
 Quoy qu'on enrage quelquefois.  
 *Pour moy je n'aime que la joye* ;  
@@ -2087,7 +2087,7 @@ La cadence à trouver ne luy fait point de peine.    
     LA COMTESSE.
 Elle est née à la Danse, & peut s'en faire honneur.  
 
-    L’AMOUR *au More qui l'a amené.*
+    L’AMOUR *au More qui l'a amené.*.
 Tandis qu'elle reprend haleine,  
 Approchez, nostre Conducteur,              
 C'est à vous d'entrer sur la Scene.                      
@@ -2157,7 +2157,7 @@ Pour moy qui cherche à voir tous les s sous ses loix,
 Je sçay comme il faut que j'en use,  
 Et veux mettre à ses pieds mon Arc & mon Carquois [89].      
 
-    OLIMPE *reprenant le Carquois de l'Amour d'où elle tire un Billet parmy les Fleches.*
+    OLIMPE *reprenant le Carquois de l'Amour d'où elle tire un Billet parmy les Fleches.*.
 Qu'il est bien fait ! Mais Dieux ! *A l'aimable Comtesse.*  
 Madame, c'est à vous que ce Billet s'adresse.  
 
@@ -2244,7 +2244,7 @@ Et trop pleine du trouble où ce chagrin⁎ me jette,         
 Dans ce Bois frais & sombre où je la viens trouver,  
 Je la cherche à pas lents, & n'aime qu'à resver.  
 
-     MELISSE 
+    MELISSE. 
 Mais vous n'ignorez pas qu'il aime la Comtesse ?          
 
     OLIMPE.
@@ -2344,7 +2344,7 @@ Qu'entens-je ? L'Inconnu ! Madame l'aimez-vous ?
 Me quittez-vous pour luy ? sera-t-il vostre Epoux ?               
 Vous a-t-il fait parler ?  
 
-     OLIMPE. 
+    OLIMPE. 
         Voila de jalousie              
 Comme souvent sans cause on a l'ame saisie.  
 
@@ -2697,7 +2697,7 @@ Avancez, il est temps, Viste, que l'on commence.    
 Il fait signe à des Païsans qui s'avancent, & qui forment un berceau composé de dix Figures isolées en forme de Termes de bronze doré, cinq de chaque costé, l'une d'Homme, & l'autre de Femme, tenant chacune en l'une de leurs mains un Bassin de porcelaine remply de toute sorte de Fruits en pyramide. Ces Figures depuis la ceinture, se terminent en Guaines, & ces Guaines sont environnées de Pampres de Vigne chargez de Raisins. Chaque Figure est portée sur son Piedestal de marbre d'Orient, où il y a des petites Consoles dans les saillies qui soûtiennent des Porcelaines de diferentes manieres, remplies de Pyramides de Fruits aussi beaux que les autres. Du milieu de ces Consoles pendent des Festons de Fleurs. Toutes les Figures de ce Berceau portent sur leurs testes de grands Vases de porcelaine qu'elles soûtiennent d'une main, & qui sont remplis en confusion de Fleurs naturelles. Les Ceintres [99] naissent de ces Fleurs, & forment des Figures ceintrées de diférentes manieres de verdure coupée, d'où pendent des Festons de Fleurs & de toile d'or. L'optique de ce Berceau où devroit estre un Bufet, est d'une manière toute extraordinaire. On y voit plusieurs degrez de gazon, & sur le plus élevé paroist un Bacchus [100] tenant d'une main un Vase d'or, & de l'autre une Coupe. Il est environné de plusieurs Vases d'or & d'argent. La Déesse des Fruits est à son aisle droite, & à sa gauche Cerés [101] tient dans une Corbeille ce qui est de son ministere. Flore est un peu plus bas. On voit à ses costez de grandes Corbeilles de Fleurs ; & comme elle en tient encor beaucoup, on connoist qu'il en couvre tout le gazon qui l'environne ; ce qui se remarque par celles qui sont déjà sur ce gazon. Au dessous de Flore [102] on voit l'Abondance [103] avec deux Cornets qu'elle vuide dans deux Corbeilles que tiennent deux Satyres qui sont sur un degré plus bas, à demy courbez, & en posture de Gens qui reçoivent. Entre toutes ces Figures paroissent Pan & Sylvain [104], accompagnez d'Orphée [105] qui tient son Lut, & les deux autres des Flustes. Le tout est finy par un degré de gazon aux deux bouts duquel il y a des Scabelons [106] fort riches, & portant chacun un grand Vase d'or ; de sorte que sans avoir dressé un Bufet de la manière ordinaire, on en voit paroistre un beaucoup plus beau & auquel il ne manque rien, puis que Bacchus & Ceres y apportent ce qu'on peut attendre d'eux, & que Flore elle-mesme prend soin de le venir orner.
 
 
-    LE CHEVALIER *à la Comtesse*
+    LE CHEVALIER *à la Comtesse*.
 Tant de Galanterie⁎ a droit de vous charmer,  
 Madame.  
 
@@ -2789,7 +2789,7 @@ Et qu'à l'envy⁎ chacun se montre infatigable.
 La Comtesse s'avance avec Olympe & le Chevalier vers les Corbeilles de Fruit ; & tandis que chacun choisit ce qui flate le plus son goust, les Païsans qui ont ordre de divertir la Comtesse, apres avoir fait quelques figures pour marquer leur joye, font un Jeu avec des Bastons, & l'ont à peine finy, que sans sortir du lieu où ils sont, ils paroissent tous en un moment vestus en Arlequins, & réjouissent la Comtesse par mille figures plaisantes.
 
 
-    LA COMTESSE 
+    LA COMTESSE. 
 On voit avec plaisir de semblables combats          
 Qui ne font craindre pour personne.                       
 
@@ -2824,7 +2824,7 @@ Et je viens d'avoir la douleur
 *Qu'aupres d'elle mes Fruits ont changé de couleur.*      
 Apres un tel affront puis-je estre sans colere ?      
 
-     VERTUMNE 
+    VERTUMNE. 
 J'aurois la mesme plainte à faire.                  
 J'ay beau, comme Dieu des Jardins,                              
 Chercher à luy fournir toûjours des Fleurs nouvelles :  
@@ -2862,7 +2862,7 @@ Les soucis partagez vous font peur,            
 Rendez-vous au beau feu⁎ qui le presse,  
 Vous verrez qu'ils sont pleins de douceur.  
 
-    *CHANSON DE* VERTUMNE 
+    *CHANSON DE* VERTUMNE. 
 L'Amour est à suivre,  
 Laissez-vous charmer ;  
 Tout dois s'enflamer⁎ :  
@@ -2884,7 +2884,7 @@ On auroit peine à mieux chanter.    
     LA COMTESSE.
 La beauté de la Feste a passé mon attente.  
 
-    OLIMPE
+    OLIMPE.
 L'Inconnu l'ordonnant, aviez-vous à douter                  
 Qu'elle ne fust toute galante⁎ ?  
 
@@ -2902,7 +2902,7 @@ La Divinité s'humanise,
 Le Dieu Comus pourroit m'apprendre à qui je dois               
 Le divertissement⁎ dont il me voit surprise.  
 
-    COMUS 
+    COMUS. 
 C'est un secret qu'à conserver      
 Ma qualité de Dieu m'engage.                              
 Si de ses soins l'Amour qui veut vous éprouver,  
@@ -2967,7 +2967,7 @@ L'Inconnu, je le sçay, partage vostre estime,        
 On ne peut condamner ce qu'il s'en est acquis,  
 Mais enfin vous devez vostre au Marquis.                  
 
-     LA COMTESSE 
+    LA COMTESSE. 
 Moy ? je ne luy dois rien.                      
 
     OLIMPE.
@@ -3046,7 +3046,7 @@ Il n'est pas sans mérite, & doit estre écouté,    
 Par luy-mesme, ou du moins par l'ancienneté [112] :  
 De tout mes Protestans [113] c'est le premier.          
 
-     OLIMPE 
+    OLIMPE. 
         J'avoue              
 Qu'il a des qualitez bien dignes qu'on le louë,  
 L'air noble.      
@@ -3088,7 +3088,7 @@ Hé, Madame pourquoy me parlez-vous ainsy ?
 Le trouble⁎ de vos yeux me fait beaucoup entendre ;  
 Et quand le Chevalier…  
 
-    OLIMPE 
+    OLIMPE. 
         Vous voulez m'entreprendre,  
 Je quitte [114], & me sentant trop foible contre vous,  
 Je vay chercher ailleurs des Ennemis plus doux.  
@@ -3168,7 +3168,7 @@ LA COMTESSE, LE CHEVALIER.
     LA COMTESSE.
     He quoy, toûjours chagrin⁎ ?  
 
-    LE CHEVALIER.    
+    LE CHEVALIER.    .
         Helas !          
 Madame, ignorez-vous les ennuis⁎ qu'on me donne ?  
 On ne le voit que trop, Olimpe m'abandonne ;          
@@ -3266,14 +3266,14 @@ Ne dites rien, de grace, il faut voir ce qu'il pense.
     LE MARQUIS.
 Ce que je pense ?  
 
-    LA COMTESSE
+    LA COMTESSE.
     Hé bien ?  
 
     LE MARQUIS.
         Que pourrois-je penser ?  
 Il vous baisoit la main.          
 
-    LA COMTESSE 
+    LA COMTESSE. 
         Il peut recommencer  
 Est-ce là tout ?  
 
@@ -3318,7 +3318,7 @@ J'ay donc tort de me plaindre, & trop osé prétendre.             
     LA COMTESSE.
 Vous me faites pitié.  
 
-    LE MARQUIS 
+    LE MARQUIS. 
         Je n'y puis rien comprendre.          
 Tantost à vous oüir parler de l'Inconnu,              
 Je croyois que ses soins avoient tout obtenu,          
@@ -3352,7 +3352,7 @@ Vous céder tous les droits que j'eus d'abord sur luy.        
     LA COMTESSE.
 L'effort est genéreux.                  
 
-    LE CHEVALIER *à Olimpe.*
+    LE CHEVALIER *à Olimpe.*.
         Et vous croyez, Madame…  
 
     OLIMPE.
@@ -3657,7 +3657,7 @@ Un Billet, avec cette Montre.
     OLIMPE.
 Quel éclat ! ce ne sont par tout que Diamans.              
 
-    LA COMTESSE *lit* 
+    LA COMTESSE *lit*. 
 Puis que l'excès de ma tendresse⁎  
 Rend mes jours par vous seule ou plus, ou moins charmans,  
 Souffrez⁎ que cette Montre, ô Divine Comtesse,                              
@@ -3785,7 +3785,7 @@ Je dois chérir sa flame⁎, & dés demain peut-estre,
 Puis que c'est pour vos vœux un spectacle si doux,              
 Vous aurez le plaisir de le voir mon Epoux.  
 
-    LE MARQUIS 
+    LE MARQUIS. 
 J'auray ce plaisir ?  
 
     LA COMTESSE.
@@ -3960,7 +3960,7 @@ Il n'est rien si plaisant.
     LE MARQUIS.
         Le franc Original !  
 
-    LA COMTESSE. 
+    LA COMTESSE.
 Enfin cette Avanture ?  
 
     LE VICOMTE.
@@ -3985,10 +3985,10 @@ Mais j'ay si bien tourné, que j'y suis parvenu.
     LA COMTESSE.
 A quoy ?      
 
-    LE VICOMTE 
+    LE VICOMTE. 
         Vostre Inconnu ne m'est plus inconnu.              
 
-    LE MARQUIS *bas.*
+    LE MARQUIS *bas.*.
 M'auroit-il découvert ?  
 
     LA COMTESSE.
@@ -4029,7 +4029,7 @@ J'ay crû qu'elle servoit d'Auberge à des Voleurs.
     LE MARQUIS.
 La peur prendroit à moins ; dans un Bois ! une Tente !  
 
-    LE VICOMTE 
+    LE VICOMTE. 
 Tout-franc, la vision n'est point divertissante.  
 
     LA COMTESSE.
@@ -4106,7 +4106,7 @@ Il est bon quelquefois de voir comme on se fâche.
     LA COMTESSE.
 Et qu'est-il arrivé ?  
 
-    LE VICOMTE 
+    LE VICOMTE. 
         Je n'ay trouvé qu'un lâche,  
 Qu'un farouche Animal, sans cœur & sans vertu,              
 Qu'un…cela fait pitié.  
@@ -4146,7 +4146,7 @@ J'ay trouvé l'Inconnu.
     OLIMPE.
         Oüy moy, dans ce Bois.  
 
-    LE VICOMTE 
+    LE VICOMTE. 
 Justement.  
 
     OLIMPE.
@@ -4503,7 +4503,7 @@ Vous prendrez un Epoux de ma main.
         Doutez-vous      
 Que je n'en fasse pas mon bonheur le plus doux ?  
 
-    LE MARQUIS 
+    LE MARQUIS. 
 Je crains quand vous sçaurez…  
 
     OLIMPE.
@@ -4647,7 +4647,7 @@ Qu'un leger changement pour me mettre en defaut.
     LE MARQUIS.
 Qu'il vienne, c'est à luy de se tirer d'affaire.      
 
-     OLIMPE. 
+    OLIMPE. 
 Je ne parleray point, & le laisseray faire ;  
 Mais s'il est bien reçeu, vous empescherez-vous,      
 Quoy que vous m'ayez dit, d'en paroistre jaloux ?  
@@ -4682,7 +4682,7 @@ LE MARQUIS, VIRGINE.
     LE VICOMTE.
     Si mon cœur…  
 
-    LA COMTESSE. 
+    LA COMTESSE.
         Je vous prie,              
 Point d'amour aujourd'huy, voyons la Comédie.  
 Sont-ils prests à joüer ?  
@@ -4717,7 +4717,7 @@ représentant LE COMEDIEN,
 & vestu en Zéphire.
 
 
-    LA COMTESSE. 
+    LA COMTESSE.
         He' bien,              
 Avance-t-on ? vos Gens n'ont-ils besoin de rien ?      
 
@@ -4738,7 +4738,7 @@ Vous aurez bien choisy ? La Piece…
     LE VICOMTE.
 Qui l'a faite ?  
 
-    LE COMEDIEN 
+    LE COMEDIEN. 
         Jamais nous ne nommons personne.  
 Nous voulons, si l'Ouvrage a quelque Approbateur,  
 Qu'il l'ait pour son mérite, & non point pour l'Autheur ;  
@@ -4832,7 +4832,7 @@ Sans-doute, elle a dequoy satisfaire la veuë.
 S'ils prenoient le Marais que la Roque [160] a laissé,          
 Les Troupes de Paris auroient le nez cassé.  
 
-    UN MAURE  [161]*paroist sur le petit Théatre & chante ces Vers. [162]*
+    UN MAURE [161]*paroist sur le petit Théatre & chante ces Vers. [162]*.
 Amour, à qui tout est possible,  
 Enflame⁎, anime tout ; & pour mieux faire voir  
 Qu'il n'est rien pour toy d'invincible,  
@@ -4843,7 +4843,7 @@ En mesme temps quatre Amours sortent de leurs Niches, & dardent [163] leurs Flé
 *L'Amour punit les Cruelles*,   
 Aimez pour fuir son couroux⁎.  
 
-    LE MAURE *seul.*
+    LE MAURE *seul.*.
 Que pourroit servir aux Belles  
 *D'avoir des charmes si doux*,                           
 S'ils n'estoient faits que pour elles ?  
@@ -4851,7 +4851,7 @@ Tous deux ensemble.
 L'Amour punit les Cruelles ,  
 Aimez pour fuir son couroux⁎.  
 
-    LA FEMME MAURE *seule.*
+    LA FEMME MAURE *seule.*.
 Soyez tendres & fidelles,  
 Il s'armera contre vous,                              
 Si vous faites les rebelles.      
@@ -5102,7 +5102,7 @@ J'ay des raisons…    
     ZEPHIRE.
 Je ne sçaurois parler.  
 
-    CEPHISE. 
+    CEPHISE.
         Abus,  
 Tu m'aimes ; s'il me faut essuyer tes refus,  
 Tu n'es pas bien dans tes affaires.                      
@@ -5191,7 +5191,7 @@ Hé bien, a-t-il l'air bon ? qu'en dites-vous ?
         Je dis…              
 Voyez.  
 
-    LE CHEVALIER *regardant le Portrait.*
+    LE CHEVALIER *regardant le Portrait.*.
     C'est le Marquis.  
 
     LE VICOMTE.
@@ -5337,7 +5337,7 @@ Cette chanson finie, les Conviez font les presens que la coûtume engage de fair
 < FIN. >
 
 
-# Lexique
+# Lexique.
 
 Trois dictionnaires ont été utilisés pour l'établissement de ce lexique :
  * - *Dictionnaire* de l'Académie française.
@@ -5347,10 +5347,10 @@ Trois dictionnaires ont été utilisés pour l'établissement de ce lexique :
 La source utilisée pour une édition sera indiquée entre crochets.ABUSER (s')« Se tromper. » Richelet v.577, 1732ACCOURCIR « On dit aussi *Accourcir* le chemin, quand on prend quelques faux fuyant qui abrège le chemin, qui le rend plus court ». Furetière v.1466AMANT, ANTE « Celuy qui aime d'une passion violente et amoureuse. » Furetière Au Lecteur, v.31, 69, 172, 213, 253, 340, 345, 368, 392, 413, 459, 591, 669, 675, 698, 756, 774, 793, 829, 867, 886, 970, 978, 1036, 1064, 1082, 1208, 1244, 1358, 1584, 1681, 1743, 1866, 1877, 1910, 1920, 1926, 1985ARDEUR« Se dit figurément en Morale, et signifie, Passion, vivacité, emportement, fougue. » Furetière  v.223, 531, 624, 630, 698, 761, 1741, 1925 ARTIFICE« signifie aussi, Fraude, deguisement. » Richelet « Subtilité, finesse, adresse. » Furetière v.471, 1428 AVEU« Consentement » Richelet v. 1386BADINER« Faire le badin. » Furetièrev.571, didascalie page 107 BADIN, INE« Qui est folastre, peu serieux, qui fait des plaisanteries. » Furetière v.974BADINAGE ; « Petite folastrerie, divertissement peu serieux, jeu d'enfants. » Furetière v.1223BAGATELLE« Chose de peu d'importance. » v.1589« On dit absolument, Bagatelle, quand on ne veut pas demeurer d'accord de quelque proposition qu'un autre met en avant. » Furetièrev.664, 1808BAVOLET, TE« Coifure de païsanne des environs de Paris, qui est de toille et qui pend en queuë de moruë sur le dos de la païsanne. » Richelet v.2062, didascalie page 107 BIZARRE« Fantasque, qui a des mœurs inégales, des opinions extraordinaires et particulieres. » Furetière v.1081BRIGUE« Brigue se dit de la cabale qui est interessée. » Richelet « Poursuite ardente pour obtenir quelque chose. » Furetière v.1190 BRIGUER « Tascher d'obtenir quelque chose par brigue, par cabale. » Furetière  v.137, 710 CAPRICE « Déreglement d'esprit. On le dit, quand au lieu de se conduire par la raison, on se laisse emporter à l'humeur dominante où on se trouve. » Furetière  v.949, 977CHAGRIN, NE« Fâché, triste. » Richelet  v.474, 1018, 1060, 1081, 1135, 1327CHAGRIN « Tristesse. Fâcherie. » Richelet  v.284, 286, 350, 443, 585, 616, 667, 863, 949, 1066, 1068, 1097, 1203, 1512, 1620CHAINE« Lien amoureux. » Richelet  v.906, 1682CHIMERE« Chimere, se dit figurément des vaines imaginations qu'on se met dans l'esprit, des terreurs et des monstres qu'on se forge pour les combattre, des esperances malfondées que l'on conçoit, et generalement de tout ce qui n'est point reel et solide. » Furetière v.1065, 1145, 1977 CŒUR« Cœur, signifie quelquefois, Vigeur, force, courage, intrépidité ». Furetièrev.1476COMPAGNIE« On dit, que par *compagnie* on se fait prendre, quand on se licencie à faire quelque chose en faveur de la *compagnie*. » Furetière v.1053COMPLAISANCE« Maniere complaisante et condécendente aux volontez d'une personne pour en avoir l'amitié, l'estime ou quelque faveur. » Richelet  v.267, 411, 954, 992, 1605 CONTER (en)« On dit aussi, *En conter à une femme*, pour dire, La cajoler. » Académie v. 311, 1240CONNAITRE« *Connoistre*, signifie aussi, Avoüer, admettre. » Académie v.1479COUROUX« Ce mot signifie colére. Il est plus de la poësie que de la prose, et même il n'a point de pluriel qu'en vers. » *Courroux* dans Furetière  v.160, 674, 844, 1839, 1843, 1848, 1894DESSEIN«  Volonté, désir de faire, ou de dire. » Richelet Décoration au prologue, v.44, 258, 265, 428, 1090DIVERTISSEMENT« Réjouïssance, plaisir, recreation. On gagne les femmes en leur donnant toute sorte de *divertissement* » Furetière . Au sens technique du terme, « divertissement » signifie également « intermède » : « Sorte de représentation et de divertissement, comme ballet, danse, chœur etc. entre les actes d'une piece de Theatre » Académie . Cependant le divertissement, ne se situe pas entre les actes, il est enchâssé à l'intrigue de la pièce. Au Lecteur – deux occurrences-, v.13, 63, 132, 926, 1328, didascalie page 107EMPRESSEMENS« Hâte de faire, ou de dire quelque chose. Soins ardens et pleins de zéle. » Richelet  v.328, 718ENFLAMERAu sens figuré signifie « donner de l'amour. » Richelet v.95, 633, 903, 1245, 1403, 1833ENNUY« signifie aussi generalement, Fascherie, chagrin, deplaisir, souci. » Académiev. 686, 955, 1061, 1330ENVY (à l')« Par émulation et pour voir qui fera, ou réüssira le mieux. » Richeletv. 416, 853ETONNER« Épouvanter, surprendre d'une certaine maniere qui touche. » Richeletv. 639, 1017, 1024, 1025FAIRE UNE EPREUVE« Experience, tentative, essay qu'on fait de quelque chose » Furetièrev.847FEUX« Feu dans un sens figuré signifie amour ». Richelet v.224, 240, 276, 338, 625, 690, 736, 759, 899, 1095, 1129, 1213, 1311, 1343, 1346, 1399, 1651, 1659, 1746, 1913, 2018FIER, ERE« Hautain, altier. »  Furetièrev.32, 466, 740, 1155, 1195, 1259, 1532FIERTE« Qualité de celuy qui est fier. » Furetière v.70, 81, 949, 1377, 1990FLAME« On dit figurément, la flamme de l'amour. » écrit *Flamme* dans Furetière v.202, 235, 250, 367, 593, 601, 659, 736, 752, 780, 981, 1002, 1079, 1090, 1142, 1149, 1341, 1369, 1380, 1405, 1653, 1701, 2036FOY« Signifie Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. » Furetière v.42, 124, 216, 228, 233, 575, 594, 603, 965, 1091, 1362, 1382, 1410, 1655, 1778, 1936, 1971, 2042FRIVOLE « Inutile, vain. » « Ce qui n'est d'aucune valeur, qui n'a rien de solide qui merite qu'on le considere. » Richelet v.1704, 1764GALAMMENT« D'une manière galante » Furetièrev.380GALANT« Se dit aussi d'un homme qui a l'air de la Cour, les manieres agreables, qui tâche à plaire, et particulierement au beau sexe. » Furetière v.190, 394, 550, 653, 995, 1714, 1720, V.1 titre de lettre, 1745, 1827GALANTE (matière, fêtes, manières)« Galante se dit aussi, Des choses … pour dire, Agréables, polies, etc… » AcadémieAu Lecteur – deux occurrences – v.24, 41, 739, 916, 1180, 1481, 1905GALANTERIE; « Ce qui est galant et se dit des actions et des choses. » v.371, 819, 1314« Galanterie, se dit aussi de l'attache qu'on a à courtiser les Dames. Il se prend en bonne et en mauvaise part. » Furetière v.1921GENIE« GENIE, se dit aussi du talent naturel, et de la disposition qu'on a à une chose plutost qu'à une autre. » Furetière v.314, 802GESNE« se dit aussi de toute peine ou affliction de corps ou d'esprit » Furetière v.1680GESNER« signifie plus communément, Tourmenter le corps ou l'esprit. » Furetière v.731HAZARD« Peril, risque. ».v.385, 1166PAR HAZARD « Par accident, fortuitement. » *Hasard* dans Furetière v.122, 797, 1274HAZARDER (se)« S'exposer au hazard. »  Furetière v.580HAZARDEUX« Ce mot se dit des personnes et des choses. Il veut dire qui hazarde trop, dangereux. » Furetière v.1024HOMMAGE« Respect, honneur. Marques extérieures de soumission et d'obeïssance. » Richeletv.647, 734, 978, 1038HYMEN « Ce mot signifie le mariage, mais en ce sens il ne se dit qu'en vers, ou en des discours de prose qui tiennent de la poësie. » *Himen* dans Furetière v.610, 1037, 1696, 1778, 1924HYMENEE« Ce mot pour dire le mariage n'est usité qu'en vers, ou en des ouvrages de prose qui ressentent la poësie. » *Himenée* dans Furetière v.1914INCOMMODE« Importun, fàcheux, qui aporte de l'incommodité. » Richeletv. 1081INGENU« Franc, sincere, naïf jusques à la simplicité. » Richelet v.1806, 1879INTERESSER« Donner part à quelqu'un en quelque chose d'utile, faire qu'il y trouve du profit. » Académiev. 562MAISTRESSE« Celle qui est particulierement aimée de quelque homme. Celle pour qui on a un atachement particulier, soit que cétatachement soit galant, ou sincere. » Au Lecteur, v.32, 680, 1987« Celle qui a des domestiques. » écrit *Maîtresse* dans le Richelet v.167, 198MOUSQUETONS« Sorte de fusil de deux piez et demi qu'on porte à la ceinture, ataché à une bandouliere. » Richeletv.1480PERDRE« Il signifie aussi, Ruiner: et en ce sens il se dit de tout ce qui peut causer du préjudice à la fortune de quelqu'un, à sa reputation, a sa santé, etc. » Académiev. 155POMPE (de ballets)« Apareil superbe et magnifique qui se fait par ostentation, ou pour quelque autre dessein. La pompe consiste dans l'ordre, la variété et la magnificence ». « Ce mot en parlant de carrousel, ou de mascarade. C'est la marche magnifique et réglée de quelque carrousel, ou mascarade. » Nous pouvons donc supposée que cela s'applique à toutes sortes de divertissement, et les ballets pour notre cas. Richeletv.9, 39POMPEUX« Qui a de la pompe, qui est magnifique, leste, bien paré. » Richelet Au Lecteur, v.1811SOT« Celui qui n'a point, ou peu d'esprit, impertinent, ridicule. » Richelet ; v.351, 997, 1543« Ce mot se dit des choses, et des personnes, et veut dire *ridicule*, impertinant, niais. Fait mal à propos. » Richelet v.465SOUFFRIR « Endurer, avoir de la peine, suporter. » écrit *Soufrir* dans le RicheletAu Lecteur, v.263, 399, 743, 1073, 1308, 1098, 1178, 1254, 1416, 1672SOÛPIR« C'est l'action de soupirer. Sorte de gemissement qu'on tire du fond du cœur et qui sort par la bouche. » *Soupir* dans Furetière v.719, 967SOÛPIRANT « Celui qui soupire pour quelque belle. » *Soupirant* dans Furetière  v.302SOÛPIRER« Plaindre, pousser des soupirs amoureux, desirer avec ardeur. » *Soupirer* dans Furetière v.391, 1040TENDRESSE« Sensibilité du cœur et de l'ame. La delicatesse du siecle a renfermé ce mot dans l'amour et dans l'amitié. Les amans ne parlent que de *tendresse* de cœur, soit en prose, soit en vers; et même ce mot signifie le plus souvent *amour*; et quand on dit, J'ay de la *tendresse* pour vous, c'est à dire, J'ay beaucoup d'amour. » Furetière v.35, 195, 283, 399, 558, 895, 1027, 1092, 1132, 1265, 1306, 1584, 1643, 1772, 1986TRANSPORT« Ce mot au figuré peut désigner un sentiment, une passion. » Richelet v.443, 1099, 1150TRAVERSER*« * Empescher de faire quelque chose, en suscitant des obstacles. » Académie v.1775ZELE« Afection ardente. » *Zéle* dans Furetière  v.118, 223, 274, 747
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
 ### Textes contemporains de Thomas Corneille.Le Misanthrope
@@ -5359,18 +5359,18 @@ Registre.
 
 
 
-### Textes antiquesL'Ane d'or ou Les Métamorphoses
+### Textes antiques.L'Ane d'or ou Les Métamorphoses
 
 
 
-### Textes contemporainsAspects du théâtre dans le théâtre au XVIIème siècle
+### Textes contemporains.Aspects du théâtre dans le théâtre au XVIIème siècle
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Dictionnaires :Dictionnaire
+### Dictionnaires :.Dictionnaire
 Le Bouquet des expressions imagées – Encyclopédie thématique des locutions figurées de la langue française
 Dictionnaire universel contenant généralement tous les mots françois tant vieux  que modernes et les termes de toutes les sciences et les arts
 Le Grand Dictionnaire historique ou Le mélange curieux de l'histoire sacrée et profane
@@ -5394,28 +5394,28 @@ Thomas Corneille, sa vie et son théâtre
 
 
 
-## Travaux critiques
+## Travaux critiques.
 
 
-### Histoire des idées au XVIIème siècleLe Parnasse galant – institution d'une catégorie littéraire au XVIIème siècle
+### Histoire des idées au XVIIème siècle.Le Parnasse galant – institution d'une catégorie littéraire au XVIIème siècle
 La France galante
 
 
 
-### Histoire de la dramaturgie au XVIIème siècleLe Théâtre dans le Théâtre sur la scène française au XVIIème siècle
+### Histoire de la dramaturgie au XVIIème siècle.Le Théâtre dans le Théâtre sur la scène française au XVIIème siècle
 A History of French Dramatic Literature in the Seventeenth Century
 Littérature française, Les grands mouvements littéraires
 La Dramaturgie classique en France
 
 
 
-### Histoire de la comédieLa Comédie
+### Histoire de la comédie.La Comédie
 La Comédie de l'âge classique, 1630-1715
 Lire la Comédie
 
 
 
-### Histoire de la représentation théâtrale au XVIIème siècleLa Scène et la coulisse dans le théâtre du XVII*e* siècle en France
+### Histoire de la représentation théâtrale au XVIIème siècle.La Scène et la coulisse dans le théâtre du XVII*e* siècle en France
 La Représentation théâtrale en France au XVII*e* siècle
 Le Théâtre à machines en France à l'âge classique
 
@@ -5430,7 +5430,7 @@ Thomas Corneille, sa vie et son théâtre (1892)
 
 
 
-## Sitographiewww.cesar.org.uk
+## Sitographie.www.cesar.org.uk
 
 www.books.google.fr
 www.theatre-classique.fr

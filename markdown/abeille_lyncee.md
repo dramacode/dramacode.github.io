@@ -18,14 +18,14 @@ A LA HAYE, Chez ADRIAN MOETJENS, Marchand Libraire prez de la Cour, à la Librai
 
 
 
-# Introduction
+# Introduction.
 
 En 1678, une nouvelle pièce, *Lyncée*, est créée sur la scène de l'Hôtel de Bourgogne : son créateur, Gaspard Abeille, même s'il est loin d'avoir joui de la reconnaissance d'un Racine ou même d'un Rotrou, en est à sa troisième tragédie. Mais, pour la première fois, il a choisi un sujet issu de la mythologie grecque, celui des Danaïdes. Or c'est une légende connue de tous ses contemporains et nombre d'auteurs, anciens ou contemporains, se sont déjà intéressés à ce sujet : nul n'ignore les célèbres *Suppliantes* d'Eschyle, *l'Héroïde XIV* d'Ovide ou encore, mais moins connue, *Les Danaïdes* de Gombauld, créée en 1644. L'abbé Abeille a obéi ainsi aux usages du XVII*e* siècle en ce sens que, pour se faire reconnaître en tant que dramaturge par ses contemporains, il a dû s'inscrire dans la lignée des Anciens et reprendre un sujet mythologique et montrer la valeur de sa création poétique. De fait, après cette tragédie, qui a eu toutefois un succès médiocre, Abeille s'est fait incontestablement connaître puisque, alors même que *Lyncée* a été sa dernière tragédie publiée et qu'aucune de ses autres pièces ne l'ont été, en 1704, il a succédé à Charles Boileau à l'Académie Française.
 
 Rétrospectivement, on peut donc penser que cette tragédie à sujet mythologique grecque, *Lyncée*, a constitué un tournant dans la vie d'Abeille ; et en effet, cette pièce semble avoir assis sa réputation de Poète auprès de ses contemporains, d'autant que Lancaster, qui recense toutes les pièces du Grand Siècle, voit *Lyncée* comme la pièce la plus achevée du dramaturge. Mais alors qu'il est d'usage pour tout dramaturge de débuter par la reprise d'un mythe antique, Abeille a attendu sa troisième tragédie pour reprendre la légende des Danaïdes. Si encore aujourd'hui le châtiment des Danaïdes aux Enfers est très connu, celui du tonneau qui ne se remplit jamais, il était encore plus connu pour les érudits du dix septième siècle qui connaissaient parfaitement les textes latins et grecs. Et en effet, on trouve une évocation du mythe dans le plus célèbre ouvrage de théorie dramatique au XVII*e* siècle : *La Poétique* d'Aristote, dans lequel l'auteur cite une pièce que l'on a jamais retrouvée, intitulée *Lyncée*.
 
 
-# Gaspard Abeille : aperçu biographique
+# Gaspard Abeille : aperçu biographique.
 
 Gaspard Abeille naquit en 1648 à Riez en Provence, une petite ville de l'actuel département des Alpes de Haute Provence. Il nous reste peu d'éléments sur sa vie. On ne sait à quel moment, ni par quels appuis, De toute évidence, très jeune il obtint un bénéfice ecclésiastique (il obtint la charge d'abbé du Prieuré de Notre-Dame de La Merci, situé à Clermont-Ferrand), ce qui lui permit, semble-t-il, de se consacrer à la poésie. Il fut aussi attaché au Maréchal de Luxembourg, François-Henri de Montmorency-Bouteville dont il fut le secrétaire, mais également au duc Louis II de Vendôme et il devint plus tard secrétaire général de la province de Normandie. Ainsi, c'est à travers sa plume qu'il acquit sa réputation et le 11 août 1704, il entra à l'Académie Française, succédant alors à Charles Boileau.
 
@@ -37,10 +37,10 @@ On pourrait réunir au Théâtre de l'abbé Gaspard Abeille les tragédies de *S
 La rumeur est donc née de cette anecdote. Une fois à l'Académie Française, Abeille renonça à sa carrière de dramaturge et écrivit de nombreux discours et odes pour l'Académie Française. Il mourut à Paris le 22 mai 1718 et lors discours de réception de Mongault, son successeur à l'Académie Française, Sacy compare les opéras d'Abeille à ceux de Quinault, ce qui prouve que, même si son nom nous est aujourd'hui inconnu, il eut tout de même une certaine notoriété dans la deuxième moitié du dix-septième siècle.
 
 
-# Lyncée, par Gaspard Abeille
+# Lyncée, par Gaspard Abeille.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 La tragédie d'Abeille s'ouvre sur une conversation entre les deux personnages épisodiques, Erigone, sœur de l'ancien roi d'Argos et amante de Danaüs, avec son fils, Iphis. Celui-ci lui fait part de son désespoir, face à l'indifférence d'Hypermnestre, fille aînée de Danaüs dont il est follement amoureux mais qui le rejette en faveur de Lyncée, neveu de Danaüs. Elle essaie de le tranquilliser en lui faisant part d'un complot qu'elle ourdit contre Danaüs, feignant d'avoir des sentiments pour lui mais cherchant en fait à venger son frère Sténélus. Toutefois Erigone refuse de lui avouer son plan (I, 1). C'est à sa suivante Dircé qu'elle confie son secret : elle nourrit en réalité une amour secret pour Lyncée (I, 2). Son complot se précise lors d'une entrevue avec Danaüs : celui-ci ne peut se résoudre à demander à sa fille favorite, Hipermestre, de sacrifier son futur époux Lyncée la nuit de leurs noces, comme il l'a demandé à toutes ses autres filles. C'est ici qu'apparaît l'explication : l'oracle lui a prédit qu'il sera tué par le fer de l'un de ses gendres et pour éviter que cela ne se produise, et sur les conseils fourbes d'Erigone, il organise le massacre de ses neveux, malgré ses scrupules (I, 3).
 
@@ -53,7 +53,7 @@ Danaüs, ne doutant pas de l'obéissance de sa fille et ignorant cette fuite, la
 Toutefois, Erigone refuse un tel dénouement et ordonne à Iphis d'accomplir l'oracle en se servant du fer que Lyncée avait abandonné lors de leur entrevue ; celui-ci, malgré ses réticences, accepte à contrecœur mais promet de se tuer (V, 1) ; néanmoins Erigone refuse de se laisser distraire de son projet de vengeance (V, 2). Elle convainc d'ailleurs Danaüs de ne pas se livrer à Lyncée, feignant toujours d'avoir des sentiments sincères envers lui (V, 3). Elle parvient même à convaincre Hipermestre de cette sincérité, qui par conséquent, soupçonne Lyncée de l'avoir dupée (V, 4). Un serviteur arrive pour leur annoncer le dénouement : Danaüs, accompagné d'Iphis, court à la rencontre de Lyncée mais celui-ci refuse de s'en prendre au père de sa maîtresse et c'est alors qu'Iphis se retourne contre Danaüs et le tue avec l'épée de Lyncée avant de se donner la mort (V, 5). Le projet d'Erigone mené à terme, l'oracle accompli, Erigone se retire de la scène, laissant une Hipermestre en proie à ses malheurs et à ses remords, laissant ainsi les amants libres de monter sur le trône d'Argos (V, 6).
 
 
-## Réception de la pièce
+## Réception de la pièce.
 
 La pièce qui nous intéresse ici est donc la dernière tragédie publiée de l'auteur, mais la plus réussie selon Lancaster. Elle est représentée pour la première fois le 25 février 1678 sur la scène de l'Hôtel de Bourgogne. D'après le Mémoire de Mahelot, le décor est décrit comme « un palais à volonté », donc il nous reste peu de détails sur les conditions même de la représentation et on ignore exactement quels en ont été les comédiens. De plus, si le nombre de représentations reste un mystère, Lancaster note que lorsque la troupe des comédiens quitte l'Hôtel de Bourgogne en août 1680 pour la Comédie-Française, la pièce ne figure plus dans leur répertoire et elle ne sera plus jamais rejouée. Cependant, il est certain qu'elle a eu du succès, comme l'atteste le Mercure Galant du 28 février 1678 : la pièce fut « **extraordinairement applaudi. Les vers en sont beaux, les pensées brillantes et dignes de l'Auteur du *Coriolan*** ».
 
@@ -66,7 +66,7 @@ Ainsi, tout laisse à croire qu'elle ne fut pas publiée de la volonté de son a
 Il est cependant surprenant de trouver, dans cet ouvrage de Mouhy qui évoque l'édition hollandaise que nous avons étudiée, que cette édition s'est faite en in-8 alors que l'édition que nous avons consultée, unique édition disponible, se trouve en in-12. Plusieurs explications sont possibles : soit il y a eu d'autres éditions du vivant de l'auteur mais dont nous n'avons gardées aucune trace, soit l'édition dont Mouhy parle date du XVIII*e* siècle et ne nous est pas parvenue, et enfin, il est possible qu'il s'agisse d'une simple erreur dans un ouvrage qui recense toutes les pièces de théâtre « depuis son origine jusqu'en 1780 ».
 
 
-## Fortune du sujet
+## Fortune du sujet.
 
 Bien que la pièce ait eu un succès très relatif et que l'auteur ne soit pas passé à la postérité, l'attention étant monopolisée par Racine, Molière ou Rotrou, cette pièce d'Abeille a connu un certain retentissement puisqu'on l'a considérée comme l'une des plus réussies du dramaturge. De plus, son entrée à l'Académie Française ainsi que sa popularité auprès de ses contemporains - on a parlé de son influence sur La Thuillerie -, apportent la preuve que ses qualités poétiques, au sens large du terme, étaient reconnues.
 
@@ -89,15 +89,15 @@ J'appelle nœud la tragédie depuis le commencement jusqu'à cette partie, qui e
 Abeille a donc disposé de la source indéniable et prestigieuse qu'est Aristote qui en parle comme le meilleur exemple de retournement de situation, d'autant qu'il a tout mis en œuvre pour reproduire une telle péripétie. Mais, si le poète dramatique reprend la matrice légendaire relayée par les auteurs antiques, il a repris lui-même le sujet d'une tragédie d'un dramaturge de la génération qui le précède, Gombauld, auteur des Danaïdes dont nous parlerons un peu plus loin. Et à sa suite, ce sujet mythologique est remis sur les planches à deux reprises, mais dans des perspectives différentes à chaque fois, selon les préoccupations de leurs époques. On note donc la tragédie de Riupeirous, Hypermnestre (1704), année où Abeille entre à l'Académie Française et celle de Le Mierre (1758), qui s'inscrit plus dans une perspective voltairienne de tragédie philosophique.
 
 
-# Traitement des sources
+# Traitement des sources.
 
 
-## La source mythologique : les Danaïdes
+## La source mythologique : les Danaïdes.
 
 Le mythe que le dramaturge a choisi pour sa pièce est l'une des légendes grecques les plus connues et les plus fondatrices de l'Histoire: c'est celle du destin tragique de Danaos et des « noces sanglantes » de ses filles, les Danaïdes, selon la formule de Jean-Noël PASCAL (Les noces sanglantes : Hypermnestre du Baroque aux Lumières, 1999).
 
 
-### Les sources antiques
+### Les sources antiques.
 
 Ce mythe nous est parvenu à travers les écrits des plus grands auteurs antiques, que ce soit sous forme de manuels de mythologie, de tragédies ou encore d'épîtres, tous écrits au premier siècle avant Jésus-Christ :
  * – La Bibliothèque d'Apollodore l'Athénien [5] relate toute la généalogie de Danaüs qui descend de Zeus, la querelle avec son frère Egyptus, qui a débouché sur le massacre des Egyptiades, ses cinquante fils.
@@ -107,7 +107,7 @@ Les Suppliantes d'Eschyle se situe avant la nuit des noces : on assiste à l'ar
  * – La XIVe Héroïde d'Ovide se présente sous la forme d'un discours qu'Hypermnestre adresse à Lyncée, après les tragiques événements : elle fait un récit de ce qui s'est produit, de son dilemme et de sa décision. C'est une source très précise qui a pour principal intérêt de réunir tous les éléments du mythe avec une description détaillée de la nuit des noces, qu'Abeille a choisi de mettre en avant dans sa tragédie.
 
 
-### Le mythe lui-même
+### Le mythe lui-même.
 
 On ne peut comprendre la sombre destinée des Danaïdes sans expliquer toute la légende qui entoure la dynastie dont elles sont issues et leur rôle dans la mythologie fondatrice du rapprochement entre les Grecs et les Egyptiens. En effet, si les auteurs antiques divergent sur l'étendue de sa lignée, ils sont tous unanimes sur le prestige de cette lignée.
 
@@ -126,7 +126,7 @@ Toutefois, Eschyle s'attache à montrer la stricte équité entre la démesure d
 Mais si la destinée de ses sœurs est assez connue, celle d'Hypermnestre est sujette à des incertitudes.
 
 
-### Les divergences
+### Les divergences.
 
 C'est à ce niveau que l'on retrouve les plus grandes divergences entre les différentes sources de ce mythe :
  * – **Apollodore** fournit une fin heureuse à ce mythe puisque, selon lui, Danaüs finit par libérer sa fille et l'unit à Lyncée. Ils eurent un héritier, Abas, et Lyncée succéda à Danaüs sur le trône d'Argos.
@@ -139,10 +139,10 @@ C'est ainsi qu'elle est pardonnée par son père et, unie à Lyncée, elle donne
 Les sources antiques offrent donc des divergences quant aux dénouements possibles pour cette légende mais aucun n'évoque de dénouement tragique. Cependant, on peut remarquer que le Grand Dictionnaire historique ou le curieux mélange du sacré et du profane [8] de Louis Moreri qui prétend prendre ses sources dans les ouvrages d'Apollodore et d'Hygin, laisse deux possibilités de dénouement : ou bien Danaüs revient sur sa colère et finit par rappeler Lyncée pour l'unir à sa fille, ce qui correspond bien à la version d'Apolllodore, ou bien Lyncée doit attendre la mort de Danaüs pour retrouver Hypermnestre et succéder à Danaüs sur le trône d'Argos.
 
 
-## Les sources contemporaines du dramaturge
+## Les sources contemporaines du dramaturge.
 
 
-### *Les Danaïdes* de Gombauld (1644)
+### *Les Danaïdes* de Gombauld (1644).
 
 Cette pièce de Gombauld a sans nul doute été la principale source d'inspiration à la tragédie d'Abeille : elle a été créée en 1644 soit trois décennies avant celle de Gaspard Abeille. Mais au-delà de cette approche simplement chronologique, on note de fortes similitudes entre les deux pièces.
 
@@ -219,7 +219,7 @@ Et enfin, on retrouve pratiquement le même jeu de scène avec les gardes dans l
 Par conséquent, on ne peut nier que cette première pièce, créée par Gombauld une trentaine d'années avant Abeille, a dû être une forte source d'inspiration pour notre dramaturge : on retrouve en filigrane des thèmes qu'Abeille va développer, amplifier, et surtout dramatiser, pour donner plus de profondeur à sa pièce, mais aussi plus de suspens et d'action ; et c'est ce qui fait de son œuvre une tragédie originale et bien menée, apportant aux spectateurs du dix-septième siècle les attentes qu'ils pouvaient avoir sur un sujet mythologique aussi connu que celui des Danaïdes.
 
 
-### *Iphigénie* de Racine (1674)
+### *Iphigénie* de Racine (1674).
 
 Créée en 1674 dans un contexte particulier, nul doute que cette pièce a eu beaucoup d'impact sur notre dramaturge. En effet, à l'époque, une sorte de compétition apparaît entre Racine et Michel Le Clerc, un dramaturge beaucoup moins connu mais Abeille n'a pas pu l'ignorer. Racine s'intéresse au sujet d'Iphigénie en Tauride d'abord mais finit par rédiger une Iphigénie en Aulis, sujet qu'avait également choisi Le Clerc quelques mois plus tard puisque sa pièce est créée en 1675. Son auteur s'explique sur ce choix en 1676  rend="i_grand_titre":
 
@@ -236,7 +236,7 @@ Et c'est exactement ce qui se produit dans *Iphigénie* puisqu' Agamemnon fait v
 Et enfin, on peut s'apercevoir qu'Abeille a recours au même artifice que Racine pour justifier le mariage d'Achille avec Iphigénie, en intégrant le thème de la passion amoureuse : il en fait des amants de longue date, nouant l'action, la dramatisant, la rendant ainsi plus susceptible d'émouvoir le public. Le même schéma se reproduit dans l'intrigue d'Abeille puisque la scène 1 de l'Acte II met en scène une entrevue entre les deux amants, Hipermestre et Lyncée, dans laquelle ils s'avouent un amour mutuel et vertueux dont ils voient la récompense, ce qui ajoute une ironie tragique à la situation puisque le spectateur est informé par l'acte I des obstacles qui vont se dresser devant leur bonheur conjugal.
 
 
-### *Phèdre* de Racine (1677)
+### *Phèdre* de Racine (1677).
 
 Si l*'Iphigénie* constitue une source de taille pour le choix d'un tel renversement de situation, au niveau de la dramaturgie donc, *Phèdre* a sans doute aussi beaucoup inspirée notre auteur dans l'invention de son épisode. En effet, l'idée d'un projet de vengeance du côté de Sténélus lui est sans doute venue à la lecture des *Danaïdes* de Gombauld qui insiste sur le sentiment de culpabilité du roi. Mais cet épisode de la vengeance est parfaitement intégré et noué à légende grâce aux liens qu'il développe entre chacun des personnages, que ceux-ci soient légendaires ou inventés.
 
@@ -293,7 +293,7 @@ La parenté entre les deux personnages paraît évidente quand on compare les de
 Cependant, il faut relativiser cette source d'inspiration car Abeille est loin de dramatiser le sentiment de culpabilité qui fait de Phèdre un personnage si fort et si pathétique, dans le sens où Erigone, face à son dépit amoureux, se détourne et semble se désintéresser du sort de Lyncée, se concentrant sur son projet de vengeance contre Danaüs et sa famille.
 
 
-## La synthèse des sources
+## La synthèse des sources.
 
 Abeille, comme son prédécesseur Gombauld, reprend la légende de Danaüs transmise par les Antiques. Ces œuvres de l'Antiquité étaient connues pour ces lettrés du XVII*e* siècle et il semble logique qu'un jeune dramaturge comme Abeille s'attaque à une intrigue mythologique : il a certes 30 ans au moment de la représentation sur scène de *Lyncée* mais il n'en est qu'à sa troisième tragédie. Et le mythe des Danaïdes est relayé par un certain nombre de mythographes antiques, grecs et latins, dont les ouvrages sont utilisés comme base d'apprentissage de ces langues anciennes.
 
@@ -310,7 +310,7 @@ Mais Abeille reste très fidèle à l'œuvre de Gombauld puisqu'on voit dans *Le
 On peut d'ailleurs penser que c'est de *Phèdre* que *Lyncée* hérite cette espèce d'amour incestueux, mais sans l'être réellement, entre la figure de la mère-reine et du fils-gendre. Cette intrigue complexe va permettre d'imbriquer étroitement et totalement leurs destins, donnant plus de poids aux actions. De plus, la présence de l'oracle divin, doublée par la force de persuasion d'Erigone, elle bien humaine et d'autant plus forte qu'elle est l'être aimé, parachève la constitution de la personnalité de ce roi faible, lâche mais humain, le dédouanant dans la mesure où il est manipulé et donc pas entièrement responsable de ses actes ; et c'est ce qui va en faire un personnage qui va susciter l'indifférence des spectateurs, malgré sa crédulité, malgré l'assassinat de ses neveux, et le rendre susceptible de provoquer ce plaisir si particulier qu'évoque Aristote dans *La Poétique*.
 
 
-## *Lyncée* ou la passion comme moteur de l'action
+## *Lyncée* ou la passion comme moteur de l'action.
 
 L'examen de cette pièce d'Abeille révèle que les personnages sont tous reliés étroitement les uns aux autres par une intrication complexe ; mais ils se rassemblent tous sous la même enseigne, celle de la passion, que celle-ci soit vengeresse ou amoureuse.
 
@@ -330,10 +330,10 @@ C'est la raison pour laquelle le *Cid* est bien une tragédie pour Corneille et 
 À la suite de cette analyse, il devient évident que cette tragédie d'Abeille est bien une tragédie en accord avec les principes de son temps, conforme à ce que les spectateurs peuvent attendre d'un poème dramatique, qu'ils soient simples amateurs, praticiens ou théoriciens, juges tacites de l'application des grandes règles unanimement reconnues en 1678.
 
 
-# Lyncée : une tragédie aristotélicienne par excellence
+# Lyncée : une tragédie aristotélicienne par excellence.
 
 
-## De l'oracle aux péripéties : le choix d'un retournement vraisemblable
+## De l'oracle aux péripéties : le choix d'un retournement vraisemblable.
 
 En effet, avec l'intervention d'un oracle qui constitue l'élément déclencheur de la sombre machinerie d'Erigone, le dramaturge aurait pu opter pour un dénouement à machines ; pourtant, il a écarté cette possibilité et s'est attaché à souligner que chaque action, guidée par la passion, quelle qu'elle soit, découle de la précédente. Ainsi, Erigone, guidée par son désir de vengeance, exige la mort de Danaüs parce qu'il a abusé de la bonté de Sténélus et qu'il a causé sa perte. Ainsi, Abeille a donc veillé à rendre son intrigue la plus cohérente possible, selon les principes qui se sont imposés à cette époque.
 
@@ -384,7 +384,7 @@ Qu'afin que l'oeil ouvert il s'y laisse tomber [29].
 Abeille se sert donc parfaitement de cet outil et va même plus loin en le réinvestissant d'un nouvel emploi puisqu'il se transforme et est perverti par l'usage qu'en fait Erigone, argument de poids pour balayer les doutes de Danaüs, inspiration et motif de la péripétie et du dénouement malheureux pour le roi. Abeille en fait donc le nœud de l'action puisque l'intérêt de la pièce est bien de savoir comment l'oracle va s'accomplir. Au dénouement, on ignore réellement si les deux amants iront se marier, si Erigone a réellement mis fin à sa vie ; tout ce qui importe, c'est l'accomplissement de l'oracle qui réservait une surprise donc aux personnages, et aux spectateurs. Et cet oracle réserve d'autant plus de surprise au public que le dénouement repose sur les actes et les intrigues de personnages épisodiques, des personnages sortis tout droit de l'imagination du dramaturge et dont les spectateurs, qui connaissent le mythe, ne peuvent anticiper les actions.
 
 
-## Amour et vengeance : un épisode parfaitement greffé au mythe
+## Amour et vengeance : un épisode parfaitement greffé au mythe.
 
 Abeille s'inspire, pour son dénouement, de la matrice mythologique mais fait preuve d'une créativité certaine en greffant habilement ce que les théoriciens appellent un « épisode » : on a donc affaire à une action complexe, basée sur des retournements de situation qui ménagent des effets de surprise, des « péripéties » ou coups de théâtre. Abeille, par ce biais, procède ainsi à une véritable rationalisation du mythe puisque ce n'est plus l'oracle qui va porter la destinée des personnages mais son utilisation par le personnage épisodique qu'est Erigone.
 
@@ -424,7 +424,7 @@ Abeille s'inspire sans doute de cette démarche extraordinaire de Racine pour é
 L'introduction de ces personnages épisodiques est donc l'occasion pour le dramaturge de troubler les deux amants et de faire surgir des obstacles devant eux par la création de rivaux. Outre l'oracle qui menace Danaüs et indirectement Lyncée, ces rivaux amoureux que sont Erigone et Iphis vont faire s'entremêler enjeu amoureux et péril réel sur leur vie même. La pièce s'ouvre sur ces personnages d'invention dans une conversation sous une forme continuée : le premier mot prononcé est un « non » d'Iphis, refus de celui-ci d'assister à la victoire amoureuse de son rival. Ces personnages sont les garants de l'originalité de l'auteur du poème dramatique. Ils portent en eux toute la créativité du dramaturge et ménagent les éléments de surprise que ce dernier réserve à ses spectateurs. D'ailleurs, dans le *Lyncée*, Abeille souligne que les initiatives, mêmes faites avec de mauvaises intentions, viennent d'Erigone et d'Iphis. Certes, Hipermestre organise la fuite de Lyncée mais il faut reconnaître que les caractères de la source mythique sont dominés par les deux premiers, et qu'ils ne font finalement que réagir à leurs manigances. Une certaine passivité se dégage de ces personnages ; même Hipermestre qui apparaît au départ comme la plus lucide, est bernée jusqu'à la fin du cinquième acte.
 
 
-# Quand épisodes et mythe se mêlent pour créer l'action dramatique
+# Quand épisodes et mythe se mêlent pour créer l'action dramatique.
 
 À la suite de l'examen de la démarche poétique, il apparaît clairement que le succès de la tragédie repose sur l'habileté du poète à lier les éléments du mythe et de l'épisode pour n'en faire qu'une intrigue cohérente et vraisemblable, avec des personnages dont la présence est pleinement justifiée, qu'ils appartiennent au mythe ou non.
 
@@ -445,7 +445,7 @@ OPPOSANTS : Hipermestre, Lyncée
 Ce schéma actantiel conduit donc à éclairer les relations de symétrie et d'opposition entre les personnages : ils se définissent les uns par rapport aux autres et il apparaît évident que c'est Erigone qui domine toute la pièce et constitue un élément moteur de l'action dans le sens où elle apparaît dans la plupart des scènes, très exactement dans quinze scènes sur les vingt six du total de la pièce, qui lui offre ainsi une large prédominance sur les autres personnages. Nous verrons donc en quoi elle constitue une influence considérable dans la pièce et détermine leurs actions, et leur destinée.
 
 
-## Erigone : de l'oracle à l'art de la manipulation
+## Erigone : de l'oracle à l'art de la manipulation.
 
 On pourrait trouver surprenant de trouver une pièce intitulée *Lyncée* alors qu'il n'occupe que cinq scènes sur les vingt six de la pièce ; comme pour *Bajazet*, ceci s'explique par le fait que Lyncée concentre tous les enjeux, chacun des personnages ayant des attentes vis-à-vis de lui : Danaüs voit en lui son assassin et désire sa mort, Hipermestre attend de lui qu'il fuit et n'accomplisse jamais l'oracle, Erigone souhaite s'enfuir avec lui et Iphis cherche à vaincre ce rival amoureux. Toutefois, il est incontestable que c'est Erigone qui mène le jeu dans la pièce, bien qu'elle ne soit qu'un personnage épisodique, avec son fils Iphis.
 
@@ -562,7 +562,7 @@ Frapez de tous costez je m'abandonne à vous.        1260
 Frappé par la fatalité et ne sachant où accorder sa confiance, Danaüs se résigne, ce qui le rend digne de la compassion du public, trahi par ses proches, manipulé et conscient de sa déchéance. En cela, il se retrouve très proche du personnage d'Agamemnon de Racine, « **ni tout à fait coupable ni tout à fait innocent** [36] ». Il est vrai que Danaüs reste coupable du meurtre des quarante-neuf frères de Lyncée, mais cette culpabilité est atténuée par la présence d'Erigone qui est à l'origine de ses décisions. Le pathétique de ce personnage n'est plus à démontrer et nul doute qu'il est à même de provoquer les émotions visées par Aristote.
 
 
-## Des héros-types de la tragédie
+## Des héros-types de la tragédie.
 
 Après Erigone, et à égalité avec son père, Hipermestre est celle qui occupe le plus l'espace scénique : elle apparaît dans onze scènes sur vingt-six. Au XVII*e* siècle, on a coutume de ménager l'apparition des héros amoureux à la scène 1 de l'acte II et c'est ce qui se produit puisque le deuxième acte s'ouvre sur une scène galante entre les deux amants.
 
@@ -651,7 +651,7 @@ Abeille en fait un rival pour le lier étroitement à l'action principale et fai
 L'examen de cette pièce d'Abeille nous a permis de redécouvrir cette tragédie, tombée dans l'oubli et largement éclipsée par les grands auteurs dramatiques du dix-septième siècle tels que Corneille, Molière mais surtout Racine. *Lyncée* s'inscrit dans la directe lignée des grandes tragédies antiques, mettant à profit le mythe fondateur de l'Histoire d'Argos et ses liens entre l'Egypte. Mais Abeille réalise un travail étonnant sur cette base en y greffant un épisode de vengeance doublée de passion amoureuse qui nouent les personnages entre eux, motivent leurs actes et donne un éclairage nouveau sur ce mythe connu, surtout pour ses contemporains. Il parvient en effet à émouvoir ses spectateurs en le faisant ressentir les grandes émotions tragiques prônées par Aristote lui-même tout en ménageant un dénouement sanglant qui réserve aux spectateurs des péripéties et retient l'attention par son originalité. Le commentaire de Mouhy sur cette pièce d'Abeille nous informe d'ailleurs que, bien que la tragédie n'ait pas rencontré un succès, « **la quatrième scène du Cinquième Acte … applaudie et … le méritoit** [40] » : cette scène, qui correspond à l'affrontement entre Erigone et Hipermestre, nous conforte donc dans l'idée que l'originalité de cette pièce se trouve dans la création de ces personnages épisodiques qui nouent l'action et la renouvellent sans cesse.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il n'existe qu'une édition de cette pièce d'Abeille, Lyncée, imprimée en 1681 mais créée en février 1678. Deux exemplaires sont cependant disponibles à Paris :
  * – BNF, Richelieu-Arts du spectacle, 8-RF-5367
@@ -681,70 +681,70 @@ En ce qui concerne l'établissement du texte, nous avons conservé en règle gé
  * – Abeille procède à une simplification du nom de l'héroïne du mythe des Danaïdes : « Hypermnestre » devient ainsi Hipermestre dans la pièce. Nous avons conservé ce choix pour l'établissement de notre texte ainsi que dans l'introduction critique. Toutes les fois où nous parlons d'Hipermestre, il s'agit du personnage spécifique d'Abeille, contrairement à Hypermnestre qui désigne le personnage du mythe lui-même.
 
 
-## Coquilles
+## Coquilles.
 
 
-### Page de titre
+### Page de titre.
 
 « Abbeille »-« Libraire Francoise » au lieu de Librairie
 
 
-### Liste des Acteurs
+### Liste des Acteurs.
 
 « maritme »
 
 
-### Acte I
+### Acte I.
 
 Acte I scène 1 (page 3 de l'édition originale) : *Iphis*
 
 v. 1 « Où » : *Ou* // v. 2 « Où » : *Ou* // v. 2 « lune où lautre » // v. 3 (x2) « a » : *à* // v. 4 « Jay » // v. 5 « a » : *à //* v. 11 « a » : *à //* v. 15 « éspoir » // v. 17 « Nauplis » / « a » : *à //* v. 20 « a » : *à //* v. 26 « Que » : *Qu'* / « a » : *à //* v. 35 « quil » // v. 37 « cést » // v. 39 « a » : *à //* v. 43 « a » : *à //* v. 44 « a » : *à //* v. 45 « a » : *à //* v. 47 « a » : *à //* v. 58 « Fugant » : *fuyant //* v. 60 « a » : *à //* v. 61 « a » : *à //* v. 66 « la fait » // v. 67 « a » : *à //* v. 68 « men » // v. 69 « a » : *à* / « la » : *sa //* v. 70 « jay lû » : *j'ay lu //* v. 72 « On » : *où* // v. 79 « a » : *à //* v. 86 « a » : *à //* v. 91 « par » : *pas* // v. 94 « Ou » : *Où //* v. 95 « destre » // v. 96 « Nosant » // v. 103 « a » : *à //* v. 104 « a » : *à //* v. 110 « laveu » / « a til » // v. 111 « Jayme » / « Où » : *Ou //* v. 112 « mallez » // v. 113 « eteinte » : *éteintes //* v. 115 « D'anaus » // v. 116 « a » : *à //* v. 119 « nay » // v. 120 (x3) « a » : *à //* v. 123 « moffrant » // v. 130 « Laisses moy » // v. 135 « leffet » // v. 136 « maura » // v. 143 « a » : *à //* v. 144 « Jay » // v. 152 « a » : *à //* v. 160 « naura » // v. 163 « l'exes » // v. 164 « a » : *à //* v. 169 « Jusqu'icy Jay » // v. 170 « ma » // v. 173 « il est temps & de parler » : *Il est temps de parler* // v. 175 « on » : *où* // v. 176 « jay » // v. 189 « quil ma » // v. 190 « a » : *à //* v. 192 « quil » / « jen » / « le desirs » // v. 196 « a » : *à //* v. 197 « la » : *là //* v. 201 « la » : *là //* v. 203 « Où » : *Ou* / « sil » // v. 204 « a » : *à //* v. 205 « la » : *là //* v. 210 « a » : *à //* v. 214 « a » : *à //* v. 224 « a » : *à //* v. 228 « a » : *à //* v. 235 « ses yeux languissant » // v. 236 « Rabatois » : *rabattoit //* v. 237 « Jayme » // v. 241 « où » : *ou //* v. 242 « lamante » // v. 243 « a » : *à //* v. 244 « a » : *à //* v. 252 « où » : *ou //* v. 253 « arrstée » // v. 254 (x2) « Où » : *Ou* / « lont » // v. 257 « je lavoüe » // v. 259 « quil peut il y succomber » // v. 265 « qui ma dit » : *qui me dit //* v. 286 « a » : *à //* v. 287 « ma » // v. 290 « a » : *à //* v. 296 « a » : *à* / « où » : *ou //* v. 300 « quil » / « a » : *à*
 
 
-### Acte II
+### Acte II.
 
 v. 305 « Je vois » : *je vous vois //* v. 307 « a » : *à* / « vos » : *vous* // v. 313 « a » : *à //* v. 318 « a » : *à //* v. 320 « jay » // v. 321 « jay » // v. 321 « devantage » // v. 322 « j'en fai*t* » // v. 323 « a » : *à //* v. 325 « a » : *à //* v. 326 « c'essé » / « a » : *à //* v. 329 « a » : *à //* v. 334 « mois » : *moins* // v. 336 « rétour » // v. 343 « quil » // Omission du vers 350 dans l'édition originale // v. 353 « laffreuse » // v. 362 « nont » / « épeé » // v. 363 « Ou » : *Où //* v. 366 « mauriez » // v. 367 « a la mains » : *à la main //* v. 368 « a » : *à //* v. 370 « Jarrosay » // v. 371« Daugures » // v. 372 « Quils » / « funestres » / « a » : *à //* v. 375 « promptemenc » // v. 377 « a » : *à //* v. 380 « a » : *à //* v. 384 « a » : *à //* v. 394 « a » : *à* / « le » : *se //* v. 395 « a » : *à //* v. 396 « a » : à // v. 397 « a » : *à //* v. 402 « a » : *à //* v. 412 « a » : *à /* « du » : *dû //* v. 413 « la » // v. 420 « laisnesse » // v. 423 « destre » // v. 425 « Lybie » : *Libye //* v. 431 « a » : *à //* v. 432 « ces » : *ses //* v. 433 « a » : *à //* v. 438 « a » : *à //* v. 439 « a » : *à //* v. 440 « a » : *à //* v. 442 « laccable » // v. 443 « a » : *à //* v. 447 « a » : *à //* v. 455 « a » : *à //* v. 463 « jen » // v. 465 « la » : *là //* v. 481 « trois an » // v. 485 « ma » // v. 486 « Lyncèe » // v. 489 « a » : *à //* v. 495 « laymois » // v. 501 « a » : *à* / « leteindre » // v. 502 « jaurois » // v. 508 « a » : *à* // v. 511 « laurez » / « a » : *à //* v. 512 « c'est » : *cet //* v. 514 (x2) « a » : *à //* v. 533 « a » : *à //* v. 535 « a » : *à //* v. 546 « a » : *à //* v. 550 « a » : *à //* v. 553 « a » : *à //* v. 554 « diffiance » // v. 555 « leur coups » // v. 557 « livrént » // v. 559 « dant » : *tant //* v. 572 « a » : *à //* v. 573 « a » : *à //* v. 579 « a » : *à //* v. 581 « Jaime » // v. 583 « a » : *à //* v. 584 « Jayme » // v. 586 « quil » // v. 586 « men » // v. 589 « qu'elle » // v. 590 « desoubeissant » // v. 591« a til » // v. 592 « na til »
 
 
-### Acte III
+### Acte III.
 
 Acte III scène 1 (page 23 de l'édition originale) : *Erigone* // v. 598 « javois » // v. 600 « Je ne trouve plus le jour tend a sa fin » : *Je ne le trouve plus . Le jour tend à sa fin* // v. 605 « laffaire » // v. 606 « a » : *à //* v. 610 « Qu'il fuge » : *qu'il fuye* / « Où » : *Ou* // v. 613 « a » : *à //* v. 615 « a prests » // v. 621 « a » : *à //* v. 625 « jattens » // v. 632 « lespoir » // v. 636 « a » : *à //* v. 640 « telle » // v. 642 (x2) « a » : *à //* v. 650 « a » : *à //* v. 651 « Quon » // v. 653 « dabord » // v. 657 « a » : *à //* v. 658 « dépouse » // v. 659 « a » : *à //* v. 662 « a » : *à //* v. 665 « a » : *à //* v. 675 « a » : *à //* v. 677 « a » : *à //* v. 684 « a » : *à //* v. 686 « a » : *à //* v. 690 « a pareils » // v. 691 « a » : *à //* v. 693 « a » : *à //* v. 696 « la » // v. 703 « a lors » // v. 704 « féray » // v. 713 « a » : *à //* v. 719 « concois » // v. 720 « a » : *à //* v. 721 « a » : *à //* v. 725 « ou » : *où //* v. 726 « Et vous vous, etonnez » // v. 729 « ou » : *où //* v. 731 « a » : *à //* v. 737 « Ou » : *Où //* v. 738 « la » // v. 746 « Quelfruit » // v. 751 « a » : *à //* v. 752 « ou » : *où //* v. 754 « a » : *à //* v. 756 « a » : *à //* v. 757 « *J*adore » // v. 762 « ou » : *où //* v. 763 « ma » // v. 766 « la » // v. 767 « le voix » // v. 771 « la » : *là //* v. 786 « a » : *à* // v. 789 « Il fais plus » : *Je //* v. 795 « l'oin » // v. 796 « a » : *à //* v. 799 « a » : *à //* v. 801 « a » : *à //* v. 803 « a pres » / « defforts » // v. 805 « a » : *à //* v. 807 « Jauray » / « a » : *à //* v. 810 « ny » // v. 812 « a » : *à //* v. 814 « a » : *à //* v. 815 « a » : *à //* v. 817 « a » : *à //* v. 821 « a » : *à //* v. 824 « a » : *à //* v. 827 « le pitié » // v. 835 « n'oye » // v. 840 « a » : *à //* v. 843 « puis qu'il » // v. 844 « a » : *à //* v. 846 « t'el » // v. 847 « a » : *à //* v. 848 « Uu » : *Une //* v. 855 « a » : *à //* v. 858 « a » : *à //* v. 878 « a » : *à //* v. 880 « a » : *à //* v. 884 « a » : *à //* v. 886 « et » : *est //* v. 887 « Joublieray » // v. 890 « a » : *à //* v. 894 « malgré nous, nous » // v. 895 « a » : *à //* v. 901 « doffenser » // v. 901 « jamis » : *jamais //* v. 902 « a » : *à //* v. 902 « J » : *j' //* v. 906 « a » : *à //* v. 909 « a » : *à //* v. 910 « J'amais » // v. 912 « J'amais » // v. 913 « a » : *à //* v. 920 « a » : *à //* v. 921 « a » : *à //* v. 930 « a » : *à //* v. 934 « deviter » // v. 941 « ou » : *où //* v. 947 « a » : *à //* v. 951 « lay » // v. 954 « a » : *à //* v. 959 « a » : *à //* v. 960 « a » : *à*
 
 
-### Acte IV
+### Acte IV.
 
 v. 962 « recoy » // v. 964 « a » : *à //* v. 966 « c'est » : *cet //* v. 967 « ce» : *se //* v. 968 « a » : *à //* v. 980 « ses regarde » // v. 974 « navons » / « a » : *à //* v. 975 « a » : *à //* v. 980 « a » : *à //* v. 981 « cen » // v. 984 « a » : *à //* v. 985 « a » : *à //* v. 990 « ma » // v. 994 « lon » // v. 995 « a » : *à //* v. 1000 « a » : *à //* v. 1002 « a » : *à //* v. 1003 « a » : *à //* v. 1004 « a » : *à* / « au de la » : *au-delà //* v. 1006 « j'ouir » // v. 1008 « mavez » // v. 1018 « a » : *à //* v. 1019 « a » : *à* // v. 1020 « ce » : *de //* v. 1021 « a » : *à //* v. 1022 (x2) « a » : *à //* v. 1026 « las » // v. 1027 « j'amais » // v. 1034 « a » : *à //* v. 1042 « a » : *à //* v. 1043 « a » : *à //* v. 1046 (x2) « Où » : *Ou //* v. 1047 « a » : *à //* v. 1051 « a » : *à //* v. 1056 « Seigneur*s* » // Omission du vers 1058 dans l'édition originale // v. 1061 « a » : *à //* v. 1062 « a » : *à //* v. 1066 « que » : *qui //* v. 1067 « a » : *à //* v. 1071 « a » : *à* / « sort » : *sert //* v. 1073 « la » : *là //* v. 1075 « a » : *à //* v. 1076 « la » : *là //* « SCENE V » (page 39 de l'édition originale) : *SCENE III //* v. 1081 « Qu'avons-nous fait'il » // v. 1084 « maviez » // v. 1087 « a » : *à //* v. 1092 « ce luy » // v. 1095 « coronnez » // v. 1097 (x2) « a » : *à //* v. 1098 « jattens » // v. 1099 (x2) « a » : *à //* v. 1102 « a » : *à //* v. 1103 « a » : *à //* v. 1104 « la » // v. 1105 « puisquil » // v. 1107 « a » : *à //* v. 1114 « a » : *à //* v. 1119 « a » : *à //* v. 1122 « a » : *à //* v. 1124 « a » : *à //* v. 1125 « a » : *à //* v. 1126 (x2) « a » : *à //* v. 1127 (x2) « a » : *à //* v. 1128 « a » : *à //* v. 1129 « ma » // v. 1130 « ma » // v. 1142 « questes » // v. 1148 « des mes jours » // v. 1149 « a pres » // v. 1152 « a » : *à //* v. 1153 « ma » // v. 1154 « a » : *à //* v. 1161 « a » : *à //* v. 1166 « a » : *à //* v. 1168 « a » : *à //* v. 1170 « on » : *ou //* v. 1171 « a » : *à //* v. 1174 « a » : *à //* v. 1185 « a » : *à //* v. 1189 « d'un » : *d'une //* v. 1192 « L'aissez » // v. 1201 « a » : *à //* v. 1203 « a » : *à //* v. 1204 « a » : *à //* v. 1205 « a » : *à //* v. 1208 « a » : *à //* v. 1213 « qua » : *qu'à //* v. 1214 (x2) « a »: à // v. 1226 « Vous » : *Vos* // v. 1233 « a » : *à //* v. 1234 « a » : *à //* v. 1237 « a » : *à //* v. 1240 « a » : *à //* v. 1242 « De puis » // « LYNCEE » : *LYCASTE* SCENE VI, page 45 de l'édition originale // v. 1251 « s'embloient » / « lors qu » // v. 1256 « ny » // v. 1258 « …. Destins achevez vostre ouvrages » : *Destins , achevez vos ouvrages, // v. 1259 « a » : à //* v. 1260 « a » : *à*
 
 
-### Acte V
+### Acte V.
 
 v. 1264 « Jattens » // v. 1273 « a » : *à //* v. 1275 « j'aloux » // v. 1286 « la : là » // v. 1287 « a » : *à //* v. 1288 « a » : *à //* v. 1290 « a » : *à //* v. 1291 « d'etourner » // v. 1296 « la » : *là //* v. 1298 « a » : *à //* v. 1303 « a » : *à //* v. 1308 « a » : *à //* v. 1309 « Où » : *Ou //* v. 1315 « maine » // v. 1316 « Jiray » // v. 1317 « a » : *à //* v. 1320 « a » : *à //* v. 1324 « a » : *à //* v. 1325 « lavez » // v. 1329 (x2) « a » : *à //* v. 1330 « Jay » / « jeus » : *j'eus //* v. 1335 « jeteindray » // v. 1336 « c'et » // v. 1336 « lardeur » // v. 1337« jauray du » : *j'aurai dû //* v. 1337 « Mais apres avoir fait ce jauray du faire » : *Mais apres avoir fait ce que j'auray dû faire //* v. 1342 « a pres » // v. 1348 « la » : *là //* Acte V scène 3 (page 49 de l'édition originale) : *Erigone* // v. 1353 « a » : *à //* v. 1356 « a » : *à //* v. 1363 « a » : *à //* v. 1368 « a » : *à //* v. 1369 « la » : *là //* v. 1371 « la » : *là //* v. 1393 « a » : *à //* v. 1395 « obsolu » // v. 1400 « a » : *à //* v. 1401 « a » : *à //* v. 1406 « a » : *à //* v. 1411 « a » : *à //* v. 1413 « a » : *à //* v. 1426 « a » : *à //* v. 1427 « a » : *à //* v. 1431 « la » : *là //* v. 1435 « Deséspoir » // v. 1438 « lon recois » // v. 1440 « a »: *à //* v. 1444 « a lenvy » : *à l'envy //* v. 1451 « se troublé » : *se trouble //* v. 1452 « a » : *à //* v. 1462 « mavez » // v. 1464 « sen » // v. 1471 « a » : *à //* v. 1472 « a » : *à //* v. 1480 « la » : *là //* v. 1489 « sauvè » : *sauvé //* v. 1492 « prononcent » : *prononçant.*
 
 
-## Corrections de la ponctuation
+## Corrections de la ponctuation.
 
 
-### Acte I
+### Acte I.
 
 v. 3 «  » : , // v. 9 « , » : ? // v. 12 « , » : . // v. 20 « , » : ; // v. 22 « , » : . // v. 23 «  » : ; // v. 25 «  » (x2) : , // v. 31 « , » : ... // v. 32 «  » : ! // « , » : ! // v. 33 «  » : ! // v. 35 «  » : . // v. 36 « , » : . // v. 38 « , » : . // v. 44 «  » : ; // v. 53 «  » : ! // « , » : ? // v. 54 « , » : ! // v. 55 « , » : ! // v. 56 « , » : . // v. 60 « , » : . // v. 61 « , » : ; // v. 70 « , » : ; // v. 73 «  » : , // v. 75 « , » : ! // v. 78«  » : ! // v. 82 «  » : ! // v. 84 « , » : . // v. 86 «  » : . // v. 88 «  » : . // v. 92 «  » : , // « , » : . // v. 94 « , » : ? // v. 98 « , » : : // v. 100 « , » : . // v. 108 « , » : ! // v. 111 «  » : , // « , » : . // v. 118 « , » : ; // v. 120 « , » : . // v. 122 « , » : : // v. 124 « , » : ?// v. 126 « . » : ?// v. 128 « , » : . // v. 129 « , » : ; // v. 134 « , » :  ; // v. 138 « , » :  ! // v. 140 « . » : ? // v. 141 « . » : ! // « , » : ? // v. 142 « , » : : // v. 144 « : » : . // v. 146 « . » : ! // v. 147 «  » : . // v. 149 « , » : . // v. 151 « , » : . // v. 153 « , » : . // v. 158 «  » (x2) : , // v. 165 « , » : ? // v. 166 « . » : ? // v. 167 «  » : . // v. 168 « , » : ? // v. 172 « , » : . // v. 174 « , » : . // v. 175 « , » : : // v. 180 « , » : ; //v. 184 « , » : . // v. 186 « , » :  ; // v. 188 « , » : . // v. 190 « , » : ! // v. 196 « , » : ? // v. 202 « , » : ; // v. 203 «  » (x2) : , // v. 204 « , » : . // v. 210 « , » : ? // v. 213 « . » : ? // v. 214 « , » : !// v. 216 « , » : : // v. 220 « , » : . // v. 226 « , » : ? // v. 228 « . » : ? // v. 229 «  » : ? // v. 232 « , » : ; // v. 236 « , » : . // v. 238 «  » : ? // «  » : , // « , » : ? // v. 240 « , » : . // v. 244 « , » : ? // v. 247 «  » : , // v. 248 « , » : ? // v. 249 « , » : ? // v. 250 « , » : ? // v. 251 « , » : ? // v. 252 « , » : . // v. 266 « . » : ? // v. 271 « ; » : , // v. 272 « . » : , // v. 274 « , » : . // v. 278 « , » : . // v. 282 « , » : … // v. 284 « . » : ? // v. 285 « , » : ! // v. 288 « , » : . // v. 293 « , » : ! // v. 294 « , » : : // v. 295 « . » : , // v. 296 « , » : .
 
 
-### Acte II
+### Acte II.
 
 v. 304 « , » : ? // v. 308 « , » : . // v. 309 « . » : ? // v. 311 « , » :   // v. 314 « , » : ! // v. 316 « , » : . // v. 318 « , » : … // v. 322 « , » : . // v. 328 « , » : . // v. 330 « , » : : // v. 334 « , » : . // v. 336 « , » : ! // v. 340 « , » :   // v. 342 «  » : . // v. 344 « , » : : // v. 347 « . » : ? // v. 348 « . » : ? // v. 356 « . » : ? // v. 361 « , » : ? // v. 362 « , » : ? // v. 364 « , » : ? // v. 368 « , » : … // v. 369 « . » : ? // v. 372 « , » : ! // v. 375 « , » : : // v. 376 «  » (x2) : , // v. 380 « , » : ; // v. 388 « , » : ? // v. 403 « , » : . // v. 406 « , » : . // v. 410 « , » : . // v. 412 «  » : ? // v. 413 « . » : ? // v. 414 « , » : ? // v. 415 « , » : . // v. 416 « , » : ? // v. 428 « , » : . // v. 430 « , » : . // v. 434 « . » : ! // « , » : ! // v. 435 «  » : ? // v. 436 « , » : . v. 442 «  » : : // v. 446 « , » : ! // v. 448 « , » :  ; // v. 450 « , » : : // v. 454 « , » :  ; // v. 455 « . » : … // v. 458 « . » : ? // v. 460 «  » : , // v. 462 « , » : . // v. 465 « , » : ? // v. 474 «  » : . // v. 476 « , » : . // v. 480 « , » : . // v. 485 « , » : : // v. 489 « , » : . // v. 492 « , » : ? // v. 494 « , » : ? // v. 496 « , » : ; // v. 500 « , » : . // v. 504 « , » : . // v. 508 « , » : ! // v. 511 «  » : , // v. 514 « , » : . // v. 516 « . » : ? // v. 518 « , » : ; // v. 521 « . » : ? // v. 522 « , » : . // v. 523 « , » : ? // v. 524 « , » : ? // v. 526 « , » : ? // v. 528 « , » : ? // v. 532 « , » : . // v. 533 «  » (x2) : , // v. 534 « , » : . // v. 537 « . » : !// « , » : ! // v. 540 « , » : ? // v. 542 « , » : ? // v. 544 « , » : ? // v. 546 « , » : ? // v. 548 « , » : ? // v. 551 « , » : ; // v. 554 « , » : . // v. 556 « , » : . // v. 558 « , » : ? // v. 560 « , » : ? // v. 564 « , » : ? // v. 565 « , » : ? // v. 568 « , » : . // v. 572 « , » : ; // v. 576 «  » : , // v. 577 «  » (x3) : , // v. 578 « , » : ; // v. 582 « , » : ? // v. 583 « , » : . // v. 586 « , » : . // v. 588 « , » : . // v. 589 « , » : ? // v. 590 « , » : ? // v. 591 « , » : ? // v. 592 « , » : ? // v. 594 «  » : , « , » : ?
 
 
-### Acte III
+### Acte III.
 
 v. 597 «  » : , // « , » : ! // v. 599 « , » : … // v. 600 «  » : . // « , » : ? // v. 602 «  » (x2) : , // « , » : ? // v. 603 « . » : ? // v. 604 « , » : ? // v. 606 « , » : . // v. 609 « , » : . // v. 611 «  » : ; // v. 616 « , » : . // v. 617 « , » : ; // v. 618 « , » : : // v. 620 « , » : . // v. 621 «  » (x2) : ! // v. 624 « , » : . // v. 625 « , » : : // v. 630 « , » : . // v. 632 « , » : . // v. 634 « , » : ; // v. 639 « , » : : // v. 640 «  » : ! // «  » : , // « , » : . // v. 642 « , » : . // v. 646 « , » : . // v. 647 « , » : . // v. 648 « , » : ; // v. 652 « , » : . // v. 656 « , » : . // v. 660 « , » : ; // v. 662 « , » : . // v. 663 « , » : ? // v. 668 « , » : . // v. 672 « , » : ? // v. 676 « , » : ; // v. 680 « , » : . // v. 683 « , » : ; // v. 691 « , » : ? // v. 686 « , » : . // v. 688 « , » : . // v. 689 «  » : ; // v. 691 « , » : ? // v. 694 « , » : ? // v. 696 « , » : ? // v. 698 « , » : ! // v. 708 «  » : : // « , » : . // v. 717 «  » : , // « , » : ; // v. 718 « , » : . // v. 720 « , » : . // v. 725 «  » : , // « . » : ? // v. 726 « , » : ! // v. 728 « , » : . // v. 729 « . » : ? // v. 730 « , » : ? v. 732 «  » : , (x2) // « , » : . // v. 735 « , » : ; // v. 736 «  » (x2) : , // v. 737 «  » : , // v. 740 «  » : : // v. 741 « , » : . // v. 744 «  » (x2) : , // v. 745 « , » : ? // v. 746 « , » : ? // v. 747 « , » : ? // v. 748 « , » : ? // v. 750 «  » : , // « , » : . // v. 752 « , » : . // v. 760 « , » : . // v. 761 «  » : , // « , » : . // v. 766 « , » : . // v. 770 « , » : . // v. 771 «  » : ! // v. 772 « , » : . // v. 774 « , » : ; // v. 776 « , » : ; // v. 778 « , » : ; // v. 780 « , » : . // v. 783 «  » : . // v. 784 « , » : . // v. 786 « , » : ; // v. 788 « , » : . // v. 790 « , » : : // v. 793 «  » : , // v. 794 «  » : , // v. 798 « , » : ; // v. 805 «  » : , // v. 806 « , » : ; // v. 812 « , » : . // v. 814 « , » : . // v. 816 « , » : ; // v. 820 « , » : . // v. 826 « , » : ? // « , » : ? // v. 827 «  » : , // « , » : ? // v. 828 «  » : , // « , » : ? // v. 830 «  » : . // v. 831 «  » : , // v. 838 «  » : , (x3) // «  » : . // v. 841 « . » : ? // v. 842 « , » : ? // v. 845 «  » : ! // v. 852 « . » : ? // v. 853 «  » : ? // v. 854 «  » : , // v. 857 « , » : . // v. 858 «  » : , // v. 859 « , » : . // v. 860 « , » : ; // v. 869 «  » : , // « , » : ? // v. 870 « , » : ? // v. 873 « , » : . // v. 880 « , » : ? // v. 881 « , » : . // v. 882 « , » : : // v. 884 « , » : ; // v. 888 « , » : . // v. 890 « , » : : // v. 892 « , » : . // v. 894 « , » : . // v. 895 « , » : ; // v. 897 «  » : ! // v. 900 « , » : . // v. 901 «  » : , // v. 909 « . » : ? // v. 912 « , » : ; // v. 914 « , » : ; // v. 920 « , » : . // v. 926 « , » : , // v. 929 «  » : ! // v. 934 « , » : ? // v. 935 «  » : ? // v. 936 « . » : ? // v. 937 « , » : ! // v. 940 « , » : ; // v. 942 « , » : : // v. 949 « , » : ? // v. 950 « , » : . // v. 951 «  » : ! // v. 953 «  » : . // v. 955 « , » : ; // v. 956 « , » : . // v. 957 « , » : : // v. 959 « , » : .
 
 
-### Acte IV
+### Acte IV.
 
 v. 961 «  » : ; // « , » : . // v. 962 « , » : . // v. 963 « , » : : // v. 964 « . » : ? // v. 967 « . » : ? // v. 968 « , » : . // v. 969 « , » : ; // v. 972 « , » : ; // v. 973 « , » : . // v. 976 « , » : . // v. 980 « : » : . // v. 984 « , » : . // v. 990 « , » : . // v. 992 « . » : ! // v. 994 «  » : , // « , » : ! // v. 1000 « , » : ? // v. 1001 «  » : , // v. 1002 « , » : . // v. 1005 « , » :  ; // v. 1007 « , » : . // v. 1109 « . » : , // v. 1010 «  » : ! // « , » : ? // v. 1011 « , » : ! // v. 1014 « , » : . // v. 1016 « , » : : // v. 1019 «  » : , //  v. 1020 «  » : , (x2) // v. 1022 «  » : , // « , » : ? // v. 1024 « , » : . // v. 1025 « , » : ? // v. 1026 « . » : ? // « , » : . // v. 1027 « , » : : // v. 1031 « , » : ; // v. 1036 « , » : ; // v. 1038 « , » : ; // v. 1040 « , » : ; // v. 1045 «  » : ; // v. 1046 « , » : . // v. 1048 « , » : . // v. 1051 « , » : : // v. 1054 « , » : ; // v. 1063 « , » : . // v. 1064 « , » : . // v. 1066 « , » : : // v. 1068 « , » : ? // v. 1072 « , » : . // v. 1074 « , » : ? // v. 1076 « , » : ! // v. 1068 « , » : ? // v. 1072 « , » : . // v. 1074 « , » : ? // v. 1081 « , » : ? // « ' « : , // v. 1083 « , » : . // v. 1084 « , » : ! // v. 1087 « , » : ? // v. 1088 «  » : , // v. 1090 « , » : . // v. 1091 « , » : . // v. 1092 «  » (x2) :  , // v. 1096 « , » : ; // v. 1097 « ; » : , // v. 1100 « . » : ? // v. 1102 « , » : . // v. 1104 « , » : . // v. 1109 «  » : , // « . » : ? // v. 1112 «  » : , // v. 1116 « , » : . // v. 1117 « , » : : // « , » : . // v. 1123 «  » : , // v. 1124 « , » : . // v. 1125 « , » : ? // v. 1128 « , » : ; // v. 1130 « , » : . // v. 1132 « , » (x2) : , // v. 1133 «  » : ! // «  » : , // v. 1134 « , » : ? // v. 1135 « , » : . // v. 1136 « , » : ? // v. 1137 « , » : . // v. 1138 « , » : : // v. 1139 «  » : , // v. 1141 «  » : , // v. 1142 «  » : , (x3) // « , » : ? // v. 1143 «  » : , // « , » : ? // v. 1144 « , » : ? // v. 1146 «  » : , // v. 1149 «  »  (x2) : , // v. 1151 « , » : ? // v. 1152 « , » : ; // v. 1154 « , » : : // v. 1155 «  » (x2) : , // «  » : . // v. 1156 «  » (x2) : , // « , » : ? // v. 1158 « , » : ? // v. 1162 «  » : ? // v. 1164 « , » : . // v. 1166 «  » : , // « , » : . // v. 1167 « . » : ; // v. 1168 « , » : . // v. 1169 «  » : , // v. 1170 « , » : . // v. 1172 « , » : ? // v. 1176 « , » : . // v. 1186 « , » : . // v. 1187 « , » : : // v. 1190 « , » : ; // v. 1192 «  »  (x2) : , // v. 1195 « , » : ; // v. 1196 « , » : ! // v. 1197 « , » : : // v. 1199 « , » : ? // v. 1200 «  » :  ! // v. 1204 « , » : ; // v. 1207 «  » : , // v. 1208 « , » : ; // v. 1211 « , » : . // v. 1212 « , » : . // v. 1216 « , » : ; // v. 1219 « , » : : // v. 1221 « , » : . // v. 1222 « , » : ? // v. 1228 « , » : ; // v. 1236 « , » : . // v. 1242 «  » (x2) : , // v. 1243 « , » : . // v. 1244 « , » : . // v. 1247 « , » : ? // v. 1252 «  » : ; // v. 1255 «  » (x2) : , // v. 1258 «  » : ,
 
 
-### Acte V
+### Acte V.
 
 v. 1261 «  » : , // v. 1262 « , » : . // v. 1264 « . » : . // v. 1265 « . » : : // v. 1266 «  » : , (x2) // v. 1268 « , » : . // v. 1276 « , » : . // v. 1281 «  » : , // v. 1284 « , » : ; // v. 1285 «  » : , // v. 1290 « ' « : , // v. 1294 « , » : ? // v. 1296 « , » : ? // v. 1299 « , » : ; // v. 1300 « , » : . // v. 1306 « , » : ! // v. 1308 « , » : ; // v. 1311 « : » : ? // « , » : ? // v. 1315 « , » : ; // v. 1318 « , » : . // v. 1326 «  » : , // v. 1328 « , » : . // v. 1332 «  » : , // v. 1333 « , » : . // v. 1342 « , » : ; // v. 1344 « , » : . // v. 1348 « , » : . // v. 1349 «  » : ! // v. 1350 «  » : , // v. 1358 « , » : ; // v. 1362 « , » : . // v. 1363 «  » : , // v. 1364 «  » : , // v. 1365 «  » : , // «  » : ; // v. 1369 « , » : . // v. 1377 «  » : , // v. 1380 «  » (x2) : , // v. 1384 «  » : , // v. 1388 « , » : . // v. 1390 « , » : : // v. 1394 «  » : ! // «  » : ? // v. 1396 « , » : . // v. 1397 « , » : ? // v. 1398 «  » : , // v. 1400 « , » : . // v. 1401 «  » : , // v. 1404 « , » : . // v. 1405 « , » : ? // v. 1409 «  » (x2) : , // v. 1411 « , » : ; // v. 1416 « , » : . // v. 1418 « , » : ; // v. 1421 «  » : ! // v. 1425 «  » : , // « , » : . // v. 1426 «  » : , // v. 1429 «  » : !  // v. 1430 « , » : ! // «  » : ! // v. 1431 « . » : ? // v. 1432 « . » : ? // « . » : ! // v. 1435 «  » (x4) : , // v. 1438 « , » : . // v. 1448 «  » : , // v. 1459 «  » : , // v. 1462 «  » : ! « . » : ? // v. 1469 «  » : , // v. 1470 « , » : . // v. 1472 « , » : : // v. 1474 «  » (x2) : , // v 1476 « , » : . // v. 1477 «  » (x2) : , // « , » : . // v. 1480 «  » : ! // « . » : ? // v. 1481 «  » : ! // v. 1483 «  » : , // v. 1484 « , » : ? // v. 1485 «  » : , // v. 1494 « , » : . // v. 1495 « , » : ..
 
@@ -752,7 +752,7 @@ v. 1261 «  » : , // v. 1262 « , » : . // v. 1264 « . » : . // 
 # LYNCÉE [43] TRAGÉDIE.
 
 
-## ACTEURS [46]
+## ACTEURS [46].
  – DANAUSpresque Epoux d'Erigone.
  – ERIGONEpromis à Danaus.
  – IPHISfils d'Erigone et amant d'Hipermestre.
@@ -803,7 +803,7 @@ Vous me dites encore que j'ayme, que j'espere .
 Ouy ; de Lyncée Iphis ne soyez point Jaloux,  
 D'Hypermestre Jamais il ne sera l'Epoux.  
 
-    IPHIS.  
+    IPHIS. 
 Dites , dites aussy , pour endormir ma hayne,  
 Qu' Hipermestre consent à soulager ma peine.  
 Que pour elle Lyncée est un objet d'horreur,  
@@ -946,7 +946,7 @@ Mais souffrez que demain si je n'en voy l'effet,
 Je me fasse raison du tort qu'on m'aura fait.  
 
 
-### Scène II
+### Scène II.
 ERIGONE, DIRCE.
 
 
@@ -1054,7 +1054,7 @@ L'aller trouver…
         Je voy Danaus qui s'avance,  
 Il est triste, ses yeux accablez⁎ de langueur...  
 
-    ERIGONE
+    ERIGONE.
 Laisse moy penetrer le trouble de son coeur,  
 Dircé retire toy.   
 
@@ -1617,7 +1617,7 @@ Justifieront vos soins⁎, changeront ses transports,
 Hipermestre à ses yeux paroistra criminelle,  
 Vous parlerez...  
 
-    [ERIGONE] [76]
+    [ERIGONE] [76].
         Dircé je dois trop à ton zele,  
 Va de ce triste hymen⁎ troubler les vains aprests⁎,  
 Mais ne decouvre point mes sentiments secrets .  
@@ -2870,7 +2870,7 @@ Suivez ses pas Lycaste
 LYNCEE, HIPERMESTRE.
 
 
-    HIPERMESTRE
+    HIPERMESTRE.
         O Lumiere impreveuë [111],  
 O depart, ô retour cause de mes tourmens,  
 Ah Lyncée ! est ce là l'effet de vos sermens ?  
@@ -2896,7 +2896,7 @@ Il suffit . Laissez moy dans ce malheureux jour,
 Douter au moins s'ils sont de douleur ou d'amour.  < FIN >
 
 
-# Glossaire
+# Glossaire.
 
 Les mots qui figurent dans ce glossaire sont ceux dont le sens actuel diffère de celui du XVII*e* siècle. En règle générale, pour les définitions, nous avons fait le choix de nous intéresser au *Dictionnaire universel* d'Antoine Furetière [113], excepté lorsqu'il nous semblait trop éloigné ou imprécis pour le mot de la pièce ; dans ce cas précis, la référence est indiquée après la définition.ACCABLER : v. act.Faire tomber une chose pesante sur une autre qui l'oblige à succomber sous un poids excessif.
     Il a été *accablé* sous la ruine de cette maison.Signifie aussi Périr de quelque façon que ce soit dans quelque renversement général de l'Etat.Se dit figurément en Morale des gens trop chargés d'affaires, de debtes, d'impôts, ou de malheurs.V. 198-207-442-776-781-939.
@@ -2914,10 +2914,10 @@ Dans notre pièce, ce terme est surtout utilisé pour désigner les noces en gé
     Je ne puis *souffrir* ce meschant Orateur.SUPPORTER : v. act.Soustenir, apporter un fardeau.Se dit figurément des choses morales, et signifie souffrir, endurerDonner appuy, secours, protection.V. 40-671.TIMIDITE/TIMIDE : susbt. fem./ adj.Faible, peureux, qui craint tout.Esprit timide : qui manque de hardiesse pour entreprendre quelque chose de grand, pénible, ou de difficile.V. 340-580-657-905-938-1205-1454.TRAITTABLE : adj. m. et f.Qui a l'esprit doux et facile, qui entend volontiers raison, qui se porte de l'accommodement.V. 137-571.TRAVERSER : v. act.Passer au milieu ou au-delà de quelque chose.Signifie aussi, Croiser, s'estendre en largeur sur une longueur.Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement.V. 145-1039.
 
 
-# Appendices
+# Appendices.
 
 
-## Liste des mariages des Danaïdes avec les Egyptiades
+## Liste des mariages des Danaïdes avec les Egyptiades.
 
 Filles d'Eléphantis & fils de sang royal
 
@@ -3038,15 +3038,15 @@ Celaeno & Hyperbius
 Hyperippe & Hippocorystes
 
 
-## *Héroïde* XV d'Ovide
+## *Héroïde* XV d'Ovide.
 
 Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrière qu'Ovide décrit longuement dans son *Epître héroïque XIV* [115], il reste intéressant de comparer avec ce texte pour bien saisir ce que notre dramaturge apporte au mythe, en consultant l'intégralité de cette *Héroïde* d'Ovide, disponible sur le site de la bibliothèque numérique de Gallica : http://gallica.bnf.fr/ark:/12148/bpt6k62469r.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ouvrages de référence sur le théâtre du XVII*e* siècle*A History of French dramatic literature in the Seventeenth Century*
+## Ouvrages de référence sur le théâtre du XVII*e* siècle.*A History of French dramatic literature in the Seventeenth Century*
 *Bibliothèque des théâtres, contenant le catalogue alphabétique des pièces... avec des anecdotes sur la plûpart des pièces contenuës dans ce recüeil, et sur la vie des auteurs, musiciens et acteurs*
 *Abrégé de l'histoire du théâtre françois, depuis son origine jusqu'au premier juin de l'année 1780 ; précédé du Dictionnaire de toutes les pièces de théâtre jouées & imprimées ; du Dictionnaire des auteurs dramatiques*
 *Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV : 1659-1715*
@@ -3057,14 +3057,14 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 
 
-## Ouvrages de poétique du XVII*e* siècle*La Poétique*
+## Ouvrages de poétique du XVII*e* siècle.*La Poétique*
 *La Pratique du théâtre*
 *Discours sur le Poème Dramatique**Œuvres complètes*
 *De tragoediae Constitutione. La Constitution de la tragédie, dite La Poétique d'Heinsius**re*
 
 
 
-## Pièces de théâtre du XVII*e* siècle*Les Danaïdes**Les Noces Sanglantes, Hypermnestre, du Baroque*
+## Pièces de théâtre du XVII*e* siècle.*Les Danaïdes**Les Noces Sanglantes, Hypermnestre, du Baroque*
 *Iphigénie**Oeuvres complètes**Iphigénie*
 *Phèdre**Oeuvres complètes*
 *Bérénice**Oeuvres complètes*
@@ -3072,7 +3072,7 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 
 
-## Ouvrages essentiels sur la tragédie du XVII*e* siècle*Morales du Grand Siècle*
+## Ouvrages essentiels sur la tragédie du XVII*e* siècle.*Morales du Grand Siècle*
 *Mythologie et mythe dans le théâtre français*
 *Passions tragiques et règles classiques. Essai sur la tragédie française*
 *Le Théâtre tragique**et al.*
@@ -3084,7 +3084,7 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 
 
-## Sources mythologiques*The Library*
+## Sources mythologiques.*The Library*
 *Les Suppliantes**Œuvres*
 *Histoire*
 *Fables*
@@ -3095,7 +3095,7 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 
 
-## Dictionnaires du XVII*e* siècle*Dictionnaire*
+## Dictionnaires du XVII*e* siècle.*Dictionnaire*
 *Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts*
 *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*
 *Le Grand Dictionnaire historique ou Le Curieux Mélange de l'histoire sacrée et profane*

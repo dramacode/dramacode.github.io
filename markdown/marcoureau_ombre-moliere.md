@@ -16,7 +16,7 @@ A PARIS, Chez CLAUDE BARBIN, sur le Second Perron de la S. Chapelle. M. DC. LXXI
 Édition critique établie par Marie-Astrid Lechat sous la direction de Georges Forestier (2006)
 
 
-# Introduction générale
+# Introduction générale.
 
 Après la mort de Molière en 1673 la comédie semblait être hantée par sa mémoire. Non seulement ses pièces continuèrent pour quelques années à constituer le principal élément dans le répertoire de ses compagnons, mais aussi on chercha à ramener ses personnages sur la scène comme le firent Brécourt (dans *L'Ombre de Moliere)*, Champmeslé (dans *Les Fragmens de Moliere)*, ou encore Thomas Corneille, à la demande d'Armande Béjart, veuve de Molière, il est vrai, avec la réécriture en vers du *Festin de Pierre*. Beaucoup d'autres auteurs imitèrent Molière et sa mémoire était si forte que Dufresny fit déclarer par un personnage de son *Négligent* en 1692 qu'il était difficile d'écrire une comédie car elle serait considérée soit comme une imitation médiocre de Molière soit comme une pièce qui, ne l'ayant pas imité, serait par conséquent sans valeur. Néanmoins, beaucoup s'y essayèrent et tentèrent d'associer à la fois imitation et innovation.
 
@@ -28,7 +28,7 @@ C'est ainsi qu'en mars 1674 Guillaume Marcoureau, sieur de Brécourt, produisit 
 ## Pourquoi rendre hommage à Molière ?
 
 
-### Les conditions et les enjeux historiques : la concurrence entre les troupes et la querelle causée par la mort de Molière
+### Les conditions et les enjeux historiques : la concurrence entre les troupes et la querelle causée par la mort de Molière.
 
 De fait, une telle entreprise de la part de comédiens de l'Hôtel de Bourgogne, la troupe rivale de celle de Molière, peut surprendre, car la concurrence entre les troupes était, au XVII*e* siècle, virulente et se trouva renforcée à la mort de Molière.
 
@@ -78,7 +78,7 @@ Et de fait, Champmeslé commença sa carrière d'auteur après son entrée à l'
 Cet exemple parmi d'autres prouve que Champmeslé connaissait bien les œuvres de Molière, qu'il les appréciait et qu'il ne pouvait s'empêcher de s'en inspirer pour la composition de ses propres comédies. On peut comprendre alors sa démarche, lorsqu'il composa, après la mort de Molière, *Les Fragmens* : il rendait hommage au grand dramaturge chez qui il avait abondamment puisé. Cependant, la démarche honorifique est quelque peu amoindrie par le fait qu'il profita de ce que *Le Festin de Pierre* n'avait pas été publié pour reproduire des fragments de la pièce interdite. Il offrit ainsi en exclusivité à l'Hôtel de Bourgogne des scènes reprises intégralement au *Festin de Pierre*, encadrées par des scènes de sa propre composition, sans que l'on puisse l'accuser de plagiat puisque son intention était honorable. Dans le jeu des rivalités et de la concurrence la Troupe royale y trouva un avantage non négligeable.
 
 
-# Introduction
+# Introduction.
 
 *L'Ombre de Moliere* de Guillaume Marcoureau, sieur de Brécourt, fut représentée pour la première et dernière fois à l'Hôtel de Bourgogne en mars 1674. Elle fut reprise ensuite au Théâtre Guénégaud, le 23 septembre 1682, par la Comédie-Française créée en 1680. Brécourt composa cette comédie en un acte et en prose juste après la mort de Molière, lui rendant ainsi hommage, et contribua à populariser l'idée d'un Molière défenseur de la morale des honnêtes gens et ennemi des outrances. Il dresse d'ailleurs en ce sens un portrait de celui-ci dans son prologue :
 
@@ -287,7 +287,7 @@ J'en suis persuadé. L'Opium, l'Emétique, et la Saignée, m'ont rendu témoigna
 Comme Molière, Brécourt accuse la médecine « d'imposture et de Charlatanerie », ce à quoi Pluton répond avec humour : « C'est donc quelqu'un qui la connoît » ! L'accusation étant grave, et le sujet si important, il est nécessaire pour Molière de justifier le bien fondé de sa satire. Néanmoins, Brécourt prend soin de préciser que Molière ne prétend pas « se déchaîner » contre le « grand art de la Medecine », car il en « adore l'étude », en « révère la judicieuse pratique », mais il « en abhorre et déteste le pernicieux et meschant usage qu'en font par leur négligeance des Fourbes ignorans, que la seule Robe fait appeller Medecins ; et ce n'est qu'à ceux qui abusent de ce nom » qu'il va répondre. Molière condamne donc ceux qui abusent de leur robe, les querelles des uns envers les autres à propos des diagnostics et des traitements, ce qui prouve bien leur ignorance, leurs remèdes et leurs drogues plus à même de faire mourir que de guérir, la légèreté avec laquelle ils jouent avec la vie de leur malade pour « hazarder effrontément toutes les épreuves que leur suggèrent leurs ambitieuses imaginations », et, enfin, il donne l'exemple concrêt d'un malade qu'un médecin a précipité dans la mort. Or, devant les arguments de celui-ci Pluton, qui défendait les médecins, ne peut que donner raison à Molière. Lui-même connaît les effets néfastes de leur médecine, mais s'en accomodait puisque cela servait ses intérêts. C'est ainsi qu'il fait pencher la balance du côté de Molière et, « pour faciliter l'affaire », il préfère « relâcher de ses intérests » et consentir que les médecins lui envoient « quelques millions de Morts moins qu'à leur ordinaire ». Les médecins refusant le verdict, Pluton souffle sur leurs ombres pour les faire disparaître et termine la scène en rendant hommage à Molière par un petit Poème.
 
 
-# L'intertextualité dans L'Ombre de Moliere
+# L'intertextualité dans L'Ombre de Moliere.
 
 Brécourt fait aussi référence, dans une moindre mesure, aux *Fâcheux* de Molière, à l'opéra de Quinault, ainsi qu'à sa tragédie en musique, *Alceste*. L'allusion aux *Fâcheux* est évidente à la scène VI lorsque Pluton parle du « plus fâcheux de tous nos Morts. Un chasseur ». Or, dans *Les Fâcheux*, Molière présente le personnage du chasseur « qui ne parle à tout le monde que de gaulis, de gigots, de pieds, de croupe, et d'encolure ».
 
@@ -305,10 +305,10 @@ Lancaster estime pour sa part que l'appréciation de la pièce et son succès so
 La pièce est mentionnée dans *Le Mercure Galant* d'octobre 1677 parmi plusieurs pièces récemment jouées à la cour. Sa première représentation à la Comédie Française est datée du 23 septembre 1682 et elle est reprise vingt fois entre 1682 et 1698.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Présentation du texte
+## Présentation du texte.
 
 Nous connaissons onze publications de *L'Ombre de Moliere* du vivant de l'auteur. La première est éditée chez Claude Barbin à Paris en 1674. La pièce a ensuite été imprimée chez divers imprimeurs suivant la première copie faite à Paris: chez D. Desclassan puis Henry Loyson à Paris en 1674, à Paris en 1681 et 1683 chez des imprimeurs inconnus [40], à Amsterdam chez H. Westein en 1692 et à Bruxelles chez G. de Backer en 1694. Ces six publications sont identiques et il n'y a pas de variante avec celle de 1674, mis à part le fait que l'Epître dédicatoire et le Privilège ne figurent pas, que la pagination n'est pas la même et que la graphie et l'orthographe sont parfois modifiées de façon ponctuelle [41]. Enfin, plusieurs publications ont été réalisées pour des ouvrages regroupant les *Œuvres posthumes de Monsieur de Molière*: à Paris chez D. Thierry en 1676; à Paris par D. Thierry, C. Barbin et P. Trabouillet en 1682; chez D. Thierry à nouveau en 1682 dans *Les Œuvres de Monsieur de Molière, revues, corrigées et augmentées par Ch. Varlet, Sieur de la Grange et Vinot, amis de Molière, avec L'Ombre de Molière (par Guillaume Marcoureau de Brécourt)*; et, enfin, à Amsterdam chez Jacques Lejeune en 1684. Il n'y a pas non plus de variante avec l'édition de 1674 car il s'agit de fac similé [42].
 
@@ -346,70 +346,70 @@ Cette comédie est entièrement en prose à l'exception de six vers, trois octos
 Nous avons remarqué une coquille dans la numérotation de la page 93 désignée comme la page 9.
 
 
-## Rectifications
+## Rectifications.
 
 Nous donnons ci-dessous la liste des erreurs et coquilles, ainsi que leurs corrections pour faciliter le repérage dans le texte, et qui ont été corrigées dans le texte que nous proposons :
 
 
-### Prologue
+### Prologue.
 
 Page 6 : represénteront en : représenteront.
 
 
-### Scène première
+### Scène première.
 
 Page 19 : ordure corrigé en : ordures / 20 : LeGénie en : Le Génie.
 
 
-### Scène II
+### Scène II.
 
 Page 23 : le corrigé en : de, de fort jolis Garçons en : de forts jolis Garçons.
 
 
-### Scène IV
+### Scène IV.
 
 Page 35 : Cà corrigé en : Çà.
 
 
-### Scène V
+### Scène V.
 
 Page 38 : ceChronologiste corrigé en : ce Chronologiste.
 
 
-### Scène VII
+### Scène VII.
 
 Page 47 : dequoy corrigé en : de quoy.
 
 
-### Scène IX
+### Scène IX.
 
 Page 55 : assises corrigé en : assise.
 
 
-### Scène XI
+### Scène XI.
 
 Page 67 : laissé corrigé en : laissée / 69 venez-vous en : venez vous / 70 Camon en : Ça non.
 
 
-### Scène XIII
+### Scène XIII.
 
 Page 77 : le Saignée corrigé en : la Saignée / Page 81 encorejusqu'à en : encore jusqu'à.
 
 
-## Rectifications dans la ponctuation
+## Rectifications dans la ponctuation.
 
 
-### Scène II
+### Scène II.
 
 Page 23 : Héros ; corrigé en Héros ?.
 
 
-### Scène IV
+### Scène IV.
 
 Page 34 : entrer ? corrigé en entrer..
 
 
-### Scène X
+### Scène X.
 
 Page 60 : Ombre leur Partie corrigé en Ombre, leur Partie. 
 
@@ -452,7 +452,7 @@ La Scène est dans les Champs Elysées.
  
 
 
-# PROLOGUE DE L'OMBRE DE MOLIERE
+# PROLOGUE DE L'OMBRE DE MOLIERE.
 ORONTE, CLEANTE.
 
 
@@ -495,7 +495,7 @@ Et les Comédiens qui la représenteront, sont cachez là-haut dans vostre Chamb
     ORONTE.
 Comment avez-vous sçeu cela ?
 
-    *Cleante*. 
+    *Cleante*.
 Ah ! comment je l'ay sçeu ? Que me donnerez-vous, et je vous le diray ?
 
     ORONTE.
@@ -608,7 +608,7 @@ Quoy ! tu ne me laisseras pas en repos ? Veux-tu te retirer ?
     LE POETE.
 Helas, Caron ! helas ! 
 
-    CARON *le raillant sur le mesme ton.*
+    CARON *le raillant sur le mesme ton.*.
 Helas, Caron ! helas ! A qui diable en as-tu avec tes piteux helas ?
 
     LE POETE.
@@ -660,7 +660,7 @@ Les Ombres chassent le Poëte avec le manche de leurs Balays.
 PLUTON, RADAMANTE, MINOS, L'ENVIE, CARON.
 
 
-    PLUTON *assis dans son Tribunal.*
+    PLUTON *assis dans son Tribunal.*.
 Ça, il est donc question de rendre justice aujourd'huy. Fay venir l'Accusé, Caron ; et que l'Envie ameine les Complaignans. Nous avons donc bien des affaires, Messieurs ?
 
     RADAMANTE.
@@ -713,19 +713,19 @@ MOLIERE, CARON, PLUTON, RADAM, Minos.
     CARON.
 Je n'y puis plus tenir ; Jamais il ne s'est veu tant d'Ombres en un jour ; et la Porte va rompre si vous n'y donnez ordre.
 
-    TOUTES LES AMES
+    TOUTES LES AMES.
 Caron…
 
     CARON.
 Entendez-vous comme on m'appelle ? Dés qu'ils ont veu que je faisois entrer cette Ombre, ils ont pensé me dévorer.
 
-    TOUTES LES AMES
+    TOUTES LES AMES.
 Caron…
 
     CARON.
 On y va. Ordonnez donc ce que vous voulez que je laisse entrer.
 
-    TOUTES LES AMES
+    TOUTES LES AMES.
 Caron…
 
     PLUTON.
@@ -810,7 +810,7 @@ LE MARQUIS, CARON, PLUTON, MINOS, RADAMANTE, MOLIERE.
     PLUTON.
 Ça, qui est celuy-cy ?
 
-    LE MARQUIS *à Moliere sur un ton de faucet.*
+    LE MARQUIS *à Moliere sur un ton de faucet.*.
 Ah parbleu ! mon petit Monsieur, je suis bien-aise de vous trouver icy.
 
     MOLIERE.
@@ -834,13 +834,13 @@ Je demande justice pour mes Rubans, mes Plumes, ma Perruque, ma Caleche, et mon 
     PLUTON.
 Que répons-tu ?
 
-    MOLIERE *chagrin.*
+    MOLIERE *chagrin.*.
 Rien.
 
     PLUTON.
 Aux autres ; passez, on vous jugera à loisir.
 
-    CARON *à l'entrée de la Porte.*
+    CARON *à l'entrée de la Porte.*.
 Arrestez donc, vous n'entrerez pas.
 
     PLUTON.
@@ -872,7 +872,7 @@ LE COCU IMAGINAIRE, MOLIERE, PLUTON, CARON, MINOS, RADAMANTE.
     LE COCU.
 Vous voyez en ma seule Ombre tout le Corps des Cocus ; Vous les voyez icy en moy, dis-je, affligez, outragez, et tout contrits des affronts publics que ce grand Corps a reçeus depuis que malicieusement cet Ennemy juré de nostre repos nous a rendus le joüet de tout le monde. Il n'est presque aucun Mary qui n'ait senty les traits piquans de sa Satyre ; et depuis qu'il s'est meslé d'annéxer le Cocuage à de certains Maris, il se voit peu de Familles où l'on ne soit persuadé de trouver des Cocus de Pere en Fils. Ce soupçon outrageant est devenu par son moyen comme un Titre de Maison ; et il en a excepté si peu de Gens, que si je ne parle pour tout le monde, il ne s'en faut guére du moins. Voila de quoy se plaint nostre Illustre Corps, qui avant sa scandaleuse médisance vivoit dans l'état de la premiere innocence. Chacun vivoit content de sa petite réputation ; Le scandale ne regnoit point publiquement comme il fait ; et si l'on avoit le malheur d'estre Cocu, on avoit du moins la douceur de l'estre en son petit particulier. Mais depuis qu'il a dévoilé les mysteres secrets, ce n'est plus partout qu'une gorge chaude des pauvres Maris. On en va à la moûtarde [60], et plusieurs honnestes Gens mesme ont pris en dot le Titre de Cocus en signant leur Contrat de Ma- riage. Si la discretion des Notaires n'estoit grande, quelqu'un de ces Messieurs en pourroit parler avec beaucoup de seûreté. Voila le desordre et le déreglement qu'il a mis en l'autre Monde, dont nous demandons en celuy-cy justice, vengeance, et reparation.
 
-    PLUTON *à Moliere.*
+    PLUTON *à Moliere.*.
 Qu'avez-vous à dire là-dessus ?
 
     MOLIERE.
@@ -915,7 +915,7 @@ NICOLE, PLUTON, MOLIERE, MINOS, RADAM. CARON.
     MOLIERE.
 Ah ! c'est Nicole.
 
-    NICOLE *riant à gorge déployée.*
+    NICOLE *riant à gorge déployée.*.
 Hé, oüy, c'est moy. Quand j'ay appris que vous estiez icy, par ma figue, ay-je dit en moy-mesme, il faut que j'aille voir ce pauvre Homme qui m'a tant fait rire en l'autre Monde.
 
     MOLIERE.
@@ -945,25 +945,25 @@ Moy ? Par ma figue, je n'ay rien à dire contre luy, c'est une bonne Ombre ; e
     PLUTON.
 Que voulez-vous donc ?
 
-    NICOLE *riant.*
+    NICOLE *riant.*.
 Monsieur, je vien vous prier…
 
     PLUTON.
 Hé ?
 
-    NICOLE *riant.*
+    NICOLE *riant.*.
 Je viens vous prier, Monsieur…
 
     PLUTON.
 Et là, dites donc ?
 
-    NICOLE *riant toûjours.*
+    NICOLE *riant toûjours.*.
 Je viens vous prier, Mon- sieur… de me… laisser… de me laisser… de me laisser…
 
-    PLUTON *la contrefaisant.*
+    PLUTON *la contrefaisant.*.
 Et moy, ma Mie, je vous prie de nous laisser… de nous laisser… de nous laisser… de nous laisser en repos, s'il vous plaist.
 
-    NICOLE *éclatant de rire.*
+    NICOLE *éclatant de rire.*.
 Monsieur, je vous prie… s'il vous plaist… de m'accorder le plaisir… le plaisir de rire tout mon sou, de vous, et de vostre Royaume.
 
     PLUTON.
@@ -983,7 +983,7 @@ POURCEAUGNAC, PLUTON, MOLIERE, MINOS, RADAM. CARON.
     POURCEAUGNAC.
 Grand Roy des Morts, vous me voyez icy, Député de la part de tous les Limousins trépassez, qui vous demandent qu'il leur soit permis ajourner cette Ombre, leur Partie, par-devant Vous, à trois jours, pour se voir condamner à reparation d'hon- neur envers les Pourceaugnacs passez, presens, et futurs, tant des affronts reçeus, que de ceux qu'ils recevront. A quoy je conclus.
 
-    PLUTON *à Moliere.*
+    PLUTON *à Moliere.*.
 Repondez.
 
     MOLIERE.
@@ -1031,15 +1031,15 @@ Ma foy, apres tout, je pense en effet que j'ay tort de m'estre fâché contre lu
     MOLIERE.
 Adieu, Monsieur de Pourceaugnac.
 
-    PLUTON
+    PLUTON.
 Messieurs, il est tard, et je vay lever le Siege.
 
 
-## SCENE XI.67
+## SCENE XI.67.
 MADAME JOURDAIN, PLUTON, MOLIERE, CARON, RADAM. MINOS.
 
 
-    M*e* JOURDAIN *tout ésouflée.*
+    M*e* JOURDAIN *tout ésouflée.*.
 Justice, justice, justice, justice, justice.
 
     PLUTON.
@@ -1051,7 +1051,7 @@ Elle a forcé la Porte.
     PLUTON.
 Pren donc bien garde aux autres, et qu'il n'en entre plus. Je n'ay jamais veu tant de Canailles en un jour. Çà, que demandez-vous ?
 
-    M*e* JOURDAIN *d'un air chagrin et brusque.*
+    M*e* JOURDAIN *d'un air chagrin et brusque.*.
 Ce que je n'auray pas.
 
     PLUTON.
@@ -1109,37 +1109,37 @@ CARON, PLUTON, MINOS, RADAM.
     CARON.
 Grand Roy…
 
-    PLUTON *marchant en colere.*
+    PLUTON *marchant en colere.*.
 Non, je croy que tout cet embarras me fera renoncer à mon Empire.
 
     CARON.
 Ce sont…
 
-    PLUTON
+    PLUTON.
 Quoy, sans repos !
 
     CARON.
 Il y a… 
 
-    PLUTON
+    PLUTON.
 Sans plaisir !
 
     CARON.
 Ce sont…
 
-    PLUTON
+    PLUTON.
 Sans relâche ! Non, je ne veux plus rien entendre. Que tout soit renversé, bouleversé, sans-dessus-dessous, je n'ecoute personne ; Qu'on ne m'en parle plus.
 
     CARON.
 Ce sont des Medecins qui viennent d'arriver, et qui voudroient vous demander un moment d'audiance.
 
-    PLUTON
+    PLUTON.
 Des ? 
 
     CARON.
 Des Medecins.
 
-    PLUTON *courant se remettre sur son Tribunal.*
+    PLUTON *courant se remettre sur son Tribunal.*.
 Des Medecins ! Ho ! qu'on les fasse entrer : Ce sont nos meilleurs Amis ; Qu'ils viennent, qu'ils viennent. D'honnestes Gens, à qui je doy trop pour leur rien refuser. Ils ont augmenté le nombre de mes Sujets, et je leur en dois sans doute une ample reconnoissance. Mais les voicy. 
 
 
@@ -1150,102 +1150,102 @@ QUATRE MEDECINS, PLUTON, RADAM. MINOS, MOLIERE, CARON.
     MOLIERE.
 Ha, voicy de mes Gens. Ecoutons-les parler, et puis nous répondrons.
 
-    PLUTON
+    PLUTON.
 Messieurs, soyez les bien venus. Vous visitez un Prince qui vous honore fort ; je sçay toutes les obligations que je vous ay, et que dans ce vaste Empire des Morts vous pou- vez vous vanter avec raison d'y avoir aussy bonne part que moy : Aussy en revanche [71] de tout vos bons et fidelles services, je ne pretens pas vous rien refuser. Demandez seulement.
 
     1*e* MEDECIN.
 Grand Monarque des Morts, vous voyez icy la fleur de vos plus fidelles Pensionnaires.
 
-    2*e* MEDECIN *bredoüillant.*
+    2*e* MEDECIN *bredoüillant.*.
 Jamais nous n'avons laissé échaper la moindre occasion de vous donner des marques de nostre obeïssance et fidelité.
 
-    PLUTON
+    PLUTON.
 J'en suis persuadé. L'O- pium, l'Emétique [72], et la Saignée, m'ont rendu témoignage que vous m'avez fidellement servy.
 
     3*e* MEDECIN.
 Nous avons fait nostre devoir.
 
-    PLUTON
+    PLUTON.
 Beaucoup de Gens sont venus icy de vostre part, qui m'en ont assuré.
 
     4*e* MEDECIN.
 C'est avec plaisir que l'on sert un si grand Monarque.
 
-    PLUTON
+    PLUTON.
 Je vous suis obligé, et j'ay bien de la joye de vous voir. Ce n'est pas que vous ne m'eussiez esté encore un peu necessaires là-haut, et j'ay eu quelque chagrin quand les Parques m'ont dit que vous veniez icy : Mais je m'en suis neantmoins consolé lors que j'ay appris que vous aviez laissé de grands Enfants qui sçavoient assez bien leur mestier, et que mesme il estoit déjà venu icy quelques Morts de leurs Amis, qui en avoient fait une experience fort raisonnable. Mais que souhaitez-vous de moy ?
 
     3*e* MEDECIN.
 Nous venons vous demander justice d'un Téméraire qui prétend traitter la Medecine d'imposture, et de Charlatanerie. 
 
-    PLUTON
+    PLUTON.
 C'est donc quelqu'un qui la connoît ?
 
     4*e* MEDECIN.
 C'est une rage sans fondement, une simple avidité de tout satyrizer, et une animosité envenimée par la seule envie d'écrire, et de former des Cabales contre nous.
 
-    MOLIERE *à part.*
+    MOLIERE *à part.*.
 Je vous confondray dans peu, superbes Imposteurs.
 
     3*e* MEDECIN.
 Il s'est mesme déjà glissé jusques dans ces Lieux une médisance secrette qui nous regarde. Tous les Morts semblent se liguer contre nous ; Il leur échape des Satyres piquantes, et des injures calomnieuses contre les Medecins ; et nous venons icy, Grand Monarque, vous remontrer humblement, de la part de nostre Illustre Corps, de quelle importance il est, pour l'accroissement de vostre Empire, que vous reprimiez l'audace et l'insolence de tous ces Morts.
 
-    PLUTON
+    PLUTON.
 On apprendra à vivre à ces Morts-là. J'entens et je pretens qu'on vous regarde comme les plus fermes appuis de mon Estat. Mais qui sont ces Morts-là qui ont l'impudence d'aller gaster vostre Mestier ? Nommez, nommez-les moy ; J'en veux faire un bon exemple.
 
     4*e* MEDECIN.
 C'est un nombre infiny de petits Esprits qui se sont laissez emporter au torrent, et qui n'ont poussé leur Plainte que comme les Echos qui répetent les peines des autres sans les avoir senties. Mais c'est à l'Autheur de nos maux que nous en voulons ; c'est à celuy qui comme un nouveau Caton, s'est venu déchaîner contre nous et qui, apres le mépris évident qu'il a fait de nostre Illustre Corps, a poussé son audace encore jusqu'à nous tourner en Ridicules ; en nous rendant la fable et la risée du Public. C'est cette Ombre, en un mot, cet insolent Fleau de nostre Faculté, dont nous vous demandons une vengeance authentique.
 
-    PLUTON
+    PLUTON.
 Répondez.
 
     MOLIERE.
 C'est donc à moy à qui vous en voulez, Messieurs ? Vous demandez vengeance du mépris que j'ay fait de vostre Illustre Corps : Je vous ay tourné en Ridicules, je vous ay rendus la fable et la risée du Public ? Hé bien, il faut vous répondre, et tracer plus naturellement vos traits, afin de vous bien faire connoistre. Pluton, je jure icy par le respect que je te dois, que ce n'est point contre ce grand Art de la Médecine que je prétens me déchaîner. J'en adore l'étude, j'en révere la judicieuse pratique, mais j'en abhorre et déteste le pernicieux et meschant usage qu'en font par leur négligence des Fourbes ignorans, que la seule Robe fait appeller Medecins ; et ce n'est qu'à ceux qui abusent de ce nom que je vay répondre.
 
-    PLUTON
+    PLUTON.
 Ah ! voicy une Conversa- tion raisonnable celle-cy.
 
     MOLIERE.
 Imposteurs ! Qui peut mieux prouver vostre ignorance, et l'incertitude de vos projets, que vos contrarietez perpétuelles ? Vous trouvez-vous jamais d'accord ensemble ? Et jusqu'à vos moindres Ordonnances, a-t-on jamais veu un Medecin suivre celle de l'autre, sans y ajoûter ou diminuer quelque chose ? Quant à leurs opinions, elles sont encore plus diférentes que leurs pratiques. Les uns disent que la Cause des maux est dans les humeurs [73] ; Les autres dans le sang. Quelques-uns, par un pompeux galimathias, l'imputent aux atomes invisibles, qui entrent dans les pores. Celuy-cy soûtient, que les maladies viennent du defaut des forces corporelles : Celuy-là, qu'elles procedent de l'inégalité des élémens du Corps, et de la qualité de l'air que nous respirons, ou de l'abondance, crudité, et corruption de nos alimens. Ah que cette diversité d'opinions marque bien l'ignorance des Medecins ; mais encore plus la foiblesse ou la temérité des Malades qui s'abandonnent aux agitations de tant de vents contraires ! 
 
-    PLUTON *aux Medecins.*
+    PLUTON *aux Medecins.*.
 Messieurs, hé ?
 
     MOLIERE.
 Ce qu'ils ont de plus unanime dans leur Ecole, et où ils s'entendent le mieux, c'est que tous tant qu'ils sont vous assurent que dans la composition d'une Medecine, une chose purge le cerceau, celle-cy échauffe l'estomac, celle-là rafraîchit le foye, et font partir un Breuvage à bride abbatuë, comme si dans ce mélange chaque Remede portoit son Etiquette, et que tous n'allassent pas ensemble sejourner au mesme lieu. Il faut que ces Messieurs soient bien assurez de l'obeïssance et de la sagesse de leurs Drogues : Car enfin, si par mégarde l'une alloit prendre le chemin de l'autre, et que la partie qui doit estre échauffée vint par méprise à estre refroidie, voyez un peu où le pauvre Malade en seroit !
 
-    PLUTON
+    PLUTON.
 Messieurs, hé ?
 
     MOLIERE.
 Mais quoy, les Imposteurs abusant de l'occasion, usurpent effrontément une authorité tyrannique sur de pauvres Ames affoiblies et abbatuës par le mal, et par la crainte de la mort. Il pren- nent si bien leur avantage de nos foiblesses, que de nostre aveu mesme, dans ce dangereux moment, ils hazardent effrontément aux dépens de nos vies toutes les épreuves que leur suggerent leurs ambitieuses imaginations. Les Scelérats osent tout tenter, sur cette confiance que le Soleil éclairera leurs succés et que la Terre couvrira leurs fautes.
 
-    PLUTON
+    PLUTON.
 Messieurs, hé ?
 
     MOLIERE.
 Il me souvient icy, avec quelque douleur, de la foiblesse d'un de mes Amis qui s'estoit sottement confié par leurs noires séductions à l'expérience d'un Remede. Deux heures apres l'avoir pris, le Medecin qui l'avoit ordonné, luy en vint demander l'effet, et comment il s'en estoit trouvé. J'ay fort sué, luy répondit le Malade. Cela est bon, dit le Medecin. Trois heures en suite, il luy vint demander comment il s'estoit porté depuis. J'ay senti, dit le Patient, un froid extréme, et j'ay fort tremblé. Cela est bon, suivit le Charlatan. Et sur le soir, pour la troisiéme fois, il revint s'informer encore de l'état où il se trouvoit. Je me sens, dit le Malade, enfler par tout, comme d'hydropisie [74]. Tout cela est bien, répondit le Bourreau. Le lendemain j'allay voir ce pauvre Malade ; et luy ayant demandé en quel état il estoit : Helas ! mon cher Amy, dit-il, en rendant le dernier soûpir, à force d'estre bien, je sens que je me meurs. Ah ! m'écriay-je alors tout percé de douleur, qu'heureux sont les animaux que la simple Nature sçait guérir sans le secours de leur Consultations ! Que l'Estre brutal [75] seroit à souhaiter, quand on devient malade ! Mais aussy qu'il se- roit à craindre, s'il se trouvoit autant de Medecins parmy les Bestes, que de Bestes parmy les Medecins !
 
-    PLUTON
+    PLUTON.
 Messieurs ?
 
     MOLIERE.
 Qu'ils se plaignent maintenant de moy, et que ton équité, Grand Monarque, paroisse dans tes Jugemens.
 
 
-## SCENE DERNIERE. 92
+## SCENE DERNIERE. 92.
 CARON, LES OMBRES, PLUTON, RADAM. MINOS, MOLIERE.
 
 
     CARON.
 Oh ! je n'y puis plus tenir. Depuis que je conduits la Barque, je n'ay jamais tant veu de Morts pour un jour ; et si vous n'y venez donner ordre, je ne sçay pas ce que nous en ferons.
 
-    PLUTON
+    PLUTON.
 Comment ? Nous avons donc bien des Gens ? 
 
     CARON.
 Tout créve à la Porte.
 
-    PLUTON
+    PLUTON.
 Puis que nous avons tant de Morts icy-bas, il faut qu'il y ait encore bien des Medecins là- haut. Mais qu'ils attendent à un autre jour, je ne juge d'aujourd'huy, et voicy ma derniere Sentance. Retirez-vous un peu, que je prenne les opinions. Minos, qu'en dis-tu ?
 
     MINOS.
@@ -1254,7 +1254,7 @@ Moy ? Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement
     RADAMANTE.
 Il n'y a qu'honneur à juger en sa faveur.
 
-    PLUTON
+    PLUTON.
 J'en demeure d'accord ; mais aussi les obligations que nous avons à ces Messieurs m'embarrassent ; et je croy qu'un Arbitrage conviendroit mieux à cette affaire qu'un Jugement dans les formes. Ne trouvez-vous point à propos de leur proposer un accommodement ?
 
     MINOS.
@@ -1263,25 +1263,25 @@ Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la F
     RADAMANTE.
 Je suis de cet avis.
 
-    PLUTON
+    PLUTON.
 Je m'en vay leur parler. Ça, Messieurs ; Qu'est-ce ? N'y a-t-il pas moyen de vous rapatrier [76] ? Je voy de part et d'autre que les raisons peuvent subsister ; D'accord ; mais à les bien peser, entre nous, la Balance panchera de son costé ; et sans l'alliance jurée entre nous, franchement, Messieurs, vous seriez tondus. C'est pourquoy si vous m'en croyez, tâchez de vous accommoder ensemble ; et pour faciliter l'affaire, j'aime mieux relâcher de mes in- térests, et consentir que vous m'en envoyiez quelques millions de Morts moins qu'à vostre ordinaire.
 
     LES MEDECINS.
 Quoy ! nostre Ennemy juré ? Non, non…
 
-    PLUTON
+    PLUTON.
 Ho, ho, Messieurs, si vous n'êtes contens, prenez des Cartes. J'y pers plus que vous, et si [77] je ne me plains pas.
 
     LES MEDECINS.
 Quoy, Pluton…
 
-    PLUTON
+    PLUTON.
 Quoy ! vos Ombres teméraires m'osent repliquer, moy, qui puis vous faire évanoüir d'un souffle seulement ? 
 
     LES MEDECINS.
 Nous demandons justice, justice.
 
-    PLUTON
+    PLUTON.
 Encore ? Ah je m'en vay souffler. Fu, fu.  
 Mais il est temps de prononcer  
 En quel endroit je doy placer  
@@ -1296,7 +1296,7 @@ Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oüy
 FIN. 
 
 
-# EXTRAIT DU PRIVILÈGE DU ROY
+# EXTRAIT DU PRIVILÈGE DU ROY.
 
 Par Grace et Privilege du Roy, donné à Versailles le douziéme Avril 1674. Signé, Par le Roy en son Conseil, *le normant* : Et scellé du grand Sceau de cire jaune. Il est permis à *Claude Barbin*, Marchand Libraire à Paris, d'imprimer, faire imprimer, vendre et débiter une Pièce de Theatre, intitulée *l'ombre de molière*, Comédie en Prose : Et défenses sont faites à toutes Personnes, de quelque qualité et condition qu'elles soient, d'imprimer ou faire imprimer, vendre ny debiter ladite Pièce de Theatre, sans le consentement de l'Exposant, ou de ceux qui auront droict de luy, pendant le temps et espace de cinq années, entieres et accomplies, à compter du jour que ladite Piece sera achevée d'imprimer pour la première fois, à peine contre chacun des contrevenans, de trois mil livres d'amende, confiscation des Exemplaires contrefaits, et VII de tous despens, dommages et interests, ainsi que plus au long il est porté esdites Lettres de Privilège.
 
@@ -1309,61 +1309,61 @@ Achevé d'imprimé pour la premiere fois
 le 2 May 1674.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sur la comédie en France au XVII*e* siècleLa Comédie de l'âge classique. 1630-1715
+## Sur la comédie en France au XVII*e* siècle.La Comédie de l'âge classique. 1630-1715
 Lire la comédie
 A History of French Dramatic Literature in the Seventeenth Century
 La Dramaturgie classique en France
 
 
 
-## Sur l'histoire matérielle des théâtresLe Théâtre professionnel à Paris. 1600-1649
+## Sur l'histoire matérielle des théâtres.Le Théâtre professionnel à Paris. 1600-1649
 Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 Le Théâtre et le public à Paris sous Louis XIV : 1659-1715
 
 
 
-## Ouvrages généraux sur la périodeHistoire de la littérature française du XVII*e* siècle
+## Ouvrages généraux sur la période.Histoire de la littérature française du XVII*e* siècle
 Morales du Grand Siècle
 Œuvres complètes
 L'Intérieur et l'Extérieur. Essais sur la poésie et le théâtre au XVII*e* siècle
 
 
 
-## Sur la vie de Brécourt et Champmeslé, comédiens et auteurs de théâtre du XVII*e* siècleDictionnaire du Grand Siècle
+## Sur la vie de Brécourt et Champmeslé, comédiens et auteurs de théâtre du XVII*e* siècle.Dictionnaire du Grand Siècle
 Ecrivains de théâtre. 1600-1649
 Cent ans de recherche sur la vie de Molière, sur sa famille et sur les comédiens de sa troupe
 Les Comédiens français du XVII*e* siècle. Dictionnaire biographique, suivi d'un inventaire des troupes, 1590-1710
 
 
 
-## Sur les représentations et les publications des œuvres relatives à MolièreRecueil des textes et des documents du XVII*e* siècle relatifs à Molière
+## Sur les représentations et les publications des œuvres relatives à Molière.Recueil des textes et des documents du XVII*e* siècle relatifs à Molière
 
 
 
-## Sur Brécourt et Champmeslé et la réception de leur pièceGalerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos jours…
+## Sur Brécourt et Champmeslé et la réception de leur pièce.Galerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos jours…
 Bibliothèque des théâtres
 Histoire du théâtre depuis son origine jusqu'à présent…
 
 
 
-## Édition des Œuvres de MolièreLes Œuvres de Monsieur de Molière. Revues, corrigées et augmentées (1682)
+## Édition des Œuvres de Molière.Les Œuvres de Monsieur de Molière. Revues, corrigées et augmentées (1682)
 Œuvres complètes
 
 
 
-## Sur la langue
+## Sur la langue.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et ls arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise…avec les termes les plus connus des arts et des sciences
 
 
 
-### GrammairesSyntaxe française du XVII*e* siècle
+### Grammaires.Syntaxe française du XVII*e* siècle
 Introduction à la langue française du XVII*e* siècle
 
 

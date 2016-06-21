@@ -16,7 +16,7 @@ A PARIS, Chez AUGUSTIN COURBE, Imprimeur et Libraire de Monsieur frere du Roy, d
 Édition critique établie dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2007).
 
 
-# Introduction
+# Introduction.
 
 Scudéry fut un grand créateur de tragi-comédies [1]. Né en 1601, il a vingt huit ans quand il quitte l'armée pour se consacrer à une activité littéraire, certainement en 1629, et déjà trente ans quand il écrit *Le Vassal généreux* qui est pourtant une pièce de première « jeunesse ».
 
@@ -35,7 +35,7 @@ Les jugements concernant *Le Vassal généreux* ont été très sévères. C'est
 Eveline Dutertre nous dit que c'est « une mauvaise pièce parce qu'elle est sans intérêt dramatique » et qu'elle « manque de vérité humaine ». Il apparaît donc difficile de la défendre. Néanmoins cette pièce, même si elle n'est pas la meilleure parmi celles que Scudéry ait écrites, si elle n'a pas la poésie discrète et « juvénile [5] » du *Prince déguisé*, n'en reste pas moins intéressante, parce que l'auteur y fait des innovations qui deviendront par la suite des constantes de son écriture. Mais aussi parce qu'elle est composée en 1632, à l'heure de gloire qu'a connu le genre et à la lisière entre le tout irrégulier et la volonté d'unifier, sinon la pièce tout du moins l'action comme l'écrit Roger Guichemerre [6]. Enfin, *Le Vassal généreux* est surtout une pièce que l'auteur a voulue pleine de charme et de galanterie, et c'est finalement cet univers charmant et délicat des amours des amants qui touche aujourd'hui le lecteur. Mais au-delà du texte lui-même, l'attrait de cette tragi-comédie réside dans tout ce qui l'environne. Il y a bien sûr l'intertexte qui nous conduit à *L'Astrée* et aux *Amours tragiques de Pyrame et Thisbé*, mais aussi l'entourage de l'écrivain où l'on sent déjà l'influence du Cardinal de Richelieu dans le versant politique de la pièce ou encore le rayonnement du salon de Rambouillet dans l'aspect galant de sa poésie. Pour toutes ces raisons, *Le Vassal généreux* est un extraordinaire témoignage des bouleversements qui ont agité le *Grand Siècle*, bouleversements littéraires bien sûr, mais aussi culturels et politiques.
 
 
-# L'œuvre et la source : L'Astrée
+# L'œuvre et la source : L'Astrée.
 
 Comme il l'avait fait pour ses deux premières pièces, *Ligdamon et Lidias* et *Le Trompeur puni*, Scudéry s'est inspiré de *L'Astrée* pour écrire son *Vassal généreux*. Il s'est attaché à l'*Histoire de Childéric, de Silviane et d'Andrimarte* [7] et à la *Suite de l'histoire de Childéric, de Silviane et d'Andrimarte* [8] qui se trouvent respectivement au Livre XII de la troisième partie et au Livre III de la cinquième partie de *L'Astrée*. Il s'agit donc d'une source romanesque, conformément à la plus grande partie des tragi-comédies, comme il est suggéré à travers les paroles d'Artésie :
 
@@ -53,7 +53,7 @@ Scudéry ne s'est intéressé qu'à l'histoire de Childéric qui lui offrait une
 Les emprunts à la source ont été très nombreux, et Scudéry est resté fidèle à *L'Astrée* jusque dans les moindres détails. Mais pour satisfaire aux exigences de la concentration dramatique, il a dû modifier et supprimer de nombreux événements. Enfin, ce sont bien ses originalités qui sont les plus frappantes parce qu'elles représentent de réelles innovations dans son écriture et qu'il y recourra sans cesse par la suite. Les rapports de l'œuvre à la source sont donc ambigus et oscillent constamment entre parfaite fidélité et transformation. Ces deux lignes de conduite dans l'adaptation du passage de *L'Astrée* sont souvent inextricables et ne peuvent s'étudier que conjointement.
 
 
-## L'importance considérable des emprunts à la source
+## L'importance considérable des emprunts à la source.
 
 Il convient toutefois de s'attarder sur la nature et la quantité des emprunts que Scudéry a faits à sa source dans la mesure où ils constituent une véritable ligne directrice dans l'adaptation de *L'Astrée*. Scudéry trouvait en effet dans ce passage tous les éléments nécessaires à l'écriture de sa pièce. Il est donc resté fidèle à la ligne générale de l'*Histoire de Childéric, de Silviane et d'Andrimarte* et à la *Suite de l'histoire*. La fidélité de l'auteur dans l'adaptation est ici étonnante. On la retrouve tant au niveau de la trame principale, des personnages et des lieux, qu'au niveau des scènes jusque dans leurs moindres détails, et, chose plus frappante encore, au niveau du texte lui-même auquel Scudéry a emprunté de nombreuses expressions.
 
@@ -94,7 +94,7 @@ Les emprunts textuels restituent donc le texte de *L'Astrée* et montrent une fo
 La fidélité du dramaturge à l'*Histoire* constitue donc bien une ligne directrice dans l'adaptation de ce passage de *L'Astrée*. Elle a été rendue possible parce que Scudéry avait pour dessein d'écrire une tragi-comédie qui seule était apte à admettre les débordements de la narration et les irrégularités qui en découlent. Mais l'adaptation au théâtre a néanmoins amené l'auteur a procéder à des transformations qui l'ont parfois poussé à s'écarter de son modèle. Toutefois et malgré ces modifications, dont certaines sont d'une importance capitale, l'on peut dire que l'adaptation du passage de *L'Astrée* se règle avant tout sur une étonnante fidélité de l'auteur, comme le souligne Eveline Dutertre qui écrit que « rarement Scudéry a fait autant d'emprunts à ses sources que lorsqu'il écrit *Le Vassal généreux* ».
 
 
-## La contrainte de la concentration dramatique
+## La contrainte de la concentration dramatique.
 
 C'est certainement celle-ci qui a guidé le plus grand nombre des transformations. Car si le genre de la tragi-comédie permettait à l'auteur de reprendre le schéma général du passage, et avec lui toutes les irrégularités que comprend une œuvre romanesque pour une adaptation au théâtre, néanmoins l'unité certaine de l'action était incontournable. Il s'agissait pour Scudéry de centrer les événements autour de l'action principale qui est l'amour des amants et des deux fils secondaires que sont la fidélité du héros pour son roi et l'amour du roi pour l'héroïne déjà fiancée à son vassal.
 
@@ -117,7 +117,7 @@ Les réductions de ces passages ont donc permis à l'auteur d'accélérer le ryt
 La concentration dramatique était donc une contrainte qui devait servir l'unité de l'action et accélérer le rythme de son déroulement. Scudéry a éliminé tous les événements éloignés ou qui auraient compliqué et encombré l'action. De même, la réduction d'événements présents dans *L'Astrée* a permis à l'auteur de donner beaucoup plus de rapidité à sa pièce, autre contrainte théâtrale nécessaire puisque la représentation doit constamment tenir l'attention du spectateur en attente d'une nouvelle péripétie.
 
 
-## La caractérisation des personnages
+## La caractérisation des personnages.
 
 Toutes les transformations qui concernent les personnages sont directement liées d'une part, à la contrainte de la concentration dramatique, et d'autre part, à la thématique de la générosité qui couvre tout *Le Vassal généreux*. Scudéry a dû caractériser ses personnages différemment du modèle que lui proposait *L'Astrée* afin de servir l'action propre de sa pièce, tout en se montrant toujours aussi soucieux de suivre sa source.
 
@@ -193,7 +193,7 @@ Scudéry attribue donc un rôle beaucoup plus important à Périntor et en fait 
 La caractérisation des personnages, au regard des modifications et des innovations apportées, a permis à l'auteur de dégager des grands types théâtraux. C'est ainsi que l'on retrouve le couple des amants parfaits, le rival asservi à sa passion coupable, le couple royal protecteur des héros, intervenant dans la passion de leur fils, les confidents opposés dont le traître, le couple des personnages secondaires dont le valet hardi, et enfin les nombreux personnages secondaires dont les princes gaulois. L'auteur a donc parfaitement respecté la hiérarchie des acteurs telle qu'elle était en pratique au XVII*e* siècle.
 
 
-## Thématique et représentation
+## Thématique et représentation.
 
 Thématique et représentation sont étroitement liées. L'action du *Vassal généreux* est beaucoup plus centrée sur le politique que ne l'étaient l'*Histoire de Childéric, de Silviane et d'Andrimarte* et la *Suite de l'histoire*. En outre l'adaptation au genre de la tragi-comédie, ainsi que les aspirations baroques du début de la carrière de l'auteur, commandaient un foisonnement de la représentation. On assiste, en effet, dans la pièce à un déploiement de la pompe et du faste. Les modifications que Scudéry a encore apportées à sa pièce, par rapport à la source, ont toutes été guidées par un souci conjoint d'insister sur la thématique de la générosité et de donner à la représentation une luxuriance suffisamment importante pour satisfaire aux goûts de l'époque.
 
@@ -209,12 +209,12 @@ L'étude de la genèse de l'œuvre nous enseigne donc à quel point l'auteur ét
 plus les emprunts sont importants, plus l'art de l'adaptateur est nécessaire et c'est bien souvent dans les pièces pour lesquelles il a le plus emprunté, comme dans Le Vassal généreux, que Scudéry déploie le plus d'habileté dans l'adaptation [52].
 
 
-# Une tragi-comédie galante
+# Une tragi-comédie galante.
 
 *Le Vassal généreux*, composé en 1631, se situe en plein apogée du genre tragi-comique. La pièce offre toutes les caractéristiques des tragi-comédies de l'époque : irrégularité, éclat du spectacle, thématique du sentiment amoureux. Elle se distingue, néanmoins, par l'importance accordée à un discours amoureux caractérisé par une langue très poétique.
 
 
-## La poésie galante
+## La poésie galante.
 
 C'est certainement encore ici l'influence de *L'Astrée* qui a été déterminante dans la volonté de l'auteur d'accorder une place si importante à la rhétorique galante. La dimension que revêt le style galant dans *Le Vassal généreux* est si importante qu'elle mérite qu'on s'y attarde.
 
@@ -409,12 +409,12 @@ Ces deux vers illustrent l'inutilité des stances dans l'intrigue et montrent qu
 La dimension galante s'étend donc à toute la pièce. Elle la traverse et le discours amoureux occupe la première place. Aucune scène n'est exempte de l'amour, que ce soit par le biais d'un échange amoureux, d'une déclaration, d'une discussion sur ce thème ou d'une plainte de l'amant inquiet. Mais c'est surtout le caractère étonnamment rhétorique de cette poésie qui est remarquable. On y retrouve des accents baroques avec l'emploi de l'antithèse (oxymores, alliances de mots...). C'est enfin la résonance de *L'Astrée* qu'on y entend. L'importance que Scudéry a donnée à la rhétorique est très caractéristique de son écriture. Et l'on peut se demander si l'auteur n'a pas sacrifié ici un peu de l'action à la poésie.
 
 
-## Un théâtre irrégulier
+## Un théâtre irrégulier.
 
 Conformément aux tragi-comédies composées entre 1625 et 1642, *Le Vassal généreux* est une pièce irrégulière. L'auteur n'y montre pas le souci de respecter les règles d'unités, de vraisemblance et de bienséance.
 
 
-### Les unités
+### Les unités.
 
 L'unité de lieu est celle qui est la plus évidemment écartée. On ne compte en effet pas moins de six lieux : le temple, le palais, la maison de Périntor, le château de la reine, le bois et le temple Stime. Ils apparaissent dans cet ordre mais l'on assiste à des retours. Ainsi à la scène II,2 le héros et la reine sont dans le château d'Argail près de Reims, à la scène suivante nous nous retrouvons de nouveau dans le palais à Paris. De même les trois premières scènes de l'acte IV nous présentent chacune un lieu différent, la première se situe à l'orée du bois, comme le signale Théandre qui exhorte Périntor à partir dans la forêt : « Allons nous divertir en visitant ces bois » (v. 1028) ; la seconde dans le bois, comme nous l'apprend Lucidan qui compte y faire retraite :
 
@@ -462,19 +462,19 @@ Elle n'exige pas la rigoureuse unification des éléments de la pièce selon une
 Et c'est précisément sur ce point qu'Eveline Dutertre a jugé la pièce. Elle écrit que *Le Vassal généreux* est une pièce « fade », sans « vérité [64] » et « sans intérêt dramatique ». En effet, si la composition de l'action est rigoureuse, le spectateur ne parvient pas à s'émouvoir et à craindre pour les personnages. Peut-être est-ce en partie dû au fait que l'auteur ait été si imprégné de sa source et qu'il l'ait adaptée avec tant de fidélité. Même si la pièce ne présente pas d'intérêt dramatique comme une tragédie telle qu'*Andromaque*, n'oublions pas que le dessein de l'auteur, toujours fidèle à *L'Astrée*, était de nous offrir, avant tout, une pièce pleine de charme. Peut-être ne sommes-nous pas touchés par le péril qui menace les personnages, mais nous sommes néanmoins émus par la poésie galante, caractéristique étonnante de cette pièce influencée par l'ambiance de *L'Astrée*. L'auteur nous captive dans les scènes qui représentent des échanges galants. C'est alors une douce poésie qui nous entraîne et nous éloigne de la violence qui sature pourtant la scène mais qui sait se faire discrète.
 
 
-### La vraisemblance
+### La vraisemblance.
 
 Elle a été, elle aussi, transgressée. La péripétie que constitue le repentir soudain de Lucidan est certainement l'un des éléments les plus invraisemblables de la pièce. L'innovation que représente cette conversion du méchant est soudaine, trop miraculeuse pour être vraiment « acceptable ». Lucidan montrait à la scène III,7 les prémices du repentir et d'une prise de conscience de ses erreurs. Acculé à fuir à la scène III,9, il gagne la Champagne pendant la nuit et arrive dans le bois où, tout repentant, il a déjà une prise de conscience et analyse ses fautes. Les événements qui composent ce repentir se déroulent en trop peu de temps pour apparaître vraisemblables. Néanmoins, le roi est sincère et ne trompe pas les amants, mais cette péripétie n'est pas crédible. Elle fait, en outre, intervenir le hasard lors du dénouement. En effet tous les protagonistes se retrouvent dans le bois à l'acte IV. Toutefois ce dénouement a été préparé : Théandre a suivi la reine et part avec Périntor se promener dans ledit bois, Rosilée qui a fui est partie à la recherche de Théandre et aboutit dans la forêt située près du château de la reine. Lucidan en fuite cherche naturellement un asile et finit par décider de prendre retraite dans ce même bois. Cet heureux hasard qui facilite grandement la réconciliation finale est, lui aussi, invraisemblable. Les retrouvailles des personnages n'apparaissent pas beaucoup plus réalistes, dans la mesure où ni Théandre ni Périntor ne reconnaissent leurs bien-aimées alors qu'à la scène suivante, Lucidan reconnaît immédiatement Rosilée et Artésie qui sont pourtant travesties en chevaliers. Cependant il s'agit bien ici d'un ressort tragi-comique qui amène la reconnaissance et la résolution de l'intrigue. Dans une certaine mesure, l'on pourrait enfin ajouter que la succession des événements, le repentir et le retour du roi sur son trône sont aussi invraisemblables car les événements se multiplient avec l'aide du hasard et que la pièce s'achève sur une situation radicalement opposée à celle du début.
 
 La pièce semble donc marquée par l'invraisemblance et par l'intervention heureuse du hasard. On pourrait en conclure que c'est encore une fois la preuve que la pièce est sans vérité humaine, mais ce serait oublier que la source de l'œuvre est un roman. *Le Vassal généreux* est avant tout une tragi-comédie romanesque dans laquelle l'auteur, tout naturellement, privilégie l'aspect miraculeux des événements, au détriment de leur vraisemblance. Si le succès de la pièce a été tel que l'auteur nous le dit dans la préface d'*Arminius*, c'est que le public y trouvait tout ce qui satisfaisait à ses goûts : succession d'événements, voyage, rapidité et mouvement, poésie galante… L'indifférence de l'auteur à la règle de la vraisemblance n'est donc pas condamnable dans un temps où l'irrégularité du genre allait de pair avec son succès.
 
 
-### La bienséance
+### La bienséance.
 
 Les bienséances n'ont pas été beaucoup mieux traitées par l'auteur. La représentation de la violence est un manquement à cette règle. Nous assistons à une crise du roi Androphile qui lui sera fatale [65], à une provocation en duel [66], au meurtre de Philidaspe [67] et à une tentative d'enlèvement [68]. Toutes ces marques de brutalité sont du ressort de Lucidan et recouvrent la thématique de la violence très fréquente dans les tragi-comédies. Mais l'auteur a soin de ne pas représenter la mort d'Androphile et de montrer rapidement celle de Philidaspe, le temps d'une didascalie et d'une explication de Lucidan. L'auteur ne fera plus allusion à cette disparition dans la suite de l'œuvre. La description du déguisement à la scène IV,3 constitue également un manquement à la bienséance, d'autant plus notable que ce sont deux femmes qui en parlent et qu'il s'agit du travestissement d'une dame en chevalier. La dernière transgression de cette règle est peut-être la plus importante. Il s'agit de la figure du prince héritier ; ce roi-tyran s'abaisse à des actions qui sont indignes, et de son rang, et de sa personne. Ses exactions sont nombreuses : amour illégitime pour la fiancée d'un de ses vassaux, sujet bien inférieur à sa personne, insulte en public de son vassal, décision de s'emparer de force de la jeune femme, tentative d'enlèvement et de viol. Le roi s'obstine à poursuivre l'héroïne. L'attitude de Lucidan montre donc qu'il n'a pas la dignité d'un roi. Heureusement la bienséance est sauve à la fin de la pièce où Lucidan peut retrouver son trône puisqu'il a fait preuve de lucidité et a reçu le pardon des amants. La résolution de l'obstacle entraîne le retour à la bienséance du personnage. C'était précisément la rupture de cette règle qui créait l'obstacle de la pièce.
 
 
-### Le mélange des genres et des tons
+### Le mélange des genres et des tons.
 
 C'est enfin dans le mélange des genres et des tons que se manifeste l'irrégularité de la pièce. Le mélanges des genres est ici particulièrement remarquable. La pièce emprunte le sérieux propre à la tragédie : les personnages principaux sont hauts, la situation est grave : le prince est destitué, le bonheur des amants déjà effectif au début de la pièce est mis en péril, l'honneur de l'héroïne est menacé et le roi meurt. Elle reprend, en outre, à la comédie des éléments plus légers. C'est d'abord le dénouement heureux car les amants y retrouvent la sérénité et le trône est restitué au roi légitime. Ce sont ensuite des scènes drôles ou des répliques amusantes qui confèrent un ton étrangement dissonant dans le sérieux de la situation. Ce mélange des genres est peut-être à l'origine du mélange des tons qui couvre toute la pièce. En effet nombreuses sont les scènes où se côtoient de longues tirades sérieuses et de petits vers qui viennent renverser le ton et le sens du passage ou du discours d'un personnage. C'est ainsi que la première scène de la pièce nous offre un échange galant entre les amants qui amène Théandre à faire une promesse d'amour éternel et de soumission à Rosilée. Le ton sérieux et galant de cette promesse est immédiatement rompu par Théandre qui demande avec beaucoup de légèreté à Rosilée : « Sellez cette promesse avec un doux baiser » (v. 140).
 
@@ -504,7 +504,7 @@ Le mélange des genres fournit donc la possibilité à l'auteur d'user de tons d
 *Le Vassal généreux* s'affiche donc bien comme une tragi-comédie irrégulière même si Scudéry a montré le souci de respecter l'unité d'action. Toutes les autres règles : unité, vraisemblance et bienséance, ont été transgressées. En outre le mélange des genres permettait à l'auteur de donner à sa pièce des accents légers.
 
 
-## L'importance de la représentation
+## L'importance de la représentation.
 
 L'autre caractéristique qui rapproche *Le Vassal généreux* des autres tragi-comédies de la même période est le goût que manifeste l'auteur pour le spectacle. On assiste à une profusion des éléments de représentation. Ils sont de toutes sortes et jalonnent toute la pièce ; autant dire que l'auteur n'en a pas fait l'économie mais qu'il les a, bien au contraire, déployés avec une grande prodigalité. Il s'agit bien d'un théâtre qui veut représenter pleinement l'action, qui veut donner à voir autant qu'à écouter. C'est ce qui a poussé Roger Guichemerre à employer le terme
 
@@ -514,7 +514,7 @@ L'autre caractéristique qui rapproche *Le Vassal généreux* des autres tragi-c
 Autant dire que Scudéry a utilisé toutes les ressources de la représentation : prodigalité d'accessoires, multiplication des didascalies, pompe de la mise en scène et bien sûr déguisements des personnages. Mais ce théâtre qui accorde une place si importante au spectacle, ne vise pas uniquement l'ornement et le divertissement, même si cela compte pour une large part, car tous les éléments de la représentation participent au sens de la pièce, soit qu'ils l'illustrent, le remplacent ou le contrarient. C'est cette unité entre discours et spectacle qui est caractéristique de la pièce.
 
 
-### Les accessoires
+### Les accessoires.
 
 La prodigalité des accessoires est étonnante. On ne compte pas moins de seize objets tout au long de la pièce. Ils sont de trois sortes : tout d'abord ceux qui accompagnent le discours amoureux des personnages, ce sont les objets d'amour ; puis ceux qui apparaissent lors des cérémonies, ce sont les objets de rite ; enfin ceux qui sont présents lors des affrontements divers, ce sont les armes.
 
@@ -543,7 +543,7 @@ Les derniers accessoires auxquels l'auteur a recours sont ceux utilisés dans le
 Les accessoires, très nombreux dans la pièce, accompagnent donc tous l'action et ne sont pas de simples parenthèses propres à satisfaire au goût du spectacle très en vogue. Les objets illustrent, prouvent ou contrarient le discours des personnages, mais ne sont jamais inutiles.
 
 
-### La pompe
+### La pompe.
 
 Outre la prodigalité des accessoires qui jalonnent sensiblement la pièce, Scudéry a donné à son *Vassal généreux* toute la pompe et le faste de la représentation dont il disposait. Le goût du dramaturge pour ce genre de mise en scène spectaculaire est indéniable et la pièce en est une illustration parfaite.
 
@@ -574,7 +574,7 @@ L'éloquence de ces tirades ainsi que leur contenu qui développe des idées ass
 Scudéry a donc voulu que la représentation soit la plus spectaculaire possible. Elle est effectivement lourde, massive et extrêmement « pompeuse ». *Le Vassal généreux* offre aussi par ce biais un divertissement tout à fait propre à retenir l'attention du public.
 
 
-### Les déguisements
+### Les déguisements.
 
 Mais ce qui procure à la représentation son attrait majeur, ce sont les déguisements auxquels ont recours les personnages pour fuir ou dissimuler des méfaits ou des manœuvres.
 
@@ -644,7 +644,7 @@ La place qui a été accordée à la représentation n'est donc pas des moindres
 *Le Vassal généreux* est donc une tragi-comédie irrégulière dominée par le spectacle. Mais c'est aussi une tragi-comédie galante qui privilégie la poésie amoureuse. On pourrait penser que le seul centre d'intérêt de la pièce réside dans l'expression du sentiment amoureux. Néanmoins, on ne saurait ignorer la dimension politique de la pièce qui vient parfois occulter sa dimension poétique.
 
 
-# La question politique
+# La question politique.
 
 C'est peut-être déjà ici l'influence grandissante du Cardinal de Richelieu qui transparaît à travers l'importance que l'auteur a accordée à la réflexion politique [87]. En effet, l'originalité de l'intrigue politique du *Vassal généreux* qui nous présente la destitution d'un roi départ grandement du reste de la production des tragi-comédies qui mettent généralement en scène des lieux communs politiques et moraux comme le souligne Roger Guichemerre :
 
@@ -654,7 +654,7 @@ Parfois aussi (…) ces développements ne sont que des lieux communs destinés 
 C'est dire si Scudéry accordait déjà une place importante à ces questions. L'intérêt de l'auteur pour la politique sera toujours conséquent dans son œuvre. D'ailleurs en 1647, il publiera son ouvrage majeur sur les *Discours politiques des Rois* dans lequel il a « donc choisi vingt ROIS dans* l'Histoire universelle ;* et dans les Regnes de ces Princes, vingt actions les plus remarquables des leurs [89] ». On retrouve dans *Le Vassal généreux* l'esquisse des grands thèmes que Scudéry développera et approfondira par la suite. La pièce se présente comme une allégorie de la formation du prince, l'auteur y fait ensuite une apologie de la monarchie et enfin, il érige la générosité comme première vertu de tout homme qui doit toucher à la politique et au domaine public.
 
 
-## La formation du prince
+## La formation du prince.
 
 L'intérêt de l'auteur pour les questions politiques a toujours été manifeste, l'éducation du prince a d'ailleurs été l'une de ses grandes préoccupations. Il nous fait part de ce souci dans *Au Lecteur* des *Discours politiques* [90] où il écrit que sa motivation principale pour la rédaction de cet ouvrage était « que les Rois qui refuseroient peut-estre l'instruction, si elle venoit de leurs inferieurs ; ne la refusent pas quand elle viendra de leurs egaux ». L'idée est qu'un bon roi est un roi bien éduqué, et c'est précisément ce qu'illustre la pièce.
 
@@ -780,7 +780,7 @@ La dialectique de l'ordre et du désordre est un thème central dans l'imaginair
 *Le Vassal généreux* nous présente donc l'évolution d'un mauvais roi qui suit sans réfléchir les suggestions d'un mauvais conseiller qui flatte son orgueil et son « appetit brutal » [96]. Ce roi qui agit de façon tyrannique va devenir un roi exemplaire. Une partie de la pièce est donc centrée sur une dérive possible de la monarchie. Ce n'est pas ce régime qui est en cause, mais la personne du prince qui, mal éduqué, en arrive à agir de manière brutale et animale.
 
 
-## L'apologie de la monarchie
+## L'apologie de la monarchie.
 
 Le régime monarchique n'est pas une seule fois mis en cause dans la pièce. Bien au contraire, l'auteur nous fait une véritable apologie de cet état. C'est à travers le discours de Théandre à la première scène du dernier acte que s'effectue l'éloge de la monarchie. La réflexion s'étend ensuite sur la question de la légitimité de l'exercice du pouvoir royal.
 
@@ -903,7 +903,7 @@ Au contraire Lucidan véhicule, pendant les trois premiers actes, l'image du mau
 La portée politique de la pièce se présente donc comme un exposé des convictions de l'auteur. Nous les retrouverons vingt ans plus tard dans ses *Discours politiques des Rois* où, là aussi, Scudéry s'attachera à faire le portrait du prince idéal.
 
 
-## L'éloge de la générosité
+## L'éloge de la générosité.
 
 Nous l'avons vu, aussi parfait que soit le régime monarchique, il n'empêche pas un prince de monter sur le trône et d'agir en tyran. La seule chose qui puisse garantir l'état de cette dérive, est la formation d'un prince dont la vertu principale doit être la générosité. Un souverain ne peut être équitable, magnanime, sage et préoccupé par le bien du royaume que s'il est généreux. La pièce nous offre trois belles figures de personnages généreux : Théandre, Androphile et Lindorante. La générosité, telle qu'elle est illustrée à travers ces personnages, est de toujours préférer l'honneur à tout autre intérêt et de se rendre digne dans ses actions, et de sa lignée, et de son rang.
 
@@ -968,10 +968,10 @@ La générosité est donc un thème central dans la pièce dont Scudéry fait l'
 Avec *Le Vassal généreux*, Scudéry a saisi l'occasion d'exposer ses thèses politiques, il signe avec lui un véritable manifeste. On y retrouve, en effet, l'ensemble de ses grandes préoccupations : éducation du prince, défense de la monarchie et générosité. La dimension politique de la pièce semble parfois occulter l'amour et la poésie, notamment lorsque le héros privilégie la générosité à ses sentiments pour Rosilée. Mais ces deux thématiques, loin de s'opposer, sont intimement mêlées et emportent la pièce dans un courant poétique. L'émotion du lecteur, dans *Le Vassal généreux*, ne naît pas de l'intérêt dramatique mais du charme qu'exerce sur lui la poésie du sentiment sous toutes ses formes.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 
-## L'édition du texte au XVII*e* siècle
+## L'édition du texte au XVII*e* siècle.
 
 Roméo Arbour ne répertorie qu'une seule édition du *Vassal généreux* au XVII*e* siècle, celle de 1636, dont on recense quelques exemplaires.
 
@@ -988,7 +988,7 @@ Ars. : 8 BL 9083 (2), 9084 (3), Rf. 7209 (3) et 12672 (2) ;
 Rouen B.M. : O. 2162.
 
 
-## Etablissement du texte
+## Etablissement du texte.
 
 Pour l'établissement du texte du *Vassal généreux*, nous avons utilisé l'exemplaire présent à la Bibliothèque Nationale sous la cote : 8 Yth. 18772.
 
@@ -1007,7 +1007,7 @@ Néanmoins, nous avons dû procéder à des modifications :
 Nous avons en outre amendé quelques erreurs manifestes dans l'orthographe, la ponctuation et la pagination.
 
 
-## Rectifications
+## Rectifications.
 
 Nous donnons ci-dessous la liste des erreurs et coquilles qui ont été corrigées dans le texte que nous proposons :
 
@@ -1020,12 +1020,12 @@ Le Vassal généreux :
 Vers 13 estouffee / 130 I a / 332 armee / 375 ne l'a-t'il dit / 469 ceconseil / 588 qu'on en sçache rien / 603 genereux ; / 607 l'endurer ; / 758 metire / 824 a-t'il perdu / 855 Sice / 893 suivant, / 915 mutinees / 929 l'espoir l'eur est osté / 962 qu'elle a, me semble / 973 quela / 979 assidu ; / 1098 Qu survit / 1255 qu'en fin / 1267 inclinees / 1276 quel'apparance / 1306 C' st
 
 
-## La pagination
+## La pagination.
 
 Nous avons corrigé une erreur dans la numérotation des pages : le décompte des pages passe de la page 72, à la page 93. Le texte se suit parfaitement, comme le montre le décompte des unités, ce sont les dizaines qui ne se suivent pas. Les exemplaires présents aux bibliothèques de la Sorbonne et de l'Arsenal comportent la même erreur.
 
 
-## Les vers
+## Les vers.
 
 Nous avons enfin supprimé deux vers présents après le vers 250, qui étaient la répétition des deux précédents (v. 249-250).
 
@@ -1057,7 +1057,7 @@ DE SCUDERY.
 Bien que mes ouvrages soient assez intelligibles d'eux-mesmes, je t'advouë que je devrois donner à la Coustume [113], ou plustost à ton impatience, les Argumens [114] de toutes mes pieces : mais pour te les donner il les faudroit faire; et c'est à quoy je ne me puis resoudre. Excuse ma paresse, je t'en supplie; et te souvienne en ma faveur, que les Italiens appellent ce vice, celui des honnestes gens.
 
 
-## EXTRAIT DU PRIVILEGE DU ROY [115]
+## EXTRAIT DU PRIVILEGE DU ROY [115].
 
 Nostre bien-aimé AUGUSTIN COURBE, Marchand Libraire en nostre bonne ville de Paris, nous a fait remonstrer qu'il a recouvré deux Tragi-Comedies nouvelles, composées par le Sieur SCUDERY, intitulées ; l'une, *Le Vassal genereux* ; et l'autre, *Le Prince Déguisé*, lesquelles il desireroit faire imprimer, s'il avoit sur ce nos Lettres necessaires ; lesquelles il nous a tres-humblement supplié de luy accorder. A CES CAUSES, Nous avons permis et permettons par ces présentes à l'exposant, d'imprimer et faire imprimer, vendre et debiter en tous les lieux de nostre obeyssance, lesdites deux Tragi-Comedies, conjoitement ou separément ; en telles marges, et tels caracteres, et autant de fois que bon luy semblera, durant l'espace de neufs ans entiers et accomplis, à compter du jour que chacune sera achevée d'imprimer pour la premiere fois. Faisans tres-expresses deffenses à toutes personnes, de quelque qualité et condition qu'elles soient, d'imprimer, ny faire imprimer, vendre ou distribuer lesdites Tragi-Comedies en aucun lieu de ce Royaume durant ledit temps, sans le consentement de l'exposant ; sous pretexte d'augmentation, correction, ou autrement, en quelque sorte et maniere que ce soit ; ny mesme d'en extraire aucune chose, ou d'en contrefaire le titre. Mandons au premier Huissier ou Sergent sur ce requis, de faire pour l'execution du contenu cy-dessus, tous exploicts necessaires, sans demander autre permission. CAR TEL EST nostre plaisir. Donné à paris le onziesme jour d'Aoust, l'an de grace mil six cens trente cinq. Et de nostre regne le vingt-sixiesme.
 
@@ -1070,7 +1070,7 @@ Achevé d'imprimé ce premier Septembre 1635.
 Les Exemplaires ont esté fournis, ainsi qu'il est porté par le Privilege.
 
 
-## ACTEURS
+## ACTEURS.
  – THEANDRE,Seigneur Franc.
  – ROSILEE,Fille heritiere du Duc de Bretagne.
  – LUCIDAN,Prince des Francs.
@@ -1099,7 +1099,7 @@ Les Exemplaires ont esté fournis, ainsi qu'il est porté par le Privilege.
 THEANDRE, ROSILEE.
 
 
-    THEANDRE* seul.*
+    THEANDRE* seul.*.
 (Il est dans le Temple la nuict à la veille des armes dressées en trophée ; Ceremonie des chavaliers anciens.)
 
 STANCES.
@@ -1315,7 +1315,7 @@ Mon triste cœur me quitte, et la suit pas à pas.
 LUCIDAN, ROSILEE, POLICRANE.
 
 
-    LUCIDAN *seul.*
+    LUCIDAN *seul.*.
 La fortune me rit, le sort m'est favorable;  
 Je suis autant heureux, que j'estois miserable;  
 Je triomphe sans peine, et comblé de bon-heur,  
@@ -1450,7 +1450,7 @@ Que je suis Lucidan, et que je dois regner.
     ROSILEE.
 Vous me pardonnerez, la Reine me demande [180]:  
 
-    LUCIDAN
+    LUCIDAN.
 Dis plustost que le Roy de mon cœur te commande;  
 Dis plustost qu'un Tiran, qui nous donne la Loy,  
 T'approche d'un Rival, et t'esloigne de moy;  
@@ -1487,7 +1487,7 @@ ROSILEE, MENOCRITE, ORCHOMENE,
 LUCIDAME, ROSIMAR, PALINONDE.
 
 
-    THEANDRE *seul.*
+    THEANDRE *seul.*.
 Pensers, craintes, soubçons, mes plus fiers ennemis,  
 Le Temple s'ouvre.
 
@@ -2605,7 +2605,7 @@ Si le Ciel est pour nous, la Terre ne peut nuire.
 
 ### SCENE SECONDE.
 
-    LUCIDAN.  [275]
+    LUCIDAN. [275].
 STANCES.
 Vaines grandeurs, esclat trompeur;  
 Songe, fumée, ombre, vapeur,  
@@ -3268,18 +3268,18 @@ Et que de vostre Nom, les Siècles amoureux,
 Consacrent un Autel au VASSAL GENEREUX [331].  
 
 
-# LexiqueApparenceVraisemblanceV. 1119ArcherSymbolise l'être aimé qui blesse de la flèche d'amour (par référence au petit Dieu Amour) celui qui aimeV. 124, 453BornerAcheverV. 377, 1071ConseilDécision, résolutionV. 869Constance/constantRésolution, fermetéV. 663, 685, 794CourrousColèreV. 51, 763, 831, 976, 1440DecevoirTromperV. 883DommagePerte, ruine, malheurV. 909EffectRéalisationV. 101, 485, 735, 1169EnnuySouffranceV. 644EnvieJalousieDédicace, v. 142, 301, 677, 1091, 1203, 1331, 1357Désir violentV. 173, 345, 713, 745FrancLibéréV. 1291, 1450FoudreColère divine V. 700, 923, 1412FureurGrands emportements provoqués par les passionsV. 1075HasarderMettre au hasard de perdre, risquerV. 746, 995InconstantQui manque de résolution, de fermetéV. 41, 508, 1343InsigneRemarquable, que l'on distingue des autresV. 1305LicencePermissionV. 565LosSituation personnelleV. 1496Loyer RécompenseV. 1307ManiePassionV. 497, 1449MelancolieC'est l'une des quatre humeurs qui sont dans le corps. Elle est la plus pesante et la plus incommode, elle cause la tristesse et le chagrin. La mélancolie noire peut quelques fois entraîner la folie.V. 425, 1132PotentatPersonne qui a une puissance souveraine et fort étendue. Le roi est le plus redouté des Potentats d'Europe.V. 1250PublierRendre une chose publiqueV. 307, 875RareExceptionnelV. 1315, 1353ReglerModérer, se montrer raisonnableV. 369, 379, 485, 714, 1021 ResverieStupeurV. 1429SoingDans le langage amoureux, c'est l'ensemble des attentions que l'on apporte à l'être aiméV. 411SubjetRaison, motifV. 644, 1072, 1130TramerComploterV. 892TrespasMortV. 811, 1101SaisonLe bon moment, ou le moment propiceV. 1229SoucyChagrin, inquiétude d'espritV. 1459
+# Lexique.ApparenceVraisemblanceV. 1119ArcherSymbolise l'être aimé qui blesse de la flèche d'amour (par référence au petit Dieu Amour) celui qui aimeV. 124, 453BornerAcheverV. 377, 1071ConseilDécision, résolutionV. 869Constance/constantRésolution, fermetéV. 663, 685, 794CourrousColèreV. 51, 763, 831, 976, 1440DecevoirTromperV. 883DommagePerte, ruine, malheurV. 909EffectRéalisationV. 101, 485, 735, 1169EnnuySouffranceV. 644EnvieJalousieDédicace, v. 142, 301, 677, 1091, 1203, 1331, 1357Désir violentV. 173, 345, 713, 745FrancLibéréV. 1291, 1450FoudreColère divine V. 700, 923, 1412FureurGrands emportements provoqués par les passionsV. 1075HasarderMettre au hasard de perdre, risquerV. 746, 995InconstantQui manque de résolution, de fermetéV. 41, 508, 1343InsigneRemarquable, que l'on distingue des autresV. 1305LicencePermissionV. 565LosSituation personnelleV. 1496Loyer RécompenseV. 1307ManiePassionV. 497, 1449MelancolieC'est l'une des quatre humeurs qui sont dans le corps. Elle est la plus pesante et la plus incommode, elle cause la tristesse et le chagrin. La mélancolie noire peut quelques fois entraîner la folie.V. 425, 1132PotentatPersonne qui a une puissance souveraine et fort étendue. Le roi est le plus redouté des Potentats d'Europe.V. 1250PublierRendre une chose publiqueV. 307, 875RareExceptionnelV. 1315, 1353ReglerModérer, se montrer raisonnableV. 369, 379, 485, 714, 1021 ResverieStupeurV. 1429SoingDans le langage amoureux, c'est l'ensemble des attentions que l'on apporte à l'être aiméV. 411SubjetRaison, motifV. 644, 1072, 1130TramerComploterV. 892TrespasMortV. 811, 1101SaisonLe bon moment, ou le moment propiceV. 1229SoucyChagrin, inquiétude d'espritV. 1459
 
 
-# Annexe 1 : Préface d'*Arminius ou Les Frères ennemis*
+# Annexe 1 : Préface d'*Arminius ou Les Frères ennemis*.
 
 *Enfin me voicy au bout d'une longue et penible carriere, que j'ay passée avec assez de bonheur : peu (sans vanité) en ont eu plus que moy, en cette espece d'ouvrage ; et s'il est capable (comme je n'en doute point) de donner une veritable gloire, je pense avoir quelque raison d'y pretendre. De Saize Poëmes Dramatiques, que j'ay exposez au jugement du public, aucun n'a presque manqué d'obtenir son aprobation : et si les aplaudissements, et les aclamations universelles, sont des marques infaillibles, de la bonté de ces Poëmes, j'ay droit de croire, que les miens ne sont pas mauvais. LIGDAMON, que je fis en sortant du Regiment des Gardes, et dans ma premiere jeunesse, eut un succez qui surpassa mes esperances, aussi bien que son merite : toute la Cour le vit trois fois de suite dans Fontainebleau ; et soit qu'elle excusast les fautes d'un Soldat, soit qu'elle mist ces fautes au nombres des pechez agreables ; il est certain que ces pointes toucheront cent illustres Cœurs ; et que chacun loüa beaucoup, une chose qui estoit peu digne de l'estre. Or comme les premières temeritez quand elle sont heureuses, engagent aisément aux Secondes ; je fis apres LE TROMPEUR PUNY : et comme les bonheurs sont enchaînez, aussi bien que les infortunes, ce second Ouvrage, eut le mesme succez du premier. LE VASSAL GENEREUX vint en suite, qui marchant sur les mesmes traces, arriva encor à la mesme fin. Mais comme le Poëtte doit estre un Prothée* [332]*, capable de toutes formes ; et que les tons les plus bas de la Musique, ne sont pas moins harmonieux que les plus hauts   du Poëme grave, je passé au Poëme Comique ; de la Lire à la Musette, de la Majesté des vers, à la simplicité de la Prose ; et pour parler en termes de l'Art, du Cothurne* [333]*, à la Soque* [334]*. Ce fut en LA COMEDIE DES COMEDIENS, que l'on me vit faire ce changement : neantmoins, pour avoir changé mon Mode, je ne changé pas de destin ; cette Piece (qu'on peut appeler un agreable Caprice* [335]*) ne desplut point en sa nouveauté ; et le grand Monde qui la suivit, en fut une preuve infaillible. Mais comme je sçay qu'il est des inventions particulieres, comme de la Chromatique* [336]*, de laquelle il ne faut guere user, si l'on veut qu'ele semble bonne, je repris le ton ordinaire dans mon ORANTE : et par elle, je tiray cent et cent fois les larmes des yeux du Peuple, mais des plus beaux yeux du monde. LE FILS SUPPOSE vint en suite, qui par ses frequentes Representations, fit voir qu'il avoit part à la gloire, aussi bien que les Poëmes qui l'avoient devancé. Insensiblement nous voicy arrivez à ce bien heureux PRINCE DEGUISE, qui fut si long-temps la passion, et les delices de toute la Cour : jamais ouvrage de cette sorte n'eut plus de bruit ; et jamais chose plus violente n'eut plus de durée, tous les hommes suivoient cette Piece, par tout où elle se representoit ; toutes les Dames en sçavoient les Stances par cœur ; et il se trouve mesme encor aujourd'huy mille honnestes gens, qui soûtiennent que je n'ay rien fait de plus beau ; tant ce faux Enchanteur charma veritablement le monde. Le succez de cette Tragi-Comedie fut si extraordinaire, que je n'osé la faire suivre par une autre de mesme nature : et je creus que pour la surpasser, il falloit monter la Lire sur un ton plus haut. Je fis donc LA MORT DE CESAR, qui fut ma premiere Tragedie : et si la Voix Publique ne me flatta point, toutes les parties de cet Ouvrage, ne furent pas indignes de la Majesté de l'ancienne Rome, et de la grandeur de son Sujet. Je continué apres encor, dans le mesme genre de Poëme ; et fis ma seconde et derniere Tragedie DIDON. Mais comme je ne desguise jamais la verité, j'advoüe icy ingenuëment, que par des raisons qui ne me regardoient point, cette Piece n'eut pas le mesme bonheur des autres. Les aclamations y furent un peu plus froides ; et les representations un peu moins frequentes : toutefois l'impression fit apres, ce que j'avois esperé du Theatre : et certainement quiconque connoistra le Grand Virgille, advoüera sans doute, en lisant ma traduction, que peu de plumes, l'ont imité plus fidellement que la mienne. Or comme les mauvaises Constelations, ne sont pas si tost passées, L'AMANT LIBERAL qui vint en suite de cette belle Reine de Carthage, se sentit encor un peu de son malheur : et quelque divertissante que fust cette Tragi-Comedie ; et quelque beau que fust son Sujet ; que je tiens le premier des Nouvelles de Cervantes ; elle ne fut que mediocrement loüée. Il est vray que L'AMOUR TIRANNIQUE qui la suivit, me consola bien pleinement, de cette petite disgrace : car toute la Cour, et en suite toute la France, dirent des choses de cet Ouvrage, que je n'oserois redire, tant elles me sont glorieuses. EUDOXE qui parut apres, eut encor le mesme bonheur : et ANDROMIRE qui les suivit, devança l'un et l'autre de bien loing. Pour L'ILLUSTRE BASSA, il avoit esté trop heureux en Roman, pour ne l'estre pas en Comedie : aussi l'a t'il esté de telle sorte, que si l'acteur qui en faisoit le premier Personnage ne fust point mort, il auroit peut-estre effacé au Theatre, tout ce que j'avois fait jusques alors. Pour AXIANE, qui n'a pas encor esté representée, je ne sçaurois vous assurer, de quelle façon elle reissira : toutefois quoy que la Prose n'ait pas la dignité du Vers, j'espere que le monde en sera assez satisfait, pour faire que j'aurois tort de ne l'estre pas. Enfin Lecteur, il ne me reste plus à nommer, que LE GRAND ARMINIUS que je vous presente ; et par lequel je pretens finir, un si long et si laborieux travail. C'est mon Chef-d'œuvre que je vous offre en cette Piece ; et l'Ouvrage le plus achevé, qui soit jamais parti de ma plume : car soit pour la Fable, pour les Mœurs, pour les Sentimens, ou pour la Versification ; il est certain que je ne fis jamais rien de plus juste, de plus grand, ny de plus beau ; et qui si mes labeurs avoient pu meriter une Couronne, je ne l'attendrois que de ce dernier. C'est donc par ce Poëme que j'acheve ceux de cette espece, et desormais vous n'en verrez plus de moy, si les Puissances Souveraines ne m'y onligent. Il est temps que je me repose ; et que du bout de la Carriere, dont j'ay parlé au commencement de ce discours ; je regarde ceux qui la passeront en fuite ; que je batte des mains pour les exciter à la gloire ; et que je leur monstre le Prix qui les y attend.*
 
 
-# Annexe 2 : l'œuvre et la source
+# Annexe 2 : l'œuvre et la source.
 
 
-## Tableau 1 : les personnages
+## Tableau 1 : les personnages.
 TYPES DE PERSONNAGES | LE VASSAL GENEREUX | L'HISTOIRE DE CHILDERIC, DE SILVIANE ET D'ANDRIMARTE
 LE ROI | ANDROPHILE | MEROVEE
 LA REINE | GLACITIDE | METHINE
@@ -3296,7 +3296,7 @@ LE VALET DU HEROS | ALCASTE | « LE VALET DE PIED »
 
 
 
-## Tableau 2 : tableau synoptique
+## Tableau 2 : tableau synoptique.
 
 Les numéros des pages renvoient à l'édition de *L'Astrée* présentée par M. Hugues Vaganay :
 
@@ -3324,7 +3324,7 @@ LE VASSAL GENEREUX | L'HISTOIRE DE CHILDERIC, DE SILVIANE ET D'ANDRIMARTE
 
 
 
-## Tableau synoptique (suite)
+## Tableau synoptique (suite).
 LE VASSAL GENEREUX | SUITE DE L'HISTOIRE DE CHILDERIC, DE SILVIANE ET D'ANDRIMARTE
  | P. 124 à 125 : Lindamor a rejoint Galathée. Il reprend le récit. Andrimarte s'est plaint à la reine Méthine et a visité Lindamor à qui il a tout raconté.
 Acte III Scène 9 : Lucidan s'enfuit après avoir tué le perfide Philidaspe. Acte IV Scène 1 : Théandre et son fidèle Périntor vont se promener dans le bois près du château de la reine. Acte IV Scène 2 : Lucidan en fuite part dans les bois près du château de la reine. Il est déguisé. | P. 125 à 128 : Childéric s'enfuit déguisé après avoir partagé une pièce d'or avec Guyemants. Childéric demande à Lindamor de l'accompagner chez Bassin, le duc de Thuringe. Avant de partir, il rend visite à sa mère dans son château près de Reims. La reine écrit une lettre à Bassin. Départ de Childéric.
@@ -3337,7 +3337,7 @@ Acte V Scènes 1 et 2 : après avoir été élu roi par les princes gaulois, Th
 
 
 
-## Tableau 3 : les emprunts textuels
+## Tableau 3 : les emprunts textuels.
 LE VASSAL GENEREUX | L'HISTOIRE DE CHILDERIC, DE SILVIANE ET D'ANDRIMARTE
 Scène I,1 : ROSILEE : « J'aime Théandre autant que son amour m'oblige » « J'aime encor Théandre autant que je le dois » « J'aime Théandre aussi bien comme il aime » « Je veux qu'il sçache encor que j'aime plus que luy » | P. 661 : SILVIANE : « J'ayme Andrimarte autant que son amitié m'y oblige » « J'ayme, (...), Andrimarte autant que je dois » « J'ayme Andrimarte autant qu'il m'ayme » « J'ayme Andriamarte plus qu'il ne m'ayme »
 Scène I,2 : LUCIDAN : « Reine de mon esprit vous avez une sœur » | P. 663 : CHILDERIC : « Belle Silviane, je vous apporte une nouvelle que peut-estre vous ne savez pas : c'est que vous pensez estre seule fille de vostre mere, et toutesfois vous avez une sœur »
@@ -3347,36 +3347,36 @@ Scène III,5 : ARTESIE : « En sortant de Paris comme des Etrangers, En Cheva
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Pour l'établissement des notes
+## Pour l'établissement des notes.
 
 
-### Pour les recherches de vocabulaireLe Dictionnaire Universel d'Antoine Furetière
+### Pour les recherches de vocabulaire.Le Dictionnaire Universel d'Antoine Furetière
 Trésor de la Langue Française
 Le Dictionnaire de la Langue Française d'Emile Littré
 Le Dictionnaire de l'Académie Française*e*
 
 
 
-### Pour les recherches de syntaxeSyntaxe française du XVII*e* siècle
+### Pour les recherches de syntaxe.Syntaxe française du XVII*e* siècle
 Introduction à la langue du XVII*e* siècle
 
 
 
-### Pour les recherches concernant les personnesScudéry dramaturge
+### Pour les recherches concernant les personnes.Scudéry dramaturge
 Dictionnaire du Grand Siècle
 
 
 
-### Pour les recherches mythologiquesDictionnaire des mythologies et des religions des sociétés traditionnelles et du monde antique
+### Pour les recherches mythologiques.Dictionnaire des mythologies et des religions des sociétés traditionnelles et du monde antique
 Dictionnaire illustré de la mythologie et des antiquités grecques et romaines*e*
 Dictionnaire de la mythologie grecque et romaine
 
 
 
-## Études générales sur le XVII*e* siècleL'Ère baroque en France : répertoire chronologique des éditions de textes littéraires*e**e*
+## Études générales sur le XVII*e* siècle.L'Ère baroque en France : répertoire chronologique des éditions de textes littéraires*e**e*
 Esthétique de la tragi-comédie en France de 1628 à 1642
 Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
 Introduction à l'analyse des textes classiques. Éléments de rhétorique et de poétique du XVII*e* siècle
@@ -3391,20 +3391,20 @@ La Dramaturgie classique en France
 
 
 
-## Sur *Le Vassal généreux*
+## Sur *Le Vassal généreux*.
 
 
-### La sourceL'Astrée*e**e*
+### La source.L'Astrée*e**e*
 L'Astrée
 
 
 
-### Études critiquesGeorges de Scudéry als dramatiker
+### Études critiques.Georges de Scudéry als dramatiker
 Scudéry dramaturge
 
 
 
-## Autres textesLa Vie est un songe
+## Autres textes.La Vie est un songe
 Le Cid
 Le Prince déguisé
 Arminius ou Les frères ennemis
@@ -3414,17 +3414,17 @@ Les Amours Tragiques de Pyrame et Thisbé
 
 
 
-## Articles
+## Articles.
 
 
-### Sur Scudéry et son œuvre dramatiqueScudéry et Théophile de ViauLes Trois Scudéry
+### Sur Scudéry et son œuvre dramatique.Scudéry et Théophile de ViauLes Trois Scudéry
 L'Art de l'adaptation dans le théâtre de ScudéryL'Art du théâtre, Mélanges en l'honneur de Robert Garapon
 Le Roi et la royauté dans le théâtre de ScudéryMélanges en l'honneur de Jacques Truchet
 Les Tragi-comédies de Scudéry et L'AstréeLes Trois Scudéry
 
 
 
-### Sur Théophile de ViauPyrame et ThisbéPapers on French Seventeenth Century LiteratureActes du colloque CMR 17 offerts en hommage à Guido Saba
+### Sur Théophile de Viau.Pyrame et ThisbéPapers on French Seventeenth Century LiteratureActes du colloque CMR 17 offerts en hommage à Guido Saba
 
 
 -------

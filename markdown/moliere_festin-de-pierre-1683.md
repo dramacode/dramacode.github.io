@@ -18,7 +18,7 @@ M. DC. LXXXII.
 
 
 
-# ACTEURS
+# ACTEURS.
  – Don Juan.
  – Don Louis, Père de Don Juan.
  – Elvire, Maîtresse de Don Juan.
@@ -39,850 +39,850 @@ M. DC. LXXXII.
  – Un Pauvre.
 
 
-# Le Festin de Pierre, *Comédie*
+# Le Festin de Pierre, *Comédie*.
 
 
-## Acte I
+## Acte I.
 
 
-### Scène Première
+### Scène Première.
 Sganarelle, Gusman
 
 
-    SGANARELLE
+    SGANARELLE.
 Quoique puisse dire Aristote et toute la Philosophie, il n'est rien d'égal au Tabac, c'est la passion des honnêtes gens, et qui vit sans tabac n'est pas digne de vivre ; non seulement il réjouit et purge les cerveaux humains, mais encore il instruit les âmes à la vertu, et leur apprend avec lui à demeurer honnête homme ; Ne voyez vous pas bien, dès qu'on en prend, de quelle manière obligeante on en use avec tout le monde, et comme on est ravi d'en donner à droite et à gauche, partout où l'on se trouve ? On n'attend pas même qu'on en demande, et l'on court au-devant du souhait des gens, tant il est vrai que le tabac inspire des sentiments d'honneur et de vertu à tous ceux qui en prennent : Mais c'est assez de cette matière ; reprenons notre discours. Si bien donc, cher Gusman que Done Elvire, ta Maîtresse, surprise de notre départ, s'est mise en campagne après ; et son cœur, que mon Maître a su toucher trop fortement, n'a pu depuis vivre sans le venir chercher ici ; Veux-tu qu'entre nous, je te dise ma pensée, j'ai peur qu'elle soit mal payée de son amour, que son voyage en cette ville produise peu de fruit, et que vous eussiez autant gagné à ne bouger de là.
 
-    GUSMAN
+    GUSMAN.
 Et la raison encore, dis-moi je te prie Sganarelle, qui peut t'inspirer de si mauvais augure ? ton Maître t'a-t-il découvert son cœur là-dessus, et t'a t-il dit qu'il eût pour nous quelque froideur qui l'ait obligé à partir ?
 
-    SGANARELLE
+    SGANARELLE.
 Non pas, mais à vue de pays je connais à peu près le train des choses, et sans qu'il m'ait encore rien dit, je gagerais presque que l'affaire va là. Je pourrais peut-être me tromper, mais enfin sur de tels sujets l'expérience m'a donné quelque lumière.
 
-    GUSMAN
+    GUSMAN.
 Quoi ! ce départ si peu prévu serait une infidélité de Don Juan ! il pourrait faire cette injure aux chastes feux de Done Elvire !
 
-    SGANARELLE
+    SGANARELLE.
 Non, c'est qu'il est trop sûr encore qu'il n'a pas le courage.
 
-    GUSMAN
+    GUSMAN.
 Un homme de sa qualité ferait une action si lâche.
 
-    SGANARELLE
+    SGANARELLE.
 Eh ! oui, sa qualité, la raison en est belle, et c'est par là qu'il s'empêcherait des choses.
 
-    GUSMAN
+    GUSMAN.
 Mais les saints nœuds du mariage le tiennent engagé.
 
-    SGANARELLE
+    SGANARELLE.
 Eh ! mon pauvre Gusman, mon ami, tu ne sais pas encore, crois-moi, quel homme c'est Don Juan.
 
-    GUSMAN
+    GUSMAN.
 Je ne sais pas de vrai quel homme il peut être, s'il faut qu'il nous ait fait cette perfidie, et je ne comprends point comme après tant d'amour et tant d'impatience témoignée, tant d'hommages pressants, de vœux, de soupirs, et de larmes, tant de lettres passionnées, de protestations ardentes et de serments réitérés, tant de transports enfin, et tant d'emportements qu'il a fait paraître, jusques à forcer dans sa passion l'obstacle sacré d'un Convent pour mettre Done Elvire en sa puissance, je ne comprends pas, dis-je, comme après tout cela il aurait le cœur de pouvoir manquer à sa parole.
 
-    SGANARELLE
+    SGANARELLE.
 Je n'ai pas grande peine à le comprendre moi, et si tu connaissais le pèlerin, tu trouverais la chose assez facile pour lui ; je ne dis pas qu'il ait changé de sentiments pour Done Elvire, je n'en ai point de certitude encore ; tu sais que par son ordre je partis avant lui, et depuis son arrivée, il ne m'a point entretenu ; mais par précaution je t'apprends *inter nos*, que tu vois en Don Juan mon Maître le plus grand scélérat que la terre ait jamais porté, un enragé, un chien, un Diable, un Turc, un hérétique, qui ne croit ni Ciel ni Saint, ni Dieu, ni loup-garou, qui passe cette vie en véritable bête brute, en pourceau d'Épicure, en vrai Sardanapale, ferme l'oreille à toutes les remontrances Chrétiennes qu'on lui peut faire, et traite de billevesées tout ce que nous croyons ; tu me dis qu'il a épousé ta Maitresse, crois qu'il aurait plus fait pour contenter sa passion, et qu'avec elle il aurait encore épousé toi, son chien et son chat ; un mariage ne lui coûte rien à contracter, il ne se sert point d'autre piège pour attraper les belles, et c'est un épouseur à toutes mains, Dame, Damoiselle, Bourgeoise, Paysanne ; Il ne trouve rien de trop chaud ni de trop froid pour lui, et si je te disais le nom de toutes celles qu'il a épousées en divers lieux, ce serait un chapitre à durer jusques au soir ; tu demeures surpris et changes de couleur à ce discours ; ce n'est là qu'une ébauche du personnage ; et pour en achever le portrait, il faudrait bien d'autres coups de pinceau : Suffit qu'il faut que le courroux du Ciel l'accable quelque jour, qu'il me vaudrait bien mieux d'être au Diable qu'à lui, et qu'il me fait voir tant d'horreurs que je souhaiterais qu'il fût déjà je ne sais où. C'est une chose terrible, il faut que je lui sois fidèle en dépit que j'en aie ; la crainte en moi fait l'office du zèle, bride mes sentiments et me réduit à la complaisance d'applaudir bien souvent à ce que mon âme déteste ; le voila qui vient se promener dans ce Palais, séparons nous ; écoute, au moins je te fais confidence avec grande franchise, et cela m'est sorti un peu bien vite de la bouche ; mais s'il fallait qu'il en vînt quelque chose à ses oreilles, je dirais hautement que tu aurais menti.
 
 
-### Scène II
+### Scène II.
 Don Juan, Sganarelle
 
 
-    DON JUAN
+    DON JUAN.
 Quel homme te parlait là ? il a bien de l'air, ce me semble, du bon Gusman de Done Elvire.
 
-    SGANARELLE
+    SGANARELLE.
 C'est quelque chose aussi à peu près comme cela.
 
-    DON JUAN
+    DON JUAN.
 Quoi, c'est lui !
 
-    SGANARELLE
+    SGANARELLE.
 Lui-même.
 
-    DON JUAN
+    DON JUAN.
 Et depuis quand est-il en cette Ville ?
 
-    SGANARELLE
+    SGANARELLE.
 D'hier au soir.
 
-    DON JUAN
+    DON JUAN.
 Et quel sujet l'amène ?
 
-    SGANARELLE
+    SGANARELLE.
 Je crois que vous jugez assez ce qui peut l'inquiéter.
 
-    DON JUAN
+    DON JUAN.
 Notre départ sans doute.
 
-    SGANARELLE
+    SGANARELLE.
 Le bon homme en est tout mortifié, et m'en demandait le sujet
 
-    DON JUAN
+    DON JUAN.
 Et quelle Réponse as-tu faite ?
 
-    SGANARELLE
+    SGANARELLE.
 Que vous ne m'en aviez rien dit.
 
-    DON JUAN
+    DON JUAN.
 Mais encore, quelle est ta pensée là-dessus, que t'imagines-tu de cette affaire ?
 
-    SGANARELLE
+    SGANARELLE.
 Moi ? je crois, sans vous faire tort, que vous avez quelque nouvel amour en tête.
 
-    DON JUAN
+    DON JUAN.
 Tu le crois ?
 
-    SGANARELLE
+    SGANARELLE.
 Oui.
 
-    DON JUAN
+    DON JUAN.
 Ma foi tu ne te trompes pas, et je dois t'avouer qu'un autre objet a chassé Done Elvire, de ma pensée.
 
-    SGANARELLE
+    SGANARELLE.
 Eh mon Dieu ! je sais mon Don Juan sur le bout du doigt, et connais votre cœur pour le plus grand coureur du monde ; il se plaît à se promener de lieux en lieux, et n'aime point à demeurer en place.
 
-    DON JUAN
+    DON JUAN.
 Et ne trouves-tu pas que j'ai raison d'en user de la sorte ?
 
-    SGANARELLE
+    SGANARELLE.
 Eh Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Quoi ? parle.
 
-    SGANARELLE
+    SGANARELLE.
 Assurément que vous avez raison, si vous le voulez. On ne peut pas aller là contre ; mais si vous ne le vouliez pas, ce serait peut-être une autre affaire.
 
-    DON JUAN
+    DON JUAN.
 Et bien, je te donne la liberté de parler, et de me dire tes sentiments.
 
-    SGANARELLE
+    SGANARELLE.
 En ce cas, Monsieur, je vous dirai franchement que je n'approuve point votre méthode, et que je trouve fort vilain d'aimer de tous côtés comme vous faites.
 
-    DON JUAN
+    DON JUAN.
 Quoi ? tu veux qu'on se lie à demeurer au premier objet qui nous prend, qu'on renonce au monde pour lui, et qu'on n'ait plus d'yeux pour personne ; la belle chose de vouloir se piquer d'un faux honneur, d'être fidèle, de s'ensevelir pour toujours dans une passion, et d'être mort dès sa jeunesse pour toutes les autres beautés qui nous peuvent frapper les yeux ; non non, la constance n'est bonne que pour des ridicules : toutes les belles ont droit de nous charmer, et l'avantage d'être rencontrée la première, ne doit point dérober aux autres les justes prétentions qu'elles ont toutes sur nos cœurs ; pour moi, la beauté me ravit partout où je la trouve, et je cède facilement à cette douce violence où elle nous entraine ; J'ai beau être engagé, l'amour que j'ai pour une belle n'engage point mon âme à faire une injustice aux autres ; Je conserve des yeux pour voir le mérite de toutes, et je rends à chacune les hommages et les tributs où la nature nous oblige ; quoi qu'il en soit je ne puis refuser mon cœur à tout ce que je vois d'aimable, et dès qu'un beau visage me le demande, si j'en avais dix mille, je les donnerais tous : les inclinations naissantes après tout ont des charmes inexplicables, et tout le plaisir de l'amour est dans le changement : on goûte une douceur extrême à réduire, par cent hommages, le cœur d'une jeune beauté, à voir de jour en jour les petits progrès qu'on fait, à combattre par des transports, par des larmes et des soupirs, l'innocente pudeur d'une âme qui a peine à rendre les armes, à forcer pied à pied toutes les petites résistances qu'elle nous oppose, à vaincre les scrupules dont elle se fait un honneur, et à la mener doucement où nous avons envie de la faire venir ; mais lorsqu'on est maître une fois, il n'y a plus rien à dire ni rien à souhaiter, tout le beau de la passion est fini, et nous nous endormons dans la tranquillité d'un tel amour, si quelque objet nouveau ne vient réveiller nos désirs, et présenter à notre cœur les charmes attrayants d'une conquête à faire ; enfin il n'est rien de si doux que de triompher de la résistance d'une belle personne, et j'ai sur ce sujet l'ambition des conquérants qui volent perpétuellement de victoire en victoire, et ne peuvent point se résoudre à borner leurs souhaits ; il n'est rien qui puisse arrêter l'impétuosité de mes désirs, je me sens porté à aimer toute la terre, et comme Alexandre je souhaiterais qu'il y eût d'autres mondes pour y pouvoir étendre mes conquêtes amoureuses.
 
-    SGANARELLE
+    SGANARELLE.
 Vertu de ma vie, comme vous débitez ; il semble que vous ayez appris par cœur cela, et vous parlez tout comme un Livre.
 
-    DON JUAN
+    DON JUAN.
 Qu'as tu à dire là-dessus.
 
-    SGANARELLE
+    SGANARELLE.
 Ma foi, j'ai à dire, et je ne sais que dire, car vous tournez les choses d'une manière qu'il semble que vous ayez raison, et cependant il est vrai que vous ne l'avez pas ; j'avais les plus belles pensées du monde, et vos discours m'ont brouillé tout cela : laissez faire, une autre fois je mettrai mes raisonnements par écrit, pour disputer avec vous.
 
-    DON JUAN
+    DON JUAN.
 Tu feras bien.
 
-    SGANARELLE
+    SGANARELLE.
 Mais Monsieur, cela serait-il de la permission que vous m'avez donnée, si je vous disais que je suis tant soit peu scandalisé de la vie que vous menez ?
 
-    DON JUAN
+    DON JUAN.
 Comment ? quelle vie est-ce que je mène ?
 
-    SGANARELLE
+    SGANARELLE.
 Fort bonne, mais par exemple je vous vois tous les mois vous marier comme vous faites.
 
-    DON JUAN
+    DON JUAN.
 Y a-t-il Rien de plus agréable ?
 
-    SGANARELLE
+    SGANARELLE.
 Il est vrai, je conçois que cela est fort agréable et fort divertissant, et je m'en accommoderais assez moi, s'il n'y avait point de mal ; mais Monsieur se jouer ainsi d'un mystère sacré et,
 
-    DON JUAN
+    DON JUAN.
 Va, c'est une affaire entre le Ciel et moi, et nous la démêlerons bien ensemble, sans que tu t'en mettes en peine.
 
-    SGANARELLE
+    SGANARELLE.
 Ma foi Monsieur, j'ai toujours ouï dire que c'est une méchante raillerie que se railler du Ciel, et que les libertins ne font jamais une bonne fin.
 
-    DON JUAN
+    DON JUAN.
 Holà maître sot, vous savez que je vous ai dit que je n'aime pas les faiseurs de remontrances.
 
-    SGANARELLE
+    SGANARELLE.
 Je ne parle pas aussi à vous, Dieu m'en garde, vous savez ce que vous faites, et si vous ne croyez rien vous avez vos raisons : il y a de certains petits impertinents dans le monde, qui sont libertins sans savoir pourquoi, qui font les esprits forts parce qu'ils croient que cela leur sied bien, et si j'avais un maître comme cela, je lui dirais fort nettement, le regardant en face, osez-vous bien ainsi vous jouer du Ciel, et ne tremblez-vous point de vous moquer comme vous faites des choses les plus saintes c'est bien à vous petit ver de terre, petit myrmidon que vous êtes (je parle au maître que j'ai dit) c'est bien à vous à vouloir vous mêler de tourner en raillerie ce que tous les hommes révèrent ; pensez-vous que pour être de qualité, pour avoir une perruque blonde et bien frisée, des plumes à votre chapeau, un habit bien doré, et des rubans couleur de feu (ce n'est pas à vous que je parle, c'est à l'autre) pensez-vous dis-je que vous en soyez plus habile homme, que tout vous soit permis et qu'on n'ose vous dire vos vérités ? apprenez de moi qui suis votre valet, que le Ciel punit tôt ou tard les impies, qu'une méchante vie amène une méchante mort et que…
 
-    DON JUAN
+    DON JUAN.
 Paix.
 
-    SGANARELLE
+    SGANARELLE.
 De quoi est-il question ?
 
-    DON JUAN
+    DON JUAN.
 Il est question de te dire qu'une jeune beauté me tient au cœur, et qu'entraîné par ses appas, je l'ai suivie jusque dans cette Ville.
 
-    SGANARELLE
+    SGANARELLE.
 Et n'y craignez-vous rien, Monsieur, de la mort de ce Commandeur que vous tuâtes il y a six mois ?
 
-    DON JUAN
+    DON JUAN.
 Et pourquoi craindre ? ne l'ai-je pas bien tué.
 
-    SGANARELLE
+    SGANARELLE.
 Fort bien, le mieux du monde, il aurait tort de s'en plaindre.
 
-    DON JUAN
+    DON JUAN.
 J'ai eu ma grâce de cette affaire.
 
-    SGANARELLE
+    SGANARELLE.
 Oui, mais cette grâce n'éteint pas peut-être le ressentiment des parents et des amis et…
 
-    DON JUAN
+    DON JUAN.
 Ah, n'allons point songer au mal qui nous peut arriver, et songeons seulement à ce qui peut nous donner du plaisir : la personne dont je te parle est une jeune fiancée, la plus agréable du monde, qui a été conduite ici par celui même qu'elle y vient épouser, et le hasard m'a fait voir le couple d'amants trois ou quatre jours avant leur voyage. Jamais je n'ai vu deux personnes être si contents l'un de l'autre, et faire éclater plus d'amour : la tendresse visible de leurs mutuelles ardeurs me donna de l'émotion, j'en fus frappé au cœur, et mon amour commença par la jalousie ; oui je ne pus souffrir d'abord de les voir si bien ensemble ; le dépit alluma mes désirs, et je me figurai un plaisir extrême à pouvoir troubler leur intelligence, et rompre cet attachement, dont la délicatesse de mon cœur se tenait offensé ; mais jusqu'ici tous mes efforts ont été inutiles, et j'ai recours au dernier remède ; cet Époux prétendu doit aujourd'hui régaler sa Maîtresse d'une promenade sur mer, sans avoir rien dit, toutes choses sont préparées pour satisfaire mon amour, et j'ai une petite barque et des gens, avec quoi fort facilement je prétends enlever la belle.
 
-    SGANARELLE
+    SGANARELLE.
 Ah Monsieur !
 
-    DON JUAN
+    DON JUAN.
 Hein.
 
-    SGANARELLE
+    SGANARELLE.
 C'est fort bien fait à vous, et vous le prenez comme il faut, il n'est rien tel en ce monde que de se contenter.
 
-    DON JUAN
+    DON JUAN.
 Prépare-toi donc à venir avec moi, et prends soin toi-même d'apporter toutes mes armes afin que… Ah rencontre fâcheuse ! traître tu ne m'avais pas dit qu'elle était ici elle-même.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur vous ne me l'aviez pas demandé.
 
-    DON JUAN
+    DON JUAN.
 Est-elle folle de n'avoir pas changé d'habit, et de venir dans ce lieu-ci avec son équipage de Campagne ?
 
 
-### Scène III
+### Scène III.
 Done Elvire, Don Juan, Sganarelle
 
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Me feriez-vous la grâce, Don Juan, de vouloir bien me reconnaître, et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ?
 
-    DON JUAN
+    DON JUAN.
 Madame je vous avoue que je suis surpris, et que je ne vous attendais pas ici.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Oui, je vois bien que vous ne m'attendiez pas, et vous êtes surpris à la vérité, mais tout autrement que je ne l'espérais, et la manière dont vous le paraissez me persuade pleinement ce que je refusais de croire ; j'admire ma simplicité, et la faiblesse de mon cœur, à douter d'une trahison que tant d'apparences me confirmaient : j'ai été assez bonne, je le confesse, ou plutôt assez sotte pour vouloir me tromper moi-même, et travailler à démentir mes yeux et mon jugement. J'ai cherché des raisons pour excuser à ma tendresse le relâchement d'amitié qu'elle voyait en vous, et je me suis forgé exprès cent sujets légitimes d'un départ si précipité, pour vous justifier du crime dont ma raison vous accusait. Mes justes soupçons, chaque jour, avaient beau me parler, j'en rejetais la voix qui vous rendait criminel à mes yeux, et j'écoutais avec plaisir mille chimères ridicules qui vous peignaient innocent à mon cœur ; mais enfin cet abord ne me permet plus de douter, et le coup d'œil qui m'a reçue m'apprend bien plus de choses que je ne voudrais en savoir : Je serai bien aise pourtant d'ouïr de votre bouche les Raisons de votre départ. Parlez Don Juan je vous prie, et voyons de quel air vous savez vous justifier.
 
-    DON JUAN
+    DON JUAN.
 Madame, voilà Sganarelle qui sait pourquoi je suis parti.
 
-    SGANARELLE
+    SGANARELLE.
 Oui Monsieur, je ne sais rien s'il vous plait.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Et bien Sganarelle, parlez, il n'importe de quelle bouche j'entende ces raisons.
 
-    DON JUAN
+    DON JUAN.
 Allons, parle donc à Madame.
 
-    SGANARELLE
+    SGANARELLE.
 Que voulez vous que je dise ;
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Approchez, puis qu'on le veut ainsi, et me dites un peu les causes de ce départ si prompt.
 
-    DON JUAN
+    DON JUAN.
 Tu ne répondras pas ?
 
-    SGANARELLE
+    SGANARELLE.
 Je n'ai rien à répondre, vous vous moquez de votre serviteur.
 
-    DON JUAN
+    DON JUAN.
 Veux tu répondre, te dis-je.
 
-    SGANARELLE
+    SGANARELLE.
 Madame.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Quoi.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Si…
 
-    SGANARELLE
+    SGANARELLE.
 Madame, les conquérants, Alexandre, et les autres mondes, sont causes de notre départ : voilà Monsieur tout ce que je puis dire.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Vous plaît-il, Don Juan, nous éclaircir ces beaux mystères.
 
-    DON JUAN
+    DON JUAN.
 Madame, à vous dire la vérité.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Ah, que vous savez mal vous défendre, pour un homme de Cour et qui doit être accoutumé à ces sortes de choses, j'ay pitié de vous voir la confusion que vous avez ; que ne vous armez-vous le front d'une noble effronterie ? que ne me jurez vous que vous êtes toujours dans les mêmes sentiments pour moi, que vous m'aimez toujours avec une ardeur sans égale, et que rien n'est capable de vous détacher de moi que la mort ? que ne me dites vous que des affaires de la dernière conséquence vous ont obligé à partir sans m'en donner avis, qu'il faut que malgré vous vous demeuriez ici quelque temps, et que je n'ai qu'à m'en retourner d'où je viens, assurée que vous suivez mes pas le plus tôt qu'il vous sera possible, puisque il est très certain que vous brulez de me rejoindre, et qu'éloigné de moi vous souffrez ce que souffre un corps qui est séparé de son âme ; voilà comme il faut vous défendre, et non pas être interdit comme vous êtes.
 
-    DON JUAN
+    DON JUAN.
 Je vous avoue, Madame, que je n'ai point le talent de dissimuler, et que je porte un cœur sincère, je ne vous dirai point que je suis toujours dans les mêmes sentiments pour vous, et que je brûle de vous rejoindre, puisqu'enfin il est assuré que je ne suis parti que pour vous fuir, non point pour les raisons que vous pouvez vous figurer, mais par un pur motif de conscience, et pour ne croire pas qu'avec vous davantage je puisse vivre sans péché ; il m'est venu des scrupules Madame, et j'ai ouvert les yeux de l'âme sur ce que je faisais, j'ai fait réflexion que pour vous épouser je vous ai dérobée à la clôture d'un convent, que vous avez rompu des vœux qui vous engageaient autre part, et que le Ciel est fort jaloux de ces sortes de choses. Le repentir m'a pris, et j'ai craint le courroux céleste ; j'ai cru que notre mariage n'était qu'un adultère déguisé, qu'il nous attirerait quelque disgrâce d'en haut, et qu'enfin je devais tâcher de vous oublier, et vous donner moyen de retourner à vos premières chaînes ; voudriez vous Madame vous opposer à une si sainte pensée ; et que j'allasse, en vous retenant, me mettre le Ciel sur les bras ? que pour…
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Ah scélérat, c'est maintenant que je te connais tout entier, et pour mon malheur je te connais lors qu'il n'en est plus temps, et qu'une telle connaissance ne peut plus me servir qu'à me désespérer ; mais sache que ton crime ne demeurera pas impuni, et que le même Ciel dont tu te joues, me saura venger de ta perfidie.
 
-    DON JUAN
+    DON JUAN.
 Sganarelle, le Ciel.
 
-    SGANARELLE
+    SGANARELLE.
 Vraiment oui, nous nous moquons bien de cela nous autres.
 
-    DON JUAN
+    DON JUAN.
 Madame.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Il suffit, je n'en veux pas ouïr davantage, et je m'accuse moi-même d'en avoir trop entendu, c'est une lâcheté que de se faire expliquer trop sa honte, et sur de tels sujets, un noble cœur, au premier mot, doit prendre son parti ; n'attends pas que j'éclate ici en reproche et en injures, non, non, je n'ai point un courroux à exhaler une parole vaine, et toute sa chaleur se réserve pour ma vengeance ; je te le dis encore, le Ciel te punira, perfide, de l'outrage que tu me fais, et si le Ciel n'a rien que tu puisses appréhender, appréhende au moins la colère d'une femme offensée.
 
-    SGANARELLE
+    SGANARELLE.
 Si le remords le pouvait prendre.
 
-    DON JUAN
+    DON JUAN.
 Allons songer à l'exécution de notre entreprise amoureuse.
 
-    SGANARELLE
+    SGANARELLE.
 Ah ! quel abominable Maître me vois-je obligé de servir.
 
 <Fin du Premier Acte.>
 
 
-## Acte Second
+## Acte Second.
 
 
-### Scène I
+### Scène I.
 Charlotte, Pierrot
 
 
-    CHARLOTTE
+    CHARLOTTE.
 Notre dinje, Piarrot, tu t'is trouvé là bien à point.
 
-    PIERROT
+    PIERROT.
 Porquisenne, il ne s'en est pas fallu l'épaisseur d'une épingle qu'ils ne se s'ayant noyés tou deu.
 
-    CHARLOTTE
+    CHARLOTTE.
 C'est donc le coup de vent d'amatin qui les avait renversés.
 
-    PIERROT
+    PIERROT.
 Aga, quien, Charlotte, je m'en vas te conter tout fin drai comme cela est venu ça, comme dit l'autre, je les ai le premier avisés, avisés le premier je les ai ; enfin donc j'équions sur le bord de la mar, mo et le gros Lucas, et je nous amusions à batifoler avé des mottes de tarre, que je nous jesquions à la tête ; car comme tu sais bian, le gros Lucas aime à batifoler, et moi per fois je batifole i tou ; en batifolant donc, pisque batifoler y a, j'ai aperçu de tout loin queuque chose qui grouillait dans glieau, et qui venait comme envars nous per secousse, je voyais ça fisiblement, et pis tout d'un coup je voyais que je ne voyais plus rien ; eh Lucas ! ç'ay je fait, je pense que vlà des hommes qui nageant là-bas ; voire ce m'a-t-il fait, t'as été au trepassement d'un chat, t'as la vue trouble ; pal sanguienne, ç'ai je fait, je n'ai point la vue trouble, ce sont des hommes ; point du tout ce m'a-t-il fait, t'as la barlue ; veux tu gager, ç'ai je fait, que je n'ai point la barlue, ç'ai je fait, et que ce sont des hommes, ç'ai je fait qui nageant drai ici, ç'ai je fait ; morguenne ce m'a-t-il fait, je gage que non ; o ça ç'ai je fait, veux tu gager dix sols que si ? je veux bian, ce m'a-t-il fait, et pour te montrer, vlà argent ser jeu, ce m'a-t-il fait ; moi je n'ai été ni fou ni étourdi, j'ai bravement bouté quatre pièces tapées et cinq sols en double, j'erniguenne, aussi hardiment que si j'avais avalé un vare de vin, car si hasardeux moi, et je vas à la débandade ; je savais bian ce que je faisais pourtant, queuque gniais : enfin donc je n'avais pas plutôt eu gagé, que j'avons vu les deux hommes tous à plein, qui nous faisians signe de les aller quérir, et moi d'hier auparavant les enjeux, allons Lucas, ç'ai-je dit, tu vois bian qu'ils nous appellent, allons viste à leur secours ; non ce m'a-t-il dit, ils m'ont fait pardre ; o dont tanquia, qu'à la parfin, pour le faire court, je l'ai tant sarmonné que je nous sommes boutés dans une barque, et pis j'avons tant fait, cahin caha, que je les avons tiré de gliau, et pis je les avons menés cheu nous, auprès du feu, et pis ils se sont dépouillés tous nus pour se sécher, et pis il y en est encor venu deux de la même bande, qui saguiant sauvés tout seul, et pis Mathurine est arrivée là, à qui l'on a fait les doux yeux ; vlà justement Charlotte comme tout ça s'est fait.
 
-    CHARLOTTE
+    CHARLOTTE.
 Ne m'as tu pas dit, Piarrot, qu'il y en a un qui est bian pu mieux fait que les autres.
 
-    PIERROT
+    PIERROT.
 Oui, c'est le Maître, il faut que ce soit queuque gros gros Monsieur, car il a du dor à son habit tout depis l'haut jusque en bas, et ceux qui le sarvant sont des Monsieurs eux-mesmes, et Stan pandant, tout gros Monsieur qu'il est, il serait per ma fegue nayé, si je n'avions esté là.
 
-    CHARLOTTE
+    CHARLOTTE.
 Ardez un peu.
 
-    PIERROT
+    PIERROT.
 O par guenne, sans nous, il en avait pour sa maine de feves.
 
-    CHARLOTTE
+    CHARLOTTE.
 Est il encore cheu toi tout nu, Piarrot ?
 
-    PIERROT
+    PIERROT.
 Nannain, ils l'avont rhabillé tout devant nous ; monquieu je n'en avais jamais vu s'habiller ; que d'histoires et d'angingorniaux boutont ces Monsieurs-là les courtisans, je me pardrais là dedans pour moi, et j'étais tout ebobi de voir ça ; quien Charlotte, ils avont des cheveux qui ne tenont point à leu teste, et ils boutont ça après tout comme un gros bonnet de filace, ils ant des chemises qui ant des manches ou j'entrerais tout brandis toi et moi ; en glieu d'haut de chausse ils portont un garde-robe aussi large que d'ici à pasque ; en glieu de pourpoint de petites brasières qui ne leur venont pas jusqu'au brichet, et en glieu de rabat un grand mouchoir de cou à reziau avec quatre grosses houpes de linge qui leu pendont ser l'estoumaque ; ils avont itou d'autres petis rabat au bout des bras, et de grands antonoirs de passement aux jambes, et parmi tout ça tant de ribans, tant de ribans, que c'est une vraie piquié ; ignia pas jusqu'aux souliez qui n'en soyont farcy tout depis un bout jusqu'à l'autre, et ils sont faits d'une façon que je me romperais le cou au cul.
 
-    CHARLOTTE
+    CHARLOTTE.
 Perma fi, Piarrot, il faut que j'aille veor en peu ça.
 
-    PIERROT
+    PIERROT.
 O, acoute un peu auparavant Charlotte, j'ai queuque autre à te dire moi.
 
-    CHARLOTTE
+    CHARLOTTE.
 Et bian, dis, qu'est que c'est ?
 
-    PIERROT
+    PIERROT.
 Vois tu, Charlotte, il faut comme dit l'autre que je débonde mon cœur, je t'ayme, tu le sais bian, et je sommes pour être mariés ensemble, mais, morguenne, je ne suis point satisfait de toi.
 
-    CHARLOTTE
+    CHARLOTTE.
 Quemant ? qu'est ce que c'est donc qu'il y glia ?
 
-    PIERROT
+    PIERROT.
 Il y glia, que tu me chagraines l'esprit franchement.
 
-    CHARLOTTE
+    CHARLOTTE.
 Et quemant donc ?
 
-    PIERROT
+    PIERROT.
 Teste quienne, tu ne m'aimes point.
 
-    CHARLOTTE
+    CHARLOTTE.
 Ah Ah, n'est-ce que ça ?
 
-    PIERROT
+    PIERROT.
 Oui ce n'est que ça, et c'est bian assez.
 
-    CHARLOTTE
+    CHARLOTTE.
 Monguieu, Piarrot, tu me viens toujou dire la même chose.
 
-    PIERROT
+    PIERROT.
 Je te dis toujou la même chose, parce que c'est toujou la même chose, et si ce n'était pas toujou la même chose, je ne te dirais pas toujou la même chose.
 
-    CHARLOTTE
+    CHARLOTTE.
 Mais qu'est-ce qu'il te faut ? que veux tu ?
 
-    PIERROT
+    PIERROT.
 Jerniguienne je veux que tu m'aimes.
 
-    CHARLOTTE
+    CHARLOTTE.
 Est ce que je ne t'aime pas ?
 
-    PIERROT
+    PIERROT.
 Non tu ne m'aimes pas, et si je fais tout ce que je pis pour ça, je t'ajette sans reproche des rubans à tous ces marciers qui passont, je me romps le cou à t'aller dénicher des marles, je fais jouer pour toi les vielloux quand ce vient ta feste, et tout ça comme si je me frappais la tête contre un mur ; vois-tu, c'a n'est ni biau ni honeste de n'aimer pas les gens qui nous aimant.
 
-    CHARLOTTE
+    CHARLOTTE.
 Mais mon guieu, je t'aime aussi.
 
-    PIERROT
+    PIERROT.
 Ouy, tu m'aimes d'une belle deguaine.
 
-    CHARLOTTE
+    CHARLOTTE.
 Quemant veux tu donc qu'on fasse ;
 
-    PIERROT
+    PIERROT.
 Je veux que l'on fasse comme l'on fait quand l'on aime comme il faut.
 
-    CHARLOTTE
+    CHARLOTTE.
 Ne t'aimé-je pas aussi comme il faut.
 
-    PIERROT
+    PIERROT.
 Non, quand ça est, ça se voit, et l'on fait mille petites singeries aux personnes, quand on les aime du bon du cœur : regarde la grosse Tomasse comme elle assotie du jeune Robain, alle est toujou entour de ly à l'agacer, et ne le laisse jamais en repos, toujou elle y fait queuque niche, ou ly baille queuque taloche en passant ; et l'autre jou, qu'il était assis sur un escabeau, al fut le tirer dessous ly et le fit choir tout de son long par tarre ; jarny vla où l'on voit les gens qui aimant, mais toi tu ne me dis jamais mot, t'es toujou là comme une vraie souche de bois, et je passerois vingt fois devant toi que tu ne te grouillerais pas pour me bailler le moindre coup, ou me dire la moindre chose, ventre guienne ça n'est pas bian apres tout, et t'es trop froide pour les gens.
 
-    CHARLOTTE
+    CHARLOTTE.
 Enfin que veux-tu que je fasse ? c'est mon humeur, et je ne pis pas me refondre.
 
-    PIERROT
+    PIERROT.
 Ignia humeur qui guienne, quand on a de l'amiquié pour les personnes, l'on en baille toujou queuque petite signifiance.
 
-    CHARLOTTE
+    CHARLOTTE.
 Enfin je t'aime tout autant que je pis, si tu n'es pas content de ça, tu n'as qu'à en aimer queuque autre.
 
-    PIERROT
+    PIERROT.
 Eh bien vla pas mon conte, testiquié si tu m'aimais me dirais-tu ça ?
 
-    CHARLOTTE
+    CHARLOTTE.
 Pourquoi me viens-tu tarabuster l'esprit.
 
-    PIERROT
+    PIERROT.
 Morgué que mal te fais-je ? je ne te demande qu'un peu pus damiquié.
 
-    CHARLOTTE
+    CHARLOTTE.
 Et bien laisse faire aussi, et ne me presse point tant, peut-être que ça viendra tout d'un coup sans y songer.
 
-    PIERROT
+    PIERROT.
 Touche donc là Charlotte.
 
-    CHARLOTTE
+    CHARLOTTE.
 Et bien, quien.
 
-    PIERROT
+    PIERROT.
 Promets-moi que tu tâcheras de m'aimer davantage.
 
-    CHARLOTTE
+    CHARLOTTE.
 J'y ferai tout ce que je pourrai ; mais il faut que ça vienne de lui-même ; Piarrot, est-ce là Monsieur.
 
-    PIERROT
+    PIERROT.
 Oui, le vla.
 
-    CHARLOTTE
+    CHARLOTTE.
 Ah mon quieu, qu'il est gentis, et que c'aurait été dommage qu'il eût été nayé !
 
-    PIERROT
+    PIERROT.
 Je revians à l'heure, je m'en vas boire chopaine pour me rebouter tent soit peu de la fatigue que j'ai eu.
 
 
-### Scène II
+### Scène II.
 Don Juan, Sganarelle, Charlotte
 
 
-    DON JUAN
+    DON JUAN.
 Nous avons manqué notre coup Sganarelle, et cette bourrasque imprévue a renversé, avec notre barque, le projet que nous avions fait ; mais à te dire vrai la paysanne que je viens de quitter répare ce malheur, et je lui ai trouvé des charmes qui effacent de mon esprit tout le chagrin que me donnait le mauvais succès de notre entreprise ; il ne faut pas que ce cœur m'échappe, et j'y ai déjà jeté des dispositions à ne me pas souffrir de pousser longtemps des soupirs.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur j'avoue que vous m'étonnez, à présent que nous sommes échappés d'un péril de mort, qu'au lieu de rendre grâce au ciel de la peine qu'il a daigné prendre de nous, vous travaillez tout de nouveau à vous attirer sa colère par vos fantaisies accoutumées et vos amours cr… paix, coquin que vous êtes, vous ne savez ce que vous dites, et Monsieur sait ce qu'il fait, allons
 
-    DON JUAN
+    DON JUAN.
 Ah ah, d'où sort cette autre Paysanne ? Sganarelle as-tu rien vu de plus joli, et ne trouves tu pas, dis-moi, que celle-ci vaut bien l'autre ?
 
-    SGANARELLE
+    SGANARELLE.
 Assurément. Autre pièce nouvelle.
 
-    DON JUAN
+    DON JUAN.
 D'où me vient, la belle, une rencontre si agréable ? quoi, dans ces lieux champêtres, parmi ces arbres, et ces Rochers, on trouve des personnes faites comme vous êtes ?
 
-    CHARLOTTE
+    CHARLOTTE.
 Vous voyez Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Êtes-vous de ce Village ?
 
-    CHARLOTTE
+    CHARLOTTE.
 Oui Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Et vous y demeurez ?
 
-    CHARLOTTE
+    CHARLOTTE.
 Oui Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Vous vous appellez.
 
-    CHARLOTTE
+    CHARLOTTE.
 Charlotte pour vous servir.
 
-    DON JUAN
+    DON JUAN.
 Ah la belle personne, et que ses yeux sont pénétrants !
 
-    CHARLOTTE
+    CHARLOTTE.
 Monsieur vous me rendez toute honteuse.
 
-    DON JUAN
+    DON JUAN.
 Ah n'ayez point de honte d'entendre dire vos vérités. Sganarelle qu'en dis tu ? peut on rien voir de plus agréable ? tournez-vous un peu s'il vous plaît ; ah que cette taille est jolie ! haussez un peu la tête de grâce. ah que ce visage est mignon ! ouvrez vos yeux entièrement, ah qu'ils sont beaux ! que je voie un peu vos dents, je vous prie. Ah qu'elles sont amoureuses, et ces lèvres appétissantes ! pour moi je suis ravi, et je n'ai jamais veu une si charmante personne.
 
-    CHARLOTTE
+    CHARLOTTE.
 Monsieur, cela vous plaît à dire, et je ne sais pas si c'est pour vous railler de moi.
 
-    DON JUAN
+    DON JUAN.
 Moi, me railler de vous, Dieu m'en garde, je vous aime trop pour cela, c'est du fond du cœur que je vous parle.
 
-    CHARLOTTE
+    CHARLOTTE.
 Je vous suis bien obligée si cela est.
 
-    DON JUAN
+    DON JUAN.
 Point du tout, vous ne m'êtes point obligée de tout ce que je dis, et ce n'est que à votre beauté que vous en êtes redevable.
 
-    CHARLOTTE
+    CHARLOTTE.
 Monsieur, tout ça est trop bien dit pour moi, et je n'ai pas d'esprit pour vous répondre.
 
-    DON JUAN
+    DON JUAN.
 Sganarelle, regarde un peu ses mains.
 
-    CHARLOTTE
+    CHARLOTTE.
 Fi, Monsieur, elles sont noires comme je ne sais quoi.
 
-    DON JUAN
+    DON JUAN.
 Ah que dites vous là ? elles sont les plus belles du monde, souffrez que je les baise, je vous prie.
 
-    CHARLOTTE
+    CHARLOTTE.
 Monsieur, c'est trop d'honneur que vous me faites, et si j'avais su ça tantôt je n'aurais pas manqué de les laver avec du son.
 
-    DON JUAN
+    DON JUAN.
 Et dites-moi un peu, belle Charlotte, vous n'êtes pas mariée sans doute ?
 
-    CHARLOTTE
+    CHARLOTTE.
 Non Monsieur, mais je dois bien l'être avec Piarrot, le fils de la voisine Simonette.
 
-    DON JUAN
+    DON JUAN.
 Quoi ! une personne comme vous seriez la femme d'un simple Paysan ? non, non, c'est profaner tant de beauté, et vous n'êtes pas née pour demeurer dans un Village ; vous méritez sans doute une meilleure fortune, et le Ciel qui le connaît bien m'a conduit ici tout exprès pour empêcher ce mariage, et rendre justice à vos charmes ; car enfin, belle Charlotte, je vous aime de tout mon cœur, et il ne tiendra qu'à vous que je ne vous arrache de ce lieu misérable, et ne vous mette dans l'état où vous méritez d'être ; cet amour est bien prompt sans doute ; mais quoi ! c'est un éclat, Charlotte, de votre grande beauté, et l'on vous aime autant en un quart d'heure qu'on ferait une autre en six mois.
 
-    CHARLOTTE
+    CHARLOTTE.
 Aussi vrai, Monsieur, je ne sais comment vous faites quand vous parlez, ce que vous dites me fait aise, et j'aurais toutes les envies du monde de vous croire, mais on m'a toujours dit qu'il ne faut jamais croire les Monsieurs, et que vous autres Courtisans vous êtes des enjôleurs qui ne songez qu'à abuser les filles.
 
-    DON JUAN
+    DON JUAN.
 Je ne suis pas de ces gens-là.
 
-    SGANARELLE
+    SGANARELLE.
 Il n'a garde.
 
-    CHARLOTTE
+    CHARLOTTE.
 Voyez-vous, Monsieur, il n'y a pas plaisir à se laisser abuser : je suis une pauvre paysanne, mais j'ai l'honneur en recommandation, et j'aimerais mieux me voir morte que de me voir déshonorée.
 
-    DON JUAN
+    DON JUAN.
 Moi j'aurais l'âme assez méchante pour abuser une personne comme vous ? je serais assez lâche pour vouloir vous déshonorer ? non, non, j'ai trop de conscience pour cela ; je vous aime Charlotte en tout bien et en tout honneur, et pour vous montrer que je vous dis vrai, sachez que je n'ai point d'autre dessein que de vous épouser. En voulez vous un plus grand témoignage ? m'y voilà prêt quand vous voudrez, et je prends à témoin l'homme que voilà de la parole que je vous donne.
 
-    SGANARELLE
+    SGANARELLE.
 Non, non, ne craignez point, il se mariera avec vous tant que vous voudrez.
 
-    DON JUAN
+    DON JUAN.
 Eh Charlotte, je vois bien que vous ne me connaissez pas encore, vous me faites grand tort de juger de moi par les autres ; et s'il y a des fourbes dans le monde, des gens qui ne cherchent qu'à abuser des filles, vous devez me tirer du nombre, et ne pas mettre en doute la sincérité de ma foi ; et puis votre beauté vous assure de tout ; quand on est faite comme vous, on doit être à couvert de toutes ces sortes de créances ; vous n'avez point l'air, croyez-moi, d'une personne qu'on abuse, et pour moi, je vous l'avoue, je me percerais le cœur de mille coups si j'avais eu la moindre pensée de vous trahir.
 
-    CHARLOTTE
+    CHARLOTTE.
 Mon Dieu, je ne sais si vous dites vrai ou non, mais vous faites que l'on vous croie.
 
-    DON JUAN
+    DON JUAN.
 Lorsque vous me croyez, vous me rendez justice assurément, et je vous réitère encore la promesse que je vous ai faite, ne la croyez-vous pas ? et ne voulez-vous pas consentir à être ma femme ?
 
-    CHARLOTTE
+    CHARLOTTE.
 Oui, pourvu que ma tante le veuille.
 
-    DON JUAN
+    DON JUAN.
 Touchez donc là, Charlotte, que vous le voulez donc bien de votre part.
 
-    CHARLOTTE
+    CHARLOTTE.
 Mais au moins Monsieur, ne m'y allez pas tromper je vous prie, il y aurait de la conscience à vous, et vous voyez comme j'y vais à la bonne foi.
 
-    DON JUAN
+    DON JUAN.
 Comment, il semble que vous doutiez encore de ma sincérité ! voulez-vous que je vous fasse des serments épouvantables ? que le Ciel.
 
-    CHARLOTTE
+    CHARLOTTE.
 Mon Dieu ! ne jurez point, je vous crois.
 
-    DON JUAN
+    DON JUAN.
 Donnez-moi donc un petit baiser pour gage de votre parole.
 
-    CHARLOTTE
+    CHARLOTTE.
 Oh, Monsieur ! attendez que je soyons mariées, je vous prie, après ça je vous baiserai tant que vous voudrez.
 
-    DON JUAN
+    DON JUAN.
 Et bien, belle Charlotte, je veux tout ce que vous voulez, abandonnez-moi seulement votre main, et souffrez, que par cent baisers je lui exprime le ravissement où je suis.
 
 
-### Scène III
+### Scène III.
 Don Juan, Sganarelle, Pierrot, Charlotte
 
 
-    PIERROT
+    PIERROT.
 Tout doucement Monsieur, tenez-vous s'il vous plaît, vous vous échauffez trop, et vous pourriez gagner la puresie.
 
-    DON JUAN
+    DON JUAN.
 Qui m'amène cet Impertinent ?
 
-    PIERROT
+    PIERROT.
 Je vous dis que vous tgnais, et que vous ne caressiez point nos accordées.
 
-    DON JUAN *le poussant.*
+    DON JUAN *le poussant.*.
 Ah que de bruit.
 
-    PIERROT
+    PIERROT.
 Jerniguenne, ce n'est pas comme ça qu'il faut pousser les gens.
 
-    CHARLOTTE
+    CHARLOTTE.
 Et laisse le faire aussi Piarrot.
 
-    PIERROT
+    PIERROT.
 Quement, que je laisse faire ? je ne veux pas moi.
 
-    DON JUAN
+    DON JUAN.
 Ah !
 
-    PIERROT
+    PIERROT.
 Testequenne, parce que vous êtes… vous viendrez caresser nos femmes à notre barbe, allez v's-en caresser les vôtres.
 
-    DON JUAN
+    DON JUAN.
 Heu.
 
-    PIERROT
+    PIERROT.
 Heu testiqué ne me frappez pas, ah jernigué, ventregué, pal sangué, morguenne, ça n'est pas bien de battre les gens, et ce n'est pas la récompense de vous avoir sauvé d'être nayé.
 
-    CHARLOTTE
+    CHARLOTTE.
 Piarrot ne te fâche point…
 
-    PIERROT
+    PIERROT.
 Je me veux fâcher, et t'es une vilaine, toi, d'endurer qu'on te caresse.
 
-    CHARLOTTE
+    CHARLOTTE.
 Oh Piarrot, ce n'est pas ce que tu penses, ce Monsieur veut m'épouser, et tu ne dois pas te bouter en colère.
 
-    PIERROT
+    PIERROT.
 Quement, jerny, tu renies promesse !
 
-    CHARLOTTE
+    CHARLOTTE.
 Ça n'y fait rien, Piarrot, si tu m'aimes ne dois-tu pas être bien aise que je devienne Madame ?
 
-    PIERROT
+    PIERROT.
 Jernigué non, j'aime mieux te voir crever, que de te voir à un autre.
 
-    CHARLOTTE
+    CHARLOTTE.
 Va va Pierrot, ne te mets point en peine, si je sis Madame je te ferai gagner queuque chose, et tu apporteras du beurre et du fromage cheu nous.
 
-    PIERROT
+    PIERROT.
 Ventreguenne je gny en porterai jamais, quand tu m'y en payerais deux fois autant ; est-ce donc comme ça que t'écoute ce qu'il te dit ? morguenne si j'avois su ça tantôt, je me serais bien gardé de le tirer de gliau, et je ly aurois bailli un bon coup d'aviron sur la tête.
 
-    DON JUAN
+    DON JUAN.
 Qu'est-ce que vous dites ?
 
-    PIERROT *s'éloignant.*
+    PIERROT *s'éloignant.*.
 Jerniguenne, je ne crains personne.
 
-    DON JUAN
+    DON JUAN.
 Attends-moi un peu.
 
-    PIERROT
+    PIERROT.
 Je me moque de tout, moi.
 
-    DON JUAN
+    DON JUAN.
 Voyons cela.
 
-    PIERROT
+    PIERROT.
 J'en avons bien vu d'autres.
 
-    DON JUAN
+    DON JUAN.
 Houais.
 
-    SGANARELLE
+    SGANARELLE.
 Eh Monsieur, laissez là ce pauvre misérable, c'est conscience de le battre ; écoute mon pauvre garçon, retire-toi et ne lui dis rien.
 
-    PIERROT
+    PIERROT.
 Je veux lui dire, moi.
 
-    DON JUAN *donnant un soufflet à Sganarelle qu'il croit donner à Pierrot.*
+    DON JUAN *donnant un soufflet à Sganarelle qu'il croit donner à Pierrot.*.
 Ah je vous apprendrai.
 
-    SGANARELLE *regardant Pierrot qui s'est baissé pour éviter le coup.*
+    SGANARELLE *regardant Pierrot qui s'est baissé pour éviter le coup.*.
 Peste soit du maroufle.
 
-    DON JUAN
+    DON JUAN.
 Te voilà payé de ta charité.
 
-    PIERROT
+    PIERROT.
 Jarny, je vas dire à ta tante tout ce ménage-ci.
 
-    DON JUAN
+    DON JUAN.
 Enfin je m'en vais être le plus heureux de tous les hommes, et je ne changerais pas mon bonheur à toutes les choses du monde : que de plaisirs, que de plaisirs, quand vous serez ma femme, et que !
 
 
-### Scène IV
+### Scène IV.
 Don Juan, Mathurine, Charlotte, Sganarelle
 
 
-    SGANARELLE
+    SGANARELLE.
 Ah, ah.
 
-    MATHURINE
+    MATHURINE.
 Monsieur, que faites vous donc là avec Charlotte, est-ce que vous lui parlez d'amour aussi ?
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Non, au contraire c'est elle qui me témoignait vouloir être ma femme, et je lui répondais que j'étais engagé à vous.
 
-    CHARLOTTE
+    CHARLOTTE.
 Qu'est-ce que c'est donc que vous veut Mathurine ?
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 Elle est jalouse de me voir vous parler, et voudrait bien que je l'épousasse, mais je lui ai dit que c'est vous que je veux.
 
-    MATHURINE
+    MATHURINE.
 Quoi Charlotte ?
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Tout ce que vous lui direz sera inutile, elle s'est mis cela en la tête.
 
-    CHARLOTTE
+    CHARLOTTE.
 Quement donc Mathurine ?
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 C'est en vain que vous lui parlerez, vous ne lui ôterez pas cette fantaisie.
 
-    MATHURINE
+    MATHURINE.
 Est-ce que.
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Il n'y a pas moyen de lui faire entendre raison.
 
-    CHARLOTTE
+    CHARLOTTE.
 Je voudrais.
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 Elle est obstinée comme tous les Diables.
 
-    MATHURINE
+    MATHURINE.
 Vremant.
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Ne lui dites rien, c'est une folle.
 
-    CHARLOTTE
+    CHARLOTTE.
 Je pense.
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 Laissez-la là, c'est une extravagante.
 
-    MATHURINE
+    MATHURINE.
 Non non, il faut que je lui parle.
 
-    CHARLOTTE
+    CHARLOTTE.
 Je veux voir un peu ses raisons.
 
-    MATHURINE
+    MATHURINE.
 Quoi ?
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Je gage qu'elle vous dira que je lui ai promis de l'épouser.
 
-    CHARLOTTE
+    CHARLOTTE.
 Je.
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 Gageons qu'elle vous soutiendra que je lui ai donné parole de la prendre pour femme.
 
-    MATHURINE
+    MATHURINE.
 Holà, Charlotte, ça n'est pas bien de courir sur le marché des autres.
 
-    CHARLOTTE
+    CHARLOTTE.
 Ça n'est pas honnête, Mathurine, d'être jalouse que Monsieur me parle.
 
-    MATHURINE
+    MATHURINE.
 C'est moi que Monsieur a vu la première.
 
-    CHARLOTTE
+    CHARLOTTE.
 S'il vous a vu la première, il m'a vu la seconde, et m'a promis de m'épouser.
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Eh bien, que vous ai-je dit ?
 
-    MATHURINE
+    MATHURINE.
 Je vous baise les mains, c'est moi, et non pas vous qu'il a promis d'épouser.
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 N'ai-je pas deviné.
 
-    CHARLOTTE
+    CHARLOTTE.
 À d'autres je vous prie, c'est moi vous dis-je, vous vous moquez des gens, c'est moi encor un coup.
 
-    MATHURINE
+    MATHURINE.
 Le vlà qui est pour me démentir si je ne dis pas vrai.
 
-    CHARLOTTE
+    CHARLOTTE.
 Est-ce Monsieur que vous lui aviez promis de l'épouser ?
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 Vous vous raillez de moi.
 
-    MATHURINE
+    MATHURINE.
 Est-il vrai Monsieur que vous ly ayez donné parole d'être son mari ?
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Pouvez vous avoir cette pensée.
 
-    CHARLOTTE
+    CHARLOTTE.
 Vous voyez qu'al le soutient.
 
-    DON JUAN *à Charlotte*
+    DON JUAN *à Charlotte*.
 Laissez la faire.
 
-    MATHURINE
+    MATHURINE.
 Vous êtes témoin comme al l'asseure.
 
-    DON JUAN *à Mathurine*
+    DON JUAN *à Mathurine*.
 Laissez la dire.
 
-    CHARLOTTE
+    CHARLOTTE.
 Non non, il faut savoir la vérité.
 
-    MATHURINE
+    MATHURINE.
 Il est question de juger ça.
 
-    CHARLOTTE
+    CHARLOTTE.
 Oui, Mathurine, je veux que Monsieur vous montre votre bec jaune.
 
-    MATHURINE
+    MATHURINE.
 Oui Charlotte, je veux que Monsieur vous rende un peu camuse.
 
-    CHARLOTTE
+    CHARLOTTE.
 Monsieur, videz la querelle s'il vous plaît.
 
-    MATHURINE
+    MATHURINE.
 Mettez-nous d'accord Monsieur.
 
-    CHARLOTTE *à Mathurine*
+    CHARLOTTE *à Mathurine*.
 Vous allez voir.
 
-    MATHURINE *à Charlotte*
+    MATHURINE *à Charlotte*.
 Vous allez voir vous-même.
 
     CHARLOTTE*à Don Juan*.
 Perlez.
 
-    MATHURINE *à Don Juan.*
+    MATHURINE *à Don Juan.*.
 Perlez.
 
-    DON JUAN
+    DON JUAN.
 Que voulez-vous que je vous dise, vous soutenez également toutes deux que je vous ai promis de vous prendre pour femmes, est-ce que chacune de vous ne sait pas ce qui en est, sans qu'il soit nécessaire que je m'explique davantage. Pourquoi m'obliger là-dessus à des redites ? celle à qui j'ai promis effectivement n'a-t-elle pas en elle-même de quoi se moquer des discours de l'autre, et doit-elle se mettre en peine, pourvu que j'accomplisse ma promesse ? tous les discours n'avancent point les choses, il faut faire et non pas dire, et les effets décideront mieux que les paroles ; aussi n'est-ce rien que par là que je veux vous mettre d'accord, et l'on verra quand je me marierai laquelle des deux a mon cœur ;
 à Mathurine :
 
@@ -897,1200 +897,1200 @@ tous les visages sont laids auprès du vôtre.
 
 on ne peut plus souffrir les autres quand on vous a vue. J'ai un petit ordre à donner, je viens vous retrouver dans un quart d'heure.
 
-    CHARLOTTE*à Mathurine*
+    CHARLOTTE*à Mathurine*.
 Je suis celle qu'il aime au moins.
 
-    MATHURINE
+    MATHURINE.
 C'est moi qu'il épousera.
 
-    SGANARELLE
+    SGANARELLE.
 Ah ! Pauvres filles que vous êtes, j'ai pitié de votre innocence, et je ne puis souffrir de vous voir courir à votre malheur ; croyez-moy l'une et l'autre, ne vous amusez point à tous les contes qu'on vous fait, et demeurez dans votre village.
 
     DON JUAN *revenant*.
 Je voudrais bien savoir pourquoi Sganarelle ne me suit pas.
 
-    SGANARELLE
+    SGANARELLE.
 Mon Maître est un fourbe, il n'a dessein que de vous abuser, et en a bien abusé d'autres, c'est l'épouseur du genre humain, et (il aperçoit Don Juan) cela est faux, et quiconque vous dira cela, vous lui devez dire qu'il en a menti, mon Maître n'est point l'épouseur du genre humain ; Il n'est point fourbe, n'a pas dessein de vous tromper, et n'en a point abusé d'autres ; ah tenez le voilà, demandez-le plutôt à lui-même.
 
-    DON JUAN
+    DON JUAN.
 Oui.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur comme le monde est plein de médisances, je vais au-devant des choses, et je leur disais que si quelqu'un leur venait dire du mal de vous, elles se gardassent bien de le croire, et ne manquassent pas de lui dire qu'il en avait menti.
 
-    DON JUAN
+    DON JUAN.
 Sganarelle.
 
-    SGANARELLE
+    SGANARELLE.
 Oui, Monsieur est homme d'honneur, je le garantis tel.
 
-    DON JUAN
+    DON JUAN.
 Hon.
 
-    SGANARELLE
+    SGANARELLE.
 Ce sont des Impertinents.
 
 
-### Scène V
+### Scène V.
 Don Juan, La Ramée, Charlotte, Mathurine, Sganaralle
 
 
-    LA RAMÉE
+    LA RAMÉE.
 Monsieur je viens vous avertir qu'il ne fait pas bon ici pour vous.
 
-    DON JUAN
+    DON JUAN.
 Comment ?
 
-    LA RAMÉE
+    LA RAMÉE.
 Douze hommes à cheval vous cherchent, qui doivent arriver ici dans un moment ; je ne sais pas par quel moyen ils peuvent vous avoir suivi, mais j'ai appris cette nouvelle d'un paysan qu'ils ont interrogé, et auquel ils vous ont dépeint ; l'affaire presse, et le plutôt que vous pourrez sortir d'ici sera le meilleur.
 
-    DON JUAN *à Charlotte et à Mathurine*
+    DON JUAN *à Charlotte et à Mathurine*.
 Une affaire pressante m'oblige de partir d'ici, mais je vous prie de vous ressouvenir de la parole que je vous ai donnée, et de croire que vous aurez de mes nouvelles, avant qu'il soit demain au soir ; Comme la partie n'est pas égale, il faut user de stratagème et éluder adroitement le malheur qui me cherche, je veux que Sganarelle se vête de mes habits et moi…
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur vous vous moquez, m'exposer à être tué sous vos habits et…
 
-    DON JUAN
+    DON JUAN.
 Allons vite, c'est trop d'honneur que je vous fais, et bien heureux est le valet qui peut avoir la gloire de mourir pour son Maître.
 
-    SGANARELLE
+    SGANARELLE.
 Je vous remercie d'un tel honneur. Ô Ciel puisqu'il s'agit de mort, fais-moi la grâce de n'être point pris pour un autre.
 
 <Fin du Second Acte.>
 
 
-## Acte Troisième
+## Acte Troisième.
 
 
-### Scène I
+### Scène I.
 Don Juan, Sganarelle
 
 
-    SGANARELLE
+    SGANARELLE.
 Ma foi Monsieur, avouez que j'ai eu raison, et que nous voilà l'un et l'autre déguisés à merveille, votre premier dessein n'était point du tout à propos, et ceci nous cache bien mieux que tout ce que vous vouliez faire.
 
-    DON JUAN
+    DON JUAN.
 Il est vrai que te voilà bien, et je ne sais où tu as été déterrer cet attirail ridicule.
 
-    SGANARELLE
+    SGANARELLE.
 Oui, c'est l'habit d'un vieux Médecin qui a été laissé en gage au lieu où je l'ai pris et il m'en a coûté de l'argent pour l'avoir. Mais savez-vous, Monsieur, que cet habit me met déjà en considération, que je suis salué des gens que je rencontre, et que l'on vient me consulter ainsi qu'un habile homme.
 
-    DON JUAN
+    DON JUAN.
 Comment donc ?
 
-    SGANARELLE
+    SGANARELLE.
 Cinq ou six Paysans ou Paysannes, en me voyant passer, me sont venus demander mon avis sur différentes maladies.
 
-    DON JUAN
+    DON JUAN.
 Tu leur as répondu, que tu n'y entendais rien.
 
-    SGANARELLE
+    SGANARELLE.
 Moi, point du tout, j'ai voulu soutenir l'honneur de mon habit, j'ai raisonné sur le mal, et leur ai fait ordonnance à chacun.
 
-    DON JUAN
+    DON JUAN.
 Et quels remèdes encore leur as-tu ordonnés ?
 
-    SGANARELLE
+    SGANARELLE.
 Ma foi, Monsieur, j'en ai pris par où j'en ai pu attraper, j'ai fait mes ordonnances à l'aventure, et ce serait une chose plaisante si ces malades guérissaient, et qu'on me vînt remercier.
 
-    DON JUAN
+    DON JUAN.
 Et pourquoi non, par quelle raison n'aurais-tu pas les mêmes privilèges qu'ont tous les autres Médecins ? Ils n'ont pas plus de part que toi aux guérisons des malades, et tout leur art est pure grimace, ils ne font rien que recevoir la gloire des heureux succès, et tu peux profiter comme eux du bonheur du malade, et voir attribuer à tes remèdes tout ce qui peut venir des faveurs du hasard, et des forces de la nature.
 
-    SGANARELLE
+    SGANARELLE.
 Comment Monsieur, vous êtes aussi impie en Médecine.
 
-    DON JUAN
+    DON JUAN.
 C'est une des grandes erreurs qui soit parmi les hommes.
 
-    SGANARELLE
+    SGANARELLE.
 Quoi ! vous ne croyez pas au Séné, ni à la Casse, au Vin émétique ?
 
-    DON JUAN
+    DON JUAN.
 Et pourquoi veux-tu que j'y croie ?
 
-    SGANARELLE
+    SGANARELLE.
 Vous avez l'âme bien méchante, cependant vous voyez depuis un temps que le Vin émétique fait bruire ses fuseaux, ses miracles ont converti les plus incrédules esprits, et il n'y a pas trois semaines que j'en ai vu, moi qui vous parle, un effet merveilleux.
 
-    DON JUAN
+    DON JUAN.
 Et quel ?
 
-    SGANARELLE
+    SGANARELLE.
 Il y avait un homme qui depuis six jours était à l'agonie. On ne savait plus que lui ordonner, et tous les remèdes ne faisaient rien ; on s'avisa à la fin de lui donner de l'émétique.
 
-    DON JUAN
+    DON JUAN.
 Il réchappa ?
 
-    SGANARELLE
+    SGANARELLE.
 Non, il mourut.
 
-    DON JUAN
+    DON JUAN.
 L'effet est admirable.
 
-    SGANARELLE
+    SGANARELLE.
 Mais laissons-là la Médecine, où vous ne croyez point, et parlons des autres choses ; car cet habit me donne de l'esprit, et je me sens en humeur de disputer contre vous ; vous savez bien que vous me permettez les disputes, et que vous ne me défendez que les Remontrances.
 
-    DON JUAN
+    DON JUAN.
 Et bien.
 
-    SGANARELLE
+    SGANARELLE.
 Je veux savoir un peu vos pensées à fonds ; est-il possible que vous ne croyez point du tout au Ciel ?
 
-    DON JUAN
+    DON JUAN.
 Laissons cela.
 
-    SGANARELLE
+    SGANARELLE.
 C'est à dire que non ; et à l'enfer ?
 
-    DON JUAN
+    DON JUAN.
 Eh.
 
-    SGANARELLE
+    SGANARELLE.
 Tout de même ; et au Diable s'il vous plaît ?
 
-    DON JUAN
+    DON JUAN.
 Oui, oui.
 
-    SGANARELLE
+    SGANARELLE.
 Aussi peu ; ne croyez-vous point l'autre vie ?
 
-    DON JUAN
+    DON JUAN.
 Ah, ah, ah.
 
-    SGANARELLE
+    SGANARELLE.
 Voilà un homme que j'aurais bien de la peine à convertir ; et dites-moi un peu, le Moine bourru, qu'en croyez vous ? eh !
 
-    DON JUAN
+    DON JUAN.
 La peste soit du fat.
 
-    SGANARELLE
+    SGANARELLE.
 Et voilà ce que je ne puis souffrir, car il n'y a rien de plus vrai que le Moine bourru ; et je me ferais pendre pour celui-là ; mais encore faut-il croire quelque chose dans le monde, qu'est-ce donc que vous croyez ?
 
-    DON JUAN
+    DON JUAN.
 Ce que je crois.
 
-    SGANARELLE
+    SGANARELLE.
 Oui.
 
-    DON JUAN
+    DON JUAN.
 Je crois que deux et deux font quatre, Sganarelle et que quatre et quatre font huit.
 
-    SGANARELLE
+    SGANARELLE.
 Belle croyance, et les beaux articles de foi que voici ; votre religion à ce que je vois, est donc l'arithmétique ; il faut avouer qu'il se met d'étranges folies dans la tête des hommes, et que pour avoir étudié on est bien moins sage le plus souvent ; pour moi Monsieur, je n'ai point étudié comme vous, Dieu merci, et personne ne se saurait vanter de m'avoir jamais rien appris ; mais avec mon petit sens et mon petit jugement je vois les choses mieux que tous vos livres, et je comprends fort bien que ce monde, que nous voyons, n'est pas un champignon qui soit venu tout seul en une nuit. Je voudrais bien vous demander qui a fait ces orbes-là, ces rochers, cette terre, et ce Ciel que voilà là-haut, et si tout cela s'est bâti de lui-même ; vous voilà vous par exemple, vous êtes là ; est-ce que vous vous êtes fait tout seul, et n'a-t-il pas fallu que votre père ait engrossé votre mère pour vous faire ? pouvez vous voir toutes ces inventions, dont la machine de l'homme est composée, sans admirer de quelle façon cela est agencé l'un dans l'autre ? ces nerfs, ces os, ces veines, ces artères, ces… ce poumon, ce cœur, ce foie, et tous ces autres ingrédients qui sont là et qui… ah Dame interrompez-moi donc si vous voulez, je ne saurais disputer si l'on ne m'interrompt, vous vous taisez exprès, et me laissez parler par belle malice.
 
-    DON JUAN
+    DON JUAN.
 J'attends que ton raisonnement soit fini.
 
-    SGANARELLE
+    SGANARELLE.
 Mon Raisonnement est qu'il y a quelque chose d'admirable dans l'homme quoi que vous puissiez dire que tous les savants ne sauraient expliquer ; cela n'est-il pas merveilleux que me voilà ici ; et que j'aie quelque chose dans la tête qui pense cent choses différentes en un moment ; et fait de mon corps tout ce qu'il veut ! je veux frapper des mains, hausser le bras, lever les yeux aux Ciel, baisser la tête, remuer les pieds, aller à droit, à gauche, en avant, en arrière, tourner,
 il se laisse tomber en se tournant.
 
 
-    DON JUAN
+    DON JUAN.
 Bon voilà ton raisonnement qui a le nez cassé.
 
-    SGANARELLE
+    SGANARELLE.
 Morbleu je suis bien sot de raisonner avec vous, croyez ce que vous voudrez, il m'importe bien que vous soyez damné.
 
-    DON JUAN
+    DON JUAN.
 Mais tout en raisonnant, je crois que nous sommes égarés ; appelle un peu cet homme que voilà là-bas, pour lui demander le chemin.
 
-    SGANARELLE
+    SGANARELLE.
 Holà ho l'homme, ho mon compère, ho l'ami, un petit mot s'il vous plaît.
 
 
-### Scène II
+### Scène II.
 Don Juan, Sganarelle, un Pauvre
 
 
-    SGANARELLE
+    SGANARELLE.
 Enseigne nous un peu le chemin qui mène à la ville.
 
-    LE PAUVRE
+    LE PAUVRE.
 Vous n'avez qu'à suivre cette route, Messieurs, et tournez à main droite quand vous serez au bout de la forêt ; mais je vous donne avis que vous devez vous tenir sur vos gardes, et que depuis quelque temps il y a des voleurs ici autour.
 
-    DON JUAN
+    DON JUAN.
 Je te suis obligé mon ami, et je te rends grâces de tout mon cœur.
 
-    LE PAUVRE
+    LE PAUVRE.
 Si vous voulez me secourir, Monsieur de quelque aumône.
 
-    DON JUAN
+    DON JUAN.
 Ah, ah, ton avis est intéressé à ce que je vois.
 
-    LE PAUVRE
+    LE PAUVRE.
 Je suis un Pauvre homme, Monsieur, retiré tout seul dans ce bois depuis plus de dix ans, et je ne manquerai pas de prier le Ciel qu'il vous donne toute sorte de biens.
 
-    DON JUAN
+    DON JUAN.
 Eh prie le Ciel qu'il te donne un habit, sans te mettre en peine des affaires des autres.
 
-    SGANARELLE
+    SGANARELLE.
 Vous ne connaissez pas Monsieur, bonhomme, il ne croit qu'en deux et deux font quatre, et en quatre et quatre font huit.
 
-    DON JUAN
+    DON JUAN.
 Quelle est ton occupation parmi ces arbres ?
 
-    LE PAUVRE
+    LE PAUVRE.
 De prier le Ciel tout le jour pour la prospérité des gens de bien qui me donnent quelque chose.
 
-    DON JUAN
+    DON JUAN.
 Il ne se peut donc pas que tu ne sois bien à ton aise ?
 
-    LE PAUVRE
+    LE PAUVRE.
 Hélas, Monsieur, je suis dans la plus grande nécessité du monde.
 
-    DON JUAN
+    DON JUAN.
 Tu te moques, un homme qui prie le Ciel tout le jour ne peut pas manquer d'être bien dans ses affaires.
 
-    LE PAUVRE
+    LE PAUVRE.
 Je vous assure Monsieur que le plus souvent je n'ai pas un morceau de pain à mettre sous les dents.
 
-    DON JUAN
+    DON JUAN.
 Voilà qui est étrange, et tu es bien mal reconnu de tes soins ; ah, ah, je m'en vais te donner un louis d'or tout à l'heure pourvu que tu veuilles jurer.
 
-    LE PAUVRE
+    LE PAUVRE.
 Ah, Monsieur, voudriez vous que je commisse un tel péché ?
 
-    DON JUAN
+    DON JUAN.
 Tu n'as qu'à voir si tu veux gagner un louis d'or ou non, en voici un que je te donne si tu jures, tiens il faut jurer.
 
-    LE PAUVRE
+    LE PAUVRE.
 Monsieur.
 
-    DON JUAN
+    DON JUAN.
 À moins de cela tu ne l'auras pas.
 
-    SGANARELLE
+    SGANARELLE.
 Va, va, jure un peu, il n'y a pas de mal.
 
-    DON JUAN
+    DON JUAN.
 Prends, le voilà, prends te dis-je, mais jure donc.
 
-    LE PAUVRE
+    LE PAUVRE.
 Non Monsieur, j'aime mieux mourir de faim.
 
-    DON JUAN
+    DON JUAN.
 Va, va, je te le donne pour l'amour de humanité, mais que vois-je là ? un homme attaqué par trois autres ! la partie est trop inégale, et je ne dois pas souffrir cette lâcheté.
 
 
-### Scène III
+### Scène III.
 Don Juan, Don Carlos, Sganarelle
 
 
-    SGANARELLE
+    SGANARELLE.
 Mon Maître est un vrai enragé d'aller se présenter à un péril qui ne le cherche pas ; mais ma foi le secours a servi, et les deux ont fait fuir les trois.
 
-    DON CARLOS
+    DON CARLOS.
 On voit par la fuite de ces voleurs de quel secours est votre bras, Monsieur ; que je vous rends grâce d'une action si généreuse et que…
 
-    DON JUAN
+    DON JUAN.
 Je n'ai rien fait, Monsieur, que vous n'eussiez fait à ma place, notre propre honneur est intéressé dans de pareilles aventures, et l'action de ces Coquins était si lâche que c'eût été y prendre part que de ne s'y pas opposer ; mais par quelle rencontre vous êtes-vous trouvé entre leurs mains ?
 
-    DON CARLOS
+    DON CARLOS.
 Je m'étais par hasard écarté d'un frère et de tous ceux de notre suite, et comme je cherchais à les rejoindre j'ai fait rencontre de ces voleurs qui d'abord ont tué mon cheval, et qui sans votre valeur en auraient fait autant de moi.
 
-    DON JUAN
+    DON JUAN.
 Votre dessein est-il d'aller du côté de la ville ?
 
-    DON CARLOS
+    DON CARLOS.
 Oui, mais sans y vouloir entrer, et nous nous voyons obligés, mon frère et moi, à tenir la campagne pour une de ces fâcheuses affaires qui réduisent les Gentilshommes à se sacrifier eux et leur famille à la sévérité de leur honneur, puisque enfin le plus doux succès en est toujours funeste, et que si l'on ne quitte pas la vie on est contraint de quitter le Royaume, et c'est en quoi je trouve la condition d'un Gentilhomme malheureuse de ne pouvoir point s'assurer sur toute la prudence et toute l'honnêteté de sa condition, d'être asservi par les lois de l'honneur au dérèglement de la conduite d'autrui, et de voir sa vie, son repos et ses biens dépendre de la fantaisie du premier téméraire qui s'avisera de lui faire une de ces injures pour qui un honnête homme doit périr.
 
-    DON JUAN
+    DON JUAN.
 On a cet avantage qu'on fait courir le même risque et passer mal aussi le temps, à ceux qui prennent fantaisie de nous venir faire une offense de gaieté de cœur ; mais ne serait-ce point une indiscrétion, que de vous demander quelle peut être votre affaire ?
 
-    DON CARLOS
+    DON CARLOS.
 La chose en est aux termes de n'en plus faire de secret, et lors que l'injure a une fois éclaté notre honneur ne va point à vouloir cacher notre honte, mais à faire éclater notre vengeance et à publier même le dessein que nous en avons ; ainsi, Monsieur, je ne feindrai point de vous dire que l'offense que nous cherchons à venger, est une sœur séduite et enlevée d'un convent, et que l'auteur de cette offense est un Don Juan Tenorio, fils de Don Louis Tenorio ; nous le cherchons depuis quelques jours et nous l'avons suivi ce matin sur le rapport d'un valet qui nous a dit qu'il sortait à cheval accompagné de quatre ou cinq, et qu'il avait pris le long de ce côté, mais tous nos soins ont été inutiles et nous n'avons pu découvrir ce qu'il est devenu.
 
-    DON JUAN
+    DON JUAN.
 Le connaissez-vous, Monsieur, ce Don Juan, dont vous parlez ?
 
-    DON CARLOS
+    DON CARLOS.
 Non, quant à moi je ne l'ai jamais vu, et je l'ai seulement ouï dépeindre à mon frère ; mais la Renommée n'en dit pas force bien, et c'est un homme dont la vie…
 
-    DON JUAN
+    DON JUAN.
 Arrêtez, Monsieur, s'il vous plaît ; il est un peu un de mes amis, et ce serait à moi une espèce de lâcheté que d'en ouïr dire du mal.
 
-    DON CARLOS
+    DON CARLOS.
 Pour l'amour de vous, Monsieur, je n'en dirai rien du tout, et c'est bien la moindre chose que je vous doive, après m'avoir sauvé la vie, que de me taire devant vous d'une personne que vous connaissez, lorsque je ne puis en parler sans en dire du mal ; mais quelque ami que vous lui soyez, j'ose espérer que vous n'approuverez pas son action, et ne trouverez pas étrange que nous cherchions d'en prendre la vengeance.
 
-    DON JUAN
+    DON JUAN.
 Au contraire, je vous y veux servir, et vous épargner des soins inutiles ; je suis ami de Don Juan, je ne puis pas m'en empêcher, mais il n'est pas raisonnable qu'il offense des Gentilshommes impunément, je m'engage à vous faire faire raison par lui.
 
-    DON CARLOS
+    DON CARLOS.
 Et quelle raison peut-on faire à ces sortes d'injures.
 
-    DON JUAN
+    DON JUAN.
 Toute celle que votre honneur peut souhaiter, et sans vous donner la peine de chercher Don Juan davantage, je m'oblige à le faire trouver au lieu que vous voudrez et quand il vous plaira.
 
-    DON CARLOS
+    DON CARLOS.
 Cet espoir est bien doux, Monsieur, à des cœurs offensés ; mais après ce que je vous dois ce me serait une trop sensible douleur que vous fussiez de la partie.
 
-    DON JUAN
+    DON JUAN.
 Je suis si attaché à Don Juan qu'il ne saurait se battre que je ne me batte aussi, mais enfin j'en réponds comme de moi-même, et vous n'avez qu'à dire quand vous voulez qu'il paraisse et vous donne satisfaction.
 
-    DON CARLOS
+    DON CARLOS.
 Que ma destinée est cruelle ! faut il que je vous doive la vie, et que Don Juan soit de vos amis !
 
 
-### Scène IV
+### Scène IV.
 Don Alonse, *et trois Suivants,* Don Carlos, Don Juan, Sganarelle
 
 
-    DON ALONSE
+    DON ALONSE.
 Faites boire là nos chevaux, et qu'on les amène après nous, je veux un peu marcher à pied. Ô Ciel que vois-je ici ! quoi, mon frère, vous voilà avec notre ennemi mortel !
 
-    DON JUAN
+    DON JUAN.
 Oui je suis Don Juan moi-même, et l'avantage du nombre ne m'obligera pas à vouloir déguiser mon nom.
 
-    DON ALONSE
+    DON ALONSE.
 Ah traître, il faut que tu périsses et…
 
-    DON CARLOS
+    DON CARLOS.
 De grâce, mon frère.
 
-    DON ALONSE
+    DON ALONSE.
 Tous les discours sont superflus, il faut qu'il meure.
 
-    DON CARLOS
+    DON CARLOS.
 Arrêtez vous dis-je, mon frère, je ne souffrirai point du tout qu'on attaque ses jours et je jure le Ciel que je le défendrai ici contre qui que ce soit, je saurai lui faire un rempart de cette même vie qu'il a sauvée, et pour adresser vos coups il faudra que vous me perciez.
 
-    DON ALONSE
+    DON ALONSE.
 Quoi, vous prenez le parti de notre ennemi contre moi ? et loin d'être saisi, à son aspect, des mêmes transports que je sens, vous faites voir pour lui des sentiments pleins de douceur ?
 
-    DON CARLOS
+    DON CARLOS.
 Mon frère, montrons de la modération dans une action légitime, et ne vengeons point notre honneur avec cet emportement que vous témoignez ; ayons du cœur dont nous soyons les maîtres, une valeur qui n'ait rien de farouche, et qui se porte aux choses par une pure délibération de notre raison, et non point par le mouvement d'une aveugle colère ; je ne veux point mon frère demeurer redevable à mon ennemi, et je lui ai une obligation dont il faut que je m'acquitte avant toute chose : notre vengeance, pour être différée n'en sera pas moins éclatante, au contraire elle en tirera de l'avantage, et cette occasion de l'avoir pu prendre, la fera paraître plus juste aux yeux de tout le monde.
 
-    DON ALONSE
+    DON ALONSE.
 Ah l'étrange faiblesse, et l'aveuglement effroyable de hasarder ainsi les intérêts de son honneur pour la ridicule pensée d'une obligation chimérique !
 
-    DON CARLOS
+    DON CARLOS.
 Non mon frère, ne vous mettez pas en peine, si je fais une faute, je saurai la réparer ; je me charge de tout le soin de notre honneur, je sais à quoi il nous oblige, et cette suspension d'un jour que ma reconnaissance lui demande, ne fera qu'augmenter l'ardeur que j'ai de le satisfaire. Don Juan, vous voyez que j'ai soin de vous rendre le bien que j'ai reçu de vous, et vous pouvez par là juger du reste, et croire que je m'acquitte avec même chaleur de tout ce que je dois, et que je ne serai pas moins exact à vous payer l'injure que le bienfait ; je ne veux point vous obliger à m'expliquer ici vos sentiments, et je vous donne la liberté de penser à loisir aux résolutions que vous avez à prendre ; vous connaissez assez la grandeur de l'offense que vous nous avez faite, et je vous fais juge vous-même des réparations qu'elle demande : il est des moyens doux pour nous satisfaire, il en est de violents et sanglants ; mais enfin, quelque choix que vous fassiez, vous m'avez donné parole de me faire faire raison par Don Juan, songez à me la tenir je vous prie, et vous ressouvenez que hors d'ici je ne dois plus qu'à mon honneur.
 
-    DON JUAN
+    DON JUAN.
 Je n'ai rien exigé de vous, et je vous tiendrai ce que j'ai promis.
 
-    DON CARLOS
+    DON CARLOS.
 Allons, mon frère, un moment de douceur ne fait aucune injure à la sévérité de notre devoir.
 
 
-### Scène V
+### Scène V.
 Don Juan, Sganarelle
 
 
-    DON JUAN
+    DON JUAN.
 Holà, ho, Sganarelle.
 
-    SGANARELLE
+    SGANARELLE.
 Plaît-il.
 
-    DON JUAN
+    DON JUAN.
 Comment coquin, tu fuis quand on m'attaque ?
 
-    SGANARELLE
+    SGANARELLE.
 Pardonnez-moi, Monsieur, je viens seulement d'ici près, je crois que cet habit est purgatif, et que c'est prendre Médecine que de le porter.
 
-    DON JUAN
+    DON JUAN.
 Peste soit l'insolent, couvre au moins ta poltronnerie d'un voile plus honnête ; sais-tu bien que celui à qui j'ai sauvé la vie est assez honnête homme, il en a bien usé, et j'ai regret d'avoir du démêlé avec lui.
 
-    SGANARELLE
+    SGANARELLE.
 Il vous serait aisé de pacifier toute chose.
 
-    DON JUAN
+    DON JUAN.
 Oui, mais ma passion est usée pour Done Elvire et l'engagement ne compatit point avec mon humeur ; j'aime la liberté en amour, tu le sais, et je ne saurais me résoudre à renfermer mon cœur entre quatre murailles, je te l'ai dit vingt fois, j'ai une pente naturelle à me laisser aller à tout ce qui m'attire, mon cœur est à toutes les belles, et c'est à elles à le prendre tour à tour, et à le garder tant qu'elles pourront ; mais quel est le superbe édifice que je vois entre ces arbres.
 
-    SGANARELLE
+    SGANARELLE.
 Vous ne le savez pas ?
 
-    DON JUAN
+    DON JUAN.
 Non vraiment.
 
-    SGANARELLE
+    SGANARELLE.
 Bon, c'est le tombeau que le Commandeur faisait faire lorsque vous le tuâtes.
 
-    DON JUAN
+    DON JUAN.
 Ah, tu as raison, je ne songeais pas que c'était de ce côté qu'il était, tout le monde m'a dit des merveilles de cet ouvrage, aussi bien que de la statue du Commandeur, et j'ai envie de l'aller voir.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur, n'allez point là.
 
-    DON JUAN
+    DON JUAN.
 Pourquoi ?
 
-    SGANARELLE
+    SGANARELLE.
 Cela n'est pas civil d'aller voir un homme que vous avez tué.
 
-    DON JUAN
+    DON JUAN.
 Au contraire, c'est une visite dont je lui veux faire civilité, et qu'il doit recevoir de bonne grâce, s'il est galant homme ; allons, entrons dedans.
 
-    SGANARELLE
+    SGANARELLE.
 Ah, que cela est beau, les belles statues ! le beau marbre, les beaux Piliers ! ah, que cela est beau, qu'en dites vous Monsieur ?
 
-    DON JUAN
+    DON JUAN.
 Qu'on ne peut voir aller plus loin l'ambition d'un homme mort, et ce que je trouve d'admirable c'est qu'un homme qui s'est passé durant sa vie d'une assez simple demeure, en veuille avoir une si magnifique quand il n'en a plus que faire.
 
-    SGANARELLE
+    SGANARELLE.
 Voilà la statue du Commandeur.
 
-    DON JUAN
+    DON JUAN.
 Parbleu le voilà beau, avec son habit d'Empereur Romain.
 
-    SGANARELLE
+    SGANARELLE.
 Ma foi Monsieur voilà qui est bien fait, il semble qu'il est en vie, et qu'il s'en va parler ; il jette des regards sur nous qui me feraient peur si j'étais tout seul, et je pense qu'il ne prend pas plaisir à nous voir.
 
-    DON JUAN
+    DON JUAN.
 Il aurait tort, et ce serait mal recevoir l'honneur que je lui fais ; demande-lui s'il veut venir souper avec nous.
 
-    SGANARELLE
+    SGANARELLE.
 C'est une chose dont il n'a pas besoin je crois.
 
-    DON JUAN
+    DON JUAN.
 Demande-lui te dis-je.
 
-    SGANARELLE
+    SGANARELLE.
 Vous moquez-vous ? ce serait être fou que d'aller parler à une statue.
 
-    DON JUAN
+    DON JUAN.
 Fais ce que je te dis.
 
-    SGANARELLE
+    SGANARELLE.
 Quelle bizarrerie ! Seigneur je ris de ma sottise ; mais c'est mon Maître qui me la fait faire ; Seigneur Commandeur, mon Maître Don Juan vous demande si vous voulez lui faire l'honneur de venir souper avec lui… ah.
 
-    DON JUAN
+    DON JUAN.
 Qu'est-ce ? qu'as-tu ? dis donc ? veux tu parler ?
 
-    SGANARELLE
+    SGANARELLE.
 La statue.
 
-    DON JUAN
+    DON JUAN.
 Et bien, que veux-tu dire, traître ?
 
-    SGANARELLE
+    SGANARELLE.
 Je vous dis que la statue.
 
-    DON JUAN
+    DON JUAN.
 Et bien la statue, je t'assomme si tu ne parles.
 
-    SGANARELLE
+    SGANARELLE.
 La statue m'a fait Signe.
 
-    DON JUAN
+    DON JUAN.
 La peste le Coquin.
 
-    SGANARELLE
+    SGANARELLE.
 Elle m'a fait signe vous dis-je, il n'est rien de plus vrai, allez vous-en lui parler vous-même pour voir, peut-être.
 
-    DON JUAN
+    DON JUAN.
 Viens, maraud, viens, je te veux bien faire toucher au doigt ta Poltronnerie, prends garde ; Le Seigneur Commandeur voudrait-il venir souper avec moi ?
 
-    SGANARELLE
+    SGANARELLE.
 Je ne voudrais pas en tenir dix pistoles, eh bien, Monsieur ?
 
-    DON JUAN
+    DON JUAN.
 Allons, sortons d'ici.
 
-    SGANARELLE
+    SGANARELLE.
 Voilà de mes esprits forts qui ne veulent rien croire.
 
 <Fin du troisième Acte.>
 
 
-## Acte Quatrième
+## Acte Quatrième.
 
 
-### Scène I
+### Scène I.
 Don Juan, Sganarelle
 
 
-    DON JUAN
+    DON JUAN.
 Quoiqu'il en soit laissons cela, c'est une bagatelle, et nous pouvons avoir été trompés par un faux jour, ou surpris de quelque vapeur qui nous ait troublé la vue.
 
-    SGANARELLE
+    SGANARELLE.
 Ah, Monsieur, ne cherchons point à démentir ce que nous avons vu des yeux que voilà ; il n'est rien plus véritable que ce signe de tête, et je ne doute point que le Ciel scandalisé de votre vie n'ait produit ce miracle pour vous convaincre, et pour vous retirer de…
 
-    DON JUAN
+    DON JUAN.
 Écoute, si tu m'importunes davantage de tes sottes moralités, si tu me dis encore le moindre mot là-dessus, je vais appeler quelqu'un, demander un nerf de bœuf ; te faire tenir par trois ou quatre, et te rouer de mille coups ; m'entends-tu bien ?
 
-    SGANARELLE
+    SGANARELLE.
 Fort bien, Monsieur, le mieux du monde ; vous vous expliquez clairement ; c'est ce qu'il y a de bon en vous, que vous ne m'allez point chercher des tours, vous dites les choses avec une netteté admirable.
 
-    DON JUAN
+    DON JUAN.
 Allons, qu'on me fasse souper le plus tôt qu'on pourra, une chaise, petit garçon.
 
 
-### Scène II
+### Scène II.
 Don Juan, La Violette, Sganarelle
 
 
-    LA VIOLETTE
+    LA VIOLETTE.
 Monsieur, voilà votre marchand, Monsieur Dimanche, qui demande à vous parler.
 
-    SGANARELLE
+    SGANARELLE.
 Bon, voilà ce qu'il nous faut, qu'un compliment de créancier ; de quoi s'avise-t-il de nous venir demander de l'argent, et que ne lui disais-tu que Monsieur n'y est pas ?
 
-    LA VIOLETTE
+    LA VIOLETTE.
 Il y a trois quarts d'heure que je lui dis. Il ne veut pas me croire, et s'est assis là-dedans pour attendre.
 
-    SGANARELLE
+    SGANARELLE.
 Qu'il attende tant qu'il voudra.
 
-    DON JUAN
+    DON JUAN.
 Non, au contraire, faites-le entrer, c'est une fort mauvaise politique que de se faire celer aux créanciers ; il est bon de les payer de quelque chose, et j'ai le secret de les renvoyer satisfaits sans leur donner un double.
 
 
-### Scène III
+### Scène III.
 Don Juan, Monsieur Dimanche, Sganarelle, suite.
 
 
-    DON JUAN
+    DON JUAN.
 Ah, Monsieur Dimanche, approchez ; que je suis ravi de vous voir, et que je veux de mal à mes gens de ne vous pas faire entrer d'abord ; j'avais donné ordre qu'on ne me fît parler à personne, mais cet ordre n'est pas pour vous, et vous êtes en droit de ne trouver jamais de porte fermée chez moi.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur je vous suis bien obligé.
 
-    DON JUAN
+    DON JUAN.
 Parbleu, Coquins, je vous apprendrai à laisser Monsieur Dimanche dans une antichambre, et je vous ferai connaître les gens.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, cela n'est rien.
 
-    DON JUAN
+    DON JUAN.
 Comment ? vous direz que je n'y suis pas à Monsieur Dimanche, au meilleur de mes amis ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, je suis votre serviteur ; j'étais venu.
 
-    DON JUAN
+    DON JUAN.
 Allons, vite, un siège pour Monsieur Dimanche.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, je suis bien comme cela.
 
-    DON JUAN
+    DON JUAN.
 Point, point, je veux que vous soyez assis comme moi.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Cela n'est pas nécessaire.
 
-    DON JUAN
+    DON JUAN.
 Ôtez ce pliant, et apportez un fauteuil.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, vous vous moquez et…
 
-    DON JUAN
+    DON JUAN.
 Non, non, je sais ce que je vous dois, et je ne veux point qu'on mette de différence entre nous deux.
 
-    SGANARELLE
+    SGANARELLE.
 Allons assoyez-vous.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Ce n'est pas besoin Monsieur et je n'ai qu'un mot à vous dire. J'étais…
 
-    DON JUAN
+    DON JUAN.
 Mettez-vous là vous dis-je.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Non, Monsieur, je suis bien, je viens pour.
 
-    DON JUAN
+    DON JUAN.
 Non, je ne vous écoute point si vous n'êtes assis.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, je fais ce que vous voulez, je…
 
-    DON JUAN
+    DON JUAN.
 Parbleu, Monsieur Dimanche, vous vous portez bien.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Oui Monsieur, pour vous rendre service ; je suis venu…
 
-    DON JUAN
+    DON JUAN.
 Vous avez un fond de santé admirable, des lèvres fraîches, un teint vermeil, et des yeux vifs.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Je voudrais bien…
 
-    DON JUAN
+    DON JUAN.
 Comment se porte Madame Dimanche votre épouse ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Fort bien Monsieur Dieu merci.
 
-    DON JUAN
+    DON JUAN.
 C'est une brave femme.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Elle est votre servante Monsieur je venais…
 
-    DON JUAN
+    DON JUAN.
 Et votre petite fille Claudine, comment se porte-t-elle ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Le mieux du monde.
 
-    DON JUAN
+    DON JUAN.
 La Jolie petite fille que c'est, je l'aime de tout mon cœur.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 C'est trop d'honneur que vous lui faites Monsieur je vous…
 
-    DON JUAN
+    DON JUAN.
 Et le petit Colin fait toujours bien du bruit avec son tambour ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Toujours de même Monsieur, je…
 
-    DON JUAN
+    DON JUAN.
 Et votre petit chien brusquet, gronde-t-il toujours aussi fort, et mord-il toujours bien aux jambes les gens qui vont chez vous ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Plus que jamais Monsieur, et vous ne sauriez en chevir.
 
-    DON JUAN
+    DON JUAN.
 Ne vous étonnez pas, si je m'informe des nouvelles de votre famille, car j'y prends beaucoup d'intérêt.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Nous vous sommes, Monsieur infiniment obligés ;
 
-    DON JUAN
+    DON JUAN.
 Touchez donc là Monsieur Dimanche, êtes-vous bien de mes amis ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, je suis votre serviteur.
 
-    DON JUAN
+    DON JUAN.
 Parbleu je suis à vous de tout mon cœur.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Vous m'honorez trop Monsieur. Je…
 
-    DON JUAN
+    DON JUAN.
 Il n'y a rien que je ne fasse pour vous.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Monsieur, vous avez trop de bonté pour moi.
 
-    DON JUAN
+    DON JUAN.
 Et cela sans intérêt, je vous prie de le croire.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Je n'ai point mérité cette grâce, Monsieur, mais Monsieur…
 
-    DON JUAN
+    DON JUAN.
 Oh çà, sans façon, Monsieur Dimanche, voulez vous souper avec moi ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Non Monsieur, il faut que je m'en retourne à l'heure.
 
-    DON JUAN
+    DON JUAN.
 Allons, vite, un flambeau pour conduire Monsieur Dimanche, et que quatre ou cinq de mes gens prennent des mousquetons pour l'escorter.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Il n'est pas nécessaire, et je m'en irai bien tout seul. Mais…
 
-    DON JUAN
+    DON JUAN.
 Comment ? je veux que l'on vous escorte, et je m'intéresse trop à votre personne, je suis votre serviteur, et de plus votre débiteur.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Ah Monsieur !
 
-    DON JUAN
+    DON JUAN.
 C'est une chose que je ne cache pas, et je le dis à tout le monde.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Si…
 
-    DON JUAN
+    DON JUAN.
 Voulez vous que je vous reconduise.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Ah Monsieur, vous vous moquez. Mais…
 
-    DON JUAN
+    DON JUAN.
 Embrassez-moi donc, s'il vous plaît ; je vous prie encore une fois d'être persuadé que je suis tout à vous, et qu'il n'y a rien au monde que je ne fasse pour votre service.
 
-    SGANARELLE
+    SGANARELLE.
 Il faut avouer que vous avez en Monsieur un homme qui vous aime bien.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Il est vrai, il me fait tant de civilités, et tant de compliments que je ne lui saurais jamais demander de l'argent.
 
-    SGANARELLE
+    SGANARELLE.
 Je vous assure que toute la maison périrait pour vous, et je voudrais qu'il vous arrivât quelque chose, que quelqu'un s'avisât de vous donner des coups de bâton, vous verriez de quelle manière.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Je le crois ; mais Sganarelle, je vous prie de lui dire un petit mot de mon argent.
 
-    SGANARELLE
+    SGANARELLE.
 Oh ne vous mettez pas en peine, il vous paiera le mieux du monde.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Mais vous, Sganarelle, vous me devez quelque chose en votre particulier.
 
-    SGANARELLE
+    SGANARELLE.
 Fi, ne parlez pas de cela.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Comment. Je…
 
-    SGANARELLE
+    SGANARELLE.
 Ne sais-je pas bien que je vous dois.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Oui, mais…
 
-    SGANARELLE
+    SGANARELLE.
 Allons Monsieur Dimanche, je vais vous éclairer.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Mais mon argent ?
 
-    SGANARELLE
+    SGANARELLE.
 Vous moquez-vous ?
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Je veux.
 
-    SGANARELLE
+    SGANARELLE.
 Eh.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 J'entends.
 
-    SGANARELLE
+    SGANARELLE.
 Bagatelles.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 Mais.
 
-    SGANARELLE
+    SGANARELLE.
 Fi.
 
-    MONSIEUR DIMANCHE
+    MONSIEUR DIMANCHE.
 De.
 
-    SGANARELLE
+    SGANARELLE.
 Fi vous dis-je.
 
 
-### Scène IV
+### Scène IV.
 Don Louis, Don Juan, Sganarelle, La Violette
 
 
-    LA VIOLETTE
+    LA VIOLETTE.
 Monsieur. Voilà Monsieur votre Père.
 
-    DON JUAN
+    DON JUAN.
 Ah me voici bien ! il me fallait cette visite pour me faire enrager.
 
-    DON LOUIS
+    DON LOUIS.
 Je vois bien que je vous embarrasse, et que vous vous passeriez fort aisément de ma venue : à dire vrai nous nous incommodons étrangement l'un l'autre, et si vous êtes las de me voir, je suis bien las aussi de vos déportements ; hélas ! que nous savons peu ce que nous faisons, quand nous ne laissons pas au Ciel le soin des choses qu'il nous donne, quand nous voulons être plus avisés que lui, et que nous venons à l'importuner par nos souhaits aveugles et nos demandes inconsidérées ! j'ai souhaité un fils avec des ardeurs nonpareilles, je l'ai demandé sans relâche avec des transports incroyables ; et ce fils, que j'obtiens en fatiguant le Ciel de vœux, est le chagrin et le supplice de cette même vie dont je croyais qu'il devait être la joie et la consolation : De quel œil, à votre avis, pensez-vous que je puisse voir cet amas d'actions indignes, dont on a peine aux yeux du monde d'adoucir le mauvais visage ? cette suite continue de méchantes affaires, qui nous réduisent à toute heure à lasser la bonté du Souverain, et qui ont épuisé auprès de lui le mérite de mes services et le crédit de mes amis ? ah quelle bassesse est la vôtre ! ne rougissez-vous point de mériter si peu votre naissance ; êtes-vous en droit, dites-moi, d'en tirer quelque vanité ? et qu'avez vous fait dans le monde pour être Gentilhomme ? croyez-vous qu'il suffise d'en porter le nom et les armes, et que ce nous soit une gloire d'être sorti d'un sang noble, lors que nous vivons en infâmes ? non, non, la naissance n'est rien où la vertu n'est pas ; ainsi nous n'avons part à la gloire de nos ancêtres qu'autant que nous nous efforçons de leur ressembler, et cet éclat de leurs actions qu'ils répandent sur nous, nous impose un engagement de leur faire le même honneur, de suivre les pas qu'ils nous tracent, et de ne point dégénérer de leurs vertus, si nous voulons être estimés leurs véritables descendants. Ainsi vous descendez en vain des aïeux dont vous êtes né, ils vous désavouent pour leur sang, et tout ce qu'ils ont fait d'illustre ne vous donne aucun avantage ; au contraire l'éclat n'en rejaillit sur nous qu'à notre déshonneur, et leur gloire est un flambeau qui éclaire aux yeux d'un chacun la honte de vos actions. Apprenez encore qu'un Gentilhomme qui vit mal, est un monstre dans la nature, que la vertu est le premier titre de noblesse, que je regarde bien moins au nom qu'on signe, qu'aux actions qu'on fait, et que je ferais plus d'état d'un fils d'un crocheteur qui serait honnête homme, que du fils d'un Monarque qui vivrait comme vous.
 
-    DON JUAN
+    DON JUAN.
 Monsieur, si vous étiez assis, vous en seriez bien mieux pour parler.
 
-    DON LOUIS
+    DON LOUIS.
 Non, insolent, je ne veux point m'asseoir ni parler davantage, et je vois bien que toutes mes paroles ne font rien sur ton âme ; mais sache, fils indigne, que la tendresse paternelle est poussée à bout par tes actions, que je saurais plutôt que tu ne penses mettre cette borne à tes dérèglements, prévenir sur toi le courroux du Ciel, et laver par ta punition la honte de t'avoir fait naître.
 
 
-### Scène V
+### Scène V.
 Don Juan, Sganarelle
 
 
-    DON JUAN
+    DON JUAN.
 Eh mourez, le plus tôt que vous pourrez, c'est le mieux que vous puissiez faire ; il faut que chacun vive son tour, et j'enrage de voir que des Pères vivent autant que leurs fils.
 
-    SGANARELLE
+    SGANARELLE.
 Ah Monsieur, vous avez tort.
 
-    DON JUAN
+    DON JUAN.
 J'ai tort.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur.
 
-    DON JUAN
+    DON JUAN.
 J'ai tort.
 
-    SGANARELLE
+    SGANARELLE.
 Oui Monsieur vous avez tort, d'avoir souffert ce qu'il vous a dit, et vous le deviez mettre dehors par les épaules ; a-t-on jamais rien vu de plus impertinent ? un père venir faire des remontrances à son fils, et lui dire de corriger ses actions, de se ressouvenir de sa naissance, de mener une vie d'honnête homme, et cent autres sottises de pareille nature ; cela se peut-il souffrir à un homme comme vous qui savez comme il faut vivre ? j'admire votre patience, et si j'avais été en votre place, je l'aurais envoyé promener ; Ô complaisant maudit, à quoi me réduis-tu ?
 
-    DON JUAN
+    DON JUAN.
 Me fera-t-on souper bientôt ?
 
 
-### Scène VI
+### Scène VI.
 Don Juan, Done Elvire, Ragotin, Sganarelle
 
 
-    RAGOTIN
+    RAGOTIN.
 Monsieur, voici une Dame voilée qui vient vous parler.
 
-    DON JUAN
+    DON JUAN.
 Que pourrait-ce être ?
 
-    SGANARELLE
+    SGANARELLE.
 Il faut voir.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Ne soyez point surpris Don Juan de me voir à cette heure, et dans cet équipage ; C'est un motif pressant qui m'oblige à cette visite, et ce que j'ai à vous dire ne veut point du tout de retardement ; je ne viens point ici pleine de courroux, que j'ai tantôt fait éclater, et vous me voyez bien changée de ce que j'étais ce matin ; ce n'est plus cette Done Elvire qui faisait des vœux contre vous, et dont l'âme irritée ne jetait que menaces, et ne respirait que vengeance : le Ciel a banni de mon âme toutes ces indignes ardeurs que je sentais pour vous, tous ces transports tumultueux d'un attachement criminel, tous ces honteux emportements d'un amour terrestre, et grossier, et il n'a laissé dans mon cœur pour vous, qu'une flamme épurée de tout le commerce des sens, une tendresse toute sainte, un amour détaché de tout, qui n'agit point pour soi, et ne se met en peine que de votre intérêt.
 
-    DON JUAN *à Sganarelle*
+    DON JUAN *à Sganarelle*.
 Tu pleures, je pense.
 
-    SGANARELLE
+    SGANARELLE.
 Pardonnez-moi.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 C'est ce parfait et pur amour qui me conduit ici pour votre bien, pour vous faire part d'un avis du Ciel, et tâcher de vous retirer du précipice où vous courez ; oui Don Juan je sais tous les dérèglements de votre vie, et ce même Ciel qui m'a touché le cœur, et fait jeter les yeux sur les égarements de ma conduite, m'a inspiré de vous venir trouver, et de vous dire de sa part, que vos offenses ont épuisé sa miséricorde, que sa colère redoutable est prête de tomber sur vous, qu'il est en vous de l'éviter par un prompt repentir ; et que peut-être vous n'avez pas encore un jour à vous, pour vous soustraire au plus grand de tous les malheurs ; pour moi je ne tiens plus à vous par un attachement du monde, je suis revenue, grâce au Ciel, de toutes mes folles pensées ; ma retraite est résolue et je ne demande qu'assez de vie pour pouvoir expier la faute que j'ai faite, et mériter, par une austère pénitence, le pardon de l'aveuglement où m'ont plongée les transports d'une passion condamnable : mais dans cette retraite j'aurai une douleur extrême qu'une personne, que j'ai chérie tendrement, devînt un exemple funeste de la justice du Ciel, et ce me sera une joie incroyable, si je puis vous y porter et détourner de dessus votre tête l'épouvantable coup qui vous menace. De grâce Don Juan accordez-moi pour dernière faveur cette douce consolation, ne me refusez point votre salut, que je vous demande avec larmes ; et si vous n'êtes point touché de votre intérêt, soyez-le au moins de mes prières, et m'épargnez le cruel déplaisir de vous voir condamné à des supplices éternels.
 
-    SGANARELLE
+    SGANARELLE.
 Pauvre femme.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Je vous ai aimé avec une tendresse extrême, rien au monde ne m'a été si cher que vous, j'ai oublié mon devoir pour vous, j'ai fait toutes choses pour vous ; et toute la récompense que je vous demande c'est de corriger votre vie, et de prévenir votre perte. Sauvez-vous je vous prie, ou pour l'amour de moi, ou pour l'amour de vous. Encore une fois Don Juan, je vous le demande avec larmes, et si ce n'est assez des larmes d'une personne que vous avez aimée, je vous en conjure par tout ce qu'il y a de plus capable pour vous toucher.
 
-    SGANARELLE
+    SGANARELLE.
 Cœur de tigre.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Je m'en vais après ces discours, et voilà tout ce que j'avais à vous dire.
 
-    DON JUAN
+    DON JUAN.
 Madame il est tard, demeurez ici, on vous y logera le mieux que l'on pourra.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Non Don Juan, ne me retenez pas davantage.
 
-    DON JUAN
+    DON JUAN.
 Madame, vous me ferez plaisir de demeurer ici, je vous assure.
 
-    DONE ELVIRE
+    DONE ELVIRE.
 Non vous dis-je, ne perdons point de temps en discours superflus, laissez-moi vite aller, ne faites aucune instance pour me conduire, et songez seulement à profiter de mon avis.
 
 
-### Scène VII
+### Scène VII.
 Don Juan, Sganarelle, suite.
 
 
-    DON JUAN
+    DON JUAN.
 Sais-tu bien que j'ai encore senti quelque peu d'émotion pour elle, que j'ai trouvé de l'agrément dans cette nouveauté bizarre, et que son habit négligé, son air languissant et ses larmes ont réveillé en moi quelques petits restes de feu éteint ?
 
-    SGANARELLE
+    SGANARELLE.
 C'est à dire que ces paroles n'ont fait aucun effet sur…
 
-    DON JUAN
+    DON JUAN.
 Vite à souper.
 
-    SGANARELLE
+    SGANARELLE.
 Fort bien.
 
-    DON JUAN
+    DON JUAN.
 Sganarelle, il faut songer à s'amender pourtant.
 
-    SGANARELLE
+    SGANARELLE.
 Oui-da.
 
-    DON JUAN
+    DON JUAN.
 Oui ma foi, il faut s'amender encor vingt ou trente ans de cette vie-ci, et puis nous songerons à nous.
 
-    SGANARELLE
+    SGANARELLE.
 Eh.
 
-    DON JUAN
+    DON JUAN.
 Qu'en dis-tu ?
 
-    SGANARELLE
+    SGANARELLE.
 Rien, voilà le souper.
 Il prend un morceau d'un des plats et le met à sa bouche.
 
 
-    DON JUAN
+    DON JUAN.
 Il semble que tu as la joue enflée ; qu'est-ce que c'est, parle donc, qu'as-tu là ?
 
-    SGANARELLE
+    SGANARELLE.
 Rien.
 
-    DON JUAN
+    DON JUAN.
 Montre un peu, parbleu c'est une fluxion qui lui est tombée sur la joue, vite une lancette pour percer cela, le pauvre garçon n'en peut plus, cet abcès le pourrait étouffer, attends voici comme il était mûr, ah coquin que vous êtes.
 
-    SGANARELLE
+    SGANARELLE.
 Ma foi Monsieur je voulais voir si votre cuisinière n'avait point mis trop de sel ou trop de poivre.
 
-    DON JUAN
+    DON JUAN.
 Allons mets-toi là, mange, j'ai affaire de toi quand j'aurai soupé, tu as faim à ce que je vois.
 
-    SGANARELLE
+    SGANARELLE.
 Je le crois Monsieur, je n'ai point mangé depuis le matin, tâtez de cela, voilà qui est le meilleur du monde, mon assiette, mon assiette, tout doux s'il vous plaît, vertubleu petit compère que vous êtes habile à donner des assiettes, et vous petit La Violette que vous savez présenter à boire à propos.
 
-    DON JUAN
+    DON JUAN.
 Qui peut frapper de cette sorte ?
 
-    SGANARELLE
+    SGANARELLE.
 Qui Diable nous vient troubler dans notre repas ?
 
-    DON JUAN
+    DON JUAN.
 Je veux souper en repos au moins, et qu'on ne laisse entrer personne.
 
-    SGANARELLE
+    SGANARELLE.
 Laissez-moi faire, je m'y en vais moi-même.
 
-    DON JUAN
+    DON JUAN.
 Qu'est-ce donc, qu'y a-t-il là.
 
-    SGANARELLE *baissant la tête.*
+    SGANARELLE *baissant la tête.*.
 Le… qui est là.
 
-    DON JUAN
+    DON JUAN.
 Allons voir, et montrons que rien ne me saurait ébranler.
 
-    SGANARELLE
+    SGANARELLE.
 Ah pauvre Sganarelle ! où te cacheras tu ?
 
 
-### Scène VIII
+### Scène VIII.
 Don Juan, la Statue du Commandeur, Sganarelle, Suite.
 
 
-    DON JUAN
+    DON JUAN.
 Une chaise et un couvert, vite donc, allons, mets-toi à table.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur, je n'ai plus de faim.
 
-    DON JUAN
+    DON JUAN.
 Mets-toi là te dis-je, à boire à la Santé du Commandeur, je te la porte Sganarelle, qu'on lui donne du vin.
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur je n'ai pas soif.
 
-    DON JUAN
+    DON JUAN.
 Bois, et chante la chanson pour régaler le Commandeur.
 
-    SGANARELLE
+    SGANARELLE.
 Je suis enrhumé Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Il n'importe, allons, vous autres venez, accompagnez sa voix.
 
-    LA STATUE
+    LA STATUE.
 Don Juan, c'est assez, je vous invite à venir demain souper avec moi, en aurez vous le courage ?
 
-    DON JUAN
+    DON JUAN.
 Oui j'irai accompagné du seul Sganarelle.
 
-    SGANARELLE
+    SGANARELLE.
 Je vous rends grâce, il est demain jeûne pour moi.
 
-    DON JUAN *à Sganarelle*
+    DON JUAN *à Sganarelle*.
 Prends ce flambeau.
 
-    LA STATUE
+    LA STATUE.
 On n'a pas besoin de lumières quand on est conduit par le Ciel.
 
 <Fin du Quatrième Acte.>
 
 
-## Acte Cinquième
+## Acte Cinquième.
 
 
-### Scène I
+### Scène I.
 Don Louis, Don Juan, Sganarelle
 
 
-    DON LOUIS
+    DON LOUIS.
 Quoi, mon fils, serait-il possible que la bonté du Ciel eût exaucé mes vœux ? ce que vous me dites est il bien vrai ? ne m'abusez-vous point d'un faux espoir, et puis-je prendre quelque assurance sur la nouveauté surprenante d'une telle conversion ?
 
-    DON JUAN
+    DON JUAN.
 Oui, vous me voyez revenu de toutes mes erreurs, je ne suis plus le même d'hier au soir, et le Ciel tout d'un coup a fait un changement qui va surprendre tout le monde, il a touché mon âme et dessillé mes yeux, et je regarde avec horreur le long dérèglement où j'ai été, et les désordres criminels de la vie que j'ai menée ; j'en repasse dans mon esprit toutes les abominations, et m'étonne comme le Ciel les a pu souffrir si longtemps, et n'a pas vingt fois sur ma tête laissé tomber les coups de sa justice redoutable ; je vois les grâces que sa bonté m'a faites en ne punissant point mes crimes, et je prétends en profiter comme je dois, faire éclater aux yeux de tout le monde un soudain changement de vie, réparer le scandale de mes actions passées, et m'efforcer d'en obtenir du Ciel une pleine rémission ; c'est à quoi je vais travailler, et je vous prie, Monsieur, de vouloir bien contribuer à ce dessein, et de m'aider vous-même à faire un choix d'une personne qui me serve de guide, et sous la conduite de qui je puisse marcher sûrement dans le chemin où je vais entrer.
 
-    DON LOUIS
+    DON LOUIS.
 Ah mon fils, que la tendresse d'un père est facilement rappelée, et que les offenses d'un fils s'évanouissent vite au moindre mot de repentir ! je ne me souviens plus déjà de tous les déplaisirs que vous m'avez donnés, et tout est effacé par les paroles que vous venez de me faire entendre ; je ne me sens pas, je l'avoue, je jette des larmes de joie, tous mes vœux sont satisfaits, et je n'ai plus rien désormais à demander au Ciel ; embrassez-moi et persistez je vous conjure dans cette louable pensée ; pour moi je m'en vais tout de ce pas porter l'heureuse nouvelle à votre mère, partager avec elle les doux transports de ravissement où je suis, et rendre grâce au Ciel des saintes résolutions qu'il a daigné vous inspirer.
 
 
-### Scène II
+### Scène II.
 Don Juan, Sganarelle
 
 
-    SGANARELLE
+    SGANARELLE.
 Ah Monsieur ! que j'ai de joie de vous voir converti ; il y a longtemps que j'attendais cela, et voilà, grâce au Ciel, tous mes souhaits accomplis.
 
-    DON JUAN
+    DON JUAN.
 La peste le benêt.
 
-    SGANARELLE
+    SGANARELLE.
 Comme, le benêt.
 
-    DON JUAN
+    DON JUAN.
 Quoi, tu prends pour de bon argent ce que je viens de dire, et tu crois que ma bouche est d'accord avec mon cœur ?
 
-    SGANARELLE
+    SGANARELLE.
 Quoi ? ce n'est pas… vous re… votre… eh quel homme, quel homme, quel homme !
 
-    DON JUAN
+    DON JUAN.
 Non, non, je ne suis point changé, et mes sentiments sont toujours les mêmes.
 
-    SGANARELLE
+    SGANARELLE.
 Vous ne vous rendez pas sur la surprenante merveille de cette Statue mouvante et parlante ?
 
-    DON JUAN
+    DON JUAN.
 Il y a bien quelque chose là-dedans que je ne comprends pas ; mais quoi que ce puisse être, cela n'est pas capable ni de convaincre mon esprit ni d'ébranler mon âme, et si j'ai dit que je voulais corriger ma conduite, et me jeter dans un train de vie exemplaire, c'est un dessein que j'ai formé par politique, un stratagème utile, une grimace nécessaire où je veux me contraindre pour en ménager un père dont j'ai besoin, et me mettre à couvert du côté des hommes de cent fâcheuses aventures qui pourraient m'arriver ; je veux bien Sganarelle t'en faire confidence, et je suis bien aise d'avoir un témoin du fond de mon âme, et des véritables motifs qui m'obligent à faire les choses.
 
-    SGANARELLE
+    SGANARELLE.
 Quoi, vous ne croyez rien du tout, et vous voulez cependant vous ériger en homme de bien ?
 
-    DON JUAN
+    DON JUAN.
 Eh pourquoi non ? il y en a tant d'autres comme moi, qui se mêlent de ce métier, et qui se servent du même masque pour abuser le monde.
 
-    SGANARELLE
+    SGANARELLE.
 Ah quel homme ! quel homme !
 
-    DON JUAN
+    DON JUAN.
 Il n'y a plus de honte maintenant à cela, l'hypocrisie est un vice à la mode, et tous les vices à la mode passent pour des vertus, le personnage d'homme de bien est le meilleur de tous les personnages qu'on puisse jouer, aujourd'hui la profession d'hypocrite a de merveilleux avantages, c'est un art de qui l'imposture est toujours respectée, et quoiqu'on la découvre on n'ose rien dire contre elle, tous les autres vices des hommes sont exposés à la censure, et chacun a la liberté de les attaquer hautement, mais l'hypocrisie est un vice privilégié qui de sa main ferme la bouche à tout le monde, et jouit en repos d'une impunité souveraine ; on lie à force de grimaces une société étroite avec tous les gens du parti, qui en choque un se les jette tous sur les bras, et ceux que l'on sait même agir de bonne foi là-dessus et que chacun connaît pour être véritablement touchés, ceux-là dis-je sont toujours les dupes des autres, ils donnent hautement dans le panneau des grimaciers, et appuient aveuglement les singes de leurs actions : combien crois-tu que j'en connaisse qui par ce stratagème ont rhabillé adroitement les désordres de leur jeunesse, qui se sont fait un bouclier du manteau de la religion, et sous cet habit respecté ont permission d'être les plus méchants hommes du monde ; on a beau savoir leurs intrigues et les connaître pour ce qu'ils sont, ils ne laissent pas pour cela d'être en crédit parmi les gens, et quelque baissement de tête, un soupir mortifié et deux roulements d'yeux rajustent dans le monde tout ce qu'ils peuvent faire ; c'est sous cet abri favorable que je veux me sauver et mettre en sûreté mes affaires, je ne quitterai point mes douces habitudes, mais j'aurai soin de me cacher et me divertirai à petit bruit, que si je viens à être découvert, je verrai sans me remuer prendre mes intérêts à toute la cabale, et je serai défendu par elle envers et contre tous ; enfin c'est le vrai moyen de faire impunément tout ce que je voudrai, je m'érigerai en censeur des actions d'autrui, je jugerai mal de tout le monde et n'aurai bonne opinion que de moi ; dès qu'une fois on m'aura choqué tant soit peu je ne pardonnerai jamais, et garderai tout doucement une haine irréconciliable ; je ferai le vengeur des intérêts du Ciel, et sous ce prétexte commode je pousserai mes ennemis, je les accuserai d'impiété, et saurai déchaîner contre eux des Zélés indiscrets qui sans connaissance de cause crieront en public après eux, qui les accableront d'injures, et les damneront hautement de leur autorité privée, c'est ainsi qu'il faut profiter des faiblesses des hommes, et qu'un sage esprit s'accommode aux vices de son siècle.
 
-    SGANARELLE
+    SGANARELLE.
 Ô Ciel, qu'entends-je ici ! il ne vous manque plus que d'être hypocrite pour vous achever de tous points, et voilà le comble des abominations. Monsieur cette dernière-ci m'importe, et je ne puis m'empêcher de parler, faites-moi tout ce qu'il vous plaira, battez-moi, assommez-moi de coups, tuez-moi si vous voulez, il faut que je décharge mon cœur, et qu'en valet fidèle je vous dise ce que je dois. Sachez Monsieur que tant va la cruche à l'eau qu'enfin elle s'y brise, et comme dit fort bien cet auteur que je ne connais pas, que l'homme est en ce monde ainsi que l'oiseau sur la branche, la branche est attachée à l'arbre, qui s'attache à l'arbre suit de bons préceptes : les bons préceptes valent mieux que les belles paroles, les belles paroles se trouvent à la Cour, à la Cour sont les Courtisans, les Courtisans suivent la mode, la mode vient de la fantaisie, la faculté de l'âme est ce qui nous donne la vie, la vie finit par la mort, la mort nous fait penser au Ciel, le Ciel est au-dessus de la terre, la terre n'est point la mer, la mer est sujette aux orages, les orages tourmentent les vaisseaux, les vaisseaux ont besoin d'un bon pilote, un bon pilote a de la prudence, la prudence n'est point dans les jeunes gens, les jeunes gens doivent obéissance aux vieux, les vieux aiment les richesses, les richesses font les riches, les riches ne sont pas pauvres, les pauvres ont de la nécessité, la nécessité n'a point de loi, qui n'a point de loi vit en bête brute, et par conséquent vous serez damné à tous les Diables.
 
-    DON JUAN
+    DON JUAN.
 Ô beau raisonnement !
 
-    SGANARELLE
+    SGANARELLE.
 Après cela, si ne vous rendez, tant pis pour vous.
 
 
-### Scène III
+### Scène III.
 Don Carlos, Don Juan, Sganarelle
 
 
-    DON CARLOS
+    DON CARLOS.
 Don Juan je vous trouve à propos, et suis bien aise de vous parler ici plutôt que chez vous, pour vous demander vos résolutions ; vous savez que ce soin me regarde, et que je me suis en votre présence chargé de cette affaire, pour moi je ne le cèle point, je souhaite fort que les choses aillent dans la douceur, et il n'y a rien que je ne fasse pour porter votre esprit à vouloir prendre cette voie, et pour vous voir publiquement à ma sœur confirmer le nom de votre femme.
 
-    DON JUAN
+    DON JUAN.
 Hélas ! je voudrais bien de tout mon cœur vous donner la satisfaction que vous souhaitez, mais le Ciel s'y oppose directement, et il a inspiré à mon âme de changer de vie, et je n'ai point d'autre pensée maintenant que de quitter entièrement tous les attachements du monde, de me dépouiller au plus tôt de toutes sortes de vanités, et de corriger désormais, par une austère conduite tous les dérèglements criminels où m'a porté le feu d'une aveugle jeunesse.
 
-    DON CARLOS
+    DON CARLOS.
 Ce dessein, Don Juan, ne choque point ce que je dis et la compagnie d'une femme légitime peut bien s'accommoder avec les louables pensées que le Ciel vous inspire.
 
-    DON JUAN
+    DON JUAN.
 Hélas, point du tout, c'est un dessein que votre sœur elle-même a pris ; elle a résolu sa retraite, et nous avons été touchés tous deux en même temps.
 
-    DON CARLOS
+    DON CARLOS.
 Sa retraite ne peut nous satisfaire, pouvant être imputée au mépris que vous faites d'elle et de notre famille, et notre honneur demande qu'elle vive avec vous.
 
-    DON JUAN
+    DON JUAN.
 Je vous assure que cela ne se peut, j'en avais pour moi toutes les envies du monde, et je me suis même encore aujourd'hui conseillé au Ciel pour cela ; mais lorsque je l'ai consulté j'ai entendu une voix qui m'a dit que je ne devais point songer à votre sœur, et qu'avec elle assurément je ne ferais point mon salut.
 
-    DON CARLOS
+    DON CARLOS.
 Croyez-vous, Don Juan, nous éblouir par ces belles excuses ?
 
-    DON JUAN
+    DON JUAN.
 J'obéis à la voix du Ciel.
 
-    DON CARLOS
+    DON CARLOS.
 Quoi, vous voulez que je me paie d'un semblable discours ?
 
-    DON JUAN
+    DON JUAN.
 C'est le Ciel qui le veut ainsi.
 
-    DON CARLOS
+    DON CARLOS.
 Vous aurez fait sortir ma sœur d'un couvent pour la laisser ensuite ?
 
-    DON JUAN
+    DON JUAN.
 Le Ciel l'ordonne de la sorte.
 
-    DON CARLOS
+    DON CARLOS.
 Nous souffrirons cette tache en notre famille ?
 
-    DON JUAN
+    DON JUAN.
 Prenez-vous-en au Ciel.
 
-    DON CARLOS
+    DON CARLOS.
 Eh quoi, toujours le Ciel ?
 
-    DON JUAN
+    DON JUAN.
 Le Ciel le souhaite comme cela.
 
-    DON CARLOS
+    DON CARLOS.
 Il suffit Don Juan, je vous entends, ce n'est pas ici que je veux venir vous prendre, et le lieu ne le souffre pas, mais avant qu'il soit peu je saurai vous trouver.
 
-    DON JUAN
+    DON JUAN.
 Vous ferez ce que vous voudrez, vous savez que je ne manque point de cœur, et que je sais me servir de mon épée quand il le faut, je m'en vais passer tout à l'heure dans cette petite rue écartée qui mène au grand convent, mais je vous déclare pour moi que ce n'est pas moi qui me veux battre ; le Ciel m'en défend la pensée, et si vous m'y attaquez nous verrons ce qui en arrivera.
 
-    DON CARLOS
+    DON CARLOS.
 Nous verrons de vrai, nous verrons.
 
 
-### Scène IV
+### Scène IV.
 Don Juan, Sganarelle
 
 
-    SGANARELLE
+    SGANARELLE.
 Monsieur, quel Diable de style prenez-vous là ? ceci est bien pis que le reste, et je vous aimerais bien mieux encore comme vous étiez auparavant, j'espérais toujours de votre salut, mais c'est maintenant que j'en désespère, et je croyais que le Ciel qui vous a souffert jusques ici ne pourra du tout souffrir cette dernière horreur.
 
-    DON JUAN
+    DON JUAN.
 Va va, le Ciel n'est pas si exact que tu penses, et si toutes les fois que les hommes…
 
-    SGANARELLE
+    SGANARELLE.
 Ah Monsieur, c'est le Ciel qui vous parle, et c'est un avis qu'il vous donne.
 
-    DON JUAN
+    DON JUAN.
 Si le Ciel me donne un avis, il faut qu'il parle plus clairement s'il veut que je l'entende.
 
 
-### Scène V
+### Scène V.
 Don Juan, un Spectre en femme voilée, Sganarelle
 
 
-    LE SPECTRE
+    LE SPECTRE.
 Don Juan n'a plus qu'un moment à pouvoir profiter de la miséricorde du Ciel, et s'il ne se repent ici sa perte est résolue.
 
-    SGANARELLE
+    SGANARELLE.
 Entendez-vous Monsieur.
 
-    DON JUAN
+    DON JUAN.
 Qui ose tenir ces paroles, je crois connaître cette voix.
 
-    SGANARELLE
+    SGANARELLE.
 Ah Monsieur, c'est un spectre je le reconnais au marcher.
 
-    DON JUAN
+    DON JUAN.
 Spectre, fantôme, ou Diable je veux voir ce que c'est.
 
-    SGANARELLE
+    SGANARELLE.
 Ô Ciel ! voyez, Monsieur, ce changement de figure.
 
-    DON JUAN
+    DON JUAN.
 Non, non, rien n'est capable de m'imprimer de la terreur, et je veux éprouver avec mon épée si c'est un corps ou un esprit.
 
-    SGANARELLE
+    SGANARELLE.
 Ah Monsieur, rendez-vous à tant de preuves et jetez-vous vite dans le repentir.
 
-    DON JUAN
+    DON JUAN.
 Non, non, il ne sera pas dit que quoi qu'il arrive je sois capable de me repentir allons suis-moi.
 
 
-### Scène VI
+### Scène VI.
 La Statue, Don Juan, Sganarelle
 
 
-    LA STATUE
+    LA STATUE.
 Arrêtez Don Juan, vous m'avez hier donné parole de venir manger avec moi.
 
-    DON JUAN
+    DON JUAN.
 Oui, où faut il aller ?
 
-    LA STATUE
+    LA STATUE.
 Donnez-moi la main.
 
-    DON JUAN
+    DON JUAN.
 La voilà
 
-    LA STATUE
+    LA STATUE.
 Don Juan, l'endurcissement au péché traîne une mort funeste, et les grâces du Ciel que l'on renvoie ouvrent un chemin à la foudre.
 
-    DON JUAN
+    DON JUAN.
 Ô Ciel que sens-je ? un feu invisible me brûle, je n'en puis plus et tout mon corps devient…
 
-    SGANARELLE
+    SGANARELLE.
 Ah mes gages ! mes gages ! voilà par sa mort un chacun satisfait, Ciel offensé, lois violées, filles séduites, familles déshonorées, parents outragés, femmes mises à mal, maris poussés à bout, tout le monde est content, il n'y a que moi seul de malheureux, mes gages, mes gages, mes gages !
 
 <FIN>

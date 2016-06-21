@@ -16,7 +16,7 @@ A ROUEN, *et se vend* A PARIS, chez GUILLAUME DE LUYNE, au Palais, Dans la salle
 Édition critique établie par Thierry Simoncello dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2008-2009)
 
 
-# Introduction
+# Introduction.
 
 
 Cependant toute la gloire du moi, ainsi démentie par la faiblesse de l'homme au sein de l'univers, pourrait trouver refuge dans le désir même que la gloire inspire, s'il était prouvé que ce désir fût noble. [1]
@@ -24,7 +24,7 @@ Cependant toute la gloire du moi, ainsi démentie par la faiblesse de l'homme au
 À un moment de l'histoire du théâtre où le genre comique est un peu en reflux, paraît sur la scène de l'Hôtel de Bourgogne une pièce de Thomas Corneille intitulée *La Comtesse d'Orgueil*. Cette comédie à l'espagnole dont on sait seulement qu'elle est créée en 1670 et dont l'intrigue est fondée sur l'opposition psychologique de deux frères ne semble pas connaître le succès avant le siècle suivant. Or, quelques années avant, en 1668, la pièce *Le Baron d'Albikrac*, elle aussi d'inspiration espagnole, est une réussite, à tel point que presque tout le monde la connaissait d'une manière ou d'une autre. Le plus étonnant dans le croisement des destins de ces deux pièces, c'est qu'elles avaient une intrigue quasiment identique. Il semble qu'il soit plus facile d'expliquer l'échec d'une pièce comme *La Comtesse d'Orgueil* que le triomphe du *Baron d'Albikrac*, notamment à la lumière du contexte historique et théâtral. En effet, la mode de la comédie à l'espagnole qui a fait les beaux jours de plusieurs dramaturges dont Thomas Corneille date des années 1650 et n'entre plus dans les attentes du public. Dans la décennie 1660, le genre comique commence à être moins représenté au profit de la tragédie et, surtout, la concurrence d'une personne comme Molière n'aide en rien la réussite des pièces des dramaturges des autres théâtres. Il nous semble donc que tous les éléments soient réunis pour faire en sorte qu'une comédie à l'espagnole jouée en 1670 ne soit pas un très grand succès pour son auteur. Toutefois, Thomas Corneille avait réussi à adapter la pièce au goût du public français en la disposant en cinq actes et en supprimant tout élément espagnol. Seule était conservée l'intrigue qui opposait un riche et fourbe marquis à son pauvre frère dans la conquête d'une jeune femme. Finalement, comment expliquer que deux pièces si proches aient eu une fin si différente ? Nous pouvons supposer que les pièces concurrentes, jouées au même moment ont une part de responsabilité à ce sujet. Ajoutons aussi les goûts d'un public exigeant voire capricieux dont l'intérêt pour le théâtre se situe plus dans le plaisir et le divertissement que dans le fait de voir couronner une nouvelle fois un dramaturge qu'il connaît déjà [2].
 
 
-# Aspects de la vie de Thomas Corneille
+# Aspects de la vie de Thomas Corneille.
 
 Fils d'un maître particulier des eaux et forêts à Rouen, Thomas Corneille naît en 1625. Il suit ses études au collège des jésuites de Rouen avant de rentrer à l'université de Caen afin d'étudier le droit et à terme de devenir avocat. Son père meurt en 1639 et c'est ainsi que Pierre Corneille, son aîné de dix-neuf ans, devient son tuteur. L'auteur du *Cid* prend son rôle de guide au sérieux ; c'est notamment grâce à lui que Thomas apprend l'espagnol, qui lui sera tant utile dans sa carrière, et qui lui donne le goût du théâtre. En 1647, Thomas Corneille fait représenter *Les Engagements du hasard*, comédie reprise de Calderón, à l'Hôtel de Bourgogne avec l'appui du comédien Floridor, grand ami de la famille Corneille. La pièce est appréciée du public. Sa carrière d'auteur dramatique lancée, il propose deux nouvelles comédies au public du théâtre de l'Hôtel de Bourgogne : *Le Feint Astrologue* en 1648 et *Don Bertrand de Cigarral* et 1650 qui sont toutes deux des réussites. Entre temps, Thomas s'est marié avec la sœur de la femme de Pierre, Marguerite de Lampérière avec qui il aura trois enfants, les deux familles s'installant dans la même maison à Rouen. En 1651, Thomas Corneille reprend une pièce d'Antonio de Solis qu'il intitule *L'Amour à la mode*.
 
@@ -43,17 +43,17 @@ Le fait que les dernières pièces de Thomas Corneille ne suscitent plus l'engou
 En 1684, Pierre Corneille décède, laissant libre son siège à l'Académie. En toute logique, Thomas est élu à la place de son frère le 2 janvier 1685 à l'unanimité. À cette occasion, il prononce un discours incluant un éloge pour son défunt frère. Racine, qui préside alors l'Académie, répond par un éloge vibrant de Pierre Corneille. Il prend d'ailleurs cette nouvelle occupation très au sérieux : il a une grande importance dans les travaux réalisés pour le dictionnaire de 1672. En ce sens, il est considéré comme académicien modèle. En 1688, Thomas Corneille prend part à la fameuse querelle des Anciens et des Modernes [16] et se positionne en faveur des Modernes, notamment pour défendre son neveu Fontenelle très engagé dans la discorde depuis son arrivée à l'Académie. Jusqu'en 1694, les attaques sont vives entre les deux camps, opposant en particulier Thomas Corneille et La Bruyère. L'affaire finit par s'essouffler d'elle-même. Peu avant, en 1690, Furetière publie son propre dictionnaire [17] sans passer par l'Académie. Il en est finalement exclu. Les académiciens tentent de faire mieux que l'ouvrage de Furetière en associant au *Dictionnaire de l'Académie* un autre *Dictionnaire des termes des arts et des sciences*, confié à Thomas Corneille et qui paraît en 1694. Dans les dernières années de sa vie, il continue d'aller aux séances de l'Académie, mais se consacre aussi à des projets personnels comme la traduction des *Métamorphoses* d'Ovide ou de certains textes d'Esope. Cependant, la dernière grande occupation de sa vie reste la rédaction du *Dictionnaire universel géographique et historique* qui lui prend tout son temps de 1694 à 1708. Il réussit à terminer l'ouvrage bien qu'il soit devenu aveugle et qu'il ait eu recours à un lecteur personnel pour travailler. L'argent obtenu par avance de l'éditeur lui permet de rembourser l'emprunt contracté pour le mariage de sa fille. En 1704, l'Académie lui donne le titre de vétéran, créé spécialement pour lui et on allège toutes ses charges à l'Académie. En 1706, sa femme meurt et il décide d'aller finir sa vie seul dans sa maison aux Andelys en 1708. Fontenelle est l'un des seuls à aller lui rendre visite régulièrement. C'est le 8 décembre 1709 qu'il meurt. Le mois suivant, De Visé rédige de lui un portrait élogieux dans le *Mercure galant*.
 
 
-# Situation de la comédie à la fin des années 1660
+# Situation de la comédie à la fin des années 1660.
 
 
-## Situation générale
+## Situation générale.
 
 La décennie qui va de 1660 à 1670 constitue une période durant laquelle la comédie se place comme le genre majeur sur le théâtre, même si, sur la fin, vers 1668, la tendance semble évoluer du côté de la tragédie qui finit par compter quelques pièces de plus par an que la comédie [18]. L'année 1670 compte trente-trois comédies pour trente-neuf tragédies. Ceci marque la lente descente du genre comique jusqu'aux années 1680. Cependant, les années qui précèdent représentent une période faste pour un genre qui a connu bien des évolutions et des traitements au cours du siècle. La réussite comique dans les années 1660 est en grande partie due au succès de Molière et de ses œuvres. En effet, avec Molière, c'est un renouveau qui s'instaure pour la comédie. S'appuyant sur un effet mimétique vis-à-vis du réel, son théâtre paraît plus vraisemblable aux yeux du public qui, dès lors, devient plus attentif pendant toute une représentation [19]. Bien plus que cela, Molière a une conception propre du personnage de comédie à qui il va donner des traits distinctifs permettant de l'identifier ; il ne s'appuiera pas seulement sur un type comique comme c'était le cas auparavant. Ces caractéristiques propres peuvent aussi bien se situer au niveau moral, physique ou encore langagier [20] augmentant ainsi la vraisemblance du spectacle et donc la facilité d'écoute du spectateur. Tout ceci au service d'un but idéologique précis, résumé par la formule *castigat ridendo mores*, corriger les mœurs par le rire [21]. Molière se base sur la société contemporaine pour sélectionner les vices qu'il veut traiter dans ses pièces. Cela nous explique une partie des résistances qu'il a dû subir durant sa carrière. Nous pouvons, par exemple, penser aux dévots qui ont réussi à faire interdire les représentations du *Tartuffe* de 1664 à 1669 car étant visés par Molière. Cette querelle dépasse largement le simple cadre des dévots en traitant aussi la question de la moralité du théâtre, et le problème de la représentation du sacré au sein de quelque chose de profane. C'est dans ce climat chargé en querelles et débats que Molière va imposer sa vision de la comédie et à redorer l'image d'un genre qui était vu comme forcément inférieur à la tragédie, et ce, depuis la *Poétique* d'Aristote. Molière, qui a fait évoluer l'entreprise comique en en « désencombrant l'horizon » [22] (n'oublions pas qu'une grande partie des formules de comédies sont de lui, notamment la comédie-ballet), reste finalement l'auteur qui a le plus marqué cette période, bien que d'autres comme Montfleury ou encore Poisson aient fait représenter des comédies à la même période. Toujours est-il que ce sont les pièces de Molière, leur originalité, mais aussi les querelles qu'elles ont entraînées qui ont permis de redonner au public le goût de la comédie, ce qui a été profitable aux autres auteurs comiques de l'époque dont Thomas Corneille avec *Le Baron d'Albikrac* en 1668.
 
 Finalement, malgré le retour de la tragédie à la toute fin des années 1660, le genre comique continue de bien se porter jusqu'aux environs de l'année 1680. Le déclin de cette période est entraîné par une atmosphère pesante en France en raison des guerres internes, externes, des conflits sociaux et religieux.
 
 
-## *La Comtesse d'Orgueil* et la comédie à l'espagnole
+## *La Comtesse d'Orgueil* et la comédie à l'espagnole.
 
 Avant de se lancer dans l'analyse des sources à proprement parler, il convient de s'intéresser au type de comédie auquel elles appartiennent et à celui qui en découle en France. Les sources de *La Comtesse d'orgueil* sont œuvres de dramaturges espagnols du Siècle d'Or ; on peut ainsi dire que ce sont des *comedias*. Ce terme de *comedia* mérite qu'on s'y attache car il n'est pas l'exacte traduction de « comédie » en français. Selon Jean Sentaurens [23], le mot peut à la fois désigner l'opposé de la tragédie, une représentation ou un poème dramatique. C'est ce troisième sens qui nous intéresse particulièrement car il permet d'expliquer la différence de concept entre la « comédie » au sens français et de *comedia*. L'élément dominant que nous devons prendre en compte dans cette définition est sans aucun doute la mixité de ton que l'on rencontre dans ces pièces. En effet, cette variété entre comique et tragique existe par reflet de la réalité faite de mélange. Il s'agit donc d'un souci de paraître naturelle aux yeux du public ; les *comedias* ne sont donc pas nécessairement comiques [24]. Cependant, la *comedia* n'est pas dénuée de règles. Elle est toujours composée de trois journées qui correspondent chacune à une sorte d'acte, le lieu et le temps sont modulables au gré du dramaturge. On accorde de l'importance simplement à ce que l'action domine sur les autres éléments de la pièce. Ceci peut expliquer pourquoi ce sont souvent des pièces avec des rebondissements et de nombreuses péripéties, c'est pour cette raison que Michel Gilot et Jean Serroy affirment que le romanesque, avec ses situations à rapprocher de la tragi-comédie, fait partie des caractères essentiels de la *comedia* [25]. Par ailleurs, le personnel dramatique est propre au genre. Le type du valet comique dit *gracioso* en reste le plus représentatif et le plus connu ; il constitue la face bouffonne et grotesque de la pièce [26] qu'il conviendra d'étudier plus longuement dans le développement consacré au rapport avec les sources. Dans la *comedia*, il n'est donc pas question d'unité de temps et de lieu comme c'est le cas chez nous depuis que les théoriciens se sont mis d'accord sur ces questions théoriques. En d'autres termes, les principales différences entre ces deux types de comédie se situent dans le respect des règles classiques ou non (que se soit les trois unités ou bien la règle de l'unité de ton). Il faudra s'intéresser à la façon dont Thomas Corneille a procédé pour gommer ces différences et les faire rentrer dans le moule du système comique français.
 
@@ -68,48 +68,48 @@ Moins connus, certains auteurs de théâtre ont tellement pratiqué l'influence 
 En somme, durant toute une période, le théâtre d'influence espagnole a connu un grand succès en France. Il convient désormais d'étudier les mécanismes de l'adaptation au goût français par les dramaturges d'une littérature qui n'était pas destinée à ce public. À ce sujet, nous pouvons ajouter que la qualité de l'adaptation mais aussi celle du modèle sont les facteurs essentiels de la réussite d'une comédie à l'espagnole en France. Nous ne débattrons pas ici de la qualité d'un texte source. Nous allons seulement évoquer brièvement les techniques auxquelles ont recours les dramaturges lorsqu'il s'agit de rendre un texte espagnol conforme aux exigences du public français. Tout d'abord, précisons les rapports qu'entretient la *comedia* avec le lieu, le temps et l'action. Pour ce qui est du lieu, il s'agit dans la plupart des cas de Madrid dans son ensemble ; c'est-à-dire que l'on peut d'un moment à un autre se déplacer dans cet espace. En quelque sorte, la *comedia* respecte l'unité de lieu seulement si on la comprend dans son sens large. En effet, il est clair qu'au sens strict ce n'est pas le cas : d'un acte à l'autre, voire d'une scène à l'autre, l'action peut se déplacer d'un point de la ville à un autre. En ce qui concerne le temps, nous pouvons dire qu'il se cale sur le déroulement de l'action. Cette dernière peut nécessiter autant de temps qu'il convient au dramaturge ; il n'y a pas de contrainte à ce niveau pour les dramaturges. Précisons que l'intervalle de temps entre les actes est lui aussi très variable. Quant à l'action elle-même, elle se divise en deux composantes et démarre toujours par une péripétie. La fin de la pièce comporte souvent des mariages mais elle n'est pas forcément heureuse. Il y a une sorte de « justice poétique [38] » dans laquelle les actions des personnages entraînent une bonne ou une mauvaise fin selon si elles étaient louables ou critiquables. C'est souvent le dernier acte d'un personnage qui définit sa ligne de conduite et donc sa fin. Pour C.-V. Aubrun, il y a un « *ars bene moriendi* [39] », un art de bien finir pour le personnage de *comedia*. Finalement, nous avons pu nous rendre compte que le théâtre espagnol ne répond pas très bien aux exigences de régularité connues sur le sol français. Toute la construction d'une pièce espagnole de cette époque repose sur une action tirée de sources qui peuvent être diverses, comme la pastorale, les livres de chevalerie, la *Bible*, le roman [40], etc. qui contiennent de nombreuses péripéties et complications. Ainsi, le mot d'ordre du dramaturge espagnol est plus le spectaculaire que l'illusion voulue par les doctes français. D'ailleurs, la structure du spectacle construit autour de la pièce en Espagne le montre bien. Il s'agit de casser cette illusion [41]. Pour les auteurs français qui veulent adapter ces pièces, il faut engager le processus inverse de créer l'illusion de vérité en faisant entrer la matière dans les règles établies dans ce but. L'adaptation de ces pièces résulte surtout de la simplification et de l'accélération de l'action afin qu'elle soit unique et qu'elle tienne dans un temps raisonnable. On s'en tient souvent à la journée bien que la *comedia* ne soit pas aussi stricte que la comédie à ce sujet. Au niveau du lieu, certains dramaturges gardent Madrid car le dépaysement leur plaît, tout comme au public [42]. Celui qui veut adapter une *comedia* doit aussi gommer, en partie au moins, tous les usages qui semblent trop espagnols et les adapter aux coutumes françaises [43]. En somme, en plus de simplifier l'action afin de faire rentrer les pièces dans les règles, il convient d'adapter les détails aux habitudes françaises. Nous pouvons remarquer que changer la nature de pièces pleines de quiproquos, rebondissements en pièces régulières dénature quelque peu la visée d'origine dans laquelle elles étaient écrites. Tous les changements de situations, d'états connus par un personnage au cours d'une intrigue ne sont qu'une autre manière de montrer que chaque action a une incidence et que le destin du personnage est la résultante de toutes ses actions. La fin consiste donc à mettre le personnage en position de responsable ; nous y voyons la partie psychologique et finalement instructive de la *comedia* espagnole.
 
 
-## Création et destin de la pièce
+## Création et destin de la pièce.
 
 Aucun document n'apporte la date précise de création de la pièce. Sophie Wilm Deierkauf-Holsboer précise simplement qu'elle s'inscrit dans un cycle de pièces jouées à l'Hôtel de Bourgogne en 1670 comprenant quatre comédies et *Bérénice* de Racine [44]. Pour ce qui est du destin de la pièce sur la scène de l'Hôtel de Bourgogne, il n'est pas possible de conclure de manière sûre. Les documents disponibles ne donnent, en effet, pas les mêmes informations quant à l'appréciation du public. Lancaster [45] ne fait qu'une simple allusion aux représentations des siècles suivants ; cependant, il précise que la pièce a connu un grand succès. De son côté, Sophie Wilma Deierkauf-Holsboer [46] souligne que le public a beaucoup apprécié la pièce. Cependant, Gustave Reynier [47] affirme que la pièce a connu l'échec dès son arrivée sur le théâtre. Ainsi les témoignages contradictoires de ces études ne nous permettent pas de conclure sur l'opinion du public au sujet de *La Comtesse d'Orgueil*, la recette qu'elle a engendrée, la réputation qu'elle a eue. Il semble, cependant, que dans sa période de création la pièce n'ait pas connu le succès et que sa bonne réputation auprès du public soit faite bien plus tardivement. Par ailleurs, voici la liste des acteurs qui jouaient à l'Hôtel de Bourgogne au moment de la création de la pièce en 1670 : la troupe était composée de Floridor, sa femme, Hauteroche, Belleroche et sa femme, Brécourt et sa femme, Beauchasteau, Dennebault, Lafleur, Champmeslé et sa femme [48]. Faute de documents plus précis, nous ne pouvons pas affirmer avec certitude quel acteur jouait quel rôle.
 
 
-# La Comtesse d'Orgueil et ses sources
+# La Comtesse d'Orgueil et ses sources.
 
 
-## Résumé
+## Résumé.
 
 
-### Acte I
+### Acte I.
 
 Lyse, la suivante de la comtesse d'Orgueil, apprend à Carlin, le valet de marquis de Lorgnac, que sa maîtresse est absente de chez elle depuis un mois. Carlin fait la cour à Lyse bien qu'il se soit déjà promis à Virgine, la suivante d'Olympe. Carlin explique qu'il sert le marquis afin d'être utile à son frère, le chevalier qui, bien que noble, ne possède aucun bien. Il doit l'aider à conquérir Olympe en mettant Virgine au courant. Le marquis se plaît à raconter que son frère n'a pas d'argent car il le hait (sc. 1). Le marquis apprend que Lyse vient de la part de la comtesse d'Orgueil : elle voudrait le rencontrer. Lyse lui fait croire que la comtesse a été impressionnée de la voir. Lyse part avertir sa maîtresse (sc. 2). Le chevalier croise son frère avec Carlin. Le marquis montre un grand mépris à son égard, notamment en ce qui concerne son manque d'argent et sa gueuserie alors que le chevalier tente d'expliquer qu'il n'en est pas moins noble. Selon le marquis, c'est cet argument qui doit servir à son frère pour combler Olympe, la fille d'Anselme, riche bourgeois de la ville. Le chevalier explique que son rang pourrait compléter la fortune d'Anselme et qu'il est bel et bien épris d'Olympe. Le marquis propose son aide afin de faire réussir l'alliance (sc. 3). Carlin pense que son soutien n'est pas sincère. Arrive Oronte, l'amant de de la nièce d'Anselme, Lucrèce (sc. 4). Oronte va se marier avec Lucrèce. Cependant, Anselme veut attendre le retour de la comtesse d'Orgueil, qui est la sœur d'Oronte, pour célébrer le mariage. Voyant l'arrivée de Lucrèce et d'Olympe, le chevalier décide de partir avec Carlin afin de ne pas être confronté à elle (sc. 5). Olympe apprend à Oronte qu'elle et sa cousine ont dû écouter le discours de galants et que cela ne lui plaît guère (sc. 6). Virgine vient apprendre à Olympe que son père la destine à un marquis. Celle-ci trouve étrange de ne pas être consultée dans cette affaire et explique qu'elle donne beaucoup de crédit à l'esprit d'un homme. Oronte fait part des moqueries que le marquis suscite et vante les mérites du chevalier qu'Olympe à déjà vu. Il lui semble qu'il manque d'esprit. Elle décide de parler au marquis pour le connaître avant de s'engager et charge Virgine de le faire venir le soir même à sa fenêtre. Oronte doit se renseigner plus en détails sur le marquis (sc. 7).
 
 
-### Acte II
+### Acte II.
 
 Après avoir conclu un accord avec le marquis pour un mariage avec Olympe, Anselme vante les mérites de sa fille. Le choix du marquis pour gendre est fort honorable pour sa famille. Le marquis explique qu'il a devancé son frère pour la demande en mariage. Les deux hommes décident finalement de signer un dédit. Anselme explique au marquis qu'il doit se charger de la noce de sa nièce Lucrèce avec Oronte qui se fera en la présence de la comtesse d'orgueil. Un duc tenterait de courtiser la comtesse, ce qui rend le marquis jaloux (sc. 1). Carlin rentre chez Anselme et demande à parler au marquis seul à seul (sc. 2). Carlin lui apprend qu'une marquise est passée chez lui mais que ne le trouvant pas, elle se laissera courtiser par un abbé. Ensuite, le marquis se vante d'avoir réussi à faire céder Anselme en sa faveur. Il précise qu'il lui a parlé en son propre nom pour désespérer son frère. Carlin est outré de la conduite du marquis. Il est déjà trop tard car le dédit signé engage dix mille écus à celui qui annule (sc. 3). Virgine demande à parler au marquis. Olympe l'attend le soir même sur son balcon afin de s'entretenir (sc. 4). Virgine fait l'éloge de sa maîtresse au marquis. Ce dernier profite de l'occasion pour faire des compliments à la suivante qui s'en va juste après car elle a entendu du bruit signalant l'arrivée de quelqu'un (sc. 5). Il s'agit du chevalier qui se rendait chez le marquis. Celui-ci apprend à son frère qu'Anselme a accepté la demande. Le marquis tente de faire partir le chevaleir plus loin ; mais il vient de voir Olympe paraître sur son balcon (sc. 6). Olympe charge sa cousine d'occuper son père pendant qu'elle s'entretient avec le marquis et promet de lui en faire le portait ensuite (sc. 7). Virgine tente de faire comprendre à sa maîtresse que le marquis reste quelqu'un d'important et qu'il n'a pas tous les défauts qu'on lui donne. Selon elle, Oronte le méprise car il ne veut pas voir Olympe acquérir un rang plus élevé que celui de Lucrèce (sc. 8). Le chevalier déclare son amour à Olympe, croyant qu'Anselme à accepté sa demande. Olympe, croyant qu'il s'agit du marquis, insiste sur le fait que cet amour est nouveau. Le chevalier semble surpris car il a passé beaucoup de temps à la suivre, chose dont Olympe ne semble pas se rappeler. Virgine déclare que celui qu'elle pense le marquis n'est qu'un sot. Olympe explique au chevalier qu'elle est préoccupée par un autre amour. Ce à quoi il répond en disant qu'il est déçu mais qu'il accepte sa décision. Finalement, le chevalier se rend compte qu'Olympe le prend pour son frère. Il lui demande donc son avis sur lui-même. Celle-ci raconte qu'elle le trouve idiot. Le chevalier manifeste discrètement sa déception, puis du bruit vient interrompre la conversation (sc. 9). Le marquis arrive avec Carlin et ses domestiques. Le marquis tente de faire partir son frère qui refuse, ayant pris connaissance de la traîtrise de son aîné. Le chevalier provoque donc le traître en duel. Celui-ci s'enfuit alors qu'Olympe et Virgine pensent que le chevalier est le lâche. Olympe avoue son inquiétude à propos du duel car elle aime le marquis.
 
 
-### Acte III
+### Acte III.
 
 Oronte apprend à Lucrèce qu'il doit partir pour quelques jours. Il est inquiet pour Olympe à propos de son probable mariage avec la marquis. En effet, celui-ci à dit à Oronte que la comtesse attendait sa visite alors qu'il ne la connaît pas ni ne l'a jamais vue (sc. 1). Oronte demande à Olympe de prendre soin de Lucrèce pendant son absence (sc. 2). Lucrèce fait le résumé à Olympe des défauts qu'Oronte prête au marquis. Olympe tente de le défendre. Elle propose que Lucrèce le juge sur sa prochaine visite et commence à lui raconter ses exploits contre son frère (sc. 3). Virgine avertit Olympe que le frère du marquis, le chevalier, vient lui rendre visite. Olympe rechigne à le recevoir puis accepte. Virgine se dirige vers la pièce d'à côté pour bloquer Anselme au cas où il compterait venir (sc. 4). Le chevalier vient féliciter Olympe de son prochain mariage avec son frère. Il annonce aussi de manière douce et discrète son amour déçu et son départ prochain de Paris (sc. 5). Olympe le trouve fort agréable et charmant bien qu'elle désapprouve son attitude passée. Elle ne comprend pas pourquoi le chevalier croit qu'elle le méprise puisqu'elle ne lui avait jamais parlé auparavant. Lucrèce conclue en disant qu'il doit aimer quelqu'un d'autre (sc. 6). Carlin annonce la venue du marquis à Olympe. Ce sera l'occasion pour Lucrèce de le juger (sc. 7). L'entretien permet de voir la grossièreté, l'intolérance à l'amour ainsi que le côté ridicule du marquis. Olympe et Lucrèce apprennent que le rendez-vous de la veille s'est passé avec le chevalier. Le marquis explique la machination au sujet du mariage avec Olympe. Le marquis fait la cour à Lucrèce et montre du mépris pour Anselme. Olympe ne se montrant pas intéressée par le marquis, celui-ci décide de l'épouser pour la faire enrager (sc. 8). Malgré l'arrivée d'Anselme, le marquis garde son comportement ridicule. Les deux hommes sortent afin de discuter de la dot du mariage (sc. 9). Olympe déclare que le chevalier lui plaît et se lamente de devoir épouser le marquis à cause du dédit. Virgine songe à un stratagème pour annuler ce mariage mais ne le dévoile pas (sc. 10).
 
 
-### Acte IV
+### Acte IV.
 
 Lucrèce apprend au chevalier qu'Olympe l'aime aussi et qu'il y avait erreur sur la personne. On s'apprête à jouer un tour au marquis. On l'a prévenu que la comtesse l'attend chez elle. Or, il s'agira de Virgine. Elle devra faire croire au marquis qu'elle souhaite l'épouser afin qu'il rompe le dédit et paie les dix mille écus, laissant le chevalier se marier avec Olympe (sc. 1). Virgine paraît vêtue en comtesse. Lucrèce craint que le marquis la reconnaisse. Lyse ajoute qu'elles ne se ressemblent pas du tout. Selon Virgine, le marquis ne le remarquera pas (sc. 2). Carlin vient avertir Virgine que le marquis arrive. Ce dernier pense que la comtesse rentre de voyage simplement pour lui. Lucrèce et le chevalier sortent par la porte de derrière (sc. 3). Le marquis se vante auprès de Lyse d'avoir quitté trois marquises pour rendre visite à la comtesse (sc. 4). Carlin avertit le marquis que la comtesse a de l'esprit ce qui le ravit car il pense en avoir davantage (sc. 5). Le marquis complimente la fausse comtesse en lui disant qu'il l'imaginait comme elle est. Le marquis fait la cour à Virgine. Il veut se marier au plus vite. Virgine décide de programmer la noce au lendemain. Lyse vient avertir la fausse comtesse qu'un duc, ami d'Oronte, veut la voir. Elle refuse de le recevoir et détourne la conversation au sujet d'Oronte et de Lucrèce en expliquant qu'elle n'aime pas les bourgeois. Virgine rajoute qu'Olympe est pire que Lucrèce car elle n'a pas de bien. Selon elle, tout le monde se moque d'un campagnard qui projette de sa marier avec elle alors qu'elle est malade, n'a rien et à mauvais caractère. Carlin demande à son maître comment il compte faire pour se décharger des dix mille écus et épouser la comtesse. Oronte arrive ; on fait donc croire au marquis qu'elle doit se cacher car la comtesse n'est venu que pour lui seulement. Oronte est surpris de trouver le marquis en arrivant. Le marquis, parlant de la comtesse, fait d'elle un portrait qui ne correspond pas, ce qu'Oronte trouve étrange (sc. 7). Anselme vient saluer son futur gendre. Lyse demande discrètement au marquis de faire partir Anselme (sc. 8). Le marquis refuse de parler à Anselme dans la maison de la comtesse de son engagement avec Olympe. Or, le vieillard évoque cette affaire. Le marquis a donc peur que la comtesse ait entendu la conversation. Carlin l'avertir qu'elle arrive en pleures (sc. 9). Le marquis lui explique qu'il s'est engagé pour empêcher son frère de le faire mais qu'il peut faire annuler le dédit et se marier avec elle à la place d'Olympe. Virgine accepte et précise qu'elle peut payer l'annulation si besoin est. Virgine feint de s'inquiéter qu'Olympe tente de séduire le marquis quand il viendra annuler le contrat. Le marquis propose de laisser la place à son frère et promet de ne pas trahir la comtesse (sc. 10).
 
 
-### Acte V
+### Acte V.
 
 Anselme a fini par être dégoûté du marquis et semble apprécier le chevalier qu'il va rencontrer. Olympe reste inquiète bien que Virgine tente de la rassurer grâce au tour (sc. 1). Carlin vient avertir Olympe et Virgine que le marquis n'est plus jaloux de son frère puisqu'il est amoureux de la comtesse. Forte du prochain succès du tour, Olympe accepte que Virgine se marie avec Carlin (sc. 2). Lucrèce vient avertir Olympe que son père et le chevalier sont d'accord pour un prochain mariage. On attend son avis (sc. 3). Virgine craint de rencontrer le marquis en habit de suivante, ce qui mettrait la machination au grand jour. Carlin lui rétorque qu'il ne verra rien car elle a bien joué son rôle ; cela lui a plu de la voir dans cette noble position (sc. 4). Le marquis voit Virgine mais ne comprend pas qu'elle n'est qu'une suivante. Elle lui fait croire qu'elle est venue déguisée afin de savoir si Olympe tente de le charmer. Le marquis essaie d'obtenir un baiser de Virgine (sc. 5). Anselme n'apprécie pas que le marquis veuille la suivante à la place de sa fille. Le marquis accepte d'annuler le contrat et demande à Virgine de faire venir Olympe pour annuler le mariage. Il explique discrètement qu'il s'agit d'un tour pour tromper le vieillard (sc. 6). Il pense savoir qu'Anselme se vante d'être riche alors que l'argent fait partie de l'héritage de Lucrèce. Anselme ne comprend pas de quoi le marquis veut parler (sc. 7). Le marquis avoue qu'il méprise le statut d'Olympe autant que sa personne. Anselme et le marquis déchirent le dédit. Le marquis n'accepte pas qu'Anselme commande Virgine qu'il croit comtesse. Cela surprend le vieillard (sc. 8). Anselme propose officiellement au chevalier de devenir son gendre. Le marquis est ravi du choix car il pensait à lui quand il avait proposé un nouveau prétendant. Lucrèce apprend à tous que la comtesse veut se marier avec le marquis. Anselme révèle le statut de Virgine qui n'est qu'une simple servante. Le marquis n'y croit pas et demande des explications (sc. 9). Oronte vient annoncer l'arrivée de la comtesse d'Orgueil et la possibilité du mariage avec Lucrèce. Le marquis veut le surprendre en faisant venir Virgine. Elle demande à être mariée à Carlin et avoue sa condition de servante ainsi que le tour joué au marquis. Ce dernier est furieux contre Carlin ; il maudit son frère et Olympe avant de quitter la pièce. Anselme propose de payer les futurs mariages (sc. 10).
 
 
-## Trois comédies en une
+## Trois comédies en une.
 
 Plusieurs documents qui permettent de rétablir l'histoire de l'écriture de *La Comtesse d'Orgueil* et les sources utilisées par Thomas Corneille sont à notre disposition. Premièrement, en ce qui concerne les textes sources, nous disposons de trois documents. Alexandre Cioranescu [49] affirme, dans son développement sur les comédies à l'espagnole de Thomas Corneille, que *La Comtesse d'Orgueil* tire son histoire de la pièce *El Señor de noches buenas* de Álvaro Cubillo de Aragón. Il s'agit de l'information qui se retrouve le plus souvent dans les études sur la *comedia* ou sur Thomas Corneille. C'est ce que remarque Henry Carrington Lancaster [50]. Il ajoute que cette idée reçue n'est que partiellement exacte puisque l'intrigue de la pièce de Thomas Corneille ne correspond à celle de Cubillo de Aragon que dans les trois premiers actes. Les deux derniers proviennent donc d'un autre texte. Il note la ressemblance troublante de la pièce avec *Le Baron d'Albikrac* à ce niveau. Thomas Corneille a donc pu utiliser l'une de ses propres pièces pour construire la fin de celle-ci. Cependant, dans son travail, Lancaster ne fait que proposer une hypothèse sans pour autant avoir tous les éléments en main pour affirmer quel texte est à la base des deux derniers actes. Dans cette optique, l'étude des sources de la pièce par Joseph F. Privitera [51] apporte des informations supplémentaires. Il commence par confirmer l'idée de Lancaster selon laquelle les trois premiers actes sont bien issus de *El Señor de noches buenas* de Cubillo. Il ajoute que ceux qui comme Von Schack [52] ont voulu que cette pièce espagnole soit la source de toute celle de T. Corneille se sont trompés. Selon lui, il y a donc bien une source pour les trois premiers actes et une autre pour les deux derniers qu'il identifie clairement comme *El Lindo Don Diego* de Á. Moreto. Il finit par nous donner les proportions d'influence des deux pièces. Sur trente-quatre scènes, vingt viennent de chez Moreto et douze de chez Cubillo de Aragon. Les deux tiers des trois premiers actes sont inspirés de la pièce de Cubillo de Aragon avec quatorze scènes. Pour la pièce de Moreto, on compte six scènes soit un tiers des trois premiers actes, mais surtout les actes quatre et cinq entiers [53]. Selon Privitera, ce sont ces statistiques qui permettent d'affirmer que la pièce *El Lindo Don Diego* de Moreto est la source principale de *La Comtesse d'Orgueil* alors que *El Señor de noches buenas* de Cubillo de Aragon n'en est que la source secondaire. Il semble important de préciser que ces statistiques ne sont pas les seules informations qui prouvent cela. En effet, la consultation de l'ouvrage de Georges Forestier sur la génétique théâtrale [54] permet de confirmer ce qu'avance Privitera. La théorie développée dans cet ouvrage s'appuie sur le fait que la fin des comédies reprend toujours le même schéma, à savoir le dénouement nuptial. Ainsi, le dramaturge base son intrigue sur le dénouement en remontant petit à petit vers les événements du début de l'intrigue. C'est cette utilisation du dénouement de la pièce comme base qui permet d'affirmer dans notre cas que la pièce de Moreto est la source principale utilisée par Thomas Corneille. Il a donc pris en référence cette pièce pour créer son dénouement et remonter vers le début en créant un lien avec la pièce de Álvaro Cubillo de Aragón au cours du troisième acte. Finalement, plus que de simples statistiques, c'est le texte théorique de Georges Forestier sur le sujet qui permet de poser *El Lindo Don Diego* de Moreto comme source principale et *El Señor de noches buenas* de Álvaro Cubillo de Aragón comme source secondaire.
 
 
-### *El Lindo Don Diego* de Moreto
+### *El Lindo Don Diego* de Moreto.
 
 Au sujet de cette pièce qui date de 1662, malheureusement, peu d'éléments d'analyse sont disponibles. Nous avons réussi à trouver une analyse très sommaire au début de l'édition de la pièce utilisée comme référence [55] dont nous allons révéler le trait principal. Tout d'abord, la pièce se fonde sur une classe de personnages appelés *los lindos* [56]. La traduction française qui pourrait correspondre serait « les beaux ». Par déduction, cette catégorie s'applique à celle des marquis en France. Beaucoup de pièces espagnoles du siècle d'or traitent de sujets dont les protagonistes appartiennent à cette classe. Dans l'ouvrage de Charles Vincent Aubrun, nous trouvons un résumé de l'action dont nous proposons ici les grandes lignes :
 
@@ -119,7 +119,7 @@ Deux soeurs rusées et volontaires, leurs cousins (l'un discret et prudent, l'au
 Certes, le résumé est succinct, mais il nous permet déjà de voir les éléments qui ont attiré l'attention de Thomas Corneille et qu'il a réutilisés dans sa propre pièce. En accord, avec la théorie développée précédemment et qui considère *El Lindo Don Diego* comme la source principale de *La Comtesse d'Orgueil*, c'est la fin de la pièce de Moreto qui va nous intéresser. Le dénominateur commun des deux pièces n'est autre que la ruse du déguisement de la servante en comtesse qui constitue le moment fort, la clé de voûte de l'action dans les deux cas. La fin véritable chez Moreto n'est en fin de compte qu'anecdotique puisqu'elle suit un schéma classique de dénouement nuptial après effacement de l'obstacle. Au sujet des personnages, ils ne semblent pas correspondre à ceux de Thomas Corneille, mais le faible développement sur le sujet ne permet pas de conclure sur ce point. En somme, Thomas Corneille aura puisé sa matière principale chez celui qui a été prêtre à la cour de Philippe IV. Notons que les remarques de C.-V. Aubrun sur le théâtre de Moreto, à savoir que les conflits dans ses pièces viennent d'une inadaptation des hommes à la société, ainsi que, très souvent, le « caractère » d'un personnage tourne au comique en devenant un « entêtement ridicule [58] » semblent adéquats pour notre cas, en particulier si l'on pense au personnage du marquis de Lorgnac dont la croyance d'être admiré par tous et la haine de la gueuserie en font bel et bien un personnage entêté et ridicule.
 
 
-### *El Señor de noches buenas* de Álvaro Cubillo de Aragón
+### *El Señor de noches buenas* de Álvaro Cubillo de Aragón.
 
 À l'inverse, il existe plus de travaux sur cette pièce que sur la précédente. Nous précisons que notre développement sera en majeure partie fondée sur la thèse de Elena Elisabetta Marcello [59]. Voici pour commencer les informations préliminaires concernant *El Señor de noches buenas*. La pièce a été créée à Grenade à une date inconnue, puis représentée à Madrid le premier juin 1634 et le 22 avril 1635. Elle aurait été écrite entre 1630 et 1632. Il s'agit de l'une des pièces les plus connues de son auteur. Selon E. E. Marcello, la pièce évoque son temps puisqu'il y est question du roi de l'époque, à savoir Gustavo Adolfo II [60].
 
@@ -128,7 +128,7 @@ Certes, le résumé est succinct, mais il nous permet déjà de voir les éléme
 Après avoir insisté sur quelques détails, il convient de proposer un résumé précis [62] de l'action de la pièce afin de pouvoir, par la suite, voir les changements opérés par Thomas Corneille.
 
 
-#### Première journée
+#### Première journée.
 
 Première séquence : *Les serviteurs décrivent et annoncent leurs maîtres.*
 
@@ -159,7 +159,7 @@ Septième séquence : *L'escarmouche.*
 (v. 962-997) : En voyant arriver le marquis au rendez-vous, Enrique est convaincu de sa trahison et se lance dans un combat contre lui.
 
 
-#### Journée II
+#### Journée II.
 
 Première séquence : *L'amour de Leonardo et Dorotea.*
 
@@ -190,7 +190,7 @@ Septième séquence : *Les amants, Porcia et Enrique, se déclarent leur amour.
 (v. 1560-1783) : Porcia déclare son amour à Enrique quand celui-ci dit au revoir depuis le balcon, qui a été le témoin de son malheureux amour. Ensemble, ils décident de résoudre cet imbroglio. Ils planifient, avec l'aide de Leonardo et Copete, de feindre le départ d'Enrique, qui se cacherait dans la maison de son ami. Les amants se donnent rendez-vous durant la nuit.
 
 
-#### Journée III
+#### Journée III.
 
 Première séquence : *Les trois couples se quittent.*
 
@@ -229,24 +229,24 @@ Neuvième séquence : *Le dénouement.*
 (v. 2435-2486) : L'arrivée de Porcia puis celle de ses complices révèle la tromperie. On décide ainsi de planifier les mariages d'Enrique et Porcia, de Leonardo et Dorotea, et de Copete et Aldonza.
 
 
-### Les contraintes
+### Les contraintes.
 
 Nous avons vu que Thomas Corneille tire sa pièce d'une origine espagnole dont il doit adapter la matière aux goûts et aux règles du théâtre français et de son public. Pour ce faire, il est dans l'obligation de se plier aussi bien aux contraintes théoriques que matérielles. Nous allons voir ici dans quelle mesure la pièce est rendue conforme à ces contraintes. Nous notons, par ailleurs, que pour ce qui est du temps, la pièce ne pose aucun problème puisque les sources, et notamment le pièce de Cubillo, tiennent en vingt-quatre heures avec une nuit dans ce laps de temps.
 
 
-#### Le décor
+#### Le décor.
 
 Une question importante dans ces conditions se pose en ce qui concerne le décor et sa structure. Comment Thomas Corneille va-t-il représenter sur scène une pièce dans laquelle se déroulent des scènes de rue et diverses scènes d'intérieur (chez la comtesse et chez Anselme ? Il nous faut, tout d'abord, écarter l'idée du changement de décor à vue qui, bien qu'en vogue dans les années 1660, ne convient pas vraiment au style de notre pièce car c'est une manipulation qui entretient de meilleures relations avec les pièces à machines. À en croire D. A. Collins [63], Thomas Corneille respecte l'unité de lieu dans toutes ses comédies, sauf dans *Don Bertrand de Cigarral*. C'est donc bien le cas pour *La Comtesse d'Orgueil*. Il faut donc que la pièce comporte un décor unique du début à la fin et qui réunisse tous les endroits précis où les scènes se déroulent. En clair, le décor en question doit pouvoir accueillir la maison de la comtesse, ainsi qu'une sortie à l'arrière, la maison d'Anselme comprenant la chambre d'Olympe à l'étage avec un balcon et un cabinet, la rue. En outre, il faudra situer ces lieux au cœur de la ville. Pour satisfaire à toutes ces conditions, nous proposons un décor qui convient et qui se rapproche de ce qu'il a pu être lors de la création de la pièce. Ce décor se compose, d'abord, d'un panneau à l'arrière qui représente la ville de Paris où se déroule l'action. Sur un côté est disposée la maison de la comtesse, alors qu'en face nous retrouvons celle d'Anselme. Dans cette disposition les personnages au centre de la scène sont dans la rue ; ceux qui arrivent des côtés et derrière les maisons donnent l'illusion de venir d'un endroit quelconque de la ville. À ce stade, le décor ne résout qu'une partie des difficultés liées à la représentation. Comment à la fois montrer ce qu'il se passe dans la rue et dans les maisons ? La première réponse concerne le balcon. Pour les scènes de dialogue entre un personnage de la rue et un personnage de la maison, il suffit de créer une fenêtre d'où peut sortir le personnage accédant ainsi au balcon de l'étage. Le dernier point à éclaircir n'en reste pas moins le compliqué. Etant donné que les moments où l'action principale passe de la rue à l'intérieur d'une maison et inversement ne se situent pas forcément entre les actes, ce qui auraient finalement permis de faire un changement de décor à chaque acte et de respecter l'unité de lieu dans son sens large, une autre solution doit être trouvée. Cette solution est expliquée par Pierre Pasquier dans son édition du *Mémoire de Mahelot* [64]. Il s'agit en fait du décor à compartiments adapté à la comédie à l'espagnole. Au lieu d'ouvrir un grand espace de la scène qui était caché derrière un compartiment, on exploite des éléments de taille plus réduite comme une porte, un bout d'une chambre, ce qui permet de voir ce qu'il s'y passe. Selon Pierre Pasquier, cette technique revient dans de très nombreuses comédies à l'espagnole, devenant ainsi un morceau, une scène obligée que l'on baptise « scène de cabinet ». En somme, il faut utiliser les compartiments dans de petits espaces, limitant la perte de l'illusion pour le public. Tout cela peut être appliquée à *La Comtesse d'Orgueil*, notamment pour la chambre d'Olympe située à l'étage dont les personnages communiquent avec d'autres à l'extérieur, puis entre eux à l'intérieur ; ainsi que le cabinet situé derrière. Ce type de décor semble ne pas être très en vogue en 1670 ; cependant, comme dans notre cas, il est toujours utilisé car des comédies espagnoles sont encore adaptées.
 
 
-#### L'intrigue
+#### L'intrigue.
 
 À en croire le résumé des deux pièces ainsi que la thèse d'Elena Marcello, l'intrigue consiste bien en une adaptation simple des deux pièces sources. Les trois premiers actes de *La Comtesse d'orgueil* correspondent parfaitement à ceux de la pièce *El Señor de noches buenas* de Cubillo, comme nous l'avons constaté. L'élément principal dans l'adaptation française réside dans le remplacement de la ruse de la pièce de Cubillo par celle de Moreto. En effet, dans la pièce de Cubillo la ruse consiste à feindre l'attente d'un cousin pour officialiser le mariage avec le marquis. Le héros profite de l'occasion pour se déguiser en ce cousin et rejoindre Dorotea. Les voyant, le marquis va se plaindre au père de la jeune fille ce qui entraînera l'annulation du mariage avec le marquis, remplacé par un autre avec Enrique, le jeune frère du marquis. Dans la pièce française, c'est la notion d'argent qui est centrale : la ruse de Virgine consiste à attirer l'attention du marquis pour qu'il rompe un contrat de mariage et qu'il paie cette annulation, car Anselme ne semble pas contre le fait de laisser sa fille se marier avec le chevalier à la place du marquis. En fait, le déguisement permet d'annuler la différence de patrimoine entre les deux frères, l'aîné payant pour son cadet sans le savoir. Par ce moyen, le marquis finit par faire ce qu'il n'a jamais voulu faire pour son frère, allant jusqu'à se moquer de lui à cause de son manque de moyens. On peut donc dire que l'adaptation faite par Thomas Corneille consiste à utiliser l'intrigue de la pièce de Cubillo, *El Señor de noches buenas*, à savoir la traîtrise d'un frère aîné à son cadet et qui consiste à demander une jeune fille en mariage pour lui-même au lieu de le faire pour son frère, et d'y ajouter un contrat de mariage nécessitant un paiement pour l'annuler. Dans ce contexte, il est obligatoire d'incorporer une ruse qui aura pour but d'amener la marquis à rompre ce contrat en détournant son attention d'Olympe, ce qui laisserait la place libre pour le chevalier.
 
 Cette adaptation montre bien que certains éléments thématiques ont un rôle central dans la dramaturgie de la pièce ainsi que dans la psychologie des personnages.
 
 
-#### La bienséance
+#### La bienséance.
 
 Plusieurs scènes de la pièce mettent en jeu cette notion qui est centrale dans l'esthétique théâtrale de l'époque.
 
@@ -257,12 +257,12 @@ La bienséance entre aussi en jeu lorsque la pièce donne à voir sur scène des
 Un dernier exemple en fin de pièce nous montre l'importance de la présence d'une tierce personne dans une situation amoureuse [68], même si dans le cas présent cela n'aurait pas suffi. La scène qui nous intéresse met en scène le marquis et Virgine ainsi que le valet Carlin. En principe, la seule présence du valet suffirait à assurer le maintien de la bienséance. Or, cela n'empêche pas le marquis de réclamer un baiser de la part de Virgine afin de la motiver pour annuler le contrat de mariage avec Olympe. Le seul événement qui permet d'arrêter le marquis n'est autre que la rentrée d'Anselme sur scène. Cette arrivée coupe le marquis dans son élan, ce qui entraîne une dispute en ce qui concerne le futur mariage. Nous pouvons donc voir qu'ici Thomas Corneille utilise un autre ressort dramatique que celui du personnage tiers pour assurer la bienséance, dans le cas où le public aurait pu croire que la pièce dépasserait le cadre de la bienséance sur scène.
 
 
-#### La structure
+#### La structure.
 
 Une simple remarque sur la disposition des personnages peut nous faire apprécier le degré de similitude des deux pièces. On retrouve dans chaque cas deux couples d'amants, un vieux père de famille (Anselme et Marcelo), un couple de serviteurs, un riche frère têtu. Les adaptations françaises du marquis, du valet et de la servante présentent des différences notables avec leurs modèles d'origine. Ces traits spécifiques seront abordés pendant l'étude des caractères. Thomas Corneille s'est donc contenté d'adapter des personnages sans modifier le schéma relationnel propre à l'œuvre d'origine.
 
 
-### Le personnage du marquis
+### Le personnage du marquis.
 
 Occupant une place à part dans l'œuvre espagnole, le marquis mérite que nous nous arrêtions un instant sur lui. Ses traits distinctifs en font l'un des premiers ridicules du théâtre du siècle d'or. Voici ceux qui le définissent [69] :
  * – Le marquis est têtu. Il s'agit de son défaut majeur ; il se perçoit facilement dans l'opposition de la richesse à la pauvreté.
@@ -275,12 +275,12 @@ Occupant une place à part dans l'œuvre espagnole, le marquis mérite que nous 
 En fin de compte, le personnage du marquis incarne l'archétype du précieux ridicule. Ses défauts ne développent au fur et à mesure que l'œuvre avance. Quelques personnages ignorent ces manques du personnage mais les découvrent quand même au dénouement.
 
 
-# Les thèmes les plus développés
+# Les thèmes les plus développés.
 
 Parmi les thèmes les plus récurrents, certains revêtent un aspect plus important du fait que leur présence fait avancer la pièce. C'est le traitement de ces thèmes que nous nous proposons d'étudier.
 
 
-## L'amour
+## L'amour.
 
 La question des relations amoureuses entre les personnages occupe une part importante dans l'étude thématique des pièces de Thomas Corneille ; Eliane Herz-Fischler considère, d'ailleurs, que ce thème (ainsi que celui de la feinte) est un maître mot dans le théâtre du dramaturge [70]. *La Comtesse d'Orgueil* ne déroge pas à la règle, puisque l'amour y occupe une place de premier plan, comme c'est souvent le cas dans les pièces à l'italienne et à l'espagnole.
 
@@ -351,7 +351,7 @@ Pour le desesperer je me fais son Rival [76] (v. 500-504).
 Plus que d'être un véritable rival, le marquis décide de demander Olympe en mariage pour marquer sa supériorité vis-à-vis de son frère. Nous y voyons ici un véritable conflit familial et social, qui se dessinait déjà au tout début de la pièce et qui continue au travers de ce thème de l'amour.
 
 
-## L'argent
+## L'argent.
 
 Largement développé dans notre pièce, le thème de l'argent est au cœur du l'intrigue, notamment pour ce qui est du rapport entre les deux frères. Il est évident que le personnage qui présente le plus d'intérêt à ce niveau et qui semble se préoccuper de ces questions plus que les autres est sans conteste le marquis. Dès la scène 3 du premier acte, il nous démontre à quel point le domaine financier tient un place de choix dans sa vie. Cette scène contient la première rencontre entre le marquis et le chevalier. C'est l'occasion pour le premier des deux de marquer son mépris pour son jeune frère et de se moquer de sa situation financière :
 
@@ -436,7 +436,7 @@ Peut forcer le Marquis à rompre de luy-même (v. 1175-1178).
 L'obstacle évolue donc pour passer du marquis lui-même à sa fortune car c'est le manque de moyens du chevalier et d'Olympe qui nécessite la création d'un tour par la servante. L'argent tient donc une place centrale dans la conception de l'intrigue car il s'agit de l'un des thèmes sur lesquels repose la pièce
 
 
-## Le déguisement
+## Le déguisement.
 
 Beaucoup de comédies du XVII*e* sont basées sur le principe de la feinte. Le déguisement que nous retrouvons dans *La Comtesse d'Orgueil* en constitue un sous-ensemble. Il repose sur le concept du personnage qui se fait passer pour un autre, créant ainsi la notion de double identité. L'utilisation de cette ruse sert à tromper quelqu'un pour arriver à ses fins, qu'elles soient louables ou non. Dans notre cas, le motif principal de déguisement de la servante n'est autre que servir l'intérêt des maîtres en dépit du frère extravagant [78]. À partir de ces éléments, l'utilisation du déguisement pose un certains nombres de questions que nous allons passer en revue.
 
@@ -489,12 +489,12 @@ Pour preuve de ce qu'avance Virgine, à sa première rencontre avec elle, le mar
 Le deuxième point à évoquer concerne la relation dramatique entre l'identité fictive et l'identité réelle du personnage déguisé. Nous pouvons considérer qu'aux scènes 7 et 10 de l'acte IV il y a adéquation parfaite entre les deux identités de Virgine : rien ne laisse transparaître au marquis que la comtesse à qui il parle possède des traits qui caractérisent sa véritable identité de servante. Au cinquième acte, Virgine retrouve son état de servant et craint une arrivée du marquis (scène 4) car s'il la voyait dans son habit de suivante, peut-être se douterait-il du tour qu'on lui a joué. À la scène suivante, le marquis arrive et voit Virgine en suivante. Cette dernière, aidée par Carlin, trouve une excuse à ses habits : elle explique que sa jalousie l'a poussée à se faire engager comme servante pour suivre les discussions entre le marquis et Olympe. Bien que le marquis, malgré son étonnement, en reste à croire que Virgine est une comtesse, nous notons là une distorsion entre les deux identités. Les marques vestimentaires laissent bien transparaître la véritable identité du personnage déguisé. À cela s'ajoute la façon dont elle s'exprime dans les dernières scènes ainsi que le traitement que lui réserve Anselme aux scènes 6, 8, 9 et 10 (il s'adresse à elle de façon adéquate vu sa position de maître). Ces marques de distorsion n'empêche pas la réalisation du tour puisque Virgine adapte son discours à ses deux rôles : elle s'exprime en servante à Anselme (ce qui est sa véritable condition ainsi que le rôle que le marquis croit qu'elle joue) et en comtesse au marquis lorsqu'elle s'adresse à lui tout bas. Ces scènes permettent à Virgine de jouer de ses identités au même moment sans que personne ne s'en aperçoive. Cette dernière remarque nous donne l'occasion d'insister une dernière fois sur la crédulité de certains personnages de théâtre qui n'arrivent pas à repérer le déguisement alors que des signes le mette à jour ; cela dénote la puissance du déguisement théâtral qui reste potentiellement véritable pour ceux à qui il s'adresse, par delà les signes extérieurs de vérité.
 
 
-# Les caractères
+# Les caractères.
 
 Largement débattues au XVII*e* siècle, les questions théoriques définissent l'esthétique théâtrale de l'époque. Parmi elles, l'études des caractères vise à regarder avec précision des éléments de détails sur les personnages afin de voir s'ils correspondent au caractère qu'il est censé avoir selon son âge, son sexe, sa condition sociale, son inclination vers le bien ou le mal [83]. Ces critères définissent donc le caractère que l'on attend d'une personne dans un cas précis. L'enjeu principal d'une telle étude sera de savoir si un personnage respecte la bienséance, c'est-à-dire s'il agit en accord avec ce qu'on attendrait de lui. Ainsi, la question des caractères s'étend sur plusieurs plans, allant jusqu'à celui de la vraisemblance puisque le respect ou non d'un caractère prédéfini influe sur la vraisemblance ou non d'une action, d'une scène voire de la pièce.
 
 
-## Les jeunes amoureux
+## Les jeunes amoureux.
 
 Dans cette catégorie, quatre personnages de la pièce peuvent être inclus, à savoir les chevaliers, Olympe, Lucrèce et Oronte. À leur manière, chacun illustre des aspects différents du caractère qu'Aristote attribue à la jeunesse [84].
 
@@ -524,7 +524,7 @@ Il suffit, vous sçavez si j'y prens interest. (v. 377-380)
 D'après tous ces éléments, les personnages que nous venons d'aborder correspondent bien à des traits distinctifs des jeunes, que ce soit le désintérêt pour l'argent, la naïveté, l'importance accordée aux relations amicales. Il est évident que tous ces personnages possèdent des traits qui permettent de donner du relief au caractère et d'en faire un individu unique. Nous ne les avons pas abordés car ils ne correspondent pas aux catégories de traits indispensables pour que le personnage soit vraisemblable et sur lesquels nous nous sommes concentré.
 
 
-## Le Marquis
+## Le Marquis.
 
 Nous possédons peu d'informations sur ce personnage, si ce n'est le fait qu'il possède tous les biens de la famille Lorgnac, étant l'aîné et donc l'héritier légitime. Cependant, il n'est jamais fait allusion à son âge donc il semble difficile de pouvoir l'intégré à la catégorie des jeunes. Toutefois, vu sa situation de recherche d'une femme, il pourrait être intégré soit aux jeunes, soit à une catégorie de personnages caractérisés par la maturité. Malgré tout, le marquis ne possède pas vraiment les traits typiques de l'homme mature que l'on peut résumer par une sorte de caractère intermédiaire relevant de la tempérance [87].
 
@@ -562,7 +562,7 @@ Le bon homme luy-mesme en est scandalisé (v. 781-787).
 Oronte dénote ici le manque d'intelligence dans le discours du marquis, ainsi que sa crédulité à propos de la comtesse qu'il ne connaît même pas. Cette crédulité va de pair avec son orgueil qui le pousse à croire qu'il est aimé de tout le monde. En somme, ce qui domine dans le caractère du marquis c'est son orgueil et son amour des biens qui le poussent à trahir son frère et qui l'aveuglent à un tel point qu'il est ensuite très facile pour Virgine de mettre au point la tromperie pour empêcher son mariage avec Olympe.
 
 
-## Anselme
+## Anselme.
 
 Nous abordons un personnage dont la présence sur scène est moindre que celle des personnages principaux. Son rôle se limite à sa fonction parentale, dans le sens où il décide de l'avenir de Lucrèce et Olympe en ce qui concerne les prétendants au mariage. Il appartient au type de personnage qui constitue l'opposant traditionnel dans la comédie : celui du père qui s'oppose aux vœux amoureux de ses enfants en choisissant lui-même un prétendant. Étant peu présent sur scène, son caractère n'est pas beaucoup développé ; seuls certains traits caractéristiques sont clairement mis en avant et relèvent plus de la vieillesse que de l'opposition aux vœux des jeunes amoureux. Nous insistons ici sur la manière d'agir d'Anselme qui relève essentiellement de l'intérêt du gain qu'Aristote dénote comme une attitude propre à la vieillesse [90]. De cela ressortent deux éléments principaux : Anselme montre un souci de choisir les prétendants de Lucrèce et Olympe en fonction de ce qu'ils possèdent, il montre aussi un attachement particulier à ce que ces derniers soient des gentilshommes afin de donner un certain rang social aux jeunes filles et donc à sa famille. Cette idée s'illustre dans les rares apparitions du personnage en scène.
 
@@ -582,7 +582,7 @@ De nos prétentions facilite l'issuë (v. 1167-1174).
 Lucrèce montre bien la prédominance de la question du rang social, de la noblesse dans l'esprit d'Anselme au chevalier qui craignait que son manque de moyens l'aurait desservi dans la conquête d'Olympe. Voici donc les éléments les plus remarquables du caractère de la vieillesse visibles chez Anselme.
 
 
-## Les serviteurs
+## Les serviteurs.
 
 Selon ce que dit Eliane Herz-Fischler [91], le personnage du servant, du valet tient très souvent un rôle important dans les pièces de Thomas Corneille. Cela correspond à ce qu'explique Jacques Scherer sur l'évolution du simple confident en personnage avec un vrai caractère, une vraie fonction dans l'intrigue au lieu d'un personnage qui n'est là que comme prétexte au rappel de faits passés [92]. À partir de ces données, nous constatons que *La Comtesse d'Orgueil* ne s'éloigne pas de ce que l'on peut attendre de l'utilisation de ce type de personnage secondaire. Du fait que le valet, la servante possèdent un vrai statut de personnage actif, il est alors possible de les exploiter de façons différentes dans le schéma de l'œuvre. Eliane Herz-Fischler nous rappelle que Thomas Corneille use de ce type de personnages dans cinq cas [93]. Il peut avoir une fonction dans l'exposition classique, c'est-à-dire qu'on lui raconte les faits passés ; on peut l'utiliser pour raconter lui même les événements ou bien pour rappeler les intentions des personnages, jouant ainsi un vrai rôle de confident lors de « scènes de confidences » dans laquelle s'opère la suspension d'une pièce et par là une certaine tension dramatique [94]. Cependant, les cas les plus proches de ceux de Carlin et de Virgine sont à chercher du côté de l'intrigue même. En effet, le personnage secondaire peut devenir un instigateur qui pousse un personnage à agir ou bien un vrai meneur, c'est-à-dire qu'il agit en lieu et place du maître. C'est de ce côté que nous allons chercher pour définir la fonction et le caractère de ces personnages, notamment par le fait qu'ils n'hésitent pas à prendre les initiatives pour les autres.
 
@@ -633,12 +633,12 @@ Pour en guerir plûtost je voudrois t'embrasser. (v. 13-16)
 Tous ces éléments permettent de mettre en valeur le fait que les personnages secondaires prennent des places essentielles dans l'œuvre, comme souvent chez Thomas Corneille, bien qu'il soit possible d'être plus réservé en ce qui concerne le personnage de Lyse. Son faible temps de parole ainsi que sa faible présence en scène ne lui permettent pas de jouer un rôle crucial dans l'action ni de développer sa personnalité. Le plus grand intérêt de ce personnage se limite à sa fonction de servante de la comtesse car elle prête la maison de cette dernière pour jouer le tour au marquis. Lyse est donc un personnage secondaire qui garde une fonction secondaire sur le plan de l'action à la différence de Carlin et Virgine qui ont une place de choix dans le déroulement de la pièce.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Le texte que nous publions est celui de l'édition originale. L'exemplaire qui a servi de base à la réalisation de cette édition est conservé à la Bibliothèque de l'Arsenal sous la cote GD-7913. Le privilège du roi fut accordé le 21 janvier 1671 et le texte fut achevé d'imprimer le 7 mars 1671 par le rouennais Antoine Maurry et cela aux seuls frais de l'auteur. La pièce fut diffusée à Paris par le libraire Guillaume de Luyne.
 
 
-## Description matérielle
+## Description matérielle.
 
 Il s'agit d'un ouvrage in-12 de XII-120 pages qui se présente de la manière suivante :
 
@@ -655,10 +655,10 @@ XII : ACTEURS.
 1-120 : le texte de la pièce.
 
 
-## Corrections sur le texte
+## Corrections sur le texte.
 
 
-### Sur la graphie
+### Sur la graphie.
 
 Nous avons conservé la graphie de l'édition originale, notamment dans le cas de l'accentuation ou de l'absence d'accentuation. L'usage des tildes qui note la nasalité d'une voyelle en permettant aux imprimeurs de faire des économies d'espace et donc d'argent a été modifié. Nous avons donc rétablie la graphie courante en une voyelle suivie d'une consonne nasale. Par ailleurs, les *&* ont systématiquement été changées en *et*.
 
@@ -667,7 +667,7 @@ Nous avons relevé un certain nombre de coquilles orthographiques que nous avons
 V.425 : « archiqueux » corrigé en « archigueux » ; v.431 : « rieux » corrigé en « rieur » ; v.492 : « chatüan » corrigé en « chahütan » ; v.560 : « St » corrigé en « Si » ; v.1252 : « imagination » corrigé en « imaginative » ; v.1381 : « L'e » corrigé en « Je » ; v.1385 : « l'a » corrigé en « là » ; v.1464 : « m'empescher » corrigé en « mes peschez » ; v.1701 : « droit » corrigé en « droite » [100].
 
 
-### Sur la ponctuation
+### Sur la ponctuation.
 
 En ce qui concerne la ponctuation, nous avons respecté celle de l'édition originale sauf dans le cas d'une coquille bien identifiée :
 
@@ -684,7 +684,7 @@ V.1554 : « On luy dira, neant ?  » corrigé en « On luy dira neant ?  
 V.1746 : « Quand vous commanderez se mettront à vos gages ?  » corrigé en « Quand vous commanderez se mettront à vos gages.  »
 
 
-### Sur les personnages
+### Sur les personnages.
 
 Nous avons modifié la liste des personnages qui apparaissent en scène lorsque cela était nécessaire et résultait clairement d'une erreur. De plus, nous avons attribué leurs répliques aux personnages qui convenaient :
 
@@ -934,7 +934,7 @@ Quel attirail de points, de rubans, d'affiquets [120] !
 LE MARQUIS, CARLIN, LYSE.
 
 
-    LE MARQUIS *à Carlin montrant Lyse.*
+    LE MARQUIS *à Carlin montrant Lyse.*.
 C'est de moy qu'on te parle ?  
 
     CARLIN.
@@ -1015,7 +1015,7 @@ Eh, vous pouvez penser…
 Vint ans, veusve, & languir ! Viens, conduy moy chez elle  
 Il faut la voir ; au moins tu me dis qu'elle est belle ?  
 
-    LYSE
+    LYSE.
 Elle a dans Orleans tout fait mourir d'amour,  
 Mais vous en jugerez, Monsieur, à son retour.  
 
@@ -1045,7 +1045,7 @@ Vous viendrez donc ?
         Oüy, va ; je puis m'en divertir  
 Et selon… mais je voy mon impertinent frere.  
 
-    LYSE *à Carlin.*
+    LYSE *à Carlin.*.
 C'est là le Chevalier ?  
 
     CARLIN.
@@ -1374,7 +1374,7 @@ Si je cours où m'appelle un Objet si charmant⁎.
     LE CHEVALIER.
 Sur tout autre devoir l'amour toûjours l'emporte.  
 
-    CARLIN *au Chevalier.*
+    CARLIN *au Chevalier.*.
 Olympe est avec elle.  
 
     LE CHEVALIER.
@@ -1387,7 +1387,7 @@ Quel accueil du Vieillard ma flame⁎ aura receu.
 ORONTE, OLYMPE, LUCRECE.
 
 
-    ORONTE *à Lucrece.*
+    ORONTE *à Lucrece.*.
 Quoy, sortir sans m'attendre ? Ah, j'ay lieu de m'en plaindre [160].  
 
     LUCRECE.
@@ -1432,7 +1432,7 @@ La douceur s'étend loin.
 OLYMPE, LUCRECE, ORONTE, VIRGINE.
 
 
-    VIRGINE *à Olympe.*
+    VIRGINE *à Olympe.*.
 Enfin c'est tout de bon vous estes mariée.  
 
     OLYMPE.
@@ -1835,10 +1835,10 @@ Le temps…
 LE MARQUIS, ANSELME, CARLIN.
 
 
-    CARLIN *au Marquis.*
+    CARLIN *au Marquis.*.
 Quatre mots à quartier [199], Monsieur.  
 
-    LE MARQUIS *à Anselme.*
+    LE MARQUIS *à Anselme.*.
         Par avanture [200],  
 Beau-pere, vous sçavez comme on rentre chez vous ?  
 
@@ -2034,7 +2034,7 @@ La nuict se fait obscure.
 Cours assembler mes Gens⁎ pour me servir d'escorte,  
 Carlin, dans un moment, je te rejoins chez moy.  
 
-    CARLIN
+    CARLIN.
 On vous demande seul.  
 
     LE MARQUIS.
@@ -2152,7 +2152,7 @@ Je n'en veux point.
     LE CHEVALIER.
         Il faut me taire, mais sans doute…  
 
-    LE MARQUIS
+    LE MARQUIS.
 Eloignons-nous d'icy de peur qu'on nous écoute.  
 
     LE CHEVALIER.
@@ -2164,7 +2164,7 @@ Je voudrois…
 Venez, pour satisfaire à vostre impatience,  
 Jusqu'au prochain détour je vous donne audience.  
 
-    LE CHEVALIER *bas.*
+    LE CHEVALIER *bas.*.
 Ne vois-je pas quelqu'un qui s'avance au balcon ?  
 Si c'est Olympe ?  
 
@@ -2176,13 +2176,13 @@ Si c'est Olympe ?
 LUCRECE, OLYMPE, VIRGINE.
 
 
-    LUCRECE  *dans le balcon.*
+    LUCRECE  *dans le balcon.*.
 Je n'entens plus personne.  
 
     VIRGINE.
         Il ne tardera guere.  
 
-    OLYMPE *à Lucrece.*
+    OLYMPE *à Lucrece.*.
 Cousine, va de grace entretenir⁎ mon Père,  
 Et l'amuse si bien par ce que je te dis,  
 Que je trouve le temps de parler au Marquis.  
@@ -2229,7 +2229,7 @@ Qu'en l'épousant, Lucrece ait moins de rang que vous.
 LE CHEVALIER, OLYMPE, VIRGINE.
 
 
-    LE CHEVALIER *bas.*
+    LE CHEVALIER *bas.*.
 J'ay quitté mon Brutal pour chercher ce que j'aime.  
 
     OLYMPE.
@@ -2332,7 +2332,7 @@ Sans cesse elle me dit qu'il faut vous adorer,
 Qu'à l'heur⁎ de vous servir rien n'est à préferer :  
 Madame, je me pers pour avoir trop à dire.  
 
-    VIRGINE *bas à Olympe.*
+    VIRGINE *bas à Olympe.*.
 Pouvez-vous écouter ces fadaises⁎ sans rire ?  
 
     OLYMPE.
@@ -2377,7 +2377,7 @@ Trahy de la fortune ; avec la mesme ardeur
 Je voudrois vous donner et ma main et mon cœur.  
 Ny le rang de Marquis, ny tous vos droits d'aînesse…  
 
-    LE CHEVALIER *bas.*
+    LE CHEVALIER *bas.*.
 Elle croit que je sois le Marquis ? Ah Dieux !  
 
     OLYMPE.
@@ -2434,10 +2434,10 @@ Mon devoir me seroit une fort dure loy ,
 J'irois jusqu'à l'éclat plutost que m'y resoudre [242].  
 Vous ne me dites rien ?  
 
-    LE CHEVALIER *bas.*
+    LE CHEVALIER *bas.*.
         Ah, Dieux ! quel coup de foudre !  
 
-    VIRGINE *à Olympe.*
+    VIRGINE *à Olympe.*.
 C'est qu'on fait quelque bruit, et qu'il écoute.  
 
 
@@ -2445,7 +2445,7 @@ C'est qu'on fait quelque bruit, et qu'il écoute.
 LE MARQUIS, OLYMPE, LE CHEVALIER, VIRGINE, CARLIN.
 
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
         Allons ?  
 Pour m'entendre jaser tiens-toy sur mes talons.  
 Mille jolivetez [243] qui dans l'esprit me viennent…  
@@ -2457,10 +2457,10 @@ Mon cocher, mes laquais ?
     LE MARQUIS.
         Qu'ils s'y tiennent [244].  
 
-    OLYMPE *au Chevalier.*
+    OLYMPE *au Chevalier.*.
 Quelqu'un s'avance, adieu, Marquis separons-nous.  
 
-    LE CHEVALIER *à Olympe.*
+    LE CHEVALIER *à Olympe.*.
 C'est mon Frere.  
 
     OLYMPE.
@@ -2629,7 +2629,7 @@ Rien moins, et l'on croiroit qu'il cherche à faire rire.
 OLYMPE, LUCRECE, ORONTE.
 
 
-    OLYMPE *à Oronte.*
+    OLYMPE *à Oronte.*.
 Est-ce une verité que l'on vient de me dire ?  
 Vous partez ?  
 
@@ -2677,7 +2677,7 @@ Si tu m'ouvrois les yeux…
         Vois-tu ? je suis sincere,  
 Et je te dirois plus que tu ne veux sçavoir.  
 
-    OLYMPE
+    OLYMPE.
 Quels defauts a-t'il veus ?  
 
     LUCRECE.
@@ -2737,10 +2737,10 @@ Il repoussa son Frere, et le fit reculer…
 OLYMPE, LUCRECE, VIRGINE.
 
 
-    VIRGINE *à Olympe.*
+    VIRGINE *à Olympe.*.
 Madame, une visite où vous ne songiez guere.  
 
-    LUCRECE *à Virgine.*
+    LUCRECE *à Virgine.*.
 Ce n'est pas le Marquis ?  
 
     VIRGINE.
@@ -2806,7 +2806,7 @@ Tout merite s'efface à voir briller le vostre,
 Et le bonheur d'un seul par ses flateurs appas⁎,  
 Cause bien des soûpirs⁎ que vous n'entendez pas.  
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
 Est-il stupide ?  
 
     OLYMPE.
@@ -2946,13 +2946,13 @@ Le Marquis ?
     CARLIN.
     Il est là.  
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
         Tes yeux brillent de joye.  
 
     OLYMPE.
 Qu'il entre.  
 
-    CARLIN *bas.*
+    CARLIN *bas.*.
         Elles verront un rare⁎Original⁎.  
 
     OLYMPE.
@@ -2976,7 +2976,7 @@ Que dis-tu de son air ? L'a-t'il galant⁎ et doux ?
 LE MARQUIS, OLYMPE, LUCRECE, CARLIN.
 
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
 C'est celle-cy ?  
 à Olympe.
 
@@ -3001,7 +3001,7 @@ Ce n'est que feu par tout, j'ay le sang⁎ pétillant.
 Ta, ta, ta, quand je voy que l'Ennemy recule,  
 Et haye après.  
 
-    OLYMPE *bas.*
+    OLYMPE *bas.*.
         D'où vient qu'il fait le ridicule ?  
 Me veut-il éprouver ?  
 
@@ -3013,7 +3013,7 @@ Que je taste.
     OLYMPE. 
     Ah, grands Dieux !  
 
-    LE MARQUIS *montrant Lucrece.*
+    LE MARQUIS *montrant Lucrece.*.
         C'est-là vostre Cousine ?  
 
     OLYMPE.
@@ -3024,7 +3024,7 @@ Pourquoy le demander ?
 Elle a le front ouvert, la bouche à l'avenant,  
 Et visage jamais ne fut plus cousinant [267].  
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
 C'est-là ce grand esprit ?  
 
     OLYMPE.
@@ -3111,7 +3111,7 @@ Mon Cadet dégainant a fait d'abord le diable,
 Et si je n'eusse pas promptement détalé,  
 J'en avois tout au moins pour un bras avalé.  
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
 C'est là comme tu dis qu'il a poussé son Frere ?  
 
     OLYMPE.
@@ -3132,7 +3132,7 @@ Qu'on approuveroit ses feux⁎. Vous l'aurez détrompé ?
     OLYMPE.
 De quel étonnement [273] mon esprit est frapé !  
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
 Oronte avoit-il tort ? ton Marquis ?  
 
     OLYMPE.
@@ -3186,7 +3186,7 @@ Coquine, vous riez.
     OLYMPE.
         Qui l'eust jamais pû croire ?  
 
-    LE MARQUIS *à Olympe.*
+    LE MARQUIS *à Olympe.*.
 Mais vous ne riez point, vous ?  
 
     OLYMPE.
@@ -3286,7 +3286,7 @@ Je vous épouserois toutes deux.
     LUCRECE. 
         Bon cela.  
 
-    LE MARQUIS *à Olympe.*
+    LE MARQUIS *à Olympe.*.
 Oh, oh, ma Reine, donc vous en voulez par là.  
 J'en vay danser de joye.  
 
@@ -3380,11 +3380,11 @@ Et sa Mere ? soit dit sans vous desobliger [282],
 Vous faisoit-elle point quelquefois enrager ?  
 Un Enfant tient de tout. Elle n'est pas la seule…  
 
-    OLYMPE *à Anselme.*
+    OLYMPE *à Anselme.*.
 De la Mere il ira jusqu'à la Bisayeule [283],  
 Et si vous l'écoutez, vous courez grand hazard…  
 
-    LE MARQUIS *à Olympe.*
+    LE MARQUIS *à Olympe.*.
 Dequoy vous mélez-vous ?  
 
     OLYMPE.
@@ -3411,7 +3411,7 @@ Réglera…
         J'ay reglé, l'un rit quand l'autre pleure,  
 Si vostre Fille est sote⁎, à son Dam [284].  
 
-    OLYMPE *à Anselme.*
+    OLYMPE *à Anselme.*.
         Jusqu'icy  
 L'heur⁎ de vous plaire a fait mon unique soucy.  
 Mais si vous m'ordonniez d'accepter…  
@@ -3426,7 +3426,7 @@ Taisez-vous.
     OLYMPE.
 Plûtost que me resoudre…  
 
-    LE MARQUIS *à Anselme.*
+    LE MARQUIS *à Anselme.*.
         A croire son dépit  
 J'aurois dix mille écus portez par le dédit⁎,  
 Mais comme il ne faut pas que d'un honneste⁎ Pere…  
@@ -3440,14 +3440,14 @@ C'est un fruit de l'hymen⁎.
 Elle a la teste creuse, et j'y remedieray.  
 Ah, tu m'épouseras, guenonne [285].  
 
-    OLYMPE *à Anselme.*
+    OLYMPE *à Anselme.*.
         Si ma vie  
 Vous est…  
 
     ANSELME.
     Encore un coup, taisez-vous.  
 
-    LE MARQUIS *à Olympe.*
+    LE MARQUIS *à Olympe.*.
         Je vous prie,  
 Finirez-vous bien-tost vos lamentables tons ?  
 
@@ -3476,7 +3476,7 @@ Marchez.
     ANSELME.
     Ah !  
 
-    LE MARQUIS *le poussant.*
+    LE MARQUIS *le poussant.*.
         Marchez donc, là, quel pas de tortuë !  
 
     ANSELME.
@@ -3540,7 +3540,7 @@ Sçachant son peu de bien je n'en faisois que rire.
     OLYMPE.
 L'esprit répare tout, il m'aime, c'est assez.  
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
 Attendant que ses vœux puissent estre exaucez,  
 Tu peux luy faire dire en secret qu'il espere,  
 Mais les dix mille écus arréteront ton Père,  
@@ -3719,7 +3719,7 @@ Va, je sçay les respects deus à ta qualité⁎.
     VIRGINE.
 Souviens-toy du message entre nous concerté.  
 
-    LYSE *à Virgine.*
+    LYSE *à Virgine.*.
 Autre embarras, qui peut mettre à bout ton adresse.  
 Depuis hier qu'au Marquis je nommay la Comtesse,  
 Sur ce qu'il croit pour luy qu'elle brûle en secret,  
@@ -3740,12 +3740,12 @@ LUCRECE, LE CHEVALIER, VIRGINE, LYSE, CARLIN.
     LE CHEVALIER.
     Et bien ?  
 
-    CARLIN *au Chevalier.*
+    CARLIN *au Chevalier.*.
         Monsieur ? quittez la place.  
 Le Marquis, d'un ruban corrige la grimace⁎.  
 Il est sur l'escalier où ce coin le retient.  
 
-    LUCRECE *au Chevalier.*
+    LUCRECE *au Chevalier.*.
 Allons trouver Olympe. Adieu, prens garde… [296]  
 
     CARLIN.
@@ -3761,7 +3761,7 @@ Virgine rentre.
     CARLIN.
 C'est l'entendre.  
 
-    LYSE *à Carlin.*
+    LYSE *à Carlin.*.
         Il croit donc que par excez d'amour  
 Pour luy seul la Comtesse est icy de retour ?  
 
@@ -3777,7 +3777,7 @@ Voy dans ces nœuds toufus quel amas de merite.
 LE MARQUIS, LYSE, CARLIN.
 
 
-    LE MARQUIS *à Lyse.*
+    LE MARQUIS *à Lyse.*.
 Qu'en dis-tu ? Suis-je exact ? J'ay promis, je m'acquite.  
 La Comtesse ?  
 
@@ -3855,7 +3855,7 @@ LE MARQUIS, VIRGINE, LYSE, CARLIN.
     VIRGINE.
 Rentrez page.  
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
         Du reste il faut voir ce que c'est.  
 
     VIRGINE.
@@ -3884,7 +3884,7 @@ Voylà ce qui s'appelle un tour beau, grand, facile [304].
     VIRGINE.
 L'enfleure de l'esprit paroist dans le haut stile⁎.  
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
 L'Enfleure !  
 
     VIRGINE.
@@ -4006,7 +4006,7 @@ Pour témoin de nôtre heur⁎ ne prenons que l'amour,
 L'hymen⁎ peut dés demain nous unir l'un à l'autre.  
 Ordonnez du Contract, tout mon bien est le vôtre.  
 
-    LE MARQUIS *bas à Carlin.*
+    LE MARQUIS *bas à Carlin.*.
 Carlin, si je conclus, après le mot lâché  
 Tu diras que de moy je fais trop bon marché ?  
 
@@ -4032,7 +4032,7 @@ Je m'y resous, demain, tout comme il vous plaira.
     VIRGINE.
 Mon cher Marquis.  
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
         De joye elle se pâmera.  
 
     VIRGINE.
@@ -4047,7 +4047,7 @@ J'en sçay qui creveront.
     LE MARQUIS.
 Garde aussi le poison, si l'on sçait que mon choix…  
 
-    VIRGINE *à Lyse qui rentre sur le Theatre apré en estre sortie un moment.*
+    VIRGINE *à Lyse qui rentre sur le Theatre apré en estre sortie un moment.*.
 Qu'est-ce ?  
 
     LYSE.
@@ -4178,7 +4178,7 @@ Ce Mariage est trop…
         Comment l'en garantir⁎ ?  
 Le dédit⁎ est signé d'une fort grande somme.  
 
-    CARLIN *bas au Marquis.*
+    CARLIN *bas au Marquis.*.
 Monsieur, voylà ce tour, disiez vous, d'habile homme.  
 La Comtesse demain vous épouse en secret,  
 Mais les dix mille écus, Anselme a vostre fait,  
@@ -4187,7 +4187,7 @@ Comment le retirer ?
     LE MARQUIS.
         Il faut pourtant le faire.  
 
-    VIRGINE *à Lyse.*
+    VIRGINE *à Lyse.*.
 Quel bruit faisoit-on là ?  
 
     LYSE.
@@ -4209,7 +4209,7 @@ Et quand il la verroit ?
         C'est pour vous seulement  
 Qu'elle rentre à Paris, voulez-vous qu'il le sçache ?  
 
-    LYSE *au Marquis* ;
+    LYSE *au Marquis* ;.
 Suivez viste.  
 
     LE MARQUIS.
@@ -4259,7 +4259,7 @@ C'est un œil attirant…
     LE MARQUIS.
 Lui fait honneur ? là là.  
 
-    LYSE *à Oronte.*
+    LYSE *à Oronte.*.
         Quel est-ce bon Seigneur ?  
 Des contes qu'il me fait je suis toute surprise.  
 
@@ -4273,7 +4273,7 @@ Dans sa petite taille elle a l'air si bien pris…
     ORONTE.
 Petite ?  
 
-    LYSE *à Carlin.*
+    LYSE *à Carlin.*.
     Il va tout perdre [318].  
 
     ORONTE.
@@ -4288,7 +4288,7 @@ Pour vous, estant Geante, elle auroit plus d'appas⁎.
     LE MARQUIS.
 Geante !  
 
-    ORONTE *à Lyse.* 
+    ORONTE *à Lyse.*. 
         Il parle d'elle, et ne la connoit pas.  
 
     LE MARQUIS.
@@ -4308,7 +4308,7 @@ Le visage de singe, et la mine à l'envers,
 L'équipage et l'habit d'un pauvre Gentilhomme⁎,  
 Vous ne me croiriez pas, mon tres-cher ? c'est tout comme.  
 
-    LYSE *à Oronte.*
+    LYSE *à Oronte.*.
 Voulez-vous disputer contre un fou ?  
 
     ORONTE.
@@ -4350,7 +4350,7 @@ La compagnie est belle.
     ORONTE.
     Ah, Monsieur.  
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
         Où va-t'il ?  
 Ce diable de Beaupere a l'odorat subtil ?  
 Il nous sent de bien loin.  
@@ -4383,10 +4383,10 @@ Je le trouve à propos.
         Lyse, retire toy.  
 Vous pouvez tout icy.  
 
-    LE MARQUIS *à Carlin.*
+    LE MARQUIS *à Carlin.*.
         Le Beaupere demeure.  
 
-    LYSE *au Marquis.*
+    LYSE *au Marquis.*.
 Monsieur, défaites-nous du Vieillard.  
 
     LE MARQUIS.
@@ -4472,7 +4472,7 @@ Je ne suis que Bourgeois, mais…
 Chacun vaut ce qu'il vaut, je ne dis pas le reste.  
 Adieu.  
 
-    CARLIN *au Marquis* ;
+    CARLIN *au Marquis* ;.
     Qu'il est mutin⁎ !  
 
     LE MARQUIS.
@@ -4745,7 +4745,7 @@ J'en viendray bien à bout, et pourveu que Virgine…
 Tu prétens l'épouser, et je te la destine.  
 Jamais en me servant on ne perd avec moy.  
 
-    CARLIN *à Virgine.*
+    CARLIN *à Virgine.*.
 Ah, ma chere Comtesse.  
 
 
@@ -4753,7 +4753,7 @@ Ah, ma chere Comtesse.
 OLYMPE, LUCRECE, VIRGINE, CARLIN.
 
 
-    LUCRECE *à Olympe.*
+    LUCRECE *à Olympe.*.
         Enfin, réjoüis-toy,                1560  
 Cousine, dans tes vœux tu n'as rien de contraire,  
 L'esprit du Chevalier plaist si fort à ton Père,  
@@ -4763,7 +4763,7 @@ Ainsi des deux côtez la parole est donnée,
 Et c'est de ton aveu [333] que dépend l'hymenée,  
 On t'attend pour cela.  
 
-    VIRGINE *à Olympe.*
+    VIRGINE *à Olympe.*.
         Courez donc promptement.  
 
     LUCRECE.
@@ -4771,7 +4771,7 @@ J'ay déjà répondu de ton consentement.
 Mais enfin pour la forme il est bon qu'on te voye,  
 Viens.  
 
-    VIRGINE *à Olympe.*
+    VIRGINE *à Olympe.*.
         Vous craignez, je croy, d'en montrer de la joye,  
 C'est bien fait, vostre honneur par là seroit noircy.  
 
@@ -4840,11 +4840,11 @@ Mais…
 LE MARQUIS, VIRGINE, CARLIN.
 
 
-    LE MARQUIS *à un domestique d'Anselme.*
+    LE MARQUIS *à un domestique d'Anselme.*.
         Cours dire au vieillard qu'il me vienne trouver,  
 Que je pretens icy m'expliquer teste à teste.  
 
-    VIRGINE *à Carlin.*
+    VIRGINE *à Carlin.*.
 C'est luy, tout est perdu, Dieux !  
 
     CARLIN.
@@ -4861,7 +4861,7 @@ Marquis.
     LE MARQUIS.
     C'est la Comtesse. Ah, ma chere.  
 
-    CARLIN *à Virgine.*
+    CARLIN *à Virgine.*.
         Courage.  
 
     LE MARQUIS.
@@ -4952,7 +4952,7 @@ Vous enragez assez de ne pouvoir courir.
     ANSELME.
 Continuez [340], le jeu commençoit à vous plaire.  
 
-    VIRGINE *à Anselme.* 
+    VIRGINE *à Anselme.*. 
 Ne croyez pas, Monsieur…  
 
     ANSELME.
@@ -4970,7 +4970,7 @@ Vous prenez son party d'un air…
         Je veux le prendre,  
 Qu'en est-il ?  
 
-    VIRGINE *à Anselme.*
+    VIRGINE *à Anselme.*.
     Si Monsieur…  
 
     ANSELME.
@@ -5033,7 +5033,7 @@ Que nous avions tous deux la mesme intention,
 Et que je ne venois que pour vous faire entendre  
 Que jamais, moy vivant, vous ne seriez mon gendre.  
 
-    VIRGINE *au Marquis.*
+    VIRGINE *au Marquis.*.
 L'occasion est belle, au dédit⁎, promptement.  
 
     LE MARQUIS.
@@ -5096,7 +5096,7 @@ Hem ?
     ANSELME.
         J'ignore à quoy tend ce galimatias⁎.  
 
-    CARLIN *Au Marquis.*
+    CARLIN *Au Marquis.*.
 Ne voulant point entendre, il ne répondra pas.  
 
     LE MARQUIS.
@@ -5133,7 +5133,7 @@ A Virgine bas.
 
 Ma Comtesse.  
 
-    VIRGINE *bas au Marquis.*
+    VIRGINE *bas au Marquis.*.
     J'entens.  
 
     ANSELME.
@@ -5150,20 +5150,20 @@ On me connoit.
 Afin de m'adoucir vous direz mots nouveaux,  
 Point de rapatriement ; cela vaut fait, rupture.  
 
-    VIRGINE *bas au Marquis.*
+    VIRGINE *bas au Marquis.*.
 Viste.  
 
     LE MARQUIS.
         Pour déchirer déployons l'écriture.  
 Allons, vieux Roquentin [345], les armes à la main.  
 
-    VIRGINE *Prenant le billet du Marquis qu'elle déchire.*
+    VIRGINE *Prenant le billet du Marquis qu'elle déchire.*.
 Donnez-moy, vous seriez d'icy jusqu'à demain.  
 
     LE MARQUIS. 
 Bon, voyla ton dédit⁎, Bourgeois.  
 
-    ANSELME *déchirant son billet.*
+    ANSELME *déchirant son billet.*.
         Et voyla comme  
 Je fais estat du tien, Monsieur le Gentilhomme⁎.  
 
@@ -5215,7 +5215,7 @@ Virgine, promptement.
     OLYMPE.
 Pour Monsieur le Marquis adverty ma Cousine.  
 
-    LE MARQUIS *arrétant Virgine.*
+    LE MARQUIS *arrétant Virgine.*.
 Elle l'advertira si je veux. Demeurez.  
 Vous vous faites servir, ma foy ; vous en aurez  
 Des valets qui plus hauts que vous de trois estages,  
@@ -5246,7 +5246,7 @@ Monsieur le Chevalier n'y mettra pas d'obstacle.
 ANSELME, LE MARQUIS, LE CHEVALIER, OLYMPE, LUCRECE, VIRGINE, CARLIN.
 
 
-    ANSELME *au Chevalier.*
+    ANSELME *au Chevalier.*.
 Venez, on vous attend pour un ordre assez doux,  
 J'ay repris ma parole, et ma Fille est à vous.  
 Donnez-luy vostre main.  
@@ -5272,7 +5272,7 @@ Te voila bien, Cadet, tiens-y-toy.
 Que tous trois nous auront sujet d'estre contents,  
 Et qu'entre nous jamais ny discorde ny guerre…  
 
-    LE MARQUIS *à Anselme.*
+    LE MARQUIS *à Anselme.*.
 Et quand il la verra se debatre par terre,  
 Faire des cris, hurler, rira-t'il bien ?  
 
@@ -5363,13 +5363,13 @@ ANSELME, ORONTE, LE MARQUIS, OLYMPE, LUCRECE, LE CHEVALIER, VIRGINE, CARLIN.
 Ma sœur est arrivée enfin selon mes vœux,  
 Et demain je me vois en estat d'estre heureux.  
 
-    VIRGINE *au Marquis.*
+    VIRGINE *au Marquis.*.
 Je me cache un moment afin de le surprendre.  
 
-    ANSELME *à Oronte.*
+    ANSELME *à Oronte.*.
 C'est d'elle pour l'hymen⁎ que le jour se doit prendre.  
 
-    ORONTE *au Chevalier.*
+    ORONTE *au Chevalier.*.
 Pour surcroist d'allegresse on m'a là bas appris  
 Ce que doit vostre amour à Monsieur le Marquis.  
 S'il daignoit honorer ma Sœur d'une visite,  
@@ -5389,17 +5389,17 @@ Que j'en vay voir icy qui feront grise mine !
     VIRGINE. 
 On a besoin de moy, qu'est-ce ?  
 
-    LE MARQUIS *à Oronte.*
+    LE MARQUIS *à Oronte.*.
         Ne dites mot.  
 
     ORONTE.
 D'où vient que…  
 
-    LE MARQUIS *à Oronte.*
+    LE MARQUIS *à Oronte.*.
         Nous verrons qui de nous est le sot⁎.  
 Motus.  
 
-    CARLIN *au Chevalier.*
+    CARLIN *au Chevalier.*.
         Garde mon dos, ce n'est plus raillerie⁎.  
 
     LE CHEVALIER.
@@ -5434,7 +5434,7 @@ A Oronte.
 
 Elle se divertit.  
 
-    VIRGINE *au Marquis.*
+    VIRGINE *au Marquis.*.
         Je n'ay pas le cœur haut.  
 Si pourtant vous pouviez vouloir d'une Suivante,  
 Je suis vostre tres-humble et tres-tendre Servante.  
@@ -5448,10 +5448,10 @@ Quel est donc ce mystere ?
     LE MARQUIS.
         Oronte le dira.  
 
-    ORONTE *à Anselme.*
+    ORONTE *à Anselme.*.
 Je m'y perds comme vous.  
 
-    LE MARQUIS *à Anselme.*
+    LE MARQUIS *à Anselme.*.
         Il veut pousser la piece,  
 La Virgine est sa sœur, Madame la Comtesse.  
 
@@ -5527,21 +5527,21 @@ Il m'en faut un de nopce⁎, et des plus beaux.
 C'est moy qui dois payer, et je répons [361] pour tous.  < FIN. >
 
 
-# GlossaireAccommodant« Qui est facile, qui veut bien ce que les autres veulent ».V. 91« Ce qui nous fait grand bien » (F).V. 172AccorteCourtoise, complaisante, qui s'accomode à l'humeur des personnes. (Ac)V. 394, 1321Amant« Celuy qui aime d'une passion violente et amoureuse » (F).Liste des acteurs, v. 228, 267, 1009, 1760Appas« Charmes, attraits, agrément, ce qui plaist … Il se dit encore plus particulierement en parlant des attraits et de la beauté des femmes » (Ac).V. 136, 303, 660, 879, 1399, 1476Apprendre« Estre informé de quelque chose » (F)V. 229, 1182, 1458Enseigner.V. 1265Attraits« Se dit poëtiquement de la beauté » (F).AvisLe terme présente le sens courant de « sentiment, opinion » (F)V. 1151, 1651« Instruction qu'on donne à quelqu'un de quelque chose qu'il ignore, ou à quoy il ne prend pas garde » (F).V. 543, 1441, 1442Au besoinEn cas de nécessité.V. 71, 96, 335, 1201Badinage « Petite folastrerie, divertissement peu serieux » (F).V. 1118, 1165BeninDoux.V. 428, 1699Brave« Excellent en sa profession … qui fait toutes choses d'une maniere noble et honneste » (F).V. 194, 352, 842CampagnardProvincial, « qui n'est pas habitué à Paris, qui est de quelque Province du Roiaume de France » (R).V. 1353, 1460Charmant« Qui plaist extraordinairement, qui ravit en admiration » (F).V. 208, 268, 1148Civilité« Compliment ».V. 868« Maniere honneste, douce et polie d'agir, de converser ensemble » (F).V. 963Considerer« Estimer une chose pour sa valeur, pour son merite » (F).V. 148, 1517Contrefaire« Imiter quelque chose, et tâcher à la rendre semblable » (F).V. 1834D'abord queLa locution *d'abord que* est utilisé pour introduire une subordonnée temporelle. Il désigne un point de départ et a donc le même sens que *dès que, aussitôt que*, ou *depuis que.*V. 5, 278, 417Dédit« Sorte de retractation » (R).V. 451, 516, 1092, 1369, 1473, 1479, 1491, 1563, 1580, 1634, 1667, 1717Dessein« Projet, entreprise, intention » (F).V. 174, 804, 1187, 1726Drille« Terme de raillerie. Fantassin, soldat à pied » (Ac).V. 446Emportement« Mouvement de l'ame qui la fait sortir hors des bornes de la raison » (F).V. 914, 1495, 1635Empressement(s)« Mouvement que se donne celuy qui recherche une chose avec ardeur » (Ac), « Soins ardens et pleins de zéle » (R).Épître, v. 721, 861, 1331Entretenir« Discourir avec une ou plusieurs personnes » (F). Notons que le verbe s'utilise de manière transitive et non pronominale comme il est d'usage actuellement.V. 547, 598Fadaise« Chose fade, de neant, sottise, bagatelle » (F).V. 395, 682Feu« La passion de l'amour », « l'ardeur » (Ac)V. 12, 236, 652, 999, 1298Enflamé : épris d'amourV. 687Flâme« La passion de l'amour » (Ac).V. 117, 245, 272, 421, 649, 857, 914, 977, 997, 1170, 1298, 1476FigurePersonnage.V. 77Représentation (R).V. 325Fin« Subtil, delicat, rusé » (F).V. 26, 758, 1033, 1111, 1534, 1768Finesse« *Ruse*, adresse, artifice » (F).V. 58Fleurette« Qui ne se dit qu'au figuré de certains petits ornements du langage, et des termes doucereux dont on se sert ordinairement pour cajeoller les femmes. C'est un diseur de *fleurettes*. Il conte *fleurettes* à cette Dame, c'est à dire, Il luy fait l'amour. » (F).V. 279, 818, 1697Fripon« Ce mot se dit entre amans et amantes, mais toujours en riant et badinant » V. 1403Friponne« Coquine, fourbe ».V. 573« Se dit en riant, lors qu'on parle à une Dame qu'on aime » (R).V. 970Gages« Salaire, Ce que l'on donne aux serviteurs par an, pour payement de leurs services » (Ac).V. 162, 1746GalantAgréable.V. 51, 343, 564, 939, 1033, 1211Le terme est utilisé en tant que substantif et signifie « Amant, amoureux » (Ac)V. 287, 1735GalanteLe terme est utilisé ici dans une connotation négative qui le met en relation avec la courtisanerie.V. 1637Galimatias« Discours embrouillé et confus qui semble dire quelque chose et ne dit rien » (Ac).V. 1691Garantir« Preserver » (Ac).Épître, v. 1368, 1387GênerTourmenter (Rey)V. 861, 1502GensLe terme présente le sens courant de « personne ».Épître, 148, 414, 434, 510, 528, 565, 812, 1032, 1075, 1277, 1383, 1422, 1443, 1532« Les domestiques d'un même maistre » (F).V. 550, 747 (x 2), 961, 1386, 1422Gentilhomme« Homme noble d'extraction, qui ne doit point sa Noblesse ni à sa charge, ni aux Lettres du Prince » (F).V. 154, 418, 1409, 1718Glose« Explication faite mot à mot et fidélement sur le texte »V. 397Gloser« Trouver à redire. Reprendre. » (R).V. 1652Gogaille« Réjoüissance » (Ac).V. 1846Grave« Serieux, qui agit, qui parle avec un air sage, avec dignité et circonspection »V. 325, 570Gravement« D'une maniere grave et composée » (Ac).Grimace« On dit aussi, qu'un habit, qu'un collet font la *grimace*, pour dire, qu'ils sont mal taillez, mal empesez, qu'ils ne vont pas bien sur le corps » (F)V. 1214« On dit fig. *Faire la grimace à quelqu'un*, pour dire, Luy faire mauvaise mine, mauvais accüeil » (Ac).V. 1573GueuserMendier.V. 157GueuserieIndigence, misere, pauvreté.V. 52, 190, 213, 1545Gueux, gueuse« Mendiant. Homme ou femme qui demande l'aumosne, qui fait mestier de caimander » (Ac).V. 54, 138, 218, 424, 496, 1705, 1750Haste« Empressement, diligence, precipitation » (F).V. 1838Hazarder« Risquer, exposer à la fortune, exposer au peril » (Ac).V. 868, 1484 (2), 1493, 1623Heur« Bonne fortune » (Ac).V. 680, 1088, 1312, 1477, 1625, 1758Honneste« Ce qui merite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. On le dit premierement de l'homme de bien, du galant homme, qui a pris l'air du monde, qui sçait vivre » (F)V. 289, 1093, 1466Le terme est dans ce cas utilisé dans l'expression *honneste femme* qui « se dit particulierement de celle qui est chaste, prude et modeste, qui ne donne aucune occasion de parler d'elle, ni même de la soupçonner » (F).V. 338HymenMariage (F).V. 252, 359, 1095, 1313, 1343, 1655, 1722, 1738, 1788, 1802Intrigue« Ce qui se fait par l'adresse et la pratique de certaines personnes qui embrouillent les choses afin d'en profiter »V. 35« Signifie quelquefois simplement, Affaire » (F).V. 1590Joli, ie« Mediocrement beau, agreable par sa gentillesse, par ses manieres » (F).V. 102Maîtresse« Celle qui a des domestiques. La femme du mari de quelque logis. »V. 1, 242, 530« Celle qui est particulierement aimée de quelque homme. Celle pour qui on a un atachement particulier, soit que cét atachement soit galant, ou sincere » (R).V. 1009Mandier« Chercher avec soin » (R).V. 293, 640Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (F).V. 178, 1819Mesure« Ce sont deux silabes. Les grands vers François qu'on apelle Alexandrins sont composez de six mesures » (R)V. 78, 326« Se dit figurément en Morale, du menagement des temps, des occasions, et des autres circonstances, qui font reussir, ou qui ruinent toutes les affaires » (F).V. 90Mugueter« Faire le galant, le cajolleur, tascher de se rendre agreable à une Dame » (F).V. 169Mutin« Opiniastre, querelleux, obstiné, testu » (Ac)V. 743, 1451Se mutiner« Refuser d'obeïr, se revolter contre son Maistre, contre son devoir » (F).V. 965Nopce« Mariage » (Ac).V. 13, 263, 448, 454, 455, 1084, 1859Ombrage« Deffiance, soupçon » (Ac).V. 1074, 1543Original« Un homme qui est ridicule et singulier en ses manieres, qui fait rire par la nouveauté de ses actions » (F).V. 123, 935Peste« Maladie contagieuse, et ordinairement mortelle » (F)V. 509« On s'en sert encore par exclamation et par admiration, et alors c'est une espece d'interjection » (Ac).V. 187, 469, 1051, 1553Pester« Monstrer par des paroles aigres et emportées le mescontentement qu'on a de quelque chose » (Ac).V. 253, 1662Poly« Doux, civil, honneste, complaisant, qui pratique de bonne grace tout ce qui regarde l'exterieur de la vie civile » (Ac).V. 51PrévenirDevancer, « anticiper » (R).V. 991Prude« Qui est sage et modeste » (F).V. 1693Qualité« Se dit aussi pour marquer le rang, la condition des personnes »V. 812, 1172, 1203« Se dit des titres qu'on prend pour plaider, pour agir, pour établir son droit en quelque chose »V. 983« Se dit aussi figurément en choses spirituelles et morales. Son esprit a beaucoup de bonnes *qualités*, il est vif, il est doux, il est ferme, etc. » (F).V. 1773Railler« Ne parler pas serieusement » (Ac)V. 1072, 1792Raillerie« Plaisanterie, action de railler » (Ac).V. 1813RareSingulier.V. 77, 935Rival« Terme relatif, qui se dit de deux personnes qui ont la même pretention: ce qui se dit plus particulierement en gloire, et en amour » (F).V. 504, 1143Sang« Se dit aussi de la parenté, de la race, de la communication qui se fait du *sang* par la generation » (F)V. 425, 588« La plus noble des quatre humeurs qui sont dans le corps de l'animal, et qui entretient sa vie » (F). Ce dernier sens se rapproche de l'acception actuelle de fluide qui circule dans les vaisseaux sanguins.V. 948Soin« Application d'esprit à faire quelque chose »V. 4, 119, 221, 665, 855, 1065, 1104, 1161, 1236, 1495« On dit, *Avoir soin de quelqu'un*, pour dire, Pour voir à ses besoins, à ses necessitez, à sa fortune »V. 187, 794« On dit, *Rendre des soins à quelqu'un*, pour dire, Le voir avec assiduité, et luy faire sa cour. Et, *Rendre de petits soins à une Dame*, pour dire, S'attacher à luy rendre beaucoup de petits services qui luy soient agreables »V. 670, 712, 724, 924« Sollicitude, peine d'esprit, soucy » (Ac).V. 1149Sot« Niais, despourveu d'esprit, qui dit et qui fait des impertinences, des actions ridicules » (F).V. 12, 39, 40, 128, 212, 316, 332, 421, 427, 683, 1032, 1087, 1278, 1354, 1462, 1680, 1705, 1750, 1812Sottise« Action imprudente, niaise, bestise » (F).V. 781, 1394Souffrir« Supporter » (Ac).V. 1747SoûpirerÊtre amoureux.V. 18, 61, 1124, 1290Soûpirs« Respiration plus forte et plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse » (Ac).V. 635, 880, 1299, 1303, 1507SoûpiranteAmante.V. 101Stile« Façon particuliere d'expliquer ses pensées, ou d'escrire, qui est differente, selon les Auteurs, et les matieres. Il y a le *stile* relevé ou sublime, dont on use dans les actions publiques; le *stile* mediocre ou familier, dont on se sert en conversation; et le *stile* bas ou populaire, dont on use dans le comique, ou le burlesque » (F).V. 278, 569, 1262Tendre« Tendresse. Penchant. Pante et inclination qui porte à aimer » (R).V. 89Terrible« Qui doit espouvanter, donner de la terreur »V. 255« Se dit aussi par exaggeration, de ce qu'on veut traitter de grand, d'extraordinaire, de surprenant » (F).V. 94Transports« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions » (F).Tuteur« Qui est esleu pour avoir soin de la personne et des biens des enfans qu'un pere ou une mere ont laissé en bas âge » (F)Liste des acteurs, v. 259, 455Tutelle« C'est une puissance qu'on acorde en Justice au plus proche parent d'un jeune enfant de défendre le bien et d'avoir soin des interêts de cét enfant jusques à ce que cét enfant ait l'âge prescrit par les loix afin de pouvoir gouverner sagement son bien, et ses affaires » (R).V. 1358, 1682Vain« Se dit aussi de celuy qui a remporté quelque marque d'honneur qui luy donne de la satisfaction » (F).V. 46, le terme présente son sens courant actuel de « ce qui est sans fondement, illusoire » aux vers 671, 1294, 1459Zele« Affection ardente pour quelque chose » (Ac).Épître, v. 862, 1162, 1761
+# Glossaire.Accommodant« Qui est facile, qui veut bien ce que les autres veulent ».V. 91« Ce qui nous fait grand bien » (F).V. 172AccorteCourtoise, complaisante, qui s'accomode à l'humeur des personnes. (Ac)V. 394, 1321Amant« Celuy qui aime d'une passion violente et amoureuse » (F).Liste des acteurs, v. 228, 267, 1009, 1760Appas« Charmes, attraits, agrément, ce qui plaist … Il se dit encore plus particulierement en parlant des attraits et de la beauté des femmes » (Ac).V. 136, 303, 660, 879, 1399, 1476Apprendre« Estre informé de quelque chose » (F)V. 229, 1182, 1458Enseigner.V. 1265Attraits« Se dit poëtiquement de la beauté » (F).AvisLe terme présente le sens courant de « sentiment, opinion » (F)V. 1151, 1651« Instruction qu'on donne à quelqu'un de quelque chose qu'il ignore, ou à quoy il ne prend pas garde » (F).V. 543, 1441, 1442Au besoinEn cas de nécessité.V. 71, 96, 335, 1201Badinage « Petite folastrerie, divertissement peu serieux » (F).V. 1118, 1165BeninDoux.V. 428, 1699Brave« Excellent en sa profession … qui fait toutes choses d'une maniere noble et honneste » (F).V. 194, 352, 842CampagnardProvincial, « qui n'est pas habitué à Paris, qui est de quelque Province du Roiaume de France » (R).V. 1353, 1460Charmant« Qui plaist extraordinairement, qui ravit en admiration » (F).V. 208, 268, 1148Civilité« Compliment ».V. 868« Maniere honneste, douce et polie d'agir, de converser ensemble » (F).V. 963Considerer« Estimer une chose pour sa valeur, pour son merite » (F).V. 148, 1517Contrefaire« Imiter quelque chose, et tâcher à la rendre semblable » (F).V. 1834D'abord queLa locution *d'abord que* est utilisé pour introduire une subordonnée temporelle. Il désigne un point de départ et a donc le même sens que *dès que, aussitôt que*, ou *depuis que.*V. 5, 278, 417Dédit« Sorte de retractation » (R).V. 451, 516, 1092, 1369, 1473, 1479, 1491, 1563, 1580, 1634, 1667, 1717Dessein« Projet, entreprise, intention » (F).V. 174, 804, 1187, 1726Drille« Terme de raillerie. Fantassin, soldat à pied » (Ac).V. 446Emportement« Mouvement de l'ame qui la fait sortir hors des bornes de la raison » (F).V. 914, 1495, 1635Empressement(s)« Mouvement que se donne celuy qui recherche une chose avec ardeur » (Ac), « Soins ardens et pleins de zéle » (R).Épître, v. 721, 861, 1331Entretenir« Discourir avec une ou plusieurs personnes » (F). Notons que le verbe s'utilise de manière transitive et non pronominale comme il est d'usage actuellement.V. 547, 598Fadaise« Chose fade, de neant, sottise, bagatelle » (F).V. 395, 682Feu« La passion de l'amour », « l'ardeur » (Ac)V. 12, 236, 652, 999, 1298Enflamé : épris d'amourV. 687Flâme« La passion de l'amour » (Ac).V. 117, 245, 272, 421, 649, 857, 914, 977, 997, 1170, 1298, 1476FigurePersonnage.V. 77Représentation (R).V. 325Fin« Subtil, delicat, rusé » (F).V. 26, 758, 1033, 1111, 1534, 1768Finesse« *Ruse*, adresse, artifice » (F).V. 58Fleurette« Qui ne se dit qu'au figuré de certains petits ornements du langage, et des termes doucereux dont on se sert ordinairement pour cajeoller les femmes. C'est un diseur de *fleurettes*. Il conte *fleurettes* à cette Dame, c'est à dire, Il luy fait l'amour. » (F).V. 279, 818, 1697Fripon« Ce mot se dit entre amans et amantes, mais toujours en riant et badinant » V. 1403Friponne« Coquine, fourbe ».V. 573« Se dit en riant, lors qu'on parle à une Dame qu'on aime » (R).V. 970Gages« Salaire, Ce que l'on donne aux serviteurs par an, pour payement de leurs services » (Ac).V. 162, 1746GalantAgréable.V. 51, 343, 564, 939, 1033, 1211Le terme est utilisé en tant que substantif et signifie « Amant, amoureux » (Ac)V. 287, 1735GalanteLe terme est utilisé ici dans une connotation négative qui le met en relation avec la courtisanerie.V. 1637Galimatias« Discours embrouillé et confus qui semble dire quelque chose et ne dit rien » (Ac).V. 1691Garantir« Preserver » (Ac).Épître, v. 1368, 1387GênerTourmenter (Rey)V. 861, 1502GensLe terme présente le sens courant de « personne ».Épître, 148, 414, 434, 510, 528, 565, 812, 1032, 1075, 1277, 1383, 1422, 1443, 1532« Les domestiques d'un même maistre » (F).V. 550, 747 (x 2), 961, 1386, 1422Gentilhomme« Homme noble d'extraction, qui ne doit point sa Noblesse ni à sa charge, ni aux Lettres du Prince » (F).V. 154, 418, 1409, 1718Glose« Explication faite mot à mot et fidélement sur le texte »V. 397Gloser« Trouver à redire. Reprendre. » (R).V. 1652Gogaille« Réjoüissance » (Ac).V. 1846Grave« Serieux, qui agit, qui parle avec un air sage, avec dignité et circonspection »V. 325, 570Gravement« D'une maniere grave et composée » (Ac).Grimace« On dit aussi, qu'un habit, qu'un collet font la *grimace*, pour dire, qu'ils sont mal taillez, mal empesez, qu'ils ne vont pas bien sur le corps » (F)V. 1214« On dit fig. *Faire la grimace à quelqu'un*, pour dire, Luy faire mauvaise mine, mauvais accüeil » (Ac).V. 1573GueuserMendier.V. 157GueuserieIndigence, misere, pauvreté.V. 52, 190, 213, 1545Gueux, gueuse« Mendiant. Homme ou femme qui demande l'aumosne, qui fait mestier de caimander » (Ac).V. 54, 138, 218, 424, 496, 1705, 1750Haste« Empressement, diligence, precipitation » (F).V. 1838Hazarder« Risquer, exposer à la fortune, exposer au peril » (Ac).V. 868, 1484 (2), 1493, 1623Heur« Bonne fortune » (Ac).V. 680, 1088, 1312, 1477, 1625, 1758Honneste« Ce qui merite de l'estime, de la loüange, à cause qu'il est raisonnable, selon les bonnes mœurs. On le dit premierement de l'homme de bien, du galant homme, qui a pris l'air du monde, qui sçait vivre » (F)V. 289, 1093, 1466Le terme est dans ce cas utilisé dans l'expression *honneste femme* qui « se dit particulierement de celle qui est chaste, prude et modeste, qui ne donne aucune occasion de parler d'elle, ni même de la soupçonner » (F).V. 338HymenMariage (F).V. 252, 359, 1095, 1313, 1343, 1655, 1722, 1738, 1788, 1802Intrigue« Ce qui se fait par l'adresse et la pratique de certaines personnes qui embrouillent les choses afin d'en profiter »V. 35« Signifie quelquefois simplement, Affaire » (F).V. 1590Joli, ie« Mediocrement beau, agreable par sa gentillesse, par ses manieres » (F).V. 102Maîtresse« Celle qui a des domestiques. La femme du mari de quelque logis. »V. 1, 242, 530« Celle qui est particulierement aimée de quelque homme. Celle pour qui on a un atachement particulier, soit que cét atachement soit galant, ou sincere » (R).V. 1009Mandier« Chercher avec soin » (R).V. 293, 640Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (F).V. 178, 1819Mesure« Ce sont deux silabes. Les grands vers François qu'on apelle Alexandrins sont composez de six mesures » (R)V. 78, 326« Se dit figurément en Morale, du menagement des temps, des occasions, et des autres circonstances, qui font reussir, ou qui ruinent toutes les affaires » (F).V. 90Mugueter« Faire le galant, le cajolleur, tascher de se rendre agreable à une Dame » (F).V. 169Mutin« Opiniastre, querelleux, obstiné, testu » (Ac)V. 743, 1451Se mutiner« Refuser d'obeïr, se revolter contre son Maistre, contre son devoir » (F).V. 965Nopce« Mariage » (Ac).V. 13, 263, 448, 454, 455, 1084, 1859Ombrage« Deffiance, soupçon » (Ac).V. 1074, 1543Original« Un homme qui est ridicule et singulier en ses manieres, qui fait rire par la nouveauté de ses actions » (F).V. 123, 935Peste« Maladie contagieuse, et ordinairement mortelle » (F)V. 509« On s'en sert encore par exclamation et par admiration, et alors c'est une espece d'interjection » (Ac).V. 187, 469, 1051, 1553Pester« Monstrer par des paroles aigres et emportées le mescontentement qu'on a de quelque chose » (Ac).V. 253, 1662Poly« Doux, civil, honneste, complaisant, qui pratique de bonne grace tout ce qui regarde l'exterieur de la vie civile » (Ac).V. 51PrévenirDevancer, « anticiper » (R).V. 991Prude« Qui est sage et modeste » (F).V. 1693Qualité« Se dit aussi pour marquer le rang, la condition des personnes »V. 812, 1172, 1203« Se dit des titres qu'on prend pour plaider, pour agir, pour établir son droit en quelque chose »V. 983« Se dit aussi figurément en choses spirituelles et morales. Son esprit a beaucoup de bonnes *qualités*, il est vif, il est doux, il est ferme, etc. » (F).V. 1773Railler« Ne parler pas serieusement » (Ac)V. 1072, 1792Raillerie« Plaisanterie, action de railler » (Ac).V. 1813RareSingulier.V. 77, 935Rival« Terme relatif, qui se dit de deux personnes qui ont la même pretention: ce qui se dit plus particulierement en gloire, et en amour » (F).V. 504, 1143Sang« Se dit aussi de la parenté, de la race, de la communication qui se fait du *sang* par la generation » (F)V. 425, 588« La plus noble des quatre humeurs qui sont dans le corps de l'animal, et qui entretient sa vie » (F). Ce dernier sens se rapproche de l'acception actuelle de fluide qui circule dans les vaisseaux sanguins.V. 948Soin« Application d'esprit à faire quelque chose »V. 4, 119, 221, 665, 855, 1065, 1104, 1161, 1236, 1495« On dit, *Avoir soin de quelqu'un*, pour dire, Pour voir à ses besoins, à ses necessitez, à sa fortune »V. 187, 794« On dit, *Rendre des soins à quelqu'un*, pour dire, Le voir avec assiduité, et luy faire sa cour. Et, *Rendre de petits soins à une Dame*, pour dire, S'attacher à luy rendre beaucoup de petits services qui luy soient agreables »V. 670, 712, 724, 924« Sollicitude, peine d'esprit, soucy » (Ac).V. 1149Sot« Niais, despourveu d'esprit, qui dit et qui fait des impertinences, des actions ridicules » (F).V. 12, 39, 40, 128, 212, 316, 332, 421, 427, 683, 1032, 1087, 1278, 1354, 1462, 1680, 1705, 1750, 1812Sottise« Action imprudente, niaise, bestise » (F).V. 781, 1394Souffrir« Supporter » (Ac).V. 1747SoûpirerÊtre amoureux.V. 18, 61, 1124, 1290Soûpirs« Respiration plus forte et plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse » (Ac).V. 635, 880, 1299, 1303, 1507SoûpiranteAmante.V. 101Stile« Façon particuliere d'expliquer ses pensées, ou d'escrire, qui est differente, selon les Auteurs, et les matieres. Il y a le *stile* relevé ou sublime, dont on use dans les actions publiques; le *stile* mediocre ou familier, dont on se sert en conversation; et le *stile* bas ou populaire, dont on use dans le comique, ou le burlesque » (F).V. 278, 569, 1262Tendre« Tendresse. Penchant. Pante et inclination qui porte à aimer » (R).V. 89Terrible« Qui doit espouvanter, donner de la terreur »V. 255« Se dit aussi par exaggeration, de ce qu'on veut traitter de grand, d'extraordinaire, de surprenant » (F).V. 94Transports« Se dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions » (F).Tuteur« Qui est esleu pour avoir soin de la personne et des biens des enfans qu'un pere ou une mere ont laissé en bas âge » (F)Liste des acteurs, v. 259, 455Tutelle« C'est une puissance qu'on acorde en Justice au plus proche parent d'un jeune enfant de défendre le bien et d'avoir soin des interêts de cét enfant jusques à ce que cét enfant ait l'âge prescrit par les loix afin de pouvoir gouverner sagement son bien, et ses affaires » (R).V. 1358, 1682Vain« Se dit aussi de celuy qui a remporté quelque marque d'honneur qui luy donne de la satisfaction » (F).V. 46, le terme présente son sens courant actuel de « ce qui est sans fondement, illusoire » aux vers 671, 1294, 1459Zele« Affection ardente pour quelque chose » (Ac).Épître, v. 862, 1162, 1761
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## SourcesEl lindo Don Diego, selección, estudio y notas por Eduardo Juliá Martinez
+## Sources.El lindo Don Diego, selección, estudio y notas por Eduardo Juliá Martinez
 Las Muñecas de Marcela. El Señor de noches buenas. Introducción, textos y notas de Angel Valbuena Prat
 
 
 
-## Ouvrages généraux
+## Ouvrages généraux.
 
 
-### Sur le théâtreLa Poétique
+### Sur le théâtre.La Poétique
 Dictionnaire encyclopédique du théâtre
 Poétique
 Le Langage dramatique
@@ -5549,7 +5549,7 @@ Lire le théâtre
 
 
 
-### Sur la périodeHistoire de la littérature française du XVII*e* siècle
+### Sur la période.Histoire de la littérature française du XVII*e* siècle
 Morales du grand siècle
 Le Baroque
 Le Masque et le visage. Du baroque espagnol au classicisme français
@@ -5560,7 +5560,7 @@ Le Siècle de Louis XIV
 
 
 
-### Sur le théâtre de la périodeLe Théâtre de l'Hôtel de Bourgogne 1548-1680
+### Sur le théâtre de la période.Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
 Essai de génétique théâtrale. Corneille à l'œuvre
 Passions tragiques et règles classiques. Essai sur la tragédie française
@@ -5573,7 +5573,7 @@ The Hôtel de Bourgogne : another look at France's first public theatre
 
 
 
-### Sur le genre comiqueLa comédie de l'âge classique, 1630-1715
+### Sur le genre comique.La comédie de l'âge classique, 1630-1715
 Lire la comédie
 La Comédie de l'âge classique
 La Comédie classique en France : de Jodelle à Beaumarchais
@@ -5581,7 +5581,7 @@ La comédie
 
 
 
-### Sur la *comedia* espagnole et ses adaptations en FranceLa Comédie espagnole (1600-1680)
+### Sur la *comedia* espagnole et ses adaptations en France.La Comédie espagnole (1600-1680)
 Las comedias de costumbres de Alvaro Cubillo de Aragón. Édition et étude
 Una reelaboración dramática: deaLa década de oro en la comedia española: 1630-1640
 La Comedia espagnole en France de Hardy à Racine
@@ -5589,29 +5589,29 @@ Geschichte der dramatischen Literatur ud Kunst in Spanien
 
 
 
-### Sur la langue classique
+### Sur la langue classique.
 
 
-#### DictionnairesDictionnaire
+#### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire historique de la langue française
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences
 
 
 
-#### Grammaire, rhétoriqueRhétorique
+#### Grammaire, rhétorique.Rhétorique
 Grammaire du français classique
 Syntaxe française du XVIIe siècle
 Introduction à la langue française du XVIIe siècle
 
 
 
-### Ouvrages bibliographiquesBibliographie de la Littérature française du dix-septième siècle
+### Ouvrages bibliographiques.Bibliographie de la Littérature française du dix-septième siècle
 Bibliographie der französischen Literatur-Wissenschaft
 
 
 
-## Travaux consacrés à Thomas CorneilleThomas Corneille, protean dramatist
+## Travaux consacrés à Thomas Corneille.Thomas Corneille, protean dramatist
 Le Baroque et le classique dans le théâtre espagnol et français du XVIIe siècle. Calderón imité par Thomas Corneille
 La Dramaturgie de Thomas Corneille
 Modern Language Notes

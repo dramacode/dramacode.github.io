@@ -20,19 +20,19 @@ Prix : Cinquante sols, avec la musique.
       master 1 sous la direction de Georges Forestier (2013-2014)
 
 
-# Introduction
+# Introduction.
 
 Molière is not only known as an author and as a man, he also appears as a character in numerous plays written during the eighteenth century [1]. 
 
 Imaginez : vous entrez dans la maison de Molière à Auteuil, un soir, peut-être vers la fin des années 1660. Là, vous tombez nez à nez avec Boileau, La Fontaine, Lully, Chapelle et Baron, festoyant gaiement autour de vins – ou de boissons lactées – et de vaudevilles. La soirée bat son plein, et les convives, notamment Chapelle, il faut bien le dire, sont si imprégnés d'effluves alcoolisées, qu'ils décrètent que la vie n'est que misère et que leur seule issue est d'en finir avec elle : la rivière n'est pas loin, allons nous y jeter ! Se noyer la nuit ou attendre le lendemain matin : telle sera la question posée par Molière… Entre mariage heureux, soirée arrosée et lendemain incertain, cette petite pièce historique – ou non –, mêlée de vaudevilles, ne manquera sans doute pas de vous faire sourire ! [2]
 
 
-# Mais qui est donc ce Cadet de Gassicourt ? (23 janvier 1769 - 22 novembre 1821)
+# Mais qui est donc ce Cadet de Gassicourt ? (23 janvier 1769 - 22 novembre 1821).
 
 Charles-Louis Cadet de Gassicourt, (dit Cadet-Gassicourt pendant la Révolution), traversa une période particulièrement riche de l'histoire de France : « assistant dans sa jeunesse à l'extinction du siècle des Lumières, il vécut ensuite les ambitions et les exagérations de la Révolution, la gloire et la chute de l'Empire, le retour hésitant de la Royauté. Chaque fois, il participa activement à ces événements [3]. » Sa carrière, à l'image de la diversité qui caractérise les périodes qu'il traversa, embrassa les sciences comme les arts, sans oublier bien sûr la politique : « il acquit successivement de brillantes réputations comme avocat, littérateur, pharmacien, chimiste et défenseur acharné de la santé publique [4]. » Quant à son tempérament « vif et enjoué, parfois même très critique », nous en soulignerons l'accointance permanente avec « le rire et la convivialité » : Charles-Louis se disait d'ailleurs épicurien [5]. 
 
 
-## Une surprenante ascendance
+## Une surprenante ascendance.
 
 Né le 23 janvier 1769, et baptisé en l'église Saint-Eustache à Paris – tout comme Molière en 1622 –, Charles-Louis fut probablement le fils illégitime de Marie-Thérèse-Françoise Boisselet, sa mère, et de Louis XV en personne. Les *Mémoires* de Paul Thiébault (1769-1846, général d'armée et ami de Gassicourt), en sont notamment un témoignage (tome V, p.370-372) :
 
@@ -44,7 +44,7 @@ Jean Flahaut va également dans ce sens en soulignant que « tous ceux qui ont 
 Louis XV eut beau nommer Louis-Claude Cadet de Gassicourt membre de l'Académie des Sciences, ce dernier ne pardonna jamais à sa femme, et son unique concession fut de ne pas la répudier publiquement. Charles-Louis eut l'occasion de rencontrer son père biologique pour la première fois en 1774 ; alors âgé de cinq ans, il ne comprit sans doute pas la formule que Louis-Claude lui aurait dite à l'oreille : « salue papa roi [8] ». Malgré ses grands talents de chimiste, reconnus même à l'étranger, et sa carrière de pharmacien rue Saint-Honoré, Cadet délaissa ensuite les sciences : la « cassure » dans sa vie scientifique, aux alentours de 1774, ne pouvant être séparée de celle de sa vie privée [9]. Il s'enferma dès lors dans un « silence de plus en plus grand », se rendant compte qu'il était véritablement « la risée des salons parisiens [10] ». Charles-Louis ne suivit pas, en tout cas dans un premier temps, le parcours paternel, étant davantage porté vers les lettres ; mais ces dernières risquant de le réduire à une carrière incertaine, il s'orienta donc vers le droit, et devint avocat au Parlement de Paris en 1787.
 
 
-## Les amours de Cadet
+## Les amours de Cadet.
 
 Charles-Louis, avec son ami Thiébault, fréquenta, dès sa jeunesse, « une brillante et aimable société [11] », et rendit quelques hommages aux jolies demoiselles qui s'y trouvaient.
 
@@ -55,10 +55,10 @@ Puis il se maria avec Madeleine-Félicité Barré ; la cérémonie religieuse e
 Cadet vécut alors chez son père, jusqu'à la mort de ce dernier, et mena une vie fort dissipée, conquérant le cœur de plusieurs maîtresses, parmi lesquelles Françoise Sancerotte, dite Mademoiselle de Raucourt, fameuse comédienne – Charles-Louis étant alors pharmacien de la Comédie-Française, cette fonction put créer des liens. Puis, il s'éprit de Marie Walter, « femme de petite vertu mais courtisane de renom [16] » : ils vécurent ensemble pendant au moins cinq ans, et tombèrent tous deux malades de la « gonococcie [17] » (présentée à l'époque comme une syphilis). Marie, qui aimait « la vie riche et luxueuse », engagea dès lors Charles-Louis à « acquérir une propriété dans la proche banlieue de Paris [18] ». Cela n'est pas sans rappeler la maison que louait Molière à Auteuil, pour prendre le grand air, et justement lieu du *Souper* ; néanmoins, Charles-Louis acquit sa propriété – située quant à elle à Chatenay-Malabry – en 1805, bien après, donc, l'écriture de la pièce, en 1794.
 
 
-## Un parcours multiple
+## Un parcours multiple.
 
 
-### Parcours politique
+### Parcours politique.
 
 Notons la consonance déjà politique de la première œuvre de Charles-Louis : en 1788, il rédigea en effet une *tragédie pour rire*, facétie « fort spirituelle », intitulée *La Restauration de la Halle* [19] : il s'agissait d'une allusion critique aux problèmes financiers que rencontrait alors le gouvernement de Louis XVI. Concernant ses études, soulignons aussi que Gassicourt fréquenta les Collèges « les plus réputés de l'époque [20] » : au Collège de Navarre, il côtoya notamment André et Marie-Joseph Chénier ; et les enseignements du Collège Mazarin formèrent un jeune homme déjà « très imprégné d'idées réformatrices [21]. » Tout au long du XVIII*e* siècle, on assista en même temps qu'à l'amenuisement de la domination aristocratique, à la naissance progressive d'une bourgeoisie de plus en plus consciente de son pouvoir, mais freinée par la « persistance de structures féodales [22]. » Thiébault, Gassicourt et les frères Chénier souhaitèrent modifier ces structures, et soutinrent « les premiers pas de la Révolution [23] ». Pour autant, ils ne cherchèrent pas à « remettre en question la monarchie [24] », manifestant toujours leur attachement au roi.
 
@@ -73,7 +73,7 @@ Au moment de la Révolution régnait une certaine « effervescence [36] » aut
 Quant aux charlatans, Charles-Louis s'y attaqua aussi, et notamment en luttant contre les remèdes secrets : la loi du 11 avril 1803 (21 germinal an XI) – qui créa les Écoles de Pharmacie – jouant en sa faveur, même si ces produits persistèrent, car mouvant de « considérables enjeux financiers [43] ». Gassicourt définit ainsi les charlatans (*Du charlatanisme*, Bull. Pharm., 1809, t.I, p.42-43) : « tout homme qui professe l'art de guérir et qui fait un secret de sa méthode ou de la composition des remèdes qu'il prépare [44] » : comment ne pas voir, là encore, une proximité avec certaines œuvres de Molière… [45]
 
 
-### Parcours littéraire
+### Parcours littéraire.
 
 Dès son enfance, Charles-Louis manifesta une grande attirance pour les lettres ; il écrivit par la suite « des poèmes, des comédies, des rapports politiques, des mémoires pharmaceutiques et chimiques, des relations historiques, des pamphlets [46]… », et, lorsque, à partir de 1793, il entra dans une vie politique active, il se fit appeler « *homme de lettres* [47] » (et ce jusqu'à ce qu'il se tourne vers la pharmacie en 1800). Au cours des sept derniers mois de l'année 1794, nous l'avons vu, la « Grande Terreur » s'abattit sur Paris. Charles-Louis, bien qu'il ait manifesté ses sentiments révolutionnaires dans la chanson *La Montagne* et dans ses hommages à Marat et à Lepelletier à la fin de l'année 1793, resta discret, redoutant le Comité Révolutionnaire de la Section du Mont-Blanc. Il se livra alors à son « passe-temps favori » : les lettres, et rédigea des comédies « légères et sans prétention [48] » (*Deux et deux font quatre* rappelant d'ailleurs la fameuse scène de l'incroyance dans *Dom Juan*, Acte III, scène I) ; on y retrouve à chaque fois « une grande culture du passé et une profonde maîtrise des connaissances de son époque [49]. » Gassicourt, lorsqu'il écrivit seul, mit en effet en scène des personnages historiques : Molière et Racan, « personnages du siècle précédent, qui furent célèbres par leurs œuvres littéraires ou artistiques [50] ». La construction des pièces était somme toute semblable : il s'agissait d'une réunion d'amis, mêlée de nombreux vaudevilles.
 
@@ -91,35 +91,35 @@ et le bonheur est dans le plaisir [57].
 Nous verrons à quel point ces paroles sont éloquentes pour l'étude du *Souper*…
 
 
-# Contexte et enjeux du Souper de Molière
+# Contexte et enjeux du Souper de Molière.
 
 
-## Vie de la pièce et réception par les contemporains
+## Vie de la pièce et réception par les contemporains.
 
 *Le Souper de Molière, ou la soirée d'Auteuil* fut joué pour la première fois le 23 janvier 1795 (4 pluviôse an III) au théâtre du Vaudeville. « Pleine d'entrain, bien traitée, spirituelle [58] », la pièce plut beaucoup. Elle continua d'être jouée dans ce même théâtre et, cinq ans plus tard, figura encore « cinq fois à l'affiche », ce qui illustre un « intérêt constant de la part du public [59]. » Gassicourt fut dès lors remarqué dans les milieux littéraires. Mais les événements de septembre 1795, et son exil jusqu'en août 1796, le privèrent pendant une année de « tout contact avec la société littéraire parisienne [60]. » De retour à Paris, il appartint à la Société Gastronomique et Littéraire dont nous avons parlé. *Le Souper* serait donc un texte « porteur d'interrogations [61] » : « chaque convive, en décrivant ses déceptions, ne se fait-il pas ici l'écho des pensées profondes de Charles-Louis ? ». Sa composition date en effet des années où il aspira à se trouver une place dans le monde politique, mais fut « constamment devant des situations difficilement prévisibles, inquiétantes et même tragiques [62] », et où ses relations avec son épouse allaient en se dégradant. La plume de Gassicourt aurait alors été « imprégnée de désenchantements [63]. »
 
 
-## Le théâtre de la Révolution française autour de 1795
+## Le théâtre de la Révolution française autour de 1795.
 
 
-### Quelques précisions concernant le contexte politique
+### Quelques précisions concernant le contexte politique.
 
 La composition du *Souper*, au cours de l'année 1794, correspond à la période dite de la « Terreur », donc à un contexte d'effervescence politique, de mouvements adverses, de soupçons et d'arrestations. Déjà, l'exécution de Louis XVI (le 21 janvier 1793 ; 2 pluviôse an I) avait provoqué une crise de la pensée et des représentations mentales et morales. La Convention montagnarde mit en place le Tribunal révolutionnaire – censé éviter de nouveaux massacres de prisonniers [64], suite à l'insurrection vendéenne de mars 1793, en réponse à la levée de trois cent mille hommes dans le contexte de guerre contre l'Autriche – ainsi que le Comité de Salut public, doté d'un très fort pouvoir, notamment entre les mains de Robespierre : ces structures entraînèrent, de juillet 1793 au 27 juillet 1794 (9 thermidor an II), de nombreuses arrestations et condamnations. Robespierre élimina progressivement ceux qu'il considérait comme trop modérés : les partisans de Hébert, puis les Indulgents, à commencer par Danton. Mais, après la loi du 10 juin 1794 (22 prairial an II), symbole de la « Grande Terreur », qui supprima en effet « les dernières garanties accordées aux suspects [65] » (désormais il ne leur restait que deux possibilités, l'acquittement, ou la condamnation à mort), Robespierre fut néanmoins arrêté, le 27 juillet 1794, et exécuté le lendemain, ce qui marqua la fin de la Terreur. En septembre 1795 fut votée la constitution de la Convention thermidorienne ; en avril-mai 1795, on note quelques journées insurrectionnelles dites journées de Prairial, mais qui furent rapidement matées. Cette période correspondit en outre à un essor de la presse, au développement du système éducatif, arraché à l'Église, dans un mouvement général de déchristianisation (excepté lorsque Robespierre détint le pouvoir). On assista aussi à la création de conservatoires d'arts et métiers, et de musées, dans une prise de conscience du patrimoine, et une appropriation nationale de l'art. Ainsi la situation politique ne manqua-t-elle pas d'avoir un impact sur toutes les activités de la société française…
 
 Qu'en est-il du théâtre ?
 
 
-### L'enjeu du théâtre
+### L'enjeu du théâtre.
 
 On constate que le théâtre prit « une dimension nouvelle » dans la vie culturelle du XVIII*e* siècle : « Si en nombre de titres (opéras et ballets compris), le siècle précédent avait produit environ 2000 pièces, on en dénombre près de 11500 de 1700 à 1789, composées par environ 750 auteurs ! On estime à 5000 le nombre de comédiens actifs en France au XVIII*e* siècle [66]. »
 
 
-#### La « théâtromanie [67] »
+#### La « théâtromanie [67] ».
 
 Au début de la Révolution, on comptait douze salles de théâtre, dont trois privilégiées : la Comédie-Française, qui détenait le monopole du théâtre parlé parisien, l'Opéra, et la Comédie-Italienne. La loi Le Chapelier du 13 janvier 1791 adopta un décret qui mit fin à ce monopole de la Comédie-Française, et décréta la liberté pour tout citoyen d'élever un théâtre public et de faire représenter des pièces de tous genres (à condition, s'il s'agissait d'auteurs vivants, d'avoir préalablement reçu leur accord). Désormais, on ouvrait un théâtre comme une boutique ; cela devenait moins une entreprise étatique que commerciale, entraînant une concurrence entre les théâtres. On peut donc citer le théâtre Louvois, le théâtre de l'Émulation, le théâtre de la Liberté, le théâtre d'ombres chinoises, celui des Arts, le théâtre Olympique, le théâtre des Jeunes Élèves, ou encore celui de la Rue des Muses. Et bien sûr le théâtre du Vaudeville, que nous avons déjà mentionné, situé rue Chartres-Saint-Honoré (1*er* arrondissement), dans le Petit-Panthéon. Quant au théâtre Molière, devenu théâtre Martin en 1795 (et aujourd'hui Maison de la Poésie, rue Saint-Martin dans le 3*e* arrondissement), qui publia *Le Souper*, il « s'appela tour à tour théâtre Molière, théâtre des sans-culottes, théâtre des amis des arts, des variétés nationales, des élèves de l'opéra-comique [68] ».
 
 
-#### Une échappatoire musicale
+#### Une échappatoire musicale.
 
 Avec la réaction thermidorienne des 27 et 28 juillet 1794 (9 et 10 thermidor an II) qui mit fin à la Convention et à la Terreur, les Parisiens furent conduits à « chercher des dérivatifs à leurs problèmes quotidiens », et ce grâce à des « comédies sans prétention, aussi gaies que possible, souvent agrémentées de vaudevilles [69] ». À cet égard, notons que le XVIII*e* siècle fut bien l'âge d'or de la chanson. Ce fut d'ailleurs au théâtre du Vaudeville, fondé par Barré [70] et Piis en 1792, qu'eut lieu la première représentation du *Souper de Molière*, le 23 janvier 1795 (4 Pluviôse an III).
 
@@ -137,10 +137,10 @@ C'est un « genre où des chansons satiriques et malicieuses, renonçant à tou
 Mechele Leon évoque bien une « resurgence of interest in the vaudeville genre during the Revolution [74]. » En effet, cette pratique possède la triple particularité d'être « irreverent » (« irrévérencieuse »), « timely » (« opportune »), et « parodying » (« parodique ») [75], ce qui permet de divertir les spectateurs, qui assistent avec joie au dépassement des bienséances, mais aussi de faire subtilement référence à l'actualité, en insérant des paroles éloquentes sur un air connu ; la complicité est donc au rendez-vous, les vaudevilles encourageant « by nature » la participation du public [76]. Dans *Le Souper de Molière*, Gassicourt a très bien pu songer au phénomène de double historicité : en illustrant une anecdote de la vie de Molière, l'auteur fait des allusions à la situation contemporaine, aisément comprises par l'auditoire, comme nous le verrons plus loin. S'il y a critique ou du moins remise en question de la situation contemporaine, c'est au travers d'un procédé qui reste placé sous le signe de la légèreté. L'air du vaudeville des Visitandines, par exemple, présent dans *Le Souper* (scène VIII, P. 23), illustre bien cette prééminence de la joie : il s'agirait de « la plus joyeuse, la plus inoffensive des antimonacales, et en même temps, un des succès les plus incontestés du théâtre de la Révolution » : « même sous la Terreur, le public ne voudra pas s'en passer [77] ». En tout cas, Gassicourt semble avant tout avoir répondu à la mode du vaudeville, et s'être fait discret quant aux événements, à une époque où les pièces à vocation politique étaient pourtant nombreuses : *Le Souper de Henri IV, ou le laboureur devenu gentilhomme* (comédie en un acte, en prose, par MM. Boutiller et Deprez de Walmont, les Frères Bonnet, Avignon, 1792 [78]), *La Parfaite égalité ou les tu et toi*, (comédie en trois actes, en prose, par Dorvigny, chez Barba, Paris, 1795 [79]), et *Le Vous et le toi*, opéra-vaudeville, en un acte (par Valcour, Cailleau, Paris, 1794).
 
 
-### Le statut des œuvres : des changements à noter
+### Le statut des œuvres : des changements à noter.
 
 
-#### Un public nouveau
+#### Un public nouveau.
 
 Au cours du XVIII*e* siècle, en France, « le public (populaire) du *parterre*, jusqu'alors debout », se vit offrir « des places assises [80] », et, en 1759, le comte de Lauraguais fit supprimer « ces trop fameuses *banquettes* latérales qui, sur la scène même permettaient à des “petits maîtres” plus ou moins turbulents de “parasiter la représentation” [81]. » Ainsi, l'activité théâtrale se démocratisa, avec une diminution du prix des places et un renouvellement du répertoire, comme du public. En effet, ce dernier était désormais « constitué, dans sa grande majorité, par ces nouveaux spectateurs, qui ont bénéficié des promotions sociales engendrées par les bouleversements de la Révolution [82]. » Henri Lagrave décrit ce public nouveau dans *Le Théâtre en France* [83] : il s'agissait d'un « public turbulent, que la police a du mal à discipliner », mais aussi « actif, qui pèse d'un poids déterminant dans la vie théâtrale », et « élargi aux couches populaires, attirées par les petits spectacles de foires, puis de boulevards ». Imposant peu à peu ses goûts, il contribua « à l'évolution de la création théâtrale. » L'œuvre désormais n'était plus stable, mais au contraire dynamique et mobile. Pierre Frantz souligne à ce propos un décalage entre le « sens voulu » (par l'auteur) et le « sens vécu » (par le public) [84], et Lagrave insiste : « si le public s'est assagi, il reste néanmoins, même à la fin du siècle, remuant, bavard, gouailleur, indiscipliné, violent parfois » et « la crainte du sifflet a fait naître la “claque”, qui se muera bientôt en institution [85] ». Louis-Sébastien Mercier [86] sembla se plaindre d'un tel public dans la « Préface » à *Molière, drame en cinq actes en prose, imité de Goldoni*, (Amsterdam, 1776, p.10), comme d'un « bourdonnement monotone et continu de ces insectes folliculaires, qui troublent plus qu'il ne nuisent, qu'on écrase et qui renaissent [87]. » La question du public est donc un élément essentiel à prendre en compte dans l'activité théâtrale de la Révolution ; cela implique une nouvelle manière d'interpréter les textes. Les études que nous proposerons ne seront donc bien sûr que des conjectures, car le théâtre de la Révolution nous invite à considérer qu'il n'y a pas d'œuvre arrêtée, définitive, finie.
 
@@ -150,10 +150,10 @@ Au cours du XVIII*e* siècle, en France, « le public (populaire) du *parterre*
 Le théâtre de la Révolution française est bien souvent associé à son prétendu manque de qualité. Dans ses fonctions pédagogiques nouvelles, avec le recours à un discours « que l'on veut univoque et sans ambiguïté », il devint porteur d'un « monologisme écrasant » qui sembla « réduire les textes à la propagande la plus caricaturale [88]. » Dès 1790, des inquiétudes furent formulées quant à l' « Influence de la Révolution sur le théâtre françois [89] ». En effet, dans un premier temps, on constata que « tous les regards » étaient fixés sur l'Assemblée nationale, et les théâtres « oubliés » ; « tous les hommes » devenant alors « des législateurs [90] », l'on craignit que la Révolution n'entraînât la chute du théâtre français dans la capitale. C'est pourquoi l'on proposa d'ériger ce théâtre en « institution politique », sur des bases « aussi solides que celles de la constitution française [91]. » La formule de Marie-Joseph Chénier proclamant le théâtre comme « école de vertu et de liberté [92] » devint particulièrement éloquente. À l'époque, entrèrent en ligne de compte « deux impératifs partiellement contradictoires » : d'une part, « assurer la liberté aux entrepreneurs de spectacles », et d'autre part « intégrer le théâtre à la politique de culture générale, à l'instruction publique, à la formation morale et politique du citoyen [93]. » En tout cas, la Convention montagnarde réduisit « considérablement » la liberté qui avait été accordée au théâtre en 1791 [94]. Dès le mois d'août 1793 fut élaborée la mention « par et pour le Peuple », et le théâtre devint un véritable moyen d'éducation nationale. D'ailleurs, un décret de la Convention attribua « en janvier 1794 une somme de 100 000 livres aux vingt spectacles de Paris qui ont donné chacun quatre représentations “par et pour le Peuple [95].” » S'il régnait donc un certain « flou juridique [96] » au sujet du théâtre, il fut totalement levé à partir de mars 1794 : désormais, le Comité d'instruction publique était chargé de surveiller et d'épurer le répertoire. L'atmosphère générale se prêta alors à une forme d'autocensure. En janvier 1793 (nivôse-pluviôse an 1), le procès du roi fut même interrompu afin de régler la question de *L'Ami des lois* (comédie en cinq actes, en vers, 2 janvier 1793 – 13 nivôse an 1) de Jean-Louis Laya (1761-1833), la pièce étant jugée contre-révolutionnaire. Enfin, il persistait toujours un certain « discrédit » jeté sur les comédiens : « Leur statut n'a guère évolué, malgré une professionnalisation accrue liée à la multiplication de troupes résidentes en province. Le comédien est toujours suspecté par l'Église …. Ce qui n'empêche pas le public d'aduler ses idoles [97]. »
 
 
-## Molière et le théâtre du XVII*e* siècle
+## Molière et le théâtre du XVII*e* siècle.
 
 
-### Jouer Molière
+### Jouer Molière.
 
 Avec la Révolution, les théâtres devinrent propriété publique : l'on pouvait donc jouer « du Molière » sur n'importe quelle scène, puisque cet auteur était mort depuis plus de cinq ans (seul le consentement des auteurs vivants était requis).
 
@@ -170,7 +170,7 @@ Molière, donc très représenté au XVIII*e* siècle, et notamment pendant la R
 Cependant, il ne s'agissait plus de l'époque de Molière ; Mercier le souligna dans *Du Théâtre ou Nouvel Essai sur l'art dramatique* (1773, p.67-68) : « Molière revenant au monde en 1773 … ne pourrait rire au milieu d'une nation qui n'a plus sujet de rire. Les deux muscles de la bouche, nommés *zygomatiques*, sont aujourd'hui paralysés chez tous les Français [103]. » 
 
 
-### Fêter et s'approprier Molière
+### Fêter et s'approprier Molière.
 
 Il s'est donc agi, pour les auteurs qui s'en emparèrent, de mettre en lumière des liens avec Molière, et de lui faire jouer un rôle « dans la lutte des idées, à une époque où la neutralité n'était guère concevable [104]. » D'ailleurs, le 21 janvier 1793 (2 pluviôse an 1), deux spectacles se succédèrent : l'exécution de Louis XVI, et la représentation du *Médecin malgré lui – opéra* au Théâtre de la rue Feydeau. Désormais, le but des représentations moliéresques était clairement annoncé dans le *Journal des Spectacles* du 9 décembre 1793 (19 frimaire an II) : « pour arriver au but civique et révolutionnaire que nous proposons, faisons jouer souvent, pour épurer nos mœurs, les pièces de Molière » : il s'agissait en effet de proposer une « leçon politique, fondée sur l'intelligence historique du passé féodal [105]. »
 
@@ -182,7 +182,7 @@ The posthumous election of Molière to membership in the Académie française. I
 Molière n'était donc plus ce « démon vêtu de chair et habillé en homme » selon la formule du curé de Saint-Barthélemy, Pierre Roullé (*Le Roi glorieux au monde, ou Louis XIV le plus glorieux de tous les rois du monde*, 1664) [108] ; et s'il fut admiré comme le grand modèle en matière de comédie, ce fut avant tout pour *Le Misanthrope* et *Tartuffe*, « considérés comme marquant l'accomplissement du génie [109]. » Si Molière devint le maître incontestable dans la possibilité d'une action sur la collectivité, « il ne s'agit pas tellement, dans cette perspective, de rendre l'homme meilleur pour lui-même, ou en vue de son salut éternel », mais bien plus de « demander à ces comédies les leçons qui permettront à une société, dont on se satisfait pleinement, de se développer de façon harmonieuse, il s'agit de parfaire un art de vivre où la satisfaction de chacun postule celle de tous [110]. » À partir de la Révolution, Molière, et ses grands personnages tels qu'Alceste et Tartuffe, devinrent des « figures de choix dans toute polémique qui se développe autour d'un régime dont on entend dénoncer l'arbitraire ou l'immoralité [111]. » C'est d'ailleurs à ce moment-là que l'opposition entre Alceste et Philinte se chargea « d'un contenu politico-idéologique qui ne pouvait guère avoir été prévu par Molière [112]. »
 
 
-### Représenter Molière : quand l'auteur devient personnage
+### Représenter Molière : quand l'auteur devient personnage.
 
 Molière, « auteur de l'œuvre qui reste la plus appréciée du public de l'époque », était alors également un « personnage théâtral, et même un personnage tout court, pourvu d'un rôle dans la polémique révolutionnaire [113]. » Mechele Leon précise d'ailleurs que le dramaturge ne fut pas immortalisé, mais bien plus réanimé : « the revolutionary period reanimated Molière … in innovative and theatrical ways [114]. »
 
@@ -191,10 +191,10 @@ On dénombra, pour la période de la Révolution et de l'Empire, « une bonne q
 Molière devint même, en tant que personnage, le représentant de valeurs chères à la nouvelle Nation. Les révolutionnaires furent très attentifs à ce qui allait désormais être mis à l'honneur chez Molière : son rôle dépassa donc la salle de théâtre, et entra dans l' « identité nationale » (« national identity [119]  ») ; il fit désormais « partie des emblèmes nationaux, et sa vie privée releva du domaine public [120]. » On mit donc en lumière le sens de Molière pour la « justice sociale », et ses relations avec le « petit personnel qu'il emploie », le peuple étant, dans ses œuvres, « dépositaire des valeurs intellectuelles et morales [121]. » En outre, les pièces de cette période les plus appréciées (et bien sûr ayant Molière pour protagoniste) ne furent pas tant celles qui mirent en scène les dernières heures de sa vie (comme c'est le cas de *La Mort de Molière* de Michel de Cubières, 1788 puis 1802), mais celles qui, comme *Le Souper*, représentèrent « a drunken dinner party featuring Molière and friends : the stars of Old Regime *literati* [122]. » En somme, Molière devint un sujet « vendeur [123] ».
 
 
-# Composition dramaturgique de la pièce
+# Composition dramaturgique de la pièce.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 *SCÈNE I* : **Antoine**, le jardinier de Boileau ; **Laforest**, la servante de Molière.
 
@@ -255,10 +255,10 @@ Molière signe le contrat de mariage des jeunes gens, et y adjoint deux cents é
 Molière rappelle à ses amis leur engagement, profitant de l'ambiguïté de cette formule, qui peut en effet désigner le mariage d'Antoine et Madelon, mais aussi la noyade promise ; il insiste sur l'effective gloire qui les attend, puisque tout le village est rassemblé pour assister à ce spectacle. Les convives prennent peur, et le quiproquo est assez savoureux, puisque Molière parle bien sûr de la noce. Soulagés lorsqu'ils comprennent leur méprise, tous chantent en chœur le plaisir de vivre.
 
 
-## Saveur et efficacité
+## Saveur et efficacité.
 
 
-### Vivacité comique
+### Vivacité comique.
 
 Du point de vue de la dramaturgie, on peut tout d'abord noter le rythme des échanges entre les personnages, qui instaure une vivacité comique. La première scène entre Antoine et Laforest met en place cela, avec leur échange vif de répliques :
 
@@ -384,7 +384,7 @@ Les airs semblent ainsi illustrer avec plus de retentissement et d'impact sur le
 Ils marquent des avancées dans les échanges, et donnent une certaine importance à la ponctuation affective, pour étayer, illustrer, renforcer l'idée à l'instant énoncée par des répliques parlées, dans un effet de redondance destiné à faire sourire le public. Notons par exemple l'air « Alain était différent [136] », scène III, particulièrement éloquent au moment où Mignard et Lulli évoquent leurs erreurs de parcours, donc leurs « différences » justement, par rapport à la vocation qu'ils se sont fixée. De même, « Il est, il est, il est toujours le même [137] », scène IV, est efficace pour évoquer la ressemblance du portrait de Molière peint par Mignard ; ou encore, scène V, « On dit que le mariage [138] », lorsque Madelon et Lulli font référence à la future union des jeunes gens ; et enfin scène X, l'air de « La plus belle promenade [139] », pour illustrer le trajet improvisé de Lafontaine pour arriver à la maison de Molière. Toutes ces accointances entre les titres des airs et la situation des personnages et leurs paroles présupposent donc une connaissance de ces airs de la part du public.
 
 
-### Effet de naturel [140] et discrétion
+### Effet de naturel [140] et discrétion.
 
 Toujours du point de vue de la dramaturgie, notons que les conversations entre les personnages s'enchaînent de manière naturelle tout au long de la pièce : chaque sujet en amène un autre sans que le spectateur ait à se demander pourquoi. Scène III, les occupations des personnages : « *Laforest range dans le fond du théâtre ; Mignard prend ses pinceaux, et Lulli se met au clavecin* [141] » font porter la conversation sur la proximité, la complémentarité entre les arts : « les arts sont frères [142] » ; de là vient le thème de la vocation : « je crois que nous ne nous sommes pas trompés sur notre vocation [143] », et donc, comme contre-exemple, celui de l'erreur de parcours, de la « petite infidélité [144] » à cette voie. Cette même construction dramaturgique dans les échanges entre les personnages se retrouve à chaque scène. Nous pouvons encore relever, scène IV, l'enchaînement entre l'arrivée de Madelon et d'Antoine, souhaitant remercier Molière, puis l'annonce de Laforest : « Molière repose [145] », réponse parfaitement dans la logique de la situation, tout comme la décision qui la suit de ne pas le déranger, car « Un homme qui fait tant de bien quand il veille, doit être tranquille quand il dort [146] » ; enfin, cela amène les convives à expliquer en quoi il s'agit de quelqu'un de bien : c'est là qu'interviennent les anecdotes sur Mondorge et sur Racine, que nous étudierons plus avant dans notre partie suivante. Notons encore l'invitation de Molière à la cérémonie de mariage, scène V, qui conduit ce dernier à expliquer pourquoi cela lui est impossible, c'est-à-dire dans la mesure où il est excommunié, et qui fait suivre une discussion à ce sujet. Enfin, la scène XI, commencée sous le signe de la bonne humeur, du repas et des chansons grivoises, est marquée par la formule de Lafontaine : « Allons, allons : trêve à la folie... Parlons raison [147] », qui entraîne donc la fameuse réflexion désabusée sur l'existence : les convives constatent qu'ils sont heureux à ce moment-là, justement par contraste avec leur vie en société, et cette constatation les conduit à remettre en question les hommes dans leur ensemble, et enfin la vie même, d'où la décision du suicide collectif.
 
@@ -394,7 +394,7 @@ D'autre part, soulignons la particularité de la dramaturgie autour du personnag
 ## Comme chez Molière…
 
 
-### Mouvements et personnages
+### Mouvements et personnages.
 
 Les relations entre les personnages relèvent d'emblée du théâtre dit classique, dans la mesure où se met en place une série de couples maître-serviteur : Molière et Madelon, Boileau et Antoine, et également une dichotomie relative entre les personnages-convives, autrement dit les amis de Molière, et les personnages relevant davantage de la sphère populaire. Dès la scène d'exposition, l'on note plus précisément des choix dramaturgiques rappelant ceux de Molière. En effet, comme dans *Tartuffe* notamment (où le personnage éponyme arrive sur scène seulement à l'Acte III, 2) [158], le protagoniste est absent des premières scènes : Molière n'apparaît de fait qu'à la fin de la scène VI. Ce début, que l'on peut qualifier d'« *in medias res* », permet de définir les caractéristiques du personnage tant attendu, à commencer bien sûr par sa générosité, ce qui permet dans le même temps de mettre en place l'intrigue du futur mariage d'Antoine et Madelon, puisque c'est grâce à la bienveillance de Molière que ce dernier peut avoir lieu. D'ailleurs, la discussion ne se cantonne guère longtemps aux deux personnages en présence, et Laforest et Antoine se mettent rapidement à parler de leurs maîtres, avec une admiration acharnée (nous avons relevé plus haut la vivacité de leur échange dans cette première scène). Laforest est en outre particulièrement à l'image de Molière – en tout cas de celui des anecdotes à son sujet – lorsqu'elle s'exclame spontanément : « Comment donc ? Médecin ! Ah ! mon dieu [159]. »
 
@@ -408,7 +408,7 @@ Concernant l'intrigue du souper en lui-même, c'est-à-dire l'impact suicidaire 
 Mais que penser de ce terme de « raisonneur », et pour la pièce de Gassicourt, et pour les comédies de Molière lui-même ? Il est considéré comme « anachronique » par Georges Forestier et Claude Bourqui [177], et René Bray va également dans ce sens : « il n'y a pas de *raisonneurs* dans le théâtre de Molière. Chaque personnage est exigé par sa fonction dramatique, non par une prétendue fonction morale inventée par la critique [178]. » Ainsi, qu'il s'agisse des comédies de Molière ou du *Souper* de Gassicourt, si l'on retrouve dans le protagoniste certaines caractéristiques rappelant le rôle du « raisonneur », ce terme est dans les deux cas à considérer avec la distance nécessaire. En tout cas, Gassicourt a pu vouloir faire un petit clin d'œil dramaturgique à son auteur-personnage. Enfin, notons qu'il n'y a pas de « deus ex machina » au dénouement du *Souper* : c'est non seulement Molière lui-même « the rescuer [179] », mais en outre des deux intrigues : il permet le mariage entre Madelon et Antoine, et il évite le suicide collectif de ses amis. D'ailleurs, concernant l'intrigue du mariage, il n'y a pas en réalité d'élément perturbateur auquel Molière viendrait se substituer au cours de la pièce : tout est déjà planifié, arrangé, dès la première scène. Si les personnages dits raisonnables – plus que raisonneurs – des comédies « perdent leur temps lorsqu'ils cherchent à raisonner avec les protagonistes [180] », ici ce n'est pas le cas, et les convives éveillés le lendemain de ce souper arrosé sont bien heureux d'avoir écouté Molière. Tout ne s'arrange pas « *in extremis* [181] », mais de manière assez rapide et efficace, dans cette courte pièce, comme si Gassicourt avait voulu rendre un hommage humble au dramaturge, en mettant en scène une résolution jubilatoire de situations rappelant celles de ses comédies, dans un effet performatif permis par ses choix dramaturgiques.
 
 
-# Le sujet de la pièce : la question des sources
+# Le sujet de la pièce : la question des sources.
 
 Si nous essayons de distinguer le sujet et le thème de cette pièce de Cadet de Gassicourt, nous pouvons proposer comme sujet : Molière et ses proches, en particulier ses amis ; et plus précisément, le thème serait : comment l'épisode bien connu du souper trop arrosé d'Auteuil est-il revisité par Gassicourt, et comment sa transposition au théâtre est-elle particulièrement féconde… Dès lors, que penser de la mention : « fait historique », inscrite sous le titre ?
 
@@ -417,20 +417,20 @@ Georges Forestier et Claude Bourqui le rappellent : « on a prétendu déchiff
 Il s'agira donc dans cette partie d'émettre des conjectures de sources ; ces sources étant elles-mêmes des conjectures…
 
 
-## Les sources prétendument historiques
+## Les sources prétendument historiques.
 
 
-### Les anecdotes [186]
+### Les anecdotes [186].
 
 
-#### Introduction aux anecdotes
+#### Introduction aux anecdotes.
 
 *GRIMAREST, PRINCIPALE SOURCE DE GASSICOURT* : Jean-Léonor Le Gallois de Grimarest (1659-1713), polygraphe surtout connu pour sa *Vie de M. de Molière*, parue en 1705, « n'a pas connu Molière [187] ». Il dit s'être fondé sur les déclarations que lui aurait faites le comédien Baron, mais ce dernier ne fit partie de la troupe de Molière que pendant trois ans, et avait seulement vingt ans à sa mort. Si Grimarest prétendait faire « œuvre d'autorité publique [188] » en énonçant la vérité biographique du dramaturge, Boileau (qui quant à lui connut Molière), a pourfendu cette prétendue démarche, en affirmant que son ouvrage ne méritait même pas « qu'on en parle » : « il est fait par un homme qui ne savait rien de la vie de Molière, et il se trompe sur tout, ne sachant pas même les faits que tout le monde sait [189]. » Il y aurait donc des faits « connus de tous les contemporains », et que Boileau juge inutile de rappeler, conservant ainsi cachés les « secrets de sa vie [190]. » Cette première *Vie* aurait donc dû être rejetée comme un « témoignage fallacieux, une source illégitime [191] » ; mais elle a pourtant servi de référence principale (y compris lorsqu'il s'agit de la discréditer) à toutes les autres *Vies* de Molière. Celle de Voltaire (1739) en est un exemple : il s'agirait en fait d'une « réécriture du texte de Grimarest épuré de son caractère anecdotique [192]. » C'est donc sans doute principalement à partir du récit (du roman, pourrait-on dire) de Grimarest, que Gassicourt a mis en place son intrigue, avec des épisodes « fondateurs » de la légende moliéresque, « des *mythèmes* », selon la terminologie de Lévi-Strauss [193].
 
 *LES ANACHRONISMES* : Précisons d'emblée que Gassicourt ne prête pas une attention rigoureuse à la chronologie ; *Le Souper* fait en effet partie des pièces « exploitant une séquence biographique authentique de convention » (Grimarest, notamment), mais en y insérant des passages relevant de la « pure invention », ou en « extrapolant sur certains événements » plus ou moins avérés [194].
 
 
-#### Molière et Mondorge
+#### Molière et Mondorge.
 
 Molière aurait secouru un comédien – et ancienne connaissance – nommé Mondorge, alors que ce dernier se trouvait dans une grande détresse pécuniaire. Cet épisode apparaît chez Grimarest (*La Vie de M. de Molière* [195]), avant d'être repris par Voltaire dans sa *Vie de Molière* [196] ; on le retrouve également dans le *Moliérana* [197], autrement dit le recueil d'anecdotes prétendument arrivées à Molière, ainsi que, au XX*e* siècle, chez Georges Mongrédien (*La Vie privée de Molière* [198]).
 
@@ -451,7 +451,7 @@ Nous pouvons en tout cas confirmer l'existence de ce Jean Mignot, appelé Mondor
 On note la présence d'un épisode tout à fait similaire dans la pièce *La Mort de Molière*, de Michel de Cubières [200], Acte II, scène 2. Mondorge aurait en effet été « plongé dans la détresse », et Molière lui serait venu en aide financièrement, par l'intermédiaire de Baron, comme il en est fait mention ici. Seul le montant de la somme varie : Baron parle de « quinze pistoles » (que Molière donne « de sa part »), à laquelle le dramaturge ajoute « vingt-cinq » pistoles de la part de Baron. En outre, Isabelle, fille de Molière dans cette pièce de Cubières, donne également douze pistoles de sa part. Gassicourt nous montre donc ici son art de la synthèse : car la même anecdote est traitée sur plusieurs pages dans *La Mort de Molière*.
 
 
-#### Molière et Racine
+#### Molière et Racine.
 
 Molière étant présenté chez Grimarest et tous ceux qui l'ont suivi comme le « bienfaiteur de Racine [201] », Gassicourt reprend cette idée dans cette même quatrième scène (p.13-14), lorsque Laforest annonce aux autres personnages :
 
@@ -469,14 +469,14 @@ Les détails présents chez Grimarest, tels que la comparaison avec Rotrou, sont
 Molière engagea le jeune Racine, qui sortait du Port-Royal, à travailler pour le Théâtre dès l'âge de dix-neuf ans. Il lui fit composer la Tragédie de *Théagène et Chariclée* ; et quoique cette Pièce fût trop faible pour être jouée, il fit présent au jeune Auteur de cent louis, et lui donna le plan des *Frères ennemis* [203].
 
 
-#### Bilan permis par ces deux premières anecdotes
+#### Bilan permis par ces deux premières anecdotes.
 
 Cadet de Gassicourt lie donc deux anecdotes issues de ses sources, en les faisant se suivre, puisque Laforest parle du « lendemain [204] ». Grimarest et Voltaire restent eux-mêmes vagues quant à la datation de ces (prétendus) événements : si l'anecdote concernant Racine peut être datée (Voltaire évoque – toujours p.17 – l'année « 1661 » comme étant « environ dans le même temps », et Grimarest fait référence, dans les pages qui précèdent – p.52 et 53 –, à *L'Impromptu de Versailles*, « joué pour la première fois devant le Roi le 14*e* d'octobre 1663 », donc bel et bien avant 1664, année de la représentation de *La Thébaïde*), en revanche celle concernant Mondorge correspond seulement à « un jour [205]… » chez Voltaire, et Grimarest l'utilise surtout comme illustration non datée du « soin » que Molière appliquait à former Baron « dans les mœurs [206] ». Mais Baron étant né en octobre 1653, et accueilli dans la troupe de Molière seulement à dix-sept ans, les deux anecdotes ne peuvent donc pas être ainsi rapprochées ; Gassicourt prend bel et bien le parti de se détacher de la chronologie. On peut même émettre l'hypothèse que l'auteur ait construit ces répliques par association d'idées. En effet, chez Voltaire, on trouve sur la même page (p.17) les deux anecdotes : celle concernant Racine, et celle concernant Mondorge, le lien étant la figure de Molière en tant que bienfaiteur et protecteur de jeunes talents (Racine, puis Baron, ce dernier montrant sa bienveillance en venant en aide à Mondorge).
 
 En tout cas, étant donné que Mondorge s'adresse à Molière lorsqu'il se trouve à Auteuil, cela ne peut se faire qu'à partir du moment où Molière a commencé à y louer une maison, c'est-à-dire à partir de l'année 1666 environ [207]. Nous pourrions donc tenter de situer le contexte du *Souper* à la toute fin des années 1660, Molière ayant en outre déjà écrit *L'Avare* (représenté pour la première fois le 9 septembre 1668), comme il en est fait mention P. 5, et étant en train d'écrire *Le Bourgeois gentilhomme* (P. 21), et Mignard n'ayant pas achevé le portrait de Molière, pour lequel ce dernier écrira, en remerciement, *La Gloire du Val-de-Grâce*, long poème de trois cent soixante-six vers, imprimé en 1669. Néanmoins, comme tout cela reste bien sûr de l'ordre de la fiction, nous ne pouvons que conjecturer une période qui pourrait correspondre à l'intrigue du *Souper*, mais non lui attribuer une date précise (les anecdotes-sources elles-mêmes relevant pour beaucoup de la fiction).
 
 
-#### Molière malade, au régime lacté
+#### Molière malade, au régime lacté.
 
 Plusieurs répliques du *Souper* présentent un Molière faible, malade sur la longue durée, et observant un régime consistant à ne boire que du lait. Citons notamment : « Nous allons célébrer sa convalescence ? [208] » ; « puisque je suis un peu rétabli [209]  » ; « Et votre régime ! [210] » ; « Il ne faut rien faire qui nuise à ta santé [211] » ; « vous ne prendrez que du lait. [212] » ; ou encore « pour moi, vous le voyez, je suis au régime. (*Il prend du lait)* [213] ».
 
@@ -510,7 +510,7 @@ Rien ne dit qu'il s'agit de la même maladie et donc d'une rechute, et plus aucu
 En outre, une seule « interruption » dans le programme du Palais-Royal, mentionnée dans les Registres de la troupe, précise : « M. de Molière étant indisposé [224] », le 9 août 1672. La préface de la première édition des *Œuvres* de Molière, en 1682, évoque enfin une toux qui a « abrégé sa vie de plus de vingt ans », et insiste en effet sur la « bonne constitution » de Molière [225].
 
 
-#### Molière et son médecin
+#### Molière et son médecin.
 
 À la Scène VI du *Souper* (P. 19), à Laforest qui lui reproche de « marcher » sur les ordonnances de son médecin, Molière chante :
 
@@ -532,14 +532,14 @@ Voilà donc votre médecin ? Que vous fait-il ? Sire, répondit Molière, nous
 « Fleurant » correspond donc à un choix onomastique de Gassicourt, en clin d'œil au personnage – médecin, bien sûr – de ce nom du *Malade imaginaire* de Molière (1673, donc censé être postérieur à l'action du *Souper*), privilégiant la fiction (dans une mise en abyme avec l'œuvre moliéresque), plutôt que la prétendue véracité historique, Mauvilain étant cité comme le médecin de Molière et prénommé ainsi chez Grimarest comme chez Voltaire.
 
 
-#### Molière rejeté par sa famille
+#### Molière rejeté par sa famille.
 
 Tentons d'illustrer les répliques de Molière ouvrant son courrier et découvrant que sa famille l'exclut, au début de la scène VII : « *Les Poquelin, pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.* » ; le père de Molière y est dit « *mort sans enfant* [227]. » Un passage de Grimarest [228] contient cette même idée de rejet familial, lorsqu'on évoque « un Auteur grave », qui aurait fait « un conte au sujet du parti que Molière avait pris de jouer la Comédie » ; sa famille « alarmée de ce dangereux dessein », lui aurait envoyé un ecclésiastique « pour lui représenter qu'il perdait entièrement l'honneur de sa famille ; qu'il plongeait ses parents dans de douloureux déplaisirs ; et qu'enfin il risquait son salut d'embrasser une profession contre les bonnes mœurs, et condamnée par l'Église ». Mais l'auteur finit son anecdote par la conversion de l'ecclésiastique à la comédie, par Molière, et non l'inverse ! Grimarest nie la véracité de cet épisode, et lui préfère une autre version : « il est vrai que les parents de Molière essayèrent par toutes sortes de voies de le détourner de sa résolution ; mais ce fut inutilement ». Le *Moliérana* fait également référence à la déception causé par le choix professionnel de Molière dans sa famille, mais en donnant prétendument la parole au principal intéressé : « je me suis toujours reproché d'avoir donné ce déplaisir à ma famille » ; « si c'était à recommencer, je ne choisirais jamais cette profession [229]. »
 
 Mais il convient de préciser que ces dires font partie de la fiction que l'on a construite sur Molière dès le lendemain de sa mort : en effet, rien ne prouve que sa famille – et en particulier son père, souvent présenté comme un véritable obstacle à sa vocation de comédien, contrairement au grand-père, dont l'image d'Épinal nous dépeint un homme « qui avait de la passion pour la Comédie [230] » – ne se soit réellement opposée à sa carrière, c'est-à-dire davantage que n'importe quelle autre de cette époque, consciente de l'opprobre alors jeté sur les comédiens.
 
 
-#### Molière lit des passages à sa servante Laforest
+#### Molière lit des passages à sa servante Laforest.
 
 Scène VII de nouveau, Molière lit à Laforest un extrait du *Bourgeois gentilhomme* :
 
@@ -549,17 +549,17 @@ Je crois que j'aurai le temps avant le souper de te lire une scène de mon *Bour
 Il s'agirait donc de quelque chose d'habituel, car Laforest lui répond : « Le moyen ! vous me faites toujours rire [232] ». Nombre de sources rejoignent cette anecdote. Grimarest dit en effet de Molière : « lorsqu'il voulait que quelque scène prît le Peuple des Spectateurs, comme les autres, il la lisait à sa servante pour voir si elle en serait touchée [233] » ; or, la servante dont parle l'auteur n'est autre que celle appelée Laforest (cf. ci-après à propos de ce personnage). Boileau y fait également allusion dans ses « Réflexions critiques sur quelques passages de Longin » (« Réflexion première ») : « on dit que Malherbe consultait sur ses vers jusqu'à l'oreille de sa servante ; et je me souviens que MOLIÈRE m'a montré aussi plusieurs fois une vieille servante qu'il avait chez lui, à qui il lisait, disait-il, quelquefois ses Comédies, et il m'assurait que lorsque des endroits de plaisanterie ne l'avaient point frappée, il les corrigeait : parce qu'il avait plusieurs fois éprouvé sur son théâtre que ces endroits n'y réussissaient point [234]. » Autant d'ouvrages qui ont pu servir de sources à Gassicourt. Le *Moliérana* fait ensuite aussi mention de cette anecdote : « Molière lisait ses comédies à une vieille servante nommée Laforest ; et lorsque les endroits plaisants ne l'avaient point frappée, il les corrigeait, parce qu'il avait éprouvé plusieurs fois que ces endroits ne réussissaient point [235] » ; enfin, le *Bulletin d'histoire de la révolution française* [236] évoque cette servante Laforest comme « juge suprême en matière de qualité théâtrale [237] ».
 
 
-### Les personnages
+### Les personnages.
 
 
-#### Les amis de Molière : remarques générales
+#### Les amis de Molière : remarques générales.
 
 Beaucoup d'ouvrages s'accordent à dire que les amis de Molière étaient proches du milieu libertin de l'époque. Maurice Descotes [238] souligne en effet que les amis « sûrs » de Molière peuvent « tomber sous le coup » de cette attaque : La Fontaine, à propos de la préface de la première partie de ses *Contes*, en 1665, doit « plaider que son livre n'est pas “licencieux” » ; Chapelle est associé à une certaine « propension à l'ivrognerie et à la débauche » ; François Bernier prêche que l' « abstinence des plaisirs est un péché », Mignard a des « relations avec les francs libertins du type Manicamp », La Mothe Le Vayer est un « abbé familier des ruelles autant que des coulisses de théâtre », et Ninon de l'Enclos, à la « vie naguère scandaleuse », « organise chez elle des lectures de *Tartuffe*. » La liste que l'on pourrait donc dresser des amis de Molière composerait « un milieu assurément indépendant d'esprit, porté à s'affranchir du dogme et, plus généralement, de l'enseignement dispensé par l'Église et l'Université, tenté par le matérialisme et l'épicurisme [239]. » L'on retrouve bien ces thématiques au fil de la pièce [240]. Néanmoins, Ramon Fernandez apporte une nuance quant au terme d' « amis » que nous avons d'emblée tendance à employer : selon lui, Molière n'aurait jamais eu « d'amitié suivie et quotidienne avec des personnes de son propre sexe », il s'agirait seulement « à des degrés divers des camarades de lettres [241] ».
 
 Enfin, comme toujours lorsqu'il s'agit de la vie de Molière, il convient de conserver une certaine distance critique avec les informations que l'on peut rencontrer, la « perspective » ainsi tracée n'étant en effet « pas sans artifice [242] ». On rapproche dès lors des événements « que les années ont séparés », risquant ainsi de « donner à certains de ces faits une importance qu'ils n'ont pas eue [243]. » En outre, cette liste d'amis serait « incomplète » : Molière « n'était-il pas lié à des personnages plus orthodoxes ? » ; René Bray rappelle en effet qu'« il fut invité à lire *Tartuffe* aussi bien chez une dame janséniste … que chez Ninon [244]. »
 
 
-#### Molière [245]
+#### Molière [245].
 
 
 Le portrait peint par Pierre Mignard
@@ -571,7 +571,7 @@ Il s'agit là de la description de Georges Mongrédien [246], interprétant le p
 Nous serions en tout cas dans ce que Jules Loiseleur appellerait la dernière partie de la « trilogie » constituée par la « vie de Molière », « comme celle de la plupart des hommes du reste » : nous ne sommes ni dans l'étude, ni dans la période de lutte, mais davantage dans « le succès [247] ». Cette troisième partie présente bien souvent Molière malade, phtisique, et nous avons vu que cela se retrouvait dans le *Souper*. Il s'agit aussi du « Molière philanthrope [248] », et, nous le verrons, philosophe. Mais l'opposition habituelle des biographes entre un Molière comique sur scène, et mélancolique et misanthrope à la vie, « entre le mode de vie conforme au tempérament de Molière et l'existence qu'il mène [249] » n'est pas totalement reconduite ici [250].
 
 
-#### Baron (1653-1729), « Le Roscius de notre siècle [251] »
+#### Baron (1653-1729), « Le Roscius de notre siècle [251] ».
 
 Michel Baron (de son vrai nom Boiron), fils des comédiens André Boiron et Jeanne Auzoult, « orphelin à l'âge de huit ans [252] », entra dans la troupe « des petits comédiens du Dauphins en 1665 [253] ». Il semble avoir beaucoup romancé les informations qu'il a transmises à Grimarest. Si l'on en croit celui-ci, il aurait ensuite joué chez Molière en 1666 (*Mélicerte*), puis quitté la troupe du Palais-Royal pour la province « à la suite d'un soufflet qui lui aurait été donné par Mlle Molière [254] », et y serait véritablement entré « en 1667 ». Mais le *Registre* de La Grange, qui dressait chaque année l'état de la troupe, montre quant à lui que Baron est entré chez Molière à Pâques 1670. Puis, après la mort de Molière, Baron intégra la Troupe de l'Hôtel de Bourgogne, qui s'était « jointe par ordre du Roi à celle de Guénégaud », et y resta « jusqu'en Octobre 1691 [255] ». Après vingt-neuf ans d'absence, il reparut sur scène « le mercredi 10 avril 1720 » pour y jouer le rôle de Cinna « dans la Tragédie de ce nom [256]  » ; il mourut le 22 décembre 1729. Outre ses talents d'acteur, Michel Baron était aussi poète dramatique : il a notamment signé *Le Rendez-vous des Tuileries, La Coquette ou la fausse prude, Le Jaloux, La Répétition*….
 
@@ -585,17 +585,17 @@ La première apparition d'une certaine Laforest se trouve à notre connaissance 
 Anecdotes et biographies ayant ainsi rendu célèbre Laforêt, Gassicourt l'a logiquement intégrée à sa pièce ; elle correspond en outre à la description qu'on en fit, et, notamment, nous l'avons vu, quant à son rôle de spectatrice privilégiée de Molière.
 
 
-#### Mignard (Pierre ; 1610-1695)
+#### Mignard (Pierre ; 1610-1695).
 
 Mignard fut effectivement l'ami de Molière : ils se rencontrèrent vers 1656, « à Avignon », au moment où Pierre « revient d'Italie [265] » et fait halte chez son frère Nicolas, peintre et portraitiste de Molière lui aussi. Il y avait en effet vécu une vingtaine d'années, et, à partir de son retour en France, « chacun voulut avoir son portrait de sa main, et il y a peu de personnes de marque qu'il n'ait peintes [266] ». Molière et lui nouèrent dès lors une amitié « durable », et le dramaturge célébra en 1669 la fresque du dôme du Val-de-Grâce peinte par son ami, dans son poème « La Gloire du Val-de-Grâce ».
 
 
-#### Chapelle (Claude-Emmanuel Lhuillier ; 1626-1686)
+#### Chapelle (Claude-Emmanuel Lhuillier ; 1626-1686).
 
 « Boute-en-train de la bande », Chapelle est décrit comme celui qui égayait Molière « de sa bonne humeur [267] ». Malgré le goût de son ami « pour l'ivrognerie », qui, selon Mongrédien, « choquait fort Molière », on retrouve souvent l'idée que « leur amitié dura autant que leur vie [268] ». Roger Duchêne dit notamment que « les deux hommes ont conservé jusqu'au bout l'amitié qu'ils avaient nouée dans leur jeunesse [269] », et qualifie même Chapelle d'« ami pour la vie [270] » ; il était donc indispensable dans une pièce mettant en scène les amis de Molière.
 
 
-#### La Fontaine (1621-1695)
+#### La Fontaine (1621-1695).
 
 On l'a noté, La Fontaine fait partie de ces noms que l'on associe la plupart du temps aux amitiés de Molière [271]. Pour écrire le passage où Boileau ironise sur l'inspiration poétique de La Fontaine, encore concentré et pensif au moment d'arriver parmi les convives : « un renard, une fourmi l'occupe », dit « *malignement* » Boileau [272], il est possible que Gassicourt soit parti d'une anecdote rapportée dans l'*Éloge de La Fontaine* d'André Naigeon, évoquant un souper entre Molière, La Fontaine, Boileau, Racine, et « quelques amis communs [273] » :
 
@@ -605,7 +605,7 @@ La Fontaine était ce jour plus distrait encore qu'à l'ordinaire. Racine et Boi
 Anecdote que le *Moliérana* reprendra également [275], y compris ce terme quelque peu inattendu de « bonhomme » de la part de Molière, et qui nous conduit à croire que Gassicourt s'est clairement inspiré de cet épisode, puisque Molière réplique : « le bonhomme ira plus loin que nous [276]. »
 
 
-#### Boileau (-Despréaux ; 1636-1711)
+#### Boileau (-Despréaux ; 1636-1711).
 
 Lorsque Molière s'inquiète, à l'arrivée de son ami Boileau, à la fin de la scène VII : « (*Il jette son manuscrit dans un tiroir*). Vite, vite, mettons mon plan à l'ombre ; ce n'est qu'une esquisse [277] », cela correspond sans doute à un clin d'œil, de la part de Gassicourt, au surnom attribué à Boileau de « Législateur du Parnasse », ainsi qu'à ses fameux vers :
 
@@ -632,7 +632,7 @@ En effet, l'*Épître XI* de Boileau, « À mon jardinier », s'adresse bel et
 Gassicourt a donc suivi la véracité historique – du moins celle transmise par ses lectures – en donnant à ce personnage du jardinier le nom d'Antoine, et en faisant clairement référence à cette *Épître* de Boileau.
 
 
-#### Lulli ou Lully [289] (1632-1687)
+#### Lulli ou Lully [289] (1632-1687).
 
 Concernant le « surintendant de la musique du roi Louis XIV [290] », notons tout d'abord une certaine correspondance entre les dates attestées, et la période que l'on attribue du *Souper*, puisque Lully devient « très tôt et pour longtemps le collaborateur principal de Molière » : ils commencèrent à travailler ensemble en 1664 [291]. Leur collaboration donna notamment lieu à : *Le Mariage forcé* (1664), *L'Amour médecin* (1665), *La Pastorale comique* (1667), *George Dandin* (1668), *Monsieur de Pourceaugnac* (1669), *Les Amants magnifiques* (1670), et *Le Bourgeois gentilhomme* (1670) ; Lully semble donc avoir toute sa place dans la pièce de Gassicourt, parmi les proches du dramaturge, la fameuse brouille entre les deux artistes n'ayant pas encore eu lieu. En effet, « ce fut à la suite de *Psyché* que les premiers signes de la brouille avec Lully se manifestèrent [292] », et elle se confirma surtout avec le privilège obtenu par ce dernier pour « ouvrir une Académie royale de musique [293] », en mars 1672, entraînant, en avril, une ordonnance royale qui « défendait aux comédiens d'employer dans leurs représentations plus de deux voix et six violons [294]. » L'on peut d'ailleurs relever à ce sujet quelques répliques laissant entendre une légère tension entre les deux hommes au fil de la pièce, et par exemple les réactions de Molière face aux plaisanteries de Lulli, qui semblent lui apparaître comme intempestives : « Ah !... Lulli ! trêve pour les pointes… jusqu'au dessert [295]. », « Et nous ne sommes pas au dessert ? [296] ». Cependant, nous retrouvons également la complicité que certains ouvrages soulignent entre les deux, notamment manifestée par la formule « Lully, fais-nous rire » que Molière aurait souvent dite à son ami – et qui apparaît scène XI (P. 32) – :
 
@@ -658,19 +658,19 @@ Son confesseur qui le vit en danger, lui dit qu'à moins de jeter au feu ce qu'i
 Cet épisode relève donc encore une fois de l'anachronisme dans la pièce de Gassicourt, puisqu'il correspond à la toute fin de vie de Lully, c'est-à-dire l'année 1687, où il écrivit sa dernière œuvre, l'opéra *Achille et Polyxène*, dont il est question ici [300].
 
 
-### Le lieu, ou l'anecdote principale de la pièce
+### Le lieu, ou l'anecdote principale de la pièce.
 
 Nous avons retrouvé dans un nombre certain d'ouvrages cette fameuse anecdote du souper très (trop ?) arrosé de Molière avec ses amis dans sa maison d'Auteuil. Plus précisément, chaque fois que nous avons cherché des renseignements sur Auteuil, cet épisode était évoqué, comme s'il faisait partie intégrante de l'histoire de ce lieu ; c'est pourquoi nous les traitons ensemble.
 
 
-#### Un peu d'histoire
+#### Un peu d'histoire.
 
 Le village d'Auteuil, « bâti dans une belle situation, sur une colline qui borde la rive droite de la Seine [301] », correspond aujourd'hui, et ce depuis 1860, à un quartier du 16*e* arrondissement de Paris. Il est donc cohérent que Lafontaine arrive par le Bois de Boulogne [302], comme c'est indiqué à la fin de la scène VI ; Auteuil en est en effet proche, de même que « de Saint-Cloud et de Versailles [303]. »
 
 Cette situation participa de son succès. Le village attira, que ce soit à l'époque de Molière ou à celle de Gassicourt, un grand nombre d'artistes : « Boileau, Molière, Chapelle, Franklin, Condorcet, Helvétius, Houdon, Cabanis, Rumfort y avaient leurs maisons [304]. » Proche de Paris, mais permettant de respirer davantage qu'au sein de l'odeur pestilentielle de la capitale au XVII*e* siècle, Auteuil était alors un véritable lieu de villégiature. En tout cas, si Boileau et Molière résidèrent tous deux à Auteuil, précisons qu'il y a anachronisme dans *Le Souper*, dans la mesure où Gassicourt fait concorder ces deux événements. Laforest évoque en effet Boileau en tant que « voisin » de Molière : « M. Despréaux, notre voisin [305] », mais il n'acheta une maison à Auteuil que « douze ans après la mort de Molière [306] ».
 
 
-#### Molière et Auteuil
+#### Molière et Auteuil.
 
 
 Molière avait une maison de campagne située … probablement à l'emplacement du N°2 de la rue d'Auteuil. De 1667 à 1672, il venait y habiter lors des beaux jours, en utilisant la galiote allant du Louvre à Saint-Cloud [307].
@@ -685,12 +685,12 @@ Un jour que ce dernier y était allé avec MM. De Nantouillet, Jonsac, Despréau
 Chez Georges Mongrédien, l'anecdote est en tous points identique, mais les paroles des convives, et notamment de Chapelle, sont nettement développées [313]. Cela nous conduit une fois de plus à envisager ce fait comme un épisode partant probablement d'un petit fait vrai au départ, mais très enrichi par la suite d'éléments inventés et romancés, participant de la construction d'un Molière à la fois plus convivial que ne le laissent penser les ouvrages soulignant son côté atrabilaire, mais aussi tout de même particulièrement calme, et quelque peu retiré de la folie alcoolisée de ses camarades. En outre, on peut noter une différence dans l'évolution de la soirée entre ce que l'on trouve dans ces ouvrages, et *Le Souper* : dans la pièce de Gassicourt, Molière reste en effet toute la soirée avec ses convives, et n'est pas, comme on a pu le lire, averti par Baron [314]. Et enfin, Jonzac et Nantouillet, que l'on trouve dans ces récits, sont absents de la pièce : Gassicourt choisit ainsi de n'y intégrer que les personnages les plus célèbres, et facilement reconnaissables, donc sans doute plus théâtraux : Chapelle était sans aucun doute indispensable.
 
 
-## Les sources littéraires
+## Les sources littéraires.
 
 Les sources dites historiques représentent semble-t-il la quasi totalité des références mobilisées par Gassicourt pour former son intrigue. Nous pouvons néanmoins tenter de souligner quelques éléments de sources relevant davantage du domaine littéraire : ils sont bien sûr en lien avec l'œuvre de Molière.
 
 
-### L'importance du repas
+### L'importance du repas.
 
 Ce souper n'est-il qu'un petit épisode annexe et très retravaillé par la postérité, ou peut-on du moins le rapprocher de l'œuvre de Molière ? Le XVII*e* siècle est en effet « celui du champagne et de ces deux grands contemporains que sont Louis XIV et Dom Perrignon [315] », au cours duquel est écrit le « premier livre de cuisine moderne, *le Cuisinier françoys* en 1651 [316] », et l'on retrouve bien souvent dans les œuvres de Molière cette caractéristique du siècle :
 
@@ -707,10 +707,10 @@ De *Dom Juan* (1665), l'on retrouve notamment le parler populaire de Charlotte e
 Pour conclure sur la question des sources, on s'accorde à dire qu'il est impossible de parler de Molière « sans mêler discours historique et construction légendaire, car l'histoire et le mythe se confondent au point d'être parfois impossibles à dissocier [324]. »
 
 
-# Les thèmes
+# Les thèmes.
 
 
-## Philosophie
+## Philosophie.
 
 L'amitié occupe une place prépondérante dans *Le Souper*, thématique d'emblée évoquée par le titre ainsi que la liste des personnages-convives. Le mot apparaît d'ailleurs sept fois, et « ami(s) » quarante-quatre. Mais soulignons qu'elle est considérée dans un prisme tout philosophique. En effet, lorsque Molière entre sur scène, il précise ce qu'il entend par amitié : s'il est touché de voir tous ces personnages autour de son portrait, qui « *le couronnent et attachent des guirlandes* [325] », néanmoins il regrette l'excès de cette célébration, placée sous le signe de l'adoration, de l'adulation, et même de l'idolâtrie : « votre attachement vous égare. Est-ce ainsi qu'on doit idolâtrer les hommes ? Quelle erreur ! [326] ». Molière se place ainsi en figure d'autorité, avec des termes appartenant à la sphère morale (« égare », « erreur »), et un certain paternalisme : « Mes amis ! mes enfants ! [327] ». Mais il effectue également, dans une perspective philosophique, donc, une distinction, mise en lumière par la conjonction adversative « mais [328]  » : entre ce qu'il considère certes comme une erreur, et que son devoir le conduit à dénoncer – l'idolâtrie –, et ce qui lui va droit au cœur malgré tout, c'est-à-dire le geste en lui-même de ses amis : leur « erreur », lui est finalement « douce », ajoute-t-il avec « *satisfaction* [329] ». C'est dans cette capacité à mesurer le pour et le contre, et à distinguer entre l'excès condamnable et la preuve d'amitié émouvante, qu'est ici soulignée toute la sagesse du personnage de Molière. Il conclut d'ailleurs une fois encore sa réflexion par une distinction : « J'ai reçu les faveurs de la fortune, quelquefois celles de la gloire... elles ne valent pas celles de l'amitié [330]. » Cette dernière surpasse donc toutes les sortes de faveurs. Et elle surpasse également toutes les contraintes imposées au dramaturge : scène VI, Molière promet à Laforest de suivre son régime lacté, « mais [331] » (là encore la conjonction adversative permet de mettre en place un balancement rhétorique en faveur de ce qui la suit) : « j'ai besoin de voir mes amis » lui répond-il, « et de rire avec eux des ridicules que ma plume, déjà trop hardie, n'ose pas encore mettre sur la scène [332]. » En outre, Molière se met alors à chanter sur l'air « Tout roule aujourd'hui dans le monde », particulièrement opportun pour un personnage voulant prouver la douceur d'être avec ses amis, et y insiste : « … ce que je ne puis écrire, / Je le pense avec mes amis [333]. » L'amitié serait donc une sorte d'exutoire, de parenthèse de liberté, pour un Molière sous la pression de son siècle fardé et policé. Enfin, la scène XIII vient confirmer cette importance de l'amitié, érigée en relation privilégiée dans la pièce, puisqu'elle apparaît comme le meilleur des remerciements : « Eh ! mes amis, point de remerciements ; vous me faites un plus grand cadeau, vous autres ! vous me donnez votre amitié... [334] ». Gassicourt confère donc à Molière la figure du sage, et, dans sa manière de reconduire ses amis dans le droit chemin par le dialogue, il peut faire penser à Socrate, ce qui est d'ailleurs renforcé lorsque Lafontaine fait part de la fable qu'il a composée en pensant à ce souper à venir. En effet, scène IX, Lafontaine récite « Parole de Socrate » : on y retrouve la valorisation de la véritable amitié (« vrais amis [335] »), autrement dit celle qui comprend un petit nombre, entrant dans une maison sans prétention, jugée trop étroite par certains (« On y tournait à peine [336] »), mais estimée largement suffisante par Socrate, pourvu que seuls les « vrais » la remplissent. En outre, avec la référence à ce philosophe, en tant que personnage qui ne serait pas apprécié à sa juste valeur, sur lequel on s'arrêterait à la simple apparence, autrement dit au premier degré de son œuvre, nous retrouvons encore ce qu'ont déploré les personnages au cours de la scène IV [337], à propos de Molière. Ainsi la thématique de l'amitié nous invite-t-elle à considérer la proximité de la figure de Molière dessinée par Gassicourt, et la rigueur philosophique de ses réflexions, avec l'attitude de Socrate. D'ailleurs, toute la pièce est parcourue par une certaine accointance avec cette rigueur. Le thème de la *disputatio* est évoqué dès le début par Laforest : « nous disputions nous deux [338] », qui conclut à la fin de la scène II : « Eh bien ! nous voilà d'accord [339]. » Puis, on relève des raisonnements cause-conséquence, comme à la scène IV : « Un homme qui fait tant de bien quand il veille, doit être tranquille quand il dort [340] », un vocabulaire juridique qui conduit à expliquer, argumenter : « Chapelle, on t'accuse. », « Mignard a raison, je dois me justifier [341] », ou encore des lieux de la définition, comme, scène V, par Lulli :
 
@@ -741,7 +741,7 @@ Ses principes dépassent les aléas matériels et professionnels [345] et tout c
 Au travers des distinctions opérées par Molière au cours de la pièce, on a pu envisager un certain risque d'ambivalence, voire de « dualité », dans cette figure du philosophe « à la fois comme un homme sage qui mène une vie tranquille et retirée, hors de l'embarras des affaires et comme un homme, qui par libertinage d'esprit se met au-dessus des devoirs, et des obligations ordinaires de la vie civile [355]. » Gassicourt reprend ici cette prétendue dualité, mais fait de Molière un être équilibré, sachant faire la part des choses entre la vie hors la société, que permet Auteuil, et les excès que l'on pourrait reprocher au libertinage. En effet, si Molière est alors en dehors de la société parisienne, il n'est pas pour autant celui qui la rejette : ce sont les convives, d'ailleurs étourdis par les effluves de vins. Cela l'érige ainsi en philosophe dans le bon sens du terme : il ne s'agit pas tant ici d'un Molière triste et atrabilaire, qu'épicurien, au sens mélioratif. Le mot de « philosophie » est d'ailleurs réhabilité par ce personnage, lorsqu'il tente de convaincre ses amis de ne pas se noyer : « la calomnie, avide de tout dénigrer, répandra le bruit que l'ivresse nous a plus inspirés que la philosophie [356]. »
 
 
-## Religion
+## Religion.
 
 Concernant le domaine religieux – très lié au philosophique certes, mais dont nous tentons de souligner les particularités –, on constate que la vocation est tournée en dérision à la scène III [357], lorsque Mignard dénonce avec malice l'excursus de Lulli dans son parcours professionnel. En effet, le réseau lexical lié au religieux est à chaque fois placé sous le signe de la distance railleuse par Mignard, que ce soit par le recours à l'hyperbole : « Lulli, pénétré, soupira », « frayeur extrême », ou par le détournement de ce vocabulaire : « il a sacrifié, par dévotion, son nouvel ouvrage », « un adroit et saint confesseur », avec la connotation blasphématoire de l'évocation simplifiée de « l'autre vie », et du soulagement de Mignard lorsque Lulli avoue qu'il a en fait conservé une copie de son opéra brûlé : « Bravo ! Lulli ; je te pardonne, mon ami, je te pardonne [358] ». Les amis de Molière étant *a priori* à son image, on peut donc penser que cette dérision que Gassicourt place chez Mignard et Lulli n'est pas étrangère à Molière. D'ailleurs, la scène V tend à confirmer cette première idée, dans la mesure où tout ce passage concerne l'excommunication du dramaturge, considérée comme injuste par tous [359] : Antoine indigné : « Excommunié ! », Mignard investi : « le pape défend l'entrée de l'église aux rats, aux sorciers, aux sauterelles, au diable et aux comédiens... à lui surtout. », Madelon stupéfaite : « Quel mal avez-vous donc fait ? », et Lulli révolté : « Quel mal ! quel mal ! il a dit... la vérité ». En outre, la réaction de Molière à la pensée de Laforest : les prêtres agiraient ainsi « par jalousie de métier [360] », réaction certes discrète puisque en aparté, mais en même temps efficace justement parce qu'il s'agit d'un aparté : « Ce mot là n'est pas perdu [361] », participe de cette indignation collective. Le domaine religieux est donc placé sous le signe ou de la dérision ou de l'injustice, rappelant également la formule du curé de Saint-Barthélemy Pierre Roullé à propos de Molière : « Démon vêtu de chair et habillé en homme [362] ». Et, la situation de discrédit de l'Église vis-à-vis des comédiens n'ayant pas sensiblement évolué entre le XVII*e* et le XVIII*e* siècle, on peut ainsi envisager là encore un phénomène de double historicité, compris par le public contemporain de Gassicourt [363].
 
@@ -753,7 +753,7 @@ Que Molière fût en même temps bon chrétien, cela est très vraisemblable et 
 Finalement, Molière, s'il est érigé en saint, c'est en saint détaché du domaine religieux de son temps, caractérisé par l'injustice et la corruption, et s'il est un dieu, c'est bien le « Dieu du Ris », selon l'expression du gazetier Robinet [367].
 
 
-## Les résonances d'un contexte bien particulier
+## Les résonances d'un contexte bien particulier.
 
 Reprenons une remarque que nous avons faite quant à la dramaturgie : nous avons souligné un double mouvement qui traversait la pièce, à savoir à la fois un mouvement de répartition, et un autre de rassemblement. Or, cette idée peut être particulièrement intéressante, si on l'applique au domaine politique, sous-jacent dans *Le Souper*. En effet, Gassicourt l'écrit en pleine Révolution française ; on pourrait donc s'attendre à rencontrer une résonance politique dense dans les relations entre les personnages, dans leurs rapports de force… Cette étude nous conduit à souligner, dans un premier temps, la mise en place prépondérante d'une répartition, voire d'une séparation touchant les différents personnages. De fait, plusieurs didascalies mettent en lumière un tableau de la scène présentant ces personnages attelés chacun à leurs fonctions, dans « leur élément », sans grande surprise : « *Laforest range dans le fond du théâtre ; Mignard prend ses pinceaux, et Lulli se met au clavecin* [368] * »* ; « *Mignard travaille, et Laforest, appuyée sur un balai, l'examine* [369] ». De même, les personnages sont regroupés – et donc séparés – selon une hiérarchie toute traditionnelle, et notons bien que le mariage de Madelon et Antoine reconduit cela, ne bousculant pas les différences sociales. Quant aux relations hommes-femmes, elles n'ont guère évolué notoirement dans le bon sens à la Révolution, et de fait le proverbe « la poule ne doit pas chanter plus haut que le coq [370] », pour dire que la femme ne doit pas chercher à avoir un impact plus important que son mari par sa prise de parole, rappelé par Laforest dès la première scène, peut concerner – au moins – le XVII*e* comme le XVIII*e* siècle. En outre, cette répartition-séparation est le point de départ du projet de noyade : c'est bien parce que les convives estiment qu'ils ne sont pas reconnus à leur juste valeur dans la société, et considèrent qu'il n'y a qu'entre eux que ce peut être véritablement le cas, que l'issue du suicide collectif s'impose. On constate ainsi une séparation entre société et autarcie, entre gens « normaux » et artistes : « Avouons-le ; ce n'est qu'entre nous, ce n'est qu'ici, que nous sommes à notre place et que nous pouvons jouir d'une liberté que n'empoisonne point l'envie ou la sottise des hommes [371]. » L'harmonie dans les relations serait donc fonction d'un entre soi, d'une réunion secrète, soulignée par le déictique « ici », et permise par une exclusion, une ségrégation première. Et, même entre eux, les convives se répartissent, comme le montre la solution de Lulli à la querelle entre Laforest et Antoine : Boileau est le meilleur « dans le genre satirique », et Molière le meilleur « sur la scène comique [372] ».
 
@@ -791,10 +791,10 @@ Disposition tendre et délicate de l'âme, qui la rend facile à être émue, à
 Cette attitude très positive, donc, est bien sûr attribuée à Molière, qui contemple « *avec sensibilité* [381] » la scène où ses amis couronnent son portrait. D'autre part, notons la formule de Molière, à la fin de la scène VI : « Que ne suis-je au temps où les hommes / Parleront avec liberté ! [382] » ; ou encore, lorsque Chapelle annonce qu'il a repoussé une invitation à une soirée marquée par « la grandeur », « l'opulence », et « la magnificence [383] », pour se rendre au souper chez Molière, la mention de « souper de l'égalité », et de « charmes de la liberté [384] ». Ces derniers mots rappellent l'article premier de la *Déclaration des Droits de l'Homme et du Citoyen* de 1789 : « Les hommes naissent et demeurent libres et égaux en droits. » Puis, Chapelle évoque la liberté d'expression : « Lorsque la réunion des Auteurs s'intitule la *République des Lettres*, c'est pour que tous soient libres d'écrire ce qu'ils pensent [385] », rappelant cette fois l'article 11 de la *Déclaration* : « La libre communication des pensées et des opinions est un des droits les plus précieux de l'homme ». En outre, la distinction entre les « hommes grands » et les « grands hommes », proposée par Boileau à propos du dîner refusé par Chapelle, paraît elle aussi d'actualité : « Combien peu de ces hommes si grands, seront un jour de grands hommes ! [386] ». Si cette distinction renvoie à la prééminence du mérite sur la naissance certes déjà présente chez Molière [387], cela est d'autant plus éloquent que l'on est en 1795 au moment où la pièce est jouée. La double historicité prend donc une résonance particulièrement efficace du point de vue du contexte, notamment politique, dans *Le Souper de Molière*.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 
-## Les éditions
+## Les éditions.
 
 Il n'existe qu'une édition de cette pièce de Cadet de Gassicourt, d'après laquelle nous avons établi la nôtre : celle de 1795. Elle fut créée le 4 Pluviôse an III, autrement dit le 23 janvier 1795.
 
@@ -821,7 +821,7 @@ BNF, Arsenal-RESERVE, 8-NF-7025
 2) Nous avons tenté tant que possible de suivre la mise en page du texte original.
 
 
-## Description matérielle de l'exemplaire
+## Description matérielle de l'exemplaire.
 
 Il s'agit d'un ouvrage in-octavo.
 
@@ -830,7 +830,7 @@ Deux pages non numérotées correspondent à la page de titre et à la liste des
 Nous n'avons pas constaté d'erreurs de pagination. Nous pouvons toutefois noter que la page 51 n'était pas numérotée sur l'édition originale.
 
 
-## Description du contenu du volume
+## Description du contenu du volume.
 
 Le volume se présente comme suit :
 
@@ -847,7 +847,7 @@ Description de la page de titre :
 LE SOUPER DE MOLIERE, / *OU* / LA SOIRÉE D'AUTEUIL, / FAIT HISTORIQUE EN UN ACTE, / MÊLÉ DE VAUDEVILLES, / Par le C. CADET-GASSICOURT, / *Représenté, pour la première fois, à Paris* , / *sur le Théâtre du Vaudeville, le 4 Pluviose*, / *an troisième de la République.* / filet / Prix : Cinquante sols, avec la musique. / filet / *A PARIS*, / Chez les Libraires / accolade / Au Théâtre du Vaudeville. / Au Théâtre Martin, ci-devant Molière. / Et à l'Imprimerie rue des Droits de / l'Homme, N°.44. / filet / *Floréal, an Troisième.* / BIBLIOTHÈQUE / Amédée MARANDET
 
 
-## Établissement du texte
+## Établissement du texte.
 
 En règle générale nous avons conservé l'orthographe de l'édition originale, et n'avons pas ajouté d'accent aux majuscules qui n'en comportaient pas. Nous avons par ailleurs conservé les tirets aux pages 9, 13, 16 et 21, dans la mesure où ils sont présents dans tous les exemplaires que nous avons consultés, et où ils semblent bien correspondre à l'introduction d'une anecdote par le personnage.
 
@@ -909,7 +909,7 @@ P. 46 : « Lully » : « Lulli » pour davantage d'homogénéité.
 Nous n'avons pas restitué les deux dernières pages, correspondant aux « Livres nouveaux » choisis par l'éditeur, et variant selon les exemplaires que nous avons consultés, contrairement au texte.
 
 
-# LE SOUPER DE MOLIERE, OU LA SOIRÉE D'AUTEUIL, FAIT HISTORIQUE EN UN ACTE, MÊLÉ DE VAUDEVILLES 
+# LE SOUPER DE MOLIERE, OU LA SOIRÉE D'AUTEUIL, FAIT HISTORIQUE EN UN ACTE, MÊLÉ DE VAUDEVILLES. 
 
 
 ## PERSONNAGES. ACTEURS.
@@ -943,10 +943,10 @@ ANTOINE, LAFOREST, tenant un houssoir⁎.
     LAFOREST.
 ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n'ai pas plus de tems qu'il ne m'en faut...
 
-     ANTOINE.
+    ANTOINE.
 Pourquoi me faire languir ; par pitié dites-moi si je puis espérer d'obtenir ma chère Madelon.
 
-     LAFOREST.
+    LAFOREST.
 Je vois bien qu'il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j'en ai la parole ; mais il faut te le dire : j'ai bien eu de la peine. Sans mon maitre, qui a promis de fouiller à l'escarcelle⁎, et de payer la dot de Madelon, ma foi je n'obtenois rien.
 
     ANTOINE.
@@ -965,13 +965,13 @@ Est sa parure,
 Et l'onde pure  
 Est son miroir.  
 
-     LAFOREST.
+    LAFOREST.
 Elle doit être bien contente [392] ?
 
     ANTOINE.
 Sans doute [393], car je l'aime bien.
 
-    LAFOREST, *avec ironie.*
+    LAFOREST, *avec ironie.*.
 Et puis, épouser le jardinier de M. Boileau ; dame [394], c'est bien flatteur !
 AIR : *Du haut en bas.*  
 Tiens, c'est un fait :  
@@ -1029,19 +1029,19 @@ MIGNARD, LULLI, ANTOINE, LAFOREST.
     MIGNARD.
 ALLONS, mon ami, mettons-nous à l'ouvrage... Ah ! bonjour, Laforest.
 
-    LAFOREST, *un peu émue.*
+    LAFOREST, *un peu émue.*.
 Bonjour, M. Mignard.
 
     LULLI.
 Qu'as-tu donc ? Tu parais animée.
 
-     LAFOREST.
+    LAFOREST.
 C'est que, voyez-vous, nous disputions nous deux [402], Antoine, pour savoir qu'est-ce qui [403] était le plus habile de M. Molière ou de M. Despreaux [404], et nous sommes convenus de nous en rapporter à vous.
 
     MIGNARD.
 La question n'est pas aisée à résoudre.
 
-     LULLI.
+    LULLI.
 Pourquoi ?
 AIR : *En revenant de la ville.*  
 Sur le sommet du Parnasse [405],  
@@ -1069,7 +1069,7 @@ MIGNARD, LULLI, LAFOREST.
     LULLI.
 TE troublerai-je en faisant de la musique ?
 
-     MIGNARD.
+    MIGNARD.
 Au contraire, tu m'animeras... Les arts sont frères, et ne peuvent se nuire.
 (A part, en travaillant.)
 
@@ -1084,7 +1084,7 @@ Quelque jour était oublié,
 Ah ! je sens à ma douce ivresse  
 Qu'il renaîtrait par l'amitié.  
 
-     LULLI, *à part.*
+    LULLI, *à part.*.
 Oui, l'air doit être grave... la mesure bien marquée... Ces médecins dans leur épaisse fourrure ; ces apothicaires⁎ dans leur figure blême, enterrée dans une perruque noire... tout cela marche à pas comptés, et la musique doit avoir une cadence bien prononcée... *Sol, mi, sol, ut, ut, ré, sol, fa...* C'est cela.
 AIR : *De la marche du malade imaginaire.*  
 Dignus, dignus est intrare  
@@ -1100,16 +1100,16 @@ Ma foi, mon ami, soit dit sans vanité, je crois que nous ne nous sommes pas tro
     MIGNARD.
 J'ai mieux connu la mienne que ma famille.
 
-     LULLI.
+    LULLI.
 Qui voulait te faire médecin ?
 
-    LAFOREST, *accourant.*
+    LAFOREST, *accourant.*.
 Comment donc ? Médecin ! Ah ! mon dieu.
 
-     LULLI,*gaiement.*
+    LULLI,*gaiement.*.
 Oui, Laforest : ne l'ai-je pas vu, pendant trois ans, suivre tous les pas d'un fameux docteur... en *us* [409], et faire avec lui toutes les visites, le pauvre garçon !
 
-     MIGNARD.
+    MIGNARD.
 Ajoutes [410] que j'emportais mes crayons avec moi... Un jour... ah ! l'aventure est digne d'être rapportée... Un jour...
 AIR : *Vaudeville des Chasseurs.*  
 Il me dictait une ordonnance  
@@ -1136,7 +1136,7 @@ Je le tiens de bonne part, et je vais le confier à Laforest (*Laforest s'approc
     LAFOREST.
 Vous me croyez donc bien indiscrète.
 
-     MIGNARD.
+    MIGNARD.
 Sois-le pour ceci. --- Dans sa dernière maladie, il a sacrifié, par dévotion, son nouvel ouvrage.
 AIR : *Alain était indifférent.*  
 Un adroit et saint confesseur,  
@@ -1164,7 +1164,7 @@ Je craignais de paraître impie ;
 Mais espérant bien en guérir,  
 J'en avois gardé la copie.  
 
-    MIGNARD,*l'embrassant.*
+    MIGNARD,*l'embrassant.*.
 Bravo ! Lulli ; je te pardonne, mon ami, je te pardonne, et ce soir à souper je veux te réhabiliter.
 
     LULLI.
@@ -1179,10 +1179,10 @@ Que ne me disois-tu cela, j'aurais préparé quelque chose... Nous allons célé
     LAFOREST.
 Nous allons à la noce.
 
-     MIGNARD.
+    MIGNARD.
 Comment à la noce ?
 
-     LAFOREST.
+    LAFOREST.
 Molière veut marier Madelon, sa petite jardinière, à Antoine, jardinier de M. Despreaux, notre voisin ; les parens y consentent, et ça [414] sera pour demain.
 
     LULLI.
@@ -1200,10 +1200,10 @@ Enrichit deux cœurs bien épris,
 Le sien trouve sa récompense  
 Dans le cœur de ses vrais amis.  
 
-    LULLI. 
+    LULLI.
 Ne vois-je point les deux futurs ?
 
-    LAFOREST. 
+    LAFOREST.
 Justement.
 
 
@@ -1213,13 +1213,13 @@ MIGNARD, LULLI, LAFOREST, ANTOINE, MADELON.
 (Antoine et Madelon portent des corbeilles de fleurs.)
 
 
-     MIGNARD.
+    MIGNARD.
 GENTILLE Madelon, recevez mon compliment [416].
 
-     MADELON.
+    MADELON.
 Grand merci, Monsieur.
 
-     LULLI.
+    LULLI.
 C'est aujourd'hui le jour du bonheur !...
 
     MADELON.
@@ -1228,7 +1228,7 @@ Oui. J'venons en témoigner notre reconnaissance à qui nous l'devons.
     LULLI.
 Et lui présenter des fleurs, tribut ordinaire d'un jardinier.
 
-    ANTOINE. 
+    ANTOINE.
 Dites mieux, M. Lulli.
 AIR : *Ce mouchoir, belle Raimonde.*  
 Jardinier n'est pas mon titre,  
@@ -1245,13 +1245,13 @@ Le p'tit brin de *chèvrefeuil*.
     MIGNARD.
 Comment diable, Antoine, tu lis ton maître ?
 
-     ANTOINE.
+    ANTOINE.
 Sans doute, puisqu'il m'écrit.
 
     MADELON.
 M. Molière est sûrement dans sa chambre... Viens ? [419]
 
-     LAFOREST.
+    LAFOREST.
 Mes bons amis, Molière repose [420]... Vous ne voudriez pas...
 
     ANTOINE.
@@ -1272,7 +1272,7 @@ A tous leurs cris i' n répond rien :
 Molier', qui s'montre aux coups de l'envie,  
 Se cache pour faire le bien.  
 
-    LULLI. 
+    LULLI.
 Cette semaine il a encore fait une belle action, que vous ignorez, j'en suis sûr.
 
     MADELON.
@@ -1290,7 +1290,7 @@ Quelle sublime leçon !
     LAFOREST.
 Vous ne savez que cela, M. Lulli ? Bon ! Le lendemain ce fut bien autre chose. Un jeune homme de 19 [425] ans, nommé Racine, avait remis à Molière un poëme pour avoir son avis. L'ouvrage était mauvais... Il me l'a lu. -- Mais Molière vit que le jeune homme pouvait mieux faire... Aussi, en rendant le poëme, il y cacha cent louis [426], et le plan d'une tragédie. [427]
 
-    MIGNARD. 
+    MIGNARD.
 Si Racine est célèbre un jour, et cela pourrait bien être, il se rappellera sans doute que c'est à Molière qu'il doit ses premiers encouragemens.
 
     ANTOINE.
@@ -1303,7 +1303,7 @@ Tu as raison, mon ami...
 (Ils tressent des fleurs.)
 
 
-    MIGNARD,*montrant son portrait.*
+    MIGNARD,*montrant son portrait.*.
 Dites-moi, mes enfans, ai-je bien réussi ?
 AIR : *Il est, il est, il est toujours le même.*  
 C'est lui ! c'est lui !  
@@ -1322,7 +1322,7 @@ Ce cœur que chacun aime.
     MADELON.
 Sa bouche me sourit.  
 
-     LULLI.
+    LULLI.
 Ses yeux sont pleins d'esprit.  
 
     TOUS.
@@ -1331,7 +1331,7 @@ C'est lui ! c'est lui ! vraiment c'est bien lui-même !
     LULLI.
 Il n'y a rien à désirer ; vérité, chaleur, dessin pur... Mignard ! tu me prouves par-là qu'on ne devrait donner qu'au vrai talent le droit de peindre le génie.
 
-    LAFOREST. 
+    LAFOREST.
 On dirait qu'il va parler.
 
     MADELON.
@@ -1343,7 +1343,7 @@ Le grand écrivain !
     ANTOINE.
 Quelle bienfaisance !
 
-    MIGNARD,*avec enthousiasme.*
+    MIGNARD,*avec enthousiasme.*.
 Quelle réunion de tous les talens ! de toutes les vertus !
 (Il prend une couronne dans le panier d'Antoine.)
 
@@ -1371,10 +1371,10 @@ En répandre ainsi sur sa vie.
 LES PRÉCÉDENS, MOLIERE.
 
 
-    MOLIERE. 
+    MOLIERE.
 MES amis ! mes enfans ! votre attachement vous égare. Est-ce ainsi qu'on doit idolâtrer les hommes ? Quelle erreur ! (*avec satisfaction*.) Mais elle est douce pour moi. J'ai reçu les faveurs de la fortune, quelquefois celles de la gloire... elles ne valent pas celles de l'amitié. -- Eh bien ! Antoine, le jour de ton bonheur est-il enfin fixé ? Pourrais-je...
 
-     ANTOINE.
+    ANTOINE.
 Pour que vous en soyez le témoin, le père de Madelon consent à ce que la cérémonie ait lieu demain, et nous venons vous prier d'assister au serment mutuel que nous avons tant de plaisir à faire.
 
     LULLI.
@@ -1387,22 +1387,22 @@ J'ai reçu le doux serment ;
 Mais cette aimable promesse  
 Peut s'entendre à tout moment.  
 
-     LULLI.
+    LULLI.
 Sans qu'ici je te l'expose,  
 Tu sauras, bientôt, je crois,  
 Qu'amour fait plus d'une chose  
 Qu'il aime à faire deux fois.  
 
-    ANTOINE, *à Molière.*
+    ANTOINE, *à Molière.*.
 Votre présence sera bien agréable pour nous.
 
-    MOLIERE. 
+    MOLIERE.
 J'espère bien aussi présider à votre noce ; mais, mon ami, ne compte pas sur moi pour l'église.
 
-     ANTOINE.
+    ANTOINE.
 Comment !
 
-    MADELON,*d'un air chagrin.*
+    MADELON,*d'un air chagrin.*.
 Et... pourquoi ?
 
     MOLIERE.
@@ -1414,13 +1414,13 @@ Excommunié !
     MADELON.
 Qu'est-ce que c'est que ça.
 
-     MIGNARD.
+    MIGNARD.
 Ce que c'est !... Tous les ans, ma chère, le pape défend l'entrée de l'église aux rats, aux sorciers, aux sauterelles, au diable et aux comédiens... à lui sur-tout.
 
-    MADELON *à Molière.*
+    MADELON *à Molière.*.
 Quel mal avez-vous donc fait ?
 
-     LULLI.
+    LULLI.
 Quel mal ! quel mal ! il a dit... la vérité.
 
     MOLIERE.
@@ -1435,13 +1435,13 @@ Bientôt, plus aimés, mieux connus,
 Nous ferons du théâtre un temple  
 Et de talens et de vertus.  
 
-    ANTOINE. 
+    ANTOINE.
 Ce n'est pas Dieu, je le vois bien, ce sont les prêtres qui repoussent les comédiens.
 
-     LAFOREST.
+    LAFOREST.
 Oui... par jalousie de métier.
 
-     MOLIERE, *à part.*
+    MOLIERE, *à part.*.
 Ce mot-là ne sera pas perdu.
 (À Antoine et Madelon.)
 
@@ -1455,10 +1455,10 @@ MOLIERE, MIGNARD, LULLI, LAFOREST.
     MOLIERE.
 MES bons amis, vous n'êtes guères curieux ; vous savez que je reçois du monde ce soir, et vous ne me demandez pas les noms des convives !... Remerciez-moi. J'ai écrit à Chapelle, à Lafontaine, et ils viendront souper avec nous. Il y a long-temps que nous ne nous somme réunis, et je veux, puisque je suis un peu rétabli, égayer notre soirée. Boileau viendra, je crois, aussi, quoiqu'il ne me l'ait pas assuré. (*à Laforest*.) Et toi ; songes [431] à nous bien traiter.
 
-     LAFOREST.
+    LAFOREST.
 Vous voulez faire grande chère⁎ ?
 
-    MOLIERE. 
+    MOLIERE.
 Sans doute.
 
     LAFOREST.
@@ -1484,19 +1484,19 @@ Fleurant se félicite [434].
     LULLI.
 Il ne faut rien faire qui nuise à ta santé ; songes que depuis plus de quinze jours le théâtre te redemande.
 
-     MOLIERE.
+    MOLIERE.
 Oui ; mais voilà plus de quinze scènes que j'ai faites depuis, et mon médecin m'en a fourni plus d'une.
 
-     MIGNARD.
+    MIGNARD.
 C'est ainsi que Molière tire parti de tout, et fait des habits à toutes les tailles.
 
-     LULLI.
+    LULLI.
 Cela n'est pas étonnant, il est fils d'un tailleur [435].
 
     MOLIERE.
 Ah !... Lulli ! trève pour les pointes⁎,... jusqu'au dessert.
 
-    LAFOREST. 
+    LAFOREST.
 Je vois bien que le souper aura lieu, au moins promettez-moi que vous ne prendrez que du lait.
 
     MOLIERE.
@@ -1511,7 +1511,7 @@ Que de vices seraient proscrits !
 Mais ce que je ne puis écrire,  
 Je le pense avec mes amis.  
 
-     LULLI.
+    LULLI.
 Lafontaine viendra sans doute par le bois de Boulogne ; je vais au devant de lui.
 
 
@@ -1521,10 +1521,10 @@ MOLIERE, LAFOREST, MIGNARD.
 (Mignard travaille, et Laforest, appuyée sur un balai, l'examine).
 
 
-    MOLIERE,*s'approchant de son bureau.*
+    MOLIERE,*s'approchant de son bureau.*.
 COMBIEN j'ai de choses en arrière [436] ! ... Voici des lettres que je n'ai pas encore lues... Voyons... De la Thorillière [437] ? Que me mande-t-il ? Un nouveau succès... Bravo !... Ecoutez, écoutez... voici du comique. *Je te préviens, mon ami, que les Poquelins* [438], *pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.*
 
-    MIGNARD. 
+    MIGNARD.
 Bon ! Quelle sottise !
 
     MOLIERE.
@@ -1547,7 +1547,7 @@ Mais ils auront beau dir', beau faire,
 On oubliera les Poquelins,  
 On n'oubliera jamais Molière.  
 
-    MOLIERE, *à Laforest.*
+    MOLIERE, *à Laforest.*.
 Je ne travaille que pour cela. -- Je crois que j'aurai le tems avant le souper de te lire une scène de mon *Bourgeois gentilhomme* [441]... Il y a dans cette pièce une certaine Nicole, qui t'est, je crois, un peu parente... Mets-toi là : écoute-moi sérieusement.
 
     LAFOREST.
@@ -1555,13 +1555,13 @@ Le moyen ! [442]⁎ vous me faites toujours rire.
 (Elle s'assied.)
 
 
-    MOLIERE,*tenant un cahier.*
+    MOLIERE,*tenant un cahier.*.
 Tant mieux !... C'est le moment où M. Jourdain reçoit son tailleur. *M. Jourdain, Ah ! vous voilà ! je m'allais mettre en colère contre vous ; vous m'avez envoyé des bas de soie si étroits que j'ai eu...* Mais quelqu'un vient, ce me semble, vois qui ce peut être.
 
-    LAFOREST,*après avoir regardé.*
+    LAFOREST,*après avoir regardé.*.
 C'est M. Boileau.
 
-     MIGNARD, *vivement.*
+    MIGNARD, *vivement.*.
 Boileau ! gare la critique [443] !
 (Il enlève et cache son tableau.)
 
@@ -1578,34 +1578,34 @@ Vîte, vîte, mettons mon plan à l'ombre ; ce n'est qu'une esquisse.
 BOILEAU, MIGNARD, MOLIERE, (un instant après) CHAPELLE.
 
 
-    MOLIERE, *à Boileau.*
+    MOLIERE, *à Boileau.*.
 TU viens de bonne heure, et c'est me faire plaisir : on m'avait fait craindre de ne pas te voir ce soir.
 
-     BOILEAU.
+    BOILEAU.
 Oui, mon ami, j'étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n'en trouve pas chez toi, j'avais peine à perdre ma journée.
 
-    MOLIERE, *avec gaité.* 
+    MOLIERE, *avec gaité.*.
 Ne dirait-on pas à tes regrets que c'est la journée de Titus [444] ! Va, mon pauvre Despreaux, Chapelle et Lulli sauront dissiper tes sombres idées.
 
     BOILEAU.
 Chapelle !
 
-    CHAPELLE, *entrant.*
+    CHAPELLE, *entrant.*.
 N'en dites pas de mal ?
 
-     BOILEAU.
+    BOILEAU.
 Si j'avais su qu'il soupât ici, je me serais rendu plus difficile encore.
 
-    CHAPELLE, *riant.*
+    CHAPELLE, *riant.*.
 Quoi ! toujours de la rancune ? Ah ! ah ! ah !
 
-    MOLIERE, *à Boileau.*
+    MOLIERE, *à Boileau.*.
 Chapelle t'aurait-il offensé ? Il en est incapable... à jeun.
 
     BOILEAU.
 Laissons, laissons cela.
 
-     MIGNARD.
+    MIGNARD.
 Non pas, il faut nous mettre au fait. Chapelle, on t'accuse.
 
     CHAPELLE.
@@ -1620,40 +1620,40 @@ Contre le vin se déchaîna,
 Et puis enfin il s'enivra  
 En me vantant la tempérance.  
 
-    MOLIERE,*riant, à Boileau.*
+    MOLIERE,*riant, à Boileau.*.
 Quoi ! tout de bon [446] ?
 
     BOILEAU.
 Le traître dit vrai [447].
 
-    MOLIERE, *à part.*
+    MOLIERE, *à part.*.
 C'est une scène !
 
-     BOILEAU.
+    BOILEAU.
 La belle gloire ! s'enivrer pour m'étourdir : c'est Guénaud qui s'éclabousse de la tête au pied pour tacher l'habit de son voisin [448].
 
     CHAPELLE.
 Je fus obligé de le reconduire, moi ! et ce qu'il y a de plus plaisant, c'est que nous fûmes rencontrés par Cottin et par Chapelain [449].
 
-    BOILEAU,*avec emphâse.*
+    BOILEAU,*avec emphâse.*.
 Le père des douze fois douze cents vers de la pucelle ! [450]
 
     MIGNARD.
 Comme ils vont se venger !
 
-     MOLIERE.
+    MOLIERE.
 Je ne vois, mon cher Despreaux, qu'un seul moyen de le punir ; c'est de l'enivrer ce soir.
 
-     CHAPELLE.
+    CHAPELLE.
 J'accepte la revanche. Mais à propos, savez-vous bien que j'ai refusé pour vous la plus belle fête ! un souper délicieux, offert par un prince.
 
-     MOLIERE.
+    MOLIERE.
 Et tu nous as préféré ? [451]
 
-    CHAPELLE. 
+    CHAPELLE.
 Je choisis toujours le meilleur, mon ami ; tiens, vois la réponse que j'ai faite.
 
-    MOLIERE,*prenant un papier que donne Chapelle.*
+    MOLIERE,*prenant un papier que donne Chapelle.*.
 En vers !
 
     CHAPELLE.
@@ -1689,19 +1689,19 @@ Il blessera, j'en suis sûr, et il faut avoir des ménagemens [452] avec les gra
     BOILEAU.
 Combien peu de ces hommes si grands, seront un jour de grands hommes ! Chapelle a bien fait, cela me racommode avec lui. **
 
-    CHAPELLE. 
+    CHAPELLE.
 Lorsque la réunion des Auteurs s'intitule la *République des Lettres* [453], c'est pour que tous soient libres d'écrire ce qu'ils pensent.
 
     MIGNARD.
 Mes amis, je vois Lafontaine.
 
-     MOLIERE.
+    MOLIERE.
 Comme il a l'air occupé !
 
-     CHAPELLE.
+    CHAPELLE.
 Il ne nous voit pas, j'en suis sûr.
 
-     MOLIERE.
+    MOLIERE.
 Taisons-nous.
 
 
@@ -1711,32 +1711,32 @@ LES PRÉCÉDENS, LA FONTAINE.
 (Lafontaine passe au milieu de ses amis sans les voir, et vient s'asseoir dans un fauteuil au-devant de la scène)
 
 
-     LA FONTAINE. 
+    LA FONTAINE.
 CELA n'est point malheureux, j'arrive au moment où je trouve mes deux derniers vers... Répétons-les tous.
 
-     MIGNARD.
+    MIGNARD.
 Il a quelque grande affaire ?
 
-     BOILEAU,*malignement.*
+    BOILEAU,*malignement.*.
 Oui, un renard, une fourmi l'occupe [454].
 
-    MOLIERE, *à part.*
+    MOLIERE, *à part.*.
 Le grand homme !
 
-     CHAPELLE. 
+    CHAPELLE.
 AIR : *De la Baronne.*  
 Pour une fable,  
 Sans cesse on le voit arrêté.  
 
-    BOILEAU. 
+    BOILEAU.
 Et par un goût inconcevable  
 Il laisse la réalité  
 Pour une fable.  
 
-    LA FONTAINE*se lève sans témoigner de surprise.*
+    LA FONTAINE*se lève sans témoigner de surprise.*.
 Oui, mes amis, c'est une fable que je viens d'achever, et c'est le plaisir de souper chez Molière qui me l'a inspirée.
 
-     MOLIERE.
+    MOLIERE.
 En ce cas, nous pouvons te la demander.
 
     LA FONTAINE.
@@ -1759,13 +1759,13 @@ Rien n'est plus rare que la chose. [455]
     CHAPELLE.
 Mais cela est bon... fort bon.
 
-     LA FONTAINE, *naïvement.*
+    LA FONTAINE, *naïvement.*.
 Je le crois.
 
-    MOLIERE. 
+    MOLIERE.
 Je te sais gré d'avoir pensé à nous en faisant cet apologue [456].
 
-    BOILEAU, *malignement.*
+    BOILEAU, *malignement.*.
 Ce n'est pas une fable... Mais c'est l'ouvrage d'un poëte exercé.
 
     MIGNARD.
@@ -1803,23 +1803,23 @@ Ce malheur serait nouveau,
 Car jamais aucun orage  
 N'a retardé ce vaisseau.  
 
-     LA FONTAINE.
+    LA FONTAINE.
 Cela paroît incroyable :  
 Je vois qu'il faut dire tout.  
 Eh bien ! mes bons amis,
 Je suis, en faisant une fable,  
 Descendu... jusqu'à St.-Cloud.  
 
-     MOLIERE.
+    MOLIERE.
 Quand tu viens chez moi, tu prends donc le plus long ?
 
-     BOILEAU.
+    BOILEAU.
 Comme quand tu vas à l'Académie.
 
     LULLI.
 Tout cela est fort bien ; mais, pour me dédommager de ma course, il nous récitera un de ses contes.
 
-     MOLIERE.
+    MOLIERE.
 Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.
 
 
@@ -1827,10 +1827,10 @@ Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.
 LES PRÉCÉDENS, LAFOREST.
 
 
-    LAFOREST. 
+    LAFOREST.
 PEUT-on vous servir ?
 
-     MOLIERE.
+    MOLIERE.
 A l'instant.
 
     LAFOREST.
@@ -1839,10 +1839,10 @@ De quel vin vous donnerai-je ?
     LULLI.
 De celui que tu voudras.
 
-     LAFOREST.
+    LAFOREST.
 Du rouge ou du blanc.
 
-     BOILEAU.
+    BOILEAU.
 Cela nous est parfaitement égal.
 
     CHAPELLE.
@@ -1852,22 +1852,22 @@ Je suis, mes bons amis, plus difficile à table,
 Et je crois au vin blanc le rouge préférable,  
 Puisqu'il approche moins de la couleur de l'eau.  
 
-     LA FONTAINE.
+    LA FONTAINE.
 Eh bien ! de tous les deux.
 
-     LAFOREST.
+    LAFOREST.
 Quand il vous plaira.
 
     MOLIERE.
 Allons, mes amis, à table.
 
-    CHAPELLE. 
+    CHAPELLE.
 Laforest, mets le vin près de Despreaux ; c'est lui qui doit m'enivrer ce soir.
 
     BOILEAU.
 T'enivrer ? Il suffit, pour cela, de te laisser à ta discrétion [459]. Mais quoi ! point d'eau sur la table ?
 
-     LULLI.
+    LULLI.
 AIR : *On compterait les diamans.*  
 En vérité, mon cher Boileau,  
 Ta demande est fort indiscrète ;  
@@ -1878,7 +1878,7 @@ Buvons-le pur, à tasse pleine ;
 Mais si tu le crains aujourd'hui,  
 Mets *Boileau* près de *Lafontaine.*  
 
-     CHAPELLE.
+    CHAPELLE.
 Encore une turlupinade⁎.
 
     MOLIERE.
@@ -1892,7 +1892,7 @@ Allons, servez-vous et ne ménagez rien ; pour moi, vous le voyez, je suis au r
     LA FONTAINE.
 Nous allons boire à ta meilleure santé.
 
-    LAFOREST,*à part, en contemplant la table.*
+    LAFOREST,*à part, en contemplant la table.*.
 On dit que les auteurs ne peuvent pas vivre ensemble, il me semble cependant que l'on est ici de fort bonne intelligence [461]... Que cet accord fait plaisir ! Un souper d'amis comme ceux-là n'est pas facile à trouver.
 AIR : *Une fille est un oiseau.*  
 Au milieu de l'univers,  
@@ -1907,10 +1907,10 @@ Ce mont me semble une fable ;
 Mais je vois à cette table  
 Le vrai Parnasse Français.  
 
-    MOLIERE. 
+    MOLIERE.
 Pour nous mettre en train, Lulli... fais-nous rire.
 
-     CHAPELLE,*versant à boire à Lulli.*
+    CHAPELLE,*versant à boire à Lulli.*.
 Ah ! laisse-le souper.
 
     LULLI.
@@ -1939,7 +1939,7 @@ Le chanteur public [464].
     TOUS.
 Oui.
 
-     LULLI.
+    LULLI.
 Soit. Avec tous ses agrémens [465] ?
 (Il prélude du ton le plus faux, et dit, comme un chanteur public:)
 
@@ -1979,48 +1979,48 @@ Parlons du plaisir de nous voir tous réunis et bien portans.
     MIGNARD.
 Avouons-le ; ce n'est qu'entre nous, ce n'est qu'ici, que nous sommes à notre place et que nous pouvons jouir d'une liberté que n'empoisonne point l'envie ou la sottise des hommes.
 
-     BOILEAU.
+    BOILEAU.
 Mignard a raison. La société n'offre qu'un plaisir, c'est celui d'y saisir des ridicules à censurer, ou des vices à combattre.
 
-    MOLIERE, *gaiement.*
+    MOLIERE, *gaiement.*.
 Je puis vous consulter, à ce que je vois, pour retoucher mon Misantrope.
 
-     CHAPELLE,*versant à boire.*
+    CHAPELLE,*versant à boire.*.
 Il faut en convenir, les hommes sont plus traîtres... que le vin.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Il y a des momens de folie où l'on maudit son existence.
 
-     CHAPELLE.
+    CHAPELLE.
 Dis plutôt des momens de raison ; car c'est quand le vin me fait perdre la mienne, que je puis seulement supporter la vie... (*Il verse à boire*.) Buvons.
 
-    BOILEAU,*avec exaltation.*
+    BOILEAU,*avec exaltation.*.
 Lorsque l'amour, la table, le vin, le jeu, la gloire, satisfont nos passions, nous appellons cela des plaisirs, et ce ne sont que des erreurs. L'amour enfante la jalousie.
 
-     LA FONTAINE. 
+    LA FONTAINE.
 Le vin, l'ivresse.
 
-     MIGNARD.
+    MIGNARD.
 Le jeu, la ruine.
 
-     BOILEAU.
+    BOILEAU.
 La gloire, l'envie.
 (Depuis ce moment, l'ivresse et l'exaltation augmentent par degrés.)
 
 
-    LAFOREST, *à part.*
+    LAFOREST, *à part.*.
 Voilà pour des gens gais une bien singulière conversation !
 
     CHAPELLE.
 Avec nos talens et notre réputation on nous croit fort heureux, et il s'en faut que nous le soyons [468]... *Nous venons de bien rire ? Nous venons de bien rire* ? [469] Eh bien ! je vous le demande, savons-nous pourquoi ?
 
-     MIGNARD.
+    MIGNARD.
 Nous heureux ! Qui peut dire cela ?
 
-    CHAPELLE, *à Boileau.*
+    CHAPELLE, *à Boileau.*.
 Par exemple, toi, je ne sais pas comment tu peux exister, oui, toi, Boileau... On promet une pension à un poëte, tout Paris te nomme, et c'est Chapelain qui l'obtient.
 
-     BOILEAU.
+    BOILEAU.
 Bien pis [470] que ça : Je vois la foule entrer dans un temple... je la suis... et c'est Cottin qui prêche.
 
     MOLIERE.
@@ -2029,10 +2029,10 @@ Vous n'y pensez pas avec vos idées sombres... la veille d'une noce !
     LA FONTAINE.
 Allons, Molière, tu n'es pas plus heureux qu'un autre.
 
-    TOUS. 
+    TOUS.
 Non... certainement.
 
-     MOLIERE.
+    MOLIERE.
 Que dites-vous ? J'aime fort mon état ; j'ai, d'ailleurs, des principes qui vous seraient, je crois, fort nécessaires.
 AIR : *La comédie est un miroir.*  
 S'attendre à tout est le moyen  
@@ -2044,7 +2044,7 @@ Ma méthode est très salutaire :
 Jugeons le mal que l'on nous fait  
 Par le mal qu'on pouvait nous faire. [471]  
 
-    CHAPELLE,*avec le plus grand enthousiasme.*
+    CHAPELLE,*avec le plus grand enthousiasme.*.
 Tu ne disais pas cela quand on arrêtait le Tartuffe, quand on n'allait qu'avec peine au Misantrope, tandis que tout Paris courait aux pièces de Pradon [472].
 
     BOILEAU.
@@ -2053,37 +2053,37 @@ Et Pradon, et Chapelain, et Brebeuf [473], sont de l'Académie ! c'est un enfer
     LULLI.
 Pourquoi travaillons-nous ? pour être dénigrés par des sots.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Pillés par des plagiaires [474].
 
     MIGNARD.
 Méprisés par des grands.
 
-     CHAPELLE.
+    CHAPELLE.
 Déchirés par les journalistes [475].
 
-     MOLIERE, *à part.*
+    MOLIERE, *à part.*.
 Que penser des hommes, si les plus sages, les plus éclairés peuvent s'oublier ainsi ?
 
-    BOILEAU. 
+    BOILEAU.
 Il n'y a plus de goût.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Plus de probité [476].
 
-     MIGNARD.
+    MIGNARD.
 Mes amis... il n'y a plus d'amis.
 
-     CHAPELLE.
+    CHAPELLE.
 De tout temps la vie (*après avoir bu*) est un fléau... et nous la supporterions !... Non... Mes amis, nous sommes des lâches ; le bonheur, le repos ne sont pas de ce monde...
 
     BOILEAU.
 Il faut le chercher dans le fond d'un cloître.
 
-     MIGNARD.
+    MIGNARD.
 Dans un désert [477] !
 
-    TOUS,*hors Moliere.*
+    TOUS,*hors Moliere.*.
 Dans un désert.
 
     LA FONTAINE.
@@ -2105,22 +2105,22 @@ Vers ce pont allons en droiture,
 Et prenons-en tous la mesure  
 Du haut en bas.  
 
-    TOUS. 
+    TOUS.
 Bravo ! bravo ! Oui, le pont... du haut en bas.
 
-     MOLIERE, *à part.*
+    MOLIERE, *à part.*.
 Voyons jusqu'où l'enthousiasme ira.
 
-     CHAPELLE, *se levant.*
+    CHAPELLE, *se levant.*.
 Allons !
 
-    LAFOREST, *effrayée.*
+    LAFOREST, *effrayée.*.
 Ah ! mon dieu !
 
-     LULLI,*se levant.*
+    LULLI,*se levant.*.
 Cette idée est grande, elle peut nous immortaliser.
 
-     MIGNARD.
+    MIGNARD.
 AIR : *Sans le savoir.*  
 Pour nous quel bonheur ! quelle gloire !  
 Notre mort un jour dans l'histoire  
@@ -2132,13 +2132,13 @@ Que la raison.
 (Il se lève.)
 
 
-    BOILEAU, *se lève.*
+    BOILEAU, *se lève.*.
 Enfin je n'entendrai plus parler de la Serre, ni de l'abbé Depure [479].
 
     MIGNARD.
 Je ne verrai plus de croutes [480].
 
-    CHAPELLE, *à Moliere.*
+    CHAPELLE, *à Moliere.*.
 Toi, plus de Tartuffes.
 
     LULLI.
@@ -2147,13 +2147,13 @@ Je n'entendrai plus la musique de Colasse ni de Cambert [481].
     LA FONTAINE.
 Partons !
 
-    MOLIERE, *les arrêtant.* (I)
+    MOLIERE, *les arrêtant.* (I).
 Un moment. O mes amis ! que faisons nous ? N'abandonnons point une résolution si belle aux fausses interprétations qu'on peut lui donner. On saura qu'à la suite d'un long souper nous aurons fait le sacrifice de notre existence, et la calomnie, avide de tout dénigrer, répandra le bruit que l'ivresse nous a plus inspirés que la philosophie. Amis, sauvons notre sagesse, attendons le retour prochain du soleil ; alors, aux yeux de tout le monde, nous donnerons cette leçon publique du mépris de la vie.
 
     BOILEAU.
 Il a raison ; c'est pour notre gloire que nous travaillons : il nous faut des témoins. Eh bien ! jurons que demain, à la pointe du jour...
 
-    TOUS,*excepté Moliere.*
+    TOUS,*excepté Moliere.*.
 Nous le jurons !
 
     MOLIERE.
@@ -2168,7 +2168,7 @@ J'entends, j'entends.
     CHAPELLE.
 Sa réflexion est de bon sens : notre sagesse n'en sera que plus éclatante.
 
-     MOLIERE.
+    MOLIERE.
 (Il prend deux bouteilles que lui donne Laforest.)
 
 Feignons de prendre part à leurs folies, puisque je ne puis les ramener à la raison.
@@ -2188,7 +2188,7 @@ TOUT est prêt, nous n'attendons que notre bienfaiteur.
     MADELON.
 Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n'avons pas voulu qu'on entrât de peur de vous interrompre.
 
-    MOLIERE. 
+    MOLIERE.
 Pourquoi donc ?
 (Aux villageois.)
 
@@ -2215,7 +2215,7 @@ Mettez que Madelon a deux cents écus [486] de dot.
     MADELON.
 Comment puis-je reconnaître...
 
-     MOLIERE.
+    MOLIERE.
 C'est un plaisir...
 
     MATHURIN.
@@ -2224,10 +2224,10 @@ Nous nous souviendrons toujours...
     MOLIERE.
 Cela ne vaut pas...
 
-    ANTOINE. 
+    ANTOINE.
 Ah ! croyez que notre cœur...
 
-     MOLIERE.
+    MOLIERE.
 Eh ! mes amis, point de remercimens ; vous me faites un plus grand cadeau, vous autres ! vous me donnez votre amitié... Le cœur des honnêtes gens est sans prix.
 (Il signe le contrat, et prenant une bourse dans son secrétaire.)
 
@@ -2245,60 +2245,60 @@ Fait contribuer un *Avare.*
     MATHURIN.
 Mais vraiment, cela est fort extraordinaire.
 
-     MADELON.
+    MADELON.
 Nous n'avons jamais vu chez vous ces hommes-là.
 
-     LAFOREST,*avec orgeuil.*
+    LAFOREST,*avec orgeuil.*.
 Je les ai vus, moi, et je vous mettrai au fait.
 
     MATHURIN.
 Vous allez venir avec nous ?
 
-     MOLIERE.
+    MOLIERE.
 A l'instant je vous rejoins, je vais passer un habit ; retournez au jardin, et vous rentrerez quand je vous le dirai.
 
     ANTOINE.
 Oh ! de bien bon cœur.  
 
-    ANTOINE, MADELON, MATHURIN. 
+    ANTOINE, MADELON, MATHURIN.
 AIR : *Frère Jacques.*  
 Du silence.  
 
-    LE CHŒUR. 
+    LE CHŒUR.
 Du silence.  
 
-    MOLIERE. 
+    MOLIERE.
 Laissons-les.  
 
-    LE CHŒUR. 
+    LE CHŒUR.
 Laissons les.  
 
-    TOUS. 
+    TOUS.
 Marchons avec prudence,  
 Marchons avec prudence.  
 
-    ANTOINE. 
+    ANTOINE.
 Paix !  
 
-     MADELON. 
+    MADELON.
 Paix !  
 
-    LE CHŒUR. 
+    LE CHŒUR.
 Paix !  
 
-     MOLIERE. 
+    MOLIERE.
 Paix !  
 
-     MATHURIN. 
+    MATHURIN.
 Paix !  
 
-    LE CHŒUR. 
+    LE CHŒUR.
 Paix !  
 
-     LULLI,*se réveillant.*
+    LULLI,*se réveillant.*.
 Ah !... Mais où suis-je ? Chapelle, Mignard, Boileau... Ah ! dieu ! j'avais oublié qu'hier... O funeste résolution ! J'étais ivre sans doute... Oui, j'étais ivre, et ce qu'on promet dans l'ivresse... Si je pouvais m'échapper... Quelle lâcheté ! Quel opprobre !... Boileau s'éveille... feignons de dormir encore.
 
-    BOILEAU. 
+    BOILEAU.
 Combien le soleil enfante de bisarrerie !
 AIR : *On vit sortir d'une grotte profonde.*  
 Oui, je rêvais qu'une main ennemie  
@@ -2307,45 +2307,45 @@ Et que Cottin, en pleine académie,
 Sur mon fauteuil avait été porte.  
 Je rêvais ; mais, non, je ne rêvais pas... Cette table, ces convives me rappellent... Allons, c'est une folie... Ce serait un crime... Si je pouvais savoir ce que pensent... Bon ! Lafontaine, Chapelle et Mignard ne dorment plus : écoutons.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Avons-nous sommeillé long-temps ?
 
-     CHAPELLE.
+    CHAPELLE.
 Il n'est pas jour encore.
 
     MIGNARD.
 Non, mais bientôt il faudra...
 
-     CHAPELLE.
+    CHAPELLE.
 (A part.)
 
 Ahi ! ahi ! il ne l'a pas oublié. (*haut*.) Des affaires qui me rappellent à Paris.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Des affaires ? eh bien ! il faut partir.
 
-     CHAPELLE.
+    CHAPELLE.
 Des affaires pour lesquelles je voudrais que Molière... Où donc est-il ?
 
-     MIGNARD.
+    MIGNARD.
 Sa santé lui aura fait craindre de veiller.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Dans peu de temps sa guérison sera parfaite.
 
-    CHAPELLE. 
+    CHAPELLE.
 Je le crois. (*à part*.) Oh dieu ! la mémoire lui revient-elle ?
 
     MIGNARD.
 Si nous éveillons nos camarades ?
 
-    CHAPELLE, *avec crainte.*
+    CHAPELLE, *avec crainte.*.
 Non... non... pourquoi ? il n'est pas encore tems.
 
-     LA FONTAINE.
+    LA FONTAINE.
 Les voilà qui s'éveillent eux-mêmes.
 
-     CHAPELLE.
+    CHAPELLE.
 (A part.)
 
 Ah ! je tremble.
@@ -2364,7 +2364,7 @@ TOUS LES ACTEURS.
 et se rangent dans un angle du théâtre.)
 
 
-    CHŒUR. 
+    CHŒUR.
 AIR : *Habitans de ce village.*  
 MES amis, le tems nous presse,  
 Profitons de cet instant ;  
@@ -2375,7 +2375,7 @@ Du bonheur qui nous attend.
 Mes amis, le tems nous presse,  
 Profitons de cet instant.  
 
-    MOLIERE. 
+    MOLIERE.
 Allons, plus de retard, remplissons notre engagement : voici tout le village, qui est déjà prévenu, et qui se fait un plaisir de nous accompagner.
 
     LES VILLAGEOIS.
@@ -2384,7 +2384,7 @@ Oui... sans doute... assurément.
     MOLIERE.
 Comment ! vous ne répondez rien ? Ne vous souvient-il plus de votre résolution ? Faut-il vous la répéter ?
 
-    ANTOINE, *à Chapelle.*
+    ANTOINE, *à Chapelle.*.
 AIR : *Amusez-vous, jeunes fillettes.*  
 Ne point accepter la partie,  
 C'est vouloir nuire à not' bonheur.  
@@ -2394,16 +2394,16 @@ Ne refusez pas cet honneur...
     CHAPELLE.
 Certainement (*à part*.) Quel chien d'honneur [489] !
 
-    MADELON, *à Lulli.*
+    MADELON, *à Lulli.*.
 Vous avez fait une promesse :  
 Vous coûterait-elle à remplir ?  
 Voyez la foule qui vous presse,  
 Ne la privez pas d'un plaisir.  
 
-     LULLI.
+    LULLI.
 C'est très-honnête assurément. (*à part*.) Où ces gens-là mettent-ils leur plaisir ?
 
-     ANTOINE.
+    ANTOINE.
 La cérémonie ne sera pas longue.
 
     CHAPELLE.
@@ -2412,13 +2412,13 @@ La cérémonie !
     LULLI.
 Comptez maintenant sur vos amis.
 
-    MIGNARD,*montrant Moliere*
+    MIGNARD,*montrant Moliere*.
 Comme il est content, radieux !
 
-    MATHURIN. 
+    MATHURIN.
 Il jouit du plaisir de faire une bonne action.
 
-     BOILEAU.
+    BOILEAU.
 Une belle action !
 
     LAFOREST.
@@ -2427,7 +2427,7 @@ Mais je ne vois pas qu'il faille [490] tant se faire prier ; pendant que vous r
     LULLI.
 Ne crains-tu pas qu'elle s'arrête ?
 
-     MOLIERE.
+    MOLIERE.
 L'heure avance, et M. le curé...
 
     BOILEAU.
@@ -2436,12 +2436,12 @@ Un curé ! Ah ! ah ! (*à Molière.)* Tu es un homme de précautions, et tu p
     MADELON.
 Comment ! Mais nous ne voulons pas autrement ; nous ne sommes pas excommuniés nous autres.
 
-    MOLIERE,*aux Villageois.*
+    MOLIERE,*aux Villageois.*.
 Allons, mes amis, distribuez-nous des fleurs.
 (On donne des bouquets.)
 
 
-     LA FONTAINE.
+    LA FONTAINE.
 Je ne sais ce que tout cela veut dire. [491]
 
     LULLI.
@@ -2464,7 +2464,7 @@ Ainh [495] !
     BOILEAU.
 Qu'est-ce donc ?
 
-     MIGNARD.
+    MIGNARD.
 La noce d'Antoine et de Madelon.
 
     BOILEAU.
@@ -2475,7 +2475,7 @@ La noce ! Je veux en être le ménétrier⁎.
 (Il prend le violon.)
 
 
-    MOLIERE, *riant.*
+    MOLIERE, *riant.*.
 Avouez, Messieurs les esprits forts, que votre frayeur a été complette. Apprenez une autre fois à vous défier de votre imagination, et croyez que l'homme le plus malheureux tient à ce monde plus qu'il ne pense.
 
     CHAPELLE.
@@ -2504,7 +2504,7 @@ Passer à la postérité ;
 Mais, comme vous, chacun redoute  
 Ce pas vers l'immortalité.  
 
-     LULLI. 
+    LULLI.
 Allons, amis, prenons courage,  
 Et rappellons notre gaîté ?  
 L'homme joyeux, quand il est sage,  
@@ -2514,7 +2514,7 @@ Il a dit dans certain endroit :
 On est heureux quand on croit l'être,  
 Et quand on le veut, on le croit. [498]  
 
-     BOILEAU. 
+    BOILEAU.
 Le vin, en troublant ma cervelle,  
 A mis le feu dans tous mes sens ;  
 Je sens que l'ivresse avec elle  
@@ -2524,7 +2524,7 @@ Quand je serai dans un festin,
 Je prétends lire, à chaque verre,  
 Une ou deux pages de Cottin.  
 
-    LA FONTAINE, *aux Spectateurs.* 
+    LA FONTAINE, *aux Spectateurs.*.
 Un peintre avait perdu son ami le plus tendre,  
 Jour et nuit il versait des pleurs :  
 Son élève le voit. Touché de ses malheurs,  
@@ -2550,13 +2550,13 @@ Puissai-je être aussi bien traité !
 FIN.
 
 
-# Annexes
+# Annexes.
 
 
-## GlossaireApothicaire« Celui dont la profession est de préparer les drogues pour la guérison des malades. » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 7Cabaret« Lieu où l'on vend du vin en détail. On confond aujourd'hui ce mot avec *taverne* : néanmoins ils sont fort différents, en ce que le *cabaret* est le lieu où on donne seulement du vin à pot par un trou pratiqué dans un treillis de bois qui y sert d'enseigne, sans qu'il soit permis de s'asseoir, ni de mettre la nappe. On l'appelle pour cela *à huis coupé, et pot renversé*, parce que l'hôte est obligé de renverser le pot sitôt qu'il a vendu le vin. Au lieu qu'à la *taverne* on vend le vin par assiette, et on y apprête à manger. Il faut fuir ces débauchés qui ne hantent que le *cabaret*. Le vin du *cabaret* est presque toujours frelaté, et fait mal à la tête. Ménage croit que ce mot vient de *caparetum*, qui a été fait du Grec Kapi, qui signifie *lieu où l'on mange*. » (*Dictionnaire universel* de Furetière, 1690). Les Dictionnaires de l'Académie française (1694 et 1762) assimilent en revanche ces « cabaret » et « taverne » : « CABARET. s.m. Taverne, maison où l'on donne à boire et à manger à toutes sortes de personnes pour de l'argent. »P. 22Chère« Accueil gracieux, réception favorable. Ce prince l'a reçu favorablement, il lui a fait grande *chère*, quand il lui a apporté cette nouvelle. Quand on revoit un ami qu'on croyait mort, on ne sait quelle caresse, quelle *chère* lui faire. Ce mot de *chère* vient de l'Italien *cera*, ou *ciera*. On prononce *chera*, qui signifie visage, aussi bien que *cara* en Espagnol, parce que les plus grands témoignages d'amitié paraissent sur le visage. Ménage remonte plus haut, et prouve que *cara* a signifié aussi visage en Latin. On dit aussi en Grec *kara*. Tous ces mots viennent du Latin *caro*. » (*Dictionnaire universel* de Furetière, 1690). Même sens dans les *Dictionnaires de l'Académie française* (1694 et 1762).P. 17Escarcelle« S.f. Grande bourse à l'antique. Ce mot n'a plus guère d'usage qu'en plaisanterie. Il a rempli son escarcelle. *Il vient de jouer, il a vidé son escarcelle. Mettre la main à l'escarcelle. Fouiller dans l'escarcelle.* » (*Dictionnaires de l'Académie française*, 1694 et 1762). Et dans le *Dictionnaire universel* de Furetière (1690) : « Grande bourse de cuir à l'antique, qui se fermait à ressort avec du fer. Ce mot vient de *scarcella* Italien, qui signifie *bourse*, qui a été dérivé de *scarco*, qui signifie *avare.* … ». P. 2Galiote« Petite galère et fort légère, propre pour aller en course. Elle ne porte qu'un mât et deux ou trois pierriers. Elle n'a que quinze ou vingt bancs de chaque côté, et un homme sur chaque rame. » (*Dictionnaire universel* de Furetière). Et même sens dans le *Dictionnaire de l'Académie française* de 1762 : « Espèce de petit bâtiment qui va à rames et à voiles. »P. 27Gêner« Tenir en contrainte, mettre quelqu'un dans un état violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empêchant de faire ce qu'il veut. » (*Dictionnaire de l'Académie française*, 1762). Forme d'anachronisme, car le mot n'apparaît ni chez Furetière, ni dans la première édition du *Dictionnaire de l'Académie française* (1694).P. 41Houssoir« Ballai, et ramon, ou autre chose attachée au bout d'un baston, ou d'une perche, avec lequel on housse, soit la maison, soit la cheminée ». (Jean Nicot, *Le Trésor de la Langue française*, 1606). Puis, dans les *Dictionnaires de l'Académie française* de 1694 (1*ère* édition), et de 1762 (4*e* édition), on trouve cette même définition : « Balai de houx ou d'autre branchage ». P. 2Imprécation« Malédiction, souhait qu'on fait contre quelqu'un. » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 16Ménétrier« Vieux mot qui signifiait autrefois *violon*, et tout autre joueur d'instruments, ou maître à danser. Saint-Julien est le Patron des *ménétriers*. Ce n'est plus qu'aux noces, de village où on appelle les ménétriers. C'était originairement celui qui allait chanter ou donner des sérénades avec des instruments de musique à sa maîtresse. Depuis ce nom a passé à toutes sortes de flûteurs et de joueurs d'instruments. Ensuite il a été dit longtemps des violons. Enfin il est demeuré vielleux, et aux violons de campagne. Borel dérive ce mot bien ou mal de *ministere*, ou de *manus et histrio*, ou de *minus histrio*, comme qui dirait *petit bouffon*, ou qui divertit avec la main. » (*Dictionnaire universel* de Furetière). Le *Dictionnaire de l'Académie française* de 1762 dit également : « Vieux mot qui signifiait autrefois toute sorte de joueurs d'instruments, surtout quand ils jouaient pour faire danser. Il se prend aujourd'hui plus particulièrement, mais toujours en raillerie, pour un joueur de violon. »P. 47Parbleu« Parbieu » : « Sorte de serment burlesque, et cependant inventé par une espèce de modestie, pour éviter le véritable serment *par Dieu*. » ; « Parbleu : autre sorte de serment burlesque, qui signifie la même chose. » (*Dictionnaire* de Trévoux, 1771).P. 36Pointe« Se dit figurément en choses spirituelles et morales. La pointe de l'esprit s'émousse par la débauche continuelle. Ce jeune homme a beaucoup de vivacité, de pointe d'esprit. Les épigrammes doivent finir par quelque agréable pointe. Les pointes sont des équivoques, et des jeux d'esprit. Il faut se donner de garde des fausses pointes, des turlupinades. » (*Dictionnaire universel* de Furetière). Le *Dictionnaire de l'Académie française* de 1762 contient ce même sens : « pensée qui surprend par quelque subtilité d'imagination, par quelque jeu de mots. »P. 18Récitatif« Sorte de chant qui approche le plus de la prononciation ordinaire. » (*Dictionnaire de l'Académie française*, 1694) ; « Sorte de chant qui n'est point assujetti à la mesure, et qui doit être débité. » (*Dictionnaire de l'Académie française*, 1762).P. 29Tabellion« Notaire, Officier public qui reçoit et passe les contrats et autres actes. *Notaire et tabellion royal.* Ce mot n'est guère en usage qu'en certaines provinces, surtout dans les campagnes. » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 1, 17, 40Trait« Des beaux endroits d'un discours, de ce qu'il y a de vif, et de brillant dans une pensée, dans une expression. *Il y a de beaux traits d'éloquence dans ce discours. un beau trait d'esprit, un trait de raillerie.* » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 24Turlupinade*Dictionnaire universel* de Furetière pour « turlupins » : « C'étaient des religieux hérétiques, ou plutôt une certaines secte de gens qui faisaient profession publique d'impudence, qui marchaient nus sans cacher leurs parties honteuses, et qui se mêlaient avec les femmes à la manière des cyniques en plein marché. Ils voulurent s'établir à Paris en 1372. Ils appelaient leur secte la *fraternité des pauvres*. Mais on les fit tous périr par le feu avec leurs livres, comme rapportent Gaguin et du Tillet en la vie de Charles V. … On a appelé de ce nom un comédien fameux de Paris, dont le talent était de faire rire par de méchantes pointes et équivoques qu'on a appelées *turlupinades*, et ses imitateurs *turlupins*. Ils ne sont par malheur que trop fréquents. » Et le *Dictionnaire de l'Académie française* de 1762 va dans le même sens : « mauvaise plaisanterie, fondée ordinairement sur quelque allusion basse, et sur quelques mauvais jeux de mots. »P. 29
+## Glossaire.Apothicaire« Celui dont la profession est de préparer les drogues pour la guérison des malades. » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 7Cabaret« Lieu où l'on vend du vin en détail. On confond aujourd'hui ce mot avec *taverne* : néanmoins ils sont fort différents, en ce que le *cabaret* est le lieu où on donne seulement du vin à pot par un trou pratiqué dans un treillis de bois qui y sert d'enseigne, sans qu'il soit permis de s'asseoir, ni de mettre la nappe. On l'appelle pour cela *à huis coupé, et pot renversé*, parce que l'hôte est obligé de renverser le pot sitôt qu'il a vendu le vin. Au lieu qu'à la *taverne* on vend le vin par assiette, et on y apprête à manger. Il faut fuir ces débauchés qui ne hantent que le *cabaret*. Le vin du *cabaret* est presque toujours frelaté, et fait mal à la tête. Ménage croit que ce mot vient de *caparetum*, qui a été fait du Grec Kapi, qui signifie *lieu où l'on mange*. » (*Dictionnaire universel* de Furetière, 1690). Les Dictionnaires de l'Académie française (1694 et 1762) assimilent en revanche ces « cabaret » et « taverne » : « CABARET. s.m. Taverne, maison où l'on donne à boire et à manger à toutes sortes de personnes pour de l'argent. »P. 22Chère« Accueil gracieux, réception favorable. Ce prince l'a reçu favorablement, il lui a fait grande *chère*, quand il lui a apporté cette nouvelle. Quand on revoit un ami qu'on croyait mort, on ne sait quelle caresse, quelle *chère* lui faire. Ce mot de *chère* vient de l'Italien *cera*, ou *ciera*. On prononce *chera*, qui signifie visage, aussi bien que *cara* en Espagnol, parce que les plus grands témoignages d'amitié paraissent sur le visage. Ménage remonte plus haut, et prouve que *cara* a signifié aussi visage en Latin. On dit aussi en Grec *kara*. Tous ces mots viennent du Latin *caro*. » (*Dictionnaire universel* de Furetière, 1690). Même sens dans les *Dictionnaires de l'Académie française* (1694 et 1762).P. 17Escarcelle« S.f. Grande bourse à l'antique. Ce mot n'a plus guère d'usage qu'en plaisanterie. Il a rempli son escarcelle. *Il vient de jouer, il a vidé son escarcelle. Mettre la main à l'escarcelle. Fouiller dans l'escarcelle.* » (*Dictionnaires de l'Académie française*, 1694 et 1762). Et dans le *Dictionnaire universel* de Furetière (1690) : « Grande bourse de cuir à l'antique, qui se fermait à ressort avec du fer. Ce mot vient de *scarcella* Italien, qui signifie *bourse*, qui a été dérivé de *scarco*, qui signifie *avare.* … ». P. 2Galiote« Petite galère et fort légère, propre pour aller en course. Elle ne porte qu'un mât et deux ou trois pierriers. Elle n'a que quinze ou vingt bancs de chaque côté, et un homme sur chaque rame. » (*Dictionnaire universel* de Furetière). Et même sens dans le *Dictionnaire de l'Académie française* de 1762 : « Espèce de petit bâtiment qui va à rames et à voiles. »P. 27Gêner« Tenir en contrainte, mettre quelqu'un dans un état violent en l'obligeant de faire ce qu'il ne veut pas, ou en l'empêchant de faire ce qu'il veut. » (*Dictionnaire de l'Académie française*, 1762). Forme d'anachronisme, car le mot n'apparaît ni chez Furetière, ni dans la première édition du *Dictionnaire de l'Académie française* (1694).P. 41Houssoir« Ballai, et ramon, ou autre chose attachée au bout d'un baston, ou d'une perche, avec lequel on housse, soit la maison, soit la cheminée ». (Jean Nicot, *Le Trésor de la Langue française*, 1606). Puis, dans les *Dictionnaires de l'Académie française* de 1694 (1*ère* édition), et de 1762 (4*e* édition), on trouve cette même définition : « Balai de houx ou d'autre branchage ». P. 2Imprécation« Malédiction, souhait qu'on fait contre quelqu'un. » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 16Ménétrier« Vieux mot qui signifiait autrefois *violon*, et tout autre joueur d'instruments, ou maître à danser. Saint-Julien est le Patron des *ménétriers*. Ce n'est plus qu'aux noces, de village où on appelle les ménétriers. C'était originairement celui qui allait chanter ou donner des sérénades avec des instruments de musique à sa maîtresse. Depuis ce nom a passé à toutes sortes de flûteurs et de joueurs d'instruments. Ensuite il a été dit longtemps des violons. Enfin il est demeuré vielleux, et aux violons de campagne. Borel dérive ce mot bien ou mal de *ministere*, ou de *manus et histrio*, ou de *minus histrio*, comme qui dirait *petit bouffon*, ou qui divertit avec la main. » (*Dictionnaire universel* de Furetière). Le *Dictionnaire de l'Académie française* de 1762 dit également : « Vieux mot qui signifiait autrefois toute sorte de joueurs d'instruments, surtout quand ils jouaient pour faire danser. Il se prend aujourd'hui plus particulièrement, mais toujours en raillerie, pour un joueur de violon. »P. 47Parbleu« Parbieu » : « Sorte de serment burlesque, et cependant inventé par une espèce de modestie, pour éviter le véritable serment *par Dieu*. » ; « Parbleu : autre sorte de serment burlesque, qui signifie la même chose. » (*Dictionnaire* de Trévoux, 1771).P. 36Pointe« Se dit figurément en choses spirituelles et morales. La pointe de l'esprit s'émousse par la débauche continuelle. Ce jeune homme a beaucoup de vivacité, de pointe d'esprit. Les épigrammes doivent finir par quelque agréable pointe. Les pointes sont des équivoques, et des jeux d'esprit. Il faut se donner de garde des fausses pointes, des turlupinades. » (*Dictionnaire universel* de Furetière). Le *Dictionnaire de l'Académie française* de 1762 contient ce même sens : « pensée qui surprend par quelque subtilité d'imagination, par quelque jeu de mots. »P. 18Récitatif« Sorte de chant qui approche le plus de la prononciation ordinaire. » (*Dictionnaire de l'Académie française*, 1694) ; « Sorte de chant qui n'est point assujetti à la mesure, et qui doit être débité. » (*Dictionnaire de l'Académie française*, 1762).P. 29Tabellion« Notaire, Officier public qui reçoit et passe les contrats et autres actes. *Notaire et tabellion royal.* Ce mot n'est guère en usage qu'en certaines provinces, surtout dans les campagnes. » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 1, 17, 40Trait« Des beaux endroits d'un discours, de ce qu'il y a de vif, et de brillant dans une pensée, dans une expression. *Il y a de beaux traits d'éloquence dans ce discours. un beau trait d'esprit, un trait de raillerie.* » (*Dictionnaires de l'Académie française*, 1694 et 1762).P. 24Turlupinade*Dictionnaire universel* de Furetière pour « turlupins » : « C'étaient des religieux hérétiques, ou plutôt une certaines secte de gens qui faisaient profession publique d'impudence, qui marchaient nus sans cacher leurs parties honteuses, et qui se mêlaient avec les femmes à la manière des cyniques en plein marché. Ils voulurent s'établir à Paris en 1372. Ils appelaient leur secte la *fraternité des pauvres*. Mais on les fit tous périr par le feu avec leurs livres, comme rapportent Gaguin et du Tillet en la vie de Charles V. … On a appelé de ce nom un comédien fameux de Paris, dont le talent était de faire rire par de méchantes pointes et équivoques qu'on a appelées *turlupinades*, et ses imitateurs *turlupins*. Ils ne sont par malheur que trop fréquents. » Et le *Dictionnaire de l'Académie française* de 1762 va dans le même sens : « mauvaise plaisanterie, fondée ordinairement sur quelque allusion basse, et sur quelques mauvais jeux de mots. »P. 29
 
 
-## Annexe 1 : Grimarest évoquant le fameux souper [501]
+## Annexe 1 : Grimarest évoquant le fameux souper [501].
 
 Connaître Molière était un mérite que l'on cherchait à se donner avec empressement : d'ailleurs M. de Chapelle soutenait sa table avec honneur. Il fit un jour partie avec M. de J., de N. et de L. pour aller se réjouir à Auteuil avec leur ami. Nous venons souper avec vous, dirent-ils à Molière. J'en aurais, dit-il, plus de plaisir si je pouvais vous tenir compagnie ; mais ma santé ne me le permettant pas, je laisse à M. de Chapelle le soin de vous régaler du mieux qu'il pourra. … Molière pris son lait devant eux, et s'alla coucher.
 
@@ -2565,7 +2565,7 @@ Les convives se mirent à table : les commencements du repas furent froids : c
 Comment ! Messieurs, poursuit Molière aux débauchés, que vous ai-je fait pour former un si beau projet sans m'en faire part ! Quoi vous voulez vous noyer sans moi ? Je vous croyais plus de mes amis. Il a parbleu raison, dit Chapelle, voilà une injustice que nous lui faisions. Viens donc te noyer avec nous. Oh ! doucement, répondit Molière ; ce n'est point ici une affaire à entreprendre mal à propos : c'est la dernière action de notre vie, il n'en faut pas manquer le mérite. On serait assez malin pour lui donner un mauvais jour, si nous nous noyons à l'heure qu'il est : on dirait à coup sûr que nous l'aurions fait la nuit, comme des désespérés, ou comme des gens ivres. Saisissons le moment qui nous fasse le plus d'honneur, et qui réponde à notre conduite. Demain sur les huit à neuf heures du matin, bien à jeun et devant tout le monde nous irons nous jeter la tête devant dans la rivière. … Sans la présence d'esprit de Molière il serait infailliblement arrivé du malheur, tant ces messieurs étaient ivres, et animés contre ceux qui les avaient empêchés de se noyer. 
 
 
-## Annexe 2 : la même anecdote, par Mongrédien [502]
+## Annexe 2 : la même anecdote, par Mongrédien [502].
 
 Contrairement à son humeur accoutumée, qui était joyeuse, Chapelle, ce soir-là, avait le vin triste :
 
@@ -2592,10 +2592,10 @@ Resté seul avec Chapelle et ses amis, Molière prit un autre ton :
 Tout le monde convint que Molière avait raison et on alla se coucher. Le lendemain, bien entendu, personne ne parla plus de ce glorieux projet…
 
 
-## Bibliographie
+## Bibliographie.
 
 
-### Outils de travailDictionnaire
+### Outils de travail.Dictionnaire
 Cent verbes conjugués en Français médiéval
 Bibliographie de la littérature française du XVIII*e* siècle
 Le Siècle des Lumières, Bibliographie chronologique
@@ -2627,7 +2627,7 @@ Dictionnaire philosophique
 
 
 
-### Ouvrages antérieurs à 1800La Fameuse comédienne, ou Histoire de la Guérin, auparavant femme et veuve de Molière
+### Ouvrages antérieurs à 1800.La Fameuse comédienne, ou Histoire de la Guérin, auparavant femme et veuve de Molière
 La Morale d'Épicure tirée de ses propres écrits
 Épître à Racine
 Œuvres complètes
@@ -2663,10 +2663,10 @@ Vie de Molière
 
 
 
-### Ouvrages postérieurs à 1800
+### Ouvrages postérieurs à 1800.
 
 
-#### ÉditionsMolière avec ses amis ou la soirée d'Auteuil
+#### Éditions.Molière avec ses amis ou la soirée d'Auteuil
 Curiosités esthétiques, l'Art romantique, et autres œuvres critiques
 Moliérana, un recueil d'aventures, anecdotes, bons mots et traits plaisants de Pocquelin de Molière
 La Mort de Molière
@@ -2676,7 +2676,7 @@ Les Mémoires d'un veuf
 
 
 
-#### ÉtudesHistoire de la littérature française au XVII*e*
+#### Études.Histoire de la littérature française au XVII*e*
 Le Théâtre révolutionnaire de 1789 à 1794, la déchristianisation des planches
 La Révolution française, dynamique et ruptures, 1787-1804*e*
 Bibliographie universelle, ancienne et moderne, supplément
@@ -2749,7 +2749,7 @@ Le Théâtre de la Révolution
 
 
 
-#### Sites internet (consultés de janvier à septembre 2014)
+#### Sites internet (consultés de janvier à septembre 2014).
 
 http://www.cesar.org.uk (Calendrier Électronique des Spectacles sous l'Ancien Régime et sous la Révolution).
 

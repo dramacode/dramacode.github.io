@@ -16,7 +16,7 @@ A PARIS, Chez CHARLES OSMONT, dans la grande Salle du Palais, du costé de la Co
 Édition critique établie par Fabienne Régnier sous la direction de Georges Forestier (1999)
 
 
-# Introduction
+# Introduction.
 
 Le XVII*e* siècle, époque particulièrement féconde en écrivains prestigieux, a révélé des auteurs tels que Pascal, Bossuet, La Fontaine, La Rochefoucauld... Tous ces poètes distingués par la postérité en raison de leur génie ont eu tendance dès le XVIII*e* siècle à éclipser le talent de certains autres auteurs injustement oubliés dans nos histoires littéraires. Il en est ainsi de Claude Boyer, dramaturge classique reconnu et respecté en son temps. En dépit de la rivalité malheureuse qu'il entretint avec Racine et ses partisans, au nombre desquels on comptait Boileau, La Fontaine ou Furetière, il ne renonça jamais à faire paraître ses œuvres sur les différentes scènes parisiennes. Sa carrière littéraire, remarquable par sa pérennité – longue de plus de cinquante ans – et sa fécondité – il est l'auteur de plus d'une vingtaine d'œuvres – fut néanmoins tourmentée dans ses dernières années par les attaques répétées de ses adversaires déclarés. Sa production, il est vrai, pas toujours égale, souvent couronnée de succès, a été réimprimée à de trop rares occasions, ce dont se plaint le premier, Jules Rolland :
 
@@ -29,7 +29,7 @@ Suivant les exemples de Christian Delmas pour *Les Amours de Jupiter et de Sém�
 Nous n'en persistons pas moins à dire que *Le comte d'Essex* est une œuvre d'une valeur réelle, et qui mériterait certainement la réimpression [2].
 
 
-# La carrière de Claude Boyer
+# La carrière de Claude Boyer.
 
 Né à Albi en 1618, Claude Boyer vit sa formation assurée au collège des jésuites qu'il quitta fort d'avoir obtenu son baccalauréat en théologie ainsi que le titre d'abbé. Influencé par l'enseignement jésuite fondé sur l'étude de la rhétorique, des auteurs latins et grecs et sensibilisé, d'autre part, à la pratique du théâtre que ses maîtres encourageaient, Boyer se tourna assez naturellement vers une carrière littéraire. Au cours de l'année 1645, âgé alors de vingt-sept ans, il quitta sa ville natale pour Paris, accompagné de son fidèle compagnon d'études, Michel Leclerc. Tous les deux, une tragédie dans leurs bagages, ils montèrent à l'assaut de la capitale où se côtoyaient académiciens, lettrés, éditeurs et courtisans. En quête de reconnaissance, Boyer devint rapidement un assidu de l'Hôtel de Mme de Rambouillet à qui il rendit généreusement hommage dans la dédicace de sa première tragédie, *La Porcie romaine*.
 
@@ -100,7 +100,7 @@ Il travailla par ailleurs à la glose de quelques passages extraits de la Bible,
 Il a sanctifié ses dernières productions en les adressant au Ciel [13].
 
 
-## Œuvres de théâtre publiées
+## Œuvres de théâtre publiées.
 
 *La Porcie romaine*, tragédie, paris, A. Courbé, 1646, in-4°.
 
@@ -153,7 +153,7 @@ Il a sanctifié ses dernières productions en les adressant au Ciel [13].
 *Méduse*, tragédie en musique, Paris, C. Ballard, 1697, in-4°.
 
 
-## Œuvres de théâtre non publiées
+## Œuvres de théâtre non publiées.
 
 *Tigrane*, tragédie représentée à l'Hôtel de Bourgogne, le 31 décembre 1660.
 
@@ -332,7 +332,7 @@ Sa Poësie est dure, chevillée, pleine d'expressions froides ou basses, et jama
 Quoiqu'il en soit Boyer ne baissa jamais les armes faisant représenter ses pièces sur les planches de l'Hôtel de Bourgogne notamment et parvenant même en 1685 à faire paraître les *Œuvres de M. l'abbé Boyer*.
 
 
-# Création et réception de la pièce
+# Création et réception de la pièce.
 
 Après un début de carrière prometteur, Boyer, le « meilleur émule de Corneille [32] » , était considéré comme l'un des tout premiers dramaturges de sa génération jusqu'à ce que la concurrence avec Racine vienne ternir définitivement ses dernières productions. Depuis toujours en quête de reconnaissance, Boyer s'adapta au goût du public de son temps et suivit de plus en plus près le modèle racinien. *Le Comte d'Essex*, à ce titre, marque un tournant décisif dans l'œuvre du poète. Le héros devenu faillible, en prise avec une passion dévorante, doit faire face malgré tout à des enjeux politiques, luttant pour le pouvoir et le devenir de l'État. Les caractères des personnages soigneusement travaillés relèvent avec subtilité une intrigue politique simple : la conspiration de deux courtisans contre le favori d'une reine éprise de ce dernier. Comme La Calprenède l'avait fait avant lui, Boyer mêle à cette donnée minimale politique l'épisode amoureux indispensable à toute bonne tragédie au XVII*e* siècle : le cœur du favori est engagé ailleurs et plus encore auprès de la confidente de cette même souveraine. Un couple d'amants – le favori et sa bien aimée qui n'est autre que la confidente de la souveraine – tente de protéger leur passion, née dans leur jeunesse, d'une amoureuse qui se sert de la coercition du pouvoir pour satisfaire son amour. Cette situation semble-t-il calquée sur celle de *Bajazet* de Racine soulève l'interrogation suivante : un souverain doit-il sacrifier sa passion amoureuse aux obligations de son rang ? Cette trame minimale est toute la matière d'une tragédie proprement classique où l'action une fois engagée ne peut aboutir qu'au dénouement annoncé dès la première scène : la mort du héros et la déploration d'une reine affligée par la reconnaissance [33] de l'innocence de celui-ci.
 
@@ -346,7 +346,7 @@ Boyer s'oppose ainsi à Racine notamment, faisant référence en l'occurrence à
 Comme Boyer le note dans sa préface, il entama la création du *Comte d'Essex* en novembre 1677, « quelques six semaines tout au plus avant la premiere representation de celle qui a esté joüée à l'Hostel de Bourgogne sous le mesme titre [36] » , c'est-à-dire le *Comte d'Essex* de Thomas Corneille, représenté pour la première fois le 7 janvier 1678. Malgré ce qu'il affirme dans sa préface (p. 2) , il est vraisemblable que Boyer, poussé par la troupe de l'Hôtel de Guénégaud, entreprit cette tragédie pour profiter du succès annoncé (voir note 3 p. 3) de la pièce de Thomas Corneille. Désormais malmené par la critique, Boyer releva le défit qui, une fois couronné de succès, pourrait lui rapporter la reconnaissance incontestable à laquelle il aspirait depuis ses débuts. Celle de son concurrent suscita un engouement réel et durable tandis que la sienne, représentée pour la première fois le 25 février 1678, n'obtint qu'un succès modeste. Elle ne fut représentée que huit fois jusqu'au 13 mars 1678 puis deux fois en juillet et une dernière fois en septembre. Boyer ne reçut que 387 francs, 8 sous, ce qui ne l'empêcha pas cependant d'afficher sa satisfaction : « Le succés a passé mon attente [37] » , affirmation qu'il réitéra dans la préface d'*Artaxerce*, révélant néanmoins les pratiques douteuses de ses détracteurs cherchant à provoquer la chute des pièces d'un dramaturge de plus en plus menaçant pour le maître de la tragédie en cet fin de siècle – sinon pourquoi déployer tant d'énergie à perdre un médiocre poète ? Il n'en est pas moins vrai que cet « Ouvrage qui n'avoit ny la grace de la nouveauté, ny les avantages de la concurrence [38] » fut rapidement publié – achevé d'imprimer pour la première fois le 20 avril 1678 – et ne fut jamais repris sur aucune scène malgré les réelles qualités qu'il présente et que nous nous proposons de mettre en lumière.
 
 
-# Mise en oeuvre des sources « historiques »
+# Mise en oeuvre des sources « historiques ».
 
 Boyer évoque la dégradation des relations d'Elisabeth I*re* et du comte d'Essex, peu de temps avant la fin de son règne assombri par le décès de son favori et des difficultés économiques et politiques. Il puisa son sujet dans la tragédie du même titre de La Calprenède.
 
@@ -375,12 +375,12 @@ Inventé ou pas, cet élément s'inscrit dans ce que les esprits classiques ont 
 Un dernier élément historique est particulièrement fructueux dans la pièce de Boyer : le refus d'Essex de s'humilier. Ce refus est soutenu par le tempérament orgueilleux et fier du Comte, caractère exacerbé sous la plume de Boyer. Dramaturge ingénieux, il combine tous ces éléments historiques ou pseudo historiques pour soutenir une intrigue dont l'enjeu réside dans le choix entre le devoir dû à son rang et la passion amoureuse. Boyer, à une action principale simple – la conspiration contre le favori de la reine – mêle étroitement l'épisode amoureux en la personne de Clarence, confidente de la reine opposée à Coban et aussi rivale de la souveraine. Le motif déclencheur de l'action tragique reste la trahison supposée c'est-à-dire le conflit politique tandis que l'un des motifs décisifs se trouve être la jalousie de la reine causée par l'épisode amoureux. La reine a alors deux raisons de condamner Essex : sa trahison politique et l'autre amoureuse – Essex trahit l'amour de la reine puisqu'il aime Clarence – même si c'est la jalousie qui joue directement sur sa décision. En fait, les motivations passionnelles et vraisemblables des héros s'intercalent entre les causes politiques et la conséquence tragique c'est-à-dire la mort d'une victime. Cette grande place accordée aux motivations personnelles des héros est une des raisons pour laquelle cette pièce nous semble très racinienne. Nous verrons en outre que les héros loin d'être parfaits comme les héros cornéliens présentent une double facette : à la fois héros, ces personnages vraisemblables, presque « palpables » sont également faillibles. Dès lors, on comprend que Boyer s'est détaché du modèle cornélien qu'il avait jusqu'à présent suivi, non seulement dans le traitement de ses héros mais aussi dans toute la construction de sa tragédie.
 
 
-# Le sujet de la tragédie
+# Le sujet de la tragédie.
 
 Le titre de la pièce indique clairement quel est le sujet de cette tragédie : la mort du comte d'Essex. Favori d'Elisabeth I*re*, il fut néanmoins sacrifié par la reine d'Angleterre suite à des soupçons de haute trahison contre l'empire. Cette donnée initiale qui est tout le sujet du poème retravaillé sous la plume de Boyer se voit grossi néanmoins d'une reine éplorée à la suite du crime qu'elle a permis et de « Pestes de Cour » punis. Il s'agit pour le dramaturge de susciter une émotion exacerbée en provoquant chez le spectateur la crainte et la pitié afin qu'il ressente ce plaisir paradoxal sur lequel repose toute tragédie. C'est ainsi que Boyer à défaut de traiter un sujet qui voit un père conduit à sacrifier son fils ou un frère son frère – meilleurs sujets tragiques qui soient selon Aristote – travaille sur « le surgissement des violences au cœur des alliances [40] » entre un sujet et sa reine liés non seulement par leurs devoirs mais aussi par l'amour que la souveraine voue à celui-ci. Cet affrontement qui peut sembler quelque peu fade, puisque en dehors de tout lien de parenté, satisfait néanmoins parfaitement l'exigence d'un choix de sujet de tragédie étant donné les tempéraments retentissants des deux personnages historiques, que Boyer saura utiliser habilement exagérant même celui d'Essex qu'il rend plus hautain et fier qu'il ne fut. La rivalité politique entre Coban et Essex, en outre, est doublée par un conflit amoureux permettant également le développement du motif efficace de la jalousie et l'introduction de l'indispensable épisode amoureux. Le sujet – c'est-à-dire le dénouement – fait ainsi intervenir un troisième personnage, Clarence, également victime de la coercition politique incarnée par Elisabeth. Si cette dernière ne correspond pas spécialement à l'image que l'on a d'un monarque au XVII*e* siècle en France, elle renvoie cependant discrètement à un situation de régence – seul cas où une femme est amenée à régner en France au XVII*e* siècle – mais aussi au pouvoir monarchique absolu et ne choque pas en cela le public du XVII*e* siècle. En effet, est-il nécessaire de rappeler qu'Elisabeth I*re* ne partagea jamais le pouvoir ne serait-ce qu'avec un époux, malgré la pression de la cour ? Tout son règne durant, elle cultiva cette image mythique de « reine vierge » intouchable qu'elle construisit elle-même. Cette figure mythique de son vivant se prête parfaitement pour le traitement d'un sujet de tragédie, introduisant le dilemme de la reine tiraillée entre la vertu que sa fonction nécessite et son amour, entre son rôle de juge souverain et sa complaisance pour l'accusé. Ce dilemme est servi par deux tempéraments aussi exceptionnels que celui de « Gloriana » et d'Essex, favori orgueilleux. Épiée par ses sujets et l'Europe toute entière, qui n'attend qu'un faux pas de sa part pour l'attaquer, Elisabeth ne peut perdre la face devant un sujet si fier et si arrogant aimé par tout le peuple. L'histoire se prête parfaitement à la mise en actions d'une tragédie : tenue par sa fonction et aveuglée par sa passion, la reine néglige une enquête, minée par les intérêts des différents courtisans, et réclame une humiliation impossible.
 
 
-# Les « Comte d'Essex » de Boyer et La Calprenède
+# Les « Comte d'Essex » de Boyer et La Calprenède.
 
 Mais revenons un instant à la tragédie de La Calprenède, à ses personnages et sa structure interne, aux choix de Boyer, ses emprunts et ses écarts. Si on compare la liste des acteurs des deux poèmes, on constate de grandes similitudes à commencer par les personnages d'Elisabeth et d'Essex à ceci près que l'Essex de La Calprenède est moins soumis que celui de Boyer même s'ils sont tous deux fiers et orgueilleux, traits de caractère qui sont l'un des principaux ressorts de la pièce. Boyer écarte de sa « distribution » le personnage du Comte de Soubtantonne, l'ami du comte d'Essex, qui fut jugé en même tant que ce dernier. Le dramaturge parvient ainsi à simplifier l'intrigue, en resserrant l'action sur la seule destinée d'Essex. Par conséquent, le personnage du comte de Salisbery très discret chez La Calprenède – il n'intervient qu'une seule fois au deuxième acte scène première pour mettre en garde Elisabeth contre la précipitation, soient vingt-quatre vers – voit son rôle largement étoffé chez Boyer. En effet, le poète concentre en un seul personnage, Salisbery, celui de Soubtantonne et celui de Salysbery chez La Calprenède. Cette économie conforme aux règles classiques, en évitant une trop grande dispersion, favorise l'efficacité et donne une certaine épaisseur au personnage. Salisbery n'est pas inculpé chez Boyer – puisque ce n'est pas Soubtantonne – ce qui permet au personnage d'agir et de prendre la défense de son ami lorsque celui-ci est emprisonné, ce que ne peut faire Soubtantonne dans l'autre pièce, entraînant ainsi un dédoublement du rôle de l'ami du héros. En outre, Boyer peut aussi faire apparaître son personnage au sein du jury permettant son intervention en faveur du comte auprès de la reine (III, 1) tandis que La Calprenède avait privilégié une défense d'un autre ordre par l'intervention orale de Soubtantonne en faveur d'Essex.
 
@@ -409,7 +409,7 @@ Pour finir, les cinquièmes actes sont logiquement très dissemblables. On retro
 Cette analyse révèle la grande maîtrise technique de Boyer. Son poème plus structuré, plus « lié » – l'enchaînement de causes et d'effets est soigné – ne présente pas, en outre, les nombreuses ruptures de liaison de scènes (cinq au total) de celui de La Calprenède, ce qui n'est pas sans lien avec l'observation plus flottante de la règle de l'unité de lieu. En effet, tandis que « la scène est à Londres » chez ce dernier, elle se déroule « à Londres dans le Palais Royal » dans l'autre pièce. Avec deux lieux – le palais et la prison – La Calprenède ne peut éviter des ruptures de liaison de scènes. En outre, le style très chevillé que l'on reprocha à Boyer est pire encore chez La Calprenède qui cumule les répétitions en début ou fin de vers pour obtenir un alexandrin. Souvent ses scènes sont de faux dialogues ou de longs monologues tandis que Boyer parvient souvent à éviter les scènes où se succèdent de longues tirades. Enfin surtout, Boyer soigne particulièrement ses débuts et fins d'actes. Il ménage à chaque clôture d'acte un effet de suspension qui maintient l'attention du spectateur en alerte : arrestation du comte (I) , annonce d'un procès (II) , condamnation suivie du premier aveu de Clarence (III) et bague remise à Clarence avec menace d'une mutinerie (IV). Quant aux entrées des actes, Boyer ne manque pas de préciser d'une manière ou d'une autre ce qui s'est déroulé pendant le temps de l'entracte. En outre, ce travail est servi par un « feu » et un style imagé parfois emphatique.
 
 
-# Une construction racinienne
+# Une construction racinienne.
 
 Même si Boyer reprit de nombreux éléments à son modèle, *Le comte d'Essex* de La Calprenède, sa tragédie n'en est pas moins singulière du fait de sa construction. Pour cela, il n'est pas inutile de retrouver les étapes de la démarche créatrice de Boyer. Georges Forestier dans son article *Dramaturgie racinienne, petit essai de génétique théâtrale* rappelle les différents degrés de l'élaboration dramatique :
 
@@ -438,7 +438,7 @@ Nous retenons plus particulièrement ici, comme l'a fait Georges Forestier dans 
 Nous constatons donc que Boyer, pourtant « disciple » de Corneille depuis ses débuts, s'est largement inspiré de l'esthétique racinienne et aussi de l'intrigue de *Bajazet* pour construire celle de son poème. Il ne s'est pas arrêté à cette imitation structurale et s'est appliqué, à l'exemple de son rival, à peindre des « héros » humanisés et faillibles.
 
 
-# Les personnages
+# Les personnages.
 
 Boyer construit donc une intrigue qui emploie le principe racinien de l'action continue ainsi qu'un enchaînement logique de causes et d'effets où non seulement s'intègrent des motifs rationnels mais aussi des motifs purement passionnels comme l'épisode amoureux d'Essex et Clarence, la passion d'Elisabeth pour Essex et encore des motifs de l'ordre des sentiments comme le sens de l'honneur du Comte ou la jalousie de Coban d'une part – motif essentiel puisque déclencheur de l'action – et celle d'Elisabeth d'autre part. Tous ces motifs humains qui entrent directement dans l'intrigue et exercent une influence décisive sur l'action sont le résultat d'une construction minutieuse de personnages dont le tempérament est un élément actif. S'éloignant de la conception cornélienne du héros parfait, Boyer semble, en effet, copier une fois de plus Racine qui revendique le « naturel » de ses personnages plus vraisemblables – Racine dénonce, dans la préface de *Britannicus*, Corneille qui semble « s'écarter du naturel pour se jeter dans l'extraordinaire » et fait « dire aux acteurs tout le contraire de ce qu'ils devraient dire » – personnages auxquels les spectateurs s'identifient plus facilement. Le personnage racinien « ni tout à fait coupable, ni tout à fait innocent [48] » est en fait un héros faillible. Cette notion revendiquée par Racine résulte de la conception Aristotélicienne selon laquelle un homme même vertueux est susceptible de commettre une faute [49], ce que Racine transforme en terme « d'imperfection ». Il renonce donc à peindre le héros dans sa perfection et préfère un héros faillible qui ne suscite pas l'admiration mais la compassion.
 
@@ -504,7 +504,7 @@ D'un indigne attentat m'avez-vous crû capable (v. 342-343) ?
 Il est donc clair que Boyer construit ses personnages sur le modèle racinien introduisant ainsi des motifs humains et vraisemblables dans l'enchaînement causal. Ses héros sont faillibles, imparfaits même s'ils se comportent et réfléchissent souvent comme des héros cornéliens. Clarence moins perfide qu'Atalide qui n'hésite pas à perdre Roxane, Essex tout aussi fier que Bajazet et Elisabeth moins fautive que Roxane qui trahit Amurat font face à un seul « méchant » dont les actions toujours plus noires font des autres personnages des victimes même si elles ne sont « pas tout à fait innocentes ».
 
 
-# Une tragédie judiciaire entre secrets et aveux
+# Une tragédie judiciaire entre secrets et aveux.
 
 L'action de la pièce est comprise entre le moment où le complot de Coban et Raleg commence à mettre en danger Essex et le moment où Essex est exécuté après cette brigue. L'action principale présente Coban cherchant à se débarrasser d'Essex, son rival politique. Mais le conspirateur ne possède pas en main propre le pouvoir de faire tomber Essex ; il est dépendant de la décision d'Elisabeth, principal personnage épisodique qui est aussi amoureuse du comte. La décision de faire exécuter un sujet ou au contraire, de le gracier lui appartient. D'un autre côté, Clarence, le second personnage épisodique, la femme dont Essex est épris, est également la rivale de la reine, rivalité susceptible d'allumer la jalousie dans le cœur d'Elisabeth et de la conduire à condamner sans retour Essex à la mort. Par conséquent, l'épisode directement tiré de l'action principale – Elisabeth doit décider du devenir de son sujet mis en cause par la brigue de Coban – est complètement imbriqué dans l'action principale. L'enchaînement logique de causes et d'effets n'est pas inéluctable. En effet, la décision finale résulte non pas d'événements objectifs – nous reviendrons sur la mutinerie et la bague – mais d'événements plus arbitraires... Seul le procès est un fait concret, c'est même l'événement central qui déclenche une accélération dans l'enchaînement logique. En effet, à l'acte III, la menace devient plus pressante puisque le procès entérine la condamnation à mort du comte. Et pourtant les relations entre Essex, Elisabeth, Coban et Clarence ne changent pas. En fait, depuis le début du premier acte, l'effet des intrigues de Coban contre Essex – premier événement déclencheur de l'action principale – dépend de la capacité de persuasion d'Essex, de celle de dissimulation de Clarence, de celle de manipulation de Coban et de l'aveuglement d'Elisabeth. Il n'y a pas de faits concrets tant que continuent les discours délibératifs, c'est-à-dire jusqu'à la mutinerie et la remise de la bague à la reine. Finalement les actions qui constituent l'intrigue du *comte d'Essex* sont des aveux refusés, des silences interprétés, des défenses stériles puis des aveux successifs avant de laisser la place à l'action.
 
@@ -553,7 +553,7 @@ Il prend soin néanmoins de rappeler les accusations qui pèsent contre lui afin
 Boyer ne fait pas discourir tous ses personnages de la même manière privilégiant la vraisemblance de chaque discours et respectant la constance de leur caractère. Clarence, même si elle essaie d'être subtile et de parler à bonne escient, ne discourt pas de la même manière que Coban, un homme de cour expérimenté et habile qui ne sait pas seulement « et parler et se taire » (v. 116) mais quand parler et se taire ainsi que faire parler. Quant à Essex plus soucieux de sa gloire que de sa vie, il ne sait pas maîtriser ses élans ni son orgueil qui le pousse jusqu'à exprimer son dédain envers ses propres juges.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il n'existe qu'une seule édition du *Comte d'Essex*, exécutée en 1678 par Charles Osmont Ars. : Rf 5648 = microfiche B.N. : ms. 11523. En voici la description :
 
@@ -574,7 +574,7 @@ Il n'existe qu'une seule édition du *Comte d'Essex*, exécutée en 1678 par Cha
 **** 74 pages : le texte de la pièce, précédé d'un rappel du titre en haut de la première page (en dessous d'un bandeau gravé sur bois).
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour l'établissement du texte, nous avons suivi la leçon de cette unique édition. Nous nous sommes toutefois livré à quelques rectifications d'usage qui nous ont paru indispensables pour une parfaite compréhension du texte :
  * nous avons apporté les modifications typographiques qui peuvent gêner le lecteur d'aujourd'hui ; ainsi avons-nous distingué *i* et *u* voyelles, de *j* et *v* consonnes, conformément à l'usage moderne ;
@@ -807,10 +807,10 @@ LA REINE, CLARENCE, COBAN, VALDEN, LEONOR.
     COBAN, *bas*.
 Quelle affreuse pâleur sur son front répanduë. [87]  
 
-    CLARENCE, *bas.* [88]
+    CLARENCE, *bas.* [88].
 Iray-je en cét état combattre sa douleur ?  
 
-    COBAN, *bas.* [89]
+    COBAN, *bas.* [89].
 Iray-je en cét état irriter sa fureur ?  
 
     LEONOR.
@@ -921,7 +921,7 @@ Sans crainte, avec respect vous demander raison.
 Vostre injuste courroux n'a rien que j'apprehende.  
 Vous me devez justice, et je vous la demande.  
 
-    LA REINE *à sa suite.*
+    LA REINE *à sa suite.*.
 Oüy, je vous la rendray. Sortez.  
 
 
@@ -929,7 +929,7 @@ Oüy, je vous la rendray. Sortez.
 LA REINE, LE C. D'ESSEX.
 
 
-    LA REINE *continuë.*
+    LA REINE *continuë.*.
         Leve les yeux :  
 Regarde enfin ta [97] Reine et ces augustes lieux  
 Où les profusions de ma main liberale, [98]  
@@ -1062,7 +1062,7 @@ Vous ferez sa prison de cét appartement. [128]
 
 ### SCENE VIII.
 
-    LA REINE *seule.*
+    LA REINE *seule.*.
 Mais qu'est-ce que je sens ? quel lâche mouvement,  
 Quelle indigne pitié s'eleve dans mon ame ?  
 
@@ -1125,7 +1125,7 @@ Mille autres dans l'Etat peuvent remplir sa place.
 Faites, faites, Coban, qu'il obtienne sa grace :  
 Ou qu'il parle, ou qu'il meure, allez, obeïssez.  
 
-    COBAN *en s'en allant.*
+    COBAN *en s'en allant.*.
 Qu'il parle ou non, le Comte est perdu, c'est [131] assez.  < Fin du premier Acte. > 
 
 
@@ -1248,7 +1248,7 @@ Allez ne craignez rien.
 LE C. D'ESSEX, COBAN.
 
 
-    LE C. D’ESSEX *continuë.*
+    LE C. D’ESSEX *continuë.*.
         Est-ce vous que je voy ?  
 D'où me vient cét honneur ?  
 
@@ -1485,7 +1485,7 @@ LA REINE, CLARENCE, LE C. DE SALISB. COBAN [162].
 Quoy ce fier criminel ne veut pas obeir ?  
 Salisbery, Coban, n'ont peu rien obtenir.  
 
-    CLARENCE *à part.*
+    CLARENCE *à part.*.
 Que luy diray-je ? ô ! Dieu que je crains sa colere !  
 
     LA REINE.
@@ -1566,7 +1566,7 @@ Le sort en est jetté, plus de grace pour luy.
 
 ### SCENE V.
 
-    CLARENCE *seule.*
+    CLARENCE *seule.*.
 Ciel, qui vois [170] les transports d'une Reine charmée,  
 Mon [171] Amant en peril, ma tendresse allarmée,  
 Ciel qui dans cette Reine as mis [172] tant de vertus,  
@@ -1588,7 +1588,7 @@ J'abandonne le reste et ne demande rien. [174]  < Fin du second Acte. >
 LE C. D'ESSEX, POPHAM, LE C. DE SALISB. RALEG, COBAN, VALDEN.
 
 
-    POPHAM. [175]
+    POPHAM. [175].
 Comte d'Essex voyez les bontez de la Reine :  
 Quelques Juges suspects d'interest ou de haine  
 Luy paroissant icy trop à craindre pour vous,  
@@ -1674,7 +1674,7 @@ Mais enfin je suis Juge et veux tout oublier.
 Luy qui s'aime luy seul, qui seul se considere,  
 Coban tranche⁎ du Juge équitable et sincere. [194]  
 
-    RALEG *à Coban.* 
+    RALEG *à Coban.*. 
 Le Comte en offensant ses Juges souverains  
 Rend icy ses forfaits plus grands et plus certains.  
 
@@ -1713,7 +1713,7 @@ Cher Comte je vous plains et vay dire à la Reine
 Ce que font contre vous l'injustice et la haine.   
 
 
-### SCENE II. [196]
+### SCENE II. [196].
 LE C. D'ESSEX, POPHAM, COBAN, RALEG, etc.
 
 
@@ -1855,14 +1855,14 @@ Racheter [221] lâchement le reste de mes jours.
 Quel orgueil !  
 
 
-### SCENE VI.p. 39 Dij
+### SCENE VI.p. 39 Dij.
 LA REINE, LE C. D'ESSEX, COBAN.
 
 
-    COBAN, *bas.*
+    COBAN, *bas.*.
         Quel transport agite ainsi la Reine.  
 
-    LA REINE *aux Gardes.* [222]
+    LA REINE *aux Gardes.* [222].
 Coban qu'on se rassemble. Et vous qu'on le remene. [223]  
 
 
@@ -2171,7 +2171,7 @@ Laissez-moy [250], je n'ay plus besoin de vos sermens.
 
 ### SCENE III.
 
-    LA REINE *seule.*
+    LA REINE *seule.*.
 Ah ! je ne voy que trop ces perfides Amans.  
 Malgré leur artifice une ardeur empressée,  
 Mille soins naturels s'offrent à ma pensée.  
@@ -2340,7 +2340,7 @@ Cruelle vous voyez jusqu'où va ma foiblesse.
 Vous perirez tous deux si le Comte aujourd'huy  
 Ne me demande grace et pour vous et pour luy.  
 
-    CLARENCE. *seule*
+    CLARENCE. *seule*.
 Faut-il pour augmenter ta disgrace cruelle,  
 Cher Amant, t'accabler d'une douleur nouvelle ?  
 
@@ -2484,7 +2484,7 @@ LE C. D'ESSEX, CLARENCE, LE CAP. DES GARDES.
     LE CAP. DES GARDES.
 Par l'ordre de la Reine il faut vous separer. [288]  
 
-    LE C. D’ESSEX *à Clarence.*
+    LE C. D’ESSEX *à Clarence.*.
 Vous voyez son courroux, allez sans differer  
 Faire rendre à la Reine entiere obeissance.  
 Dittes à ces mutins que leur secours m'offence,  
@@ -2497,7 +2497,7 @@ J'irois venger la Reine et la faire obeir.  < Fin du quatriéme acte. >
 
 ### SCENE PREMIERE.
 
-    COBAN, *seul.*
+    COBAN, *seul.*.
 Enfin je voy le Comte au bord du precipice ;  
 Le Peuple en le servant va presser son suplice. [289]  
 Fortune, c'est icy que j'ay besoin de toy.  
@@ -2545,7 +2545,7 @@ Et je n'écoute plus ce soubçon trop cruel,
 Qui m'a fait sans raison condamner vostre zele :  
 Le Comte est un perfide et vous este fidelle.  
 
-    COBAN. [292] 
+    COBAN. [292]. 
 Madame, vous voyez mon trouble et ma douleur.  
 Voyant avec quels traits, avec quelle fureur  
 Les partisans du Comte attaquent vostre gloire....  
@@ -2712,7 +2712,7 @@ Des forfaits que l'on peut te pardonner sans peine,
 Et tu veux confesser et mesme couronner,  
 Un crime qu'on ne doit jamais te pardonner. [318]  
 
-    LE C. D’ESSEX. [319]
+    LE C. D’ESSEX. [319].
 Est-ce un crime d'avoir soupiré pour un autre [320] ?  
 Si cét amour est né sans connoistre le vostre ?  
 Vous sçavez ce que c'est qu'une premiere ardeur,  
@@ -2806,7 +2806,7 @@ Ciel, fais tomber sur moy toute son injustice.
 
 ### SCENE V.
 
-    LA REINE *seule.*
+    LA REINE *seule.*.
 Ma haine enfin triomphe et finit mes malheurs ;  
 C'en est fait. Mais que fais-je ? il m'échape des pleurs.  
 Le perfide en mourant laisse-t'il dans mon ame  
@@ -2864,10 +2864,10 @@ Oüy le Comte vivra.
     COBAN.
         Quel est ce changement ?  
 
-    LA REINE *à Leonor.*
+    LA REINE *à Leonor.*.
 Vous, portez luy sa grace, et sans perdre un moment.  
 
-    COBAN *en s'en allant.*
+    COBAN *en s'en allant.*.
 O Ciel !   
 
 
@@ -3027,10 +3027,10 @@ Registré sur le Livre de la Communauté le 7. jour d'Avril 1678. Signé, *coute
 Achevé d'imprimer pour la premiere fois le 20. Avril 1678.
 
 
-# GlossaireAimableSignifie selon Furetière « Qui a des qualitez qui attirent l'amour, ou l'amitié de quelqu'un ».« Je sçay vos feux secrets pour l'aimable Clarence » (v. 388)Autres occurrences : v. 756, 766, 789.AssurerCe verbe peut signifier, selon Furetière, « Rendre témoignage de la verité. » Dans le cas présent, la reine et l'innocence d'Essex sont le gage de son honnêteté.« M'assurer sur ma Reine et sur mon innocence » (v. 666)BalancerLe D. Académie fr. signale que le verbe « balancer » « signifie encore Empêcher de prévaloir, égaler en importance, en mérite, etc... ».« Luy de qui la puissance et si vaste et si pleine / Balance les destins du Thrône et de la Reine ? » (v. 91-92)C'est la puissance du Comte qui égale en importance celle de la reine ce qui met en péril le trône. Il est précisé plus loin dans l'article, à titre d'exemple, « Balancer la victoire, la rendre certaine. » Cette explication prend pleinement son sens dans cette occurrence puisque c'est le destin de l'Etat qui est menacé par la puissance du comte – désigné d'ailleurs au v. 94 par l'expression « ce criminel et dangereux pouvoir ».« Balancer, se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. » Furetière donne plusieurs fois l'exemple du juge qui hésite avant de prendre sa décision, situation d'Elisabeth relevée par Coban« Elle qui de son nom remplit toute la terre, / Sur un foible sujet balance son tonnerre, / N'ose lancer la foudre et menage ses jours. » (v. 315-317)Autre occurrence : v. 378 (où balancer prend le sens d'hésiter.)BriguerCe verbe signifie, selon Furetiere, « tascher d'obtenir quelque chose par cabale. » Or Coban évoque une situation particulière, celle d'un complot contre le Comte d'Essex, devant aboutir à son élimination – « le Comte n'estant plus » – situation qui justifie l'emploi du verbe dans son sens plein énoncé plus haut. Néanmoins, sorti du contexte, le vers 36 peut prendre le sens affaibli de « solliciter, rechercher avec empressement. » (D. Académie fr.) , d'autant plus que la mention « avec quelque justice » insiste sur le caractère légitime de l'espérance de Coban.Il nous semble juste de souligner cette ambiguïté de sens tout à fait ironique de la part de Coban dont le goût pour les jeux de mots est évident (voir sur ce point la note du vers 12).« Le Comte n'estant plus, s'il faut qu'elle choisisse, / Je puis briguer son choix avec quelque justice. » (v. 35-36)V. 882 « notre Raleg et Coban brigue »CourageElisabeth n'emploie pas le terme de courage au sens courant de « vertu qui éleve l'ame, et qui la porte à mépriser les périls... » (Furetière) comme elle le fait quand elle évoque la vaillance du comte.« Ce dernier déplaisir accable mon courage. » (v. 1300)Mais la reine fait allusion à son ardeur, son « affection » pour Essex.V. 1431CouvertSelon Furetière, « se dit figurément en choses morales. C'est un scelerat qui est fort couvert de crimes ». C'est dans ce sens qu'Essex s'exprime au vers 552 : « M'aimerez-vous couvert de honte et d'infamie ? ». Furetière continue ainsi : « Il y a une inimitié couverte, c'est-à-dire cachée, entre ces deux hommes. »V. 552Au vers 20, une « ligue couverte » signifie donc une ligue secrète.« Les soubçons apparens d'une ligue couverte, » (v. 20)Furetière explique que couvert « en termes de Palais, se dit des choses contre lesquelles on a de bonnes deffenses. Cette demande est couverte par un compte... ». L'expression « à couvert » suggère qu'Essex est hors de danger. La bague lui garantit la vie sauve.« Le Comte est à couvert, il en a vostre foy. / Ce don de vostre main... » (v. 1477-1478)EnnuyFuretière propose cette définition : « chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. » ; ce que Alain Rey, dans son dictionnaire historique, désigne par « tourment, grande contrariété » , ajoutant « C'est encore le sens dominant dans les tragédies de Racine »« Je le dis entre nous, ce qu'on admire en luy / Est un sujet pour moy de fureur et d'ennuy. » (v. 13-14)Il nous semble qu'en l'occurrence, les synonymes – tourment, grande contrariété – conviennent tout à fait, puisque ennuy est associé au substantif « fureur » – entendu comme « colère violente et démesurée » qui « jette les hommes dans quelque excès. » (Furetière).Autres occurrences : v. 1503, 1513.EtonnerAlain Rey note dans son dictionnaire historique que le sens étymologique de ce verbe est « frapper de stupeur ». Par extansion, étonner s'emploie au sens de « terroriser » et même « ébranler ». Au vers 66, le « Ciel équitable » ébranle « l'Univers ».Etonner aujourd'hui a conservé le sens affaibli de « causer de la surprise à quelqu'un » tandis qu'au XVII*e* siècle, c'est une surprise emprunte de terreur qui saisit la personne étonnée :« Je m'oppose à sa fuitte, il s'étonne à ma veuë, » (v. 1547 : Coban est surpris et effrayé à la vue de Salisbery s'opposant à sa fuite.)Flatter« Entrer dans les vues, partager les sentiments de quelqu'un » (D. Académie fr.). Nous pensons que le premier vers « Ah cher amy, tout flatte et soutient nos desseins » est à comprendre dans ce sens. D'ailleurs au vers 55, Clarence ne déclare-t-elle pas, « tout rit à vos souhaits ». Les desseins de Coban et de Raleg ont de « belles espérances » (Furetière) d'aboutir.Autres occurrences : v. 22, 983.GesneLe sens premier de gesne est l'instrument de torture ou le supplice que l'on inflige. Ce terme évoque une notion de souffrance que l'on retrouve dans son sens dérivé : « se dit aussi de toute peine ou affliction de corps ou d'esprit. » (Furetière).« Mais quittons l'un et l'autre un discours qui nous gesne. » (v. 451).Coban demande à Essex d'abandonner un discours qui les fait souffrir l'un et l'autre et qui prend l'allure d'une torture morale.InsulterAu XVII*e* siècle, insulter peut se construire suivi de la préposition « à ».Ici, insulter signifie : « Affliger quelqu'un qui est desja affligé, lui reprocher sa misere, et s'en réjouir … un homme qui voit son ennemi en prison, en disgrace, luy insulte, et se resjouit de son infortune. » (Furetière).« Vous venez insulter au malheur qui m'accable » (v. 407)IntelligenceSelon Furetière, c'est une « union, amitié de deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun différent. » Il ajoute « se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autrui. »« Vostre cœur et le sien sont trop d'intelligence. » (v. 607)Autres occurrences : v. 645, 991.PrévenirIl faut différencier trois sens différents.Prévenir est employé au sens premier de « Estre le premier à faire la même chose » (Furetière) c'est-à-dire « devancer » (D. Académie fr.). Le comte d'Essex a devancé l'ordre de la reine qui lui demande de se présenter devant elle.« J'ay prevenu vostre ordre » (v. 169) Autre occurrence : v. 1510.Prévenir peut aussi signifier « Faire naître par avance dans l'esprit des sentiments favorables ou défavorables. ... Le participe passé PREVENU s'emploie comme adjectif et signifie Qui a par avance des sentiments favorables ou défavorables. Il est le plus souvent péjoratif. » Et le D. Académie fr. de donner l'exemple suivant : « C'est un esprit prévenu ».« D'un injuste soubçon vôtre ame prévenüe » (v. 427)Autre occurrence : v. 413.Enfin, prévenir « signifie spécialement Aller au-devant de quelque chose de fâcheux pour le détourner, empêcher par ses précautions qu'il n'arrive » (D. Académie fr.). « Qu'on me l'amene. Vous, prevenez nos alarmes, / Et voyez si le peuple est toujours sous les armes » (v. 1315-1316 : la reine a pour dessein d'empêcher une rébellion populaire).Autre occurrence : v. 1453.SoûlerLe verbe soûler est employé à trois reprises dans son sens figuré. Furetière le définit ainsi : « se dit aussi de ce qui remplit les autres organes des sens et même l'esprit. Un amant ne peut saouler ses yeux des beautez de sa maîtresse. ».« Je soûleray mes yeux de son sang et du vostre, ». Au vers 1100, par exemple, soûler prend le sens d'assouvir, de rassasier.Autres occurrences : v. 186, v. 1314.Surprendre« Tromper quelqu'un, lui faire faire une chose trop à la haste, ou en lui exposant faux » (Furetière).« J'Essex ay part à vos forfaits et ce fut là mon crime / D'avoir voulu pour vous Coban surprendre son Elisabeth estime, » (v. 471-472)Pour tromper Coban, Essex a tout fait pour mériter l'estime de la reine (= avoir voulu son estime).Autre occurrence : v. 1094.« Surprendre, Signifie aussi, Saisir, intercepter »« Je sçay qu'on ne sauroit vous surprendre un secret, » (v. 942)Coban est si discret que l'on ne peut intercepter aucun de ses secrets.Autre occurrence : v. 1090.TrancherSelon Furetière, « Trencher, se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre plus qu'ils ne sont. Il trenche du grand Seigneur, pour dire, Il fait le grand Seigneur »« Coban tranche du Juge équitable et sincere » (v. 702)Essex emploie donc ce verbe de façon ironique pour dire que Coban joue le rôle du juge juste et honnête. En effet, Coban vient juste de répliquer aux allusions outrageantes du comte par l'indifférence d'un juge compatissant.
+# Glossaire.AimableSignifie selon Furetière « Qui a des qualitez qui attirent l'amour, ou l'amitié de quelqu'un ».« Je sçay vos feux secrets pour l'aimable Clarence » (v. 388)Autres occurrences : v. 756, 766, 789.AssurerCe verbe peut signifier, selon Furetière, « Rendre témoignage de la verité. » Dans le cas présent, la reine et l'innocence d'Essex sont le gage de son honnêteté.« M'assurer sur ma Reine et sur mon innocence » (v. 666)BalancerLe D. Académie fr. signale que le verbe « balancer » « signifie encore Empêcher de prévaloir, égaler en importance, en mérite, etc... ».« Luy de qui la puissance et si vaste et si pleine / Balance les destins du Thrône et de la Reine ? » (v. 91-92)C'est la puissance du Comte qui égale en importance celle de la reine ce qui met en péril le trône. Il est précisé plus loin dans l'article, à titre d'exemple, « Balancer la victoire, la rendre certaine. » Cette explication prend pleinement son sens dans cette occurrence puisque c'est le destin de l'Etat qui est menacé par la puissance du comte – désigné d'ailleurs au v. 94 par l'expression « ce criminel et dangereux pouvoir ».« Balancer, se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. » Furetière donne plusieurs fois l'exemple du juge qui hésite avant de prendre sa décision, situation d'Elisabeth relevée par Coban« Elle qui de son nom remplit toute la terre, / Sur un foible sujet balance son tonnerre, / N'ose lancer la foudre et menage ses jours. » (v. 315-317)Autre occurrence : v. 378 (où balancer prend le sens d'hésiter.)BriguerCe verbe signifie, selon Furetiere, « tascher d'obtenir quelque chose par cabale. » Or Coban évoque une situation particulière, celle d'un complot contre le Comte d'Essex, devant aboutir à son élimination – « le Comte n'estant plus » – situation qui justifie l'emploi du verbe dans son sens plein énoncé plus haut. Néanmoins, sorti du contexte, le vers 36 peut prendre le sens affaibli de « solliciter, rechercher avec empressement. » (D. Académie fr.) , d'autant plus que la mention « avec quelque justice » insiste sur le caractère légitime de l'espérance de Coban.Il nous semble juste de souligner cette ambiguïté de sens tout à fait ironique de la part de Coban dont le goût pour les jeux de mots est évident (voir sur ce point la note du vers 12).« Le Comte n'estant plus, s'il faut qu'elle choisisse, / Je puis briguer son choix avec quelque justice. » (v. 35-36)V. 882 « notre Raleg et Coban brigue »CourageElisabeth n'emploie pas le terme de courage au sens courant de « vertu qui éleve l'ame, et qui la porte à mépriser les périls... » (Furetière) comme elle le fait quand elle évoque la vaillance du comte.« Ce dernier déplaisir accable mon courage. » (v. 1300)Mais la reine fait allusion à son ardeur, son « affection » pour Essex.V. 1431CouvertSelon Furetière, « se dit figurément en choses morales. C'est un scelerat qui est fort couvert de crimes ». C'est dans ce sens qu'Essex s'exprime au vers 552 : « M'aimerez-vous couvert de honte et d'infamie ? ». Furetière continue ainsi : « Il y a une inimitié couverte, c'est-à-dire cachée, entre ces deux hommes. »V. 552Au vers 20, une « ligue couverte » signifie donc une ligue secrète.« Les soubçons apparens d'une ligue couverte, » (v. 20)Furetière explique que couvert « en termes de Palais, se dit des choses contre lesquelles on a de bonnes deffenses. Cette demande est couverte par un compte... ». L'expression « à couvert » suggère qu'Essex est hors de danger. La bague lui garantit la vie sauve.« Le Comte est à couvert, il en a vostre foy. / Ce don de vostre main... » (v. 1477-1478)EnnuyFuretière propose cette définition : « chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. » ; ce que Alain Rey, dans son dictionnaire historique, désigne par « tourment, grande contrariété » , ajoutant « C'est encore le sens dominant dans les tragédies de Racine »« Je le dis entre nous, ce qu'on admire en luy / Est un sujet pour moy de fureur et d'ennuy. » (v. 13-14)Il nous semble qu'en l'occurrence, les synonymes – tourment, grande contrariété – conviennent tout à fait, puisque ennuy est associé au substantif « fureur » – entendu comme « colère violente et démesurée » qui « jette les hommes dans quelque excès. » (Furetière).Autres occurrences : v. 1503, 1513.EtonnerAlain Rey note dans son dictionnaire historique que le sens étymologique de ce verbe est « frapper de stupeur ». Par extansion, étonner s'emploie au sens de « terroriser » et même « ébranler ». Au vers 66, le « Ciel équitable » ébranle « l'Univers ».Etonner aujourd'hui a conservé le sens affaibli de « causer de la surprise à quelqu'un » tandis qu'au XVII*e* siècle, c'est une surprise emprunte de terreur qui saisit la personne étonnée :« Je m'oppose à sa fuitte, il s'étonne à ma veuë, » (v. 1547 : Coban est surpris et effrayé à la vue de Salisbery s'opposant à sa fuite.)Flatter« Entrer dans les vues, partager les sentiments de quelqu'un » (D. Académie fr.). Nous pensons que le premier vers « Ah cher amy, tout flatte et soutient nos desseins » est à comprendre dans ce sens. D'ailleurs au vers 55, Clarence ne déclare-t-elle pas, « tout rit à vos souhaits ». Les desseins de Coban et de Raleg ont de « belles espérances » (Furetière) d'aboutir.Autres occurrences : v. 22, 983.GesneLe sens premier de gesne est l'instrument de torture ou le supplice que l'on inflige. Ce terme évoque une notion de souffrance que l'on retrouve dans son sens dérivé : « se dit aussi de toute peine ou affliction de corps ou d'esprit. » (Furetière).« Mais quittons l'un et l'autre un discours qui nous gesne. » (v. 451).Coban demande à Essex d'abandonner un discours qui les fait souffrir l'un et l'autre et qui prend l'allure d'une torture morale.InsulterAu XVII*e* siècle, insulter peut se construire suivi de la préposition « à ».Ici, insulter signifie : « Affliger quelqu'un qui est desja affligé, lui reprocher sa misere, et s'en réjouir … un homme qui voit son ennemi en prison, en disgrace, luy insulte, et se resjouit de son infortune. » (Furetière).« Vous venez insulter au malheur qui m'accable » (v. 407)IntelligenceSelon Furetière, c'est une « union, amitié de deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun différent. » Il ajoute « se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autrui. »« Vostre cœur et le sien sont trop d'intelligence. » (v. 607)Autres occurrences : v. 645, 991.PrévenirIl faut différencier trois sens différents.Prévenir est employé au sens premier de « Estre le premier à faire la même chose » (Furetière) c'est-à-dire « devancer » (D. Académie fr.). Le comte d'Essex a devancé l'ordre de la reine qui lui demande de se présenter devant elle.« J'ay prevenu vostre ordre » (v. 169) Autre occurrence : v. 1510.Prévenir peut aussi signifier « Faire naître par avance dans l'esprit des sentiments favorables ou défavorables. ... Le participe passé PREVENU s'emploie comme adjectif et signifie Qui a par avance des sentiments favorables ou défavorables. Il est le plus souvent péjoratif. » Et le D. Académie fr. de donner l'exemple suivant : « C'est un esprit prévenu ».« D'un injuste soubçon vôtre ame prévenüe » (v. 427)Autre occurrence : v. 413.Enfin, prévenir « signifie spécialement Aller au-devant de quelque chose de fâcheux pour le détourner, empêcher par ses précautions qu'il n'arrive » (D. Académie fr.). « Qu'on me l'amene. Vous, prevenez nos alarmes, / Et voyez si le peuple est toujours sous les armes » (v. 1315-1316 : la reine a pour dessein d'empêcher une rébellion populaire).Autre occurrence : v. 1453.SoûlerLe verbe soûler est employé à trois reprises dans son sens figuré. Furetière le définit ainsi : « se dit aussi de ce qui remplit les autres organes des sens et même l'esprit. Un amant ne peut saouler ses yeux des beautez de sa maîtresse. ».« Je soûleray mes yeux de son sang et du vostre, ». Au vers 1100, par exemple, soûler prend le sens d'assouvir, de rassasier.Autres occurrences : v. 186, v. 1314.Surprendre« Tromper quelqu'un, lui faire faire une chose trop à la haste, ou en lui exposant faux » (Furetière).« J'Essex ay part à vos forfaits et ce fut là mon crime / D'avoir voulu pour vous Coban surprendre son Elisabeth estime, » (v. 471-472)Pour tromper Coban, Essex a tout fait pour mériter l'estime de la reine (= avoir voulu son estime).Autre occurrence : v. 1094.« Surprendre, Signifie aussi, Saisir, intercepter »« Je sçay qu'on ne sauroit vous surprendre un secret, » (v. 942)Coban est si discret que l'on ne peut intercepter aucun de ses secrets.Autre occurrence : v. 1090.TrancherSelon Furetière, « Trencher, se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre plus qu'ils ne sont. Il trenche du grand Seigneur, pour dire, Il fait le grand Seigneur »« Coban tranche du Juge équitable et sincere » (v. 702)Essex emploie donc ce verbe de façon ironique pour dire que Coban joue le rôle du juge juste et honnête. En effet, Coban vient juste de répliquer aux allusions outrageantes du comte par l'indifférence d'un juge compatissant.
 
 
-# Tableaux
+# Tableaux.
 
 Répartition des vers :
 
@@ -3039,7 +3039,7 @@ Répartition des vers :
 ⁎⁎ présence muette du personnage et non signalée.
 
 
-## Présence dans l'acte I
+## Présence dans l'acte I.
  | sc 1 | sc 2 | sc 3 | sc 4 | sc 5 | sc 6 | sc 7 | sc 8 | sc 9 | total
 C. D'ESSEX |  |  |  |  |  | 9.5 | 36.5 |  |  | 46
 ELISABETH |  |  | 19.5 | 6 | 1.5 | 2 | 72 | 2 | 14 | 117
@@ -3056,7 +3056,7 @@ total | 54 | 69 | 31 | 6 | 5 | 11.5 | 108.5 | 2 | 35 | 322
 
 
 
-## Présence dans l'acte II
+## Présence dans l'acte II.
  | sc 1 | sc 2 | sc 3 | sc 4 | sc 5 | total
 C. D'ESSEX | 44.5 | 47 | 37 |  |  | 128.5
 ELISABETH |  |  |  | 23 |  | 23
@@ -3073,7 +3073,7 @@ total | 82.5 | 81.5 | 74 | 54 | 12 | 304
 
 
 
-## Présence dans l'acte III
+## Présence dans l'acte III.
  | sc 1 | sc 2 | sc 3 | sc 4 | sc 5 | sc 6 | sc 7 | total
 C. D'ESSEX | 47 | 3.5 | ⁎ | ⁎ | 44 | ⁎ |  | 95.5
 ELISABETH |  |  |  | 0.5 | 31.5 | 1 | 32.5 | 64.5
@@ -3090,7 +3090,7 @@ total | 100 | 12 | 2.5 | 0.5 | 75.5 | 1.5 | 60 | 252
 
 
 
-## Présence dans l'acte IV
+## Présence dans l'acte IV.
  | sc 1 | sc 2 | sc 3 | sc 4 | sc 5 | sc 6 | sc 7 | total
 C. D'ESSEX |  |  |  |  | 49 | 2.5 | 5 | 56.5
 ELISABETH |  | 69.5 | 23 | 51.5 |  |  |  | 144
@@ -3107,7 +3107,7 @@ total | 29 | 95 | 23 | 116 | 75.5 | 15.5 | 6 | 360
 
 
 
-## Présence dans l'acte V
+## Présence dans l'acte V.
  | SC 1 | SC 2 | SC 3 | SC 4 | SC 5 | SC 6 | SC 7 | SC 8 | SC 9 | SC10 | SC11 | total
 C. D'ESSEX |  |  |  | 63.5 |  |  |  |  |  |  |  | 63.5
 ELISABETH |  | 35 | 3 | 50.5 | 5 | 6 | 1.5 | 12 | 4.5 | 4 | 16.5 | 138
@@ -3124,10 +3124,10 @@ total | 15 | 63 | 34 | 114 | 5 | 14 | 7.5 | 16.5 | 23 | 4 | 48 | 344
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Oeuvres de référence**Boursault**La Satire des satires
+## Oeuvres de référence.**Boursault**La Satire des satires
 **Boyer**Tyridate
 **Boyer**Le jeune Marius
 **Boyer**Oropaste, ou le faux Tonoxare
@@ -3176,7 +3176,7 @@ Entreprise, jugement et mort du Comte d'Essex
 
 
 
-## Études**Adam**Histoire de la littérature française au XVII*e* siècle
+## Études.**Adam**Histoire de la littérature française au XVII*e* siècle
 **Bray, René**La formation de la doctrine classique en France
 **Carnelson-Brody**The works of Claude Boyer
 **Cioranescu**Bibliographie de la Littérature française du XVII*e* siècle

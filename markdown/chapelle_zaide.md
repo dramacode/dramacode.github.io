@@ -1,0 +1,3464 @@
+---
+identifier: chapelle_zaide  
+creator: La Chapelle  
+date: 1681  
+title: Zaïde. Tragédie  
+---
+
+
+Zaïde
+
+Tragédie
+
+1681.
+
+Par le Sieur De La Chapelle
+
+A PARIS, Chez **Jean Ribou**, au Palais, dans la Salle Royale, à l'Image S. Louïs. M. DC. LXXXI. Avec Privilege du Roy.
+
+
+
+# Introduction.
+
+
+Se déguiser, c'est effectivement revêtir un moi d'emprunt et agir comme si l'on était ce moi, c'est-à-dire jouer un rôle [1].
+
+Se costumer pour un acteur avant de monter sur scène, quoi de plus normal ? Un habit est un accessoire théâtral. En effet, le costume au théâtre est un élément dramaturgique. C'est par lui que naît une complicité entre les spectateurs et le personnage qui l'endosse.
+
+Or, être travesti, non pour des raisons techniques, – comme c'était le cas jusqu'au début du XVII*e* siècle – quand les femmes ne montaient pas encore sur le plateau et que c'étaient des hommes « travestis » qui jouaient les rôles de femmes… mais être travesti pour le jeu, durant toute une pièce et que ce soit la divulgation de cette dissimulation qui entraîne le coup de théâtre final: voilà l'enjeu de cette pièce.
+
+Une seule question se pose : qui est donc Zaïde ? Lors des représentations, le spectateur ne sait qui elle est qu'au dernier mot de la pièce ; pourtant, c'est bien de son travestissement et de l'amour qu'elle a pour son rival « héréditaire » que naît l'intrigue de cette pièce de Jean de La Chapelle.
+
+
+# L'auteur, un académicien… au nom trop commun.
+
+Jean de La Chapelle naît à Bourges en 1655.
+
+
+Fils de Pierre de la Chapelle, Ecuyer, Seigneur du Plaix & Conseiller du Roy, Doyen des Professeurs de Droit de l'Université de Bourges. Sa Famille est noble & ancienne, & a fait des Chevaliers de Rhodes [2].
+
+Après avoir été secrétaire des commandements des princes de Conti auprès desquels il montra, lors d'un voyage en Suisse, « tant de zele et de sagesse, que Louis XIV, informé de sa capacité, crut devoir le mettre en œuvre pour des négociations intéressantes qu'il avait à traiter dans le même pays » [3], le chevalier, baron de Saint Port, reçut le poste de receveur général des finances de La Rochelle, qu'il avait acheté dans sa jeunesse.
+
+Il publia *Les Amours de Catulle* (roman inspiré par la vie du poète) en 1680-1681 et sa première oeuvre dramatique fut son unique comédie, mais aussi la plus populaire : *Les Carrosses d'Orléans* (1680). *Zaïde* était sa première tragédie (1681), la suivirent trois autres : *Cléopâtre* (1682), * Téléphonte* (1683) et *Ajax* (jouée en 1684 mais jamais publiée).
+
+En 1713, il créa un opéra, *Isac*, et, sur le même principe que sa première oeuvre romanesque, il publia en 1712-1713 *Les Amours de Tibulle*.
+
+« Auteur dramatique médiocre, mauvais romancier, mais rimeur assez goûté ; il fut surtout homme d'esprit. Il a laissé des poésies et des traductions », telle est la description faite de lui sur le site Internet de l'Académie Française [4] où il fut élu le 21 juin 1688 en remplacement de Furetière et où il fut reçu le 12 juillet par Charpentier. À son tour, il reçut Valincour et le maréchal de Villars. Il mourut le 29 mai 1723.
+
+Son homonymie avec deux autres auteurs de son époque a entraîné de nombreuses confusions qui furent à l'origine de la réédition de l'œuvre en 1700 comme l'explique « L'Imprimeur au lecteur » [5] :
+
+
+Il n'y a consenti que lorsqu'on luy a montré une partie de ces mêmes Ouvrages imprimez en Hollande, sous le nom de feu M. Chapelle. Ce Livre a pour titre Voyage de Messieurs de Beauchaumont & de la Chapelle. On y confond dans la Preface les noms de M. Chapelle & de M. de la Chapelle. On attribuë à celuy-cy le Voyage de l'autre. On y dit que M. de la Chapelle a fait des Pieces de Theâtre, & on y rapporte une partie de la Preface de la Tragedie de Cleopâtre. On ajoûte qu'il a aussi travaillé sur Catulle, & on met à la fin du Livre beaucoup de Vers traduits du même Catulle. …Il est diferent de feu M. Chapelle qui a fait avec M. de Beauchaumont le Voyage dont nous avons déja parlé. Il l'est encore de M. de la Chapelle à qui nous devons l'Histoire des Campagnes de Norlingue & de Fribourg, & qui est mort depuis quelques années Inspecteur des beaux Arts sous feu M. de Villarcef Surintendant des Bätimens. 
+
+Quand ses contemporains parlaient de lui, leurs jugements différaient selon l'angle d'approche et, si Boileau n'appréciait pas ses vers, comme il l'écrivit dans cette épigramme de 1699 :
+
+J'approuve que chez vous, Messieurs, on examine  
+Qui du pompeux Corneille ou du tendre Racine  
+Excita dans Paris plus d'applaudissemens :  
+Mais je voudrois qu'on cherchât tout d'un tems  
+(La question n'est pas moins belle)  
+Qui du fade Boyer ou du sec *La Chapelle*,  
+Excita plus de sifflemens [6].  
+
+Dans son éloge, d'Alembert, quant à lui, soulignait l'habileté de La Chapelle dans la distribution des rôles, en particulier, il parlait ainsi :
+
+
+M. de La Chapelle, …, s'étoit ménagé dans la Tragédie un moyen de succès presque infaillible. Le célebre Comédien Baron étoit alors dans toute sa force & dans tout l'éclat de sa gloire. Son rare talent, qui le rendoit cher au Public, le rendoit encore plus précieux aux Auteurs, à ceux du moins qui avoient l'art & le bonheur de le faire paroître d'une maniere avantageuse. M. de la Chapelle n'oublioit jamais dans ses Tragédies d'exciter l'attention & l'intérêt par quelques scènes propres à faire briller cet incomparable Acteur. Il est vrai que la fortune de ces scènes baissoit quelquefois à la lecture ; mais il restoit au moins à M. de La Chapelle le mérite d'y avoir su mettre ce qui devoit les faire réussir au théatre. Par là, il montroit plus d'adresse & de ressource que beaucoup d'autres Auteurs, qui ayant le même moyen à leur disposition, n'avoient pas eu comme lui le secret d'en profiter [7].
+
+
+# La pièce.
+
+
+## Les représentations.
+
+La pièce a été représentée pour la première fois le dimanche 26 janvier 1681 à La Comédie-Française. Quinze représentations se succédèrent jusqu'au 26 février, une représentation eut lieu devant le Roi à Saint-Germain suivie du *Baron de la Crasse* le vendredi 14 février et au commencement de la saison suivante (le 15 avril), de nouveau, *Zaïde* fut jouée « pour le Roi à Saint Cloud » [8] c'est-à-dire dans la résidence de Monsieur [9] suivie des *Précieuses Ridicules*. Ce qui est une preuve de l'intérêt suscité par la pièce à la Cour. Les cinq premières représentations eurent lieu sans petite comédie à la suite. On peut noter la représentation du 24 février  où furent jouées les deux œuvres de La Chapelle : à *Zaïde* succéda en deuxième partie *Les Carrosses d'Orléans*.
+
+On sait de la réception de la pièce ce que nous en dit *Le Mercure galant* :
+
+
+Les François la troupe de la Comédie-Française ont donné depuis trois jours la première Représentation de Zaïde, Princesse de Grenade. C'est une Piece tout-à-fait agréable, dont les Vers sont naturels, les pensées brillantes, & les incidens fort peu communs. Elle est bien joüée, & on voit assez par la dépense que les Comédiens ont faite pour des Habits extraordinaires, qu'ils n'ont point douté de son succés [10].
+
+Pour ce qui est de la disposition matérielle du théâtre, on trouve dans le *Mémoire de Mahelot* [11] :
+
+
+Zaide, de Mr Genest Theatre est un palais a volonté. 5 chaise au 2me acte (la note dit : « Tragédie de La Chapelle, repr. Le 26 janvier 1681. Comme Dacier l'explique, cette attribution à Genest résulte de la présence d'une tragédie de cet auteur, Zélonide, un peu plus loin. Il n'y a pas d'acte dans Zaïde où l'on trouve plus de quatre personnes pour occuper les cinq chaises »).
+
+Lancaster émet l'hypothèse que l'indication scénique ait été inversée et que s'il y avait des chaises sur scène, c'était peut-être « 2 chaises au 5me acte », ce qui parait douteux si c'est pour les raisons qu'il donne [12], car Abderamen n'est pas présent à la scène 2 de l'acte V.
+
+*Zaïde* a été jouée par les comédiens les plus réputés puisque c'est Baron [13] qui avait le rôle d'Alamir et La Champmeslé celui de Zaïde. Les autres rôles étaient tenus réciproquement par : Dauvilliers dans le rôle d'Abderamen, Melle Beauval pour Fatime, Guerin en Osmar, De Villiers jouait Abendax et Hubert, Gazul [14].
+
+
+## Éditions.
+
+La première édition de la pièce a été achevée d'imprimer le 20 mars 1681 à Paris par Jean Ribou. On peut penser que, malgré la préface de 1700 [15], où l'auteur dévalorise son œuvre en commençant son introduction de la manière suivante :
+
+
+Cet ouvrage est plûtôt un caprice de jeune homme qui essaye son génie, qu'une composition réglée & digne du nom de Tragédie. Je ne connoissois lorsque je l'ai fait, ni l'art du Theâtre, ni les préceptes, ni les ouvrages des Anciens. Je n'avois pour guide en travaillant, qu'une imagination échauffée par l'envie de mettre des vers de ma façon sur la scène. 
+
+*Zaïde* a eu quelque succès (dont témoignent les quinze représentations), puisqu'elle a été republiée du vivant de l'auteur, « suivant la copie imprimée à Paris en 1681 », puis chez Pierre Ribou en 1683 (recueil factice des œuvres de l'auteur), et enfin, dans les œuvres de l'auteur chez Anisson en 1700, avec quelques variantes. Au sein du *Théâtre françois tome X*, il y eut une nouvelle édition en 1737, à titre posthume. Une traduction en allemand a même eu lieu à Amsterdam dès 1718 sous le titre *Zaïda* [16]. Les exemplaires de l'édition de 1681 consultés sont tous semblables à celui reproduit ici, mais l'édition de 1700 possède des variantes [17]. Celles-ci sont intéressantes dans la mesure où l'auteur a retravaillé son œuvre une vingtaine d'années après sa publication, et en a changé la préface, de manière à dévaloriser (ne serait-ce pas une coquetterie ?) cette pièce.
+
+
+# Action et construction de la pièce.
+
+
+## Résumé.
+
+A l'acte I, « Zulemar » (de la famille des Zégris) fait confirmer à Osmar (capitaine des gardes du Roi) que le Roi veut le voir (scène 1). Ensuite, « Zulemar » expose les changements d'attitude du Roi envers lui et sa place privilégiée à la cour à son confident Abendax qui revient d'une mission dans l'armée d'Alamir (chef de la famille des Abencerrages). Dès la scène 2, au vers 80, « Zulemar » apprend à Abendax son sexe, caché de tous depuis sa naissance ainsi que son amour pour celui qui devrait être son rival (aux vues de la haine qu'entretiennent leurs deux familles), Alamir. Suit l'entrevue entre le Roi Abderamen et « Zulemar » qui annonce le retour d'Alamir et où « Zulemar », contre toutes attentes du roi et de la princesse Fatime, prend la défense de son rival (scènes 3 et 4). Fatime apprend aussi à « Zulemar », qui vient de se lamenter dans un monologue délibératif (scène 5), qu'elle s'est bien rendue compte de l'attachement que le Roi a pour elle mais que c'est lui qu'elle aime (scène 6). L'acte se termine par le départ de « Zulemar » et de son confident pour que ce dernier soit informé du contenu des entrevues avec le Roi et avec Fatime (scène 7).
+
+L'acte II s'ouvre sur l'arrivée d'Alamir, qui jusqu'à présent ne nous a été présenté que par les autres personnages. « A peine accompagné », comme l'avait souligné Abendax, « d'un amy qui le suit » (vers 318), son confident, Gazul, à qui il explique la raison de sa venue : « c'est l'amour qui m'entraîne » (v .391) (scène 1). Il parle de l'amour qu'il éprouve pour Fatime mais celle-ci lui annonce par un biais détourné qu'elle ne l'aime plus, cependant Alamir ne le comprend pas ainsi et pense seulement qu'elle a un prétendant (scène 2). Alamir croit pouvoir trouver justice auprès du Roi (scène 3) mais celui-ci lui ferme sa porte et donne à « Zulemar » la mission de lui transmettre « ses ordres secrets » (vers 477) (scène 4). La confrontation entre les deux « hommes » met à jour la rivalité entre leurs deux familles et se termine par le refus d'obéissance d'Alamir qui prétend ne répondre qu'à son roi (scène 5). Ensuite a lieu une scène privée où Abendax invite son maître à ne pas découvrir son sexe. « Zulemar » pense que la seule capable de sauver Alamir est celle qui est la cause de son retour : Fatime (scène 6). Il la presse donc d'aller plaider sa cause auprès du Roi (scène 7).
+
+Comme lors des deux actes précédents c'est une scène d'intimité, ici entre « Zulemar » et Abendax, qui ouvre l'acte III. On y apprend que le roi, suite aux demandes de Fatime, a consenti à voir Alamir (scènes 1 et 2). La conversation entre Alamir et son Roi leur révèle qu'ils aiment la même femme et laisse Alamir désoeuvré (scène 3 et 4). D'autant plus qu'il apprend de la bouche de Fatime qu'elle ne l'aime plus (vers 850 et suivants) (scène 5), il est de nouveau effondré (scène 6) avant d'être arrêté pas Osmar (scène 7). Mais « Zulemar », une fois encore, tente de sauver celui qu'« il » aime en lui faisant un aveu déguisé de son amour car si Alamir ne l'avait pas coupé en rappelant la haine qui unit leurs deux familles, « Zulemar » se serait dévoilé (scène 8). Au contraire il annonce à Abendax, pour clôturer l'acte qu'il va « presser du Roy l'implacable colere, /L'irriter, l'animer contre ce téméraire, » (vers 927, 928) (scène 9).
+
+L'acte IV s'ouvre lui aussi sur une scène d'intimité, cette fois-ci entre femmes. C'est Fatime qui demande à sa confidente Zindarise de lui faire état de ce qui se passe au dehors. Les deux femmes ne comprennent pas le paradoxe apparent des différents préparatifs. La scène 1 se termine sur l'annonce de l'arrivée du roi, Abderamen. Celui-ci exprime son amour à Fatime qui le dédaigne en avouant son amour pour un de ces sujets. Abderamen croit qu'il est toujours question d'Alamir et veut précipiter sa mort (scène 2). « Zulemar » arrive sur ses entrefaites et, à l'annonce de la mort prochaine d'Alamir à cause de l'amour prétendu que lui porterait Fatime, « il » se « dénonce » comme étant celui que Fatime aime. Elle, en essayant de le justifier, se confond. Et le roi d'annoncer la mort de « Zulemar » (scène 3) avant de demander la venue d'Alamir (scène 4) et de faire garder ceux qu'ils considèrent comme des conspirateurs (vers 1133) : « Zulemar » et Fatime (scène 5). Suit l'entrevue d'Alamir et du roi où celui-ci s'excuse d'avoir voulu le mettre à mort et où il lui explique pourquoi il prend son parti puisqu'il croit que l'amour que porte Fatime à « Zulemar » est réciproque. Alamir est invité à en finir par un combat contre son ennemi héréditaire, mais le roi lui refuse de se retirer hors de son royaume (scène 6).
+
+Le dernier acte (V) s'ouvre lui aussi sur une scène privée entre « Zulemar » et son fidèle confident Abendax, mandé par le roi, pour que son maître voie Fatime afin qu'elle se résigne à prendre Abderamen pour époux (scène 1). Fatime, ne voulant pas voir mourir « celui » qu'elle aime, court trouver le roi pour feindre (vers 1302) d'accepter cette union alors qu'elle imagine fuir avec « Zulemar » qui n'a pas eu le temps de lui dévoiler son identité (scène 3). Au départ de Fatime, voilà qu'apparaît Alamir, obéissant au roi. Suit un dialogue à double entente puisque « Zulemar » parle de son amour pour Alamir tandis que celui-ci croit qu'il évoque l'amour pour Fatime. Au milieu de cette scène 4, « Zulemar » dévoile son identité pour la deuxième fois de la pièce (vers 1384) et révèle à Alamir son amour pour lui (vers 1394 et suivants). Alors arrive Osmar, qui, en quelques mots, raconte comment Abendax vient de sauver son maître, « Zulemar », en dévoilant son déguisement (vers 1425) et son attachement pour Alamir (vers 1427), et comment Fatime qui venait « offrir son hymen » (vers 1432) connaît elle aussi toute la vérité (scène 5). Alors qu'il parle encore, arrive Abderamen auprès duquel «Zulemar» tente de s'expliquer. Le roi l'excuse et demande à Alamir de la prendre pour femme, réconciliant ainsi les deux familles. Alamir, étonné, accepte de suivre Abderamen pour la cérémonie des deux unions celle de Fatime et de son Roi et d'Alamir et de celle qui se cachait sous le nom de Zulemar. Abderamen, avant de partir, résout l'« énigme » du titre de la pièce en « baptisant » « Zulemar » d'un nom correspondant à son sexe : Zaïde (vers 1460), (scène 6).
+
+
+## Sources.
+
+L'auteur affirme être le seul inventeur de son histoire : « je n'ay point d'autre histoire que celle que j'ay voulu me faire » [18], ce qui n'est vrai qu'en partie puisqu'il suit la mode. On remarque la présence des Maures (en particulier des Zégris et des Abencerrages) dans la littérature des XVI*e* et XVII*e* siècles. Dans son ouvrage, certes, consacré en priorité aux romans, Marjorie Chaplyn constate :
+
+
+Mme de La Fayette publie *Zayde* en 1670 ; et Mme de Villedieu donne les galanteries grenadines en 1673. *L'Histoire de la Conqueste d'Espagne par les Maures* de Miguel de Luna a vu le jour en 1680. La tragédie de *Zaïde*, par La Chapelle, a paru en 1681. *Le genre mauresque est donc en pleine activité* [19].
+
+Dans le roman espagnol* Diana* (1560) de Montemaior traduit en 1562, il est question « de gentilshommes nommez Abencerrages, leurs personnes & leurs actions, fust pour la valeur en guerre ou pour la prudence en temps de paix, & pour le gouvernement du pays, servirent de miroir à tout le Royaume » [20].
+
+Le nom d'« Abencerrages » mais aussi celui de « Zégris » figurent dans un roman espagnol, *L'histoire des guerres civiles de Grenade* de 1595 (première traduction en français en 1608) de Gines Perez de Hita, qui relate aussi des faits historiques et a eu beaucoup de succès (en France, trois nouvelles éditions ont eu lieu en 1660, rééditions de celle de 1608 [21]).
+
+Avant sa reconquête par les Catholiques, Grenade, capitale du royaume musulman, connaît alors la plus brillante civilisation mais elle est affaiblie par les guerres continuelles entre grandes familles dont la plus célèbre est celle des Abencerrages. Perez de Hita retrace en particulier la lutte que menèrent les Abencerrages contre les Zégris dans le royaume de Grenade au XV*e* siècle. Il existe aussi une pièce où sont présents Zegris et Abencerrages :* La Généreuse Ingratitude* de Quinault (1656). Dans cette tragi-comédie, on retrouve les noms de Fatime, maitresse de Zegry et amante d'Adibar, Zaïde soeur de Zegry, Gasul esclave d'Abencerrage. De plus, c'est certainement une des seules pièces où le thème mauresque se cumule avec le travestissement de naissance, comme nous le développons ci-après. Il faut noter aussi qu'en 1670 Mme de La Fayette a écrit un roman sous le même titre, roman qui n'est pas inconnu de l'auteur puisqu'il le mentionne comme étant de M. de Segrais, dans sa préface de 1700 [22], mais n'ayant rien à voir avec sa Tragédie. De ce roman, subsistent certains noms de protagonistes, en particulier Zaïde et Alamir et les noms de Zégris et d'Abencerrages.
+
+Le thème de la jeune fille travestie à la naissance est moins fréquent que le travestissement délibéré des jeunes filles abandonnées. Il a été abordé dès l'Antiquité. Ce thème de la jeune fille travestie de naissance et élevée comme un garçon ressortit d'abord à la fable. C'est l'histoire d'Iphis, contée brièvement par Ovide dans ses *Métamorphoses* (IX, 666-797), que sa mère a fait passer pour un garçon parce que son mari avait menacé de tuer l'enfant si c'était une fille. Ce thème est un sujet romanesque qu'on retrouve, par exemple, dans *L'Astrée* d'Honoré D'Urfé (1ère partie livre V). Comme nous le verrons ci-après, l'époque est riche en pièces où les filles sont déguisées en hommes [23].
+
+
+## Les personnages.
+
+Les personnages apparaissent comme des personnages archétypiques de la tragi-comédie, par les relations qu'ils entretiennent. Mais, en théorie, il est possible de leur appliquer les critères des personnages de tragédie utilisés par La Mesnardière dans sa *Poétique*. Ceci montre qu'il était possible d'avoir une certaine latitude dans le traitement du caractère des personnages. Pour analyser les différents protagonistes, je n'ai pas choisi l'ordre de la liste des acteurs qui correspond à la bienséance de l'époque, comme l'a analysé Scherer mais l'ordre « d'importance », en terme d'action dramatique des personnages :
+
+
+La liste des personnages … nous fait connaître les rôles dans un ordre qui est déjà une hiérarchie .… On nomme d'abord, s'il y en a dans la pièce, les rois, empereurs ou autres personnages doués d'autorité ou de prestige ; les suppléent ou les suivent d'autres personnages qui peuvent être, à leur défaut les véritables héros de la pièce, ceux dont les tourments vont émouvoir ou les aventures amuser le spectateur ; après eux, leurs frères, sœurs, parents, « maîtresses » ou « amants », dont la présence autour des héros est déjà un commencement d'exposé de la situation ; enfin les comparses :confidents, gouverneurs , valets et suivantes , pages et la troupe des « Gardes », soldats, geôliers, hommes du peuple ou paysans, qui n'ont pas l'honneur d'être nommés mais dont la présence est requise sur scène et qui pourraient avoir à dire quelques répliques [24].
+
+Je commence donc par le personnage éponyme de la pièce :
+
+**Zaïde** (alias « Zulemar ») n'est désignée qu'une fois sous ce nom, à l'extrême fin de la pièce. Présentée dans la liste des « acteurs » comme « Princesse de Grenade, de la famille des Zegris, déguisée sous le nom de Zulemar », fille travestie à la naissance par son père, elle est devenue, par la pitié que le roi a eu pour sa famille, son conseiller, en l'absence d'Alamir, parti pour la guerre.
+
+
+Il lui faut être à la mesure de cet emploi, et cacher son sexe. Mais l'amour est plus fort. … pour la jeune fille travestie dès la naissance : elle est à la hauteur de son rôle fictif dans tous les actes de la vie, mais dès qu'elle prétend à ce vers quoi ses sentiments l'entraînent elle butte sur l'obstacle constitué par son travestissement. [25]
+
+D'ailleurs, elle en fait la remarque (vers 103-106) :
+
+Je vivois dans les bois, & souvent croyois estre  
+Ce que mesme à tes yeux j'affectois de paroistre.  
+Je trompay tes regards, ceux du Roy, de la Cour,  
+Heureuse si j'avois aussi trompé l'amour.  
+
+Elle-même dit avoir compris son sexe (vers 120) à la vue d'Alamir : « Que dis-je, en le voyant j'appris que j'estois femme. »
+
+Alors qu'elle vient d'apprendre à Abendax son sexe, elle ne compte pas le dévoiler sur la « place publique ». D'ailleurs Abendax lui rappelle que cela ferait un scandale (vers 569 à 573) :
+
+Quelle honte !& le Roy pour comble de malheur,  
+Apprenant vostre sort verra-t'il sans douleur,  
+Qu'il a mis ses secrets dans le sein d'une fille,  
+Vous estes tout l'espoir d'une illustre famille ;  
+Songez, si vous parlez dans quel triste embarras...  
+
+Jusqu'à la fin de la pièce, « Zulemar » garde son rang de Prince. En donnant sa dernière réplique (vers 1441-1442), elle montre qu'elle a bien « intégré » les règles de la bienséance et du protocole de la Cour puisqu'elle ne peut se présenter devant le Roi sans s'excuser de ce déguisement qui dure depuis sa naissance :
+
+Seigneur, après l'abus commis aux yeux de tous ;  
+De quel front puis-je icy paroistre ?  
+
+**Alamir** : « Chef de la famille des Abencerrages. » A la fois guerrier et amant, il voudrait pouvoir servir son roi avec justice, mais son amour pour Fatime (marqué par sa jalousie) est plus fort. Par ce retour, il sait bien qu'il va offenser le roi mais il pense que son triomphe et ses faits d'armes seront plus importants et feront oublier son tort. Présomptueux au début de la pièce quand il fait face à « Zulemar » (lors de leur premier face à face), il défend l'honneur de sa famille en « lui » rappelant la haine héréditaire qui unit leurs deux familles (vers 524-526) :
+
+Montre-toi vray Zegri, contre un Abincerrage ;  
+L'honneur le plus certain &le plus grand pour toy,  
+C'est d'estre l'ennemy d'un homme tel que moy.  
+
+Son refus d'obéissance au Roi pourrait paraître invraisemblable si on ne savait pas que cet homme est entraîné par sa passion et que c'est un Maure, comme le précise l'auteur dans la préface de 1681 : « … J'ay choisi la Nation la plus avanturiere du monde ». Ceux-ci sont présentés, par La Mesnardière dans sa *Poétique* comme « foux, desesperez, peu soucieux de la vie, opiniâtres » [26]. Ensuite, il est accablé par ce qu'il ressent comme la trahison de Fatime et, interloqué, obéit à son roi quand celui-ci le somme de prendre l'ennemie de sa famille pour épouse.
+
+**Abderamen** : « Roy de Grenade. » Roi déboussolé par les « trahisons » dont il se sent victime. Roi magnanime comme le veut la bienséance et comme lui rappelle « Zulemar » par une maxime : « Songez que la clemence est la vertu des Roys » (vers 173). Mais aussi roi obstacle puisque c'est lui, comme dans beaucoup de pièces au XVII*e* siècle qui est l'obstacle principal aux héros « ennemis », en effet :
+
+
+Le héros doit se heurter à des obstacles, sans quoi il n'y aurait pas de pièce. … les personnages … qui représentent face à la volonté du héros, un pouvoir redoutable, dont on peut gagner la bienveillance mais qui peut être contraignant. …Le roi est presque partout dans le théâtre classique [27].
+
+D'ailleurs, s'il est présent sur scène à neuf reprises, il est omniprésent dans les conversations pour diverses raisons. Dans le premier acte, c'est pour exposer la situation initiale dans laquelle son choix (de prendre « Zulemar » à la cour) a été décisif (il est cité 5 fois dans la première scène et dès la rime du premier vers). Il est d'ailleurs au centre de la conversation entre Fatime et « Zulemar » (cité 10 fois dans les scènes dont il est absent). Dans le deuxième acte, c'est bien aussi selon lui que se déroulent toutes les actions, que ce soit contre lui (le retour d'Alamir à la scène 1), en se demandant sa réaction (vers 328) ou en suivant ses ordres, comme Osmar (scène 4) et « Zulemar » qui ne devrait être que le porte-parole, l'intermédiaire entre le Roi et son sujet, Alamir (scène 5). Il en va de même dans les actes 3 et 5 où, même si le roi n'est pas présent sur scène, son nom est dans toutes les bouches. L'acte 4 est « son » acte puisqu'il n'en est absent que dans la première scène, faisant preuve à la fois de fermeté (envers Fatime et « Zulemar ») et de magnanimité (en reconnaissant son erreur envers Alamir). C'est aussi l'acte où il montre son découragement quand il lui semble avoir été trahi (vers 1131-1133) :
+
+Un ingrat que mon cœur de ses bontez honore,  
+Une cruelle, enfin que j'aime, que j'adore,  
+Conspirent l'un & l'autre à me percer le cœur  
+
+Nous voyons donc combien le roi est « omniprésent » et central pour l'intrigue car, d'opposant à Alamir et « Zulemar », il devient adjuvant et instigateur de leur mariage à la dernière scène.
+
+**Fatime** : « Princesse de Grenade. » Femme amoureuse, elle correspond bien aux caractéristiques que La Mesnardière donne de la femme [28] puisqu'elle est « violentes dans sa passion », passion qui la conduit malgré elle à dévoiler son amour pour « Zulemar » (vers 1096-1098). Elle est « soudaines en ses désirs », comme on peut le voir quand elle décide d'aller parler au roi pour feindre de le prendre pour époux (vers 1299 à 1312), ce qui montre aussi son impatience, trait caractéristique, selon La Mesnardière, des femmes. Malgré cette violence et cette promptitude, Fatime a aussi un autre trait des femmes, moins valorisant. Elle semble « volages » puisque son comportement la montre changeante en ce qui concerne son amour ; en effet, si au début de la pièce, on apprend de « Zulemar » et d'Alamir lui-même qu'elle l'aime, la seule vision de « Zulemar » lui fait changer d'avis (vers 290), ce qui ne l'empêche pas d'accepter, résignée (?), le mariage avec le roi, au dernier acte.
+
+**Les confidents** : Dans cette tragédie, trois confidents, désignés comme tels dans la liste des « acteurs », correspondent aux caractéristiques mises en valeur par Jacques Scherer :
+
+
+Le confident, reflet du héros, n'a en effet qu'une existence assez incertaine. … le confident est là et il n'est pas là. Il est là s'il faut écouter, donner la réplique, poser quelque question, transmettre une information, avertir ou consoler. Il n'est pas là, si l'on préfère l'oublier.  [29]
+
+Le premier confident à apparaître sur scène est celui de « Zulemar » : **Abendax**. Présent dès la première scène et en tout dans onze scènes. De manière conventionnelle, car c'«est l'exposition par une scène entre un héros et un confident, le type qui est de beaucoup le plus répandu » [30], il permet à l'auteur d'éviter un monologue d'exposition ; en donnant la réplique à son maître qu'il a quitté pour une mission dans le camp d'Alamir, il fait connaître à tous, le changement de situation de « Zulemar » auprès du roi, les sentiments d'Alamir pour Fatime, ainsi que son retour prochain. Il est le premier à qui « Zulemar » divulgue son sexe (vers 80) et qui, tour à tour, empêchera « Zulemar » de se dévoiler (vers 563, 564) puis l'y invitera (vers 1248), avant de révéler lui-même au Roi la véritable identité de son maître, malgré l'interdiction de « celui-ci » (vers 1249). Cette désobéissance entraîne le coup de théâtre de la dernière scène où, au lieu d'être mené à la mort, « Zulemar » est conduit à son propre mariage.
+
+Le deuxième confident est celui d'Alamir : **Gazul**. Il permet lui aussi d'être le témoin des secrets du cœur de son maître, qui lui explique la cause de son retour (début du deuxième acte). Il n'est présent que dans l'acte 2, aux scènes où son maître est présent, en ne prenant la parole pour lui donner la réplique, que dans les scènes 1 et 3. C'est le dernier ami sur lequel Alamir peut encore compter, comme Abendax le souligne avant leur arrivée.
+
+**Zindarise**, la confidente de Fatime, présente seulement dans deux scènes, mais n'intervenant que dans la première, plante le décor de ce qui se passe à l'extérieur du palais où sa maîtresse est enfermée. Par cette conversation, on voit là aussi les angoisses de Fatime. La présence de la confidente évite une scène de plainte de la part de Fatime.
+
+
+## « L'action empêchée » [31].
+
+L'héroïne éponyme de la pièce, dont personne ne connaît le nom avant le dernier vers de la représentation, par le processus de nomination qui montre l'autorité du Roi, a été travestie dès sa naissance par son père. Elle en explique les raisons à son confident dès le premier acte (vers 84 et suivants) et on voit donc ici confirmé le propos de G. Forestier :
+
+
+Ainsi, même si le déguisement est présenté comme la conséquence d'un obstacle préalable, ce schéma classique est renvoyé dans l'en-deçà de l'action dramatique ; ce qui est effectivement présenté au public, ce n'est pas une action où le déguisement sert à franchir l'obstacle, mais une action où l'obstacle est constitué par le déguisement d'un personnage. Cette inversion de la relation habituelle obstacle-déguisement fonde ce que nous appelons le principe de l'action empêchée [32].
+
+En effet, Zaïde (alias « Zulemar ») a d'abord été travestie pour éviter aux Zégris de ne plus avoir de descendant mâle, comme l'expliquent les vers 91 à 93 :
+
+Mon pere qui voyoit d'un fier Abincerrage  
+Ses biens par ce revers devenir le partage,  
+Cacha son desespoir, & mon sexe avec soin.  
+
+Ce stratagème de déguisement qui, dans un premier temps, permet aux Zégris de ne pas être « effacés », (puisqu'une femme n'aurait pas pu être leur héritier), se retourne contre Zaïde quand celle-ci comprend qu'elle ne peut cacher les sentiments qu'elle éprouve envers un homme qui devrait être son ennemi. C'est son confident qui s'en étonne aux vers 123 à 125 :
+
+Qu'entens-je ! «Zulemar» est une fille ! elle aime !  
+Hé qui ? Quel est l'objet de son amour extrême !  
+Grands Dieux ! c'est Alamir l'ennemy des Zegris !  
+
+La haine entre les deux familles paraît un obstacle insurmontable, comme ne cesse de le rappeler « Zulemar » en se lamentant. Obstacle auquel met fin l'autorité royale des derniers vers de la pièce puisqu'Alamir, encore sous le choc de la déclaration que vient de lui faire « Zulemar », se résigne à épouser son ennemie (vers 1451-52) :
+
+Madame, cependant à vos desirs rebelle,  
+Mon cœur n'opose plus une fierté cruelle :  
+
+En effet, si cette pièce est appelée tragédie, on doit néanmoins noter la quasi-omniprésence des sentiments. L'enjeu politique est vite écarté au profit de l'intrigue amoureuse, dont Corneille nous rappelle « qu'il faut qu'il se contente du second rang dans le poème, et leur laisse le premier » [33]. Et si, comme le dit Lancaster [34], on ne craint pas pour la vie de « Zulemar » puisque le seul fait de dévoiler son identité pourra lui faire échapper à son destin, on peut se demander si l'amour de « Zulemar » ne va pas empêcher ce dévoilement. « Il » ordonne d'ailleurs à Abendax de le laisser mourir et de ne rien dévoiler (vers 1249 à 1262) pour que ce secret meure avec lui alors qu'« il » a déjà failli dévoiler sa véritable identité à Alamir (vers 911). Et c'est « Zulemar », sans intermédiaire, qui se démasque devant Alamir, dont « il » croyait depuis longtemps (vers 921-922) qu'il avait compris son double langage :
+
+Mal-heureuse, j'allois pleine de ma tendresse,  
+Luy découvrir mon sexe, avoüer ma foiblesse.  
+Que dis-je, tout mon sort est déjà revelé,  
+Il a veu mon desordre, & mes yeux ont parlé. [35]  
+
+Elle lui avoue au vers 1383-1384 son sexe :
+
+Car enfin ce Rival, ce chef d'une famille  
+Que tu poursuis ; aprens que ce n'est qu'une fille.  
+
+avant de lui avouer son amour pour lui (vers 1393 à 1395) :
+
+Mon cœur sourd aux raisons qui devoient l'animer,  
+Ne sceut plus en trouver, helas ! que pour t'aimer !  
+Plus que tu ne me hais, ce cœur t'aime, t'adore ;  
+
+Alors que quelques vers plus haut Alamir lui a demandé de le haïr puisque c'est le sort de leurs deux familles (vers 1378 : « Vy donc pour me haïr. »). La haine et l'amour sont donc intimement liés. Cette haine qui aurait pu conduire « Zulemar » à « presser du Roy l'implacable colere » (vers 927) :
+
+Les Dieux m'en sont témoins, plus animé que vous  
+Je venois en ces lieux presser vostre couroux,  
+Accuser Alamir, demander son supplice, [36]  
+
+est moins forte que l'amour et sauve un innocent. « Zulemar » s'en explique auprès d'Abendax (vers 1245, 1246) :
+
+J'aime, je voy perir ce que j'aime, il suffit,  
+Je ne me repens point de tout ce que j'ay dit.  
+
+Et de la même manière, la haine s'affaiblit dans le cœur d'Alamir qui ne refuse plus d'épouser une Zégris, mais se plie aux volontés du roi en essayant de les faire devenir siennes (vers 1453, 1454) :
+
+Et si l'amour déjà ne s'y fait pas sentir,  
+L'injuste haine au moins commence d'en sortir.  
+
+
+## Les quiproquos.
+
+L'action est aussi comme « freinée » par les quiproquos, non seulement entre « Zulemar » et Alamir, mais aussi avec Fatime. En effet, à cause du travestissement et de ce que chacun des personnages pensent et savent les uns des autres, naissent des paroles à double entente où le personnage travesti ne dit pas ce que comprend son interlocuteur. Cela entraîne, de fait, une complicité avec le spectateur (ou le lecteur) dans ces moments à la fois tragiques et pathétiques de la pièce. Par exemple, Fatime croit que c'est de son amour pour elle dont « Zulemar » se lamente alors que « celui-ci » pense à son amour « impossible » pour Alamir (vers 1290-91 /1299-1301) :
+
+
+Zulemar …
+Sous une cendre froide éteindre un feu si beau.  
+De mourir sans avoir exprimé la tendresse…  
+…  
+
+Fatime
+Non, vous ne mourrez point, quittez cette pensée,  
+Ma vie à vous sauver est trop interressée,  
+Vostre grace, dit-on, dépend encor de moy,  
+
+Le double langage est aussi très présent dans la dernière scène avant la  révélation de « Zulemar », en effet, alors que « Zulemar » lui déclare sa flamme une nouvelle fois (vers 1335-1338) :
+
+Je ne connois que trop ou mon amour m'engage,  
+Je cherche à m'en guerir, je mets tout en usage ;  
+Mais pour vaincre un amour aussi fort que le mien,  
+Les Dieux ne m'ont pas fait un cœur comme le tien.  
+
+Alamir interprète le soupir « Hélas ! » de « Zulemar » au vers 1347 comme une preuve de son attachement pour Fatime. En fait, « Zulemar » est désespéré par la persistance de l'amour que porte Alamir à Fatime qu'il a exprimé au vers précédent : « Et je sens que je l'aime encor plus que jamais. » En effet, de manière déguisée par le double sens des mots, « Zulemar » a déjà dévoilé sa flamme beaucoup plus tôt, mais seuls les spectateurs avertis du déguisement peuvent se rendre compte de cette syllepse. Alamir, lui, ne comprend pas quelle est cette « amitié » (vers 498 et 880) que « Zulemar » veut lui montrer et ne cesse de lui prouver; pour Alamir, il n'est pas raisonnable que cet « ennemi héréditaire » de sa famille se conduise de cette manière. Il le lui rappelle d'ailleurs (vers 523-526) :
+
+Ton indigne pitié me feroit trop d'outrage,  
+Montre-toi vray Zegri, contre un Abincerrage ;  
+L'honneur le plus certain & le plus grand pour toy,  
+C'est d'estre l'ennemy d'un homme tel que moy  
+
+Ce double langage est aussi présent dans les confrontations entre « Zulemar » et Abderamen, son roi. Quand « Zulemar » affirme (v 1113 à 1118) :
+
+Je ne vous diray point que sans rendre de soins,  
+On est aimé souvent lors qu'on le veut le moins,  
+Qu'on aime quelquefois ce qu'il faut qu'on haïsse,  
+Et que rien de l'amour ne regle le caprice :  
+Je ne m'excuse point, j'ay traversé vos feux,  
+J'ay fait vostre malheur sans pouvoir estre heureux.  
+
+Abderamen n'imagine pas le moins du monde de qui (Alamir) « Zulemar» parle au vers 1115, il peut croire que « Zulemar » aime Fatime pour leurs malheurs à tous les trois. Et au vers 1114, il dit que Fatime l'aime mais que ce n'est pas réciproque; mais, ce n'est pas ce que comprennent les deux interlocuteurs qui peuvent croire qu'« il » parle soit de Fatime aimée du roi et d'Alamir; soit de manière générale, il énonce une sentence. De la même manière quelques vers plus loin, aucun soupçon sur l'amour de « Zulemar » n'est éveillé par ces vers 1121 à 1124:
+
+Si vous sçaviez quel est mon destin, mon amour  
+Vous avoüeriez…Seigneur, vous le sçaurez un jour.  
+Je mourray de l'amour deplorable victime,  
+Trop content si ma mort peut effacer mon crime,  
+
+Ces vers sont, on ne peut plus clairs pour quelqu'un qui connaît la situation, mais demeurent à l'état d'abstraction dans l'esprit d'Abderamen. Le quiproquo qui naît ici du travestissement « peut même être plus qu'une erreur qu'on dissipe tôt ou tard. Il peut se prolonger jusqu'à amener le dénouement » [37], comme l'a montré J. Scherer en s'appuyant sur des exemples tirés de plusieurs pièces. Et c'est le cas ici, puisque le dévoilement du déguisement de « Zulemar », efface toute possibilité de quipropo et amène au coup de théâtre final.
+
+
+## Le temps, le lieu.
+
+Dans cette tragédie de la fin du siècle, on peut se demander si ce qui était considéré comme les règles pour une « bonne » tragédie sont respectées. On constate d'abord, que l'unité de temps est d'une journée, même si dans cette journée, de nombreux changements de situation ont lieu. C'est Abendax qui le souligne, en parlant uniquement de « Zulemar » :
+
+Le *mesme jour* vous voit dans un rang glorieux,  
+Sur vous seule attirer tous les cœurs, tous les yeux,  
+Et bien-tost du destin éprouvant l'injustice,  
+Pour vos jours innocens craindre un cruel suplice [38].  
+
+Ceci est possible entre autre, grâce à l'exposition, dans la deuxième scène, de la situation : on entre directement dans l'action en apprenant les nouvelles prérogatives de « Zulemar » au « ministère » (vers 23) et l'intention d'Alamir de rentrer sans l'ordre de son roi. Cette unité de temps coïncide, en partie, avec une certaine unité de lieu, puisque les seules indications sont : « La scène est à Grenade » et au vers 1142 « Qu'en leurs appartements on les garde tous deux.», l'on imagine donc que les scènes se déroulent dans le Palais, symbolisé sur scène par un « palais à volonté ». Il n'est mentionné aucun déplacement si ce n'est des entrées et sorties.
+
+Celles-ci résultent d'une liaison de scènes très travaillée, puisque peu d'entrées ont lieu sans être annoncées. Le passage d'une scène à l'autre se fait soit par liaison de vue ; (comme c'est le cas à l'acte I, de la scène 2 à 3 avec l'arrivée du roi ; de la scène 5 à 6 avec l'arrivée de Fatime ; à l'acte II, de la scène 1 à 2 avec l'arrivée de Fatime ; de la scène 4 à 5 avec Zulemar ; de la scène 6 à 7 avec l'arrivée de Fatime ; à l'acte III, de la scène 2 à 3 avec l'arrivée du roi ; à l'acte IV, de la scène 1 à 2 avec l'arrivée du roi ; à l'acte V, de la scène 3 à 4 avec l'arrivée d'Alamir, de la scène 4 à 5 avec Osmar, de la scène 5 à 6 avec l'arrivée du roi ), soit par liaison de bruit, comme on le voit à l'acte III, de la scène 1 à 2, avec l'arrivée d'Alamir; à l'acte IV, de la scène 3 à 4 et à l'acte V, de la scène à 1 à 2, avec par deux fois l'arrivée d'Osmar, la première fois accompagnés des gardes, la seconde de Fatime. Le passage d'une scène à l'autre peut aussi se faire par le départ d'un personnage, laissant sur scène une personne en proie à un monologue (Zulemar I, 4 à 5 et III, 8 à 9 et Alamir III, 3 à 4 et 5 à 6) ou plusieurs, en particulier après le départ d'Osmar, des gardes et d'Abendax (I, 1 à 2 ,3 à 4 ; II, 2 à 3 ; IV, 4 à 5 et V, 2 à 3). Le départ d'un acteur peut aussi être suivi de l'arrivée d'un autre (I, 6 à 7 ; II, 5 à 6 ; IV, 5 à 6). On peut noter quelques exceptions où la liaison de scène est plus rhétorique puisque liée en grande partie à un vers, qui, commençant sur la fin d'une scène, ouvre la suivante. C'est le cas à l'acte III, de la scène 6 à 7 (vers 864) ; de 7 à 8 (vers 870) et à l'acte IV, de 2 à 3 (vers 1065). Deux cas « particuliers », l'un où la personne qui entre en scène dit avoir vu le départ de l'autre personnage, c'est Fatime dans l'acte III, de la scène 4 à 5, vers 811 « Ah ! que viens-je de voir ? Seigneur, le Roy vous quitte »; le deuxième où c'est un verbe de mouvement et un vers qui se coupe pour terminer une scène et en ouvrir une autre à l'acte II, fin de la scène 3, vers 474, « Entrons ».
+
+Il est question de Grenade quand Zindarise, au début de l'acte IV, parle avec Fatime pour lui raconter les préparatifs « contradictoires » d'une fête qui aurait lieu dans un temple et où on voit les prêtres s'apprêter, ce qui n'est pas conforme à la civilisation maure comme s'en « excuse » ( ?) l'auteur dans sa préface [39]. On voit bien là, la prégnance de la religion d'Etat en France, qui autorise la christianisation (au sein des pièces de théâtre) de peuples païens comme l'auteur suppose les Maures à cette époque. De la même manière, les futurs époux se rendent au temple (Acte V, dernière scène) pour y être mariés. Ce ne peut être qu'un acte religieux qui s'ancre dans la mentalité de la société du XVII*e* siècle qui n'est pas heurtée par cette « invraisemblance » de fait.
+
+
+## La disposition des discours.
+
+La pièce compte 35 scènes réparties en 7 scènes dans chacun des deux premiers actes, 9 scènes dans le troisième et 6 pour les deux derniers. L'acte I est marqué, comme l'acte V par l'omniprésence sur scène de « Zulemar ». Alamir est, quant à lui, le personnage incontournable de l'acte II où il fait son apparition pour la première fois sur scène et de l'acte III, où il est présent 7 scènes sur 9, les deux autres scènes étant des scènes de confidence entre Zulemar et Abendax qui ouvrent et achèvent l'acte et où il s'épanche en quelques phrases à son confident. L'acte IV est dominé par la présence du Roi et par Fatime, ils apparaissent dans 5 scènes chacun mais c'est le Roi qui fait preuve de sa toute-puissance, ici, en découvrant l'amour de Fatime pour « Zulemar » et en graciant Alamir.
+
+Cette répartition des rôles dans les actes désigne les héros de cette tragédie puisque :
+
+
+… non seulement on veut voir les héros tout le temps mais on veut les voir tout de suite. … Mais il est impossible, si la pièce est un peu complexe, d'en présenter dès la première scène tous les héros. L'auteur soucieux de clarté doit retarder la première apparition de certains d'entre eux. Il peut sans doute les introduire dans une scène ultérieure du premier acte. Mais il préfère le plus souvent le faire paraître au début du second [40].
+
+En effet, Alamir seul protagoniste ne se montrant pas sur scène au premier acte, – mais dont le nom est prononcé 19 fois ! – apparaît au début du second acte, preuve du souci de l'auteur de garder quelque suspense avant de laisser entrer celui que « Zulemar » aime mais qui, par son retour sans l'ordre de son roi, risque sa vie.
+
+La pièce est structurée de manière systématique par la présence d'une scène « privée », en début d'acte, qui permet à l'auteur d'éviter les monologues. En effet, ce sont toujours des scènes entre un confident et son maître qui ouvrent les cinq actes.
+
+Au premier acte, cela permet une exposition sans monologue et *in medias res* puisque, d'une part, Abendax, rapporte les nouvelles du camp d'Alamir et, d'autre part, « Zulemar » lui expose son nouveau rang auprès du roi et son sexe, caché depuis toujours.
+
+Au deuxième acte aussi, le confident, Gazul, permet à Alamir de dévoiler sa situation. En effet, on ne sait pas encore si, comme le suppose « Zulemar » en s'appuyant sur la « renommée » (vers 179), Alamir rentre par amour pour Fatime ou pour renverser « Zulemar » qui vient, en quelque sorte, de lui prendre sa place de « favori » auprès du roi.
+
+Au troisième acte, si c'est bien une scène où sont présents « Zulemar » et Abendax, ce dernier ne dit mot et sert d'oreille à son maître avant d'être renvoyé pour permettre l'introduction d'Alamir au roi seul à seul.
+
+Le quatrième acte s'ouvre sur une scène de confidence entre femmes (Fatime et sa confidente Zindarise). Ces confidences servent à nous exposer à la fois l'émoi de Fatime mais aussi le trouble de toute la ville, qui elle n'est jamais figurée sur le théâtre. Zindarise, dans une longue réplique, explique à sa maîtresse tous les « désordres » de la ville avant que Fatime ne dresse un bilan par sa question (vers 963-965) :
+
+Pour quel dessein fait-on des apprests si contraires,  
+Et qui m'expliquera ces funestes misteres :  
+Qui livrent mon esprit à de cruels soupçons ?  
+
+A cette question, sa confidente répond en lui proposant de s'adresser au roi qui arrive, assurant ainsi la transition entre les deux scènes.
+
+Le cinquième acte s'ouvre, comme le premier, par un vrai dialogue entre « Zulemar » et son confident, que le roi a autorisé à venir voir son maître. Cette scène montre l'attachement du confident mais aussi sa détermination pour le sauver, puisque, malgré les injonctions de son maître à ne pas parler, c'est lui qui va, par sa « désobéissance », le dévoiler.
+
+L'action est donc unique puisque tous les épisodes ne se comprennent qu'au regard les uns des autres et ôter une seule étape à cette construction fait s'effondrer la tragédie. En effet, on comprend mieux la prudence que « Zulemar » demande au roi (vers 172 à 176) si on sait qui « il » est :
+
+Vous pouvez le punir ; mais le devez vous faire ?  
+Songez que la clemence est la vertu des Roys,  
+Qu'il est des attentats contre certaines Loix,  
+Que souvent moins jaloux des droits de la couronne,  
+Il faut qu'un Roy prudent dissimule ou pardonne.  
+
+De la même manière, au deuxième acte, la réaction de Fatime envers Alamir qui revient la voir est incompréhensible (d'ailleurs Alamir ne comprend pas ce qu'elle a voulu dire) si on ne sait pas qu'elle a dévoilé à « Zulemar » son amour pour lui. Ces deux exemples reflètent à la fois l'unité d'action et sa complexité par les quiproquos qui naissent entre les différents personnages. La scène 2 du deuxième acte est caractéristique de l'incompréhension d'Alamir et de la dissimulation de Fatime qui ne dévoile jamais durant cette scène ni l'amour qu'elle éprouve pour « Zulemar », ni celui que le roi a pour elle. Cependant, elle met en garde Alamir au vers 426 : « Ne vous y fiez pas, cet amour vous perdra », et avant de le quitter, aux vers 447 à 451 [41]:
+
+Vous avez en ces lieux, Seigneur, qui l'eust pû croire,  
+*Des Rivaux pour l'amour*, ainsi que pour la gloire.  
+Par le trouble où je suis, jugez de ma douleur,  
+Et pour ne point moy-mesme affliger votre coeur,  
+Souffrez que je vous cache un ennuy qui m'accable.  
+
+Mais Fatime ne dévoile pas qui ils sont, laissant croire à Alamir que c'est « Zulemar », le seul rival ; il ne comprend pas non plus que l'« ennui » qui l'oppresse est de ne plus l'aimer alors que lui, déclare, par son retour, une flamme inflexible qui fait craindre sa mort.
+
+De nouveau, à la scène 5 de l'acte III, il y a une erreur dans le jugement d'Alamir qui pense que Fatime s'est laissée séduire par le roi et ne pense plus à celui qu'il considérait d'abord (vers 461et 462) comme le plus dangereux, car potentiel rival amoureux et politique : « Zulemar ».
+
+Le roi, lui-même se trompe sur les sentiments de Fatime (vers 995-996) :
+
+Pour le sort d'Alamir dont le cœur vous adore,  
+Une juste pitié vous sollicite encore.  
+
+Une fois de plus, ce n'est pas Fatime qui va le détromper en avouant au vers 1053 « Pour un de vos Sujets. L'amour l'a sceu toucher », – car Abderamen se trompe en croyant qu'il est encore question d'Alamir – mais « Zulemar », à la scène suivante, dévoilant que c'est « lui », (vers 1094) qu'elle aime !
+
+On peut noter aussi le travail sur l'hypotypose des derniers vers (vers 1423 à 1440) quand Osmar, coupé par l'arrivée du Roi, raconte la « scène » de la « délivrance par la désobéissance » et où nous est mis sous les yeux ce qui n'est pas représenté. En effet, Osmar résume la situation tout en s'appuyant sur des faits très concrets tels les larmes et les cris, mettant ainsi à jour le pathétique de cette scène d'aveu, qui a eu lieu malgré les demandes de « Zulemar » à son confident. Ce procédé de description donne à voir la scène, comme si le spectateur (ou le lecteur) était en train d'y participer, d'ailleurs c'est le temps du présent qu'Osmar utilise pour narrer ces faits.
+
+
+## Le genre en question.
+
+Si notre pièce avait été écrite cinquante ans auparavant elle aurait sûrement été nommée « tragi-comédie ». Mais déjà Corneille dans le *Discours de la tragédie* affirme : « En 1660, l'esprit de la tragi-comédie a déjà déserté la scène. [42] »
+
+Or notre pièce paraît ressortir à la fois à la tragédie et à la tragi-comédie.
+
+
+La tragédie est une représentation grave et sérieuse d'une action funeste, qui s'est passée entre des personnes que leur grande qualité ou leur grand mérite relèvent au-dessus des personnes communes, et le plus souvent c'est entre des princes et des rois. La tragi-comédie nous met devant les yeux de nobles aventures entre d'illustres personnes menacées de quelque grande infortune, qui se trouve suivie d'un heureux évènement [43].
+
+En effet, nul ne peut ignorer le dénouement et les deux mariages qu'il annonce, c'est donc un « heureux évènement » né d'un coup de théâtre (caractéristique de la tragi-comédie), qui clôture cette pièce. De plus, le travestissement est caractéristique du sujet de tragi-comédie (comme *La généreuse ingratitude* de Quinault), voire même de comédie (comme *La Célimène* de Rotrou), et non de tragédie.
+
+De même, la chaîne amoureuse – ici Abderamen aime Fatime qui aime Zulemar qui aime Alamir qui, lui-même est amoureux de Fatime – est un procédé typique de la tragi-comédie et de la pastorale. La seule différence, c'est que ce ne sont pas des rois ni des « grands » de ce monde qui aiment et sont aimés dans la pastorale mais des bergers et des bergères. Excepté ces différences dans la « hiérarchie sociale », le sujet est traité de façon similaire : il existe une rivalité entre ceux qui aiment la même femme (Abderamen est jaloux d'Alamir) ; la femme, elle, est torturée par ses désirs, entre passion et raison.
+
+A cette époque, l'autre alternative à la tragédie, en terme de théâtre, ne pouvait être que la comédie mais dans celle-ci, on ne met que rarement sur scène des rois, des princes et des princesses. Le terme le plus approprié aurait sans doute été « comédie héroïque » mais ce genre théorisé par Corneille dans sa préface de *Dom Sanche d'Aragon* (1650), n'a pas eu de répercussions dans le théâtre du XVII*e* siècle. On s'est donc cantonné aux deux genres dont parlait Aristote dans sa *Poétique*, la tragédie, pour les sujets nobles, et la comédie pour les matières basses.
+
+*Zaïde* parait cependant correspondre à certaines « règles » de la tragédie que sont l'unité de temps et de lieu et les caractères des personnages – comme nous l'avons vu précédemment – et le péril de mort. Le premier péril de mort touche Alamir revenant de la bataille sans l'ordre de son Roi, ce qui est compris par Abderamen comme refus d'obéissance et aurait pu conduire à son décès ; c'est « Zulemar » qui exprime le premier cette crainte de le voir mourir aux vers 40 et 41 :
+
+Quoy sans ordre, & sans qu'on le rappelle.  
+Abendax il revient, il se pert, s'en est fait.  
+
+Ensuite, le Roi lui-même semble confirmer les dires de « Zulemar » (vers 146 à 150). Mais cette mort pour refus d'obéissance, devient la mort d'un rival, quand le Roi apprend l'amour que porte Alamir à Fatime et cette mort qui pourrait être imputée par la postérité à la jalousie, n'est pas digne d'un roi (vers 191-192) :
+
+Mais je suis son Rival. Fatime a sceu me plaire,  
+Voila ce qui suspend la mort d'un temeraire  
+
+Ce qui ne l'empêcherait pas de demander sa mort s'il contestait ses ordres (vers 198 à 200) :
+
+Si sa presence encor vient braver mon pouvoir,  
+Il n'est auprés de moy rien qui le justifie,  
+Et le moindre refus luy coustera la vie ;  
+
+Alamir lui-même est bien conscient de cette éventualité, comme il l'explique à son confident (vers 333) : « Mais qu'il me fasse grace, ou m'envoye à la mort, »
+
+La seule qui puisse sauver Alamir paraît être Fatime, et « Zulemar » l'exhorte d'ailleurs, de tenter une action auprès du Roi (vers 588 et 589) :
+
+Rien ne peut arrester le coup qui le menace,  
+Vous seule auprés du Roy vous pouvez tout pour luy   
+
+Mais c'est aussi à cause d'elle que la mort apparaîtra comme la plus probable quand le Roi, se trompant de « sujet » (vers 1052-1053), croit que Fatime aime encore Alamir au vers 1062 : « Cet aveu, vos refus precipitent sa mort. »
+
+Ce péril de mort sera définitivement écarté par l'aveu involontaire de Fatime de son amour pour « Zulemar », dans la scène suivante (vers 1096 à 1098).
+
+Le second péril de mort touche « Zulemar » une première fois, quand il prend la défense d'Alamir (vers 161) : « Dust mon refus, Seigneur, m'exposer à la mort ».
+
+Mais ce péril de mort concernant « Zulemar » est surtout un péril venant remplacer le premier (celui que pouvait craindre Alamir), puisque c'est lui le nouvel obstacle au mariage entre Fatime et son Roi, après son aveu pour sauver celui qu'« il » aime (vers 1092 à 1095). D'ailleurs, Fatime essaie par tous les moyens de repousser cette mort, en voulant feindre auprès du Roi, pour mieux pouvoir s'enfuir avec « Zulemar » (vers 1301 à 1307). L'ombre de la mort de « Zulemar » ne sera écartée qu'après la révélation d'Abendax sur le sexe de son « maître » (qui nous est racontée par Osmar à l'avant-dernière scène de la pièce).
+
+Mais peut-être est-ce là la seule « mort » de cette tragédie. En effet, par cette dénonciation – que « Zulemar » lui avait interdite (vers 1249,1250) –, son confident tue « Zulemar », au moins son prénom, puisqu'en révélant au roi son véritable sexe, il entraîne celui-ci à procéder à un « baptême » correspondant à sa féminité (au dernier vers de la pièce), « Et vivez dans ma Cour sous le nom de Zaïde ».
+
+
+# Le thème principal de la pièce : le traverstissement.
+
+
+## Un thème « connu ».
+
+Le thème du travestissement d'une jeune fille n'est pas nouveau au XVII*e* siècle [44]. Les dramaturges s'inspirent du théâtre italien, qui a lui-même exploité ce thème depuis le siècle précédent. Les comédies de D'Ouville, *Aimer sans savoir qui* (1646), qui s'inspire de Piccolomini (*Hortensio*, 1560) et de Molière,* Dépit amoureux* (1656), qui rappelle l'*Interesse* de Sechi (1581) en sont deux exemples. Nous pourrions également mentionner *La Belle invisible ou la Constance esprouvée* de Boisrobert (1656). La reprise théâtrale du récit d' Ovide par Benserrade dans la comédie *Iphis et Ianthe*, 1637, *La Feste de Vénus*, pastorale héroïque de Boyer (1669) où la jeune bergère travestie l'a été par sa mère pour masquer la mort de son frère mais dont une « nimphe » tombe amoureuse. *Persélide ou la constance de l'amour*, est une tragi-comédie anonyme de 1646. On peut noter que c'est la seule pièce où les deux « acteurs » sont différenciés dans la liste des « personnages » puisque Lucidor apparaît comme « Perselide desguisée en page » [45]. *La fille Viceroy* est un roman espagnol traduit par Scarron, mis en scène dans une comédie héroïque par Nanteuil en 1672, où la jeune fille travestie l'a été pour ne pas être reconnue et échapper à un mariage dont elle ne voulait pas. Sophie, de plus, « dessens des zegrys du costé de ma Mere » [46]. Par son poste de vice-roi, c'est elle qui doit juger celui qu'elle aime ; celui-ci est accusé de l'avoir tuée. A la toute dernière scène de la pièce, elle avoue, devant son père et son amant, son déguisement. Cette pièce possède de nombreuses analogies avec *Zaïde*, puisque c'est dans la première scène que Sophie dévoile son travestissement à son confident, le capitaine de ses gardes, qu'il y a péril de mort pour celui dont elle est amoureuse, et que c'est par le dévoilement de son déguisement qu'il sera sauvé. *Fédéric*, tragi-comédie de Boyer (1660) − où « le roi » lui-même est une femme travestie pour garder le trône de Sicile et souhaite se « détravestir » par amour pour Valère qui, lui, ne connaît pas le véritable sexe de son « maître ». Mais le père de Valère (Fédéric) aime en secret le « roi » (Yoland) dont il sait le déguisement et voudrait l'épouser pour devenir roi, ce qui entraîne une série de quiproquos puisqu'il croit (par erreur) que cet amour est réciproque. Au dernier acte, Fédéric décide de laisser son fils épouser Yoland après lui avoir dévoilé son amour − est la seule pièce de l'époque à mêler, tout comme, dans une certaine mesure, *Zaïde*, un enjeu de pouvoir à un enjeu amoureux. La scène de dévoilement est très similaire en effet dans *Federic*, on lit aux vers 50 à 59 :
+
+
+Le Roy …
+Mais helas ! Marcellin, je suis toujours la même,  
+Toujours Femme malgré ces premiers sentimens,  
+Toujours Femme malgré tous ces déguisemens  
+
+Marcellin
+Ciel ! Que me dites-vous ?  
+
+Le Roy
+L'horreur d'une injustice  
+Força le Roy mon Père à ce grand artifice,  
+Craignant qu'après sa mort le Prince d'Arragon,  
+L'eternel ennemy de toute sa maison  
+Ne se fit par l'appuy d'un droict imaginaire  
+Du Trône de Sicile un Trône hereditaire.  
+
+Ces vers sont proches de ceux de « Zulemar », lorsqu'il apprend à Abendax son sexe (vers 80 à 93), et on lit bien dans les deux cas, le souci de ne pas laisser à son rival les biens qui appartiennent à la famille. C'est en fait une question d'honneur qui entraîne ces travestissements.
+
+Les vers de la déclaration amoureuse sont eux aussi très ressemblants, dans* Federic* (vers 83 à 86) :
+
+
+Marcellin
+Quel charme a si longtemps trompé toute la Cour ?  
+
+Le Roy
+Ce charme dureroit encor sans mon amour.  
+Oüy *j'aime*, je l'avouë (à cet aveu si lâche  
+Ma rougeur t'apprend bien le Sexe que je cache)  
+
+Dans *Zaïde* (vers 1245 à 1248) :
+
+
+Zulemar
+*J'aime*, je voy perir ce que j'aime, il suffit,  
+Je ne me reprens point de tout ce que j'ay dit.  
+
+Abendax
+Il n'est plus d'interest, ny de raisons secretes,  
+Il est temps de parler, d'avouer qui vous estes. [47]  
+
+Ce « thème mineur » [48] en littérature du « travesti de naissance » se double dans* Zaïde* d'un amour impossible à cause de la rivalité qui existe depuis toujours entre les deux familles. Ces deux thèmes se mêlent et se répondent. D'ailleurs, quand « Zulemar » dévoile (sans se désigner elle-même) sa flamme à Alamir, celui-ci lui répond en Abencerrage (vers 902 à 906) :
+
+Qui moy ? d'une Zegri je deviendrois l'époux ?  
+Eust-elle à me donner tout l'Empire du monde,  
+En esprit, en beauté, fust-elle sans seconde ;  
+Son cœur d'un tendre amour fust-il épris pour moy,  
+C'est assez qu'elle soit du mesme sang que toy  
+
+
+## La vraisemblance.
+
+De ce jeu sur le travestissement, il découle d'une part, que la vraisemblance semble contrariée par l'introduction de ce personnage de princesse travestie en conseiller royal et d'autre part que l'auteur, afin de ne pas enfreindre les règles classiques de bienséance ait trouvé une parade au manque de vraisemblance qu'on aurait pu lui reprocher. Il explique dans sa préface pourquoi son choix s'est arrêté sur des personnages Maures :
+
+
+J'ay choisi la Nation la plus avanturiere du monde les Maures, afin que la vraysemblance ne fut point blessée par la nouveauté d'un rôle de femme en homme qui soutient toute une piece.
+
+De plus, un caractère non conforme à la vraisemblance est toléré par La Mesnardière en cas de « nécessité absolue » [49]. Ici, la « nécessité absolue » tient à la naissance d'une fille, et à ce que le père de « Zulemar » ne pouvait envisager la perspective de ne pas avoir d'héritier mâle (la loi salique étant toujours en vigueur) pour faire face à la nation ennemie (les Abencerrages) et par là même, leur laisser tous ses biens. Comme « Zulemar » l'explique à Abendax, cela relevait de son devoir de père et de chef de famille (vers 91-93) :
+
+Mon pere qui voyoit d'un fier Abincerrage  
+Ses biens par ce revers devenir le partage,  
+Cacha son desespoir, & mon sexe avec soin.  
+
+Le zeugma de ce dernier vers renforce ici le caractère nécessaire de cette tromperie.
+
+De plus, « Zulemar », qui a été élevé comme un prince, peut paraître ce qu'« il » dit être, comme le souligne Georges Forestier :
+
+
+… la convention est si forte qu'il suffit même que le personnage déguisé déclare « je suis ce que je prétends paraître »  pour que la victime soit aveuglée [50].
+
+En outre, le travestissement de « Zulemar » est dévoilé dès le premier acte à son confident (vers 80) ce qui permet ainsi à l'auteur de mettre le spectateur (ou le lecteur) dans la confidence, pour que le déguisement, en tant que convention, paraisse crédible :
+
+
+A l'intérieur de la fiction le déguisement doit passer inaperçu, et il faut en même temps que le public se rende compte de son existence … La construction dramatique des jeux d'identité passe donc par leur désignation [51].
+
+
+## Signes distinctifs du travestissement ?
+
+On peut alors se demander quels étaient les signes distinctifs de ce travestissement sur scène car il est peu vraisemblable que les autres personnages de la pièce et le public ne reconnaissent pas le visage, la taille, la démarche et la voix qui sont, en fait, ceux d'une femme (en l'occurrence ici la plus grande actrice du moment : La Champmeslé). Il est peu probable qu'un déguisement physique suffise à dissimuler une identité féminine, mais la vraisemblance du travestissement n'est pas remise en cause. Il faut noter que la convention est assez forte et intégrée pour que la seule présence d'un costume, correspondant au rang et au sexe du personnage, soit suffisant. C'est pourquoi le travestissement n'est, la plupart du temps au XVII*e* siècle, pas marqué par d'autres signes, que le costume.
+
+
+De ce double constat de carence (cheveux et barbes), on décidera qu'il répugnait aux auteurs de recouvrir entièrement l'apparence initiale de leurs personnages déguisés, y compris, ce qui ne va pas de soi, pour les travestissements … Pour le XVII*e* siècle, le phénomène semble imputable à une nécessité purement littéraire. Il procède en effet de la conception même du déguisement dans la période qui nous occupe, de l'univers thématique qui le sous-tend. Le travesti, pour en rester à cette forme de déguisements qui devrait requérir le plus de signes, est prétexte à deux développements thématiques principaux. Jouer sur le changement de sexe permet d'assurer la permanence du féminin sous le masculin … ; c'est permettre en même temps de lui conserver un charme féminin qui le rend irrésistible auprès des autres jeunes filles. Ce qui interdit un recouvrement complet de l'apparence initiale. Par là, perruques, barbes, tout ce qui pouvait tendre à ce recouvrement complet devait être exclu des marques physiques du déguisement, sauf dans les cas où l'un de ces deux développements thématiques n'était pas en jeu [52].
+
+Pour signifier que le déguisement était bien ce qui nous donnait l'illusion de la condition masculine de « Zulemar », le roi ordonne à « celui-ci », une fois dévoilé, de changer d'habits (vers 1457-58) :
+
+Vous, Madame, quittez ce vain déguisement,  
+Donnez à vostre sexe un plus digne ornement.  
+
+Le roi nous dévoile que c'est le déguisement (admis comme convention) qui a donné l'illusion d'être face à un homme.
+
+
+# Le style de La Chapelle.
+
+La Chapelle ne semble pas avoir un style propre, mais connaît bien les pièces de ses contemporains. En effet, de nombreux vers de *Zaïde*, ressemblent ou copient les vers de Corneille et Racine, montrant combien La Chapelle est imprégné des œuvres de ces deux auteurs.
+
+Nous noterons donc ici, par ordre chronologique dans *Zaïde*, certaines de ces ressemblances :
+
+Les vers 99 et 100 de *Zaïde* prononcé par Zulemar :
+
+Tous les jours au travers d'une épaisse poussiere,  
+On me voyoit fournir une noble cariere.  
+
+ressemblent à ceux de Phèdre (vers 177-178) et possèdent la même rime :
+
+Quand pourrai-je au travers d'une noble poussière  
+Suivre de l'œil un char fuyant dans la carrière ?  
+
+La description de l'être aimé, elle aussi, possède des points communs, dans* Phèdre et Hippolyte*, (vers 638 à 640)
+
+Mais fidèle, mais fier, et même un peu farouche,  
+Charmant, jeune, traînant tous les cœurs après soi,  
+Tel qu'on dépeint nos Dieux, ou tel que je vous vois.  
+
+et dans *Zaïde* (vers 114, 115) :
+
+Fier sans estre orgueilleux, tel qu'on peint le Dieu Mars.  
+Auguste dans son port, sans art & sans contrainte,  
+
+Une nouvelle ressemblance avec la reprise du même hémistiche, dans *Zaïde* au vers 133 : « Mes vœux sont exaucez, tous tes traits ont porté ». Dans *Phèdre et Hippolyte* au vers 816 : « Ton triomphe est parfait, tous tes traits ont porté. »
+
+Les vers 542 à 543 de Titus dans *Bérénice* de Racine
+
+Doux reproches, transports sans cesse renaissants,  
+Soin de plaire sans art, crainte toujours nouvelle,  
+
+sont repris, de manière synthétique par Fatime au vers 260 :
+
+Soins de plaire, transports, craintes, inquietudes,  
+
+Les vers 303 et 304 de *Zaïde* :
+
+Elle me quitte. Où suis-je, & que viens-je d'apprendre !  
+Juste Ciel….Ah ! sçais-tu ce qu'on m'a fait entendre !  
+
+résonnent comme un mélange de deux vers d'*Andromaque* de Racine, le vers 1401 qui ouvre l'acte V : « Où suis-je ? Qu'ai-je fait ? Que dois-je faire encore ? » prononcé par Hermione et le vers 1565 dans la bouche d'Oreste qui ouvre la scène IV de cet acte : « Que vois-je? Est-ce Hermione? Et que viens-je d'entendre? »
+
+Le vers 420 d'Atalide dans *Bajazet* de Racine « Je suis la plus coupable, épuise tout sur moi » parait transposé au vers 324 quand Zulemar dit « Epuisez tout sur moy, je suis seule coupable ». Les vers 403 à 407, prononcé par Fatime font écho aux vers 304 à 308 de *Bérénice* :
+
+Ces Aigles, ces Faisceaux, ce Peuple, cette Armée,  
+Cette foule de Rois, ces Consuls, ce Sénat,  
+Qui tous de mon Amant empruntaient leur éclat ;  
+Cette Pourpre, cet or que rehaussait sa gloire,  
+Et ces Lauriers encor témoins de sa victoire,  
+
+Les monologues d'Abderamen offrent une certaine ressemblance avec ceux d'Auguste dans *Cinna* de Corneille, en particulier celui qui clôture dans *Zaïde* la scène III de l'acte IV fait penser au monologue de la scène II de l'acte IV où Auguste en appelle au ciel après avoir appris la trahison de Cinna.
+
+Cette ressemblance avec les œuvres de ses contemporains a été noté dans sa thèse par Zipper Hanns [53] qui dénonce ce « plagiat » , en affirmant aussi qu'il essaie d'écrire un drame à la manière de Thomas Corneille ou de Quinault mais qu 'il n'y arrive pas.
+
+
+# Zaïde : une oeuvre de jeunesse.
+
+L'auteur définit sa première tragédie comme une « espece de Roman sur le Theatre » [54]. Il est facile de comprendre pourquoi, puisque c'est en partant d'un sujet propre au roman que La Chapelle a écrit *Zaïde*. De plus, puisque cette tragédie a de nombreux points communs avec les tragi-comédies du début du siècle, il faut rappeler que celles-ci tiraient elles aussi leurs sujets des romans. Mais cette première tragédie paraît être une œuvre de jeunesse puisque l'auteur, qui récriminait dans sa préface contre les pièces à sujets Romains et Grecs [55], utilisa, pour ces tragédies postérieures, des thèmes tirés de l'Histoire (*Téléphonte, Cléôpatre* et *Ajax*), plus recherchées du public et plus « dignes » de « vraies » tragédies.
+
+Il m'a été permis de vous faire découvrir *Zaïde*, même si l'auteur aurait pu me décourager par cette phrase de la préface de 1700 « je croi aussi que personne ne se donnera la peine de faire aucune critique » [56].
+
+
+# Notes sur la présente édition.
+
+
+## Description du volume.
+
+Volume de format in-12°
+
+I titre
+
+II verso blanc
+
+III-VI préface
+
+VII Extrait du privilege du Roy 
+
+VIII acteurs
+
+1 à 64 : *Zaïde* (texte de la pièce)
+
+
+## Description de la page de titre.
+
+ZAÏDE. / TRAGEDIE. / 1681. / Par le Sieur De La Chapelle/ fleuron « gerbe de fleurs »/ A PARIS, / Chez *Jean* RIBOU, au Palais, dans/ la Salle Royale, à l'Image S.Louïs./ filet/ M.DC.LXXXI./ *Avec Privilège du Roy.*
+
+
+## Localisation dans les bibliothèques parisiennes.
+
+L'édition de 1681 décrite ci-dessus et sur laquelle nous avons travaillé se trouve à la BNF MICROFICHE M-12451. Une autre édition exactement identique se trouve à l'Arsenal (**GD-19338**)
+
+Voilà les autres éditions d'Ile-de-France que j'ai consultées, toutes de format in-12° :
+
+*La Chapelle**Zaïde* Suivant la copie imprimée à Paris, 1681, (BNF **YF-12161**)
+
+Les Œuvres de monsieur de *La Chappelle* (recueil factice) 1683 contenant *Téléphonte, Les Carosses d'Orléans,Zaïde, Cléôpatre* (BNF AS **8-RF-6286 (3)**)
+
+Ces deux éditions sont identiques à celle présentée ici alors que celles qui suivent ont subi les corrections énumérées page suivante et en note dans la présente édition :
+
+*Œuvres* du sieur de La Chapelle Tome second à Paris, chez Jean Anisson, Directeur de l'Imprimerie Royale, ruë de la Harpe, à la Fleur de Lys de Florence, 1700 (G. Baty **TF 44(1,2)**) Vous trouverez en annexes [57] des extraits de cette édition.
+
+*La Chapelle**Zaïde*, tragédie ;*Téléphonte*, autre tragédie qui ne contient que le 1er acte
+
+(Vers. **F.A. in-12 E 425 D, Fonds ancien 1**) (pagination p.208-304)
+
+Je suppose que cet exemplaire est un extrait du *Théâtre françois* (1737 ?) (Vue sa pagination)
+
+Il existe aussi une traduction allemande (du vivant de l'auteur) de Huybert van Kruiningen, Pieter Anthony de (1693-1780). *Zaida*, Amsterdam, 1718 (BNF **8- YTH- 70284**)
+
+En province, il existe un exemplaire d'une des deux éditions de 1681 (on peut supposer, puisque le nom de l'imprimeur n'est pas mentionnée que c'est l'édition « suivant la copie ») à la bibliothèque municipale de Grenoble, section d'études et d'information (16320, CGA)
+
+Des éditions posthumes existent puisque *Zaïde* est contenu dans le tome X du *Théatre françois*.
+
+
+## Liste des corrections apportées.
+
+Nous soulignons d'abord deux erreurs importantes corrigées dans l'édition de 1700:
+
+-p. 39 de l'édition originale une rubrique de scène indiquant Osmar était rajoutée coupant le v. 871
+
+-le vers 965 est absent de l'édition de 1681
+
+Les coquilles repérées ci-dessous ont elles aussi été corrigées dans l'édition de 1700 :
+
+p. III ou remplacé par où
+
+p.IV disertation remplacé par dissertation
+
+v.1 princess remplacé par princesse
+
+v. 7 ou remplacé par où
+
+v. 21 ayex remplacé par ayeux
+
+v 30 pense remplacé par penses
+
+v. 41 s'en remplacé par c'en
+
+v. 51 fait, Alamir remplacé par fait Alamir
+
+v. 106 ttompé remplacé par trompé
+
+p.7 ADERAMEN remplacé par ABDERAMEN
+
+v.212 trapper remplacé par frapper
+
+v.230 abonner remplacé par abandonner
+
+v. 338 Le mal-heureux, mortels remplacé par Les mal-heureux mortels
+
+v.349 Gazulon remplacé par Gazul on
+
+v. 375 caprice remplacé par caprices
+
+v. 392 chesne remplacé par chaîne
+
+v.426 fiez, pas remplacé par fiez pas,
+
+v. 434 voudrois de remplacé par voudrois-je de
+
+v. 501 exite remplacé par excite
+
+v. 576 réponse ; remplacé par réponse ,
+
+v. 581 pût remplacé par peut
+
+v. 618 avec remplacé par avecque
+
+v. 789 de rang de dignitez remplacé par de rang, de dignitez
+
+v. 795 memoire . remplacé par memoire ,
+
+v. 806 appas. remplacé par appas,
+
+v.856 à remplacé par a
+
+v.908 iuvincicible remplacé par invincible
+
+v. 940 ordinaires, remplacé par ordinaires.
+
+v. 941 mains. remplacé par mains,
+
+v.1016 maius remplacé par mains
+
+v. 1030 croirent remplacé par croiroient
+
+Cour ; remplacé par Cour ?
+
+v. 1129 quel remplacé par Quel
+
+v. 1137 n'attant remplacé par n'attend
+
+v.1157 heureux remplacé par Heureux
+
+v.1190 à remplacé par a
+
+v.1209 resourdre remplacé par resoudre
+
+v. 1218 d'eust remplacé par dût
+
+v. 1242 Qu'elle remplacé par Quelle
+
+v.1246 reprens remplacé par repens
+
+v.1252 moy moy remplacé par moy
+
+v.1278 déternels remplacé par d'éternels
+
+v. 1335 ou remplacé par où
+
+Pour une lecture plus agréable nous avons procédé à l'harmonisation
+
+- des points de suspension à la façon moderne : « … » ;
+
+-des Õ en « on » v. 472 parlerõt ; v. 774 dõt 
+
+-des ẽ en « en » v. 774 auroiẽt
+
+Au début de chaque scène, le premier mot possédait les deux premières lettres en majuscules, nous avons suivi l'usage actuel et avons supprimé la deuxième majuscule.
+
+
+## Variante de 1700 [58].
+
+Dans l'édition de 1700, les coquilles que nous avons repérées ci-dessus ont toutes été corrigées. De plus à l'acte IV, la scène 5 considérée dans l'édition de 1681 comme une scène à part entière est rattachée à la scène 4 , le changement de scène ayant lieu après le vers 1142. Les principales variations entre l'édition de 1681 et celle de 1700 sont des variations de ponctuation, en effet, si nombre de ponctuation en 1681 correspondent à des pauses de diction, la ponctuation a évolué dans l'édition de 1700 vers une uniformisation « syntaxique » et certaines virgules de pause oratoire ont été supprimées ; d'autres remplacent des points-virgules, deux-points ou des points. De manière générale, c'est en fin de vers que les changements de ponctuation sont les plus nombreux. Elles prouvent ce que remarque Georges Forestier dans « Lire Racine » :
+
+
+La ponctuation – à la différence de l'orthographe – relevait de règles stables, quoique différentes des nôtres, et jouait un rôle essentiel dans la lecture de ses vers .Les règles actuelles – accordées à un type de lecture qui a achevé de s'imposer au XIX*e* siècle, la lecture silencieuse – assignent à la ponctuation la fonction de distinguer pour l'œil des ensembles syntaxiques et d'introduire des nuances de sens. Au XVII*e* siècle – qui ne connaissait qu'une forme de lecture pour les textes poétiques, la lecture à haute voix –, la ponctuation avait pour fonction de marquer les pauses dans le discours, en guidant la voix et le souffle : on ne se préoccupait du sens que lorsqu'il s'agissait du point -qui signale la fin d'une période considérée comme achevée-, du point d'interrogation et du point d'exclamation. Les traités de langue, de grammaire ou de poésie s'attachaient ainsi à marquer soigneusement la gradation des pauses dans le discours que devaient signaler la virgule, le point-virgule, les deux-points et le point, et soulignaient par exemple que le point-virgule est une variante de la virgule destinée à marquer une pause à peine plus longue, surtout destinée à se substituer à elle dans une période un peu étendue, tandis que les deux-points … marquent une pause plus longue que le point-virgule [59].
+
+L'éditeur dans sa préface dit avoir demandé à La Chapelle de republier l'intégrale de son œuvre pour éviter les confusions qui pouvaient exister avec deux autres auteurs ayant le même nom (voir la vie de l'auteur ci-dessus). Cet éditeur dénonce des recueils « non autorisés » dont nous n'avons pas retrouvé de trace et où les œuvres des différents « Chapelle » auraient été mélangées. C'est aussi ce qu'explique le privilège de 1700 [60].
+
+
+# ZAÏDE. TRAGEDIE.
+
+
+## Préface. 
+
+Cette Pièce est d'un caractere si singulier, qu'il y avoit lieu de craindre qu'elle ne fût pas au goust de tout le monde ; il est aisé de se perdre lors qu'on veut s'écarter des routes ordinaires : Cependant je dois estre assez content du succez de Zaïde.
+
+Ce n'est pas qu'on n'ait fait beaucoup de remarques tres judicieuses, & qu'il n'y ait beaucoup de fautes que j'ay connuës [61] moy-mesme & dont je suis tombé d'accord avec les gens de bonne foy ; mais je ne pense pas que quelques legeres imperfections doivent faire condamner un ouvrage.
+
+Quelques-uns m'ont reproché que j'ay mal suivi mon histoire, & ils n'ont pas pris garde que je n'ay point d'autre histoire que celle que j'ay voulu me faire. Zaïde est une pure invention, dont il n'y a aucun fondement dans l'Histoire de Grenade. Les noms des Zegris, & des Abencerrages, & cette haine celebre entre leurs deux familles sont les seules choses qui ont quelque apparence de verité ; tout le reste est imaginé. J'ay crû que je pouvais hazarder⁎ [62] cette espece de Roman sur le Theatre, où il y a longtemps qu'on est ennuyé de ne voir que des Romains & des Grecs : J'ay choisi la Nation la plus avanturiere du monde, afin que la vraysemblance ne fut point blessée par la nouveauté d'un rôle de femme en homme qui soutient toute une piece.
+
+D'autres dont le métier est fort opposé à la profession des belles lettres, & qui ont pourtant dans leurs jugemens toute la fierté qui accompagne d'ordinaire les demy sçavans, se sont élevez contre les sacrifices, les Dieux & les Prestres, expressions Poëtiques & figurées, dont j'ay voulu orner cette Piece : S'imaginent-ils que je n'aye pas sceu quelle estoit l'origine des Maures de Grenade, Peuples sortis de l'Arabie, où la premiere Religion estoit la Payene. Le Mahometisme succeda au culte des faux Dieux, mais il ne l'abolit pas si entierement qu'il n'en restât encore dans les derniers siecles quelques vestiges, mesme à Grenade. De la vient que presque tous les vieux Romanciers, qui ont parlé des Grenadins, les ont fait Payens, & leur ont donné plusieurs Dieux, dont ils en nomment mesme quelques-uns de noms assez bizares. J'ay crû que leur exemple m'authorisait assez dans une piece, où comme j'ay déja dit, il n'y a rien d'historique, & où les faux Dieux & l'idée des sacrifices font un assez agreable ornement.
+
+Voila les deux objections qui ont fait le plus de bruit dans le monde. Je pense y avoir assez bien répondu, & je croy qu'on me dispensera volontiers de faire une grande dissertation pour répondre aux autres qui m'ont paru de moindre consequence : Les Prefaces ne sont guere de mon goust, & il me semble que celle-cy est déja trop longue.
+
+
+## Extrait du Privilege du Roy. 
+
+Par grace & privilege du Roy, donné à saint Germain en Laye le treiziéme de Mars 1681. signé par le Roy en son Conseil, GAMART : Il est permis au Sieur de la Chapelle de faire imprimer, vendre, & debiter par tel Libraire ou Imprimeur qu'il voudra choisir une Tragedie de sa composition, intitulée, *Zaïde* : Pendant le temps de six années, à compter du jour qu'elle sera achevée d'imprimer pour la premiere fois ; & défence sont faites à toutes personnes de l'imprimer ou faire imprimer, vendre ny debiter d'autre Edition que celle de l'Exposant, ou ceux qui auront droit de luy, à peine de trois mille livres d'amende, confiscation des exemplaires contre-faits, & de tous dépens⁎, dommages & interests ; ainsi qu'il est porté plus au long par lesdites lettres de privilege.
+
+Et ledit Sieur de la Chapelle a cedé & transporté son droit de Privilege à Jean Ribou pour en joüir par luy, suivant l'accord fait entr'eux.
+
+Registré sur le Livre de la Communauté le dix-huitiéme jour de Mars 1681 ;
+
+Achevé d'imprimer pour la premiere fois le vingtiéme de Mars 1681.
+
+
+## ACTEURS. 
+ – ABDERAMEN,Roy de Grenade.
+ – FATIME,Princesse de Grenade.
+ – ZAIDE,Princesse de Grenade, de la famille des Zegris, déguisée sous le nom de Zulemar.
+ – ALAMIR,Chef de la famille des Abencerrages.
+ – OSMAR,Capitaine des Gardes du Roy.
+ – ABENDAX,Confident de Zaïde.
+ – GAZUL,Confident d'Alamir.
+ – ZINDARIZE,Confidente de Fatime.
+ – GARDES,
+La Scene est à Grenade.
+
+
+
+## ACTE I. 
+
+
+### SCENE I.
+ZULEMAR, ABENDAX, OSMAR
+
+
+    ZULEMAR.
+La princesse Fatime, Osmar, est chez le Roy ?  
+Tu dis qu'en la quittant il veut parler à moy [63].  
+Et qu'icy pour me voir il doit bientost se rendre.  
+
+    OSMAR.
+Oüy, Seigneur  
+
+    ZULEMAR.
+        Il suffit, Osmar, je vais l'attendre.  
+
+
+### SCENE II. 
+ZULEMAR, ABENDAX
+
+
+    ZULEMAR.
+Tu t'étonnes, Amy, des honneurs qu'on me rend.  
+Ma nouvelle grandeur, je le voy, te surprend.  
+Quand tu quittas Grenade, où sortis de l'Afrique  
+Les Maures ont fondé ce Palais magnifique :  
+Sans amis, dépoüillé du rang de mes ayeux,  
+Seul, mais foible heritier d'un nom toûjours fameux, [64]  
+Je rampois inconnu dans la foule importune  
+Qu'assemble autour des Roys l'éclat de leur fortune.  
+Cette haine celebre entre deux noms puissans,  
+Qui depuis plus d'un siecle arme leurs partisans,  
+M'exposoit chaque jour à de nouveaux outrages,  
+Et les Zegris cedoient aux fiers Abincerages.  
+Déjà mon desespoir m'entrainoit à la mort,  
+Lorsque le Roy touché de mon funeste sort⁎  
+Jetta sur mes malheurs un regard favorable,  
+Sa bonté rappella dans son cœur équitable  
+Des Princes mes ayeux la valeur & la foy,  
+Et bien-tost les voulut recompenser en moy.  
+Il daigna m'appeler aux soins du ministere,  
+Où le fier Alamir mon plus grand adversaire  
+Voit déjà mon pouvoir independant du sien.  
+L'Armée est son partage & l'Etat est le mien.  
+Mais, dis-moy, que fait-il ? instruit de ton voyage ;  
+En sçait-il les raisons, t'a-t'il veu sans ombrage ?  
+L'as-tu bien observé, d'un si fameux vainqueur  
+Penses-tu que Fatime occupe encor [65] le cœur ?  
+Paroist-il inquiet [66], parle-t'il souvent d'elle ?  
+As-tu sçu le tromper ; la croit-il infidelle ?  
+Envoyé dans son camp par mes ordres exprés,  
+Quels soins as-tu donnez à mes desseins secrets ?  
+
+    ABENDAX.
+N'en doutez point, Seigneur, il est toûjours le mesme  
+Il craint son inconstance, & cependant il l'aime,  
+Des bruits que j'ay semez trop vivement frappé⁎ [67],  
+De mille soins jaloux de craintes⁎ occupé  
+Il veut par son retour confondre une infidelle.  
+Il revient.  
+
+    ZULEMAR.
+        Quoy sans ordre, & sans qu'on le rappelle.  
+Abendax il revient, il se pert, c'en est fait.  
+
+    ABENDAX.
+Oüy, Seigneur, vos desseins auroient eu leur effet  
+Si le rare bonheur qui par tout l'accompagne,  
+Ne vous le ramenoit triomphant de l'Espagne.  
+En vain les Roys liguez & les peuples unis  
+Armoient contre nous seuls un monde d'ennemis.  
+Leurs troupes, leurs ramparts , & leurs vastes rivieres  
+N'ont pû nous opposer que de foibles barrieres.  
+Vaincus en cent combats, dispersez & défaits,  
+Ils offrent un tribut, & demandent la paix.  
+Quoy qu'ait fait [68] Alamir, cette grande victoire  
+Met trop en asseurance & ses jours & sa gloire⁎.  
+
+    ZULEMAR.
+Non, ne croy pas que rien⁎ excuse son retour,  
+Je le voy bien, amy, tu connois mal la Cour :  
+Des services passez on a peu de memoire,  
+Plus les sujets fameux se sont acquis de gloire⁎,  
+Plus ils sont enviez, & moins leurs grands exploits  
+Les mettent à couvert de la rigueur des loix.  
+Il est perdu, te dis-je.  
+
+    ABENDAX.
+        Hé bien par sa disgrace,  
+Le destin à vos vœux offre une auguste⁎ place ;  
+Que la mort soit le prix de sa temerité,  
+Vous l'avez souhaité.  
+
+    ZULEMAR.
+        Moy, je l'ay souhaité ?  
+
+    ABENDAX.
+Et n'est-ce pas, Seigneur, pour servir vostre haine,  
+Pour rendre d'Alamir la perte plus certaine,  
+Que je fus envoyé dans son Armée ?  
+
+    ZULEMAR.
+        Helas !  
+
+    ABENDAX.
+Vous soûpirez: Qu'entens-je ? Hé quoy n'avez vous pas  
+Toûjours pour Alamir cette haine mortelle…  
+
+    ZULEMAR.
+J'ay cent fois éprouvé ta prudence⁎ & ton zele⁎,  
+Et je vais confier des secrets à ta Foy,  
+Amy, qui ne sont sceus que des Dieux & de moy.  
+Je les tairois encor si mon ame étonnée⁎  
+Pouvoit vaincre ou changer la triste destinée ;  
+Mais par un cruel sort⁎ blessé de tous costez,  
+Pour détourner ses traits⁎ j'implore tes clartez.  
+Aprens donc de mes jours le secret déplorable,  
+Au milieu des honneurs, dont tu voy qu'on m'accable,  
+Parmy tant de grandeurs, sous ces titres pompeux,  
+Qui semblent relever le nom de mes ayeux,  
+Et soutenir l'espoir d'une illustre famille ;  
+Enfin sous cet habit tu ne vois qu'une fille⁎.  
+
+    ABENDAX.
+Quoy vous, Seigneur ?  
+
+    ZULEMAR.
+        Ecoute, & me laisse [69] parler.  
+Je penetre⁎, je voy ce qui peut te troubler :  
+Ce fut toy qui pris soin d'élever mon enfance,  
+Mais mon pere aisement trompa ta vigilance,  
+Déjà vieux, sans enfans, seul du nom de Zegris ;  
+Dans un fécond hymen il crut trouver un fils,  
+Et d'Armire à la sienne [70] unit la destinée ;  
+Je fus l'unique fruit de ce triste hymenée.  
+Ma mere dont encor, je pleure le malheur,  
+En me donnant la vie, expira de douleur.  
+Mon pere qui voyoit d'un fier Abincerrage  
+Ses biens par ce revers devenir le partage,  
+Cacha son desespoir, & mon sexe avec soin. [71]  
+De ma triste naissance un esclave témoin,  
+Fut le seul confident de ce vain artifice,  
+Dont aujourd'huy les Dieux confondent l'injustice :  
+Enfin de cent Heros on me crût l'heritier [72],  
+Tu m'apris à domter un superbe Coursier⁎.  
+Tous les jours au travers d'une épaisse poussiere,  
+On me voyoit fournir une noble cariere⁎ [73].  
+La chasse estoit l'objet de mes plus chers desirs.  
+L'arc & les javelots faisoient tous mes plaisirs⁎.  
+Je vivois dans les bois, & souvent croyois estre  
+Ce que mesme à tes yeux j'affectois de paroistre.  
+Je trompay tes regards, ceux du Roy, de la Cour,  
+Heureuse si j'avois aussi trompé l'amour.  
+Mais je vis Alamir dans ce jour plein de gloire…  
+Jour qui sera long-temps present à ma memoire.  
+Il revenoit suivy d'Ennemis enchesnez,  
+De Generaux captifs, de Princes détrônez.  
+Ses Soldats à l'envy⁎ sur leurs armes brillantes,  
+Etaloient des vaincus les dépoüilles sanglantes.  
+Il marchoit entouré de faisseaux [74], d'étandarts ;  
+Fier sans estre orgueilleux, tel qu'on peint le Dieu Mars.  
+Auguste⁎ dans son port, sans art⁎& sans contrainte⁎,  
+Imprimant aux mortels le respect & la crainte.  
+Il n'estoit point chargé d'un vain ajustement ;  
+Son nom fameux estoit son unique ornement.  
+Abendax, je le vis, je sentis dans mon ame…  
+Que dis-je, en le voyant j'appris que j'estois femme.  
+
+    ABENDAX.
+Surpris, confus, troublé de ce déguisement,  
+A peine je reviens de mon étonnement.  
+Qu'entens-je ! Zulemar est une fille⁎ ! elle aime !  
+Hé qui ? Quel est l'objet de son amour extrême !  
+Grands Dieux ! c'est Alamir l'ennemy des Zegris !  
+Avez vous oublié ses injustes mépris ?  
+Ne vous souvient-il plus de la haine d'un pere,  
+Songez qu'elle doit estre en vous hereditaire.  
+
+    ZULEMAR.
+Que dis-tu ? cet amour qui cause ton ennuy⁎,  
+Encor plus que ma haine est funeste pour luy.  
+Tu le vois, insensée, envieuse⁎, cruelle,  
+J'ay voulu qu'Alamir crût Fatime infidelle.  
+Mes vœux sont exaucez, tous tes traits⁎ ont porté,  
+Il revient de fureur & d'amour agité.  
+Gloire, devoir, respect, danger rien ne l'arreste,  
+Par ce retour sans ordre il expose sa teste.  
+Un Roy fier & jaloux de son authorité,  
+Opposera les Loix à sa temerité.  
+Oüy déja sous ses pas s'ouvre le precipice.  
+Mal-heureuse, & c'est moy qui l'entraîne au supplice ;  
+Ce sont mes faux avis, c'est pour les avoir crus,  
+Si je le haissois, pourois-je faire plus !  
+
+    ABENDAX.
+Le Roy vient ; cachez luy vostre flâme [75] alarmée.  
+
+
+### SCENE III. 
+ABDERAMEN, ZULEMAR, ABENDAX
+
+
+    ABDERAMEN.
+Scavez-vous qu'Alamir a quitté mon Armée,  
+Qu'il revient en ces lieux sans mon ordre ?  
+
+    ZULEMAR.
+        Oüy, Seigneur.  
+
+    ABDERAMEN.
+Il faut pour satisfaire à ma juste fureur,  
+De ce presomptueux humilier l'audace :  
+Zulemar, que l'effet devance la menace,  
+Prenez ma Garde, allez l'arrester aujourd'huy,  
+Qu'une obscure prison me réponde⁎ de luy.  
+
+    ZULEMAR.
+Luy, Seigneur, qu'en tous lieux la victoire accompagne ;  
+Son bras vient d'affermir vostre Empire en Espagne,  
+L'Etat à sa valeur doit ses prosperitez,  
+Adoré des Soldats & du Peuple….  
+
+    ABDERAMEN.
+        Arrestez.  
+Ce n'est pas un avis qu'icy je vous demande,  
+Zulemar, apprenez qu'un Roy lors qu'il commande,  
+Veut de l'obeïssance, & non pas des raisons ;  
+Vostre esprit va trop loin chercher de vains soupçons.  
+Prenez ma garde, allez que rien ne vous étonne⁎,  
+Partez, obeïssez, c'est moy qui vous l'ordonne.  
+
+    ZULEMAR.
+Dust mon refus, Seigneur, m'exposer à la mort,  
+Lors que vostre bonté daigna porter mon sort⁎,  
+Du neant où j'estois, au comble de la gloire ;  
+La Loy la plus presente encor à ma memoire,  
+Que vous sceûtes prescrire à ma sincerité,  
+Ce fust de ne jamais farder la verité,  
+Voicy le temps, Seigneur, d'en faire un digne usage ;  
+Voyez à quels dangers cet ordre vous engage ?  
+Alamir est coupable, il est vray, ses exploits  
+Ne peuvent le sauver de la rigueur des Loix,  
+Son sang doit effacer son retour temeraire,  
+Vous pouvez le punir ; mais le devez vous faire ?  
+Songez que la clemence est la vertu des Roys,  
+Qu'il est des attentats contre certaines Loix,  
+Que souvent moins jaloux des droits de la couronne,  
+Il faut qu'un Roy prudent dissimule ou pardonne.  
+Alamir ne vient point les armes à la main  
+Refuser ce qu'il doit au pouvoir souverain.  
+Si l'on en veut, Seigneur, croire la renommée⁎,  
+Pour un soin amoureux il quitte vostre Armée :  
+L'amour sur son devoir luy fait fermer les yeux,  
+Et Fatime est l'objet⁎ qui l'appelle en ces lieux.  
+C'est elle….  
+
+    ABDERAMEN.
+        Ah ! Zulemar, que me venez vous dire.  
+
+    ZULEMAR.
+Je le voy, ces raisons ne peuvent vous suffire,  
+Vous n'en croirez, Seigneur, qu'un trop ardent couroux.  
+
+    ABDERAMEN.
+Gardes, qu'on se retire ; Abendax, laissez-nous.  
+
+
+### SCENE IV. 
+LE ROY [76], ZULEMAR
+
+
+    ABDERAMEN.
+Quoy qu'ait fait d'Alamir la valeur sans seconde⁎,  
+Eust-il sauvé l'Etat, fust-il vainqueur du monde,  
+Rien ne l'arracheroit aux rigueurs de la Loy,  
+Si le Ciel ne m'avoit fait naistre que son Roy ;  
+Mais je suis son Rival. Fatime a sceu me plaire,  
+Voila ce qui suspend la mort d'un temeraire,  
+Que l'on imputeroit dans la posterité  
+Plûtost à mon amour qu'à la temerité :  
+Mais lors que ma colere est à demy calmée,  
+S'il ne va sans me voir retrouver mon Armée,  
+Si ce presomptueux ne rentre en son devoir,  
+Si sa presence encor vient braver mon pouvoir,  
+Il n'est auprés de moy rien qui le justifie,  
+Et le moindre refus luy coustera la vie ;  
+Confident de mon cœur, seur de mes volontez,  
+Pour instruire Alamir de mes ordres, partez.  
+Songez bien quel devoir vous presse l'un & l'autre,  
+Retourner est le sien, l'y resoudre est le vostre,  
+Il importe à tous deux d'estre exacts : pensez y,  
+C'est ce qu'ordonne un Roy qui veut estre obeï.  
+
+
+### SCENE V. 
+
+    ZULEMAR.
+Qu'entens-je ! A quel employ me vois-je destinée ?  
+J'aime Alamir : Pour moi sa haine est obstinée,  
+C'est peu de cet amour qui pourra l'irriter ;  
+On me choisit encor pour le persecuter,  
+A son cœur mal-heureux on porte un coup terrible,  
+On prend pour le frapper l'endroit le plus sensible ;  
+Par un funeste Arrest il le verra percer,  
+Et c'est ma bouche, helas !qui doit le prononcer !  
+Ah Dieux !combien par vous ma vie est traversée !  
+Vos rigueurs…Mais que dis-je !& quelle est ma pensée !  
+Fatime tient toûjours Alamir sous sa loy,  
+Tant qu'il vivra pour elle, il ne peut estre à moy :  
+Tantost dans mes projets, pleine d'impatience,  
+Je voulois de leurs cœurs rompre l'intelligence.  
+Mal-heureuse ! Hé de quoy te plains-tu, quand ces Dieux,  
+Mieux que tu n'aurois crû répondent à tes vœux,  
+A l'amour d'un Monarque, à son pouvoir supréme,  
+Il faudra qu'Alamir cede tout [77] ce qu'il aime ;  
+Ce divorce⁎ à mon cœur offre un heureux succez,  
+Ma flâme auprés de luy trouvera plus d'accez ;  
+Cette haine qu'il a pour toute ma famille  
+Pourra se dissiper à l'aspect d'une fille⁎.  
+Helas !où m'emportay-je !à cet espoir flateur !  
+O Ciel !m'est-il permis d'abandonner mon cœur ?  
+Oüy, pour le [78] confirmer allons trouver Fatime ;  
+Allons vanter du Roy la precieuse estime,  
+L'éclat du Diadême aura….Mais je la voy.  
+
+
+### SCENE VI.
+ZULEMAR, FATIME
+
+
+    FATIME.
+Dois-je croire, Seigneur, ce que m'apprend le Roy :  
+Alamir s'est trouvé digne de vostre estime,  
+Vous opposez vos soins au destin qui l'opprime ;  
+Je veux bien l'avoüer, je tremblois pour ses jours ;  
+Mais le Roy s'est laissé flechir à vos discours,  
+Achevez, détournez le coup qui le menace.  
+
+    ZULEMAR.
+Et quel autre que vous peut obtenir sa grace ?  
+S'il faut calmer du Roy l'implacable couroux,  
+Madame, desormais qui le peut mieux que vous.  
+
+    FATIME.
+Moy, Seigneur ?  
+
+    ZULEMAR.
+        Vous, le Roy ne veut plus que j'ignore  
+Les secretes bontez dont son chois [79] vous honore,  
+Sa main répand sur vous, rang, titres, dignitez,  
+Bien-faits, moins glorieux que vous ne meritez,  
+Et je viens avec joye à ces grands avantages,  
+Rendre mes premiers soins, & mes premiers hommages⁎.  
+
+    FATIME.
+Les bontez, les bien-faits, l'empressement du Roy,  
+Le temps que chaque jour il passe auprés de moy :  
+Ses regards, ses soûpirs, & son silence mesme,  
+Tout me dit, tout m'apprend [80], tout confirme qu'il m'aime :  
+Cependant oseray-je à vostre esprit discret,  
+De mon bizare sort⁎ confier le secret ?  
+Le Ciel ne m'a point fait une ame ambitieuse,  
+Et l'espoir de regner ne me rend point heureuse.  
+Le Roy m'accable en vain, de biens à tous momens,  
+Je ne sens point pour luy ces tendres mouvemens,  
+Dont les Amans se font de douces habitudes,  
+Soins de plaire, transports, craintes⁎, inquietudes,  
+Je souffre sans regret qu'il s'éloigne de moy ;  
+Mon ame est sans plaisir lors que je le revoy,  
+Distraite auprés de luy, tranquille en son absence,  
+Ce qu'il dit, ce qu'il fait ne me plaist ny m'offense ;  
+Non [81] que rien⁎ ait caché son merite à mon cœur,  
+L'air grand, jeune Heros, tendre Amant, Roy vainqueur ;  
+Je connois tout le prix de sa personne auguste⁎,  
+Et mon aveugle erreur ne me rent point injuste ;  
+Mais qui peut de l'amour éviter le poison ?  
+L'ame est-elle toûjours soumise à la raison ?  
+Le Roy par ses bien-faits n'aspire qu'à me plaire ;  
+Je le voy, je le sçay ; tout ce que je puis faire,  
+C'est malgré mon penchant de voir avec ennuy⁎  
+Les foiblesses d'un coeur qui n'est pas fait pour luy.  
+
+    ZULEMAR.
+Quoy, Madame, un Heros que les mortels admirent,  
+Pour qui mille beautez secretement soûpirent ;  
+Puissant, heureux, vainqueur de cent Peuples divers,  
+Est-il donc un captif indigne de vos fers ?  
+Mais de vostre froideur je penetre⁎ la cause,  
+A l'amour de ce Prince, un autre amour s'oppose  
+Alamir….  
+
+    FATIME. 
+        Oüy, Seigneur, il a sceu me toucher,  
+Il m'a plû, je ne veux, je ne puis m'en cacher,  
+Sa grande ame a la gloire⁎ uniquement sensible,  
+Au milieu des flatteurs, constante, incorruptible,  
+Cette droite vertu, cette intrepidité,  
+Ce mépris des honneurs, cette sincerité :  
+Enfin mille raisons me le rendoient aimable,  
+Je croyois mon amour, fidelle, inviolable ;  
+J'en attestois des Dieux le pouvoir absolu,  
+Mes yeux, alors, mes yeux ne vous avoient pas veu.  
+
+    ZULEMAR.
+Moy, Madame ?  
+
+    FATIME.
+        L'aveu qu'icy je vous confie,  
+Offense le devoir, blesse la modestie :  
+Avant que d'en venir à cette extremité,  
+Quels efforts, quels combats ne m'a-t'il point coûté.  
+Croyez, lors que l'amour prend sur nous trop d'empire,  
+Qu'il n'est rien qu'on ne souffre avant que de le dire ;  
+Un destin rigoureux m'entraîne malgré moy.  
+Mais n'en redoublez point le trouble où je vous voy :  
+Si j'ai trop de mes feux⁎ montré la violence,  
+Je sçauray m'en punir par une longue absence,  
+Et mon cœur trop sensible à ces folles amours,  
+Vous les dit une fois pour les taire toûjours.  
+
+
+### SCENE VII.
+ZULEMAR, ABENDAX
+
+
+    ZULEMAR.
+Elle me quitte. Où suis-je, & que viens-je d'apprendre !  
+Juste Ciel….Ah ! sçais-tu ce qu'on m'a fait entendre⁎ !  
+Fatime…Mais suy moy, sortons de ce Palais :  
+Abendax, viens m'entendre⁎ en des lieux moins suspects.  
+Heureuse si les Dieux finissent la contrainte⁎…  
+
+    ABENDAX.
+Avant que vostre cœur s'abandonne à la plainte,  
+Aprenez d'Alamir le retour en ces lieux ;  
+Ce heros qu'on plaçoit au rang des demy Dieux,  
+Qui voyoit autrefois retournant de l'Armée,  
+Au devant de son char voler la renommée⁎  [82] ;  
+Et le zele⁎ empressé d'un Peuple adorateur  
+Parfumer son chemin, exalter sa valeur,  
+Accablé maintenant d'une douleur profonde,  
+Sans pompe, sans honneur, & fuy de tout le monde,  
+Inquiet, étonné, revient, entre sans bruit,  
+A peine accompagné d'un amy qui le suit.  
+
+    ZULEMAR.
+Ah Ciel ! ma jalousie a formé cet orage !  
+C'est elle qui le pert, & voilà mon ouvrage :  
+Grands Dieux ! de qui dépent le destin des humains,  
+Si vous desaprouvez mes innocens desseins,  
+Detournez d'Alamir ce couroux formidable,  
+Epuisez tout [83] sur moy, je suis seule coupable,  
+Mais, Abendax, sortons ; viens apprendre de moy  
+Ce que m'a dit Fatime, & ce que veut le Roy.  
+
+
+## ACTE II.
+
+
+### SCENE I.
+ALAMIR, GAZUL
+
+
+    ALAMIR.
+Non, ne nous flattons point d'une vaine esperance,  
+Plus mes exploits sont grands, plus mon retour l'offense ;  
+J'ay vaincu, mais je viens sans son ordre en ces lieux,  
+Et je ne montre enfin qu'un coupable à ses yeux,  
+Je ne m'aveugle point sur ma triste conduite, [84]  
+Je sçay quel est mon crime, & j'en prevoy la suite ;  
+Mais qu'il me fasse grace, ou m'envoye à la mort,  
+Je verray du mesme œil & l'un & l'autre sort⁎.  
+
+    GAZUL.
+Pourquoy de ce retour aprés vostre victoire,  
+Vous faites vous, Seigneur, une image si noire ;  
+Si les Dieux & les Roys ne pardonnoient jamais,  
+Les mal-heureux mortels pourroient-ils vivre en paix ?  
+
+    ALAMIR.
+Non, le trouble où tu vois que mon cœur s'abandonne,  
+N'est point [85] d'un mal-heureux que le suplice étonne⁎ ;  
+Mais de tant d'ennemis, triomphant & vainqueur,  
+Puis-je me regarder moy-mesme sans douleur ?  
+Lors qu'il faut qu'un pardon honteux à ma memoire,  
+Soit pour sauver mes jours le prix de ma victoire,  
+Vous qui prenez plaisir à former de vos mains  
+Quelques mortels plus grands que les autres humains.  
+A quelles passions, Dieux ! à combien d'outrages.  
+Sans cesse exposez-vous vos plus nobles ouvrages.  
+Gazul on nous éleve au rang des immortels,  
+Par tout à nos vertus on dresse des Autels,  
+Mais Helas ! tost ou tard nous détrompons les hommes,  
+Et toûjours quelque foible aprend ce que nous sommes :  
+De cette triste Loy, moy-mesme à nos neveux⁎,  
+Cher amy, je vais estre un exemple fameux,  
+J'abandonne l'Armée, & je trahis ma gloire,  
+Pour des raisons qu'un jour on aura peine à croire.  
+
+    GAZUL.
+Je l'avoüeray, Seigneur, puis que vostre bonté  
+Me donne auprés de vous entiere liberté,  
+Plus sur vostre retour en secret je medite,  
+Plus cherchant vos raisons, mon ame est interdite.  
+Je sçay que Zulemar, jeune, presomptueux [86]  
+Des passions du Roy, flatteur, respectueux, [87]  
+Nouveau dans les secrets du grand art⁎ Militaire.  
+Et pour toute vertu, sçavant en l'art⁎ de plaire ;  
+Depuis six mois à peine à la Cour arrivé,  
+Est déjà par la brigue⁎ aux employs élevé,  
+Son credit vous irrite, & par vostre presence  
+Vous venez balancer sa nouvelle puissance⁎.  
+
+    ALAMIR.
+Tu fais à ma foiblesse encore trop d'honneur,  
+L'ambition n'est pas ce qui trouble mon cœur :  
+Je suis, je l'avoüeray jaloux de cette gloire⁎,  
+Qui fait vivre à jamais les grands noms dans l'Histoire.  
+Dés ma plus tendre enfance ennemy du repos,  
+Je me suis proposé l'exemple des Heros,  
+Pour la faveur des Roys qu'au gré de leurs caprices,  
+Ils accordent souvent à de legers services ;  
+J'en cede l'avantage aux moindres Courtisans,  
+Qui sçavent mieux que moy prodiguer leurs encens :  
+Je n'ay point crû flatté d'un espoir temeraire,  
+Estre seul à l'Etat, & toujours necessaire  
+Pour commander l'Armée, & dispenser ses Loix.  
+Le Roy peut honorer Zulemar de son choix,  
+On ne me verra point par de secretes brigues⁎,  
+De l'heureux Favory détruire les intrigues ;  
+Son credit n'aura rien de chagrinant⁎ pour moy,  
+Et ma seule vertu me tiendra lieu d'employ⁎,  
+Tels sont mes sentiments, telle est ma politique,  
+Et je pense en effet ce que ma bouche explique.  
+Cependant ce cœur plein de ces grands sentimens,  
+A toutes les erreurs des plus foibles Amans ;  
+Oüy, dans ces lieux, Gazul, c'est l'amour qui m'entraîne,  
+Captif, trop glorieux pour une telle chaîne.  
+
+    GAZUL.
+Seigneur, que dites-vous ?  
+
+    ALAMIR.
+        Non, je ne rougis pas  
+D'avoir d'une Princesse adoré les appas :  
+Il n'est point de vertu que l'amour ne surmonte,  
+Fatime m'ecoutoit, j'ay pû l'aimer sans honte,  
+Mais que l'amour sur moy prenne tant de pouvoir,  
+Qu'une crainte⁎, un soupçon m'arrache à mon devoir,  
+C'est-là le seul moyen que je preste à l'envie⁎,  
+Pour ternir quelque jour tout l'éclat de ma vie.  
+
+    GAZUL.
+Seigneur, je voy Fatime, elle vient en ces lieux.  
+
+
+### SCENE II.
+ALAMIR, FATIME, GAZUL
+
+
+    FATIME.
+Que voy-je, est-ce Alamir, en croiray-je mes yeux ?  
+Sans suite, sans éclat, quel retour, quel silence !  
+Qu'est devenue enfin cette magnificence,  
+Ces Lauriers, cette Cour, ce Peuple, ces Soldats,  
+Dont la foule autrefois accompagnoit vos pas :  
+Ah ! Seigneur, si c'est vous, apres vostre victoire !  
+Où sont tous ces témoins pour me le faire croire ?  
+
+    ALAMIR.
+Quelque affreux changement qu'aporte mon retour,  
+Vous me voyez, Madame, avec le mesme amour ;  
+L'honneur de vous revoir est le seul où j'aspire  
+Heureux, & plus heureux que je ne vous puis dire ;  
+Si de ce prompt retour vous aprouvez l'ardeur,  
+Et si je vous retrouve avec le mesme cœur.****  
+
+    FATIME.
+Moy, Seigneur ?  
+
+    ALAMIR.
+        Jusqu'icy j'ay tout fait pour la gloire,  
+Madame, aprés avoir asseuré ma memoire :  
+Cherchant à respirer, ne pourray-je un moment  
+Paroistre moins vainqueur, pour estre plus Amant.  
+
+    FATIME.
+Mais du couroux du Roy, qui pourra vous défendre ?  
+Sur son authorité vous semblez entreprendre⁎,  
+Sans son ordre il vous voit revenir en ces lieux,  
+Lors que vous paroistrez tantost devant ses yeux,  
+Qu'à vous interroger il descendra luy-mesme :  
+Que luy répondrez-vous, Seigneur ?  
+
+    ALAMIR.
+        Que je vous aime.  
+L'Amour a fait mon crime, il me justifiera.  
+
+    FATIME.
+Ne vous y fiez pas, cet amour vous perdra.  
+Vous le diray-je enfin, quittez un lieu funeste ;  
+De vostre vie, ailleurs allez porter le reste,  
+Sous un Ciel plus serein, loin de vos envieux⁎,  
+Courez mettre à l'abry des jours si precieux.  
+On ne voit plus regner icy que l'injustice,  
+Fuyez, abandonnez une Cour où le vice  
+N'expose à vos regards que des coeurs corrompus.  
+
+    ALAMIR.
+Le vostre ne l'est point, que voudrois-je de plus ?  
+Deussay-je en cette Cour trouver la mort certaine,  
+D'eust m'accabler le Roy d'une implacable haine,  
+Quand je verrois pour moy tous les coeurs sans pitié,  
+Rien ne m'affligeroit que votre inimitié ;  
+Certain de vos bontez sur qui je me repose,  
+Quoy que fasse le Ciel contre moy, quoy qu'il ose,  
+J'ay tant de confiance en vous, en vostre foy :  
+
+    FATIME.
+Que dites-vous ? quelle est l'erreur où je vous voy ?  
+C'est trop vous affermir dans cette confiance,  
+Icy trop de malheurs⁎ ont suivy vostre absence,  
+Et je ne me sens point assez de fermeté,  
+Pour cacher à vos yeux la triste verité,  
+Vous avez en ces lieux, Seigneur, qui l'eust pû croire,  
+Des Rivaux pour l'amour, ainsi que pour la gloire.  
+Par le trouble où je suis, jugez de ma douleur,  
+Et pour ne point moy-mesme affliger votre coeur,  
+Souffrez que je vous cache un ennuy⁎ qui m'accable.  
+
+
+### SCENE III.
+ALAMIR , GAZUL
+
+
+    ALAMIR.
+Ah! Gazul, mon soupçon n'est que trop veritable,  
+Lors qu'un bruit incertain m'aprit qu'en cette Cour,  
+Un Rival dangereux traversoit mon amour :  
+De ses [88] premiers transports mon ame revenuë,  
+Zulemar fut le seul qui s'offrit à ma veuë ;  
+Son credit prés du Roy, ses nouvelles grandeurs,  
+Cette haine, Gazul, qui divise nos coeurs,  
+Tout me le dit, percé d'une douleur trop vive, [89]  
+J'abandonne mon camp, ma gloire⁎, tout, j'arrive,  
+Ce soupçon par Fatime est enfin confirmé,  
+N'en doutons point, il l'aime.  
+
+    GAZUL.
+        En seroit-t'il aimé ?  
+Luy, Seigneur.  
+
+    ALAMIR.
+        De l'amour la foiblesse est commune ;  
+Les yeux les mieux fermez s'ouvrent à la fortune⁎,  
+D'un Favory naissant, l'éclat est seducteur,  
+Mais je connois Fatime, & répons de son coeur,  
+Son trouble, ses regards, ses discours, son silence,  
+Tout m'apprend les combats rendus en mon absence,  
+Pour me garder un cœur qu'elle sçait qui m'est dû,  
+Mais allons cher Gazul, où je suis attendu :  
+Quoy que de Zulemar le pouvoir soit extréme,  
+Mes exploits prés du Roy parleront pour moy-méme,  
+Il me rendra l'estime acquise à mon devoir.  
+Entrons.  
+
+
+### SCENE IV.
+ALAMIR, GAZUL, OSMAR
+
+
+    OSMAR.
+        Seigneur, le Roy vous défent de le voir.  
+
+    ALAMIR.
+A moy ?  
+
+    OSMAR.
+        Votre retour sans ordre est une offense,  
+Qui soustrait à vos yeux son auguste⁎ presence.  
+Zulemar est chargé de ses ordres secrets,  
+Pour vous en avertir, je les devance exprés.  
+Ce Prince de sa part vous les doit faire entendre⁎,  
+Il va se rendre icy, c'est à vous de l'attendre.  
+
+    ALAMIR.
+A cette indignité, Dieux, me reserviez-vous ?  
+Quand viendra-t'il ?  
+
+    OSMAR.
+    Seigneur, le voicy.  
+
+
+### SCENE V.
+ALAMIR, ZULEMAR, OSMAR, GAZUL
+
+
+    ZULEMAR, *à Osmar*.
+        Laissez-nous,  
+Seigneur, avant qu'icy ma bouche vous explique  
+Tout ce que m'a du Roy prescrit la politique,  
+Permetez qu'à vos yeux je montre avec respect  
+Cette admiration qu'imprime votre aspect ;  
+Et souffrez que mon coeur plein de vostre memoire, [90]  
+Vous rende les tributs qu'on doit à vostre gloire⁎ :  
+L'aversion qui regne entre nos deux maisons,  
+Jettant dans les esprits mille nouveaux soubçons,  
+S'est fait de nous aigrir une loy souveraine :  
+Mais, Seigneur, pour un temps suspendons nostre haine,  
+Ou plûtost, & mon ame en fait tous ses souhaits ;  
+Reünissons nos coeurs en une heureuse paix,  
+De cette indigne haine humilions l'audace,  
+Je veux bien le premier implorer cette grace,  
+Et ne voit point de honte à briguer devant tous  
+L'estime & l'amitié⁎ [91] d'un Heros tel que vous.  
+Pourray-je me flater d'un union si chere ?  
+Le Roy de ses secrets m'a fait depositaire :  
+Vostre retour sans ordre excite son couroux,  
+J'ay son pouvoir en main : Ah ! qu'il me seroit doux  
+D'arracher vostre teste au coup qui la menace,  
+De vous rendre en ces lieux vostre premiere place,  
+Et de vous inspirer de prester⁎ vostre coeur  
+Aux sinceres avis d'un amy plein d'ardeur ;  
+Auprés du Roy pour vous je puis tout entreprendre,  
+Prés de vous pour moy-mesme, à quoy puis-je m'attendre.  
+
+    ALAMIR.
+Zulemar, car enfin éloigné de ces lieux,  
+Je n'ay point encor sceu tes titres glorieux.  
+Le Roy pour mon retour prevenu [92] de colere,  
+De son pouvoir sur moy t'a fait depositaire :  
+Tu le dis, mais enfin [93] pour m'offrir ton secours.  
+Pour te voir en effet l'arbitre de mes jours,  
+Aprens moy quels explois [94] t'ont rendu  remarquable ?  
+Et qu'a fait jusqu'icy ton bras de memorable ?  
+De cent jeunes beautez qui brillent à la Cour ;  
+Frivole adorateur tu sçais faire l'amour⁎ ;  
+Et c'est enfin sur quoy tout ton orgueil se fonde.  
+Mais puis qu'à tes bontez il faut que je réponde :  
+Ecoute & suis l'avis que je vais te donner,  
+A m'offrir ton appuy cesse de t'obstiner,  
+Ton indigne pitié me feroit trop d'outrage,  
+Montre-toi vray Zegri, contre un Abincerrage ;  
+L'honneur le plus certain & le plus grand pour toy,  
+C'est d'estre l'ennemy d'un homme tel que moy.  
+
+    ZULEMAR.
+Si pour moy cette haine avoit quelque avantage,  
+Rien ne m'empescheroit de le mettre en usage,  
+Et mon ame si loin en porteroit l'excez,  
+Que tel qui me dedaigne en craindroit les effets,  
+Mais, Seigneur, je penetre⁎, & voy vostre pensée :  
+Vous croyez que paré d'une vertu forcée,  
+Cherchant à profiter du trouble des esprits,  
+Je pretens élever mon sort⁎ sur vos débris,  
+Et que pour vous cacher cette lasche esperance,  
+D'une fausse pitié j'emprunte l'apparence :  
+Plust au Ciel que mon coeur vous pust estre connu,  
+De vostre injuste erreur desormais revenu ;  
+Loin de blâmer en luy cet excés de tendresse,  
+Un secret mouvement vous apprendroit sans cesse,  
+Que vous estes l'autheur du trouble où je me voy,  
+Et que sans vous l'amour n'eust pas fait mon employ⁎ ;  
+Mais le Roy veut sçavoir quel sujet vous amene,  
+C'est son ordre, je dois, ou m'attirer sa haine  
+En rendre un compte exact de tout notre entretien  
+Hé bien, Seigneur, parlez que luy diray-je ?  
+
+    ALAMIR.
+        Rien.  
+Si sçavoir mes desseins est son ordre supréme :  
+Me voila prest, il peut m'interroger luy-mesme ;  
+Pourquoy m'évite-t'il ? Si le sort⁎ envieux  
+M'avoit fait en vaincu retourner dans ces lieux ;  
+Dy moy que ferait-t'on de plus pour me confondre ?  
+Enfin ce n'est qu'au Roy que je pretens répondre,  
+Et je verray couler sans regret tout mon sang,  
+Plûtost que de rien⁎ faire indigne de mon rang. [95]  
+Adieu.  
+
+
+### SCENE VI.
+ZULEMAR, ABENDAX
+
+
+    ABENDAX.
+        Vous le voyez ; une haine invincible  
+A toutes vos bontez rend son coeur insensible :  
+Hé bien pour vous marquer⁎, qu'il dedaigne vos soins⁎ ;  
+En peut-il faire plus ? ****  
+
+    ZULEMAR.
+        En doit-il faire moins ?  
+Quoy que de la douceur j'emprunte le langage,  
+D'un ennemy toûjours il croit voir le visage,  
+S'il sçavoit qui je suis ; à cet aveu crois-tu  
+Qu'il conservait encor la cruelle vertu ?  
+Non, Abendax, il faut dévoiler ce mistere⁎ :  
+Allons, il faut luy dire...  
+
+    ABENDAX.
+        O Dieux ! qu'allez-vous faire ?  
+Luy croyez-vous un coeur capable de pitié ?  
+Pensez-vous triompher de son inimitié ;  
+Enfin ignorez-vous qu'il adore Fatime,  
+Il luy sacrifiera l'aveu de vostre estime.  
+Quelle honte ! & le Roy pour comble de malheur,  
+Apprenant vostre sort⁎ verra-t'il sans douleur,  
+Qu'il a mis ses secrets dans le sein d'une fille⁎,  
+Vous estes tout l'espoir d'une illustre famille ;  
+Songez, si vous parlez dans quel triste embarras...  
+
+    ZULEMAR.
+Mais Alamir se perd si je ne parle pas ;  
+Sur son retour icy le Roy veut qu'il prononce.  
+Si je vais raporter sa superbe⁎ réponse,  
+Cét orgueilleux refus terminera ses jours.  
+Que faire ? en ce moment le Ciel m'offre un secours ;  
+Si Fatime avec moy vouloit d'intelligence,  
+D'un Heros qu'elle outrage embrasser la défense...  
+Elle seule, Abendax, peut calmer mon soucy :  
+Viens, allons la trouver...Mais elle arrive icy.  
+
+
+### SCENE VII. 
+ZULEMAR, FATIME, ABENDAX
+
+
+    FATIME.
+Du destin d'Alamir, Seigneur, daignez m'instruire ;  
+Vous venez de le voir, que vous a-t'il pû dire,  
+Aux volontez du Roy ? s'est-t'il enfin rendu ?  
+Qu'en doit-t'on esperer ?  
+
+    ZULEMAR.
+        Madame, il est perdu.  
+Et si dans ce moment vous n'obtenez sa grace,  
+Rien ne peut arrester le coup qui le menace,  
+Vous seule auprés du Roy vous pouvez tout pour luy :  
+Parlez en sa faveur, prestez-luy vostre appuy ;  
+Obtenez qu'il le voye, obtenez qu'il l'écoute,  
+Privé de ce secours, il se perdra sans doute.  
+
+    FATIME.
+Moy ? que pour Alamir j'aille parler au Roy ?  
+Si le penchant secret que ce Prince a pour moy  
+Luy fait tout accorder, si j'en obtiens ce gage,  
+Songez-vous bien, Seigneur, où sa bonté m'engage ?  
+
+    ZULEMAR.
+Rien n'est à ménager pour sauver un vainqueur,  
+Dont son aveugle amour [96] a fait tout le malheur.  
+Le Ciel vous offre enfin un moyen infaillible,  
+Peut-estre que l'effort vous en sera penible ;  
+Mais si vous sentiez assez de fermeté,  
+Pour luy parler, Madame, avec sincerité,  
+Si vous luy confirmiez de vostre propre bouche  
+Que l'amour qu'il ressent n'a plus rien qui vous touche ;  
+Honteux de son erreur, privé de tout espoir,  
+Alamir rentreroit bien-tost dans son devoir.  
+
+    FATIME.
+Ah ! que me dites vous ? Quoy ma bouche cruelle  
+L'accableroit encor d'une douleur mortelle :  
+J'irois luy reveler mon infidelité ;  
+Que me demandez-vous, à quelle extremité ?  
+Portez-vous de mon coeur l'innocence tendresse ?  
+Ah ! de grace, Seigneur, épargnez ma foiblesse !  
+Moy luy dire son sort⁎, ignorante du mien ?  
+Helas ! suis-je en état de l'instruire du sien ?  
+Non il vaut mieux suivant ma triste destinée,  
+Aller traîner ailleurs ma vie infortunée :  
+De souffrir⁎ mon départ, je vais presser le Roy,  
+Venez, Seigneur, venez vous joindre avecque [97] moy.  
+Icy par mon exil tout changera de face ;  
+Alamir obtiendra facilement sa grace :  
+L'équitable raison éclairera le Roy,  
+Chacun sera content, tout sera calme : Et moy  
+Je fuiray des regards que ma presence gesne⁎,  
+Et qui sur moy, Seigneur, ne tombent qu'avec peine.  
+
+    ZULEMAR.
+Madame....  
+
+    FATIME.
+        Au nom des Dieux ne me resistez pas,  
+Je sçay que ce dessein avance mon trépas ;  
+Mais cette vie, helas ! que chacun tient si chere ,  
+Ne me plaisoit qu'autant qu'elle pouvoit vous plaire ;  
+Et puis que rien en vous ne flatte mon espoir,  
+Je vais priver mes yeux du plaisir de vous voir.  
+
+    ZULEMAR.
+Helas ! quelle est la fin que le sort⁎ me destine !  
+Le Ciel détruit toûjours tout ce que j'imagine !  
+Mais ne la quitons pas, profitons de l'erreur  
+Qui me rend malgré moy maîtresse de son coeur ;  
+Qu'en faveur d'Alamir elle agisse, elle presse,  
+A ce prix, s'il le faut, écoutons sa tendresse,  
+Trompons-là, tout est juste, & tout est glorieux,  
+Pour sauver du trépas ce qu'on aime le mieux.  
+Fin du second Acte.
+
+
+## ACTE III. 
+
+
+### SCENE I.
+ZULEMAR, ABENDAX
+
+
+    ZULEMAR.
+Oüy tu verras changer le destin qui m'accable;  
+Fatime à mes desseins veut estre favorable,  
+A flatter son amour j'ay long-temps balancé,  
+Mais enfin, Abendax, mon scrupule a cessé ;  
+Quand j'ay veu que l'erreur où son coeur s'abandonne,  
+Sur la teste bien-tost attachoit la Couronne.  
+Grace au penchant secret qui luy parle pour moy,  
+Elle mesme a couru flechir l'esprit du Roy :  
+Que te diray-je enfin, il n'a pû s'en défendre,  
+Il doit voir Alamir en ces lieux et l'entendre⁎,  
+C'est ce qu'on vient déja de luy faire sçavoir ;  
+Tu vois qu'avec raison je reprens quelque espoir,  
+En daignant l'asseurer du pardon de son crime,  
+Le Roy ne taira point qu'il brûle pour Fatime.  
+Le Princesse elle-mesme aprés leur entretien,  
+De son manque de foy ne luy cachera rien.  
+Juge de sa douleur à ce revers funeste.  
+Pense-tu qu'il m'evite, encor qu'il me deteste ;  
+Lors qu'expliquant mon sort⁎, implorant son apuy  
+Ma bouche luy dira ce que je sens pour luy,  
+Non, son grand coeur touché de ma perseverance,  
+Ne mettra plus de borne à sa reconnoissance.  
+Quelle gloire, Abendax, quel plaisir, quel bonheur  
+D'occuper, de remplir, de posseder un coeur  
+Fier, inflexible, exempt de honte, de bassesse,  
+Et dont l'amour enfin est l'unique foiblesse :  
+Mais j'entens Alamir : c'est luy, retire toy.  
+
+
+### SCENE II.
+ALAMIR, ZULEMAR
+
+
+    ZULEMAR.
+Seigneur dans un moment vous allez voir le Roy,  
+J'ay flechy son esprit, j'ay vaincu sa colere,  
+Et s'il vous parle enfin ce n'est qu'à ma priere.  
+Voyez, & daignez-en juger par les effets, [98]  
+Si d'un coeur ennemy ce sont-là les projets :  
+Au reste quand pour vous tout s'unit, tout conspire,  
+Vous-mesme en ce moment n'allez pas vous détruire,  
+Ménagez avec soin un Monarque irrité ;  
+Voyez-le sans chagrin⁎, parlez luy sans fierté,  
+Il a toûjours pour vous une sincere estime,  
+Il ne peut soubçonner [99] vostre vertu d'un crime,  
+Et s'il veut qu'attachés toûjours à leur devoir,  
+Les plus grands soient les plus soûmis à son pouvoir :  
+Si pour vous étonner⁎ il montre en apparence  
+Trop de ressentiment d'une legere offense,  
+Cette severité ne tient rien des tirans,  
+Ses desseins sont toûjours aussi justes que grands,  
+Et soit que son pouvoir récompense ou punisse,  
+La raison le conduit⁎, & non pas le caprice :  
+Mais les Princes, Seigneur, que l'équité soûtient,  
+Veulent estre absolus, vous le sçavez. Il vient  
+Je vous laisse.  
+
+
+### SCENE III.
+ABDERAMEN, ALAMIR
+
+
+    ALAMIR.
+    Seigneur...  
+
+    ABDERAMEN.
+        Observez le silence,  
+Alamir ; vostre orgueil demande ma presence,  
+Je l'accorde, je fais ce que vous souhaitez,  
+Mais avant qu'expliquer vos raisons, écoutez.  
+Vous estes grand, fameux, mille exploits pleins de gloire  
+Affleurent de vos jours l'éclatante memoire. [100]  
+Vous avez crû peut-estre en violant les Loix ;  
+Qu'elles devoient se taire au bruit de vos exploits :  
+Mais non, plus les sujets sont prés des Diadémes  
+Plus un devoir exact doit regner sur eux-mesmes.  
+De l'Univers entier observez ; c'est sur eux  
+Que les Roys pour donner des exemples fameux  
+Avec plus de splendeur signalent leurs puissances,  
+Par des punitions ou par des récompenses.  
+Si j'avois voulu croire un trop juste couroux,  
+Vostre retour m'offroit ce grand exemple en vous ;  
+Mais vos rares vertus, & ma reconnoissance  
+Avoient de mes transports calmé la violence,  
+Sans examiner rien je vous faisois partir,  
+Il ne vous en auroit cousté qu'un repentir :  
+Vous n'avez pas daigné profiter de ma grace,  
+Au contraire à cet offre augmentant vostre audace,  
+Vous avez demandé fierement à me voir.  
+Me voicy ; vostre sort⁎ n'est plus en mon pouvoir,  
+Aux Loix de mon Etat il faut que j'obeïsse,  
+Que je vous récompense, ou que je vous punisse.  
+Voila ce qu'ont produit vos desirs imprudens⁎ [101],  
+Il suffit ; à presant parlez, je vous entens.  
+
+    ALAMIR.
+Seigneur, je ne veux point chercher pour ma défense  
+Tout ce qui peut icy demander ma presence ;  
+J'aurois mille raisons pour me justifier,  
+Si sur de tels secours je voulois m'appuyer ;  
+Je l'avouë, & ma gloire⁎ en ce moment blessée  
+Ne me punit que trop d'une ardeur insensée...  
+J'aime : si de l'amour les trop puissantes Loix,  
+Dans toutes leur rigueur pressoient le coeur des Roys ;  
+Si de son ascendant vous connoissiez l'empire,  
+Pour paroistre innocent je n'aurois rien à dire.  
+Oüy, Seigneur, entraîné par ce fatal⁎ pouvoir,  
+J'ay violé les Loix, j'ai trahy mon devoir ;  
+J'ay merité la mort, & perds toute esperance,  
+Si la justice en vous ne cede à la clemence,  
+Peut-estre aurois-je pû, fier d'un peu de bonheur  
+Raconter mes exploits pour toucher vostre coeur ;  
+Vous dire que mon bras, graces aux Dieux propices,  
+A sceu rendre à l'Etat d'assez heureux services,  
+Et que mon sang pour vous répandu mille fois  
+Doit affranchir mon sort de la rigueur des Loix.  
+Mais qu'ay-je fait, Seigneur, dont l'honneur de le faire  
+Dans le mesme moment, n'ait esté le salaire.  
+Vos ordres, il est vray, me pressoient de partir,  
+Mais à ne vous point voir je n'ay pû consentir.  
+Non, Seigneur, qu'obstiné dans ma coupable audace,  
+J'aye approuvé mon crime, & refusé ma grace ;  
+Vostre seul interest a pû dans vostre Cour  
+Pour quelque temps encor prolonger mon sejour.  
+Objet infortuné d'une haine trop juste,  
+Mal-heureux & privé de vostre aspect auguste⁎.  
+Aurois-je osé, Seigneur, commander vos Soldats ?  
+Auroient-ils desormais voulu suivre mes pas ?  
+Lors qu'un Camp empressé nous sert & nous revere,  
+C'est vous seul, c'est son Roy qu'en nous il considere,  
+Et qui d'un Favory veut bien suivre les loix,  
+D'un mal-heureux banny meconnoitroit la voix.  
+
+    ABDERAMEN.
+De ces vaines couleurs je croy peu l'apparence ;  
+Mais de tous vos desseins je connois l'innocence :  
+Alamir mon esprit étouffe les soupçons, [102]  
+Et cede à la bonté plûtost qu'à vos raisons ;  
+Je répandray sur vous tant de biens, tant de gloire⁎  
+Que de vostre disgrace on perdra la memoire :  
+Mais suivy desormais du Peuple & des Soldats,  
+Que vous verrez marcher en foule sur vos pas,  
+Dés ce jour mesme, allez rejoindre mon Armée  
+Et faites pour mon choix parler la renommée⁎.  
+
+    ALAMIR.
+Par une grace encor daignez combler mes vœux :  
+La Princesse Fatime est l'objet de mes feux⁎,  
+Permettez qu'à jamais une foy mutuelle...  
+
+    ABDERAMEN.
+Elle est digne de vous, vous estes digne d'elle [103]  
+Vous meritez sans doute un objet si charmant ;  
+Alamir, mais le Ciel en dispose autrement,  
+Et pour vous dire tout, une loy souveraine,  
+Pour jamais vous separe, & la fait vostre Reine.  
+
+    ALAMIR.
+Quoy, Seigneur…  
+
+    ABDERAMEN. 
+        Je l'épouse étouffant vostre espoir,  
+Ce n'est plus qu'en sujet que vous la devez voir.  
+
+    ALAMIR.
+Surpris, saisi, frapé⁎ de ce que j'entens dire,  
+Dans mon étonnement⁎ à peine⁎ je respire :  
+Vous mon Rival, c'est vous qui m'enlevez la foy…  
+D'un cœur dont tous les vœux auroient été pour moi ;  
+Avant que ma douleur ait franchy les limites,  
+Des inhumaines Loix à mon respect prescrites :  
+Permettez-moy d'aller dans de sauvages lieux  
+Me plaindre en liberté de mon sort⁎ et des Dieux.  
+
+    ABDERAMEN.
+J'ay preveu vos douleurs, j'en ay senty l'atteinte,  
+Pour fermer contre moy vostre bouche à la plainte,  
+Long-temps à mes désirs je me suis opposé :  
+Mais j'aime, je suis Roy. Dieux ! qu'il est mal aisé,  
+Lors que l'amour sur nous regne avec violence,  
+De ne se pas servir de toute sa puissance⁎ ;  
+Mais enfin pour m'oster le nom de Prince ingrat,  
+Alamir disposez, de moy, de mon Etat,  
+Souhaitez, demandez, épuisez ma puissance⁎,  
+Il n'est rien au dessus de vostre récompense.  
+
+    ALAMIR.
+Qu'ay-je affaire [104], Seigneur, de rang, de dignitez ?  
+Et quel bien peut payer le cœur que vous m'ostez ?  
+Fatime est l'objet seul pour qui j'aimois la vie,  
+C'estoit tout mon espoir, vous me l'avez ravie :  
+Je n'écoute plus rien, promesse ny danger,  
+Je n'ai plus rien à craindre, & rien à ménager.  
+Ah ! quand de mes exploits vous perdez la memoire,  
+Si je perdois aussi tout le soin de ma gloire,  
+Chef de tant de Soldats, & tant de fois vainqueur,  
+Qu'aisement je pourrois meriter mon malheur.   
+
+    ABDERAMEN. 
+Je vous entens, je voy ce que vous pouvez faire.  
+Je sçauray profiter de cet aveu sincere.  
+Pensez-y.  
+
+
+### SCENE IV.
+
+    ALAMIR.
+        Qu'ay-je à craindre en l'état où je suis :  
+Est-il quelques malheurs plus grands que mes ennuys⁎ ?  
+Mon maistre est mon Rival, il m'enleve Fatime :  
+Roy barbare, crois-tu joüir de son estime ?  
+Crois-tu toucher son cœur, non ne t'en flatte pas.  
+Ton Thrône, ta grandeur, tes soins n'ont point d'appas.  
+Qui puissent de son ame effacer la memoire,  
+De tout ce qu'elle doit à ma flâme, à sa gloire,  
+Je la connois ; certain que ses vœux sont pour moy.  
+Je me tiens beaucoup moins infortuné que toy.  
+
+
+### SCENE V.
+ALAMIR, Fatime
+
+
+    FATIME.
+Ah ! que viens-je de voir ? Seigneur, le Roy vous quitte.  
+Le front triste, la veüe égarée, interdite,  
+Ses regards menaçans où regne la fureur.  
+Aux cœurs les plus hardis impriment la terreur,  
+Que je crains pour vos jours, l'orage qui s'apreste  
+De ces terribles coups détournez vostre teste,  
+Encor un coup⁎ quittez ces détestables lieux.  
+
+    ALAMIR.
+Non, Madame, il m'est doux de mourir à vos yeux,  
+Pour rendre à mes regards, ce sejour⁎ formidable⁎,  
+Pour me faire quitter cette Cour détestable,  
+Il faudroit qu'un Rival occupant vostre cœur,  
+Eust contre moy changé vostre amour en horreur :  
+J'irois cacher ailleurs ma honte & ma foiblesse,  
+Mais tant que je seray seur de vostre tendresse,  
+On ne me verra point inquieté, surpris,  
+Fuir, craindre des malheurs, dont Fatime est le prix.  
+
+    FATIME.
+Seigneur, de tous les soins que l'amour vous suggere,  
+Le plus pressant pour vous, & le plus salutaire,  
+C'est de partir.  
+
+    ALAMIR.
+        Hé bien, Madame, je vous croy ;  
+Vous l'ordonnez, je parts, mais partez avec moy.  
+Venez suivant l'amour que l'honneur authorise,  
+M'asseurer de la foy que vous m'avez promise.  
+Allons en d'autres lieux cacher nostre malheur :  
+Vous ne répondez rien, & changez de couleur,  
+Que presage à mes yeux ce silence timide⁎ ?  
+Croyez-vous qu'Alamir soit un lâche, un perfide,  
+Qui…Non vous n'avez point ce doute injurieux,  
+Vous suivrez un Epoux approuvé par les Dieux :  
+Pourquoy craindre, pourquoy soubçonner ma conduite.  
+Ma Princesse, parlez.  
+
+    FATIME.
+        Où me vois-je reduite ?  
+Grands Dieux ! que mon destin est affreux, est cruel ;  
+Quand la honte m'impose un silence éternel,  
+Le tyrannique honneur me défend de me taire,  
+L'un & l'autre à mon cœur parle d'un ton severe ;  
+Mais de mille malheurs⁎ dust le Ciel m'accabler,  
+Le peril est trop grand, trop proche, il faut parler :  
+Sortez, Seigneur, sortez de l'erreur où vous estes ;  
+Apprenez qui je suis, voyez ce que vous faites :  
+Cessez de fuir pour moy tant de prosperitez,  
+Rebelle à vos desirs, ingrate à vos bontez ;  
+Indigne pour jamais du feu qui vous anime ;  
+Je ne merite plus vos vœux ny vostre estime.  
+Les Dieux, les cruels Dieux jaloux de mon bonheur,  
+Se sont fait un plaisir de verser dans mon cœur  
+Un poison, dont soudain la funeste puissance  
+A noircy de mes jours, a détruit l'innocence.  
+L'état où je vous voy m'arrache cet aveu  
+Oubliez tout de moy, jusqu'à mon nom : Adieu.  
+
+
+### SCENE VI.
+
+    ALAMIR.
+Où suis-je, juste Ciel ! L'ay-je bien entenduë⁎?  
+Fatime se declare infidelle à ma veuë.  
+Des malheurs⁎ que tâchoient de prevenir mes soins :  
+Helas ! voila celuy que je craignois le moins !  
+Lors que je la croyois de moy seul occupée.  
+La cruelle…  
+
+
+### SCENE VII. 
+ALAMIR, OSMAR, GARDES
+
+
+    OSMAR.
+        Seigneur, donnez moy vostre épée :  
+C'est par l'ordre du Roy.  
+
+    ALAMIR.
+    Mon épée ?  
+
+    OSMAR.
+        Oüy, Seigneur.  
+
+    ALAMIR.
+A quel trouble honteux s'abandonne mon cœur !  
+Tenez.  
+
+    OSMAR.
+        C'est malgré moy qu'un ordre qui m'accable,  
+Fait passer dans mes mains ce fer si redoutable.  
+
+    ALAMIR.
+Il suffit, je rends grace, Osmar, à vos bontez.  
+Marchez, conduisez⁎-moy, je vous suis.  
+
+
+### SCENE VIII. 
+ALAMIR, ZULEMAR, OSMAR, ABENDAX, GARDES
+
+
+    ZULEMAR.
+        Arrestez.  
+Osmar. Je viens, Seigneur, vous offrir vostre grace.  
+
+    ALAMIR.
+Tu me braves encor : Poursuis dans cette audace.  
+L'ordre de m'arrester est conduit⁎ prudemment⁎.  
+Si tu l'avois osé devancer d'un moment,  
+Mon bras t'eust épargné les peines que te donne,  
+Le soin qu'auprés du Roy tu prens de ma personne.  
+Si j'estois libre enfin, ton insolente voix  
+Ne m'insulteroit pas une seconde fois.  
+
+    ZULEMAR.
+Que vous estes injuste ! Hé ! que faut-t'il donc faire ?  
+Pour vous prouver un zele⁎, une amitié⁎ [105] sincere :  
+Mais contre moy, Seigneur, avant que d'éclater,  
+Voyez ce que je fais, & daignez m'écouter.  
+L'amour, vous le sçavez est vostre unique crime,  
+Pour vous rendre innocent, renoncez à Fatime :  
+Faites plus, pour calmer tous les soupçons du Roy,  
+A quelque autre Princesse engagez vostre foy.  
+Il en est de mon sang une qui vous adore,  
+Une que l'Univers ne connoist point encore ;  
+Qui sous un autre nom élevée en ces lieux,  
+Cachée à tous, n'a pû se cacher à vos yeux.  
+Vous avez dans son cœur fait naistre une tendresse,  
+Qui dans tous vos malheurs malgré vous l'interesse [106].  
+Elle vous voit souvent, & preste⁎ [107] à vous parler,  
+De crainte⁎ en vous voyant, elle se sent troubler.  
+Son nom haï de vous, la glace, l'épouvante,  
+Et retient son aveu sur sa levre tremblante :  
+Mais ses yeux attachez à vous considerer,  
+Son ame en ses discours facile à s'égarer,  
+Son trouble, mille soins que l'on ne peut comprendre,  
+Tout vous dit son amour si vous voulez l'entendre⁎.  
+Seigneur si vous sçaviez ce qu'elle sent pour vous…  
+
+    ALAMIR.
+Qui moy ? d'une Zegri je deviendrois l'époux ?  
+Eust-elle à me donner tout l'Empire du monde,  
+En esprit, en beauté, fust-elle sans seconde⁎ ;  
+Son cœur d'un tendre amour fust-il épris pour moy,  
+C'est assez qu'elle soit du mesme sang que toy.  
+Pour mettre dans mon cœur, pour allumer contre elle  
+Une haine invincible, une horreur éternelle :  
+Que dis-je, en écoutant l'offre que tu m'en fais,  
+Je la déteste encor plus que je ne te hais.  
+
+    ZULEMAR.
+Ah ! Seigneur apprenez….  
+
+    ALAMIR.
+        Je ne veux rien apprendre.  
+Assez, & trop long-temps j'ay souffert à t'entendre⁎.  
+Gardes delivrez-moy d'un objet odieux.  
+
+    ZULEMAR.
+Tu seras satisfait : Qu'on l'oste de ces lieux,  
+Je ne vous retiens plus. Gardes qu'on le saisisse ;  
+Vous avez l'ordre, Osmar, faites qu'on obeïsse.  
+
+
+### SCENE IX. 
+ZULEMAR, ABENDAX
+
+
+    ZULEMAR.
+Va, cours, marche au devant d'un trépas asseuré  
+Prince indigne du sort qui t'estoit preparé :  
+Mal-heureuse, j'allois pleine de ma tendresse,  
+Luy découvrir mon sexe, avoüer ma foiblesse.  
+Que dis-je, tout mon sort⁎ est déjà revelé,  
+Il a veu mon desordre, & mes yeux ont parlé.  
+Mais enfin, Abendax, à moy-mesme renduë,  
+Et d'un juste dépit desormais soûtenuë :  
+J'aspire à me venger de ces cruels mépris,  
+D'un mal-heureux amour seul & funeste prix :  
+Je vais presser du Roy l'implacable colere,  
+L'irriter, l'animer contre ce temeraire,  
+Sacrifier l'ingrat à ma juste fureur :  
+Dussay-je après sa mort expirer de douleur.  
+Fin du troisième Acte.
+
+
+## ACTE IV. 
+
+
+### SCENE I.
+FATIME, ZINDARISE
+
+
+    ZINDARISE.
+Ouy, Madame, avec soin les portes sont gardées  
+D'armes & de Soldats, les places sont bordées,  
+Les Courtisans confus, les Ministres troublez,  
+Les Princes interdits, les Juges assemblez.  
+Le Roy mesme inquiet fuyant l'aspect du monde,  
+Jette dans les esprits une terreur profonde.  
+Il marche environné de chefs & de Soldats.  
+Un gros⁎ de Senateurs accompagne ses pas,  
+Tristes, épouvantez, leurs visages severes  
+N'ont point de leur vertu les marques ordinaires.  
+Ces mortels redoutez qui tiennent dans leurs mains,  
+La puissance⁎ des Roys, & le sort des humains,  
+Semblent craindre aujourd'huy l'ordre qui les assemble :  
+Tout garde le silence, autour du Roy tout tremble.  
+Au milieu de la place un échafault dressé,  
+Attire les regards d'un grand Peuple amassé,  
+Qui paslit, & qui craint de voir tomber la teste,  
+Que menace aujourd'huy cette horrible tempeste.  
+De ses propres employs⁎ abandonnant le soin,  
+Chacun de ce grand jour veut estre le témoin.  
+Tout fremit : Cependant parmi cette tristesse  
+On voit encor briller des marques d'allegresse.  
+Les Temples sont ouverts, les Autels sont ornez :  
+Les Prestres revêtus, & de fleurs couronnez,  
+Etallent l'appareil des plus celebres Festes ;  
+L'encens fume par tout, les victimes sont prestes.  
+D'un juste étonnement⁎ les esprits occupez,  
+Sur tant d'objets divers dont les yeux sont frappez,  
+En discours superflus se lassent & s'épuisent,  
+Inventent des raisons qu'aussi-tost ils detruisent,  
+Et plus à s'éclaircir ils veulent s'éforcer,  
+Plus ils trouvent d'horreurs qu'ils ne sçauroient percer.  
+
+    FATIME.
+Pour quel dessein fait-on des apprests si contraires,  
+Et qui m'expliquera ces funestes misteres⁎ :  
+Qui livrent mon esprit à de cruels soupçons ? [108]  
+
+    ZINDARISE.
+Seul de tous ses projets le Roy sçait les raisons,  
+Le secret fut toûjours sa grande politique ;  
+Mais il vient : Avec vous, faites qu'il s'en explique.  
+
+
+### SCENE II. 
+ABDERAMEN, FATIME, ZINDARISE
+
+
+    ABDERAMEN.
+Tandis que mes Sujets sont dans l'étonnement⁎,  
+Et d'un jour si pompeux craignent l'évenement⁎ :  
+Souffrez que sans témoins je vous parle, Madame,  
+Et vous découvre icy les secrets de mon ame.  
+Je vous aime : Mes soins, mes regards, mes soûpirs,  
+Ont malgré moy sans doute expliqué mes desirs ;  
+Mais jusqu'icy ma bouche auprés de vous muete,  
+D'aujourd'huy seulement en devient l'interprete.  
+Non qu'une crainte indigne, & de vous & de moy,  
+Ait pû vous disputer⁎ l'amour de vostre Roy :  
+Mais comme l'Etat doit regler nos hymenées,  
+Les passions des Roys sont toûjours soupçonnées :  
+Lors qu'aucun interest n'apuyant leurs projets,  
+On les voit adorer le sang de leurs Sujets.  
+J'ay craint qu'on n'imputast mes plus tendres hommages⁎,  
+Au fol empressement de ces ardeurs volages,  
+Qui ne font naistre en nous que d'injustes desirs,  
+Et qui n'ont pour objet que de foibles plaisirs⁎.  
+Madame à vostre Roy vostre gloire⁎ estoit chere,  
+Je me suis fait pour elle une loy de me taire.  
+Je parle maintenant, & veux que ce grand jour  
+Par un heureux hymen, vous prouve mon amour.  
+
+    FATIME. 
+Seigneur de vos projets, étonnée⁎, interdite,  
+Je ne puis vous cacher le trouble qui m'agite,  
+Tant de soins, tant d'honneurs que je n'attandois pas…  
+
+    ABDERAMEN.
+Je penetre⁎ aisement d'où naist vostre embaras :  
+Pour le sort d'Alamir dont le cœur vous adore,  
+Une juste pitié vous sollicite encore.  
+Vos regards attendris n'envisagent mon rang,  
+Que comme un triste honneur cimenté de mon sang.  
+Vous avez pû sçavoir que sa coupable audace,  
+Desormais devant moy ne trouve plus de grace.  
+Que la mort va l'oster du nombre des humains :  
+Mais n'apprehendez rien, sa grace est en vos mains :  
+Oüy, lors qu'à mon destin vous allez estre unie,  
+Je veux qu'en vous perdant il vous doive la vie,  
+Et qu'ainsi le pardon d'un fameux criminel,  
+Attache à vostre regne un honneur éternel.  
+Je vous ay reservé cette grace éclatante :  
+Connoissez le bonheur que le sort vous presente.  
+Combien est-il de Roys comblez d'ans & d'honneurs,  
+Qui par mille bontez ont charmé tous les cœurs,  
+Et n'ont pû sur le Thrône élevez dés l'enfance,  
+Sur d'aussi grands sujets signaler leur clemence.  
+Venez donc à l'Autel en me donnant la foy,  
+Vous assurer….  
+
+    FATIME.
+        Seigneur, qu'exigez-vous de moy ?  
+
+    ABDERAMEN.
+Quand vous allez regner, lors qu'un Roy qui vous aime,  
+Remet entre vos mains avec son Diadéme,  
+Le sort⁎ d'un orgueilleux qu'il a droit de punir,  
+Quand tout doit vous presser, qui vous peut retenir ?  
+
+    FATIME. 
+Si vous perdez pour moi le soin de vostre gloire⁎ ;  
+Seigneur, dois-je pour vous en perdre la memoire.  
+Quel est vostre dessein, lors que de toutes parts,  
+Vostre hymen souhaité suspend tous les regards ;  
+Quand l'Afrique vous offre avecque ses Princesses.  
+Le secours de ses Roys, ses ports & ses richesses.  
+De ce pompeux hymen vous voulez m'honorer,  
+Moy qui de tout l'éclat dont je puis me parer,  
+Ne compte que l'honneur d'estre vostre sujete,  
+Pour vos seuls interests, pour vous-mesme inquiete,  
+Souffrez que je m'oppose à cet aveugle amour :  
+Que croiroient vos sujets, que diroit vostre Cour ?  
+
+    ABDERAMEN.
+Ne vous informez point de ce qu'on pourra croire,  
+C'est à moy d'avoir soin de mon rang, de ma gloire⁎ ;  
+Et c'est à mes Sujets sans s'en inquieter,  
+De voir mes passions, & de les respecter.  
+A ce supréme honneur que je pretens vous faire,  
+Madame, j'avois crû vous trouver moins contraire ;  
+Si c'est trop m'abaisser, que d'estre vostre Epoux,  
+Je ne m'attandois pas d'en estre instruit par vous.  
+Ce conseil genereux part d'un cœur magnanime,  
+Mais ce cœur, est-ce enfin la gloire⁎ qui l'anime.  
+Des interests plus chers n'y sont-ils point mêlez ?  
+N'envelope-t'il point d'autres secrets…Parlez,  
+Madame, & sans détour que vostre cœur s'explique.  
+
+    FATIME.
+Vous me le commandez, j'obeïs sans replique,  
+On ne peut rien cacher aux Roys, non plus qu'aux Dieux.  
+Si le Ciel sur le thrône avoit mis mes ayeux,  
+J'aurois fait mes plaisirs⁎, j'aurois fait mon envie⁎,  
+D'assurer le bon-heur de vostre illustre vie :  
+J'aurois tout employé pour meriter le choix,  
+Seigneur, du plus parfait, & du plus grand des Roys.  
+Mais dans un rang plus bas, reduite dés l'enfance,  
+Mon cœur s'est fait un choix conforme à ma naissance,  
+Pour un de vos Sujets. L'amour l'a sceu toucher,  
+C'est en vain qu'à vos yeux je voudrois le cacher :  
+Si malgré cet aveu vostre amour persevere,  
+Si le don de ma main peut encore vous plaire,  
+Vous n'avez qu'à parler, elle est à vous, Seigneur :  
+Mais quand je ne vous puis répondre de mon cœur,  
+Pourriez-vous…  
+
+    ABDERAMEN.
+        Oüy je puis perdre le temeraire,  
+Qui m'ose disputer⁎ le bonheur de vous plaire.  
+Le succez de mes feux decide de son sort ;  
+Cet aveu, vos refus precipitent sa mort.  
+Songez-y ; sur ce point c'est à vous de resoudre,  
+Vous n'avez qu'un moment pour retenir la foudre.  
+Gardes à moy.  
+
+
+### SCENE III.
+ABDERAMEN, ZULEMAR, FATIME
+
+
+    ZULEMAR.
+    Seigneur.  
+
+    ABDERAMEN.
+        Encor un coup⁎ parlez.  
+Les Juges au Senat par mon ordre assemblez,  
+Sur le sort d'Alamir attendent ma réponse,  
+Quel Arrest voulez-vous que ma bouche prononce  
+C'est de vous que dépent ou sa vie ou se mort.  
+
+    FATIME. 
+Le Ciel qui vous a fait le maistre de son sort⁎,  
+Daigne de ce Heros vous prouver l'innocence,  
+Mais n'attendez de moy qu'un mal-heureux silence :  
+Le don de nostre cœur ne dépend point de nous.  
+
+    ABDERAMEN.
+C'est trop par vos refus exciter mon couroux.  
+Allez porter mon ordre au Senat tout à l'heure.  
+Zulemar. Alamir est coupable, qu'il meure.  
+
+    ZULEMAR.
+Qu'il meure ?  
+
+    ABDERAMEN.
+        En sa faveur elle ose rejetter  
+Le Sceptre que ma main vient de luy presenter.  
+Un sujet insolent accablé de ma haine,  
+Dont l'univers sans moy se souviendroit à peine⁎ :  
+A mon Sceptre, à mon rang se verra preferé ;  
+Ils pourront me braver, & je le souffriray ?  
+D'une ingrate, d'un traistre il faut que je me venge ;  
+Qu'il expire à ses yeux, je l'ordonne.  
+
+    ZULEMAR.
+        Qu'entens-je ?  
+Les Dieux m'en sont témoins, plus animé que vous  
+Je venois en ces lieux presser vostre couroux,  
+Accuser Alamir, demander son supplice,  
+J'en ay trop de raisons ; mais s'il faut qu'il perisse,  
+Qu'il soit mieux convaincu de ses propres forfaits,  
+Ne le punissez point de ceux qu'il n'a pas faits :  
+Si Fatime s'oppose à vostre ordre supréme,  
+Il en est innocent, ce n'est point luy qu'elle aime ;  
+Ce n'est point luy, Seigneur, qui l'enleve à son Roy.  
+Connoissez le coupable, & l'accablez : C'est moy.  
+Oüy, Seigneur, c'est pour moy qu'à vos desirs rebelle…  
+
+    FATIME.
+N'en croyez pas, Seigneur, un sujet trop fidelle,  
+Qui voulant à l'Etat conserver un appuy,  
+Se rend auprés de vous coupable au lieu de luy.  
+
+    ABDERAMEN.
+Vous vous chargez trop tost [109] du soin de le défendre,  
+Pour me faire douter de ce qu'il veut m'apprendre.  
+Vos yeux épouvantez, vostre front interdit,  
+Ne confirment que trop ce que sa bouche a dit.  
+Vous l'aimez, je le voy, Princesse trop ingrate,  
+Et plus vous le niés, plus vostre amour éclate.  
+Pour toy que mes bienfaits prodiguez chaque jour,  
+Ingrat avoient rendu le premier de ma Cour ;  
+Pour toy qui de mon cœur trahis la confidence⁎,  
+N'espere pas que rien⁎ t'arrache à ma vangeance.  
+Tu periras.  
+
+    ZULEMAR.
+        Seigneur, je n'en suis point troublé,  
+Des malheurs⁎ inconnus je suis trop accablé :  
+Pour voir avec frayeur une mort necessaire,  
+Qui peut seule finir ma honte & ma misere,  
+Je ne vous diray point que sans rendre de soins,  
+On est aimé souvent lors qu'on le veut le moins,  
+Qu'on aime quelquefois ce qu'il faut qu'on haïsse,  
+Et que rien de l'amour ne regle le caprice :  
+Je ne m'excuse point, j'ay traversé vos feux,  
+J'ay fait vostre malheur sans pouvoir estre heureux.  
+Seigneur, punissez-moy, perdez un miserable,  
+Dans le fonds de mon cœur je suis assez coupable :  
+Si vous sçaviez quel est mon destin, mon amour  
+Vous avoüeriez…Seigneur, vous le sçaurez un jour.  
+Je mourray de l'amour deplorable victime,  
+Trop content si ma mort peut effacer mon crime,  
+Calmer tous vos soupçons, enfin rendre à son Roy,  
+Un Heros à l'Etat plus utile que moy.  
+
+    ABDERAMEN.
+Grands Dieux [110] ! tout me dedaigne ainsi, tout m'abandonne ! [111]  
+Le plus affreux trépas n'a rien qui les étonne⁎ :  
+Quel est donc mon malheur ? Quel destin envieux  
+Me rend quoy que je fasse à ce point odieux,  
+Un ingrat que mon cœur de ses bontez honore,  
+Une cruelle, enfin que j'aime, que j'adore,  
+Conspirent l'un & l'autre à me percer le cœur :  
+Mais qui vient en ces lieux ? que me veux-t'on ?  
+
+
+### SCENE IV.
+FATIME, ABDERAMEN, OSMAR, ZULEMAR, GARDES
+
+
+    OSMAR.
+        Seigneur,  
+Les Juges d'Alamir ont suivant nos maximes,  
+Ecouté sa défence, examiné ses crimes ;  
+On n'attend plus de vous qu'un mot pour le punir  
+Et je viens…  
+
+    ABDERAMEN.
+        Il suffit, qu'on le fasse venir.  
+
+
+### SCENE V. 
+ABDERAMEN, ZULEMAR, FATIME
+
+
+    ABDERAMEN.
+Pensez-vous que cedant à vos lâches envies⁎,  
+Je vous laisse joüir de tant de perfidies ?  
+Vous n'insulterez point au malheur de mes feux.  
+Qu'en leurs appartements on les garde tous deux.  
+
+
+### SCENE VI.
+ABDERAMEN, ALAMIR
+
+
+    ABDERAMEN.
+Rendez graces au Ciel, dont la bonté m'éclaire,  
+Alamir, & dissipe une injuste colère. [112]  
+Vous n'estes point coupable, on nous trahit tous deux :  
+Zulemar est le seul qui s'oppose à mes vœux ;  
+Mais enfin oublions tous les sujets de plainte,  
+Rentrez dans ma faveur sans retour & sans feinte :  
+Amant abandonné mal-heureux comme moy.  
+Excusez mes transports, & plaignez vostre Roy.  
+Soyez plus que jamais l'appuy de ma Couronne.  
+Vivez pour mon état, pour moy, je vous l'ordonne.  
+
+    ALAMIR. 
+Je reçoy le pardon que vous me presentez,  
+Et je veux bien devoir ma grace à vos bontez ;  
+Seigneur ; non qu'en l'état où ma vie est reduite,  
+La mort soit desormais un malheur⁎ que j'évite :  
+Heureux si prevenant mon funeste retour,  
+Elle m'eust épargné la honte de ce jour.  
+Je ne le cele⁎ point, contraint à vous déplaire,  
+Sans en estre étonné⁎ j'ay veu vostre colere.  
+Ce n'est point aux mortels nourris dans les combats  
+A demander au Ciel d'éloigner leur trépas.  
+Quand les bras affoiblis gemissent sous les armes,  
+Pour un Heros, Seigneur, la vie a peu de charmes,  
+L'exemple en est comun, des plus fameux Guerriers,  
+Un long âge a souvent fletri tous les lauriers,  
+Sous un chef chargé d'ans la fortune se lasse,  
+Et quitte un General que la vieillesse glace.  
+Avecque trop d'éclat jusqu'icy j'ay vécu,  
+En mille lieux divers sous vos loix j'ay vaincu,  
+Dans le mesme bonheur incertain de poursuivre,  
+Je puis mourir trop tard, & je crains de trop vivre.  
+Prest à souffrir des Loix les dernieres rigueurs,  
+A quitter une vie assez pleine d'honneurs,  
+Par ces raisons, Seigneur, je rasseurois mon ame.  
+Je mourois il est vray par une main infame ;  
+Mais dans tous les esprits le crime d'un Amant  
+N'est pas crime, ou du moins se pardonne aisement,  
+Et d'un indigne sort⁎ quelque soit le caprice,  
+La honte est dans le crime, & non dans le supplice.  
+
+    ABDERAMEN.
+Vous vivrez Alamir, & toûjours triomphant,  
+Vous rendrez par vos soins mon regne florissant :  
+Cependant je veux bien dans un aveu sincere,  
+Exposer à vos yeux mon ame toute entiere.  
+Zulemar plus que vous occupoit ma faveur,  
+Il sçavoit mes secrets, il regnoit dans mon cœur,  
+Il ne vous y laissoit qu'une sterile estime ;  
+Qui l'eust crû ? Cependant il adoroit Fatime,  
+Il s'en faisoit aimer, & mes feux offensez  
+Alloient seul vous punir des maux qu'il a causez.  
+Vengez-vous, vengez-moy d'une erreur si funeste,  
+Il est sorti d'un sang que le vostre deteste,  
+Vous auriez triomphé déjà sans ma pitié ;  
+Le party des Zegris estoit humilié,  
+Et j'ay craint que le sort⁎ en éteignant leur race  
+A celle des vainqueurs n'inspirast trop d'audace ;  
+Mais enfin, c'en est fait, je n'écoute plus rien,  
+Je prens vostre party, j'abandonne le sien.  
+
+    ALAMIR.
+Ordonnez qu'à vos yeux nos haines s'assouvissent,  
+Et qu'en un seul combat nos demélez finissent,  
+Je sçauroy me venger : & si pour moy , Seigneur,  
+Un reste de bonté touche encor vostre cœur,  
+Permettez qu'aussi-tost, las de tant d'infortune,  
+J'acheve loin de vous une vie importune,  
+Et que de tous costez, trahi, desesperé,  
+Je cache les ennuys⁎ dont je suis dechiré.  
+
+    ABDERAMEN.
+Non ne me quittez pas : du destin d'un perfide.  
+Je veux à vostre tour que vostre avis decide,  
+Venez donc en resoudre, & contre cet ingrat,  
+Faisons de nostre haine un interest d'Etat.  
+Fin du quatrième Acte
+
+
+## ACTE V. 
+
+
+### SCENE I.
+ZULEMAR, ABENDAX
+
+
+    ABENDAX.
+Venez. Auprés de vous le Roy mesme m'envoye,  
+Sans témoins en ces lieux il veut que je vous voye,  
+Et je puis vous parler sur l'affreux changement,  
+Que dans vostre fortune⁎ a fait un seul moment.  
+
+    ZULEMAR.
+Tu le vois, Abendax, tout se détruit, tout passe,  
+Il n'est point de grandeur qu'un seul revers n'efface,  
+Qui t'eust dit que si-tost du comble des honneurs,  
+Zulemar dût tomber dans ce gouffre d'horreurs,  
+Tu ne l'aurois pas crû.  
+
+    ABENDAX.
+        J'ai peine encor à croire,  
+Qu'un seul instant ait pû détruire tant de gloire⁎,  
+Le mesme jour vous voit dans un rang glorieux,  
+Sur vous seule attirer tous les cœurs, tous les yeux,  
+Et bien-tost du destin éprouvant l'injustice,  
+Pour vos jours innocens craindre un cruel suplice.  
+
+    ZULEMAR. 
+Helas ! de tant d'amis qui tenoient tout de moy,  
+Ma disgrace aujourd'huy ne me laisse que toy.  
+Tout rit au favory, tout brille dans sa vie,  
+Tant que sa faveur dure il fait taire l'envie ;  
+Mais d'abord que la main qui luy servoit d'appuy,  
+Retire les honneurs qu'elle versoit sur luy,  
+Sa chute ouvre aussi-tost un chemin à l'audace,  
+Pour attaquer sa vie, & disputer⁎ sa place.  
+Mes honneurs, mes employs⁎ sont des biens superflus,  
+Je meurs, & dans deux jours on n'y songera plus.  
+
+    ABENDAX.
+Ah Dieux ! quelle raison, quelle bonté funeste,  
+Pour sauver un ingrat qui toûjours vous deteste,  
+Vous fait d'un Roy severe affronter le couroux,  
+Et découvrir l'amour que Fatime a pour vous ;  
+Je croyois Alamir au bord du precipice,  
+Vous alliez disiez-vous avancer son supplice ;  
+Vous vouliez vous venger, & le perdre aujourd'huy :  
+Quelle vengeance, helas ! vous vous perdez pour luy.  
+
+    ZULEMAR.
+Ne me demande point raison de ma conduite ;  
+Que sçay-je dans l'état où les Dieux m'ont reduite ? [113]  
+J'aime, je voy perir ce que j'aime, il suffit,  
+Je ne me repens point de tout ce que j'ay dit.  
+
+    ABENDAX.
+Il n'est plus d'interest, ny de raisons secretes,  
+Il est temps de parler, d'avouer qui vous estes. [114]  
+Et je vais….  
+
+    ZULEMAR.
+        Garde-toy de découvrir mon sort⁎  
+Abendax ne mets point d'obstacles à ma mort  
+Veux-tu que de ma main moy-mesme miserable…  
+Non laisse-moy mourir sans que j'en sois coupable.  
+Hé quoy, pourrois-tu voir mon nom deshonoré,  
+Par un indigne amour qui seroit averé :  
+S'il te souvient encor des bontez de mon pere,  
+Songe que son honneur t'ordonne de te taire ;  
+Si tu m'aimes, enfin, il faut me le prouver  
+En ne t'obstinant point à vouloir me sauver,  
+Souffre que le tombeau cache une mal-heureuse,  
+Qui ne peut étouffer une flâme honteuse.  
+Puissay-je ne laisser aucun nom après moy,  
+Et puisse mon secret mourir avecque toy.  
+Mais, qu'est-ce qu'on nous veut ?  
+
+
+### SCENE II.
+ZULEMAR, FATIME, ABENDAX, OSMAR
+
+
+    OSMAR.
+        Si vous voulez sa grace,  
+Le Roy vous la promet, il est rien qu'il ne fasse,  
+Pourveu que vostre cœur propice à ses souhaits,  
+Soit par un doux hymen le prix de ses bienfaits ;  
+Zulemar par son ordre icy vient de se rendre.  
+Le voicy, vous pouvez luy parler & l'entendre⁎ :  
+Madame en joüissant d'un entretien si doux,  
+Songez bien que son sort ne dépend que de vous.  
+Qu'on se retire.  
+
+
+### SCENE III. 
+ZULEMAR, FATIME
+
+
+    FATIME.
+        He, bien pour m'avoir trop sceu plaire,  
+Seigneur, pour avoir fait un aveu trop sincere  
+Des sentiments d'un cœur qui n'eust pû le trahir,  
+On vous fait donc coupable, & vous allez mourir.  
+
+    ZULEMAR.
+La mort, l'affreuse mort par qui tout se fait craindre,  
+Est si douce pour moy que je ne puis m'en plaindre.  
+Madame elle finit des jours infortunez,  
+Qu'à d'éternels ennuis⁎, les Dieux ont condamnez  
+Aux volontez du Roy cessez d'estre rebelle,  
+Il vous offre sa main, son thrône vous appelle,  
+Sans plaindre un mal-heureux qu'on ne peut secourir :  
+Allez prendre le sceptre, & laissez-moy mourir.  
+
+    FATIME.
+Moy qu'à l'ambition j'abandonne mon ame ?  
+Que je vous laisse en proye aux fureurs…  
+
+    ZULEMAR.
+        Oüy, Madame,  
+Ce trépas justement prononcé par le Roy,  
+Je vous l'ay déjà dit n'a rien d'affreux pour moy :  
+Si de quelque douleur mon ame est attendrie,  
+Si je verse des pleurs, ce n'est point pour ma vie :  
+Helas ! c'est de me voir dans un obscur tombeau ;  
+Sous une cendre froide éteindre un feu si beau.  
+De mourir sans avoir exprimé la tendresse…  
+Pardonnez-moy, Madame, encor cette foiblesse ;  
+Au moment où je doy me taire pour jamais,  
+Ma confiance n'est point au dessus des souhaits.  
+Mais c'est en ma faveur obscurcir trop de charmes ;  
+Je ne merite point vos precieuses larmes :  
+Perdez d'un malheureux le triste souvenir ;  
+Allez prendre le Sceptre, & laissez moy mourir.  
+
+    FATIME.
+Non, vous ne mourrez point, quittez cette pensée,  
+Ma vie à vous sauver est trop interressée,  
+Vostre grace, dit-on, dépend encor de moy,  
+Je n'ay pour l'obtenir qu'à feindre auprés du Roy,  
+Qu'à demander du temps pour l'hymen qu'il souhaite ;  
+Nous choisirons après quelque seure retraite.  
+Pour nous venger de luy tout nous sera permis,  
+J'ay du pouvoir icy, vous avez des amis,  
+Assistez d'eux sans bruit, quittant ce lieu funeste…  
+C'est assez m'expliquer, vous entendez⁎ le reste.  
+J'envisage en tremblant une telle action,  
+Et vos yeux sont témoins de ma confusion ;  
+Mais enfin pour sauver une teste si chere  
+Je ne ménage rien. J'y cours.  
+
+    ZULEMAR.
+        Qu'allez-vous faire ?  
+Elle me quitte & va reculant mon trépas,  
+M'exposer par la feinte à de nouveaux combats.  
+Grands Dieux ! sur mes malheurs⁎ plus je jette la veuë,  
+Plus je n'y voy pour moy qu'une funeste issuë ;  
+Et tel est de mes jours l'astre pernicieux…  
+Mais que vois-je ? Alamir se presente à mes yeux,  
+Quel sujet le conduit⁎, quel mouvement le presse :  
+O Dieux, dans ce moment soûtenez ma foiblesse.  
+
+
+### SCENE IV. 
+ALAMIR, ZULEMAR
+
+
+    ZULEMAR.
+Alamir, quel dessein porte vers moy tes pas,  
+Viens-tu comme ennemy joüir de mon trépas,  
+Etaller à mes yeux ton triomphe, & ta joye ?  
+
+    ALAMIR.
+Non, j'obeïs au Roy qui veut que je te voye,  
+Quoy qu'il doive punir ton amour indiscret,  
+Il condamne au trépas ta jeunesse à regret,  
+A ta grace sans peine, on le verra souscrire,  
+Mille autres de sa part auroient pû te le dire,  
+Mais voulant par mes soins m'acquitter envers toy,  
+Moy-mesme auprés de luy j'ay brigué cet employ⁎.  
+Pour garantir tes jours d'un indigne supplice :  
+Croy moy, de ton amour fais luy le sacrifice,  
+Dans une folle ardeur cesse de t'obstiner,  
+C'est le sincere avis que je viens te donner.  
+
+    ZULEMAR.
+Je ne connois que trop où mon amour m'engage,  
+Je cherche à m'en guerir, je mets tout en usage ;  
+Mais pour vaincre un amour aussi fort que le mien,  
+Les Dieux ne m'ont pas fait un cœur comme le tien.  
+
+    ALAMIR.
+Hé me crois-tu le cœur si remply de rudesse,  
+Quelque fier qu'il paroisse, il n'est pas sans foiblesse.  
+Ce beau feu dont Fatime avoit sceu l'animer,  
+N'est pas un de ces feux prompts à se consommer,  
+Qu'un revers diminuë, & qu'estein une absence ;  
+J'en rougis, mais enfin malgré son inconstance,****  
+Je ne puis de Fatime oublier les attraits,  
+Et je sens que je l'aime encor plus que jamais.  
+
+    ZULEMAR.
+Helas !  
+
+    ALAMIR.
+        Je le veux bien avoüer à ma honte.  
+Non, que si le retour d'une tendresse prompte,  
+Forçoit en ma faveur son ame au repentir,  
+A l'épouser jamais je pusse consentir.  
+Il suffit qu'une fois elle soit infidelle,  
+Malgré tout cet amour dont je brûle pour elle,  
+Le nom de son Epoux est indigne de moy,  
+Et mon cœur l'abandonne à son manque de foy.  
+Les Dieux m'en vengeront, son illustre conqueste,  
+Ces brillants ornements qui pareront sa teste,  
+Ne mettront point son ame à l'abry des remords ;  
+J'espere que renduë à ses premiers transports,  
+Nous la verrons en proye à ses propres foiblesses,  
+A des retours vengeurs, des perfides tendresses,  
+Elle te quittera toy-mesme pour regner,  
+Ne t'en afflige point, vy pour la dedaigner,  
+Je t'offre mes conseils, & mon exemple à suivre.  
+
+    ZULEMAR.
+Sçay-tu ce que tu fais en me pressant de vivre ?  
+Je vivrois pour servir d'obstacle à tes plaisirs⁎,  
+Pour contraindre ton cœur, pour forcer tes desirs,  
+Pour suivre les transports qu'en mon cœur tu fais naistre,  
+Pour te persecuter, pour te haïr peut-estre.  
+
+    ALAMIR.
+Tu feras bien : Le sang dont nous sommes formez  
+Ne doit jamais verser dans nos cœurs animez,  
+Que des transports d'horreur, que des desseins d'outrages.  
+C'est le sort des Zegris, & des Abencerrages.  
+Puis que nous sommes nés chefs de ces deux partis,  
+Croy moy n'en rendons point les destins démentis,  
+Nous ne devons avoir qu'une pareille audace ;  
+Toy d'éteindre mon nom, moy d'étouffer ta race,  
+Ce doit estre entre nous un devoir mutuel.  
+Vy donc pour me haïr.  
+
+    ZULEMAR.
+        Hé ! le puis-je cruel ;  
+Pour m'opposer sans cesse une fierté barbare,  
+En laisse-tu moins voir la vertu qui te pare :  
+En es-tu moins aimable, & mon coeur mal-heureux  
+S'abandonne-t'il moins à l'ardeur de ses feux :  
+Car enfin ce Rival, ce chef d'une famille  
+Que tu poursuis ; aprens que ce n'est qu'une fille⁎.  
+Seul reste infortuné des mal-heureux Zegris,  
+Qui s'offre à tes regards sous ces tristes habits.  
+
+    ALAMIR.
+Qu'entens-je juste Ciel !  
+
+    ZULEMAR.
+        En vain dés ma naissance,  
+Instruite des raisons d'une juste vangeance,  
+L'esprit plein contre-toy de projets ennemis.  
+Je partis pour ces lieux, j'arrivay, je te vis,  
+Tu revenois vainqueur & tout couvert de gloire⁎ :  
+Ma haine en ce moment sortit de ma memoire ; [115]  
+Mon cœur sourd aux raisons qui devoient l'animer,  
+Ne sceut plus en trouver, helas ! que pour t'aimer !  
+Plus que tu ne me hais, ce cœur t'aime, t'adore ;  
+Je ne m'en repens point, je te le dis encore :  
+Une fois pour toûjours laisse moy m'enyvrer,  
+Du funeste plaisir de te le declarer.  
+Car enfin ne croy pas que par toy méprisée,  
+Je veüille d'une Cour devenir la risée,  
+Après que si long-temps cet habit mal-heureux,  
+M'en a veu recevoir & l'encens & les vœux,  
+Je ne souffriray point la douleur qui me tuë,  
+Tu seras pour jamais délivré de ma veuë.  
+Oüy, ma mort est certaine, & j'y cours sans effroy :  
+Heureuse, puis qu'au moins tu sçais que c'est pour toy.  
+
+    ALAMIR.
+Muet d'étonnement⁎, parmy tant de traverses⁎,  
+J'ay peine à concevoir nos fortunes⁎ diverses,  
+Je voy que du destin que l'on ne peut tromper…  
+
+    ZULEMAR.
+Ah ! barbare est-ce là ce qui doit t'occuper,  
+Au moment qu'à tes yeux étonnée⁎ & tremblante,  
+Je ne puis retenir une ardeur violente :  
+Quand pour te garantir je m'expose au trepas,  
+Quand je t'offre mon cœur, tu ne m'écoutes pas :  
+Me fais-tu voir au moins que mon malheur te touche ;  
+En laisse-tu sortir un soûpir de ta bouche ?  
+Tes superbes⁎ regards qui me glacent d'effroy,  
+Daignent-ils par pitié s'abaisser jusqu'à moy ?  
+Daigne-tu voir mes pleurs, hélas ! infortunée…  
+Mais que vois-je ? déja m'auroit-on condamnée.  
+
+
+### SCENE V.
+ALAMIR, ZULEMAR, OSMAR
+
+
+    ZULEMAR.
+Qu'est-ce, Osmar.  
+
+    OSMAR.
+        Vostre sort⁎ vient d'estre revelé :  
+Le Roy sçait votre sexe, Abendax a parlé.  
+Il paroist tout en pleurs, il demande audiance ;  
+A ses cris douloureux chacun preste licence ;  
+Il dit en peu de mot vostre déguisement,  
+Il ajouste aux raisons de ce grand changement,  
+Combien pour Alamir vostre flamme est constante.  
+Le Roy par ces discours vous voyant innocente,  
+Admire avec plaisir quelle estoit son erreur,  
+Et fait à son couroux succeder la douceur.  
+Fatime en ce moment de tous les siens suivie,  
+Vient offrir son hymen pour vous sauver la vie ;  
+A ses bontez pour vous le Roy mesme applaudit,  
+Et luy raconte enfin ce qu'Abendax a dit.  
+Surprise à ce recit d'une douleur profonde,  
+Elle veut dérober sa honte aux yeux du monde,  
+Mais avec tant de soins, mais avec tant d'ardeur :  
+Le Roy sçait rasseurer sa craintive pudeur,  
+Qu'à sa gloire⁎, à l'éclat de la grandeur suprême,  
+Ouvrant enfin les yeux… mais le Roy vient luy-mesme.  
+
+
+### SCENE VI.
+ABDERAMEN, ALAMIR, ZULEMAR, OSMAR
+
+
+    ZULEMAR.
+Seigneur, après l'abus commis aux yeux de tous ;  
+De quel front⁎ puis-je icy paroistre ?  
+
+    ABDERAMEN.
+        Levez-vous.  
+De l'amour à mon cœur la foiblesse est trop chere,  
+Pour ne pas pardonner les fautes qu'il fait faire,  
+Alamir à ses vœux cesse de resister ;  
+Voy par où sa tendresse a sceu te meriter :  
+Qu'entre vos deux partis la haine soit bannie,  
+Accepte son hymen, c'est ton Roy qui t'en prie.  
+
+    ALAMIR.
+Interdit, étonné⁎ de tout ce que je voy ;  
+Seigneur, pour vous répondre à peine⁎ suis-je à moy.  
+Madame, cependant à vos desirs rebelle,  
+Mon cœur n'opose plus une fierté cruelle :  
+Et si l'amour déjà ne s'y fait pas sentir,  
+L'injuste haine au moins commence d'en sortir.  
+
+    ABDERAMEN.
+Ne perdons point de temps, viens, suis-moy dans le Temple,  
+Les Dieux t'inspireront sans doute, & mon exemple.  
+Vous, Madame, quittez ce vain déguisement,  
+Donnez à vostre sexe un plus digne ornement :  
+Etouffez desormais une honte timide,  
+Et vivez dans ma Cour sous le nom de Zaïde.  
+FIN
+
+
+# Lexique.
+    Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+Dictionnaire étymologique et historique du français
+**H**Petit glossaire des classiques français du dix-septième siècle contenant les mots et locutions qui ont vieilli ou dont le sens s'est modifié
+Dictionnaire historique de la langue française
+
+
+S'il n'y a pas d'autre indication que les guillemets, la définition est tirée du *Dictionnaire universel* de Furetière.Amitié« Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. … on le dit encore en matière d'amour. »V. 498, 880Amour« Faire l'amour (à qqn), qui, après le provençal *far amor* XIIIe s., signifie « courtiser », sens encore normal dans l'usage classique (XVII e - XVIII e s.) » (Rob.) ; « on dit, qu'un jeune homme fait l'amour à une fille, quand il la recherche en mariage. On le dit aussi odieusement, quand il tasche de la suborner.  On dit, qu'une femme fait l'amour, quand elle se laisse aller à quelque galanterie illicite »V. 518A peine« Difficilement, presque »V. 772, 1080, 1450Art« Tout ce qui se passe par l'adresse et par l'industrie de l'homme et en ce sens opposé à « nature ». Toutes les manières et inventions dont on se sert pour déguiser les choses, ou pour les embellir, ou pour réussir dans les desseins.V. 115Ce qui est composé et conduit avec raisonnement, en faisant une juste  application des préceptes d'un certain art »V. 363, 364Auguste« Majestueux, vénérableV. 744, 476, 267, 60Sacré, plus proprement en matière de Religion »V. 115Brigue« Désir ambitieux qu'on a d'obtenir quelque charge ou dignité, où l'on tasche de parvenir plus par adresse que par merite »V. 366, 383Carriere« Terrain, étendue d'un champ où on peut pousser un cheval « ex : faire faire une carriere à un cheval » ; « Fournir sa carriere » : fig. se dit du cours de la vie et des fonctions où on la passe »V. 100Celer « Tenir quelque chose cachée, secrette, dissimuler »V. 1159Chagrin« Inquietude, ennuy, melancolie »V. 674ChagrinantQui donne du chagrinV. 385Conduire« Commander, gouverner »V. 873« Signifie quelquefois simplement, guider, mener et c'est la plus propre signification qu'il a en latin »V. 684, 870, 1319Confidence« Confiance » jusqu'au XVIIe s., sens étymologique du latin *confidere*V. 1107 Contrainte« Violence, force majeure »V. 115Gesne, incommodité.V.  307 Coursier« Grand cheval propre pour monter un homme d'armes, un cheval de bataille »V. 98Crainte« Peur, mouvement de l'ame qui nous fait apprehender un mal qui nous menace »V. 38, 260, 398, 894Dépens« Qui comprend tout ce qu'on a despensé à quelque entreprise, à quelque affaire »Privilège du RoyDisputer« Contester, se battre pour acquérir, ou pour maintenir quelque chose »V. 978, 1060, 1232Divorce« Se dit figurément en Morale de l'abandonnement qui se fait de toutes les choses où on avait de l'attachement »V. 225Employ« Occupation »V. 386, 542, 949, 1233, 1330 (HUG)Encore un coupEncore une fois, de nouveauV. 817, 1065Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long »V. 129, 273, 451, 802, 1206, 1278Entendre« Ouïr, escouter »V. 306, 648, 912, 1268« Comprendre, penetrer dans le sens de celui qui parle »V. 304, 479, 859, 900, 1308Entreprendre sur« En termes du Palais, se dit des Juges qui veulent connoistre des affaires qui appartiennent à une autre juridiction. On dit aussi, que des Artisans, des compagnons entreprennent sur le mestier des autres, quand ils font quelque ouvrage qui appartient à quelque autre mestier que le leur, ou quand ils ne sont pas receus dans la Maistrise. »V. 420Envi« Argent qu'on met au jeu pour encherir sur son compagnon »Envie« Passion, désir qu'on a d'avoir ou de faire quelque chose »V. 399, 1047, 1139Envieux« Rival, concurrent »V. 131, 429Envy« À l'envi, adv : à qui mieux mieux »V. 111Etonner« Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte »V. 679 ; étonnée v. 71, 991 ; étonnement v. 772, 957, 969, 1407« Émotion des corps qui sont esbranlez et attaquez par quelque violence »V. 159, 340, 1128, 1160, 1411, 1449Evenement« Issuë, succés bon ou mauvais de quelque chose. »V. 970Fatal« Arrest de la destinée, malheureux »V. 725Feu« Se dit figurément en choses spirituelles & morales de la vivacité de l'esprit, de l'ardeur des passions »V. 299, 762Fille« Se dit absolument de l'estat de celle qui n'a point été mariée »V. 80, 123, 228, 571, 1384Formidable« Qui fait peur, qui est à redouter »V. 819Fortune« Chance, hasard, risque »V. 464DestinéeV. 1214Ce qui arrive à qqnV. 1408 (HUG)Frapper« Faire impression forte sur quelque chose »V. 37, 771Front« Impudence, témérité de soustenir en face à quelqu'un un mensonge, une calomnie ou bien une verité fascheuse à une personne puissante & formidable »V. 1442Gesner« Tourmenter le corps ou l'esprit »V. 623Gloire« Se dit par emprunt  & par participation, de l'honneur mondain, de la loüange qu'on donne au merite, au sçavoir & à la vertu des hommes »V. 52, 56, 283, 371, 460, 488, 719, 755, 987, 1019, 1032, 1040, 1220, 1391, 1439Gros de« Signifie un amas de trouppes qui marchent ensemble ex : Il parut un gros de Cavalerie sur la colline »V. 938Hazarder« Risquer, mettre au hasard,  se dit aussi en parlant de ceux qui font des imprudences »PréfaceHommages« Reverence, respect, soûmission qu'on rend à son Roy, à son Maistre, à son Supérieur »V. 248, 983Malheur« Accident, rencontre fâcheuse, dommageable »V. 444, 861, 1156« Coups du hasard »V. 845, 1110, 1315Marquer« Exprimer en particulier, specifier quelque chose, la faire voir en détail »V. 557Mistere« Chose cachée, secrette, ou difficile à comprendre »V. 964« Se dit aussi de ce qu'on tient caché, qu'on ne veut pas découvrir »V. 563Neveux« Au pl., se dit de touts les hommes qui viendront aprés nous, de la postérité »V. 353Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour »V. 182Penetrer« Cheminer dans un pays, le découvrir, le conquérir ; se dit figurément en choses morales, et des passions fortes qui touchent au cœur »V. 279, 531, 994« Approfondir une affaire, une science, la connaître parfaitement »V. 82 Plaisir« Joye que sent l'ame, ou le corps, estant excités par quelque objet agreable »V. 1047, 102, 986« Volonté, discretion »V. 1365Prest(e)« Préparé »V. 505« Qui se fait vite & en peu de temps »V. 893Prudence« Première des vertus cardinales, qui enseigne à bien conduire sa vie et ses mœurs, ses discours et ses actions suivant la droite raison »V. 68V. 713 imprudens ; v. 873 prudemmentPuissance« Commandement, pouvoir absolu »V. 942« Forces, richesses & autres choses qui donnent ou affermissent le pouvoir de commander »V. 784, 787« Se dit aussi des forces corporelles & des biens de fortune , … les Puissances, ceux qui ont du credit et de l'autorité, les Ministres »V. 368Renommée« Rumeur publique qui répand l'éloge ou le blâme sur qqn » robert historique/  « en Poësie est une espece de Divinité Payenne & fabuleuse, qu'on disoit porter par le monde les nouvelles de toutes choses. …On la peint avec des ailes & un cor : & tout cela n'aboutit qu'à faire entendre que c'est le bruit public d'une action qui se répand dans le monde »V. 179, 312, 760Répondre« Être caution, avoir en sa garde »V. 150RienEn contexte négatif, sens actuel d'« aucune chose », parfois en contexte positif, sens étymologique de quelque choseV. 53, 265, 554, 1108Sans seconde« (En Poësie) unique, excellente,  qui n'a point de pareille »V. 187, 904Sejour« Se dit du temps qu'on demeure en un lieu » V. 819Soin« Attache particulière qu'on a auprès d'un maistre, ou d'une maistresse, pour les servir ou leur plaire. Soupirs, devoirs, petits *soins* en amour, tout est langage. »V. 557Sort« Hasard, ce qui arrive fortuitement »V. 73, 549, 631, 1179« Conditions malheureuses de ce monde »V. 254, 613, 1195« Se dit poëtiquement de la vie et de la fortune des hommes »V. 18, 162, 334, 534, 570, 657, 710, 778, 921, 1017, 1070, 1249, 1421Souffrir« Ne se pas opposer à une chose, y consentir tacitement. »V. 617Superbe« Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy-même »V. 576, 1417Timide« Foible, peureux, qui craint tout »V. 835Traits« Se dit figurément & poëtiquement des regards, & de sblessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour »V. 74« Coups »V. 133Traverse« Se dit figurément en Morale & signifie un obstacle à la reüssite des affaires qu'on entreprens »V. 1407Zele« Ardeur, passion qu'on a pour quelque chose »V. 68, 313, 880Utilisé par les poëtes au sens d'« amour », vielliV. 880
+
+
+# Annexe : Contenu des deux volumes de l'édition de 1700.
+    Œuvres
+
+
+1*er* volume : l'imprimeur au lecteur (recopié comme annexe I)
+
+Les *Amours de Catulle* précédée de la préface et de la table
+
+2*e* volume :
+
+Epitre à Monseigneur le Prince de Conty
+
+Remerciements à Messieurs de l'Académie Françoise
+
+Réponse à M ; l'Abbé de S. Pierre, lorsqu'il fut receu à l'Academie Françoise
+
+Réponse à M. de Valincour, lorsqu'il fut receu à l'Académie Françoise
+
+(Paginé de 1 à 46)
+
+*Zaïde*, Tragédie
+
+*Telephonte*, Tragédie
+
+*Cléopâtre*, Tragédie
+
+*Les Carrosses d'Orléans*, Comédie
+
+Chaque pièce est précédée d'une préface
+
+(On trouve celle de* Zaïde* ci-dessous comme annexe III)
+
+(Paginé de 1 à 286)
+
+Extrait du Privilge du Roy (recopié comme annexe II)
+
+
+## Annexe I L'IMPRIMEUR au Lecteur.
+
+Ce n'a été qu'après de longues importunitez qu'on a pû faire resoudre l'Auteur de ces Ouvrages à soufrir qu'on les r'imprimât. Il ne les regardoit que comme un amusement de sa première jeunesse peu digne de l'attention du Public. Il ne jugeoit pas luy-même qu'il dût se dérober à des occupations plus serieuses, pour donner quelques momens à les relire, dans la vûë d'en corriger quelques mots. Trois ou quatre éditions diferentes faites en France & dans les Païs étrangers toutes pleines de fautes, qui les avoient entierement défigurez, n'avoient pû le déterminer à se rendre aux sollicitations des personnes qui le presssoient d'en donner une plus correcte. Il n'y a consenti que lorsqu'on luy a montré une partie de ces mêmes Ouvrages imprimez en Hollande, sous le nom de feu M. Chapelle. Ce Livre a pour titre *Voyage de Messieurs de Beauchaumont & de la Chapelle.* On y confond dans la Preface les noms de M. Chapelle & de M. de la Chapelle. On attribuë à celuy-cy le Voyage de l'autre. On y dit que M. de la Chapelle a fait des Pieces de Theâtre, & on y rapporte une partie de la Preface de la Tagedie de Cleopâtre. On ajoûte qu'il a aussi travaillé sur Catulle, & on met à la fin du Livre beaucoup de Vers traduits du même Catulle. On veut encore qu'il soit l'auteur de *L'Histoire des Campagnes de Norlingue & de Fribourg*. Ce n'est pas tout. Toûjours trompé par l'équivoque des noms, on répand les taches de la naissance de M. Chapelle qu'on dit être mort, & qui l'est effectivement, sur celle de M. de la Chapelle, qui vit encore. Quoyqu'on luy fasse beaucoup d'honneurs de luy attribuer les Ouvrages de ces deux Auteurs, dont la réputation est si solidement établie, il a crû qu'il ne devoit pas leur ravir leur gloire & en joüir injustement. Pour démêler cette confusion, il s'est resolu à se faire connoître au Public. Il se nomme Jean de la Chapelle, fils de Pierre de la Chapelle, Ecuyer, Seigneur du Plaix & Conseiller du Roy, Doyen des Professeurs de Droit de l'Université de Bourges. Sa Famille est noble & ancienne, & a fait des Chevaliers de Rhodes, ainsi que M. de la Chapelle Pere l'a justifié lorsqu'il a produit ses Titres devant les Commissaires nommez par le Roy. M. de la Chapelle donc seul Auteur des Pieces qui composent ces deux Volumes, voir privilège du Roy ci-dessous ! est diferent de feu M. Chapelle qui a fait avec M. de Beauchaumont le Voyage dont nous avons déja parlé. Il l'est encore de M. de la Chapelle à qui nous devons l'Histoire des Campagnes de Norlingue & de Fribourg, & qui est mort depuis quelques années Inspecteur des beaux Arts sous feu M. de Villarcef Surintendant des Bätimens. Celuy dont je vous donne les Ouvrages est le même qui dés sa premiere jeunesse a été connu par l'ingenieuse Histoire de Catulle, & ensuite par les Tragedies que vous trouverez dans le second volume de ce Recueil ; le même qui a eu l'honneur d'être Secretaire des Commandemens de feu Monseigneur le Prince de Conty d'aujourd'huy : le même enfin qui fut reçu à l'Académie Françoise l'année 1688. & qui est presentement Receveur general des Finances de La Rochelle. Au reste il ne prétend pas qu'on doive regarder ces Ouvrages comme s'ils sortoient nouvellement de sa plume, & on luy a entendu dire plus d'une fois sur le sujet de cette édition, qu'en vain les Critiques voudroient se donner la peine de chercher & de relever les fautes qu'il peut avoir faites dans un âge où il est presque permis d'en faire, que l'homme de quarante ans ne vengera pas la querelle de l'Auteur de vingt ans.
+
+
+## Annexe II Extrait du Privilge du Roy.
+
+LOUIS par la grace de Dieu Roy de France & de Navarre, A nos amez & feaux Conseillers, les gens tenans nos Cours de Parlement, Maître des Requestes ordinaires de Nostre Hôtel, Prevosts , Baillifs, Seneschaux, leurs Lieutenans Civils , & tous autres nos Officiers & Justiciers qu'il appartiendra, Salut. Nôtre cher & bien amé Jean de La Chapelle, Chevalier, Baron de S. Port, l'un des quarante de l'Academie Françoise, & nostre Conseiller Receveur general des Finances de la Généralité de La Rochelle, Nous a fait remontrer qu'il a donné au public depuis dix-huit années plusieurs ouvrages de sa composition imprimez en divers temps avec des privileges de Nous : sçavoir les *Amours de Catulle*, les *Tragédies de Zaïde, de Cleopatre, de Téléphonte, la Comedie des Carrosses d'Orleans, & des Discours prononcez à l'Academie Françoise*, desquels les Exemplaires ont esté contrefaits par des Imprimeurs étrangers peu corrects ; qui n'ayant pas l'usage & la delicatesse de la langue ont laissé glisser dans leurs Copies des fautes qui ont beaucoup déguisé l'original**;** ce qui a déterminé l'exposant pour reformer les erreurs, omissions ou changemens de phrases, & de vers qui se trouvent dans les impressions contrefaites, de nous supplier tres-humblement de luy permettre de faire reimprimer les ouvrages cy-dessus par Jean Anissson Directeur de nostre Imprimerie Royale, en un ou plusieurs volumes, comme il avisera bon estre. A CES CAUSES, Nous luy avons permis & accordé, permettons & accordons par ces Presentes de faire reimprimer lesdits ouvrages, en tel volume, marge, caractere, & autant de fois que bon luy semblera pendant le temps de six années consecutives, à commencer du jour que les ouvrages seront achevez de reimprimer, iceux vendre & distribuer par tout nostre royaume : à la charge que lesdits ouvrages seront reimprimez par ledit Anisson & non autre, faisons défense à tous Libraires, Imprimeurs & autres d'imprimer, faire imprimer, vendre, ni distribuer lesdits ouvrages sous quelque pretexte que ce soit, mesme d'impression etrangere ni autrement , sans le consementement dudit exposant ou de ses ayant cause, à peine de confiscation des Exemplaires contrefaits, quinze cents livres d'amende, & de tous dépens, dommages & interests, à condition qu'il sera mis deux Exemplaires desdits ouvrages en nostre Bibliotheque publique, un en celle du Cabinet des livres de nostre Chambre du Louvre, & un en celle de nostre très-cher & féal le sieur Phelypeaux de Pontchartrain, Chevalier, Chancelier de France…
+
+Donné à Versailles le 31. jour de Janvier, l'an de grace 1700. & de nostre regne le 57. Signé Par le Roy en son Conseil, CHAPPUZEAU.
+
+Registré sur le Livre de la Communauté des Imprimeurs et Libraires, conformémentr aux Reglemens
+
+C. BALLARD. Syndic.
+
+Achevé d'imprimer pour la premiere fois en vertu du present Privilege le 10. Fevrier 1700
+
+
+## Annexe III Préface.
+
+Cet ouvrage est plûtôt un caprice de jeune homme qui esssaye son génie, qu'une composition réglée & digne du nom de Tragedie. Je ne connoissois lorsque je l'ai fait, ni l'art du Théâtre, ni les préceptes, ni les ouvrages des Anciens. Je n'avois pour lors d'autre guide en travaillant qu'une imagination échaufée par l'envie de mettre des vers de ma façon sur la scène. Je n'ai donc nulle remarque ni nulle observation à faire sur cette Tragedie, sur laquelle je croi aussi que personne ne se donnera la peine de faire aucune critique. Je dois seulement avertir ceux qui la liront, que le nom de Zaïde qu'elle porte ne lui donne rien de commun avec le beau Roman que M. de Segrais a fait autrefois sous ce nom. Le sujet de cette Piece n'est tiré ni de l'Histoire des Maures de Grenade, ni des fables anciennes ou modernes que les avantures de ces peuples nous ont fournies. J'ai été l'inventeur du sujet & des noms : & si comme si je n'étais piqué de ne rien devoir qu'à moi-même, dans ce foible & leger ouvrage, je n'y ai souffert aucun trait d'Histoire que ce qui regarde le nom des deux familles célébres des Zégris et des Abencerrages. J'ai même employé les dieux dans mes Vers, comme si mes Acteurs avoient été payens. Je n'ignorois pourtant pas quelle étoit la Religion des Maures, mais je m'imaginois qu'il n'étoit pas permis de faire des vers sans y faire entrer les faux dieux. Peut-être qu'il y a encore aujourd'hui bien des gens prévenus de la même erreur, mais ce n'est pas ici le lieu de les détromper.
+
+
+## Annexes IV Les comédiens.
+
+*Source* : **Lyonnet** Henry, *Dictionnaire des comédiens français (Ceux d'hier)*, bibliothèque de la revue universelle internationale illustrée (14*e* année), Genève, Taponnier et Soldini ,1912
+
+Tout ce qui est entre guillemets est tiré de cet ouvrage.
+
+Le rôle de **Zaïde** était tenu par :
+
+**Champmeslé, Melle Marie Desmares** (1642-1698)
+
+Actrice la plus connue de son temps, elle commença à l'Hôtel de Bourgogne en « remplacement » de Melle des Œillets dans le rôle d'Hermione d'*Andromaque*. C'est à partir de là que M. Racine « destina à la comédienne ses rôles les plus brillants.» [116]. « Melle Champmeslé joua tour à tour à l'Hôtel de Bourgogne dans les pièces suivantes :
+
+1670 2 mars, les *Amours de Vénus et d'Adonis*, de Visé
+
+21 novembre, *Bérénice*, de Racine, rôle de Bérénice
+
+1672 5 janvier, *Bajazet*, de Racine, rôle de Roxane ou d'Atalide
+
+4 mars, *Ariane*, de Corneille, rôle d'Ariane
+
+1673 20 janvier, *Mithridate*, de Racine, rôle de Monime
+
+1674 18 août,* Iphigénie*, de Racine, rôle d'Iphigénie
+
+1677 1*er* janvier, *Phèdre*, de Racine, rôle de Phèdre.
+
+… La Champmeslé était d'une taille noble et avantageuse; l'ensemble de son visage plaisait généralement : cependant sa peau n'était pas blanche et ses yeux étaient petits et ronds. Mais elle avait par dessus tout, la grâce, le charme, et une voix incomparable, tantôt douce, tantôt énergique, captivante toujours. …  Sa sensibilité était vraie et naturelle. Elle ne se fit jamais, par contre, remarquer dans la comédie. A la rentrée de 1679, Melle de Champmeslé et son mari, séduits peut-être par l'offre d'une pension supplémentaire de 1000 livres, passèrent dans la troupe du théâtre de Guénégaud, où ils attendirent la réunion de 1680 qui les conserva tous les deux. … Melle Champmeslé créa encore :
+
+1681 26 janvier, *Zaïde* [117], de La Chapelle
+
+1688 4 janvier, Fulvie dans le *Régulus*, de Pradon
+
+1691 *Talestin*, dans Tiridate
+
+1694 *Médée*
+
+1695 *Judith* de l'abbé Boyer
+
+1697 *Iphigénie* dans Oreste et Pylade
+
+Sa maladie, qui devait être mortelle, interrompit même les représentations de cet ouvrage, et elle parut pour la dernière fois en public le 5 janvier 1698. … Elle mourut le 15 mai 1698. »
+
+**Alamir** était joué par :
+
+**Baron, Michel Boyron** dit (1653-1729)
+
+« … le plus grand acteur de la fin du XVIIème siècle, le modèle de l'élégance. … Le plus jeune des six enfants, il perdit son père et sa mère de fort bonne heure et fut confié à un parent. Son tuteur dissipa les biens et s'en débarrassa en le faisant entrer dans la troupe des petits comédiens du Dauphin, dirigés par la veuve Raisin. C'est ainsi que Baron, dès l'âge de douze ans, put se faire applaudir par la Cour. Au retour d'une saison à Rouen, il se produisit à Paris. Molière le vit alors, demanda et obtint la permission de le faire passer dans sa troupe, au théâtre du Palais-Royal. Ses débuts, à ce théâtre, paraissent remonter à 1665. Il avait un peine moins de treize ans et était remarquablement beau. Molière le prit en affection et l'installa chez lui.  … »Il laissa la troupe de Molière en 1666 pour jouer dans la troupe à laquelle appartenait la Beauval. « … une note du registre de Lagrange nous apprend de quelle manière la paix fut faite : « En 1670, dit-elle, quelques jours après Pâques, M. de Molière manda de la campagne le sieur Baron, qui se rendit à Paris après avoir reçu une lettre de cachet et eut une part. » … Molière mort, Baron passa de suite dans la troupe de l'Hôtel de Bourgogne où sa réputation grandit encore, et c'est ainsi qu'après avoir été l'interprète de Molière, il devint celui de Racine, créant l'Achille d'*Iphigénie* (1674) et l'Hippolyte de *Phèdre* (1677). … Après avoir prêté un lustre éphémère aux rôles d'Alamir, dans *Zaïde* de La Chapelle, et de Pilade dans l'*Oreste* de Boyer et Leclerc (1681), Baron joua encore Alcibiade, dans la tragédie de Campistron (1685) … ». Au sommet de sa gloire, en 1691, il se retira pour six ans, avant de se trouver dans une gêne extrême et de retourner sur la scène, de manière privée puis de faire son « grand retour » en 1720 dans le rôle de Cinna.
+
+**Abderamen** était joué par le comédien :
+
+**Dauvilliers, Nicolas Dorné**, sieur (1646-1690)
+
+« Dauvilliers jouait au Marais avant 1673. Quand, le 23 juin de cette année, la troupe fut dissoute, il fut admis dans celle du roi, rue Mazarine. Son nom figure parmi ceux des comédiens de l'Hôtel Guénégaud. … Dauvilliers était fort laid, mais sa voix était flexible et touchante. Le 15 novembre 1672, il avait créé le premier rôle dans *Pulchérie* de P. Corneille, au théâtre du Marais. Il joua d'original les rôles d'Abderamen dans *Zaïde* (1681), d'Oreste dans l'*Oreste* de Boyer et Leclerc, de Mannius dans le *Régulus* de Pradon. Les succès de Baron empêchaient, dit-on, Dauvilliers de dormir, à tel point que sa tête se dérangea. Ayant eu, de plus, le malheur de déplaire à la dauphine, Anne-Christine–Victoire de Bavière, qui ne cessait de se récrier sur sa laideur, il devint fou et fut enfermé à Charenton où il mourut.»
+
+**Fatime** était jouée par :
+
+**Beauval, Melle Jeanne Olivier dite Bourguignon** (1648-49 ?-1720)
+
+« … Melle Beauval était grande, bien faite, mais nullement jolie; sa voix, un peu aigre, devint même enrouée vers la fin de sa carrière, mais ce qui la singularisait, c'était un rire presque continuel dont Molière allait tirer parti dans les rôles de soubrette. Le premier qu'il lui confia fut celui de Nicole dans le *Bourgeois gentilhomme*, joué pour la première fois à Chambord, devant le Roi, le 14 octobre 1670. … Melle beauval fut le type de la servante à la gaîté communicative, habituée à parler haut et ferme dans la maison.… Passé à l'Hotel de Bourgogne avec son mari à la mort du poète Molière, elle joua d'original le rôle d'Oenone dans la *Phèdre* de Racine (1677). A la réunion des troupes (1680) elle fut conservée. …Ce qui ne l'empêchait pas selon l'usage alors admis, de représenter les reines dans la tragédie : Fatime dans *Zaïde*, Orithie dans l'*Oreste* de Boyer et Leclerc, etc. … »
+
+Le rôle d'**Osmar** avait pour interprète :
+
+**Guérin, Isaac, François, Sieur d'Estriché** (1636-1728)
+
+« Comédien à Lyon (1658), Chambéry (1659), Turin (1671), où il était l'amant de la Guiot ; vint avec celle-ci au théâtre du Marais en 1672 puis lorsque cette troupe fusionna avec celle de Molière , par suite du décès de celui-ci (1673), il passa au théâtre Guénégaud. Ce fut donc là qu'il connut la veuve de Molière qu'il devait épouser. Ses emplois étaient : premier confident dans la tragédie, et les rôles à manteau dans la comédie. Un naturel parfait, une diction juste et sage, et, à la ville une grande honnêteté en faisaient un homme sympathique. … »
+
+**Abendax** était certainement joué par :
+
+**De Villiers, fils, Jean Deschamps, sieur de** (1648-1701)
+
+Il appartenait à la troupe des petits comédiens Dauphins, puis engagé comme gagiste par Molière. A la mort de ce dernier, « comédien de campagne. Il reparut à l'Hôtel de Bourgogne, avril 1679, De Villiers se chargea des seconds rôles tragiques qu'il jouait faiblement et de divers emplois de comédie où il était supérieur … Fort maigre, mais assez bel homme, De Villiers se signalait par cette particularité qu'il portait habituellement une mouche sur le nez.
+
+**Gazul**, par :
+
+**Hubert, André** 1634-1700
+
+« Venait de Mâcon, en 1658, lorsqu'il entra au Théâtre du Marais en 1659. … Hubert, comédien modeste, mais consciencieux, fut un de ceux qui restèrent fidèles à la tradition de Molière. Au moment du démembrement de la troupe, après la mort de son chef, Hubert suivit Lagrange et devint son second. Conservé à la jonction de 1680, à part entière, à charge de payer pension, il se retira le 24 février 1685. … »
+
+
+## Annexe V Extraits du registre de Lagrange Janvier 1681 [118].
+
+Dimanche 26 Zaïde pièce nouvelle de M. de La Chapelle
+
+A st germain L'école des femmes
+
+Lundi 27 la mère coquette
+
+Mardi 28 Zaïde
+
+Mercredi 29 misantrop la comette (1*ère*)
+
+Jeudi 30 britannicus la comette
+
+Vendredi 31 Zaïde
+
+1 Menteur et comette
+
+3 Zaïde
+
+4 Visionnaires et comette
+
+5 Zaide
+
+6 La femme juge
+
+A st germain la devineresse
+
+7 Zaide et cocu imaginaire
+
+8 escole des mar. Comette
+
+9 Zaide Escarbagnas
+
+10 geoslier de foy M ; Comette
+
+11 Zaïde et crisp med
+
+12 geoslier de foy mes
+
+13 Zaïde et mariage forcé
+
+14 Avare
+
+A st germain Zaïde et le baron de la crasse
+
+15 festin de Pierre
+
+16 Zaïde et les auberges
+
+17 Misantrope georges dandin(1*ère*)
+
+18 Zaïde et med malg luy
+
+19 la mere coquette
+
+20 Zaïde Geoges dandin
+
+21 geoslier de soy mesme
+
+22 Zaïde semblab. à soy M.
+
+23 Pierre philosophale (1*ère*)
+
+24 Zaïde les carosses d'orléans
+
+25 pierre philosophale
+
+26 Zaïde soup mal apres
+
+27 Tartuffe
+
+………………………………………………………………………………………………
+
+Mardy 15 me Avril Les Coquettes
+
+Le mesme Jour pour le Roy a St Clou
+
+Représenté Zaide et les précieuses
+
+
+# Bibliographie.
+
+Pour les cotes, voici les abréviations des bibliothèques :
+
+BNF : Bibliothèque nationale de France site Tolbiac rez de jardin
+
+BNF AS : Bibliothèque nationale de France site Richelieu Arts du spectacle
+
+Ars : bibliothèque de l'Arsenal
+
+G. Baty : bibliothèque Gaston Baty Institut d'Etudes théâtrales, Université Paris III,
+
+13 rue de Santeuil 75005 PARIS (1er étage - Porte 130 B)
+
+Vers. : Bibliothèque municipale de Versailles 5 rue de l'Indépendance Américaine
+
+78000 VERSAILLES
+
+
+## Sources.
+
+
+### Éditions de la pièce consultées.
+    *La Chapelle*Zaïde**MICROFICHE M-12451**
+*La Chapelle*Zaïde**YF-12161**
+*La Chappelle*Téléphonte, Les Carosses d'Orléans, Zaïde, Cléôpatre**8-RF-6286 (3)**
+Œuvres**TF 44(1,2)**
+*La Chapelle*Zaïde**F.A. in-12 E 425 D, Fonds ancien 1**
+Zaida**8- YTH- 70284**
+
+
+
+### Œuvres contemporaines.
+     Persélide ou la constance de l'amour
+IngannatiLes Abusez
+Iphis et Ianthe
+La Belle invisible ou la Constance esprouvée
+La Feste de Vénus
+ Diana
+La fille Viceroy
+L'Histoire des guerres civiles de Grenade
+La Généreuse Ingratitude
+
+
+
+### Ouvrages des XVII*e* et XVIIIe siècles.
+    Mercure Galant**8-H-26483(72)**
+*Chappuzeau* Théatre françois*re*
+Oeuvres III, Cinna, Œuvres I
+*D'Alembert*Histoire des membres de l'Académie**8-LN9-9 (A, 4)**
+*D'Aubignac*La Pratique du théâtre*re**Baby*
+*De La Mesnardière*La Poétique
+*Racine*Théâtre–Poésie, Œuvres complètes I
+**Young****Young** Le Registre de La Grange 1659-1685
+
+
+
+## Études.
+
+
+### Ouvrages sur la littérature et le théâtre de la période.
+    *Adam*Histoire de la littérature française du xvii*e* siècle
+*Forestier*Esthétique de l'identité dans le théâtre français (1550-1680)
+*Joannides*Comédie Française de 1680 à 1900. Dictionnaire général des pièces et des auteurs*re***792 .06 C-F joa**
+*Lyonnet*Dictionnaire des comédiens français (Ceux d'hier)*e*
+*Pasquier*Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hotel de Bourgogne et de la Comédie Française au XVII*e* siècle
+*Scherer*La Dramaturgie classique en France
+
+
+
+### Ouvrages sur les genres.
+    *Baby*La Tragi-comédie de Corneille à Quinault
+*Forestier*Passions tragiques et règles classiques. Essai sur la tragédie française
+*Louvat*Poétique de la tragédie
+
+
+
+### Ouvrages sur l'auteur, pièce.
+    *Lancaster*A History of French Dramatic Literature in the Seventeenth Century
+*Chaplyn*Le Roman mauresque en France de Zayde au Dernier Abencérage**8-Y2-75300**
+*Zipper*Jean de La Chapelle, Inaugural-Dissertation**8-THETAG BONN PH-252**
+
+
+
+## Instruments de travail.
+
+
+### Ouvrages sur la langue.
+    *Dauzat A., Dubois J., Mitterand H.*Dictionnaire étymologique et historique du français
+*Haase*Syntaxe française du XVII*e* siècle
+*Huguet*Petit glossaire des classiques français du dix-septième siècle contenant les mots et locutions qui ont vieilli ou dont le sens s'est modifié
+Le Robert Dictionnaire historique de la langue française
+*Sancier-Château*Introduction à la langue française du XVII*e*  siècle
+
+
+
+### Bibliographies.
+    *Cioranescu*Bibliographie de la littérature française du dix-septième siècle
+*Klapp*Bibliographie d'histoire littéraire française
+*Mélèse*Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV : 1659-1715**792 .094 4032 MEL rep**
+
+
+
+### Dictionnaire du XVII*e* siècle.
+    *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+
+
+
+## Sites Internet consultés.
+
+**Académie française** : http://www.academie-francaise.fr
+
+**Cesar** (Calendrier Electronique des Spectacles sous l'Ancien régime et sous la Révolution) : http://www.cesar.org.uk
+
+*Crht (c*entre de recherche sur l'histoire du théâtre): http://www.crht.org
+
+-------
+
+
+[1] Forestier Georges, *Esthétique de l'identité dans le théâtre français* (1550-1680), Genève, Droz, 1988, p. 15.
+
+[2] Selon la note de « L'imprimeur au lecteur » dans l'édition de 1700 (voir Annexes p. 32-35).
+
+[3] *D'Alembert*,*Histoire des membres de l'Académie*, Paris, 1787, p. 116.
+
+[4] http://www.academie-francaise.fr.
+
+[5] Voir annexes.
+
+[6] Cité par *Mélèse* Pierre, dans *Le Théâtre et le public à Paris sous Louis XIV : 1659-1715*, Paris, Droz, 1934, p. 137 .Nous soulignons.
+
+[7] *D'Alembert*,*Histoire des membres de l'Académie*, 1787, p. 115-116.
+
+[8] *Registre de Lagrange* (en annexe).
+
+[9] Le frère du Roi
+
+[10] *Mercure galant*, janvier 1681, p. 297, 298.
+
+[11] *Le Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hotel de Bourgogne et de la Comédie Françaiseau XVII*e* siècle*, éd. Pasquier Pierre, Paris, Champion, 2005, p. 336.
+
+[12] Lancaster, *op. cit.*, p. 205. « Perhaps the decorator meant to write “2 chaises au 5me acte”, for they seem to be needed in V, 2, when Abderamen makes love to Fatime ».
+
+[13] Sur la vie de Baron et des autres comédiens ayant joué dans *Zaïde*, voir annexes.
+
+[14] *Ibid*., p. 205.
+
+[15] Voir annexe.
+
+[16] *Lancaster* Henry Carrington, *A History of French Dramatic Literature in the Seventeenth Century*, Baltimore, the Johns Hopkins Press, vol. 4, p. 202.
+
+[17] Voir note sur la présente édition.
+
+[18] Préface  p. 52.
+
+[19] Chaplyn Marjorie A.*, Le Roman mauresque en France de Zayde au Dernier Abencérage*, Nemours, André Lesot, 1928 p. 50. Nous soulignons.
+
+[20] Montemaior Georges (de), *Diana*, traduite en français, Tours, Sebastien Moulin & Matthieu Guillemot, 1562, p. 113.
+
+[21] Chaplyn, *op. cit.*, p. 50.
+
+[22] Voir annexes.
+
+[23] Nous en faisons la liste dans « un thème connu» p. 25 et suivantes, en nous appuyant sur Lancaster *op. cit.*, part IV, vol. 1, p. 203.
+
+[24] *Scherer* Jacques, *La Dramaturgie classique en France*, Nizet, s.d. 1950, p. 19.
+
+[25] Forestier, *op. cit.*, p. 488.
+
+[26] La Mesnardière,* La Poétique*, Paris, Antoine de Sommaville ,1639 (édition consultée 1739), p.123.
+
+[27] *Scherer* Jacques, *La Dramaturgie classique en France*, Nizet, s.d. 1950, p. 30.
+
+[28] La Mesnardière, *op. cit.*, p. 123-124.
+
+[29] Scherer, *op. cit.*, p. 43.
+
+[30] *Ibid.*, p. 60.
+
+[31] Forestier Georges, *Esthétique de l'identité dans le théâtre français (1550-1680)*, Genève, Droz, p. 477-478.
+
+[32] *Ibid*.
+
+[33] CORNEILLE, « Discours du poème dramatique », dans *Oeuvres III*, éd. de Georges Couton, Paris, Gallimard, La Pléiade, 1987.
+
+[34] Lancaster, *op. cit*., p. 204. « Moreover, we cannot be seriously moved by the danger in which she finds herself, for we know that she can always be saved by making known her sex. »
+
+[35] Acte III, sc. 9, vers  919 à 922.
+
+[36] Acte IV, sc. 3, vers 1085 à 1087.
+
+[37] Scherer, *La Dramaturgie classique en France*, Nizet, s.d. 1950, p. 73.
+
+[38] Acte V, scène 1, vers 1221 à 1224. Nous soulignons.
+
+[39] Page 46 de cette édition.
+
+[40] Scherer, *op. cit.*, p. 25-26.
+
+[41] Nous soulignons.
+
+[42] Cité par H. BABY, *La tragi-comédie de Corneille à Quinault*, Klincksieck, 2002, p. 269. 
+
+[43] Chappuzeau Samuel, *Le théatre françois*, 1*re* éd. 1673  (éd consultée 1867 par P.L. Jacob, bibliophile), p. 26.
+
+[44] Voir sources p. 8 de la présente édition.
+
+[45] *Persélide ou la constance de l'amour*, tragi-comédie anonyme de 1646, Paris, Augustin Courbé, page « ACTEURS ».
+
+[46] Nanteuil, *La fille Viceroy*, Comédie héroïque, Hannovre, Wolgang Schwendimann, 1672, p. 11.
+
+[47] Nous soulignons.
+
+[48] Forestier, *op. cit.*, p. 487- 492,  « thème mineur : le travesti de naissance ».
+
+[49] La Mesnardière, *op. cit*., p. 137.
+
+[50] Forestier Georges, *Esthétique de l'identité dans le théâtre français* (1550-1680), Genève, Droz, 1988, p. 234.
+
+[51] Forestier,* op. cit.*, p. 301.
+
+[52] Forestier, *op. cit.*, p. 231.  
+
+[53] Zipper Hanns, *Jean de La Chapelle, Inaugural-Dissertation*, Weilburg-Lahn, Spezial-Buchdruckerei für Doktor-Dissertationen, 1920, p. 28-34.
+
+[54] Voir préface page 46.
+
+[55] Voir préface page 46.
+
+[56] Annexes.
+
+[57] Page 32 à 35 de la présente édition.
+
+[58] *Œuvres* du sieur de La  Chapelle, Tomes un et second à Paris, chez Jean Anisson, Directeur de l'Imprimerie Royale, ruë de la Harpe, à la Fleur de Lys de Florence, 1700.
+
+[59] Préface de *Racine*, *Œuvres complètes I, Poésie*, éd. Georges Forestier, Paris, Gallimard, La Pléiade, 1999 p. LIX, LX.
+
+[60] Voir annexes.
+
+[61] Ici dans le sens de « reconnues ».
+
+[62] Les astérisques (⁎) renvoient au lexique en fin de volume.
+
+[63] Comprendre  « Il veut me parler ».
+
+[64] Variante édition de 1700 « toûjours fameux » remplacé par  « trop glorieux ».
+
+[65] « e » élidé par licence poétique pour permettre d'avoir un alexandrin car un « e » devant une consonne se prononce en poésie (voir aussi v. 71, 89, 130, 164, 198, 210, 510, 562, 608 ,656, 742 ,761 ,817, 872, 910, 952, 1065, 1202,1219,1255,1292,1301,1346).
+
+[66] Diérèse.
+
+[67] Comprendre « touché violemment par les bruits de rivalité au sujet de Fatime dont Abendax a fait courir le bruit» (voir v. 397 à 400).
+
+[68] Variante édition de 1700 « qu'ait fait, Alamir » remplacé par « quoi que fasse Alamir ».
+
+[69] Comprendre « Laisse-moi ».
+
+[70] Variante édition de 1700 « à la sienne » remplacé par « à son sort ».
+
+[71] Zeugma qui réunit les deux entités l'une morale et l'autre physique pour mieux les coordonner et montrer le lien étroit entre le désespoir et le sexe de l'enfant.
+
+[72] Variante édition de 1700 « l'heritier » remplacé par « heritier ».
+
+[73] Syllepse, car si le cotexte qui précède renvoie à la carrière où l'on monte à cheval, le cotexte qui suit renvoie lui à la manière d'organiser sa vie, de faire carrière.
+
+[74] Variante édition de 1700 « faisseaux » remplacé par « drapeaux ».
+
+[75] Variante édition de 1700 « cachez luy vostre flâme » remplacé par « rassures vôtre veuë ».
+
+[76] Variante édition de 1700 « LE ROY »remplacé par « ABDERAMEN ».
+
+[77] Variante édition de 1700 « tout » remplacé par « enfin ».
+
+[78] Variante édition de 1700 « le » remplacé par « l'y ».
+
+[79] Graphie conservatrice, ici, puisque Furetière le graphie dans son dictionnaire « choix », dans le *dictionnaire de l'ancien français* de Greimas, Larousse, Paris, 1968, on peut lire : « *chois* (1*re* occurrence 1155, Wace) : choix, élection » nous soulignons. Dans l'édition de 1700 : « choix ».
+
+[80] Variante édition de 1700  «, tout m'apprend » remplacé par « en effet ».
+
+[81] Variante édition de 1700 « Non, ».
+
+[82] Métaphore  cf lexique et description de Virgile (Eneide IV).
+
+[83] Variante édition de 1700 « tout » remplacé par « -le ».
+
+[84] Variante édition de 1700 « Non, je ne prétens pas excuser ma conduite ».
+
+[85] Négation fréquente au XVIIe siècle, qui renforce la négation, déjà portée par « n' », comme le note *Haase*, A., *Syntaxe française du XVIIe siècle*, Paris, Delagrave, 1935 p. 263.
+
+[86] Variante édition de 1700 « jeune, presomptueux » remplacé par « jeune presomptueux, ».
+
+[87] Variante édition de 1700 « flatteur, respectueux, » remplacé par « flateur respectueux, ».
+
+[88] Variante édition de 1700 « ces ».
+
+[89] Variante édition de 1700 « Tout me le dit. Percé d'une douleur trop vive, ».
+
+[90] Variante édition de 1700 « Et souffrez que mon cœur, quoy que vous puissiez croire, ».
+
+[91] Première déclaration de sa flamme. Voir aussi v. 880.
+
+[92] Comprendre « rempli ».
+
+[93] Variante édition de 1700  « Je t'entens, mais dis moy ».
+
+[94] Variante édition de 1700 « Quels exploits parmy nous ».
+
+[95] Comprendre « Plutôt que de faire quelque chose indigne de mon rang ».
+
+[96] Variante édition de 1700 « Dont l'amour trop aveugle ».
+
+[97] Correction présente dans l'édition de 1700 pour permettre au vers d'être un alexandrin.
+
+[98] Variante édition de 1700 « Je viens vous l'annoncer, jugez par les effets ».
+
+[99] Graphie étymologique (voir aussi v. 839).
+
+[100] Variante édition de 1700 « Affleurent à vos jours une longue memoire. ».
+
+[101] Voir prudence.
+
+[102] Variante édition de 1700 « Mon coeur parle pour vous contre tous mes soupçons, ».
+
+[103] Chiasme.
+
+[104] « Avoir affaire de » : comprendre : « avoir besoin de ».
+
+[105] Syllepse puisqu'Alamir entend le dévouement que « Zulemar »  lui porte  et que Zaïde déjà lui dévoile son amour par le redoublement des mots pouvant être compris à l'époque de deux manières (voir lexique).
+
+[106] Intéresser quelqu'un dans , comprendre
+
+[107] Syllepse de sens puisqu'elle est à la fois « sur le point de » lui parler  mais aussi « rapide » à lui parler, ce double sens est possible par la non différenciation des deux mots qui ont la même orthographe, à l'époque.
+
+[108] Vers absent de l'édition de  1683 voir notes sur la présente édition.
+
+[109] Correction de l'édition de 1700 sinon le vers est faux.
+
+[110] Synérèse « Dieux » ne compte que pour une syllabe. 
+
+[111] Variante édition de 1700 « Tout me dédaigne icy, grands Dieux tout m'abandonne. ».
+
+[112] Variante édition de 1700 « Et qui dissipe enfin une injuste colere ».
+
+[113] Variante édition de 1700 « Je m'oublie en l'état où les Dieux m'ont reduite ».
+
+[114] Retournement de situation par rapport aux v. 564-573 où Abendax mettait en garde « Zulemar » contre ce dévoilement.
+
+[115] Variante édition de 1700 « De nos inimitiez je perdis la memoire ».
+
+[116] Selon les Frères Parfait, cité par **Lyonnet** Henry, *op. cit*. p. 307.
+
+[117] Coquille de l'éditeur, il est écrit « *Zaïre* ».
+
+[118] **Young** B. E et **Young** G .P, éd.,* Le registre de La Grange 1659-1685* reproduit en fac-similé avec un index et une notice sur La Grange et sa part dans le théâtre de Molière, Paris, Droz, 1947 p.255-257,p. 261.

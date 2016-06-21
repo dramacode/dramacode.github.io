@@ -18,7 +18,7 @@ A PARIS, Chez ANTOINE DE SOMMAVILLE, en la Salle des Merciers, à l'Escu de Fran
 Édition critique établie par Marjolaine Georges sous la direction de Georges Forestier (2007-2008)
 
 
-# Introduction
+# Introduction.
 
 Du Ryer ? du Ryer ? Durier ? Duriez ? Les multiples graphies du nom de famille de notre auteur témoignent d'emblée des incertitudes concernant certains aspects de sa vie. Par convention, et parce qu'il s'agit de la graphie la plus répandue, nous adoptons la première, bien que Lancaster n'en privilégie pas aucune.
 
@@ -30,10 +30,10 @@ Nous préférons opter pour la première car il semblerait qu'il ait appartenu �
 Dramaturge de nos jours inconnu du grand public, Pierre Du Ryer est l'auteur d'une *Bérénice*. Sans doute éclipsée comme tant d'autres par le succès de Corneille et de Racine, cette pièce apparaît, du fait de son titre, comme une énième version de l'histoire de la princesse juive. Et pourtant, il n'en est rien. La pièce de Du Ryer, qui est d'ailleurs antérieure aux versions de Corneille et de Racine, traite d'un tout autre sujet. Tout d'abord, il s'agit d'une tragi-comédie, ce qui implique nécessairement une fin heureuse [3]. Ensuite, Bérénice est sicilienne : réfugiée en Crète pour des raisons politiques, elle est tombée amoureuse, cinq ans avant que l'action ne commence, du jeune prince Tarsis, fils du roi de l'île. Des histoires d'amours contrariées par des pères-opposants, des monologues d'amants désespérés, des conversations houleuses entre des sœurs passionnées,… tout cela ne semble guère original. Cette pièce demeure néanmoins intéressante à de nombreux égards. Elle se distingue avant tout par une écriture en prose, chose rarissime à l'époque. Ensuite, en mettant en avant l'expression des sentiments des personnages, l'auteur aurait pu privilégier le discours sur l'action. Toutefois, celle-ci n'est pas réellement reléguée au second plan car c'est en discutant, en confrontant leurs idées que les personnages cherchent à sortir de l'impasse dans laquelle ils se trouvent. Bref, il s'agit d'une tragi-comédie d'inspiration romanesque écrite en prose dans laquelle les amants sortent victorieux.
 
 
-# Indications sur Pierre Du Ryer
+# Indications sur Pierre Du Ryer.
 
 
-## Biographie
+## Biographie.
 
 Pierre est le fils d'Isaac Du Ryer, marié en 1603 [4]. Secrétaire du grand écuyer Roger de Bellegarde, tuteur de Racan et protecteur de Malherbe, Isaac perdit la faveur du duc et dut alors se contenter d'un emploi de clerc à la douane du quai Saint Paul à Paris où il recevait dix écus par mois [5]. Il acquit plus tard l'office de secrétaire de la chambre du roi qu'il céda à son fils en 1621. Isaac Du Ryer était un familier des milieux de la Cour et des grands seigneurs. C'est grâce à eux qu'il fit la connaissance d'écrivains et de gens de théâtre comme Malherbe, Racan, Isabelle Andreini (célèbre comédienne italienne), Tristan L'Hermite, qui avait à peu près l'âge de son fils, et Alexandre Hardy avec qui il était en conflit parce qu'il avait participé aux querelles suscitées par la publication de son théâtre. De son temps, Isaac Du Ryer était surtout connu comme écrivain. Poète lyrique [6], il fut considéré par Sainte-Beuve comme « un des rares écrivains du commencement du xvii*e* siècle [7] ». De plus, il publia deux pastorales *La Vengeance des Satyres* en 1614 et *Le Mariage d'amour* en 1621 à une époque où la pastorale était perçue comme une œuvre poétique. Son œuvre se caractérise par une teinte nostalgique, celle d'une « revendication passionnée, et malheureusement presque toujours déçue, d'un statut honorable et rémunérateur pour les poètes dans la société  [8] ». C'est sans doute ce qui fait dire à Lancaster qu'il inculqua à son fils « sa foi religieuse, sa dévotion envers le roi et les nobles, sa capacité à supporter la pauvreté, son *esprit gaulois*  [9] ». De plus, il le qualifie de « flatteur, ivrogne, besogneux », ajoute qu'il ne « fut pas un père modèle, mais il donna sans doute à son fils … son éducation classique, son amour des vers et des pièces de théâtre, et une certaine connaissance de la cour [10] ». La pauvreté apparaît comme une fatalité héréditaire chez les Du Ryer ; c'est d'ailleurs ce que retient la postérité, en témoigne notamment cette remarque d'Edouard Fournier sur Pierre Du Ryer : 
 
@@ -74,7 +74,7 @@ Pierre Du Ryer fut élu à l'Académie française – en remplacement de Faret �
 Dans les dernières années de sa vie, Du Ryer se consacra principalement à la traduction de textes qui lui rapportait selon Baillet trente sous ou un écu la feuille [50]. Il créa sa dernière pièce, *Anaxandre* [51], une tragi-comédie, en 1653. Sa femme mourut la même année. Il se remaria deux ans après avec Marie de Bonnaire avec qui il eut une fille. Du Ryer quitta alors le village de Picpus [52] et revint vivre à Paris, dans le quartier du Marais. En 1658, il fut nommé historiographe du roi. Quelques mois plus tard, il tomba malade et mourut le 6 novembre [53]. Il fut enterré à Saint Gervais dans le tombeau de ses ancêtres.
 
 
-## Jugements sur Pierre Du Ryer
+## Jugements sur Pierre Du Ryer.
 
 Pierre Du Ryer est longtemps apparu – et apparaît encore – comme un écrivain qui vécut dans un état de pauvreté extrême. Cette représentation a été véhiculée par une tradition critique qui reprit les anecdotes de ses contemporains. L'exemple le plus flagrant et qui, selon toute vraisemblance, est à l'origine de cette déformation de la réalité, est le récit de Vigneul-Marville cité d'abord par les frères Parfaict, puis par Pellisson et d'Olivet [54]. Il raconte ici une des visites qu'il fit à Du Ryer à Picpus.
 
@@ -138,10 +138,10 @@ Il n'était pas suffisamment poète pour faire ressortir ses qualités. Son voca
 Pour les historiens du théâtre, Du Ryer a « par ses tragi-comédies … gagné la faveur des grands féodaux de son temps », mais « ses vraies réussites sont ailleurs. Elles appartiennent au genre de la comédie et de la tragédie [65] ». Selon Hélène Baby, c'est le jugement critique qui prévaut à propos de l'œuvre de l'auteur : « cette mauvaise opinion sur les tragi-comédies de Du Ryer s'explique par l'artefact critique qui fait de la tragi-comédie le balbutiement de la tragédie classique [66] ». L'avis qui rassemble le mieux tous ces jugements sur l'œuvre de Pierre Du Ryer est celui de Dominique Moncond'huy pour qui « sa carrière de dramaturge est essentiellement celle d'un auteur qui sait suivre la mode, s'adapter, tendre vers et accompagner les évolutions en cours [67] ».
 
 
-# Autour de la pièce
+# Autour de la pièce.
 
 
-## Hypothèses sur la création de la pièce
+## Hypothèses sur la création de la pièce.
 
 Il semblerait que *Bérénice* ait été créée en 1644, soit un an avant sa publication. C'est en tout cas la date qui est le plus souvent avancée [68]. Reynier déclare que « Du Ryer avait fait jouer en 1635 une *Berenice* en prose, qui n'eut guère de succès et dont la lecture est fort rebutante [69] ». L'erreur sur la date et la réflexion infondée sur le succès de la pièce font que Lancaster pense qu'il n'a pas lu la pièce. On rencontre un problème similaire en ce qui concerne la classification de cette pièce. En effet, bien que son genre – tragi-comédie – soit indiqué sur la page de titre, il n'est pas rare qu'elle soit répertoriée comme tragédie, ce que fit d'ailleurs Scherer [70]. D'après Lancaster, Mahelot, décorateur de l'hôtel de Bourgogne, n'aurait pas répertorié plusieurs dizaines de pièces dans son *Mémoire*. Ainsi, il classe *Bérénice* dans sa *List of extant plays* [71] en donnant comme date de création l'année 1644. Néanmoins, comme le signale Sophie Wilma Deierkauf-Holsboer [72], cette date, comme les autres, n'est qu'hypothétique et rien ne permet d'affirmer que cette pièce a été représentée. Toutefois, l'avis au lecteur qui précède *Bérénice* nous laisse entendre que la pièce a bel et bien été créée et que selon l'auteur, l'accueil a été assez favorable.
 
@@ -153,7 +153,7 @@ J'ay fait bien plus que je ne pensois, puisque j'ay fait en Prose une piece de T
 Nous ne savons pas non plus où *Bérénice* a été créée. Plusieurs hypothèses nous permettent d'avancer qu'elle a pu être représentée à l'hôtel de Bourgogne. Ainsi, le *Mémoire* de Mahelot nous apprend que près de la moitié des pièces [73] de Du Ryer ont été jouées dans ce théâtre : *Clitophon, Argénis et Poliarque, Lisandre et Caliste, Amarillis, Alcimédon, Les Vendanges de Suresnes, Alcionée, Esther* et *Scévole*. De plus, si on retient l'hypothèse selon laquelle *Bérénice* aurait été créée en 1644, on constate qu'une autre pièce de Du Ryer a été créée la même année : *Scévole*. Même si on ignore le lieu de la première représentation, on sait qu'elle a été jouée en 1646 à l'hôtel de Bourgogne. Les pièces de Du Ryer ont aussi été représentées dans d'autres théâtres. Ainsi, *Lucrèce, Alcionée, Thémistocle* ont été créées au théâtre du Marais ; *Alcionée* et *Scévole* ont été représentées au Petit-Bourbon. Il semblerait improbable que *Bérénice* ait été créée au Marais car ce théâtre fut détruit par un incendie le 14 janvier 1644 et la troupe ne rejoua que neuf mois plus tard. À la réouverture du théâtre, c'est-à-dire en octobre, seules deux pièces de Corneille furent créées, *La Suite du Menteur* et *Rodogune* [74]. L'hypothèse de l'hôtel de Bourgogne paraît donc la meilleure. Un autre indice nous permet de l'affirmer : c'est dans ce théâtre qu'ont été créées d'autres pièces en prose, *Le Martyre* de *Sainte Catherine* et *Thomas Morus* de Puget de La Serre.
 
 
-## Sources
+## Sources.
 
 Lorsque les histoires littéraires ou les bibliothèques dramatiques font mention de la *Bérénice* de Du Ryer, c'est principalement pour la différencier des versions qui portent le même titre. Le XVII*e* siècle a connu cinq pièces où le prénom Bérénice apparaît dans le titre : *Bérénice* de Du Ryer (1644), *Bérénice* de Thomas Corneille (1657), *Bérénice* de Racine (21/11/1670), *Tite et Bérénice* de Pierre Corneille (28/11/1670) et une version critique des pièces de Racine et de Corneille, *Tite et Titus ou les Bérénices* (comédie en prose, 1673, auteur anonyme). Les trois dernières pièces ont trait à l'histoire de la princesse juive. Il existe une ressemblance minime entre la version de Thomas Corneille et celle de Du Ryer. En effet, Lancaster prétend même que « la *Bérénice* de Thomas Corneille, tirée de ce conte de Melle de Scudéry [75], doit quelques détails à Du Ryer [76] ». Ainsi, il semblerait que Thomas Corneille ait empruntée le nom de l'héroïne de Du Ryer, certains éléments de son caractère et une partie du canevas dramatique. Selon Lancaster [77], les trois histoires ont en commun
 
@@ -165,16 +165,16 @@ Ces informations seraient d'autant plus intéressantes si l'on connaissait leur 
 On rencontre dans la pièce deux références liées à la culture antique. En ce qui concerne la première, il s'agit d'une référence mythologique. Ainsi, à l'acte I scène 1, Amasie rappelle à sa sœur « qu'estant descenduë des premiers Roys de Sicile, elle témoigne par son amour la noblesse de son sang » [80]. Elle fait ici allusion à Cocalos, premier roi de Sicile après la mort des Cyclopes. Cette évocation furtive intègre la pièce dans un univers antique, en témoignent notamment les invocations multiples aux Dieux que les personnages ne nomment jamais précisément. Cette atmosphère est renforcée par l'inscription de la pièce dans une dimension historique. En effet, il semblerait que le tyran d'Agrigente, Phalaris, qui a occasionné l'exil de Bérénice et de sa famille, ait existé. Lancaster nous dit qu'à l'époque de la rédaction de cette pièce, Du Ryer avait sans doute commencé sa traduction des *Histoires* d'Hérodote. De plus, le dramaturge se sert habilement de l'absence d'informations historiques sur la mort du tyran : quand Bérénice nous annonce sa mort à la scène 4 de l'acte IV, elle omet de nous en donner la cause.
 
 
-# Étude de la pièce
+# Étude de la pièce.
 
 
-## L'action
+## L'action.
 
 
-### Résumé de la pièce
+### Résumé de la pièce.
 
 
-#### ACTE I
+#### ACTE I.
 
 **I, 1** Bérénice révèle à sa sœur, Amasie, qu'elle aime Tarsis, le fils du Roi. Elles ont dû quitter cinq ans plus tôt leur île natale, la Sicile, à cause du tyran qui menaçait leur vie. À la fin de la scène, Amasie lui révèle qu'elle aime Tirinte.
 
@@ -191,7 +191,7 @@ On rencontre dans la pièce deux références liées à la culture antique. En c
 **I, 7** Bérénice annonce la mauvaise nouvelle à Tarsis. Dans une tirade désespérée, il l'informe qu'il va tout faire pour éviter ce malheur.
 
 
-#### ACTE II
+#### ACTE II.
 
 **II, 1** Le Roi proclame son amour pour Bérénice à Tirinte. Le Roi est en colère contre Criton qui refuse cette union.
 
@@ -206,7 +206,7 @@ On rencontre dans la pièce deux références liées à la culture antique. En c
 **II, 6** Scène de transition. Léonide dit à Tirinte que le Roi veut le voir. Tirinte pense qu'Amasie préfèrera épouser Tarsis.
 
 
-#### ACTE III 
+#### ACTE III .
 
 **III, 1**  Feinte d'Amasie qui prétend qu'elle va épouser Tarsis. Discussion galante sur l'amour. Aveu d'Amasie : elle ne va pas épouser Tarsis. Bérénice apprend dans une lettre de celui-ci qu'il doit partir pour Chypre le lendemain.
 
@@ -219,7 +219,7 @@ On rencontre dans la pièce deux références liées à la culture antique. En c
 **III, 5** Déploration des amants. Tarsis apprend à Bérénice que le Roi l'aime. Bérénice souhaite que Tarsis l'oublie. Déclaration d'amour réciproque et serments d'amour éternel.
 
 
-#### ACTE IV 
+#### ACTE IV .
 
 **IV, 1** Récit de Tirinte : le Roi voulait qu'il voie Bérénice pour lui parler de son amour et du futur mariage de Tarsis et d'Amasie. Tirinte veut connaître le choix d'Amasie. Les amants sont démunis.
 
@@ -236,7 +236,7 @@ On rencontre dans la pièce deux références liées à la culture antique. En c
 **IV, 7** Monologue de Tarsis sur la nature de l'amour qu'il porte à Bérénice. S'agit-il d'un amour incestueux ?
 
 
-#### ACTE V 
+#### ACTE V .
 
 **V, 1** Amasie tente de réconforter Bérénice qui éprouve de la honte pour cet amour incestueux.
 
@@ -251,14 +251,14 @@ On rencontre dans la pièce deux références liées à la culture antique. En c
 **V, 6** Coup de théâtre : Criton annonce au Roi que Bérénice est sa fille. Il lui avoue ensuite que Tarsis est le frère d'Amasie. Récit de Criton sur les circonstances et les raisons de l'échange des enfants. Lecture de la lettre de la reine qui confirme le récit de Criton. Le roi autorise l'union de Bérénice et de Tarsis, et celle de Tirinte et d'Amasie.
 
 
-### L'exposition
+### L'exposition.
 
 Selon l'auteur du manuscrit 559 de la Bibliothèque Nationale [81], une exposition complète « doit instruire le spectateur du sujet et de ses principales circonstances, du lieu de la scène et même de l'heure où commence l'action, du nom de l'état, du caractère et des intérêts de tous les principaux personnages ». En ce qui concerne *Bérénice*, l'exposition est pleinement achevée à la fin de l'acte I. La première scène concentre la plupart des informations. Du Ryer a recours au type le plus répandu, celui d'une scène entre un héros et son confident. Ainsi, la première phrase est riche en informations : « Estes-vous contente, ma sœur, et puis-je mieux vous monstrer mon amitié, qu'en vous descouvrant mon amour ? ». Le spectateur apprend en même temps que la sœur de l'héroïne – celle qui se confie – qu'il s'agit d'une histoire d'amour. Amasie représente alors la figure du spectateur : elle pose les questions auxquelles il peut penser. On apprend très vite l'identité des interlocutrices car elles s'apostrophent par leur prénom. La condition sociale (noblesse) et l'origine spatiale (Sicile) des deux jeunes filles sont évoquées en passant lorsqu'Amasie rappelle à sa sœur qu'elle descend des premiers rois de Sicile. Ensuite, par le biais d'une interrogation ironique, Amasie fait référence à un nouveau personnage, « le Roy de ce Pays ». Le déictique nous indique qu'il s'agit du pays dans lequel se déroule l'action, et qu'il ne s'agit pas de la Sicile. Amasie nous guide dans la quête de renseignements en nommant l'amant de sa sœur, le Prince Tarsis, valeureux guerrier, fils du « vieux Roy ». Alors que dans la première partie de la scène, les informations sont apportées par les discours, dans ce qu'on pourrait appeler la deuxième partie, elles font l'objet d'un récit de Bérénice. Celui-ci est entrecoupé par l'acquiescement d'Amasie. Il nous instruit sur les circonstances de l'exil des deux sœurs et de leur père. La fin de la scène est accélérée par l'entrée de l'amant d'Amasie, Tirinte, jeune homme de condition inférieure. Cette scène ne remplit pas pleinement le rôle d'exposition sans doute à cause de l'entremêlement de propos généraux sur l'amour.
 
 Les scènes suivantes sont plus pauvres en informations. La scène 2 nous informe seulement sur une affaire que proposerait le Roi au père des jeunes filles. Elle nous donne aussi une indication de lieu : le jardin. L'obstacle à l'union des amants n'apparaît qu'à la scène 5. La fonction d'exposition est suspendue ; ces scènes permettent d'apporter des indications sur l'*ethos* des personnages. En ce qui concerne l'obstacle majeur, celui du Roi, il n'y est fait mention explicitement qu'à l'acte II.
 
 
-### Le nœud : obstacles et péripéties
+### Le nœud : obstacles et péripéties.
 
 Selon Aristote, toute tragédie est composée de deux parties : le nœud (*desis*) et la résolution ou dénouement (*lusis*).
 
@@ -278,7 +278,7 @@ Certaines actions permettent de contourner les obstacles, du moins leurs mises e
 *Bérénice* est une tragi-comédie d'intrigue [85] dans laquelle on rencontre deux péripéties ou coups de théâtre. Les péripéties sont des événements créateurs de surprise qui ne peuvent naître que d'événements extérieurs. La révélation de Criton à la scène 5 de l'acte IV constitue une péripétie car en plus de modifier la situation matérielle des héros (Tarsis et Bérénice ne peuvent plus s'aimer), elle modifie leur situation psychologique (ils pensent que leur nature est dépravée). Cette péripétie devient alors un faux obstacle puisque le risque est imaginaire. En ce qui concerne la seconde, le risque est réel. En effet, la nouvelle de la mort de Phalaris (IV, 4) détruit les espoirs des personnages. Mis à part le Roi, plus rien ni personne ne peut empêcher Criton de partir. Péripéties et obstacles en se combinant ne permettent qu'un type de dénouement celui par reconnaissance.
 
 
-### Le dénouement
+### Le dénouement.
 
 
 Le dénouement d'une pièce de théâtre comprend l'élimination du dernier obstacle ou la dernière péripétie et les événements qui peuvent en résulter ; ces événements sont parfois désignés par le terme catastrophe. [86]
@@ -302,7 +302,7 @@ La ressemblance entre la mère et la fille disculpe l'amour incestueux du Roi ca
 Plusieurs indices préparaient ce dénouement et par là même nous indiquaient l'identité cachée de Bérénice. Tout d'abord, l'amour faussement incestueux entre Tarsis et Bérénice est souvent le signe d'un déguisement inconscient. Puis, l'insistance sur la noblesse de Bérénice et sur sa prétendue descendance pouvaient informer le spectateur sur sa qualité de future reine. Enfin, sa préférence pour les amours glorieuses va de pair avec sa qualité de noble.
 
 
-### Une tragi-comédie régulière
+### Une tragi-comédie régulière.
 
 Les trois unités sont assez bien respectées dans cette pièce. En ce qui concerne l'unité de temps, il semble que l'action se passe en quelques heures. La seule allusion temporelle confirme cette idée. En effet, le voyage de Tarsis et de Tirinte est prévu pour le lendemain.
 
@@ -318,10 +318,10 @@ L'étude des liaisons entre les scènes nous indique que les personnages se dép
 L'unité d'action est globalement bien observée : les amours de Bérénice et de Tarsis sont contrariées par deux opposants, Criton et le Roi. Néanmoins, on peut se demander si l'histoire d'amour entre Amasie et Tirinte ne constitue pas une action parallèle. Plus qu'une intrigue secondaire, il parait évident qu'elle est essentielle à l'action, elle la soutient et l'enrichit. On remarque tout d'abord qu'elle n'occupe pas beaucoup de place : ces deux amants ne se retrouvent seuls que dans deux scènes (II, 5 et IV, 1) auxquelles on peut ajouter le monologue de Tirinte (IV, 2). Cette histoire permet la représentation de véritables duels verbaux dans lesquels s'affrontent Bérénice et Amasie. Si Amasie n'aimait pas, elle ne pourrait pas donner son avis sur les questions d'amour qui constituent une grande partie de la pièce. De plus, cette intrigue évite à Amasie d'être cantonnée dans le rôle d'une simple confidente. Adjuvante [100], elle aide sa sœur mais aider sa sœur c'est aussi veiller à son union future avec Tirinte. Par conséquent, son histoire d'amour multiplie la tension dramatique par deux car si les sœurs quittent le royaume, ce sont deux couples qui se séparent. De surcroît, la volonté du roi d'épouser Bérénice occasionne plus de désagréments : son fils devra épouser Amasie, ce qui causera du tort aux deux couples. Enfin, la feinte à laquelle Amasie a recours à la scène 1 de l'acte III, n'est efficace que si elle est amoureuse. Il est vrai qu'elle aurait été possible dans le cas contraire : célibataire, elle pouvait décider d'épouser Tarsis, ce qui contrarierait quand même sa sœur. Mais, amoureuse, cette feinte modifie son *ethos* tel qu'il nous a été présenté à la première scène : une jeune fille qui privilégie la vertu à la gloire qu'apporte la couronne ne peut pas tout à coup changer d'avis et préférer ladite couronne.
 
 
-## Les caractères
+## Les caractères.
 
 
-### Bérénice : une héroïne passionnée
+### Bérénice : une héroïne passionnée.
 
 Bérénice se trouve dès le début de la pièce tiraillée entre son *ethos* et son *pathos*. En tant que jeune fille, elle doit obéir à la volonté de son père. De plus, son respect pour sa nation d'origine fait, qu'à la mort de Phalaris, elle ne peut se résoudre qu'à retourner en Sicile. Toutefois, son amour pour Tarsis est si fort qu'elle ne peut s'imaginer loin de lui. Même si elle est une héroïne passionnée, son sens du devoir et de l'honneur restreignent sa fougue. En jeune fille respectable, elle a eu du mal à avouer qu'elle aimait. Le discours qu'elle tient est le reflet des conceptions aristocratiques de l'époque. Ainsi, elle préfère que Tarsis l'oublie plutôt qu'il ne désobéisse à son père et au roi.
 
@@ -333,7 +333,7 @@ Derrière ce discours conventionnel se cache une héroïne pour qui la gloire pe
 La beauté de Bérénice n'a d'égale que la noblesse de son âme et de sa naissance. Faisant preuve de ténacité, elle manifeste aussi un courage digne d'une reine. Ainsi, quand Tarsis retarde le moment de lui annoncer une mauvaise nouvelle, elle l'apostrophe : « Comment, Seigneur, ne me gesnez point davantage, descouvrez-moy mes malheurs, et ne pensez pas trouver en moy une ame foible, et abbatuë » (III, 5). Fière et parfois ironique avec Amasie, Bérénice a toutes les caractéristiques de l'héroïne de tragi-comédie car elle est tournée vers l'excellence de la vertu.
 
 
-### Tarsis ou l'héroïsme chevaleresque
+### Tarsis ou l'héroïsme chevaleresque.
 
 Tarsis est d'abord présenté comme un valeureux guerrier, sauveur du royaume de Crète, le « vainqueur de tant de peuples » (I, 1). La valeur militaire est une des composantes majeures du héros classique, ce qui le rapproche de son ancêtre du Moyen Âge, le preux chevalier [102]. La filiation entre les deux types est d'autant plus manifeste que Tarsis adopte une rhétorique amoureuse souvent proche des conceptions de l'amour courtois. Ainsi, il montre à plusieurs reprises qu'il est prêt à surmonter tous les obstacles et à renoncer à toutes les richesses pour conserver l'objet de sa passion.
 
@@ -377,7 +377,7 @@ Il me semble, Tirinte, que je ne vous ay point donné sujet de me tenir ce disco
 Personnage secondaire, Amasie aurait toutefois l'étoffe d'une héroïne du fait de toutes ses qualités.
 
 
-### Tirinte : un amant torturé
+### Tirinte : un amant torturé.
 
 Tirinte est un personnage secondaire dont le caractère est très développé. Confident et messager du Roi, il se comporte surtout comme un amant passionné. Ses qualités de guerrier sont d'abord mises en avant par Amasie et Bérénice qui insiste sur sa condition inférieure.
 
@@ -389,7 +389,7 @@ I, 3 Amasie : « Comme dans ces dernieres guerres il a rendu à l'Estat des se
 Le statut social de Tirinte pourrait alors apparaître comme un obstacle. Toutefois, bien que Bérénice y fasse allusion dès le début, ce trait n'est pas dominant chez Tirinte. L'intérêt du personnage réside dans la relation qu'il entretient avec Amasie ; sinon il ne se contente que de commenter, de rapporter les discours du Roi voire de le conseiller. Tirinte est tiraillé entre l'obéissance qu'il doit au Roi et l'amour qu'il porte à Amasie. Son dilemme se manifeste dans ses deux monologues délibératifs (II, 4 et IV, 2). En effet, sa situation est aussi difficile à résoudre que l'issue d'un « dedale [106] » à trouver. Le ton de lamentation lyrique de ses discours met en évidence la mélancolie du personnage. Amant angoissé, il attend qu'Amasie le délivre de sa crainte, celle d'être rejeté face à Tarsis [107]. Cette peur infondée, qui n'est d'ailleurs due qu'à un quiproquo, rappelle la parenté de Tirinte avec le personnage éponyme d'Honoré d'Urfé [108]. La ressemblance entre les deux personnages est assez limitée car celui de Du Ryer n'est pas présenté comme un berger inhumain. De plus, la jalousie de Tirinte apparaît comme un trait distinctif puisque le berger inhumain ne peut éprouver un tel sentiment qui nait de l'amour. Dans *Bérénice*, Tirinte est prêt à désobéir au Roi ; il ne capitule que lorsqu'il croit que c'est peine perdue. Il insinue alors à de nombreuses reprises qu'il préfèrerait mourir et satisfaire la volonté de celle qu'il aime : « aussi je ne puis vivre aprés avoir perdu l'esperance, je sortiray content de la vie, si je vous laisse dans un throsne » (IV, 1). Ce désir le rapproche des bergers de la pastorale qui, lorsque leurs amours sont contrariées, menacent de se suicider. Fidèle en amour comme en amitié, Tirinte est un personnage ambivalent dont la retenue et la fougue sont toutes les deux mises en scène.
 
 
-### Le Roi : un personnage stéréotypé
+### Le Roi : un personnage stéréotypé.
 
 Le Roi de Crète ressemble à la plupart des rois de tragi-comédies. Son *ethos* est principalement lié à sa fonction. Le fait qu'on ne connaisse ni son nom ni la dynastie à laquelle il appartient participe à l'absence d'individualisation du personnage. Sa présence est liée à son double statut d'opposant – de roi et de père –, ce qui explique sans doute pourquoi il n'est présent qu'aux actes II et V. En effet, selon l'idéologie du xvii*e* siècle, le pouvoir royal et le pouvoir paternel sont absolus. Le pouvoir du roi s'exerce sur ses sujets, celui du père sur ses enfants, c'est lui qui décide sans appel de leur mariage. En associant les deux types, Du Ryer a créé un personnage dont le trait dominant est son caractère autoritaire. Son discours est rythmé par le même leitmotiv « je veux ». Même si on ne rencontre que dix occurrences, on constate que lorsque le roi utilise le verbe *vouloir*, il le fait soit dans la même réplique, soit à quelques répliques de distance. L'exemple le plus flagrant est sa première intervention (acte II, scène 1).
 
@@ -420,25 +420,25 @@ Du Ryer obéit aux règles que Corneille a énoncées bien plus tard. En effet, 
 Malgré l'insistance sur la vieillesse du personnage [112] et ses conséquences, les qualités du Roi sont reconnues. Sa grandeur, sa générosité sont saluées par l'ensemble des personnages. En effet, le Roi semble suivre à merveille les conseils prodigués par Machiavel dans le *Prince* : il sait récompenser les valeureux, tenir sa parole, se montrer clément quand il le faut et se faire craindre. Lorsque le Roi aura reconnu Bérénice comme sa fille, il recouvrira alors toute sa lucidité et les vertus qui accompagnent sa qualité royale.
 
 
-### L'énigme Criton
+### L'énigme Criton.
 
 L'ambiguïté de Criton est due à sa qualité de personnage révélateur. Afin de maintenir le mystère le plus longtemps possible, Du Ryer a créé un personnage dont le mystère est partie intégrante de sa personnalité. Elle se manifeste d'abord par un discours énigmatique et prophétique qui dure jusqu'à sa première confession. Ainsi, à la scène 5 de l'acte I il répète le même refrain « contentez-vous de sçavoir », en ajoutant qu'un « jour » ses filles connaîtront ses « justes raisons ». Même lorsqu'il dévoile la vérité, il passe par des détours alambiqués qui retardent la révélation de l'identité de Tarsis (IV, 5) : « C'est par ce que vous ignorez qui vous estes ». En jouant sur l'équivoque, Criton manifeste une certaine habileté dans l'art de conserver un secret. Sans mentir, il parvient à rendre vraisemblable sa volonté de quitter la Crète. Un tel résultat est possible car il se pare du rôle du père autoritaire qui veille à la conservation de l'honneur de ses filles. Il est alors obligé d'adopter un discours en accord avec l'*ethos* qu'il se donne. C'est ce qui explique pourquoi il réprimande violemment Amasie lorsqu'il croit qu'elle aime Tarsis, en témoigne cette réplique : « Celle qui blesse son honneur, blesse aussi les yeux de son Pere » (III, 2). Cette phrase à cause de sa structure en chiasme apparaît comme une sentence réprobatrice. À l'horreur véritable que provoque cette révélation – la relation incestueuse entre un frère et sa sœur – se superpose la nécessité d'un tel comportement, Criton doit agir en barbon pour éviter les soupçons sur son départ inattendu. Ses filles doivent lui obéir parce qu'il est leur père. Cette idée nous permet de nuancer l'opinion de Lancaster pour qui Criton est « sévère avec ses filles, franc et cruel dans ses révélations, un vieil homme rusé et non plaisant [113] ». Bien que ses affirmations soient en partie justes, elles ne tiennent pas compte de la position dans laquelle Criton se trouve : il doit empêcher l'inceste du Roi et de Bérénice, et éviter que celui-ci ne le punisse. Il est donc obligé d'adopter un discours menaçant car il manque de temps : « Il faut neantmoins m'obeïr. Et s'il ne fait rien pour vous, je luy diray, peut-estre, des choses qui ne luy seront pas agreables. Ne me mettez point en ce hazard » (III, 3).
 
 Même si Du Ryer était obligé de rendre Criton énigmatique, il aurait été judicieux de sa part de mettre en scène un combat intérieur qui justifierait l'absence de sensibilité du personnage. De plus, l'attitude qu'il adopte envers ses filles apparaît aux yeux des autres comme en rupture avec son caractère. Le Roi ne comprend pas pourquoi son fidèle ami refuse son union avec Bérénice et pourquoi il est devenu si fuyant : « je ne sçaurois m'empescher de faire un mauvais jugement de la sagesse de Criton » (II, 1). À la scène suivante, Tarsis rappelle à son père ses qualités et son utilité : « vous connoissez par de grands effets, combien sa prudence et son courage ont contribué au repos et à la gloire mesme de cet Empire ». Les véritables sentiments du personnage n'apparaissent qu'à la dernière scène. C'est sous la contrainte qu'il a divulgué à Tarsis sa véritable identité [114], c'est parce que le Roi le menace qu'il lui révèle la vérité. Criton se présente en criminel, il est coupable d'ambition, celle d'avoir voulu que son fils devienne un jour roi, tout en pensant « rendre service ». Cette raison qui fait de lui un opportuniste va de pair avec son caractère rusé. Du Ryer a donc créé ce personnage de telle sorte que le coup de théâtre final soit en adéquation avec son caractère.
 
 
-### Léonide : un personnage fonctionnel
+### Léonide : un personnage fonctionnel.
 
 Serviteur du Roi, Léonide remplit la fonction de messager. Bien que son rôle soit limité à trois répliques [115], il permet d'un point de vue dramaturgique de lier des scènes où la sortie des personnages aurait difficilement été motivée par une raison valable. De plus, il incarne cette passerelle entre les deux lieux que sont la maison de Criton et le palais du Roi. Avec Tirinte, il est le porte-parole des commandements royaux.
 
 
-## Les thèmes
+## Les thèmes.
 
 
-### Une tragi-comédie de l'amour tendre
+### Une tragi-comédie de l'amour tendre.
 
 
-#### Caractéristiques de l'amour tendre
+#### Caractéristiques de l'amour tendre.
 
 La tragi-comédie est un genre dramatique qui se caractérise la plupart du temps par son invention romanesque, le mélange de la matière comique et tragique, une fin heureuse et son personnel dramatique noble. L'amour est au centre de la plupart des pièces. Tous les caractères de la passion y sont évoqués : sa soudaineté, la dévotion de l'amant pour sa maîtresse, leur attachement mutuel… *Bérénice* ne fait pas exception à la règle car l'amour est le sujet dont parlent les personnages et le constituant majeur de l'intrigue. À la différence d'autres tragi-comédies, celle-ci met en scène deux couples déjà unis ce qui implique qu'ils se sont déjà révélés leur passion. L'amour, tel qu'il nous est présenté dans la pièce, est cet « ultime avatar de l'utopie amoureuse que rêve de promouvoir l'aristocratie mondaine [116] ». En effet, l'idéologie amoureuse se situe à l'époque de sa rédaction à un tournant. À partir des années 1650, l'influence des salons mondains modifiera cette conception des rapports amoureux. Dans notre pièce, c'est l'amour galant qui dicte encore ses règles. Cette conception de l'amour a pour source la littérature romanesque qui véhiculait l'archétype courtois. Les principes essentiels sont : la primauté absolue de l'amour dans la hiérarchie des valeurs, le respect dû à la dame « en qui l'on reconnaît l'incarnation d'un idéal de beauté et de perfection, la soumission de l'amant condamné à une longue et difficile ascèse avant d'atteindre au terme de sa quête [117] ». Autre caractéristique majeure, l'instabilité du bonheur. Les héros, parce qu'ils aiment, sont sujets à tous les maux. L'amour galant, ou amour tendre, est synonyme de souffrances. Amasie exprime cette idée à la scène 1 de l'acte I : «  Il m'en souvient, ma sœur, et si vous aimez depuis cinq ans, vous devez connoistre l'amour et vous estre accoustumée aux inquietudes qui l'accompagnent ». Un peu plus tard, Bérénice formule le même sentiment à Tarsis : « Depuis le moment que je vous ayme, je n'ay pas manqué de douleurs pour m'accoustumer à souffrir ». Ainsi, le grand paradoxe de la règle tendre est qu'on exalte l'amour comme valeur absolue et nécessité vitale alors qu'on le soumet à des règles qui entravent la liberté des amants, et en particulier celle de l'homme. Toutes ces mises en garde à l'embrasement des âmes n'est en réalité qu'une précaution pour conserver la pureté originelle du sentiment. Un homme qui aime doit nécessairement se soumettre et reconnaître la supériorité de sa maîtresse. Ainsi, Tirinte et Tarsis, alors qu'ils croient que tout est perdu, énoncent à leur bien-aimée un serment de fidélité car l'amant, selon la règle tendre, doit être constant, discret et soumis. Une des preuves de soumission est l'obéissance absolue même lorsqu'on demande à l'amant d'en aimer une autre ou de ne plus aimer. C'est ce qu'ordonne Bérénice à Tarsis à la scène 2 de l'acte V.
 
@@ -462,7 +462,7 @@ L'amant ne doit pas pour autant s'abandonner au désespoir car si l'on aime, il 
 L'amour tendre se construit autour de lieux communs issus pour la plupart de la poésie de Pétrarque. L'un des plus importants est que la passion rend aveugle [119] ceux qui aiment car la flamme qui embrase l'âme dévaste tout sur son passage. Cette vision stéréotypée de l'amour fait l'objet de discussions elles aussi figées dans cette conception de l'amour galant.
 
 
-#### Les discussions galantes
+#### Les discussions galantes.
 
 À l'époque de la rédaction de la pièce, on constate un foisonnement de discussions amoureuses qui constitueront une grande partie des conversations des salons mondains dont on retrouvera une trace dans la littérature de l'époque, notamment dans les romans des Scudéry ou bien encore dans les *Conversations sur divers sujets* de Madeleine de Scudéry. Les personnages principaux de *Bérénice* sont amoureux et parlent d'amour. Le fait que le nom abstrait *amour* [120] soit plus représenté que les autres mots pour désigner ce sentiment et ce qui l'entoure, participe à l'idée selon laquelle cette tragi-comédie serait une sorte de démonstration des questions que pouvaient se poser les contemporains sur le sujet car privilégier l'abstraction au verbe actif montre qu'on est plus dans le discours que dans l'action à proprement dite [121]. En effet, on a souvent l'impression de quitter la représentation théâtrale et d'assister à des débats qui ont lieu dans une sphère plus intime, c'est-à-dire dans un salon. De la sorte, certaines conversations ressemblent aux débats types sur l'amour que l'on a publiés un peu plus tard. L'exemple le plus représentatif est celui des *Questions d'amour ou Conversations galantes dédiées aux belles* publiées par Charles Jaulnay en 1671. Dans cet ouvrage, l'auteur répertorie toutes les questions que l'on peut se poser sur l'amour. Il répond à chacune d'entre elles de façon plus ou moins brève en s'appuyant souvent sur l'expérience de la vie. Ainsi, on remarque que l'une des problématiques de la pièce que nous développerons un peu plus tard, celle de la nature de l'amour et du mérite, est abordée.
 
@@ -522,10 +522,10 @@ R. Les preuves essentielles d'amour sont la confiance entiere, les pleurs, et la
 La position exposée à travers Tirinte semble donc moins idéaliste. Elle reflète l'opinion mondaine qui critiquera l'austérité de l'idéalisme amoureux.
 
 
-### La question du mérite et de l'ambition
+### La question du mérite et de l'ambition.
 
 
-#### Naissance versus mérite
+#### Naissance versus mérite.
 
 La notion de mérite est centrale dans la conception de l'amour tendre. Cette doctrine, véhiculée par l'œuvre d'Honoré d'Urfé, est inspirée d'une « mystique platonisante [123] » puisée chez des philosophes et penseurs italiens du siècle précédent. Elle explique la naissance de l'amour par deux opérations successives.
 
@@ -562,7 +562,7 @@ Dans l'univers dramatique de Du Ryer, la force émane du mérite, mais le mérit
 En plus du lien qui unit l'amour tendre à la question du mérite, celle-ci est d'autant plus intéressante qu'elle offre un éclairage particulier sur la société hiérarchisée du xvii*e* siècle.
 
 
-#### Le rapport entre l'amour et la gloire
+#### Le rapport entre l'amour et la gloire.
 
 Selon la définition que donne Richelet dans son dictionnaire [130], le nom *gloire* possède au xvii*e* siècle deux acceptions quelque peu divergentes. Si dans un premier sens la gloire désigne « l'honneur acquis par de belles actions », ou encore un « ornement, honneur », dans un second sens il peut signifier « *orgueil* » et « se prend en bonne et mauvaise part ». Les rapports qui unissent l'amour et la gloire sont à l'image de cette ambiguïté. En effet, l'amant doit manifester sa gloire par des actions héroïques. De plus, il doit travailler à la gloire de celle qu'il aime, c'est-à-dire contribuer à la réputation de sa maîtresse. L'amour est donc considéré comme facteur d'accroissement de la gloire personnelle.
 
@@ -602,10 +602,10 @@ Tirinte : L'ambition peut vous l'oster. »
 Au lieu de développer ce qui aurait pu donner lieu à un obstacle, Du Ryer a préféré l'évoquer en passant comme s'il souhaitait s'attarder davantage sur le développement des sentiments des personnages que sur le traitement conventionnel des obstacles à l'amour.
 
 
-### La question de l'identité
+### La question de l'identité.
 
 
-#### Les déguisements inconscients [133]
+#### Les déguisements inconscients [133].
 
 Par déguisement inconscient nous entendons le fait de se croire autre que ce que l'on est réellement. Dans cette pièce, on dénombre deux déguisements inconscients : un féminin, celui de Bérénice, et un masculin, celui de Tarsis. Georges Forestier explique que « le fait que la tradition du déguisement inconscient masculin remonte à la tragédie antique explique que ce type de rôle soit resté plus particulièrement masculin [134] ». Dans le même ouvrage, il relève quatre causes expliquant l'ignorance d'identité : la disparition, ou enlèvement, la modification de l'identité par changement de famille, l'échange entre deux enfants du même âge, et la ressemblance. Du Ryer a recours dans *Bérénice* à la forme la plus célèbre de méconnaissance d'identité, la substitution d'enfants. D'un point de vue dramaturgique, le changement d'identité que suppose l'ignorance d'identité doit avoir eu lieu avant le commencement de la pièce. De fait, le spectateur et les personnages sont plongés dans le même état d'ignorance. Il ne s'agit pas du type le plus répandu car cela concerne seulement 8 pièces examinées par Georges Forestier, soit environ 13, 3% pour l'échange du héros et 17 % en ce qui concerne une héroïne [135]. Les ignorances d'identité, masculines et féminines, se répartissent dans quatre catégories : le déguisement *sans changement de condition*, le déguisement *supérieur*, le déguisement *inférieur* et le déguisement en *berger*. Le cas de Bérénice entre dans la troisième catégorie car de fille de noble sicilien, elle devient princesse crétoise. En revanche, celui de Tarsis entre dans la deuxième catégorie, la plus nombreuse avec dix-neuf personnages masculins et vingt personnages féminins [136]. Ce type de déguisement a été privilégié par les dramaturges parce qu'il permet de développer le thème de la fausse mésalliance. Comme nous l'avons vu, ce motif n'est évoqué dans la pièce qu'au travers de la réflexion sur le mérite et la naissance. Du Ryer a donc choisi la difficulté car ce type de déguisement inconscient implique une maîtrise continue du mystère. Les raisons qui expliquent une substitution d'enfants sont « souvent très proches de celles qui justifient une modification d'identité, guerre et coup d'Etat en particulier, disons, plus largement, raisons politiques [137] ». C'est le cas dans cette pièce car Criton justifie cet échange par un rappel de la situation politique de l'époque : le Roi devait avoir un fils pour maintenir son royaume. Néanmoins, ce double mystère d'identité apparaît assez artificiel car, une fois la paix rétablie, Criton aurait pu dévoiler son secret. Criton apparaît comme le personnage révélateur qui, par le biais de la lettre de la Reine, énonce la vérité. L'auteur aurait très bien pu le faire entrer en scène uniquement au dernier acte comme c'est le cas dans *Œdipe*, mais il a préféré lui conférer un rôle que Georges Forestier qualifie « d'observateur-manipulateur ». En effet tout au long de la pièce, il fait en sorte de retarder le plus possible la révélation afin de se préserver du châtiment royal.
 
@@ -628,7 +628,7 @@ Bérénice : Il m'est encore impossible de vous regarder en frere. … (V, 2)
 Roger Guichemerre voit dans la mise en scène de ce thème un moyen pour le dramaturge de mettre en scène des scènes « piquantes » ou pathétiques qui plaisaient beaucoup aux spectateurs de l'époque [139]. Ainsi, Du Ryer a su profiter de la fortune de ce motif tout en l'exploitant de façon originale.
 
 
-#### Le rapport à la patrie
+#### Le rapport à la patrie.
 
 Dans l'histoire du théâtre, le thème de l'attachement au pays natal avait trouvé un développement dans la tragi-comédie de Garnier, la *Bradamante* (1582). Toutefois, c'est avec beaucoup plus de solennité que Du Ryer a traité ce sujet. D'ailleurs, si l'on en croit Lancaster [140], il a introduit le thème du patriotisme dans son œuvre avant Corneille et Rotrou. *Bérénice* est la deuxième de ses pièces à évoquer en filigrane ce sujet. Pierre Du Ryer commença avec *Saül* (1642), poursuivit dans *Scévole* (1647), mais c'est surtout avec *Thémistocle* (1648) et l'histoire du héros éponyme, un patriote exilé par ses concitoyens pour avoir montré trop de zèle, que l'auteur développa la thématique. Dans ce dernier cas comme dans notre pièce, on remarque que l'attachement à la patrie est d'autant plus fort que les héros sont exilés. Bérénice, Amasie et Criton ont dû quitter leur Sicile natale pour échapper aux « fureurs » (I, 5) du tyran Phalaris. La Crète apparaît alors en contre-point comme un refuge, un asile. Pourtant, la patrie d'origine n'a pas été oublié ; Bérénice rappelle à Amasie les « calamitez » qu'a connues leur patrie (I, 1). La Patrie est personnifiée et incarne en quelque sorte un symbole de servitude. Ainsi, lorsque Bérénice annonce à Tarsis que les Siciliens se sont révoltés contre le tyran, elle parle de « la delivrance de sa Patrie » (IV, 4). Dans la même scène, elle laisse entendre que le lien qui unit chaque personne à son lieu d'origine est plus fort que tout et que la gloire n'est pleine et entière que lorsqu'on la savoure dans sa Patrie.
 
@@ -647,10 +647,10 @@ Celuy qui regne en Sicile, l'execrable Phalaris ayant usurpé la Couronne, est-i
 L'usurpation du pouvoir est un thème que l'on rencontre souvent dans ce genre théâtral. Le traitement du patriotisme ajouté à celui de la politique permet à la pièce de lui donner un cadre assez sérieux. De plus, faire de Bérénice une patriote, contribue à sa personnalité de princesse altière.
 
 
-## Le discours
+## Le discours.
 
 
-### Écrire en prose dans les années 1640
+### Écrire en prose dans les années 1640.
 
 Comme Du Ryer le sous-entend dans l'avis au lecteur de *Bérénice*, il n'est pas le premier à avoir tenté l'expérience de l'écriture en prose. Lancaster ajoute même qu'il existe à la fin du xvi*e* siècle de nombreuses comédies et tragi-comédies en prose [141]. En ce qui concerne le siècle suivant, on constate une certaine vogue de la prose autour des années 1640. La part de ces pièces reste toutefois minime en comparaison avec celle en vers. Néanmoins, c'est dans cette décennie qu'on remarque un foisonnement de pièces en prose [142]. Sept dramaturges prirent ce risque dans ces années-là : Puget de la Serre, Scudéry [143], l'abbé d'Aubignac [144], Desmarets [145], Du Ryer, La Calprenède [146] et Cyrano de Bergerac [147]. Puget de la Serre se distingue des autres personnalités, avec d'Aubignac, car ce sont les seuls à n'avoir écrit qu'en prose [148]. Les rumeurs prétendent qu'il n'écrivit en prose que parce qu'il n'était qu'un piètre rimailleur. Contrairement à l'abbé d'Aubignac, il n'expliqua pas son choix. Dans le chapitre « des stances » de sa *Pratique du théâtre* [149], après avoir admis les conventions du monologue et de l'aparté, d'Aubignac accepte, en théorie, la convention de la versification, même si, dans sa propre pratique, il la refuse.
 
@@ -674,13 +674,13 @@ Le fait de privilégier la prose au vers manifeste un souci de vraisemblance. En
 L'avis au lecteur de *Bérénice* éclaircit peu l'opinion de Du Ryer sur la question. Il y parle des genres en prose – en particulier de l'histoire dont il fait des traductions – qui sont du côté de l'utile ; le vers, donc la poésie et la poésie dramatique, est d'abord du côté de l'agréable. À cet égard, Lancaster qualifie cette position de philistine [152]. De plus, il pense que l'usage de la prose a été influencé par ses traductions. Quoiqu'il en soit, Du Ryer confesse dans cette préface le statut expérimental de cette œuvre. L'insistance sur le mot « hasard » que l'on rencontre deux fois dans ce texte tend à souligner l'absence de projet ou de commande préexistante à la rédaction de la pièce. Ainsi, il pourrait s'agir d'une expérimentation poétique comme d'autres l'ont fait à la même période. Néanmoins, il insiste sur le fait qu'il ne retentera pas l'aventure. Simple précaution oratoire ? Les intentions de l'auteur n'en demeurent pas moins énigmatiques. Elles pourraient s'éclairer si l'on en croit la notice d'Edouard Fournier [153] pour qui la pièce devait être écrite en vers. Toutefois, comme ce dernier n'avance pas de preuves, on peut penser qu'il s'agit d'une rumeur dont le but est d'exagérer la pauvreté de Du Ryer ; l'erreur sur la date confirmant par ailleurs cette idée.
 
 
-### Étude du style de Bérénice
+### Étude du style de Bérénice.
 
 
-#### La rhétorique amoureuse
+#### La rhétorique amoureuse.
 
 
-##### Un langage amoureux codifié
+##### Un langage amoureux codifié.
 
 L'existence d'un vocabulaire de l'amour tendre met en évidence l'influence de cette idéologie dans les milieux mondains. Jean-Michel Pelous analyse dans son ouvrage sur la représentation de l'amour le caractère normatif du code tendre. Selon lui, « l'Amour, souverain absolu, impose son langage en même temps que ses lois et réduit au minimum la liberté de ses sujets dans l'un et l'autre domaines [154] » ; ce qui explique pourquoi on rencontre la plupart du temps les mêmes mots utilisés dans des phrases dont la construction est identique. Dans *Bérénice*, on retrouve pratiquement tous les mots relevés par Pelous ; à l'exception de *glace* qui est employé dans un autre sens, seul *fers* et *martyre* sont omis. Ce vocabulaire tend d'abord à exposer l'ardeur de la passion amoureuse, d'où la présence du champ sémantique de la flamme. Ainsi, on compte trois occurrences de *brûler*, trois d'*enflammer* ou de son substantif, trois de *feu*, une d'*embrasement*, une d'*ardeur*, deux d'ardent – d'ailleurs associé une fois à passion – et dix neuf de passion [155]. La personne que l'on aime est souvent désignée par le terme poétique *objet* [156] qui tend à la sublimer. Tous ces mots expriment l'hégémonie de l'amour sur l'âme. La passion n'est pas exempte de souffrances car l'amour est violent ; d'où l'utilisation du terme *trait* [157] qui à l'origine appartenait au vocabulaire guerrier. L'amant est perçu comme une victime qui a succombé à un *charme* [158]. Le désarroi intérieur de l'amant se manifeste d'abord par des *soupirs* [159]. Jean-Michel Pelous remarque que le vocabulaire qui décrit la souffrance de l'amant rebuté est plus énergique. Même si dans *Bérénice* aucun amant n'est repoussé par une belle inhumaine, on note l'utilisation de ce champ sémantique pour exprimer la souffrance en général. De telle sorte que, si *tourment, supplice* et *douleur* sont faibles, la *cruauté* [160] de l'amour n'a pour seule issue que la mort. Le nom *trépas* est absent de la pièce ; par contre, la mort est l'issue à laquelle pense Tarsis lorsqu'il est au bord du désespoir [161]. Enfin, le statut de l'amant est proche de l'esclavage, d'un état de captivité qui est évoqué par les *chaînes* et les *liens* [162].
 
@@ -689,15 +689,15 @@ Toutes ces indications nous permettent d'affirmer que le vocabulaire utilisé pa
 L'expression des sentiments passe souvent par la mise en place d'un champ sémantique assez restreint mais très exploité ; en témoigne cette réplique de Tarsis : « le Roy rougira bien-tost de bruler d'une passion qui ne sied bien qu'en un jeune cœur » (IV, 3). Dans cette phrase, Tarsis évoque la honte qu'éprouvera son père par le biais du verbe *rougir*. Ce désir s'inscrit dans la thématique de la flamme amoureuse avec *brûler* et *passion*. Or, le verbe *rougir* a aussi un rapport avec le feu, au sens propre. De fait, c'est toute une métaphore filée du feu qui parcourt l'ensemble du passage ; le feu étant à prendre au sens propre comme au sens figuré. Du Ryer se sert donc de topoï qu'il combine les uns avec les autres dans une perspective de poétisation du discours des personnages.
 
 
-##### L'expression des sentiments : analyse des monologues
+##### L'expression des sentiments : analyse des monologues.
 
 Le lyrisme se manifeste principalement dans les monologues. On en dénombre cinq : deux de Tirinte (II, 4 et IV, 2), deux de Tarsis (IV, 7 et V, 3) et un de Bérénice (III, 4). Leur caractère lyrique est notamment souligné par certains aspects du rythme. Ainsi, on remarque que les impératifs sont le plus souvent répétés deux fois, même s'il n'est pas rare de rencontrer d'autres formes verbales elles aussi répétées : « Allons, allons » (II, 4), « Venez, venez » (IV, 2), « J'aime, j'aime Berenice » (IV, 7). L'impératif est employé dans le cadre plus général de l'invocation de divinités, de notions abstraites personnifiées, ou d'apostrophes de l'être aimé : « ô Dieux, ô amour, ô fortune, privez moy … » (II, 4), « O destins ! ô Dieux ! ô Nature ! N'aviez vous mis … » (V, 3). Le lyrisme de ces deux phrases est renforcé par les interjections que l'on rencontre à profusion dans tous les monologues. « Ha », « hé », « hélas », en appuyant un énoncé exclamatif, exprime la subjectivité de celui qui parle. Tous ces monologues mettent en scène des personnages en proie au doute. Ce sentiment s'exprime par une grande fréquence d'interrogations, la plupart du temps totales. L'incertitude de la posture à adopter est affirmée par la récurrence des hypothétiques. Il s'agit donc de monologues délibératifs où à la fin le personnage doit avoir pris une décision qui l'engage dans la suite de l'action. Cette utilisation du ce type de discours est tout à fait conventionnelle. Ainsi, Du Ryer utilise tous les outils propres à exprimer le désarroi des personnages.
 
 
-#### L'organisation des dialogues
+#### L'organisation des dialogues.
 
 
-##### Les joutes verbales
+##### Les joutes verbales.
 
 L'avis au lecteur de *Bérénice* montre qu'on est encore loin de l'idéal classique d'une poésie horatienne qui mêle l'utile à l'agréable. Même si à cette époque la poésie en prose n'existe pas, on pourrait voir dans cette tragi-comédie une entreprise malherbienne qui prône une poésie proche de la conversation. De plus, la grande part occupée par les conversations, rattache cette pièce à une tradition romanesque que développent dans les années 1650 Georges et Madeleine de Scudéry avec *Artamène ou le Grand Cyrus* et la *Clélie*.
 
@@ -732,7 +732,7 @@ Bérénice : C'est donc assez de l'estimer en ceux qui sont moindres que nous.
 L'échange de stichomythies, qui apparente la discussion à une sorte de ping-pong verbal, intensifie la violence des attaques : on n'est plus dans le développement d'idées mais dans l'affrontement de personnes, la guerre du « je » contre « vous ». À cet égard, la dernière réplique de la scène est significative. Il s'agissait bel et bien d'une compétition entre les deux jeunes femmes puisque Bérénice proclame : « Je resisterois mieux que vous ». La bataille tend à éprouver la vertu des jeunes filles, elle est donc d'ordre moral.
 
 
-##### Un discours moral
+##### Un discours moral.
 
 Le théâtre et les traductions de Du Ryer font une place importante au discours moral. Ce type de discours se rencontre dans *Bérénice* dans les discussions sur l'amour. Elles sont construites à partir de lieux communs. Ainsi, on y remarque une tendance à la généralisation qui se manifeste notamment dans l'emploi systématique du présent de vérité général ; en témoigne cette réplique de Bérénice : « c'est principalement par l'objet, que l'amour merite du blasme, ou qu'il est digne de loüange » (I, 3). L'héroïne ne tire pas cette leçon d'une expérience personnelle, elle l'énonce comme on dit un proverbe. Pour qu'il y ait sentence, il faut que la phrase soit courte et le propos le plus général possible. L'universalisation du discours se manifeste d'abord dans l'emploi du pronom indéfini *on* et l'utilisation de la première personne du pluriel. Cet effacement du locuteur derrière une instance impersonnelle participe à un effet de grandeur poétique, la forme sentencieuse allant de pair avec le propos universel. D'autres indices vont dans ce sens. En effet, l'emploi du groupe déterminant *tout ce* ajoute à l'indication quantitative de la totalité la saisie d'ensemble opérée par l'indéfini [167]. C'est ce qu'on remarque dans cette réplique de Bérénice : « tout ce qui vient du throsne est absolu et souverain » (I, 1). L'utilisation du pluriel est l'exemple le plus flagrant de cette volonté de généraliser le discours : « Les hommes genereux sont tousjours grands et relevez » (I, 3). L'adverbe *tousjours* permet de rendre valable cette idée à toutes les personnes et à toutes les époques. La construction impersonnelle est celle qui admet le mieux le discours généralisant, comme le montre cette réplique de Criton :
 
@@ -756,10 +756,10 @@ Le Roi : … je cesse de vous aimer, afin de commencer à vous aimer. (V, 6)
 Dans ces deux exemples, on remarque que la répétition participe au caractère sentencieux du discours. L'utilisation de pointes, tout en donnant un caractère ingénieux aux propos des personnages, participe au dynamisme des tirades.
 
 
-#### Un art de la variation : « l'esthétique du saisissement [168] »
+#### Un art de la variation : « l'esthétique du saisissement [168] ».
 
 
-##### Une prose rythmée
+##### Une prose rythmée.
 
 « J'estime en effet, avec Théophraste, que la prose, du moins la prose soignée, et, si j'ose dire, travaillée, doit être soumise à un rythme, non pas rigoureux, mais assez libre [169] ». Lorsqu'on lit cette phrase, il semble évident que Du Ryer ait suivi les conseils prodigués par Cicéron, auteur dont il a d'ailleurs traduit toute l'œuvre. Dans le même ouvrage, il déconseille vivement de grouper les mots de manière à former un vers. En revanche, il faut selon lui qu'ils « soient groupés de manière à rappeler le vers par leur cadence rythmée, leur force symétrique et pleine [170] ». La prose de *Bérénice* obéit tout à fait à cette recommandation. En effet, son caractère rythmé se manifeste tout d'abord par les parallélismes de construction qui foisonnent dans toute la pièce. Un des exemples les plus frappants se situe à la scène 1 de l'acte II dans la tirade du Roi : « Quoy, Tirinte, j'aymerois en vain Berenice ! Quoy, son Pere ne peut escouter mon amour ! Quelles difficultez oppose-il à mon dessein ? quelles raisons peut-il opposer à sa gloire ? ». Les deux premières phrases se construisent de la même façon, comme les deux suivantes. Les débuts du Roi sont d'autant plus remarqués qu'il s'agit de quatre alexandrins. Parallélismes et énumérations vont souvent de pair dans une prose où le rythme binaire l'emporte comme le montre cette phrase de Bérénice : « Plus vous parlez et plus vous nous donnez d'estonnement » (I, 5). Du Ryer fait se succéder à plusieurs répliques courtes, des répliques plus longues. Ainsi, lorsque les personnages prennent la parole plus longtemps, on remarque une certaine préférence pour l'hypotaxe. La parataxe est surtout utilisée dans des cas où l'argumentation doit se passer de développements ; en témoigne cette phrase de Tarsis : « Il est aymé dans vostre Empire, il est en veneration parmy les estrangers, vos ennemis le redoutent, et la perte que nous en ferions les consoleroit facilement de la perte de douze batailles » (II, 2).
 
@@ -828,15 +828,15 @@ Ainsi, comme le remarque Hélène Baby,
 Cette définition du comique tragi-comique nous permet de mieux comprendre la portée de toutes les répliques où Amasie et Bérénice se moquent l'une de l'autre, comme c'est le cas dans cette réplique d'Amasie : « Vous l'aymeriez asseurement, car il ne s'en faut guere qu'une fille n'ayme un homme quand elle est amoureuse de sa vertu » (I, 3). La pièce présente donc la nouvelle forme de comique telle qu'elle s'est développée dans les années 1630-1635, les comédies modernes se caractérisant par un comique d'enjouement qui rompt avec le populaire et le bouffon ce que l'on retrouve dans la tragi-comédie contemporaine. L'esthétique de l'enjouement crée ainsi des parenthèses comiques dans une pièce où le pathétique semble parfois l'emporter.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 
-## Localisation
+## Localisation.
 
 Nous avons établi le texte d'après un exemplaire de l'édition originale de 1645 conservé à la Bibliothèque nationale sous la référence RES YF-330. Il n'y a eu qu'une seule édition de cette pièce. Il existe d'autres exemplaires sous les références 4-YTH-397, RES-YF-R565, RES YF 661 (site Tolbiac). Le département des arts du spectacle (site Richelieu de la BNF) possède un exemplaire sous la référence 8-RF-6096. La bibliothèque de l'Arsenal en conserve deux sous les références 4-BL-3436 (6.3) et GD 1166 (1). Le premier exemplaire figure dans un recueil factice des œuvres de Pierre Du Ryer (*Saul, Esther, Bérénice*). Dans le deuxième exemplaire, la pièce est incluse dans le tome IV des *Poèmes dramatiques de M. Du Ryer* comprenant *Bérénice, Scévole* et *Thémistocle*. La bibliothèque Mazarine conserve un exemplaire sous la référence 4° 10918-28/2. La pièce est dans un recueil relié aux armes de Louis-Jean-Marie de Bourbon, duc de Penthevièvre, avec ex-libris gravé de Nicolas-Joseph Foucault. Il comporte des pièces d'autres auteurs (*Panthée* de Tristan l'Hermite, *Bérénice* de Du Ryer, *La Mort d'Agis, Venceslas* de Rotrou). La bibliothèque de la Rochelle a un exemplaire sous la référence Rés 538C (il manque la page de titre). Il existe plusieurs exemplaires à l'étranger (microformes) : à l'université de Göttingen (Allemagne), à Harvard (Houghton Library, 005225494 HOLLIS Number) et à l'université de Caroline du Sud (Columbia annex, Misc Film C655).
 
 
-## Description du volume
+## Description du volume.
 
 Cette édition est parue chez Antoine de Sommaville et Augustin Courbé. L'extrait du privilège au roi ainsi que l'achevé d'imprimé sont manquants. Tous les exemplaires se présentent de la manière suivante: 1 vol. I-IV, 96 p., in-4° (à noter que, bien que cela soit impossible, l'exemplaire GD 1166 (1) est selon le catalogue de la BNF un in-8°).
 
@@ -855,17 +855,17 @@ Description de la page de titre
 BERENICE, / TRAGI-COMEDIE / EN PROSE. / Par P. DV RYER. / fleuron du libraire (masque) / A PARIS, /chez en accolade ANTOINE DE SOMMAVILLE, en la Salle / des Merciers, à l'Escu de France. / & / AUGVSTIN COVRBE', Libraire & Impri / meur de Monseigneur le Duc d'Orleans, / à la mesme Salle, à la Palme. / au Palais. en accolade / filer / M. DC. XXXXV. / *AVEC PRIVILEGE DV ROY*.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Nous avons conservé la graphie originale, y compris les consonnes doubles. Nous avons procédé à quelques rectifications qui nous ont paru indispensables pour une meilleure compréhension du texte. Ainsi, nous avons distingué *i* et *u* voyelles de *j* et *v* consonnes. Nous avons décomposé les voyelles nasales surmontées d'un tilde, employées pour noter la nasalisation, en voyelle + consonne nasale. La décomposition de la ligature & en « et » nous a obligés à faire certains choix. Lorsque « & » apparaît après un point d'exclamation, nous avons mis une minuscule du fait de la fréquence de cette combinaison. Par contre, après un point d'interrogation, nous avons mis une majuscule pour les mêmes raisons. Nous avons conservé les deux orthographes du prénom Tarsis (Tharsis) car, étant toutes les deux possibles, il ne nous a pas paru nécessaire d'en privilégier une. Nous avons conservé dans la plupart des cas la ponctuation, sauf lorsqu'elle nous paraissait fautive. Les astérisques renvoient à des mots qui sont expliqués dans le lexique. Nous n'avons pas rajouté le « t » de liaison euphonique lorsqu'il manquait. Bien que d'usage à partir du XVI*e* siècle, son absence n'était pas perçue comme irrégulière. Nous avons rétabli l'accent diacritique lorsqu'il n'était pas présent comme c'est le cas dans la distinction de *ou*/*où* (P4). Nous l'avons enlevé lorsqu'il n'était pas nécessaire comme c'est le cas dans la distinction de *a*/*à* (P21, 94) et celles de *ou*/ *où* (P30, 82).
 
 
-## Liste des corrections apportées
+## Liste des corrections apportées.
 
 La numérotation est celle des cahiers.
 
 
-### Corrections voulues par le sens
+### Corrections voulues par le sens.
 
 P18 : des filles / des fils
 
@@ -902,7 +902,7 @@ P74 : si incroyable. / si incroyable…
 P83 : que je le trouve. / que je le trouve ?
 
 
-### Fautes d'impression corrigées
+### Fautes d'impression corrigées.
 
 Avis au lecteur : J'Ay/ J'ay
 
@@ -999,7 +999,7 @@ P95 : quelle illustres / quelles illustres
 P96 : recompense, / recompense.
 
 
-### Corrections spéciales
+### Corrections spéciales.
 
 P2 : enfin ; Non / enfin, non
 
@@ -1054,10 +1054,10 @@ P93 : avoit ; Pourquoy / avoit, pourquoy
 P94 :demandez ;Vous/demandez, vous
 
 
-# BERENICE TRAGI-COMEDIE EN PROSE
+# BERENICE TRAGI-COMEDIE EN PROSE.
 
 
-## Avis au lecteur
+## Avis au lecteur.
 
 J'ay fait bien plus que je ne pensois, puisque j'ay fait en Prose une piece de Theatre, et qu'elle n'a pas esté desagreable. Car encore que j'ayme la Prose, et que je l'esleve par dessus les Vers autant que les choses utiles doivent l'emporter par dessus les delectables, je n'ay pourtant jamais crû qu'elle pût paroistre sur le Theatre avec les mesmes effets⁎ et la mesme magnificence⁎ que les Vers. Si j'ay tousjours estimé que c'est un jeu de hasard⁎ que de faire des Comedies⁎, je suis particulierement de cette opinion pour ce qui concerne les pieces en Prose. Et certes nous en voyons peu qui en ayent fait deux avec le mesme succez, et à qui l'evenement⁎ de la seconde n'ait osté une partie de la reputation de la premiere [175]. Quoy qu'il en soit, c'est une course que je ne voudrois pas deux fois entreprendre ; et j'ayme mieux me reposer au bout de la carriere⁎ avec un peu de gloire que de la recommencer avec hasard⁎.
 
@@ -1093,7 +1093,7 @@ Contentez-vous de sçavoir que j'aime ; et puisque c'est principalement par l'o
     AMASIE.
 Quoy ! Berenice, attachez-vous vostre amour à quelque objet⁎ indigne de vous ? Et vous jugeray-je aveugle en mesme temps, que vous vous confessez amoureuse.
 
-    BERENICE. 
+    BERENICE.
 Helas ! quand nous confessons nostre amour nous confessons nostre aveuglement, si vous me croyez amoureuse, je veux bien que vous me croyez aveugle.
 
     AMASIE.
@@ -1266,7 +1266,7 @@ Monsieur, le Roy me fait un honneur, que je ne sçaurois meriter, mais tachez de
     TIRINTE.
 Vous m'en avez assez dit, pour lui monstrer vostre sentiment. Mais…
 
-    CRITON. 
+    CRITON.
 Ne me demandez point d'autres raisons.
 
     TIRINTE.
@@ -1341,7 +1341,7 @@ On veut recommencer mes maux, on veut m'enlever de ce pays.
     TARSIS.
 On veut vous enlever [214], Madame ! Quel est le temeraire qui se peut vanter de cette entreprise ? Ha ! Berenice, avez-vous tant de defiance de mon pouvoir et de mon amour, que ce dessein temeraire vous doive donner de la tristesse ? Si c'est un homme il s'en repentira bien-tost, et si c'est un Dieu, je luy sçauray disputer une si glorieuse proye. 
 
-    BERENICE. 
+    BERENICE.
 Helas ! c'est un homme qui m'enleve ; et c'est un homme que mon devoir m'oblige de suivre. Enfin pour vous dire tout, c'est mon Pere.
 
     TARSIS.
@@ -1494,7 +1494,7 @@ LE ROY, TIRINTE.
     LE ROY.
 Tirinte, il ne faut plus demander les raisons de la responce de Criton ; je les descouvre facilement dans la passion que mon fils a pour sa fille, il ne laisse pas [231] de souhaiter mon aliance. Il ayme mieux pour son gendre un jeune Prince, qu'un Roy desja prest de descendre dans le tombeau [232] ; mon âge luy fait peur et la jeunesse de mon fils luy donne une agreable esperance. Il s'imagine que la Couronne ne peut long-temps demeurer sur des cheveux blancs ; et comme l'apparence luy fait juger que je ne suis pas loing de la mort, et que la mort luy feroit perdre la puissance que j'aurois portée en sa maison⁎, il croit que la recevoir de ma main, c'est la recevoir comme d'un songe, où il n'y a que l'imagination qui se puisse vanter d'estre heureuse. Il croid enfin qu'entrer dans le throsne avec moy chargé de foiblesse et d'années, c'est entrer seulement dans un tombeau magnifique. Et qu'y monter avec mon fils, c'est monter d'un mesme pas dans le siege de la vie et de la gloire. Voila ce que pense Criton, mais il faut que je me contente, et que je satisfasse mon amour ; il ne faut pas que la puissance me soit un avantage inutile, et qu'estant le plus puissant de cét [233] Empire j'en sois en mesme temps le plus malheureux.
 
-    TIRINTE. 
+    TIRINTE.
 Voudriez-vous user de force ?
 
     LE ROY.
@@ -1563,7 +1563,7 @@ Considere qui t'a obligé, et par la grandeur du service que tu me rendras, juge
 
 ### SCENE QUATRE.
 
-    TIRINTE *SEUL.*
+    TIRINTE *SEUL.*.
 Quel coup viens-je de recevoir ! Moy, prendre la charge de me donner un Rival. Moy, travailler moy-mesme à me priver de celle que j'ayme ! Il faut plutost me commander de m'arracher le cœur, il m'est plus aysé de perdre la vie que de perdre mon amour. Allons, allons dire au Roy que nous ne pouvons luy obeïr, s'il ne peut vaincre son amour, pourroit-il trouver estrange que je ne surmonte pas la mienne ; et s'il me vouloit condamner comme un sujet desobeïssant, et rebelle, il a mon excuse dans son ame, puisqu'il ayme aussi-bien que moy, et qu'il reconnoist la force de cette puissante passion ? s'il est arresté que je doive perdre Amasie, ô Dieux, ô amour, ô fortune⁎, privez moy de ce tresor sans me contraindre moy-mesme de travailler pour le perdre. Laissez-moy dans mon malheur cette seule consolation, qu'au moins je ne puisse dire que j'ay causé mon infortune. Mais que fay-je et que veux-je icy resoudre ? Allumeray-je contre moy la colere d'un Monarque, m'en feray-je un ennemy ? Helas ! quoy que je fasse, et de quelque costé que je me tourne, je ne voy que des precipices, et je connois trop clairement que je suis destiné moy-mesme à me persecuter, et me nuire. Si je parle au Prince d'aymer Amasie, et que je reüssisse en ce dessein, ne me trahiray-je pas moy-mesme ; et si je desobeys au Roy, n'attireray-je pas sur moy sa disgrace et sa colere. Mais cette consideration peut-elle naistre dans un cœur, qui ayme veritablement : Non, non. Mais ; [237]
 
 
@@ -1659,7 +1659,7 @@ Oüy, Berenice, il me l'a dit.
     BERENICE.
 Vous n'ignorez pas vostre devoir. [241]
 
-    AMASIE
+    AMASIE.
 Non, ma sœur, je ne l'ignore pas, je sçay bien qu'il faut obeïr.
 
     BERENICE.
@@ -1757,13 +1757,13 @@ Mais il vous oste toutes ces craintes par les promesses et par les protestations
 CRITON, AMASIE, BERENICE.
 
 
-    CRITON. [249]
+    CRITON. [249].
 Quelle lettre lisent-elles ? Amasie, que lisez-vous ?
 
     AMASIE.
 Rien, Monsieur. 
 
-    BERENICE, *à part.*
+    BERENICE, *à part.*.
 Quelle surprise ?
 
     CRITON.
@@ -1781,19 +1781,19 @@ Mais, Monsieur, ce n'est rien du tout.
     CRITON.
 Vostre estonnement me fait bien voir qu'il faut que ce soit quelque chose, faites moy voir cette lettre, ne differez point davantage, autrement… [250] Que je sçache enfin ce que c'est.
 
-    BERENICE. 
+    BERENICE.
 O Dieux ! elle luy a donné ma lettre, où me voy-je maintenant reduite, et quel esprit est plus tourmenté que le mien ? Il la lit, il se passionne⁎, il la relit, il regarde ma sœur en colere. Que tous ces divers mouvemens excitent de troubles dans mon ame, et que j'ay besoin de forces pour resister à tant de peines.
 
     CRITON.
 Une lettre d'amour de Tarsis. Ce n'est donc rien, Amasie ; ce n'est donc rien que de recevoir des let-/ /tres qui attaquent vostre honneur, et qui peuvent le ruiner.
 
-    BERENICE. 
+    BERENICE.
 Que luy repondra-elle ?
 
     CRITON.
 Quelles pretentions avez-vous ? Pensez-vous monter dans le throsne par les promesses d'un amant, qui vous promettoit davantage pour contenter sa passion ?
 
-    BERENICE, *à l'écart.*
+    BERENICE, *à l'écart.*.
 Elle va me perdre.
 
     CRITON.
@@ -1817,13 +1817,13 @@ C'est la premiere fois que j'ay receu de ses lettres, et l'on m'a donné celle-c
     CRITON.
 Il vous escrit d'une façon qui donne trop de tesmoignages que vous en avez receu d'autres. Lisez si vous n'avez pas achevé de lire.
 
-    BERENICE. *à part*
+    BERENICE. *à part*.
 O la meilleure sœur qui ayt jamais aymé une sœur ; elle se charge de ma honte, afin de me tirer de peine.
 
-    CRITON. 
+    CRITON.
 Si vous ne luy aviez appris mon dessein, il ne vous manderoit⁎ pas qu'il a trouvé les moyens de me retenir en ce païs. Cette amour est donc la raison qui vous faisoit jetter⁎ des larmes quand je vous parlois tantost de retourner en Sicile, vous avez donc combattu ce dessein avec tant d'ardeur et de passion, parce qu'il estoit contraire à vostre amour ? Est-ce là ce zele que vous tesmoignez pour vostre Patrie ? Est-ce là l'apprehension⁎ que vous avez de la revoir malheureuse. Et n'estoit-ce pas assez que je vous visse miserable⁎, sans que je vous visse deshonnorée par une passion temeraire ? Ainsi je trouve par tout des miseres ; un Tyran me persecute dans ma Patrie, et par un dessein plus formidable⁎, mes enfans me gesnent⁎ par tout, et me font trouver des tempestes⁎, où je pensois trouver le calme. O vieillesse trop malheureuse ! O jeunesse trop dépravée ! O fille trop miserable⁎ et trop aveugle pour ton bien. Helas ! les Princes de ce païs nous ont receus favorablement, ils ont témoigné qu'ils m'estimoient ; et leur amour me fait maintenant douter, lesquels me sont plus redoutables de mes amis ou de mes Tyrans. Retirez-vous de devant moy ! Celle qui blesse son honneur, blesse aussi les yeux de son Pere. Retirez-vous encore une fois [252].
 
-    AMASIE, *en s'en allant parle à Berenice.*
+    AMASIE, *en s'en allant parle à Berenice.*.
 C'est pour vos espargner, que j'ay souffert tant d'injures.
 
 
@@ -1927,7 +1927,7 @@ Enfin je veux que vous luy parliez, et que vous fassiez en sorte de le destourne
 
 ### SCENE QUATRE.
 
-    BERENICE, *seule.*
+    BERENICE, *seule.*.
 Que mon avanture⁎ est estrange, et que mon apprehension⁎ est extréme. S'il découvre la feinte de ma sœur, que de douleurs me sont reser-/ / vées. Mais ne nous affligeons point avant le temps [267], et n'avançons point nos maux par la crainte d'estre malheureuse. Laissons aux Dieux la conduite de nostre fortune⁎, et recueillons cependant⁎ le fruit de cét artifice⁎ [268]. Ce sera par ce moyen que je parleray à Tarsis sans soupçon et sans ombrage. Mais le voicy.
 
 
@@ -2134,7 +2134,7 @@ La vieillesse du Roy luy fera peur.
     TIRINTE.
 Une vieillesse couronnée est capable de donner de l'amour.
 
-    TARSIS. 
+    TARSIS.
 Mais Berenice peut attendre de moy cette puissance souveraine, qu'elle peut recevoir du Roy.
 
     TIRINTE.
@@ -2168,7 +2168,7 @@ Mais que diray-je au Roy, qui m'envoyoit parler à Criton.
 Invente ce que tu voudras, mais enfin retire toy. 
 
 
-### SCENE QUATRE*ME.*
+### SCENE QUATRE*ME.*.
 TARSIS, BERENICE.
 
 
@@ -2296,7 +2296,7 @@ Que feray-je ! Allons Leonide.
 
 ### SCENE SEPTIESME.
 
-    TARSIS, *seul.*
+    TARSIS, *seul.*.
 Quelle nouvelle, chere Berenice ! et quel plus grand estonnement a jamais surpris un esprit. Ha ! Berenice ; si Amasie est vostre sœur, et que je sois frere d'Amasie, de quel œil vous regarderay-je ? Puis-je sans crime et sans horreur vous regarder avec amour [295] ? Vous, ma sœur, moy vostre frere, et en mesme temps vostre amant ? Hé ! quoy, Berenice, cette amour incomparable, dont je brusle aujourd'huy pour vous, n'est-elle pas un effet⁎ de vostre beauté, est-ce seulement un effet du sang [296] ? Non, non, il est impossible que le sang puisse allumer de si grands feux ; j'aime, j'aime Berenice d'une passion trop violente, et il n'appartient qu'à la beauté de faire naistre dans les ames de si estranges⁎ embrasements. O Berenice ! n'aurois-je donc que de l'amitié, quand je pense avoir de l'amour ? Et lors que par tant de peines, je tâchois de faire aimer le miserable⁎ Tarsis, ne travaillois-je seulement qu'à vous faire aymer vostre frere ? Mais doy-je croire cette avanture⁎, helas ! je voudrois en estre instruit, et je crains pourtant de m'en instruire. Que de peines ! que de maux ! que de supplices ! et que l'on endure⁎ de tourmens, quand il faut qu'une amour extréme se convertisse en amitié [297]. 
 
 
@@ -2335,7 +2335,7 @@ Helas ! j'ay honte de le voir.
 Au moins sçachez de luy cette histoire [302], je vous laisse tous deux ensemble. Qu'ils sont confus de se revoir. [303]
 
 
-### SCENE DEUXIESME. [304]
+### SCENE DEUXIESME. [304].
 TARSIS, BERENICE.
 
 
@@ -2411,7 +2411,7 @@ Non, non, Berenice, je ne vous offenceray plus. Enfin, ma sœur, puis qu'il faut
     BERENICE.
 Faut-il que la rencontre d'une sœur vous mette au hazard⁎ de perdre des prosperitez si glorieuses ? Faut-il que je sois funeste à mon frere à l'instant mesme que je le trouve ?
 
-    TARSIS. 
+    TARSIS.
 Si je doy perdre la Couronne que j'eusse injustement possedée, c'est que le Ciel qui est juste ne peut souffrir⁎ une injustice.
 
     BERENICE.
@@ -2432,7 +2432,7 @@ Ha ! Tarsis, vostre discours m'espouvante, il faut enfin que je me retire, auss
 
 ### SCENE TROISIESME.
 
-    TARSIS, *seul.*
+    TARSIS, *seul.*.
 C'est icy, malheureux Tarsis, que la honte et l'horreur t'accompagnent de tous costez. Tu n'as regardé le throsne que pour estre miserable⁎, et tu n'as veu Berenice que pour estre criminel. Helas ! je me consolerois dans mon mal si j'aimois seulement sans espoir, mais enfin ma fortune⁎ est telle que lors que j'aime sans espoir, je ne sçaurois aimer sans crime. Espouvantable passion ! passion qui fait mon crime, et tout ensemble mon supplice, comme tu es à detester, dois-tu me rendre detestable ! O destins ! ô Dieux ! ô Nature ! N'aviez vous mis tant de charmes sur le visage de Berenice, que pour en faire naistre un monstre en faisant naistre mon amour. Mais dois-je encore songer à l'amour lors que je pense à Berenice, mais puis-je songer à Berenice sans me rendre encore à l'amour. O sentimens horribles ! ne sor-/ /tirez vous point de mon ame, mais comment en sortiriez vous, si l'amour qui vous produit y demeure victorieux, et vous donne tousjours la naissance. Mais dois-je encore appeller amour cette effroyable passion ; non, non, c'est une nouvelle furie qui s'allume dans mon sang, qui renverse la raison, qui espouvante la nature. Viens donc, viens donc à mon secours ; O nature outragée par cette furie, et si tu ne peux en triompher, excite en moy ce desordre qui me doit apporter la mort, afin d'estouffer cette furie sous les ruines d'un malheureux ; enfin, si je ne puis vaincre cette amour, que je meure pour estre puny. Mais que veut Tirinte.
 
 
@@ -2459,7 +2459,7 @@ Tu le sçauras assez-tost.
 Mais je voy le Roy qui rentre dans cette gallerie [307], il vous a apperceu, il vient à vous, et moy je vay querir Criton.
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 LE ROY, TARSIS.
 
 
@@ -2629,26 +2629,26 @@ Que l'on celebre cette journée, et admirons tout ensemble : la secrette condui
 FIN.
 
 
-# Lexique
+# Lexique.
 
 Dictionnaires cités :*Furetière*Dictionnaire universel
 *Richelet*Dictionnaire français, contenant les mots et les choses, plusieurs nouvelles remarques sur la langue française
 Ayle« Ce mot se dit des vents, de l'amour, de l'esprit, du temps, etc. Mais en ces sens il est un peu poétique » (Rich.)P. 12Allarme« Crainte, trouble » (Rich.)P. 42Apprehension« Crainte, peur violente » (F)P. 46, 52Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution … signifie aussi, Fraude, déguisement, mauvaise finesse » (F)P. 52, 74Aller au devant de quelqu'un« Aller sur le chemin attendre qu'il arrive pour lui faire honneur, ou pour quelque autre cause ; et figurément pour dire, le prévenir » (F)P. 85Avanture« Événement. Chose arrivée à une personne » (Rich.)  P. 52, 68, 76, 77, 79, 82, 93Caracteres« Lettre dont on se sert pour imprimer … Écriture de quelque personne particulière » (Rich.)P. 93Carriere« Se dit figurément en choses spirituelles, et premièrement d'un beau sujet, d'une belle matière où on peut s'exercer à écrire, à discourir » (F)Avis au lecteurCependantPendant ce temps.P. 29, 48, 53Comedie« Pièce de théâtre composée avec art, en prose ou en vers, pour représenter quelque action humaine ; et se dit en ce sens des pièces sérieuses ou burlesques » (F)Avis au lecteurConfondre« Mêler ensemble, brouiller de telle sorte qu'on ne connaisse plus … Troubler, étonner, surprendre tout à fait, jeter dans le trouble » (Rich.)P. 66, 81Congé« Licence, permission que donne un Supérieur à un inférieur, qui le dispense d'un devoir à quoi il était obligé envers lui » (F)P. 22Conseil« Signifie quelquefois, résolution » (F)P. 67Considerable« Qui doit être estimé, remarqué pour son prix, pour sa qualité, pour son mérite, qui se fait distinguer des autres » (F)P. 28CourageCœur.P. 11, 40Consulter« Etre irrésolu, incertain quel parti on doit choisir » (F) : hésiter.P. 62, 80Dedaigner« On l'emploie avec la négative pour dire, daigner » (F)P. 96Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute. Ainsi Corneille a dit d'Auguste dans *Cinna* : Que de ses propres mains mon pere massacré, / Du trône où je le voy fait le premier *degré*. » (F) *Cinna* ayant été représentée pour la première fois en 1639, il s'agit peut-être ici d'une réminiscence car du Ryer associe lui aussi le trône et le degré.P. 74Devant que« Conjonction, signifie auparavant ». (F)P. 13Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein, son entreprise, son travail ». (F)P. 13Effet« Ce qui est produit » (F)Avis au lecteur, p. 23, 50, 68, 75Endurer« Souffrir avec patience … Signifie aussi permettre, souffrir qu'on fasse ». (F)P. 22, 49, 66, 76Esprouver« Expérimenter, essayer la bonté d'une chose … Signifie aussi reconnaître » (F)P. 41EstrangeSens fort « Ce qui est surprenant, rare, extraordinaire » (F)P. 63, 75, 80Extresme« Grand, pénible, sensible ». (Rich.)P. 90Evenement« Issue, succès bon ou mauvais de quelque chose » (F)Avis au lecteur, p. 51Faillir« Pécher, manquer à son devoir » (F)P. 49, 55Fascher« Choquer, offenser, quelqu'un, lui donner une sujet de chagrin, de colère » (F)P. 78Formidable« Qui fait peur, qui est à redouter » (F)P. 46Fortune« C'était autrefois une Divinité Païenne qu'on croyait être la cause de tous les événements extraordinaires. Maintenant, on appelle *Fortune*, ce qui arrive par hasard, qui est fortuit et imprévu ». (F) P. 4, 5, 6, 8, 9, 14, 20, 35, 53, 54, 70, 74, 78, 84Gesnes« Se dit aussi de toute peine ou affliction de corps ou d'esprit. … Un amant pour exprimer sa passion, dit aussi que l'amour luy fait souffrir les plus cruelles *gesnes*, pour dire, des tourments. » (F)P. 41Gesner« Tourmenter le corps ou l'esprit » (F)P. 36, 41, 46, 53, 70Generosité« Grandeur d'âme » (Rich.)P. 10, 11, 36, 40Gouster« Approuver, agréer » (Rich.)P. 22GrosseEnceinte. P. 91Hasard, hazard« Péril, danger » (F). Dans l'avis au lecteur, la première occurrence de *hasard* signifie « cas fortuit » (F), tandis que la seconde évoque un risque.Avis au lecteur, p. 2, 25, 33, 52, 54, 66, 74, 83Intelligence« Amitié, union, paix, liaison, concorde » (Rich.)P. 49Jetter« Pousser quelque chose hors de soi … la tristesse fait *jetter* des larmes » (F)P. 46Maison« Signifie aussi le ménage, les personnes qui composent une famille » (F)P. 7, 20, 30, 91, 95Magnificence« Vertu qui aime l'éclat et à faire de grandes dépenses » (Rich.)Avis au lecteurMander« Écrire à quelqu'un, ou lui envoyer un message pour lui faire savoir quelque chose, pour le prier, le charger, de faire quelque affaire » (F)P. 43, 46, 51Manquer« Faire quelque faute » (F)P. 3Merveille« Chose rare, extraordinaire, surprenante, qu'on ne peut guère voir ni comprendre … On dit aussi qu'un homme fait des merveilles lorsqu'il fait ou qu'il sait des choses extraordinaires au delà de ses semblables » (F)P. 3, 49Miserable« Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. Signifie aussi méchant » (F)P. 4, 15, 46, 47, 55, 75, 84, 89, 92Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)P. 2, 5, 8, 9, 11, 32, 54Obliger« Faire quelque faveur, civilité, courtoisie » (F)P. 27, 89De ce pas« Tout à l'heure, tout de suite » (F)P. 38, 42(Se) Passionner« Agir avec emportement » (F)P. 44Peine« Soin, inquiétude d'esprit, tant pour la personne que pour ses biens » (F)P. 87Publier « Rendre une chose publique » (F)P. 55Signaler« Rendre une chose remarquable et célèbre » (F)P. 8Soing, soins« Diligence qu'on apporte à faire réussi une chose, à la garder et à la conserver, à la perfectionner … Se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (F)P. 36, 74Souffrir« Se dit en un sens moins étendu, en parlant de ce qui déplait, de ce qui fait quelque peine aux sens, ou à l'esprit » (F)P. 47, 57, 72, 83, 89Succeder« Réussir » (Rich.)P. 18Supposer« Mettre une chose à la place d'une autre par fraude et tromperie » (F)P. 92Supposition« Se dit aussi de l'action par laquelle on met une chose en la place d'une autre » (F)P. 94Traits« Se dit particulièrement de la flèche qui se tire avec l'arc ordinaire. … se dit figurément et poétiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour » (F)P. 4, 94Tempestes« Se dit figurément en choses morales, des persécutions qui se font ou contre le général, ou contre le particulier » (F)P. 46Vertu« Force, vigueur, tant du corps que de l'âme » (F). L'occurrence du cahier 10 n'a pas le même sens : « Ce mot entre dans des matières de Physique, et veut dire pouvoir, force, faculté d'un sujet qui marque indéterminément le pouvoir qu'a un être de produire quelque effet dans quelque autre sujet » (Rich.)P. 4, 8, 9, 10, 12, 20, 25, 37, 50, 74, 78, 83, 96
 
 
-# Annexe 1 : Hardy « Au lecteur »
+# Annexe 1 : Hardy « Au lecteur ».
 
 La Tragédie, qui tient au rang du plus grave, laborieus & important de tous les autres Poëmes, et que ce grand Ronsard feignoit de heurter crainte d'un naufrage de reputation, se traite aujourd'huy par ceux qui ne virent jamais la couverture des bons livres, qui sous l'ombre de quelques lieus communs pris & apris en Cour, se presument avoir la pierre philosophale de Poësie, & quelques rimes plates entrelassees de pointes affinées dans l'alembic de leurs froides conceptions, feront autant de miracles que de vers en chaussant le coturne : d'autres aussi, que l'on pourroit nommer excremens du barreau s'imaginent de mauvais advocats pouvoir devenir bons Poëtes en moins de temps que les champignons ne croissent, et se laissent tellement emporter a la vanité de leur sens & des louanges que leur donne la langue charlatane de quelque écervelé d'Histrion, que de la ces miserables corbeaux profanent l'honneur du Theatre de leur vilain croacement & se presument être sans apparence ce qu'ils ne peuvent jamais esperer avec raison jusqu'à bâtir, s'il étoit possible, sur les ruines de la bonne renommee de ceux qui daigneroient avouer de si mauvais écoliers qu'eus.
 
 
-# Annexe 2 : Lettre de Damon à Poliarque (1628)
+# Annexe 2 : Lettre de Damon à Poliarque (1628).
 
 Il semble à l'ouyr que dans un changement de stile contraire au sien on face des heresies et des mutations d'Estat, qu'il soit contre l'ordre de la police et la paix du Royaume… les discours à la mode sont de mauvais goust à cet autheur malade ; s'il falloit escrire comme anciennement, il faudroit donc aussi que ce fust sur des palmiers, des tablettes et de la cire pour ne deschoir en rien de la venerable Antiquité, comme il dit que vous faites. Mais on a treuvé depuis quelque chose de plus delicat que l'escorce pour recevoir aussi facilement les belles pensees, qu'elles se conçoivent par les bons esprits. Les Contes de la Reyne de Navarre ont eu leur temps, on travaille aujourd'huy plus utilement à de meilleurs ouvrages. Monsieur d'Urfé n'a pas escrit comme Esope, ny Theophile comme Marot : s'il n'y avoit que les gentils-hommes qui prissent les armes comme aux vieilles guerres, ce seroit suivre l'antiquité et faire beaucoup de fainéants. Il y a eu des temps si malheureux que les Sciences ont faict horreur ; la pureté des langues augmente de jour en jour : on ne gesne plus son esprit pour tirer par force une parole, et l'on treuve des senteurs d'eau de rose sans alambic. Tous les siecles ont produit de bons esprits, comme toutes les mers peuvent former de belles perles ; mais ils ne se faisoient pas si bien valoir. … Les premiers Poëtes estoient devins, ceux d'aujourd'huy sont divins. Nous ne sommes plus au temps qu'il falloit chercher la doctrine dans les cloistres, on parle bon Latin hors les Cordeliers, et bon François ailleurs que dans la Cour : plusieurs génies du Parlement me font foy de l'une et de l'autre vérité. On ne s'amuse plus à disputer sur une etymologie : la science des lettres et des syllabes est bonne pour les enfans : on ne se met pas en peine d'où soient derivez les mots, pourveu qu'ils soient bons ; ceux qui sont barbares sont chassez du commun usage, comme autrefois les estrangers de Rome. On ne bastit plus comme en faisoit, les Peintres ont d'autres manieres, les tireurs d'armes d'autres leçons, les capitaines d'autres subtilitez : les aires nouveaux en la musique sont toujours agreables ; et les inventions non encore veuës ont un merveilleux appas dedans un poëme : le temps nous amene aves les jours de nouvelles experiences : qui eust laissé l'eau comme nous l'avions de nos premiers parens, nous n'aurions pas ces belles grottes ou l'artifice dispute avec la Nature, et qui sont aussi plaisantes à l'œil que les grandes fleuves sont utiles au commerce.
 
 Si la France maintenant venoit à produire de l'or comme le Perou, on ne laisseroit pas d'en user, bien qu'on n'en eust point encore veu : et si l'Autheur du Theatre n'aime pas les nouveautez, que diroit il donc de ces nouvelles Estoiles d'Eloquence dont le premier miracle est de paroistre plus vivement au jour que mille lumieres qui prennent tiltre du Soleil ? Si l'on eust pris son conseil, la Digue assurément estant une nouveauté, seroit encore à la Rochelle. En fin pour conclure, c'est une loy generale, qu'il faut observer les loix du pays où l'on est : nous ne sommes pas Romains ny Romans, nous escrivons à Paris, on y parle assez bien sans emprunter un idiome estranger. Et à dire vray, les escrits de votre Censeur ont quelque teinture de doctrine, mais ils ressemblent auz medailles, que l'on cherit plus pour ce qu'elles marquent des antiquitez que pour leur propre beauté. [315]
 
 
-# Annexe 3 : Réponse de Poliarque à Damon
+# Annexe 3 : Réponse de Poliarque à Damon.
 
 Il t'a faict sçavoir par escrit qu'il ne daigneroit t'advouer pour un de ses escoliers, aussi serois-tu fasché d'avoir estudié sous un si hardy Pedant, qui ne met en pratique que la seule ignorance des regles qu'il nous donne. Cependant sa témérité nous veut apprendre qu'il suit en cela les anciens Autheurs, tant Grecs, Latins, que Italiens, et autres ; mais on ne voit point dans leurs œuvres qu'ils ayent esté barbares en leurs langues comme il l'est en la sienne … Si la langue Latine n'estoit point morte, elle l'accuseroit de cruauté, pour l'avoir escorchée … N'a-t-il pas encore appris que les Muses ne vieillissent point, et que leurs vestemens vieillissent tous les jours ? et qu'estant de la nature et de l'humeur des femmes, elles s'habillent selon le temps et favorisent plus tost les caresses des jeunes que les vieux ? Mais encore que je parle generalement, j'estimeray mon bonheur incomparable dans le respect que je dois à Monsieur Malherbe, de qui le merite et la science se sont acquis le privilège de leurs caresses par le consentement de toute la France, et malgre la rigueur des annees. Si l'Autheur du Theatre se veut mettre en son rang, et si sa vanité le flatte d'un merite imaginaire, il est assez âgé non pas pour avoir acquis la même faveur, mais pour avoir appris que les privilèges ne se donnent pas à toutes sortes de personnes. [316]
 
@@ -2658,7 +2658,7 @@ Il t'a faict sçavoir par escrit qu'il ne daigneroit t'advouer pour un de ses es
 … Quant à la Pöesie aucun ne doute que Monsieur de Malherbe n'ait toujours semblable à soy-mesme suivy un mesme style, plus adoré qu'approuvent de beaucoup en son siecle. Or y a-t-il trente ans du moins qu'il commence à écrire, voila donc une vieille nouveauté … Et pour montrer que les anciens se prevalurent d'inventions inimitables, ces jardins du Babilone suspendus en l'air, qui se sont que l'un des sept miracles du monde, laissent le démenty a ce nouveau rimailleur, qui ne sçait pas aussi que la Digue de la Rochelle, ou de semblables furent pratiquees en Hollande long temps devant la prodigieuse naissance de son adherant. … Comme la marque du Prince fait valoir les especes, la suffisance d'un Auteur donne le poids et le cours à ses paroles, chose confirmee par le Phoenix de nos Poetes en son Art Poetique, ou il asseure que ce qui fut permis à Virgile estoit un sacrilege a d'autres moindres que lui, et qu'en cas de necessité on peut enrichir la pauvreté de notre langue de mots nouveaux et inusitez, pourveu que significatifs : luy mesme en sa Franciade nous sert de porte-enseigne … Homere … employe les quatre dialectes grecs à la construction d'un ouvrage qui n'a de fin que celle du monde, sans restraindre son style dans les termes du langage Attique, quoy que le plus poly et mignard de tous les autres, tel que le Toscan en Italie et le François en France.
 
 
-# Annexe 5 : Témoignage de la querelle : Les Heures dérobées (signé I.D.)< Au Sieur Hardy. >
+# Annexe 5 : Témoignage de la querelle : Les Heures dérobées (signé I.D.).< Au Sieur Hardy. >
 
 Assez long temps et trop souvent  
 De tes escrits l'on a fait conte,  
@@ -2687,7 +2687,7 @@ Non, non, Hardy, crois-moy, sans plus estre envieux,
 Qu'elles cherissent plus les jeunes que les vieux. [317]  
 
 
-# Annexe 6 : Chronologie des pièces de Du Ryer [318]
+# Annexe 6 : Chronologie des pièces de Du Ryer [318].
 
 1. 1630, 10 mai *Argénis et Poliarque*, tragi-comédie (1629)
 
@@ -2726,7 +2726,7 @@ Qu'elles cherissent plus les jeunes que les vieux. [317]
 18. 1655, 26 mars *Anaxandre*, tragi-comédie (1653-1654)
 
 
-# Annexe 7 : Chronologie des traductions de Pierre Du Ryer [319]
+# Annexe 7 : Chronologie des traductions de Pierre Du Ryer [319].
 
 1. *Huit Oraisons* de Cicéron (1638)
 
@@ -2800,7 +2800,7 @@ Du Ryer.
  – 
  – 
 
-    MARTIAN
+    MARTIAN.
 Je veux bien l'avouer, Madame (car mon cœur  
 A de la peine encore à vous nommer ma sœur),  
 Quand malgré ma fortune à vos pieds abaissée,  
@@ -2812,7 +2812,7 @@ Je sentais quelque chose au-dessus de Léonce,
 Dont, malgré ma raison, l'impérieux effort  
 Emportait mes désirs au-delà de mon sort.  
 
-    PULCHÉRIE
+    PULCHÉRIE.
 Moi-même assez souvent j'ai senti dans mon âme  
 Ma naissance en secret me reprocher ma flamme :  
 Mais quoi, l'Impératrice à qui je dois le jour  
@@ -2826,7 +2826,7 @@ L'Amour pensait le dire, et le sang le disait,
 Et de ma passion la flatteuse imposture  
 S'emparait de mon cœur des droits de la Nature.  
 
-    MARTIAN
+    MARTIAN.
 Ah, ma sœur (puisqu'enfin me destin éclairci  
 Veut que je m'accoutume à vous nommer ainsi)  
 Qu'aisément l'amitié jusqu'à l'amour nous mène !  
@@ -2842,7 +2842,7 @@ Ah s'il m'était permis de ne me pas connaître,
 Qu'un si charmant abus serait à préférer  
 À l'âpre vérité qui vient de m'éclairer !  
 
-    PULCHÉRIE
+    PULCHÉRIE.
 J'eus pour vous trop d'amour, pour ignorer ses forces,  
 Je sais quelle amertume aigrit de tels divorces,  
 Et la haine à mon gré les fait plus doucement,  
@@ -2858,7 +2858,7 @@ Régnez sur votre cœur, avant que sur Byzance,
 Et domptant comme moi ce dangereux mutin,  
 Commencez à répondre à ce noble destin.  
 
-    MARTIAN
+    MARTIAN.
 … À mes confus regrets, soyez donc moins sévère,  
 C'est Léonce qui parle, et non pas votre frère :  
 Mais si l'un parle mal, l'autre va bien agir,  
@@ -2869,16 +2869,16 @@ Et tient que pour répandre un si coupable sang
 L'assassinat est noble, et digne de mon rang.  
 Pourrai-je cependant vous faire une prière ?  
 
-    PULCHÉRIE
+    PULCHÉRIE.
 Prenez sur Pulchérie une puissance entière.  
 
-    MARTIAN
+    MARTIAN.
 Puisqu'un amant si cher ne peut plus être à vous,  
 Ni vous, mettre l'Empire en la main d'un époux,  
 Épousez Martian, comme un autre moi-même,  
 Ne pouvant être à moi, soyez à ce que j'aime.  
 
-    PULCHÉRIE
+    PULCHÉRIE.
 Ne pouvant être à vous, je pourrais justement  
 Vouloir n'être à personne, et fuir tout autre Amant ;  
 Mais on pourrait nommer cette fermeté d'âme  
@@ -2890,32 +2890,32 @@ Mais purgez sa vertu des crimes de son père,
 Et donnez à mes feux pour légitime objet  
 Dans le fils du Tyran votre premier Sujet.  
 
-    MARTIAN
+    MARTIAN.
 … Faites qu'en ce grand jour la troupe d'Exupère  
 Dans un sang odieux respecte son beau-frère,  
 Et donnez au tyran qui n'en pourra jouir  
 Quelques moments de joie afin de l'éblouir.  
 
-    PULCHÉRIE
+    PULCHÉRIE.
 … Allez donc préparer cette heureuse journée,  
 Et du sang du Tyran soignez cet Hyménée.  
 Mais quel mauvais Démon devers nous le conduit.  
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### CorpusBérénice
+### Corpus.Bérénice
 
 
 
-### Autres œuvres
+### Autres œuvres.
 
 
-#### Éditions modernes de pièces de Pierre Du RyerArétaphile
+#### Éditions modernes de pièces de Pierre Du Ryer.Arétaphile
 Clitophon
 Les Vendanges de SuresneThéâtre du XVII*e* siècle
 Lucrèce
@@ -2928,7 +2928,7 @@ Dynamis
 
 
 
-#### AutresPoétique
+#### Autres.Poétique
 La Pratique du Théâtre
 Essais de lettres familières
 Lettre sur la règle des vingt-quatre heuresTemps de préfaces. Le débat théâtral en France de Hardy à la Querelle du « Cid »
@@ -2945,13 +2945,13 @@ L'Astrée
 
 
 
-## Études et instruments de travail
+## Études et instruments de travail.
 
 
-### Instruments de travail
+### Instruments de travail.
 
 
-#### DictionnairesDictionnaire des personnages
+#### Dictionnaires.Dictionnaire des personnages
 Dictionnaire universel
 Dictionnaire portatif historique et littéraire des théâtres
 Dictionnaire de rhétorique
@@ -2960,17 +2960,17 @@ Dictionnaire français, contenant les mots et les choses, plusieurs remarques su
 
 
 
-#### Syntaxes et grammairesGrammaire du français classique
+#### Syntaxes et grammaires.Grammaire du français classique
 Syntaxe française du XVIIe siècle
 al., Grammaire méthodique du français
 Remarques sur la langue françoise utiles à ceux qui veulent bien parler et bien escrire
 
 
 
-### Études
+### Études.
 
 
-#### Histoire de la littératureHistoire de la littérature française au XVII*e* siècle
+#### Histoire de la littérature.Histoire de la littérature française au XVII*e* siècle
 Le Théâtre français au XVI*e* et au XVII*e* siècle, ou choix des comédies les plus curieuses antérieures à Molière
 Histoire du théâtre français depuis son origine jusqu'à présent
 Histoire de la langue et de la littérature française des origines à 1900
@@ -2983,7 +2983,7 @@ Amour précieux, amour galant (1654-1675). Essai sur la représentation de l'amo
 
 
 
-#### ThéâtreLe Théâtre professionnel à Paris (1600-1649)
+#### Théâtre.Le Théâtre professionnel à Paris (1600-1649)
 La Tragi-comédie de Corneille à Quinault
 Le Théâtre de l'hôtel de Bourgogne
 Le Théâtre du Marais
@@ -2998,7 +2998,7 @@ La Dramaturgie classique en France*e*
 
 
 
-#### Sur Pierre Du Ryer et son esthétiqueThe tragedies of Pierre Du Ryer (1636-1646)
+#### Sur Pierre Du Ryer et son esthétique.The tragedies of Pierre Du Ryer (1636-1646)
 Pierre Du Ryer and his tragedies. From envy to liberation
 Un Émule inconnu au début du XVII*e* siècle de Mathurin Régnier : ISAAC DU RYER (1568 ? -1634), Secrétaire de la Chambre du Roi, douanier, poète réaliste, auteur dramatique, et ses poésies amoureuses, libres et douanières précédées de sa biographie
 Pierre du Ryer Dramatist

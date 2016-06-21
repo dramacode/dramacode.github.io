@@ -17,17 +17,17 @@ A PARIS, Chez TOUSSAINCT QUINET, au Palais dans la petite salle, sous la montée
       maîtrise sous la direction de Georges Forestier (2002-2003).
 
 
-# Introduction
+# Introduction.
 
 *Céline, ou les Frères rivaux*, tragi-comédie de Charles Beys, auteur aujourd'hui oublié mais reconnu de son temps, fut publiée en 1637 chez Toussainct Quinet. Cette pièce, riche en rebondissements, présente toutes les caractéristiques du genre, ainsi que l'atteste la complexité de l'intrigue.
 
 Deux jeunes inconnus arrivent mystérieusement au royaume de Danemark, un jeune berger et une jeune bergère : Lisanor et Céline. Lisanor sauve avec bravoure le roi de l'attaque d'une laie enragée. Le roi par gratitude, décide d'accueillir Lisanor à la Cour et confie par ailleurs Céline à sa fille Agante. Deux frères, Thersandre et Lisidas, fils du duc de Moscovie, sont venus prêter main forte au royaume de Danemark assailli par un tyran. Jusqu'alors, l'un et l'autre courtisaient les deux princesses, filles du roi, Agante et Caliste ; mais découvrant Céline, ils s'en éprennent l'un et l'autre. Par un jeu de chassé-croisé amoureux, les deux princesses tombent amoureuses quant à elles, de Lisanor… que Céline aime déjà depuis qu'il a participé à la sauver des pirates qui l'avaient enlevée. Lisanor ne veut rien entendre de ces trois femmes qui le poursuivent de leurs assiduités. Céline de même n'est guère sensible aux avances des deux jeunes ducs. Parallèlement dans les fratries, Lisidas et Caliste avouent respectivement leur amour à Thersandre et Agante. Ces derniers, tout en cachant leurs propres sentiments poussent leurs rivaux à se défaire de cette passion déraisonnable envers un (ou une) berger(ère) ! Cet emboîtement de deux relations amoureuses conflictuelles, mettant chacune en jeu trois personnages, semble inextricable ! Mais un double *deus ex machina*, double reconnaissance, révèle que Céline est en fait la fille du Duc de Moscovie, et que Lisanor n'est autre que le fils disparu du roi du Danemark. S'ensuivent donc trois mariages : Thersandre épouse Agante, Lisidas épouse Caliste et Lisanor épouse Céline.
 
 
-# L'auteur
+# L'auteur.
 
 
-## La vie
+## La vie.
 
 La vie de Charles Beys, qui fut pourtant reconnu par ses contemporains, reste aujourd'hui un mystère. Mort à Paris le 26 septembre 1659, il semblerait qu'il y soit également né en 1610. Si rien ne permet de confirmer cette information, certains points de sa vie peuvent cependant être clarifiés.
 
@@ -129,7 +129,7 @@ Il n'y a apparemment pas de lien entre notre Charles et **Denis Beys** qui fut u
 On le voit, ce n'est donc que par bribes, et de façon fragmentée que s'esquisse une biographie de Charles Beys sur lequel il y aurait encore beaucoup à découvrir.
 
 
-## Les œuvres de Charles Beys
+## Les œuvres de Charles Beys.
 
 Beys écrivit trois tragi-comédies : *Le Jaloux sans sujet*, Paris, Quinet, 1635 mais joué avant 1634 ; *L'Hôpital des fous*, Paris, Quinet , 1635, joué dans la deuxième moitié de 1634 ; *Celine, ou les Frères rivaux*, Paris, Quinet, 1637, jouée en 1633 ; rééditée en 1640 sous le titre *Les Frères rivaux*.
 
@@ -154,10 +154,10 @@ En 1653, il rebaptise *L'Hôpital des fous* en Comédie et l'appelle *Les Illust
 On lui attribue souvent à tort *La Milliade* déjà citée plus haut, et les œuvres de Chillac.
 
 
-# La pièce
+# La pièce.
 
 
-## Analyse de la pièce acte par acte
+## Analyse de la pièce acte par acte.
 
 **Acte I** : Céline, présentée à Agante, qui lui vante les joies de la vie à la Cour, raconte comment elle a été enlevée par des pirates lorsqu'elle était petite. Alcire gentilhomme du roi, raconte aux deux frères, Thersandre et Lisidas fils du duc de Moscovie, comment Lisanor a sauvé le roi qui l'a ensuite pris à son service, touché par quelque chose « de grand et de prodigieux » qu'il perçoit chez le jeune homme, grandeur qu'il perçoit aussi chez Céline qu'on lui présente au même moment. Les deux frères sont alors encore décidés à séduire les deux princesses. Céline retrouve dans le palais Lisanor qu'elle a suivi depuis leur départ commun de l'île d'Alsen ; elle essaye de lui exprimer son amour en le mettant en garde contre la vanité de l'ambition, mais lui ne veut rien entendre, étant attaché avant tout à l'affirmation de l'honneur.
 
@@ -170,15 +170,15 @@ On lui attribue souvent à tort *La Milliade* déjà citée plus haut, et les œ
 **Acte V** : Lisanor ne sait plus que faire pour échapper à ces femmes qui le harcèlent, pense-t-il, et à l'amour qui le pourchasse. Alors qu'il s'en plaint, Céline le retrouve et lui tend la lettre de Caliste réécrite de la main d'Agante et qu'elle a signée elle même, attendant une réponse. Survient Thersandre trouvant Lisanor et Céline ensemble. Il le prend pour un rival ; alors que Lisanor s'en défend, il voit la lettre et, offensé pour Céline, provoque Lisanor en duel. Lisidas arrive et voyant son frère aux prises avec Lisanor veut le défendre. C'est alors que Céline s'interposant explique le sujet de la querelle ; Lisidas comprend alors le double jeu de son frère. Thersandre, tout comme Lisanor, se dit prêt à laisser les faveurs de la belle à Lisidas. Les deux sœurs arrivent à ce moment et les supercheries des unes et des autres au sujet de la lettre sont découvertes. S'ensuit une querelle féminine interrompue par l'arrivée du roi. Le roi doit apprendre aux deux jeunes ducs que leur père veut les marier comme il l'annonce dans une lettre. Or l'ambassadeur qui apporte cette lettre de Moscovie est reconnu par Céline comme son propre père. Celui-ci explique alors comment Céline fut enlevée par des pirates lorsqu'elle était petite ; mais il avoue également qu'elle n'était autre que la fille du duc de Moscovie qu'on lui avait confiée enfant et qu'il a prétendue morte à la place de sa propre fille lors du décès de celle-ci. Une fleur tatouée sur le bras de Céline vient confirmer ses dires et Céline est alors reconnue par ses frères, ses anciens amants. Après cet heureux moment, le berger Clarin, arrêté par le prévôt, comparaît devant le roi. On a trouvé sur lui une chaîne appartenant au souverain ; il explique à son tour comment il a trouvé un enfant dans un berceau qui voguait sur la mer et l'a depuis élevé. Le roi reconnaît en cette histoire, et à cette description, son fils disparu. Et c'est alors grâce à cette chaîne et au témoignage de Clarin, la reconnaissance de Lisanor, qui est en fait le fils du roi. Le roi propose alors la main d'Agante à Thersandre et celle de Caliste à Lisidas ; tous acceptent. Thersandre propose à son tour la main de Céline à Lisanor qui, devenu prince, accepte à son tour. On prépare donc les festivités pour un triple mariage dans la joie et le respect des dieux.
 
 
-## Sources
+## Sources.
 
 Comme le note H. C. Lancaster [7], il n'y a pas de doute sur l'analogie d'inspiration de cette pièce avec les romans « romanesques ». Elle semble particulièrement proche de l'épisode de Rosiléon de *L'Astrée*, où un prince perdu dans l'enfance devient le favori du roi, après l'avoir sauvé des griffes d'un lion. Les seules différences résident en ce que le lion est devenu une laie et que Beys situe l'action, géographiquement, au Danemark. De plus, Rosiléon est aimé de la fille du roi et de sa belle-fille, tout comme Lisanor est aimé des deux filles du roi ; et il est reconnu par une fleur tatouée comme l'est Céline. La substitution d'enfants est un motif familier, qui peut provenir de l'histoire de Cyrus. *Les Bergeries* de Racan reprenaient le thème ancestral de l'enfant perdu dans un berceau sur les flots et recueilli et élevé par un berger. Pour ce qui est du jeu de lettres, le procédé a déjà été utilisé dans *L'Hypocondriaque* de Rotrou, *La Mélite* de Corneille, ou encore dans *Le Capitan Matamore* de Mareschal.
 
 
-## Conditions de représentation
+## Conditions de représentation.
 
 
-### Date, décors
+### Date, décors.
 
 La présence de la pièce dans *Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne*, publié par H. C. Lancaster chez Champion en 1920, nous indique que la pièce a dû être jouée entre l'hiver 1633 et février 1634 à l'Hôtel de Bourgogne. Mahelot indique, pour cette pièce qu'il appelle *La Celine* de Monsieur Bais :
 
@@ -188,7 +188,7 @@ Au milieu il faut un beau palais. A costé du palai, un beau cabinet, et dedans 
 Selon H. C. Lancaster Michel Laurent en 1673 ajoute en commentaire au verso du folio 59 : « C'est probablement Céline, ou les frères rivaux de Charles Beys, impr. 37. Acte I, Agante dans son cabinet ; III, 1, 2, bois, Lisanor quitte la scène sans rencontrer Lisidas, qui entre au commencement de III, 2 ; V, 4, on est près de se battre ; il y a des bergers dans la pièce ; V, 6, on se sert de trompettes, probablement à l'arrivée de l'ambassadeur du duc de Moscovie. On omet, IV, 3, V, 6, lettres, V, 7, chaîne. »
 
 
-### Réception
+### Réception.
 
 On ne dispose d'aucun élément sur la façon dont le public accueillit la pièce. Beys se moque dans une autre pièce, *Les Illustres fous* (IV, 4), des excès romanesques dont sa tragi-comédie était emplie :
 
@@ -210,7 +210,7 @@ Les frères Parfaict au XVIII*e* siècle dans l'*Histoire du théâtre français
 Ce poème est totalement mauvais ; je dis le plan, la conduite, la versification, et les personnages, qui tiennent des discours pitoyables. Au reste Beys auroit pu l'intituler aussi bien les sœurs rivales, puisque les deux princesses ressentent aussi pour Lisanor les mêmes sentiments que les Princes pour Celine, et qu'elles ont un aussi grand soin que les deux frères, de se les cacher l'une à l'autre.
 
 
-# La tragi-comédie
+# La tragi-comédie.
 
 On retrouve dans *Céline, ou les Frères rivaux* un certain nombre de traits caractéristiques de la tragi-comédie.
 
@@ -237,7 +237,7 @@ Le changement d'identité permet encore l'évocation d'un autre thème récurren
 La multiplication des reconnaissances, des coups du sort, des mariages, les nombreuses péripéties des personnages victimes de la fortune sont le propre de l'*inventio* romanesque de la tragi-comédie, qui se caractérise également par sa *dispositio* irrégulière.
 
 
-## Les traits plus particuliers de notre pièce
+## Les traits plus particuliers de notre pièce.
 
 Si notre pièce, comme nous l'avons vu, met en scène plusieurs *topoi* de la tragi-comédie, elle présente toutefois quelques traits plus particuliers qui en font plus qu'une pièce qui serait un cliché du genre et même au contraire une pièce originale.
 
@@ -252,7 +252,7 @@ Le vers 322 : « Je la fuis pour aymer une autre qui me fuit », formule clé
 Un autre trait particulier de la pièce est que Beys, dans le discours que Céline tient à Lisanor (vers 203 à 234), passe insensiblement, à partir d'une dénonciation de l'éternité de la gloire à une dénonciation de « la vie éternelle » : discrètement intégré, il s'agit là d'un vrai discours libertin.
 
 
-## L'Amour en question
+## L'Amour en question.
 
 Il est véritablement le thème central de la pièce : il en est le sujet et le moteur. Principale préoccupation des personnages, il revêt plusieurs formes. Il est passion tyrannique, tout puissant, il suscite des discours pathétiques, par exemple celui d'Agante aux vers 451 et suivants, ou encore celui de Céline aux vers 567 et suivants. Discours où règnent la plainte, les exclamations, les questions, la douleur. Il fait soupirer, pleurer, souffrir, il blesse le cœur (v. 486 à 489). Il est comparé à « un fer qui perce le sein » (v. 498). Céline au vers 569, l'appelle « une horrible fureur qui tyrannise les sens ». Il ôte toute liberté : « Et que seul il ravit toute liberté. » (v. 775). Caliste pour décrire ce qu'est son amour parle de « cruelles gesnes », ce qui évoque de véritables tortures. Elle compare le fait d'aimer au fait d'être jetée « dans les feux », dans « les chaînes ». La passion fait perdre l'esprit ; Agante le souligne aux vers 524 et suivants :
 
@@ -265,7 +265,7 @@ Au vers 480 elle parle de « furies » provoquées par l'amour. Caliste à son
 De plus, l'amour devient presque un personnage à part entière de la pièce. Il est souvent interpellé en tant que tel (v. 251 et sq. ; 471 et sq. ; 797 et sq. ; 1086 et sq.). Il est personnifié, ou plutôt déifié, il impose ses lois aux personnages, qui deviennent ses sujets. C'est en effet au dieu Amour que ces discours s'adressent.* Céline, ou les Frères rivaux* est en fait la représentation d'une initiation à l'Amour chez de jeunes personnages.
 
 
-## Artifice et nature
+## Artifice et nature.
 
 L'opposition Art, Artifice, Précieux / Nature, naturel est perceptible tout au long de la pièce. Dès la première scène, Agante les oppose explicitement, elle fait l'apologie de l'art aux dépens de la nature. Cette confrontation est sensible dans le chiasme « Vos fleurs sont elles pas moins belles qu'en peinture ?/ Et l'Art ne plaist-il pas bien plus que la Nature ? » (vers 33-34). « Peinture » est opposé à « fleurs », « Art » à « Nature », à la rime « Nature » à « Peinture ». La comparaison, « moins belles » et le superlatif « bien plus » en accentuent encore l'effet. Les personnages se définissent par opposition les uns aux autres. Ainsi à l'inverse d'Agante qui représente une jeune fille précieuse de la Cour, Céline incarne une beauté naturelle, comme le suggère Lisidas dans les vers : « Et que cette beauté qui méprise le fard,/ Fait voir que la Nature est au dessus de L'Art ». De même lorsqu'il s'agit de la Cour, Lisidas et Agante utilisent tous deux le mot « feinte ». S'il revêt pour Agante un caractère positif (v. 30) il est au contraire péjoratif pour Lisidas qui définit ainsi la Cour :
 
@@ -278,50 +278,50 @@ On retrouve encore l'opposition art/nature dans la nostalgie récurrente des per
 Céline, ou les Frères rivaux est certes une œuvre mineure, mais s'y arrêter, c'est se laisser prendre par son dynamisme enjoué, en reconnaître les finesses et les attraits sensibles qui nourrissent le débat sur les « questions d'amour ».
 
 
-# Les personnages
+# Les personnages.
 
 
-## Céline
+## Céline.
 
 Elle est le personnage principal de la pièce à laquelle elle donne son nom. Présente dans treize scènes et dans quatre actes sur les cinq, c'est le personnage que l'on voit le plus souvent sur scène, même si ce n'est pas à elle que revient le plus grand nombre de vers [11]. Elle est la fille du duc de Moscovie, ce qu'elle ignore. Dès les premiers vers de la pièce, elle pose le mystère de ses origines. Malgré ses habits de bergère, le roi du Danemark, Agante puis les deux jeunes ducs sont sensibles à sa beauté. Thersandre par exemple, dit au vers 249 que « Sa beauté lui plaist mieux que la grandeur des Rois » ou encore au vers 255, que « ses attraits sont incroyables ». Lisidas évoque également sa beauté à de nombreuses reprises, notamment aux vers 366 et suivants. Le roi lui-même voit dans ses yeux (comme dans ceux de Lisanor) v. 104 : « Je ne sçay quoy de grand et de prodigieux » ; au vers 1199, il l'accuse, paternellement, de semer le trouble par ses attraits. Tous s'accordent donc à dire qu'elle est belle, naturelle, mais que de plus elle a de l'esprit : les arguments qu'elle avance à Lisanor pour tenter de le convaincre en témoignent. C'est une jeune fille courageuse et humble, qui n'hésite pas à suivre le jeune homme qu'elle aime, Lisanor, lorsque celui-ci quitte leur pays. Elle pressent chez Lisanor, sans le comprendre, une sorte de nœud, une souffrance, un paradoxe. Si dans un monologue elle confit au vers 596 que « sa voix fait mourir, et que ses yeux rendent la vie » ; devant lui et pour le convaincre, elle se montre « raisonnable », avançant des arguments critiques sur l'ambition de Lisanor qui cherche une gloire éternelle. Elle lui rappelle que les hommes sont mortels, qu'ils ont un corps (vers 202 et suivants), que les sens ont une puissance fugitive (v. 228). Aux vers 605 et suivants, elle explique qu'elle croit aux signes providentiels annonçant son union avec Lisanor, et elle tente de le lui démontrer. Céline sait ce qu'elle veut, elle poursuit son but, le même d'un bout à l'autre de la pièce ; elle est la seule à ne pas s'en détourner et fait preuve de persévérance dans son désir d'amener Lisanor, qui reste le seul objet de son amour, à l'aimer en retour. Elle est la seule à garder les mêmes sentiments tout au long de la pièce. Elle est cependant traversée par un moment de doute sur son destin, au vers 1012, et évoque à son tour la raison. Mais ce doute n'est que de courte durée. Céline est une jeune femme décidée, déterminée et entreprenante. Elle est véritablement le personnage le plus attachant de la pièce qui attire toute la sympathie du public.
 
 
-## Lisanor
+## Lisanor.
 
 Il est le fils du roi du Danemark, lui-même l'ignore et se croit berger. Alcire dans le portrait qu'il fait de lui, aux vers 85 et suivants, évoque le mystère de sa naissance et souligne sa quête de gloire, d'honneur. Comme tout héros classique, il est jeune, beau et courageux. Il quitte vers vingt ans l'île où il a grandi, pour partir à la conquête de la gloire et de l'honneur. Il se montre valeureux et bon guerrier. Dans un premier temps, lorsqu'il était encore sur l'île d'Alsen, il a aidé à combattre les pirates qui avaient enlevé Céline. Il n'hésite pas à combattre une laie enragée et il la vainc, sauvant ainsi le roi. Il réussit à débarrasser le royaume du tyran qui l'assaillait. Dans la scène 3 de l'acte I, il explique à Céline qu'il n'est intéressé que par la grandeur de la gloire posthume, par l'honneur. L'obstination de Céline ne suscite que sa colère, car il estime qu'en le suivant en ces lieux, elle a méprisé son honneur et que « Ce mespris est un crime odieux » (v. 174). Selon le roi son courage est d'origine royale (v. 1418). Ses glorieux faits d'armes, son courage, sa beauté inspirent l'amour des princesses, bien qu'il ne soit que berger. Mais lui n'a que faire des histoires de cœur. Il est bâti sur le modèle des bergers de pastorale tous dévoués à la chasse et hostiles à l'amour. Fils de roi qui s'ignore, la chasse est remplacée pour lui par la gloire des armes. Il est irrité par toutes ces femmes qui tombent amoureuses de lui (v. 907). L'amour l' « irrite » (v. 893), il se sent poursuivi par lui « Comment m'eschapperay-je, Amour, de ta poursuite ?/ » (v. 1086) ; il va jusqu'à le désigner comme son ennemi « Vous parlez du plus grand de tous mes ennemis, » (v. 855) ; il le considère comme une prison (v. 903), ne comprend pas que l'on puisse se battre pour lui (v. 1120). Il considère l'amour comme une trahison de la raison (v. 904), or la raison est son emblème (v. 142), son arme (v. 859) ; il dit ne pas vouloir se faire abuser par l'imagination (v. 621). Aux vers 935 et suivants, il se dit même né raisonnable. Au vers 950, il affirme que son cœur est de glace ; Agante le compare à un rocher. Il semble donc comme handicapé, infirme, incapable d'aimer ; ce qui donne une dimension pathétique et émouvante au personnage. Si à certains moments, son opposition à Céline, à l'amour, fait que le spectateur se sente éloigné de lui, il le fait finalement sourire. Lisanor, désintéressé par les richesses (v. 923), paraît être lié au bonheur et à la réussite de Clarin (v. 721-722), comme si une bonne étoile était au dessus de lui. Son obsession de la quête de gloire, elle-même, devait venir de son sang royal. Ce qui explique peut-être qu'une fois reconnu prince, il reconnaisse enfin la victoire de l'amour (v. 1448).
 
 
-## Les deux princesses, Agante et Caliste
+## Les deux princesses, Agante et Caliste.
 
 Elles sont les filles du roi du Danemark. Elles représentent donc deux jeunes filles, bien éduquées dans l'atmosphère de la Cour, « précieuses », pleines d'esprit, sachant apprécier les joies et raffinements de la vie et rompues aux mondanités. Elle sont toutes deux prises d'une véritable passion pour Lisanor qui se révélera être leur frère. Agante (qui a le plus grand nombre de vers dans la pièce), semble être l'aînée : c'est à elle que le roi confie Céline, c'est elle qui reçoit les confidences de sa sœur Caliste, qu'elle essaye dans un premier temps de raisonner ; cette position montre une jeune fille peut-être plus mûre. De plus, elle semble plus réfléchie et raisonne malgré son amour ; elle ne perd pas tout son esprit et garde un certain recul, ne serait-ce qu'un recul calculateur, puisqu'elle cache à sa sœur ses propres sentiments et lui fait croire qu'elle va l'aider alors qu'elle ne pense qu'à se servir elle-même. Elles se montrent toutes deux plutôt entreprenantes et tellement emportées par la passion qu'elles n'hésitent pas à défier les règles (sociales, de bienséance etc.) pour conquérir Lisanor. Une fois Lisanor reconnu comme étant leur frère, elles acceptent sans hésitation d'épouser les deux jeunes ducs de Moscovie.
 
 
-## Les deux ducs de Moscovie, Thersandre et Lisidas
+## Les deux ducs de Moscovie, Thersandre et Lisidas.
 
 Ils sont frères. Le duc de Moscovie, leur père, les a envoyés prêter main forte au roi du Danemark qui lutte contre un tyran. Tous deux, au début de la pièce, sont séduits par les deux jeunes princesses, mais ils tombent amoureux de Céline dès qu'ils la rencontrent. Ce sont eux les « frères rivaux » du titre. Comme pour les deux princesses, on peut avoir l'impression que Thersandre est l'aîné. Il semble plus raisonnable, quoique lui aussi soit pris d'une véritable passion pour Céline. Comme Agante à l'égard de sa sœur, il tente dans un premier temps de ramener son frère à la raison et lui cache ses propres sentiments. Lorsque Chrisante, l'ambassadeur du duc de Moscovie, arrive, avec une lettre du duc où ce dernier propose au roi une alliance entre les deux royaumes, c'est à lui que le roi s'adresse afin de lui demander son accord pour les futures unions. De même, lorsque Céline est reconnue comme étant leur sœur, c'est lui qui offre sa main à Lisanor. Les deux frères sont donc rivaux dans la poursuite des faveurs de Céline ; mais ils ne sont pas auréolés de gloire comme l'est Lisanor. Le roi refuse qu'ils combattent. Ils s'opposent à Lisanor par leur préciosité : nobles, ils ont le temps de s'attarder à des histoires de cœur. Ils ne se montrent pas très entreprenants avec Céline et si tous deux éprouvent des sentiments identiques à son égard – ce qui les oppose – la rivalité n'est pas effective, dans le sens où elle ne se traduit pas par des actes, des combats…
 
 
-## Le roi du Danemark
+## Le roi du Danemark.
 
 Il n'apparaît qu'à la fin de la pièce, dans le dernier acte. Par sa seule présence, il fait autorité. C'est en quelque sorte lui qui va arbitrer les dénouements ultimes, en demandant des explications à Céline puis à Chrisante. Il est le moteur de la reconnaissance de Céline, comme fille du duc ; c'est encore lui qui, dans la position de juge, permet la reconnaissance de Lisanor en interrogeant Clarin. Il apparaît comme une figure apaisante au milieu des tourments de la passion ; il calme les protagonistes par sa seule arrivée, lors de la dispute qui naît entre les jeunes filles quand leur trahison respective est dévoilée ; puis lors de la reconnaissance de Céline. Il freine également les débordements d'affection que ces retrouvailles suscitent. Il est juste, remercie les dieux, il ne veut pas « faire couler le sang de Moscovie », est sensible au courage et au dévouement de Lisanor. Avant de découvrir que celui-ci est son fils, il pressent chez lui « quelque chose de grand et de prodigieux », ce qui implique l'idée que les « grands » reconnaissent les « grands ». C'est lui qui scelle et célèbre les trois unions finales. Il représente en quelque sorte une espèce d'instance supérieure qui fait retrouver la voie de l'harmonie.
 
 
-## Clarin
+## Clarin.
 
 C'est le berger qui a recueilli Lisanor et l'a élevé. Il est simple, brave. C'est lui qui sauve Lisanor des eaux, enfant, mais également lui qui permet sa reconnaissance finale, après en avoir dans un monologue de l'acte III (scène 4) réactiver le mystère des origines [12].
 
 
-## Chrisante
+## Chrisante.
 
 Ambassadeur du duc de Moscovie, il est un peu le pendant de Clarin : il a élevé Céline, et c'est également lui qui permet sa reconnaissance finale.
 
 
-## Alcire
+## Alcire.
 
 Son rôle est de présenter Céline et Lisanor aux deux jeunes ducs. C'est lui qui effectue l'exposition de la situation pour les spectateurs en contribuant à auréoler Céline et Lisanor d'un destin mystérieux.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il existe deux éditions de *Céline, ou les Frères rivaux*, publiées l'une en 1637 et l'autre en 1640.
 
@@ -342,7 +342,7 @@ IV ACTEURS.
 Bibliothèque Nationale de France : RES-YF-554. Recueil de 5 pièces éditées chez Toussainct Quinet.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 En règle générale nous avons conservé l'orthographe de l'édition originale, à quelques réserves près :
 
@@ -365,7 +365,7 @@ rectification ci-dessous).
 – nous avons respecté la ponctuation d'origine, sauf lorsqu'elle nous paraissait évidemment erronée (cf. liste des rectifications).
 
 
-## Corrections
+## Corrections.
 
 Nous avons apporté les modifications suivantes au texte :
 
@@ -454,7 +454,7 @@ suivants :
 Dans notre texte les astérisques renvoient le lecteur au lexique ; les chiffres et lettres entre … indiquent les pages et cahiers de l'originale. Dans les notes de bas de page les lettres entre (…) indiquent le dictionnaire d'où est tiré la définition du mot qui est traité à cette endroit car il n'y a qu'une occurrence dans le texte ; la correspondance entre les lettres et les dictionnaires est notée dans le lexique.
 
 
-## Comparaisons des différents exemplaires de notre pièce
+## Comparaisons des différents exemplaires de notre pièce.
 
 Exemplaire de la Bibliothèque de l'Arsenal : 4 BL 3487, même achevé d'imprimer du 13 Février 1637, on y remarque un certain nombre de variantes, essentiellement de ponctuation et d'orthographe, dont voici la liste :
 
@@ -697,7 +697,7 @@ Achevé d'imprimer pour la premiere fois le 13. Fevrier 1637.
 Les exemplaires ont esté fournis.
 
 
-## ACTEURS [14]
+## ACTEURS [14].
  – LISANOR,Fils du Roy de Dannemarck.
  – CELINE,Fille du Duc de Moscovie amoureuse de Lisanor.
  – THERSANDRE,
@@ -718,7 +718,7 @@ Les exemplaires ont esté fournis.
 AGANTE, CELINE.
 
 
-    AGANTE *dans son cabinet.*
+    AGANTE *dans son cabinet.*.
 Un violent desir me presse⁎ et m'importune,  
 Pour apprendre ta bonne ou mauvaise fortune⁎.  
 Tu portes, ce me semble, un habit emprunté,  
@@ -787,7 +787,7 @@ Vostre contentement sera ma recompense.
 Obey moy tousjours avec cette esperance,  
 Et me suy maintenant.  
 
-    CELINE *tout bas.*
+    CELINE *tout bas.*.
         Je la veux suivre exprés,  
 Afin d'entretenir Lisanor de plus prés .  
 Elles sortent.
@@ -1074,14 +1074,14 @@ Empesche les effets de son ambition.
 Fin du premier Acte.
 
 
-## ACTE II
+## ACTE II.
 
 
 ### SCENE PREMIERE.
 THERSANDRE. LISIDAS.
 
 
-    THERSANDRE *seul.*
+    THERSANDRE *seul.*.
 Celine sur Agante emporte la victoire,  
 Aupres de tant d'attraits le Sceptre perd sa gloire⁎,  
 Sa beaute me plaist mieux que la grandeur des Rois,  
@@ -1179,7 +1179,7 @@ Vous mesprisez, mon frere, une grande Princesse.
 Devant un si grand Dieu, cette grandeur s'abbaisse,  
 L'amour ne connoist point les regles du devoir.  
 
-    THERSANDRE *tout bas.*
+    THERSANDRE *tout bas.*.
 L'amour d'une Bergere a sur moy ce pouvoir.  
 
     LISIDAS.
@@ -1196,7 +1196,7 @@ Celine, confessez qu'elle n'a point d'exemple,
 Et que cette beauté qui mesprise le fard,  
 Fait voir que la Nature est au dessus de l'Art⁎.  
 
-    THERSANDRE *tout bas.*
+    THERSANDRE *tout bas.*.
 Faisons-luy mespriser ces attraits veritables.  
 Mon frere, sommes-nous dans le siecle des fables⁎,  
 Où tous les Dieux jaloux du bon-heur des humains,  
@@ -1276,7 +1276,7 @@ Je n'y reconnois rien qui ne soit admirable,
 Tous deux sont accomplis, leur pouvoir est égal,  
 Si vous aymez l'esprit vous estes mon rival.  
 
-    THERSANDRE *tout bas.*
+    THERSANDRE *tout bas.*.
 Il n'est rien de plus vray que cette conjecture,  
 Dissimulons⁎ pourtant. Je sçay que la nature,  
 De son seul mouvement accorde le pouvoir,  
@@ -1394,7 +1394,7 @@ Mais qui me vient chercher en des lieux si secrets ;
 Celuy m'oste beaucoup, qui m'oste mes regrets [54].  
 C'est ma sœur qui s'approche.  
 
-    CALISTE *tout bas.*
+    CALISTE *tout bas.*.
         Il faut estre discrette⁎.  
 Quoy ma sœur vostre joye est elle si secrette ?  
 
@@ -1418,7 +1418,7 @@ N'achevons point le reste, il est temps de se taire.
     AGANTE.
 Dites donc ?  
 
-    CALISTE, *tout bas.*
+    CALISTE, *tout bas.*.
         Mais pourquoy ne luy dirois-je pas ?  
 C'est Lisanor.  
 
@@ -2113,7 +2113,7 @@ Madame ?
     AGANTE.
         Va cruel⁎ tu n'as que trop parlé.  
 
-    LISANOR, *sort.*
+    LISANOR, *sort.*.
 Tout bas.
 
 Il m'eust peu descouvrir⁎ s'il ne s'en fut allé.  
@@ -2226,7 +2226,7 @@ Madame, vostre esprit m'offre des fers⁎ si dous ;
 Que je promets icy de n'obeïr qu'à vous :  
 Si mes fidelles⁎ soins vous peuvent satisfaire.  
 
-    [AGANTE.]
+    [AGANTE.].
 Je les vay reprouver [78] dans une bonne affaire :  
 Presente à Lisanor cet escrit de ma part.  
 Mais je veux que d'un mot, d'un sousris, d'un regard,  
@@ -2363,7 +2363,7 @@ La mienne en ces sujets ne peut estre occupee,
 Ce dessein tient du lasche ou bien du furieux⁎.  
 Vostre fer⁎ n'a-t'il point d'objet⁎ plus glorieux⁎ ?  
 
-    THERSANDRE, *parlant à Celine.*
+    THERSANDRE, *parlant à Celine.*.
 Je veux vous tesmoigner que je vous suis fidelle⁎.  
 Il met la main à l'espée.
 
@@ -2378,7 +2378,7 @@ CELINE, LISIDAS, THERSANDRE,
 LISANOR.
 
 
-    CELINE, *voyant venir Lisidas*,
+    CELINE, *voyant venir Lisidas*,.
 Qui met la main à l'espée pou secourir son frere.
 
         Helas, sçachez l'autheur⁎ de la querelle.  
@@ -2495,19 +2495,19 @@ Vous m'estes tout d'un coup⁎ rivalle et confidente.
     AGANTE, *à Celine apres avoir veu. son nom au bas de sa lettre*.
 Que peux-tu maintenant me respondre impudente ?  
 
-    CALISTE, *à Agante.*
+    CALISTE, *à Agante.*.
 Et vous ne recherchez que les amours d'un Roy.  
 
     AGANTE, *à Celine*.
 Et tu m'avois juré que tu n'aymois que moy.  
 
-    CALISTE, *à Agante.*
+    CALISTE, *à Agante.*.
 Est-ce ainsi qu'on m'abuse ?  
 
     AGANTE, *à Celine*.
         Est-ce ainsi qu'on m'affronte ?  
 
-    CALISTE, *à Agante.*
+    CALISTE, *à Agante.*.
 Vous n'en rougissez point ?  
 
     AGANTE, *à Celine*.
@@ -3009,7 +3009,7 @@ Et dans un long excez de festins et de jeux.
 FIN.
 
 
-# Lexique
+# Lexique.
     Dictionnaire de l'Académie française
 Furetière A., Dictionnaire universel
 Dictionnaire français
@@ -3019,17 +3019,17 @@ Dictionnaire du français du XVII*e* siècle
 AdorerSe dit de l'amour, masculin et féminin, lorsqu'il est extrême (F)V. 260 ; 340 ; 1143 ; 1152 ; 1234 ; 1266 ; 1449.AffectionPassion de l'âme qui nous fait vouloir du bien à quelqu'un et qui se dit de l'amour, de la tendresse, de l'amitié (F)V. 245 ; 266 ; 892 ; 1019 ; 1160.AmansCelui qui aime (F), celui, celle qui aime avec passion une personne d'un autre sexe (A)V. 134 ; 304 ; 341 ; 529 ; 531 (au feminin) ; 545 ; 808 (avec un -t) ; 882 ; 934 ; 1324.AmoureuxAdj. se dit des choses qui concernent l'amourV. 167 ; 770 ; 780 ; 789 ; 807 ; 828 ; 1112 ; 1135Nom masc. et fém., qui a de la passion pour quelque chose ou quelque personneV. 186 ; 351 ; 390 ; 432Qui aime sans être aimé (F).V. 642AppasAttraits physiques (S), charme (D)V. 25 ; 430 ; 469 ; 514 ; 557 ; 623 ; 1139 ; 1149 ; 1191.ArtScience, savoir techniqueV. 34MétierV. 738Mais aussi adresse, subtilitéV. 417Esprit, manière délicate et ingénieuseV. 334 (R)Méthode, règle ou science de bien faire les choses (F).V. 409ArtificeAdresse, industrie de faire les choses avec beaucoup de subtilité et de précaution (ici double sens)V. 423Fraude déguisement, mauvaise finesse (F)V. 1309.AssuréAdj. certain, incontestable (D)V. 60 ; 451.(-er) Verbe, rendre certain, incontestableV. 100 ; 566 ; 1216.AutheurLe premier qui a inventé quelque chose, qui est cause de quelque chose qui s'est fait (R)V. 70 ; 245 ; 628 ; 739 ; 1122 ; 1145 ; 1199 ; 1378.AutrefoisAdv. AnciennementV. 571Signifie aussi un autre temps (F).V. 368 ; 1090 AvantureUn événement au pouvoir du hasard et de la fortuneV. 275 ; 352 ; 735Événement, accident qui arrive inopinément, accident surprenant et extraordinaire (F).V. 70 ; 567 AyseContentement, sentiment de joie, émotion douce et agréable, causée par la présence la possession d'un bien (A)V. 97 ; 595 ; 1382.BarbareSauvage, ignorantV. 878Cruel, qui n'écoute point la raison, ni la pitié, impitoyable (F).V. 973 ; 1014 BassesseIl n'est en usage qu'au figuré pour désigné un état bas et obscur par opposition à un rang élevé, noble (F).V. 521 ; 910CharmeEnchantement, sortilège (F), puissance magique (D)V. 360 ; 715La beauté, les appâts, les arguments des femmes (F)V. 300 ; 484 (pour un homme) ; 858 ; 1017.CharmerSoumettre à sa volonté, maîtriser en jetant un sort (D)V. 39 ; 394 ; 406 ; 441 ; 473.Cœur, Courage (on emploie indistinctement ces deux mots)Cœur : siège des passions, âme (F)V. 68 ; 73 ; 258 ; 263 ; 357 ; 398 ; 437 ; 447 ; 489 ; 538 ; 547 ; 767 ; 795 ; 915 ; 950 ; 1017 ; 1110 ; 1115 ; 1204 ; 1305 ; 1456Courage dans ce sensV. 934 ; 987 ; 1163.Courage : vigueur, force, courage, intrépidité (F)V. 188 ; 189 ; 235 ; 635 ; 810 ; 822 ; 901 ; 1163 ; 1418Cœur dans ce sensV. 682.ContrainteViolence, force majeure ; gêne, incommodité ; sentence, contrat ou ordonnance supérieure (D)V. 320 ; 1025 ; 1078.CoupsSe dit figurément de ces afflictions imprévues qui sont comme des traits qui nous percent le cœur, ou des blessures de l'amour ; se dit des actions qui se réitèrent et signifie *fois* (F)V. 481 ; 517 ; 987 ; 1173 ; 1399.CrimeFaute, action faite contre la prohibition de la loi soit naturelle soit civile ; se dit d'une faute qu'on commet ou dans la conduite ou contre le devoir, ou contre l'amitié (F)V. 174 ; 426 ; 668 ; 798 ; 1331 ; 1455.Cruel(le)Inhumain ; rude ; insensible à l'amour (R)V. 432 ; 579 ; 781 ; 842 ; 958 ; 971 ; 1401 ; 1453.DangerPéril, risque ; perte, dommage (F)V. 100 ; 823 ; 1016 ; 1247 ; 1253 ; 1355.DescouvrirTrouver quelque chose de nouveau, de secret qui était auparavant caché (F)V. 320 ; 693 ; 785 ; 875 ; 906 ; 972 ; 1037 ; 1172.DesgagerDétacher, libérer d'une contrainte ou d'une séduction ; tenir ses engagements (F)V. 355 ; 476 ; 521.DiscretQui est sage, retenu dans ses paroles et dans ses actions ; se dit plus particulièrement des gens qui savent conserver un secret (F)V. 449 ; 503 ; 788.DissimulerDéguiser adroitement, feindre ; cacher ce qu'on a dans l'âme (F)V. 404 ; 694 ; 951 ; 1130 ; 1337.EffortEmploi violent de ses forces ; tentatives, mouvement de vigueur ; se dit aussi de tout ce qu'on fait avec violence (F)V. 71 ; 257 ; 460 ; 1076 ; 1209 ; 1249 ; 1301.EnnuisTourment violent (D), chagrin, déplaisir (F), fâcherie, tristesse (R)V. 453 ; 783 ; 907 ; 983 (ennuy).EntretienConversation courtoise (D)V. 138 ; 244 ; 413 ; 773.EsmouvoirÉbranler mettre en mouvement ; en morale se dit des passions, troubler, exciter, remuer (F)V. 310 ; 607 ; 933 ; 959 ; 1362 ; 1382 ; 1405.EstonnerSurprendre, épouvanter (F) frapper d'une émotion violente (D)V. 727 ; 1227 ; 1286.EstrangeExtraordinaire, anormal, scandaleux (D) ; ce qui est surprenant, rare, fâcheux ou impertinent ; qui n'est pas dans l'ordre de l'usage commun (F)V. 110 ; 567 ; 841.EstrangerChoses hors de nous, qui ne nous sont pas naturelles (F)V. 285 ; 339.FableRécit mythologique ; nouvelle ou allégorie mensongère (D)V. 336 ; 343.FascheuxPénible, qui offre des difficultés ; dur à supporter ; peu traitable ; se dit d'une personne qui dérange, qui survient mal à propos (D)V. 256 ; 863 ; 1030.FersEn poésie pour désigner une arme ; la servitude, l'esclavage ; particulièrement l'état de l'amoureux soumis à sa maîtresse ; torture morale, angoisse (F)V. 254 ; 494 ; 530 ; 888 ; 898 ; 1031 ; 1057 ; 1072 ; 1120.FeuxPassion, amour ; inspiration poétique surnaturelle, ardeur, enthousiasme ; colère, scandale (D)V. 478 ; 482 ; 782 ; 888 ; 960 ; 966.FidelleProbe, honnête ; véritable, authentique ; constant dans son attachement, régulier, conforme au modèle (D)V. 161 ; 793 ; 989 ; 1033 ; 1050 ; 1121.FilleJeune fille, pas mariée ; bonne, servante (D)V. 22 ; 29 ; 106.FlatterFavoriser ; tromper, charmer, séduire (D)V. 214 ; 309 ; 664.FortuneDivinité aveugle capricieuse, qui selon les païens présidait à tous les évènements et distribuait les biens et les maux selon son caprice ; bonheur ou malheur qui arrive par hasard ; bien, richesse honneur dignité et présent de la fortune (F)V. 2 ; 113 ; 118 ; 232 ; 251 ; 283 ; 290 ; 496 ; 536 ; 640 ; 708 ; 922 ; 923 ; 997 ; 1022 ; 1063 ; 1321 ; 1422.FoyFidélité à un engagement ; amour fidèle ; sincérité ; promesse, serment, parole donnée ; confiance (F)V. 803 ; 1002 ; 1051 ; 1069 ; 1079 ; 1307.FunesteMortel, fatal ; tragique, violent, en parlant de la mort (F)V. 567 ; 965.FureurFolie furieuse, égarement d'esprit ; passion ardeur (F)V. 569 ; 697 ; 850 ; 853 ; 854 ; 865 ; 869 ; 1180 ; 1291.FurieuxFou, insensé, passionné ; prodigieux, extraordinaire (D)V. 71 ; 1047 ; 1088 ; 1119 ; 1395.GastéAnéantir, ravager, endommager ; mettre mal en point (F)V. 705 ; 748.GenereuxDe race noble, brave ; magnanime, sans mesquinerie (D)V. 185 ; 234 ; 1420.GloireHonneur, considération ; amour-propre ; orgueil, vanité ; réputation intacte ; succès. (A) (F)V. 73 ; 143 ; 195 ; 213 ; 248 ; 488 ; 910 ; 1105 ; 1413.GlorieuxOrgueilleux, fier (F)V. 197 ; 635 ; 1120 ; 1417.GouvernerExercer une direction morale ou spirituelle sur… ; être précepteur de… ; conduire (D)V. 277 ; 610 ; 764 ; 1212 ; 1274 ; 1377.GraceAttraits (D)V. 27 ; 339 ; 379 ; 385 ; 925 ; 949 ; 1366.HonneurRéputation (A), (R), (F) ; respect (D)V. 51 ; 87 ; 124 ; 174 ; 177 ; 189 ; 199 ; 221 ; 253 ; 261 ; 633 ; 912 ; 1053.HumeurTempérament caractère (R)V. 175 ; 259.InclinationPersonne ou chose aimée ; penchant (D)V. 22 ; 166.InnocensInoffensif, sans malice (D)V. 506 ; 570 ; 1153.InquietudeAgitation ; besoin d'agitation (D)V. 584 ; 1090.InsolenceAudace ; violence (D)V. 316 ; 468.MerveilleAdmiration, surprise, étonnement ; chose extraordinaire (D)V. 37 ; 101 ; 364 ; 380 ; 1320 ; 1365 ; 1415.ObjetChose où l'on arrête sa pensée, son cœur, son but ou son dessein (R) ; spectacle, image ; se dit aussi des belles personnes qui donnent de l'amour ; homme aimé ; femme aimée (F)V. 75 ; 135 ; 165 ; 180 ; 329 ; 382 ; 422 ; 438 ; 505 ; 509 ; 874 ; 1099 ; 1120 ; 1147 ; 1160 ; 1201 ; 1274 ; 1304 ; 1352.ObligerLier par un devoir, par un sentiment de reconnaissance (D)V. 163 ; 304 ; 516 ; 637 ; 646 ; 762 ; 796 ; 821 ; 839 ; 1124 ; 1311 ; 1327 ; 1456.OndeL'eau, la merV. 121 ; 619 ; 724 ; 760 ; 961 ; 1358.PasserDépasser, surpasser, excéder (D)V. 170 ; 737 ; 1433.PassionSe dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens (F) et donc par métonymie la seule passion amoureuse, amour, ardeur (R) sentiment, état affectif en général ; sensation physique ; puissante, vive inclination, attachement de quelqu'un vers ce qu'il désire de toutes ses forces, vers ce qu'il aime avec violence (D)V. 385 ; 523 ; 671 ; 779 ; 787 ; 848 ; 936 ; 954 ; 974 ; 1133 ; 1138 ; 1303.Penser(s)Pensée(s)V. 23 ; 171 ; 709 ; 981.PresserPousser impérieusement (D)V. 1 ; 882.PretendreRevendiquer (D), espérer d'avoir (R)V. 130 ; 1451.PrudenceSagesse, vigilance (D)V. 235 ; 762.RigueurSévérité ; attitude sévère de l'aimé(e), destinée à éprouver ou à rebuter l'amant(e) (R)V. 264 ; 313 ; 430 ; 667 ; 851.SoinsAttention, intérêt, souci, (R) assiduité (D)V. 127 ; 633 ; 736 ; 763 ; 1181.SongeChimère, fiction, vision (D)V. 220 ; 597 ; 622.SouffrirAccepter, tolérer (F)V. 620 ; 1168.Tourmen(t)Violente douleur physique ou morale (F)V. 294 ; 456 ; 478 ; 482 ; 437 ; 780 ; 807 ; 849 ; 863 ; 955 ; 1038.TraitÉlan, ce qui touche, ce qui émeut (F)V. 275 ; 345 ; 366 ; 767 ; 980 ; 1082.TransporterÉmouvoir fortement, rendre fou (F)V. 801 ; 908 ; 953.ValeurHardiesse, bravoure ; courage ; ardeur belliqueuse ; qualité guerrière (F)V. 76 ; 80 ; 154 ; 161 ; 518 ; 904 ; 920 ; 1022.VertuVigueur physique ou morale ; force ; courage, qualité ; puissance, efficacité (F), grandeur d'âme (D)V. 86 ; 88 ; 424 ; 491 ; 522 ; 523 ; 921 ; 994 ; 1060 ; 1273.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Autour de Charles Beys*Goujet*Bibliothèque françoise
+## Autour de Charles Beys.*Goujet*Bibliothèque françoise
 *Lebois*Les Odes d'Horace en vers burlesque (1652)
 *Puymaigre (Comte de*Un Poète apologiste de Louis XIIIRevue des questions historiques
 *Quérard*Les Supercheries littéraires dévoilées
 
 
 
-## Ouvrages généraux sur le théâtre du XVIIe siècle*Lancaster*Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
+## Ouvrages généraux sur le théâtre du XVIIe siècle.*Lancaster*Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 *Adam*Histoire de la littérature française du XVII*e* siècle
 *Baby*Esthétique de la tragi-comédie
 *Forestier*Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
@@ -3042,14 +3042,14 @@ AdorerSe dit de l'amour, masculin et féminin, lorsqu'il est extrême (F)V. 260�
 
 
 
-## Ouvrages généraux sur le théâtre*Forestier* Introduction à l'analyse des textes classiques
+## Ouvrages généraux sur le théâtre.*Forestier* Introduction à l'analyse des textes classiques
 *Larthomas*Le langage dramatique
 *Ubersfeld*Lire le théâtre
 *Ubersfeld*Lire le théâtre II
 
 
 
-## Sur la langue*Académie Française*Dictionnaire
+## Sur la langue.*Académie Française*Dictionnaire
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Haase*Syntaxe française du XVIIe siècle
 *Richelet*Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences

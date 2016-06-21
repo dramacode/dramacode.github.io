@@ -17,7 +17,7 @@ A Paris, Chez Toussainct Quinet, au Palais Sous la montée de la Cour des Aydes 
       master 1 sous la direction de Georges Forestier (2014-2015)
 
 
-# Introduction
+# Introduction.
 
 « La fortune est capricieuse, un rien l'irrite, elle ne pardonne pas à qui a eu le malheur de lui déplaire. » *Réflexions sur la fortune* (1648), Axel Oxenstiern.
 
@@ -26,7 +26,7 @@ C'est ainsi que la fortune s'est comportée envers Desfontaines. Sa popularité 
 Les raisons qui nous ont amenée à travailler sur *Perside* de Desfontaines dépendent aussi des caprices de la fortune. Notre admiration pour la gloire de Soliman le Législateur s'est de fait doublée d'une approche de Desfontaines, nous étant alors inconnu, par analogie avec le nom du célèbre fabuliste Lafontaine. Ainsi les recherches sur Desfontaines et son oeuvre nous ont permis de sortir des terrains battus des programmes traditionnels scolaires afin de redécouvrir le XVII*e* siècle et toute la richesse du patrimoine culturel de la France.
 
 
-# Desfontaines Nicolas Mari
+# Desfontaines Nicolas Mari.
 
 Cette brève évocation de la vie de Desfontaines s'inspire des excellents travaux de recherche de Loraine Pierron (sous la direction du professeur de recherche de Paris IV Sorbonne Forestier Georges) qui cite des informations intéressantes sur la vie dudit dramaturge tirées des actes notariés et de l'ouvrage d'Howe Alan [1].
 
@@ -37,44 +37,44 @@ Né vers 1610, Nicolas Mari fait ses études à Paris et devient avocat au parle
 Avocat, acteur et dramaturge, Nicolas Mari Desfontaines garde ses secrets tout en léguant son œuvre à qui souhaite découvrir les terres vierges du théâtre.
 
 
-# L'œuvre théâtrale
+# L'œuvre théâtrale.
 
 *Perside ou la Suite d'Ibrahim Bassa* est une pièce de théâtre faisant écho à l'œuvre de Georges Scudéry *Ibrahim ou l'Illustre Bassa* qui obtint un grand succés dès la parution de l'édition princeps en 1641 chez Antoine de Sommaville. Desfontaines s'est sans aucun doute saisi de l'occasion que lui offrirent la popularité du roman et la fascination des contemporains envers l'orient pour adapter sur les planches une «  suite ». Il s'agit de reprendre un des aspects de l'œuvre-mère, l'exploiter, le modifier si bien que l'intrigue obtenue s'éloigne très souvent de celle du texte source. La « suite » devient par conséquent une œuvre autonome. Nous verrons par la suite dans quelles mesures Desfontaines s'inspire d'autres œuvres et comment le parfum du roman se mêle au souffle vivifiant de l'art théâtral.
 
 Selon le tome IV du *Dictionnaire des théâtres de Paris (1756)* p. 114, Perside fut représentée et publiée la même année de 1644 (apogée de sa carrière), alors que Lancaster remonte la représentation à 1642 peu après la publication dudit roman. Sa critique est sans ménagement : l'œuvre de Desfontaines détient des scènes non liées entre elles, un manque de logique entre l'action et le titre tels que l'intérêt du spectateur-lecteur s'en touve dispersé. Ajoutées à cela, la présence de scènes et de personnages superflus et la violation de l'unité d'action ne peuvent supléer au défaut de construction de l'intrigue : « … *by constructing his tragedy in such a way that he is obliged to supply a new obstacle, for which no preparation had been made, in the third act*. » Après une lecture plus attentive de la pièce, un retour sur l'esthétique théâtrale du XVII*e* siècle et la conscience du poids du classicisme dans les mentalités (encore aujourd'hui d'actualité), il est aisé de discerner que l'œuvre de Desfontaines a subi les foudres de la critique à l'aune des critères classiques du théâtre (règle des trois unités, bienséance, vraisemblance…). Si *Perside* n'entre pas dans ces critères-ci, la pièce présente néanmoins un intérêt et une richesse qui, l'œuvre une fois replacée dans son contexte historique et artistique de création, dévoilent toute sa valeur.
 
 
-# Résumé de la pièce
+# Résumé de la pièce.
 
 
-## Acte I
+## Acte I.
 
 La pièce s'ouvre au sérail à Constantinople sur une double victoire : celle de Soliman, l'empereur des Turcs, sur Rhodes et celle d'Eraste, son favori grec d'origine rhodienne, sur Belgrade. Une forte amitié unit les deux hommes si bien que Soliman s'apprête à lui donner sa captive favorite : la princesse Herminie de Belgrade. À la stupéfaction générale, celle-ci se rebelle contre cette décision malgré la vertu et la noblesse du héros de Belgrade (scène 1). Au départ de ce dernier,
 
 Herminie explique à Soliman son incapacité à forcer les sentiments d'Eraste, connu pour ses vertus d'honneur et de fidélité car il aime déjà quelqu'un (scène 2). Au moment de décliner l'identité de l'objet de son amour, Pyrrhus, un Bassa, vient annoncer à Soliman la venue d'Achmat, Bassa de la mer. Herminie se retire (scène 3). Achmat amène alors à l'empereur une captive rhodienne d'une grande beauté : Perside. Soliman tombe immédiatement amoureux de la belle qui rejette ses sentiments et sa couronne (scène 4).
 
 
-## Acte II
+## Acte II.
 
 Herminie dévoile à Soliman l'identité de l'amante d'Eraste : il ne s'agit d'autre que Perside. Achmat lui narre alors sa capture et son caractère fidèle et passionné prêt à mourir pour son amant. Soliman se voit confronté à un premier dilemme : obéir à sa passion ou récompenser la vertu de son serviteur et ami ? (scène1). Achmat envoyé quérir les deux amants, Soliman assure à Herminie la victoire de la vertu sur la passion (scène 2). Face à Perside cependant, il renouvelle son offre qu'elle décline avec tout autant de véhémence (scène 3). Eraste, survenu, raconte à Soliman et à sa suite les mésaventures de leurs amours. Finalement Soliman lui accorde la main de Perside (scène 4).
 
 
-## Acte III
+## Acte III.
 
 De son côté, Herminie apprend d'Alcomire, une dame de Constantinople, qu'Achmat brûle pour elle mais la princesse de Belgrade avoue à cette dernière ses sentiments pour Soliman qu'Alcomire encourage, secrètement éprise du Bassa de la mer (scène 1). Peu après s'avance Achmat qui, trouvant Alcomire seule, lui confie sa résolution de demander, en récompense de ses services, la main d'Herminie au souverain (scène 2). La mort dans l'âme, Alcomire s'incline face à ce tour du sort (scène 3). Entre temps, Herminie assiste, l'esprit tourmenté, aux échanges galants entre Perside et Soliman et à son indifférence lorsque ce dernier la cède au désir d'Achmat (scène 4). Restés seuls, le souverain, sous l'emprise de la passion, invite Perside à l'adultère qu'elle rejette avec autant d'effroi que de dégoût face à ce revirement (scène 5). Resté seul, Soliman pose son ultimatum : l'amour ou la mort (scène 6).
 
 
-## Acte IV
+## Acte IV.
 
 Devant le rejet et l'orgueil d'Herminie (scène 1), Achmat conçoit un projet machiavélique pour lui ôter tout espoir concernant l'inclination de Soliman : perdre Eraste pour favoriser les amours du souverain et les siennes (scène 2). Perside, quant à elle, renouvelle son serment de fidélité à Eraste (scène 3) qui, sentant sa fin approchée, vient lui dire adieu (scène 4). Restée seule, Perside se détermine à le suivre au tombeau (scène 4). Aveuglé par sa passion, Soliman se laisse persuadé par les mensonges de ses conseillers Achmat, Pyrrus et Haly (scènes 6 et 7) de la traitrise d'Eraste qui, non dupe du stratagème, lui révèle pour toute défense le véritable motif de sa condamnation : Le dépit, le désir et non plus la vertu et la gloire, gouvernent le souverain (scène 7). Après une ultime hésitation, Soliman condamne Eraste à mort (scène 9).
 
 
-## Acte V
+## Acte V.
 
 Cependant Alcomire, de dépit et d'orgueil, promet à Pyrrhus son amour s'il assassine Achmat (scène 1), qui jouit de sa victoire (scène 2). Mais Herminie devance son projet en poignardant le Bassa de la mer (scène 3) et laisse volontiers la gloire de cet assassinat à un Pyrrhus bien embarrassé de cet acte imprévu (scène 4). Herminie, de son côté, est déterminée à animer la constance et la résistance de Perside (scène 5) qu'elle voit apparaitre travestie en soldat. A sa scène de douleur, Herminie se décide à la suivre dans sa demeure afin d'y mourir, étant privée de l'amour de Soliman (scène 6). Demandant une audience, Soliman se voit refusé vertement l'accès aux quartiers de Perside, travestie en soldat, qui le provoque au point de susciter sa colère : une flèche, décochée sur son ordre, vient percer le sein de la jeune femme (scènes 7 et 8). Herminie alors s'avance et révèle à Soliman sa méprise et son méfait (scène 9). Au chevet de Perside expirant, Soliman se repend amèrement de ses actes et condamne la perfidie de ses conseillers. Implorant le pardon d'Herminie, la douleur le laisse évanoui alors que la princesse dans un message d'espoir assure le triomphe de la vertu et de la constance (scène 10).
 
 
-# Étude de Perside
+# Étude de Perside.
 
 Dans l'Histoire de France, de nombreuses raisons justifient la qualification de Grand Siècle pour le XVII*e* siècle.
 
@@ -105,12 +105,12 @@ Avant de préciser les caractères de chacun, il est opportun de revenir sur l'i
 Perside est la pomme d'Eris, celle qui provoque le déséquilibre dans les rapports entre les personnages : son arrivée est anticipée par un bouleversement dans l'alexandrin découpé par les répliques de différents personnages (I, 3). Passionnée, elle pousse la fidélité et le sens de l'honneur jusqu'à la mort. Elle et Eraste forment un couple d'amoureux directement issus des romans pastoraux. Eraste, quant à lui, apparait tel un chevalier imprégné des vertus d'honneur, de loyauté et de fidélité tout en pouvant adopter un comportement libertin pour regagner le cœur de Perside (II, 4). Doué de clairvoyance, il n'hésite pas à défier le pouvoir de Soliman que la passion a rendu tyrannique. Ce dernier est par ailleurs le personnage le plus tragique de la pièce. Tel Salomon, sa sagesse, sa mansuétude et sa générosité inspirent le respect jusque chez ses ennemis. Pourtant sa passion pour la Rhodienne entraine en son âme la guerre de la vertu contre ses désirs, dilemme douloureux qui voit finalement le triomphe de son « épitumia ». Soliman, conscient de sa chute morale, n'est délivré que par la mort de Perside qui lui ouvre les yeux sur l'entourage corrompu que constitue la Cour. Ses remords rachètent sa vertu comme le souligne Herminie. La princesse de Belgrade est le pendant de Perside à qui elle ressemble néanmoins dans la constance de son amour pour Soliman. De soumission apparente, elle fait preuve de courage, d'intelligence, et d'un esprit d'indépendance. Son caractère mesuré ne l'empêche cependant pas à tuer le traitre Achmat, faisant de cet assassinat un acte de courage de la part d'une femme mais indigne de l'aura d'une princesse. Achmat, quant à lui, incarne le traitre, conscient cependant du motif de son acte et de sa vilénie. Ajouté à cela, il représente l'âme damnée de Soliman qui pousse l'éthos du souverain à s'identifier à son pathos. Exploitant la faiblesse de l'empereur, Achmat est le fil conducteur de la machine infernale qui broit les deux amants… et lui aussi. Alcomire et Pyrrhus, eux, sont présents pour justifier l'assassinat du traitre. Enfin Ormane, la suivante de Perside, semble renvoyer à l'impuissance du spectateur face au déroulement de la tragédie et face à la douleur de la princesse rhodienne.
 
 
-# Conclusion
+# Conclusion.
 
 La lecture et l'analyse de *Perside* de Desfontaines a mis au jour sa beauté et sa subtilité. Empruntant le sujet à des romans, développant une pièce théâtrale, s'inscrivant dans le théâtre à sujets ottomans et celui du baroque tardif, Desfontaines crée ainsi une œuvre originale dont la construction tragique dessine doucement celle des tragédies classiques postérieures. Unique pièce ottomane de son opus, *Perside ou la suite d'Ibrahim Bassa* offre un autre regard sur le talent de cet auteur dont les œuvres à présent constituent la principale carte d'identité.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Il n'existe à ce jour qu'une seule édition effectuée en 1644 par Toussaint Quinet, dont en voici la description :
 
@@ -159,70 +159,70 @@ L'édition de la Bibliothèque nationale de France inverse les chiffres de la pa
 La ponctuation a été en son ensemble respectée hormis les tirets restitués lors de l'inversion entre le sujet et le verbe.
 
 
-## Correction ou/où
+## Correction ou/où.
 
 v.360 ou tu perdras/ v.732 l'objet où mon amour/ v.748 d'où/ v.893 jusqu'où/ v.996 ou sois plus/ v.998 ou l'amour ou la mort/ v.1106 où je ne comprends/ v.1234 le trosne où je te vois/ v.1367 où me reduisez vous…/ v.1462 ou me fasse perir / v.1543-v.1544 c'est où
 
 
-## Correction « sen est » en « c'en est »
+## Correction « sen est » en « c'en est ».
 
 v.1388/v.1413/v.1659
 
 
-## Correction de « ce » en « se »
+## Correction de « ce » en « se ».
 
 v.1384
 
 
-## Correction « vo° » en « vous »
+## Correction « vo° » en « vous ».
 
 v.223/v.317/v.1176/v.1534
 
 
-## Correction « no° » en « nous »
+## Correction « no° » en « nous ».
 
 v.337
 
 
-## Correction « et » en « est »
+## Correction « et » en « est ».
 
 v.14
 
 
-## Correction « c'est » en « cet »
+## Correction « c'est » en « cet ».
 
 v.714
 
 
-## Correction a/à
+## Correction a/à.
 
 Dédicace au Duc de Guise : à apprise/ v.13 par ta valeur a tes loix/ v.14 moins digne a mes yeux/ v.48 sans doute à fait/v.58 à beaucoup d'auantage/ v.133 à l'honneur de/v.138 a des qualitez/v.195 a ta loy/ v.292 Rhodes a ʃuccombé/ v.330 m'en à dit/v.398 à senty/ v.512 à passé/ v.699 Achmat à/ v.790 qu'a la fin/ v.1038 à trahy/ v.1078 a l'amour/ v.1390 à rejetté/ v.1453 à mangé
 
 
-## Liste des voyelles nasales avant correction
+## Liste des voyelles nasales avant correction.
 
 v.10-v.826-v.924-v.1391 *mô*/ v.146 *reβês*/ v.223 dôcq-sâs/ v.301 *tourmêts*/ v.307 *rêdront*/ v.335 *Quâd-rêdent*/ v.364 *charmât*/ v.370 *n'attendât*/ v.419 *quâd-pêʃe-dôt*/ v.521 *râg*/ v.563 *sôt-rêdent*/ v.574 *rêdre*/ v.689 *recônoit*/ v.696 *m'appellât*/ v.734-v.986 *grâd*/ v.909 *eʃperâce*/ v.915 tô-*ordonnâce*/ v.999 *traittât*/ v.1175 *môtrez*/ v.1192 biê/ v.1373 *nô-miês*/ v.1392 *m'ayât*/ v.1632 *fôt-meʃcônoiʃtre*
 
 
-## Correction de « ce » en « se »
+## Correction de « ce » en « se ».
 
 v.1389
 
 
-## Correction « la » en « là »
+## Correction « la » en « là ».
 
 v.973 Si c'eʃt-la/ v.1434 Ce ʃont la
 
 
-## Liste des coquilles de l'imprimeur avant correction
+## Liste des coquilles de l'imprimeur avant correction.
 
 v.20-v.319-v.565-v.1051-v.1094-v.1597 *ceʃt*/ v.18 *gens-darmes*/ v.33 *Tume*/ v.41 *d'eʃtin*/ v.45 *Tu las*/ v.89 *l'aissez*/ v.116 *d'eterminez*/ v.129 *n'aiʃt*/ v.144-v.287-v.363-v.580-v.592-v.895-v.937-v.973-v.1206 *bon-heur*/ v.164 *d'estinmaʃoubzmiʃe*/ v.165 *nignore*/ v.179-v.1167 *l'ache*/ v.184 *l'oûant*/ v.185 *l'ouange*/ v.205 *n'aiʃʃent/* v.205-v.324* qu'elle*/ v.216-v.586 *la renduë*/ v.248 *autres-fois*/ v.257 *tapoartient*/ v.274-v.1301-v.1540 *mal-heurs*/ v.281-v.437-v.575-v.845-v.1054-v.1408 *ma*/ v.281-v.424-v.591 *long-temps*/ v.295-v.1184- v.1699 *mal-gré*/ v.301 n'y/ v.324 *m'eʃpriʃée*/v.334-v.964 *ta*/ v.335 *mal-heureuʃes*/ v.336-v.726-v.805 *quelque-fois*/ v.340- v. 1032-v.1336 *n'oʃtre*/ v.349- v.1505 mal-heureux/ v.358 *d'ont*/ v.360-v.393- v.838-v.1022-v.1292-v.1356 *bien-toʃt*/ v.383 *Auβi-tôt*/ v.387 *faifant*/v.415-v.611-v.958 *envain*/ v.431 *ladore*/ v.457-v.775 *chef-doeuure*/ v.513 *dicy*/ v.514-v.631 *qu'ant*/ v.537 d'ys/ v.538-v.1094 *d'y*/ v.540 *marrache*/ v.550 *mobliger*/ v.575 *d'on*/ v.602 *d'iʃcretion*/ v.608 *l'euant*/ v.626 *l'assé*/ v. 653 *n'oyay*/ v.682 *mimpoʃent*/ v.685 tarreʃte/ v.716 *mal-heureuʃe*/ v.725 *mal-aiʃé*/ v.727 *t'aiʃt*/ v.733 *ʃoubz-ris*/ v.735 *Na point*/ v.765-v.950-v.1201 *A dieu*/ v.797- v.951 *m'eʃpris*/ v.815 *qu'à lors*/ v.817-v.818 *lors quelle*/ v.826 *l'a doit*/ v.830-v.1165-v.1167-v.1220 *ten*/ v.833 D'eʃia/ v.843 *noze*/ v.844-v.857-v.917-v.1049-v.1291-v.1442-v.1498-v.1660 *mal-heur*/ v.848 *bien-ʃeance*/ v.862 *m'eʃpriʃé*/ v.869 *l'auriers*/ v.874 qui-conque/ v.878 *pour quoy*/ v.887 *d'eʃaduoüer*/ v.911 *tu les*/ v.930 *d'eʃormais*/ v.970 *D'etruits*/ v.980 *orage*/v.1034 *ʃoppoʃe*/ v.1036 *tu lés*/ v.1054 *for-faict*/ v.1065 *Puis que*/ v.1102 *deʃtranges*/ v.1103 *m'auuais*/ v.1110-v.1181-v.1411 *à dieu*/ v.563 v.1129-v.1707 *mal-heurs*/ v.1169 *qu'auec-que*/ v.1179 l'armes/ v.1188 *r'asseure*/ v.1188 *ʃenuole*/ v.1193 *maβiʃte*/ v.1204 *tu mes*/ v.1267 *Laffront*/ v.1292 ʃeʃteindre/ v.1337 *dasseurer*/ v.1430 *q'uinfères*/ v.1446 *poureʃtre*/ v.1477 *tarigueur*/ v. 1487 ten flame/ v.1487 *tanime*/ v.1510 *linstrument*/ v.1528 *tu nes*/ v.1552 *m'eʃconnaiʃʃance*/ v.1562 *ʃappaise*/ v.1590 *soubzmiβions*/ v.1604 *Ienrage*/ v.1616 *teʃpouuente*/ v.1617 *l'âchement*/ v.1626 *bien heureux*/ v.1636 *quelle*/ v.1639 *ʃeclipser*/ v.1652 *ce luy* /
 
 
-# PERSIDE OU LA SUITTE D'IBRAHIM BASSA TRAGEDIE
+# PERSIDE OU LA SUITTE D'IBRAHIM BASSA TRAGEDIE.
 
 
-## A MONSEIGNEUR LE DUC DE GUISE et c [2]
+## A MONSEIGNEUR LE DUC DE GUISE et c [2].
 
 Monseigneur,
 
@@ -233,7 +233,7 @@ De vostre Grandeur,
 Le tres humble tres obeïssant et tres affectionné serviteur,
 
 
-## LES PERSONNAGES,
+## LES PERSONNAGES,.
  – Solimansecond Empereur des Turcs.
  – Eraste,Favory⁎ de Soliman, amoureux de Perside
  – Achmat,Bassa⁎ [3] de la mer, amoureux d'Herminie
@@ -494,7 +494,7 @@ Un courage si franc est rarement trompeur,
     HERMINIE.
 Le temps seul me poura guerir de cette peur,  
 
-    SOLIMAN *à Eraste*
+    SOLIMAN *à Eraste*.
 Il fault à ses desirs accorder quelque chose  
 
     ERASTE.
@@ -514,7 +514,7 @@ Et puis viens temoigner que tu peux tour à tour
 Joindre aux Lauriers [26] de Mars les myrthes [27] de l'amour.  
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 SOLIMAN. HERMINIE.et suitte.
 
 
@@ -584,7 +584,7 @@ Cet esclaircissement est de trop longue haleyne⁎
 Bien doncques à tantost.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 SOLIMAN. HERMINIE. et suitte.
 
 
@@ -614,7 +614,7 @@ Vous le pouvez.
     Adieu.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 SOLIMAN, PYRRHUS, ACHMAT, PERSIDE, et suitte.
 
 
@@ -703,15 +703,15 @@ Flatté de cet espoir je consens dés cette heure
 Que ce prochain Palais vous serve de demeure.  
 Prenez-en soin Achmat.  
 
-    PERSIDE, *s'en allant.*
+    PERSIDE, *s'en allant.*.
         Que mon sort seroit beau  
 Si plutost qu'un palais il m'offroit un tombeau [35].  < FIN DU PREMIER ACTE. > 
 
 
-## ACTE SECOND
+## ACTE SECOND.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 SOLIMAM, HERMINIE, ACHMAT, PYRRHUS.
 
 
@@ -876,7 +876,7 @@ Qu'on les fasse venir.
 
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 SOLIMAN, HERMINIE.
 
 
@@ -907,7 +907,7 @@ Je vous le feray voir, n'en croyez que vos yeux,
 Mais Perside s'advance.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 SOLIMAN, HERMINIE, PERSIDE, ACHMAT.
 
 
@@ -1037,7 +1037,7 @@ Ah ! qui craint le combat redoute sa deffaite.
 En semblables combats on vainc par la retraitte.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 SOLIMAN, PERSIDE, HERMINIE, ACHMAT, PYRRHUS, ERASTE,
 
 
@@ -1072,10 +1072,10 @@ Qu'heureux sont les malheurs qui me rendent à vous ?
 Ah ! vous me faites tort par cette defference⁎  
 Levez-vous, c'est assez, Soliman s'en offence.  
 
-    HERMINIE. *à Achmat.* 
+    HERMINIE. *à Achmat.*. 
 Certes ce rare amour ne se peut trop loüer.  
 
-    PERSIDE. *à Soliman.*
+    PERSIDE. *à Soliman.*.
 Seigneur je suis vaincue il le faut advoüer,  
 Eraste à sur mon cœur une entiere puissance  
 Et sa fidelité force ma resistance,  
@@ -1243,10 +1243,10 @@ Et porter ton renom et ta gloire si loin,
 Qu'elle en rende dans peu tout le monde tesmoing,  < FIN DU SECOND ACTE >
 
 
-## ACTE TROISIESME
+## ACTE TROISIESME.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 HERMINIE ALCOMIRE.
 
 
@@ -1376,7 +1376,7 @@ Adieu belle Herminie,
         Adieu chere Alcomire,  
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 ALCOMIRE ACHMAT.
 
 
@@ -1423,10 +1423,10 @@ Ouy pour elle desjà ma flame est infinie.
 Sans d'extrémes transports peut-on voir Herminie ?  
 Je l'ay veuë il suffit, ses attraits⁎ m'ont charmé.  
 
-    ALCOMIRE
+    ALCOMIRE.
 Mais croyez-vous qu'un jour vous en soyez aymé ?  
 
-    ACHMAT
+    ACHMAT.
 Peut-estre que d'abord cette belle inhumaine  
 Mesprisera mes vœux se rira de ma peine,  
 Mais sçache qu'à la fin il n'est point de rigueur  
@@ -1479,7 +1479,7 @@ Perside est ma conqueste, Herminie est la sienne
 Un juste eschange veut que ce prix m'appartienne,  
 Je le dois esperer.  
 
-    ALCOMIRE. *à Part*
+    ALCOMIRE. *à Part*.
         Tu t'en promets beaucoup  
 Mais j'auray peu d'adresse ou je rompray ce coup.  
 Allez allez Achmat, allez voir cette belle  
@@ -1492,9 +1492,9 @@ Ainsi le veut amour, et telle est ma fortune⁎
 Je cours apres mon mal, mais je vous importune.  
 
 
-### SCENE TROISIESME 
+### SCENE TROISIESME. 
 
-    ALCOMIRE, *seule*
+    ALCOMIRE, *seule*.
 Il s'en va dans l'espoir d'estre bientost heureux  
 Où de se voir aymé comme il est amoureux,  
 Et moy je reste icy pour essuyer ma honte⁎  
@@ -1511,7 +1511,7 @@ Mais voicy l'empereur. Amour esteins mes feux
 Ou fay qu'Achmat enfin les rende plus heureux.  
 
 
-### SCENE QUATRIESME 
+### SCENE QUATRIESME. 
 PERSIDE, SOLIMAN, HERMINIE, ACHMAT,
 
 
@@ -1563,7 +1563,7 @@ Le sort vous a fait Reyne et non pas ma sujette,
 Et desormais ma gloire et ma felicité  
 Dependent tout à faict de cette qualité,  
 
-    HERMINIE. *à Part* 
+    HERMINIE. *à Part*. 
 Il l'ayme il l'ayme encor.  
 
     PERSIDE.
@@ -1585,10 +1585,10 @@ Et je t'en dois Seigneur, un eternel hommage.
     SOLIMAN.
 Que ce discours me plaist !  
 
-    HERMINIE. *à Part.*
+    HERMINIE. *à Part.*.
         Mais helas ! qu'il m'outrage.  
 
-    SOLIMAN. *à Achmat.* 
+    SOLIMAN. *à Achmat.*. 
 He bien mon cher Achmat, est-il sous le Soleil,  
 Un Prince plus heureux ?  
 
@@ -1598,7 +1598,7 @@ Et tes prosperités esgallent ta puissance :
 Mais Seigneur, ton Achmat attend sa recompence,  
 Tu sçays ce qu'il a faict, et tu luy dois donner.  
 
-    HERMINIE. *à part.*
+    HERMINIE. *à part.*.
 Que pretend-il ô Dieux ? que va-t-il ordonner ?  
 
     SOLIMAN.
@@ -1608,33 +1608,33 @@ Que demandez-vous ? quelle est vostre esperance ?
     ACHMAT.
 Seigneur ton Herminie est l'objet de mes vœux ?  
 
-    HERMINIE. *bas*
+    HERMINIE. *bas*.
 Et tu l'es de ma haine  
 
     SOLIMAN.
         Achmat ouy je le veux,  
 J'accorde à vos desirs cette belle Herminie.  
 
-    HERMINIE 
+    HERMINIE. 
 Vaines pretentions où me reduisez-vous ?  
 
-    ACHMAT,*à Soliman.*
+    ACHMAT,*à Soliman.*.
 Que je te dois d'encens [62] pour un arrest si doux.  
 
-    HERMINIE
+    HERMINIE.
 Ah Seigneur qu'as-tu dit ? quelle est ton ordonnance⁎ :  
 Ne te souvient-il plus du rang de ma naissance,  
 Quel insigne malheur te porte à me haïr,  
 Jusqu'au point...  
 
-    SOLIMAN
+    SOLIMAN.
         C'est assez, il me faut obeïr.  
 
-    HERMINIE
+    HERMINIE.
 Triste commandement ! rigoureuse contrainte !  
 Mourons, mourons plustost.  
 
-    SOLIMAN
+    SOLIMAN.
         Estouffez cette plainte.  
 Achmat allez la rendre à son appartement  
 Et là vous acquitez des devoirs d'un Amant.  
@@ -1642,11 +1642,11 @@ Ils sortent.
 
 
 
-### SCENE CINQUIESME 
+### SCENE CINQUIESME. 
 SOLIMAN, PERSIDE.
 
 
-    [SOLIMAN]
+    [SOLIMAN].
 Enfin, belle Perside, il faut que je confesse  
 Devant vos yeux divins mon extreme foiblesse,  
 Amour encore un coup me reduit aux abois,  
@@ -1691,7 +1691,7 @@ Si vos yeux moins cruels n'empeschent son trepas.
 Tu me parles en vain, va je ne te croy pas,  
 Soliman est discret, Soliman est plus sage.  
 
-    SOLIMAN
+    SOLIMAN.
 C'est luy-mesme pourtant qui vous rend cet hommage.  
 
     PERSIDE. 
@@ -1715,7 +1715,7 @@ Vostre honneur desormais est franc de toute atteinte,
 Vous pouvez m'obliger et sans honte⁎ et sans crainte [64]  
 Vous estes au serrail et seule et sans tesmoing.  
 
-    PERSIDE
+    PERSIDE.
 Pour faillir en secret on empesche pas moins.  
 Mais c'est trop escouter un discours qui m'outrage  
 Sortons.  
@@ -1724,9 +1724,9 @@ Sortons.
     Adieu cruelle⁎.  
 
 
-### SCENE SIXIESME 
+### SCENE SIXIESME. 
 
-    SOLIMAN *Seul.*
+    SOLIMAN *Seul.*.
         O Desespoir [65] ! o rage [66] ?  
 He ! bien, que feras-tu Soliman ? Ce mespris  
 N'est-il pas suffisant à guerir tes esprits ?  
@@ -1748,14 +1748,14 @@ Cesse enfin de languir, et par un prompt effort
 Choisis sans differer ou l'amour [67] ou la mort.  < FIN DU TROISIESME ACTE > 
 
 
-## ACTE QUATRIESME
+## ACTE QUATRIESME.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ACHMAT, HERMINIE.
 
 
-    ACHMAT, *sortant de l'appartement d'Herminie.*
+    ACHMAT, *sortant de l'appartement d'Herminie.*.
 Non, non n'esperez pas me traittant de la sorte  
 Que sur ma passion vostre rigueur⁎ l'emporte,  
 Je connois la raison qui cause vos mespris⁎,  
@@ -1781,11 +1781,11 @@ Vous estes son esclave.
     ACHMAT.
 Vous devez obeïr puisque vous estes sienne,  
 
-    HERMINIE
+    HERMINIE.
 De deux maistres puissans qui regissent mon sort  
 Je resiste au plus foible, et je cede au plus fort.  
 
-    ACHMAT
+    ACHMAT.
 Où reigne Soliman il n'est point d'autre maistre.  
 
     HERMINIE.
@@ -1795,22 +1795,22 @@ Où reigne Soliman n'espere pas de l'estre.
 Je vous entends Madame, et je sçay vos desseins  
 Mais il ayme Perside.  
 
-    HERMINIE
+    HERMINIE.
         Et ses feux seront vains.  
 Puis qu'au gré de ses vœux Eraste la possede  
 Cet obstacle est puissant,  
 
-    ACHMAT
+    ACHMAT.
         J'en sçay bien le remede.  
 
-    HERMINIE
+    HERMINIE.
 Va, va mettre en effect tes projets inhumains,  
 Moy je sçauray bientost me tirer de tes mains.  
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 
-    ACHMAT
+    ACHMAT.
 Ouy, ouy malgré ce cœur si contraire à ma flame⁎  
 Je vais executer le complot que je trâme,  
 Et te réduire au point de ne plus esperer  
@@ -1845,7 +1845,7 @@ Amour cruel auteur de ce hardy dessein
 Favorise un forfaict⁎ que tu m'as mis au sein⁎.  
 
 
-### SCENE TROISIESME 
+### SCENE TROISIESME. 
 
     PERSIDE.
 
@@ -1902,27 +1902,27 @@ Il frémit, il paslit, et par ses changemens
 Montre qu'il sent au cœur d'estranges mouvemens⁎.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 PERSIDE, ERASTE.
 
 
-    PERSIDE
+    PERSIDE.
 Qu'avez-vous Eraste ? et quel mauvais presage  
 Tiray-je de vos yeux et de vostre visage.  
 
-    ERASTE
+    ERASTE.
 Vous me demandez helas ! ce que vous jugez bien.  
 
-    PERSIDE
+    PERSIDE.
 Parlez plus clairement où je ne comprens rien.  
 
-    ERASTE
+    ERASTE.
 He bien je vay parler, voyez mes yeux Madame  
 Par eux vous apprendrez le tourment de mon ame,  
 Par eux vous apprendrez que je viens en ce lieu  
 Pour vous dire peut-estre un eternel adieu.  
 
-    PERSIDE
+    PERSIDE.
 Un eternel adieu cher Eraste ! ah je tremble.  
 Un eternel adieu ? non non mourons ensemble  
 Ou si tu veux enfin que j'escoute le tien,  
@@ -1937,7 +1937,7 @@ Le coup qu'il recevra mettra l'autre au tombeau,
 Et rien n'est assez fort pour rompre un noeud si beau.  
 Croy-tu que ta Perside.  
 
-    ERASTE
+    ERASTE.
         Ah ! cesse ma chere ame  
 Je douterois à tort des ardeurs de ta flame⁎,  
 La crainte et les soupçons dont je suis combatu  
@@ -1975,7 +1975,7 @@ Tu veux m'oster Perside ? et tu me l'as donnée.
 Ah ! Ravis-moy plustost le bien de la clarté  
 Que la possession de sa rare beauté.  
 
-    PERSIDE
+    PERSIDE.
 Non, non mon cher espoux estouffe cette crainte  
 Dont trop indignement ta belle ame est atteinte,  
 Ta Perside est à toy, rien ne peut te l'oster  
@@ -1997,7 +1997,7 @@ Arrestez-vous mes yeux, mais ouvrez-vous mes veynes
 Il n'appartient qu'a vous à pleurer mes malheurs  
 Et mon sang peut tout seul faire voir mes douleurs.  
 
-    ERASTE
+    ERASTE.
 Espargne ce beau sang seche ces belles larmes  
 Enfin le temps me presse, il faut prendre les armes,  
 Ouy, Perside, je pars et je te dis adieu,  
@@ -2021,24 +2021,24 @@ Soit les derniers propos que prononce ma voix.
 Adieu chere Perside, et perdant ma presence,  
 Pour me mieux consoler fay-moi voir ta constance  
 
-    PERSIDE
+    PERSIDE.
 Adieu donc cher Eraste.  
 
-    ERASTE
+    ERASTE.
     Adieu Madame.  
 
-    PERSIDE
+    PERSIDE.
         helas !  
 Te reverray-je encor ?  
 
-    ERASTE 
+    ERASTE. 
         Non ne l'esperes pas ?  
 Adieu.  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 
-    PERSIDE *seule*
+    PERSIDE *seule*.
         Capricieuse et bizare fortune  
 Apres un doux effet que tu m'es importurne,  
 Que d'un trouble soudain mon repos est suivy,  
@@ -2053,13 +2053,13 @@ Ne me faits plus languir, determine mon sort
 Et delibere enfin ou ma vie ou ma mort [71].  
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME.
 SOLIMAN, ACHMAT, PYRRHUS, HALY.
 
 Quelques Janissaires
 
 
-    ACHMAT
+    ACHMAT.
 Tu hazardes beaucoup Seigneur, et cette adresse  
 Dont tu crois te servir, est nuisible à la Grece,  
 Tu connois bien Eraste, et tu n'ignore pas  
@@ -2081,7 +2081,7 @@ Qui te venant combattre avec tes propres armes,
 Te ravira peut-estre avec cette beauté,  
 Et l'Empire et le Trosne où je te voy monté,  
 
-    SOLIMAN
+    SOLIMAN.
 J'approuve vos raisons, et vostre prevoyance,  
 Dans vos sages advis je voids mon imprudence,  
 Je reconnois ma faute, et je veux aujourd'huy  
@@ -2090,18 +2090,18 @@ Mais pour executer un conseil salutaire
 Achmat la diligence⁎ est tousjours necessaire,  
 Faictes venir Eraste allez,  
 
-    ACHMAT 
+    ACHMAT. 
         Prends ce soucy⁎  
 Pyrrhus, va, ma presence est necessaire icy,  
 
-    PYRRUS
+    PYRRUS.
 J'y vay,  
 
-    ACHMAT
+    ACHMAT.
     Qu'il vienne tost, vole.  
 
 
-### SCENE SEPTIESME
+### SCENE SEPTIESME.
 SOLIMAN, ACHMAT, HALY,
 
 
@@ -2183,10 +2183,10 @@ He bien, puisque l'estat aujourd'huy m'y convie
 Puisque sa mort importe au repos de ma vie,  
 Perdons-le, c'en est fait, mon esprit s'y resoud⁎.  
 
-    HALY
+    HALY.
 Pour toy les yeux fermés, j'oze et j'entreprens tout.  
 
-    SOLIMAN
+    SOLIMAN.
 Si j'ay receu par vous cet advis salutaire  
 Vous recevrez de moy son prix et son salaire,  
 Mais laissez cet ingrat⁎, et qu'il vive en repos  
@@ -2195,7 +2195,7 @@ Je vay par un reproche et juste et legitime⁎
 Imprimer dans son cœur le remords de son crime,  
 
 
-### SCENE HUICTIESME 
+### SCENE HUICTIESME. 
 SOLIMAN, ERASTE, ACHMAT, HALY, PYRRHUS, et Janissaires.
 
 
@@ -2265,13 +2265,13 @@ Et dans cette honteuse et ville servitude.
 Parmy tes courtizans, et tes lâches flateurs  
 Et le meurtre et l'inceste ont des approbateurs.  
 
-    SOLIMAN
+    SOLIMAN.
 Cet insolent⁎ propos montre à qui je me fie  
 Mais ce n'est pas ainsi que l'on se justifie,  
 Ce procédé ne sert qu'à vous rendre suspect  
 Et vous devriez au moins avoir plus de respect.  
 
-    ERASTE
+    ERASTE.
 Seigneur mes actions sont toutes innocentes  
 Et j'en pourois donner des preuves evidentes  
 Mais ce seroit envain, tu connoistras un jour,  
@@ -2287,7 +2287,7 @@ Emmenez-le Pyrrhus.
 Et mesme si tu veux nous irons au trépas.  
 
 
-### SCENE NEUFIESME
+### SCENE NEUFIESME.
 SOLIMAN, ACHMAT, HALY.
 
 
@@ -2334,17 +2334,17 @@ Il sort.
     HALY.
 Se peut-il presenter d'occasion meilleure  
 
-    ACHMAT
+    ACHMAT.
 Non Haly, haste-toy rien ne le peut sauver.  
 
     HALY.
 Suivez tout de ce pas je m'en vais le trouver,  < FIN DU QUATRIESME ACTE >
 
 
-## ACTE CINQUIESME
+## ACTE CINQUIESME.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 PYRRHUS ALCOMIRE
 
 
@@ -2383,17 +2383,17 @@ Alcomire, Herminie, Eraste et l'empereur,
 Qu'il meure doncq l'ingrat⁎, qu'il sente ta fureur⁎,  
 Ce n'est point lacheté que de trahir un traitre.  
 
-    PYRRHUS,
+    PYRRHUS,.
 Si c'est pour vous servir je fay gloire de l'estre.  
 
-    ALCOMIRE
+    ALCOMIRE.
 Va c'en est faict, adieu vange-moy promptement.  
 
-    PYRRHUS
+    PYRRHUS.
 En moy vous trouverez un plus fidele Amant.  
 
 
-### SCENE SECONDE
+### SCENE SECONDE.
 
     ACHMAT.
 Enfin le coup est faict et selon mon envie  
@@ -2407,7 +2407,7 @@ Rendra son heur⁎ [76] parfaict, et le mien sans esgal.
 Mais je voids Herminie advançons.  
 
 
-### SCENE TROISIESME 
+### SCENE TROISIESME. 
 ACHMAT, HERMINIE.
 
 
@@ -2436,11 +2436,11 @@ Pour les criminels, et les ames traitresses
 Je ne destine pas de plus douces caresses.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 HERMINIE PYRRHUS.
 
 
-    PYRRHUS. *En entrant se veut retirer*
+    PYRRHUS. *En entrant se veut retirer*.
 Dieux qu'est-ce que je voids ?  
 
     HERMINIE.
@@ -2488,7 +2488,7 @@ Assez proche d'icy je le vais [77]abismer,
 De peur que pour ce coup nous ne soyons en peine.  
 
 
-### SCENE CINQUIESME 
+### SCENE CINQUIESME. 
 
     HERMINIE.
 Depeschez donc Pyrrhus que quelqu'un ne survienne  
@@ -2500,11 +2500,11 @@ Mais quel est ce guerrier? quel est ce jeune Mars,
 Qui lance dans ces lieux de si tristes regards.  
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME.
 PERSIDE, HERMINIE, ORMANE,
 
 
-    PERSIDE [78]
+    PERSIDE [78].
 Cher Eraste !  
 
     ORMANE.
@@ -2666,7 +2666,7 @@ Aussy bien Soliman, et le coup que j'ay fait
 Semblent-ils m'ordonner ce legitime⁎ effect⁎.  
 
 
-### SCENE SEPTIESME 
+### SCENE SEPTIESME. 
 SOLIMAN, PYRRHUS HALY.
 
 troupe de Janissaires.
@@ -2684,13 +2684,13 @@ Se pouront adoucir par nos soumissions,
 Frapez.  
 
 
-### SCENE HUICTIESME
+### SCENE HUICTIESME.
 SOLIMAN, HALY. PYRRHUS PERSIDE. ORMANE, troupe de Janissaires.
 
 Pyrrus frape à la porte de Perside.
 
 
-    ORMANE. *du balcon*
+    ORMANE. *du balcon*.
 Que voulez-vous ?  
 
     HALY. 
@@ -2702,7 +2702,7 @@ Qui ?
     HALY.
     C'est le grand Seigneur.  
 
-    PERSIDE.* paroissant au balcon, bas.*
+    PERSIDE.* paroissant au balcon, bas.*.
         Ah c'est mon homicide  
 Je ne le connois point et mon Seigneur est mort,  
 Allez retirez-vous.  
@@ -2729,7 +2729,7 @@ Que veux-tu ? c'est Perside ;
 Il obeït.
 
 
-    PYRRHUS
+    PYRRHUS.
         J'enrage,  
 Quoy manquer de respect pour toy son Empereur,  
 Je creve de depit.  
@@ -2758,10 +2758,10 @@ Mais que cet arrogant sente toutes vos fleches
 Faites dessus son corps mille mortelles breches,  
 Chatiez son orgueil.  
 
-    HALY
+    HALY.
         Il en tient, il est mort  
 
-    PERSIDE
+    PERSIDE.
 O favorable trait ? ô bien heureux effort  
 Cher Eraste à ce coup je vay cesser de vivre  
 Mon cœur te va trouver, mon ame te va suivre,  
@@ -2769,11 +2769,11 @@ Et par une action digne de ta pitié
 Rejoindre sa plus chere et plus belle moitié.  
 
 
-### SCENE NEUFIESME
+### SCENE NEUFIESME.
 HERMINIE, SOLIMAN, HALY, PYRRHUS et Janissaires.
 
 
-    SOLIMAN. *voyant paroistre Herminie.*
+    SOLIMAN. *voyant paroistre Herminie.*.
 Arrestez-vous Soldats Perside va paroistre  
 Mais ou ses deplaisirs me la font mesconnoistre.  
 Ou ce ne sont pas là les attraits⁎ glorieux,  
@@ -2807,11 +2807,11 @@ Ta fureur⁎ en est cause et tu peux en ce jour
 Voir les justes effects⁎ qu'a produit son amour.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 PERSIDE, SOLIMAN, HALY, PYRRUS, HERMINIE, les Janissaires. Dans une chambre.
 
 
-    PERSIDE. *tirant sa fleche du sein.*
+    PERSIDE. *tirant sa fleche du sein.*.
 Approche Soliman, vien cruel viens Perside  
 Boire le sang d'Eraste et celuy de Perside,  
 Le sang de mon espoux ne te suffisoit pas  
@@ -2885,13 +2885,13 @@ Achevé d'imprimer pour la premiere fois le 24 mai 1644
 Les exemplaires ont esté fournis
 
 
-# Lexique d'après le corpus des dictionnaires de l'Académie française (XVII*e*-XX*e* siècles) et le dictionnaire de FuretièreAbaissementAction d'abaisser, de s'abaisser ou résultat de cette action. Humiliation volontaire ou forcée.V. 254.AppasDésigne tout ce qui attire, qui séduit.V. 297, 519, 700, 759.ArdeurAffection violente.V. 149, 419, 1076, 1337.ArmetSorte de casque, d'armure de tête.V. 605, 1470, 1614.AttraitParticipe passé substantivé du latin ad-trahere désignant un charme, une séduction, une puissance qui attire.V. 147, 248, 417, 783, 884, 963, 1057, 1325, 1417, 1423, 1508, 1620, 1631.BassaAutre mot pour Pacha, titre d'honneur donné en Turquie à des personnes considérables même sans pouvoir.Liste des personnages et v. 758BravacheFaux brave, fanfaron.V. 1605.ContentementSatisfaction.V. 143, 1143, 1396.CourageForce d'âme face aux épreuves, vertu morale.V. 473, 597, 734, 1264, 1473, 1576, 1606.CréditAutorité, pouvoir, considération.V. 327, 1215.CruautéDureté de cœur, insensibilité aux sentiments de quelqu'un dans le langage amoureux.V. 1320, 1555.DébileFaible.V. 1497.DédaignerRepousser, mépriser.V. 54, 435, 1449.DéférenceRespect, soumission.V. 170, 561.DéfianceSoupçon, crainte d'être trompé.V. 205, 1181.DésavouerNier.Dédicace, v. 884.DémentirIci agir indignement en contradiction avec son caractère, sa naissance, son rôle.V. 958.DiligenceSoin, prompte exécution.V. 1237.DiscrétionJudicieuse retenue, circonspection dans les paroles, les actions.V. 212, 271, 599, 720.EffetConséquence d'un fait. Désigne aussi la fin pour laquelle une action est accomplie.V. 114, 460, 1124, 1295, 1314, 1327, 1435, 1500, 1579, 1648.EmpêchementObstacle, opposition.V. 104, 1031, 1326.EnnuisChagrins, déplaisirs, malheurs.V. 268, 1221, 1500, 1571.ErroganceArrogance du latin ad-rogare (demander plus). Désigne l'insolence, la présomption.V. 161.FavoriQui a les bonnes grâces d'un Prince, d'une personne puissante, d'une maitresse, d'un supérieur à qui d'autres s'efforcent de plaire.Liste des personnages.FlammePassion amoureuse (d'après le dictionnaire de l'Académie française de 1687, troisième édition).V. 181, 421, 466, 725, 988, 1020, 1084, 1121, 1517, 1537, 1553, 1686.FoiEngagement, promesse.V. 180, 216, 431, 616, 1007, 1114, 1185.ForfaitCrime détestable.V. 1051, 1315.FortuneLe sort. Une bonne fortune désigne au XVII*e* siècle un succès galant.V. 342, 833, 1075.FunesteMalheureux, sinistre, qui porte* avec soi l'idée de mort, de ruine, de désolation*.V. 376, 509, 964, 1295, 1414, 1640, 1646.FureurViolent transport qui met une personne hors d'elle-même, faisant fi de toute retenue.V. 653, 1339, 1407, 1472, 1509, 1514, 1541, 1554, 1604, 1647.FurieEmportement manifesté avec éclat. Désigne à l'époque classique la passion violente.V. 269, 1256, 1297.GénérositéMagnanimité, grandeur d'âme.V. 447, 1283.GraceDésigne autant la qualité de quelqu'un de séduisant que le pardon, la faveur, l'aide.V. 124, 165, 267, 329, 689, 1480, 1634.GrandeurAura, distinction particulière dans l'ordre moral, spirituel et social. V. 261, 479, 1077.HaleineUne affaire ou une discussion de longue haleine demande beaucoup de temps et de soin.HarangueDiscours (souvent ennuyeux).V. 338.Heur (substantif masculin)Bonne fortune, bonheur.V. 76, 571, 900, 1419.HonteSentiment pénible d'humiliation devant autrui, d'indignité face à sa conscience ou par excès d'orgueil.V. 22, 72, 129, 650, 712, 837, 973, 1090, 1333, 1548, 1636.InférerTirer une  conséquence d'une certaine proposition.V. 1427.IngratQui n'a point de reconnaissance, qui ne tient pas compte des bienfaits reçus.V. 417, 473, 618, 1262, 1278, 1358, 1405, 1407, 1420.InsolentDésigne à l'époque classique l'orgueilleux, l'arrogant, l'audacieux. Terme lié au XVII*e* siècle à l'idée d'excès, d'injure, au manque de respect.V. 85, 947, 1245, 1344, 1618.LâcheMalhonnête, dépourvu de sentiment d'honneur. Également poltron.V. 178, 610, 649, 948, 1170, 1673.LangueurPeine, état d'abattement qui procède  d'un violent désir, d'amour.V. 624.LanguissantCelui qui languit, qui fait preuve de langueur (voire précédent).V. 637.LégitimeJuste, équitable, fondé en raison.V. 1280, 1320, 1485, 1579.MalaiséIci difficile.V. 323, 722.MéprisSentiment bas et injurieux envers une personne.V. 314, 496, 998.MériteCe qui est digne de louanges. Désigne aussi la vertu, une qualité excellente ou l'ensemble de bonnes qualités.V. 128, 150, 186, 541, 1035.Mouvement (cœur)Renvoie aux différentes impulsions, passions ou affections de l'âme.V. 1099.NonobstantMalgré.V. 39.OccurrenceOccasion.V. 905.OpiniâtreObstiné, entêté, attaché trop fortement à sa volonté.V. 109.OrdonnanceOrdre.V. 533, 912.PâmerTomber en défaillance, s'évanouir.PitoyableQui excite, est digne de pitié.V. 1498, 1661.PerfideTraître, déloyal, qui manque à sa foi, sa parole.V. 582, 614, 1262, 1356, 1428, 1449.PresseSubstantif féminin *la foule / verbe synonyme d'oppresser.*V. 77, 608.PrévenirEmpêcher, devancer quelqu'un dans une action.V. 176, 1443, 1444.QuantSuivi du datif, pour ce qui est…Quant et quant (adverbe)Ensemble, en même temps.V. 512, 628, 1299.RaviIci être transporté, pris dans la contemplation d'un objet extraordinaire.V. 645, 770, 1572.RemonstrerReprésenter à quelqu'un les inconvénients d'une cation qu'il a faite ou qu'il est sur le point de faire.V. 609, 647.RésoudreIci décider.V. 684, 756, 1116, 1274, 1581.RigueurSévérité, austérité, dureté.V. 263, 333, 997.Saison*Ici* hors de saison *signifie qui n'est pas à propos*.V. 332.SeinMétonymie qui renvoie au cœur, siège des pensées et des sentiments.V. 1051.SensibleQui a une disposition à être touché par quelque chose, qui ressent.V. 305, 478, 658, 1290, 1507.SouciPrends ce souci = occupe-toi de cette affaire.V. 339, 763, 1238.SuperbeOrgueilleux, vain.V. 55, 75, 436, 465, 519, 806.SuborneurQui induit à accomplir de mauvaise action, une action contre son devoir.V. 947.TacitementSans être formellement exprimé.V. 303.TéméraireD'une hardiesse imprudente, présomptueuse, inconsidérée.V. 59, 134, 993, 1269, 1520, 1545, 1618.TraitFlèche tirée à l'arc ou à l'arbalète.V. 526, 1207, 1558, 1619.TransportAutre mot pour Passion. Désigne aussi l'extase.V. 1501, 1524.TraverserIci faire obstacle à quelque chose, être au travers de quelque chose.V. 591.VertuDu latin *virtus* (la force), force d'âme, morale et puissance.V. 220, 1552.
+# Lexique d'après le corpus des dictionnaires de l'Académie française (XVII*e*-XX*e* siècles) et le dictionnaire de Furetière.AbaissementAction d'abaisser, de s'abaisser ou résultat de cette action. Humiliation volontaire ou forcée.V. 254.AppasDésigne tout ce qui attire, qui séduit.V. 297, 519, 700, 759.ArdeurAffection violente.V. 149, 419, 1076, 1337.ArmetSorte de casque, d'armure de tête.V. 605, 1470, 1614.AttraitParticipe passé substantivé du latin ad-trahere désignant un charme, une séduction, une puissance qui attire.V. 147, 248, 417, 783, 884, 963, 1057, 1325, 1417, 1423, 1508, 1620, 1631.BassaAutre mot pour Pacha, titre d'honneur donné en Turquie à des personnes considérables même sans pouvoir.Liste des personnages et v. 758BravacheFaux brave, fanfaron.V. 1605.ContentementSatisfaction.V. 143, 1143, 1396.CourageForce d'âme face aux épreuves, vertu morale.V. 473, 597, 734, 1264, 1473, 1576, 1606.CréditAutorité, pouvoir, considération.V. 327, 1215.CruautéDureté de cœur, insensibilité aux sentiments de quelqu'un dans le langage amoureux.V. 1320, 1555.DébileFaible.V. 1497.DédaignerRepousser, mépriser.V. 54, 435, 1449.DéférenceRespect, soumission.V. 170, 561.DéfianceSoupçon, crainte d'être trompé.V. 205, 1181.DésavouerNier.Dédicace, v. 884.DémentirIci agir indignement en contradiction avec son caractère, sa naissance, son rôle.V. 958.DiligenceSoin, prompte exécution.V. 1237.DiscrétionJudicieuse retenue, circonspection dans les paroles, les actions.V. 212, 271, 599, 720.EffetConséquence d'un fait. Désigne aussi la fin pour laquelle une action est accomplie.V. 114, 460, 1124, 1295, 1314, 1327, 1435, 1500, 1579, 1648.EmpêchementObstacle, opposition.V. 104, 1031, 1326.EnnuisChagrins, déplaisirs, malheurs.V. 268, 1221, 1500, 1571.ErroganceArrogance du latin ad-rogare (demander plus). Désigne l'insolence, la présomption.V. 161.FavoriQui a les bonnes grâces d'un Prince, d'une personne puissante, d'une maitresse, d'un supérieur à qui d'autres s'efforcent de plaire.Liste des personnages.FlammePassion amoureuse (d'après le dictionnaire de l'Académie française de 1687, troisième édition).V. 181, 421, 466, 725, 988, 1020, 1084, 1121, 1517, 1537, 1553, 1686.FoiEngagement, promesse.V. 180, 216, 431, 616, 1007, 1114, 1185.ForfaitCrime détestable.V. 1051, 1315.FortuneLe sort. Une bonne fortune désigne au XVII*e* siècle un succès galant.V. 342, 833, 1075.FunesteMalheureux, sinistre, qui porte* avec soi l'idée de mort, de ruine, de désolation*.V. 376, 509, 964, 1295, 1414, 1640, 1646.FureurViolent transport qui met une personne hors d'elle-même, faisant fi de toute retenue.V. 653, 1339, 1407, 1472, 1509, 1514, 1541, 1554, 1604, 1647.FurieEmportement manifesté avec éclat. Désigne à l'époque classique la passion violente.V. 269, 1256, 1297.GénérositéMagnanimité, grandeur d'âme.V. 447, 1283.GraceDésigne autant la qualité de quelqu'un de séduisant que le pardon, la faveur, l'aide.V. 124, 165, 267, 329, 689, 1480, 1634.GrandeurAura, distinction particulière dans l'ordre moral, spirituel et social. V. 261, 479, 1077.HaleineUne affaire ou une discussion de longue haleine demande beaucoup de temps et de soin.HarangueDiscours (souvent ennuyeux).V. 338.Heur (substantif masculin)Bonne fortune, bonheur.V. 76, 571, 900, 1419.HonteSentiment pénible d'humiliation devant autrui, d'indignité face à sa conscience ou par excès d'orgueil.V. 22, 72, 129, 650, 712, 837, 973, 1090, 1333, 1548, 1636.InférerTirer une  conséquence d'une certaine proposition.V. 1427.IngratQui n'a point de reconnaissance, qui ne tient pas compte des bienfaits reçus.V. 417, 473, 618, 1262, 1278, 1358, 1405, 1407, 1420.InsolentDésigne à l'époque classique l'orgueilleux, l'arrogant, l'audacieux. Terme lié au XVII*e* siècle à l'idée d'excès, d'injure, au manque de respect.V. 85, 947, 1245, 1344, 1618.LâcheMalhonnête, dépourvu de sentiment d'honneur. Également poltron.V. 178, 610, 649, 948, 1170, 1673.LangueurPeine, état d'abattement qui procède  d'un violent désir, d'amour.V. 624.LanguissantCelui qui languit, qui fait preuve de langueur (voire précédent).V. 637.LégitimeJuste, équitable, fondé en raison.V. 1280, 1320, 1485, 1579.MalaiséIci difficile.V. 323, 722.MéprisSentiment bas et injurieux envers une personne.V. 314, 496, 998.MériteCe qui est digne de louanges. Désigne aussi la vertu, une qualité excellente ou l'ensemble de bonnes qualités.V. 128, 150, 186, 541, 1035.Mouvement (cœur)Renvoie aux différentes impulsions, passions ou affections de l'âme.V. 1099.NonobstantMalgré.V. 39.OccurrenceOccasion.V. 905.OpiniâtreObstiné, entêté, attaché trop fortement à sa volonté.V. 109.OrdonnanceOrdre.V. 533, 912.PâmerTomber en défaillance, s'évanouir.PitoyableQui excite, est digne de pitié.V. 1498, 1661.PerfideTraître, déloyal, qui manque à sa foi, sa parole.V. 582, 614, 1262, 1356, 1428, 1449.PresseSubstantif féminin *la foule / verbe synonyme d'oppresser.*V. 77, 608.PrévenirEmpêcher, devancer quelqu'un dans une action.V. 176, 1443, 1444.QuantSuivi du datif, pour ce qui est…Quant et quant (adverbe)Ensemble, en même temps.V. 512, 628, 1299.RaviIci être transporté, pris dans la contemplation d'un objet extraordinaire.V. 645, 770, 1572.RemonstrerReprésenter à quelqu'un les inconvénients d'une cation qu'il a faite ou qu'il est sur le point de faire.V. 609, 647.RésoudreIci décider.V. 684, 756, 1116, 1274, 1581.RigueurSévérité, austérité, dureté.V. 263, 333, 997.Saison*Ici* hors de saison *signifie qui n'est pas à propos*.V. 332.SeinMétonymie qui renvoie au cœur, siège des pensées et des sentiments.V. 1051.SensibleQui a une disposition à être touché par quelque chose, qui ressent.V. 305, 478, 658, 1290, 1507.SouciPrends ce souci = occupe-toi de cette affaire.V. 339, 763, 1238.SuperbeOrgueilleux, vain.V. 55, 75, 436, 465, 519, 806.SuborneurQui induit à accomplir de mauvaise action, une action contre son devoir.V. 947.TacitementSans être formellement exprimé.V. 303.TéméraireD'une hardiesse imprudente, présomptueuse, inconsidérée.V. 59, 134, 993, 1269, 1520, 1545, 1618.TraitFlèche tirée à l'arc ou à l'arbalète.V. 526, 1207, 1558, 1619.TransportAutre mot pour Passion. Désigne aussi l'extase.V. 1501, 1524.TraverserIci faire obstacle à quelque chose, être au travers de quelque chose.V. 591.VertuDu latin *virtus* (la force), force d'âme, morale et puissance.V. 220, 1552.
 
 
-# Tableaux d'observations des personnages
+# Tableaux d'observations des personnages.
 
 
-## Nombre de répliques par acte et personnage d'après les travaux de Paul Fièvre (site theatre-classique.fr)
+## Nombre de répliques par acte et personnage d'après les travaux de Paul Fièvre (site theatre-classique.fr).
  Personnages  |  ACTE I  |  ACTE II  |  ACTE III  |  ACTE IV  |  ACTE V  |  Total 
  ERASTE | 6 | 8 | 0 | 9 | 0 | 23
  SOLIMAN | 27 | 22 | 15 | 18 | 8 | 90
@@ -2907,7 +2907,7 @@ Les exemplaires ont esté fournis
 
 
 
-## Tableau de présence des personnages
+## Tableau de présence des personnages.
 SCENES | ACTE I | ACTE II | ACTE III | ACTE IV | ACTE V
 1 | SOLIMAN, ERASTE, HERMINIE, Suite | SOLIMAN, HERMINIE, ACHMAT, PYRRHUS | HERMINIE, ALCOMIRE | HERMINIE, ACHMAT | ALCOMIRE, PYRRHUS
 2 | SOLIMAN, HERMINIE, Suite | SOLIMAN, HERMINIE | ALCOMIRE, ACHMAT | ACHMAT | ACHMAT
@@ -2943,7 +2943,7 @@ Alcomire : 4
 Ormane : 2
 
 
-# De l'histoire aux fictions : extrait de la généalogie des sultans de la maison d'Osman (d'après la biographie de Clot André)
+# De l'histoire aux fictions : extrait de la généalogie des sultans de la maison d'Osman (d'après la biographie de Clot André).
 
 Osman I (+1326)
 
@@ -3007,12 +3007,12 @@ Il aurait été insuffisant de parler de Soliman sans évoquer la personnalité 
 Ces aspects contrastes et de Soliman et d'Ibrahim traversent les siècles jusqu'à aujourd'hui : la série turcque *Muhteşem Yüzyıl* les exploite dans un esprit assez fidèle à la tradition historique.
 
 
-# œuvres de Desfontaines
+# œuvres de Desfontaines.
 
 Cette bibliographie a été effectuée d'après le site cesar.org.uk et les travaux de Loraine Pierron.
 
 
-## Oeuvres romanesques
+## Oeuvres romanesques.
 
 *Les Heureuses Infortunes de Céliante et Marilinde*, Veuves-Pucelles, 1638
 
@@ -3021,7 +3021,7 @@ Cette bibliographie a été effectuée d'après le site cesar.org.uk et les trav
 *L'Inceste innocent*, 1658
 
 
-## Oeuvres théâtrales
+## Oeuvres théâtrales.
 
 *Eurymédon ou l'Illustre Pirate*, 1637
 
@@ -3050,7 +3050,7 @@ Cette bibliographie a été effectuée d'après le site cesar.org.uk et les trav
 *La Véritable Sémiramis*, 1647
 
 
-## Oeuvres poétiques
+## Oeuvres poétiques.
 
 *Sonnet liminaire aux passions égarées, de Richemont-Banchereau*, 1632
 
@@ -3067,10 +3067,10 @@ Desfontaines a également traduit des textes italiens.
 Ce compte-rendu, quoique modeste, dénote toutefois la richesse et la diversité de l'Opus de Desfontaines.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Outils de la langue française
+## Outils de la langue française.
     Lexique des termes littéraires
 Dictionnaire historique de la langue française
 Le Nouveau Petit Robert 2009
@@ -3078,7 +3078,7 @@ Introduction à la langue française du XVII*e* siècle
 
 
 
-## Études
+## Études.
     Turcs et Turqueries (XVIème-XVIIIème siècles)
 Morales du grand siècle
 Le Théâtre français du XVII*ème* siècle
@@ -3090,18 +3090,18 @@ Pour en finir avec la Croisade / Mythes et réalités de la lutte contre les Tu
 
 
 
-## Travaux de recherches
+## Travaux de recherches.
     Représentation de la tyrannie dans les tragédies à sujet turc du Grand Siècle français
 d'Eurimédon ou l'Illustre Pirate
 
 
 
-## Biographie
+## Biographie.
     Soliman le magnifique
 
 
 
-## Oeuvres du XVI*e*- XVII*e*-XVIII*e* siècle
+## Oeuvres du XVI*e*- XVII*e*-XVIII*e* siècle.
     L'Histoire universelle, sacrée et profane, depuis le commencement du monde jusqu'à nos jours
 Ibrahim ou l'Illustre Bassa
 Le Grand  Dictionnaire historique
@@ -3110,7 +3110,7 @@ Le Printemps D'Yver
 
 
 
-## Filmographie
+## Filmographie.
 
 Mario Tota Vitroslav Mimica, SOLIMANO IL CONQUISTATORE, Film 1961
 

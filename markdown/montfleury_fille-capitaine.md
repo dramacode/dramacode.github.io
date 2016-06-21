@@ -17,52 +17,52 @@ A PARIS, Chez PIERRE LE MONNIER, vis-à-vis la Porte de l'Eglise de la Sainte Ch
       master 1 sous la direction de Georges Forestier (2012-2013)
 
 
-# L'auteur et son œuvre
+# L'auteur et son œuvre.
 
 
-## Biographie et carrière théâtrale
+## Biographie et carrière théâtrale.
 
 Antoine Jacob Montfleury est né en 1639 à Paris [1] de l'union du célèbre comédien de l'Hôtel de Bourgogne, Zacharie Jacob dit Montfleury [2], et de « l'actrice, veuve et fille de comédiens » Jeanne de la Chappe [3]. Licencié en droit, il est reçu avocat au Parlement en 1660. Mais sa carrière dans ce domaine est écourtée par son goût pour le théâtre: la même année il compose sa première pièce en un acte, *le Mariage sur rien*, qu'il signe « Antoine Jacob, advocat au parlement ». Victor Fournel indique que cette signature constitue « la seule trace qu'il ait laissée de son passage au barreau [4]». L'environnement familial rend propice son introduction dans le milieu du théâtre. En effet, grâce à son père, il naît quasiment dans la troupe de l'Hôtel de Bourgogne, de telle sorte que le 5 février 1665 il épouse la fille du célèbre comédien Flodilor [5], dirigeant de la troupe, Marie-Marguerite de Soulas, dont il eut un enfant, Mademoiselle le Plessis [6]. Partageant le même patronyme que son père, l'histoire littéraire tend à confondre les deux hommes, si bien que, Adrian Braakman dans l'édition de 1697 des *Œuvres de Montfleury*, réunit en une seule et même personne le père et le fils. Christophe David en fait de même dans l'édition de leurs œuvres en deux volumes (*Œuvres de M. Montfleury*, format in-12 Paris, 1705). Il faut attendre l'édition de 1739 du *Théâtre de Messieurs de Montfleury Père et fils* (Paris) établie par La Compagnie des Libraires pour que cet amalgame soit corrigé.
 
 Sa production théâtrale s'étend de 1660 à 1678, période pendant laquelle il écrivit en moyenne une pièce par an. On recense 17 pièces de sa production, parmi lesquelles on compte deux tragi-comédies, *Trasibule* (1663), et *L'Ambigu Comique* (1673), qui comporte des intermèdes comiques. Il coécrit avec Thomas Corneille en 1673 une comédie en 5 actes, *Le Comédien Poète*. L'échec de *Trigaudin ou Martin Braillart* en 1674 marque le déclin de sa carrière. Après 3 ans sans production théâtrale, il signe deux dernières pièces, *Crispin Gentilhomme* en 1677 et *La Dame médecin* en 1678, deux comédies en cinq actes, avant d'abandonner l'écriture pour embrasser une nouvelle carrière, dans le domaine de la finance. En 1678, il accepte la charge que Colbert lui confie, à savoir faire le recouvrement des sommes que le Parlement de Provence devait au roi. Satisfait de son travail, le Ministère le rappela à Paris en 1684 pour lui proposer un poste dans les Fermes Générale. Mais son état de santé s'aggrava et il mourut à Aix le 11 octobre 1685.
 
 
-## Rivalité avec Molière
+## Rivalité avec Molière.
 
 Si l'histoire littéraire ne se rappelle pas bien de Montfleury, c'est parce qu'il fut contemporain de Molière. Leurs carrières respectives se chevauchent [7], et on observe quelques similitudes quant aux thèmes traités dans leurs pièces : Lancaster prend note de cette analogie [8], mais semble donner l'ascendant à Molière [9]. La rivalité entre les deux hommes se concrétise sur la scène parisienne lorsque Molière, en novembre 1663, raille le jeu d'acteur de Montfleury père dans *l'Impromptu de Versailles* (I,1). Montfleury fils riposte un mois plus tard avec *l'Impromptu de l'Hôtel de Condé* où il parodie les déclamations tragiques de Molière.
 
 La critique lui reproche son style grossier, la crudité du langage, et les scènes à la limite de la bienséance [10]. Le thème de l'adultère est récurrent : on le retrouve dans *Le Mary sans femme* (1663), *la Femme juge et partie* (1669), *le Gentilhomme de Beauce* (1670) et *La Fille Capitaine* (1672). Si la postérité sera sévère, le public de son temps a su apprécier ses pièces à leur juste titre : *Le Mercure Galant* du mois d'août 1705 rapporte l'engouement du public pour *La Fille Capitaine* et pour *la Femme juge et partie* [11]. Les critiques du XIX*e* [12] lui reconnaissent un talent de dramaturge qui a su plaire au public par la maîtrise de la modeste comédie d'intrigue. N.-M. Bernardin justifie le jugement sévère de la communauté littéraire en disant que « ce qui a nui surtout dans l'esprit de la critique à Montfleury … c'est qu'il a eu le malheur d'être le contemporain de Molière et l'imprudence de prétendre être son rival ». [13] Montfleury n'en reste pas moins un auteur talentueux de son temps, qui mérita tout de même de susciter quelques études à son sujet, notamment celle de Walter Rohr [14].
 
 
-# La Fille Capitaine
+# La Fille Capitaine.
 
 Nous avons vu jusqu'ici le paradoxe qu'il y a entre la critique, sévère à l'égard de cet auteur, et le public, dont l'engouement pour les pièces de Montfleury nuance le tableau dépeint par ses contemporains. Avant d'examiner plus en détails l'objet de notre étude, il semble préférable d'exposer le résumé, aussi détaillé fut-il, afin d'avoir une vue d'ensemble de la pièce et de mieux en comprendre l'intrigue.
 
 
-## Argument de la pièce
+## Argument de la pièce.
 
 
-### Acte I
+### Acte I.
 
 La scène se passe à Paris. Angélique, dont le père est parti pour Saint-Germain, annonce à sa cousine Lucinde qu'elle vient passer huit jours chez elle. Lucinde, quant à elle, attend le retour de son frère, Capitaine dans le Régiment du Roy. La jeune femme est amoureuse de Damon qui l'aime aussi, est tous deux attendent le retour du frère afin qu'il donne son aveu pour leur mariage. Les deux parentes, bien qu'elles soient complices, n'ont pas la même vision des hommes et de l'amour : Angélique expose une vision très libertine du mariage et s'amuse dans la raillerie, tandis que Lucinde croit en les valeurs du mariage et de l'engagement (scène 1). Damon arrive, désespéré par l'attente de ce frère qui tarde à arriver. Angélique se réjouit à l'idée d'aller danser (scène 2). Cato, la suivante de Lucinde entre à son tour, et crée une fausse joie en annonçant l'arrivée de L'Espérance, sergent du frère de Lucinde qui sert aussi dans le Régiment du Roi (scène 3). Celui-ci apporte un billet de la part du Capitaine à Lucinde. Il explique que la Compagnie revient de Flandre, et que le frère de Lucinde, ayant trop bu la veille, aura un jour de retard. L'Espérance est à Paris pour mener une Recrue, c'est-à-dire trouver vingt hommes et en faire des soldats En attendant le retour du frère, Damon décide d'aller demander l'aveu de son oncle pour son mariage (scène 4). Cato emmène L'Espérance se désaltérer, ils sortent tous les deux (scène 5). Lucinde et Angélique se retrouvent de nouveau seules. Lucinde confie son inquiétude à sa cousine à propos de l'aveu de l'oncle de Damon. Elle lui révèle que celui-ci est aussi amoureux d'elle et qu'il est marié. Elle dresse un portrait risible de ce Monsieur le Blanc et avoue qu'elle a caché à Damon cette affaire de peur de brouiller les deux hommes. Elle craint qu'il ne s'oppose à son union avec le jeune homme. Etant aussi son tuteur, elle s'inquiète quant à la fortune de Damon. Angélique, qui se rit de cette situation, envisage de berner ce galant. Monsieur le Blanc arrive et elles partent toutes deux de peur de le rencontrer (scène 6). Monsieur et Madame le Blanc font leur entrée. Le couple se dispute : Madame le Blanc, qui est une femme aimante, reproche à son époux ses nombreuses sorties. Monsieur le Blanc raille son épouse et la congédie (scène 7). Il se plaint dans un monologue de l'amour étouffant qu'elle lui porte (scène 8). Damon arrive et fait part de son projet de mariage à son oncle, lequel le met en garde sur la réalité d'une telle entreprise. Damon révèle l'identité de Lucinde, et Monsieur le Blanc, au deuxième hémistiche du même vers, fait l'aveu en aparté de son amour elle. L'oncle s'emporte et refuse cette union, mise en péril par le mode de vie léger de son neveu, et finit par le congédier (scène 9).
 
 
-### Acte II
+### Acte II.
 
 Lucinde parle avec sa suivante, Cato, qui s'étonne de cette situation, expose le plan d'Angélique pour berner le galant : celle-ci va se déguiser avec les habits du Capitaine. On comprend que tous les personnages ont un rôle à jouer dans ce stratagème, même Madame le Blanc qui arrive avec Damon. Les deux femmes se saluent et échangent des politesses. Angélique entre à son tour, déguisée en Capitaine et déjà dans son rôle. Tous la complimentent sur sa tenue, mais bientôt La Brie, le laquais de Damon, vient annoncer la venue de Monsieur le Blanc. Tous sortent à l'exception de Cato qui doit le recevoir. La suivante accueille le galant et l'informe du prétendu amour de sa maîtresse pour lui. Celui-ci, pressé de la voir, est ralenti dans ses projets lorsque Cato lui apprend que Lucinde s'entretient avec son frère, un Capitaine du Régiment du Roi. Monsieur le Blanc, prit de peur, souhaite partir, mais Cato le retient prétextant la déception de sa maîtresse. Elle lui propose alors de le cacher si le Capitaine s'approche. Il se lamente quelques instants, puis Cato revient accompagnée de Lucinde. Pendant que la suivante veille à ce que le Capitaine n'approche pas, Lucinde et Monsieur le Blanc s'entretiennent. Mais bientôt Cato revient alertant que « le Capitaine » vient, et décide de cacher Monsieur le Blanc. Angélique fait son entrée, e présence du galant caché, et interroge Cato sur la conduit de sa sœur pendant son absence. Ses menaces envers les Galants effrayent Monsieur le Blanc. Mais bientôt le Capitaine exprime son désir de revoir une ancienne maîtresse, la femme d'un bourgeois, et charge Cato de la lui amener. L'Espérance fait son entrée l'informant qu'il n'a trouvé que dix-neuf hommes bien bâtis pour la Recrue. Cato revient accompagnée de Madame le Blanc, l'ancienne maitresse du Capitaine. Monsieur le Blanc toujours caché ne peut agir et enrage. Tous partent et il peut enfin sortir de sa cachette. Cato revient et Monsieur le Blanc lui confie qu'il est à la disposition de Lucinde. Il part laissant Cato seule qui jubile de cette situation.
 
 
-### Acte III
+### Acte III.
 
 Lucinde, à la recherche de Cato, rencontre Angélique qui l'informe que Cato est partie en ville porter un billet de sa part à Monsieur le Blanc. Lucinde reproche à Angélique sa légèreté et s'inquiète à propos de Madame le Blanc, qui semble, pour son époux, être infidèle. Angélique se défend de ses reproches et garde le silence quant à la suite des évènements. Elles quittent la scène lorsque Monsieur le Blanc arrive ; il réfléchit aux moyens de punir sa femme sans en trouver aucun. Damon et Madame le Blanc entrent alors. Le mari s'emporte contre sa femme de laquelle Damon prend la défense. Tous deux reprochent au présumé cocu de ne pas s'être manifesté lors de l'entretien et l'accusent d'avoir rêvé. Madame le Blanc part ; Damon expose l'alibi de sa tante : elle était chez sa sœur avec lui. Monsieur le Blanc sur les conseils de son neveu décide alors de ne pas s'emporter davantage mais d'attendre la confirmation de cet adultère afin de se venger. Monsieur le Blanc reste seul et Cato arrive alors lui porter le billet prétendument écrit par Lucinde. Son contenu semble confirmer les sentiments de la jeune femme à l'égard du vieil homme. Il demande aussi à Cato de lui arranger un entretien avec la maîtresse du Capitaine, sa Femme. Il la paye en lui donnant sa bague.
 
 
-### Acte IV
+### Acte IV.
 
 L'Espérance, seul sur scène, se réjouit de sa Recrue et vante les avantages de la vie de militaire. Cato arrive et l'informe qu'Angélique a besoin de lui pour berner une fois de Monsieur le Blanc. L'Espérance fait part à Cato de son amour pour elle. La suivante le repousse et il sort. Elle reste seule, pestant contre lui. Madame le Blanc entre, et Cato l'informe qu'un autre Galant souhaite l'entretenir. D'abord indignée, elle reconnait la bague de son mari. Elle craint que la farce ne soit allée trop loin, mais Cato la rassure. Elle quitte la scène et Monsieur le Blanc fait son apparition. Cato va chercher Lucinde. La jeune fille avoue son amour pour lui, et souhaite se marier au plus vite. Monsieur le Blanc, prudent, lui soumet l'idée d'une union non légitime mais spirituelle, à laquelle Lucinde consent. Angélique déguisée en Capitaine entre folle de rage et menace de son épée Monsieur le Blanc. Lucinde tente de le défendre en lui exposant leur amour mais « le Capitaine » reste inflexible. Alors elle évoque la fortune du galant et Angélique rengaine, au grand soulagement de Monsieur le Blanc. Elle appelle alors L'Espérance et lui ordonne d'aller chercher un notaire pour les marier sur l'heure. Monsieur le Blanc tente de repousser l'échéance par tous les moyens mais « le Capitaine » refuse, prétextant son départ imminent. Il avoue finalement être déjà marié et le Capitaine entre décide de le tuer. L'Espérance parvient à raisonner son maître en lui proposant de faire enrôler l'escroc. Monsieur le Blanc, terrifié, ne peut que se soumettre.
 
 
-### Acte V
+### Acte V.
 
 Lucinde et Damon s'entretiennent. Ils sont rassurés par l'arrivée de son frère le soir même. Angélique et Madame le Blanc les rejoignent. La dame s'inquiète pour Angélique, lorsqu'elle sera démasquée. L'Espérance entre à son tour, les informant qu'il a laissé Monsieur le Blanc avec les autres soldats. Tous se cachent lorsque celui-ci arrive, se plaignant de son sort. Cato vient alors, en pleurs, l'informant du triste sort que le Capitaine a fait à sa sœur : Lucinde est condamnée à passer sa vie au Couvent. Elle lui rapporte aussi que la maîtresse du Capitaine est ici, pour calmer la colère du soldat. Cato va la chercher, et L'Espérance fait son entrée, bousculant Monsieur le Blanc. L'homme lui demande de différer le départ et devant le refus de son supérieur, le soudoie. L'Espérance part avec l'argent et Cato entre avec Madame le Blanc. Monsieur le Blanc se fait passer pour le Capitaine pour piéger sa femme. Sûr de l'infidélité de son épouse, il dévoile son identité et se met en colère, ce qui fait fuir sa femme. Cato arrive alors, inquiète des cris qu'elle a entendus ; puis Damon la rejoint. Le jeune homme s'étonne de l'accoutrement de son oncle et décide de parler au Capitaine. Angélique entre et s'excusant de s'être emportée contre Monsieur le Blanc, oncle de Damon, décide de le laisser en paix, et consent au mariage entre les deux jeunes gens. Mais Monsieur le Blanc s'oppose toujours à ce mariage, invoquant l'infidélité de sa femme avec le Capitaine. Angélique fait alors venir Madame le Blanc et veut l'embrasser devant son époux. Celui-ci entre dans une colère noire, et tout le monde révèle alors la supercherie. Angélique se démasque, ce qui innocente Madame le Blanc. Lucinde entre enfin pour annoncer la venue de son frère.
 
@@ -72,15 +72,15 @@ Lucinde et Damon s'entretiennent. Ils sont rassurés par l'arrivée de son frèr
 Le titre, *la Fille Capitaine*, fait directement référence au personnage d'Angélique. En effet, la jeune femme, pour piéger Monsieur le Blanc et permettre à sa cousine Lucinde d'évincer cet obstacle à son union avec Damon, revêt les habits de son frère. Mais ce personnage n'est pas le centre de la pièce. Bien que l'action gravite autour d'elle, et que celle-ci se démarque comme metteur en scène et maître des opérations, la pièce a pour objet la mise en déroute du barbon. Angélique en se déguisant, n'est qu'un moyen pour y parvenir. Les autres personnages, notamment les serviteurs, sont tout aussi importants dans la mesure où ils prennent tous part à la duperie. De plus, Angélique, en terme de présence sur scène, n'occupe que la troisième marche du podium. [15] On peut se demander si Montfleury ne s'est pas contenté de traduire simplement le titre espagnol, déçu que l'appellation de* Cocu imaginaire* [16] fut déjà attribuée à une autre pièce.
 
 
-# Les origines de l'œuvre
+# Les origines de l'œuvre.
 
 
-## *La Dama capitan* : source principale
+## *La Dama capitan* : source principale.
 
 Prosélyte de la langue de Cervantès et averti de la richesse de la production dramatique espagnole, Montfleury s'est inspiré à plusieurs reprises de pièces espagnoles pour écrire les siennes. En effet, *la Femme juge et partie* (1669) est une adaptation de *la Dama corregidor* de Villaviciosa Zabaleta ; il en est de même pour *la Fille capitaine* (1672) qui est inspirée et largement adaptée de *la Dama capitan* (1671) de Don Diego et Don Joseph de Figueroa y Cordova [17]. La proximité temporelle des deux œuvres laisse à penser que le dramaturge français a voulu s'inscrire tardivement dans le genre de la comédie à l'espagnole. Avant d'entreprendre une tentative de comparaison [18] entre les deux œuvres, il semble préférable de préciser ce qu'est la comédie à l'espagnole.
 
 
-## La comédie à l'espagnole
+## La comédie à l'espagnole.
 
 Ce courant théâtral surgit en France à la fin des années 1630 et peut se définir comme étant l'adaptation de pièces espagnoles sur la scène française. Les relations étroites entre l'Espagne et la France au XVII*e* siècle favorise l'émergence de ce type de pièces. C. Grell et B. Pellistrandi, dans leur ouvrage* Les Cours d'Espagne et de France au XVII*e* siècle*, préfèrent parler « de passage du relais entre les deux puissances catholiques » plutôt que de la prépondérance du Grand Siècle français sur le Siècle d'Or espagnol. En effet, l'alliance entre Louis XIII et Anne d'Autriche, qui fait de l'infante d'Espagne la reine de France et de Navarre de 1615 à 1643, et la présence de courtisans espagnols à la Cour du roi, permet le développement de l'intérêt pour la culture espagnole, lequel est doublé de liens commerciaux étroits avec la péninsule ibérique. Ajoutons à cela la pratique assidue de la langue espagnole dans certaines villes de France, notamment à Rouen et à Nantes, où l'on « parle, rédige et lit l'espagnol ». [19] Cependant, les quelques représentations de *comedias* données à Paris par des troupes espagnoles rencontrèrent peu de succès. La *comedia* espagnole est véritablement importée en France par le géographe Antoine d'Ouville, lequel après avoir passé plusieurs années en Espagne, propose à son retour en France de « transformer la pièce espagnole en une comédie française faisant disparaître au passage son étiquette d'origine » [20]. La comédie à l'espagnole montre la survivance d'éléments espagnols dans leur transformation. En Espagne, pendant le Siècle d'Or, le théâtre est un pilier du divertissement : il y a véritablement une culture dramatique comme l'explique Farida Hofer y Tunon, « le théâtre se développe avec la société qu'il a pour but de divertir ». En France au XVII*e* siècle, le théâtre n'a pas cette fonction de « liant collectif », d'après l'expression de R. Muchembled. Au début du XVII*e* siècle, Paris n'abrite pas de théâtre stable, à l'exception de l'Hôtel de Bourgogne, fondé en 1548, mais qui demeure encore la propriété des Confrères de la Passion [21]. La bonne société parisienne du XVII*e* siècle se divertit dans les salons sous l'impulsion de la mode lancée par la Marquise de Rambouillet, laquelle, dès 1618, se fait connaître par ses réceptions dans sa « Chambre Bleue ». Mais l'intérêt de Richelieu et du Roi étant tout autre, un processus d'anoblissement du théâtre est entamé, via des lois réhabilitant des comédiens et la généralisation des représentations de spectacles de théâtre à la Cour et dans Paris. La popularisation dans les années 1620 des tragédies, tragi-comédies et des pastorales, ainsi que l'augmentation du prix de l'entrée pour le parterre, qui s'élevait à 5 sols en 1630 et qui triplera jusqu'en 1660, témoignent de la réussite de l'entreprise de Richelieu qui parvient à faire du théâtre un « liant collectif ». Ainsi, J. Scherer écrit que « quand s'achève le demi-siècle pré-classique, le théâtre est … devenu un phénomène social de premier plan. »
 
@@ -93,29 +93,29 @@ Stucture des comédies à l'espagnole : l'ouvrage de référence sur la composi
 La structure interne des *comedias* ne se distingue pas fondamentalement de celle des comédies françaises dans la mesure où Lope de Vega ne suit que de très loin les préceptes d'Aristote. Mais bien qu'il soit quelques fois question des trois unités, on relèvera que celles-ci sont traitées avec plus de souplesse en vue d'une adaptation avec les contraintes du genre théâtral. En effet, si l'unité d'action est présente dans l'ouvrage du dramaturge espagnol, l'unité de temps et de lieu ne sont qu'esquissées. Le changement de tableau et le séquençage d'une œuvre en journées impliquent une plus grande maniabilité des paramètres spatio-temporels.
 
 
-## Argument de la Dama capitan
+## Argument de la Dama capitan.
 
 Avant d'exposer le sujet de la pièce de Don Diego et Don Joseph de Figueroa y Cordova, il est d'important de préciser les difficultés rencontrées au cours de notre étude. En effet, aucune traduction de cette œuvre n'ayant été établie auparavant, l'une des difficulté majeure de cette édition critique a été de lire, de comprendre et de transposer le plus fidèlement possible le propos espagnol. Avec l'aide d'une étudiante en espagnol, nous sommes parvenue à esquisser une traduction en prose [41].
 
 *La Dama capitan* se découpe en trois journées, conformément à l'usage espagnol, et compte un peu plus de quatorze personnages [42].
 
 
-### Première jornada
+### Première jornada.
 
 Dona Elvira, une jeune femme noble, s'enfuit de chez elle avec sa suivante, Dona Lucia. Dona Elvira exprime à sa confidente son intime conviction d'être née pour de plus grandes choses que celles auxquelles la cantonnent son sexe; elle sent en son cœur une ferveur masculine qui la fait aspirer à accomplir des actions nobles et guerrières, des actions d'homme. Dona Lucia se montre compréhensive envers sa maîtresse : elle dénonce l'éducation de la tutrice de Dona Elvira, tutrice qui se trouve être sa tante -en effet, on apprend dans ce récit rétrospectif que les parents de la jeune fille sont morts. La parente est présentée comme une harpie qui n'éleva sa nièce que dans le but de la faire rentrer au couvent. Dona Elvira fait part de l'objet de sa fuite : retrouver le Comte de Fuentes à San Sebastian et se joindre à ses hommes pour partir en campagne dans les Etats de Flandres. Cependant, la suivante émet quelques inquiétudes à ce sujet : elle craint que la jeune femme ne rencontre son frère, Don Fernando de Vergara, capitaine dans l'armée, et qu'elle ne soit démasquée. Dona Elvira assure que s'ils venaient à se rencontrer, il ne la reconnaîtrait pas car il ne l'a pas revue depuis l'enfance. La conversation entre les deux jeunes femmes est interrompue par l'arrivée de deux muletiers [43]. Après l'affront sur l'honneur d'un des personnages, Dona Elvira, déguisé en homme, dégaine son épée. Une scène de combat commence alors, et les quatre personnages sont bientôt rejoins par deux brigands. Les jeunes femmes parviennent à s'enfuir après avoir poignardé leurs adversaires. Entrent alors le Sergent Palomo et l'aubergiste Juana. Le soldat déclare sa flamme à la jeune fille, indifférente à ses plaintes. Dona Elvira/Lope et Dona Lucia/Martin viennent à la rencontre de la jeune aubergiste, qui tombe sous le charme de Don Lope, et obtiennent un gîte pour la nuit. Le Sergent ayant assisté à cette scène de séduction, il se bat avec les deux jeunes gens et ils quittent la scène en croisant le fer. Don Fernando de Vergara entre avec le Baron. Le Capitaine confie son amour pour Madame Bianca. Don Lope et Don Martin reviennent sur scène, et les quatre personnages assistent à l'arrivée d'un cortège de fête. Don Fernando et Don Lope ramassent en même temps une rose tombée, et débutent une joute verbale. Don Elvira/Lope reconnaît son frère grâce au Comte de Fuentes, lequel veut faire pendre le jeune homme. Don Elvira/Lope, par un plaidoyer, parvient à faire valoir sa condition de civil, et le Comte l'enrôle dans l'armée.
 
 
-### Deuxième jornada
+### Deuxième jornada.
 
 Le deuxième tableau s'ouvren sur une scène de combat entre deux armées. Don Elvira/Lope est tombée au front, blessée, mais ramène deux drapeaux, symbole de victoire. Le Comte de Fuentes, après avoir loué les qualités guerrières de Don Fernando, fait l'éloge de la bravoure de Don Lope. Après un discours sur la bataille qui vient d'avoir lieu, entrent Madame Blanca et Julia, sa suivante. La jeune noble tombe sous le charme de Don Lope et la scène s'achève sur un quatuor amoureux. En effet, Madame Blanca est éprise de Don Elvira/Lope, alors que Don Fernando est épris d'elle.
 
 
-### Troisième jornada
+### Troisième jornada.
 
 C'est au Comte de Fuentes de décider qui de Don Fernando ou Don Lope obtiendra la main de Madame Blanca. Après avoir défendu sa flamme, Don Fernando doit accuser la décision du Comte qui est de donner la belle à son rival. Madame Blanca s'accommode de cette décision mais ne reste pas insensible au plaidoyer du capitaine. Don Elvira/Lope décide alors de rétablir la vérité : en se démasquant elle offre la main de la jeune femme à son frère.
 
 
-## L'habit français
+## L'habit français.
 
 Il s'agit maintenant de relire la pièce de Montfleury à la lueur de la source espagnole. Pour illustrer notre propos, un tableau comparatif nous a semblé plus clair et explicite qu'une diatribe.
 La Dama capitan (1671), Don Diego et Don Joseph de Figueroa y Cordova | La Fille Capitaine (1672), Montfleury
@@ -146,7 +146,7 @@ Le brave L'Esperance entend à demy-mot. (V, 3, v. 1400-1405)
 De même, un quiproquo amoureux est mis en scène dans les deux œuvres, à la différence que dans *la Dama capitan* il est involontaire, alors que dans la pièce de Montfleury, le quiproquo est provoqué et, comme le déguisement, permet de confondre Monsieur le Blanc. L'originalité de Montfleury a été de donner l'illusion au public que sa pièce était le fruit de l'improvisation de ses personnages.
 
 
-## Sources annexes
+## Sources annexes.
 
 Outre la source espagnole, on peut déceler dans l'œuvre de Montfleury une forte intertextualité avec quelques œuvres contemporaines du XVII*e* siècle. En effet, la scène 1 de l'acte I n'est pas sans rappeler la scène d'ouverture de *La Place Royale* (1634) de Corneille [45], dans laquelle deux amies, Angélique et Phyllis s'entretiennent au sujet de l'amour. Dans *la Fille Capitaine*, Angélique se rapproche plus par son discours de Phyllis que d'Angélique. Comme le personnage de Corneille, la jeune femme n'est promise à personne et revendique cette liberté. Lucinde est dans une situation similaire à l'Angélique de Corneille : éprise d'un jeune homme, elle envisage de l'épouser. Les deux jeunes femmes sont aussi courtisées par un autre prétendant, parent d'un autre personnage : Monsieur le Blanc, l'oncle de Damon, dans la pièce de Montfleury, Doraste, le frère de Phyllis, dans *la Place Royale*. Le discours d'Angélique dans l'œuvre de Montfleury fait écho à celui de Phyllis en plusieurs points : toute deux se méfient du mariage et du joug de l'époux.
 Phyllis Je ne me pique point de cette vanité, Et l'exemple d'autrui m'a trop fait reconnaître Qu'au lieu d'un serviteur c'est accepter un maître. | Angélique Sous un joug que je crains, mon esprit languiroit ; Je me fais des plaisirs que l'Hymen⁎ troubleroit ; On ne sçait ce qu'on fait souvent quand on se donne ;
@@ -191,22 +191,22 @@ Si l'on n'y tient la main, donne plus d'une affaire. (Monsieur le Blanc, I, 1, v
 Enfin, on relèvera le même schéma satisfaction /révélation /consternation dans *la Fille Capitaine*, lequel est signalé par les monologues de Monsieur le Blanc [47], notamment dans les scènes 8, 9, et 10 de l'acte un. En effet, dans *l'Ecole des Femmes*, Arnolphe, comme Monsieur le Blanc, change de discours au gré des situations. La pièce est rythmée par cette séquence ternaire : Arnolphe, heureux d'avoir trouvé en Agnès une femme sotte (I, 1), déchante lorsque Horace lui révèle son intrigue amoureuse avec la jeune femme (I, 4). Il exprime son désarroi dans un monologue qui clôture l'acte. Dans notre pièce, le même schéma est observé : Monsieur le Blanc, satisfait de s'être acquitté de ses devoirs conjugaux (I, 8), rencontre son neveu qui sollicite son aveu pour son mariage avec Lucinde (I, 9). Après avoir exposé les motifs de son refus, l'oncle exprime son trouble dans un monologue (I, 10). Cette configuration se répète à l'acte II, lorsque sa joie de pouvoir s'entretenir avec Lucinde est rapidement réfrénée par le spectacle de son épouse en train d'être courtisée par « le Capitaine ». La répétition de ce schéma doublée du motif de la cachette, où le personnage est dans l'impossibilité d'agir, crée un comique de situation : le personnage est pris à son propre piège.
 
 
-# Construction de la pièce
+# Construction de la pièce.
 
 Après avoir passer en revue les différentes sources de notre pièce, nous avons entrepris de dégager son squelette que nous avons essayé de ramener aux trois unités.
 
 
-## Structure de la pièce
+## Structure de la pièce.
 
 La structure et le sujet de la pièce permettent d'éviter de tomber dans l'écueil de la langueur. Divisée en 5 actes, conformément aux conventions de la tradition classique, la composition de la pièce varie en densité et en nombre de scènes au sein de chaque acte. L'acte I est sensiblement le plus long : il s'étend sur 400 vers, lesquels sont répartis de façon inégale en 10 scènes. Les actes II, IV, et V [48] comportent entre 300 et 340 vers ; les actes II et V sont divisés en 15 scènes, et l'acte IV en 9 scènes. L'acte III est le plus court : 272 vers répartis sur 6 scènes. On peut dégager 3 grands mouvements dans la pièce : l'exposition, les stratagèmes, et le dénouement.
 
 
-### L'exposition
+### L'exposition.
 
 C'est le premier acte qui prend en charge cette exigence du genre théâtral. L'exposition s'étend sur les 6 premières scènes et peut-être divisée en deux parties : l'exposition conventionnelle, et la révélation. En effet, les 4 premières scènes présentent la majorité des personnages et leurs relations entre eux, qu'elles soient de parenté, pour Lucinde et Angélique, ou amoureuse, pour Damon et Lucinde. Le binôme des serviteurs, Cato et l'Espérance, est introduit. La pièce commence assez communément : le mariage entre deux jeunes gens est retardé par un obstacle, l'absence du frère de Lucinde. Or la scène 6, scène centrale de l'acte où Lucinde avoue à Angélique la sollicitation de l'oncle de Damon à son égard, fait prendre à la pièce un nouveau tournant. « C'est que ce Parent est amoureux de moy ». Cette révélation déplace le centre d'intérêt de l'intrigue : le mariage des jeunes gens demeure la visée ultime mais il semble passé au second plan, au profit de l'entreprise de tromperie d'Angélique « Si ce Parent refuse son aveu⁎,/ Croy-moy, laisse-moy faire, & nous verrons beau jeu :/ Je me charge du soin de le rendre traittable ;/ Je sçay, pour le berner, un moyen admirable. » Les moyens priment sur la fin. Le couple Le Blanc, introduit à la scène suivante, achève la présentation des personnages principaux.
 
 
-### Les stratagèmes
+### Les stratagèmes.
 
 Nous préférons parler de stratagèmes au pluriel plutôt que de duperie en considération de l'initiative « inattendue » d'un personnage. Dans les actes II, III, et IV, la duperie imaginée par Angélique est mise en œuvre. Cette entreprise investit tous les personnages, à l'exception de Monsieur le Blanc. Les 4 premières scènes de l'acte II prennent la forme d'une distribution de rôles, dont le point culminant est l'arrivée d'Angélique, travestie en homme, à la scène 3.
 
@@ -235,7 +235,7 @@ Vous en verrez l'effet. (Cato, IV, 4, v. 1108-1110)
 À ce stade de la pièce, les plans de chacun se rencontrent et les nœuds de l'intrigue se resserrent.
 
 
-### La démystification
+### La démystification.
 
 L'acte V amène la résolution de l'intrigue par une démystification progressive. Les masques tombent un à un dans un ordre croissant. En effet, les personnages les moins importants se dévoilent en premier. De cette façon, la servante Cato abandonne progressivement son rôle d'entremetteuse vénale pour redevenir une servante raisonnée. Son réquisitoire contre Monsieur le Blanc fait écho au discours de Lucinde dans la scène 6 de l'acte 1.
 
@@ -251,7 +251,7 @@ C'est la condition que je mets à la chose. (V, 14, v. 1577-1579)
 Angélique quitte son déguisement. Le dénouement, au sens de l'évincement des obstacles, s'accomplit dans la dernière scène : l'arrivée du frère de Lucinde et le consentement de Monsieur le Blanc laisse présager le mariage des jeunes amants.
 
 
-## Étude spatio-temporelle
+## Étude spatio-temporelle.
 
 Sur le plan de la durée, la pièce se plie à l'exigence classique de l'unité de temps. L'action se déroule sur une journée, mais le texte nous indique que le temps de l'action ne peut pas coïncider avec le temps de la représentation. En effet, à deux reprises, les personnages signalent le temps qu'il leur faut pour accomplir une action. Damon, à la scène 4 de l'acte I, prévoit le retour de chez son oncle dans une heure :
 
@@ -268,10 +268,10 @@ Tout laisse à penser que l'intrigue se déroule sur une place publique. Ce lieu
 La présence d'une entrée, dans laquelle se cachent les personnages, laisse à penser que la pièce se passe devant un immeuble, ou un hôtel particulier, probablement proche de chez Monsieur le Blanc, compte tenu des plaintes de son épouse de n'avoir pour seule compagnie que le spectacle des passants (I, 7). Les personnages semblent toutefois parcourir de plus ou moins longues distances hors scène. Ainsi, Damon, Madame le Blanc, Lucinde et Cato ont pu se rendre chez la sœur de Damon (III, 1). La scène étant à Paris, et Cato ayant du aller chercher Monsieur le Blanc « en ville », on peut supposer que l'action se déroule sur la rive gauche actuelle, qui était appelée au XVII*e* le quartier de l'Université, « la ville » se situant sur la rive droite.
 
 
-# Les personnages
+# Les personnages.
 
 
-## Monsieur le Blanc, le dindon de la farce
+## Monsieur le Blanc, le dindon de la farce.
 
 Monsieur le Blanc est le personnage central de la pièce, celui autour duquel s'élabore la farce. Comme il n'apparaît qu'à la scène 7 du premier acte, son portrait est pris en charge par un autre personnage, Lucinde. En effet, lors de l'aveu à Angélique de ses inquiétudes à propos de l'accord de Monsieur le Blanc pour son mariage, la jeune femme dresse le portrait de ce personnage :
 
@@ -318,7 +318,7 @@ Mais aussi, en proposant à Lucinde « Un commerce galant d'Hymen de conscience
 On a ici à faire à un personnage comique traditionnel : un barbon ridicule mis en déroute par de jeunes gens
 
 
-## Angélique, chevalier d'Eon
+## Angélique, chevalier d'Eon.
 
 Angélique, ou la Fille Capitaine est le personnage éponyme de la pièce de Montfleury. Elle se démarque de sa cousine par son esprit et son caractère. Dans son échange avec Lucinde scène 1 de l'acte I, qui n'est pas sans rappeler la même scène entre Angélique et Phyllis dans la Place Royale de Corneille, la jeune femme apparaît plus légère que sa cousine. Elle envisage le départ de son père comme une libération et l'opportunité de s'adonner librement aux plaisirs mondains.
 
@@ -351,7 +351,7 @@ Tu te plais à railler sans épargner personne (I, 1, v. 57-59)
 En effet, elle ne manque pas de se moquer des faiblesses des autres personnages. Ainsi, dès la première scène, elle dresse un portait satirique de Damon ; elle n'hésite pas à railler le jeune homme à propos de sa verve lyrique ; puis c'est au tour de Monsieur le Blanc d'être l'objet de ses moqueries. Bien qu'égoïste et moqueuse, Angélique demeure un personnage intelligent : dans la scène 6 de l'acte 1, elle fait preuve de lucidité quant à la situation délicate dans laquelle se trouve sa cousine. Les nombreuses aposiopèses mettent en évidence que la jeune femme n'a pas besoin que sa cousine lui explique ses craintes pour les comprendre. Son intelligence est d'autant plus remarquable que c'est elle qui orchestre le stratagème contre Monsieur le Blanc. Tous les autres personnages suivent ses instructions, si bien que, dans la scène 1 de l'acte 3, Lucinde semble se vexer de ne pas être dans la confidence des plans de sa cousine. Cette dernière dirige les autres personnages, et se réclame seul maître à bord de la duperie. Son goût pour le divertissement lui permet de jouer à merveille son rôle : lorsqu'elle entre en scène vêtue en capitaine (3, II) la jeune femme est déjà dans son rôle, comme le montre son dialogue avec l'Espérance qu'elle considère dès lors comme son valet.
 
 
-## La prudente Lucinde
+## La prudente Lucinde.
 
 Lucinde est l'objet du triangle amoureux de la pièce. Elle est décrite comme étant une jeune femme bien faite et de bonne vie, et de haut rang :
 
@@ -400,7 +400,7 @@ Et le soin que tu prens, Cousine, est inutile. (III, 1, v. 745-746)
 Lucinde campe un personnage féminin traditionnel : sa nature mesurée et prudente l'empêche de prendre pleinement partie au renversement des valeurs et des genres qui s'opèrent dans la pièce. Elle demeure tout au long de la pièce sous la tutelle d'un personnage, que ce soit celle de son frère au début, que celle d'Angélique.
 
 
-## Damon, Chevalier désargenté
+## Damon, Chevalier désargenté.
 
 Son portait est pris en charge par d'autres personnages. Dès la première scène de la pièce, Angélique, au grand dam de Lucinde, aiguise ses sarcasmes sur le dos du jeune homme. Elle dépeint le portait peu glorieux d'un jeune homme présumé beau – « ce moderne Adonis». En effet, la jeune femme se plaît à insister sur son goût prononcé pour le Jeu.
 
@@ -446,7 +446,7 @@ On vous dit qu'on a veu. (III, 4, v. 868-871)
 Il ne parvient à s'imposer qu'une seule fois face à son oncle : à la scène 4 de l'acte III, le jeune profite d'un moment de confusion du vieil homme pour tenter de le ramener à la raison. Mais il ne réussit qu'à lui souffler l'idée de se venger. Damon incarne la figure traditionnelle de l'amant dans l'attente. Il contribue à l'effacement des figures masculines de la pièce, au profit de l'ascension des femmes.
 
 
-## Madame le Blanc, l'épouse fidèle
+## Madame le Blanc, l'épouse fidèle.
 
 Le personnage de Madame le Blanc, bien qu'il apparait dans 12 scènes, demeure secondaire. Cette épouse aimante et fidèle est désespérée par la conduite distante de son mari. Le stratagème des jeunes gens a pour but de d'incliner Monsieur le Blanc en faveur du mariage de Lucinde et Damon, mais aussi de punir ses envies d'infidélité. Madame le Blanc joue un petit rôle dans cette entreprise, celui de la prétendue maîtresse du « Capitaine ». C'est un personnage sensée et sensible, qui souffre du délaissement de son époux. Aussi, ne complimente-t-elle pas Lucinde sur sa beauté sans quelque pincement au cœur :
 
@@ -463,15 +463,15 @@ Mais tu peux t'assurer que devant⁎ que je parte… (IV, 4, v. 1089-1091)
 Mais prenant un réel plaisir à se jouer de son mari lors de leur confrontation à l'acte III, elle apparaît comme étant une femme avertie, sachant quand il le faut donner une leçon à autrui.
 
 
-## Les serviteurs : Cato et l'Espérance
+## Les serviteurs : Cato et l'Espérance.
 
 Ces deux personnages jouent un rôle important dans la farce pensée par Angélique. Leur statut de serviteur leur permet de gagner la confiance de chacun des personnages : tous les deux éconduisent tour à tour Monsieur le Blanc qui, croyant se livrer à des gens de confiance, enraye ses propres plans. Ce sont aussi les deux personnages, avec Angélique, qui tirent le plus de plaisir à cette duperie. A maintes reprises ils se félicitent eux-mêmes de bien jouer leur rôle, et sont toujours les premiers à se réjouir des prestations de leurs compères. Cependant, ils se distinguent des autres personnages plus par leur malice que par leur intelligence. Cato s'amuse à se jouer de la vertu de Madame le Blanc. Notons que si elle est chargée de camper une maquerelle vénale, dès la scène 1 de l'acte II, la suivante n'hésite pas à exposer à sa maîtresse l'éventualité d'une relation avec un autre homme que Damon. De même, l'Espérance, dont la modeste condition est trahie par son langage, ne tarie pas d'éloge sur les filles à soldats. Leur peu de considération des choses morales caractérisent leur statut de serviteurs. Ces personnages sont aussi indépendants et agissent de leur propre chef : Cato veut bien se mettre au service de Monsieur le Blanc pour quelques louis, et l'Espérance prend l'initiative de faire river le bout de l'épée du barbon. Leur brève échange amoureux met en évidence le lien qui les unit, un lien plus social qu'amoureux.
 
 
-# Les thèmes abordés par la pièce
+# Les thèmes abordés par la pièce.
 
 
-## Le travestissement
+## Le travestissement.
 
 Une malle remplie d'habit de militaire, le calendrier ouvert au jour du Carnaval, des jeunes gens ne songeant qu'à rire ? Montfleury a rassemblé pour sa pièce de nombreuses circonstances propices au renversement des valeurs. Et ce retournement débute avec le travestissement d'Angélique, qui est double : elle usurpe le statut de soldat et l'identité du frère de Lucinde. Le déguisement au théâtre étant le plus haut degré de changement d'identité, la jeune fille s'éloigne d'elle-même pour mieux jouer son rôle. Ainsi, on peut considérer le personnage du Capitaine comme un personnage à part entière.
 
@@ -500,7 +500,7 @@ Angélique s'efforce de camper un personnage plus vrai que nature, avec des exc�
 Angélique semble profiter pleinement de ce changement d'identité pour réaliser ses aspirations – tout comme son modèle espagnol. Moderne d'esprit, elle sait tirer parti de ce renversement. Soucieuse de coller à son personnage, elle laisse la jeune fille qu'elle est en coulisse lorsqu'elle entre sur scène vêtue en capitaine. Pour preuve, l'Espérance l'appelle tout de suite monsieur (II, 4). Au-delà du simple habit, c'est l'autorité masculine qu'elle endosse : tenant Lucinde à l'écart, elle profite de ses attributs éphémères pour décider ce que sa parente dira ou, plus précisément écrira. Chef d'orchestre de la farce, Angélique s'impose comme la figure d'autorité de cette pièce, aux dépends des autres personnages notamment masculins.
 
 
-## Le rhétorique de l'amour et conception du mariage
+## Le rhétorique de l'amour et conception du mariage.
 
 La notion de genres étant brouillée, les discours attribués traditionnellement aux personnages féminins sont récupérés par les hommes. En effet, les femmes, qu'elles soient amoureuses ou non, tiennent des discours moins lyriques que les hommes, qui ne cessent de décliner leur flamme sous toutes les coutures. Damon, tout d'abord, entretient son image de jeune chevalier désœuvré et amoureux par des discours empreints d'émotions. Dès sa première apparition sur scène, le jeune homme déclame la tourmente dans laquelle le plonge l'attente de son mariage.
 
@@ -571,12 +571,12 @@ L'emploi du présent de vérité générale dans chacune de ces citations a pour
 Le fait qu'Angélique s'affirme comme le cerveau de la troupe n'est pas anodin : les hommes sont cantonnés à jouer des seconds rôles ou à subir les tours imaginés par la belle. *La Fille Capitaine*, outre son processus de renversement, fait pointer un rayon vert, celui de la modernité. Montfleury donne la parole aux femmes et cette parole pèse son poids de raison! Sans remettre en cause les conventions sociales comme le mariage, l'auteur, comme son contemporain Molière, caricature les *a priori* des personnages masculins sur les femmes et l'amour, pour mieux les démentir.
 
 
-# Le comique
+# Le comique.
 
 *La Fille Capitaine*, nous l'avons vu, présente une structure régulière, ne dérogeant pas à la conception classique du théâtre. Composée de cinq actes plus ou moins égaux, la pièce est d'une longueur raisonnable et respecte les trois unités. De fait, l'originalité de la pièce tient au mélange des genres comiques. Les caractéristiques de la farce, de la comédie bourgeoise et de la comédie de mœurs s'entremêlent si bien qu'il est difficile de ranger la pièce sous l'une des trois catégories. Le sujet de *la Fille Capitaine* s'apparente à celui d'une comédie bourgeoise : deux jeunes gens dont le mariage est menacé par un parent. Mais les moyens mis en œuvre dans la pièce sont bien ceux d'une farce, et sa forme la rapproche d'une comédie de mœurs. Le mélange des ces trois formes de comique nous laisse envisager *la Fille Capitaine* comme étant une comédie « hybride ».
 
 
-## Une trame de farce
+## Une trame de farce.
 
 Michel Corvin [50] élabore un schéma de farce qui s'adapte à notre pièce. En effet, il définit la trame de la farce ainsi : « un sujet désire un objet », « il rencontre des opposants » et « bénéficie parfois de quelques soutiens ». Dans *la Fille Capitaine*, le sujet désirant est Monsieur le Blanc, ses opposants sont les autres personnages, notamment Angélique, et son adjuvant Cato. Aussi, il note que « le sujet désirant est d'ordinaire en position de faiblesse : la tromperie va être son arme préférée pour arriver à ses fins. » Monsieur le Blanc est bien ici l'intrus de la pièce, l'obstacle premier aux desseins d'autres personnages. Le comique de situation remplace ici les scènes de poursuites et de rixes présentes dans les comédies à l'italienne. Montfleury reprend le motif du barbon caché, et la fausse scène de duel entre Monsieur le Blanc et le *Capitaine* crée un effet comique assuré par des coups de bâtons dans la comédie à l'italienne. De plus, si les personnages ne sont pas ceux de la farce traditionnelle, on peut voir dans le personnage de Monsieur le Blanc, l'adaptation française d'un Pantalon, vieillard épris d'une jeune fille ; de même, « le Capitaine », dépeint comme « un petit enragé ferraillant sans cesse », s'apparente à Scaramouche. La présence sur scène du couple d'amoureux et des valets ingénieux complètent le panel des personnages de la *commedia dell'arte. La Fille Capitaine*, a probablement été écrite pour le simple plaisir de faire rire, et non avec l'ambition de « corriger les mœurs ». Cette « petite comédie » se rapproche encore de la farce par sa visée. La farce est au XVII*e* siècle un courant théâtral en constante évolution. Marie-Claude Cornova [51] la considère comme annonçant la comédie de mœurs.
 
@@ -595,7 +595,7 @@ Le vers 800 sonne comme une sentence : comment sauver son honneur déjà bafou�
 Le comique dans la pièce est véhiculé par le renversement des situations. Monsieur le Blanc, croyant tromper tout le monde, se retrouve dans une position de faiblesse dès l'acte II. La ruse des autres personnages, notamment à la scène 3 de l'acte III, quand ce dernier se dispute avec son épouse sur sa prétendue liaison, lui ôte l'autorité dont il jouissait au début. Toujours en position d'intrus, il est mis en position de faiblesse par l'alliance des autres personnages.
 
 
-## Le jeu de rôles
+## Le jeu de rôles.
 
 Le déguisement d'Angélique permet aux personnages de duper Monsieur le Blanc. Véritable ressort comique, le déguisement permet aussi de montrer les personnages sous un aspect grotesque. « Le Capitaine » est réduit à un tueur de chrétiens, la servante Cato à une entremetteuse vénale, et Lucinde joue le rôle de la jeune ingénue qui se laisse séduire par un vieil homme fortuné. Le déguisement, qu'il soit moral ou physique, permet l'introduction de types de personnages, ce qui n'aurait pas été possible au début de la pièce. Le comique a recours au type et non à la personne, « le type se définit non par l'absence d'individualité mais par la disparition de la personnalité » [52]. De plus, ce jeu de rôles met en place une triple énonciation. Seuls les personnages participants à la supercherie et le public peuvent saisir le sens des évènements dans leur totalité. De fait, il ne peut confondre véritablement Madame le Blanc, lorsqu'il lui reproche son infidélité (III, 3) et le double sens de certains propos échappe à Monsieur le Blanc, qui n'est pas dans la confidence.
 
@@ -612,7 +612,7 @@ Il n'y a de comédie que par et pour un spectateur : un héros tragique peut bi
 Pour qu'il y ait du comique, il faut qu'il y ait une distance, que le rieur ne soit pas engagé dans l'aventure qui le fait rire. Par ses ficelles dramatiques, ses habitudes de composition, la comédie place le spectateur dans la position d'un Dieu, le théâtre lui offre le don d'ubiquité. La comédie dépend « du climat où elle se développe ; elle peut être tragique pour qui la vit, comique pour qui la regarde. Ceci montre bien que le comique n'existe pas en soi mais seulement chez le spectateur et que l'on a tort de vouloir le chercher ailleurs » [53]. Le comique n'existe que dans l'esprit du lecteur-spectateur. Il y a un écart entre l'angoisse du personnage qui vit la scène (Monsieur le Blanc) et le rire du spectateur vient de la distance entre les deux. Le spectateur voit et sait tout parce qu'il est à distance. Le rire est l'effet du constat de notre supériorité sur autrui. Stendhal écrit : « Une pièce qui fait rire constamment est une pièce qui nous montre sans cesse notre excellence. » Le rire est possible que si le spectateur est détaché : « La comédie est le désert du cœur …. Qu'il s'agisse du vécu ou de la fiction, le rire exige donc une position de spectateur et un non-engagement. » [54] (Emelina). Le spectateur peut ici s'accomplir en tant que tel dans la mesure où il est affectivement en retrait.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La présente édition a été établie à partir de l'édition originale de *La Fille Capitaine* de Montfleury exécutée en 1672 par Pierre le Monnier, disponible à la Bibliothèque nationale de France, département Réserve des livres rares, RESP-YF-445(3). Il s'agit d'un volume format in 12°. Il se présente ainsi :
 
@@ -684,7 +684,7 @@ THIERRY, Syndic.
 Achevé d'imprimer pour la premiere fois le 4. Janvier 1672.
 
 
-## ACTEURS
+## ACTEURS.
  – MONSIEUR LE BLANC.
  – MADAME LE BLANCsa Femme.
  – LUCINDE.
@@ -697,31 +697,31 @@ La Scene est à Paris.
  
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ANGELIQUE, LUCINDE
 
 
-    ANGELIQUE
+    ANGELIQUE.
 Je suis libre à present, & maistresse de moy,  
 Cousine, & je m'en vais passer huit jours chez toy.  
 
-    LUCINDE
+    LUCINDE.
 C'est un honneur pour moy qui passe mon attente.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Laissons-là ces honneurs; de Parente à Parente,  
 Doit-on toûjours avoir le compliment⁎ en main ?  
 Mon Père est ce matin party pour Saint Germain :  
 Comme il entre en quartier [56] dans deux jours, son absence  
 Me permet de répondre à mon impatience.  
 
-    LUCINDE
+    LUCINDE.
 Et moy, j'attens mon Frere icy de jour en jour.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il faut nous divertir jusques à leur retour :  
 Nous pourrons jusqu'au jour qu'il faut que je te quitte [57],  
 Ou voir la Comedie, ou bien faire visite,  
@@ -731,13 +731,13 @@ La Saison le permet ; & je veux bien te dire,
 Que jamais je ne fus tant en humeur de rire.  
 Mais si ton Frere arrive icy lors qu'à souhait…  
 
-    LUCINDE
+    LUCINDE.
 Il n'est pas incommode, il est jeune & bien fait ;  
 Sa preference bientost nous en rendra certaines ;  
 Le Regiment du Roy n'a point de Capitaines  
 Qui soient plus estimez, ny plus galans⁎ que luy.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Pour nous divertir donc, il faudroit qu'aujourd'huy  
 Ce Frere si galans⁎, vint par Lettre de Change [59] ;  
 Car enfin les plaisirs demandent du meslange,  
@@ -746,14 +746,14 @@ Les Dez, & le grand Jeu, l'occupent tellement,
 Qu'il n'est hors ce plaisir, rien qui le divertisse,  
 Et les jours sont trop courts…  
 
-    LUCINDE
+    LUCINDE.
         C'est luy faire injustice.  
 Non, cet empressement n'est point si violent ;  
 Damon aime le Jeu, mais Damon est galant⁎ ;  
 Outre que la beauté dont le Ciel t'a pourveuë,  
 Le rendra plus sensible au plaisir de ta veuë⁎.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ne fais point avec moy la fine à contre-temps,  
 Ce Chevalier t'en veut [60], je me connois en Gens ;  
 Sur ce que j'en ay veu, je gagerois⁎ qu'il t'aime,  
@@ -761,7 +761,7 @@ Du moins c'est mon avis, & je crois qu'au tien méme
 Pour rendre ton bonheur à son amour égal,  
 Le nom de ton Epoux ne luy siéroit pas mal.  
 
-    LUCINDE
+    LUCINDE.
 Cousine, j'aurois tort de t'en faire un mystere.  
 Je veux bien t'avoüer que Damon m'a sçeu plaire,  
 Que mon Frere revient, & qu'avec tant d'amour,  
@@ -771,7 +771,7 @@ Je le crois à couvert des traits de ta Satire ;
 Il est jeune, bien fait, galant⁎, riche, & je crois  
 Qu'on ne peut me blâmer d'avoir fait un tel choix.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il est bien malaisé qu'un tel Galant⁎ ne plaise :  
 Ce moderne Adonis [61] ne te vient voir qu'en Chaise [62],  
 Du nom de Chevalier soûtient sa vanité,  
@@ -783,7 +783,7 @@ Il jouë à tous les Jeux, & ne gagne à pas-un ;
 De faire le Coquet ne fait aucun mystere,  
 Et c'est pour un Epoux un fort bon caractere.  
 
-    LUCINDE
+    LUCINDE.
 C'est sur de tels sujets que ton esprit s'étend ;  
 Sur le premier venu ta bile se répand ;  
 Tu te plais à railler sans épargner personne ;  
@@ -794,13 +794,13 @@ Plût au Ciel qu'un Hymen⁎ à tes yeux plein de charmes,
 Pour me vanger de toy, pût te coûter des larmes !  
 Pour lors la raillerie agiroit foiblement.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Tu n'auras ce plaisir qu'assez mal-aisément.  
 
-    LUCINDE
+    LUCINDE.
 Quoy, tu prétens toûjours estre railleuse & fiere ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Je veux vivre toûjours, Cousine, à ma manière ;  
 Et mon cœur ne sera pour l'Hymen⁎ attendry,  
 Que quand on se pourra défaire d'un Mary  
@@ -821,24 +821,24 @@ Des sottises d'autruy je me fais une joye,
 Et ne veux point troquer par de semblables nœuds  
 Tant de plaisirs certains, contre un plaisir douteux.  
 
-    LUCINDE
+    LUCINDE.
 Ce Portrait est galant ; & si [66] rien ne t'engage…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Celuy que j'aperçoy, te plaira davantage.  
 Voicy ton Chevalier : & je lis dans ses yeux,  
 Que si ton Frere estoit comme nous dans ces lieux,  
 Au plaisir de te voir il seroit plus sensible.  
 
 
-### SCENE II 
+### SCENE II. 
 DAMON, ANGELIQUE, LUCINDE
 
 
-    LUCINDE
+    LUCINDE.
 Est-ce ce qui vous trouble ? & seroit-il possible…  
 
-    DAMON
+    DAMON.
 Oüy, Madame, il est vray, ce long retardement  
 Mettroit au desespoir le moins sensible Amant.  
 Vostre Frere qui doit regler nostre Hymenée⁎,  
@@ -850,105 +850,105 @@ N'a pour se soulager, que l'espoir & la plainte,
 Et me force à conter dans l'ennuy⁎ que je sens,  
 Le nombre de mes maux, par celuy des momens.  
 
-    LUCINDE
+    LUCINDE.
 Damon, ainsi que vous, vous m'en voyez surprise,  
 Et sa derniere Lettre estoit assez précise.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Quelque accident peut-estre altere sa santé.  
 
-    LUCINDE
+    LUCINDE.
 Ou quelque ordre impréveu l'a sans doute arresté.  
 Mon Frere, si le Sort seconde son envie,  
 Doit à la Garnison laisser sa Compagnie,  
 Et venir à Paris passer le Carnaval [67],  
 Et du moins en ce temps…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Nous aurons donc le Bal !  
 
-    DAMON
+    DAMON.
 Pourveu que le succés mette fin à mes craintes,  
 La joye & les plaisirs succederont aux plaintes :  
 Mais s'il faut voir enfin mes feux⁎ sacrifiez…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Eh mon Dieu, vous serez assez tost mariez :  
 Quand au nom de Galant⁎ celuy d'Epoux succede,  
 L'Hymen⁎ pour ces ardeurs devient un grand remede ;  
 Et quelque soit l'amour dont vous brûliez tous deux,  
 Un an de Mariage appaise bien des feux⁎.  
 
-    DAMON
+    DAMON.
 Ah, pour diminuer, mes flames⁎ sont trop belles.  
 
 
-### SCENE III
+### SCENE III.
 ANGELIQUE, LUCINDE, DAMON, CATO
 
 
-    CATO
+    CATO.
 Ah que pour vostre amour j'ay de bonnes nouvelles !  
 Nous irons à la Nopce [68], & l'Hymen⁎ achevé…  
 
-    DAMON
+    DAMON.
 Madame, vostre Frere est sans doute arrivé.  
 
-    LUCINDE
+    LUCINDE.
 Mon Frere est-il venu ? Le bonheur où j'aspire…  
 
-    CATO
+    CATO.
 Non, ce n'est pas cela que je voulois vous dire.  
 
-    DAMON
+    DAMON.
 Sçais-tu quand il revient ? & peux-tu là-dessus  
 Nous aprendre…  
 
-    CATO
+    CATO.
         Moy ? Non, je n'en sçay rien non plus.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Que viens-tu donc nous dire ? elle est bonne, ou je meure.  
 
-    CATO
+    CATO.
 Que l'Esperance vient d'arriver tout-à-l'heure⁎.  
 
-    DAMON
+    DAMON.
 Qu'est-ce que L'Esperance ? as-tu perdu le sens ?  
 
-    LUCINDE
+    LUCINDE.
 Un Valet que mon Frere avoit depuis longtemps,  
 Et qu'il a fait Sergent dedans⁎ sa Compagnie.  
 
-    DAMON
+    DAMON.
 Puis qu'il revient sans luy, je crains bien qu'il n'oublie…  
 
-    LUCINDE
+    LUCINDE.
 Sçachons ce qui l'ameine, & puis qu'il est ainsi,  
 Rentrons dans le Logis.  
 
-    CATO
+    CATO.
         Madame, le voicy.  
 
 
-### SCENE IV
+### SCENE IV.
 LUCINDE, DAMON, ANGELIQUE, CATO, L'ESPERANCE
 
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Madame, Serviteur à vostre Compagnie,  
 Fussiez-vous trente.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Bon ; j'aime cette saillie.  
 
-    L’ESPERANCE *donnant un Billet à Lucinde*
+    L’ESPERANCE *donnant un Billet à Lucinde*.
 Vostre Frere est gaillard, & ce Billet contient…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il se porte bien ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Mieux qu'à luy n'apartient.  
 Suivant l'ordre que j'ay d'avoir soin du Bagage,  
 Je suis venu devant⁎ avec son Equipage⁎.  
@@ -957,63 +957,63 @@ A dancé sur la route un diable de Balet.
 Ah le maudit Païs en Hyver, que la Flandre !  
 Mon Capitaine vient, qui pourra vous l'apprendre.  
 
-    LUCINDE
+    LUCINDE.
 J'aprehendois pour luy quelque incommodité.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Bon ! Il beut l'autre jour tant à vostre santé,  
 Que douze heures apres il estoit encor yvre.  
 
-    DAMON
+    DAMON.
 Fort bien. Enfin il vient.  
 
-    LUCINDE
+    LUCINDE.
         Sa Lettre me délivre  
 De la peine où j'estois. L'attendras-tu ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Moy ? Non,  
 Il faut que je retourne à nostre Garnison.  
 
-    LUCINDE
+    LUCINDE.
 Quoy, si-tost ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         J'en enrage, ou la peste me tuë.  
 
-    LUCINDE
+    LUCINDE.
 Mais quoy faire ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Mordié, mener une Recruë⁎ :  
 Mais avant que quitter les Fauxbourgs de Paris,  
 Ma foy, je prétens boire avec mes bons Amis.  
 Je veux renouveller certaine connoissance [69]…  
 Bonjour, Cato.  
 
-    CATO
+    CATO.
         Bonjour, Monsieur de L'Esperance.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ainsi l'Hymen⁎ dans peu va flater vostre amour.  
 
-    LUCINDE
+    LUCINDE.
 Il me mande [70] qu'il vient, sans en marquer le jour.  
 Quand pourrons-nous joüir du plaisir de sa veuë⁎ ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Dés que le Commissaire aura fait la Revuë.  
 On l'attendoit. Si-tost qu'il sera délogé,  
 Ils sont vingt Officiers qui prendront leur congé.  
 Allez, assurez-vous qu'il ne tardera guere.  
 
-    LUCINDE
+    LUCINDE.
 J'auray bien du plaisir à voir icy mon Frere :  
 Mais vostre Oncle a-t-il sçeu de vous que vostre amour,  
 Pour se donner à moy, n'attend que ce retour ?  
 Car vous sçavez combien son aveu⁎ nous importe.  
 
-    DAMON
+    DAMON.
 Non ; mais enfin pour moy sa tendresse⁎ est trop forte,  
 Pour ne pas aprouver l'éclat d'un si beau feu :  
 Cependant comme il faut en ménager l'aveu⁎,  
@@ -1021,253 +1021,253 @@ Je vais pour l'obtenir, me rendre à sa demeure.
 Je vous quitte à regret, & reviens dans une heure.  
 
 
-### SCENE V 
+### SCENE V. 
 LUCINDE, ANGELIQUE, L'ESPERANCE, CATO
 
 
-    L’ESPERANCE 
+    L’ESPERANCE.
 Elles vont toutes deux jaser jusqu'à demain,  
 Et je meurs de soif.  
 
-    CATO
+    CATO.
     Viens dans le Logis.  
 
 
-### SCENE VI
+### SCENE VI.
 ANGELIQUE, LUCINDE
 
 
-    ANGELIQUE 
+    ANGELIQUE.
         En vain  
 Ton amour s'alarmoit, & toute autre en ta place…  
 
-    LUCINDE
+    LUCINDE.
 Il est vray ; mais l'aveu⁎ de l'Oncle m'embarasse ;  
 Je crains qu'il ne l'obtienne assez mal-aisément,  
 Et qu'il ne soit surpris d'un pareil compliment⁎.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Parce qu'il a du bien [71], tu crains qu'il ne s'oppose ?...  
 
-    LUCINDE
+    LUCINDE.
 Ma crainte cesseroit, si ç'en estoit la cause :  
 Cet Oncle m'est suspect, tu veux sçavoir pour quoy ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Oüy.  
 
-    LUCINDE
+    LUCINDE.
         C'est que ce Parent est amoureux de moy ;  
 Il m'aime, à ce qu'il dit, d'une ardeur⁎ peu commune ;  
 Il me suit en tous lieux, par tout il m'importune,  
 S'obstine à m'en parler, voyant que sur ce poinct…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Quel est donc ce Parent ? ne le connois-je point ?  
 
-    LUCINDE
+    LUCINDE.
 Le bon sens avec luy paroist incompatible,  
 Son abord est choquant, & sa mine risible ;  
 Son air, quoy que Bourgeois, est fort particulier,  
 Son entretien⁎ plaisant, & mesme familier.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ne me diras-tu point aussi comme on le nomme ?  
 
-    LUCINDE
+    LUCINDE.
 Monsieur le Blanc.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Ce doit estre un fort plaisant Homme ;  
 Je ne le connois point, mais dessus [72] ton recit…  
 
-    LUCINDE
+    LUCINDE.
 Son corps fait cependant honneur à son esprit ;  
 Il m'a par ses discours divertie & surprise ;  
 Il ne dit pas deux mots sans dire une sottise ;  
 Il choque en se montrant, beaucoup moins qu'en parlant,  
 Et je crois…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Ah, grands Dieux, le douloureux Galant⁎ !  
 Cousin, ordonne-luy quelques grains d'Elebore [73].  
 
-    LUCINDE
+    LUCINDE.
 Ce n'est pas encore tout.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Auroit-il pis [74] encore ?  
 
-    LUCINDE
+    LUCINDE.
 Oüy sans doute, & ce Fou devroit estre lié.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Que peut-il donc avoir ?  
 
-    LUCINDE
+    LUCINDE.
         C'est qu'il est marié.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ce Magot⁎ ?  
 
-    LUCINDE
+    LUCINDE.
         Il a mesme une Femme bien faite,  
 Il m'en fait un mystere, & me conte fleurette [75],  
 Comme s'il aspiroit à me donner sa foy⁎.  
 
-    ANGELIQUE 
+    ANGELIQUE.
 Et lors qu'impunément il se moque de toy,  
 Je gage⁎ que tu fais la sotte, la honteuse.  
 
-    LUCINDE
+    LUCINDE.
 Oüy, certaines raisons me rendent scrupuleuse.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ah ! si j'en estois cruë, avant qu'il fût demain,  
 Ce Monsieur le Galant⁎ verroit bien du chemin [76],  
 Et je le bernerois de la belle manière.  
 
-    LUCINDE
+    LUCINDE.
 A suivre cet avis je serois la premiere ;  
 Mais il est de Damon & l'Oncle & le Tuteur,  
 Et tu vois…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je voy bien ce qui te tient au cœur ;  
 Tu crains aparemment que vangeant cet outrage,  
 Ce Parent irrité ne nuise au Mariage.  
 
-    LUCINDE
+    LUCINDE.
 Il doit le ménager : outre qu'il a son bien⁎,  
 Tu sçauras que Damon doit heriter du sien :  
 Comme il n'a point d'Enfans, tout ce bien le regarde [77] ;  
 Damon assurément le perd, s'il le hazarde,  
 Et je ne prétens pas qu'il se prive pour moy…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Sçait-il bien que son Oncle est amoureux de toy ?  
 
-    LUCINDE
+    LUCINDE.
 De peur de les broüiller, j'en ay fait un mystere [78] ;  
 Outre que c'est un feu que j'ay crû devoir taire.  
 Le temps…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Si ce Parent refuse son aveu⁎,  
 Croy-moy, laisse-moy faire, & nous verrons beau jeu [79]:  
 Je me charge du soin de le rendre traittable ;  
 Je sçay, pour le berner, un moyen admirable.  
 
-    LUCINDE
+    LUCINDE.
 Quel [80]?  
 
-    ANGELIQUE
+    ANGELIQUE.
     Je te le diray.  
 
-    LUCINDE
+    LUCINDE.
         S'il n'y veut consentir,  
 Il faudra l'éprouver, & nous en divertir.  
 Voila Monsieur le Blanc.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Ah la bonne Figure⁎ !  
 Tu voudrois l'épargner ? ah c'est malice pure.  
 Que j'auray de plaisir à rire à ses dépens !  
 
-    LUCINDE
+    LUCINDE.
 Evitons-le, il pourroit m'aborder.  
 
-    ANGELIQUE
+    ANGELIQUE.
         J'y consens.  
 
 
-### SCENE VII 
+### SCENE VII. 
 MONSIEUR LE BLANC, MADAME LE BLANC
 
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Où voulez-vous aller ? Je ne sçay point d'affaire…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ma divine Moitié, vous n'en avez que faire :  
 Si vous voulez me plaire, il faut changer de ton.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Il sera bientost nuit.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Et m'enlevera-t-on ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Si vous revenez tard ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         On m'ouvrira la Porte.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 On tua l'autre nuit un Homme.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Que m'importe ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 A vingt pas du Logis, hyer on en vola deux  
 Jusques à leurs Habits.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Hé bien, tant-pis pour eux.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Ne vaudroit-il pas mieux…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il vaudroit mieux vous taire.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Quand on aime un Mary…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         L'on fait ce qu'on doit faire.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Si l'on vous attaquoit ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il faudroit financer.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Et si l'on vous blessoit ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je me ferois penser [81].  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Cependant…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Cependant, en un mot, comme en mille,  
 De vos *si* mal placez, la suite est inutile :  
 D'un soin tout different nous voulons nous piquer [82] ;  
 Vous de me contredire, & moy de m'en moquer.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Les momens, loin de vous, me semblent des années :  
 Faut-il que sans vous voir je passe mes journées ?  
 Et que loin d'un Epoux chery comme le mien…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Penélope fut bien dix sans voir le sien [83].  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Quel chagrin croyez-vous que ce mépris me donne,  
 A moy qui ne sors point, & qui ne vois personne,  
 Qui toûjours renfermée, & seule, ne consens…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ouvrez vostre fenestre, & voyez les passans,  
 Je ne l'empesche pas.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         De l'humeur dont vous estes,  
 Il vous falloit pour Femme une de ces Coquettes  
 Qui pres d'elle toûjours eust quelque Favory,  
@@ -1276,55 +1276,55 @@ Qui se fist, vous montrant une tendresse⁎ feinte,
 Un sujet de plaisir, du sujet de ma plainte,  
 Et pour qui vostre cœur foiblement convaincu…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je vous entens, j'ay tort de n'estre pas Cocu ;  
 Je dois m'y préparer, ma Chere, & c'est dommage  
 Qu'une Moitié semblable ait esté mon partage :  
 Vostre honneur desormais ne me répond de rien,  
 Et vous vous repentez d'estre Femme de bien.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Mais enfin ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Mais enfin, voila vostre Morale,  
 Voila le but où tend vostre Mercuriale [84].  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Vous prenez mal la chose, & ce jaloux transport⁎  
 Explique à contre-sens…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il est vray, j'ay grand tort ;  
 Par ce raisonnement vous me faites connoistre  
 Que je ne le suis pas, mais que je devrois l'estre,  
 Et que vostre devoir consiste desormais  
 A me faire porter…  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
     Mais je dis…  
 
-    MONSIEUR LE  BLANC
+    MONSIEUR LE BLANC.
         Point de mais :  
 Pour faire des Galans⁎, le prétexte est honneste.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Vous sçavez…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Laissez-moy, vous me rompez la teste,  
 Vous me feriez encor quelque autre sot discours.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Si…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Morbleu, laissez-moy, vous raisonnez toûjours.  
 
 
-### SCENE VIII
+### SCENE VIII.
 
-    MONSIEUR LE BLANC *seul.*
+    MONSIEUR LE BLANC *seul.*.
 De pareils Animaux [85], la moitié d'une paire,  
 Si l'on n'y tient la main, donne plus d'une affaire.  
 Où diable a-t-elle pris ce beau raisonnement ?  
@@ -1336,50 +1336,50 @@ L'a fait, pour m'imiter, servir de ce détour ?
 Mais voicy mon Neveu, je pense qu'il murmure.  
 
 
-### SCENE IX 
+### SCENE IX. 
 MONSIEUR LE BLANC, DAMON.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Qu'avez-vous, Chevalier de la triste Figure⁎ [87]?  
 Quelque sept-&-le va [88], vous a-t-il mal traitté ?  
 Quelque coup de cornet [89] auroit-il transplanté,  
 Par un nouvel effet d'un malheur sans resource,  
 Dans un Corps étranger, l'ame de vostre bourse ?  
 
-    DAMON
+    DAMON.
 Non.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         D'un pic & capot [90], le desordre outrageant,  
 Vous auroit-il laissé sans joye & sans argent ?  
 
-    DAMON
+    DAMON.
 Non.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Sur un trente & un, quelque indiscret quarante [91],  
 Ne vous a-t-il point fait visite trop frequente ?  
 Ou bien si c'est d'ailleurs quelque nouveau malheur  
 Qui fait faire une éclipse à vostre belle humeur ?  
 
-    DAMON
+    DAMON.
 D'une autre passion mon ame sent l'atteinte ;  
 Le Jeu n'a point de part au sujet de ma plainte ;  
 Et je serois enfin heureux jusqu'à ce jour.  
 Si le Jeu dans mon cœur n'eust fait place à l'Amour.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Voila du fruit nouveau. Donques pour quelque Belle,  
 Mon doucereux Neveu, vous en avez dans l'aisle [92] ?  
 
-    DAMON
+    DAMON.
 Oüy, je cede, mon Oncle, à des charmes puissans,  
 L'Hymen⁎ est le seul but du beau feu que je sens ;  
 Jamais tant de vertu jointe à tant de mérites,  
 N'a fait voir…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         J'en croy plus encor que vous n'en dites,  
 Et je croy que l'on doit voir devant ses appas⁎  
 Les Roses & les Lys mettre pavillon bas.  
@@ -1392,25 +1392,25 @@ Ensevelir l'Amour dans un drap de prudence ;
 Que j'ay pour en juger, suffisamment vescu,  
 Et que dans la Famille il suffit d'un Cocu.  
 
-    DAMON
+    DAMON.
 Vostre Femme est trop sage, & fait assez connoistre…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Si je ne le suis pas, je suis en train de l'estre.  
 
-    DAMON
+    DAMON.
 Loin que d'un tel soupçon mon feu soit alteré,  
 Mon Oncle, sa vertu m'est un gage assuré :  
 Je veux bien vous ouvrir mon ame avec franchise,  
 Estant vostre Neveu, c'est par vostre entremise  
 Que je dois ménager…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je voy tout le secret :  
 Estant vostre Tuteur à vostre grand regret,  
 Vous voulez que je parle au Père de la Belle.  
 
-    DAMON
+    DAMON.
 C'est un Frere qu'elle a, qui doit disposer d'elle ;  
 Il arrive à Paris dans peu pour voir sa Sœur :  
 Dés qu'il sera venu pour faire mon bonheur,  
@@ -1419,37 +1419,37 @@ Joint à ceux de l'Amour celuy de ma fortune :
 Cette Belle a du bien ; ma vie & mon repos⁎  
 Dépendent du succés…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         C'est à dire, en deux mots,  
 Que ses biens à l'Hymen⁎ vous feront condescendre,  
 Et que sur vostre front vous mettez, *Place à vendre*.  
 Hé bien j'en suis d'accord ; mais sçaurons-nous son nom ?  
 
-    DAMON
+    DAMON.
 C'est Lucinde.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Comment ? Parlez-vous tout de bon [93]?  
 C'est…  
 
-    DAMON
+    DAMON.
     Lucinde.  
 
-    MONSIEUR LE BLANC *à part.*
+    MONSIEUR LE BLANC *à part.*.
         Morbleu, je meurs d'amour pour elle.  
 
-    DAMON
+    DAMON.
 Vous la pouvez connoistre, elle est jeune & belle.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Cette Belle seroit bien lasse de sa peau;  
 Et vous estes pour elle un plaisant Etourneau⁎.  
 
-    DAMON
+    DAMON.
 Pourquoy ne faut-il pas que ma flâme⁎ y prétende ?  
 Si son merite est grand, la gloire en est plus grande.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il est vray ; mais enfin ce seroit la tromper,  
 Et dans un tel dessein je ne veux point tremper ;  
 Car puis que vous voulez qu'enfin on vous le die [94],  
@@ -1477,10 +1477,10 @@ Vous allez au grand trot, du Brelan [103], chez les Belles ;
 Et l'on vous voit au Cours [104], sur le déclin du jour,  
 Aussi fier qu'un Bourgeois qui porte un deüil de Cour.  
 
-    DAMON
+    DAMON.
 Songez que mon amour…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il n'est amour qui tienne,  
 Vostre facon d'agir quadre [105] mal à la sienne ;  
 Vos parolis frequents, & souvent mal placez,  
@@ -1489,31 +1489,31 @@ Et vous pourriez porter, vivant à vostre guise,
 Un bois de Cerf [106] pour timbre [107], & *J'en tiens* [108] pour devise.  
 C'est un petit malheur dont je veux vous parer.  
 
-    DAMON
+    DAMON.
 Voulez-vous me reduire à ne rien esperer ?  
 A l'amour que je sens devenez moins contraire  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mais il n'en fera rien. & je n'en veux rien faire :  
 Taisez-vous.  
 
-    DAMON
+    DAMON.
         Si mon cœur à l'aimer destiné…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Taisez-vous, vous dit-on, pupille suranné.  
 
-    DAMON
+    DAMON.
 Je metais [109]; & de peur de vous mettre en colere,  
 Je m'éloigne de vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Vous ne sçauriez mieux faire.  
 
 
-### SCENE X
+### SCENE X.
 
-    MONSIEUR LE BLANC *seul.*
+    MONSIEUR LE BLANC *seul.*.
 Cecy n'est pas mon compte, & ce jeune Coquet  
 A pû charmer Lucinde avecque son cacquet ;  
 Puis qu'il l'aime à ce point, on peut l'aimer de méme.  
@@ -1528,27 +1528,27 @@ Je l'aime, elle le sçait, mes soins l'ont fait connoistre :
 Voyons-la ; Que sçait-on ? je lui plairay peut-estre.  < Fin du Premier Acte. > 
 
 
-## ACTE II
+## ACTE II.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LUCINDE, CATO.
 
 
-    CATO
+    CATO.
 Quoy, ce Monsieur le Blanc fait l'amoureux de vous,  
 Comme s'il esperoit devenir vostre Epoux ?  
 Et quoy que marié [111], ce Magot⁎ vous fait croire,  
 Qu'à se donner à vous il met toute sa gloire [112] ?  
 Qu'il veut vous épouser ? Le Fourbe !  
 
-    LUCINDE
+    LUCINDE.
         Chaque jour  
 Il me suit, il m'aborde, il me parle d'amour,  
 Et mesme à nostre Hymen⁎ Damon dit qu'il s'opose.  
 Je m'en estois doutée, & j'en sçavois la cause.  
 
-    CATO
+    CATO.
 Mais enfin ce chagrin n'est pas fort de saison ;  
 Vostre Cousine va vous en faire raison [113] ;  
 Le piege qu'on luy tend, flate vostre esperance,  
@@ -1563,13 +1563,13 @@ Et si Monsieur le Blanc est Homme de parole,
 Vous m'allez voir joüer un assez plaisant rôle.  
 Sçait-il…  
 
-    LUCINDE
+    LUCINDE.
         Oüy, je luy dis à la Porte hyer au soir,  
 Qu'à quelque heure aujourd'huy je prétendois le voir.  
 Je feignis de l'aimer, je luy fis bonne mine,  
 Et je suivis en tout l'ordre de ma Cousine.  
 
-    CATO
+    CATO.
 Dieu sçait s'il va venir au Rendez-vous en feu,  
 De l'humeur dont il est, apres un tel aveu⁎.  
 Ce Singe vous croyant fole de sa Figure⁎,  
@@ -1582,52 +1582,52 @@ On leur garde, ma foy, des Filles de quinze ans !
 C'est bien à des Marys à faire les Galans!  
 Encor si ce Magot⁎ estoit un Homme à plaire…  
 
-    LUCINDE
+    LUCINDE.
 Hé bien…  
 
-    CATO
+    CATO.
         Eh… L'on verroit ce que l'on pourroit faire.  
 
-    LUCINDE
+    LUCINDE.
 Sa Femme doit servir au stratagéme aussy,  
 Et Damon s'est chargé de l'emmener icy ;  
 Et comme dans la chose elle est interessée,  
 Elle y contribûra, du moins c'est ma pensée.  
 
-    CATO
+    CATO.
 Reposez-vous sur nous du succés de vos feux⁎,  
 Nous allons le berner, en vous servant tous deux :  
 Prenez-vous-en à moy, si vous n'estes contente.  
 Mais Damon vient, je pense, avecque sa Parente.  
 
 
-### SCENE II
+### SCENE II.
 LUCINDE, MADAME LE BLANC, DAMON, CATO.
 
 
-    DAMON
+    DAMON.
 Voila ce qui se passe, & ce que l'on résout ;  
 En nous divertissant, nous en viendrons à bout.  
 J'en fus, en l'aprenant, surpris comme vous l'estes.  
 
-    LUCINDE *allant saluer Madame le Blanc*
+    LUCINDE *allant saluer Madame le Blanc*.
 Il faut la recevoir. L'honneur que vous me faites,  
 Me reproche en secret une civilité  
 Dont mon respect pour vous devroit s'estre acquité ;  
 Et les soins du Mary n'ont plus rien qui m'irrite,  
 Puis qu'à son amour seul je dois cette visite.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Je ne m'étonne plus de voir dans mon Epoux,  
 Pour moy tant de froideur, & tant d'amour pour vous :  
 Vostre beauté, Madame, à qui tout est possible,  
 Peut forcer à se rendre une ame moins sensible :  
 Vos appas⁎ sont si grands, & leur éclat est tel…  
 
-    LUCINDE
+    LUCINDE.
 Ce qu'on en voit en vous, le rend plus criminel.  
 
-    DAMON
+    DAMON.
 Ces discours obligeans font voir de part & d'autre  
 Des soins que vostre Sexe usurpe sur le nostre.  
 Je pourrois, pour l'entendre, estre assez complaisant :  
@@ -1636,30 +1636,30 @@ Allons voir si tanstot⁎ vostre aimable Cousine
 Executera bien tout ce qu'elle imagine,  
 Et si son enjoûement pourra bien soûtenir…  
 
-    LUCINDE
+    LUCINDE.
 Il n'en est pas besoin, car je la voy venir.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 On ne peut estre mieux, & j'aurois de la peine…  
 
 
-### SCENE III
+### SCENE III.
 LUCINDE, ANGELIQUE vestuë en Capitaine du Regiment du Roy, DAMON, CATO, L'ESPERANCE, MADAME LE BLANC.
 
 
-    ANGELIQUE
+    ANGELIQUE.
 L' Esperance ? mes Gens [116] ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Plaist-il⁎, mon Capitaine ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Bon cela. Souviens-toy…  
 
-    L’ESPERANCE
+    L’ESPERANCE.
     Je sçay bien.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Chevalier,  
 Dites-moy, sentons-nous [117] un peu nostre Officier ?  
 A Lucinde
@@ -1669,15 +1669,15 @@ A vostre avis, ma Chere, est-elle Cavaliere ?
 Avons-nous le bon air ? Croyez-vous que le Roy  
 Ait bien des Officiers qui soient faits comme moy ?  
 
-    LUCINDE
+    LUCINDE.
 Qu'elle est bien !  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Elle a l'air, dedans⁎ cet équipage⁎,  
 De ces petits Fripons qu'on fait sortir de Page [118],  
 Pour envoyer à Malte [119] aprendre leur Mestier.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Monsieur le Blanc, de moy, n'aura pas grand quartier⁎.  
 Aparemment, voila vostre belle Parente,  
 Je suis son Serviteur, & mesme sa Servante :  
@@ -1686,32 +1686,32 @@ Vostre Epoux va tomber en d'assez bonnes mains ;
 Et ce tour doit vous faire admirer nostre zele,  
 Puis que c'est un moyen de le rendre fidelle.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 J'ay promis à Damon de suivre vos avis [120].  
 
 
-### SCENE IV
+### SCENE IV.
 ANGELIQUE, LUCINDE, MADAME LE BLANC, CATO, L'ESPERANCE, LA BRIE [121].
 
 
-    LUCINDE
+    LUCINDE.
 Qu'est-ce ?  
 
-    LA BRIE
+    LA BRIE.
         Monsieur le Blanc est proche du Logis ;  
 On m'avoit commandé de voir par la fenestre,  
 Et si-tost qu'il viendroit, d'en avertir mon Maistre.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Fort-bien. Cato, c'est toy qui dois le recevoir.  
 
-    CATO
+    CATO.
 Je sçay bien ma leçon, je feray mon devoir.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Mais si par mon Mary vous estes reconnuë…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Comment me reconnoistre ? il ne m'a jamais veuë,  
 Ny mon Cousin non plus : Que craindroit on de luy ?  
 Tout est bien concerté ; je prétens aujourd huy  
@@ -1719,128 +1719,128 @@ Vous donner un plaisir qui n'ait rien qui l'égale.
 Mais je les vois venir, entrons dans cette Salle.  
 
 
-### SCENE V
+### SCENE V.
 MONSIEUR LE BLANC, CATO.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Oüy, Madame Cato, vous m'en voyez charmé ;  
 Et je viens de plaisir & de joye affamé,  
 Voir si par un bonheur qui passe mon mérite,  
 Je puis faire ceans⁎ une heureuse visite.  
 
-    CATO
+    CATO.
 Vous sçavez que Lucinde a souhaité vous voir,  
 Et qu'elle vous le dit elle-mesme hyer au soir.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Oüy, ma Chere, dy-moi, penses-tu qu'elle m'aime ?  
 
-    CATO
+    CATO.
 Ah Monsieur…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Quoy ? poursuis.  
 
-    CATO
+    CATO.
         Cent fois plus qu'elle-méme!  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mon air luy plaist ?  
 
-    CATO
+    CATO.
         Helas ! il luy semble si doux…  
 
-    MONSIEUR LE  BLANC
+    MONSIEUR LE BLANC.
 Elle m'aime ?  
 
-    CATO
+    CATO.
         Elle meurt, Monsieur, d'amour pour vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 La Friponne [122] ! Instruis-moy de toute sa tendresse⁎.  
 
-    CATO
+    CATO.
 Elle parle de vous, & soûpire sans cesse ;  
 Elle passe les nuits à vous faire pitié ;  
 Moy-mesme, de ses maux je soufre la moitié :  
 Elle se plaint si fort, que la nuit toute entiere  
 Je l'entens, & ne puis en clore la paupiere.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Va, va, si le succés peut feconder mes vœux,  
 Je vous feray bientost mieux dormir toutes deux :  
 Je veux que par mes soins vous soyez soulagées,  
 Et que…  
 
-    CATO
+    CATO.
         Nous vous serons, Monsieur, bien obligées.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Avec un peu de temps, je veux pourvoir à tout :  
 Mais puis qu'à me souffrir Lucinde se résout,  
 Ne la verray-je pas…  
 
-    CATO
+    CATO.
         Dans la Chambre prochaine  
 Je croy qu'elle entretient Monsieur le Capitaine.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Un Capitaine ! D'où ?  
 
-    CATO
+    CATO.
         Du Regiment du Roy.  
 Son Frere ; Il est icy pour quelque temps je croy.  
 Il vint, pour nos pechez, hyer au soir.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Quel Homme est-ce ?  
 
-    CATO
+    CATO.
 Un petit enragé, qui ferraille [123] sans cesse :  
 Jamais Homme ne fut de si méchante humeur,  
 Car il est étourdy, mutin, fier, querelleur,  
 Brave comme un César, mais brutal, & capable…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ces pestes [124] d'Officiers sont querelleurs en diable.  
 
-    CATO
+    CATO.
 Quand la fougue le prend, Monsieur, pour moins d'un rien  
 Comme on tuë un Poulet, il tuëroit un Chrestien :  
 Mais aussi quelque jour il joüera de son reste ;  
 Il en a tué dix depuis dix mois.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         La peste !  
 Avec de tels Bréteurs [125] il faut filer bien doux.  
 S'il me voyoit ceans⁎…  
 
-    CATO
+    CATO.
         Ce seroit fait de vous,  
 Monsieur, il vous tuëroit, & toute nostre adresse…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je m'en vais faire un tour, & verray ta Maistresse  
 Quand il n'y sera plus.  
 
-    CATO
+    CATO.
         Quoy, sortir sans la voir !  
 Ah ce seroit, Monsieur, la mettre au desespoir.  
 Pourquoy vous éloigner ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Ne t'en mets point en peine.  
 
-    CATO
+    CATO.
 Mais si Lucinde sçait…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Mais si le Capitaine  
 Vient à voir ma Figure⁎, & se tient insulté,  
 Je me garantis mort à *perpetuité* [126].  
 
-    CATO
+    CATO.
 Si ce n'est que cela, vous la pouvez attendre ;  
 Je me garderay bien de vous laisser surprendre :  
 Au pis aller, Monsieur, il faudra vous cacher.  
@@ -1848,9 +1848,9 @@ Allez, rassurez-vous, je m'en vay la chercher ;
 Si son Frere paroist, cachez-vous, je vous prie.  
 
 
-### SCENE VI
+### SCENE VI.
 
-    MONSIEUR LE BLANC *seul.*
+    MONSIEUR LE BLANC *seul.*.
 Hé bien va. Tout cecy passe la raillerie ;  
 Je crains dans mon calcul de m'estre méconté [127].  
 Ah que mal-à-propos le Diable m'a tenté !  
@@ -1872,86 +1872,86 @@ Il cherche à se cacher, & tombe.
 
 
 
-### SCENE VII
+### SCENE VII.
 MONSIEUR LE BLANC, LUCINDE, CATO.
 
 
-    LUCINDE
+    LUCINDE.
 O Dieux ! Monsieur le Blanc, vous estes-vous blessé ?  
 
-    MONSIEUR LE BLANC *se relevant*
+    MONSIEUR LE BLANC *se relevant*.
 Je dançois la Bourrée [128], & le pied m'a glissé.  
 Ce n'est rien : Mais que fait Monsieur le Capitaine ?  
 
-    LUCINDE
+    LUCINDE.
 Je pense qu'il écrit.  
 A Cato.
 
         Prends garde qu'il ne vienne.  
 
 
-### SCENE VIII
+### SCENE VIII.
 MONSIEUR LE BLANC, LUCINDE.
 
 
-    LUCINDE
+    LUCINDE.
 Vous voyez jusqu'où va ma tendresse⁎ pour vous,  
 Et combien le plaisir de vous revoir m'est doux :  
 Vostre merite est tel, que quelques reprimandes…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mon merite est petit, mais vos bontez sont grandes.  
 
-    LUCINDE
+    LUCINDE.
 Verray-je tant d'amour fecondé par vos soins ?  
 Vous ne répondez rien.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je n'en pense pas moins ;  
 Mais je crains qu'on ne trouble un bonheur dont je doute,  
 Et la peur quelquefois met la joy en déroute.  
 
-    LUCINDE
+    LUCINDE.
 Douter de mon amour ? lors que le vostre obtient…  
 
 
-### SCENE IX
+### SCENE IX.
 LUCINDE, M. LE BLANC, CATO.
 
 
-    CATO
+    CATO.
 Ah Monsieur, cachez-vous, le Capitaine vient.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Le facheux contretemps !  
 
-    CATO
+    CATO.
         Sur peine de la vie,  
 Gardez de vous montrer.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je n'en ay pas envie.  
 
-    LUCINDE
+    LUCINDE.
 Je vous quitte à regret.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Tréve de compliment⁎,  
 Où faut-il me cacher ?  
 
-    CATO
+    CATO.
         Dans cet Apartement.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je me fie à Cato, qui me trahit peut-estre.  
 Ecoutons-les sans bruit, je pourray le connoistre.  
 
 
-### SCENE X
+### SCENE X.
 ANGELIQUE, M. LE BLANC caché, CATO.
 
 
-    ANGELIQUE
+    ANGELIQUE.
 Cato, je te cherchois, & depuis mon retour  
 A peine ay-je eu le temps de te dire bonjour.  
 Il ne me souvient point de t'avoir embrassée.  
@@ -1959,113 +1959,113 @@ Il n'est pas sorty.
 Elle l'embrasse.
 
 
-    CATO
+    CATO.
     Non. [129]  
 
-    ANGELIQUE
+    ANGELIQUE.
         J'ay l'ame embarassée,  
 Et je me sens reduit à te dire en deux mots.  
 A propos.  
 
-    CATO
+    CATO.
         D'où vient donc, Monsieur, cet *A propos* ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Avant que de porter plus loin la confidence,  
 Je veux sçavoir de toy, si pendant mon absence  
 Ma Sœur sortoit souvent, ou bien si quelque Amant  
 Ne la visitoit point un peu trop frequemment ?  
 
-    MONSIEUR LE BLANC *caché dans une Entrée*
+    MONSIEUR LE BLANC *caché dans une Entrée*.
 Je tremble.  
 
-    CATO
+    CATO.
     Non, Monsieur.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Une Fille à cet âge  
 Est ordinairement plus coquette que sage.  
 
-    CATO
+    CATO.
 Elle estoit toûjours seule, & jamais ne sortoit,  
 A moins que…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Par la mort, si quelqu'un s'y frotoit,  
 Je lui feroit passer un fort méchant quart-d'heure.  
 
-    CATO
+    CATO.
 On n'a garde [130], Monsieur.  
 
-    ANGELIQUE
+    ANGELIQUE.
         On fait bien, ou je meure.  
 
-    CATO
+    CATO.
 Elle est trop vertueuse, & l'on le sçait trop bien.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Changeons donc de discours. Dy-moy, par ton moyen,  
 Ne sçaurois-je revoir cette jeune Bourgeoise…  
 
-    CATO
+    CATO.
 Je vous entens, Monsieur ; Pourquoy non ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         La Matoise [131],  
 Est de plus d'un Mestier.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Cato, depuis deux ans  
 J'ay songé mille fois à tous les doux momens  
 Que j'ay passé pres d'elle, & de toutes les Belles…  
 
-    CATO
+    CATO.
 Elle m'a demandé vingt fois de vos nouvelles.  
 
-    ANGELIQUE
+    ANGELIQUE.
 M'aimeroit-elle encor ?  
 
-    CATO
+    CATO.
     En doutez-vous ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Hélas !  
 La verray-je ?  
 
-    CATO
+    CATO.
         Pourquoy ne la verriez- vous pas ?  
 Cette Belle, ma foy, seroit bien dégoûtée,  
 Si vous ne luy plaisiez ; Car pour moy…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         L'éfrontée !  
 
-    ANGELIQUE
+    ANGELIQUE.
 Mais puis-je en esperer…  
 
-    CATO
+    CATO.
         Je vous répons, Monsieur,  
 Qu'elle vous recevra du meilleur de son cœur.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Cato, va, s'il se peut, sçavoir de cette Belle,  
 Si je la pourray voir ou ceans⁎, ou chez elle.  
 
-    CATO
+    CATO.
 Pour chez elle, Monsieur, neant.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Et pourquoy non ?  
 
-    CATO
+    CATO.
 C'est que je ne sçay point son Logis, ny son nom ;  
 Comme elle est mariée, elle craint le scandale.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Comment faisois-tu donc, lors que par intervalle  
 Tu l'amenois ceans⁎ ?  
 
-    CATO
+    CATO.
         La Veuve d'un Bourgeois  
 Chez qui j'allois apprendre à coëffer autrefois,  
 Quand je luy veux parler, va chercher cette Belle,  
@@ -2077,51 +2077,51 @@ C'est qu'elle a pour Epoux un Chercheur de fortune,
 Un Pié-plat⁎ qui la fuit, & qu'on dit pour la voir,  
 Qu'on va pour la coëffer.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Que j'en conçois d'espoir !  
 Ne pers donc point de temps ; & si ton soin m'oblige⁎,  
 Sois seûre…  
 
-    CATO
+    CATO.
         Vous aurez contentement, vous dis-je ;  
 Cele ne pourra, si je n'en viens à bout.  
 J'y cours, & je vous viens rendre raison de tout [132].  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 L'obligeante Cato luy va chercher la Belle.  
 Morbleu, fut-il déjà dans sa Chambre avec elle.  
 
-    ANGELIQUE
+    ANGELIQUE.
 L'Esperance ?  
 
 
-### SCENE XI
+### SCENE XI.
 ANGELIQUE, M. LE BLANC, L'ESPERANCE.
 
 
-    L’ESPERANCE
+    L’ESPERANCE.
     Monsieur ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il ne sort point d'icy. [133]  
 
-    ANGELIQUE
+    ANGELIQUE.
 Viença.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Le grand Fripon que paroist celuy-ci !  
 
-    ANGELIQUE
+    ANGELIQUE.
 As-tu veu mon Cousin ? a-t-il fait ma Recruë⁎ ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Oüy, je vous en répons.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Mais enfin l'as-tu veuë ?  
 M'a-t-il fait vingt Soldats comme il m'avoit promis ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Il n'en a que dix-neuf, mais ils sont bien choisis ;  
 Il ne faut point, Monsieur, apres eux, qu'on en cherche ;  
 Ils sont, mordié, tretous aussi grands qu'une perche,  
@@ -2129,108 +2129,108 @@ Je les ay fait toiser moy-mesme dans sa cour,
 Ils ont six pieds de haut, & trois grands pieds de tour,  
 Et des barbes, morbleu, qui les rendent plus graves…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Sont-ils braves, à voir ?  
 
-    L’ESPERANCE *en riant*
+    L’ESPERANCE *en riant*.
         Morgué, s'ils n'etoient braves,  
 Les voudrois-je emmener ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         C'est parler de bon sens :  
 Mais à la Garnison il faut mener ces Gens ;  
 Comme tu ne m'es plus à Paris necessaire,  
 Tu partiras…  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Demain, & j'en fais mon affaire ;  
 Préparez de l'argent.  
 
-    ANGELIQUE
+    ANGELIQUE.
         C'est fort bien raisonné.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Votre œil est aujourd'huy bien emmerillonné [134] !  
 Vous avez vostre conte.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Oüy, j'ay l'ame contente ;  
 Cato me fait revoir, pour flater mon attente,  
 Cette jeune Beauté que tu vis une fois…  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Je sçay bien, je sçay bien, la Femme d'un Bourgeois,  
 Qui venoit quelquefois vous tenir compagnie.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Elles-mesme, & je dois…  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Peste, qu'elle est jolie !  
 Dieu sçait si le Mary… plaist-il⁎, Monsieur ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Tay-toy,  
 Quelqu'un vient, laisse-nous, c'est elle que je voy.  
 
 
-### SCENE XII
+### SCENE XII.
 ANGELIQUE, MADAME LE BLANC, MONSIEUR LE BLANC, CATO.
 
 
-    CATO
+    CATO.
 A Vingt pas du Logis, j'ay rencontré Madame.  
 
-    ANGELIQUE *la saluant.*
+    ANGELIQUE *la saluant.*.
 Que mon bonheur est grand !  
 
     MONSIEUR LE BLANC *caché*.
         La peste ! C'est ma Femme !  
 
-    ANGELIQUE
+    ANGELIQUE.
 Depuis que j'eus l'honneur de vous voir en ce Lieu,  
 Rien ne m'a tant touché que ce funeste adieu ;  
 L'absence a fait sentir à mon ame amoureuse  
 Tout ce qu'elle a de rude.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
     Est-il bien vray ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         La Gueuse !  
 
-    ANGELIQUE
+    ANGELIQUE.
 Mais puis que mon bonheur me fait vous retrouver,  
 C'est en vous embrassant que je le veux prouver :  
 Je veux, puisque pour moy vostre ardeur s'intéresse,  
 Que mon empressement seconde ma tendresse⁎.  
 
-    CATO
+    CATO.
 Là-donc, comme elle fait la prude aupres de luy !  
 Quand vous ne nous seriez jamais veus qu'aujourd'huy.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 La Coquine !  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je crois en deviner la cause ;  
 L'amour pour vostre Epoux, à mon bonheur s'opose.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Helas ! quelque charmant que peut estre un Epoux,  
 Que ne souffre-t-on point d'un Homme comme vous ?  
 Ah ! si jamais le Sort secondoit mon envie…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Hé bien ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Je vous verrois tous les jours de ma vie.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Fort-bien.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Pour un Amant qui meurt pour vous d'amour,  
 C'est & trop de bontez & de joye en un jour.  
 J'ay pour vous une ardeur qui n'a rien qui l'égale :  
@@ -2238,19 +2238,19 @@ Mais comme tout le monde aborde en cette Salle,
 Ce Lieu n'est pas fort propre à vous bien recevoir,  
 Et pour y souffrir, je sçais trop mon devoir.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Entrons, puis que le Sort permet que je vous voye.  
 
-    ANGELIQUE* en rentrant.*
+    ANGELIQUE* en rentrant.*.
 Cato ?  
 
-    CATO *rentrant aussi.*
+    CATO *rentrant aussi.*.
     Monsieur ?  
 
 
-### SCENE XIII
+### SCENE XIII.
 
-    MONSIEUR LE BLANC *seul.*
+    MONSIEUR LE BLANC *seul.*.
         Voila la Marchande de joye :  
 L'affront que l'on me fait, ne m'est que trop connu,  
 Et l'aveu⁎ qu'on en fait, n'est que trop ingénu.  
@@ -2276,90 +2276,90 @@ Il est mutin en diable, & Cato me l'a dit.
 Taisons-nous, attendons qu'elle… J'entens du bruit.  
 
 
-### SCENE XIV
+### SCENE XIV.
 MONSIEUR LE BLANC, CATO.
 
 
-    CATO
+    CATO.
 Il faut faire sortir nostre Amoureux.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         C'est elle,  
 Sortons ; assez longtemps c'est estre en sentinelle.  
 
-    CATO
+    CATO.
 Il s'est fallu, Monsieur, contraindre jusqu'au bout :  
 Mais vous vous estes bien ennuyé ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Point du tout.  
 Le moyen ? quand on voit des intrigues si drôles.  
 
-    CATO
+    CATO.
 Avec de jeunes Gens on fait d'étranges rôles.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Oüy sans doute, & cela ne se peut autrement.  
 
-    CATO
+    CATO.
 N'en faites point, Monsieur, de mauvais jugement,  
 J'ay sur le point-d'honneur trop de délicatesse :  
 Mais vous sçavez que quand on sert de la Jeunesse,  
 Et qu'on y fait son compte, il vaut mieux consentir…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Bon ! ne sçay-je pas bien qu'il faut se divertir ?  
 Monsieur le Capitaine aime fort cette Belle ?  
 
-    CATO
+    CATO.
 Cela n'est pas croyable.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Et cette Damoiselle  
 L'aime fort ?  
 
-    CATO
+    CATO.
     Oüy, Monsieur.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Presentement… je crois…  
 
-    CATO
+    CATO.
 Ils se sont embrassez déjà plus de cent fois.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ta Maistresse sçaura, si tu luy veux apprendre,  
 Que je suis son Valet.  
 
-    CATO
+    CATO.
         Mais, Monsieur, où vous prendre,  
 Si l'on vous veut parler ? Où logez-vous ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Trop loin.  
 
-    CATO
+    CATO.
 Je vous irois chercher.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il n'en est pas besoin.  
 
-    CATO
+    CATO.
 Dites vostre Logis, ma Maistresse est capable,  
 L'ignorant…  
 
-    MONSIEUR LE BLANC *à part.*
+    MONSIEUR LE BLANC *à part.*.
         On le sçait trop bien, de par le Diable.  
 Que l'on me laisse aller, je la verray dans peu.  
 
-    CATO
+    CATO.
 Puis que vous le voulez, adieu, Monsieur.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Adieu.  
 
 
-### SCENE XV
+### SCENE XV.
 
     CATO *seule*.
 Il meurt de jalousie, & de colere ensemble.  
@@ -2368,86 +2368,86 @@ Pour un commencement, assez bien débuté.
 Allons songer au reste, & rire en liberté.  < Fin du Second Acte. > 
 
 
-## ACTE III
+## ACTE III.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ANGELIQUE, LUCINDE.
 
 
-    LUCINDE
+    LUCINDE.
 Cato ?  
 
-    ANGELIQUE
+    ANGELIQUE.
     Que luy veux-tu ?  
 
-    LUCINDE
+    LUCINDE.
         Qu'est-elle devenuë ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Tu l'apelles en vain.  
 
-    LUCINDE
+    LUCINDE.
         L'auroit-on retenuë ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Je ne crois pas.  
 
-    LUCINDE
+    LUCINDE.
     Comment, nous suivoit-elle ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Non.  
 
-    LUCINDE
+    LUCINDE.
 Elle estoit avec nous chez la Sœur de Damon.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il est vray ; mais je viens de l'envoyer en Ville,  
 Et le soin que tu prens, Cousine, est inutile.  
 
-    LUCINDE
+    LUCINDE.
 Et quoy faire ?  
 
-    ANGELIQUE
+    ANGELIQUE.
     Chercher Monsieur le Blanc.  
 
-    LUCINDE
+    LUCINDE.
         Pourquoy ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Pour lui rendre un Poulet [137] de ta part.  
 
-    LUCINDE
+    LUCINDE.
         Mais, dy-moy,  
 Que contient-il ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Il est fort galant⁎, & fort tendre.  
 
-    LUCINDE
+    LUCINDE.
 Ton enjoûment, Cousine, a dequoy me surprendre.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ecoute, laisse-moy ménager ton amour ;  
 Je veux me divertir tout le reste du jour,  
 J'en sçay bien le moyen. Toy, sans me contredire,  
 Ne t'informes de rien, & ne songes qu'à rire.  
 
-    LUCINDE
+    LUCINDE.
 On peut sur ton début croire qu'avec le temps…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Nostre Monsieur le Blanc a bien donné dedans ;  
 Il croit de bonne-foy sa Femme…  
 
-    LUCINDE
+    LUCINDE.
         Je t'avouë  
 Que ton air goguenard⁎ merite qu'on te louë :  
 Il seroit malaisé de mieux faire l'Amant,  
 Et tu devrois estre Homme avec tant d'enjoûment.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Si le Ciel m'avoit fait Homme, comme il le pense,  
 Ma foy, j'aurois esté Coquet à toute outrance ;  
 J'aurois sçeu, pour vanter ma peine & mon ardeur,  
@@ -2459,45 +2459,45 @@ J'aurois esté flateur, j'aurois rendu des soins,
 Et pressé de si pres les Blondes & les Brunes,  
 Que j'aurois eu ma part des meilleures fortunes.  
 
-    LUCINDE
+    LUCINDE.
 Tu pourrois te tromper.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je ne sçay ; mais enfin,  
 Un cœur pour m'échaper, m'auroit semblé bien fin.  
 
-    LUCINDE
+    LUCINDE.
 Mais puis que tu prétens porter plus loin la chose  
 Avec Monsieur le Blanc, & que l'on s'y dispose,  
 Il falloit retenir sa Femme.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Point du tout ;  
 Pour juger du dessein, attens jusques au bout.  
 
-    LUCINDE
+    LUCINDE.
 Outre qu'elle pouvoit nous estre necessaire,  
 Son Mary pourroit bien chez luy, dans sa colere,  
 Prenant ce qu'il a veu pour une verité,  
 En venir avec elle à quelque extremité.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Damon prendra ce soin : il la mene, & se flate,  
 En la justifiant, d'empescher qu'il n'éclate ;  
 Il n'est pas violent, il connoit son humeur,  
 Outre que leur défaite est preste.  
 
-    LUCINDE
+    LUCINDE.
         J'aurois peur…  
 
-     ANGELIQUE
+    ANGELIQUE.
 Tay-toy, je l'aperçois, évitons-le, & [138] pour cause.  
 Allons dans le Logis préparer chaque chose.  
 
 
-### SCENE II
+### SCENE II.
 
-    MONSIEUR LE BLANC, *seul.*
+    MONSIEUR LE BLANC, *seul.*.
 Ma Femme ne vient point, elle se trouve bien,  
 Et son honneur, je croy, fait bon marché du mien :  
 Mon affront est certain, je sçais trop qu'on m'offence,  
@@ -2521,47 +2521,47 @@ Et Monsieur l'Officier n'a plus que faire d'elle :
 Mon Neveu l'accompagne. Il faut dissimuler.  
 
 
-### SCENE III 
+### SCENE III. 
 MONSIEUR LE BLANC, MADAME LE BLANC, DAMON.
 
 
-    MONSIEUR LE BLANC *à Damon, qui luy fait la reverence.*
+    MONSIEUR LE BLANC *à Damon, qui luy fait la reverence.*.
 Serviteur.  
 A sa Femme.
 
         Venez-vous de vous faire enrôler ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Comment donc ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Venez-vous de voir faire Reveuë ?  
 Les Belles du Marais font-elles leur Recruë⁎ ?  
 Avez-vous mis en vain ces Mouches & ce Point?  
 Et la Coëffeuse enfin…  
 
-    MADAME LE BALNC
+    MADAME LE BALNC.
         Je ne vous entens point.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Taisez-vous, éfrontée !  
 
-    DAMON
+    DAMON.
         Eh, mon Oncle, de grace…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mon Dieu, mon cher Neveu, ce mystere vous passe,  
 Vous parlez sans sçavoir : Taisez-vous ! vous ferez,  
 Quand vous serez Cocu, comme vous l'entendrez.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 A de pareils discours je ne puis rien comprendre.  
 
-    DAMON
+    DAMON.
 Mais si vostre dessein est de vous faire entendre,  
 Expliquez…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je commence enfin à m'échauffer.  
 Une Femme chez qui l'on aprend à coëffer,  
 Ne vous ménage pas les lieux où l'on vous meine.  
@@ -2569,13 +2569,13 @@ Vous ne sortez jamais, & certain Capitaine
 Vous embrassant d'abord, bras dessus, bras dessous,  
 N'a pas tanstot⁎ chez luy… Plaist-il⁎ : m'entendez vous ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Pour flater son amour, j'aurois trahy le vostre ?  
 
-    DAMON
+    DAMON.
 Qui peut vous avoir fait de tels discours ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         A l'autre.  
 Vous plaist-il de vous taire ? Enfin jusques au bout  
 Vous pensez vous tirer d'affaire, en niant tout ?  
@@ -2596,59 +2596,59 @@ Je les ay veu tous deux se parler, s'embrasser,
 Et cherchant à se voir une secrette voye,  
 Faire de cent baisers un prologue à leur joye.  
 
-    DAMON
+    DAMON.
 Cela n'est pas possible ! Un projet si hardy  
 Auroit pû s'estre fait…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Peste de l'étourdy :  
 Cette teste à l'évent me prend pour quelque Gruë [143].  
 Hé bien, qu'en dites-vous ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Que si vous m'avez veuë,  
 Sans venir faire icy cet éclaircissement,  
 Vous pouviez me confondre assez facilement ;  
 Qu'il faloit vous montrer, cette voye estoit seûre.  
 Que ne paroissiez-vous ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Ah voilà l'encloüeûre [144].  
 
-    DAMON
+    DAMON.
 Il est vray, vous deviez vous montrer, & tout haut  
 Luy dire…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Mallepeste [145], il y faisoit trop chaud ;  
 Quand on risque sa vie, il n'est Femme qui tienne,  
 Et j'avois ma raison, comme elle avoit la sienne.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Il l'a resvé sans doute, & ne se souvient plus  
 Que c'est l'effet d'un songe.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         A d'autres là-dessus ;  
 Je ne sçay que trop bien ce qu'il faut que j'en pense.  
 Rentrez, morbleu, rentrez, & craignez ma vangeance,  
 Je suis de vos amours un assez bon témoin.  
 
-    DAMON
+    DAMON.
 Mon Oncle…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Mon Neveu, vous prenez trop de soin.  
 
 
-### SCENE IV 
+### SCENE IV. 
 MONSIEUR LE BLANC, DAMON.
 
 
-    DAMON
+    DAMON.
 On doit pour une Femme avoir quelque scrupule.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il est vray, je devrois avaler la pilule,  
 Et dire galamment, sans me rendre importun,  
 Que le mal n'est plus mal, quand il est si commun ;  
@@ -2657,28 +2657,28 @@ C'est vostre sentiment, mais ce n'est pas le nostre ;
 De ces conseils benins, l'usage est bel & bon :  
 Cependant…  
 
-    DAMON
+    DAMON.
         Cependant sur un simple soupçon  
 Vous…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Vous estes un fat, & vostre esprit s'érige…  
 
-    DAMON
+    DAMON.
 Mais…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Vous estes un sot avant terme, vous dis-je.  
 On vous dit qu'on a veu.  
 
-    DAMON
+    DAMON.
         Sur la foy de ses yeux,  
 Croit-on que ce qu'on voit, soit ce qu'on sçait le mieux ?  
 Il faut, pour avérer une semblable offence,  
 D'avec la verité détacher l'aparence,  
 Ne pas croire toûjours des sentiments si bas.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Et que croiray-je donc, ce que je ne voy pas ?  
 Parbleu, vostre morale est d'un admirable Homme !  
 Lors que je parle à vous, faut-il vous croire à Rome [146] ?  
@@ -2686,35 +2686,35 @@ Ou gager⁎ fortement, sur vostre beau discours,
 Que vous estes muet, quand vous jazez toûjours ?  
 J'ay tout veu ; mon offence est-elle assez prouvée ?  
 
-    DAMON
+    DAMON.
 L'étrange opinion ! Où l'aurois-je trouvée,  
 Pour luy donner la main, & la conduire icy ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 En quelque Lieu d'honneur [147] où vous estiez aussy,  
 Ce n'est pas pour tous deux une chose nouvelle.  
 
-    DAMON
+    DAMON.
 Je sors de chez ma Sœur, où j'estois avec elle :  
 Elle n'a veu que nous, depuis qu'elle est dehors.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Et vous en répondez ?  
 
-    DAMON
+    DAMON.
     J'en répons.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Corps pour corps [148] ?  
 
-    DAMON
+    DAMON.
 Elle a trop de pudeur, & trop de retenuë,  
 Pour souffrir…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Comment diable, aurois-je eu la berluë [149] ?  
 
-    DAMON
+    DAMON.
 Outre que j'en répons, elle sçait son devoir :  
 Vos yeux se sont trompez, vous avez crû la voir,  
 Vous avez sans sujet blessé son innocence,  
@@ -2734,33 +2734,33 @@ A taxer la pudeur de celle qu'il soupçonne,
 Et ne peut présumer, s'il a trop éclaté,  
 Qu'elle ait de la vertu, puis qu'il en a douté.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Comme vous dites.  
 
-    DAMON
+    DAMON.
         Si depuis peu sa conduite,  
 D'un amour aparent vous fait craindre la suite,  
 Eclaircissez-vous-en sans vous mettre en courroux⁎ ;  
 Tâchez de la convaincre, & pour lors vangez-vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il a presque raison.  
 
-    DAMON
+    DAMON.
         De peur de vous détruire,  
 Ne faites jusques-là rien qui puisse vous nuire ;  
 D'un repentir sans fruit épargnez-vous l'ennuy.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 L'avis n'est point mauvais, & je puis aujourd'huy  
 La convaincre de tout avec un peu d'adresse,  
 Et je sçais un moyen… Serviteur.  
 
-    DAMON
+    DAMON.
         Je vous laisse.  
 
 
-### SCENE V 
+### SCENE V. 
 
     MONSIEUR LE BLANC *seul*.
 Il raisonne assez bien, je puis m'estre trompé,  
@@ -2779,20 +2779,20 @@ Cherchons-la, je prétens, en sortant de ces lieux,
 Que…Mais tout-à-propos [150] elle s'offre à mes yeux.  
 
 
-### SCENE VI
+### SCENE VI.
 MONSIEUR LE BLANC, CATO.
 
 
-    CATO
+    CATO.
 Je vous ay tant cherché, que j'en suis hors d'haleine :  
 Ma foy, depuis une heure, & plus, je me proméne,  
 Monsieur ; & graces à vostre opiniâtreté,  
 J'ay bien esté grondée, & j'ay bien arpenté.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Pourquoy ?  
 
-    CATO
+    CATO.
         Pour n'avoir pû dire vostre demeure,  
 Lucinde s'est d'abord emportée, & sur l'heure  
 M'a donné ce Billet, & m'a bien defendu  
@@ -2804,7 +2804,7 @@ Vingt Courtauts [152] sous le nez, que je prenois pour vous,
 Ce Billet vous dira si sa peine est cruelle,  
 Et si l'on doit…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Voyons du style de la Belle.  
 Il lit
 
@@ -2827,12 +2827,12 @@ Cherchent secrettement à ménager leurs feux⁎,
 Et la bonne Cato sert d'Agente à tous deux.  
 Bien loin de s'en fâcher, elle n'en fait que rire.  
 
-    CATO
+    CATO.
 Il seroit à present trop tard pour en dédire ;  
 Ils m'ont prise chez eux, Monsieur, pour estre à tout.  
 Mais ne viendrez-vous pas ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il faut voir jusqu'au bout.  
 A part.
 
@@ -2840,10 +2840,10 @@ Oüy, oüy, j'iray. Ma Femme y reviendra peut-estre,
 Et nous verrons beau jeu : Mais prens garde à ton Maistre,  
 Il m'a tantost⁎ pensé faire mourir de peur.  
 
-    CATO
+    CATO.
 Ne craignez rien de luy. Jusqu'au revoir Monsieur.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Viença, viença [154], j'ay bien autre chose à te dire.  
 Comme tu fais plaisir à quiconque aime à rire,  
 Et que tu sçais enfin, en faveur des galans⁎,  
@@ -2851,10 +2851,10 @@ Ce que chaque Quartier [155] a d'honneurs chancelans,
 Serois-tu bien d'humeur à chercher une voye  
 De ménager pour nous un quart-d'heure de joye.  
 
-    CATO
+    CATO.
 Que veut dire cela ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         C'est à dire, en deux mots,  
 Que la Coëffeuse peut beaucoup pour mon repos⁎ ;  
 Que pour elle & pour toy je seray sans reserve,  
@@ -2868,65 +2868,65 @@ Fais que j'aye avec elle une heure d'entretien⁎ ;
 Tu peux, pour me servir, employer ta Compagne,  
 Ma Chere, mets pour moy la Coëffeuse en campagne [157].  
 
-    CATO
+    CATO.
 Quoy, vous aimez Lucinde, & vous voulez en conter ?  
 Si, comme tout se sçait, elle se peut douter  
 De vostre amour nouveau, que pourra-t-elle dire ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Rien, ma pauvre Cato ; Va, ce n'est que pour rire,  
 Je ne luy veux parler qu'un moment.  
 
-    CATO
+    CATO.
         Je ne puis,  
 Cette Femme n'est pas…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je donne dix Loüis,  
 Et ma Bague.  
 
-    CATO
+    CATO.
         On verra ce que l'on pourra faire.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Que tu fais de façons pour conclure une affaire !  
 Songe à bien ménager…  
 
-    CATO
+    CATO.
         Vous serez satisfait.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Dy-moy, quand ce projet aura-t-il son effet ?  
 Le plutost vaut le mieux. Quand verray-je la Belle ?  
 Penses-tu que pour nous elle soit fort cruelle ?  
 
-    CATO
+    CATO.
 Je ne croy pas, Monsieur ; & si vous luy parlez…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Où la verray-je enfin ?  
 
-    CATO
+    CATO.
         Chez vous, si vous voulez.  
 
-    *A part* MONSIEUR LE BLANC
+    *A part* MONSIEUR LE BLANC.
 Elle n'y viendroit pas. Non, non, chez la Coëffeuse  
 Je feray mieux l'aveu⁎ de ma flâme⁎ amoureuse.  
 
-    CATO
+    CATO.
 Je le veux.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je prévoy sa honte à mon aspect,  
 Quand je verray ma Femme en quelque Lieu suspect.  
 Je voy plus d'un Mary rire à teste levée,  
 A qui mesme avanture est peut-estre arrivée [158].  
 Cato, cela vaut fait.  
 
-    CATO
+    CATO.
         Je vous répons de tout.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 J'iray tantost⁎ chez toy. Feignons jusques au bout.  
 Je vais revoir ma Femme, & veux à l'amiable  
 A son honneur douteux faire amande honorable,  
@@ -2934,10 +2934,10 @@ Et feindre d'un discours, & d'un air composé,
 Pour la mieux abuser, d'estre des-abusé.  < Fin du Troisième Acte. > 
 
 
-## ACTE IV
+## ACTE IV.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 
     L’ESPERANCE *seul*.
 A la fin, Dieu mercy, j'ons [159] tout ce qui nous faut,  
@@ -2961,74 +2961,74 @@ Mais ce raisonnement n'est pas fort de saison,
 Allons tout préparer, & faisons diligence [166].  
 
 
-### SCENE II
+### SCENE II.
 L'ESPERANCE, CATO.
 
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Ah, Cato, ton Valet.  
 
-    CATO
+    CATO.
         Ah, bonjour, L'Esperance.  
 On te cherche par tout, & tu dois nous aider…  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Que veut-on ? me voila.  
 
-    CATO
+    CATO.
         Faut-il le demander ?  
 C'est pour Monsieur le Blanc. Angelique elle-méme  
 Prépare à le berner, un nouveau stratagéme :  
 Pour en venir à bout, elle a besoin de toy.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Je suis prest à bien faire, & tu verras…  
 
-    CATO
+    CATO.
         Dy-moi,  
 N'a-t-elle pas joüé bien plaisamment son rôle  
 Avec nostre Galant⁎ ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Elle est, morgué, trop drôle :  
 Elle m'a bien fait rire ; & le pauvre lourdaut…  
 
-    CATO
+    CATO.
 Tay-toi, nous parlerons de tout cela tantost⁎.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Je le veux, aussi-bien il faut que je t'en conte.  
 
-    CATO
+    CATO.
 C'est pour une autre fois ; ils sont tous là-haut ; monte  
 Pour voir ce qu'on te veut.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Je te l'ay déjà dit,  
 Mon amour est bien las de te faire crédit :  
 Depuis plus de dix ans, tu sçais bien que je t'aime ;  
 Pour un baiser, ou deux, veux-tu…  
 
-    CATO
+    CATO.
         Veux-tu toy-méme  
 Me laisser en repos⁎ ?  
 
-    ANGELIQUE *de dedans⁎ une entrée apelle.*
+    ANGELIQUE *de dedans⁎ une entrée apelle.*.
     L'Esperance ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Monsieur ?  
 
-    CATO
+    CATO.
 Va.  
 
-    L’ESPERANCE *la baisant.*
+    L’ESPERANCE *la baisant.*.
         Tu n'en es pas quitte. On y va. Serviteur.  
 
 
-### SCENE III
+### SCENE III.
 
-    CATO *seule.*
+    CATO *seule.*.
 Peste du gros lourdaut ! voyez, qu'il prend de peine.  
 Tu n'as qu'à revenir. M'en voilà hors d'haleine.  
 Qu'il me tarde de voir nostre Galant⁎ icy !  
@@ -3039,55 +3039,55 @@ Le tour qu'on luy prépare est plaisant, sur ma foy ;
 Sa Femme devroit bien venir… Mais je la voy.  
 
 
-### SCENE IV
+### SCENE IV.
 MADAME LE BLANC, CATO.
 
 
-    CATO
+    CATO.
 Je craignois bien qu'icy vous ne pûssiez vous rendre.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 A quoy passe le temps, Lucinde ?  
 
-    CATO
+    CATO.
         A vous attendre.  
 Et moy, j'attens aussi que Monsieur vostre Epoux  
 Vienne, comme il l'a dit, tantost⁎ au Rendez-vous.  
 Angelique & Damon joindront leurs soins aux vostres.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Que son humeur me plaist !  
 
-    CATO
+    CATO.
         Elle plaist à bien d'autres.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Je brûle de les voir, pour sçavoir quelle peur  
 On luy veut faire encor.  
 
-    CATO *l'arrestant*
+    CATO *l'arrestant*.
         Si vous estiez d'humeur  
 A garder un secret…  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Parle, je sçais me taire.  
 
-    CATO
+    CATO.
 Je puis vous confier une assez bonne affaire ;  
 L'occasion vous rit, & je sçais un moyen,  
 Si vous me promettez que vous n'en direz rien,  
 De ménager pour vous…  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Ah ce doute m'offence.  
 
-    CATO
+    CATO.
 Vous sçaurez donc…  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
     Hé bien ?  
 
-    CATO
+    CATO.
         Qu'un Galant⁎ d'importance  
 Est amoureux de vous, & que pour vous gagner  
 Il est dans le dessein de ne rien épargner :  
@@ -3098,53 +3098,53 @@ Si vous voulez passer une heure avecque luy.
 Je me suis engagée à vous porter parole,  
 Et crû vous obliger⁎.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Depuis quand es-tu folle ?  
 Veux-tu qu'en profitant de tes bonnes leçons,  
 Je donne rendez-vous…  
 
-    CATO
+    CATO.
         Mon Dieu, que de façons !  
 Pourquoy non ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Tu prétens que son argent m'oblige⁎,  
 Malgré ce que je dois…  
 
-    CATO
+    CATO.
         Oüy, ce Galant⁎, vous dis-je,  
 Verra par des faveurs récompenser son choix,  
 Et ce ne sera pas pour la premiere fois.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Pour la premiere fois ! Tu peux…  
 
-    CATO
+    CATO.
         Il me le semble,  
 Et vous avez passé de bons momens ensemble.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Je commence à trouver ce discours ennuyeux :  
 C'est porter un peu loin l'insolence à mes yeux ;  
 Mais tu peux t'assurer que devant⁎ que je parte…  
 
-    CATO
+    CATO.
 Nous ne jurons de rien, mais nous sçavons la Carte [167].  
 Cependant le Galant⁎, pour vous voir, doit venir;  
 J'ay donné ma parole, & prétens la tenir :  
 Il m'a fort bien payée, & m'a donné sa Bague,  
 Et des Loüis forts bons ; voyez si j'extravague [168].  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Montre, je la connois… Je croy…  
 
-    CATO
+    CATO.
         Cela se peut.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Qu'elle est à mon Mary.  
 
-    CATO
+    CATO.
         C'est luy qui vous en veut.  
 Depuis qu'il vous a veuë en ce lieu si docile,  
 Il croit que vous allez chercher fortune en Ville,  
@@ -3154,43 +3154,43 @@ Et prétend, pour régler son amour sur le vostre,
 Estre pour son argent, bien venu comme un autre.  
 Hé bien, le verrez-vous tantost⁎ ?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Helas ! je crains  
 Qu'il n'ait contre mes jours fait d'étranges desseins,  
 Et que l'on ait trop loin poussé la raillerie.  
 
-    CATO
+    CATO.
 On va, pour l'apaiser, changer de batterie [169],  
 Ne vous allarmez point. Dans une heure d'icy  
 Vous en verrez l'effet. Mais quelqu'un vient icy,  
 Rentrez, c'est vostre Epoux. Dites à ma Maistresse  
 Qu'elle songe à son rôle.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Il suffit, je te laisse.  
 
 
-### SCENE V
+### SCENE V.
 MONSIEUR LE BLANC, CATO.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Comment va nostre affaire ?  
 
-    CATO
+    CATO.
         Eh tout ira fort bien.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Bon : Et le Capitaine ?  
 
-    CATO
+    CATO.
         Allez, n'en craignez rien.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ce n'est pas sans sujet que ma peur est extréme ;  
 Et tu sçais que tantost⁎…  
 
-    CATO
+    CATO.
         Oh ce n'est pas de mesme,  
 Il est hors du Logis, & pour tout aujourd'huy  
 Il est avec un tas de Vauriens comme luy,  
@@ -3199,26 +3199,26 @@ Il faudra que tantost⁎ il creve, ou qu'il s'enyvre ;
 Et je croy, comme enfin il n'en fait pas façon,  
 Que quand nous le verrons, il sera beau Garçon.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mais comme de Bacchus Vénus aime l'aproche,  
 As-tu pour son retour, quelque Mignonne en poche ?  
 De l'humeur dont il est, tu dois prendre ce soin.  
 
-    CATO
+    CATO.
 Ma foy, je ne croy pas qu'il en ait grand besoin :  
 C'est pour vous que je veux employer mon adresse.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 C'est bien fait : Mais, dy-moi, verray-je ta Maistresse ?  
 Pourray-je luy parler, & veux-tu t'employer…  
 
-    CATO
+    CATO.
 Oüy, Monsieur, attendez, je vay vous l'envoyer.  
 
 
-### SCENE VI
+### SCENE VI.
 
-    MONSIEUR LE BLANC *seul.*
+    MONSIEUR LE BLANC *seul.*.
 Pour finir l'embarras d'un amour qui me gesne⁎,  
 Je veux tout hazarder [170], pour soulager ma peine :  
 Aussi-bien, tost ou tard, Lucinde peut sçavoir  
@@ -3238,18 +3238,18 @@ On peut… Mais reprenons un peu de gravité,
 La voicy.  
 
 
-### SCENE VII
+### SCENE VII.
 MONSIEUR LE BLANC, LUCINDE.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Revenu d'une frayeur mortelle,  
 Je ramene à vos pieds un Protestant [171] fidelle,  
 Passablement poltron : Mais nous autres Bourgeois,  
 Qui faisons volontiers l'amour en tapinois [172],  
 Nous n'aimons pas le bruit, & pour sauver la vie…  
 
-    LUCINDE
+    LUCINDE.
 La vostre assurément vous eust esté ravie :  
 Mon Frere est si brutal, que je bénis le Sort  
 D'avoir par ce moyen empesché vostre mort,  
@@ -3259,42 +3259,42 @@ Qui feroit de l'éclat, empeschons-en le cours ;
 Faites, sans diférer, l'aveu⁎ de nos amours ;  
 De grace, proposez nostre Hymen⁎ à mon Frere.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 S'il s'opose…  
 
-    LUCINDE
+    LUCINDE.
         Et pourquoy nous seroit-il contraire ?  
 Vous estes riche ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Un peu.  
 
-    LUCINDE
+    LUCINDE.
     Bien fait ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Sans vanité.  
 Nous avons le bon air. Pour de la qualité…  
 
-    LUCINDE
+    LUCINDE.
 Ah je regarde en vous vostre seule Personne.  
 Luy proposerez-vous… Dites donc ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Oüy, Mignonne.  
 
-    LUCINDE
+    LUCINDE.
 S'il y veut consentir, si rien ne le retient,  
 Quand épouserons-nous ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         La Semaine qui vient.  
 
-    LUCINDE
+    LUCINDE.
 C'est l'unique bonheur où mon amour aspire.  
 Quoy, je serois à vous ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Cela va sans dire.  
 Si par quelque accident qu'on ne peut pas prévoir,  
 Cet Hymen⁎ se devoit ou remettre, ou surseoir [173],  
@@ -3310,11 +3310,11 @@ Et par quelques douceurs où nous puissions prétendre,
 Nous consoler souvent du déplaisir d'attendre.  
 C'est un expedient qui peut nous rendre heureux.  
 
-    LUCINDE
+    LUCINDE.
 Il est vray, c'en est un, mais il est dangereux :  
 Un pareil Mariage…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Ah c'est le plus commode,  
 Le moins embarassant, & le plus à la mode.  
 Quand d'un Hymen⁎ en forme on avance l'effet,  
@@ -3330,10 +3330,10 @@ Que qui tend à l'Hymen⁎, en doit faire l'essay,
 Que la joye à ce Dieu doit servir d'entremise,  
 Et que faire autrement, c'est faire une sottise.  
 
-    LUCINDE
+    LUCINDE.
 Que vous raisonnez juste !  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Oh, oh. Cela posé,  
 Nous pourrons contracter un Mariage aisé ;  
 Sans rien précipiter, nous pourrons, quoy qu'on die,  
@@ -3341,10 +3341,10 @@ Ordonner à loisir de la Cerémonie,
 Du Cadeau, des Habits : Quant à vos interests,  
 Vous en déciderez, ainsi que des aprests.  
 
-    LUCINDE
+    LUCINDE.
 Rien n'est plus obligeant.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Si vous estes contente  
 D'un Epoux possedant deux mille écus de rente,  
 Je suis vostre Homme, & puis vous en faire present  
@@ -3354,30 +3354,30 @@ Vous ferez le Contract, si vous voulez, vous-mesme ;
 Et vous pourrez de plus y mettre à vostre choix,  
 Si vous le souhaitez, la clause des six mois [176].  
 
-    LUCINDE
+    LUCINDE.
 A vous dire vray, j'entens peu les affaires :  
 Mais comme je vous crois enfin des plus sincéres,  
 A suivre vos avis, mon amour se résout.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Comment…vous consentez…  
 
-    LUCINDE
+    LUCINDE.
         Oüy, je consens à tout.  
 Dés ce mesme moment vous avez une Femme.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 A part.
 
 Elle a raison. Que c'est de gloire pour ma flâme⁎ !  
 
-    LUCINDE
+    LUCINDE.
 Vous voyez que pour vous je fais un grand effort :  
 Mais pour m'en dispenser, mon amour est trop fort ;  
 Vostre discretion jointe à vostre tendresse⁎,  
 Seront, si vous m'aimez, le prix de ma foiblesse.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Oüy, je proteste icy de n'aimer rien que vous,  
 Et que pour mériter des sentiments si doux,  
 Je seray moins sans vous que le corps n'est sans ombre :  
@@ -3389,17 +3389,17 @@ Il se met à genoux, en luy baisant la main
 
 
 
-### SCENE VIII 
+### SCENE VIII. 
 ANGELIQUE, M. LE BLANC, LUCINDE.
 
 
-    ANGELIQUE *luy prenant le bras.*
+    ANGELIQUE *luy prenant le bras.*.
 Alte-là, vieux Magot⁎, vous vous baissez trop bas.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Morbleu, je suis perdu !  
 
-    ANGELIQUE
+    ANGELIQUE.
         Comment ! en ma presence  
 Vous luy baisez la main, Faquin ? Vostre insolence  
 A mon insçeu, ceans⁎, attente à mon honneur,  
@@ -3409,19 +3409,19 @@ Feront voir…
 Elle tire l'épée, & fait semblant de vouloir le fraper.
 
 
-    MONSIEUR LE BLANC *baissant la teste.*
+    MONSIEUR LE BLANC *baissant la teste.*.
         Ah tout doux, Monsieur le Capitaine.  
 
-    LUCINDE *le retenant.*
+    LUCINDE *le retenant.*.
 Mon Frere…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je croyois avoir la teste à bas.  
 
-    LUCINDE
+    LUCINDE.
 Avant que m'écouter, ne vous emportez pas!  
 
-    ANGELIQUE
+    ANGELIQUE.
 Que faut-il écouter ? Coquette que vous estes,  
 Vous prestez donc ainsi l'oreille à ses sornettes ?  
 Vous aimez ce vieux Singe ? il vous baise la main ?  
@@ -3429,45 +3429,45 @@ Par la mort… Vous sçaurez…
 Elle fait feinte de luy donner de l'épée.
 
 
-    LUCINDE
+    LUCINDE.
         Je le niërois en vain.  
 
-    ANGELIQUE
+    ANGELIQUE.
 On me l'avoit bien dit, que contre ma defense  
 Vous voyiez un Pié-plat⁎ ceans⁎ en mon absence,  
 Et que de vos amours on murmuroit tout-bas.  
 
-    LUCINDE
+    LUCINDE.
 Oüy, mon Frere, il est vray, je ne m'en défens pas :  
 De grace, à cet amour soyez plus favorable,  
 Il m'a rendu des soins, il m'a trouvé aimable,  
 Il m'adore, je l'aime, & vous pouvez sçavoir  
 Ce que c'est que l'Amour, & quel est son pouvoir.  
 
-    ANGELIQUE
+    ANGELIQUE.
 L'amour dont il s'agit, aprend-il qu'une Fille,  
 Et de nobles Parens, & d'illustre Famille,  
 Doit faire un tel affront à tout une Maison ?  
 
-    LUCINDE
+    LUCINDE.
 L'Amour prend-il toûjours avis de la Raison ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ah pour vous en punir, je prendray peu des vostres :  
 Ce galant⁎ servira d'exemple à tous les autres.  
 Elle le menace de l'épée.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Helas !  
 
-    ANGELIQUE
+    ANGELIQUE.
         Vous aprendrez à respecter en moy  
 Un Capitaine en pied du Regiment du Roy,  
 Dieu me damne : Et pour vous, je vous tiendray bien fine,  
 Si vous faites jamais l'amour à la sourdine.  
 
-    LUCINDE
+    LUCINDE.
 Non, non, j'attens de vous une plus douce loy ;  
 J'espere que le sang vous parlera pour moy ;  
 Que malgré ce courroux⁎, vos bontez que j'implore,  
@@ -3479,37 +3479,37 @@ Qui m'offre, avec son cœur, deux mille écus de rente,
 Qui prétend m'épouser, & me donner la main,  
 Si vous y consentez, mon Frere, & dés demain.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Monsieur a, dites-vous, deux mille écus de rente,  
 Et veut vous épouser ?  
 
-    LUCINDE
+    LUCINDE.
     Oüy.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Vous estes contente  
 De l'avoir pour Epoux ?  
 
-    LUCINDE
+    LUCINDE.
         Mon amour affermy…  
 
-    ANGELIQUE
+    ANGELIQUE.
 En ce cas, je rengaîne, & je suis son amy.  
 Elle l'embrasse.
 
 Excusez le transport⁎ qu'une douleur mortelle  
 A causé contre vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         C'est une bagatelle.  
 A part.
 
 Nos affaires vont mieux.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Vous aimez donc ma Sœur ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Bas.
 
 Feignons.  
@@ -3517,226 +3517,226 @@ Haut.
 
     Terriblement.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Et nous faites l'honneur  
 De la vouloir choisir pour estre vostre Femme ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ah l'honneur m'en demeure.  
 Bas.
 
         Il est bon, sur mon ame.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Vous avez amassé de grands biens par vos soins ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Deux fois vingt mille écus parisis [177], pour le moins ;  
 Et pour les augmenter, tous les jours je m'occupe.  
 A part.
 
 Le drôle croit avoir déjà trouvé sa dûpe.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Bien loin de m'oposer à des feux⁎ si constans,  
 Je veux contribuer à vous rendre contens :  
 J'aime à voir tant d'amour, & déjà par avance  
 Je vous aime en Beaufrere.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Ah trop d'honneur.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je pense  
 Que pour l'Hymen⁎ mes soins ne vous déplairont pas.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Tant-s'en-faut [178].  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je vais tout disposer de ce pas :  
 Et pour vous faire voir combien je veux vous plaire ;  
 L'Esperance?  
 
 
-### SCENE IX 
+### SCENE IX. 
 L'ESPERANCE, ANGELIQUE, M. LE BLANC, LUCINDE.
 
 
-    L’ESPERANCE
+    L’ESPERANCE.
     Monsieur ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Va querir [179] un Notaire.  
 Je vous fais marier dans ce mesme moment.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Me marier ? Monsieur L'Esperance ?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Comment ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ne précipitons rien, s'il vous plaist.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Cette voye,  
 En nous comblant d'honneur, assure vostre joye,  
 Et quand l'amour est fort, il est hors de raison.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 N'importe, diférons de grace, & pour raison.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Et pourquoy diferer ? Va, depesche, & l'ameine.  
 L'Esperance part.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ah me voila gasté ! N'en prenez pas la peine.  
 Demeurez. Attendez. Ah, morbleu, que d'ennuis !  
 
-    ANGELIQUE
+    ANGELIQUE.
 Quelle est vostre raison ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Monsieur…  
 
-    ANGELIQUE
+    ANGELIQUE.
     Hé bien ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je suis  
 Un Homme… qui…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Comment ? quelles mines vous faites !  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je vous dis que je suis…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Ma Sœur dit que vous estes  
 Un honneste Bourgeois ; & m'assure de plus,  
 Que vostre revenu monte à deux mille écus.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il est vray.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je n'en veux pas sçavoir davantage.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mais, Monsieur… vous sçaurez…  
 
-    ANGELIQUE
+    ANGELIQUE.
     Cela suffit.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         J'enrage.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Mais pour estre assuré de ma Sœur & de vous,  
 Je prétens qu'à l'instant vous soyez son Epoux :  
 C'est vous parler François, si vostre amour m'oblige⁎.  
 Ces détours à la fin…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Monsieur, je suis, vous dis-je…  
 J'ay pour certaine affaire… un certain embarras…  
 Attendons à demain.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Cela ne se peut pas ;  
 Demain je prens la Poste, & je retourne en Flandre.  
 Ma Sœur, ainsi que moy, se lasseroit d'attendre,  
 Et je veux aujourd'huy vous la voir épouser.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ah je voy bien qu'en vain je veux temporiser.  
 Hé bien, si vous voulez en sçavoir davantage,  
 Je suis…  
 
-    ANGELIQUE
+    ANGELIQUE.
     Quoy ?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Marié, Monsieur, & j'en enrage.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Vous avez une Femme, & subornez ma Sœur ?  
 Ah ventre, vous mourrez !  
 Elle tire l'épée.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Ah la vie.  
 
-    L’ESPERANCE *la retenant.*
+    L’ESPERANCE *la retenant.*.
         Eh Monsieur,  
 Quartier⁎.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Moy l'épargner ? Non, non, il faut qu'il meure.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Misericorde ! helas !  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Comme ce vieux Fou pleure.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il mourra de ma main.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Eh ne le tuez pas :  
 Morgué, vous sçavez bien qu'il nous faut vingt Soldats,  
 Je n'en ons que dix-neuf, qu'il fasse le vingtiéme,  
 Il portera fort bien un Mousquet.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Moy ?  
 
-    L’ESPERANCE *à part à M. le Blanc*
+    L’ESPERANCE *à part à M. le Blanc*.
         Vous-mesme.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je suis trop pacifique, & c'est mon grand defaut.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Hé bien, j'en suis d'accord, qu'on l'enrôle au plutost,  
 Et le conduis demain avecque la Recruë⁎  
 A nostre Garnison.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Ah cet ordre me tuë.  
 Me mener à la Guerre ! Ah j'aime autant périr,  
 J'y mourray tous les jours de la peur de mourir.  
 Monsieur, de bonne-foy, je suis poltron en diable,  
 Ayez pitié de moy, je suis inconsolable.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Tu répondras de luy.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         J'aime autant le trépas,  
 Que d'aller à la Guerre.  
 
-    ANGELIQUE
+    ANGELIQUE.
         Hé bien, tu n'iras pas,  
 Tu seras satisfait ; & je te vais, infame,  
 Faire à travers ton corps, un passage à ton ame.  
 Mettant la main à son épée.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 J'iray, Monsieur, j'iray, quoy que poltron & vieux ;  
 Et mourir pour mourir, le plus tard vaut le mieux.  
 
-    LUCINDE
+    LUCINDE.
 Vous avez une Femme ?  
 
-    ANGELIQUE
+    ANGELIQUE.
 à Lucinde fort.
 
         Evitez ma presence,**  
@@ -3750,38 +3750,38 @@ A l'Esperance.
 Partir devant⁎ le jour, ou mesme cette nuit.  
 Fais-le équiper de tout.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 bas.
 
         J'auray soin de l'aubade [180],  
 Reposez-vous sur moy. Suivez-moy, Camarade.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Camarade ? Le Gueux ! Ce Goujat, sans façon,  
 Vit avec moy déjà de pair & compagnon.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Je suis parbleu ravy que vous soyez des nostres.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Fort-bien. Avec le temps nous en verrons bien d'autres.  < Fin du Quatrième Acte. > 
 
 
-## ACTE V
+## ACTE V.
 
 
 ### SCENE PREMIERE.
 LUCINDE, DAMON.
 
 
-    DAMON
+    DAMON.
 Est-il bien vray, Madame?  
 
-    LUCINDE
+    LUCINDE.
         Oüy, je viens de sçavoir  
 Que mon Frère, au plus-tard, arrivera ce soir.  
 
-    DAMON
+    DAMON.
 Mon malheur désormais n'a plus rien qui m'étonne⁎;  
 Et charmé de l'espoir que ce retour me donne,  
 Je me flate de voir que mon cœur et mes soins,  
@@ -3791,7 +3791,7 @@ Vous voudrez bien permettre au vostre de paraistre,
 Et soufrir que j'adjoûte, en me donnant à vous,  
 Au nom de vostre Amant, celuy de vostre Epoux.  
 
-    LUCINDE
+    LUCINDE.
 Si je sçay jusqu'où va pour moi vostre tendresse⁎,  
 Vous connoissez pour vous combien je m'intéresse.  
 Je ne puis jusques-là vous rien dire de plus:  
@@ -3801,56 +3801,56 @@ D'avoir pour cet Hymen⁎ l'aveu⁎ qui nous importe;
 Ma Cousine est là haut, et sans sortir d'icy,  
 Nous en pourrons sçavoir…  
 
-    DAMON
+    DAMON.
         Madame, la voicy.  
 
 
-### SCENE II
+### SCENE II.
 LUCINDE, ANGELIQUE, DAMON, MADAME LE BLANC.
 
 
-    ANGELIQUE
+    ANGELIQUE.
 Vous craignez?  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Oüy, je crains quand vous serez connüe…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ne vous allarmez point, je réponds de l'issuë [181].  
 
-    DAMON
+    DAMON.
 Vostre Cousine sent son petit Libertin.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Hé bien ay-je bon air à faire le mutin?  
 
-    DAMON
+    DAMON.
 Oüy, sans doute. Que fait Monsieur le Blanc? Je pense…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il est entre les mains du brave l'Espérance:  
 Il est, quoy que grossier, assez dépaïsé;  
 Il en rendra bon compte.  
 
-    DAMON
+    DAMON.
         Il sera donc aisé…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Je vous ay tanstot⁎ dit ce que vous devez faire.  
 
-    DAMON
+    DAMON.
 Il m'en souvient, Madame, et j'en fais mon affaire.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Cato secondera vos soins. Quant à l'effet…  
 L'Espérance paroist, sçachons ce qu'il a fait.  
 
 
-### SCENE III
+### SCENE III.
 LUCINDE, ANGELIQUE, DAMON, M. LE BLANC, L'ESPERANCE.
 
 
-    L’ESPERANCE *en riant*
+    L’ESPERANCE *en riant*.
 Ce que j'ons fait? Morgué, j'avons fait des merveilles:  
 Si quelqu'un l'entend mieux, je donne mes oreilles [182].  
 Vostre Monsieur le Blanc est un drôle de corps!  
@@ -3867,49 +3867,49 @@ Que vous l'eussiez pû voir, la peste me renie;
 Cela valoit morgué mieux qu'une Comédie.  
 Il tâche à se resoudre, et croit que de pas…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Mais où l'as-tu laissé?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Je l'ay laissé là-bas  
 Avec ces aigres-fins [185] que je mene à l'Armée,  
 Qui luy souflent au nez du tabac en fumée;  
 Plus ils faisaient les fous, plus il est sérieux.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il est bien étonné de se voir avec eux.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Oüy, ma foy, car ce sont d'assez bonnes Figures⁎.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ah que pour mon dessein j'ay mal pris mes mesures!  
 Avecque mon épée il blessera quelqu'un.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Bon ; Son épée, et rien, Madame, c'est tout un:  
 Vous verrez là-dessus son attente trompée;  
 J'ay tantost fait river [186] le bout de son épée.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Le brave L'Esperance entend à demy-mot.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Je ne nous mouchons [187] pas de la patte d'un Sot,  
 Madame, et Dieu mercy j'y mettons bien la nostre.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il faut que ce discours fasse place à quelqu'autre.  
 Commençons.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Je l'entends, il a fait bande à part.  
 Si vous voulez bien rire, écoutez-le à l'écart.  
 
 
-### SCENE IV
+### SCENE IV.
 
-    M. LE BLANC *seul sur le Théâtre, avec son habit de Soldat, et les autres dans une Entrée.*
+    M. LE BLANC *seul sur le Théâtre, avec son habit de Soldat, et les autres dans une Entrée.*.
 Quel équipage⁎, helas! ma peine est sans seconde;  
 Il faut aller en Flandre, ou bien en l'autre Monde,  
 Me voir en Garnison, pour me sauver de pis,  
@@ -3932,120 +3932,120 @@ Si je trouvois moyen de sortir de ceans⁎….
 Mais j'aperçoy Cato, prenons mieux nostre temps.  
 
 
-### SCENE V
+### SCENE V.
 MONSIEUR LE BLANC, CATO.
 
 Et le reste dans l'Entrée.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Elle pleure, je croy. Qu'as-tu, ma Chere? écoute;  
 
-    CATO *faisant la pleureuse.*
+    CATO *faisant la pleureuse.*.
 Vous avez mis ceans⁎, Monsieur, tout en déroute;  
 Et nostre Maitre….  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Hé bien?  
 
-    CATO
+    CATO.
         Il est pis qu'enragé,  
 Là-haut, en vous quittant, il a tout ravagé;  
 Lucinde auroit sans nous essuyé sa colere,  
 Il la vouloit tuer. Voyez la belle affaire!  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il n'en a rien fait?  
 
-    CATO
+    CATO.
         Non; mais devant⁎ qu'il soit nuit,  
 Il la veut du Logis faire emmener sans bruit,  
 Et veut que... La douleur m'empesche la parole.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Hé bien, dis, que veut-il?  
 
     L’ESPERANCE *dans l'Entrée*.
         Elle fait bien son rôle.  
 
-    CATO
+    CATO.
 Qu'elle aille pour pleurer ses funestes amours,  
 Passer dans un Couvent le reste de ses jours.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Quel malheur! Je croyois que tu m'allois apprendre  
 Qu'il eust fait enrôler, pour l'envoyer en Flandre.  
 
-    CATO
+    CATO.
 Où voyez-vous qu'un Homme à qui l'on s'est fié,  
 Cherche à tromper les Gens, quand il est marié?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Mais où diable vois-tu, toy qui me fais la mine [188],  
 Qu'on enrôle les Gens, pour aimer leur Voisine?  
 
-    CATO
+    CATO.
 Sans vous flater, Monsieur, vous le méritez bien.  
 Vous estes bien heureux…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Quittons cet entretien⁎,  
 Et me dis, aussi bien le souvenir me blesse,  
 S'il n'est aucun moyen de tenir ta promesse  
 Touchant cette Beauté qui venoit visiter…  
 
-    CATO
+    CATO.
 Elle est là-haut, Monsieur, elle y vient de monter.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Elle vient visiter Monsieur le Capitaine?  
 
-    CATO
+    CATO.
 Voyant qu'à l'adoucir nostre adresse estoit vaine,  
 Ne sçachant plus que faire, ou dequoy m'aviser,  
 Je la viens d'amener, afin de l'apaiser.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Si tu veux voir mes maux meslez de quelque joye,  
 Cato, fait, s'il se peut, qu'un moment je la voye.  
 Tu m'as fait espérer…  
 
-    CATO
+    CATO.
         Comment faire, Monsieur?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Que fait le Capitaine?  
 
-    CATO
+    CATO.
         Il est avec sa Sœur.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Profitons de ce temps, Cato.  
 
-    CATO
+    CATO.
         Comment s'y prendre?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Comment? Va de sa part la prier de descendre;  
 Dy-luy qu'il est icy.  
 
-    CATO
+    CATO.
         Ne verra-t-elle pas…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 J'éteindray la chandelle, et luy parleray bas.  
 Je n'attens pour partir, dedans⁎ cette occurrence,  
 Que la commodité de Monsieur L'Espérance:  
 Il est nuit; à mes feux⁎ cesse de t'oposer,  
 Va…  
 
-    CATO
+    CATO.
         Je n'ay pas le cœur de vous rien refuser,  
 Je risque tout pour vous; Je vais querir la Belle;  
 Quand vous nous entendrez, éteignez la chandelle.  
 
 
-### SCENE VI 
+### SCENE VI. 
 
     MONSIEUR LE BLANC *seul*.
 Mieux que je n'esperois, mes soins ont reüssy,  
@@ -4055,106 +4055,106 @@ Estre seur une fois, qu'estre toûjours en doute ;
 Cet éclaircissement peut-estre produira…  
 
 
-### SCENE VII
+### SCENE VII.
 L'ESPERANCE, M. LE BLANC.
 
 
-    L’ESPERANCE 
+    L’ESPERANCE.
 Eh, la Roze?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Plaist-il⁎ ?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Que diable fais-tu là?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ah j'enrage, mon Corps va changer de demeure.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Je nous en vons partir.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Quand partir?  
 
-    L’ESPERANCE
+    L’ESPERANCE.
         Tout-à-l'heure⁎.  
 As-tu ce qu'il te faut dedans⁎ ton Havre-sac [189]?  
 T'es-tu fait acheter des Pipes, du Tabac?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Non, & n'ay point mangé depuis que l'on me traitte…  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Va, je boirons un coup tanstot⁎ à la Villette;  
 Marche à moy.  
 Il fait semblant de marcher.
 
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Comment donc, partir si promptement?  
 Diférons, s'il se peut, d'une heure seulement.  
 
-    L’ESPERANCE
+    L’ESPERANCE.
 Il est morgué plaisant ! Veux-tu que pour te plaire,  
 Avec mon Commandant je me fasse une affaire?  
 Marche.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Mais…  
 
-    L’ESPERANCE *le tirant par le bras*
+    L’ESPERANCE *le tirant par le bras*.
         Marche donc, ou tu seras traitté…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Prenez ces trois Loüis pour boire à ma santé,  
 Et ne me forcez point…  
 
-    L’ESPERANCE* ostant son chapeau, et lui faisant la reverence.*
+    L’ESPERANCE* ostant son chapeau, et lui faisant la reverence.*.
         Ah Monsieur de la Roze,  
 Deux heures plus ou moins, ne font rien à la chose;  
 Je partirons tanstot⁎, puis que vous le voulez;  
 Je m'en vay boire un coup en attendant.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Allez.  
 
 
-### SCENE VIII
+### SCENE VIII.
 
-    MONSIEUR LE BLANC *seul.*
+    MONSIEUR LE BLANC *seul.*.
 Sans argent, mille coups relançoient ma prière.  
 J'entens venir quelqu'un, éteignons la lumière.   
 
 
-### SCENE IX
+### SCENE IX.
 CATO, MONSIEUR LE BLANC, MADAME LE BLANC.
 
 
-    CATO
+    CATO.
 Monsieur, voilà Madame.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il suffit, laisse-nous : [190]  
 Ecoutons.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Vous voyez ce que je fais pour vous;  
 Je fais tous mes plaisirs, du bonheur de vous plaire.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 C'est elle, c'est la voix. [191] Dieu me damne, ma Chère,  
 Je brûlois de vous voir, & ce dernier aveu⁎  
 Va porter à l'excés ce que je sens de feu;  
 Vos bontez me font voir qu'il n'a rien qui vous blesse.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Non, vous ne sçavez point jusqu'où va ma tendresse⁎,  
 Combien de vous aimer je me fais une loy,  
 Ny combien votre amour a de charmes pour moy.  
 Jamais…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Pour le bonheur que vostre amour m'anonce,  
 Souffrez que ce baiser me serve de réponce.  
 A part.
@@ -4162,31 +4162,31 @@ A part.
 L'éfrontée! elle croit estre avec son Amant,  
 Et reçoit ses baisers fort amiablement.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 M'aimerez-vous toûjours? Helas! que j'aprehende…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Si je vous aimeray? La plaisante demande!  
 On dit que vous avez un singe de Mary;  
 N'auriez-vous point pour luy le cœur trop attendry?  
 Sur quelque empressement que mon espoir se fonde,  
 C'est vostre Epoux.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
         Hors vous, tous les Hommes du Monde,  
 Quelque soin que l'on prît à me prouver leurs feux⁎,  
 Ne peuvent rien avoir de charmant à mes yeux :  
 Enfin vous estes seul le maistre de mon ame,  
 Mon cœur ne sent d'amour que pour vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Ah l'infame !  
 Vous passerez la nuit ceans⁎; & vostre Epoux…  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Je le veux bien pourveu que ce soit avec vous.  
 
-    MONSIEUR LE BLANC *bas.*
+    MONSIEUR LE BLANC *bas.*.
 C'est parler sans enigme, & j'en ay pour mon conte.  
 Il veut tirer son épée, & ne peut.
 
@@ -4194,94 +4194,94 @@ Ton sang, ame sans foy, va reparer ma honte;
 Je suis suffisamment instruit de tes amours.  
 Le voila cet Epoux.  
 
-    MADAME LE BLANC *s'enfuyant.*
+    MADAME LE BLANC *s'enfuyant.*.
     Au secours.  
 
 
-### SCENE X
+### SCENE X.
 MONSIEUR LE BLANC, CATO.
 
 
-    CATO
+    CATO.
         Au secours,  
 A l'aide. Ces transports⁎ vous sont-ils ordinaires?  
 Estes-vous fou, Monsieur?  
 
-    MONSIEUR  LE BLANC
+    MONSIEUR LE BLANC.
         Chacun sçait ses affaires.  
 
-    CATO
+    CATO.
 Vous, insulter ceans⁎ une Femme d'honneur?  
 
 
-### SCENE XI
+### SCENE XI.
 M. LE BLANC, CATO, DAMON.
 
 
-    DAMON
+    DAMON.
 Qui cause un tel desordre en ce Logis?  
 
-    CATO
+    CATO.
         Monsieur.  
 
-    DAMON
+    DAMON.
 Mon Oncle?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     Vous sçaurez…  
 
-    DAMON
+    DAMON.
         En un tel equipage⁎!  
 Vous, aller à la Guerre!  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
     On m'a fait…  
 
-    DAMON
+    DAMON.
         A vostre âge!  
 Un notable Bourgeois, un Homme de bon sens,  
 Quitter, à nostre insçeu, Maison, Femme, Parens!  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 C'est un tour…  
 
-    DAMON
+    DAMON.
         Auriez-vous quelque méchante affaire?  
 Quel desespoir vous chasse avec tant de mystere?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 C'est un affront, vous dis-je…  
 
-    DAMON
+    DAMON.
         Ah non, vous n'irez point.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Peste du babillard [192].  
 
-    DAMON
+    DAMON.
         Je suis ferme en ce poinct.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je n'ay pû m'en dédire, on m'a pris…  
 
-    DAMON
+    DAMON.
         Il n'importe,  
 Vous ne sçauriez avoir raison assez forte.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je prétens me vanger…  
 
-    DAMON
+    DAMON.
         Vangez-vous autrement.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ah le maudit causeur!  
 
-    DAMON
+    DAMON.
         Et songez seulement  
 Que vous devez…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Je scay tout ce que je dois faire,  
 Avant que vous fussiez le Fils de vostre Père,  
 Pedagogue importun, dont le zele indiscret  
@@ -4291,47 +4291,47 @@ Qu'on m'a fait enrôler malgré ma resistance,
 Qu'avec une Recruë⁎ un certain grand Pendard [193]  
 M'alloit mener en Flandre un quart-d'heure plus tard.  
 
-    DAMON
+    DAMON.
 Qui l'a fait enrôler?  
 
-    CATO
+    CATO.
         Monsieur le Capitaine.  
 
-    DAMON
+    DAMON.
 Je m'en vais luy parler.  
 
-    CATO
+    CATO.
         N'en prenez pas la peine,  
 Je le vais avertir.  
 
 
-### SCENE XII
+### SCENE XII.
 MONSIEUR LE BLANC, DAMON.
 
 
-    DAMON
+    DAMON.
         L'auriez-vous insulté?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Jamais: Mais vous sçaurez que ce jeune éventé…  
 Le voicy, vous allez en sçavoir davantage.  
 
 
-### SCENE XIII
+### SCENE XIII.
 DAMON, MONSIEUR LE BLANC, ANGELIQUE. [194]
 
 
-    ANGELIQUE
+    ANGELIQUE.
 Je suis faché, voulant me vanger d'un outrage,  
 Que le sort soit tombé sur un de vos Parens;  
 Mais je vous en viens faire l'excuse, & vous le rens:  
 Malgré ce qu'il a fait, je vous en fais le Maistre,  
 Et l'auroit épargné, s'il se fut fait connoistre.  
 
-    DAMON
+    DAMON.
 Qu'a-t-il fait? quel outrage? & surquoy⁎ cette peur?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Comment! venir ceans⁎ pour suborner ma Sœur?  
 Chez moi, morbleu, chez moi, la Sœur d'un Capitaine?  
 Par la mort… Mais enfin je consens qu'on l'emméne  
@@ -4344,105 +4344,105 @@ Et veux, morbleu, casser un Verre avecque luy.
 A l'hymen⁎ de ma Sœur puisqu'il n'est plus contraire,  
 Qu'on la fasse venir?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Il n'est pas nécessaire.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Ne consentez-vous pas à une telle union…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il est vray, j'y consens, mais à condition…  
 
-    DAMON
+    DAMON.
 Faites que promptement…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Dites-nous, qu'elle est-elle?  
 Quelque difficulté…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         C'est une bagatelle;  
 Mais jamais mon Neveu ne sera son Epoux,  
 Qu'il ne se soit coupé la gorge avecque vous [195].  
 C'est la condition que je mets à la chose.  
 
-    DAMON
+    DAMON.
 D'un tel emportement, qui peut estre la cause?  
 Mon Oncle, voulez-vous me mettre au desespoir?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 J'ay mis la Belle à prix, & c'est à vous de voir…  
 
-    DAMON
+    DAMON.
 A vouloir son trépas, quel motif vous engage?  
 En avez-vous reçeu quelque sensible outrage?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Oüy.  
 
-    DAMON
+    DAMON.
         J'ay, pour vous vanger, le cœur assez hardy;  
 Mais je prétens sçavoir…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         C'est que cet étourdy,  
 Qui fait le goguenard⁎, qui rit, & qui se cache,  
 Me fait…  
 
-    DAMON
+    DAMON.
     Hé bien?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Cocu, puis qu'il faut qu'on le sçache.  
 
-    DAMON
+    DAMON.
 Luy? Vostre Femme a pû…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Je répons de sa foy,  
 Tant qu'elle n'aura point d'autre Galant⁎ que moy.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Cependant je le suis, & Monsieur la gouverne…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Si c'est de ma façon, je veux que l'on me berne;  
 Vous le meriteriez, mais un certain defaut…  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Fort-bien. Vous n'avez pas une Belle là-haut,  
 Qui vous vient visiter, qui souffre vos caresses?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Nous autres Officiers manquons-nous de Maistresses?  
 Il est vray, j'en conviens, mais…  
 
-    DAMON
+    DAMON.
         Mais enfin sçachons…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Elle n'est point sa Femme, & je vous en répons.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Non, car elle est la vostre.  
 
-    DAMON
+    DAMON.
         Il faut la voir, & prendre…  
 
-    ANGELIQUE
+    ANGELIQUE.
 Je le veux bien. Cato, qu'on la fasse descendre.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Si de la Belle en fait je me trouve l'Epoux,  
 Hem [196]?  
 
-    ANGELIQUE
+    ANGELIQUE.
         Vous l'emmenerez tout doucement chez vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Je serois assez sot…  
 
-    ANGELIQUE
+    ANGELIQUE.
         Calmez cette colere:  
 Je veux vous faire voir combien j'ay sçeu luy plaire,  
 Vous montrer jusqu'où vont les transports⁎ des Amans,  
@@ -4454,107 +4454,107 @@ Que las de ses faveurs, ou cessant de l'aimer,
 Pour m'en débarasser, je voudray vous la rendre,  
 Vous serez trop heureux encor de la reprendre.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Hé bien, vous l'entendez?  
 
-    DAMON
+    DAMON.
         C'est un jeune emporté;  
 Mais nous luy rabattrons tanstot⁎ sa vanité:  
 Quand nous aurons de tout une entiere assurance,  
 Vous verrez quelle part je prends dans cette offence.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Je l'entens, vous serez à l'instant satisfait.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Qu'en dites-vous?  
 
-    DAMON
+    DAMON.
         Je croy que c'est elle en effet.  
 
 
-### SCENE XIV 
+### SCENE XIV. 
 ANGELIQUE, DAMON, MONSIEUR LE BLANC, MADAME LE BLANC, CATO.
 
 
-    ANGELIQUE
+    ANGELIQUE.
 Permettez qu'à leurs yeux, quelque soin qui les touche,  
 Je prenne deux baisers sur cette belle bouche.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 La baiser à mes yeux! Ventre.  
 Il met le pied sur la garde de son épée pour la tirer, & ne peut.
 
 
-    DAMON
+    DAMON.
         Dans sa Maison!  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Oüy, je veux tout tuer.  
 
-    DAMON
+    DAMON.
         Vous n'avez pas raison.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Qu'importe ? ame sans foy, peste de ta Famille.  
 
-    MADAME LE BLANC
+    MADAME LE BLANC.
 Pouvez-vous me blâmer, de baiser une Fille?  
 
-    DAMON
+    DAMON.
 Une Fille!  
 
-    ANGELIQUE
+    ANGELIQUE.
         Oüy, ma foy, c'est à mon grand regret;  
 Aussi-bien est-il temps d'éventer ce secret.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Quoy, c'est une Fille?  
 
-    DAMON
+    DAMON.
         Oüy, la chose est assurée.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Ah si je l'avois sçeu, que je l'eusse bourée! [197]  
 Mais pourquoy, s'il vous plaist, ce beau déguisement?  
 
-    ANGELIQUE
+    ANGELIQUE.
 Pourquoy? pour vous montrer à faire le Galant⁎,  
 Et vous aprendre, ayant une Femme bien faite,  
 A n'aller point ailleurs debiter la sornette,  
 A vous tenir content du nom de vostre Epoux,  
 Sans chercher à tromper les Gens plus fins que vous.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Elle a parbleu raison, & l'avanture est drôle;  
 Elle a, pour l'en blâmer, trop bien joüé son rôle:  
 Mais puis-je m'assurer, Parent, que cet aveu⁎  
 Ne soit point un moyen de mieux couvrir leur jeu?  
 
-    DAMON
+    DAMON.
 Non, vous pouvez l'en croire, apres cette assurance.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Il seroit bon de voir, la chose est d'importance.  
 
-    ANGELIQUE
+    ANGELIQUE.
 Il n'en est pas besoin, voila vostre Garent.  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
 Songeons à son repos⁎, pour celuy qu'il me rend.  
 
 
-### SCENE DERNIERE 
+### SCENE DERNIERE. 
 MONSIEUR LE BLANC, MADAME LE BLANC, DAMON, LUCINDE, ANGELIQUE. [198]
 
 
-    LUCINDE
+    LUCINDE.
 Mon Frere est arrivé, nous voila hors de peine.  
 
-    ANGELIQUE 
+    ANGELIQUE.
 Comment, le Capitaine?  
 
-    MONSIEUR LE BLANC
+    MONSIEUR LE BLANC.
         Encore un capitaine!  
 Je pense qu'il en pleut. Vostre Hymen⁎ se fera,  
 Mais ce sera demain, ou quand il vous plaira;  
@@ -4562,7 +4562,7 @@ J'y consens : Cependant je vay reprendre haleine;
 Et saluë humblement LA FILLE CAPITAINE.  < FIN >
 
 
-# Glossaire
+# Glossaire.
 
 *Abréviations* : A= *Dictionnaire de l'Académie Française*, 1694.
 
@@ -4573,12 +4573,12 @@ R= P. Richelet, *Dictionnaire Français*, 1680AppasOrthographié apas et dont la
             V. 478, 1317TantostIl y a quelques instants ; bientôt, tout à l'heure. V. 416, 463, 822, 965, 979, 1006, 1040, 1060, 1103, 1114, 1118, 1373, 1482, 1491, 1612Tendresse« Sensibilité du cœur et de l'âme … ce mot signifie le plus souvent amour » (F)V. 168, 263, 507, 569, 672, 1073, 1217, 1357, 1502Tout à l'heureAussitôt, tout de suite, sur le champ. V. 128, 1478TransportTrouble ou agitation de l'âme par la violence des passions. V. 273, 1269, 1525, 1603Veuë« Rencontre » (F)V. 32, 159
 
 
-# Annexe 1 : *La Dama Capitan*, 1671, Don Diego y Don Joseph de Figueroa y Cordova
+# Annexe 1 : *La Dama Capitan*, 1671, Don Diego y Don Joseph de Figueroa y Cordova.
 
 Traduction établie avec l'aide de Mlle Elsa MARSOEP (MI Recherche Espagnol, Paris IV Sorbonne)
 
 
-## Personnages
+## Personnages.
 
 Doña Elvira de Vergara, qui est Don Lope
 
@@ -4605,7 +4605,7 @@ Juana, l'aubergiste
 Des soldats, des musiciens
 
 
-## Première journée
+## Première journée.
 
 Doña Elvira et Lucia entrent, habillées en hommes, que l'on devine être Don Lope et Martin.
 
@@ -5192,7 +5192,7 @@ Martin – Regardez, le Comte vous attend.
 Lope – Allons-y Martin, je m'en vais heureuse, entre la faveur et le doute, entre la flatterie et la suspicion d'un général qui me donne du courage et d'un frère qui me mène au risque.
 
 
-## Deuxième Journée
+## Deuxième Journée.
 
 On tape sur des caissons et on joue de la trompette. Il y a du bruit à l'intérieur comme lorsque l'on assaille une place.
 
@@ -5269,7 +5269,7 @@ Comte – Don Lope, j'ai été retenu, et je ne sais pas tout de cette faction. 
 Lope – Soyez davantage attentif : les hommes de l'armée sont sortis ensemble, mon bon seigneur, ce matin, lorsque le soleil se levait tout juste, esquissant à peine l'aube. Les troupes s'en allaient dans l'ordre, leurs rangs formés, marchant au rythme du grondement belliqueux des trompes et des caisses. Sous le Zéphyr, les bannières ondoyaient, formant de subtiles ondes sous les souffles tendres de l'Aura. L'Armée était semblable à un jardin avec ces couleurs variées dont elle s'était parée, et ces somptueux uniformes, que les espagnols ne réservent qu'à cette occasion. La cavalerie allait en faisant ondoyer des bannières rouges, on eût dit une forêt de plumes noires et blanches. L'ordre que l'on reçut fut donc d'assiéger la Place de Cambrai, force importante des dessins de l'Espagne, et, selon vos ordres, cribler l'ennemi d'espions qui ne manquent jamais (sans se risquer à venir avec votre armée à la bataille). Entre de nombreuses et différentes fortifications, l'ennemi a construit un fort à peu de distance de Cambrai, pour s'y constituer un abri qu'ils appellent celui de San Jorge. Les éclaireurs, monseigneur, qui ont ratissé la campagne et les habiles cavaliers qui ont ouvert la marche y arrivèrent à temps, car vos hommes situés près de la place étaient déjà visibles par l'ennemi. Ils y firent une halte et entre les différents avis que suivirent vos Capitaines, ils attendaient des directives selon moi. Le Capitaine de la cavalerie est également venu me parler. Grâce à votre main franche, vous m'avez donné ce poste sans que je n'en aie le mérite : selon moi, monseigneur, assiéger la place, au mépris du fort laissé à la merci des épées, n'était pas sage, car l'ennemi pouvait, sans que personne ne l'en empêche, nous couper de toutes victuailles au prix de votre sécurité. Ils approuvèrent mon avis et envoyèrent deux mille infants, qui avec cinq cents cavaliers s'en allèrent prendre le fort, et le plus gros de l'armée se mit en route pour le siège. En ceci ma compagnie avait l'avantage ce jour-là, et au son du clairon, vous battîtes la campagne avec fureur. Le sang exaspéré se troublait, les cœurs s'enflammaient, les chevaux broutaient bruyamment. Qu'ils connaissent les prétentions du maître jusqu'à leurs hennissements. Les infants, monseigneur, s'en sont allés équipés d'échelles, lorsque Monseigneur de Lorena, Général de la Place, ordonna que cinq cents cavaliers sortent pour mener à bien une escarmouche. Nous nous fîmes face. Ici, grand seigneur, il me serait inutile de vous dépeindre la scène avec éloquence, bien que l'occasion y soit favorable. Bien que ce fût une petite bataille par le nombre, ce fut une grande bataille par la rigueur. En plein cœur de l'affrontement, les faisceaux commencèrent à lancer des charges, et en un florilège incessant ils se mirent en formation. Qui sortit du port glorieusement ? Qui appela son ennemi ? Qui l'arracha de son siège ? Qui chargea à son encontre et qui gagne la bataille ? Qui fuit comme un lâche ? Car au cours de cette excellente guerre, si l'on y regarde bien, la fuite du soldat n'est pas une infamie. Il est bien vu, mais uniquement au cours des escarmouches, de préserver les corps. Pendant ce temps, un de leurs soldats les précéda, ratissant les flancs de toute une montagne avec son âme, sur le dos d'un alezan noir farouche, fils adoptif de l'Aura, fruit de l'avortement d'un nuage, et andalou d'après son arrogance, à qui le vrai chiendent a donné la vanité du Bétis, il but les présomptions des eaux andalouses, si corpulent et furieux, car à le regarder dans les yeux, avec cette expression il disait à ceux qui s'attardaient à le regarder : Que regardes-tu ? Je ne suis pas une brute, je suis, si tu regardes bien, le premier cavalier du Soleil, la seconde ruine troyenne. Je remarquai, enfin, la richesse des armes de son maître, et un martinet de plumes, que l'air affolait. Et en sortant de cette rencontre, envieux de son apparat, car dans les cœurs nobles se trouvent toujours les envies élevées, il tira sur le chien au pistolet, et avec une colère pressée, mon ennemi et moi avons ouvert le feu à la mi-distance.
 
 
-# Annexe 2 : *La Place Royale*, 1634, Corneille
+# Annexe 2 : *La Place Royale*, 1634, Corneille.
 
 
 ACTE I
@@ -5417,7 +5417,7 @@ Qu'il tâche d'adoucir... Quoi ! Me quitter ainsi !
 Et sans me dire adieu ! Le sujet ?  
 
 
-# Annexe 3 : *L'École des Femmes* (1668), Molière, Acte I, scène 4
+# Annexe 3 : *L'École des Femmes* (1668), Molière, Acte I, scène 4.
 
 
 HORACE, ARNOLPHE.
@@ -5662,7 +5662,7 @@ Je tremble du malheur qui m'en peut arriver,
 Et l'on cherche souvent plus qu'on ne veut trouver.  
 
 
-# Annexe 4 : Tableau de présence des personnages
+# Annexe 4 : Tableau de présence des personnages.
  | Acte I | Acte II | Acte III | Acte IV | Acte V | 
 Personnages | 10 scènes | 15 scènes | 6 scènes | 9 scènes | 15 scènes | Présence totale
 Monsieur le Blanc | 7,8,9,10 | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | 2, 3, 4, 5, 6 | 5, 6, 7, 8, 9 | 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 | 36 scènes
@@ -5677,36 +5677,36 @@ La Brie |  | 4 |  |  |  | 1 scène
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Œuvres de l'auteurLes Oeuvres de Monsieur Montfleury, contenant ses pieces de theatre, Représentées par la Troupe des Comediens du Roy à Paris
+### Œuvres de l'auteur.Les Oeuvres de Monsieur Montfleury, contenant ses pieces de theatre, Représentées par la Troupe des Comediens du Roy à Paris
 
 
 
-### Ouvrages relatifs à MontfleuryLes Contemporains de Molière, Recueil de comédies, rares ou peu connues, jouées de 1650 à 1680, avec l'histoire de chaque théâtre, des notes et notices biographiques, bibliographiques et critiques
+### Ouvrages relatifs à Montfleury.Les Contemporains de Molière, Recueil de comédies, rares ou peu connues, jouées de 1650 à 1680, avec l'histoire de chaque théâtre, des notes et notices biographiques, bibliographiques et critiques
 Histoire du théâtre françois depuis son origine jusqu'à présent
 Dictionnaire des théâtres de Paris
 
 
 
-### Œuvres dramatiques la Dama capitan
+### Œuvres dramatiques. la Dama capitan
 Théâtre complet
 Sganarelle ou Le Cocu imaginaire, L'École des Maris, L'École des femmes, L'Étourdi ou Les Contretemps, Le Bourgeois gentilhomme, Œuvres complètes
 
 
 
-### Ouvrages théoriquesŒuvres complètes
+### Ouvrages théoriques.Œuvres complètes
 
 
 
-## Études
+## Études.
 
 
-### Études générales sur le théâtre Le Comique, Essai d'interprétation générale
+### Études générales sur le théâtre. Le Comique, Essai d'interprétation générale
 Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
 Introduction à l'analyse des textes classiques
 Bibliographie d'histoire littéraire française
@@ -5715,10 +5715,10 @@ Lire le théâtre
 
 
 
-### Études sur la comédie
+### Études sur la comédie.
 
 
-#### Ouvrages généraux sur le genreLa Comédie de l'Âge Classique (1630-1715)
+#### Ouvrages généraux sur le genre.La Comédie de l'Âge Classique (1630-1715)
 Lire la Comédie
 La Comédie à l'âge classique
 La Comédie avant Molière, 1640-1660
@@ -5726,12 +5726,12 @@ La Comédie classique en France, De Jodelle à Beaumarchais
 
 
 
-#### Ouvrages sur la comédie espagnoleLe Masque et le visage. Du baroque espagnol au classicisme français
+#### Ouvrages sur la comédie espagnole.Le Masque et le visage. Du baroque espagnol au classicisme français
 Culture et théâtre : la comédie à l'espagnole comme exemple précoce de transculturalité en Europe au XVII*e* siècle
 
 
 
-### Ouvrages sur le théâtre du XVII*e* siècleLe Théâtre espagnol du Siècle d'Or (1580-1680)
+### Ouvrages sur le théâtre du XVII*e* siècle.Le Théâtre espagnol du Siècle d'Or (1580-1680)
 Valets et servantes dans le théâtre comique en France de 1610 à 1700
 Le Théâtre au XVII*e* siècle
 A History of French dramatic Literature in the Seventeenth Century
@@ -5739,22 +5739,22 @@ La Dramaturgie classique en France
 
 
 
-### Études sur l'histoire matérielle des théâtresLe Théâtre de l'Hôtel de Bourgogne
+### Études sur l'histoire matérielle des théâtres.Le Théâtre de l'Hôtel de Bourgogne
 Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnairesDictionnaire
+### Dictionnaires.Dictionnaire
 Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise.... avec les termes les plus connus des arts et des sciences
 Grand Dictionnaire Espagnol-Français Français-Espagnol
 
 
 
-### Grammaire et ponctuationLa Ponctuation
+### Grammaire et ponctuation.La Ponctuation
 Grammaire du français classique
 Syntaxe française du XVII*e* siècle
 Introduction à la langue française du XVII*e* siècle

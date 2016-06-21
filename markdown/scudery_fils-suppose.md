@@ -19,17 +19,17 @@ A PARIS, Chez *Augustin Courbé*, Libraire et Im- primeur de Monseigneur frere d
       master 1 sous la direction de Georges Forestier (2012)
 
 
-# Introduction
+# Introduction.
 
 Georges de Scudéry est un auteur raillé pour sa plume féconde, pourtant son théâtre est bien reçu par le public du XVII*e* siècle. Aujourd'hui, le théâtre, qui est la majeure partie de son œuvre, est peu connu voire inconnu. Seul son nom est resté dans les mémoires et cela grâce à sa collaboration avec sa sœur.
 
 Scudéry a écrit seize pièces, dont *Le Fils supposé*. Elle est la seconde concession de Scudéry à la comédie [1]. Selon Ch. Mazouer, Scudéry aurait un style certes « doux-coulant » mais celui-ci est un « peu plat » [2]. Bien au contraire pour nous ce style est représentatif du théâtre des années 1630.
 
 
-# Georges de Scudéry
+# Georges de Scudéry.
 
 
-## La vie du dramaturge
+## La vie du dramaturge.
 
 Georges de Scudéry est né au Havre de Grâce, le 11 avril 1601 . Selon ses dires, sa famille serait d'origine italienne, noble mais désargentée. Il est le deuxième d'une famille cinq enfants dont trois moururent en bas âge. Madeleine naquit en 1607. Il perdit ses parents en 1613, à l'âge de 13 ans, et il fut accueillit avec sa sœur chez leur oncle qui les éduqua. Selon Eveline Dutertre [3], il aurait fréquenté le collège. Ainsi, il paraîtrait que Scudéry ne fut pas élevé par son oncle. Cependant, cette partie de son enfance reste tout de même floue.
 
@@ -57,12 +57,12 @@ Un marchand pour les vendre et des sots pour les lire. [9]
 Ce fut son dernier ouvrage. Georges de Scudéry mourut à Paris le 14 mai 1667 d'une attaque. Il fut enterré à l'église de Saint-Nicolas-des-Champs.
 
 
-## Ses écrits
+## Ses écrits.
 
 Georges de Scudéry est connu par ses contemporains pour sa fécondité. Ainsi il a écrit de nombreux ouvrages, tout genre confondu, entre 1629 et 1663. Nous les citerons par genre et dans l'ordre de leur date de publication.
 
 
-### Le Théâtre
+### Le Théâtre.
 
 *Ligdamon et Lidias*, tragi-comédie, 1631.
 
@@ -97,7 +97,7 @@ Georges de Scudéry est connu par ses contemporains pour sa fécondité. Ainsi i
 *Axiane*, tragi-comédie en prose, 1643.
 
 
-### Les romans
+### Les romans.
 
 *Ibrahim ou l'illustre Bassa*, 1641 (en collaboration avec sa sœur Madeleine).
 
@@ -108,7 +108,7 @@ Georges de Scudéry est connu par ses contemporains pour sa fécondité. Ainsi i
 *Almahide ou l'Esclave reine*, 1660-1668 (en collaboration avec sa femme Marie Madeleine, en 8 vol.)
 
 
-### Ouvrages divers (théoriques, poème épique, poésies, etc.)
+### Ouvrages divers (théoriques, poème épique, poésies, etc.).
 
 Édition des *Œuvres de Théophile*, 1632
 
@@ -135,15 +135,15 @@ Georges de Scudéry est connu par ses contemporains pour sa fécondité. Ainsi i
 *Poésies nouvelles*, 1661.
 
 
-# L'œuvre
+# L'œuvre.
 
 
-## Réception
+## Réception.
 
 Selon les dires de Georges de Scudéry, la pièce connut un grand succès, « *Le Fils supposé* vint ensuite qui, par ses fréquentes représentations, fit voir qu'il avait part à la gloire aussi bien que les poèmes qui l'avaient devancé » [10]. C'est le seul témoignage du succès de la pièce. On sait également que *Le Fils supposé* fut écrit après *Orante* (1634-1635) et avant *Le Prince déguisé* (1635) mais la date de représentation est incertaine. Pour Lancaster [11], la pièce fut représentée dans la première moitié de 1634 mais pour Éveline Dutertre [12], elle fut représentée en 1635. Dans les deux cas ils ne donnent pas de réelles explications pour ces dates.
 
 
-## Résumé de la pièce
+## Résumé de la pièce.
 
 Cette comédie tourne autour de deux histoires d'amour : Luciane-Oronte et Bélise-Philante
 
@@ -158,7 +158,7 @@ Dans l'acte suivant, à Blois, Philante ne trouvant pas Bélise se met à la che
 Au dernier Acte, dans de très belles stances, Bélise se désespère de ne pas voir Philante arriver (Scène 1). Luciane annonce à Bélise que son père ne veut point renoncer au mariage et décide même de l'avancer. Doriste lui, redoute le châtiment de Philante pour avoir aidé Bélise (Scène 2). Rosandre et Almédor s'obstinent à marier Luciane et le faux Philante, bien qu'ils soient rebutés à cette idée (Scène 3). Oronte, Braside, Clorian et Philante se présentent chez Almédor. Philante lui déclare qu'il est son fils mais Almédor ne le croit pas et demande à Bélise, déguisé en Philante, et à Luciane de venir (Scène 4). Philante et Clorian sont étonnés de voir Bélise. Elle décide de donner la main de Luciane, qu'elle avait reçu de Rosandre, à Oronte. Clorian explique la situation et les circonstances du déguisement de Bélise. Almédor est heureux de retrouver son vrai fils et les deux pères consentent aux deux mariages (Scène 5). Comme dans toutes les comédies, la pièce se termine bien, Bélise épousera Philante et Luciane Oronte.
 
 
-## La Source
+## La Source.
 
 La source précise du *Fils supposé* nous est inconnue.
 
@@ -170,10 +170,10 @@ Il y a plusieurs suppositions concernant la source de la pièce. Selon Éveline 
 L'option la plus probable est la source espagnole comme le suggère Puibusque [14], or elle fut rejetée par Batereau. Que ce soit pour Lancaster ou Éveline Dutertre, *Le Fils supposé* présente une intrigue similaire à la pièce de Rotrou, *La Diane*. Ainsi, dans les deux pièces, nous avons affaire à une jeune fille amoureuse (Bélise pour *Le Fils supposé* et Diane pour *La Diane*) qui se déguise en homme et va à Paris. Là, la jeune fille, qui a usurpé l'identité d'un homme (l'une de son amant et l'autre de son frère), se trouve alors confrontée à un aporie : demander la main d'une jeune fille. Dans *Le Fils supposé*, Almédor se retrouve avec deux fils et dans *La Diane*, le père de Rosinde se retrouve, lui, avec deux gendres. Pour terminer elle révélera son sexe et son frère établira sa noblesse. Du fait de ces similitudes, cette pièce peut bien être la source de celle de Scudéry. Dutertre propose deux hypothèses; soit Scudéry connaissait la pièce de Rotrou qui a été représenté en 1633, publié en 1635 et l'a pris comme modèle, soit Scudéry connaissait le modèle espagnol (*Villana de Xetafe* de Lope de Vega) dont Rotrou s'était inspiré pour écrire sa pièce. La première hypothèse semble la plus probable pour Éveline Dutertre. Ainsi, elle explique que Rotrou avait déjà modifié quelques éléments de l'histoire de Lope de Vega. Scudéry a apporté également des modifications mais ces dernières vont dans le même sens que celles de Rotrou. Nous sommes en accord avec l'hypothèse et l'explication de E. Dutertre mais cependant cette dernière n'est qu'une supposition. Ce qui est sûr, c'est que la source du *Fils supposé* reste encore inconnue.
 
 
-## La Dramaturgie
+## La Dramaturgie.
 
 
-### La question du genre
+### La question du genre.
 
 *Le Fils supposé* est intitulé « comédie » par Scudéry. À première vue, on peut se dire que la question du genre ne se pose pas mais plusieurs critiques remettent en cause de manière implicite cette nomination. Ainsi Éveline Dutertre dans *Scudéry dramaturge* souligne que
 
@@ -202,7 +202,7 @@ De cela Georges Forestier a déduit « que le genre de la comédie relève d'un
 Cette construction à rebours en trois temps est typique de la comédie et notre comédie ne déroge pas à cette structure, qui est généralement utilisée dans la plupart des comédies du XVII*e* siècle.
 
 
-### L'action et le cadre spatio-temporel
+### L'action et le cadre spatio-temporel.
 
 Lorsque Scudéry compose *Le Fils supposé*, la tragi-comédie et l'irrégularité dominent le monde théâtral. Lui-même dans la préface de *Ligdamon et Lidias* « A qui lit » (1631) faisait ainsi l'éloge de l'irrégularité :
 
@@ -212,7 +212,7 @@ Je ne suis pas si peu versé dans les regles des anciens Poëtes Grecs et Latins
 Ainsi l'on remarque que le non respect des règles est un choix délibéré de la part de Scudéry.
 
 
-#### L'action
+#### L'action.
 
 L'action est liée directement au nœud de l'histoire. Elle doit avoir un début, un milieu et une fin. Dans une comédie, les relations entre les amoureux constituent généralement l'action principale (ou le fil principal) de l'intrigue mais celle-ci peut se compliquer en présence de plusieurs couples d'amoureux. Selon Hélène Baby :
 
@@ -226,17 +226,17 @@ Ces couples forment les deux fils principaux. Ils sont dépendants l'un de l'aut
 Ainsi l'intrigue est formée de deux actions principales. Le premier fil est le couple Bélise-Philante et le second fil est celui de Luciane-Oronte.
 
 
-#### Le temps
+#### Le temps.
 
 *Le Fils supposé* dure plus de vingt-quatre heures. Nous avons repéré deux indications de temps. Dans l'Acte II scène 3 Bélise mentionne que cela fait trois jours qu'elle attend le retour de Philante (v.537-538). La deuxième indication est toujours faite par Bélise dans la même scène. Elle évoque son départ avec Doriste pour Paris et ce départ se ferait la nuit « Partons pour n'estre veus au coucher du soleil » (v. 604). Selon Éveline Dutertre, l'action de notre comédie « doit durer une grande semaine ou deux petites » [23] du fait des nombreux voyages que font les personnages entre les différents lieux cités dans la pièce.
 
 
-#### Les divers lieux
+#### Les divers lieux.
 
 Dans *Le Fils supposé*, l'action se développe dans trois lieux différents : Rennes, près des murailles de Blois (acte II, sc. 3) et Paris. En effet, dans le premier acte, Luciane, Oronte, Almédor et Rosandre sont à Paris mais Philante, Bélise, Clorian et Doriste sont à Rennes. Au deuxième acte, un troisième lieu est mentionné la ville de Blois où Bélise et Doriste attendent Philante. Pour la ville de Paris, dans la pièce, elle se trouve subdivisée en plusieurs lieux différents, c'est-à-dire, que quand la pièce se déroule à Paris on peut être soit chez Rosandre, soit devant la maison d'Almédor, soit à la porte de Saint Antoine. Ce qui rend la représentation scénique bien plus compliquée.
 
 
-### La représentation scénique
+### La représentation scénique.
 
 Ce qui caractérise le théâtre de Scudéry, c'est le mouvement. Ce mouvement, selon Dutertre, est composé de trois procédés. Tout d'abord, il y a l'enchaînement d'actions qui se fait de manière rapide et le mouvement des personnages qui se déplacent d'un lieu à un autre. Ensuite, le mouvement peut être créé par les scènes de combat ou de duel qui sont assez fréquentes dans les pièces de Scudéry. Pour terminer, il crée du mouvement en alternant les divers lieux de la pièce. Ces trois procédés figurent dans notre pièce. Certains d'entre eux, comme l'alternance de lieux, rendent la compréhension et la représentation de la pièce plus compliquées. Scudéry mentionne six fois l'expression : « La scene change de face » [24] mais il ne la mentionne que quand cela concerne les villes tels que Paris, Rennes et Blois. Il ne mentionne pas les changements de lieux qui se font dans la ville même. Dans notre pièce c'est le cas pour Paris.
 
@@ -260,7 +260,7 @@ Nous ne savons pas comment était éclairée la pièce. Pasquier émet plusieurs
 Cependant ce que nous venons d'exposer n'est qu'une simple hypothèse car nous avons aucune information sur le décor utilisé et de son agencement sur scène pour notre comédie.
 
 
-### Les personnages
+### Les personnages.
 
 Tous les personnages de la pièce ont la même consistance. Comme le souligne Éveline Dutertre :
 
@@ -272,7 +272,7 @@ Dans les dix personnages présents sur scène, tous les personnages utilisent le
 Nous rappelons que l'intrigue de notre pièce est typique de la comédie d'intrigue. Ici l'histoire tourne autour de deux couples d'amoureux.
 
 
-#### Les amoureux
+#### Les amoureux.
 
 Les amoureux sont les personnages principaux de l'action. Toute l'action de la pièce tourne autour d'eux, comme le précise Dutertre :
 
@@ -304,7 +304,7 @@ Ainsi Bélise prend la décision de se déguiser en homme, d'aller à Paris et d
 Ainsi les amoureux du *Fils supposé* ressemblent à tous les amoureux des comédies des années 1630.
 
 
-#### Les pères
+#### Les pères.
 
 Les pères représentent au XVII*e* siècle l'autorité supérieure. Ces derniers en s'opposant aux désirs des amoureux deviennent alors l'obstacle.
 
@@ -314,19 +314,19 @@ Parmi les personnages importants dont les décisions risquent de s'opposer aux v
 Ils sont un obstacle classique de la comédie. Les pères sont incarnés par Rosandre (qui est le père de Luciane), Almédor (qui est le père de Philante) et enfin Clorian (qui est le frère de Bélise). Ces figures paternelles s'opposent aux desseins des héros, c'est-à-dire, le mariage [34]. La motivation la plus fréquente à cette opposition est la fortune. Ainsi Oronte reproche l'avarice du père de Luciane (Acte I, sc II, v.171-178). Rosandre ne veut pas que sa fille épouse Oronte et, selon Oronte, cette opposition est due au fait qu'il n'a pas d'argent. À l'acte V scène 5, Clorian évoque aussi cette opposition [35]. Pour aider sa sœur et Philante à se marier, il dévoile à Almédor que Bélise et lui sont de « naissance illustre » et qu'Almédor ne doit pas redouter « quelque desavantage ». Cependant, l'opposition peut ne reposer sur aucun motif [36]. C'est le cas du frère de Bélise. Ce dernier s'oppose au bonheur de sa sœur sans aucune raison. Ce serait seulement un « caprice » (acte I, sc 7).
 
 
-#### La réversibilité des pères
+#### La réversibilité des pères.
 
 Il y a un obstacle dans la pièce : le refus des pères face soit au mariage de leur fille, soit face au mariage de leur fils. Or, pour aboutir au dénouement, il faut que l'obstacle disparaisse. Selon Hélène Baby [37], la réversibilité parentale n'a lieu qu'à la fin de la pièce, lors du dénouement. Certes, Almédor et Rosandre acceptent le mariage de leurs enfants au dénouement, ce qui permet à Scudéry de terminer sa pièce et d'arriver à la situation finale où les deux mariages sont possibles. Cependant dans notre pièce, le frère de Bélise, après avoir refusé le mariage de Bélise et Philante et avoir mis ce dernier en prison, décide de relâcher Philante (acte II, sc. VI). Dans l'intrigue, ce revirement n'a aucune explication convaincante. Or, au niveau dramaturgique ce revirement permet un nouveau rebondissement dans l'action et permet également à Scudéry de créer un confident pour Philante et un futur compagnon d'arme pour le duel qu'il y aura entre Oronte et Philante.
 
 Ces deux revirements permettent à Scudéry d'abolir l'obstacle principal et ainsi d'arriver au dénouement de la pièce.
 
 
-#### Les personnages secondaires
+#### Les personnages secondaires.
 
 Nous avons peu de personnages secondaires. Ils sont présents que dans un petit nombre de scènes mais ils ont quand un même un rôle important celui de confident. Le seul personnage secondaire ayant un « rôle muet » [38] est le page Polidon qui n'apparaît que dans une seule scène (acte V, scène 4).
 
 
-#### Le confident
+#### Le confident.
 
 Dans les pièces du XVII*e* siècle le confident est un personnage très important. Pour Hélène Baby, le confident proviendrait soit du parasite ou soit de l'esclave de la comédie latine. Le confident n'a pas de rang social fixe. Il peut-être un domestique ou bien un noble. Cela importe peu. Elle distingue deux types de confident : il y a le confident passif et le confident actif. Dans notre pièce, les deux confidents sont des personnages actifs.
 
@@ -342,7 +342,7 @@ Le cas de Clorian est similaire : ce dernier devient l'ami, le confident et le 
 Le confident sert avant tout à « écouter, donner la réplique, poser quelque question, transmettre une information, avertir ou consoler. » [40]. Mais Scudéry donne une épaisseur supplémentaire à leur caractère en leur attribuant une double fonction. Ainsi, dans la pièce, Clorian est l'un des obstacles et également un confident. Doriste, quant à lui, sert le comique en étant un valet nuancé. Seul Braside n'est qu'un simple confident.
 
 
-#### Déguisement de Bélise
+#### Déguisement de Bélise.
 
 Le déguisement est un thème très important dans la littérature de l'époque de Louis XIII. Entre 1630 et 1639, le déguisement touche presque une pièce sur deux [41]. Il est assimilé à un rôle, on a donc une représentation du théâtre dans le théâtre. *Le Fils supposé* fait partie des 24 comédies de cette décennie à avoir un déguisement et Scudéry est l'un des spécialistes de ce phénomène.
 
@@ -373,12 +373,12 @@ Le travestissement de Bélise sert à compliquer l'action de la comédie en cré
 Ce travestissement débouche sur une sorte de réussite-échec. En effet, le déguisement de Bélise est une réussite car elle se fait passer pour Philante sans aucun problème. Mais, c'est également un double échec car elle est obligée d'épouser une jeune fille, et sa supercherie est découverte. Ainsi, à la fin de la pièce (Acte V, sc 4 et 5) Philante et Clorian font leur apparition et reconnaissent Bélise derrière le déguisement. Ces deux apparitions mettent fin au déguisement et rétablissent l'ordre.
 
 
-## La thématique baroque
+## La thématique baroque.
 
 Le baroque, notion dont l'origine étymologique est incertaine comme le souligne Didier Souiller [46] dans son livre. Cette esthétique est avant tout un mouvement européen. Si nous avons choisi d'étudier quelques thématiques de l'esthétique baroque, cela est dû au fait que notre pièce en est empreinte. Nous l'avons déjà remarqué par le mélange de genres employés dans la pièce mais nous le verrons encore par l'utilisation des ornementations lyriques ainsi que par les thématiques présente dans cette comédie que sont « Protée », le change et le rêve éveillé.
 
 
-### « Protée » (ou les fausse apparences)
+### « Protée » (ou les fausse apparences).
 
 Nous appelons cette première partie « Protée » en référence à deux parties de l'ouvrage de Jean Rousset [47] dont la première se nomme « Protée » et la seconde « Où Protée réapparaît »
 
@@ -398,7 +398,7 @@ Mais cette thématique apparaît implicitement dans toute la pièce avec le dég
 Les personnages féminins sont des Protée dans notre pièce, elles métamorphosent soit leurs sentiments ou soit leur sexe et leur apparence.
 
 
-### Le change et l'inconstance
+### Le change et l'inconstance.
 
 Selon Didier Souiller, la thématique du change fut introduite « dans le cours de la nature » par Théophile. Ainsi,
 
@@ -422,7 +422,7 @@ Changer et rechanger, aimer tout, n'aimer rien; (V.1164)
 Ces deux polyptotes évoquent bien la variabilité des sentiments et le changement. Or cette inconstance, et la mutation du monde seront opposées à la constance. Dans sa tirade Oronte oppose l'inconstance de Luciane et sa constance.
 
 
-### Le rêve éveillé et le doute
+### Le rêve éveillé et le doute.
 
 Le rêve éveillé et le doute sont des thématiques importantes du théâtre des années 1630. Selon Souiller, celle du rêve éveillé est fortement utilisée par le théâtre baroque pour « représenter un personnage réduit à ne comprendre ce qu'il a vécu que comme un rêve trompeur ». En effet, l'homme doutant de ce qu'il voit, ne sait plus s'il est dans un rêve ou dans la réalité. Ce topos se retrouve dans la bouche d'Oronte au vers 129 mais également dans l'acte III scène 8. Ainsi Oronte après avoir discuté avec Luciane, ne comprend pas pourquoi cette dernière a défendu son prétendu rival. Oronte se croit alors dans un mauvais rêve.
 
@@ -434,15 +434,15 @@ L'abisme des mal-heurs où je me crois plongé ! (v. 909-912)
 Le démon du développement d'Oronte nous rappelle le « mauvais génie » de Descartes. Ce démon induit en erreur Oronte, et de ce fait Oronte se met à douter. Il ne sait plus discerner le réel du songe. Ce doute est exprimé par les phrases interrogatives et le verbe croire. Le terme « abisme » marque bien le manque de repère que permettrait à Oronte de faire la différence entre le rêve et le réel. Comme Descartes le souligne dans la première méditation « il n'y a point d'indices concluants ni de marques assez certaines par où l'on puisse distinguer nettement la veille d'avec le sommeil ». Cette citation résume la situation d'Oronte à ce moment là. Les trois thématiques baroques que l'on retrouve dans notre pièce sont liées, elles caractérisent l'homme et sa vie par fragilité mais également l'étique qui domine de la fin du XVI*e* siècle jusqu'au début du XVII*e* siècle.
 
 
-## Le lyrisme et la rhétorique amoureuse
+## Le lyrisme et la rhétorique amoureuse.
 
 
-### Les poèmes insérés
+### Les poèmes insérés.
 
 On peut trouver dans les pièces de Georges de Scudéry des monologues dont la forme est poétique. Ces monologues lyriques sont présents dans notre pièce sous différentes formes et ont différentes fonctions. On peut trouver deux types de développement lyrique : les Stances et la Villanelle. Ces monologues peuvent exprimer les conflits intérieurs des personnages mais ils peuvent servir aussi de simple ornement. Selon le graphique proposé par Évelyne Dutertre [52], *Le Fils supposé* est la pièce qui contient le plus de stances dans toutes les pièces de la carrière dramatique de Scudéry. Elle contient en tout trois stances et une villanelle.
 
 
-#### Les stances
+#### Les stances.
 
 Ces monologues lyriques sont au nombre de trois dans cette comédie : Acte II, scène 1; Acte IV, scène 6 et Acte V, Scène 1.
 
@@ -478,14 +478,14 @@ Le second est formé d'un quatrain de trois octosyllabes et d'un alexandrin et d
 Comme le souligne Magali Brunel dans son article sur les stances [57] le thème généralement évoqué dans les stances est l'amour. Il est souvent accompagné des thèmes de la mort, de l'honneur ou de la haine. Dans notre pièce les trois stances récitées par les amoureux sont des plaintes amoureuses. Ainsi les stances de Luciane sont une plainte amoureuse. En effet, elle est face à un dilemme, elle ne sait pas si elle doit choisir son père ou son amant. Ces stances sont intéressantes, du fait que Luciane pèse le pour et le contre avant de décider de perdre la vie. Certes, elle ne prend pas de décision mais ces stances permettent au spectateur de mieux comprendre les méandres du personnage. Bélise, quant à elle, se désespère de voir apparaître Philante pour la délivrer de sa ruse. Oronte dans ses stances imagine à tort que Luciane lui est infidèle. Les stances ralentissent l'action de la pièce, elles permettent d'informer le public des sentiments et des méandres des personnages.
 
 
-#### La Villanelle
+#### La Villanelle.
 
 Le deuxième type de poème que Scudéry insère dans sa pièce est la villanelle. Elle est originaire d'Italie. La villanelle est un poème ou une chanson pastorale, composé de plusieurs couplets finissant par le même refrain. Selon Michèle Aquien [58], la forme fixe de la villanelle est établit à la fin du XVI siècle. Le modèle de cette forme fixe est la villanelle de Jean Passerat « J'ai perdu ma tourterelle » [59]. Elle est composée d'un nombre impair de tercets et d'un quatrain final. La villanelle que l'on retrouve dans notre pièce rentre dans la forme des villanelles dont le nombre de vers n'est pas fixe et dont le refrain est composé d'un ou deux vers. Il semblerait que le modèle de la villanelle au XVII*e* siècle soit celui de l'inconstance d'Hylas de *L'Astrée*. Ainsi la villanelle d'Hylas [60] que l'on retrouve dans *L'Astrée* parle de l'inconstance de ce dernier. Celle du *Fils supposé* est orientée vers la constance. Ainsi dans les deux cas le refrain est annoncé en prélude avant le poème et elles ne respectent pas la forme fixe de la villanelle.
 
 Il serait donc possible que Scudéry ait voulu créer un jeu d'écho avec son public. Ce qui est fort possible, sachant que Scudéry connaît par cœur l'œuvre d'Honoré d'Urfé. Ce jeu d'échos repose sur une opposition entre l'inconstance d'un côté et de l'autre la constance du jeune premier. En effet, la villanelle d'Hylas est placée sous le thème du change. Hylas explique dans ce poème que le rendre constant est quelque chose d'extrêmement difficile voir impossible. Pour étayer cela, il oppose l'âme barbare et son cœur et l'immobilité et le mouvement. Au contraire la villanelle de Philante expose l'amour parfait et la constance du jeune homme. Ainsi Philante est désespéré de ne pas savoir où se trouve Bélise. Son langage est hyperbolique et empreint de passion. Dès qu'il évoque l'hypothèse de l'inconstance possible de Bélise, ce dernier se ravise. On retrouve même le topos de l'écho. Ce topos est très fréquent dans les pastorales. Dans cette scène se dessine de manière très nette le langage pétraquiste que l'on retrouve dans toute la pièce.
 
 
-### Le langage amoureux
+### Le langage amoureux.
 
 Ce qui caractérise l'écriture de Scudéry est l'omniprésence du langage amoureux, ce que E. Dutertre nommera « les aspects galants » [61] dans son ouvrage. Nous choisissons de ne pas utilise ce terme pour cette partie car nous pensons qu'il n'est pas approprié à désigner ce langage amoureux. J.M. Pelous choisit également de ne pas utiliser le terme « galant », il préfère utiliser le terme « tendre » [62]. Cette thématique de l'amour est fortement influencée par Pétrarque, comme le souligne Lathuillère :
 
@@ -495,7 +495,7 @@ elles dérivent des imitation pétraquistes, sans cesse reprises depuis le sièc
 Ce langage est également un modèle des relations amoureuses que l'on retrouve dans les romans. De plus, « les auteurs y trouvaient un moyen d'expression commode » [64] car c'était un langage connu de la société, comme le souligne Gabriel Conesa c'est « un style d'époque ». Ce langage est fortement stéréotypé et impersonnel. Il permet d'ennoblir la comédie mais reste tout de même neutre. Cette thématique amoureuse occupe une place importante dans *Le Fils supposé*.
 
 
-#### L'isotopie de l'amour
+#### L'isotopie de l'amour.
 
 Nous ne prétendons pas recenser tous les termes qui font partie de cette isotopie mais nous allons parler de certains d'entre eux, qui reviennent de façon récurrente dans la pièce et les personnages qui les utilisent le plus. Nous parlerons également des principaux champs lexicaux qui gravitent autour de cette isotopie.
 
@@ -506,12 +506,12 @@ C'est pour cela qu'ils parlent tout le temps d'amour. Ainsi les amoureux par leu
 Autour de cette isotopie, nous avons plusieurs champs lexicaux, comme celui du feu, de l'objet aimé, de la souffrance, etc. Ces champs lexicaux sont rattachés à cette thématique par différentes figures de styles.
 
 
-#### Les figures de styles
+#### Les figures de styles.
 
 Le langage amoureux est composé de plusieurs figures de style. Les principales sont : les métaphores, l'hyperbole, l'antithèse, l'oxymore et les hypocoristiques. Pour cette partie nous allons fortement nous inspirer de l'analyse de Dutertre sur le style de Scudéry [67].
 
 
-##### Les tropes
+##### Les tropes.
 
 Nous trouvons de nombreuses métaphores qui renvoient au thème de l'amour. L'amour est une flamme qui peut nous enflammer, nous brûler ou encore nous consumer. Cette thématique du feu et de la flamme est la plus utilisé dans le langage amoureux mais aussi la plus ancienne. Selon Éveline Dutertre, on peut trouver 21 métaphores rattachées au feu dans *Le Fils supposé*. [68]
 
@@ -553,14 +553,14 @@ Dans ce vers Scudéry utilise une « expression galante par excellence ». La 
 Les métaphores et la métonymie ne sont pas les seules figures de styles utilisées dans le langage amoureux.
 
 
-##### Les figures de rhétorique
+##### Les figures de rhétorique.
 
 Ainsi, les hypocoristiques, certes peu fréquentes dans notre pièce, tiennent une place importante dans le langage amoureux. On a divers types d'appellation comme « Reine » ou « Maitresse » qui souligne le pouvoir de l'amante ou encore « Ma Luciane ». L'appellation est individualisée par le possessif.
 
 Nous avons aussi en quantité raisonnable des hyperboles et antithèses. Nous retrouvons toujours le même type d'antithèse, celle du tourment et de la joie, de la haine et de l'amour, de la vie et de la mort, etc. L'excès est souligné par l'hyperbole. En effet, l'hyperbole indique amour excessif, la violence de la douleur et comme le souligne Dutertre, cet excès peut devenir parfois comique. Mais ce qui apparaît le plus dans notre comédie, ses sont les figures mythologique de l'amour.
 
 
-#### Les figures mythologiques de l'amour
+#### Les figures mythologiques de l'amour.
 
 L'amour est ici représenté par diverses figures mythologiques. On peut, tout d'abord, rencontrer la personnification de l'Amour. C'est le Dieu qui protègent les amoureux, il est traditionnellement représenté sous la forme d'un enfant ailé [69] avec les yeux bandés et muni d'un arc et de flèches. Lors de la stance d'Oronte clame :
 
@@ -571,17 +571,17 @@ Ainsi Scudéry utilise de manière traditionnelle la figure d'Amour. Mais il fai
 Un autre référence, celle d'Énée descendant de Vénus, il est l'incarnation de l'Amour. Au vers 538 il est fait référence à l'histoire d'amour entre Énée et Didon [71].
 
 
-## Un comique enjoué
+## Un comique enjoué.
 
 *Le Fils supposé* est une comédie enjouée où l'on esquisse un sourire. Ce qui la rapproche des comédies de Corneille qui elles aussi étaient enjouées. Corneille avait mis sur scène de manière amusante « la conversation des honnêtes gens » [72]. C'est ce que Scudéry à fait lui aussi. Ainsi il a adapté certains procédés comiques que l'on retrouve dans la farce à sa pièce.
 
 
-### Le comique lié aux personnages
+### Le comique lié aux personnages.
 
 La plupart des archétypes comiques que l'on retrouve dans les comédies sont empruntés à la comédie italienne. Dans notre pièce nous pouvons trouver le type du matamore et le type du valet, cependant ces deux types sont extrêmement nuancés. Nous pensons que Scudéry a adapté ses personnages à sa pièce pour une question de vraisemblance.
 
 
-#### Le valet
+#### Le valet.
 
 Selon Guichemerre [73], il y a deux types de valets : le valet espagnol, le « gracioso » et le valet italien.
 
@@ -606,7 +606,7 @@ En général, les choses s'arrangent à temps pour nos valets: une reconnaissanc
 Scudéry fait de Doriste un valet extrêmement nuancé par rapport à son modèle d'origine qu'est le valet italien ce qui atténue le côté comique du personnage. Ce jeu d'écho avec le valet italien fait sourire les spectateurs.
 
 
-#### Le matamore
+#### Le matamore.
 
 Certains personnages de la comédie de Scudéry sont empreints de certains aspects du capitan. Ainsi le capitan trouve son origine dans le personnage de Pyrgopolinice. Le matamore est un personnage fanfaron, qui se vante de ses exploits guerriers et de ses conquêtes féminines. Ici Oronte est plutôt fanfaron : il évoque, sans cesse, vouloir se venger en utilisant son épée (v. 160 ; 521-526 ; 930). Il se vante de pouvoir tuer son ennemi (v. 528). Au vers 1085-1086, Braside dit à Philante qu'Oronte est connu de tous cependant Philante ne vois absolument pas qui est Oronte.
 
@@ -614,7 +614,7 @@ Quel que soit cét Oronte, il faut le contenter;
 J'iray sur vostre foy: (v.1087-1088)  
 
 
-### Le comique lié au déguisement
+### Le comique lié au déguisement.
 
 Le déguisement est un procédé créant des effets. Ainsi, le travestissement de Bélise crée des quiproquos et de la jalousie ce qui engendre de l'ironie et du comique.
 
@@ -633,12 +633,12 @@ Et certes j'y remarque un merveilleux rapport (v. 753-756)
 Almédor a l'impression de se voir dans ce fils supposé. Ce qui est comique pour le public c'est que ce dernier sait qu'Almédor est victime d'un déguisement. Cela est possible du fait qu'Almédor n'a pas vu son fils depuis plus vingt ans. Autre victime du déguisement de Bélise, Oronte. Luciane dans la scène de l'acte décide de rendre jaloux Oronte en se servant de Bélise déguisé en Philante. Cette scène comme la scène citée avant produit un effet comique. Oronte est complètement perdu face à la réaction de Luciane et de Bélise. De plus cette ruse s'avère payante car Oronte devient jaloux de ce supposé Philante. Ce qui engendrera divers quiproquos qui eux aussi vont créer des effets comiques.
 
 
-### Le style lié au comique
+### Le style lié au comique.
 
 Selon Guichemerre, « le style comique » [76] réunit les divers procédés qu'utilisent les dramaturges pour engendre un effet comique. Ainsi pour sa comédie Scudéry fait appel à certains de ces procédés.
 
 
-#### La stichomythie
+#### La stichomythie.
 
 La stichomythie permet de rendre le dialogue plus animé et plus vif. Ce procédé, selon Éveline Dutertre, est très usité par Scudéry dans ses diverses pièces. Ainsi, comme le souligne Guichemerre la stichomythie est un échange entre deux personnes de courtes répliques. Ce procédé est utilisé dans notre pièce pour engendrer des effets comiques dans certaines scènes. Ainsi dans la scène du duel (v. 1187-1202), Oronte se rend compte que ce n'est pas le Philante qu'il attendait. Oronte demande alors à Philante qui il est et celui-ci répond. S'ensuit un enchaînement de répliques courtes où s'entremêle question et réponses. Cet enchaînement mécanique vif perd l'un des personnages, Oronte
 
@@ -648,7 +648,7 @@ Et je ne sçaurois plus demander ny respondre. (v. 1201-1202)
 Ce qui est comique ici c'est que le public puisse se moquer de l'esprit lent du personnage d'Oronte car ce dernier ne comprend plus rien. Il est complètement perdu. Cependant la stichomythie n'est pas le seul procédé utilise par Scudéry.
 
 
-#### Symétrie, parallélisme et répétition
+#### Symétrie, parallélisme et répétition.
 
 Guichemerre nomme ce procédé « eurythmie ». Selon Guichemerre l'eurythmie crée des
 
@@ -676,19 +676,19 @@ Et s'il est fait pour elle, il luy ressemble mal. (v. 1367-1370)
 Ces procédés permettent de renforcer la situation comique de la scène, c'est-à-dire, le fait qu'Almédor ne reconnaît pas son fils alors que ce dernier ressemble à sa mère.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 À notre connaissance, il n'existe qu'une seule édition de la comédie de Georges de Scudéry, *Le Fils supposé*, publié en 1636 par Augustin Courbé. Nous nous baserons donc sur cette seule édition.
 
 
-## Description du volume
+## Description du volume.
 
 *Le fils supposé, comédie*, un volume, In-8°, Paris, chez Augustin Courbé, XII-119 p., Privilège du 2 avril 1638, Achevé d'imprimer le 20 avril 1636.
 
 Il existe 13 exemplaires de cette pièce.
 
 
-### Exemplaires consultés dans les bibliothèques parisiennes
+### Exemplaires consultés dans les bibliothèques parisiennes.
  * -Paris-Sorbonne, BIU centrale : RRA6=708
  * -Arsenal : GD-738
  * -Arsenal : 8-BL-13618 (2) (Recueil factice)
@@ -701,13 +701,13 @@ Il existe 13 exemplaires de cette pièce.
  * -Tolbiac-Rez-de-jardin :YF-4839
 
 
-#### Exemplaires non consultés
+#### Exemplaires non consultés.
  * -Tolbiac-Rez-de-jardin : 8-YTH-7267 (non consultable pour cause de réparation)
  * -Grenoble-BM : E29587CGA
  * -Besançon-BM : 205083
 
 
-## Description de la page de titre
+## Description de la page de titre.
 
 I : Le FILS/ SUPPOSÉ. / COMEDIE. / PAR / MONSIEUR DE SCUDERY. / Fleuron / A PARIS, /Chez *Augustin Courbé* / Libraire & Im- / primeur de Monseigneur frère du Roy, à la / petite gallerie au Palais, à la Palme. / Filet / M. DC. XXXVI. / *AVEC PRIVILÈGE DU ROY*.
 
@@ -724,7 +724,7 @@ XII : LES ACTEURS
 1-119 : le texte de la pièce
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour établir le texte nous avons suivi fidèlement l'édition d'origine. Il ne faut pas s'étonner si certains mots peuvent apparaître avec deux graphies distinctes comme « age » et « aage » ou encore « guarir » et « guerir ». À cette époque, il n'y avait pas de règle orthographique proprement dite.
 
@@ -737,7 +737,7 @@ Cependant nous avons effectuée certains changements pour améliorer la compréh
  * – Enfin nous avons gardé fidèlement la ponctuation originelle du texte du fait que Georges de Scudéry dans « Au Lecteur », signale avoir scrupuleusement vérifié son texte.
 
 
-## Liste des coquilles
+## Liste des coquilles.
 
 Nous avons corrigée la coquille que Scudéry annonce dans son « Au Lecteur » :
  * – Acte III, scène 3 vers 774 : Qui devient Que
@@ -1652,7 +1652,7 @@ Pour terminer sa crainte, en terminant la mienne.
 ACTE II.
 
 
-### SCENE IV
+### SCENE IV.
 
     CLORIAN.
 Que ne peut-on forcer avecques la douceur !  
@@ -1735,7 +1735,7 @@ Mon oreille me trompe aussi bien que mes yeux !
 Ha ! tirons la vertu de ces infames lieux.   
 
 
-## ACTE TROISIESME
+## ACTE TROISIESME.
 Philante, Clorian, Almedor, Belise, Doriste, Oronte, Rosandre, Luciane.
 
 
@@ -1933,7 +1933,7 @@ Mais quelque excez de mal que j'en puisse sentir,
 Mon esprit amoureux ne peut s'en repentir:  
 Doriste, pour ce mal, n'as tu point de remede ?  
 
-    DORISTE. 
+    DORISTE.
 Rien qui vous soit utile, et rien du tout qui m'aide.  
 Plus je tasche à sortir, et plus mon jugement⁎,  
 S'embarasse confus dans cét empeschement.  
@@ -3185,13 +3185,13 @@ Le champ nous est ouvert, allons-y; c'est assez.
 FIN
 
 
-# Lexique
+# Lexique.
 
 Définition du *Dictionnaire universel* Le Furetière (1690) et du Richelet (1680) :Advanture : (Adventure) f. f.Accident, ou chose qui est arrivée, ou qui doit arriver.V. 19 ; 461 ; 1355 ; 1403Se dit aussi de ces accidents surprenants et extraordinaires qui arrivent quelquefois dans le monde, et qui sont souvent de pures imaginations. Signifie aussi, Ce qui est au pouvoir du hazard, de la fortune. Aimable : adj. masc. et fem.Qui a des qualitez qui attirent l'amour, ou l'amitié de quelqu'un. (Furetière 1690).Dédicace ;
               v. 52 ; 469 ; 723 ; 1319Adj. Digne d'être aimé. (Richelet 1680). Dédicace ; v. 52 ; 469 ; 723 ; 1319Amitié : subst. fem.Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un côté, soit qu'elle soit reciproque.V. 9 ; 24 ; 33 ; 94 ; 273 ; 334 ; 612 ; 695 ; 1294 ; 1407Se dit aussi des choses inanimées. Se dit figurément des choses qui sympathisent. Signifie encore, Plaisir, bon office. Au pluriel, *Amitiez*, signifie Caresses. Quand je luy ay porté cette nouvelle, il m'a fait cent *amitié*.On dit proverbialement, que l'*amitié* passe le gant, quand quelqu'un touche en la main d'un autre sans se deganter. Il est de bonne amitié, il a le visage long. Les Marchands disent à ceux qui leur mesoffrent, Vous l'auriez aussi-tôt pour vôtra amitié.On dit aussi populairement, qu'une viande n'a point d'amitié, pour dire, qu'elle est dure, insipide, ou degoûtante.Astre : s.m.Corps plein de lumiere propre, ou empruntée, qui roule dans les cieux au dessus de la region élementaire. Se dit figurément en Morale d'une personne extraordinaire en merite, en beauté. On dit d'un homme en fortune, qu'il est né sous un heureux *astre* ; qu'on a de la peine à forcer son *astre*, pour dire, sa destinée.V. 493Celer : v. act.Tenir quelque chose cachée, secrette, dissimuler.V. 1048Chiorme : (chiourme) s. f.Les galeriens ou forçats qui font mouvoir une galere à force de rames. On  le dit aussi des bonavoglies qui se loüent pour ramer. Ce mot est purement Italien, et signifie une multitude  de personnes viles et de neant, qui a été fait du Latin Turba: mais en France il est restraint à la signification des rameurs d'une galere. On a dit aussi le mot de ciurma en la basse Latinité dans le méme sens.V. 209 ; 220Est aussi le lieu où les forças sont assis pour ramer.V. 209 ; 220Chocquer (choquer) v. act. et n.Heurter avec violence.Signifie figurément, Quereller, offencer.V. 416Signifie encore, Blesser legerement. Cruel, elle : adj.Qui est barbare, inhumain, qui aime à tuer, massacrer, tourmenter, les autres hommes.V. 9 ; 69 ; 327 ; 634 ; 693Se dit aussi des animaux feroces.Se dit encore des choses douloureuses. V. 622 ; 1259Se dit aussi des choses qui sont simplement fascheuse.V. 456 ; 469 ; 549Decevoir : v. act.Tromper adroitement. Ce mot vient du Latin *decipere*.V. 793 ; 915Deçeu, euë : part. pass. et adj.Trompé.V. 127 ; 758Deffaut (defaut) : subst. Masc.Imperfection, vice naturel, ou acquis.V. 173 ; 335 ; 800Se dit aussi des manquements, des besoins.V. 121On appelle le *defaut* de la cuirasse, son extremité. Les gens d'armes étoient obligés de le trouver pour percer leur ennemy qui étoit armé à l'espreuve. On le dit figurément du foible d'un homme, de l'endroit par où il se peut laisser prendre.En termes de Chasse, on dit que les chiens sont en *defaut*, quand ils ont perdu la piste de la beste qu'ils chassent.En termes de Palais, signifie, Manquement, faute de comparoir en Justice aux assignations qui nous ont été données. On le dit aussi des manquements qu'on fait aux autres choses ordonnées en Justice, ou les procedures ordinaires. Desbile (debile) : adj. m. et f.Qui n'a pas les forces qu'il doit avoir naturellement et ordinairement.V. 1167Se dit figurément en choses spirituelles. Desert, erte : adject. Qui n'est point habité ni cultivé. En termes du Palais, on dit un appel *desert*, lors qu'on a laissé passer trois mois sans le relever.Desert : subst.Dans le même sens.V.  293 ; 538 ; 1063Se dit aussi d'une maison, d'une terre en desordre, qu'on a negligé d'entretenir en bon estat.On le dit en contresens d'un homme qui aimant la solitude, a fait bastir quelque jolie maison hors des grands chemins, et éloignée du commerce du monde, pour s'y retirer.V. 538Despiter : v. act. qui se dit souvent avec le pronom personnel.Concevoir du depit, de la fâcherie.V. 371 ; 512Dessein : s. f.Projet, entreprise, intention.V. 106 ; 358 ; 443 ; 491 ; 582 ; 610 ; 635 ; 672 ; 716 ; 771 ; 823 ; 832 ; 881 ; 895 ; 957 ; 1160 ; 1272 ; 1358 ; 1395Est aussi la pensée qu'on a dans l'imagination de l'ordre, de la distribution et de la construction d'un tableau, d'un Poëme, d'un livre, d'un bastiment. Se dit aussi en Peinture, de ces images ou tableaux qui sont sans couleur, et qu'on execute quelquefois en grand. Se prend aussi pour la pensée d'un grand ouvrage qu'on trace grossierement en petit, pour l'executer et finir en grand. Entretien : s. m.Depense qu'on fait pour reparer une chose, pour le faire subsister, les logis exposez au vent sont de grand entretien. Se dit particulierement de la despense qu'on fait pur s'habiller. Se dit aussi de la conversation.V. 56 ; 297 ; 883Se dit figuremént en choses morales. *L'entretien* des loix, de la discipline militaire, sont l'entretien des Estas, des armées. Les contemplatifs ont des *entretiens* spirituels avec Dieu. Le fidelité conjugale est *l'entretien* de la paix dans le mariage, etc.Ennuy (Ennui) : s.m.Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. Ce mot vient de *innoia*, et de *innoiare*, qui a été fait de *noxia*. Menage.V. 261 ; 543 ; 864 ; 1009 ; 1137Estonner : v. act.Causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte.Dédicace ; v. 903 ; 1358 ; 1407Se dit aussi des choses qui sont assez ordinaires et peu considerables. Se dit aussi des émotions des corps qui sont esbranslez et attaquez par quelque violence. Se dit proverbialement en ces phrases. On dit qu'un homme est *estonné* comme s'il tomboit des nuës, comme si les cornes luy venoient à la teste ; qu'il est *estonné* comme un fondeur de cloches. On dit aussi d'un homme ferme ou opiniastre, qu'il est bon cheval de trompette, qu'il ne s'*estonne* pas pour le bruit.Estonnement : s.m.Action ou effet qui cause de la surprise, de l'admiration.V. 1179 ; 1311 ;  1420Fortune : s. f.C'estoit autrefois une divinité payenne qu'on croyoit estre la cause de tous les évenements extraordinaires: au lieu que c'est en effet la Providence divine qui agit par des voyes inconnuës et au dessus de la prudence des hommes.DédicaceEn ce sens on a dit, Adorer la *Fortune*, sacrifier à la *Fortune*. On feignoit que la *Fortune* avoit le pied sur une rouë, pour marquer son inconstance: d'où vient qu'on a dit, la rouë de *Fortune*: Mettre un clou à sa *fortune*, pour dire, la fixer. Maintenant on appelle *Fortune*, ce qui arrive par hasard, qui est fortuit et impreveu.Dédicace ; v. 121 ; 135 ; 147 ; 261 ; 280 ; 311 ; 430 ; 445 ; 571 ; 598 ; 726 ; 940 ; 1038 ; 1117 ; 1217 ; 1287 ; 1392Se dit aussi de ce qui advient inopinément et contre l'opinion de la cause efficiente. Biens de la *fortune*, sont les richesses: ce qui se dit par extension, des honneurs, des dignitez, et autres choses inconstantes et perissables. Un stoïque mesprise tous les biens de *fortune.*V. 106 ; 1026Signifie aussi, l'establissement, le credit, les biens qu'on a acquis par son merite, ou par hasard.V. 1110 On dit aussi, *brusquerfortune*, pour dire, chercher à faire quelque gain ou establissement, du mot buscar, Espagnol, qui signifie, chercher.Signifie aussi les gens puissans et en credit.  On appelle un homme de *fortune*, celuy qui n'ayant ni naissance, ni bien, parvient à quelque grende charge ou establissement. Foy : s.f.Don de Dieu qui nous fait croire fermement les veritez qu'il a revelées à son Eglise. S. Paul dit que c'est le fondement des choses que l'on espere, et une preuve certaine de ce qui ne se voit point. aux Hebr. chap. II. vers. I. On appelle, *Foy divine*, toutes les veritez qui sont contenuës dans l'Escriture.FOY HUMAINE, est la creance qu'on donne aux paroles des hommes. Il faut toûjours entretenir tout ce qui a esté fait sous la *foy* publique. les Peres sont des Auteurs dignes de *foy*. Profession de *Foy*, est une formule qui contient tous les articles de la croyance de l'Eglise, qu'on fait lire et jurer à ceux qui abjurent l'heresie, ou à ceux qui entrent en quelques dignitez Ecclesiastiques. Le Symbole de la *foy*, c'est le Credo ou le Symbole des Apostres.V. 40 ; 189 ; 304 ; 349 ; 536 ; 679 ; 865 ; 903 ; 1088 ; 1134 ; 1413 ; 1486Signifie encore, Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer.V. 40 ; 189 ; 304 ; 349 ; 536 ; 679 ; 865 ; 903 ; 1088 ; 1134 ; 1413 ; 1486On dit aussi, Laisser un homme sur sa *foy*, pour dire, l'abandonner à sa conduitte. On le dit aussi d'un cheval qu'on laisse en liberté d'aller paistre où il voudra.La *foy* conjugale, est la *foy* que le mari et la femme se donnent en se mariant. On appelle aussi une *foy*, la representation de deux mains jointes ensemble, qui sont un tesmoignage de *foy*.En termes de Jurisprudence, on dit qu'il y a des contracts de bonne *foy*, comme les ventes, eschanges, loüages et autres, où l'on se confie à la probité des contractans, et dont on interprete favorablement les intentions ; d'autres qui sont de droit estroit, et qu'on doit executer à la rigueur. La prescription n'a lieu, que lors qu'on possede de bonne *foy*.On dit aussi, qu'une piece revestuë de ses formes fait *foy*, pour dire, qu'on y adjouste *foy* en Justice, qu'on croit à son tesmoignage. en *foy* de quoy on a fait apposer le scel à ces presentes.On dit aussi, un homme de *foy*, pour dire, un vassal qui a fait la *foy* et hommage ou serment de fidelité à son Seigneur pour un fief qu'il tient de luy à cette condition. On dit en Fauconnerie, qu'on laisse aller un oiseau sur sa *foy*, lors qu'on ne luy donne plus de filiere, et qu'on le reclame en liberté.On appelle aussi *Foy* en termes de Blason, deux mains jointes ensemble. Il portoit de gueules à la *foy* d'argent. Franchise : subst. Fem.Sincerité tant en ses paroles qu'en ses actions.V. 866 ; 1173 ; 1315Signifie chez les Poëtes et les amants, Liberté.V. 258 Se dit aussi chez les Peintres, de cette liberté de pinceau qui fait paroistre leur art, et un genie facile et naturel.Signifie aussi, Asyle, lieu saint et privilegié où on est en seureté de sa personne. On appelle aussi *Franchises*, certains endroits privilegiez dans les villes, où les compagnons de mestier peuvent travailler sans estre Maistres.Signifie aussi, Privilege, exemption, immunité. Il y a aussi à la campagne plusieurs champs ou portions de terre qu'on appelle des *franchises*: ce que Du Cange croit venir de ce que ces terres appartenoient à des gens libres et francs, ou estoient exemptes de charges, qu'en plusieurs Coustumes et en Angleterre on appelle encore *libres tenements*, quoy que depuis on leur ait imposé quelques servitudes ou charges. (Furetière 1690).Franchise : s.f.Liberté.V. 258Azile.Exemption de se faire passer maître.Sincérité.V. 866 ; 1173 ; 1315. (Richelet 1680).Genereux, euse : adj.Qui a l'ame grande et noble et qui prefere l'honneur à tout autre interest.V. 121 ; 283 ; 512 ; 1041Signifie aussi, brave, vaillant, courageux.V. 121 ; 283 ; 871 ; 1041 ; 1131Signifie aussi, liberal. Se dit aussi de quelques animaux belliqueux, ou qui vivent de proye: comme, un cheval, un lion, une aigle, etc. sont des animaux genereux.Est aussi une epithete qu'on donne particulierement à l'aimant, quand il est excellent et fort vif pour faire une forte attraction.Generosité : s.f.Grandeur d'ame, de courage, magnanimité, bravoure, liberalité, et toute autre qualité qui fait le genereux.V. 342 ; 781Germain : AINE. Adj.Frere de pere et de mere ; et il se dit à la difference des freres uterins, qui ne sont freres que du costé de la mere.V. 326Se dit aussi des proches parens collateraux, ou cousins qui sont les enfans de deux freres, ou de deux sœurs, et issus de *germains*, les enfans des cousins *germains*.On dit aussi, il a le *germain* sur luy, pour dire, Il estoit cousin *germain* de son pere, il est plus proche d'un degré. Le mot de *Germain* s'est dit autrefois des habitans d'Allemagne ; et en ce sens il est Suedois, à ce que dit Mr. Rudbecks dans le livre intitulé *Atlantico*, cité dans le Journal d'Hollande de Janvier de l'année I685. Gloire : subst. Fem.Majesté de Dieu, la veuë de sa puissance, de sa grandeur infinie. Il y a cette difference entre *loüange*, et *gloire*, que la *loüange* se donne par les particuliers, et la *gloire* par le general du monde.On appelle en termes de Peinture et d'Opera une *gloire*, un lieu fort esclairé, une representation imparfaite de la *gloire* celeste. Mignard a peint au Val de Grace une *gloire*.Se dit aussi de l'honneur qu'on rend à Dieu, des louanges qui luy sont deuës.Se dit par emprunt et par participation, de l'honneur mondain, de la loüange qu'on donne au merite, au sçavoir et à la vertu des hommes.Au Lecteur ; V. 158 ; 319 ; 437 ; 444 ; 495 ; 570 ; 618 ; 645 ; 767 ; 961 ; 1030Signifie quelquefois, Orgueuil, presomption, bonne opinion qu'on a de soy-même.V. 829 ; 1024 ; 1177On dit, qu'un homme fait *gloire* d'une chose, lors qu'il s'en vante, qu'il s'en fait honneur. Imperieux : EUSE. Adj. Superbe, qui commande avec hauteur et orgueil.V. 340Jugement : s. m.Puissance de l'ame qui connoist, qui discerne le bon d'avec le mauvais, le vray d'avec le faux. V. 73 ; 728 ; 807 ; 928 ; 1247 ; 1357 ; 1476Se dit aussi de l'action par laquelle cette puissance exerce la fonction. Se dit aussi des decisions des puissances souveraines ; et par excellence on le dit de Dieu. Se dit aussi des decisions qui sont prononcées par l'autorité des Rois ou autres puissances terrestres, soit de leur propre bouche, soit par les Officiers qu'ils commettent pour rendre justice en leur place à leurs peuples. Se dit aussi du lieu où l'on juge, de l'audience que l'on tient. Se dit aussi de l'advis et de la decision des particuliers en toutes sortes de rencontres.Dédicace ; v. 772 ; 1476Se dit aussi des conjectures, des predictions. Signifie aussi, Critique ; sentiment d'un Auteur sur un ouvrage, ses corrections ou observattions.Se dit aussi en Peinture, d'une representation d'un jugement. On dit proverbialement d'une affaire qu'on voit traisner en longueur, qu'elle durera jusqu'au jour du *jugement*. On appelle aussi *jugement* de paysans, celuy qui partage le different par la moitié.Himene, himenée (Hymen ou hymenée) : subst. masc.Divinité fabuleuse des payens, qu'ils croyoient presider aux mariages. C'estoit le Dieu qu'on invoquoit dans les Epithalames. Les Poëtes l'appellent le blond hymnée. Le flambeau de l'Hymenée.Signifie aussi poëtiquement, le mariage.V. 63 ; 107 ; 458 ; 774 ; 775 ; 1074 ; 1283En termes de Medecine, est une petite peau semblable à du parchemin délié, que quelques-uns disent estre dans le cou de la matrice des vierges au dessous des nymphes, et qui se rompt lors de leur defloration avec effusion de sang. Les sages femmes l'appellent la Dame du milieu. Quand elle est retirée, elles disent que c'est une marque de la perte du pucelage. Les Anatomistes modernes disent qu'il ne s'en trouve point dans les filles les plus jeunes, même dans les fœtus. Les Anciens l'ont appellé taye et cloison, la porte et la garde virginité. Les Hebreux avoient coûtume de conserver ce sang comme une marque de chasteté de leurs filles et ils l'envoyoient monstrer à la parenté le ledemain des nopces. Voyez Laurens Jaubert dans ses erreurs populaires, où il a inseré plusieurs rapports de ces Matrones fort plaisant.Est aussi une peau délié qui enveloppe les fleurs des jardins qui sont en bouton, et qui ne se rompt que lors que la fleur s'espanoït. Ce qui se dit particulierement des roses.Honneur : s.m.Tesmoignage d'estime ou de soûmission qu'on rend à quelqu'un par ses paroles, ou par ses actions.V. 735 ; 1342Se dit en general de l'estime qui est deuë à la vertu et au merite.V. 938 ; 1222S'applique plus particulierement à deux sortes de vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes.V. 151 ; 368 ; 374 ; 448 ; 776 ; 1116On dit au Palais, Reparer l'*honneur* d'une fille, sauver son *honneur*, quand on oblige un suborneur à l'épouser. On dit aussi, Faire reparation d'*honneur*, quand on condamne un medisant à se dedire, à demander pardon à celle dont il a blessé l'*honneur*, qu'il avoit taxée en son *honneur*. On dit aussi dans le discours familier, qu'on doit reparation d'*honneur*, quand on a soûtenu opiniastrement quelque chose contre le sentiment d'une personne qui s'est trouvé bon par la suitte. les anciens Chevaliers couroient le monde pour soûtenir l'*honneur* des Dames. Se dit aussi de la chose qui honore, qui donne de la gloireSignifie aussi la charge, la dignité qui attire les respects et les soûmissions des autres.  vendu leur charge, comme *Conseillers d'honneur*.V. 313En termes de Blason, on appelle, *point d'honneur*, une place dans l'Escu qui est au milieu de l'espace enfermé entre le chef et la fasce, ou le lieu où on les place d'ordinaire. On appelle aussi *quartier d'honneur*, le premier quartier ou canton du chef.S'employe aussi dans les paroles et actions de civilité. S'employe aussi quelquefois burlesquement et ironiquement.On dit aussi, pour jurer et affirmer une chose fortement, Sur mon *honneur*, je vous engage ma foy et mon *honneur*, je vous dis cela en homme d'*honneur*.V. 321 ; 558 ; 1116Au pluriel, se dit non seulement dans les significations precedentes. Les *Honneurs* est un nom qu'on donne aux principales pieces qui servent aux grandes ceremonies, aux Sacres des Rois et des Prelats, aux baptesmes, etc. Les *honneurs funebres* sont les pompes et ceremonies qui se font aux enterrements des grands, comme tentures, herses, oraisons funebres, etc.Les *honneurs de l'Eglise*, sont les droits qui appartiennent aux Patrons de l'Eglise, et aux Seigneurs Haut-Justiciers, comme la recommendation au prosne, l'encens, l'eau benite, la premiere part du pain benit, etc.Les *honneurs de ville*, sont des charges et fonctions que les bourgeois briguent pour parvenir à l'Eschevinage. Il a esté Commissaire des pauvres, Marguillier de sa Parroisse, Juge, Consul, Quartenier, Conseiller de ville, et en fin Eschevin, il a passé par tous les *honneurs* de la ville.Les *honneurs*, au jeu des cartes, ce sont les peintures, le Roy, la Dame, le Valet.Se dit proverbialement en ces phrases. Moins d'*honneur*, et plus de profit, pour dire, J'aime mieux le gain que la loüange. On dit aussi, que les *honneurs* changent les mœurs, pour dire, qu'un pauvre enrichi est sujet à se meconnoistre. On dit aussi, A tous Seigneurs tous *honneurs*, pour dire, Il faut rendre honneur à qui il appartient. On dit, qu'il n'y a ni profit ni *honneur* à faire une chose, quand elle n'est point utile ni honneste. On dit encore, En tout bien et en tout *honneur*, pour dire, Je ne veux point choquer vôtre pruderie. Humeur : f. f.Substance fluide dont les parties sont en mouvement. En terme de Medecine, on appellenles quatre *humeurs*, les quatre substances liquides qui abreuvent tous les corps des animaux, et qu'on croit estre cause de divers temperamments, qui sont le flegme ou la pituite, le sang, la bile, la mélancolie. Il y en a de composées qui s'espaississent et qui se corrompent, comme celles qui font le plus, les glaives, et autres causent les absés, les obstructions, et généralement toutes les maladies. On les appelle de divers noms, malignes, adustes, acres, mordicantes, cruës, peccantes ; etc.En optique on distingue particulierement trois *humeurs* qui forment l'œuil. La cristaline est celle où se forme la refraction des rayons, qui est une espece de petite boule humide qui est arrondie ou applatie selon la diversité des âges, et dont la diverse figure fait qu'on regarde plus loin, ou de plus prés: Le vitrée, celle qui est depuis le cristalin jusqu'à retine, qui imite la substance d'un grain de raisin dont on auroit osté la peau: et l'aqueuse, qui se respand dans le reste de l'oeuil.Se dit aussi du temperamment particulier qui vient du meslange de ces qualitez. Ainsi on dit, qu'un homme est *d'humeur* bibilieuse, colerique, emportée ; *d'humeur*  flegmatique, douce,  posée, froide ; *d'humeur* sociable, grave ; d'humeur melancolique, chagrine, inquiete, triste, noire, sombre, bizarre, insupportable, hypocondriaque ; *d'humeur* sanguine, gaye, enjoüée, complaisante, volage, amoureuse ; de belle *humeur* ; *d'humeur* joviale, imperieuse.V. 15 ; 677 ; 1006Se dit en Morale, des passions qui s'esmeuvent en nous suivant la disposition ou l'agitation de ces quatre *humeurs*.V. 1004Presque en ce sens se dit de la resolution, de la disposition de l'esprit.Objet (object) : subst. Masc.Ce qui est opposé à nostre veuë, ou qui frappe nos autres sens, ou qui se represente à nostre imagination.V. 252 ; 797Signifie aussi ce qu'on regarde, ou ce qu'on se represente ; ou qu'on examine en s'appliquant à quelque art ou science ; la matiere sur laquelle on travaille, ou on raisonne.Se dit quelquefois seulement de la fin.DédicaceSe dit aussi poëtiquement des belles personnes qui donnent de l'amour.V. 299 ; 667 ; 900 ; 934 ; 1319Se dit encore en choses morales.V. 570 ; 667 ; 1028En termes de Pratique, il signifie quelque-fois, reproche, objection, refutation. Perdre : v. act. et n.Souffrir quelque dommage, quelque diminution en sa santé, en son honneur, en ses biens.V. 18 ; 180 ; 188 ; 380 ; 417 ; 1322 ; 1494Signifie quelquefois, Manquer à gagner. Signifie aussi, Prodiguer, dissiper, faire un mauvais mesnage d'une chose.V. 829 ; 1008 ; 1220Signifie aussi, Destruire, ruiner.V. 180Se dit aussi des choses qui sont hors de la portée de nos sens. On dit en Physique, qu'il ne se *perd* rien dans le monde, qu'il n'y a que la forme de changée. Le mouvement ne se *perd* point, mais se communique au corps qu'il rencontre. On dit que du vin et des drogues *perdent* leurs forces, lors qu'elles s'alterent et se corrompent.Se dit figurément en choses spirituelles et morales.V. 1247Perfide : adj. m. et f. et subst.Qui manque de foy, qui trahit, qui manque à sa parole.V. 504 ; 1029 ; 1133 ; 1169Pleindre : (Plaindre) v. act.Qui se dit souvent avec le pronom personnel. Témoigner sa douleur, son affliction par quelque signe exterieur.V. 942 ; 1492Signifie aussi, avoir de la compassion, de la douleur de la misere d'autruy.V. 327Signifie aussi, demander raison, ou reparation de quelque tort ou injustice, ou en faire quelque reproche.On dit aussi qu'un homme se *plaint* sa vie, se *plaint* un habit, pour dire, qu'il ne se donne pas ce qui est necessaire pour se nourrir et pour se vestir. On dit au contraire, On n'a pas *plaint* l'argent à ce bastiment, pour dire. On n'y a rien espargné. On n'a pas *pleint* le beurre à cette sauce, on y en a mis trop. On luy *plaint* rien, on luy donne tout ce qu'il souhaitte. Poltron, onne : adj. et subst.opposé à brave et vaillant.Qui est timide, qui n'ose rien entreprendre, de peur de courir quelque danger.V. 993D'autres le derivent *à poletro* ou *poltro*, qui signifie en Italien un *poulain* ou jeune cheval qui est fort disposé à s'enfuir n'estant pas accoustumé à la guerre. En termes de Fauconnerie, est le nom qu'on donne à un oiseau de proye à qui on a couppé les ongles des poulces, qui sont les doigts de derriere où sont ses armes et sa force, pour luy oster le courage, et empêcher qu'il ne vole le gros gibier. Promis, ise : part. et adj.Une fille *promise* est une fille accordée en mariage.V. 107 ; 1332Il ne faut pas manquer à la foy *promise*.V. 865 ; 1497Raviser : v. act.Qui ne se dit qu'avec le pronom personnel. Changer de sentiment, d'opinion, d'advis.DédicaceOn dit proverbialement, Il s'est *ravisé* en mangeant sa souppe, quand quelqu'un s'est desdit d'une chose qu'il avoit promise. Soing : (Soin) s. m.Diligence qu'on apporte à faire reüssir une chose, à la garder et à la conserver, à la perfectionner.Au Lecteur ; v. 74 ; 349 ; 1175 ; 1457Se dit aussi des soucis, des inquietudes qui émeuvent, qui trouble l'ame.V. 1007, 1391Se dit aussi en parlant des liberalitez qu'on fait à quelqu'un pour le faire subsister. Est aussi l'attache particuliere qu'on a auprés d'un maistre, ou d'une maistresse, pour les servir, ou leur plaire. Souspirer : v. neut. Et act.Pousser son haleine, sa respiration avec violence, quand on est esmeu de douleur, d'affliction, ou de quelque chose d'autre passion qui oppresse le cœur.V. 490 ; 1261 ; 1436Signifie aussi, aspirer, pretendre à quelque chose.Souffrir : v. act.Sentir de la douleur, du mal, ou quelque incommodité considérable.V. 520Se dit en un sens moins étendu, en parlant de ce qui déplaist, de ce qui fait quelque peine aux sens, ou à l'esprit.V. 3 ; 36 ; 344Se dit aussi en Morale, des afflictions de l'esprit, des émotions de l'ame par les passions.V. 36 ; 452Signifie aussi, Ne se pas opposer à une chose, y consentir tacitement. Signifie aussi, compatir, s'accommoder ensemble, ne se pas destruire.V. 1398Se dit proverbialement en ces phrases. Le papier *souffre* tout, pour dire, On escrit sur le papier tout ce qu'on veut. Cet importun m'a fait *souffrir* mort et passion, pour dire, il m'a fort fatigué. Il n'y a point de regle si generale qui ne *souffre* quelque exception. L'amour et l'ambition ne *souffrent* point de compagnon.Timidité : s.f.Qualité qui rend timide, peureux, poltron. V. 325Travail, travaux: s.m.Ce mot fait au pluriel *travaux*, et il signifie peine, fatigue, action.V. 962 ; 1159Les douze *travaux* d'Hercule sont fameux dans les ouvrages des anciens Poëtes. C'est à dire, les douze célébres actions d'Hercule sont chantées par les Poëtes de l'antiquité.V. 286Ce mot se dit en parlant de *femmes qui acouchent* et veut dire les douleurs que ressent la femme qui met un enfant au monde, et en ce sens le mot de *travail* n'a point de pluriel.*Terme de Maréchal.* C'est un petit endroit ménagé devant la boutique d'un maréchal et composé de quatre piliers joints par des traverses de bois pour enfermer le cheval qui se tourmente quand on le ferre, ou qu'on lui fait quelque opération.Ce mot se dit en *Terme de Guerre.* C'est le remûment des terres, le transport et l'arrangement des gabions, des sacs à terre, des barriques, des facines et de tout ce qu'on fait pour se loger et pour se couvrir.Traverser : v. act.Passer au milieu ou au delà de quelque chose.Signifie aussi, Croiser, s'estendre en largeur sur une longueur.En termes de Manege, se dit d'un cheval qui couppe la piste de travers, qui jette sa crouppe d'un autre costé que sa teste. On dit qu'un cheval se *traverse* en reculant, quand il ne recule pas aussi droit qu'il a avancé.Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement.V. 98 ; 279Tyran : s.m.Usurpateur d'un Estat, oppresseur de la liberté publique, qui s'est emparé par violence ou par adresse de la souveraine puissance. Chez les Anciens le mot de *Tyran* n'étoit pas odieux, et signifioit seulement *Roy*, ou *Souverain*: mais comme les peuples aimoient la liberté, ils ont appellé *Tyrans*, tous ceux qui leur vouloient commander absolument. Se dit aussi d'un Prince qui abuse de son pouvoir, qui ne gouverne pas selon les loix, qui use de violence et de cruauté envers ses sujets. Se dit aussi d'un particulier qui abuse du pouvoir, de l'autorité qui luy a été commise, qui s'en sert à tourmenter le peuple, pour exiger plus qu'il ne doit. Se dit aussi figurément en Morale, des desirs violents, du desordre de nos passions.V. 96 ; 186 ; 419 ; 693 ; 1121Tyrannie : s.f.Empire illegitime usurpé, ou cruel et violent.Se dit aussi de l'abus que les particuliers font de leur pouvoir, ou de leur charge.V. 183 ; 384Se dit aussi figurément en Morale, de l'empire de nos passions, des choses auxquelles nous sommes obligés d'obeïr malgré nous.
 
 
-# Annexe 1 : « J'ai perdu ma tourterelle » de Jean Passerat
+# Annexe 1 : « J'ai perdu ma tourterelle » de Jean Passerat.
 J'ai perdu ma tourterelle,  
 Est-ce point elle que j'oy ?  
 Je veux aller après elle.  
@@ -3266,19 +3266,19 @@ Car celle qui m'arrestera
 Beaucoup plus d'honneur en aura.  
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Les sources
+## Les sources.
 
 
-### Textes de Georges de ScudéryArminius ou les Frères ennemis
+### Textes de Georges de Scudéry.Arminius ou les Frères ennemis
 La Comédie des comédiens
 Ligdamon et Lidias ou la ressemblance
 
 
 
-### Textes contemporainsLa Pratique du théâtre
+### Textes contemporains.La Pratique du théâtre
 Discours de l'utilité des parties du poème dramatique
 Diane
 Théâtre complet
@@ -3286,14 +3286,14 @@ Le Mémoire de Mahelot
 
 
 
-### Texte antiqueLa Poétique
+### Texte antique.La Poétique
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### DictionnaireDictionnaire de rhétorique et de poétique
+### Dictionnaire.Dictionnaire de rhétorique et de poétique
 Dictionnaire Universel
 Dictionnaire de la mythologie grecque et romaine
 Le grand dictionnaire historique
@@ -3301,27 +3301,27 @@ Dictionnaire français
 
 
 
-### BibliographiesBibliographie de la littérature française du XVII*e* siècle*e*
+### Bibliographies.Bibliographie de la littérature française du XVII*e* siècle*e*
 Bibliographie der französischen Literaturwissenschaft
 Bibliographie de la littérature française
 
 
 
-### Grammaire, SyntaxesGrammaire du français classique
+### Grammaire, Syntaxes.Grammaire du français classique
 Syntaxe française du XVII*e* siècle
 
 
 
-## La critique
+## La critique.
 
 
-### Histoire du théâtre, histoire littéraireIntroduction à l'analyse des textes classiques
+### Histoire du théâtre, histoire littéraire.Introduction à l'analyse des textes classiques
 Lire le théâtre I
 Lire le théâtreL'école du spectateur
 
 
 
-### Histoire du théâtre du XVII*e* siècleLa Tragi-comédie de Corneille à Quinault
+### Histoire du théâtre du XVII*e* siècle.La Tragi-comédie de Corneille à Quinault
 Esthétique de l'identité dans le théâtre français (1550-1680), déguisement et ses avatars
 Littérature classiqueL'esthétique de la comédie
 La comédie avant Molière (1640-1660)*re*
@@ -3336,7 +3336,7 @@ La Littérature baroque en Europe
 
 
 
-### Travaux sur ScudéryGeorges de Scudéry als dramatiker*re*
+### Travaux sur Scudéry.Georges de Scudéry als dramatiker*re*
 Un Matamore des Lettres, la vie tragi-comique de G. de Scudéry
 Scudéry dramaturge
 Les trois Scudéry

@@ -18,7 +18,7 @@ Par J. B. P. MOLIÈRE
 
 
 
-# À MESSIRE
+# À MESSIRE.
 
 MESSIRE ARMAND JEAN DE RIANTS,
 
@@ -33,7 +33,7 @@ Monsieur,
 Votre très-humble et très obéissant serviteur, *barbin*.
 
 
-# Acteurs
+# Acteurs.
  – Lélie, fils de Pandolphe.
  – Célie, esclave de Trufaldin.
  – Mascarille, valet de Lélie.
@@ -50,15 +50,15 @@ La Scène est à Messine.
 
 
 
-# L'ÉTOURDI OU LES CONTRETEMPS, *COMÉDIE*
+# L'ÉTOURDI OU LES CONTRETEMPS, *COMÉDIE*.
 
 
-## Acte I
+## Acte I.
 
 
-### Scène Première
+### Scène Première.
 
-    LÉLIE
+    LÉLIE.
 Hé bien ! Léandre, hé bien ! il faudra contester ;  
 Nous verrons de nous deux qui pourra l'emporter ;  
 Qui dans nos soins communs pour ce jeune miracle,  
@@ -67,33 +67,33 @@ Préparez vos efforts, et vous défendez bien,
 Sûr que de mon côté je n'épargnerai rien.  
 
 
-### Scène II
+### Scène II.
 Lélie, Mascarille.
 
 
-    LÉLIE
+    LÉLIE.
 Ah ! Mascarille.  
 
-    MASCARILLE
-Quoi ?  
+    MASCARILLE.
+    Quoi ?  
 
-    LÉLIE
-Voici bien des affaires ;  
+    LÉLIE.
+        Voici bien des affaires ;  
 J'ai dans ma passion toutes choses contraires :  
 Léandre aime Célie, et par un trait fatal,  
 Malgré mon changement, est toujours mon rival.  
 
-    MASCARILLE
+    MASCARILLE.
 Léandre aime Célie !  
 
-    LÉLIE
-Il l'adore, te dis-je.  
+    LÉLIE.
+        Il l'adore, te dis-je.  
 
-    MASCARILLE
+    MASCARILLE.
 Tant pis.  
 
-    LÉLIE
-Hé ! oui, tant pis, c'est là ce qui m'afflige.  
+    LÉLIE.
+        Hé ! oui, tant pis, c'est là ce qui m'afflige.  
 Toutefois j'aurais tort de me désespérer,  
 Puisque j'ai ton secours je puis me rassurer ;  
 Je sais que ton esprit en intrigues fertile,  
@@ -101,14 +101,14 @@ N'a jamais rien trouvé qui lui fût difficile,
 Qu'on te peut appeler le Roi des serviteurs,  
 Et qu'en toute la terre…  
 
-    MASCARILLE
-Hé, trêve de douceurs.  
+    MASCARILLE.
+        Hé, trêve de douceurs.  
 Quand nous faisons besoin nous autres misérables,  
 Nous sommes les chéris et les incomparables,  
 Et dans un autre temps, dès le moindre courroux,  
 Nous sommes les coquins qu'il faut rouer de coups.  
 
-    LÉLIE
+    LÉLIE.
 Ma foi, tu me fais tort avec cette invective ;  
 Mais enfin discourons un peu de ma captive,  
 Dis si les plus cruels et plus durs sentiments  
@@ -118,7 +118,7 @@ Je vois pour sa naissance un noble témoignage,
 Et je crois que le Ciel dedans un rang si bas,  
 Cache son Origine, et ne l'en tire pas.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous êtes romanesque avecque vos chimères ;  
 Mais que fera Pandolfe en toutes ces affaires,  
 C'est, Monsieur, votre père, au moins à ce qu'il dit,  
@@ -136,19 +136,19 @@ Vous soustrait au devoir de votre obéissance,
 Dieu sait quelle tempête alors éclatera,  
 Et de quels beaux sermons on vous régalera.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! trêve, je vous prie, à votre Rhétorique.  
 
-    MASCARILLE
+    MASCARILLE.
 Mais vous, trêve plutôt à votre Politique,  
 Elle n'est pas fort bonne, et vous devriez tâcher…  
 
-    LÉLIE
+    LÉLIE.
 Sais-tu qu'on n'acquiert rien de bon à me fâcher ?  
 Que chez moi les avis ont de tristes salaires ?  
 Qu'un valet conseiller y fait mal ses affaires ?  
 
-    MASCARILLE
+    MASCARILLE.
 Il se met en courroux ! tout ce que j'en ai dit  
 N'était rien que pour rire, et vous sonder l'esprit :  
 D'un censeur de plaisirs ai-je fort l'encolure ?  
@@ -163,7 +163,7 @@ Et vertueux par force, espèrent par envie,
 Ôter aux jeunes gens les plaisirs de la vie.  
 Vous savez mon talent, je m'offre à vous servir.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! c'est par ces discours que tu peux me ravir.  
 Au reste, mon amour, quand je l'ai fait paraître,  
 N'a point été mal vu des yeux qui l'ont fait naître ;  
@@ -174,58 +174,58 @@ Les moyens les plus prompts d'en faire ma conquête.
 Trouve ruses, détours, fourbes, inventions,  
 Pour frustrer un rival de ses prétentions.  
 
-    MASCARILLE
+    MASCARILLE.
 Laissez-moi quelque temps rêver à cette affaire.  
 Que pourrais-je inventer pour ce coup nécessaire ?  
 
-    LÉLIE
+    LÉLIE.
 Hé bien ? le stratagème ?  
 
-    MASCARILLE
-Ah ! comme vous courez !  
+    MASCARILLE.
+        Ah ! comme vous courez !  
 Ma cervelle toujours marche à pas mesurés.  
 J'ai trouvé votre fait, il faut… non, je m'abuse ;  
 Mais, si vous alliez…  
 
-    LÉLIE
-Où ?  
+    LÉLIE.
+    Où ?  
 
-    MASCARILLE
-C'est une faible ruse.  
+    MASCARILLE.
+        C'est une faible ruse.  
 J'en songeais une.  
 
-    LÉLIE
-Et quelle ?  
+    LÉLIE.
+    Et quelle ?  
 
-    MASCARILLE
-Elle n'irait pas bien.  
+    MASCARILLE.
+        Elle n'irait pas bien.  
 Mais ne pourriez‑vous pas ?…  
 
-    LÉLIE
-Quoi ?  
+    LÉLIE.
+    Quoi ?  
 
-    MASCARILLE
-Vous ne pourriez rien.  
+    MASCARILLE.
+        Vous ne pourriez rien.  
 Parlez avec Anselme.  
 
-    LÉLIE
-Et que lui puis-je dire ?  
+    LÉLIE.
+        Et que lui puis-je dire ?  
 
-    MASCARILLE
+    MASCARILLE.
 Il est vrai, c'est tomber d'un mal dedans un pire.  
 Il faut pourtant l'avoir. Allez chez Trufaldin.  
 
-    LÉLIE
+    LÉLIE.
 Que faire ?  
 
-    MASCARILLE
-Je ne sais.  
+    MASCARILLE.
+    Je ne sais.  
 
-    LÉLIE
-C'en est trop à la fin ;  
+    LÉLIE.
+        C'en est trop à la fin ;  
 Et tu me mets à bout par ces contes frivoles.  
 
-    MASCARILLE
+    MASCARILLE.
 Monsieur, si vous aviez en main force pistoles,  
 Nous n'aurions pas besoin maintenant de rêver,  
 À chercher les biais que nous devons trouver ;  
@@ -240,11 +240,11 @@ Il se ferait fesser, pour moins d'un quart d'écu ;
 Et l'argent est le Dieu que sur tout il révère :  
 Mais le mal c'est…  
 
-    LÉLIE
-Quoi ? c'est ?  
+    LÉLIE.
+    Quoi ? c'est ?  
 
-    MASCARILLE
-Que Monsieur votre père  
+    MASCARILLE.
+        Que Monsieur votre père  
 Est un autre vilain qui ne vous laisse pas,  
 Comme vous voudriez bien, manier ses ducats :  
 Qu'il n'est point de ressort qui pour votre ressource,  
@@ -253,96 +253,96 @@ Mais tâchons de parler à Célie un moment,
 Pour savoir là-dessus quel est son sentiment.  
 La fenêtre est ici.  
 
-    LÉLIE
-Mais Trufaldin pour elle,  
+    LÉLIE.
+        Mais Trufaldin pour elle,  
 Fait de nuit et de jour exacte sentinelle ;  
 Prends garde.  
 
-    MASCARILLE
-Dans ce coin demeurons en repos.  
+    MASCARILLE.
+        Dans ce coin demeurons en repos.  
 Oh ! bonheur ! la voilà qui paraît à propos.  
 
 
-### Scène III
+### Scène III.
 Lélie, Célie, Mascarille.
 
 
-    LÉLIE
+    LÉLIE.
 Ah ! que le Ciel m'oblige, en offrant à ma vue  
 Les célestes attraits dont vous êtes pourvue !  
 Et, quelque mal cuisant que m'aient causé vos yeux,  
 Que je prends de plaisir à les voir en ces lieux !  
 
-    CÉLIE
+    CÉLIE.
 Mon cœur qu'avec raison votre discours étonne,  
 N'entend pas que mes yeux fassent mal à personne ;  
 Et, si dans quelque chose ils vous ont outragé,  
 Je puis vous assurer que c'est sans mon congé.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! leurs coups sont trop beaux pour me faire une injure,  
 Je mets toute ma gloire à chérir ma blessure,  
 Et…  
 
-    MASCARILLE
-Vous le prenez là d'un ton un peu trop haut ;  
+    MASCARILLE.
+        Vous le prenez là d'un ton un peu trop haut ;  
 Ce style maintenant n'est pas ce qu'il nous faut ;  
 Profitons mieux du temps, et sachons vite d'elle  
 Ce que…  
 
-    TRUFALDIN *dans la maison*
-Célie.  
+    TRUFALDIN *dans la maison*.
+    Célie.  
 
-    MASCARILLE
-Hé bien ?  
+    MASCARILLE.
+    Hé bien ?  
 
-    LÉLIE
-Oh ! rencontre cruelle,  
+    LÉLIE.
+        Oh ! rencontre cruelle,  
 Ce malheureux vieillard devait-il nous troubler !  
 
-    MASCARILLE
+    MASCARILLE.
 Allez, retirez-vous ; je saurai lui parler.  
 
 
-### Scène IV
+### Scène IV.
 Trufaldin, Célie, Mascarille, *et* Lélie *retiré dans un coin*.
 
 
-    TRUFALDIN *à Célie*
+    TRUFALDIN *à Célie*.
 Que faites-vous dehors ? et quel soin vous talonne,  
 Vous à qui je défends de parler à personne.  
 
-    CÉLIE 
+    CÉLIE.
 Autrefois j'ai connu cet honnête garçon ;  
 Et vous n'avez pas lieu d'en prendre aucun soupçon.  
 
-    MASCARILLE
+    MASCARILLE.
 Est-ce là le Seigneur Trufaldin ?  
 
-    CÉLIE
-Oui, lui-même.  
+    CÉLIE.
+        Oui, lui-même.  
 
-    MASCARILLE
+    MASCARILLE.
 Monsieur, je suis tout vôtre, et ma joie est extrême,  
 De pouvoir saluer en toute humilité  
 Un homme dont le nom est partout si vanté.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Très humble serviteur.  
 
-    MASCARILLE
-J'incommode peut-être ;  
+    MASCARILLE.
+        J'incommode peut-être ;  
 Mais je l'ai vue ailleurs, où m'ayant fait connaître,  
 Les grands talents qu'elle a pour savoir l'avenir,  
 Je voulais sur un point un peu l'entretenir.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Quoi ! te mêlerais‑tu d'un peu de diablerie ?  
 
-    CÉLIE
+    CÉLIE.
 Non, tout ce que je sais n'est que blanche magie.  
 
-    MASCARILLE
+    MASCARILLE.
 Voici donc ce que c'est. Le Maître que je sers,  
 Languit pour un objet qui le tient dans ses fers ;  
 Il aurait bien voulu du feu qui le dévore  
@@ -356,13 +356,13 @@ Ont sujet d'espérer quelque succès heureux,
 Je viens vous consulter, sûr que de votre bouche,  
 Je puis apprendre au vrai le secret qui nous touche.  
 
-    CÉLIE
+    CÉLIE.
 Sous quel Astre ton Maître a-t-il reçu le jour ?  
 
-    MASCARILLE
+    MASCARILLE.
 Sous un Astre à jamais ne changer son amour.  
 
-    CÉLIE
+    CÉLIE.
 Sans me nommer l'objet pour qui son cœur soupire,  
 La science que j'ai m'en peut assez instruire ;  
 Cette fille a du cœur, et dans l'adversité,  
@@ -372,30 +372,30 @@ Les secrets sentiments qu'en son cœur on fait naître :
 Mais je les sais comme elle, et d'un esprit plus doux,  
 Je vais en peu de mots vous les découvrir tous.  
 
-    MASCARILLE
+    MASCARILLE.
 Oh ! merveilleux pouvoir de la vertu magique !  
 
-    CÉLIE
+    CÉLIE.
 Si ton Maître en ce point de constance se pique,  
 Et que la vertu seule anime son dessein,  
 Qu'il n'appréhende pas de soupirer en vain ;  
 Il a lieu d'espérer, et le sort qu'il veut prendre  
 N'est pas sourd aux traités, et voudra bien se rendre.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est beaucoup ; mais ce sort dépend d'un gouverneur  
 Difficile à gagner.  
 
-    CÉLIE
-C'est là tout le malheur.  
+    CÉLIE.
+        C'est là tout le malheur.  
 
-    MASCARILLE
+    MASCARILLE.
 Au diable le fâcheux qui toujours nous éclaire.  
 
-    CÉLIE
+    CÉLIE.
 Je vais vous enseigner ce que vous devez faire.  
 
-    LÉLIE, *les joignant*
+    LÉLIE, *les joignant*.
 Cessez, ô Trufaldin, de vous inquiéter,  
 C'est par mon ordre seul qu'il vous vient visiter ;  
 Et je vous l'envoyais, ce serviteur fidèle,  
@@ -403,40 +403,40 @@ Vous offrir mon service, et vous parler pour elle,
 Dont je vous veux dans peu payer la liberté,  
 Pourvu qu'entre nous deux le prix soit arrêté.  
 
-    MASCARILLE
+    MASCARILLE.
 La peste soit la bête.  
 
-    TRUFALDIN
-Ho ! Ho ! qui des deux croire,  
+    TRUFALDIN.
+        Ho ! Ho ! qui des deux croire,  
 Ce discours au premier est fort contradictoire.  
 
-    MASCARILLE
+    MASCARILLE.
 Monsieur, ce galant homme a le cerveau blessé ;  
 Ne le savez-vous pas ?  
 
-    TRUFALDIN
-Je sais ce que je sais ;  
+    TRUFALDIN.
+        Je sais ce que je sais ;  
 J'ai crainte ici dessous de quelque manigance :  
 Rentrez, et ne prenez jamais cette licence :  
 Et vous filous fieffés, ou je me trompe fort,  
 Mettez pour me jouer vos flûtes mieux d'accord.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est bien fait ; je voudrais qu'encor, sans flatterie,  
 Il nous eût d'un bâton chargés de compagnie ;  
 À quoi bon se montrer ? et comme un Étourdi  
 Me venir démentir de tout ce que je dis.  
 
-    LÉLIE
+    LÉLIE.
 Je pensais faire bien.  
 
-    MASCARILLE
-Oui, c'était fort l'entendre ;  
+    MASCARILLE.
+        Oui, c'était fort l'entendre ;  
 Mais quoi, cette action ne me doit point surprendre,  
 Vous êtes si fertile en pareils Contretemps,  
 Que vos écarts d'esprit n'étonnent plus les gens.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! mon Dieu, pour un rien me voilà bien coupable,  
 Le mal est-il si grand qu'il soit irréparable ?  
 Enfin, si tu ne mets Célie entre mes mains,  
@@ -445,17 +445,17 @@ Qu'il ne puisse acheter avant moi cette belle,
 De peur que ma présence encor soit criminelle,  
 Je te laisse.  
 
-    MASCARILLE
-Fort bien. À dire vrai, l'argent ;  
+    MASCARILLE.
+        Fort bien. À dire vrai, l'argent ;  
 Serait dans notre affaire un sûr et fort agent ;  
 Mais ce ressort manquant, il faut user d'un autre.  
 
 
-### Scène V
+### Scène V.
 Anselme, Mascarille.
 
 
-    ANSELME
+    ANSELME.
 Par mon chef, c'est un siècle étrange que le nôtre !  
 J'en suis confus ; jamais tant d'amour pour le bien,  
 Et jamais tant de peine à retirer le sien.  
@@ -469,92 +469,92 @@ Baste ce n'est pas peu que deux mille francs dus,
 Depuis deux ans entiers me soient enfin rendus,  
 Encore est-ce un bonheur.  
 
-    MASCARILLE
-Ô ! Dieu, la belle proie  
+    MASCARILLE.
+        Ô ! Dieu, la belle proie  
 À tirer en volant ! chut : il faut que je voie  
 Si je pourrais un peu de près le caresser.  
 Je sais bien les discours dont il le faut bercer.  
 Je viens de voir, Anselme…  
 
-    ANSELME
-Et qui ?  
+    ANSELME.
+    Et qui ?  
 
-    MASCARILLE
-Votre Nérine.  
+    MASCARILLE.
+        Votre Nérine.  
 
-    ANSELME
+    ANSELME.
 Que dit-elle de moi cette gente assassine ?  
 
-    MASCARILLE
+    MASCARILLE.
 Pour vous elle est de flamme.  
 
-    ANSELME
-Elle ?  
+    ANSELME.
+    Elle ?  
 
-    MASCARILLE
-Et vous aime tant,  
+    MASCARILLE.
+        Et vous aime tant,  
 Que c'est grande pitié.  
 
-    ANSELME
-Que tu me rends content !  
+    ANSELME.
+        Que tu me rends content !  
 
-    MASCARILLE
+    MASCARILLE.
 Peu s'en faut que d'amour la pauvrette ne meure ;  
 *Anselme, mon mignon,* crie-t-elle à toute heure,  
 Quand est-ce que l'hymen unira nos deux cœurs ?  
 Et que tu daigneras éteindre mes ardeurs ?  
 
-    ANSELME
+    ANSELME.
 Mais pourquoi jusqu'ici me les avoir celées ?  
 Les filles, par ma foi, sont bien dissimulées !  
 Mascarille, en effet, qu'en dis-tu ? quoique vieux,  
 J'ai de la mine encore assez pour plaire aux yeux.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, vraiment, ce visage est encor fort mettable ;  
 S'il n'est pas des plus beaux, il est désagréable.  
 
-    ANSELME
+    ANSELME.
 Si bien donc…  
 
-    MASCARILLE
-Si bien donc qu'elle est sotte de vous ;  
+    MASCARILLE.
+        Si bien donc qu'elle est sotte de vous ;  
 Ne vous regarde plus…  
 
-    ANSELME
-Quoi ?  
+    ANSELME.
+    Quoi ?  
 
-    MASCARILLE
-Que comme un époux :  
+    MASCARILLE.
+        Que comme un époux :  
 Et vous veut…  
 
-    ANSELME
-Et me veut…  
+    ANSELME.
+    Et me veut…  
 
-    MASCARILLE
-Et vous veut, quoi qu'il tienne,  
+    MASCARILLE.
+        Et vous veut, quoi qu'il tienne,  
 Prendre la bourse.  
 
-    ANSELME
-La ?  
+    ANSELME.
+    La ?  
 
-    MASCARILLE
-La bouche avec la sienne.  
+    MASCARILLE.
+        La bouche avec la sienne.  
 
-    ANSELME
+    ANSELME.
 Ah ! je t'entends. Viens çà, lorsque tu la verras,  
 Vante-lui mon mérite autant que tu pourras.  
 
-    MASCARILLE
+    MASCARILLE.
 Laissez-moi faire.  
 
-    ANSELME
-Adieu.  
+    ANSELME.
+    Adieu.  
 
-    MASCARILLE
-Que le Ciel te conduise.  
+    MASCARILLE.
+        Que le Ciel te conduise.  
 
-    ANSELME
+    ANSELME.
 Ah ! vraiment je faisais une étrange sottise,  
 Et tu pouvais pour toi m'accuser de froideur :  
 Je t'engage à servir mon amoureuse ardeur,  
@@ -562,99 +562,99 @@ Je reçois par ta bouche une bonne nouvelle,
 Sans du moindre présent récompenser ton zèle ;  
 Tiens, tu te souviendras…  
 
-    MASCARILLE
-Ah ! non pas, s'il vous plaît.  
+    MASCARILLE.
+        Ah ! non pas, s'il vous plaît.  
 
-    ANSELME
+    ANSELME.
 Laisse-moi.  
 
-    MASCARILLE
-Point du tout, j'agis sans intérêt.  
+    MASCARILLE.
+        Point du tout, j'agis sans intérêt.  
 
-    ANSELME
+    ANSELME.
 Je le sais, mais pourtant…  
 
-    MASCARILLE
-Non Anselme, vous dis-je ;  
+    MASCARILLE.
+        Non Anselme, vous dis-je ;  
 Je suis homme d'honneur, cela me désoblige.  
 
-    ANSELME
+    ANSELME.
 Adieu donc, Mascarille.  
 
-    MASCARILLE
-Ô ! long discours !  
+    MASCARILLE.
+    Ô ! long discours !  
 
-    ANSELME
-Je veux  
+    ANSELME.
+        Je veux  
 Régaler par tes mains cet objet de mes vœux ;  
 Et je vais te donner de quoi faire pour elle  
 L'achat de quelque bague, ou telle bagatelle  
 Que tu trouveras bon.  
 
-    MASCARILLE
-Non, laissez votre argent,  
+    MASCARILLE.
+        Non, laissez votre argent,  
 Sans vous mettre en souci, je ferai le présent ;  
 Et l'on m'a mis en main une bague à la mode,  
 Qu'après vous payerez si cela l'accommode.  
 
-    ANSELME
+    ANSELME.
 Soit, donne-la pour moi ; mais surtout fais si bien,  
 Qu'elle garde toujours l'ardeur de me voir sien.  
 
 
-### Scène VI
+### Scène VI.
 Lélie, Anselme, Mascarille.
 
 
-    LÉLIE
+    LÉLIE.
 À qui la bourse ?  
 
-    ANSELME
-Ah ! Dieux, elle m'était tombée,  
+    ANSELME.
+        Ah ! Dieux, elle m'était tombée,  
 Et j'aurais après cru qu'on me l'eût dérobée ;  
 Je vous suis bien tenu de ce soin obligeant,  
 Qui m'épargne un grand trouble, et me rend mon argent :  
 Je vais m'en décharger au logis tout à l'heure.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est être officieux, et très fort, ou je meure.  
 
-    LÉLIE
+    LÉLIE.
 Ma foi, sans moi, l'argent était perdu pour lui.  
 
-    MASCARILLE
+    MASCARILLE.
 Certes, vous faites rage, et payez aujourd'hui  
 D'un jugement très rare, et d'un bonheur extrême.  
 Nous avancerons fort, continuez de même.  
 
-    LÉLIE
+    LÉLIE.
 Qu'est-ce donc ? qu'ai-je fait ?  
 
-    MASCARILLE
-Le sot, en bon français,  
+    MASCARILLE.
+        Le sot, en bon français,  
 Puisque je puis le dire, et qu'enfin je le dois.  
 Il sait bien l'impuissance où son père le laisse,  
 Qu'un rival qu'il doit craindre étrangement nous presse,  
 Cependant quand je tente un coup pour l'obliger,  
 Dont je cours moi tout seul la honte et le danger…  
 
-    LÉLIE
+    LÉLIE.
 Quoi ! C'était !…  
 
-    MASCARILLE
-Oui, bourreau, c'était pour la captive,  
+    MASCARILLE.
+        Oui, bourreau, c'était pour la captive,  
 Que j'attrapais l'argent dont votre soin nous prive.  
 
-    LÉLIE
+    LÉLIE.
 S'il est ainsi j'ai tort ; mais qui l'eût deviné.  
 
-    MASCARILLE
+    MASCARILLE.
 Il fallait, en effet, être bien raffiné.  
 
-    LÉLIE
+    LÉLIE.
 Tu me devais par signe avertir de l'affaire.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, je devais au dos avoir mon luminaire ;  
 Au nom de Jupiter, laissez-nous en repos,  
 Et ne nous chantez plus d'impertinents propos :  
@@ -663,49 +663,49 @@ Mais j'avais médité tantôt un coup de maître,
 Dont tout présentement je veux voir les effets,  
 À la charge que si…  
 
-    LÉLIE
-Non, je te le promets,  
+    LÉLIE.
+        Non, je te le promets,  
 De ne me mêler plus de rien dire, ou rien faire.  
 
-    MASCARILLE
+    MASCARILLE.
 Allez donc, votre vue excite ma colère.  
 
-    LÉLIE
+    LÉLIE.
 Mais surtout hâte-toi, de peur qu'en ce dessein…  
 
-    MASCARILLE
+    MASCARILLE.
 Allez, encore un coup, j'y vais mettre la main.  
 Menons bien ce projet, la fourbe sera fine,  
 S'il faut qu'elle succède ainsi que j'imagine.  
 Allons voir… bon, voici mon homme justement.  
 
 
-### Scène VII
+### Scène VII.
 Pandolfe, Mascarille.
 
 
-    PANDOLFE
+    PANDOLFE.
 Mascarille,  
 
-    MASCARILLE
-Monsieur ;  
+    MASCARILLE.
+    Monsieur ;  
 
-    PANDOLFE
-À parler franchement,  
+    PANDOLFE.
+        À parler franchement,  
 Je suis mal satisfait de mon fils.  
 
-    MASCARILLE
-De mon maître ?  
+    MASCARILLE.
+        De mon maître ?  
 Vous n'êtes pas le seul qui se plaigne de l'être :  
 Sa mauvaise conduite insupportable en tout,  
 Met à chaque moment ma patience à bout.  
 
-    PANDOLFE
+    PANDOLFE.
 Je vous croirais pourtant assez d'intelligence  
 Ensemble.  
 
-    MASCARILLE
-Moi ? Monsieur, perdez cette croyance ;  
+    MASCARILLE.
+        Moi ? Monsieur, perdez cette croyance ;  
 Toujours de son devoir je tâche à l'avertir :  
 Et l'on nous voit sans cesse avoir maille à partir.  
 À l'heure même encor nous avons eu querelle,  
@@ -713,17 +713,17 @@ Sur l'hymen d'Hippolyte, où je le vois rebelle ;
 Où par l'indignité d'un refus criminel,  
 Je le vois offenser le respect paternel.  
 
-    PANDOLFE
+    PANDOLFE.
 Querelle !  
 
-    MASCARILLE
-Oui, querelle, et bien avant poussée.  
+    MASCARILLE.
+        Oui, querelle, et bien avant poussée.  
 
-    PANDOLFE
+    PANDOLFE.
 Je me trompais donc bien ; car j'avais la pensée,  
 Qu'à tout ce qu'il faisait tu donnais de l'appui.  
 
-    MASCARILLE
+    MASCARILLE.
 Moi ! Voyez ce que c'est que du monde aujourd'hui ;  
 Et comme l'innocence est toujours opprimée.  
 Si mon intégrité vous était confirmée ;  
@@ -738,10 +738,10 @@ Que vous avez du Ciel, comme on le considère ;
 Cessez de lui vouloir donner la mort au cœur,  
 Et, comme lui, vivez en personne d'honneur.  
 
-    PANDOLFE
+    PANDOLFE.
 C'est parler comme il faut. Et que peut-il répondre ?  
 
-    MASCARILLE
+    MASCARILLE.
 Répondre ? des chansons, dont il me vient confondre.  
 Ce n'est pas qu'en effet, dans le fond de son cœur,  
 Il ne tienne de vous des semences d'honneur ;  
@@ -749,33 +749,33 @@ Mais sa raison n'est pas maintenant la maîtresse :
 Si je pouvais parler avecque hardiesse,  
 Vous le verriez dans peu soumis sans nul effort.  
 
-    PANDOLFE
+    PANDOLFE.
 Parle.  
 
-    MASCARILLE
-C'est un secret qui m'importerait fort,  
+    MASCARILLE.
+        C'est un secret qui m'importerait fort,  
 S'il était découvert : mais à votre prudence  
 Je puis le confier avec toute assurance.  
 
-    PANDOLFE
+    PANDOLFE.
 Tu dis bien.  
 
-    MASCARILLE
-Sachez donc que vos vœux sont trahis,  
+    MASCARILLE.
+        Sachez donc que vos vœux sont trahis,  
 Par l'amour qu'une esclave imprime à votre fils.  
 
-    PANDOLFE
+    PANDOLFE.
 On m'en avait parlé ; mais l'action me touche,  
 De voir que je l'apprenne encore par ta bouche.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous voyez si je suis le secret confident…  
 
-    PANDOLFE
+    PANDOLFE.
 Vraiment, je suis ravi de cela.  
 
-    MASCARILLE
-Cependant  
+    MASCARILLE.
+        Cependant  
 À son devoir, sans bruit, désirez-vous le rendre ?  
 Il faut… j'ai toujours peur qu'on nous vienne surprendre :  
 Ce serait fait de moi s'il savait ce discours.  
@@ -795,22 +795,22 @@ Qu'il aurait pris le joug que vous avez voulu :
 Cet autre objet pouvant réveiller son caprice,  
 Au mariage encor peut porter préjudice.  
 
-    PANDOLFE
+    PANDOLFE.
 C'est très bien raisonné ; ce conseil me plaît fort ;  
 Je vois Anselme, va, je m'en vais faire effort,  
 Pour avoir promptement cette esclave funeste,  
 Et la mettre en tes mains pour achever le reste.  
 
-    MASCARILLE
+    MASCARILLE.
 Bon, allons avertir mon Maître de ceci :  
 Vive la fourberie, et les fourbes aussi.  
 
 
-### Scène VIII
+### Scène VIII.
 Hippolyte, Mascarille.
 
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Oui, traître, c'est ainsi que tu me rends service ;  
 Je viens de tout entendre et voir ton artifice ;  
 À moins que de cela l'eussé-je soupçonné !  
@@ -825,19 +825,19 @@ Mais tu t'abuseras, je sais un sûr moyen,
 Pour rompre cet achat où tu pousses si bien ;  
 Et je vais de ce pas…  
 
-    MASCARILLE
-Ah ! que vous êtes prompte !  
+    MASCARILLE.
+        Ah ! que vous êtes prompte !  
 La mouche tout d'un coup à la tête vous monte ;  
 Et, sans considérer s'il a raison, ou non,  
 Votre esprit contre moi fait le petit démon.  
 J'ai tort, et je devrais sans finir mon ouvrage,  
 Vous faire dire vrai, puisqu'ainsi l'on m'outrage.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Par quelle illusion penses-tu m'éblouir ?  
 Traître, peux-tu nier ce que je viens d'ouïr.  
 
-    MASCARILLE
+    MASCARILLE.
 Non ; mais il faut savoir que tout cet artifice  
 Ne va directement qu'à vous rendre service :  
 Que ce conseil adroit qui semble être sans fard,  
@@ -849,12 +849,12 @@ Dans le dernier excès portant sa passion,
 Anselme rebuté de son prétendu gendre,  
 Puisse tourner son choix du côté de Léandre.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Quoi ! tout ce grand projet qui m'a mise en courroux,  
 Tu l'as formé pour moi, Mascarille !  
 
-    MASCARILLE
-Oui, pour vous.  
+    MASCARILLE.
+        Oui, pour vous.  
 Mais puisqu'on reconnaît si mal mes bons offices,  
 Qu'il me faut de la sorte essuyer vos caprices,  
 Et que, pour récompense, on s'en vient de hauteur  
@@ -862,17 +862,17 @@ Me traiter de faquin, de lâche, d'imposteur,
 Je m'en vais réparer l'erreur que j'ai commise,  
 Et dès ce même pas rompre mon entreprise.  
 
-    HIPPOLYTE, *l'arrêtant*
+    HIPPOLYTE, *l'arrêtant*.
 Hé ! ne me traite pas si rigoureusement,  
 Et pardonne aux transports d'un premier mouvement.  
 
-    MASCARILLE
+    MASCARILLE.
 Non, non, laissez-moi faire, il est en ma puissance,  
 De détourner le coup qui si fort vous offense.  
 Vous ne vous plaindrez point de mes soins désormais :  
 Oui, vous aurez mon maître, et je vous le promets.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Hé ! mon pauvre garçon, que ta colère cesse ;  
 J'ai mal jugé de toi, j'ai tort, je le confesse :  
 Tirant sa bourse.
@@ -880,48 +880,48 @@ Tirant sa bourse.
 Mais je veux réparer ma faute avec ceci.  
 Pourrais‑tu te résoudre à me quitter ainsi ?  
 
-    MASCARILLE
+    MASCARILLE.
 Non je ne le saurais, quelque effort que je fasse :  
 Mais votre promptitude est de mauvaise grâce.  
 Apprenez, qu'il n'est rien qui blesse un noble cœur,  
 Comme quand il peut voir qu'on le touche en l'honneur.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Il est vrai je t'ai dit de trop grosses injures :  
 Mais que ces deux Louis guérissent tes blessures.  
 
-    MASCARILLE
+    MASCARILLE.
 Hé ! tout cela n'est rien ; je suis tendre à ces coups :  
 Mais déjà je commence à perdre mon courroux.  
 Il faut de ses amis endurer quelque chose.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Pourras-tu mettre à fin ce que je me propose ?  
 Et crois-tu que l'effet de tes desseins hardis  
 Produise à mon amour le succès que tu dis ?  
 
-    MASCARILLE
+    MASCARILLE.
 N'ayez point pour ce fait l'esprit sur des épines ;  
 J'ai des ressorts tout prêts pour diverses machines ;  
 Et quand ce stratagème à nos vœux manquerait,  
 Ce qu'il ne ferait pas, un autre le ferait.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Crois qu'Hippolyte au moins ne sera pas ingrate.  
 
-    MASCARILLE
+    MASCARILLE.
 L'espérance du gain n'est pas ce qui me flatte.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Ton maître te fait signe, et veut parler à toi ;  
 Je te quitte : mais songe à bien agir pour moi.  
 
 
-### Scène IX
+### Scène IX.
 Mascarille, Lélie.
 
 
-    LÉLIE
+    LÉLIE.
 Que diable fais-tu là ? Tu me promets merveille ;  
 Mais ta lenteur d'agir est pour moi sans pareille :  
 Sans que mon bon génie au-devant m'a poussé,  
@@ -934,8 +934,8 @@ Il l'emmenait chez lui ; mais j'ai paré l'atteinte,
 J'ai détourné le coup, et tant fait, que par crainte  
 Le pauvre Trufaldin l'a retenue.  
 
-    MASCARILLE
-Et trois ;  
+    MASCARILLE.
+        Et trois ;  
 Quand nous serons à dix, nous ferons une croix.  
 C'était par mon adresse, ô cervelle incurable,  
 Qu'Anselme entreprenait cet achat favorable ;  
@@ -946,19 +946,19 @@ J'aimerais mieux cent fois être grosse pécore,
 Devenir cruche, chou, lanterne, loup-garou,  
 Et que Monsieur Satan vous vînt tordre le cou.  
 
-    LÉLIE
+    LÉLIE.
 Il nous le faut mener en quelque Hôtellerie,  
 Et faire sur les pots décharger sa furie.  < Fin du premier Acte. >
 
 
-## Acte II
+## Acte II.
 
 
-### Scène Première
+### Scène Première.
 Mascarille, Lélie.
 
 
-    MASCARILLE
+    MASCARILLE.
 À vos désirs enfin il a fallu se rendre,  
 Malgré tous mes serments je n'ai pu m'en défendre,  
 Et pour vos intérêts, que je voulais laisser,  
@@ -974,12 +974,12 @@ Pour en pouvoir tirer ce que nous désirons ;
 Mais, si dorénavant votre imprudence éclate,  
 Adieu vous dis mes soins pour l'objet qui vous flatte.  
 
-    LÉLIE
+    LÉLIE.
 Non, je serai prudent, te dis‑je, ne crains rien,  
 Tu verras seulement…  
 
-    MASCARILLE
-Souvenez-vous-en bien :  
+    MASCARILLE.
+        Souvenez-vous-en bien :  
 J'ai commencé pour vous un hardi stratagème :  
 Votre père fait voir une paresse extrême  
 À rendre par sa mort tous vos désirs contents,  
@@ -1001,7 +1001,7 @@ Jouez bien votre rôle, et pour mon personnage,
 Si vous apercevez que j'y manque d'un mot,  
 Dites absolument que je ne suis qu'un sot.  
 
-    LÉLIE *seul*
+    LÉLIE *seul*.
 Son esprit, il est vrai, trouve une étrange voie  
 Pour adresser mes vœux au comble de leur joie ;  
 Mais quand d'un bel objet on est bien amoureux,  
@@ -1014,31 +1014,31 @@ Juste Ciel ! qu'ils sont prompts ! je les vois en parole,
 Allons nous préparer à jouer notre rôle.  
 
 
-### Scène II
+### Scène II.
 Mascarille, Anselme.
 
 
-    MASCARILLE
+    MASCARILLE.
 La nouvelle a sujet de vous surprendre fort.  
 
-    ANSELME
+    ANSELME.
 Être mort de la sorte !  
 
-    MASCARILLE
-Il a certes grand tort.  
+    MASCARILLE.
+        Il a certes grand tort.  
 Je lui sais mauvais gré d'une telle incartade.  
 
-    ANSELME
+    ANSELME.
 N'avoir pas seulement le temps d'être malade !  
 
-    MASCARILLE
+    MASCARILLE.
 Non, jamais homme n'eut si hâte de mourir.  
 
-    ANSELME
+    ANSELME.
 Et Lélie ?  
 
-    MASCARILLE
-Il se bat, et ne peut rien souffrir :  
+    MASCARILLE.
+        Il se bat, et ne peut rien souffrir :  
 Il s'est fait en maints lieux contusion et bosse,  
 Et veut accompagner son papa dans la fosse :  
 Enfin, pour achever, l'excès de son transport  
@@ -1046,13 +1046,13 @@ M'a fait en grande hâte ensevelir le mort,
 De peur que cet objet qui le rend hypocondre,  
 À faire un vilain coup ne me l'allât semondre.  
 
-    ANSELME
+    ANSELME.
 N'importe, tu devais attendre jusqu'au soir,  
 Outre qu'encore un coup j'aurais voulu le voir.  
 Qui tôt ensevelit bien souvent assassine,  
 Et tel est cru défunt qui n'en a que la mine.  
 
-    MASCARILLE
+    MASCARILLE.
 Je vous le garantis trépassé comme il faut ;  
 Au reste, pour venir au discours de tantôt,  
 Lélie, et l'action lui sera salutaire,  
@@ -1067,109 +1067,109 @@ Il voudrait vous prier, ensuite de l'instance
 D'excuser de tantôt son trop de violence,  
 De lui prêter au moins pour ce dernier devoir…  
 
-    ANSELME
+    ANSELME.
 Tu me l'as déjà dit, et je m'en vais le voir.  
 
-    MASCARILLE
+    MASCARILLE.
 Jusques ici du moins tout va le mieux du monde :  
 Tâchons à ce progrès que le reste réponde,  
 Et de peur de trouver dans le port un écueil,  
 Conduisons le vaisseau de la main et de l'œil.  
 
 
-### Scène III
+### Scène III.
 Lélie, Anselme, Mascarille.
 
 
-    ANSELME
+    ANSELME.
 Sortons, je ne saurais qu'avec douleur très forte,  
 Le voir empaqueté de cette étrange sorte :  
 Las ! en si peu de temps ! il vivait ce matin !  
 
-    MASCARILLE
+    MASCARILLE.
 En peu de temps parfois on fait bien du chemin.  
 
-    LÉLIE
+    LÉLIE.
 Ah !  
 
-    ANSELME
-Mais quoi ? cher Lélie, enfin il était homme :  
+    ANSELME.
+        Mais quoi ? cher Lélie, enfin il était homme :  
 On n'a point pour la mort de dispense de Rome.  
 
-    LÉLIE
+    LÉLIE.
 Ah !  
 
-    ANSELME
-Sans leur dire gare elle abat les humains,  
+    ANSELME.
+        Sans leur dire gare elle abat les humains,  
 Et contre eux de tout temps a de mauvais desseins.  
 
-    LÉLIE
+    LÉLIE.
 Ah !  
 
-    ANSELME
-Ce fier animal pour toutes les prières,  
+    ANSELME.
+        Ce fier animal pour toutes les prières,  
 Ne perdrait pas un coup de ses dents meurtrières,  
 Tout le monde y passe.  
 
-    LÉLIE
-Ah !  
+    LÉLIE.
+    Ah !  
 
-    MASCARILLE
-Vous avez beau prêcher,  
+    MASCARILLE.
+        Vous avez beau prêcher,  
 Ce deuil enraciné ne se peut arracher.  
 
-    ANSELME
+    ANSELME.
 Si malgré ces raisons votre ennui persévère,  
 Mon cher Lélie, au moins, faites qu'il se modère.  
 
-    LÉLIE
+    LÉLIE.
 Ah !  
 
-    MASCARILLE
-Il n'en fera rien, je connais son humeur.  
+    MASCARILLE.
+        Il n'en fera rien, je connais son humeur.  
 
-    ANSELME
+    ANSELME.
 Au reste, sur l'avis de votre serviteur,  
 J'apporte ici l'argent qui vous est nécessaire,  
 Pour faire célébrer les obsèques d'un père…  
 
-    LÉLIE
+    LÉLIE.
 Ah ! Ah !  
 
-    MASCARILLE
-Comme à ce mot s'augmente sa douleur,  
+    MASCARILLE.
+        Comme à ce mot s'augmente sa douleur,  
 Il ne peut sans mourir, songer à ce malheur.  
 
-    ANSELME
+    ANSELME.
 Je sais que vous verrez aux papiers du bonhomme,  
 Que je suis débiteur d'une plus grande somme :  
 Mais, quand par ces raisons je ne vous devrais rien,  
 Vous pourriez librement disposer de mon bien.  
 Tenez, je suis tout vôtre, et le ferai paraître.  
 
-    LÉLIE, *s'en allant*
+    LÉLIE, *s'en allant*.
 Ah !  
 
-    MASCARILLE
-Le grand déplaisir que sent monsieur mon Maître !  
+    MASCARILLE.
+        Le grand déplaisir que sent monsieur mon Maître !  
 
-    ANSELME
+    ANSELME.
 Mascarille, je crois qu'il serait à propos,  
 Qu'il me fît de sa main un reçu de deux mots.  
 
-    MASCARILLE
+    MASCARILLE.
 Ah !  
 
-    ANSELME
-Des événements l'incertitude est grande.  
+    ANSELME.
+        Des événements l'incertitude est grande.  
 
-    MASCARILLE
+    MASCARILLE.
 Ah !  
 
-    ANSELME
-Faisons-lui signer le mot que je demande.  
+    ANSELME.
+        Faisons-lui signer le mot que je demande.  
 
-    MASCARILLE
+    MASCARILLE.
 Las ! en l'état qu'il est, comment vous contenter !  
 Donnez-lui le loisir de se désattrister ;  
 Et quand ses déplaisirs prendront quelque allégeance,  
@@ -1178,27 +1178,27 @@ Adieu, je sens mon cœur qui se gonfle d'ennui,
 Et m'en vais tout mon soûl pleurer avecque lui.  
 Ah !  
 
-    ANSELME *seul*
-Le monde est rempli de beaucoup de traverses.  
+    ANSELME *seul*.
+        Le monde est rempli de beaucoup de traverses.  
 Chaque homme tous les jours en ressent de diverses,  
 Et jamais ici-bas…  
 
 
-### Scène IV
+### Scène IV.
 Pandolfe, Anselme.
 
 
-    ANSELME
-Ah ! bons Dieux, je frémis !  
+    ANSELME.
+        Ah ! bons Dieux, je frémis !  
 Pandolfe qui revient ! fût-il bien endormi.  
 Comme depuis sa mort sa face est amaigrie !  
 Las ! ne m'approchez pas de plus près, je vous prie ;  
 J'ai trop de répugnance à coudoyer un mort.  
 
-    PANDOLFE
+    PANDOLFE.
 D'où peut donc provenir ce bizarre transport ?  
 
-    ANSELME
+    ANSELME.
 Dites‑moi de bien loin quel sujet vous amène.  
 Si pour me dire adieu vous prenez tant de peine,  
 C'est trop de courtoisie, et véritablement,  
@@ -1212,32 +1212,32 @@ Et que le Ciel par sa bonté,
 Comble de joie et de santé  
 Votre défunte seigneurie.  
 
-    PANDOLFE, *riant*
+    PANDOLFE, *riant*.
 Malgré tout mon dépit, il m'y faut prendre part.  
 
-    ANSELME
+    ANSELME.
 Las ! pour un trépassé vous êtes bien gaillard !  
 
-    PANDOLFE
+    PANDOLFE.
 Est-ce jeu ? dites-nous, ou bien si c'est folie,  
 Qui traite de défunt une personne en vie ?  
 
-    ANSELME
+    ANSELME.
 Hélas ! vous êtes mort, et je viens de vous voir.  
 
-    PANDOLFE
+    PANDOLFE.
 Quoi ? j'aurais trépassé sans m'en apercevoir ?  
 
-    ANSELME
+    ANSELME.
 Sitôt que Mascarille en a dit la nouvelle,  
 J'en ai senti dans l'âme une douleur mortelle.  
 
-    PANDOLFE
+    PANDOLFE.
 Mais enfin, dormez-vous ? êtes-vous éveillé ?  
 Me connaissez-vous pas ?  
 
-    ANSELME
-Vous êtes habillé  
+    ANSELME.
+        Vous êtes habillé  
 D'un corps aérien qui contrefait le vôtre,  
 Mais qui dans un moment peut devenir tout autre.  
 Je crains fort de vous voir comme un géant grandir,  
@@ -1245,7 +1245,7 @@ Et tout votre visage affreusement laidir.
 Pour Dieu, ne prenez point de vilaine figure ;  
 J'ai prou de ma frayeur en cette conjoncture.  
 
-    PANDOLFE
+    PANDOLFE.
 En une autre saison, cette naïveté,  
 Dont vous accompagnez votre crédulité,  
 Anselme, me serait un charmant badinage,  
@@ -1257,7 +1257,7 @@ Mascarille est un fourbe, et fourbe fourbissime,
 Sur qui ne peuvent rien la crainte, et le remords,  
 Et qui pour ses desseins a d'étranges ressorts.  
 
-    ANSELME
+    ANSELME.
 M'aurait-on joué pièce, et fait supercherie ?  
 Ah ! vraiment ma raison, vous seriez fort jolie !  
 Touchons un peu pour voir : en effet c'est bien lui.  
@@ -1267,7 +1267,7 @@ On en ferait jouer quelque farce à ma honte :
 Mais, Pandolfe, aidez-moi vous-même à retirer  
 L'argent que j'ai donné pour vous faire enterrer.  
 
-    PANDOLFE
+    PANDOLFE.
 De l'argent, dites-vous ? ah ! c'est donc l'enclouure.  
 Voilà le nœud secret de toute l'aventure ;  
 À votre dam. Pour moi, sans m'en mettre en souci,  
@@ -1275,7 +1275,7 @@ Je vais faire informer de cette affaire ici,
 Contre ce Mascarille, et si l'on peut le prendre,  
 Quoi qu'il puisse coûter, je veux le faire pendre.  
 
-    ANSELME
+    ANSELME.
 Et moi, la bonne dupe, à trop croire un vaurien,  
 Il faut donc qu'aujourd'hui je perde, et sens et bien ?  
 Il me sied bien, ma foi, de porter tête grise,  
@@ -1284,22 +1284,22 @@ D'examiner si peu sur un premier rapport…
 Mais je vois…  
 
 
-### Scène V
+### Scène V.
 Lélie, Anselme.
 
 
-    LÉLIE
-Maintenant avec ce passeport,  
+    LÉLIE.
+        Maintenant avec ce passeport,  
 Je puis à Trufaldin rendre aisément visite.  
 
-    ANSELME
+    ANSELME.
 À ce que je puis voir, votre douleur vous quitte ?  
 
-    LÉLIE
+    LÉLIE.
 Que dites-vous ! jamais elle ne quittera,  
 Un cœur qui chèrement toujours la nourrira.  
 
-    ANSELME
+    ANSELME.
 Je reviens sur mes pas, vous dire, avec franchise,  
 Que tantôt avec vous j'ai fait une méprise ;  
 Que parmi ces Louis, quoiqu'ils semblent très beaux,  
@@ -1310,19 +1310,19 @@ Pullule en cet État d'une telle façon,
 Qu'on ne reçoit plus rien qui soit hors de soupçon :  
 Mon Dieu, qu'on ferait bien de les faire tous pendre !  
 
-    LÉLIE
+    LÉLIE.
 Vous me faites plaisir de les vouloir reprendre ;  
 Mais je n'en ai point vu de faux, comme je crois.  
 
-    ANSELME
+    ANSELME.
 Je les connaîtrai bien, montrez, montrez-les-moi :  
 Est-ce tout ?  
 
-    LÉLIE
-Oui.  
+    LÉLIE.
+    Oui.  
 
-    ANSELME
-Tant mieux ; enfin je vous raccroche,  
+    ANSELME.
+        Tant mieux ; enfin je vous raccroche,  
 Mon argent bien aimé, rentrez dedans ma poche ;  
 Et vous, mon brave Escroc, vous ne tenez plus rien ;  
 Vous tuez donc des gens qui se portent fort bien ;  
@@ -1331,55 +1331,55 @@ Ma foi, je m'engendrais d'une belle manière !
 Et j'allais prendre en vous un beau‑fils fort discret.  
 Allez, allez mourir de honte, et de regret.  
 
-    LÉLIE
+    LÉLIE.
 Il faut dire : *J'en tiens* ; quelle surprise extrême !  
 D'où peut-il avoir su sitôt le stratagème !  
 
 
-### Scène VI
+### Scène VI.
 Mascarille, Lélie.
 
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ? vous étiez sorti ? je vous cherchais partout :  
 Hé bien ? en sommes-nous enfin venus à bout ;  
 Je le donne en six coups au fourbe le plus brave.  
 Çà, donnez-moi que j'aille acheter notre esclave,  
 Votre rival après sera bien étonné.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! mon pauvre garçon, la chance a bien tourné,  
 Pourrais-tu de mon sort deviner l'injustice ?  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ? que serait-ce ?  
 
-    LÉLIE
-Anselme instruit de l'artifice,  
+    LÉLIE.
+        Anselme instruit de l'artifice,  
 M'a repris maintenant tout ce qu'il nous prêtait,  
 Sous couleur de changer de l'or que l'on doutait.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous vous moquez peut-être ?  
 
-    LÉLIE
-Il est trop véritable.  
+    LÉLIE.
+        Il est trop véritable.  
 
-    MASCARILLE
+    MASCARILLE.
 Tout de bon ?  
 
-    LÉLIE
-Tout de bon, j'en suis inconsolable ;  
+    LÉLIE.
+        Tout de bon, j'en suis inconsolable ;  
 Tu te vas emporter d'un courroux sans égal.  
 
-    MASCARILLE
+    MASCARILLE.
 Moi, Monsieur ? Quelque sot, la colère fait mal ;  
 Et je veux me choyer, quoi qu'enfin il arrive :  
 Que Célie après tout soit ou libre, ou captive ;  
 Que Léandre l'achète, ou qu'elle reste là,  
 Pour moi, je m'en soucie autant que de cela.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! n'aie point pour moi si grande indifférence,  
 Et sois plus indulgent à ce peu d'imprudence,  
 Sans ce dernier malheur, ne m'avoueras-tu pas,  
@@ -1387,159 +1387,159 @@ Que j'avais fait merveille ? et qu'en ce feint trépas
 J'éludais un chacun d'un deuil si vraisemblable,  
 Que les plus clairvoyants l'auraient cru véritable.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous avez en effet sujet de vous louer.  
 
-    LÉLIE
+    LÉLIE.
 Hé bien, je suis coupable, et je veux l'avouer ;  
 Mais, si jamais mon bien te fut considérable,  
 Répare ce malheur, et me sois secourable.  
 
-    MASCARILLE
+    MASCARILLE.
 Je vous baise les mains, je n'ai pas le loisir.  
 
-    LÉLIE
+    LÉLIE.
 Mascarille, mon fils.  
 
-    MASCARILLE
-Point.  
+    MASCARILLE.
+    Point.  
 
-    LÉLIE
-Fais-moi ce plaisir.  
+    LÉLIE.
+        Fais-moi ce plaisir.  
 
-    MASCARILLE
+    MASCARILLE.
 Non, je n'en ferai rien.  
 
-    LÉLIE
-Si tu m'es inflexible,  
+    LÉLIE.
+        Si tu m'es inflexible,  
 Je m'en vais me tuer.  
 
-    MASCARILLE
-Soit, il vous est loisible.  
+    MASCARILLE.
+        Soit, il vous est loisible.  
 
-    LÉLIE 
+    LÉLIE.
 Je ne te puis fléchir ?  
 
-    MASCARILLE
-Non.  
+    MASCARILLE.
+    Non.  
 
-    LÉLIE
-Vois-tu le fer prêt.  
+    LÉLIE.
+        Vois-tu le fer prêt.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui.  
 
-    LÉLIE
-Je vais le pousser.  
+    LÉLIE.
+    Je vais le pousser.  
 
-    MASCARILLE
-Faites ce qu'il vous plaît.  
+    MASCARILLE.
+        Faites ce qu'il vous plaît.  
 
-    LÉLIE
+    LÉLIE.
 Tu n'auras pas regret de m'arracher la vie !  
 
-    MASCARILLE
+    MASCARILLE.
 Non.  
 
-    LÉLIE
-Adieu Mascarille.  
+    LÉLIE.
+    Adieu Mascarille.  
 
-    MASCARILLE
-Adieu Monsieur Lélie.  
+    MASCARILLE.
+        Adieu Monsieur Lélie.  
 
-    LÉLIE
+    LÉLIE.
 Quoi !…  
 
-    MASCARILLE
-Tuez-vous donc vite : ah ! que de longs devis !  
+    MASCARILLE.
+        Tuez-vous donc vite : ah ! que de longs devis !  
 
-    LÉLIE
+    LÉLIE.
 Tu voudrais bien, ma foi, pour avoir mes habits,  
 Que je fisse le sot, et que je me tuasse.  
 
-    MASCARILLE
+    MASCARILLE.
 Savais-je pas qu'enfin ce n'était que grimace ;  
 Et, quoi que ces esprits jurent d'effectuer,  
 Qu'on n'est point aujourd'hui si prompt à se tuer.  
 
 
-### Scène VII
+### Scène VII.
 Léandre, Trufaldin, Lélie, Mascarille.
 
 
-    LÉLIE
+    LÉLIE.
 Que vois-je ! mon rival et Trufaldin ensemble !  
 Il achète Célie ; ah ! de frayeur je tremble.  
 
-    MASCARILLE
+    MASCARILLE.
 Il ne faut point douter qu'il fera ce qu'il peut,  
 Et, s'il a de l'argent, qu'il pourra ce qu'il veut :  
 Pour moi, j'en suis ravi ; voilà la récompense  
 De vos brusques erreurs, de votre impatience.  
 
-    LÉLIE
+    LÉLIE.
 Que dois-je faire ? dis, veuille me conseiller.  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne sais.  
 
-    LÉLIE
-Laisse-moi, je vais le quereller.  
+    LÉLIE.
+        Laisse-moi, je vais le quereller.  
 
-    MASCARILLE
+    MASCARILLE.
 Qu'en arrivera-t-il ?  
 
-    LÉLIE
-Que veux-tu que je fasse  
+    LÉLIE.
+        Que veux-tu que je fasse  
 Pour empêcher ce coup ?  
 
-    MASCARILLE
-Allez, je vous fais grâce ;  
+    MASCARILLE.
+        Allez, je vous fais grâce ;  
 Je jette encore un œil pitoyable sur vous,  
 Laissez‑moi l'observer par des moyens plus doux ;  
 Je vais, comme je crois, savoir ce qu'il projette.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Quand on viendra tantôt, c'est une affaire faite.  
 
-    MASCARILLE
+    MASCARILLE.
 Il faut que je l'attrape, et que de ses desseins  
 Je sois le confident pour mieux les rendre vains.  
 
-    LÉANDRE
+    LÉANDRE.
 Grâces au Ciel, voilà mon bonheur hors d'atteinte,  
 J'ai su me l'assurer, et je n'ai plus de crainte ;  
 Quoi que désormais puisse entreprendre un rival,  
 Il n'est plus en pouvoir de me faire du mal.  
 
-    MASCARILLE
+    MASCARILLE.
 Ahi, ahi, à l'aide, au meurtre, au secours, on m'assomme,  
 Ah, ah, ah, ah, ah, ah, ô traître ! ô bourreau d'homme !  
 
-    LÉANDRE
+    LÉANDRE.
 D'où procède cela ? qu'est-ce ? que te fait‑on ?  
 
-    MASCARILLE
+    MASCARILLE.
 On vient de me donner deux cents coups de bâton.  
 
-    LÉANDRE
+    LÉANDRE.
 Qui ?  
 
-    MASCARILLE
-Lélie.  
+    MASCARILLE.
+    Lélie.  
 
-    LÉANDRE
-Et pourquoi ?  
+    LÉANDRE.
+    Et pourquoi ?  
 
-    MASCARILLE
-Pour une bagatelle,  
+    MASCARILLE.
+        Pour une bagatelle,  
 Il me chasse et me bat d'une façon cruelle.  
 
-    LÉANDRE
+    LÉANDRE.
 Ah ! vraiment il a tort.  
 
-    MASCARILLE
-Mais, ou je ne pourrai,  
+    MASCARILLE.
+        Mais, ou je ne pourrai,  
 Ou je jure bien fort, que je m'en vengerai ;  
 Oui, je te ferai voir, batteur que Dieu confonde,  
 Que ce n'est pas pour rien qu'il faut rouer le monde :  
@@ -1552,7 +1552,7 @@ Une esclave te plaît, tu voulais m'engager
 À la mettre en tes mains, et je veux faire en sorte  
 Qu'un autre te l'enlève, ou le diable m'emporte.  
 
-    LÉANDRE
+    LÉANDRE.
 Écoute, Mascarille, et quitte ce transport ;  
 Tu m'as plu de tout temps, et je souhaitais fort  
 Qu'un garçon comme toi plein d'esprit et fidèle,  
@@ -1560,23 +1560,23 @@ Qu'un garçon comme toi plein d'esprit et fidèle,
 Enfin, si le parti te semble bon pour toi,  
 Si tu veux me servir, je t'arrête, avec moi.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, Monsieur, d'autant mieux que le destin propice  
 M'offre à me bien venger en vous rendant service,  
 Et que dans mes efforts pour vos contentements,  
 Je puis à mon brutal trouver des châtiments.  
 De Célie en un mot par mon adresse extrême…  
 
-    LÉANDRE
+    LÉANDRE.
 Mon amour s'est rendu cet office lui-même,  
 Enflammé d'un objet qui n'a point de défaut,  
 Je viens de l'acheter moins encor qu'il ne vaut.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ? Célie est à vous ?  
 
-    LÉANDRE
-Tu la verrais paraître,  
+    LÉANDRE.
+        Tu la verrais paraître,  
 Si de mes actions j'étais tout à fait maître :  
 Mais quoi ! mon père l'est, comme il a volonté,  
 Ainsi que je l'apprends d'un paquet apporté,  
@@ -1591,13 +1591,13 @@ D'ôter aux yeux de tous ce qui charme les miens,
 À trouver promptement un endroit favorable,  
 Où puisse être en secret cette captive aimable.  
 
-    MASCARILLE
+    MASCARILLE.
 Hors de la ville un peu, je puis avec raison,  
 D'un vieux parent que j'ai vous offrir la maison,  
 Là, vous pourrez la mettre avec toute assurance,  
 Et de cette action nul n'aura connaissance.  
 
-    LÉANDRE
+    LÉANDRE.
 Oui, ma foi, tu me fais un plaisir souhaité.  
 Tiens donc, et va pour moi prendre cette beauté,  
 Dès que par Trufaldin ma bague sera vue,  
@@ -1606,26 +1606,26 @@ Et dans cette maison tu me la conduiras
 Quand… mais chut, Hippolyte est ici sur nos pas.  
 
 
-### Scène VIII
+### Scène VIII.
 Hippolyte, Léandre, Mascarille.
 
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Je dois vous annoncer, Léandre, une nouvelle ;  
 Mais la trouverez‑vous agréable, ou cruelle ?  
 
-    LÉANDRE
+    LÉANDRE.
 Pour en pouvoir juger, et répondre soudain,  
 Il faudrait la savoir.  
 
-    HIPPOLYTE
-Donnez-moi donc la main  
+    HIPPOLYTE.
+        Donnez-moi donc la main  
 Jusqu'au Temple, en marchant je pourrai vous l'apprendre.  
 
-    LÉANDRE
+    LÉANDRE.
 Va, vat'en me servir sans davantage attendre.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, je te vais servir d'un plat de ma façon ;  
 Fut-il jamais au monde un plus heureux garçon !  
 Ô ! que dans un moment Lélie aura de joie !  
@@ -1638,42 +1638,42 @@ Et qu'au bas du portrait on mette en lettres d'or,
 Vivat Mascarillus, fourbum Imperator.  
 
 
-### Scène IX
+### Scène IX.
 Trufaldin, Mascarille.
 
 
-    MASCARILLE
+    MASCARILLE.
 Holà.  
 
-    TRUFALDIN
-Que voulez-vous ?  
+    TRUFALDIN.
+    Que voulez-vous ?  
 
-    MASCARILLE
-Cette bague connue,  
+    MASCARILLE.
+        Cette bague connue,  
 Vous dira le sujet qui cause ma venue.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Oui, je reconnais bien la bague que voilà :  
 Je vais querir l'esclave, arrêtez un peu là.  
 
 
-### Scène X
+### Scène X.
 Le Courrier, Trufaldin, Mascarille.
 
 
-    LE COURRIER
+    LE COURRIER.
 Seigneur, obligez‑moi de m'enseigner un homme…  
 
-    TRUFALDIN
+    TRUFALDIN.
 Et qui ?  
 
-    LE COURRIER
-Je crois que c'est Trufaldin qu'il se nomme.  
+    LE COURRIER.
+        Je crois que c'est Trufaldin qu'il se nomme.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Et que lui voulez‑vous ? Vous le voyez ici.  
 
-    LE COURRIER
+    LE COURRIER.
 Lui rendre seulement la lettre que voici.  < LETTRE. >
 
 Le Ciel, dont la bonté prend souci de ma vie,  
@@ -1693,7 +1693,7 @@ Vous bénirez le jour où vous causez le mien.
 De Madrid.
 Dom Pedro de Gusman, Marquis de Montalcane.
 
-    TRUFALDIN
+    TRUFALDIN.
 Quoiqu'à leur Nation bien peu de foi soit due,  
 Ils me l'avaient bien dit, ceux qui me l'ont vendue,  
 Que je verrais dans peu quelqu'un la retirer,  
@@ -1708,14 +1708,14 @@ Vous direz à celui qui vous a fait venir,
 Que je ne lui saurais ma parole tenir.  
 Qu'il vienne retirer son argent.  
 
-    MASCARILLE
-Mais l'outrage  
+    MASCARILLE.
+        Mais l'outrage  
 Que vous lui faites…  
 
-    TRUFALDIN
-Va, sans causer davantage.  
+    TRUFALDIN.
+        Va, sans causer davantage.  
 
-    MASCARILLE
+    MASCARILLE.
 Ah ! le fâcheux paquet que nous venons d'avoir !  
 Le sort a bien donné la baye à mon espoir !  
 Et bien à la male heure est‑il venu d'Espagne,  
@@ -1724,20 +1724,20 @@ Jamais, certes, jamais, plus beau commencement
 N'eut en si peu de temps plus triste événement.  
 
 
-### Scène XI
+### Scène XI.
 Lélie, Mascarille.
 
 
-    MASCARILLE
+    MASCARILLE.
 Quel beau transport de joie à présent vous inspire ?  
 
-    LÉLIE
+    LÉLIE.
 Laisse m'en rire encore avant que te le dire.  
 
-    MASCARILLE
+    MASCARILLE.
 Çà, rions donc bien fort, nous en avons sujet.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! je ne serai plus de tes plaintes l'objet.  
 Tu ne me diras plus, toi qui toujours me cries,  
 Que je gâte en brouillon toutes tes fourberies :  
@@ -1748,10 +1748,10 @@ Aussi bonne en effet que personne qui vive ;
 Et toi-même avoueras que ce que j'ai fait part  
 D'une pointe d'esprit où peu de monde a part.  
 
-    MASCARILLE
+    MASCARILLE.
 Sachons donc ce qu'a fait cette imaginative.  
 
-    LÉLIE
+    LÉLIE.
 Tantôt, l'esprit ému d'une frayeur bien vive,  
 D'avoir vu Trufaldin avecque mon rival,  
 Je songeais à trouver un remède à ce mal,  
@@ -1760,11 +1760,11 @@ J'ai conçu, digéré, produit un stratagème,
 Devant qui tous les tiens, dont tu fais tant de cas,  
 Doivent sans contredit mettre pavillon bas.  
 
-    MASCARILLE
+    MASCARILLE.
 Mais qu'est-ce ?  
 
-    LÉLIE
-Ah ! s'il te plaît, donne-toi patience ;  
+    LÉLIE.
+        Ah ! s'il te plaît, donne-toi patience ;  
 J'ai donc feint une lettre avec diligence,  
 Comme d'un grand Seigneur écrite à Trufaldin,  
 Qui mande, qu'ayant su par un heureux destin,  
@@ -1776,25 +1776,25 @@ Qu'à ce sujet il part d'Espagne, et doit pour elle
 Par de si grands présents reconnaître son zèle,  
 Qu'il n'aura point regret de causer son bonheur.  
 
-    MASCARILLE
+    MASCARILLE.
 Fort bien.  
 
-    LÉLIE
-Écoute donc ; voici bien le meilleur.  
+    LÉLIE.
+        Écoute donc ; voici bien le meilleur.  
 La Lettre que je dis a donc été remise ;  
 Mais, sais-tu bien comment ? en saison si bien prise,  
 Que le porteur m'a dit que sans ce trait falot,  
 Un homme l'emmenait, qui s'est trouvé fort sot.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous avez fait ce coup sans vous donner au diable ?  
 
-    LÉLIE
+    LÉLIE.
 Oui, d'un tour si subtil m'aurais-tu cru capable ?  
 Loue au moins mon adresse, et la dextérité,  
 Dont je romps d'un rival le dessein concerté.  
 
-    MASCARILLE
+    MASCARILLE.
 À vous pouvoir louer selon votre mérite,  
 Je manque d'éloquence, et ma force est petite ;  
 Oui, pour bien étaler cet effort relevé,  
@@ -1813,32 +1813,32 @@ Un brouillon, une bête, un brusque, un étourdi,
 Que sais-je, un, cent fois plus encor que je ne dis,  
 C'est faire en abrégé votre panégyrique.  
 
-    LÉLIE
+    LÉLIE.
 Apprends-moi le sujet qui contre moi te pique :  
 Ai-je fait quelque chose ? éclaircis-moi ce point.  
 
-    MASCARILLE
+    MASCARILLE.
 Non, vous n'avez rien fait ; mais ne me suivez point.  
 
-    LÉLIE
+    LÉLIE.
 Je te suivrai partout, pour savoir ce mystère.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui ? sus donc, préparez vos jambes à bien faire,  
 Car je vais vous fournir de quoi les exercer.  
 
-    LÉLIE
+    LÉLIE.
 Il m'échappe ! oh ! malheur qui ne se peut forcer !  
 Au discours qu'il m'a fait que saurais-je comprendre ?  
 Et quel mauvais office aurais-je pu me rendre ?  < Fin du second Acte. >
 
 
-## Acte III
+## Acte III.
 
 
-### Scène I
+### Scène I.
 
-    MASCARILLE *seul*
+    MASCARILLE *seul*.
 Taisez-vous, ma bonté, cessez votre entretien ;  
 Vous êtes une sotte, et je n'en ferai rien ;  
 Oui, vous avez raison, mon courroux, je l'avoue ;  
@@ -1877,14 +1877,14 @@ Si je puis n'avoir plus cet obstacle à combattre :
 Bon, voyons si son feu se rend opiniâtre.  
 
 
-### Scène II
+### Scène II.
 Léandre, Mascarille.
 
 
-    MASCARILLE
+    MASCARILLE.
 Monsieur, j'ai perdu temps, votre homme se dédit.  
 
-    LÉANDRE
+    LÉANDRE.
 De la chose lui‑même il m'a fait un récit ;  
 Mais, c'est bien plus, j'ai su que tout ce beau mystère,  
 D'un rapt d'Égyptiens, d'un grand Seigneur pour père,  
@@ -1893,20 +1893,20 @@ N'est qu'un pur stratagème, un trait facétieux,
 Une histoire à plaisir, un conte dont Lélie  
 A voulu détourner notre achat de Célie.  
 
-    MASCARILLE
+    MASCARILLE.
 Voyez un peu la fourbe !  
 
-    LÉANDRE
-Et pourtant Trufaldin  
+    LÉANDRE.
+        Et pourtant Trufaldin  
 Est si bien imprimé de ce conte badin,  
 Mord si bien à l'appât de cette faible ruse,  
 Qu'il ne veut point souffrir que l'on le désabuse.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est pourquoi désormais il la gardera bien,  
 Et je ne vois pas lieu d'y prétendre plus rien.      
 
-    LÉANDRE
+    LÉANDRE.
 Si d'abord à mes yeux elle parut aimable,  
 Je viens de la trouver tout à fait adorable,  
 Et je suis en suspens, si pour me l'acquérir,  
@@ -1914,39 +1914,39 @@ Aux extrêmes moyens je ne dois point courir,
 Par le don de ma foi rompre sa destinée,  
 Et changer ses liens en ceux de l'hyménée.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous pourriez l'épouser !  
 
-    LÉANDRE
-Je ne sais : mais enfin,  
+    LÉANDRE.
+        Je ne sais : mais enfin,  
 Si quelque obscurité se trouve en son destin,  
 Sa grâce et sa vertu sont de douces amorces,  
 Qui pour tirer les cœurs ont d'incroyables forces.  
 
-    MASCARILLE
+    MASCARILLE.
 Sa vertu, dites‑vous ?  
 
-    LÉANDRE
-Quoi ! que murmures-tu ?  
+    LÉANDRE.
+        Quoi ! que murmures-tu ?  
 Achève, explique-toi sur ce mot de vertu.  
 
-    MASCARILLE
+    MASCARILLE.
 Monsieur, votre visage en un moment s'altère,  
 Et je ferai bien mieux peut-être de me taire.  
 
-    LÉANDRE
+    LÉANDRE.
 Non, non, parle.  
 
-    MASCARILLE
-Hé bien donc, très charitablement,  
+    MASCARILLE.
+        Hé bien donc, très charitablement,  
 Je vous veux retirer de votre aveuglement.  
 Cette fille…  
 
-    LÉANDRE
-Poursuis.  
+    LÉANDRE.
+    Poursuis.  
 
-    MASCARILLE
-N'est rien moins qu'inhumaine ;  
+    MASCARILLE.
+        N'est rien moins qu'inhumaine ;  
 Dans le particulier elle oblige sans peine ;  
 Et son cœur, croyez-moi, n'est point roche après tout,  
 À quiconque la sait prendre par le bon bout ;  
@@ -1955,109 +1955,109 @@ Mais je puis en parler avec certitude ;
 Vous savez que je suis quelque peu d'un métier,  
 À me devoir connaître en un pareil gibier.  
 
-    LÉANDRE
+    LÉANDRE.
 Célie…  
 
-    MASCARILLE
-Oui, sa pudeur n'est que franche grimace,  
+    MASCARILLE.
+        Oui, sa pudeur n'est que franche grimace,  
 Qu'une ombre de vertu qui garde mal la place,  
 Et qui s'évanouit, comme l'on peut savoir,  
 Aux rayons du Soleil qu'une bourse fait voir.  
 
-    LÉANDRE
+    LÉANDRE.
 Las ! que dis-tu ? croirai-je un discours de la sorte !  
 
-    MASCARILLE
+    MASCARILLE.
 Monsieur, les volontés sont libres, que m'importe ?  
 Non, ne me croyez pas, suivez votre dessein,  
 Prenez cette matoise, et lui donnez la main ;  
 Toute la ville en corps reconnaîtra ce zèle,  
 Et vous épouserez le bien public en elle.  
 
-    LÉANDRE
+    LÉANDRE.
 Quelle surprise étrange !  
 
-    MASCARILLE
-Il a pris l'hameçon ;  
+    MASCARILLE.
+        Il a pris l'hameçon ;  
 Courage, s'il s'y peut enferrer tout de bon,  
 Nous nous ôtons du pied une fâcheuse épine.  
 
-    LÉANDRE
+    LÉANDRE.
 Oui d'un coup étonnant ce discours m'assassine.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ! vous pourriez !…  
 
-    LÉANDRE
-Va-t'en jusqu'à la poste, et vois  
+    LÉANDRE.
+        Va-t'en jusqu'à la poste, et vois  
 Je ne sais quel paquet qui doit venir pour moi.  
 Qui ne s'y fût trompé ? jamais l'air d'un visage,  
 Si ce qu'il dit est vrai, n'imposa davantage.  
 
 
-### Scène III
+### Scène III.
 Lélie, Léandre.
 
 
-    LÉLIE
+    LÉLIE.
 Du chagrin qui vous tient, quel peut être l'objet ?  
 
-    LÉANDRE
+    LÉANDRE.
 Moi ?  
 
-    LÉLIE
-Vous-même.  
+    LÉLIE.
+    Vous-même.  
 
-    LÉANDRE
-Pourtant je n'en ai point sujet.  
+    LÉANDRE.
+        Pourtant je n'en ai point sujet.  
 
-    LÉLIE
+    LÉLIE.
 Je vois bien ce que c'est, Célie en est la cause.  
 
-    LÉANDRE
+    LÉANDRE.
 Mon esprit ne court pas après si peu de chose.  
 
-    LÉLIE
+    LÉLIE.
 Pour elle vous aviez pourtant de grands desseins,  
 Mais il faut dire ainsi, lorsqu'ils se trouvent vains.  
 
-    LÉANDRE
+    LÉANDRE.
 Si j'étais assez sot, pour chérir ses caresses,  
 Je me moquerais bien de toutes vos finesses.  
 
-    LÉLIE
+    LÉLIE.
 Quelles finesses donc ?  
 
-    LÉANDRE
-Mon Dieu, nous savons tout.  
+    LÉANDRE.
+        Mon Dieu, nous savons tout.  
 
-    LÉLIE
+    LÉLIE.
 Quoi ?  
 
-    LÉANDRE
-Votre procédé de l'un à l'autre bout.  
+    LÉANDRE.
+        Votre procédé de l'un à l'autre bout.  
 
-    LÉLIE
+    LÉLIE.
 C'est de l'Hébreu pour moi, je n'y puis rien comprendre.  
 
-    LÉANDRE
+    LÉANDRE.
 Feignez, si vous voulez, de ne me pas entendre ;  
 Mais, croyez-moi, cessez de craindre pour un bien,  
 Où je serais fâché de vous disputer rien ;  
 J'aime fort la beauté qui n'est point profanée,  
 Et ne veux point brûler pour une abandonnée.  
 
-    LÉLIE
+    LÉLIE.
 Tout beau, tout beau, Léandre.  
 
-    LÉANDRE
-Ah ! que vous êtes bon !  
+    LÉANDRE.
+        Ah ! que vous êtes bon !  
 Allez, vous dis-je encor, servez-la sans soupçon,  
 Vous pourrez vous nommer homme à bonnes fortunes :  
 Il est vrai, sa beauté n'est pas des plus communes ;  
 Mais en revanche aussi le reste est fort commun.  
 
-    LÉLIE
+    LÉLIE.
 Léandre, arrêtons là ce discours importun.  
 Contre moi tant d'efforts qu'il vous plaira pour elle ;  
 Mais surtout retenez cette atteinte mortelle :  
@@ -2066,63 +2066,63 @@ D'entendre mal parler de ma divinité ;
 Et que j'aurai toujours bien moins de répugnance  
 À souffrir votre amour qu'un discours qui l'offense.  
 
-    LÉANDRE
+    LÉANDRE.
 Ce que j'avance ici me vient de bonne part.  
 
-    LÉLIE
+    LÉLIE.
 Quiconque vous l'a dit est un lâche, un pendard ;  
 On ne peut imposer de tache à cette fille :  
 Je connais bien son cœur.  
 
-    LÉANDRE
-Mais enfin Mascarille,  
+    LÉANDRE.
+        Mais enfin Mascarille,  
 D'un semblable procès est juge compétent ;  
 C'est lui qui la condamne.  
 
-    LÉLIE
-Oui ?  
+    LÉLIE.
+    Oui ?  
 
-    LÉANDRE
-Lui-même.  
+    LÉANDRE.
+    Lui-même.  
 
-    LÉLIE
-Il prétend  
+    LÉLIE.
+        Il prétend  
 D'une fille d'honneur insolemment médire,  
 Et que peut-être encor je n'en ferai que rire.  
 Gage qu'il se dédit.  
 
-    LÉANDRE
-Et moi gage que non.  
+    LÉANDRE.
+        Et moi gage que non.  
 
-    LÉLIE
+    LÉLIE.
 Parbleu, je le ferais mourir sous le bâton,  
 S'il m'avait soutenu des faussetés pareilles.  
 
-    LÉANDRE
+    LÉANDRE.
 Moi, je lui couperais sur-le-champ les oreilles,  
 S'il n'était pas garant de tout ce qu'il m'a dit.  
 
 
-### Scène IV
+### Scène IV.
 Lélie, Léandre, Mascarille.
 
 
-    LÉLIE
+    LÉLIE.
 Ah ! bon, bon, le voilà, venez çà, chien maudit.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ?  
 
-    LÉLIE
-Langue de serpent fertile en impostures,  
+    LÉLIE.
+        Langue de serpent fertile en impostures,  
 Vous osez sur Célie attacher vos morsures !  
 Et lui calomnier la plus rare vertu,  
 Qui puisse faire éclat sous un sort abattu !  
 
-    MASCARILLE
+    MASCARILLE.
 Doucement ce discours est de mon industrie.  
 
-    LÉLIE
+    LÉLIE.
 Non, non, point de clin d'œil, et point de raillerie ;  
 Je suis aveugle à tout, sourd à quoi que ce soit ;  
 Fût-ce mon propre frère, il me la payerait ;  
@@ -2130,102 +2130,102 @@ Et sur ce que j'adore oser porter le blâme,
 C'est me faire une plaie au plus tendre de l'âme ;  
 Tous ces signes sont vains, quels discours as-tu faits ?  
 
-    MASCARILLE
+    MASCARILLE.
 Mon Dieu, ne cherchons point querelle, ou je m'en vais.  
 
-    LÉLIE
+    LÉLIE.
 Tu n'échapperas pas.  
 
-    MASCARILLE
-Ahii.  
+    MASCARILLE.
+    Ahii.  
 
-    LÉLIE
-Parle donc, confesse.  
+    LÉLIE.
+        Parle donc, confesse.  
 
-    MASCARILLE
+    MASCARILLE.
 Laissez-moi ; je vous dis que c'est un tour d'adresse.  
 
-    LÉLIE
+    LÉLIE.
 Dépêche, qu'as-tu dit ? vide entre nous ce point.  
 
-    MASCARILLE
+    MASCARILLE.
 J'ai dit ce que j'ai dit, ne vous emportez point.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! je vous ferai bien parler d'une autre sorte.  
 
-    LÉANDRE
+    LÉANDRE.
 Halte un peu, retenez l'ardeur qui vous emporte.  
 
-    MASCARILLE
+    MASCARILLE.
 Fut-il jamais au monde un esprit moins sensé !  
 
-    LÉLIE
+    LÉLIE.
 Laissez‑moi contenter mon courage offensé.  
 
-    LÉANDRE
+    LÉANDRE.
 C'est trop que de vouloir le battre en ma présence.  
 
-    LÉLIE
+    LÉLIE.
 Quoi ! châtier mes gens, n'est pas en ma puissance ?  
 
-    LÉANDRE
+    LÉANDRE.
 Comment vos gens ?  
 
-    MASCARILLE
-Encor ! il va tout découvrir.  
+    MASCARILLE.
+        Encor ! il va tout découvrir.  
 
-    LÉLIE
+    LÉLIE.
 Quand j'aurais volonté de le battre à mourir,  
 Hé bien ? c'est mon valet ?  
 
-    LÉANDRE
-C'est maintenant le nôtre.  
+    LÉANDRE.
+        C'est maintenant le nôtre.  
 
-    LÉLIE
+    LÉLIE.
 Le trait est admirable ! et comment donc le vôtre ?  
 Sans doute…  
 
-    MASCARILLE *bas*
-Doucement.  
+    MASCARILLE *bas*.
+    Doucement.  
 
-    LÉLIE
-Hem, que veux-tu conter ?  
+    LÉLIE.
+        Hem, que veux-tu conter ?  
 
-    MASCARILLE *bas*
+    MASCARILLE *bas*.
 Ah ! le double bourreau, qui me va tout gâter !  
 Et qui ne comprend rien quelque signe qu'on donne.  
 
-    LÉLIE
+    LÉLIE.
 Vous rêvez bien, Léandre, et me la baillez bonne.  
 Il n'est pas mon valet ?  
 
-    LÉANDRE
-Pour quelque mal commis,  
+    LÉANDRE.
+        Pour quelque mal commis,  
 Hors de votre service il n'a pas été mis ?  
 
-    LÉLIE
+    LÉLIE.
 Je ne sais ce que c'est.  
 
-    LÉANDRE
-Et plein de violence,  
+    LÉANDRE.
+        Et plein de violence,  
 Vous n'avez pas chargé son dos avec outrance ?  
 
-    LÉLIE
+    LÉLIE.
 Point du tout. Moi ? l'avoir chassé, roué de coups ?  
 Vous vous moquez de moi, Léandre, ou lui de vous.  
 
-    MASCARILLE
+    MASCARILLE.
 Pousse, pousse, bourreau, tu fais bien tes affaires.  
 
-    LÉANDRE
+    LÉANDRE.
 Donc les coups de bâton ne sont qu'imaginaires.  
 
-    MASCARILLE
+    MASCARILLE.
 Il ne sait ce qu'il dit, sa mémoire…  
 
-    LÉANDRE
-Non, non,  
+    LÉANDRE.
+        Non, non,  
 Tous ces signes pour toi ne disent rien de bon ;  
 Oui, d'un tour délicat mon esprit te soupçonne ;  
 Mais, pour l'invention, va, je te le pardonne ;  
@@ -2236,17 +2236,17 @@ Et que m'étant commis à ton zèle hypocrite,
 Ceci doit s'appeler *un avis au lecteur*.  
 Adieu, Lélie, adieu, très humble serviteur.  
 
-    MASCARILLE
+    MASCARILLE.
 Courage, mon garçon, tout heur nous accompagne,  
 Mettons flamberge au vent et bravoure en campagne,  
 Faisons *l'Olibrius, l'occiseur d'innocents*.  
 
-    LÉLIE
+    LÉLIE.
 Il t'avait accusé de discours médisants  
 Contre…  
 
-    MASCARILLE
-Et vous ne pouviez souffrir mon artifice ?  
+    MASCARILLE.
+        Et vous ne pouviez souffrir mon artifice ?  
 Lui laisser son erreur, qui vous rendait service,  
 Et par qui son amour s'en était presque allé ?  
 Non, il a l'esprit franc, et point dissimulé :  
@@ -2263,59 +2263,59 @@ Qui ne le cède point à personne qui vive !
 C'est une rare pièce ! et digne sur ma foi,  
 Qu'on en fasse présent au cabinet d'un Roi !  
 
-    LÉLIE
+    LÉLIE.
 Je ne m'étonne pas si je romps tes attentes ;  
 À moins d'être informé des choses que tu tentes,  
 J'en ferais encor cent de la sorte.  
 
-    MASCARILLE
-Tant pis.  
+    MASCARILLE.
+        Tant pis.  
 
-    LÉLIE
+    LÉLIE.
 Au moins, pour t'emporter à de justes dépits,  
 Fais-moi dans tes desseins entrer de quelque chose ;  
 Mais que de leurs ressorts la porte me soit close,  
 C'est ce qui fait toujours que je suis pris sans vert.  
 
-    MASCARILLE
+    MASCARILLE.
 Je crois que vous seriez un maître d'Arme expert :  
 Vous savez à merveille en toutes aventures  
 Prendre les contretemps, et rompre les mesures.  
 
-    LÉLIE
+    LÉLIE.
 Puisque la chose est faite, il n'y faut plus penser :  
 Mon rival en tout cas ne peut me traverser,  
 Et pourvu que tes soins, en qui je me repose…  
 
-    MASCARILLE
+    MASCARILLE.
 Laissons là ce discours, et parlons d'autre chose,  
 Je ne m'apaise pas, non, si facilement,  
 Je suis trop en colère ; il faut premièrement  
 Me rendre un bon office, et nous verrons ensuite,  
 Si je dois de vos feux reprendre la conduite.  
 
-    LÉLIE
+    LÉLIE.
 S'il ne tient qu'à cela, je n'y résiste pas ;  
 As-tu besoin ? dis-moi, de mon sang ? de mes bras.  
 
-    MASCARILLE
+    MASCARILLE.
 De quelle vision sa cervelle est frappée !  
 Vous êtes de l'humeur de ces amis d'épée,  
 Que l'on trouve toujours plus prompts à dégainer,  
 Qu'à tirer un teston, s'il fallait le donner.  
 
-    LÉLIE
+    LÉLIE.
 Que puis‑je donc pour toi ?  
 
-    MASCARILLE
-C'est que de votre père,  
+    MASCARILLE.
+        C'est que de votre père,  
 Il faut absolument apaiser la colère.  
 
-    LÉLIE
+    LÉLIE.
 Nous avons fait la paix.  
 
-    MASCARILLE
-Oui, mais non pas pour nous.  
+    MASCARILLE.
+        Oui, mais non pas pour nous.  
 Je l'ai fait ce matin mort pour l'amour de vous ;  
 La vision le choque, et de pareilles feintes  
 Aux vieillards, comme lui, sont de dures atteintes,  
@@ -2333,12 +2333,12 @@ Car enfin, la vertu n'est jamais sans envie,
 Et dans ce maudit siècle, est toujours poursuivie.  
 Allez donc le fléchir.  
 
-    LÉLIE
-Oui, nous le fléchirons ;  
+    LÉLIE.
+        Oui, nous le fléchirons ;  
 Mais aussi tu promets…  
 
-    MASCARILLE
-Ah ! mon Dieu, nous verrons.  
+    MASCARILLE.
+        Ah ! mon Dieu, nous verrons.  
 Ma foi, prenons haleine après tant de fatigues,  
 Cessons pour quelque temps le cours de nos intrigues,  
 Et de nous tourmenter de même qu'un lutin :  
@@ -2346,25 +2346,25 @@ Léandre, pour nous nuire, est hors de garde enfin,
 Et Célie, arrêtée avecque l'artifice…  
 
 
-### Scène V
+### Scène V.
 Ergaste, Mascarille.
 
 
-    ERGASTE
+    ERGASTE.
 Je te cherchais partout pour te rendre un service,  
 Pour te donner avis d'un secret important.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi donc ?  
 
-    ERGASTE
-N'avons-nous point ici quelque écoutant ?  
+    ERGASTE.
+        N'avons-nous point ici quelque écoutant ?  
 
-    MASCARILLE
+    MASCARILLE.
 Non.  
 
-    ERGASTE
-Nous sommes amis autant qu'on le peut être,  
+    ERGASTE.
+        Nous sommes amis autant qu'on le peut être,  
 Je sais bien tes desseins, et l'amour de ton maître ;  
 Songez à vous tantôt, Léandre fait parti  
 Pour enlever Célie, et j'en suis averti,  
@@ -2373,7 +2373,7 @@ D'entrer chez Trufaldin par une mascarade,
 Ayant su qu'en ce temps assez souvent le soir,  
 Des femmes du Quartier en masque l'allaient voir.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui ! suffit ; il n'est pas au comble de sa joie,  
 Je pourrai bien tantôt lui souffler cette proie ;  
 Et contre cet assaut je sais un coup fourré,  
@@ -2404,14 +2404,14 @@ Je ne suis point au rang de ces esprits mal nés
 Qui cachent les talents que Dieu leur a donnés.  
 
 
-### Scène VI
+### Scène VI.
 Lélie, Ergaste.
 
 
-    LÉLIE
+    LÉLIE.
 Il prétend l'enlever avec sa mascarade ?  
 
-    ERGASTE
+    ERGASTE.
 Il n'est rien plus certain ; quelqu'un de sa brigade,  
 M'ayant de ce dessein instruit, sans m'arrêter,  
 À Mascarille lors j'ai couru tout conter,  
@@ -2420,7 +2420,7 @@ Par une invention dessus le champ bâtie ;
 Et comme je vous ai rencontré par hasard,  
 J'ai cru que je devais de tout vous faire part.  
 
-    LÉLIE
+    LÉLIE.
 Tu m'obliges par trop avec cette nouvelle :  
 Va, je reconnaîtrai ce service fidèle ;  
 Mon drôle assurément leur jouera quelque trait :  
@@ -2434,28 +2434,28 @@ J'ai deux bons pistolets, et mon épée est bonne.
 Holà, quelqu'un, un mot.  
 
 
-### Scène VII
+### Scène VII.
 Lélie, Trufaldin.
 
 
-    TRUFALDIN
-Qu'est-ce ? qui me vient voir ?  
+    TRUFALDIN.
+        Qu'est-ce ? qui me vient voir ?  
 
-    LÉLIE
+    LÉLIE.
 Fermez soigneusement votre porte ce soir.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Pourquoi ?  
 
-    LÉLIE
-Certaines gens font une mascarade,  
+    LÉLIE.
+        Certaines gens font une mascarade,  
 Pour vous venir donner une fâcheuse aubade ;  
 Ils veulent enlever votre Célie.  
 
-    TRUFALDIN
-Oh ! Dieux !  
+    TRUFALDIN.
+        Oh ! Dieux !  
 
-    LÉLIE
+    LÉLIE.
 Et, sans doute bientôt, ils viennent en ces lieux ;  
 Demeurez, vous pourrez voir tout de la fenêtre :  
 Hé bien ? qu'avais-je dit ? les voyez-vous paraître ?  
@@ -2463,31 +2463,31 @@ Chut, je veux à vos yeux leur en faire l'affront,
 Nous allons voir beau jeu, si la corde ne rompt.  
 
 
-### Scène VIII
+### Scène VIII.
 Lélie, Trufaldin, Mascarille *masqué*.
 
 
-    TRUFALDIN
+    TRUFALDIN.
 Oh ! les plaisants robins qui pensent me surprendre !  
 
-    LÉLIE
+    LÉLIE.
 Masques, où courez-vous ? le pourrait-on apprendre ?  
 Trufaldin, ouvrez-leur pour jouer un momon ;  
 Bon Dieu ! qu'elle est jolie ! et qu'elle a l'air mignon !  
 Hé quoi ! vous murmurez ! mais, sans vous faire outrage,  
 Peut-on lever le masque et voir votre visage ?  
 
-    TRUFALDIN
+    TRUFALDIN.
 Allez, fourbes méchants ; retirez-vous d'ici,  
 Canaille ; et vous, Seigneur, bonsoir, et grand merci.  
 
-    LÉLIE
+    LÉLIE.
 Mascarille, est-ce toi ?  
 
-    MASCARILLE
-Nennida, c'est quelque autre.  
+    MASCARILLE.
+        Nennida, c'est quelque autre.  
 
-    LÉLIE
+    LÉLIE.
 Hélas ! quelle surprise ! et quel sort est le nôtre !  
 L'aurais-je deviné ! n'étant point averti  
 Des secrètes raisons qui l'avaient travesti !  
@@ -2496,35 +2496,35 @@ Malheureux que je suis, d'avoir dessous ce masque,
 Il me prendrait envie, en ce juste courroux,  
 De me battre moi-même, et me donner cent coups.  
 
-    MASCARILLE
+    MASCARILLE.
 Adieu, sublime esprit ; rare imaginative.  
 
-    LÉLIE
+    LÉLIE.
 Las ! si de ton secours ta colère me prive,  
 À quel Saint me vouerai-je ?  
 
-    MASCARILLE
-Au grand diable d'Enfer.  
+    MASCARILLE.
+        Au grand diable d'Enfer.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! si ton cœur pour moi n'est de bronze, ou de fer,  
 Qu'encore un coup, du moins, mon imprudence ait grâce  
 S'il faut pour l'obtenir que tes genoux j'embrasse,  
 Vois-moi…  
 
-    MASCARILLE
-Tarare, allons camarades, allons.  
+    MASCARILLE.
+        Tarare, allons camarades, allons.  
 J'entends venir des gens qui sont sur nos talons.  
 
 
-### Scène IX
+### Scène IX.
 Léandre, *masqué, et sa suite,* Trufaldin.
 
 
-    LÉANDRE
+    LÉANDRE.
 Sans bruit ; ne faisons rien que de la bonne sorte.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Quoi ! masques toute nuit assiégeront ma porte !  
 Messieurs, ne gagnez point de rhumes à plaisir,  
 Tout cerveau qui le fait, est certes de loisir ;  
@@ -2535,43 +2535,43 @@ J'en suis fâché pour vous : Mais, pour vous régaler
 Du souci qui pour elle ici vous inquiète,  
 Elle vous fait présent de cette cassolette.  
 
-    LÉANDRE
+    LÉANDRE.
 Fi, cela sent mauvais ; et je suis tout gâté ;  
 Nous sommes découverts, tirons de ce côté.  < Fin du troisième Acte. >
 
 
-## Acte IV
+## Acte IV.
 
 
-### Scène Première
+### Scène Première.
 Lélie, Mascarille.
 
 
-    MASCARILLE
+    MASCARILLE.
 Vous voilà fagoté d'une plaisante sorte.  
 
-    LÉLIE
+    LÉLIE.
 Tu ranimes par là mon espérance morte.  
 
-    MASCARILLE
+    MASCARILLE.
 Toujours de ma colère on me voit revenir ;  
 J'ai beau jurer, pester, je ne m'en puis tenir.  
 
-    LÉLIE
+    LÉLIE.
 Aussi, crois, si jamais je suis dans la puissance,  
 Que tu seras content de ma reconnaissance ;  
 Et, que, quand je n'aurais qu'un seul morceau de pain…  
 
-    MASCARILLE
+    MASCARILLE.
 Baste, songez à vous, dans ce nouveau dessein ;  
 Au moins, si l'on vous voit commettre une sottise,  
 Vous n'imputerez plus l'erreur à la surprise,  
 Votre rôle en ce jeu par cœur doit être su.  
 
-    LÉLIE
+    LÉLIE.
 Mais comment Trufaldin chez lui t'a-t-il reçu ?  
 
-    MASCARILLE
+    MASCARILLE.
 D'un zèle simulé j'ai bridé le bon sire ;  
 Avec empressement je suis venu lui dire,  
 S'il ne songeait à lui, que l'on le surprendrait,  
@@ -2607,18 +2607,18 @@ Dont cette nuit en songe il a vu le retour :
 À ce propos, voici l'histoire qu'il m'a dite,  
 Et sur qui j'ai tantôt notre fourbe construite.  
 
-    LÉLIE
+    LÉLIE.
 C'est assez, je sais tout : tu me l'as dit deux fois.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, oui ; mais quand j'aurais passé jusques à trois,  
 Peut-être encor qu'avec toute sa suffisance,  
 Votre esprit manquera dans quelque circonstance.  
 
-    LÉLIE
+    LÉLIE.
 Mais, à tant différer je me fais de l'effort.  
 
-    MASCARILLE
+    MASCARILLE.
 Ah ! de peur de tomber, ne courons pas si fort.  
 Voyez-vous ? vous avez la caboche un peu dure :  
 Rendez-vous affermi dessus cette aventure.  
@@ -2662,71 +2662,71 @@ Dont il a su le sort, et chez qui vous devez
 Attendre quelques jours qu'ils y seraient arrivés ;  
 Je vous ai fait tantôt des leçons étendues.  
 
-    LÉLIE
+    LÉLIE.
 Ces répétitions ne sont que superflues.  
 Dès l'abord mon esprit a compris tout le fait.  
 
-    MASCARILLE
+    MASCARILLE.
 Je m'en vais là-dedans donner le premier trait.  
 
-    LÉLIE
+    LÉLIE.
 Écoute Mascarille, un seul point me chagrine,  
 S'il allait de son fils me demander la mine ?  
 
-    MASCARILLE
+    MASCARILLE.
 Belle difficulté ! devez-vous pas savoir  
 Qu'il était fort petit alors qu'il l'a pu voir ;  
 Et puis, outre cela, le temps et l'esclavage,  
 Pourraient-ils pas avoir changé tout son visage ?  
 
-    LÉLIE
+    LÉLIE.
 Il est vrai ; mais dis-moi, s'il connaît qu'il m'a vu,  
 Que faire ?  
 
-    MASCARILLE
-De mémoire êtes-vous dépourvu ?  
+    MASCARILLE.
+        De mémoire êtes-vous dépourvu ?  
 Nous avons dit tantôt, qu'outre que votre image  
 N'avait dans son esprit pu faire qu'un passage,  
 Pour ne vous avoir vu que durant un moment,  
 Et le poil et l'habit déguisaient grandement.  
 
-    LÉLIE
+    LÉLIE.
 Fort bien : mais, à propos, cet endroit de Turquie ?…  
 
-    MASCARILLE
+    MASCARILLE.
 Tout, vous dis-je, est égal, Turquie, ou Barbarie.  
 
-    LÉLIE
+    LÉLIE.
 Mais, le nom de la ville où j'aurai pu les voir ?  
 
-    MASCARILLE
+    MASCARILLE.
 Tunis. Il me tiendra, je crois, jusques au soir :  
 La répétition, dit-il, est inutile,  
 Et j'ai déjà nommé douze fois cette ville.  
 
-    LÉLIE
+    LÉLIE.
 Va, va-t'en commencer ; il ne me faut plus rien.  
 
-    MASCARILLE
+    MASCARILLE.
 Au moins, soyez prudent, et vous conduisez bien ;  
 Ne donnez point ici de l'imaginative.  
 
-    LÉLIE
+    LÉLIE.
 Laisse-moi gouverner : que ton âme est craintive !  
 
-    MASCARILLE
+    MASCARILLE.
 Horace dans Bologne Écolier ; Trufaldin  
 Zanobio Ruberti, dans Naples Citadin ;  
 Le Précepteur Albert…  
 
-    LÉLIE
-Ah ! c'est me faire honte,  
+    LÉLIE.
+        Ah ! c'est me faire honte,  
 Que de me tant prêcher ; suis-je un sot à ton compte ?  
 
-    MASCARILLE
+    MASCARILLE.
 Non pas du tout ; mais bien quelque chose approchant.  
 
-    LÉLIE *seul*
+    LÉLIE *seul*.
 Quand il m'est inutile, il fait le chien couchant :  
 Mais, parce qu'il sent bien le secours qu'il me donne,  
 Sa familiarité jusque-là s'abandonne.  
@@ -2737,74 +2737,74 @@ Peindre à cette beauté les tourments de mon âme ;
 Je saurai quel arrêt je dois… mais les voici.  
 
 
-### Scène II
+### Scène II.
 Trufaldin, Lélie, Mascarille.
 
 
-    TRUFALDIN
+    TRUFALDIN.
 Sois béni, juste Ciel ! de mon sort adouci.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est à vous de rêver, et de faire des songes,  
 Puisqu'en vous, il est faux, que songes sont mensonges.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Quelle grâce, quels biens vous rendrai-je, Seigneur ?  
 Vous, que je dois nommer l'Ange de mon bonheur.  
 
-    LÉLIE
+    LÉLIE.
 Ce sont soins superflus, et je vous en dispense.  
 
-    TRUFALDIN
+    TRUFALDIN.
 J'ai, je ne sais pas où, vu quelque ressemblance  
 De cet Arménien.  
 
-    MASCARILLE
-C'est ce que je disais :  
+    MASCARILLE.
+        C'est ce que je disais :  
 Mais on voit des rapports admirables parfois.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Vous avez vu ce fils où mon espoir se fonde ?  
 
-    LÉLIE
+    LÉLIE.
 Oui, Seigneur Trufaldin, le plus gaillard du monde.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Il vous a dit sa vie, et parlé fort de moi ?  
 
-    LÉLIE
+    LÉLIE.
 Plus de dix mille fois.  
 
-    MASCARILLE
-Quelque peu moins, je crois.  
+    MASCARILLE.
+        Quelque peu moins, je crois.  
 
-    LÉLIE
+    LÉLIE.
 Il vous a dépeint tel que je vous vois paraître,  
 Le visage, le port…  
 
-    TRUFALDIN
-Cela pourrait-il être ?  
+    TRUFALDIN.
+        Cela pourrait-il être ?  
 Si lorsqu'il m'a pu voir il n'avait que sept ans ?  
 Et si son Précepteur, même depuis ce temps,  
 Aurait peine à pouvoir connaître mon visage ?  
 
-    MASCARILLE
+    MASCARILLE.
 Le sang, bien autrement, conserve cette image ;  
 Par des traits si profonds, ce portrait est tracé,  
 Que mon père…  
 
-    TRUFALDIN
-Suffit. Où l'avez-vous laissé ?  
+    TRUFALDIN.
+        Suffit. Où l'avez-vous laissé ?  
 
-    LÉLIE
+    LÉLIE.
 En Turquie, à Turin.  
 
-    TRUFALDIN
-Turin ? mais cette ville  
+    TRUFALDIN.
+        Turin ? mais cette ville  
 Est, je pense, en Piémont.  
 
-    MASCARILLE
-Oh ! cerveau malhabile !  
+    MASCARILLE.
+        Oh ! cerveau malhabile !  
 Vous ne l'entendez pas, il veut dire Tunis,  
 Et c'est en effet là qu'il laissa votre fils :  
 Mais les Arméniens ont tous une habitude,  
@@ -2812,95 +2812,95 @@ Certain vice de langue à nous autres fort rude ;
 C'est que dans tous les mots, ils changent *nis* en *rin*,  
 Et pour dire *Tunis*, ils prononcent *Turin*.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Il fallait, pour l'entendre, avoir cette lumière.  
 Quel moyen, vous dit-il, de rencontrer son père ?  
 
-    MASCARILLE
+    MASCARILLE.
 Voyez s'il répondra. Je repassais un peu  
 Quelque leçon d'escrime ; autrefois en ce jeu  
 Il n'était point d'adresse à mon adresse égale,  
 Et j'ai battu le fer en mainte et mainte salle.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Ce n'est pas maintenant ce que je veux savoir.  
 Quel autre nom dit-il que je devais avoir ?  
 
-    MASCARILLE
+    MASCARILLE.
 Ah ! Seigneur Zanobio Ruberti, quelle joie  
 Est celle maintenant que le Ciel vous envoie !  
 
-    LÉLIE
+    LÉLIE.
 C'est là votre vrai nom, et l'autre est emprunté.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Mais où vous a-t-il dit qu'il reçut la clarté ?  
 
-    MASCARILLE
+    MASCARILLE.
 Naples est un séjour qui paraît agréable :  
 Mais, pour vous, ce doit être un lieu fort haïssable.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Ne peux‑tu sans parler, souffrir notre discours ?  
 
-    LÉLIE
+    LÉLIE.
 Dans Naples son destin a commencé son cours.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Où l'envoyai-je jeune ? et sous quelle conduite ?  
 
-    MASCARILLE
+    MASCARILLE.
 Ce pauvre maître Albert a beaucoup de mérite,  
 D'avoir depuis Bologne accompagné ce fils,  
 Qu'à sa discrétion vos soins avaient commis.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Ah !  
 
-    MASCARILLE
-Nous sommes perdus, si cet entretien dure.  
+    MASCARILLE.
+        Nous sommes perdus, si cet entretien dure.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Je voudrais bien savoir de vous leur aventure ;  
 Sur quel vaisseau le sort qui m'a su travailler…  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne sais ce que c'est, je ne fais que bâiller ;  
 Mais, Seigneur Trufaldin, songez-vous que peut-être,  
 Ce Monsieur l'Étranger a besoin de repaître ?  
 Et qu'il est tard aussi ?  
 
-    LÉLIE
-Pour moi, point de repas.  
+    LÉLIE.
+        Pour moi, point de repas.  
 
-    MASCARILLE
+    MASCARILLE.
 Ah ! vous avez plus faim que vous ne pensez pas.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Entrez donc.  
 
-    LÉLIE 
-Après vous.  
+    LÉLIE.
+    Après vous.  
 
-    MASCARILLE
-Monsieur, en Arménie,  
+    MASCARILLE.
+        Monsieur, en Arménie,  
 Les maîtres du logis sont sans cérémonie.  
 Pauvre esprit ! pas deux mots !  
 
-    LÉLIE
-D'abord il m'a surpris :  
+    LÉLIE.
+        D'abord il m'a surpris :  
 Mais n'appréhende plus, je reprends mes esprits,  
 Et m'en vais débiter avecque hardiesse…  
 
-    MASCARILLE
+    MASCARILLE.
 Voici notre rival qui ne sait pas la pièce.  
 
 
-### Scène III
+### Scène III.
 Léandre, Anselme.
 
 
-    ANSELME
+    ANSELME.
 Arrêtez-vous, Léandre, et souffrez un discours,  
 Qui cherche le repos et l'honneur de vos jours :  
 Je ne vous parle point en père de ma fille,  
@@ -2938,7 +2938,7 @@ Après ces bonnes nuits donnent de mauvais jours.
 De là viennent les soins, les soucis, les misères,  
 Les fils déshérités par le courroux des pères.  
 
-    LÉANDRE
+    LÉANDRE.
 Dans tout votre discours, je n'ai rien écouté,  
 Que mon esprit déjà ne m'ait représenté.  
 Je sais, combien je dois, à cet honneur insigne,  
@@ -2947,26 +2947,26 @@ Et vois, malgré l'effort dont je suis combattu,
 Ce que vaut votre fille, et quelle est sa vertu :  
 Aussi veux-je tâcher…  
 
-    ANSELME
-On ouvre cette porte,  
+    ANSELME.
+        On ouvre cette porte,  
 Retirons-nous plus loin, de crainte qu'il n'en sorte  
 Quelque secret poison dont vous seriez surpris.  
 
 
-### Scène IV
+### Scène IV.
 Lélie, Mascarille.
 
 
-    MASCARILLE
+    MASCARILLE.
 Bientôt de notre fourbe on verra le débris,  
 Si vous continuez des sottises si grandes.  
 
-    LÉLIE
+    LÉLIE.
 Dois-je éternellement ouïr tes réprimandes ?  
 De quoi te peux-tu plaindre ? Ai-je pas réussi  
 En tout ce que j'ai dit depuis…  
 
-    MASCARILLE
+    MASCARILLE.
 Coussi, coussi ;  
 Témoin les Turcs par vous appelés hérétiques,  
 Et que vous assurez, par serments authentiques,  
@@ -2977,21 +2977,21 @@ Près de Célie, il est ainsi que la bouillie,
 Qui par un trop grand feu s'enfle, croît jusqu'aux bords,  
 Et de tous les côtés se répand au dehors.  
 
-    LÉLIE
+    LÉLIE.
 Pourrait-on se forcer à plus de retenue !  
 Je ne l'ai presque point encore entretenue.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, mais ce n'est pas tout que de ne parler pas ;  
 Par vos gestes, durant un moment de repas,  
 Vous avez aux soupçons donné plus de matière,  
 Que d'autres ne feraient dans une année entière.  
 
-    LÉLIE
+    LÉLIE.
 Et comment donc ?  
 
-    MASCARILLE
-Comment ? chacun a pu le voir.  
+    MASCARILLE.
+        Comment ? chacun a pu le voir.  
 À table, où Trufaldin l'oblige de se seoir,  
 Vous n'avez toujours fait qu'avoir les yeux sur elle ;  
 Rouge, tout interdit, jouant de la prunelle,  
@@ -3018,7 +3018,7 @@ Après le mouvement de la sienne qui roule,
 Je pensais retenir toutes vos actions,  
 En faisant de mon corps mille contorsions.  
 
-    LÉLIE
+    LÉLIE.
 Mon Dieu ! qu'il t'est aisé de condamner des choses,  
 Dont tu ne ressens point les agréables causes !  
 Je veux bien néanmoins, pour te plaire une fois,  
@@ -3026,29 +3026,29 @@ Faire force à l'amour qui m'impose des lois :
 Désormais…  
 
 
-### Scène V
+### Scène V.
 Lélie, Mascarille, Trufaldin.
 
 
-    MASCARILLE
-Nous parlions des fortunes d'Horace.  
+    MASCARILLE.
+        Nous parlions des fortunes d'Horace.  
 
-    TRUFALDIN
+    TRUFALDIN.
 C'est bien fait. Cependant me ferez-vous la grâce  
 Que je puisse lui dire un seul mot en secret ?  
 
-    LÉLIE
+    LÉLIE.
 Il faudrait autrement être fort indiscret.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Écoute, sais-tu bien ce que je viens de faire ?  
 
-    MASCARILLE
+    MASCARILLE.
 Non : mais si vous voulez je ne tarderai guère,  
 Sans doute à le savoir.  
 
-    TRUFALDIN
-D'un chêne grand et fort,  
+    TRUFALDIN.
+        D'un chêne grand et fort,  
 Dont près de deux cents ans ont fait déjà le sort,  
 Je viens de détacher une branche admirable,  
 Choisie expressément, de grosseur raisonnable,  
@@ -3058,20 +3058,20 @@ Moins gros par l'un des bouts, mais plus que trente gaules
 Propre, comme je pense, à rosser les épaules ;  
 Car il est bien en main, vert, noueux et massif.  
 
-    MASCARILLE
+    MASCARILLE.
 Mais, pour qui, je vous prie, un tel préparatif ?  
 
-    TRUFALDIN
+    TRUFALDIN.
 Pour toi premièrement, puis pour ce bon apôtre,  
 Qui veut m'en donner d'une et m'en jouer d'un autre :  
 Pour cet Arménien, ce Marchand déguisé,  
 Introduit sous l'appât d'un conte supposé.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ? vous ne croyez pas ?…  
 
-    TRUFALDIN
-Ne cherche point d'excuse,  
+    TRUFALDIN.
+        Ne cherche point d'excuse,  
 Lui-même heureusement a découvert sa ruse,  
 Et disant à Célie, en lui serrant la main,  
 Que pour elle il venait sous ce prétexte vain :  
@@ -3080,74 +3080,74 @@ Laquelle a tout ouï parole pour parole ;
 Et je ne doute point, quoiqu'il n'en ait rien dit,  
 Que tu ne sois de tout le complice maudit.  
 
-    MASCARILLE
+    MASCARILLE.
 Ah ! vous me faites tort ! s'il faut qu'on vous affronte ;  
 Croyez qu'il m'a trompé le premier à ce conte.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Veux-tu me faire voir que tu dis vérité ?  
 Qu'à le chasser mon bras soit du tien assisté ;  
 Donnons-en à ce fourbe, et du long et du large,  
 Et de tout crime après mon esprit te décharge.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui-da, très volontiers, je l'épousterai bien,  
 Et par là vous verrez que je n'y trempe en rien.  
 Ah ! vous serez rossé, Monsieur de l'Arménie,  
 Qui toujours gâtez tout.  
 
 
-### Scène VI
+### Scène VI.
 Lélie, Trufaldin, Mascarille.
 
 
-    TRUFALDIN
-Un mot, je vous supplie.  
+    TRUFALDIN.
+        Un mot, je vous supplie.  
 Donc, monsieur l'imposteur, vous osez aujourd'hui  
 Duper un honnête homme, et vous jouer de lui ?  
 
-    MASCARILLE
+    MASCARILLE.
 Feindre avoir vu son fils en une autre contrée !  
 Pour vous donner chez lui plus aisément entrée.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Vidons, vidons sur l'heure.  
 
-    LÉLIE
-Ah coquin !  
+    LÉLIE.
+    Ah coquin !  
 
-    MASCARILLE
-C'est ainsi  
+    MASCARILLE.
+        C'est ainsi  
 Que les fourbes…  
 
-    LÉLIE
-Bourreau !  
+    LÉLIE.
+    Bourreau !  
 
-    MASCARILLE
-Sont ajustés ici.  
+    MASCARILLE.
+        Sont ajustés ici.  
 Garde-moi bien cela.  
 
-    LÉLIE
-Quoi donc ? je serais homme…  
+    LÉLIE.
+        Quoi donc ? je serais homme…  
 
-    MASCARILLE
+    MASCARILLE.
 Tirez, tirez, vous dis-je, ou bien je vous assomme.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Voilà qui me plaît fort ; rentre, je suis content.  
 
-    LÉLIE
+    LÉLIE.
 À moi ! par un valet cet affront éclatant !  
 L'aurait-on pu prévoir l'action de ce traître !  
 Qui vient insolemment de maltraiter son maître.  
 
-    MASCARILLE
+    MASCARILLE.
 Peut-on vous demander comme va votre dos ?  
 
-    LÉLIE
+    LÉLIE.
 Quoi ? tu m'oses encor tenir un tel propos.  
 
-    MASCARILLE
+    MASCARILLE.
 Voilà, voilà que c'est, de ne voir pas Jeannette,  
 Et d'avoir en tout temps une langue indiscrète ;  
 Mais pour cette fois-ci, je n'ai point de courroux,  
@@ -3155,43 +3155,43 @@ Je cesse d'éclater, de pester contre vous ;
 Quoique de l'action l'imprudence soit haute,  
 Ma main sur votre échine a lavé votre faute.  
 
-    LÉLIE
+    LÉLIE.
 Ah ! je me vengerai de ce trait déloyal.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous vous êtes causé vous-même tout le mal.  
 
-    LÉLIE
+    LÉLIE.
 Moi !  
 
-    MASCARILLE
-Si vous n'étiez pas une cervelle folle,  
+    MASCARILLE.
+        Si vous n'étiez pas une cervelle folle,  
 Quand vous avez parlé naguère à votre idole,  
 Vous auriez aperçu Jeannette sur vos pas,  
 Dont l'oreille subtile a découvert le cas.  
 
-    LÉLIE
+    LÉLIE.
 On aurait pu surprendre un mot dit à Célie !  
 
-    MASCARILLE
+    MASCARILLE.
 Et d'où doncques viendrait cette prompte sortie ?  
 Oui, vous n'êtes dehors que par votre caquet ;  
 Je ne sais si souvent vous jouez au piquet ;  
 Mais, au moins, faites-vous des écarts admirables.  
 
-    LÉLIE
+    LÉLIE.
 Oh ! le plus malheureux de tous les misérables !  
 Mais encore, pourquoi me voir chassé par toi ?  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne fis jamais mieux que d'en prendre l'emploi ;  
 Par là, j'empêche au moins que de cet artifice  
 Je ne sois soupçonné d'être auteur, ou complice.  
 
-    LÉLIE
+    LÉLIE.
 Tu devais donc, pour toi, frapper plus doucement.  
 
-    MASCARILLE
+    MASCARILLE.
 Quelque sot, Trufaldin lorgnait exactement.  
 Et puis je vous dirai, sous ce prétexte utile,  
 Je n'étais point fâché d'évaporer ma bile :  
@@ -3202,55 +3202,55 @@ Les coups sur votre râble assenés avec joie,
 Je vous promets aidé par le poste où je suis,  
 De contenter vos vœux avant qu'il soit deux nuits.  
 
-    LÉLIE
+    LÉLIE.
 Quoique ton traitement ait eu trop de rudesse,  
 Qu'est-ce que dessus moi ne peut cette promesse ?  
 
-    MASCARILLE
+    MASCARILLE.
 Vous le promettez donc ?  
 
-    LÉLIE
-Oui, je te le promets.  
+    LÉLIE.
+        Oui, je te le promets.  
 
-    MASCARILLE
+    MASCARILLE.
 Ce n'est pas encor tout, promettez que jamais  
 Vous ne vous mêlerez dans quoi que j'entreprenne.  
 
-    LÉLIE
+    LÉLIE.
 Soit.  
 
-    MASCARILLE
-Si vous y manquez, votre fièvre quartaine.  
+    MASCARILLE.
+        Si vous y manquez, votre fièvre quartaine.  
 
-    LÉLIE
+    LÉLIE.
 Mais tiens‑moi donc parole, et songe à mon repos.  
 
-    MASCARILLE
+    MASCARILLE.
 Allez quitter l'habit, et graisser votre dos.  
 
-    LÉLIE
+    LÉLIE.
 Faut-il que le malheur qui me suit à la trace,  
 Me fasse voir toujours disgrâce sur disgrâce ?  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ! vous n'êtes pas loin ! sortez vite d'ici ;  
 Mais, surtout, gardez‑vous de prendre aucun souci :  
 Puisque je fais pour vous, que cela vous suffise ;  
 N'aidez point mon projet de la moindre entreprise…  
 Demeurez en repos.  
 
-    LÉLIE
-Oui, va, je m'y tiendrai.  
+    LÉLIE.
+        Oui, va, je m'y tiendrai.  
 
-    MASCARILLE
+    MASCARILLE.
 Il faut voir maintenant quel biais je prendrai.  
 
 
-### Scène VII
+### Scène VII.
 Ergaste, Mascarille.
 
 
-    ERGASTE
+    ERGASTE.
 Mascarille, je viens te dire une nouvelle,  
 Qui donne à tes desseins une atteinte cruelle ;  
 À l'heure que je parle, un jeune Égyptien,  
@@ -3259,7 +3259,7 @@ Arrive accompagné d'une vieille fort hâve,
 Et vient chez Trufaldin racheter cette esclave  
 Que vous vouliez. Pour elle, il paraît fort zélé.  
 
-    MASCARILLE
+    MASCARILLE.
 Sans doute, c'est l'amant dont Célie a parlé.  
 Fut-il jamais destin plus brouillé que le nôtre !  
 Sortant d'un embarras, nous entrons dans un autre.  
@@ -3287,18 +3287,18 @@ Et du plus innocent, toujours à leur profit
 La bourse est criminelle, et paie son délit.  < Fin du quatrième Acte. >
 
 
-## Acte V
+## Acte V.
 
 
-### Scène Première
+### Scène Première.
 Mascarille, Ergaste.
 
 
-    MASCARILLE
+    MASCARILLE.
 Ah chien ! ah double chien ! mâtine de cervelle,  
 Ta persécution sera-t-elle éternelle ?  
 
-    ERGASTE
+    ERGASTE.
 Par les soins vigilants de l'Exempt balafré,  
 Ton affaire allait bien, le drôle était coffré,  
 Si ton Maître au moment ne fût venu lui-même,  
@@ -3312,14 +3312,14 @@ Qui sont gens d'ordinaire à craindre pour leurs corps,
 Qu'à l'heure que je parle ils sont encore en fuite,  
 Et pensent tous avoir un Lélie à leur suite.  
 
-    MASCARILLE
+    MASCARILLE.
 Le traître ne sait pas que cet Égyptien,  
 Est déjà là‑dedans pour lui ravir son bien.  
 
-    ERGASTE
+    ERGASTE.
 Adieu, certaine affaire à te quitter m'oblige.  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, je suis stupéfait de ce dernier prodige ;  
 On dirait, et pour moi, j'en suis persuadé,  
 Que ce démon brouillon, dont il est possédé,  
@@ -3339,11 +3339,11 @@ Oh ! Dieu, qu'en peu de temps on a vu d'aventures !
 Et qu'un fourbe est contraint de prendre de figures !  
 
 
-### Scène II
+### Scène II.
 Célie, Andrès.
 
 
-    ANDRÈS
+    ANDRÈS.
 Vous le savez, Célie, il n'est rien que mon cœur  
 N'ait fait, pour vous prouver l'excès de son ardeur ;  
 Chez les Vénitiens, dès un assez jeune âge,  
@@ -3375,7 +3375,7 @@ Que si, comme devant, il vous faut encor suivre,
 J'y consens, et mon cœur n'ambitionnera  
 Que d'être auprès de vous tout ce qu'il vous plaira.  
 
-    CÉLIE
+    CÉLIE.
 Votre zèle, pour moi, visiblement éclate ;  
 Pour en paraître triste, il faudrait être ingrate ;  
 Et mon visage aussi par son émotion,  
@@ -3385,112 +3385,112 @@ Et, si j'avais sur vous quelque peu de puissance,
 Notre voyage, au moins, pour trois ou quatre jours,  
 Attendrait que ce mal eût pris un autre cours.  
 
-    ANDRÈS
+    ANDRÈS.
 Autant que vous voudrez, faites qu'il se diffère,  
 Toutes mes volontés ne butent qu'à vous plaire ;  
 Cherchons une maison à vous mettre en repos,  
 L'écriteau que voici s'offre tout à propos.  
 
 
-### Scène III
+### Scène III.
 Mascarille, Célie, Andrès
 
 
-    ANDRÈS
+    ANDRÈS.
 Seigneur Suisse, êtes-vous de ce logis le maître ?  
 
-    MASCARILLE
+    MASCARILLE.
 Moi, pour serfir à fous.  
 
-    ANDRÈS
-Pourrons-nous y bien être ?  
+    ANDRÈS.
+        Pourrons-nous y bien être ?  
 
-    MASCARILLE
+    MASCARILLE.
 Oui, moi pour d'estrancher chappon champre garni ;  
 Mais ché non point locher te gent te méchant vi.  
 
-    ANDRÈS
+    ANDRÈS.
 Je crois votre maison franche de tout ombrage.  
 
-    MASCARILLE 
+    MASCARILLE.
 Fous nouviau dant sti fil, moi foir à la fissage.  
 
-    ANDRÈS
+    ANDRÈS.
 Oui.  
 
-    MASCARILLE
-La matame est-il mariage al montsieur ?  
+    MASCARILLE.
+        La matame est-il mariage al montsieur ?  
 
-    ANDRÈS
+    ANDRÈS.
 Quoi ?  
 
-    MASCARILLE
-S'il être son fame, ou s'il être son sœur ?  
+    MASCARILLE.
+        S'il être son fame, ou s'il être son sœur ?  
 
-    ANDRÈS
+    ANDRÈS.
 Non.  
 
-    MASCARILLE
-Mon foi, pien choli : finir pour marchandisse,  
+    MASCARILLE.
+        Mon foi, pien choli : finir pour marchandisse,  
 Ou pien pour temanter à la Palais choustice ?  
 La procès, il fault rien, il coûter tant tarchant ;  
 La procurair larron, la focat pien méchant.  
 
-    ANDRÈS
+    ANDRÈS.
 Ce n'est pas pour cela.  
 
-    MASCARILLE
-Fous tonc mener sti file,  
+    MASCARILLE.
+        Fous tonc mener sti file,  
 Pour fenir pourmener, et recarter la file ?  
 
-    ANDRÈS
+    ANDRÈS.
 Il n'importe. Je suis à vous dans un moment.  
 Je vais faire venir la vieille promptement,  
 Contremander aussi notre voiture prête.  
 
-    MASCARILLE
+    MASCARILLE.
 Li ne porte pas pien ?  
 
-    ANDRÈS
-Elle a mal à la tête.  
+    ANDRÈS.
+        Elle a mal à la tête.  
 
-    MASCARILLE
+    MASCARILLE.
 Moi, chavoir de pon fin, et de fromage pon.  
 Entre fous, entre fous, dans mon petit maisson.  
 
 
-### Scène IV
+### Scène IV.
 Lélie, Andrès.
 
 
-    LÉLIE
+    LÉLIE.
 Quel que soit le transport d'une âme impatiente,  
 Ma parole m'engage à rester en attente ;  
 À laisser faire un autre, et voir sans rien oser,  
 Comme de mes destins le Ciel veut disposer.  
 Demandiez-vous quelqu'un dedans cette demeure ?  
 
-    ANDRÈS
+    ANDRÈS.
 C'est un logis garni que j'ai pris tout à l'heure.  
 
-    LÉLIE
+    LÉLIE.
 À mon père pourtant, la maison appartient,  
 Et mon valet la nuit, pour la garder s'y tient.  
 
-    ANDRÈS
+    ANDRÈS.
 Je ne sais, l'écriteau marque au moins qu'on la loue :  
 Lisez.  
 
-    LÉLIE
-Certes, ceci me surprend, je l'avoue ;  
+    LÉLIE.
+        Certes, ceci me surprend, je l'avoue ;  
 Qui diantre l'aurait mis ? et par quel intérêt ?…  
 Ah ! ma foi, je devine à peu près ce que c'est :  
 Cela ne peut venir que de ce que j'augure.  
 
-    ANDRÈS
+    ANDRÈS.
 Peut-on vous demander quelle est cette aventure ?  
 
-    LÉLIE
+    LÉLIE.
 Je voudrais à tout autre en faire un grand secret ;  
 Mais, pour vous, il n'importe, et vous serez discret ;  
 Sans doute, l'écriteau que vous voyez paraître,  
@@ -3501,130 +3501,130 @@ Pour mettre en mon pouvoir certaine Égyptienne,
 Dont j'ai l'âme piquée, et qu'il faut que j'obtienne :  
 Je l'ai déjà manqué, et même plusieurs coups.  
 
-    ANDRÈS
+    ANDRÈS.
 Vous l'appelez ?  
 
-    LÉLIE
-Célie.  
+    LÉLIE.
+    Célie.  
 
-    ANDRÈS
-Hé ! que ne disiez-vous !  
+    ANDRÈS.
+        Hé ! que ne disiez-vous !  
 Vous n'aviez qu'à parler ; je vous aurais sans doute,  
 Épargné tous les soins que ce projet vous coûte.  
 
-    LÉLIE
+    LÉLIE.
 Quoi ? vous la connaissez ?  
 
-    ANDRÈS
-C'est moi, qui maintenant  
+    ANDRÈS.
+        C'est moi, qui maintenant  
 Viens de la racheter.  
 
-    LÉLIE
-Oh ! discours surprenant !  
+    LÉLIE.
+        Oh ! discours surprenant !  
 
-    ANDRÈS
+    ANDRÈS.
 Sa santé de partir ne nous pouvant permettre,  
 Au logis que voilà je venais de la mettre ;  
 Et je suis très ravi dans cette occasion,  
 Que vous m'ayez instruit de votre intention.  
 
-    LÉLIE
+    LÉLIE.
 Quoi ? j'obtiendrais de vous le bonheur que j'espère ?  
 Vous pourriez ?…  
 
-    ANDRÈS
-Tout à l'heure on va vous satisfaire.  
+    ANDRÈS.
+        Tout à l'heure on va vous satisfaire.  
 
-    LÉLIE
+    LÉLIE.
 Que pourrais‑je vous dire ? et quel remerciement ?…  
 
-    ANDRÈS
+    ANDRÈS.
 Non, ne m'en faites point, je n'en veux nullement.  
 
 
-### Scène V
+### Scène V.
 Mascarille, Lélie, Andrès.
 
 
-    MASCARILLE
+    MASCARILLE.
 Hé bien ! ne voilà pas mon enragé de maître !  
 Il nous va faire encor quelque nouveau bissêtre.  
 
-    LÉLIE
+    LÉLIE.
 Sous ce grotesque habit, qui l'aurait reconnu ?  
 Approche, Mascarille, et sois le bienvenu.  
 
-    MASCARILLE
+    MASCARILLE.
 Moi souis ein chant honneur, moi non point Maquerille,  
 Chai point fentre chamais le fame ni le fille.  
 
-    LÉLIE
+    LÉLIE.
 Le plaisant baragouin ! il est bon, sur ma foi.  
 
-    MASCARILLE
+    MASCARILLE.
 Alle fous pourmener, sans toi rire te moi.  
 
-    LÉLIE
+    LÉLIE.
 Va, va, lève le masque, et reconnais ton maître.  
 
-    MASCARILLE
+    MASCARILLE.
 Partieu, tiaple, mon foi jamais toi chai connaître.  
 
-    LÉLIE
+    LÉLIE.
 Tout est accommodé, ne te déguise point.  
 
-    MASCARILLE
+    MASCARILLE.
 Si toi point en aller, chai paille ein cou te point.  
 
-    LÉLIE
+    LÉLIE.
 Ton jargon Allemand est superflu, te dis-je ;  
 Car nous sommes d'accord, et sa bonté m'oblige :  
 J'ai tout ce que mes vœux lui pouvaient demander,  
 Et tu n'as pas sujet de rien appréhender.  
 
-    MASCARILLE
+    MASCARILLE.
 Si vous êtes d'accord par un bonheur extrême,  
 Je me dessuisse donc, et redeviens moi-même.  
 
-    ANDRÈS
+    ANDRÈS.
 Ce valet vous servait avec beaucoup de feu ;  
 Mais je reviens à vous, demeurez quelque peu.  
 
-    LÉLIE
+    LÉLIE.
 Hé bien, que diras-tu ?  
 
-    MASCARILLE
-Que j'ai l'âme ravie,  
+    MASCARILLE.
+        Que j'ai l'âme ravie,  
 De voir d'un beau succès notre peine suivie.  
 
-    LÉLIE
+    LÉLIE.
 Tu feignais à sortir de ton déguisement ?  
 Et ne pouvais me croire en cet événement ?  
 
-    MASCARILLE
+    MASCARILLE.
 Comme je vous connais, j'étais dans l'épouvante,  
 Et trouve l'aventure aussi fort surprenante.  
 
-    LÉLIE
+    LÉLIE.
 Mais, confesse, qu'enfin, c'est avoir fait beaucoup ;  
 Au moins, j'ai réparé mes fautes à ce coup,  
 Et j'aurai cet honneur d'avoir fini l'ouvrage.  
 
-    MASCARILLE
+    MASCARILLE.
 Soit, vous aurez été bien plus heureux que sage.  
 
 
-### Scène VI
+### Scène VI.
 Célie, Mascarille, Lélie, Andrès
 
 
-    ANDRÈS
+    ANDRÈS.
 N'est-ce pas là l'objet dont vous m'avez parlé ?  
 
-    LÉLIE
+    LÉLIE.
 Ah ! quel bonheur au mien pourrait être égalé !  
 
-    ANDRÈS
+    ANDRÈS.
 Il est vrai, d'un bienfait je vous suis redevable,  
 Si je ne l'avouais, je serais condamnable :  
 Mais enfin, ce bienfait aurait trop de rigueur,  
@@ -3634,13 +3634,13 @@ Si je dois à ce prix vous acquitter ma dette ;
 Vous êtes généreux, vous ne le voudriez pas.  
 Adieu pour quelques jours, retournons sur nos pas.  
 
-    MASCARILLE
+    MASCARILLE.
 Je ris, et toutefois je n'en ai guère envie,  
 Vous voilà bien d'accord, il vous donne Célie.  
 Et… Vous m'entendez bien.  
 
-    LÉLIE
-C'est trop, je ne veux plus  
+    LÉLIE.
+        C'est trop, je ne veux plus  
 Te demander pour moi de secours superflus ;  
 Je suis un chien, un traître, un bourreau détestable !  
 Indigne d'aucun soin, de rien faire incapable.  
@@ -3649,7 +3649,7 @@ Qui ne saurait souffrir que l'on le rende heureux !
 Après tant de malheurs, après mon imprudence,  
 Le trépas me doit seul prêter son assistance.  
 
-    MASCARILLE
+    MASCARILLE.
 Voilà le vrai moyen d'achever son destin ;  
 Il ne lui manque plus que de mourir, enfin,  
 Pour le couronnement de toutes ses sottises ;  
@@ -3662,11 +3662,11 @@ Et les difficultés dont on est combattu,
 Sont les dames d'atour qui parent la vertu.  
 
 
-### Scène VII
+### Scène VII.
 Mascarille, Célie.
 
 
-    CÉLIE
+    CÉLIE.
 Quoi que tu veuilles dire, et que l'on se propose,  
 De ce retardement j'attends fort peu de chose ;  
 Ce qu'on voit de succès peut bien persuader  
@@ -3688,7 +3688,7 @@ Que j'en fais aux désirs qu'il met en évidence :
 Sur ces difficultés qu'oppose mon devoir,  
 Juge ce que tu peux te permettre d'espoir.  
 
-    MASCARILLE
+    MASCARILLE.
 Ce sont, à dire vrai, de très fâcheux obstacles,  
 Et je ne sais point l'art de faire des miracles :  
 Mais je vais employer mes efforts plus puissants,  
@@ -3697,11 +3697,11 @@ Pour tâcher de trouver un biais salutaire ;
 Et vous dirai bientôt ce qui se pourra faire.  
 
 
-### Scène VIII
+### Scène VIII.
 Célie, Hippolyte.
 
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Depuis votre séjour, les Dames de ces lieux  
 Se plaignent justement des larcins de vos yeux ;  
 Si vous leur dérobez leurs conquêtes plus belles,  
@@ -3717,7 +3717,7 @@ Un seul m'eût consolé de la perte des autres :
 Mais qu'inhumainement vous me les ôtiez tous,  
 C'est un dur procédé, dont je me plains à vous.  
 
-    CÉLIE
+    CÉLIE.
 Voilà d'un air galant faire une raillerie ;  
 Mais, épargnez un peu celle qui vous en prie :  
 Vos yeux, vos propres yeux, se connaissent trop bien,  
@@ -3725,19 +3725,19 @@ Pour pouvoir de ma part redouter jamais rien ;
 Ils sont fort assurés du pouvoir de leurs charmes,  
 Et ne prendront jamais de pareilles alarmes.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Pourtant, en ce discours je n'ai rien avancé,  
 Qui dans tous les esprits ne soit déjà passé ;  
 Et, sans parler du reste, on sait bien que Célie  
 A causé des désirs à Léandre et Lélie.  
 
-    CÉLIE
+    CÉLIE.
 Je crois, qu'étant tombés dans cet aveuglement,  
 Vous vous consoleriez de leur perte aisément,  
 Et trouveriez pour vous l'amant peu souhaitable,  
 Qui d'un si mauvais choix se trouverait capable.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Au contraire, j'agis d'un air tout différent,  
 Et trouve en vos beautés un mérite si grand ;  
 J'y vois tant de raisons capables de défendre  
@@ -3748,31 +3748,31 @@ Et le vais voir tantôt, sans haine et sans colère,
 Ramené sous mes lois par le pouvoir d'un père.  
 
 
-### Scène IX
+### Scène IX.
 Mascarille, Célie, Hippolyte.
 
 
-    MASCARILLE
+    MASCARILLE.
 Grande ! grande nouvelle, et succès surprenant !  
 Que ma bouche vous vient annoncer maintenant.  
 
-    CÉLIE
+    CÉLIE.
 Qu'est‑ce donc ?  
 
-    MASCARILLE
-Écoutez, voici, sans flatterie…  
+    MASCARILLE.
+        Écoutez, voici, sans flatterie…  
 
-    CÉLIE
+    CÉLIE.
 Quoi ?  
 
-    MASCARILLE
-La fin d'une vraie et pure Comédie ;  
+    MASCARILLE.
+        La fin d'une vraie et pure Comédie ;  
 La vieille Égyptienne à l'heure même…  
 
-    CÉLIE
-Hé bien ?  
+    CÉLIE.
+        Hé bien ?  
 
-    MASCARILLE
+    MASCARILLE.
 Passait dedans la place, et ne songeait à rien,  
 Alors qu'une autre vieille assez défigurée,  
 L'ayant de près, au nez, longtemps considérée ;  
@@ -3854,10 +3854,10 @@ Et pour mettre une joie entière en sa famille,
 Pour le nouvel Horace a proposé sa fille.  
 Voyez que d'incidents à la fois enfantés.  
 
-    CÉLIE
+    CÉLIE.
 Je demeure immobile à tant de nouveautés.  
 
-    MASCARILLE
+    MASCARILLE.
 Tous viennent sur mes pas, hors les deux championnes,  
 Qui du combat encor remettent leurs personnes :  
 Léandre est de la troupe, et votre père aussi :  
@@ -3865,44 +3865,44 @@ Moi, je vais avertir mon maître de ceci ;
 Et que, lorsqu'à ses vœux on croit le plus d'obstacle,  
 Le Ciel en sa faveur produit comme un miracle.  
 
-    HIPPOLYTE
+    HIPPOLYTE.
 Un tel ravissement rend mes esprits confus,  
 Que pour mon propre sort je n'en aurais pas plus.  
 Mais les voici venir.  
 
 
-### Scène X
+### Scène X.
 Trufaldin, Anselme, Pandolfe, Andrès, Célie, Hippolyte, Léandre.
 
 
-    TRUFALDIN
-Ah ! ma fille.  
+    TRUFALDIN.
+    Ah ! ma fille.  
 
-    CÉLIE
-Ah ! mon père.  
+    CÉLIE.
+        Ah ! mon père.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Sais-tu déjà comment le Ciel nous est prospère ?  
 
-    CÉLIE
+    CÉLIE.
 Je viens d'entendre ici ce succès merveilleux.  
 
-    HIPPOLYTE *à Léandre*
+    HIPPOLYTE *à Léandre*.
 En vain vous parleriez pour excuser vos feux,  
 Si j'ai devant les yeux ce que vous pouvez dire.  
 
-    LÉANDRE
+    LÉANDRE.
 Un généreux pardon est ce que je désire ;  
 Mais j'atteste les Cieux, qu'en ce retour soudain  
 Mon père fait bien moins que mon propre dessein.  
 
-    ANDRÈS *à Célie*
+    ANDRÈS *à Célie*.
 Qui l'aurait jamais cru que cette ardeur si pure,  
 Pût être condamnée un jour par la nature ?  
 Toutefois, tant d'honneur la sut toujours régir,  
 Qu'en y changeant fort peu, je puis la retenir.  
 
-    CÉLIE
+    CÉLIE.
 Pour moi, je me blâmais, et croyais faire faute,  
 Quand je n'avais pour vous qu'une estime très haute ;  
 Je ne pouvais savoir quel obstacle puissant  
@@ -3910,20 +3910,20 @@ M'arrêtait sur un pas si doux et si glissant,
 Et détournait mon cœur de l'aveu d'une flamme,  
 Que mes sens s'efforçaient d'introduire en mon âme.  
 
-    TRUFALDIN
+    TRUFALDIN.
 Mais en te recouvrant que diras-tu de moi ?  
 Si je songe aussitôt à me priver de toi ?  
 Et t'engage à son fils sous les lois d'hyménée ?  
 
-    CÉLIE
+    CÉLIE.
 Que de vous maintenant dépend ma destinée.  
 
 
-### Scène XI
+### Scène XI.
 Trufaldin, Mascarille, Lélie, Anselme, Pandolfe, Célie, Andrès, Hippolyte, Léandre
 
 
-    MASCARILLE
+    MASCARILLE.
 Voyons si votre diable aura bien le pouvoir  
 De détruire à ce coup un si solide espoir ;  
 Et si contre l'excès du bien qui vous arrive,  
@@ -3931,43 +3931,43 @@ Vous armerez encor votre imaginative.
 Par un coup imprévu des destins les plus doux,  
 Vos vœux sont couronnés, et Célie est à vous.  
 
-    LÉLIE
+    LÉLIE.
 Croirai-je que du Ciel la puissance absolue ?…  
 
-    TRUFALDIN
+    TRUFALDIN.
 Oui, mon gendre, il est vrai.  
 
-    PANDOLFE
-La chose est résolue.  
+    PANDOLFE.
+        La chose est résolue.  
 
-    ANDRÈS
+    ANDRÈS.
 Je m'acquitte par là de ce que je vous dois.  
 
-    LÉLIE *à mascarille*
+    LÉLIE *à mascarille*.
 Il faut que je t'embrasse, et mille et mille fois,  
 Dans cette joie…  
 
-    MASCARILLE
-Ahi, ahi ! doucement, je vous prie,  
+    MASCARILLE.
+        Ahi, ahi ! doucement, je vous prie,  
 Il m'a presque étouffé, je crains fort pour Célie.  
 Si vous la caressez avec tant de transport :  
 De vos embrassements on se passerait fort.  
 
-    TRUFALDIN *à lélie*
+    TRUFALDIN *à lélie*.
 Vous savez le bonheur que le Ciel me renvoie ;  
 Mais puisqu'un même jour nous met tous dans la joie,  
 Ne nous séparons point qu'il ne soit terminé,  
 Et que son père aussi nous soit vite amené.  
 
-    MASCARILLE
+    MASCARILLE.
 Vous voilà tous pourvus ; n'est-il point quelque fille,  
 Qui pût accommoder le pauvre Mascarille ;  
 À voir chacun se joindre à sa chacune ici,  
 J'ai des démangeaisons de mariage aussi.  
 
-    ANSELME
+    ANSELME.
 J'ai ton fait.  
 
-    MASCARILLE
-Allons donc ; et que les Cieux prospères  
+    MASCARILLE.
+        Allons donc ; et que les Cieux prospères  
 Nous donnent des enfants dont nous soyons les pères.  < Fin du cinquième et dernier Acte >

@@ -16,17 +16,17 @@ A PARIS, CHEZ PIERRE DAVID, au Palais sur le petit Perron de la grand ' Salle du
 Édition critique établie par Anne-Karine Messonnet sous la direction de Georges Forestier (1997)
 
 
-# Introduction générale
+# Introduction générale.
 
 
-## Aspects de la vie et de la carrière dramatique de Pierre Du Ryer (1605-1658)
+## Aspects de la vie et de la carrière dramatique de Pierre Du Ryer (1605-1658).
 
 Isaac Du Ryer, père de Pierre du Ryer, appartient à la petite noblesse ; en raison de sa verve il se taille une réputation de poète réaliste et d'auteur dramatique. Il influencera son fils dans son goût pour la poésie lyrique et dramatique. Les nombreux travaux de Pierre Du Ryer, sa connaissance perçue dans ses premiers ouvrages de la culture antique révèlent, chez ce jeune écrivain, une bonne fréquentation des classiques. Secrétaire de la chambre du roi en 1621, il commence sa carrière poétique en 1624 par des vers latins dédiés à son père : *Patri suo*. En 1628, Pierre Du Ryer vit à Paris et fréquente la Cour ainsi que les milieux intellectuels dans lesquels il fut introduit par son père. Il étudie le droit et devient avocat en 1629. Ainsi le jeune Du Ryer appartient-il aux gens de lettres et de culture familiers de la cour de Gaston d'Orléans (il devient secrétaire du Duc de Vendôme en 1634). Il y est sans doute influencé par les idées nouvelles qui mûrissent dans les salons. Mais dès 1621 sa charge de secrétaire du roi lui impose de se montrer prudent sur des relations pouvant paraître suspectes au pouvoir établi. Outre les salons, la Cour, sans toutefois atteindre la perfection, se distingue dans les années 1625-1630 comme le centre de l'élégance et des belles manières. Il existe cependant des foyers de tension puisqu'« une aristocratie en révolte larvée contre le pouvoir royal » [1] se fait connaître. Du Ryer, Corneille, Mairet et bien d'autres eurent pour protecteurs les grands seigneurs de ce royaume : Vendôme, Longueville, d'Orléans… Ces nobles opposaient à l'autorité de Richelieu une politique hautaine et orgueilleuse d'indépendance dont se nourrissaient les poètes qui les fréquentaient. Cet écrivain encore inexpérimenté préside des réunions d'idéalistes dans des cabarets. Il se distingue rapidement comme le chef de file des jeunes auteurs du nouveau théâtre qui compte parmi ses membres G. Colletet, F. Ogier, Auvray, Mareschal, Rotrou et d'autres. Paris devient le centre où les esprits bouillonnent et où les plumes rendent la vie intellectuelle frénétique.
 
 Ces jeunes auteurs sont « unis par l'amitié, fortifiés par le sentiment d'entreprendre en commun une grande œuvre » (A. Adam) ; ils se soutiennent mutuellement. Grâce aux créations de quelques écrivains : *La Chryséide* de Mairet (1625), *Tyr et Sidon* (tragi-comédie de 1628) de J. de Schelandre, les pièces de Du Ryer et de Rotrou, le genre tragi-comique se développe. C'est avec la préface d'A. Mareschal à sa pièce : *La Généreuse allemande* [2] (1631), que la tragi-comédie, désormais reconnue, revendique son originalité et son indépendance par un refus des unités, un désir de modernité et d'adaptation au goût contemporain, une primauté de l'action sur le récit ainsi qu'un dénouement heureux. Tous ces traits, qui caractérisent les pièces créées pendant l'épanouissement du genre (1630-1642), se retrouvent dans les premières tragi-comédies de Du Ryer, Mairet… Devenue le genre dramatique le plus populaire, la tragi-comédie éclipse la pastorale, la tragédie et la comédie jusqu'aux environs de 1643.
 
 
-## Un successeur et un adversaire de Alexandre Hardy
+## Un successeur et un adversaire de Alexandre Hardy.
 
 Bien que ces auteurs soient les plus représentatifs du genre tragi-comique, c'est Alexandre Hardy qui popularise la tragi-comédie romanesque et en fait le genre dominant que ces jeunes écrivains illustrent. Hardy a en effet donné un public au théâtre du XVII*e* siècle en composant des pièces pour la scène, c'est à dire dans le but de les faire représenter, et non pour quelques érudits, « avec une constante préoccupation de l'effet, des nécessités et des conventions du théâtre » [3]. Il a permis de dégager les lois essentielles de ce genre; aussi les auteurs qui lui succédèrent n'eurent-ils plus qu'à ajouter quelques précisions aidant à la distinction des genres et à la détermination des conditions de classement. Il a donné aux novateurs des acteurs et un public, il a fixé les traits caractéristiques du genre et a montré la voie à ses successeurs.
 
@@ -35,12 +35,12 @@ Mais malgré toutes ces innovations, Hardy est un auteur de la vieille école et
 Ainsi, bien que ces auteurs soient des successeurs du vieil Hardy, ils s'opposent à lui en se faisant les porte-paroles d'une évolution irréversible du goût. Cette querelle oppose deux générations, deux conceptions de l'art théâtral, contre Hardy se dressent les premiers groupes littéraires, futurs « cercles » qui jalonnent l'histoire de l'évolution des idées et du goût au XVII*e* siècle. Ces jeunes écrivains voient dans le principe moderniste un principe de liberté, et A. Mareschal, dans *La Généreuse allemande* en 1631, défend la liberté de l'art dramatique contre les théoriciens qui veulent l'asservir. Pour ces novateurs, la modernité réside dans la qualité des pensées et des sentiments incarnés par Théophile. Les héros imaginés par ces dramaturges agissent et pensent comme des hommes de 1630 c'est à dire comme des hommes modernes. De 1628 à 1633, Du Ryer et son groupe ont le sentiment de créer quelque chose de neuf, une forme dramatique nouvelle et parfaitement adaptée au goût de leur génération. La liberté qu'ils ont gagnée leur parait féconde en possibilités nouvelles.
 
 
-## Une seule règle : plaire au public
+## Une seule règle : plaire au public.
 
 Aux environs de 1640, sous l'influence du *Cid* (1637) de Corneille, les auteurs de tragi-comédies, par un plus grand respect de l'unité de temps et de lieu, se montrent davantage soucieux de régularité tout en gardant une intrigue complexe. Après avoir écrit de nombreuses tragi-comédies (*Arétaphile, Clitophon, Argénis et Poliarque, Lisandre et Caliste)*, à partir de 1639 Du Ryer ne se consacre plus qu'aux tragédies et ce pendant une dizaine d'années. Le genre tragique domine de 1643 à la Fronde, la tragi-comédie ne bénéficie que d'un faible regain d'intérêt de 1652 à 1658, elle décline puis disparaît au profit d'autres genres dramatiques vers 1672. Ce bref historique du genre tragi-comique permet de constater l'attention que porte du Ryer à l'évolution du goût du public. Le but d'un dramaturge est de charmer l'assistance et de la divertir, comme le déclare Du Ryer dans son épître à la Duchesse de Longueville, à laquelle il dédie *Lisandre et Caliste* : « j'auray subjet de croire que je vaux quelque chose si vous faites estat du dessein que j'ay de vous divertir… ». Un tel mot d'ordre implique la prise de conscience de la relativité et de l'évolution du goût du public. Aussi le dramaturge doit-il continuellement s'adapter s'il veut plaire et rester populaire. Ainsi peut-on expliquer l'évolution de Pierre Du Ryer qui passe de la tragi-comédie irrégulière ou de la comédie à la tragédie classique. Sous l'influence du *Cinna* de Corneille (jouée fin 1640- début 1641), Du Ryer écrit trois tragédies à dénouement heureux : *Esther* (1642), *Scévole* (1644) et *Thémistocle* (1647). Il ne néglige pas pour autant la tragédie pure avec *Lucrèce* (jouée en 1638) ou encore *Saül* (1642) ou la comédie avec *Les Vendanges de Suresne* (1633). Il écrit sa dernière tragi-comédie *Anaxandre* en 1653. Cet aperçu de la carrière dramatique de Du Ryer témoigne de l'attention particulière que porte l'auteur au climat de son époque en ce qui concerne la technique et la stylistique mais aussi la thématique théâtrales. Notre auteur expérimente les genres dramatiques majeurs de cette époque et montre par la même son désir de s'adapter au goût du public. Dans *Comédie et société sous Louis XIII* [5], Colette Scherer dresse une liste des différentes professions susceptibles de se rendre au théâtre dans la première moitié du XVIIème siècle. Il s'agissait pour les auteurs dramatiques de satisfaire le goût de l'auditoire pour le spectacle dramatique en exploitant particulièrement le jeu et le talent des acteurs. Ces derniers, soutenus par une déclamation ampoulée mais maîtrisée avec art, donnaient de l'éclat aux pièces les plus médiocres. Le public était composé de façon hétéroclite mais qu'il soit cultivé et sensible ou moins lettré, une même envie, un même désir animaient les spectateurs : prendre du plaisir en goûtant des sentiments raffinés ou en vibrant aux élans de l'héroïsme chevaleresque. Peu préoccupé par les règles, il cherchait des émotions fortes et du spectacle. Auteurs comme spectateurs affichent leur prédilection pour les actions complexes où les coups de théâtre se succèdent. Comme le dit F. Ogier dans sa préface à *Tyr et Sidon* (1628) : le public est « amateur de changement et de nouveauté » [6], mais se montre peu exigeant du point de vue littéraire. Les règles se sont peu à peu imposées à la tragi-comédie sans que Du Ryer et ses amis n'y montrent une quelconque résistance. Notre auteur a su adopter, face au rejet puis à l'engouement pour les règles, une sorte de voie moyenne et éclectique. Par tous ces aspects, Du Ryer mérite une place plus importante dans ce mouvement qui permit d'imposer une nouvelle façon de concevoir et de faire le théâtre dans les années 1630. Après avoir obtenu de son vivant un grand succès et des louanges presque unanimes, au point qu'il fut élu à l'Académie française en 1646, son œuvre fut délaissée après sa mort. Il faut cependant reconnaître que, par ses tentatives désordonnées, il a puisé dans tous les domaines du théâtre et a aidé à l'établissement du genre dramatique par excellence : la tragédie. Il mourut le 5 octobre 1658.
 
 
-# La pièce
+# La pièce.
 
 *Lisandre et Caliste* fut composée et créée en 1630 au théâtre de l'Hôtel de Bourgogne. Publiée le 5 août 1632 à Paris par Pierre David, la pièce reçut quelques retouches de Pierre Du Ryer qui donna lieu à une nouvelle édition en 1634. Ce remaniement de l'auteur indique sans doute le succès de la pièce, toutefois aucun détail n'a été fourni sur ce point, même par H.C. Lancaster. Nous savons seulement que, d'une manière générale, Pierre Du Ryer connut dès ses premières pièces : *Arétaphile* (jouée en 1628), *Clitophon* (jouée en 1629), *Argénis et Poliarque* (1631) ou encore *Lisandre et Caliste* (1630), un succès grandissant. En témoigne l'avertissement à *Arétaphile* :
 
@@ -54,7 +54,7 @@ Paris accueillit dans la même période deux troupes permanentes : le théâtre
 Au théâtre et dans les salons de cette époque, on appréciait les tragi-comédies que A. Mareschal en 1631 considérait comme « le divertissement le plus beau des Français ». Parce qu'une pièce de théâtre cherche à plaire à son public, elle reflète inévitablement et dans une large mesure ce qu'il est. L'esthétique tragi-comique correspond à une esthétique moderne adaptée à l'esprit moderne et au goût du français contemporain perçu, selon Jean Rousset dans *La Littérature de l'âge baroque en France* [9], comme un homme de mouvement, de diversité et de changement. L'esprit du premier XVII*e* siècle, des « pré-classiques » se retrouve dans la tragi-comédie romanesque comme dans l'Hôtel de Rambouillet ou encore dans les romans d'Honoré d'Urfé ou de Madeleine de Scudéry.
 
 
-# La source
+# La source.
 
 
 ## *L'Histoire tragi-comique de notre temps* de Henri Vital d'Audiguier.
@@ -73,10 +73,10 @@ Les histoires qu'ils proposent, exposent des modèles de courtoisie et de civili
 Théâtre et roman entretiennent d'étroites relations, ils utilisent les mêmes situations, les mêmes procédés sans qu'on puisse savoir si c'est le roman qui copie le théâtre ou inversement. Les valeurs qui s'expriment dans le théâtre comme dans le roman sont essentiellement celles du romanesque et de l'héroïque fixées dans la société et la sensibilité de l'époque dans le type du glorieux. Le type d'intrigue, les personnages, les thèmes se retrouvent d'un genre à l'autre puisque nombreux sont les auteurs de tragi-comédies qui puisent la source de leur pièce dans les romans d'aventures. *L'Histoire tragi-comique de notre temps* de D'Audiguier compte parmi les principaux romans de ce début de siècle. Aussi Pierre Du Ryer s'en inspire-t-il pour créer sa tragi-comédie *Lisandre et Caliste*.
 
 
-## Le travail d'adaptation d'un roman au théâtre
+## Le travail d'adaptation d'un roman au théâtre.
 
 
-### L'action
+### L'action.
 
 Pierre Du Ryer trouve dans sa source non seulement l'idée même de son sujet, mais aussi toutes les péripéties de son action. Cependant il sélectionne considérablement la matière de sa pièce, notamment par la coupure de certains passages du roman tout en suivant de manière générale le déroulement de l'intrigue. Il ne s'est pas inspiré des cinq premiers livres du roman dans lesquels Lisandre rencontre Caliste, tombe amoureux d'elle alors qu'elle est mariée à son ami Cléandre, puis part pour tenter de l'oublier. Les mêmes événements se retrouvent de manière générale dans l'adaptation de Du Ryer qui respecte la chronologie suivie par D'Audiguier.
 
@@ -95,7 +95,7 @@ Au niveau de l'action, Du Ryer allège donc la matière du roman pour faire teni
 La description et le récit dans un roman deviennent faits et gestes au théâtre, ils se changent en un spectacle de scènes dramatiques qui sont vécues sous les yeux du spectateur (Du Ryer représente le duel entre Hyppolite et Lucidan, le dialogue entre Hyppolite et Lisandre…). Les nombreuses interpellations du narrateur omniscient à son lecteur se retrouvent au théâtre sous la forme des apartés. Un personnage s'adresse au spectateur pour lui faire connaître des sentiments qu'il est obligé de dissimuler devant son interlocuteur et qu'il ne peut exprimer à haute voix. Du Ryer utilise la didascalie « à l'écart » pour indiquer qu'un personnage fait un effort pour dissimuler ses propos. Ainsi le valet de Lisandre, sans être entendu par Caliste, émet un jugement sur son comportement (III, 4). À la scène 1 de l'acte V Hyppolite, qui se fait passer pour Lucidan, tient un discours en aparté qui diffère de celui qu'elle tient à Lisandre. Ce genre d'aparté permet également au dramaturge de faire connaître au spectateur l'état psychologique dans lequel se trouve le personnage qui l'emploie, ou de le suggérer. Dans le roman, D'Audiguier choisit au contraire d'exploiter un narrateur omniscient chargé d'expliquer les motivations, les désirs… de ses personnages.
 
 
-### Les scènes
+### Les scènes.
 
 En ce qui concerne l'agencement des différentes scènes, nous constatons que Du Ryer recherche l'allégement. Nous pouvons distinguer dans la sélection de l'auteur deux méthodes pour couper une scène: soit la couper sans en faire aucune mention, soit la couper et la remplacer par un récit. Tout ce qui a son importance pour l'action mais que Du Ryer choisit de couper, est remplacé par un récit qui permet de réduire le nombre de scènes à représenter : le projet d'évasion, la rencontre entre Hyppolite et Lisandre, le naufrage… Du Ryer choisit également de réduire la longueur d'une scène du roman en la concentrant en une discussion : contrairement à la source, Lisandre ne reste pas dîner chez les parents de Caliste, il n'apprend pas la nouvelle des amours de Caliste et Lucidan dans une taverne au cours d'une discussion avec un voyageur mais c'est un messager qui la lui apporte.
 
@@ -114,7 +114,7 @@ Du Ryer reprend ce passage sous la forme d'un dilemme (II, 2 : v. 851-v. 890). 
 Recherchant le spectacle avant tout, il puise dans sa source les épisodes et les détails susceptibles d'alimenter cette recherche. Il garde l'effet de surprise provoqué par la révélation de l'identité d'Hyppolite (IV, 1), la représentation sur scène du duel entre Hyppolite et Lucidan malgré les bienséances et la vraisemblance (IV, 1). Dans la première scène de l'acte IV, Du Ryer garde tout le cérémonial qui entoure le duel judiciaire : présence du roi et du juge de camp, tirage au sort… Le dramaturge perçoit en effet tout le plaisir et l'intérêt du spectateur pour de telles scènes.
 
 
-### Les personnages
+### Les personnages.
 
 En ce qui concerne les personnages, Du Ryer n'hésite pas à en supprimer quelques uns qui avaient leur importance dans la source. Les fiancés de Lidian, Béronte et Alcidon, la mère de Lisandre ne sont pas mentionnées. Il donne à quelques personnages un rôle moindre que celui qu'ils possèdent dans le roman au détriment souvent d'une certaine cohérence : il n'a pas davantage exploité, par exemple, le personnage du guichetier qui devient, dans le roman, un fidèle compagnon de Lisandre et préfère diviser son rôle en celui de deux personnages : le guichetier et le valet de Lisandre. Ce domestique, d'ailleurs fin psychologue, n'hésite pas à conseiller une dame sur ses sentiments…au détriment d'une certaine bienséance (III, 4 : v.1123-1176). Varasque, dont nous connaissons l'identité et le lien de parenté avec Cléandre dans le roman, apparaît et disparaît subitement dans la pièce comme s'il était connu de tous. Du Ryer ne le présente au spectateur que comme « l'ennemy de Lisandre » (v.1845). De même le courrier (V, 1 : v.1833) surgit de nulle part et apprend à Lisandre les récentes amours de Lucidan et Caliste. Ces personnages ne sont que des moyens pour le dramaturge qui ne les utilise que dans le but de resserrer l'action et de gagner du temps au détriment parfois de la logique et de la vraisemblance.
 
@@ -125,19 +125,19 @@ Du Ryer tempère certains aspects du comportement des personnages et notamment d
 Dans la source, l'état psychologique de certains héros : Caliste, Hyppolite, Lisandre… fait l'objet d'une description. Dans la pièce, cet état se manifeste soit dans un monologue où le personnage exprime ses sentiments, soit dans un dialogue où deux personnages échangent leur avis sur le comportement d'un troisième (IV, 1 : v.1409-1414 ; IV, 3 : v.1007-1010 ; IV, 4). Au niveau de l'agencement de l'intrigue et de la répartition des rôles dans la pièce, le spectateur ne pouvant revenir en arrière sur ce qu'il n'a pas compris, Du Ryer tente de grouper autant que faire se peut les différentes aventures vécues par un même personnage (Cf : Chapitre sur les personnages).
 
 
-### Les thèmes
+### Les thèmes.
 
 Du Ryer développe généralement les mêmes thèmes que D'Audiguier en ce qui concerne le sentiment amoureux : ces auteurs vantent tous deux un idéal de constance et d'honnêteté qu'ils expriment dans un langage extrêmement galant. Du Ryer rajoute quelques scènes de monologues (I, 1 : Lisandre ; III, 2 et V, 1 : Hyppolite ; IV, 2 : Caliste) dans lesquelles les personnages expriment toute la force de leur sentiment ou leur déception dans un langage imagé et raffiné. Leur conception de l'amour diffère cependant car l'amour ne produit pas que des galanteries et des tendresses, comme c'est la tendance dans la pièce. Il peut aussi engendrer des passions sensuelles et violentes, des jalousies furieuses, des vengeances sanglantes : « Qui ne confessera que l'Amour est une rage qui fait tourner les cervelles les plus sages » (Livre IX). L'amour vu comme une folie ou comme une maladie, est une conception néo-platonicienne de ce sentiment.
 
 Du Ryer soulève des débats d'actualité, que D'Audiguier n'avait pas exploités, sur le thème de l'amitié et de la confiance (III, 1 : v.825-850), du respect ou encore de la calomnie (II, 5 : v.662-701).
 
 
-### Le temps
+### Le temps.
 
 D'Audiguier fait preuve d'une grande précision quant aux indications temporelles. Il ne manque jamais de noter combien de temps a duré un voyage : Lisandre et le pilote erre « deux à trois jours » sur la mer avant d'échouer sur une île…, ou un combat : le duel qui oppose Hyppolite à Lucidan dure « deux heures »… Le romancier décrit l'évasion de Caliste heures par heures: Caliste doit être délivrée « sur les onze heures du soir », mais Lisandre est retardé et ne vient la délivrer qu'« à minuit », ils ne partent pour la Belgique qu'« à 20h00 » le lendemain. Du Ryer n'hésite pas non plus à indiquer avec précision le temps qui s'écoule dans sa pièce mais se montre moins pointilleux que D'Audiguier. Il se contente de jalonner sa pièce d'indications plus ou moins précises sur le temps qui passe. Du Ryer est beaucoup plus préoccupé par la durée de son œuvre, par le temps de la représentation que le romancier et il construit sa pièce dans le sens d'une concentration. Pour resserrer le temps de la représentation, il a donc recours au récit qui lui évite de représenter certains événements sur la scène (la scène de chasse (III, 2), le naufrage (IV, 1 et 3)…).
 
 
-### Le Lieu
+### Le Lieu.
 
 Les héros du roman se déplacent à travers la France et à travers l'Europe. Les aventures de Lisandre et de Caliste débutent à Paris, mais, les rigueurs d'une dame ayant exilé Lidian en Espagne, Lisandre et d'autres amis entament un long voyage dans le but de le ramener en France (Livre I à V). L'action se déroule à Paris jusqu'au Livre VIII dans lequel, après l'évasion réussie de Caliste, les deux amants partent d'abord pour la Belgique puis reviennent, après quelque temps, en Normandie où résident les parents de Caliste. Au Livre IX, Lisandre se rend dans le Sud de la France chez ses propres parents. Il remonte ensuite vers la Normandie pour revoir Caliste mais apprend à Bordeaux qu'un tournoi a lieu en Angleterre. Nous retrouvons Lisandre au Livre X sur l'île de Gersay où il a échoué après la tempête. Sur la route menant vers Paris, il rencontre Hyppolite et sa suivante à Rouen. La fin du roman se déroule essentiellement à Paris mais aussi sur le mont Valeri où Lisandre a choisi, pendant quelque temps, de vivre en ermite. D'Audiguier n'hésite pas à faire voyager ses personnages aux quatre coins de la France et de l'Europe et à donner des indications très précises sur les chemins qu'ils empruntent. Au Livre VIII, le narrateur indique précisément le chemin pris par Lisandre et Caliste pour se rendre en Belgique : ils passèrent « par la porte Saint Denis », puis « par la route des Flandres au travers de la Picardie » et s'arrêtèrent deux jours « à Cambray » avant de continuer leur route.
 
@@ -150,10 +150,10 @@ Les indications spatio-temporelles soulignent l'effet de réel revendiqué maint
 Si Du Ryer a suivi d'une manière générale le déroulement de l'intrigue des *Histoires tragi-comiques de notre temps sous les noms de Lisandre et Caliste*, il n'a pas hésité à faire quelques coupures de scènes ou de personnages qui nous paraissent significatives. Il lui fallait faire face aux problèmes d'adaptation d'un long roman au théâtre et à la nécessité d'un changement de perspective. Il ne s'agissait plus d'un lecteur mais d'un spectateur, il ne s'agissait plus d'un livre mais d'une représentation théâtrale en d'autres termes d'un spectacle avec des acteurs, un public, un texte en alexandrins, découpé en actes et en scènes, représenté en un temps limité. Le style, l'intrigue, les thèmes, les personnages se retrouvent du roman d'aventures à la tragi-comédie. Cependant comparer une œuvre à son modèle c'est dégager le travail d'adaptation d'une pièce à une autre, mais aussi d'une pièce à un roman. En l'occurrence, Du Ryer a choisi de passer d'un genre plutôt libre parce que dénué de règles et de structure précises à un genre fonctionnant selon ses lois propres et selon un système immuable : un texte en vers, une scène, des acteurs, des spectateurs… Il a montré, dans l'ensemble, un certain souci de cohérence, de vraisemblance dans l'action et dans l'attitude des personnages. Il n'a pas souhaité faire de ses personnages des êtres complexes, mais les a parfois engagés sur la voie facile de la caricature. Du Ryer a essentiellement cherché à simplifier et à clarifier l'intrigue et les personnages.
 
 
-# Une tragi-comédie
+# Une tragi-comédie.
 
 
-## Une pièce irrégulière
+## Une pièce irrégulière.
 
 Si la tragi-comédie est un genre théâtral difficile à définir car sans véritable règle, nous pouvons cependant tenter de cerner d'une manière générale quelles sont ses particularités, quels sont les indices qui la différencient de la comédie, du mystère, de la pastorale ou de la tragédie. La tragi-comédie popularise les qualités du drame médiéval et les modernise. Selon les frères Parfaict, les critères de reconnaissance d'une tragi-comédie sont : « une action singulière qui se passe entre des personnages d'une naissance distinguée, même entre des rois et des princes … » [13]. Brunetière ajoute un complément intéressant et fondamental à cette définition en expliquant que « la liberté, c'est son domaine et aussi son moyen » [14]. Elle présente donc des caractéristiques qui lui sont propres :
  * – un manque de structure et d'unité dramatique, seule l'unité d'intérêt constitue le fil conducteur. Aucun respect pour la vraisemblance, la bienséance ou encore pour les trois unités.
@@ -164,7 +164,7 @@ Si la tragi-comédie est un genre théâtral difficile à définir car sans vér
  * – la forme est classique : utilisation de l'alexandrin, division en cinq actes et subdivision en scènes.
 
 
-## La position intermédiaire de Du Ryer dans la lente évolution vers les règles : l'exemple de *Lisandre et Caliste*
+## La position intermédiaire de Du Ryer dans la lente évolution vers les règles : l'exemple de *Lisandre et Caliste*.
 
 Le théâtre tragi-comique, par son irrégularité revendiquée, se présente comme le refuge des écrivains qui refusent la contrainte des règles et qui revendiquent une entière liberté de composition. Si nous constatons que certaines tragi-comédies du début du siècle, imaginées par Hardy, Mairet, Rotrou… regroupent toutes les caractéristiques d'un théâtre irrégulier, certains dramaturges n'en montrent pas moins un intérêt grandissant pour les règles. Les écrivains des années 1630 s'acheminent en effet vers une certaine régularité dont nous pouvons remarquer des prémisses dans *Lisandre et Caliste*. Bien que cette pièce soit fondamentalement irrégulière, Du Ryer occupe une position intermédiaire : il ne veut déplaire ni aux partisans des règles, ni aux défenseurs de l'irrégularité.
 
@@ -207,7 +207,7 @@ Dans *Lisandre et Caliste* :
 Acte I : une journée ; acte II : une nuit ; acte III : aucune indication de temps mais dure sans doute plus d'une journée ; IV : un jour ; V : un jour voire quelques heures. Mais entre l'acte I et l'acte II : une semaine s'est écoulée ; entre l'acte II et III : quelques jours ; entre l'acte III et IV : un mois ; entre l'acte IV et V : une journée. Ainsi l'action de la pièce s'étale sur un mois et demi environ, mais si nous additionnons le temps représenté sous les yeux du spectateur dans chaque acte, nous comptons environ : 6 jours. Si l'unité de temps n'existe pas, l'auteur affiche cependant son désir de resserrer le temps au maximum.
 
 
-## *Lisandre et Caliste* : une tragi-comédie avant tout
+## *Lisandre et Caliste* : une tragi-comédie avant tout.
 
 Malgré cette évolution, Du Ryer reste avant tout un représentant de l'irrégularité. Même si le public n'assiste pas à des scènes de violence, il voit quand même trois cadavres sur la scène. Béronte (I, 3) exprime sa crainte en ces termes :
 
@@ -238,7 +238,7 @@ Le caractère tragi-comique de la pièce se révèle également dans le mélange
 Du Ryer ne se distingue nullement dans le choix de son sujet et de sa thématique. L'amour s'y montre avec tous les caractères de la passion, il inspire à l'amant une véritable dévotion pour sa maîtresse et un attachement que rien ne peut rompre. Les femmes sont également passionnément éprises de leur amant et se montrent prêtes à tout (Cf : chapitre sur la galanterie). L'auteur n'hésite pas à évoquer la violence provoquée par un désir de vengeance et qui entraîne duels judiciaires et meurtres. On retrouve d'une tragi-comédie à l'autre les mêmes thèmes et donc les mêmes personnages : des amants passionnés, désespérés, qui feignent et se déguisent, des rivaux, des alliés. L'étude de l'action permet également de distinguer la tragi-comédie des autres genres dramatiques et confirme son caractère foncièrement irrégulier.
 
 
-### L'action
+### L'action.
 
 Dans le premier tiers du XVII*e* siècle, nombreux sont les auteurs de tragi-comédies qui puisent leur inspiration dans les romans. Comme la tragi-comédie représentait sur la scène les situations piquantes et les péripéties du roman, elle ne se pliait à aucune règle stricte, à aucune unité. F. Ogier, dans sa préface au *Tyr et Sidon* de J. de Schelandre en 1628, affirmait la nécessité d'une intrigue riche pour rendre le drame agréable. Le dramaturge satisfaisait ainsi un public amateur de changement et de nouveauté, avide d'émotions et de suspens. Rayssiguier témoigne de cet aspect et explique dans sa préface d'*Aminte* que :
 
@@ -250,7 +250,7 @@ Si la tragi-comédie du premier tiers du siècle ne s'accommode d'aucune règle 
 Partant de cette définition, nous essayerons, après avoir donné une vue d'ensemble de l'action dans *Lisandre et Caliste*, de déterminer sa structure, puis de dégager les grands traits de l'exposition, du nœud et du dénouement.
 
 
-### La structure
+### La structure.
 
 *Lisandre et Caliste* est construite autour d'une intrigue principale : l'amour de Lisandre et Caliste, constant et éternel, qui commence et termine la pièce. Autour de ce noyau central, l'amour d'Hyppolite pour Lisandre apparaît comme une intrigue secondaire rattachée au fil principal. La passion qu'elle voue à Lisandre devient le sujet de développements (III, 2) et de scènes secondaires (V, 1) sans que ce personnage menace véritablement le couple principal. La douleur de cette jeune femme, si elle touche les héros, ne les influence pas dans leur décision. L'amour de Lucidan pour Hyppolite fait également l'objet de développements secondaires (IV, 4) sans rapport avec l'intrigue principale. La soudaine passion de Lucidan pour Caliste, que Lisandre apprend à la scène 1 de l'acte V, implique un bouleversement du schéma amoureux initial :
 
@@ -271,12 +271,12 @@ Or, bien que *Lisandre et Caliste* ait été jouée en 1630, on y retrouve cette
 Nous sommes loin de la crise unique de la tragédie classique. Mais peut-être ne faut-il pas chercher une véritable unité d'action dans cette tragi-comédie du début du siècle. D'après J. Scherer, l'unification de l'action possède quatre caractères : « inamovibilité, continuité et nécessité des éléments de l'intrigue ainsi qu' un certain rapport entre les intrigues accessoires et la principale » [23]. Si ces critères ne se retrouvent pas dans *Lisandre et Caliste*, cette pièce possède toutefois une unité propre qui réside dans l'intérêt qu'éprouve le public pour le sort des deux héros. Comme l'explique J. Scherer : « l'unité d'intérêt est un substitut de l'unité d'action par l'intérêt qui s'attache à un personnage ou à un couple de personnages » [24]. Dans la pièce de Du Ryer, les éléments de l'intrigue ne sont peut-être pas rigoureusement unifiés selon une technique précise mais l'intérêt humain d'une telle pièce se fait alors mieux sentir. L'attention étant concentrée sur un héros, sur un homme d'action qui éprouve des sentiments, l'unité de la pièce devient « une unité vivante » (J. Scherer). Cette forme de tragi-comédie qui se contente de dramatiser les épisodes successifs d'un roman séduit encore le public des années 1630.
 
 
-### L'exposition
+### L'exposition.
 
 Le principe est de mettre en péril l'amour de deux personnages de rang princier par des obstacles qu'ils devront surmonter et qui disparaîtront heureusement au dénouement. Dès la première scène de l'acte I, Du Ryer nous présente son héros principal. Lisandre dévoile, au cours d'un monologue, son amour pour Caliste et pose leur relation comme l'intérêt central de la pièce. Nous apprenons également son projet de duel contre Cloridan et Crisante. Du Ryer prend soin, tout au long de l'acte I, de mettre en place les éléments qui aboutiront par leur enchaînement à la crise centrale à savoir le meurtre de Cléandre et l'accusation des héros. En effet, le duel de Lisandre contre les deux favoris du roi (comme nous l'apprend la source) n'a pas pour conséquence unique d'empêcher le héros de se présenter devant le roi. Lisandre laisse en effet son épée sur le champ de bataille ; celle-ci, récupérée par Léon, lui servira à tuer Cléandre et apportera une confusion quant à l'identité de l'assassin.
 
 
-### Le nœud
+### Le nœud.
 
 Après une mise en situation à l'acte I, la pièce raconte les divers obstacles qui empêchent le mariage des deux héros. Ces empêchements constituent le nœud de l'action, on peut compter au nombre de ces contrariétés un « obstacle extérieur » (J. Scherer) essentiel : l'appareil judiciaire : les amants sont poursuivis à la suite d'un duel ou d'un meurtre. Ainsi dans *Lisandre et Caliste*, Lisandre est-il poursuivi non seulement pour les meurtres de Cloridan et Crisante qu'il a tués au cours d'un duel mais aussi pour le meurtre de Cléandre. L'héroïne, quant à elle, est accusée de complicité et, jetée en prison, elle risque un châtiment. Un combat judiciaire survient alors pour montrer où se trouve le bon droit et innocenter les héros. Ces scènes de duel se retrouvent fréquemment dans le théâtre des années 1630 : l'incognito d'un des champions, l'issue incertaine du combat donnent du piquant à la scène. Béronte et Lidian innocentent Lisandre au sujet de Crisante et Cloridan (IV, 2), Lisandre en retrouvant le meurtrier de Cléandre (IV, 3) peut clamer son innocence ainsi que celle de Caliste et exiger des excuses (V, dernière). Dans la pièce, les principaux rivaux sont des personnages qui réclament justice : Béronte, Lucidan, Varasque. Ils n'agissent pas par pure méchanceté, par jalousie mais pour de bons motifs : venger la mort injuste d'un parent.
 
@@ -316,7 +316,7 @@ Un seul obstacle provoque une crise qui met réellement en péril le bonheur des
 Du Ryer utilise une péripétie pour faire rebondir l'action : la rencontre de Lisandre avec Léon (IV, 3) qui ne figure ni dans l'exposition, ni dans le dénouement. Cette scène comporte en effet un événement imprévu qui crée une surprise et change la situation matérielle et psychologique de Lisandre. Il peut enfin revenir à la Cour tête haute et voit son avenir sous des jours meilleurs. Cette heureuse coïncidence est une surprise à la fois pour Lisandre et pour le spectateur, soulagé de voir le coupable démasqué.
 
 
-### Le dénouement
+### Le dénouement.
 
 Ces diverses contrariétés qui entravent le bonheur des deux amoureux se résolvent généralement au cinquième acte par la disparition imprévue des obstacles.
 
@@ -327,17 +327,17 @@ L'intérêt du spectateur est donc maintenu jusqu'à la dernière scène de la p
 Qualifiée de tragi-comédie à tiroirs ou à épisodes, foisonnante d'aventures en tout genre, *Lisandre et Caliste* tire son unité de l'intérêt que le spectateur porte aux deux héros. D'une tragi-comédie à l'autre, nous retrouvons non seulement le même type d'intrigue et de traitement de l'action, mais aussi les figures récurrentes et typiques de personnages sans grande profondeur psychologique.
 
 
-## Les personnages
+## Les personnages.
 
 
-### Des personnages types
+### Des personnages types.
 
 La sensibilité d'une époque se révèle dans la constante représentation des mêmes sentiments et des mêmes comportements, comme dans la reprise perpétuelle de certains motifs. Ainsi les personnages de ce théâtre sont généralement des « types » ou encore des « emplois » [25], auxquels les dramaturges ne donnent aucune profondeur psychologique. Les règles de la convention fixent d'avance le caractère des personnages qui ne peuvent que répondre aux clichés du genre : amant amoureux, vertueux, fidèle ; jeune fille honnête, probe, sincère, dévouée… et qui impliquent une immobilité des caractères. Du Ryer ne s'intéresse qu'à des stéréotypes, à des figures récurrentes et archétypales de la tragi-comédie, c'est à dire à des personnages sans grande motivation psychologique, sans grande ampleur mais aptes à faire évoluer l'intrigue. Lisandre et Caliste sont d'ailleurs tous deux d'un rang élevé, jeunes et beaux, ils suscitent d'emblée la sympathie du spectateur. Ils brillent tous deux par leur courage et la noblesse de leurs sentiments (Lisandre n'agit que par amour, Caliste n'hésite pas à se travestir et à combattre pour son amant…). Mais même s'il est courageux, le héros est capable de feindre des sentiments qu'il n'éprouve pas et de se montrer hypocrite et ingrat comme Lisandre avec Hyppolite. Pourtant le public saura lui pardonner puisque l'amour motive ce mensonge et l'excuse. Le rôle du rival ou de la rivale : Hyppolite, Adraste, le roi, Lucidan… que nous avons examiné au chapitre précédent n'intéresse Du Ryer que pour les effets qui résultent du comportement de cet opposant : désespoir ou révolte des héros qui s'expriment dans de longs monologues (Lisandre : II, 1 ; Caliste : III, 4 ou IV, 2 ; Hyppolite : IV, 4…). Comme le dit R. Guichemerre, le père ou le roi agisse selon « des sentiments schématiques et des motivations convenues » [26]. À côté de ces types conventionnels apparaissent dans des seconds rôles des gens du peuple qui apportent une note réaliste et comique à certaines scènes. Le boucher et sa femme sont des personnages pittoresques qui permettent de divertir plaisamment l'auditoire.
 
 La tragi-comédie de Du Ryer compte trois personnages principaux : les deux héros éponymes Lisandre et Caliste autour desquels se bâtit la pièce, et Hyppolite, amoureuse de Lisandre, qui contribue particulièrement à leur bonheur. Du Ryer tente de grouper les différentes aventures vécues par un même personnage : de l'acte III, scène 4 jusqu'à l'acte IV, scène 2, il est question du tournoi pour innocenter Lisandre et donc de Caliste et d'Hyppolite, puis ce sont ensuite sur les aventures de Lisandre (IV, 3 et jusqu'à la fin) que se concentre la pièce. Personnages principaux et secondaires se caractérisent par leur appartenance à des types, comme nous l'avons vu, et à un idéal cher à Du Ryer.
 
 
-### Les personnages féminins
+### Les personnages féminins.
 
 Nous assistons dans le premier tiers du XVII*e* siècle à un mouvement de réévaluation de la femme qui aboutit à la vogue de la femme héroïque. Elle déploie son héroïsme tout en apparaissant fragile et belle à la fois. La femme ne se définit comme une véritable héroïne que si la consécration totale de sa vie à un être aimé est la source de ses belles actions. Dans une optique féministe, nous pouvons considérer que la femme possède des vertus et des capacités que la tradition assigne à l'homme : les femmes n'en sont que plus flatter dans leur vanité.
 
@@ -355,7 +355,7 @@ Les rapports d'Hyppolite et de Caliste ne sont que vaguement emprunts de jalousi
 Les trois autres femmes : Orante, Clarinde et la bouchère, ne sont que des personnages secondaires qui n'apparaissent que dans un petit nombre de scène : Orante, une scène ; Clarinde, deux scènes ; la bouchère, une scène. La mère de Caliste, Orante, sert essentiellement de faire-valoir à Lisandre : elle s'émerveille de sa passion pour Caliste et de la façon dont il en parle. Le débat sur la calomnie qu'elle engage avec Lisandre permet à Du Ryer de développer les lieux communs chers à la rhétorique. Elle constitue le pivot de la scène et l'interlocutrice privilégiée de Lisandre. Bien qu'étant uniquement la suivante de Caliste et malgré sa courte présence sur la scène (I, 2 ; I, 6), Clarinde n'a pas un moindre rôle. Son mensonge est déterminant pour la suite de l'action et fait le malheur des héros. Mais Du Ryer n'exploite pas davantage ce personnage, dont il s'abstient d'expliquer les motivations, disparaît dès la fin du premier acte. La bouchère Alizon apporte une touche pittoresque et humoristique à la pièce. Son bon sens et sa franchise éclaire et souligne la bêtise de son mari. Commerçante avant tout, elle n'agit que poussée par l'intérêt et par le bon fonctionnement de sa boutique. Ces deux personnages, qui appartiennent à la couche populaire, contrastent, par leur langage et leur manière, avec les héroïnes de rang supérieur.
 
 
-### Les personnages masculins
+### Les personnages masculins.
 
 Si l'amour pouvait rendre la femme héroïque, il pouvait rendre l'homme honnête. De 1600 à 1643, dans le théâtre et le roman, l'offensive se généralise contre la grossièreté des sentiments et la vulgarité des désirs. Dans *Lisandre et Caliste*, le désir de Léon pour Clarinde ou la vision qu'a le boucher du sentiment amoureux (v.529-530) se présentent comme des conceptions vulgaires et repoussantes de l'amour. Elles ne font qu'appuyer le contraste avec une autre sorte d'amour : celui qui élève, ennoblit et rend un homme honnête.
 
@@ -403,7 +403,7 @@ Par sa fécondité et son effervescence, la tragi-comédie reflète ce premier t
 C.G. Dubois met en relief « la dualité de l'âme baroque », c'est à dire une aptitude toute particulière à feindre et un goût prononcé pour l'ostentation et la dissimulation.
 
 
-## L'ostentation
+## L'ostentation.
 
 Selon R. Guichemerre, la tragi-comédie est « un théâtre expressionniste », aussi les dramaturges n'hésitent-ils pas à employer les ressources de la mise en scène, de la gestuelle théâtrale afin de contenter le goût du public pour cette « griserie de l'imagination » (R. Guichemerre), pour une action mouvementée et des émotions fortes. *Lisandre et Caliste* offre un exemple de cette pompe dans la scène du duel judiciaire (IV, 1) : dix personnages sont présents pour assister au duel, la présence du roi et du juge de camp donne à cette cérémonie un aspect solennel que renforce le discours du roi. Tout ce cérémonial (les trois chevaliers, le choix d'un enfant pour tirer la marque qui combattra…) offre un spectacle grandiose qui frappe l'imagination du public. La puissance évocatoire du langage supplée à la représentation effective pour susciter admiration, horreur, compassion… Les deux récits de naufrage, et en particulier celui de Lisandre (IV, 1 : v.1334-1365; IV, 3 : v.1477-1508) donnent un exemple de ces longues tirades où les personnages donnent libre cours à leur passion et amplifient leurs discours grâce aux ressources de la rhétorique. Dans son récit, Lisandre sélectionne des informations concernant le sujet traité et ne garde que les éléments particulièrement sensibles et forts, susceptibles d'accrocher par leur évocation. Comme l'explique G. Molinié,
 
@@ -424,7 +424,7 @@ Toutes ces figures témoignent du goût de Du Ryer pour l'ostentation ainsi que 
 Du Ryer exploite donc toutes les ressources de la rhétorique pour faire passer des émotions fortes et convaincre le spectateur que l'action des deux héros est juste. Le dramaturge se sert des moyens que lui fournit la rhétorique dans d'autres scènes de sa pièce (les dilemmes, les monologues, les dialogues enflammés, les récits…). L'éloquence se définit comme la science du bien parler et a pour objet d'instruire, de plaire et de toucher : il faut jouer sur les passions et les mœurs du public pour lui faire ressentir de vives émotions. Les parallélismes entre deux hémistiches possèdent un fort pouvoir évocateur (v.1080…). Dans les dialogues, l'utilisation de l'apostrophe et de l'impératif accompagnent la violence des propos tenus (v.1725 : « Traistre voy l'ennemy, que le sort t'abandonne, … », v.1726, v.1729…) et le tutoiement de l'adversaire suggère efficacement une perte de contrôle. La scène de la prison (II, 3) permet aussi d'exploiter une situation critique et « d'émouvoir la compassion pour les personnes captives » [34] .
 
 
-## La dissimulation
+## La dissimulation.
 
 Ostentation et dissimulation sont liées. Les personnages des tragi-comédies se montrent prompts à paraître ce qu'ils ne sont pas, ou à dissimuler ce qu'ils sont vraiment : il faut cacher son cœur et donner le change. Ainsi Lisandre dissimule ses véritables sentiments et ment à son père d'abord (III, 1) puis à Hyppolite ensuite (III, 2). Jean Rousset fait du changement d'identité un des grands thèmes romanesques. Le déguisement relève de cette thématique, s'intègre à une tradition venue de la comédie italienne et constitue un trait social de la vie sous Louis XIII. Mais il reste avant tout un procédé dramatique commode. La tragi-comédie se sert du travestissement, du changement d'apparence comme d'un approfondissement psychologique et d'une analyse du sentiment amoureux. Il exprime la force des sentiments qu'éprouvent Hyppolite et Caliste pour Lisandre, la passion de Lisandre pour Caliste (déguisement en mendiant, en messager). Le déguisement à une fonction dramatique, il est un auxiliaire du développement de l'histoire et permet de compliquer l'action (méprise sur identité : V, 1). Pourtant dans *Lisandre et Caliste* aucun des différents déguisements revêtus n'est déterminant pour l'action. Qu'il soit un déguisement « d'approche » (Lisandre en mendiant, en messager) ou « de délivrance » (Hyppolite et Caliste en chevalier) : tous peuvent être supprimés.
 
@@ -468,7 +468,7 @@ Comme de nombreux poètes, il éprouve le désir d'un embellissement emphatique,
 Les spectateurs se montrent sensibles aux surprises scéniques, à la rapidité de l'enchaînement des différentes aventures : ainsi tout dans la tragi-comédie se transforme et se met en mouvement. Le romanesque se retrouve dans les métaphores de mouvement qu'il emprunte au monde animal ou végétal, aux eaux mouvantes. Son monde d'images est à la fois animé et concret et le spectacle n'est animé que par ce mouvement. Tout est toujours en devenir, rien n'est figé dans cette stylistique : d'où l'intérêt de Du Ryer pour les dilemmes où nous voyons les sentiments, les résolutions d'un personnage évoluer sous nos yeux (Lisandre : I, 1 ; Caliste : III, 4…).
 
 
-## L'homme comme jouet du destin
+## L'homme comme jouet du destin.
 
 Perdue dans cette effervescence, la destinée humaine pleine de caprice et d'oscillation reflète la construction même de la pièce. Comme le dit J. Rousset:
 
@@ -482,19 +482,19 @@ Ce comportement les rend particulièrement passifs. Lisandre n'a jamais à prend
 Face à ces caractéristiques romanesques : la dissimulation et l'ostentation ou l'homme considéré comme un jouet du destin, la notion de temps constitue également un thème privilégié des tragi-comédies romanesques.
 
 
-## Le temps
+## Le temps.
 
 Du Ryer s'intéresse à l'écoulement du temps et au problème de la durée de l'action comme nous l'avons vu (Cf : Chapitre sur l'irrégularité). Il fait de nombreuses allusions chronologiques qui mettent en évidence cet écoulement du temps (v.110, v.290, v.294, v.313 ; v.390-391, v.404, v.442, v.451, v.522, v.702 ; v.898, v.935, v.994, v.1055 ; v.1645). Or la sensibilité romanesque est très attentive à la valeur du temps, à sa fuite qui constitue un des aspects angoissant du changement, de la transformation et de la métamorphose. Tandis qu'un artiste classique tend à éliminer le temps, à le réduire à un nombre minimum d'heures, la présence du temps est rendue comme sensible dans la tragi-comédie.
 
 La fuite du temps, le déguisement, la dissimulation des sentiments, la puissance de la destinée sur les héros sont des thèmes exploités par Du Ryer dans *Lisandre et Caliste*. Nous retrouvons dans le style, le traitement des personnages, la thématique, le choix de la tragi-comédie, une tendance certaine de Du Ryer pour une esthétique romanesque. Mais ce goût de l'artifice et du déguisement physique ou bien sentimental, pour l'ostentation, pour le jeu existent également dans les milieux mondains. Comme l'explique J. Rousset « la préciosité est la pointe mondaine du baroque » [41]. Les mondains aiment la parure et l'affectation et jouent un jeu de société. *Lisandre et Caliste* représente par certains aspects que nous avons développés le mouvement romanesque, mais nous pouvons également la définir, sans nous contredire, comme une tragi-comédie galante.
 
 
-# … Et galante
+# … Et galante.
 
 Nous pouvons observer dans les goûts, les manières et le langage d'une certaine élite de la société, le raffinement galant de cette époque. Il inclut un ensemble de comportements sociaux marqués par la convivialité mondaine, l'art de la conversation et l'idéalisation de la femme, mais il correspond également à une esthétique littéraire qui se distingue par un goût de l'expression recherchée.
 
 
-## Une nouvelle conception du sentiment amoureux
+## Une nouvelle conception du sentiment amoureux.
 
 Les mondains s'intéressent dès 1620 à un code de l'amour courtois établi par Pétrarque. Hantés par l'idée de la gloire, de l'honneur, de la vertu et de la suprématie individuelle, les Français trouvaient également dans Plutarque (*Les Vies Parallèles, Les Œuvres morales*…) les modèles auxquels ils pouvaient s'identifier ou dont ils pouvaient s'inspirer.
 
@@ -503,7 +503,7 @@ La vie de salon en France permet la naissance d'un esprit de société et l'éta
 Le raffinement galant se caractérise donc par la recherche d'un amour pur et platonique, il retrouve, à travers les romans de chevalerie, les Amadis, Pétrarque et les Italiens, les traditions chevaleresques de l'amour courtois et galant. Il exalte un idéal féminin : la femme héroïque, et un idéal masculin : l'honnête homme.
 
 
-## Un amour raisonnable
+## Un amour raisonnable.
 
 Pierre Du Ryer témoigne dans sa pièce d'une conception galante du sentiment amoureux dont le pilier essentiel est la raison. Elle est perçue comme la seule force capable d'aider et de soutenir l'homme, même dans son amour. Elle doit être une force assez puissante pour maîtriser la passion et ses transports (III, 1 : Adraste v.793-798).
 
@@ -515,12 +515,12 @@ Mon Amour tient si fort de l'ame raisonnable
 Qu'il ne peut diviser sa flame incomparable (v.1801-1802)  
 
 
-## Une conception idéaliste du sentiment amoureux
+## Une conception idéaliste du sentiment amoureux.
 
 Sentiment maîtrisé ayant la raison pour guide, l'amour n'apparaît plus, au travers de cette conception galante qui refuse les réalités charnelles, que comme le rapprochement de deux esprits. Dans les tragi-comédies, l'amour est l'affaire essentielle, aussi ce genre théâtral renoue-t-il avec les lois du roman courtois, les débordements excessifs de la passion amoureuse en moins. Les personnages se trompent et se réconcilient (Lisandre et Caliste : V, dernière ; Lisandre et Hyppolite : V, 1), s'aiment et résistent à l'amour, toujours dans l'abstraction c'est à dire dans l'uniformité d'une phraséologie galante qui revient dans chaque pièce selon des schémas répétitifs et monotones. Certains parmi les mondains recherchent un sentiment platonique et pur qui rejoint une conception intellectuelle de l'amour. Prédominante à la fin du XII*e* siècle, elle ne laissait « aux sens qu'une part secondaire » [42] Marsile Ficin ou encore Pétrarque incarnent cette conception qui pour Ficin devient une philosophie du chaste amour, « de la vraie et parfaite amitié » [43]. On recherche l'amour tout en condamnant la volupté : c'est chez Platon qu'esthétique et éthique se rejoignent pour former l'amour idéal capable d'exalter l'homme et de l'élever. La beauté du corps ne reflète qu'une beauté plus riche et plus pure : celle de l'âme. Les imaginations délicates, blessées par la réalité trop grossière, ont paré de tous les attraits la noblesse et la cour. Les esprits d'élite se complaisaient à cette évocation charmante et se reposaient, par cette élégance raffinée, des brutalités de leur vie quotidienne. La beauté extérieure a son importance car elle flatte la vue et provoque l'admiration de tous les hommes. L'amour entre en eux par les regards (Du Ryer fait d'ailleurs de nombreuses allusions aux yeux dans sa pièce) mais ce n'est que par la connaissance précise et éclairée des vertus de la dame et de ses mérites que se consolide ce sentiment. Comme un venin, la beauté de la dame pénètre par l'œil dans l'âme de l'amant; aussi aimer d'un amour réciproque c'est donner son âme en échange de celle de l'autre. Ainsi l'amant s'émerveille devant la beauté intérieure et extérieure, il la craint et la révère. Les évocations de Caliste par Lisandre témoignent parfaitement de cette idée (I, 1; II, 5 ; V).
 
 
-## Une conception idéaliste de la femme
+## Une conception idéaliste de la femme.
 
 L'idéalisme de Du Ryer se découvre à la fois dans sa conception de l'amour et dans sa conception de la femme. Les théories de Platon qui donnent à la beauté une origine divine, Pétrarque avec Laure ou Ronsard avec Cassandre, ont tous contribué à faire de la femme un objet de culte. Du Ryer reprend cette conception et exalte la femme comme un être d'une essence supérieure, comme une maîtresse absolue. Nous avons d'ailleurs relevé dans les notes de nombreuses assimilations de Caliste à une déesse dans les discours de Lisandre (v.58 ; v.657 : « Caliste et ses vertus divinement escloses » ; v.664 ; v.691…) aussi bien que dans ceux d'Hyppolite (v.1820). Les femmes sont mises en valeur, elles défendent une conception de l'amour où le respect qu'on leur porte joue un rôle essentiel : elles deviennent les reines du monde, des divinités qu'on honore. L'adoration vouée à la femme est une image de celle que l'on voue à Dieu. Une femme attire, plaît et retient par ses charmes qui ne sont jamais détaillés en énumération. Ce pluriel englobe et résume tout, de façon vague et discrète. Il rime en outre avec des mots qui peuvent susciter des associations d'idées émouvantes ou frappantes : alarmes (v.885-886… ), larmes (v.1077-1078…), armes (v.1573-1574…), etc.
 
@@ -539,7 +539,7 @@ Les hommes ont été obligés d'attaquer ce rempart par les formes, et ont emplo
 Ses mots d'ordre sont la discrétion et la réserve quelle que soit la force de son amour. Il ne pourra prononcer aucune parole, ni accomplir aucun acte qui compromettent l'honneur de sa dame. Comme le dit M. Magendie : « ce respect est une des premières ordonnances d'amour » [46]. Cet aspect se retrouve dans *Lisandre et Caliste* à la scène 4 de l'acte 1 dans un dialogue entre les deux héros (v.257-282). Du Ryer s'adapte à un nouveau type de société fait de délicatesse, où l'homme se montre respectueux envers la femme et utilise un langage plus châtié.
 
 
-## Un langage galant
+## Un langage galant.
 
 La langue est épurée, le désir de se distinguer mène souvent les poètes galants à l'abstraction. Selon G. Reynier :
 
@@ -551,7 +551,7 @@ La délicatesse du goût exige des métaphores et des périphrases pour exprimer
 Du Ryer les emploie volontiers pour exprimer ses conceptions de l'amour (v.787-788, v.871-872 : « Tous les commandements que l'on nous fait d'aymer / En esteignent l'envie au lieu de l'enflammer. », v.881-882…), de l'amitié (v.825-826, v.831-832…), de la calomnie (v.665-668…)…
 
 
-## Les aspects négatifs du sentiment amoureux
+## Les aspects négatifs du sentiment amoureux.
 
 Selon Charron, la passion perçue comme un tourment pour l'homme constitue un thème qui connut une grande fortune littéraire. Puisque chaque amant possède l'âme de l'autre, celui qui se sent moins aimé croit mourir (Caliste : v.1078-1080, v.1451-1458 ; Hyppolite: v.1729-1730). L'amour implique également la perte de sa liberté, de son indépendance comme le déclare Hyppolite (III, 2 : v.916-920). Même si cette disparition paraît agréable (III, 2 : v.925-926), elle crée un lien de dépendance qui entraîne souvent la douleur. Aussi découvrons-nous un paradigme d'anti-valeurs tout au long de la pièce où l'amour devient un synonyme de larmes, de souffrances, de désir de vengeance ou de mort. Ainsi dans les monologues de Caliste (III, 4 ; IV, 2) et d'Hyppolite (IV, 4), les deux héroïnes se plaignent-elles de l'hypocrisie de Lisandre. Elles projettent de désespérer le perfide par leur mort. Ces deux amoureuses, l'une en voulant mourir de la main de son amant volage (Hyppolite), l'autre désirant mourir en combattant pour lui, veulent se venger judicieusement et frapper fort. Machiavéliques, elles ne se contentent pas de désespérer leur amant par leur simple disparition. Que Lisandre soit la cause directe ou indirecte de leur mort leur semble un projet de vengeance beaucoup plus cruel et donc plus satisfaisant. Caliste recherche une mort « officielle », résultat d'une action en justice et qui dévoilerait à la face du monde l'inconstance de son amant (v.1103-1104).
 
@@ -578,10 +578,10 @@ Honnêteté et galanterie impliquent un certain type de héros et d'héroïne, u
 Les critères d'une œuvre baroque se définissent par les notions d'instabilité, de mobilité et de métamorphose. Le Baroque, esthétique du changement, de la luxuriance et d'une certaine liberté attire les auteurs de la nouvelle génération qui voient dans la tragi-comédie un genre libre. Ils considèrent cette liberté comme un enrichissement, comme la promesse d'expériences intéressantes. Cependant si beaucoup de critères d'appartenance au mouvement baroque se retrouvent dans *Lisandre et Caliste*, ils ne sont pas suffisamment essentiels et nombreux pour la classer comme telle. Ces caractéristiques correspondent plus au désir qu'a Du Ryer de plaire à son public et de suivre le goût de l'époque, qu'à une volonté marquée de l'auteur d'affirmer son appartenance à ce mouvement. Malgré des traits communs, Baroque et Préciosité s'opposent plus qu'ils ne se rejoignent. Le Baroque est « l'unité mouvante d'un ensemble multiforme » (J. Rousset), définition pour le moins large d'un phénomène immense encore mal dominé. Aussi avons-nous préféré nuancer et définir notre pièce non comme l'alliance du Baroque et de la Préciosité, mais comme l'alliance du romanesque et de la galanterie.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour l'établissement du texte de *Lisandre et Caliste* de 1632, nous nous sommes livré aux rectifications suivantes :
  * – nous avons distingué i et u voyelles de j et v. consonnes, conformément à la règle adoptée par certains dès le milieu du XVII*e* ;
@@ -595,7 +595,7 @@ Les éditions originales de la pièce donnaient les indications scéniques en ma
 Les notes de bas de page indiquant les variantes se réfèrent toutes à la réédition de Lisandre et Caliste datant de 1634 par Pierre David.
 
 
-## Rectifications
+## Rectifications.
 
 Nous exposons ci-dessous une liste des erreurs et coquilles remarquées et corrigées dans les textes que nous proposons :
 
@@ -605,17 +605,17 @@ Nous exposons ci-dessous une liste des erreurs et coquilles remarquées et corri
 Ligne 2 a
 
 
-### Extraict du Privilège du Roy
+### Extraict du Privilège du Roy.
 
 Ligne 22 trene
 
 
-### Argument
+### Argument.
 
 Lignes 13, 15, 16, 18, 36 a / 25 Lon
 
 
-### Lisandre et Caliste
+### Lisandre et Caliste.
 
 Vers 13 Puisje / 35 atoute heure / 73 Cest / 94 à marié / 100 maymes / 136 Destre / 142, 690, 733, 1268 quelle / 197 men / 277 sainct / 340, 752 lon / 347 apppris /381, 1526, 1610 aveques / 390 n'avoit/ 400 lor / 401 largent / 403 ma promis / 503 me la dit / 631 il la ruiné / 678 alume / 824 extrêmes / 888, 1353, 1524, 1868, 1941 extréme / 939 sont / 1012 toute a l'heure et faict / 1033 E / 1106 indicrets / 1118 ma chargé / 1120 décrit / 1128 qu'elle / 1143 ames / 1191 l'auriers / 1207 Quil / 1238 l injure / 1257 Le travailles / didascalie p87 Hipolite, 846, 890, 921 hyppolite / 1328 de leurs ames / 1417 ce peu de bien / 1551 r'asseure / 1590 empruntéz / 1601 Ma montré / 1609 ny / 1869 pl*9* / 1881 peule .
 
@@ -630,7 +630,7 @@ Nous avons introduit les accents diacritiques toutes les fois qu'ils étaient n�
 Nous avons supprimé les accents diacritiques introduits à la suite d'une erreur d'impression : pour le à : vers 1387, 1716, 1914.
 
 
-## Les éditions de *Lisandre et Caliste*
+## Les éditions de *Lisandre et Caliste*.
 
 Du Ryer Pierre, *Lisandre et Caliste*, Tragi-comédie : Par le S*r* du Ryer. Paris, Pierre David, 1632. In-8, VIII f. - 137-I I I p.
 
@@ -685,10 +685,10 @@ _ 134 pages (le texte de la pièce).
 Grenoble, Bibliothèque Municipale : E. 29552.
 
 
-# LISANDRE ET CALISTE TRAGI-COMEDIE
+# LISANDRE ET CALISTE TRAGI-COMEDIE.
 
 
-## EPISTRE A MADAME, MADAME LA DUCHESSE DE LONGUEVILLE [49]
+## EPISTRE A MADAME, MADAME LA DUCHESSE DE LONGUEVILLE [49].
 
 MADAME, depuis que j'ay fait le dessein de vous faire voir de mes ouvrages, je l'ay cent fois quitté, & cent fois je l'ai repris ; vos vertus, qui ne vous font avoir que de haultes & serieuses pensees, m'en ostoient la hardiesse, & votre bonté, qui vous fait jetter les yeux sur les plus petites choses, me la rendoit au mesme instant. Mais en fin ayant consideré que les regles et les preceptes de la plus severe vertu ne deffendent pas les honnestes [50] divertissemens, je me suis facilement persuadé que Caliste pouvoit paraistre devant vous. C'est elle, MADAME, qui vous vient entretenir de ses traverses⁎ et qui vous demande apres toutes ses peines une place dans vostre cabinet pour y reposer seurement. Si elle tente de cette façon la derniere et la plus difficile de ses aventures, au moins elle a cette asseurance que c'est la plus glorieuse, et que si les autres luy ont fait aquerir l'estime d'un peuple entier, celle cy luy fera sans doute avoir des applaudissemens de tout le monde. L'on jugera de son merite par l'accueil que vous luy ferez, et pour moy j'auray subjet de croire que je vaux quelque chose si vous faites estat du dessein que j'ay de vous divertir⁎, et de paraistre [51].
 
@@ -697,7 +697,7 @@ MADAME,< vostre tres-humble et tres-obeissant serviteur. >
 DU RYER
 
 
-## A MONSIEUR DU RYER, SUR SON LIVRE. STANCES
+## A MONSIEUR DU RYER, SUR SON LIVRE. STANCES.
 Veux-tu que l'amitié qui conjoint nos deux ames  
 Te donne en ce lieu-cy des sentimens de flammes,  
 Et que sans artifice elle t'ose parler ;  
@@ -771,7 +771,7 @@ La rendit immortelle.  < VILLENEUVEIl s’agit de J.C. de Villeneuve (d’après
 Apres quelques accidens, qui seront peut-estre plus agreables dans la lecture des vers que dans celle d'un argument qui doit estre court, Cleandre mary de Caliste est tué de l'espee mesme de Lisandre qui aymoit Caliste. Elle est accusee d'avoir conspiré cette mort & mise prisonniere en mesme temps. Lisandre en est adverty & après l'avoir retirée de prison par le moyen du Geolier, & l'avoir rendue à ses parens, il s'en retourne chez les siens où son pere le veut marier avec Hyppolite : Mais il fait en sorte qu'il abandonne son pays, afin que le respect & l'obeissance, qu'on est obligé de rendre à ceux de qui l'on tient la vie, ne fut point cause qu'il manquast de fidelité à Caliste qui l'aymoit.Cependant Lucidan l'accuse d'avoir lâchement tué Crisante & Cloridan ; mais Lidian son amy & frere de Caliste obtient du Roi qu'il se viendra purger par un combat de cette lacheté dont on l'accuse. Il va donc chez Adraste pere de Lisandre, à qui il compte le sujet de sa venuë. Adraste ayant entendu le rapport de Lucidan se resout [56] de venir luy mesme soustenir l'innocence de son fils. Hyppolite, qui aymoit Lisandre, fait le mesme dessein sans le communiquer à personne, & Caliste à qui l'on avoit dit que Lisandre aymoit Hyppolite, desesperee de cette nouvelle se resout de se battre afin de mourir au combat ; Lisandre lui escrit mais elle n'adiouste point de croyance à ses lettres. Elle luy respond, & commande à celuy qui devoit porter la response de ne point partir sans avoir veu ce qui se feroit au combat, ou Hyppolite seulement sans estre cogneuë pour fille se battit contre Lucidan (qui en devint amoureux quelques temps apres). Caliste l'ayant veuë se retire desesperee, & cepandant l'on recognoit l'innocence de Lisandre en ce qui touchoit Crisante et Cloridan, & le Roy sçachant que la mort de Cléandre empeschoit Lisandre et Caliste de paraistre declare qu'il veut estre leur juge & leur donne la cour pour prison. L'on cherche Caliste, on la trouve, elle contracte amitié avec Hyppolite contre l'opinion de tout le monde, & pour luy tesmoigner qu'elle luy cedoit en tout elle luy fait present de ses armes. Mais Hyppolite faschee de voir Caliste plus belle qu'elle, en devient jalouse, et se retire de la cour afin de chercher Lisandre couverte des armes de Caliste, elle le rencontre accompagné du meurtrier de Cleandre ; Lisandre au rapport de son valet la prend pour Caliste & n'est pas si tost detrompé qu'il est une autre fois abusé, car il se bat contre elle pensant que ce soit Lucidan. Mais en fin il la recognoit, elle luy reproche son infidelité, Lisandre s'excuse si bien qu'elle en a pitié & luy promet de ne le point troubler en ses premieres amours, & qu'au contraire elle le servira ; Il passe en mesme temps un courrier de qui l'on apprend qu'un nommé Varasque doit vanger par un combat la mort de Cleandre dont on accuse Lisandre & Caliste. De sorte que cela oblige Lisandre & Hyppolite à se rendre promptement à la cour, ou par la deposition de celuy qui avoit tué Cleandre l'on est asseuré de l'innocence de Lisandre & Caliste, dont le Roy fait luy mesme le mariage, ainsi que celuy d'Hyppolite & de Lucidan.
 
 
-## LES ACTEURS [57]
+## LES ACTEURS [57].
  – LISANDREAmoureux de Caliste
  – CRISANTEAmy de Cloridan
  – LEONAmoureux de Clarinde
@@ -797,14 +797,14 @@ Apres quelques accidens, qui seront peut-estre plus agreables dans la lecture de
  – 
 
 
-## ACTE PREMIER
+## ACTE PREMIER.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LISANDRE , CRISANTE
 
 
-    LISANDRE [59]
+    LISANDRE [59].
 Indiscrets mouvemens⁎ d'une Amour insensee  
 Ne sortirez vous point de ma triste pensee ?  
 Le funeste⁎ entretien de mes feux criminels  
@@ -870,52 +870,52 @@ Et sa pudicité ne veut pas que j'espere,
 Sa beauté me contente et me rend malheureux ;  
 Mais quelqu'un interromp mes pensers amoureux.   
 
-    CRISANTE
+    CRISANTE.
 Cloridan outragé de la seule memoire,  
 Qui met devant ses yeux sa honte et votre gloire⁎,  
 Vous donne ce cartel⁎ où sa main a tracé  
 Tous les ressentiments d'un esprit offencé. [67]  
 
-    LISANDRE
+    LISANDRE.
 Cloridan se fait tort de croire la vengeance  
 Qui promet à son mal une fausse allegeance⁎ ,  
 J'accepte toutes fois le deffit qu'il me fait,  
 Et me voila tout prest d'en venir à l'effet⁎ ,  
 C'est parmy les combats où [68] la gloire⁎ se fonde. [69]  
 
-    CRISANTE
+    CRISANTE.
 Trouvez donq un amy dont le bras vous seconde.  
 
-    LISANDRE
+    LISANDRE.
 Pour avoir trop d'amis qui soutiennent mes droits  
 La raison me deffend d'en faire icy le choix,  
 Je ne puis employer un bras à ma deffence  
 Que l'autre mal content aussitost ne s'offence.  
 
-    CRISANTE
+    CRISANTE.
 Ce n'est pas la raison qu'estant avecques vous  
 Je ne sois employé qu'à juger de vos coups [70] ;  
 J'ayme mieux que mon sang colore un paysage  
 Que la honte s'en serve à rougir mon visage.  
 
-    LISANDRE
+    LISANDRE.
 Je sçais bien sans second terminer un combat ;  
 Mais si vous desirez paraistre en cét esbat,  
 Alors que Cloridan aura perdu la vie  
 Je pourray contenter vostre loüable envie.  
 
-    CRISANTE
+    CRISANTE.
 Je suis donc en estat d'attendre bien long temps,  
 
-    LISANDRE
+    LISANDRE.
 Et vous et votre amy je vous rendray contens. [71]  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 LEON, CLARINDE, PAGE, BERONTE
 
 
-    LEON
+    LEON.
 Clarinde je sçay bien que mon ame asservie  
 Doit à ton amitié⁎ le bonheur⁎ de ma vie,  
 Je sçay bien que tes yeux sans feinte et sans rigueur  
@@ -930,25 +930,25 @@ Mille difficultéz te semblent arrester
 Mais si tu m'aymes bien tu les peux surmonter ;  
 Chasse donq loing de toy tout ce qui te resiste.  
 
-    CLARINDE
+    CLARINDE.
 Leon, comment cela demeurant [72] chez Caliste ?  
 Le debuoir qui m'oblige à la suivre tousjours  
 Est le seul ennemi qui choque nos Amours.  
 Mais sans plus nous flatter⁎ par de vaines attentes  
 Je puis rendre bien tost nos deux ames contentes.  
 
-    LEON
+    LEON.
 Que dis tu mon soucy, quand viendra ce moment  
 Que reserve l'amour à mon contentement ?   
 
-    CLARINDE
+    CLARINDE.
 Caliste doibt passer la nuit avec Cleandre,  
 Et me laissera seule où je te veux attendre,  
 
-    LEON
+    LEON.
 Où mon cœur ? [73]  
 
-    CLARINDE
+    CLARINDE.
         En sa chambre, et pour y parvenir  
 Escoute les chemins qu'il te faudra tenir.  
 Alors que le soleil cachera la lumiere  
@@ -957,59 +957,59 @@ Et par la cette nuit tu viendras avec moy
 Reconaistre en effet que Clarinde est à toy.  
 Y pourras tu venir ?  
 
-    LEON
+    LEON.
         J'y viendrois ma chere Ame [74]  
 Me fallut-il passer les ondes et la flame,  
 Mon amour est extreme, et tu merites bien  
 Que pour te posseder on n'apprehende rien.  
 
-    CLARINDE
+    CLARINDE.
 Ainsi je t'attendray.  
 
-    LEON
+    LEON.
         Tu ne m'attendras guere ;  
 Mais j'attendray beaucoup une faveur si chere.  
 
-    PAGE
+    PAGE.
 Clarinde.  
 
-    CLARINDE
+    CLARINDE.
     L'on m'appelle, adieu.  
 
-    LEON
+    LEON.
         N'est-il pas nuit,  
 Puis que je voy desja mon soleil qui s'enfuit ? [75]  
 Mais que voudroit [76] Beronte ?  
 
-    BERONTE
+    BERONTE.
         Amy je viens d'apprendre  
 Que quelques malcontents ont appellé Lisandre,  
 Mais allons tesmoigner que l'honneur glorieux⁎  
 Ne fait pas moins d'amis qu'il fait voir d'envieux.  
 
-    LEON
+    LEON.
 Où se fait le combat ?  
 
-    BERONTE
+    BERONTE.
         Derriere la montaigne  
 Qui separe le bois d'avecques la campagne.  
 
-    LEON
+    LEON.
 Allons donq sans remise⁎, en pareils mouvemens⁎  
 Un moment differé fait de grands changemens.   
 
 
-### SCENE TROISIESME [77]
+### SCENE TROISIESME [77].
 CRISANTE, LISANDRE, LEON, BERONTE
 
 
-    CRISANTE
+    CRISANTE.
 Ha Cloridan est mort ! Son corps qui se consomme [78]  
 N'est plus rien maintenant que le reste d'un homme,  
 Mais son sang espanché ne m'accuse-il pas  
 D'estre si paresseux à vanger son trespas ?  
 
-    LISANDRE
+    LISANDRE.
 O mal'heur ! mon espée au besoing desmontee⁎  
 Refuse son secours à ma force arrestee.  
 Mais de quelque peril qui me puisse assieger  
@@ -1019,19 +1019,19 @@ Pour [80] venir d'un amy quelle te favorise,
 Mais as tu bien pour luy tant de ressentiment  
 Que tu vueilles en fin le suivre au monument⁎ ?  
 
-    CRISANTE
+    CRISANTE.
 Lisandre [81] les discours sont des armes de femme,  
 Aux hommes genereux⁎ l'usage en est infame⁎.  
 
-    LISANDRE
+    LISANDRE.
 J'ay fait voir des effets⁎ avecques mes discours.  
 Il se battent
 
 
-    CRISANTE
+    CRISANTE.
 Je te suy Cloridan, la mort finit mes jours.  
 
-    LISANDRE
+    LISANDRE.
 Va dire à ton amy dans les nuits infernales,  
 Qu'il n'avoit pris pour toy que des armes fatales  
 Et que le mesme bras qui sceut en triompher  
@@ -1039,43 +1039,43 @@ T'a fait son compagnon au voyage d'enfer.
 Mais apres tant de morts ma seureté consiste  
 A prendre un bon conseil de Cleandre et Caliste. [82]  
 
-    BERONTE
+    BERONTE.
 Ce sang qui fait changer à l'herbe de couleur  
 Me fait apprehender quelque insigne⁎ malheur.  
 Cherchons de tous costez ne laissons point de place  
 Où nos pieds diligens n'impriment quelque trace.   
 
-    LEON
+    LEON.
 Mais n'entendez vous pas quelques tristes soupirs  
 Qui me semblent venir d'ailleurs que des Zephirs ?  
 
-    CRISANTE
+    CRISANTE.
 Passans qui visitez des lieux si deplorables  
 En achevant mes jours soyez moy favorables.  
 
-    BERONTE
+    BERONTE.
 C'est Crisante, Bons Dieux ! amy quel attentat⁎  
 A reduit vostre vie en ce fascheux estat ?  
 
-    CRISANTE
+    CRISANTE.
 Le bon-heur de Lisandre aydé de son courage.  
 
-    BERONTE
+    BERONTE.
 Dites nous le subjet d'un si cruel ouvrage,  
 Si toutesfois le sang, que nous voyons couler,  
 Vous laisse assez de force afin de nous parler.  
 
-    CRISANTE
+    CRISANTE.
 Le ciel juste ennemy des desseins de l'envie  
 N'a voulu prolonger les restes de ma vie,  
 Que pour vous asseurer par mon sang respandu  
 Que Lisandre attaqué s'est fort bien deffendu.   
 
-    LEON
+    LEON.
 L'attainte de ce coup ne peut estre mortelle,  
 Mais faites nous sçavoir d'où vient vostre querelle.  
 
-    CRISANTE
+    CRISANTE.
 Il vous souvient encor qu'en ces fameux tournois  
 Qui resveillent souvent la vigueur des François,  
 Où la troupe des grands et des belles s'assemblent,  
@@ -1087,27 +1087,27 @@ Se resolut d'oster cette tache à sa gloire, [84]
 Si bien qu'à son appel Lisandre nous fait voir  
 Que jamais le bon droit ne manque de pouvoir.  
 
-    BERONTE
+    BERONTE.
 Quel chemin a-t-il pris ?  
 
-    CRISANTE
+    CRISANTE.
         Je ne vous le puis dire.  
 
-    LEON
+    LEON.
 Dites nous pour le moins où Cloridan expire.   
 
-    CRISANTE
+    CRISANTE.
 Cloridan icy pres hors d'espoir de guerir  
 Se noyant dans son sang acheve de mourir.  
 
-    BERONTE
+    BERONTE.
 Je m'en vay le chercher.  
 
-    CRISANTE
+    CRISANTE.
         Et moy qui sors du monde,  
 Je m'en vay le treuver dedans la nuit profonde.  
 
-    LEON
+    LEON.
 Crisante ; je luy tiens des discours superflus,  
 Les ames qui s'en vont ne nous entendent plus.  
 Mais n'aperçoy-je pas icy pres une espee  
@@ -1119,22 +1119,22 @@ Que l'on ne puisse pas sçavoir que je l'emporte,
 Une heure de travail luy peut rendre aysément  
 Ce qu'elle vient de prdre en cét evenement.  
 
-    BERONTE *revient*
+    BERONTE *revient*.
 Amy je l'ay treuvé moins sensible qu'un arbre,  
 Et mille fois plus froid que ne seroit un marbre.  
 Il semble que son sang sur qui [85] nage son corps  
 Luy serve de ruisseau pour passer chez les morts [86].  
 
-    LEON
+    LEON.
 Mais leur corps nous demande apres cette advanture  
 La derniere prison où nous met la nature.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 CLEANDRE, LISANDRE, CALISTE
 
 
-    CLEANDRE
+    CLEANDRE.
 Puis qu'il faut obéïr à la necessité  
 Qui borne en vous chassant nostre felicité,  
 Et puis que la rigueur trop aveugle au merite  
@@ -1146,13 +1146,13 @@ Que vous laissez icy la moitié de vous mesme,
 Si bien qu'en obtenant vostre grace du Roy  
 Je faits esgallement et pour vous et pour moy.  
 
-    LISANDRE
+    LISANDRE.
 Cleandre si vos soings travaillent à mon ayde [87]  
 Je n'ay point de douleur qui ne treuve un remede,  
 Et les plus grands dangers qui me sont apprestez  
 Seront bien tost vaincus si vous les combattez.  
 
-    CLEANDRE
+    CLEANDRE.
 L'amitié qui nous joint par des chaisnes communes  
 M'oblige à me roidir contre vos infortunes :  
 Mais je vay de ce pas vous faire preparer  
@@ -1160,46 +1160,46 @@ Tout ce qu'un prompt départ permet de desirer.
 Cher amy cependant l'entretien de Caliste  
 Chassera les soucis d'un visage si triste.  
 
-    LISANDRE
+    LISANDRE.
 Vous me rendrez ingrat en m'obligeant⁎ ainsi.  
 
-    CALISTE
+    CALISTE.
 Vous voulez de la sorte augmenter son soucy.  
 
-    CLEANDRE
+    CLEANDRE.
 Je reviendray bien tost.   
 
-    LISANDRE
+    LISANDRE.
         Faut-il que je vous quitte ?  
 Helas ! je fuy le mal, et je m'y precipite,  
 J'abandonne ces lieux affin de m'assurer⁎,  
 Mais vous abandonnant quel bien doy-je esperer ?  
 
-    CALISTE
+    CALISTE.
 Vous pouvez de l'absence esperer un remede  
 Contre tous les accez du mal qui vous possede,  
 Et de vostre mal'heur vous tirerez ce bien  
 Que le temps deffera vostre amoureux lien.  
 
-    LISANDRE
+    LISANDRE.
 Les plus puissants efforts du temps et de l'absence  
 Contre ma passion n'auront point de puissance.  
 Quand je m'esloigneray des beautez que je sers,  
 J'auray tousjours au cœur la cause de mes fers.  
 
-    CALISTE
+    CALISTE.
 Ne parlez point d'amour, quelqu'un vous peut entendre,  
 Et vous rendre suspect à l'esprit de Cleandre.  
 
-    LISANDRE
+    LISANDRE.
 J'ay tant de bons desirs pour Cleandre et pour vous,  
 Qu'il le peut bien sçavoir sans en estre jaloux.  
 
-    CALISTE
+    CALISTE.
 J'en doubte neantmoins : Mais il vaut mieux me croire  
 Que de mettre au hazard vostre amour et ma gloire⁎.  
 
-    LISANDRE
+    LISANDRE.
 Merveilleuse beauté, dont le charme vainqueur  
 Nous peut laisser la vie en nous ostant le cœur,  
 Lisez donq dans mes yeux un discours qui vous touche⁎  
@@ -1211,7 +1211,7 @@ De me voir sans mourir si long-temps dans la flame,
 Et vous croirez qu'Amour m'ostant la liberté  
 Me donne avec ses feux son immortalité.  
 
-    CALISTE
+    CALISTE.
 Tant que l'honneur rendra vos passions discrettes  
 Unissant le respect à vos flames secrettes,  
 L'aymable souvenir de vos perfections⁎  
@@ -1219,7 +1219,7 @@ Partagera le soing de mes affections,
 Et puis que mon Amour est le prix de Cleandre,  
 Mon amitié sera le loyer de Lisandre.  
 
-    LISANDRE
+    LISANDRE.
 Si jamais mon esprit entretient un penser  
 Qui touche vostre honneur, et le puisse offencer,  
 Je demande à l'amour dont j'adore les traces  
@@ -1229,7 +1229,7 @@ Donnent l'ame à l'enfer et mes membres aux vers ;
 Ou que jamais le ciel ne s'arme d'aucun foudre⁎  
 Qui ne serve au dessein de me reduire en poudre.  
 
-    CALISTE
+    CALISTE.
 Si vostre cœur s'accorde avecque ces propos  
 Au milieu de vos feux vous serez en repos,  
 Et bien que vostre amour n'ayt rien de legitime  
@@ -1237,7 +1237,7 @@ Et qu'en la permettant ce soit commettre un crime,
 J'aymeray tousjours mieux faillir⁎ en l'endurant  
 Que d'estre criminelle en vous desesperant. [88]  
 
-    LISANDRE
+    LISANDRE.
 Si la saincte amitié que vous m'avez juree  
 Reçoit de mon respect son terme et sa duree,  
 Et si vous ne blasmez mon dessein vertueux  
@@ -1245,33 +1245,33 @@ Que quand je cesseray d'estre respectueux,
 Je suis desja certain que mon ame asservie  
 Jouïra d'un bon-heur aussi long que ma vie. [89]  
 
-    CALISTE
+    CALISTE.
 Soyez en assuré, mais que je crains pour vous  
 Que vostre esloignement soit plus facheux que doux.  
 
-    LISANDRE
+    LISANDRE.
 Puisque vous permettez à mon ame captive  
 D'adorer aujourd'huy [90] la plus belle qui vive,  
 J'emporte assez de force et de contentement  
 Pour vaincre les ennuis⁎ de mon esloignement.  
 
-    CLEANDRE *revient*
+    CLEANDRE *revient*.
 Lisandre tout est prest, et le temps desja sombre  
 Donne à vostre départ la faveur de son ombre.  
 
-    LISANDRE
+    LISANDRE.
 Helas ! si j'ay commis un crime en combattant,  
 J'en souffre dans l'esprit la peine en vous quittant. [91]   
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 BERONTE, ALCIDON
 
 
-    BERONTE
+    BERONTE.
 Ou courrez vous si tard ?  
 
-    ALCIDON
+    ALCIDON.
         Je m'en vay chez Cleandre  
 M'instruire du combat de nostre amy Lisandre,  
 Desja le bruit commun fatal⁎ à son renom  
@@ -1279,7 +1279,7 @@ Obscurcit làchement la gloire⁎ de son nom,
 L'on dit que l'artifice et non pas son courage  
 Luy donne en ce duel un honteux avantage.  
 
-    BERONTE
+    BERONTE.
 Je sçay ce qu'il a fait, et je puis au besoing  
 Contre ses ennemis en estre le tesmoing :  
 Tousjours le bruit commun est le fils du mensonge,  
@@ -1288,11 +1288,11 @@ Mais allons chez Cleandre, et je vous feray voir
 Ce que la verité fera par tout sçavoir.   
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME.
 LEON, CLARINDE, CALISTE, CLEANDRE, / BERONTE, ALCIDON
 
 
-    LEON
+    LEON.
 En fin sans estre veu me voicy sur la place  
 Où j'esprouve qu'Amour ne manque point d'audace.  
 Clarinde n'est pas loing ; mes veuz, et ses desirs  
@@ -1302,34 +1302,34 @@ Je ne sçaurois penser qu'une fille sommeille,
 Elle ne peut dormir avec beaucoup d'amour  
 Et la plus sombre nuict luy plaist mieux que le jour.  
 
-    CLARINDE
+    CLARINDE.
 Leon.  
 
-    LEON
+    LEON.
         Hà je te tiens, tu ne t'en peux dédire  
 Icy ma volonté finira mon martyre. [92]  
 
-    CLARINDE
+    CLARINDE.
 La Fortune contraire à nos feux mutuels  
 Nous fait servir de but à ses traits plus cruels,  
 Léon retirez vous, evitez la poursuite  
 Et sauvez promptement nostre Amour par la fuite.  
 
-    LEON
+    LEON.
 Que dites vous Clarinde ?  
 
-    CLARINDE
+    CLARINDE.
         Adieu j'entends du bruit,  
 Caliste vient icy pour y passer la nuit.  
 
-    LEON
+    LEON.
 Coment puis-je sortir sans me faire cognaistre⁎ ?  
 Choisiray-je la porte, ou plustost la fenestre ?  
 
-    CALISTE
+    CALISTE.
 Qui vous a fait entrer ? au secours.  
 
-    CLEANDRE
+    CLEANDRE.
         furieux⁎ [93],  
 Nous sçaurons le subjet qui t'ameine en ces lieux,  
 Ou de ta propre espee : hà le traistre me tuë,  
@@ -1337,7 +1337,7 @@ Et son mauvais dessein dessus moy s'effectue.
 Il laisse son espee dans le corps de Cleandre
  
 
-    CALISTE
+    CALISTE.
 Arrestez ce cruel, helas ! je parle en vain,  
 L'on diroit que la nuict approuve son dessein,  
 Et que pour en monstrer la poursuite impossible  
@@ -1349,26 +1349,26 @@ Emporte en mesme temps son Amour et sa vie,
 Dieux avecque ses jours disposez de mon sort, [95]  
 Ne doy-je pas mourir puisque mon cœur est mort ?  
 
-    BERONTE
+    BERONTE.
 Há mon frere n'est plus ! cette funeste⁎ espee  
 Ne fut pas sans subjet à sa mort occupee ;  
 C'est celle de Lisandre.  
 
-    ALCIDON
+    ALCIDON.
         Hé Dieux que dites vous ?  
 
-    BERONTE
+    BERONTE.
 Que l'on seme à dessein tant de maux parmy nous.  
 Clarinde vous direz cette tragique histoire  
 Où le vice rencontre une lâche victoire :  
 Ou la geyne⁎ obtiendra par une autre façon  
 Ce que vostre silence apprend à mon soupçon.  
 
-    CALISTE
+    CALISTE.
 Joindrez vous aux douleurs d'une perte incroyable  
 Le sanglant desplaisir de m'en croire coupable ? [96]  
 
-    BERONTE
+    BERONTE.
 Ce n'est pas d'aujourd'huy que nous avons appris  
 Qu'une impudique Amour enflammoit vos esprits,  
 Clarinde qui receut vos secrettes pensees  
@@ -1385,27 +1385,27 @@ Parlez parlez Clarinde, et soulagez mon mal [98]
 En me montrant l'auteur d'un acte si brutal,  
 Dites, ou la rigueur .  
 
-    CLARINDE
+    CLARINDE.
         Il est vray c'est Lisandre.  
 Elle monstre l'espee de Lisandre avec laquelle Leon venoit de tuer Cleandre.
 
 Aupres de ce tesmoing je ne le puis deffendre. [99]  
 
-    BERONTE
+    BERONTE.
 O perfide Lisandre, ô cœur formé de fer  
 Qu'une rage anima sur les bords de l'enfer.  
 
-    CALISTE
+    CALISTE.
 Que l'innocence est foible, où preside la rage !  
 Mais craindrois-je la mort apres un tel outrage ?  
 
-    BERONTE
+    BERONTE.
 Ces pleurs que vous versez aveq trop de raison  
 Ne vous peuvent sauver d'une estroite prison,  
 Et n'empescheront pas qu'une prompte justice  
 Ne travaille pour vous aux rigueurs d'un supplice.  
 
-    ALCIDON
+    ALCIDON.
 Où courez vous Beronte, escoutez mes discours ;  
 Mais je luy parle en vain, la fureur nous rend sourds,  
 Et nous faisant de feu, soubs ombre*⁎* d'allegeance⁎,  
@@ -1421,21 +1421,21 @@ Et son renom patit où votre gloire⁎ souffre, [100]
 Si bien que son retour, qui vous doit contenter,  
 Vous gardera l'honneur que l'on veut vous oster.  
 
-    CALISTE
+    CALISTE.
 Destins qui disposez la malice des Astres  
 A verser dessus moy ce qu'ils ont de desastres,  
 Je tireray ce bien de mes maux apparans⁎  
 Que je ne sçaurois pas en craindre de plus grands. [101]   
 
 
-## ACTE SECOND
+## ACTE SECOND.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LISANDRE, ALCIDON [102].
 
 
-    LISANDRE
+    LISANDRE.
 Depuis le triste jour que [103] tu me vins apprendre  
 Qu'on m'avoit accusé de la mort de Cleandre,  
 Et que pour ce subjet sans aucune raison  
@@ -1453,21 +1453,21 @@ Pour le persuader ont esté mes paroles,
 Si bien qu'il m'a promis de me rendre ce soir  
 Cet aymable⁎ subjet où j'ay mis mon espoir.  
 
-    ALCIDON
+    ALCIDON.
 En rompant les prisons [106] vous confessez le crime  
 Dont l'on ne peut avoir de preuve legitime.  
 Parroissez à la cour, allez y de ce pas.  
 
-    LISANDRE
+    LISANDRE.
 La colere du Roy ne me le permet pas.  
 Quand j'auray mis Caliste en lieu de sauve garde,  
 Je pourray mieux songer à ce qui nous regarde.  
 
-    ALCIDON
+    ALCIDON.
 Lors qu'on veut se purger d'un crime supposé  
 Rarement par la fuite on en est excusé.  
 
-    LISANDRE
+    LISANDRE.
 Lors qu'il s'agit d'un crime où la haine et l'envie  
 Par cent moyens divers poursuivent nostre vie,  
 Soit que l'on soit coupable, ou qu'on soit innocent  
@@ -1475,63 +1475,63 @@ Il est toujours moins seur d'estre present qu'absent.
 Approuve mon dessein, Amy, je t'en conjure,  
 M'en vouloir divertir⁎ c'est me faire une injure.  
 
-    ALCIDON
+    ALCIDON.
 Puisque c'est un dessein où je vous voy porté  
 Je ne resiste point à vostre volonté.  
 Mais avez-vous par fois Caliste entretenuë  
 Depuis qu'au Chastelet [107] on la voit retenuë ?  
 
-    LISANDRE
+    LISANDRE.
 Quand je luy veux parler le chemin m'est ouvert.  
 
-    ALCIDON
+    ALCIDON.
 Comment le pouvez-vous sans estre descouvert ?  
 
-    LISANDRE
+    LISANDRE.
 Aupres de la prison demeure une bouchere  
 Qui me fait posseder une faveur si chere.  
 
-    ALCIDON
+    ALCIDON.
 Je ne puis concevoir par quelle invention  
 Elle donne secours à vostre passion.  
 
-    LISANDRE
+    LISANDRE.
 Sa fenestre est si pres de celle de Caliste  
 Que je luy puis parler sans que l'on me resiste. [108]  
 
-    ALCIDON
+    ALCIDON.
 En fin je vous entends⁎ : mais quelle extremité  
 Vous contraint de vestir cét habit emprunté ? [109]  
 
-    LISANDRE
+    LISANDRE.
 Le Geolier m'a donné le conseil de le prendre  
 De peur d'estre cognu⁎ s'il me falloit attendre. [110]  
 En voyant ces habits inconus parmy nous  
 Qui s'imagineroit que Lisandre est dessous ?  
 
-    ALCIDON
+    ALCIDON.
 Vous voila fort bien fait, à vous voir de la sorte  
 Vous gaigneriés du pain allant de porte en porte.  
 
-    LISANDRE
+    LISANDRE.
 Si je tire aujourd'huy Caliste de tourment  
 Je gaigneray ma vie avec ce vestement.  
 Mais il est desja tard, l'obscurité m'invite  
 À donner au boucher encore une visite.  
 
-    ALCIDON
+    ALCIDON.
 Allons donq.  
 
-    LISANDRE
+    LISANDRE.
         En allant je vous feray sçavoir  
 La place destinee⁎ où je vous doy revoir.   
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 LE BOUCHER, LA BOUCHERE, LISANDRE.
 
 
-    LE BOUCHER
+    LE BOUCHER.
 Dy ce que tu voudras, que ton esprit s'en pique,  
 Je ne veux plus souffrir⁎ qu'il vienne en ma boutique,  
 Il fait beau voir entrer un gentilhomme icy,  
@@ -1541,11 +1541,11 @@ Qu'on mit au Chastellet la semaine derniere ;
 Mais que sçay je aujourd'huy que le monde est sans foy  
 Si ce jeune muguet [111] n'y viendroit point pour toy ?  
 
-    LA BOUCHERE
+    LA BOUCHERE.
 Alors qu' [112] il vous donna de si belles pistolles,  
 Que ne [113] luy teniez vous de semblables paroles.  
 
-    LE BOUCHER
+    LE BOUCHER.
 Si j'ay pris son argent, je l'ay fort bien servy,  
 J'ay tousjours son vouloir entierement suivy,  
 Lors qu'il a desiré de parler à sa dame  
@@ -1553,28 +1553,28 @@ J'ay tousjours là dessus satisfait à son ame,
 Cette seule faveur qu'il estime sans prix  
 Merite bien l'argent que nous en avons pris.  
 
-    LA BOUCHERE
+    LA BOUCHERE.
 S'il pouvoit reüssir dedans son entreprise  
 Nous pourrions quelque jour avoir sa chalandise⁎.  
 
-    LE BOUCHER
+    LE BOUCHER.
 Je ne veux point avoir de chalans⁎ comme luy  
 Qui me peuvent donner moins de bien que d'enuy.  
 
-    LA BOUCHERE
+    LA BOUCHERE.
 Vous rendant de la sorte à ses desirs contraire  
 Voulez vous d'un amy vour faire un aversaire ?  
 Quoy que vous me puissiez la dessus repartir  
 Evitons les moyens de nous en repentir.  
 
-    LE BOUCHER
+    LE BOUCHER.
 Alison [114], il vaut mieux à ce point se reduire  
 Que de se conserver un amy qui peut nuire.   
 
-    LA BOUCHERE
+    LA BOUCHERE.
 Qui peut nuire, coment ?  
 
-    LE BOUCHER
+    LE BOUCHER.
         Si quelqu'un s'apperçoit  
 Que nous favorisions le dessein qu'il conçoit,  
 Je crains d'en recevoir du reproche et du blasme,  
@@ -1585,162 +1585,162 @@ Quelque somme d'argent qui nous soit asseurée
 Bon renom vaut bien mieux que ceinture dorée. [117]  
 Mais faites retirer ce pauvre que voyla.  
 
-    LA BOUCHERE
+    LA BOUCHERE.
 Mon amy Dieu vous ayde, et tirez vous de la,  
 Il a bien la façon de quelque tirelayne⁎. [118]  
 
-    LISANDRE
+    LISANDRE.
 L'on parle à mon habit, soyez moins inhumaine,  
 Cognoissez⁎ vos amis.  
 
-    LA BOUCHERE
+    LA BOUCHERE.
         Nous les cognoissons bien,  
 Retirez vous d'icy vous n'y gaignerez rien.   
 
-    LISANDRE
+    LISANDRE.
 Cette chayne de prix.  
 
-    LA BOUCHERE
+    LA BOUCHERE.
         Nous en avons veu d'autres  
 Qui nous ont bien appris ce que valent les vostres.  
 Allez vendre aujourd'huy vos coquilles⁎ ailleurs.  
 
-    LISANDRE
+    LISANDRE.
 Ayez à mon subjet des sentimens meilleurs.  
 
-    LE BOUCHER
+    LE BOUCHER.
 Soignez à⁎ vostre bourse, et prenez y bien garde,  
 Ce mignon d'hospital [119] fixement la regarde.  
 
-    LISANDRE
+    LISANDRE.
 Recognoissez Lisandre.  
 
-    LE BOUCHER
+    LE BOUCHER.
         Hé monsieur excusez,  
 On ne cognoist pas bien ceux qui sont desguisez.  
 Nous souffririons pour vous toute sorte de geyne⁎.  
 
-    LISANDRE
+    LISANDRE.
 Pour vostre chastiment recevez cette chayne.  
 Je vay voir si Caliste est tousjours en soucy.  
 
-    LE BOUCHER
+    LE BOUCHER.
 Disposez du logis et de son maistre aussy. [120]  
 Cet homme a dans l'humeur je ne say quoy d'aimable⁎  
 Qui me charme l'esprit et me rend plus traitable.  
 
-    LA BOUCHERE
+    LA BOUCHERE.
 Mais dites qu'il avoit dans ses mains enfermé  
 Plustost qu'en son humeur ce qui vous a charmé. [121]  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 LISANDRE, CALISTE, LE GEOLIER, LE BOUCHER
 
 
-    LISANDRE *à la fenestre du Boucher.*
+    LISANDRE *à la fenestre du Boucher.*.
 Caliste.  
 
-    CALISTE *en prison.*
+    CALISTE *en prison.*.
     Estes vous là ?  
 
-    LISANDRE
+    LISANDRE.
         Prest à vous faire entendre  
 Le dessein du bonheur⁎, que vous devez attendre.   
 
-    CALISTE
+    CALISTE.
 Le Geolier me l'a dit, mais helas ! son effet  
 Nous chargera du mal que nous n'avons pas fait.  
 
-    LISANDRE
+    LISANDRE.
 Mais un trop long discours enfin nous pourroit nuire.  
 
-    CALISTE
+    CALISTE.
 Quand je seray dehors, où m'irez vous conduire ?  
 Où pourrons nous aller ? Le monde a-t-il des lieux  
 Où mon mauvais destin ne jette point les yeux ?  
 
-    LISANDRE
+    LISANDRE.
 Vous trouverez tousjours apres tant de misere  
 Un favorable asile auprés de vostre pere. [122]  
 
-    CALISTE
+    CALISTE.
 Dieux ! que puis-je esperer d'un pere rigoureux  
 Qui nous croit aujourd'huy justement malheureux ?  
 
-    LISANDRE
+    LISANDRE.
 Si vous n'esperez rien de la rigueur d'un pere  
 Vous pouvez esperer des douceurs d'une mere.  
 
-    CALISTE
+    CALISTE.
 Mais que deviendrez vous ?   
 
-    LISANDRE
+    LISANDRE.
         J'iray chez mes parens  
 Nourrir aveq mon feu mille soings⁎ differens.  
 La mille traits d'amour me peindront ma Caliste.  
 
-    CALISTE
+    CALISTE.
 Helas ! qu'ils la peindront soubs un visage triste.  
 
-    LE GEOLIER
+    LE GEOLIER.
 Madame, descendons, il est temps de partir.  
 
-    LISANDRE
+    LISANDRE.
 Trouves tu le temps propre à la faire sortir. [123]  
 
-    LE GEOLIER
+    LE GEOLIER.
 Tout le monde est couché ; la nuict nous est propice  
 Et je suis disposé de vous rendre service.  
 Mais dites moy, monsieur, les vostres sont ils prests ?  
 
-    LISANDRE
+    LISANDRE.
 Alcidon et les miens m'attendent icy prés.  
 
-    LE GEOLIER
+    LE GEOLIER.
 Monsieur descendez donq, attendez à la porte  
 Que j'ouvre le guichet, et que Madame sorte.  
 
-    LISANDRE
+    LISANDRE.
 Que je suis glorieux⁎ de t'obeyr ainsy.   
 
-    LE BOUCHER
+    LE BOUCHER.
 Le voicy qui descend, il faut l'attendre icy.  
 Que l'amour ce me semble [124] est une chose amere !  
 Et que c'est un mestier où l'on ne gaigne guere !  
 
-    LISANDRE
+    LISANDRE.
 Fermez vostre boutique, adieu.  
 
-    LE BOUCHER
+    LE BOUCHER.
         Tout est à vous  
 Soit de jour soit de nuit soyez libre chez nous. [125]  
 
-    LISANDRE
+    LISANDRE.
 O favorable nuit redouble un peu tes voiles [126]  
 Desrobe à l'univers la clairté des étoiles.  
 Mais il faut retourner dessoubs le chastellet.  
 
-    CALISTE, *en sortant de prison donne au geolier un brasselet.*
+    CALISTE, *en sortant de prison donne au geolier un brasselet.*.
 Amy reçoy de moy ce petit brasselet.  
 
-    LISANDRE
+    LISANDRE.
 Ha Madame !  
 
-    LE GEOLIER
+    LE GEOLIER.
         Monsieur faisons ce qu'il faut faire,  
 Cherchons la seureté qui nous est necessaire.  
 Nous sommes tous perdus si quelqu'un nous entend.   
 
-    LISANDRE
+    LISANDRE.
 Allons donc, le carosse icy prés nous attend. [127]  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 LIDIAN accompagné d'un amy.
 
 
-    LIDIAN
+    LIDIAN.
 Quelques difficultez, que tout le monde fasse  
 J'obligeray⁎ Lisandre en obtenant sa grace,  
 Et malgré Lucidan qui poursuit contre luy  
@@ -1759,11 +1759,11 @@ Mais afin d'en parler avec plus de loisir
 Allons chercher un lieu selon nostre desir.  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME.
 DORILAS, ORANTE, PAGE, LISANDRE
 
 
-    DORILAS
+    DORILAS.
 O Deplorable fille ! et moy plus deplorable  
 D'avoir produit le mal qui me rend miserable !  
 Helas ! que n'es-tu morte au moment que tes yeux  
@@ -1777,25 +1777,25 @@ En font le prix des uns et la peyne des autres.
 J'attendois de Caliste un visible support  
 Et c'est elle aujourd'huy qui me donne la mort.  
 
-    ORANTE
+    ORANTE.
 Quoique la passion⁎ vous suggere contre elle,  
 Je n'ay jamais pensé qu'elle fut criminelle.  
 
-    DORILAS
+    DORILAS.
 Encore si le Ciel contraire à mon bonheur⁎  
 M'avoit permis de voir ce traistre suborneur⁎ ,  
 J'irois aveq son sang reparer cet outrage.  
 
-    ORANTE
+    ORANTE.
 Vous changeriez bien tost d'humeur et de courage.  
 Au charme⁎ presenté de ses perfections⁎  
 Vôtre cœur s'ouvriroit à d'autres passions⁎.   
 
-    PAGE
+    PAGE.
 Monsieur un messager qui semble estre assez triste  
 Desire vous donner des lettres de Caliste.  
 
-    DORILAS
+    DORILAS.
 Qu'on le fasse monter, verray-je sans fureur  
 Les marques d'un esprit, qui cause tant d'horreur ?  
 Non, non, mais que le sang a de puissantes armes !  
@@ -1803,7 +1803,7 @@ Ce qu'il ne peut par force il le fait par ses charmes⁎,
 Et la sainte amitié⁎ qu'il fait naistre en nos cœurs  
 S'y conserve tousjours des mouvemens⁎ vainqueurs.  
 
-    LISANDRE, *desguisé en messager .* [129]
+    LISANDRE, *desguisé en messager .* [129].
 Caliste infortunee autant qu'elle est aymable⁎,  
 Qui n'a que le seul bien de n'estre pas coupable,  
 Provoque la pitié d'un pere sans esgal  
@@ -1813,19 +1813,19 @@ Ne permet pas d'avoir des transports de colere,
 Recevez cette lettre, et voyez si le Ciel  
 Peut traiter un esprit avecques plus de fiel.   
 
-    DORILAS
+    DORILAS.
 Qu'elle n'espere rien de ma douceur extreme  
 Tant qu'elle excusera l'homicide⁎ qu'elle ayme.  
 
-    LISANDRE, *en messager .*
+    LISANDRE, *en messager .*.
 Lisandre espouvanté d'un soupçon si puissant  
 Fera voir quelque jour son courage innocent.  
 
-    DORILAS
+    DORILAS.
 S'il n'est pas criminel, quel dessein legitime  
 L'empesche de venir se purger de son crime ?  
 
-    LISANDRE
+    LISANDRE.
 Son düel, et la mort de ces deux cavaliers  
 Que le Roy mit au rang de ses plus familiers.  
 Mais j'ay sçeu le subjet, dont l'injuste apparence  
@@ -1833,17 +1833,17 @@ Fait naistre tant de bruits contre son asseurance⁎,
 J'ay sçeu d'où ce soupçon prit ses commencemens  
 Et coment il trompa les meilleurs jugemens.  
 
-    ORANTE
+    ORANTE.
 Vostre discours m'estonne⁎, et mon ame confuse  
 Par les yeux du penser descouvre quelque ruse.  
 
-    DORILAS
+    DORILAS.
 Mon amy poursuivez, achevez ce propos  
 D'où nos cœurs affligez esperent du repos.  
 Et puisque les discours en sont assez capables  
 Faites deux innocens de deux esprits coupables.  
 
-    LISANDRE
+    LISANDRE.
 Vous sçavez que Lisandre assez cognu de tous  
 Fit tomber Cloridan soubs l'effort de ses coups ;  
 Mais vous ne sçavez pas qu'il laissa son espée  
@@ -1851,7 +1851,7 @@ Dessus le mesme pré qui la vid occupée,
 Et que quelqu'un depuis d'une rage enflammé  
 En a commis le mal dont Lisandre est blasmé.  
 
-    DORILAS
+    DORILAS.
 Je n'en puis que juger, ô deitez supremes  
 Donnez quelque relàche à mes ennuis⁎ extremes.  
 Mais de peur qu'en lisant ce pitoyable escrit  
@@ -1859,22 +1859,22 @@ Mais yeux ne fassent voir ce que j'ay dans l'esprit,
 Il me faut retirer ; je reviens tout à l'heure,  
 Dieux que l'instinct est fort en voulant que je pleure ! [130]  
 
-    ORANTE, *apres avoir leu la lettre.*
+    ORANTE, *apres avoir leu la lettre.*.
 Que cét evenement a troublé ma raison !  
 Quoy Lisandre a tiré Caliste de prison !  
 Elle est donq de ses pas la compagne fidelle ?   
 
-    LISANDRE
+    LISANDRE.
 S'il n'est pas dans son cœur, il n'est plus avec elle.  
 Mais quand elle suivroit ses pas et ses desseins,  
 Pourroit-elle montrer des sentimens plus sains ?  
 Puis qu'il sera tousjours en despit de l'envie  
 L'appuy de son honneur et celuy de sa vie.  
 
-    ORANTE
+    ORANTE.
 Il ne l'appuyra pas, comme [131] il l'a ruiné [132]. [133]  
 
-    LISANDRE
+    LISANDRE.
 A cela toutesfois les Cieux l'ont destiné,  
 S'il destruit son honneur ce n'est qu'en apparence⁎, [134]  
 Mais il est en effect sa meilleure asseurance⁎ ;  
@@ -1895,18 +1895,18 @@ La parfaite union de ses plus beaux tresors,
 Le Ciel qui ne veut pas, que l'injure l'offence, [135]  
 A fait naistre icy bas Lisandre à sa deffence.  
 
-    ORANTE
+    ORANTE.
 Je croy que c'est Lisandre. [136]  
 
-    LISANDRE
+    LISANDRE.
         Ouy, Madame, c'est luy.  
 C'est de vostre bon-heur le veritable appuy.  
 
-    ORANTE
+    ORANTE.
 Que vous me remplissez de soing⁎ et de merveille⁎ !  
 Qu'en cela vostre amour se montre sans pareille [137] !  
 
-    LISANDRE
+    LISANDRE.
 Ne vous estonnez⁎ pas de voir un changement  
 Qui ne peut reussir qu'à vostre allegement,  
 Caliste et ses vertus⁎ divinement escloses  
@@ -1914,21 +1914,21 @@ Font bien dedans les cœurs d'autres metamorphoses,
 Et comme ses beautez sont sans comparaison  
 Il faut l'aymer de mesme ou perdre la raison.  
 
-    ORANTE
+    ORANTE.
 Helas ! que cette amour en misere feconde  
 Contre elle et contre vous fera parler de monde.  
 
-    LISANDRE
+    LISANDRE.
 L'innocence plus forte a tousjours des clairtez  
 Qui descouvrent par tout ses divines beautez. [138]  
 
-    ORANTE
+    ORANTE.
 Les discours outrageux de l'humaine malice  
 Pour perdre la vertu l'habillent comme un vice,  
 Quelque vive clairté qui la puisse asseurer⁎  
 Elle trouve des nuits qui la font esgarer.  
 
-    LISANDRE
+    LISANDRE.
 Un astre enveloppé des voiles d'un nuage  
 Ne perd rien des clairtez qui sont en son visage ;  
 Le soleil, qui se cache, est tousjours sans pareil,  
@@ -1936,11 +1936,11 @@ En despit de l'orage il est tousjours soleil,
 Et la vertu cachée où regne l'injustice  
 Est encore vertu dessoubs l'habit du vice ;  
 
-    ORANTE
+    ORANTE.
 On vomit tant de maux contre sa pureté  
 Que l'on peut aysément alterer sa beauté.  
 
-    LISANDRE
+    LISANDRE.
 En vain pour obscurcir les estoiles plus claires  
 La terre pousse en l'air ses vapeurs ordinaires ,  
 Son dessein sans pouvoir ne luy sert seulement  
@@ -1948,7 +1948,7 @@ Qu'à destruire l'honneur de son propre element
 Puisque de ses vapeurs le Ciel forme un tonnerre  
 Qui retombe sur elle, et luy porte la guerre.  
 
-    ORANTE
+    ORANTE.
 La langue en produisant mille discours trompeurs  
 A bien plus de pouvoir, que n'ont pas des vapeurs,  
 Elle tuë, elle brusle, et son feu trop à craindre  
@@ -1956,7 +1956,7 @@ Ne rencontre point d'eaux qui le puissent esteindre,
 Le moindre vent l'allume, et le fait voir si fort  
 Que des torrens entiers cedent à son effort.  
 
-    LISANDRE
+    LISANDRE.
 La langue variable aussi bien que nostre ame  
 Apres beaucoup de maux esteints ce qu'elle enflamme,  
 Et lors qu'elle a destruit le temple des vertus⁎ [139]  
@@ -1964,11 +1964,11 @@ Elle peut restablir ses honneurs abatus,
 Faisant voir aux esprits qu'elle auroit pû seduire  
 Que le mesme pouvoir sçait bastir et destruire.  
 
-    ORANTE
+    ORANTE.
 Elle destruit l'honneur, ou du moins l'affoiblit  
 Bien plus facilement qu'elle ne l'establit.  
 
-    LISANDRE
+    LISANDRE.
 Selon qu'elle est propice ou qu'elle est ennemie  
 Elle engendre icy bas l'honneur ou l'infamie,  
 Si bien que nos amis nous peuvent conserver  
@@ -1979,7 +1979,7 @@ Et que vostre faveur, qui la doibt secourir,
 La peut facilement empescher de perir :  
 Souvenez-vous enfin que vous estes sa mere.  
 
-    ORANTE
+    ORANTE.
 Hà que ce mot me donne une atteinte severe !  
 Vostre demande est juste, et pour moy je consens  
 A terminer icy des malheurs si puissans.  
@@ -1988,38 +1988,38 @@ Que son ressentiment trouveroit sans excuse ;
 Le voicy qui revient, gouvernez vous si bien  
 Que par vostre discours il n'en cognoisse rien.  
 
-    DORILAS
+    DORILAS.
 Caliste est donq sortie, et cette miserable  
 A rompu les prisons*⁎* pour estre plus coupable.  
 Que le ciel ennemy de mes contentemens  
 A la fin de mes jours reservoit de tourmens !  
 Qu'avez vous resolu ?  
 
-    ORANTE
+    ORANTE.
         Qu'apres tant de contraintes  
 Elle arreste chez nous et ses pas et ses plaintes.  
 
-    DORILAS
+    DORILAS.
 Mais le moyen de [141] suivre un dessein si fatal⁎  
 Sans se rendre aujourd'huy complice [142] de son mal.  
 
-    LISANDRE
+    LISANDRE.
 Le devoir paternel vous servira d'excuse  
 Si quelque médisant vous blasme et vous accuse.  
 
-    DORILAS
+    DORILAS.
 Le devoir paternel, qui doibt suivre les loix,  
 Ne nous excuse pas du mespris de leurs droits.   
 
-    LISANDRE
+    LISANDRE.
 Mais les plus saintes loix n'apprenent pas au monde  
 Qu'un pere doibt laisser sa fille vagabonde.  
 
-    DORILAS
+    DORILAS.
 Faites que de ce pas ses veuz soient satisfaits,  
 Et que tous ces désirs se changent en effets⁎ [143].  
 
-    LISANDRE
+    LISANDRE.
 Que je suis glorieux⁎ d'obtenir la licence  
 De ramener chez vous la grace et l'innocence ;  
 Un pere fait mieux voir les soings de son amour  
@@ -2027,13 +2027,13 @@ A conserver l'enfant qu'à luy donner le jour,
 Lisandre sort
 
 
-    DORILAS
+    DORILAS.
 Que cette malheureuse a reçeu de traverses⁎ !  
 Qu'elle remplit mon cœur de passions⁎ diverses !  
 Elle devoit mourir, et se percer le sein⁎  
 Plustost que de songer à ce làche dessein.  
 
-    ORANTE
+    ORANTE.
 Les fers d'une prison et la crainte des flames  
 A d'estranges effets⁎ font resoudre nos ames,  
 Le desir de la vie est si doux et si fort  
@@ -2041,7 +2041,7 @@ Qu'il resiste tousjours à celuy de la mort,
 Et quelque vanité qui nous en fasse à croire  
 Il est plus naturel que l'honneur et la gloire⁎.  
 
-    DORILAS
+    DORILAS.
 Non pas aux vertueux, mais aux lâches esprits  
 Qui pour un jour de vie ont l'honneur à mespris,  
 Apprenez que sans luy c'est peu que nostre vie,  
@@ -2049,15 +2049,15 @@ Sans luy c'est une mort de mille autres suivie,
 Quelque possession que l'on ayt du bonheur⁎  
 C'est estre plus que mort que vivre sans honneur. [144]  
 
-    ORANTE
+    ORANTE.
 Qui ne sort pas des maux, voyant la porte ouverte,  
 A tousjours merité son malheur et sa perte.  
 
-    DORILAS
+    DORILAS.
 Il vaut mieux expirer au milieu du tourment  
 Que de suivre un moyen d'en sortir lâchement.  
 
-    ORANTE
+    ORANTE.
 Quand l'on void le plaisir que le beau temps appreste  
 Pourroit on se resoudre à suivre la tempeste ?  
 Et lors qu'on void la vie aveq tous ses attraits.  
@@ -2067,17 +2067,17 @@ Il est bien malaisé que la mort puisse plaire :
 Ceux qui l'ont preferée aux celestes clairtez  
 Ne pouvoient plus sortir de leurs aversitez.  
 
-    DORILAS
+    DORILAS.
 N'estoit ce pas assez qu'un espoir veritable  
 Luy parlast de la fin d'un sort si lamentable ?  
 Et que ma diligence en l'asseurant⁎ du port  
 Eust desja desarmé la justice et la mort ?  
 
-    ORANTE
+    ORANTE.
 Elle vid des faveurs presentes et certaines⁎  
 Que l'espoir incertain n'offroit pas à ses peynes.  
 
-    DORILAS
+    DORILAS.
 Mais d'un crime douteux, son esprit esgaré  
 En forme à son malheur un forfait asseuré⁎,  
 Quand l'on verroit parler l'innocence pour elle  
@@ -2088,14 +2088,14 @@ La voicy, suivez moy ; qu'elle vienne aveq vous,
 Que l'amour des enfans a de pouvoir sur nous !   
 
 
-## ACTE TROIS
+## ACTE TROIS.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 ADRASTE, LISANDRE
 
 
-    ADRASTE
+    ADRASTE.
 Mon fils, unique appuy du bonheur⁎ de ma vie,  
 Que vostre longue absence a mille fois ravie [146] ,  
 Apres tant de tourmens et d'outrages soufferts  
@@ -2133,17 +2133,17 @@ Vous avez sans travail⁎ desrobé sa franchise⁎ ;
 Et vous me mespriseriez de captiver vos jours  
 Soubs les plus beaux liens que fassent les Amours !  
 
-    LISANDRE
+    LISANDRE.
 Si les attraits vainqueurs de tant de belles ames  
 Ne pouvoient rien sur moy par leurs divines flames,  
 Vos seules volontez qui me peuvent charmer  
 Auroient assez d'appas pour me la faire aymer.  
 
-    ADRASTE
+    ADRASTE.
 Pourquoy donq au mespris d'une beauté parfaite  
 Vous monstrez vous si froid au bien qu'on vous souhaite ?  
 
-    LISANDRE
+    LISANDRE.
 Mon honneur offencé des discours qui se font  
 Vous fait voir malgré moy ces froideurs sur mon front,  
 Et mon renom blessé deffend à mon courage  
@@ -2151,13 +2151,13 @@ De sentir d'autre mal que celuy qui l'outrage ;
 Souffrez⁎ donq que je voye une autre fois la Cour  
 Et que je monstre ainsi mon innocence au jour.  
 
-    ADRASTE
+    ADRASTE.
 Brisez [150] là ce discours ; voulez vous que je souffre⁎  
 Que vous alliez encor vous jetter dans un gouffre ?  
 Nous avons des amis, dont les soings assidus  
 Vous rendront les plaisirs que vous avez perdus.  
 
-    LISANDRE
+    LISANDRE.
 Quelquefois l'on s'y trompe, et les amis extremes  
 Ont affaire souvent d'eux mesmes pour eux mesmes.  
 Nous vivons en un temps où l'amitié s'endort  
@@ -2165,29 +2165,29 @@ Quand la moindre disgrace a changé nostre sort,
 Et ne s'éveille point des liens qui la tiennent  
 Qu'au bruit delicieux des faveurs qui reviennent.  
 
-    ADRASTE
+    ADRASTE.
 La terre, qui porta des amis si parfaits,  
 En peut produire encor les merveilleux effets⁎.  
 
-    LISANDRE
+    LISANDRE.
 Pour les revoir encor dans le siecle où nous sommes,  
 Il faudroit que son dos portast les mesmes hommes [151].   
 
-    ADRASTE
+    ADRASTE.
 Ne me contestez plus, et suivez mes conseils  
 Qui sont de vostre mal les meilleurs appareils,  
 Tous les amis que j'ay, le temps les a fait naistre  
 Et l'un et l'autre sort me les a fait cognaistre.  
 
-    LISANDRE
+    LISANDRE.
 Pour craindre touteffois qu'ils changent à leur tour  
 C'est assez de sçavoir qu'ils sont nez à la cour. [152]  
 
-    ADRASTE
+    ADRASTE.
 Gardez que ce discours n'ajouste à vostre peine  
 Le honteux desplaisir de tomber dans ma haine.  
 
-    LISANDRE
+    LISANDRE.
 Le respect, que je doibs au nom que vous portez,  
 M'exemptera des maux dont vous m'espouvantez ;  
 Et pour vous asseurer que mon obeissance  
@@ -2195,7 +2195,7 @@ Ne fléchira jamais soubs une autre puissance,
 J'iray voir Hyppolite avecques des discours  
 Dont l'ardeur fera voir celle de mes Amours.  
 
-    ADRASTE
+    ADRASTE.
 Tenez vous donq ainsi dans le soing⁎ de me plaire,  
 Et mon affection en sera le salaire.   
 
@@ -2244,11 +2244,11 @@ J'iray chez Hyppolite afin de tesmoigner
 Que je n'en approchay que pour m'en esloigner. [157]  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 HIPPOLITE, LISANDRE
 
 
-    HIPPOLITE. *Seule.*
+    HIPPOLITE. *Seule.*.
 Ne dis plus que ton cœur a triomphé des charmes⁎  
 Qui font vivre l'amour, et luy donne des armes,  
 Ne dis plus que les traits, dont il blesse les Dieux,  
@@ -2288,36 +2288,36 @@ En le voyant icy succede à mon desir !
 D'où vient que la tristesse a peint vostre visage  
 Des plus pasles couleurs qu'elle met en usage,  
 
-    LISANDRE
+    LISANDRE.
 J'en touche le subjet, et je l'ay dans le sein⁎. [161]  
 Il prend Hyppolite par la main.
 
 
-    HYPPOLITE
+    HYPPOLITE.
 Que vous estes sçavant à cacher un dessein.  
 Vous me voulez montrer que si je me sçay plaindre  
 Vous sçavez en Amour encores mieux vous feindre.   
 
-    LISANDRE
+    LISANDRE.
 C'est assez que vos yeux me blessent tous les jours  
 Sans me blesser encor aveques vos discours. [162]  
 
-    HYPPOLITE
+    HYPPOLITE.
 Mon discours sans dessein est tesmoing de la crainte  
 Qui n'abandonne point l'amitié⁎ la plus sainte.  
 
-    LISANDRE
+    LISANDRE.
 Un amant⁎ souffre en l'ame un tourment sans esgal  
 Alors qu'on ne croid pas ce qu'il dit de son mal .  
 Croyez que dans l'exceds de l'ennuy qui me dompte,  
 Je ne vous sçaurois voir sans amour et sans honte.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Et sans honte ! il est vray, vous pourriez faire un choix  
 Ou vous eussiez vescu soubs de plus belles loix,  
 Mais.  
 
-    LISANDRE
+    LISANDRE.
         Vous m'expliquez mal, ma honte ne procede  
 Que d'un injuste outrage à qui ma gloire⁎ cede.  
 L'on m'accuse à la cour de tant de làchetez  
@@ -2329,10 +2329,10 @@ Pourrois-je bien sans honte approcher de vos yeux ?
 Helas ! ce desplaisir m'auroit l'ame ravie [163],  
 Si vos attraits plus forts ne conservoient ma vie.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Ce bruit injurieux ne peut il s'etouffer ?  
 
-    LISANDRE
+    LISANDRE.
 Ma presence suffit affin d'en triompher.  
 Mon pere, qui le sçait, est sourd à mon envie,  
 Il veut que la paresse asseure⁎ icy ma vie,  
@@ -2343,82 +2343,82 @@ Vous pouvez me tirer du mal qui me possede,
 Et bien que mon Amour soit certain de vos feuz  
 Vous pouvez en donner cette preuve à mes veuz.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Il n'est rien que pour vous je ne voulusse faire.   
 
-    LISANDRE
+    LISANDRE.
 Feignez donq d'avoir à la Cour quelque affaire,  
 Et mandez à celuy qui me donna le jour  
 Que vostre occasion⁎ y presse mon retour.  
 
-    HYPPOLITE
+    HYPPOLITE.
 L'apparence, qu'il souffre⁎ apres tant de tristesse  
 Que je mette au hazard sa plus grande richesse [165].  
 
-    LISANDRE
+    LISANDRE.
 Vos seules volontez, qui lui servent de loy,  
 Luy rendront mon départ moins sensible qu'à moy.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Quand il le souffriroit⁎, j'aurois tousjours le blasme  
 De ravir de son sein la moitié de son ame.  
 
-    LISANDRE
+    LISANDRE.
 J'endure assez pour vous, pour en avoir ce bien.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Enfin vostre desir l'emporte sur le mien.  
 Mais quoy ! pourray-je vivre où mon ame me quitte ?  
 
-    LISANDRE
+    LISANDRE.
 Je vous laisse la mienne, adorable Hyppolite,  
 Et pour la retrouver dedans un si beau lieu  
 Je veux que mon retour soit plus prompt que l'adieu.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Que le mal qui surprend a de puissantes armes,  
 Et que vos volontez sont fertiles en charmes⁎ !  
 Adieu donq, cher objet de mes contentemens.  
 
-    LISANDRE
+    LISANDRE.
 Há que ce triste mot a pour moy de tourmens !  
 La crainte d'augmenter la douleur qui me touche  
 M'empesche de tirer un adieu de ma bouche. [166]   
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME.
 LIDIAN, ADRASTE, PAGE
 
 
-    LIDIAN
+    LIDIAN.
 En fin malgré les soings de tous les envieux  
 Vostre fils satisfait paroistra glorieux⁎.  
 
-    ADRASTE
+    ADRASTE.
 Cher amy Lidian, que venez vous m'apprendre ?  
 
-    LIDIAN
+    LIDIAN.
 Nous avons obtenu la grace de Lisandre.  
 
-    ADRASTE
+    ADRASTE.
 Há que cette nouvelle est selon mes desirs,  
 Et que vostre discours fait naistre de plaisirs !  
 
-    LIDIAN
+    LIDIAN.
 A la charge pourtant qu'apres sa longue absence  
 Il viendra dans un mois prouver son innocence.   
 
-    ADRASTE
+    ADRASTE.
 Coment ?  
 
-    LIDIAN
+    LIDIAN.
         Par un combat, qu'un nommé Lucidan  
 Vint demander au Roy pour vanger Cloridan.  
 
-    ADRASTE
+    ADRASTE.
 L'accuse-t-on encor de la mort de Cleandre ?  
 
-    LIDIAN
+    LIDIAN.
 Personne la dessus ne le sçauroit deffendre,  
 Mais apres ce combat il s'en pourra purger,  
 Et delivrer ma sœur de peine et de danger.  
@@ -2428,39 +2428,39 @@ Ses belles actions, que tout le monde sçait,
 Ont esté les tesmoings qui m'en ont satisfait  
 Ne le verray je point ?  
 
-    ADRASTE
+    ADRASTE.
         Il est chez Hyppolite,  
 
-    LIDIAN
+    LIDIAN.
 Desja passionné d'avoir veu son merite.   
 
-    ADRASTE
+    ADRASTE.
 Ce n'est pas tant l'amour, que la civilité,  
 Qui le fait visiter cette jeune beauté,  
 Vous sçavez mieux que moy le subjet qui l'engage.  
 Mais sans doubte Hyppolite envoye icy ce page.  
 
-    PAGE
+    PAGE.
 Je vous viens apporter la lettre que voicy  
 De la part d'Hyppolite, et de Lisandre aussy.  
 
-    ADRASTE
+    ADRASTE.
 Que faict Lisandre ?  
 
-    PAGE
+    PAGE.
         Il vient de partir tout à l'heure [167].  
 
-    ADRASTE
+    ADRASTE.
 Pour aller ?  
 
-    PAGE
+    PAGE.
     Je ne sçay.  
 
-    ADRASTE
+    ADRASTE.
         Veut il donq que je meure ?  
 Permettez moy de voir cet escrit seulement.  
 
-    LIDIAN
+    LIDIAN.
 Lidian est à vous, usez en librement.   
 
     ADRASTE, *ayant leu la lettre*.
@@ -2468,14 +2468,14 @@ Cette lettre m'apprend qu'une petite affaire
 A rendu de mon fils le départ necessaire,  
 Il s'en retourne en cour, on me le mande ainsi.  
 
-    LIDIAN
+    LIDIAN.
 Cela vous doibt oster de peine et de soucy,  
 
-    ADRASTE
+    ADRASTE.
 Je ne plaindrois jamais sa mauvaise fortune  
 Si je ne cognoissois qu'elle vous importune.  
 
-    LIDIAN
+    LIDIAN.
 J'irois pour un amy jusque dans les enfers  
 Au mespris de la mort le retirer des fers.  
 Mais puisqu'il est party je ne puis d'avantage  
@@ -2485,15 +2485,15 @@ J'iray voir l'Angleterre où se fait un tournoy,
 Où de tous les costez on verra la noblesse  
 Exercer à l'envy [168] sa force et son adresse.  
 
-    ADRASTE
+    ADRASTE.
 Si vous n'aviez pas pris ce genereux⁎ dessein  
 Moy mesme je voudrois le mettre en vostre sein,  
 Allez et que le ciel seconde vostre envie. [169]   
 
-    LIDIAN
+    LIDIAN.
 Et qu'il prene tousjours le soing de vostre vie.  
 
-    ADRASTE
+    ADRASTE.
 Page va retrouver ta maistresse et luy dis  
 Qu'elle a pû [170] disposer et du pere, et du fils.  
 Adraste demeure seul
@@ -2514,7 +2514,7 @@ La mienne fera voir au combat qu'on propose
 Que le Pere et le Fils sont une mesme chose.   
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 CALISTE, LE VALET de Lisandre.
 
 
@@ -2589,11 +2589,11 @@ Mais n'appercoy-je pas le valet de Lisandre ?
 Il faut sçavoir de luy ce que j'en doibs attendre.  
 Que viens tu faire icy ?  
 
-    LE VALET
+    LE VALET.
         Mon maistre m'a chargé  
 De vous donner ce mot.                         1120  
 
-    CALISTE
+    CALISTE.
         Ce traistre a donq changé ?  
 Et par ce mot d'escrit [177] le perfide m'invite  
 D'assister à sa noce et de voir Hyppolite.  
@@ -2601,32 +2601,32 @@ D'assister à sa noce et de voir Hyppolite.
     LE VALET, *à l'escart*.
 Que je lis de transports sur son front irrité !   
 
-    CALISTE, *en lisant la lettre.*
+    CALISTE, *en lisant la lettre.*.
 Que tu desguises bien ton infidelité !  
 
     LE VALET, *à l'escart* .
 Ce murmure est tesmoing de quelque jalousie,  
 Qui regne injustement dedans sa fantaisie.  
 
-    CALISTE, *ayant lu la lettre.*
+    CALISTE, *ayant lu la lettre.*.
 Láche et perfide auteur de tous mes desplaisirs  
 Que tu t'es bien instruit à cacher tes desirs !  
 
-    LE VALET
+    LE VALET.
 A quelle extremité vous portez vous, Madame ?  
 Quel injuste soupçon refroidit vostre flame ?  
 
-    CALISTE
+    CALISTE.
 Cependant qu'il m'escrit et se rit de mes veuz  
 N'est il pas assuré⁎ qu'il brusle en d'autres feuz ?  
 
-    LE VALET
+    LE VALET.
 Il est vray.  
 
-    CALISTE
+    CALISTE.
     Pourquoy donq ? [178]  
 
-    LE VALET
+    LE VALET.
         Non pas ce que vous dites [179],  
 L'amour qu'il a pour vous est un feu sans limites ;  
 Il est vray que par tout ses parens rigoureux  
@@ -2635,15 +2635,15 @@ Et que sa prompte fuite a trompé leurs attentes
 Au point qu' [180]ils pensoient voir leurs volontez contentes.  
 Jugez de son amour par de si grands effets⁎.  
 
-    CALISTE
+    CALISTE.
 Que ne vient il guerir tant de maux qu'il a faits ?  
 N'avez vous pas appris devant vostre venuë  
 Coment tous ses amis ont sa grace obtenuë ?  
 
-    LE VALET
+    LE VALET.
 Nous ne l'avons point sceu.  
 
-    CALISTE
+    CALISTE.
         C'est ainsi que les Dieux  
 Ferment à mes travaux⁎ et l'oreille et les yeux,  
 Qu'ils ne m'espargnent pas me voyla toute preste  
@@ -2652,13 +2652,13 @@ Mais je demande en vain qu'ils me privent du jour
 Je dépends moins des Dieux que des traits de l'amour.  
 Qu'est devenu Lisandre ?  
 
-    LE VALET
+    LE VALET.
         Il a changé de terre,  
 Le grand bruit d'un tournoy l'appelle en Angleterre,  
 Et je veux m'exposer à mille cruautez      
 Si ma bouche est ouverte à quelques faussetez.  
 
-    CALISTE
+    CALISTE.
 Tes raisons, paraitroient plus fortes que ma flame [181]  
 Devant que d'arracher le soupçon de mon ame.  
 S'il avoit plus d'amour pour mes feuz vehemens  
@@ -2674,10 +2674,10 @@ Que ma foy ne prend rien des qualitez du vent,
 Et qu'un peu de raison me force de deffendre  
 La gloire⁎ de mes jours, et l'amour de Lisandre.  
 
-    LE VALET
+    LE VALET.
 Madame quel dessein prenez vous ?  
 
-    CALISTE
+    CALISTE.
         Il est pris ,  
 Mes transports poursuivront ce qu'ils ont entrepris,  
 Et le seul desespoir de mon ame confuse  
@@ -2685,23 +2685,23 @@ Me donnera la paix que l'amour me refuse.
 Ce bras sans habitude au travail des guerriers  
 Obtiendra des cyprés [182] s'il n'obtient des lauriers.  
 
-    LE VALET
+    LE VALET.
 Le Ciel n'a pas formé tant de beautez en terre  
 Pour les faire servir aux fureurs de la guerre.  
 
-    CALISTE
+    CALISTE.
 Approuve mon dessein, j'en viendray bien à bout,  
 Et sçache que l'amour nous rend propres à tout.   
 
 
-## ACTE QUATRE
+## ACTE QUATRE.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LE ROI, LUCIDAN, ADRASTE, / HIPPOLITE, CALISTE, BERONTE, / LIDIAN, LE JUGE de camp , DORILAS, /LE VALET de Lisandre.
 
 
-    LE ROY [183] 
+    LE ROY [183].
 En fin voicy le jour où le Ciel equitable  
 Nous fera voir Lisandre innocent ou coupable,  
 Les combats sont douteux soubs l'enseigne de Mars,  
@@ -2729,13 +2729,13 @@ Que l'on peut esperer d'une juste vengeance,
 Ou je suis resolu de suivre au monument⁎ [187]  
 Crisante et Cloridan outragez láchement.  
 
-    LE ROY
+    LE ROY.
 Mais je suis estonné⁎ de sçavoir que Lisandre  
 Paresseux à son bien ne vient pas se deffendre. [188]  
 L'on diroit aujourd'huy qu'il craigne [189] le malheur  
 Et qu'un juste remords endorme sa valeur. [190]  
 
-    ADRASTE *armé et couvert d'un casque.*
+    ADRASTE *armé et couvert d'un casque.*.
 Sire son innocence a des charmes visibles  
 Qui conduisent icy nos armes invincibles ;  
 Puisque pour satisfaire à la rigueur des loix  
@@ -2743,7 +2743,7 @@ Sans nous estre cognus⁎ nous paraissons tous trois,
 Qu'il nous soit accordé de vanger tant d'outrages  
 Et que trois opposez [191] exercent nos courages.  
 
-    LUCIDAN
+    LUCIDAN.
 Crisante et Cloridan qui vivent dans mon cœur  
 M'ayderont aysement à me rendre vainqueur,  
 Ou si de ces seconds les offres genereuses⁎  
@@ -2751,7 +2751,7 @@ Ne peuvent contenter vos ames valeureuses,
 Sans chercher autrepart de plus braves guerriers  
 Ce bras est mon second, et ce fer est mon tiers.  
 
-    LE ROY
+    LE ROY.
 C'est ainsi que souvent au martial⁎ orage  
 L'on perd le jugement pour garder son courage.  
 Le sort tousjours aveugle en ses eslections  
@@ -2761,11 +2761,11 @@ Apporte dans ce casque une marque⁎ certaine⁎.
 On prend le casque d'un des gardes qui doivent estre auprés du Roy.
 
 
-    ADRASTE
+    ADRASTE.
 Bien qu'un mesme dessein anime nos desirs,  
 Sire, nos volontez cedent à vos plaisirs.  
 
-    LE ROY
+    LE ROY.
 Et celuy dont la marque⁎ en sera retirée  
 Rendra de sa valeur la preuve desirée.  
 Si Lucidan luy cede, et s'il fléchit dessoubs,  
@@ -2777,66 +2777,66 @@ Et tire sans soupçon la marque⁎ du combat,
 Ainsi pour l'innocence on verra l'innocence  
 Disposer du combat plustost que ma puissance.  
 
-    CALISTE *armée, et couverte d'un casque à l'escart.*
+    CALISTE *armée, et couverte d'un casque à l'escart.*.
 Le Ciel est si subjet à rejetter mes veuz  
 Qu'il n'accordera point le trespas que je veux.  
 La crainte d'un effet⁎ contraire à mon envie  
 Est le mal plus cruel qui traverse ma vie.  
 
-    LE JUGE *de camp parle à l'enfant.*
+    LE JUGE *de camp parle à l'enfant.*.
 Tirez.  
 
-    CALISTE *voyant que l'on n'a pas tiré sa marque.*
+    CALISTE *voyant que l'on n'a pas tiré sa marque.*.
         Hà je voy bien que l'injure du sort  
 Pour allonger mes maux a differé ma mort.  
 On a tiré la marque d'Hippolite.
 
 
-    HIPPOLITE *armée et couverte d'un casque.* [192]
+    HIPPOLITE *armée et couverte d'un casque.* [192].
 La fortune sans yeux quelquesfois secourable  
 En a pris aujourd'huy pour m'estre favorable,  
 Et le Ciel qui sçait bien ce que j'ay merité  
 Accorde le hazard avecque l'equité.  
 
-    LE ROY *parlant à Hyppolite.*
+    LE ROY *parlant à Hyppolite.*.
 Suivez donq le destin dont la force immortelle  
 Voulut que vostre bras finît cette querelle.   
 
-    LUCIDAN
+    LUCIDAN.
 Cheres ombres jadis l'ornement des mortels  
 Si l'on ne vous fait pas des veuz et des autels,  
 Vous aurez pour le moins une juste victime  
 Que ce guerrier apporte à mon deuil legitime.  
 
-    HIPPOLITE
+    HIPPOLITE.
 Puisque tu cheris tant des ombres sans pouvoir  
 Pour faire un trait d'amy [193] tu les doibs aller voir.  
 
-    LE ROY
+    LE ROY.
 Quelle fureur les porte, et quelle violence  
 Accompagne les coups que chacun d'eux eslance.  
 Le tonnerre fondant d'un nuage escarté  
 Choque aveq moins d'effort le monde espouvanté. [194]  
 
-    LUCIDAN
+    LUCIDAN.
 Ton sang est mon espoir, et le prix de ma peine.  
 
-    LE JUGE *de camp.*
+    LE JUGE *de camp.*.
 Le travail⁎ les contraint de reprendre l'haleine.  
 
-    HIPPOLITE
+    HIPPOLITE.
 Ne te repose point, la force de ce bras  
 Te fera reposer plus que tu ne voudras.  
 
-    LE ROY
+    LE ROY.
 Mais qui sont ces guerriers plains d'ardeur et d'audace,  
 Qui d'un pas orgueilleux mesurent cette place⁎ [195].  
 
-    LE JUGE *de camp.*
+    LE JUGE *de camp.*.
 Cavaliers, quel dessein vous arme maintenant,  
 Et quel des deux partis allez vous soustenant ?  
 
-    BERONTE 
+    BERONTE.
 A dessein de finir une longue querelle  
 Nous paraissons ensemble où l'honneur nous appelle,  
 Et je me voy contraint d'opposer mon effort  
@@ -2848,10 +2848,10 @@ Je restablis l'honneur qu'un soupçon a destruit,
 Et malgré les assauts que l'innocence souffre  
 Je puis seul retirer la verité d'un gouffre.  
 
-    LUCIDAN
+    LUCIDAN.
 On ne l'en peut tirer si ce n'est par le fer.  
 
-    BERONTE [197]
+    BERONTE [197].
 Elle peut aysement sans armes triompher.  
 Alors que⁎ Cloridan eust appellé Lisandre,  
 Mille murmures sourds me le vindrent apprendre :  
@@ -2864,21 +2864,21 @@ Loüoit mesme en mourant Lisandre et sa valeur.
 Que si quelqu'un vouloit avancer le contraire  
 Voicy de quoy prouver ce que je ne puis taire [198].  
 
-    LE JUGE *de camp parlant à Lucidan.*
+    LE JUGE *de camp parlant à Lucidan.*.
 Quel indice avez vous que Lisandre ayt commis  
 Un si láche attentat⁎ envers vos deux amis ?  
 
-    LUCIDAN
+    LUCIDAN.
 Quel ? je n'en sçache point [199], mais l'honneur me convie  
 De vanger mes amis, ou de perdre la vie.   
 
-    LE JUGE *de camp*
+    LE JUGE *de camp*.
 Ce discours nous fait voir l'injuste passion⁎  
 Qui vous porte aujourd'huy dedans cette action.  
 On ne peut conserver le tiltre d'equitable  
 Et croire en mesme temps que Lisandre est coupable.  
 
-    LE ROY
+    LE ROY.
 Aussi comme son Roy propice à son bon-heur [200]  
 Je luy donne sa grace, et luy rend son honneur.  
 Apres avoir icy descouvert vos courages  
@@ -2886,19 +2886,19 @@ Genereux⁎ cavaliers descouvrez vos visages. [201]
 Et vous cher Lucidan embrassez ce guerrier  
 Qui vient de disputer aveq vous le laurier.  
 
-    ADRASTE
+    ADRASTE.
 Hé Dieux c'est Hyppolite [202] !  
 
-    CALISTE
+    CALISTE.
         Há je suis sans remede  
 Et j'ay plus de fureurs que l'enfer n'en possede.  
 Il me faut retirer.  
 
-    LE ROY
+    LE ROY.
         Un tel evenement  
 Ne met en mon esprit que de l'estonnement⁎.   
 
-    LUCIDAN
+    LUCIDAN.
 Est ce mars ou venus ? la force de ses armes  
 Me descouvre le Dieu qui preside aux allarmes,  
 Et tant d'attraits divins m'apprenent à leur tour  
@@ -2906,7 +2906,7 @@ Qu'on void en cet habit la mere de l'amour,
 Ou je croiray plustost que la nature assemble  
 Dedans un mesme corps Mars et l'Amour ensemble. [203]  
 
-    LE ROY
+    LE ROY.
 Invincible Amazonne, adorable en tous lieux,  
 Et dont la main sçait vaincre aussy bien que les yeux,  
 Qui vous a pû contraindre à monstrer que la gloire⁎  
@@ -2914,7 +2914,7 @@ Vous réservoit icy des palmes de victoire ?
 Genereuse⁎ beauté quel glorieux⁎ dessein  
 Vous a mis aujourd'huy les armes en la main ?  
 
-    HIPPOLITE
+    HIPPOLITE.
 Les vertus⁎ de Lisandre accusé sans offence  
 M'obligent maintenant à sa juste deffence.  
 Les cieux, de qui les yeux ne sont jamais fermez,  
@@ -2922,7 +2922,7 @@ Font voir à sa faveur les deux sexes armez,
 Et sa seule innocence est si forte et si belle  
 Qu'ils n'ont mis qu'une fille à combattre pour elle.  
 
-    LE ROY
+    LE ROY.
 Ainsi sans y songer le monde glorieux⁎  
 Possede une Minerve aussi bien que les Cieux,  
 O merveille⁎ sans pair, dont l'effet⁎ incroyable  
@@ -2930,16 +2930,16 @@ N'ayant pas esté veu sembleroit une fable !
 Qui ne s'estonneroit apres tant de hazards  
 De voir un corps de fille aveq un cœur de Mars !  
 
-    LUCIDAN
+    LUCIDAN.
 Jadis les cavaliers prodïgues de leurs armes [204]  
 Deffendoient les beautez, et la gloire⁎ des dames, [205]  
 Mais malgré les perils aux armes familiers  
 Les dames aujourd'huy vangent les cavaliers. [206]  
 
-    LE ROY
+    LE ROY.
 Mais qui peut empescher qu'on ne voye Lisandre ?  
 
-    LUCIDAN
+    LUCIDAN.
 Lors que vous eustes dit qu'il se viendroit deffendre,  
 Le dessein de le voir me fit aller aux lieux  
 Ou je croyois jouïr de l'aspect de ses yeux ;  
@@ -2974,36 +2974,36 @@ N'eust pas eu pour nous perdre assez d'eaux et de vent,
 Reduits à la mercy de si vives allarmes  
 Nous luy donnions encor nos soupirs et nos larmes. [209]  
 
-    LE ROY
+    LE ROY.
 Où fustes vous portez ?  
 
-    BERONTE
+    BERONTE.
         L'aveuglement du sort  
 Nous pensant abysmer nous jetta dans le port.  
 
-    ADRASTE
+    ADRASTE.
 Helas ! mon fils n'est plus !  
 
-    LE ROY
+    LE ROY.
         Le Ciel nostre vray pere  
 Conserve ses enfans lors qu'on en desespere.  
 Mais un des combattans s'est retiré de nous,  
 C'est celuy qui parust en mesme temps que vous.  
 Que l'on suive ses pas.  
 
-    LUCIDAN
+    LUCIDAN.
         C'est Lisandre peut estre,  
 Que la mort de Cleandre empeche de paraistre.  
 
-    LIDIAN
+    LIDIAN.
 Je ne sçaurois penser qu'il soit si pres d'icy  
 Sans nous venir oster de peine et de soucy.  
 
-    LE ROY
+    LE ROY.
 En est il donq coupable ? a-on quelques indices  
 Qu'il ayt pû mettre au jour de si noires malices ?  
 
-    BERONTE
+    BERONTE.
 Autrefois un soupçon injustement conçeu  
 Imprima ce penser dans mon esprit deçeu,  
 Mais enfin je confesse en ce lieu venerable  
@@ -3013,7 +3013,7 @@ Fit trouver à mon frère une subite mort,
 Lisandre aveq Tirsis estoit hors de la ville  
 Et contre vos fureurs, il cherchoit un asile.  
 
-    LE ROY
+    LE ROY.
 Nous sçaurons à loisir tant d'accidens⁎ divers  
 Que le temps a cachez, et qu'il a descouverts,  
 Mais puis qu'on void Lisandre en un estat si triste  
@@ -3025,7 +3025,7 @@ Que le Ciel fit expres pour estre sans pareilles.
 DORILAS, LIDIAN, et *le valet* de Lisandre demeurent.
 
 
-    DORILAS
+    DORILAS.
 Pauvre pere attaqué des plus sensibles coups  
 Que la rigueur du Ciel descharge dessus nous,  
 Mal voulu desormais des puissances divines  
@@ -3035,45 +3035,45 @@ Mais sa fuitte a produit de nouveaux desplaisirs ;
 Au point qu'on veut l'ayder, helas ! elle se tuë.  
 Dieux que reservez vous à mon ame abatuë ?   
 
-    LE VALET *de Lisandre.*
+    LE VALET *de Lisandre.*.
 Sa douleur me contraint de l'ayder au besoing.  
 
-    LIDIAN
+    LIDIAN.
 Amy que dites vous ?  
 
-    LE VALET
+    LE VALET.
         Caliste n'est pas loing.  
 
-    DORILAS
+    DORILAS.
 Ne me viens point flatter, puisque la flatterie  
 Ne peut rien sur un mal, qui se change en furie⁎.  
 
-    LE VALET
+    LE VALET.
 Vous la venez de voir en armes parmy nous,  
 C'est elle que l'on cherche, et qui s'enfuit de vous.  
 
-    DORILAS
+    DORILAS.
 O merveilleux effet⁎ d'une desesperée !  
 Dis nous en quel endroit elle s'est retirée.  
 
-    LE VALET
+    LE VALET.
 Dans le bois de Boulogne un petit logement  
 Luy fournit de⁎ retraite en son desguisement.  
 
-    DORILAS
+    DORILAS.
 Mon fils sans differer cherchez cette insensée  
 Qu'un furieux⁎ amour a vivement blessée.   
 
-    LE VALET
+    LE VALET.
 Pour moy sans retarder selon sa volonté  
 Je chercheray Lisandre où les eaux l'ont jetté.  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME.
 CALISTE, LIDIAN
 
 
-    CALISTE *seule vestuë en homme.*
+    CALISTE *seule vestuë en homme.*.
 En fin tous mes soupçons changez en assurance⁎  
 M'ostent ce peu de bien que donne l'esperance,  
 Et mon œil vray tesmoing assure mon esprit  
@@ -3117,58 +3117,58 @@ Ou mes yeux, ou mon cœur à ton premier effort ?
 Frappe frappe à ton gré ce corps abominable,  
 Ne choisis point d'endroits, il est partout coupable.  
 
-    LIDIAN
+    LIDIAN.
 C'est sans doute en ce lieu, qu'elle vient se cacher,  
 Voyla le logement, où je la doy chercher.   
 
-    CALISTE
+    CALISTE.
 Qu'ay-je veu [214] ! c'est mon frere.  
 
-    LIDIAN
+    LIDIAN.
         Arrestez vostre fuite,  
 Recompensez ainsi les soings⁎ de ma poursuite.  
 
-    CALISTE
+    CALISTE.
 Laissez moy disposer du reste de mes jours,  
 Puisque la seule mort a pour moy du secours.  
 
-    LIDIAN
+    LIDIAN.
 Qui vous fait sans subjet discourir de la sorte ?  
 
-    CALISTE
+    CALISTE.
 Les malheurs eternels où le destin me porte.  
 
-    LIDIAN
+    LIDIAN.
 Relevez vostre espoir, ma seur, assurez vous  
 Que le Ciel pitoyable a perdu son courroux,  
 Et que malgré les traits du mal qui vous offence  
 Il vous suffit qu'un Roy soit à vostre deffence.  
 
-    CALISTE
+    CALISTE.
 Helas ! qu'avez vous dit ?  
 
-    LIDIAN
+    LIDIAN.
         Suivez moy seulement,  
 Et j'en diray bien plus pour vostre allegement.   
 
-    CALISTE
+    CALISTE.
 Mais pourray-je paraistre, où la raison m'accuse ?  
 
-    LIDIAN
+    LIDIAN.
 L'amour est vostre mal, l'amour est vostre excuse.  
 
-    CALISTE
+    CALISTE.
 L'amour est le bourreau, qui me fera mourir.  
 
-    LIDIAN
+    LIDIAN.
 Si vous avez du mal, laissez vous secourir. [215]  
 
 
-### SCENE TROISIESME [216]
+### SCENE TROISIESME [216].
 LISANDRE, LEON
 
 
-    LISANDRE *accompagné d'un pilotte.*
+    LISANDRE *accompagné d'un pilotte.*.
 Helas ! au mesme instant qu'une belle esperance  
 Me presentoit le bien qui m'attendoit en France,  
 Au point mesme qu'un Roy finissoit mes travaux⁎  
@@ -3202,15 +3202,15 @@ Le sort nous fit voguer sur l'element des flames.
 Ce fut là malgré nous le chemin malheureux  
 Qui nous fit arriver en ce desert affreux. [218]  
 
-    LEON
+    LEON.
 Aveq tant de soupirs et de pleurs inutiles  
 Dont j'arrouse sans fin ces terres infertiles.  
 Je ne perds pas le mal dont je me sens attaint.  
 
-    LISANDRE
+    LISANDRE.
 N'entends-je pas la voix de quelqu'un qui se plaint ?  
 
-    LEON
+    LEON.
 Miserable Leon crois tu que ton courage [219]  
 Resiste plus longtemps aux efforts d'une rage ?  
 Et qu'il puisse eviter ces renaissantes morts  
@@ -3218,10 +3218,10 @@ Que te donne sans cesse un trop juste remords ?
 Helas ! depuis le jour que ma main criminelle  
 Precipita Cleandre en la nuit eternelle.  
 
-    LISANDRE
+    LISANDRE.
 Bons Dieux qu'ay-je entendu ? [220]  
 
-    LEON
+    LEON.
         Mille et mille vautours  
 Me devorent le cœur qui renaist tous les jours,  
 Et parmy les douleurs où mon ame est portée  
@@ -3235,7 +3235,7 @@ Et mes propres pensers me servent de bourreaux.
 Par tout un criminel trouve qui le travaille⁎,  
 Et porte son enfer en quelque lieu qu'il aille.  
 
-    LISANDRE
+    LISANDRE.
 Puis-je croire aysement au milieu de mes fers  
 Qu'on trouve tant de bien en des lieux si desers ?  
 Conduits par la faveur des bonnes destinées  
@@ -3247,14 +3247,14 @@ Leon tu finiras ma longue inquietude,
 Resous toy maintenant ou de suivre mes pas  
 Ou d'esprouver icy les rigueurs du trespas. [223]  
 
-    LEON
+    LEON.
 Helas ! j'avois jugé que ces lieux effroyables  
 Estoient faits seulement pour les esprits coupables.  
 
-    LISANDRE
+    LISANDRE.
 Responds moy.  
 
-    LEON
+    LEON.
         Si le Ciel ne m'avoit destiné  
 A finir le tourment que je vous ay donné,  
 Hà Lisandre mon bras armé contre ma vie  
@@ -3262,18 +3262,18 @@ Eust desja mille fois prevenu⁎ vostre envie,
 J'iray j'iray par tout, où vos pas tourneront [224]  
 Et si vous le voulez les enfers me verront.  
 
-    LISANDRE
+    LISANDRE.
 Paris te reverra, ta voix et ta presence  
 Briseront tous les fers, qui chargent l'innocence.  
 Rentrons dedans l'esquif⁎, les ondes et les Cieux  
 N'ont plus qu'un front riant qui rasseure nos yeux.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME.
 LUCIDAN, HYPPOLITE
 
 
-    LUCIDAN
+    LUCIDAN.
 Jamais tant de beautez ne forcerent mon ame  
 A fléchir soubs les loix d'une amoureuse flame,  
 Hyppolite sçait vaincre avecques tant d'attraits  
@@ -3283,21 +3283,21 @@ A plustost ressenty que recognu ses forces,
 Mais je voy cette belle, et je sens que mon cœur  
 Veut aller au devant d'un si noble vainqueur. [225]  
 
-    HIPPOLITE *armée et vestuë en homme.* 
+    HIPPOLITE *armée et vestuë en homme.*.
 En fin j'ay veu Caliste, et j'ay fait aveq elle  
 Une ferme alliance au lieu d'une querelle,  
 Et pour vous tesmoigner coment elle me void  
 Elle m'a fait present des armes qu'elle avoit. [226]  
 
-    LUCIDAN
+    LUCIDAN.
 Elle peut bien vous craindre, et vous ceder les armes,  
 Puisque les plus parfaits les cedent à vos charmes. [227]  
 
-    HIPPOLITE
+    HIPPOLITE.
 Par tout où nous voyons des hommes comme vous  
 La mesme flatterie a du poison bien doux.  
 
-    LUCIDAN
+    LUCIDAN.
 La loüange est bien juste alors que l'on la porte,  
 Où la force est si belle, et la beauté si forte ;  
 Mais apres tant d'effets⁎, qui rendent en ces lieux  
@@ -3307,21 +3307,21 @@ Sçachant que pour tout vaincre il ne faut que vos charmes⁎,
 Et que vostre œil divin sans le secours de Mars  
 Attire autant de cœurs qu'il jette de regards.  
 
-    HIPPOLITE
+    HIPPOLITE.
 Si l'amour eust jugé ma puissance assez forte,  
 Il ne m'eust pas donné les armes que je porte.  
 
-    LUCIDAN
+    LUCIDAN.
 Ce ne fut qu'à dessein d'apprendre à nos esprits  
 Que de toutes façons vous remportez un prix,  
 Et que le fer en main, et les yeux plains de flames  
 Vous captivez les corps dont vous avez les ames.  
 
-    HIPPOLITE
+    HIPPOLITE.
 Vos armes n'ayant pû triompher de mes jours  
 Vous voulez faire icy triompher vos discours.  
 
-    LUCIDAN
+    LUCIDAN.
 Que j'aurois triomphé si mes premieres plaintes  
 Portoient jusques à vous de legeres attaintes,  
 Et si vos yeux vainqueurs [228] pouvoient voir dans les miens  
@@ -3329,17 +3329,17 @@ Que mon ame captive adore vos liens :
 Mais que sçay-je indiscret en vous donnant de larmes  
 Si vostre cœur n'est pas aussi dur que vos armes.  
 
-    HIPPOLITE
+    HIPPOLITE.
 Que vous empruntez bien le visage d'Amant !  
 Que vous vous plaignez bien sans avoir de tourment ! [229]  
 
-    LUCIDAN
+    LUCIDAN.
 Le temps vous fera voir, et vous fera comprendre  
 Ce que vostre beauté vous pourroit mieux apprendre,  
 Cependant je vous laisse, et j'espère qu'un jour  
 On vous verra sensible au feu de mon Amour.  
 
-    HIPPOLITE *seule .*
+    HIPPOLITE *seule .*.
 Puis-je estre sans transports ou ma triste pensée  
 Entretient les douleurs de mon ame insensée ?  
 Puis-je estre sans fureur, où l'amour me fait voir  
@@ -3388,16 +3388,16 @@ Et l'effet⁎ sans pareil d'une amour sans pareille
 S'il ne l'emplit de feu, l'emplira de merveille⁎.   
 
 
-## ACTE CINQ
+## ACTE CINQ.
 
 
-### SCENE PREMIERE
+### SCENE PREMIERE.
 LISANDRE, SON VALET, /HYPPOLITE, UN COURRIER
 
 Leon doit accompagner Lisandre.
 
 
-    LISANDRE
+    LISANDRE.
 Apres tant de soucis, et des maux si puissans  
 Que ta rencontre plaist à mes yeux languissans,  
 Jamais le jour naissant n'obligea⁎ d'avantage  
@@ -3435,15 +3435,15 @@ En ce que j'ay causé les soupçons de Caliste,
 J'ay fait autant de maux en vivant sous sa loy,  
 Qu'Hyppolite receut de paroles de moy.  
 
-    LE VALET
+    LE VALET.
 Monsieur, voicy Caliste avec les mesmes armes  
 Qui couvrirent pour vous ses beautez et ses charmes. [235]  
 
-    LISANDRE
+    LISANDRE.
 O l'heureuse rencontre ! Amour faits voir icy  
 Que la fidelité fut tousjours mon soucy.  
 
-    HYPPOLITE *sous les armes de Caliste.*
+    HYPPOLITE *sous les armes de Caliste.*.
 Je voy mon desloyal, il s'avance le traistre,  
 C'est sans doute en ce lieu que je le doy cognaistre⁎,  
 Ses esprits esgarez dans le ravissement⁎  
@@ -3451,7 +3451,7 @@ Se laissent abuser par mon desguisement,
 Et ses yeux où la feinte est sans cesse occupee  
 Le tromperont luy mesme apres m'avoir trompée.  
 
-    LISANDRE
+    LISANDRE.
 Belle que la valeur, les graces, et le jour  
 Firent la seur de Mars, et la mere d'Amour,  
 Puisque le ciel plus doux vous fait revoir Lisandre,  
@@ -3467,10 +3467,10 @@ A remply vostre esprit du soupçon qui l'irrite,
 Et ma voix aujourd'huy ne sçauroit pas nier  
 D'avoir feint que mon cœur estoit son prisonnier.  
 
-    HIPPOLITE
+    HIPPOLITE.
 Há traistre.   
 
-    LISANDRE
+    LISANDRE.
         Mais jugez pour ma flame eternelle  
 Que ce fut un effet de la voix paternelle,  
 Et sans rendre mon cœur ou volage ou suspect  
@@ -3480,47 +3480,47 @@ Limite son pouvoir à contenter la veuë,
 Mais Caliste plus forte a des attraits vainqueurs  
 Qui contentent les yeux, et captivent les cœurs.  
 
-    HYPPOLITE *à l'escart.*
+    HYPPOLITE *à l'escart.*.
 Apres avoir souffert de si sanglans outrages  
 A quoy me resoudront mes fureurs et mes rages ?  
 De qui doy-je esperer la fin de mes tourmens ?  
 
-    LISANDRE
+    LISANDRE.
 Vous la devez trouver dans mes embrassemens [236].  
 
-    HYPPOLITE
+    HYPPOLITE.
 Que l'on croid aysément tout ce que l'on desire ! [237]  
 Cruel ne pense plus que Caliste respire,  
 Tu vois son homicide⁎.   
 
-    LISANDRE
+    LISANDRE.
     Helas !  
 
-    HYPPOLITE
+    HYPPOLITE.
         et Lucidan  
 Prest à sacrifier ton sang à Cloridan.  
 Si ce bras a vaincu celle qui te surmonte,  
 Juge combien ce fer te prepare de honte.  
 
-    LISANDRE
+    LISANDRE.
 Qu'une divinité soit morte à mon secours !  
 
-    HYPPOLITE
+    HYPPOLITE.
 Ses armes que je porte asseurent⁎ mon discours.  
 
-    LISANDRE
+    LISANDRE.
 Tu trouves son amant⁎ et son vangeur ensemble,  
 Et pour ton chastiment le destin les assemble.  
 Ils se battent.
 
 
-    HYPPOLITE
+    HYPPOLITE.
 Le malheur me renverse, et non pas ta valeur.  
 
-    LISANDRE
+    LISANDRE.
 Ce dernier coup t'immole à ma juste douleur.  
 
-    HYPPOLITE *se descouvre.* [238]
+    HYPPOLITE *se descouvre.* [238].
 Traistre voy l'ennemy, que le sort t'abandonne,  
 Suy tous les mouvemens⁎ que la rage te donne ,  
 Et si tu veux plustost accomplir ton dessein  
@@ -3548,15 +3548,15 @@ Tu ne peux eviter celuy là d'homicide⁎,
 Je m'ayderay moymesme, et j'obtiendray de moy  
 La douceur du repos que j'attendois de toy.  
 
-    LISANDRE
+    LISANDRE.
 Qu'avez vous resolu ? que faites vous Madame ?  
 
-    HYPPOLITE
+    HYPPOLITE.
 Perfide je te rends les preuves de ma flame,  
 Et puis que ta rigueur a refusé mes veuz,  
 Je les donne à la mort aussi bien que mes feuz.  
 
-    LISANDRE
+    LISANDRE.
 Convertissez sur moy ce dessein effroyable,  
 Si vous voulez du sang, que ce soit d'un coupable,  
 Ou si je suis indigne au milieu de mon dueil  
@@ -3564,7 +3564,7 @@ Qu'une si belle main me conduise au cercueil,
 Voyez moy recevoir sans malice et sans feinte  
 Le libre chastiment d'une offence contrainte. [239]  
 
-    HYPPOLITE
+    HYPPOLITE.
 Ha ! Lisandre vivez tant que voudra le sort,  
 J'ayme bien mieux vous voir infidelle que mort,  
 Sans rendre contre vous vostre main criminelle  
@@ -3583,7 +3583,7 @@ Donne tousjours deux mains, deux yeux, et deux oreilles,
 Mais sçachant vostre feinte, et voyant mes langueurs  
 Qui ne voudra juger qu'elle donne deux cœurs.  
 
-    LISANDRE
+    LISANDRE.
 L'on me doit reprocher que mon ingratitude  
 Est un triste loyer de vostre inquietude,  
 Mais lors que la raison vous forcera de voir  
@@ -3591,19 +3591,19 @@ Que ceux qui sont liez ont bien peu de pouvoir,
 Tous vos ressentimens excuseront mon crime,  
 Qu'une amour violente a rendu legitime. [241]   
 
-    HYPPOLITE
+    HYPPOLITE.
 J'accuseray tousjours vos discours criminels  
 Dont la feinte me plonge en des maux eternels,  
 Et qui ne peuvent rendre à mon ame asservie  
 La douce liberté que vous m'avez ravie.  
 
-    LISANDRE
+    LISANDRE.
 Accusez les desseins d'un pere rigoureux,  
 De qui la volonté nous a fait mal-heureux ;  
 Accusez le respect et ses loix inhumaines,  
 Puis qu'il a seul causé vos tourmens et mes peines.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Vostre infidelité ne se peut excuser,  
 Vous pouviez bien me voir et non pas m'abuser ;  
 Sans estre obeissant à mon desadvantage  
@@ -3611,7 +3611,7 @@ Vous pouviez d'un regard refroidir mon courage,
 Et les loix du respect ne vous obligeoient pas  
 A feindre que l'amour accompagnoit vos pas. [242]  
 
-    LISANDRE
+    LISANDRE.
 Il est vray que j'ay tort, et mon ame confuse  
 Feroit un autre crime en cherchant une excuse,  
 Mais croyez que vos pleurs diviseroient mes feux,  
@@ -3619,7 +3619,7 @@ Si le cœur sans mourir se divisoit en deux :
 Mon Amour tient si fort de l'ame raisonnable  
 Qu'il ne peut diviser sa flame incomparable.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Et le mien tient si fort de la Divinité  
 Qu'il ne se peut changer par l'infidelité ;  
 La rigueur, le mespris, la fortune, et le blasme  
@@ -3629,10 +3629,10 @@ Mes souspirs eternels allument ses flambeaux,
 Et j'apprends aujourd'huy de ma perseverance  
 Qu'il peut vivre aysément où se perd l'esperance.  
 
-    LISANDRE
+    LISANDRE.
 He Dieux peut-on aymer la cause de son mal !  
 
-    HYPPOLITE
+    HYPPOLITE.
 C'est en quoy mon malheur ne treuve point d'esgal,  
 C'est en quoy je cognois⁎, esclave malheureuse,  
 Qu'il n'est point d'autre enfer que la peine amoureuse.  
@@ -3647,7 +3647,7 @@ Qu'autrefois vostre Amour ne parût veritable,
 Les grands maux ont ce bien qu'ils font naistre en tous lieux  
 La pitié dans les cœurs, et les larmes aux yeux.  
 
-    LISANDRE
+    LISANDRE.
 Si Caliste adorable autant qu'elle est fidelle  
 Ne peut rien dans mon cœur endurer avec elle,  
 Elle s'accordera de vous entretenir  
@@ -3657,41 +3657,41 @@ Tout autant d'amitié que vous avez de flame.
 Mais un homme incognu s'avance devers nous,  
 Il s'en faut informer, Amy d'où venez vous ?   
 
-    LE COURRIER
+    LE COURRIER.
 Je reviens de la Cour,  
 
-    LISANDRE
+    LISANDRE.
         Hé bien quelles nouvelles ?  
 Qui tient le premier rang au nombre des plus belles ?  
 
-    COURRIER
+    COURRIER.
 Chacun selon l'amour qui le tient arresté  
 Prodigue librement le prix de la beauté,  
 L'un le donne à Caliste, un autre s'en irrite,  
 Et le donne par force aux attraits d'Hyppolite.  
 
-    LISANDRE
+    LISANDRE.
 Que dit-on de Caliste ?  
 
-    COURRIER
+    COURRIER.
         On dit communement  
 Que Lucidan la voit en qualité d'amant. [243]  
 
-    LISANDRE
+    LISANDRE.
 En qualité d'amant !  
 
-    HYPPOLITE *à l'escart .*
+    HYPPOLITE *à l'escart .*.
         Puis au siecle où nous sommes  
 La verité se trouve aux paroles des hommes. [244]   
 
-    COURRIER
+    COURRIER.
 Et je croy que l'Hymen uniroit leurs amours  
 Si Varasque [245] n'eut pas interrompu leurs cours. [246]  
 
-    LISANDRE
+    LISANDRE.
 Comment cela ?  
 
-    COURRIER
+    COURRIER.
         Varasque ennemy de Lisandre  
 Vange par un combat le trespas de Cleandre :  
 La volonté du Roy permet à son effort  
@@ -3700,7 +3700,7 @@ Si bien que Lucidan et sa nouvelle amante⁎
 Moderent par la peur le feu qui les tourmente.  
 Voila ce que l'on dit.  
 
-    LISANDRE
+    LISANDRE.
         Adieu. Que les malheurs  
 M'ont en fin réservé de cruelles douleurs !  
 Que je voy desormais dans le cours de mes peines  
@@ -3716,32 +3716,32 @@ Pourrois-je sans mourir tant d'ennuis⁎ supporter ?
 Son desplaisir me touche, et sa douleur extreme  
 Me force maintenant à me trahir moy-mesme.  
 
-    LISANDRE
+    LISANDRE.
 Ce captif ayant mis son innocence au jour.  
 Il montre Leon .
 
 
-    HYPPOLITE
+    HYPPOLITE.
 Je veux prendre le soing d'y monstrer vostre amour,  
 Et je tesmoigneray par ce dernier office  
 Que pour vous secourir je m'expose au supplice.  
 
-    LISANDRE
+    LISANDRE.
 Vous monstrez vostre force, et vos perfections⁎  
 A surmonter ce Dieu qui fait nos passions⁎.  
 
-    HYPPOLITE
+    HYPPOLITE.
 Je tesmoigne combien mon ardeur est extreme,  
 Et qu'amour ne peut plus en produire de mesme.  
 Allons, Lisandre, allons, et souffrez⁎ de ce pas  
 Que ma voix vous deffende, aussi bien que mon bras. [247]   
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE.
 LE ROY, VARASQUE, ADRASTE / HYPPOLITE, LEON, CALISTE / LISANDRE, DORILAS, LUCIDAN.
 
 
-    LE ROY
+    LE ROY.
 Aussy tost que le Ciel eut fait naistre les princes  
 Qui tiennent dans leurs mains le destin des Provinces⁎,  
 Il fit naistre icy bas la Justice et les loix  
@@ -3763,11 +3763,11 @@ Qui doit montrer au jour l'innocence ou le crime :
 Quiconque sçait regner sçait observer les loix [250]  
 Et soustenir par tout la force de leurs droits. [251]  
 
-    VARASQUE
+    VARASQUE.
 Adraste, la raison te defend d'entreprendre  
 Ce que ton amitié⁎ te permet pour Lisandre.  
 
-    ADRASTE
+    ADRASTE.
 Varasque, mon effort fera voir à son tour  
 Que je sçay conserver ce que j'ay mis au jour.  
 Et la justice mesme au combat occupée  
@@ -3779,15 +3779,15 @@ M'oblige à soustenir tes orgueilleux deffis.
 Cessez de prodiguer vos jours et vos courages  
 Au point que [252] le repos triomphe des orages.  
 
-    LE ROY
+    LE ROY.
 L'on diroit que Pallas en ces habits cognus  
 Vient disputer encor la pomme de Venus [253].  
 
-    HYPPOLITE
+    HYPPOLITE.
 Leon approchez vous, et finissez la peine  
 Dont vous avez esté l'origine certaine⁎.  
 
-    LEON
+    LEON.
 Grand Roy, dont le renom vole en autant de lieux  
 Que le Soleil en void sous l'espace des cieux,  
 Ce bras seul a produit les effets deplorables  
@@ -3799,25 +3799,25 @@ A rempli le tombeau des cendres de Cleandre,
 Et si quelque coupable a le feu mérité  
 L'on doit ce chastiment à ma meschanceté.   
 
-    CALISTE
+    CALISTE.
 Que cét evenement me trouble et me console !  
 
-    DORILAS
+    DORILAS.
 Que je tire de bien d'une seule parole !  
 
-    LE ROY
+    LE ROY.
 Saisissez vous de luy, cette confession  
 Merite que l'on songe à sa punition.  
 Mais n'apprendrons nous rien du destin de Lisandre [255].  
 
-    HYPPOLITE *en descouvrant Lisandre.*
+    HYPPOLITE *en descouvrant Lisandre.*.
 Sire ce Cavalier vous le peut bien apprendre.  
 
-    CALISTE *en voyant lisandre.*
+    CALISTE *en voyant lisandre.*.
 Doy-je croire aujourd'huy le rapport de mes sens,  
 Qui trompa si souvent mes esprits languissans ?  
 
-    LISANDRE
+    LISANDRE.
 Prince, de qui la gloire⁎ est l'objet des Monarques  
 Où les Dieux ont laissé leurs plus visibles marques,  
 J'esprouve apres les maux, qui m'ont fait une loy,  
@@ -3831,39 +3831,39 @@ Alloit mettre au tombeau Caliste toute vive.
 Permettez une fois à mon cœur allegé  
 De vanger nostre honneur mille fois outragé.  
 
-    LE ROY
+    LE ROY.
 Le honteux repentir d'une telle injustice  
 Vous vange en mesme temps qu'il leur sert de supplice.  
 Mais pour finir des maux [257] si cuisans et si forts  
 Que les embrassements⁎ estouffent vos discords.  
 
-    VARASQUE
+    VARASQUE.
 Adraste, Dorilas, mon imprudence extreme  
 Cherchant un criminel le fait voir en moymesme ;  
 Caliste, et vous Lisandre ordonnez en effet  
 La reparation du crime que j'ay fait.  
 
-    ADRASTE
+    ADRASTE.
 Ne parlons plus de crime [258] où paroist l'innocence.  
 
-    DORILAS
+    DORILAS.
 Et qu'un parfait accord prenne icy sa naissance.   
 
-    ADRASTE
+    ADRASTE.
 Mon fils que je t'embrasse⁎ apres tant de soupirs  
 Que ton heureux retour convertit en plaisirs.  
 
-    LISANDRE
+    LISANDRE.
 Ma fuite m'a rendu digne de mille geynes⁎  
 Alors qu'elle a causé vos souspirs et vos peines.  
 
-    LE ROY
+    LE ROY.
 Lisandre voy Caliste assuré⁎ [259] de ton Roy,  
 Et vous et Dorilas approchez-vous de moy.  
 Le Roy parle à Adraste et à Dorilas.
 
 
-    LISANDRE
+    LISANDRE.
 Adorable prison des libertez des ames,  
 Vous pour qui tant de cœurs se sont changez en flames,  
 Et de qui les vertus⁎ et les divins appas  
@@ -3873,27 +3873,27 @@ Faites moy voir le port, ou bien la tombe ouverte,
 Je ne descendray pas dans l'horreur des enfers  
 Sans sçavoir endurer des flames et des fers. [261]  
 
-    CALISTE
+    CALISTE.
 Lisandre assurez⁎ vous, qu'une jalouse flame  
 Laisse aujourd'huy l'amour paisible dans mon ame.   
 
-    LE ROY
+    LE ROY.
 Donq apres tant de maux Hymen doit à son tour  
 Allumer son flambeau de celuy de l'amour,  
 Et je veux que ses loix donnent sans plus attendre  
 Et Lisandre à Caliste, et Caliste à Lisandre.  
 
-    ADRASTE
+    ADRASTE.
 De vostre volonté dépendent nos desirs, [262]  
 
-    DORILAS
+    DORILAS.
 Et de vostre vouloir nous tirons des plaisirs.  
 
-    LISANDRE
+    LISANDRE.
 Grand Roy juste par tout, que sans peyne et sans guerre  
 Le ciel charge vos mains du sceptre de la terre.  
 
-    LE ROY
+    LE ROY.
 Et pour rendre ce jour plus luisant et plus beau  
 Il faut qu'un autre Hymen y monstre son flambeau,  
 Lucidan dont la race est esgalle au merite  
@@ -3901,21 +3901,21 @@ Doibt joindre ses vertus⁎ à celles d'Hyppolite,
 Si toutesfois leurs veux d'accord avec les miens  
 Aspirent librement à de si doux liens.  
 
-    LUCIDAN
+    LUCIDAN.
 Que ces liens plairont à mon ame asservie.  
 Si la belle Hyppolite y veut joindre sa vie.   
 
-    HYPPOLITE
+    HYPPOLITE.
 Le respect que je doibs à vostre Majesté  
 M'a fait tousjours flechir sous vostre volonté.  
 Et le bien qui finit les ennuis⁎ de Caliste  
 Rend mon cœur plus content, qu'il n'avoit esté triste.  
 
-    CALISTE
+    CALISTE.
 Si nous avons du bien, Madame, nous devons  
 A vos rares vertus⁎ celuy que nous avons.  
 
-    LE ROY
+    LE ROY.
 Rendez aux immortels les premieres loüanges  
 Du bien-heureux succez⁎ de tant d'effets⁎ estranges,  
 Apres avoir fait voir qu'au mespris des douleurs  
@@ -3923,21 +3923,21 @@ L'innocence et l'amour triomphent des malheurs.
 FIN
 
 
-# LexiqueAccidentÉvénement, selon Furetière ce mot « signifie hasard, coup de fortune ».V. 1387Allégeance« Soulagement d'un mal » (Furetière).V. 70, 373, 1197Amitié« Affection qu'on a pour quelqu'un » (Furetière).V. 90, 583, 938, 1625, 1893Amant, amanteCelui qui aime d'une passion violente et amoureuse.V. 939, 1054, 1620, 1721, 1848Apparans« Ce qui est visible, certain, évident dont on ne peut douter » (Furetière).V. 387, 633AsseuranceConfiance en soi.V. 602, 634, 1345, 1417Asseurer« Rendre ferme, constant, hors de péril », ou encore « mettre en lieu de sûreté ».V. 210, 667, 763, 768, 887, 890, 958, 1037, 1132, 1720, 1960Certifier, annoncer.V. 1053, 1055Assurer (s')Se référer, s'en tenir à.V. 1037Attentat« Outrage ou violence qu'on tâche de faire à quelqu'un » (Furetière).V. 163, 1288Aymable« Qui a des qualités qui attirent l'amour ou l'amitié de quelqu'un » (Furetière).V. 50, 404, 585, 1765Bonheur« Se dit des rencontres, du hasard » (Furetière).V. 90, 502, 571, 747, 773, 1956Cartel« Écrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé » (Furetière).V. 67Certain« Constant, véritable… Se dit aussi pour fixé et précis » (Furetière).V. 765, 1222, 1880, 1905Chalan« Celui qui a coutume d'acheter à une boutique chez un même marchand » (Furetière).V. 463Chalandise« Concours de personne qui vont acheter dans une même boutique » (Furetière).V. 462Charme(s)Sens fort, « se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en l'âme » (Furetière).V. 575, 582, 893, 982, 1574CharmerExercer un charme.V. 1655Cognaistre Comprendre, découvrir, reconnaître.V. 321, 434, 483, 1043, 1163, 1208, 1609, 1682, 1741, 1812Coquille« Se dit figurément de toute sorte de marchandise dont on trafique » (Furetière).V. 487DesmontéeÉnervée, déchaînée.V. 137DespartirAttribuer.V. 1192DestinéeDésignée, fixée.V. 444Divertir« Réjouir. Il n'y a rien qui divertisse plus que la comédie » (Furetière).Épître, 418Effet« Signifie pratique, exécution » (Furetière). Ce mot désigne le passage à l'acte.V. 20, 72, 147, 728, 738, 832, 1139, 1237, 1325, 1409, 1571, 1641, 1653, 1671, 1740, 1985Ennui(s)Sens fort, peine très vive, souffrance.V. 47, 288, 544, 618, 1444, 1607, 1859, 1980Entendre« Signifie comprendre, pénétrer dans le sens de celui qui parle ou qui écrit » (Furetière).V. 431Entreprise« Résolution hardie de faire quelque chose ».Esmotion« Mouvement extraordinaire qui agite le corps et l'esprit et qui en trouble le tempérament » (Furetière).Esmouvoir« Esbranler. Se dit figurément des passions » (Furetière).EsquifEmbarcation légère.V. 1352, 1360, 551EstonnementSens fort, fait d'être frapper par le tonnerre sous l'effet de la surprise, de l'admiration ou autre…V. 355, 911, 1304EstonnerVoir ci-dessus.V. 605, 655, 1201, 1500, 1573, 1650, 1733Faillir« Pécher, manquer à son devoir » (Furetière).V. 275FatalÀ la fois imposé par le destin et funeste.V. 5, 295, 719Flater« Se dit communément en choses spirituelles. Flatter la douleur c'est à dire l'adoucir » (Furetière).V. 1057« Se repaître d'espérance » (Furetière).V. 105ForceneriesMot rare au XVII*e* siècle, il signifie « folie furieuse » (*Dictionnaire du français classique* de Dubois, Lagane et Lerond).V. 1113Foudre« Ce mot est l'un de ces substantifs que l'on fait masculin ou féminin comme on veut » (Vaugelas).V. 12, 269, 788, 1490Fournir dePermettre.V. 1412Franchise« Signifie chez les poètes et les amants, la liberté » (Furetière).V. 37, 806, 918, 1816FunesteQui apporte la mort.V. 3, 337, 1446, 1454, 1666Furie(s)« Passion violente de l'âme qui la transporte, qui outre sa colère » (Furetière). Au pluriel, ce terme désigne les divinités infernales, personnifications de la vengeance divine, qui entraient dans le corps des hommes pour les tourmenter.V. 354, 1114, 1406FurieuxPersonne emporté par de « violents mouvements d'âme, par des passions qui la font agir avec un grand emportement » (Furetière).V. 323, 376, 1414GardesRebords entre la lance et la poignée qui protègent la main.V. 194Généreux « Qui a l'âme grande et noble et qui préfère l'honneur à tout autre intérêt » (Furetière). Il a pour synonyme brave, vaillant, courageux.V. 146, 948, 1031, 1183, 1213, 1298, 1315, 1338, 1652Geyne« Se dit de toute peine ou affliction du corps ou de l'esprit » (Furetière). Pour un amant les gesnes sont les tourments qu'il endure à cause de son amour.V. 343, 561, 1948Gloire« Honneur, considération, qualité flatteuse » ou encore « réputation intacte aux yeux d'autrui et de soi-même, amour-propre » (*Dictionnaire du français classique*).V. 66, 73, 246, 296, 382, 742, 946, 1157, 1162, 1182, 1313, 1330, 1432, 1924GloireRenommée, « célébrité méritée par quelques actions éclatantes » (*Dictionnaire du français classique*).V. 1194Gloire (faire… de)« Se vanter de, se faire honneur de « (Furetière).V. 1445GlorieuxConnotation religieuse, se dit de quelqu'un « qui jouit de la béatitude éternelle » (Furetière).V. 127, 527, 644, 729, 988, 1228, 1315, 1323, 1572, 1603, 1883HomicideDésigne le meurtrier.V. 594, 1715, 1746InfameDéshonorant.V. 146, 1433InsigneÉclatant, remarquable.V. 156MarqueSigne fixé, déterminé ou encore empreinte servant à reconnaître, à distinguer une chose.V. 1222, 1225MartialQui manifeste du goût pour la lutte.V. 1217MerveilleAdmiration, surprise, étonnement.V. 653, 1325, 1393, 1642, 1653, 1772Mouvemens« Se dit des différentes impulsions, passions ou affections » (*Dictionnaire de l'Académie*).V. 1, 131, 584, 1052, 1270, 1726Monument« Signifie le tombeau dans le style soutenu et particulièrement en poësie » (Furetière).V. 144, 1199Obliger« Signifie faire quelque faveur, civilité, courtoisie » (Furetière).V. 227, 542, 1645Occasion« La cause, le sujet ». À mon occasion : « pour ma considération » (Furetière).V. 968Passion(s)« En Morale se dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens. Se dit par excellence de l'amour » (Furetière).V. 9, 569, 576, 734, 1220, 1269, 1291, 1867Perfections« Se dit au pluriel de l'assemblage de toutes sortes de bonnes qualités » (Furetière).V. 259, 575, 1866PlaceLieu du tournoi.V. 1262, 1281PrévenirDevancer.V. 1546Provinces« Les Provinces étaient originairement des Duchés, des Comtés, ou autres seigneuries considérables qui ont été réunies sous un même chef » (Furetière).V. 1873RavissementDésigne l'enlèvement par la force, le rapt. Dans l'univers amoureux, le nom marque précisément la dépossession de soi qu'éprouve l'être en proie à l'amour.V. 1683Remise (sans…)Sans retard.V. 131RetFilet. « Se dit en morale de certains engagements dont on a peine à se détacher » (Furetière).V. 914ResveriesDélires, folies, idées vaines et chimériques.V. 353Sein« Cœur » (Furetière).V. 735, 800, 931, 1488SoinsSoucis.V. 516, 653, 849, 1462Soigner à« Veiller à quelque chose, ne pas laisser ruiner quelque chose par sa négligence » (Furetière).V. 489SouffrirSupporter, permettre, tolérer.V. 446, 781, 819, 821, 969, 973, 1870, 1930SoulagerAider.V. 380Suborneur« Qui corrompt, qui débauche » (Furetière).V. 572Succez« Issue d'une affaire. Se dit en bonne et en mauvaise part » (Furetière).V. 1985Tire-laineVoleur, rôdeur de nuit.V. 481ToucherConcerner.V. 249TravailEffort, « se dit d'une douleur qu'on souffre » (Furetière).V. 806, 1144, 1258, 1479, 1640Travailler« Faire quelque chose qui donne de la peine, de l'occupation » (Furetière).V. 1529Traverses« Signifie obstacles à la réussite des affaires qu'on entreprend ou encore oppositions » (Furetière).Épître, v. 733Vertus« Forces, vigueur tant du corps que de l'âme » (Furetière). V. 646, 657, 691, 802, 1317, 1430, 1954, 1973, 1983
+# Lexique.AccidentÉvénement, selon Furetière ce mot « signifie hasard, coup de fortune ».V. 1387Allégeance« Soulagement d'un mal » (Furetière).V. 70, 373, 1197Amitié« Affection qu'on a pour quelqu'un » (Furetière).V. 90, 583, 938, 1625, 1893Amant, amanteCelui qui aime d'une passion violente et amoureuse.V. 939, 1054, 1620, 1721, 1848Apparans« Ce qui est visible, certain, évident dont on ne peut douter » (Furetière).V. 387, 633AsseuranceConfiance en soi.V. 602, 634, 1345, 1417Asseurer« Rendre ferme, constant, hors de péril », ou encore « mettre en lieu de sûreté ».V. 210, 667, 763, 768, 887, 890, 958, 1037, 1132, 1720, 1960Certifier, annoncer.V. 1053, 1055Assurer (s')Se référer, s'en tenir à.V. 1037Attentat« Outrage ou violence qu'on tâche de faire à quelqu'un » (Furetière).V. 163, 1288Aymable« Qui a des qualités qui attirent l'amour ou l'amitié de quelqu'un » (Furetière).V. 50, 404, 585, 1765Bonheur« Se dit des rencontres, du hasard » (Furetière).V. 90, 502, 571, 747, 773, 1956Cartel« Écrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé » (Furetière).V. 67Certain« Constant, véritable… Se dit aussi pour fixé et précis » (Furetière).V. 765, 1222, 1880, 1905Chalan« Celui qui a coutume d'acheter à une boutique chez un même marchand » (Furetière).V. 463Chalandise« Concours de personne qui vont acheter dans une même boutique » (Furetière).V. 462Charme(s)Sens fort, « se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en l'âme » (Furetière).V. 575, 582, 893, 982, 1574CharmerExercer un charme.V. 1655Cognaistre Comprendre, découvrir, reconnaître.V. 321, 434, 483, 1043, 1163, 1208, 1609, 1682, 1741, 1812Coquille« Se dit figurément de toute sorte de marchandise dont on trafique » (Furetière).V. 487DesmontéeÉnervée, déchaînée.V. 137DespartirAttribuer.V. 1192DestinéeDésignée, fixée.V. 444Divertir« Réjouir. Il n'y a rien qui divertisse plus que la comédie » (Furetière).Épître, 418Effet« Signifie pratique, exécution » (Furetière). Ce mot désigne le passage à l'acte.V. 20, 72, 147, 728, 738, 832, 1139, 1237, 1325, 1409, 1571, 1641, 1653, 1671, 1740, 1985Ennui(s)Sens fort, peine très vive, souffrance.V. 47, 288, 544, 618, 1444, 1607, 1859, 1980Entendre« Signifie comprendre, pénétrer dans le sens de celui qui parle ou qui écrit » (Furetière).V. 431Entreprise« Résolution hardie de faire quelque chose ».Esmotion« Mouvement extraordinaire qui agite le corps et l'esprit et qui en trouble le tempérament » (Furetière).Esmouvoir« Esbranler. Se dit figurément des passions » (Furetière).EsquifEmbarcation légère.V. 1352, 1360, 551EstonnementSens fort, fait d'être frapper par le tonnerre sous l'effet de la surprise, de l'admiration ou autre…V. 355, 911, 1304EstonnerVoir ci-dessus.V. 605, 655, 1201, 1500, 1573, 1650, 1733Faillir« Pécher, manquer à son devoir » (Furetière).V. 275FatalÀ la fois imposé par le destin et funeste.V. 5, 295, 719Flater« Se dit communément en choses spirituelles. Flatter la douleur c'est à dire l'adoucir » (Furetière).V. 1057« Se repaître d'espérance » (Furetière).V. 105ForceneriesMot rare au XVII*e* siècle, il signifie « folie furieuse » (*Dictionnaire du français classique* de Dubois, Lagane et Lerond).V. 1113Foudre« Ce mot est l'un de ces substantifs que l'on fait masculin ou féminin comme on veut » (Vaugelas).V. 12, 269, 788, 1490Fournir dePermettre.V. 1412Franchise« Signifie chez les poètes et les amants, la liberté » (Furetière).V. 37, 806, 918, 1816FunesteQui apporte la mort.V. 3, 337, 1446, 1454, 1666Furie(s)« Passion violente de l'âme qui la transporte, qui outre sa colère » (Furetière). Au pluriel, ce terme désigne les divinités infernales, personnifications de la vengeance divine, qui entraient dans le corps des hommes pour les tourmenter.V. 354, 1114, 1406FurieuxPersonne emporté par de « violents mouvements d'âme, par des passions qui la font agir avec un grand emportement » (Furetière).V. 323, 376, 1414GardesRebords entre la lance et la poignée qui protègent la main.V. 194Généreux « Qui a l'âme grande et noble et qui préfère l'honneur à tout autre intérêt » (Furetière). Il a pour synonyme brave, vaillant, courageux.V. 146, 948, 1031, 1183, 1213, 1298, 1315, 1338, 1652Geyne« Se dit de toute peine ou affliction du corps ou de l'esprit » (Furetière). Pour un amant les gesnes sont les tourments qu'il endure à cause de son amour.V. 343, 561, 1948Gloire« Honneur, considération, qualité flatteuse » ou encore « réputation intacte aux yeux d'autrui et de soi-même, amour-propre » (*Dictionnaire du français classique*).V. 66, 73, 246, 296, 382, 742, 946, 1157, 1162, 1182, 1313, 1330, 1432, 1924GloireRenommée, « célébrité méritée par quelques actions éclatantes » (*Dictionnaire du français classique*).V. 1194Gloire (faire… de)« Se vanter de, se faire honneur de « (Furetière).V. 1445GlorieuxConnotation religieuse, se dit de quelqu'un « qui jouit de la béatitude éternelle » (Furetière).V. 127, 527, 644, 729, 988, 1228, 1315, 1323, 1572, 1603, 1883HomicideDésigne le meurtrier.V. 594, 1715, 1746InfameDéshonorant.V. 146, 1433InsigneÉclatant, remarquable.V. 156MarqueSigne fixé, déterminé ou encore empreinte servant à reconnaître, à distinguer une chose.V. 1222, 1225MartialQui manifeste du goût pour la lutte.V. 1217MerveilleAdmiration, surprise, étonnement.V. 653, 1325, 1393, 1642, 1653, 1772Mouvemens« Se dit des différentes impulsions, passions ou affections » (*Dictionnaire de l'Académie*).V. 1, 131, 584, 1052, 1270, 1726Monument« Signifie le tombeau dans le style soutenu et particulièrement en poësie » (Furetière).V. 144, 1199Obliger« Signifie faire quelque faveur, civilité, courtoisie » (Furetière).V. 227, 542, 1645Occasion« La cause, le sujet ». À mon occasion : « pour ma considération » (Furetière).V. 968Passion(s)« En Morale se dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens. Se dit par excellence de l'amour » (Furetière).V. 9, 569, 576, 734, 1220, 1269, 1291, 1867Perfections« Se dit au pluriel de l'assemblage de toutes sortes de bonnes qualités » (Furetière).V. 259, 575, 1866PlaceLieu du tournoi.V. 1262, 1281PrévenirDevancer.V. 1546Provinces« Les Provinces étaient originairement des Duchés, des Comtés, ou autres seigneuries considérables qui ont été réunies sous un même chef » (Furetière).V. 1873RavissementDésigne l'enlèvement par la force, le rapt. Dans l'univers amoureux, le nom marque précisément la dépossession de soi qu'éprouve l'être en proie à l'amour.V. 1683Remise (sans…)Sans retard.V. 131RetFilet. « Se dit en morale de certains engagements dont on a peine à se détacher » (Furetière).V. 914ResveriesDélires, folies, idées vaines et chimériques.V. 353Sein« Cœur » (Furetière).V. 735, 800, 931, 1488SoinsSoucis.V. 516, 653, 849, 1462Soigner à« Veiller à quelque chose, ne pas laisser ruiner quelque chose par sa négligence » (Furetière).V. 489SouffrirSupporter, permettre, tolérer.V. 446, 781, 819, 821, 969, 973, 1870, 1930SoulagerAider.V. 380Suborneur« Qui corrompt, qui débauche » (Furetière).V. 572Succez« Issue d'une affaire. Se dit en bonne et en mauvaise part » (Furetière).V. 1985Tire-laineVoleur, rôdeur de nuit.V. 481ToucherConcerner.V. 249TravailEffort, « se dit d'une douleur qu'on souffre » (Furetière).V. 806, 1144, 1258, 1479, 1640Travailler« Faire quelque chose qui donne de la peine, de l'occupation » (Furetière).V. 1529Traverses« Signifie obstacles à la réussite des affaires qu'on entreprend ou encore oppositions » (Furetière).Épître, v. 733Vertus« Forces, vigueur tant du corps que de l'âme » (Furetière). V. 646, 657, 691, 802, 1317, 1430, 1954, 1973, 1983
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Ouvrages généraux
+## Ouvrages généraux.
 
 
-### Bibliographie spécialiséeL'Air baroque en France (Répertoire chronologique des éditions de textes littéraires (1585-1643)
+### Bibliographie spécialisée.L'Air baroque en France (Répertoire chronologique des éditions de textes littéraires (1585-1643)
 Bibliographie de la littérature du XVII*e* siècle
 
 
 
-### DictionnairesDictionnaire de l'Académie française
+### Dictionnaires.Dictionnaire de l'Académie française
 Le Français classique, Lexique de la langue du XVII*e* siècle
 Dictionnaire de la langue française classique
 Dictionnaire universel
@@ -3946,76 +3946,76 @@ Dictionnaire français
 
 
 
-### Histoire et civilisation du XVIIème siècleLe Siècle de Louis XIII
+### Histoire et civilisation du XVIIème siècle.Le Siècle de Louis XIII
 La Jeunesse de Madame de Longueville
 
 
 
-## Ouvrages sur la littérature, le théâtre, la langue
+## Ouvrages sur la littérature, le théâtre, la langue.
 
 
-### Histoire générale de la littérature françaiseHistoire de la langue et de la littérature française
+### Histoire générale de la littérature française.Histoire de la langue et de la littérature française
 
 
 
-### Histoire du théâtre françaisCatalogue de la bibliothèque de Monseigneur de Soleinne*er*
+### Histoire du théâtre français.Catalogue de la bibliothèque de Monseigneur de Soleinne*er*
 Bibliothèque des théâtres
 Histoire du théâtre françois
 Dicitonnaire des théâtres de Paris, contenant toutes les pièces qui ont été représentées jusqu'à présent sur les différents théâtres français
 
 
 
-### Études sur la langue du XVII*e* siècleHistoire de la langue française des origines à nos jours
+### Études sur la langue du XVII*e* siècle.Histoire de la langue française des origines à nos jours
 Précis de grammaire historique de la langue française
 Syntaxe du XVII*e* siècle*e*
 
 
 
-## Ouvrages sur la littérature, la forme, les styles et les genres au XVII*e* siècle
+## Ouvrages sur la littérature, la forme, les styles et les genres au XVII*e* siècle.
 
 
-### Histoire de la littérature du XVII*e* siècleHistoire de la littérature française du XVII*e* siècle
+### Histoire de la littérature du XVII*e* siècle.Histoire de la littérature française du XVII*e* siècle
 Histoire de la littérature française classique (1515-1830)
 Précis de Littérature française du XVII*e* siècle
 
 
 
-### La notion de préclassicismeHistoire de la littérature française*e*
+### La notion de préclassicisme.Histoire de la littérature française*e*
 Le Préclassicisme français
 
 
 
-### Les notions littéraires au XVII*e* siècle
+### Les notions littéraires au XVII*e* siècle.
 
 
-#### Études sur la notion de baroqueFigures I
+#### Études sur la notion de baroque.Figures I
 La Littérature de l'âge baroque en France. Circé et le Paon
 L'Intérieur et l'extérieur, Essais sur la poésie et sur le théâtre au XVII*e* siècle*e*
 
 
 
-#### Études sur les notions de galanterie et de préciositéLangue et sensibilité au XVII*e* siècle : évolution du vocabulaire affectif
+#### Études sur les notions de galanterie et de préciosité.Langue et sensibilité au XVII*e* siècle : évolution du vocabulaire affectif
 XVIIème siècle
 La Politesse mondaine et les théories de l'honnêteté en France de 1600 à 1660
 
 
 
-### Les genres littéraires
+### Les genres littéraires.
 
 
-#### Le roman au XVIIème siècleTraité de l'origine des romans*e*
+#### Le roman au XVIIème siècle.Traité de l'origine des romans*e*
 Le Roman au XVII*e* siècle
 
 
 
-#### Le théâtre du XVIIème siècle
+#### Le théâtre du XVIIème siècle.
 
 
-##### SourcesLe Théâtre d'Alexandre HardyThéâtre
+##### Sources.Le Théâtre d'Alexandre HardyThéâtre
 
 
 
-##### HistoireDictionnaire des personnages littéraires et dramatiques de tous les temps et de tous les pays, poésie, théâtre, roman, musique
+##### Histoire.Dictionnaire des personnages littéraires et dramatiques de tous les temps et de tous les pays, poésie, théâtre, roman, musique
 Le Théâtre du Marais
 Le Théâtre de l'Hôtel de Bourgogne
 Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
@@ -4023,7 +4023,7 @@ Les Comédiens français du XVIIème siècle : dictionnaire bibliographique sui
 
 
 
-##### ÉtudesLa Pratique du théâtre
+##### Études.La Pratique du théâtre
 Esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars
 A History of french dramatic Literature in the seventeenth century
 Revue d'Histoire Littéraire de la France
@@ -4033,50 +4033,50 @@ Mélanges pour Jacques Scherer, Dramaturgie, langages dramatiques
 
 
 
-##### La comédie au XVIIème siècleLa Comédie classique en France
+##### La comédie au XVIIème siècle.La Comédie classique en France
 Comédie et société sous Louis XIII : Corneille, Rotrou et les autres
 
 
 
-##### La tragi-comédie au XVIIème siècle
+##### La tragi-comédie au XVIIème siècle.
 
 
-###### SourcesPréfaceTyr et Sidon
+###### Sources.PréfaceTyr et Sidon
 PréfaceLa Généreuse Allemande ou Le Triomphe de l'amour
 
 
 
-###### ÉtudesArétaphile
+###### Études.Arétaphile
 The French Tragi-comedy, its Origin and Development from 1552 to 1628
 Revue d'Histoire Littéraire de la France
 Clitophon
 
 
 
-### Les formes
+### Les formes.
 
 
-#### Études sur la rhétoriqueDictionnaire de rhétorique
+#### Études sur la rhétorique.Dictionnaire de rhétorique
 
 
 
-#### Études sur la rhétorique et la stylistique du XVIIème siècleIntroduction à l'analyse des textes classiques
+#### Études sur la rhétorique et la stylistique du XVIIème siècle.Introduction à l'analyse des textes classiques
 La Formation de la doctrine classique en France
 
 
 
-#### Études sur le théâtre et la sémiotique théâtraleLe Langage dramatique
+#### Études sur le théâtre et la sémiotique théâtrale.Le Langage dramatique
 Dictionnaire du théâtre
 
 
 
-## Ouvrages sur l'auteurPierre Du Ryer dramatist
+## Ouvrages sur l'auteur.Pierre Du Ryer dramatist
 Revue d'Histoire Littéraire de la France
 Revue d'Histoire Littéraire de la France
 
 
 
-## Ouvrages sur la pièceHistoire tragi-comique de notre tempsHistoire des amours de Lisandre et Caliste
+## Ouvrages sur la pièce.Histoire tragi-comique de notre tempsHistoire des amours de Lisandre et Caliste
 
 
 -------

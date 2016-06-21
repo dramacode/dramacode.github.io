@@ -22,7 +22,7 @@ Avec privilège du roi
 
 
 
-# Les personnages
+# Les personnages.
  – Éraste, Amant de Lucile.
  – Albert, Père de Lucile.
  – Gros René, Valet d'Eraste.
@@ -37,14 +37,14 @@ Avec privilège du roi
  – La Rapière, Bretteur.
 
 
-# Acte Premier
+# Acte Premier.
 
 
-## Scène Première
+## Scène Première.
 Éraste, Gros-René
 
 
-    ÉRASTE
+    ÉRASTE.
 Veux-tu que je te dise ? une atteinte secrète  
 Ne laisse point mon âme en une bonne assiette :  
 Oui, quoi qu'à mon amour tu puisses repartir,  
@@ -52,7 +52,7 @@ Il craint d'être la dupe, à ne te point mentir :
 Qu'en faveur d'un rival ta foi ne se corrompe,  
 Ou du moins, qu'avec moi, toi-même on ne te trompe.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Pour moi, me soupçonner de quelque mauvais tour,  
 Je dirai, n'en déplaise à monsieur votre amour,  
 Que c'est injustement blesser ma prud'homie  
@@ -70,7 +70,7 @@ Elle vous voit, vous parle, à toute heure du jour,
 Et Valère après tout qui cause votre crainte  
 Semble n'être à présent souffert que par contrainte.  
 
-    ÉRASTE
+    ÉRASTE.
 Souvent d'un faux espoir un amant est nourri ;  
 Le mieux reçu toujours n'est pas le plus chéri ;  
 Et tout ce que d'ardeur font paraître les femmes  
@@ -92,11 +92,11 @@ Voir chérir un rival d'un esprit satisfait ?
 Et, si tu n'en crois rien, dis-moi, je t'en conjure,  
 Si j'ai lieu de rêver dessus cette aventure.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Peut-être que son cœur a changé de désirs  
 Connaissant qu'il poussait d'inutiles soupirs.  
 
-    ÉRASTE
+    ÉRASTE.
 Lorsque par les rebuts une âme est détachée,  
 Elle veut fuir l'objet dont elle fut touchée,  
 Et ne rompt point sa chaîne avec si peu d'éclat,  
@@ -110,7 +110,7 @@ Un peu de jalousie occupe encore une âme,
 Et l'on ne saurait voir, sans en être piqué,  
 Posséder par un autre un cœur qu'on a manqué.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Pour moi, je ne sais point tant de philosophie ;  
 Ce que voyent mes yeux, franchement je m'y fie,  
 Et ne suis point de moi si mortel ennemi,  
@@ -137,82 +137,82 @@ Et que ce beau rival en rie ainsi qu'un fou,
 À son exemple aussi j'en rirai tout mon soûl ;  
 Et l'on verra qui rit avec meilleure grâce.  
 
-    ÉRASTE
+    ÉRASTE.
 Voilà de tes discours.  
 
-    GROS-RENÉ
-Mais je la vois qui passe.  
+    GROS-RENÉ.
+        Mais je la vois qui passe.  
 
 
-## Scène II
+## Scène II.
 Marinette, Éraste, Gros-René
 
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Ssst, Marinette.  
 
-    MARINETTE
-Oh, oh. Que fais-tu là ?  
+    MARINETTE.
+    Oh, oh. Que fais-tu là ?  
 
-    GROS-RENÉ
-Ma foi,  
+    GROS-RENÉ.
+        Ma foi,  
 Demande, nous étions tout à l'heure sur toi.  
 
-    MARINETTE
+    MARINETTE.
 Vous êtes aussi là ! Monsieur, depuis une heure  
 Vous m'avez fait trotter comme un Basque, je meure.  
 
-    ÉRASTE
+    ÉRASTE.
 Comment ?  
 
-    MARINETTE
-Pour vous chercher j'ai fait dix mille pas,  
+    MARINETTE.
+        Pour vous chercher j'ai fait dix mille pas,  
 Et vous promets, ma foi…  
 
-    ÉRASTE
-Quoi ?  
+    ÉRASTE.
+    Quoi ?  
 
-    MARINETTE
-Que vous n'êtes pas  
+    MARINETTE.
+        Que vous n'êtes pas  
 Au temple, au cours, chez vous, ni dans la grande place.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Il fallait en jurer.  
 
-    ÉRASTE
-Apprends-moi donc de grâce,  
+    ÉRASTE.
+        Apprends-moi donc de grâce,  
 Qui te fait me chercher.  
 
-    MARINETTE
-Quelqu'un, en vérité,  
+    MARINETTE.
+        Quelqu'un, en vérité,  
 Qui pour vous n'a pas trop mauvaise volonté.  
 Ma maîtresse en un mot.  
 
-    ÉRASTE
-Ha ! chère Marinette,  
+    ÉRASTE.
+        Ha ! chère Marinette,  
 Ton discours de ton cœur est-il bien l'interprète ?  
 Ne me déguise point un mystère fatal,  
 Je ne t'en voudrai pas pour cela plus de mal :  
 Au nom des Dieux, dis-moi si ta belle maîtresse  
 N'abuse point mes vœux d'une fausse tendresse.  
 
-    MARINETTE
+    MARINETTE.
 Hé, hé, d'où vous vient donc ce plaisant mouvement ?  
 Elle ne fait pas voir assez son sentiment ?  
 Quel garant est-ce encor que votre amour demande ?  
 Que lui faut-il ?  
 
-    GROS-RENÉ
-À moins que Valère se pende,  
+    GROS-RENÉ.
+    À moins que Valère se pende,  
 Bagatelle ; son cœur ne s'assurera point.  
 
-    MARINETTE
+    MARINETTE.
 Comment ?  
 
-    GROS-RENÉ
-Il est jaloux jusques en un tel point.  
+    GROS-RENÉ.
+        Il est jaloux jusques en un tel point.  
 
-    MARINETTE
+    MARINETTE.
 De Valère ? Ha ! vraiment la pensée est bien belle !  
 Elle peut seulement naître en votre cervelle !  
 Je vous croyais du sens, et jusqu'à ce moment ;  
@@ -220,7 +220,7 @@ J'avais de votre esprit quelque bon sentiment,
 Mais, à ce que je vois, je m'étais fort trompée.  
 Ta tête de ce mal est-elle aussi frappée ?  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Moi jaloux ? Dieu m'en garde, et d'être assez badin  
 Pour m'aller emmaigrir avec un tel chagrin ;  
 Outre que de ton cœur ta foi me cautionne,  
@@ -228,7 +228,7 @@ L'opinion que j'ai de moi-même est trop bonne
 Pour croire auprès de moi que quelque autre te plût,  
 Où diantre pourrais-tu trouver qui me valût ?  
 
-    MARINETTE
+    MARINETTE.
 En effet, tu dis bien, voilà comme il faut être,  
 Jamais de ces soupçons qu'un jaloux fait paraître ;  
 Tout le fruit qu'on en cueille est de se mettre mal,  
@@ -242,17 +242,17 @@ C'est jouer en amour un mauvais personnage,
 Et se rendre après tout misérable à crédit :  
 Cela, Seigneur Éraste, en passant vous soit dit.  
 
-    ÉRASTE
+    ÉRASTE.
 Eh bien, n'en parlons plus, que venais-tu m'apprendre ?  
 
-    MARINETTE
+    MARINETTE.
 Vous mériteriez bien que l'on vous fît attendre :  
 Qu'afin de vous punir je vous tinsse caché,  
 Le grand secret pourquoi je vous ai tant cherché.  
 Tenez, voyez ce mot, et sortez hors de doute.  
 Lisez-le donc tout haut ; personne ici n'écoute.  
 
-    ÉRASTE *lit*
+    ÉRASTE *lit*.
 
 Vous m'avez dit que votre amour  
 Était capable de tout faire,  
@@ -265,22 +265,22 @@ Je vous réponds de mon obéissance.
 Ah ! quel bonheur ! Ô toi, qui me l'as apporté  
 Je te dois regarder comme une Déité.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Je vous le disais bien contre votre croyance,  
 Je ne me trompe guère aux choses que je pense.  
 
-    ÉRASTE *lit*
+    ÉRASTE *lit*.
 
 Faites parler les droits qu'on a dessus mon cœur ;  
 Je vous en donne la licence :  
 Et, si c'est en votre faveur,  
 Je vous réponds de mon obéissance.  
 
-    MARINETTE
+    MARINETTE.
 Si je lui rapportais vos faiblesses d'esprit,  
 Elle désavouerait bientôt un tel écrit.  
 
-    ÉRASTE
+    ÉRASTE.
 Ha, cache-lui, de grâce, une peur passagère  
 Où mon âme a cru voir quelque peu de lumière ;  
 Ou, si tu la lui dis, ajoute que ma mort  
@@ -288,302 +288,302 @@ Est prête d'expier l'erreur de ce transport ;
 Que je vais à ses pieds, si j'ai pu lui déplaire,  
 Sacrifier ma vie à sa juste colère.  
 
-    MARINETTE
+    MARINETTE.
 Ne parlons point de mort, ce n'en est pas le temps.  
 
-    ÉRASTE
+    ÉRASTE.
 Au reste, je te dois beaucoup, et je prétends  
 Reconnaître dans peu de la bonne manière  
 Les soins d'une si noble et si belle courrière.  
 
-    MARINETTE
+    MARINETTE.
 À propos ; savez-vous où je vous ai cherché  
 Tantôt encore ?  
 
-    ÉRASTE 
-Hé bien ?  
+    ÉRASTE.
+    Hé bien ?  
 
-    MARINETTE
-Tout proche du marché,  
+    MARINETTE.
+        Tout proche du marché,  
 Où vous savez.  
 
-    ÉRASTE
-Où donc ?  
+    ÉRASTE.
+    Où donc ?  
 
-    MARINETTE
-Là, dans cette boutique  
+    MARINETTE.
+        Là, dans cette boutique  
 Où dès le mois passé votre cœur magnifique  
 Me promit, de sa grâce, une bague.  
 
-    ÉRASTE
-Ha, j'entends.  
+    ÉRASTE.
+        Ha, j'entends.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 La Matoise !  
 
-    ÉRASTE
-Il est vrai, j'ai tardé trop longtemps  
+    ÉRASTE.
+        Il est vrai, j'ai tardé trop longtemps  
 À m'acquitter vers toi d'une telle promesse :  
 Mais…  
 
-    MARINETTE
-Ce que j'en ai dit, n'est pas que je vous presse.  
+    MARINETTE.
+        Ce que j'en ai dit, n'est pas que je vous presse.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Ho ! que non !  
 
-    ÉRASTE
-Celle-ci peut-être aura de quoi  
+    ÉRASTE.
+        Celle-ci peut-être aura de quoi  
 Te plaire. Accepte-la pour celle que je dois.  
 
-    MARINETTE
+    MARINETTE.
 Monsieur, vous vous moquez, j'aurais honte à la prendre.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Pauvre honteuse, prends, sans davantage attendre.  
 Refuser ce qu'on donne, est bon à faire aux fous.  
 
-    MARINETTE
+    MARINETTE.
 Ce sera pour garder quelque chose de vous.  
 
-    ÉRASTE
+    ÉRASTE.
 Quand puis-je rendre grâce à cet ange adorable ?  
 
-    MARINETTE
+    MARINETTE.
 Travaillez à vous rendre un père favorable.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais, s'il me rebutait, dois-je…  
 
-    MARINETTE
-Alors comme alors,  
+    MARINETTE.
+        Alors comme alors,  
 Pour vous on emploiera toutes sortes d'efforts,  
 D'une façon ou d'autre il faut qu'elle soit vôtre ;  
 Faites votre pouvoir, et nous ferons le nôtre.  
 
-    ÉRASTE
+    ÉRASTE.
 Adieu, nous en saurons le succès dans ce jour.  
 
-    MARINETTE
+    MARINETTE.
 Et nous, que dirons-nous aussi de notre amour ?  
 Tu ne m'en parles point.  
 
-    GROS-RENÉ
-Un hymen qu'on souhaite  
+    GROS-RENÉ.
+        Un hymen qu'on souhaite  
 Entre gens comme nous est chose bientôt faite.  
 Je te veux. Me veux-tu de même ?  
 
-    MARINETTE
-Avec plaisir.  
+    MARINETTE.
+        Avec plaisir.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Touche ; il suffit.  
 
-    MARINETTE
-Adieu, Gros-René mon désir.  
+    MARINETTE.
+        Adieu, Gros-René mon désir.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Adieu, mon Astre.  
 
-    MARINETTE
-Adieu, beau tison de ma flamme.  
+    MARINETTE.
+        Adieu, beau tison de ma flamme.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Adieu, chère comète, arc-en-Ciel de mon âme.  
 Le bon Dieu soit loué, nos affaires vont bien ;  
 Albert n'est pas un homme à vous refuser rien.  
 
-    ÉRASTE
+    ÉRASTE.
 Valère vient à nous.  
 
-    GROS-RENÉ 
-Je plains le pauvre hère,  
+    GROS-RENÉ.
+        Je plains le pauvre hère,  
 Sachant ce qui se passe.  
 
 
-## Scène III
+## Scène III.
 Éraste, Valère, Gros-René
 
 
-    ÉRASTE
-Hé bien ? Seigneur Valère.  
+    ÉRASTE.
+        Hé bien ? Seigneur Valère.  
 
-    VALÈRE
+    VALÈRE.
 Hé bien ? Seigneur Éraste.  
 
-    ÉRASTE
-En quel état l'amour ?  
+    ÉRASTE.
+        En quel état l'amour ?  
 
-    VALÈRE
+    VALÈRE.
 En quel état vos feux ?  
 
-    ÉRASTE
-Plus forts de jour en jour.  
+    ÉRASTE.
+        Plus forts de jour en jour.  
 
-    VALÈRE
+    VALÈRE.
 Et mon amour plus fort.  
 
-    ÉRASTE
-Pour Lucile ?  
+    ÉRASTE.
+    Pour Lucile ?  
 
-    VALÈRE
-Pour elle.  
+    VALÈRE.
+        Pour elle.  
 
-    ÉRASTE
+    ÉRASTE.
 Certes, je l'avouerai, vous êtes le modèle  
 D'une rare constance.  
 
-    VALÈRE
-Et votre fermeté  
+    VALÈRE.
+        Et votre fermeté  
 Doit être un rare exemple à la postérité.  
 
-    ÉRASTE
+    ÉRASTE.
 Pour moi, je suis peu fait à cet amour austère,  
 Qui dans les seuls regards trouve à se satisfaire,  
 Et je ne forme point d'assez beaux sentiments,  
 Pour souffrir constamment les mauvais traitements.  
 Enfin, quand j'aime bien, j'aime fort que l'on m'aime.  
 
-    VALÈRE
+    VALÈRE.
 Il est très naturel, et j'en suis bien de même :  
 Le plus parfait objet dont je serais charmé  
 N'aurait pas mes tributs, n'en étant point aimé.  
 
-    ÉRASTE 
+    ÉRASTE.
 Lucile cependant…  
 
-    VALÈRE
-Lucile dans son âme  
+    VALÈRE.
+        Lucile dans son âme  
 Rend tout ce que je veux qu'elle rende à ma flamme.  
 
-    ÉRASTE
+    ÉRASTE.
 Vous êtes donc facile à contenter…  
 
-    VALÈRE
-Pas tant  
+    VALÈRE.
+        Pas tant  
 Que vous pourriez penser.  
 
-    ÉRASTE
-Je puis croire pourtant,  
+    ÉRASTE.
+        Je puis croire pourtant,  
 Sans trop de vanité, que je suis en sa grâce.  
 
-    VALÈRE
+    VALÈRE.
 Moi, je sais que j'y tiens une assez bonne place.  
 
-    ÉRASTE
+    ÉRASTE.
 Ne vous abusez point ; croyez-moi.  
 
-    VALÈRE
-Croyez-moi,  
+    VALÈRE.
+        Croyez-moi,  
 Ne laissez point duper vos yeux à trop de Foi.  
 
-    ÉRASTE
+    ÉRASTE.
 Si j'osais vous montrer une preuve assurée  
 Que son cœur… non ; votre âme en serait altérée.  
 
-    VALÈRE
+    VALÈRE.
 Si je vous osais, moi, découvrir en secret…  
 Mais, je vous fâcherais, et veux être discret.  
 
-    ÉRASTE
+    ÉRASTE.
 Vraiment, vous me poussez ; et contre mon envie  
 Votre présomption veut que je l'humilie.  
 Lisez.  
 
-    VALÈRE
-Ces mots sont doux.  
+    VALÈRE.
+    Ces mots sont doux.  
 
-    ÉRASTE
-Vous connaissez la main ?  
+    ÉRASTE.
+        Vous connaissez la main ?  
 
-    VALÈRE
+    VALÈRE.
 Oui, de Lucile.  
 
-    ÉRASTE
-Hé bien ? cet espoir si certain…  
+    ÉRASTE.
+        Hé bien ? cet espoir si certain…  
 
-    VALÈRE, *riant*
+    VALÈRE, *riant*.
 Adieu, Seigneur Éraste.  
 
-    GROS-RENÉ
-Il est fou le bon Sire,  
+    GROS-RENÉ.
+        Il est fou le bon Sire,  
 Où vient-il donc, pour lui, de voir le mot pour rire ?  
 
-    ÉRASTE
+    ÉRASTE.
 Certes, il me surprend, et j'ignore, entre nous,  
 Quel diable de mystère est caché là-dessous.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Son valet vient, je pense.  
 
-    ÉRASTE
-Oui, je le vois paraître.  
+    ÉRASTE.
+        Oui, je le vois paraître.  
 Feignons, pour le jeter sur l'amour de son maître.  
 
 
-## Scène IV
+## Scène IV.
 Mascarille, Éraste, Gros-René
 
 
-    MASCARILLE
+    MASCARILLE.
 Non, je ne trouve point d'état plus malheureux,  
 Que d'avoir un patron jeune et fort amoureux.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Bonjour.  
 
-    MASCARILLE
-Bonjour.  
+    MASCARILLE.
+    Bonjour.  
 
-    GROS-RENÉ
-Où tend Mascarille à cette heure ?  
+    GROS-RENÉ.
+        Où tend Mascarille à cette heure ?  
 Que fait-il ? revient-il ? va-t-il ? ou s'il demeure ?  
 
-    MASCARILLE
+    MASCARILLE.
 Non, je ne reviens pas ; car je n'ai pas été :  
 Je ne vais pas aussi ; car je suis arrêté :  
 Et ne demeure point ; car, tout de ce pas même,  
 Je prétends m'en aller.  
 
-    ÉRASTE
-La rigueur est extrême :  
+    ÉRASTE.
+        La rigueur est extrême :  
 Doucement, Mascarille.  
 
-    MASCARILLE
-Ha ! monsieur, Serviteur.
+    MASCARILLE.
+        Ha ! monsieur, Serviteur.  
 
-    ÉRASTE
+    ÉRASTE.
 Vous nous fuyez bien vite ? Hé quoi ! vous fais-je peur ?  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne crois pas cela de votre courtoisie.  
 
-    ÉRASTE
+    ÉRASTE.
 Touche : nous n'avons plus sujet de jalousie ;  
 Nous devenons amis, et mes feux que j'éteins  
 Laissent la place libre à vos heureux desseins.  
 
-    MASCARILLE
+    MASCARILLE.
 Plût à Dieu !  
 
-    ÉRASTE
-Gros-René sait qu'ailleurs je me jette.  
+    ÉRASTE.
+        Gros-René sait qu'ailleurs je me jette.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Sans doute : et je te cède aussi la Marinette.  
 
-    MASCARILLE
+    MASCARILLE.
 Passons sur ce point-là ; notre rivalité  
 N'est pas pour en venir à grande extrémité :  
 Mais, est-ce un coup bien sûr que votre Seigneurie  
 Soit désenamourée, ou si c'est raillerie ?  
 
-    ÉRASTE
+    ÉRASTE.
 J'ai su qu'en ses amours ton maître était trop bien ;  
 Et je serais un fou de prétendre plus rien  
 Aux étroites faveurs qu'il a de cette belle.  
 
-    MASCARILLE
+    MASCARILLE.
 Certes, vous me plaisez avec cette nouvelle ;  
 Outre qu'en nos projets je vous craignais un peu,  
 Vous tirez sagement votre épingle du jeu.  
@@ -598,117 +598,117 @@ N'eut, pour témoins, la nuit, que deux autres et moi ;
 Et l'on croit jusqu'ici la chaîne fort secrète  
 Qui rend de nos amants la flamme satisfaite.  
 
-    ÉRASTE
+    ÉRASTE.
 Hé ! que dis-tu ?  
 
-    MASCARILLE
-Je dis que je suis interdit :  
+    MASCARILLE.
+        Je dis que je suis interdit :  
 Et ne sais pas, Monsieur, qui peut vous avoir dit,  
 Que, sous ce faux semblant qui trompe tout le monde,  
 En vous trompant aussi, leur ardeur sans seconde  
 D'un secret mariage a serré le lien.  
 
-    ÉRASTE
+    ÉRASTE.
 Vous en avez menti.  
 
-    MASCARILLE
-Monsieur, je le veux bien.  
+    MASCARILLE.
+        Monsieur, je le veux bien.  
 
-    ÉRASTE 
+    ÉRASTE.
 Vous êtes un coquin.  
 
-    MASCARILLE 
-D'accord.  
+    MASCARILLE.
+    D'accord.  
 
-    ÉRASTE
-Et cette audace  
+    ÉRASTE.
+        Et cette audace  
 Mériterait cent coups de bâton sur la place.  
 
-    MASCARILLE 
+    MASCARILLE.
 Vous avez tout pouvoir.  
 
-    ÉRASTE
-Ha ! Gros-René.  
+    ÉRASTE.
+    Ha ! Gros-René.  
 
-    GROS-RENÉ
-Monsieur.  
+    GROS-RENÉ.
+        Monsieur.  
 
-    ÉRASTE
+    ÉRASTE.
 Je démens un discours dont je n'ai que trop peur  
 À Mascarille.
 
 Tu penses fuir ?  
 
-    MASCARILLE 
-Nenni.  
+    MASCARILLE.
+    Nenni.  
 
-    ÉRASTE
-Quoi ! Lucile est la femme…  
+    ÉRASTE.
+        Quoi ! Lucile est la femme…  
 
-    MASCARILLE 
+    MASCARILLE.
 Non, Monsieur, je raillais.  
 
-    ÉRASTE
-Ha ! vous raillez ! infâme.  
+    ÉRASTE.
+        Ha ! vous raillez ! infâme.  
 
-    MASCARILLE
+    MASCARILLE.
 Non, je ne raillais point.  
 
-    ÉRASTE
-Il est donc vrai ?  
+    ÉRASTE.
+    Il est donc vrai ?  
 
-    MASCARILLE
-Non pas,  
+    MASCARILLE.
+        Non pas,  
 Je ne dis pas cela.  
 
-    ÉRASTE
-Que dis-tu donc ?  
+    ÉRASTE.
+    Que dis-tu donc ?  
 
-    MASCARILLE
-Hélas !  
+    MASCARILLE.
+        Hélas !  
 Je ne dis rien, de peur de mal parler.  
 
-    ÉRASTE
-Assure,  
+    ÉRASTE.
+        Assure,  
 Ou si c'est chose vraie, ou si c'est imposture.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est ce qu'il vous plaira : je ne suis pas ici  
 Pour vous rien contester.  
 
-    ÉRASTE
-Veux-tu dire ? voici,  
+    ÉRASTE.
+        Veux-tu dire ? voici,  
 Sans marchander, de quoi te délier la langue.  
 
-    MASCARILLE
+    MASCARILLE.
 Elle ira faire encor quelque sotte harangue.  
 Hé, de grâce, plutôt, si vous le trouvez bon,  
 Donnez-moi vitement quelques coups de bâton,  
 Et me laissez tirer mes chausses sans murmure.  
 
-    ÉRASTE
+    ÉRASTE.
 Tu mourras, ou je veux que la vérité pure  
 S'exprime par ta bouche.  
 
-    MASCARILLE
-Hélas ! je la dirai :  
+    MASCARILLE.
+        Hélas ! je la dirai :  
 Mais, peut-être, Monsieur, que je vous fâcherai.  
 
-    ÉRASTE
+    ÉRASTE.
 Parle : mais prends bien garde à ce que tu vas faire ;  
 À ma juste fureur rien ne te peut soustraire,  
 Si tu mens d'un seul mot en ce que tu diras.  
 
-    MASCARILLE
+    MASCARILLE.
 J'y consens, rompez-moi les jambes et les bras ;  
 Faites-moi pis encor, tuez-moi si j'impose  
 En tout ce que j'ai dit ici la moindre chose.  
 
-    ÉRASTE 
+    ÉRASTE.
 Ce mariage est vrai ?  
 
-    MASCARILLE
-Ma langue, en cet endroit,  
+    MASCARILLE.
+        Ma langue, en cet endroit,  
 A fait un pas de clerc dont elle s'aperçoit :  
 Mais, enfin, cette affaire est comme vous la dites ;  
 Et c'est après cinq jours de nocturnes visites,  
@@ -725,21 +725,21 @@ Gros-René peut venir une nuit avec moi ;
 Et je lui ferai voir étant en sentinelle  
 Que nous avons dans l'ombre un libre accès chez elle.  
 
-    ÉRASTE
+    ÉRASTE.
 Ôte-toi de mes yeux, maraud.  
 
-    MASCARILLE
-Et de grand cœur ;  
+    MASCARILLE.
+        Et de grand cœur ;  
 C'est ce que je demande.  
 
-    ÉRASTE
-Hé bien !  
+    ÉRASTE.
+    Hé bien !  
 
-    GROS-RENÉ
-Hé bien ! Monsieur :  
+    GROS-RENÉ.
+        Hé bien ! Monsieur :  
 Nous en tenons tous deux, si l'autre est véritable.  
 
-    ÉRASTE
+    ÉRASTE.
 Las ! il ne l'est que trop, le bourreau détestable.  
 Je vois trop d'apparence à tout ce qu'il a dit :  
 Et ce qu'a fait Valère, en voyant cet écrit,  
@@ -747,24 +747,24 @@ Marque bien leur concert, et que c'est une baye
 Qui sert sans doute aux feux dont l'ingrate le paye.  
 
 
-## Scène V
+## Scène V.
 Marinette, Gros-René, Éraste
 
 
-    MARINETTE
+    MARINETTE.
 Je viens vous avertir que tantôt sur le soir  
 Ma maîtresse au jardin vous permet de la voir.  
 
-    ÉRASTE
+    ÉRASTE.
 Oses-tu me parler, âme double, et traîtresse ?  
 Va, sors de ma présence, et dis à ta maîtresse,  
 Qu'avecque ses écrits elle me laisse en paix,  
 Et que voilà l'état, infâme, que j'en fais.  
 
-    MARINETTE
+    MARINETTE.
 Gros-René, dis-moi donc, quelle mouche le pique.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 M'oses-tu bien encor parler ? femelle inique ?  
 Crocodile trompeur, de qui le cœur félon  
 Est pire qu'un Satrape ou bien qu'un Lestrigon ?  
@@ -773,7 +773,7 @@ Et lui dis bien et beau que, malgré sa souplesse,
 Nous ne sommes plus sots, ni mon maître, ni moi,  
 Et désormais qu'elle aille au Diable avecque toi.  
 
-    MARINETTE
+    MARINETTE.
 Ma pauvre Marinette, es-tu bien éveillée ?  
 De quel démon est donc leur âme travaillée ?  
 Quoi, faire un tel accueil à nos soins obligeants !  
@@ -782,47 +782,47 @@ Quoi, faire un tel accueil à nos soins obligeants !
 <Fin du premier Acte.>
 
 
-# Acte II
+# Acte II.
 
 
-## Scène Première
+## Scène Première.
 Ascagne, Frosine
 
 
-    FROSINE
+    FROSINE.
 Ascagne, je suis fille à secret, Dieu merci.  
 
-    ASCAGNE
+    ASCAGNE.
 Mais, pour un tel discours, sommes-nous bien ici ?  
 Prenons garde qu'aucun ne nous vienne surprendre,  
 Ou que de quelque endroit on ne nous puisse entendre.  
 
-    FROSINE
+    FROSINE.
 Nous serions au logis beaucoup moins sûrement :  
 Ici de tous côtés on découvre aisément,  
 Et nous pouvons parler avec toute assurance.  
 
-    ASCAGNE
+    ASCAGNE.
 Hélas ! que j'ai de peine à rompre mon silence !  
 
-    FROSINE
+    FROSINE.
 Ouais ! ceci doit donc être un important secret.  
 
-    ASCAGNE
+    ASCAGNE.
 Trop, puisque je le fie à vous-même à regret,  
 Et que si je pouvais le cacher davantage,  
 Vous ne le sauriez point.  
 
-    FROSINE
-Ha ! c'est me faire outrage !  
+    FROSINE.
+        Ha ! c'est me faire outrage !  
 Feindre à s'ouvrir à moi ! dont vous avez connu  
 Dans tous vos intérêts l'esprit si retenu.  
 Moi nourrie avec vous ! et qui tiens sous silence  
 Des choses qui vous sont de si grande importance !  
 Qui sais…  
 
-    ASCAGNE
-Oui, vous savez la secrète raison  
+    ASCAGNE.
+        Oui, vous savez la secrète raison  
 Qui cache aux yeux de tous mon sexe et ma maison :  
 Vous savez que dans celle où passa mon bas âge  
 Je suis, pour y pouvoir retenir l'héritage  
@@ -835,7 +835,7 @@ Mais avant que passer, Frosine à ce discours,
 Se pourrait-il qu'Albert ne sût rien du mystère  
 Qui masque ainsi mon sexe et l'a rendu mon père ?  
 
-    FROSINE
+    FROSINE.
 En bonne foi, ce point sur quoi vous me pressez,  
 Est une affaire aussi qui m'embarrasse assez :  
 Le fond de cette intrigue est pour moi lettre close ;  
@@ -869,66 +869,66 @@ Sans le déguisement ; mais la digression
 Tout insensiblement pourrait trop loin s'étendre :  
 Revenons au secret que je brûle d'apprendre.  
 
-    ASCAGNE
+    ASCAGNE.
 Sachez donc que l'amour ne sait point s'abuser ;  
 Que mon sexe à ses yeux n'a pu se déguiser,  
 Et que ses traits subtils, sous l'habit que je porte,  
 Ont su trouver le cœur d'une fille peu forte :  
 J'aime enfin.  
 
-    FROSINE
-Vous aimez ?  
+    FROSINE.
+    Vous aimez ?  
 
-    ASCAGNE
-Frosine, doucement ;  
+    ASCAGNE.
+        Frosine, doucement ;  
 N'entrez pas tout à fait dedans l'étonnement :  
 Il n'est pas temps encore : et ce cœur qui soupire  
 A bien pour vous surprendre autre chose à vous dire.  
 
-    FROSINE
+    FROSINE.
 Et quoi ?  
 
-    ASCAGNE
-J'aime Valère.  
+    ASCAGNE.
+    J'aime Valère.  
 
-    FROSINE
-Ha ! vous aviez raison,  
+    FROSINE.
+        Ha ! vous aviez raison,  
 L'objet de votre amour, lui dont à la maison  
 Votre imposture enlève un puissant héritage,  
 Et qui de votre sexe ayant le moindre ombrage,  
 Verrait incontinent ce bien lui retourner,  
 C'est encore un plus grand sujet de s'étonner.  
 
-    ASCAGNE
+    ASCAGNE.
 J'ai de quoi toutefois surprendre plus votre âme :  
 Je suis sa femme.  
 
-    FROSINE
-Ô ! Dieux ! sa femme !  
+    FROSINE.
+    Ô ! Dieux ! sa femme !  
 
-    ASCAGNE
-Oui, sa femme.  
+    ASCAGNE.
+        Oui, sa femme.  
 
-    FROSINE
+    FROSINE.
 Ha ! certes celui-là l'emporte, et vient à bout  
 De toute ma raison.  
 
-    ASCAGNE
-Ce n'est pas encor tout.  
+    ASCAGNE.
+        Ce n'est pas encor tout.  
 
-    FROSINE
+    FROSINE.
 Encore !  
 
-    ASCAGNE
-Je la suis, dis-je, sans qu'il le pense,  
+    ASCAGNE.
+        Je la suis, dis-je, sans qu'il le pense,  
 Ni qu'il ait de mon sort la moindre connaissance.  
 
-    FROSINE
+    FROSINE.
 Ho ! poussez ; je le quitte, et ne raisonne plus,  
 Tant mes sens coup sur coup se trouvent confondus.  
 À ces Énigmes-là je ne puis rien comprendre.  
 
-    ASCAGNE
+    ASCAGNE.
 Je vais vous l'expliquer, si vous voulez m'entendre.  
 Valère dans les fers de ma sœur arrêtée  
 Me semblait un amant digne d'être écouté,  
@@ -969,7 +969,7 @@ Dont j'ai conduit le fil de cette tromperie,
 J'ai poussé jusqu'au bout un projet si hardi,  
 Et me suis assuré l'Époux que je vous dis.  
 
-    FROSINE
+    FROSINE.
 Peste ! les grands talents que votre esprit possède !  
 Dirait-on qu'elle y touche, avec sa mine froide ?  
 Cependant, vous avez été bien vite ici ;  
@@ -977,7 +977,7 @@ Car je veux que la chose ait d'abord réussi,
 Ne jugez-vous pas bien, à regarder l'issue,  
 Qu'elle ne peut longtemps éviter d'être sue ?  
 
-    ASCAGNE
+    ASCAGNE.
 Quand l'amour est bien fort, rien ne peut l'arrêter ;  
 Ses projets seulement vont à se contenter,  
 Et, pourvu qu'il arrive au but qu'il se propose,  
@@ -986,77 +986,77 @@ Mais, enfin, aujourd'hui je me découvre à vous,
 Afin que vos conseils… Mais voici cet Époux.  
 
 
-## Scène II
+## Scène II.
 Valère, Ascagne, Frosine
 
 
-    VALÈRE
+    VALÈRE.
 Si vous êtes tous deux en quelque conférence,  
 Où je vous fasse tort de mêler ma présence,  
 Je me retirerai.  
 
-    ASCAGNE
-Non, non ; vous pouvez bien,  
+    ASCAGNE.
+        Non, non ; vous pouvez bien,  
 Puisque vous le faisiez, rompre notre entretien.  
 
-    VALÈRE
+    VALÈRE.
 Moi ?  
 
-    ASCAGNE
-Vous-même.  
+    ASCAGNE.
+    Vous-même.  
 
-    VALÈRE
-Et comment ?  
+    VALÈRE.
+    Et comment ?  
 
-    ASCAGNE
-Je disais que Valère  
+    ASCAGNE.
+        Je disais que Valère  
 Aurait, si j'étais fille, un peu trop su me plaire ;  
 Et que, si je faisais tous les vœux de son cœur,  
 Je ne tarderais guère à faire son bonheur.  
 
-    VALÈRE
+    VALÈRE.
 Ces protestations ne coûtent pas grand-chose,  
 Alors qu'à leur effet un pareil *si* s'oppose :  
 Mais vous seriez bien pris, si quelque événement  
 Allait mettre à l'épreuve un si doux compliment.  
 
-    ASCAGNE
+    ASCAGNE.
 Point du tout ; je vous dis que régnant dans votre âme  
 Je voudrais de bon cœur couronner votre flamme.  
 
-    VALÈRE
+    VALÈRE.
 Et si c'était quelqu'une, où par votre secours  
 Vous puissiez être utile au bonheur de mes jours ?  
 
-    ASCAGNE
+    ASCAGNE.
 Je pourrais assez mal répondre à votre attente.  
 
-    VALÈRE
+    VALÈRE.
 Cette confession n'est pas fort obligeante.  
 
-    ASCAGNE
+    ASCAGNE.
 Hé ! quoi ! vous voudriez, Valère, injustement,  
 Qu'étant fille, et mon cœur vous aimant tendrement,  
 Je m'allasse engager avec une promesse  
 De servir vos ardeurs pour quelque autre maîtresse.  
 Un si pénible effort pour moi m'est interdit.  
 
-    VALÈRE
+    VALÈRE.
 Mais cela n'étant pas ?  
 
-    ASCAGNE
-Ce que je vous ai dit  
+    ASCAGNE.
+        Ce que je vous ai dit  
 Je l'ai dit comme fille, et vous le devez prendre  
 Tout de même.  
 
-    VALÈRE
-Ainsi donc il ne faut rien prétendre,  
+    VALÈRE.
+        Ainsi donc il ne faut rien prétendre,  
 Ascagne, à des bontés que vous auriez pour nous,  
 À moins que le Ciel fasse un grand miracle en vous.  
 Bref, si vous n'êtes fille, adieu votre tendresse ;  
 Il ne vous reste rien qui pour nous s'intéresse ?  
 
-    ASCAGNE
+    ASCAGNE.
 J'ai l'esprit délicat plus qu'on ne peut penser,  
 Et le moindre scrupule a de quoi m'offenser  
 Quand il s'agit d'aimer ; enfin je suis sincère ;  
@@ -1067,88 +1067,88 @@ Que pareille chaleur d'amitié vous transporte,
 Et que, si j'étais fille, une flamme plus forte  
 N'outragerait point celle où je vivrais pour vous.  
 
-    VALÈRE
+    VALÈRE.
 Je n'avais jamais vu ce scrupule jaloux ;  
 Mais tout nouveau qu'il est, ce mouvement m'oblige,  
 Et je vous fais ici tout l'aveu qu'il exige.  
 
-    ASCAGNE
+    ASCAGNE.
 Mais sans fard ?  
 
-    VALÈRE
-Oui, sans fard.  
+    VALÈRE.
+    Oui, sans fard.  
 
-    ASCAGNE
-S'il est vrai, désormais  
+    ASCAGNE.
+        S'il est vrai, désormais  
 Vos intérêts seront les miens, je vous promets.  
 
-    VALÈRE
+    VALÈRE.
 J'ai bientôt à vous dire un important mystère,  
 Où l'effet de ces mots me sera nécessaire.  
 
-    ASCAGNE
+    ASCAGNE.
 Et j'ai quelque secret de même à vous ouvrir,  
 Où votre cœur pour moi se pourra découvrir.  
 
-    VALÈRE
+    VALÈRE.
 Hé ! de quelle façon cela pourrait-il être ?  
 
-    ASCAGNE
+    ASCAGNE.
 C'est que j'ai de l'amour qui n'oserait paraître,  
 Et vous pourriez avoir sur l'objet de mes vœux  
 Un empire à pouvoir rendre mon sort heureux.  
 
-    VALÈRE
+    VALÈRE.
 Expliquez-vous, Ascagne, et croyez par avance  
 Que votre heur est certain, s'il est en ma puissance.  
 
-    ASCAGNE
+    ASCAGNE.
 Vous promettez ici plus que vous ne croyez.  
 
-    VALÈRE
+    VALÈRE.
 Non, non ; dites l'objet pour qui vous m'employez.  
 
-    ASCAGNE
+    ASCAGNE.
 Il n'est pas encor temps ; mais c'est une personne  
 Qui vous touche de près.  
 
-    VALÈRE
-Votre discours m'étonne ;  
+    VALÈRE.
+        Votre discours m'étonne ;  
 Plût à Dieu que ma sœur…  
 
-    ASCAGNE
-Ce n'est pas la saison  
+    ASCAGNE.
+        Ce n'est pas la saison  
 De m'expliquer, vous dis-je.  
 
-    VALÈRE
-Et pourquoi ?  
+    VALÈRE.
+    Et pourquoi ?  
 
-    ASCAGNE
-Pour raison.  
+    ASCAGNE.
+        Pour raison.  
 Vous saurez mon secret, quand je saurai le vôtre.  
 
-    VALÈRE
+    VALÈRE.
 J'ai besoin pour cela de l'aveu de quelque autre.  
 
-    ASCAGNE
+    ASCAGNE.
 Ayez-le donc ; et lors nous expliquant nos vœux,  
 Nous verrons qui tiendra mieux parole des deux.  
 
-    VALÈRE
+    VALÈRE.
 Adieu ; j'en suis content.  
 
-    ASCAGNE
-Et moi content, Valère.  
+    ASCAGNE.
+        Et moi content, Valère.  
 
-    FROSINE
+    FROSINE.
 Il croit trouver en vous l'assistance d'un frère.  
 
 
-## Scène III
+## Scène III.
 Frosine, Ascagne, Marinette, Lucile
 
 
-    LUCILE
+    LUCILE.
 C'en est fait ; c'est ainsi que je me puis venger :  
 Et, si cette action a de quoi l'affliger,  
 C'est toute la douceur que mon cœur s'y propose.  
@@ -1156,11 +1156,11 @@ Mon frère, vous voyez une métamorphose.
 Je veux chérir Valère après tant de fierté,  
 Et mes vœux maintenant tournent de son côté.  
 
-    ASCAGNE
+    ASCAGNE.
 Que dites-vous ? ma sœur ; comment ! courir au change !  
 Cette inégalité me semble trop étrange.  
 
-    LUCILE
+    LUCILE.
 La vôtre me surprend avec plus de sujet :  
 De vos soins autrefois Valère était l'objet ;  
 Je vous ai vu pour lui m'accuser de caprice,  
@@ -1168,13 +1168,13 @@ D'aveugle cruauté, d'orgueil, et d'injustice,
 Et, quand je veux l'aimer, mon dessein vous déplaît,  
 Et je vous vois parler contre son intérêt.  
 
-    ASCAGNE
+    ASCAGNE.
 Je le quitte, ma sœur, pour embrasser le vôtre :  
 Je sais qu'il est rangé dessous les lois d'un autre,  
 Et ce serait un trait honteux à vos appas,  
 Si vous le rappeliez et qu'il ne revînt pas.  
 
-    LUCILE
+    LUCILE.
 Si ce n'est que cela, j'aurai soin de ma gloire ;  
 Et je sais pour son cœur tout ce que j'en dois croire :  
 Il s'explique à mes yeux intelligiblement.  
@@ -1183,7 +1183,7 @@ Ou, si vous refusez de le faire, ma bouche
 Lui va faire savoir que son ardeur me touche.  
 Quoi ? mon frère, à ces mots vous restez interdit !  
 
-    ASCAGNE
+    ASCAGNE.
 Ha ! ma sœur, si sur vous je puis avoir crédit,  
 Si vous êtes sensible aux prières d'un frère,  
 Quittez un tel dessein, et n'ôtez point Valère  
@@ -1201,31 +1201,31 @@ Si vous lui dérobez l'amant qui peut lui plaire.
 Éraste est un parti qui doit vous satisfaire ;  
 Et des feux mutuels…  
 
-    LUCILE
-Mon frère, c'est assez ;  
+    LUCILE.
+        Mon frère, c'est assez ;  
 Je ne sais point pour qui vous vous intéressez ;  
 Mais, de grâce, cessons ce discours, je vous prie,  
 Et me laissez un peu dans quelque rêverie.  
 
-    ASCAGNE
+    ASCAGNE.
 Allez, cruelle sœur, vous me désespérez,  
 Si vous effectuez vos desseins déclarés.  
 
 
-## Scène IV
+## Scène IV.
 Marinette, Lucile
 
 
-    MARINETTE
+    MARINETTE.
 La résolution, Madame, est assez prompte.  
 
-    LUCILE
+    LUCILE.
 Un cœur ne pèse rien alors que l'on l'affronte ;  
 Il court à sa vengeance, et saisit promptement  
 Tout ce qu'il croit servir à son ressentiment.  
 Le traître ! faire voir cette insolence extrême !  
 
-    MARINETTE
+    MARINETTE.
 Vous m'en voyez encor toute hors de moi-même ;  
 Et, quoique là-dessus je rumine sans fin,  
 L'aventure me passe et j'y perds mon latin.  
@@ -1238,7 +1238,7 @@ Fille ne fut traitée avec tant d'outrage.
 Je ne sais, pour causer de si grands changements,  
 Ce qui s'est pu passer entre ces courts moments.  
 
-    LUCILE
+    LUCILE.
 Rien ne s'est pu passer dont il faille être en peine,  
 Puisque rien ne le doit défendre de ma haine.  
 Quoi ! tu voudrais chercher hors de sa lâcheté  
@@ -1246,7 +1246,7 @@ La secrète raison de cette indignité !
 Cet écrit malheureux dont mon âme s'accuse  
 Peut-il à son transport souffrir la moindre excuse ?  
 
-    MARINETTE
+    MARINETTE.
 En effet ; je comprends que vous avez raison,  
 Et que cette querelle est pure trahison.  
 Nous en tenons, Madame ; et puis prêtons l'oreille  
@@ -1256,13 +1256,13 @@ Laissons à leurs beaux mots fondre notre rigueur,
 Rendons-nous à leurs vœux, trop faibles que nous sommes.  
 Foin de notre sottise, et peste soit des hommes.  
 
-    LUCILE
+    LUCILE.
 Hé bien, bien ; qu'il s'en vante, et rie à nos dépens ;  
 Il n'aura pas sujet d'en triompher longtemps ;  
 Et je lui ferai voir qu'en une âme bien faite  
 Le mépris suit de près la faveur qu'on rejette.  
 
-    MARINETTE
+    MARINETTE.
 Au moins, en pareil cas, est-ce un bonheur bien doux,  
 Quand on sait qu'on n'a point d'avantage sur vous.  
 Marinette eut bon nez, quoi qu'on en puisse dire,  
@@ -1271,8 +1271,8 @@ Quelque autre, sous espoir de matrimonion,
 Aurait ouvert l'oreille à la tentation ;  
 Mais moi, *nescio vos*.  
 
-    LUCILE
-Que tu dis de folies !  
+    LUCILE.
+        Que tu dis de folies !  
 Et choisis mal ton temps pour de telles saillies !  
 Enfin je suis touchée au cœur sensiblement,  
 Et, si jamais celui de ce perfide amant  
@@ -1291,7 +1291,7 @@ De descendre jamais à quelque lâcheté,
 Que ton affection me soit alors sévère,  
 Et tienne comme il faut la main à ma colère.  
 
-    MARINETTE
+    MARINETTE.
 Vraiment, n'ayez point peur, et laissez faire à nous ;  
 J'ai pour le moins autant de colère que vous ;  
 Et je serais plutôt fille toute ma vie,  
@@ -1299,12 +1299,12 @@ Que mon gros traître aussi me redonnât envie.
 S'il vient…  
 
 
-## Scène V
+## Scène V.
 Marinette, Lucile, Albert
 
 
-    ALBERT
-Rentrez, Lucile, et me faites venir  
+    ALBERT.
+        Rentrez, Lucile, et me faites venir  
 Le précepteur, je veux un peu l'entretenir,  
 Et m'informer de lui qui me gouverne Ascagne,  
 S'il sait point quel ennui depuis peu l'accompagne.  
@@ -1329,41 +1329,41 @@ Cent sortes de chagrins me roulent par la tête.
 Ha !  
 
 
-## Scène VI
+## Scène VI.
 Albert, Métaphraste
 
 
-    MÉTAPHRASTE
-Mandatum tuum curo diligenter.  
+    MÉTAPHRASTE.
+        Mandatum tuum curo diligenter.  
 
-    ALBERT
+    ALBERT.
 Maître, j'ai voulu…  
 
-    MÉTAPHRASTE
-Maître est dit *a Magister*,  
+    MÉTAPHRASTE.
+        Maître est dit *a Magister*,  
 C'est comme qui dirait trois fois plus grand.  
 
-    ALBERT
-Je meure,  
+    ALBERT.
+        Je meure,  
 Si je savais cela. Mais, soit ; à la bonne heure.  
 Maître, donc…  
 
-    MÉTAPHRASTE
-Poursuivez.  
+    MÉTAPHRASTE.
+    Poursuivez.  
 
-    ALBERT
-Je veux poursuivre aussi ;  
+    ALBERT.
+        Je veux poursuivre aussi ;  
 Mais ne poursuivez point, vous, d'interrompre ainsi.  
 Donc, encore une fois, Maître c'est la troisième,  
 Mon fils me rend chagrin ; vous savez que je l'aime,  
 Et que soigneusement je l'ai toujours nourri.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Il est vrai : *Filio non potest praeferri*  
 Nisi filius.  
 
-    ALBERT
-Maître, en discourant ensemble,  
+    ALBERT.
+        Maître, en discourant ensemble,  
 Ce jargon n'est pas fort nécessaire, me semble ;  
 Je vous crois grand Latin, et grand Docteur juré ;  
 Je m'en rapporte à ceux qui m'en ont assuré :  
@@ -1378,193 +1378,193 @@ Ne sont encor pour moi que du haut Allemand.
 Laissez donc en repos votre science auguste,  
 Et que votre langage à mon faible s'ajuste.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Soit.  
 
-    ALBERT
-À mon fils, l'hymen semble lui faire peur,  
+    ALBERT.
+        À mon fils, l'hymen semble lui faire peur,  
 Et, sur quelque parti que je sonde son cœur,  
 Pour un pareil lien il est froid, et recule.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Peut-être a-t-il l'humeur du frère de Marc Tulle,  
 Dont avec Atticus le même fait sermon,  
 Et comme aussi les Grecs disent *Atanaton*…  
 
-    ALBERT
+    ALBERT.
 Mon Dieu, Maître éternel, laissez là, je vous prie,  
 Les Grecs, les Albanais, avec l'Esclavonie  
 Et tous ces autres gens dont vous venez parler ;  
 Eux et mon fils n'ont rien ensemble à démêler.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Hé bien, donc ? votre fils ?  
 
-    ALBERT
-Je ne sais si dans l'âme,  
+    ALBERT.
+        Je ne sais si dans l'âme,  
 Il ne sentirait point une secrète flamme.  
 Quelque chose le trouble, ou je suis fort déçu,  
 Et je l'aperçus hier, sans en être aperçu,  
 Dans un recoin du bois où nul ne se retire.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Dans un lieu reculé du bois, voulez-vous dire ;  
 Un endroit écarté, *Latine, secessus* ;  
 Virgile l'a dit : *Est in secessu locus*…  
 
-    ALBERT
+    ALBERT.
 Comment aurait-il pu l'avoir dit, ce Virgile ?  
 Puisque je suis certain que dans ce lieu tranquille  
 Âme du monde enfin n'était lors que nous deux.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Virgile est nommé là comme un auteur fameux  
 D'un terme plus choisi que le mot que vous dites,  
 Et non comme témoin de ce que hier vous vîtes.  
 
-    ALBERT
+    ALBERT.
 Et moi, je vous dis, moi, que je n'ai pas besoin  
 De terme plus choisi, d'auteur ni de témoin,  
 Et qu'il suffit ici de mon seul témoignage.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Il faut choisir pourtant les mots mis en usage  
 Par les meilleurs auteurs : *tu, vivendo, bonos*,  
 Comme on dit, *scribendo, sequare peritos*.  
 
-    ALBERT 
+    ALBERT.
 Homme, ou démon, veux-tu m'entendre sans conteste ?  
 
-    MÉTAPHRASTE 
+    MÉTAPHRASTE.
 Quintilien en fait le précepte.  
 
-    ALBERT
-La peste  
+    ALBERT.
+        La peste  
 Soit du causeur !  
 
-    MÉTAPHRASTE
-Et dit là-dessus doctement  
+    MÉTAPHRASTE.
+        Et dit là-dessus doctement  
 Un mot, que vous serez bien aise assurément  
 D'entendre.  
 
-    ALBERT
-Je serai le diable qui t'emporte,  
+    ALBERT.
+        Je serai le diable qui t'emporte,  
 Chien d'homme. Ô ! que je suis tenté d'étrange sorte  
 De faire sur ce mufle une application !  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Mais qui cause, Seigneur, votre inflammation ?  
 Que voulez-vous de moi ?  
 
-    ALBERT
-Je veux que l'on m'écoute,  
+    ALBERT.
+        Je veux que l'on m'écoute,  
 Vous ai-je dit vingt fois, quand je parle.  
 
-    MÉTAPHRASTE
-Ha ! sans doute,  
+    MÉTAPHRASTE.
+        Ha ! sans doute,  
 Vous serez satisfait, s'il ne tient qu'à cela.  
 Je me tais.  
 
-    ALBERT 
-Vous ferez sagement.  
+    ALBERT.
+    Vous ferez sagement.  
 
-    MÉTAPHRASTE
-Me voilà  
+    MÉTAPHRASTE.
+        Me voilà  
 Tout prêt de vous ouïr.  
 
-    ALBERT
-Tant mieux.  
+    ALBERT.
+    Tant mieux.  
 
-    MÉTAPHRASTE
-Que je trépasse,  
+    MÉTAPHRASTE.
+        Que je trépasse,  
 Si je dis plus mot.  
 
-    ALBERT
-Dieu vous en fasse la grâce.  
+    ALBERT.
+        Dieu vous en fasse la grâce.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Vous n'accuserez point mon caquet désormais.  
 
-    ALBERT 
+    ALBERT.
 Ainsi soit-il.  
 
-    MÉTAPHRASTE
-Parlez quand vous voudrez.  
+    MÉTAPHRASTE.
+    Parlez quand vous voudrez.  
 
-    ALBERT
-J'y vais.  
+    ALBERT.
+        J'y vais.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Et n'appréhendez plus l'interruption nôtre.  
 
-    ALBERT 
+    ALBERT.
 C'est assez dit.  
 
-    MÉTAPHRASTE
-Je suis exact plus qu'aucun autre.  
+    MÉTAPHRASTE.
+        Je suis exact plus qu'aucun autre.  
 
-    ALBERT
+    ALBERT.
 Je le crois.  
 
-    MÉTAPHRASTE
-J'ai promis que je ne dirais rien.  
+    MÉTAPHRASTE.
+        J'ai promis que je ne dirais rien.  
 
-    ALBERT
+    ALBERT.
 Suffit.  
 
-    MÉTAPHRASTE
-Dès à présent je suis muet.  
+    MÉTAPHRASTE.
+    Dès à présent je suis muet.  
 
-    ALBERT
-Fort bien.  
+    ALBERT.
+        Fort bien.  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Parlez : courage ; au moins, je vous donne audience ;  
 Vous ne vous plaindrez pas de mon peu de silence,  
 Je ne desserre pas la bouche seulement.  
 
-    ALBERT 
+    ALBERT.
 Le traître !  
 
-    MÉTAPHRASTE
-Mais, de grâce, achevez vitement ;  
+    MÉTAPHRASTE.
+        Mais, de grâce, achevez vitement ;  
 Depuis longtemps j'écoute, il est bien raisonnable  
 Que je parle à mon tour.  
 
-    ALBERT
-Donc, bourreau détestable…  
+    ALBERT.
+        Donc, bourreau détestable…  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 Hé ! bon Dieu ! voulez-vous que j'écoute à jamais ?  
 Partageons le parler, au moins, ou je m'en vais.  
 
-    ALBERT
+    ALBERT.
 Ma patience est bien…  
 
-    MÉTAPHRASTE
-Quoi ! voulez-vous poursuivre ?  
+    MÉTAPHRASTE.
+        Quoi ! voulez-vous poursuivre ?  
 Ce n'est pas encor fait ? *per Jovem*, je suis ivre.  
 
-    ALBERT 
+    ALBERT.
 Je n'ai pas dit…  
 
-    MÉTAPHRASTE
-Encor ! bon Dieu ! que de discours !  
+    MÉTAPHRASTE.
+        Encor ! bon Dieu ! que de discours !  
 Rien n'est-il suffisant d'en arrêter le cours ?  
 
-    ALBERT
+    ALBERT.
 J'enrage.  
 
-    MÉTAPHRASTE
-Derechef ? ô ! l'étrange torture !  
+    MÉTAPHRASTE.
+        Derechef ? ô ! l'étrange torture !  
 Hé ! laissez-moi parler un peu, je vous conjure ;  
 Un sot qui ne dit mot ne se distingue pas  
 D'un savant qui se tait.  
 
-    ALBERT, *s'en allant*
-Parbleu, tu te tairas !  
+    ALBERT, *s'en allant*.
+        Parbleu, tu te tairas !  
 
-    MÉTAPHRASTE
+    MÉTAPHRASTE.
 D'où vient fort à propos cette Sentence expresse  
 D'un Philosophe, parle, afin qu'on te connaisse.  
 Doncques, si de parler le pouvoir m'est ôté,  
@@ -1589,12 +1589,12 @@ Albert lui vient sonner aux oreilles une cloche qui le fait fuir.
 <Fin du second Acte.>
 
 
-# Acte III
+# Acte III.
 
 
-## Scène Première
+## Scène Première.
 
-    MASCARILLE
+    MASCARILLE.
 Le Ciel parfois seconde un dessein téméraire,  
 Et l'on sort comme on peut d'une méchante affaire.  
 Pour moi, qu'une imprudence a trop fait discourir,  
@@ -1611,91 +1611,91 @@ C'est ce qu'on va tenter ; et de la part du nôtre,
 Sans perdre un seul moment, je m'en vais trouver l'autre.  
 
 
-## Scène II
+## Scène II.
 Mascarille, Albert
 
 
-    ALBERT
+    ALBERT.
 Qui frappe ?  
 
-    MASCARILLE
-Amis.  
+    MASCARILLE.
+    Amis.  
 
-    ALBERT
-Ho ! ho ! qui te peut amener ?  
+    ALBERT.
+        Ho ! ho ! qui te peut amener ?  
 Mascarille.  
 
-    MASCARILLE
-Je viens, Monsieur, pour vous donner  
+    MASCARILLE.
+        Je viens, Monsieur, pour vous donner  
 Le bonjour.  
 
-    ALBERT
-Ha ! vraiment, tu prends beaucoup de peine !  
+    ALBERT.
+        Ha ! vraiment, tu prends beaucoup de peine !  
 De tout mon cœur, bonjour.  
 
-    MASCARILLE
-La réplique est soudaine.  
+    MASCARILLE.
+        La réplique est soudaine.  
 Quel homme brusque !  
 
-    ALBERT
-Encor ?  
+    ALBERT.
+    Encor ?  
 
-    MASCARILLE
-Vous n'avez pas ouï,  
+    MASCARILLE.
+        Vous n'avez pas ouï,  
 Monsieur.  
 
-    ALBERT
-Ne m'as-tu pas donné le bonjour ?  
+    ALBERT.
+    Ne m'as-tu pas donné le bonjour ?  
 
-    MASCARILLE
-Oui.  
+    MASCARILLE.
+        Oui.  
 
-    ALBERT
+    ALBERT.
 Eh bien, bonjour, te dis-je.  
 
-    MASCARILLE
-Oui ; mais je viens encore  
+    MASCARILLE.
+        Oui ; mais je viens encore  
 Vous saluer au nom du Seigneur Polydore.  
 
-    ALBERT
+    ALBERT.
 Ha ! c'est un autre fait. Ton maître t'a chargé  
 De me saluer ?  
 
-    MASCARILLE
-Oui.  
+    MASCARILLE.
+    Oui.  
 
-    ALBERT
-Je lui suis obligé ;  
+    ALBERT.
+        Je lui suis obligé ;  
 Va, que je lui souhaite une joie infinie.  
 
-    MASCARILLE
+    MASCARILLE.
 Cet homme est ennemi de la cérémonie.  
 Je n'ai pas achevé, Monsieur, son compliment :  
 Il voudrait vous prier d'une chose instamment.  
 
-    ALBERT
+    ALBERT.
 Hé bien ! quand il voudra je suis à son service.  
 
-    MASCARILLE
+    MASCARILLE.
 Attendez, et souffrez qu'en deux mots je finisse.  
 Il souhaite un moment pour vous entretenir  
 D'une affaire importante, et doit ici venir.  
 
-    ALBERT
+    ALBERT.
 Hé ! quelle est-elle encor l'affaire qui l'oblige  
 À me vouloir parler ?  
 
-    MASCARILLE
-Un grand secret, vous dis-je,  
+    MASCARILLE.
+        Un grand secret, vous dis-je,  
 Qu'il vient de découvrir en ce même moment,  
 Et qui, sans doute, importe à tous deux grandement.  
 Voilà mon Ambassade.  
 
 
-## Scène III
+## Scène III.
 
-    ALBERT
-Ô ! Juste Ciel, je tremble !  
+    ALBERT.
+        Ô ! Juste Ciel, je tremble !  
 Car enfin nous avons peu de commerce ensemble.  
 Quelque tempête va renverser mes desseins,  
 Et ce secret sans doute est celui que je crains.  
@@ -1715,156 +1715,156 @@ N'en sera point tiré, que dans cette sortie
 Il n'entraîne du mien la meilleure partie.  
 
 
-## Scène IV
+## Scène IV.
 Albert, Polydore
 
 
-    POLYDORE
+    POLYDORE.
 S'être ainsi marié sans qu'on en ait su rien !  
 Puisse cette action se terminer à bien :  
 Je ne sais qu'en attendre, et je crains fort du père  
 Et la grande richesse, et la juste colère.  
 Mais je l'aperçois seul.  
 
-    ALBERT
-Dieu ! Polydore vient !  
+    ALBERT.
+        Dieu ! Polydore vient !  
 
-    POLYDORE
+    POLYDORE.
 Je tremble à l'aborder.  
 
-    ALBERT
-La crainte me retient.  
+    ALBERT.
+        La crainte me retient.  
 
-    POLYDORE
+    POLYDORE.
 Par où lui débuter !  
 
-    ALBERT
-Quel sera mon langage ?  
+    ALBERT.
+        Quel sera mon langage ?  
 
-    POLYDORE
+    POLYDORE.
 Son âme est toute émue.  
 
-    ALBERT
-Il change de visage.  
+    ALBERT.
+        Il change de visage.  
 
-    POLYDORE
+    POLYDORE.
 Je vois, seigneur Albert, au trouble de vos yeux  
 Que vous savez déjà qui m'amène en ces lieux.  
 
-    ALBERT
+    ALBERT.
 Hélas ! oui.  
 
-    POLYDORE
-La nouvelle a droit de vous surprendre,  
+    POLYDORE.
+        La nouvelle a droit de vous surprendre,  
 Et je n'eusse pas cru ce que je viens d'apprendre.  
 
-    ALBERT
+    ALBERT.
 J'en dois rougir de honte, et de confusion.  
 
-    POLYDORE
+    POLYDORE.
 Je trouve condamnable une telle action,  
 Et je ne prétends point excuser le coupable.  
 
-    ALBERT
+    ALBERT.
 Dieu fait miséricorde au pécheur misérable.  
 
-    POLYDORE
+    POLYDORE.
 C'est ce qui doit par vous être considéré.  
 
-    ALBERT
+    ALBERT.
 Il faut être Chrétien.  
 
-    POLYDORE
-Il est très assuré.  
+    POLYDORE.
+        Il est très assuré.  
 
-    ALBERT
+    ALBERT.
 Grâce, au nom de Dieu, grâce, ô Seigneur Polydore.  
 
-    POLYDORE
+    POLYDORE.
 Eh ! c'est moi qui de vous présentement l'implore.  
 
-    ALBERT
+    ALBERT.
 Afin de l'obtenir je me jette à genoux.  
 
-    POLYDORE
+    POLYDORE.
 Je dois en cet état être plutôt que vous.  
 
-    ALBERT
+    ALBERT.
 Prenez quelque pitié de ma triste aventure.  
 
-    POLYDORE
+    POLYDORE.
 Je suis le suppliant dans une telle injure.  
 
-    ALBERT
+    ALBERT.
 Vous me fendez le cœur avec cette bonté.  
 
-    POLYDORE
+    POLYDORE.
 Vous me rendez confus de tant d'humilité.  
 
-    ALBERT
+    ALBERT.
 Pardon, encore un coup.  
 
-    POLYDORE
-Hélas ! pardon, vous-même.  
+    POLYDORE.
+        Hélas ! pardon, vous-même.  
 
-    ALBERT
+    ALBERT.
 J'ai de cette action une douleur extrême.  
 
-    POLYDORE
+    POLYDORE.
 Et moi, j'en suis touché de même au dernier point.  
 
-    ALBERT
+    ALBERT.
 J'ose vous convier qu'elle n'éclate point.  
 
-    POLYDORE
+    POLYDORE.
 Hélas, Seigneur Albert, je ne veux autre chose.  
 
-    ALBERT
+    ALBERT.
 Conservons mon honneur.  
 
-    POLYDORE
-Hé ! oui, je m'y dispose.  
+    POLYDORE.
+        Hé ! oui, je m'y dispose.  
 
-    ALBERT
+    ALBERT.
 Quant au bien qu'il faudra, vous-même en résoudrez.  
 
-    POLYDORE
+    POLYDORE.
 Je ne veux de vos biens que ce que vous voudrez :  
 De tous ces intérêts je vous ferai le maître,  
 Et je suis trop content si vous le pouvez être.  
 
-    ALBERT
+    ALBERT.
 Ha ! quel homme de Dieu ! quel excès de douceur !  
 
-    POLYDORE
+    POLYDORE.
 Quelle douceur, vous-même, après un tel malheur !  
 
-    ALBERT
+    ALBERT.
 Que puissiez-vous avoir toutes choses prospères.  
 
-    POLYDORE
+    POLYDORE.
 Le bon Dieu vous maintienne.  
 
-    ALBERT
-Embrassons-nous en frères.  
+    ALBERT.
+        Embrassons-nous en frères.  
 
-    POLYDORE
+    POLYDORE.
 J'y consens de grand cœur, et me réjouis fort  
 Que tout soit terminé par un heureux accord.  
 
-    ALBERT
+    ALBERT.
 J'en rends grâces au Ciel.  
 
-    POLYDORE
-Il ne vous faut rien feindre,  
+    POLYDORE.
+        Il ne vous faut rien feindre,  
 Votre ressentiment me donnait lieu de craindre ;  
 Et Lucile tombée en faute avec mon fils,  
 Comme on vous voit puissant, et de biens, et d'amis…  
 
-    ALBERT
+    ALBERT.
 Heu ? que parlez-vous là de faute, et de Lucile ?  
 
-    POLYDORE
+    POLYDORE.
 Soit ; ne commençons point un discours inutile :  
 Je veux bien que mon fils y trempe grandement,  
 Même, si cela fait à votre allégement,  
@@ -1879,24 +1879,24 @@ Un esprit de douceur nous met d'accord tous deux,
 Ne ramentevons rien, et réparons l'offense  
 Par la solennité d'une heureuse alliance.  
 
-    ALBERT
+    ALBERT.
 Ô ! Dieu, quelle méprise ! et qu'est-ce qu'il m'apprend !  
 Je rentre ici d'un trouble en un autre aussi grand :  
 Dans ces divers transports je ne sais que répondre,  
 Et, si je dis un mot, j'ai peur de me confondre.  
 
-    POLYDORE
+    POLYDORE.
 À quoi pensez-vous là, Seigneur Albert ?  
 
-    ALBERT
-À rien :  
+    ALBERT.
+        À rien :  
 Remettons, je vous prie, à tantôt l'entretien :  
 Un mal subit me prend, qui veut que je vous laisse.  
 
 
-## Scène V
+## Scène V.
 
-    POLYDORE
+    POLYDORE.
 Je lis dedans son âme, et vois ce qui le presse.  
 À quoi que sa raison l'eût déjà disposé,  
 Son déplaisir n'est pas encor tout apaisé.  
@@ -1908,21 +1908,21 @@ La douleur trop contrainte aisément le redouble.
 Voici mon jeune fou d'où nous vient tout ce trouble.  
 
 
-## Scène VI
+## Scène VI.
 Polydore, Valère
 
 
-    POLYDORE
+    POLYDORE.
 Enfin, le beau mignon, vos bons déportements  
 Troubleront les vieux jours d'un père à tous moments :  
 Tous les jours vous ferez de nouvelles merveilles ;  
 Et nous n'aurons jamais autres choses aux oreilles.  
 
-    VALÈRE
+    VALÈRE.
 Que fais-je tous les jours qui soit si criminel ?  
 En quoi mériter tant le courroux paternel ?  
 
-    POLYDORE
+    POLYDORE.
 Je suis un étrange homme, et d'une humeur terrible,  
 D'accuser un enfant si sage et si paisible.  
 Las ! il vit comme un saint, et dedans la maison  
@@ -1940,7 +1940,7 @@ Ha ! chien, que j'ai reçu du ciel pour mon martyre,
 Te croiras-tu toujours ? et ne pourrai-je pas,  
 Te voir être une fois sage avant mon trépas ?  
 
-    VALÈRE*, seul*
+    VALÈRE*, seul*.
 D'où peut venir ce coup ? mon âme embarrassée  
 Ne voit que Mascarille ou jeter sa pensée :  
 Il ne sera pas homme à m'en faire un aveu ;  
@@ -1948,24 +1948,24 @@ Il faut user d'adresse, et me contraindre un peu
 Dans ce juste courroux.  
 
 
-## Scène VII
+## Scène VII.
 Mascarille, Valère
 
 
-    VALÈRE
-Mascarille, mon père  
+    VALÈRE.
+        Mascarille, mon père  
 Que je viens de trouver sait toute notre affaire.  
 
-    MASCARILLE
+    MASCARILLE.
 Il la sait ?  
 
-    VALÈRE
-Oui.  
+    VALÈRE.
+    Oui.  
 
-    MASCARILLE
-D'où, diantre, a-t-il pu la savoir ?  
+    MASCARILLE.
+        D'où, diantre, a-t-il pu la savoir ?  
 
-    VALÈRE
+    VALÈRE.
 Je ne sais point sur qui ma conjoncture asseoir ;  
 Mais enfin d'un succès cette affaire est suivie  
 Dont j'ai tous les sujets d'avoir l'âme ravie.  
@@ -1975,32 +1975,32 @@ Et je voudrais savoir qui peut être capable
 D'avoir pu rendre ainsi son esprit si traitable.  
 Je ne puis t'exprimer l'aise que j'en reçois.  
 
-    MASCARILLE
+    MASCARILLE.
 Et que me diriez-vous, Monsieur, si c'était moi  
 Qui vous eût procuré cette heureuse fortune ?  
 
-    VALÈRE
+    VALÈRE.
 Bon, bon, tu voudrais bien ici m'en donner d'une.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est moi, vous dis-je, moi dont le patron le sait,  
 Et qui vous ai produit ce favorable effet.  
 
-    VALÈRE
+    VALÈRE.
 Mais, là, sans te railler ?  
 
-    MASCARILLE
-Que le diable m'emporte,  
+    MASCARILLE.
+        Que le diable m'emporte,  
 Si je fais raillerie, et s'il n'est de la sorte.  
 
-    VALÈRE
+    VALÈRE.
 Et qu'il m'entraîne, moi, si tout présentement  
 Tu n'en vas recevoir le juste payement.  
 
-    MASCARILLE
+    MASCARILLE.
 Ha ! monsieur, qu'est-ceci ? je défends la surprise.  
 
-    VALÈRE
+    VALÈRE.
 C'est la fidélité que tu m'avais promise ?  
 Sans ma feinte, jamais tu n'eusses avoué  
 Le trait que j'ai bien cru que tu m'avais joué.  
@@ -2009,8 +2009,8 @@ D'un père contre moi vient d'échauffer la bile,
 Qui me perds tout à fait, il faut sans discourir  
 Que tu meures.  
 
-    MASCARILLE
-Tout beau ; mon âme, pour mourir,  
+    MASCARILLE.
+        Tout beau ; mon âme, pour mourir,  
 N'est pas en bon état. Daignez, je vous conjure,  
 Attendre le succès qu'aura cette aventure.  
 J'ai de fortes raisons qui m'ont fait révéler  
@@ -2021,27 +2021,27 @@ De quoi vous fâchez-vous ? pourvu que vos souhaits
 Se trouvent par mes soins pleinement satisfaits,  
 Et voient mettre à fin la contrainte où vous êtes ?  
 
-    VALÈRE
+    VALÈRE.
 Et si tous ces discours ne sont que des sornettes ?  
 
-    MASCARILLE
+    MASCARILLE.
 Toujours serez-vous lors à temps pour me tuer.  
 Mais enfin mes projets pourront s'effectuer.  
 Dieu fera pour les siens, et content dans la suite  
 Vous me remercierez de ma rare conduite.  
 
-    VALÈRE
+    VALÈRE.
 Nous verrons. Mais, Lucile…  
 
-    MASCARILLE
-Halte ; son père sort.  
+    MASCARILLE.
+        Halte ; son père sort.  
 
 
-## Scène VIII
+## Scène VIII.
 Valère, Albert, Mascarille
 
 
-    ALBERT
+    ALBERT.
 Plus je reviens du trouble où j'ai donné d'abord,  
 Plus je me sens piqué de ce discours étrange,  
 Sur qui ma peur prenait un si dangereux change ;  
@@ -2050,26 +2050,26 @@ Et m'a parlé d'un air à m'ôter tout soupçon.
 Ha ! monsieur, est-ce vous, de qui l'audace insigne  
 Met en jeu mon honneur, et fait ce conte indigne ?  
 
-    MASCARILLE
+    MASCARILLE.
 Seigneur Albert, prenez un ton un peu plus doux,  
 Et contre votre gendre ayez moins de courroux.  
 
-    ALBERT
+    ALBERT.
 Comment gendre, coquin ? Tu portes bien la mine  
 De pousser les ressorts d'une telle machine,  
 Et d'en avoir été le premier inventeur.  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne vois ici rien à vous mettre en fureur.  
 
-    ALBERT
+    ALBERT.
 Trouves-tu beau, dis-moi, de diffamer ma fille ?  
 Et faire un tel scandale à toute une famille ?  
 
-    MASCARILLE
+    MASCARILLE.
 Le voilà prêt de faire en tout vos volontés.  
 
-    ALBERT
+    ALBERT.
 Que voudrais-je, sinon qu'il dît des vérités ?  
 Si quelque intention le pressait pour Lucile,  
 La recherche en pouvait être honnête et civile,  
@@ -2078,73 +2078,73 @@ Il fallait de son père implorer le pouvoir,
 Et non pas recourir à cette lâche feinte,  
 Qui porte à la pudeur une sensible atteinte.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ! Lucile n'est pas sous des liens secrets  
 À mon Maître ?  
 
-    ALBERT
-Non, traître, et n'y sera jamais.  
+    ALBERT.
+        Non, traître, et n'y sera jamais.  
 
-    MASCARILLE
+    MASCARILLE.
 Tout doux : et s'il est vrai que ce soit chose faite,  
 Voulez-vous l'approuver cette chaîne secrète ?  
 
-    ALBERT
+    ALBERT.
 Et, s'il est constant, toi, que cela ne soit pas,  
 Veux-tu te voir casser les jambes et les bras ?  
 
-    VALÈRE
+    VALÈRE.
 Monsieur, il est aisé de vous faire paraître  
 Qu'il dit vrai.  
 
-    ALBERT
-Bon, voilà l'autre encor digne maître  
+    ALBERT.
+        Bon, voilà l'autre encor digne maître  
 D'un semblable valet. Ô ! les menteurs hardis !  
 
-    MASCARILLE
+    MASCARILLE.
 D'homme d'honneur, il est ainsi que je le dis.  
 
-    VALÈRE
+    VALÈRE.
 Quel serait notre but de vous en faire accroire ?  
 
-    ALBERT
+    ALBERT.
 Ils s'entendent tous deux comme larrons en foire.  
 
-    MASCARILLE
+    MASCARILLE.
 Mais venons à la preuve, et sans nous quereller :  
 Faites sortir Lucile et la laissez parler.  
 
-    ALBERT
+    ALBERT.
 Et si le démenti par elle vous en reste ?  
 
-    MASCARILLE
+    MASCARILLE.
 Elle n'en fera rien, Monsieur, je vous proteste,  
 Promettez à leurs vœux votre consentement,  
 Et je veux m'exposer au plus dur châtiment,  
 Si de sa propre bouche elle ne vous confesse,  
 Et la foi qui l'engage, et l'ardeur qui la presse.  
 
-    ALBERT 
+    ALBERT.
 Il faut voir cette affaire.  
 
-    MASCARILLE
-Allez ; tout ira bien.  
+    MASCARILLE.
+        Allez ; tout ira bien.  
 
-    ALBERT 
+    ALBERT.
 Holà, Lucile, un mot.  
 
-    VALÈRE
-Je crains…  
+    VALÈRE.
+    Je crains…  
 
-    MASCARILLE
-Ne craignez rien.  
+    MASCARILLE.
+        Ne craignez rien.  
 
 
-## Scène IX
+## Scène IX.
 Valère, Albert, Mascarille, Lucile
 
 
-    MASCARILLE
+    MASCARILLE.
 Seigneur Albert, au moins, silence. Enfin, Madame,  
 Toute chose conspire au bonheur de votre âme,  
 Et Monsieur votre père averti de vos feux,  
@@ -2152,31 +2152,31 @@ Vous laisse votre Époux, et confirme vos vœux ;
 Pourvu que bannissant toutes craintes frivoles,  
 Deux mots de votre aveu confirment nos paroles.  
 
-    LUCILE
+    LUCILE.
 Que me vient donc conter ce coquin assuré ?  
 
-    MASCARILLE
+    MASCARILLE.
 Bon, me voilà déjà d'un beau titre honoré.  
 
-    LUCILE
+    LUCILE.
 Sachons un peu, Monsieur, quelle belle saillie  
 Fait ce conte galant qu'aujourd'hui l'on publie.  
 
-    VALÈRE
+    VALÈRE.
 Pardon, charmant objet, un valet a parlé,  
 Et j'ai vu malgré moi notre hymen révélé.  
 
-    LUCILE 
+    LUCILE.
 Notre hymen ?  
 
-    VALÈRE
-On sait tout, adorable Lucile,  
+    VALÈRE.
+        On sait tout, adorable Lucile,  
 Et vouloir déguiser est un soin inutile.  
 
-    LUCILE
+    LUCILE.
 Quoi ! l'ardeur de mes feux vous a fait mon Époux ?  
 
-    VALÈRE
+    VALÈRE.
 C'est un bien qui me doit faire mille jaloux ;  
 Mais j'impute bien moins ce bonheur de ma flamme,  
 À l'ardeur de vos feux, qu'aux bontés de votre âme.  
@@ -2186,10 +2186,10 @@ Et j'ai de mes transports forcé la violence,
 À ne point violer votre expresse défense :  
 Mais…  
 
-    MASCARILLE
-Hé bien, oui, c'est moi ; le grand mal que voilà !  
+    MASCARILLE.
+        Hé bien, oui, c'est moi ; le grand mal que voilà !  
 
-    LUCILE
+    LUCILE.
 Est-il une imposture égale à celle-là ?  
 Vous l'osez soutenir en ma présence même,  
 Et pensez m'obtenir par ce beau stratagème ?  
@@ -2207,10 +2207,10 @@ Allez ; et si mon sexe, avec bienséance,
 Se pouvait emporter à quelque violence,  
 Je vous apprendrais bien à me traiter ainsi.  
 
-    VALÈRE
+    VALÈRE.
 C'en est fait son courroux ne peut être adouci.  
 
-    MASCARILLE
+    MASCARILLE.
 Laissez-moi lui parler. Eh ! Madame, de grâce,  
 À quoi bon maintenant toute cette grimace ?  
 Quelle est votre pensée ? et quel bourru transport  
@@ -2230,130 +2230,130 @@ Et qu'une fille enfin n'est ni caillou ni bois.
 Vous n'avez pas été sans doute la première,  
 Et vous ne serez pas, que je crois, la dernière.  
 
-    LUCILE
+    LUCILE.
 Quoi ! vous pouvez ouïr ces discours effrontés !  
 Et vous ne dites mot à ces indignités !  
 
-    ALBERT
+    ALBERT.
 Que veux-tu que je dise ? une telle aventure  
 Me met tout hors de moi.  
 
-    MASCARILLE
+    MASCARILLE.
 Madame, je vous jure  
 Que déjà vous devriez avoir tout confessé.  
 
-    LUCILE
+    LUCILE.
 Et quoi donc confesser ?  
 
-    MASCARILLE
-Quoi ? Ce qui s'est passé  
+    MASCARILLE.
+        Quoi ? Ce qui s'est passé  
 Entre mon maître et vous ; la belle raillerie !  
 
-    LUCILE
+    LUCILE.
 Et que s'est-il passé, monstre d'effronterie,  
 Entre ton maître et moi ?  
 
-    MASCARILLE
+    MASCARILLE.
 Vous devez, que je crois,  
 En savoir un peu plus de nouvelles que moi,  
 Et pour vous cette nuit fut trop douce, pour croire  
 Que vous puissiez si vite en perdre la mémoire.  
 
-    LUCILE
+    LUCILE.
 C'est trop souffrir, mon père, un impudent valet.  
 
 
-## Scène X
+## Scène X.
 Valère, Mascarille, Albert
 
 
-    MASCARILLE 
+    MASCARILLE.
 Je crois qu'elle me vient de donner un soufflet :  
 
-    ALBERT 
+    ALBERT.
 Va, coquin, scélérat, sa main vient sur ta joue  
 De faire une action dont son père la loue.  
 
-    MASCARILLE
+    MASCARILLE.
 Et, nonobstant cela, qu'un diable en cet instant  
 M'emporte, si j'ai dit rien que de très constant.  
 
-    ALBERT
+    ALBERT.
 Et nonobstant cela qu'on me coupe une oreille,  
 Si tu portes fort loin une audace pareille.  
 
-    MASCARILLE
+    MASCARILLE.
 Voulez-vous deux témoins qui me justifieront ?  
 
-    ALBERT
+    ALBERT.
 Veux-tu deux de mes gens qui te bâtonneront ?  
 
-    MASCARILLE
+    MASCARILLE.
 Leur rapport doit au mien donner toute créance.  
 
-    ALBERT
+    ALBERT.
 Leurs bras peuvent du mien réparer l'impuissance.  
 
-    MASCARILLE
+    MASCARILLE.
 Je vous dis que Lucile agit par honte ainsi.  
 
-    ALBERT
+    ALBERT.
 Je te dis que j'aurai raison de tout ceci.  
 
-    MASCARILLE
+    MASCARILLE.
 Connaissez-vous Ormin ce gros Notaire habile ?  
 
-    ALBERT
+    ALBERT.
 Connais-tu bien Grimpant le bourreau de la ville ?  
 
-    MASCARILLE
+    MASCARILLE.
 Et Simon le Tailleur jadis si recherché ?  
 
-    ALBERT
+    ALBERT.
 Et la potence mise au milieu du marché ?  
 
-    MASCARILLE
+    MASCARILLE.
 Vous verrez confirmer par eux cet hyménée.  
 
-    ALBERT
+    ALBERT.
 Tu verras achever par eux ta destinée.  
 
-    MASCARILLE
+    MASCARILLE.
 Ce sont eux qu'ils ont pris pour témoins de leur foi.  
 
-    ALBERT
+    ALBERT.
 Ce sont eux qui dans peu me vengeront de toi.  
 
-    MASCARILLE
+    MASCARILLE.
 Et ces yeux les ont vus s'entre-donner parole.  
 
-    ALBERT
+    ALBERT.
 Et ces yeux te verront faire la capriole.  
 
-    MASCARILLE
+    MASCARILLE.
 Et, pour signe, Lucile avait un voile noir.  
 
-    ALBERT
+    ALBERT.
 Et, pour signe, ton front nous le fait assez voir.  
 
-    MASCARILLE
+    MASCARILLE.
 Oh ! l'obstiné vieillard !  
 
-    ALBERT
-Ô ! le fourbe damnable !  
+    ALBERT.
+        Ô ! le fourbe damnable !  
 Va, rends grâce à mes ans qui me font incapables  
 De punir sur-le-champ l'affront que tu me fais ;  
 Tu n'en perds que l'attente, et je te le promets.  
 
 
-## Scène XI
+## Scène XI.
 Valère, Mascarille
 
 
-    VALÈRE
+    VALÈRE.
 Hé bien ! ce beau succès que tu devais produire…  
 
-    MASCARILLE
+    MASCARILLE.
 J'entends à demi-mot ce que vous voulez dire ;  
 Tout s'arme contre moi ; pour moi de tous côtés  
 Je vois coups de bâton, et gibets apprêtés :  
@@ -2363,37 +2363,37 @@ Si, dans le désespoir dont mon cœur est outré,
 Je puis en rencontrer d'assez haut à mon gré.  
 Adieu, Monsieur.  
 
-    VALÈRE
-Non, non ; ta fuite est superflue :  
+    VALÈRE.
+        Non, non ; ta fuite est superflue :  
 Si tu meurs, je prétends que ce soit à ma vue.  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne saurais mourir quand je suis regardé,  
 Et mon trépas ainsi se verrait retardé.  
 
-    VALÈRE
+    VALÈRE.
 Suis-moi, traître, suis-moi ; mon amour en furie  
 Te fera voir si c'est matière à raillerie.  
 
-    MASCARILLE
+    MASCARILLE.
 Malheureux Mascarille ! à quels maux aujourd'hui  
 Te vois-tu condamné pour le péché d'autrui ?  
 
 <Fin du troisième Acte.>
 
 
-# Acte IV
+# Acte IV.
 
 
-## Scène Première
+## Scène Première.
 Ascagne, Frosine
 
 
-    FROSINE 
+    FROSINE.
 L'aventure est fâcheuse.  
 
-    ASCAGNE
-Ah ! ma chère Frosine,  
+    ASCAGNE.
+        Ah ! ma chère Frosine,  
 Le sort absolument a conclu la ruine :  
 Cette affaire, venue au point où la voilà  
 N'est pas assurément pour en demeurer là ;  
@@ -2412,7 +2412,7 @@ Où pour ma fourbe alors pût être mon amant,
 Voudra-t-il avouer pour épouse une fille  
 Qu'il verra sans appui de biens et de famille ?  
 
-    FROSINE
+    FROSINE.
 Je trouve que c'est là raisonné comme il faut :  
 Mais ces réflexions devaient venir plus tôt.  
 Qui vous a jusqu'ici caché cette lumière ?  
@@ -2422,56 +2422,56 @@ Tout ce que votre esprit ne voit que d'aujourd'hui :
 L'action le disait ; et dès que je l'ai sue,  
 Je n'en ai prévu guère une meilleure issue.  
 
-    ASCAGNE
+    ASCAGNE.
 Que dois-je faire enfin ? mon trouble est sans pareil :  
 Mettez-vous en ma place, et me donnez conseil.  
 
-    FROSINE
+    FROSINE.
 Ce doit être à vous-même, en prenant votre place,  
 À me donner conseil dessus cette disgrâce :  
 Car je suis maintenant vous, et vous êtes moi ;  
 Conseillez-moi, Frosine, au point où je me vois.  
 Quel remède trouver ? dites, je vous en prie.  
 
-    ASCAGNE
+    ASCAGNE.
 Hélas ! ne traitez point ceci de raillerie ;  
 C'est prendre peu de part à mes cuisants ennuis,  
 Que de rire, et de voir les termes où j'en suis.  
 
-    FROSINE
+    FROSINE.
 Non vraiment, tout de bon ; votre ennui m'est sensible,  
 Et pour vous en tirer je ferais mon possible.  
 Mais, que puis-je après tout ? je vois fort peu de jour  
 À tourner cette affaire au gré de votre amour.  
 
-    ASCAGNE
+    ASCAGNE.
 Si rien ne peut m'aider, il faut donc que je meure.  
 
-    FROSINE
+    FROSINE.
 Ha ! pour cela toujours il est assez bonne heure ;  
 La mort est un remède à trouver quand on veut,  
 Et l'on s'en doit servir le plus tard que l'on peut.  
 
-    ASCAGNE
+    ASCAGNE.
 Non, non, Frosine, non ; si vos conseils propices  
 Ne conduisent mon sort parmi ces précipices,  
 Je m'abandonne toute aux traits du désespoir.  
 
-    FROSINE
+    FROSINE.
 Savez-vous ma pensée ? il faut que j'aille voir  
 La… mais Éraste vient qui pourrait nous distraire,  
 Nous pourrons en marchant parler de cette affaire ;  
 Allons, retirons-nous.  
 
 
-## Scène II
+## Scène II.
 Éraste, Gros-René
 
 
-    ÉRASTE
-Encore rebuté ?  
+    ÉRASTE.
+        Encore rebuté ?  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Jamais Ambassadeur ne fut moins écouté :  
 À peine ai-je voulu lui porter la nouvelle  
 Du moment d'entretien que vous souhaitiez d'elle,  
@@ -2484,7 +2484,7 @@ Lâchant un *Laisse-nous, beau valet de carreau*,
 M'a planté là comme elle, et mon sort et le vôtre  
 N'ont rien à se pouvoir reprocher 1'un à l'autre.  
 
-    ÉRASTE
+    ÉRASTE.
 L'ingrate ! recevoir avec tant de fierté  
 Le prompt retour d'un cœur justement emporté !  
 Quoi ! le premier transport d'un amour qu'on abuse  
@@ -2514,7 +2514,7 @@ Pour un cœur, où je vois le peu de part que j'ai ;
 Et, puisque l'on témoigne une froideur extrême  
 À conserver les gens, je veux faire de même.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Et moi de même aussi : soyons tous deux fâchés,  
 Et mettons notre amour au rang des vieux péchés :  
 Il faut apprendre à vivre à ce sexe volage,  
@@ -2528,12 +2528,12 @@ Sauter à notre cou plus que nous ne voudrions,
 Sans tous ces vils devoirs, dont la plupart des hommes  
 Les gâtent tous les jours dans le siècle où nous sommes.  
 
-    ÉRASTE
+    ÉRASTE.
 Pour moi, sur toutes choses, un mépris me surprend ;  
 Et, pour punir le sien par un autre aussi grand,  
 Je veux mettre en mon cœur une nouvelle flamme.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Et moi, je ne veux plus m'embarrasser de femme ;  
 À toutes je renonce, et crois, en bonne foi,  
 Que vous feriez fort bien de faire comme moi.  
@@ -2580,36 +2580,36 @@ Et lors un… certain vent, qui par… de certains flots,
 De… certaine façon, ainsi qu'un banc de sable…  
 Quand… les femmes enfin ne valent pas le diable.  
 
-    ÉRASTE
+    ÉRASTE.
 C'est fort bien raisonner.  
 
-    GROS-RENÉ
-Assez bien, Dieu merci :  
+    GROS-RENÉ.
+        Assez bien, Dieu merci :  
 Mais je les vois, Monsieur, qui passent par ici.  
 Tenez-vous ferme au moins.  
 
-    ÉRASTE
-Ne te mets pas en peine.  
+    ÉRASTE.
+        Ne te mets pas en peine.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 J'ai bien peur que ses yeux resserrent votre chaîne.  
 
 
-## Scène III
+## Scène III.
 Éraste, Lucile, Marinette, Gros-René
 
 
-    MARINETTE
+    MARINETTE.
 Je l'aperçois encor ; mais ne vous rendez point.  
 
-    LUCILE
+    LUCILE.
 Ne me soupçonne pas d'être faible à ce point.  
 
-    MARINETTE
+    MARINETTE.
 Il vient à nous.  
 
-    ÉRASTE
-Non, non ; ne croyez pas, Madame,  
+    ÉRASTE.
+        Non, non ; ne croyez pas, Madame,  
 Que je revienne encor vous parler de ma flamme ;  
 C'en est fait ; je me veux guérir, et connais bien  
 Ce que de votre cœur a possédé le mien.  
@@ -2634,39 +2634,39 @@ Chasse un cœur tant de fois que l'amour vous ramène,
 C'est la dernière ici des importunités,  
 Que vous aurez jamais de mes vœux rebutés.  
 
-    LUCILE
+    LUCILE.
 Vous pouvez faire aux miens la grâce tout entière,  
 Monsieur, et m'épargner encor cette dernière.  
 
-    ÉRASTE
+    ÉRASTE.
 Hé bien, Madame, hé bien, ils seront satisfaits :  
 Je romps avecque vous, et j'y romps pour jamais,  
 Puisque vous le voulez ; que je perde la vie  
 Lorsque de vous parler je reprendrai l'envie.  
 
-    LUCILE
+    LUCILE.
 Tant mieux ; c'est m'obliger.  
 
-    ÉRASTE
-Non, non, n'ayez pas peur  
+    ÉRASTE.
+        Non, non, n'ayez pas peur  
 Que je fausse parole ; eussé-je un faible cœur  
 Jusques à n'en pouvoir effacer votre image,  
 Croyez que vous n'aurez jamais cet avantage,  
 De me voir revenir.  
 
-    LUCILE
-Ce serait bien en vain.  
+    LUCILE.
+        Ce serait bien en vain.  
 
-    ÉRASTE
+    ÉRASTE.
 Moi-même, de cent coups je percerais mon sein,  
 Si j'avais jamais fait cette bassesse insigne,  
 De vous revoir, après ce traitement indigne.  
 
-    LUCILE
+    LUCILE.
 Soit ; n'en parlons donc plus.  
 
-    ÉRASTE
-Oui, oui ; n'en parlons plus :  
+    ÉRASTE.
+        Oui, oui ; n'en parlons plus :  
 Et pour trancher ici tous propos superflus,  
 Et vous donner, ingrate, une preuve certaine,  
 Que je veux sans retour sortir de votre chaîne,  
@@ -2677,109 +2677,109 @@ Cent charmes merveilleux dont vous êtes pourvue,
 Mais il cache sous eux cent défauts aussi grands,  
 Et c'est un imposteur enfin que je vous rends.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Bon.  
 
-    LUCILE
-Et moi, pour vous suivre au dessein de tout rendre,  
+    LUCILE.
+        Et moi, pour vous suivre au dessein de tout rendre,  
 Voilà le diamant que vous m'aviez fait prendre.  
 
-    MARINETTE
+    MARINETTE.
 Fort bien.  
 
-    ÉRASTE
-Il est à vous encor ce bracelet.  
+    ÉRASTE.
+        Il est à vous encor ce bracelet.  
 
-    LUCILE
+    LUCILE.
 Et cette agate à vous qu'on fit mettre en cachet.  
 
-    ÉRASTE *lit*
+    ÉRASTE *lit*.
 
 Vous m'aimez d'une amour extrême,  
 Éraste ; et de mon cœur voulez être éclairci :  
 Si je n'aime Éraste de même,  
 Au moins, aimé-je fort qu'Éraste m'aime ainsi.  
 
-    LUCILE
+    LUCILE.
 Éraste continue.
 
 Vous m'assuriez par là d'agréer mon service ?  
 C'est une fausseté digne de ce supplice.  
 
-    LUCILE *lit*
+    LUCILE *lit*.
 
 J'ignore le destin de mon amour ardente,  
 Et jusqu'à quand je souffrirai :  
 Mais je sais, ô beauté charmante,  
 Que toujours je vous aimerai.  
 
-    ÉRASTE
+    ÉRASTE.
 Elle continue.
 
 Voilà qui m'assurait à jamais de vos feux ?  
 Et la main, et la lettre, ont menti toutes deux.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Poussez.  
 
-    ÉRASTE
-Elle est de vous ? suffit : même fortune.  
+    ÉRASTE.
+        Elle est de vous ? suffit : même fortune.  
 
-    MARINETTE
+    MARINETTE.
 Ferme.  
 
-    LUCILE
-J'aurais regret d'en épargner aucune.  
+    LUCILE.
+        J'aurais regret d'en épargner aucune.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 N'ayez pas le dernier.  
 
-    MARINETTE
-Tenez bon jusqu'au bout.  
+    MARINETTE.
+        Tenez bon jusqu'au bout.  
 
-    LUCILE
+    LUCILE.
 Enfin, voilà le reste.  
 
-    ÉRASTE
-Et, grâce au Ciel, c'est tout.  
+    ÉRASTE.
+        Et, grâce au Ciel, c'est tout.  
 Que sois-je exterminé, si je ne tiens parole.  
 
-    LUCILE
+    LUCILE.
 Me confonde le Ciel, si la mienne est frivole.  
 
-    ÉRASTE
+    ÉRASTE.
 Adieu donc.  
 
-    LUCILE
-Adieu donc.  
+    LUCILE.
+    Adieu donc.  
 
-    MARINETTE
-Voilà qui va des mieux.  
+    MARINETTE.
+        Voilà qui va des mieux.  
 
-    GROS-RENÉ 
+    GROS-RENÉ.
 Vous triomphez.  
 
-    MARINETTE
-Allons, ôtez-vous de ses yeux.  
+    MARINETTE.
+        Allons, ôtez-vous de ses yeux.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Retirez-vous, après cet effort de courage.  
 
-    MARINETTE
+    MARINETTE.
 Qu'attendez-vous encor ?  
 
-    GROS-RENÉ
-Que faut-il davantage ?  
+    GROS-RENÉ.
+        Que faut-il davantage ?  
 
-    ÉRASTE
+    ÉRASTE.
 Ha ! Lucile, Lucile, un cœur comme le mien  
 Se fera regretter, et je le sais fort bien.  
 
-    LUCILE
+    LUCILE.
 Éraste, Éraste, un cœur fait comme est fait le vôtre  
 Se peut facilement réparer par un autre.  
 
-    ÉRASTE
+    ÉRASTE.
 Non, non, cherchez partout, vous n'en aurez jamais  
 De si passionné pour vous, je vous promets.  
 Je ne dis pas cela pour vous rendre attendrie ;  
@@ -2789,81 +2789,81 @@ Vous avez voulu rompre ; il n'y faut plus songer :
 Mais personne après moi, quoi qu'on vous fasse entendre,  
 N'aura jamais pour vous de passion si tendre.  
 
-    LUCILE
+    LUCILE.
 Quand on aime les gens, on les traite autrement ;  
 On fait de leur personne un meilleur jugement.  
 
-    ÉRASTE
+    ÉRASTE.
 Quand on aime les gens, on peut de jalousie,  
 Sur beaucoup d'apparence, avoir l'âme saisie :  
 Mais alors qu'on les aime, on ne peut en effet  
 Se résoudre à les perdre, et vous vous l'avez fait.  
 
-    LUCILE
+    LUCILE.
 La plus pure jalousie est plus respectueuse.  
 
-    ÉRASTE
+    ÉRASTE.
 On voit d'un œil plus doux une offense amoureuse.  
 
-    LUCILE
+    LUCILE.
 Non votre cœur, Éraste, était mal enflammé.  
 
-    ÉRASTE
+    ÉRASTE.
 Non, Lucile, jamais vous ne m'avez aimé.  
 
-    LUCILE
+    LUCILE.
 Eh ! je crois que cela faiblement vous soucie :  
 Peut-être en serait-il beaucoup mieux pour ma vie,  
 Si je… mais laissons là ces discours superflus :  
 Je ne dis point quels sont mes pensers là-dessus.  
 
-    ÉRASTE
+    ÉRASTE.
 Pourquoi ?  
 
-    LUCILE
-Par la raison que nous rompons ensemble,  
+    LUCILE.
+        Par la raison que nous rompons ensemble,  
 Et que cela n'est plus de saison ce me semble.  
 
-    ÉRASTE
+    ÉRASTE.
 Nous rompons ?  
 
-    LUCILE
-Oui vraiment ? quoi ? n'en est-ce pas fait ?  
+    LUCILE.
+        Oui vraiment ? quoi ? n'en est-ce pas fait ?  
 
-    ÉRASTE 
+    ÉRASTE.
 Et vous voyez cela d'un esprit satisfait ?  
 
-    LUCILE
+    LUCILE.
 Comme vous.  
 
-    ÉRASTE
-Comme moi !  
+    ÉRASTE.
+    Comme moi !  
 
-    LUCILE
-Sans doute c'est faiblesse,  
+    LUCILE.
+        Sans doute c'est faiblesse,  
 De faire voir aux gens que leur perte nous blesse.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais, cruelle, c'est vous qui l'avez bien voulu.  
 
-    LUCILE
+    LUCILE.
 Moi ! point du tout ; c'est vous qui l'avez résolu.  
 
-    ÉRASTE
+    ÉRASTE.
 Moi ! je vous ai cru là faire un plaisir extrême.  
 
-    LUCILE
+    LUCILE.
 Point, vous avez voulu vous contenter vous-même.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais, si mon cœur encor revoulait sa prison ?  
 Si, tout fâché qu'il est, il demandait pardon ?…  
 
-    LUCILE
+    LUCILE.
 Non, non, n'en faites rien, ma faiblesse est trop grande,  
 J'aurais peur d'accorder trop tôt votre demande.  
 
-    ÉRASTE
+    ÉRASTE.
 Ha ! vous ne pouvez pas trop tôt me l'accorder,  
 Ni moi sur cette peur trop tôt le demander ;  
 Consentez-y, Madame, une flamme si belle,  
@@ -2871,34 +2871,34 @@ Doit pour votre intérêt demeurer immortelle.
 Je le demande enfin : me l'accorderez-vous,  
 Ce pardon obligeant ?  
 
-    LUCILE
-Remenez-moi chez nous.  
+    LUCILE.
+        Remenez-moi chez nous.  
 
 
-## Scène IV
+## Scène IV.
 Marinette, Gros-René
 
 
-    MARINETTE
+    MARINETTE.
 Ô ! La lâche personne !  
 
-    GROS-RENÉ
-Ha ! le faible courage !  
+    GROS-RENÉ.
+        Ha ! le faible courage !  
 
-    MARINETTE 
+    MARINETTE.
 J'en rougis de dépit.  
 
-    GROS-RENÉ
-J'en suis gonflé de rage :  
+    GROS-RENÉ.
+        J'en suis gonflé de rage :  
 Ne t'imagine pas que je me rende ainsi.  
 
-    MARINETTE
+    MARINETTE.
 Et ne pense pas, toi, trouver ta dupe aussi.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Viens, viens, frotter ton nez auprès de ma colère.  
 
-    MARINETTE
+    MARINETTE.
 Tu nous prends pour un autre ; et tu n'as pas affaire  
 À ma sotte maîtresse. Ardez le beau museau !  
 Pour nous donner envie encore de sa peau :  
@@ -2906,110 +2906,110 @@ Moi, j'aurais de l'amour pour ta chienne de face !
 Moi, je te chercherais ! ma foi, l'on t'en fricasse  
 Des filles comme nous.  
 
-    GROS-RENÉ
-Oui ? tu le prends par là ?  
+    GROS-RENÉ.
+        Oui ? tu le prends par là ?  
 Tiens, tiens, sans y chercher tant de façon, voilà  
 Ton beau galant de neige, avec ta nonpareille :  
 Il n'aura plus l'honneur d'être sur mon oreille.  
 
-    MARINETTE
+    MARINETTE.
 Et toi, pour te montrer que tu m'es à mépris,  
 Voilà ton demi-cent d'épingles de Paris,  
 Que tu me donnas hier avec tant de fanfare.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Tiens encor ton couteau ; la pièce est riche et rare :  
 Il te coûta six blancs lorsque tu m'en fis don.  
 
-    MARINETTE
+    MARINETTE.
 Tiens tes ciseaux, avec ta chaîne de laiton.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 J'oubliais d'avant-hier ton morceau de fromage ;  
 Tiens : Je voudrais pouvoir rejeter le potage  
 Que tu me fis manger, pour n'avoir rien à toi.  
 
-    MARINETTE
+    MARINETTE.
 Je n'ai point maintenant de tes lettres sur moi ;  
 Mais j'en ferai du feu jusques à la dernière.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Et des tiennes tu sais ce que j'en saurai faire ?  
 
-    MARINETTE
+    MARINETTE.
 Prends garde à ne venir jamais me reprier.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Pour couper tout chemin à nous rapatrier,  
 Il faut rompre la paille ; une paille rompue  
 Rend, entre gens d'honneur, une affaire conclue,  
 Ne fais point les doux yeux : je veux être fâché.  
 
-    MARINETTE
+    MARINETTE.
 Ne me lorgne point, toi ; j'ai l'esprit trop touché.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Romps ; voilà le moyen de ne s'en plus dédire :  
 Romps ; tu ris, bonne bête !  
 
-    MARINETTE
-Oui, car tu me fais rire.  
+    MARINETTE.
+        Oui, car tu me fais rire.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 La peste soit ton ris ; voilà tout mon courroux  
 Déjà dulcifié : Qu'en dis-tu ? romprons-nous ?  
 Ou ne romprons-nous pas ?  
 
-    MARINETTE 
-Vois.  
+    MARINETTE.
+    Vois.  
 
-    GROS-RENÉ
-Vois toi.  
+    GROS-RENÉ.
+    Vois toi.  
 
-    MARINETTE
-Vois toi-même.  
+    MARINETTE.
+        Vois toi-même.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Est-ce que tu consens que jamais je ne t'aime ?  
 
-    MARINETTE
+    MARINETTE.
 Moi ? ce que tu voudras.  
 
-    GROS-RENÉ
-Ce que tu voudras, toi.  
+    GROS-RENÉ.
+        Ce que tu voudras, toi.  
 Dis…  
 
-    MARINETTE
-Je ne dirai rien.  
+    MARINETTE.
+    Je ne dirai rien.  
 
-    GROS-RENÉ
-Ni moi non plus.  
+    GROS-RENÉ.
+    Ni moi non plus.  
 
-    MARINETTE
-Ni moi.  
+    MARINETTE.
+        Ni moi.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Ma foi, nous ferons mieux de quitter la grimace ;  
 Touche, je te pardonne.  
 
-    MARINETTE
-Et moi je te fais grâce.  
+    MARINETTE.
+        Et moi je te fais grâce.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Mon Dieu ! qu'à tes appas je suis acoquiné !  
 
-    MARINETTE
+    MARINETTE.
 Que Marinette est sotte après son Gros-René !  
 
 <Fin du quatrième Acte.>
 
 
-# Acte V
+# Acte V.
 
 
-## Scène Première
+## Scène Première.
 
-    MASCARILLE
+    MASCARILLE.
 Dès que l'obscurité régnera dans la ville,  
 Je me veux introduire au logis de Lucile :  
 Va vite de ce pas préparer pour tantôt,  
@@ -3058,11 +3058,11 @@ Je n'ai pas grande faim de mort ni de blessure,
 Et vous ferez le sot tout seul, je vous assure.  
 
 
-## Scène II
+## Scène II.
 Valère, Mascarille
 
 
-    VALÈRE
+    VALÈRE.
 Je n'ai jamais trouvé de jour plus ennuyeux :  
 Le soleil semble s'être oublié dans les Cieux ;  
 Et jusqu'au lit qui doit recevoir sa lumière,  
@@ -3070,58 +3070,58 @@ Je vois rester encore une telle carrière,
 Que je crois que jamais il ne l'achèvera,  
 Et que de sa lenteur mon âme enragera.  
 
-    MASCARILLE
+    MASCARILLE.
 Et cet empressement pour s'en aller dans l'ombre,  
 Pêcher vite à tâtons quelque sinistre encombre…  
 Vous voyez que Lucile entière en ses rebuts…  
 
-    VALÈRE
+    VALÈRE.
 Ne me fais point ici de contes superflus.  
 Quand j'y devrais trouver cent embûches mortelles,  
 Je sens de son courroux des gênes trop cruelles,  
 Et je veux l'adoucir, ou terminer mon sort.  
 C'est un point résolu.  
 
-    MASCARILLE
-J'approuve ce transport ;  
+    MASCARILLE.
+        J'approuve ce transport ;  
 Mais le mal est, Monsieur, qu'il faudra s'introduire  
 En cachette.  
 
-    VALÈRE
-Fort bien.  
+    VALÈRE.
+    Fort bien.  
 
-    MASCARILLE
-Et j'ai peur de vous nuire.  
+    MASCARILLE.
+        Et j'ai peur de vous nuire.  
 
-    VALÈRE
+    VALÈRE.
 Et comment ?  
 
-    MASCARILLE
-Une toux me tourmente à mourir,  
+    MASCARILLE.
+        Une toux me tourmente à mourir,  
 Dont le bruit importun vous fera découvrir :  
 De moment en moment… Vous voyez le supplice.  
 
-    VALÈRE
+    VALÈRE.
 Ce mal te passera, prends du jus de réglisse.  
 
-    MASCARILLE
+    MASCARILLE.
 Je ne crois pas, Monsieur, qu'il se veuille passer.  
 Je serais ravi moi de ne vous point laisser ;  
 Mais j'aurais un regret mortel, si j'étais cause  
 Qu'il fût à mon cher maître arrivé quelque chose.  
 
 
-## Scène III
+## Scène III.
 Valère, La Rapière, Mascarille
 
 
-    LA RAPIÈRE
+    LA RAPIÈRE.
 Monsieur, de bonne part je viens d'être informé,  
 Qu'Éraste est contre vous fortement animé ;  
 Et qu'Albert parle aussi de faire pour sa fille  
 Rouer jambes et bras à votre Mascarille.  
 
-    MASCARILLE
+    MASCARILLE.
 Moi, je ne suis pour rien dans tout cet embarras.  
 Qu'ai-je fait ? pour me voir rouer jambes et bras ?  
 Suis-je donc gardien, pour employer ce style,  
@@ -3129,30 +3129,30 @@ De la Virginité des filles de la ville ?
 Sur la tentation ai-je quelque crédit ?  
 Et puis-je mais, chétif, si le cœur leur en dit ?  
 
-    VALÈRE
+    VALÈRE.
 Oh ! qu'ils ne seront pas si méchants qu'ils le disent !  
 Et quelque belle ardeur que ses feux lui produisent,  
 Éraste n'aura pas si bon marché de nous.  
 
-    LA RAPIÈRE
+    LA RAPIÈRE.
 S'il vous faisait besoin, mon bras est tout à vous.  
 Vous savez de tout temps que je suis un bon frère.  
 
-    VALÈRE
+    VALÈRE.
 Je vous suis obligé, Monsieur de la Rapière.  
 
-    LA RAPIÈRE
+    LA RAPIÈRE.
 J'ai deux amis aussi que je vous puis donner,  
 Qui contre tous venants sont gens à dégainer,  
 Et sur qui vous pourrez prendre toute assurance.  
 
-    MASCARILLE
+    MASCARILLE.
 Acceptez-les, Monsieur.  
 
-    VALÈRE
-C'est trop de complaisance.  
+    VALÈRE.
+        C'est trop de complaisance.  
 
-    LA RAPIÈRE
+    LA RAPIÈRE.
 Le petit Gille encore eût pu nous assister,  
 Sans le triste accident qui vient de nous l'ôter.  
 Monsieur, le grand dommage ! et l'homme de service !  
@@ -3160,66 +3160,66 @@ Vous avez su le tour que lui fit la Justice ?
 Il mourut en César, et lui cassant les os  
 Le bourreau ne lui put faire lâcher deux mots.  
 
-    VALÈRE
+    VALÈRE.
 Monsieur de la Rapière, un homme de la sorte  
 Doit être regretté, mais quant à votre escorte,  
 Je vous rends grâce.  
 
-    LA RAPIÈRE
-Soit ; mais soyez averti  
+    LA RAPIÈRE.
+        Soit ; mais soyez averti  
 Qu'il vous cherche, et vous peut faire un mauvais parti.  
 
-    VALÈRE
+    VALÈRE.
 Et moi, pour vous montrer combien je l'appréhende :  
 Je lui veux, s'il me cherche, offrir ce qu'il demande :  
 Et par toute la ville aller présentement,  
 Sans être accompagné que de lui seulement.  
 
-    MASCARILLE
+    MASCARILLE.
 Quoi ! Monsieur, vous voulez tenter Dieu ! quelle audace !  
 Las ! vous voyez tous deux comme l'on vous menace,  
 Combien de tous côtés…  
 
-    VALÈRE
-Que regardes-tu là ?  
+    VALÈRE.
+        Que regardes-tu là ?  
 
-    MASCARILLE
+    MASCARILLE.
 C'est qu'il sent le bâton du côté que voilà.  
 Enfin, si maintenant ma prudence en est crue,  
 Ne nous obstinons point à rester dans la rue :  
 Allons nous renfermer.  
 
-    VALÈRE
-Nous renfermer ! faquin ;  
+    VALÈRE.
+        Nous renfermer ! faquin ;  
 Tu m'oses proposer un acte de coquin !  
 Sus, sans plus de discours, résous-toi de me suivre.  
 
-    MASCARILLE
+    MASCARILLE.
 Eh ! Monsieur, mon cher maître, il est si doux de vivre !  
 On ne meurt qu'une fois, et c'est pour si longtemps !  
 
-    VALÈRE
+    VALÈRE.
 Je m'en vais t'assommer de coups, si je t'entends.  
 Ascagne vient ici ; laissons-le ; il faut attendre  
 Quel parti de lui-même il résoudra de prendre.  
 Cependant avec moi viens prendre à la maison  
 Pour nous frotter.  
 
-    MASCARILLE
-Je n'ai nulle démangeaison.  
+    MASCARILLE.
+        Je n'ai nulle démangeaison.  
 Que maudit soit l'amour, et les filles maudites,  
 Qui veulent en tâter, puis font les chattemites.  
 
 
-## Scène IV
+## Scène IV.
 Ascagne, Frosine
 
 
-    ASCAGNE
+    ASCAGNE.
 Est-il bien vrai, Frosine ? et ne rêvé-je point ?  
 De grâce, contez-moi bien tout de point en point.  
 
-    FROSINE
+    FROSINE.
 Vous en saurez assez le détail ; laissez faire :  
 Ces sortes d'incidents ne sont pour l'ordinaire  
 Que redits trop de fois de moment en moment.  
@@ -3259,20 +3259,20 @@ Son esprit pas à pas à l'accommodement,
 Qu'autant que votre père il montre de tendresse  
 À confirmer les nœuds qui font votre allégresse.  
 
-    ASCAGNE
+    ASCAGNE.
 Ha ! Frosine, la joie où vous m'acheminez !…  
 Et que ne dois-je point à vos soins fortunés !  
 
-    FROSINE
+    FROSINE.
 Au reste, le bonhomme est en humeur de rire,  
 Et pour son fils encor nous défend de rien dire.  
 
 
-## Scène V
+## Scène V.
 Ascagne, Frosine, Polydore
 
 
-    POLYDORE
+    POLYDORE.
 Approchez-vous, ma fille, un tel nom m'est permis ;  
 Et j'ai su le secret que cachaient ces habits.  
 Vous avez fait un trait qui, dans sa hardiesse  
@@ -3283,43 +3283,43 @@ Vous valez tout un monde ; et c'est moi qui l'assure.
 Mais le voici : prenons plaisir de l'aventure.  
 Allez faire venir tous vos gens promptement.  
 
-    ASCAGNE
+    ASCAGNE.
 Vous obéir sera mon premier compliment.  
 
 
-## Scène VI
+## Scène VI.
 Mascarille, Polydore, Valère
 
 
-    MASCARILLE
+    MASCARILLE.
 Les disgrâces souvent sont du Ciel révélées :  
 J'ai songé cette nuit de perles défilées,  
 Et d'œufs cassés, Monsieur, un tel songe m'abat.  
 
-    VALÈRE 
+    VALÈRE.
 Chien de poltron !  
 
-    POLYDORE
-Valère, il s'apprête un combat,  
+    POLYDORE.
+        Valère, il s'apprête un combat,  
 Où toute ta valeur te sera nécessaire.  
 Tu vas avoir en tête un puissant adversaire.  
 
-    MASCARILLE
+    MASCARILLE.
 Et personne, Monsieur, qui se veuille bouger  
 Pour retenir des gens qui se vont égorger !  
 Pour moi je le veux bien ; mais, au moins, s'il arrive  
 Qu'un funeste accident de votre fils vous prive,  
 Ne m'en accusez point.  
 
-    POLYDORE
-Non, non ; en cet endroit  
+    POLYDORE.
+        Non, non ; en cet endroit  
 Je le pousse moi-même à faire ce qu'il doit.  
 
-    MASCARILLE
+    MASCARILLE.
 Père dénaturé !  
 
-    VALÈRE
-Ce sentiment, mon père,  
+    VALÈRE.
+        Ce sentiment, mon père,  
 Est d'un homme de cœur ; et je vous en révère.  
 J'ai dû vous offenser, et je suis criminel  
 D'avoir fait tout ceci sans l'aveu paternel ;  
@@ -3328,40 +3328,40 @@ La nature toujours se montre la plus forte,
 Et votre honneur fait bien, quand il ne veut pas voir  
 Que le transport d'Éraste ait de quoi m'émouvoir.  
 
-    POLYDORE
+    POLYDORE.
 On me faisait tantôt redouter sa menace ;  
 Mais les choses depuis ont bien changé de face ;  
 Et, sans le pouvoir fuir, d'un ennemi plus fort  
 Tu vas être attaqué.  
 
-    MASCARILLE
-Point de moyen d'accord ?  
+    MASCARILLE.
+        Point de moyen d'accord ?  
 
-    VALÈRE
+    VALÈRE.
 Moi ! le fuir ! Dieu m'en garde. Et qui donc pourrait-ce être ?  
 
-    POLYDORE
+    POLYDORE.
 Ascagne.  
 
-    VALÈRE
-Ascagne ?  
+    VALÈRE.
+    Ascagne ?  
 
-    POLYDORE
-Oui ; tu le vas voir paraître.  
+    POLYDORE.
+        Oui ; tu le vas voir paraître.  
 
-    VALÈRE
+    VALÈRE.
 Lui, qui de me servir m'avait donné sa foi !  
 
-    POLYDORE
+    POLYDORE.
 Oui, c'est lui qui prétend avoir affaire à toi ;  
 Et qui veut, dans le champ où l'honneur vous appelle,  
 Qu'un combat seul à seul vide votre querelle.  
 
-    MASCARILLE
+    MASCARILLE.
 C'est un brave homme ; il sait que les cœurs généreux  
 Ne mettent point les gens en compromis pour eux.  
 
-    POLYDORE
+    POLYDORE.
 Enfin d'une imposture ils te rendent coupable,  
 Dont le ressentiment m'a paru raisonnable ;  
 Si bien qu'Albert et moi sommes tombés d'accord,  
@@ -3369,28 +3369,28 @@ Que tu satisferais Ascagne sur ce tort.
 Mais aux yeux d'un chacun, et sans nulles remises,  
 Dans les formalités en pareil cas requises.  
 
-    VALÈRE
+    VALÈRE.
 Et Lucile, mon père, a d'un cœur endurci !…  
 
-    POLYDORE
+    POLYDORE.
 Lucile épouse Éraste, et te condamne aussi :  
 Et, pour convaincre mieux tes discours d'injustice,  
 Veut qu'à tes propres yeux cet hymen s'accomplisse.  
 
-    VALÈRE
+    VALÈRE.
 Ha ! c'est une impudence à me mettre en fureur :  
 Elle a donc perdu sens, foi, conscience, honneur ?  
 
 
-## Scène VII
+## Scène VII.
 Mascarille, Lucile, Éraste, Polydore, Albert, Valère
 
 
-    ALBERT
+    ALBERT.
 Hé bien ? les combattants ? on amène le nôtre.  
 Avez-vous disposé le courage du vôtre ?  
 
-    VALÈRE
+    VALÈRE.
 Oui, oui, me voilà prêt, puisqu'on m'y veut forcer ;  
 Et, si j'ai pu trouver sujet de balancer,  
 Un reste de respect en pouvait être cause,  
@@ -3408,7 +3408,7 @@ Allez, ce procédé, Lucile, est odieux :
 C'est de toute pudeur se montrer ennemie :  
 Et vous devriez mourir d'une telle infamie.  
 
-    LUCILE
+    LUCILE.
 Un semblable discours me pourrait affliger,  
 Si je n'avais en main qui m'en saura venger.  
 Voici venir Ascagne, il aura l'avantage  
@@ -3416,54 +3416,54 @@ De vous faire changer bien vite de langage,
 Et sans beaucoup d'effort.  
 
 
-## Scène VIII
+## Scène VIII.
 Mascarille, Lucile, Éraste, Albert, Valère, Gros-René, Marinette, Ascagne, Frosine, Polydore
 
 
-    VALÈRE
-Il ne le fera pas,  
+    VALÈRE.
+        Il ne le fera pas,  
 Quand il joindrait au sien encor vingt autres bras.  
 Je le plains de défendre une sœur criminelle :  
 Mais, puisque son erreur me veut faire querelle,  
 Nous le satisferons, et vous, mon brave, aussi.  
 
-    ÉRASTE
+    ÉRASTE.
 Je prenais intérêt tantôt à tout ceci ;  
 Mais enfin, comme Ascagne a pris sur lui l'affaire,  
 Je ne veux plus en prendre, et je le laisse faire.  
 
-    VALÈRE
+    VALÈRE.
 C'est bien fait : la prudence est toujours de saison :  
 Mais…  
 
-    ÉRASTE
-Il saura pour tous vous mettre à la raison.  
+    ÉRASTE.
+        Il saura pour tous vous mettre à la raison.  
 
-    VALÈRE
+    VALÈRE.
 Lui ?  
 
-    POLYDORE
-Ne t'y trompe pas : tu ne sais pas encore  
+    POLYDORE.
+        Ne t'y trompe pas : tu ne sais pas encore  
 Quel étrange garçon est Ascagne.  
 
-    ALBERT
-Il l'ignore :  
+    ALBERT.
+        Il l'ignore :  
 Mais il pourra dans peu le lui faire savoir.  
 
-    VALÈRE
+    VALÈRE.
 Sus donc que maintenant il me le fasse voir.  
 
-    MARINETTE 
+    MARINETTE.
 Aux yeux de tous ?  
 
-    GROS-RENÉ
-Cela ne serait pas honnête.  
+    GROS-RENÉ.
+        Cela ne serait pas honnête.  
 
-    VALÈRE
+    VALÈRE.
 Se moque-t-on de moi ? je casserai la tête  
 À quelqu'un des rieurs. Enfin, voyons l'effet.  
 
-    ASCAGNE
+    ASCAGNE.
 Non, non, je ne suis pas si méchant qu'on me fait :  
 Et, dans cette aventure où chacun m'intéresse,  
 Vous allez voir plutôt éclater ma faiblesse,  
@@ -3478,18 +3478,18 @@ Peut avoir maintenant de quoi vous satisfaire,
 En vous donnant pour femme en présence de tous  
 Celle qui justement ne peut être qu'à vous.  
 
-    VALÈRE
+    VALÈRE.
 Non, quand toute la terre après sa perfidie,  
 Et les traits effrontés…  
 
-    ASCAGNE
-Ah ! souffrez que je die,  
+    ASCAGNE.
+        Ah ! souffrez que je die,  
 Valère, que le cœur qui vous est engagé  
 D'aucun crime envers vous ne peut être chargé :  
 Sa flamme est toujours pure, et sa constance extrême ;  
 Et j'en prends à témoin votre père lui-même.  
 
-    POLYDORE
+    POLYDORE.
 Oui, mon fils, c'est assez rire de ta fureur,  
 Et je vois qu'il est temps de te tirer d'erreur.  
 Celle à qui par serment ton âme est attachée,  
@@ -3508,39 +3508,39 @@ Mais puisqu'Ascagne ici fait place à Dorothée,
 Il faut voir de vos feux toute imposture ôtée,  
 Et qu'un nœud plus sacré donne force au premier.  
 
-    ALBERT
+    ALBERT.
 Et c'est là justement ce combat singulier,  
 Qui devait envers nous réparer votre offense,  
 Et pour qui les Édits n'ont point fait de défense.  
 
-    POLYDORE
+    POLYDORE.
 Un tel événement rend tes esprits confus ;  
 Mais en vain tu voudrais balancer là-dessus.  
 
-    VALÈRE
+    VALÈRE.
 Non, non ; je ne veux pas songer à m'en défendre ;  
 Et, si cette aventure a lieu de me surprendre,  
 La surprise me flatte, et je me sens saisir  
 De merveille à la fois, d'amour, et de plaisir,  
 Se peut-il que ces yeux ?…  
 
-    ALBERT
-Cet habit, cher Valère,  
+    ALBERT.
+        Cet habit, cher Valère,  
 Souffre mal les discours que vous lui pourriez faire.  
 Allons lui faire en prendre un autre ; et cependant  
 Vous saurez le détail de tout cet incident.  
 
-    VALÈRE
+    VALÈRE.
 Vous, Lucile, pardon, si mon âme abusée…  
 
-    LUCILE
+    LUCILE.
 L'oubli de cette injure est une chose aisée.  
 
-    ALBERT
+    ALBERT.
 Allons, ce compliment se fera bien chez nous,  
 Et nous aurons loisir de nous en faire tous.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais, vous ne songez pas en tenant ce langage,  
 Qu'il reste encore ici des sujets de carnage :  
 Voilà bien à tous deux notre amour couronné,  
@@ -3548,48 +3548,48 @@ Mais de son Mascarille, et de mon Gros-René,
 Par qui doit Marinette être ici possédée ?  
 Il faut que par le sang l'affaire soit vidée.  
 
-    MASCARILLE
+    MASCARILLE.
 Nenni, nenni, mon sang dans mon corps sied trop bien :  
 Qu'il l'épouse en repos, cela ne me fait rien.  
 De l'humeur que je sais la chère Marinette,  
 L'hymen ne ferme pas la porte à la fleurette.  
 
-    MARINETTE
+    MARINETTE.
 Et tu crois que de toi je ferais mon galant ?  
 Un mari, passe encor ; tel qu'il est, on le prend ;  
 On n'y va pas chercher tant de cérémonie :  
 Mais il faut qu'un galant soit fait à faire envie.  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Écoute, quand l'hymen aura joint nos deux peaux,  
 Je prétends qu'on soit sourde à tous les Damoiseaux.  
 
-    MASCARILLE
+    MASCARILLE.
 Tu crois te marier pour toi tout seul, compère ?  
 
-    GROS-RENÉ
+    GROS-RENÉ.
 Bien entendu, je veux une femme sévère :  
 Ou je ferai beau bruit.  
 
-    MASCARILLE
-Eh ! mon Dieu, tu feras  
+    MASCARILLE.
+        Eh ! mon Dieu, tu feras  
 Comme les autres font : et tu t'adouciras.  
 Ces gens avant l'hymen si fâcheux et critiques  
 Dégénèrent souvent en maris pacifiques.  
 
-    MARINETTE
+    MARINETTE.
 Va, va, petit mari : ne crains rien de ma foi :  
 Les douceurs ne feront que blanchir contre moi :  
 Et je te dirai tout.  
 
-    MASCARILLE
-Oh ! Las ! fine pratique !  
+    MASCARILLE.
+        Oh ! Las ! fine pratique !  
 Un mari confident !…  
 
-    MARINETTE
-Taisez-vous, as de pique.  
+    MARINETTE.
+        Taisez-vous, as de pique.  
 
-    ALBERT
+    ALBERT.
 Pour la troisième fois, allons-nous-en chez nous  
 Poursuivre en liberté des entretiens si doux.  
 

@@ -20,10 +20,10 @@ AVEC PRIVILÈGE DE SA MAJESTÉ.
 
 
 
-# LIVRET DU « BOURGEOIS GENTILHOMME » Comédie-Ballet
+# LIVRET DU « BOURGEOIS GENTILHOMME » Comédie-Ballet.
 
 
-## L'OUVERTURE
+## L'OUVERTURE.
 Se fait par un grand assemblage d'Instruments.
 
 
@@ -36,7 +36,7 @@ Un Élève du Maître de Musique compose sur une table un Air que le Bourgeois a
 Une Musicienne est priée de chanter l'air qu'a composé l'Élève.
 
 
-    LA MUSICIENNE, *Mlle Hilaire.*
+    LA MUSICIENNE, *Mlle Hilaire.*.
 Je languis nuit et jour, et mon mal est extrême  
 Depuis qu'à vos rigueurs vos beaux yeux m'ont soumis ;  
 Si vous traitez ainsi, belle Iris, qui vous aime,  
@@ -46,14 +46,14 @@ Après avoir fait chanter cet air au Bourgeois, on lui fait entendre dans un Dia
  – Le Musicien,M. Langez
  – Les deux Violons.Les Sieurs Laquaisse et Marchand.< DIALOGUE EN MUSIQUE. >
 
-    MADEMOISELLE HILAIRE
+    MADEMOISELLE HILAIRE.
 Un cœur dans l'amoureux empire  
 De mille soins est toujours agité,  
 On dit qu'avec plaisir on languit, on soupire ;  
 Mais quoi qu'on puisse dire  
 Il n'est rien de si doux que notre liberté.  
 
-    MONSIEUR LANGEZ
+    MONSIEUR LANGEZ.
 Il n'est rien de si doux que les tendres ardeurs  
 Qui font vivre deux cœurs  
 Dans une même envie,  
@@ -61,7 +61,7 @@ On ne peut être heureux sans amoureux désirs,
 Ôtez l'amour de la vie,  
 Vous en ôtez les plaisirs.  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Il serait doux d'entrer sous l'amoureuse loi  
 Si l'on trouvait en amour de la foi ;  
 Mais, ô rigueur cruelle !  
@@ -75,45 +75,45 @@ Aimable ardeur !
     MADEMOISELLE HILAIRE.
 Franchise heureuse !  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Sexe trompeur !  
 
-    MONSIEUR LANGEZ
+    MONSIEUR LANGEZ.
 Que tu m'es précieuse !  
 
     MADEMOISELLE HILAIRE.
 Que tu plais à mon cœur !  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Que tu me fais d'horreur !  
 
-    MONSIEUR LANGEZ
+    MONSIEUR LANGEZ.
 Ah ! quitte pour aimer cette haine mortelle.  
 
-    MADEMOISELLE HILAIRE
+    MADEMOISELLE HILAIRE.
 On peut on peut te montrer  
 Une Bergère fidèle.  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Hélas ! où la rencontrer ?  
 
-    MADEMOISELLE HILAIRE
+    MADEMOISELLE HILAIRE.
 Pour défendre notre gloire  
 Je te veux donner mon cœur.  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Mais Bergère puis-je croire  
 Qu'il ne sera point trompeur.  
 
-    MADEMOISELLE HILAIRE
+    MADEMOISELLE HILAIRE.
 Voyons par expérience  
 Qui des deux aimera mieux.  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Qui manquera de constance,  
 Le puissent perdre les Dieux.  
 
-    MONSIEUR LANGEZ
+    MONSIEUR LANGEZ.
 À des ardeurs si belles  
 Laissons nous enflammer.  
 
@@ -137,7 +137,7 @@ Une femme de qualité vient dîner chez le Bourgeois, qui pour la mieux regarder
  – 
  – < PREMIÈRE CHANSON À BOIRE. >
 
-    MM. DE LA GRILLE ET MOREL 
+    MM. DE LA GRILLE ET MOREL.
 
 Un petit doigt, Philis, pour commencer le tour,  
 Ah ! qu'un verre en vos mains sont d'agréables armes ;  
@@ -153,7 +153,7 @@ Et de vous et de lui je n'enivre à long traits.
 Entre lui, vous et moi, jurons, jurons, jurons ma belle  
 Une ardeur éternelle.  < SECONDE CHANSON À BOIRE. >
 
-    MM. BLONDEL ET MOREL
+    MM. BLONDEL ET MOREL.
 
 Buvons, chers amis, buvons,  
 Le Temps qui fuit nous y convie ;  
@@ -173,12 +173,12 @@ N'ôte point les soucis fâcheux,
 Et ce n'est qu'à bien boire  
 Que l'on peut être heureux.  
 
-    TOUS TROIS ENSEMBLE
+    TOUS TROIS ENSEMBLE.
 Sus, sus du vin, partout versez, garçons versez,  
 Versez, versez toujours, tant qu'on vous dise, assez.  
 
 
-## DANS LE TROISIÈME ACTE
+## DANS LE TROISIÈME ACTE.
 Le Bourgeois qui veut donner sa fille au fils du Grand Turc, est annobli auparavant par une cérémonie Turque, qui se fait en danse, et en Musique.
 
 Les Acteurs de la cérémonie sont
@@ -190,7 +190,7 @@ Les Acteurs de la cérémonie sont
 Le MUFTI invoque Mahomet avec les douze Turcs, et les quatre Derviches après, on lui amène le Bourgeois auquel il chante ces paroles.
 
 
-    LE MUFTI
+    LE MUFTI.
 
 Seti sabir  
 Ti rispondir  
@@ -204,7 +204,7 @@ Tazir tazir.
 Le Mufti demande en même langue aux Turcs assistants de quelle Religion est le Bourgeois, et ils l'assurent qu'il est Mahometan. Le Mufti invoque Mahomet en langue Franche, et chante les paroles qui suivent.
 
 
-    LE MUFTI
+    LE MUFTI.
 Mahametta per Giourdina  
 Mi pregar sera é mattina  
 Voler far un paladina  
@@ -216,41 +216,41 @@ Mahametta, etc.
 Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la Religion Mahométane, et leur chante ces paroles.
 
 
-    LE MUFTI
+    LE MUFTI.
 Star bon Turca, Giourdina.  
 
-    LES TURCS
+    LES TURCS.
 Hi valla.  
 
-    LE MUFTI
+    LE MUFTI.
 Hu la ba ba la chou ba la ba ba la da.  
 
-    LES TURCS, *répondent les mêmes vers.*
+    LES TURCS, *répondent les mêmes vers.*.
 Le Mufti propose de donner le Turban au Bourgeois, et chante les paroles qui suivent.
 
 
-    LE MUFTI
+    LE MUFTI.
 Ti non star Furba.  
 
-    LES TURCS
+    LES TURCS.
 No no no.  
 
-    LE MUFTI
+    LE MUFTI.
 Non star furfanta.  
 
-    LES TURCS
+    LES TURCS.
 No no no.  
 
-    LE MUFTI
+    LE MUFTI.
 Donar Turbanta, donar Turbanta.  
 Les Turcs répètent tout ce qu'à dit le Mufti pour donner le Turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des Turbans de cérémonie, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants, après son invocation il donne au Bourgeois l'épée, et chante ces paroles.
 
 
-    LE MUFTI
+    LE MUFTI.
 Tistar nobilé é non star fabbola  
 Pigliar schiabbola.  
 
-    LES TURCS, *répètent les mêmes Vers.*
+    LES TURCS, *répètent les mêmes Vers.*.
 Le Mufti commande aux Turcs de bastonner le Bourgeois, et chantent les paroles qui suivent.
 
 
@@ -275,10 +275,10 @@ Le Bourgeois étant anobli donne sa fille en mariage au Fils du Grand Turc, et t
 
 
 
-## BALLET DES NATIONS
+## BALLET DES NATIONS.
 
 
-### PREMIÈRE ENTRÉE
+### PREMIÈRE ENTRÉE.
 Un homme vient donner les Livres du Ballet, qui d'abord est fatigué par une multitude de gens de Provinces différentes, qui crient en Musique pour en avoir, et par trois importuns qu'il trouve toujours sous ses pas.
 
  – Le donneur de LivreMonsieur Dolivet.
@@ -521,13 +521,13 @@ El que al dolor se da
 Y nadie deamor muere  
 Sino quien no saue amar.  
 
-    MESSIEURS MOREL, *et* GILLET. *Espagnols.*
+    MESSIEURS MOREL, *et* GILLET. *Espagnols.*.
 Dulce muerte es el amor  
 Con correspondencia ygual,  
 Y si esta gozamos oy,  
 Por que la quieres turbar ?  
 
-    MONSIEUR MOREL. *Seul.*
+    MONSIEUR MOREL. *Seul.*.
 Alegrese Enamorado  
 Y tome mi parecer  
 Que en esto dequerer  
@@ -578,7 +578,7 @@ Le Seigneur Dominique.
 Un Musicien Italien se joint à Mademoiselle Hilaire, et chante avec elle les paroles qui suivent.
 
 
-    LE MUSICIEN ITALIEN. MONSIEUR GAYE
+    LE MUSICIEN ITALIEN. MONSIEUR GAYE.
 Bel tempo che vola  
 Rapiscé il contento,  
 D'amor ne la scola  
@@ -596,7 +596,7 @@ Sù godiamo,
 Nebei di, di gioventù :  
 Perduto ben non si racquista più.  
 
-    MONSIEUR GAYE
+    MONSIEUR GAYE.
 Pupilla che vaga  
 Mill' alme incatena,  
 Fà dolce la piaga  

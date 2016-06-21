@@ -17,7 +17,7 @@ A PARIS, Chez TOUSSAINCT QUINET, au Palais dans la petite Salle, sous la montée
       maîtrise sous la direction de Georges Forestier (1999-2000)
 
 
-# Introduction
+# Introduction.
 
 Bien que nous ayons franchi le seuil d'un nouveau millénaire, pour entrer désormais dans une époque souvent dite de la « globalisation », comment pourrions-nous être certains que l'échange culturel entre régions, pays et continents est déjà arrivé à son comble, et que nous ne sommes pas uniquement au point de départ d'une nouvelle identité culturelle, commune à tous les pays et aux citoyens du monde entier ? On devrait même se demander si un tel développement serait souhaitable, voire s'il ne serait pas déplorable surtout en Europe, si l'on considère qu'il y a toujours existé un échange interculturel et cela sous une forme très active qui enrichissait chaque peuple en même temps qu'elle respectait et garantissait leur diversité. Pensons à la vogue du baroque, née en Italie, du classicisme, apparu en France, ou du romantisme, qui commença en Allemagne et en Grande-Bretagne – mouvements qui parvinrent à influencer la littérature, les arts plastiques et la musique du reste de l'Europe. Pourtant les créations qui en résultèrent étaient d'une grande variété : grâce à la personnalité que chaque pays ou région gardait, le résultat d'une même influence a donné lieu à des créations très diverses, car fondées sur une identité particulière à la société respective.
 
@@ -26,10 +26,10 @@ Un tel échange eut aussi lieu au XVII*e* siècle dans l'histoire du théâtre f
 *Les Fausses Véritez* est la deuxième comédie que d'Ouville adapta d'un modèle espagnol, et qu'il fit représenter en 1642. Nous nous proposons maintenant de présenter et d'étudier cette pièce de théâtre, qui n'atteint certes pas la perfection des comédies « à l'espagnole » de Pierre Corneille, exactement contemporaines, mais dans laquelle le lien avec le modèle espagnol demeure très présent et perceptible.
 
 
-# Antoine Le Métel sieur d'Ouville
+# Antoine Le Métel sieur d'Ouville.
 
 
-## Sa vie
+## Sa vie.
 
 La reconstitution de la vie d'Antoine Le Métel, sieur d'Ouville est difficile voire impossible à réaliser. Les sources dont nous disposons étant rares et quelquefois même contradictoires, nous ne pouvons en extraire que la trame de sa vie qui, dans son ensemble, restera enveloppée de mystères.
 
@@ -57,7 +57,7 @@ Que celle qu'il trouve en ma bourse. [6]
 Il mourut entre 1655 et 1657 au Mans, ce qui confirme une notice de Tallemant de Réaux : « Il est mort au Mans et enterré aux Jardins de cette ville. [7] »
 
 
-## Son œuvre
+## Son œuvre.
 
 Dans sa carrière littéraire, on peut considérer Antoine Le Métel d'Ouville comme dramaturge et conteur, mais surtout comme traducteur. Il débuta en 1637 avec sa tragi-comédie *Les Trahisons d'Arbiran*. Ensuite il se mit à adapter des pièces de théâtre de modèles espagnols à grand succès en Espagne, tels que Lope de Vega, Calderón de la Barca et Montalván, et il initia ainsi sur le théâtre français cette vogue de « comédie à l'espagnole », qui va atteindre son comble dans les années 1640.
 
@@ -78,10 +78,10 @@ A la fin de sa carrière littéraire, d'Ouville se dédia à la traduction de si
 Restent encore à mentionner les *Nouvelles héroïques et amoureuses* qui parurent après la mort de d'Ouville, en 1657, tout comme des traductions de Boisrobert qui, selon les historiens, devraient cependant être plutôt attribuées à son frère Antoine.
 
 
-# Une nouvelle mode : la comédie « à l'espagnole »
+# Une nouvelle mode : la comédie « à l'espagnole ».
 
 
-## Le développement de la comédie
+## Le développement de la comédie.
 
 Après une renaissance de la comédie au XVI*e* siècle pendant laquelle des ouvrages de l'antiquité furent redécouverts, puis traduits et imités, ce genre disparut ensuite, faute d'un public adéquat [14]. Aussi la situation de la comédie en France aux alentours de 1600 est-elle caractérisée par le faible nombre d'œuvres écrites et représentées. Ce n'est qu'à partir de 1630 que la comédie parvient à renaître en attirant un nouveau public. En effet, si le théâtre avait été considéré jusqu'alors comme un divertissement populaire, indigne d'être fréquenté par la haute société qui préférait s'amuser en conversations et en bals, il attirait maintenant l'attention de cette couche sociale. Cette attention de la haute société s'est développée surtout grâce à l'intérêt déclaré par le Cardinal de Richelieu pour le théâtre. Celui-ci y voyait surtout un instrument de propagande, apte à transmettre sa stratégie politique. L'influence de Richelieu fut telle, qu'il réussit même à enthousiasmer le roi Louis XIII pour le théâtre, ce qui donna évidemment un prestige particulier à cette nouvelle forme de culture [15].
 
@@ -90,7 +90,7 @@ Les premières pièces de Pierre Corneille ont joué certainement un rôle déci
 Antoine Le Métel d'Ouville fut le premier à en prendre l'initiative, lorsqu'il fit représenter en 1638 *L'Esprit follet*, adaptation d'une *comedia* de Pedro Calderón de la Barca, déclenchant ainsi la nouvelle mode de la « comédie à l'espagnole ». À partir de ce moment la comédie subit une grande évolution, qui aboutit à la composition de pièces de plus en plus régulières, d'intrigues mieux construites, qui ne manquaient pas d'ingéniosité et qui respectaient en même temps les bienséances, de dialogues amusants par leur invention verbale, et de personnages plus vifs et comiques. En conclusion l'influence espagnole aida la comédie à se développer pour devenir lentement un grand genre dans l'histoire du théâtre français.
 
 
-## La *comedia* en Espagne
+## La *comedia* en Espagne.
 
 Le théâtre espagnol du Siècle d'Or se distingue de celui des autres pays européens par une richesse incomparable de textes : entre 10 000 et 30 000 pièces ont été écrites et représentées au cours du XVI*e* et XVII*e* siècle – une production énorme [17] !
 
@@ -103,7 +103,7 @@ Au contraire de la situation en France, où commençait à naître un intérêt 
 Or, le théâtre en Espagne était fréquenté par tout le monde et tous les jours, dès lors l'usure des comédies était rapide et la demande de nouvelles pièces énorme [20]. Évidemment les auteurs étaient obligés de satisfaire les attentes du public et d'écrire constamment de nouvelles pièces. Et même si dans la plupart des *comedias* la structure est semblable, elles amusèrent toute l'Espagne pendant une longue période.
 
 
-## Les pièces adaptées
+## Les pièces adaptées.
 
 La comédie « à l'espagnole » devint en France un genre reconnu pour lequel le public développa pendant une dizaine d'années un grand enthousiasme. En effet, après d'Ouville, un petit groupe d'auteurs se spécialisa dans l'adaptation de pièces d'origine espagnole, réussissant – chacun à sa manière – à créer des pièces d'une originalité particulière. Ainsi, Pierre Corneille s'inspira des comédies d'Alarcón et de Lope de Vega pour écrire *Le Menteur* et *La Suite du Menteur*, Scarron composa la quasi totalité de ses pièces à partir de modèles espagnols, et Boisrobert et Thomas Corneille trouvèrent également dans les ouvrages des auteurs d'outre-monts des sujets dignes d'être empruntés.
 
@@ -116,15 +116,15 @@ Pourtant il ne s'agissait pas seulement de refaire une pièce espagnole en la so
 Certainement la comédie « à l'espagnole » fut une mode passagère qui, après avoir charmé tout un public pendant quelques années, disparut, laissant sa place à d'autres nouveautés et influences qui intervinrent dans l'histoire de la comédie française au XVII*e* siècle. Pourtant il est curieux de constater comment la *comedia*, soupçonnée d'extravagance et d'irrégularité, a contribué néanmoins à définir et à former ce genre littéraire, qui, loin encore du comble de la gloire qu'il atteindra sous Molière, était alors devenu plus régulier et raisonnable qu'il ne l'avait été jamais auparavant.
 
 
-# La comédie Les Fausses Veritez et sa source espagnole
+# La comédie Les Fausses Veritez et sa source espagnole.
 
 
-## La pièce de Calderón de la Barca
+## La pièce de Calderón de la Barca.
 
 En créant sa troisième pièce de théâtre après *Les Trahisons d'Arbiran*, tragi-comédie de 1637, et *L'Esprit follet*, comédie de 1642, Antoine Le Métel d'Ouville enrichit encore une fois ses idées en se basant pour sa nouvelle comédie sur une pièce de Pedro Calderón de la Barca. Il s'agit de *Casa con dos puertas mala es de guardar* [25], œuvre de théâtre datant de 1629. Mais avant de comparer la pièce française avec sa source espagnole, il sera indispensable de mettre la pièce de Calderón dans son contexte historique et dramatique.
 
 
-### Les caractéristiques et les particularités du théâtre de Calderón
+### Les caractéristiques et les particularités du théâtre de Calderón.
 
 Le développement que suivit la *comedia* en Espagne pour arriver à sa perfection – moment d'inspiration des dramaturges françaises – se fit en plusieurs étapes.
 
@@ -141,10 +141,10 @@ On verra bien que *Casa con dos puertas mala es de guardar* correspond exactemen
 Même si le sujet en soi attire plutôt l'attention sur la hardiesse, l'audace et l'astuce avec lesquelles la jeune fille mène le fil de l'intrigue – causant de nombreuses méprises – le problème de base posé reste la limitation de la liberté des jeunes filles de cette époque. En effet, l'honneur de leurs familles dépendait en partie de cette limitation.
 
 
-### L'intrigue dans Casa con dos puertas mala es de guardar
+### L'intrigue dans Casa con dos puertas mala es de guardar.
 
 
-#### Première journée
+#### Première journée.
 
 Marcela est une jeune demoiselle d'Ocaña, sœur cadette de don Félix qui loge, chez lui, son ami don Lisardo, jeune homme d'Aranjuez. Par des raisons d'honneur [28], don Félix se devait d'interdire à sa sœur tout contact avec cet ami. Mais attirée par sa curiosité, Marcela a su croiser son chemin et attirer son attention, de sorte que le jeune homme est tombé amoureux de cette femme voilée dont il ignore complètement l'identité et surtout sa parenté avec Félix.
 
@@ -155,7 +155,7 @@ Cependant un jour, au cours d'un rendez-vous, il demande à savoir qui elle est.
 Celia, prétextant être venue pour s'informer sur l'état d'esprit de Félix, le convainc de rendre visite à sa maîtresse, Laura, pour taire ses soupçons au sujet de sa jalousie – source de leur querelle. En fait, Félix suit le conseil de Celia et une fois chez sa maîtresse, il essaie d'éclaircir la situation. Mais avant de pouvoir convaincre Laura définitivement de son innocence et de son amour fidèle, Fabio, le père de Laura arrive, ce qui fait que Félix est obligé de sortir par une deuxième porte, fixant un prochain rendez-vous pour le soir.
 
 
-#### Deuxième journée
+#### Deuxième journée.
 
 Marcela rend visite à son amie Laura pour lui raconter ses sentiments à l'égard de Lisardo, mais aussi ses craintes par rapport aux possibles soupçons de son frère. Pour mettre Lisardo en garde, elle veut lui parler, ayant déjà organisé un rendez-vous avec lui dans la maison de Laura. Celle-ci voit de nombreux inconvénients, mais lorsque l'arrivée du jeune homme est annoncée, elle accepte à contrecœur la demande de son amie.
 
@@ -170,7 +170,7 @@ Parallèlement Marcela a appris par sa suivante l'intention de Lisardo et elle e
 Cependant, Lisardo réalise le malentendu de la situation avec l'arrivée de Laura. Celle-ci vient pour convaincre Félix de sa fidélité en voulant éclaircir la confusion qu'il y avait eu chez elle. Marcela, qui est encore cachée dans la chambre à côté, suit la conversation ; craignant que son amie ne révèle son secret, elle traverse la salle voilée, causant ainsi l'étonnement de Félix et la jalousie de Laura, qui l'accuse maintenant de la trahir.
 
 
-#### Troisième journée
+#### Troisième journée.
 
 Félix vient parler à sa sœur. Lui révélant son problème, il lui demande de passer quelques jours chez Laura lui servant ainsi d'espion. Ensuite, elle reçoit la visite de Laura, qui, elle aussi, lui raconte son malheur et demande de pouvoir rester quelques jours dans sa maison pour contrôler les visites que reçoit Félix. Etant donné la convergence des deux demandes, Marcela propose à son amie de changer de maison et de suivante, et elle envoie rapidement la sienne annoncer le prochain rendez-vous à Lisardo pour le soir.
 
@@ -181,17 +181,17 @@ Une fois arrivé à sa maison, Félix fait de grands reproches à celle qu'il cr
 Le père de Laura arrive, en colère contre le ravisseur de sa fille, mais Félix apaise sa fureur lui demandant sa fille en mariage – une demande à laquelle il donne son consentement.
 
 
-## Traduction ou inspiration : une analyse de l'adaptation
+## Traduction ou inspiration : une analyse de l'adaptation.
 
 
-### La reprise du sujet par d'Ouville
+### La reprise du sujet par d'Ouville.
 
 La lecture de la pièce espagnole montre que d'Ouville a suivi avec une grande précision l'intrigue représentée dans Casa con dos puertas mala es de guardar. N'ayant fait à aucun moment appel à son imagination, soit pour créer de nouvelles situations, soit pour ajouter des idées personnelles au sujet de l'action, d'Ouville n'a, de ce fait, pas modifié le corps intérieur de la pièce espagnole. Peut-être lui paraissait-elle « parfaite » ?
 
 Sa propre intervention se limite à la seule adaptation de la pièce au goût particulier du public français en substituant les noms espagnols des personnages par des noms français et en transposant le lieu de l'action des alentours de Madrid à Paris [29]. En outre, d'Ouville s'est certainement vu contraint de respecter les exigences dramatiques qui régnaient sur la scène française et qui l'obligeaient à supprimer quelques passages, afin d'alléger le fil de l'action.
 
 
-### La comparaison des intrigues : le fil général
+### La comparaison des intrigues : le fil général.
 
 Le premier acte des Fausses Véritez – de la même façon que la première journée dans Casa son dos puertas mala es de guardar – est consacré à la présentation des personnages principaux, de leurs sentiments, leurs intérêts et intentions, permettant de cette façon au spectateur de reconnaître la particularité marquée de certains caractères. Dans le deuxième acte l'action commence vraiment : le stratagème organisé par Florimonde, de recevoir son galant dans la maison de son amie Orasie, provoque toute une cascade d'incidents et de quiproquos, enchaînés les uns aux autres et causant à la fin la séparation de Léandre et Orasie. Le troisième acte nous fait assister à une reprise de la situation de l'acte précédent, mais cette fois-ci sous forme inverse : les rôles trompeur-trompé se confondent et c'est encore une fois à cause de l'intervention de Florimonde, qui ne cherche qu'à agir conformément à ses intérêts, que toutes ces situations de méprise et de jalousie sont créées. Le quatrième acte consomme le dernier stratagème : le changement de maison et de suivante entre Florimonde et Orasie, qui culminera dans la confusion complète de leurs identités dans le cinquième acte, évoquant chez leurs galants, Lidamant et Léandre, des moments d'étonnement et d'angoisse, de désespoir et de jalousie. Ce n'est que dans les toutes dernières scènes, lors du rassemblement de tous les personnages, que la vérité se révélera, permettant enfin l'aboutissement d'un double mariage.
 
@@ -218,7 +218,7 @@ En revanche, l'identité de Florimonde est plurielle dans la mesure où elle dif
 En revanche, le public est bien au courant des usurpations auxquelles Florimonde a recours. Dès le premier acte où il est témoin des premiers projets de cette héroïne, le spectateur devient complice de Florimonde : il a les mêmes connaissances qu'elle et il peut reconnaître évidemment ce que les autre personnages ignorent.
 
 
-### La comparaison des personnages
+### La comparaison des personnages.
 
 Florimonde correspond au stéréotype de la fille bien gardée et surveillée sous l'autorité de son frère, mais qui au fur et à mesure a appris à développer une étonnante hardiesse et audace pour surmonter les interdits et réaliser ses intentions. Curieuse de savoir qui est l'homme dont le contact lui était interdit, elle tombe aussitôt amoureuse de ce galant ami de son frère et manifeste rapidement une violente passion :
 
@@ -282,7 +282,7 @@ En comparant la pièce source et Les Fausses Véritez, on peut constater que d'O
 Enfin le rôle de Tomire véhicule, en tant que père, une image d'autorité un peu tyrannique. Cependant dans cette comédie il incarne plutôt un personnage respectueux dont on craint l'arrivée dans les moments culminants (I,7 et II,1, 4-5, 8). Evidemment il se montre furieux lorsqu'il voit son honneur outragé par le ravisseur de celle qu'il croit être sa fille Orasie. Pour cette raison il apparaît chez Léandre, l'épée à la main, pour se venger du séducteur de sa fille (V,8). Pourtant, d'Ouville a omis dans sa pièce une scène du modèle espagnol qui montrait aussi la tendresse et la préoccupation paternelles que Fabio exprimait pour sa fille, la voyant dans un préoccupant état de tristesse et de mélancolie [40]. Cet aspect manque complètement dans la pièce française.
 
 
-### Les suppressions par rapport à la pièce espagnole
+### Les suppressions par rapport à la pièce espagnole.
 
 Étant donné que d'Ouville a suivi linéairement l'intrigue de Casa con dos puertas mala es de guardar, il n'y a aucun changement particulier dans le sens ou le déroulement de l'action à constater.
 
@@ -332,15 +332,15 @@ Le sort commun à tous les copistes médiocres du drame espagnol est le fait de 
 D'une manière très franche on apprend donc, que les espagnols observaient avec déception ce que les auteurs français faisaient de leurs œuvres, considérant leurs adaptations comme des reculs du progrès qu'ils avaient essayé d'engendrer dans le domaine du théâtre.
 
 
-# La dramaturgie externe de la pièce
+# La dramaturgie externe de la pièce.
 
 
-## Les unités
+## Les unités.
 
 Le public français était habitué depuis plusieurs années à voir des pièces de théâtre « régulières », c'est-à-dire, respectant les unités, la liaison des scènes et la vraisemblance. Cependant, les comédies espagnoles ne répondaient plus, depuis Lope de Vega, à ces exigences. Les auteurs français étaient donc forcément obligés d'adapter l'intrigue aux exigences que la dramaturgie française leur imposait. Cette tâche n'était pas toujours facile à réaliser.
 
 
-### L'unité de temps
+### L'unité de temps.
 
 Dans la comedia espagnole la conception du temps était différente de celle qui existait en France au XVII*e* siècle. Lope de Vega, qui avait établi dans son Arte nuevo de hacer Comedias en este Tiempo les bases de l'art dramatique de son temps, explique au sujet de l'unité de temps :
 
@@ -359,12 +359,12 @@ De revoir Lidamant & de parler à luy. [49]
 Puis dans la scène suivante son frère lui raconte qu'il relatait son martyre à sa maîtresse « ce matin [50] ».
 
 
-### L'unité de lieu
+### L'unité de lieu.
 
 En ce qui concerne l'unité de lieu, elle était impossible à réaliser en adaptant *Casa con dos puertas mala es de guardar* au théâtre français, car déjà le sujet de l'intrigue obligeait à maintenir deux lieux différents – la maison de Florimonde et celle d'Orasie. Pourtant d'Ouville a fait un gros effort de concentration de l'espace. Il a diminué de cinq à trois les lieux contenus dans la pièce espagnole. Ainsi, il a supprimé au début de la comédie le rendez-vous entre Marcela et don Lisardo à l'extérieur de la ville [51] en la remplaçant par un récit rétrospectif de Florimonde à sa suivante dans sa chambre. En outre, il a transposé le dialogue entre Fabio, le père de Laura, et son valet dans la rue proche de sa maison [52], lieu que d'Ouville était obligé de maintenir, puisque la fin du quatrième acte et le début du cinquième acte s'y déroulent.
 
 
-### L'unité d'action
+### L'unité d'action.
 
 En adaptant les *comedias* espagnoles pour un public français, les dramaturges étaient aussi obligés de simplifier et de concentrer l'action dans leurs pièces pour que la cohérence de l'intrigue soit plus évidente et bien compréhensible pour le spectateur.
 
@@ -375,7 +375,7 @@ En outre, d'Ouville a supprimé les récits dans lesquels un personnage raconte 
 En dernier lieu, on peut remarquer que d'Ouville a ôté tous les récits qui n'avaient aucun rapport avec les cours de l'action, comme c'est le cas du passage dans lequel le valet Calabazas – en rôle de « gracioso » – est ravi d'avoir reçu de son maître un habit : il lui mime la scène qu'il aurait dû jouer s'il avait été obligé d'aller chez un tailleur pour se faire faire un habit. C'est une scène qui a certainement amusé le public espagnol, mais qui peut parfaitement être omise [58].
 
 
-## La liaison des scènes et l'équilibre des actes
+## La liaison des scènes et l'équilibre des actes.
 
 En ce qui concerne la liaison des scènes qui était de règle dans le théâtre français, d'Ouville n'a pas eu besoin de la rétablir particulièrement, car la pièce espagnole lui fournissait déjà un réseau d'intrigue suffisamment étroit. On serait tenté de dire que cette liaison des scènes est interrompue de temps en temps lorsqu'il y a un changement de lieu et de personnages dans un même acte. Mais étant donné que ces changements de lieu se limitaient normalement à deux endroits très proches l'un de l'autre – quelquefois il s'agit même de chambres contiguës dans une seule maison – et que les deux actions représentées se déroulent presque parallèlement, on ne peut pas considérer ces changements comme de véritables ruptures de liaison. En effet, telles séquences de scènes préparent normalement les retrouvailles de personnages qui auparavant n'étaient séparés que par un mur. Or, ce procédé permet de faire connaître au spectateur les sentiments et les idées respectives des acteurs et d'augmenter de cette manière la tension avant d'arriver à une péripétie dans l'action [59].
 
@@ -386,7 +386,7 @@ Pourtant on remarquera que l'équilibre des actes ne se traduit que dans l'harmo
 En outre on constatera que bien que d'Ouville se soit efforcé de distinguer visiblement les actes par un changement de personnages (celui-ci coïncidant quelquefois aussi avec un changement de lieu), conformément aux exigences dramatiques de l'époque, cette impression n'est pas donnée pendant le passage du premier au deuxième acte. En effet, il y a un changement de personnages et de lieu après les premières quatre scènes – ce qui provoque forcément un grand décalage – mais l'acte continue avec l'introduction du personnage d'Orasie, qui restera jusqu'à la fin du premier acte sur scène et qui ouvrira aussi le deuxième acte. D'une part il est évident que d'Ouville était obligé d'intégrer le personnage d'Orasie pour compléter l'exposition, étant donné que celle-ci devait être composée d'un seul acte dans lequel tous les acteurs principaux apparaissent, présentant leurs caractères, leurs sentiments et leurs intérêts au public [63]. D'autre part, ce procédé contredisait complètement les règles de dramaturgie, que d'Ouville s'efforce pourtant de respecter. Ainsi, la réapparition d'Orasie au début du deuxième acte ne peut donc être justifiée que par une action que ce personnage aurait réalisé pendant l'entr'acte. Celle-ci pourrait être dans ce cas le fait d'avoir reçu son père, dont l'arrivée s'annonçait à la fin du premier acte, même s'il n'y a aucune indication dans le texte qui puisse soutenir cette hypothèse.
 
 
-## La reconstitution du décor
+## La reconstitution du décor.
 
 *Le Mémoire de Mahelot et Laurent* est considéré normalement comme une bonne source pour obtenir des informations sur les pièces de théâtre du répertoire de l'Hôtel de Bourgogne et leur mise en scène. Cependant, on sait que le manuscrit de Mahelot ne dépasse pas l'année 1634 et que l'auteur inconnu qui a repris ce travail, avant Laurent, ne donne qu'une énumération des titres sans fournir des précisions concernant la mise en scène des pièces jouées à cette époque, c'est-à-dire, entre 1634 et 1647.
 
@@ -403,10 +403,10 @@ On remarquera par la distribution si précise des lieux de l'action qu'elle éta
 Ainsi, à l'exception des scènes un peu plus longues – qui sont généralement les scènes de discussion entre deux personnages – la pièce a dû être jouée dans les petits compartiments.
 
 
-# Traitement thématique
+# Traitement thématique.
 
 
-## La hardiesse des jeunes filles
+## La hardiesse des jeunes filles.
 
 Orasie et Florimonde ressortissent à ce type de jeunes filles qui étaient jalousement surveillées par leur père ou leur frère. Ceux-ci se voyaient chargés de garder une jeune fille de tout danger afin de maintenir leur vertu et leur renommée impeccables avant d'être données en mariage. Par conséquent, ils contrôlaient attentivement l'ambiance qui les entourait, prévenant de cette façon toute tentation qui pourrait se présenter.
 
@@ -432,7 +432,7 @@ Orasie, quant à elle, jouit d'une plus grande confiance de la part de son père
 En conclusion, la rigide surveillance à laquelle ces deux jeunes filles sont soumises, ne fait qu'éveiller en elles un sens de l'autonomie qui les rend audacieuses et entreprenantes.
 
 
-## La jalousie
+## La jalousie.
 
 Les nombreux malentendus qui se développent dans la suite de la pièce sont l'une des conséquences qu'entraîne le stratagème initial de Florimonde. Et c'est de ces malentendus que naît la jalousie, donnant lieu à la méprise, l'amertume et la violence. Cependant la jalousie ne concerne que Léandre et Orasie ; elle sera le moteur d'action pour ces deux personnages, dont la motivation ne consiste que dans le désir de détromper le partenaire de sa fausse impression.
 
@@ -446,7 +446,7 @@ On ne s'étonnera pas de constater que les moments de jalousie proviennent des i
 Effectivement la combinaison des deux fils de l'action qui décrivent les deux relations oblige d'Ouville à changer à plusieurs reprises de lieu pour assurer l'enchaînement rapide et plaisant qui donne son mouvement à cette comédie. C'est pour cette raison que Léandre et Orasie doivent exprimer leurs sentiments dans un moment précis et limité. Mais le fait que la jalousie puisse paraître « étouffée » résulte plutôt de la limite de temps à laquelle cette pièce était soumise en suivant la règle de l'unité de temps [72]. En revanche la jalousie est un élément qui accompagne l'action jusqu'à la fin, et même si elle n'a pas l'occasion de se dégager dans sa plénitude, comme c'était le cas dans la comédie de Calderón, elle s'enflamme avec une grande facilité à de nombreux reprises. C'est bien la puissance de ce sentiment qui fournit une grande part du comique de cette pièce.
 
 
-## L'honneur et l'amitié
+## L'honneur et l'amitié.
 
 Le phénomène de l'honneur et de l'amitié représentant les valeurs suprêmes de la société du XVII*e* siècle, se manifeste aussi dans cette comédie. Le respect et l'importance attachés à ces valeurs se reflète à plusieurs reprises dans le texte.
 
@@ -491,10 +491,10 @@ La perdre ? justes Dieux le pourrai-je souffrir... [77]
 Ce n'est que Fabrice et la suite des événements qui détournent Léandre de ce moment de faiblesse, empêchant ainsi qu'il commette une faute. En effet, de cette façon d'Ouville a repris un point de satire que Calderón de la Barca avait déjà abordé dans sa comédie, montrant que l'homme n'est pas toujours infaillible face aux règles que la société lui impose, et qu'il est quelquefois victime de ses propres sentiments.
 
 
-# Comique et style de la pièce
+# Comique et style de la pièce.
 
 
-## Le comique
+## Le comique.
 
 La source du comique dans cette pièce se trouve surtout dans l'influence de l'élément romanesque sur l'intrigue. Une intrigue compliquée et singulière, une action remplie d'aventures imprévues, des fausses portes, des changements de logements afin de déconcerter les prétendants – on reconnaît là les ressorts ordinaires de l'école romanesque qui régnait en souveraine dans la comédie espagnole, et qui était capable de créer les situations les plus amusantes et extraordinaires.
 
@@ -513,7 +513,7 @@ Le principal caractère comique de cette pièce provient donc du sujet même : 
 Pour autant il ne faut pas oublier le personnage de Fabrice, qui réincarne le typique « gracioso » de la comédie espagnole. Celui-ci, après avoir justifié à son maître l'importance que sa présence peut avoir dans une situation de danger (IV, 4), doit être détrompé d'une manière burlesque. En effet, sa réaction peureuse face au danger et le désespoir auquel il succombe montrent son incapacité dans le combat, dévoilant qu'il n'est pas le chevalier qu'il prétendait être [80]. Cependant, le comique de ce personnage se trouve aussi dans sa simplicité, provoquant un peu de compassion de la part du spectateur.
 
 
-## Le style
+## Le style.
 
 La rapidité du rythme de l'action est une des caractéristiques des Fausses Véritez [81]. La précipitation des événements oblige les personnages à agir conformément à leur intuition et sans réflexion aucune [82]. Ce phénomène favorise certainement les invraisemblances latentes de la pièce, qui échappent ainsi à l'attention des spectateurs : peu importe que Florimonde ne soit pas reconnue ni par son amie ni par son propre frère lorsqu'elle traverse la salle (III, 6).
 
@@ -566,12 +566,12 @@ Que mon bien soit douteux, & mon mal asseuré ? [85]
 La symétrie dans le double emploi de ce passage accompagné de l'inversion des rôles ne fait que traduire sous forme stylistique le ridicule de l'accusation qu'Orasie et Léandre se font réciproquement.
 
 
-# Les influences de la comédie de d'Ouville sur des oeuvres postérieures
+# Les influences de la comédie de d'Ouville sur des oeuvres postérieures.
 
 Il est curieux de constater que le sujet de *Casa con dos puertas mala es de guardar*, que d'Ouville avait mis sur la scène française, ne fut pas oublié. En effet, on compte plusieurs influences sur des œuvres postérieures à celle de d'Ouville : d'une part, son frère reprit le même sujet quelques années plus tard dans sa comédie *L'Inconnue*, et d'autre part Thomas Corneille créa une pièce de théâtre, *Les Engagemens du hazard*, suivant partiellement le même thème. En outre, des influences sur *L'Ecole des femmes* de Molière ont été observées – même si elles restent contestées.
 
 
-## *L'Inconnue* de Boisrobert
+## *L'Inconnue* de Boisrobert.
 
 *Les Fausses Véritez* furent représentées pendant la saison 1641/1642 [86]. À peine 5 ans plus tard, en 1646, apparut sur la scène française la version très semblable de l'abbé de Boisrobert [87]. Celle-ci fut d'ailleurs tirée de la même source espagnole. Considérant l'intrigue dans la comédie de son frère comme profitable, Boisrobert décida d'en faire sa propre version. En effet, il justifie son choix dans la dédicace de sa pièce, qu'il destina au Cardinal Mazarin, en disant :
 
@@ -594,7 +594,7 @@ Sur le succès de *L'Inconnue* on ne sait rien de précis [95]. Les frères Parf
 Cette Comédie est comique par le fond, mais froide par la façon dont l'Auteur l'a rendue. Au reste, il y a un rôle de valet qui ne seroit pas sans mérite, si l'Auteur lui avoit donné plus d'étendue. [96]
 
 
-## *Les Engagemens du hazard* de Thomas Corneille
+## *Les Engagemens du hazard* de Thomas Corneille.
 
 Presque en même temps que Boisrobert, en 1647, Thomas Corneille écrit sa comédie *Les Engagemens du hazard* [97], qu'il prétend avoir composée sans avoir connaissance de *L'Inconnue*.
 
@@ -615,7 +615,7 @@ très-passable, & peut-être la meilleure de son temps. On y trouve de la condui
 Effectivement, Corneille développa un personnage de valet amusant, avec beaucoup de verve et de franc-parler, et cela sans négliger pour autant une caractérisation convenable des autres personnages principaux.
 
 
-## Les parallèles avec *L'École des femmes* de Molière
+## Les parallèles avec *L'École des femmes* de Molière.
 
 Le rôle que *Les Fausses Véritez* auraient pu jouer en tant que source d'inspiration pour la création de *L'École des femmes* de Molière est très contesté.
 
@@ -645,7 +645,7 @@ Par conséquent, Claude Bourqui conclut concernant le point de vue de Roger Guic
 En effet, une lecture attentive respectant le contexte des passages respectifs proposés, montre que les similitudes entre *Les Fausses Véritez* et *L'École des femmes* ne sont que des situations voisines, trop faibles pour maintenir l'hypothèse établie par Roger Guichemerre.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Il n'existe qu'une seule édition des *Fausses Véritez*, exécutée en 1643 par Toussainct Quinet. En voici la description :
 
@@ -668,7 +668,7 @@ Bibliothèque nationale de France : Yf 645, Rés. Yf 316, 545, 1343.
 Bibliothèque de l'Arsenal – département des Arts du spectacle : Rf 6610, Bl 3485 format in-4°, et Gd 459, 41706 format in-8°.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 En règle générale nous avons conservé l'orthographe de l'édition originale, à quelques réserves près :
 
@@ -706,17 +706,17 @@ De même des corrections apparemment effectuées par l'imprimeur sont fautives e
 Les passages « identiques » à ceux de la source de cette pièce, la comédie de Calderón de la Barca *Casa con dos puertas mala es de guardar*, sont très abondants. Dans l'annotation qui accompagne le texte nous nous sommes bornés à faire les rapprochements qui s'imposaient.
 
 
-## Le problème de la dédicace
+## Le problème de la dédicace.
 
 Bien que d'Ouville ait annoncé dans l'épître de sa pièce précédente, *L'Esprit follet*, son intention de dédier sa comédie des *Fausses Véritez* à une dame, dont l'identité n'est pourtant pas précisée, cette épître n'est pas apparue. Néanmoins Lancaster propose – conformément aux informations d'Yvonne Green – Madame de Saincte Marie, Suzanne d'Espinay comme dédicataire [104].
 
 
-## Rectifications
+## Rectifications.
 
 Nous donnons ci-dessous la liste des erreurs et coquilles qui ont été corrigées dans le texte que nous proposons :
 
 
-### Privilège du roy
+### Privilège du roy.
 
 *ligne 4*:ntitulée
 
@@ -725,7 +725,7 @@ Nous donnons ci-dessous la liste des erreurs et coquilles qui ont été corrigé
 *ligne10*:qu il
 
 
-### Pièce
+### Pièce.
 
 Nous avons corrigé « ou » en « où » dans les vers : 14, 96, 169, 276, 330, 444, 477, 496, 532, 601 (didascalie), 684, 699, 751, 752, 755, 784, 820, 852, 872, 963, 986, 1035, 1079, 1246, 1315, 1358, 1359, 1360, 1364, 1462, 1464, 1466, 1503, 1569, 1570, 1723.
 
@@ -744,7 +744,7 @@ Nous avons corrigé « a » en « à » dans les vers : 27, 260, 354, 434, 
 **Acte V** : Vers 1422 circonstance / 1424 seul / 1429 sui / 1448 marchõs / 1449 la / 1454 Toubeau / 1456 lé / 1471 dãs / 1473 la / 1475 outré / 1489 Toubeau / 1492 (*didascalie*) *bas a leandre* / 1497 (*didascalie*) *en entrañt* / 1518 dõnez / 1520 cõme / 1525 meschãt, affrõte / 1536 viẽt / 1561 serace, Garnds / 1577 r'en / 1582 Est-tu / 1594 lé / 1602 Qu'elle / 1613 ouir / 1637 (*didascalie*) *à* / 1649 trõpe / 1656 mõ / 1661 pẽsiez / 1667 pers / 1685 m'enti / 1688 des / 1689 emmenee / 1699 venir / 1703 faut / 1711 qu'elle / 1712 intherest / 1737 rõprons / 1747 touts / 1756 intherest / 1757 Vueilley-je / 1758 dedãs / 1762 commẽt, Leãdre / 1770 Qu'elle / 1784 dont / 1787 touts, d'eux / 1788 cõble
 
 
-## Rectifications dans la ponctuation
+## Rectifications dans la ponctuation.
 
  .  ,  – vers 165, 295, 363, 369, 1104, 1383, 1565, 1566, 1607, 1725
 
@@ -809,7 +809,7 @@ La SCENE est à Paris.
 ## ACTE I.
 
 
-### Scene première
+### Scene première.
 FLORIMONDE, NERINE, dans leur Chambre qui viennent de dehors.
 
 
@@ -1037,10 +1037,10 @@ Et vous doy taire aussy tout ce qu'elle me dit,
 Car un homme est trop vain, & merite du blame,  
 De vanter [124] les faveurs⁎ qu'il reçoit d'une Dame [125].  
 
-    NERINE *bas à Florimonde.* 
+    NERINE *bas à Florimonde.*. 
 Madame, c'est de nous qu'il parle asseurement.  
 
-    FLORIMONDE *bas.*
+    FLORIMONDE *bas.*.
 Justes Dieux qui pourroit advertir Lidamant.  
 Ah ! qu'il m'obligeroit à present de se taire,  
 Il pourroit bien donner du soubson à mon frere.  
@@ -1081,11 +1081,11 @@ Je mettois en hazard [127] sa vie & mon honneur [128].
 Julie, Leandre, Florimonde, Lidamant,
 
 
-    JULIE *à Leandre.*
+    JULIE *à Leandre.*.
 Une fille en secret pourra-t'elle Monsieur  
 Vous dire icy deux mots ?  
 
-    LEANDRE *bas à Lidamant.*
+    LEANDRE *bas à Lidamant.*.
         Que j'ay l'ame contente,  
 Escoute cher Amy, c'est icy la suivante,  
 De ce charmant object dont je vous discourois.  
@@ -1093,7 +1093,7 @@ Nous pourrons escouter le reste une autre fois,
 Vous me permetrez bien de parler avec elle,  
 Sans doute elle m'apporte une heureuse nouvelle.  
 
-    FLORIMONDE *bas.* 
+    FLORIMONDE *bas.*. 
 Femme qui que tu sois, que tu viens à propos,  
 Mais un Ange plustost [129] venu pour mon repos. [130]  
 
@@ -1192,7 +1192,7 @@ Pour tromper un amant espris d'une maistresse [139].
 FLORIMONDE, NERINE dans leur Chambre.
 
 
-    FLORIMONDE,
+    FLORIMONDE,.
 Dieux que j'apprehendois qu'en contant ses Amours  
 Lidamant ne poussast trop avant un discours,  
 Qui sans doute eust donné du soubson à mon frere.  
@@ -1245,11 +1245,11 @@ Ouy j'ay jouë mon rolle assez adroittement.
 Leandre m'a suivie, il attend à la porte  
 Madame, entrera-t'il.  
 
-    ORAZIE. [143]
+    ORAZIE. [143].
         Mais que ce soit en sorte  
 Qu'il ne soubsonne pas.  
 
-    JULIE
+    JULIE.
         Je vous entends fort bien.  
 Ay-je si peu d'esprit ? n'ayez crainte de rien,  
 Je sçay fort bien conduire une Amoureuse ruze.  
@@ -1263,7 +1263,7 @@ Et j'auray le plaisir du moins qu'il me la face [144].
 Pourveu que je le voye & soumis, & rendu,  
 Je croiray tout gagner quoy que j'aie tout perdu [145].  
 
-    JULIE *à la porte avec Leandre.* 
+    JULIE *à la porte avec Leandre.*. 
 Elle est seulle au logis l'occasion est belle.  
 
     LEANDRE.
@@ -1331,7 +1331,7 @@ Je ne puis vous aimer ny vous voir davantage.
 Pour me justifier je ne veux qu'un moment.  
 Madame escoutez moy.  
 
-    ORAZIE,
+    ORAZIE,.
         Vois tu des-ja comment  
 Avant que de parler & former son excuse  
 Son sang monté du cœur au visage l'accuse.  
@@ -1433,7 +1433,7 @@ Que mon cœur soit en butte à toutes vos rigueurs [158]
 Si je me suis jamais vanté de vos faveurs⁎  
 Si jamais.  
 
-    ORAZIE
+    ORAZIE.
         Taisez vous, je sçay bien le contraire,  
 On entre j'oy du bruit.  
 
@@ -1545,7 +1545,7 @@ Où je luy parleray si vous le trouvez bon,
 Nous pouvons aysement & sans aucun soubson  
 Nous voir en asseurance, & discourir ensemble.  
 
-    ORASIE,
+    ORASIE,.
 Avant qu'en venir là [167], vous devez ce me semble,  
 Peser plus meurement & considerer mieux  
 Qu'il en peut arriver du scandale en ces lieux.  
@@ -1578,7 +1578,7 @@ Si mon pere survient.
 Il faudroit en effect estre bien mal-heureuse,  
 Si l'on nous surprenoit dès le premier larcin [168],  
 
-    ORASIE
+    ORASIE.
 Je ne vous celle⁎ point que j'en crains bien la fin.  
 
     FLORIMONDE.
@@ -1599,7 +1599,7 @@ Je voudrois vous servir mais je ne sçai comment.
 Nerine, Florimonde, Orasie, Julie.
 
 
-    NERINE,
+    NERINE,.
 J'emmeyne Lidamant, il attend à la porte.  
 
     FLORIMONDE.
@@ -1710,10 +1710,10 @@ Car si vous n'estes pas.
 Julie, Florimonde, Lidamant,
 
 
-    JULIE* bas à Florimonde.*
+    JULIE* bas à Florimonde.*.
         Monsieur vient, le voicy.  
 
-    FLORIMONDE *bas à Julie.*
+    FLORIMONDE *bas à Julie.*.
 Justes Dieux Lidamant peut il sortir d'icy ?  
 
     JULIE.
@@ -1730,10 +1730,10 @@ Que feray-je Madame ?
     FLORIMONDE.
         Ah Lidamant Adieu.  
 
-    JULIE *le metant dans une Chambre.* 
+    JULIE *le metant dans une Chambre.*. 
 Entrez, & vous cachez promptement en ce lieu.  
 
-    LIDAMANT* se cachant.*
+    LIDAMANT* se cachant.*.
 Ah Dieux ? je suis perdu.  
 
     FLORIMONDE.
@@ -1773,7 +1773,7 @@ Si l'on n'eust pas ouvert la porte de deriere.
 Je ne vous voyois point, une telle lumiere,  
 Madame excusez moy, m'ebloüissoit les yeux [175].  
 
-    JULIE *bas.*
+    JULIE *bas.*.
 Quelle confusion.  
 
     ORASIE.
@@ -1783,14 +1783,14 @@ Quelle confusion.
 Vous m'obligez Monsieur plus que je ne merite.  
 Adieu belle Orasie, il faut que je vous quitte.  
 
-    ORASIE* bas à Florimonde.* 
+    ORASIE* bas à Florimonde.*. 
 Quoy je patiray [176] donc pour la faute d'autruy ?  
 Laissant ce Cavalier, que ferai-je de luy ?  
 
     FLORIMONDE.
 Vous avez bon esprit, je n'ay rien à vous dire.  
 
-    TOMIRE *à Florimonde.*
+    TOMIRE *à Florimonde.*.
 Vous me permettrez bien de vous aller conduire⁎.  
 
     FLORIMONDE.
@@ -1799,7 +1799,7 @@ Je vous baise les mains.
     TOMIRE.
         Vous resistez en vain.  
 
-    ORASIE *bas à Florimonde.*
+    ORASIE *bas à Florimonde.*.
 Justes Dieux c'est avoir le jugement mal sain  
 Souffrez son compliment, s'il s'en va de la sorte,  
 Cét homme en liberté pourra gaigner la porte.  
@@ -1831,7 +1831,7 @@ Sans qu'il soit veu d'aucun, ny qu'il vous voye aussi.
 Despéche toy Julie, oste moy ce soucy,  
 Ouvre luy je m'en vay, Dieux de crainte je tremble [177].  
 
-    JULIE *ouvre & dit bas.*
+    JULIE *ouvre & dit bas.*.
 C'est Leandre, Madame, ah Dieux tout est perdu,  
 Il entre.   
 
@@ -1881,7 +1881,7 @@ Je m'en vay de ce pas.
         Allez je vous supplie,  
 J'entends fraper quelqu'un.  
 
-    TOMIRE *derriere le Theatre.*
+    TOMIRE *derriere le Theatre.*.
         Ouvrez moy tost Julie.  
 
     ORASIE.
@@ -1894,11 +1894,11 @@ Que je me cache icy.
 Comme⁎ il veut entrer dans la Chambre où est Lidamant Orasie le retient.
 
 
-    ORASIE
+    ORASIE.
         Grands Dieux je desespere,  
 N'entrez pas là dedans.  
 
-    LEANDRE
+    LEANDRE.
     Pourquoy ?  
 
     ORASIE.
@@ -1911,7 +1911,7 @@ Sans doute il vous verroit.
 J'ay veu je le proteste un homme ce me semble  
 Enfermé là dedans.  
 
-    ORASIE *bas*,
+    ORASIE *bas*,.
         Dieux de crainte je tremble,  
 Leandre resvez vous.  
 
@@ -1919,18 +1919,18 @@ Leandre resvez vous.
         Non je ne resve point,  
 Et je veux en effect m'esclarcir sur ce point.  
 
-    ORASIE *l'empeschant d'entrer.*
+    ORASIE *l'empeschant d'entrer.*.
 N'entrez pas.  
 
-    LEANDRE, 
+    LEANDRE,. 
         Desloyalle est ce ainsi qu'on me traitte ?  
 
-    ORAZIE *bas.*
+    ORAZIE *bas.*.
 Dieux qui peut reparer la faute que j'ay faite ?  
 Leandre au nom des Dieux, ayez pitié de moy,  
 Quoy ! me voulez vous perdre !  
 
-    LEANDRE
+    LEANDRE.
         Ame ingratte, & sans foy  
 Vous me trahissez donc, vous m'estes infidelle.  
 
@@ -1938,7 +1938,7 @@ Vous me trahissez donc, vous m'estes infidelle.
 Me ferez vous rougir d'une honte eternelle ?  
 Mon pere monte.  
 
-    LEANDRE *en luy mesme.*
+    LEANDRE *en luy mesme.*.
         O Dieux que dois je faire icy ?  
 Car si dessus ce point je veux estre esclarcy,  
 Je fay voir clairement l'infamie à son pere,  
@@ -1964,7 +1964,7 @@ Quoy ! Leandre ?
         Ma sœur estant icy venue,  
 Je l'y venois chercher.  
 
-    ORASIE *bas*,
+    ORASIE *bas*,.
         Tout va bien jusqu'icy.  
 
     TOMIRE.
@@ -1982,7 +1982,7 @@ Ils s'entresaluent, & Leandre sort.
         Ma fille allons là-haut.  
 Je veux parler à vous.  
 
-    ORASIE *bas.* 
+    ORASIE *bas.*. 
         Ah Dieux le cœur me faut [184].  
 Mais que veut-il de moy ? Que ce discours m'estonne  
 Endurons constamment [185] puis que le Ciel l'ordonne.  
@@ -1990,7 +1990,7 @@ Endurons constamment [185] puis que le Ciel l'ordonne.
 
 ### Scene X.
 
-    LEANDRE *seul en la rue.*
+    LEANDRE *seul en la rue.*.
 Que dois-je faire icy : Comment Leandre as tu  
 En cette occasion le courage abatu [186] ?  
 Mais en faisant du bruit j'offencerois ma Dame,  
@@ -2011,7 +2011,7 @@ Se plaist de seconder les cœurs audacieux.
 JULIE, LIDAMANT.
 
 
-    JULIE *seule.*
+    JULIE *seule.*.
 Puis qu'ilz sont tous sortis, je puis en asseurance  
 Tirer ce Cavalier. Usons de diligence,  
 Ouvrons. Sortez Monsieur : A vostre occasion  
@@ -2031,20 +2031,20 @@ Sortons d'icy.
     LIDAMANT.
     Le puis-je.  
 
-    JULIE
+    JULIE.
     Ouy.  
 
     LIDAMANT.
         Je vous en conjure.  
 
-    JULIE *bas.* 
+    JULIE *bas.*. 
 Qu'il sorte seulement, quand il sera dehors  
 Qu'il arrive en la rue apres dix mille morts [188].  
 
 
 ### Scene XII.
 
-    LEANDRE *seul en la rue.*
+    LEANDRE *seul en la rue.*.
 Mais elles tardent bien à le faire descendre :  
 Elles n'oseroient pas que je croy l'entreprendre  
 Car on se doute bien que je l'attens icy,  
@@ -2061,7 +2061,7 @@ Entrons voyons la fin d'une telle aventure.
 
 ### Scene XIII.
 
-    ORASIE *seule.*
+    ORASIE *seule.*.
 Mon pere seulement m'a dit qu'il s'en alloit  
 Pour quatre jours aux champs. Ah si le Ciel vouloit  
 Que je puisse eviter la foudre toute preste,  
@@ -2087,32 +2087,32 @@ Leandre sort de la Chambre.
 Quoy ? ne m'estonner pas de cette effonterie ?  
 Quoy ? ne m'estonner pas de vous voir ?  
 
-    ORASIE *surprise bas.*
+    ORASIE *surprise bas.*.
         Justes Dieux.  
 
     LEANDRE.
 Me faire cette injure ?  
 
-    ORASIE *bas.*
+    ORASIE *bas.*.
     Helas.  
 
     LEANDRE.
         Mesme à mes yeux !  
 Quoy ne m'estonner pas de vous voir si coupable ?  
 
-    ORASIE *bas.* 
+    ORASIE *bas.*. 
 Que dois-je devenir.  
 
     LEANDRE.
     Si lache.  
 
-    ORASIE *bas*,
+    ORASIE *bas*,.
         Ah miserable.  
 
     LEANDRE.
 Et si perfide ?  
 
-    ORASIE *bas.*
+    ORASIE *bas.*.
         Helas, quel malheur me poursuit [191] ?  
 
     LEANDRE.
@@ -2132,7 +2132,7 @@ Lasche & meschant esprit, que voulez vous de moy ?
     ORASIE.
 Je veux que vous n'ayez nul doute de ma foy.  
 
-    LEANDRE *se promenant.* 
+    LEANDRE *se promenant.*. 
 Non vous ne m'avez fait jamais aucune injure.  
 J'ay veu chez vous un homme ? oh l'estrange imposture,  
 J'ay grand tort d'accuser vostre fidelité,  
@@ -2184,7 +2184,7 @@ Je l'ay mis en lieu seur.
 Pourois-je avoir encor quelque scrupule en l'ame ?  
 C'estoit un domestique, ouy c'est la verité.  
 
-    JULIE* bas.*
+    JULIE* bas.*.
 Qu'ais je dit malheureuse, helas j'ay tout gasté.  
 
     ORASIE.
@@ -2193,7 +2193,7 @@ Justes Dieux vous sçavez la faute que j'ay faite,
 Que des Dieux irritez j'esprouve le courroux⁎,  
 Si j'ay peché Leandre aujourd'huy contre vous.  
 
-    LEANDRE,
+    LEANDRE,.
 Ouy vous avez raison, c'est moy qui suis coupable.  
 
     ORASIE.
@@ -2215,7 +2215,7 @@ Mais adieu pour jamais infidelle Orasie,
 Suivez les mouvemens de vostre frenesie,  
 Vous ne me causerez jamais aucun soucy.  
 
-    ORASIE *le retenant.*
+    ORASIE *le retenant.*.
 Non, non, je ne veux pas que vous partiez ainsi.  
 
     LEANDRE. 
@@ -2225,11 +2225,11 @@ Je vous perdray Madame, & que j'obligeray
 Vostre pere à descendre à qui je conteray  
 Ce que je viens de voir, ce que je viens d'apprendre.  
 
-    ORASIE
+    ORASIE.
 Escoutez moy mon cœur, arrestez cher Leandre,  
 Mon Amour je le jure à tort vous est suspect.  
 
-    LEANDRE
+    LEANDRE.
 Ayant perdu l'amour, j'ay perdu le respect,  
 Non je n'escoute plus.  
 Il s'en va.
@@ -2238,7 +2238,7 @@ Il s'en va.
     ORASIE.
         Arreste-le Julie.  
 
-    JULIE *bas.*
+    JULIE *bas.*.
 Moy ? l'arrester Madame ? ah Dieux quelle folie.  
 
     ORASIE.
@@ -2256,7 +2256,7 @@ Fin du second Acte.
 FABRICE, LIDAMANT. dans leur Chambre.
 
 
-    [FABRICE.]
+    [FABRICE.].
 D'où venez vous Monsieur ? qu'avez vous ?  
 
     LIDAMANT.
@@ -2277,7 +2277,7 @@ Je veux sortir d'icy plus vite que le vent,
 Va tost, despesche toy. Regarde auparavant,  
 Si Leandre est icy, j'ay deux mots à luy dire.  
 
-    FABRICE
+    FABRICE.
 Il n'est pas au logis.  
 bas [197]
 
@@ -2349,7 +2349,7 @@ Je vay vous obeyr.
 Fabrice sort.
 
 
-    LIDAMANT *seul.*
+    LIDAMANT *seul.*.
         Que je suis malheureux.  
 Quelle confusion à la mienne est esgale ?  
 Adieu Paris Adieu, sortons de ce Dedale,  
@@ -2359,7 +2359,7 @@ Femme qui que tu sois avec ton artifice,
 Et tes precautions que le Ciel te benisse.  
 Va je te dis adieu, je vay t'abandonner.  
 
-    FABRICE *rentre.* 
+    FABRICE *rentre.*. 
 Vostre habit est tout prest, on me le va donner,  
 J'ay dit que nous montons à cheval dans une heure.  
 
@@ -2425,7 +2425,7 @@ Je luy veux dire Adieu.
 Fabrice sort & rentre à l'instant.
 
 
-    [FABRICE.]
+    [FABRICE.].
         Monsieur je vous aporte  
 Pour nouvelle, que j'ay rencontré sur la porte  
 Celle que vous sçavez.  
@@ -2488,13 +2488,13 @@ Que vous avez de moy [214], car par quelle apparence
 Croiray-je d'estre aymé, Puis qu'en toutes façons  
 Vous avez refusé d'esclarcir mes soubçons ?  
 
-    FABRICE
+    FABRICE.
 Leandre vient icy.  
 
     FLORIMONDE.
         Grands Dieux je suis perdue.  
 
-    LIDAMANT,
+    LIDAMANT,.
 Mais pourquoy ? que vous peut importer cette veue  
 Vous vous desesperez & je ne sçay pourquoy.  
 Leandre est mon Amy, vous estes avec moy  
@@ -2513,7 +2513,7 @@ J'entre en ce cabinet.
 Elle se cache.
 
 
-    LIDAMANT* en luy mesme.*
+    LIDAMANT* en luy mesme.*.
         En la peur qui la presse  
 Il faut asseurement que ce soit sa maistresse.  
 Je n'en sçaurois douter.  
@@ -2554,7 +2554,7 @@ Le plus grand de mes maux.
 Fabrice s'en va.
 
 
-    LEANDRE
+    LEANDRE.
 Vous disiez bien tantost parlant de jalousie,  
 Cher amy, qu'aussy tost qu'une ame en est saisie  
 C'est le plus grand malheur qu'on puisse recevoir,  
@@ -2582,7 +2582,7 @@ En trouvant une Chambre (Ah Dieux comme un rocher
 Je demeure immobile à ce discours funeste)  
 J'ay veu l'ombre d'un homme,  
 
-    LIDAMANT *bas.*
+    LIDAMANT *bas.*.
         Ah grands Dieux je proteste  
 Que voila de tout point, ce qui m'est survenu.  
 
@@ -2607,7 +2607,7 @@ Une fille l'avoit sur l'heure mis dehors,
 Dieux c'est une douleur pire que mille morts  
 De craindre, & ne sçavoir qui je crains,  
 
-    LIDAMANT *bas.*
+    LIDAMANT *bas.*.
         C'est la mesme  
 Il n'en faut point douter, c'est la Dame que j'ayme,  
 Ouy c'est elle en effect de qui je suis aymé,  
@@ -2619,7 +2619,7 @@ Termine tant de maux.
         Dieux quelle extravagance,  
 Vous resvez est-ce ainsi qu'il me faut consoler ?  
 
-    LIDAMANT *bas.*
+    LIDAMANT *bas.*.
 La chose est resoluë, Ouy je m'en veux aller,  
 Ne vous estonnez point cher amy je vous prie,  
 Ce surprenant discours cause ma resverie.  
@@ -2645,7 +2645,7 @@ Une Dame est là-bas qui demande Leandre.
     LEANDRE.
 C'est elle, je ne veux ny la voir ny l'entendre.  
 
-    LIDAMANT,
+    LIDAMANT,.
 Ce n'est peut-estre pas celle que vous pensez,  
 Vous vous pourriez tromper.  
 
@@ -2658,7 +2658,7 @@ Ce que je sçay fort bien estre une verité.
 Orasie entre.
 
 
-    LIDAMANT *en luy mesme.*
+    LIDAMANT *en luy mesme.*.
 Quelle confusion à la mienne est pareille ?  
 Est-ce une illusion ? Est-il vray que je veille ?  
 Si c'est elle qu'il ayme, avec quelle raison,  
@@ -2668,16 +2668,16 @@ D'ailleurs si c'est icy la maistresse qu'il ayme,
 Qui peut estre (grands Dieux, je perds icy les sens)  
 Cette autre qui se vient d'enfermer là dedans ?  
 
-    ORASIE *à Lidamant.*
+    ORASIE *à Lidamant.*.
 Lidamant permetez que je parle à Leandre,  
 
     LEANDRE.
 Mais quoy ! Sçavez vous bien s'il voudra vous entendre ?  
 
-    ORASIE *au mesme.*
+    ORASIE *au mesme.*.
 De grace obligez moy, laissez nous seuls icy.  
 
-    LIDAMANT *bas en s'allant.*
+    LIDAMANT *bas en s'allant.*.
 Madame je m'en vay. Je suis bien en soucy,  
 Je suis bien empesché [218] de ce que je doy faire.  
 Dieux où doit aboutir la fin de cette affaire ?  
@@ -2693,17 +2693,17 @@ Laissons les, descendons & j'attendray là-bas.
 Orasie, Leandre, Florimonde cachée.
 
 
-    ORASIE
+    ORASIE.
 Puis que nous sommes seuls escoutez moy Leandre.  
 
-    LEANDRE
+    LEANDRE.
 Pourquoy vous escouter ?  
 
     ORASIE.
         Je vous veux faire entendre  
 Le suject qui m'amène.  
 
-    LEANDRE,
+    LEANDRE,.
         Il n'en est pas besoin,  
 Non Madame je veux vous espargner ce soin.  
 Si je vous veux ouïr, vous conterez merveilles.  
@@ -2764,7 +2764,7 @@ Quel est cet homme là ?
 Faut-il qu'à vostre crime un mensonge soit joint ?  
 Mais que faisoit-il là ?  
 
-    ORASIE,
+    ORASIE,.
         Je ne vous le puis dire [220].  
 
     LEANDRE.
@@ -2830,7 +2830,7 @@ Il veut courir apres, Orasie le retient.
 Madame au nom des Dieux que je suive ses pas  
 Je veux sçavoir qui c'est.  
 
-    ORASIE *le retenant.*
+    ORASIE *le retenant.*.
         Non non, vous n'irez pas  
 Vous bruslez de desir de courir apres elle  
 Pour luy faire une excuse ame ingratte infidelle,  
@@ -3057,17 +3057,17 @@ Mais avant que la voir ma sœur je voudrois bien,
 Esclaircir mon soubson, & par vostre moyen,  
 Ne me refusez pas chere sœur je vous prie.  
 
-    FLORIMONDE
+    FLORIMONDE.
 Mais que puis je pour vous.  
 
-    LEANDRE,
+    LEANDRE,.
         Par certaine industrie  
 Qui vient de mon esprit vous me pourrez guerir.  
 
     FLORIMONDE.
 J'y feray mon effort quand j'en devrois mourir.  
 
-    LEANDRE
+    LEANDRE.
 Il faut qu'un de ces jours vous l'alliez voir chez elle,  
 Et que vous luy disiez que pour une querelle,  
 Qu'à tort je vous ay faitte, & vous faindrez pour quoy,  
@@ -3124,7 +3124,7 @@ Ah ! vous m'avez comblé de honte & d'infamie,
 Vostre frere a chez moy tantost veu Lidamant  
 Enfermé dans ma chambre.  
 
-    FLORIMONDE,
+    FLORIMONDE,.
         Ah Madame & comment ?  
 
     ORASIE.
@@ -3184,7 +3184,7 @@ Vous m'offenseriez trop d'en douter Orasie,
 Un obstacle pourtant s'oppose à ce dessein,  
 Mais j'y remediray.  
 
-    ORASIE
+    ORASIE.
     Quel peut-il estre ?  
 
     FLORIMONDE.
@@ -3221,7 +3221,7 @@ Qu'on luy donne sa coiffe, & son masque, une affaire
 Se perd le plus souvent alors qu'on la differe,  
 Allons, nous n'en avons des-ja que trop parlé ?  
 
-    FLORIMONDE,
+    FLORIMONDE,.
 En quelque part que soit Lidamant trouve le,  
 Entens tu bien Nerine, & luy dy que s'il m'aime,  
 Il me vienne trouver ce soir au logis mesme  
@@ -3287,7 +3287,7 @@ C'est pour vous demander s'il vous plaist mon salaire.
     LIDAMANT.
 Encor pour quel suject ?  
 
-    FABRICE,
+    FABRICE,.
         Parce que je cognoy  
 Que [248] vous n'avez Monsieur plus affaire de moy,  
 Vous ne voulez jamais que je vous accompagne,  
@@ -3309,7 +3309,7 @@ Qu'à mon esprit chagrin tout plein d'inquietude,
 Je t'aime, cher Fabrice, autant que je le doy,  
 Si tu sçavois mon mal tu pleurerois pour moy.  
 
-    FABRICE
+    FABRICE.
 Quittons donc ce pays puis qu'il vous importune,  
 Ne sçauriez vous ailleurs trouver vostre fortune⁎ ?  
 Arrachez vous, Monsieur, cette espine du sein.  
@@ -3334,7 +3334,7 @@ Qui c'est ? je le sçay bien moy,
     FABRICE.
         Moy je le jure.  
 
-    LIDAMANT,
+    LIDAMANT,.
 Que ne le dis tu donc ?  
 
     FABRICE. 
@@ -3357,7 +3357,7 @@ Escoutez Lidamant, celle que vous sçavez.
     FABRICE.
 Femme, d'où tombes-tu ?  
 
-    NERINE
+    NERINE.
     Que t'importe ?  
 
     LIDAMANT.
@@ -3371,7 +3371,7 @@ Il n'est point de besoing de vous conduire Adieu.
 Elle sort.
 
 
-    FABRICE,
+    FABRICE,.
 A t'on jamais parlé d'un succez⁎ plus estrange ?  
 
     LIDAMANT.
@@ -3445,14 +3445,14 @@ Encor de quel costé ?
         Tyrons devers la Seyne [252].  
 Allons sur le Pont-neuf.  
 
-    LEANDRE
+    LEANDRE.
         En cette occasion  
 Je pourray divertir⁎ un peu ma passion.  
 
-    LIDAMANT *à Fabrice.*
+    LIDAMANT *à Fabrice.*.
 Toy, va-t'en au logis.  
 
-    FABRICE *bas.*
+    FABRICE *bas.*.
         Non, je n'en veux rien faire,  
 Je les suivray tous deux leur deusse-je desplaire;  
 Mais de peur d'estre veu, je les suivray de loing,  
@@ -3463,7 +3463,7 @@ Je ne desire pas leur manquer au besoing [253].
 LISIS, TOMIRE dans la ruë.
 
 
-    LISIS *soustenant Tomire sous les bras.*
+    LISIS *soustenant Tomire sous les bras.*.
 Reposez-vous sur moy Monsieur, à l'heure mesme  
 Nous serons au logis.  
 
@@ -3563,10 +3563,10 @@ Qu'il vous plaist me donner de vostre affection ?
 J'accepte la faveur, mais à condition  
 Que vous me traiteréz avec mesme franchise.  
 
-    LEANDRE
+    LEANDRE.
 Ne perdez point de temps suivez vostre entreprise  
 
-    FABRICE *bas caché derriere eux.*
+    FABRICE *bas caché derriere eux.*.
 Je les voy, mais d'icy je ne les entends pas.  
 Approchons de plus pres, & marchons sur leurs pas.  
 Il s'approche.
@@ -3575,7 +3575,7 @@ Il s'approche.
     LIDAMANT.
 J'oy du bruit.  
 
-    LEANDRE 
+    LEANDRE. 
     Qui va là ?  
 
     FABRICE.
@@ -3584,7 +3584,7 @@ J'oy du bruit.
     LEANDRE.
 Passez vostre chemin, viste mais tout à l'heure [257].  
 
-    FABRICE,
+    FABRICE,.
 Et pourquoy ?  
 
     LIDAMANT.
@@ -3597,13 +3597,13 @@ De passer plus avant, je ne vay pas plus loing.
     LIDAMANT.
 Amy que cherchez vous ?  
 
-    FABRICE,
+    FABRICE,.
         A vous rendre service.  
 
-    LEANDRE *l'espée à la main.*
+    LEANDRE *l'espée à la main.*.
 Passez, ou je.  
 
-    FABRICE
+    FABRICE.
         Tout beau Monsieur, je suis Fabrice.  
 
     LIDAMANT.
@@ -3631,7 +3631,7 @@ Nous sommes arrivez peu s'en faut le voicy.
     LEANDRE.
 Quoy ! c'est là son logis ?  
 
-    LIDAMANT,
+    LIDAMANT,.
         Ouy c'est le logis mesme,  
 Que je cherche où se tient cette beauté que j'ayme,  
 
@@ -3663,7 +3663,7 @@ A vous cacher ainsi.
         Je vous l'ay dit desja,  
 C'est là que m'arriva cette belle adventure,  
 
-    LEANDRE
+    LEANDRE.
 Amy, songez y mieux. La nuit estant obscure,  
 Vous nouveau dans Paris vous pourriez que je croy⁎,  
 Vous estre un peu mespris ?  
@@ -3714,10 +3714,10 @@ Estoit.
     LIDAMANT.
     Tout beau l'on ouvre.  
 
-    JULIE *à la fenestre.* 
+    JULIE *à la fenestre.*.
     Est-ce vous.  
 
-    LIDAMANT* à Leandre.*
+    LIDAMANT* à Leandre.*.
         On m'appelle.  
 
     JULIE.
@@ -3733,7 +3733,7 @@ C'est Julie. Ah grands Dieux, je suis tout interdit.
     JULIE.
 Attendez je descends.  
 
-    LIDAMANT *bas à Leandre*,
+    LIDAMANT *bas à Leandre*,.
         La servante m'a dit  
 Qu'elle s'en va m'ouvrir.  
 
@@ -3754,7 +3754,7 @@ Si c'est.
     LEANDRE.
     La Dame.  
 
-    JULIE* à la porte.*
+    JULIE* à la porte.*.
         Lidamant.  
 
     LIDAMANT.
@@ -3822,25 +3822,25 @@ Qui frappe à quelque porte, aussy bien comme vous.
 Tomire, Julie, Leandre, Lidamant, Florimonde, Fabrice.
 
 
-    TOMIRE *derriere le Theatre.*
+    TOMIRE *derriere le Theatre.*.
 Ouvrez Julie, ouvrez.  
 
-    JULIE *derriere le Theatre.* 
+    JULIE *derriere le Theatre.*. 
         Grands Dieux je desespere,  
 C'est Monsieur.  
 
-    LEANDRE
+    LEANDRE.
         Je me trompe, ou c'est la voix du pere.  
 On entend des bruits d'espee derriere le Theatre.
 
 
-    FABRICE,
+    FABRICE,.
 Quel bruit,  
 
-    TOMIRE *derriere le Theatre.*
+    TOMIRE *derriere le Theatre.*.
         Penses tu donc eviter mon courroux⁎.  
 
-    LIDAMANT *sort avec Florimonde entre ses bras dans l'obscurité.*
+    LIDAMANT *sort avec Florimonde entre ses bras dans l'obscurité.*.
 Ne vous estonnez point Madame asseurez vous.  
 
     TOMIRE.
@@ -3923,7 +3923,7 @@ Lidamant s'en va.
 Leandre, Florimonde, qui croit estre Orasie. [265]
 
 
-    LEANDRE *en l'obscurité dans la rue.*
+    LEANDRE *en l'obscurité dans la rue.*.
 A la fin Orasie.  
 
     FLORIMONDE *bas*.
@@ -3945,7 +3945,7 @@ Je vous garantiray, non non, ne craignez point.
     FLORIMONDE *bas*.
 Que sera-ce de moy ?  
 
-    LEANDRE,
+    LEANDRE,.
         Grands Dieux est-il possible,  
 Que vous me reservez un tourment si sensible [267] ?   
 
@@ -3956,11 +3956,11 @@ Tomire, Lisis, Fabrice, Lidamant,
 Tomire, & Lisis l'espée à la main.
 
 
-    TOMIRE *dans la rue.*
+    TOMIRE *dans la rue.*.
 Si les forces du corps, me manquent, j'ay du cœur⁎,  
 & plus qu'il ne m'en faut pour venger mon honneur.  
 
-    LIDAMANT* l'espée à la main.*
+    LIDAMANT* l'espée à la main.*.
 Nul ne passe, arrestez.  
 
     TOMIRE.
@@ -3981,7 +3981,7 @@ Où diable suis-je allé ? j'estois bien las de vivre ?
 Où vas-tu traistre ? Ah Dieux, je ne le sçaurois suivre,  
 Lisis mon mal me presse & ne puis advancer.  
 
-    LISIS *prend Fabrice.*
+    LISIS *prend Fabrice.*.
 Voicy quelqu'un des siens.  
 
     FABRICE *pris*.
@@ -4005,7 +4005,7 @@ Si la peur ne me trompe.
     TOMIRE.
         Infame rend l'espée.  
 
-    FABRICE *presentant son espée.* 
+    FABRICE *presentant son espée.*. 
 Elle ne fut jamais aux combats occupée,  
 C'est trop peu de l'espée. Ah prenez mon chapeau,  
 Mon poignard, mon pourpoint [269], mes chausses [270], mon manteau,  
@@ -4026,7 +4026,7 @@ Ouy Monsieur je le suis, & vous avez raison.
     TOMIRE.
 Son nom !  
 
-    FABRICE,
+    FABRICE,.
         C'est Lidamant qui loge chez Leandre.  
 
     TOMIRE.
@@ -4046,42 +4046,42 @@ Leandre, Florimonde, un valet, Orasie & Nerine, au logis de Leandre, dans l'obsc
 Leandre vient chez luy avec Florimonde qu'iltient par la main, pensant tenir Orasie, ouvre avec la clef la porte, & Orasie &Nerine, escoutent dans la Chambre de Florimonde, en obscurité.
 
 
-    LEANDRE
+    LEANDRE.
 De la chandelle hola.  
 
-    UN VALET *derriere le Theatre.*
+    UN VALET *derriere le Theatre.*.
         Bien Monsieur tout à l'heure.  
 
-    ORASIE *dans la Chambre de Florimonde*
+    ORASIE *dans la Chambre de Florimonde*.
 bas à Nerine.
 
 Escoutons ce que c'est, j'entends du bruit icy.  
 
-    LEANDRE *à Florimonde.*
+    LEANDRE *à Florimonde.*.
 Me voila belle ingratte à la fin esclaircy ?  
 Pourriez vous soustenir.  
 
-    ORASIE* à Nerine*, 
+    ORASIE* à Nerine*,. 
         C'est avec une femme  
 Qu'il parle, escoutons le ?  
 
-    LEANDRE *à Florimonde.*
+    LEANDRE *à Florimonde.*.
         N'estre pas une infame ?  
 Ingratte, desloyalle, inconstante, & sans foy ?  
 Que me respondrez vous ?  
 
-    FLORIMONDE *bas.*
+    FLORIMONDE *bas.*.
         Justes Dieux sauvez moy.  
 
-    LEANDRE *à Florimonde.*
+    LEANDRE *à Florimonde.*.
 Est-ce pour ce suject que vous estes venue  
 Tantost à mon logis ?  
 
-    ORASIE *à Nerine.*
+    ORASIE *à Nerine.*.
         C'est celle que j'ay veue  
 Chez luy, c'est elle mesme.  
 
-    LEANDRE *à Florimonde.*
+    LEANDRE *à Florimonde.*.
         Ay-je autre chose à voir ?  
 Vous voila maintenant ingrate en mon pouvoir.  
 Voions si vous pourrez rencontrer quelque ruse  
@@ -4093,16 +4093,16 @@ Parlez donc respondez car il y va du vostre [274].
 Mais que pourrez vous dire ? ha miserable jour,  
 Qui premier alluma le feu de mon Amour.  
 
-    ORASIE *bas à Nerine.*
+    ORASIE *bas à Nerine.*.
 Nerine escoute un peu de quelle hardiesse  
 Il soustient son amour, & comme il le confesse.  
 Elle entre en l'obscurité par la porte qui respond dans la Chambre de Leandre.
 
 
-    NERINE,
+    NERINE,.
 Que faictes vous Madame ?  
 
-    ORASIE* bas à Nerine.*
+    ORASIE* bas à Nerine.*.
         Ah Nerine je veux  
 Entrer dans cette Chambre afin d'approcher d'eux  
 Pour ouïr de plus pres ma sentence derniere.  
@@ -4110,7 +4110,7 @@ Pour ouïr de plus pres ma sentence derniere.
     LEANDRE.
 Veut-on pas promptement apporter la lumière ?  
 
-    UN VALET *derriere le Theatre.*
+    UN VALET *derriere le Theatre.*.
 Je la cherche Monsieur, je m'en vay de ce pas.  
 
     FLORIMONDE *bas*.
@@ -4120,7 +4120,7 @@ Voyons si je pourrois de ses mains me deffaire.
     LEANDRE. 
 Respondez, n'ayant rien à dire, il se faut taire.  
 
-    FLORIMONDE* s'eschappe de ses mains & dit bas.*
+    FLORIMONDE* s'eschappe de ses mains & dit bas.*.
 Courage tout va bien, je suis hors de ses mains.  
 Leandre pensant reprendre Florimonde prend Orasie par le bras, qui se trouve au pres de luy dans la mesme Chambre.
 
@@ -4218,10 +4218,10 @@ Voyez la trahison, voyez la lacheté,
 Mais cette femme encor qu'est elle devenue ?  
 Comment a t'elle peu disparoistre à ma veue.  
 
-    ORASIE
+    ORASIE.
 Pourquoy demandez vous ce que vous sçavez bien ?  
 
-    LEANDRE
+    LEANDRE.
 Cette fourbe est grossiere, & ne vous sert de rien.  
 Parlons avec raison, dites moy je vous prie,  
 Avez vous bien encor assez d'effronterie,  
@@ -4242,10 +4242,10 @@ Dire que vous m'avez en ces lieux amenée,
 Moy qui chez vostre sœur ay passé la journée,  
 Exprez pour m'esclaircir, & voir ce que je voy.  
 
-    LEANDRE *frappe à la porte de sa sœur.*
+    LEANDRE *frappe à la porte de sa sœur.*.
 Nous le sçaurons bien tost, Florimonde ouvrez moy.  
 
-    FLORIMONDE, *ouvre, entre, & dit bas.*
+    FLORIMONDE, *ouvre, entre, & dit bas.*.
 Il faut dissimuler,  
 
     LEANDRE.
@@ -4265,7 +4265,7 @@ Venir en mon logis.
 Que je sois arrivée icy pour vous prier  
 De demeurer ceans⁎ ? & que vous ?  
 
-    FLORIMONDE *l'interrompant.*
+    FLORIMONDE *l'interrompant.*.
         Ces paroles  
 Mon frere, ne sont rien que des contes frivoles.  
 Tout ce qu'elle vous dit est faux asseurement.  
@@ -4296,14 +4296,14 @@ Je veux declarer tout, & parler franchement.
     NERINE.
 Quelqu'un frappe à la porte.  
 
-    LIDAMANT *derriere le Theatre.*
+    LIDAMANT *derriere le Theatre.*.
     Ouvrez.  
 
     LEANDRE.
         C'est Lidamant  
 Nous sçaurons maintenant le nœu de cette affaire  
 
-    FLORIMONDE *bas.*
+    FLORIMONDE *bas.*.
 Tout est perdu l'on va descouvrir le mistere,  
 Qui pourroit l'advertir du danger où je suis.  
 Rentrons, Dieux je retombe en un gouffre d'ennuis⁎.  
@@ -4320,7 +4320,7 @@ De crainte que quelqu'un vous suivist dans la ruë,
 J'ay demeuré derriere, & bien qu'est devenue  
 La beauté que je viens de mettre entre vos mains.  
 
-    LEANDRE *luy montrant Orasie qui se cache.*
+    LEANDRE *luy montrant Orasie qui se cache.*.
 Lidamant la voila, mais vos projets sont vains,  
 Si vous la pretendés. Car je perdray la vie,  
 Avant que de souffrir qu'elle me soit ravie,  
@@ -4334,14 +4334,14 @@ Si vous ne me rendez, mais je dis au plustost,
 La Dame que je viens de vous mettre en depost,  
 Nous romprons je vous jure, & nous aurons querelle.  
 
-    LEANDRE* luy monstrant Orasie.*
+    LEANDRE* luy monstrant Orasie.*.
 Est-ce cette beauté.  
 
     LIDAMANT. 
         Non non, ce n'est point elle,  
 Gardez bien celle-là, je ne la cognoy point [283].  
 
-    LEANDRE
+    LEANDRE.
 Mes sens sont à ce coup interdis de tout point,  
 Je suis tout hors de moy.  
 
@@ -4355,7 +4355,7 @@ Ce procedé vers moy passe la raillerie.
 Comme⁎ Florimonde escoute à la porte de sa chambre ce qu'on dit, Orazie la surprend & l'emmeine.
 
 
-    ORASIE *prenant Florimonde par le bras.*
+    ORASIE *prenant Florimonde par le bras.*.
 Je m'en vais à tous deux remettre les esprits [284],  
 Est-ce pas là l'object dont vous estes espris ?  
 Lidamant respondez.  
@@ -4367,28 +4367,28 @@ Pourquoy supposez⁎ vous la Dame que voicy,
 Si celle que je cherche & que j'aime est icy ?  
 Car en effect voila la beauté que j'adore.  
 
-    ORASIE *à Leandre.*
+    ORASIE *à Leandre.*.
 Et bien Leandre, & bien, me direz vous encore,  
 Qu'elle ne songe à rien, qu'elle ne sçait que c'est,  
 Je fais ici premier marcher mon interest [285].  
 
-    LEANDRE* l'espée à la main.*
+    LEANDRE* l'espée à la main.*.
 Veilley-je ! ou si je dors ? infame cette espée  
 Au deffaut d'un poignard dedans ton sang trempée,  
 Me vengera bien tost, d'une perfide sœur,  
 Il faut oster la vie, à qui m'oste l'honneur.  
 
-    FLORIMONDE* en fuyant.*
+    FLORIMONDE* en fuyant.*.
 Sauvez moy Lidamant.  
 
-    LIDAMANT *retenant Leandre.*
+    LIDAMANT *retenant Leandre.*.
         Dieux ? que viens-je d'entendre ?  
 Comment donc ? cette Dame est vostre sœur Leandre ?  
 
     LEANDRE.
 Ouy qui me doit payer un si sanglant affront,  
 
-    LIDAMANT *l'espée à la main.*
+    LIDAMANT *l'espée à la main.*.
 Moderez vous un peu ne soyez pas si pront  
 Je la sers, & je doy m'armer pour sa deffense.  
 
@@ -4406,7 +4406,7 @@ En cette qualité [286] ?
 Pourois-je recevoir au monde, justes Dieux ?  
 Ma sœur seroit heureuse, & moy trop glorieux.  
 
-    LIDAMANT *à Florimonde.*
+    LIDAMANT *à Florimonde.*.
 Donnez moy vostre main puis qu'il plaist à Leandre.  
 
     FLORIMONDE.
@@ -4424,11 +4424,11 @@ Je suis trop offencé, monstrez moy Lidamant.
     LIDAMANT.
 C'est moy, que voulez vous ?  
 
-    TOMIRE *l'espée à la main.*
+    TOMIRE *l'espée à la main.*.
         Je veux avoir ta vie  
 Traistre.  
 
-    LEANDRE *le retenant.*
+    LEANDRE *le retenant.*.
         Moderez vous, calmez cette furie  
 Vous l'attaquez à tort, vous n'avez pas raison.  
 
@@ -4453,7 +4453,7 @@ Vous me mettez, Monsieur au comble de mes vœux.
 C'est vous qui comblez d'heur⁎ toute nostre famille.  
 Donnez luy vostre main, approchez vous ma fille.  
 
-    ORASIE *à Leandre.*
+    ORASIE *à Leandre.*.
 Enfin je suis à vous.  
 
     NERINE.
@@ -4466,13 +4466,13 @@ Songeons à terminer ce double mariage.
 Fin de la Comedie des Fausses veritez de Monsieur Douville.
 
 
-# GlossaireAccidentHasard, coup de fortune. V. 172, 564, 907, 1388, 1553.AppasAttrait, charme. V. 254, 586.AttraitsLa beauté, le charme, la grâce d'une femme.V. 1065, 1075.CeansIci.V. 454, 1701.CelerCacher, taire.V. 465, 1265, 1368.CœurCourage.V. 1563.CommeLorsque. V. 90, 362, didascalie v. 601, v. 778, 1153, 1159, 1160, 1161, didascalie v. 1497, v. 1538, 1666, 1680, didascalie v. 1746.ConduireAccompagner quelqu'un par civilité, par honneur.V. 555, 624, 1684.CourrouxColère, fureur. V. 295, 315, 723, 872, 1088, 1152, 1523, 1541.DevantAvant.V. 398, 1494.DivertirÉviter, empêcher, détourner (d'une préoccupation).V. 842, 908, 1392.Encor queBien que, quoique.V. 266, 877, 1558.EnnuiChagrin, souffrance.V. 95, 204, 580, 1724.FaveursCe qu'une maîtresse accorde à celui qu'elle aime, il s'agit aussi de petits cadeaux qu'elles leur font.V. 82, 154, 283, 286, 383.FortuneLe hasard, la chance, le destin.V. 1146, 1326.L'heurle bonheur.V. 347, 764, 1633, 1789.Que je croyÀ ce que je crois, à mon avis.V. 400, 1471.ProchainQui n'est pas loin, qui est proche.V. 1164, 1227.RecognoistreTémoigner par de la gratitude que l'on est redevable envers quelqu'un de quelque chose.V. 273, 653.RépartirRépliquer.V. 732, 1627.SupposerSubstituer.V. 1742, 1751.SuccezAu XVII*e* siècle ce mot n'avait pas un sens exclusivement positif comme c'est le cas dans la langue actuelle. Furetière donne la définition suivante : « reüssite, issuë d'une affaire. Il se dit en bonne et en mauvaise part. »V. 159, 1349.
+# Glossaire.AccidentHasard, coup de fortune. V. 172, 564, 907, 1388, 1553.AppasAttrait, charme. V. 254, 586.AttraitsLa beauté, le charme, la grâce d'une femme.V. 1065, 1075.CeansIci.V. 454, 1701.CelerCacher, taire.V. 465, 1265, 1368.CœurCourage.V. 1563.CommeLorsque. V. 90, 362, didascalie v. 601, v. 778, 1153, 1159, 1160, 1161, didascalie v. 1497, v. 1538, 1666, 1680, didascalie v. 1746.ConduireAccompagner quelqu'un par civilité, par honneur.V. 555, 624, 1684.CourrouxColère, fureur. V. 295, 315, 723, 872, 1088, 1152, 1523, 1541.DevantAvant.V. 398, 1494.DivertirÉviter, empêcher, détourner (d'une préoccupation).V. 842, 908, 1392.Encor queBien que, quoique.V. 266, 877, 1558.EnnuiChagrin, souffrance.V. 95, 204, 580, 1724.FaveursCe qu'une maîtresse accorde à celui qu'elle aime, il s'agit aussi de petits cadeaux qu'elles leur font.V. 82, 154, 283, 286, 383.FortuneLe hasard, la chance, le destin.V. 1146, 1326.L'heurle bonheur.V. 347, 764, 1633, 1789.Que je croyÀ ce que je crois, à mon avis.V. 400, 1471.ProchainQui n'est pas loin, qui est proche.V. 1164, 1227.RecognoistreTémoigner par de la gratitude que l'on est redevable envers quelqu'un de quelque chose.V. 273, 653.RépartirRépliquer.V. 732, 1627.SupposerSubstituer.V. 1742, 1751.SuccezAu XVII*e* siècle ce mot n'avait pas un sens exclusivement positif comme c'est le cas dans la langue actuelle. Furetière donne la définition suivante : « reüssite, issuë d'une affaire. Il se dit en bonne et en mauvaise part. »V. 159, 1349.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Textes de référenceL'Inconnue
+## Textes de référence.L'Inconnue
 Casa con dos puertas mala es de guardar – El galán fantasma
 Obras completas
 Les Engagemens du hazard
@@ -4481,7 +4481,7 @@ L'École des femmes
 
 
 
-## Études sur d'Ouville et son œuvreRomance notes
+## Études sur d'Ouville et son œuvre.Romance notes
 XVII*e* Siècle
 Scarron inconnu et les types des personnages du roman comique
 Estudios de literatura española y comparada
@@ -4493,7 +4493,7 @@ Historiettes
 
 
 
-## Ouvrages généraux sur le XVII*e* siècle Littérature française – L'Âge classique I, 1624-1660
+## Ouvrages généraux sur le XVII*e* siècle. Littérature française – L'Âge classique I, 1624-1660
 L'Histoire de la mise en scène dans le théâtre français de 1600 à 1657
 Œuvres complètes
 Cours de littérature dramatique
@@ -4507,7 +4507,7 @@ Histoire de la littérature française – Le Classicisme
 
 
 
-## Études générales sur la comédie en France au XVII*e* siècleLes Sources de Molière
+## Études générales sur la comédie en France au XVII*e* siècle.Les Sources de Molière
 Lire la comédie
 La Comédie avant Molière
 Comédie et société sous Louis XIII
@@ -4516,7 +4516,7 @@ La Comédie
 
 
 
-## Ouvrages sur le théâtre espagnol et son influenceHistoire du théâtre espagnol
+## Ouvrages sur le théâtre espagnol et son influence.Histoire du théâtre espagnol
 La Littérature espagnole
 Le Masque et le visage. Du baroque espagnol au classicisme français
 La Comedia espagnole en France de Hardy à Racine
@@ -4525,7 +4525,7 @@ Revue de littérature comparée
 
 
 
-## Dictionnaires et outils grammaticauxLeDictionnairedel'AcadémieFrançoise
+## Dictionnaires et outils grammaticaux.LeDictionnairedel'AcadémieFrançoise
 Dictionnaire universel ...
 Dictionnaire françois ...
 Grammaire du français classique

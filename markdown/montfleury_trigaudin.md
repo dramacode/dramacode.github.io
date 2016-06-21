@@ -16,7 +16,7 @@ A PARIS, Chez PIERRE PROMÉ, Sur le Quay des Grands Augustins, à la Charité. M
 Édition critique établie par Adeline Garnier dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000-2001)
 
 
-# Introduction
+# Introduction.
 
 Fils d'un célèbre acteur, le théâtre lui plut.  
 Pour l'enrichir de comiques peintures,  
@@ -77,7 +77,7 @@ De siècle en siècle les critiques lui ont reproché la bassesse de son style 
 Il existe peu de critique positive à son égard ; celle qui se trouve en exergue de cet ouvrage est la seule que nous ayons trouvé.
 
 
-# Montfleury, ou comment transformer un sujet tragique en comédie
+# Montfleury, ou comment transformer un sujet tragique en comédie.
 
 Sur les dix-sept pièces qu'a écrites Montfleury, la plus célèbre est certainement *La Femme juge et partie.* Elle remporta un très grand succès, fut rejouée plusieurs fois et même remaniée au dix-neuvième siècle [14]. *Trigaudin ou Martin Braillart* a, comparativement, été un véritable échec. Le registre de l'acteur de La Grange montre qu'elle n'a été jouée que neuf fois, du vendredi 26 janvier au vendredi 16 février 1674 au théâtre Guénégaud et n'a jamais été reprise par la suite [15]. Montfleury, pour ses pièces précédentes, s'était énormément inspiré d'œuvres espagnoles, peut-être effectivement pour « souligner son indépendance vis à vis de ses compatriotes, et son indifférence à la nouvelle direction que Molière fit prendre au théâtre comique français pendant les années 1660 [16] » ou peut-être plus simplement par goût.
 
@@ -162,7 +162,7 @@ Comme le dit Alain Couprie à propos de la comédie de mœurs, Montfleury semble
 Nous n'apprenons que peu de choses sur Lucie, nous ne savons pas quelles sont ses motivations, ni si elle aime véritablement son mari ; les jeunes gens amoureux – personnages stéréotypés de la majorité des comédies – sont particulièrement mis de côté. Finalement ceux que le lecteur connaît le mieux sont ceux qui sont ridiculisés du début à la fin, c'est-à-dire Géronte et Trigaudin. La peinture que nous aurions attendue n'a été qu'une ébauche de tableau, peut-être au profit d'un autre art : le théâtre.
 
 
-## La mise en place d'un jeu de rôle
+## La mise en place d'un jeu de rôle.
 
 Découvrant que son maître est animé par de vils projets, le valet L'Industrie se propose de fomenter un plan qui mettra celui-ci en échec. En effet, devant la perplexité de Lucie, à la scène 9 du second acte , qui ne sait « que résoudre » car elle « craint son humeur violente » [35], le serviteur de Trigaudin déclare « pour vous tirer d'affaire, & tromper son attente, / Je m'offre à vous servir, si vous y consentez » [36].
 
@@ -202,7 +202,7 @@ Si bien que le valet, doutant de la bonne foi de la jeune femme, nous fait doute
 Mais malgré tout il est vrai que le sujet de cette comédie et la manière dont il a été traité restent immoraux [48].
 
 
-# Une comédie du mensonge
+# Une comédie du mensonge.
 
 La trame même de cette pièce est basée sur la tromperie et le mensonge. Tromperie du point de vue de Lucie, Géronte et leurs complices qui dupent – à juste titre – Trigaudin ; et mensonge de la part de celui-ci qui cache la vérité sur son mariage secret. Absolument tous les personnages dissimulent, à un moment ou à un autre de la pièce, ou leurs pensées véritables, ou leurs actions, ou leurs motivations.
 
@@ -223,14 +223,14 @@ Cette erreur tient essentiellement au fait que Montfleury a placé son personnag
 Si bien que les caractères sensés soutenir la comédie – puisque l'intrigue a été annulée par la révélation faite à Géronte – ne jouent pas le rôle attendu. La pièce n'est alors plus portée que par ses éléments comiques.
 
 
-# L'art de faire rire
+# L'art de faire rire.
 
 Le rire se distingue de plus en plus, au dix-septième siècle, de la comédie. « Comique et comédie ne se recouvrent pas, même s'il n'en reste pas moins vrai que beaucoup de comédie font rire [50] ». « Susciter le rire n'est cependant pas constitutif de la comédie [51] ».
 
 Montfleury ne déclenche pas chez le spectateur, ou le lecteur, de gros éclats de rire ; son humour fait plutôt sourire, et ce, même s'il lui arrive d'employer les ressorts habituels de la farce et de la comédie.
 
 
-## Un comique de situation
+## Un comique de situation.
 
 Au fil des scènes les protagonistes de la pièce se placent dans des positions qui nous font sourire, et même parfois rire. Tout peut débuter par un mot ou par une attitude, sans que notre dramaturge fasse appel aux gros ressorts de la farce ou de la comédie grossière.
 
@@ -254,7 +254,7 @@ Trigaudin préfère promettre de tout faire pour éviter ce mariage, plutôt que
 Ridicule, Géronte l'est également lorsque Montfleury utilise un ressort comique déjà vu dans d'autres pièces. Ainsi à la scène 9 de l'acte 3, Lucie pour lui prouver qu'il est en danger demande au vieil homme de se cacher pour apprendre la vérité de la bouche même de Trigaudin. Nous ne pouvons lire ce passage sans penser à Orgon caché sous la table dans *Le Tartuffe* de Molière [64] qui reprenait déjà une situation très courante dans les farces. Cette technique réussit encore malgré tout à provoquer le rire car qu'y a-t-il de plus grotesque qu'un barbon prêt à tout, et même à se ridiculiser, pour les beaux yeux d'une jeune femme.
 
 
-## Des mots tremplins du rire
+## Des mots tremplins du rire.
 
 Le point fort de ce dramaturge réside essentiellement dans sa manière d'appréhender les mots. Certains termes qu'il emploie et sa façon de les mettre en forme parviennent encore plus à atteindre un effet comique. Loin des chutes et des coups de la farce, Montfleury s'amuse avec les expressions et nous amuse par leur utilisation.
 
@@ -277,7 +277,7 @@ L'Industrie, dans une toute autre circonstance, par son attitude et ses mots se 
 De même l'innocence avec laquelle il répond à Lucie lorsqu'elle lui demande, scène 9 de l'acte 2, s'il espionnait, ne peut que faire sourire. La simplicité de sa réponse – « d'icy, je venois de m'y mettre » – a plus d'effet cocasse que s'il avait essayé de nier.
 
 
-## Le déguisement comme moteur comique
+## Le déguisement comme moteur comique.
 
 Le jeu de rôle mis en place dans cette pièce a introduit, comme nous l'avons vu précédemment, un nouveau ressort théâtral qu'est le déguisement. Il conserve, malgré son importance du point de vue de la dramaturgie, le rôle qui était le sien au dix-septième siècle. En effet, il était tout à fait courant de trouver des héros – hommes ou femmes – qui se transformaient afin de séduire l'être aimé ou parvenir à épouser un amant refusé par un père, et ce surtout dans la comédie . Nous en avons des exemples avec *Le Malade imaginaire* de Molière ou *Agésilan de Colchos* de Rotrou…Il était toutefois possible d'en trouver dans les tragédies – où alors sa signification et son rôle dramatique étaient tout autres – mais le déguisement reste essentiellement un véritable procédé comique du genre considéré comme plus bas.
 
@@ -294,7 +294,7 @@ Mais son rôle ne se borne pas à ces effets. Il a également une incidence sur 
 D'atout comique, il devient alors obstacle à la progression dramaturgique de la comédie.
 
 
-## Des héros « ridiculement risibles »
+## Des héros « ridiculement risibles ».
 
 Celui qui de toute la pièce est le plus grotesque et le plus ridicule est sans aucun doute Géronte. Le barbon amoureux est par définition un personnage relativement cocasse et destiné à être ridiculisé. Mais ici, Montfleury crée non seulement une sorte de bouffon passionné, mais aussi un imbécile naïf et arrogant, ce qui entraîne bien sûr nombre de situations comiques.
 
@@ -311,7 +311,7 @@ De même il évoque les tortures infligées par les anciens [81] pour montrer to
 En créant un tel avocat, Montfleury a non seulement pu engendrer un nouvel effet comique, mais il a aussi glisser une satire à l'encontre de ses contemporains.
 
 
-# Une critique de la société
+# Une critique de la société.
 
 Contrairement à son très célèbre concurrent, Montfleury ne s'est pas attaché à décrire et critiquer un type, un caractère, comme l'avare. Il a malgré tout glissé certaines piques envers diverses catégories sociales et même contre des institutions.
 
@@ -357,10 +357,10 @@ Mais il faut signaler que ce sont là encore des thèmes habituels, qui se trouv
 Dans le choix de ces satires, et dans la manière dont il les met en forme, Montfleury ne fait preuve d'aucune originalité. La modernité qu'il avait semblé montrer dans le choix de son sujet s'annihile ; il échoue en s'inscrivant dans la continuité de ses contemporains, incapables de renouveler la comédie.
 
 
-# Des héros peu attachants
+# Des héros peu attachants.
 
 
-## Trigaudin
+## Trigaudin.
 
 Personnage éponyme de la pièce, il est celui contre lequel le spectateur s'insurge. Sans morale, il ne respecte ni femme, ni ami, ni religion, sa seule valeur étant celle de l'argent.
 
@@ -402,7 +402,7 @@ Enfin, il fait preuve d'une certaine dose de culot. Le dénouement devrait montr
 Ce personnage ne peut donc être aucunement apprécié car jusqu'au bout il niera ses torts et se montrera ainsi détestable jusqu'à la fin.
 
 
-## Géronte
+## Géronte.
 
 Montfleury a créé, avec ce personnage, un barbon parfaitement ridicule dans son rôle d'amoureux. En effet, il parle de Lucie sans arrêt et ce, même lorsqu'il est seul à la scène 4 de l'acte 1. Le fait qu'il puisse espérer inspirer de l'amour à une belle jeune femme le rend comique et naïf. Toutefois il est important de noter qu'un brin de lucidité apparaît chez lui lorsqu'il propose cent mille francs à la femme de Trigaudin pour l'épouser. Par cela il semble se rendre compte du grotesque de sa situation.
 
@@ -417,7 +417,7 @@ De même, Toinette montre qu'il a déjà été marié à une femme qui avait sem
 Mais ce paradoxe peut notamment s'expliquer par le manque de continuité de ce caractère. En effet, Montfleury le fait évoluer ou régresser selon ses besoins. Il le rend naïf et grotesque face à Lucie à la scène 5 de l'acte 3 pour pouvoir développer un double niveau de langue ; une fois informé du projet de Trigaudin il en fait un protagoniste réaliste et même ingénieux puisque c'est lui qui est à l'origine du quiproquo de la scène 11 de l'acte 5 ; il redevient ensuite le même personnage stupide puisqu'il pardonne à son ami – cette dernière fluctuation étant constitutive du genre.
 
 
-## Lucie
+## Lucie.
 
 Nous avons déjà dit que la jeune femme est moins coupable que le modèle dont s'est inspiré Montfleury. Pourtant elle ne nous paraît pas être aussi innocente que cela. En effet, d'après les propos tenus par L'Industrie, qui nous signale qu'elle était certainement assez pauvre, nous pouvons nous demander si son mariage avec Trigaudin n'a pas été pour elle un mariage d'intérêt. Que peut donc trouver d'attirant chez un barbon une belle femme comme elle semble l'être ?
 
@@ -448,7 +448,7 @@ Lucie est également importante du point de vue de la progression de l'action ca
 Mais son comportement par moment faux avec Géronte ou Trigaudin, le fait qu'on ne connaisse pas vraiment ses motivations et qu'on doute de son attachement véritable à son mari font que ce n'est pas non plus un personnage attachant.
 
 
-## Les serviteurs
+## Les serviteurs.
 
 Selon qu'ils soient homme ou femme leur importance varie d'une pièce à l'autre. Dans cette comédie il est donné la part belle au valet plutôt qu'à la servante.
 
@@ -529,7 +529,7 @@ Son vocabulaire est peu soutenu ; il emploie en effet par exemple « timbré 
 En revanche, il est important de noter que c'est lui qui pousse Trigaudin à avouer son mariage à l'acte 5 en lui demandant directement « Vous estes donc, Monsieur, son Epoux à ce compte ? [124] ».
 
 
-## Le jeune couple Julie/Valère
+## Le jeune couple Julie/Valère.
 
 Si le personnage de Valère permet de découvrir le caractère de différents protagonistes – comme nous l'avons évoqué précédemment – celui de Julie a nettement moins d'importance. La jeune femme ne semble être présente que pour que le jeune couple aux amours contrariés, attendu dans la plupart des comédies, puisse être formé et que le mariage qui doit conclure ce genre soit évoqué.
 
@@ -576,14 +576,14 @@ Toutefois son implication ne s'arrête pas là puisqu'il a également un petit r
 Le caractère effacé de ces personnages et leur attachement peu montré ne nous les rendent pas spécialement sympathiques. Même si leur amour est menacé par une hypothétique union entre Julie et Trigaudin, le fait que nous les voyions si peu ne nous lie pas à leurs destins, et nous avons véritablement l'impression qu'ils ne sont présents que pour que la pièce se termine par un mariage.
 
 
-# Vers une analyse stylistique
+# Vers une analyse stylistique.
 
 Notre propos n'est pas ici de réaliser le même travail que celui fait par Gabriel Conesa sur Molière [131] ; nous nous attacherons en effet essentiellement à montrer de quelle manière Montfleury a appréhendé le texte, comment il l'a construit, quels moyens stylistiques il a mis en œuvre pour créer la pièce et les personnages.
 
 Outre les paroles qu'il fait dire par ses protagonistes, l'auteur a à sa disposition divers procédés verbaux ou non qui lui permettent d'accentuer tel ou tel point de son discours.
 
 
-## Les éléments non verbaux
+## Les éléments non verbaux.
 
 Le texte d'une pièce de théâtre est généralement écrit dans le but essentiel d'être représenté sur scène avant d'être publié. L'auteur crée des personnages, les nomme, les mets dans certaines situations, leur crée un discours, mais indique rarement quels mouvements ils doivent faire. Si bien que lorsqu'en didascalie ou intra-textuellement on apprend que tel protagoniste a fait quatre pas vers l'autre, qu'il lève un bras, qu'il secoue la tête etc., ces gestes, *a priori* insignifiants, prennent une dimension toute autre. D'une part ce sont des indications essentielles pour un hypothétique metteur en scène et d'autre part c'est un moyen d'accentuer soit le discours du personnage, soit son caractère, et parfois également de faire la liaison entre deux scènes. Le rôle que joue un geste n'est donc pas uniquement ornemental.
 
@@ -612,7 +612,7 @@ Dès la première scène de la pièce, l'interruption du discours a un effet ryt
 Ainsi, ces éléments non verbaux que sont les mouvements, les didascalies ou les interruptions apportent des éléments essentiels à la pièce, au même titre que les répliques elles-mêmes. Non seulement ils nous informent sur l'action, mais en plus ils ont une incidence sur la forme du texte.
 
 
-## Les éléments verbaux
+## Les éléments verbaux.
 
 Comme nous venons de le voir certaines informations sont données sans vraiment rompre la progression de l'action ; les éléments dont nous venons de parler s'intègrent à la pièce, ils permettent d'enchaîner les répliques ou les scènes sans que le rythme ne soit véritablement rompu.
 
@@ -633,7 +633,7 @@ Le monologue de notre héros éponyme, à la scène 10 de l'acte 4, est essentie
 L'aparté et le monologue – deux formes qui brisent en quelque sorte le fonctionnement du théâtre – apportent en fait dans cette pièce certains éléments essentiels au bon déroulement dramatique. Ils ont à la fois une utilité sémantique et formelle puisqu'ils nous informent sur les motivations et les caractères de nos personnages et parce qu'ils créent un lien stylistique entre les répliques et les scènes.
 
 
-## L'enchaînement des répliques
+## L'enchaînement des répliques.
 
 Pour qu'une pièce de théâtre soit jugée de bonne qualité, il faut que les répliques s'enchaînent le plus naturellement possible. Montfleury utilise dans cette pièce essentiellement trois procédés.
 
@@ -671,7 +671,7 @@ D'un point de vue stylistique la pièce semble assez réussie ; tout s'enchaîn
 Certes ses thèmes font partie de la tradition comique, certes le renversement de l'action criminelle en banale farce rend le sujet médiocre, certes l'écriture de notre auteur n'est pas celle de Corneille ou Molière, mais Montfleury mérite d'être redécouvert ne serait-ce que pour montrer la diversité dramatique des auteurs du XVII*e* siècle. Il est important de savoir que même si à nos yeux Molière reste le maître incontesté de la comédie classique, le public contemporain ne partageait pas toujours la même opinion et préférait parfois des auteurs aujourd'hui méconnus.
 
 
-# Le texte de la présente édition
+# Le texte de la présente édition.
 
 Nous reproduisons ici le texte de l'unique édition de la pièce faite du vivant de l'auteur.
 
@@ -707,7 +707,7 @@ Nous avons corrigé les erreurs d'impression suivantes :
 # TRIGAUDIN, OU MARTIN BRAILLART, COMEDIE.
 
 
-## ACTEURS [148]
+## ACTEURS [148].
  – TRIGAUDIN.
  – LUCIE,Femme de Trigaudin.
  – GERONTE.
@@ -1062,7 +1062,7 @@ Pourquoy donc en parler ?
 TRIGAUDIN, GERONTE, TOINETTE.
 
 
-    GERONTE. *vers une Entrée, regardant un Portrait.*
+    GERONTE. *vers une Entrée, regardant un Portrait.*.
 O le charmant Portrait !  
 
     TRIGAUDIN.
@@ -1348,10 +1348,10 @@ Je n'en suis point fâché, n'en faites point la fine [169] :
 Mais, ma Niéce, un Mary dont l'esprit & la mine  
 Doivent plaire, & je croy que c'est bien vostre fait.  
 
-    JULIE. *à part.*
+    JULIE. *à part.*.
 Helas [170] ! je reconnoy Valere à ce Portrait.  
 
-    GERONTE. *à part.*
+    GERONTE. *à part.*.
 Les Filles à ce mot ne se sentent pas d'aise [171].  
 
     JULIE.
@@ -1585,7 +1585,7 @@ Je vous quitte.
 GERONTE, VALERE.
 
 
-    GERONTE. *sortant.*
+    GERONTE. *sortant.*.
 Sa Cousine sans doute est venuë, & j'espere  
 Que l'Hymen où j'aspire… Ah vous voila, Valere  
 Qu'est-ce ? que dit le cœur ? Je vous voy bien pensif.  
@@ -1744,7 +1744,7 @@ Il faut un autre Epoux à ma Niéce, bon-soir.
 
 ### SCENE IV.
 
-    VALERE. *seul.*
+    VALERE. *seul.*.
 Que d'un pareil mépris ma flâme soit suivie !  
 Ah si je perds sa Niéce, il faut perdre la vie ;  
 Suivons-le, mon amour ne se peut rebuter,  
@@ -1753,7 +1753,7 @@ Aussi-bien quelqu'un vient qui pourroit m'arrester.
 
 ### SCENE V.
 
-    L’INDUSTRIE. *seul.*
+    L’INDUSTRIE. *seul.*.
 Mon Maistre à son retour met un assez long terme,  
 La Cousine est venuë, & l'attend de pié ferme ;  
 Je suis d'avis de voir ce qu'il est devenu,  
@@ -1789,7 +1789,7 @@ J'entre, & luy veux parler un moment teste-à-teste.
 
 ### SCENE VII.
 
-    L’INDUSTRIE. *seul.*
+    L’INDUSTRIE. *seul.*.
 Je ne sçay quel dessein fait mon Maistre aujourd'huy ;  
 Sans Toinette tantost je l'aurois sçeu de luy :  
 Faire passer sa Femme icy pour sa Cousine,  
@@ -1814,7 +1814,7 @@ TRIGAUDIN, LUCIE, L'INDUSTRIE.
     TRIGAUDIN.
         Ne replique pas.  
 
-    L’INDUSTRIE. *bas.*
+    L’INDUSTRIE. *bas.*.
 Il s'éloigne.
 
 Je feins de m'éloigner, & reviens sur mes pas.  
@@ -2006,7 +2006,7 @@ Tandis que de ma part je sçauray me résoudre
 A luy faire avaler douze grains d'une poudre  
 Qui fait des Heritiers du soir au lendemain. [188]  
 
-    L’INDUSTRIE. *caché.*
+    L’INDUSTRIE. *caché.*.
 Peste !  
 
     TRIGAUDIN.
@@ -2035,7 +2035,7 @@ Font crever [189] par milliers ceux qu'ils ont dans les mains,
 Et que plus scrupuleux cent fois, & plus honneste,  
 Je n'auray pour du bien, fait tomber qu'une teste.  
 
-    L’INDUSTRIE. *caché.*
+    L’INDUSTRIE. *caché.*.
 Voila, je vous l'avouë un méchant Garnement⁎.  
 
     LUCIE.
@@ -2122,7 +2122,7 @@ N'estoit venuë au point où ce discours l'a mise.
 Quoy, toutes mes raisons contre celle qu'il a,  
 N'ont pû…   
 
-    L’INDUSTRIE. *sortant de l'Entrée où il estoit.*
+    L’INDUSTRIE. *sortant de l'Entrée où il estoit.*.
         **Le grand pendard⁎ de Maistre que j'ay là !  
 
     LUCIE.
@@ -2155,7 +2155,7 @@ Vien m'en entretenir, pour en presser l'effet.
 Fin du Second Acte 
 
 
-## ACTE III
+## ACTE III.
 
 
 ### SCENE PREMIERE.
@@ -2174,7 +2174,7 @@ Helas, Toinette !
     TOINETTE.
     Hé bien ?  
 
-    VALERE. 
+    VALERE.
         Va dire à ta Maîtresse,  
 Qu'il m'oste tout l'espoir qui flattoit ma tendresse,  
 Que malgré tant d'amour tout trahit nos souhaits,  
@@ -2391,7 +2391,7 @@ Cela suffit ; Adieu, nous en verrons l'effet.
 
 ### SCENE III.
 
-    TRIGAUDIN. *seul.*
+    TRIGAUDIN. *seul.*.
 Ce Geronte entesté de l'Hymen qu'il veut faire,  
 Avec cet Etourdy⁎ me fera quelque affaire.  
 Cherchons-le cependant, pour luy dire qu'icy  
@@ -2486,13 +2486,13 @@ TRIGAUDIN, LUCIE, GERONTE.
     LUCIE.
         Que me veut-on?  
 
-    TRIGAUDIN. *bas à Lucie.*
+    TRIGAUDIN. *bas à Lucie.*.
 Voicy nostre Homme.  
 
     LUCIE.
     Ah Ciel !  
 
-    TRIGAUDIN. *bas.*
+    TRIGAUDIN. *bas.*.
         **Ne faites pas l'Idole⁎,  
 Autrement…La voila, joüez bien vostre rôle.  
 
@@ -2502,7 +2502,7 @@ Et son Portrait n'est rien pres de l'Original :
 Souffrez que sur l'espoir de vous avoir pour Femme,  
 Je vous livre un baiser pour gage de ma flâme.  
 
-    TRIGAUDIN. *les separant.*
+    TRIGAUDIN. *les separant.*.
 Il entre en ces baisers, sans un nœud solemnel,  
 Des transports indécens d'un feu trop sensuel :  
 On sçait qu'un nœud sacré comme le Mariage,  
@@ -2580,11 +2580,11 @@ Ses caresses ?
     LUCIE.
         Daignez épargner ma pudeur.  
 
-    GERONTE. *voulant l'embrasser.*
+    GERONTE. *voulant l'embrasser.*.
 C'en est trop ; & mon feu qui s'efforce à paraistre,  
 De mon ravissement ne me sent plus le maître.  
 
-    TRIGAUDIN. *l'arrestant.*
+    TRIGAUDIN. *l'arrestant.*.
 Doucement, ces transports sont un peu trop fréquens :  
 Je vous l'ay déja dit, un Homme de bon sens  
 Ne doit point exposer, exigeant de ces preuves,  
@@ -2831,7 +2831,7 @@ La matiere chez luy fait honneur à la forme,
 Et ne presente aux yeux dans tout cet Animal,  
 Qu'un corps d'Homme, animé de l'ame d'un Cheval.  
 
-    GERONTE. *caché.*
+    GERONTE. *caché.*.
 Il débute assez bien.  
 
     TRIGAUDIN.
@@ -2850,7 +2850,7 @@ Contraindre sa tendresse à ce commerce infame,
 Contre un de vos Amis écouter ce transport,  
 Pour vous faire héritier de son bien par sa mort ?  
 
-    GERONTE. *caché.*
+    GERONTE. *caché.*.
 Comment diable ?  
 
     LUCIE.
@@ -2868,7 +2868,7 @@ Tandis que de ma part je sçaurois le résoudre
 A luy faire avaler douze grains d'une Poudre  
 Qui fera tout l'effet que je m'en suis promis.  
 
-    GERONTE. *caché.*
+    GERONTE. *caché.*.
 Le Traistre !  
 
     LUCIE.
@@ -2936,7 +2936,7 @@ Quel est ce tour.
 Fin du Troisième Acte. 
 
 
-## ACTE IV
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -3126,7 +3126,7 @@ Ce qu'en vous la Nature assemble de mérite.
 Enfin je n'obmets point à dire ce qu'il faut,  
 Pour croistre…  
 
-    GERONTE. *à part.*
+    GERONTE. *à part.*.
         **Je le crois. Ah l'effronté maraut⁎ !  
 
     TRIGAUDIN.
@@ -3163,7 +3163,7 @@ Mais pour ne point nourir une flâme indécente,
 Dispensez-vous de voir jusque-là ma Parente.  
 La vertu n'admet point de semblable complot.  
 
-    GERONTE. *à part.*
+    GERONTE. *à part.*.
 Ah qu'il seroit penaut⁎, s'il estoit pris au mot !  
 Non, si de ce delay vostre vertu s'offence,  
 Concluons cet Hymen, & faisons diligence ;  
@@ -3225,7 +3225,7 @@ Adieu, dans peu de temps je me rendray près d'elle.
 
 ### SCENE V.
 
-    TRIGAUDIN. *seul.*
+    TRIGAUDIN. *seul.*.
 Qu'il est dupe ! Allons voir… Mais ma Femme paraist.  
 
 
@@ -3322,7 +3322,7 @@ Entrons pour y songer, car je me persuade…
 TRIGAUDIN, LUCIE, LA FOREST, L'INDUSTRIE.
 
 
-    L’INDUSTRIE. *dans une Entrée.*
+    L’INDUSTRIE. *dans une Entrée.*.
 La Forest, la [202] voila, va luy donner l'aubade⁎.  
 
     LA FOREST.
@@ -3334,7 +3334,7 @@ Ma Sœur, vous dans Paris !
     TRIGAUDIN.
         Sa Soeur!  
 
-    LA FOREST. *Bas, l'embrassant.*
+    LA FOREST. *Bas, l'embrassant.*.
 Secondez comme il faut ma feinte. Quel bonheur !  
 
     TRIGAUDIN.
@@ -3358,7 +3358,7 @@ Cousin ! de quel costé ?
     TRIGAUDIN.
         C'est du costé des Femmes.  
 
-    LA FOREST. *salüant Trigaudin.*
+    LA FOREST. *salüant Trigaudin.*.
 De quelque endroit que vienne un Parent tel que vous,  
 Monsieur, assurément c'est un honneur pour nous,  
 Qui nous sera bien cher : Mais, mon Cousin, je pense  
@@ -3501,7 +3501,7 @@ Mais je le voy qui vient, ma course seroit vaine.
 TRIGAUDIN, LUCIE, LA FOREST, LA RIVIERE.
 
 
-    LA RIVIERE. *en Robe & en Soutane.*
+    LA RIVIERE. *en Robe & en Soutane.*.
 Je vay changer d'habit.  
 
     LA FOREST.
@@ -3563,7 +3563,7 @@ De croire en ma faveur, qu'aux offres de service
 Que mon zele vous fait, je prétens joindre encor  
 Tout le respect pour vous, qu'on eust pour le Veau d'or [208].  
 
-    TRIGAUDIN. *à part.*
+    TRIGAUDIN. *à part.*.
 Ma foy, Martin Braillart n'est qu'un Sot, une Beste,  
 Que je garantis tel des pieds jusqu'à la teste.  
 
@@ -3616,7 +3616,7 @@ Mais…
     LUCIE.
     Je vous suis.  
 
-    LA RIVIERE. *à Trigaudin.*
+    LA RIVIERE. *à Trigaudin.*.
         **Allons, Monsieur, je vous en prie.  
 
     LA FOREST.
@@ -3642,7 +3642,7 @@ J'entre, & j'attens chez nous vos ordres là-dessus.
 
 ### SCENE X.
 
-    TRIGAUDIN. *seul.*
+    TRIGAUDIN. *seul.*.
 Sur tout cet embarras que faut-il que je fasse ?  
 Je tombe de mon haut⁎, & tout cecy me passe.  
 Quoy, lors qu'en mes desseins tout semble prendre part,  
@@ -3662,7 +3662,7 @@ Et voyons quel remede on y poura trouver.
 Fin du Quatrième Acte. 
 
 
-## ACTE V
+## ACTE V.
 
 
 ### SCENE PREMIERE.
@@ -3738,7 +3738,7 @@ Gardez-bien le secret, & l'allez retrouver.
 
 ### SCENE II.
 
-    TRIGAUDIN *seul.*
+    TRIGAUDIN *seul.*.
 Pour peu qu'à différer son refus les engage,  
 Je feray de ce temps un assez bon usage :  
 Tandis qu'elle se va charger de ce soucy,  
@@ -3800,7 +3800,7 @@ Le Fourbe jusqu'au bout soûtient son caractere.
 
 ### SCENE IV.
 
-    TRIGAUDIN *seul.*
+    TRIGAUDIN *seul.*.
 Ce dessein est hardy, mais bien imaginé ;  
 Et cet Hymen enfin une fois terminé,  
 Quoy que puisse entreprendre ou Braillart, ou le Frere,  
@@ -3814,7 +3814,7 @@ Tandis que je sçauray… Mais le Beaufrere avance.
 TRIGAUDIN, LA FOREST.
 
 
-    LA FOREST *feignant d'estre en colere.*
+    LA FOREST *feignant d'estre en colere.*.
 Ouy, je me moqueray de vostre resistance,  
 Et vous l'épouserez.  
 
@@ -3895,7 +3895,7 @@ C'est un point que je vay décider de ce pas.
 
 ### SCENE VI.
 
-    TRIGAUDIN *seul.*
+    TRIGAUDIN *seul.*.
 Tout cet emportement ne m'épouvante pas :  
 Mais j'aperçoy Braillart qui paroît plein de flâme,  
 Je veux le dégoûter de l'hymen de ma Femme ;  
@@ -3919,7 +3919,7 @@ Cela n'est point produit par un zele ordinaire ;
 J'estois intime Amy de Monsieur vostre Pere,  
 C'estoit un Avocat fameux, dont les Ecrits…  
 
-    LA RIVIERE *à part.*
+    LA RIVIERE *à part.*.
 Il faisoit des Souliers mieux qu'Homme de Paris,  
 Tres-fameux.  
 
@@ -4058,7 +4058,7 @@ Que je l'attens icy.
 
 ### SCENE X.
 
-    TRIGAUDIN *seul.*
+    TRIGAUDIN *seul.*.
 Il faut agir ; Cecy me semble un peu gaillart⁎,  
 Et sur ce que je voy, Maistre Martin Braillart  
 Pouroit m'inquiéter, & je veux tout-à-l'heure  
@@ -4074,7 +4074,7 @@ TRIGAUDIN, GERONTE.
     GERONTE.
         Ah lâche Amy, sans honneur & sans foy !  
 
-    TRIGAUDIN *à part.*
+    TRIGAUDIN *à part.*.
 Qu'auroit-il ?   
 
     GERONTE.
@@ -4180,7 +4180,7 @@ Accusez-en, Monsieur, mon trouble & ma foiblesse,
 Pardonnez-m'en la faute, & croyez qu'à regret  
 Mon cœur s'est veu réduit à trahir ce secret.  
 
-    GERONTE *à part.*
+    GERONTE *à part.*.
 Qu'il est confus ! le sang au visage luy monte.  
 
     LA FOREST.
@@ -4202,7 +4202,7 @@ Croyez…
 Fourbe, & que si plus-tard l'on m'en eust fait l'aveu,  
 Vostre Poudre chez nous auroit joüé beau jeu.  
 
-    TRIGAUDIN *à Lucie.*
+    TRIGAUDIN *à Lucie.*.
 Auriez- vous…  
 
     LUCIE.
@@ -4264,7 +4264,7 @@ FIN.
 *Permis d'imprimer ce 10 Mars 1674.* **DE LA REYNIE.**
 
 
-# Glossaire
+# Glossaire.
     Dictionnaire françaisR.
 Dictionnaire de l'Académie Françoise, Dédié au Roy
 Dictionnaire universelF
@@ -4273,7 +4273,7 @@ Comprendre la langue des œuvres classiques, de Corneille à Châteaubriand
 Aigrefin« Terme ironique et burlesque, qui veut dire un escroc, un escamoteur. On le dit aussi dans le style bas, et par mépris d'un jeune étourdi. » (*R., 1759*)V. 1097Air«Se dit de la mine, de la contenance. » (*A, 94*)V. 767« Physionomie, mine ». *(R.)* « Ce mot vague était très à la mode. Il « veut dire je ne sais quoi qui paraît en un instant, que la nature donne et qu'on ne peut bien définir », dit Andry de Boisregard (*Réflexion sur l'Usage présent de la Langue Française, 1689*). Mais l'abus du mot le rendit ridicule. « Ceux qui parlent bien, dit le Père Bohours (*Les Entretiens d'Ariste et Eugène, 1671*) ne s'en servent qu'en riant pour se moquer des gens du *bel air* ». (*Cayr.*)AlcoveLa graphie est aujourd'hui « alcôve ». « Endroit dans une chambre séparé du reste où l'on place d'ordinaire le lit. » (*A, 94*)V. 195AlmanacAujourd'hui « almanach ». « Imprimé qui marque les fêtes et les changements de lune et de temps. » (*R.*)V. 489« On dit figurément et en raillant *Faire des almanachs* pour dire s'occuper à de vaines imaginations, à des rêveries. » (*A, 94*) Allûre« Se dit au figuré, en parlant de la conduite, des intrigues de quelqu'un. » (*F.*)V. 533 Amant« Celui qui aime » (*R.*)V. 395Aposter« Disposer, préparer quelqu'un pour s'en servir dans une méchante action. » (*A, 94*)V. 52 « Donner charge à quelqu'un de tenter, & d'entreprendre quelque chose pour faire réussir un dessein. » (*R.*) AppasOrthographié apas dans *Dictionnaire français, P. Richelet, 1680* et dont la définition est « Charmes puissants, grands attraits, beauté, agrément, plaisir. »V. 215Applaudire (s')« Se louer, se vanter soi-même. » (*A, 94*)V. 438, 825 « Se savoir bon gré de quelque chose. » (*R.*)Aprester (s')« Se préparer. » (*R.*)V. 950Astrolabes« Instrument astronomique, qui est un plan sur lequel sont décrits plusieurs cercles servant à faire des observations astronomiques. » (*A, 94*)V. 113« Instrument avec lequel on observe la hauteur, la grandeur, le mouvement et la distance des astres. » (*R.*)Babil« Vice qui consiste à trop parler (le babil est la marque d'un petit esprit). » (*R.*)V. 1306« Caquet, superfluité excessive de paroles. » (*A, 94*) Baiser« Appliquer la bouche sur quelque chose en signe d'amitié, d'amour, de respect. » (*A, 94*)V. 15Balancer« Examiner, considérer, chanceler, hésiter, ne savoir se résoudre. » (*R.*)V. 929« Peser, signifie figurément considérer mûrement dans son esprit une chose. » (*A, 94*) Blondin« On appelle *blondins* les jeunes galants qui font les beaux, parce qu'ils portent d'ordinaire des perruques blondes. » (*A, 94*)V. 962Brûler« Être consumé d'amour. Avoir de l'amour. Avoir de la passion pour quelque chose. Désirer ardemment. » (*R.*)V. 406Cadet« Se dit de celui qui est plus jeune qu'un autre, ou qui a été reçu dans une charge après un autre. (Les cadets doivent céder à leurs anciens). » (*R., 1759*)V. 484 Cajoler« Dire des paroles civiles et obligeantes. » (*R.*)V. 1576 « Flatter, louer, entretenir quelqu'un de choses qui lui plaisent et qui le touchent. »Campagnes« Temps durant lequel les armées sont ordinairement en campagne, qui est le printemps, l'été et l'automne. » (*A, 94*)V. 502Chagrin« Tristesse, fâcherie. » (*R.*)V. 1192« Mélancolie, ennuie ; fâcheuse, mauvaise humeur. » (*A, 94*)Chambre« Partie de logis où l'on habite.» (*R.*)Collation« Signifie encore ce repas léger qu'on fait au lieu de souper, particulièrement les jours de jeûnes… » (*A, 94*). « Repas qu'on fait entre le dîner et le souper. » (*R.*)V. 1182Contorsion« Mouvement du corps accompagné de postures peu agréables. » (*R.*)V. 332Divertir (Se)« Se divertir de quelqu'un : en faire son jouet et s'en moquer » (R.)« Railler, se moquer agréablement. » (*A, 94*)V. 599 Donner l'aubade« Régal de violons qu'on donne à quelqu'un pour lui marquer l'estime qu'on fait de lui, ou pour lui marquer de la joie, ou de la passion. » (*R.*)V. 1238« Concert de musique que l'on donne vers l'aube du jour, à la porte ou sous les fenêtres d'une personne. Se dit aussi figurément et à contresens d'une insulte, d'un vacarme que l'on fait à quelqu'un. » (*A, 94*) Éclater« Briller, reluire. Faire du bruit. » (*R.*)V. 1623Écot«Ce que chacun paie par tête pour avoir bu et mangé au cabaret, ou en quelque autre lieu où chacun paie ses dépens. » (*R.*)V. 35Embrasser« Serrer, étreindre avec les deux bras » (*A, 94*)V. 176EmpressemensAujourd'hui orthographié « empressements ». « Soins ardents et pleins de zèle. Bons offices. » (*R.*)V. 636« Mouvement que se donne celui qui recherche une chose avec ardeur. » (*A, 94*) Enquester (s')« S'enquérir. » (*A, 94*)V. 8Entretien« Conversation, discours qu'on a avec quelqu'un touchant quelque matière. » (*R.*)V. 871Équipage«Tout le meuble d'un particulier, état, habit. » (*R.*)V. 485« Se dit du train, de la suite, mulets, chevaux, valets, hardes… » (*A, 94*) Étourdy« Qui est un peu précipité dans sa conduite, qui a de l'imprudence. » (*R.*)V. 806Éventé« Écervelé, étourdi. » (*R.*)V. 259« Se dit d'un homme qui a l'esprit léger, écervelé, évaporé. » (*A, 94*)Facilité« Indulgence excessive. » (*A, 94*)V. 1064Faire commerce« Trafic, négoce de marchandise, d'argent, soit en gros, soit en détail. » (*A, 94*)V. 604 Fanfaron« Qui veut passer pour brave et qui ne l'est pas. Se dit aussi pour celui qui se vante au delà de la vérité ou de la bienséance. » (*A, 94*)V. 486Faquin« Homme de néant. Un misérable sans mérite, sans honneur et sans cœur. » (*R.*) « Terme de mépris et d'injure qui se dit d'un homme de néant, d'un homme qui fait des actions indignes d'un honnête homme. » (*A, 94*)V. 776Feu(x)« Se dit poétiquement pour signifier la passion de l'amour ». (*A, 94*)V. 395, 422, 1152Fiel« Signifie figurément haine, animosité. » (*A, 94*)V. 1725 « Haine, ressentiment, aigreur, colère. » (*R.*) Fille« Se dit simplement pour marquer simplement le sexe féminin. Se dit aussi par opposition à la femme mariée. » (*A, 94*)V. 878Fin« Se dit des personnes et signifie habile, avisé, rusé.» (*A, 94*)V. 1575FoyAujourd'hui orthographié foi. « Assurance donnée de garder sa parole, sa promesse. » (*A, 94*)V. 235, 375Fracas« Bruit, tumulte, désordre. » (*A, 94*)V. 485Fripon« Méchant, maraud, fourbe et coquin. » (*R.*) « Fourbe qui n'a ni honneur, ni foy, ni probité. » (*A, 94*)V. 531Friponne« Coquine, fourbe et méchante. » (*R.*)V. 953Gager« Parier » (*R.*)V. 163 GaillartS'écrit de nos jours « gaillard ». « Un peu trop libre, plaisant » (*R.*). « Chose hardies, périlleuses, nouvelles, extraordinaires. » (*A, 94*) V. 1647Galants« Celui qui aime une Dame et qui en est aimé. » (*R.*)V. 149« Se dit le plus ordinairement de celui qui fait (sa cour) à une femme mariée, ou à une fille qu'il n'a pas dessein d'épouser. » (*A, 94*)Garnement« Libertin, et dont la vie est un peu déréglée. » (*R.*)V. 655 « Fripon, vau-rien. » (*A, 94*)Gaster« Changer de bien en mal. Corrompre, Rendre pire. » (*R.*)V. 130Gendarmer (Se)« Se fâcher. Se piquer de quelque chose, s'en alarmer, s'en mettre en colère. » (*R.*)V. 623GesnerSignifie faire souffrir.V. 307, 562La gesne est aussi une torture. Elle se dit également « de toute peine ou affliction de corps ou d'esprit.Les poètes mettent leur esprit à la gesne, à la torture pour trouver des anagrammes. » (*F*.)Gorge« Sein de femme. » (*R.*)V. 174 Gourmander« Maltraiter une personne de paroles. Quereller. » (*R.*) V. 669« Traiter rudement, impérieusement de paroles. » (*A, 94*) Hableur« *L'h de ce mot est aspirée.* Grand parleur, celui qui à force de trop parler et de trop exagérer ment. » (*R.*)V. 76 Heur« Bonne fortune. » (*A, 94*) « Ce mot signifie bonheur, mais il est bas et peu usité *& se prononce sans faire sentir son h*. » (*R.*)V. 818Idole« On appelle Idole une personne qui paraît stupide ou qui ne se donne pas assez de mouvement.» (*A, 94*)V. 837 Impudente« Effrontée. » (*R.*)V. 1519 Innocente« Bonne et simple. » (*R.*)V. 681 Intelligence« Amitié, union, paix, liaison, concorde. » (*R.*)V. 566, 1438« Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre. » (*A, 94*) Joug« Prononcez *jouc*. » (*R.*) « Il signifie figurément servitude, sujétion. » (*A, 94*)V. 98 Justement« Précisément, à point nommé. » (*R.*)V. 770 Languissans« Plein d'amour, amoureux, plein d'une langueur amoureuse. » (*R.*)V. 173 Larder« Piquer de la viande avec une lardoire et y laisser le lardon. » (*R*). « On dit figurément *larder de coups d'épée* pour dire percer de plusieurs coups d'épée. » (*A, 94*)V. 1141 Liards« Petite pièce de monnaie blanche qui vaut trois deniers et qui avait cours au temps de François Premier. » (*R.*)V. 110MarautOrthographié *Maraud* dans le dictionnaire de P. Richelet. « Coquin, fripon. » (*R.*) « Terme d'injure et de mépris. » (*A, 94*)V. 36, 1136Mâtin« Gros chien. » (*R.*)V. 348 Mine« Façon, manière et action d'une personne, air d'une personne. » (*R.*) V. 10 Mitonner« Mitonner quelqu'un : Ménager adroitement son esprit en vue d'en tirer quelque avantage. » (A, 94)V. 952 Mutin« Opiniâtre, obstiné. » (*R.*)V. 259 ObjetDésigne « la personne aimée, qui est alors l'« objet » du désir amoureux. » (*H. & P.*)V. 186Obligé de« Qui a reçu un bon office, qui a obligation envers une personne parce qu'il en a reçu quelque plaisir. » (*R.*)V. 1632 Occurrence« Rencontre, conjoncture. » (*R.*)V. 1709 OysonOrthographié *oison* dans le dictionnaire de P. Richelet. « Sot, ou sotte, niais, qui est fat et innocent. » (*R.*)V. 981« Se dit figurément pour dire que c'est un idiot à qui l'on fait faire tout ce qu'on veut. » (*A, 94*)PartyOrthographié *parti* dans le dictionnaire de P. Richelet. « Avantage, offre qu'on présente à quelqu'un. Chose avantageuse, utile et considérable pour une personne. » (*R.*)V. 1520Peine« Inquiétude, ennui, chagrin, fâcherie. » (*R.*)V. 185Penaut« Qui est embarrassé, honteux, interdit. » (*A, 94*) (Ce mot est orthographié *penaud* dans ce dictionnaire.)V. 1164 Pendard« Prononcez *pandar*. Méchant, coquin, fripon, scélérat. » (*R.*)V. 700 PétulentOrthographié *pétulant* dans le dictionnaire de P. Richelet. « Qui a une sorte de conduite emportée et insolente. » (*R.*)V. 1306Pied-platOrthographié *pié-plat* dans le dictionnaire de P. Richelet. « Misérable, coquin, rustre, grossier. » (*R.*) N. B. : « Il se dit proprement « d'un rustre, d'un paysan qui a des souliers tout unis » (*Dictionnaire universel, A. Furetière, 1690*), au lieu de porter de hauts talons, comme les gentilshommes » (*Cayr.*)V. 348Plaire (Se)« Trouver du plaisir et de la satisfaction en quelque chose, en quelque lieu, ou avec quelque personne. » *(R.*)V. 123 Portée« Se dit des personnes, et veut dire capacité, ce que peut faire une personne, ce que peut produire son esprit. » (*R.*)V. 32Presse« Foule, multitude de monde. » (*R.*)V. 1309 Provision« Ce mot se dit en parlant d'offices civils. Ce sont des lettres repliées et scellées du sceau de la grande Chancellerie de France par lesquelles le Roi déclare qu'étant informé de la capacité d'une personne, il donne à cette personne l'office vacant pour en jouir dans tous ses droits avec ordre à ceux à qui il appartient de recevoir cette personne dans la charge dont il est pourvu. » (*R.*)V. 1371 Raillerie« Mot plaisant et satirique, moquerie. » (*R.*)V. 592 RégulierCelui « qui vit selon les règles et les canons de l'Église. Qui observe telles règles. Qui est fait dans les formes et selon les règles de l'art. Qui ne fait rien contre son devoir. » (*R.*)V. 607Rendre des soins« On dit rendre des soins à quelqu'un pour dire : Le voir avec assiduité et lui faire sa cour. » (A, 94)V. 424, 584RévoquerAvec un complément d'objet signifie « retirer, annuler » (*Cayr.*)V. 478Rire (Se)« Se moquer. » (*R.*)V. 1224 SçavoirOrthographié *savoir* dans le dictionnaire de P. Richelet. « Connaître, découvrir. » (*R.*)V. 708ScéleratOrthographié *sélérat* dans le dictionnaire de P. Richelet. « Ce mot se dit des personnes et des choses, et veut dire méchant, perfide, noir, malin. » (*R.*)V. 1048Signalé« Considérable, particulier, remarquable. » (*R.*)V. 1722 Soins« Application d'esprit à faire quelque chose. » (*A, 94*)V. 799 Souffrir«Endurer, avoir de la peine, supporter. » (*R.*)V. 440Suffisance« Orgueil. » (*R.*) « Vanité, présomption. » (*A, 94*)V. 25 Témoigner« Faire paraître, faire voir, faire éclater, découvrir. » (*R.*)V. 11 Tendresse« Se mot ne se dit bien qu'au figuré dans le discours ordinaire, et il veut dire amitié, amour. » (*R.*)V. 421, 562 Tenir (en)« Se laisser tromper, croire à des mensonges. » (*Cayr.*) « Être pris, être dupé, être attrapé. » (*R.*)V. 11Timbré« Mot burlesque qui n'entre que dans la conversation et le style comique, et qui veut dire qui a bonne tête, qui est sage. » (*R.*)V. 1316 Tomber de son haut« Être extrêmement surpris de quelque chose. » (*A, 94*)V. 1414Transports« Se dit… figurativement en choses morales du trouble ou de l'agitation de l'âme » (*Dictionnaire universel, A. Furetière, 1690*), « de toute violente émotion, agréable ou désagréable, qui nous met hors de nous ; emportement, égarement, élan de passion, en parlant de l'amour, de l'ambition, du désespoir, de la colère… » (*Cayr.*)V. 382, 1080 Travaille (se)« Se donner de la peine, se fatiguer à une tâche, se torturer moralement ou physiquement. » (*H. & P.*)V. 509Verbiage« Paroles inutiles. » (*R.*)V. 181 Vertu« Se dit de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite » (*Cayr.*)V. 557 « Habitude de l'âme qui la porte à faire le bien et à fuir le mal. » (*A, 94*)Violence« Exaction, sorte de tirannie. » (*R., 1759*)V. 389
 
 
-# Bibliographie d'Antoine Jacob, dit Montfleury
+# Bibliographie d'Antoine Jacob, dit Montfleury.
 
 Le mariage de rien : comédie en vers de 8 syllabes, en 1 acte, 1660
 
@@ -4310,21 +4310,21 @@ La dame médecin : comédie en vers, en 5 actes, 1678
 La dupe de soi-même : comédie en vers, en 5 actes. Sans date, et peut-être non représentée.
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions collectivesLes œuvres de MONTFLEURY.
+## Éditions collectives.Les œuvres de MONTFLEURY.
 LES ŒUVRES DE MONSIEUR MONT-FLEURY, contenant ses pièces de THEATRE, représentées par la Troupe des Comédiens du Roy à PARIS.*ère*
 CHEF-D'ŒUVRE DE MONTFLEURY
 
 
 
-## Ouvrages bibliographiquesBibliographie der Französischen Literaturwissenschaft
+## Ouvrages bibliographiques.Bibliographie der Französischen Literaturwissenschaft
 Bibliographie de la littérature française de XVII*e* siècle
 
 
 
-## Ouvrages générauxLes Genres littéraires
+## Ouvrages généraux.Les Genres littéraires
 Les Genres littéraires
 La Versification appliquée aux textes
 Les Figures de style
@@ -4339,7 +4339,7 @@ Dictionnaire du théâtre
 
 
 
-## Ouvrages généraux sur le théâtreLe Théâtre
+## Ouvrages généraux sur le théâtre.Le Théâtre
 Lire le théâtre
  Le Théâtre de l'Hôtel de Bourgogne
 Introduction à l'analyse du théâtre
@@ -4351,7 +4351,7 @@ Le Langage dramatique
 
 
 
-## Ouvrages sur la comédieLire la comédie
+## Ouvrages sur la comédie.Lire la comédie
 La Comédie
 La Comédie de l'âge classique
 La Comédie à l'âge classique
@@ -4360,7 +4360,7 @@ Visages du théâtre français au XVII*e* siècle
 
 
 
-## Ouvrages relatifs à MontfleuryHistoire du théâtre françois
+## Ouvrages relatifs à Montfleury.Histoire du théâtre françois
 Histoire du théâtre françois depuis son origine jusqu'à présent
  Le Registre de La Grange, 1659-1685, reproduit en fac-similé
 Archives de la Comédie Française ; Registre de La Grange (1658-1685)
@@ -4380,7 +4380,7 @@ Le Dialogue moliéresque, étude stylistique et dramaturgique
 
 
 
-## ArticlesDa Molière a Marivaux
+## Articles.Da Molière a Marivaux
 XVII*e* siècle
 , XVII*e* siècle
 XVII*e* siècle

@@ -16,7 +16,7 @@ Par J. B. P. MOLIERE
 
 
 
-# Acteurs
+# Acteurs.
  – Jupiter.
  – Vénus.
  – L'Amour.
@@ -33,13 +33,13 @@ Par J. B. P. MOLIERE
  – Le Dieu d'un fleuve.
 
 
-# Prologue
+# Prologue.
 La Scène représente sur le devant un Lieu champêtre, et dans l'enfoncement un Rocher percé à jour, à travers duquel on voit la Mer en éloignement.
 
 Flore paraît au milieu du Théâtre, accompagnée de Vertumne Dieu des Arbres et des Fruits, et de Palæmon Dieu des Eaux. Chacun de ces Dieux conduit une Troupe de Divinités ; l'un mène à sa suite des Dryades et des Sylvains ; et l'autre des Dieux, des Fleuves et des Naïades. Flore chante ce Récit pour inviter Vénus à descendre en Terre.
 
 
-    
+    .
 Ce n'est plus le temps de la Guerre ;  
 Le plus puissant des Rois  
 Interrompt ses Exploits  
@@ -59,19 +59,19 @@ Venez nous donner de beaux jours.
 Il se fait ensuite une Entrée de Ballet, composée de Dryades, quatre Sylvains, deux Fleuves, et de Naïades. Après laquelle, Vertumne et Palaemon chantent ce Dialogue.
 
 
-    VERTUMNE
+    VERTUMNE.
 Rendez-vous, Beautés cruelles,  
 Soupirez à votre tour.  
 
-    PALÆMON
+    PALÆMON.
 Voici la Reine des Belles,  
 Qui vient inspirer l'amour.  
 
-    VERTUMNE
+    VERTUMNE.
 Un bel Objet toujours sévère  
 Ne se fait jamais bien aimer.  
 
-    PALÆMON
+    PALÆMON.
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
 Ils répètent ensemble ces derniers Vers.
@@ -79,25 +79,25 @@ Ils répètent ensemble ces derniers Vers.
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
 
-    VERTUMNE
+    VERTUMNE.
 Souffrons tous qu'Amour nous blesse ;  
 Languissons, puisqu'il le faut.  
 
-    PALÆMON
+    PALÆMON.
 Que sert un cœur sans tendresse ?  
 Est-il un plus grand défaut ?  
 
-    VERTUMNE
+    VERTUMNE.
 Un bel Objet toujours sévère  
 Ne se fait jamais bien aimer.  
 
-    PALÆMON
+    PALÆMON.
 C'est la beauté qui commence de plaire,  
 Mais la douceur achève de charmer.  
 Flore répond au Dialogue de Vertumne et de Palaemon, par ce Menuet ; et les autres Divinités y mêlent leurs Danses.
 
 
-    
+    .
 
 Est-on sage  
 Dans le bel âge,  
@@ -131,7 +131,7 @@ Au plus grand ROI du Monde.
 Descendez, Mère des Amours,  
 Venez nous donner de beaux jours.  
 
-    VÉNUS* dans sa Machine*
+    VÉNUS* dans sa Machine*.
 Cessez, cessez pour moi tous vos chants d'allégresse :  
 De si rares honneurs ne m'appartiennent pas,  
 Et l'hommage qu'ici votre bonté m'adresse  
@@ -159,13 +159,13 @@ Cacher ma honte et ma douleur.
 Flore et les autres Déités se retirent, et Vénus avec sa Suite sort de sa Machine.
 
 
-    ÆGIALE
+    ÆGIALE.
 Nous ne savons, Déesse, comment faire,  
 Dans ce chagrin qu'on voit vous accabler :  
 Notre respect veut se taire,  
 Notre zèle veut parler.  
 
-    VÉNUS
+    VÉNUS.
 Parlez, mais si vos soins aspirent à me plaire,  
 Laissez tous vos conseils pour une autre saison,  
 Et ne parlez de ma colère,  
@@ -175,13 +175,13 @@ Que ma divinité pût jamais recevoir ;
 Mais j'en aurai la vengeance,  
 Si les Dieux ont du pouvoir.  
 
-    PHAÈNE
+    PHAÈNE.
 Vous avez plus que nous de clartés, de sagesse,  
 Pour juger ce qui peut être digne de vous :  
 Mais pour moi, j'aurais cru qu'une grande Déesse  
 Devrait moins se mettre en courroux.  
 
-    VÉNUS
+    VÉNUS.
 Et c'est là la raison de ce courroux extrême.  
 Plus mon rang a d'éclat, plus l'affront est sanglant,  
 Et si je n'étais pas dans ce degré suprême,  
@@ -206,15 +206,15 @@ Et du haut des cieux où je brille,
 J'entendrai prononcer aux Mortels prévenus :  
 Elle est plus belle que Vénus !  
 
-    ÆGIALE
+    ÆGIALE.
 Voilà comme l'on fait, c'est le style des Hommes,  
 Ils sont impertinents dans leurs comparaisons.  
 
-    PHAÈNE
+    PHAÈNE.
 Ils ne sauraient louer, dans le Siècle où nous sommes,  
 Qu'ils n'outragent les plus grands noms.  
 
-    VÉNUS
+    VÉNUS.
 Ah ! que de ces trois mots la rigueur insolente  
 Venge bien Junon et Pallas,  
 Et console leurs cœurs de la gloire éclatante  
@@ -251,14 +251,14 @@ Fais que jusqu'à la rage elle soit enflammée,
 Et qu'elle ait à souffrir le supplice cruel  
 D'aimer, et n'être point aimée.  
 
-    L’AMOUR
+    L’AMOUR.
 Dans le monde on n'entend que plaintes de l'Amour,  
 On m'impute partout mille fautes commises,  
 Et vous ne croiriez point le mal et les sottises  
 Que l'on dit de moi chaque jour.  
 Si pour servir votre colère…  
 
-    VÉNUS
+    VÉNUS.
 Va, ne résiste point aux souhaits de ta Mère,  
 N'applique tes raisonnements  
 Qu'à chercher les plus prompts moments  
@@ -271,14 +271,14 @@ La Scène est changée en une grande Ville, où l'on découvre des deux côtés,
 
 
 
-# Acte I
+# Acte I.
 
 
-## Scène Première
+## Scène Première.
 Aglaure, Cidippe
 
 
-    AGLAURE
+    AGLAURE.
 Il est des maux, ma Sœur, que le silence aigrit,  
 Laissons, laissons parler mon chagrin et le vôtre,  
 Et de nos cœurs l'un à l'autre  
@@ -310,13 +310,13 @@ Que de voir tous les cœurs mépriser nos appas,
 Et l'heureuse Psyché jouir avec audace  
 D'une foule d'Amants attachés à ses pas ?  
 
-    CIDIPPE
+    CIDIPPE.
 Ah, ma Sœur, c'est une aventure  
 À faire perdre la raison,  
 Et tous les maux de la Nature,  
 Ne sont rien en comparaison.  
 
-    AGLAURE
+    AGLAURE.
 Pour moi j'en suis souvent jusqu'à verser des larmes ;  
 Tout plaisir, tout repos, par là m'est arraché  
 Contre un pareil malheur ma constance est sans armes,  
@@ -331,13 +331,13 @@ Dans mon esprit aussitôt
 Quelque songe la rappelle,  
 Qui me réveille en sursaut.  
 
-    CIDIPPE
+    CIDIPPE.
 Ma Sœur, voilà mon martyre,  
 Dans vos discours je me vois,  
 Et vous venez là de dire  
 Tout ce qui se passe en moi.  
 
-    AGLAURE
+    AGLAURE.
 Mais encor, raisonnons un peu sur cette affaire.  
 Quels charmes si puissants en elle sont épars,  
 Et par où, dites-moi, du grand secret de plaire,  
@@ -361,7 +361,7 @@ Que mon mérite au sien doive céder la place,
 Et dans quelque ajustement  
 Trouvez-vous qu'elle m'efface ?  
 
-    CIDIPPE
+    CIDIPPE.
 Qui, vous, ma Sœur ? nullement.  
 Hier à la Chasse, près d'elle,  
 Je vous regardai longtemps,  
@@ -372,7 +372,7 @@ Sont-ce des visions que je me mets en tête,
 Quand je me crois taillée à pouvoir mériter  
 La gloire de quelque conquête ?  
 
-    AGLAURE
+    AGLAURE.
 Vous, ma Sœur, vous avez, sans nul déguisement,  
 Tout ce qui peut causer une amoureuse flamme ;  
 Vos moindres actions brillent d'un agrément  
@@ -380,19 +380,19 @@ Dont je me sens toucher l'âme ;
 Et je serais votre Amant,  
 Si j'étais autre que Femme.  
 
-    CIDIPPE
+    CIDIPPE.
 D'où vient donc qu'on la voit l'emporter sur nous deux,  
 Qu'à ses premiers regards les cœurs rendent les armes,  
 Et que d'aucun tribut de soupirs et de vœux  
 On ne fait honneur à nos charmes ?  
 
-    AGLAURE
+    AGLAURE.
 Toutes les Dames d'une voix  
 Trouvent ses attraits peu de chose,  
 Et du nombre d'Amants qu'elle tient sous ses lois,  
 Ma Sœur, j'ai découvert la cause.  
 
-    CIDIPPE
+    CIDIPPE.
 Pour moi je la devine, et l'on doit présumer  
 Qu'il faut que là-dessous soit caché du mystère :  
 Ce secret de tout enflammer  
@@ -401,7 +401,7 @@ L'Art de la Thessalie entre dans cette affaire,
 Et quelque main a su sans doute lui former  
 Un charme pour se faire aimer.  
 
-    AGLAURE
+    AGLAURE.
 Sur un plus fort appui ma croyance se fonde,  
 Et le charme qu'elle a pour attirer les cœurs,  
 C'est un air en tout temps désarmé de rigueurs,  
@@ -418,7 +418,7 @@ On est bien descendu dans le Siècle où nous sommes,
 Et l'on en est réduite à n'espérer plus rien,  
 À moins que l'on se jette à la tête des Hommes.  
 
-    CIDIPPE
+    CIDIPPE.
 Oui, voilà le secret de l'affaire, et je vois  
 Que vous le prenez mieux que moi.  
 C'est pour nous attacher à trop de bienséance,  
@@ -434,110 +434,110 @@ Abaissons-nous, ma Sœur, à faire des avances,
 Et ne ménageons plus de tristes bienséances  
 Qui nous ôtent les fruits du plus beau de nos ans.  
 
-    AGLAURE
+    AGLAURE.
 J'approuve la pensée, et nous avons matière  
 D'en faire l'épreuve première  
 Aux deux Princes qui sont les derniers arrivés.  
 Ils sont charmants, ma Sœur, et leur personne entière  
 Me… Les avez-vous observés ?  
 
-    CIDIPPE
+    CIDIPPE.
 Ah, ma Sœur, ils sont faits tous deux d'une manière,  
 Que mon âme… Ce sont deux Princes achevés.  
 
-    AGLAURE
+    AGLAURE.
 Je trouve qu'on pourrait rechercher leur tendresse,  
 Sans se faire déshonneur.  
 
-    CIDIPPE
+    CIDIPPE.
 Je trouve que sans honte une belle Princesse  
 Leur pourrait donner son cœur.  
 
 
-## Scène II
+## Scène II.
 Cléomène, Agénor, Aglaure, Cidippe
 
 
-    AGLAURE
+    AGLAURE.
 Les voici tous deux, et j'admire  
 Leur air et leur ajustement.  
 
-    CIDIPPE
+    CIDIPPE.
 Ils ne démentent nullement  
 Tout ce que nous venons de dire.  
 
-    AGLAURE
+    AGLAURE.
 D'où vient, Princes, d'où vient que vous fuyez ainsi ?  
 Prenez-vous l'épouvante, en nous voyant paraître ?  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 On nous faisait croire qu'ici  
 La Princesse Psyché, Madame, pourrait être.  
 
-    AGLAURE
+    AGLAURE.
 Tous ces lieux n'ont-ils rien d'agréable pour vous,  
 Si vous ne les voyez ornés de sa présence ?  
 
-    AGÉNOR
+    AGÉNOR.
 Ces lieux peuvent avoir des charmes assez doux ;  
 Mais nous cherchons Psyché dans notre impatience.  
 
-    CIDIPPE
+    CIDIPPE.
 Quelque chose de bien pressant  
 Vous doit à la chercher pousser tous deux sans doute.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Le motif est assez puissant,  
 Puisque notre fortune enfin en dépend toute.  
 
-    AGLAURE
+    AGLAURE.
 Ce serait trop à nous, que de nous informer  
 Du secret que ces mots nous peuvent enfermer.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Nous ne prétendons point en faire de mystère ;  
 Aussi bien malgré nous paraîtrait-il au jour,  
 Et le secret ne dure guère,  
 Madame, quand c'est de l'amour.  
 
-    CIDIPPE
+    CIDIPPE.
 Sans aller plus avant, Princes, cela veut dire,  
 Que vous aimez Psyché tous deux.  
 
-    AGÉNOR
+    AGÉNOR.
 Tous deux soumis à son empire  
 Nous allons de concert lui découvrir nos feux.  
 
-    AGLAURE
+    AGLAURE.
 C'est une nouveauté sans doute assez bizarre,  
 Que deux Rivaux si bien unis.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Il est vrai que la chose est rare,  
 Mais non pas impossible à deux parfaits Amis.  
 
-    CIDIPPE
+    CIDIPPE.
 Est-ce que dans ces lieux il n'est qu'elle de belle,  
 Et n'y trouvez-vous point à séparer vos vœux ?  
 
-    AGLAURE
+    AGLAURE.
 Parmi l'éclat du sang, vos yeux n'ont-ils vu qu'elle  
 À pouvoir mériter vos feux ?  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Est-ce que l'on consulte au moment qu'on s'enflamme ?  
 Choisit-on qui l'on veut aimer ?  
 Et pour donner toute son âme,  
 Regarde-t-on quel droit on a de nous charmer ?  
 
-    AGÉNOR
+    AGÉNOR.
 Sans qu'on ait le pouvoir d'élire,  
 On suit, dans une telle ardeur  
 Quelque chose qui nous attire,  
 Et lorsque l'Amour touche un cœur,  
 On n'a point de raisons à dire.  
 
-    AGLAURE
+    AGLAURE.
 En vérité, je plains les fâcheux embarras  
 Où je vois que vos cœurs se mettent ;  
 Vous aimez un Objet dont les riants appas  
@@ -545,69 +545,69 @@ Mêleront des chagrins à l'espoir qu'ils vous jettent,
 Et son cœur ne vous tiendra pas  
 Tout ce que ses yeux vous promettent.  
 
-    CIDIPPE
+    CIDIPPE.
 L'espoir qui vous appelle au rang de ses Amants  
 Trouvera du mécompte aux douceurs qu'elle étale ;  
 Et c'est pour essuyer de très fâcheux moments,  
 Que les soudains retours de son âme inégale.  
 
-    AGLAURE
+    AGLAURE.
 Un clair discernement de ce que vous valez  
 Nous fait plaindre le Sort où cet amour vous guide,  
 Et vous pouvez trouver tous deux, si vous voulez,  
 Avec autant d'attraits, une âme plus solide.  
 
-    CIDIPPE
+    CIDIPPE.
 Par un choix plus doux de moitié  
 Vous pouvez de l'Amour sauver votre amitié,  
 Et l'on voit en vous deux un mérite si rare,  
 Qu'un tendre avis veut bien prévenir par pitié  
 Ce que votre cœur se prépare.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Cet avis généreux fait pour nous éclater  
 Des bontés qui nous touchent l'âme ;  
 Mais le Ciel nous réduit à ce malheur, Madame,  
 De ne pouvoir en profiter.  
 
-    AGÉNOR
+    AGÉNOR.
 votre illustre pitié veut en vain nous distraire  
 D'un amour dont tous deux nous redoutons l'effet ;  
 Ce que notre amitié, Madame, n'a pas fait,  
 Il n'est rien qui le puisse faire.  
 
-    CIDIPPE
+    CIDIPPE.
 Il faut que le pouvoir de Psyché… La voici.  
 
 
-## Scène III
+## Scène III.
 Psyché, Cidippe, Aglaure, Cléomène, Agénor.
 
 
-    CIDIPPE
+    CIDIPPE.
 Venez jouir, ma Sœur, de ce qu'on vous apprête.  
 
-    AGLAURE
+    AGLAURE.
 Préparez vos attraits à recevoir ici  
 Le triomphe nouveau d'une illustre conquête.  
 
-    CIDIPPE
+    CIDIPPE.
 Ces Princes ont tous deux si bien senti vos coups,  
 Qu'à vous le découvrir leur bouche se dispose.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Du sujet qui les tient si rêveurs parmi nous  
 Je ne me croyais pas la cause,  
 Et j'aurais cru toute autre chose  
 En les voyant parler à vous.  
 
-    AGLAURE
+    AGLAURE.
 N'ayant ni beauté, ni naissance  
 À pouvoir mériter leur amour et leurs soins,  
 Ils nous favorisent au moins  
 De l'honneur de la confidence.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 L'aveu qu'il nous faut faire à vos divins appas,  
 Est sans doute, Madame, un aveu téméraire ;  
 Mais tant de cœurs près du trépas,  
@@ -636,7 +636,7 @@ Sur le choix de l'un de nous deux,
 Cette même amitié s'offre sans répugnance  
 D'unir nos deux États au sort du plus heureux.  
 
-    AGÉNOR
+    AGÉNOR.
 Oui, de ces deux États, Madame,  
 Que sous votre heureux choix nous nous offrons d'unir,  
 Nous voulons faire à notre flamme  
@@ -648,7 +648,7 @@ Et c'est au plus heureux faire un don nécessaire
 D'un pouvoir dont le malheureux,  
 Madame, n'aura plus affaire.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Le choix que vous m'offrez, Princes, montre à mes yeux  
 De quoi remplir les vœux de l'âme la plus fière,  
 Et vous me le parez tous deux d'une manière,  
@@ -692,7 +692,7 @@ Qui peuvent bien vous faire un destin assez doux,
 Et l'amitié me rend leur personne assez chère,  
 Pour vous souhaiter leurs Époux.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Un cœur dont l'amour est extrême  
 Peut-il bien consentir, hélas,  
 D'être donné par ce qu'il aime ?  
@@ -702,7 +702,7 @@ Disposez-en pour le trépas,
 Mais pour une autre que vous-même  
 Ayez cette bonté de n'en disposer pas.  
 
-    AGÉNOR
+    AGÉNOR.
 Aux Princesses, Madame, on ferait trop d'outrage,  
 Et c'est pour leurs attraits un indigne partage,  
 Que les restes d'une autre ardeur ;  
@@ -712,7 +712,7 @@ Où votre bonté nous appelle,
 Et chacune mérite un cœur  
 Qui n'ait soupiré que pour elle.  
 
-    AGLAURE
+    AGLAURE.
 Il me semble, sans nul courroux,  
 Qu'avant que de vous en défendre,  
 Princes, vous deviez bien attendre  
@@ -721,71 +721,71 @@ Nous croyez-vous un cœur si facile et si tendre ?
 Et lorsqu'on parle ici de vous donner à nous,  
 Savez-vous si l'on veut vous prendre ?  
 
-    CIDIPPE
+    CIDIPPE.
 Je pense que l'on a d'assez hauts sentiments  
 Pour refuser un cœur qu'il faut qu'on sollicite,  
 Et qu'on ne veut devoir qu'à son propre mérite  
 La conquête de ses Amants.  
 
-    PSYCHÉ
+    PSYCHÉ.
 J'ai cru pour vous, mes Sœurs, une gloire assez grande,  
 Si la possession d'un mérite si haut…  
 
 
-## Scène IV
+## Scène IV.
 Lycas, Psyché, Aglaure, Cidippe, Cléomène, Agénor
 
 
-    LYCAS
+    LYCAS.
 Ah, Madame !  
 
-    PSYCHÉ
+    PSYCHÉ.
 Qu'as-tu ?  
 
-    LYCAS
+    LYCAS.
 Le Roi…  
 
-    PSYCHÉ
+    PSYCHÉ.
 Quoi ?  
 
-    LYCAS
+    LYCAS.
 Vous demande.  
 
-    PSYCHÉ
+    PSYCHÉ.
 De ce trouble si grand que faut-il que j'attende ?  
 
-    LYCAS
+    LYCAS.
 Vous ne le saurez que trop tôt.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Hélas ! que pour le Roi tu me donnes à craindre !  
 
-    LYCAS
+    LYCAS.
 Ne craignez que pour vous, c'est vous que l'on doit plaindre.  
 
-    PSYCHÉ
+    PSYCHÉ.
 C'est pour louer le Ciel, et me voir hors d'effroi,  
 De savoir que je n'aie à craindre que pour moi.  
 Mais apprends-moi, Lycas, le sujet qui te touche.  
 
-    LYCAS
+    LYCAS.
 Souffrez que j'obéisse à qui m'envoie ici,  
 Madame, et qu'on vous laisse apprendre de sa bouche  
 Ce qui peut m'affliger ainsi.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Allons savoir sur quoi l'on craint tant ma faiblesse.  
 
 
-## Scène V
+## Scène V.
 Aglaure, Cidippe, Lycas
 
 
-    AGLAURE
+    AGLAURE.
 Si ton ordre n'est pas jusqu'à nous étendu,  
 Dis-nous quel grand malheur nous couvre ta tristesse.  
 
-    LYCAS
+    LYCAS.
 Hélas ! ce grand malheur dans la Cour répandu,  
 Voyez-le vous-même, Princesse,  
 Dans l'Oracle qu'au Roi les Destins ont rendu.  
@@ -807,75 +807,75 @@ Si par de plus cruels et plus sensibles coups
 Tous les Dieux nous pouvaient expliquer leur colère.  
 
 
-## Scène VI
+## Scène VI.
 Aglaure, Cidippe
 
 
-    CIDIPPE
+    CIDIPPE.
 Ma Sœur, que sentez-vous à ce soudain malheur  
 Où nous voyons Psyché par les Destins plongée ?  
 
-    AGLAURE
+    AGLAURE.
 Mais vous, que sentez-vous, ma Sœur ?  
 
-    CIDIPPE
+    CIDIPPE.
 À ne vous point mentir, je sens que dans mon cœur  
 Je n'en suis pas trop affligée.  
 
-    AGLAURE
+    AGLAURE.
 Moi, je sens quelque chose au mien  
 Qui ressemble assez à la joie.  
 Allons, le Destin nous envoie  
 Un mal que nous pouvons regarder comme un bien.  
 
 
-# Premier Intermède
+# Premier Intermède.
 La Scène est changée en des Rochers affreux, et fait voir en éloignement une Grotte effroyable.
 
 C'est dans ce Désert que Psyché doit être exposée pour obéir à l'Oracle. Une Troupe de Personnes affligées y viennent déplorer sa disgrâce. Une partie de cette Troupe désolée témoigne sa pitié par des Plaintes touchantes, et par des Concerts lugubres ; et l'autre exprime sa désolation par une Danse pleine de toutes les marques du plus violent désespoir.
 < PLAINTES EN ITALIEN. Chantées par une Femme désolée, et deux Hommes affligés. >
 
-    FEMME DÉSOLÉE
+    FEMME DÉSOLÉE.
 Deh, piangete al pianto mio,  
 Sassi duri, antiche selve,  
 Lagrimate, fonti e belve  
 D'un bel voto il fato rio.  
 
-    PREMIER HOMME AFFLIGÉ
+    PREMIER HOMME AFFLIGÉ.
 Ahi dolore !  
 
-    SECOND HOMME AFFLIGÉ
+    SECOND HOMME AFFLIGÉ.
 Ahi martire !  
 
-    PREMIER HOMME AFFLIGÉ
+    PREMIER HOMME AFFLIGÉ.
 Cruda morte !  
 
-    SECOND HOMME AFFLIGÉ
+    SECOND HOMME AFFLIGÉ.
 Empia sorte !  
 
-    TOUS TROIS
+    TOUS TROIS.
 che condanni a morir tanta beltà.  
 Cieli, stelle, ahi crudeltà.  
 
-    SECOND HOMME AFFLIGÉ
+    SECOND HOMME AFFLIGÉ.
 Com'esser puô fra voi, o Numi eterni,  
 Chi voglia estinta una beltà innocente ?  
 Ahi ! che tanto rigor, Cielo inclemente,  
 Vince di crudeltà gli stessi Inferni.  
 
-    PREMIER HOMME AFFLIGÉ
+    PREMIER HOMME AFFLIGÉ.
 Nume fiero !  
 
-    SECOND HOMME AFFLIGÉ
+    SECOND HOMME AFFLIGÉ.
 Dio severo !  
 
-    ENSEMBLE
+    ENSEMBLE.
 Perchè tanto rigor  
 Contro innocente cor ?  
 Ahi ! sentenza inaudita,  
 Dar morte a la Beltà, ch'altrui dà vita.  
 
-    FEMME DÉSOLÉE
+    FEMME DÉSOLÉE.
 Ahi ch'indarno si tarda,  
 Non resiste a li Dei mortale affeto,  
 Alto impero ne sforza,  
@@ -885,14 +885,14 @@ Ces Plaintes sont entrecoupées et finies par une Entrée de Ballet de huit Pers
 
 
 
-# Acte II
+# Acte II.
 
 
-## Scène Première
+## Scène Première.
 Le Roi, Psyché, Aglaure, Cidippe, Lycas, Suite
 
 
-    PSYCHÉ
+    PSYCHÉ.
 De vos larmes, Seigneur, la source m'est bien chère ;  
 Mais c'est trop aux bontés que vous avez pour moi,  
 Que de laisser régner les tendresses de Père  
@@ -905,7 +905,7 @@ Prendre d'empire à vos douleurs,
 Et cessez d'honorer mon destin par des pleurs,  
 Qui dans le cœur d'un Roi montrent de la faiblesse.  
 
-    LE ROI
+    LE ROI.
 Ah ! ma Fille, à ces pleurs laisse mes yeux ouverts,  
 Mon deuil est raisonnable, encor qu'il soit extrême,  
 Et lorsque pour toujours on perd ce que je perds,  
@@ -927,7 +927,7 @@ Cette vive douleur dont je ressens les coups,
 Je veux bien l'étaler, ma Fille, aux yeux de tous,  
 Et dans le cœur d'un Roi montrer le cœur d'un Homme.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Je ne mérite pas cette grande douleur :  
 Opposez, opposez un peu de résistance  
 Aux droits qu'elle prend sur un cœur  
@@ -937,7 +937,7 @@ Quoi, faut-il que pour moi vous renonciez, Seigneur,
 Dont vous avez fait voir dans les coups du malheur  
 Une fameuse expérience ?  
 
-    LE ROI
+    LE ROI.
 La constance est facile en mille occasions.  
 Toutes les révolutions  
 Où nous peut exposer la Fortune inhumaine,  
@@ -959,7 +959,7 @@ Et voilà des Dieux en courroux
 Les foudres les plus redoutables  
 Qui se puissent lancer sur nous.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Seigneur, une douceur ici vous est offerte :  
 Votre hymen a reçu plus d'un présent des Dieux,  
 Et par une faveur ouverte  
@@ -971,7 +971,7 @@ Dans les deux Princesses mes Sœurs,
 Laisse à l'amitié paternelle  
 Où placer toutes ses douceurs.  
 
-    LE ROI
+    LE ROI.
 Ah, de mes maux soulagement frivole !  
 Rien, rien ne s'offre à moi qui de toi me console ;  
 C'est sur mes déplaisirs que j'ai les yeux ouverts,  
@@ -979,7 +979,7 @@ Et dans un destin si funeste
 Je regarde ce que je perds,  
 Et ne vois point ce qui me reste.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Vous savez mieux que moi qu'aux volontés des Dieux,  
 Seigneur, il faut régler les nôtres,  
 Et je ne puis vous dire en ces tristes Adieux  
@@ -996,7 +996,7 @@ Et quand par cet Arrêt ils veulent me reprendre,
 Ils ne vous ôtent rien que vous ne teniez d'eux,  
 Et c'est sans murmurer que vous devez me rendre.  
 
-    LE ROI
+    LE ROI.
 Ah, cherche un meilleur fondement  
 Aux consolations que ton cœur me présente,  
 Et de la fausseté de ce raisonnement  
@@ -1039,19 +1039,19 @@ Que j'en eusse fait tout mon bien ?
 Ou plutôt, s'ils avaient dessein de le reprendre,  
 N'eût-il pas été mieux de ne me donner rien ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Seigneur, redoutez la colère  
 De ces Dieux contre qui vous osez éclater.  
 
-    LE ROI
+    LE ROI.
 Après ce coup que peuvent-ils me faire ?  
 Ils m'ont mis en état de ne rien redouter.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ah, Seigneur, je tremble des crimes  
 Que je vous fais commettre, et je dois me haïr…  
 
-    LE ROI
+    LE ROI.
 Ah, qu'ils souffrent du moins mes plaintes légitimes,  
 Ce m'est assez d'effort que de leur obéir,  
 Ce doit leur être assez que mon cœur t'abandonne  
@@ -1065,7 +1065,7 @@ De la rigueur du Ciel je veux toujours me plaindre,
 Je veux jusqu'au trépas incessamment pleurer  
 Ce que tout l'Univers ne peut me réparer.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ah, de grâce, Seigneur, épargnez ma faiblesse,  
 J'ai besoin de constance en l'état où je suis :  
 Ne fortifiez point l'excès de mes ennuis  
@@ -1073,7 +1073,7 @@ Des larmes de votre tendresse.
 Seuls ils sont assez forts, et c'est trop pour mon cœur  
 De mon destin et de votre douleur.  
 
-    LE ROI
+    LE ROI.
 Oui, je dois t'épargner mon deuil inconsolable.  
 Voici l'instant fatal de m'arracher de toi :  
 Mais comment prononcer ce mot épouvantable ?  
@@ -1085,11 +1085,11 @@ Ce qui suit, jusqu'à la fin de la pièce, est de M. C. à la réserve de la pre
 
 
 
-## Scène II
+## Scène II.
 Psyché, Aglaure, Cidippe
 
 
-    PSYCHÉ
+    PSYCHÉ.
 Suivez le Roi, mes Sœurs, vous essuierez ses larmes,  
 Vous adoucirez ses douleurs,  
 Et vous l'accableriez d'alarmes,  
@@ -1103,23 +1103,23 @@ Le Ciel m'a seule condamnée
 Rien ne saurait me secourir,  
 Et je n'ai pas besoin d'exemple pour mourir.  
 
-    AGLAURE
+    AGLAURE.
 Ne nous enviez pas ce cruel avantage  
 De confondre nos pleurs avec vos déplaisirs,  
 De mêler nos soupirs à vos derniers soupirs ;  
 D'une tendre amitié souffrez ce dernier gage.  
 
-    PSYCHÉ
+    PSYCHÉ.
 C'est vous perdre inutilement.  
 
-    CIDIPPE
+    CIDIPPE.
 C'est en votre faveur espérer un miracle,  
 Ou vous accompagner jusques au monument.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Que peut-on se promettre après un tel Oracle ?  
 
-    AGLAURE
+    AGLAURE.
 Un Oracle jamais n'est sans obscurité,  
 On l'entend d'autant moins que mieux on croit l'entendre,  
 Et peut-être après tout n'en devez-vous attendre  
@@ -1129,7 +1129,7 @@ Cette frayeur mortelle heureusement déçue,
 Ou mourir du moins avec vous,  
 Si le Ciel à nos voeux ne se montre plus doux.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ma Sœur, écoutez mieux la voix de la Nature,  
 Qui vous appelle auprès du Roi.  
 Vous m'aimez trop, le devoir en murmure,  
@@ -1144,31 +1144,31 @@ Mourir, si je puis, sans faiblesse,
 Ou ne vous avoir pas pour témoins toutes deux  
 De ce que malgré moi la Nature m'en laisse.  
 
-    AGLAURE
+    AGLAURE.
 Partager vos malheurs, c'est vous importuner.  
 
-    CIDIPPE
+    CIDIPPE.
 J'ose dire un peu plus, ma Sœur, c'est vous déplaire.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Non, mais enfin c'est me gêner,  
 Peut-être du Ciel redoubler la colère.  
 
-    AGLAURE
+    AGLAURE.
 Vous le voulez, et nous partons.  
 Daigne ce même Ciel plus juste et moins sévère,  
 Vous envoyer le sort que nous vous souhaitons,  
 Et que notre amitié sincère  
 En dépit de l'Oracle et malgré vous espère.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Adieu. C'est un espoir, ma Sœur, et des souhaits,  
 Qu'aucun des Dieux ne remplira jamais.  
 
 
-## Scène III
+## Scène III.
 
-    PSYCHÉ* seule.*
+    PSYCHÉ* seule.*.
 Enfin, seule, et toute à moi-même,  
 Je puis envisager cet affreux changement,  
 Qui du haut d'une gloire extrême  
@@ -1195,15 +1195,15 @@ Que ne m'inspiriez-vous ce qu'inspire à tant d'autres
 Le mérite, l'amour, et… Mais que vois-je ici ?  
 
 
-## Scène IV
+## Scène IV.
 Cléomène, Agénor, Psyché
 
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Deux Amis, deux Rivaux, dont l'unique souci  
 Est d'exposer leurs jours pour conserver les vôtres.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Puis-je vous écouter quand j'ai chassé deux Sœurs ?  
 Princes, contre le Ciel pensez-vous me défendre ?  
 Vous livrer au Serpent qu'ici je dois attendre,  
@@ -1212,14 +1212,14 @@ Et mourir alors que je meurs,
 C'est accabler une âme tendre  
 Qui n'a que trop de ses douleurs.  
 
-    AGÉNOR
+    AGÉNOR.
 Un Serpent n'est pas invincible ;  
 Cadmus qui n'aimait rien défit celui de Mars,  
 Nous aimons, et l'Amour sait rendre tout possible  
 Au cœur qui suit ses étendards,  
 À la main dont lui-même il conduit tous les dards.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Voulez-vous qu'il vous serve en faveur d'une ingrate  
 Que tous ses traits n'ont pu toucher ?  
 Qu'il dompte sa vengeance au moment qu'elle éclate,  
@@ -1228,7 +1228,7 @@ Quand même vous m'auriez servie,
 Quand vous m'auriez rendu la vie,  
 Quel fruit espérez-vous de qui ne peut aimer ?  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Ce n'est point par l'espoir d'un si charmant salaire  
 Que nous nous sentons animer,  
 Nous ne cherchons qu'à satisfaire  
@@ -1244,7 +1244,7 @@ Et si nous ne mourons en vous sauvant le jour,
 Quelque amour qu'à nos yeux vous préfériez au nôtre,  
 Nous voulons bien mourir de douleur et d'amour.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Vivez, Princes, vivez, et de ma Destinée  
 Ne songez plus à rompre, ou partager la loi :  
 Je crois vous l'avoir dit, le Ciel ne veut que moi,  
@@ -1258,7 +1258,7 @@ J'en tombe de faiblesse, et mon cœur abattu
 Ne soutient plus qu'à peine un reste de vertu.  
 Adieu, Princes, fuyez, qu'il ne vous empoisonne.  
 
-    AGÉNOR
+    AGÉNOR.
 Rien ne s'offre à nos yeux encor qui les étonne,  
 Et quand vous vous peignez un si proche trépas,  
 Si la force vous abandonne,  
@@ -1271,7 +1271,7 @@ Que pour un Dieu muet un Homme eût répondu,
 Et dans tous les Climats on n'a que trop d'exemples  
 Qu'il est ainsi qu'ailleurs des méchants dans les temples.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Laissez-nous opposer au lâche Ravisseur,  
 À qui le Sacrilège indignement vous livre,  
 Un amour qu'a le Ciel choisi pour défenseur  
@@ -1280,7 +1280,7 @@ Si nous n'osons prétendre à sa possession,
 Du moins en son péril permettez-nous de suivre  
 L'ardeur et les devoirs de notre passion.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Portez-les à d'autres moi-mêmes,  
 Princes, portez-les à mes Sœurs  
 Ces devoirs, ces ardeurs extrêmes  
@@ -1292,10 +1292,10 @@ Ce sont mes volontés dernières,
 Et l'on a reçu de tout temps  
 Pour souveraines lois les ordres des Mourants.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Princesse…  
 
-    PSYCHÉ
+    PSYCHÉ.
 Encore un coup, Princes, vivez pour elles,  
 Tant que vous m'aimerez vous devez m'obéir ;  
 Ne me réduisez pas à vouloir vous haïr,  
@@ -1310,16 +1310,16 @@ Voyez si de mon sort vous pouvez être en doute.
 Elle est enlevée en l'air par deux Zéphires.
 
 
-    AGÉNOR
+    AGÉNOR.
 Nous la perdons de vue, allons tous deux chercher  
 Sur le faîte de ce Rocher,  
 Prince, les moyens de la suivre.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Allons-y chercher ceux de ne lui point survivre.  
 
 
-## Scène V
+## Scène V.
 
     L’AMOUR, *en l'air*.
 Allez mourir, Rivaux d'un Dieu jaloux,  
@@ -1331,7 +1331,7 @@ Où l'Amour de Psyché veut essuyer les larmes,
 Et lui rendre les armes.  
 
 
-# Second Intermède
+# Second Intermède.
 La Scène se change en une Cour magnifique, ornée de Colonnes de Lapis enrichies de Figures d'or, qui forment un Palais pompeux et brillant, que l'Amour destine pour Psyché. Six Cyclopes avec quatre Fées y font une Entrée de Ballet, où ils achèvent en cadence quatre gros Vases d'Argent que les Fées leur ont apportés. Cette Entrée est entrecoupée par ce Récit de Vulcain, qu'il fait à deux reprises.
 
 Dépêchez, préparez ces lieux  
@@ -1355,14 +1355,14 @@ L'Amour ne veut point qu'on diffère,
 Travaillez, *etc.*  
 
 
-# Acte III
+# Acte III.
 
 
-## Scène Première
+## Scène Première.
 L'Amour, Zéphire
 
 
-    ZÉPHIRE
+    ZÉPHIRE.
 Oui, je me suis galamment acquitté  
 De la commission que vous m'avez donnée,  
 Et du haut du Rocher je l'ai, cette beauté,  
@@ -1377,7 +1377,7 @@ Cachent tout à fait qui vous êtes,
 Et je donne aux plus fins à pouvoir en ce jour  
 Vous reconnaître pour l'Amour.  
 
-    L’AMOUR
+    L’AMOUR.
 Aussi ne veux-je pas qu'on puisse me connaître,  
 Je ne veux à Psyché découvrir que mon cœur,  
 Rien que les beaux transports de cette vive ardeur  
@@ -1387,7 +1387,7 @@ Et cacher ce que je puis être
 Aux yeux qui m'imposent des lois,  
 J'ai pris la forme que tu vois.  
 
-    ZÉPHIRE
+    ZÉPHIRE.
 En tout vous êtes un grand Maître,  
 C'est ici que je le connais.  
 Sous des déguisements de diverse nature  
@@ -1403,7 +1403,7 @@ Et sans parler ni de rang, ni d'esprit,
 Qui peut trouver moyen d'être fait de la sorte,  
 Ne soupir guère à crédit.  
 
-    L’AMOUR
+    L’AMOUR.
 J'ai résolu, mon cher Zéphire,  
 De demeurer ainsi toujours,  
 Et l'on ne peut le trouver à redire  
@@ -1412,15 +1412,15 @@ Il est temps de sortir de cette longue enfance
 Qui fatigue ma patience,  
 Il est temps désormais que je devienne grand.  
 
-    ZÉPHIRE
+    ZÉPHIRE.
 Fort bien, vous ne pouvez mieux faire,  
 Et vous entrez dans un mystère  
 Qui ne demande rien d'enfant.  
 
-    L’AMOUR
+    L’AMOUR.
 Ce changement sans doute irritera ma Mère.  
 
-    ZÉPHIRE
+    ZÉPHIRE.
 Je prévois là-dessus quelque peu de colère.  
 Bien que les disputes des ans  
 Ne doivent point régner parmi des Immortelles,  
@@ -1433,7 +1433,7 @@ Que d'aimer la Beauté qu'elle voulait punir.
 Cette haine où ses voeux prétendent que répondent  
 La puissance d'un Fils que redoutent les Dieux…  
 
-    L’AMOUR
+    L’AMOUR.
 Laissons cela, Zéphire, et me dis si tes yeux  
 Ne trouvent pas Psyché la plus belle du Monde ?  
 Est-il rien sur la terre, est-il rien dans les Cieux,  
@@ -1442,7 +1442,7 @@ De beauté sans seconde ?
 Mais je la vois, mon cher Zéphire,  
 Qui demeure surprise à l'éclat de ces lieux.  
 
-    ZÉPHIRE
+    ZÉPHIRE.
 Vous pouvez vous montrer pour finir son martyre,  
 Lui découvrir son destin glorieux,  
 Et vous dire entre vous tout ce que peuvent dire  
@@ -1451,9 +1451,9 @@ En Confident discret je sais ce qu'il faut faire
 Pour ne pas interrompre un amoureux mystère.  
 
 
-## Scène II
+## Scène II.
 
-    PSYCHÉ
+    PSYCHÉ.
 Où suis-je ? et dans un lieu que je croyais barbare,  
 Quelle savante main a bâti ce Palais,  
 Que l'Art, que la Nature pare  
@@ -1493,29 +1493,29 @@ Je suis lasse de soupirer :
 Viens, que j'achève d'expirer.  
 
 
-## Scène III
+## Scène III.
 L'Amour, Psyché, Zéphire
 
 
-    L’AMOUR
+    L’AMOUR.
 Le voilà ce Serpent, ce Monstre impitoyable,  
 Qu'un Oracle étonnant pour vous a préparé,  
 Et qui n'est pas peut-être à tel point effroyable  
 Que vous vous l'êtes figuré.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Vous, Seigneur, vous seriez ce Monstre dont l'Oracle  
 A menacé mes tristes jours,  
 Vous qui semblez plutôt un Dieu qui par Miracle  
 Daigne venir lui-même à mon secours !  
 
-    L’AMOUR
+    L’AMOUR.
 Quel besoin de secours au milieu d'un Empire,  
 Où tout ce qui respire  
 N'attend que vos regards pour en prendre la loi,  
 Où vous n'avez à craindre autre Monstre que moi ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Qu'un Monstre tel que vous inspire peu de crainte !  
 Et que s'il a quelque poison,  
 Une âme aurait peu de raison  
@@ -1551,7 +1551,7 @@ Vos sens comme les miens paraissent interdits,
 C'est à moi de m'en taire, à vous de me le dire,  
 Et cependant c'est moi qui vous le dis.  
 
-    L’AMOUR
+    L’AMOUR.
 Vous avez eu, Psyché, l'âme toujours si dure,  
 Qu'il ne faut pas vous étonner,  
 Si pour en réparer l'injure  
@@ -1565,21 +1565,21 @@ Aussi sensiblement tout à la fois vous touche,
 Qu'ils ont dû vous toucher durant tant de beaux jours  
 Dont cette âme insensible a profané le cours.  
 
-    PSYCHÉ
+    PSYCHÉ.
 N'aimer point, c'est donc un grand crime !  
 
-    L’AMOUR
+    L’AMOUR.
 En souffrez-vous un rude châtiment ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 C'est punir assez doucement.  
 
-    L’AMOUR
+    L’AMOUR.
 C'est lui choisir sa peine légitime,  
 Et se faire justice en ce glorieux jour  
 D'un manquement d'amour, par un excès d'amour.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Que n'ai-je été plus tôt punie !  
 J'y mets le bonheur de ma vie,  
 Je devrais en rougir, ou le dire plus bas,  
@@ -1596,7 +1596,7 @@ Vos yeux, de ma réponse eux-mêmes font le choix,
 Et ma bouche asservie à leur toute-puissance  
 Ne me consulte plus sur ce que je me dois.  
 
-    L’AMOUR
+    L’AMOUR.
 Croyez, belle Psyché, croyez ce qu'ils vous disent,  
 Ces yeux, qui ne sont point jaloux,  
 Qu'à l'envi les vôtres m'instruisent  
@@ -1608,7 +1608,7 @@ Que cent regards ne peuvent dire.
 C'est le langage le plus doux,  
 C'est le plus fort, c'est le plus sûr de tous.  
 
-    PSYCHÉ
+    PSYCHÉ.
 L'intelligence en était due  
 À nos cœurs, pour les rendre également contents :  
 J'ai soupiré, vous m'avez entendue ;  
@@ -1620,7 +1620,7 @@ Pour me dire ce que j'écoute.
 Quand j'y suis arrivée, étiez-vous attendu ?  
 Et quand vous lui parlez, êtes-vous entendu ?  
 
-    L’AMOUR
+    L’AMOUR.
 J'ai dans ce doux climat un souverain empire,  
 Comme vous l'avez sur mon cœur :  
 L'Amour m'est favorable, et c'est en sa faveur  
@@ -1657,7 +1657,7 @@ Et brigueront à tous moments
 D'une âme soumise et ravie  
 L'honneur de vos commandements.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Mes volontés suivent les vôtres,  
 Je n'en saurais plus avoir d'autres ;  
 Mais votre Oracle enfin vient de me séparer  
@@ -1674,7 +1674,7 @@ Ainsi qu'à moi faciliter l'accès ;
 Faites-leur voir en quels lieux je respire,  
 Faites-leur de ma perte admirer le succès.  
 
-    L’AMOUR
+    L’AMOUR.
 Vous ne me donnez pas, Psyché, toute votre âme :  
 Ce tendre souvenir d'un Père et de deux Sœurs  
 Me vole une part des douceurs  
@@ -1683,10 +1683,10 @@ N'ayez d'yeux que pour moi, qui n'en ai que pour vous,
 Ne songez qu'à m'aimer, ne songez qu'à me plaire,  
 Et quand de tels soucis osent vous en distraire…  
 
-    PSYCHÉ
+    PSYCHÉ.
 Des tendresses du sang peut-on être jaloux ?  
 
-    L’AMOUR
+    L’AMOUR.
 Je le suis, ma Psyché, de toute la Nature.  
 Les rayons du Soleil vous baisent trop souvent,  
 Vos cheveux souffrent trop les caresses du Vent,  
@@ -1711,11 +1711,11 @@ Mais ne leur faites pas de si longs entretiens ;
 Vous ne sauriez pour eux avoir de complaisance,  
 Que vous ne dérobiez aux miens.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Votre amour me fait une grâce  
 Dont je n'abuserai jamais.  
 
-    L’AMOUR
+    L’AMOUR.
 Allons voir cependant ces Jardins, ce Palais,  
 Où vous ne verrez rien que votre éclat n'efface.  
 Et vous, petits Amours, et vous jeunes Zéphyrs,  
@@ -1724,11 +1724,11 @@ Montrez tous à l'envi ce qu'à voir ma Princesse
 Vous avez senti d'allégresse.  
 
 
-# Troisième Intermède
+# Troisième Intermède.
 Il se fait une Entrée de Ballet de quatre Amours et quatre Zéphyrs, interrompue deux fois par un Dialogue chanté par un Amour et un Zéphyr.
 
 
-    LE ZÉPHYR
+    LE ZÉPHYR.
 Aimable jeunesse,  
 Suivez la tendresse,  
 Joignez aux beaux jours  
@@ -1740,7 +1740,7 @@ Et craindre leurs désirs :
 Laissez-vous apprendre  
 Quels sont leurs plaisirs.  
 
-    *Ils chantent ensemble.*
+    *Ils chantent ensemble.*.
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
@@ -1752,7 +1752,7 @@ Est fait pour se rendre,
 Il n'a point à prendre  
 De fâcheux détour.  
 
-    *Les deux ensemble.*
+    *Les deux ensemble.*.
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
@@ -1764,13 +1764,13 @@ Que sert-il d'attendre ?
 Quand on perd un jour,  
 On le perd sans retour.  
 
-    *Les deux ensemble.*
+    *Les deux ensemble.*.
 Chacun est obligé d'aimer  
 À son tour,  
 Et plus on a de quoi charmer,  
 Plus on doit à l'Amour.  < Second Couplet >
 
-    LE ZÉPHYR
+    LE ZÉPHYR.
 L'Amour a des charmes,  
 Rendons-lui les armes,  
 Ses soins et ses pleurs  
@@ -1782,7 +1782,7 @@ Languir jusqu'au trépas,
 Mais ce n'est pas vivre  
 Que de n'aimer pas.  
 
-    *Ils chantent ensemble.*
+    *Ils chantent ensemble.*.
 S'il faut des soins et des travaux,  
 En aimant,  
 On est payé de mille maux  
@@ -1794,7 +1794,7 @@ Il faut du mystère,
 Mais on n'obtient guère  
 De bien sans tourment.  
 
-    *Les deux ensemble.*
+    *Les deux ensemble.*.
 S'il faut des soins et des travaux,  
 En aimant,  
 On est payé de mille maux  
@@ -1806,7 +1806,7 @@ Qu'aimer et que plaire ?
 C'est un soin charmant  
 Que l'emploi d'un Amant.  
 
-    *Les deux ensemble.*
+    *Les deux ensemble.*.
 S'il faut des soins et des travaux,  
 En aimant,  
 On est payé de mille maux  
@@ -1815,14 +1815,14 @@ Le Théâtre devient un autre Palais magnifique, coupé dans le fond par un Vest
 
 
 
-# Acte IV
+# Acte IV.
 
 
-## Scène Première
+## Scène Première.
 Aglaure, Cidippe
 
 
-    AGLAURE
+    AGLAURE.
 Je n'en puis plus, ma Sœur, j'ai vu trop de merveilles,  
 L'avenir aura peine à les bien concevoir,  
 Le Soleil qui voit tout, et qui nous fait tout voir,  
@@ -1837,7 +1837,7 @@ Prodigue aveuglément, épuise, unit d'efforts,
 Pour faire de tant de trésors  
 Le partage d'une Cadette !  
 
-    CIDIPPE
+    CIDIPPE.
 J'entre dans tous vos sentiments,  
 J'ai les mêmes chagrins, et dans ces lieux charmants  
 Tout ce qui vous déplaît me blesse ;  
@@ -1845,7 +1845,7 @@ Tout ce que vous prenez pour un mortel affront
 Comme vous m'accable et me laisse  
 L'amertume dans l'âme, et la rougeur au front.  
 
-    AGLAURE
+    AGLAURE.
 Non, ma Sœur, il n'est point de Reines,  
 Qui dans leur propre État parlent en Souveraines,  
 Comme Psyché parle en ces lieux.  
@@ -1865,7 +1865,7 @@ Zéphire vole aux ordres qu'elle donne,
 Et son Amante et lui s'en laissant trop charmer,  
 Quittent pour la servir les soins de s'entr'aimer.  
 
-    CIDIPPE
+    CIDIPPE.
 Elle a des Dieux à son service,  
 Elle aura bientôt des Autels ;  
 Et nous ne commandons qu'à de chétifs Mortels,  
@@ -1874,7 +1874,7 @@ Contre nous à toute heure en secret révoltés,
 Opposent à nos volontés  
 Ou le murmure, ou l'artifice.  
 
-    AGLAURE
+    AGLAURE.
 C'était peu que dans notre Cour  
 Tant de cœurs à l'envi nous l'eussent préférée,  
 Ce n'était pas assez que de nuit et de jour  
@@ -1886,7 +1886,7 @@ Faire en notre présence éclater le miracle,
 Et choisi nos yeux pour témoins  
 De ce qu'au fond du cœur nous souhaitions le moins.  
 
-    CIDIPPE
+    CIDIPPE.
 Ce qui le plus me désespère,  
 C'est cet Amant parfait et si digne de plaire,  
 Qui se captive sous ses lois.  
@@ -1902,7 +1902,7 @@ Et s'en voir chèrement aimée ;
 C'est un bonheur si haut, si relevé,  
 Que sa grandeur ne peut être exprimée.  
 
-    AGLAURE
+    AGLAURE.
 N'en parlons plus, ma Sœur, nous en mourrions d'ennui,  
 Songeons plutôt à la vengeance,  
 Et trouvons le moyen de rompre entre elle et lui  
@@ -1911,11 +1911,11 @@ La voici. J'ai des coups tous prêts à lui porter,
 Qu'elle aura peine d'éviter.  
 
 
-## Scène II
+## Scène II.
 Psyché, Aglaure, Cidippe.
 
 
-    PSYCHÉ
+    PSYCHÉ.
 Je viens vous dire Adieu, mon Amant vous renvoie,  
 Et ne saurait plus endurer  
 Que vous lui retranchiez un moment de la joie  
@@ -1925,7 +1925,7 @@ Son amour trouve des douceurs,
 Qu'en faveur du sang je lui vole,  
 Quand je les partage à des Sœurs.  
 
-    AGLAURE
+    AGLAURE.
 La jalousie est assez fine,  
 Et ces délicats sentiments  
 Méritent bien qu'on s'imagine  
@@ -1943,7 +1943,7 @@ Il vous charme, et vous le charmez ;
 Votre félicité, ma Sœur, serait extrême,  
 Si vous saviez qui vous aimez.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Que m'importe ? j'en suis aimée,  
 Plus il me voit, plus je lui plais,  
 Il n'est point de plaisirs dont l'âme soit charmée  
@@ -1951,7 +1951,7 @@ Qui ne préviennent mes souhaits,
 Et je vois mal de quoi la vôtre est alarmée,  
 Quand tout me sert dans ce Palais.  
 
-    AGLAURE
+    AGLAURE.
 Qu'importe qu'ici tout vous serve,  
 Si toujours cet Amant vous cache ce qu'il est ?  
 Nous ne nous alarmons que pour votre intérêt.  
@@ -1971,17 +1971,17 @@ Il va jusqu'à la violence,
 Sur qui vous vengera le Roi  
 Ou de ce changement, ou de cette insolence ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ma sœur, vous me faites trembler.  
 Juste Ciel ! pourrais-je être assez infortunée…  
 
-    CIDIPPE
+    CIDIPPE.
 Que sait-on si déjà les nœuds de l'Hyménée…  
 
-    PSYCHÉ
+    PSYCHÉ.
 N'achevez pas, ce serait m'accabler.  
 
-    AGLAURE
+    AGLAURE.
 Je n'ai plus qu'un mot à vous dire.  
 Ce prince qui vous aime, et qui commande aux Vents,  
 Qui nous donne pour char les ailes du Zéphire,  
@@ -1995,43 +1995,43 @@ Dès qu'il sera lassé de souffrir vos caresses,
 Disparaîtront en un moment.  
 Vous savez comme nous ce que peuvent les charmes.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Que je sens à mon tour de cruelles alarmes !  
 
-    AGLAURE
+    AGLAURE.
 Notre amitié ne veut que votre bien.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Adieu, mes Sœurs, finissons l'entretien,  
 J'aime et je crains qu'on ne s'impatiente.  
 Partez, et demain si je puis  
 Vous me verrez, ou plus contente,  
 Ou dans l'accablement des plus mortels ennuis.  
 
-    AGLAURE
+    AGLAURE.
 Nous allons dire au Roi quelle nouvelle gloire,  
 Quel excès de bonheur le Ciel répand sur vous.  
 
-    CIDIPPE
+    CIDIPPE.
 Nous allons lui conter d'un changement si doux  
 La surprenante et merveilleuse histoire.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ne l'inquiétez point, ma Sœur, de vos soupçons,  
 Et quand vous lui peindrez un si charmant Empire…  
 
-    AGLAURE
+    AGLAURE.
 Nous savons toutes deux ce qu'il faut taire, ou dire,  
 Et n'avons pas besoin sur ce point de leçons.  
 Le Zéphire enlève les deux Sœurs de Psyché dans un nuage qui descend jusqu'à terre, et dans lequel il les emporte avec rapidité.
 
 
 
-## Scène III
+## Scène III.
 L'Amour, Psyché
 
 
-    L’AMOUR
+    L’AMOUR.
 Enfin vous êtes seule, et je puis vous redire,  
 Sans avoir pour témoins vos importunes Sœurs,  
 Ce que des yeux si beaux ont pris sur moi d'empire,  
@@ -2051,10 +2051,10 @@ Semble offusquer l'éclat de ces beaux yeux ?
 Vous manque-t-il quelque chose en ces lieux ?  
 Des vœux qu'on vous y rend dédaignez-vous l'hommage ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Non, Seigneur.  
 
-    L’AMOUR
+    L’AMOUR.
 Qu'est-ce donc, et d'où vient mon malheur ?  
 J'entends moins de soupirs d'amour que de douleur,  
 Je vois de votre teint les roses amorties  
@@ -2066,14 +2066,14 @@ Ont-ils des soupirs différents ?
 Et quand on aime bien, et qu'on voit ce qu'on aime,  
 Peut-on songer à des Parents ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ce n'est point là ce qui m'afflige.  
 
-    L’AMOUR
+    L’AMOUR.
 Est-ce l'absence d'un Rival,  
 Et d'un Rival aimé qui fait qu'on me néglige ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Dans un cœur tout à vous que vous pénétrez mal !  
 Je vous aime, Seigneur, et mon amour s'irrite  
 De l'indigne soupçon que vous avez formé :  
@@ -2093,7 +2093,7 @@ Peut-être la sachant, voudrez-vous m'en punir,
 Et si j'ose aspirer encore à quelque chose,  
 Je suis sûre du moins de ne point l'obtenir.  
 
-    L’AMOUR
+    L’AMOUR.
 Et ne craignez-vous point qu'à mon tour je m'irrite,  
 Que vous connaissiez mal quel est votre mérite,  
 Ou feigniez de ne pas savoir  
@@ -2101,10 +2101,10 @@ Quel est sur moi votre absolu pouvoir ?
 Ah si vous en doutez, soyez désabusée,  
 Parlez.  
 
-    PSYCHÉ
+    PSYCHÉ.
 J'aurai l'affront de me voir refusée.  
 
-    L’AMOUR
+    L’AMOUR.
 Prenez en ma faveur de meilleurs sentiments,  
 L'expérience en est aisée,  
 Parlez, tout se tient prêt à vos commandements.  
@@ -2114,7 +2114,7 @@ Ces divins auteurs de ma flamme,
 Et si ce n'est assez d'en jurer vos beaux yeux,  
 J'en jure par le Styx, comme jurent les Dieux.  
 
-    PSYCHÉ
+    PSYCHÉ.
 J'ose craindre un peu moins après cette assurance.  
 Seigneur, je vois ici la pompe et l'abondance,  
 Je vous adore, et vous m'aimez,  
@@ -2124,20 +2124,20 @@ J'ai le malheur de ne savoir qui j'aime.
 Dissipez cet aveuglement,  
 Et faites-moi connaître un si parfait Amant.  
 
-    L’AMOUR
+    L’AMOUR.
 Psyché, que venez-vous de dire ?  
 
-    L’AMOUR
+    L’AMOUR.
 Je l'ai juré, je n'en suis plus le maître,  
 Mais vous ne savez pas ce que vous demandez.  
 Laissez-moi mon secret, si je me fais connaître,  
 Je vous perds, et vous me perdez.  
 Le seul remède est de vous en dédire.  
 
-    PSYCHÉ
+    PSYCHÉ.
 C'est là sur vous mon souverain empire ?  
 
-    L’AMOUR
+    L’AMOUR.
 Vous pouvez tout, et je suis tout à vous ;  
 Mais si nos feux vous semblent doux,  
 Ne mettez point d'obstacle à leur charmante suite,  
@@ -2145,33 +2145,33 @@ Ne me forcez point à la fuite :
 C'est le moindre malheur qui nous puisse arriver  
 D'un souhait qui vous a séduite.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Seigneur, vous voulez m'éprouver,  
 Mais je sais ce que j'en dois croire.  
 De grâce, apprenez-moi tout l'excès de ma gloire,  
 Et ne me cachez plus pour quel illustre choix  
 J'ai rejeté les vœux de tant de Rois.  
 
-    L’AMOUR
+    L’AMOUR.
 Le voulez-vous ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Souffrez que je vous en conjure.  
 
-    L’AMOUR
+    L’AMOUR.
 Si vous saviez, Psyché, la cruelle aventure  
 Que par là vous vous attirez…  
 
-    PSYCHÉ
+    PSYCHÉ.
 Seigneur, vous me désespérez.  
 
-    L’AMOUR
+    L’AMOUR.
 Pensez-y bien, je puis encor me taire.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Faites-vous des serments pour n'y point satisfaire ?  
 
-    L’AMOUR
+    L’AMOUR.
 Hé bien, je suis le Dieu le plus puissant des Dieux,  
 Absolu sur la terre, absolu dans les Cieux,  
 Dans les eaux, dans les airs mon pouvoir est suprême,  
@@ -2199,11 +2199,11 @@ L'Amour disparaît, et dans l'instant qu'il s'envole, le superbe Jardin s'évano
 
 
 
-## Scène IV
+## Scène IV.
 Psyché, Le dieu du Fleuve
 
 
-    PSYCHÉ
+    PSYCHÉ.
 Cruel Destin ! funeste inquiétude !  
 Fatale curiosité !  
 Qu'avez-vous fait, affreuse Solitude,  
@@ -2238,7 +2238,7 @@ Ensevelis mon crime dans tes flots,
 Et pour finir des maux si déplorables,  
 Laisse-moi dans ton lit assurer mon repos.  
 
-    LE DIEU DU FLEUVE
+    LE DIEU DU FLEUVE.
 Ton trépas souillerait mes ondes,  
 Psyché, le Ciel te le défend,  
 Et peut-être qu'après des douleurs si profondes  
@@ -2248,18 +2248,18 @@ Je la vois qui te cherche et qui te veut punir,
 L'amour du Fils a fait la haine de la Mère,  
 Fuis, je saurai la retenir.  
 
-    PSYCHÉ
+    PSYCHÉ.
 J'attends ses Fureurs vengeresses.  
 Qu'auront-elles pour moi qui ne me soit trop doux ?  
 Qui cherche le trépas, ne craint Dieux, ni Déesses,  
 Et peut braver tout leur courroux.  
 
 
-## Scène V
+## Scène V.
 Vénus, Psyché
 
 
-    VÉNUS
+    VÉNUS.
 Orgueilleuse Psyché, vous m'osez donc attendre,  
 Après m'avoir sur Terre enlevé mes honneurs,  
 Après que vos traits suborneurs  
@@ -2275,7 +2275,7 @@ De n'en pas redouter les justes châtiments,
 Et de me regarder en face,  
 Comme si c'était peu que mes ressentiments.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Si de quelques Mortels on m'a vue adorée,  
 Est-ce un crime pour moi d'avoir eu des appas,  
 Dont leur âme inconsidérée  
@@ -2289,7 +2289,7 @@ Qu'à ne leur cacher plus cette beauté parfaite,
 Qui pour les rendre à leur devoir,  
 Pour se faire adorer, n'a qu'à se faire voir.  
 
-    VÉNUS
+    VÉNUS.
 Il fallait vous en mieux défendre,  
 Ces respects, ces encens se devaient refuser,  
 Et pour les mieux désabuser,  
@@ -2301,37 +2301,37 @@ Sur le mépris de mille Rois
 Jusques aux Cieux a porté de son choix  
 L'ambition extravagante.  
 
-    VÉNUS
+    VÉNUS.
 Votre insolence est sans seconde ;  
 Dédaigner tous les Rois du Monde,  
 N'est-ce pas aspirer aux Dieux ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Si l'Amour pour eux tous m'avait endurci l'âme,  
 Et me réservait toute à lui,  
 En puis-je être coupable, et faut-il qu'aujourd'hui  
 Pour prix d'une si belle flamme,  
 Vous vouliez m'accabler d'un éternel ennui ?  
 
-    VÉNUS
+    VÉNUS.
 Psyché, vous deviez mieux connaître  
 Qui vous étiez, et quel était ce Dieu.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Et m'en a-t-il donné ni le temps, ni le lieu,  
 Lui qui de tout mon cœur d'abord s'est rendu maître ?  
 
-    VÉNUS
+    VÉNUS.
 Tout votre cœur s'en est laissé charmer,  
 Et vous l'avez aimé dès qu'il vous a dit, *J'aime*.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Pouvais-je n'aimer pas le Dieu qui fait aimer,  
 Et qui me parlait pour lui-même ?  
 C'est votre Fils, vous savez son pouvoir,  
 Vous en connaissez le mérite.  
 
-    VÉNUS
+    VÉNUS.
 Oui, c'est mon Fils, mais un Fils qui m'irrite,  
 Un Fils qui me rend mal ce qu'il sait me devoir,  
 Un Fils qui fait qu'on m'abandonne,  
@@ -2349,17 +2349,17 @@ Venez, et préparez autant de patience,
 Qu'on vous voit de présomption.  
 
 
-# Quatrième Intermède
+# Quatrième Intermède.
 La Scène représente les Enfers. On y voit une Mer toute de feu, dont les flots sont dans une perpétuelle agitation. Cette Mer effroyable est bornée par des Ruines enflammées ; et au milieu de ses flots agités, au travers d'une Gueule affreuse, paraît le Palais Infernal de Pluton. Huit Furies en sortent, et forment une Entrée de Ballet, où elles se réjouissent de la rage qu'elles ont allumée dans l'âme de la plus douce des Divinités. Un Lutin mêle quantité de sauts périlleux à leurs Danses, cependant que Psyché qui a passé aux Enfers par le commandement de Vénus, repasse dans la Barque de Charon, avec la Boîte qu'elle a reçue de Proserpine pour cette Déesse.
 
 
 
-# Acte V
+# Acte V.
 
 
-## Scène Première
+## Scène Première.
 
-    PSYCHÉ
+    PSYCHÉ.
 Effroyables replis des ondes infernales,  
 Noirs Palais où Mégère et ses Sœurs font leur Cour,  
 Éternels ennemis du Jour,  
@@ -2407,22 +2407,22 @@ Qu'à travers le faux jour de ces Demeures sombres
 J'entrevois s'avancer vers moi ?  
 
 
-## Scène II
+## Scène II.
 Psyché, Cléomène, Agénor
 
 
-    PSYCHÉ
+    PSYCHÉ.
 Cléomène, Agénor, est-ce vous que je vois ?  
 Qui vous a ravi la lumière ?  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 La plus juste douleur, qui d'un beau désespoir  
 Nous eût pu fournir la matière,  
 Cette pompe funèbre, où du sort le plus noir  
 Vous attendiez la rigueur la plus fière,  
 L'injustice la plus entière.  
 
-    AGÉNOR
+    AGÉNOR.
 Sur ce même Rocher, où le Ciel en courroux  
 Vous promettait au lieu d'Époux  
 Un Serpent dont soudain vous seriez dévorée,  
@@ -2436,7 +2436,7 @@ D'offrir pour vous au Monstre une première proie,
 D'amour et de douleur l'un et l'autre emportés,  
 Nous nous sommes précipités.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Heureusement déçus au sens de votre Oracle,  
 Nous en avons ici reconnu le miracle,  
 Et su que le Serpent prêt à vous dévorer  
@@ -2445,7 +2445,7 @@ Et qui tout Dieu qu'il est, vous adorant lui-même,
 Ne pouvait endurer  
 Qu'un Mortel comme nous osât vous adorer.  
 
-    AGÉNOR
+    AGÉNOR.
 Pour prix de vous avoir suivie,  
 Nous jouissons ici d'un trépas assez doux :  
 Qu'avions-nous affaire de vie,  
@@ -2455,7 +2455,7 @@ Qu'aucun des deux là -haut n'aurait revus jamais,
 Heureux si nous voyons la moindre de vos larmes  
 Honorer des malheurs que vous nous avez faits.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Puis-je avoir des larmes de reste  
 Après qu'on a porté les miens au dernier point ?  
 Unissons nos soupirs dans un sort si funeste,  
@@ -2465,11 +2465,11 @@ Vous n'avez point voulu survivre à mes malheurs,
 Et quelque douleur qui m'abatte,  
 Ce n'est point pour vous que je meurs.  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 L'avons-nous mérité, nous dont toute la flamme  
 N'a fait que vous lasser du récit de nos maux ?  
 
-    PSYCHÉ
+    PSYCHÉ.
 Vous pouviez mériter, Princes, toute mon âme,  
 Si vous n'eussiez été Rivaux.  
 Ces qualités incomparables  
@@ -2477,17 +2477,17 @@ Qui de l'un et de l'autre accompagnaient les vœux,
 Vous rendaient tous deux trop aimables,  
 Pour mépriser aucun des deux.  
 
-    AGÉNOR
+    AGÉNOR.
 Vous avez pu sans être injuste, ni cruelle,  
 Nous refuser un cœur réservé pour un Dieu.  
 Mais revoyez Vénus : le Destin nous rappelle,  
 Et nous force à vous dire Adieu.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Ne vous donne-t-il point le loisir de me dire  
 Quel est ici votre séjour ?  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Dans des Bois toujours verts, où d'amour on respire,  
 Aussitôt qu'on est mort d'amour.  
 D'amour on y revit, d'amour on y soupire,  
@@ -2497,7 +2497,7 @@ Que lui-même il attire
 Sur nos fantômes qu'il inspire,  
 Et dont aux Enfers même il se fait une Cour.  
 
-    AGÉNOR
+    AGÉNOR.
 Vos envieuses Sœurs après nous descendues1775  
 Pour vous perdre se sont perdues,  
 Et l'une et l'autre tour à tour,  
@@ -2514,10 +2514,10 @@ N'étale que le moindre et le premier supplice
 De ces conseils dont l'artifice  
 Fait les maux dont vous soupirez.  
 
-    PSYCHÉ
+    PSYCHÉ.
 Que je les plains !  
 
-    CLÉOMÈNE
+    CLÉOMÈNE.
 Vous êtes seule à plaindre.  
 Mais nous demeurons trop à vous entretenir,  
 Adieu, puissions-nous vivre en votre souvenir,  
@@ -2529,9 +2529,9 @@ Affranchir à jamais l'éclat de vos beaux yeux
 D'augmenter le jour en ces lieux.  
 
 
-## Scène III
+## Scène III.
 
-    PSYCHÉ
+    PSYCHÉ.
 Pauvres Amants ! leur amour dure encore,  
 Tous morts qu'ils sont l'un et l'autre m'adore,  
 Moi dont la dureté reçut si mal leurs vœux :  
@@ -2568,11 +2568,11 @@ Elle s'évanouit, et l'Amour descend auprès d'elle en volant.
 
 
 
-## Scène IV
+## Scène IV.
 L'Amour, Psyché *évanouie*
 
 
-    L’AMOUR
+    L’AMOUR.
 Votre péril, Psyché, dissipe ma colère,  
 Ou plutôt de mes feux l'ardeur n'a point cessé,  
 Et bien qu'au dernier point vous m'ayez su déplaire,  
@@ -2617,25 +2617,25 @@ Des Adonis et des Anchises,
 Qui n'auront que haine pour vous.  
 
 
-## Scène V
+## Scène V.
 Vénus, L'Amour, Psyché *évanouie*
 
 
-    VÉNUS
+    VÉNUS.
 La menace est respectueuse,  
 Et d'un enfant qui fait le révolté  
 La colère présomptueuse…  
 
-    L’AMOUR
+    L’AMOUR.
 Je ne suis plus enfant, et je l'ai trop été,  
 Et ma colère est juste autant qu'impétueuse.  
 
-    VÉNUS
+    VÉNUS.
 L'impétuosité s'en devrait retenir,  
 Et vous pourriez vous souvenir  
 Que vous me devez la naissance.  
 
-    L’AMOUR
+    L’AMOUR.
 Et vous pourriez n'oublier pas  
 Que vous avez un cœur et des appas  
 Qui relèvent de ma puissance :  
@@ -2652,7 +2652,7 @@ Songez en me voyant à la reconnaissance,
 Vous qui tenez de ma puissance  
 Et votre gloire et vos plaisirs.  
 
-    VÉNUS
+    VÉNUS.
 Comment l'avez-vous défendue,  
 Cette gloire dont vous parlez ?  
 Comment me l'avez-vous rendue ?  
@@ -2686,7 +2686,7 @@ Tant d'insolence vous sied bien,
 Et je dois endurer, quoi qu'il vous plaise dire,  
 Moi qui sans vos traits ne puis rien.  
 
-    L’AMOUR
+    L’AMOUR.
 Vous ne pouvez que trop, Déesse impitoyable,  
 Le Destin l'abandonne à tout votre courroux :  
 Mais soyez moins inexorable  
@@ -2700,7 +2700,7 @@ Rendez-la, Déesse, à mes larmes,
 Rendez à mon amour, rendez à ma douleur  
 Le charme de mes yeux, et le choix de mon cœur.  
 
-    VÉNUS
+    VÉNUS.
 Quelque amour que Psyché vous donne,  
 De ses malheurs par moi n'attendez pas la fin :  
 Si le Destin me l'abandonne,  
@@ -2708,34 +2708,34 @@ Je l'abandonne à son Destin.
 Ne m'importunez plus, et dans cette infortune  
 Laissez-la sans Vénus triompher, ou périr. 1945  
 
-    L’AMOUR
+    L’AMOUR.
 Hélas ! si je vous importune,  
 Je ne le ferais pas, si je pouvais mourir.  
 
-    VÉNUS
+    VÉNUS.
 Cette douleur n'est pas commune,  
 Qui force un Immortel à souhaiter la mort.  
 
-    L’AMOUR
+    L’AMOUR.
 Voyez par son excès si mon amour est fort.  
 Ne lui ferez-vous grâce aucune ?  
 
-    VÉNUS
+    VÉNUS.
 Je vous l'avoue, il me touche le cœur,  
 Votre amour, il désarme, il fléchit ma rigueur :  
 Votre Psyché reverra la lumière.  
 
-    L’AMOUR
+    L’AMOUR.
 Que je vous vais partout faire donner d'encens !  
 
-    VÉNUS
+    VÉNUS.
 Oui, vous la reverrez dans sa beauté première :  
 Mais de vos vœux reconnaissants  
 Je veux la déférence entière.  
 Je veux qu'un vrai respect laisse à mon amitié  
 Vous choisir une autre Moitié.  
 
-    L’AMOUR
+    L’AMOUR.
 Et moi, je ne veux plus de grâce,  
 Je reprends toute mon audace,  
 Je veux Psyché, je veux sa foi,  
@@ -2748,11 +2748,11 @@ Après quelques éclairs et roulements de Tonnerre, Jupiter paraît en l'air sur
 
 
 
-## Scène Dernière
+## Scène Dernière.
 Jupiter, Vénus, L'Amour, Psyché
 
 
-    L’AMOUR
+    L’AMOUR.
 Vous à qui seul tout est possible,  
 Père des Dieux, Souverain des mortels,  
 Fléchissez la rigueur d'une Mère inflexible  
@@ -2778,7 +2778,7 @@ Tiendrai-je à vous servir mes armes toujours prêtes,
 Et vous ferai-je à tous conquêtes sur conquêtes,  
 Si vous me défendez d'en faire une pour moi ?  
 
-    JUPITER
+    JUPITER.
 Ma Fille, sois-lui moins sévère.  
 Tu tiens de sa Psyché le destin en tes mains,  
 La Parque au moindre mot va suivre ta colère,  
@@ -2794,7 +2794,7 @@ Et si les passions doivent nous dominer,
 Plus la vengeance a de quoi plaire aux Hommes,  
 Plus il sied bien aux Dieux de pardonner.  
 
-    VÉNUS
+    VÉNUS.
 Je pardonne à ce Fils rebelle ;  
 Mais voulez-vous qu'il me soit reproché  
 Qu'une misérable Mortelle,  
@@ -2803,11 +2803,11 @@ Sous ombre qu'elle est un peu belle,
 Par un Hymen dont je rougis,  
 Souille mon alliance, et le lit de mon Fils ?  
 
-    JUPITER
+    JUPITER.
 Hé bien, je la fais immortelle,  
 Afin d'y rendre tout égal.  
 
-    VÉNUS
+    VÉNUS.
 Je n'ai plus de mépris, ni de haine pour elle,  
 Et l'admets à l'honneur de ce nœud conjugal.  
 Psyché, reprenez la lumière,  
@@ -2816,11 +2816,11 @@ Jupiter a fait votre paix,
 Et je quitte cette humeur fière  
 Qui s'opposait à vos souhaits.  
 
-    PSYCHÉ
+    PSYCHÉ.
 C'est donc vous, ô grande Déesse,  
 Qui redonnez la vie à ce cœur innocent !  
 
-    VÉNUS
+    VÉNUS.
 Jupiter vous fait grâce, et ma colère cesse.  
 Vivez, Vénus l'ordonne ; aimez, elle y consent.  
 
@@ -2830,7 +2830,7 @@ Je vous revois enfin, cher objet de ma flamme !
     L’AMOUR, *à Psyché*.
 Je vous possède enfin, délices de mon âme !  
 
-    JUPITER
+    JUPITER.
 Venez, Amants, venez aux Cieux  
 Achever un si grand et si digne Hyménée ;  
 Viens-y, belle Psyché, changer de Destinée,  
@@ -2842,7 +2842,7 @@ Les Divinités qui avaient été partagées entre Vénus et son Fils, se réunis
 Apollon paraît le premier et, comme Dieu de l'Harmonie commence à chanter, pour inviter les autres Dieux à se réjouir.
 
 
-    RÉCIT D’APOLLON
+    RÉCIT D’APOLLON.
 Unissons-nous, Troupe immortelle ;  
 Le Dieu d'Amour devient heureux amant,  
 Et Vénus a repris sa douceur naturelle  
@@ -2850,7 +2850,7 @@ En faveur d'un Fils si charmant :
 Il va goûter en paix, après un long tourment,  
 Une félicité qui doit être éternelle.  
 
-    
+    .
 Toutes les Divinités chantent ensemble ce Couplet à la gloire de l'Amour.
 
 Célébrons ce grand jour ;  
@@ -2881,7 +2881,7 @@ Des Jeux, et de l'Amour.
 Deux Muses, qui ont toujours évité de s'engager sous les Lois de l'Amour, conseillent aux Belles qui n'ont point encore aimé, de s'en défendre avec soin à leur exemple.
 < Chanson des muses >
 
-    
+    .
 Gardez-vous, Beautés sévères,  
 Les Amours font trop d'affaires,  
 Craignez toujours de vous laisser charmer :  
@@ -2891,7 +2891,7 @@ Le martyre
 De le dire,  
 Coûte plus cent fois que d'aimer.  < second couplet des muses >
 
-    
+    .
 On ne peut aimer sans peines,  
 Il est peu de douces chaînes,  
 À tout moment on se sent alarmer ;  
@@ -2903,7 +2903,7 @@ Coûte plus cent fois que d'aimer.
 Bacchus fait entendre qu'il n'est pas si dangereux que l'Amour.
 < Récit de Bacchus >
 
-    
+    .
 Si quelquefois,  
 Suivant nos douces Lois,  
 La raison se perd et s'oublie,  
@@ -2914,7 +2914,7 @@ Souvent c'est pour toute la vie.
 Mome déclare qu'il n'a point de plus doux emploi que de médire, et que ce n'est qu'à l'Amour seul qu'il n'ose se jouer.
 < Récit de mome >
 
-    
+    .
 Je cherche à médire !  
 Sur la terre et dans les Cieux ;  
 Je soumets à ma Satire  
@@ -2930,7 +2930,7 @@ Composée de quatre Polichinelles et de deux Matassins qui suivent Mome, et vien
 Bacchus et Mome qui les conduisent, chantent au milieu d'eux chacun une Chanson, Bacchus à la louange du Vin, et Mome une Chanson enjouée, sur le sujet et les avantages de la raillerie.
 < Récit de Bacchus >
 
-    
+    .
 Admirons le jus de la Treille :  
 Qu'il est puissant ! qu'il a d'attraits !  
 Il sert aux douceurs de la Paix,  
@@ -2938,7 +2938,7 @@ Et dans la Guerre il fait merveille :
 Mais surtout pour les Amours,  
 Le vin est d'un grand secours.  < Récit de Mome >
 
-    
+    .
 Folâtrons, divertissons-nous,  
 Raillons, nous ne saurions mieux faire,  
 La raillerie est nécessaire  
@@ -2958,7 +2958,7 @@ Quand on rit aux dépens d'autrui.
 Mars arrive au milieu du Théâtre, suivi de sa Troupe guerrière, qu'il excite à profiter de leur loisir en prenant part aux Divertissements.
 < Récit de Mars >
 
-    
+    .
 Laissons en paix toute la Terre,  
 Cherchons de doux amusements ;  
 Parmi les Jeux les plus charmants,  
@@ -2970,7 +2970,7 @@ Les Troupes différentes de la Suite d'Apollon, de Bacchus, de Mome, et de Mars,
 Un Chœur de toutes les Voix et de tous les Instruments, qui sont au nombre de quarante, se joint à la Danse générale, et termine la Fête des Noces de l'Amour et de Psyché.
 
 
-    DERNIER CHŒUR
+    DERNIER CHŒUR.
 Chantons les plaisirs charmants  
 Des heureux Amants,  
 Que tout le Ciel s'empresse  

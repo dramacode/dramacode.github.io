@@ -18,7 +18,7 @@ Par M*r* Pradon
 Édition critique établie par Chloé Beaucamp dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2006-2007).
 
 
-# Introduction
+# Introduction.
 
 
 Quelle idée, Monsieur, peut vous offrir cette annonce ? Vais-je … retracer à vos yeux les fautes & les malheurs dramatiques d'un Auteur persécuté? Ou bien, vais-je m'élever contre les idées qu'on a conçues de ce Poëte, leur opposer des paradoxes, & joncher de fleurs un Tombeau, où il ne croît que des cyprès ? [1]
@@ -28,7 +28,7 @@ Rare scrupule chez les critiques, qu'une telle interrogation liminaire, émanant
 Toutefois la tache n'était pas mince, au pas du siècle finissant, que de compter parmi les « successeurs » des deux monuments émergeants – Corneille et Racine –, et de bâtir de nouveaux berceaux de création sur l'assise des règles et sur le syncrétisme des modèles tragiques, face au formidable succès de l'opéra, alors même que l'on suspectait désormais les auteurs d'écrire surtout pour « faire de l'argent [4] ». C'est dans ce contexte que *Scipion l'Africain* vint à éclore au crépuscule du siècle, après plusieurs années de silence du dramaturge, et eut le mérite de galvaniser l'intérêt du public jusqu'à sa seizième représentation. Or la teneur de la pièce révèle qu'il y avait là plus qu'une quête d'un succès facile et galvaudé de la part de Pradon : en effet, tout écarté qu'il fût des canons littéraires de la postérité, *Scipion l'Africain* développe un écheveau dramaturgique élaboré, assorti d'une profondeur allégorique audacieuse, questionnant *in extenso* le rapport entre l'effigie des figures antiques, et la notion de « caractère » applicable aux héros tragiques. Un tel geste d'écriture ne demandait ainsi qu'à être mis en lumière, en vue de restituer au mieux un paradigme fidèle de la vie de la pièce, depuis sa genèse à son repos sur le papier.
 
 
-# Jacques Pradon : les paradoxes d'un auteur honni
+# Jacques Pradon : les paradoxes d'un auteur honni.
 
 C'est à Rouen, dans la patrie du grand Corneille, que Jacques Pradon vint à naître en 1644, au sein d'une famille de la bourgeoisie moyenne. Baptisé le 21 janvier dans la paroisse de Saint-Godard, il avait hérité du prénom de son père, Jacques Pradon, né en 1602, qui avait épousé Marguerite De Lastre le 7 janvier 1635. En marge de ces faits, les biographes du XVIII*e* siècle avaient instauré une tradition fautive qui plaçait la naissance du poète en 1632 et qui le prénommait Nicolas. Ces erreurs étaient manifestement dues à un défaut d'information et à l'absence de document manuscrit émanant de Pradon. Ce furent finalement les recherches de Charles de Beaurepaire qui permirent de rétablir les faits à l'extrême fin du XIX*e* siècle, par la découverte et la publication de l'acte de naissance de Pradon [5]. On sait en outre que Jacques avait un frère aîné dénommé Claude, mort en bas âge, en 1639, et un frère cadet, Joseph. Il avait également trois sœurs plus jeunes que lui, Marguerite et Françoise, nées en 1646 et 1647, ainsi que Thérèse, venue au monde après elles. Jacques se voyait ainsi l'aîné de la fratrie, Joseph en était le benjamin [6].
 
@@ -71,7 +71,7 @@ Que d'être chanté par Pradon ! [34]
 Au cours de la même année, Pradon fit également publier une *Réponse à la Satire X du sieur D⁎⁎⁎*, réplique aux nouvelles attaques de Boileau qui ne manquait plus aucune occasion pour le stigmatiser. Il produisit encore *Scipion l'Africain* à la fin de l'année 1696, joué 17 fois entre février et avril 1697. Ce fut sa dernière pièce, car il fut frappé d'apoplexie moins de 10 mois plus tard en janvier 1698, et mourut à Paris, « les cartes à la main [35] », selon les termes d'une lettre adressée par Bourdelot à l'abbé Nicaise de Dijon, en date du 15 janvier [36].
 
 
-# Création et vie théâtrale de Scipion l'Africain
+# Création et vie théâtrale de Scipion l'Africain.
 
 Dixième et dernière tragédie de Pradon, *Scipion l'Africain* est avant tout une œuvre de la maturité, celle d'un auteur qui avait tout autant connu les succès que les échecs, et dont l'ambition était de réitérer la réussite que lui avaient valu *Pyrame et Thisbé* ainsi que *Régulus* dans une plus grande mesure. Les représentations de ces deux pièces à la Comédie-Française venaient chaque année rappeler ce succès, à raison de une à 3 séances par an depuis l'ouverture de la Comédie-Française pour *Pyrame et Thisbé* [37], et de 3 à 5 séances annuelles depuis 1688 pour *Régulus*. Par ailleurs la tentative de *Germanicus* en 1694 s'était soldée par un rude échec. Dans ce contexte, il était tout naturel pour l'auteur en quête d'un nouveau sujet de renouer avec les sources d'inspiration d'où avait jailli son *Régulus*. C'est ainsi qu'il en revenait à l'histoire des guerres puniques pour élire la matière de sa tragédie. Il redonnait alors à sa pièce le nom d'un Général romain venu sur les terres de l'Afrique pour conquérir l'empire carthaginois, mais selon une perspective inversée, puisque *Régulus* avait dépeint le sacrifice du héros fait prisonnier par l'ennemi, quand *Scipion l'Africain* devait y répondre par la victoire du personnage éponyme face aux Carthaginois à Zama. L'hypothèse de Charles Brunet, selon laquelle *Scipion l'Africain* serait une réécriture d'une pièce de Jean Royer de Prade [38], n'est pas recevable, sachant qu'elle se fonde sur un *corpus* anecdotique florissant au XVII*e* siècle, et n'est étayée par aucun document fiable.
 
@@ -152,38 +152,38 @@ Il ne faut pas moins qu'une preuve aussi authentique, que celle qu'on peut tirer
 Dès lors les critiques et biographes dénièrent tout le succès que la pièce avait pu avoir : *Scipion l'Africain* fut très rapidement considéré comme une œuvre médiocre, et ne fut plus édité après 1744 [86].
 
 
-# Intrigue de Scipion l'Africain
+# Intrigue de Scipion l'Africain.
 
 
-## Acte I
+## Acte I.
 
 Les nombreux succès militaires de Scipion ont contraint Annibal à quitter l'Italie pour venir défendre l'Afrique, et les deux armées ennemies siègent près de Zama dans la perspective d'un combat. Aurilcar, un envoyé d'Annibal, vient requérir pour son Général une entrevue avec Scipion, auprès de Lépide, confident de ce dernier. À cette occasion il s'enquiert des deux captives des Romains, Ispérie, nièce d'Annibal, et Erixène, fille d'Hannon (sc. 1). Lépide sort à l'entrée d'Erixène, et Aurilcar confie à cette dernière le dessein d'Annibal de briguer la paix. Erixène lui révèle quant à elle que Scipion est amoureux, et finit par avouer malgré elle qu'elle en est éprise. Elle explique également qu'Ispérie se languit de son amant, le prince Lucéjus (sc. 2). Scipion paraît à la scène 3, et accepte l'entrevue sollicitée par son ennemi, puis dévoile à son confident l'amour que lui inspire la vue d'Ispérie (sc. 4).
 
 
-## Acte II
+## Acte II.
 
 Ispérie se plaint de la longue absence de Lucéjus, qui ne s'est pas manifesté à elle depuis qu'ils ont été séparés, lors de l'assaut contre Zama (sc. 1). L'arrivée impromptue du prince met fin à ses incertitudes, d'autant que celui-ci est déterminé à assaillir le camp pour la libérer. Elle le convainc toutefois de différer ses projets, car l'entrevue entre Annibal et Scipion pourrait bien l'affranchir de ses chaînes (sc. 2). Scipion la rejoint pour sonder les desseins d'Annibal, mais il ne peut s'empêcher de lui tenir un discours aux accents galants à peine voilés [87] (sc. 4). Restant cependant fermement opposé à toute idée de conciliation avec Carthage, il se heurte aux larmes de la princesse et laisse éclater son irrésolution dans un monologue, au terme duquel il décide de tourner ses voeux vers Erixène, pour échapper à l'égarement que lui dictent ses sentiments (sc. 5).
 
 
-## Acte III
+## Acte III.
 
 Scipion a rendu un hommage galant à Erixène au cours de l'entracte, mais la protagoniste jalouse et clairvoyante dépeint l'échec persuasif de ce discours, qui n'a pu masquer les véritables sentiments du héros (sc. 1). L'expression de son dépit est interrompue par Lépide (sc. 2), qui annonce la venue de Scipion, en vue de la conférence avec Annibal. Le héros paraît et affirme son intention de refuser toute compromission avec Carthage, en acceptant un traité qui serait indigne de Rome (sc. 3). L'entrée d'Annibal à la scène 4 marque l'ouverture de la grande conférence, sommet politique de la pièce. Escomptant un accord de paix avec les Romains, Annibal retrace les vicissitudes de son parcours, et se constitue en parfait exemple de la versatilité de la fortune. Il finit par proposer à Scipion la main de sa nièce, et se retire pour parler à celle-ci (sc. 4). Troublé dans sa détermination, et craignant qu'Annibal n'ait eu vent de ses sentiments, le héros demeuré seul exprime les indécisions qui ressurgissent en lui (sc. 5).
 
 
-## Acte IV
+## Acte IV.
 
 Ispérie explique qu'elle a eu connaissance du projet d'hyménée émis par Annibal (sc. 1). Interrogée par son amant indigné, la princesse tente de détourner ce dernier de tout dessein délétère, lui renouvelant sa promesse d'une fidélité absolue, pour laquelle elle compte rejeter toute défection qu'on lui imposerait ; Lucéjus décide malgré tout de prendre les armes pour libérer sa promise (sc. 2). Annibal reparaît à la scène 4, et enjoint sa nièce de se ranger au parti du sacrifice, mais il se heurte à un refus inébranlable. Après un bref monologue dans lequel elle réaffirme sa position (sc. 5), Ispérie est ensuite sollicitée par Scipion qui lui exprime sa répugnance à agir en tyran (sc. 6). Le dialogue est interrompu car Lucéjus est sur le point d'assaillir le camp : le soulagement affecté par Ispérie irrite la jalousie de Scipion, qui soupçonne Annibal de duplicité (sc. 8). Annibal vient tout au contraire désavouer l'initiative du prince, mais les insinuations de Scipion ne manquent pas de l'offenser (sc. 9) : l'acte se clôt ainsi sur la rupture brutale des tentatives de conciliation.
 
 
-## Acte V
+## Acte V.
 
 Seule sur scène avec sa confidente, Ispérie rapporte les premiers éclats du combat qui s'est ouvert et qu'elle n'a pu voir sans perdre connaissance (sc. 1). Ses craintes sont confirmées lorsqu'Erixène vient annoncer la large victoire de Scipion (sc. 2). Ispérie s'étant retirée pour partir à la recherche de son amant, Erixène décide de réfréner ses sentiments et de regagner Carthage pour y finir ses jours (sc. 3). Scipion lui accorde cette liberté à la scène suivante, mettant au jour la magnanimité dont il est capable. Mais le héros exprime encore ses doutes auprès de Lépide (sc. 5), d'autant que la conjoncture le met en position d'omnipotence sur les amants, Lucéjus étant désormais son prisonnier. La mise à l'épreuve de sa vertu est ainsi à son comble lorsque survient Ispérie, dont le charme continue à opérer sur lui (sc. 6). Le dénouement reste donc en suspens, et ce n'est qu'au cours des vingt-cinq derniers vers de la pièce que Scipion réalise un effort décisif sur lui-même, en rendant la liberté aux amants.
 
 
-# Élaboration dramaturgique de l'action
+# Élaboration dramaturgique de l'action.
 
 
-## Deux héros notoires
+## Deux héros notoires.
 
 Au XVII*e* siècle, à une époque où l'Histoire passionne les Français, Annibal et Scipion l'Africain sont des personnages parfaitement familiers du public. En effet, outre les diverses pièces de théâtre dont ils furent les héros [88], les œuvres de Plutarque et de Tite-Live, où ils comptaient parmi les figures historiques les plus éminentes, connurent un succès considérable au cours du siècle, et furent éditées de nombreuses fois, une vingtaine pour *Les vies des hommes illustres grecs et romains* de Plutarque, traduites par Jacques Amyot [89]. Il en fut de même pour *Le Grand Dictionnaire historique* de Moreri, édité à partir de 1680. Ces publications étaient également corroborées par la parution d'ouvrages de vulgarisation historique, comme celui d'Alain-Claude de Mestre, datant de 1675, intitulé *Annibal et Scipion, ou les Grands capitaines avec les ordres et plans de batailles et les annotations, discours et remarques politiques et militaires de Mr le Cte G. L. de Nassau*. Adoptant dans un premier temps un point de vue factuel sur les vies d'Annibal et de Scipion, l'auteur analysait le déroulement de l'Histoire, examinant la pertinence des décisions militaires prises par les deux grands Généraux. Ce type d'œuvre participait de l'intérêt grandissant pour une culture historique commune, fondée sur l'héritage du monde antique. Ainsi dans le domaine des arts, entre 1688 et 1690, Louis XIV avait commandé à la manufacture des Gobelins une copie intégrale de *L'Histoire de Scipion* tissée à Bruxelles vers 1558, dont les cartons avaient été réalisés par Giulio Romano, principal collaborateur de Raphaël entre 1515 et 1520. De même, en littérature, Pierre Ortigue de Vaumorière avait fait publier de 1656 à 1662 les quatre volumes de son roman héroïque, *Le grand Scipion*, œuvre qui refondait les données de l'Histoire au sein d'une intrigue d'ordre galant impliquant les deux grands héros, Annibal et Scipion. Les références antiques étaient en effet omniprésentes au sein de la société, apparaissant parfois sous la forme de métaphores ou de comparaisons, comme dans les bouts-rimés publiés par le *Mercure galant*. Par exemple, des vers de M. de Grammont disaient en janvier 1685 :
 
@@ -196,7 +196,7 @@ Du fameux Scipion et du grand Annibal. …
 Par conséquent le sujet choisi par Pradon s'inscrivait dans un horizon culturel commun avec un public averti.
 
 
-## Aux origines du choix du sujet
+## Aux origines du choix du sujet.
 
 Pradon avait déjà mis en scène des sujets romains, notamment en 1688, année de son plus grand succès. Après s'être inspiré de Florus pour son *Régulus*, selon ses propres indications [91], l'auteur puisait dans les *Décades* de Tite-Live pour élaborer *Scipion l'Africain*. En effet, *Germanicus* ayant été un échec, sa volonté fut de produire une tragédie susceptible de renouer avec le succès qu'il avait connu huit ans plus tôt, et à cet égard les indications préfacielles de *Régulus* étaient explicites :
 
@@ -208,7 +208,7 @@ Le choix de l'auteur se porta donc sur un sujet romain historiquement proche de 
 Dans un second temps, il décidait de faire intervenir les événements afférents à la bataille de Zama : cet autre épisode se situe au livre 10 de la troisième décade de Tite-Live. Il y est narré qu'en 202 avant J.-C., Annibal, rappelé par le Sénat de Carthage pour défendre l'Afrique des Romains, obtient une entrevue avec Scipion, afin de négocier la paix ; sa tentative est un échec ; Scipion remporte la fameuse bataille de Zama qui lui vaut le surnom d'*Africain*, et qui marque la fin de la seconde guerre punique. Dans la pièce de Pradon, ces événements sont structurés avec l'épisode de la libération de la Celtibérienne, de telle sorte que l'action se situe en 202 avant J.-C. Un tel procédé n'avait pas encore été employé dans les autres productions théâtrales du siècle qui avaient traité ce sujet, comme la pièce de Desmarets ou encore les drames musicaux italiens, tels *Scipione Affricano* de Minato Nicolò et *Il Trionfo della continenza considerata in Scipione Affricano* de Giacomo Torelli [98]. De surcroît la grande confrontation des deux Généraux ennemis n'avait pas encore été réalisée sur la scène : certes dans sa tragédie *Annibal*, Dominique de Colonia avait déjà réuni les deux hommes, mais Scipion, désigné comme « le jeune Scipion », n'était pas encore *L'Africain* ; il n'avait pas même atteint l'âge de vingt ans, et n'était pas encore Général – l'action de la pièce se déroulant aux alentours de 216 avant J.-C. Le bref dialogue des deux protagonistes, à la scène 4 de l'acte V, n'avait donc rien de commun avec le sommet politique de l'an 202. De plus cette pièce n'avait été représentée qu'au Collège de la Sainte-Trinité de la Compagnie de Jésus de Lyon, le 1*er* juin 1692, et n'avait pas encore été publiée [99]. Pour ce qui est de la tragédie *Annibal* émanant de Théodore de Riupeirous, créée en 1688, elle n'avait pas même été imprimée, car les représentations avaient échoué. Il y avait bien eu une tragi-comédie de De Prade, intitulée *Annibal*, mais son intrigue prenait place à une date où Annibal mettait encore Rome en péril, soit approximativement entre 216 et 211 avant J.-C. [100]. Quant à la pièce de Thomas Corneille, *La Mort d'Hannibal*, datant de 1669, elle mettait en scène les événements de l'année 183 avant J.-C., soit nettement postérieurs à la seconde guerre punique. Par conséquent, Pradon disposait là d'une matière encore inexploitée, riche de possibilités, et adoptait une configuration dramatique inédite sur le sujet choisi, par la conjonction des deux épisodes historiques retenus.
 
 
-## Mise en œuvre des sources historiques
+## Mise en œuvre des sources historiques.
 
 Les indications parcellaires fournies dans la préface de *Scipion l'Africain* permettent d'arborer le trajet dramaturgique ayant présidé à son élaboration :
 
@@ -254,7 +254,7 @@ Aujourd'hui, ceux qui ne jugent point de ses ouvrages d'après les vers de *Desp
 En effet, dans *Scipion l'Africain*, Pradon a su déduire un écheveau en mettant en œuvre des matériaux narratifs disparates, tout en évitant l'écueil de la duplicité d'action grâce à un assortiment intime des épisodes historiques retenus. En l'espèce, leur jointure première fut assurée par la filiation établie entre Ispérie et Annibal, qui permettait ensuite d'élaborer le reste de l'intrigue : la main d'Ispérie devenait l'offre d'Annibal pour appuyer la demande de la paix, et le déclenchement de la bataille de Zama était remotivé par l'entreprise guerrière du jeune amant, opposé aux termes de la tractation amoureuse. En outre l'action dégagée à partir du dénouement, selon un processus de « construction à rebours », se dotait par la même occasion d'une profondeur symbolique figurée par la conquête du surnom emblématique du héros. Il est étonnant que Pradon n'ait pas évoqué dans sa préface cette *inventio* ambitieuse faisant appel à plusieurs pages d'histoire, se limitant sur ce point à indiquer qu'il avait fait d'Ispérie la nièce d'Annibal, alors qu'il avait pris la coutume de détailler son travail dramaturgique dans ses autres préfaces, comme dans celles de *Statira* ou de *Régulus*.
 
 
-## Création d'un fil d'intrigue secondaire : le personnage d'Érixène
+## Création d'un fil d'intrigue secondaire : le personnage d'Érixène.
 
 La critique ne s'étendit en commentaires sur l'action de *Scipion l'Africain* et demeura silencieuse sur la construction élaborée qui la sous-tendait. Le seul reproche formulé à cet égard visait le personnage d'Erixène, inventé par Pradon : ce rôle fut en effet jugé « absolument inutile à la Piéce » par les Frères Parfaict [117], « postiche » par l'abbé de La Porte [118], « inutile » par Lancaster [119] ou encore « inexplicable » par Bussom [120]. Certes Erixène est un personnage épisodique enchâssé au sein de la tragédie : absent des actes II et IV [121], il n'apparaît que dans six scènes sur vingt-neuf, et semble à la marge du sujet de la pièce, dont l'épure se résume à la libération d'une princesse hispanique par un Général romain magnanime. Fille d'Hannon, Général hostile à la dynastie des Barca, Erixène est une captive des Romains au même titre qu'Ispérie, et s'est éprise de Scipion, qui consent à lui rendre la liberté à la fin de la pièce : il est vrai que ce rôle relève plutôt d'un intérêt thématique. Cependant il semble que la création du personnage trouve également une justification dramaturgique en la seule action d'Erixène qui a une incidence sur l'intrigue principale : en effet c'est elle qui apprend à Aurilcar que Scipion est amoureux, au premier acte – préparant par la même occasion le spectateur à l'aveu du héros à la scène 4. Cette confidence a une importance déterminante, puisque c'est par elle qu'Annibal a connaissance des émois de son illustre ennemi – grâce au concours d'Aurilcar, qui l'en a informé hors scène –, et qu'il en vient à proposer la main de sa nièce à l'acte III. Or en dépit de ce que dit Lancaster,
 
@@ -281,7 +281,7 @@ Apres qu'Asdrubal se fut retiré vers l'Italie, Hanno fut envoyé de Carthage po
 Pradon a ainsi refondu une autre matrice historique au sein de la pièce, en lui accordant le statut d'un épisode subordonné et enchâssé à l'action principale. Blâmé à compter du XVIII*e* siècle, le personnage d'Erixène ne fut cependant pas celui qui frappa les contemporains, davantage interpelés par la constitution des caractères prêtés aux héros de la tragédie.
 
 
-# Une tragédie des caractères
+# Une tragédie des caractères.
 
 
 C'est vous dire … jusqu'à quel point le Peintre habile de Regulus a pris le change dans le caractère de Scipion [128].
@@ -546,7 +546,7 @@ Placé peu avant l'ultime éclosion de Scipion, ce discours résonne à plein da
 Ainsi le blâme général visant les *mores* des personnages de *Scipion l'Africain* est demeuré sourd au sens de cette dramaturgie, n'y voyant qu'une faute éminente contre les règles de la bienséance et de la vraisemblance, là où il y avait une véritable interrogation des modèles historiques et de la conception même du héros tragique.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 Précédant de peu la disparition de Pradon, la première édition de *Scipion l'Africain* est aussi la seule qui ait été établie du vivant de l'auteur. La pièce fut achevée d'imprimer le premier avril 1697 par Thomas Guillain, libraire parisien qui avait déjà fait paraître *Regulus* en 1688, et qui venait de prendre un Privilège du Roi pour le *Recueil des Œuvres de Mr Pradon*, en date du 21 mars 1697. Seuls quatre exemplaires de cette édition ont été conservés : trois d'entre eux sont compris dans des recueils factices intitulés *Œuvres de Mr Pradon*, comportant diverses tragédies choisies émanant de l'auteur – ou pas –, parfois imprimées par Jean Ribou [192] ou par d'autres libraires. Ces exemplaires sont subsumés sous les cotes :
 
@@ -573,7 +573,7 @@ VIII bandeau (10,9 x 0,9) / *ACTEURS.* / liste des Acteurs
 1-64 texte de la pièce, avec un titre courant constant : « SCIPION L'AFRICAIN, » sur la page paire ; « TRAGEDIE », sur la page impaire, à l'exception de la page 64 : « SCIPION L'AFR. TRAG. ».
 
 
-## Établissement du texte
+## Établissement du texte.
 
 La retranscription du texte a eu pour principe une fidélité optimale à l'édition imprimée. L'orthographe originale a été respectée, y compris dans les cas de formes concurrentes, à savoir : *Afrique / Affrique, fidele / fidelle, homage / hommage, en vain / envain, flatte / flate, fatalle / fatale, oppose / opose*. Ces variations graphiques n'ont pas une répartition significative au sein de la pièce, susceptible de faire apparaître l'exercice de plusieurs ouvriers. Nous avons de même conservé le doublet *avec/avecque*, qu'il s'agisse ou pas d'une utilité métrique. En outre, nous nous sommes strictement conformée à l'accentuation des mots telle qu'elle est pratiquée dans l'édition originale : les formes *déja, voila*, toutes deux attestées par Richelet, ont par exemple été maintenues, de même que la déclinaison du verbe *pouvoir* avec un seul « r » au futur et au conditionnel, cette graphie étant constante dans l'imprimé. Enfin l'emploi des majuscules a été systématiquement suivi, à l'exception de deux occurrences qui semblaient fautive, au vers 1347 Il cause / il cause et au vers 1060 A L'orgueil / A l'orgueil. Ainsi seules les coquilles manifestes ont été rectifiées.
 
@@ -586,12 +586,12 @@ En ce qui concerne les quelques erreurs de mots et les vers incomplets dans l'é
 Enfin les notes de bas de page de la présente édition font régulièrement référence aux dictionnaires de l'Académie française, de Furetière et de Richelet : ils sont respectivement désignés par les abréviations (Acad.), (F) et (Ric.). De même, il est souvent fait mention de certains ouvrages dont le nom n'est pas précisé car les références y afférent sont fréquentes : il s'agit des *Vies des hommes illustres grecs et romains* de Plutarque ; des *Décades* de Tite-Live ; du *Grand dictionnaire historique* de Moreri et de la *Syntaxe française du XVII*e* siècle* de Haase.
 
 
-## Coquilles corrigées
+## Coquilles corrigées.
 
 M. DC. XCXVII. / M. DC. XCVII. (page de titre) ; 26 Mars 1695 / 26 Mars 1697 (Privilege du Roy) ; depeur / de peur (préface) ; fut / fût (v.39, 381, 769 et 773) ; sentit / sentît (v.124) ; fonds / fond (v. 155 et 898) ; éxige / exige (v. 171) ; que demande-t-il / que me demande-t-il (v. 172) ; entendte / entendre (v. 182) ; flates / flate (v.237) ; Sauve moy / Sauve-moy (v. 241) ; nous / vous (v. 294) ; qu'elle / quelle (v.302, 309 et 1225) ; madamé / madame (v. 330) ; sera-il / sera-t-il (v.378) ; EMILIE / ERMILIE (liste des personnages : scène 2, II ; scène 2, IV) ; reconnoistte / reconnoistre (v. 393) ; servit / servît (v. 402) ; l'oin / loin (v. 423) ; LUEEJUS / LUCEJUS (entre v. 433 et v. 434) ; quelle / qu'elle (v. 475) ; infortunê / infortuné (v. 506) ; devint / devînt (v. 523) ; plût / plut (v. 551) ; unit / unît (v. 559) ; nu / un (v. 568) ; achevez-là / achevez-la (v. 579) ; malheur / malheurs (v. 628) ; riavale / rivale (v.642) ; fit / fut (v. 738) ; vint / vînt (v. 754) ; put / pût (v. 758) ; détroites / d'étroites (v. 805) ; pour elle / par elle (v. 855) ; aine / vaine (v. 885) ; qu'y / qui (v. 906) ; EREMILIE / ERMILIE (entre v. 925 et v. 926) ; juste / justes (v. 933) ; ais-je / ai-je (v. 972, 1057) ; vouss / vous (v. 1008) ; quel triomphe vous / quel triomphe pour vous (v. 1055) ; A L'orgueil / A l'orgueil (v. 1060) ; rejallit / rejaillit (v.1076) ; momenspar / momens par (v. 1095) ; êtiez / étiez (v. 1127) ; dise / dire (v. 1159) ; Il cause / il cause (v. 1347) ; maisde grace / mais de grace (v. 1388) ; perfait / parfait (v. 1414).
 
 
-## Correction des ponctuations
+## Correction des ponctuations.
 
 combats ? / combats, (préface) ; helas !, / helas ! (v. 631) ; Que de pleurs ? / Que de pleurs, (v. 908) ; je tremble ? / je tremble ! (v. 953) ; Qu'il est heureux ? / Qu'il est heureux ! (v. 1155) ; Quel combat ? ; Quel combat ! (v. 1191) ; Hé ? / Hé ! (v. 1289) ; Justes Dieux ? / Justes Dieux ! (v. 1321). 
 
@@ -614,7 +614,7 @@ inversion des ponctuations en fin de vers entre les vers 742 et 743 
 ? au lieu de . à l'hémistiche du vers 1133
 
 
-# Scipion l'Africain, Tragédie
+# Scipion l'Africain, Tragédie.
 
 
 ## PREFACE.
@@ -1057,7 +1057,7 @@ La Niéce d'Annibal tenteroit ma vertu⁎ ?
 Le plus grand ennemy que jamais Rome ait eu ?  
 Non, Lepide, aujourd'huy je dois briser ma chaîne.  
 
-     LEPIDE.
+    LEPIDE.
 Seigneur, portez [256] vos vœux du côté d'Erixene.  
 Elle est fille d'Hannon ennemy d'Annibal [257],  
 Dans Cartage ce Chef fut toujours son rival.  
@@ -1490,7 +1490,7 @@ Au defaut de [312] la paix ne nous manquera pas.
 
 ### SCENE V.
 
-    SCIPION. 
+    SCIPION.
 (seul)
 
 Et le sort⁎, juste Ciel ! & les yeux pleins de larmes  
@@ -1697,7 +1697,7 @@ Allez [338].
 ANNIBAL, SCIPION, AURILCAR, LEPIDE, Gardes.
 
 
-    ANNIBAL. 
+    ANNIBAL.
 (regarde quelque temps Scipion sans parler) [339]
 
         Si j'ay paru surpris à vôtre aspect⁎,  
@@ -1887,7 +1887,7 @@ Ce lien est rompu par sa nouvelle chaîne,
 Elle est vôtre captive, & ne peut être à luy,  
 Et pouroit être à vous, Seigneur, dés aujourd'huy.  
 
-    SCIPION. 
+    SCIPION.
 (à part)
 
 Dieux ! [380]  
@@ -1905,7 +1905,7 @@ Seigneur, vous le pouvez.
 
 ### SCENE V.
 
-    SCIPION. 
+    SCIPION.
 *(seul)* [381]
 
         Connoît⁎-il ma tendresse ?  
@@ -2252,7 +2252,7 @@ J'ay dû vous avertir [411] qu'il paroît à leur tête,
 Et que vers nôtre Camp à marcher il s'aprête,  
 Qu'avec ses étendarts on voit ceux des deux Rois [412].  
 
-    ISPERIE 
+    ISPERIE.
 (à part)
 
 Ah ! je respire enfin pour la premiere fois [413].  
@@ -2464,7 +2464,7 @@ Je l'aperçois, parlons.
 SCIPION, LEPIDE, SEXTUS, ERIXENE, BARCÉ.
 
 
-    SCIPION. 
+    SCIPION.
 (à ses Gardes) [443]
 
         Qu'on observe Isperie ?  
@@ -2710,7 +2710,7 @@ Le plus parfait Heros qu'ait jamais produit Rome [471].
 FIN.
 
 
-# Glossaire
+# Glossaire.
 
 Dictionnaires cités :
 
@@ -2721,7 +2721,7 @@ Dictionnaires cités :
 – Richelet, P., *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise*, Genêne, J.-H. Widerhold, 1680 ; 2 volumes (Ric.).Abord« Aproche, arrivée » (Ric.).V. 487, 727Adorer« Signifie aussi hyperboliquement, avoir beaucoup d'amour ; une soumission extrême, ou une admiration aveugle pour quelqu'un » (F).V. 558, 661, 681, 883, 1103AdorableDésigne celui ou celle qui est « digne d'être adoré » (Acad.).V. 65, 878Animer« Exciter à la colere, à la vengeance, au combat, à des entreprises » (F). V. 595, 1198, 1258Apas« Charmes puissans, grands atrais, beauté » (Ric.). S'emploie tout particulièrement pour désigner les attraits d'une femme.V. 620, 1103Aspect« Veuë, presence de quelqu'un, de quelque chose. Il signifie aussi objet de veuë » (Acad.).V. 698, 728 Aveu« Consentement » (Ric.).V. 964ChagrinSynonyme de tristesse (voir Triste).V. 431, 626 Charmes(s)« Ce qui se fait par art magique pour produire un effet extraordinaire. Signifie au sens figuré attrait, appast, qui plaist extremement, qui touche sensiblement » (Acad.). Ces deux acceptions enrichissent les occurrences du mot dans la pièce, ainsi que celles de Charmer (é, ée) et de Charmante.V. 68, 89, 119, 230, 245, 289, 299, 549, 609, 638, 650, 921, 1370Charmer : V. 104, 254, 667Charmante : V. 557Cœur« Vigueur, force, courage, intrepidité » (F).V. 188, 211, 228, 424, 426, 572, 700, 744, 1028, 1032, 1039, 1211, 1263, 1303ConduiteLe fait de « commander et servir de chef, regir, gouverner » (Acad.)V. 82, 188Mise en œuvre d'un dessein, d'une entreprise.V. 309, 1225(Se) confier en« Se fier, s'assurer » (Acad.).V. 177, 465ConnaîtreDécouvrir, « sçavoir, penetrer jusqu'au fond des choses » (F)V. 349, 380, 477, 823, 926. Dans le sens de reconnaître : v. 97, 106, 117, 123, 202, 293, 894« Apercevoir, voir, distinguer quelque chose par le moien de la vuë » (Ric.)V. 1303Éprouver, « sentir » (Acad.) ; (v. 823) « avoir consideration » (Acad.).V. 1294Contraire« Se dit aussi de tout ce qui est ennemy, opposé, d'un autre party » (F).V. 285, 982Démentir (se)« Se dédire, se relâcher » (Ric.).V. 211Déplaisir(s)Le mot a un sens fort au XVII*e* siècle, et signifie « fascherie, chagrin, douleur d'esprit, affliction » (Acad.). V. 1351, 1368Déplorable« Qui mérite d'être pleuré, qui attriste » (F).V. 970Destin« Sort particulier de chaque personne ou de chaque chose » (Acad.) ; (v. 152) sort au sens de « l'incertitude des evenemens » (F).V. 152, 365, 513, 672, 970, 1225Effort« Employ de toutes ses forces » (F)V. 32, 712, 1207, 1217« Violence qu'on se fait à soi-même » (Ric.)V. 96, 220, 251, 255, 488, 1059Entreprise militaire.V. 400, 479, 833, 851, 1311, 1372Effacer« Obscurcir, faire perdre l'éclat de quelque chose par un plus grand brillant » (F)V. 299 « Oster les marques … ou les corrompre si bien, qu'on ne les puisse reconnoître » (F).V. 1336Empire« Monarchie, étenduë des pays où quelqu'un commande » (F). V. 920, 928, 1166Enchanter« Charmer, ensorceler par des paroles, figures, caractères, operations magiques … signifie aussi, ravir en admiration » (Acad.). Les deux sens se superposent dans les occurrences indiquées.V. 68, 120Enlever« Se dit aussi en choses spirituelles & morales. Ce Predicateur est si éloquent, … qu'il *enlève* ses auditeurs » (F). V. 441Ensevely« Se dit figurément … qu'un homme est *enseveli* … dans une grande lethargie. » (F).V. 371Étonner (é, ée)« Épouvanter, surprendre d'une certaine maniere qui touche » (Ric.)V. 33, 782« Esbranler, faire trembler par quelque grande, par quelque violente commotion » (Acad.).V. 487Étonnement« Action ou effet qui cause de la surprise, de l'admiration » (F).V. 733Fatal,e« Fâcheux, malheureux » (Ric.)V. 239, 590, 673, 900, 959, 1139Funeste au sens de « qui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable » (F)V. 259, 337, 548, 835, 1033, 1193, 1237, 1369« Ce qui doit arriver necessairement » (F)V. 207, 1279« Ce mot se prend quelque fois en bonne part & signifie *heureux*. … C'étoit une chose fatale à la race de Brutus de délivrer la République » (Ric.).V. 641Fier,e« Hautain, altier, audacieux » (F)V. 683, 739, 840, 877, 1134, 1201Voir HautainFierté« Orgueil » (Ric.)V. 59, 197, 621, 742, 1060, 1183« Ce mot se disant des femmes signifie quelquefois *une sévérité charmante. Orgueil qui plaît* » (Ric.).V. 135, 231, 294FierementAvec orgueil.V. 923Flatter« On dit, *se flater*, pour dire, s'entretenir dans l'esperance » (Acad.)V. 125, 135, 829« Traiter avec trop de douceur & trop de menagement, ce qui a besoin d'estre traité d'une autre maniere » (Acad.).V. 237, 1294Foi« Serment, parole qu'on donne de faire quelque chose, & qu'on promet d'executer » (F)V. 172, 179, 885, 962, 1019, 1148, 1162Désigne en particulier la promesse amoureuseV. 327, 963, 994, 1006, 1403« On dit, *la foy des traitez*, pour dire, les choses dont on est convenu par les traitez » (Acad.)V. 856FortuneÀ l'origine « déesse à qui les Païens donnoient la disposition de toutes les choses du monde, Fortune capricieuse, aveugle, contraire » (Ric.)V. 1237La fortune désigne au XVII*e* siècle un principe régissant le monde selon la loi du hasardV. 190, 533, 769, 785, 798« Bonheur, agrandissement » (Ric.).V. 63, 761Funeste(s)« Qui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable » (F)V. 61, 481, 992, 1248, 1379« Malheureux, sinistre, qui porte la calamité & la désolation avec soy » (Acad.).V. 71, 365GêneAu sens premier « question, torture », « se dit aussi de toute peine ou affliction de corps ou d'esprit » (F).V. 449GênerTorturer.V. 489Généreux« Vaillant, hardi dans les combats » (Acad.)V. 426, 472, 779, 1372Qui a « l'ame grande & noble, & qui prefere l'honneur à tout autre interest » (F).V. 1255, 1315Hautain, e« Impetueux, orgueilleux » (F).V. 197« Un *fier* ennemi, … un ennemi dangereux » (F)V. 276« Cruel, tyran » (F). V. 937Interdit(e)« Estonné, troublé, qui ne sçait ce qu'il fait, ce qu'il dit » (Acad.).V. 111, 404, 487Intéresser« Entrer dans les interests de quelqu'un, en embrasser les interests, prendre interest à quelque chose » (Acad.).V. 1078, 1082, 1261Irriter« Provoquer, exciter »V. 418, 675« Mettre en colere » (Acad.).V. 255 Joindre« Se mettre avec d'autres » (Ric.), se dit particulièrement dans un contexte militaire ; (v. 1235, 1264) « se recontrer, se trouver ensemble » (Acad.).V. 320, 1193, 1235, 1264Justifier« Montrer que la chose dont on entreprend la défense n'est point criminelle » (Ric.).V. 543Languir« Mourir d'amour, soupirer pour quelque belle » (Ric.)V. 238« Souffrir un supplice lent. Il se dit aussi figurément de l'ennuy & des peines d'esprit » (Acad.). V. 249, 313, 373Molesse« Se dit aussi figurément en Morale, de la foiblesse du corps et de l'esprit, d'une vie delicate & voluptueuse » (F).V. 238Mollir « N'être pas ferme dans la resolution qu'on a prise, se relâcher » (Ric.).V. 1037Monument« Marque publique pour transmettre à la posterité la mémoire de quelque personne illustre, ou de quelque action célèbre » (Acad.).V. 192, 775Mortel, le(s)« Ce qui dure jusqu'à la mort. … c'est un ennemy *mortel*. » (F)V. 278« Grand, sensible, extréme » (Ric.).V. 215, 221, 313, 406, 1368Mouvement(s)« Differentes impulsions, passions ou affections de l'ame » (Acad.). V. 248, 473, 1144Objet« Ce qui touche, qui esmeut les sens par sa presence »V. 122, 367, 511, 1370Se dit « poëtiquement … pour dire, la personne qu'on aime » (Acad.).V. 668Outrager« Offenser cruellement, faire outrage », l'outrage étant une « injure atroce » (Acad.).V. 369, 1158Pénible« Qui donne … de la peine », au sens de « douleur, tourment … obstacle, difficulté » (F). V. 835Pompe« Apareil superbe & magnifique qui se fait par ostentation ou pour quelque autre dessein » (Ric.).V. 615 PompeuxQui a de la magnificence.V. 502, 1145Prétendre« Demander une chose à laquelle on croit avoir droit » (Acad.)V. 11, 464, 947« Avoir intention » (Acad.).V. 169PrévenirDevancer, anticiper.V. 895, 1381Prochain(e)« Qui n'est pas loin. Il se dit du temps & du lieu » (F).V. 386Propre« Se dit de ce qui est convenable », « de ce qui est destiné à un certain usage » (F). Ces deux sens sont contenus dans l'occurrence du vers 166.V. 166Race« Lignée, extraction, decendans, famille » (Ric.).V. 29Rallentir« Rendre lent, moins ardent, moins vigoureux » (Ric.). V. 758, 844Remplir« Occuper dignement une place, soit dignité, soit charge, soit autre employ » (F).V. 723, 1179Sans douteAssurémentV. 14, 92, 105, 310, 324, 678, 835, 904, 1100, 1125, 1140, 1157, 1212, 1228. Sensible« Qui fait impression sur les sens, qui en frappe les organes » (F) V. 475« Se dit figurément en choses morales, & en parlant de l'émotion de l'ame & des passions » (F).V. 697Soin(s)« Diligence qu'on apporte à faire reüssir une chose, à la garder & à la conserver, à la perfectionner » (F)V. 141, 393, 571« Aplication de la personne qui prend garde à quelque chose » (Ric.)V. 819, 1146« Se dit aussi des liberalitez qu'on fait à quelqu'un pour le faire subsister » (F)V. 353, 1313, 1315EffortV. 1218Souci (F)Marques d'attention galantes. V. 353Sort« Se dit poëtiquement de la vie & de la fortune des hommes » (F)V. 264, 420, 680, 787, 800, 840, 869, 1066, 1106, 1111, 1196, 1224, 1227, 1238, 1243, 1281, 1299, 1331, 1342« Hazard, ce qui arrive fortuitement, par une cause inconnuë, & qui n'est pas reglée ni certaine » (F)V. 411, 791, 1005« Incertitude des evenemens »V. 1210ConditionV. 723, 1075, 1179« Sortilège, charme » (Ric.). V. 581Souffrir« Supporter » (Acad.)V. 322, 705« Tolerer, n'empescher pas, quoy qu'on le puisse » (Acad.)V. 434, 523, 546, 558, 1102« Permettre » (Acad.)V. 799, 817, 821, 893, 1258Succès« Issuë d'une affaire. Il se prend en bonne et en mauvaise part » (F).V. 23, 454, 1002, 1043Superbe« Vain, orgueilleux, qui a de la presomption, une trop bonne opinion de luy-même. La victoire rend un barbare *superbe*. » (F)V. 43, 64, 547, 1088, 1296« Plein d'orgueil, plein de fierté » (Ric.).V. 53, 618, 669, 879, 925Superflu(s)« Excessif, inutile, ce qui est au delà du besoin » (F).V. 712, 1359TantôtDans peu de temps.V. 429Tourment« Peine, soufrance » (Ric.)V. 508« On dit poëtiquement *Tourments amoureux*, pour dire, les maux que l'amour fait souffrir » (Acad.).V. 510Triste« Affligé par quelque perte ou accident qui luy est arrivé » (F)V. 257, 513, 644, 993, 1346« Chagrinant, ennuyeux, qui donne de la melancolie, du chagrin » (Acad.).V. 336, 362, 503, 587TristesseAffliction.V. 249, 625Vain« Qui a de la vanité » (Ric.).V. 125 Vertu(s)« Habitude de la volonté gouvernée par la raison. Droiture de l'ame. Qualité loüable » (Ric.)V. 279, 355, 439, 493, 716, 823, 1047, 1284, 1344, 1400Courage, « force, vigueur, tant du corps que de l'ame » (F)V. 773, 1328Se dit en parlant de la probité d'une femme.V. 56, 233, 883, 1103, 1272Zèle« Ardeur, passion qu'on a pour quelque chose » (F)V. 347« Se dit aussi de ce qui regarde les obligations de la vie civile.* Le zèle de la Patrie.* » (Acad.).V. 709
 
 
-# Annexe I : Version originale des scènes 4 et 5 de l'acte IV (vers 1168 à 1198 de l'imprimé)
+# Annexe I : Version originale des scènes 4 et 5 de l'acte IV (vers 1168 à 1198 de l'imprimé).
 
 Les vers qui ont été refondus dans la version finale sont ici indiqués en gras.
 
@@ -2825,7 +2825,7 @@ J'aperçois Scipion, armez-vous de courage,
 Je vous laisse, et ne puis vous en dire davantage. [478]  
 
 
-# Annexe II : Répartition du temps de parole entre les différents personnages au sein de la pièce
+# Annexe II : Répartition du temps de parole entre les différents personnages au sein de la pièce.
  | Acte I 312 vers | Acte II 300 vers | Acte III 308 vers | Acte IV 268 vers | Acte V 226 vers | Total : 1414 vers | %
 Scipion**123 +10 s. ⁎** | 91+6 s. | 105 +3 s. | 58 +9 s. | **96 +1 s.** | **475 +5 s.** | 33.63
 Ispérie |  | **140 +8 s.** |  | **88 +8 s.** | 56 +2 s. | 285 +6 s. | 20.20
@@ -2845,12 +2845,12 @@ Gardes |  |  |  |  |  | 0 | 0
 ⁎ s. signifie syllabes. «  » signifie que le personnage est présent mais qu'il ne parle pas.
 
 
-# Annexe III : Liste des pièces représentées aux mois de février, mars et avril 1697
+# Annexe III : Liste des pièces représentées aux mois de février, mars et avril 1697.
 
 Les deux chiffres indiquent : le nombre de spectateurs ; le montant de la recette rapportée [479].
 
 
-## Février 1697
+## Février 1697.
 
 …
 
@@ -2883,7 +2883,7 @@ Les deux chiffres indiquent : le nombre de spectateurs ; le montant de la rece
 **28 *Scipion* **: 429 ; 735.5 
 
 
-## Mars
+## Mars.
 
 1 *Etourdi, Escarbagnas* : 439 ; 509.10 
 
@@ -2932,7 +2932,7 @@ Les deux chiffres indiquent : le nombre de spectateurs ; le montant de la rece
 23 *Amphitryon, Florentin* : 879 ; 1337.10 
 
 
-## Avril
+## Avril.
 
 15 *Andromaque, Cocher supposé* : 695 ; 1087.5 
 
@@ -2967,7 +2967,7 @@ Les deux chiffres indiquent : le nombre de spectateurs ; le montant de la rece
 30 *Festin de Pierre* : 257 ; 316
 
 
-# Annexe IV : Deux registres journaliers de la Comédie-Française (année 1697)
+# Annexe IV : Deux registres journaliers de la Comédie-Française (année 1697).
  | Jour et date | Pièce(s) représentée(s) | Billets achetés | Part d'auteur | Reçu en tout | Autres informations recueillies sur l'un ou l'autre registre
 Loges basses à 24 livres | Loges hautes à 12 livres | Billets à 3 livres | Billets à 30 sols | Billets à 20 sols | Billets à 15 sols | TOTAL
 1 | vendredi 22 février | *Scipion* | 2 |  | 164 | 89 | 23 | 337 | 629 billets | 88.18 | 1125.5 livres | S.A.S. Monseigneur le Prince a payé les 3 loges qu'il devoit du Lundy gras dernier cy. Madame la Duchesse a payé une loge qu'elle devoit. 3.12 : donné à Subtil qui a apporté l'argent des loges de Monseigneur le Prince et Madame la Duchesse.
@@ -2994,33 +2994,33 @@ Loges basses à 24 livres | Loges hautes à 12 livres | Billets à 3 livres |�
 
 
 
-# Annexe V : *Histoire romaine de Tite-Live*, traduction de Du Ryer, publ. 1694-1696 (volume 5)
+# Annexe V : *Histoire romaine de Tite-Live*, traduction de Du Ryer, publ. 1694-1696 (volume 5).
 
 
-## La fiancée d'Allucius (troisième décade, livre VI, p. 82-84)
+## La fiancée d'Allucius (troisième décade, livre VI, p. 82-84).
 
 Ensuite les soldats luy amenerent une fille prisonniere, en âge d'estre mariée, mais qui au reste estoit si belle qu'en quelque lieu qu'elle parlast, elle attiroit les regards de tout le monde. Scipion luy ayant demandé de quel Pays elle estoit, & qui estoient ses parens, elle luy repondit entre autre chose qu'elle estoit fiancée à un Prince des Celtiberiens que l'on appeloit Allucius. En mesme temps il manda son Pere, sa Mere, & son Fiancé, & fut cependant averty que ce Prince qui l'aymoit uniquement, estoit pour elle en une extreme inquietude. Lors qu'ils furent tous venus, il parla plus particulierement à Allucius, qu'au Pere & à la Mere de cette fille, ***Je suis jeune aussi bien que vous***, luy dit-il*, c'est pourquoy j'ay esté bien-aise de vous parler en secret, afin de nous entretenir avecque plus de liberté. Aussi-tost qu'on m'eust amené vostre fiancée, & que****j'eus appris que vous l'aimiez, ce que sa beauté me confirma facilement, comme je voudrois qu'on m'excusast d'aimer ardemment une Maistresse, s'il m'estoit permis de suivre les inclinations de mon âge, & que les soins de la Republique n'occupassent pas tout mon esprit*, ***je me resolus de favoriser vostre amour, & en effet je luy seray favorable autant qu'il me sera possible. Vostre fiancée a esté traitrée chez moy avec autant de respect que chez vostre Pere, ou que chez le sien. On vous l'a religieusement conservée, afin que je pusse****vous faire un present qui fût digne & de vous et de moy. Je ne vous demande point d'autre reconnoissance de cette faveur, sinon que vous soyez amy du Peuple Romain* ***; et si vous croyez que j'aye quelque probité, comme les Peuples d'Espagne en ont toujours reconnu en mon Pere & mon Oncle, persuadez vous aussy qu'il y en a beaucoup dans Rome qui nous ressemblent, & qu'il n'y a point de Peuple sur la terre que vous deviez moins vouloir pour Ennemy, & souhaitter plutost pour amy.* Ce jeune Prince transporté de joye, serrant la main de Scipion, invoqua tous les Dieux, & les pria de vouloir donner pour luy la recompense de ce bienfait, parce qu'il n'avoit pas le pouvoir de le reconnoistre, selon qu'il en avoit volonté. Alors on fit venir le Pere & la Mere, & les parens de cette fille, qui avoient apporté quantité d'or pour la racheter ; & quand ils virent qu'on la rendoit gratuitement, ils prierent Scipion de vouloir accepter ce present qu'ils luy faisoient, luy protestant qu'il ne leur feroit pas un moindre plaisir, que de leur avoir rendu leur fille avec son honneur & sa chasteté. Scipion voyant qu'ils le prioient avec tant d'ardeur de prendre cét or, leur promit qu'il le prendroit, & leur commanda de le mettre devant luy à ses pieds. Alors se tournant vers Allucius, *Outre le dot*, luy dit-il, *que vostre Beau-pere vous doit donner, je vous donne aussi ce present en faveur de vostre mariage*, & aussi-tost il luy enjoignit de faire enslever cet or, & de le faire emporter avecque luy. Ainsi ce Prince s'estant retiré satisfait des presens & des honneurs qu'il avoit receus, **remplit tout son Païs des louanges de Scipion** ; qu'il estoit venu en Espagne un jeune Romain qui estoit semblable aux Dieux, & qu'il triomphoit par tout par ses armes, par sa douceur & par ses bien-faits. Et ayans fait une levée dans le Pays de son obeïssance, il revint quelques temps apres trouver Scipion avec une Cavallerie de quatorze cens hommes d'élite.
 
 
-## Rencontre d'Annibal et de Scipion (troisième décade, livre X, p. 357)
+## Rencontre d'Annibal et de Scipion (troisième décade, livre X, p. 357).
 
 … Ainsi encore qu'il fust luy-mesme la cause de la guerre, & qu'il eust troublé par son arrivée & les tréves, & l'espérance de s'accomoder ; néantmoins, s'imaginant que s'il demandoit la paix tandis qu'il avoit encore toutes ses forces, les conditions en seroient plus avantageuses que s'il avoit perdu une bataille, **Annibal envoya à Scipion pour demander à conferer avecque luy**. … Au reste, comme Scipion accepta cette conference, **les deux Chefs firent rapprocher leurs Camps l'un de l'autre, … afin de s'assembler de plus prés**, & d'avoir plus de commodité de conferer. Scipion vint camper asez prés de la ville de Nagabate, parce que le lieu estoit commode en toutes choses, & sur tout, parce qu'on n'estoit esloigné de l'eau que de la portée d'un trait. Pour Annibal, il campa à quatre mille de là, sur une eminence qui estoit assez seure & assez commode, si ce n'est que l'eau en estoit un peu esloignée ; & l'on avoit choisi entre les deux Camps un endroit descouvert de tous costez, de peur de quelque embuscade.
 
 
-## Discours d'Annibal (troisième décade, livre X, p. 358-361)
+## Discours d'Annibal (troisième décade, livre X, p. 358-361).
 
 Ainsi les armées de part & d'autre s'estant esgallement esloignées de ce lieu, les deux plus grands Capitaines non seulement de leur siecle, mais de tous les siecles passez, y vinrent pour y conferer avec chacun un truchement. **Ils demeurerent quelque temps l'un devant l'autre sans se parler, comme ravis l'un pour l'autre d'une admiration mutuelle** ; mais enfin **Annibal parla le premier**. *Si les destins*, dit-il*, avoient ordonné, que comme j'ay commencé le premier la guerre, je vinsse aussi le premier demander la paix, je me rejoüis que la fortune ait voulu que ce soit à Scipion à qui je vinsse la demander. Ce ne sera pas sans doute la moins illustre de vos loüanges ; qu'****Annibal, à qui les Dieux avoient donné la victoire de tant de Capitaines Romains****, soit venu vous la ceder, & que vous ayez mis fin à cette guerre plus memorable par vos defaites que par les nostres. En quoy certes****on void un autre jeu de la fortune****, en ce que m'ayant fait prendre les armes durant le Consulat de vostre Pere, & que vostre Pere ayant esté le premier des Generaux des armées Romaines contre qui j'ay donné bataille*, ***je viens aujourd'huy desarmé demander la paix****à son fils. Il eûst sans doute esté avantageux que les Dieux eussent inspiré à nos Peres de se contenter de leur ancien partage, les vostres de l'Empire d'Italie, & les nostres de la domination de l'Afrique. En effet, ny la Sicile, ny la Sardaigne, ne sont pas des recompenses qui soient capables de reparer & la perte de tant de flottes, & la défaites de tant d'armées & la mort de tant de fameux Capitaines : mais il est plus aisé de blasmer que de corriger les choses passées. Que ce soit donc assez que nous ayons attaqué ce qui ne nous appartenoit pas, que nous soyons contrains de défendre les choses qui nous appartiennent, & que non seulement vous ayez eu la guerre en Italie, & que nous l'ayons eue en Afrique, mais que vous ayez veu devant vos portes & au pied de vos murailles les enseignes & les Armées des Carthaginois, & que nous ayons entendu de Carthage le bruit de l'armée Romaine. Ainsi ce que nous devrions avoir en horreur, & ce que vous devriez particulierement souhaitter, on vous vient parler de la paix lors que toutes choses vous sont favorables ; & nous en traittons aujourd'huy, nous à qui il importe particulierement qu'on la fasse, & qui pouvons la conclurre avec asseurance que nos Peuples la confirmeront. Nous n'avons besoin que d'un esprit qui n'ait pas de l'aversion pour le repos & pour la tranquilité publique. Pour ce qui me regarde, comme je retourne vieux en mon pays, d'où je suis party presque enfant ;****l'âge, les prosperitez & les mal-heurs, m'ont instruit de telle sorte que j'ayme mieux écouter aujourd'huy la raison que la fortune. Mais je crains que vostre jeunesse & vostre bonheur perpetuel ne vous donnent des pensées qui soient contraires à la paix ; & certes celuy que la fortune n'a jamais trompé****, ne considere pas beaucoup l'inquietude des evenemens. Vous estes aujourd'huy ce que j'estois auprés de Trasymene,& de Cannes ;****vous receustes le commandement en un âge où l'on est à peine capable de porter les armes****, & alors en entreprenant toutes choses avec un courage extréme, & une hardiesse incomparable*,*** la fortune ne manqua jamais à vos entreprises. Vous poursuivites la vengeance de vostre Pere & de vostre Oncle* ***; & vous tirastes de la fortune de vostre Maison, une****réputation glorieuse de courage & de pieté***. ***Vous avez reconquis les Espagnes****, apres en avoir chassé quatre armées Carthaginoises. Lors qu'on vous eut creé Consul, & que les autres avoient à peine assez de courage pour oser defendre l'Italie*, ***vous traversâtes en Afrique* ***; & apres y avoir taillé en piece deux armées, forcé & bruslé deux camps en mesme heure*, ***pris le puissant Roy Syphax****, &****tant de villes en son royaume & de nostre domination, enfin vous m'avez arraché de l'Italie, dont il y avoit desja seize ans que j'estois en**possession****. Il y a donc de l'apparence que la victoire vous sera plus agreable que la paix, & que vous aymerez mieux les grands desseins que les desseins profitables, mais quelquefois la mesme fortune m'a regardé du mesme œil qu'elle vous regarde maintenant. Que si les Dieux nous donnoient de la****prudence****avec les prosperitez, nous jetterions les yeux non seulement sur les choses qui nous sont desja arrivées, mais aussi sur celles qui peuvent arriver ; & au reste, quand vous voudriez tout mettre en oubly*, ***je suis assez capable de vous fournir tout ensemble un exemple de l'une & de l'autre fortune.**** En effet*, ***moy que vous avez veu nagueres campé entre le Teveron & vostre Patrie, & desja tout prest de monter sur les murailles de Rome, vous me voyez icy maintenant privé de deux freres genereux devant les murailles de ma Patrie presque assiegée, comme vous demandant sa grace, & que vous l'affranchissiez des maux dont j'ay fait peur à vostre Ville****. C'est aux plus hautes & aux plus favorables fortunes en quoy il faut avoir moins de confiance.****Comme vos affaires sont florissantes, & que les nostres sont incertaines, & dans un estat douteux, la paix que vous donnerez sera pour vous glorieuse ; & pour nous qui la demandons, elle sera plus necessaire qu'elle ne doit estre honorable. Enfin une paix certaine est toujours plus avantageuse, & un bien plus asseuré que l'espérance de la victoire. L'une dépend de vous, & est desja entre vos mains,& l'autre est en la puissance & en la disposition des Dieux.****N'exposez donc pas au hazard d'une mauvaise heure, un bon-heur de tant d'années. Représentez vous & vos forces ; & la force de la fortune, & le hazard de la guerre. Il y aura du fer de part & d'autre ; il y aura des corps qui ne sont pas invulnerables ; &****il n'y a point d'occasions où les succés respondent moins aux esperances que dans la guerre & parmy les armes.****Quand mesme vous gagneriez la bataille, vous ne pouvez ajouster tant de gloire à celle qui vous peut venir de la paix que vou donnerez, que vous pouvez vous en oster, s'il vous arrive quelque mal-heur.****Un instant seul est capable de ruiner & de perdre tout ce que vous avez acquis****de reputation & de gloire, & tout ce que vous pouvez en esperer.****Toutes choses, Scipion, sont encore en vostre puissance ; tandis qu'on peut faire la paix ; mais si vous n'y voulez consentir, il faudra prendre la fortune que les Dieux voudront vous donner***. ***On eût pu mettre sans doute M. Attilius Regulus dans le petit nombre des exemples de bonheur & de courage, s'il eust voulu estant vainqueur, donner la Paix à nos Peres, qui la demandoient.****Mais comme il ne pouvoit mettre de bornes ny à son bon-heur ; ny à sa fortune*, ***sa cheute fut d'autant plus rude & plus honteuse, qu'il tomba du lieu plus haut****. Veritablement il appartient à celuy qui donne la paix, d'en****proposer les conditions****, & non pas à celuy qui la demande ; mais peut-estre que nous ne sommes pas indignes d'ordonner nous-mesmes nostre chastiment.****Nous ne refusons point que les choses qui ont esté cause de la guerre, ne vous demeurerent, la Sicile, la Sardaigne, l'Espagne, & toutes les Isles qui sont entre l'Italie & l'Afrique : & les Carthaginois renfermez entre leurs rivages, puisque les Dieux le veulent ainsi, verront vostre domination s'estendre glorieusement****dans les Païs estrangers, sur la mer & sur la terre. Je ne nieray pas que le peu de sincerité qu'ils ont fait paroistre en demandant & en attendant la paix, ne vous rende****leur**foy suspecte**** & douteuse ; mais il importe beaucoup Scipion pour faire un traité de paix, de considerer qui sont ceux qui la demandent. Vostre Senat mesme, comme je l'ay entendu dire, ne l'a pas voulu accorder, parce que l'Ambassade qu'on envoyoit pour ce sujet, n'estoit pas assez venerable ny assez majestueuse. C'est Annibal qui vous demande la paix, &**** qui ne la demanderoit pas s'il ne la croyoit utile* ***; & la mesme****utilité**** qui l'oblige de la demander, l'obligera de la maintenir. Car comme j'ay fait en sorte, tant que les Dieux ne m'ont point envié ma gloire, qu'on n'a point eu de sujet de se repentir de la guerre que j'ay commencée ; ainsi je feray mes efforts pour que personne ne se repente de la paix que j'auray concluë.*
 
 
-## Réponse de Scipion (troisième décade, livre X, p. 361-362)
+## Réponse de Scipion (troisième décade, livre X, p. 361-362).
 
 Scipion fit à peu prés cette réponse à Annibal. Je sçavois bien, Annibal, que les Carthaginois avoient rompu la tréve, & ruiné l'esperance de la paix, par l'esperance de vostre arrivée ; & vous mesme vous ne le dissimulez pas, puisque vous retranchez toutes choses des articles qu'on avoit déja proposez, excepté ce qui est en nostre puissance il y a desja long-temps. Mais au reste, comme vous prenez le soin de faire voir à vos Citoyens de quel grand fardeau vous les deschargerez, ainsi il faut que je fasse en sorte que les choses dont ils estoient demeurez d'accord, ne soient pas ostées des conditions de la paix, pour estre la recompense de **leur perfidie**. Vous vous estes rendus indignes de traiter aux mesmes conditions qu'auparavant ; & cependant vous demandez que vostre fardeau vous soit aujourd'huy profitable. Nos Peres ne commencerent pas les premiers la guerre pour la Sicile, ny nous ne l'avons pas commencée les premiers pour l'Espagne ; mais **le danger où estoient reduits en ce temps-là les Mamertins nos alliez, & de nostre temps la destruction de Sagonte, nous firent prendre les armes** premierement par pitié, & depuis avec justice. Vous nous avez attaquez, comme vous le confessez vous mesme, & les Dieux en sont tesmoins. Aussi nous donnerent-ils alors un succés conforme à la justice de nostre cause ; & comme ils ont desja commencé, ils nous donnerent encore un heureux evenement de cette guerre. Pour ce qui me regarde en particulier, je n'ay pas perdu la memoire ny de la Condition humaine, ny du pouvoir de la fortune, & je sçay que le hazard est ordinairement le maistre de toutes les choses que nous faisons. Au reste, comme j'avouërois moy-mesme que je me serois gouverné avec trop d'orgueil & d'insolence, si avant que je fusse passé en Afrique, j'eusse méprisé les demandes que vous m'eussiez faites de la paix, en sortant volontairement de l'Italie, & après avoir fait embarquer vostre armée ; ainsi maintenant que je vous ay attiré en Afrique comme par la main, & malgré tous vos artifices, il n'y a point de respect qui m'oblige à considerer vos demandes. C'est pourquoy si vous voulez ajouster aux conditions ausquelles on vouloit faire la paix, & dont vous avez connoissance, quelque sorte de reputation, pour avoir pris nos vaisseaux chargez de vivres, & outragé nos Ambassadeurs durant la tréve, j'en parleray à mon Conseil ; mais si ces conditions vous paroissent trop rigoureuses, preparez vous à la guerre, puisque vous n'avez pû souffrir la paix. Ainsi chacun s'estant retiré sans avoir rien resolu, ils firent sçavoir à leurs gens, qu'on avoit tenté en vain par des paroles de faire la paix ; qu'il falloit en decider par la force & par les armes, & prendre enfin telle fortune que les Dieux vouloient envoyer.
 
 
-# Annexe VI : Rappels historiques
+# Annexe VI : Rappels historiques.
 
 
-## Chronologie indicative
+## Chronologie indicative.
 
 **221 avant JC** : mort d'Asdrubal, gendre d'Hamilcar Barca ; **Annibal Barca** prend à sa suite le commandement des armées. 
 
@@ -3129,7 +3129,7 @@ Attaques politiques dirigées contre les deux Scipions par Caton le Censeur ; l
 Mort de Scipion à Literne.
 
 
-## Les principales batailles de la seconde guerre punique
+## Les principales batailles de la seconde guerre punique.
 
 Les batailles évoquées dans la pièce sont indiquées en gras.
 Bataille | Date | Vainqueur | Commandants | Forces en présence | Pertes
@@ -3146,25 +3146,25 @@ Zama | 202 | Annibal | Scipion l'Africain, Massinissa | 50 000 fantassins, 4
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources historiques de la pièce
+## Sources historiques de la pièce.
     Les Vies des hommes illustres grecs et romains, comparées l'une avec l'autre, par Plutarque,... translatées par M. Jacques Amyot,... avec les vies d'Annibal et de Scipion l'Africain, traduites de latin en français par Charles de l'Ecluse
 Les Décades de Tite Live, avec les Supplémens de J. Freinshemius et les Sommaires complets de Florus ; nouvellement augmentées d'un Abrégé chronologique ; mises en françois par P. Du Ryer
 
 
 
-## Documents sur la pièce
+## Documents sur la pièce.
 
 
-### Concernant sa représentation à la Comédie-Française
+### Concernant sa représentation à la Comédie-Française.
     Registres des Comediens ordinaires du Roy
  Registre d'Assemblée
 
 
 
-### Concernant sa réception
+### Concernant sa réception.
     Diversitez curieuses en plusieurs lettres. Augmentées d'une lettre pour servir de response aux sieurs Gacon et de L'Homme
 Le Poëte sans fard, ou discours satiriques sur toute sorte de sujets
 Correspondance de Madame duchesse d'Orléans, extraite de ses lettres originales déposées aux Archives de Hanovre et de ses lettres publiées par M. de Ranke et M. L. W. Holland*e*
@@ -3172,7 +3172,7 @@ Correspondance de Madame duchesse d'Orléans, extraite de ses lettres originales
 
 
 
-## Ouvrages sur Pradon et son œuvre
+## Ouvrages sur Pradon et son œuvre.
     Scipion l'Africain
 Notice sur le poète Pradon, dans le Précis analytique des travaux de l'Académie des sciences belles lettres et arts de Rouen
 Épîtres
@@ -3194,7 +3194,7 @@ Correspondance
 
 
 
-## Ouvrages sur Annibal et Scipion l'Africain
+## Ouvrages sur Annibal et Scipion l'Africain.
     Scipion
 AnnibalTragédies et oeuvres mêlées
 La Mort d'HannibalLe Théatre de Thomas Corneille
@@ -3208,7 +3208,7 @@ Le Grand Scipion
 
 
 
-## Autres documents antérieurs à 1800
+## Autres documents antérieurs à 1800.
     ŒuvresRomans et nouvelles
 Œuvres complètes
 Scevole
@@ -3229,7 +3229,7 @@ Port-Royal
 
 
 
-## Travaux critiques
+## Travaux critiques.
     Histoire de la littérature française du XVII*e* siècle
 La Comédie-Française, histoire administrative (1658-1757)
 The Guénégaud theatre in Paris
@@ -3245,7 +3245,7 @@ La Comédie Française : 1680-1716, public et folies dramatiques, dans Problèm
 
 
 
-## Instruments de travail
+## Instruments de travail.
      Dictionnaire
 La Poétique
 La Rhétorique
@@ -3271,7 +3271,7 @@ Dictionnaire de l'Antiquité
 
 
 
-## Articles consultés
+## Articles consultés.
     Littératures classiques
 *e*D'Eschyle à Genêt, études sur le théâtre en hommage à Francis Pruner
 Actes de Lexington 1993 : Pierre Charron : autour de l'année 1715 dans les “Mémoires” de Saint-Simon, la mort dans la littérature du XVIIe siècle

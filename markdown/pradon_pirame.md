@@ -15,7 +15,7 @@ A PARIS, chez HENRY LOYSON, au Palais, dans la Salle Royale à l'entrée, en mon
       maîtrise sous la direction de Georges Forestier (2001-2002).
 
 
-# Introduction
+# Introduction.
 
 
 … Je me souviens qu'un jour je lisais à Paris une tragédie dans une maison où il va tous les jours de beaux esprits à l'heure du dîner, et dans laquelle, sans vanité, je ne passais pas pour un Pradon. [1]
@@ -32,7 +32,7 @@ Quand on excelle dans son art, et qu'on lui donne toute la perfection dont il es
 Si Pradon n'atteint pas au génie de son modèle Corneille, il n'est pourtant pas dépourvu totalement de tout talent poétique, notamment lorsqu'il s'agit d'exprimer l'amour de la gloire.
 
 
-# Pradon, un auteur mal aimé
+# Pradon, un auteur mal aimé.
 
 Pradon reste un inconnu, dont le nom nous est surtout connu à travers la fameuse querelle des deux *Hippolytes* qui l'a vu défier Racine sans grand bénéfice pour sa carrière.
 
@@ -65,20 +65,20 @@ Cette querelle a assombri la carrière de Pradon au point d'occulter les réussi
 La versification de Pradon a suscité nombre de sarcasmes ; mais en réalité elle présente un réel intérêt et Pradon n'est pas aussi dénué de talent poétique que l'ont affirmé certains critiques (cf. Style, p. 41). Ses tragédies ont su retenir l'attention du public ; de fait son théâtre est réédité régulièrement jusqu'en 1744 et *Pirame et Thisbé* ainsi que *Tamerlan* feront l'objet de traductions italiennes au XVIII*e* siècle. Pradon nous offre donc une œuvre attachante aux réminiscences cornéliennes.
 
 
-# Circonstances de représentation
+# Circonstances de représentation.
 
 
-## Création et réception
+## Création et réception.
 
 La première représentation de *Pirame et Thisbé* est généralement située en janvier 1674 ; or le privilège du roi est obtenu en février 1674. Il nous semble donc légitime de suivre l'hypothèse de H. C. Lancaster selon laquelle la pièce a été représentée dès décembre 1673 suite à l'échec de *Démarate* de Boyer [10]. Pradon évoque dans sa préface le bon accueil fait par le public à sa première pièce : « Apres que le Public est venu en foule à cette Piece, & l'a honnorée assez long-temps de son assiduité… ». La première tragédie de Pradon rencontra lors de sa création auquel l'association du thème de l'amour malheureux tel qu'on le trouve chez Théophile de Viau et celui du conflit entre le devoir et l'amour emprunté à Corneille a sans doute largement contribué.
 
 
-## Scénographie
+## Scénographie.
 
 Le titre de la pièce apparaît dans *le Mémoire de Mahelot* [11] ; mais les informations sur la scénographie sont très minces : « Theatre est un palais. Il faut deux billets ». En effet la pièce appartient à la seconde moitié du siècle où se sont imposés les décors de type « palais à volonté », c'est-à-dire figurant un lieu unique de palais, le plus souvent une antichambre. Par ailleurs le relevé des accessoires nécessaires est erroné, puisque le décorateur de l'Hôtel de Bourgogne mentionne deux billets alors qu'un seul billet est utilisé au cours de l'intrigue. Le texte lui-même ne comporte que quelques rares didascalies indiquant les sorties des personnages ou leurs gestes (« Elle prend & lit le billet », III, 6). Par contre on ne trouve aucune indication sur la façon dont les personnages doivent s'exprimer : ainsi à la scène 4 de l'acte II Thisbé semble prononcer quelques mots en aparté (« Craindre Belus, Ingrat », v. 583), mais rien ne le souligne.
 
 
-## Postérité
+## Postérité.
 
 La tragédie de *Pirame et Thisbé* semble avoir fait une carrière plus qu'honorable et obtenu un réel succès populaire. En effet elle a été par la suite reprise par la troupe rivale du théâtre Guénégaud puis a figuré au répertoire de la Comédie Française. Le *Registre* de La Grange indique qu'elle fut régulièrement jouée jusqu'en 1685. H.C. Lancaster précise qu'elle aurait été représentée quarante-neuf fois par la Comédie Française entre 1680 et 1711. Les frères Parfaict eux-mêmes signalent que *Pirame et Thisbé* aurait occupé la scène pendant quarante ans [12], ce qui en fait le plus grand succès de Pradon avec *Regulus*, son chef-d'œuvre qui a joui d'un succès durable jusqu'au XVIII*e* siècle.
 
@@ -90,7 +90,7 @@ Ce grand succès n'est dû qu'à certaines circonstances. L'indulgence ordinaire
 Pourtant cette tragédie jouit d'un intérêt persistant de la part du public tant sur la scène qu'à l'édition. En effet *Pirame et Thisbé* est régulièrement rééditée jusqu'en 1744 soit isolée soit dans des recueils ; au XVIII*e* siècle elle bénéficie même d'une traduction italienne.
 
 
-# Sources
+# Sources.
 
 *Les Métamorphoses* d'Ovide fourmillent d'histoires d'amour impossibles parmi lesquelles le mythe de Pyrame et Thisbé occupe une place à part [15]. En effet aucun dieu n'intervient dans l'histoire des deux amants, ce qui est pourtant la règle dans les mythes. Mais la particularité essentielle de ce récit réside dans le fait que la métamorphose n'atteint pas les amants eux-même, mais un élément du décor, le murier. Enfin ce récit n'est pas directement le fait du narrateur ; les amours malheureuses des deux amants sont contées par l'une des filles de Minyas qui, dédaignant le culte de Bacchus, continuent à travailler la laine durant l'une des fêtes du dieu en se racontant des histoires.
 
@@ -99,7 +99,7 @@ Pyrame et Thisbé sont deux jeunes gens de Babylone que tout rapproche et dont l
 La simplicité de cette histoire lui permet d'atteindre le sommet de l'émotion élégiaque. Et l'évolution de l'élan de vie des deux amants en élan de mort trouvera un écho durable dans la littérature européenne.
 
 
-## Inscription du mythe de Pyrame et Thisbé dans la littérature européenne
+## Inscription du mythe de Pyrame et Thisbé dans la littérature européenne.
 
 Dès le Moyen Âge le mythe d'Ovide est largement repris : ainsi au XII*e* siècle on trouve un conte *Pyramus et Tysbé* [16] resté anonyme et sans doute rédigé entre 1155 et 1160. Ce texte est repris dans l'*Ovide moralisé* [17]. La Renaissance perpétue cette tradition, notamment à travers les œuvres de Baïf (*Le Murier*) et de Marino.
 
@@ -110,7 +110,7 @@ Au XVIII*e* siècle le mythe jouit encore d'une grande popularité et est adapt�
 Ces quelques exemples permettent de saisir l'importance du mythe dans la littérature européenne et sa valeur de référent culturel. Il nous a semblé nécessaire d'offrir un panorama le plus large possible avant d'étudier de façon plus détaillée les sources de Pradon.
 
 
-## L'héritage d'Ovide et de Théophile de Viau
+## L'héritage d'Ovide et de Théophile de Viau.
 
 Pradon n'a certainement eu connaissance que des œuvres d'Ovide, de Théophile de Viau et de Puget de la Serre parmi tous ces avatars du mythe de Pirame et Thisbé. Mais seuls les deux premiers semblent avoir eu une réelle influence sur la pièce de Pradon. Il faut d'ailleurs remarquer que pour l'essentiel Puget de la Serre s'est contenté de suivre *Les Amours tragiques de Pyrame et Thisbé*.
 
@@ -137,7 +137,7 @@ Thisbé revient enfin, & Narbal vit en elle.
 Par ailleurs la présence parentale est remarquable par rapport au texte des *Métamorphoses* et aux *Amours tragiques de Pyrame et Thisbé* ; en effet Ovide évoque à peine les pères et chez Théophile de Viau le père de Pyrame et la mère de Thisbé n'apparaissent chacun que dans une scène (respectivement I, 2 et IV, 2). Au contraire chez Pradon le personnage d'Arsace intervient dans huit scènes et il joue à chaque fois un rôle actif. Il développe donc le thème d'une querelle familiale, ce qui contribue à accentuer le sentiment d'inéluctabilité : de toute part se dressent des obstacles pour les malheureux amants.
 
 
-### … aux Amours tragiques de Pyrame et Thisbé
+### … aux Amours tragiques de Pyrame et Thisbé.
 
 Très souvent Pradon adopte à son tour les inventions de son prédécesseur à tel point qu'on lui a reproché de n'avoir fait que du plagiat et non pas une œuvre poétique. D'ailleurs les relevés visant à mettre en évidence les similitudes de formulation abondent, notamment chez les frères Parfaict et chez T.W. Bussom. Nous proposons ici le relevé des frères Parfaict repris par H.C. Lancaster qui nous semble l'un des plus pertinents [22] :
 
@@ -178,7 +178,7 @@ On voit bien que je ne luy ay rien emprunté, que les Noms de Pirame & Thisbé, 
 En effet l'interférence de la royauté dans les amours des deux jeunes gens est le seul élément qu'il doit directement à son prédécesseur. Il se démarque ainsi de Puget de la Serre qui reprenait très exactement la structure de la pièce de Théophile de Viau et qui conservait l'épisode du songe de la mère de Thisbé. Par ailleurs le mythe originel est totalement modifié par l'intrigue politico-amoureuse qui semble reléguer le couple de Pirame et Thisbé au second plan. En bouleversant l'histoire et en multipliant les intérêts, Pradon a quasiment effacé la dimension élégiaque de l'histoire d'Ovide et de la pièce de Théophile de Viau [23].
 
 
-## Les innovations de Pradon
+## Les innovations de Pradon.
 
 Pradon a infléchi le traitement du mythe et y a apporté des éléments qu'on ne trouve pas chez ses prédécesseurs. Ainsi il développe l'arrière-plan de la tragédie ; en effet chez Ovide et chez Théophile de Viau le lieu de l'action est à peine précisé, alors que dans *Pirame et Thisbé* on trouve l'évocation de lieux emblématiques de Babylone tels les fameux jardins de Sémiramis (I, 4, v.151-154).
 
@@ -190,7 +190,7 @@ Il est également possible de rapprocher la structure de *Pirame et Thisbé* de 
 *What seems to have happened is that Pradon, whose conservative provincial culture made him familiar with Théophile's old play, set out to modernize it. The Babylonian theme led him to turn to an ancient historian for the story of Semiramis and for certain proper names, but he did not find there enough material to fill out Théophile's simple plot. Hence he turned to Bajazet, a recent and successful play in which Babylon is mentioned, and developed his plot accordingly*. [27]
 
 
-## Une réécriture classique
+## Une réécriture classique.
 
 Au XVII*e* siècle il est admis que le sujet d'une tragédie doit être un sujet connu soit historique soit mythologique. Cependant la fidélité aux sources peut se trouver en contradiction avec les grands principes classiques qui sont la vraisemblance et les bienséances. Ce problème est central dans l'histoire de Pirame et Thisbé qui dans sa version originale met en scène une métamorphose et deux morts violentes. Le travail de réécriture est donc appelé à porter également sur ces aspects qui rejoignent la question de l'évolution de l'esthétique et de la dramaturgie entre le début et la fin du siècle. De fait, le problème ne se pose pas dans les mêmes termes pour Théophile de Viau et pour Pradon.
 
@@ -221,7 +221,7 @@ Cette réécriture classique se retrouve dans le traitement de la mort des amant
 On a encore trouvé à redire qu'Arsace fit le recit luy-mesme de la mort de son Fils, & de celle de Thisbé ; Quelques-uns ont dit que ce recit estoit trop pathetique dans la bouche d'un Pere, & que les grandes douleurs estoient muettes.
 
 
-# L'unification de l'intrigue
+# L'unification de l'intrigue.
 
 La tragédie de *Pirame et Thisbé* obéit aux règles classiques d'unité de lieu et de temps ; mais le respect de l'unité d'action est moins évident. En liant le mythe de Pyrame et Thisbé et l'histoire d'Amestris et de Belus inspirée par Diodore, Pradon n'a-t-il pas été amené à commettre une faute dramaturgique grave, la duplicité d'action ? En effet le statut de l'histoire d'Amestris s'avère délicat à établir : s'agit-il d'un épisode ou d'une intrigue à part entière ? Dans sa *Préface* Pradon se défend d'avoir superposé de manière artificielle deux intrigues :
 
@@ -229,7 +229,7 @@ La tragédie de *Pirame et Thisbé* obéit aux règles classiques d'unité de li
 Quelques-uns ont voulu dire que cet Episode l'emportoit sur le Sujet principal ; mais si l'on veut prendre la peine d'examiner leurs intérests, on verre qu'ils sont si bien meslez avec ceux de Pirame & Thisbé, que toutes les démarches de ces trois Personnes [28] ne tendent qu'à rompre l'intelligence qui est entre ces deux Amans, pour l'intérest particulier de leur amour, & qu'enfin Pirame & Thisbé sont le terme & le point fondamental où aboutissent toutes les lignes de ma Piece, comme à leur centre.
 
 
-## Essai de définition de l'unité d'action et de la duplicité d'action
+## Essai de définition de l'unité d'action et de la duplicité d'action.
 
 Pour comprendre ce que met en jeu ce reproche, il faut définir précisément ces notions. Corneille rend compte de la difficulté à définir l'unité d'action, alors qu'il s'agit sans doute de la plus essentielle des trois unités :
 
@@ -257,7 +257,7 @@ Celles-ci doivent naître de la constitution même de la fable de façon à déc
 Jacques Scherer met en évidence trois facteurs d'unité d'action : l'inamovibilité, la continuité, le rapport de nécessité des actions ; et les intrigues secondaires doivent avoir une influence sur l'intrigue principale. En ce sens, il est plus légitime de parler d'action unifiée que d'action une, puisqu'une intrigue théâtrale comporte forcément des éléments divers qu'il est nécessaire d'organiser et de hiérarchiser.
 
 
-## L'unification de l'action dans *Pirame et Thisbé*
+## L'unification de l'action dans *Pirame et Thisbé*.
 
 Dans *Pirame et Thisbé* quels sont les éléments qui contribuent à l'unification de l'intrigue malgré la contamination de deux sujets totalement étrangers l'un à l'autre ?
 
@@ -273,15 +273,15 @@ Inversement il existe un même rapport de nécessité entre l'intrigue secondair
 Pradon ne se contente donc pas de juxtaposer deux intrigues pour compenser la minceur du sujet de Pirame et Thisbé ; mais il unifie vraiment les événements en rassemblant tous les événements autour du couple de Pirame et Thisbé qui se trouve au premier plan dès le début. En effet dans la scène 1 de l'acte I Arsace s'interroge sur sa position qui apparaît compromise si la reine apporte effectivement son soutien au couple. En dépit de la multiplicité des intérêts mis en présence, la tragédie *Pirame et Thisbé* offre une unité d'action non en tant qu'action unique mais en tant unification d'actions distinctes.
 
 
-# Thèmes
+# Thèmes.
 
 
-## Une tragédie de l'amour impossible
+## Une tragédie de l'amour impossible.
 
 Le mythe de Pyrame et Thisbé est synonyme dans l'imaginaire collectif d'amour impossible : les amants ne parviennent à se rejoindre que dans la mort. D'emblée le spectateur sait qu'il assistera à une tragédie de l'amour malheureux ; toutefois la réécriture des sources opérée par Pradon complique ce schéma et conduit à une lecture très pessimiste.
 
 
-### Des désirs contradictoires
+### Des désirs contradictoires.
 
 Après un exil de deux ans Thisbé est enfin de retour à la cour et tout semble promettre aux amants un dénouement heureux pour leur amour : ils ont le soutien de Belus et la reine elle-même consentirait à leur mariage (I, 1, v. 5-6), le seul obstacle qui demeure est la haine persistante d'Arsace pour la famille de Thisbé (I, 1, v. 9-10) :
 
@@ -304,7 +304,7 @@ Gloire, vertu, grandeur …
 De son côté Belus cède pour un temps à la tentation d'un absolutisme sentimental à l'égard de Thisbé (IV, 2, v. 1245-1246).
 
 
-### Le poids de la fatalité
+### Le poids de la fatalité.
 
 Cependant malgré leurs tentatives ces personnages ne parviennent pas plus que les deux héros à faire triompher leur amour. Ce constat de l'inutilité du pouvoir oppressif suggère que, bien plus que les intrigues d'Arsace, d'Amestris et de Belus, c'est une forme de fatalité qui est la cause de la perte de Pirame et Thisbé. En cela Pradon rejoint le mythe originel. De fait le thème du destin occupe une place prépondérante dans l'économie de la pièce à travers une récurrence tout à fait exceptionnelle des termes « destin » et « destinée ». Les amants ont eux-même une sorte de pressentiment de leur malheur ; ainsi à la scène 1 de l'acte II Thisbé exprime une inquiétude apparemment infondée puisque tout lui sourit depuis son retour à la cour ainsi que le lui rappelle Ismene (v. 369-370) :
 
@@ -314,12 +314,12 @@ Me donnent tous les jours de secretes atteintes ?
 Par ailleurs ils évoquent avec insistance l'idée de leur mort, comme s'ils savaient par avance qu'il s'agit pour eux du seul moyen de se réunir. Le petit nombre de leurs rencontres au cours de la pièce est particulièrement frappant : ils ne parviennent en effet à s'entretenir qu'au cours de deux scènes (II, 4 et IV, 4). De plus ils ne se trouvent à aucun moment véritablement en accord ; la défiance et l'incompréhension jouent dans chacune de ces deux scènes un rôle très important.
 
 
-### Une tragédie de la stérilité
+### Une tragédie de la stérilité.
 
 Cet acharnement de la fatalité contre Pirame et Thisbé contribue à faire de la pièce une tragédie de la stérilité en empêchant toute manifestation de vie. Les personnages semblent marcher avec résignation vers leur destin. La passion amoureuse se caractérise surtout par sa puissance mortifère ; Pirame et Thisbé se suicident à cause de la méprise du lion et Amestris tente de se suicider devant leurs cadavres. Seul Belus est épargné parce qu'il est déjà plus roi qu'amoureux, ainsi qu'en témoigne son attitude au dénouement. Il se détache déjà de ses sentiments propres qui s'effacent derrière sa fonction royale ; son affliction est bien moindre que celle d'Amestris. Néanmoins le triomphe de Belus est incomplet puisqu'il est frustré de l'objet de son désir. L'élan vital ne se résout qu'en un élan vers la mort. Le spectateur assiste donc à l'échec des personnages en tant que sujets désirants.
 
 
-## La jalousie féminine : la cause nécessaire de la tragédie
+## La jalousie féminine : la cause nécessaire de la tragédie.
 
 En dépit des emprunts à l'histoire de Sémiramis, il y a un relatif effacement de la dimension politique au profit du thème-clé de la jalousie amoureuse. Thisbé offre le spectacle d'une scène de jalousie sur un mode mineur qui ne déparerait pas dans une comédie (II, 4). Elle manie d'ailleurs fort habilement l'ironie, surtout dans la seconde partie de la scène. Mais ce trait de caractère est principalement le fait du personnage d'Amestris qui incarne la fureur passionnelle dans la pièce. L'amour-haine qu'Amestris éprouve pour Pirame devient en effet le principe de toutes ses actions.
 
@@ -345,7 +345,7 @@ Que j'auray de plaisir à les voir malheureux !
 C'est seulement à partir de ce moment que l'alliance se conclut entre Arsace et Amestris ; jusqu'alors on pouvait avoir le sentiment qu'ils évaluaient leurs forces respectives.
 
 
-## Le couple mère et fils
+## Le couple mère et fils.
 
 Le conflit familial connaît un succès remarquable dans le théâtre du XVII*e* siècle, notamment lorsqu'il met en prise une mère et son fils. Les réussites de *Rodogune* et de* Britannicus* n'ont pas peu fait pour son prestige. Si la situation de *Pirame et Thisbé* n'est pas sans évoquer celle de *Rodogune* par certains aspects, Pradon réussit toutefois à se démarquer du modèle cornélien et à traiter ce thème clé avec une certaine originalité.
 
@@ -411,12 +411,12 @@ Je respecte ce sang qui m'a donné la vie …
 Son attitude à l'égard d'Amestris est remarquable : à aucun moment il ne cesse de lui témoigner du respect malgré son injustice et sur ce point il se rapproche également de personnages cornéliens, Antiochus et Seleucus dans *Rodogune*. En dépit de son antagonisme politique, le couple formé par Amestris et Belus ne sombre jamais dans la folie meurtrière [39].
 
 
-## Pouvoirs et devoirs de la royauté
+## Pouvoirs et devoirs de la royauté.
 
 Les considérations sur le métier de roi appartiennent aux lieux communs de la tragédie. Ce thème introduit grâce à l'histoire d'Amestris et de Belus se trouve déjà chez Théophile de Viau (I, 3), mais joue ici un rôle structurant et détermine l'évolution des personnages.
 
 
-### Deux conceptions de la royauté
+### Deux conceptions de la royauté.
 
 *Pirame et Thisbé* met en présence deux conceptions contradictoires de l'exercice du pouvoir. La première est incarnée par Arsace, le ministre ambitieux de la reine, qui revendique une vision machiavélique du pouvoir. Il l'envisage comme un moyen et ne craint pas d'aller contre l'ordre naturel des choses, pourvu que son ambition soit satisfaite (II, 5, v. 665-666) :
 
@@ -459,7 +459,7 @@ Et c'est un crime enfin de l'oser attenter.
 En fait, c'est une véritable leçon de politique que donne Pirame à Arsace ; mais ce dernier la rejettera puisqu'il ne reconnaît aucune valeur politique à la vertu. C'est sa négation de l'inviolabilité de la fonction royale qui causera la perte d'Arsace.
 
 
-### Une révolte légitime
+### Une révolte légitime.
 
 Belus fomente une révolte contre sa mère ; cependant il ne s'agit pas d'une révolte anarchique contrairement à ce qu'affirme à plusieurs reprises Amestris (V, 2, v. 1434-1437) :
 
@@ -476,12 +476,12 @@ Je respecte ce sang qui m'a donné la vie ;
 Il s'agit pour Belus de passer à l'âge adulte après avoir vécu écrasé par sa mère. En ce sens, la transgression qu'il opère ne va pas à l'encontre de la conception sublime de la royauté, puisque son objet est de rétablir l'ordre naturel : Belus est le bénéficiaire légitime du trône. Le dénouement le voit triompher doublement sur un plan politique et sur un plan existentiel.
 
 
-### Une pièce initiatique
+### Une pièce initiatique.
 
 Le passage à l'âge adulte représente pour Belus le véritable enjeu ; il s'agit en effet d'acquérir une position définie et indépendante hors de la tutelle de sa mère, afin de témoigner de sa capacité à être un bon roi. Sa générosité, si souvent mise en avant par les autres personnages, va donc être mise à l'épreuve et un temps s'incline devant la tentation de l'absolutisme, surtout dans le domaine amoureux (IV, 2). Toutefois Belus acquiert la nécessaire maîtrise de soi et de ses passions pour l'exercice du pouvoir. Son attitude au dénouement en est l'exemple le plus frappant : il se hausse à la hauteur d'Auguste dans *Cinna* et choisit la clémence à l'égard de ses adversaires qui ont voulu provoquer sa chute. Il renonce à sa haine personnelle contre Arsace qui a causé la perte de la femme qu'il aimait pour adopter des sentiments royaux.
 
 
-## Le mauvais conseiller
+## Le mauvais conseiller.
 
 Présent pendant neuf scènes, Arsace apparaît essentiellement en tant que ministre de la reine Amestris. Cette forte inscription dans l'économie de la pièce prend sens par rapport à la réflexion sur l'exercice du pouvoir qui est esquissée.
 
@@ -524,10 +524,10 @@ En commandant l'Armée, il occupe ma place …
 Si l'on se réfère à l'étymologie du terme, le ministre se doit d'être au service de l'État. Or Arsace se présente bien davantage comme un facteur de désordre. Plus que la reine, c'est bien Arsace qui incarne la menace politique et l'oppression. Ce personnage est d'autant plus inquiétant qu'il est dénué de toute valeur ; seule lui importe la satisfaction de son ambition.
 
 
-# Les personnages
+# Les personnages.
 
 
-## Amestris : une nouvelle Sémiramis
+## Amestris : une nouvelle Sémiramis.
 
 La critique s'accorde sur le fait que c'est sans doute le personnage le mieux dessiné de la pièce et le plus cornélien. En dépit de sa nature épisodique, le personnage d'Amestris représente en effet l'un des pôles dominants de la pièce, puisque sa haine sera la cause essentielle de la perte des héros.
 
@@ -576,7 +576,7 @@ Cependant cette ambition et cet amour du pouvoir exacerbés que revendique Amest
 Plus qu'à une passion injuste Amestris est en proie à un véritable déchirement. Elle a conscience de manquer à sa gloire et à son devoir en cédant à sa passion ; et a d'ailleurs lutté longuement, n'hésitant pas à rappeler Thisbé à la cour pour l'unir à Pirame (I, 5, v. 258). Pour satisfaire sa passion, elle est contrainte de remettre en cause son système de valeurs et de renoncer à sa conception idéale de la fonction royale. Il ne lui est désormais plus possible de s'incarner uniquement dans sa fonction en méprisant son humanité. En ce sens son attitude au dénouement est exemplaire, puisqu'elle dépasse alors la contradiction entre son amour et son devoir et retrouve le souci de sa gloire. Elle affronte l'échec en reine et préfère mourir qu'être un simple sujet (V, 2, v. 1440-1442). Sa défaite lui permet paradoxalement de triompher de son égarement et d'atteindre l'héroïsme qui représente la plus haute valeur à ses yeux. Sa tentative de suicide est loin d'être le constat d'un échec mais bien l'affirmation ultime de sa générosité et son humanité, puisqu'elle se montre sensible au malheur des amants après les avoir poursuivis de sa haine.
 
 
-## Belus : un héros généreux
+## Belus : un héros généreux.
 
 Élevé en reclus à l'écart du pouvoir, Belus sent naître son ambition en entendant parler des hauts faits de sa famille (II, 2, v. 463-464). Il cherche à obtenir justice de sa mère qui l'a privé du trône de son père. Il incarne le héros généreux dans la pièce ; tous les personnages s'accordent d'ailleurs pour lui reconnaître cette qualité essentielle. Arsace lui-même déplore qu'il n'ait pas la faiblesse de Ninus (I, 4, v. 167-170) :
 
@@ -606,7 +606,7 @@ Belus ne fait pas ici allusion à l'indifférence de Thisbé, mais bien au doute
 En fait le spectateur assiste au parcours initiatique de Belus qui apprend la véritable générosité et par là-même à être un bon roi. En effet sa mise à l'épreuve se joue sur le plan amoureux et sur le plan politique. Pour régner, il faut savoir pardonner, en ce sens Belus s'inscrit dans la lignée d'Auguste dans *Cinna*. La clémence triomphe donc et l'accession de Belus au trône apparaît comme une garantie d'équilibre. De façon assez curieuse, plus que l'amour de Thisbé ou le trône de son père, l'enjeu réel pour ce personnage semble avoir été l'apprentissage de la justice [43].
 
 
-## Pirame et Thisbé : deux victimes
+## Pirame et Thisbé : deux victimes.
 
 Le traitement de ces personnages peut apparaître bien décevant au regard de celui d'Amestris et de Belus ; Pradon semble gêné dans la peinture de l'amour. Mais « … le héros ou l'héroïne, … bien souvent souffrent le plus et font le moins [44]; … ». En effet, s'ils sont bien la pierre de touche des manœuvres des autres personnages, eux-mêmes se montrent particulièrement passifs et comme résignés d'avance à leur perte. Ils existent davantage comme objets du désir d'autrui que comme sujets désirants. Ce couple apparaît bien terne quand on le compare aux personnages de Théophile de Viau qui incarnent la passion amoureuse dans toute son intensité. L'élan amoureux est absent de ce couple étrangement désincarné. En effet leur première rencontre (II, 2) est dépourvue de toute chaleur, le spectateur n'assiste qu'à un échange de griefs, alors qu'il s'attendrait à un duo élégiaque plus conforme à cette histoire d'un amour impossible.
 
@@ -615,7 +615,7 @@ Pirame est le fils d'Arsace, le ministre de la reine, qui s'oppose à son union 
 La seule réelle initiative des amants est leur fuite qui intervient à la fin de l'acte IV. Mais il est déjà trop tard, comme si les héros étaient condamnés à l'immobilité, à la dépendance. En ce sens il est révélateur que leur action soit systématiquement déterminée par l'action des autres personnages. Pirame et Thisbé sont donc dès le début du côté de l'échec et de la mort.
 
 
-## Arsace : le ministre ambitieux
+## Arsace : le ministre ambitieux.
 
 La pièce comprend deux figures parentales, Amestris et Arsace. Ces personnages dans la dramaturgie classique sont surtout conçus comme des obstacles. Arsace s'inscrit parfaitement dans cette conception ; en effet il s'oppose à l'amour de Thisbé et Pirame en raison d'une vieille haine entre leurs deux familles. Il est beaucoup plus présent que le père de Pyrame chez Théophile qui dédouble cependant la figure parentale avec la mère de Thisbé. Mais ce motif familial est relayé par son ambition politique ; ayant découvert l'amour d'Amestris pour Pirame, il utilise son fils pour accroître encore son influence sur la reine et acquérir plus de pouvoir. Bien plus qu'Amestris il est un parent dénaturé.
 
@@ -641,7 +641,7 @@ Le choix d'Arsace pour faire le récit de la mort des amants (V, 5, v. 1535-1572
 D'autre part il ne partage pas l'idéal de gloire d'Amestris et de Belus, ce qui incite à accueillir avec quelques réserves son repentir final et à s'interroger sur sa sincérité. Ne s'agit-il pas d'une ultime manœuvre pour se gagner les faveurs de Belus ?
 
 
-## Les confidents
+## Les confidents.
 
 Le confident est une figure obligée de la tragédie et il est particulièrement bien représenté dans *Pirame et Thisbé*, puisque chacun des héros est accompagné d'un confident. Cependant les personnages de Barsine, Ismene, Licas et Hircus ne sont pas traités de façon équivalente.
 
@@ -650,10 +650,10 @@ Barsine et Ismene sont des incarnations assez traditionnelles de ce type ; en e
 Le traitement des personnages de Licas et d'Hircus est déjà plus original. En effet Licas est lié à la fois à Arsace et à Pirame dont il a été le gouverneur. Il ne choisit pas vraiment entre le père et le fils : il est fidèle avant tout à la famille. Toutefois il prend l'initiative de prévenir Pirame des dangers qui le menacent (II, 6) puis d'organiser sa fuite (IV, 4, v. 1276-1277). La situation d'Hircus est encore plus complexe : confident de Belus, il s'efforce de gagner la confiance d'Arsace dont il devient le confident afin de jouer le rôle d'agent de renseignement auprès de Belus ; ainsi il parvient à se procurer le billet de Pirame à son père. C'est la seule figure de confident de la pièce qui parvienne à acquérir un statut de personnage et non plus de simple utilité dramaturgique.
 
 
-# Style
+# Style.
 
 
-## Une écriture classique
+## Une écriture classique.
 
 L'écriture de Pradon est plus codifiée, mais par là-même perd la fraîcheur de son modèle. En effet la pièce de Théophile de Viau est un véritable hymne à l'élan vital de la jeunesse qui s'oppose à la contrainte que cherchent à lui imposer ses aînés :
 
@@ -699,24 +699,24 @@ Depuis Boileau, la critique n'a cessé d'insister sur la platitude du style de P
 Cependant ce lieu commun ne rend pas justice à Pradon. En effet, s'il n'a pas les fulgurances de Théophile de Viau ou de Racine, Pradon maîtrise parfaitement la versification théâtrale. Ainsi on trouve au vers 442 un rythme ternaire, ce qui à l'époque était encore exceptionnel dans l'alexandrin. Par ailleurs Pradon joue souvent sur les différents sens possibles d'un même terme (v. 309) et sur les sens concret et abstrait d'un terme. En ce sens, il apparaît bien que sa réputation de médiocre poète est largement usurpée. De plus Pradon a parfaitement assimilé le style tragique contemporain à tel point qu'en le lisant on peut avoir le sentiment d'un savant mélange de Corneille et de Racine, ce qui a pu contribuer au succès de *Pirame et Thisbé*, ainsi que le souligne H. C. Lancaster [47].
 
 
-## Un traitement original de la scène amoureuse
+## Un traitement original de la scène amoureuse.
 
 
-### Rupture de l'horizon d'attente
+### Rupture de l'horizon d'attente.
 
 La première rencontre des amants qui intervient relativement tard, à peu près au milieu du deuxième acte (II, 4), devrait porter l'émotion à son apogée ; en effet le spectateur s'attend légitimement à assister à un duo élégiaque des malheureux amants. Mais très vite une tonalité différente s'installe suite à la découverte de l'amour de Belus pour Thisbé par Pirame (v. 567-568). Nous assistons alors à une scène de reproches amoureux dont le traitement peut évoquer celui des comédies, notamment en raison de la vivacité des échanges dans la première partie de la scène (v. 564-575).
 
 Pirame et Thisbé manifestent tous deux de la jalousie et évoquent la possibilité d'une infidélité de l'autre, attiré par l'éclat d'un personnage royal. Toutefois les deux personnages ne se situent pas sur le même plan : Pirame s'abandonne véritablement à la jalousie et n'hésite pas à formuler des soupçons humiliants à l'encontre de Thisbé (v. 578), alors que cette dernière parodie la jalousie de son amant en lui retournant ses arguments de façon à lui montrer que le péril est aussi grand de son côté (v. 591-600). Cette ironie contribue au caractère plaisant de la scène et donne un côté piquant au personnage de Thisbé qui paraît parfois assez fade.
 
 
-### L'ironie tragique
+### L'ironie tragique.
 
 Cependant les propos tenus par Thisbé par défi s'avèrent être une prophétie involontaire. De fait tout ce que suggère Thisbé finira par se réaliser : Amestris décidera de prendre Pirame pour époux et Pirame se laissera séduire par Amestris, du moins feindra d'être séduit quand il imaginera la ruse du billet mensonger. Derrière la légèreté de cette scène s'impose en fait le sentiment d'une ironie tragique. Le destin s'acharne contre les amants et la malheureuse Thisbé en devient le porte-parole.
 
 S'il frustre le spectateur d'une grande scène élégiaque, Pradon confère ainsi un relief inattendu à la scène de rencontre des amants qui autrement risquerait d'être perçue comme une pure convention, imposée en quelque sorte par le modèle de Théophile de Viau.
 
 
-## Utilisation du billet
+## Utilisation du billet.
 
 Pradon insère un billet dans le texte de sa pièce à la scène 6 de l'acte III. Ce procédé, relativement courant, est admis dans tous les genres et permet d'introduire de la variété dans le rythme des alexandrins à rimes plates. Pradon fait preuve d'une certaine habilité dans l'utilisation du procédé. À la scène 6 de l'acte III Thisbé lit un billet de la main de Pirame où celui-ci déclare son amour pour la reine à son père. Mais au préalable Pradon a multiplié les effets d'annonce, de telle sorte que la curiosité du spectateur est éveillée, même si celui-ci connaît la véritable nature du billet (c'est une feinte destinée à tromper les fureurs d'Amestris et Arsace). En effet à la scène 6 de l'acte II Pirame annonce qu'il aura recours à un stratagème pour tromper leurs ennemis :
 
@@ -728,7 +728,7 @@ La nature de ce stratagème est explicitée dès la première scène de l'acte I
 Le billet, comme nous l'avons déjà indiqué, introduit une rupture par rapport au mode normal du discours. Il alterne les alexandrins et les octosyllabes. Deux types d'organisation des rimes coexistent : les rimes croisées et les rimes plates. Un vers se trouve isolé, ce qui créé un déséquilibre dans le décompte des vers. Dans la scène 6 de l'acte III un vers du billet est repris (v. 972) et l'on retrouve à la rime les même termes « haine » et « reine ». Cette insistance permet de mettre l'accent sur le danger qu'Amestris représente pour les deux amants ; en ce sens il est intéressant de noter que le billet est lu par Thisbé et que c'est encore elle qui revient sur le contenu du billet. L'utilisation du billet, loin d'être artificielle, est amenée par l'intrigue et permet de rappeler encore l'ombre menaçante d'Amestris à travers un jeu subtil d'échos.
 
 
-# Note sur la présente édition
+# Note sur la présente édition.
 
 La première édition de *Pirame et Thisbé* parut chez Henry Loyson en 1674 au format in-12 et fut reprise en 1679 pour un recueil factice des œuvres de Pradon chez Jean Ribou. Ce recueil comprend une page de garde générale, une page de garde propre à chaque pièce et reproduisant l'édition originale, et les pièces sont paginées séparément.
 
@@ -739,19 +739,19 @@ Il existe 2 exemplaires de l'édition de 1679, l'un conservé à la Bibliothèqu
 Ces deux éditions reproduisent exactement le même texte, on y retrouve en effet les mêmes coquilles. La seule différence relevée se trouve à la fin de la préface, les deux exemplaires de 1674 ne présentant pas la note sur les fautes d'impression.
 
 
-## Éditions ultérieures
+## Éditions ultérieures.
 
 Le texte a ensuite été réédité dans des recueils du théâtre de Pradon de son vivant : en 1688, en 1695 puis en 1697. Il faut noter que *Pirame et Thisbé* a fait l'objet d'une réédition séparée en 1691. Les exemplaires de l'édition de 1688 résultent de tirages différents ; en effet l'exemplaire RF 6695 de la Bibliothèque de l'Arsenal reprend le texte de l'édition de 1674, alors que les exemplaires YF 3635 et YF 3288 de la BNF présentent d'importantes variantes et sont dépourvus de pièces liminaires, et même de page de garde pour l'exemplaire YF 3288.
 
 Les variantes portent essentiellement sur la ponctuation (60 vers sont concernés) et certains vers sont réécrits (v. 1074, 1088, 1090, 1110, 1113). Cet état du texte sera repris dans les éditions ultérieures. L'édition de 1695 semble avoir été destinée à être l'édition définitive du théâtre de Pradon.
 
 
-## Établissement du texte
+## Établissement du texte.
 
 Pour l'établissement du texte nous avons suivi l'édition originale essentiellement d'après l'exemplaire YF-3630 de la BNF et l'exemplaire RF 6694 de la Bibliothèque de l'Arsenal. Toutefois nous avons indiqué en notes de bas de page les variantes apportées par les éditions ultérieures à partir de 1688. La date indiquée entre parenthèses renvoie à la première apparition de ces variantes qui, sauf mention contraire, se retrouvent dans les autres éditions.
 
 
-## Présentation de la première édition
+## Présentation de la première édition.
 
 Pirame et Thisbé
 
@@ -772,7 +772,7 @@ p. 1-p. 74 : le texte de la pièce.
 XIII Extrait du Privilège du Roy .
 
 
-## Principes d'édition
+## Principes d'édition.
 
 L'orthographe d'origine a été conservée, à la réserve des cas flagrants de coquilles. Les corrections apportées en cas de coquilles ou d'autres erreurs sont signalées dans une rubrique spécifique. L'emploi des majuscules est conforme au texte d'origine. Nous avons choisi d'établir la distinction entre i et j et entre u et v qui n'existait pas au XVII*e* siècle, afin de faciliter la lecture. Nous avons aussi remplacé les voyelles nasales ã et õ par les voyelles et consonnes correspondantes an et on.
 
@@ -781,7 +781,7 @@ Nous avons également conservé la double orthographe du mot « état » selon
 La ponctuation de l'édition originale a été scrupuleusement respectée. Ce principe d'édition obéit à la volonté de respecter la fonction attribuée à la ponctuation au XVII*e* siècle. En effet la ponctuation n'est pas alors utilisée comme un marqueur syntaxique ; mais elle joue un rôle de marqueur prosodique en indiquant des pauses plus ou moins longues (virgule, point virgule, point) et en exprimant des degrés d'affectivité (point d'exclamation, point d'interrogation).
 
 
-## Fautes d'impression corrigées
+## Fautes d'impression corrigées.
 
 L'auteur fournit à la fin de la préface une note sur les erreurs d'impression, dans laquelle il indique quatre fautes dans le texte dont l'une est déjà corrigée :
 
@@ -854,7 +854,7 @@ rejalit / rejailit (v. 1598)
 nous, / nous (v. 1623)
 
 
-## Autres corrections
+## Autres corrections.
 
 Nous avons supprimé une didascalie erronée dans la liste des personnages de la scène I, 6 : PIRAME.
 
@@ -869,7 +869,7 @@ Nous avons rétabli des didascalies manquantes appelées par le texte :
 – GARDE dans la liste des personnages de la scène V, 1.
 
 
-# PIRAME ET THISBÉ TRAGÉDIE
+# PIRAME ET THISBÉ TRAGÉDIE.
 
 
 ## A MONSEIGNEUR LE DUC DE MONTAUSIER, [48] PAIR DE FRANCE, &c. Gouverneur de Monseigneur LE DAUPHIN.
@@ -1384,7 +1384,7 @@ Pour Thisbé flechissez un Pere impitoyable :
 Mais vous seule à l'amour estes inéxorable.  
 Vous ne répondez rien, Madame ?  
 
-    AMESTRIS*tout bas.*
+    AMESTRIS*tout bas.*.
 à Pirame tout haut.
 
 Ah ! le cruel !  
@@ -1508,7 +1508,7 @@ Apuyoient…Mais on vient.
 BELUS, HIRCUS, THISBÉ, ISMENE.
 
 
-    BELUS *à Hircus.*
+    BELUS *à Hircus.*.
 La Princesse est icy ; retirez- vous, Hircus,  
 Et sur tout observez les démarches d'Arsace.  
 à Thisbé.
@@ -1709,7 +1709,7 @@ Et contre sa coûtume évitant mon abord⁎…
     THISBÉ.
 Ah Seigneur.  
 
-    [PIRAME.]
+    [PIRAME.].
         Ah Madame, aprenez-moy mon sort.  
 Vous soûpirez ! Pourquoy ces soûpirs ? Ce silence  
 Que veut-il dire ?  
@@ -2354,7 +2354,7 @@ A fait voir dans ses yeux le trouble⁎ de son ame ;
 Et pour servir d'exemple à dégager Pirame,  
 Elle-mesme s'est mise à la teste des siens.  
 
-    BELUS *à Thisbé.*
+    BELUS *à Thisbé.*.
 Pardonnez, si je sors pour secourir les miens.  
 
 
@@ -3039,7 +3039,7 @@ ARSACE, HIRCUS, AMESTRIS, BELUS, BARSINE, Suite de Gardes.
     HIRCUS.
 Seigneur, Arsace est pris, on l'ameine.  
 
-    ARSACE *à Amestris.*
+    ARSACE *à Amestris.*.
         Ah ! Madame,  
 J'ay tout perdu pour vous, quand j'ay perdu Pirame.  
 à Belus.
@@ -3216,7 +3216,7 @@ Signé, Thierry, Syndic.
 *Achevé d'imprimer pour la premiere fois le 1. Mars 1674.*
 
 
-# Glossaire
+# Glossaire.
 
 *Dictionnaire de l'Académie française*, Paris, Coignard, 1694 : (A. 94).
 
@@ -3229,7 +3229,7 @@ Ménage G., *Observations sur la langue française*, Paris, Cl. Barbin, 1672 : 
 Richelet F., *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise*, Genève, Widerhold, 1680, reimpr., Hildesheim-New York, Georg Olms Verlag, 1973 : (R.).Abord« Approche, arrivée » (R.).V. 41, 561, 563Aimable« Qui a des qualités qui attirent l'amour ou l'amitié de quelqu'un » (F.) ; « digne d'être aimé » (R.).V. 247, 760Air« La mine, les traits du visage » (Fur.).V. 63, 343Allarme« Crainte, trouble » (R.).V. 321, 365, 409, 461, 994, 1002, 1038, 1118, 1266, 1338Allarmes (mettre en -)Faire prendre les armes.V. 1011Ardeur« Passion, vivacité, emportement, fougue » (F.).V. 771, 1043, 1106, 1134, 1507Assurance (en -)En sécurité.V. 1418Attachement« Engagement, passion, ardeur, zèle » (R.).V. 224Atteinte« Attaque, coup » (R.) ; « un amant dit aussi, qu'il a reçu de mortelles atteintes de sa maîtresse » (F.).V. 326, 370, 1102, 1439, 1650Avanture« Chose qui est arrivée ou qui doit arriver » (F.).V. 1626Aveu« Consentement donné » (F.).V. 76Balancer« Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens et qui le font incliner de part et d'autre. » (F.)V. 183Brigue« Manœuvre par laquelle, poursuivant quelque objet, on engage des personnes dans son intérêt » (F.).V. 1511Briguer« S'emploie quelquefois en bonne part, et se dit simplement des souhaits, ou des voies légitimes d'obtenir quelque chose » (F.).V. 477Bruit« Se dit figurément de la renommée, de la réputation » (F.).V. 459, 840, 1297Caballe« Personnes qui sont d'intelligence pour faire réussir un dessein » (R.).V. 476Caballer« Se faire un parti de gens qui nous appuient » (R.).V. 158Caractere« Écriture de quelque personne » (R.).V. 970, 1050Chagrin« Inquiétude, ennui, mélancolie » (F.).V. 120, 366, 438, 506, 889, 897, 922, 1380Charmant« Qui agrée, qui plait » (R.).V. 46, 501, 721Charme« Beautés qui agissent par une vertu occulte et magique » (Obs.).V. 264, 294, 354, 492, 501, 625, 1186, 1190, 1422, 1639Charmer« Plaire extrêmement, ravir » (A. 94) ; « faire quelque effet merveilleux par la puissance des charmes » (F.).V. 215, 719, 773, 1000CœurCourage.V. 161, 843Connoître« Découvrir » (F.)V. 425, 466, 471, 970Savoir.V. 70Constamment« Avec fermeté » (F.).V. 1440Consulter« Délibérer » (A.).V. 228Débris« Ruine d'édifice. Se dit figurément en choses morales » (F.).V. 508Déplaire« Faire ou dire quelque chose qui offense, qui chagrine, qui n'est pas agréable » (F.).V. 70Déplaisir« Chagrin, tristesse que l'on conçoit d'une chose qui choque, qui déplaît » ; « mauvais office qu'on rend aux personnes pour qui on a de la haine » (F.).V. 351, 404, 436Désolé« Triste, affligé, ruiné, perdu » (R.).V. 93, 509Doute (sans-)« Certainement » (F.).V. 218, 741, 1493Éclat« Splendeur, brillant, lustre » (R.)V. 58, 143, 231, 294, 359, 431, 459, 503, 531, 595, 615, 817, 852, 875, 902, 1025, 1275, 1518« Bruit, fracas » (R.).V. 575, 714, 1241Éclater« Faire de l'éclat, se découvrir, se faire connaître au public » (F.).V. 479, 866, 985, 1012, 1033Effort« Sorte de violence qu'on se fait à soi-même » (R.).V. 84, 302, 1085, 1088, 1397, 1414, 1572Efroy« Terreur soudaine qui donne une grande émotion ou surprise à la vue, ou au récit de quelque objet qui est à craindre » (F.).V. 71, 385, 1338Embarras« Chagrin, inquiétude de l'âme » (F.), « trouble, désordre qui paraît sur le visage » (R.).V. 943Embarrasser« Apporter des obstacles, des difficultés » (F.).V. 373, 442, 1147Embrasser« Prendre avec les deux bras » (R.).V. 272Ennuy« Chagrin, déplaisir, souci » (F.).V. 116, 343, 504EnnuyéSouffrir de quelque chose, éprouver de la tristesse.V. 414Entreprendre« Avoir dessein de ruiner quelqu'un » (F.).V. 962Étonner« Épouvanter » (R.). V. 481, 1445Fatal« Funeste, fâcheux » (Rich.).V. 4, 283, 551, 675, 1248, 1356Feu« Amour » (R.)V. 75, 323, 501, 502, 571, 712, 759, 1117, 1410« Ardeur » (R.). V. 947Flâme« Se dit communément de l'amour profane » (Fur.) ; « amour, passion » (Rich.)V. 6, 38, 62, 257, 265, 302, 318, 333, 377, 438, 542, 729, 738, 762, 774, 806, 822, 925, 965, 979, 1091, 1386, 1506, 1641« Éclat, vivacité » (F.).V. 870Foy« Serment, parole qu'on donne de faire quelque chose, et qu'on promet d'exécuter » (F.) ; « fidélité » (R.).V. 432, 535, 997, 1269, 1480Généreux« Qui a l'âme grande et noble et qui préfère l'honneur à tout autre intérêt » (F.).V. 167, 467, 573, 574, 1340Générosité« Grandeur d'âme » (R.).V. 575Génie« Les Anciens faisaient un Dieu du génie, mais parmi nous c'est un certain esprit naturel qui nous donne une pente à quelque chose. Naturel. Inclination naturelle d'une personne » (R.).V. 18Gesne (mettre à la -)Mettre à la torture.V. 975, 1147Gesner« Tourmenter le corps ou l'esprit » (F.).V. 13, 212, 373, 633, 1382Gloire« Honneur, estime, réputation qui procède du mérite d'une personne » (A. 94).V. 17, 115, 117, 142, 173, 230, 446, 459, 530, 647, 650, 674, 718, 720, 722, 724, 756, 758, 812, 814, 828, 858, 878, 902, 1297, 1299, 1305, 1324, 1381, 1420Gouster« Approuver, agréer » (R.).V. 221Impatience« Chagrin, inquiétude de celui qui souffre, ou qui attend » (F.).V. 753Inquiet« Qui est troublé de crainte, de souci, ou qui a d'autres agitations d'esprit » (F.).V. 263Inquiéter« Chagriner l'esprit, lui donner de la peine » (F.) ; « troubler » (R.).V. 2, 585Intéresser« Engager, attirer à son parti » (F.)V. 1110« Avec le pronom personnel signifie, entrer dans les intérêts de quelqu'un ; prendre part à quelque chose » (F.).V. 110Intérest« Signifie quelquefois en Morale, passion » (F.).V. 33, 309Main (donner la -)« Donner la foi de mariage » (F.). V. 1264Mains (donner les -)« Consentir, approuver » (F.).V. 732Maison« Race » (R.).V. 68, 93Mollement« D'une manière molle, douce et voluptueuse » (F.) ; « d'une manière trop efféminée ; lâchement, d'une manière peu courageuse » (R.).V. 25Mollesse« Faiblesse du corps et de l'esprit, vie délicate et voluptueuse » (F.) ; « sorte de délicatesse lâche et efféminée » (R.).V. 169Mortel« Qui dure jusqu'à la mort » (Fur.)V. 10« Qui cause une grande douleur, peine, affliction » (F).V. 331, 351, 369, 436, 506, 700, 1118, 1266, 1337NourrirÉlever.V. 25, 169, 461Odieux« Qui est en haine, haï, détestable » (F.) ; « qui excite l'aversion, le mépris » (R.).V. 216, 281, 615, 658Ressentiment« Ressouvenir d'une injure qu'on nous a faite. Déplaisir, chagrin, colère qu'on a pour quelque déplaisir reçu. Douleur qu'on a d'une chose arrivée. » (R.).V. 12Resver« Être distrait, entretenir ses pensées » (F.).V. 558Sang« Parenté, race » (F.).V. 124, 130, 174, 216, 281, 287, 319, 447, 452, 531, 660, 662, 676, 1573Seing« Signature » (R.).V. 970, 981Seûreté« Assurance, précaution » (R.).V. 483Soin« Assiduités, marques de dévouement à la personne aimée » (D.).V. 373Subjuguer« Vaincre, dompter un peuple, lui faire subir le joug de ses lois, de sa domination, ou le faire passer sous le joug » (F.).V. 138Superbe« Plein d'orgueil, plein de fierté, orgueilleux » (R.).V. 37, 238Surprendre« Prendre à l'imprévu », « tromper une personne sans qu'elle ait le temps de se reconnaître » (R.).V. 780, 958, 1004, 1179SurpriseFait d'être découvertV. 406« Tromperie, chose qu'on fait contre l'ordre » (F.).V. 777Suspens (en-)« Dans l'incertitude » (R.).V. 367Tendresse« Sensibilité du cœur et de l'âme » (F.).V. 13, 78, 109, 261, 337, 514, 581, 669, 697, 709, 729, 1042, 1063, 1278, 1313, 1395Transport« Trouble ou agitation de l'âme par la violence des passions » (F.).V. 347, 353, 1000, 1319, 1396, 1421Trouble« Désordres de l'âme causés par les passions » (F.).V. 42, 343, 384, 1018Tumulte« Confusion causée par une multitude de gens sans ordre et sans discipline » (F.).V. 1014
 
 
-# Appendice I : Le Pêché originel (1664)
+# Appendice I : Le Pêché originel (1664).
 
 Ce crime originel ayant souillé notre être,  
 En chassa l'innocence en la faisant périr,  
@@ -3262,7 +3262,7 @@ Ne pouvait recevoir de tache originelle,
 Puisqu'elle fut conforme à son original.  
 
 
-# Appendice II
+# Appendice II.
 
 Nous proposons ici un tableau comparatif du déroulement de l'action chez Pradon et Théophile de Viau accompagné des passages dont Pradon s'est particulièrement inspirés.
 
@@ -3272,10 +3272,10 @@ Théophile de Viau *Les Amours tragiques de Pyrame et Thisbé* I, 2 : oppositio
 
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Éditions du texte
+## Éditions du texte.
 
 1) PIRAME,/ET THISBÉ/TRAGEDIE/fleuron de l'éditeur/A PARIS,/chez HENRY LOYSON, au Palais, dans la Salle/Royale, à l'entrée, en montant par le grand/Escalier qui regarde la Place Dauphine,/vis-à-vis les Armes d'Angleterre./filet/M.DC.LXXXIV./*AVEC PRIVILEGE DU ROY.*
 
@@ -3294,16 +3294,16 @@ Théophile de Viau *Les Amours tragiques de Pyrame et Thisbé* I, 2 : oppositio
 8) LE/THEATRE/DE/Mr DE PRADON./fleuron de l'éditeur/A PARIS,/Chez la Veuve MABRE-CRAMOISY./filet/M.DCXXXII./*AVEC PRIVILEGE DU ROY.*
 
 
-## Sources
+## Sources.
 
 
-### Textes grecs et latins*Diodore de Sicile*Naissance des dieux et des hommes
+### Textes grecs et latins.*Diodore de Sicile*Naissance des dieux et des hommes
 *Herodote*L'Enquête
 *Ovide*Les Métamorphoses
 
 
 
-### Textes du Moyen Age au XVII*e* sièclePyrame et Thisbé
+### Textes du Moyen Age au XVII*e* siècle.Pyrame et Thisbé
 Moralité nouvelle de Pyramus et Tisbee
 *Théophile de viau*Les Amours tragiques de Pyrame et ThisbéThéâtre du XVII*e* siècle
 *Théophile de Viau*Les Amours tragiques de Pyrame et Thisbé
@@ -3311,16 +3311,16 @@ Moralité nouvelle de Pyramus et Tisbee
 
 
 
-## Théâtre du XVII*e* siècle*Corneille*Œuvres complètes
+## Théâtre du XVII*e* siècle.*Corneille*Œuvres complètes
 *Racine*Œuvres complètes
 *Tristan l'Hermite*La Mort de Chrispe
 
 
 
-## Ouvrages de référence
+## Ouvrages de référence.
 
 
-### Ouvrages portant sur les faits de langues*Brunot F.*Histoire de la langue française
+### Ouvrages portant sur les faits de langues.*Brunot F.*Histoire de la langue française
 Dictionnaire de l'Académie française
 *Dubois J., Lagane R., Lerond*Dictionnaire du français du XVII*e* siècle
 *Furetière*Dictionnaire universel
@@ -3331,21 +3331,21 @@ Dictionnaire de l'Académie française
 
 
 
-### Histoire littéraire et biographie*Adam A.*Histoire de la littérature française au XVII*e* siècle
+### Histoire littéraire et biographie.*Adam A.*Histoire de la littérature française au XVII*e* siècle
 *Baillet*Jugemens des savans sur les principaux ouvrages des auteurs
 Dictionnaire des mythes littéraires
 *Niceron J.-P.*Mémoires pour servir à l'histoire des hommes illustres de la République des lettres
 
 
 
-## Théorie dramatique et critique
+## Théorie dramatique et critique.
 
 
-### Textes antiques*Aristote*La Poétique
+### Textes antiques.*Aristote*La Poétique
 
 
 
-### Textes du XVII*e* siècle*Aubignac*La Pratique du théâtre
+### Textes du XVII*e* siècle.*Aubignac*La Pratique du théâtre
 *Corneille*Trois discours sur le poème dramatique
 *Mairet*Préface en forme de discours poétique à la SilvanireThéâtre du XVII*e* siècle
 Le Triomphe de Pradon
@@ -3353,7 +3353,7 @@ Nouvelles remarques sur tous les ouvrages du sieur D⁎⁎⁎
 
 
 
-## Études sur le théâtre*Benichou*Morales du Grand Siècle
+## Études sur le théâtre.*Benichou*Morales du Grand Siècle
 *Delmas C.*La Tragédie de l'âge classique (1553-1770)
 *Forestier G.*Introduction à l'analyse des textes classiques
 *Forestier G.*Essai de génétique théâtrale. Corneille à l'œuvre
@@ -3365,7 +3365,7 @@ Mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne
 
 
 
-## Études sur Pradon et son œuvre*Beaurepaire*Notice sur le poète Pradon
+## Études sur Pradon et son œuvre.*Beaurepaire*Notice sur le poète Pradon
 *Bosquet*Une victime de Boileau, Pradon
 *Bussom T.W.*A Rival of Racine, Pradon, his Life and Dramatic Works
 *La Roche-Guillem*La Pradonnade, ou la guerre des sonnetsŒuvres diverses

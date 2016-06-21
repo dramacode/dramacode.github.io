@@ -17,12 +17,12 @@ A Leide, Chez Jean Elsevier. M. DC. LVI
           master 1 sous la direction de Georges Forestier (2004-2005)
 
 
-# Introduction
+# Introduction.
 
 Deux jeunes hommes, épris chacun de la sœur de l'autre et préférant servir l'amour que leur patrie, se rendent dans le pays de leur cœur. Alors que leurs pères s'opposent sur le champ de bataille, ils empruntent tous deux la même identité pour approcher et conquérir le cœur de la bien-aimée. Construite autour d'un chassé-croisé complexe, la trame narrative de cette tragi-comédie reprend avec bonheur le motif éculé du prince déguisé en le redoublant.
 
 
-# Armetzar et son auteur
+# Armetzar et son auteur.
 
 Si l'œuvre de Samuel Chappuzeau [1] est restée pendant plus de trois siècles dans l'ombre, il semble bien que les travaux actuels de recherche menés en littérature du XVII*e* s'engagent enfin sur la voie d'une  réhabilitation. Les éditions récentes de deux de ses comédies [2] et de son ouvrage sur le théâtre [3] marquent l'intérêt porté actuellement sur son œuvre. Auteur en marge de la vie littéraire française du XVII*e* siècle, il reste un dramaturge oublié des lecteurs, mais un historien encore étudié par les critiques grâce à son ouvrage *Le Théâtre françois*. « L'un des personnages les plus intéressants de la période », selon Lancaster [4], « précieux informateur mais piètre critique », selon Pierre Mélèse [5], il reste l'auteur d'une œuvre éclectique et protéiforme, en quête de succès et de reconnaissance : poésie, comédie, tragi-comédie, dictionnaire franco-allemand, traductions d'Erasme, écrits sur l'histoire, la géographie, les institutions… Fournel émet à son sujet un jugement plus nuancé et peut-être plus juste :
 
@@ -30,7 +30,7 @@ Si l'œuvre de Samuel Chappuzeau [1] est restée pendant plus de trois siècles 
 C'est un écrivain à l'affût des occasions, exploitant l'à-propos, tirant parti de tout et faisant de chacun de ses livres un instrument de gain. Il compose moins par vocation que par calcul. Cependant il n'est pas dépourvu de talent et ses pièces de théâtre en particulier ont quelque valeur, malgré le dédain de la plupart des critiques et des bibliographes qui s'accordent avec une unanimité un peu suspecte, à les taxer d'une médiocrité extrême [6].
 
 
-## Aperçu biographique
+## Aperçu biographique.
 
 La vie du dramaturge est caractérisée par deux traits dominants : sa curiosité intellectuelle et son tempérament aventureux le poussent à effectuer des voyages à travers l'Europe entière, à l'instar d'Erasme ; sa foi protestante le contraint à chercher protection et faveur chez ses coreligionnaires et à multiplier les voyages hors de France. La vie accidentée de cet aventurier des lettres à la recherche de la gloire et de la fortune, qui mourut dans l'indigence, est racontée en partie dans une compilation de l'auteur intitulée *L'Europe vivante* et publiée en trois vol. , à Paris et à Genève, de 1667 à 1671.
 
@@ -49,7 +49,7 @@ De 1650 à la fin de l'année 1651, il fit un premier voyage en Hollande, patrie
 Après la mort de sa femme genevoise, Maria della Serra, en septembre 1662, qu'il avait épousée à Lyon (lors de son voyage de 1651 à 1656) et dont il avait eu cinq enfants, il épousa une autre genevoise, Marie Trichot, qui lui donna sept enfants, ce qui explique son labeur et sa pauvreté. Lors de ce séjour parisien, il fréquenta le monde du théâtre : *Le Riche Mécontent* fut au répertoire de la troupe de Molière le 6 mai 1661, et fut repris à l'Hôtel de Bourgogne après quelques représentations. A la même période, la troupe du Marais présenta *L'Académie des femmes*. N'ayant acquis aucune faveur royale, il quitta sa femme et la capitale en 1662 et s'installa à Genève : il devint citoyen de la ville en 1666, mais il fut très souvent absent de la ville en raison de multiples voyages. De 1663 à 1672, il se rendit aux cours princières de Turin, de l'Allemagne, de l'Angleterre ; pendant ces années, il effectua quelques retours à Paris et à Lyon. Ces errances sont souvent le signe d'une instabilité : il ne parvint pas à trouver le succès chez ses coreligionnaires de Genève. Par ailleurs, il fut emprisonné à la fin de l'année 1671 en raison d'une maladroite allusion politique dans une de ses *Relations*, et reprit par la suite le chemin de l'exil. En raison des restrictions apportées dans la pratique du culte (la révocation de l'édit de Nantes se préparait déjà), il ne put revenir dans son pays natal. En septembre 1682, il quitta Genève pour la cour de Celle, colonie française en pays étranger : son fils détenait un poste de secrétaire auprès du duc depuis 1676. Il y demeura jusqu'à sa mort le 31 août 1701.
 
 
-## Chappuzeau et le théâtre : *Le Théâtre françois*
+## Chappuzeau et le théâtre : *Le Théâtre françois*.
 
 Chappuzeau conserve une relative renommée grâce à son *Théâtre françois*, publié à Lyon et à Paris en 1674, qui retrace l'état du théâtre français au lendemain de la mort de Molière. Source essentielle sur ce sujet habituellement négligé au XVII*e* siècle, cet essai ne connaît pourtant aucun succès à sa publication et ce n'est qu'au XIX*e* siècle qu'on en mesura l'importance véritable pour l'histoire du théâtre français.
 
@@ -63,7 +63,7 @@ Chappuzeau a dû assister aux représentations de la troupe de Molière à Lyon 
 Fourmillant d'anecdotes et d'informations diverses sur la vie théâtrale, cet ouvrage constitue une apologie du théâtre et des comédiens. Le titre de ses chapitres montre bien que tous les aspects de ce monde l'intéressent : « De l'usage de la comédie », « Des auteurs qui soutiennent le théâtre », « De la conduite des comédiens ». L'auteur fait non seulement un panégyrique des acteurs qu'il défend contre la critique, mais il fait également une description très précise de la vie publique et privée de ces comédiens, fruit de son observation et de son expérience. Par un esprit d'historien de la littérature et de bibliothécaire, Chappuzeau est tout à fait original et novateur dans son entreprise. La littérature reste encore au XVII*e* siècle appréhendée au travers de la rhétorique ou de la poétique. Or, Chappuzeau cherche plutôt à légitimer la production théâtrale à travers la reconstitution historique et le recours au catalogue (ou de la liste) afin d'assurer la suprématie de cette littérature. Ses investigations portent essentiellement sur le XVII*e* siècle, mais l'auteur a une conception historique dans l'étude qu'il entreprend en tenant compte de l'évolution du théâtre jusqu'en 1673. Cette historicisation du théâtre est annonciatrice des historiens du théâtre du XVIII*e* siècle (comme les Frères Parfaict [10], dont il est une des principales sources).
 
 
-## Ses débuts au théâtre : Chappuzeau et le genre tragi-comique
+## Ses débuts au théâtre : Chappuzeau et le genre tragi-comique.
 
 Si Chappuzeau connaît dans le genre comique une relative renommée (de nombreuses comparaisons sont effectuées entre ses œuvres et celles de Molière : *Le Cercle des femmes* tiré des *Colloques* d'Erasme est rapproché des *Précieuses Ridicules* ; *L'Académie des femmes* annonce *Les Femmes savantes*, tandis que le sujet du *Riche mécontent ou le Noble imaginaire* n'est pas sans anticiper sur celui du *Bourgeois gentilhomme*), il reste complètement méconnu pour ses tragi-comédies, genre avec lequel il débute au théâtre. Dans les années 1650, le genre tragi-comique connaît, d'après Lancaster [11], ses derniers balbutiements avec les dernières pièces de Quinault [12]. Quatre tragi-comédies sont publiées en 1658 : *Armetzar, Timoclée* de Morel, Le *Feint Alcibiade* et *Amalasonte* de Quinault. Roger Guichemerre décrit ce déclin de la manière suivante :
 
@@ -79,48 +79,48 @@ La première tragi-comédie de l'auteur, *Damon et Pythias* (composée en 15 jou
 Avant de se tourner vers le genre tragi-comique, Chappuzeau débuta dans l'écriture dramatique en 1656 avec une comédie, *Le Cercle des femmes*, qui s'inspire manifestement des *Colloques* d'Erasme. La pièce traite des aspirations intellectuelles et sociales des femmes et de la satire de la fausse noblesse et on y découvre déjà des esquisses de caractère, des dialogues qui indiquent un sens des effets théâtraux, une réelle compétence dramatique et surtout comique. Le dramaturge composa ensuite deux tragi-comédies, *Damon et Pythias* et *Armetzar*. Ces deux pièces sont liées par une même thématique de l'amitié et de l'amour : ce type de relations amicales très fortes vient des auteurs antiques, comme l'écrit Alexandre Cioranescu : « La tradition classique mettait l'amitié au-dessus de tout, et cette tradition n'était pas perdue. ». Il montre que Boccace est un des premiers à avoir décrit, dans *Tite & Gésippe*, « La valeur primordiale de l'amitié, qui passe après l'amour [19] ». Le sens de l'amitié fait donc aussi partie de la typologie des héros masculins de la tragi-comédie. *Damon et Pythias* a été republié sous un titre différent, à savoir *Les Parfaits Amis* [20], en raison du sens du sacrifice et du dévouement qui anime le couple protagoniste. L'amitié des deux héros leur vaut en effet le pardon du tyran et permet les mariages espérés. Par la suite, Chappuzeau donne à *Armetzar* le sous-titre *Les Amis ennemis* : les amis deviennent rivaux et s'entraident pour servir une cause commune [21]. Ce sous-titre repose ici sur un oxymore, et constitue une formule structurante et programmatique, qui condense le nœud dramatique et annonce d'emblée la tension paradoxale qui animera le couple protagoniste. De nombreux auteurs de comédies et de tragi-comédies utilisent des titres de la sorte, comme le montre Georges Forestier dans un de ses articles : « A une époque ou l'un des grands soucis des auteurs dramatiques était d'exciter la curiosité d'un public instable et difficile, le choix de titres paradoxaux, lourds de mystères et garants de surprises, figurait assurément au nombre des techniques d'incitation qu'ils avaient à leur disposition [22] ». Cette formulation oxymorique, chère à l'esthétique tragi-comique, rend compte d'une vision paradoxale du monde. Ainsi Armetzar et Vanlie se retrouvent-ils ennemis sur le plan national, politique et collectif, mais amis sur le plan affectif, intime et sentimental.
 
 
-# Présentation de la pièce
+# Présentation de la pièce.
 
 
-## Dates de composition et de publication
+## Dates de composition et de publication.
 
 Un an après la publication de sa première tragi-comédie à Amsterdam, Chappuzeau fait publier *Armetzar* à Leyde en 1658, dans une grande famille d'imprimeurs hollandais, les Elsevier. Probablement écrite en 1657, pendant son voyage hollandais, la pièce ne semble pas avoir été représentée. Aucun document ne fait mention de la représentation de la pièce. Néanmoins, il reste fort peu probable qu'elle n'ait pas été représentée, puisqu'elle a été publiée : au XVII*e* siècle, la représentation précède généralement la publication. Par ailleurs, au lieu de présenter la liste des personnages sous le terme d' « acteurs » – comme il était d'usage au XVII*e* siècle –, Chappuzeau le remplace par le terme de « personnages ». Ce signe semble alors corroborer l'idée qu'elle n'était pas réellement destinée à la représentation, mais plutôt à la lecture.
 
 
-## Argument de la pièce
+## Argument de la pièce.
 
 
-### Situation
+### Situation.
 
 Zinton, roi de Chine, et Tamerlan, empereur des Tartares, sont en guerre. Vanlie, le fils de Zinton, a fui la Chine et s'est rendu dans le camp de Tamerlan sous le nom de Phocate pour retrouver Hermasie, la fille de l'empereur, qu'il aime éperdument. Après quelques mois passés dans le camp tartare, il s'apprête à rentrer dans sa patrie, sous sa véritable identité. De son côté, Armetzar, lors d'une bataille contre les Chinois aux côtés de son père Tamerlan, aperçoit le portrait d'une jeune femme sur le corps d'un soldat chinois et en tombe amoureux : il part ainsi à sa recherche, fuit son pays, et sert alors Zinton sous le nom de Phocate, pour conquérir, Ladice, la fille du Roi. La pièce se déroule dans le camp de Zinton, devant la ville de Quinsay.
 
 
-### Acte I
+### Acte I.
 
 Alors que Armetzar se trouve depuis quelques mois dans le camp de Zinton, Organte, son confident, tente de le persuader que son entreprise rencontrera la désapprobation de son père et lui conseille donc de partir sur le champ et de retourner dans le camp tartare. Mais le jeune amoureux ne peut se résoudre à battre en retraite. Organte lui apprend ensuite que Vanlie, « cet autre Phocate » qui servait Tamerlan afin de se rapprocher de sa fille Hermasie, est le fils de Zinton et qu'il est de retour en Chine (sc. 1). Zinton attend son fils Vanlie afin de lui faire rencontrer Phocate (Armetzar). Ce dernier, ayant rendu nombre de services au roi, est invité à se joindre à Vanlie pour se venger du rebelle Sanga, épaulé par Tamerlan, qui s'est emparé de la ville de Qunisay (sc. 2). Un garde annonce l'arrivée de Vanlie. A sa vue, Phocate (Armetzar) est sous l'effet de la surprise : il s'aperçoit que l'inconnu qui servait son père sous le nom de Phocate et le fils de Zinton recouvrent une seule et même personne (sc. 3). Après les retrouvailles avec son fils, le roi lui présente Phocate (Armetzar) et loue ses qualités devant Vanlie. Les deux jeunes hommes se déclarent alors prêts à se venger de la trahison de Sanga (sc. 4). En l'absence de Zinton, les deux jeunes hommes se retrouvent face à face et peuvent laisser éclater leur joie. Ils retracent tous deux le récit de leur amour : celui de Vanlie pour la sœur d'Armetzar, celui d'Armetzar pour la sœur de Vanlie (sc. 5).
 
 
-### Acte II
+### Acte II.
 
 Ladice avoue à sa confidente Iliane l'estime qu'elle porte à Phocate (Armetzar) ; mais son rang lui impose d'épouser le fils de la seconde femme de Zinton, Artaban (sc. 1). Zarimène, princesse de la « Cocinchine » et seconde femme de Zinton, vient annoncer la victoire sur Sanga et ses compagnons. Tandis qu'elle donne l'honneur de la victoire à son fils, Ladice le remet à Phocate (Armetzar). Cette dernière ne reconnaît pas l'autorité de Zarimène et rejette Artaban (sc. 2). Zinton, ainsi que les autres membres de la famille royale, louent le courage de Phocate (Armetzar). Le roi veut lui offrir une couronne en récompense. Phocate (Armetzar) refuse et calme l'appréhension de Zinton au sujet de Tamerlan, en mettant en avant la grandeur de ce dernier (sc. 3). Afin de récompenser le héros de tous ses services, le roi décide de lui offrir sa fille : Zarimène, qui veut favoriser son fils, est alors offusquée de ce choix ; Ladice, au nom du sang, ne veut pas épouser un sujet ; Vanlie, lui, approuve le projet et se range du côté de son père (sc. 4). Face à Iliane, Ladice fait alors de Phocate (Armetzar) un calculateur qui agirait courageusement près du roi afin d'obtenir des faveurs de sa part et de conquérir sa fille (sc. 5). Phocate (Armetzar) avoue son amour à la jeune fille qui le chasse des lieux (sc. 6). Armetzar, accablé de désespoir, décide de retirer son masque, afin de recouvrer sa noblesse qui pourrait faire fléchir le cœur de la jeune femme (sc. 7).
 
 
-### Acte III
+### Acte III.
 
 Tandis qu'Armetzar se sent prêt à combattre contre son père, à visage découvert (sc. 1), Organte vient lui annoncer la venue de Vanlie (sc. 2). Ce dernier lui conseille de se dissimuler encore sous le nom de Phocate. Ils entreprennent alors tous deux de combattre dans le camp adverse (Vanlie chez les Tartares ; Armetzar chez les Chinois), dans la guerre qui oppose leurs pères respectifs, et se retrouvent donc « amis ennemis » (sc. 3). Armetzar expose un projet à son confident : il souhaite faire de Quinsay une ville chinoise. Organte doute de la réussite de l'entreprise. A l'arrivée de Ladice et d'Iliane, ils se cachent (sc. 4). Alors que Ladice se trouve face à un véritable dilemme, Iliane lui reproche sa dureté à l'égard de Phocate (Armetzar) et lui fait entrevoir les conséquences néfastes de cette attitude (sc. 5). Artaban tente vainement d'amadouer le cœur de Ladice, en lui avouant sa jalousie. En retour, celle-ci le repousse (sc. 6). Face au refus, Artaban renonce donc à ce dessein (sc. 7). Mais Zarimène pousse son fils à expulser Phocate (Armetzar) du pays ou à le tuer, afin de l'unir à Ladice (sc. 8).
 
 
-### Acte IV
+### Acte IV.
 
 Zinton apprend que Vanlie et Phocate (Armetzar) ont quitté le camp. Artaban profite de cette situation pour discréditer ce dernier aux yeux du roi (sc. 1). Un garde vient annoncer que Quinsay s'est rendu (sc. 2). Phocate (Armetzar) raconte à Zinton comment il est parvenu à convaincre les soldats mutinés et les habitants de Quinsay de se rallier aux Chinois et de se soumettre à l'autorité de Zinton. Afin de convaincre plus aisément son auditoire, Phocate (Armetzar) s'est fait passer pour le prince chinois, Vanlie. Il apprend également la mort de son confident, Organte. Après son récit, Zinton lui réaffirme son attachement et son offre de mariage avec Ladice (sc. 3). Artaban, seul, menace Phocate (Armetzar) de mort (sc. 4). Ladice a reçu une lettre de Vanlie où il lui divulgue la véritable identité de Phocate (Armetzar). Elle prend alors conscience de l'importance de cette révélation et des obstacles à surmonter : Armetzar est fils de Tamerlan, ennemi de son père (sc. 5). Armetzar arrive et comprend que Ladice connaît sa réelle identité. Il la rassure sur les motifs qui animent son entreprise. Ils finissent par s'avouer un amour mutuel (sc. 6).
 
 
-### Acte V
+### Acte V.
 
 Zarimène loue la vertu de Phocate (Armetzar) et son succès dans la ville de Quinsay. Celle-ci et Ladice attendent toutes deux l'issue du combat (sc. 1). Un gardien vient leur apprendre la victoire de Tamerlan : Artaban est mort, Zinton est fait prisonnier et Phocate (Armetzar) aurait rejoint le camp tartare. Zarimène quitte la scène et meurt (sc. 2). Ladice ne parvient pas à croire la trahison d'Armetzar et en fait part à sa confidente (sc. 3). Armetzar survient et dénoue cette fausse trahison : il s'agissait en réalité de Phocate (Vanlie) qui combattait aux côtés de Tamerlan (sc. 4). Arrive enfin Tamerlan, vainqueur, qui vante les qualités de Phocate (Vanlie) et décide de lui octroyer les terres chinoises. Le jeune homme tente d'obtenir auprès de Tamerlan un sort plus favorable pour son père prisonnier (sc. 5). Armetzar et Zinton arrivant sur scène, les pères sont stupéfaits de reconnaître leurs fils dans le camp adverse. Après leur avoir reproché leur trahison, ils nient l'aide et le secours que leur ont apportés chacun d'eux. Vanlie et Armetzar avouent leur motivation réelle. Dans un élan généreux, Tamerlan restitue alors Zinton sur le trône chinois, pardonne à son fils, et les mariages peuvent enfin se conclure (sc. 6).
 
 
-## Du roman au théâtre : une source romanesque avouée et personnelle
+## Du roman au théâtre : une source romanesque avouée et personnelle.
 
 La tragi-comédie est un genre éminemment romanesque et dont l'invraisemblance (ou la convention romanesque) régit toute la création. Certes, quelques tragi-comédies s'inspirent de l'histoire, mais, à la différence des tragédies qui exposent et analysent des débats politiques, les tragi-comédies se construisent essentiellement autour d'une intrigue sentimentale. Corollaire de l'*inventio* romanesque, la *dispositio* a-régulière apparaît alors comme constitutive du genre.
 
@@ -134,13 +134,13 @@ Ecrire un roman suppose une investigation préalable. A défaut de pouvoir bén�
 *Ladice* peut être rapprochée de *Cassandre* de La Calprenède [28], bréviaire de science amoureuse du XVII*e* siècle, dont la première partie parut en 1642. Maurice Magendie confirme que « ce sont exactement les aventures que, quelques années auparavant, La Calprenède avait prêtées à Oroondate, Statira, Artaxerxe, Bérénice [29] ». *Cassandre* contient également « les origines de l'empire tartare, les guerres de Tamerlan, contre Bajazet et les sultans d'Egypte, et une rapide histoire de la muraille de Chine [30] ».
 
 
-# Place de la pièce dans l'histoire du théâtre
+# Place de la pièce dans l'histoire du théâtre.
 
 
-## L'Orient, une nouvelle source dramatique
+## L'Orient, une nouvelle source dramatique.
 
 
-### Une mode orientale au XVII*e* siècle
+### Une mode orientale au XVII*e* siècle.
 
 L'Orient, tel qu'il se manifeste dès le début du XVII*e* siècle dans les lettres françaises, figurait déjà dans l'héritage légué par le Moyen Âge et la Renaissance. Sous ce premier aspect, l'Orient est toujours géographiquement l'Orient biblique agrandi de celui que recouvrent l'expansion de l'hellénisme et l'Empire romain, de l'Orient ancien que nous connaissons par les poètes et les historiens grecs et latins. Il est aussi l'Orient de l'*Histoire universelle* de Bossuet. Pendant la seconde moitié du siècle, un apport plus direct, une première connaissance d'œuvres littéraires orientales viendra par les relations des ambassadeurs, des voyageurs et des missionnaires. Enfin, ces derniers – et les jésuites principalement – feront à la Chine une place à part dans les relations avec la France. En effet, « le siècle de la représentation classique voit se poursuivre l'exploration vivace de la planète, proliférer … les descriptions des contrées extra-européennes [31] ». La première de ces sources prêtera des thèmes historiques au théâtre qui en fera des modèles classiques. La seconde, formée d'éléments traduits de la littérature orientale, inspirera des sujets de fables et de contes. Enfin les jésuites, ambassadeurs des cultures française en Chine et chinoise en France, qui enseignent nos arts et nos sciences à la cour de Pékin, rapportent en échange, non des thèmes littéraires aux écrivains mais des idées nouvelles aux philosophes et aux moralistes sur les rapports du ciel et de la terre, du souverain et de ses peuples. Selon la nature, chacune de ces sources nourrira en France un genre littéraire.
 
@@ -149,7 +149,7 @@ Si la plupart des chercheurs s'accordent sur l'absence des préoccupations ethno
 Généralement, les tragédies qui mettent en scène l'Orient le font de manière sanglante et cruelle, à travers la mise en scène de l'excès et de l'outrance (comme les pièces de Dalibray et de Mairet). L'Orient, qui bénéficie d'un important regain d'intérêt, devient le cadre de représentations nouvelles. *Ibrahim ou l'illustre Bassa* [33] de Scudéry, pièce représentée en 1641-1642 et publiée en 1643, marque un renouveau, d'abord par l'attention portée aux caractères et aux liens entre les personnages, puis par un respect des bienséances et une « unité intérieure réelle et profonde » dont parle Eveline Dutertre dans l'introduction qu'elle place en tête de son édition de cette pièce [34]. Chappuzeau le suivra surtout dans le second point : il tentera de fabriquer une intrigue une et de justifier chaque épisode au sein de l'action principale.
 
 
-### Aux sources de la sinophilie
+### Aux sources de la sinophilie.
 
 Lointaine, isolée à l'extrémité du continent eurasien, à l'autre bout du monde, longtemps restée très difficile d'accès, la Chine hante l'imaginaire occidental. Forte d'une civilisation ancestrale, elle s'impose comme modèle incontournable pour les hommes du XVII*e* siècle. Au Moyen Âge, Marco Polo répertoria ses richesses sous le nom de Cathay. Quels que soient leurs motifs, des générations de voyageurs multiplièrent de nombreux récits et accumulèrent nombre de connaissances sur cet immense empire. Marchands, gens d'église, intellectuels, aventuriers, diplomates, artistes se rendirent en Chine. Mais l'opinion sur la Chine reste façonnée par une minorité (et notamment par quelques ouvrages de jésuites missionnaires des connaissances occidentales sur la Chine).
 
@@ -160,12 +160,12 @@ Ce dernier, jésuite italien, est le premier à réaliser le rêve de saint Fran
 Ainsi le XVII*e* siècle connaît-il par la suite un besoin d'aération et de changement. La connaissance directe des pays d'Orient et la révélation fragmentaire de leurs littératures sont dues aux voyages de Jean-Baptiste Tavernier en Turquie, en Perse et en Inde, publiés de 1675 à 1679 [35] ; à ceux de Thévenot, parus en 1684 et de Chardin, parus en 1686. Mais le véritable informateur des écrivains du XVII*e* siècle fut François Bernier, qui était en relations directes et amicales avec La Fontaine, Molière et Chapelle. Il y en a d'autres : l'immense exode de voyageurs aventureux – comme Chardin ou Tavernier et les missionnaires de la Chine et de l'Inde, ainsi que les libertins comme le médecin Bernier et Lahontan –, qui allaient découvrir tous les ailleurs du vaste monde, n'était pas uniquement poussé par l'attrait de découvertes géographiques mais obéit davantage à la curiosité de savoir.
 
 
-### Entre mythe et réalité
+### Entre mythe et réalité.
 
 La Chine constitue une des grandes présences autour desquelles s'est défini le monde moderne et reste le point de mire des étonnements et des convoitises des Européens. Par le prestige de sa civilisation et le mystère de ses origines, elle se fait le cadre de nouvelles représentations qui mêlent le plus souvent réel et imaginaire. Cette vision tirée d'un mythe se trouve revisitée par la sensibilité de l'auteur et adaptée au genre choisi. Ainsi, chez les auteurs nourris d'antiquité classique, l'Orient s'impose comme l'opportunité de sujets souvent modernes. Si les sujets choisis sont parfois plus rapprochés dans le temps, ils restent éloignés sur le plan géographique et conservent ainsi une certaine distance. Au XVIII*e* siècle, la sinophilie prend son essor : déjà habitué à emprunter les sujets de ses tragédies à toutes les littératures connues et à transporter leur action de la Grèce à l'Arabie (*Le Fanatisme ou Mahomet le Prophète*) ou au Pérou (*Alzire ou les Américains*) et de l'Antiquité à l'époque des croisades (*Zaïre*), Voltaire compose une tragédie en cinq actes et en vers intitulée *L'Orphelin de la Chine*, qu'il fit jouer à Paris 1755 : il tire son sujet d'un drame chinois du XIV*e* siècle, *L'Orphelin de la famille Tchao*, dont une traduction française, d'ailleurs fort incomplète, parut en 1730.
 
 
-## Tamerlan, un sujet dramatique européen
+## Tamerlan, un sujet dramatique européen.
 
 De tous les monstres de l'histoire, aucun n'est plus sanguinaire que Tamerlan, le seigneur de la guerre tartare qui, au XIVe siècle, bâtit un vaste empire depuis la Chine jusqu'au cœur de l'Asie Mineure. Ce personnage historique exerça une véritable fascination sur les écrivains de la Renaissance par sa férocité et le faste oriental dont il s'entoura. Tamerlan (1336-1405), conquérant turco-mongol, est le fondateur de la dynastie timuride. Artisan de la restauration mongole en Asie centrale, génie militaire incontestable, supérieur peut-être à Gengis, Tamerlan reste, tel ce dernier, l'objet d'une controverse. Si beaucoup, comme son ennemi juré, le chroniqueur Ibn Arabchah, voient en lui une brute sanguinaire, d'autres soulignent son rôle de bâtisseur, de législateur, d'organisateur et de propagateur de l'islam. Tamerlan s'est taillé un empire s'étendant de l'Inde à la mer Méditerranée, fondant la dynastie des Timurides, qui a régné sur la Transoxiane et l'Iran jusqu'au début du XVIe siècle. Le nom de Tamerlan, forme francisée de Timur-Lang (« Timur le Boiteux » ), lui a été donné après qu'il eut perdu dans une bataille l'usage de sa jambe gauche.
 
@@ -220,7 +220,7 @@ Répondre à cet amour qui doit me faire horreur ?
 ## *Armetzar*, la première pièce française sinophile ?
 
 
-### Topographie et onomastique
+### Topographie et onomastique.
 
 Malgré un intérêt qui, depuis la Renaissance, ne s'est jamais démenti, la connaissance du pays du Levant, empreinte de projections fantasmatiques, reste somme toute assez fragmentaire. En témoigne le caractère flou des informations topographiques qui se résument le plus souvent à quelques indications géographiques. Au reste, le goût de l'Orient s'explique, selon Pierre Martino, moins par un désir de satisfaire la curiosité des lecteurs que par une volonté de renouveler le cadre habituel de la fiction : « … après s'être suffisamment aimés ou combattus par toute la France et par toute l'Europe les héros de roman en goût de voyage, et ne voulant plus retourner sur les bords du Lignon qu'ils avaient depuis longtemps délaissé, eurent fantaisie de passer dans les pays lointains qu'ils avaient quelque fois entendu nommer, et dont on commençait à parler beaucoup [36]. » On ne saurait ainsi parler d'un véritable dépaysement mais d'un transfert local. Chappuzeau reste certes sensible aux fluctuations de la mode, invite le lecteur dans une civilisation exotique, presque étrangère – le fonds culturel gréco-latin, garant d'historicité et gage de profondeur intellectuelle, étant mis de côté ; mais la topographie, souvent réduite à quelques annotations stéréotypées, ne laisse guère transpirer de pittoresque paysager. Notons seulement l'apparition furtive de deux habitants de Quinsay (IV, 3), la mention de la muraille de Chine (V, 5, v. 1686-1689) et les quelques indications spatiales sur Quinsay (aujourd'hui appelé Hangzhou ou Hanzhou et situé au sud de Shanghaï). Zinton, roi de la Chine, fait remarquer que Quinsay est « voisin du Tartare et de la mer Scythique » (I, 2, v. 221). Marco Polo, lors de ses voyages en Chine, est passé par ce très grand port de Quinsay et en a fait la description suivante :
 
@@ -232,15 +232,15 @@ L'orientalité reste le plus souvent exprimée à travers des images matérielle
 Toutefois, la forme et la structure de la pièce restent conformes aux préceptes classiques : la couleur locale semble en effet nulle et l'auteur préfère la sacrifier à la morale. L'esthétique classique repose sur des principes absolument opposés à ceux qui feront naître le fameux pittoresque, cher aux Romantiques. La règle des bienséances ne réclame-t-elle pas d'adapter les sujets au goût des spectateurs qui ne doivent pas être choqués dans leurs habitudes et leurs croyances sous peine – croit-on alors – de voir se rompre l'illusion dramatique ? Là où l'idée de vraisemblance semblait être attaquée, le dramaturge classique ne puise un sujet exotique que pour mieux répondre aux exigences de la *doxa*.
 
 
-### Entre sujet historique et matière romanesque
+### Entre sujet historique et matière romanesque.
 
 Chappuzeau détourne la vérité historique au profit d'une efficacité dramatique : il corrige l'histoire et rectifie les derniers épisodes de la vie de Tamerlan. À l'apogée de sa carrière, Tamerlan est en réalité tombé malade avant de partir à la conquête de la Chine. Dans la pièce, le héros oriental parvient à accomplir ce rêve et même à dépasser toutes ses victoires en pardonnant à son ennemi. Chappuzeau choisit un moment crucial, fort en virtualités dramatiques : Tamerlan a accompli de nombreuses conquêtes et son nom a acquis une immense renommée. Mais le dramaturge ne met pas l'accent sur le caractère belliqueux et sanguinaire de ce fameux personnage historique : il renverse notre horizon d'attente en se focalisant d'abord sur son fils – personnage créé par le dramaturge lui-même dans son roman. Sa tragi-comédie ne se fait donc plus le lieu de combats spectaculaires mais celui des passions, des intrigues sentimentales (avec certes un arrière-fonds de conquêtes territoriales et de stratègies politiques). Au combat des corps se substitue celui des cœurs. De Tamerlan, Chappuzeau nous rappelle les innombrables victoires dans la scène d'exposition, ce qui suscite l'intérêt du spectateur. Il plante dès la scène d'ouverture ce personnage tout en démesure : sa présence est déjà pesante et constitue une menace permanente sur le peuple chinois. Sur le plan de la composition, il est fort probable que le dramaturge soit parti de ce personnage historique – source fertile de sujets dramatiques et fort d'un important contenu imaginaire. Sa grandeur insuffle un souffle héroïque au texte. Chappuzeau en le faisant intervenir dans les dernières scènes peut ainsi jouer de ce renversement. Il constitue un obstacle extérieur efficace ; mais cette figure de père-roi n'est pas une figure aimante, comme dans beaucoup de tragi-comédies : il s'agit plus d'une pure figure historique, justifiant le cadre spatio-temporel. Le titre désigne le héros éponyme, fils de Tamerlan. Contrairement aux pièces antérieures qui mettaient en scène ce personnage historique, *Armetzar* centre l'intérêt sur son fils et Tamerlan ne fait son entrée sur scène qu'à l'avant-dernière scène de la pièce.
 
 
-# Analyse et interprétation
+# Analyse et interprétation.
 
 
-## La structure de la pièce
+## La structure de la pièce.
 
 
 ### Une tragi-comédie régulière ?
@@ -259,20 +259,20 @@ La marche vers la régularité n'est en fait que disposition extérieure des tem
 Le genre tragi-comique tend ainsi entre une régularité feinte et conserve une a-régularité inhérente au genre. Parée d'une régularité limitée, la tragi-comédie de Chappuzeau respecte les bienséances et se soucie peu de la vraisemblance. Les combats, se soldant parfois par la mort d'un personnage, se déroulent non pas sur la scène comme dans *Le Cid* (I, 4) de Corneille ou *Le Prince déguisé* (V, 9) de Scudéry, mais hors-scène. Ces batailles sont rendues sur scène à travers des récits : le récit du garde qui annonce la mort d'Artaban (V, 2), le récit d'Armetzar qui raconte la mort de son confident (IV, 3). Par ailleurs, Zarimène, après avoir pris connaissance de la mort de son fils et de l'emprisonnement de Zinton, se retire hors-scène pour mourir. En outre, le dramaturge n'insère pas de scènes comiques : les épisodes de quiproquo, de fausse trahison, l'audace des valets ne sont pas tournés en ridicule. Selon Guichemerre, « avec le triomphe des règles et la distinction des genres, le comique disparaîtra à peu près complètement de la tragi-comédie après 1640 [41]. »
 
 
-### Le déroulement de l'action
+### Le déroulement de l'action.
 
 
-#### L'exposition
+#### L'exposition.
 
 Le genre tragi-comique saisit traditionnellement les événements à leur naissance. Ici, *Armetzar* mime le genre tragique, en plongeant *in medias res* le spectateur dans l'action. Au début de la pièce, l'amour tragi-comique est déjà né et les personnages ont revêtu leur déguisement : l'exposition classique présente une crise limitée dans un cardre spatio-temporel précis et bref. Le premier acte s'ouvre sur l'historique des combats de Tamerlan, un grand tableau de ses victoires, et s'achève sur l'épisode du portrait, un micro-événement sur le champ de bataille. Le passage du père au fils marque le passage de la gloire à l'amour, du collectif à l'individuel. L'ouverture de la pièce reprend l'exposition canonique entre un héros et son confident. Cette exposition développée et détaillée reflète toute la complexité de l'intrigue : il s'agit d'évoquer les événements passés, de présenter les acteurs du drame et l'état de la situation. Elle appartient à la fois au genre démonstratif et au genre délibératif, comme la première scène du *Cid* : Armetzar et Organte, en même temps qu'ils présentent au spectateur les enjeux de la situation, délibèrent sur la décision à prendre. Ainsi que l'explique Georges Forestier, « le meilleur moyen d'éviter le risque d'ennui est de donner un tour « naturel » au discours, en lui conférant un enjeu immédiat : il ne doit pas être simplement une information, mais engager d'emblée le destin d'un personnage. En termes de rhétorique, le discours ne doit pas être seulement *démonstratif*, mais aussi *délibératif* [42]. »
 
 
-#### Nœud
+#### Nœud.
 
 Le nœud de l'intrigue tragi-comique semble disséminé à travers une succession d'obstacles. La course des amants vers le mariage final se heurte à divers épreuves : des obstacles extérieurs (Artaban, la fausse accusation), un obstacle intérieur (l'héroïne vertueuse), et surtout l'inimitié des deux familles. Cette juxtapostion d'accidents provoque la crise : Armetzar dans ses stances (III, 1) témoigne de la difficulté à surmonter ces oppositions. Le nœud s'étend ainsi de la première scène de l'acte II à la quatrième scène de l'acte V.
 
 
-#### Dénouement
+#### Dénouement.
 
 Si la tragi-comédie emprunte son exposition *in medias res* à la tragédie, elle emprunte son dénouement heureux à la comédie. Cette fin structurante propre au système comique se construit donc à rebours [43], le dénouement jouant donc comme point de départ de la construction dramatique. On s'achemine vers le dénouement par une suite de retards, que constituent la succession d'obstacles qui heurtent la course des amants vers le mariage final. Le dénouement est marqué par l'arrivée sur scène de Tamerlan (V, 5), mais il se concentre dans la scène finale, scène de reconnaissance et de pardon. Dans un mouvement de revirement, Tamerlan pardonne la trahison des fils et restitue le trône au roi chinois. Hélène Baby explique que le revirement, signe d'intériorité, est source de paradoxe dans une tragi-comédie, où se déploie une dramaturgie de l'extériorité :
 
@@ -282,37 +282,37 @@ Alors que l'action tragi-comique est entièrement soumise aux obstacles extérie
 Si le revirement tragi-comique exploite l'intériorité d'un personnage, il reste subordonné à une dramaturgie de l'extériorité. Cette intériorité feinte crée une impression d'artifice et devient source d'invraisemblance.
 
 
-### Le travail de composition
+### Le travail de composition.
 
 Chappuzeau n'a pas cherché à condenser toutes les actions à l'intérieur de la pièce. Certaines sont placées avant le début de la pièce et sont alors relatées au spectateur à travers des récits. Ainsi, les amours et les déguisements d'Armetzar et de Vanlie sont antérieurs au début de la pièce. Il s'agit donc déjà au début de la pièce d'approcher la bien-aimée pour la séduire et la conquérir, et surtout de réconcilier les deux pays ennemis. L'épisode du portrait (I, 5) permet au dramaturge de planter Armetzar dans son camp d'origine et d'expliquer ainsi les motivations qui l'ont entraîné à passer dans l'autre camp. L'objet est donc un support à partir duquel le dramaturge peut combler une ellipse de la représentation en racontant une action extra-scénique. Il suscite, à l'instar du récit qui l'accompagne, l'émerveillement du public. La scène intervient à la fin du premier acte parachevant ainsi l'exposition et ouvrant la première scène de l'acte suivant, l'entretien de Ladice et de sa confidente. A la fin de l'acte I, le spectateur connaît ainsi l'origine de l'intrigue à travers la narration des événements antérieurs à l'action. Toutefois, l'action semble procéder de manière linéaire. Se greffent donc sur la ligne principale des boucles secondaires : greffe du doublet Vanlie/Hermasie, greffe du couple Zarimène/Artaban, greffe de la trahison de Sanga. L'action tragi-comique est ainsi composée, comme le montre Hélène baby, de lignes et de boucles : « Linéarité d'une action qui suit les hasards d'un événement à un autre, boucles qui sont autant de greffons sur l'itinéraire principal [45] ». Le dramaturge tragi-comique est également animé par un souci de variété et de spectacle : aussi utilise-t-il différents modes d'écriture dramatique (monologue : II, 7, III, 7 et IV, 4 ; stichomythie : II, 2), différentes formes poétiques (stances en III, 1 ; lettre : IV, 5), et des objets (portrait : I, 5 ; lettre : IV, 5 ; épée : V, 4), jouant alors avec l'ensemble des possibles dramatiques et dramaturgiques et satisfaisant à la fois le visuel et l'auditif du spectateur. La liaison de scène est le plus souvent respectée par Chappuzeau. Contrairement aux dramaturges tragi-comiques qui aiment multiplier les tableaux et varier les épisodes pour le plaisir du spectateur, Chappuzeau a le souci de continuité et tente d'éviter tout effet de rupture. Le plus souvent, la liaison se fait par la vue (II, 1 ; III, 2, III, 3). Zinton peut également demander la sortie de certains personnages (II, 3) ou sortir de lui-même (I, 4).
 
 La pièce est encadrée par deux scènes importantes : I, 1 et V, 6. Tandis que l'ouverture de la pièce se fait dans la confidence entre le héros éponyme et son confident, la scène finale est plus magistrale et réunit les grands personnages de la pièce. Ce diptyque marque le passage du secret à la mise au jour, de la discorde à la concorde. Chappuzeau confère à la scène finale une pompe [46] majestueuse, réunissant les personnages principaux masculins. A l'intérieur de ce cadre se développe une double structure autour du personnage principal : l'une épique, où le héros vole d'épreuve en épreuve et où le spectateur assiste à tous ses triomphes, la seconde rhétorique animée également par Armetzar (l'importance de sa présence scénique et son temps de parole dans des scènes importantes comme la scène d'exposition, les stances et son récit, lui confèrent une place centrale).
 
 
-## Dramaturgie
+## Dramaturgie.
 
 
-### Temps et lieu
+### Temps et lieu.
 
 Le début de la pièce marque une rupture à la fois temporelle et spatiale pour le héros. Dans la scène d'exposition, Armetzar et son confident distinguent deux temps : d'un côté, les dix années de guerre (I, 1, v. 85) au service de Tamerlan ; de l'autre, le temps présent de l'amour au service de Ladice (I, 1, v. 79). Quant à l'action, elle se déroule dans un lieu unique, le camp de Zinton, c'est-à-dire le territoire ennemi de Tamerlan et d'Armetzar. Cette unicité s'oppose à l'énumération des territoires conquis par l'empereur tartare, à ce que « ce bras vainqueur a fait en tant de lieux » (I, 1, v. 92). Le camp de Zinton devient ainsi un enjeu stratégique : espace non encore conquis par Tamerlan au début de la pièce, il est le lieu de l'amour d'Armetzar (I, 1, v. 138-144). S'il a « forcé tout l'Occident à recevoir ses loix » (I, 1, v. 88), Tamerlan n'a pas encore soumis la Chine, « ce bout de l'univers », à ses lois.
 
 
-### Les acteurs
+### Les acteurs.
 
 Le nombre et la diversité du personnel dramatique assurent le spectacle tragi-comique et suscitent le plaisir du spectateur. La pièce comprend treize personnages, sans compter le garde qui intervient à plusieurs reprises, ni la venue sur scène de deux habitants de Quinsay. Chaque personnage principal est doté de confidents, doublures souvent passives, dont le nombre augmente aisément l'effectif du personnel dramatique. Toutefois, Organte et Iliane sont moins des suivants – personnages réduits au silence et à la passivité – que des confidents, capables de conseiller et d'agir aux côtés de leur maître [47]. Quelques personnages sont réduits à de pures fonctions dramaturgiques, comme Axalla, Odmar, Ulanie.
 
 La structure à deux couples amoureux, Armetzar/Ladice et Vanlie/Hermasie, confirme la tendance de la tragi-comédie à la multiplication des personnages. Chappuzeau justifie ce redoublement, en recourant au lien de la parenté : Armetzar et Hermasie, comme Vanlie et Ladice, sont frère et sœur. « Le lien familial, écrit Hélène Baby, justifie en effet la présence de nouveaux amoureux, compense ainsi l'absence de lien actantiel et permet la prolifération des actions en multipliant, sur le noyau initial, les greffons amoureux [48] ». Le recours à la parenté offre des possibilités de liaison et les justifie. Il donne une apparente unité à l'action par l'unification des deux couples, Armetzar et Ladice, Vanlie et Hermasie. « Exemplaire des motivations esthétiques de la tragi-comédie, cette structure fondatrice ne consiste pas à lier les couples dans l'action, mais à multiplier les actions et le recours à la parenté offre des possibilités de liaison très simples et très commodes [49]. » Toutefois, chez Chappuzeau, cette construction permet le développement du thème de l'amitié qu'il avait déjà traité dans sa première tragi-comédie. La parenté n'est pas le prétexte pour multiplier les actions – on ne représente pas les actions de Vanlie en pays tartare –, mais permet de lier les deux héros sur le plan actantiel.
 
 
-### L'intrigue
+### L'intrigue.
 
 Cette intrigue d'amours contrariées, consubstantielle à la dramaturgie et au genre tragi-comiques, nécessite sur le plan dramatique une opposition aux amants et donc l'apparition d'obstacles types (comme la fausse trahison au début de l'acte V). Face aux obstacles, le héros se distingue par le courage à affronter toutes sortes de combats, comme les affrontements sur les champs de bataille. Aussi Armetzar se jette-t-il vaillamment dans les combats guerriers que les circonstances lui imposent, comme le fait Rodrigue qui part défendre le royaume de Castille contre les Mores. Le courage inaltérable de l'amoureux tragi-comique se double d'une qualité révélée par l'obstacle de la fausse trahison : la fidélité, la constance. Le motif du « prince déguisé », ou par extension celui du chevalier errant, empêché par une inimitié nationale, constitue un *topos* tragi-comique : le déguisement abaisse le héros à un statut social inférieur. Dans sa conquête amoureuse, le prince en se déguisant se fait pur soldat : Armetzar connaît un statut social inférieur à celui d'Artaban, prétendant de Ladice, puisqu'il perd sa noblesse de sang. La fuite et la naissance à l'amour nécessitent un changement identitaire. Armetzar et Vanlie quittent leur rôle de guerrier pour celui d'amant, ou plus exactement de chevalier. Cette fuite géographique du héros permet à la fois de se soustraire de l'autorité paternelle et royale, et de se soumettre à la bien-aimée en multipliant les exploits militaires pour la conquérir. Avant de révéler son amour, son nom et sa condition, Armetzar en se déguisant en Phocate éveille l'intérêt de la jeune fille. Se déguiser et fuir, c'est un acte de naissance, une étape sur le chemin de l'émancipation et de l'indépendance vis-à-vis du joug paternel. Mais la solidité du pouvoir n'est pas réellement ébranlée par le déguisement dans *Armetzar* : en effet, chaque amant se rend dans la patrie adverse. Sans usurper la place de l'autre, Armetzar et Vanlie parviennent à apporter un soutien important au pouvoir.
 
 
-## Les *topoï* tragi-comiques
+## Les *topoï* tragi-comiques.
 
 
-### La naissance à l'amour
+### La naissance à l'amour.
 
 Les amants n'ont pas de volonté de parricide ou de régicide (IV, 6, v. 1540-1542), mais suivent leur cœur, « le party / De l'objet qui retient leur cœur assujetty » (V, 6, v. 2019-2020). Ce sont deux amours immédiats qui naissent soudainement, dès la première apparition de la jeune fille. Il s'agit d'abord d'un saisissement d'ordre visuel : « le seul désir de voir bornoit tout mon dessein » (I, 5, v. 347) ; « j'y vids d'abord ma liberté ravie » (I, 5, v. 349). L'amour d'Armetzar pour Ladice passe par la médiation d'un objet et la simple vue du portrait de la belle suffit à provoquer l'amour [50] : cet épisode est éminemment romanesque. Le portrait concrétise le sentiment, il en est la garantie et le support matériel, autrement dit le gage. Par sa matérialité, il convie sur la scène le champ de l'irreprésentable et de l'absence. Il introduit un nouvel espace. Le signifiant tangible de l'amour prouve la réalité du sentiment amoureux et constitue la promesse de l'union à venir. Le portrait rend présente l'absente : cette autonomie de l'objet lui donne le pouvoir de créer le sentiment. L'image peinte génère inéluctablement l'amour : l'objet remplit une efficacité dramatique et garde la simplicité du fonctionnement dramaturgique. Dans le récit d'Armetzar à la fin de l'acte I, le portrait devient un objet de conquête, un butin après la victoire, il joue un rôle de catalyseur de l'action. Cet objet est obtenu lors d'une bataille contre les Chinois (Armetzar était alors dans le camp tartare aux côtés de son père, Tamerlan) : l'objet motive le déguisement et donc l'intrigue. Armetzar se fait soldat chinois et devient Alcas, il se substitue à lui : à sa mort correspond l'arrivée d'Armetzar en Chine. La présence d'un objet galant sur un champ de bataille préfigure ainsi l'héroïsme galant des personnages et le déplacement de la conquête du champ guerrier au champ amoureux. Le père et le fils combattent certes sur le même champ de bataille mais ils combattent à la fois sur un front différent et pour des causes différentes. La naissance du sentiment amoureux a métamorphosé les jeunes gens : ils sont dès lors animés par « une autre flame » (I, 1, v. 118). Cette ouverture à la sensibilité se fait héroïsme amoureux et galant. Il est le même guerrier hors pair qu'il était sous les ordres de son père mais ces valeurs de courage sont alors mises au service de son amour. Le héros se distingue par son courage à affronter toutes sortes de combats en se jetant vaillamment dans les combats guerriers que les circonstances lui imposent : « Il s'est voulu produire avant de se nommer » (IV, 6, v. 1495). La politique, dans *Armetzar*, est ainsi contaminée par les sentiments amoureux : Zinton, après les multiples succès du héros, le récompense en lui offrant sa fille. Zinton délibère certes, mais pas à la manière d'Auguste dans *Cinna* (II, 1), qui s'interroge, entouré de ses deux conseillers, sur le choix à faire entre garder ou rendre le pouvoir : il ne délibère pas sur une décision d'action politique, il réunit ses proches après le combat pour payer les services d'Armetzar et le récompenser. Le héros tragi-comique se caractérise par son incapacité à exister autrement que par et dans la relation amoureuse. Il ne peut être inconstant parce qu'il n'a pas d'intériorité autre que celle conférée par le sentiment amoureux qui l'anime. Ce courage des héros de la tragi-comédie est lié à la noblesse du sang, et, si un inconnu s'illustre dans les combats, on apprend au dénouement qu'il était de sang princier : un homme, dans la fiction du XVII*e* siècle, qui a toutes les apparences d'un prince, est un prince. Ladice avoue ainsi :
 
@@ -332,7 +332,7 @@ Accorder aujourd'hui la Chine à mon amour ? (I, 1, 138-140)
 Il ne s'agit donc pas seulement du cliché des amoureux persécutés par les pères, mais de la dénonciation motivée de pères ou de tuteurs que leurs vices rendent indignes du rôle d'éducateurs qu'ils s'attribuent. L'amour vrai n'a pas pour seul rôle de polir la jeunesse : il l'éclaire sur ce que sont l'avarice, l'hypocrisie, la manie du pouvoir injustement acquis ou abusivement prolongé (I, 1, v. 85-100). Artaban est celui qui n'est pas parvenu à se libérer de l'autorité parentale et qui reste soumis aux ordres de sa mère Zarimène. Le mariage final scelle ainsi d'autres noces que celles de deux couples : leçon d'honneur, de bonheur et d'authenticité. Loin du parricide et du régicide, les « amis ennemis » ont tenté de rééquilibrer les forces par une simple inversion ; il ne s'agit pas d'une tentative d'usurpation de pouvoir par le fils, mais d'une tentative de régler un conflit en établissant des mariages à la fois d'amour et de stratégie politique. Cette confrontation de deux systèmes de valeurs, l'un épique et guerrier, l'autre galant et sentimental, forme deux couples antagonistes, d'un côté le couple paternel formé par deux chefs d'armée, de l'autre le couple filial composé par leurs fils respectifs, agités par des sentiments amoureux. Armetzar et Vanlie, tout comme Tamerlan et Zinton, sont à la fois amis et ennemis. Cette faille généalogique de la lignée masculine pose ainsi la question de la descendance.
 
 
-### Le motif du déguisement 
+### Le motif du déguisement .
 
 Le déguisement établit le point d'orgue du nœud dramatique et permet l'établissement de l'intrigue : il est à la fois une solution et un obstacle, un défi au père et une réconciliation. Georges Forestier écrit à ce sujet :
 
@@ -354,7 +354,7 @@ De même que la parole s'appuie sur les objets, écrit Hélène Baby, la lettre,
 La lettre ne semble pas être un ornement rhétorique, un morceau d'éloquence mais un simple outil dramaturgique. En effet, l'émetteur et le récepteur sont liés par des liens familiaux : il ne s'agit pas d'un objet galant mais d'un ressort dramatique efficace. A la lecture de la lettre, Ladice voit se superposer les deux identités, l'une authentique Armetzar, la seconde empruntée Phocate : ces deux identités lui semblent d'abord complémentaires (le personnage aimé requiert une origine noble et a fait preuve de courage en combattant aux côtés de son père), puis antagonistes et incompatibles (Phocate est Armetzar, c'est-à-dire le fils de Tamerlan, l'ennemi de son père). Dans la première scène de l'acte II, Ladice avait déjà perçu une ressemblance entre Armetzar et Phocate, grâce à la description que son frère lui avait faite d'Armetzar lors de son voyage en Chine. L'objet complexifie son dilemme intérieur, puisque le héros tartare est « le fils d'un Prince ennemy de son sang » (IV, 6, v. 1528) : il est mis à nu et est alors perçu comme l'ennemi de son père. En mettant Ladice dans la confidence, elle doit effectuer un choix : aimer Armetzar implique un engagement : « Faut il qu'avec vous deux je sois d'intelligence » (IV, 6, v. 1533). La lettre enclenche ainsi le processus du dénouement.
 
 
-### Une dramaturgie entre extériorité et intériorité
+### Une dramaturgie entre extériorité et intériorité.
 
 La scène tragi-comique constitue un lieu de tension entre l'intérieur et l'extérieur, la scène et le hors-scène. Il est d'abord significatif que l'action se déroule dans un camp, lieu militaire placé entre deux zones ennemies : devant la ville de Quinsay et près du territoire tartare. Les seuls personnages à entrer et sortir de ce lieu sont les deux amants, Armetzar et Vanlie. Zinton et Artaban se déplacent également pour le combat final, mais l'un est fait prisonnier et le second meurt. Armetzar dit en parlant de Quinsay : « Et cette place enfin n'est pas inaccessible » (III, 4, v. 1096). Les nombreux récits des événements extérieurs donnent à la pièce une entière extériorité : le lieu de l'action est un espace de pouvoir mais un lieu de passage pour les amants. Cette oscillation entre extériorité et intériorité est sensible également sur le plan de l'intrigue entre les événements extérieurs et l'intériorité des personnages. « Dans l'univers de la tragi-comédie, suggère Hélène Baby, tout se passe comme s'il était absolument nécessaire de passer de l'intériorité du sentiment à l'extériorité de l'objet, c'est-à-dire de l'abstraction à la matérialité [54]. » Les trois objets de la pièce – le portrait, la lettre, l'épée – remplissent ainsi une fonction dramatique indéniable. Propre à représenter l'irreprésentable, il ouvre l'espace scénique vers d'autres horizons : le portrait, en plus de dévoiler, exprimer et libèrer le sentiment, introduit la description d'une bataille sur le camp chinois et informe le spectateur sur l'origine de l'histoire. Véritables outils dramaturgiques, les deux objets principaux, le portrait et la lettre, marquent deux moments distincts à l'intérieur de la pièce : tandis que le portrait, objet pictural galant, se fait le point de départ de l'histoire, la lettre, objet épistolaire, amorce le dénouement. Ce sont des preuves matérielles qui soumettent à la vue des personnages des signes irréfutables de la vérité énoncée : la fiction tragi-comique ne fait pas confiance au seul discours pour se mettre en scène. L'épée (V, 4) reste, par rapport aux deux objets précédents, plus accessoire sur le plan dramaturgique, mais pas moins signifiante. L'entrée d'Armetzar sur scène, « l'épée nue à la main, comme hors d'haleine », semble soudaine et précipitée et rappelle la figure sanguinaire de Tamerlan, ce qui accentue la trahison annoncée par le garde et le trouble de Ladice en le voyant. Son entrée tente d'esquisser un ultime doute, avant de corriger le malentendu. La tragi-comédie met en scène des signes matériels et spectaculaires qui sollicitent la vue de chacun des personnages, sens alors garant de la vérité.
 
@@ -376,7 +376,7 @@ Souvien toy qu'un sujet s'est vanté de t'aimer. (III, 5, v. 1117-1126)
 Construite autour de l'antithèse, sa parole se fait discours du cœur : le personnage semble scindé en deux, animé par deux voix distinctes et contraires. Paralysée par le dilemme, elle trouve une compensation verbale dans la description des forces antagonistes qui s'exercent sur elle, pour tenter de démêler le nœud inextricable d'intérêts contraires. Chappuzeau ne lui accorde pas de monologue, la jeune femme est toujours en présence de sa confidente, Iliane.
 
 
-### Un dénouement ambigu
+### Un dénouement ambigu.
 
 L'arrivée tardive de Tamerlan (V, 5), personnage placé en tête de la liste des personnages, est ménagée et coïncide avec son accession à la gloire : il n'arrive pas sur scène avant d'avoir vaincu son dernier ennemi. Auréolé et glorifié, il enfreint l'espace scénique, s'approprie la scène, à l'instar du territoire chinois qu'il a conquis. Son entrée au dénouement renverse l'horizon d'attente du spectateur : c'est un homme de paroles, et non plus un homme d'action ; c'est un être de pardon et non plus un être sanguinaire et belliqueux. L'arrivée du personnage historique revêt un caractère parfaitement nécessaire : il intervient pour démêler le nœud et fait acte de clémence (V, 6, v. 2069-2070). Mais une simple victoire ne le contente pas. Parvenu au faîte de sa carrière, il recherche la gloire et la grandeur.
 
@@ -398,12 +398,12 @@ L'hiatus entre intériorité et extériorité n'existe que dans la lecture class
 Ainsi ne peut-on pas dire, à la manière de Paul Bénichou qui analyse le héros cornélien, que « mépriser le triomphe après avoir brisé les obstacles, c'est ajouter au prestige d'avoir vaincu celui d'être au-dessus de sa propre victoire », que « le désintéressement magnanime du vainqueur répond, sur un ton plus haut et plus serein, au défi stoïque du vaincu [58] ». Tamerlan effectue un revirement, qui est non pas le résultat d'une méditation intérieure, d'un travail de maîtrise et de dépassement de soi, mais un artifice dramatique. Après qu'Armetzar a exposé ses réelles motivations (v. 2017-2042) et que les deux héros se sont embrassés (v. 2052), Tamerlan gracie les deux jeunes hommes. Malgré l'admiration que Chappuzeau voue à Corneille [59], Tamerlan ne peut être rapproché d'Auguste : ce sont deux personnages qui agissent de la même manière, mais dans deux logiques différentes. Le revirement tragi-comique contribue ainsi à justifier le dénouement, de manière certes artificielle, mais commode : la vérité doit éclater et les mariages se conclure.
 
 
-# Notes sur la présente édition
+# Notes sur la présente édition.
 
 *Armetzar ou les amis ennemis* a été publié à Leyde par Jean Elsevier en 1658.
 
 
-## Description du volume
+## Description du volume.
 
 1 vol. in-12° (feuilleton à la française), 102 p. (dont les douze premières pages non paginées).
 
@@ -438,12 +438,12 @@ Le recueil factice de la BNF contient deux corrections manuscrites : le personn
 La tragi-comédie est entièrement écrite en alexandrins, à l'exception de deux passages (les stances à la première scène de l'acte III et le billet à la cinquième scène de l'acte IV).
 
 
-## Description de la page de titre
+## Description de la page de titre.
 
 ARMETZAR, / OU / LES AMIS / ENNEMIS. / TRAGI-COMEDIE. / Emblème des Elsevier pris par Isaac Elsevier pour l'imprimerie de Leyde : orme autour duquel un cep de vigne entrelace ses rameaux chargés de fruits ; au-dessous et à droite de l'arbre, se tient un vieil homme solitaire qui en cueille les grappes ; à gauche, la devise latine « *non solus* », /A LEIDE, / Chez Jean Elsevier. / filet / M. DC. LVIII.
 
 
-## Liste des coquilles corrigées
+## Liste des coquilles corrigées.
 
 v. 34 : « lieu »
 
@@ -496,7 +496,7 @@ v. 2071 : « me »
 v. 2081 : « à »
 
 
-## Typographie
+## Typographie.
 
 Nous avons conservé la graphie et la ponctuation de l'édition originale. Nous nous sommes toutefois livrés à quelques rectifications qui nous ont paru indispensables pour une parfaite intelligence du texte :
  * – distinction entre *i* et *j* et entre *u* et *v*.
@@ -506,7 +506,7 @@ Nous avons conservé la graphie et la ponctuation de l'édition originale. Nous 
  * – suppression de la ligature &.
 
 
-# ARMETZAR, ou LES AMIS ENNEMIS. TRAGI-COMÉDIE 
+# ARMETZAR, ou LES AMIS ENNEMIS. TRAGI-COMÉDIE. 
 
 
 ## A MONSIEUR SNOECKAERT de SCHAUNBURGH [61], etc.
@@ -522,14 +522,14 @@ Votre tres-humble et tres-obeïssant serviteur
 CHAPPUZEAU. 
 
 
-## ARGUMENT
+## ARGUMENT.
 
 *Armetzar* Prince des Tartares, et *Vanlie* Prince des Chinois, épris d'amour pour la sœur l'un de l'autre, les armées de *Tamerlan* et de *Zinton* prêtes à combattre, plûtost que de s'armer contre leurs maîtresses, aiment mieux se tourner contre leurs peres et contre eux mémes, et passent en effet, *Armetzar* dans le camp Chinoy, et *Vanlie* dans le camp Tartare, chacun soûs un faux nom et une qualité empruntée. Cependant *Armetzar* rend des services⁎ tres signalez à *Zinton, Tamerlan* reçoit de méme des assistances tres considerables de *Vanlie*, sans que leurs Illustres actions puissent toucher leurs Maîtresses, dont la noble ambition méprise quiconque n'a pas le titre de Roy. *Ladice* portée par *Zinton* son pere, à recevoir *Phocate* pour époux (c'est le nom que prend *Armetzar* chez les Chinois, de méme que *Vanlie* chez les Tartares) et croyant que ce soit à sa sollicitation, l'aborde en colere, et luy defend pour jamais sa vûe. *Armetzar* obeït, et conçoit dans son desespoir une haute entreprise qui lui réüssit, et qui engage encore plus puissamment *Zinton* à l'aimer. *Artaban* poussé par *Zarimene* sa mere, seconde femme de *Zinton*, qui tâche de faire entrer son fils dans la famille Royale, devient rival d'*Armetzar* : mais *Ladice* ayant découvert la naissance de celuy-cy, bien loin d'en tirer de nouveaux motifs de haine pour le fils de l'ennemy des Chinois, elle en conçoit une plus haute estime et beaucoup d'amour, que malgré la defense tacite de son pere elle se sent obligé de luy témoigner, après le severe commandement qu'elle luy avoit fait de se bannir de sa vue. Mais s'il la recouvre, il n'en jouït pas long-temps, et les armées étant sur le point de s'approcher, il la quitte pour aller joindre *Zinton*, qui apres un combat opiniâtre se treuve enveloppé d'un gros⁎ de Tartares, et emmené prisonnier. *Armetzar* voyant tout desesperé quitte le desordre pour venir au secours de *Ladice*, et tacher de se sauver avec elle : mais il s'en treuve tres mal receu sur un faux rapport qu'on luy a fait (et avec beaucoup d'apparence) qu'*Armetzar* avoit repris le party de *Tamerlan*. Tandis qu'il fait ses efforts pour la tirer d'erreur, et qu'il en essuye quelques reproches, le *Grand* *Cham⁎* arrive, accompagné de *Vanlie* et de tous ses Généraux ; ce qui les oblige tous deux à prendre la fuite. Mais ayant été bien-tost saisis par quelques soldats, *Armetzar* est enfin mené captif avec *Zinton* devant *Tamerlan*. L'etonnement⁎ des deux peres fut étrange⁎ ; de *Tamerlan* voyant son fils parmy les Chinois, et de *Zinton* voyant le sien parmy les Tartares, lequel avoit usé de tous artifices envers le Vainqueur pour eviter cet abord, et cet evenement engendre des transports merveilleux de part et d'autre. Mais enfin la surprise et la colere cedant à l'amour et à la raison, *Artaban* tué au combat, et *Zarimene* morte en suitte de douleur, *Armetzar* et Vanlie obtiennent de leurs peres ce qu'ils souhaitent, et *Tamerlan* remet le Roy de la Chine dans ses Etats.
 
 Si j'ay tiré le sujet de cette piece, d'un Roman qui court depuis quelques années soûs le nom de *Ladice*, ou des *Victoires du Grand Tamerlan* ; soit qu'il t'ayt plû, ou qu'il t'ayt mal diverti, Je veux bien que tu sçaches que je ne puis apprehender de poursuitte pour ce larcin, si je ne me rens partie contre moy méme. 
 
 
-## PERSONNAGES
+## PERSONNAGES.
  – TAMERLAN,Empereur des Tartares.
  – ARMETZAR,Fils de Tamerlan, soûs le nom de Phocate.
  – ORGANTE,Confident d'Armetzar.
@@ -878,7 +878,7 @@ Mais il faut l'imiter, et cacher ce grand trouble⁎.
 ZINTON, ARTABAN, VANLIE, MENNON, ARMETZAR, ORGANTE, GARDE du ROY.
 
 
-    ZINTON. *Embrassant son Fils.*
+    ZINTON. *Embrassant son Fils.*.
 Je te revoy, mon fils, et mon plaisir redouble  
 Lors que je te revoy pour offrir à ton bras  
 Un Illustre exercice, et pour toy plein d'appas.  
@@ -909,7 +909,7 @@ J'ay crû qu'un pront secours pourroit vous être utile,
 Il marche sur mes pas, et j'ameine avec moy  
 Trente mille Chinois pleins de zele et de foy.  
 
-    ZINTON. *Luy montrant Armetzar.*
+    ZINTON. *Luy montrant Armetzar.*.
 Approche derechef, mon fils, que je t'embrasse,  
 Et daigne apres soûfrir ce guerrier en ma place ;  
 Tu dois à mon exemple honnorer sa vertu⁎  
@@ -921,9 +921,7 @@ S'il n'avoit à ses traits⁎ opposé sa valeur⁎.
 Il s'est jetté pour moy dans des perils extremes ;  
 Enfin, tu dois, mon fils, le cherir si tu m'aimes.  
 
-    VANLIE. *Vanlie entend cecy des complices de   
-Sanga, et Armetzar le prenant pour soy, entre dans un grand trouble.*
-             
+    VANLIE. *Vanlie entend cecy des complices de Sanga, et Armetzar le prenant pour soy, entre dans un grand trouble.*. 
 Estant aimé de vous, Sire, je l'aime aussi :  
 Mais j'entre en méme temps dans un juste soucy⁎.  
 Sanga par tous moyens tasche de vous détruire,  
@@ -931,7 +929,7 @@ Et de pires que luy s'osent icy produire ;
 Leur audace s'accroist plus vous les elevez,  
 Et vous connoissez mal ceux dont vous vous servez.  
 
-    ARMETZAR. *Bas.*
+    ARMETZAR. *Bas.*.
 Ha Dieux ! je suis perdu, ce discours me regarde.  
 
     VANLIE.
@@ -976,7 +974,7 @@ Je veux dés ce matin que le conseil s'assemble ;
 Il faut que j'y donne ordre, et je vous laisse ensemble.  
 Vous, Prince, suivez moy.  
 
-    ARMETZAR. *Bas, tandis que le Roy s'en va.*
+    ARMETZAR. *Bas, tandis que le Roy s'en va.*.
         Rasseure toy, mon cœur,  
 Et de tes faux soupçons condamne la rigueur.  
 
@@ -985,7 +983,7 @@ Et de tes faux soupçons condamne la rigueur.
 VANLIE, ARMETZAR, MENNON, ORGANTE. Apres s'étre tenus un peu de temps embrassez : les deux confidens en faisant de méme de leur côté.
 
 
-    VANLIE. 
+    VANLIE.
 C'est trop, il faut enfin pour étaler ma joye,  
 De méme que mes bras, que mon cœur se deploye.  
 Prince, qui l'auroit crû, que je pûsse en ces lieux  
@@ -1071,7 +1069,7 @@ Si je n'aimois autant Armetzar que Phocate.
 Ouy, Prince, assurez vous de recevoir de moy  
 Tout ce que peut produire une immuable foy.  
 
-    ARMTEZAR. *Il tire une boîte de portrait, sans que Vanlie se montre curieux de la voir.*
+    ARMTEZAR. *Il tire une boîte de portrait, sans que Vanlie se montre curieux de la voir.*.
 J'oseray tout vous dire apres cette assurance,  
 Et deja vôtre aveu m'en donne la licence.  
 J'aime donc comme vous un objet⁎ glorieux⁎  
@@ -1288,7 +1286,7 @@ Mais changeons de discours, j'aperçoy Zarimene,
 Cette injuste marâtre et trop superbe⁎ Reine.  
 
 
-### SCENE II
+### SCENE II.
 ZARIMENE, LADICE, ILIANE, ULANIE
 
 
@@ -1374,7 +1372,7 @@ Ont pû vous aquerir cette haute fortune,
 Elle ne s'étend point jusques à vôtre fils  
 Qui doit borner sa gloire⁎ à nous être soûmis.  
 
-    ZARIMENE. *Bas.*
+    ZARIMENE. *Bas.*.
 C'est par trop endurer d'un insolent caprice,  
 Le Roy vient à propos pour m'en faire justice :  
 Mais il faut à present luy cacher mon depit,  
@@ -1429,13 +1427,12 @@ Qu'elle exige encor plus de mon obeïssance,
 Et me donne moyen de pouvoir assouvir  
 La forte passion que j'ay de la servir.  
 
-    ZARIMENE. *D'un ton qui témoigne qu'elle le prend d'un autre biais.*
-            
+    ZARIMENE. *D'un ton qui témoigne qu'elle le prend d'un autre biais.*.
 Ouy, cette passion nous est assez connue,  
 Vous la cachez en vain soûs trop de retenue,  
 Et j'en ay toûjours fait un digne jugement.  
 
-    ARTABAN. *Du méme ton.*
+    ARTABAN. *Du méme ton.*.
 Recevez d'Artaban le méme compliment.  
 
     VANLIE.
@@ -1705,7 +1702,7 @@ Mais je croyois encore y rencontrer le Roy.
 Je tiens icy sa place, et pourray vous entendre ;  
 Qu'avez vous à luy dire ?  
 
-    ARMETZAR. *Bas.*
+    ARMETZAR. *Bas.*.
         A quoy me dois-je attendre ?  
 Rien qu'on ne pust, Madame, un moment differer :  
 
@@ -1744,7 +1741,7 @@ Et tacher de se rendre amy de Tamerlam.
 Ouy, du seul Armetzar soufrez l'obeïssance,  
 Si sa vertu vous plaist autant que sa naissance.  
 
-    LADICE. *Ces deux vers bas.*
+    LADICE. *Ces deux vers bas.*.
 Il ne me plaist que trop s'il peut te ressembler ;  
 Cruel, je te veux perdre, et tu veux m'accabler !  
 Mais reprenons icy ma colere assoupie.  
@@ -1852,7 +1849,7 @@ Combats, et meurs pour le vanger [89].
 ARMETZAR, ORGANTE.
 
 
-    ORGANTE. 
+    ORGANTE.
 Seigneur.  
 
     ARMETZAR.
@@ -2000,7 +1997,7 @@ Nous dire l'un à l'autre : amy, sers bien mon pere.
     ARMETZAR.
 O rencontre facheux [90] !  
 
-    VANLIE. 
+    VANLIE.
         O durs evenemens !  
 
     ARMETZAR.
@@ -2261,7 +2258,7 @@ Ce Phocate est parti, ses rigueurs l'ont chassé,
 Tu ne t'en verras plus desormais traversé,  
 Il quitte enfin la Cour, et j'ay sçû d'Iliane…  
 
-    ARTABAN. 
+    ARTABAN.
 De cet esprit rusé le trop fidelle organe !  
 Qui pour ses volontez garde un profond respect  
 Et de qui le rapport vous doit être suspect !  
@@ -2513,7 +2510,7 @@ Ne nous exposons plus aux traits⁎ de sa rigueur.
 LADICE, ILIANE.
 
 
-    LADICE. *Elle entre tenant une lettre ouverte en la main.*
+    LADICE. *Elle entre tenant une lettre ouverte en la main.*.
 Que de biens à la fois ! que de maux tout ensemble !  
 Dieux que j'ay de plaisir ! mais bons dieux que je tremble !  
 Quoy presque en un moment voir tant de revoltez  
@@ -2575,8 +2572,7 @@ Aime donc ce grand Prince, et reçoy son service⁎.
 Et le combat fini, que ton cœur l'applaudisse,  
 Ou vainqueur pour mon pere, ou vaincu par le sien.      
 
-    LADICE. *La princesse continue, apres que la confidente a leu.*
-            
+    LADICE. *La princesse continue, apres que la confidente a leu.*.
 Helas ! que cet avis sensiblement me touche !  
 Mennon en te quittant ne t'a rien dit de bouche [95] ?  
 
@@ -2597,8 +2593,7 @@ Mais, Madame, Armetzar vient chasser vôtre peur.
 LADICE, ARMTEZAR, ILIANE.
 
 
-    LADICE. *Armetzar qui ne croyoit pas que Ladice le connust encore, parest fort surpris.*
-            
+    LADICE. *Armetzar qui ne croyoit pas que Ladice le connust encore, parest fort surpris.*.
 Armetzar, approchez, je vous permets ma vûe ;  
 C'est à Phocate seul que je l'ay defendue,  
 Et je le dois punir d'un reproche eternel  
@@ -2757,7 +2752,7 @@ Un garde vient à nous.
 ZARIMENE, LADICE, ILIANE, ULANIE, UN GARDE.
 
 
-    LE GARDE. 
+    LE GARDE.
 Princesses, c'en est fait, le Tartare est vainqueur.  
 
     ZARIMENE.
@@ -2785,7 +2780,7 @@ Et contre les Chinois il tourne son couroux.
     ZARIMENE.
 C'est là ce digne amant⁎, ou plûtost ce perfide⁎.  
 
-    LADICE. *Comme pasmée.*
+    LADICE. *Comme pasmée.*.
 Iliane !  
 
     LE GARDE.
@@ -2821,7 +2816,7 @@ En perdant Artaban je perds tout mon soûtien.
 Ha malheureuse femme ! ha deplorable mere !  
 Les Dieux sont irritez, cedons à leur colere.  
 
-    ULANIE. *La Reîne s'evanouit, et on l'emporte.*
+    ULANIE. *La Reîne s'evanouit, et on l'emporte.*.
 Madame…  
 
     ZARIMENE. 
@@ -2861,7 +2856,7 @@ Fuyons, chere Iliane.
 ARMETZAR, LADICE, ILIANE, LE GARDE.
 
 
-    ARMETZAR. *Il entre l'epée nue à la main, comme hors d'haleine, et sortant de la meslée.*
+    ARMETZAR. *Il entre l'epée nue à la main, comme hors d'haleine, et sortant de la meslée.*.
         Ouy, fuyons, ma Princesse,  
 Tamerlan suit mes pas, et le danger nous presse ;  
 Le Roy parmy les siens ne s'êtant pû treuver,  
@@ -2907,7 +2902,7 @@ A leurs premiers efforts d'abord se sont troublées,
 Et les Chinois enfin d'un long siege affeblis…  
 Mais Tamerlan s'avance, à ce coup je paslis.  
 
-    LADICE. *Ils prennent la fuitte au bruit des trompettes qui precedent l'arrivée de Tamerlan.*
+    LADICE. *Ils prennent la fuitte au bruit des trompettes qui precedent l'arrivée de Tamerlan.*.
 S'il est ainsi, cher Prince, evitez sa colere.  
 Sauvez moy, sauvez vous.  
 
@@ -3026,7 +3021,7 @@ Et que pour devenir maître de l'Univers [109]
 Les Estats de Zinton luy devoient être ouverts.  
 Justes Dieux, qu'à ce nom mon ame est combatue !  
 
-    TAMERLAN. *Bas.*
+    TAMERLAN. *Bas.*.
 Ouy de ce fier Zinton l'audace est abbatue,  
 Je tiens en mon pouvoir ce superbe⁎ ennemy,  
 Qui par nôtre combat n'est vaincu qu'à demy.  
@@ -3035,7 +3030,7 @@ Sa vûe augmentera mon plaisir et sa peine,
 Il faut que j'en triomphe une seconde fois.  
 Et que j'aye à mes piés le plus altier des Roys.  
 
-    VANLIE. *Bas.*
+    VANLIE. *Bas.*.
 De quel œil le verray-je ? ha Dieux !  
 
     TAMERLAN.
@@ -3062,7 +3057,7 @@ Aujourd'huy favorable, et demain importune
 A toute heure, en tous lieux diversement produit,  
 Et qu'on peut arriver où je le voy reduit.  
 
-    TAMERLAN. 
+    TAMERLAN.
 Tu ne sçais pas jouir du fruit de ta conquête ;  
 Il faut voir à nos piez cette superbe⁎ tête,  
 Je n'ay point epargné l'orgueilleux Bajazet [110],  
@@ -3080,8 +3075,7 @@ Qu'on le face venir avecques tous les siens.
     UN GARDE.
 Seigneur, on vous l'ameine.  
 
-    VANLIE. *Bas.*
- 
+    VANLIE. *Bas.*. 
         O mandement severe !  
 Pourray-je supporter la presence d'un pere !  
 
@@ -3405,7 +3399,7 @@ D'où naissoient entre nous des guerres eternelles ;
 Vien, montrons leur exemple, et qu'ils en soient jaloux ;  
 Embrassons nous, amy ; Peres, imitez nous.  
 
-    ZINTON. 
+    ZINTON.
 Tu te trompes, Vanlie, en prenant ma tristesse⁎  
 Pour le honteux effet d'une lasche tendresse.  
 Moy, je pardonnerois à qui m'a sçû trahir !  
@@ -3421,7 +3415,7 @@ La couronne est toûjours sur vôtre front Auguste⁎,
 Je vous l'ay conservée aidant à vous l'ôter,  
 Et le thrône est à vous, daignez y remonter.  
 
-    ZINTON. 
+    ZINTON.
 Je ne veux point un thrône offert par un perfide⁎.  
 
     TAMERLAN.
@@ -3455,7 +3449,7 @@ Il en a ma parole, et peut en voir l'effet.
 Quel bonheur impreveu ! Dieux, que viens-je d'entendre ?  
 Ha mon pere ! ha grand Roy ! que pourray-je vous rendre !  
 
-    TAMERLAN. 
+    TAMERLAN.
 Vanlie, enfin le Ciel exauce tes souhaits,  
 Et je te donne ensemble et ma fille et la paix.  
 
@@ -3468,7 +3462,7 @@ Ouy, par de tels bienfaits je veux vous enchaîner,
 Et Tamerlan enfin sçait vaincre et pardonner.  
 
 
-# Glossaire
+# Glossaire.
 
 Les termes signalés par une astérisque dans la pièce sont brièvement définis dans ce glossaire : seuls les termes dont le sens a évolué ou dont une acception n'est plus employée de nos jours ont été retenus. Les définitions sont extraites des ouvrages suivants :*Académie française*Dictionnaire de l'Académie française
 *Dubois**Lagane**Lerond*Dictionnaire du français du XVII*e* siècle
@@ -3477,17 +3471,17 @@ Les termes signalés par une astérisque dans la pièce sont brièvement défini
 Affection« Passion de l'ame qui nous fait vouloir du bien à quelcun, et qui se dit de l'amour, de la tendresse, de l'amitié » (*F*.).Dédicace ; v. 375, 672, 978, 1442AmantCelui qui aime et est aimé en retour.V. 425, 550, 872, 1105, 1430, 1613Amante (v. 1036).AmoureuxCelui qui aime et n'est pas aimé en retour.V. 84, 2040Ardeur« Passion, vivacité, emportement, fougue » (*F*.).V. 101, 119, 387, 484, 606, 954, 981, 1268, 1523, 1605, 1671, 1957Attraits« Se dit poëtiquement de la beauté, et des charmes ; il est toujours au pluriel » (*F*.).V. 872Auguste« Majestueux, venerable, sacré » (*F*.).V. 722, 2062Cham« Titre qu'on donne aux Princes souverains de la Tartarie » (*F*.).Argument ; v. 51, 512, 804, 831, 883, 1403Change« Se dit aussi en Morale, et signifie, Changement » (*F*.).V. 820Cœur« Vigueur, force, courage, intrépidité » (*F*.).V. 43, 232, 899, 1206Decevoir« Tromper adroitement » (*F*.).V. 1664Demon« Mechant homme qui ne s'attache qu'à nuire aux autres … les Anciens ont appelé ainsi certains Esprits ou Genies qui apparoissent aux hommes, tantôt pour leur servir, tantôt pour leur nuire » (*F*.).V. 59, 469, 1911, 1913, 1914Diademe« Se prend en general pour la dignité Royale, ou la souveraineté » (*F*.).V. 602Diligence« Activité, promptitude à executer nôtre devoir, ou nos desseins » (*F*.).V. 1280, 1570Éclat« Se dit figurément en choses morales, et signifie Pompe, splendeur, bruit, fracas » (*F*.)Dédicace ; v. 301, 543, 572, 602, 614, 698, 724, 873, 879, 1212, 1224, 1639, 1749, 1888Éclater« Briller, avoir beaucoup de lustre, de splendeur, ou d'éclat ; tant au propre, qu'au figuré » (*F*.).V. 505, 971Effroy« Terreur soudaine qui donne une grande émotion ou surprise à la vue, ou au récit de quelque objet qui est à craindre » (*F*.).V. 479, 1619Ennuy« Chagrin, déplaisir, souci » (*F*.).V. 456, 750, 1508ÉtonnéSurpris, épouvantéV. 959Étonnement« Accident imprevû qui cause de la surprise, de la terreur » (*F*.)Argument ; v. 1336Étonner« Frapper d'une émotion violente » (*D*.).V. 265, 830Étrange« Extraordinaire, anormal, scandaleux » (*D*.).Argument ; v. 462, 817, 833, 1464Fantôme« Une vaine image, une représentation, un personnage supposé » (*F*.).V. 1813Fer(s)Métonymie pour désigner les armesV. 136, 1061, 1617, 1658Désigne, au pluriel, les chaînes, carcans et menottes qui servent à retenir les prisonniers et les esclaves. En ce sens, il signifie figurément l'esclavage, la servitude.V. 86Fier« Cruel, implacable » (*F*.)V. 11, 613, 1113, 1196, 1207Fierement« D'une maniere fiere » (*F*.).V. 960Flame« Se dit communément de l'amour profane » (*F*.)V. 38, 72, 118, 136, 162, 362, 382, 437, 900, 952, 973, 1075, 1216, 1452, 1617, 1956« Amour, passion » (*R*.) ; métaphore issue de la tradition pétrarquiste, constante au XVII*e* siècle pour désigner l'amour. Métaphore tellement courante qu'elle se lexicalise et son emploi s'élargit : ainsi le substantif « feu »V. 351, 384, 386, 396, 522, 536, 576, 1006, 1061, 1210, 1522Fureur« Emportement violent causé par un déréglement d'esprit et de la raison » (*F*.). V. 477, 931, 1057, 1332, 1405, 1540, 1831, 2006Généreux« Qui a l'âme grande et noble et qui préfère l'honneur à tout autre intérêt » (*F*.).Dédicace ; v. 638, 729, 732, 1076, 1560, 1783, 2039, 2071Gesne« Torture, se dit aussi de toute peine ou affliction de corps ou d'esprit ». (*F*.)V. 358, 485Gloire« honneur, estime, réputation qui procède du mérite d'une personne » (A. 94), « se dit par emprunt, et par participation, de l'honneur mondain, de la loüange, ou de l'approbation qu'on donne au merite, au sçavoir, et à la vertu des hommes » (*F*.)Dédicace ; v. 22, 82, 94, 121, 138, 230, 244, 263, 325, 376, 494, 505, 586, 621, 632, 667, 713, 769, 801, 841, 996, 1304, 1347, 1388, 1564, 1668, 1693, 1766, 1790, 1885, 1894, 1913, 1918, 1937, 1973, 2000, 2025, 2069Glorieux« Celui qui a acquis de la gloire par son merite, par son sçavoir, par sa vertu » (*F*.).V. 231, 411, 1205, 1744, 1788Gros« Un amas de trouppes qui marchent ensemble » (*F*.).ArgumentHasarder« Risquer, mettre au hazard, exposer à la fortune » (*F*.).V. 74, 902, 1004, 1307, 1554Honneur« Temoignage d'estime, ou de soûmission qu'on rend à quelcun par ses paroles, ou par ses actions ; gloire, marque extérieure, par laquelle on fait connoître la veneration, et le respect qu'on a pour la dignité, ou le merite de quelcun » (*F*.).V. 203, 220, 326, 393, 447, 519, 693, 1113, 1128, 1272, 1379, 1554, 1716, 1750Ingrat« Personne qui ne sait pas reconnaître ce qu'on fait pour lui, dans l'ordre politique, social ou sentimental » (*S*.)V. 217, 405, 1196, 1260, 1447, 1467, 1638, 1822Ingratitude« Meconnaissance des bienfaits reçus » (*F*.).V. 753, 1929Interdit« Troublé, décontenancé » (*D*.).V. 266Magnanime« Qui a une grandeur d'ame et de courage, qui l'eleve qu dessus du commun des hommes » (F.)V. 991, 1077, 1419, 1513, 1757Magnanimité« Grandeur, élevation d'ame et de courage » (*F*.).V. 1923ObjetLe mot appartient au registre de la galanterie. « Se dit poétiquement des belles personnes qui donnent de l'amour » (*F*.)V. 30, 122, 355, 389, 411, 840, 1062, 2020 : objet aiméCe qui est placé devant les yeux, ce qui frappe la vue.V. 559, 684, 926, 1003, 1162, 1791, 1809, 1991Outrage« Injustice, excès de violence. Offense, atteinte à l'honneur. » (*D*.)V. 29, 165, 262, 1155Outrager« Dire des injures à quelcun ; le maltraitter, l'offenser en sa personner, ou en son honneur » (*F*.).V. 1172, 1227Perfide« Qui manque de foi ; qui trahit, qui manque à sa parole, ou à la confiance qu'on a prise en lui » (*F*.).V. 219, 648, 1537, 1613, 1839, 1880, 1917, 1918, 2016, 2065Retraite« Lieu de refuge où l'on se met en sûreté » (*F*.).V. 1088Sang« Se dit aussi de la parenté, de l'extraction ; de la race ; de la communication du sang par la naissance » (*F*.).V. 178, 339, 505, 596, 766, 766, 880, 985, 1528, 1658Service« Ce qu'on fait d'utile, ou de glorieux pour le Roi, pour l'Etat, pour le public, tant en guerre qu'en paix » (*F*.).Dédicace, argument, v. 79, 145, 206, 445, 585, 661, 669, 745, 758, 770, 824, 1447, 1469, 1998Soucy« Chagrin ; inquietude d'esprit ; soin fâcheux ; sollicitude, ennui » (*F*.).V. 292, 399, 564Souffrir« Se dit aussi des choses qui peinent, qui incommodent, qui fatiguent » (*F*.).V. 451, 606Superbe« Vain, fier, orgueilleux ; qui a de la présomption, et une trop bonne opinion de lui-même » (F.)V. 578, 658, 1775, 1798Superbement« D'une manière superbe ou magnifique » (*F*.).V. 1037Traits« Se dit de ce qu'on pousse, de ce qu'on chasse au loin par quelque arme ou machine » (*F*.)V. 288, 310, 1390, 1783« Se dit figurément, et poëtiquement des regards, et des charmes qui touchent les cœurs, et qui inspirent de l'amour » (*F*.).V. 111, 427, 498, 629, 1414, 1428, 2048Transport« Trouble ou agitation de l'âme par la violence des passions » (*F*.).V. 363, 1054, 1293, 1861, 2045Travail« Occupation, application à quelque exercice penible, fatiguant, ou qui demande de la dexterité » (*F*.).V. 752, 1082, 1888Triste« Affligé par quelque perte ou accident qui luy est arrivé ou qui est d'un tempérament sombre et mélancolique » (*F*.)V. 465, 961, 1791Tristesse« Douleur ; abattement : passion de l'ame qui resserre le cœur, et qui est causée par quelque perte, par quelque accident, par quelque souffrance » (*F*.).V. 2053Trouble« se dit figurément en Morale, des alterations, des émotions, des inquiétudes, des embarras, des désordres de l'ame causés par les passions » (*F*.)V. 182, 253, 865Troubler« Inquiéter, agiter, mouvoir » (*F*.).V. 228, 459, 1200, 1349, 1596, 1813ValeurDésigne à la fois les qualités générales d'une personne et plus particulièrement sa grandeur de courage, son ardeur belliqueuse.V. 7, 115, 131, 288, 319, 712, 773, 1018, 1282, 1584, 1735, 1737, 1785, 1932VertuDésigne ici le courageV. 283, 342, 640Plus généralement les qualités moralesV. 490, 571, 589Vertueux« Se dit figurément de ceux qui ont de bonnes qualitez ; des vertus, soit intellectuelles, soit morales ; qui sont prudes, continens, justes, etc. » (*F*.)V. 444
 
 
-# Bibliographie
+# Bibliographie.
 
 
-## Sources
+## Sources.
 
 
-### Édition de la pièceArmetzar ou les amis ennemis
+### Édition de la pièce.Armetzar ou les amis ennemis
 
 
 
-### Autres œuvres de l'auteurLadice ou les Victoires du Grand Tamerlan
+### Autres œuvres de l'auteur.Ladice ou les Victoires du Grand Tamerlan
 Lyon dans son Lustre
 Le Cercle des Femmes
 Damon et Pythias
@@ -3506,11 +3500,11 @@ Les Six Voyages de Tavernier
 
 
 
-### œuvres de l'antiquité*Aristote*Poétique
+### œuvres de l'antiquité.*Aristote*Poétique
 
 
 
-### Ouvrages des XIV*e*-XVIII*e* siècles*Chalcondyle*Histoire de la décadence de l'Empire Grec et establissement de celuy des Turcs
+### Ouvrages des XIV*e*-XVIII*e* siècles.*Chalcondyle*Histoire de la décadence de l'Empire Grec et establissement de celuy des Turcs
 *Corneille*Oeuvres complètes
 *Marco Polo*La Description du monde
 *Marlowe*TamerlanTamburlaine the Great
@@ -3523,13 +3517,13 @@ Les Six Voyages de Tavernier
 
 
 
-## Instruments de travail
+## Instruments de travail.
 
 
-### Ouvrages sur la langue et la rhétorique dramatiques
+### Ouvrages sur la langue et la rhétorique dramatiques.
 
 
-#### Dictionnaires et ouvrages du XVII*e* siècle*Académie française*Dictionnaire de l'Académie Française
+#### Dictionnaires et ouvrages du XVII*e* siècle.*Académie française*Dictionnaire de l'Académie Française
 *Furetière*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 *Moreri*Le Grand dictionnaire historique ou mythologique...
 *Richelet*Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise... avec les termes les plus connus des arts et des sciences
@@ -3537,13 +3531,13 @@ Les Six Voyages de Tavernier
 
 
 
-#### Dictionnaires modernes*Corvin*Dictionnaire encyclopédique du théâtre
+#### Dictionnaires modernes.*Corvin*Dictionnaire encyclopédique du théâtre
 *Dandrey*Dictionnaire des lettres françaises, le XVII*e*siècle
 *Dubois**Lagane**Lerond*Dictionnaire du français du XVII*e*siècle
 
 
 
-#### Ouvrages modernes*Cayrou*Le Français classique. Lexique de la langue du XVII*e* siècle
+#### Ouvrages modernes.*Cayrou*Le Français classique. Lexique de la langue du XVII*e* siècle
 *Forestier*Introduction à l'analyse des textes classiques
 *Fournier*Grammaire du français classique
 *Haase*Syntaxe française du XVII*e*siècle
@@ -3555,12 +3549,12 @@ Les Six Voyages de Tavernier
 
 
 
-### Ouvrages bibliographiques*Cioranescu*Bibliographie de la littérature française du 17*e* siècle
+### Ouvrages bibliographiques.*Cioranescu*Bibliographie de la littérature française du 17*e* siècle
 *Klapp*Bibliographie der Französischen Literaturwissenschaft
 
 
 
-### Recensions*Brunet*Table des pièces de théâtre décrites dans le catalogue de la Bibliothèque de M. de Soleinne, publiée par Henri de Rothschild
+### Recensions.*Brunet*Table des pièces de théâtre décrites dans le catalogue de la Bibliothèque de M. de Soleinne, publiée par Henri de Rothschild
 Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1671 par forme de dictionnaire
 *Lancaster*History of French Dramatic Literature in the Seventeenth Century
 *Léris*Dictionnaire portatif des Théâtres
@@ -3570,10 +3564,10 @@ Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1
 
 
 
-## Études
+## Études.
 
 
-### Études sur la littérature, l'histoire et l'esthétique du XVII*e* siècle*Adam*Histoire de la littérature française du XVII*e*siècle
+### Études sur la littérature, l'histoire et l'esthétique du XVII*e* siècle.*Adam*Histoire de la littérature française du XVII*e*siècle
 *Bénichou*Morales du grand siècle*re*
 *Bray*La Formation de la doctrine classique en France*re*
 *Cioranescu*Le Masque et le Visage. Du baroque espagnol au classicisme français
@@ -3589,10 +3583,10 @@ Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1
 
 
 
-### Études sur le théâtre du XVII*e* siècle
+### Études sur le théâtre du XVII*e* siècle.
 
 
-#### Ouvrages*Deierkauf-Holsboer*Le Théâtre de l'Hôtel de Bourgogne 1548-1680
+#### Ouvrages.*Deierkauf-Holsboer*Le Théâtre de l'Hôtel de Bourgogne 1548-1680
 *Deierkauf-Holsboer*Le Théâtre de l'Hôtel du Marais
 *Dotoli*Temps de préfaces : le débat théâtral en France de Hardy à la querelle du Cid
 *Forestier*Esthétique de l'identité dans le théâtre français (1580-1680), Le déguisement et ses avatars
@@ -3604,12 +3598,12 @@ Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1
 
 
 
-#### Articles*Forestier*Cahiers de Littérature du XVIIe siècle
+#### Articles.*Forestier*Cahiers de Littérature du XVIIe siècle
 *Forestier*Littératures classiquesEsthétique de la comédie
 
 
 
-### Études sur le genre tragi-comique*Baby*La Tragi-comédie de Corneille à Quinault
+### Études sur le genre tragi-comique.*Baby*La Tragi-comédie de Corneille à Quinault
 *Charpentier*L'Automne de la Renaissance (1580-1660)
 *Fischler*L'Information littéraire
 *Guichemerre*La Tragi-comédie
@@ -3620,7 +3614,7 @@ Esprit des tragédies et des tragi-comédies qui ont paru depuis 1630 jusqu'en 1
 
 
 
-### Études sur l'auteurLe Cercle des femmes, L'Académie des femmes
+### Études sur l'auteur.Le Cercle des femmes, L'Académie des femmes
 *Fournel*Les Contemporains de Molière
 *Meinel*Samuel Chappuzeau, 1625-1701
 

@@ -16,7 +16,7 @@ Représentée, pour la premiere fois, le 18 septembre 1716 [1].
 Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)
 
 
-# Notice sur Le Grand
+# Notice sur Le Grand.
 
 MARC-ANTOINE LE GRAND naquit à Paris en 1675. Fils unique du chirurgien-major des Invalides, il reçut une éducation soignée : on vouloit faire de lui un médecin, mais les goûts qu'il manifesta dans sa première jeunesse montrèrent qu'il n'étoit pas appelé à un état aussi grave. Il fréquentoit assidûment le théâtre, recherchoit les comédiens, et ne négligeoit rien pour être admis à leur société et à leurs plaisirs. Des dispositions si décisives ne purent être combattues avec succès par les parens du jeune-homme ; les attraits d'une vie licencieuse lui cachoient les désagrémens de l'état qu'il vouloit embrasser, et le rendoient sourd aux sages remontrances qu'on lui faisoit. Il paroît que le père de Le Grand, irrité de n'avoir pu réussir avec des moyens doux, en voulut employer de plus sévères, il fut question de faire enfermer le jeune étourdi : averti à temps, il prit la fuite; et n'ayant d'autres ressources pour vivre que ses talens pour le théâtre, il se fit comédien ambulant. Après avoir erré long-temps dans les pays étrangers, il s'arrêta à Varsovie, où l'ambassadeur de France remarqua en lui des dispositions à devenir un bon comédien.
 
@@ -29,7 +29,7 @@ Nous ne parlerons ni des Maris dupés, ni de l'Amour diable, ni de la Métamorph
 Les deux pièces de Le Grand que nous insérons dans ce recueil ont le mérite d'être conduites avec art, et pétillent de gaieté : l'Aveugle clairvoyant sur-tout est une des plus jolies comédies en un acte qui existent au théâtre. Le Grand, dont la santé étoit affoiblie par les excès et les voyages, mourut à cinquante-six ans, le 7 janvier 1728.
 
 
-# L'AVEUGLE CLAIRVOYANT, COMÉDIE
+# L'AVEUGLE CLAIRVOYANT, COMÉDIE.
 
 
 ## ACTEURS.
@@ -133,7 +133,7 @@ Quoi qu'il en soit, je veux vous servir de mon mieux ;
 Cependant je devrois être bien en colère,  
 Puisque jusques ici vous m'avez fait mystère...  
 
-    MARIN, *derriere le théâtre.*
+    MARIN, *derriere le théâtre.*.
 Hoé, hoé, hoé !  
 
     LISETTE.
@@ -168,11 +168,11 @@ Ne vous alarmez point, vous l'allez voir paroître ;
 Et je l'ai devancé de cent pas seulement,  
 Pour voir si tout est prêt dans son appartement.  
 
-    LISETTE, *à Léonor.*
+    LISETTE, *à Léonor.*.
 Cela va bien pour nous : commençons par avance  
 A faire entrer Marin dans notre confidence.  
 
-    LÉONOR, *bas, à Lisette.*
+    LÉONOR, *bas, à Lisette.*.
 Que vas-tu faire ?  
 
     LISETTE.
@@ -252,7 +252,7 @@ LÉONOR, LISETTE, MARIN.
     MARIN.
 Eh bien ! ces vingt louis sont-ils prêts ?  
 
-    LEONOR, *lui donnant une bourse.*
+    LEONOR, *lui donnant une bourse.*.
         Les voici.  
 
     MARIN.
@@ -554,7 +554,7 @@ Rentrez ; et vous, monsieur, adieu, jusqu'au revoir.
     LEMPESÉ.
 Ne pouvant être vu, je puis rester, Lisette.  
 
-    LISETTE, *le repoussant.*
+    LISETTE, *le repoussant.*.
 Vous vous moquez de moi.  
 
     LEMPESÉ.
@@ -575,7 +575,7 @@ J'enrage !
 DAMON, LEMPESÉ, LISETTE.
 
 
-    DAMON, *contrefaisant l'aveugle.*
+    DAMON, *contrefaisant l'aveugle.*.
         Holà ! Quelqu'un, Marin... tout m'abandonne,  
 Et dans cette maison je ne trouve personne.  
 
@@ -602,7 +602,7 @@ Où Léonor est-elle ?
         En son appartement.  
 Et je vais l'avertir dans ce même moment...  
 
-    DAMON, *allant embrasser Lempesé.*
+    DAMON, *allant embrasser Lempesé.*.
 Du moins auparavant il faut que je t'embrasse…  
 Qu'est-ce ci ? c'est un homme. Eh quoi ! dans ma disgrace  
 Léonor pourroit-elle, en bravant mon courroux,  
@@ -628,18 +628,18 @@ Hé ! l'ami, tire-moi mes bottines fourrées.
     LISETTE.
 Allons, dépêchez-vous.  
 
-    LEMPESÉ, *bas, à Lisette.*
+    LEMPESÉ, *bas, à Lisette.*.
         Qui ? moi, le débotter ?  
 Non parbleu ! je m'en vais.  
 
-    LISETTE, *bas, à Lempesé, le retenant.*
+    LISETTE, *bas, à Lempesé, le retenant.*.
         Ce seroit tout gâter.  
 Que pourroit-il penser ?  
 
-    LEMPESÉ, *bas, à Lisette.*
+    LEMPESÉ, *bas, à Lisette.*.
         Oui, mais par où m'y prendre ?  
 
-    LISETTE, *bas, à Lempesé.*
+    LISETTE, *bas, à Lempesé.*.
 Vous méritez cela, pourquoi vouloir attendre...  
 
     DAMON.
@@ -656,27 +656,27 @@ Se dépêchera-t-on, à la fin...
         Carmagnole,  
 Debottez donc monsieur.  
 
-    LEMPESÉ, *bas, à Lisette.*
+    LEMPESÉ, *bas, à Lisette.*.
         Je ne pourrai jamais.  
 
-    LISETTE, *lui ôtant son manteau.*
+    LISETTE, *lui ôtant son manteau.*.
 Otez votre casaque.  
 
-    DAMON, *pendant que Lempesé le débotte.*
+    DAMON, *pendant que Lempesé le débotte.*.
         Ah ! le maudit laquais.  
 On voit bien que jamais il ne fut à la guerre.  
 Tire à toi, fort ! plus fort ! Il est, je crois, par terre.  
 
-    LEMPESÉ, *se relevant.*
+    LEMPESÉ, *se relevant.*.
 Je n'y puis résister, Lisette, absolument.  
 
-    DAMON, *présentant son autre jambe.*
+    DAMON, *présentant son autre jambe.*.
 Allons, à l'autre.  
 
-    LEMPESÉ, *bas, à Lisette.*
+    LEMPESÉ, *bas, à Lisette.*.
     Encore une autre ?  
 
-    LISETTE, *bas, à Lempesé.*
+    LISETTE, *bas, à Lempesé.*.
         Apparemment.  
 II faut bien achever. Mais son valet s'avance ;  
 Ne craignez rien, il est de notre intelligence.  
@@ -700,7 +700,7 @@ DAMON, LEMPESÉ, LISETTE, MARIN, chargé d'une grosse malle.
 
 C'est, monsieur... Apprends-moi ce qui se passe ici ?  
 
-    LISETTE, *bas, à Marin.*
+    LISETTE, *bas, à Marin.*.
 Ne fais semblant de rien.  
 
     DAMON.
@@ -722,7 +722,7 @@ Par ma foi, quand j'aurois la force d'un mulet...
     DAMON.
 Chargez-la sur le dos de ce maudit valet.  
 
-    LEMPESÉ, *à part.*
+    LEMPESÉ, *à part.*.
 Encore !  
 
     MARIN.
@@ -734,10 +734,10 @@ Un benêt qui depuis une heure me désole,
 Dans mon appartement qu'il aille la porter :  
 Acheve cependant, toi, de me débotter.  
 
-    MARIN, *mettant rudement la malle sur le dos de Lempesé.*
+    MARIN, *mettant rudement la malle sur le dos de Lempesé.*.
 Tenez donc, Carmagnole.  
 
-    LEMPESÉ, *la laissant cheoir.*
+    LEMPESÉ, *la laissant cheoir.*.
         Oh ! le diable t'emporte !  
 Je ne saurois porter un fardeau de la sorte ;  
 Je crois que tu me prends pour un cheval de bâts.  
@@ -827,14 +827,14 @@ Léonor ne vient point ?
     MARIN.
         Eh ! monsieur, la voici.  
 
-    DAMON, *allant vers la porte.*
+    DAMON, *allant vers la porte.*.
 Ah ! madame.  
 
-    MARIN, *l'arrêtant.*
+    MARIN, *l'arrêtant.*.
         Attendez, ce n'est pas par ici.  
 Où diable allez-vous donc parler à cette porte ?  
 
-    LA TANTE, *contrefaisant la voix de Léonor.*
+    LA TANTE, *contrefaisant la voix de Léonor.*.
 Ah ! Damon, quel chagrin de vous voir de la sorte !  
 
     DAMON.
@@ -902,11 +902,11 @@ Pour vous, signez toujours, et faites diligence.
     LA TANTE.
 J'y vais, et dans l'instant je serai de retour.  
 
-    MARIN, *bas, à la Tante.*
+    MARIN, *bas, à la Tante.*.
 Prenez quelque notaire éloigné du carfour,  
 Et qui ne puisse ici reconnoître personne.  
 
-    LA TANTE, *bas, à Marin.*
+    LA TANTE, *bas, à Marin.*.
 C'est fort bien avisé, la prévoyance est bonne.  
 Lorsque j'aurai signé, j'enverrai le contrat,  
 Et ne paroîtrai point de peur de quelque éclat ;  
@@ -1038,21 +1038,21 @@ Redites donc cent fois que mon amour vous touche ;
 Redoublez, Léonor, ces soupirs amoureux  
 Qui viennent de me mettre au comble de mes voeux.  
 
-    LÉONOR, *bas, à Marin.* 
+    LÉONOR, *bas, à Marin.*.
 Que lui disoit ma tante ?  
 
     MARIN.
         Ah ! j'aurois de la peine  
 A m'en ressouvenir.  
 
-    LÉONOR, *à part.*
+    LÉONOR, *à part.*.
         Juste ciel ! quelle gêne ?  
 Parlons, puisqu'il le faut. Oui, je n'aime que vous,  
 ( se tournant du côté de Léandre. )
 
 Je fais tout mon bonheur de vous voir mon époux.  
 
-    DAMON, *bas.*
+    DAMON, *bas.*.
 Quelle impudence ! mais ne faisons rien connoître.  
 ( haut. )
 
@@ -1066,39 +1066,39 @@ Croyez que je ne suis que mon amour extrême,
 
 Et que je vois ici le seul objet que j'aime.  
 
-    MARIN, *à Léonor.*
+    MARIN, *à Léonor.*.
 Que ne peut-il vous voir de même en ces instans !  
 Ah ! qu'il seroit content !  
 
     DAMON.
         Si je ne vois, j'entends.  
 
-    LÉONOR, *donnant la main à Léandre.*
+    LÉONOR, *donnant la main à Léandre.*.
 Oui, ma main suit mon cœur, et dans cette journée  
 Mes voeux seront remplis si les nœuds d'hyménée...  
 
-    DAMON, *prenant la main de Léandre.*
+    DAMON, *prenant la main de Léandre.*.
 Donnez-moi cette main qui va me rendre heureux ;  
 Que par mille baisers aussi doux qu'amoureux…  
 Quelle main est-ce là ? que faut-il que je pense ?  
 
-    MARIN, *s'approchant.*
+    MARIN, *s'approchant.*.
 C'est la mienne, monsieur.  
 
-    DAMON, *donnant un soufflet à Léandre.*
+    DAMON, *donnant un soufflet à Léandre.*.
         Tiens, de ton insolence,  
 Maraud, voilà le prix.  
 
-    LÉONOR, *bas, à Léandre.*
+    LÉONOR, *bas, à Léandre.*.
         Je suis au désespoir.  
 
     DAMON.
 Je t'apprendrai, faquin...  
 
-    MARIN, *pleurant comme s'il avait reçu le coup.*
+    MARIN, *pleurant comme s'il avait reçu le coup.*.
         Revenez-y pour voir.  
 
-    LÉANDRE, *bas, à Marin.*
+    LÉANDRE, *bas, à Marin.*.
 Te moques-tu de moi ?  
 
     LÉONOR.
@@ -1134,17 +1134,17 @@ Et le voici lui-même.
 DAMON, LEMPESÉ, MARIN.
 
 
-    LEMPESÉ, *bas, à Marin.*
+    LEMPESÉ, *bas, à Marin.*.
         Où Léonor est-elle ?  
 
-    MARIN, *tristement.*
+    MARIN, *tristement.*.
 Chez le notaire.  
 
-    LEMPESÉ, *bas, à Marin.*
+    LEMPESÉ, *bas, à Marin.*.
         O ciel ! quelle triste nouvelle !  
 Elle épouse Damon ?  
 
-    MARIN, *bas, à Lempesé.*
+    MARIN, *bas, à Lempesé.*.
         C'est à son grand regret.  
 
     LEMPESÉ.
@@ -1163,16 +1163,16 @@ Tu me trompes ; j'entends marcher quelqu'un ici.
     LEMPESÉ.
 Je tremble.  
 
-    DAMON, *gagnant la porte, et tâtonnant par-tout avec son bâton.* 
+    DAMON, *gagnant la porte, et tâtonnant par-tout avec son bâton.*.
         Je me veux éclaircir de ceci.  
 
-    MARIN, *bas, à Lempesé.*
+    MARIN, *bas, à Lempesé.*.
 Que lui dire ? Ma foi ! j'ai perdu la parole.  
 
-    LEMPESÉ, *bas, à Marin.*
+    LEMPESÉ, *bas, à Marin.*.
 Dis ce que tu voudras ; mais plus de Carmagnole.  
 
-    MARIN, *à Damon.*
+    MARIN, *à Damon.*.
 C'est monsieur Lempesé, très savant médecin,  
 Qui vient vous apporter un remède divin,  
 Que pour guérir les yeux il soutient admirable.  
@@ -1183,27 +1183,27 @@ Je ne sais pas, monsieur, par où j'ai mérité
 Que pour moi vous puissiez avoir tant de bonté :  
 Donnez-moi ce remède, il faut que je l'éprouve.  
 
-    MARIN, *bas, à Lempesé.*
+    MARIN, *bas, à Lempesé.*.
 Allons, cherchez, monsieur.  
 
-    LEMPESÉ, *bas, à Marin.*
+    LEMPESÉ, *bas, à Marin.*.
         Que veux-tu que je trouve ?  
 
-    MARIN, *bas, à Lempesé.*
+    MARIN, *bas, à Lempesé.*.
 N'avez-vous point sur vous quelque poudre, quelque eau  
 Pour le faire encor mieux donner dans le panneau ?  
 
-    LEMPESÉ, *bas, à Marin.*
+    LEMPESÉ, *bas, à Marin.*.
 J'ai de l'eau pour le teint, mais peste ! elle est trop forte ;  
 La composition en est faite de sorte...  
 
-    MARIN, *bas, à Lempesé.*
+    MARIN, *bas, à Lempesé.*.
 Bon, bon, donnez toujours pour sortir d'embarras.  
 
-    LEMPESÉ, *bas, à Marin.*
+    LEMPESÉ, *bas, à Marin.*.
 La voilà ; prenez soin qu'il ne s'en serve pas.  
 
-    MARIN, *regardant le flacon.*
+    MARIN, *regardant le flacon.*.
 Qu'importe ? La belle eau ! la vue est éclaircie  
 Seulement à la voir.  
 
@@ -1269,7 +1269,7 @@ Qui seroit-ce ? L'espoir de sortir d'embarras
 Flatte déjà mon cœur, et ma joie est extrême...  
 N'hésitez pas, monsieur, à le nommer.  
 
-    LEMPESÉ,
+    LEMPESÉ,.
         Moi-même,  
 Qui de vous obliger eus toujours grand désir.  
 
@@ -1278,7 +1278,7 @@ Quoi ! vous pourriez, monsieur, me faire ce plaisir ?
 Epouser Léonor ? Ah ! quelle complaisance !  
 Quels seront les effets de ma reconnoissance !  
 
-    MARIN, *à Damon.*
+    MARIN, *à Damon.*.
 Voilà ce qui s'appelle un véritable ami ;  
 Monsieur ne vous veut pas obliger à demi.  
 
@@ -1301,7 +1301,7 @@ Avecque votre nom on y mettra les vôtres.
 Il faut bien s'obliger ainsi les uns les autres.  
 Mais le notaire vient.  
 
-    DAMON, *à Lempesé.*
+    DAMON, *à Lempesé.*.
         Cachons-lui tout ceci.  
 (à Marin.)
 
@@ -1539,7 +1539,7 @@ A présent qu'il voit clair, il va vous rencontrer.
     MARIN.
 Dans son grand cabinet vous ferez mieux d'entrer.  
 
-    LÉANDRE, *entrant dans le cabinet.*
+    LÉANDRE, *entrant dans le cabinet.*.
 Juste ciel ! quel revers !  
 
 
@@ -1575,11 +1575,11 @@ Ah ! quel plaisir charmant ! déjà je meurs d'envie
 De revoir tous ces lieux, et sur-tout mes tableaux ;  
 Ce vont être pour moi des spectacles nouveaux.  
 
-    LÉONOR, *bas, à Lisette.*
+    LÉONOR, *bas, à Lisette.*.
 Dans son grand cabinet il va d'abord se rendre :  
 Que ferons-nous, Lisette ? il y va de Léandre.  
 
-    LISETTE, *empêchant Damon d'entrer dans le cabinet.*
+    LISETTE, *empêchant Damon d'entrer dans le cabinet.*.
 (bas, à Léonor.)
 
 Il faut parer le coup. Mais croyez-vous, monsieur,  
@@ -1602,7 +1602,7 @@ Souffrez qu'avec ma main...
     DAMON.
         Oui-da, je le veux bien.  
 
-    LISETTE, *lui couvrant l'œil droit avec sa main.*
+    LISETTE, *lui couvrant l'œil droit avec sa main.*.
 Parlez ; que voyez-vous ?  
 
     DAMON.
@@ -1614,13 +1614,13 @@ Rien du tout ?
     DAMON.
     Non vraiment.  
 
-    LÉONOR, *faisant sortir Léandre du cabinet.*
+    LÉONOR, *faisant sortir Léandre du cabinet.*.
         Sortez sans plus attendre.  
 
     LISETTE.
 Vous ne voyez donc rien ?  
 
-    DAMON, *montrant Léandre qui sort du cabinet.*
+    DAMON, *montrant Léandre qui sort du cabinet.*.
         Si fait, je vois Léandre  
 Qui sort dans ce moment de mon grand cabinet.  
 
@@ -1663,7 +1663,7 @@ Vous êtes plus savant que vous ne croyez l'être.
 Votre fortune est faite : il faut faire afficher ;  
 De tous les lieux du monde on viendra vous chercher.  
 
-    LEMPESÉ, *à Marin.*
+    LEMPESÉ, *à Marin.*.
 Je suis tout stupéfait et plus heureux que sage.  
 Qui l'auroit cru qu'une eau pour peler le visage  
 Guérît le mal des yeux ? Je vois que désormais  

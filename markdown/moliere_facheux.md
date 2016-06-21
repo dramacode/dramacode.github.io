@@ -22,7 +22,7 @@ AVEC PRIVILÈGE DU ROI
 
 
 
-# AU ROI
+# AU ROI.
 
 Sire,
 
@@ -37,7 +37,7 @@ J. B. P. MOLIÈRE.
 
 
 
-# AVERTISSEMENT
+# AVERTISSEMENT.
 
 Jamais entreprise au Théâtre ne fut si précipitée que celle-ci ; et c'est une chose, je crois, toute nouvelle, qu'une Comédie ait été conçue, faite, apprise, et représentée en quinze jours. Je ne dis pas cela pour me piquer de *l'impromptu* et en prétendre de la gloire ; mais seulement pour prévenir certaines gens, qui pourraient trouver à redire, que je n'aie pas mis ici toutes les espèces de Fâcheux, qui se trouvent. Je sais que le nombre en est grand, et à la Cour, et dans la Ville, et que sans Épisodes, j'eusse bien pu en composer une Comédie de cinq Actes bien fournis, et avoir encore de la matière de reste. Mais dans le peu de temps qui me fut donné, il m'était impossible de faire un grand dessein, et de rêver beaucoup sur le choix de mes Personnages, et sur la disposition de mon sujet. Je me réduisis donc à ne toucher qu'un petit nombre d'Importuns ; et je pris ceux qui s'offrirent d'abord à mon esprit, et que je crus les plus propres à réjouir les augustes personnes devant qui j'avais à paraître ; et, pour lier promptement toutes ces choses ensemble, je me servis du premier nœud que je pus trouver. Ce n'est pas mon dessein d'examiner maintenant si tout cela pouvait être mieux, et si tous ceux qui s'y sont divertis ont ri selon les règles : Le temps viendra de faire imprimer mes remarques sur les Pièces que j'aurai faites : et je ne désespère pas de faire voir un jour, en grand Auteur, que je puis citer Aristote et Horace. En attendant cet examen, qui peut‑être ne viendra point, je m'en remets assez aux décisions de la multitude ; et je tiens aussi difficile de combattre un Ouvrage que le public approuve, que d'en défendre un qu'il condamne.
 
@@ -48,7 +48,7 @@ Le dessein était de donner un Ballet aussi ; et comme il n'y avait qu'un petit
 D'abord que la toile fut levée, un des Acteurs, comme vous pourriez dire moi, parut sur le Théâtre en habit de Ville et s'adressant au Roi avec le visage d'un homme surpris, fit des excuses en désordre sur ce qu'il se trouvait là seul, et manquait de temps, et d'Acteurs pour donner à Sa Majesté le divertissement qu'elle semblait attendre. En même temps, au milieu de vingt jets d'eau naturels, s'ouvrit cette coquille, que tout le monde a vue ; et l'agréable Naïade qui parut dedans s'avança au bord du Théâtre, et d'un air héroïque prononça les Vers, que Monsieur Pellisson avait faits, et qui servent de Prologue.
 
 
-# PROLOGUE
+# PROLOGUE.
 Pour voir en ces beaux lieux le plus grand Roi du Monde,  
 Mortels je viens à vous de ma grotte profonde.  
 Faut-il en sa faveur, que la Terre ou que l'Eau  
@@ -93,7 +93,7 @@ La Naïade emmène avec elle, pour la Comédie, une partie des gens qu'elle a fa
 
 
 
-# Personnages
+# Personnages.
  – Éraste.
  – La Montagne.
  – Alcidor.
@@ -114,17 +114,17 @@ La Scène est à Paris.
 
 
 
-# LES FÂCHEUX, *COMÉDIE*
+# LES FÂCHEUX, *COMÉDIE*.
 
 
-## Acte Premier
+## Acte Premier.
 
 
-### Scène PREMIÈRE
+### Scène PREMIÈRE.
 Éraste, La Montagne.
 
 
-    ÉRASTE
+    ÉRASTE.
 Sous quel astre, bon Dieu, faut-il que je sois né,  
 Pour être de Fâcheux toujours assassiné !  
 Il semble que partout le sort me les adresse,  
@@ -232,13 +232,13 @@ Non sans avoir longtemps gémi d'un tel martyre,
 Et maudit ce Fâcheux, dont le zèle obstiné  
 M'ôtait au rendez-vous qui m'est ici donné.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Ce sont chagrins mêlés aux plaisirs de la vie.  
 Tout ne va pas, Monsieur, au gré de notre envie.  
 Le Ciel veut qu'ici-bas chacun ait ses Fâcheux ;  
 Et les hommes seraient, sans cela, trop heureux.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais de tous mes Fâcheux, le plus fâcheux encore,  
 C'est Damis, le tuteur de celle que j'adore ;  
 Qui rompt ce qu'à mes vœux elle donne d'espoir,  
@@ -246,123 +246,123 @@ Et fait qu'en sa présence elle n'ose me voir.
 Je crains d'avoir déjà passé l'heure promise,  
 Et c'est dans cette allée, où devait être Orphise.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 L'heure d'un rendez-vous d'ordinaire s'étend ;  
 Et n'est pas resserrée aux bornes d'un instant.  
 
-    ÉRASTE
+    ÉRASTE.
 Il est vrai ; mais je tremble, et mon amour extrême  
 D'un rien se fait un crime envers celle que j'aime.  
 
-    LA MONTÀGNE
+    LA MONTÀGNE.
 Si ce parfait amour, que vous prouvez si bien,  
 Se fait vers votre objet un grand crime de rien,  
 Ce que son cœur, pour vous, sent de feux légitimes,  
 En revanche, lui fait un rien de tous vos crimes.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais, tout de bon, crois‑tu que je sois d'elle aimé ?  
 
-    LA MONTAGNE
-Quoi ? vous doutez encor d'un amour confirmé...  
+    LA MONTAGNE.
+Quoi ? vous doutez encor d'un amour confirmé…  
 
-    ÉRASTE
+    ÉRASTE.
 Ah c'est malaisément qu'en pareille matière,  
 Un cœur bien enflammé prend assurance entière.  
 Il craint de se flatter, et dans ses divers soins,  
 Ce que plus il souhaite, est ce qu'il croit le moins.  
 Mais songeons à trouver une beauté si rare.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Monsieur, votre rabat par devant se sépare.  
 
-    ÉRASTE
+    ÉRASTE.
 N'importe.  
 
-    LA MONTAGNE
-Laissez‑moi l'ajuster, s'il vous plaît.  
+    LA MONTAGNE.
+        Laissez‑moi l'ajuster, s'il vous plaît.  
 
-    ÉRASTE
+    ÉRASTE.
 Ouf, tu m'étrangles, fat, laisse-le, comme il est.  
 
-    LA MONTAGNE
-Souffrez qu'on peigne un peu...  
+    LA MONTAGNE.
+Souffrez qu'on peigne un peu…  
 
-    ÉRASTE
+    ÉRASTE.
         Sottise sans pareille !  
 Tu m'as, d'un coup de dent, presque emporté l'oreille.  
 
-    LA MONTAGNE
-Vos canons...  
+    LA MONTAGNE.
+Vos canons…  
 
-    ÉRASTE
-Laisse-les ; tu prends trop de souci.  
+    ÉRASTE.
+        Laisse-les ; tu prends trop de souci.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Ils sont tout chiffonnés.  
 
-    ÉRASTE
-Je veux qu'ils soient ainsi.  
+    ÉRASTE.
+        Je veux qu'ils soient ainsi.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Accordez‑moi du moins, pour grâce singulière,  
 De frotter ce chapeau, qu'on voit plein de poussière.  
 
-    ÉRASTE
+    ÉRASTE.
 Frotte donc, puisqu'il faut que j'en passe par là.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Le voulez-vous porter fait comme le voilà ?  
 
-    ÉRASTE
+    ÉRASTE.
 Mon Dieu dépêche-toi.  
 
-    LA MONTAGNE
-Ce serait conscience.  
+    LA MONTAGNE.
+        Ce serait conscience.  
 
     ÉRASTE, *après avoir attendu*.
 C'est assez.  
 
-    LA MONTAGNE
-Donnez-vous un peu de patience.  
+    LA MONTAGNE.
+        Donnez-vous un peu de patience.  
 
-    ÉRASTE
+    ÉRASTE.
 Il me tue.  
 
-    LA MONTAGNE
-En quel lieu vous êtes‑vous fourré ?  
+    LA MONTAGNE.
+        En quel lieu vous êtes‑vous fourré ?  
 
-    ÉRASTE
+    ÉRASTE.
 T'es-tu de ce chapeau pour toujours emparé ?  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 C'est fait.  
 
-    ÉRASTE
-Donne-moi donc.  
+    ÉRASTE.
+    Donne-moi donc.  
 
     LA MONTAGNE, *laissant tomber le chapeau*.
-Hay !  
+    Hay !  
 
-    ÉRASTE
-Le voilà par terre :  
+    ÉRASTE.
+        Le voilà par terre :  
 Je suis fort avancé : que la fièvre te serre.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Permettez qu'en deux coups j'ôte…  
 
-    ÉRASTE
-Il ne me plaît pas.  
+    ÉRASTE.
+        Il ne me plaît pas.  
 Au diantre tout valet qui vous est sur les bras ;  
 Qui fatigue son Maître, et ne fait que déplaire  
 À force de vouloir trancher du nécessaire.  
 
 
-### Scène II
+### Scène II.
 Orphise, Alcidor, Éraste, La Montagne.
 
 
-    ÉRASTE
+    ÉRASTE.
 Mais vois-je pas Orphise ? oui c'est elle, qui vient.  
 Où va-t-elle si vite, et quel homme la tient ?  
 Il la salue comme elle passe, et elle en passant, détourne la tête.
@@ -371,43 +371,43 @@ Quoi me voir en ces lieux devant elle paraître,
 Et passer en feignant de ne me pas connaître ?  
 Que croire ? Qu'en dis‑tu ? Parle donc, si tu veux.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Monsieur, je ne dis rien de peur d'être fâcheux.  
 
-    ÉRASTE
+    ÉRASTE.
 Et c'est l'être en effet que de ne me rien dire  
 Dans les extrémités d'un si cruel martyre.  
 Fais donc quelque réponse à mon cœur abattu :  
 Que dois-je présumer ? parle, qu'en penses‑tu ?  
 Dis-moi ton sentiment.  
 
-    LA MONTAGNE
-Monsieur, je veux me taire,  
+    LA MONTAGNE.
+        Monsieur, je veux me taire,  
 Et ne désire point trancher du nécessaire.  
 
-    ÉRASTE
+    ÉRASTE.
 Peste l'impertinent ! Va-t-en suivre leurs pas ;  
 Vois ce qu'ils deviendront, et ne les quitte pas.  
 
     LA MONTAGNE, *revenant*.
 Il faut suivre de loin ?  
 
-    ÉRASTE
-Oui.  
+    ÉRASTE.
+    Oui.  
 
     LA MONTAGNE, *revenant*.
-Sans que l'on me voie,  
+        Sans que l'on me voie,  
 Ou faire aucun semblant qu'après eux on m'envoie.  
 
-    ÉRASTE
+    ÉRASTE.
 Non, tu feras bien mieux de leur donner avis,  
 Que par mon ordre exprès ils sont de toi suivis.  
 
     LA MONTAGNE, *revenant*.
 Vous trouverai-je ici ?  
 
-    ÉRASTE
-Que le Ciel te confonde,  
+    ÉRASTE.
+        Que le Ciel te confonde,  
 Homme, à mon sentiment, le plus fâcheux du monde.  
 La Montagne s'en va.
 
@@ -417,11 +417,11 @@ Je pensais y trouver toutes choses propices ;
 Et mes yeux pour mon cœur y trouvent des supplices.  
 
 
-### Scène III
+### Scène III.
 Lysandre, Éraste.
 
 
-    LYSANDRE
+    LYSANDRE.
 Sous ces arbres, de loin, mes yeux t'ont reconnu,  
 Cher Marquis, et d'abord je suis à toi venu.  
 Comme à de mes amis il faut que je te chante  
@@ -437,19 +437,19 @@ Il chante sa courante.
 
 N'est-elle pas belle ?  
 
-    ÉRASTE
-Ah !  
+    ÉRASTE.
+    Ah !  
 
-    LYSANDRE
-Cette fin est jolie.  
+    LYSANDRE.
+        Cette fin est jolie.  
 Il rechante la fin quatre ou cinq fois de suite.
 
 Comment la trouves-tu ?  
 
-    ÉRASTE
-Fort belle assurément.  
+    ÉRASTE.
+        Fort belle assurément.  
 
-    LYSANDRE
+    LYSANDRE.
 Les pas que j'en ai faits n'ont pas moins d'agrément,  
 Et surtout la figure a merveilleuse grâce.  
 Il chante, parle et danse tout ensemble, et fait faire à Éraste les figures de la femme.
@@ -463,84 +463,84 @@ Après avoir achevé.
 
 Que t'en semble Marquis ?  
 
-    ÉRASTE
-Tous ces pas-là sont fins.  
+    ÉRASTE.
+        Tous ces pas-là sont fins.  
 
-    LYSANDRE
+    LYSANDRE.
 Je me moque, pour moi, des maîtres Baladins.  
 
-    ÉRASTE
+    ÉRASTE.
 On le voit.  
 
-    LYSANDRE
-Les pas donc…  
+    LYSANDRE.
+    Les pas donc…  
 
-    ÉRASTE
-N'ont rien qui ne surprenne.  
+    ÉRASTE.
+        N'ont rien qui ne surprenne.  
 
-    LYSANDRE
+    LYSANDRE.
 Veux-tu, par amitié, que je te les apprenne ?  
 
-    ÉRASTE
+    ÉRASTE.
 Ma foi, pour le présent, j'ai certain embarras…  
 
-    LYSANDRE 
+    LYSANDRE.
 Eh bien donc, ce sera, lorsque tu le voudras.  
 Si j'avais dessus moi ces paroles nouvelles,  
 Nous les lirions ensemble, et verrions les plus belles.  
 
-    ÉRASTE
+    ÉRASTE.
 Une autre fois.  
 
-    LYSANDRE
-Adieu, Baptiste le très cher  
+    LYSANDRE.
+        Adieu, Baptiste le très cher  
 N'a point vu ma courante, et je le vais chercher.  
 Nous avons, pour les airs, de grandes sympathies,  
 Et je veux le prier d'y faire des parties.  
 Il s'en va chantant toujours.
 
 
-    ÉRASTE
+    ÉRASTE.
 Ciel ! faut-il que le rang, dont on veut tout couvrir,  
 De cent sots, tous les jours, nous oblige à souffrir ;  
 Et nous fasse abaisser jusques aux complaisances,  
 D'applaudir bien souvent à leurs impertinences ?  
 
 
-### Scène IV
+### Scène IV.
 La Montagne, Éraste.
 
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Monsieur, Orphise est seule, et vient de ce côté.  
 
-    ÉRASTE
+    ÉRASTE.
 Ah d'un trouble bien grand je me sens agité !  
 J'ai de l'amour encore pour la belle inhumaine,  
 Et ma raison voudrait, que j'eusse de la haine !  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Monsieur, votre raison ne sait ce qu'elle veut ;  
 Ni ce que sur un cœur une Maîtresse peut.  
 Bien que de s'emporter on ait de justes causes,  
 Une belle, d'un mot, rajuste bien des choses.  
 
-    ÉRASTE
+    ÉRASTE.
 Hélas, je te l'avoue, et déjà cet aspect,  
 À toute ma colère imprime le respect.  
 
 
-### Scène V
+### Scène V.
 Orphise, Éraste, La Montagne.
 
 
-    ORPHISE
+    ORPHISE.
 Votre front à mes yeux montre peu d'allégresse.  
 Serait-ce ma présence, Éraste, qui vous blesse ?  
 Qu'est-ce donc ? qu'avez-vous ? et sur quels déplaisirs,  
 Lorsque vous me voyez, poussez-vous des soupirs ?  
 
-    ÉRASTE
+    ÉRASTE.
 Hélas, pouvez-vous bien me demander, cruelle,  
 Ce qui fait de mon cœur la tristesse mortelle ?  
 Et d'un esprit méchant n'est-ce pas un effet,  
@@ -549,15 +549,15 @@ Celui dont l'entretien vous a fait, à ma vue,
 Passer…  
 
     ORPHISE, *riant*.
-C'est de cela, que votre âme est émue ?  
+        C'est de cela, que votre âme est émue ?  
 
-    ÉRASTE
+    ÉRASTE.
 Insultez inhumaine, encore à mon malheur.  
 Allez, il vous sied mal de railler ma douleur ;  
 Et d'abuser, ingrate, à maltraiter ma flamme,  
 Du faible, que pour vous, vous savez, qu'a mon âme.  
 
-    ORPHISE
+    ORPHISE.
 Certes il en faut rire, et confesser ici,  
 Que vous êtes bien fou, de vous troubler ainsi.  
 L'homme, dont vous parlez, loin qu'il puisse me plaire,  
@@ -571,16 +571,16 @@ Et, jusqu'à mon carrosse, il m'a prêté la main.
 Je m'en suis promptement défaite de la sorte,  
 Et j'ai pour vous trouver, rentré par l'autre porte.  
 
-    ÉRASTE
+    ÉRASTE.
 À vos discours, Orphise, ajouterai-je foi ?  
 Et votre cœur est-il tout sincère pour moi ?  
 
-    ORPHISE
+    ORPHISE.
 Je vous trouve fort bon de tenir ces paroles ;  
 Quand je me justifie à vos plaintes frivoles.  
 Je suis bien simple encore, et ma sotte bonté…  
 
-    ÉRASTE
+    ÉRASTE.
 Ah ne vous fâchez pas, trop sévère beauté.  
 Je veux croire en aveugle, étant sous votre empire,  
 Tout ce que vous aurez la bonté de me dire.  
@@ -591,17 +591,17 @@ Exposez à mes yeux le triomphe d'un autre,
 Oui je souffrirai tout de vos divins appas,  
 J'en mourrai, mais enfin je ne m'en plaindrai pas.  
 
-    ORPHISE
+    ORPHISE.
 Quand de tels sentiments régneront dans votre âme,  
 Je saurai de ma part…  
 
 
-### Scène VI
+### Scène VI.
 Alcandre, Orphise, Éraste, La Montagne.
 
 
-    ALCANDRE
-Marquis, un mot. Madame,  
+    ALCANDRE.
+        Marquis, un mot. Madame,  
 De grâce pardonnez, si je suis indiscret,  
 En osant, devant vous, lui parler en secret.  
 Avec peine, Marquis, je te fais la prière ;  
@@ -631,33 +631,33 @@ Et suis ton serviteur en toute autre matière,
 Adieu. Cinquante fois au Diable les Fâcheux,  
 Où donc s'est retiré cet objet de mes vœux ?  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Je ne sais.  
 
-    ÉRASTE
-Pour savoir où la belle est allée,  
+    ÉRASTE.
+        Pour savoir où la belle est allée,  
 Va-t-en chercher partout, j'attends dans cette allée.  < Fin du premier Acte. >
 
 
-## Ballet du Premier Acte
+## Ballet du Premier Acte.
 
 
-### Première Entrée
+### Première Entrée.
 Des Joueurs de Mail, en criant, gare, l'obligent à se retirer, et comme il veut revenir lorsqu'ils ont fait.
 
 
 
-### Deuxième Entrée
+### Deuxième Entrée.
 Des Curieux viennent qui tournent autour de lui pour le connaître, et font qu'il se retire encore pour un moment.
 
 
 
-## Acte II
+## Acte II.
 
 
-### Scène Première
+### Scène Première.
 
-    ÉRASTE
+    ÉRASTE.
 Mes Fâcheux à la fin se sont-ils écartés ?  
 Je pense qu'il en pleut ici de tous côtés.  
 Je les fuis, et les trouve, et pour second martyre,  
@@ -670,17 +670,17 @@ Le Soleil baisse fort, et je suis étonné,
 Que mon Valet encor ne soit point retourné.  
 
 
-### Scène II
+### Scène II.
 Alcipe, Éraste.
 
 
-    ALCIPE
+    ALCIPE.
 Bonjour.  
 
-    ÉRASTE
-Eh quoi toujours ma flamme divertie !  
+    ÉRASTE.
+        Eh quoi toujours ma flamme divertie !  
 
-    ALCIPE
+    ALCIPE.
 Console-moi, Marquis, d'une étrange partie,  
 Qu'au Piquet je perdis, hier, contre un Saint-Bouvain,  
 À qui je donnerais quinze points, et la main.  
@@ -711,23 +711,23 @@ Sans pouvoir, de dépit, proférer un seul mot.
 Morbleu fais-moi raison de ce coup effroyable.  
 À moins que l'avoir vu, peut-il être croyable ?  
 
-    ÉRASTE
+    ÉRASTE.
 C'est dans le jeu, qu'on voit les plus grands coups du sort.  
 
-    ALCIPE
+    ALCIPE.
 Parbleu tu jugeras, toi-même, si j'ai tort ;  
 Et si c'est sans raison, que ce coup me transporte ;  
 Car voici nos deux jeux, qu'exprès sur moi je porte.  
 Tiens, c'est ici mon port, comme je te l'ai dit ;  
 Et voici…  
 
-    ÉRASTE
-J'ai compris le tout, par ton récit,  
+    ÉRASTE.
+        J'ai compris le tout, par ton récit,  
 Et vois de la justice au transport qui t'agite ;  
 Mais, pour certaine affaire, il faut que je te quitte :  
 Adieu console-toi, pourtant, de ton malheur.  
 
-    ALCIPE
+    ALCIPE.
 Qui moi ? J'aurai toujours ce coup-là sur le cœur :  
 Et c'est pour ma raison, pis qu'un coup de tonnerre.  
 Je le veux faire, moi, voir à toute la terre.  
@@ -735,88 +735,88 @@ Il s'en va, et prêt à rentrer, il dit par réflexion.
 
 Un six de cœur ! deux points !  
 
-    ÉRASTE
-En quel lieu sommes-nous !  
+    ÉRASTE.
+        En quel lieu sommes-nous !  
 De quelque part qu'on tourne, on ne voit que des fous.  
 Ah ! que tu fais languir ma juste impatience.  
 
 
-### Scène III
+### Scène III.
 La Montagne, Éraste.
 
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Monsieur, je n'ai pu faire une autre diligence.  
 
-    ÉRASTE
+    ÉRASTE.
 Mais me rapportes-tu quelque nouvelle enfin ?  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Sans doute ; et de l'objet qui fait votre destin,  
 J'ai, par un ordre exprès, quelque chose à vous dire.  
 
-    ÉRASTE
+    ÉRASTE.
 Et quoi ? déjà mon cœur après ce mot soupire,  
 Parle.  
 
-    LA MONTAGNE
-Souhaitez-vous de savoir ce que c'est ?  
+    LA MONTAGNE.
+        Souhaitez-vous de savoir ce que c'est ?  
 
-    ÉRASTE
+    ÉRASTE.
 Oui, dis vite.  
 
-    LA MONTAGNE
-Monsieur, attendez, s'il vous plaît.  
+    LA MONTAGNE.
+        Monsieur, attendez, s'il vous plaît.  
 Je me suis, à courir, presque mis hors d'haleine.  
 
-    ÉRASTE
+    ÉRASTE.
 Prends-tu quelque plaisir à me tenir en peine ?  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Puisque vous désirez de savoir promptement  
 L'ordre que j'ai reçu de cet objet charmant,  
-Je vous dirai... Ma foi, sans vous vanter mon zèle,  
+Je vous dirai… Ma foi, sans vous vanter mon zèle,  
 J'ai bien fait du chemin, pour trouver cette belle,  
 Et si…  
 
-    ÉRASTE
-Peste soit fait de tes digressions.  
+    ÉRASTE.
+        Peste soit fait de tes digressions.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Ah ! il faut modérer un peu ses passions,  
 Et Sénèque…  
 
-    ÉRASTE
-Sénèque est un sot dans ta bouche,  
+    ÉRASTE.
+        Sénèque est un sot dans ta bouche,  
 Puisqu'il ne me dit rien de tout ce qui me touche.  
 Dis-moi ton ordre, tôt.  
 
-    LA MONTAGNE
-Pour contenter vos vœux,  
+    LA MONTAGNE.
+        Pour contenter vos vœux,  
 Votre Orphise… Une bête est là dans vos cheveux.  
 
-    ÉRASTE
+    ÉRASTE.
 Laisse.  
 
-    LA MONTAGNE
-Cette beauté de sa part vous fait dire…  
+    LA MONTAGNE.
+        Cette beauté de sa part vous fait dire…  
 
-    ÉRASTE
+    ÉRASTE.
 Quoi !  
 
-    LA MONTAGNE
-Devinez.  
+    LA MONTAGNE.
+    Devinez.  
 
-    ÉRASTE
-Sais-tu que je ne veux pas rire ?  
+    ÉRASTE.
+        Sais-tu que je ne veux pas rire ?  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Son ordre est qu'en ce lieu vous devez vous tenir,  
 Assuré que dans peu vous l'y verrez venir,  
 Lorsqu'elle aura quitté quelques provinciales,  
 Aux personnes de Cour fâcheuses animales.  
 
-    ÉRASTE
+    ÉRASTE.
 Tenons-nous donc au lieu qu'elle a voulu choisir :  
 Mais, puisque l'ordre ici m'offre quelque loisir,  
 Laisse-moi méditer, j'ai dessein de lui faire  
@@ -825,23 +825,23 @@ Il se promène en rêvant.
 
 
 
-### Scène IV
+### Scène IV.
 Orante, Climène, Éraste.
 
 
-    ORANTE
+    ORANTE.
 Tout le monde sera de mon opinion.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Croyez-vous l'emporter par obstination ?  
 
-    ORANTE
+    ORANTE.
 Je pense mes raisons meilleures que les vôtres.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Je voudrais qu'on ouît les unes et les autres.  
 
-    ORANTE
+    ORANTE.
 J'avise un homme ici qui n'est pas ignorant ;  
 Il pourra nous juger sur notre différend.  
 Marquis, de grâce, un mot : Souffrez qu'on vous appelle,  
@@ -849,64 +849,64 @@ Pour être, entre nous deux, juge d'une querelle,
 D'un débat, qu'ont ému nos divers sentiments,  
 Sur ce qui peut marquer les plus parfaits Amants.  
 
-    ÉRASTE
+    ÉRASTE.
 C'est une question à vider difficile,  
 Et vous devez chercher un Juge plus habile.  
 
-    ORANTE
+    ORANTE.
 Non : vous nous dites là d'inutiles chansons :  
 Votre esprit fait du bruit, et nous vous connaissons ;  
 Nous savons que chacun vous donne à juste titre…  
 
-    ÉRASTE
+    ÉRASTE.
 Hé de grâce…  
 
-    ORANTE
-En un mot vous serez notre arbitre,  
+    ORANTE.
+        En un mot vous serez notre arbitre,  
 Et ce sont deux moments qu'il vous faut nous donner.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Vous retenez ici qui vous doit condamner :  
 Car enfin, s'il est vrai ce que j'en ose croire,  
 Monsieur, à mes raisons, donnera la victoire.  
 
-    ÉRASTE
+    ÉRASTE.
 Que ne puis-je à mon traître inspirer le souci,  
 D'inventer quelque chose à me tirer d'ici !  
 
-    ORANTE
+    ORANTE.
 Pour moi, de son esprit j'ai trop bon témoignage,  
 Pour craindre qu'il prononce à mon désavantage.  
 Enfin ce grand débat qui s'allume entre nous,  
 Est de savoir s'il faut qu'un Amant soit jaloux.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Ou, pour mieux expliquer ma pensée et la vôtre,  
 Lequel doit plaire plus d'un jaloux ou d'un autre.  
 
-    ORANTE
+    ORANTE.
 Pour moi, sans contredit, je suis pour le dernier.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Et dans mon sentiment je tiens pour le premier.  
 
-    ORANTE
+    ORANTE.
 Je crois que notre cœur doit donner son suffrage,  
 À qui fait éclater du respect davantage.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Et moi, que si nos vœux doivent paraître au jour,  
 C'est pour celui qui fait éclater plus d'amour.  
 
-    ORANTE
+    ORANTE.
 Oui, mais on voit l'ardeur dont une âme est saisie.  
 Bien mieux dans le respect, que dans la jalousie.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Et c'est mon sentiment, que qui s'attache à nous,  
 Nous aime d'autant plus, qu'il se montre jaloux.  
 
-    ORANTE
+    ORANTE.
 Fi ne me parlez point, pour être Amants, Climène,  
 De ces gens dont l'amour est fait comme la haine,  
 Et, qui pour tous respects, et toute offre de vœux,  
@@ -926,7 +926,7 @@ Et se font les tyrans de leurs propres vainqueurs.
 Moi je veux des Amants que le respect inspire ;  
 Et leur soumission marque mieux notre empire.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Fi ne me parlez point, pour être vrais Amants,  
 De ces gens, qui pour nous n'ont nuls emportements ;  
 De ces tièdes Galants, de qui les cœurs paisibles,  
@@ -948,77 +948,77 @@ S'excuser de l'éclat qu'il a fait contre nous,
 Ses pleurs, son désespoir d'avoir pu nous déplaire,  
 Est un charme à calmer toute notre colère.  
 
-    ORANTE
+    ORANTE.
 Si pour vous plaire il faut beaucoup d'emportement,  
 Je sais qui vous pourrait donner contentement ;  
 Et je connais des gens dans Paris plus de quatre  
 Qui, comme ils le font voir, aiment jusques à battre.  
 
-    CLIMÈNE
+    CLIMÈNE.
 Si pour vous plaire il faut n'être jamais jaloux,  
 Je sais certaines gens fort commodes pour vous ;  
 Des hommes en amour d'une humeur si souffrante,  
 Qu'ils vous verraient sans peine entre les bras de trente.  
 
-    ORANTE
+    ORANTE.
 Enfin, par votre arrêt vous devez déclarer,  
 Celui de qui l'amour vous semble à préférer.  
 
-    ÉRASTE
+    ÉRASTE.
 Puisqu'à moins d'un arrêt je ne m'en puis défaire,  
 Toutes deux à la fois je vous veux satisfaire ;  
 Et pour ne point blâmer ce qui plaît à vos yeux,  
 Le jaloux aime plus, et l'autre aime bien mieux.  
 
-    CLIMÈNE
+    CLIMÈNE.
 L'arrêt est plein d'esprit ; mais…  
 
-    ÉRASTE
-Suffit, j'en suis quitte.  
+    ÉRASTE.
+        Suffit, j'en suis quitte.  
 Après ce que j'ai dit, souffrez que je vous quitte.  
 
 
-### Scène V
+### Scène V.
 Orphise, Éraste.
 
 
-    ÉRASTE
+    ÉRASTE.
 Que vous tardez, Madame, et que j'éprouve bien…  
 
-    ORPHISE
+    ORPHISE.
 Non, non, ne quittez pas un si doux entretien.  
 À tort vous m'accusez d'être trop tard venue,  
 Et vous avez de quoi vous passer de ma vue.  
 
-    ÉRASTE
+    ÉRASTE.
 Sans sujet contre moi voulez-vous vous aigrir,  
 Et me reprochez-vous ce qu'on me fait souffrir ?  
 Ha ! de grâce attendez…  
 
-    ORPHISE
-Laissez-moi, je vous prie,  
+    ORPHISE.
+        Laissez-moi, je vous prie,  
 Et courez vous rejoindre à votre compagnie.  
 Elle sort.
 
 
-    ÉRASTE
+    ÉRASTE.
 Ciel ! faut-il qu'aujourd'hui Fâcheuses, et Fâcheux,  
 Conspirent à troubler les plus chers de mes vœux !  
 Mais allons sur ses pas, malgré sa résistance,  
 Et faisons à ses yeux briller notre innocence.  
 
 
-### Scène VI
+### Scène VI.
 Dorante, Éraste.
 
 
-    DORANTE
+    DORANTE.
 Ha Marquis que l'on voit de Fâcheux tous les jours,  
 Venir de nos plaisirs interrompre le cours !  
 Tu me vois enragé d'une assez belle chasse,  
-Qu'un fat... C'est un récit qu'il faut que je te fasse.  
+Qu'un fat… C'est un récit qu'il faut que je te fasse.  
 
-    ÉRASTE
+    ÉRASTE.
 Je cherche ici quelqu'un, et ne puis m'arrêter.  
 
     DORANTE, *le retenant*.
@@ -1058,10 +1058,10 @@ Il vient à la Forêt. Nous lui donnons alors
 La vieille meute ; et moi, je prends en diligence  
 Mon Cheval Alezan. Tu l'as vu ?  
 
-    ÉRASTE
-Non je pense.  
+    ÉRASTE.
+        Non je pense.  
 
-    DORANTE
+    DORANTE.
 Comment ? C'est un Cheval aussi bon qu'il est beau,  
 Et que ces jours passés j'achetai de Gaveau.  
 Je te laisse à penser, si, sur cette matière,  
@@ -1129,51 +1129,51 @@ Que j'ai donné des deux à mon cheval, de rage,
 Et m'en suis revenu chez moi toujours courant,  
 Sans vouloir dire un mot à ce sot ignorant.  
 
-    ÉRASTE
+    ÉRASTE.
 Tu ne pouvais mieux faire, et ta prudence est rare :  
 C'est ainsi des Fâcheux, qu'il faut qu'on se sépare ;  
 Adieu.  
 
-    DORANTE
-Quand tu voudras, nous irons quelque part,  
+    DORANTE.
+        Quand tu voudras, nous irons quelque part,  
 Où nous ne craindrons point de chasseur Campagnard.  
 
-    ÉRASTE
+    ÉRASTE.
 Fort bien. Je crois qu'enfin je perdrai patience.  
-Cherchons à m'excuser avecque diligence.  < Fin du deuxième Acte. >
+Cherchons à m'excuser avec diligence.  < Fin du deuxième Acte. >
 
 
-## Ballet du Second Acte
+## Ballet du Second Acte.
 
 
-### Première Entrée
+### Première Entrée.
 Des Joueurs de Boule l'arrêtent pour mesurer un coup, dont ils sont en dispute. Il se défait d'eux avec peine, et leur laisse danser un pas, composé de toutes les postures qui sont ordinaires à ce Jeu.
 
 
 
-### Deuxième Entrée
+### Deuxième Entrée.
 De petits Frondeurs les viennent interrompre qui sont chassés ensuite
 
 
 
-### Troisième Entrée
+### Troisième Entrée.
 Par des Savetiers et des Savetières, leurs pères, et autres qui sont aussi chassés à leur tour
 
 
 
-### Quatrième Entrée
+### Quatrième Entrée.
 Par un Jardinier qui danse seul, et se retire pour faire place au troisième Acte.
 
 
 
-## Acte III
+## Acte III.
 
 
-### Scène Première
+### Scène Première.
 Éraste, La Montagne.
 
 
-    ÉRASTE
+    ÉRASTE.
 Il est vrai, d'un côté mes soins ont réussi :  
 Cet adorable objet enfin s'est adouci :  
 Mais d'un autre on m'accable, et les Astres sévères,  
@@ -1193,34 +1193,34 @@ Lorsqu'il est défendu, devient grâce suprême.
 Je vais au rendez-vous : c'en est l'heure, à peu près :  
 Puis, je veux m'y trouver plutôt avant qu'après.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Suivrai-je vos pas ?  
 
-    ÉRASTE
-Non, je craindrais que peut-être  
+    ÉRASTE.
+        Non, je craindrais que peut-être  
 À quelques yeux suspects, tu me fisses connaître.  
 
-    LA MONTAGNE
+    LA MONTAGNE.
 Mais…  
 
-    ÉRASTE
-Je ne le veux pas.  
+    ÉRASTE.
+    Je ne le veux pas.  
 
-    LA MONTAGNE
-Je dois suivre vos lois :  
+    LA MONTAGNE.
+        Je dois suivre vos lois :  
 Mais au moins si de loin…  
 
-    ÉRASTE
-Te tairas-tu, vingt fois ?  
+    ÉRASTE.
+        Te tairas-tu, vingt fois ?  
 Et ne veux-tu jamais quitter cette méthode,  
 De te rendre, à toute heure, un valet incommode !  
 
 
-### Scène II
+### Scène II.
 Caritidès, Éraste.
 
 
-    CARITIDÈS
+    CARITIDÈS.
 Monsieur, le temps répugne à l'honneur de vous voir.  
 Le matin est plus propre à rendre un tel devoir :  
 Mais de vous rencontrer il n'est pas bien facile ;  
@@ -1230,27 +1230,27 @@ Et j'ai, pour vous trouver, pris l'heure que voici.
 Encore est-ce un grand heur, dont le destin m'honore ;  
 Car deux moments plus tard, je vous manquais encore.  
 
-    ÉRASTE
+    ÉRASTE.
 Monsieur, souhaitez-vous quelque chose de moi ?  
 
-    CARITIDÈS
+    CARITIDÈS.
 Je m'acquitte, Monsieur, de ce que je vous dois ;  
-Et vous viens... Excusez l'audace, qui m'inspire,  
+Et vous viens… Excusez l'audace, qui m'inspire,  
 Si…  
 
-    ÉRASTE
-Sans tant de façons, qu'avez-vous à me dire ?  
+    ÉRASTE.
+        Sans tant de façons, qu'avez-vous à me dire ?  
 
-    CARITIDÈS
+    CARITIDÈS.
 Comme le rang, l'esprit, la générosité,  
 Que chacun vante en vous…  
 
-    ÉRASTE
-Oui je suis fort vanté,  
+    ÉRASTE.
+        Oui je suis fort vanté,  
 Passons, Monsieur.  
 
-    CARITIDÈS
-Monsieur, c'est une peine extrême,  
+    CARITIDÈS.
+        Monsieur, c'est une peine extrême,  
 Lorsqu'il faut à quelqu'un se produire soi-même,  
 Et toujours, près des Grands, on doit être introduit,  
 Par des gens, qui de nous fassent un peu de bruit ;  
@@ -1259,11 +1259,11 @@ Ce qui peut faire voir notre petit mérite :
 Enfin j'aurais voulu que des gens bien instruits,  
 Vous eussent pu, Monsieur, dire ce que je suis.  
 
-    ÉRASTE
+    ÉRASTE.
 Je vois assez, Monsieur, ce que vous pouvez être,  
 Et votre seul abord le peut faire connaître.  
 
-    CARITIDÈS
+    CARITIDÈS.
 Oui je suis un savant charmé de vos vertus.  
 Non pas de ces savants, dont le nom n'est qu'en *us* :  
 Il n'est rien si commun, qu'un nom à la Latine.  
@@ -1271,28 +1271,28 @@ Ceux qu'on habille en Grec ont bien meilleure mine ;
 Et pour en avoir un qui se termine en *ès*,  
 Je me fais appeler Monsieur Caritidès.  
 
-    ÉRASTE
+    ÉRASTE.
 Monsieur Caritidès soit. Qu'avez-vous à dire ?  
 
-    CARITIDÈS
+    CARITIDÈS.
 C'est un placet, Monsieur, que je voudrais vous lire ;  
 Et que dans la posture, où vous met votre emploi,  
 J'ose vous conjurer de présenter au Roi.  
 
-    ÉRASTE
+    ÉRASTE.
 Hé ! Monsieur, vous pouvez le présenter vous-même.  
 
-    CARITIDÈS
+    CARITIDÈS.
 Il est vrai que le Roi fait cette grâce extrême ;  
 Mais par ce même excès de ses rares bontés,  
 Tant de méchants placets, Monsieur, sont présentés,  
 Qu'ils étouffent les bons, et l'espoir où je fonde,  
 Est qu'on donne le mien, quand le Prince est sans monde.  
 
-    ÉRASTE
+    ÉRASTE.
 Eh bien vous le pouvez, et prendre votre temps.  
 
-    CARITIDÈS
+    CARITIDÈS.
 Ah Monsieur ! les Huissiers sont de terribles gens,  
 Ils traitent les Savants de faquins à nasardes ;  
 Et je n'en puis venir qu'à la salle des Gardes.  
@@ -1302,39 +1302,39 @@ Si je n'avais conçu l'espérance certaine,
 Qu'auprès de notre Roi vous serez mon Mécène.  
 Oui, votre crédit m'est un moyen assuré…  
 
-    ÉRASTE
+    ÉRASTE.
 Eh bien donnez-moi donc, je le présenterai.  
 
-    CARITIDÈS
+    CARITIDÈS.
 Le voici ; mais au moins oyez-en la lecture.  
 
-    ÉRASTE
-Non...  
+    ÉRASTE.
+Non…  
 
-    CARITIDÈS
-C'est pour être instruit : Monsieur, je vous conjure.  < AU ROI. >
+    CARITIDÈS.
+        C'est pour être instruit : Monsieur, je vous conjure.  < AU ROI. >
 
-Sire,
+SIRE,
 
 Votre très humble, très obéissant, très fidèle, et très savant sujet et serviteur Caritidès, Français de nation, Grec de profession ; Ayant considéré les grands et notables abus, qui se commettent aux inscriptions des enseignes des Maisons, Boutiques, Cabarets, Jeux de Boule, et autres lieux de votre bonne Ville de Paris ; en ce que certains ignorants compositeurs desdites inscriptions, renversent, par une barbare, pernicieuse et détestable orthographe toute sorte de sens et raison, sans aucun égard d'Étymologie, Analogie, Énergie, ni Allégorie quelconque ; au grand scandale de la République des Lettres, et de la nation Française, qui se décrie et déshonore par lesdits abus et fautes grossières, envers les Étrangers, et notamment envers les Allemands, curieux lecteurs, et inspectateurs desdites inscriptions.
 
-    ÉRASTE
+    ÉRASTE.
 Ce Placet est fort long et pourrait bien fâcher…  
 
-    CARITIDÈS
+    CARITIDÈS.
 Ah ! Monsieur pas un mot ne s'en peut retrancher.  
 
-    ÉRASTE
+    ÉRASTE.
 Achevez promptement.  
 
-    CARITIDÈS *continue* :
-Supplie humblement Votre Majesté de créer, pour le bien de son État, et la gloire de son Empire, une Charge de Contrôleur, Intendant, Correcteur, Réviseur, et Restaurateur général desdites inscriptions ; et d'icelle honorer le suppliant, tant en considération de son rare et éminent savoir, que des grands et signalés services qu'il a rendus à l'État, et à Votre Majesté, en faisant l'Anagramme de votre dite Majesté en Français, Latin, Grec, Hébreu, Syriaque, Chaldéen, Arabe...
+    CARITIDÈS *continue* :.
+Supplie humblement Votre Majesté de créer, pour le bien de son État, et la gloire de son Empire, une Charge de Contrôleur, Intendant, Correcteur, Réviseur, et Restaurateur général desdites inscriptions ; et d'icelle honorer le suppliant, tant en considération de son rare et éminent savoir, que des grands et signalés services qu'il a rendus à l'État, et à Votre Majesté, en faisant l'Anagramme de votre dite Majesté en Français, Latin, Grec, Hébreu, Syriaque, Chaldéen, Arabe…
 
-    ÉRASTE, *l'interrompant*
-Fort bien : donnez-le vite, et faites la retraite :  
+    ÉRASTE, *l'interrompant*.
+        Fort bien : donnez-le vite, et faites la retraite :  
 Il sera vu du Roi ; c'est une affaire faite.  
 
-    CARITIDÈS
+    CARITIDÈS.
 Hélas ! Monsieur, c'est tout que montrer mon placet.  
 Si le Roi le peut voir, je suis sûr de mon fait :  
 Car comme sa justice en toute chose est grande,  
@@ -1344,24 +1344,24 @@ Donnez-moi par écrit votre nom, et surnom,
 J'en veux faire un poème, en forme d'acrostiche,  
 Dans les deux bouts un Vers, et dans chaque hémistiche.  
 
-    ÉRASTE
+    ÉRASTE.
 Oui, vous l'aurez demain, Monsieur Caritidès.  
 Ma foi de tels savants sont des ânes bien faits.  
 J'aurais dans d'autres temps bien ri de sa sottise…  
 
 
-### Scène III
+### Scène III.
 Ormin, Éraste.
 
 
-    ORMIN
+    ORMIN.
 Bien qu'une grande affaire en ce lieu me conduise,  
 J'ai voulu qu'il sortît, avant que vous parler.  
 
-    ÉRASTE
+    ÉRASTE.
 Fort bien, mais dépêchons, car je veux m'en aller.  
 
-    ORMIN
+    ORMIN.
 Je me doute à peu près que l'homme qui vous quitte  
 Vous a fort ennuyé, Monsieur, par sa visite.  
 C'est un vieux importun, qui n'a pas l'esprit sain,  
@@ -1373,13 +1373,13 @@ De tous ces savantas, qui ne sont bons à rien.
 Pour moi je ne crains pas, que je vous importune,  
 Puisque je viens, Monsieur, faire votre fortune.  
 
-    ÉRASTE
+    ÉRASTE.
 Voici quelque souffleur, de ces gens qui n'ont rien ;  
 Et vous viennent toujours promettre tant de bien.  
 Vous avez fait, Monsieur, cette bénite pierre,  
 Qui peut, seule, enrichir tous les Rois de la terre ?  
 
-    ORMIN
+    ORMIN.
 La plaisante pensée, hélas, où vous voilà !  
 Dieu me garde, Monsieur, d'être de ces fous-là.  
 Je ne me repais point de visions frivoles,  
@@ -1398,27 +1398,27 @@ Enfin c'est un avis d'un gain inconcevable,
 Et que du premier mot on trouvera faisable.  
 Oui, pourvu que par vous je puisse être poussé…  
 
-    ÉRASTE
+    ÉRASTE.
 Soit, nous en parlerons, je suis un peu pressé.  
 
-    ORMIN
+    ORMIN.
 Si vous me promettiez de garder le silence,  
 Je vous découvrirais cet avis d'importance.  
 
-    ÉRASTE
+    ÉRASTE.
 Non, non, je ne veux point savoir votre secret.  
 
-    ORMIN
+    ORMIN.
 Monsieur, pour le trahir, je vous crois trop discret,  
 Et veux, avec franchise, en deux mots vous l'apprendre.  
 Il faut voir si quelqu'un ne peut point nous entendre.  
 Cet avis merveilleux, dont je suis l'inventeur,  
 Est que…  
 
-    ÉRASTE
-D'un peu plus loin, et pour cause, Monsieur.  
+    ÉRASTE.
+        D'un peu plus loin, et pour cause, Monsieur.  
 
-    ORMIN
+    ORMIN.
 Vous voyez le grand gain, sans qu'il faille le dire,  
 Que de ces ports de mer le Roi tous les ans tire.  
 Or l'avis dont encor nul ne s'est avisé,  
@@ -1427,144 +1427,144 @@ En fameux ports de mer, mettre toutes les côtes.
 Ce serait pour monter à des sommes très hautes,  
 Et si…  
 
-    ÉRASTE
-L'avis est bon, et plaira fort au Roi.  
+    ÉRASTE.
+        L'avis est bon, et plaira fort au Roi.  
 Adieu, nous nous verrons.  
 
-    ORMIN
-Au moins appuyez-moi,  
+    ORMIN.
+        Au moins appuyez-moi,  
 Pour en avoir ouvert les premières paroles.  
 
-    ÉRASTE
+    ÉRASTE.
 Oui, oui.  
 
-    ORMIN
-Si vous vouliez me prêter deux pistoles,  
+    ORMIN.
+        Si vous vouliez me prêter deux pistoles,  
 Que vous reprendriez sur le droit de l'avis,  
 Monsieur…  
 
-    ÉRASTE
-Oui, volontiers. Plût à Dieu qu'à ce prix,  
+    ÉRASTE.
+        Oui, volontiers. Plût à Dieu qu'à ce prix,  
 De tous les Importuns je pusse me voir quitte !  
 Voyez quel contretemps prend ici leur visite !  
 Je pense qu'à la fin je pourrai bien sortir.  
 Viendra-t-il point quelqu'un encor me divertir ?  
 
 
-### Scène IV
+### Scène IV.
 Filinte, Éraste.
 
 
-    FILINTE
+    FILINTE.
 Marquis, je viens d'apprendre une étrange nouvelle.  
 
-    ÉRASTE
+    ÉRASTE.
 Quoi ?  
 
-    FILINTE
-Qu'un homme, tantôt, t'a fait une querelle.  
+    FILINTE.
+        Qu'un homme, tantôt, t'a fait une querelle.  
 
-    ÉRASTE
+    ÉRASTE.
 À moi ?  
 
-    FILINTE
-Que te sert-il de le dissimuler ?  
+    FILINTE.
+        Que te sert-il de le dissimuler ?  
 Je sais de bonne part qu'on t'a fait appeler ;  
 Et comme ton ami, quoi qu'il en réussisse,  
 Je te viens, contre tous, faire offre de service.  
 
-    ÉRASTE
+    ÉRASTE.
 Je te suis obligé ; mais crois que tu me fais…  
 
-    FILINTE
+    FILINTE.
 Tu ne l'avoueras pas, mais tu sors sans valets :  
 Demeure dans la ville, ou gagne la campagne,  
 Tu n'iras nulle part que je ne t'accompagne.  
 
-    ÉRASTE
+    ÉRASTE.
 Ah j'enrage.  
 
-    FILINTE
-À quoi bon de te cacher de moi ?  
+    FILINTE.
+        À quoi bon de te cacher de moi ?  
 
-    ÉRASTE
+    ÉRASTE.
 Je te jure, Marquis, qu'on s'est moqué de toi.  
 
-    FILINTE
+    FILINTE.
 En vain tu t'en défends.  
 
-    ÉRASTE
-Que le Ciel me foudroie.  
+    ÉRASTE.
+        Que le Ciel me foudroie.  
 Si d'aucun démêlé…  
 
-    FILINTE
-Tu penses qu'on te croie ?  
+    FILINTE.
+        Tu penses qu'on te croie ?  
 
-    ÉRASTE
+    ÉRASTE.
 Eh mon Dieu ! je te dis, et ne déguise point,  
 Que…  
 
-    FILINTE
-Ne me crois pas dupe, et crédule à ce point.  
+    FILINTE.
+        Ne me crois pas dupe, et crédule à ce point.  
 
-    ÉRASTE
+    ÉRASTE.
 Veux-tu m'obliger ?  
 
-    FILINTE
-Non.  
+    FILINTE.
+    Non.  
 
-    ÉRASTE
-Laisse-moi, je te prie.  
+    ÉRASTE.
+        Laisse-moi, je te prie.  
 
-    FILINTE
+    FILINTE.
 Point d'affaire, Marquis.  
 
-    ÉRASTE
-Une galanterie,  
+    ÉRASTE.
+        Une galanterie,  
 En certain lieu, ce soir…  
 
-    FILINTE
-Je ne te quitte pas :  
+    FILINTE.
+        Je ne te quitte pas :  
 En quel lieu que ce soit, je veux suivre tes pas.  
 
-    ÉRASTE
+    ÉRASTE.
 Parbleu, puisque tu veux que j'aie une querelle,  
 Je consens à l'avoir pour contenter ton zèle :  
 Ce sera contre toi qui me fais enrager,  
 Et dont je ne me puis par douceur dégager.  
 
-    FILINTE
+    FILINTE.
 C'est fort mal d'un ami recevoir le service :  
 Mais, puisque je vous rends un si mauvais office,  
 Adieu, videz sans moi tout ce que vous aurez.  
 
-    ÉRASTE
+    ÉRASTE.
 Vous serez mon ami quand vous me quitterez.  
 Mais voyez quels malheurs suivent ma destinée !  
 Ils m'auront fait passer l'heure qu'on m'a donnée.  
 
 
-### Scène V
+### Scène V.
 Damis, L'Épine, Éraste, La Rivière.
 
 
-    DAMIS
+    DAMIS.
 Quoi, malgré moi, le traître espère l'obtenir ?  
 Ah ! mon juste courroux le saura prévenir.  
 
-    ÉRASTE
+    ÉRASTE.
 J'entrevois là quelqu'un sur la porte d'Orphise.  
 Quoi toujours quelque obstacle aux feux qu'elle autorise !  
 
-    DAMIS
+    DAMIS.
 Oui, j'ai su que ma Nièce, en dépit de mes soins,  
 Doit voir ce soir chez elle Éraste sans témoins.  
 
-    LA RIVIÈRE
+    LA RIVIÈRE.
 Qu'entends-je à ces gens-là dire de notre Maître ?  
 Approchons doucement, sans nous faire connaître.  
 
-    DAMIS
+    DAMIS.
 Mais avant qu'il ait lieu d'achever son dessein,  
 Il faut, de mille coups, percer son traître sein.  
 Va-t-en faire venir ceux que je viens de dire,  
@@ -1578,29 +1578,29 @@ Et noyer dans son sang sa flamme criminelle.
 Avant qu'à tes fureurs on puisse l'immoler,  
 Traître tu trouveras en nous à qui parler.  
 
-    ÉRASTE, *mettant l'épée à la main.*
+    ÉRASTE, *mettant l'épée à la main.*.
 Bien qu'il m'ait voulu perdre, un point d'honneur me presse  
 De secourir ici l'oncle de ma Maîtresse.  
 Je suis à vous, Monsieur.  
 
     DAMIS *après leur fuite*.
-Ô Ciel, par quel secours,  
+        Ô Ciel, par quel secours,  
 D'un trépas assuré vois-je sauver mes jours !  
 À qui suis-je obligé d'un si rare service ?  
 
-    ÉRASTE
+    ÉRASTE.
 Je n'ai fait, vous servant, qu'un acte de justice.  
 
-    DAMIS
+    DAMIS.
 Ciel ! puis-je à mon oreille ajouter quelque foi ?  
 Est-ce la main d'Éraste…  
 
-    ÉRASTE
-Oui, oui, Monsieur, c'est moi.  
+    ÉRASTE.
+        Oui, oui, Monsieur, c'est moi.  
 Trop heureux, que ma main vous ait tiré de peine,  
 Trop malheureux d'avoir mérité votre haine.  
 
-    DAMIS
+    DAMIS.
 Quoi celui, dont j'avais résolu le trépas,  
 Est celui, qui, pour moi, vient d'employer son bras ?  
 Ah ! c'en est trop, mon cœur est contraint de se rendre ;  
@@ -1613,56 +1613,56 @@ Et pour la condamner par un éclat fameux,
 Je vous joins, dès ce soir, à l'objet de vos vœux.  
 
 
-### Scène VI
+### Scène VI.
 Orphise, Damis, Éraste, *suite.*
 
 
     ORPHISE, *venant avec un flambeau d'argent à la main*.
 Monsieur, quelle aventure a d'un trouble effroyable…  
 
-    DAMIS
+    DAMIS.
 Ma Nièce elle n'a rien que de très agréable,  
 Puisque après tant de vœux que j'ai blâmés en vous,  
 C'est elle qui vous donne Éraste pour Époux.  
 Son bras a repoussé le trépas, que j'évite ;  
 Et je veux, envers lui, que votre main m'acquitte.  
 
-    ORPHISE
+    ORPHISE.
 Si c'est pour lui payer ce que vous lui devez,  
 J'y consens, devant tout, aux jours qu'il a sauvés.  
 
-    ÉRASTE
+    ÉRASTE.
 Mon cœur est si surpris d'une telle merveille,  
 Qu'en ce ravissement, je doute, si je veille.  
 
-    DAMIS
+    DAMIS.
 Célébrons l'heureux sort, dont vous allez jouir ;  
 Et que nos violons viennent nous réjouir.  
 Comme les Violons veulent jouer, on frappe à la porte.
 
 
-    ÉRASTE
+    ÉRASTE.
 Qui frappe là si fort.  
 
-    L’ÉPINE
-Monsieur ce sont des Masques,  
+    L’ÉPINE.
+        Monsieur ce sont des Masques,  
 Qui portent des crin-crins, et des tambours de Basques.  
 Les Masques entrent qui occupent toute la place.
 
 
-    ÉRASTE
+    ÉRASTE.
 Quoi toujours des Fâcheux, holà Suisses, ici,  
 Qu'on me fasse sortir ces gredins que voici.  < Fin >
 
 
-## Ballet du Troisième Acte
+## Ballet du Troisième Acte.
 
 
-### Première Entrée
-Des Suisses avec des hallebardes chassent tous les Masques Fâcheux, et se retirent ensuite pour laisser danser à leur aise.
+### Première Entrée.
+Des Suisses avec des hallebardes chassent tous les Masques Fâcheux, et se retirent ensuite pour laisser danser à leur aise
 
 
 
-### Dernière Entrée
+### Dernière Entrée.
 Quatre Bergers, et une Bergère, qui au sentiment de tous ceux qui l'ont vue, ferment le divertissement d'assez bonne grâce.
 
